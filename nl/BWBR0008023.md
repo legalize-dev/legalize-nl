@@ -4,7 +4,7 @@ identifier: "BWBR0008023"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2009-10-01"
+last_updated: "2010-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008023"
 soort: "ministeriele-regeling"
@@ -50,40 +50,40 @@ Deze regeling treedt in werking met ingang van 1 juni 1996.
 
 Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 
-## Maximum prijzen dd. 21-08-2009
+## Bijlage
 
 | Productgroep |   | Maximumprijs |
 | --- | --- | --- |
-| ABACAVIR-20-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | ABACAVIR-20-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.33464800 per ml |
+| ABACAVIR-20-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | ABACAVIR-20-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.33390000 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/99/112/002 | Ziagen drank 20mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| ABACAVIR-300-MG-TABLET | ABACAVIR-300-MG-TABLET | 4.89895400 per stuk |
+| ABACAVIR-300-MG-TABLET | ABACAVIR-300-MG-TABLET | 4.87059400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/99/112/001 | Ziagen tablet 300mg |   |
 | Productgroep |   | Maximumprijs |
-| ABATACEPT-250-MG-POED. V. INFUSIE,FLACON | ABATACEPT-250-MG-POED. V. INFUSIE,FLACON | 378.05757600 per st |
+| ABATACEPT-250-MG-POED. V. INFUSIE, FLACON | ABATACEPT-250-MG-POED. V. INFUSIE, FLACON | 385.29116500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/07/389/001 | Orencia infpdr flacon 250mg |   |
 | Productgroep |   | Maximumprijs |
-| ACAMPROSATE-333-MG-TABLET, MAAGSAPRESISTENT | ACAMPROSATE-333-MG-TABLET, MAAGSAPRESISTENT | 0.25359500 per stuk |
+| ACAMPROSATE-333-MG-TABLET, MAAGSAPRESISTENT | ACAMPROSATE-333-MG-TABLET, MAAGSAPRESISTENT | 0.25051000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 18220 | Campral tablet msr 333mg |   |
 | 33770/18220 | Campral tablet msr 333mg |   |
 | 34963/18220 | Campral tablet msr 333mg |   |
 | Productgroep |   | Maximumprijs |
-| ACARBOSE-100-MG-TABLET | ACARBOSE-100-MG-TABLET | 0.19870500 per stuk |
+| ACARBOSE-100-MG-TABLET | ACARBOSE-100-MG-TABLET | 0.19826400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12605 | Glucobay 100 tablet 100mg |   |
 | 23840/12605 | Glucobay 100 tablet 100mg |   |
 | 24522/12605 | Glucobay 100 tablet 100mg |   |
 | Productgroep |   | Maximumprijs |
-| ACARBOSE-50-MG-TABLET | ACARBOSE-50-MG-TABLET | 0.13886300 per stuk |
+| ACARBOSE-50-MG-TABLET | ACARBOSE-50-MG-TABLET | 0.13833100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12604 | Glucobay 50 tablet 50mg |   |
 | 23839/12604 | Glucobay 50 tablet 50mg |   |
 | Productgroep |   | Maximumprijs |
-| ACEBUTOLOL-200-MG-TABLET | ACEBUTOLOL-200-MG-TABLET | 0.11432300 per stuk |
+| ACEBUTOLOL-200-MG-TABLET | ACEBUTOLOL-200-MG-TABLET | 0.11378100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 14225 | Acebutolol pch tablet 200mg |   |
 | 18899=14225 | Acebutolol actavis tablet 200mg |   |
@@ -93,19 +93,19 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 24096=14225 | Acebutolol sandoz tablet 200mg |   |
 | 7318 | Sectral tablet 200mg |   |
 | Productgroep |   | Maximumprijs |
-| ACEBUTOLOL-400-MG-TABLET | ACEBUTOLOL-400-MG-TABLET | 0.34884200 per stuk |
+| ACEBUTOLOL-400-MG-TABLET | ACEBUTOLOL-400-MG-TABLET | 0.35825500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 14226 | Acebutolol pch tablet 400mg |   |
 | 22367=14226 | Acebutolol cf tablet 400mg |   |
 | 7650 | Sectral tablet 400mg |   |
 | Productgroep |   | Maximumprijs |
-| ACECLOFENAC-100-MG-TABLET | ACECLOFENAC-100-MG-TABLET | 0.19692600 per stuk |
+| ACECLOFENAC-100-MG-TABLET | ACECLOFENAC-100-MG-TABLET | 0.19202900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 19207 | Biofenac tablet omhuld 100mg |   |
 | 28367/19207 | Biofenac tablet omhuld 100mg |   |
 | 31041/19207 | Biofenac tablet omhuld 100mg |   |
 | Productgroep |   | Maximumprijs |
-| ACENOCOUMAROL-1-MG-TABLET | ACENOCOUMAROL-1-MG-TABLET | 0.03959900 per stuk |
+| ACENOCOUMAROL-1-MG-TABLET | ACENOCOUMAROL-1-MG-TABLET | 0.04048900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 18669=4464 | Acenocoumarol sandoz tablet 1mg |   |
 | 21245=50674 | Acenocoumarol pch tablet 1mg |   |
@@ -114,20 +114,16 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 4464 | Acenocoumarol sandoz tablet 1mg |   |
 | 50674 | Acenocoumarol cf tablet 1mg |   |
 | Productgroep |   | Maximumprijs |
-| ACETAZOLAMIDE-250-MG-TABLET | ACETAZOLAMIDE-250-MG-TABLET | 0.17713600 per stuk |
+| ACETAZOLAMIDE-250-MG-TABLET | ACETAZOLAMIDE-250-MG-TABLET | 0.17818100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 643 | Diamox tablet 250mg |   |
 | 9291 | Acetazolamide sandoz tablet 250mg |   |
-| Productgroep |   | Maximumprijs |
-| ACETYLCYSTEINE-100-MG/ML-INHALATIEVLOEISTOF | ACETYLCYSTEINE-100-MG/ML-INHALATIEVLOEISTOF | 0.12442200 per ml |
-| Registratienummer | Artikelnaam |   |
-| 6742 | Fluimucil inhvlst 100mg/ml ampul 4ml |   |
 | Productgroep |   | Maximumprijs |
 | ACETYLSALICYLIC ACID-100-MG-TABLET, MAAGSAPRESISTENT | ACETYLSALICYLIC ACID-100-MG-TABLET, MAAGSAPRESISTENT | 0.05443700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 20952 | Aspirine protect ec tablet msr 100mg |   |
 | Productgroep |   | Maximumprijs |
-| ACETYLSALICYLIC ACID-25-MG-CAPSULE, MET GEREGULEERDE AFGIFTE-DIPYRIDAMOLE-200-MG | ACETYLSALICYLIC ACID-25-MG-CAPSULE, MET GEREGULEERDE AFGIFTE-DIPYRIDAMOLE-200-MG | 0.22385300 per stuk |
+| ACETYLSALICYLIC ACID-25-MG-CAPSULE, MET GEREGULEERDE AFGIFTE-DIPYRIDAMOLE-200-MG | ACETYLSALICYLIC ACID-25-MG-CAPSULE, MET GEREGULEERDE AFGIFTE-DIPYRIDAMOLE-200-MG | 0.28173300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 21171 | Asasantin retard capsule mga 25/200mg |   |
 | 30543/21171 | Asasantin retard capsule mga 25/200mg |   |
@@ -135,7 +131,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 32300/21171 | Asasantin retard capsule mga 25/200mg |   |
 | 33850/21171 | Asasantin retard capsule mga 25/200mg |   |
 | Productgroep |   | Maximumprijs |
-| ACICLOVIR-200-MG-TABLET | ACICLOVIR-200-MG-TABLET | 0.36731300 per stuk |
+| ACICLOVIR-200-MG-TABLET | ACICLOVIR-200-MG-TABLET | 0.36883600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 18843 | Aciclovir cf tablet 200mg |   |
 | 19803 | Aciclovir sandoz tablet 200mg |   |
@@ -144,16 +140,16 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 19934 | Aciclovirum tablet 200mg |   |
 | 28660=19934 | Aciclovir a tablet 200mg |   |
 | Productgroep |   | Maximumprijs |
-| ACICLOVIR-30-MG/G-OOGZALF | ACICLOVIR-30-MG/G-OOGZALF | 2.05532300 per g |
+| ACICLOVIR-30-MG/G-OOGZALF | ACICLOVIR-30-MG/G-OOGZALF | 2.09038400 per g |
 | Registratienummer | Artikelnaam |   |
 | 22477 | Aciclovir rp oogzalf 30mg/g tube 4,5g |   |
 | 9248 | Zovirax oogzalf 30mg/g tube 4,5g |   |
 | Productgroep |   | Maximumprijs |
-| ACICLOVIR-40-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | ACICLOVIR-40-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.17532200 per ml |
+| ACICLOVIR-40-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | ACICLOVIR-40-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.18667100 per ml |
 | Registratienummer | Artikelnaam |   |
 | 12162 | Zovirax suspensie 40mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| ACICLOVIR-400-MG-TABLET | ACICLOVIR-400-MG-TABLET | 0.23039800 per stuk |
+| ACICLOVIR-400-MG-TABLET | ACICLOVIR-400-MG-TABLET | 0.23534000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 18844 | Aciclovir cf tablet 400mg |   |
 | 19804 | Aciclovir sandoz tablet 400mg |   |
@@ -162,55 +158,51 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 19935 | Aciclovirum tablet 400mg |   |
 | 28661=19935 | Aciclovir a tablet 400mg |   |
 | Productgroep |   | Maximumprijs |
-| ACICLOVIR-800-MG-TABLET | ACICLOVIR-800-MG-TABLET | 0.85598600 per stuk |
+| ACICLOVIR-800-MG-TABLET | ACICLOVIR-800-MG-TABLET | 0.84836200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 18845 | Aciclovir cf tablet 800mg |   |
 | 19741 | Aciclovir rp tablet 800mg |   |
 | 19805 | Aciclovir sandoz tablet 800mg |   |
 | 19835 | Aciclovir pch tablet 800mg |   |
 | Productgroep |   | Maximumprijs |
-| ACIPIMOX-250-MG-CAPSULE | ACIPIMOX-250-MG-CAPSULE | 0.42374300 per stuk |
+| ACIPIMOX-250-MG-CAPSULE | ACIPIMOX-250-MG-CAPSULE | 0.43088000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15314=13159 | Nedios capsule 250mg |   |
 | 26454/13159 | Olbetam capsule 250mg |   |
 | Productgroep |   | Maximumprijs |
-| ACITRETIN-10-MG-CAPSULE | ACITRETIN-10-MG-CAPSULE | 0.70876300 per stuk |
+| ACITRETIN-10-MG-CAPSULE | ACITRETIN-10-MG-CAPSULE | 0.72250500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13103 | Neotigason capsule 10mg |   |
 | 24561/13103 | Neotigason capsule 10mg |   |
 | 25929/13103 | Neotigason capsule 10mg |   |
 | Productgroep |   | Maximumprijs |
-| ACITRETIN-25-MG-CAPSULE | ACITRETIN-25-MG-CAPSULE | 1.55517400 per stuk |
+| ACITRETIN-25-MG-CAPSULE | ACITRETIN-25-MG-CAPSULE | 1.58343100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13104 | Neotigason capsule 25mg |   |
 | 24562/13104 | Neotigason capsule 25mg |   |
 | 25930/13104 | Neotigason capsule 25mg |   |
 | 26642/13104 | Neotigason capsule 25mg |   |
 | Productgroep |   | Maximumprijs |
-| ADAPALENE-1-MG/G-HUIDGEL | ADAPALENE-1-MG/G-HUIDGEL | 0.22728800 per g |
+| ADAPALENE-1-MG/G-HUIDGEL | ADAPALENE-1-MG/G-HUIDGEL | 0.23814200 per g |
 | Registratienummer | Artikelnaam |   |
 | 101190/32496 | Differin gel 1mg/g |   |
 | 32496 | Differin gel 1mg/g |   |
 | 35205/32496 | Differin gel 1mg/g |   |
 | Productgroep |   | Maximumprijs |
-| ADEFOVIR-10-MG-TABLET | ADEFOVIR-10-MG-TABLET | 15.34737600 per stuk |
+| ADEFOVIR-10-MG-TABLET | ADEFOVIR-10-MG-TABLET | 15.22310100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/03/251/001 | Hepsera tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| AGALSIDASE BETA-35-MG-POED. V. INFUSIE,FLACON | AGALSIDASE BETA-35-MG-POED. V. INFUSIE,FLACON | 3386.71897800 per stuk |
-| Registratienummer | Artikelnaam |   |
-| EU/1/01/188/001 | Fabrazyme infusiepoeder flacon 35mg |   |
-| Productgroep |   | Maximumprijs |
-| ALEMTUZUMAB-30-MG/ML-INFUUSVLOEISTOF, FLACON | ALEMTUZUMAB-30-MG/ML-INFUUSVLOEISTOF, FLACON | 415.81209000 per ml |
+| ALEMTUZUMAB-30-MG/ML-INFUUSVLOEISTOF, FLACON | ALEMTUZUMAB-30-MG/ML-INFUUSVLOEISTOF, FLACON | € 420,298853 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/01/193/002 | Mabcampath infvlst concentraat 30mg/ml flacon 1ml |   |
 | Productgroep |   | Maximumprijs |
-| ALENDRONIC ACID-10-MG-TABLET | ALENDRONIC ACID-10-MG-TABLET | 0.57890700 per stuk |
+| ALENDRONIC ACID-10-MG-TABLET | ALENDRONIC ACID-10-MG-TABLET | 0.58028900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 18021 | Fosamax tablet 10mg |   |
 | 31768 | Alendroninezuur pch tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| ALENDRONIC ACID-70-MG-TABLET | ALENDRONIC ACID-70-MG-TABLET | 3.53600300 per stuk |
+| ALENDRONIC ACID-70-MG-TABLET | ALENDRONIC ACID-70-MG-TABLET | 3.49900700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100351/26202 | Fosamax tablet 70mg |   |
 | 26202 | Fosamax tablet 70mg |   |
@@ -222,84 +214,85 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 33398 | Alendroninezuur sandoz tablet 70mg |   |
 | 34032 | Alendroninezuur a tablet 70mg |   |
 | Productgroep |   | Maximumprijs |
-| ALFACALCIDOL-.00025-MG-CAPSULE | ALFACALCIDOL-.00025-MG-CAPSULE | 0.20840800 per stuk |
+| ALFACALCIDOL-.00025-MG-CAPSULE | ALFACALCIDOL-.00025-MG-CAPSULE | 0.19350400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10890 | Alfacalcidol pch capsule 0,25mcg |   |
 | 29586/8318 | Alfacalcidol capsule 0,25mcg |   |
 | 8318 | Etalpha leo capsule 0,25mcg |   |
 | Productgroep |   | Maximumprijs |
-| ALFACALCIDOL-.001-MG-CAPSULE | ALFACALCIDOL-.001-MG-CAPSULE | 0.55779300 per stuk |
+| ALFACALCIDOL-.001-MG-CAPSULE | ALFACALCIDOL-.001-MG-CAPSULE | 0.55755100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10891 | Alfacalcidol pch capsule 1mcg |   |
 | 29585/7603 | Alfacalcidol capsule 1mcg |   |
 | 7603 | Etalpha leo capsule 1mcg |   |
 | Productgroep |   | Maximumprijs |
-| ALFACALCIDOL-.002-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | ALFACALCIDOL-.002-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 1.67404800 per ml |
+| ALFACALCIDOL-.002-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | ALFACALCIDOL-.002-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 1.71709200 per ml |
 | Registratienummer | Artikelnaam |   |
 | 9284 | Etalpha leo druppels 2mcg/ml |   |
 | Productgroep |   | Maximumprijs |
-| ALFUZOSIN-10-MG-TABLET, MET GEREGULEERDE AFGIFTE | ALFUZOSIN-10-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.43176000 per stuk |
+| ALFUZOSIN-10-MG-TABLET, MET GEREGULEERDE AFGIFTE | ALFUZOSIN-10-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.43784100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 23923 | Xatral xr tablet mva 10mg |   |
 | 28237=23923 | Alfuzosine hcl tablet mva 10mg |   |
 | 31128 | Alfuzosine hcl cf tablet mva 10mg |   |
 | 33134 | Alfuzosine hcl sandoz retard tablet mva 10mg |   |
-| 33407 | Alfuzosine hcl merck retard tablet mva 10mg |   |
+| 33407 | Alfuzosine hcl mylan retard tablet mva 10mg |   |
 | 33413 | Alfuzosine hcl rp tablet mva 10mg |   |
 | 34555 | Alfuzosine hcl actavis retard tablet mva 10mg |   |
 | Productgroep |   | Maximumprijs |
-| ALFUZOSIN-2.5-MG-TABLET | ALFUZOSIN-2.5-MG-TABLET | 0.32081500 per stuk |
+| ALFUZOSIN-2.5-MG-TABLET | ALFUZOSIN-2.5-MG-TABLET | 0.33695900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13689 | Xatral tablet 2,5mg |   |
 | 31635 | Alfuzosine hcl pch tablet 2,5mg |   |
 | Productgroep |   | Maximumprijs |
-| ALISKIREN-300-MG-TABLET | ALISKIREN-300-MG-TABLET | 0.96907600 per stuk |
+| ALISKIREN-300-MG-TABLET | ALISKIREN-300-MG-TABLET | 0.89420600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/07/405/013 | Rasilez tablet filmomhuld 300mg |   |
 | Productgroep |   | Maximumprijs |
-| ALIZAPRIDE-50-MG-TABLET | ALIZAPRIDE-50-MG-TABLET | 0.38316800 per stuk |
+| ALIZAPRIDE-50-MG-TABLET | ALIZAPRIDE-50-MG-TABLET | 0.39482700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10401 | Litican tablet 50mg |   |
 | Productgroep |   | Maximumprijs |
-| ALLOPURINOL-100-MG-TABLET | ALLOPURINOL-100-MG-TABLET | 0.03449900 per stuk |
+| ALLOPURINOL-100-MG-TABLET | ALLOPURINOL-100-MG-TABLET | 0.03508100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10376 | Allopurinol nyco tablet 100mg |   |
 | 20406 | Allopurinol actavis tablet 100mg |   |
 | 21495=6846 | Allopurinol cf tablet 100mg |   |
 | 25277 | Allopurinol rp tablet 100mg |   |
-| 28893=52185 | Allopurinol merck tablet 100mg |   |
+| 28893=52185 | Allopurinol mylan tablet 100mg |   |
+| 52185 | Allopurinol apotex tablet 100mg |   |
 | 52185 | Allopurinol tablet 100mg |   |
 | 5431 | Zyloric tablet 100mg |   |
 | 6846 | Allopurinol sandoz tablet 100mg |   |
 | 9730=6846 | Allopurinol sandoz tablet 100mg |   |
 | Productgroep |   | Maximumprijs |
-| ALLOPURINOL-200-MG-TABLET | ALLOPURINOL-200-MG-TABLET | 0.05060600 per stuk |
+| ALLOPURINOL-200-MG-TABLET | ALLOPURINOL-200-MG-TABLET | 0.05072500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11800 | Zyloric tablet 200mg |   |
 | Productgroep |   | Maximumprijs |
-| ALLOPURINOL-300-MG-TABLET | ALLOPURINOL-300-MG-TABLET | 0.07169400 per stuk |
+| ALLOPURINOL-300-MG-TABLET | ALLOPURINOL-300-MG-TABLET | 0.07290800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10377 | Allopurinol nyco tablet 300mg |   |
 | 20407 | Allopurinol actavis tablet 300mg |   |
 | 21011=7210 | Allopurinol cf tablet 300mg |   |
 | 25278 | Allopurinol rp tablet 300mg |   |
-| 28894=57732 | Allopurinol merck tablet 300mg |   |
+| 28894=57732 | Allopurinol mylan tablet 300mg |   |
+| 57732 | Allopurinol apotex tablet 300mg |   |
 | 57732 | Allopurinolum tablet 300mg |   |
 | 7210 | Allopurinol sandoz tablet 300mg |   |
 | 7238 | Zyloric tablet 300mg |   |
 | 9731=7210 | Allopurinol sandoz tablet 300mg |   |
 | Productgroep |   | Maximumprijs |
-| ALMOTRIPTAN-12.5-MG-TABLET | ALMOTRIPTAN-12.5-MG-TABLET | 4.01821200 per stuk |
+| ALMOTRIPTAN-12.5-MG-TABLET | ALMOTRIPTAN-12.5-MG-TABLET | 4.09901400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 25415 | Almogran tablet omhuld 12,5mg |   |
 | 29575/25415 | Almogran tablet omhuld 12,5mg |   |
 | 29872/25415 | Almogran tablet omhuld 12,5mg |   |
 | 32301/25415 | Almogran tablet omhuld 12,5mg |   |
 | Productgroep |   | Maximumprijs |
-| ALPRAZOLAM-.25-MG-TABLET | ALPRAZOLAM-.25-MG-TABLET | 0.04879300 per stuk |
+| ALPRAZOLAM-.25-MG-TABLET | ALPRAZOLAM-.25-MG-TABLET | 0.04881300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 14409 | Xanax tablet 0,25mg |   |
-| 20953 | Alprazolam merck tablet 0,25mg |   |
 | 20953 | Alprazolam mylan tablet 0,25mg |   |
 | 21619 | Alprazolam actavis tablet 0,25mg |   |
 | 21819 | Alprazolam pch tablet 0,25mg |   |
@@ -307,7 +300,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 29017=23566 | Alprazolam a tablet 0,25mg |   |
 | 31119 | Alprazolam cf tablet 0,25mg |   |
 | Productgroep |   | Maximumprijs |
-| ALPRAZOLAM-.5-MG-TABLET | ALPRAZOLAM-.5-MG-TABLET | 0.08586600 per stuk |
+| ALPRAZOLAM-.5-MG-TABLET | ALPRAZOLAM-.5-MG-TABLET | 0.08580900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 14410 | Xanax tablet 0,5mg |   |
 | 20954 | Alprazolam mylan tablet 0,5mg |   |
@@ -316,7 +309,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 23269 | Alprazolam katwijk tablet 0,5mg |   |
 | 31120 | Alprazolam cf tablet 0,5mg |   |
 | Productgroep |   | Maximumprijs |
-| AMANTADINE-100-MG-CAPSULE | AMANTADINE-100-MG-CAPSULE | 0.19309400 per stuk |
+| AMANTADINE-100-MG-CAPSULE | AMANTADINE-100-MG-CAPSULE | 0.18134400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12976/5352 | Symmetrel capsule 100mg |   |
 | 27528/5352 | Symmetrel capsule 100mg |   |
@@ -324,58 +317,57 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 32927/5352 | Symmetrel capsule 100mg |   |
 | 5352 | Symmetrel capsule 100mg |   |
 | Productgroep |   | Maximumprijs |
-| AMBRISENTAN-10-MG-TABLET | AMBRISENTAN-10-MG-TABLET | 81.42820000 per stuk |
+| AMBRISENTAN-10-MG-TABLET | AMBRISENTAN-10-MG-TABLET | 83.14944100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/08/451/004 | Volibris tablet filmomhuld 10mg |   |
 | Productgroep |   | Maximumprijs |
-| AMIODARONE-200-MG-TABLET | AMIODARONE-200-MG-TABLET | 0.25885600 per stuk |
+| AMIODARONE-200-MG-TABLET | AMIODARONE-200-MG-TABLET | 0.25169700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 21966 | Amiodaron hcl sandoz tablet 200mg |   |
 | 23940=57505 | Amiodaron hcl katwijk tablet 200mg |   |
 | 23979=21966 | Amiodaron hcl a tablet 200mg |   |
 | 24082=57505 | Amiodaron hcl cf tablet 200mg |   |
 | 24101=57505 | Amiodaron hcl mylan tablet 200mg |   |
-| 24101=57505 | Amiodaron hcl merck tablet 200mg |   |
 | 25530=5443 | Amiodaron hcl pch tablet 200mg |   |
 | 27609=57505 | Amiodaron hcl actavis tablet 200mg |   |
 | 5443 | Cordarone tablet 200mg |   |
 | 57505 | Amiodaron hcl rp tablet 200mg |   |
 | Productgroep |   | Maximumprijs |
-| AMITRIPTYLINE-10-MG-TABLET | AMITRIPTYLINE-10-MG-TABLET | 0.02902200 per stuk |
+| AMITRIPTYLINE-10-MG-TABLET | AMITRIPTYLINE-10-MG-TABLET | 0.03059600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 16711=52947 | Amitriptyline hcl sandoz tablet 10mg |   |
 | 18240=52947 | Amitriptyline hcl actavis tablet 10mg |   |
 | 21929=52947 | Amitriptyline hcl pch tablet 10mg |   |
 | 52186 | Amitriptylini hcl tablet 10mg |   |
+| 52186 | Amitriptyline hcl apotex tablet 10mg |   |
 | 52947 | Amitriptyline hcl cf tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| AMITRIPTYLINE-25-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | AMITRIPTYLINE-25-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.06679900 per stuk |
+| AMITRIPTYLINE-25-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | AMITRIPTYLINE-25-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.06571300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 6480 | Sarotex retard 25 capsule mga 25mg |   |
 | Productgroep |   | Maximumprijs |
-| AMITRIPTYLINE-25-MG-TABLET | AMITRIPTYLINE-25-MG-TABLET | 0.04702700 per stuk |
+| AMITRIPTYLINE-25-MG-TABLET | AMITRIPTYLINE-25-MG-TABLET | 0.04803500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 16712=52948 | Amitriptyline hcl sandoz tablet 25mg |   |
 | 18241=52948 | Amitriptyline hcl actavis tablet 25mg |   |
 | 21930=52948 | Amitriptyline hcl pch tablet 25mg |   |
 | 2418 | Tryptizol tablet 25mg |   |
-| 4303 | Sarotex tablet 25mg |   |
+| 52187 | Amitriptyline hcl apotex tablet 25mg |   |
 | 52187 | Amitriptylini hcl tablet 25mg |   |
 | 52631 | Amitriptyline hcl rp tablet 25mg |   |
 | 52948 | Amitriptyline hcl cf tablet 25mg |   |
 | Productgroep |   | Maximumprijs |
-| AMITRIPTYLINE-50-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | AMITRIPTYLINE-50-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.11551900 per stuk |
+| AMITRIPTYLINE-50-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | AMITRIPTYLINE-50-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.11421700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 6481 | Sarotex retard 50 capsule mga 50mg |   |
 | Productgroep |   | Maximumprijs |
-| AMITRIPTYLINE-50-MG-TABLET | AMITRIPTYLINE-50-MG-TABLET | 0.09085900 per stuk |
+| AMITRIPTYLINE-50-MG-TABLET | AMITRIPTYLINE-50-MG-TABLET | 0.09360000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 5845 | Tryptizol tablet 50mg |   |
 | Productgroep |   | Maximumprijs |
-| AMLODIPINE-10-MG-TABLET | AMLODIPINE-10-MG-TABLET | 0.18114900 per stuk |
+| AMLODIPINE-10-MG-TABLET | AMLODIPINE-10-MG-TABLET | 0.18297400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13349 | Norvasc tablet 10mg |   |
-| 27319 | Amlodipine merck tablet 10mg |   |
 | 27319 | Amlodipine mylan tablet 10mg |   |
 | 27323 | Amlodipine cf tablet 10mg (als maleaat) |   |
 | 28520 | Amlodipine rp tablet 10mg (als maleaat) |   |
@@ -387,90 +379,88 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 32120 | Amlodipine pch tablet 10mg |   |
 | 34065 | Amlodipine sandoz tablet 10mg (als besilaat) |   |
 | Productgroep |   | Maximumprijs |
-| AMLODIPINE-10-MG-TABLET-OLMESARTAN-40-MG-TABLET | AMLODIPINE-10-MG-TABLET-OLMESARTAN-40-MG-TABLET | 0.83051100 per stuk |
+| AMLODIPINE-10-MG-TABLET-OLMESARTAN-40-MG-TABLET | AMLODIPINE-10-MG-TABLET-OLMESARTAN-40-MG-TABLET | 0.85421700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100987 | Sevikar tablet filmomhuld 40/10mg |   |
 | Productgroep |   | Maximumprijs |
-| AMLODIPINE-10-MG-TABLET-VALSARTAN-160-MG-TABLET | AMLODIPINE-10-MG-TABLET-VALSARTAN-160-MG-TABLET | 0.92270000 per stuk |
+| AMLODIPINE-10-MG-TABLET-VALSARTAN-160-MG-TABLET | AMLODIPINE-10-MG-TABLET-VALSARTAN-160-MG-TABLET | 0.92002600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/06/370/018 | Exforge tablet filmomhuld 10/160mg |   |
 | EU/1/06/370/019 | Exforge tablet filmomhuld 10/160mg |   |
 | Productgroep |   | Maximumprijs |
-| AMLODIPINE-5-MG-TABLET | AMLODIPINE-5-MG-TABLET | 0.10964800 per stuk |
+| AMLODIPINE-5-MG-TABLET | AMLODIPINE-5-MG-TABLET | 0.10992800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13348 | Norvasc tablet 5mg |   |
 | 27318 | Amlodipine mylan tablet 5mg |   |
-| 27318 | Amlodipine merck tablet 5mg |   |
 | 27322 | Amlodipine cf tablet 5mg (als maleaat) |   |
 | 28519 | Amlodipine rp tablet 5mg (als maleaat) |   |
 | 29614 | Amlodipinum tablet 5mg (als mesilaat) |   |
-| 29635 | Amlodipine katwijk tablet 5mg |   |
-| 29974 | Amlodipine sandoz tablet 5mg (als maleaat) |   |
 | 30075 | Amlodipine actavis tablet 5mg |   |
 | 30220 | Amlodipine a tablet 5mg |   |
 | 30322 | Amlodipine ranbaxy tablet 5mg |   |
 | 32119 | Amlodipine pch tablet 5mg |   |
 | 34063 | Amlodipine sandoz tablet 5mg (als besilaat) |   |
-| 34736/13348 | Norvasc tablet 5mg |   |
 | Productgroep |   | Maximumprijs |
-| AMLODIPINE-5-MG-TABLET-OLMESARTAN-20-MG-TABLET | AMLODIPINE-5-MG-TABLET-OLMESARTAN-20-MG-TABLET | 0.74076600 per stuk |
+| AMLODIPINE-5-MG-TABLET-OLMESARTAN-20-MG-TABLET | AMLODIPINE-5-MG-TABLET-OLMESARTAN-20-MG-TABLET | 0.72720700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100984 | Sevikar tablet filmomhuld 20/ 5mg |   |
 | Productgroep |   | Maximumprijs |
-| AMLODIPINE-5-MG-TABLET-OLMESARTAN-40-MG-TABLET | AMLODIPINE-5-MG-TABLET-OLMESARTAN-40-MG-TABLET | 0.82234800 per stuk |
+| AMLODIPINE-5-MG-TABLET-OLMESARTAN-40-MG-TABLET | AMLODIPINE-5-MG-TABLET-OLMESARTAN-40-MG-TABLET | 0.82710400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100986 | Sevikar tablet filmomhuld 40/ 5mg |   |
 | Productgroep |   | Maximumprijs |
-| AMLODIPINE-5-MG-TABLET-VALSARTAN-160-MG-TABLET | AMLODIPINE-5-MG-TABLET-VALSARTAN-160-MG-TABLET | 0.89445600 per stuk |
+| AMLODIPINE-5-MG-TABLET-VALSARTAN-160-MG-TABLET | AMLODIPINE-5-MG-TABLET-VALSARTAN-160-MG-TABLET | 0.89180800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/06/370/010 | Exforge tablet filmomhuld 5/160mg |   |
 | EU/1/06/370/011 | Exforge tablet filmomhuld 5/160mg |   |
 | Productgroep |   | Maximumprijs |
-| AMLODIPINE-5-MG-TABLET-VALSARTAN-80-MG-TABLET | AMLODIPINE-5-MG-TABLET-VALSARTAN-80-MG-TABLET | 0.70059400 per stuk |
+| AMLODIPINE-5-MG-TABLET-VALSARTAN-80-MG-TABLET | AMLODIPINE-5-MG-TABLET-VALSARTAN-80-MG-TABLET | 0.69734500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/06/370/002 | Exforge tablet filmomhuld 5/ 80mg |   |
 | EU/1/06/370/003 | Exforge tablet filmomhuld 5/ 80mg |   |
 | Productgroep |   | Maximumprijs |
-| AMOXICILLIN-100-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | AMOXICILLIN-100-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.08674000 per ml |
+| AMOXICILLIN-100-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | AMOXICILLIN-100-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.09013000 per ml |
 | Registratienummer | Artikelnaam |   |
 | 14819 | Amoxicilline pch pdr v susp 100mg/ml |   |
 | 15156=7467 | Amoxicilline rp poeder voor suspensie 100mg/ml |   |
 | 15210 | Amoxicilline cf suikervrij pdr v susp 100mg/ml |   |
-| 57301 | Amoxicilline flx suikervrij pdr v susp 100mg/ml |   |
+| 57301 | Amoxicilline karib suikervrij pdr v susp 100mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| AMOXICILLIN-1000-MG-BRUISTABLET | AMOXICILLIN-1000-MG-BRUISTABLET | 0.37333600 per stuk |
+| AMOXICILLIN-1000-MG-BRUISTABLET | AMOXICILLIN-1000-MG-BRUISTABLET | 0.36159400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 26686 | Amoxicilline disper sandoz tablet 1000mg |   |
 | Productgroep |   | Maximumprijs |
-| AMOXICILLIN-25-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | AMOXICILLIN-25-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.01881400 per ml |
+| AMOXICILLIN-25-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | AMOXICILLIN-25-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.01839500 per ml |
 | Registratienummer | Artikelnaam |   |
 | 12521 | Amoxicilline rp poeder voor suspensie 125mg/5ml |   |
 | 13161 | Amoxicilline cf suikervrij pdr v susp 125mg/5ml |   |
 | 14820 | Amoxicilline pch poeder voor suspensie 125mg/5ml |   |
 | 19826=7465 | Amoxicilline a suikervrij pdr v susp 125mg/5ml |   |
 | 29702 | Amoxicilline sandoz poeder v suspensie 125mg/5ml |   |
-| 57302 | Amoxicilline flx suikervrij pdr v susp 125mg/5ml |   |
+| 57302 | Amoxicilline karib suikervrij pdr v susp 125mg/5ml |   |
+| 57443 | Amoxicilline apotex skvr pdr v susp 125mg/5ml |   |
 | 57443 | Amoxicillinum suikervrij pdr v susp 125mg/5ml |   |
 | Productgroep |   | Maximumprijs |
-| AMOXICILLIN-25-MG/ML-OPLOSSING/SUSPENSIE, ORAAL-CLAVULANIC ACID-6.25-MG/ML-OPLOS | AMOXICILLIN-25-MG/ML-OPLOSSING/SUSPENSIE, ORAAL-CLAVULANIC ACID-6.25-MG/ML-OPLOS | 0.05413800 per ml |
+| AMOXICILLIN-25-MG/ML-OPLOSSING/SUSPENSIE, ORAAL-CLAVULANIC ACID-6.25-MG/ML-OPLOS | AMOXICILLIN-25-MG/ML-OPLOSSING/SUSPENSIE, ORAAL-CLAVULANIC ACID-6.25-MG/ML-OPLOS | 0.05445500 per ml |
 | Registratienummer | Artikelnaam |   |
 | 9842 | Augmentin suikervrij pdr v susp 125/31,25mg/5ml |   |
 | Productgroep |   | Maximumprijs |
-| AMOXICILLIN-50-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | AMOXICILLIN-50-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.02478500 per ml |
+| AMOXICILLIN-50-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | AMOXICILLIN-50-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.02377500 per ml |
 | Registratienummer | Artikelnaam |   |
 | 11162 | Amoxicilline pch forte pdr v susp 250mg/5ml |   |
 | 12522 | Amoxicilline rp poeder voor suspensie 250mg/5ml |   |
 | 13162 | Amoxicilline cf suikervrij pdr v susp 250mg/5ml |   |
 | 19827=7466 | Amoxicilline a suikervrij pdr v susp 250mg/5ml |   |
 | 29703 | Amoxicilline sandoz poeder v suspensie 250mg/5ml |   |
-| 57303 | Amoxicilline flx suikervrij pdr v susp 250mg/5ml |   |
+| 57303 | Amoxicilline karib suikervrij pdr v susp 250mg/5ml |   |
 | 57444 | Amoxicillinum suikervrij pdr v susp 250mg/5ml |   |
+| 57444 | Amoxicilline apotex skvr pdr v susp 250mg/5ml |   |
 | Productgroep |   | Maximumprijs |
-| AMOXICILLIN-50-MG/ML-OPLOSSING/SUSPENSIE, ORAAL-CLAVULANIC ACID-12.5-MG/ML-OPLOS | AMOXICILLIN-50-MG/ML-OPLOSSING/SUSPENSIE, ORAAL-CLAVULANIC ACID-12.5-MG/ML-OPLOS | 0.09468900 per ml |
+| AMOXICILLIN-50-MG/ML-OPLOSSING/SUSPENSIE, ORAAL-CLAVULANIC ACID-12.5-MG/ML-OPLOS | AMOXICILLIN-50-MG/ML-OPLOSSING/SUSPENSIE, ORAAL-CLAVULANIC ACID-12.5-MG/ML-OPLOS | 0.09451800 per ml |
 | Registratienummer | Artikelnaam |   |
 | 11018 | Augmentin suikervrij pdr v susp 250/62,50mg/5ml |   |
 | Productgroep |   | Maximumprijs |
-| AMOXICILLIN-500-MG-BRUISTABLET | AMOXICILLIN-500-MG-BRUISTABLET | 0.23833300 per stuk |
+| AMOXICILLIN-500-MG-BRUISTABLET | AMOXICILLIN-500-MG-BRUISTABLET | 0.22398800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 17423 | Amoxicilline disper actavis tablet 500mg |   |
 | 20457 | Amoxicilline disper cf tablet 500mg |   |
@@ -478,36 +468,37 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 24240=12549 | Amoxicilline disper katwijk tablet 500mg |   |
 | 24272=12549 | Amoxicilline disper rp tablet 500mg |   |
 | 24317=12549 | Amoxicilline disper a tablet 500mg |   |
-| 56827 | Amoxicilline disper flx tablet 500mg |   |
+| 56827 | Amoxicilline disper karib tablet 500mg |   |
 | Productgroep |   | Maximumprijs |
-| AMOXICILLIN-500-MG-CAPSULE | AMOXICILLIN-500-MG-CAPSULE | 0.17967900 per stuk |
+| AMOXICILLIN-500-MG-CAPSULE | AMOXICILLIN-500-MG-CAPSULE | 0.18308700 per stuk |
 | Registratienummer | Artikelnaam |   |
-| 11217 | Amoxicilline merck capsule 500mg |   |
+| 11217 | Amoxicilline mylan capsule 500mg |   |
 | 12520 | Amoxicilline rp capsule 500mg |   |
 | 14814=12520 | Amoxicilline pch capsule 500mg |   |
 | 16913 | Amoxicillinum capsule 500mg |   |
+| 16913 | Amoxicilline apotex capsule 500mg |   |
 | 19825=14780 | Amoxicilline a capsule 500mg |   |
 | 25942 | Amoxicilline sandoz capsule 500mg |   |
-| 55123 | Amoxicilline flx capsule 500mg |   |
+| 55123 | Amoxicilline karib capsule 500mg |   |
 | 55287 | Amoxicilline cf capsule 500mg |   |
 | Productgroep |   | Maximumprijs |
-| AMOXICILLIN-500-MG-TABLET-CLAVULANIC ACID-125-MG-TABLET | AMOXICILLIN-500-MG-TABLET-CLAVULANIC ACID-125-MG-TABLET | 0.74940600 per stuk |
+| AMOXICILLIN-500-MG-TABLET-CLAVULANIC ACID-125-MG-TABLET | AMOXICILLIN-500-MG-TABLET-CLAVULANIC ACID-125-MG-TABLET | 0.74834400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 9840 | Augmentin tablet 500/125mg |   |
 | Productgroep |   | Maximumprijs |
-| AMOXICILLIN-750-MG-BRUISTABLET | AMOXICILLIN-750-MG-BRUISTABLET | 0.36676100 per stuk |
+| AMOXICILLIN-750-MG-BRUISTABLET | AMOXICILLIN-750-MG-BRUISTABLET | 0.32750100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 17424 | Amoxicilline disper actavis tablet 750mg |   |
 | 20458 | Amoxicilline disper cf tablet 750mg |   |
-| 20694 | Amoxicilline disper merck tablet 750mg |   |
+| 20694 | Amoxicilline disper mylan tablet 750mg |   |
 | 24121=12550 | Amoxicilline disp pch tablet 750mg |   |
 | 24241=12550 | Amoxicilline disper katwijk tablet 750mg |   |
 | 24273=12550 | Amoxicilline disper rp tablet 750mg |   |
 | 24318=12550 | Amoxicilline disper a tablet 750mg |   |
 | 26685 | Amoxicilline disper sandoz tablet 750mg |   |
-| 56828 | Amoxicilline disper flx tablet 750mg |   |
+| 56828 | Amoxicilline disper karib tablet 750mg |   |
 | Productgroep |   | Maximumprijs |
-| AMPHOTERICIN-10-MG-TABLET, OROFARYNGEAAL/ZUIGTABLETTEN | AMPHOTERICIN-10-MG-TABLET, OROFARYNGEAAL/ZUIGTABLETTEN | 0.15940000 per stuk |
+| AMPHOTERICIN-10-MG-TABLET, OROFARYNGEAAL/ZUIGTABLETTEN | AMPHOTERICIN-10-MG-TABLET, OROFARYNGEAAL/ZUIGTABLETTEN | 0.16124000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 9056 | Fungizone zuigtablet 10mg |   |
 | Productgroep |   | Maximumprijs |
@@ -515,11 +506,11 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | Registratienummer | Artikelnaam |   |
 | 6065 | Fungizone suspensie 100mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| ANAGRELIDE-.5-MG-CAPSULE | ANAGRELIDE-.5-MG-CAPSULE | 4.32904900 per stuk |
+| ANAGRELIDE-.5-MG-CAPSULE | ANAGRELIDE-.5-MG-CAPSULE | 4.39387600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/04/295/001 | Xagrid capsule 0,5mg |   |
 | Productgroep |   | Maximumprijs |
-| ANASTROZOLE-1-MG-TABLET | ANASTROZOLE-1-MG-TABLET | 3.69850200 per stuk |
+| ANASTROZOLE-1-MG-TABLET | ANASTROZOLE-1-MG-TABLET | 3.67429700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 101550/19123 | Arimidex tablet filmomhuld 1mg |   |
 | 101980/19123 | Arimidex tablet filmomhuld 1mg |   |
@@ -536,48 +527,44 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 34448/19123 | Arimidex tablet filmomhuld 1mg |   |
 | 34482/19123 | Arimidex tablet filmomhuld 1mg |   |
 | Productgroep |   | Maximumprijs |
-| ANIDULAFUNGINE-100-MG-POED. V. INFUSIE,FLACON | ANIDULAFUNGINE-100-MG-POED. V. INFUSIE,FLACON | 417.51201500 per stuk |
+| ANIDULAFUNGINE-100-MG-POED. V. INFUSIE, FLACON | ANIDULAFUNGINE-100-MG-POED. V. INFUSIE, FLACON | 426.89420200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/07/416/001 | Ecalta infpdr flacon 100mg + solv 30ml |   |
 | Productgroep |   | Maximumprijs |
-| APRACLONIDINE-10-MG/ML-OOGDRUPPELS UNITDOSE | APRACLONIDINE-10-MG/ML-OOGDRUPPELS UNITDOSE | 18.81207200 per ml |
+| APRACLONIDINE-10-MG/ML-OOGDRUPPELS UNITDOSE | APRACLONIDINE-10-MG/ML-OOGDRUPPELS UNITDOSE | 19.22573600 per ml |
 | Registratienummer | Artikelnaam |   |
 | 19708 | Iopidine oogdruppels 10mg/ml tube 0,25ml |   |
 | Productgroep |   | Maximumprijs |
-| APRACLONIDINE-5-MG/ML-OOGDRUPPELS | APRACLONIDINE-5-MG/ML-OOGDRUPPELS | 2.84684400 per ml |
+| APRACLONIDINE-5-MG/ML-OOGDRUPPELS | APRACLONIDINE-5-MG/ML-OOGDRUPPELS | 2.88155900 per ml |
 | Registratienummer | Artikelnaam |   |
 | 16925 | Iopidine oogdruppels 5mg/ml flacon 5ml |   |
 | Productgroep |   | Maximumprijs |
-| APREPITANT-125-MG-CAPSULE | APREPITANT-125-MG-CAPSULE | 19.65815800 per stuk |
-| Registratienummer | Artikelnaam |   |
-| EU/1/03/262/005 | Emend capsule 125mg |   |
-| Productgroep |   | Maximumprijs |
-| APREPITANT-80-MG-CAPSULE | APREPITANT-80-MG-CAPSULE | 20.43503100 per stuk |
+| APREPITANT-80-MG-CAPSULE | APREPITANT-80-MG-CAPSULE | 21.31456500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/03/262/002 | Emend capsule 80mg |   |
 | Productgroep |   | Maximumprijs |
-| APREPITANT-80-MG-CAPSULE-APREPITANT FASE 2-125-MG-CAPSULE | APREPITANT-80-MG-CAPSULE-APREPITANT FASE 2-125-MG-CAPSULE | 20.93459900 per stuk |
+| APREPITANT-80-MG-CAPSULE-APREPITANT FASE 2-125-MG-CAPSULE | APREPITANT-80-MG-CAPSULE-APREPITANT FASE 2-125-MG-CAPSULE | 21.26416800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/03/262/006 | Emend capsule 1x125mg/2x80mg |   |
 | Productgroep |   | Maximumprijs |
-| ARIPIPRAZOL-30-MG-TABLET | ARIPIPRAZOL-30-MG-TABLET | 7.30170500 per stuk |
+| ARIPIPRAZOL-30-MG-TABLET | ARIPIPRAZOL-30-MG-TABLET | 8.26238000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/04/276/017 | Abilify tablet 30mg |   |
 | Productgroep |   | Maximumprijs |
-| ARTEMETHER-20-MG-TABLET-LUMEFANTRINE-120-MG-TABLET | ARTEMETHER-20-MG-TABLET-LUMEFANTRINE-120-MG-TABLET | 1.25242900 per stuk |
+| ARTEMETHER-20-MG-TABLET-LUMEFANTRINE-120-MG-TABLET | ARTEMETHER-20-MG-TABLET-LUMEFANTRINE-120-MG-TABLET | 1.21723000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 25773 | Riamet tablet 20/120mg |   |
 | Productgroep |   | Maximumprijs |
-| ATAZANAVIR-150-MG-CAPSULE | ATAZANAVIR-150-MG-CAPSULE | 7.76382800 per stuk |
+| ATAZANAVIR-150-MG-CAPSULE | ATAZANAVIR-150-MG-CAPSULE | 7.82196000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/03/267/004 | Reyataz capsule 150mg |   |
 | Productgroep |   | Maximumprijs |
-| ATAZANAVIR-200-MG-CAPSULE | ATAZANAVIR-200-MG-CAPSULE | 7.98966600 per stuk |
+| ATAZANAVIR-200-MG-CAPSULE | ATAZANAVIR-200-MG-CAPSULE | 8.05093200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/03/267/005 | Reyataz capsule 200mg |   |
 | EU/1/03/267/006 | Reyataz capsule 200mg |   |
 | Productgroep |   | Maximumprijs |
-| ATENOLOL-100-MG-TABLET | ATENOLOL-100-MG-TABLET | 0.12310800 per stuk |
+| ATENOLOL-100-MG-TABLET | ATENOLOL-100-MG-TABLET | 0.12460200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 14706 | Atenolol sandoz tablet 100mg |   |
 | 17287 | Atenolol katwijk tablet 100mg |   |
@@ -585,12 +572,12 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 19096 | Atenolol rp tablet 100mg |   |
 | 25429=21346 | Atenolol eb tablet 100mg |   |
 | 25648=19518 | Atenolol a tablet 100mg |   |
-| 30771 | Atenolol merck tablet 100mg |   |
+| 30771 | Atenolol mylan tablet 100mg |   |
 | 56332 | Atenolol pch tablet 100mg |   |
 | 57553 | Atenolol sandoz tablet 100mg |   |
 | 57615 | Atenolol cf tablet 100mg |   |
 | Productgroep |   | Maximumprijs |
-| ATENOLOL-100-MG-TABLET-CHLORTALIDONE-25-MG-TABLET | ATENOLOL-100-MG-TABLET-CHLORTALIDONE-25-MG-TABLET | 0.18002300 per stuk |
+| ATENOLOL-100-MG-TABLET-CHLORTALIDONE-25-MG-TABLET | ATENOLOL-100-MG-TABLET-CHLORTALIDONE-25-MG-TABLET | 0.17943700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15856 | Atenolol/chloortalidon pch tablet 100/25mg |   |
 | 17036 | Atenolol/chloortalidon sandoz tablet 100/25mg |   |
@@ -598,35 +585,36 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 19468=15843 | Atenolol/chloortalidon cf tablet 100/25mg |   |
 | 20256=57119 | Atenolol/chloortalidon a tablet 100/25mg |   |
 | 21833 | Atenolol/chloortalidon actavis tablet 100/25mg |   |
-| 24099=57119 | Atenolol/chloortalidon merck tablet 100/25mg |   |
+| 24099=57119 | Atenolol/chloortalidon mylan tablet 100/25mg |   |
 | 57119 | Atenolol/chloortalidon rp tablet 100/25mg |   |
 | Productgroep |   | Maximumprijs |
-| ATENOLOL-25-MG-TABLET | ATENOLOL-25-MG-TABLET | 0.04545700 per stuk |
+| ATENOLOL-25-MG-TABLET | ATENOLOL-25-MG-TABLET | 0.04750700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 16049 | Atenolol cf tablet 25mg |   |
 | 16272 | Atenolol pch tablet 25mg |   |
 | 17887 | Atenolol katwijk tablet 25mg |   |
+| 17887 | Atenolol apotex tablet 25mg |   |
 | 18794 | Atenolol actavis tablet 25mg |   |
 | 20205 | Atenolol sandoz tablet 25mg |   |
 | 21338 | Atenolol rp tablet 25mg |   |
-| 24399 | Atenolol sandoz tablet 25mg |   |
-| 25249 | Atenolol merck tablet 25mg |   |
+| 25249 | Atenolol mylan tablet 25mg |   |
 | 29013=25243 | Atenolol a tablet 25mg |   |
 | Productgroep |   | Maximumprijs |
-| ATENOLOL-50-MG-TABLET | ATENOLOL-50-MG-TABLET | 0.07362400 per stuk |
+| ATENOLOL-50-MG-TABLET | ATENOLOL-50-MG-TABLET | 0.07500400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 14705 | Atenolol sandoz tablet 50mg |   |
+| 17286 | Atenolol apotex tablet 50mg |   |
 | 17286 | Atenolol katwijk tablet 50mg |   |
 | 18795 | Atenolol actavis tablet 50mg |   |
 | 19095 | Atenolol rp tablet 50mg |   |
 | 25428=21345 | Atenolol eb tablet 50mg |   |
 | 25647=19517 | Atenolol a tablet 50mg |   |
-| 30770 | Atenolol merck tablet 50mg |   |
+| 30770 | Atenolol mylan tablet 50mg |   |
 | 56331 | Atenolol pch tablet 50mg |   |
 | 57552 | Atenolol sandoz tablet 50mg |   |
 | 57614 | Atenolol cf tablet 50mg |   |
 | Productgroep |   | Maximumprijs |
-| ATENOLOL-50-MG-TABLET-CHLORTALIDONE-12.5-MG-TABLET | ATENOLOL-50-MG-TABLET-CHLORTALIDONE-12.5-MG-TABLET | 0.11893400 per stuk |
+| ATENOLOL-50-MG-TABLET-CHLORTALIDONE-12.5-MG-TABLET | ATENOLOL-50-MG-TABLET-CHLORTALIDONE-12.5-MG-TABLET | 0.11905500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15855 | Atenolol/chloortalidon pch tablet 50/12,5mg |   |
 | 17035 | Atenolol/chloortalidon sandoz tablet 50/12,5mg |   |
@@ -634,10 +622,14 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 19467=15842 | Atenolol/chloortalidon cf tablet 50/12,5mg |   |
 | 20255=57118 | Atenolol/chloortalidon a tablet 50/12,5mg |   |
 | 21832 | Atenolol/chloortalidon actavis tablet 50/12,5mg |   |
-| 24098=57118 | Atenolol/chloortalidon merck tablet 50/12,5mg |   |
+| 24098=57118 | Atenolol/chloortalidon mylan tablet 50/12,5mg |   |
 | 57118 | Atenolol/chloortalidon rp tablet 50/12,5mg |   |
 | Productgroep |   | Maximumprijs |
-| ATORVASTATIN-10-MG-TABLET | ATORVASTATIN-10-MG-TABLET | 0.71064400 per stuk |
+| ATOMOXETIN-80-MG-CAPSULE | ATOMOXETIN-80-MG-CAPSULE | 3.87417100 per stuk |
+| Registratienummer | Artikelnaam |   |
+| 100389 | Strattera capsule 80mg |   |
+| Productgroep |   | Maximumprijs |
+| ATORVASTATIN-10-MG-TABLET | ATORVASTATIN-10-MG-TABLET | 0.72071300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 103072/21081 | Sortis tablet filmomhuld 10mg |   |
 | 104202/21081 | Lipitor tablet omhuld 10mg |   |
@@ -651,9 +643,8 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 30879/21081 | Atorvastatine tablet omhuld 10mg |   |
 | 32471/21081 | Atorvastatine tablet omhuld 10mg |   |
 | 32862/21081 | Atorvastatine tablet omhuld 10mg |   |
-| 34733/21081 | Atorvastatine tablet omhuld 10mg |   |
 | Productgroep |   | Maximumprijs |
-| ATORVASTATIN-20-MG-TABLET | ATORVASTATIN-20-MG-TABLET | 1.13091500 per stuk |
+| ATORVASTATIN-20-MG-TABLET | ATORVASTATIN-20-MG-TABLET | 1.14467600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100624/21082 | Lipitor tablet omhuld 20mg |   |
 | 102463/21082 | Lipitor tablet omhuld 20mg |   |
@@ -666,10 +657,9 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 32213/21082 | Lipitor tablet omhuld 20mg |   |
 | 32472/21082 | Atorvastatine tablet omhuld 20mg |   |
 | 32863/21082 | Atorvastatine tablet omhuld 20mg |   |
-| 34734/21082 | Atorvastatine tablet omhuld 20mg |   |
 | 35098/21082 | Atorvastatine tablet omhuld 20mg |   |
 | Productgroep |   | Maximumprijs |
-| ATORVASTATIN-40-MG-TABLET | ATORVASTATIN-40-MG-TABLET | 1.44586000 per stuk |
+| ATORVASTATIN-40-MG-TABLET | ATORVASTATIN-40-MG-TABLET | 1.45962100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100625/21083 | Lipitor tablet omhuld 40mg |   |
 | 103782/21083 | Lipitor tablet omhuld 40mg |   |
@@ -678,7 +668,6 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 23376/21083 | Atorvastatine tablet omhuld 40mg |   |
 | 24755/21083 | Atorvastatine tablet omhuld 40mg |   |
 | 25596/21083 | Atorvastatine tablet omhuld 40mg |   |
-| 26949/21083 | Lipitor tablet omhuld 40mg |   |
 | 27669/21083 | Atorvastatine tablet omhuld 40mg |   |
 | 27981/21083 | Atorvastatine tablet omhuld 40mg |   |
 | 29723/21083 | Lipitor tablet omhuld 40mg |   |
@@ -692,23 +681,23 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 32864/21083 | Atorvastatine tablet omhuld 40mg |   |
 | 34142/21083 | Lipitor tablet omhuld 40mg |   |
 | Productgroep |   | Maximumprijs |
-| ATOVAQUONE-150-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | ATOVAQUONE-150-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 2.00910300 per ml |
+| ATOVAQUONE-150-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | ATOVAQUONE-150-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 2.02730400 per ml |
 | Registratienummer | Artikelnaam |   |
 | 21070 | Wellvone suspensie 150mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| ATROPINE-10-MG/ML-OOGDRUPPELS | ATROPINE-10-MG/ML-OOGDRUPPELS | 0.28331100 per ml |
+| ATROPINE-10-MG/ML-OOGDRUPPELS | ATROPINE-10-MG/ML-OOGDRUPPELS | 0.28573000 per ml |
 | Registratienummer | Artikelnaam |   |
 | 50101 | Atropinesulfaat pch oogdruppels 1% flacon 10ml |   |
 | 57398 | Atropinesulfaat rp oogdruppels 1% flacon 10ml |   |
 | Productgroep |   | Maximumprijs |
-| AZATHIOPRINE-25-MG-TABLET | AZATHIOPRINE-25-MG-TABLET | 0.18103500 per stuk |
+| AZATHIOPRINE-25-MG-TABLET | AZATHIOPRINE-25-MG-TABLET | 0.20342500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12476 | Imuran tablet 25mg |   |
 | 20860 | Azathioprine cf tablet 25mg |   |
-| 24721 | Azathioprine merck tablet 25mg |   |
+| 24721 | Azathioprine mylan tablet 25mg |   |
 | 26868=20860 | Azathioprine pch tablet 25mg |   |
 | Productgroep |   | Maximumprijs |
-| AZATHIOPRINE-50-MG-TABLET | AZATHIOPRINE-50-MG-TABLET | 0.23685400 per stuk |
+| AZATHIOPRINE-50-MG-TABLET | AZATHIOPRINE-50-MG-TABLET | 0.23326200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10467 | Azathioprine pch tablet 50mg comfortainer |   |
 | 10467 | Azathioprine pch tablet 50mg |   |
@@ -724,60 +713,60 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 5565 | Imuran tablet 50mg |   |
 | 56764 | Azathioprine cf tablet 50mg |   |
 | Productgroep |   | Maximumprijs |
-| AZELASTINE-.5-MG/ML-OOGDRUPPELS | AZELASTINE-.5-MG/ML-OOGDRUPPELS | 0.99317800 per ml |
+| AZELASTINE-.5-MG/ML-OOGDRUPPELS | AZELASTINE-.5-MG/ML-OOGDRUPPELS | 1.01402100 per ml |
 | Registratienummer | Artikelnaam |   |
 | 22946 | Allergodil oogdruppels 0,5mg/ml flacon 6ml |   |
 | 33485/22946 | Allergodil oogdruppels 0,5mg/ml flacon 6ml |   |
 | Productgroep |   | Maximumprijs |
-| AZELASTINE-1-MG/ML-NEUSSPRAY | AZELASTINE-1-MG/ML-NEUSSPRAY | 0.59305000 per ml |
+| AZELASTINE-1-MG/ML-NEUSSPRAY | AZELASTINE-1-MG/ML-NEUSSPRAY | 0.60131000 per ml |
 | Registratienummer | Artikelnaam |   |
 | 17886 | Allergodil nevel neusspray 1mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| AZITHROMYCIN-250-MG-TABLET | AZITHROMYCIN-250-MG-TABLET | 1.53522800 per stuk |
+| AZITHROMYCIN-250-MG-TABLET | AZITHROMYCIN-250-MG-TABLET | 1.52190000 per stuk |
 | Registratienummer | Artikelnaam |   |
+| 102381 | Azitromycine actavis tablet omhuld 250mg |   |
 | 19432 | Zithromax tablet 250mg |   |
 | 28931 | Azitromycine pch tablet omhuld 250mg |   |
 | 32491 | Azitromycine sandoz tablet omhuld 250mg |   |
 | 32493 | Azitromycine cf tablet omhuld 250mg |   |
 | Productgroep |   | Maximumprijs |
-| AZITHROMYCIN-40-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | AZITHROMYCIN-40-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.35250600 per ml |
+| AZITHROMYCIN-40-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | AZITHROMYCIN-40-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.35054000 per ml |
 | Registratienummer | Artikelnaam |   |
 | 14999 | Zithromax poeder voor suspensie 200mg/5ml |   |
 | Productgroep |   | Maximumprijs |
-| AZITHROMYCIN-500-MG-TABLET | AZITHROMYCIN-500-MG-TABLET | 2.96553200 per stuk |
+| AZITHROMYCIN-500-MG-TABLET | AZITHROMYCIN-500-MG-TABLET | 2.90678900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 19433 | Zithromax tablet 500mg |   |
 | 28932 | Azitromycine pch tablet omhuld 500mg |   |
-| 29677 | Azitromycine merck tablet omhuld 500mg |   |
+| 29677 | Azitromycine mylan tablet omhuld 500mg |   |
 | 31511 | Azitromycine rp tablet omhuld 500mg |   |
 | 32492 | Azitromycine sandoz tablet omhuld 500mg |   |
 | 32494 | Azitromycine cf tablet omhuld 500mg |   |
 | Productgroep |   | Maximumprijs |
-| BACLOFEN-10-MG-TABLET | BACLOFEN-10-MG-TABLET | 0.07439400 per stuk |
+| BACLOFEN-10-MG-TABLET | BACLOFEN-10-MG-TABLET | 0.07502900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12153 | Baclofen rp tablet 10mg |   |
 | 20258=12153 | Baclofen a tablet 10mg |   |
 | 21618 | Baclofen actavis tablet 10mg |   |
 | 21993=12153 | Baclofen pch tablet 10mg |   |
 | 23864=12153 | Baclofen sandoz tablet 10mg |   |
-| 24100=12153 | Baclofen merck tablet 10mg |   |
 | 24100=12153 | Baclofen mylan tablet 10mg |   |
 | 6347 | Lioresal tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| BACLOFEN-25-MG-TABLET | BACLOFEN-25-MG-TABLET | 0.18359900 per stuk |
+| BACLOFEN-25-MG-TABLET | BACLOFEN-25-MG-TABLET | 0.18299500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12154 | Baclofen rp tablet 25mg |   |
 | 20259=12154 | Baclofen a tablet 25mg |   |
 | 22000=12154 | Baclofen pch tablet 25mg |   |
 | 23865=12154 | Baclofen sandoz tablet 25mg |   |
-| 25864=12154 | Baclofen merck tablet 25mg |   |
+| 25864=12154 | Baclofen mylan tablet 25mg |   |
 | 6348 | Lioresal tablet 25mg |   |
 | Productgroep |   | Maximumprijs |
-| BECAPLERMINE-.1-MG/G-HUIDGEL | BECAPLERMINE-.1-MG/G-HUIDGEL | 21.61099300 per g |
+| BECAPLERMINE-.1-MG/G-HUIDGEL | BECAPLERMINE-.1-MG/G-HUIDGEL | 21.95262700 per g |
 | Registratienummer | Artikelnaam |   |
 | EU/1/99/101/001 | Regranex gel 0,1mg/g |   |
 | Productgroep |   | Maximumprijs |
-| BECLOMETASONE-.05-MG-AEROSOL | BECLOMETASONE-.05-MG-AEROSOL | 0.03454700 per dosis |
+| BECLOMETASONE-.05-MG-AEROSOL | BECLOMETASONE-.05-MG-AEROSOL | 0.03582400 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 27482 | Beclometason a aer cfkvr 50mcg/do spbs 200do+inh |   |
 | 28880=27482 | Beclometason rp aer cfkvr 50mcg/do spbs 200do+inh |   |
@@ -787,13 +776,13 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 33664 | Beclometasondiprop pch aer 50mcg/do spb 200do+inh |   |
 | 34150 | Beclometason sandoz aer 50mcg/do spbs 200do+inh |   |
 | Productgroep |   | Maximumprijs |
-| BECLOMETASONE-.05-MG-NEUSSPRAY | BECLOMETASONE-.05-MG-NEUSSPRAY | 0.02683200 per dosis |
+| BECLOMETASONE-.05-MG-NEUSSPRAY | BECLOMETASONE-.05-MG-NEUSSPRAY | 0.02654100 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 10957 | Beclometason nevel sandoz neussp 50mcg/do fl 200do |   |
 | 15716 | Beclometason nevel pch neusspray 50mcg/do fl 200do |   |
 | 28086=10957 | Beclometason nevel rp neusspray 50mcg/do fl 200do |   |
 | Productgroep |   | Maximumprijs |
-| BECLOMETASONE-.1-MG-AEROSOL | BECLOMETASONE-.1-MG-AEROSOL | 0.08376100 per dosis |
+| BECLOMETASONE-.1-MG-AEROSOL | BECLOMETASONE-.1-MG-AEROSOL | 0.08467800 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 101709 | Beclometason a aer cfkvr 100mcg/do spbs 200do+inh |   |
 | 27483 | Beclometason a aer cfkvr 100mcg/do spbs 200do+inh |   |
@@ -805,15 +794,15 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 33665 | Beclometasondiprop pch aer 100mcg/do spb 200do+inh |   |
 | 34151 | Beclometason sandoz aer 100mcg/do spbs 200do+inh |   |
 | Productgroep |   | Maximumprijs |
-| BECLOMETASONE-.1-MG-INHALATIEPOEDER INCL INHALER | BECLOMETASONE-.1-MG-INHALATIEPOEDER INCL INHALER | 0.07478600 per stuk |
+| BECLOMETASONE-.1-MG-INHALATIEPOEDER INCL INHALER | BECLOMETASONE-.1-MG-INHALATIEPOEDER INCL INHALER | 0.07615400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13390 | Beclometason pch cyclocaps inhalpdr 100mcg+cycloha |   |
 | Productgroep |   | Maximumprijs |
-| BECLOMETASONE-.2-MG-INHALATIEPOEDER INCL INHALER | BECLOMETASONE-.2-MG-INHALATIEPOEDER INCL INHALER | 0.13066900 per stuk |
+| BECLOMETASONE-.2-MG-INHALATIEPOEDER INCL INHALER | BECLOMETASONE-.2-MG-INHALATIEPOEDER INCL INHALER | 0.13315600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13391 | Beclometason pch cyclocaps inhalpdr 200mcg+cycloha |   |
 | Productgroep |   | Maximumprijs |
-| BECLOMETASONE-.25-MG-AEROSOL | BECLOMETASONE-.25-MG-AEROSOL | 0.10866900 per dosis |
+| BECLOMETASONE-.25-MG-AEROSOL | BECLOMETASONE-.25-MG-AEROSOL | 0.11079600 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 101710 | Beclometason a aer cfkvr 250mcg/do spbs 200do+inh |   |
 | 27484 | Beclometason a aer cfkvr 250mcg/do spbs 200do+inh |   |
@@ -825,20 +814,21 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 33667 | Beclometasondiprop pch aer 250mcg/do spb 200do+inh |   |
 | 34152 | Beclometason sandoz aer 250mcg/do spbs 200do+inh |   |
 | Productgroep |   | Maximumprijs |
-| BECLOMETASONE-.4-MG-INHALATIEPOEDER INCL INHALER | BECLOMETASONE-.4-MG-INHALATIEPOEDER INCL INHALER | 0.25344700 per stuk |
+| BECLOMETASONE-.4-MG-INHALATIEPOEDER INCL INHALER | BECLOMETASONE-.4-MG-INHALATIEPOEDER INCL INHALER | 0.24213500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13392 | Beclometason pch cyclocaps inhalpdr 400mcg+cycloha |   |
 | Productgroep |   | Maximumprijs |
-| BECLOMETASONE-0.1-MG-AEROSOL-FORMOTEROL-0.006-MG-AEROSOL | BECLOMETASONE-0.1-MG-AEROSOL-FORMOTEROL-0.006-MG-AEROSOL | 0.31264500 per dosis |
+| BECLOMETASONE-0.1-MG-AEROSOL-FORMOTEROL-0.006-MG-AEROSOL | BECLOMETASONE-0.1-MG-AEROSOL-FORMOTEROL-0.006-MG-AEROSOL | 0.31951800 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 103959/34610 | Foster aerosol 100/6mcg/dosis spuitbus 120do |   |
+| 105056/34610 | Foster aerosol 100/6mcg/dosis spuitbus 120do |   |
 | 34610 | Foster aerosol 100/6mcg/dosis spuitbus 120do |   |
 | Productgroep |   | Maximumprijs |
-| BENAZEPRIL-10-MG-TABLET | BENAZEPRIL-10-MG-TABLET | 0.28882900 per stuk |
+| BENAZEPRIL-10-MG-TABLET | BENAZEPRIL-10-MG-TABLET | 0.28271900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 14080 | Cibacen tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| BENSERAZIDE-25-MG-BRUISTABLET-LEVODOPA-100-MG-BRUISTABLET | BENSERAZIDE-25-MG-BRUISTABLET-LEVODOPA-100-MG-BRUISTABLET | 0.13007200 per stuk |
+| BENSERAZIDE-25-MG-BRUISTABLET-LEVODOPA-100-MG-BRUISTABLET | BENSERAZIDE-25-MG-BRUISTABLET-LEVODOPA-100-MG-BRUISTABLET | 0.13432800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 19428 | Madopar disper tablet 125mg |   |
 | Productgroep |   | Maximumprijs |
@@ -846,28 +836,32 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | Registratienummer | Artikelnaam |   |
 | 2697 | Betnesol lavement 0,05mg/ml flacon 100ml |   |
 | Productgroep |   | Maximumprijs |
-| BETAMETHASONE-.5-MG-TABLET | BETAMETHASONE-.5-MG-TABLET | 0.08572400 per stuk |
+| BETAMETHASONE-.5-MG-TABLET | BETAMETHASONE-.5-MG-TABLET | 0.08364000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 1834 | Celestone tablet 0,5mg |   |
 | Productgroep |   | Maximumprijs |
-| BETAMETHASONE-.5-MG/G-CREME, CUTAAN | BETAMETHASONE-.5-MG/G-CREME, CUTAAN | 0.12329800 per g |
+| BETAMETHASONE-.5-MG/G-CREME, CUTAAN | BETAMETHASONE-.5-MG/G-CREME, CUTAAN | 0.12099500 per g |
 | Registratienummer | Artikelnaam |   |
 | 17955/6650 | Diprosone creme 0,5mg/g |   |
 | 29743/6650 | Diprosone creme 0,5mg/g |   |
 | 6650 | Diprosone creme 0,5mg/g |   |
 | Productgroep |   | Maximumprijs |
-| BETAMETHASONE-.5-MG/G-ZALF, CUTAAN | BETAMETHASONE-.5-MG/G-ZALF, CUTAAN | 0.11846800 per g |
+| BETAMETHASONE-.5-MG/G-ZALF, CUTAAN | BETAMETHASONE-.5-MG/G-ZALF, CUTAAN | 0.11623400 per g |
 | Registratienummer | Artikelnaam |   |
 | 6864 | Diprosone zalf 0,5mg/g (0,05%) |   |
 | 9522 | Diprolene zalf 0,5mg/g |   |
 | Productgroep |   | Maximumprijs |
-| BETAMETHASONE-.5-MG/ML-APPLICATIEVLOEISTOF, VOOR CUTAAN GEBRUIK | BETAMETHASONE-.5-MG/ML-APPLICATIEVLOEISTOF, VOOR CUTAAN GEBRUIK | 0.14662800 per ml |
+| BETAMETHASONE-.5-MG/ML-APPLICATIEVLOEISTOF, VOOR CUTAAN GEBRUIK | BETAMETHASONE-.5-MG/ML-APPLICATIEVLOEISTOF, VOOR CUTAAN GEBRUIK | 0.14372900 per ml |
 | Registratienummer | Artikelnaam |   |
 | 13546/8211 | Diprosone lotion 0,5mg/g |   |
 | 13546/8211 | Diprosone lotion 0,5mg/g (0,05%) |   |
 | 8211 | Diprosone lotion 0,5mg/g (0,05%) |   |
 | Productgroep |   | Maximumprijs |
-| BETAMETHASONE-1-MG/G-CREME, CUTAAN | BETAMETHASONE-1-MG/G-CREME, CUTAAN | 0.08199600 per g |
+| BETAMETHASONE-0.5-MG/G-HUIDGEL-CALCIPOTRIOL-0.05-MG/G-HUIDGEL | BETAMETHASONE-0.5-MG/G-HUIDGEL-CALCIPOTRIOL-0.05-MG/G-HUIDGEL | 0.76249600 per g |
+| Registratienummer | Artikelnaam |   |
+| 101496 | Xamiol gel |   |
+| Productgroep |   | Maximumprijs |
+| BETAMETHASONE-1-MG/G-CREME, CUTAAN | BETAMETHASONE-1-MG/G-CREME, CUTAAN | 0.07855200 per g |
 | Registratienummer | Artikelnaam |   |
 | 16004 | Betamethason pch creme 1mg/g |   |
 | 24178=16004 | Betamethason rp creme 1mg/g |   |
@@ -875,54 +869,54 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 28902=16004 | Cremor betamethasoni 1mg/g |   |
 | 4519 | Betnelan hydrofiele creme 1mg/g |   |
 | Productgroep |   | Maximumprijs |
-| BETAMETHASONE-1-MG/G-ZALF, CUTAAN | BETAMETHASONE-1-MG/G-ZALF, CUTAAN | 0.08641500 per g |
+| BETAMETHASONE-1-MG/G-ZALF, CUTAAN | BETAMETHASONE-1-MG/G-ZALF, CUTAAN | 0.08337300 per g |
 | Registratienummer | Artikelnaam |   |
 | 16003 | Betamethason pch zalf 1mg/g |   |
 | 24179=16003 | Betamethason rp zalf 1mg/g |   |
 | 28848=4520 | Betamethason sandoz zalf 1mg/g |   |
 | 4520 | Betnelan hydrofobe zalf 1mg/g |   |
 | Productgroep |   | Maximumprijs |
-| BETAMETHASONE-1-MG/ML-APPLICATIEVLOEISTOF, VOOR CUTAAN GEBRUIK | BETAMETHASONE-1-MG/ML-APPLICATIEVLOEISTOF, VOOR CUTAAN GEBRUIK | 0.10082500 per ml |
+| BETAMETHASONE-1-MG/ML-APPLICATIEVLOEISTOF, VOOR CUTAAN GEBRUIK | BETAMETHASONE-1-MG/ML-APPLICATIEVLOEISTOF, VOOR CUTAAN GEBRUIK | 0.10218400 per ml |
 | Registratienummer | Artikelnaam |   |
 | 16002 | Betamethason pch lotion 1mg/g |   |
 | 28849=5650 | Betamethason sandoz lotion 1mg/g |   |
 | 5650 | Betnelan lotion 1mg/g |   |
 | Productgroep |   | Maximumprijs |
-| BETAMETHASONE-1-MG/ML-SMEERSEL/EMULSIE, ALS DERMATICUM | BETAMETHASONE-1-MG/ML-SMEERSEL/EMULSIE, ALS DERMATICUM | 0.10879100 per ml |
+| BETAMETHASONE-1-MG/ML-SMEERSEL/EMULSIE, ALS DERMATICUM | BETAMETHASONE-1-MG/ML-SMEERSEL/EMULSIE, ALS DERMATICUM | 0.10607600 per ml |
 | Registratienummer | Artikelnaam |   |
 | 17806 | Betnelan huidemulsie 1mg/g |   |
 | Productgroep |   | Maximumprijs |
-| BETAXOLOL-2.5-MG/ML-OOGDRUPPELS | BETAXOLOL-2.5-MG/ML-OOGDRUPPELS | 0.97929200 per ml |
+| BETAXOLOL-2.5-MG/ML-OOGDRUPPELS | BETAXOLOL-2.5-MG/ML-OOGDRUPPELS | 0.95282300 per ml |
 | Registratienummer | Artikelnaam |   |
 | 15337 | Betoptic s oogdruppels 2,5mg/ml flacon 5ml |   |
 | 24668/15337 | Betoptic s oogdruppels 2,5mg/ml flacon 5ml |   |
 | 24988/15337 | Betoptic s oogdruppels 2,5mg/ml flacon 5ml |   |
 | Productgroep |   | Maximumprijs |
-| BETAXOLOL-20-MG-TABLET | BETAXOLOL-20-MG-TABLET | 0.21606500 per stuk |
+| BETAXOLOL-20-MG-TABLET | BETAXOLOL-20-MG-TABLET | 0.20082200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 9984 | Kerlon tablet 20mg |   |
 | Productgroep |   | Maximumprijs |
-| BETAXOLOL-5-MG/ML-OOGDRUPPELS | BETAXOLOL-5-MG/ML-OOGDRUPPELS | 0.85545000 per ml |
+| BETAXOLOL-5-MG/ML-OOGDRUPPELS | BETAXOLOL-5-MG/ML-OOGDRUPPELS | 0.84181000 per ml |
 | Registratienummer | Artikelnaam |   |
 | 11307 | Betoptic oogdruppels 5mg/ml flacon 5ml |   |
 | 22999/11307 | Betoptic oogdruppels 5mg/ml flacon 5ml |   |
 | 23015/11307 | Betoptic oogdruppels 5mg/ml flacon 5ml |   |
 | Productgroep |   | Maximumprijs |
-| BEVACIZUMAB-25-MG/ML-INFUUSVLOEISTOF, FLACON | BEVACIZUMAB-25-MG/ML-INFUUSVLOEISTOF, FLACON | 79.18178500 per ml |
+| BEVACIZUMAB-25-MG/ML-INFUUSVLOEISTOF, FLACON | BEVACIZUMAB-25-MG/ML-INFUUSVLOEISTOF, FLACON | 79.14460100 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/04/300/001 | Avastin infvlst conc 25mg/ml flacon 4ml |   |
 | EU/1/04/300/002 | Avastin infvlst conc 25mg/ml flacon 16ml |   |
 | Productgroep |   | Maximumprijs |
-| BEXAROTENE-75-MG-CAPSULE | BEXAROTENE-75-MG-CAPSULE | 12.80464900 per stuk |
+| BEXAROTENE-75-MG-CAPSULE | BEXAROTENE-75-MG-CAPSULE | 12.74566700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/01/178/001 | Targretin capsule 75mg |   |
 | Productgroep |   | Maximumprijs |
-| BEZAFIBRATE-400-MG-TABLET, MET GEREGULEERDE AFGIFTE | BEZAFIBRATE-400-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.21417700 per stuk |
+| BEZAFIBRATE-400-MG-TABLET, MET GEREGULEERDE AFGIFTE | BEZAFIBRATE-400-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.21747400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 18388 | Bezalip retard tablet mga 400mg |   |
 | 28346/18388 | Bezalip retard tablet mga 400mg |   |
 | Productgroep |   | Maximumprijs |
-| BICALUTAMID-50-MG-TABLET | BICALUTAMID-50-MG-TABLET | 3.01096600 per stuk |
+| BICALUTAMID-50-MG-TABLET | BICALUTAMID-50-MG-TABLET | 2.85987400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100033/18356 | Casodex tablet 50mg |   |
 | 18356 | Casodex tablet 50mg |   |
@@ -935,35 +929,40 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 33826/18356 | Casodex tablet 50mg |   |
 | 34467 | Bicalutamide pch tablet filmomhuld 50mg |   |
 | Productgroep |   | Maximumprijs |
-| BIFONAZOLE-10-MG/G-CREME, CUTAAN | BIFONAZOLE-10-MG/G-CREME, CUTAAN | 0.26533400 per g |
+| BIFONAZOLE-10-MG/G-CREME, CUTAAN | BIFONAZOLE-10-MG/G-CREME, CUTAAN | 0.26433200 per g |
 | Registratienummer | Artikelnaam |   |
 | 10364 | Mycospor creme 10mg/g |   |
 | Productgroep |   | Maximumprijs |
-| BIMATOPROST-.3-MG/ML-OOGDRUPPELS | BIMATOPROST-.3-MG/ML-OOGDRUPPELS | 4.93278700 per ml |
+| BIMATOPROST-.3-MG/ML-OOGDRUPPELS | BIMATOPROST-.3-MG/ML-OOGDRUPPELS | 5.00869800 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/02/205/001 | Lumigan oogdruppels 0,3mg/ml flacon 3ml |   |
 | Productgroep |   | Maximumprijs |
-| BIPERIDEN-2-MG-TABLET | BIPERIDEN-2-MG-TABLET | 0.04643700 per stuk |
+| BIPERIDEN-2-MG-TABLET | BIPERIDEN-2-MG-TABLET | 0.04603600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 2196 | Akineton tablet 2mg |   |
 | 26450/2196 | Akineton tablet 2mg |   |
 | 27679/2196 | Akineton tablet 2mg |   |
 | Productgroep |   | Maximumprijs |
-| BISOPROLOL-10-MG-TABLET | BISOPROLOL-10-MG-TABLET | 0.14980900 per stuk |
+| BISOPROLOL-10-MG-TABLET | BISOPROLOL-10-MG-TABLET | 0.14062500 per stuk |
 | Registratienummer | Artikelnaam |   |
-| 12409 | Emcor 10 tablet 10mg |   |
 | 24009 | Bisoprololfumaraat pch tablet 10mg |   |
 | 24383 | Bisoprololfumaraat rp tablet 10mg |   |
 | 25205 | Bisoprololfumaraat pch tablet 10mg |   |
-| 25234=12409 | Bisoprololfumaraat merck tablet 10mg |   |
+| 25234=12409 | Bisoprololfumaraat mylan tablet 10mg |   |
 | 25687=24387 | Bisoprololfumaraat katwijk tablet 10mg |   |
 | 25807 | Bisoprololfumaraat actavis tablet 10mg |   |
 | 25833 | Bisoprololi fumaras tablet 10mg |   |
 | 25932=12409 | Bisoprololfumaraat a tablet 10mg |   |
 | 26064 | Bisoprololfumaraat cf tablet 10mg |   |
+| 28144 | Bisoprololfumaraat cf tablet filmomhuld 10mg |   |
 | 33101 | Bisoprololfumaraat sandoz tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| BISOPROLOL-5-MG-TABLET | BISOPROLOL-5-MG-TABLET | 0.14137100 per stuk |
+| BISOPROLOL-2.5-MG-TABLET | BISOPROLOL-2.5-MG-TABLET | 0.17266000 per stuk |
+| Registratienummer | Artikelnaam |   |
+| 24503 | Emcor deco tablet 2,5mg |   |
+| 33097 | Bisoprololfumaraat sandoz tablet 2,5mg |   |
+| Productgroep |   | Maximumprijs |
+| BISOPROLOL-5-MG-TABLET | BISOPROLOL-5-MG-TABLET | 0.12178100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12408 | Emcor 5 tablet 5mg |   |
 | 24008 | Bisoprololfumaraat pch tablet 5mg |   |
@@ -975,27 +974,35 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 25832 | Bisoprololi fumaras tablet 5mg |   |
 | 25931=12408 | Bisoprololfumaraat a tablet 5mg |   |
 | 26063 | Bisoprololfumaraat cf tablet 5mg |   |
+| 28143 | Bisoprololfumaraat cf tablet filmomhuld 5mg |   |
 | 33099 | Bisoprololfumaraat sandoz tablet 5mg |   |
 | Productgroep |   | Maximumprijs |
-| BORTEZOMIB-3.5-MG-POED. V. INJECTIE, FLACON | BORTEZOMIB-3.5-MG-POED. V. INJECTIE, FLACON | 1043.530034 per stuk |
+| BISOPROLOL-7.5-MG-TABLET | BISOPROLOL-7.5-MG-TABLET | 0.21026900 per stuk |
+| Registratienummer | Artikelnaam |   |
+| 24506 | Emcor deco tablet 7,5mg |   |
+| Productgroep |   | Maximumprijs |
+| BORTEZOMIB-3.5-MG-POED. V. INJECTIE, FLACON | BORTEZOMIB-3.5-MG-POED. V. INJECTIE, FLACON | 1141.32263500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/04/274/001 | Velcade injpdr flacon 3,5mg |   |
 | Productgroep |   | Maximumprijs |
-| BOTULINUM TOXIN-100-IE-POED. V. INJECTIE, FLACON | BOTULINUM TOXIN-100-IE-POED. V. INJECTIE, FLACON | 216.18958500 per stuk |
+| BOTULINUM TOXIN-100-IE-POED. V. INJECTIE, FLACON | BOTULINUM TOXIN-100-IE-POED. V. INJECTIE, FLACON | 226.42619500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 17379 | Botox injectiepoeder flacon 100e |   |
 | Productgroep |   | Maximumprijs |
-| BOTULINUM TOXIN-500-IE-POED. V. INJECTIE, FLACON | BOTULINUM TOXIN-500-IE-POED. V. INJECTIE, FLACON | 264.18444000 per stuk |
+| BOTULINUM TOXIN-500-IE-POED. V. INJECTIE, FLACON | BOTULINUM TOXIN-500-IE-POED. V. INJECTIE, FLACON | 273.60374000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 17505 | Dysport injectiepoeder flacon 500e |   |
 | Productgroep |   | Maximumprijs |
-| BRIMONIDINE-2-MG/ML-OOGDRUPPELS | BRIMONIDINE-2-MG/ML-OOGDRUPPELS | 1.74128400 per ml |
+| BRIMONIDINE-2-MG/ML-OOGDRUPPELS | BRIMONIDINE-2-MG/ML-OOGDRUPPELS | 1.63474300 per ml |
 | Registratienummer | Artikelnaam |   |
+| 100036 | Brimonidinetartraat pch oogdr 2mg/ml fl 5ml |   |
+| 100260 | Brimonidinetartraat mylan oogdr 2mg/ml fl 5ml |   |
+| 103574 | Brimonidinetartraat sandoz oogdr 2mg/ml fl 5ml |   |
 | 21754 | Alphagan oogdruppels 2mg/ml flacon 5ml |   |
 | 26134/21754 | Alphagan oogdruppels 2mg/ml flacon 5ml |   |
 | 27110/21754 | Alphagan oogdruppels 2mg/ml flacon 5ml |   |
 | Productgroep |   | Maximumprijs |
-| BRINZOLAMIDE-10-MG/ML-OOGDRUPPELS | BRINZOLAMIDE-10-MG/ML-OOGDRUPPELS | 2.05277400 per ml |
+| BRINZOLAMIDE-10-MG/ML-OOGDRUPPELS | BRINZOLAMIDE-10-MG/ML-OOGDRUPPELS | 2.07904700 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/00/129/001 | Azopt oogdruppels 10mg/ml flacon 5ml |   |
 | EU/1/00/129/003 | Azopt oogdruppels 10mg/ml flacon 5ml |   |
@@ -1009,7 +1016,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 21560=12991 | Bromazepam actavis tablet 3mg |   |
 | 27673=12991 | Bromazepam cf tablet 3mg |   |
 | Productgroep |   | Maximumprijs |
-| BROMAZEPAM-6-MG-TABLET | BROMAZEPAM-6-MG-TABLET | 0.06652600 per stuk |
+| BROMAZEPAM-6-MG-TABLET | BROMAZEPAM-6-MG-TABLET | 0.06657600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12992 | Bromazepam sandoz tablet 6mg |   |
 | 20906=12992 | Bromazepam rp tablet 6mg |   |
@@ -1018,12 +1025,12 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 21561=12992 | Bromazepam actavis tablet 6mg |   |
 | 27674=12992 | Bromazepam cf tablet 6mg |   |
 | Productgroep |   | Maximumprijs |
-| BROMOCRIPTINE-2.5-MG-TABLET | BROMOCRIPTINE-2.5-MG-TABLET | 0.38045100 per stuk |
+| BROMOCRIPTINE-2.5-MG-TABLET | BROMOCRIPTINE-2.5-MG-TABLET | 0.40507600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 18095/8202 | Parlodel tablet 2,5mg |   |
 | 8202 | Parlodel tablet 2,5mg |   |
 | Productgroep |   | Maximumprijs |
-| BROMOCRIPTINE-5-MG-CAPSULE | BROMOCRIPTINE-5-MG-CAPSULE | 0.45859300 per stuk |
+| BROMOCRIPTINE-5-MG-CAPSULE | BROMOCRIPTINE-5-MG-CAPSULE | 0.45818500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 25240/9355 | Parlodel capsule 5mg |   |
 | 9355 | Parlodel capsule 5mg |   |
@@ -1032,10 +1039,10 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | Registratienummer | Artikelnaam |   |
 | 10015 | Lendormin tablet 0,25mg |   |
 | Productgroep |   | Maximumprijs |
-| BUDESONIDE-.05-MG-NEUSSPRAY | BUDESONIDE-.05-MG-NEUSSPRAY | 0.03620000 per dosis |
+| BUDESONIDE-.05-MG-NEUSSPRAY | BUDESONIDE-.05-MG-NEUSSPRAY | 0.03229400 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 21040 | Budesonide pch nevel neusspray 50mcg/do 200do |   |
-| 24012 | Budesonide katwijk nevel neusspray 50mcg/do 200do |   |
+| 24012 | Budesonide apotex nevel neusspray 50mcg/do 200do |   |
 | 26290 | Budesonide mylan nevel neusspray 50mcg/do 200do |   |
 | 27005 | Budesonide a nevel neusspray 50mcg/do 200do |   |
 | 27292 | Budesonide cf nevel neusspray 50mcg/do 200do |   |
@@ -1043,23 +1050,23 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 27648 | Budesonide sandoz nevel neusspray 50mcg/do 200do |   |
 | 29767 | Budesonide actavis nevel neusspray 50mcg/do 200do |   |
 | Productgroep |   | Maximumprijs |
-| BUDESONIDE-.064-MG-NEUSSPRAY | BUDESONIDE-.064-MG-NEUSSPRAY | 0.07353800 per dosis |
+| BUDESONIDE-.064-MG-NEUSSPRAY | BUDESONIDE-.064-MG-NEUSSPRAY | 0.07354000 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 23838 | Rhinocort nevel neusspray 64mcg/do 120do |   |
 | 31010/23838 | Rhinocort nevel neusspray 64mcg/do 120do |   |
 | 31567/23838 | Rhinocort nevel neusspray 64mcg/do 120do |   |
 | 32050/23838 | Rhinocort nevel neusspray 64mcg/do 120do |   |
 | Productgroep |   | Maximumprijs |
-| BUDESONIDE-.1-MG-AEROSOL | BUDESONIDE-.1-MG-AEROSOL | 0.08510400 per dosis |
+| BUDESONIDE-.1-MG-AEROSOL | BUDESONIDE-.1-MG-AEROSOL | 0.07816400 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 33586 | Pulmicort 100 aer cfkvr 100mcg/do spbs 120do+inh |   |
 | Productgroep |   | Maximumprijs |
-| BUDESONIDE-.1-MG-INHALATIEPOEDER INCL INHALER | BUDESONIDE-.1-MG-INHALATIEPOEDER INCL INHALER | 0.08054600 per dosis |
+| BUDESONIDE-.1-MG-INHALATIEPOEDER INCL INHALER | BUDESONIDE-.1-MG-INHALATIEPOEDER INCL INHALER | 0.08185400 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 14758 | Pulmicort 100 turbuhaler inhalpdr 100mcg/do 200do |   |
 | 25678/14758 | Pulmicort 100 turbuhaler inhalpdr 100mcg/do 200do |   |
 | Productgroep |   | Maximumprijs |
-| BUDESONIDE-.1-MG-INHALATIEPOEDER INCL INHALER-FORMOTEROL-.006-MG-INHALATIEPOEDER | BUDESONIDE-.1-MG-INHALATIEPOEDER INCL INHALER-FORMOTEROL-.006-MG-INHALATIEPOEDER | 0.35439500 per dosis |
+| BUDESONIDE-.1-MG-INHALATIEPOEDER INCL INHALER-FORMOTEROL-.006-MG-INHALATIEPOEDER | BUDESONIDE-.1-MG-INHALATIEPOEDER INCL INHALER-FORMOTEROL-.006-MG-INHALATIEPOEDER | 0.35797100 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 25886 | Symbicort turbuhaler inhalpdr 100/6mcg/do 120do |   |
 | 29643/25886 | Symbicort turbuhaler inhalpdr 100/6mcg/do 120do |   |
@@ -1067,29 +1074,26 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 32677/25886 | Symbicort turbuhaler inhalpdr 100/6mcg/do 120do |   |
 | 32739/25886 | Symbicort turbuhaler inhalpdr 100/6mcg/do 120do |   |
 | 34582/25886 | Symbicort turbuhaler inhalpdr 100/6mcg/do 120do |   |
-| 35159/25886 | Symbicort turbuhaler inhalpdr 100/6mcg/do 120do |   |
 | Productgroep |   | Maximumprijs |
-| BUDESONIDE-.2-MG-AEROSOL | BUDESONIDE-.2-MG-AEROSOL | 0.12170400 per dosis |
+| BUDESONIDE-.2-MG-AEROSOL | BUDESONIDE-.2-MG-AEROSOL | 0.12120900 per dosis |
 | Registratienummer | Artikelnaam |   |
-| 10868 | Pulmicort 200 aerosol 200mcg/do spbs 200do+inhal |   |
-| 26171/10868 | Pulmicort 200 aerosol 200mcg/do spbs 200do+inhal |   |
 | 32251 | Budesonide allgen aerosol cfkv 200mcg/do 200do |   |
 | 32252 | Ribuspir 200 aer cfkvr 200mcg/do spbs 200do+inh |   |
 | 33587 | Pulmicort 200 aer cfkvr 200mcg/do spbs 120do+inh |   |
 | 34330 | Budesonide a aer cfkvr 200mcg/do 200do |   |
 | Productgroep |   | Maximumprijs |
-| BUDESONIDE-.2-MG-INHALATIEPOEDER | BUDESONIDE-.2-MG-INHALATIEPOEDER | 0.09429400 per dosis |
+| BUDESONIDE-.2-MG-INHALATIEPOEDER | BUDESONIDE-.2-MG-INHALATIEPOEDER | 0.09787100 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 28795 | Budesonide novolizer inhalpd navul 200mcg/do 200do |   |
 | Productgroep |   | Maximumprijs |
-| BUDESONIDE-.2-MG-INHALATIEPOEDER INCL INHALER | BUDESONIDE-.2-MG-INHALATIEPOEDER INCL INHALER | 0.12734500 per dosis |
+| BUDESONIDE-.2-MG-INHALATIEPOEDER INCL INHALER | BUDESONIDE-.2-MG-INHALATIEPOEDER INCL INHALER | 0.12951300 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 13698 | Pulmicort 200 turbuhaler inhalpdr 200mcg/do 200do |   |
 | 18062 | Budesonide cyclocaps inhalpdr 200mcg +cyclohaler |   |
 | 28795 | Budesonide novolizer pdr start 200mcg/do 200do+inh |   |
 | 30315 | Budesonide sandoz 200 easyh inhalpd 200mcg/do 200d |   |
 | Productgroep |   | Maximumprijs |
-| BUDESONIDE-.2-MG-INHALATIEPOEDER INCL INHALER-FORMOTEROL-.006-MG-INHALATIEPOEDER | BUDESONIDE-.2-MG-INHALATIEPOEDER INCL INHALER-FORMOTEROL-.006-MG-INHALATIEPOEDER | 0.40897700 per dosis |
+| BUDESONIDE-.2-MG-INHALATIEPOEDER INCL INHALER-FORMOTEROL-.006-MG-INHALATIEPOEDER | BUDESONIDE-.2-MG-INHALATIEPOEDER INCL INHALER-FORMOTEROL-.006-MG-INHALATIEPOEDER | 0.41976900 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 100620/25887 | Symbicort turbuhaler inhalpdr 200/6mcg/do 120do |   |
 | 101886/25887 | Symbicort turbuhaler inhalpdr 200/6mcg/do 60do |   |
@@ -1106,14 +1110,12 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 34469/25887 | Symbicort turbuhaler inhalpdr 200/6mcg/do 120do |   |
 | 34538/25887 | Assieme turbuhaler inhalpdr 200/6mcg/do 120do |   |
 | 35038/25887 | Sinestic turbuhaler inhalpdr 200/6mcg/do 120do |   |
-| 35160/25887 | Symbicort turbuhaler inhalpdr 200/6mcg/do 120do |   |
 | Productgroep |   | Maximumprijs |
-| BUDESONIDE-.25-MG/ML-INHALATIEVLOEISTOF UNITDOSE | BUDESONIDE-.25-MG/ML-INHALATIEVLOEISTOF UNITDOSE | 0.72682900 per ml |
+| BUDESONIDE-.25-MG/ML-INHALATIEVLOEISTOF UNITDOSE | BUDESONIDE-.25-MG/ML-INHALATIEVLOEISTOF UNITDOSE | 0.74459700 per ml |
 | Registratienummer | Artikelnaam |   |
 | 14196 | Pulmicort 500 inhvlst 0,250mg/ml respule 2ml |   |
 | 24528/14196 | Pulmicort 500 inhvlst 0,250mg/ml respule 2ml |   |
 | 26439/14196 | Pulmicort 500 inhvlst 0,250mg/ml respule 2ml |   |
-| 29335/14196 | Pulmicort 500 inhvlst 0,250mg/ml respule 2ml |   |
 | 31044/14196 | Pulmicort 500 inhvlst 0,250mg/ml respule 2ml |   |
 | 33483/14196 | Pulmicort 500 inhvlst 0,250mg/ml respule 2ml |   |
 | Productgroep |   | Maximumprijs |
@@ -1121,7 +1123,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | Registratienummer | Artikelnaam |   |
 | 32454 | Budesonide novolizer inhalpd navul 400mcg/do 100do |   |
 | Productgroep |   | Maximumprijs |
-| BUDESONIDE-.4-MG-INHALATIEPOEDER INCL INHALER | BUDESONIDE-.4-MG-INHALATIEPOEDER INCL INHALER | 0.26914700 per dosis |
+| BUDESONIDE-.4-MG-INHALATIEPOEDER INCL INHALER | BUDESONIDE-.4-MG-INHALATIEPOEDER INCL INHALER | 0.27481200 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 100634/13699 | Pulmicort 400 turbuhaler inhalpdr 400mcg/do 200do |   |
 | 102771/13699 | Pulmicort 400 turbuhaler inhalpdr 400mcg/do 200do |   |
@@ -1134,14 +1136,13 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 21633/13699 | Pulmicort 400 turbuhaler inhalpdr 400mcg/do 200do |   |
 | 21633/13699 | Pulmicort 400 turbuhaler inhalpdr 400mcg/do 100do |   |
 | 22998/13699 | Pulmicort 400 turbuhaler inhalpdr 400mcg/do 100do |   |
-| 25465/13699 | Pulmicort 400 turbuhaler inhalpdr 400mcg/do 100do |   |
 | 30316 | Budesonide sandoz 400 easyh inhalpd 400mcg/do 100d |   |
 | 30358 | Budesonide clickhaler kr inhpdr 400mcg/do 100do |   |
 | 32454 | Budesonide novolizer pdr start 400mcg/do 100do+inh |   |
 | 33768/13699 | Pulmicort 400 turbuhaler inhalpdr 400mcg/do 200do |   |
 | 34693/13699 | Pulmicort 400 turbuhaler inhalpdr 400mcg/do 200do |   |
 | Productgroep |   | Maximumprijs |
-| BUDESONIDE-.4-MG-INHALATIEPOEDER INCL INHALER-FORMOTEROL-.012-MG-INHALATIEPOEDER | BUDESONIDE-.4-MG-INHALATIEPOEDER INCL INHALER-FORMOTEROL-.012-MG-INHALATIEPOEDER | 0.81605800 per dosis |
+| BUDESONIDE-.4-MG-INHALATIEPOEDER INCL INHALER-FORMOTEROL-.012-MG-INHALATIEPOEDER | BUDESONIDE-.4-MG-INHALATIEPOEDER INCL INHALER-FORMOTEROL-.012-MG-INHALATIEPOEDER | 0.82682600 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 100572/27690 | Symbicort turbuhaler inhalpdr 400/12mcg/do 60do |   |
 | 102318/27690 | Sinestic turbuhaler inhalpdr 400/12mcg/do 60do |   |
@@ -1155,70 +1156,79 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 33045/27690 | Assieme turbuhaler inhalpdr 400/12mcg/do 60do |   |
 | 33191/27690 | Symbicort turbuhaler inhalpdr 400/12mcg/do 60do |   |
 | 33859/27690 | Symbicort turbuhaler inhalpdr 400/12mcg/do 60do |   |
-| 35161/27690 | Symbicort turbuhaler inhalpdr 400/12mcg/do 60do |   |
 | Productgroep |   | Maximumprijs |
-| BUDESONIDE-.5-MG/ML-INHALATIEVLOEISTOF UNITDOSE | BUDESONIDE-.5-MG/ML-INHALATIEVLOEISTOF UNITDOSE | 1.05385600 per ml |
+| BUDESONIDE-.5-MG/ML-INHALATIEVLOEISTOF UNITDOSE | BUDESONIDE-.5-MG/ML-INHALATIEVLOEISTOF UNITDOSE | 1.05402200 per ml |
 | Registratienummer | Artikelnaam |   |
 | 14197 | Pulmicort 1000 inhvlst 0,500mg/ml respule 2ml |   |
 | 24529/14197 | Pulmicort 1000 inhvlst 0,500mg/ml respule 2ml |   |
 | 26440/14197 | Pulmicort 1000 inhvlst 0,500mg/ml respule 2ml |   |
-| 29336/14197 | Pulmicort 1000 inhvlst 0,500mg/ml respule 2ml |   |
 | 30972/14197 | Pulmicort 1000 inhvlst 0,500mg/ml respule 2ml |   |
 | 33484/14197 | Pulmicort 1000 inhvlst 0,500mg/ml respule 2ml |   |
 | Productgroep |   | Maximumprijs |
-| BUDESONIDE-2.3-MG-TABLET VOOR KLYSMA | BUDESONIDE-2.3-MG-TABLET VOOR KLYSMA | 5.99774700 per stuk |
+| BUDESONIDE-2.3-MG-TABLET VOOR KLYSMA | BUDESONIDE-2.3-MG-TABLET VOOR KLYSMA | 6.05849600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15660 | Entocort tablet voor klysma + solvens 115ml |   |
 | 25708/15660 | Entocort tablet voor klysma + solvens 115ml |   |
 | 26118/15660 | Entocort tablet voor klysma + solvens 115ml |   |
 | 30511/15660 | Entocort tablet voor klysma + solvens 115ml |   |
 | Productgroep |   | Maximumprijs |
-| BUDESONIDE-3-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | BUDESONIDE-3-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 1.04570200 per stuk |
+| BUDESONIDE-3-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | BUDESONIDE-3-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 1.05314200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 18765 | Entocort capsule mga 3mg |   |
 | Productgroep |   | Maximumprijs |
-| BUMETANIDE-1-MG-TABLET | BUMETANIDE-1-MG-TABLET | 0.11929600 per stuk |
+| BUMETANIDE-1-MG-TABLET | BUMETANIDE-1-MG-TABLET | 0.12082400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 23140 | Bumetanide cf tablet 1mg |   |
 | 23886=57488 | Bumetanide pch tablet 1mg |   |
 | Productgroep |   | Maximumprijs |
-| BUMETANIDE-5-MG-TABLET | BUMETANIDE-5-MG-TABLET | 0.54125900 per stuk |
+| BUMETANIDE-5-MG-TABLET | BUMETANIDE-5-MG-TABLET | 0.55631700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 23141 | Bumetanide cf tablet 5mg |   |
 | 23887=57489 | Bumetanide pch tablet 5mg |   |
 | 30467 | Bumetanide rp tablet 5mg |   |
 | Productgroep |   | Maximumprijs |
-| BUPRENORPHINE-.2-MG-TABLET, OROMUCOSAAL | BUPRENORPHINE-.2-MG-TABLET, OROMUCOSAAL | 0.34948400 per stuk |
+| BUPRENORPHINE-.2-MG-TABLET, OROMUCOSAAL | BUPRENORPHINE-.2-MG-TABLET, OROMUCOSAAL | 0.34632600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11872 | Temgesic sl tablet oromucosaal 0,2mg |   |
 | Productgroep |   | Maximumprijs |
-| BUSERELIN-.1-MG-NEUSSPRAY | BUSERELIN-.1-MG-NEUSSPRAY | 0.39762800 per dosis |
+| BUPRENORPHINE-10-MG-PLEISTER, DERMAAL | BUPRENORPHINE-10-MG-PLEISTER, DERMAAL | 14.40613700 per stuk |
+| Registratienummer | Artikelnaam |   |
+| 100978 | Butrans pleister transdermaal 10mcg/uur |   |
+| Productgroep |   | Maximumprijs |
+| BUPRENORPHINE-20-MG-PLEISTER, DERMAAL | BUPRENORPHINE-20-MG-PLEISTER, DERMAAL | 11.96953600 per stuk |
+| Registratienummer | Artikelnaam |   |
+| 100979 | Butrans pleister transdermaal 20mcg/uur |   |
+| Productgroep |   | Maximumprijs |
+| BUPRENORPHINE-8-MG-TABLET, OROMUCOSAAL-NALOXONE-2-MG-TABLET, OROMUCOSAAL | BUPRENORPHINE-8-MG-TABLET, OROMUCOSAAL-NALOXONE-2-MG-TABLET, OROMUCOSAAL | 3.27397500 per stuk |
+| Registratienummer | Artikelnaam |   |
+| EU/1/06/359/003 | Suboxone tablet sublinguaal 8mg/2mg |   |
+| Productgroep |   | Maximumprijs |
+| BUSERELIN-.1-MG-NEUSSPRAY | BUSERELIN-.1-MG-NEUSSPRAY | 0.40394900 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 10873 | Suprefact neusspray 0,1mg/do fl 100do + doseerpomp |   |
 | Productgroep |   | Maximumprijs |
-| BUSPIRONE-10-MG-TABLET | BUSPIRONE-10-MG-TABLET | 0.49733900 per stuk |
+| BUSPIRONE-10-MG-TABLET | BUSPIRONE-10-MG-TABLET | 0.51788100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 19732 | Buspiron hcl cf tablet 10mg |   |
 | 21782=19732 | Buspiron hcl actavis tablet 10mg |   |
 | 21900 | Buspiron hcl sandoz tablet 10mg |   |
-| 27118 | Buspiron hcl merck tablet 10mg |   |
+| 27118 | Buspiron hcl mylan tablet 10mg |   |
 | 27844=21900 | Buspiron hcl pch tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| BUSULFAN-2-MG-TABLET | BUSULFAN-2-MG-TABLET | 0.35142400 per stuk |
+| BUSULFAN-2-MG-TABLET | BUSULFAN-2-MG-TABLET | 0.35982600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 262 | Myleran tablet 2mg |   |
 | Productgroep |   | Maximumprijs |
-| CABERGOLINE-.5-MG-TABLET | CABERGOLINE-.5-MG-TABLET | 5.20769700 per stuk |
+| CABERGOLINE-.5-MG-TABLET | CABERGOLINE-.5-MG-TABLET | 5.11656400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100021/15375 | Dostinex tablet 0,5mg |   |
 | 15375 | Dostinex tablet 0,5mg |   |
 | 26060/15375 | Dostinex tablet 0,5mg |   |
 | 26677/15375 | Dostinex tablet 0,5mg |   |
-| 27429/15375 | Dostinex tablet 0,5mg |   |
 | 28284/15375 | Dostinex tablet 0,5mg |   |
 | 29634/15375 | Dostinex tablet 0,5mg |   |
 | Productgroep |   | Maximumprijs |
-| CALCIPOTRIOL-.05-MG/G-CREME, CUTAAN | CALCIPOTRIOL-.05-MG/G-CREME, CUTAAN | 0.31015300 per g |
+| CALCIPOTRIOL-.05-MG/G-CREME, CUTAAN | CALCIPOTRIOL-.05-MG/G-CREME, CUTAAN | 0.31667000 per g |
 | Registratienummer | Artikelnaam |   |
 | 101225/17877 | Daivonex creme 50mcg/g |   |
 | 17877 | Daivonex creme 50mcg/g |   |
@@ -1226,40 +1236,41 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 32545/17877 | Daivonex creme 50mcg/g |   |
 | 33742/17877 | Daivonex creme 50mcg/g |   |
 | Productgroep |   | Maximumprijs |
-| CALCIPOTRIOL-.05-MG/G-ZALF, CUTAAN | CALCIPOTRIOL-.05-MG/G-ZALF, CUTAAN | 0.25131700 per g |
+| CALCIPOTRIOL-.05-MG/G-ZALF, CUTAAN | CALCIPOTRIOL-.05-MG/G-ZALF, CUTAAN | 0.25564100 per g |
 | Registratienummer | Artikelnaam |   |
 | 21409/15334 | Daivonex water-emulgerende zalf 50mcg/g |   |
 | 21759/15334 | Daivonex water-emulgerende zalf 50mcg/g |   |
 | 33410 | Calcipotriol sandoz zalf 50mcg/g |   |
 | Productgroep |   | Maximumprijs |
-| CALCIPOTRIOL-.05-MG/G-ZALF, CUTAAN-BETAMETHASONE-.5-MG/G-ZALF, CUTAAN | CALCIPOTRIOL-.05-MG/G-ZALF, CUTAAN-BETAMETHASONE-.5-MG/G-ZALF, CUTAAN | 0.71504600 per g |
+| CALCIPOTRIOL-.05-MG/G-ZALF, CUTAAN-BETAMETHASONE-.5-MG/G-ZALF, CUTAAN | CALCIPOTRIOL-.05-MG/G-ZALF, CUTAAN-BETAMETHASONE-.5-MG/G-ZALF, CUTAAN | 0.70672700 per g |
 | Registratienummer | Artikelnaam |   |
+| 105716/27095 | Dovobet zalf |   |
 | 27095 | Dovobet zalf |   |
 | 33411/27095 | Dovobet zalf |   |
 | 33412/27095 | Dovobet zalf |   |
 | Productgroep |   | Maximumprijs |
-| CALCITRIOL-.00025-MG-CAPSULE | CALCITRIOL-.00025-MG-CAPSULE | 0.27644400 per stuk |
+| CALCITRIOL-.00025-MG-CAPSULE | CALCITRIOL-.00025-MG-CAPSULE | 0.28044700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 20778/8285 | Rocaltrol capsule 0,25mcg |   |
 | 27396/8285 | Rocaltrol capsule 0,25mcg |   |
 | 8285 | Rocaltrol capsule 0,25mcg |   |
 | Productgroep |   | Maximumprijs |
-| CALCITRIOL-.0005-MG-CAPSULE | CALCITRIOL-.0005-MG-CAPSULE | 0.51226600 per stuk |
+| CALCITRIOL-.0005-MG-CAPSULE | CALCITRIOL-.0005-MG-CAPSULE | 0.56562100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 20779/8286 | Rocaltrol capsule 0,50mcg |   |
 | 8286 | Rocaltrol capsule 0,50mcg |   |
 | Productgroep |   | Maximumprijs |
-| CALCITRIOL-.003-MG/G-ZALF, CUTAAN | CALCITRIOL-.003-MG/G-ZALF, CUTAAN | 0.26437900 per g |
+| CALCITRIOL-.003-MG/G-ZALF, CUTAAN | CALCITRIOL-.003-MG/G-ZALF, CUTAAN | 0.24005800 per g |
 | Registratienummer | Artikelnaam |   |
 | 16330 | Silkis zalf 3mcg/g |   |
 | 32295/16330 | Silkis zalf 3mcg/g |   |
 | Productgroep |   | Maximumprijs |
-| CALCIUM FOLINATE-15-MG-TABLET | CALCIUM FOLINATE-15-MG-TABLET | 3.05387400 per stuk |
+| CALCIUM FOLINATE-15-MG-TABLET | CALCIUM FOLINATE-15-MG-TABLET | 3.09183700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 17268=11274 | Leucovorine abic tablet 15mg |   |
 | 8997 | Rescuvolin tablet 15mg |   |
 | Productgroep |   | Maximumprijs |
-| CANDESARTAN-16-MG-TABLET | CANDESARTAN-16-MG-TABLET | 0.64173100 per stuk |
+| CANDESARTAN-16-MG-TABLET | CANDESARTAN-16-MG-TABLET | 0.64807600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 101787/21706 | Candesartan cilexetil fisher tablet 16mg |   |
 | 102313/21706 | Ratacand tablet 16mg |   |
@@ -1269,16 +1280,17 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 32846/21706 | Candesartan tablet 16mg |   |
 | 33437/21706 | Amias tablet 16mg |   |
 | Productgroep |   | Maximumprijs |
-| CANDESARTAN-32-MG-TABLET | CANDESARTAN-32-MG-TABLET | 0.88248100 per stuk |
+| CANDESARTAN-32-MG-TABLET | CANDESARTAN-32-MG-TABLET | 0.89632000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 104239/30755 | Candesartan cilexetil fisher tablet 32mg |   |
 | 30755 | Atacand tablet 32mg |   |
 | 32645/30755 | Candesartan cilexetil tablet 32mg |   |
 | 32736/30755 | Candesartan tablet 32mg |   |
 | Productgroep |   | Maximumprijs |
-| CANDESARTAN-8-MG-TABLET | CANDESARTAN-8-MG-TABLET | 0.53500900 per stuk |
+| CANDESARTAN-8-MG-TABLET | CANDESARTAN-8-MG-TABLET | 0.54195100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 101789/21705 | Candesartan cilexetil fisher tablet 8mg |   |
+| 104809/21705 | Atacand tablet 8mg |   |
 | 21705 | Atacand tablet 8mg |   |
 | 25679/21705 | Ratacand tablet 8mg |   |
 | 26589/21705 | Atacand tablet 8mg |   |
@@ -1288,17 +1300,17 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 32730/21705 | Amias tablet 8mg |   |
 | 32845/21705 | Candesartan tablet 8mg |   |
 | Productgroep |   | Maximumprijs |
-| CAPECITABINE-150-MG-TABLET | CAPECITABINE-150-MG-TABLET | 0.98476700 per stuk |
+| CAPECITABINE-150-MG-TABLET | CAPECITABINE-150-MG-TABLET | 1.00104400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/00/163/001 | Xeloda tablet filmomhuld 150mg |   |
 | Productgroep |   | Maximumprijs |
-| CAPECITABINE-500-MG-TABLET | CAPECITABINE-500-MG-TABLET | 3.29898900 per stuk |
+| CAPECITABINE-500-MG-TABLET | CAPECITABINE-500-MG-TABLET | 3.32534500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/00/163/002 | Xeloda tablet filmomhuld 500mg |   |
 | Productgroep |   | Maximumprijs |
-| CAPTOPRIL-12.5-MG-TABLET | CAPTOPRIL-12.5-MG-TABLET | 0.05770000 per stuk |
+| CAPTOPRIL-12.5-MG-TABLET | CAPTOPRIL-12.5-MG-TABLET | 0.05642700 per stuk |
 | Registratienummer | Artikelnaam |   |
-| 19987 | Captopril katwijk tablet 12,5mg |   |
+| 19987 | Captopril apotex tablet 12,5mg |   |
 | 21342 | Captopril actavis tablet 12,5mg |   |
 | 21771 | Captopril sandoz tablet 12,5mg |   |
 | 22027 | Captoprilum tablet 12,5mg |   |
@@ -1307,13 +1319,13 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 23069 | Captopril pch tablet 12,5mg |   |
 | 23143 | Captopril eb tablet 12,5mg |   |
 | 23287 | Captopril cf tablet 12,5mg |   |
-| 23682 | Captopril merck tablet 12,5mg |   |
 | 23682 | Captopril mylan tablet 12,5mg |   |
 | 29014=22027 | Captopril a tablet 12,5mg |   |
 | Productgroep |   | Maximumprijs |
-| CAPTOPRIL-25-MG-TABLET | CAPTOPRIL-25-MG-TABLET | 0.10018900 per stuk |
+| CAPTOPRIL-25-MG-TABLET | CAPTOPRIL-25-MG-TABLET | 0.10101200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 19988 | Captopril katwijk tablet 25mg |   |
+| 19988 | Captopril apotex tablet 25mg |   |
 | 21343 | Captopril actavis tablet 25mg |   |
 | 21772 | Captopril sandoz tablet 25mg |   |
 | 22028 | Captoprilum tablet 25mg |   |
@@ -1322,13 +1334,12 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 23070 | Captopril pch tablet 25mg |   |
 | 23144 | Captopril eb tablet 25mg |   |
 | 23288 | Captopril cf tablet 25mg |   |
-| 23683 | Captopril merck tablet 25mg |   |
 | 23683 | Captopril mylan tablet 25mg |   |
 | 29015=22028 | Captopril a tablet 25mg |   |
 | Productgroep |   | Maximumprijs |
-| CAPTOPRIL-50-MG-TABLET | CAPTOPRIL-50-MG-TABLET | 0.15172500 per stuk |
+| CAPTOPRIL-50-MG-TABLET | CAPTOPRIL-50-MG-TABLET | 0.15244700 per stuk |
 | Registratienummer | Artikelnaam |   |
-| 19989 | Captopril katwijk tablet 50mg |   |
+| 19989 | Captopril apotex tablet 50mg |   |
 | 21344 | Captopril actavis tablet 50mg |   |
 | 21773 | Captopril sandoz tablet 50mg |   |
 | 22029 | Captoprilum tablet 50mg |   |
@@ -1337,16 +1348,15 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 23071 | Captopril pch tablet 50mg |   |
 | 23145 | Captopril eb tablet 50mg |   |
 | 23289 | Captopril cf tablet 50mg |   |
-| 23684 | Captopril merck tablet 50mg |   |
 | 23684 | Captopril mylan tablet 50mg |   |
 | 29016=22029 | Captopril a tablet 50mg |   |
 | Productgroep |   | Maximumprijs |
-| CARBAMAZEPINE-20-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | CARBAMAZEPINE-20-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.02257800 per ml |
+| CARBAMAZEPINE-20-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | CARBAMAZEPINE-20-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.02295400 per ml |
 | Registratienummer | Artikelnaam |   |
 | 6346 | Tegretol siroop 20mg/ml |   |
-| 9196 | Carbamazepine katwijk suspensie 20mg/ml |   |
+| 9196 | Carbamazepine apotex suspensie 20mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| CARBAMAZEPINE-200-MG-TABLET | CARBAMAZEPINE-200-MG-TABLET | 0.10253400 per stuk |
+| CARBAMAZEPINE-200-MG-TABLET | CARBAMAZEPINE-200-MG-TABLET | 0.10975400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11735 | Carbamazepine rp tablet 200mg |   |
 | 17109 | Carbamazepine actavis tablet 200mg |   |
@@ -1356,39 +1366,40 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 25069 | Carbamazepine pch tablet 200mg |   |
 | 3899 | Tegretol tablet 200mg |   |
 | 55157 | Carbamazepine cf tablet 200mg |   |
+| 9884 | Carbamazepine apotex tablet 200mg |   |
 | 9884 | Carbamazepine katwijk tablet 200mg |   |
 | Productgroep |   | Maximumprijs |
-| CARBAMAZEPINE-200-MG-TABLET, MET GEREGULEERDE AFGIFTE | CARBAMAZEPINE-200-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.09812600 per stuk |
+| CARBAMAZEPINE-200-MG-TABLET, MET GEREGULEERDE AFGIFTE | CARBAMAZEPINE-200-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.10275600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11874 | Tegretol cr tablet mga 200mg |   |
-| 21169 | Carbamazepine katwijk retard tablet mga 200mg |   |
+| 21169 | Carbamazepine apotex retard tablet mga 200mg |   |
 | 24401 | Carbamazepine sandoz retard tablet mga 200mg |   |
 | 25552=24401 | Carbamazepine rp retard tablet mga 200mg |   |
 | 25818=24401 | Carbamazepine pch retard tablet mga 200mg |   |
 | 26020=24401 | Carbamazepine a retard tablet mga 200mg |   |
 | 26820=24401 | Carbamazepine cf retard tablet mga 200mg |   |
 | Productgroep |   | Maximumprijs |
-| CARBAMAZEPINE-400-MG-TABLET, MET GEREGULEERDE AFGIFTE | CARBAMAZEPINE-400-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.17924200 per stuk |
+| CARBAMAZEPINE-400-MG-TABLET, MET GEREGULEERDE AFGIFTE | CARBAMAZEPINE-400-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.18846700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11875 | Tegretol cr tablet mga 400mg |   |
-| 16869 | Carbamazepine katwijk retard tablet mga 400mg |   |
+| 16869 | Carbamazepine apotex retard tablet mga 400mg |   |
 | 24402 | Carbamazepine sandoz retard tablet mga 400mg |   |
 | 25553=24402 | Carbamazepine rp retard tablet mga 400mg |   |
 | 25819=24402 | Carbamazepine pch retard tablet mga 400mg |   |
 | 26021=24402 | Carbamazepine a retard tablet mga 400mg |   |
 | 26821=24402 | Carbamazepine cf retard tablet mga 400mg |   |
 | Productgroep |   | Maximumprijs |
-| CARBAMIDE-100-MG/G-CREME, CUTAAN | CARBAMIDE-100-MG/G-CREME, CUTAAN | 0.06653300 per g |
+| CARBAMIDE-100-MG/G-CREME, CUTAAN | CARBAMIDE-100-MG/G-CREME, CUTAAN | 0.06835100 per g |
 | Registratienummer | Artikelnaam |   |
 | 6423 | Calmurid creme 100mg/g |   |
 | Productgroep |   | Maximumprijs |
-| CARBAMIDE-100-MG/G-CREME, CUTAAN-HYDROCORTISONE-10-MG/G-CREME, CUTAAN | CARBAMIDE-100-MG/G-CREME, CUTAAN-HYDROCORTISONE-10-MG/G-CREME, CUTAAN | 0.16250600 per g |
+| CARBAMIDE-100-MG/G-CREME, CUTAAN-HYDROCORTISONE-10-MG/G-CREME, CUTAAN | CARBAMIDE-100-MG/G-CREME, CUTAAN-HYDROCORTISONE-10-MG/G-CREME, CUTAAN | 0.15616200 per g |
 | Registratienummer | Artikelnaam |   |
 | 34162/6996 | Calmurid hc hydrofiele creme |   |
 | 34319/6996 | Calmurid hc hydrofiele creme |   |
 | 6996 | Calmurid hc creme |   |
 | Productgroep |   | Maximumprijs |
-| CARBIMAZOLE-5-MG-TABLET | CARBIMAZOLE-5-MG-TABLET | 0.04955900 per stuk |
+| CARBIMAZOLE-5-MG-TABLET | CARBIMAZOLE-5-MG-TABLET | 0.04931000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 50906 | Carbimazol pch tablet 5mg |   |
 | Productgroep |   | Maximumprijs |
@@ -1396,7 +1407,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | Registratienummer | Artikelnaam |   |
 | 15881=14227 | Dry eye gel ooggel tube 10g |   |
 | Productgroep |   | Maximumprijs |
-| CARBOMEER 980-2-MG/G-OOGGEL | CARBOMEER 980-2-MG/G-OOGGEL | 0.30755300 per g |
+| CARBOMEER 980-2-MG/G-OOGGEL | CARBOMEER 980-2-MG/G-OOGGEL | 0.31158400 per g |
 | Registratienummer | Artikelnaam |   |
 | 14862 | Vidisic carbogel ooggel tube 10g |   |
 | 27017 | Liposic ooggel 2mg/g tube 10g |   |
@@ -1408,29 +1419,29 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 34305/27017 | Liposic ooggel 2mg/g tube 10g |   |
 | 35225/14862 | Vidisic carbogel ooggel 2mg/g tube 10g |   |
 | Productgroep |   | Maximumprijs |
-| CARBOMEER 980-2-MG/G-OOGGEL UNITDOSE | CARBOMEER 980-2-MG/G-OOGGEL UNITDOSE | 0.34447900 per ml |
+| CARBOMEER 980-2-MG/G-OOGGEL UNITDOSE | CARBOMEER 980-2-MG/G-OOGGEL UNITDOSE | 0.35179900 per ml |
 | Registratienummer | Artikelnaam |   |
 | 29773 | Vidisic carbogel edo ooggel 2mg/g 0,6ml |   |
 | Productgroep |   | Maximumprijs |
-| CARGLUMIC ACID-200-MG-BRUISTABLET | CARGLUMIC ACID-200-MG-BRUISTABLET | 73.80646100 per stuk |
+| CARGLUMIC ACID-200-MG-BRUISTABLET | CARGLUMIC ACID-200-MG-BRUISTABLET | 74.81907600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/02/246/002 | Carbaglu dispergeerbaar tablet 200mg |   |
 | EU/1/02/246/003 | Carbaglu dispergeerbaar tablet 200mg |   |
 | Productgroep |   | Maximumprijs |
-| CARTEOLOL-10-MG/ML-OOGDRUPPELS | CARTEOLOL-10-MG/ML-OOGDRUPPELS | 0.96403500 per ml |
+| CARTEOLOL-10-MG/ML-OOGDRUPPELS | CARTEOLOL-10-MG/ML-OOGDRUPPELS | 0.97842100 per ml |
 | Registratienummer | Artikelnaam |   |
 | 13378 | Teoptic oogdruppels 10mg/ml flacon 5ml |   |
 | Productgroep |   | Maximumprijs |
-| CARTEOLOL-20-MG/ML-OOGDRUPPELS | CARTEOLOL-20-MG/ML-OOGDRUPPELS | 0.98471800 per ml |
+| CARTEOLOL-20-MG/ML-OOGDRUPPELS | CARTEOLOL-20-MG/ML-OOGDRUPPELS | 1.00160700 per ml |
 | Registratienummer | Artikelnaam |   |
 | 13379 | Teoptic oogdruppels 20mg/ml flacon 5ml |   |
 | 29950 | Carteabak oogdruppels 20mg/ml fl 5ml |   |
 | Productgroep |   | Maximumprijs |
-| CARTEOLOL-20-MG/ML-OOGDRUPPELS MET GEREGULEERDE AFGIFTE | CARTEOLOL-20-MG/ML-OOGDRUPPELS MET GEREGULEERDE AFGIFTE | 1.63949700 per ml |
+| CARTEOLOL-20-MG/ML-OOGDRUPPELS MET GEREGULEERDE AFGIFTE | CARTEOLOL-20-MG/ML-OOGDRUPPELS MET GEREGULEERDE AFGIFTE | 1.63395200 per ml |
 | Registratienummer | Artikelnaam |   |
 | 30631 | Arteoptic la oogdruppels 20mg/ml flacon 3ml |   |
 | Productgroep |   | Maximumprijs |
-| CARVEDILOL-25-MG-TABLET | CARVEDILOL-25-MG-TABLET | 0.20239700 per stuk |
+| CARVEDILOL-25-MG-TABLET | CARVEDILOL-25-MG-TABLET | 0.20425400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 14491 | Eucardic tablet 25mg |   |
 | 28748 | Carvedilol sandoz tablet 25mg |   |
@@ -1438,32 +1449,32 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 29638 | Carvedilol rp tablet 25mg |   |
 | 29940 | Carvedilol a tablet 25mg |   |
 | 30016 | Carvedilol actavis tablet 25mg |   |
-| 30019 | Carvedilol merck tablet 25mg |   |
+| 30019 | Carvedilol mylan tablet 25mg |   |
 | 30122 | Carvedilol cf tablet 25mg |   |
 | 31948 | Carvedilol katwijk tablet 25mg |   |
 | Productgroep |   | Maximumprijs |
-| CARVEDILOL-50-MG-TABLET | CARVEDILOL-50-MG-TABLET | 0.40475100 per stuk |
+| CARVEDILOL-50-MG-TABLET | CARVEDILOL-50-MG-TABLET | 0.32783700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 28749 | Carvedilol sandoz tablet 50mg |   |
 | Productgroep |   | Maximumprijs |
-| CARVEDILOL-6.25-MG-TABLET | CARVEDILOL-6.25-MG-TABLET | 0.15355300 per stuk |
+| CARVEDILOL-6.25-MG-TABLET | CARVEDILOL-6.25-MG-TABLET | 0.15651600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 19808 | Eucardic tablet 6,25mg |   |
 | Productgroep |   | Maximumprijs |
-| CASPOFUNGIN-50-MG-POED. V. INFUSIE,FLACON | CASPOFUNGIN-50-MG-POED. V. INFUSIE,FLACON | 459.66880400 per stuk |
+| CASPOFUNGIN-50-MG-POED. V. INFUSIE, FLACON | CASPOFUNGIN-50-MG-POED. V. INFUSIE, FLACON | 459.72858500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/01/196/001 | Cancidas infusiepoeder flacon 50mg |   |
 | Productgroep |   | Maximumprijs |
-| CASPOFUNGIN-70-MG-POED. V. INFUSIE,FLACON | CASPOFUNGIN-70-MG-POED. V. INFUSIE,FLACON | 585.23220900 per stuk |
+| CASPOFUNGIN-70-MG-POED. V. INFUSIE, FLACON | CASPOFUNGIN-70-MG-POED. V. INFUSIE, FLACON | 585.85894200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/01/196/003 | Cancidas infusiepoeder flacon 70mg |   |
 | Productgroep |   | Maximumprijs |
-| CEFACLOR-25-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | CEFACLOR-25-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.04745600 per ml |
+| CEFACLOR-25-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | CEFACLOR-25-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.05066800 per ml |
 | Registratienummer | Artikelnaam |   |
 | 20437 | Cefaclor sandoz granulaat voor suspensie 125mg/5ml |   |
 | 8152 | Ceclor granulaat voor suspensie 125mg/5ml |   |
 | Productgroep |   | Maximumprijs |
-| CEFACLOR-250-MG-CAPSULE | CEFACLOR-250-MG-CAPSULE | 0.36308000 per stuk |
+| CEFACLOR-250-MG-CAPSULE | CEFACLOR-250-MG-CAPSULE | 0.35253700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 8150 | Ceclor capsule 250mg |   |
 | Productgroep |   | Maximumprijs |
@@ -1471,43 +1482,43 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | Registratienummer | Artikelnaam |   |
 | 20439 | Cefaclor sandoz tablet 250mg |   |
 | Productgroep |   | Maximumprijs |
-| CEFACLOR-50-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | CEFACLOR-50-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.07309200 per ml |
+| CEFACLOR-50-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | CEFACLOR-50-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.07491500 per ml |
 | Registratienummer | Artikelnaam |   |
 | 20438 | Cefaclor sandoz granulaat voor suspensie 250mg/5ml |   |
 | 8153 | Ceclor granulaat voor suspensie 250mg/5ml |   |
 | Productgroep |   | Maximumprijs |
-| CEFACLOR-500-MG-CAPSULE | CEFACLOR-500-MG-CAPSULE | 0.62351000 per stuk |
+| CEFACLOR-500-MG-CAPSULE | CEFACLOR-500-MG-CAPSULE | 0.62909900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 8151 | Ceclor capsule 500mg |   |
 | Productgroep |   | Maximumprijs |
-| CEFALEXIN-500-MG-TABLET | CEFALEXIN-500-MG-TABLET | 0.31121000 per stuk |
+| CEFALEXIN-500-MG-TABLET | CEFALEXIN-500-MG-TABLET | 0.31546400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 6325 | Keforal tablet 500mg |   |
 | Productgroep |   | Maximumprijs |
-| CEFUROXIME-125-MG-TABLET | CEFUROXIME-125-MG-TABLET | 0.42613900 per stuk |
+| CEFUROXIME-125-MG-TABLET | CEFUROXIME-125-MG-TABLET | 0.46791800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13225 | Zinnat 125 tablet 125mg |   |
 | Productgroep |   | Maximumprijs |
-| CEFUROXIME-25-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | CEFUROXIME-25-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.08789300 per ml |
+| CEFUROXIME-25-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | CEFUROXIME-25-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.09932200 per ml |
 | Registratienummer | Artikelnaam |   |
 | 14376 | Zinnat granulaat voor suspensie 25mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| CEFUROXIME-250-MG-TABLET | CEFUROXIME-250-MG-TABLET | 0.58409200 per stuk |
+| CEFUROXIME-250-MG-TABLET | CEFUROXIME-250-MG-TABLET | 0.58134300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13226 | Zinnat 250 tablet 250mg |   |
 | Productgroep |   | Maximumprijs |
-| CEFUROXIME-500-MG-TABLET | CEFUROXIME-500-MG-TABLET | 0.82575600 per stuk |
+| CEFUROXIME-500-MG-TABLET | CEFUROXIME-500-MG-TABLET | 0.79899400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13227 | Zinnat 500 tablet 500mg |   |
 | Productgroep |   | Maximumprijs |
-| CELECOXIB-100-MG-CAPSULE | CELECOXIB-100-MG-CAPSULE | 0.41573800 per stuk |
+| CELECOXIB-100-MG-CAPSULE | CELECOXIB-100-MG-CAPSULE | 0.41576700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 102244/25053 | Celebrex capsule 100mg |   |
 | 25053 | Celebrex capsule 100mg |   |
 | 30575/25053 | Celebrex capsule 100mg |   |
 | 31745/25053 | Celebrex capsule 100mg |   |
 | Productgroep |   | Maximumprijs |
-| CELECOXIB-200-MG-CAPSULE | CELECOXIB-200-MG-CAPSULE | 0.82120400 per stuk |
+| CELECOXIB-200-MG-CAPSULE | CELECOXIB-200-MG-CAPSULE | 0.80191600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 101948/25054 | Celebrex capsule 200mg |   |
 | 102245/25054 | Celebrex capsule 200mg |   |
@@ -1517,31 +1528,30 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 32299/25054 | Celebrex capsule 200mg |   |
 | 34272/25054 | Celebrex capsule 200mg |   |
 | Productgroep |   | Maximumprijs |
-| CELIPROLOL-200-MG-TABLET | CELIPROLOL-200-MG-TABLET | 0.21029200 per stuk |
+| CELIPROLOL-200-MG-TABLET | CELIPROLOL-200-MG-TABLET | 0.20806500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13074 | Dilanorm tablet 200mg |   |
 | 24669/13074 | Celiprolol tablet 200mg |   |
 | 26119/13074 | Celiprolol tablet 200mg |   |
 | 27376 | Celiprolol hcl pch tablet 200mg |   |
-| 27458/13074 | Celiprolol tablet 200mg |   |
 | Productgroep |   | Maximumprijs |
-| CELIPROLOL-400-MG-TABLET | CELIPROLOL-400-MG-TABLET | 1.06631800 per stuk |
+| CELIPROLOL-400-MG-TABLET | CELIPROLOL-400-MG-TABLET | 1.06426700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 17744 | Dilanorm tablet 400mg |   |
 | Productgroep |   | Maximumprijs |
-| CETUXIMAB-5-MG/ML-INFUUSVLOEISTOF, FLACON | CETUXIMAB-5-MG/ML-INFUUSVLOEISTOF, FLACON | 9.92540900 per ml |
+| CETUXIMAB-5-MG/ML-INFUUSVLOEISTOF, FLACON | CETUXIMAB-5-MG/ML-INFUUSVLOEISTOF, FLACON | 10.46763900 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/04/281/003 | Erbitux infvlst 5mg/ml flacon 20ml |   |
 | EU/1/04/281/005 | Erbitux infvlst 5mg/ml flacon 100ml |   |
 | Productgroep |   | Maximumprijs |
-| CHLORAMBUCIL-2-MG-TABLET | CHLORAMBUCIL-2-MG-TABLET | 0.36750700 per stuk |
+| CHLORAMBUCIL-2-MG-TABLET | CHLORAMBUCIL-2-MG-TABLET | 0.37447900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 101002/256 | Leukeran tablet filmomhuld 2mg |   |
 | 256 | Leukeran tablet filmomhuld 2mg |   |
 | 27461/256 | Leukeran tablet filmomhuld 2mg |   |
 | 31689/256 | Leukeran tablet filmomhuld 2mg |   |
 | Productgroep |   | Maximumprijs |
-| CHLORAMPHENICOL-10-MG/G-OOGZALF | CHLORAMPHENICOL-10-MG/G-OOGZALF | 0.62855000 per g |
+| CHLORAMPHENICOL-10-MG/G-OOGZALF | CHLORAMPHENICOL-10-MG/G-OOGZALF | 0.65442800 per g |
 | Registratienummer | Artikelnaam |   |
 | 17418 | Chlooramfenicol pos oogzalf 10mg/g tube 5g |   |
 | 57557 | Chlooramfenicol rp oogzalf 10mg/g tube 5g |   |
@@ -1550,11 +1560,11 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | Registratienummer | Artikelnaam |   |
 | 1767 | Chlooramfenicol thea oogdr 4mg/ml fl 10ml |   |
 | Productgroep |   | Maximumprijs |
-| CHLORAMPHENICOL-5-MG/ML-OOGDRUPPELS | CHLORAMPHENICOL-5-MG/ML-OOGDRUPPELS | 0.21371300 per ml |
+| CHLORAMPHENICOL-5-MG/ML-OOGDRUPPELS | CHLORAMPHENICOL-5-MG/ML-OOGDRUPPELS | 0.21763300 per ml |
 | Registratienummer | Artikelnaam |   |
 | 56086 | Chlooramfenicol rp oogdruppels 0,5% flacon 10ml |   |
 | Productgroep |   | Maximumprijs |
-| CHLORDIAZEPOXIDE-10-MG-TABLET | CHLORDIAZEPOXIDE-10-MG-TABLET | 0.16819200 per stuk |
+| CHLORDIAZEPOXIDE-10-MG-TABLET | CHLORDIAZEPOXIDE-10-MG-TABLET | 0.16698400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 21200=55831 | Chloordiazepoxide cf dragee 10mg |   |
 | 55831 | Chloordiazepoxide pch dragee 10mg |   |
@@ -1564,7 +1574,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 303 | Nivaquine tablet 100mg |   |
 | 31020/303 | Nivaquine tablet 100mg |   |
 | Productgroep |   | Maximumprijs |
-| CHLORTALIDONE-50-MG-TABLET | CHLORTALIDONE-50-MG-TABLET | 0.06186700 per stuk |
+| CHLORTALIDONE-50-MG-TABLET | CHLORTALIDONE-50-MG-TABLET | 0.06267400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 16520 | Chloortalidon katwijk tablet 50mg |   |
 | 20359 | Chloortalidon rp tablet 50mg |   |
@@ -1575,13 +1585,13 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 28730=20359 | Chloortalidon sandoz tablet 50mg |   |
 | 56286 | Chloortalidon pch tablet 50mg |   |
 | Productgroep |   | Maximumprijs |
-| CICLESONIDE-.08-MG-AEROSOL | CICLESONIDE-.08-MG-AEROSOL | 0.32051200 per dosis |
+| CICLESONIDE-.08-MG-AEROSOL | CICLESONIDE-.08-MG-AEROSOL | 0.32795500 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 102736/31632 | Alvesco 80 aerosol 80mcg/do spbs 120do + inh |   |
 | 103514/31632 | Alvesco 80 aerosol 80mcg/do spbs 120do + inh |   |
 | 31632 | Alvesco 80 aerosol 80mcg/do spbs 60do + inh |   |
 | Productgroep |   | Maximumprijs |
-| CICLESONIDE-.16-MG-AEROSOL | CICLESONIDE-.16-MG-AEROSOL | 0.36898800 per dosis |
+| CICLESONIDE-.16-MG-AEROSOL | CICLESONIDE-.16-MG-AEROSOL | 0.37774500 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 102747/31633 | Alvesco 160 aerosol 160mcg/do spbs 60do + inh |   |
 | 102787/31633 | Alvesco 160 aerosol 160mcg/do spbs 60do + inh |   |
@@ -1590,11 +1600,11 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 103516/31633 | Alvesco 160 aerosol 160mcg/do spbs 120do + inh |   |
 | 31633 | Alvesco 160 aerosol 160mcg/do spbs 60do + inh |   |
 | Productgroep |   | Maximumprijs |
-| CICLOPIROX-10-MG/G-CREME, CUTAAN | CICLOPIROX-10-MG/G-CREME, CUTAAN | 0.14056700 per g |
+| CICLOPIROX-10-MG/G-CREME, CUTAAN | CICLOPIROX-10-MG/G-CREME, CUTAAN | 0.14306700 per g |
 | Registratienummer | Artikelnaam |   |
 | 15466 | Loprox hydrofiele creme 10mg/g |   |
 | Productgroep |   | Maximumprijs |
-| CICLOSPORIN-100-MG-CAPSULE | CICLOSPORIN-100-MG-CAPSULE | 3.47663300 per stuk |
+| CICLOSPORIN-100-MG-CAPSULE | CICLOSPORIN-100-MG-CAPSULE | 3.52202200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 17496 | Neoral capsule 100mg |   |
 | 21229/17496 | Neoral capsule 100mg |   |
@@ -1609,12 +1619,12 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 27834/17496 | Neoral capsule 100mg |   |
 | 32212/17496 | Neoral capsule 100mg |   |
 | Productgroep |   | Maximumprijs |
-| CICLOSPORIN-100-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | CICLOSPORIN-100-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 3.20803000 per ml |
+| CICLOSPORIN-100-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | CICLOSPORIN-100-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 3.27898600 per ml |
 | Registratienummer | Artikelnaam |   |
 | 17497 | Neoral drank 100mg/ml |   |
 | 22788/17497 | Neoral drank 100mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| CICLOSPORIN-25-MG-CAPSULE | CICLOSPORIN-25-MG-CAPSULE | 0.93926600 per stuk |
+| CICLOSPORIN-25-MG-CAPSULE | CICLOSPORIN-25-MG-CAPSULE | 0.95528900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 17495 | Neoral capsule 25mg |   |
 | 21412/17495 | Neoral capsule 25mg |   |
@@ -1631,29 +1641,30 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 32211/17495 | Neoral capsule 25mg |   |
 | 33511/17495 | Neoral capsule 25mg |   |
 | Productgroep |   | Maximumprijs |
-| CILAZAPRIL-2.5-MG-TABLET | CILAZAPRIL-2.5-MG-TABLET | 0.34768000 per stuk |
+| CILAZAPRIL-2.5-MG-TABLET | CILAZAPRIL-2.5-MG-TABLET | 0.30457400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15134 | Vascase tablet 2,5mg |   |
 | Productgroep |   | Maximumprijs |
-| CILAZAPRIL-5-MG-TABLET | CILAZAPRIL-5-MG-TABLET | 0.41648000 per stuk |
+| CILAZAPRIL-5-MG-TABLET | CILAZAPRIL-5-MG-TABLET | 0.42598200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15135 | Vascase tablet 5mg |   |
 | Productgroep |   | Maximumprijs |
-| CIMETIDINE-200-MG-TABLET | CIMETIDINE-200-MG-TABLET | 0.11742400 per stuk |
+| CIMETIDINE-200-MG-TABLET | CIMETIDINE-200-MG-TABLET | 0.17631000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 17194 | Cimetidine sandoz tablet 200mg |   |
 | 17231 | Cimetidine rp tablet 200mg |   |
 | 18080 | Cimetidinum tablet 200mg |   |
-| 24064=17231 | Cimetidine merck tablet 200mg |   |
+| 18080 | Cimetidine apotex tablet filmomhuld 200mg |   |
+| 24064=17231 | Cimetidine mylan tablet 200mg |   |
 | 26177=17104 | Cimetidine pch tablet 200mg |   |
 | 27297=17231 | Cimetidine a tablet 200mg |   |
 | 55845 | Cimetidine cf tablet 200mg |   |
 | Productgroep |   | Maximumprijs |
-| CIMETIDINE-400-MG-TABLET | CIMETIDINE-400-MG-TABLET | 0.20209800 per stuk |
+| CIMETIDINE-400-MG-TABLET | CIMETIDINE-400-MG-TABLET | 0.29422100 per stuk |
 | Registratienummer | Artikelnaam |   |
-| 17195 | Cimetidine sandoz tablet 400mg |   |
 | 17232 | Cimetidine rp tablet 400mg |   |
 | 17856 | Cimetidinum tablet 400mg |   |
+| 17856 | Cimetidine apotex tablet filmomhuld 400mg |   |
 | 24065=17232 | Cimetidine mylan tablet 400mg |   |
 | 26178=17105 | Cimetidine pch tablet 400mg |   |
 | 27298=17232 | Cimetidine a tablet 400mg |   |
@@ -1667,61 +1678,64 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 21543=19347 | Cimetidine a bruistablet 800mg |   |
 | 26928=19347 | Cimetidine cf bruistablet 800mg |   |
 | Productgroep |   | Maximumprijs |
-| CIMETIDINE-800-MG-TABLET | CIMETIDINE-800-MG-TABLET | 0.40453200 per stuk |
+| CIMETIDINE-800-MG-TABLET | CIMETIDINE-800-MG-TABLET | 0.60455700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 17196 | Cimetidine sandoz tablet 800mg |   |
 | 17233 | Cimetidine rp tablet 800mg |   |
-| 24066=17233 | Cimetidine merck tablet 800mg |   |
 | 26179=17106 | Cimetidine pch tablet 800mg |   |
 | 27299=17233 | Cimetidine a tablet 800mg |   |
 | Productgroep |   | Maximumprijs |
-| CINACALCET-30-MG-TABLET | CINACALCET-30-MG-TABLET | 6.25027200 per stuk |
+| CINACALCET-30-MG-TABLET | CINACALCET-30-MG-TABLET | 6.32269200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/04/292/002 | Mimpara tablet filmomhuld 30mg |   |
 | Productgroep |   | Maximumprijs |
-| CINACALCET-60-MG-TABLET | CINACALCET-60-MG-TABLET | 11.76023300 per stuk |
+| CINACALCET-60-MG-TABLET | CINACALCET-60-MG-TABLET | 11.90856400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/04/292/006 | Mimpara tablet filmomhuld 60mg |   |
 | Productgroep |   | Maximumprijs |
-| CINACALCET-90-MG-TABLET | CINACALCET-90-MG-TABLET | 17.39416400 per stuk |
+| CINACALCET-90-MG-TABLET | CINACALCET-90-MG-TABLET | 17.62188700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/04/292/010 | Mimpara tablet filmomhuld 90mg |   |
 | Productgroep |   | Maximumprijs |
-| CIPROFLOXACIN-100-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | CIPROFLOXACIN-100-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.62718300 per ml |
+| CIPROFLOXACIN-100-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | CIPROFLOXACIN-100-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.63413300 per ml |
 | Registratienummer | Artikelnaam |   |
 | 19342 | Ciproxin suspensie 100mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| CIPROFLOXACIN-250-MG-TABLET | CIPROFLOXACIN-250-MG-TABLET | 0.41392400 per stuk |
+| CIPROFLOXACIN-250-MG-TABLET | CIPROFLOXACIN-250-MG-TABLET | 0.41157900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12241 | Ciproxin tablet 250mg |   |
 | 25153 | Ciprofloxacine rp tablet 250mg |   |
 | 25206 | Ciprofloxacine sandoz tablet 250mg |   |
 | 25738 | Ciprofloxacine katwijk tablet 250mg |   |
-| 26276 | Ciprofloxacine merck tablet 250mg |   |
+| 26276 | Ciprofloxacine mylan tablet 250mg |   |
 | 26813 | Ciprofloxacine actavis tablet 250mg |   |
 | 27232 | Ciprofloxacine pch tablet 250mg |   |
 | 27311 | Ciprofloxacine cf tablet 250mg |   |
 | 32482 | Ciprofloxacine a tablet 250mg |   |
 | 32589 | Ciprofloxacine focus tablet 250mg |   |
 | Productgroep |   | Maximumprijs |
-| CIPROFLOXACIN-3-MG/ML-OOGDRUPPELS | CIPROFLOXACIN-3-MG/ML-OOGDRUPPELS | 0.86169600 per ml |
+| CIPROFLOXACIN-3-MG/ML-OOGDRUPPELS | CIPROFLOXACIN-3-MG/ML-OOGDRUPPELS | 0.87667700 per ml |
 | Registratienummer | Artikelnaam |   |
 | 18272 | Ciloxan oogdruppels 3mg/ml flacon 5ml |   |
 | Productgroep |   | Maximumprijs |
-| CIPROFLOXACIN-500-MG-TABLET | CIPROFLOXACIN-500-MG-TABLET | 0.81922700 per stuk |
+| CIPROFLOXACIN-50-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | CIPROFLOXACIN-50-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.27470900 per ml |
+| Registratienummer | Artikelnaam |   |
+| 19341 | Ciproxin suspensie 50mg/ml |   |
+| Productgroep |   | Maximumprijs |
+| CIPROFLOXACIN-500-MG-TABLET | CIPROFLOXACIN-500-MG-TABLET | 0.81906800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12242 | Ciproxin tablet 500mg |   |
 | 25154 | Ciprofloxacine rp tablet 500mg |   |
 | 25207 | Ciprofloxacine sandoz tablet 500mg |   |
 | 25739 | Ciprofloxacine katwijk tablet 500mg |   |
-| 26277 | Ciprofloxacine merck tablet 500mg |   |
+| 26277 | Ciprofloxacine mylan tablet 500mg |   |
 | 26814 | Ciprofloxacine actavis tablet 500mg |   |
 | 27233 | Ciprofloxacine pch tablet 500mg |   |
 | 27312 | Ciprofloxacine cf tablet 500mg |   |
 | 32483 | Ciprofloxacine a tablet 500mg |   |
 | 32590 | Ciprofloxacine focus tablet 500mg |   |
 | Productgroep |   | Maximumprijs |
-| CIPROFLOXACIN-750-MG-TABLET | CIPROFLOXACIN-750-MG-TABLET | 1.30188000 per stuk |
+| CIPROFLOXACIN-750-MG-TABLET | CIPROFLOXACIN-750-MG-TABLET | 1.10693400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12243 | Ciproxin tablet 750mg |   |
 | 25155 | Ciprofloxacine rp tablet 750mg |   |
@@ -1730,13 +1744,24 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 26815 | Ciprofloxacine actavis tablet 750mg |   |
 | 27234 | Ciprofloxacine pch tablet 750mg |   |
 | Productgroep |   | Maximumprijs |
-| CITALOPRAM-10-MG-TABLET | CITALOPRAM-10-MG-TABLET | 0.08311200 per stuk |
+| CISPLATIN-1-MG/ML-INFUUSVLOEISTOF, FLACON | CISPLATIN-1-MG/ML-INFUUSVLOEISTOF, FLACON | 0.68148500 per ml |
+| Registratienummer | Artikelnaam |   |
+| 101430 | Cisplatine pch infvlst conc 1mg/ml flacon 100ml |   |
+| 15255 | Platosin injvlst 1mg/ml flacon 50ml |   |
+| 15255 | Platosin injvlst 1mg/ml flacon 10ml |   |
+| 15255 | Platosin injvlst 1mg/ml flacon 100ml |   |
+| 20744 | Cisplatine mayne infvlst conc 1mg/ml fl 50ml onco |   |
+| 20745 | Cisplatine mayne infvlst conc 1mg/ml fl 100ml onco |   |
+| 24575 | Cisplatine ebewe infvlst conc 1mg/ml fl 100ml |   |
+| 24575 | Cisplatine ebewe infvlst conc 1mg/ml fl 50ml |   |
+| Productgroep |   | Maximumprijs |
+| CITALOPRAM-10-MG-TABLET | CITALOPRAM-10-MG-TABLET | 0.08373500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 25150 | Citalopram rp tablet omhuld 10mg |   |
 | 29755 | Citalopram bluefish tablet omhuld 10mg |   |
 | 31125 | Citalopram pch tablet omhuld 10mg |   |
 | Productgroep |   | Maximumprijs |
-| CITALOPRAM-20-MG-TABLET | CITALOPRAM-20-MG-TABLET | 0.26830200 per stuk |
+| CITALOPRAM-20-MG-TABLET | CITALOPRAM-20-MG-TABLET | 0.26462800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 102243/19593 | Cipramil tablet omhuld 20mg |   |
 | 19593 | Cipramil tablet omhuld 20mg |   |
@@ -1746,17 +1771,16 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 26734 | Citalopram sandoz tablet omhuld 20mg |   |
 | 27622 | Citalopram a tablet omhuld 20mg |   |
 | 28672 | Citalopram mylan tablet omhuld 20mg |   |
-| 28672 | Citalopram merck tablet omhuld 20mg |   |
 | 30792 | Citalopram katwijk tablet omhuld 20mg |   |
 | 31087 | Citalopram ranbaxy tablet omhuld 20mg |   |
 | 31126 | Citalopram pch tablet omhuld 20mg |   |
 | Productgroep |   | Maximumprijs |
-| CITALOPRAM-30-MG-TABLET | CITALOPRAM-30-MG-TABLET | 0.44311500 per stuk |
+| CITALOPRAM-30-MG-TABLET | CITALOPRAM-30-MG-TABLET | 0.43946100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 26735 | Citalopram sandoz tablet omhuld 30mg |   |
 | 31114 | Citalopram cf tablet omhuld 30mg |   |
 | Productgroep |   | Maximumprijs |
-| CITALOPRAM-40-MG-TABLET | CITALOPRAM-40-MG-TABLET | 0.41255300 per stuk |
+| CITALOPRAM-40-MG-TABLET | CITALOPRAM-40-MG-TABLET | 0.40086300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 19594 | Cipramil tablet omhuld 40mg |   |
 | 25149 | Citalopram cf tablet omhuld 40mg |   |
@@ -1764,31 +1788,30 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 25421 | Citalopram actavis tablet omhuld 40mg |   |
 | 26736 | Citalopram sandoz tablet omhuld 40mg |   |
 | 27623 | Citalopram a tablet omhuld 40mg |   |
-| 28673 | Citalopram merck tablet omhuld 40mg |   |
 | 28673 | Citalopram mylan tablet omhuld 40mg |   |
 | 30793 | Citalopram katwijk tablet omhuld 40mg |   |
 | 31088 | Citalopram ranbaxy tablet omhuld 40mg |   |
 | 31127 | Citalopram pch tablet omhuld 40mg |   |
 | Productgroep |   | Maximumprijs |
-| CITALOPRAM-40-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | CITALOPRAM-40-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 1.50824300 per ml |
+| CITALOPRAM-40-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | CITALOPRAM-40-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 1.54963400 per ml |
 | Registratienummer | Artikelnaam |   |
 | 22687 | Cipramil druppelvloeistof 40mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| CITALOPRAM-60-MG-TABLET | CITALOPRAM-60-MG-TABLET | 0.93653200 per stuk |
+| CITALOPRAM-60-MG-TABLET | CITALOPRAM-60-MG-TABLET | 0.92799400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 26737 | Citalopram sandoz tablet omhuld 60mg |   |
 | 31115 | Citalopram cf tablet omhuld 60mg |   |
 | Productgroep |   | Maximumprijs |
-| CLARITHROMYCIN-25-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | CLARITHROMYCIN-25-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.07928100 per ml |
+| CLARITHROMYCIN-25-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | CLARITHROMYCIN-25-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.08097600 per ml |
 | Registratienummer | Artikelnaam |   |
 | 15868 | Klacid granulaat voor suspensie 125mg/5ml |   |
 | 30849 | Claritromycine sandoz gran v suspensie 125mg/5ml |   |
 | Productgroep |   | Maximumprijs |
-| CLARITHROMYCIN-250-MG-POEDER/GRANULAAT, ORAAL | CLARITHROMYCIN-250-MG-POEDER/GRANULAAT, ORAAL | 1.07827900 per stuk |
+| CLARITHROMYCIN-250-MG-POEDER/GRANULAAT, ORAAL | CLARITHROMYCIN-250-MG-POEDER/GRANULAAT, ORAAL | 1.12444900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 30246 | Clarosip granulaat v suspensie 250mg in rietje |   |
 | Productgroep |   | Maximumprijs |
-| CLARITHROMYCIN-250-MG-TABLET | CLARITHROMYCIN-250-MG-TABLET | 0.47922000 per stuk |
+| CLARITHROMYCIN-250-MG-TABLET | CLARITHROMYCIN-250-MG-TABLET | 0.47208100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 14152 | Klacid tablet 250mg |   |
 | 29081 | Claritromycine pch tablet 250mg |   |
@@ -1800,12 +1823,12 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 32706 | Claritromycine a tablet 250mg |   |
 | 32708 | Claritromycine actavis tablet 250mg |   |
 | Productgroep |   | Maximumprijs |
-| CLARITHROMYCIN-50-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | CLARITHROMYCIN-50-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.15249400 per ml |
+| CLARITHROMYCIN-50-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | CLARITHROMYCIN-50-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.15480300 per ml |
 | Registratienummer | Artikelnaam |   |
 | 16752 | Klacid granulaat voor suspensie 250mg/5ml |   |
 | 30850 | Claritromycine sandoz gran v suspensie 250mg/5ml |   |
 | Productgroep |   | Maximumprijs |
-| CLARITHROMYCIN-500-MG-TABLET | CLARITHROMYCIN-500-MG-TABLET | 0.85839100 per stuk |
+| CLARITHROMYCIN-500-MG-TABLET | CLARITHROMYCIN-500-MG-TABLET | 0.86280900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 17902 | Klacid tablet 500mg |   |
 | 29082 | Claritromycine pch tablet 500mg |   |
@@ -1817,22 +1840,23 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 32707 | Claritromycine a tablet 500mg |   |
 | 32709 | Claritromycine actavis tablet 500mg |   |
 | Productgroep |   | Maximumprijs |
-| CLARITHROMYCIN-500-MG-TABLET, MET GEREGULEERDE AFGIFTE | CLARITHROMYCIN-500-MG-TABLET, MET GEREGULEERDE AFGIFTE | 1.28589700 per stuk |
+| CLARITHROMYCIN-500-MG-TABLET, MET GEREGULEERDE AFGIFTE | CLARITHROMYCIN-500-MG-TABLET, MET GEREGULEERDE AFGIFTE | 1.32073100 per stuk |
 | Registratienummer | Artikelnaam |   |
+| 104629/21555 | Claritromycine erc tablet mga 500mg |   |
 | 21555 | Klacid sr tablet mga 500mg |   |
 | 27990/21555 | Klaricid retard tablet mga 500mg |   |
 | Productgroep |   | Maximumprijs |
-| CLEMASTINE-1-MG-TABLET | CLEMASTINE-1-MG-TABLET | 0.08883300 per stuk |
+| CLEMASTINE-1-MG-TABLET | CLEMASTINE-1-MG-TABLET | 0.09005700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 103076/5621 | Tavegyl tablet 1mg |   |
 | 28222/5621 | Tavegil tablet 1mg |   |
 | 5621 | Tavegyl tablet 1mg |   |
 | Productgroep |   | Maximumprijs |
-| CLINDAMYCIN-15-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | CLINDAMYCIN-15-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.12130800 per ml |
+| CLINDAMYCIN-15-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | CLINDAMYCIN-15-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.12726100 per ml |
 | Registratienummer | Artikelnaam |   |
 | 6354 | Dalacin c poeder voor suspensie 15mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| CLINDAMYCIN-150-MG-CAPSULE | CLINDAMYCIN-150-MG-CAPSULE | 0.68352900 per stuk |
+| CLINDAMYCIN-150-MG-CAPSULE | CLINDAMYCIN-150-MG-CAPSULE | 0.63327800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 21828 | Clindamycine sandoz capsule 150mg |   |
 | 23168=21828 | Clindamycine a capsule 150mg |   |
@@ -1840,23 +1864,25 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 23962=21828 | Clindamycine rp capsule 150mg |   |
 | 5871 | Dalacin c capsule 150mg |   |
 | Productgroep |   | Maximumprijs |
-| CLINDAMYCIN-300-MG-CAPSULE | CLINDAMYCIN-300-MG-CAPSULE | 0.54004100 per stuk |
+| CLINDAMYCIN-300-MG-CAPSULE | CLINDAMYCIN-300-MG-CAPSULE | 0.53611100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 14457 | Dalacin c capsule 300mg |   |
 | 21829 | Clindamycine sandoz capsule 300mg |   |
 | 23169=21829 | Clindamycine a capsule 300mg |   |
 | 23340=21829 | Clindamycine pch capsule 300mg |   |
 | Productgroep |   | Maximumprijs |
-| CLOBAZAM-10-MG-TABLET | CLOBAZAM-10-MG-TABLET | 0.16757000 per stuk |
+| CLOBAZAM-10-MG-TABLET | CLOBAZAM-10-MG-TABLET | 0.14776100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 9600 | Frisium tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| CLOBAZAM-20-MG-TABLET | CLOBAZAM-20-MG-TABLET | 0.19941700 per stuk |
+| CLOBAZAM-20-MG-TABLET | CLOBAZAM-20-MG-TABLET | 0.20158300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 9601 | Frisium tablet 20mg |   |
 | Productgroep |   | Maximumprijs |
-| CLOBETASOL-.5-MG/G-CREME, CUTAAN | CLOBETASOL-.5-MG/G-CREME, CUTAAN | 0.12295300 per g |
+| CLOBETASOL-.5-MG/G-CREME, CUTAAN | CLOBETASOL-.5-MG/G-CREME, CUTAAN | 0.12105000 per g |
 | Registratienummer | Artikelnaam |   |
+| 104905/6932 | Clobetasol-17-propionaat fisher creme 0,5mg/g |   |
+| 105355/6932 | Dermovate hydrofiele creme 0,5mg/g |   |
 | 24492/6932 | Dermovate hydrofiele creme 0,5mg/g |   |
 | 25533/6932 | Dermovate hydrofiele creme 0,5mg/g |   |
 | 30644/6932 | Dermovate hydrofiele creme 0,5mg/g |   |
@@ -1864,21 +1890,23 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 32696/6932 | Clobetasol-17-propionaat creme 0,5mg/g |   |
 | 6932 | Dermovate hydrofiele creme 0,5mg/g |   |
 | Productgroep |   | Maximumprijs |
-| CLOBETASOL-.5-MG/G-ZALF, CUTAAN | CLOBETASOL-.5-MG/G-ZALF, CUTAAN | 0.11943700 per g |
+| CLOBETASOL-.5-MG/G-ZALF, CUTAAN | CLOBETASOL-.5-MG/G-ZALF, CUTAAN | 0.11706700 per g |
 | Registratienummer | Artikelnaam |   |
 | 101885/6933 | Dermovate hydrofobe zalf 0,05% |   |
+| 104901/6933 | Clobetasol-17-propionaat fisher zalf 0,5mg/g |   |
 | 31037/6933 | Dermovate hydrofobe zalf 0,05% |   |
 | 32694/6933 | Clobetasol-17-propionaat zalf 0,5mg/g |   |
 | 6933 | Dermovate hydrofobe zalf 0,05% |   |
 | Productgroep |   | Maximumprijs |
-| CLOBETASOL-.5-MG/ML-APPLICATIEVLOEISTOF, VOOR CUTAAN GEBRUIK | CLOBETASOL-.5-MG/ML-APPLICATIEVLOEISTOF, VOOR CUTAAN GEBRUIK | 0.13081200 per g |
+| CLOBETASOL-.5-MG/ML-APPLICATIEVLOEISTOF, VOOR CUTAAN GEBRUIK | CLOBETASOL-.5-MG/ML-APPLICATIEVLOEISTOF, VOOR CUTAAN GEBRUIK | 0.12893700 per g |
 | Registratienummer | Artikelnaam |   |
 | 29618/7579 | Dermovate lotion 0,05% |   |
 | 30965/7579 | Dermovate lotion 0,05% |   |
 | 7579 | Dermovate lotion 0,05% |   |
 | Productgroep |   | Maximumprijs |
-| CLOBETASONE-.5-MG/G-CREME, CUTAAN | CLOBETASONE-.5-MG/G-CREME, CUTAAN | 0.12401400 per g |
+| CLOBETASONE-.5-MG/G-CREME, CUTAAN | CLOBETASONE-.5-MG/G-CREME, CUTAAN | 0.12046800 per g |
 | Registratienummer | Artikelnaam |   |
+| 104900/7519 | Clobetason-17-butyraat fisher creme 0,5mg/g |   |
 | 23689/7519 | Emovate creme 0,5mg/g |   |
 | 25498/7519 | Emovate creme 0,5mg/g |   |
 | 26478/7519 | Emovate creme 0,5mg/g |   |
@@ -1886,7 +1914,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 32692/7519 | Clobetason-17-butyraat creme 0,5mg/g |   |
 | 7519 | Emovate creme 0,5mg/g |   |
 | Productgroep |   | Maximumprijs |
-| CLOBETASONE-.5-MG/G-ZALF, CUTAAN | CLOBETASONE-.5-MG/G-ZALF, CUTAAN | 0.12401400 per g |
+| CLOBETASONE-.5-MG/G-ZALF, CUTAAN | CLOBETASONE-.5-MG/G-ZALF, CUTAAN | 0.12046800 per g |
 | Registratienummer | Artikelnaam |   |
 | 25492/7520 | Emovate zalf 0,5mg/g |   |
 | 26539/7520 | Emovate zalf 0,5mg/g |   |
@@ -1894,19 +1922,18 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 32693/7520 | Clobetason-17-butyraat zalf 0,5mg/g |   |
 | 7520 | Emovate zalf 0,5mg/g |   |
 | Productgroep |   | Maximumprijs |
-| CLODRONIC ACID-400-MG-CAPSULE | CLODRONIC ACID-400-MG-CAPSULE | 1.73328900 per stuk |
+| CLODRONIC ACID-400-MG-CAPSULE | CLODRONIC ACID-400-MG-CAPSULE | 1.72774500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13881 | Bonefos capsule 400mg |   |
 | 26005/13881 | Bonefos capsule 400mg |   |
 | Productgroep |   | Maximumprijs |
-| CLODRONIC ACID-800-MG-TABLET | CLODRONIC ACID-800-MG-TABLET | 3.07425700 per stuk |
+| CLODRONIC ACID-800-MG-TABLET | CLODRONIC ACID-800-MG-TABLET | 3.22688900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 20245 | Bonefos tablet 800mg |   |
 | Productgroep |   | Maximumprijs |
-| CLOMIPRAMINE-10-MG-TABLET | CLOMIPRAMINE-10-MG-TABLET | 0.03389500 per stuk |
+| CLOMIPRAMINE-10-MG-TABLET | CLOMIPRAMINE-10-MG-TABLET | 0.03356800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15575 | Clomipramine hcl mylan tablet omhuld 10mg |   |
-| 15575 | Clomipramine hcl merck tablet omhuld 10mg |   |
 | 23924 | Clomipramine hcl sandoz tablet omhuld 10mg |   |
 | 25461=23924 | Clomipramine hcl pch tablet omhuld 10mg |   |
 | 25479=23924 | Clomipramine hcl rp tablet omhuld 10mg |   |
@@ -1915,7 +1942,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 26857=23924 | Clomipramine hcl cf tablet omhuld 10mg |   |
 | 6353 | Anafranil dragee 10mg |   |
 | Productgroep |   | Maximumprijs |
-| CLOMIPRAMINE-25-MG-TABLET | CLOMIPRAMINE-25-MG-TABLET | 0.07323800 per stuk |
+| CLOMIPRAMINE-25-MG-TABLET | CLOMIPRAMINE-25-MG-TABLET | 0.07269500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15576 | Clomipramine hcl mylan tablet omhuld 25mg |   |
 | 23925 | Clomipramine hcl sandoz tablet omhuld 25mg |   |
@@ -1926,17 +1953,17 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 26858=23925 | Clomipramine hcl cf tablet omhuld 25mg |   |
 | 5781 | Anafranil dragee 25mg |   |
 | Productgroep |   | Maximumprijs |
-| CLOMIPRAMINE-75-MG-TABLET, MET GEREGULEERDE AFGIFTE | CLOMIPRAMINE-75-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.28689300 per stuk |
+| CLOMIPRAMINE-75-MG-TABLET, MET GEREGULEERDE AFGIFTE | CLOMIPRAMINE-75-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.29054000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 26859=24107 | Clomipramine hcl cf retard tablet mga 75mg |   |
-| 9857 | Anafranil retard tablet mga 75mg |   |
 | 9857 | Anafranil retard tablet 75mg |   |
+| 9857 | Anafranil retard tablet mga 75mg |   |
 | Productgroep |   | Maximumprijs |
-| CLONAZEPAM-.5-MG-TABLET | CLONAZEPAM-.5-MG-TABLET | 0.05913700 per stuk |
+| CLONAZEPAM-.5-MG-TABLET | CLONAZEPAM-.5-MG-TABLET | 0.05944300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 6870 | Rivotril tablet 0,5mg |   |
 | Productgroep |   | Maximumprijs |
-| CLONAZEPAM-2-MG-TABLET | CLONAZEPAM-2-MG-TABLET | 0.09363400 per stuk |
+| CLONAZEPAM-2-MG-TABLET | CLONAZEPAM-2-MG-TABLET | 0.09401200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 20681/6871 | Rivotril tablet 2mg |   |
 | 6871 | Rivotril tablet 2mg |   |
@@ -1945,27 +1972,29 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | Registratienummer | Artikelnaam |   |
 | 6872 | Rivotril druppels 2,5mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| CLONIDINE-.025-MG-TABLET | CLONIDINE-.025-MG-TABLET | 0.10722900 per stuk |
+| CLONIDINE-.025-MG-TABLET | CLONIDINE-.025-MG-TABLET | 0.10660300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 19845=56917 | Clonidine hcl pch tablet 0,025mg |   |
 | 56917 | Clonidine hcl cf tablet 0,025mg |   |
 | 6757 | Dixarit dragee 0,025mg |   |
 | Productgroep |   | Maximumprijs |
-| CLONIDINE-.15-MG-TABLET | CLONIDINE-.15-MG-TABLET | 0.08186400 per stuk |
+| CLONIDINE-.15-MG-TABLET | CLONIDINE-.15-MG-TABLET | 0.08619800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 16337=56919 | Clonidine hcl sandoz tablet 0,150mg |   |
 | 19846=56919 | Clonidine hcl pch tablet 0,150mg |   |
 | 28802=56919 | Clonidine hcl actavis tablet 0,150mg |   |
 | 56919 | Clonidine hcl cf tablet 0,150mg |   |
 | Productgroep |   | Maximumprijs |
-| CLOPIDOGREL-75-MG-TABLET | CLOPIDOGREL-75-MG-TABLET | 1.56797900 per stuk |
+| CLOPIDOGREL-75-MG-TABLET | CLOPIDOGREL-75-MG-TABLET | 1.37555100 per stuk |
 | Registratienummer | Artikelnaam |   |
+| EU/1/09/535/002 | Grepid tablet filmomhuld 75mg |   |
+| EU/1/09/535/003 | Grepid tablet filmomhuld 75mg |   |
 | EU/1/98/069/001 | Plavix tablet filmomhuld 75mg |   |
 | EU/1/98/069/004 | Plavix tablet filmomhuld 75mg |   |
 | EU/1/98/069/005 | Plavix tablet filmomhuld 75mg |   |
 | EU/1/98/070/001 | Iscover tablet filmomhuld 75mg |   |
 | Productgroep |   | Maximumprijs |
-| CLORAZEPATE POTASSIUM-10-MG-CAPSULE | CLORAZEPATE POTASSIUM-10-MG-CAPSULE | 0.11894000 per stuk |
+| CLORAZEPATE POTASSIUM-10-MG-CAPSULE | CLORAZEPATE POTASSIUM-10-MG-CAPSULE | 0.11986600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13589/6120 | Tranxene capsule 10mg |   |
 | 6120 | Tranxene capsule 10mg |   |
@@ -1979,69 +2008,71 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 10537 | Tranxene tablet 50mg |   |
 | 20684/10537 | Tranxilium tablet omhuld 50mg |   |
 | Productgroep |   | Maximumprijs |
-| CLOZAPINE-100-MG-TABLET | CLOZAPINE-100-MG-TABLET | 0.55629700 per stuk |
+| CLOZAPINE-100-MG-TABLET | CLOZAPINE-100-MG-TABLET | 0.55902700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10460 | Leponex tablet 100mg |   |
 | 21825 | Clozapinum tablet 100mg |   |
 | 21825 | Clozapine tablet 100mg |   |
 | 23678=21825 | Clozapine pch tablet 100mg |   |
 | Productgroep |   | Maximumprijs |
-| CLOZAPINE-25-MG-TABLET | CLOZAPINE-25-MG-TABLET | 0.14579300 per stuk |
+| CLOZAPINE-25-MG-TABLET | CLOZAPINE-25-MG-TABLET | 0.14618900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10459 | Leponex tablet 25mg |   |
 | 21823 | Clozapinum tablet 25mg |   |
 | 21823 | Clozapine tablet 25mg |   |
 | 23677=21823 | Clozapine pch tablet 25mg |   |
 | Productgroep |   | Maximumprijs |
-| COLECALCIFEROL-.07-MG-TABLET-ALENDRONIC ACID-70-MG-TABLET | COLECALCIFEROL-.07-MG-TABLET-ALENDRONIC ACID-70-MG-TABLET | 6.56905600 per stuk |
+| COLECALCIFEROL-.07-MG-TABLET-ALENDRONIC ACID-70-MG-TABLET | COLECALCIFEROL-.07-MG-TABLET-ALENDRONIC ACID-70-MG-TABLET | 6.16001500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/05/310/002 | Fosavance tablet 70mg/2800ie |   |
 | EU/1/05/310/004 | Fosavance tablet 70mg/2800ie |   |
 | EU/1/06/364/002 | Adrovance tablet 70mg/2800ie |   |
 | Productgroep |   | Maximumprijs |
-| COLECALCIFEROL-0.14-MG-TABLET-ALENDRONIC ACID-70-MG-TABLET | COLECALCIFEROL-0.14-MG-TABLET-ALENDRONIC ACID-70-MG-TABLET | 5.88026500 per stuk |
+| COLECALCIFEROL-0.14-MG-TABLET-ALENDRONIC ACID-70-MG-TABLET | COLECALCIFEROL-0.14-MG-TABLET-ALENDRONIC ACID-70-MG-TABLET | 5.54056200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/05/310/007 | Fosavance tablet 70mg/5600ie |   |
+| EU/1/05/310/008 | Fosavance tablet 70mg/5600ie |   |
+| EU/1/06/364/007 | Adrovance tablet 70mg/5600ie |   |
 | Productgroep |   | Maximumprijs |
-| COLESEVELAM-625-MG-TABLET | COLESEVELAM-625-MG-TABLET | 0.71435800 per stuk |
+| COLESEVELAM-625-MG-TABLET | COLESEVELAM-625-MG-TABLET | 0.73596400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/03/268/003 | Cholestagel tablet filmomhuld 625mg |   |
 | Productgroep |   | Maximumprijs |
-| COLESTYRAMINE-4000-MG-POEDER/GRANULAAT, ORAAL | COLESTYRAMINE-4000-MG-POEDER/GRANULAAT, ORAAL | 0.36326100 per sachet |
+| COLESTYRAMINE-4000-MG-POEDER/GRANULAAT, ORAAL | COLESTYRAMINE-4000-MG-POEDER/GRANULAAT, ORAAL | 0.36834900 per sachet |
 | Registratienummer | Artikelnaam |   |
 | 14276 | Questran a poeder 4g in sachet |   |
 | 27519/14276 | Questran a poeder 4g in sachet |   |
 | 6761 | Questran poeder 4g in sachet |   |
 | Productgroep |   | Maximumprijs |
-| CONJUGATED ESTROGENS-.625-MG-TABLET | CONJUGATED ESTROGENS-.625-MG-TABLET | 0.11702600 per stuk |
+| CONJUGATED ESTROGENS-.625-MG-TABLET | CONJUGATED ESTROGENS-.625-MG-TABLET | 0.12014800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 6869 | Dagynil tablet 0,625mg |   |
 | Productgroep |   | Maximumprijs |
-| CONJUGATED ESTROGENS-1.25-MG-TABLET | CONJUGATED ESTROGENS-1.25-MG-TABLET | 0.19031700 per stuk |
+| CONJUGATED ESTROGENS-1.25-MG-TABLET | CONJUGATED ESTROGENS-1.25-MG-TABLET | 0.19487500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 6868 | Dagynil tablet 1,25mg |   |
 | Productgroep |   | Maximumprijs |
-| CROMOGLICIC ACID-20-MG-INHALATIEPOEDER | CROMOGLICIC ACID-20-MG-INHALATIEPOEDER | 0.20658700 per stuk |
-| Registratienummer | Artikelnaam |   |
-| 5719 | Lomudal inhalpdr 20mg met eclipse |   |
-| Productgroep |   | Maximumprijs |
-| CROMOGLICIC ACID-5-MG-AEROSOL | CROMOGLICIC ACID-5-MG-AEROSOL | 0.11813100 per dosis |
+| CROMOGLICIC ACID-5-MG-AEROSOL | CROMOGLICIC ACID-5-MG-AEROSOL | 0.12227500 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 11817 | Lomudal forte aerosol 5mg/do spbs 112do |   |
 | Productgroep |   | Maximumprijs |
-| CYCLOPENTOLATE-10-MG/ML-OOGDRUPPELS | CYCLOPENTOLATE-10-MG/ML-OOGDRUPPELS | 0.49472300 per ml |
+| CYCLOPENTOLATE-10-MG/ML-OOGDRUPPELS | CYCLOPENTOLATE-10-MG/ML-OOGDRUPPELS | 0.97414400 per ml |
 | Registratienummer | Artikelnaam |   |
 | 6851 | Cyclogyl oogdruppels 1% flacon 15ml |   |
 | Productgroep |   | Maximumprijs |
-| CYCLOPHOSPHAMIDE-50-MG-TABLET | CYCLOPHOSPHAMIDE-50-MG-TABLET | 0.14755600 per stuk |
+| CYCLOPHOSPHAMIDE-50-MG-TABLET | CYCLOPHOSPHAMIDE-50-MG-TABLET | 0.15243400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 1155 | Endoxan dragee 50mg |   |
 | Productgroep |   | Maximumprijs |
-| CYPROHEPTADINE-4-MG-TABLET | CYPROHEPTADINE-4-MG-TABLET | 0.10418000 per stuk |
+| CYPROHEPTADINE-4-MG-TABLET | CYPROHEPTADINE-4-MG-TABLET | 0.10462800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 2415 | Periactin tablet 4mg |   |
 | Productgroep |   | Maximumprijs |
-| CYPROTERONE-2-MG-TABLET-ETHINYLESTRADIOL-.035-MG-TABLET | CYPROTERONE-2-MG-TABLET-ETHINYLESTRADIOL-.035-MG-TABLET | 0.15246800 per stuk |
+| CYPROTERONE-10-MG-TABLET | CYPROTERONE-10-MG-TABLET | 0.36626000 per stuk |
+| Registratienummer | Artikelnaam |   |
+| 9078 | Androcur tablet 10mg |   |
+| Productgroep |   | Maximumprijs |
+| CYPROTERONE-2-MG-TABLET-ETHINYLESTRADIOL-.035-MG-TABLET | CYPROTERONE-2-MG-TABLET-ETHINYLESTRADIOL-.035-MG-TABLET | 0.15342700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11903 | Diane-35 tablet omhuld |   |
 | 17771=11903 | Minerva tablet omhuld |   |
@@ -2053,21 +2084,21 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 33581 | Cyproteron/ethinylestradiol pch t omh 2mg/35mcg |   |
 | 33599 | Cyproteron/ethinylestradiol actav t omh 2mg/35mcg |   |
 | Productgroep |   | Maximumprijs |
-| CYPROTERONE-50-MG-TABLET | CYPROTERONE-50-MG-TABLET | 0.57194200 per stuk |
+| CYPROTERONE-50-MG-TABLET | CYPROTERONE-50-MG-TABLET | 0.58372800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15742 | Cyproteronacetaat pch tablet 50mg |   |
-| 18330 | Cyproteronacetaat merck tablet 50mg |   |
+| 18330 | Cyproteronacetaat mylan tablet 50mg |   |
 | 6540 | Androcur tablet 50mg |   |
 | Productgroep |   | Maximumprijs |
-| DALTEPARIN-10000-IE/ML-INJ.VLOEISTOF AMPUL | DALTEPARIN-10000-IE/ML-INJ.VLOEISTOF AMPUL | 8.30826600 per ml |
+| DALTEPARIN-10000-IE/ML-INJ.VLOEISTOF AMPUL | DALTEPARIN-10000-IE/ML-INJ.VLOEISTOF AMPUL | 8.46845700 per ml |
 | Registratienummer | Artikelnaam |   |
 | 12786 | Fragmin 10000 injvlst 10.000ie/ml ampul 1ml |   |
 | Productgroep |   | Maximumprijs |
-| DALTEPARIN-12500-IE/ML-INJ.VLOEISTOF, WWSP | DALTEPARIN-12500-IE/ML-INJ.VLOEISTOF, WWSP | 10.99351000 per ml |
+| DALTEPARIN-12500-IE/ML-INJ.VLOEISTOF, WWSP | DALTEPARIN-12500-IE/ML-INJ.VLOEISTOF, WWSP | 11.45498800 per ml |
 | Registratienummer | Artikelnaam |   |
 | 12787 | Fragmin 2500 injvlst 12.500ie/ml wwsp 0,2ml |   |
 | Productgroep |   | Maximumprijs |
-| DALTEPARIN-25000-IE/ML-INJ.VLOEISTOF, WWSP | DALTEPARIN-25000-IE/ML-INJ.VLOEISTOF, WWSP | 19.33036700 per ml |
+| DALTEPARIN-25000-IE/ML-INJ.VLOEISTOF, WWSP | DALTEPARIN-25000-IE/ML-INJ.VLOEISTOF, WWSP | 20.18181400 per ml |
 | Registratienummer | Artikelnaam |   |
 | 12788 | Fragmin 5000 injvlst 25.000ie/ml wwsp 0,2ml |   |
 | 20607 | Fragmin 7500 injvlst 25.000ie/ml wwsp 0,3ml |   |
@@ -2076,86 +2107,142 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 21898 | Fragmin 15000 injvlst 25.000ie/ml wwsp 0,6ml |   |
 | 21899 | Fragmin 18000 injvlst 25.000ie/ml wwsp 0,72ml |   |
 | Productgroep |   | Maximumprijs |
-| DANAZOL-200-MG-CAPSULE | DANAZOL-200-MG-CAPSULE | 0.93569900 per stuk |
+| DANAZOL-200-MG-CAPSULE | DANAZOL-200-MG-CAPSULE | 0.95712100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 6983 | Danatrol capsule 200mg |   |
 | Productgroep |   | Maximumprijs |
-| DANTROLENE-25-MG-CAPSULE | DANTROLENE-25-MG-CAPSULE | 0.21585500 per stuk |
+| DANTROLENE-25-MG-CAPSULE | DANTROLENE-25-MG-CAPSULE | 0.21937300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 28059/6978 | Dantrium capsule 25mg |   |
 | 6978 | Dantrium capsule 25mg |   |
 | Productgroep |   | Maximumprijs |
-| DARIFENACINE-15-MG-TABLET, MET GEREGULEERDE AFGIFTE | DARIFENACINE-15-MG-TABLET, MET GEREGULEERDE AFGIFTE | 1.35437100 per stuk |
+| DARBEPOETIN ALFA-.025-MG/ML-INJ.VLOEISTOF, WWSP | DARBEPOETIN ALFA-.025-MG/ML-INJ.VLOEISTOF, WWSP | 49.98179800 per ml |
+| Registratienummer | Artikelnaam |   |
+| EU/1/01/185/001 | Aranesp 10 injvlst 25mcg/ml wwsp 0,4ml |   |
+| EU/1/01/185/002 | Aranesp 10 injvlst 25mcg/ml wwsp 0,4ml |   |
+| Productgroep |   | Maximumprijs |
+| DARBEPOETIN ALFA-.04-MG/ML-INJ.VLOEISTOF, WWSP | DARBEPOETIN ALFA-.04-MG/ML-INJ.VLOEISTOF, WWSP | 77.73784500 per ml |
+| Registratienummer | Artikelnaam |   |
+| EU/1/01/185/005 | Aranesp 20 injvlst 40mcg/ml wwsp 0,5ml |   |
+| EU/1/01/185/006 | Aranesp 20 injvlst 40mcg/ml wwsp 0,5ml |   |
+| EU/1/01/185/047 | Aranesp sureclick 20 injvlst 40mcg/ml wwsp 0,5ml |   |
+| EU/1/01/185/079 | Aranesp 20 injvlst 40mcg/ml wwsp 0,5ml |   |
+| Productgroep |   | Maximumprijs |
+| DARBEPOETIN ALFA-.1-MG/ML-INJ.VLOEISTOF, WWSP | DARBEPOETIN ALFA-.1-MG/ML-INJ.VLOEISTOF, WWSP | 196.51220300 per ml |
+| Registratienummer | Artikelnaam |   |
+| EU/1/01/185/007 | Aranesp 30 injvlst 100mcg/ml wwsp 0,3ml |   |
+| EU/1/01/185/008 | Aranesp 30 injvlst 100mcg/ml wwsp 0,3ml |   |
+| EU/1/01/185/009 | Aranesp 40 injvlst 100mcg/ml wwsp 0,4ml |   |
+| EU/1/01/185/010 | Aranesp 40 injvlst 100mcg/ml wwsp 0,4ml |   |
+| EU/1/01/185/011 | Aranesp 50 injvlst 100mcg/ml wwsp 0,5ml |   |
+| EU/1/01/185/012 | Aranesp 50 injvlst 100mcg/ml wwsp 0,5ml |   |
+| EU/1/01/185/049 | Aranesp sureclick 40 injvlst 100mcg/ml wwsp 0,4ml |   |
+| EU/1/01/185/081 | Aranesp 30 injvlst 100mcg/ml wwsp 0,3ml |   |
+| EU/1/01/185/083 | Aranesp 40 injvlst 100mcg/ml wwsp 0,4ml |   |
+| EU/1/01/185/085 | Aranesp 50 injvlst 100mcg/ml wwsp 0,5ml |   |
+| Productgroep |   | Maximumprijs |
+| DARBEPOETIN ALFA-.2-MG/ML-INJ.VLOEISTOF, WWSP | DARBEPOETIN ALFA-.2-MG/ML-INJ.VLOEISTOF, WWSP | 395.43818900 per ml |
+| Registratienummer | Artikelnaam |   |
+| EU/1/01/185/013 | Aranesp 60 injvlst 200mcg/ml wwsp 0,3ml |   |
+| EU/1/01/185/014 | Aranesp 60 injvlst 200mcg/ml wwsp 0,3ml |   |
+| EU/1/01/185/015 | Aranesp 80 injvlst 200mcg/ml wwsp 0,4ml |   |
+| EU/1/01/185/016 | Aranesp 80 injvlst 200mcg/ml wwsp 0,4ml |   |
+| EU/1/01/185/017 | Aranesp 100 injvlst 200mcg/ml wwsp 0,5ml |   |
+| EU/1/01/185/018 | Aranesp 100 injvlst 200mcg/ml wwsp 0,5ml |   |
+| EU/1/01/185/051 | Aranesp sureclick 60 injvlst 200mcg/ml wwsp 0,3ml |   |
+| EU/1/01/185/052 | Aranesp sureclick 80 injvlst 200mcg/ml wwsp 0,4ml |   |
+| EU/1/01/185/053 | Aranesp sureclick 100 injvlst 200mcg/ml wwsp 0,5ml |   |
+| EU/1/01/185/070 | Aranesp 130 injvlst 200mcg/ml wwsp 0,65ml |   |
+| EU/1/01/185/072 | Aranesp sureclick 130 injvlst 200mcg/ml wws 0,65ml |   |
+| EU/1/01/185/087 | Aranesp 60 injvlst 200mcg/ml wwsp 0,3ml |   |
+| EU/1/01/185/089 | Aranesp 80 injvlst 200mcg/ml wwsp 0,4ml |   |
+| EU/1/01/185/091 | Aranesp 100 injvlst 200mcg/ml wwsp 0,5ml |   |
+| EU/1/01/185/093 | Aranesp 130 injvlst 200mcg/ml wwsp 0,65ml |   |
+| Productgroep |   | Maximumprijs |
+| DARBEPOETIN ALFA-.5-MG/ML-INJ.VLOEISTOF, WWSP | DARBEPOETIN ALFA-.5-MG/ML-INJ.VLOEISTOF, WWSP | 957.29811800 per ml |
+| Registratienummer | Artikelnaam |   |
+| EU/1/01/185/019 | Aranesp 150 injvlst 500mcg/ml wwsp 0,3ml |   |
+| EU/1/01/185/020 | Aranesp 150 injvlst 500mcg/ml wwsp 0,3ml |   |
+| EU/1/01/185/021 | Aranesp 300 injvlst 500mcg/ml wwsp 0,6ml |   |
+| EU/1/01/185/031 | Aranesp 500 injvlst 500mcg/ml wwsp 1ml |   |
+| EU/1/01/185/054 | Aranesp sureclick 150 injvlst 500mcg/ml wwsp 0,3ml |   |
+| EU/1/01/185/055 | Aranesp sureclick 300 injvlst 500mcg/ml wwsp 0,6ml |   |
+| EU/1/01/185/056 | Aranesp sureclick 500 injvlst 500mcg/ml wwsp 1ml |   |
+| EU/1/01/185/095 | Aranesp 150 injvlst 500mcg/ml wwsp 0,3ml |   |
+| EU/1/01/185/096 | Aranesp 300 injvlst 500mcg/ml wwsp 0,6ml |   |
+| EU/1/01/185/098 | Aranesp 500 injvlst 500mcg/ml wwsp 1ml |   |
+| Productgroep |   | Maximumprijs |
+| DARIFENACINE-15-MG-TABLET, MET GEREGULEERDE AFGIFTE | DARIFENACINE-15-MG-TABLET, MET GEREGULEERDE AFGIFTE | 1.38885100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/04/294/009 | Emselex tablet mva 15mg |   |
 | EU/1/04/294/023 | Emselex tablet mva 15mg |   |
 | Productgroep |   | Maximumprijs |
-| DARIFENACINE-7.5-MG-TABLET, MET GEREGULEERDE AFGIFTE | DARIFENACINE-7.5-MG-TABLET, MET GEREGULEERDE AFGIFTE | 1.21347300 per stuk |
+| DARIFENACINE-7.5-MG-TABLET, MET GEREGULEERDE AFGIFTE | DARIFENACINE-7.5-MG-TABLET, MET GEREGULEERDE AFGIFTE | 1.23293000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/04/294/003 | Emselex tablet mva 7,5mg |   |
 | EU/1/04/294/017 | Emselex tablet mva 7,5mg |   |
 | Productgroep |   | Maximumprijs |
-| DARUNAVIR-300-MG-TABLET | DARUNAVIR-300-MG-TABLET | 5.41310400 per stuk |
+| DARUNAVIR-300-MG-TABLET | DARUNAVIR-300-MG-TABLET | 5.50821600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/06/380/001 | Prezista tablet filmomhuld 300mg |   |
 | Productgroep |   | Maximumprijs |
-| DARUNAVIR-600-MG-TABLET | DARUNAVIR-600-MG-TABLET | 10.37922100 per stuk |
+| DARUNAVIR-600-MG-TABLET | DARUNAVIR-600-MG-TABLET | 11.17313500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/06/380/002 | Prezista tablet filmomhuld 600mg |   |
 | Productgroep |   | Maximumprijs |
-| DASATINIB-20-MG-TABLET | DASATINIB-20-MG-TABLET | 31.92356400 per stuk |
+| DASATINIB-20-MG-TABLET | DASATINIB-20-MG-TABLET | 32.94358200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/06/363/001 | Sprycel tablet filmomhuld 20mg |   |
 | Productgroep |   | Maximumprijs |
-| DASATINIB-50-MG-TABLET | DASATINIB-50-MG-TABLET | 63.42338800 per stuk |
+| DASATINIB-50-MG-TABLET | DASATINIB-50-MG-TABLET | 65.32126500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/06/363/002 | Sprycel tablet filmomhuld 50mg |   |
 | Productgroep |   | Maximumprijs |
-| DASATINIB-70-MG-TABLET | DASATINIB-70-MG-TABLET | 63.42338800 per stuk |
+| DASATINIB-70-MG-TABLET | DASATINIB-70-MG-TABLET | 64.98333100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/06/363/003 | Sprycel tablet filmomhuld 70mg |   |
 | Productgroep |   | Maximumprijs |
-| DEFERASIROX-125-MG-BRUISTABLET | DEFERASIROX-125-MG-BRUISTABLET | 6.12973200 per stuk |
+| DEFERASIROX-125-MG-BRUISTABLET | DEFERASIROX-125-MG-BRUISTABLET | 6.21730200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/06/356/001 | Exjade disp tablet 125mg |   |
 | Productgroep |   | Maximumprijs |
-| DEFERASIROX-250-MG-BRUISTABLET | DEFERASIROX-250-MG-BRUISTABLET | 12.02276800 per stuk |
+| DEFERASIROX-250-MG-BRUISTABLET | DEFERASIROX-250-MG-BRUISTABLET | 12.28547800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/06/356/003 | Exjade disp tablet 250mg |   |
 | Productgroep |   | Maximumprijs |
-| DEFERASIROX-500-MG-BRUISTABLET | DEFERASIROX-500-MG-BRUISTABLET | 24.20773800 per stuk |
+| DEFERASIROX-500-MG-BRUISTABLET | DEFERASIROX-500-MG-BRUISTABLET | 24.55801800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/06/356/005 | Exjade disp tablet 500mg |   |
 | Productgroep |   | Maximumprijs |
-| DEFERIPRON-100-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | DEFERIPRON-100-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.42025300 per ml |
+| DEFERIPRON-100-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | DEFERIPRON-100-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.42660700 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/99/108/003 | Ferriprox oplossing voor oraal gebruik 100mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| DEFERIPRON-500-MG-TABLET | DEFERIPRON-500-MG-TABLET | 2.11036400 per stuk |
+| DEFERIPRON-500-MG-TABLET | DEFERIPRON-500-MG-TABLET | 2.14201000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/99/108/001 | Ferriprox tablet 500mg |   |
 | Productgroep |   | Maximumprijs |
-| DESLORATADINE-.5-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | DESLORATADINE-.5-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.05812800 per ml |
+| DESLORATADINE-.5-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | DESLORATADINE-.5-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.05847500 per ml |
 | Registratienummer | Artikelnaam |   |
-| EU/1/00/160/016 | Aerius siroop 0,5mg/ml |   |
 | EU/1/00/160/018 | Aerius siroop 0,5mg/ml |   |
 | EU/1/00/160/019 | Aerius siroop 0,5mg/ml |   |
 | EU/1/00/160/063 | Aerius drank 0,5mg/ml |   |
 | EU/1/00/160/066 | Aerius drank 0,5mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| DESLORATADINE-5-MG-SMELTTABLET | DESLORATADINE-5-MG-SMELTTABLET | 0.37969400 per stuk |
+| DESLORATADINE-5-MG-SMELTTABLET | DESLORATADINE-5-MG-SMELTTABLET | 0.40712500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/00/160/056 | Aerius orodispergeerbare tablet 5mg |   |
 | Productgroep |   | Maximumprijs |
-| DESLORATADINE-5-MG-TABLET | DESLORATADINE-5-MG-TABLET | 0.34424700 per stuk |
+| DESLORATADINE-5-MG-TABLET | DESLORATADINE-5-MG-TABLET | 0.34891900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/00/160/008 | Aerius tablet filmomhuld 5mg |   |
 | EU/1/00/160/009 | Aerius tablet filmomhuld 5mg |   |
 | EU/1/00/160/011 | Aerius tablet filmomhuld 5mg |   |
 | EU/1/00/160/033 | Aerius tablet filmomhuld 5mg |   |
 | EU/1/00/160/036 | Aerius tablet filmomhuld 5mg |   |
+| EU/1/00/161/011 | Neoclarityn tablet filmomhuld 5mg |   |
 | Productgroep |   | Maximumprijs |
-| DESMOPRESSIN-.01-MG-NEUSSPRAY | DESMOPRESSIN-.01-MG-NEUSSPRAY | 0.59214600 per dosis |
+| DESMOPRESSIN-.01-MG-NEUSSPRAY | DESMOPRESSIN-.01-MG-NEUSSPRAY | 0.60338400 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 13958 | Minrin neusspray 0,1mg/ml spuitbus 5ml |   |
 | 24110 | Desmopressine sandoz neusspr 10mcg/do flacon 50do |   |
@@ -2163,20 +2250,20 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 27675=24278 | Desmopressine cf neusspray 10mcg/do flacon 50do |   |
 | 27799=24278 | Desmopressine pch neusspr 10mcg/do flacon 50do |   |
 | Productgroep |   | Maximumprijs |
-| DESMOPRESSIN-.1-MG-TABLET | DESMOPRESSIN-.1-MG-TABLET | 0.89563100 per stuk |
+| DESMOPRESSIN-.1-MG-TABLET | DESMOPRESSIN-.1-MG-TABLET | 0.90602500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12624 | Minrin tablet 0,1mg |   |
 | 25761=12624 | Desmopressinum acetas tablet 0,1mg |   |
 | Productgroep |   | Maximumprijs |
-| DESMOPRESSIN-.1-MG/ML-NEUSDRUPPELS | DESMOPRESSIN-.1-MG/ML-NEUSDRUPPELS | 7.22468000 per ml |
+| DESMOPRESSIN-.1-MG/ML-NEUSDRUPPELS | DESMOPRESSIN-.1-MG/ML-NEUSDRUPPELS | 7.28547900 per ml |
 | Registratienummer | Artikelnaam |   |
 | 6684 | Minrin neusdruppels 0,1mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| DESMOPRESSIN-.15-MG-NEUSSPRAY | DESMOPRESSIN-.15-MG-NEUSSPRAY | 15.64543200 per dosis |
+| DESMOPRESSIN-.15-MG-NEUSSPRAY | DESMOPRESSIN-.15-MG-NEUSSPRAY | 16.31909500 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 16175 | Octostim neusspray 150mcg/do flacon 25doses |   |
 | Productgroep |   | Maximumprijs |
-| DESMOPRESSIN-.2-MG-TABLET | DESMOPRESSIN-.2-MG-TABLET | 1.29908400 per stuk |
+| DESMOPRESSIN-.2-MG-TABLET | DESMOPRESSIN-.2-MG-TABLET | 1.26369100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 101729 | Desmopressine acetaat mylan tablet 0,2mg |   |
 | 12625 | Minrin tablet 0,2mg |   |
@@ -2185,22 +2272,22 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 30784 | Desmopressine acetaat actavis tablet 0,2mg |   |
 | 32842 | Desmopressine acetaat sandoz tablet 0,2mg |   |
 | Productgroep |   | Maximumprijs |
-| DESMOPRESSIN-0.12-MG-SMELTTABLET | DESMOPRESSIN-0.12-MG-SMELTTABLET | 1.27097500 per stuk |
+| DESMOPRESSIN-0.12-MG-SMELTTABLET | DESMOPRESSIN-0.12-MG-SMELTTABLET | 1.30259500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100040/30856 | Minirin melt lyophilisaat 120mcg |   |
 | 30856 | Minrin melt lyophilisaat 120mcg |   |
 | Productgroep |   | Maximumprijs |
-| DESMOPRESSIN-0.24-MG-SMELTTABLET | DESMOPRESSIN-0.24-MG-SMELTTABLET | 2.54805100 per stuk |
+| DESMOPRESSIN-0.24-MG-SMELTTABLET | DESMOPRESSIN-0.24-MG-SMELTTABLET | 2.61129000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 30857 | Minrin melt lyophilisaat 240mcg |   |
 | Productgroep |   | Maximumprijs |
-| DEXAMETHASONE-.5-MG-TABLET | DEXAMETHASONE-.5-MG-TABLET | 0.07495000 per stuk |
+| DEXAMETHASONE-.5-MG-TABLET | DEXAMETHASONE-.5-MG-TABLET | 0.51176400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 21768=56079 | Dexamethason rp tablet 0,5mg |   |
 | 52990 | Dexamethason cf tablet 0,5mg |   |
 | 56079 | Dexamethason pch tablet 0,5mg |   |
 | Productgroep |   | Maximumprijs |
-| DEXAMETHASONE-1-MG/ML-OOGDRUPPELS UNITDOSE | DEXAMETHASONE-1-MG/ML-OOGDRUPPELS UNITDOSE | 0.95047800 per ml |
+| DEXAMETHASONE-1-MG/ML-OOGDRUPPELS UNITDOSE | DEXAMETHASONE-1-MG/ML-OOGDRUPPELS UNITDOSE | 0.92305500 per ml |
 | Registratienummer | Artikelnaam |   |
 | 18658 | Monofree dexamethason oogdr 1mg/ml minim 0,4ml |   |
 | Productgroep |   | Maximumprijs |
@@ -2212,7 +2299,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 27697/11302 | Dexamytrex oogdruppels flacon 5ml |   |
 | 28211/11302 | Dexamytrex oogdruppels flacon 5ml |   |
 | Productgroep |   | Maximumprijs |
-| DEXAMETHASONE-1-MG/ML-OOGDRUPPELS-TOBRAMYCIN-3-MG/ML-OOGDRUPPELS | DEXAMETHASONE-1-MG/ML-OOGDRUPPELS-TOBRAMYCIN-3-MG/ML-OOGDRUPPELS | 0.93853300 per ml |
+| DEXAMETHASONE-1-MG/ML-OOGDRUPPELS-TOBRAMYCIN-3-MG/ML-OOGDRUPPELS | DEXAMETHASONE-1-MG/ML-OOGDRUPPELS-TOBRAMYCIN-3-MG/ML-OOGDRUPPELS | 0.95564100 per ml |
 | Registratienummer | Artikelnaam |   |
 | 14223 | Tobradex oogdruppels flacon 5ml |   |
 | 28162/14223 | Tobradex oogdruppels flacon 5ml |   |
@@ -2223,36 +2310,37 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | Registratienummer | Artikelnaam |   |
 | 1848 | Polaramine tablet 2mg |   |
 | Productgroep |   | Maximumprijs |
-| DEXCHLORPHENIRAMINE-6-MG-TABLET, MET GEREGULEERDE AFGIFTE | DEXCHLORPHENIRAMINE-6-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.11687600 per stuk |
+| DEXCHLORPHENIRAMINE-6-MG-TABLET, MET GEREGULEERDE AFGIFTE | DEXCHLORPHENIRAMINE-6-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.11264500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 1809 | Polaramine repetab 6mg |   |
 | 1809 | Polaramine repetab tablet mga 6mg |   |
 | Productgroep |   | Maximumprijs |
-| DEXIBUPROFEN-400-MG-TABLET | DEXIBUPROFEN-400-MG-TABLET | 0.26393500 per stuk |
+| DEXIBUPROFEN-400-MG-TABLET | DEXIBUPROFEN-400-MG-TABLET | 0.26913200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 25476 | Seractil tablet omhuld 400mg |   |
 | 29871/25476 | Seractil tablet omhuld 400mg |   |
 | Productgroep |   | Maximumprijs |
-| DEXKETOPROFEN-25-MG-TABLET | DEXKETOPROFEN-25-MG-TABLET | 0.32546000 per stuk |
+| DEXKETOPROFEN-25-MG-TABLET | DEXKETOPROFEN-25-MG-TABLET | 0.33119900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 22082 | Stadium tablet 25mg |   |
 | Productgroep |   | Maximumprijs |
-| DEXTRAN 70-1-MG/ML-OOGDRUPPELS-HYPROMELLOSE-3-MG/ML-OOGDRUPPELS | DEXTRAN 70-1-MG/ML-OOGDRUPPELS-HYPROMELLOSE-3-MG/ML-OOGDRUPPELS | 0.19709500 per ml |
+| DEXTRAN 70-1-MG/ML-OOGDRUPPELS-HYPROMELLOSE-3-MG/ML-OOGDRUPPELS | DEXTRAN 70-1-MG/ML-OOGDRUPPELS-HYPROMELLOSE-3-MG/ML-OOGDRUPPELS | 0.21474200 per ml |
 | Registratienummer | Artikelnaam |   |
 | 10187 | Duratears oogdruppels flacon 15ml |   |
 | Productgroep |   | Maximumprijs |
-| DIAZEPAM-10-MG-TABLET | DIAZEPAM-10-MG-TABLET | 0.05117700 per stuk |
+| DIAZEPAM-10-MG-TABLET | DIAZEPAM-10-MG-TABLET | 0.05312400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12455=7047 | Diazepam actavis tablet 10mg |   |
 | 12492 | Diazepam sandoz tablet 10mg |   |
 | 20265=52642 | Diazepam a tablet 10mg |   |
+| 50282 | Diazepam apotex tablet 10mg |   |
 | 50282 | Diazepam katwijk tablet 10mg |   |
 | 52642 | Diazepam rp tablet 10mg |   |
 | 56254 | Diazepam pch tablet 10mg |   |
 | 56681 | Diazepam cf tablet 10mg |   |
 | 7047 | Stesolid tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| DIAZEPAM-2-MG-TABLET | DIAZEPAM-2-MG-TABLET | 0.02559400 per stuk |
+| DIAZEPAM-2-MG-TABLET | DIAZEPAM-2-MG-TABLET | 0.02605700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12453=7045 | Diazepam actavis tablet 2mg |   |
 | 12490 | Diazepam sandoz tablet 2mg |   |
@@ -2263,15 +2351,15 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 56679 | Diazepam cf tablet 2mg |   |
 | 7045 | Stesolid tablet 2mg |   |
 | Productgroep |   | Maximumprijs |
-| DIAZEPAM-2-MG/ML-KLYSMA | DIAZEPAM-2-MG/ML-KLYSMA | 0.67768100 per ml |
+| DIAZEPAM-2-MG/ML-KLYSMA | DIAZEPAM-2-MG/ML-KLYSMA | 0.69374600 per ml |
 | Registratienummer | Artikelnaam |   |
 | 7606 | Stesolid rektiool 5mg |   |
 | Productgroep |   | Maximumprijs |
-| DIAZEPAM-4-MG/ML-KLYSMA | DIAZEPAM-4-MG/ML-KLYSMA | 0.84487500 per ml |
+| DIAZEPAM-4-MG/ML-KLYSMA | DIAZEPAM-4-MG/ML-KLYSMA | 0.85983000 per ml |
 | Registratienummer | Artikelnaam |   |
 | 7607 | Stesolid rektiool 10mg |   |
 | Productgroep |   | Maximumprijs |
-| DIAZEPAM-5-MG-TABLET | DIAZEPAM-5-MG-TABLET | 0.03569700 per stuk |
+| DIAZEPAM-5-MG-TABLET | DIAZEPAM-5-MG-TABLET | 0.03660300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12454=7046 | Diazepam actavis tablet 5mg |   |
 | 12491 | Diazepam sandoz tablet 5mg |   |
@@ -2282,11 +2370,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 56680 | Diazepam cf tablet 5mg |   |
 | 7046 | Stesolid tablet 5mg |   |
 | Productgroep |   | Maximumprijs |
-| DIAZOXIDE-100-MG-CAPSULE | DIAZOXIDE-100-MG-CAPSULE | 0.68535000 per stuk |
-| Registratienummer | Artikelnaam |   |
-| 6865 | Proglicem capsule 100mg |   |
-| Productgroep |   | Maximumprijs |
-| DICLOFENAC-1-MG/ML-OOGDRUPPELS | DICLOFENAC-1-MG/ML-OOGDRUPPELS | 1.12071100 per ml |
+| DICLOFENAC-1-MG/ML-OOGDRUPPELS | DICLOFENAC-1-MG/ML-OOGDRUPPELS | 1.14160200 per ml |
 | Registratienummer | Artikelnaam |   |
 | 12800 | Naclof oogdruppels 1mg/ml flacon 5ml |   |
 | 29588/12800 | Naclof oogdruppels 1mg/ml flacon 5ml |   |
@@ -2294,11 +2378,11 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 32539/12800 | Naclof oogdruppels 1mg/ml flacon 5ml |   |
 | 34473 | Dicloabak oogdruppels 1mg/ml flacon 10ml |   |
 | Productgroep |   | Maximumprijs |
-| DICLOFENAC-1-MG/ML-OOGDRUPPELS UNITDOSE | DICLOFENAC-1-MG/ML-OOGDRUPPELS UNITDOSE | 1.82348100 per ml |
+| DICLOFENAC-1-MG/ML-OOGDRUPPELS UNITDOSE | DICLOFENAC-1-MG/ML-OOGDRUPPELS UNITDOSE | 1.86277300 per ml |
 | Registratienummer | Artikelnaam |   |
 | 16483 | Naclof unidose oogdruppels 1mg/ml ampul 0,3ml |   |
 | Productgroep |   | Maximumprijs |
-| DICLOFENAC-100-MG-TABLET, MET GEREGULEERDE AFGIFTE | DICLOFENAC-100-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.26704900 per stuk |
+| DICLOFENAC-100-MG-TABLET, MET GEREGULEERDE AFGIFTE | DICLOFENAC-100-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.27105600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 16275 | Diclofenac natrium actavis ret tablet mga 100mg |   |
 | 17417 | Diclofenacum natricum retard tablet mga 100mg |   |
@@ -2311,18 +2395,18 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 56778 | Diclofenac natrium katwijk retard tablet mga 100mg |   |
 | 57138 | Diclofenac natrium pch retard tablet mga 100mg |   |
 | Productgroep |   | Maximumprijs |
-| DICLOFENAC-100-MG-ZETPIL | DICLOFENAC-100-MG-ZETPIL | 0.25675700 per stuk |
+| DICLOFENAC-100-MG-ZETPIL | DICLOFENAC-100-MG-ZETPIL | 0.28532100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13770 | Diclofenac natrium pch zetpil 100mg |   |
 | 16278 | Diclofenac natrium actavis zetpil 100mg |   |
 | 17261 | Diclofenac natrium cf zetpil 100mg |   |
 | 22930=20743 | Diclofenac natrium sandoz zetpil 100mg |   |
-| 26219=20743 | Diclofenac natrium merck zetpil 100mg |   |
+| 26219=20743 | Diclofenac natrium mylan zetpil 100mg |   |
 | 27605=57150 | Diclofenac natrium a zetpil 100mg |   |
 | 56779 | Diclofenac natrium zetpil 100mg |   |
 | 57150 | Diclofenac natrium rp zetpil 100mg |   |
 | Productgroep |   | Maximumprijs |
-| DICLOFENAC-25-MG-TABLET, MAAGSAPRESISTENT | DICLOFENAC-25-MG-TABLET, MAAGSAPRESISTENT | 0.04797800 per stuk |
+| DICLOFENAC-25-MG-TABLET, MAAGSAPRESISTENT | DICLOFENAC-25-MG-TABLET, MAAGSAPRESISTENT | 0.04930400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11985 | Diclofenac natrium pch tablet msr 25mg |   |
 | 16273 | Diclofenac natrium actavis tablet msr 25mg |   |
@@ -2333,9 +2417,10 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 24030 | Diclofenac natrium flx tablet msr 25mg |   |
 | 26213=20738 | Diclofenac natrium mylan tablet msr 25mg |   |
 | 56776 | Diclofenac natrium tablet msr 25mg |   |
+| 56776 | Diclofenac natrium apotex tablet msr 25mg |   |
 | 57044 | Diclofenac natrium rp tablet msr 25mg |   |
 | Productgroep |   | Maximumprijs |
-| DICLOFENAC-25-MG-ZETPIL | DICLOFENAC-25-MG-ZETPIL | 0.11049200 per stuk |
+| DICLOFENAC-25-MG-ZETPIL | DICLOFENAC-25-MG-ZETPIL | 0.11263900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13768 | Diclofenac natrium pch zetpil 25mg |   |
 | 16276 | Diclofenac natrium actavis zetpil 25mg |   |
@@ -2343,11 +2428,11 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 57148 | Diclofenac natrium rp zetpil 25mg |   |
 | 57384 | Diclofenac natrium zetpil 25mg |   |
 | Productgroep |   | Maximumprijs |
-| DICLOFENAC-50-MG-TABLET | DICLOFENAC-50-MG-TABLET | 0.68038700 per stuk |
+| DICLOFENAC-50-MG-TABLET | DICLOFENAC-50-MG-TABLET | 0.68300200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13245 | Cataflam 50 tablet omhuld 50mg |   |
 | Productgroep |   | Maximumprijs |
-| DICLOFENAC-50-MG-TABLET, MAAGSAPRESISTENT | DICLOFENAC-50-MG-TABLET, MAAGSAPRESISTENT | 0.07071300 per stuk |
+| DICLOFENAC-50-MG-TABLET, MAAGSAPRESISTENT | DICLOFENAC-50-MG-TABLET, MAAGSAPRESISTENT | 0.07274200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11986 | Diclofenac natrium pch tablet msr 50mg |   |
 | 16274 | Diclofenac natrium actavis tablet msr 50mg |   |
@@ -2357,11 +2442,11 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 23243 | Diclofenac natrium sandoz tablet msr 50mg |   |
 | 24031 | Diclofenac natrium flx tablet msr 50mg |   |
 | 26214=20739 | Diclofenac natrium mylan tablet msr 50mg |   |
-| 26214=20739 | Diclofenac natrium merck tablet msr 50mg |   |
 | 56777 | Diclofenacum natricum tablet msr 50mg |   |
+| 56777 | Diclofenac natrium apotex tablet msr 50mg |   |
 | 57045 | Diclofenac natrium rp tablet msr 50mg |   |
 | Productgroep |   | Maximumprijs |
-| DICLOFENAC-50-MG-TABLET, MET GEREGULEERDE AFGIFTE-MISOPROSTOL-0.2-MG-TABLET, MET | DICLOFENAC-50-MG-TABLET, MET GEREGULEERDE AFGIFTE-MISOPROSTOL-0.2-MG-TABLET, MET | 0.30461400 per stuk |
+| DICLOFENAC-50-MG-TABLET, MET GEREGULEERDE AFGIFTE-MISOPROSTOL-0.2-MG-TABLET, MET | DICLOFENAC-50-MG-TABLET, MET GEREGULEERDE AFGIFTE-MISOPROSTOL-0.2-MG-TABLET, MET | 0.30877800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 101637/16410 | Diclofenacnatrium/misoprostol delphi t 50mg/200mcg |   |
 | 16410 | Arthrotec tablet 50mg |   |
@@ -2371,7 +2456,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 30637/16410 | Normulen tablet 50mg |   |
 | 31064/16410 | Arthrotec tablet 50mg |   |
 | Productgroep |   | Maximumprijs |
-| DICLOFENAC-50-MG-ZETPIL | DICLOFENAC-50-MG-ZETPIL | 0.15333100 per stuk |
+| DICLOFENAC-50-MG-ZETPIL | DICLOFENAC-50-MG-ZETPIL | 0.15821400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13769 | Diclofenac natrium pch zetpil 50mg |   |
 | 16277 | Diclofenac natrium actavis zetpil 50mg |   |
@@ -2382,7 +2467,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 57149 | Diclofenac natrium rp zetpil 50mg |   |
 | 57385 | Diclofenac natrium zetpil 50mg |   |
 | Productgroep |   | Maximumprijs |
-| DICLOFENAC-75-MG-TABLET, MET GEREGULEERDE AFGIFTE | DICLOFENAC-75-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.19052600 per stuk |
+| DICLOFENAC-75-MG-TABLET, MET GEREGULEERDE AFGIFTE | DICLOFENAC-75-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.19582300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15235 | Voltaren retard tablet mva 75mg |   |
 | 20800 | Diclofenacum natricum retard tablet mga 75mg |   |
@@ -2395,7 +2480,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 26014 | Diclofenac natrium pch retard tablet mga 75mg |   |
 | 26215=23014 | Diclofenac natrium mylan retard tablet mga 75mg |   |
 | Productgroep |   | Maximumprijs |
-| DICLOFENAC-75-MG-TABLET, MET GEREGULEERDE AFGIFTE-MISOPROSTOL-0.2-MG-TABLET, MET | DICLOFENAC-75-MG-TABLET, MET GEREGULEERDE AFGIFTE-MISOPROSTOL-0.2-MG-TABLET, MET | 0.36928400 per stuk |
+| DICLOFENAC-75-MG-TABLET, MET GEREGULEERDE AFGIFTE-MISOPROSTOL-0.2-MG-TABLET, MET | DICLOFENAC-75-MG-TABLET, MET GEREGULEERDE AFGIFTE-MISOPROSTOL-0.2-MG-TABLET, MET | 0.37642100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 20871 | Arthrotec tablet 75mg |   |
 | 24870/20871 | Artrotec tablet 75mg |   |
@@ -2406,75 +2491,76 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 33426/20871 | Arthrotec tablet 75mg |   |
 | 34271/20871 | Arthrotec tablet 75mg |   |
 | Productgroep |   | Maximumprijs |
-| DIDANOSINE-125-MG-CAPSULE, MAAGSAPRESISTENT | DIDANOSINE-125-MG-CAPSULE, MAAGSAPRESISTENT | 2.93000700 per stuk |
+| DIDANOSINE-125-MG-CAPSULE, MAAGSAPRESISTENT | DIDANOSINE-125-MG-CAPSULE, MAAGSAPRESISTENT | 2.94596200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 25450 | Videx ec capsule msr 125mg |   |
 | Productgroep |   | Maximumprijs |
-| DIDANOSINE-200-MG-CAPSULE, MAAGSAPRESISTENT | DIDANOSINE-200-MG-CAPSULE, MAAGSAPRESISTENT | 4.35657900 per stuk |
+| DIDANOSINE-200-MG-CAPSULE, MAAGSAPRESISTENT | DIDANOSINE-200-MG-CAPSULE, MAAGSAPRESISTENT | 4.38208800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 25451 | Videx ec capsule msr 200mg |   |
 | Productgroep |   | Maximumprijs |
-| DIDANOSINE-250-MG-CAPSULE, MAAGSAPRESISTENT | DIDANOSINE-250-MG-CAPSULE, MAAGSAPRESISTENT | 5.33618400 per stuk |
+| DIDANOSINE-250-MG-CAPSULE, MAAGSAPRESISTENT | DIDANOSINE-250-MG-CAPSULE, MAAGSAPRESISTENT | 5.36801000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 25452 | Videx ec capsule msr 250mg |   |
 | Productgroep |   | Maximumprijs |
-| DIDANOSINE-400-MG-CAPSULE, MAAGSAPRESISTENT | DIDANOSINE-400-MG-CAPSULE, MAAGSAPRESISTENT | 7.04105300 per stuk |
+| DIDANOSINE-400-MG-CAPSULE, MAAGSAPRESISTENT | DIDANOSINE-400-MG-CAPSULE, MAAGSAPRESISTENT | 7.08920000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 25453 | Videx ec capsule msr 400mg |   |
 | Productgroep |   | Maximumprijs |
-| DIFLUCORTOLONE-1-MG/G-CREME, CUTAAN | DIFLUCORTOLONE-1-MG/G-CREME, CUTAAN | 0.09821300 per g |
+| DIFLUCORTOLONE-1-MG/G-CREME, CUTAAN | DIFLUCORTOLONE-1-MG/G-CREME, CUTAAN | 0.09964000 per g |
 | Registratienummer | Artikelnaam |   |
 | 8206 | Nerisona creme 1mg/g (0,1%) |   |
 | Productgroep |   | Maximumprijs |
-| DIGOXIN-.05-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | DIGOXIN-.05-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.06219600 per ml |
+| DIGOXIN-.05-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | DIGOXIN-.05-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.06359000 per ml |
 | Registratienummer | Artikelnaam |   |
 | 1365 | Lanoxin pg elixer 0,05mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| DIGOXIN-.125-MG-TABLET | DIGOXIN-.125-MG-TABLET | 0.04226000 per stuk |
+| DIGOXIN-.125-MG-TABLET | DIGOXIN-.125-MG-TABLET | 0.04254600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 8963 | Lanoxin tablet 0,125mg |   |
 | Productgroep |   | Maximumprijs |
-| DIGOXIN-.25-MG-TABLET | DIGOXIN-.25-MG-TABLET | 0.04412900 per stuk |
+| DIGOXIN-.25-MG-TABLET | DIGOXIN-.25-MG-TABLET | 0.04453500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 1363 | Lanoxin tablet 0,25mg |   |
 | Productgroep |   | Maximumprijs |
-| DILTIAZEM-120-MG-TABLET, MET GEREGULEERDE AFGIFTE | DILTIAZEM-120-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.23594100 per stuk |
+| DILTIAZEM-120-MG-TABLET, MET GEREGULEERDE AFGIFTE | DILTIAZEM-120-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.23971100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13876 | Tildiem cr tablet mga 120mg |   |
 | 17463 | Diltiazem hcl katwijk tablet mga 120mg |   |
+| 17463 | Diltiazem hcl apotex tablet mga 120mg |   |
 | 21306=18594 | Diltiazem hcl rp tablet mga 120mg |   |
 | 21375=17463 | Diltiazem hcl actavis retard tablet mga 120mg |   |
 | 21418=18594 | Diltiazem hcl a retard tablet mga 120mg |   |
 | 21480=18594 | Diltiazem hcl cf retard tablet mga 120mg |   |
 | 21503=18594 | Diltiazem hcl sandoz cr tablet mga 120mg |   |
 | 25594=18594 | Diltiazem hcl pch retard tablet mga 120mg |   |
-| 27986=17463 | Diltiazem hcl merck retard tablet mga 120mg |   |
+| 27986=17463 | Diltiazem hcl mylan retard tablet mga 120mg |   |
 | Productgroep |   | Maximumprijs |
-| DILTIAZEM-180-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | DILTIAZEM-180-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.22886700 per stuk |
+| DILTIAZEM-180-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | DILTIAZEM-180-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.23354800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 21146 | Diltiazem hcl a retard capsule mga 180mg |   |
 | Productgroep |   | Maximumprijs |
-| DILTIAZEM-200-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | DILTIAZEM-200-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.41277200 per stuk |
+| DILTIAZEM-200-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | DILTIAZEM-200-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.40845100 per stuk |
 | Registratienummer | Artikelnaam |   |
+| 100833 | Diltiazem hcl a retard capsule mga 200mg |   |
 | 16538 | Tildiem xr capsule mga 200mg |   |
 | 22517/16538 | Tildiem xr capsule mga 200mg |   |
 | 24651/16538 | Tildiem retard capsule mga 200mg |   |
 | 27732/16538 | Tildiem xr capsule mga 200mg |   |
 | 28940/16538 | Tildiem retard capsule mga 200mg |   |
 | 33122/16538 | Tildiem xr capsule mga 200mg |   |
-| 33161/16538 | Tildiem la capsule mga 200mg |   |
 | 35224/16538 | Tildiem xr capsule mga 200mg |   |
 | Productgroep |   | Maximumprijs |
-| DILTIAZEM-240-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | DILTIAZEM-240-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.33427500 per stuk |
+| DILTIAZEM-240-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | DILTIAZEM-240-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.36135600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 21147 | Diltiazem hcl a retard capsule mga 240mg |   |
 | Productgroep |   | Maximumprijs |
-| DILTIAZEM-300-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | DILTIAZEM-300-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.36068500 per stuk |
+| DILTIAZEM-300-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | DILTIAZEM-300-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.36443800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 16539 | Tildiem xr capsule mga 300mg |   |
 | 21148 | Diltiazem hcl a retard capsule mga 300mg |   |
 | Productgroep |   | Maximumprijs |
-| DILTIAZEM-60-MG-TABLET | DILTIAZEM-60-MG-TABLET | 0.08198000 per stuk |
+| DILTIAZEM-60-MG-TABLET | DILTIAZEM-60-MG-TABLET | 0.07860600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10192 | Tildiem tablet 60mg |   |
 | 14145 | Diltiazem hcl katwijk tablet 60mg |   |
@@ -2482,11 +2568,10 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 18694 | Diltiazemi hydrochloridum tablet 60mg |   |
 | 18695 | Diltiazem hcl sandoz tablet 60mg |   |
 | 19031 | Diltiazem hcl rp tablet 60mg |   |
-| 23153 | Diltiazem hcl merck tablet 60mg |   |
 | 57052 | Diltiazem hcl cf tablet 60mg |   |
 | 57367 | Diltiazem hcl pch tablet 60mg |   |
 | Productgroep |   | Maximumprijs |
-| DILTIAZEM-90-MG-TABLET, MET GEREGULEERDE AFGIFTE | DILTIAZEM-90-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.18234500 per stuk |
+| DILTIAZEM-90-MG-TABLET, MET GEREGULEERDE AFGIFTE | DILTIAZEM-90-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.18626800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13875 | Tildiem cr tablet mga 90mg |   |
 | 17462 | Diltiazem hcl katwijk tablet mga 90mg |   |
@@ -2495,49 +2580,51 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 21479=18593 | Diltiazem hcl cf retard tablet mga 90mg |   |
 | 21502=18593 | Diltiazem hcl sandoz cr tablet mga 90mg |   |
 | 25593=18593 | Diltiazem hcl pch retard tablet mga 90mg |   |
-| 27985=17462 | Diltiazem hcl merck retard tablet mga 90mg |   |
+| 27985=17462 | Diltiazem hcl mylan retard tablet mga 90mg |   |
 | Productgroep |   | Maximumprijs |
-| DIMETINDENE-1-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | DIMETINDENE-1-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.07275400 per ml |
+| DIMETINDENE-1-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | DIMETINDENE-1-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.11749500 per ml |
 | Registratienummer | Artikelnaam |   |
 | 1528 | Fenistil druppels 1mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| DIPIVEFRINE-1-MG/ML-OOGDRUPPELS | DIPIVEFRINE-1-MG/ML-OOGDRUPPELS | 1.07755700 per ml |
+| DIPIVEFRINE-1-MG/ML-OOGDRUPPELS | DIPIVEFRINE-1-MG/ML-OOGDRUPPELS | 1.09537000 per ml |
 | Registratienummer | Artikelnaam |   |
 | 8891 | Diopine oogdruppels 1mg/ml flacon 10ml |   |
 | Productgroep |   | Maximumprijs |
-| DIPYRIDAMOLE-200-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | DIPYRIDAMOLE-200-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.14950300 per stuk |
+| DIPYRIDAMOLE-200-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | DIPYRIDAMOLE-200-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.14663200 per stuk |
 | Registratienummer | Artikelnaam |   |
+| 105273/14870 | Persantin retard capsule mga 200mg |   |
 | 14870 | Persantin retard capsule mga 200mg |   |
 | 24525/14870 | Persantine retard capsule mga 200mg |   |
 | 26168/14870 | Persantine retard capsule mga 200mg |   |
 | Productgroep |   | Maximumprijs |
-| DIPYRIDAMOLE-75-MG-TABLET | DIPYRIDAMOLE-75-MG-TABLET | 0.04141900 per stuk |
+| DIPYRIDAMOLE-75-MG-TABLET | DIPYRIDAMOLE-75-MG-TABLET | 0.04027700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13691=9539 | Dipyridamol sandoz dragee 75mg |   |
 | 14104=9539 | Dipyridamol rp dragee 75mg |   |
 | 15543=9539 | Dipyridamol actavis dragee 75mg |   |
+| 17517=9539 | Dipyridamol apotex tablet omhuld 75mg |   |
 | 17517=9539 | Dipyridamolum dragee 75mg |   |
 | 57393=9539 | Dipyridamol cf dragee 75mg |   |
 | 9539 | Dipyridamol pch dragee 75mg |   |
 | Productgroep |   | Maximumprijs |
-| DISOPYRAMIDE-100-MG-CAPSULE | DISOPYRAMIDE-100-MG-CAPSULE | 0.14859800 per stuk |
+| DISOPYRAMIDE-100-MG-CAPSULE | DISOPYRAMIDE-100-MG-CAPSULE | 0.15189000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10244 | Disopyramide pch capsule 100mg |   |
 | Productgroep |   | Maximumprijs |
-| DISOPYRAMIDE-250-MG-TABLET, MET GEREGULEERDE AFGIFTE | DISOPYRAMIDE-250-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.38991400 per stuk |
+| DISOPYRAMIDE-250-MG-TABLET, MET GEREGULEERDE AFGIFTE | DISOPYRAMIDE-250-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.38998200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 8613 | Ritmoforine retard tablet mga 250mg |   |
 | Productgroep |   | Maximumprijs |
-| DISTIGMINE-5-MG-TABLET | DISTIGMINE-5-MG-TABLET | 1.39757400 per stuk |
+| DISTIGMINE-5-MG-TABLET | DISTIGMINE-5-MG-TABLET | 1.51479600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 7887 | Ubretid tablet 5mg |   |
 | Productgroep |   | Maximumprijs |
-| DOCETAXEL-40-MG/ML-INFUUSVLOEISTOF, FLACON | DOCETAXEL-40-MG/ML-INFUUSVLOEISTOF, FLACON | 357.78366500 per ml |
+| DOCETAXEL-40-MG/ML-INFUUSVLOEISTOF, FLACON | DOCETAXEL-40-MG/ML-INFUUSVLOEISTOF, FLACON | 352.52346500 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/95/002/001 | Taxotere conc v infvlst 40mg/ml fl0,5ml+solv 1,5ml |   |
 | EU/1/95/002/002 | Taxotere conc v infvlst 40mg/ml fl2ml +solv 6ml |   |
 | Productgroep |   | Maximumprijs |
-| DORNASE ALFA (DESOXYRIBONUCLEASE)-1-MG/ML-INHALATIEVLOEISTOF UNITDOSE | DORNASE ALFA (DESOXYRIBONUCLEASE)-1-MG/ML-INHALATIEVLOEISTOF UNITDOSE | 10.08139000 per ml |
+| DORNASE ALFA (DESOXYRIBONUCLEASE)-1-MG/ML-INHALATIEVLOEISTOF UNITDOSE | DORNASE ALFA (DESOXYRIBONUCLEASE)-1-MG/ML-INHALATIEVLOEISTOF UNITDOSE | 10.09195200 per ml |
 | Registratienummer | Artikelnaam |   |
 | 101993/16734 | Pulmozyme inhalatievloeistof 1mg/ml ampul 2,5ml |   |
 | 16734 | Pulmozyme inhalatievloeistof 1mg/ml ampul 2,5ml |   |
@@ -2546,7 +2633,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 26441/16734 | Pulmozyme inhalatievloeistof 1mg/ml ampul 2,5ml |   |
 | 27368/16734 | Pulmozyme inhalatievloeistof 1mg/ml ampul 2,5ml |   |
 | Productgroep |   | Maximumprijs |
-| DORZOLAMIDE-20-MG/ML-OOGDRUPPELS | DORZOLAMIDE-20-MG/ML-OOGDRUPPELS | 2.05485200 per ml |
+| DORZOLAMIDE-20-MG/ML-OOGDRUPPELS | DORZOLAMIDE-20-MG/ML-OOGDRUPPELS | 2.07331600 per ml |
 | Registratienummer | Artikelnaam |   |
 | 17618 | Trusopt oogdruppels 20mg/ml flacon 5ml |   |
 | 28640/17618 | Trusopt oogdruppels 20mg/ml flacon 5ml |   |
@@ -2555,59 +2642,59 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 31046/17618 | Trusopt oogdruppels 20mg/ml flacon 5ml |   |
 | 32209/17618 | Trusopt oogdruppels 20mg/ml flacon 5ml |   |
 | Productgroep |   | Maximumprijs |
-| DORZOLAMIDE-20-MG/ML-OOGDRUPPELS UNITDOSE | DORZOLAMIDE-20-MG/ML-OOGDRUPPELS UNITDOSE | 2.60469100 per ml |
+| DORZOLAMIDE-20-MG/ML-OOGDRUPPELS UNITDOSE | DORZOLAMIDE-20-MG/ML-OOGDRUPPELS UNITDOSE | 2.66771000 per ml |
 | Registratienummer | Artikelnaam |   |
 | 32633 | Trusopt conserveermiddelvr oogdr 20mg/ml fl 0,2ml |   |
 | Productgroep |   | Maximumprijs |
-| DOSULEPIN-25-MG-CAPSULE | DOSULEPIN-25-MG-CAPSULE | 0.08296000 per stuk |
+| DOSULEPIN-25-MG-CAPSULE | DOSULEPIN-25-MG-CAPSULE | 0.08310100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 9997 | Prothiaden mitis capsule 25mg |   |
 | Productgroep |   | Maximumprijs |
-| DOSULEPIN-75-MG-TABLET | DOSULEPIN-75-MG-TABLET | 0.20771800 per stuk |
+| DOSULEPIN-75-MG-TABLET | DOSULEPIN-75-MG-TABLET | 0.20707100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 30650/9998 | Prothiaden dragee 75mg |   |
 | 9998 | Prothiaden dragee 75mg |   |
 | Productgroep |   | Maximumprijs |
-| DOXAZOSIN-4-MG-TABLET, MET GEREGULEERDE AFGIFTE | DOXAZOSIN-4-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.38424300 per stuk |
+| DOXAZOSIN-4-MG-TABLET, MET GEREGULEERDE AFGIFTE | DOXAZOSIN-4-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.32969000 per stuk |
 | Registratienummer | Artikelnaam |   |
+| 101671 | Doxazosine pch retard tablet mva 4mg |   |
 | 22688 | Cardura xl tablet mga 4mg |   |
+| 33594 | Doxazosine sandoz retard tablet mva 4mg |   |
 | Productgroep |   | Maximumprijs |
-| DOXAZOSIN-8-MG-TABLET, MET GEREGULEERDE AFGIFTE | DOXAZOSIN-8-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.54716800 per stuk |
+| DOXAZOSIN-8-MG-TABLET, MET GEREGULEERDE AFGIFTE | DOXAZOSIN-8-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.55831600 per stuk |
 | Registratienummer | Artikelnaam |   |
+| 105341/22689 | Cardura xl tablet mga 8mg |   |
 | 22689 | Cardura xl tablet mga 8mg |   |
 | Productgroep |   | Maximumprijs |
-| DOXEPIN-25-MG-CAPSULE | DOXEPIN-25-MG-CAPSULE | 0.09818700 per stuk |
+| DOXEPIN-25-MG-CAPSULE | DOXEPIN-25-MG-CAPSULE | 0.09859600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 5908 | Sinequan capsule 25mg |   |
 | Productgroep |   | Maximumprijs |
-| DOXEPIN-50-MG-CAPSULE | DOXEPIN-50-MG-CAPSULE | 0.15882300 per stuk |
+| DOXEPIN-50-MG-CAPSULE | DOXEPIN-50-MG-CAPSULE | 0.15873900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 6059 | Sinequan capsule 50mg |   |
 | Productgroep |   | Maximumprijs |
-| DOXORUBICIN LIPOSOMAAL-2-MG/ML-INFUUSVLOEISTOF, FLACON | DOXORUBICIN LIPOSOMAAL-2-MG/ML-INFUUSVLOEISTOF, FLACON | 45.41231900 per ml |
+| DOXORUBICIN LIPOSOMAAL-2-MG/ML-INFUUSVLOEISTOF, FLACON | DOXORUBICIN LIPOSOMAAL-2-MG/ML-INFUUSVLOEISTOF, FLACON | 48.06509000 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/96/011/001 | Caelyx infusievlst conc 2mg/ml flacon 10ml |   |
 | EU/1/96/011/003 | Caelyx infusievlst conc 2mg/ml flacon 25ml |   |
 | Productgroep |   | Maximumprijs |
-| DOXORUBICIN LIPOSOMAAL-50-MG-POED. V. INFUSIE,FLACON | DOXORUBICIN LIPOSOMAAL-50-MG-POED. V. INFUSIE,FLACON | 768.05882200 per stuk |
+| DOXORUBICIN LIPOSOMAAL-50-MG-POED. V. INFUSIE,FLACON | DOXORUBICIN LIPOSOMAAL-50-MG-POED. V. INFUSIE,FLACON | 782.58605900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/00/141/001 | Myocet infpdr fl 50mg + fl liposomen + fl buffer |   |
 | Productgroep |   | Maximumprijs |
-| DOXORUBICIN-2-MG/ML-INFUUSVLOEISTOF, FLACON | DOXORUBICIN-2-MG/ML-INFUUSVLOEISTOF, FLACON | 3.31064200 per ml |
+| DOXORUBICIN-2-MG/ML-INFUUSVLOEISTOF, FLACON | DOXORUBICIN-2-MG/ML-INFUUSVLOEISTOF, FLACON | 3.64132600 per ml |
 | Registratienummer | Artikelnaam |   |
 | 14735 | Doxorubin injvlst 2mg/ml flacon 5ml |   |
 | 14735 | Doxorubin injvlst 2mg/ml flacon 10ml |   |
 | 14735 | Doxorubin injvlst 2mg/ml flacon 25ml |   |
 | 14735 | Doxorubin injvlst 2mg/ml flacon 100ml |   |
 | 25763 | Doxorubicine hcl ebew infvlst conc 2mg/ml fl 25ml |   |
-| 25763 | Doxorubicine hcl euro infvlst conc 2mg/ml 25ml on |   |
+| 25763 | Doxorubicine hcl ebew infvlst conc 2mg/ml fl 100ml |   |
 | 25763 | Doxorubicine hcl ebew infvlst conc 2mg/ml fl 5ml |   |
 | 25763 | Doxorubicine hcl ebew infvlst conc 2mg/ml fl 50ml |   |
-| 25763 | Doxorubicine hcl euro infvlst conc 2mg/ml 100ml on |   |
-| 25763 | Doxorubicine hcl ebew infvlst conc 2mg/ml fl 100ml |   |
-| 25763 | Doxorubicine hcl euro infvlst conc 2mg/ml fl 5ml |   |
 | Productgroep |   | Maximumprijs |
-| DOXYCYCLINE-100-MG-BRUISTABLET | DOXYCYCLINE-100-MG-BRUISTABLET | 0.40870100 per stuk |
+| DOXYCYCLINE-100-MG-BRUISTABLET | DOXYCYCLINE-100-MG-BRUISTABLET | 0.40864200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12871 | Doxycycline actavis disper tablet 100mg |   |
 | 15344 | Doxy disp pch tablet 100mg |   |
@@ -2616,37 +2703,29 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 22423 | Doxycyclinum dispergeerbaar tablet 100mg |   |
 | 23729 | Doxycycline eb disper tablet 100mg |   |
 | 23881 | Doxycycline accord disper tablet 100mg |   |
-| 25835 | Doxycycline merck disper tablet 100mg |   |
+| 25835 | Doxycycline mylan disper tablet 100mg |   |
 | 28553=22423 | Doxycycline a disper tablet 100mg |   |
 | 56596 | Doxycyclinum dispergeerbaar tablet 100mg |   |
 | 56838 | Doxycycline cf disper tablet 100mg |   |
+| 56951 | Doxycycline apotex disper tablet 100mg |   |
 | 56951 | Doxycycline disper tablet 100mg |   |
 | Productgroep |   | Maximumprijs |
-| DOXYCYCLINE-100-MG-TABLET | DOXYCYCLINE-100-MG-TABLET | 0.26096500 per stuk |
+| DOXYCYCLINE-100-MG-TABLET | DOXYCYCLINE-100-MG-TABLET | 0.26201900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 51845 | Doxycycline rp tablet 100mg |   |
 | 56952 | Doxycycline tablet 100mg filmcoated |   |
 | 9519 | Doxycycline pch tablet 100mg |   |
 | Productgroep |   | Maximumprijs |
-| DROTRECOGIN ALFA-20-MG-POED. V. INFUSIE,FLACON | DROTRECOGIN ALFA-20-MG-POED. V. INFUSIE,FLACON | 846.63069800 per stuk |
-| Registratienummer | Artikelnaam |   |
-| EU/1/02/225/002 | Xigris infusiepoeder flacon 20mg |   |
-| Productgroep |   | Maximumprijs |
-| DROTRECOGIN ALFA-5-MG-POED. V. INFUSIE,FLACON | DROTRECOGIN ALFA-5-MG-POED. V. INFUSIE,FLACON | 211.65920200 per stuk |
-| Registratienummer | Artikelnaam |   |
-| EU/1/02/225/001 | Xigris infusiepoeder flacon 5mg |   |
-| Productgroep |   | Maximumprijs |
-| DULOXETINE-60-MG-CAPSULE, MAAGSAPRESISTENT | DULOXETINE-60-MG-CAPSULE, MAAGSAPRESISTENT | 1.29700200 per stuk |
+| DULOXETINE-60-MG-CAPSULE, MAAGSAPRESISTENT | DULOXETINE-60-MG-CAPSULE, MAAGSAPRESISTENT | 1.35352400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/04/296/002 | Cymbalta capsule msr 60mg |   |
 | Productgroep |   | Maximumprijs |
-| DUTASTERIDE-.5-MG-CAPSULE | DUTASTERIDE-.5-MG-CAPSULE | 0.94442700 per stuk |
+| DUTASTERIDE-.5-MG-CAPSULE | DUTASTERIDE-.5-MG-CAPSULE | 0.94890800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100233/28317 | Avodart capsule 0,5mg |   |
 | 100349/28317 | Avodart capsule 0,5mg |   |
 | 100801/28317 | Avodart capsule 0,5mg |   |
 | 101884/28317 | Avodart capsule 0,5mg |   |
-| 101975/28317 | Avodart capsule 0,5mg |   |
 | 102438/28317 | Avodart capsule 0,5mg |   |
 | 103952/28317 | Avodart capsule 0,5mg |   |
 | 28317 | Avodart capsule 0,5mg |   |
@@ -2655,11 +2734,11 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 32403/28317 | Avodart capsule 0,5mg |   |
 | 32868/28317 | Avodart capsule 0,5mg |   |
 | Productgroep |   | Maximumprijs |
-| DYDROGESTERONE-10-MG-TABLET | DYDROGESTERONE-10-MG-TABLET | 0.23243900 per stuk |
+| DYDROGESTERONE-10-MG-TABLET | DYDROGESTERONE-10-MG-TABLET | 0.23063100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 5619 | Duphaston tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| DYDROGESTERONE-5-MG-TABLET-ESTRADIOL-1-MG-TABLET | DYDROGESTERONE-5-MG-TABLET-ESTRADIOL-1-MG-TABLET | 0.36750100 per stuk |
+| DYDROGESTERONE-5-MG-TABLET-ESTRADIOL-1-MG-TABLET | DYDROGESTERONE-5-MG-TABLET-ESTRADIOL-1-MG-TABLET | 0.37436100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 25549 | Femoston continu tablet omhuld 1/5mg |   |
 | 27680/25549 | Climaston continu tablet omhuld 1/5mg |   |
@@ -2671,7 +2750,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 17708 | Kestine tablet 10mg |   |
 | 34584/17708 | Kestine tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| ELETRIPTAN-40-MG-TABLET | ELETRIPTAN-40-MG-TABLET | 4.65934000 per stuk |
+| ELETRIPTAN-40-MG-TABLET | ELETRIPTAN-40-MG-TABLET | 4.71798000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100169/26579 | Relpax tablet filmomhuld 40mg |   |
 | 102435/26579 | Relpax tablet filmomhuld 40mg |   |
@@ -2681,57 +2760,61 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 31019/26579 | Relpax tablet filmomhuld 40mg |   |
 | 32210/26579 | Relpax tablet filmomhuld 40mg |   |
 | Productgroep |   | Maximumprijs |
-| EMTRICITABINE-200-MG-CAPSULE | EMTRICITABINE-200-MG-CAPSULE | 6.46655000 per stuk |
+| EMTRICITABINE-200-MG-CAPSULE | EMTRICITABINE-200-MG-CAPSULE | 6.55177400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/03/261/001 | Emtriva capsule 200mg |   |
 | Productgroep |   | Maximumprijs |
-| ENALAPRIL-10-MG-TABLET | ENALAPRIL-10-MG-TABLET | 0.09018000 per stuk |
+| ENALAPRIL-10-MG-TABLET | ENALAPRIL-10-MG-TABLET | 0.09082300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10852 | Renitec tablet 10mg |   |
 | 23649 | Enalapril maleaat sandoz tablet 10mg |   |
-| 23718 | Enalapril maleaat katwijk tablet 10mg |   |
+| 23718 | Enalapril maleaat apotex tablet 10mg |   |
 | 24377 | Enalapril maleaat pch tablet 10mg |   |
 | 24500 | Enalapril maleaat cf tablet 10mg |   |
 | 24516 | Enalapril maleaat sandoz tablet 10mg |   |
-| 24867 | Enalapril maleaat merck tablet 10mg |   |
 | 24867 | Enalapril maleaat mylan tablet 10mg |   |
 | 25001=24500 | Enalapril maleaat actavis tablet 10mg |   |
 | 25290 | Enalapril maleaat rp tablet 10mg |   |
 | 31967 | Enalapril maleaat a tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| ENALAPRIL-20-MG-TABLET | ENALAPRIL-20-MG-TABLET | 0.18390700 per stuk |
+| ENALAPRIL-10-MG-TABLET-LERCANIDIPINE-10-MG-TABLET | ENALAPRIL-10-MG-TABLET-LERCANIDIPINE-10-MG-TABLET | 0.40199200 per stuk |
+| Registratienummer | Artikelnaam |   |
+| 101314 | Lertec tablet filmomhuld 10/10mg |   |
+| Productgroep |   | Maximumprijs |
+| ENALAPRIL-20-MG-TABLET | ENALAPRIL-20-MG-TABLET | 0.18470400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10576 | Renitec tablet 20mg |   |
 | 23650 | Enalapril maleaat sandoz tablet 20mg |   |
-| 23719 | Enalapril maleaat katwijk tablet 20mg |   |
+| 23719 | Enalapril maleaat apotex tablet 20mg |   |
 | 24378 | Enalapril maleaat pch tablet 20mg |   |
 | 24501 | Enalapril maleaat cf tablet 20mg |   |
 | 24517 | Enalapril maleaat sandoz tablet 20mg |   |
-| 24868 | Enalapril maleaat merck tablet 20mg |   |
 | 24868 | Enalapril maleaat mylan tablet 20mg |   |
 | 25002=24501 | Enalapril maleaat actavis tablet 20mg |   |
 | 25291 | Enalapril maleaat rp tablet 20mg |   |
 | 31968 | Enalapril maleaat a tablet 20mg |   |
 | Productgroep |   | Maximumprijs |
-| ENALAPRIL-40-MG-TABLET | ENALAPRIL-40-MG-TABLET | 0.22698600 per stuk |
+| ENALAPRIL-20-MG-TABLET-LERCANIDIPINE-10-MG-TABLET | ENALAPRIL-20-MG-TABLET-LERCANIDIPINE-10-MG-TABLET | 0.53386100 per stuk |
+| Registratienummer | Artikelnaam |   |
+| 101315 | Lertec tablet filmomhuld 20/10mg |   |
+| Productgroep |   | Maximumprijs |
+| ENALAPRIL-40-MG-TABLET | ENALAPRIL-40-MG-TABLET | 0.23157800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 27197 | Enalapril maleaat sandoz tablet 40mg |   |
 | Productgroep |   | Maximumprijs |
-| ENALAPRIL-5-MG-TABLET | ENALAPRIL-5-MG-TABLET | 0.08202400 per stuk |
+| ENALAPRIL-5-MG-TABLET | ENALAPRIL-5-MG-TABLET | 0.08170100 per stuk |
 | Registratienummer | Artikelnaam |   |
-| 10575 | Renitec tablet 5mg |   |
 | 23648 | Enalapril maleaat sandoz tablet 5mg |   |
-| 23717 | Enalapril maleaat katwijk tablet 5mg |   |
+| 23717 | Enalapril maleaat apotex tablet 5mg |   |
 | 24376 | Enalapril maleaat pch tablet 5mg |   |
 | 24499 | Enalapril maleaat cf tablet 5mg |   |
 | 24515 | Enalapril maleaat sandoz tablet 5mg |   |
-| 24866 | Enalapril maleaat merck tablet 5mg |   |
 | 24866 | Enalapril maleaat mylan tablet 5mg |   |
 | 25000=24499 | Enalapril maleaat actavis tablet 5mg |   |
 | 25289 | Enalapril maleaat rp tablet 5mg |   |
 | 31966 | Enalapril maleaat a tablet 5mg |   |
 | Productgroep |   | Maximumprijs |
-| ENOXAPARIN-100-MG/ML-INJ.VLOEISTOF, WWSP | ENOXAPARIN-100-MG/ML-INJ.VLOEISTOF, WWSP | 8.37708100 per ml |
+| ENOXAPARIN-100-MG/ML-INJ.VLOEISTOF, WWSP | ENOXAPARIN-100-MG/ML-INJ.VLOEISTOF, WWSP | 8.40519100 per ml |
 | Registratienummer | Artikelnaam |   |
 | 13068 | Clexane injvlst 100mg/ml wwsp 0,4ml |   |
 | 13068 | Clexane injvlst 100mg/ml wwsp 1ml |   |
@@ -2739,40 +2822,143 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 13068 | Clexane injvlst 100mg/ml wwsp 0,6ml |   |
 | 13068 | Clexane injvlst 100mg/ml wwsp 0,8ml |   |
 | Productgroep |   | Maximumprijs |
-| ENOXAPARIN-150-MG/ML-INJ.VLOEISTOF, WWSP | ENOXAPARIN-150-MG/ML-INJ.VLOEISTOF, WWSP | 10.50176300 per ml |
+| ENOXAPARIN-150-MG/ML-INJ.VLOEISTOF, WWSP | ENOXAPARIN-150-MG/ML-INJ.VLOEISTOF, WWSP | 10.84894600 per ml |
 | Registratienummer | Artikelnaam |   |
 | 24584 | Clexane injvlst 150mg/ml wwsp 0,8ml |   |
 | 24584 | Clexane injvlst 150mg/ml wwsp 1ml |   |
 | Productgroep |   | Maximumprijs |
-| ENTACAPON-200-MG-TABLET | ENTACAPON-200-MG-TABLET | 0.84389600 per stuk |
+| ENTACAPON-200-MG-TABLET | ENTACAPON-200-MG-TABLET | 0.85177000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/98/081/001 | Comtan tablet 200mg |   |
 | EU/1/98/081/002 | Comtan tablet 200mg |   |
 | EU/1/98/081/003 | Comtan tablet 200mg |   |
 | Productgroep |   | Maximumprijs |
-| ENTECAVIR-0.5-MG-TABLET | ENTECAVIR-0.5-MG-TABLET | 16.13283900 per stuk |
+| ENTECAVIR-0.5-MG-TABLET | ENTECAVIR-0.5-MG-TABLET | 15.66825200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/06/343/003 | Baraclude tablet filmomhuld 0,5mg |   |
 | Productgroep |   | Maximumprijs |
-| ENTECAVIR-1-MG-TABLET | ENTECAVIR-1-MG-TABLET | 16.18672900 per stuk |
+| ENTECAVIR-1-MG-TABLET | ENTECAVIR-1-MG-TABLET | 16.35898100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/06/343/004 | Baraclude tablet filmomhuld 1mg |   |
 | Productgroep |   | Maximumprijs |
-| EPLERENON-25-MG-TABLET | EPLERENON-25-MG-TABLET | 2.04923300 per stuk |
+| EPLERENON-25-MG-TABLET | EPLERENON-25-MG-TABLET | 2.09860000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 103879/29963 | Inspra tablet 25mg |   |
 | 104382/29963 | Inspra tablet 25mg |   |
 | 29963 | Inspra tablet 25mg |   |
 | 33488/29963 | Inspra tablet 25mg |   |
 | Productgroep |   | Maximumprijs |
-| EPLERENON-50-MG-TABLET | EPLERENON-50-MG-TABLET | 2.04601900 per stuk |
+| EPLERENON-50-MG-TABLET | EPLERENON-50-MG-TABLET | 2.09860000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 103876/29964 | Inspra tablet 50mg |   |
 | 104383/29964 | Inspra tablet 50mg |   |
 | 29964 | Inspra tablet 50mg |   |
 | 33489/29964 | Inspra tablet 50mg |   |
 | Productgroep |   | Maximumprijs |
-| EPROSARTAN-600-MG-TABLET | EPROSARTAN-600-MG-TABLET | 0.60312400 per stuk |
+| EPOETIN ZETA-10000-IE/ML-INJ.VLOEISTOF, WWSP | EPOETIN ZETA-10000-IE/ML-INJ.VLOEISTOF, WWSP | 71.71219800 per ml |
+| Registratienummer | Artikelnaam |   |
+| EU/1/07/431/008 | Retacrit 4000 injvlst 10000ie/ml wwsp 0,4ml |   |
+| EU/1/07/431/010 | Retacrit 5000 injvlst 10000ie/ml wwsp 0,5ml |   |
+| EU/1/07/431/012 | Retacrit 6000 injvlst 10000ie/ml wwsp 0,6ml |   |
+| EU/1/07/431/014 | Retacrit 8000 injvlst 10000ie/ml wwsp 0,8ml |   |
+| EU/1/07/431/016 | Retacrit 10000 injvlst 10000ie/ml wwsp 1ml |   |
+| Productgroep |   | Maximumprijs |
+| EPOETIN ZETA-3333-IE/ML-INJ.VLOEISTOF, WWSP | EPOETIN ZETA-3333-IE/ML-INJ.VLOEISTOF, WWSP | 24.08653000 per ml |
+| Registratienummer | Artikelnaam |   |
+| EU/1/07/431/002 | Retacrit 1000 injvlst 3333ie/ml wwsp 0,3ml |   |
+| EU/1/07/431/004 | Retacrit 2000 injvlst 3333ie/ml wwsp 0,6ml |   |
+| EU/1/07/431/006 | Retacrit 3000 injvlst 3333ie/ml wwsp 0,9ml |   |
+| Productgroep |   | Maximumprijs |
+| EPOETIN ZETA-40000-IE/ML-INJ.VLOEISTOF, WWSP | EPOETIN ZETA-40000-IE/ML-INJ.VLOEISTOF, WWSP | 298.89652700 per ml |
+| Registratienummer | Artikelnaam |   |
+| EU/1/07/431/017 | Retacrit 20000 injvlst 40000ie/ml wwsp 0,5ml |   |
+| EU/1/07/431/018 | Retacrit 30000 injvlst 40000ie/ml wwsp 0,75ml |   |
+| EU/1/07/431/019 | Retacrit 40000 injvlst 40000ie/ml wwsp 1ml |   |
+| Productgroep |   | Maximumprijs |
+| EPOETINE ALFA-10000-IE/ML-INJ.VLOEISTOF, WWSP | EPOETINE ALFA-10000-IE/ML-INJ.VLOEISTOF, WWSP | 74.69178400 per ml |
+| Registratienummer | Artikelnaam |   |
+| 18481 | Eprex 3000 injvlst 10000ie/ml wwsp 0,3ml |   |
+| 18482 | Eprex 4000 injvlst 10000ie/ml wwsp 0,4ml |   |
+| 18483 | Eprex 10000 injvlst 10000ie/ml wwsp 1,0ml |   |
+| 25881 | Eprex 5000 injvlst 10000ie/ml wwsp 0,5ml |   |
+| 25882 | Eprex 6000 injvlst 10000ie/ml wwsp 0,6ml |   |
+| 25883 | Eprex 7000 injvlst 10000ie/ml wwsp 0,7ml |   |
+| 25884 | Eprex 8000 injvlst 10000ie/ml wwsp 0,8ml |   |
+| 25885 | Eprex 9000 injvlst 10000ie/ml wwsp 0,9ml |   |
+| EU/1/07/410/006 | Binocrit 3000 injvlst 10000ie/ml wwsp 0,3ml |   |
+| EU/1/07/410/008 | Binocrit 4000 injvlst 10000ie/ml wwsp 0,4ml |   |
+| EU/1/07/410/010 | Binocrit 5000 injvlst 10000ie/ml wwsp 0,5ml |   |
+| EU/1/07/410/012 | Binocrit 6000 injvlst 10000ie/ml wwsp 0,6ml |   |
+| EU/1/07/410/014 | Binocrit 8000 injvlst 10000ie/ml wwsp 0,8ml |   |
+| EU/1/07/410/016 | Binocrit 10000 injvlst 10000ie/ml wwsp 1ml |   |
+| EU/1/07/412/006 | Abseamed 3000 injvlst 10000ie/ml wwsp 0,3ml |   |
+| EU/1/07/412/008 | Abseamed 4000 injvlst 10000ie/ml wwsp 0,4ml |   |
+| EU/1/07/412/010 | Abseamed 5000 injvlst 10000ie/ml wwsp 0,5ml |   |
+| EU/1/07/412/012 | Abseamed 6000 injvlst 10000ie/ml wwsp 0,6ml |   |
+| EU/1/07/412/014 | Abseamed 8000 injvlst 10000ie/ml wwsp 0,8ml |   |
+| EU/1/07/412/016 | Abseamed 10000 injvlst 10000ie/ml wwsp 1ml |   |
+| Productgroep |   | Maximumprijs |
+| EPOETINE ALFA-2000-IE/ML-INJ.VLOEISTOF, WWSP | EPOETINE ALFA-2000-IE/ML-INJ.VLOEISTOF, WWSP | 15.40380100 per ml |
+| Registratienummer | Artikelnaam |   |
+| 18479 | Eprex 1000 injvlst 2000ie/ml wwsp 0,5ml |   |
+| EU/1/07/410/002 | Binocrit 1000 injvlst 2000ie/ml wwsp 0,5ml |   |
+| EU/1/07/410/004 | Binocrit 2000 injvlst 2000ie/ml wwsp 1ml |   |
+| EU/1/07/412/002 | Abseamed 1000 injvlst 2000ie/ml wwsp 0,5ml |   |
+| EU/1/07/412/004 | Abseamed 2000 injvlst 2000ie/ml wwsp 1ml |   |
+| Productgroep |   | Maximumprijs |
+| EPOETINE ALFA-4000-IE/ML-INJ.VLOEISTOF, WWSP | EPOETINE ALFA-4000-IE/ML-INJ.VLOEISTOF, WWSP | 34.50193900 per ml |
+| Registratienummer | Artikelnaam |   |
+| 18480 | Eprex 2000 injvlst 4000ie/ml wwsp 0,5ml |   |
+| Productgroep |   | Maximumprijs |
+| EPOETINE ALFA-40000-IE/ML-INJ.VLOEISTOF, WWSP | EPOETINE ALFA-40000-IE/ML-INJ.VLOEISTOF, WWSP | 338.66478900 per ml |
+| Registratienummer | Artikelnaam |   |
+| 105343/33268 | Eprex 40000 injvlst 40000ie/ml wwsp 1ml |   |
+| 33268 | Eprex 40000 injvlst 40000ie/ml wwsp 1ml |   |
+| 33780 | Eprex 20000 injvlst 40000ie/ml wwsp 0,5ml |   |
+| 35142 | Eprex 30000 injvlst 40000ie/ml wwsp 0,75ml |   |
+| EU/1/07/410/025 | Binocrit 40000 injvlst 40000ie/ml wwsp 1ml |   |
+| Productgroep |   | Maximumprijs |
+| EPOETINE BETA-10000-IE/ML-INJ.VLOEISTOF, WWSP | EPOETINE BETA-10000-IE/ML-INJ.VLOEISTOF, WWSP | 91.95530500 per ml |
+| Registratienummer | Artikelnaam |   |
+| EU/1/97/031/032 | Neorecormon 3000 injvlst 10000ie/ml wwsp 0,3ml |   |
+| Productgroep |   | Maximumprijs |
+| EPOETINE BETA-13333-IE/ML-INJ.VLOEISTOF, WWSP | EPOETINE BETA-13333-IE/ML-INJ.VLOEISTOF, WWSP | 122.92103500 per ml |
+| Registratienummer | Artikelnaam |   |
+| EU/1/97/031/041 | Neorecormon 4000 injvlst 13333ie/ml wwsp 0,3ml |   |
+| EU/1/97/031/042 | Neorecormon 4000 injvlst 13333ie/ml wwsp 0,3ml |   |
+
+| Productgroep |   | Maximumprijs |
+| --- | --- | --- |
+| EPOETINE BETA-16667-IE/ML-INJ.VLOEISTOF, WWSP | EPOETINE BETA-16667-IE/ML-INJ.VLOEISTOF, WWSP | 153.04094500 per ml |
+| Registratienummer | Artikelnaam |   |
+| EU/1/97/031/034 | Neorecormon 5000 injvlst 16667ie/ml wwsp 0,3ml |   |
+| EU/1/97/031/035 | Neorecormon 10000 injvlst 16667ie/ml wwsp 0,6ml |   |
+| EU/1/97/031/036 | Neorecormon 10000 injvlst 16667ie/ml wwsp 0,6ml |   |
+| Productgroep |   | Maximumprijs |
+| EPOETINE BETA-20000-IE/ML-INJ.VLOEISTOF, WWSP | EPOETINE BETA-20000-IE/ML-INJ.VLOEISTOF, WWSP | 185.16740100 per ml |
+| Registratienummer | Artikelnaam |   |
+| EU/1/97/031/043 | Neorecormon 6000 injvlst 20000ie/ml wwsp 0,3ml |   |
+| EU/1/97/031/044 | Neorecormon 6000 injvlst 20000ie/ml wwsp 0,3ml |   |
+| Productgroep |   | Maximumprijs |
+| EPOETINE BETA-3333-IE/ML-INJ.VLOEISTOF, WWSP | EPOETINE BETA-3333-IE/ML-INJ.VLOEISTOF, WWSP | 30.59350800 per ml |
+| Registratienummer | Artikelnaam |   |
+| EU/1/97/031/028 | Neorecormon 1000 injvlst 3333ie/ml wwsp 0,3ml |   |
+| Productgroep |   | Maximumprijs |
+| EPOETINE BETA-33333-IE/ML-INJ.VLOEISTOF, WWSP | EPOETINE BETA-33333-IE/ML-INJ.VLOEISTOF, WWSP | 309.15269700 per ml |
+| Registratienummer | Artikelnaam |   |
+| EU/1/97/031/037 | Neorecormon 20000 injvlst 33333ie/ml wwsp 0,6ml |   |
+| Productgroep |   | Maximumprijs |
+| EPOETINE BETA-50000-IE/ML-INJ.VLOEISTOF, WWSP | EPOETINE BETA-50000-IE/ML-INJ.VLOEISTOF, WWSP | 465.75358300 per ml |
+| Registratienummer | Artikelnaam |   |
+| EU/1/97/031/045 | Neorecormon 30000 injvlst 50000ie/ml wwsp 0,6ml |   |
+| EU/1/97/031/046 | Neorecormon 30000 injvlst 50000ie/ml wwsp 0,6ml |   |
+| Productgroep |   | Maximumprijs |
+| EPOETINE BETA-6667-IE/ML-INJ.VLOEISTOF, WWSP | EPOETINE BETA-6667-IE/ML-INJ.VLOEISTOF, WWSP | 61.65585600 per ml |
+| Registratienummer | Artikelnaam |   |
+| EU/1/97/031/029 | Neorecormon 2000 injvlst 6667ie/ml wwsp 0,3ml |   |
+| EU/1/97/031/030 | Neorecormon 2000 injvlst 6667ie/ml wwsp 0,3ml |   |
+| Productgroep |   | Maximumprijs |
+| EPROSARTAN-600-MG-TABLET | EPROSARTAN-600-MG-TABLET | 0.61017800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 23983 | Teveten tablet omhuld 600mg |   |
 | 30889/23983 | Teveten tablet omhuld 600mg |   |
@@ -2780,19 +2966,19 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 31912/23983 | Teveten tablet omhuld 600mg |   |
 | 32569/23983 | Teveten tablet omhuld 600mg |   |
 | Productgroep |   | Maximumprijs |
-| ERGOTAMINE-2-MG-ZETPIL-CAFFEINE-100-MG-ZETPIL | ERGOTAMINE-2-MG-ZETPIL-CAFFEINE-100-MG-ZETPIL | 0.38059400 per stuk |
+| ERGOTAMINE-2-MG-ZETPIL-CAFFEINE-100-MG-ZETPIL | ERGOTAMINE-2-MG-ZETPIL-CAFFEINE-100-MG-ZETPIL | 0.37124200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 32015/566 | Cafergot zetpil 2mg |   |
 | Productgroep |   | Maximumprijs |
-| ERLOTINIB-100-MG-TABLET | ERLOTINIB-100-MG-TABLET | 57.47433300 per stuk |
+| ERLOTINIB-100-MG-TABLET | ERLOTINIB-100-MG-TABLET | 59.46237700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/05/311/002 | Tarceva tablet filmomhuld 100mg |   |
 | Productgroep |   | Maximumprijs |
-| ERLOTINIB-150-MG-TABLET | ERLOTINIB-150-MG-TABLET | 71.43658200 per stuk |
+| ERLOTINIB-150-MG-TABLET | ERLOTINIB-150-MG-TABLET | 73.24141600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/05/311/003 | Tarceva tablet filmomhuld 150mg |   |
 | Productgroep |   | Maximumprijs |
-| ERLOTINIB-25-MG-TABLET | ERLOTINIB-25-MG-TABLET | 16.35136000 per stuk |
+| ERLOTINIB-25-MG-TABLET | ERLOTINIB-25-MG-TABLET | 17.13896600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/05/311/001 | Tarceva tablet filmomhuld 25mg |   |
 | Productgroep |   | Maximumprijs |
@@ -2800,33 +2986,32 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | Registratienummer | Artikelnaam |   |
 | 14095 | Inderm applicatievloeistof 1% |   |
 | Productgroep |   | Maximumprijs |
-| ERYTHROMYCIN-1000-MG-POEDER/GRANULAAT, ORAAL | ERYTHROMYCIN-1000-MG-POEDER/GRANULAAT, ORAAL | 0.65206000 per stuk |
+| ERYTHROMYCIN-1000-MG-POEDER/GRANULAAT, ORAAL | ERYTHROMYCIN-1000-MG-POEDER/GRANULAAT, ORAAL | 0.64634900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 57673 | Erytromycine sandoz granulaat 1000mg in sachet |   |
 | 8335 | Erythrocine-es granulaat 1000mg in sachet |   |
 | Productgroep |   | Maximumprijs |
-| ERYTHROMYCIN-20-MG/ML-APPLICATIEVLOEISTOF, VOOR CUTAAN GEBRUIK | ERYTHROMYCIN-20-MG/ML-APPLICATIEVLOEISTOF, VOOR CUTAAN GEBRUIK | 0.13986100 per ml |
+| ERYTHROMYCIN-20-MG/ML-APPLICATIEVLOEISTOF, VOOR CUTAAN GEBRUIK | ERYTHROMYCIN-20-MG/ML-APPLICATIEVLOEISTOF, VOOR CUTAAN GEBRUIK | 0.14326600 per ml |
 | Registratienummer | Artikelnaam |   |
 | 11643 | Stiemycin applicatievloeistof 20mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| ERYTHROMYCIN-40-MG/ML-APPLICATIEVLOEISTOF, VOOR CUTAAN GEBRUIK-ZINC ACETATE-12-M | ERYTHROMYCIN-40-MG/ML-APPLICATIEVLOEISTOF, VOOR CUTAAN GEBRUIK-ZINC ACETATE-12-M | 0.33360100 per ml |
+| ERYTHROMYCIN-40-MG/ML-APPLICATIEVLOEISTOF, VOOR CUTAAN GEBRUIK-ZINC ACETATE-12-M | ERYTHROMYCIN-40-MG/ML-APPLICATIEVLOEISTOF, VOOR CUTAAN GEBRUIK-ZINC ACETATE-12-M | 0.35003600 per ml |
 | Registratienummer | Artikelnaam |   |
 | 9897 | Zineryt poeder + solvens v applicatievlst 40mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| ERYTHROMYCIN-50-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | ERYTHROMYCIN-50-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.04141700 per ml |
+| ERYTHROMYCIN-50-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | ERYTHROMYCIN-50-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.04247400 per ml |
 | Registratienummer | Artikelnaam |   |
 | 10247 | Erythrocine-es kersen gran v susp 250mg/5ml |   |
 | Productgroep |   | Maximumprijs |
-| ERYTHROMYCIN-500-MG-POEDER/GRANULAAT, ORAAL | ERYTHROMYCIN-500-MG-POEDER/GRANULAAT, ORAAL | 0.28815000 per stuk |
+| ERYTHROMYCIN-500-MG-POEDER/GRANULAAT, ORAAL | ERYTHROMYCIN-500-MG-POEDER/GRANULAAT, ORAAL | 0.28530200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 57672 | Erytromycine sandoz granulaat 500mg in sachet |   |
 | Productgroep |   | Maximumprijs |
-| ERYTHROMYCIN-500-MG-TABLET | ERYTHROMYCIN-500-MG-TABLET | 0.32172200 per stuk |
+| ERYTHROMYCIN-500-MG-TABLET | ERYTHROMYCIN-500-MG-TABLET | 0.32689100 per stuk |
 | Registratienummer | Artikelnaam |   |
-| 9314 | Erythrocine-es tablet 500mg |   |
 | 9314 | Erythrocine-es tablet 500mg suikervrij |   |
 | Productgroep |   | Maximumprijs |
-| ESCITALOPRAM-10-MG-TABLET | ESCITALOPRAM-10-MG-TABLET | 0.70264300 per stuk |
+| ESCITALOPRAM-10-MG-TABLET | ESCITALOPRAM-10-MG-TABLET | 0.72613700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100568/30495 | Escitalopram tablet filmomhuld 10mg |   |
 | 101742/30495 | Escitalopram top pharma tablet filmomhuld 10mg |   |
@@ -2837,7 +3022,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 34577/30495 | Escitalopram tablet filmomhuld 10mg |   |
 | 34602/30495 | Escitalopram tablet filmomhuld 10mg |   |
 | Productgroep |   | Maximumprijs |
-| ESCITALOPRAM-20-MG-TABLET | ESCITALOPRAM-20-MG-TABLET | 1.15601300 per stuk |
+| ESCITALOPRAM-20-MG-TABLET | ESCITALOPRAM-20-MG-TABLET | 1.20727600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100569/30497 | Escitalopram tablet filmomhuld 20mg |   |
 | 101740/30497 | Escitalopram top pharma tablet filmomhuld 20mg |   |
@@ -2845,7 +3030,11 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 30497 | Lexapro tablet filmomhuld 20mg |   |
 | 34578/30497 | Escitalopram tablet filmomhuld 20mg |   |
 | Productgroep |   | Maximumprijs |
-| ESOMEPRAZOL-20-MG-TABLET, MAAGSAPRESISTENT | ESOMEPRAZOL-20-MG-TABLET, MAAGSAPRESISTENT | 0.74872000 per stuk |
+| ESCITALOPRAM-20-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | ESCITALOPRAM-20-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 1.62661000 per ml |
+| Registratienummer | Artikelnaam |   |
+| 35339 | Lexapro druppels 20mg/ml |   |
+| Productgroep |   | Maximumprijs |
+| ESOMEPRAZOL-20-MG-TABLET, MAAGSAPRESISTENT | ESOMEPRAZOL-20-MG-TABLET, MAAGSAPRESISTENT | 0.73810100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100012/25387 | Nexium tablet msr 20mg |   |
 | 100490/25387 | Nexium tablet msr 20mg |   |
@@ -2861,9 +3050,8 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 34327/25387 | Nexium tablet msr 20mg |   |
 | 34334/25387 | Nexium tablet msr 20mg |   |
 | 34394/25387 | Nexium tablet msr 20mg |   |
-| 34833/25387 | Nexium tablet msr 20mg |   |
 | Productgroep |   | Maximumprijs |
-| ESOMEPRAZOL-40-MG-TABLET, MAAGSAPRESISTENT | ESOMEPRAZOL-40-MG-TABLET, MAAGSAPRESISTENT | 1.04739400 per stuk |
+| ESOMEPRAZOL-40-MG-TABLET, MAAGSAPRESISTENT | ESOMEPRAZOL-40-MG-TABLET, MAAGSAPRESISTENT | 1.03243600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100488/25388 | Nexium tablet msr 40mg |   |
 | 101378/25388 | Nexium tablet msr 40mg |   |
@@ -2874,7 +3062,6 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 29762/25388 | Esopral tablet msr 40mg |   |
 | 29936/25388 | Nexium tablet msr 40mg |   |
 | 30454/25388 | Nexium tablet msr 40mg |   |
-| 30582/25388 | Esomeprazol tablet msr 40mg |   |
 | 32283/25388 | Nexium tablet msr 40mg |   |
 | 32287/25388 | Nexium tablet msr 40mg |   |
 | 33295/25388 | Nexium tablet msr 40mg |   |
@@ -2883,118 +3070,104 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 34395/25388 | Nexium tablet msr 40mg |   |
 | 34431/25388 | Nexium tablet msr 40mg |   |
 | 34501/25388 | Nexium tablet msr 40mg |   |
-| 34834/25388 | Nexium tablet msr 40mg |   |
 | 35146/25388 | Nexium tablet msr 40mg |   |
 | Productgroep |   | Maximumprijs |
 | ESTRADIOL-.15-MG-NEUSSPRAY | ESTRADIOL-.15-MG-NEUSSPRAY | 0.18806300 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 25706 | Aerodiol neusspray 150mcg/do flacon 60do |   |
 | Productgroep |   | Maximumprijs |
-| ESTRADIOL-1-MG-TABLET | ESTRADIOL-1-MG-TABLET | 0.11412100 per stuk |
+| ESTRADIOL-1-MG-TABLET | ESTRADIOL-1-MG-TABLET | 0.11756000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 5861 | Progynova dragee 1mg |   |
 | Productgroep |   | Maximumprijs |
-| ESTRADIOL-1-MG-TABLET-DROSPIRENON-2-MG-TABLET | ESTRADIOL-1-MG-TABLET-DROSPIRENON-2-MG-TABLET | 0.46972700 per stuk |
+| ESTRADIOL-1-MG-TABLET-DROSPIRENON-2-MG-TABLET | ESTRADIOL-1-MG-TABLET-DROSPIRENON-2-MG-TABLET | 0.47322600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 103529/27505 | Angeliq tablet filmomhuld |   |
 | 27505 | Angeliq tablet filmomhuld |   |
 | 34997/27505 | Angeliq tablet filmomhuld |   |
 | Productgroep |   | Maximumprijs |
-| ESTRADIOL-1-MG-TABLET-NORETHISTERONE-.5-MG-TABLET | ESTRADIOL-1-MG-TABLET-NORETHISTERONE-.5-MG-TABLET | 0.24181100 per stuk |
+| ESTRADIOL-1-MG-TABLET-NORETHISTERONE-.5-MG-TABLET | ESTRADIOL-1-MG-TABLET-NORETHISTERONE-.5-MG-TABLET | 0.25190200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 103105/22819 | Activelle tablet omhuld |   |
 | 22819 | Activelle tablet omhuld |   |
 | 29483/22819 | Activelle tablet omhuld |   |
 | Productgroep |   | Maximumprijs |
-| ESTRADIOL-2-MG-TABLET | ESTRADIOL-2-MG-TABLET | 0.13781500 per stuk |
+| ESTRADIOL-2-MG-TABLET | ESTRADIOL-2-MG-TABLET | 0.13809200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15462 | Zumenon tablet 2mg |   |
 | 5311 | Progynova dragee 2mg |   |
 | 9810 | Estrofem tablet 2mg |   |
 | Productgroep |   | Maximumprijs |
-| ESTRADIOL-2-MG-TABLET-DYDROGESTERONE-10-MG-TABLET-ESTRADIOL-FASE2-2-MG-TABLET | ESTRADIOL-2-MG-TABLET-DYDROGESTERONE-10-MG-TABLET-ESTRADIOL-FASE2-2-MG-TABLET | 0.26750600 per stuk |
+| ESTRADIOL-2-MG-TABLET-DYDROGESTERONE-10-MG-TABLET-ESTRADIOL-FASE2-2-MG-TABLET | ESTRADIOL-2-MG-TABLET-DYDROGESTERONE-10-MG-TABLET-ESTRADIOL-FASE2-2-MG-TABLET | 0.26964700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 17490 | Femoston tablet 2/10mg |   |
 | Productgroep |   | Maximumprijs |
-| ESTRADIOL-2-MG-TABLET-NORETHISTERONE-1-MG-TABLET | ESTRADIOL-2-MG-TABLET-NORETHISTERONE-1-MG-TABLET | 0.24973300 per stuk |
+| ESTRADIOL-2-MG-TABLET-NORETHISTERONE-1-MG-TABLET | ESTRADIOL-2-MG-TABLET-NORETHISTERONE-1-MG-TABLET | 0.25884900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 14942 | Kliogest tablet |   |
 | 24632/14942 | Kliogest tablet |   |
 | 26408/14942 | Kliogest tablet |   |
 | Productgroep |   | Maximumprijs |
-| ESTRADIOL-2-MG-TABLET-NORETHISTERONE-1-MG-TABLET-ESTRADIOL-FASE2-2-MG-TABLET-EST | ESTRADIOL-2-MG-TABLET-NORETHISTERONE-1-MG-TABLET-ESTRADIOL-FASE2-2-MG-TABLET-EST | 0.18946300 per stuk |
+| ESTRADIOL-2-MG-TABLET-NORETHISTERONE-1-MG-TABLET-ESTRADIOL-FASE2-2-MG-TABLET-EST | ESTRADIOL-2-MG-TABLET-NORETHISTERONE-1-MG-TABLET-ESTRADIOL-FASE2-2-MG-TABLET-EST | 0.19980300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 27860/9812 | Trisequens tablet |   |
 | 9812 | Trisequens tablet |   |
 | Productgroep |   | Maximumprijs |
-| ESTRADIOL-2-MG-TABLET-NORGESTREL-.5-MG-TABLET-ESTRADIOL-FASE2-2-MG-TABLET | ESTRADIOL-2-MG-TABLET-NORGESTREL-.5-MG-TABLET-ESTRADIOL-FASE2-2-MG-TABLET | 0.14685600 per stuk |
-| Registratienummer | Artikelnaam |   |
-| 8203 | Cyclocur dragee |   |
-| Productgroep |   | Maximumprijs |
-| ESTRADIOL-3.9-MG-PLEISTER, DERMAAL | ESTRADIOL-3.9-MG-PLEISTER, DERMAAL | 1.45878000 per stuk |
+| ESTRADIOL-3.9-MG-PLEISTER, DERMAAL | ESTRADIOL-3.9-MG-PLEISTER, DERMAAL | 1.49533300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 17452 | Climara pleister mga 3,9mg |   |
 | Productgroep |   | Maximumprijs |
-| ESTRADIOL-4-MG-PLEISTER, DERMAAL-NORETHISTERONE-30-MG-PLEISTER, DERMAAL-ESTRADIO | ESTRADIOL-4-MG-PLEISTER, DERMAAL-NORETHISTERONE-30-MG-PLEISTER, DERMAAL-ESTRADIO | 1.86149000 per stuk |
-| Registratienummer | Artikelnaam |   |
-| 15415 | Estracomb tts pleister transdermaal combinatieverp |   |
-| Productgroep |   | Maximumprijs |
-| ESTRADIOL-6-MG-PLEISTER, DERMAAL | ESTRADIOL-6-MG-PLEISTER, DERMAAL | 0.65625000 per stuk |
-| Registratienummer | Artikelnaam |   |
-| 21808 | Estradiol sandoz 75 pleister transdermaal 6mg |   |
-| Productgroep |   | Maximumprijs |
-| ESTRADIOL-8-MG-PLEISTER, DERMAAL | ESTRADIOL-8-MG-PLEISTER, DERMAAL | 0.84324500 per stuk |
+| ESTRADIOL-8-MG-PLEISTER, DERMAAL | ESTRADIOL-8-MG-PLEISTER, DERMAAL | 0.85802800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 19582 | Estradiol sandoz 100 pleister transdermaal 8mg |   |
 | 21841=19582 | Estradiol a 100 pleister transdermaal 8mg |   |
 | 21851=19582 | Estradiol rp 100 pleister transdermaal 8mg |   |
 | 23188=19582 | Estradiol pch 100 pleister transdermaal 8mg |   |
-| 26729 | Estradiol sdz 100 once weekly pleist transder 8mg |   |
 | Productgroep |   | Maximumprijs |
-| ESTRAMUSTINE-140-MG-CAPSULE | ESTRAMUSTINE-140-MG-CAPSULE | 1.76679300 per stuk |
+| ESTRAMUSTINE-140-MG-CAPSULE | ESTRAMUSTINE-140-MG-CAPSULE | 1.71275600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 17025/7375 | Estracyt capsule 140mg |   |
 | 25963/7375 | Estracyt capsule 140mg |   |
 | 7375 | Estracyt capsule 140mg |   |
 | Productgroep |   | Maximumprijs |
-| ESTRIOL-1-MG-TABLET | ESTRIOL-1-MG-TABLET | 0.12463000 per stuk |
+| ESTRIOL-1-MG-TABLET | ESTRIOL-1-MG-TABLET | 0.12754600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 30418/9969 | Estriol tablet 1mg |   |
 | 32717/9969 | Synapause e3 tablet 1mg |   |
 | 9969 | Synapause e3 tablet 1mg |   |
 | Productgroep |   | Maximumprijs |
-| ESTRIOL-2-MG-TABLET | ESTRIOL-2-MG-TABLET | 0.14454600 per stuk |
+| ESTRIOL-2-MG-TABLET | ESTRIOL-2-MG-TABLET | 0.13000800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 9970 | Synapause e3 tablet 2mg |   |
 | Productgroep |   | Maximumprijs |
-| ETHAMBUTOL-400-MG-TABLET | ETHAMBUTOL-400-MG-TABLET | 0.36860500 per stuk |
+| ETHAMBUTOL-400-MG-TABLET | ETHAMBUTOL-400-MG-TABLET | 0.37943000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 6445 | Myambutol tablet 400mg |   |
 | Productgroep |   | Maximumprijs |
-| ETHINYLESTRADIOL-.02-MG-TABLET-LEVONORGESTREL-.1-MG-TABLET | ETHINYLESTRADIOL-.02-MG-TABLET-LEVONORGESTREL-.1-MG-TABLET | 0.19323800 per stuk |
+| ETHINYLESTRADIOL-.02-MG-TABLET-LEVONORGESTREL-.1-MG-TABLET | ETHINYLESTRADIOL-.02-MG-TABLET-LEVONORGESTREL-.1-MG-TABLET | 0.19412100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 21187 | Lovette tablet omhuld |   |
 | Productgroep |   | Maximumprijs |
-| ETHINYLESTRADIOL-.03-MG-TABLET-DESOGESTREL-.15-MG-TABLET | ETHINYLESTRADIOL-.03-MG-TABLET-DESOGESTREL-.15-MG-TABLET | 0.17596400 per stuk |
+| ETHINYLESTRADIOL-.03-MG-TABLET-DESOGESTREL-.15-MG-TABLET | ETHINYLESTRADIOL-.03-MG-TABLET-DESOGESTREL-.15-MG-TABLET | 0.16252000 per stuk |
 | Registratienummer | Artikelnaam |   |
+| 100508 | Ethinylestradiol/desogestr rich tb omh 0,03/0,15mg |   |
 | 22812/8859 | Marvelon tablet |   |
 | 24630/8859 | Marvelon tablet |   |
 | 24874/8859 | Marvelon tablet |   |
-| 24891/8859 | Marvelon tablet |   |
 | 25979/8859 | Marvelon tablet |   |
 | 26445/8859 | Marvelon tablet |   |
 | 29722/8859 | Marvelon tablet |   |
 | 30192/8859 | Marvelon tablet |   |
 | 8859 | Marvelon tablet |   |
 | Productgroep |   | Maximumprijs |
-| ETHINYLESTRADIOL-.03-MG-TABLET-LEVONORGESTREL-.05-MG-TABLET-LEVONORGESTREL-FASE2 | ETHINYLESTRADIOL-.03-MG-TABLET-LEVONORGESTREL-.05-MG-TABLET-LEVONORGESTREL-FASE2 | 0.11418500 per stuk |
+| ETHINYLESTRADIOL-.03-MG-TABLET-LEVONORGESTREL-.05-MG-TABLET-LEVONORGESTREL-FASE2 | ETHINYLESTRADIOL-.03-MG-TABLET-LEVONORGESTREL-.05-MG-TABLET-LEVONORGESTREL-FASE2 | 0.11283800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100339/8514 | Trinordiol dragee |   |
 | 28198/8514 | Trinordiol dragee |   |
 | 8514 | Trinordiol dragee |   |
 | 8663 | Trigynon dragee |   |
 | Productgroep |   | Maximumprijs |
-| ETHINYLESTRADIOL-.03-MG-TABLET-LEVONORGESTREL-.15-MG-TABLET | ETHINYLESTRADIOL-.03-MG-TABLET-LEVONORGESTREL-.15-MG-TABLET | 0.08101300 per stuk |
+| ETHINYLESTRADIOL-.03-MG-TABLET-LEVONORGESTREL-.15-MG-TABLET | ETHINYLESTRADIOL-.03-MG-TABLET-LEVONORGESTREL-.15-MG-TABLET | 0.08155600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 104108/8204 | Microgynon 30 dragee |   |
 | 15751/8204 | Microgynon 30 dragee |   |
@@ -3005,32 +3178,32 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 8191 | Stediril 30 dragee |   |
 | 8204 | Microgynon 30 dragee |   |
 | Productgroep |   | Maximumprijs |
-| ETHINYLESTRADIOL-.035-MG-TABLET-NORETHISTERONE-.5-MG-TABLET-ETHINYLESTRADIOL-FAS | ETHINYLESTRADIOL-.035-MG-TABLET-NORETHISTERONE-.5-MG-TABLET-ETHINYLESTRADIOL-FAS | 0.10204400 per stuk |
+| ETHINYLESTRADIOL-.035-MG-TABLET-NORETHISTERONE-.5-MG-TABLET-ETHINYLESTRADIOL-FAS | ETHINYLESTRADIOL-.035-MG-TABLET-NORETHISTERONE-.5-MG-TABLET-ETHINYLESTRADIOL-FAS | 0.09656100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10111 | Trinovum tablet |   |
 | 13591/10111 | Trinovum tablet |   |
 | 26042/10111 | Trinovum tablet |   |
 | Productgroep |   | Maximumprijs |
-| ETHINYLESTRADIOL-.035-MG-TABLET-NORETHISTERONE-1-MG-TABLET | ETHINYLESTRADIOL-.035-MG-TABLET-NORETHISTERONE-1-MG-TABLET | 0.10102600 per stuk |
+| ETHINYLESTRADIOL-.035-MG-TABLET-NORETHISTERONE-1-MG-TABLET | ETHINYLESTRADIOL-.035-MG-TABLET-NORETHISTERONE-1-MG-TABLET | 0.09694200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 7284 | Neocon tablet |   |
 | Productgroep |   | Maximumprijs |
-| ETHINYLESTRADIOL-.035-MG-TABLET-NORGESTIMATE-.25-MG-TABLET | ETHINYLESTRADIOL-.035-MG-TABLET-NORGESTIMATE-.25-MG-TABLET | 0.16380200 per stuk |
+| ETHINYLESTRADIOL-.035-MG-TABLET-NORGESTIMATE-.25-MG-TABLET | ETHINYLESTRADIOL-.035-MG-TABLET-NORGESTIMATE-.25-MG-TABLET | 0.15960500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100493/12846 | Cilest tablet |   |
 | 103531/12846 | Cilest tablet |   |
 | 12846 | Cilest tablet |   |
 | 29132/12846 | Cilest tablet |   |
 | Productgroep |   | Maximumprijs |
-| ETHINYLESTRADIOL-.6-MG-PLEISTER, DERMAAL-NORELGESTROMIN-6-MG-PLEISTER, DERMAAL | ETHINYLESTRADIOL-.6-MG-PLEISTER, DERMAAL-NORELGESTROMIN-6-MG-PLEISTER, DERMAAL | 2.57344100 per stuk |
+| ETHINYLESTRADIOL-.6-MG-PLEISTER, DERMAAL-NORELGESTROMIN-6-MG-PLEISTER, DERMAAL | ETHINYLESTRADIOL-.6-MG-PLEISTER, DERMAAL-NORELGESTROMIN-6-MG-PLEISTER, DERMAAL | 2.67129200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/02/223/001 | Evra pleister transdermaal |   |
 | Productgroep |   | Maximumprijs |
-| ETOPOSIDE-100-MG-CAPSULE | ETOPOSIDE-100-MG-CAPSULE | 19.82782600 per stuk |
+| ETOPOSIDE-100-MG-CAPSULE | ETOPOSIDE-100-MG-CAPSULE | 17.73101000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 8543 | Vepesid capsule 100mg |   |
 | Productgroep |   | Maximumprijs |
-| ETORICOXIB-120-MG-TABLET | ETORICOXIB-120-MG-TABLET | 1.11805500 per stuk |
+| ETORICOXIB-120-MG-TABLET | ETORICOXIB-120-MG-TABLET | 1.08600800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 101645/27707 | Arcoxia tablet filmomhuld 120mg |   |
 | 102285/27707 | Arcoxia tablet filmomhuld 120mg |   |
@@ -3040,7 +3213,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 27707 | Arcoxia tablet filmomhuld 120mg |   |
 | 33832/27707 | Etoricoxib erc tablet filmomhuld 120mg |   |
 | Productgroep |   | Maximumprijs |
-| ETORICOXIB-60-MG-TABLET | ETORICOXIB-60-MG-TABLET | 1.03731200 per stuk |
+| ETORICOXIB-60-MG-TABLET | ETORICOXIB-60-MG-TABLET | 1.00996500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 102286/27705 | Arcoxia tablet filmomhuld 60mg |   |
 | 102373/27705 | Arcoxia tablet filmomhuld 60mg |   |
@@ -3053,7 +3226,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 33830/27705 | Etoricoxib erc tablet filmomhuld 60mg |   |
 | 34965/27705 | Arcoxia tablet filmomhuld 60mg |   |
 | Productgroep |   | Maximumprijs |
-| ETORICOXIB-90-MG-TABLET | ETORICOXIB-90-MG-TABLET | 1.07877600 per stuk |
+| ETORICOXIB-90-MG-TABLET | ETORICOXIB-90-MG-TABLET | 1.05355100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 102287/27706 | Arcoxia tablet filmomhuld 90mg |   |
 | 102475/27706 | Arcoxia tablet filmomhuld 90mg |   |
@@ -3063,23 +3236,23 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 33831/27706 | Etoricoxib erc tablet filmomhuld 90mg |   |
 | 34966/27706 | Arcoxia tablet filmomhuld 90mg |   |
 | Productgroep |   | Maximumprijs |
-| ETRAVIRINE-100-MG-TABLET | ETRAVIRINE-100-MG-TABLET | 3.59328600 per stuk |
+| ETRAVIRINE-100-MG-TABLET | ETRAVIRINE-100-MG-TABLET | 3.65839900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/08/468/001 | Intelence tablet 100mg |   |
 | Productgroep |   | Maximumprijs |
-| EVEROLIMUS-.25-MG-BRUISTABLET | EVEROLIMUS-.25-MG-BRUISTABLET | 2.35975000 per stuk |
+| EVEROLIMUS-.25-MG-BRUISTABLET | EVEROLIMUS-.25-MG-BRUISTABLET | 2.17525000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 30046 | Certican disper tablet 0,25mg |   |
 | Productgroep |   | Maximumprijs |
-| EVEROLIMUS-.25-MG-TABLET | EVEROLIMUS-.25-MG-TABLET | 2.15050000 per stuk |
+| EVEROLIMUS-.25-MG-TABLET | EVEROLIMUS-.25-MG-TABLET | 2.25308300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 30041 | Certican tablet 0,25mg |   |
 | Productgroep |   | Maximumprijs |
-| EVEROLIMUS-.75-MG-TABLET | EVEROLIMUS-.75-MG-TABLET | 6.67121800 per stuk |
+| EVEROLIMUS-.75-MG-TABLET | EVEROLIMUS-.75-MG-TABLET | 6.66745200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 30043 | Certican tablet 0,75mg |   |
 | Productgroep |   | Maximumprijs |
-| EXEMESTAAN-25-MG-TABLET | EXEMESTAAN-25-MG-TABLET | 4.05251900 per stuk |
+| EXEMESTAAN-25-MG-TABLET | EXEMESTAAN-25-MG-TABLET | 4.19325000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 101379/24443 | Aromasin tablet omhuld 25mg |   |
 | 101861/24443 | Aromasin tablet omhuld 25mg |   |
@@ -3093,7 +3266,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 33044/24443 | Aromasin tablet omhuld 25mg |   |
 | 35073/24443 | Aromasin tablet omhuld 25mg |   |
 | Productgroep |   | Maximumprijs |
-| EZETIMIB-10-MG-TABLET | EZETIMIB-10-MG-TABLET | 1.26585700 per stuk |
+| EZETIMIB-10-MG-TABLET | EZETIMIB-10-MG-TABLET | 1.30014100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 101958/28626 | Ezetrol tablet 10mg |   |
 | 102662/28626 | Ezetrol tablet 10mg |   |
@@ -3101,10 +3274,9 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 28626 | Ezetrol tablet 10mg |   |
 | 30541/28626 | Ezetrol tablet 10mg |   |
 | 33875/28626 | Ezetrol tablet 10mg |   |
-| 34607/28626 | Ezetrol tablet 10mg |   |
 | 34876/28626 | Ezetrol tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| FAMOTIDINE-20-MG-TABLET | FAMOTIDINE-20-MG-TABLET | 0.22342800 per stuk |
+| FAMOTIDINE-20-MG-TABLET | FAMOTIDINE-20-MG-TABLET | 0.22233300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11199 | Pepcidin tablet 20mg |   |
 | 24532 | Famotidine cf tablet 20mg |   |
@@ -3116,7 +3288,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 25580 | Famotidine katwijk tablet 20mg |   |
 | 27788 | Famotidine mylan tablet 20mg |   |
 | Productgroep |   | Maximumprijs |
-| FAMOTIDINE-40-MG-TABLET | FAMOTIDINE-40-MG-TABLET | 0.42049800 per stuk |
+| FAMOTIDINE-40-MG-TABLET | FAMOTIDINE-40-MG-TABLET | 0.41285100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11200 | Pepcidin tablet 40mg |   |
 | 24533 | Famotidine cf tablet 40mg |   |
@@ -3126,29 +3298,29 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 25412 | Famotidine sandoz tablet 40mg |   |
 | 25513=24767 | Famotidine a tablet 40mg |   |
 | 25581 | Famotidine katwijk tablet 40mg |   |
-| 27789 | Famotidine merck tablet 40mg |   |
+| 27789 | Famotidine mylan tablet 40mg |   |
 | Productgroep |   | Maximumprijs |
-| FELBAMATE-120-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | FELBAMATE-120-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.45539700 per ml |
+| FELBAMATE-120-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | FELBAMATE-120-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.45033800 per ml |
 | Registratienummer | Artikelnaam |   |
 | 16889 | Taloxa suspensie 120mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| FELBAMATE-400-MG-TABLET | FELBAMATE-400-MG-TABLET | 1.51270200 per stuk |
+| FELBAMATE-400-MG-TABLET | FELBAMATE-400-MG-TABLET | 1.48798000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 16890 | Taloxa tablet 400mg |   |
 | Productgroep |   | Maximumprijs |
-| FELBAMATE-600-MG-TABLET | FELBAMATE-600-MG-TABLET | 2.26592400 per stuk |
+| FELBAMATE-600-MG-TABLET | FELBAMATE-600-MG-TABLET | 2.21876300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 16891 | Taloxa tablet 600mg |   |
 | Productgroep |   | Maximumprijs |
-| FELODIPINE-10-MG-TABLET, MET GEREGULEERDE AFGIFTE | FELODIPINE-10-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.34926400 per stuk |
+| FELODIPINE-10-MG-TABLET, MET GEREGULEERDE AFGIFTE | FELODIPINE-10-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.35455900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13694 | Plendil tablet mva 10mg |   |
 | Productgroep |   | Maximumprijs |
-| FELODIPINE-2.5-MG-TABLET, MET GEREGULEERDE AFGIFTE | FELODIPINE-2.5-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.21982000 per stuk |
+| FELODIPINE-2.5-MG-TABLET, MET GEREGULEERDE AFGIFTE | FELODIPINE-2.5-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.22847000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15580 | Plendil tablet mva 2,5mg |   |
 | Productgroep |   | Maximumprijs |
-| FELODIPINE-5-MG-TABLET, MET GEREGULEERDE AFGIFTE | FELODIPINE-5-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.22533900 per stuk |
+| FELODIPINE-5-MG-TABLET, MET GEREGULEERDE AFGIFTE | FELODIPINE-5-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.22830800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13693 | Plendil tablet mva 5mg |   |
 | 29399 | Felodipine pch retard tablet mga 5mg |   |
@@ -3156,7 +3328,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 29933 | Felodipine rp tablet mga 5mg |   |
 | 30520 | Felodipine actavis retard tablet mga 5mg |   |
 | Productgroep |   | Maximumprijs |
-| FENOTEROL-.05-MG-AEROSOL-IPRATROPIUM BROMIDE-.02-MG-AEROSOL | FENOTEROL-.05-MG-AEROSOL-IPRATROPIUM BROMIDE-.02-MG-AEROSOL | 0.05242000 per dosis |
+| FENOTEROL-.05-MG-AEROSOL-IPRATROPIUM BROMIDE-.02-MG-AEROSOL | FENOTEROL-.05-MG-AEROSOL-IPRATROPIUM BROMIDE-.02-MG-AEROSOL | 0.05226700 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 14123 | Berodual cfkvr aerosol spuitbus 200do + inhalator |   |
 | Productgroep |   | Maximumprijs |
@@ -3164,83 +3336,62 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | Registratienummer | Artikelnaam |   |
 | 15793 | Berodual inhalette inhalatiepoeder |   |
 | Productgroep |   | Maximumprijs |
-| FENTANYL-0.2-MG-TABLET, OROMUCOSAAL | FENTANYL-0.2-MG-TABLET, OROMUCOSAAL | 7.85359400 per stuk |
+| FENTANYL-0.2-MG-TABLET, OROMUCOSAAL | FENTANYL-0.2-MG-TABLET, OROMUCOSAAL | 7.60330600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 26571 | Actiq zuigpastille 200mcg |   |
 | Productgroep |   | Maximumprijs |
-| FENTANYL-0.4-MG-TABLET, OROMUCOSAAL | FENTANYL-0.4-MG-TABLET, OROMUCOSAAL | 7.85359400 per stuk |
+| FENTANYL-0.4-MG-TABLET, OROMUCOSAAL | FENTANYL-0.4-MG-TABLET, OROMUCOSAAL | 7.60330600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 26572 | Actiq zuigpastille 400mcg |   |
 | Productgroep |   | Maximumprijs |
-| FENTANYL-0.6-MG-TABLET, OROMUCOSAAL | FENTANYL-0.6-MG-TABLET, OROMUCOSAAL | 7.85359400 per stuk |
+| FENTANYL-0.6-MG-TABLET, OROMUCOSAAL | FENTANYL-0.6-MG-TABLET, OROMUCOSAAL | 7.60330600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 26573 | Actiq zuigpastille 600mcg |   |
 | Productgroep |   | Maximumprijs |
-| FENTANYL-0.8-MG-TABLET, OROMUCOSAAL | FENTANYL-0.8-MG-TABLET, OROMUCOSAAL | 7.85359400 per stuk |
+| FENTANYL-0.8-MG-TABLET, OROMUCOSAAL | FENTANYL-0.8-MG-TABLET, OROMUCOSAAL | 7.60330600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 26574 | Actiq zuigpastille 800mcg |   |
 | Productgroep |   | Maximumprijs |
-| FENTANYL-1.38-MG-PLEISTER, DERMAAL | FENTANYL-1.38-MG-PLEISTER, DERMAAL | 3.24778200 per stuk |
-| Registratienummer | Artikelnaam |   |
-| 33627 | Fentanyl nycomed pleister 12mcg/uur |   |
-| Productgroep |   | Maximumprijs |
-| FENTANYL-11-MG-PLEISTER, DERMAAL | FENTANYL-11-MG-PLEISTER, DERMAAL | 16.27533700 per stuk |
-| Registratienummer | Artikelnaam |   |
-| 33631 | Fentanyl nycomed pleister 100mcg/uur |   |
-| Productgroep |   | Maximumprijs |
-| FENTANYL-12.6-MG-PLEISTER, DERMAAL | FENTANYL-12.6-MG-PLEISTER, DERMAAL | 16.49229500 per stuk |
+| FENTANYL-12.6-MG-PLEISTER, DERMAAL | FENTANYL-12.6-MG-PLEISTER, DERMAAL | 15.97312100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 16847 | Durogesic matrixpleister 75mcg/uur |   |
 | Productgroep |   | Maximumprijs |
-| FENTANYL-16.8-MG-PLEISTER, DERMAAL | FENTANYL-16.8-MG-PLEISTER, DERMAAL | 19.90365800 per stuk |
+| FENTANYL-16.8-MG-PLEISTER, DERMAAL | FENTANYL-16.8-MG-PLEISTER, DERMAAL | 19.47476600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 16848 | Durogesic matrixpleister 100mcg/uur |   |
 | Productgroep |   | Maximumprijs |
-| FENTANYL-2.1-MG-PLEISTER, DERMAAL | FENTANYL-2.1-MG-PLEISTER, DERMAAL | 4.23925700 per stuk |
+| FENTANYL-2.1-MG-PLEISTER, DERMAAL | FENTANYL-2.1-MG-PLEISTER, DERMAAL | 4.04695200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 31418 | Durogesic matrixpleister 12mcg/uur |   |
 | Productgroep |   | Maximumprijs |
-| FENTANYL-2.75-MG-PLEISTER, DERMAAL | FENTANYL-2.75-MG-PLEISTER, DERMAAL | 4.99644900 per stuk |
-| Registratienummer | Artikelnaam |   |
-| 33628 | Fentanyl nycomed pleister 25mcg/uur |   |
-| Productgroep |   | Maximumprijs |
-| FENTANYL-2.89-MG-PLEISTER, DERMAAL | FENTANYL-2.89-MG-PLEISTER, DERMAAL | 3.32131200 per stuk |
+| FENTANYL-2.89-MG-PLEISTER, DERMAAL | FENTANYL-2.89-MG-PLEISTER, DERMAAL | 3.38141800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 34442 | Fentanyl matrix sandoz pleister 12mcg/uur |   |
 | Productgroep |   | Maximumprijs |
-| FENTANYL-4.2-MG-PLEISTER, DERMAAL | FENTANYL-4.2-MG-PLEISTER, DERMAAL | 6.32752800 per stuk |
+| FENTANYL-4.2-MG-PLEISTER, DERMAAL | FENTANYL-4.2-MG-PLEISTER, DERMAAL | 6.17536000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 16845 | Durogesic matrixpleister 25mcg/uur |   |
 | Productgroep |   | Maximumprijs |
-| FENTANYL-5.5-MG-PLEISTER, DERMAAL | FENTANYL-5.5-MG-PLEISTER, DERMAAL | 9.25843500 per stuk |
-| Registratienummer | Artikelnaam |   |
-| 33629 | Fentanyl nycomed pleister 50mcg/uur |   |
-| Productgroep |   | Maximumprijs |
-| FENTANYL-8.25-MG-PLEISTER, DERMAAL | FENTANYL-8.25-MG-PLEISTER, DERMAAL | 10.87849800 per stuk |
-| Registratienummer | Artikelnaam |   |
-| 33630 | Fentanyl nycomed pleister 75mcg/uur |   |
-| Productgroep |   | Maximumprijs |
-| FENTANYL-8.4-MG-PLEISTER, DERMAAL | FENTANYL-8.4-MG-PLEISTER, DERMAAL | 11.72729600 per stuk |
+| FENTANYL-8.4-MG-PLEISTER, DERMAAL | FENTANYL-8.4-MG-PLEISTER, DERMAAL | 11.35877500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 16846 | Durogesic matrixpleister 50mcg/uur |   |
 | Productgroep |   | Maximumprijs |
-| FEXOFENADINE-120-MG-TABLET | FEXOFENADINE-120-MG-TABLET | 0.29838500 per stuk |
+| FEXOFENADINE-120-MG-TABLET | FEXOFENADINE-120-MG-TABLET | 0.28894400 per stuk |
 | Registratienummer | Artikelnaam |   |
-| 21624 | Telfast tablet omhuld 120mg |   |
 | 31428/21624 | Telfast tablet omhuld 120mg |   |
 | Productgroep |   | Maximumprijs |
-| FEXOFENADINE-180-MG-TABLET | FEXOFENADINE-180-MG-TABLET | 0.39736300 per stuk |
+| FEXOFENADINE-180-MG-TABLET | FEXOFENADINE-180-MG-TABLET | 0.38807800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 21625 | Telfast tablet omhuld 180mg |   |
 | 23912/21625 | Telfast tablet omhuld 180mg |   |
 | 27543/21625 | Telfast tablet omhuld 180mg |   |
 | Productgroep |   | Maximumprijs |
-| FEXOFENADINE-30-MG-TABLET | FEXOFENADINE-30-MG-TABLET | 0.22902200 per stuk |
+| FEXOFENADINE-30-MG-TABLET | FEXOFENADINE-30-MG-TABLET | 0.23186800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 28085 | Telfast junior tablet omhuld 30mg |   |
 | 33180/28085 | Telfast junior tablet omhuld 30mg |   |
 | Productgroep |   | Maximumprijs |
-| FINASTERIDE-5-MG-TABLET | FINASTERIDE-5-MG-TABLET | 0.56579300 per stuk |
+| FINASTERIDE-5-MG-TABLET | FINASTERIDE-5-MG-TABLET | 0.44330500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15482 | Proscar tablet 5mg |   |
 | 21662/15482 | Proscar tablet 5mg |   |
@@ -3248,62 +3399,62 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 31566/15482 | Proscar tablet 5mg |   |
 | 32435/15482 | Proscar tablet 5mg |   |
 | Productgroep |   | Maximumprijs |
-| FLAVOXATE-200-MG-TABLET | FLAVOXATE-200-MG-TABLET | 0.16477000 per stuk |
+| FLAVOXATE-200-MG-TABLET | FLAVOXATE-200-MG-TABLET | 0.16679800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 25016/8322 | Urispas dragee 200mg |   |
 | 8322 | Urispas dragee 200mg |   |
 | Productgroep |   | Maximumprijs |
-| FLECAINIDE-100-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | FLECAINIDE-100-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.48582400 per stuk |
+| FLECAINIDE-100-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | FLECAINIDE-100-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.43115700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 27132 | Tambocor cr capsule mga 100mg |   |
 | Productgroep |   | Maximumprijs |
-| FLECAINIDE-100-MG-TABLET | FLECAINIDE-100-MG-TABLET | 0.31054700 per stuk |
+| FLECAINIDE-100-MG-TABLET | FLECAINIDE-100-MG-TABLET | 0.31155500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10098 | Tambocor tablet 100mg |   |
 | 25928 | Flecainideacetaat actavis tablet 100mg |   |
 | 26667=10098 | Flecainideacetaat a tablet 100mg |   |
 | 26850 | Flecainideacetaat sandoz tablet 100mg |   |
 | 26964 | Flecainideacetaat pch tablet 100mg |   |
-| 27200 | Flecainideacetaat merck tablet 100mg |   |
+| 27200 | Flecainideacetaat mylan tablet 100mg |   |
 | 27929 | Flecainideacetaat cf tablet 100mg |   |
 | 29672 | Flecainideacetaat katwijk tablet 100mg |   |
 | 30058 | Flecainideacetaat rp tablet 100mg |   |
 | 31784 | Flecainideacetaat cf tablet 100mg |   |
 | Productgroep |   | Maximumprijs |
-| FLECAINIDE-150-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | FLECAINIDE-150-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.58857500 per stuk |
+| FLECAINIDE-150-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | FLECAINIDE-150-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.53390900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 27133 | Tambocor cr capsule mga 150mg |   |
 | Productgroep |   | Maximumprijs |
-| FLECAINIDE-200-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | FLECAINIDE-200-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.65981800 per stuk |
+| FLECAINIDE-200-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | FLECAINIDE-200-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.63363900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 27134 | Tambocor cr capsule mga 200mg |   |
 | Productgroep |   | Maximumprijs |
-| FLECAINIDE-50-MG-TABLET | FLECAINIDE-50-MG-TABLET | 0.23543400 per stuk |
+| FLECAINIDE-50-MG-TABLET | FLECAINIDE-50-MG-TABLET | 0.23653500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15854 | Tambocor tablet 50mg |   |
 | Productgroep |   | Maximumprijs |
-| FLUCLOXACILLIN-250-MG-CAPSULE | FLUCLOXACILLIN-250-MG-CAPSULE | 0.43846900 per stuk |
+| FLUCLOXACILLIN-250-MG-CAPSULE | FLUCLOXACILLIN-250-MG-CAPSULE | 0.48291000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 18806=16939 | Flucloxacilline cf capsule 250mg |   |
 | 9827 | Flucloxacilline pch capsule 250mg |   |
 | Productgroep |   | Maximumprijs |
-| FLUCONAZOLE-10-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | FLUCONAZOLE-10-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.49950700 per ml |
+| FLUCONAZOLE-10-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | FLUCONAZOLE-10-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.49258700 per ml |
 | Registratienummer | Artikelnaam |   |
 | 15757 | Diflucan poeder voor suspensie 10mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| FLUCONAZOLE-150-MG-CAPSULE | FLUCONAZOLE-150-MG-CAPSULE | 4.92189900 per stuk |
+| FLUCONAZOLE-150-MG-CAPSULE | FLUCONAZOLE-150-MG-CAPSULE | 4.95015900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 102999 | Fluconazol a capsule 150mg |   |
 | 13039 | Diflucan capsule 150mg |   |
 | 26694 | Fluconazol sandoz capsule 150mg |   |
-| 27497 | Fluconazol merck capsule 150mg |   |
+| 27497 | Fluconazol mylan capsule 150mg |   |
 | 27717 | Fluconazole novopharm capsule 150mg |   |
 | 28344 | Fluconazol pch capsule 150mg |   |
 | 28560=26694 | Fluconazol rp capsule 150mg |   |
 | 29395 | Fluconazol cf capsule 150mg |   |
 | 29884 | Fluconazol actavis capsule 150mg |   |
 | Productgroep |   | Maximumprijs |
-| FLUCONAZOLE-200-MG-CAPSULE | FLUCONAZOLE-200-MG-CAPSULE | 4.99256300 per stuk |
+| FLUCONAZOLE-200-MG-CAPSULE | FLUCONAZOLE-200-MG-CAPSULE | 4.92929300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 103000 | Fluconazol a capsule 200mg |   |
 | 14768 | Diflucan capsule 200mg |   |
@@ -3315,11 +3466,11 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 29396 | Fluconazol cf capsule 200mg |   |
 | 29885 | Fluconazol actavis capsule 200mg |   |
 | Productgroep |   | Maximumprijs |
-| FLUCONAZOLE-40-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | FLUCONAZOLE-40-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 2.02186400 per ml |
+| FLUCONAZOLE-40-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | FLUCONAZOLE-40-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 2.01749700 per ml |
 | Registratienummer | Artikelnaam |   |
 | 15758 | Diflucan poeder voor suspensie 40mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| FLUCONAZOLE-50-MG-CAPSULE | FLUCONAZOLE-50-MG-CAPSULE | 1.33286300 per stuk |
+| FLUCONAZOLE-50-MG-CAPSULE | FLUCONAZOLE-50-MG-CAPSULE | 1.29912300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 102997 | Fluconazol a capsule 50mg |   |
 | 13038 | Diflucan capsule 50mg |   |
@@ -3331,15 +3482,15 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 29393 | Fluconazol cf capsule 50mg |   |
 | 29882 | Fluconazol actavis capsule 50mg |   |
 | Productgroep |   | Maximumprijs |
-| FLUDARABINE-10-MG-TABLET | FLUDARABINE-10-MG-TABLET | 24.23835200 per stuk |
+| FLUDARABINE-10-MG-TABLET | FLUDARABINE-10-MG-TABLET | 24.30362700 per stuk |
 | Registratienummer | Artikelnaam |   |
-| 26919 | Fludara oraal tablet omhuld 10mg |   |
+| 26919 | Fludara tablet omhuld 10mg |   |
 | Productgroep |   | Maximumprijs |
-| FLUDROCORTISONE-.1-MG-TABLET | FLUDROCORTISONE-.1-MG-TABLET | 0.24053700 per stuk |
+| FLUDROCORTISONE-.1-MG-TABLET | FLUDROCORTISONE-.1-MG-TABLET | 0.24531300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 7897 | Florinef tablet 0,1mg |   |
 | Productgroep |   | Maximumprijs |
-| FLUDROCORTISONE-1-MG/ML-OORDRUPPELS-NEOMYCIN-10-MG/ML-OORDRUPPELS-POLYMYXIN B-10 | FLUDROCORTISONE-1-MG/ML-OORDRUPPELS-NEOMYCIN-10-MG/ML-OORDRUPPELS-POLYMYXIN B-10 | 0.27896800 per ml |
+| FLUDROCORTISONE-1-MG/ML-OORDRUPPELS-NEOMYCIN-10-MG/ML-OORDRUPPELS-POLYMYXIN B-10 | FLUDROCORTISONE-1-MG/ML-OORDRUPPELS-NEOMYCIN-10-MG/ML-OORDRUPPELS-POLYMYXIN B-10 | 0.28303100 per ml |
 | Registratienummer | Artikelnaam |   |
 | 6585 | Panotile oordruppels |   |
 | Productgroep |   | Maximumprijs |
@@ -3351,23 +3502,23 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | Registratienummer | Artikelnaam |   |
 | 10579 | Sibelium tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| FLUNARIZINE-5-MG-CAPSULE | FLUNARIZINE-5-MG-CAPSULE | 0.14290100 per stuk |
+| FLUNARIZINE-5-MG-CAPSULE | FLUNARIZINE-5-MG-CAPSULE | 0.14504200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 56977 | Flunarizine cf capsule 5mg |   |
 | Productgroep |   | Maximumprijs |
-| FLUNISOLIDE-.025-MG-NEUSSPRAY | FLUNISOLIDE-.025-MG-NEUSSPRAY | 0.02923300 per dosis |
+| FLUNISOLIDE-.025-MG-NEUSSPRAY | FLUNISOLIDE-.025-MG-NEUSSPRAY | 0.03082700 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 18858/8493 | Syntaris neusspray 25mcg/do flacon 240do |   |
 | 8493 | Syntaris neusspray 25mcg/do flacon 240do |   |
 | Productgroep |   | Maximumprijs |
-| FLUNITRAZEPAM-1-MG-TABLET | FLUNITRAZEPAM-1-MG-TABLET | 0.09277100 per stuk |
+| FLUNITRAZEPAM-1-MG-TABLET | FLUNITRAZEPAM-1-MG-TABLET | 0.09424800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10623 | Flunitrazepam pch tablet 1mg |   |
 | 12950 | Flunitrazepam actavis tablet 1mg |   |
 | 28805=12950 | Flunitrazepam sandoz tablet 1mg |   |
 | 57032 | Flunitrazepam cf tablet 1mg |   |
 | Productgroep |   | Maximumprijs |
-| FLUOROMETHOLONE-1-MG/ML-OOGDRUPPELS | FLUOROMETHOLONE-1-MG/ML-OOGDRUPPELS | 0.55614600 per ml |
+| FLUOROMETHOLONE-1-MG/ML-OOGDRUPPELS | FLUOROMETHOLONE-1-MG/ML-OOGDRUPPELS | 0.55099500 per ml |
 | Registratienummer | Artikelnaam |   |
 | 100998/6539 | Fml liquifilm oogdruppels 0,1% flacon 5ml |   |
 | 101950/6539 | Fml liquifilm oogdruppels 0,1% flacon 5ml |   |
@@ -3376,19 +3527,19 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 33164/6539 | Fml liquifilm oogdruppels 0,1% flacon 5ml |   |
 | 6539 | Fml liquifilm oogdruppels 0,1% flacon 5ml |   |
 | Productgroep |   | Maximumprijs |
-| FLUOROURACIL-50-MG/G-CREME, CUTAAN | FLUOROURACIL-50-MG/G-CREME, CUTAAN | 1.04156500 per g |
+| FLUOROURACIL-50-MG/G-CREME, CUTAAN | FLUOROURACIL-50-MG/G-CREME, CUTAAN | 1.07572000 per g |
 | Registratienummer | Artikelnaam |   |
 | 6292 | Efudix creme 50mg/g |   |
 | Productgroep |   | Maximumprijs |
-| FLUOXETINE-20-MG-BRUISTABLET | FLUOXETINE-20-MG-BRUISTABLET | 0.38200400 per stuk |
+| FLUOXETINE-20-MG-BRUISTABLET | FLUOXETINE-20-MG-BRUISTABLET | 0.38265500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 19429 | Prozac disp tablet 20mg |   |
 | 24609 | Fluoxetine cf disp tablet 20mg |   |
 | 28139 | Fluoxetine pch disp tablet 20mg |   |
 | Productgroep |   | Maximumprijs |
-| FLUOXETINE-20-MG-CAPSULE | FLUOXETINE-20-MG-CAPSULE | 0.23602200 per stuk |
+| FLUOXETINE-20-MG-CAPSULE | FLUOXETINE-20-MG-CAPSULE | 0.23288100 per stuk |
 | Registratienummer | Artikelnaam |   |
-| 23696 | Fluoxetine merck capsule 20mg |   |
+| 23696 | Fluoxetine mylan capsule 20mg |   |
 | 24014 | Fluoxetine katwijk capsule 20mg |   |
 | 24403 | Fluoxetine rp capsule 20mg |   |
 | 24444 | Fluoxetine a capsule 20mg |   |
@@ -3398,64 +3549,64 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 26816 | Fluoxetine actavis capsule 20mg |   |
 | 30007 | Fluoxetine sandoz capsule 20mg |   |
 | Productgroep |   | Maximumprijs |
-| FLUOXETINE-20-MG-TABLET | FLUOXETINE-20-MG-TABLET | 0.21760600 per stuk |
+| FLUOXETINE-20-MG-TABLET | FLUOXETINE-20-MG-TABLET | 0.20250000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 28262 | Fluoxetine rp tablet 20mg |   |
 | 29029=28261 | Fluoxetine sandoz tablet 20mg |   |
 | Productgroep |   | Maximumprijs |
-| FLUPENTIXOL-.5-MG-TABLET | FLUPENTIXOL-.5-MG-TABLET | 0.05819200 per stuk |
+| FLUPENTIXOL-.5-MG-TABLET | FLUPENTIXOL-.5-MG-TABLET | 0.05859000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 5376 | Fluanxol dragee 0,5mg |   |
 | Productgroep |   | Maximumprijs |
-| FLUPENTIXOL-1-MG-TABLET | FLUPENTIXOL-1-MG-TABLET | 0.06541500 per stuk |
+| FLUPENTIXOL-1-MG-TABLET | FLUPENTIXOL-1-MG-TABLET | 0.06660200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 23800/5377 | Fluanxol dragee 1mg |   |
 | 5377 | Fluanxol dragee 1mg |   |
 | Productgroep |   | Maximumprijs |
-| FLURBIPROFEN-200-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | FLURBIPROFEN-200-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.33979000 per stuk |
+| FLURBIPROFEN-200-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | FLURBIPROFEN-200-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.31878200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11815 | Froben suscap capsule 200mg |   |
 | Productgroep |   | Maximumprijs |
-| FLURBIPROFEN-50-MG-TABLET | FLURBIPROFEN-50-MG-TABLET | 0.11602400 per stuk |
+| FLURBIPROFEN-50-MG-TABLET | FLURBIPROFEN-50-MG-TABLET | 0.12056300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 7442 | Froben dragee 50mg |   |
 | Productgroep |   | Maximumprijs |
-| FLUTAMIDE-250-MG-TABLET | FLUTAMIDE-250-MG-TABLET | 0.50588300 per stuk |
+| FLUTAMIDE-250-MG-TABLET | FLUTAMIDE-250-MG-TABLET | 0.46118600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 18282 | Flutamide pch tablet 250mg |   |
 | 21263 | Flutamide sandoz tablet 250mg |   |
 | 21826 | Flutamide cf tablet 250mg |   |
-| 23526 | Flutamide merck tablet 250mg |   |
+| 23526 | Flutamide mylan tablet 250mg |   |
 | 24280=21826 | Flutamide rp tablet 250mg |   |
 | Productgroep |   | Maximumprijs |
-| FLUTICASONE-.05-MG-AEROSOL | FLUTICASONE-.05-MG-AEROSOL | 0.06980200 per dosis |
+| FLUTICASONE-.05-MG-AEROSOL | FLUTICASONE-.05-MG-AEROSOL | 0.07052100 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 16212 | Flixotide aer cfkvr 50mcg/do spbs 120 do + inhal |   |
 | Productgroep |   | Maximumprijs |
-| FLUTICASONE-.05-MG/G-ZALF, CUTAAN | FLUTICASONE-.05-MG/G-ZALF, CUTAAN | 0.13707400 per g |
+| FLUTICASONE-.05-MG/G-ZALF, CUTAAN | FLUTICASONE-.05-MG/G-ZALF, CUTAAN | 0.14363800 per g |
 | Registratienummer | Artikelnaam |   |
 | 101369/16648 | Cutivate hydrofobe zalf 0,05mg/g |   |
 | 16648 | Cutivate hydrofobe zalf 0,05mg/g |   |
 | Productgroep |   | Maximumprijs |
-| FLUTICASONE-.25-MG-AEROSOL | FLUTICASONE-.25-MG-AEROSOL | 0.28188400 per dosis |
+| FLUTICASONE-.25-MG-AEROSOL | FLUTICASONE-.25-MG-AEROSOL | 0.28507300 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 103091/16214 | Flixotide aer cfkvr 250mcg/do spbs 120 do + inhal |   |
 | 16214 | Flixotide aer cfkvr 250mcg/do spbs 120 do + inhal |   |
 | Productgroep |   | Maximumprijs |
-| FLUTICASONE-.25-MG/ML-INHALATIEVLOEISTOF UNITDOSE | FLUTICASONE-.25-MG/ML-INHALATIEVLOEISTOF UNITDOSE | 0.66060700 per ml |
+| FLUTICASONE-.25-MG/ML-INHALATIEVLOEISTOF UNITDOSE | FLUTICASONE-.25-MG/ML-INHALATIEVLOEISTOF UNITDOSE | 0.67521300 per ml |
 | Registratienummer | Artikelnaam |   |
 | 21834 | Flixotide 500 inhvlst 0,25mg/ml nebule 2ml |   |
 | 30604/21834 | Flixotide 500 inhvlst 0,25mg/ml nebule 2ml |   |
 | 31459/21834 | Flixotide 500 inhvlst 0,25mg/ml nebule 2ml |   |
 | Productgroep |   | Maximumprijs |
-| FLUTICASONE-.5-MG-INHALATIEPOEDER INCL INHALER | FLUTICASONE-.5-MG-INHALATIEPOEDER INCL INHALER | 0.56332800 per dosis |
+| FLUTICASONE-.5-MG-INHALATIEPOEDER INCL INHALER | FLUTICASONE-.5-MG-INHALATIEPOEDER INCL INHALER | 0.57021400 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 101764/18195 | Flutide diskus inhpdr 500mcg 60do |   |
 | 102734/18195 | Flutide forte diskus inhpdr 500mcg 60do |   |
 | 18195 | Flixotide diskus inhpdr 500mcg 60do |   |
 | 34470/18195 | Flutide diskus inhpdr 500mcg 60do |   |
 | Productgroep |   | Maximumprijs |
-| FLUTICASONE-.5-MG/G-CREME, CUTAAN | FLUTICASONE-.5-MG/G-CREME, CUTAAN | 0.13707400 per g |
+| FLUTICASONE-.5-MG/G-CREME, CUTAAN | FLUTICASONE-.5-MG/G-CREME, CUTAAN | 0.14363800 per g |
 | Registratienummer | Artikelnaam |   |
 | 16647 | Cutivate hydrofiele creme 0,5mg/g |   |
 | 28540/16647 | Cutivate hydrofiele creme 0,5mg/g |   |
@@ -3463,48 +3614,45 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 30641/16647 | Cutivate hydrofiele creme 0,5mg/g |   |
 | 35197/16647 | Cutivate hydrofiele creme 0,5mg/g |   |
 | Productgroep |   | Maximumprijs |
-| FLUTICASONE-1-MG/ML-INHALATIEVLOEISTOF UNITDOSE | FLUTICASONE-1-MG/ML-INHALATIEVLOEISTOF UNITDOSE | 1.36559900 per ml |
+| FLUTICASONE-1-MG/ML-INHALATIEVLOEISTOF UNITDOSE | FLUTICASONE-1-MG/ML-INHALATIEVLOEISTOF UNITDOSE | 1.40453600 per ml |
 | Registratienummer | Artikelnaam |   |
 | 21835 | Flixotide 2000 inhvlst 1mg/ml nebule 2ml |   |
 | 30012/21835 | Flixotide 2000 inhvlst 1mg/ml nebule 2ml |   |
 | 32731/21835 | Flutide 2000 inhvlst 1mg/ml nebule 2ml |   |
 | Productgroep |   | Maximumprijs |
-| FLUTICASONE-1-MG/ML-NEUSDRUPPELS UNITDOSE | FLUTICASONE-1-MG/ML-NEUSDRUPPELS UNITDOSE | 1.61172600 per ml |
+| FLUTICASONE-1-MG/ML-NEUSDRUPPELS UNITDOSE | FLUTICASONE-1-MG/ML-NEUSDRUPPELS UNITDOSE | 1.64872500 per ml |
 | Registratienummer | Artikelnaam |   |
+| 105726/23477 | Flixonase neusdruppels 1mg/ml nasule 0,4ml |   |
 | 23477 | Flixonase neusdruppels 1mg/ml nasule 0,4ml |   |
 | Productgroep |   | Maximumprijs |
-| FLUVASTATIN-20-MG-CAPSULE | FLUVASTATIN-20-MG-CAPSULE | 0.34472300 per stuk |
+| FLUVASTATIN-20-MG-CAPSULE | FLUVASTATIN-20-MG-CAPSULE | 0.34438700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100355/18719 | Fluvastatine capsule 20mg |   |
 | 18719 | Lescol capsule 20mg |   |
 | 21629/18719 | Lescol capsule 20mg |   |
 | 22510/18719 | Fluvastatine capsule 20mg |   |
 | 28376/18719 | Vaditon capsule 20mg |   |
-| 33926/18719 | Lescol capsule 20mg |   |
 | 34396/18719 | Lescol capsule 20mg |   |
 | Productgroep |   | Maximumprijs |
-| FLUVASTATIN-40-MG-CAPSULE | FLUVASTATIN-40-MG-CAPSULE | 0.43213800 per stuk |
+| FLUVASTATIN-40-MG-CAPSULE | FLUVASTATIN-40-MG-CAPSULE | 0.40696200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100356/18720 | Fluvastatine capsule 40mg |   |
 | 18720 | Lescol capsule 40mg |   |
 | 22511/18720 | Fluvastatine capsule 40mg |   |
 | 24302/18720 | Lescol capsule 40mg |   |
 | 34397/18720 | Lescol capsule 40mg |   |
-| 34525/18720 | Lescol capsule 40mg |   |
 | Productgroep |   | Maximumprijs |
-| FLUVASTATIN-80-MG-TABLET, MET GEREGULEERDE AFGIFTE | FLUVASTATIN-80-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.68448500 per stuk |
+| FLUVASTATIN-80-MG-TABLET, MET GEREGULEERDE AFGIFTE | FLUVASTATIN-80-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.61141400 per stuk |
 | Registratienummer | Artikelnaam |   |
-| 100229/25187 | Lescol xl tablet mva 80mg |   |
 | 100360/25187 | Lescol xl tablet mva 80mg |   |
 | 25187 | Lescol xl tablet mva 80mg |   |
 | 27974/25187 | Lescol xl tablet mva 80mg |   |
 | 29200/25187 | Lescol xl tablet mva 80mg |   |
 | 32352/25187 | Fluvastatine tablet mva 80mg |   |
 | 33840/25187 | Lescol xl tablet mva 80mg |   |
-| 34526/25187 | Lescol xl tablet mva 80mg |   |
 | 34581/25187 | Fluvastatine tablet mva 80mg |   |
 | Productgroep |   | Maximumprijs |
-| FLUVOXAMINE-100-MG-TABLET | FLUVOXAMINE-100-MG-TABLET | 0.33273600 per stuk |
+| FLUVOXAMINE-100-MG-TABLET | FLUVOXAMINE-100-MG-TABLET | 0.33013700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11619 | Fevarin tablet 100mg |   |
 | 19865=11619 | Fluvoxamine maleaat rp tablet 100mg |   |
@@ -3517,9 +3665,8 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 22441 | Fluvoxamine maleaat cf tablet 100mg |   |
 | 27410 | Fluvoxamine maleaat pch tablet 100mg |   |
 | 29190 | Fluvoxamine maleaat mylan tablet 100mg |   |
-| 29190 | Fluvoxamine maleaat merck tablet 100mg |   |
 | Productgroep |   | Maximumprijs |
-| FLUVOXAMINE-50-MG-TABLET | FLUVOXAMINE-50-MG-TABLET | 0.16378500 per stuk |
+| FLUVOXAMINE-50-MG-TABLET | FLUVOXAMINE-50-MG-TABLET | 0.16833000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10245 | Fevarin tablet 50mg |   |
 | 19864=10245 | Fluvoxamine maleaat rp tablet 50mg |   |
@@ -3532,13 +3679,12 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 22440 | Fluvoxamine maleaat cf tablet 50mg |   |
 | 27409 | Fluvoxamine maleaat pch tablet 50mg |   |
 | 29189 | Fluvoxamine maleaat mylan tablet 50mg |   |
-| 29189 | Fluvoxamine maleaat merck tablet 50mg |   |
 | Productgroep |   | Maximumprijs |
-| FORMOTEROL-.012-MG-INHALATIEPOEDER | FORMOTEROL-.012-MG-INHALATIEPOEDER | 0.40169600 per dosis |
+| FORMOTEROL-.012-MG-INHALATIEPOEDER | FORMOTEROL-.012-MG-INHALATIEPOEDER | 0.37273800 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 32969 | Formoterol novolizer inhalpdr navul 12mcg/do 60do |   |
 | Productgroep |   | Maximumprijs |
-| FORMOTEROL-.012-MG-INHALATIEPOEDER INCL INHALER | FORMOTEROL-.012-MG-INHALATIEPOEDER INCL INHALER | 0.41127000 per dosis |
+| FORMOTEROL-.012-MG-INHALATIEPOEDER INCL INHALER | FORMOTEROL-.012-MG-INHALATIEPOEDER INCL INHALER | 0.41448100 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 101762/21027 | Oxis turbuhaler inhalpdr 12mcg/do 60do |   |
 | 102246/21027 | Oxis turbuhaler inhalpdr 12mcg/do 60do |   |
@@ -3549,7 +3695,6 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 22609/21027 | Oxis turbuhaler inhalpdr 12mcg/do 60do |   |
 | 24449/17158 | Foradil inhalatiepdr 12mcg + inhalator |   |
 | 26774/21027 | Oxis turbuhaler inhalpdr 12mcg/do 60do |   |
-| 26922/21027 | Oxis turbuhaler inhalpdr 12mcg/do 60do |   |
 | 27169/21027 | Oxis turbuhaler inhalpdr 12mcg/do 60do |   |
 | 28064/21027 | Oxis turbuhaler inhalpdr 12mcg/do 60do |   |
 | 28993/17158 | Foradil inhalatiepdr 12mcg + inhalator |   |
@@ -3561,41 +3706,42 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 32969 | Formoterol novolizer pdr start 12mcg/do 60do+inh |   |
 | 33470 | Formoterol cyclocaps inhalpdr 12mcg + cyclohaler |   |
 | Productgroep |   | Maximumprijs |
-| FOSAMPRENAVIR-50-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | FOSAMPRENAVIR-50-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.46631600 per ml |
+| FOSAMPRENAVIR-50-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | FOSAMPRENAVIR-50-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.47505600 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/04/282/002 | Telzir suspensie 50mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| FOSAMPRENAVIR-700-MG-TABLET | FOSAMPRENAVIR-700-MG-TABLET | 6.47154800 per stuk |
+| FOSAMPRENAVIR-700-MG-TABLET | FOSAMPRENAVIR-700-MG-TABLET | 6.56684800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/04/282/001 | Telzir tablet filmomhuld 700mg |   |
 | Productgroep |   | Maximumprijs |
-| FOSFOMYCIN-3000-MG-POEDER/GRANULAAT, ORAAL | FOSFOMYCIN-3000-MG-POEDER/GRANULAAT, ORAAL | 6.64717000 per sachet |
+| FOSFOMYCIN-3000-MG-POEDER/GRANULAAT, ORAAL | FOSFOMYCIN-3000-MG-POEDER/GRANULAAT, ORAAL | 5.86883600 per sachet |
 | Registratienummer | Artikelnaam |   |
+| 102583/13066 | Monuril granulaat 3000mg/8g in sachet |   |
 | 13066 | Monuril granulaat 3000mg/8g in sachet |   |
 | Productgroep |   | Maximumprijs |
-| FOSINOPRIL-10-MG-TABLET | FOSINOPRIL-10-MG-TABLET | 0.18006900 per stuk |
+| FOSINOPRIL-10-MG-TABLET | FOSINOPRIL-10-MG-TABLET | 0.17962200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15237 | Newace tablet 10mg |   |
 | 29354 | Fosinoprilnatrium pch tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| FOSINOPRIL-20-MG-TABLET | FOSINOPRIL-20-MG-TABLET | 0.31947800 per stuk |
+| FOSINOPRIL-20-MG-TABLET | FOSINOPRIL-20-MG-TABLET | 0.30563400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15238 | Newace tablet 20mg |   |
 | 29355 | Fosinoprilnatrium pch tablet 20mg |   |
 | Productgroep |   | Maximumprijs |
-| FROVATRIPTAN-2.5-MG-TABLET | FROVATRIPTAN-2.5-MG-TABLET | 3.77327000 per stuk |
+| FROVATRIPTAN-2.5-MG-TABLET | FROVATRIPTAN-2.5-MG-TABLET | 4.05078200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 27212 | Fromirex tablet omhuld 2,5mg |   |
 | 34621/27212 | Frovatriptan tablet filmomhuld 2,5mg |   |
 | Productgroep |   | Maximumprijs |
-| FUROSEMIDE-20-MG-TABLET | FUROSEMIDE-20-MG-TABLET | 0.02488900 per stuk |
+| FUROSEMIDE-20-MG-TABLET | FUROSEMIDE-20-MG-TABLET | 0.02579900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10185 | Furosemide pch tablet 20mg |   |
 | 28303=10185 | Furosemide actavis tablet 20mg |   |
 | 57091 | Furosemide cf tablet 20mg |   |
 | 6733 | Lasiletten tablet 20mg |   |
 | Productgroep |   | Maximumprijs |
-| FUROSEMIDE-40-MG-TABLET | FUROSEMIDE-40-MG-TABLET | 0.04870300 per stuk |
+| FUROSEMIDE-40-MG-TABLET | FUROSEMIDE-40-MG-TABLET | 0.04884100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 19996=55844 | Furosemide a tablet 40mg |   |
 | 20519 | Furosemide sandoz tablet 40mg |   |
@@ -3607,42 +3753,42 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 8705 | Furosemide actavis tablet 40mg |   |
 | 9511 | Furosemide pch tablet 40mg |   |
 | Productgroep |   | Maximumprijs |
-| FUROSEMIDE-500-MG-TABLET | FUROSEMIDE-500-MG-TABLET | 0.81474500 per stuk |
+| FUROSEMIDE-500-MG-TABLET | FUROSEMIDE-500-MG-TABLET | 0.81399400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15018 | Lasix tablet 500mg |   |
 | 19961/15018 | Lasix tablet 500mg |   |
 | 23490/15018 | Lasix tablet 500mg |   |
 | Productgroep |   | Maximumprijs |
-| FUROSEMIDE-60-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | FUROSEMIDE-60-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.14560000 per stuk |
+| FUROSEMIDE-60-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | FUROSEMIDE-60-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.14660000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10129 | Lasix retard capsule 60mg |   |
 | Productgroep |   | Maximumprijs |
-| FUSIDIC ACID-.3-MG/CM2-VERBAND, GEIMPREGNEERD | FUSIDIC ACID-.3-MG/CM2-VERBAND, GEIMPREGNEERD | 0.00618300 per cm2 |
+| FUSIDIC ACID-.3-MG/CM2-VERBAND, GEIMPREGNEERD | FUSIDIC ACID-.3-MG/CM2-VERBAND, GEIMPREGNEERD | 0.00615900 per cm2 |
 | Registratienummer | Artikelnaam |   |
 | 6045 | Fucidin intertulle leo gaas +zalf 20mg/g 10x10cm |   |
 | Productgroep |   | Maximumprijs |
-| FUSIDIC ACID-10-MG/G-OOGGEL | FUSIDIC ACID-10-MG/G-OOGGEL | 1.00046000 per g |
+| FUSIDIC ACID-10-MG/G-OOGGEL | FUSIDIC ACID-10-MG/G-OOGGEL | 1.01504800 per g |
 | Registratienummer | Artikelnaam |   |
 | 11902 | Fucithalmic ooggel tube 5g |   |
 | Productgroep |   | Maximumprijs |
-| FUSIDIC ACID-20-MG/G-CREME, CUTAAN | FUSIDIC ACID-20-MG/G-CREME, CUTAAN | 0.22352600 per g |
+| FUSIDIC ACID-20-MG/G-CREME, CUTAAN | FUSIDIC ACID-20-MG/G-CREME, CUTAAN | 0.23425800 per g |
 | Registratienummer | Artikelnaam |   |
 | 101189/8813 | Fucidin creme 20mg/g |   |
 | 101189/8813 | Fucidine creme 20mg/g |   |
 | 20842/8813 | Fucidin creme 20mg/g |   |
 | 8813 | Fucidin leo creme 20mg/g |   |
 | Productgroep |   | Maximumprijs |
-| FUSIDIC ACID-20-MG/G-ZALF, CUTAAN | FUSIDIC ACID-20-MG/G-ZALF, CUTAAN | 0.22589700 per g |
+| FUSIDIC ACID-20-MG/G-ZALF, CUTAAN | FUSIDIC ACID-20-MG/G-ZALF, CUTAAN | 0.23751300 per g |
 | Registratienummer | Artikelnaam |   |
 | 101188/5617 | Fucidine zalf 20mg/g |   |
 | 27545/5617 | Fucidine zalf 20mg/g |   |
 | 5617 | Fucidin leo zalf 20mg/g |   |
 | Productgroep |   | Maximumprijs |
-| FUSIDIC ACID-250-MG-TABLET | FUSIDIC ACID-250-MG-TABLET | 0.77201300 per stuk |
+| FUSIDIC ACID-250-MG-TABLET | FUSIDIC ACID-250-MG-TABLET | 0.78921100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 1369 | Fucidin tablet omhuld 250mg |   |
 | Productgroep |   | Maximumprijs |
-| GABAPENTIN-100-MG-CAPSULE | GABAPENTIN-100-MG-CAPSULE | 0.10976200 per stuk |
+| GABAPENTIN-100-MG-CAPSULE | GABAPENTIN-100-MG-CAPSULE | 0.09780400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100678 | Gabapentine ranbaxy capsule 100mg |   |
 | 101519 | Gabapentine a capsule 100mg |   |
@@ -3651,17 +3797,17 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 30194 | Gabapentine rp capsule 100mg |   |
 | 30736 | Gabapentine sandoz capsule 100mg |   |
 | 30739 | Gabapentine cf capsule 100mg |   |
-| 30742 | Gabapentine merck capsule 100mg |   |
+| 30742 | Gabapentine mylan capsule 100mg |   |
 | 31980 | Gabapentine pch capsule 100mg |   |
 | 32940 | Gabapentine actavis capsule 100mg |   |
 | 32992 | Gabapentine mylan capsule 100mg |   |
 | Productgroep |   | Maximumprijs |
-| GABAPENTIN-300-MG-CAPSULE | GABAPENTIN-300-MG-CAPSULE | 0.27688600 per stuk |
+| GABAPENTIN-300-MG-CAPSULE | GABAPENTIN-300-MG-CAPSULE | 0.25269100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100680 | Gabapentine ranbaxy capsule 300mg |   |
 | 101520 | Gabapentine a capsule 300mg |   |
 | 22482 | Neurontin capsule 300mg |   |
-| 29942 | Gabapentine katwijk capsule 300mg |   |
+| 29942 | Gabapentine apotex capsule 300mg |   |
 | 30195 | Gabapentine rp capsule 300mg |   |
 | 30737 | Gabapentine sandoz capsule 300mg |   |
 | 30740 | Gabapentine cf capsule 300mg |   |
@@ -3670,8 +3816,9 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 31981 | Gabapentine pch capsule 300mg |   |
 | 32941 | Gabapentine actavis capsule 300mg |   |
 | 32993 | Gabapentine mylan capsule 300mg |   |
+| 33681 | Gabapentine sandoz capsule 300mg |   |
 | Productgroep |   | Maximumprijs |
-| GABAPENTIN-400-MG-CAPSULE | GABAPENTIN-400-MG-CAPSULE | 0.34076300 per stuk |
+| GABAPENTIN-400-MG-CAPSULE | GABAPENTIN-400-MG-CAPSULE | 0.30775000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100681 | Gabapentine ranbaxy capsule 400mg |   |
 | 101521 | Gabapentine a capsule 400mg |   |
@@ -3680,13 +3827,13 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 30196 | Gabapentine rp capsule 400mg |   |
 | 30738 | Gabapentine sandoz capsule 400mg |   |
 | 30741 | Gabapentine cf capsule 400mg |   |
-| 30744 | Gabapentine merck capsule 400mg |   |
+| 30744 | Gabapentine mylan capsule 400mg |   |
 | 31618 | Gabapentine pch capsule 400mg |   |
 | 31982 | Gabapentine pch capsule 400mg |   |
 | 32942 | Gabapentine actavis capsule 400mg |   |
 | 32994 | Gabapentine mylan capsule 400mg |   |
 | Productgroep |   | Maximumprijs |
-| GABAPENTIN-600-MG-TABLET | GABAPENTIN-600-MG-TABLET | 0.69021100 per stuk |
+| GABAPENTIN-600-MG-TABLET | GABAPENTIN-600-MG-TABLET | 0.65240500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 25247 | Neurontin tablet filmomhuld 600mg |   |
 | 29977 | Gabapentine sandoz tablet filmomhuld 600mg |   |
@@ -3695,9 +3842,9 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 32943 | Gabapentine actavis tablet filmomhuld 600mg |   |
 | 32995 | Gabapentine mylan tablet filmomhuld 600mg |   |
 | 33348 | Gabapentine ranbaxy tablet filmomhuld 600mg |   |
-| 34332 | Gabapentine katwijk tablet filmomhuld 600mg |   |
+| 34332 | Gabapentine apotex tablet filmomhuld 600mg |   |
 | Productgroep |   | Maximumprijs |
-| GABAPENTIN-800-MG-TABLET | GABAPENTIN-800-MG-TABLET | 0.83915000 per stuk |
+| GABAPENTIN-800-MG-TABLET | GABAPENTIN-800-MG-TABLET | 0.76748700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100682 | Gabapentine ranbaxy tablet filmomhuld 800mg |   |
 | 25248 | Neurontin tablet filmomhuld 800mg |   |
@@ -3705,10 +3852,10 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 30537 | Gabapentine rp tablet filmomhuld 800mg |   |
 | 31984 | Gabapentine pch tablet filmomhuld 800mg |   |
 | 32944 | Gabapentine actavis tablet filmomhuld 800mg |   |
-| 32996 | Gabapentine merck tablet filmomhuld 800mg |   |
-| 34333 | Gabapentine katwijk tablet filmomhuld 800mg |   |
+| 32996 | Gabapentine mylan tablet filmomhuld 800mg |   |
+| 34333 | Gabapentine apotex tablet filmomhuld 800mg |   |
 | Productgroep |   | Maximumprijs |
-| GALANTAMINE-16-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | GALANTAMINE-16-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 2.81505700 per stuk |
+| GALANTAMINE-16-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | GALANTAMINE-16-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 2.85263500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 101230/31373 | Reminyl retard capsule mva 16mg |   |
 | 102664/31373 | Reminyl retard capsule mva 16mg |   |
@@ -3718,7 +3865,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 34451/31373 | Reminyl retard capsule mva 16mg |   |
 | 34691/31373 | Reminyl retard capsule mva 16mg |   |
 | Productgroep |   | Maximumprijs |
-| GALANTAMINE-24-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | GALANTAMINE-24-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 3.25197300 per stuk |
+| GALANTAMINE-24-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | GALANTAMINE-24-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 3.30129500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 102665/31374 | Reminyl retard capsule mva 24mg |   |
 | 31374 | Reminyl retard capsule mva 24mg |   |
@@ -3731,7 +3878,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | Registratienummer | Artikelnaam |   |
 | 29073 | Reminyl tablet omhuld 4mg |   |
 | Productgroep |   | Maximumprijs |
-| GALANTAMINE-8-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | GALANTAMINE-8-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 2.18094200 per stuk |
+| GALANTAMINE-8-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | GALANTAMINE-8-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 2.19975800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 101229/31372 | Reminyl retard capsule mva 8mg |   |
 | 102663/31372 | Reminyl retard capsule mva 8mg |   |
@@ -3739,56 +3886,62 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 34450/31372 | Reminyl retard capsule mva 8mg |   |
 | 34690/31372 | Reminyl retard capsule mva 8mg |   |
 | Productgroep |   | Maximumprijs |
-| GEMCITABINE-1000-MG-POED. V. INFUSIE,FLACON | GEMCITABINE-1000-MG-POED. V. INFUSIE,FLACON | 197.89071500 per stuk |
+| GEMCITABINE-1000-MG-POED. V. INFUSIE,FLACON | GEMCITABINE-1000-MG-POED. V. INFUSIE,FLACON | 193.68901700 per stuk |
 | Registratienummer | Artikelnaam |   |
+| 100205 | Gemcitabine accord infpdr flacon 1000mg |   |
+| 100527 | Gemcitabine sun infpdr flacon 1000mg |   |
 | 101083 | Gemcitabine actavis infpdr flacon 1000mg |   |
+| 101089 | Gemcitabine pch infpdr flacon 1000mg |   |
+| 103033 | Gemcirena infpdr flacon 1000mg |   |
 | 17854 | Gemzar infusiepoeder flacon 1000mg |   |
+| 34044 | Gemcitabine sandoz infpdr flacon 1000mg |   |
 | 35198/17854 | Gemzar infusiepoeder flacon 1000mg |   |
 | Productgroep |   | Maximumprijs |
-| GEMCITABINE-200-MG-POED. V. INFUSIE,FLACON | GEMCITABINE-200-MG-POED. V. INFUSIE,FLACON | 44.40602500 per stuk |
+| GEMCITABINE-200-MG-POED. V. INFUSIE,FLACON | GEMCITABINE-200-MG-POED. V. INFUSIE,FLACON | 45.73499200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 17854 | Gemzar infusiepoeder flacon 200mg |   |
 | 35072/17854 | Gemzar infusiepoeder flacon 200mg |   |
 | Productgroep |   | Maximumprijs |
-| GEMFIBROZIL-600-MG-TABLET | GEMFIBROZIL-600-MG-TABLET | 0.39586200 per stuk |
+| GEMFIBROZIL-600-MG-TABLET | GEMFIBROZIL-600-MG-TABLET | 0.41033400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13827 | Lopid tablet 600mg |   |
 | 25031 | Gemfibrozil pch tablet 600mg |   |
 | Productgroep |   | Maximumprijs |
-| GENTAMICIN-5-MG/ML-OOGDRUPPELS | GENTAMICIN-5-MG/ML-OOGDRUPPELS | 0.29396800 per ml |
+| GENTAMICIN-5-MG/ML-OOGDRUPPELS | GENTAMICIN-5-MG/ML-OOGDRUPPELS | 0.29840900 per ml |
 | Registratienummer | Artikelnaam |   |
 | 17832 | Oculoguttae gentamicini 3mg/ml flacon 5ml |   |
 | 57556 | Gentamicinesulfaat rp oogdruppels 0,5% flacon 5ml |   |
 | Productgroep |   | Maximumprijs |
-| GLIBENCLAMIDE-2.5-MG-TABLET | GLIBENCLAMIDE-2.5-MG-TABLET | 0.03722200 per stuk |
+| GLIBENCLAMIDE-2.5-MG-TABLET | GLIBENCLAMIDE-2.5-MG-TABLET | 0.03866300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 56114 | Glibenclamide cf tablet 2,5mg |   |
 | Productgroep |   | Maximumprijs |
-| GLIBENCLAMIDE-2.5-MG-TABLET-METFORMIN-500-MG-TABLET | GLIBENCLAMIDE-2.5-MG-TABLET-METFORMIN-500-MG-TABLET | 0.11197100 per stuk |
+| GLIBENCLAMIDE-2.5-MG-TABLET-METFORMIN-500-MG-TABLET | GLIBENCLAMIDE-2.5-MG-TABLET-METFORMIN-500-MG-TABLET | 0.10643800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 27245 | Glucovance tablet filmomhuld 500/2,5mg |   |
 | Productgroep |   | Maximumprijs |
-| GLIBENCLAMIDE-5-MG-TABLET | GLIBENCLAMIDE-5-MG-TABLET | 0.07169500 per stuk |
+| GLIBENCLAMIDE-5-MG-TABLET | GLIBENCLAMIDE-5-MG-TABLET | 0.07049600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12885 | Glibenclamide actavis tablet 5mg |   |
 | 15211=56115 | Glibenclamide sandoz tablet 5mg |   |
 | 25649=51887 | Glibenclamide a tablet 5mg |   |
-| 27013=56115 | Glibenclamide merck tablet 5mg |   |
-| 52645 | Glibenclamide tablet 5mg |   |
+| 27013=56115 | Glibenclamide mylan tablet 5mg |   |
+| 52645 | Glibenclamide apotex tablet 5mg |   |
 | 52645 | Glibenclamidum tablet 5mg |   |
+| 52645 | Glibenclamide tablet 5mg |   |
 | 56115 | Glibenclamidum cf tablet 5mg |   |
 | 56581 | Glibenclamide pch tablet 5mg |   |
 | 56623 | Glibenclamide rp tablet 5mg |   |
 | Productgroep |   | Maximumprijs |
-| GLIBENCLAMIDE-5-MG-TABLET-METFORMIN-500-MG-TABLET | GLIBENCLAMIDE-5-MG-TABLET-METFORMIN-500-MG-TABLET | 0.11197100 per stuk |
+| GLIBENCLAMIDE-5-MG-TABLET-METFORMIN-500-MG-TABLET | GLIBENCLAMIDE-5-MG-TABLET-METFORMIN-500-MG-TABLET | 0.10643800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 27246 | Glucovance tablet filmomhuld 500/5mg |   |
 | Productgroep |   | Maximumprijs |
-| GLICLAZIDE-30-MG-TABLET, MET GEREGULEERDE AFGIFTE | GLICLAZIDE-30-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.15824600 per stuk |
+| GLICLAZIDE-30-MG-TABLET, MET GEREGULEERDE AFGIFTE | GLICLAZIDE-30-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.14864600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 25617 | Diamicron mr tablet mga 30mg |   |
 | Productgroep |   | Maximumprijs |
-| GLIMEPIRIDE-1-MG-TABLET | GLIMEPIRIDE-1-MG-TABLET | 0.07842900 per stuk |
+| GLIMEPIRIDE-1-MG-TABLET | GLIMEPIRIDE-1-MG-TABLET | 0.08165600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 17843 | Amaryl tablet 1mg |   |
 | 32745 | Glimepiride sandoz tablet 1mg |   |
@@ -3797,9 +3950,9 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 32852 | Glimepiride cf tablet 1mg |   |
 | 33016 | Glimepiride pch tablet 1mg |   |
 | 33037 | Glimepiride rp tablet 1mg |   |
-| 33051 | Glimepiride merck tablet 1mg |   |
+| 33051 | Glimepiride mylan tablet 1mg |   |
 | Productgroep |   | Maximumprijs |
-| GLIMEPIRIDE-2-MG-TABLET | GLIMEPIRIDE-2-MG-TABLET | 0.13365300 per stuk |
+| GLIMEPIRIDE-2-MG-TABLET | GLIMEPIRIDE-2-MG-TABLET | 0.13740200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 17844 | Amaryl tablet 2mg |   |
 | 32746 | Glimepiride sandoz tablet 2mg |   |
@@ -3810,7 +3963,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 33038 | Glimepiride rp tablet 2mg |   |
 | 33052 | Glimepiride mylan tablet 2mg |   |
 | Productgroep |   | Maximumprijs |
-| GLIMEPIRIDE-3-MG-TABLET | GLIMEPIRIDE-3-MG-TABLET | 0.19499200 per stuk |
+| GLIMEPIRIDE-3-MG-TABLET | GLIMEPIRIDE-3-MG-TABLET | 0.19969000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 17845 | Amaryl tablet 3mg |   |
 | 32747 | Glimepiride sandoz tablet 3mg |   |
@@ -3819,32 +3972,32 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 32854 | Glimepiride cf tablet 3mg |   |
 | 33018 | Glimepiride pch tablet 3mg |   |
 | 33039 | Glimepiride rp tablet 3mg |   |
-| 33053 | Glimepiride merck tablet 3mg |   |
+| 33053 | Glimepiride mylan tablet 3mg |   |
 | 33106 | Glimepiride a tablet 3mg |   |
 | Productgroep |   | Maximumprijs |
-| GLIMEPIRIDE-4-MG-TABLET | GLIMEPIRIDE-4-MG-TABLET | 0.25262900 per stuk |
+| GLIMEPIRIDE-4-MG-TABLET | GLIMEPIRIDE-4-MG-TABLET | 0.26008100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 17846 | Amaryl tablet 4mg |   |
 | 32796 | Glimepiride katwijk tablet 4mg |   |
 | 33019 | Glimepiride pch tablet 4mg |   |
-| 33054 | Glimepiride merck tablet 4mg |   |
+| 33054 | Glimepiride mylan tablet 4mg |   |
 | Productgroep |   | Maximumprijs |
-| GLYCERYL TRINITRATE-18-MG-PLEISTER, DERMAAL | GLYCERYL TRINITRATE-18-MG-PLEISTER, DERMAAL | 0.45976700 per stuk |
+| GLYCERYL TRINITRATE-18-MG-PLEISTER, DERMAAL | GLYCERYL TRINITRATE-18-MG-PLEISTER, DERMAAL | 0.46582400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15864 | Minitran 5 pleister mga 18mg |   |
 | Productgroep |   | Maximumprijs |
-| GLYCERYL TRINITRATE-18.7-MG-PLEISTER, DERMAAL | GLYCERYL TRINITRATE-18.7-MG-PLEISTER, DERMAAL | 0.47143500 per stuk |
+| GLYCERYL TRINITRATE-18.7-MG-PLEISTER, DERMAAL | GLYCERYL TRINITRATE-18.7-MG-PLEISTER, DERMAAL | 0.47856700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 17464 | Deponit t 5 pleister transdermaal 18,7mg |   |
 | 29602/17464 | Deponit 5 pleister transdermaal 18,7mg |   |
 | 30215/17464 | Deponit t 5 pleister transdermaal 18,7mg |   |
 | 31574/17464 | Deponit t 5 pleister transdermaal 18,7mg |   |
 | Productgroep |   | Maximumprijs |
-| GLYCERYL TRINITRATE-36-MG-PLEISTER, DERMAAL | GLYCERYL TRINITRATE-36-MG-PLEISTER, DERMAAL | 0.57188400 per stuk |
+| GLYCERYL TRINITRATE-36-MG-PLEISTER, DERMAAL | GLYCERYL TRINITRATE-36-MG-PLEISTER, DERMAAL | 0.57859300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15865 | Minitran 10 pleister mga 36mg |   |
 | Productgroep |   | Maximumprijs |
-| GLYCERYL TRINITRATE-37.4-MG-PLEISTER, DERMAAL | GLYCERYL TRINITRATE-37.4-MG-PLEISTER, DERMAAL | 0.58499000 per stuk |
+| GLYCERYL TRINITRATE-37.4-MG-PLEISTER, DERMAAL | GLYCERYL TRINITRATE-37.4-MG-PLEISTER, DERMAAL | 0.59284200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 17465 | Deponit t 10 pleister transdermaal 37,4mg |   |
 | 21862/17465 | Deponit t 10 pleister transdermaal 37,4mg |   |
@@ -3853,33 +4006,33 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 30668/17465 | Deponit t 10 pleister transdermaal 37,4mg |   |
 | 31573/17465 | Deponit t 10 pleister transdermaal 37,4mg |   |
 | Productgroep |   | Maximumprijs |
-| GLYCERYL TRINITRATE-40-MG-PLEISTER, DERMAAL | GLYCERYL TRINITRATE-40-MG-PLEISTER, DERMAAL | 0.41594500 per stuk |
+| GLYCERYL TRINITRATE-40-MG-PLEISTER, DERMAAL | GLYCERYL TRINITRATE-40-MG-PLEISTER, DERMAAL | 0.40999800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15987 | Nitro dur 5 pleister 40mg |   |
 | Productgroep |   | Maximumprijs |
-| GLYCERYL TRINITRATE-50-MG-PLEISTER, DERMAAL | GLYCERYL TRINITRATE-50-MG-PLEISTER, DERMAAL | 0.61291200 per stuk |
+| GLYCERYL TRINITRATE-50-MG-PLEISTER, DERMAAL | GLYCERYL TRINITRATE-50-MG-PLEISTER, DERMAAL | 0.61005000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 20964/9673 | Transiderm tts 10 pleister mga 50mg |   |
 | 9673 | Transiderm nitro 10 pleister 50mg |   |
 | Productgroep |   | Maximumprijs |
-| GLYCERYL TRINITRATE-54-MG-PLEISTER, DERMAAL | GLYCERYL TRINITRATE-54-MG-PLEISTER, DERMAAL | 0.66358800 per stuk |
+| GLYCERYL TRINITRATE-54-MG-PLEISTER, DERMAAL | GLYCERYL TRINITRATE-54-MG-PLEISTER, DERMAAL | 0.67345000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15866 | Minitran 15 pleister mga 54mg |   |
 | Productgroep |   | Maximumprijs |
-| GLYCERYL TRINITRATE-80-MG-PLEISTER, DERMAAL | GLYCERYL TRINITRATE-80-MG-PLEISTER, DERMAAL | 0.51506600 per stuk |
+| GLYCERYL TRINITRATE-80-MG-PLEISTER, DERMAAL | GLYCERYL TRINITRATE-80-MG-PLEISTER, DERMAAL | 0.50376500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15988 | Nitro dur 10 pleister 80mg |   |
 | 23196/15988 | Nitro dur 10 pleister 80mg |   |
 | Productgroep |   | Maximumprijs |
-| GRANISETRON-1-MG-TABLET | GRANISETRON-1-MG-TABLET | 5.90489100 per stuk |
+| GRANISETRON-1-MG-TABLET | GRANISETRON-1-MG-TABLET | 6.25597100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 16285 | Kytril tablet 1mg |   |
 | Productgroep |   | Maximumprijs |
-| GRANISETRON-2-MG-TABLET | GRANISETRON-2-MG-TABLET | 11.92050500 per stuk |
+| GRANISETRON-2-MG-TABLET | GRANISETRON-2-MG-TABLET | 12.14307200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 19203 | Kytril tablet 2mg |   |
 | Productgroep |   | Maximumprijs |
-| HALOPERIDOL-1-MG-TABLET | HALOPERIDOL-1-MG-TABLET | 0.02256100 per stuk |
+| HALOPERIDOL-1-MG-TABLET | HALOPERIDOL-1-MG-TABLET | 0.02253200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 22212=55776 | Haloperidol rp tablet 1mg |   |
 | 24409=55776 | Haloperidol sandoz tablet 1mg |   |
@@ -3887,15 +4040,15 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 55776 | Haloperidol cf tablet 1mg |   |
 | 56277 | Haloperidol pch tablet 1mg |   |
 | Productgroep |   | Maximumprijs |
-| HALOPERIDOL-10-MG-TABLET | HALOPERIDOL-10-MG-TABLET | 0.20437200 per stuk |
+| HALOPERIDOL-10-MG-TABLET | HALOPERIDOL-10-MG-TABLET | 0.20753800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 8840 | Haldol tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| HALOPERIDOL-2-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | HALOPERIDOL-2-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.06697100 per ml |
+| HALOPERIDOL-2-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | HALOPERIDOL-2-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.06778800 per ml |
 | Registratienummer | Artikelnaam |   |
 | 3186 | Haldol druppels 2mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| HALOPERIDOL-5-MG-TABLET | HALOPERIDOL-5-MG-TABLET | 0.14452600 per stuk |
+| HALOPERIDOL-5-MG-TABLET | HALOPERIDOL-5-MG-TABLET | 0.14565300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 22213=55601 | Haloperidol rp tablet 5mg |   |
 | 24410=55601 | Haloperidol sandoz tablet 5mg |   |
@@ -3903,26 +4056,26 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 56278 | Haloperidol pch tablet 5mg |   |
 | 7241 | Haldol tablet 5mg |   |
 | Productgroep |   | Maximumprijs |
-| HEPARIN-5000-IE/ML-INJECTIEVLOEISTOF, FLAC | HEPARIN-5000-IE/ML-INJECTIEVLOEISTOF, FLAC | 0.36633800 per ml |
+| HEPARIN-5000-IE/ML-INJECTIEVLOEISTOF, FLAC | HEPARIN-5000-IE/ML-INJECTIEVLOEISTOF, FLAC | 0.40944800 per ml |
 | Registratienummer | Artikelnaam |   |
 | 1372 | Heparine leo injvlst 5.000ie/ml flacon 5ml |   |
 | Productgroep |   | Maximumprijs |
-| HYDROCHLOROTHIAZIDE-12.5-MG-TABLET, MET GEREGULEERDE AFGIFTE-METOPROLOL-100-MG-T | HYDROCHLOROTHIAZIDE-12.5-MG-TABLET, MET GEREGULEERDE AFGIFTE-METOPROLOL-100-MG-T | 0.29740800 per stuk |
+| HYDROCHLOROTHIAZIDE-12.5-MG-TABLET, MET GEREGULEERDE AFGIFTE-METOPROLOL-100-MG-T | HYDROCHLOROTHIAZIDE-12.5-MG-TABLET, MET GEREGULEERDE AFGIFTE-METOPROLOL-100-MG-T | 0.27209800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13648 | Selokomb zoc 100 tablet mga |   |
 | Productgroep |   | Maximumprijs |
-| HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-BISOPROLOL-5-MG-TABLET | HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-BISOPROLOL-5-MG-TABLET | 0.11164900 per stuk |
+| HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-BISOPROLOL-5-MG-TABLET | HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-BISOPROLOL-5-MG-TABLET | 0.10870000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 16200 | Emcoretic tablet 5/12,5mg |   |
 | 33890 | Bisoprololfumaraat/hydrochloorthia pch t 5/12,5mg |   |
 | Productgroep |   | Maximumprijs |
-| HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-CANDESARTAN-16-MG-TABLET | HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-CANDESARTAN-16-MG-TABLET | 0.68790100 per stuk |
+| HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-CANDESARTAN-16-MG-TABLET | HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-CANDESARTAN-16-MG-TABLET | 0.68876900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 24995 | Atacand plus tablet 16/12,5mg |   |
 | 32651/24995 | Candesartan cilexetil/hydrochloorth tabl 16/12,5mg |   |
 | 32929/24995 | Blopresid tablet 16/12,5mg |   |
 | Productgroep |   | Maximumprijs |
-| HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-ENALAPRIL-20-MG-TABLET | HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-ENALAPRIL-20-MG-TABLET | 0.29222400 per stuk |
+| HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-ENALAPRIL-20-MG-TABLET | HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-ENALAPRIL-20-MG-TABLET | 0.31409400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11825 | Corenitec tablet 20/12,5mg |   |
 | 25728 | Enalapril/hydrochloorthiazide sandoz tab 20/12,5mg |   |
@@ -3934,17 +4087,17 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 28614 | Enalapril/hydrochloorthiazide act tabl 20/12,5mg |   |
 | 28684=25728 | Enalapril/hydrochloorthiazide mylan tabl 20/12,5mg |   |
 | Productgroep |   | Maximumprijs |
-| HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-EPROSARTAN-600-MG-TABLET | HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-EPROSARTAN-600-MG-TABLET | 0.66719900 per stuk |
+| HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-EPROSARTAN-600-MG-TABLET | HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-EPROSARTAN-600-MG-TABLET | 0.66298900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 25926 | Teveten plus tablet filmomhuld |   |
 | Productgroep |   | Maximumprijs |
-| HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-FOSINOPRIL-20-MG-TABLET | HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-FOSINOPRIL-20-MG-TABLET | 0.27306000 per stuk |
+| HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-FOSINOPRIL-20-MG-TABLET | HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-FOSINOPRIL-20-MG-TABLET | 0.26927600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 19938 | Diurace tablet |   |
 | 31563 | Fosinopril/hydrochloorthiazide pch tabl 20/12,5mg |   |
 | 33222 | Fosinopril/hydrochloorthiazide act tabl 20/12,5mg |   |
 | Productgroep |   | Maximumprijs |
-| HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-IRBESARTAN-150-MG-TABLET | HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-IRBESARTAN-150-MG-TABLET | 0.63895500 per stuk |
+| HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-IRBESARTAN-150-MG-TABLET | HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-IRBESARTAN-150-MG-TABLET | 0.64228000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/98/086/001 | Coaprovel tablet 150/12,5mg |   |
 | EU/1/98/086/011 | Coaprovel tablet filmomhuld 150/12,5mg |   |
@@ -3953,7 +4106,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | EU/1/98/086/029 | Coaprovel tablet filmomhuld 150/12,5mg |   |
 | EU/1/98/086/032 | Coaprovel tablet filmomhuld 150/12,5mg |   |
 | Productgroep |   | Maximumprijs |
-| HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-IRBESARTAN-300-MG-TABLET | HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-IRBESARTAN-300-MG-TABLET | 0.79883500 per stuk |
+| HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-IRBESARTAN-300-MG-TABLET | HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-IRBESARTAN-300-MG-TABLET | 0.80362700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/98/086/004 | Coaprovel tablet 300/12,5mg |   |
 | EU/1/98/086/017 | Coaprovel tablet filmomhuld 300/12,5mg |   |
@@ -3961,24 +4114,25 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | EU/1/98/086/030 | Coaprovel tablet filmomhuld 300/12,5mg |   |
 | EU/1/98/086/033 | Coaprovel tablet filmomhuld 300/12,5mg |   |
 | Productgroep |   | Maximumprijs |
-| HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-LISINOPRIL-20-MG-TABLET | HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-LISINOPRIL-20-MG-TABLET | 0.22542300 per stuk |
+| HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-LISINOPRIL-20-MG-TABLET | HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-LISINOPRIL-20-MG-TABLET | 0.22736300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13611 | Zestoretic tablet |   |
 | 27891 | Lisinopril/hydrochloorth actavis tabl 20/12,5mg |   |
 | 28302 | Lisinopril/hydrochloorth pch tablet 20/12,5mg |   |
-| 29136 | Lisinopril/hydrochloorth katwijk tablet 20/12,5mg |   |
+| 29136 | Lisinopril/hydrochloorth apotex tablet 20/12,5mg |   |
 | 29670 | Lisinopril/hydrochloorth rp tablet 20/12,5mg |   |
 | 29673 | Lisinopril/hydrochloorth sandoz tablet 20/12,5mg |   |
 | 29994 | Lisinopril/hydrochloorth cf tablet 20/12,5mg |   |
-| 30613 | Lisinopril/hydrochloorth merck tablet 20/12,5mg |   |
+| 30613 | Lisinopril/hydrochloorth mylan tablet 20/12,5mg |   |
 | Productgroep |   | Maximumprijs |
-| HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-LOSARTAN-100-MG-TABLET | HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-LOSARTAN-100-MG-TABLET | 0.86235300 per stuk |
+| HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-LOSARTAN-100-MG-TABLET | HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-LOSARTAN-100-MG-TABLET | 0.84195600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100878/32433 | Kaliumlosartan/hydrochloorthiaz tab omh 100/12,5mg |   |
 | 102053/32433 | Cozaar plus tablet omhuld 100/12,5mg |   |
+| 105053/32433 | Cozaar comp tablet omhuld 100/12,5mg |   |
 | 32433 | Cozaar plus tablet omhuld 100/12,5mg |   |
 | Productgroep |   | Maximumprijs |
-| HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-LOSARTAN-50-MG-TABLET | HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-LOSARTAN-50-MG-TABLET | 0.63159200 per stuk |
+| HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-LOSARTAN-50-MG-TABLET | HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-LOSARTAN-50-MG-TABLET | 0.63215300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 101348/19269 | Cozaar plus tablet omhuld 50/12,5mg |   |
 | 101466/19269 | Hyzaar tablet 50/12,5mg |   |
@@ -3990,11 +4144,11 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 35103/19269 | Hyzaar tablet 50/12,5mg |   |
 | 35217/19269 | Hyzaar tablet 50/12,5mg |   |
 | Productgroep |   | Maximumprijs |
-| HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-OLMESARTAN-20-MG-TABLET | HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-OLMESARTAN-20-MG-TABLET | 0.60549800 per stuk |
+| HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-OLMESARTAN-20-MG-TABLET | HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-OLMESARTAN-20-MG-TABLET | 0.60786900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 32740 | Olmetec hctz tablet filmomhuld 20/12,5mg |   |
 | Productgroep |   | Maximumprijs |
-| HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-QUINAPRIL-20-MG-TABLET | HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-QUINAPRIL-20-MG-TABLET | 0.25227800 per stuk |
+| HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-QUINAPRIL-20-MG-TABLET | HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-QUINAPRIL-20-MG-TABLET | 0.24076400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15835 | Acuzide tablet 20/12,5mg |   |
 | 30297 | Quinapril/hydrochloorthiazide sdz tabl 20/12,5mg |   |
@@ -4002,29 +4156,28 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 31412 | Quinapril/hydrochloorthiazide cf tablet 20/12,5mg |   |
 | 33358 | Quinapril/hydrochloorthiazide pch tabl 20/12,5mg |   |
 | Productgroep |   | Maximumprijs |
-| HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-TELMISARTAN-40-MG-TABLET | HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-TELMISARTAN-40-MG-TABLET | 0.64632000 per stuk |
+| HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-TELMISARTAN-40-MG-TABLET | HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-TELMISARTAN-40-MG-TABLET | 0.64850200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/02/213/002 | Micardisplus tablet 40/12,5mg |   |
 | EU/1/02/214/002 | Kinzalkomb tablet 40/12,5mg |   |
 | Productgroep |   | Maximumprijs |
-| HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-TELMISARTAN-80-MG-TABLET | HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-TELMISARTAN-80-MG-TABLET | 0.77484000 per stuk |
+| HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-TELMISARTAN-80-MG-TABLET | HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-TELMISARTAN-80-MG-TABLET | 0.77250800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/02/213/007 | Micardisplus tablet 80/12,5mg |   |
 | EU/1/02/214/007 | Kinzalkomb tablet 80/12,5mg |   |
 | Productgroep |   | Maximumprijs |
-| HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-VALSARTAN-160-MG-TABLET | HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-VALSARTAN-160-MG-TABLET | 0.79945600 per stuk |
+| HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-VALSARTAN-160-MG-TABLET | HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-VALSARTAN-160-MG-TABLET | 0.80973800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 103636/29491 | Codiovan tablet omhuld 160/12,5mg |   |
 | 29491 | Codiovan tablet omhuld 160/12,5mg |   |
 | 31423/29491 | Cotareg tablet omhuld 160/12,5mg |   |
-| 31544/29491 | Cotareg tablet omhuld 160/12,5mg |   |
 | 31995/29491 | Codiovan tablet omhuld 160/12,5mg |   |
 | 32134/29491 | Codiovan tablet omhuld 160/12,5mg |   |
 | 32298/29491 | Codiovan tablet omhuld 160/12,5mg |   |
 | 32891/29491 | Cotareg tablet omhuld 160/12,5mg |   |
 | 33208/29491 | Valsartan/hydrochloorthiazide tabl omh 160/12,5mg |   |
 | Productgroep |   | Maximumprijs |
-| HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-VALSARTAN-80-MG-TABLET | HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-VALSARTAN-80-MG-TABLET | 0.62393500 per stuk |
+| HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-VALSARTAN-80-MG-TABLET | HYDROCHLOROTHIAZIDE-12.5-MG-TABLET-VALSARTAN-80-MG-TABLET | 0.63150100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100626/22365 | Valsartan/hydrochloorthiazide tab omh 80/12,5mg |   |
 | 103109/22365 | Codiovan tablet omhuld 80/12,5mg |   |
@@ -4033,30 +4186,31 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 32889/22365 | Cotareg tablet omhuld 80/12,5mg |   |
 | 34288/22365 | Cotareg tablet omhuld 80/12,5mg |   |
 | Productgroep |   | Maximumprijs |
-| HYDROCHLOROTHIAZIDE-25-MG-TABLET | HYDROCHLOROTHIAZIDE-25-MG-TABLET | 0.05671100 per stuk |
+| HYDROCHLOROTHIAZIDE-25-MG-TABLET | HYDROCHLOROTHIAZIDE-25-MG-TABLET | 0.05459800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 19040=9640 | Hydrochloorthiazide actavis tablet 25mg |   |
-| 21777=9640 | Hydrochloorthiazide katwijk tablet 25mg |   |
+| 21777=9640 | Hydrochloorthiazide apotex tablet 25mg |   |
 | 24071=52650 | Hydrochloorthiazide sandoz tablet 25mg |   |
 | 26806=50726 | Hydrochloorthiazide mylan tablet 25mg |   |
-| 26806=50726 | Hydrochloorthiazide merck tablet 25mg |   |
 | 27965=50726 | Hydrochloorthiazide a tablet 25mg |   |
 | 50726 | Hydrochloorthiazide cf tablet 25mg |   |
 | 52650 | Hydrochloorthiazide rp tablet 25mg |   |
 | 9640 | Hydrochloorthiazide pch tablet 25mg |   |
 | Productgroep |   | Maximumprijs |
-| HYDROCHLOROTHIAZIDE-25-MG-TABLET-AMILORIDE-2.5-MG-TABLET | HYDROCHLOROTHIAZIDE-25-MG-TABLET-AMILORIDE-2.5-MG-TABLET | 0.06834500 per stuk |
+| HYDROCHLOROTHIAZIDE-25-MG-TABLET-AMILORIDE-2.5-MG-TABLET | HYDROCHLOROTHIAZIDE-25-MG-TABLET-AMILORIDE-2.5-MG-TABLET | 0.07225000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11803 | Amiloride hcl/hydrochloorthiazide pch tab 2,5/25mg |   |
 | 57527 | Amiloride hcl/hydrochloorthiazide sdz tab 2,5/25mg |   |
 | Productgroep |   | Maximumprijs |
-| HYDROCHLOROTHIAZIDE-25-MG-TABLET-BISOPROLOL-10-MG-TABLET | HYDROCHLOROTHIAZIDE-25-MG-TABLET-BISOPROLOL-10-MG-TABLET | 0.19874300 per stuk |
+| HYDROCHLOROTHIAZIDE-25-MG-TABLET-BISOPROLOL-10-MG-TABLET | HYDROCHLOROTHIAZIDE-25-MG-TABLET-BISOPROLOL-10-MG-TABLET | 0.19354700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 16201 | Emcoretic tablet 10/25mg |   |
+| 29881 | Bisoprololfumaraat/hydrochloorthia cf ta 10/25mg |   |
+| 33891 | Bisoprololfumaraat/hydrochloorthia pch t 10/25mg |   |
 | Productgroep |   | Maximumprijs |
-| HYDROCHLOROTHIAZIDE-25-MG-TABLET-CAPTOPRIL-50-MG-TABLET | HYDROCHLOROTHIAZIDE-25-MG-TABLET-CAPTOPRIL-50-MG-TABLET | 0.28219500 per stuk |
+| HYDROCHLOROTHIAZIDE-25-MG-TABLET-CAPTOPRIL-50-MG-TABLET | HYDROCHLOROTHIAZIDE-25-MG-TABLET-CAPTOPRIL-50-MG-TABLET | 0.23634200 per stuk |
 | Registratienummer | Artikelnaam |   |
-| 23512 | Captopril/hydrochloorthiazide katw tablet 50/25mg |   |
+| 23512 | Captopril/hydrochloorthiazide apot tablet 50/25mg |   |
 | 23698 | Captopril/hydrochloorthiazide sandoz tabl 50/25mg |   |
 | 23922 | Captopril/hydrochloorthiazide rp tablet 50/25mg |   |
 | 24539 | Captopril/hydrochloorthiazide mylan tablet 50/25mg |   |
@@ -4064,13 +4218,13 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 27119 | Captopril/hydrochloorthiazide actav tablet 50/25mg |   |
 | 27608=23512 | Captopril/hydrochloorthiazide pch tablet 50/25mg |   |
 | Productgroep |   | Maximumprijs |
-| HYDROCHLOROTHIAZIDE-25-MG-TABLET-IRBESARTAN-300-MG-TABLET | HYDROCHLOROTHIAZIDE-25-MG-TABLET-IRBESARTAN-300-MG-TABLET | 0.82371300 per stuk |
+| HYDROCHLOROTHIAZIDE-25-MG-TABLET-IRBESARTAN-300-MG-TABLET | HYDROCHLOROTHIAZIDE-25-MG-TABLET-IRBESARTAN-300-MG-TABLET | 0.82784700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/98/086/024 | Coaprovel tablet filmomhuld 300/25mg |   |
 | EU/1/98/086/031 | Coaprovel tablet filmomhuld 300/25mg |   |
 | EU/1/98/086/034 | Coaprovel tablet filmomhuld 300/25mg |   |
 | Productgroep |   | Maximumprijs |
-| HYDROCHLOROTHIAZIDE-25-MG-TABLET-LOSARTAN-100-MG-TABLET | HYDROCHLOROTHIAZIDE-25-MG-TABLET-LOSARTAN-100-MG-TABLET | 0.94998600 per stuk |
+| HYDROCHLOROTHIAZIDE-25-MG-TABLET-LOSARTAN-100-MG-TABLET | HYDROCHLOROTHIAZIDE-25-MG-TABLET-LOSARTAN-100-MG-TABLET | 0.94722000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 23597 | Fortzaar tablet omhuld 100/25mg |   |
 | 30275/23597 | Forzaar tablet omhuld 100/25mg |   |
@@ -4083,47 +4237,48 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 33962/23597 | Fortzaar tablet omhuld 100/25mg |   |
 | 34601/23597 | Forzaar tablet omhuld 100/25mg |   |
 | Productgroep |   | Maximumprijs |
-| HYDROCHLOROTHIAZIDE-25-MG-TABLET-OLMESARTAN-20-MG-TABLET | HYDROCHLOROTHIAZIDE-25-MG-TABLET-OLMESARTAN-20-MG-TABLET | 0.63394200 per stuk |
+| HYDROCHLOROTHIAZIDE-25-MG-TABLET-OLMESARTAN-20-MG-TABLET | HYDROCHLOROTHIAZIDE-25-MG-TABLET-OLMESARTAN-20-MG-TABLET | 0.63748100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 32741 | Olmetec hctz tablet filmomhuld 20/25mg |   |
 | Productgroep |   | Maximumprijs |
-| HYDROCHLOROTHIAZIDE-25-MG-TABLET-RAMIPRIL-5-MG-TABLET | HYDROCHLOROTHIAZIDE-25-MG-TABLET-RAMIPRIL-5-MG-TABLET | 0.18100200 per stuk |
+| HYDROCHLOROTHIAZIDE-25-MG-TABLET-RAMIPRIL-5-MG-TABLET | HYDROCHLOROTHIAZIDE-25-MG-TABLET-RAMIPRIL-5-MG-TABLET | 0.17556500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15551 | Tritazide tablet 5/25mg |   |
 | 30085 | Ramipril/hydrochloorthiazide sandoz tablet 5/25mg |   |
 | 33095 | Ramipril/hydrochloorthiazide pch tablet 5/25mg |   |
+| 35319 | Ramipril/hydrochloorthiazide actavis tablet 5/25mg |   |
 | Productgroep |   | Maximumprijs |
-| HYDROCHLOROTHIAZIDE-25-MG-TABLET-TELMISARTAN-80-MG-TABLET | HYDROCHLOROTHIAZIDE-25-MG-TABLET-TELMISARTAN-80-MG-TABLET | 0.80583900 per stuk |
+| HYDROCHLOROTHIAZIDE-25-MG-TABLET-TELMISARTAN-80-MG-TABLET | HYDROCHLOROTHIAZIDE-25-MG-TABLET-TELMISARTAN-80-MG-TABLET | 0.81116700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/02/213/018 | Micardisplus tablet 80/25mg |   |
 | Productgroep |   | Maximumprijs |
-| HYDROCHLOROTHIAZIDE-25-MG-TABLET-TRIAMTERENE-50-MG-TABLET | HYDROCHLOROTHIAZIDE-25-MG-TABLET-TRIAMTERENE-50-MG-TABLET | 0.07002900 per stuk |
+| HYDROCHLOROTHIAZIDE-25-MG-TABLET-TRIAMTERENE-50-MG-TABLET | HYDROCHLOROTHIAZIDE-25-MG-TABLET-TRIAMTERENE-50-MG-TABLET | 0.07042000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10159 | Triamtereen/hydrochloorthiazide pch tabl 50/25mg |   |
 | 20332=56624 | Triamtereen/hydrochloorthiazide a tabl 50/25mg |   |
 | 29039=56658 | Triamtereen/hydrochloorthiazide sandoz tab 50/25mg |   |
 | 55632 | Triamtereen/hydrochloorthiazide cf tablet 50/25mg |   |
 | 56624 | Triamtereen/hydrochloorthiazide rp tablet 50/25mg |   |
+| 56658 | Triamtereen/hydrochloorthiazide apotex tabl 50/25 |   |
 | 56658 | Triamtereen/hydrochloorthiazide katwijk tabl 50/25 |   |
 | 57418 | Triamtereen/hydrochloorthiazide mylan tabl 50/25mg |   |
 | 7104 | Dytenzide tablet |   |
 | 9831=7104 | Triamtereen/hydrochloorthiazide of tablet 50/25mg |   |
 | Productgroep |   | Maximumprijs |
-| HYDROCHLOROTHIAZIDE-25-MG-TABLET-VALSARTAN-160-MG-TABLET | HYDROCHLOROTHIAZIDE-25-MG-TABLET-VALSARTAN-160-MG-TABLET | 0.83210000 per stuk |
+| HYDROCHLOROTHIAZIDE-25-MG-TABLET-VALSARTAN-160-MG-TABLET | HYDROCHLOROTHIAZIDE-25-MG-TABLET-VALSARTAN-160-MG-TABLET | 0.84238100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 101990/31122 | Valsartan/hydrochloorthiazide tabl omh 160/25mg |   |
 | 103389/31122 | Codiovan tablet omhuld 160/25mg |   |
 | 103635/31122 | Codiovan tablet omhuld 160/25mg |   |
 | 104462/31122 | Valsartan/hydrochloorthiazide tabl omh 160/25mg |   |
 | 31122 | Codiovan tablet omhuld 160/25mg |   |
-| 33005/31122 | Cotareg tablet omhuld 160/25mg |   |
 | 33125/31122 | Cotareg tablet omhuld 160/25mg |   |
 | 33379/31122 | Valsartan/hydrochloorthiazide tabl omh 160/25mg |   |
 | 33725/31122 | Cotareg tablet omhuld 160/25mg |   |
 | 34471/31122 | Cotareg tablet omhuld 160/25mg |   |
 | 34505/31122 | Codiovan tablet omhuld 160/25mg |   |
 | Productgroep |   | Maximumprijs |
-| HYDROCHLOROTHIAZIDE-50-MG-TABLET-AMILORIDE-5-MG-TABLET | HYDROCHLOROTHIAZIDE-50-MG-TABLET-AMILORIDE-5-MG-TABLET | 0.05047300 per stuk |
+| HYDROCHLOROTHIAZIDE-50-MG-TABLET-AMILORIDE-5-MG-TABLET | HYDROCHLOROTHIAZIDE-50-MG-TABLET-AMILORIDE-5-MG-TABLET | 0.05092100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11095 | Amiloride hcl/hydrochloorthiazide rp tablet 5/50mg |   |
 | 11128 | Amiloride comp cf tablet 5/50mg |   |
@@ -4131,13 +4286,11 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 20254=19047 | Amiloride hcl/hydrochloorthiazide a tablet 5/50mg |   |
 | 24024 | Amiloridi hcl/hydrochlorothiazidum 5/50mg tablet |   |
 | 24084=11095 | Amiloride hcl/hydrochloorthiazide mylan tab 5/50mg |   |
-| 24084=11095 | Amiloride hcl/hydrochloorthiazide merck tab 5/50mg |   |
 | 25714=11128 | Amiloride hcl/hydrochloorthiazide act tabl 5/50mg |   |
 | 57528 | Amiloride hcl/hydrochloorthiazide sdz tabl 5/50mg |   |
-| 57560 | Amiloride hcl/hydrochloorthiazide katw tabl 5/50mg |   |
-| 5857 | Moduretic tablet |   |
+| 57560 | Amiloride hcl/hydrochloorthiazide apotex tb 5/50mg |   |
 | Productgroep |   | Maximumprijs |
-| HYDROCORTISONE-1-MG/G-CREME, CUTAAN | HYDROCORTISONE-1-MG/G-CREME, CUTAAN | 0.12153500 per g |
+| HYDROCORTISONE-1-MG/G-CREME, CUTAAN | HYDROCORTISONE-1-MG/G-CREME, CUTAAN | 0.12105000 per g |
 | Registratienummer | Artikelnaam |   |
 | 15680/5911 | Locoid creme 1mg/g |   |
 | 15680/5911 | Locoid hydrofiele creme 0,1% |   |
@@ -4149,20 +4302,20 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 5911 | Locoid creme 1mg/g |   |
 | 9344 | Locoid vetcreme 1mg/g |   |
 | Productgroep |   | Maximumprijs |
-| HYDROCORTISONE-1-MG/G-ZALF, CUTAAN | HYDROCORTISONE-1-MG/G-ZALF, CUTAAN | 0.10549300 per g |
+| HYDROCORTISONE-1-MG/G-ZALF, CUTAAN | HYDROCORTISONE-1-MG/G-ZALF, CUTAAN | 0.10361200 per g |
 | Registratienummer | Artikelnaam |   |
 | 5909 | Locoid oleogel 1mg/g |   |
 | Productgroep |   | Maximumprijs |
-| HYDROCORTISONE-1-MG/ML-APPLICATIEVLOEISTOF, VOOR CUTAAN GEBRUIK | HYDROCORTISONE-1-MG/ML-APPLICATIEVLOEISTOF, VOOR CUTAAN GEBRUIK | 0.11316200 per ml |
+| HYDROCORTISONE-1-MG/ML-APPLICATIEVLOEISTOF, VOOR CUTAAN GEBRUIK | HYDROCORTISONE-1-MG/ML-APPLICATIEVLOEISTOF, VOOR CUTAAN GEBRUIK | 0.11170500 per ml |
 | Registratienummer | Artikelnaam |   |
 | 28061/5910 | Locoid scalp lotion 1mg/ml |   |
 | 5910 | Locoid scalp lotion 1mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| HYDROCORTISONE-1-MG/ML-SMEERSEL/EMULSIE, ALS DERMATICUM | HYDROCORTISONE-1-MG/ML-SMEERSEL/EMULSIE, ALS DERMATICUM | 0.10322600 per g |
+| HYDROCORTISONE-1-MG/ML-SMEERSEL/EMULSIE, ALS DERMATICUM | HYDROCORTISONE-1-MG/ML-SMEERSEL/EMULSIE, ALS DERMATICUM | 0.10001500 per g |
 | Registratienummer | Artikelnaam |   |
 | 16163 | Locoid crelo huidemulsie 1mg/g |   |
 | Productgroep |   | Maximumprijs |
-| HYDROCORTISONE-10-MG/G-CREME, CUTAAN-MICONAZOLE-20-MG/G-CREME, CUTAAN | HYDROCORTISONE-10-MG/G-CREME, CUTAAN-MICONAZOLE-20-MG/G-CREME, CUTAAN | 0.09716000 per g |
+| HYDROCORTISONE-10-MG/G-CREME, CUTAAN-MICONAZOLE-20-MG/G-CREME, CUTAAN | HYDROCORTISONE-10-MG/G-CREME, CUTAAN-MICONAZOLE-20-MG/G-CREME, CUTAAN | 0.09787500 per g |
 | Registratienummer | Artikelnaam |   |
 | 15469 | Miconazolnitraat/hydroc pch hydrof creme 20/10mg/g |   |
 | 20410 | Miconazolnitraat/hydroc rp hydrof creme 20/10mg/g |   |
@@ -4175,51 +4328,51 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 28998=20410 | Miconazolnitraat/hydroc mer hydrof creme 20/10mg/g |   |
 | 7342 | Daktacort creme |   |
 | Productgroep |   | Maximumprijs |
-| HYDROCORTISONE-20-MG-TABLET | HYDROCORTISONE-20-MG-TABLET | 0.74763100 per stuk |
+| HYDROCORTISONE-20-MG-TABLET | HYDROCORTISONE-20-MG-TABLET | 0.98094000 per stuk |
 | Registratienummer | Artikelnaam |   |
-| 50730 | Hydrocortison cf tablet 20mg |   |
 | 50730 | Hydrocortisonum tablet 20mg |   |
+| 50730 | Hydrocortison cf tablet 20mg |   |
 | 52495 | Hydrocortison rp tablet 20mg |   |
 | Productgroep |   | Maximumprijs |
-| HYDROMORPHONE-16-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | HYDROMORPHONE-16-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 3.11283000 per stuk |
+| HYDROMORPHONE-16-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | HYDROMORPHONE-16-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 3.35537500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 22164 | Palladon sr capsule mga 16mg |   |
 | Productgroep |   | Maximumprijs |
-| HYDROMORPHONE-24-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | HYDROMORPHONE-24-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 4.48784300 per stuk |
+| HYDROMORPHONE-24-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | HYDROMORPHONE-24-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 4.85384300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 22165 | Palladon sr capsule mga 24mg |   |
 | Productgroep |   | Maximumprijs |
-| HYDROMORPHONE-4-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | HYDROMORPHONE-4-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.83157500 per stuk |
+| HYDROMORPHONE-4-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | HYDROMORPHONE-4-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.89298700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 22162 | Palladon sr capsule mga 4mg |   |
 | Productgroep |   | Maximumprijs |
-| HYDROMORPHONE-8-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | HYDROMORPHONE-8-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 1.61692900 per stuk |
+| HYDROMORPHONE-8-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | HYDROMORPHONE-8-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 1.73870000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 22163 | Palladon sr capsule mga 8mg |   |
 | Productgroep |   | Maximumprijs |
-| HYDROXYCARBAMIDE-500-MG-CAPSULE | HYDROXYCARBAMIDE-500-MG-CAPSULE | 0.50308000 per stuk |
+| HYDROXYCARBAMIDE-500-MG-CAPSULE | HYDROXYCARBAMIDE-500-MG-CAPSULE | 0.50536300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 6387 | Hydrea capsule 500mg |   |
 | Productgroep |   | Maximumprijs |
-| HYDROXYZINE-2-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | HYDROXYZINE-2-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.01412500 per ml |
+| HYDROXYZINE-2-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | HYDROXYZINE-2-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.01426500 per ml |
 | Registratienummer | Artikelnaam |   |
 | 1218 | Atarax stroop 0,2% |   |
 | Productgroep |   | Maximumprijs |
-| HYDROXYZINE-25-MG-TABLET | HYDROXYZINE-25-MG-TABLET | 0.09982900 per stuk |
+| HYDROXYZINE-25-MG-TABLET | HYDROXYZINE-25-MG-TABLET | 0.10053700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 1216 | Atarax tablet omhuld 25mg |   |
 | 50110 | Hydroxyzini hcl tablet omhuld 25mg |   |
 | Productgroep |   | Maximumprijs |
-| HYPROMELLOSE-3-MG/ML-OOGDRUPPELS UNITDOSE | HYPROMELLOSE-3-MG/ML-OOGDRUPPELS UNITDOSE | 0.42897000 per ml |
+| HYPROMELLOSE-3-MG/ML-OOGDRUPPELS UNITDOSE | HYPROMELLOSE-3-MG/ML-OOGDRUPPELS UNITDOSE | 0.46139100 per ml |
 | Registratienummer | Artikelnaam |   |
 | 19924 | Monofree hypromellose oogdr 3mg/ml minim 0,4ml |   |
 | Productgroep |   | Maximumprijs |
-| IBANDRONATE-150-MG-TABLET | IBANDRONATE-150-MG-TABLET | 26.75449100 per stuk |
+| IBANDRONATE-150-MG-TABLET | IBANDRONATE-150-MG-TABLET | 26.99608500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/03/265/003 | Bonviva tablet filmomhuld 150mg |   |
 | EU/1/03/265/004 | Bonviva tablet filmomhuld 150mg |   |
 | Productgroep |   | Maximumprijs |
-| IBUPROFEN-600-MG-TABLET | IBUPROFEN-600-MG-TABLET | 0.08876000 per stuk |
+| IBUPROFEN-600-MG-TABLET | IBUPROFEN-600-MG-TABLET | 0.08689800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10895 | Ibuprofen pch tablet 600mg |   |
 | 13907 | Ibuprofen rp tablet 600mg |   |
@@ -4228,72 +4381,79 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 23428 | Ibuprofen sandoz tablet 600mg |   |
 | 23735 | Ibuprofenum tablet 600mg |   |
 | 25755=18545 | Ibuprofen a tablet 600mg |   |
-| 25937 | Ibuprofen merck tablet omhuld 600mg |   |
+| 25937 | Ibuprofen mylan tablet omhuld 600mg |   |
 | 56004 | Ibuprofen cf tablet 600mg |   |
+| 56775 | Ibuprofen apotex tablet omhuld 600mg |   |
 | 56775 | Ibuprofen tablet 600mg fc |   |
 | Productgroep |   | Maximumprijs |
-| IBUPROFEN-800-MG-TABLET, MET GEREGULEERDE AFGIFTE | IBUPROFEN-800-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.14068900 per stuk |
+| IBUPROFEN-800-MG-TABLET, MET GEREGULEERDE AFGIFTE | IBUPROFEN-800-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.14302900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13478 | Brufen retard tablet mga 800mg |   |
 | Productgroep |   | Maximumprijs |
-| ILOPROST-.01-MG/ML-INHALATIEVLOEISTOF UNITDOSE | ILOPROST-.01-MG/ML-INHALATIEVLOEISTOF UNITDOSE | 14.72466000 per ml |
+| ILOPROST-.01-MG/ML-INHALATIEVLOEISTOF UNITDOSE | ILOPROST-.01-MG/ML-INHALATIEVLOEISTOF UNITDOSE | 15.63726700 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/03/255/004 | Ventavis verneveloplossing 10mcg/ml ampul 1ml |   |
 | EU/1/03/255/005 | Ventavis verneveloplossing 10mcg/ml ampul 1ml |   |
 | Productgroep |   | Maximumprijs |
-| IMATINIB-100-MG-TABLET | IMATINIB-100-MG-TABLET | 20.03903600 per stuk |
+| IMATINIB-100-MG-TABLET | IMATINIB-100-MG-TABLET | 20.32527500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/01/198/008 | Glivec tablet filmomhuld 100mg |   |
 | Productgroep |   | Maximumprijs |
-| IMATINIB-400-MG-TABLET | IMATINIB-400-MG-TABLET | 79.00648100 per stuk |
+| IMATINIB-400-MG-TABLET | IMATINIB-400-MG-TABLET | 79.84184000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/01/198/010 | Glivec tablet filmomhuld 400mg |   |
 | Productgroep |   | Maximumprijs |
-| IMIPRAMINE-10-MG-TABLET | IMIPRAMINE-10-MG-TABLET | 0.03100800 per stuk |
+| IMIPRAMINE-10-MG-TABLET | IMIPRAMINE-10-MG-TABLET | 0.03369600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 24831=50113 | Imipramine hcl pch omhulde tablet 10mg |   |
 | 25466=50113 | Imipramine hcl rp dragee 10mg |   |
 | 50113 | Imipramine hcl cf omhulde tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| IMIPRAMINE-25-MG-TABLET | IMIPRAMINE-25-MG-TABLET | 0.04570800 per stuk |
+| IMIPRAMINE-25-MG-TABLET | IMIPRAMINE-25-MG-TABLET | 0.04764200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 24832=50116 | Imipramine hcl pch omhulde tablet 25mg |   |
 | 50116 | Imipramine hcl cf dragee 25mg |   |
 | 50117 | Imipramine hcl rp dragee 25mg |   |
 | Productgroep |   | Maximumprijs |
-| IMIQUIMOD-50-MG/G-CREME, CUTAAN | IMIQUIMOD-50-MG/G-CREME, CUTAAN | 21.91317800 per g |
+| IMIQUIMOD-50-MG/G-CREME, CUTAAN | IMIQUIMOD-50-MG/G-CREME, CUTAAN | 22.18068400 per g |
 | Registratienummer | Artikelnaam |   |
 | EU/1/98/080/001 | Aldara creme 50mg/g in sachet |   |
 | Productgroep |   | Maximumprijs |
-| INDAPAMIDE-1.25-MG-TABLET-PERINDOPRIL-5-MG-TABLET | INDAPAMIDE-1.25-MG-TABLET-PERINDOPRIL-5-MG-TABLET | 0.62637800 per stuk |
+| INDAPAMIDE-1.25-MG-TABLET-PERINDOPRIL-4-MG-TABLET | INDAPAMIDE-1.25-MG-TABLET-PERINDOPRIL-4-MG-TABLET | 0.54284600 per stuk |
+| Registratienummer | Artikelnaam |   |
+| 33838/22912 | Perindopril tert-butyl/indapamide tablet 4/1,25mg |   |
+| Productgroep |   | Maximumprijs |
+| INDAPAMIDE-1.25-MG-TABLET-PERINDOPRIL-5-MG-TABLET | INDAPAMIDE-1.25-MG-TABLET-PERINDOPRIL-5-MG-TABLET | 0.59603700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 103776/33663 | Coversyl plus arg tablet filmomhuld 5/1,25mg |   |
+| 104883/33663 | Coversyl plus arg tablet filmomhuld 5/1,25mg |   |
+| 105576/33663 | Perindopril arg/indapamide fisher tabl fo 5/1,25mg |   |
 | 33663 | Coversyl plus arg tablet filmomhuld 5/1,25mg |   |
 | Productgroep |   | Maximumprijs |
-| INDAPAMIDE-2.5-MG-TABLET | INDAPAMIDE-2.5-MG-TABLET | 0.15937100 per stuk |
+| INDAPAMIDE-2.5-MG-TABLET | INDAPAMIDE-2.5-MG-TABLET | 0.16851500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15740=57417 | Indapamide pch dragee 2,5mg |   |
 | 57417 | Indapamide cf dragee 2,5mg |   |
 | 6787 | Fludex tablet 2,5mg |   |
 | Productgroep |   | Maximumprijs |
-| INDINAVIR-400-MG-CAPSULE | INDINAVIR-400-MG-CAPSULE | 1.52733400 per stuk |
+| INDINAVIR-400-MG-CAPSULE | INDINAVIR-400-MG-CAPSULE | 1.48682300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/96/024/005 | Crixivan capsule 400mg |   |
 | Productgroep |   | Maximumprijs |
-| INDOMETACIN-1-MG/ML-OOGDRUPPELS | INDOMETACIN-1-MG/ML-OOGDRUPPELS | 1.00278800 per ml |
+| INDOMETACIN-1-MG/ML-OOGDRUPPELS | INDOMETACIN-1-MG/ML-OOGDRUPPELS | 1.00018400 per ml |
 | Registratienummer | Artikelnaam |   |
 | 16363 | Indocollyre oogdruppels 1mg/ml flacon 5ml |   |
 | Productgroep |   | Maximumprijs |
-| INDOMETACIN-100-MG-ZETPIL | INDOMETACIN-100-MG-ZETPIL | 0.70781900 per stuk |
+| INDOMETACIN-100-MG-ZETPIL | INDOMETACIN-100-MG-ZETPIL | 0.75077800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10215 | Indometacine sandoz zetpil 100mg |   |
+| 16522 | Indometacine apotex zetpil 100mg |   |
 | 16522 | Indometacine zetpil 100mg |   |
 | 24260=57083 | Indometacine rp zetpil 100mg |   |
-| 5046 | Indocid zetpil 100mg |   |
 | 55712 | Indometacine cf zetpil 100mg |   |
 | 57083 | Indometacine pch zetpil 100mg |   |
 | Productgroep |   | Maximumprijs |
-| INDOMETACIN-25-MG-CAPSULE | INDOMETACIN-25-MG-CAPSULE | 0.04791500 per stuk |
+| INDOMETACIN-25-MG-CAPSULE | INDOMETACIN-25-MG-CAPSULE | 0.04926300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10939 | Indometacine rp capsule 25mg |   |
 | 20306=10939 | Indometacine a capsule 25mg |   |
@@ -4302,7 +4462,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 55652 | Indometacine cf capsule 25mg |   |
 | 56270 | Indometacine pch capsule 25mg |   |
 | Productgroep |   | Maximumprijs |
-| INDOMETACIN-50-MG-CAPSULE | INDOMETACIN-50-MG-CAPSULE | 0.06580100 per stuk |
+| INDOMETACIN-50-MG-CAPSULE | INDOMETACIN-50-MG-CAPSULE | 0.06537500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10940 | Indometacine rp capsule 50mg |   |
 | 20307=10940 | Indometacine a capsule 50mg |   |
@@ -4311,7 +4471,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 56271 | Indometacine pch capsule 50mg |   |
 | 5794 | Indocid forte capsule 50mg |   |
 | Productgroep |   | Maximumprijs |
-| INDOMETACIN-50-MG-ZETPIL | INDOMETACIN-50-MG-ZETPIL | 0.12905200 per stuk |
+| INDOMETACIN-50-MG-ZETPIL | INDOMETACIN-50-MG-ZETPIL | 0.12880100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10428 | Indometacine sandoz zetpil 50mg |   |
 | 16521 | Indometacine zetpil 50mg |   |
@@ -4319,168 +4479,157 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 55879 | Indometacine cf zetpil 50mg |   |
 | 57082 | Indometacine pch zetpil 50mg |   |
 | Productgroep |   | Maximumprijs |
-| INDOMETACIN-75-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | INDOMETACIN-75-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.14455200 per stuk |
+| INDOMETACIN-75-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | INDOMETACIN-75-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.14878100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10809 | Indometacine rp capsule mga 75mg |   |
 | 20308=10809 | Indometacine a retard capsule mga 75mg |   |
 | 7436 | Indocid retard capsule 75mg |   |
 | Productgroep |   | Maximumprijs |
-| INFLIXIMAB-100-MG-POED. V. INFUSIE,FLACON | INFLIXIMAB-100-MG-POED. V. INFUSIE,FLACON | 615.36891100 per stuk |
+| INFLIXIMAB-100-MG-POED. V. INFUSIE,FLACON | INFLIXIMAB-100-MG-POED. V. INFUSIE,FLACON | 647.08246100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/99/116/001 | Remicade infusiepoeder flacon 100mg |   |
 | Productgroep |   | Maximumprijs |
-| INSULINS, ASPART-30-IE/ML-INJ.VLOEISTOF PATR-INSULINS, ASPART INTERM-70-IE/ML-IN | INSULINS, ASPART-30-IE/ML-INJ.VLOEISTOF PATR-INSULINS, ASPART INTERM-70-IE/ML-IN | 2.39064500 per ml |
+| INSULINS, ASPART-30-IE/ML-INJ.VLOEISTOF PATR-INSULINS, ASPART INTERM-70-IE/ML-IN | INSULINS, ASPART-30-IE/ML-INJ.VLOEISTOF PATR-INSULINS, ASPART INTERM-70-IE/ML-IN | 2.42707500 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/00/142/004 | Novomix 30 penfill inj 100e/ml patroon 3ml |   |
 | Productgroep |   | Maximumprijs |
-| INSULINS, ASPART-30-IE/ML-INJ.VLOEISTOF WWSP-INSULINS, ASPART INTERM-70-IE/ML-IN | INSULINS, ASPART-30-IE/ML-INJ.VLOEISTOF WWSP-INSULINS, ASPART INTERM-70-IE/ML-IN | 2.64712900 per ml |
+| INSULINS, ASPART-30-IE/ML-INJ.VLOEISTOF WWSP-INSULINS, ASPART INTERM-70-IE/ML-IN | INSULINS, ASPART-30-IE/ML-INJ.VLOEISTOF WWSP-INSULINS, ASPART INTERM-70-IE/ML-IN | 2.69002000 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/00/142/009 | Novomix 30 flexpen inj 100e/ml wwsp 3ml |   |
 | Productgroep |   | Maximumprijs |
-| INSULINS, DETEMIR-100-IE/ML-INJ.VLOEISTOF PATR | INSULINS, DETEMIR-100-IE/ML-INJ.VLOEISTOF PATR | 3.66011400 per ml |
+| INSULINS, DETEMIR-100-IE/ML-INJ.VLOEISTOF PATR | INSULINS, DETEMIR-100-IE/ML-INJ.VLOEISTOF PATR | 3.70389900 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/04/278/002 | Levemir penfill inj 100e/ml patroon 3ml |   |
 | Productgroep |   | Maximumprijs |
-| INSULINS, DETEMIR-100-IE/ML-INJ.VLOEISTOF WWSP | INSULINS, DETEMIR-100-IE/ML-INJ.VLOEISTOF WWSP | 3.74119800 per ml |
+| INSULINS, DETEMIR-100-IE/ML-INJ.VLOEISTOF WWSP | INSULINS, DETEMIR-100-IE/ML-INJ.VLOEISTOF WWSP | 3.78646900 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/04/278/005 | Levemir flexpen inj 100e/ml wwsp 3ml |   |
 | EU/1/04/278/008 | Levemir innolet inj 100e/ml wwsp 3ml |   |
-| Productgroep |   | Maximumprijs |
-| INSULINS, FAST-ACTING-10-IE/ML-INJ.VLOEISTOF PATR-INSULINS, INTERMEDIATE-ACTING- | INSULINS, FAST-ACTING-10-IE/ML-INJ.VLOEISTOF PATR-INSULINS, INTERMEDIATE-ACTING- | 2.01250000 per ml |
-| Registratienummer | Artikelnaam |   |
-| EU/1/02/231/006 | Mixtard 10 penfill 100ie/ml patroon 3ml |   |
-| Productgroep |   | Maximumprijs |
-| INSULINS, FAST-ACTING-10-IE/ML-INJ.VLOEISTOF WWSP-INSULINS, INTERMEDIATE-ACTING- | INSULINS, FAST-ACTING-10-IE/ML-INJ.VLOEISTOF WWSP-INSULINS, INTERMEDIATE-ACTING- | 2.16400000 per ml |
-| Registratienummer | Artikelnaam |   |
-| EU/1/02/231/020 | Mixtard 10 novolet 100ie/ml wwsp 3ml |   |
 | Productgroep |   | Maximumprijs |
 | INSULINS, FAST-ACTING-100-IE/ML-INFUUSVLOEISTOF, PATROON | INSULINS, FAST-ACTING-100-IE/ML-INFUUSVLOEISTOF, PATROON | 3.01476200 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/97/030/054 | Insuman infusat inj 100ie/ml patr 3,15ml |   |
 | Productgroep |   | Maximumprijs |
-| INSULINS, FAST-ACTING-100-IE/ML-INJ.VLOEISTOF FLACON | INSULINS, FAST-ACTING-100-IE/ML-INJ.VLOEISTOF FLACON | 1.76264500 per ml |
+| INSULINS, FAST-ACTING-100-IE/ML-INJ.VLOEISTOF FLACON | INSULINS, FAST-ACTING-100-IE/ML-INJ.VLOEISTOF FLACON | 1.63602100 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/02/230/003 | Actrapid inj 100ie/ml flacon 10ml |   |
 | EU/1/97/030/028 | Insuman rapid inj 100ie/ml flacon 5ml |   |
 | Productgroep |   | Maximumprijs |
-| INSULINS, FAST-ACTING-100-IE/ML-INJ.VLOEISTOF PATR | INSULINS, FAST-ACTING-100-IE/ML-INJ.VLOEISTOF PATR | 1.95745200 per ml |
+| INSULINS, FAST-ACTING-100-IE/ML-INJ.VLOEISTOF PATR | INSULINS, FAST-ACTING-100-IE/ML-INJ.VLOEISTOF PATR | 1.97330200 per ml |
 | Registratienummer | Artikelnaam |   |
 | 13040 | Humuline regular inj 100ie/ml patroon 3ml |   |
 | EU/1/02/230/006 | Actrapid penfill inj 100ie/ml patr 3ml |   |
 | EU/1/97/030/030 | Insuman rapid inj 100ie/ml patroon 3ml |   |
 | Productgroep |   | Maximumprijs |
-| INSULINS, FAST-ACTING-100-IE/ML-INJ.VLOEISTOF WWSP | INSULINS, FAST-ACTING-100-IE/ML-INJ.VLOEISTOF WWSP | 2.25042100 per ml |
+| INSULINS, FAST-ACTING-100-IE/ML-INJ.VLOEISTOF WWSP | INSULINS, FAST-ACTING-100-IE/ML-INJ.VLOEISTOF WWSP | 2.28518800 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/02/230/008 | Actrapid novolet inj 100ie/ml wwsp 3ml |   |
 | EU/1/97/030/067 | Insuman rapid optis inj 100ie/ml wwsp 3ml |   |
 | Productgroep |   | Maximumprijs |
-| INSULINS, FAST-ACTING-20-IE/ML-INJ.VLOEISTOF PATR-INSULINS, INTERMEDIATE-ACTING- | INSULINS, FAST-ACTING-20-IE/ML-INJ.VLOEISTOF PATR-INSULINS, INTERMEDIATE-ACTING- | 1.94323300 per ml |
+| INSULINS, FAST-ACTING-20-IE/ML-INJ.VLOEISTOF PATR-INSULINS, INTERMEDIATE-ACTING- | INSULINS, FAST-ACTING-20-IE/ML-INJ.VLOEISTOF PATR-INSULINS, INTERMEDIATE-ACTING- | 1.96827800 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/02/231/009 | Mixtard 20 penfill 100ie/ml patroon 3ml |   |
 | Productgroep |   | Maximumprijs |
-| INSULINS, FAST-ACTING-20-IE/ML-INJ.VLOEISTOF WWSP-INSULINS, INTERMEDIATE-ACTING- | INSULINS, FAST-ACTING-20-IE/ML-INJ.VLOEISTOF WWSP-INSULINS, INTERMEDIATE-ACTING- | 2.26700000 per ml |
-| Registratienummer | Artikelnaam |   |
-| EU/1/02/231/022 | Mixtard 20 novolet 100ie/ml wwsp 3ml |   |
-| Productgroep |   | Maximumprijs |
-| INSULINS, FAST-ACTING-25-IE/ML-INJ.VLOEISTOF FLACON-INSULINS, INTERMEDIATE-ACTIN | INSULINS, FAST-ACTING-25-IE/ML-INJ.VLOEISTOF FLACON-INSULINS, INTERMEDIATE-ACTIN | 1.40059100 per ml |
+| INSULINS, FAST-ACTING-25-IE/ML-INJ.VLOEISTOF FLACON-INSULINS, INTERMEDIATE-ACTIN | INSULINS, FAST-ACTING-25-IE/ML-INJ.VLOEISTOF FLACON-INSULINS, INTERMEDIATE-ACTIN | 1.43568200 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/97/030/043 | Insuman comb 25 inj 100ie/ml flacon 5ml |   |
 | Productgroep |   | Maximumprijs |
-| INSULINS, FAST-ACTING-25-IE/ML-INJ.VLOEISTOF PATR-INSULINS, INTERMEDIATE-ACTING- | INSULINS, FAST-ACTING-25-IE/ML-INJ.VLOEISTOF PATR-INSULINS, INTERMEDIATE-ACTING- | 1.99584700 per ml |
+| INSULINS, FAST-ACTING-25-IE/ML-INJ.VLOEISTOF PATR-INSULINS, INTERMEDIATE-ACTING- | INSULINS, FAST-ACTING-25-IE/ML-INJ.VLOEISTOF PATR-INSULINS, INTERMEDIATE-ACTING- | 2.04002900 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/97/030/045 | Insuman comb 25 inj 100ie/ml patroon 3ml |   |
 | Productgroep |   | Maximumprijs |
-| INSULINS, FAST-ACTING-25-IE/ML-INJ.VLOEISTOF WWSP-INSULINS, INTERMEDIATE-ACTING- | INSULINS, FAST-ACTING-25-IE/ML-INJ.VLOEISTOF WWSP-INSULINS, INTERMEDIATE-ACTING- | 2.24720400 per ml |
+| INSULINS, FAST-ACTING-25-IE/ML-INJ.VLOEISTOF WWSP-INSULINS, INTERMEDIATE-ACTING- | INSULINS, FAST-ACTING-25-IE/ML-INJ.VLOEISTOF WWSP-INSULINS, INTERMEDIATE-ACTING- | 2.27424700 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/97/030/079 | Insuman comb 25 opt inj 100ie/ml wwsp 3ml |   |
 | Productgroep |   | Maximumprijs |
-| INSULINS, FAST-ACTING-30-IE/ML-INJ.VLOEISTOF FLACON-INSULINS, INTERMEDIATE-ACTIN | INSULINS, FAST-ACTING-30-IE/ML-INJ.VLOEISTOF FLACON-INSULINS, INTERMEDIATE-ACTIN | 1.46569300 per ml |
+| INSULINS, FAST-ACTING-30-IE/ML-INJ.VLOEISTOF FLACON-INSULINS, INTERMEDIATE-ACTIN | INSULINS, FAST-ACTING-30-IE/ML-INJ.VLOEISTOF FLACON-INSULINS, INTERMEDIATE-ACTIN | 1.49938300 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/02/231/003 | Mixtard 30 injvlst 100ie/ml flacon 10ml |   |
 | Productgroep |   | Maximumprijs |
-| INSULINS, FAST-ACTING-30-IE/ML-INJ.VLOEISTOF PATR-INSULINS, INTERMEDIATE-ACTING- | INSULINS, FAST-ACTING-30-IE/ML-INJ.VLOEISTOF PATR-INSULINS, INTERMEDIATE-ACTING- | 1.88810700 per ml |
+| INSULINS, FAST-ACTING-30-IE/ML-INJ.VLOEISTOF PATR-INSULINS, INTERMEDIATE-ACTING- | INSULINS, FAST-ACTING-30-IE/ML-INJ.VLOEISTOF PATR-INSULINS, INTERMEDIATE-ACTING- | 1.91951500 per ml |
 | Registratienummer | Artikelnaam |   |
 | 14894 | Humuline 30/70 inj 100ie/ml patroon 3ml |   |
 | 33007/14894 | Humuline 30/70 inj 100ie/ml patroon 3ml |   |
 | EU/1/02/229/012 | Actraphane 30 penfill injsusp 100ie/ml patroon 3ml |   |
 | EU/1/02/231/012 | Mixtard 30 penfill 100ie/ml patroon 3ml |   |
 | Productgroep |   | Maximumprijs |
-| INSULINS, FAST-ACTING-30-IE/ML-INJ.VLOEISTOF WWSP-INSULINS, INTERMEDIATE-ACTING- | INSULINS, FAST-ACTING-30-IE/ML-INJ.VLOEISTOF WWSP-INSULINS, INTERMEDIATE-ACTING- | 2.11685700 per ml |
+| INSULINS, FAST-ACTING-30-IE/ML-INJ.VLOEISTOF WWSP-INSULINS, INTERMEDIATE-ACTING- | INSULINS, FAST-ACTING-30-IE/ML-INJ.VLOEISTOF WWSP-INSULINS, INTERMEDIATE-ACTING- | 2.20574300 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/02/229/024 | Actraphane 30 novolet injsusp 100ie/ml wwsp 3ml |   |
 | EU/1/02/231/024 | Mixtard 30 novolet 100ie/ml wwsp 3ml |   |
 | Productgroep |   | Maximumprijs |
-| INSULINS, FAST-ACTING-40-IE/ML-INJ.VLOEISTOF PATR-INSULINS, INTERMEDIATE-ACTING- | INSULINS, FAST-ACTING-40-IE/ML-INJ.VLOEISTOF PATR-INSULINS, INTERMEDIATE-ACTING- | 1.96440000 per ml |
+| INSULINS, FAST-ACTING-40-IE/ML-INJ.VLOEISTOF PATR-INSULINS, INTERMEDIATE-ACTING- | INSULINS, FAST-ACTING-40-IE/ML-INJ.VLOEISTOF PATR-INSULINS, INTERMEDIATE-ACTING- | 1.92500000 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/02/229/015 | Actraphane 40 penfill injsusp 100ie/ml patroon 3ml |   |
 | EU/1/02/231/015 | Mixtard 40 penfill 100ie/ml patroon 3ml |   |
 | Productgroep |   | Maximumprijs |
-| INSULINS, FAST-ACTING-50-IE/ML-INJ.VLOEISTOF PATR-INSULINS, INTERMEDIATE-ACTING- | INSULINS, FAST-ACTING-50-IE/ML-INJ.VLOEISTOF PATR-INSULINS, INTERMEDIATE-ACTING- | 1.93348100 per ml |
+| INSULINS, FAST-ACTING-50-IE/ML-INJ.VLOEISTOF PATR-INSULINS, INTERMEDIATE-ACTING- | INSULINS, FAST-ACTING-50-IE/ML-INJ.VLOEISTOF PATR-INSULINS, INTERMEDIATE-ACTING- | 1.98614200 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/02/229/018 | Actraphane 50 penfill injsusp 100ie/ml patroon 3ml |   |
 | EU/1/02/231/018 | Mixtard 50 penfill 100ie/ml patroon 3ml |   |
 | EU/1/97/030/050 | Insuman comb 50 inj 100ie/ml patroon 3ml |   |
 | Productgroep |   | Maximumprijs |
-| INSULINS, FAST-ACTING-50-IE/ML-INJ.VLOEISTOF WWSP-INSULINS, INTERMEDIATE-ACTING- | INSULINS, FAST-ACTING-50-IE/ML-INJ.VLOEISTOF WWSP-INSULINS, INTERMEDIATE-ACTING- | 2.20141000 per ml |
+| INSULINS, FAST-ACTING-50-IE/ML-INJ.VLOEISTOF WWSP-INSULINS, INTERMEDIATE-ACTING- | INSULINS, FAST-ACTING-50-IE/ML-INJ.VLOEISTOF WWSP-INSULINS, INTERMEDIATE-ACTING- | 2.25445400 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/02/231/028 | Mixtard 50 novolet 100ie/ml wwsp 3ml |   |
 | Productgroep |   | Maximumprijs |
-| INSULINS, GLARGINE-100-IE/ML-INJ.VLOEISTOF FLACON | INSULINS, GLARGINE-100-IE/ML-INJ.VLOEISTOF FLACON | 3.63314300 per ml |
+| INSULINS, GLARGINE-100-IE/ML-INJ.VLOEISTOF FLACON | INSULINS, GLARGINE-100-IE/ML-INJ.VLOEISTOF FLACON | 3.68735300 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/00/134/012 | Lantus inj 100e/ml flacon 10ml |   |
 | Productgroep |   | Maximumprijs |
-| INSULINS, GLARGINE-100-IE/ML-INJ.VLOEISTOF PATR | INSULINS, GLARGINE-100-IE/ML-INJ.VLOEISTOF PATR | 3.54800600 per ml |
+| INSULINS, GLARGINE-100-IE/ML-INJ.VLOEISTOF PATR | INSULINS, GLARGINE-100-IE/ML-INJ.VLOEISTOF PATR | 3.58937200 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/00/134/006 | Lantus inj 100e/ml patroon 3ml |   |
 | EU/1/00/134/025 | Lantus opticlik inj 100e/ml patroon 3ml |   |
 | Productgroep |   | Maximumprijs |
-| INSULINS, GLARGINE-100-IE/ML-INJ.VLOEISTOF WWSP | INSULINS, GLARGINE-100-IE/ML-INJ.VLOEISTOF WWSP | 3.57666200 per ml |
+| INSULINS, GLARGINE-100-IE/ML-INJ.VLOEISTOF WWSP | INSULINS, GLARGINE-100-IE/ML-INJ.VLOEISTOF WWSP | 3.61802800 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/00/134/010 | Lantus optiset inj 100e/ml wwsp 3ml |   |
 | EU/1/00/134/033 | Lantus solostar inj 100e/ml wwsp 3ml |   |
 | Productgroep |   | Maximumprijs |
-| INSULINS, GLULISIN-100-IE/ML-INJ.VLOEISTOF WWSP | INSULINS, GLULISIN-100-IE/ML-INJ.VLOEISTOF WWSP | 2.45708500 per ml |
+| INSULINS, GLULISIN-100-IE/ML-INJ.VLOEISTOF WWSP | INSULINS, GLULISIN-100-IE/ML-INJ.VLOEISTOF WWSP | 2.49412800 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/04/285/016 | Apidra optiset inj 100e/ml wwsp 3ml |   |
 | EU/1/04/285/032 | Apidra solostar inj 100e/ml wwsp 3ml |   |
 | Productgroep |   | Maximumprijs |
-| INSULINS, INTERMEDIATE-ACTING-100-IE/ML-INJ.VLOEISTOF FLACON | INSULINS, INTERMEDIATE-ACTING-100-IE/ML-INJ.VLOEISTOF FLACON | 1.61681600 per ml |
+| INSULINS, INTERMEDIATE-ACTING-100-IE/ML-INJ.VLOEISTOF FLACON | INSULINS, INTERMEDIATE-ACTING-100-IE/ML-INJ.VLOEISTOF FLACON | 1.62491700 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/02/233/003 | Insulatard inj 100ie/ml flacon 10ml |   |
 | Productgroep |   | Maximumprijs |
-| INSULINS, INTERMEDIATE-ACTING-100-IE/ML-INJ.VLOEISTOF PATR | INSULINS, INTERMEDIATE-ACTING-100-IE/ML-INJ.VLOEISTOF PATR | 1.89804800 per ml |
+| INSULINS, INTERMEDIATE-ACTING-100-IE/ML-INJ.VLOEISTOF PATR | INSULINS, INTERMEDIATE-ACTING-100-IE/ML-INJ.VLOEISTOF PATR | 1.91550100 per ml |
 | Registratienummer | Artikelnaam |   |
 | 14896 | Humuline nph inj 100ie/ml patroon 3ml |   |
 | 33526/14896 | Humuline nph inj 100ie/ml patroon 3ml |   |
 | EU/1/02/233/006 | Insulatard penfill inj 100ie/ml patr 3ml |   |
 | EU/1/97/030/035 | Insuman basal inj 100ie/ml patroon 3ml |   |
 | Productgroep |   | Maximumprijs |
-| INSULINS, INTERMEDIATE-ACTING-100-IE/ML-INJ.VLOEISTOF WWSP | INSULINS, INTERMEDIATE-ACTING-100-IE/ML-INJ.VLOEISTOF WWSP | 2.17786200 per ml |
+| INSULINS, INTERMEDIATE-ACTING-100-IE/ML-INJ.VLOEISTOF WWSP | INSULINS, INTERMEDIATE-ACTING-100-IE/ML-INJ.VLOEISTOF WWSP | 2.20842500 per ml |
 | Registratienummer | Artikelnaam |   |
 | 22242 | Humuline nph inj 100ie/ml wwsp 3ml |   |
 | EU/1/02/233/008 | Insulatard novolet inj 100ie/ml wwsp 3ml |   |
 | EU/1/02/233/014 | Insulatard flexpen inj 100ie/ml wwsp 3ml |   |
 | EU/1/97/030/071 | Insuman basal optis inj 100ie/ml wwsp 3ml |   |
 | Productgroep |   | Maximumprijs |
-| INSULINS, LISPRO-100-IE/ML-INJ.VLOEISTOF PATR | INSULINS, LISPRO-100-IE/ML-INJ.VLOEISTOF PATR | 2.37514100 per ml |
+| INSULINS, LISPRO-100-IE/ML-INJ.VLOEISTOF PATR | INSULINS, LISPRO-100-IE/ML-INJ.VLOEISTOF PATR | 2.42725100 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/96/007/004 | Humalog injvlst 100e/ml patroon 3ml |   |
 | Productgroep |   | Maximumprijs |
-| IPRATROPIUM BROMIDE-.02-MG-AEROSOL | IPRATROPIUM BROMIDE-.02-MG-AEROSOL | 0.03754500 per dosis |
+| IPRATROPIUM BROMIDE-.02-MG-AEROSOL | IPRATROPIUM BROMIDE-.02-MG-AEROSOL | 0.03666200 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 26834 | Atrovent aerosol 20mcg/do spbs 200do + inhalator |   |
 | Productgroep |   | Maximumprijs |
-| IPRATROPIUM BROMIDE-.125-MG/ML-INHALATIEVLOEISTOF UNITDOSE | IPRATROPIUM BROMIDE-.125-MG/ML-INHALATIEVLOEISTOF UNITDOSE | 0.25580700 per ml |
+| IPRATROPIUM BROMIDE-.125-MG/ML-INHALATIEVLOEISTOF UNITDOSE | IPRATROPIUM BROMIDE-.125-MG/ML-INHALATIEVLOEISTOF UNITDOSE | 0.17492400 per ml |
 | Registratienummer | Artikelnaam |   |
 | 16015 | Atrovent unit dose inhalatievlst 125mcg/ml fl 2ml |   |
 | Productgroep |   | Maximumprijs |
-| IPRATROPIUM BROMIDE-.2-MG/ML-INHALATIEVLOEISTOF UNITDOSE-SALBUTAMOL-1-MG/ML-INHA | IPRATROPIUM BROMIDE-.2-MG/ML-INHALATIEVLOEISTOF UNITDOSE-SALBUTAMOL-1-MG/ML-INHA | 0.17619000 per ml |
+| IPRATROPIUM BROMIDE-.2-MG/ML-INHALATIEVLOEISTOF UNITDOSE-SALBUTAMOL-1-MG/ML-INHA | IPRATROPIUM BROMIDE-.2-MG/ML-INHALATIEVLOEISTOF UNITDOSE-SALBUTAMOL-1-MG/ML-INHA | 0.16865600 per ml |
 | Registratienummer | Artikelnaam |   |
+| 105702/20233 | Combivent unit dose inhalatievloeistof fl 2,5ml |   |
 | 20233 | Combivent unit dose inhalatievloeistof fl 2,5ml |   |
 | 29338/20233 | Combivent unit dose inhalatievloeistof fl 2,5ml |   |
 | 33224 | Ipramol steri-neb vernevelopl 0,2/1mg/ml fl2,5ml |   |
 | Productgroep |   | Maximumprijs |
-| IPRATROPIUM BROMIDE-.25-MG/ML-INHALATIEVLOEISTOF UNITDOSE | IPRATROPIUM BROMIDE-.25-MG/ML-INHALATIEVLOEISTOF UNITDOSE | 0.23839200 per ml |
+| IPRATROPIUM BROMIDE-.25-MG/ML-INHALATIEVLOEISTOF UNITDOSE | IPRATROPIUM BROMIDE-.25-MG/ML-INHALATIEVLOEISTOF UNITDOSE | 0.23104600 per ml |
 | Registratienummer | Artikelnaam |   |
 | 12869 | Atrovent unit dose inhalatievlst 250mcg/ml fl 2ml |   |
 | 27815 | Ipraxa steri-neb inhalatievlst 250mcg/ml fl 1ml |   |
@@ -4489,7 +4638,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 32721/12869 | Atrovent unit dose inhalatievlst 250mcg/ml fl 2ml |   |
 | 34109/12869 | Atrovent unit dose inhalatievlst 250mcg/ml fl 2ml |   |
 | Productgroep |   | Maximumprijs |
-| IRBESARTAN-150-MG-TABLET | IRBESARTAN-150-MG-TABLET | 0.61162400 per stuk |
+| IRBESARTAN-150-MG-TABLET | IRBESARTAN-150-MG-TABLET | 0.62843100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/97/046/004 | Aprovel tablet 150mg |   |
 | EU/1/97/046/005 | Aprovel tablet 150mg |   |
@@ -4498,7 +4647,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | EU/1/97/046/035 | Aprovel tablet filmomhuld 150mg |   |
 | EU/1/97/046/038 | Aprovel tablet filmomhuld 150mg |   |
 | Productgroep |   | Maximumprijs |
-| IRBESARTAN-300-MG-TABLET | IRBESARTAN-300-MG-TABLET | 0.79742600 per stuk |
+| IRBESARTAN-300-MG-TABLET | IRBESARTAN-300-MG-TABLET | 0.80169500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/97/046/007 | Aprovel tablet 300mg |   |
 | EU/1/97/046/027 | Aprovel tablet filmomhuld 300mg |   |
@@ -4506,27 +4655,43 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | EU/1/97/046/036 | Aprovel tablet filmomhuld 300mg |   |
 | EU/1/97/046/039 | Aprovel tablet filmomhuld 300mg |   |
 | Productgroep |   | Maximumprijs |
-| IRINOTECAN-20-MG/ML-INFUUSVLOEISTOF, FLACON | IRINOTECAN-20-MG/ML-INFUUSVLOEISTOF, FLACON | 43.32975800 per ml |
+| IRINOTECAN-20-MG/ML-INFUUSVLOEISTOF, FLACON | IRINOTECAN-20-MG/ML-INFUUSVLOEISTOF, FLACON | 38.12519200 per ml |
 | Registratienummer | Artikelnaam |   |
+| 100122 | Irinotecan hcl trihydr acc inf con 20mg/ml fl 2ml |   |
+| 100122 | Irinotecan hcl trihydr acc inf con 20mg/ml fl 5ml |   |
+| 101397 | Irinotecan hcl 3water mylan inf con 20mg/ml fl 2ml |   |
+| 101397 | Irinotecan hcl 3water mylan inf con 20mg/ml fl 5ml |   |
+| 103667 | Irinotecan hcl trihydr hos inf con 20mg/ml fl 2ml |   |
+| 22820 | Campto infvlst conc 20mg/ml flacon 5ml cytosafe |   |
 | 22820 | Campto infvlst conc 20mg/ml flacon 2ml cytosafe |   |
+| 22820 | Campto infvlst conc 20mg/ml flacon 15ml cytosafe |   |
+| 33076 | Irinotecan hcl 3water sdz inf con 20mg/ml fl 2ml |   |
+| 33076 | Irinotecan hcl 3water sdz inf con 20mg/ml fl 5ml |   |
+| 34729 | Irinotecan actavis infvlst conc 20mg/ml fl 25ml |   |
+| 34729 | Irinotecan actavis infvlst conc 20mg/ml fl 2ml |   |
+| 34729 | Irinotecan actavis infvlst conc 20mg/ml fl 5ml |   |
+| 34895 | Irinotecan hcl 3water pch inf con 20mg/ml fl 2ml |   |
+| 34895 | Irinotecan hcl 3water pch inf con 20mg/ml fl 5ml |   |
+| 34947 | Irinotecan hcl trihydr fres inf con 20mg/ml fl 2ml |   |
+| 34947 | Irinotecan hcl trihydr fres inf con 20mg/ml fl 5ml |   |
 | Productgroep |   | Maximumprijs |
-| ISONIAZID-150-MG-TABLET-RIFAMPICIN-300-MG-TABLET | ISONIAZID-150-MG-TABLET-RIFAMPICIN-300-MG-TABLET | 0.76760600 per stuk |
+| ISONIAZID-150-MG-TABLET-RIFAMPICIN-300-MG-TABLET | ISONIAZID-150-MG-TABLET-RIFAMPICIN-300-MG-TABLET | 0.77543300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15460 | Rifinah dragee 300/150mg |   |
 | Productgroep |   | Maximumprijs |
-| ISOSORBIDE DINITRATE-20-MG-TABLET, MET GEREGULEERDE AFGIFTE | ISOSORBIDE DINITRATE-20-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.04620200 per stuk |
+| ISOSORBIDE DINITRATE-20-MG-TABLET, MET GEREGULEERDE AFGIFTE | ISOSORBIDE DINITRATE-20-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.04764300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 16196=56834 | Isosorbidedinitraat actavis retard tabl mga 20mg |   |
 | 18582=56834 | Isosorbidedinitraat pch retard tablet mga 20mg |   |
-| 20660 | Isosorbidedinitraat katwijk retard tablet mga 20mg |   |
+| 20660 | Isosorbidedinitraat apotex retard tablet mga 20mg |   |
 | 27903=56834 | Isosorbidedinitraat a retard tablet mga 20mg |   |
-| 28051=20660 | Isosorbidedinitraat merck retard tablet mga 20mg |   |
+| 28051=20660 | Isosorbidedinitraat mylan retard tablet mga 20mg |   |
 | 28974=20660 | Isosorbidedinitraat sandoz retard tablet mga 20mg |   |
 | 56701=5784 | Isosorbidedinitraat rp retard tablet mga 20mg |   |
 | 56834 | Isosorbidedinitraat cf retard tablet mga 20mg |   |
 | 5784 | Cedocard retard tablet mga 20mg |   |
 | Productgroep |   | Maximumprijs |
-| ISOSORBIDE DINITRATE-40-MG-TABLET, MET GEREGULEERDE AFGIFTE | ISOSORBIDE DINITRATE-40-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.10669700 per stuk |
+| ISOSORBIDE DINITRATE-40-MG-TABLET, MET GEREGULEERDE AFGIFTE | ISOSORBIDE DINITRATE-40-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.11024900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 14396 | Cedocard retard tablet mga 40mg |   |
 | Productgroep |   | Maximumprijs |
@@ -4536,32 +4701,31 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 53026 | Isosorbidedinitraat cf tablet 5mg |   |
 | 8807 | Isordil tablet 5mg |   |
 | Productgroep |   | Maximumprijs |
-| ISOSORBIDE MONONITRATE-20-MG-TABLET | ISOSORBIDE MONONITRATE-20-MG-TABLET | 0.04188900 per stuk |
+| ISOSORBIDE MONONITRATE-20-MG-TABLET | ISOSORBIDE MONONITRATE-20-MG-TABLET | 0.04241800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13418 | Isosorbidemononitraat sandoz tablet 20mg |   |
 | 14154 | Isosorbidemononitraat pch tablet 20mg |   |
 | 15054 | Isosorbidemononitraat rp tablet 20mg |   |
 | 16764 | Isosorbidemononitraat sandoz tablet 20mg |   |
 | 20302=19739 | Isosorbidemononitraat a tablet 20mg |   |
-| 20916 | Isosorbidemononitraat actavis tablet 20mg |   |
-| 24085=15054 | Isosorbidemononitraat merck tablet 20mg |   |
+| 24085=15054 | Isosorbidemononitraat mylan tablet 20mg |   |
 | 56053 | Isosorbidemononitraat cf tablet 20mg |   |
 | Productgroep |   | Maximumprijs |
-| ISOSORBIDE MONONITRATE-40-MG-TABLET | ISOSORBIDE MONONITRATE-40-MG-TABLET | 0.05627600 per stuk |
+| ISOSORBIDE MONONITRATE-40-MG-TABLET | ISOSORBIDE MONONITRATE-40-MG-TABLET | 0.05698500 per stuk |
 | Registratienummer | Artikelnaam |   |
-| 13419 | Isosorbidemononitraat sandoz tablet 40mg |   |
 | 14155 | Isosorbidemononitraat pch tablet 40mg |   |
 | 15055 | Isosorbidemononitraat rp tablet 40mg |   |
 | 16765 | Isosorbidemononitraat sandoz tablet 40mg |   |
 | 20303=19740 | Isosorbidemononitraat a tablet 40mg |   |
 | 20917 | Isosorbidemononitraat actavis tablet 40mg |   |
-| 24086=15055 | Isosorbidemononitraat merck tablet 40mg |   |
+| 24086=15055 | Isosorbidemononitraat mylan tablet 40mg |   |
 | 28384=14155 | Isosorbidemononitraat cf tablet 40mg |   |
 | Productgroep |   | Maximumprijs |
-| ISOSORBIDE MONONITRATE-50-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | ISOSORBIDE MONONITRATE-50-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.31105600 per stuk |
+| ISOSORBIDE MONONITRATE-50-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | ISOSORBIDE MONONITRATE-50-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.32322500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100925/13645 | Isosorbidemononitraat retard capsule mga 50mg |   |
 | 101796/13645 | Isosorbidemononitraat retard capsule mga 50mg |   |
+| 105347/13645 | Isosorbidemononitraat erc retard capsule 50mg |   |
 | 13645 | Mono cedocard retard capsule mga 50mg |   |
 | 30285/13645 | Isosorbidemononitraat retard capsule mga 50mg |   |
 | 30797/13645 | Isosorbidemononitraat retard capsule mga 50mg |   |
@@ -4572,7 +4736,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 34139/13645 | Isosorbidemononitraat retard capsule mga 50mg |   |
 | 34455/13645 | Isosorbidemononitraat retard capsule mga 50mg |   |
 | Productgroep |   | Maximumprijs |
-| ISOSORBIDE MONONITRATE-60-MG-TABLET, MET GEREGULEERDE AFGIFTE | ISOSORBIDE MONONITRATE-60-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.22954400 per stuk |
+| ISOSORBIDE MONONITRATE-60-MG-TABLET, MET GEREGULEERDE AFGIFTE | ISOSORBIDE MONONITRATE-60-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.26278100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11396 | Promocard durette 60mg |   |
 | 11396 | Promocard durette mga 60mg |   |
@@ -4580,51 +4744,50 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 23515 | Isosorbidemononitraat actav retard tablet mga 60mg |   |
 | 26933=23515 | Isosorbidemononitraat cf retard tablet mga 60mg |   |
 | 26967=23515 | Isosorbidemononitraat pch retard tablet mga 60mg |   |
-| 27105 | Isosorbidemononitraat merck retard tablet mga 60mg |   |
 | 27105 | Isosorbidemononitraat mylan retard tablet mga 60mg |   |
 | 29829 | Isosorbidemononitraat sandoz retard tabl mga 60mg |   |
 | 29929 | Isosorbidemononitraat rp retard tablet mga 60mg |   |
 | 30483 | Isosorbidemononitraat katwijk retard tabl mga 60mg |   |
 | Productgroep |   | Maximumprijs |
-| ISOTRETINOIN-10-MG-CAPSULE | ISOTRETINOIN-10-MG-CAPSULE | 0.37673000 per stuk |
+| ISOTRETINOIN-10-MG-CAPSULE | ISOTRETINOIN-10-MG-CAPSULE | 0.46997000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10305 | Roaccutane capsule 10mg |   |
 | 27577 | Isotretinoine actavis capsule 10mg |   |
 | 29162 | Isotretinoine rp capsule 10mg |   |
 | Productgroep |   | Maximumprijs |
-| ISOTRETINOIN-20-MG-CAPSULE | ISOTRETINOIN-20-MG-CAPSULE | 0.68502800 per stuk |
+| ISOTRETINOIN-20-MG-CAPSULE | ISOTRETINOIN-20-MG-CAPSULE | 0.69618700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10306 | Roaccutane capsule 20mg |   |
 | 27578 | Isotretinoine actavis capsule 20mg |   |
 | 29163 | Isotretinoine rp capsule 20mg |   |
 | Productgroep |   | Maximumprijs |
-| ISOTRETINOIN-5-MG-CAPSULE | ISOTRETINOIN-5-MG-CAPSULE | 0.24240100 per stuk |
+| ISOTRETINOIN-5-MG-CAPSULE | ISOTRETINOIN-5-MG-CAPSULE | 0.24446300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 32389 | Curacne capsule 5mg |   |
 | Productgroep |   | Maximumprijs |
-| ISRADIPINE-2.5-MG-TABLET | ISRADIPINE-2.5-MG-TABLET | 0.25530400 per stuk |
+| ISRADIPINE-2.5-MG-TABLET | ISRADIPINE-2.5-MG-TABLET | 0.26146300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13385 | Lomir tablet 2,5mg |   |
 | 22301/13385 | Lomir tablet 2,5mg |   |
 | 24597/13385 | Lomir tablet 2,5mg |   |
 | Productgroep |   | Maximumprijs |
-| ISRADIPINE-5-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | ISRADIPINE-5-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.41742700 per stuk |
+| ISRADIPINE-5-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | ISRADIPINE-5-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.41009300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15099 | Lomir sro capsule mga 5mg |   |
 | 23645/15099 | Lomir sro capsule mga 5mg |   |
 | 24598/15099 | Lomir sro capsule mga 5mg |   |
 | 24673/15099 | Lomir sro capsule mga 5mg |   |
 | Productgroep |   | Maximumprijs |
-| ITRACONAZOLE-10-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | ITRACONAZOLE-10-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.45999500 per ml |
+| ITRACONAZOLE-10-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | ITRACONAZOLE-10-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.45538400 per ml |
 | Registratienummer | Artikelnaam |   |
 | 21024 | Trisporal os drank 10mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| ITRACONAZOLE-100-MG-CAPSULE | ITRACONAZOLE-100-MG-CAPSULE | 1.30618900 per stuk |
+| ITRACONAZOLE-100-MG-CAPSULE | ITRACONAZOLE-100-MG-CAPSULE | 1.26840500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13224 | Trisporal capsule 100mg |   |
 | 25517=13224 | Itraconazol jc capsule 100mg |   |
 | 28430 | Itraconazol cf capsule 100mg |   |
-| 28431 | Itraconazol merck capsule 100mg |   |
+| 28431 | Itraconazol mylan capsule 100mg |   |
 | 28433 | Itraconazol pch capsule 100mg |   |
 | 30219 | Itraconazol rp capsule 100mg |   |
 | 31568 | Itraconazol a capsule 100mg |   |
@@ -4632,15 +4795,15 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 31570 | Itraconazol sandoz capsule 100mg |   |
 | 32412 | Itraconazol sandoz capsule 100mg |   |
 | Productgroep |   | Maximumprijs |
-| IVABRADIN-5-MG-TABLET | IVABRADIN-5-MG-TABLET | 0.92177200 per stuk |
+| IVABRADIN-5-MG-TABLET | IVABRADIN-5-MG-TABLET | 0.92738800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/05/316/003 | Procoralan tablet filmomhuld 5mg |   |
 | Productgroep |   | Maximumprijs |
-| IVABRADIN-7.5-MG-TABLET | IVABRADIN-7.5-MG-TABLET | 0.92177200 per stuk |
+| IVABRADIN-7.5-MG-TABLET | IVABRADIN-7.5-MG-TABLET | 0.92840900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/05/316/010 | Procoralan tablet filmomhuld 7,5mg |   |
 | Productgroep |   | Maximumprijs |
-| KETOCONAZOLE-20-MG/G-HUIDGEL | KETOCONAZOLE-20-MG/G-HUIDGEL | 0.08334800 per ml |
+| KETOCONAZOLE-20-MG/G-HUIDGEL | KETOCONAZOLE-20-MG/G-HUIDGEL | 0.08211100 per ml |
 | Registratienummer | Artikelnaam |   |
 | 102668/12586 | Nizoral shampoo 20mg/g |   |
 | 103191 | Ketoconazol rp shampoo 20mg/g |   |
@@ -4651,7 +4814,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 25203 | Ketoconazol cf shampoo 20mg/g |   |
 | 25724 | Ketoconazol actavis shampoo 20mg/g |   |
 | 26102/12586 | Nizoral shampoo gel 20mg/g |   |
-| 28092=23836 | Ketoconazol a hoofdgel 20mg/g |   |
+| 28092=23836 | Ketoconazol a shampoo 20mg/g |   |
 | 28356/12586 | Nizoral shampoo gel 20mg/g |   |
 | 30290/12586 | Nizoral shampoo 20mg/g |   |
 | 30871 | Ketoconazol pch shampoo 20mg/g |   |
@@ -4659,17 +4822,17 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 32534 | Ketoconazol sandoz shampoo 20mg/g |   |
 | 32535 | Asquam shampoo 20mg/g |   |
 | Productgroep |   | Maximumprijs |
-| KETOCONAZOLE-200-MG-TABLET | KETOCONAZOLE-200-MG-TABLET | 0.84274800 per stuk |
+| KETOCONAZOLE-200-MG-TABLET | KETOCONAZOLE-200-MG-TABLET | 0.85005600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12790/8938 | Nizoral tablet 200mg |   |
 | 8938 | Nizoral tablet 200mg |   |
 | Productgroep |   | Maximumprijs |
-| KETOPROFEN-100-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | KETOPROFEN-100-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.20038500 per stuk |
+| KETOPROFEN-100-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | KETOPROFEN-100-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.20754500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15062 | Ketoprofen pch retard capsule mga 100mg |   |
 | 20923 | Ketoprofen sandoz retard capsule mga 100mg |   |
 | Productgroep |   | Maximumprijs |
-| KETOPROFEN-200-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | KETOPROFEN-200-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.36042100 per stuk |
+| KETOPROFEN-200-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | KETOPROFEN-200-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.36087000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13677=12197 | Oscorel capsule mga 200mg |   |
 | 15063 | Ketoprofen pch retard capsule mga 200mg |   |
@@ -4678,14 +4841,14 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 16705=15063 | Ketoprofen rp retard capsule mga 200mg |   |
 | 20924 | Ketoprofen sandoz retard capsule mga 200mg |   |
 | Productgroep |   | Maximumprijs |
-| KETOROLAC-5-MG/ML-OOGDRUPPELS | KETOROLAC-5-MG/ML-OOGDRUPPELS | 0.89943700 per ml |
+| KETOROLAC-5-MG/ML-OOGDRUPPELS | KETOROLAC-5-MG/ML-OOGDRUPPELS | 0.88881800 per ml |
 | Registratienummer | Artikelnaam |   |
 | 13381 | Acular oogdruppels 5mg/ml flacon 5ml |   |
 | 24663/13381 | Acular oogdruppels 5mg/ml flacon 5ml |   |
 | 24717/13381 | Acular oogdruppels 5mg/ml flacon 5ml |   |
 | 27865/13381 | Acular oogdruppels 5mg/ml flacon 5ml |   |
 | Productgroep |   | Maximumprijs |
-| KETOTIFEN-.2-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | KETOTIFEN-.2-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.03513200 per ml |
+| KETOTIFEN-.2-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | KETOTIFEN-.2-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.03507900 per ml |
 | Registratienummer | Artikelnaam |   |
 | 14771 | Ketotifen pch suikervrij stroop 0,2mg/ml |   |
 | 16339=57533 | Ketotifen actavis stroop 0,2mg/ml |   |
@@ -4693,7 +4856,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 24217=14771 | Ketotifen rp suikervrij stroop 0,2mg/ml |   |
 | 57533 | Ketotifen cf suikervrij stroop 0,2mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| KETOTIFEN-.25-MG/ML-OOGDRUPPELS | KETOTIFEN-.25-MG/ML-OOGDRUPPELS | 1.80702400 per ml |
+| KETOTIFEN-.25-MG/ML-OOGDRUPPELS | KETOTIFEN-.25-MG/ML-OOGDRUPPELS | 1.84768100 per ml |
 | Registratienummer | Artikelnaam |   |
 | 25726 | Zaditen oogdruppels 0,25mg/ml flacon 5ml |   |
 | Productgroep |   | Maximumprijs |
@@ -4701,100 +4864,99 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | Registratienummer | Artikelnaam |   |
 | 25727 | Zaditen unidose oogdruppels 0,25mg/ml tube 0,4ml |   |
 | Productgroep |   | Maximumprijs |
-| KETOTIFEN-1-MG-TABLET | KETOTIFEN-1-MG-TABLET | 0.15062900 per stuk |
+| KETOTIFEN-1-MG-TABLET | KETOTIFEN-1-MG-TABLET | 0.15623200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 8319 | Zaditen tablet 1mg |   |
 | Productgroep |   | Maximumprijs |
-| LABETALOL-100-MG-TABLET | LABETALOL-100-MG-TABLET | 0.16801000 per stuk |
+| LABETALOL-100-MG-TABLET | LABETALOL-100-MG-TABLET | 0.17223100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11106 | Labetalol hcl rp tablet 100mg |   |
 | 13949 | Labetalol hcl pch tablet 100mg |   |
 | 17011=11106 | Labetalol hcl katwijk tablet 100mg |   |
-| 24103=11106 | Labetalol hcl merck tablet 100mg |   |
+| 24103=11106 | Labetalol hcl mylan tablet 100mg |   |
 | 28444=13949 | Labetalol hcl sandoz tablet 100mg |   |
 | 28617=13949 | Labetalol hcl actavis tablet 100mg |   |
 | 57573=11106 | Labetalol hcl cf tablet 100mg |   |
 | Productgroep |   | Maximumprijs |
-| LABETALOL-200-MG-TABLET | LABETALOL-200-MG-TABLET | 0.22757500 per stuk |
+| LABETALOL-200-MG-TABLET | LABETALOL-200-MG-TABLET | 0.23021300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11107 | Labetalol hcl rp tablet 200mg |   |
 | 13950 | Labetalol hcl pch tablet 200mg |   |
 | 17012=11107 | Labetalol hcl katwijk tablet 200mg |   |
-| 24104=11107 | Labetalol hcl merck tablet 200mg |   |
+| 24104=11107 | Labetalol hcl mylan tablet 200mg |   |
 | 28445=13950 | Labetalol hcl sandoz tablet 200mg |   |
 | 28618=13950 | Labetalol hcl actavis tablet 200mg |   |
 | 57574=11107 | Labetalol hcl cf tablet 200mg |   |
 | Productgroep |   | Maximumprijs |
-| LACIDIPINE-2-MG-TABLET | LACIDIPINE-2-MG-TABLET | 0.35611600 per stuk |
+| LACIDIPINE-2-MG-TABLET | LACIDIPINE-2-MG-TABLET | 0.33002200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 14772 | Motens tablet 2mg |   |
 | Productgroep |   | Maximumprijs |
-| LACIDIPINE-4-MG-TABLET | LACIDIPINE-4-MG-TABLET | 0.48829700 per stuk |
+| LACIDIPINE-4-MG-TABLET | LACIDIPINE-4-MG-TABLET | 0.43997400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 14773 | Motens tablet 4mg |   |
 | Productgroep |   | Maximumprijs |
-| LACOSAMIDE-50-MG-TABLET | LACOSAMIDE-50-MG-TABLET | 0.82860700 per stuk |
+| LACOSAMIDE-50-MG-TABLET | LACOSAMIDE-50-MG-TABLET | 0.87308500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/08/470/002 | Vimpat tablet omhuld 50mg |   |
 | Productgroep |   | Maximumprijs |
-| LAMIVUDINE-10-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | LAMIVUDINE-10-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.22060500 per ml |
+| LAMIVUDINE-10-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | LAMIVUDINE-10-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.21928200 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/96/015/002 | Epivir drank 10mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| LAMIVUDINE-100-MG-TABLET | LAMIVUDINE-100-MG-TABLET | 2.77088700 per stuk |
+| LAMIVUDINE-100-MG-TABLET | LAMIVUDINE-100-MG-TABLET | 2.78901600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/99/114/001 | Zeffix tablet filmomhuld 100mg |   |
 | EU/1/99/114/002 | Zeffix tablet filmomhuld 100mg |   |
 | Productgroep |   | Maximumprijs |
-| LAMIVUDINE-150-MG-TABLET | LAMIVUDINE-150-MG-TABLET | 3.15454700 per stuk |
+| LAMIVUDINE-150-MG-TABLET | LAMIVUDINE-150-MG-TABLET | 3.14277800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/96/015/001 | Epivir tablet filmomhuld 150mg |   |
 | EU/1/96/015/004 | Epivir tablet filmomhuld 150mg |   |
 | Productgroep |   | Maximumprijs |
-| LAMIVUDINE-300-MG-TABLET | LAMIVUDINE-300-MG-TABLET | 6.45893900 per stuk |
+| LAMIVUDINE-300-MG-TABLET | LAMIVUDINE-300-MG-TABLET | 6.44334100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/96/015/003 | Epivir tablet filmomhuld 300mg |   |
 | Productgroep |   | Maximumprijs |
-| LAMIVUDINE-300-MG-TABLET-ABACAVIR-600-MG-TABLET | LAMIVUDINE-300-MG-TABLET-ABACAVIR-600-MG-TABLET | 15.45999400 per stuk |
+| LAMIVUDINE-300-MG-TABLET-ABACAVIR-600-MG-TABLET | LAMIVUDINE-300-MG-TABLET-ABACAVIR-600-MG-TABLET | 15.71898400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/04/298/002 | Kivexa tablet filmomhuld |   |
 | Productgroep |   | Maximumprijs |
-| LAMIVUDINE-5-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | LAMIVUDINE-5-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.13470700 per ml |
+| LAMIVUDINE-5-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | LAMIVUDINE-5-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.13483400 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/99/114/003 | Zeffix drank 5mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| LAMOTRIGINE-100-MG-BRUISTABLET | LAMOTRIGINE-100-MG-BRUISTABLET | 0.43902800 per stuk |
+| LAMOTRIGINE-100-MG-BRUISTABLET | LAMOTRIGINE-100-MG-BRUISTABLET | 0.42960100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 19117 | Lamictal dispers tablet 100mg |   |
 | 29548 | Lamotrigine sandoz dispers tablet 100mg |   |
 | 29668 | Lamotrigine cf dispers tablet 100mg |   |
 | 29711 | Lamotrigine pch dispers tablet 100mg |   |
-| 29891 | Lamotrigine katwijk dispers tablet 100mg |   |
+| 29891 | Lamotrigine apotex dispers tablet 100mg |   |
 | 30304 | Lamotrigine mylan dispers tablet 100mg |   |
-| 30304 | Lamotrigine merck dispers tablet 100mg |   |
 | 32068 | Lamotrigine rp dispers tablet 100mg |   |
 | 32825 | Lamotrigine actavis dispers tablet 100mg |   |
 | Productgroep |   | Maximumprijs |
-| LAMOTRIGINE-100-MG-TABLET | LAMOTRIGINE-100-MG-TABLET | 0.35915300 per stuk |
+| LAMOTRIGINE-100-MG-TABLET | LAMOTRIGINE-100-MG-TABLET | 0.34799100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 32321 | Lamotrigine a tablet 100mg |   |
 | Productgroep |   | Maximumprijs |
-| LAMOTRIGINE-200-MG-BRUISTABLET | LAMOTRIGINE-200-MG-BRUISTABLET | 0.95417100 per stuk |
+| LAMOTRIGINE-200-MG-BRUISTABLET | LAMOTRIGINE-200-MG-BRUISTABLET | 0.91158900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 20927 | Lamictal dispers tablet 200mg |   |
 | 29549 | Lamotrigine sandoz dispers tablet 200mg |   |
 | 29669 | Lamotrigine cf dispers tablet 200mg |   |
 | 29712 | Lamotrigine pch dispers tablet 200mg |   |
-| 29892 | Lamotrigine katwijk dispers tablet 200mg |   |
+| 29892 | Lamotrigine apotex dispers tablet 200mg |   |
 | 30305 | Lamotrigine mylan dispers tablet 200mg |   |
 | 32069 | Lamotrigine rp dispers tablet 200mg |   |
 | 32826 | Lamotrigine actavis dispers tablet 200mg |   |
 | Productgroep |   | Maximumprijs |
-| LAMOTRIGINE-200-MG-TABLET | LAMOTRIGINE-200-MG-TABLET | 0.53974100 per stuk |
+| LAMOTRIGINE-200-MG-TABLET | LAMOTRIGINE-200-MG-TABLET | 0.51238800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 32322 | Lamotrigine a tablet 200mg |   |
 | Productgroep |   | Maximumprijs |
-| LAMOTRIGINE-25-MG-BRUISTABLET | LAMOTRIGINE-25-MG-BRUISTABLET | 0.14570600 per stuk |
+| LAMOTRIGINE-25-MG-BRUISTABLET | LAMOTRIGINE-25-MG-BRUISTABLET | 0.14621600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 19116 | Lamictal dispers tablet 25mg |   |
 | 29546 | Lamotrigine sandoz dispers tablet 25mg |   |
@@ -4802,33 +4964,32 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 29709 | Lamotrigine pch dispers tablet 25mg |   |
 | 29889 | Lamotrigine katwijk dispers tablet 25mg |   |
 | 30302 | Lamotrigine mylan dispers tablet 25mg |   |
-| 30302 | Lamotrigine merck dispers tablet 25mg |   |
 | 32066 | Lamotrigine rp dispers tablet 25mg |   |
 | 32823 | Lamotrigine actavis dispers tablet 25mg |   |
 | Productgroep |   | Maximumprijs |
-| LAMOTRIGINE-5-MG-BRUISTABLET | LAMOTRIGINE-5-MG-BRUISTABLET | 0.11884100 per stuk |
+| LAMOTRIGINE-5-MG-BRUISTABLET | LAMOTRIGINE-5-MG-BRUISTABLET | 0.11159200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 19115 | Lamictal dispers tablet 5mg |   |
 | 29665 | Lamotrigine cf dispers tablet 5mg |   |
 | 29708 | Lamotrigine pch dispers tablet 5mg |   |
 | 32065 | Lamotrigine rp dispers tablet 5mg |   |
 | Productgroep |   | Maximumprijs |
-| LAMOTRIGINE-50-MG-BRUISTABLET | LAMOTRIGINE-50-MG-BRUISTABLET | 0.25902200 per stuk |
+| LAMOTRIGINE-50-MG-BRUISTABLET | LAMOTRIGINE-50-MG-BRUISTABLET | 0.25010100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 20926 | Lamictal dispers tablet 50mg |   |
 | 29547 | Lamotrigine sandoz dispers tablet 50mg |   |
 | 29667 | Lamotrigine cf dispers tablet 50mg |   |
 | 29710 | Lamotrigine pch dispers tablet 50mg |   |
 | 29890 | Lamotrigine katwijk dispers tablet 50mg |   |
-| 30303 | Lamotrigine merck dispers tablet 50mg |   |
+| 30303 | Lamotrigine mylan dispers tablet 50mg |   |
 | 32067 | Lamotrigine rp dispers tablet 50mg |   |
 | 32824 | Lamotrigine actavis dispers tablet 50mg |   |
 | Productgroep |   | Maximumprijs |
-| LAMOTRIGINE-50-MG-TABLET | LAMOTRIGINE-50-MG-TABLET | 0.29408600 per stuk |
+| LAMOTRIGINE-50-MG-TABLET | LAMOTRIGINE-50-MG-TABLET | 0.29283300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 32320 | Lamotrigine a tablet 50mg |   |
 | Productgroep |   | Maximumprijs |
-| LANSOPRAZOLE-15-MG-CAPSULE, MAAGSAPRESISTENT | LANSOPRAZOLE-15-MG-CAPSULE, MAAGSAPRESISTENT | 0.26016400 per stuk |
+| LANSOPRAZOLE-15-MG-CAPSULE, MAAGSAPRESISTENT | LANSOPRAZOLE-15-MG-CAPSULE, MAAGSAPRESISTENT | 0.24679400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 18696 | Prezal capsule msr 15mg |   |
 | 31537 | Lansoprazol focus capsule msr 15mg |   |
@@ -4838,7 +4999,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 33547 | Lansoprazol a capsule msr 15mg |   |
 | 33989 | Lansoprazol pch capsule msr 15mg |   |
 | Productgroep |   | Maximumprijs |
-| LANSOPRAZOLE-30-MG-CAPSULE, MAAGSAPRESISTENT | LANSOPRAZOLE-30-MG-CAPSULE, MAAGSAPRESISTENT | 0.44615800 per stuk |
+| LANSOPRAZOLE-30-MG-CAPSULE, MAAGSAPRESISTENT | LANSOPRAZOLE-30-MG-CAPSULE, MAAGSAPRESISTENT | 0.42556900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15420 | Prezal capsule msr 30mg |   |
 | 31538 | Lansoprazol focus capsule msr 30mg |   |
@@ -4848,103 +5009,104 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 33548 | Lansoprazol a capsule msr 30mg |   |
 | 33990 | Lansoprazol pch capsule msr 30mg |   |
 | Productgroep |   | Maximumprijs |
-| LANTHAAN CARBONAAT-1000-MG-KAUWDRAGEE/KAUWTABLET | LANTHAAN CARBONAAT-1000-MG-KAUWDRAGEE/KAUWTABLET | 2.52029400 per stuk |
+| LANTHAAN CARBONAAT-1000-MG-KAUWDRAGEE/KAUWTABLET | LANTHAAN CARBONAAT-1000-MG-KAUWDRAGEE/KAUWTABLET | 2.55011300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 31930 | Fosrenol kauwtablet 1000mg |   |
 | Productgroep |   | Maximumprijs |
-| LANTHAAN CARBONAAT-500-MG-KAUWDRAGEE/KAUWTABLET | LANTHAAN CARBONAAT-500-MG-KAUWDRAGEE/KAUWTABLET | 1.84545200 per stuk |
+| LANTHAAN CARBONAAT-500-MG-KAUWDRAGEE/KAUWTABLET | LANTHAAN CARBONAAT-500-MG-KAUWDRAGEE/KAUWTABLET | 1.86141400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 102682/31928 | Fosrenol kauwtablet 500mg |   |
+| 105727/31928 | Fosrenol kauwtablet 500mg |   |
 | 31928 | Fosrenol kauwtablet 500mg |   |
 | Productgroep |   | Maximumprijs |
-| LANTHAAN CARBONAAT-750-MG-KAUWDRAGEE/KAUWTABLET | LANTHAAN CARBONAAT-750-MG-KAUWDRAGEE/KAUWTABLET | 2.42970900 per stuk |
+| LANTHAAN CARBONAAT-750-MG-KAUWDRAGEE/KAUWTABLET | LANTHAAN CARBONAAT-750-MG-KAUWDRAGEE/KAUWTABLET | 2.45387200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 101782/31929 | Fosrenol kauwtablet 750mg |   |
 | 31929 | Fosrenol kauwtablet 750mg |   |
 | Productgroep |   | Maximumprijs |
-| LATANOPROST-.05-MG/ML-OOGDRUPPELS | LATANOPROST-.05-MG/ML-OOGDRUPPELS | 6.27090400 per ml |
+| LATANOPROST-.05-MG/ML-OOGDRUPPELS | LATANOPROST-.05-MG/ML-OOGDRUPPELS | 6.33063300 per ml |
 | Registratienummer | Artikelnaam |   |
 | 21304 | Xalatan oogdruppels 50mcg/ml flacon 2,5ml |   |
 | 25960/21304 | Xalatan oogdruppels 50mcg/ml flacon 2,5ml |   |
 | 26969/21304 | Xalatan oogdruppels 50mcg/ml flacon 2,5ml |   |
 | 31429/21304 | Xalatan oogdruppels 50mcg/ml flacon 2,5ml |   |
 | Productgroep |   | Maximumprijs |
-| LEFLUNOMIDE-10-MG-TABLET | LEFLUNOMIDE-10-MG-TABLET | 2.06629500 per stuk |
+| LEFLUNOMIDE-10-MG-TABLET | LEFLUNOMIDE-10-MG-TABLET | 2.08405500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/99/118/003 | Arava tablet omhuld 10mg |   |
 | Productgroep |   | Maximumprijs |
-| LEFLUNOMIDE-100-MG-TABLET | LEFLUNOMIDE-100-MG-TABLET | 13.45991700 per stuk |
+| LEFLUNOMIDE-100-MG-TABLET | LEFLUNOMIDE-100-MG-TABLET | 13.66499500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/99/118/009 | Arava tablet omhuld 100mg |   |
 | Productgroep |   | Maximumprijs |
-| LEFLUNOMIDE-20-MG-TABLET | LEFLUNOMIDE-20-MG-TABLET | 2.33913800 per stuk |
+| LEFLUNOMIDE-20-MG-TABLET | LEFLUNOMIDE-20-MG-TABLET | 2.36302300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/99/118/007 | Arava tablet omhuld 20mg |   |
 | Productgroep |   | Maximumprijs |
-| LENALIDOMIDE-10-MG-CAPSULE | LENALIDOMIDE-10-MG-CAPSULE | 242.98787500 per stuk |
+| LENALIDOMIDE-10-MG-CAPSULE | LENALIDOMIDE-10-MG-CAPSULE | 248.61737500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/07/391/002 | Revlimid capsule 10mg |   |
 | Productgroep |   | Maximumprijs |
-| LENALIDOMIDE-15-MG-CAPSULE | LENALIDOMIDE-15-MG-CAPSULE | 255.48726900 per stuk |
+| LENALIDOMIDE-15-MG-CAPSULE | LENALIDOMIDE-15-MG-CAPSULE | 261.39824400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/07/391/003 | Revlimid capsule 15mg |   |
 | Productgroep |   | Maximumprijs |
-| LENALIDOMIDE-25-MG-CAPSULE | LENALIDOMIDE-25-MG-CAPSULE | 280.59710000 per stuk |
+| LENALIDOMIDE-25-MG-CAPSULE | LENALIDOMIDE-25-MG-CAPSULE | 287.10230000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/07/391/004 | Revlimid capsule 25mg |   |
 | Productgroep |   | Maximumprijs |
-| LENALIDOMIDE-5-MG-CAPSULE | LENALIDOMIDE-5-MG-CAPSULE | 229.87743800 per stuk |
+| LENALIDOMIDE-5-MG-CAPSULE | LENALIDOMIDE-5-MG-CAPSULE | 235.19418800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/07/391/001 | Revlimid capsule 5mg |   |
 | Productgroep |   | Maximumprijs |
-| LERCANIDIPINE-10-MG-TABLET | LERCANIDIPINE-10-MG-TABLET | 0.31192000 per stuk |
+| LERCANIDIPINE-10-MG-TABLET | LERCANIDIPINE-10-MG-TABLET | 0.31064600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100918/20813 | Lercanidipine hcl tablet omhuld 10mg |   |
 | 100919/20813 | Lercanidipine hcl tablet omhuld 10mg |   |
+| 104878/20813 | Lercanidipine hcl erc tablet omhuld 10mg |   |
 | 20813 | Lerdip tablet omhuld 10mg |   |
 | 35293/20813 | Lercanidipine hcl tablet omhuld 10mg |   |
 | Productgroep |   | Maximumprijs |
-| LERCANIDIPINE-20-MG-TABLET | LERCANIDIPINE-20-MG-TABLET | 0.41119900 per stuk |
+| LERCANIDIPINE-20-MG-TABLET | LERCANIDIPINE-20-MG-TABLET | 0.41437800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100921/28644 | Lercanidipine hcl tablet omhuld 20mg |   |
 | 100922/28644 | Lercanidipine hcl tablet omhuld 20mg |   |
 | 28644 | Lerdip tablet omhuld 20mg |   |
 | 35289/28644 | Lerdip tablet omhuld 20mg |   |
 | Productgroep |   | Maximumprijs |
-| LETROZOLE-2.5-MG-TABLET | LETROZOLE-2.5-MG-TABLET | 3.71029200 per stuk |
+| LETROZOLE-2.5-MG-TABLET | LETROZOLE-2.5-MG-TABLET | 3.74739500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100629/20755 | Femara tablet omhuld 2,5mg |   |
 | 20755 | Femara tablet omhuld 2,5mg |   |
 | 26249/20755 | Femara tablet omhuld 2,5mg |   |
-| 28193/20755 | Femara tablet omhuld 2,5mg |   |
 | 29542/20755 | Femara tablet omhuld 2,5mg |   |
 | 30295/20755 | Femara tablet omhuld 2,5mg |   |
 | 33067/20755 | Femara tablet omhuld 2,5mg |   |
 | 33839/20755 | Femara tablet omhuld 2,5mg |   |
 | 35099/20755 | Femara tablet omhuld 2,5mg |   |
 | Productgroep |   | Maximumprijs |
-| LEVETIRACETAM-100-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | LEVETIRACETAM-100-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.28215600 per ml |
+| LEVETIRACETAM-100-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | LEVETIRACETAM-100-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.28585700 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/00/146/027 | Keppra oplossing voor oraal gebruik 100mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| LEVETIRACETAM-1000-MG-TABLET | LEVETIRACETAM-1000-MG-TABLET | 2.29414200 per stuk |
+| LEVETIRACETAM-1000-MG-TABLET | LEVETIRACETAM-1000-MG-TABLET | 2.31861200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/00/146/024 | Keppra tablet filmomhuld 1000mg |   |
 | Productgroep |   | Maximumprijs |
-| LEVETIRACETAM-250-MG-TABLET | LEVETIRACETAM-250-MG-TABLET | 0.59024300 per stuk |
+| LEVETIRACETAM-250-MG-TABLET | LEVETIRACETAM-250-MG-TABLET | 0.60398500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/00/146/004 | Keppra tablet filmomhuld 250mg |   |
 | EU/1/00/146/005 | Keppra tablet filmomhuld 250mg |   |
 | Productgroep |   | Maximumprijs |
-| LEVETIRACETAM-500-MG-TABLET | LEVETIRACETAM-500-MG-TABLET | 1.15234000 per stuk |
+| LEVETIRACETAM-500-MG-TABLET | LEVETIRACETAM-500-MG-TABLET | 1.16862100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/00/146/010 | Keppra tablet filmomhuld 500mg |   |
 | Productgroep |   | Maximumprijs |
-| LEVOBUNOLOL-2.5-MG/ML-OOGDRUPPELS | LEVOBUNOLOL-2.5-MG/ML-OOGDRUPPELS | 0.70251600 per ml |
+| LEVOBUNOLOL-2.5-MG/ML-OOGDRUPPELS | LEVOBUNOLOL-2.5-MG/ML-OOGDRUPPELS | 0.68689300 per ml |
 | Registratienummer | Artikelnaam |   |
 | 12996 | Betagan liquifilm oogdruppels 0,25% flacon 5ml |   |
 | Productgroep |   | Maximumprijs |
-| LEVOBUNOLOL-5-MG/ML-OOGDRUPPELS | LEVOBUNOLOL-5-MG/ML-OOGDRUPPELS | 0.73450600 per ml |
+| LEVOBUNOLOL-5-MG/ML-OOGDRUPPELS | LEVOBUNOLOL-5-MG/ML-OOGDRUPPELS | 0.74185300 per ml |
 | Registratienummer | Artikelnaam |   |
 | 11203 | Betagan liquifilm oogdruppels 0,50% flacon 5ml |   |
 | 21539/11203 | Betagan liquifilm oogdruppels 0,50% flacon 5ml |   |
@@ -4956,13 +5118,13 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 23091/13968 | Livocab oogdruppels 0,5mg/ml flacon 4ml |   |
 | 27878/13968 | Livocab oogdruppels 0,5mg/ml flacon 4ml |   |
 | Productgroep |   | Maximumprijs |
-| LEVOCETIRIZINE-0.5-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | LEVOCETIRIZINE-0.5-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.05324200 per ml |
+| LEVOCETIRIZINE-0.5-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | LEVOCETIRIZINE-0.5-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.05511200 per ml |
 | Registratienummer | Artikelnaam |   |
 | 102585/33414 | Xyzal drank 0,5mg/ml |   |
 | 103683/33414 | Xyzal drank 0,5mg/ml |   |
 | 33414 | Xyzal drank 0,5mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| LEVOCETIRIZINE-5-MG-TABLET | LEVOCETIRIZINE-5-MG-TABLET | 0.33621500 per stuk |
+| LEVOCETIRIZINE-5-MG-TABLET | LEVOCETIRIZINE-5-MG-TABLET | 0.32590900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 26770 | Xyzal tablet filmomhuld 5mg |   |
 | 28224/26770 | Xyzal tablet filmomhuld 5mg |   |
@@ -4970,7 +5132,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 33167/26770 | Xyzal tablet filmomhuld 5mg |   |
 | 35218/26770 | Xyzal tablet filmomhuld 5mg |   |
 | Productgroep |   | Maximumprijs |
-| LEVODOPA-100-MG-CAPSULE, MET GEREGULEERDE AFGIFTE-BENSERAZIDE-25-MG-CAPSULE, MET | LEVODOPA-100-MG-CAPSULE, MET GEREGULEERDE AFGIFTE-BENSERAZIDE-25-MG-CAPSULE, MET | 0.18226600 per stuk |
+| LEVODOPA-100-MG-CAPSULE, MET GEREGULEERDE AFGIFTE-BENSERAZIDE-25-MG-CAPSULE, MET | LEVODOPA-100-MG-CAPSULE, MET GEREGULEERDE AFGIFTE-BENSERAZIDE-25-MG-CAPSULE, MET | 0.18564400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100596/12489 | Madopar hbs capsule mga 125mg |   |
 | 101003/12489 | Madopar hbs capsule mga 125mg |   |
@@ -4978,54 +5140,62 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 23344/12489 | Madopar hbs capsule mga 125mg |   |
 | 32458/12489 | Madopar hbs capsule mga 125mg |   |
 | Productgroep |   | Maximumprijs |
-| LEVODOPA-100-MG-TABLET-CARBIDOPA-10-MG-TABLET | LEVODOPA-100-MG-TABLET-CARBIDOPA-10-MG-TABLET | 0.11838800 per stuk |
+| LEVODOPA-100-MG-TABLET, MET GEREGULEERDE AFGIFTE-CARBIDOPA-25-MG-TABLET, MET GER | LEVODOPA-100-MG-TABLET, MET GEREGULEERDE AFGIFTE-CARBIDOPA-25-MG-TABLET, MET GER | 0.19712400 per stuk |
+| Registratienummer | Artikelnaam |   |
+| 15175 | Sinemet cr 125 tablet mga 100/25mg |   |
+| Productgroep |   | Maximumprijs |
+| LEVODOPA-100-MG-TABLET-CARBIDOPA-10-MG-TABLET | LEVODOPA-100-MG-TABLET-CARBIDOPA-10-MG-TABLET | 0.11546100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 21676 | Levodopa/carbidopa pch 110 tablet 100/10mg |   |
 | 6706 | Sinemet 110 tablet 100/10mg |   |
 | Productgroep |   | Maximumprijs |
-| LEVODOPA-100-MG-TABLET-CARBIDOPA-25-MG-TABLET | LEVODOPA-100-MG-TABLET-CARBIDOPA-25-MG-TABLET | 0.14982100 per stuk |
+| LEVODOPA-100-MG-TABLET-CARBIDOPA-25-MG-TABLET | LEVODOPA-100-MG-TABLET-CARBIDOPA-25-MG-TABLET | 0.16763900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 21677 | Levodopa/carbidopa pch 125 tablet 100/25mg |   |
 | 8740 | Sinemet 125 tablet 100/25mg |   |
 | Productgroep |   | Maximumprijs |
-| LEVODOPA-100-MG-TABLET-CARBIDOPA-25-MG-TABLET-ENTACAPON-200-MG-TABLET | LEVODOPA-100-MG-TABLET-CARBIDOPA-25-MG-TABLET-ENTACAPON-200-MG-TABLET | 0.93508200 per stuk |
+| LEVODOPA-100-MG-TABLET-CARBIDOPA-25-MG-TABLET-ENTACAPON-200-MG-TABLET | LEVODOPA-100-MG-TABLET-CARBIDOPA-25-MG-TABLET-ENTACAPON-200-MG-TABLET | 0.94121100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/03/260/006 | Stalevo tablet filmomhuld 100/25/200mg |   |
 | EU/1/03/260/007 | Stalevo tablet filmomhuld 100/25/200mg |   |
 | Productgroep |   | Maximumprijs |
-| LEVODOPA-150-MG-TABLET-CARBIDOPA-37.5-MG-TABLET-ENTACAPON-200-MG-TABLET | LEVODOPA-150-MG-TABLET-CARBIDOPA-37.5-MG-TABLET-ENTACAPON-200-MG-TABLET | 0.97939000 per stuk |
+| LEVODOPA-125-MG-TABLET-CARBIDOPA-31.25-MG-TABLET-ENTACAPON-200-MG-TABLET | LEVODOPA-125-MG-TABLET-CARBIDOPA-31.25-MG-TABLET-ENTACAPON-200-MG-TABLET | 0.96235200 per stuk |
+| Registratienummer | Artikelnaam |   |
+| EU/1/03/260/031 | Stalevo tablet filmomhuld 125/31,25/200mg |   |
+| Productgroep |   | Maximumprijs |
+| LEVODOPA-150-MG-TABLET-CARBIDOPA-37.5-MG-TABLET-ENTACAPON-200-MG-TABLET | LEVODOPA-150-MG-TABLET-CARBIDOPA-37.5-MG-TABLET-ENTACAPON-200-MG-TABLET | 0.98254700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/03/260/010 | Stalevo tablet filmomhuld 150/37,5/200mg |   |
 | EU/1/03/260/011 | Stalevo tablet filmomhuld 150/37,5/200mg |   |
 | Productgroep |   | Maximumprijs |
-| LEVODOPA-20-MG/ML-GEL, ORAAL-CARBIDOPA-5-MG/ML-GEL, ORAAL | LEVODOPA-20-MG/ML-GEL, ORAAL-CARBIDOPA-5-MG/ML-GEL, ORAAL | 1.03478900 per ml |
+| LEVODOPA-20-MG/ML-GEL, ORAAL-CARBIDOPA-5-MG/ML-GEL, ORAAL | LEVODOPA-20-MG/ML-GEL, ORAAL-CARBIDOPA-5-MG/ML-GEL, ORAAL | 1.09272800 per ml |
 | Registratienummer | Artikelnaam |   |
 | 30589 | Duodopa intestinale gel 20/5mg/ml zak 100ml |   |
 | Productgroep |   | Maximumprijs |
-| LEVODOPA-200-MG-TABLET, MET GEREGULEERDE AFGIFTE-CARBIDOPA-50-MG-TABLET, MET GER | LEVODOPA-200-MG-TABLET, MET GEREGULEERDE AFGIFTE-CARBIDOPA-50-MG-TABLET, MET GER | 0.24501900 per stuk |
+| LEVODOPA-200-MG-TABLET, MET GEREGULEERDE AFGIFTE-CARBIDOPA-50-MG-TABLET, MET GER | LEVODOPA-200-MG-TABLET, MET GEREGULEERDE AFGIFTE-CARBIDOPA-50-MG-TABLET, MET GER | 0.24799200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13706 | Sinemet cr 250 tablet mga 200/50mg |   |
 | 26893 | Levodopa/carbidopa sdz 250 ret tablet mga 200/50mg |   |
 | 27060 | Levodopa/carbidopa pch 250 ret tablet mga 200/50mg |   |
 | 30655 | Levodopa/carbidopa rp 250 ret tablet mga 200/50mg |   |
 | Productgroep |   | Maximumprijs |
-| LEVODOPA-200-MG-TABLET-BENSERAZIDE-50-MG-TABLET | LEVODOPA-200-MG-TABLET-BENSERAZIDE-50-MG-TABLET | 0.26865700 per stuk |
+| LEVODOPA-200-MG-TABLET-BENSERAZIDE-50-MG-TABLET | LEVODOPA-200-MG-TABLET-BENSERAZIDE-50-MG-TABLET | 0.25037400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100595/11605 | Madopar tablet 250mg |   |
 | 101007/11605 | Madopar tablet 250mg |   |
 | 11605 | Madopar tablet 250mg |   |
 | 32051/11605 | Madopar tablet 250mg |   |
 | Productgroep |   | Maximumprijs |
-| LEVODOPA-200-MG-TABLET-CARBIDOPA-50-MG-TABLET-ENTACAPON-200-MG-TABLET | LEVODOPA-200-MG-TABLET-CARBIDOPA-50-MG-TABLET-ENTACAPON-200-MG-TABLET | 0.99943500 per stuk |
+| LEVODOPA-200-MG-TABLET-CARBIDOPA-50-MG-TABLET-ENTACAPON-200-MG-TABLET | LEVODOPA-200-MG-TABLET-CARBIDOPA-50-MG-TABLET-ENTACAPON-200-MG-TABLET | 1.01043900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/03/260/021 | Stalevo tablet filmomhuld 200/50/200mg |   |
 | Productgroep |   | Maximumprijs |
-| LEVODOPA-250-MG-TABLET-CARBIDOPA-25-MG-TABLET | LEVODOPA-250-MG-TABLET-CARBIDOPA-25-MG-TABLET | 0.18161700 per stuk |
+| LEVODOPA-250-MG-TABLET-CARBIDOPA-25-MG-TABLET | LEVODOPA-250-MG-TABLET-CARBIDOPA-25-MG-TABLET | 0.20474600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 21678 | Levodopa/carbidopa pch 275 tablet 250/25mg |   |
 | 6707 | Sinemet 275 tablet 250/25mg |   |
 | Productgroep |   | Maximumprijs |
-| LEVODOPA-50-MG-CAPSULE-BENSERAZIDE-12.5-MG-CAPSULE | LEVODOPA-50-MG-CAPSULE-BENSERAZIDE-12.5-MG-CAPSULE | 0.07281800 per stuk |
+| LEVODOPA-50-MG-CAPSULE-BENSERAZIDE-12.5-MG-CAPSULE | LEVODOPA-50-MG-CAPSULE-BENSERAZIDE-12.5-MG-CAPSULE | 0.07431900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13566/8475 | Modopar capsule 62,5mg |   |
 | 13566/8475 | Modopar 62,5 capsule 62,5mg |   |
@@ -5033,18 +5203,22 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 8475 | Madopar capsule 62,5mg |   |
 | 8475 | Madopar capsule 62,5mg |   |
 | Productgroep |   | Maximumprijs |
-| LEVODOPA-50-MG-TABLET-CARBIDOPA-12.5-MG-TABLET-ENTACAPON-200-MG-TABLET | LEVODOPA-50-MG-TABLET-CARBIDOPA-12.5-MG-TABLET-ENTACAPON-200-MG-TABLET | 0.92004500 per stuk |
+| LEVODOPA-50-MG-TABLET-CARBIDOPA-12.5-MG-TABLET-ENTACAPON-200-MG-TABLET | LEVODOPA-50-MG-TABLET-CARBIDOPA-12.5-MG-TABLET-ENTACAPON-200-MG-TABLET | 0.92286800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/03/260/002 | Stalevo tablet filmomhuld 50/12,5/200mg |   |
 | EU/1/03/260/003 | Stalevo tablet filmomhuld 50/12,5/200mg |   |
 | Productgroep |   | Maximumprijs |
-| LEVOFLOXACINE-250-MG-TABLET | LEVOFLOXACINE-250-MG-TABLET | 1.55182100 per stuk |
+| LEVODOPA-75-MG-TABLET-CARBIDOPA-18.75-MG-TABLET-ENTACAPON-200-MG-TABLET | LEVODOPA-75-MG-TABLET-CARBIDOPA-18.75-MG-TABLET-ENTACAPON-200-MG-TABLET | 0.94998600 per stuk |
+| Registratienummer | Artikelnaam |   |
+| EU/1/03/260/026 | Stalevo tablet filmomhuld 75/18,75/200mg |   |
+| Productgroep |   | Maximumprijs |
+| LEVOFLOXACINE-250-MG-TABLET | LEVOFLOXACINE-250-MG-TABLET | 1.58194900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 102382/21811 | Tavanic tablet omhuld 250mg |   |
 | 21811 | Tavanic tablet omhuld 250mg |   |
 | 34523/21811 | Tavanic tablet omhuld 250mg |   |
 | Productgroep |   | Maximumprijs |
-| LEVOFLOXACINE-500-MG-TABLET | LEVOFLOXACINE-500-MG-TABLET | 2.95277900 per stuk |
+| LEVOFLOXACINE-500-MG-TABLET | LEVOFLOXACINE-500-MG-TABLET | 2.99064700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100043/21812 | Tavanic tablet omhuld 500mg |   |
 | 102776/21812 | Tavanic tablet omhuld 500mg |   |
@@ -5052,94 +5226,86 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 25710/21812 | Tavanic tablet omhuld 500mg |   |
 | 34631/21812 | Tavanic tablet omhuld 500mg |   |
 | Productgroep |   | Maximumprijs |
-| LEVONORGESTREL-1.5-MG-TABLET | LEVONORGESTREL-1.5-MG-TABLET | 7.25970800 per stuk |
-| Registratienummer | Artikelnaam |   |
-| 102312/32303 | Norlevo tablet 1,5mg |   |
-| 104101/32303 | Norlevo tablet 1,5mg |   |
-| 32303 | Norlevo tablet 1,5mg |   |
-| Productgroep |   | Maximumprijs |
-| LEVOTHYROXINE SODIUM-.025-MG-TABLET | LEVOTHYROXINE SODIUM-.025-MG-TABLET | 0.03188500 per stuk |
+| LEVOTHYROXINE SODIUM-.025-MG-TABLET | LEVOTHYROXINE SODIUM-.025-MG-TABLET | 0.03733800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11718 | Euthyrox tablet 25mcg |   |
-| 9334 | Thyrax tablet 0,025mg |   |
 | 9334 | Thyrax duotab tablet 0,025mg |   |
+| 9334 | Thyrax tablet 0,025mg |   |
 | Productgroep |   | Maximumprijs |
-| LEVOTHYROXINE SODIUM-.05-MG-TABLET | LEVOTHYROXINE SODIUM-.05-MG-TABLET | 0.02770500 per stuk |
+| LEVOTHYROXINE SODIUM-.05-MG-TABLET | LEVOTHYROXINE SODIUM-.05-MG-TABLET | 0.02813300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11344 | Euthyrox tablet 50mcg |   |
 | 57234 | Levothyroxine christiaens tablet 50mcg |   |
 | 8451 | Eltroxin 50 tablet 50mcg |   |
 | Productgroep |   | Maximumprijs |
-| LEVOTHYROXINE SODIUM-.1-MG-TABLET | LEVOTHYROXINE SODIUM-.1-MG-TABLET | 0.04284000 per stuk |
+| LEVOTHYROXINE SODIUM-.1-MG-TABLET | LEVOTHYROXINE SODIUM-.1-MG-TABLET | 0.04358600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 8389 | Thyrax tablet 0,1mg |   |
 | 8389 | Thyrax duotab tablet 0,100mg |   |
 | 8452 | Eltroxin 100 tablet 100mcg |   |
 | 9009 | Euthyrox tablet 100mcg |   |
 | Productgroep |   | Maximumprijs |
-| LEVOTHYROXINE SODIUM-.125-MG-TABLET | LEVOTHYROXINE SODIUM-.125-MG-TABLET | 0.05889300 per stuk |
+| LEVOTHYROXINE SODIUM-.125-MG-TABLET | LEVOTHYROXINE SODIUM-.125-MG-TABLET | 0.05984100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15468 | Euthyrox tablet 125mcg |   |
 | Productgroep |   | Maximumprijs |
-| LEVOTHYROXINE SODIUM-.15-MG-TABLET | LEVOTHYROXINE SODIUM-.15-MG-TABLET | 0.06466000 per stuk |
+| LEVOTHYROXINE SODIUM-.15-MG-TABLET | LEVOTHYROXINE SODIUM-.15-MG-TABLET | 0.06229800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11345 | Euthyrox tablet 150mcg |   |
 | 13683 | Thyrax duotab tablet 0,150mg |   |
 | Productgroep |   | Maximumprijs |
-| LEVOTHYROXINE SODIUM-.175-MG-TABLET | LEVOTHYROXINE SODIUM-.175-MG-TABLET | 0.07317900 per stuk |
+| LEVOTHYROXINE SODIUM-.175-MG-TABLET | LEVOTHYROXINE SODIUM-.175-MG-TABLET | 0.07400300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 26173 | Euthyrox tablet 175mcg |   |
 | Productgroep |   | Maximumprijs |
-| LEVOTHYROXINE SODIUM-.2-MG-TABLET | LEVOTHYROXINE SODIUM-.2-MG-TABLET | 0.07932600 per stuk |
+| LEVOTHYROXINE SODIUM-.2-MG-TABLET | LEVOTHYROXINE SODIUM-.2-MG-TABLET | 0.07829500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 26174 | Euthyrox tablet 200mcg |   |
 | Productgroep |   | Maximumprijs |
-| LISINOPRIL-10-MG-TABLET | LISINOPRIL-10-MG-TABLET | 0.08488400 per stuk |
+| LISINOPRIL-10-MG-TABLET | LISINOPRIL-10-MG-TABLET | 0.07030400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12561 | Zestril tablet 10mg |   |
 | 26332 | Lisinopril pch tablet 10mg |   |
 | 26362 | Lisinopril cf tablet 10mg |   |
-| 27122 | Lisinopril katwijk tablet 10mg |   |
+| 27122 | Lisinopril apotex tablet 10mg |   |
 | 27709 | Lisinopril actavis tablet 10mg |   |
-| 27913 | Lisinopril merck tablet 10mg |   |
+| 27913 | Lisinopril mylan tablet 10mg |   |
 | 28134 | Lisinopril a tablet 10mg |   |
 | 28137 | Lisinopril rp tablet 10mg |   |
 | 28425 | Lisinopril sandoz tablet 10mg |   |
 | 33564 | Lisinopril focus tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| LISINOPRIL-20-MG-TABLET | LISINOPRIL-20-MG-TABLET | 0.19303300 per stuk |
+| LISINOPRIL-20-MG-TABLET | LISINOPRIL-20-MG-TABLET | 0.18212000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12562 | Zestril tablet 20mg |   |
 | 26333 | Lisinopril pch tablet 20mg |   |
 | 26363 | Lisinopril cf tablet 20mg |   |
-| 27123 | Lisinopril katwijk tablet 20mg |   |
+| 27123 | Lisinopril apotex tablet 20mg |   |
 | 27710 | Lisinopril actavis tablet 20mg |   |
-| 27914 | Lisinopril merck tablet 20mg |   |
+| 27914 | Lisinopril mylan tablet 20mg |   |
 | 28135 | Lisinopril a tablet 20mg |   |
 | 28138 | Lisinopril rp tablet 20mg |   |
 | 28426 | Lisinopril sandoz tablet 20mg |   |
 | 33565 | Lisinopril focus tablet 20mg |   |
 | Productgroep |   | Maximumprijs |
-| LISINOPRIL-5-MG-TABLET | LISINOPRIL-5-MG-TABLET | 0.07947600 per stuk |
+| LISINOPRIL-5-MG-TABLET | LISINOPRIL-5-MG-TABLET | 0.07112600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12560 | Zestril tablet 5mg |   |
 | 26331 | Lisinopril pch tablet 5mg |   |
 | 26361 | Lisinopril cf tablet 5mg |   |
-| 27121 | Lisinopril katwijk tablet 5mg |   |
+| 27121 | Lisinopril apotex tablet 5mg |   |
 | 27708 | Lisinopril actavis tablet 5mg |   |
 | 28133 | Lisinopril a tablet 5mg |   |
 | 28136 | Lisinopril rp tablet 5mg |   |
-| 28419 | Lisinopril cf tablet 5mg |   |
 | 28424 | Lisinopril sandoz tablet 5mg |   |
 | 32945 | Lisinopril mylan tablet 5mg |   |
-| 32945 | Lisinopril merck tablet 5mg |   |
 | 33563 | Lisinopril focus tablet 5mg |   |
 | Productgroep |   | Maximumprijs |
-| LOPRAZOLAM-1-MG-TABLET |   | 0.36873300 per stuk |
+| LOPRAZOLAM-1-MG-TABLET | LOPRAZOLAM-1-MG-TABLET | 0.38801200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 9882 | Dormonoct tablet 1mg |   |
 | Productgroep |   | Maximumprijs |
-| LORAZEPAM-1-MG-TABLET | LORAZEPAM-1-MG-TABLET | 0.13190300 per stuk |
+| LORAZEPAM-1-MG-TABLET | LORAZEPAM-1-MG-TABLET | 0.13095500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10044 | Lorazepam pch tablet 1mg |   |
 | 12327 | Lorazepam sandoz tablet 1mg |   |
@@ -5147,9 +5313,10 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 25650=19695 | Lorazepam a tablet 1mg |   |
 | 55938 | Lorazepam cf tablet 1mg |   |
 | 56628 | Lorazepam rp tablet 1mg |   |
+| 57547 | Lorazepam apotex tablet 1mg |   |
 | 57547 | Lorazepam katwijk tablet 1mg |   |
 | Productgroep |   | Maximumprijs |
-| LORAZEPAM-2.5-MG-TABLET | LORAZEPAM-2.5-MG-TABLET | 0.22791000 per stuk |
+| LORAZEPAM-2.5-MG-TABLET | LORAZEPAM-2.5-MG-TABLET | 0.23057700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10045 | Lorazepam pch tablet 2,5mg |   |
 | 12328 | Lorazepam sandoz tablet 2,5mg |   |
@@ -5159,7 +5326,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 56629 | Lorazepam rp tablet 2,5mg |   |
 | 57548 | Lorazepam katwijk tablet 2,5mg |   |
 | Productgroep |   | Maximumprijs |
-| LORMETAZEPAM-1-MG-TABLET | LORMETAZEPAM-1-MG-TABLET | 0.77538700 per stuk |
+| LORMETAZEPAM-1-MG-TABLET | LORMETAZEPAM-1-MG-TABLET | 0.76766800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 16364 | Lormetazepam sandoz tablet 1mg |   |
 | 18246 | Lormetazepam actavis tablet 1mg |   |
@@ -5167,12 +5334,11 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 24657 | Lormetazepam katwijk tablet 1mg |   |
 | 25166=23458 | Lormetazepam a tablet 1mg |   |
 | 25315 | Lormetazepam rp tablet 1mg |   |
-| 25956=23458 | Lormetazepam merck tablet 1mg |   |
 | 25956=23458 | Lormetazepam mylan tablet 1mg |   |
 | 56771 | Lormetazepam pch tablet 1mg |   |
 | 8606 | Noctamid 1 tablet 1mg |   |
 | Productgroep |   | Maximumprijs |
-| LORMETAZEPAM-2-MG-TABLET | LORMETAZEPAM-2-MG-TABLET | 0.15907500 per stuk |
+| LORMETAZEPAM-2-MG-TABLET | LORMETAZEPAM-2-MG-TABLET | 0.16008600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15284 | Noctamid 2 tablet 2mg |   |
 | 16365 | Lormetazepam sandoz tablet 2mg |   |
@@ -5184,7 +5350,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 25957=23459 | Lormetazepam mylan tablet 2mg |   |
 | 56772 | Lormetazepam pch tablet 2mg |   |
 | Productgroep |   | Maximumprijs |
-| LOSARTAN-100-MG-TABLET | LOSARTAN-100-MG-TABLET | 0.90423500 per stuk |
+| LOSARTAN-100-MG-TABLET | LOSARTAN-100-MG-TABLET | 0.90201000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100519/26791 | Kaliumlosartan tablet filmomhuld 100mg |   |
 | 101191/26791 | Cozaar tablet filmomhuld 100mg |   |
@@ -5199,7 +5365,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 32732/26791 | Losartan tablet filmomhuld 100mg |   |
 | 34558/26791 | Losartan tablet filmomhuld 100mg |   |
 | Productgroep |   | Maximumprijs |
-| LOSARTAN-50-MG-TABLET | LOSARTAN-50-MG-TABLET | 0.61552400 per stuk |
+| LOSARTAN-50-MG-TABLET | LOSARTAN-50-MG-TABLET | € 0,616063 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100616/17617 | Cozaar tablet filmomhuld 50mg |   |
 | 101457/17617 | Cozaar tablet filmomhuld 50mg |   |
@@ -5213,74 +5379,74 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 33769/17617 | Losartan tablet 50mg |   |
 | 33835/17617 | Cozaar tablet filmomhuld 50mg |   |
 | Productgroep |   | Maximumprijs |
-| LYNESTRENOL-5-MG-TABLET | LYNESTRENOL-5-MG-TABLET | 0.09779100 per stuk |
+| LYNESTRENOL-5-MG-TABLET | LYNESTRENOL-5-MG-TABLET | 0.09370600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 278 | Orgametril tablet 5mg |   |
 | 30283/278 | Orgametril tablet 5mg |   |
 | 31047/278 | Orgametril tablet 5mg |   |
 | Productgroep |   | Maximumprijs |
-| MAPROTILINE-25-MG-TABLET | MAPROTILINE-25-MG-TABLET | 0.06371800 per stuk |
+| MAPROTILINE-25-MG-TABLET | MAPROTILINE-25-MG-TABLET | 0.06323700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 17054=57516 | Maprotiline hcl cf tablet 25mg |   |
 | 23928=57516 | Maprotiline hcl sandoz tablet 25mg |   |
-| 24304=57516 | Maprotiline hcl merck tablet 25mg |   |
+| 24304=57516 | Maprotiline hcl mylan tablet 25mg |   |
 | 57470 | Maprotiline hcl pch tablet 25mg |   |
 | 57516 | Maprotiline hcl rp tablet 25mg |   |
 | Productgroep |   | Maximumprijs |
-| MAPROTILINE-50-MG-TABLET | MAPROTILINE-50-MG-TABLET | 0.11704600 per stuk |
+| MAPROTILINE-50-MG-TABLET | MAPROTILINE-50-MG-TABLET | 0.11552100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 17055=57517 | Maprotiline hcl cf tablet 50mg |   |
 | 23929=57517 | Maprotiline hcl sandoz tablet 50mg |   |
-| 24305=57517 | Maprotiline hcl merck tablet 50mg |   |
+| 24305=57517 | Maprotiline hcl mylan tablet 50mg |   |
 | 57471 | Maprotiline hcl pch tablet 50mg |   |
 | 57517 | Maprotiline hcl rp tablet 50mg |   |
 | Productgroep |   | Maximumprijs |
-| MAPROTILINE-75-MG-TABLET | MAPROTILINE-75-MG-TABLET | 0.18306200 per stuk |
+| MAPROTILINE-75-MG-TABLET | MAPROTILINE-75-MG-TABLET | 0.18305500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 17056=57518 | Maprotiline hcl cf tablet 75mg |   |
 | 23930=57518 | Maprotiline hcl sandoz tablet 75mg |   |
-| 24306=57518 | Maprotiline hcl merck tablet 75mg |   |
+| 24306=57518 | Maprotiline hcl mylan tablet 75mg |   |
 | 57431 | Maprotiline hcl pch tablet 75mg |   |
 | 57518 | Maprotiline hcl rp tablet 75mg |   |
 | Productgroep |   | Maximumprijs |
-| MARAVIROC-150-MG-TABLET | MARAVIROC-150-MG-TABLET | 13.12317000 per stuk |
+| MARAVIROC-150-MG-TABLET | MARAVIROC-150-MG-TABLET | 13.25406100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/07/418/003 | Celsentri tablet filmomhuld 150mg |   |
 | Productgroep |   | Maximumprijs |
-| MARAVIROC-300-MG-TABLET | MARAVIROC-300-MG-TABLET | 13.12317000 per stuk |
+| MARAVIROC-300-MG-TABLET | MARAVIROC-300-MG-TABLET | 13.25405000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/07/418/008 | Celsentri tablet filmomhuld 300mg |   |
 | Productgroep |   | Maximumprijs |
-| MEBEVERINE-200-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | MEBEVERINE-200-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.28754000 per stuk |
+| MEBEVERINE-200-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | MEBEVERINE-200-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.28844400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11657 | Duspatal retard capsule mga 200mg |   |
 | 21595/11657 | Duspatalin capsule mga 200mg |   |
 | 21595/11657 | Duspatalin retard capsule mga 200mg |   |
 | 31404/11657 | Duspatalin capsule mga 200mg |   |
 | Productgroep |   | Maximumprijs |
-| MEDROXYPROGESTERONE-10-MG-TABLET | MEDROXYPROGESTERONE-10-MG-TABLET | 0.22836800 per stuk |
+| MEDROXYPROGESTERONE-10-MG-TABLET | MEDROXYPROGESTERONE-10-MG-TABLET | 0.24733200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 9986 | Provera tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| MEDROXYPROGESTERONE-100-MG-TABLET | MEDROXYPROGESTERONE-100-MG-TABLET | 0.56735300 per stuk |
+| MEDROXYPROGESTERONE-100-MG-TABLET | MEDROXYPROGESTERONE-100-MG-TABLET | 0.52601200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15248 | Medroxyprogesteron acetaat pch 100 tablet 100mg |   |
 | 6166 | Provera tablet 100mg |   |
 | Productgroep |   | Maximumprijs |
-| MEDROXYPROGESTERONE-5-MG-TABLET | MEDROXYPROGESTERONE-5-MG-TABLET | 0.13379000 per stuk |
+| MEDROXYPROGESTERONE-5-MG-TABLET | MEDROXYPROGESTERONE-5-MG-TABLET | 0.15206000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 601 | Provera tablet 5mg |   |
 | Productgroep |   | Maximumprijs |
-| MEDROXYPROGESTERONE-500-MG-TABLET | MEDROXYPROGESTERONE-500-MG-TABLET | 2.33279400 per stuk |
+| MEDROXYPROGESTERONE-500-MG-TABLET | MEDROXYPROGESTERONE-500-MG-TABLET | 2.35982400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15250 | Medroxyprogesteron acetaat pch 500 tablet 500mg |   |
 | Productgroep |   | Maximumprijs |
-| MEGESTROL-160-MG-TABLET | MEGESTROL-160-MG-TABLET | 3.90074200 per stuk |
+| MEGESTROL-160-MG-TABLET | MEGESTROL-160-MG-TABLET | 3.95013400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15579 | Megestrolacetaat pch tablet 160mg |   |
 | 17636/11209 | Megace tablet 160mg |   |
 | Productgroep |   | Maximumprijs |
-| MELOXICAM-15-MG-TABLET | MELOXICAM-15-MG-TABLET | 0.26926900 per stuk |
+| MELOXICAM-15-MG-TABLET | MELOXICAM-15-MG-TABLET | 0.26404800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100512 | Meloxicam a tablet 15mg |   |
 | 100628 | Meloxicam rp tablet 15mg |   |
@@ -5291,11 +5457,11 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 32723 | Meloxicam actavis tablet 15mg |   |
 | 34186 | Meloxicam mylan tablet 15mg |   |
 | Productgroep |   | Maximumprijs |
-| MELOXICAM-15-MG-ZETPIL | MELOXICAM-15-MG-ZETPIL | 0.60589500 per stuk |
+| MELOXICAM-15-MG-ZETPIL | MELOXICAM-15-MG-ZETPIL | 0.59458800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 19379 | Movicox zetpil 15mg |   |
 | Productgroep |   | Maximumprijs |
-| MELOXICAM-7.5-MG-TABLET | MELOXICAM-7.5-MG-TABLET | 0.16648300 per stuk |
+| MELOXICAM-7.5-MG-TABLET | MELOXICAM-7.5-MG-TABLET | 0.16234900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100494 | Meloxicam a tablet 7,5mg |   |
 | 100623 | Meloxicam rp tablet 7,5mg |   |
@@ -5307,75 +5473,73 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 32722 | Meloxicam actavis tablet 7,5mg |   |
 | 34185 | Meloxicam mylan tablet 7,5mg |   |
 | Productgroep |   | Maximumprijs |
-| MELPHALAN-2-MG-TABLET | MELPHALAN-2-MG-TABLET | 0.51859200 per stuk |
+| MELPHALAN-2-MG-TABLET | MELPHALAN-2-MG-TABLET | 0.52719200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 4473 | Alkeran tablet filmomhuld 2mg |   |
 | Productgroep |   | Maximumprijs |
-| MEMANTINE-10-MG-TABLET | MEMANTINE-10-MG-TABLET | 1.44591800 per stuk |
+| MEMANTINE-10-MG-TABLET | MEMANTINE-10-MG-TABLET | 1.45827800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/02/219/002 | Ebixa tablet filmomhuld 10mg |   |
 | EU/1/02/219/003 | Ebixa tablet filmomhuld 10mg |   |
-| EU/1/02/219/007 | Ebixa tablet filmomhuld 10mg |   |
 | EU/1/02/219/008 | Ebixa tablet filmomhuld 10mg |   |
 | EU/1/02/219/009 | Ebixa tablet filmomhuld 10mg |   |
 | Productgroep |   | Maximumprijs |
-| MEMANTINE-10-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | MEMANTINE-10-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 1.44729600 per g |
+| MEMANTINE-10-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | MEMANTINE-10-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 1.45967800 per g |
 | Registratienummer | Artikelnaam |   |
 | EU/1/02/219/005 | Ebixa druppels 10mg/g |   |
-| EU/1/02/219/006 | Ebixa druppels 10mg/g |   |
 | Productgroep |   | Maximumprijs |
-| MEMANTINE-20-MG-TABLET | MEMANTINE-20-MG-TABLET | 2.91990400 per stuk |
+| MEMANTINE-20-MG-TABLET | MEMANTINE-20-MG-TABLET | 2.97129200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/02/219/024 | Ebixa tablet filmomhuld 20mg |   |
 | EU/1/02/219/027 | Ebixa tablet filmomhuld 20mg |   |
 | Productgroep |   | Maximumprijs |
-| MEMANTINE-5-MG-TABLET-MEMANTINE FASE 2-10-MG-TABLET-MEMANTINE FASE 3-15-MG-TABLE | MEMANTINE-5-MG-TABLET-MEMANTINE FASE 2-10-MG-TABLET-MEMANTINE FASE 3-15-MG-TABLE | 1.82051100 per stuk |
+| MEMANTINE-5-MG-TABLET-MEMANTINE FASE 2-10-MG-TABLET-MEMANTINE FASE 3-15-MG-TABLE | MEMANTINE-5-MG-TABLET-MEMANTINE FASE 2-10-MG-TABLET-MEMANTINE FASE 3-15-MG-TABLE | 1.86868600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/02/219/022 | Ebixa startverpakking (7x5mg+7x10mg+7x15mg+7x20mg) |   |
 | Productgroep |   | Maximumprijs |
-| MERCAPTAMINE-150-MG-CAPSULE | MERCAPTAMINE-150-MG-CAPSULE | 2.27648700 per stuk |
+| MERCAPTAMINE-150-MG-CAPSULE | MERCAPTAMINE-150-MG-CAPSULE | 2.44003600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/97/039/003 | Cystagon capsule 150mg |   |
 | Productgroep |   | Maximumprijs |
-| MERCAPTAMINE-50-MG-CAPSULE | MERCAPTAMINE-50-MG-CAPSULE | 0.88717700 per stuk |
+| MERCAPTAMINE-50-MG-CAPSULE | MERCAPTAMINE-50-MG-CAPSULE | 0.96910300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/97/039/001 | Cystagon capsule 50mg |   |
 | Productgroep |   | Maximumprijs |
-| MERCAPTOPURINE-50-MG-TABLET | MERCAPTOPURINE-50-MG-TABLET | 0.91582600 per stuk |
+| MERCAPTOPURINE-50-MG-TABLET | MERCAPTOPURINE-50-MG-TABLET | 0.93127400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 102674/859 | Purinethol tablet 50mg |   |
 | 859 | Puri nethol tablet 50mg |   |
 | Productgroep |   | Maximumprijs |
-| MESALAZINE-10-MG/G-KLYSMA | MESALAZINE-10-MG/G-KLYSMA | 0.03494900 per ml |
+| MESALAZINE-10-MG/G-KLYSMA | MESALAZINE-10-MG/G-KLYSMA | 0.03564600 per ml |
 | Registratienummer | Artikelnaam |   |
 | 11782 | Pentasa klysma 10mg/ml flacon 100ml |   |
 | Productgroep |   | Maximumprijs |
-| MESALAZINE-1000-MG-ZETPIL | MESALAZINE-1000-MG-ZETPIL | 2.00840800 per stuk |
+| MESALAZINE-1000-MG-ZETPIL | MESALAZINE-1000-MG-ZETPIL | 2.04086100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 104445/15064 | Pentasa zetpil 1g |   |
 | 15064 | Pentasa zetpil 1g |   |
 | Productgroep |   | Maximumprijs |
-| MESALAZINE-250-MG-TABLET, MAAGSAPRESISTENT | MESALAZINE-250-MG-TABLET, MAAGSAPRESISTENT | 0.18771200 per stuk |
+| MESALAZINE-250-MG-TABLET, MAAGSAPRESISTENT | MESALAZINE-250-MG-TABLET, MAAGSAPRESISTENT | 0.19217300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11086 | Salofalk tablet msr 250mg |   |
 | 17430=11086 | Mesalazine sandoz tablet msr 250mg |   |
 | 27061 | Mesalazine pch ec tablet msr 250mg |   |
 | Productgroep |   | Maximumprijs |
-| MESALAZINE-250-MG-ZETPIL | MESALAZINE-250-MG-ZETPIL | 0.44425400 per stuk |
+| MESALAZINE-250-MG-ZETPIL | MESALAZINE-250-MG-ZETPIL | 0.43651200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10115 | Salofalk zetpil 250mg |   |
 | 26917 | Mesalazine pch zetpil 250mg |   |
 | 57634=10115 | Mesalazine sandoz zetpil 250mg |   |
 | Productgroep |   | Maximumprijs |
-| MESALAZINE-33.3-MG/G-KLYSMA | MESALAZINE-33.3-MG/G-KLYSMA | 0.07416200 per g |
+| MESALAZINE-33.3-MG/G-KLYSMA | MESALAZINE-33.3-MG/G-KLYSMA | 0.07590500 per g |
 | Registratienummer | Artikelnaam |   |
 | 15845 | Salofalk klysma 2g/60g flacon 60g |   |
 | Productgroep |   | Maximumprijs |
-| MESALAZINE-400-MG-TABLET, MAAGSAPRESISTENT | MESALAZINE-400-MG-TABLET, MAAGSAPRESISTENT | 0.34934300 per stuk |
+| MESALAZINE-400-MG-TABLET, MAAGSAPRESISTENT | MESALAZINE-400-MG-TABLET, MAAGSAPRESISTENT | 0.35558300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11737 | Asacol tablet msr 400mg |   |
 | Productgroep |   | Maximumprijs |
-| MESALAZINE-500-MG-TABLET, MAAGSAPRESISTENT | MESALAZINE-500-MG-TABLET, MAAGSAPRESISTENT | 0.32749400 per stuk |
+| MESALAZINE-500-MG-TABLET, MAAGSAPRESISTENT | MESALAZINE-500-MG-TABLET, MAAGSAPRESISTENT | 0.33230800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12144 | Salofalk tablet msr 500mg |   |
 | 17431=12144 | Mesalazine sandoz tablet msr 500mg |   |
@@ -5383,16 +5547,17 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 27062 | Mesalazine pch ec tablet msr 500mg |   |
 | 27072 | Mesalazine actavis ec tablet msr 500mg |   |
 | Productgroep |   | Maximumprijs |
-| MESALAZINE-500-MG-TABLET, MET GEREGULEERDE AFGIFTE | MESALAZINE-500-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.36199400 per stuk |
+| MESALAZINE-500-MG-TABLET, MET GEREGULEERDE AFGIFTE | MESALAZINE-500-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.36963000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 104106/14797 | Pentasa tablet mva 500mg |   |
 | 104443/14797 | Pentasa tablet mva 500mg |   |
+| 105212/14797 | Pentasa tablet mva 500mg |   |
 | 14797 | Pentasa tablet mva 500mg |   |
 | 25793/14797 | Pentasa tablet mva 500mg |   |
 | 33527/14797 | Pentasa tablet mva 500mg |   |
 | 35037/14797 | Pentasa tablet mva 500mg |   |
 | Productgroep |   | Maximumprijs |
-| MESALAZINE-500-MG-ZETPIL | MESALAZINE-500-MG-ZETPIL | 0.79009900 per stuk |
+| MESALAZINE-500-MG-ZETPIL | MESALAZINE-500-MG-ZETPIL | 0.79992500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11836 | Salofalk zetpil 500mg |   |
 | 24112 | Mesalazine actavis zetpil 500mg |   |
@@ -5400,28 +5565,21 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 26918 | Mesalazine pch zetpil 500mg |   |
 | 57635=11836 | Mesalazine sandoz zetpil 500mg |   |
 | Productgroep |   | Maximumprijs |
-| MESALAZINE-66.7-MG/G-KLYSMA | MESALAZINE-66.7-MG/G-KLYSMA | 0.08952700 per g |
+| MESALAZINE-66.7-MG/G-KLYSMA | MESALAZINE-66.7-MG/G-KLYSMA | 0.08886500 per g |
 | Registratienummer | Artikelnaam |   |
 | 11469 | Salofalk klysma 4g/60g flacon 60g |   |
 | 22377/11469 | Salofalk klysma 4g/60g flacon 60g |   |
 | 23132/11469 | Salofalk klysma 4g/60g flacon 60g |   |
 | 31147/11469 | Salofalk klysma 4g/60g flacon 60g |   |
 | Productgroep |   | Maximumprijs |
-| MESALAZINE-800-MG-TABLET, MAAGSAPRESISTENT |   | 0.72294000 per stuk |
+| MESALAZINE-800-MG-TABLET, MAAGSAPRESISTENT | MESALAZINE-800-MG-TABLET, MAAGSAPRESISTENT | 0.74378800 per stuk |
 | Registratienummer | Artikelnaam |   |
-| 102733/18636 | Asacol tablet msr 800mg |   |
 | 18636 | Asacol tablet msr 800mg |   |
 | Productgroep |   | Maximumprijs |
-| MESNA-200-MG/ML-INHALATIEVLOEISTOF UNITDOSE | MESNA-200-MG/ML-INHALATIEVLOEISTOF UNITDOSE | 0.37164400 per ml |
-| Registratienummer | Artikelnaam |   |
-| 5947 | Mistabron inhalatievloeistof 200mg/ml ampul 1ml |   |
-| 5947 | Mistabron inhalatievloeistof 200mg/ml ampul 3ml |   |
-| Productgroep |   | Maximumprijs |
-| METFORMIN-1000-MG-TABLET | METFORMIN-1000-MG-TABLET | 0.06295700 per stuk |
+| METFORMIN-1000-MG-TABLET | METFORMIN-1000-MG-TABLET | 0.06278500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100823 | Metformine hcl kr tablet 1000mg |   |
-| 26510 | Glucophage tablet 1000mg |   |
-| 26511 | Metformine hcl merck tablet 1000mg |   |
+| 26511 | Metformine hcl mylan tablet 1000mg |   |
 | 30293 | Metformine hcl sandoz tablet 1000mg |   |
 | 30403 | Metformine hcl a tablet 1000mg |   |
 | 30404 | Metformine hcl cf tablet 1000mg |   |
@@ -5430,141 +5588,179 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 34719 | Metformine hcl actavis tablet 1000mg |   |
 | 34959 | Metformine hcl rp tablet 1000mg |   |
 | Productgroep |   | Maximumprijs |
-| METFORMIN-1000-MG-TABLET-ROSIGLITAZON-2-MG-TABLET | METFORMIN-1000-MG-TABLET-ROSIGLITAZON-2-MG-TABLET | 0.46758500 per stuk |
+| METFORMIN-1000-MG-TABLET-ROSIGLITAZON-2-MG-TABLET | METFORMIN-1000-MG-TABLET-ROSIGLITAZON-2-MG-TABLET | 0.46830800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/03/258/009 | Avandamet tablet filmomhuld 2/1000mg |   |
 | Productgroep |   | Maximumprijs |
-| METFORMIN-1000-MG-TABLET-ROSIGLITAZON-4-MG-TABLET | METFORMIN-1000-MG-TABLET-ROSIGLITAZON-4-MG-TABLET | 0.72281400 per stuk |
+| METFORMIN-1000-MG-TABLET-ROSIGLITAZON-4-MG-TABLET | METFORMIN-1000-MG-TABLET-ROSIGLITAZON-4-MG-TABLET | 0.72802000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/03/258/012 | Avandamet tablet filmomhuld 4/1000mg |   |
 | Productgroep |   | Maximumprijs |
-| METFORMIN-1000-MG-TABLET-VILDAGLIPTIN-50-MG-TABLET | METFORMIN-1000-MG-TABLET-VILDAGLIPTIN-50-MG-TABLET | 0.69294700 per stuk |
+| METFORMIN-1000-MG-TABLET-SITAGLIPTIN-50-MG-TABLET | METFORMIN-1000-MG-TABLET-SITAGLIPTIN-50-MG-TABLET | 0.74473200 per stuk |
+| Registratienummer | Artikelnaam |   |
+| EU/1/08/455/009 | Janumet tablet filmomhuld 50mg/1000mg |   |
+| EU/1/08/455/010 | Janumet tablet filmomhuld 50mg/1000mg |   |
+| EU/1/08/455/014 | Janumet tablet filmomhuld 50mg/1000mg |   |
+| Productgroep |   | Maximumprijs |
+| METFORMIN-1000-MG-TABLET-VILDAGLIPTIN-50-MG-TABLET | METFORMIN-1000-MG-TABLET-VILDAGLIPTIN-50-MG-TABLET | 0.71061300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/07/425/008 | Eucreas tablet omhuld 50/1000mg |   |
 | EU/1/07/425/009 | Eucreas tablet omhuld 50/1000mg |   |
 | Productgroep |   | Maximumprijs |
-| METFORMIN-500-MG-TABLET | METFORMIN-500-MG-TABLET | 0.03463400 per stuk |
+| METFORMIN-500-MG-TABLET | METFORMIN-500-MG-TABLET | 0.03462200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100817 | Metformine hcl kr tablet 500mg |   |
 | 10500 | Metformine hcl pch tablet 500mg |   |
 | 18870 | Metformine hcl actavis tablet 500mg |   |
 | 20768=18870 | Metformine hcl cf tablet 500mg |   |
-| 21379=447 | Metformine hcl merck tablet 500mg |   |
 | 21379=447 | Metformine hcl mylan tablet 500mg |   |
 | 22048=447 | Metformine hcl rp tablet 500mg |   |
 | 22179=447 | Metformine hcl a tablet 500mg |   |
 | 23774 | Metformine hcl sandoz tablet 500mg |   |
 | 25368 | Metformine hcl sandoz tablet 500mg |   |
-| 25611 | Metformine hcl katwijk tablet 500mg |   |
+| 25611 | Metformine hcl apotex tablet 500mg |   |
 | 30228 | Metformine hcl cf tablet 500mg |   |
 | 34957 | Metformine hcl rp tablet 500mg |   |
-| 447 | Glucophage tablet 500mg |   |
 | Productgroep |   | Maximumprijs |
-| METFORMIN-850-MG-TABLET | METFORMIN-850-MG-TABLET | 0.05004200 per stuk |
+| METFORMIN-850-MG-TABLET | METFORMIN-850-MG-TABLET | 0.05071700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100822 | Metformine hcl kr tablet 850mg |   |
 | 18871 | Metformine hcl actavis tablet 850mg |   |
 | 20769=18871 | Metformine hcl cf tablet 850mg |   |
-| 21380=5934 | Metformine hcl merck tablet 850mg |   |
 | 21380=5934 | Metformine hcl mylan tablet 850mg |   |
 | 21698 | Metformine hcl sandoz tablet 850mg |   |
 | 22049=5934 | Metformine hcl rp tablet 850mg |   |
 | 22180=5934 | Metformine hcl a tablet 850mg |   |
 | 23775 | Metformine hcl sandoz tablet 850mg |   |
-| 25612 | Metformine hcl katwijk tablet 850mg |   |
+| 25612 | Metformine hcl apotex tablet 850mg |   |
 | 26048 | Metformine hcl pch tablet 850mg |   |
 | 30229 | Metformine hcl cf tablet 850mg |   |
 | 34124 | Metformine hcl bluefish tablet 850mg |   |
 | 34958 | Metformine hcl rp tablet 850mg |   |
-| 5934 | Glucophage tablet 850mg |   |
 | Productgroep |   | Maximumprijs |
-| METFORMIN-850-MG-TABLET-PIOGLITAZON-15-MG-TABLET | METFORMIN-850-MG-TABLET-PIOGLITAZON-15-MG-TABLET | 0.65793100 per stuk |
+| METFORMIN-850-MG-TABLET-PIOGLITAZON-15-MG-TABLET | METFORMIN-850-MG-TABLET-PIOGLITAZON-15-MG-TABLET | 0.64000700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/06/354/005 | Competact tablet filmomhuld 15/850mg |   |
 | Productgroep |   | Maximumprijs |
-| METFORMIN-850-MG-TABLET-VILDAGLIPTIN-50-MG-TABLET | METFORMIN-850-MG-TABLET-VILDAGLIPTIN-50-MG-TABLET | 0.69294700 per stuk |
+| METFORMIN-850-MG-TABLET-VILDAGLIPTIN-50-MG-TABLET | METFORMIN-850-MG-TABLET-VILDAGLIPTIN-50-MG-TABLET | 0.70398300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/07/425/002 | Eucreas tablet omhuld 50/ 850mg |   |
 | EU/1/07/425/003 | Eucreas tablet omhuld 50/ 850mg |   |
 | Productgroep |   | Maximumprijs |
-| METHADONE-5-MG-TABLET | METHADONE-5-MG-TABLET | 0.09142600 per stuk |
+| METHADONE-5-MG-TABLET | METHADONE-5-MG-TABLET | 0.09262700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 2129 | Symoron tablet 5mg |   |
 | Productgroep |   | Maximumprijs |
-| METHOTREXATE-10-MG-TABLET | METHOTREXATE-10-MG-TABLET | 0.74439800 per stuk |
+| METHOTREXATE-10-MG-TABLET | METHOTREXATE-10-MG-TABLET | 0.76457200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 28638 | Methotrexaat sandoz tablet 10mg |   |
 | 8785 | Methotrexaat pch tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| METHOTREXATE-2.5-MG-TABLET | METHOTREXATE-2.5-MG-TABLET | 0.17703800 per stuk |
+| METHOTREXATE-2.5-MG-TABLET | METHOTREXATE-2.5-MG-TABLET | 0.17656000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 9957 | Methotrexaat pch tablet 2,5mg |   |
 | 9957 | Methotrexaat pch tablet 2,5mg comfortainer |   |
 | Productgroep |   | Maximumprijs |
-| METHYLAMINOLEVULINAAT-160-MG/G-CREME, CUTAAN | METHYLAMINOLEVULINAAT-160-MG/G-CREME, CUTAAN | 131.41939900 per g |
+| METHOXYPOLYETHYLEENGLYCOL-EPOETIN BETA-0.1-MG/ML-INJ.VLOEISTOF, WWSP | METHOXYPOLYETHYLEENGLYCOL-EPOETIN BETA-0.1-MG/ML-INJ.VLOEISTOF, WWSP | 202.97401000 per ml |
+| Registratienummer | Artikelnaam |   |
+| EU/1/07/400/017 | Mircera 30 injvlst 100mcg/ml wwsp 0,3ml |   |
+| Productgroep |   | Maximumprijs |
+| METHOXYPOLYETHYLEENGLYCOL-EPOETIN BETA-0.167-MG/ML-INJ.VLOEISTOF, WWSP | METHOXYPOLYETHYLEENGLYCOL-EPOETIN BETA-0.167-MG/ML-INJ.VLOEISTOF, WWSP | 342.21463200 per ml |
+| Registratienummer | Artikelnaam |   |
+| EU/1/07/400/008 | Mircera 50 injvlst 167mcg/ml wwsp 0,3ml |   |
+| Productgroep |   | Maximumprijs |
+| METHOXYPOLYETHYLEENGLYCOL-EPOETIN BETA-0.25-MG/ML-INJ.VLOEISTOF, WWSP | METHOXYPOLYETHYLEENGLYCOL-EPOETIN BETA-0.25-MG/ML-INJ.VLOEISTOF, WWSP | 515.12962600 per ml |
+| Registratienummer | Artikelnaam |   |
+| EU/1/07/400/009 | Mircera 75 injvlst 250mcg/ml wwsp 0,3ml |   |
+| Productgroep |   | Maximumprijs |
+| METHOXYPOLYETHYLEENGLYCOL-EPOETIN BETA-0.333-MG/ML-INJ.VLOEISTOF, WWSP | METHOXYPOLYETHYLEENGLYCOL-EPOETIN BETA-0.333-MG/ML-INJ.VLOEISTOF, WWSP | 686.02980600 per ml |
+| Registratienummer | Artikelnaam |   |
+| EU/1/07/400/010 | Mircera 100 injvlst 333mcg/ml wwsp 0,3ml |   |
+| Productgroep |   | Maximumprijs |
+| METHOXYPOLYETHYLEENGLYCOL-EPOETIN BETA-0.4-MG/ML-INJ.VLOEISTOF, WWSP | METHOXYPOLYETHYLEENGLYCOL-EPOETIN BETA-0.4-MG/ML-INJ.VLOEISTOF, WWSP | 823.48416000 per ml |
+| Registratienummer | Artikelnaam |   |
+| EU/1/07/400/020 | Mircera 120 injvlst 400mcg/ml wwsp 0,3ml |   |
+| Productgroep |   | Maximumprijs |
+| METHOXYPOLYETHYLEENGLYCOL-EPOETIN BETA-0.5-MG/ML-INJ.VLOEISTOF, WWSP | METHOXYPOLYETHYLEENGLYCOL-EPOETIN BETA-0.5-MG/ML-INJ.VLOEISTOF, WWSP | 1028.82221600 per ml |
+| Registratienummer | Artikelnaam |   |
+| EU/1/07/400/011 | Mircera 150 injvlst 500mcg/ml wwsp 0,3ml |   |
+| Productgroep |   | Maximumprijs |
+| METHOXYPOLYETHYLEENGLYCOL-EPOETIN BETA-0.6-MG/ML-INJ.VLOEISTOF, WWSP | METHOXYPOLYETHYLEENGLYCOL-EPOETIN BETA-0.6-MG/ML-INJ.VLOEISTOF, WWSP | 1234.41235200 per ml |
+| Registratienummer | Artikelnaam |   |
+| EU/1/07/400/021 | Mircera 360 injvlst 600mcg/ml wwsp 0,6ml |   |
+| Productgroep |   | Maximumprijs |
+| METHOXYPOLYETHYLEENGLYCOL-EPOETIN BETA-0.667-MG/ML-INJ.VLOEISTOF, WWSP | METHOXYPOLYETHYLEENGLYCOL-EPOETIN BETA-0.667-MG/ML-INJ.VLOEISTOF, WWSP | 1372.43738900 per ml |
+| Registratienummer | Artikelnaam |   |
+| EU/1/07/400/012 | Mircera 200 injvlst 667mcg/ml wwsp 0,3ml |   |
+| Productgroep |   | Maximumprijs |
+| METHOXYPOLYETHYLEENGLYCOL-EPOETIN BETA-0.833-MG/ML-INJ.VLOEISTOF, WWSP | METHOXYPOLYETHYLEENGLYCOL-EPOETIN BETA-0.833-MG/ML-INJ.VLOEISTOF, WWSP | 1712.82609500 per ml |
+| Registratienummer | Artikelnaam |   |
+| EU/1/07/400/013 | Mircera 250 injvlst 833mcg/ml wwsp 0,3ml |   |
+| Productgroep |   | Maximumprijs |
+| METHYLAMINOLEVULINAAT-160-MG/G-CREME, CUTAAN | METHYLAMINOLEVULINAAT-160-MG/G-CREME, CUTAAN | 129.74627400 per g |
 | Registratienummer | Artikelnaam |   |
 | 31130 | Metvix creme 160mg/g |   |
 | Productgroep |   | Maximumprijs |
-| METHYLDOPA (LEVOROTATORY)-125-MG-TABLET | METHYLDOPA (LEVOROTATORY)-125-MG-TABLET | 0.27948100 per stuk |
+| METHYLDOPA (LEVOROTATORY)-125-MG-TABLET | METHYLDOPA (LEVOROTATORY)-125-MG-TABLET | 0.32525500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10647 | Methyldopa (l) pch tablet 125mg |   |
 | Productgroep |   | Maximumprijs |
-| METHYLDOPA (LEVOROTATORY)-250-MG-TABLET | METHYLDOPA (LEVOROTATORY)-250-MG-TABLET | 0.09945000 per stuk |
+| METHYLDOPA (LEVOROTATORY)-250-MG-TABLET | METHYLDOPA (LEVOROTATORY)-250-MG-TABLET | 0.10164500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10648 | Methyldopa (l) pch tablet 250mg |   |
 | 16577=10648 | Methyldopa sandoz tablet 250mg |   |
 | 20203 | Methyldopa rp tablet 250mg |   |
 | 57522 | Methyldopa cf tablet 250mg |   |
 | Productgroep |   | Maximumprijs |
-| METHYLDOPA (LEVOROTATORY)-500-MG-TABLET | METHYLDOPA (LEVOROTATORY)-500-MG-TABLET | 0.15313600 per stuk |
+| METHYLDOPA (LEVOROTATORY)-500-MG-TABLET | METHYLDOPA (LEVOROTATORY)-500-MG-TABLET | 0.15484300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10649 | Methyldopa (l) pch tablet 500mg |   |
 | 20204 | Methyldopa rp tablet 500mg |   |
 | 57523 | Methyldopa cf tablet 500mg |   |
 | 6180 | Aldomet tablet 500mg |   |
 | Productgroep |   | Maximumprijs |
-| METHYLPHENIDATE-10-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | METHYLPHENIDATE-10-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.64586200 per stuk |
+| METHYLPHENIDATE-10-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | METHYLPHENIDATE-10-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.68153900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 33227 | Equasym xl capsule mga 10mg |   |
 | 34027 | Medikinet cr capsule mva 10mg |   |
 | Productgroep |   | Maximumprijs |
-| METHYLPHENIDATE-10-MG-TABLET | METHYLPHENIDATE-10-MG-TABLET | 0.19668900 per stuk |
+| METHYLPHENIDATE-10-MG-TABLET | METHYLPHENIDATE-10-MG-TABLET | 0.20317200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 26470 | Methylfenidaat hcl rp tablet 10mg |   |
 | 34025 | Medikinet tablet 10mg |   |
 | 3957 | Ritalin tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| METHYLPHENIDATE-18-MG-TABLET, MET GEREGULEERDE AFGIFTE | METHYLPHENIDATE-18-MG-TABLET, MET GEREGULEERDE AFGIFTE | 1.30629600 per stuk |
+| METHYLPHENIDATE-18-MG-TABLET, MET GEREGULEERDE AFGIFTE | METHYLPHENIDATE-18-MG-TABLET, MET GEREGULEERDE AFGIFTE | 1.32255400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 28073 | Concerta tablet mva 18mg |   |
 | Productgroep |   | Maximumprijs |
-| METHYLPHENIDATE-20-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | METHYLPHENIDATE-20-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.85380700 per stuk |
+| METHYLPHENIDATE-20-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | METHYLPHENIDATE-20-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.87754300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 33228 | Equasym xl capsule mga 20mg |   |
 | 34028 | Medikinet cr capsule mva 20mg |   |
 | Productgroep |   | Maximumprijs |
-| METHYLPHENIDATE-20-MG-TABLET | METHYLPHENIDATE-20-MG-TABLET | 0.45135600 per stuk |
+| METHYLPHENIDATE-20-MG-TABLET | METHYLPHENIDATE-20-MG-TABLET | 0.48566900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 34026 | Medikinet tablet 20mg |   |
 | Productgroep |   | Maximumprijs |
-| METHYLPHENIDATE-27-MG-TABLET, MET GEREGULEERDE AFGIFTE | METHYLPHENIDATE-27-MG-TABLET, MET GEREGULEERDE AFGIFTE | 1.50185100 per stuk |
+| METHYLPHENIDATE-27-MG-TABLET, MET GEREGULEERDE AFGIFTE | METHYLPHENIDATE-27-MG-TABLET, MET GEREGULEERDE AFGIFTE | 1.52743400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 101739 | Concerta tablet mva 27mg |   |
 | Productgroep |   | Maximumprijs |
-| METHYLPHENIDATE-30-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | METHYLPHENIDATE-30-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 1.11111400 per stuk |
+| METHYLPHENIDATE-30-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | METHYLPHENIDATE-30-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 1.12900100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 33229 | Equasym xl capsule mga 30mg |   |
 | 34029 | Medikinet cr capsule mva 30mg |   |
 | Productgroep |   | Maximumprijs |
-| METHYLPHENIDATE-36-MG-TABLET, MET GEREGULEERDE AFGIFTE | METHYLPHENIDATE-36-MG-TABLET, MET GEREGULEERDE AFGIFTE | 1.68387700 per stuk |
+| METHYLPHENIDATE-36-MG-TABLET, MET GEREGULEERDE AFGIFTE | METHYLPHENIDATE-36-MG-TABLET, MET GEREGULEERDE AFGIFTE | 1.70600400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 28074 | Concerta tablet mva 36mg |   |
 | Productgroep |   | Maximumprijs |
-| METHYLPHENIDATE-40-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | METHYLPHENIDATE-40-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 1.62169600 per stuk |
+| METHYLPHENIDATE-40-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | METHYLPHENIDATE-40-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 1.64582200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 34030 | Medikinet cr capsule mva 40mg |   |
 | Productgroep |   | Maximumprijs |
-| METHYLPHENIDATE-5-MG-TABLET | METHYLPHENIDATE-5-MG-TABLET | 0.11630600 per stuk |
+| METHYLPHENIDATE-5-MG-TABLET | METHYLPHENIDATE-5-MG-TABLET | 0.12282700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 34024 | Medikinet tablet 5mg |   |
 | Productgroep |   | Maximumprijs |
@@ -5572,27 +5768,27 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | Registratienummer | Artikelnaam |   |
 | 28075 | Concerta tablet mva 54mg |   |
 | Productgroep |   | Maximumprijs |
-| METHYSERGIDE-1-MG-TABLET | METHYSERGIDE-1-MG-TABLET | 0.22732700 per stuk |
+| METHYSERGIDE-1-MG-TABLET | METHYSERGIDE-1-MG-TABLET | 0.23381700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 562 | Deseril tablet omhuld 1mg |   |
 | Productgroep |   | Maximumprijs |
-| METIPRANOLOL-1-MG/ML-OOGDRUPPELS | METIPRANOLOL-1-MG/ML-OOGDRUPPELS | 0.69149300 per ml |
+| METIPRANOLOL-1-MG/ML-OOGDRUPPELS | METIPRANOLOL-1-MG/ML-OOGDRUPPELS | 0.60773800 per ml |
 | Registratienummer | Artikelnaam |   |
 | 10969 | Beta ophtiole oogdruppels 1mg/ml flacon 5ml |   |
 | Productgroep |   | Maximumprijs |
-| METIPRANOLOL-3-MG/ML-OOGDRUPPELS | METIPRANOLOL-3-MG/ML-OOGDRUPPELS | 0.74163900 per ml |
+| METIPRANOLOL-3-MG/ML-OOGDRUPPELS | METIPRANOLOL-3-MG/ML-OOGDRUPPELS | 0.64616800 per ml |
 | Registratienummer | Artikelnaam |   |
 | 10012 | Beta ophtiole oogdruppels 3mg/ml flacon 5ml |   |
 | Productgroep |   | Maximumprijs |
-| METIPRANOLOL-6-MG/ML-OOGDRUPPELS | METIPRANOLOL-6-MG/ML-OOGDRUPPELS | 0.73798700 per ml |
+| METIPRANOLOL-6-MG/ML-OOGDRUPPELS | METIPRANOLOL-6-MG/ML-OOGDRUPPELS | 0.64381800 per ml |
 | Registratienummer | Artikelnaam |   |
 | 10013 | Beta ophtiole oogdruppels 6mg/ml flacon 5ml |   |
 | Productgroep |   | Maximumprijs |
-| METOCLOPRAMIDE-1-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | METOCLOPRAMIDE-1-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.01315200 per ml |
+| METOCLOPRAMIDE-1-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | METOCLOPRAMIDE-1-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.01535100 per ml |
 | Registratienummer | Artikelnaam |   |
 | 5252 | Primperan drank 1mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| METOCLOPRAMIDE-10-MG-TABLET | METOCLOPRAMIDE-10-MG-TABLET | 0.06676200 per stuk |
+| METOCLOPRAMIDE-10-MG-TABLET | METOCLOPRAMIDE-10-MG-TABLET | 0.06722800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 24479=9715 | Metoclopramide hcl rp tablet 10mg |   |
 | 27570=55926 | Metoclopramide hcl actavis tablet 10mg |   |
@@ -5610,23 +5806,24 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 26777/6014 | Primperan zetpil 20mg |   |
 | 6014 | Primperan zetpil 20mg |   |
 | Productgroep |   | Maximumprijs |
-| METOPROLOL-100-MG-TABLET | METOPROLOL-100-MG-TABLET | 0.07420300 per stuk |
+| METOPROLOL-100-MG-TABLET | METOPROLOL-100-MG-TABLET | 0.07481000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12073 | Metoprololtartraat rp tablet 100mg |   |
 | 16945 | Metoprololtartraat katwijk tablet 100mg |   |
 | 18443 | Metoprololtartraat actavis tablet 100mg |   |
-| 25268=12073 | Metoprololtartraat merck tablet 100mg |   |
+| 25268=12073 | Metoprololtartraat mylan tablet 100mg |   |
 | 27301=12073 | Metoprololtartraat a tablet 100mg |   |
 | 56500 | Metoprololtartraat pch tablet 100mg |   |
+| 57171 | Metoprololtartraat accord tablet 100mg |   |
 | 57570 | Metoprololtartraat cf tablet 100mg |   |
 | 57721 | Metoprololtartraat sandoz tablet 100mg |   |
 | Productgroep |   | Maximumprijs |
-| METOPROLOL-100-MG-TABLET, MET GEREGULEERDE AFGIFTE | METOPROLOL-100-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.29096700 per stuk |
+| METOPROLOL-100-MG-TABLET, MET GEREGULEERDE AFGIFTE | METOPROLOL-100-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.28457500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12149 | Selokeen zoc 100 tablet mga 95mg |   |
 | 32378 | Metoprololsuccinaat sandoz retard tablet mga 100mg |   |
 | Productgroep |   | Maximumprijs |
-| METOPROLOL-200-MG-TABLET, MET GEREGULEERDE AFGIFTE | METOPROLOL-200-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.25669400 per stuk |
+| METOPROLOL-200-MG-TABLET, MET GEREGULEERDE AFGIFTE | METOPROLOL-200-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.25805600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12150 | Selokeen zoc 200 tablet mga 190mg |   |
 | 16553 | Metoprololtartraat cf retard tablet mga 200mg |   |
@@ -5634,63 +5831,60 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 30149 | Metoprololtartraat actavis retard tabl mga 200mg |   |
 | 32380 | Metoprololsuccinaat sandoz retard tablet mga 200mg |   |
 | Productgroep |   | Maximumprijs |
-| METOPROLOL-50-MG-TABLET | METOPROLOL-50-MG-TABLET | 0.03235700 per stuk |
+| METOPROLOL-50-MG-TABLET | METOPROLOL-50-MG-TABLET | 0.03348700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12072 | Metoprololtartraat rp tablet 50mg |   |
 | 16944 | Metoprololtartraat katwijk tablet 50mg |   |
 | 18442 | Metoprololtartraat actavis tablet 50mg |   |
 | 25267=12072 | Metoprololtartraat mylan tablet 50mg |   |
-| 25267=12072 | Metoprololtartraat merck tablet 50mg |   |
 | 27300=12072 | Metoprololtartraat a tablet 50mg |   |
 | 56499 | Metoprololtartraat pch tablet 50mg |   |
+| 57170 | Metoprololtartraat accord tablet 50mg |   |
 | 57569 | Metoprololtartraat cf tablet 50mg |   |
 | 57720 | Metoprololtartraat sandoz tablet 50mg |   |
 | Productgroep |   | Maximumprijs |
-| METRONIDAZOLE-250-MG-TABLET |   | 0.17285400 per stuk |
+| METRONIDAZOLE-250-MG-TABLET | METRONIDAZOLE-250-MG-TABLET | 0.17285400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 17848=7074 | Metronidazol sandoz tablet 250mg |   |
 | 21419=7074 | Metronidazol pch tablet 250mg |   |
 | 22054=7074 | Metronidazol rp tablet 250mg |   |
 | 7074 | Metronidazol actavis tablet 250mg |   |
 | Productgroep |   | Maximumprijs |
-| METRONIDAZOLE-500-MG-TABLET | METRONIDAZOLE-500-MG-TABLET | 0.56115600 per stuk |
+| METRONIDAZOLE-500-MG-TABLET | METRONIDAZOLE-500-MG-TABLET | 0.60967800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 17827=11478 | Metronidazolum tablet 500mg |   |
+| 17827=11478 | Metronidazol apotex tablet 500mg |   |
 | 17849=8652 | Metronidazol sandoz tablet 500mg |   |
 | 21420=8652 | Metronidazol pch tablet 500mg |   |
 | 22055=8652 | Metronidazol rp tablet 500mg |   |
 | 8652 | Metronidazol actavis tablet 500mg |   |
 | Productgroep |   | Maximumprijs |
-| METRONIDAZOLE-7.5-MG/G-HUIDGEL | METRONIDAZOLE-7.5-MG/G-HUIDGEL | 0.22312200 per g |
+| METRONIDAZOLE-7.5-MG/G-HUIDGEL | METRONIDAZOLE-7.5-MG/G-HUIDGEL | 0.24030700 per g |
 | Registratienummer | Artikelnaam |   |
 | 14416 | Rozex gel 7,5mg/g |   |
 | 25973/14416 | Rozex gel 7,5mg/g |   |
 | Productgroep |   | Maximumprijs |
-| METYRAPONE-250-MG-CAPSULE | METYRAPONE-250-MG-CAPSULE | 0.91421300 per stuk |
-| Registratienummer | Artikelnaam |   |
-| 1615 | Metopiron capsule 250mg |   |
-| Productgroep |   | Maximumprijs |
-| MIANSERIN-10-MG-TABLET | MIANSERIN-10-MG-TABLET | 0.16071700 per stuk |
+| MIANSERIN-10-MG-TABLET | MIANSERIN-10-MG-TABLET | 0.16910700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 21959=57407 | Mianserine hcl pch tablet 10mg |   |
 | 57407 | Mianserine hcl rp tablet 10mg |   |
 | 9041 | Tolvon tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| MIANSERIN-30-MG-TABLET | MIANSERIN-30-MG-TABLET | 0.31397100 per stuk |
+| MIANSERIN-30-MG-TABLET | MIANSERIN-30-MG-TABLET | 0.31790100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 21960=57408 | Mianserine hcl pch tablet 30mg |   |
 | 57408 | Mianserine hcl rp tablet 30mg |   |
 | 9042 | Tolvon tablet 30mg |   |
 | Productgroep |   | Maximumprijs |
-| MIGLUSTAT-100-MG-CAPSULE | MIGLUSTAT-100-MG-CAPSULE | 72.96142400 per stuk |
+| MIGLUSTAT-100-MG-CAPSULE | MIGLUSTAT-100-MG-CAPSULE | 74.40980300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/02/238/001 | Zavesca capsule 100mg |   |
 | Productgroep |   | Maximumprijs |
-| MINOCYCLINE-100-MG-CAPSULE | MINOCYCLINE-100-MG-CAPSULE | 0.47960000 per stuk |
+| MINOCYCLINE-100-MG-CAPSULE | MINOCYCLINE-100-MG-CAPSULE | 0.48374400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 23120/6392 | Minocin capsule 100mg |   |
 | Productgroep |   | Maximumprijs |
-| MINOCYCLINE-100-MG-TABLET | MINOCYCLINE-100-MG-TABLET | 0.44941200 per stuk |
+| MINOCYCLINE-100-MG-TABLET | MINOCYCLINE-100-MG-TABLET | 0.44442500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 22099 | Minocycline actavis tablet 100mg |   |
 | 22154 | Minocycline mylan tablet 100mg |   |
@@ -5698,43 +5892,42 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 25320 | Minocycline pch tablet 100mg |   |
 | 27186 | Minocycline rp tablet 100mg |   |
 | Productgroep |   | Maximumprijs |
-| MINOCYCLINE-50-MG-TABLET | MINOCYCLINE-50-MG-TABLET | 0.18437000 per stuk |
+| MINOCYCLINE-50-MG-TABLET | MINOCYCLINE-50-MG-TABLET | 0.18337900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 22098 | Minocycline actavis tablet 50mg |   |
-| 22153 | Minocycline merck tablet 50mg |   |
+| 22153 | Minocycline mylan tablet 50mg |   |
 | 22155 | Minocycline sandoz tablet 50mg |   |
 | 25319 | Minocycline pch tablet 50mg |   |
 | 27185 | Minocycline rp tablet 50mg |   |
 | Productgroep |   | Maximumprijs |
-| MINOXIDIL-10-MG-TABLET | MINOXIDIL-10-MG-TABLET | 0.83806800 per stuk |
+| MINOXIDIL-10-MG-TABLET | MINOXIDIL-10-MG-TABLET | 0.90318200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 8426 | Lonnoten tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| MIRTAZAPINE-15-MG-SMELTTABLET | MIRTAZAPINE-15-MG-SMELTTABLET | 0.33185800 per stuk |
+| MIRTAZAPINE-15-MG-SMELTTABLET | MIRTAZAPINE-15-MG-SMELTTABLET | 0.31866800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 25780 | Remeron soltab orodisp tablet 15mg |   |
 | Productgroep |   | Maximumprijs |
-| MIRTAZAPINE-15-MG-TABLET | MIRTAZAPINE-15-MG-TABLET | 0.32993300 per stuk |
+| MIRTAZAPINE-15-MG-TABLET | MIRTAZAPINE-15-MG-TABLET | 0.31921400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 30645 | Mirtazapine cf tablet 15mg |   |
 | 30665 | Mirtazapine a tablet 15mg |   |
 | 30694 | Mirtazapine actavis tablet 15mg |   |
 | 30697 | Mirtazapine sandoz tablet 15mg |   |
 | 30721 | Mirtazapine rp tablet 15mg |   |
-| 30732 | Mirtazapine merck tablet 15mg |   |
 | 30732 | Mirtazapine mylan tablet 15mg |   |
 | 30772 | Mirtazapine katwijk tablet 15mg |   |
 | 31844 | Mirtazapine pch tablet 15mg |   |
 | Productgroep |   | Maximumprijs |
-| MIRTAZAPINE-15-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | MIRTAZAPINE-15-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.57409000 per ml |
+| MIRTAZAPINE-15-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | MIRTAZAPINE-15-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.58213700 per ml |
 | Registratienummer | Artikelnaam |   |
 | 24466 | Remeron drank 15mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| MIRTAZAPINE-30-MG-SMELTTABLET | MIRTAZAPINE-30-MG-SMELTTABLET | 0.49990600 per stuk |
+| MIRTAZAPINE-30-MG-SMELTTABLET | MIRTAZAPINE-30-MG-SMELTTABLET | 0.47360800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 25781 | Remeron soltab orodisp tablet 30mg |   |
 | Productgroep |   | Maximumprijs |
-| MIRTAZAPINE-30-MG-TABLET | MIRTAZAPINE-30-MG-TABLET | 0.29373300 per stuk |
+| MIRTAZAPINE-30-MG-TABLET | MIRTAZAPINE-30-MG-TABLET | 0.29904500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 16686 | Remeron tablet 30mg |   |
 | 30646 | Mirtazapine cf tablet 30mg |   |
@@ -5746,56 +5939,54 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 30773 | Mirtazapine katwijk tablet 30mg |   |
 | 31845 | Mirtazapine pch tablet 30mg |   |
 | Productgroep |   | Maximumprijs |
-| MIRTAZAPINE-45-MG-SMELTTABLET | MIRTAZAPINE-45-MG-SMELTTABLET | 0.66711500 per stuk |
+| MIRTAZAPINE-45-MG-SMELTTABLET | MIRTAZAPINE-45-MG-SMELTTABLET | 0.61931900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 25782 | Remeron soltab orodisp tablet 45mg |   |
 | 33194 | Mirtazapine pch orodisp tablet 45mg |   |
-| 34054 | Mirtazapine smelttab merck orodisp tablet 45mg |   |
+| 34054 | Mirtazapine smelttab mylan orodisp tablet 45mg |   |
 | 34644 | Mirtazapine bluefish orodisp tablet 45mg |   |
 | Productgroep |   | Maximumprijs |
-| MIRTAZAPINE-45-MG-TABLET | MIRTAZAPINE-45-MG-TABLET | 0.53802600 per stuk |
+| MIRTAZAPINE-45-MG-TABLET | MIRTAZAPINE-45-MG-TABLET | 0.51488800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 30647 | Mirtazapine cf tablet 45mg |   |
 | 30667 | Mirtazapine a tablet 45mg |   |
 | 30696 | Mirtazapine actavis tablet 45mg |   |
 | 30699 | Mirtazapine sandoz tablet 45mg |   |
 | 30723 | Mirtazapine rp tablet 45mg |   |
-| 30734 | Mirtazapine merck tablet 45mg |   |
 | 30734 | Mirtazapine mylan tablet 45mg |   |
 | 30774 | Mirtazapine katwijk tablet 45mg |   |
 | 31846 | Mirtazapine pch tablet 45mg |   |
 | Productgroep |   | Maximumprijs |
-| MISOPROSTOL-.2-MG-TABLET | MISOPROSTOL-.2-MG-TABLET | 0.96593700 per stuk |
+| MISOPROSTOL-.2-MG-TABLET | MISOPROSTOL-.2-MG-TABLET | 0.96104100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13724 | Cytotec tablet 200mcg |   |
 | Productgroep |   | Maximumprijs |
-| MOCLOBEMIDE-150-MG-TABLET | MOCLOBEMIDE-150-MG-TABLET | 0.21416900 per stuk |
+| MOCLOBEMIDE-150-MG-TABLET | MOCLOBEMIDE-150-MG-TABLET | 0.22528000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 14904 | Aurorix tablet omhuld 150mg |   |
-| 26120 | Moclobemide merck tablet omhuld 150mg |   |
+| 26120 | Moclobemide mylan tablet omhuld 150mg |   |
 | 26122 | Moclobemide actavis tablet omhuld 150mg |   |
 | 27049 | Moclobemide cf tablet omhuld 150mg |   |
 | 27287 | Moclobemide sandoz tablet omhuld 150mg |   |
 | 27823 | Moclobemide pch tablet omhuld 150mg |   |
 | 30005 | Moclobemide rp tablet omhuld 150mg |   |
 | Productgroep |   | Maximumprijs |
-| MOCLOBEMIDE-300-MG-TABLET | MOCLOBEMIDE-300-MG-TABLET | 0.37557100 per stuk |
+| MOCLOBEMIDE-300-MG-TABLET | MOCLOBEMIDE-300-MG-TABLET | 0.36783400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 17493 | Aurorix tablet omhuld 300mg |   |
-| 26121 | Moclobemide merck tablet omhuld 300mg |   |
 | 26123 | Moclobemide actavis tablet omhuld 300mg |   |
 | 27050 | Moclobemide cf tablet omhuld 300mg |   |
 | 27288 | Moclobemide sandoz tablet omhuld 300mg |   |
 | 27824 | Moclobemide pch tablet omhuld 300mg |   |
 | 30006 | Moclobemide rp tablet omhuld 300mg |   |
 | Productgroep |   | Maximumprijs |
-| MODAFINIL-100-MG-TABLET | MODAFINIL-100-MG-TABLET | 2.16254700 per stuk |
+| MODAFINIL-100-MG-TABLET | MODAFINIL-100-MG-TABLET | 2.14176000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 18535 | Modiodal tablet 100mg |   |
 | 29246/18535 | Modiodal tablet 100mg |   |
 | 35067/18535 | Modiodal tablet 100mg |   |
 | Productgroep |   | Maximumprijs |
-| MOMETASONE-.05-MG-NEUSSPRAY | MOMETASONE-.05-MG-NEUSSPRAY | 0.07982000 per dosis |
+| MOMETASONE-.05-MG-NEUSSPRAY | MOMETASONE-.05-MG-NEUSSPRAY | 0.08060500 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 102437/21613 | Nasonex neusspray 50mcg/do 140do |   |
 | 103118/21613 | Nasonex neusspray 50mcg/do 140do |   |
@@ -5805,19 +5996,20 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 30962/21613 | Nasonex neusspray 50mcg/do 140do |   |
 | 32816/21613 | Nasonex neusspray 50mcg/do 140do |   |
 | Productgroep |   | Maximumprijs |
-| MOMETASONE-1-MG/G-CREME, CUTAAN | MOMETASONE-1-MG/G-CREME, CUTAAN | 0.16441200 per g |
+| MOMETASONE-1-MG/G-CREME, CUTAAN | MOMETASONE-1-MG/G-CREME, CUTAAN | 0.16523500 per g |
 | Registratienummer | Artikelnaam |   |
 | 14174 | Elocon wateremulgerende zalf 1mg/g |   |
 | Productgroep |   | Maximumprijs |
-| MOMETASONE-1-MG/G-ZALF, CUTAAN | MOMETASONE-1-MG/G-ZALF, CUTAAN | 0.16626200 per g |
+| MOMETASONE-1-MG/G-ZALF, CUTAAN | MOMETASONE-1-MG/G-ZALF, CUTAAN | 0.16905200 per g |
 | Registratienummer | Artikelnaam |   |
 | 14173 | Elocon vet wateremulgerende zalf 1mg/g |   |
 | Productgroep |   | Maximumprijs |
-| MONTELUKAST-10-MG-TABLET | MONTELUKAST-10-MG-TABLET | 1.28115400 per stuk |
+| MONTELUKAST-10-MG-TABLET | MONTELUKAST-10-MG-TABLET | 1.23132900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 101962/23164 | Singulair tablet omhuld 10mg |   |
 | 102289/23164 | Singulair tablet omhuld 10mg |   |
 | 102626/23164 | Singulair tablet omhuld 10mg |   |
+| 104887/23164 | Singulair tablet omhuld 10mg |   |
 | 23164 | Singulair tablet omhuld 10mg |   |
 | 28462/23164 | Singulair tablet omhuld 10mg |   |
 | 29112/23164 | Singulair tablet omhuld 10mg |   |
@@ -5827,18 +6019,19 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 35104/23164 | Montelukast tablet omhuld 10mg |   |
 | 35111/23164 | Singulair tablet omhuld 10mg |   |
 | Productgroep |   | Maximumprijs |
-| MONTELUKAST-4-MG-KAUWDRAGEE/KAUWTABLET | MONTELUKAST-4-MG-KAUWDRAGEE/KAUWTABLET | 1.26169600 per stuk |
+| MONTELUKAST-4-MG-KAUWDRAGEE/KAUWTABLET | MONTELUKAST-4-MG-KAUWDRAGEE/KAUWTABLET | 1.17719600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 103155/25800 | Singulair kauwtablet 4mg |   |
 | 25800 | Singulair kauwtablet 4mg |   |
 | Productgroep |   | Maximumprijs |
-| MONTELUKAST-5-MG-KAUWDRAGEE/KAUWTABLET | MONTELUKAST-5-MG-KAUWDRAGEE/KAUWTABLET | 1.27102500 per stuk |
+| MONTELUKAST-5-MG-KAUWDRAGEE/KAUWTABLET | MONTELUKAST-5-MG-KAUWDRAGEE/KAUWTABLET | 1.21410700 per stuk |
 | Registratienummer | Artikelnaam |   |
+| 102290/23165 | Singulair junior kauwtablet 5mg |   |
 | 23165 | Singulair kauwtablet 5mg |   |
 | 30147/23165 | Singulair junior kauwtablet 5mg |   |
 | 30603/23165 | Singulair junior kauwtablet 5mg |   |
 | Productgroep |   | Maximumprijs |
-| MORPHINE-10-MG-TABLET, MET GEREGULEERDE AFGIFTE | MORPHINE-10-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.17913500 per stuk |
+| MORPHINE-10-MG-TABLET, MET GEREGULEERDE AFGIFTE | MORPHINE-10-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.18230700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11205 | Ms contin tablet mga 10mg |   |
 | 17881 | Morfinesulfaat pch retard tablet mga 10mg |   |
@@ -5847,11 +6040,11 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 26233=17881 | Morfinesulfaat actavis retard tablet mga 10mg |   |
 | 27349 | Morfine hcl a retard tablet mga 10mg |   |
 | Productgroep |   | Maximumprijs |
-| MORPHINE-100-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | MORPHINE-100-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 1.35341800 per stuk |
+| MORPHINE-100-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | MORPHINE-100-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 1.34791500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 17212 | Kapanol capsule mga 100mg |   |
 | Productgroep |   | Maximumprijs |
-| MORPHINE-100-MG-TABLET, MET GEREGULEERDE AFGIFTE | MORPHINE-100-MG-TABLET, MET GEREGULEERDE AFGIFTE | 1.21970300 per stuk |
+| MORPHINE-100-MG-TABLET, MET GEREGULEERDE AFGIFTE | MORPHINE-100-MG-TABLET, MET GEREGULEERDE AFGIFTE | 1.24299200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11208 | Ms contin tablet mga 100mg |   |
 | 22944 | Morfine hcl cf retard tablet mga 100mg |   |
@@ -5860,22 +6053,22 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 26236=24997 | Morfinesulfaat actavis retard tablet mga 100mg |   |
 | 27352 | Morfine hcl a retard tablet mga 100mg |   |
 | Productgroep |   | Maximumprijs |
-| MORPHINE-20-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | MORPHINE-20-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.42799000 per stuk |
+| MORPHINE-20-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | MORPHINE-20-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.42721200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 17210 | Kapanol capsule mga 20mg |   |
 | Productgroep |   | Maximumprijs |
-| MORPHINE-20-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | MORPHINE-20-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.40651800 per ml |
+| MORPHINE-20-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | MORPHINE-20-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.41492800 per ml |
 | Registratienummer | Artikelnaam |   |
 | 18759 | Oramorph drank 20mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| MORPHINE-200-MG-TABLET, MET GEREGULEERDE AFGIFTE | MORPHINE-200-MG-TABLET, MET GEREGULEERDE AFGIFTE | 2.39300700 per stuk |
+| MORPHINE-200-MG-TABLET, MET GEREGULEERDE AFGIFTE | MORPHINE-200-MG-TABLET, MET GEREGULEERDE AFGIFTE | 2.43359100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15376 | Ms contin tablet mga 200mg |   |
 | 22945 | Morfine hcl cf retard tablet mga 200mg |   |
 | 24927=22945 | Morfine hcl rp retard tablet mga 200mg |   |
 | 27353 | Morfine hcl a retard tablet mga 200mg |   |
 | Productgroep |   | Maximumprijs |
-| MORPHINE-30-MG-TABLET, MET GEREGULEERDE AFGIFTE | MORPHINE-30-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.41426000 per stuk |
+| MORPHINE-30-MG-TABLET, MET GEREGULEERDE AFGIFTE | MORPHINE-30-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.42190700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11206 | Ms contin tablet mga 30mg |   |
 | 17882 | Morfinesulfaat pch retard tablet mga 30mg |   |
@@ -5884,11 +6077,11 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 26234=17882 | Morfinesulfaat actavis retard tablet mga 30mg |   |
 | 27350 | Morfine hcl a retard tablet mga 30mg |   |
 | Productgroep |   | Maximumprijs |
-| MORPHINE-50-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | MORPHINE-50-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.92872400 per stuk |
+| MORPHINE-50-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | MORPHINE-50-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.92804900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 17211 | Kapanol capsule mga 50mg |   |
 | Productgroep |   | Maximumprijs |
-| MORPHINE-60-MG-TABLET, MET GEREGULEERDE AFGIFTE | MORPHINE-60-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.78412000 per stuk |
+| MORPHINE-60-MG-TABLET, MET GEREGULEERDE AFGIFTE | MORPHINE-60-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.79967500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11207 | Ms contin tablet mga 60mg |   |
 | 17883 | Morfinesulfaat pch retard tablet mga 60mg |   |
@@ -5897,18 +6090,18 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 26235=17883 | Morfinesulfaat actavis retard tablet mga 60mg |   |
 | 27351 | Morfine hcl a retard tablet mga 60mg |   |
 | Productgroep |   | Maximumprijs |
-| MOXIFLOXACINE-400-MG-TABLET | MOXIFLOXACINE-400-MG-TABLET | 3.49239100 per stuk |
+| MOXIFLOXACINE-400-MG-TABLET | MOXIFLOXACINE-400-MG-TABLET | 3.59700400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 102691/28118 | Avelox tablet filmomhuld 400mg |   |
 | 28118 | Avelox tablet filmomhuld 400mg |   |
 | Productgroep |   | Maximumprijs |
-| MOXONIDINE-.4-MG-TABLET | MOXONIDINE-.4-MG-TABLET | 0.28021400 per stuk |
+| MOXONIDINE-.4-MG-TABLET | MOXONIDINE-.4-MG-TABLET | 0.28087400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 29260 | Moxonidine cf tablet 0,4mg |   |
 | 29266 | Moxonidine sandoz tablet 0,4mg |   |
 | 29272 | Moxonidine pch tablet 0,4mg |   |
 | Productgroep |   | Maximumprijs |
-| MUPIROCIN-20-MG/G-ZALF, CUTAAN | MUPIROCIN-20-MG/G-ZALF, CUTAAN | 0.40107300 per g |
+| MUPIROCIN-20-MG/G-ZALF, CUTAAN | MUPIROCIN-20-MG/G-ZALF, CUTAAN | 0.40908500 per g |
 | Registratienummer | Artikelnaam |   |
 | 100917/11651 | Bactroban hydrofiele zalf 20mg/g |   |
 | 11651 | Bactroban hydrofiele zalf 20mg/g |   |
@@ -5916,24 +6109,26 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 23704/11651 | Bactroban hydrofiele zalf 20mg/g |   |
 | 32184/11651 | Bactroban hydrofiele zalf 20mg/g |   |
 | Productgroep |   | Maximumprijs |
-| MYCOPHENOLATE MOFETIL-200-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | MYCOPHENOLATE MOFETIL-200-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 1.00554100 per ml |
+| MYCOPHENOLATE MOFETIL-200-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | MYCOPHENOLATE MOFETIL-200-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 1.02046700 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/96/005/006 | Cellcept poeder voor suspensie 200mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| MYCOPHENOLATE MOFETIL-250-MG-CAPSULE | MYCOPHENOLATE MOFETIL-250-MG-CAPSULE | 1.23315100 per stuk |
+| MYCOPHENOLATE MOFETIL-250-MG-CAPSULE | MYCOPHENOLATE MOFETIL-250-MG-CAPSULE | 1.22263000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/96/005/001 | Cellcept capsule 250mg |   |
 | Productgroep |   | Maximumprijs |
-| MYCOPHENOLATE MOFETIL-500-MG-TABLET | MYCOPHENOLATE MOFETIL-500-MG-TABLET | 2.46630200 per stuk |
+| MYCOPHENOLATE MOFETIL-500-MG-TABLET | MYCOPHENOLATE MOFETIL-500-MG-TABLET | 2.44694600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/96/005/002 | Cellcept tablet 500mg |   |
 | EU/1/96/005/004 | Cellcept tablet 500mg |   |
+
 | Productgroep |   | Maximumprijs |
-| MYCOPHENOLIC ACID-180-MG-TABLET, MAAGSAPRESISTENT | MYCOPHENOLIC ACID-180-MG-TABLET, MAAGSAPRESISTENT | 1.21083700 per stuk |
+| --- | --- | --- |
+| MYCOPHENOLIC ACID-180-MG-TABLET, MAAGSAPRESISTENT | MYCOPHENOLIC ACID-180-MG-TABLET, MAAGSAPRESISTENT | 1.23932100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 30202 | Myfortic tablet filmomhuld msr 180mg |   |
 | Productgroep |   | Maximumprijs |
-| MYCOPHENOLIC ACID-360-MG-TABLET, MAAGSAPRESISTENT | MYCOPHENOLIC ACID-360-MG-TABLET, MAAGSAPRESISTENT | 2.43658400 per stuk |
+| MYCOPHENOLIC ACID-360-MG-TABLET, MAAGSAPRESISTENT | MYCOPHENOLIC ACID-360-MG-TABLET, MAAGSAPRESISTENT | 2.49781200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100344/30203 | Myfortic tablet filmomhuld msr 360mg |   |
 | 30203 | Myfortic tablet filmomhuld msr 360mg |   |
@@ -5941,36 +6136,35 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 34464/30203 | Myfortic tablet filmomhuld msr 360mg |   |
 | 35075/30203 | Myfortic tablet filmomhuld msr 360mg |   |
 | Productgroep |   | Maximumprijs |
-| NABUMETONE-500-MG-TABLET | NABUMETONE-500-MG-TABLET | 0.15016900 per stuk |
+| NABUMETONE-500-MG-TABLET | NABUMETONE-500-MG-TABLET | 0.15601800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12602 | Mebutan tablet 500mg |   |
 | 23264 | Nabumeton actavis tablet 500mg |   |
 | 24728=23264 | Nabumeton sandoz tablet 500mg |   |
 | 24912=23264 | Nabumeton a tablet 500mg |   |
 | 24915=23264 | Nabumeton rp tablet 500mg |   |
-| 26497 | Nabumeton merck tablet 500mg |   |
+| 26497 | Nabumeton mylan tablet 500mg |   |
 | 27046=23264 | Nabumeton cf tablet 500mg |   |
 | 27157 | Nabumeton pch tablet 500mg |   |
 | Productgroep |   | Maximumprijs |
-| NADROPARIN-19000-IE/ML-INJ.VLOEISTOF, WWSP | NADROPARIN-19000-IE/ML-INJ.VLOEISTOF, WWSP | 14.79154100 per ml |
+| NADROPARIN-19000-IE/ML-INJ.VLOEISTOF, WWSP | NADROPARIN-19000-IE/ML-INJ.VLOEISTOF, WWSP | 14.78887400 per ml |
 | Registratienummer | Artikelnaam |   |
 | 23794 | Fraxodi injvlst 19000 ie/ml wwsp 0,6ml |   |
 | 23795 | Fraxodi injvlst 19000 ie/ml wwsp 0,8ml |   |
 | Productgroep |   | Maximumprijs |
-| NADROPARIN-9500-IE/ML-INJ.VLOEISTOF, WWSP | NADROPARIN-9500-IE/ML-INJ.VLOEISTOF, WWSP | 8.41916600 per ml |
+| NADROPARIN-9500-IE/ML-INJ.VLOEISTOF, WWSP | NADROPARIN-9500-IE/ML-INJ.VLOEISTOF, WWSP | 7.32925300 per ml |
 | Registratienummer | Artikelnaam |   |
 | 11876 | Fraxiparine injvlst 9500ie/ml wwsp 0,3ml |   |
 | 11877 | Fraxiparine injvlst 9500ie/ml wwsp 0,6ml |   |
 | 15963 | Fraxiparine injvlst 9500ie/ml wwsp 0,4ml |   |
 | 15965 | Fraxiparine injvlst 9500ie/ml wwsp 0,8ml |   |
 | Productgroep |   | Maximumprijs |
-| NAFARELIN-.2-MG-NEUSSPRAY | NAFARELIN-.2-MG-NEUSSPRAY | 1.28176600 per dosis |
+| NAFARELIN-.2-MG-NEUSSPRAY | NAFARELIN-.2-MG-NEUSSPRAY | 1.29529500 per dosis |
 | Registratienummer | Artikelnaam |   |
-| 100224/15086 | Synarel neusspray 200mcg/dosis flacon 60do |   |
 | 100224/15086 | Synarel neusspray 200mcg/dosis flacon 80do |   |
 | 15086 | Synarel neusspray 200mcg/dosis flacon 80do |   |
 | Productgroep |   | Maximumprijs |
-| NALTREXONE-50-MG-TABLET | NALTREXONE-50-MG-TABLET | 1.89498000 per stuk |
+| NALTREXONE-50-MG-TABLET | NALTREXONE-50-MG-TABLET | 1.90733500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11511 | Nalorex tablet omhuld 50mg |   |
 | 20147 | Revia tablet omhuld 50mg |   |
@@ -5980,20 +6174,21 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 33487/20147 | Revia tablet omhuld 50mg |   |
 | 34967/20147 | Revia tablet omhuld 50mg |   |
 | Productgroep |   | Maximumprijs |
-| NAPROXEN-250-MG-TABLET | NAPROXEN-250-MG-TABLET | 0.09129700 per stuk |
+| NAPROXEN-250-MG-TABLET | NAPROXEN-250-MG-TABLET | 0.09159900 per stuk |
 | Registratienummer | Artikelnaam |   |
-| 11195 | Naproxen merck tablet 250mg |   |
+| 11195 | Naproxen mylan tablet 250mg |   |
 | 12570 | Naproxen pch tablet 250mg |   |
 | 20319 | Naproxen sandoz tablet 250mg |   |
 | 20324 | Naproxen actavis tablet 250mg |   |
 | 20758 | Naproxenum tablet 250mg |   |
 | 23555=22395 | Naproxen eb tablet 250mg |   |
+| 24058 | Naproxen accord tablet 250mg |   |
 | 25652=20758 | Naproxen a tablet 250mg |   |
 | 56436 | Naproxen rp tablet 250mg |   |
 | 56913 | Naproxen cf tablet 250mg |   |
-| 57558 | Naproxen katwijk tablet 250mg |   |
+| 57558 | Naproxen apotex tablet 250mg |   |
 | Productgroep |   | Maximumprijs |
-| NAPROXEN-250-MG-TABLET, MAAGSAPRESISTENT | NAPROXEN-250-MG-TABLET, MAAGSAPRESISTENT | 0.15450900 per stuk |
+| NAPROXEN-250-MG-TABLET, MAAGSAPRESISTENT | NAPROXEN-250-MG-TABLET, MAAGSAPRESISTENT | 0.16837400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 21931 | Naproxen actavis ec tablet msr 250mg |   |
 | 22094 | Naproxen sandoz tablet msr 250mg |   |
@@ -6002,9 +6197,9 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 30325 | Naproxen pch tablet msr 250mg |   |
 | 31842 | Naproxen rp tablet msr 250mg |   |
 | Productgroep |   | Maximumprijs |
-| NAPROXEN-500-MG-TABLET | NAPROXEN-500-MG-TABLET | 0.17631400 per stuk |
+| NAPROXEN-500-MG-TABLET | NAPROXEN-500-MG-TABLET | 0.17230500 per stuk |
 | Registratienummer | Artikelnaam |   |
-| 11196 | Naproxen merck tablet 500mg |   |
+| 11196 | Naproxen mylan tablet 500mg |   |
 | 12571 | Naproxen pch tablet 500mg |   |
 | 20320 | Naproxen sandoz tablet 500mg |   |
 | 20325 | Naproxen actavis tablet 500mg |   |
@@ -6013,17 +6208,17 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 25653=20759 | Naproxen a tablet 500mg |   |
 | 56914 | Naproxen cf tablet 500mg |   |
 | 57090 | Naproxen rp tablet 500mg |   |
-| 57559 | Naproxen katwijk tablet 500mg |   |
+| 57559 | Naproxen apotex tablet 500mg |   |
 | Productgroep |   | Maximumprijs |
-| NAPROXEN-500-MG-TABLET, MAAGSAPRESISTENT | NAPROXEN-500-MG-TABLET, MAAGSAPRESISTENT | 0.26129000 per stuk |
+| NAPROXEN-500-MG-TABLET, MAAGSAPRESISTENT | NAPROXEN-500-MG-TABLET, MAAGSAPRESISTENT | 0.25828700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 21932 | Naproxen actavis ec tablet msr 500mg |   |
 | 22095 | Naproxen sandoz tablet msr 500mg |   |
-| 24968 | Naproxen merck ec tablet msr 500mg |   |
+| 24968 | Naproxen mylan ec tablet msr 500mg |   |
 | 27848=22257 | Naproxen cf ec tablet msr 500mg |   |
 | 30326 | Naproxen pch tablet msr 500mg |   |
 | Productgroep |   | Maximumprijs |
-| NAPROXEN-500-MG-ZETPIL | NAPROXEN-500-MG-ZETPIL | 0.21754900 per stuk |
+| NAPROXEN-500-MG-ZETPIL | NAPROXEN-500-MG-ZETPIL | 0.23753100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12573 | Naproxen pch zetpil 500mg |   |
 | 19984 | Naproxen actavis zetpil 500mg |   |
@@ -6033,7 +6228,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 57089 | Naproxen rp zetpil 500mg |   |
 | 57650 | Naproxen katwijk zetpil 500mg |   |
 | Productgroep |   | Maximumprijs |
-| NARATRIPTAN-2.5-MG-TABLET | NARATRIPTAN-2.5-MG-TABLET | 4.28763900 per stuk |
+| NARATRIPTAN-2.5-MG-TABLET | NARATRIPTAN-2.5-MG-TABLET | 4.29897900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 21444 | Naramig tablet omhuld 2,5mg |   |
 | 23781/21444 | Naramig tablet omhuld 2,5mg |   |
@@ -6044,11 +6239,11 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 31029/21444 | Naramig tablet omhuld 2,5mg |   |
 | 34447/21444 | Naramig tablet omhuld 2,5mg |   |
 | Productgroep |   | Maximumprijs |
-| NATRIUM OXYBATE-500-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | NATRIUM OXYBATE-500-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 2.13250300 per ml |
+| NATRIUM OXYBATE-500-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | NATRIUM OXYBATE-500-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 2.44769300 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/05/312/001 | Xyrem drank 500mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| NEBIVOLOL-5-MG-TABLET | NEBIVOLOL-5-MG-TABLET | 0.32323000 per stuk |
+| NEBIVOLOL-5-MG-TABLET | NEBIVOLOL-5-MG-TABLET | 0.32285200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 101797/18849 | Nebilet tablet 5mg |   |
 | 102311/18849 | Nebilet tablet 5mg |   |
@@ -6058,47 +6253,46 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 32296/18849 | Nebivolol tablet 5mg |   |
 | 35039/18849 | Nebivolol tablet 5mg |   |
 | Productgroep |   | Maximumprijs |
-| NELFINAVIR-250-MG-TABLET | NELFINAVIR-250-MG-TABLET | 1.24557800 per stuk |
+| NELFINAVIR-250-MG-TABLET | NELFINAVIR-250-MG-TABLET | 1.30065600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/97/054/004 | Viracept tablet filmomhuld 250mg |   |
 | Productgroep |   | Maximumprijs |
-| NEVIRAPINE-10-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | NEVIRAPINE-10-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.26042500 per ml |
+| NEVIRAPINE-10-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | NEVIRAPINE-10-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.26827800 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/97/055/002 | Viramune suspensie 10mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| NEVIRAPINE-200-MG-TABLET | NEVIRAPINE-200-MG-TABLET | 4.24252500 per stuk |
+| NEVIRAPINE-200-MG-TABLET | NEVIRAPINE-200-MG-TABLET | 4.28673300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/97/055/001 | Viramune tablet 200mg |   |
 | Productgroep |   | Maximumprijs |
-| NICARDIPINE-45-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | NICARDIPINE-45-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.30729900 per stuk |
+| NICARDIPINE-45-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | NICARDIPINE-45-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.31559800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 14833 | Cardene sr capsule mga 45mg |   |
 | Productgroep |   | Maximumprijs |
-| NICORANDIL-10-MG-TABLET | NICORANDIL-10-MG-TABLET | 0.18363900 per stuk |
+| NICORANDIL-10-MG-TABLET | NICORANDIL-10-MG-TABLET | 0.18790300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15221 | Ikorel tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| NICORANDIL-20-MG-TABLET | NICORANDIL-20-MG-TABLET | 0.34509400 per stuk |
+| NICORANDIL-20-MG-TABLET | NICORANDIL-20-MG-TABLET | 0.35752700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15222 | Ikorel tablet 20mg |   |
 | Productgroep |   | Maximumprijs |
-| NIFEDIPINE-10-MG-CAPSULE | NIFEDIPINE-10-MG-CAPSULE | 0.06654900 per stuk |
+| NIFEDIPINE-10-MG-CAPSULE | NIFEDIPINE-10-MG-CAPSULE | 0.06706200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15870 | Nifedipine cf capsule 10mg |   |
 | 57108 | Nifedipine pch capsule 10mg |   |
 | 57525 | Nifedipine sandoz capsule 10mg |   |
 | 57795=57108 | Nifedipine rp capsule 10mg |   |
 | Productgroep |   | Maximumprijs |
-| NIFEDIPINE-10-MG-TABLET, MET GEREGULEERDE AFGIFTE | NIFEDIPINE-10-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.09067300 per stuk |
+| NIFEDIPINE-10-MG-TABLET, MET GEREGULEERDE AFGIFTE | NIFEDIPINE-10-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.09317400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 16385 | Nifedipine cf retard tablet 10mg |   |
 | 19416=16385 | Nifedipine rp retard tablet 10mg |   |
 | 19426=16385 | Nifedipine pch retard tablet 10mg |   |
 | 19879=16385 | Nifedipine sandoz retard tablet 10mg |   |
 | 20138=16385 | Nifedipine actavis retard tablet 10mg |   |
-| 29035=25409 | Nifedipine merck retard tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| NIFEDIPINE-20-MG-TABLET, MET GEREGULEERDE AFGIFTE | NIFEDIPINE-20-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.14186900 per stuk |
+| NIFEDIPINE-20-MG-TABLET, MET GEREGULEERDE AFGIFTE | NIFEDIPINE-20-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.14011600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15976 | Nifedipine cf retard tablet 20mg |   |
 | 19417=15976 | Nifedipine rp retard tablet 20mg |   |
@@ -6109,38 +6303,37 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 26557=15976 | Nifedipine pch retard tablet 20mg |   |
 | 29036=25410 | Nifedipine mylan retard tablet 20mg |   |
 | Productgroep |   | Maximumprijs |
-| NIFEDIPINE-30-MG-TABLET, MET GEREGULEERDE AFGIFTE | NIFEDIPINE-30-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.24778900 per stuk |
+| NIFEDIPINE-30-MG-TABLET, MET GEREGULEERDE AFGIFTE | NIFEDIPINE-30-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.24727500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100102 | Nifedipine pch retard tablet mga 30mg |   |
 | 14794 | Adalat oros tablet mga 30mg |   |
 | 28944 | Nifedipine sandoz retard tablet mga 30mg |   |
 | 28956 | Nifedipine rp retard tablet mga 30mg |   |
 | Productgroep |   | Maximumprijs |
-| NIFEDIPINE-5-MG-CAPSULE | NIFEDIPINE-5-MG-CAPSULE | 0.06233800 per stuk |
+| NIFEDIPINE-5-MG-CAPSULE | NIFEDIPINE-5-MG-CAPSULE | 0.06478800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15869 | Nifedipine cf capsule 5mg |   |
 | 57107 | Nifedipine pch capsule 5mg |   |
 | 57524 | Nifedipine sandoz capsule 5mg |   |
 | 57794=57107 | Nifedipine rp capsule 5mg |   |
 | Productgroep |   | Maximumprijs |
-| NIFEDIPINE-60-MG-TABLET, MET GEREGULEERDE AFGIFTE | NIFEDIPINE-60-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.34216500 per stuk |
+| NIFEDIPINE-60-MG-TABLET, MET GEREGULEERDE AFGIFTE | NIFEDIPINE-60-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.34142400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100104 | Nifedipine pch retard tablet mga 60mg |   |
 | 14795 | Adalat oros tablet mga 60mg |   |
 | 17073 | Nifedipine a retard tablet mga 60mg |   |
-| 27213/14795 | Adalat oros tablet mga 60mg |   |
 | 28945 | Nifedipine sandoz retard tablet mga 60mg |   |
 | 28957 | Nifedipine rp retard tablet mga 60mg |   |
 | Productgroep |   | Maximumprijs |
-| NILOTINIB-200-MG-CAPSULE | NILOTINIB-200-MG-CAPSULE | 32.93492700 per stuk |
+| NILOTINIB-200-MG-CAPSULE | NILOTINIB-200-MG-CAPSULE | 33.38175700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/07/422/001 | Tasigna capsule 200mg |   |
 | Productgroep |   | Maximumprijs |
-| NIMODIPINE-30-MG-TABLET | NIMODIPINE-30-MG-TABLET | 0.41151300 per stuk |
+| NIMODIPINE-30-MG-TABLET | NIMODIPINE-30-MG-TABLET | 0.38920300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12060 | Nimotop tablet 30mg |   |
 | Productgroep |   | Maximumprijs |
-| NITRAZEPAM-5-MG-TABLET | NITRAZEPAM-5-MG-TABLET | 0.06842700 per stuk |
+| NITRAZEPAM-5-MG-TABLET | NITRAZEPAM-5-MG-TABLET | 0.06894000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12475 | Nitrazepam sandoz tablet 5mg |   |
 | 19999=52656 | Nitrazepam a tablet 5mg |   |
@@ -6152,29 +6345,29 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 56236 | Nitrazepam pch tablet 5mg |   |
 | 56702 | Nitrazepam cf tablet 5mg |   |
 | Productgroep |   | Maximumprijs |
-| NITRENDIPINE-10-MG-TABLET | NITRENDIPINE-10-MG-TABLET | 0.17798900 per stuk |
+| NITRENDIPINE-10-MG-TABLET | NITRENDIPINE-10-MG-TABLET | 0.17809200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11391 | Baypress tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| NITRENDIPINE-20-MG-TABLET | NITRENDIPINE-20-MG-TABLET | 0.32825600 per stuk |
+| NITRENDIPINE-20-MG-TABLET | NITRENDIPINE-20-MG-TABLET | 0.32797100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11392 | Baypress tablet 20mg |   |
 | Productgroep |   | Maximumprijs |
-| NIZATIDINE-150-MG-CAPSULE | NIZATIDINE-150-MG-CAPSULE | 0.37333500 per stuk |
+| NIZATIDINE-150-MG-CAPSULE | NIZATIDINE-150-MG-CAPSULE | 0.38246800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12364 | Axid capsule 150mg |   |
 | 27742 | Nizatidine sandoz capsule 150mg |   |
 | Productgroep |   | Maximumprijs |
-| NIZATIDINE-300-MG-CAPSULE | NIZATIDINE-300-MG-CAPSULE | 0.70216600 per stuk |
+| NIZATIDINE-300-MG-CAPSULE | NIZATIDINE-300-MG-CAPSULE | 0.73642300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12365 | Axid capsule 300mg |   |
 | 27743 | Nizatidine sandoz capsule 300mg |   |
 | Productgroep |   | Maximumprijs |
-| NORETHISTERONE-5-MG-TABLET | NORETHISTERONE-5-MG-TABLET | 0.12462000 per stuk |
+| NORETHISTERONE-5-MG-TABLET | NORETHISTERONE-5-MG-TABLET | 0.12728500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 2179 | Primolut n tablet 5mg |   |
 | Productgroep |   | Maximumprijs |
-| NORFLOXACIN-400-MG-TABLET | NORFLOXACIN-400-MG-TABLET | 0.28734700 per stuk |
+| NORFLOXACIN-400-MG-TABLET | NORFLOXACIN-400-MG-TABLET | 0.31031900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 22824 | Norfloxacine pch tablet 400mg |   |
 | 23358 | Norfloxacine rp tablet 400mg |   |
@@ -6182,21 +6375,21 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 24786=23358 | Norfloxacine a tablet 400mg |   |
 | 25424=22824 | Norfloxacine actavis tablet 400mg |   |
 | 26800 | Norfloxacine sandoz tablet 400mg |   |
-| 29846 | Norfloxacine merck tablet 400mg |   |
+| 29846 | Norfloxacine mylan tablet 400mg |   |
 | Productgroep |   | Maximumprijs |
-| NORTRIPTYLINE-25-MG-TABLET | NORTRIPTYLINE-25-MG-TABLET | 0.15398200 per stuk |
+| NORTRIPTYLINE-25-MG-TABLET | NORTRIPTYLINE-25-MG-TABLET | 0.15859900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 3286 | Nortrilen tablet 25mg |   |
 | Productgroep |   | Maximumprijs |
-| NYSTATIN-100000-IE/ML-OPLOSSING/SUSPENSIE, ORAAL | NYSTATIN-100000-IE/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.09412200 per ml |
+| NYSTATIN-100000-IE/ML-OPLOSSING/SUSPENSIE, ORAAL | NYSTATIN-100000-IE/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.09483500 per ml |
 | Registratienummer | Artikelnaam |   |
 | 6771 | Nystatine labaz suspensie 100.000e/ml |   |
 | Productgroep |   | Maximumprijs |
-| OFLOXACIN-200-MG-TABLET | OFLOXACIN-200-MG-TABLET | 0.78794600 per stuk |
+| OFLOXACIN-200-MG-TABLET | OFLOXACIN-200-MG-TABLET | 0.79359100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11939 | Tarivid tablet 200mg |   |
 | 27571 | Ofloxacine pch tablet filmomhuld 200mg |   |
-| 27753 | Ofloxacine merck tablet filmomhuld 200mg |   |
+| 27753 | Ofloxacine mylan tablet filmomhuld 200mg |   |
 | 28728 | Ofloxacine cf tablet filmomhuld 200mg |   |
 | 28950 | Ofloxacine sandoz tablet filmomhuld 200mg |   |
 | 30444 | Ofloxacine rp tablet filmomhuld 200mg |   |
@@ -6205,7 +6398,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | Registratienummer | Artikelnaam |   |
 | 13511 | Trafloxal oogzalf 3mg/g tube 3g |   |
 | Productgroep |   | Maximumprijs |
-| OFLOXACIN-3-MG/ML-OOGDRUPPELS | OFLOXACIN-3-MG/ML-OOGDRUPPELS | 0.63566300 per ml |
+| OFLOXACIN-3-MG/ML-OOGDRUPPELS | OFLOXACIN-3-MG/ML-OOGDRUPPELS | 0.63724200 per ml |
 | Registratienummer | Artikelnaam |   |
 | 13510 | Trafloxal oogdruppels 3mg/ml flacon 5ml |   |
 | Productgroep |   | Maximumprijs |
@@ -6213,7 +6406,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | Registratienummer | Artikelnaam |   |
 | 29805 | Trafloxal edo oogdruppels 3mg/ml tube 0,5ml |   |
 | Productgroep |   | Maximumprijs |
-| OFLOXACIN-400-MG-TABLET | OFLOXACIN-400-MG-TABLET | 1.18980800 per stuk |
+| OFLOXACIN-400-MG-TABLET | OFLOXACIN-400-MG-TABLET | 1.18728300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15359 | Tarivid tablet 400mg |   |
 | 27572 | Ofloxacine pch tablet filmomhuld 400mg |   |
@@ -6222,96 +6415,96 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 28951 | Ofloxacine sandoz tablet filmomhuld 400mg |   |
 | 30445 | Ofloxacine rp tablet filmomhuld 400mg |   |
 | Productgroep |   | Maximumprijs |
-| OLANZAPINE-10-MG-SMELTTABLET | OLANZAPINE-10-MG-SMELTTABLET | 4.07076600 per stuk |
+| OLANZAPINE-10-MG-SMELTTABLET | OLANZAPINE-10-MG-SMELTTABLET | 4.14286900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/99/125/002 | Zyprexa velotab orodisp tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| OLANZAPINE-10-MG-TABLET | OLANZAPINE-10-MG-TABLET | 4.29290300 per stuk |
+| OLANZAPINE-10-MG-TABLET | OLANZAPINE-10-MG-TABLET | 4.26237300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/96/022/009 | Zyprexa tablet 10mg |   |
 | EU/1/96/022/010 | Zyprexa tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| OLANZAPINE-15-MG-SMELTTABLET | OLANZAPINE-15-MG-SMELTTABLET | 6.13818500 per stuk |
+| OLANZAPINE-15-MG-SMELTTABLET | OLANZAPINE-15-MG-SMELTTABLET | 6.85928200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/99/125/003 | Zyprexa velotab orodisp tablet 15mg |   |
 | Productgroep |   | Maximumprijs |
-| OLANZAPINE-15-MG-TABLET | OLANZAPINE-15-MG-TABLET | 7.12468800 per stuk |
+| OLANZAPINE-15-MG-TABLET | OLANZAPINE-15-MG-TABLET | 7.46934100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/96/022/012 | Zyprexa tablet 15mg |   |
 | Productgroep |   | Maximumprijs |
-| OLANZAPINE-2.5-MG-TABLET | OLANZAPINE-2.5-MG-TABLET | 1.41946200 per stuk |
+| OLANZAPINE-2.5-MG-TABLET | OLANZAPINE-2.5-MG-TABLET | 1.43034500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/96/022/002 | Zyprexa tablet 2,5mg |   |
 | Productgroep |   | Maximumprijs |
-| OLANZAPINE-20-MG-SMELTTABLET | OLANZAPINE-20-MG-SMELTTABLET | 7.85973900 per stuk |
+| OLANZAPINE-20-MG-SMELTTABLET | OLANZAPINE-20-MG-SMELTTABLET | 8.54149800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/99/125/004 | Zyprexa velotab orodisp tablet 20mg |   |
 | Productgroep |   | Maximumprijs |
-| OLANZAPINE-20-MG-TABLET | OLANZAPINE-20-MG-TABLET | 8.93525000 per stuk |
+| OLANZAPINE-20-MG-TABLET | OLANZAPINE-20-MG-TABLET | 9.03343300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/96/022/014 | Zyprexa tablet 20mg |   |
 | Productgroep |   | Maximumprijs |
-| OLANZAPINE-5-MG-SMELTTABLET | OLANZAPINE-5-MG-SMELTTABLET | 2.08136400 per stuk |
+| OLANZAPINE-5-MG-SMELTTABLET | OLANZAPINE-5-MG-SMELTTABLET | 2.10319900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/99/125/001 | Zyprexa velotab orodisp tablet 5mg |   |
 | Productgroep |   | Maximumprijs |
-| OLANZAPINE-5-MG-TABLET | OLANZAPINE-5-MG-TABLET | 2.14413900 per stuk |
+| OLANZAPINE-5-MG-TABLET | OLANZAPINE-5-MG-TABLET | 2.16392000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/96/022/004 | Zyprexa tablet 5mg |   |
 | EU/1/96/022/020 | Zyprexa tablet 5mg |   |
 | Productgroep |   | Maximumprijs |
-| OLMESARTAN-10-MG-TABLET | OLMESARTAN-10-MG-TABLET | 0.50465700 per stuk |
+| OLMESARTAN-10-MG-TABLET | OLMESARTAN-10-MG-TABLET | 0.51030700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 28782 | Olmetec tablet filmomhuld 10mg |   |
 | Productgroep |   | Maximumprijs |
-| OLMESARTAN-20-MG-TABLET | OLMESARTAN-20-MG-TABLET | 0.60528100 per stuk |
+| OLMESARTAN-20-MG-TABLET | OLMESARTAN-20-MG-TABLET | 0.60764400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 28783 | Olmetec tablet filmomhuld 20mg |   |
 | Productgroep |   | Maximumprijs |
-| OLMESARTAN-40-MG-TABLET | OLMESARTAN-40-MG-TABLET | 0.71952600 per stuk |
+| OLMESARTAN-40-MG-TABLET | OLMESARTAN-40-MG-TABLET | 0.73042400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 28784 | Olmetec tablet filmomhuld 40mg |   |
 | Productgroep |   | Maximumprijs |
-| OLOPATADINE-1-MG/ML-OOGDRUPPELS | OLOPATADINE-1-MG/ML-OOGDRUPPELS | 1.33850500 per ml |
+| OLOPATADINE-1-MG/ML-OOGDRUPPELS | OLOPATADINE-1-MG/ML-OOGDRUPPELS | 1.36295300 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/02/217/001 | Opatanol oogdruppels 1mg/ml flacon 5ml |   |
 | Productgroep |   | Maximumprijs |
-| OLSALAZINE-250-MG-CAPSULE | OLSALAZINE-250-MG-CAPSULE | 0.32051800 per stuk |
+| OLSALAZINE-250-MG-CAPSULE | OLSALAZINE-250-MG-CAPSULE | 0.32419800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11790 | Dipentum capsule 250mg |   |
 | Productgroep |   | Maximumprijs |
-| OLSALAZINE-500-MG-TABLET | OLSALAZINE-500-MG-TABLET | 0.62202100 per stuk |
+| OLSALAZINE-500-MG-TABLET | OLSALAZINE-500-MG-TABLET | 0.62938100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 14363 | Dipentum tablet 500mg |   |
 | Productgroep |   | Maximumprijs |
-| OMALIZUMAB-150-MG-POED. V. INJECTIE, FLACON | OMALIZUMAB-150-MG-POED. V. INJECTIE, FLACON | 372.30225800 per stuk |
+| OMALIZUMAB-150-MG-POED. V. INJECTIE, FLACON | OMALIZUMAB-150-MG-POED. V. INJECTIE, FLACON | 376.30780400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/05/319/002 | Xolair injectiepoeder flacon 150mg +solvens 2ml |   |
 | Productgroep |   | Maximumprijs |
-| OMEPRAZOLE-10-MG-CAPSULE, MAAGSAPRESISTENT | OMEPRAZOLE-10-MG-CAPSULE, MAAGSAPRESISTENT | 0.23245800 per stuk |
+| OMEPRAZOLE-10-MG-CAPSULE, MAAGSAPRESISTENT | OMEPRAZOLE-10-MG-CAPSULE, MAAGSAPRESISTENT | 0.23242800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 25342 | Omeprazol rp capsule msr 10mg |   |
 | 25729 | Omeprazol sandoz capsule msr 10mg |   |
-| 26015 | Omeprazol merck capsule msr 10mg |   |
+| 26015 | Omeprazol mylan capsule msr 10mg |   |
 | 26724 | Omeprazol katwijk capsule msr 10mg |   |
 | Productgroep |   | Maximumprijs |
-| OMEPRAZOLE-10-MG-TABLET, MAAGSAPRESISTENT | OMEPRAZOLE-10-MG-TABLET, MAAGSAPRESISTENT | 0.33825100 per stuk |
+| OMEPRAZOLE-10-MG-TABLET, MAAGSAPRESISTENT | OMEPRAZOLE-10-MG-TABLET, MAAGSAPRESISTENT | 0.33974000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 21683 | Losec mups tablet msr 10mg |   |
 | 34149/21683 | Losec mups tablet msr 10mg |   |
 | 34171/21683 | Losec mups tablet msr 10mg |   |
 | Productgroep |   | Maximumprijs |
-| OMEPRAZOLE-20-MG-CAPSULE, MAAGSAPRESISTENT | OMEPRAZOLE-20-MG-CAPSULE, MAAGSAPRESISTENT | 0.31669500 per stuk |
+| OMEPRAZOLE-20-MG-CAPSULE, MAAGSAPRESISTENT | OMEPRAZOLE-20-MG-CAPSULE, MAAGSAPRESISTENT | 0.31595200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 24777 | Omeprazol rp capsule msr 20mg |   |
-| 25482 | Omeprazol merck capsule msr 20mg |   |
+| 25482 | Omeprazol mylan capsule msr 20mg |   |
 | 25660 | Omeprazol cf capsule msr 20mg |   |
 | 25730 | Omeprazol sandoz capsule msr 20mg |   |
-| 26725 | Omeprazol katwijk capsule msr 20mg |   |
+| 26725 | Omeprazol apotex capsule msr 20mg |   |
 | 28083 | Omeprazol a capsule msr 20mg |   |
 | 30803 | Omeprazol pch capsule msr 20mg |   |
 | Productgroep |   | Maximumprijs |
-| OMEPRAZOLE-20-MG-TABLET, MAAGSAPRESISTENT | OMEPRAZOLE-20-MG-TABLET, MAAGSAPRESISTENT | 0.35786000 per stuk |
+| OMEPRAZOLE-20-MG-TABLET, MAAGSAPRESISTENT | OMEPRAZOLE-20-MG-TABLET, MAAGSAPRESISTENT | 0.36430400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 21684 | Losec mups tablet msr 20mg |   |
 | 33741/21684 | Losec mups tablet msr 20mg |   |
@@ -6319,16 +6512,16 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 34172/21684 | Losec mups tablet msr 20mg |   |
 | 35202/21684 | Losec mups tablet msr 20mg |   |
 | Productgroep |   | Maximumprijs |
-| OMEPRAZOLE-40-MG-CAPSULE, MAAGSAPRESISTENT | OMEPRAZOLE-40-MG-CAPSULE, MAAGSAPRESISTENT | 0.60599700 per stuk |
+| OMEPRAZOLE-40-MG-CAPSULE, MAAGSAPRESISTENT | OMEPRAZOLE-40-MG-CAPSULE, MAAGSAPRESISTENT | 0.58478300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 24876 | Omeprazol rp capsule msr 40mg |   |
 | 25661 | Omeprazol cf capsule msr 40mg |   |
 | 25731 | Omeprazol sandoz capsule msr 40mg |   |
-| 26016 | Omeprazol merck capsule msr 40mg |   |
+| 26016 | Omeprazol mylan capsule msr 40mg |   |
 | 26726 | Omeprazol katwijk capsule msr 40mg |   |
 | 28084 | Omeprazol a capsule msr 40mg |   |
 | Productgroep |   | Maximumprijs |
-| OMEPRAZOLE-40-MG-TABLET, MAAGSAPRESISTENT | OMEPRAZOLE-40-MG-TABLET, MAAGSAPRESISTENT | 1.08981900 per stuk |
+| OMEPRAZOLE-40-MG-TABLET, MAAGSAPRESISTENT | OMEPRAZOLE-40-MG-TABLET, MAAGSAPRESISTENT | 1.02204500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 21685 | Losec mups tablet msr 40mg |   |
 | 33939/21685 | Losec mups tablet msr 40mg |   |
@@ -6336,159 +6529,169 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 34173/21685 | Losec mups tablet msr 40mg |   |
 | 35203/21685 | Losec mups tablet msr 40mg |   |
 | Productgroep |   | Maximumprijs |
-| ONDANSETRON-.8-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | ONDANSETRON-.8-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.92844500 per ml |
+| ONDANSETRON-.8-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | ONDANSETRON-.8-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.95703400 per ml |
 | Registratienummer | Artikelnaam |   |
 | 19922 | Zofran stroop 0,8mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| ONDANSETRON-16-MG-ZETPIL | ONDANSETRON-16-MG-ZETPIL | 14.29997200 per stuk |
+| ONDANSETRON-16-MG-ZETPIL | ONDANSETRON-16-MG-ZETPIL | 14.50440600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 19252 | Zofran zetpil 16mg |   |
 | 29721/19252 | Zofran zetpil 16mg |   |
 | Productgroep |   | Maximumprijs |
-| ONDANSETRON-4-MG-SMELTTABLET | ONDANSETRON-4-MG-SMELTTABLET | 4.23436200 per stuk |
+| ONDANSETRON-4-MG-SMELTTABLET | ONDANSETRON-4-MG-SMELTTABLET | 4.35552000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 21471 | Zofran zydis smelttablet 4mg |   |
 | Productgroep |   | Maximumprijs |
-| ONDANSETRON-8-MG-SMELTTABLET | ONDANSETRON-8-MG-SMELTTABLET | 6.97094800 per stuk |
+| ONDANSETRON-8-MG-SMELTTABLET | ONDANSETRON-8-MG-SMELTTABLET | 7.09965100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 21472 | Zofran zydis smelttablet 8mg |   |
 | 34620/21472 | Zofran zydis smelttablet 8mg |   |
 | Productgroep |   | Maximumprijs |
-| OXALIPLATINE-100-MG-POED. V. INFUSIE,FLACON | OXALIPLATINE-100-MG-POED. V. INFUSIE,FLACON | 412.30276000 per stuk |
+| OXALIPLATINE-100-MG-POED. V. INFUSIE,FLACON | OXALIPLATINE-100-MG-POED. V. INFUSIE,FLACON | 410.14203000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 101269 | Oxaliplatin accord infpdr flacon 100mg |   |
 | 33873 | Oxaliplatin mayne infpdr flacon 100mg |   |
-| 33945 | Oxaliplatine merck infpdr flacon 100mg |   |
+| 33945 | Oxaliplatine mylan infpdr flacon 100mg |   |
 | Productgroep |   | Maximumprijs |
-| OXALIPLATINE-5-MG/ML-INFUUSVLOEISTOF, FLACON | OXALIPLATINE-5-MG/ML-INFUUSVLOEISTOF, FLACON | 23.75693100 per ml |
+| OXALIPLATINE-5-MG/ML-INFUUSVLOEISTOF, FLACON | OXALIPLATINE-5-MG/ML-INFUUSVLOEISTOF, FLACON | 21.44300100 per ml |
 | Registratienummer | Artikelnaam |   |
 | 101857/32774 | Eloxatin infvlst conc 5mg/ml flacon 20ml |   |
-| 32774 | Eloxatin infvlst conc 5mg/ml flacon 10ml |   |
 | 32774 | Eloxatin infvlst conc 5mg/ml flacon 20ml |   |
 | 32774 | Eloxatin infvlst conc 5mg/ml flacon 40ml |   |
-| 33127 | Oxaliplatine winthrop infvlst conc 5mg/ml fl 10ml |   |
+| 32774 | Eloxatin infvlst conc 5mg/ml flacon 10ml |   |
 | 33127 | Oxaliplatine winthrop infvlst conc 5mg/ml fl 40ml |   |
+| 33127 | Oxaliplatine winthrop infvlst conc 5mg/ml fl 10ml |   |
 | 33127 | Oxaliplatine winthrop infvlst conc 5mg/ml fl 20ml |   |
+| 34033 | Oxalisin infvlst conc 5mg/ml fl 10ml |   |
 | 34033 | Oxalisin infvlst conc 5mg/ml fl 20ml |   |
 | 34033 | Oxalisin infvlst conc 5mg/ml fl 40ml |   |
-| 34033 | Oxalisin infvlst conc 5mg/ml fl 10ml |   |
-| 34481 | Oxaliplatin mayne infvlst conc 5mg/ml fl 10ml |   |
-| 34481 | Oxaliplatin mayne infvlst conc 5mg/ml fl 20ml |   |
+| 34481 | Oxaliplatin hospira infvlst conc 5mg/ml fl 20ml |   |
+| 34481 | Oxaliplatin hospira infvlst conc 5mg/ml fl 10ml |   |
+| 34481 | Oxaliplatin hospira infvlst conc 5mg/ml fl 40ml |   |
 | Productgroep |   | Maximumprijs |
-| OXAZEPAM-10-MG-TABLET | OXAZEPAM-10-MG-TABLET | 0.11074400 per stuk |
+| OXALIPLATINE-50-MG-POED. V. INFUSIE,FLACON | OXALIPLATINE-50-MG-POED. V. INFUSIE,FLACON | 208.20258000 per stuk |
+| Registratienummer | Artikelnaam |   |
+| 33873 | Oxaliplatin mayne infpdr flacon 50mg |   |
+| 33945 | Oxaliplatine mylan infpdr flacon 50mg |   |
+| Productgroep |   | Maximumprijs |
+| OXAZEPAM-10-MG-TABLET | OXAZEPAM-10-MG-TABLET | 0.11098800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12323 | Oxazepam sandoz tablet 10mg |   |
 | 12923 | Oxazepam actavis tablet 10mg |   |
 | 19904=52658 | Oxazepam a tablet 10mg |   |
 | 5181 | Seresta tablet 10mg |   |
 | 52658 | Oxazepam rp tablet 10mg |   |
+| 53369 | Oxazepam apotex tablet 10mg |   |
 | 53369 | Oxazepam katwijk tablet 10mg |   |
 | 55829 | Oxazepam pch tablet 10mg |   |
 | 55928 | Oxazepam cf tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| OXAZEPAM-50-MG-TABLET | OXAZEPAM-50-MG-TABLET | 0.09228700 per stuk |
+| OXAZEPAM-50-MG-TABLET | OXAZEPAM-50-MG-TABLET | 0.09158700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12324 | Oxazepam sandoz tablet 50mg |   |
 | 12924 | Oxazepam actavis tablet 50mg |   |
 | 19905=52659 | Oxazepam a tablet 50mg |   |
 | 24002=52659 | Oxazepam eb tablet 50mg |   |
-| 26945=55969 | Oxazepam merck tablet 50mg |   |
+| 26945=55969 | Oxazepam mylan tablet 50mg |   |
 | 52659 | Oxazepam rp tablet 50mg |   |
+| 53370 | Oxazepam apotex tablet 50mg |   |
 | 53370 | Oxazepam katwijk tablet 50mg |   |
 | 55791 | Oxazepam pch tablet 50mg |   |
 | 55969 | Oxazepam cf tablet 50mg |   |
 | 5649 | Seresta forte tablet 50mg |   |
 | Productgroep |   | Maximumprijs |
-| OXCARBAZEPINE-300-MG-TABLET | OXCARBAZEPINE-300-MG-TABLET | 0.38160800 per stuk |
+| OXCARBAZEPINE-300-MG-TABLET | OXCARBAZEPINE-300-MG-TABLET | 0.38399100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 24751 | Trileptal tablet filmomhuld 300mg |   |
 | Productgroep |   | Maximumprijs |
-| OXCARBAZEPINE-60-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | OXCARBAZEPINE-60-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.15140300 per ml |
+| OXCARBAZEPINE-60-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | OXCARBAZEPINE-60-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.15552800 per ml |
 | Registratienummer | Artikelnaam |   |
 | 26830 | Trileptal suspensie 60mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| OXCARBAZEPINE-600-MG-TABLET | OXCARBAZEPINE-600-MG-TABLET | 0.74290500 per stuk |
+| OXCARBAZEPINE-600-MG-TABLET | OXCARBAZEPINE-600-MG-TABLET | 0.74853700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 24752 | Trileptal tablet filmomhuld 600mg |   |
 | Productgroep |   | Maximumprijs |
-| OXPRENOLOL-160-MG-TABLET, MET GEREGULEERDE AFGIFTE | OXPRENOLOL-160-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.33221300 per stuk |
+| OXPRENOLOL-160-MG-TABLET, MET GEREGULEERDE AFGIFTE | OXPRENOLOL-160-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.33429800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12526=7418 | Oxprenolol hcl sandoz retard tablet mga 160mg |   |
 | Productgroep |   | Maximumprijs |
-| OXPRENOLOL-40-MG-TABLET | OXPRENOLOL-40-MG-TABLET | 0.13670000 per stuk |
+| OXPRENOLOL-40-MG-TABLET | OXPRENOLOL-40-MG-TABLET | 0.13878300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12524=6125 | Oxprenolol hcl sandoz tablet 40mg |   |
 | Productgroep |   | Maximumprijs |
-| OXPRENOLOL-80-MG-TABLET | OXPRENOLOL-80-MG-TABLET | 0.17047900 per stuk |
+| OXPRENOLOL-80-MG-TABLET | OXPRENOLOL-80-MG-TABLET | 0.17132400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12525=7025 | Oxprenolol hcl sandoz tablet 80mg |   |
 | Productgroep |   | Maximumprijs |
-| OXYBUTYNIN-2.5-MG-TABLET | OXYBUTYNIN-2.5-MG-TABLET | 0.12129600 per stuk |
+| OXYBUTYNIN-2.5-MG-TABLET | OXYBUTYNIN-2.5-MG-TABLET | 0.13328900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 17499 | Dridase tablet 2,5mg |   |
 | 22001=17499 | Oxybutynine hcl pch tablet 2,5mg |   |
 | 22160 | Oxybutynine hcl cf tablet 2,5mg |   |
-| 22822 | Oxybutynine hcl merck tablet 2,5mg |   |
+| 22822 | Oxybutynine hcl mylan tablet 2,5mg |   |
 | 23893=22455 | Oxybutynine hcl actavis tablet 2,5mg |   |
 | 24060 | Oxybutynine hcl rp tablet 2,5mg |   |
 | 25156 | Oxybutynine hcl katwijk tablet 2,5mg |   |
 | 27969=17499 | Oxybutynine hcl a tablet 2,5mg |   |
 | Productgroep |   | Maximumprijs |
-| OXYBUTYNIN-36-MG-PLEISTER, DERMAAL | OXYBUTYNIN-36-MG-PLEISTER, DERMAAL | 4.35976800 per stuk |
+| OXYBUTYNIN-36-MG-PLEISTER, DERMAAL | OXYBUTYNIN-36-MG-PLEISTER, DERMAAL | 4.43065800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/03/270/001 | Kentera pleister transdermaal 36mg |   |
-| EU/1/03/270/002 | Kentera pleister transdermaal 36mg |   |
 | Productgroep |   | Maximumprijs |
-| OXYBUTYNIN-5-MG-TABLET | OXYBUTYNIN-5-MG-TABLET | 0.11223400 per stuk |
+| OXYBUTYNIN-5-MG-TABLET | OXYBUTYNIN-5-MG-TABLET | 0.11354000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10527 | Dridase tablet 5mg |   |
 | 18780 | Oxybutynine hcl sandoz tablet 5mg |   |
 | 20344=10527 | Oxybutynine hcl pch tablet 5mg |   |
 | 20814 | Oxybutynine hcl rp tablet 5mg |   |
 | 21285 | Oxybutynine hcl actavis tablet 5mg |   |
-| 22823 | Oxybutynine hcl merck tablet 5mg |   |
+| 22823 | Oxybutynine hcl mylan tablet 5mg |   |
 | 25099 | Oxybutynine hcl cf tablet 5mg |   |
 | 25157 | Oxybutynine hcl katwijk tablet 5mg |   |
 | 27970=10527 | Oxybutynine hcl a tablet 5mg |   |
 | Productgroep |   | Maximumprijs |
-| OXYCODONE-10-MG-CAPSULE | OXYCODONE-10-MG-CAPSULE | 0.84470600 per stuk |
+| OXYCODONE-10-MG-CAPSULE | OXYCODONE-10-MG-CAPSULE | 0.94677300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 27510 | Oxynorm capsule 10mg |   |
 | Productgroep |   | Maximumprijs |
-| OXYCODONE-10-MG-TABLET, MET GEREGULEERDE AFGIFTE | OXYCODONE-10-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.56470400 per stuk |
+| OXYCODONE-10-MG-TABLET, MET GEREGULEERDE AFGIFTE | OXYCODONE-10-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.57260400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 22107 | Oxycontin tablet mga 10mg |   |
 | Productgroep |   | Maximumprijs |
-| OXYCODONE-20-MG-CAPSULE | OXYCODONE-20-MG-CAPSULE | 1.33370200 per stuk |
+| OXYCODONE-20-MG-CAPSULE | OXYCODONE-20-MG-CAPSULE | 1.48060400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 27511 | Oxynorm capsule 20mg |   |
 | Productgroep |   | Maximumprijs |
-| OXYCODONE-20-MG-TABLET, MET GEREGULEERDE AFGIFTE | OXYCODONE-20-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.99596300 per stuk |
+| OXYCODONE-20-MG-TABLET, MET GEREGULEERDE AFGIFTE | OXYCODONE-20-MG-TABLET, MET GEREGULEERDE AFGIFTE | 1.00755200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 22108 | Oxycontin tablet mga 20mg |   |
 | Productgroep |   | Maximumprijs |
-| OXYCODONE-40-MG-TABLET, MET GEREGULEERDE AFGIFTE | OXYCODONE-40-MG-TABLET, MET GEREGULEERDE AFGIFTE | 1.97581000 per stuk |
+| OXYCODONE-40-MG-TABLET, MET GEREGULEERDE AFGIFTE | OXYCODONE-40-MG-TABLET, MET GEREGULEERDE AFGIFTE | 2.00170400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 22109 | Oxycontin tablet mga 40mg |   |
 | Productgroep |   | Maximumprijs |
-| OXYCODONE-5-MG-CAPSULE | OXYCODONE-5-MG-CAPSULE | 0.51434300 per stuk |
+| OXYCODONE-5-MG-CAPSULE | OXYCODONE-5-MG-CAPSULE | 0.57942500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 27509 | Oxynorm capsule 5mg |   |
 | Productgroep |   | Maximumprijs |
-| OXYCODONE-5-MG-TABLET, MET GEREGULEERDE AFGIFTE | OXYCODONE-5-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.40646700 per stuk |
+| OXYCODONE-5-MG-TABLET, MET GEREGULEERDE AFGIFTE | OXYCODONE-5-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.41413100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 27536 | Oxycontin tablet mga 5mg |   |
 | Productgroep |   | Maximumprijs |
-| OXYCODONE-80-MG-TABLET, MET GEREGULEERDE AFGIFTE | OXYCODONE-80-MG-TABLET, MET GEREGULEERDE AFGIFTE | 3.74997100 per stuk |
+| OXYCODONE-80-MG-TABLET, MET GEREGULEERDE AFGIFTE | OXYCODONE-80-MG-TABLET, MET GEREGULEERDE AFGIFTE | 3.81019100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 22110 | Oxycontin tablet mga 80mg |   |
 | Productgroep |   | Maximumprijs |
-| PACLITAXEL-6-MG/ML-INFUUSVLOEISTOF, FLACON | PACLITAXEL-6-MG/ML-INFUUSVLOEISTOF, FLACON | 24.10815500 per ml |
+| PACLITAXEL-6-MG/ML-INFUUSVLOEISTOF, FLACON | PACLITAXEL-6-MG/ML-INFUUSVLOEISTOF, FLACON | 22.18513300 per ml |
 | Registratienummer | Artikelnaam |   |
-| 30113 | Paclitaxin infvlst conc 6mg/ml flacon 5ml |   |
-| 30113 | Paclitaxin infvlst conc 6mg/ml flacon 25ml |   |
-| 30113 | Paclitaxin infvlst conc 6mg/ml flacon 50ml |   |
+| 101937 | Paclitaxel allgen infvlst conc 6mg/ml fl 5ml |   |
+| 101937 | Paclitaxel allgen infvlst conc 6mg/ml fl 16,7ml |   |
+| 101937 | Paclitaxel allgen infvlst conc 6mg/ml fl 50ml |   |
 | 30113 | Paclitaxin infvlst conc 6mg/ml flacon 16,7ml |   |
+| 30113 | Paclitaxin infvlst conc 6mg/ml flacon 25ml |   |
+| 30113 | Paclitaxin infvlst conc 6mg/ml flacon 5ml |   |
+| 30113 | Paclitaxin infvlst conc 6mg/ml flacon 50ml |   |
 | 30371 | Infvlst conc paclitaxelum 6mg/ml flacon 5ml |   |
 | 30371 | Infvlst conc paclitaxelum 6mg/ml flacon 50ml |   |
 | 30371 | Infvlst conc paclitaxelum 6mg/ml flacon 16,7ml |   |
@@ -6496,48 +6699,46 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 30864 | Paclitaxel ebewe infvlst conc 6mg/ml fl 16,7ml |   |
 | 30864 | Paclitaxel eurocept infvlst conc 6mg/ml fl 5ml |   |
 | 30864 | Paclitaxel eurocept infvlst conc 6mg/ml fl 16,7ml |   |
+| 30864 | Paclitaxel ebewe infvlst conc 6mg/ml fl 50ml |   |
 | 30864 | Paclitaxel ebewe infvlst conc 6mg/ml fl 5ml |   |
 | 30864 | Paclitaxel ebewe infvlst conc 6mg/ml fl 25ml |   |
 | 30864 | Paclitaxel eurocept infvlst conc 6mg/ml fl 50ml |   |
-| 30864 | Paclitaxel ebewe infvlst conc 6mg/ml fl 50ml |   |
 | 33270 | Paclitaxel cf infvlst conc 6mg/ml flacon 5ml |   |
 | 33270 | Paclitaxel cf infvlst conc 6mg/ml flacon 50ml |   |
 | 33270 | Paclitaxel cf infvlst conc 6mg/ml flacon 16,7ml |   |
 | 33270 | Paclitaxel cf infvlst conc 6mg/ml flacon 25ml |   |
 | 33505 | Paclitaxel rp infvlst conc 6mg/ml flacon 16,7ml |   |
-| 33505 | Paclitaxel rp infvlst conc 6mg/ml flacon 5ml |   |
 | 33505 | Paclitaxel rp infvlst conc 6mg/ml flacon 50ml |   |
-| 34648 | Paclitaxel merck infvlst conc 6mg/ml fl 5ml |   |
-| 34648 | Paclitaxel merck infvlst conc 6mg/ml fl 16,7ml |   |
-| 34648 | Paclitaxel merck infvlst conc 6mg/ml fl 50ml |   |
-| 34659 | Paclitaxel actavis infvlst conc 6mg/ml fl 5ml |   |
-| 34659 | Paclitaxel actavis infvlst conc 6mg/ml fl 50ml |   |
+| 33505 | Paclitaxel rp infvlst conc 6mg/ml flacon 5ml |   |
+| 34648 | Paclitaxel mylan infvlst conc 6mg/ml fl 50ml |   |
+| 34648 | Paclitaxel mylan infvlst conc 6mg/ml fl 5ml |   |
+| 34648 | Paclitaxel mylan infvlst conc 6mg/ml fl 16,7ml |   |
 | 34659 | Paclitaxel actavis infvlst conc 6mg/ml fl 16,7ml |   |
 | 34659 | Paclitaxel actavis infvlst conc 6mg/ml fl 25ml |   |
+| 34659 | Paclitaxel actavis infvlst conc 6mg/ml fl 50ml |   |
+| 34659 | Paclitaxel actavis infvlst conc 6mg/ml fl 5ml |   |
 | Productgroep |   | Maximumprijs |
-| PALIFERMIN-6.25-MG-POED. V. INJECTIE, FLACON | PALIFERMIN-6.25-MG-POED. V. INJECTIE, FLACON | 738.55445100 per stuk |
+| PALIFERMIN-6.25-MG-POED. V. INJECTIE, FLACON | PALIFERMIN-6.25-MG-POED. V. INJECTIE, FLACON | 755.57555700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/05/314/001 | Kepivance injpdr flacon 6,25mg |   |
 | Productgroep |   | Maximumprijs |
-| PALIPERIDON-9-MG-TABLET, MET GEREGULEERDE AFGIFTE | PALIPERIDON-9-MG-TABLET, MET GEREGULEERDE AFGIFTE | 5.10933700 per stuk |
+| PALIPERIDON-9-MG-TABLET, MET GEREGULEERDE AFGIFTE | PALIPERIDON-9-MG-TABLET, MET GEREGULEERDE AFGIFTE | 5.20296500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/07/395/011 | Invega tablet mva 9mg |   |
 | EU/1/07/395/062 | Invega tablet mva 9mg |   |
 | Productgroep |   | Maximumprijs |
-| PANITUMUMAB-20-MG/ML-INFUUSVLOEISTOF, FLACON | PANITUMUMAB-20-MG/ML-INFUUSVLOEISTOF, FLACON | 80.28946200 per ml |
+| PANITUMUMAB-20-MG/ML-INFUUSVLOEISTOF, FLACON | PANITUMUMAB-20-MG/ML-INFUUSVLOEISTOF, FLACON | 86.95377400 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/07/423/001 | Vectibix infvlst conc 20mg/ml flacon 5ml |   |
 | EU/1/07/423/003 | Vectibix infvlst conc 20mg/ml flacon 20ml |   |
 | Productgroep |   | Maximumprijs |
-| PANTOPRAZOLE-20-MG-TABLET, MAAGSAPRESISTENT | PANTOPRAZOLE-20-MG-TABLET, MAAGSAPRESISTENT | 0.51375600 per stuk |
+| PANTOPRAZOLE-20-MG-TABLET, MAAGSAPRESISTENT | PANTOPRAZOLE-20-MG-TABLET, MAAGSAPRESISTENT | 0.30304400 per stuk |
 | Registratienummer | Artikelnaam |   |
-| 100110/23513 | Pantorc tablet msr 20mg |   |
 | 101476/23513 | Pantoprazol eu-pharma tablet msr 20mg |   |
 | 101636/23513 | Pantoprazol eu-pharma tablet msr 20mg |   |
 | 101638/23513 | Pantoprazol erc tablet msr 20mg |   |
 | 101942/23513 | Pantoprazol erc tablet msr 20mg |   |
 | 102051/23513 | Pantoprazol fisher tablet msr 20mg |   |
-| 102084/23513 | Peptazol tablet msr 20mg |   |
 | 23513 | Pantozol tablet msr 20mg |   |
 | 25297/23513 | Pantozol tablet msr 20mg |   |
 | 25712/23513 | Pantorc tablet msr 20mg |   |
@@ -6547,10 +6748,12 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 32643/23513 | Pantoprazol tablet msr 20mg |   |
 | 32932/23513 | Pantoprazol tablet msr 20mg |   |
 | 34169/23513 | Pantozol tablet msr 20mg |   |
+| 34317 | Pantoprazol pch tablet msr 20mg |   |
 | 34835/23513 | Pantozol tablet msr 20mg |   |
 | 34878/23513 | Pantoprazol tablet msr 20mg |   |
+| 34882 | Pantoprazol rp tablet msr 20mg |   |
 | Productgroep |   | Maximumprijs |
-| PANTOPRAZOLE-40-MG-TABLET, MAAGSAPRESISTENT | PANTOPRAZOLE-40-MG-TABLET, MAAGSAPRESISTENT | 0.96326100 per stuk |
+| PANTOPRAZOLE-40-MG-TABLET, MAAGSAPRESISTENT | PANTOPRAZOLE-40-MG-TABLET, MAAGSAPRESISTENT | 0.55088900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100879/18300 | Pantozol tablet msr 40mg |   |
 | 101455/18300 | Pantozol tablet msr 40mg |   |
@@ -6559,27 +6762,29 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 101639/18300 | Pantoprazol erc tablet msr 40mg |   |
 | 101944/18300 | Pantoprazol erc tablet msr 40mg |   |
 | 102049/18300 | Pantoprazol fisher tablet msr 40mg |   |
-| 102083/18300 | Peptazol tablet msr 40mg |   |
 | 18300 | Pantozol tablet msr 40mg |   |
+| 22106 | Pantoprazol nycomed tablet msr 40mg |   |
 | 22488/18300 | Pantozol tablet msr 40mg |   |
 | 24527/18300 | Pantoprazol tablet msr 40mg |   |
 | 28325/18300 | Pantoprazol tablet msr 40mg |   |
 | 31018/18300 | Pantoprazol tablet msr 40mg |   |
 | 31864/18300 | Pantorc tablet msr 40mg |   |
-| 32502/18300 | Pantozol tablet msr 40mg |   |
 | 32644/18300 | Pantoprazol tablet msr 40mg |   |
 | 32933/18300 | Pantoprazol tablet msr 40mg |   |
 | 34170/18300 | Pantozol tablet msr 40mg |   |
+| 34318 | Pantoprazol pch tablet msr 40mg |   |
 | 34603/18300 | Pantozol tablet msr 40mg |   |
 | 34836/18300 | Pantozol tablet msr 40mg |   |
 | 34879/18300 | Pantoprazol tablet msr 40mg |   |
+| 34883 | Pantoprazol rp tablet msr 40mg |   |
 | Productgroep |   | Maximumprijs |
-| PAROXETINE-2-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | PAROXETINE-2-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.09079500 per ml |
+| PAROXETINE-2-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | PAROXETINE-2-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.09073000 per ml |
 | Registratienummer | Artikelnaam |   |
 | 20557 | Seroxat suspensie 2mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| PAROXETINE-20-MG-TABLET | PAROXETINE-20-MG-TABLET | 0.26820800 per stuk |
+| PAROXETINE-20-MG-TABLET | PAROXETINE-20-MG-TABLET | 0.26660400 per stuk |
 | Registratienummer | Artikelnaam |   |
+| 101016 | Paroxetine pch tablet filmomh 20mg(als hcl hemi) |   |
 | 14668 | Seroxat tablet filmomhuld 20mg |   |
 | 26382 | Paroxetinum tablet filmomh 20mg (als mesilaat) |   |
 | 26558=14668 | Paroxetine of tablet filmomhuld 20mg |   |
@@ -6588,38 +6793,35 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 26925=14668 | Paroxetine rp tablet filmomhuld 20mg(als hcl hemi) |   |
 | 26946=14668 | Paroxetine pch tablet filmomh 20mg(als hcl hemi) |   |
 | 26951=14668 | Paroxetine a tablet filmomhuld 20mg(als hcl hemi) |   |
-| 27733=14668 | Paroxetine merck tablet filmomh 20mg(als hcl hemi) |   |
+| 27733=14668 | Paroxetine mylan tablet filmomh 20mg(als hcl hemi) |   |
 | 27840 | Paroxetine cf tablet filmomhuld 20mg(als hcl anhy) |   |
 | 27849=26577 | Paroxetine a tablet 20mg(als hcl anhy) |   |
 | 28417 | Paroxetine actav tablet filmomh 20mg(als hcl anhy) |   |
-| 30052 | Paroxetine sandoz tablet 20mg |   |
 | 30210 | Paroxetine rp tablet filmomhuld 20mg(als hcl anhy) |   |
 | 32315 | Paroxetine pch tablet filmomh 20mg(als hcl anhy) |   |
 | 32515 | Paroxetine katwijk tablet filmomhuld 20mg |   |
 | 33315 | Paroxetine ranbaxy tablet filmomhuld 20mg |   |
-| 33417 | Paroxetine cf tablet filmomhuld 20mg(als mesilas) |   |
-| 34377 | Paroxetine merck tablet filmomh 20mg(als hcl anhy) |   |
 | 34377 | Paroxetine mylan tablet filmomh 20mg(als hcl anhy) |   |
 | Productgroep |   | Maximumprijs |
-| PAROXETINE-30-MG-TABLET | PAROXETINE-30-MG-TABLET | 0.44193100 per stuk |
+| PAROXETINE-30-MG-TABLET | PAROXETINE-30-MG-TABLET | 0.43358000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 27135 | Seroxat tablet filmomhuld 30mg |   |
 | 28418 | Paroxetine actav tablet filmomh 30mg(als hcl anhy) |   |
-| 28924 | Paroxetine merck tablet filmomhuld 30mg |   |
+| 28924 | Paroxetine mylan tablet filmomhuld 30mg |   |
 | 30173 | Paroxetine rp tablet filmomh 30mg(als hcl hemi) |   |
 | 32174 | Paroxetinum tablet filmomh 30mg (als hcl hemihydr) |   |
 | 33723 | Paroxetine sandoz tablet filmomhuld 30mg |   |
 | 34112 | Paroxetine pch tablet filmomh 30mg(als hcl anhy) |   |
 | Productgroep |   | Maximumprijs |
-| PEGAPTANIB-3.33-MG/ML-INJ.VLOEISTOF, WWSP | PEGAPTANIB-3.33-MG/ML-INJ.VLOEISTOF, WWSP | 7340.93694400 per ml |
+| PEGAPTANIB-3.33-MG/ML-INJ.VLOEISTOF, WWSP | PEGAPTANIB-3.33-MG/ML-INJ.VLOEISTOF, WWSP | 7460.01361100 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/05/325/001 | Macugen 0,3 injvlst 3,3mg/ml wwsp 0,09ml |   |
 | Productgroep |   | Maximumprijs |
-| PEMETREXED-100-MG-POED. V. INFUSIE,FLACON | PEMETREXED-100-MG-POED. V. INFUSIE,FLACON | 279.91700000 per stuk |
+| PEMETREXED-100-MG-POED. V. INFUSIE,FLACON | PEMETREXED-100-MG-POED. V. INFUSIE,FLACON | 294.95100000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/04/290/002 | Alimta infusiepoeder flacon 100mg |   |
 | Productgroep |   | Maximumprijs |
-| PENFLURIDOL-20-MG-TABLET | PENFLURIDOL-20-MG-TABLET | 0.57896200 per stuk |
+| PENFLURIDOL-20-MG-TABLET | PENFLURIDOL-20-MG-TABLET | 0.39073100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 6603 | Semap tablet 20mg |   |
 | Productgroep |   | Maximumprijs |
@@ -6627,40 +6829,38 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | Registratienummer | Artikelnaam |   |
 | 15008 | Pentacarinat poeder voor inhvlst flacon 300mg |   |
 | Productgroep |   | Maximumprijs |
-| PERGOLIDE-.05-MG-TABLET | PERGOLIDE-.05-MG-TABLET | 0.15187900 per stuk |
+| PERGOLIDE-.05-MG-TABLET | PERGOLIDE-.05-MG-TABLET | 0.15750300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 14587 | Permax tablet 0,05mg |   |
 | 30487 | Pergolide sandoz tablet 0,05mg |   |
-| 30821 | Pergolide pch tablet 0,05mg |   |
 | 31937 | Pergolide rp tablet 0,05mg |   |
 | Productgroep |   | Maximumprijs |
-| PERGOLIDE-.25-MG-TABLET | PERGOLIDE-.25-MG-TABLET | 0.30428800 per stuk |
+| PERGOLIDE-.25-MG-TABLET | PERGOLIDE-.25-MG-TABLET | 0.31109100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 14588 | Permax tablet 0,25mg |   |
 | Productgroep |   | Maximumprijs |
-| PERGOLIDE-1-MG-TABLET | PERGOLIDE-1-MG-TABLET | 1.13748000 per stuk |
+| PERGOLIDE-1-MG-TABLET | PERGOLIDE-1-MG-TABLET | 1.15179800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 14589 | Permax tablet 1mg |   |
 | Productgroep |   | Maximumprijs |
-| PERINDOPRIL-2-MG-TABLET | PERINDOPRIL-2-MG-TABLET | 0.28926600 per stuk |
+| PERINDOPRIL-2-MG-TABLET | PERINDOPRIL-2-MG-TABLET | 0.23254300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 35199 | Perindopril tert-butylamine katwijk tablet 2mg |   |
 | Productgroep |   | Maximumprijs |
-| PERINDOPRIL-4-MG-TABLET | PERINDOPRIL-4-MG-TABLET | 0.37862300 per stuk |
+| PERINDOPRIL-4-MG-TABLET | PERINDOPRIL-4-MG-TABLET | 0.32363400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100789/13636 | Coversyl tablet 4mg |   |
 | 25898/13636 | Coversyl tablet 4mg |   |
 | 27967/13636 | Coversyl tablet 4mg |   |
 | 35200 | Perindopril tert-butylamine katwijk tablet 4mg |   |
 | Productgroep |   | Maximumprijs |
-| PERINDOPRIL-8-MG-TABLET | PERINDOPRIL-8-MG-TABLET | 0.59388600 per stuk |
+| PERINDOPRIL-8-MG-TABLET | PERINDOPRIL-8-MG-TABLET | 0.39857500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 30213/27786 | Coversyl tablet 8mg |   |
-| 30373/27786 | Coversyl tablet 8mg |   |
 | 33064/27786 | Coversyl tablet 8mg |   |
 | 33406/27786 | Coversyl tablet 8mg |   |
 | Productgroep |   | Maximumprijs |
-| PERPHENAZINE-4-MG-TABLET | PERPHENAZINE-4-MG-TABLET | 0.22449200 per stuk |
+| PERPHENAZINE-4-MG-TABLET | PERPHENAZINE-4-MG-TABLET | 0.23273000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 50758 | Perfenazine cf dragee 4mg |   |
 | Productgroep |   | Maximumprijs |
@@ -6669,7 +6869,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 52104 | Fenobarbital pch tablet 100mg |   |
 | 52537 | Fenobarbital rp tablet 100mg |   |
 | Productgroep |   | Maximumprijs |
-| PHENPROCOUMON-3-MG-TABLET | PHENPROCOUMON-3-MG-TABLET | 0.06649800 per stuk |
+| PHENPROCOUMON-3-MG-TABLET | PHENPROCOUMON-3-MG-TABLET | 0.06643100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 21068 | Fenprocoumon tablet 3mg |   |
 | 21068 | Fenprocoumon sandoz tablet 3mg |   |
@@ -6677,28 +6877,24 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 23964=21068 | Fenprocoumon rp tablet 3mg |   |
 | 3819 | Marcoumar tablet 3mg |   |
 | Productgroep |   | Maximumprijs |
-| PHENYLBUTAZONE-200-MG-TABLET | PHENYLBUTAZONE-200-MG-TABLET | 1.31448700 per stuk |
-| Registratienummer | Artikelnaam |   |
-| 3871 | Butazolidin dragee 200mg |   |
-| Productgroep |   | Maximumprijs |
 | PHENYLEPHRINE-1.25-MG/ML-OOGDRUPPELS | PHENYLEPHRINE-1.25-MG/ML-OOGDRUPPELS | 0.34578600 per ml |
 | Registratienummer | Artikelnaam |   |
 | 4518 | Visadron oogdruppels 1,25mg/ml flacon 10ml |   |
 | Productgroep |   | Maximumprijs |
-| PHENYTOIN-100-MG-TABLET | PHENYTOIN-100-MG-TABLET | 0.53407300 per stuk |
+| PHENYTOIN-100-MG-TABLET | PHENYTOIN-100-MG-TABLET | 0.58041900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 2976 | Diphantoine-z 100 tablet 92mg |   |
 | Productgroep |   | Maximumprijs |
-| PILOCARPINE-20-MG/ML-OOGDRUPPELS | PILOCARPINE-20-MG/ML-OOGDRUPPELS | 0.21850800 per ml |
+| PILOCARPINE-20-MG/ML-OOGDRUPPELS | PILOCARPINE-20-MG/ML-OOGDRUPPELS | 0.20863900 per ml |
 | Registratienummer | Artikelnaam |   |
 | 51372 | Pilocarpine hcl pch oogdruppels 2% flacon 10ml |   |
 | 57399 | Pilocarpine hcl rp oogdruppels 2% flacon 10ml |   |
 | Productgroep |   | Maximumprijs |
-| PILOCARPINE-20-MG/ML-OOGDRUPPELS-METIPRANOLOL-1-MG/ML-OOGDRUPPELS | PILOCARPINE-20-MG/ML-OOGDRUPPELS-METIPRANOLOL-1-MG/ML-OOGDRUPPELS | 0.59599700 per ml |
+| PILOCARPINE-20-MG/ML-OOGDRUPPELS-METIPRANOLOL-1-MG/ML-OOGDRUPPELS | PILOCARPINE-20-MG/ML-OOGDRUPPELS-METIPRANOLOL-1-MG/ML-OOGDRUPPELS | 0.52313900 per ml |
 | Registratienummer | Artikelnaam |   |
 | 11269 | Normoglaucon oogdruppels flacon 10ml |   |
 | Productgroep |   | Maximumprijs |
-| PIMECROLIMUS-10-MG/G-CREME, CUTAAN | PIMECROLIMUS-10-MG/G-CREME, CUTAAN | 0.88084500 per g |
+| PIMECROLIMUS-10-MG/G-CREME, CUTAAN | PIMECROLIMUS-10-MG/G-CREME, CUTAAN | 0.83037300 per g |
 | Registratienummer | Artikelnaam |   |
 | 28742 | Elidel creme 10mg/g |   |
 | 31011/28742 | Elidel creme 10mg/g |   |
@@ -6710,42 +6906,42 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 26480/6149 | Orap tablet 1mg |   |
 | 6149 | Orap tablet 1mg |   |
 | Productgroep |   | Maximumprijs |
-| PIMOZIDE-4-MG-TABLET | PIMOZIDE-4-MG-TABLET | 0.28470300 per stuk |
+| PIMOZIDE-4-MG-TABLET | PIMOZIDE-4-MG-TABLET | 0.28898900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 26185/6150 | Orap tablet 4mg |   |
 | 26481/6150 | Orap tablet 4mg |   |
 | 6150 | Orap tablet 4mg |   |
 | 9479/6150 | Orap tablet 4mg |   |
 | Productgroep |   | Maximumprijs |
-| PINDOLOL-10-MG-TABLET-CLOPAMIDE-5-MG-TABLET | PINDOLOL-10-MG-TABLET-CLOPAMIDE-5-MG-TABLET | 0.32859700 per stuk |
+| PINDOLOL-10-MG-TABLET-CLOPAMIDE-5-MG-TABLET | PINDOLOL-10-MG-TABLET-CLOPAMIDE-5-MG-TABLET | 0.32323500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 26189/7881 | Viskaldix tablet |   |
 | 26680/7881 | Viskaldix tablet |   |
 | 9887/7881 | Viskaldix tablet |   |
 | Productgroep |   | Maximumprijs |
-| PINDOLOL-15-MG-TABLET | PINDOLOL-15-MG-TABLET | 0.32383500 per stuk |
+| PINDOLOL-15-MG-TABLET | PINDOLOL-15-MG-TABLET | 0.31143100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 55977 | Pindolol cf tablet 15mg |   |
 | 56522 | Pindolol pch tablet 15mg |   |
 | Productgroep |   | Maximumprijs |
-| PINDOLOL-5-MG-TABLET | PINDOLOL-5-MG-TABLET | 0.10231200 per stuk |
+| PINDOLOL-5-MG-TABLET | PINDOLOL-5-MG-TABLET | 0.09647200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11543 | Pindolol rp tablet 5mg |   |
 | 24549=55975 | Pindolol sandoz tablet 5mg |   |
 | 55975 | Pindolol cf tablet 5mg |   |
 | 56520 | Pindolol pch tablet 5mg |   |
 | Productgroep |   | Maximumprijs |
-| PIOGLITAZON-30-MG-TABLET | PIOGLITAZON-30-MG-TABLET | 1.29372400 per stuk |
+| PIOGLITAZON-30-MG-TABLET | PIOGLITAZON-30-MG-TABLET | 1.28865200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/00/150/004 | Actos tablet 30mg |   |
 | EU/1/00/150/006 | Actos tablet 30mg |   |
 | EU/1/00/150/010 | Actos tablet 30mg |   |
 | Productgroep |   | Maximumprijs |
-| PIOGLITAZON-45-MG-TABLET | PIOGLITAZON-45-MG-TABLET | 1.72701100 per stuk |
+| PIOGLITAZON-45-MG-TABLET | PIOGLITAZON-45-MG-TABLET | 1.77910600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/00/150/012 | Actos tablet 45mg |   |
 | Productgroep |   | Maximumprijs |
-| PIPAMPERONE-40-MG-TABLET | PIPAMPERONE-40-MG-TABLET | 0.10366700 per stuk |
+| PIPAMPERONE-40-MG-TABLET | PIPAMPERONE-40-MG-TABLET | 0.10427500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 183 | Dipiperon tablet 40mg |   |
 | 9847/183 | Dipiperon tablet 40mg |   |
@@ -6754,32 +6950,32 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | Registratienummer | Artikelnaam |   |
 | 9964 | Dipiperon druppels 40mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| PIRACETAM-1200-MG-TABLET | PIRACETAM-1200-MG-TABLET | 0.16012900 per stuk |
+| PIRACETAM-1200-MG-TABLET | PIRACETAM-1200-MG-TABLET | 0.16219600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11783 | Nootropil tablet 1200mg |   |
 | Productgroep |   | Maximumprijs |
-| PIRACETAM-200-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | PIRACETAM-200-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.04240600 per ml |
+| PIRACETAM-200-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | PIRACETAM-200-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.04234100 per ml |
 | Registratienummer | Artikelnaam |   |
 | 7674 | Nootropil drank 200mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| PIRACETAM-800-MG-TABLET | PIRACETAM-800-MG-TABLET | 0.12728000 per stuk |
+| PIRACETAM-800-MG-TABLET | PIRACETAM-800-MG-TABLET | 0.12844000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 14162/7353 | Nootropil tablet 800mg |   |
 | 18655 | Piracetam rp tablet 800mg |   |
 | 7353 | Nootropil tablet 800mg |   |
 | Productgroep |   | Maximumprijs |
-| PIROXICAM-10-MG-BRUISTABLET | PIROXICAM-10-MG-BRUISTABLET | 0.31156200 per stuk |
+| PIROXICAM-10-MG-BRUISTABLET | PIROXICAM-10-MG-BRUISTABLET | 0.32587600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 17038 | Piroxicam sandoz disper tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| PIROXICAM-10-MG-CAPSULE | PIROXICAM-10-MG-CAPSULE | 0.10984600 per stuk |
+| PIROXICAM-10-MG-CAPSULE | PIROXICAM-10-MG-CAPSULE | 0.10992300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12198 | Piroxicam rp capsule 10mg |   |
 | 14513=12198 | Piroxicam sandoz capsule 10mg |   |
 | 14673 | Piroxicam pch capsule 10mg |   |
 | 57448 | Piroxicam cf capsule 10mg |   |
 | Productgroep |   | Maximumprijs |
-| PIROXICAM-20-MG-BRUISTABLET | PIROXICAM-20-MG-BRUISTABLET | 0.55585200 per stuk |
+| PIROXICAM-20-MG-BRUISTABLET | PIROXICAM-20-MG-BRUISTABLET | 0.54698100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 14672 | Piroxicam pch disper tablet 20mg |   |
 | 15728 | Piroxicam actavis disper tablet 20mg |   |
@@ -6790,36 +6986,32 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 28770=57428 | Piroxicam a disper tablet 20mg |   |
 | 57428 | Piroxicam cf disper tablet 20mg |   |
 | Productgroep |   | Maximumprijs |
-| PIROXICAM-20-MG-CAPSULE | PIROXICAM-20-MG-CAPSULE | 0.19227800 per stuk |
+| PIROXICAM-20-MG-CAPSULE | PIROXICAM-20-MG-CAPSULE | 0.19154900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12199 | Piroxicam rp capsule 20mg |   |
 | 14514=12199 | Piroxicam sandoz capsule 20mg |   |
 | 14674 | Piroxicam pch capsule 20mg |   |
 | 57449 | Piroxicam cf capsule 20mg |   |
 | Productgroep |   | Maximumprijs |
-| PIROXICAM-20-MG-TABLET | PIROXICAM-20-MG-TABLET | 0.33417100 per stuk |
+| PIROXICAM-20-MG-TABLET | PIROXICAM-20-MG-TABLET | 0.33739700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15323 | Brexine tablet 20mg |   |
 | 25642/15323 | Brexine tablet 20mg |   |
 | Productgroep |   | Maximumprijs |
-| PIROXICAM-20-MG-ZETPIL | PIROXICAM-20-MG-ZETPIL | 0.34715600 per stuk |
-| Registratienummer | Artikelnaam |   |
-| 17040 | Piroxicam sandoz zetpil 20mg |   |
-| Productgroep |   | Maximumprijs |
-| PIZOTIFEN-.5-MG-TABLET | PIZOTIFEN-.5-MG-TABLET | 0.07708200 per stuk |
+| PIZOTIFEN-.5-MG-TABLET | PIZOTIFEN-.5-MG-TABLET | 0.07074200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 28218/6258 | Sandomigran tablet omhuld 0,5mg |   |
 | 29492/6258 | Sandomigran tablet omhuld 0,5mg |   |
 | 6258 | Sandomigran tablet omhuld 0,5mg |   |
 | Productgroep |   | Maximumprijs |
-| PODOPHYLLOTOXIN-1.5-MG/G-CREME, CUTAAN | PODOPHYLLOTOXIN-1.5-MG/G-CREME, CUTAAN | 4.53236700 per g |
+| PODOPHYLLOTOXIN-1.5-MG/G-CREME, CUTAAN | PODOPHYLLOTOXIN-1.5-MG/G-CREME, CUTAAN | 4.59433300 per g |
 | Registratienummer | Artikelnaam |   |
 | 101507/19676 | Wartec creme 1,5mg/g |   |
 | 101943/19676 | Wartec creme 1,5mg/g |   |
 | 102494/19676 | Wartec creme 1,5mg/g |   |
 | 19676 | Wartec creme 1,5mg/g |   |
 | Productgroep |   | Maximumprijs |
-| PODOPHYLLOTOXIN-5-MG/ML-APPLICATIEVLOEISTOF, VOOR CUTAAN GEBRUIK | PODOPHYLLOTOXIN-5-MG/ML-APPLICATIEVLOEISTOF, VOOR CUTAAN GEBRUIK | 6.05850500 per ml |
+| PODOPHYLLOTOXIN-5-MG/ML-APPLICATIEVLOEISTOF, VOOR CUTAAN GEBRUIK | PODOPHYLLOTOXIN-5-MG/ML-APPLICATIEVLOEISTOF, VOOR CUTAAN GEBRUIK | 6.18777500 per ml |
 | Registratienummer | Artikelnaam |   |
 | 12093 | Condyline applicatievloeistof 5mg/ml |   |
 | Productgroep |   | Maximumprijs |
@@ -6832,27 +7024,27 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 19304 | Oculotect oogdruppels 50mg/ml flacon 10ml |   |
 | 9018 | Vidisic pvp ophtiole oogdruppels 50mg/ml flac 10ml |   |
 | Productgroep |   | Maximumprijs |
-| POLYVIDON-50-MG/ML-OOGDRUPPELS UNITDOSE | POLYVIDON-50-MG/ML-OOGDRUPPELS UNITDOSE | 0.39909600 per ml |
+| POLYVIDON-50-MG/ML-OOGDRUPPELS UNITDOSE | POLYVIDON-50-MG/ML-OOGDRUPPELS UNITDOSE | 0.40574200 per ml |
 | Registratienummer | Artikelnaam |   |
 | 19305 | Oculotect unidose oogdruppels 50mg/ml amp 0,4ml |   |
 | Productgroep |   | Maximumprijs |
-| PRAMIPEXOL-.125-MG-TABLET | PRAMIPEXOL-.125-MG-TABLET | 0.43334900 per stuk |
+| PRAMIPEXOL-.125-MG-TABLET | PRAMIPEXOL-.125-MG-TABLET | 0.44730500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/97/050/001 | Sifrol tablet 0,125mg (0,088mg base) |   |
 | EU/1/97/050/002 | Sifrol tablet 0,125mg (0,088mg base) |   |
 | Productgroep |   | Maximumprijs |
-| PRAMIPEXOL-1-MG-TABLET | PRAMIPEXOL-1-MG-TABLET | 2.29699100 per stuk |
+| PRAMIPEXOL-1-MG-TABLET | PRAMIPEXOL-1-MG-TABLET | 2.35767400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/97/050/006 | Sifrol tablet 1mg (0,7mg base) |   |
 | Productgroep |   | Maximumprijs |
-| PRAVASTATIN-10-MG-TABLET | PRAVASTATIN-10-MG-TABLET | 0.13571800 per stuk |
+| PRAVASTATIN-10-MG-TABLET | PRAVASTATIN-10-MG-TABLET | 0.14082900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13755 | Selektine tablet 10mg |   |
 | 21694 | Pravastatinenatrium rp tablet 10mg |   |
-| 28011 | Pravastatinenatrium merck tablet 10mg |   |
+| 28011 | Pravastatinenatrium mylan tablet 10mg |   |
 | 28014 | Pravastatinenatrium cf tablet 10mg |   |
 | 28928 | Pravastatinenatrium pch tablet 10mg |   |
-| 30028 | Pravastatinenatrium merck tablet 10mg |   |
+| 30028 | Pravastatinenatrium mylan tablet 10mg |   |
 | 30138 | Pravastatinenatrium sandoz tablet 10mg |   |
 | 30382 | Pravastatinenatrium ranbaxy tablet 10mg |   |
 | 30479 | Pravastatinenatrium sandoz tablet 10mg |   |
@@ -6860,13 +7052,12 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 31872 | Pravastatinenatrium katwijk tablet 10mg |   |
 | 32197 | Pravastatinenatrium actavis tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| PRAVASTATIN-20-MG-TABLET | PRAVASTATIN-20-MG-TABLET | 0.25354600 per stuk |
+| PRAVASTATIN-20-MG-TABLET | PRAVASTATIN-20-MG-TABLET | 0.25367900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13756 | Selektine tablet 20mg |   |
 | 21695 | Pravastatinenatrium rp tablet 20mg |   |
 | 28015 | Pravastatinenatrium cf tablet 20mg |   |
 | 28929 | Pravastatinenatrium pch tablet 20mg |   |
-| 30029 | Pravastatinenatrium merck tablet 20mg |   |
 | 30139 | Pravastatinenatrium sandoz tablet 20mg |   |
 | 30383 | Pravastatinenatrium ranbaxy tablet 20mg |   |
 | 30503 | Pravastatinenatrium sandoz tablet 20mg |   |
@@ -6874,13 +7065,12 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 31873 | Pravastatinenatrium katwijk tablet 20mg |   |
 | 32198 | Pravastatinenatrium actavis tablet 20mg |   |
 | Productgroep |   | Maximumprijs |
-| PRAVASTATIN-40-MG-TABLET | PRAVASTATIN-40-MG-TABLET | 0.39335800 per stuk |
+| PRAVASTATIN-40-MG-TABLET | PRAVASTATIN-40-MG-TABLET | 0.39008400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 20665 | Selektine tablet 40mg |   |
 | 21696 | Pravastatinenatrium rp tablet 40mg |   |
 | 28016 | Pravastatinenatrium cf tablet 40mg |   |
 | 28930 | Pravastatinenatrium pch tablet 40mg |   |
-| 30030 | Pravastatinenatrium merck tablet 40mg |   |
 | 30141 | Pravastatinenatrium sandoz tablet 40mg |   |
 | 30384 | Pravastatinenatrium ranbaxy tablet 40mg |   |
 | 30504 | Pravastatinenatrium sandoz tablet 40mg |   |
@@ -6892,75 +7082,63 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | Registratienummer | Artikelnaam |   |
 | 6994 | Reapam tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| PRAZIQUANTEL-600-MG-TABLET | PRAZIQUANTEL-600-MG-TABLET | 9.00375000 per stuk |
+| PRAZIQUANTEL-600-MG-TABLET | PRAZIQUANTEL-600-MG-TABLET | 9.08250000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10880 | Biltricide tablet 600mg |   |
 | Productgroep |   | Maximumprijs |
-| PRAZOSIN-1-MG-TABLET | PRAZOSIN-1-MG-TABLET | 0.08460700 per stuk |
-| Registratienummer | Artikelnaam |   |
-| 57313 | Prazosine rp tablet 1mg |   |
-| Productgroep |   | Maximumprijs |
-| PRAZOSIN-2-MG-TABLET | PRAZOSIN-2-MG-TABLET | 0.12295700 per stuk |
-| Registratienummer | Artikelnaam |   |
-| 57314 | Prazosine rp tablet 2mg |   |
-| Productgroep |   | Maximumprijs |
-| PRAZOSIN-5-MG-TABLET | PRAZOSIN-5-MG-TABLET | 0.32230900 per stuk |
-| Registratienummer | Artikelnaam |   |
-| 57315 | Prazosine rp tablet 5mg |   |
-| Productgroep |   | Maximumprijs |
-| PREDNISOLONE-10-MG/ML-OOGDRUPPELS | PREDNISOLONE-10-MG/ML-OOGDRUPPELS | 0.64590700 per ml |
+| PREDNISOLONE-10-MG/ML-OOGDRUPPELS | PREDNISOLONE-10-MG/ML-OOGDRUPPELS | 0.64660400 per ml |
 | Registratienummer | Artikelnaam |   |
 | 11271 | Pred forte oogdruppels 10mg/ml flacon 5ml |   |
 | Productgroep |   | Maximumprijs |
-| PREDNISOLONE-5-MG-TABLET | PREDNISOLONE-5-MG-TABLET | 0.03746600 per stuk |
+| PREDNISOLONE-5-MG-TABLET | PREDNISOLONE-5-MG-TABLET | 0.04082000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 14257=50969 | Prednisolon sandoz tablet 5mg |   |
 | 17518=50969 | Prednisolon katwijk tablet 5mg |   |
 | 18233=50969 | Prednisolon actavis tablet 5mg |   |
 | 20281=52542 | Prednisolon a tablet 5mg |   |
-| 29043=52542 | Prednisolon merck tablet 5mg |   |
+| 29043=52542 | Prednisolon mylan tablet 5mg |   |
 | 50766 | Prednisolon cf tablet 5mg |   |
 | 50969 | Prednisolon pch tablet 5mg |   |
 | 52542 | Prednisolon rp tablet 5mg |   |
 | Productgroep |   | Maximumprijs |
-| PREDNISOLONE-5-MG/G-OOGZALF | PREDNISOLONE-5-MG/G-OOGZALF | 0.85750000 per g |
+| PREDNISOLONE-5-MG/G-OOGZALF | PREDNISOLONE-5-MG/G-OOGZALF | 0.78850000 per g |
 | Registratienummer | Artikelnaam |   |
 | 3964 | Ultracortenol oogzalf 5mg/g tube 5g |   |
 | Productgroep |   | Maximumprijs |
-| PREDNISONE-5-MG-TABLET | PREDNISONE-5-MG-TABLET | 0.04992700 per stuk |
+| PREDNISONE-5-MG-TABLET | PREDNISONE-5-MG-TABLET | 0.05001700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 50970 | Prednison pch tablet 5mg |   |
 | 52543 | Prednison rp tablet 5mg |   |
 | 53073 | Prednison cf tablet 5mg |   |
 | Productgroep |   | Maximumprijs |
-| PREGABALINE-150-MG-CAPSULE | PREGABALINE-150-MG-CAPSULE | 1.24789600 per stuk |
+| PREGABALINE-150-MG-CAPSULE | PREGABALINE-150-MG-CAPSULE | 1.21683200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/04/279/017 | Lyrica capsule 150mg |   |
 | EU/1/04/279/018 | Lyrica capsule 150mg |   |
 | EU/1/04/279/019 | Lyrica capsule 150mg |   |
 | EU/1/04/279/028 | Lyrica capsule 150mg |   |
 | Productgroep |   | Maximumprijs |
-| PREGABALINE-300-MG-CAPSULE | PREGABALINE-300-MG-CAPSULE | 1.68121500 per stuk |
+| PREGABALINE-300-MG-CAPSULE | PREGABALINE-300-MG-CAPSULE | 1.61630900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/04/279/024 | Lyrica capsule 300mg |   |
 | EU/1/04/279/029 | Lyrica capsule 300mg |   |
 | Productgroep |   | Maximumprijs |
-| PREGABALINE-75-MG-CAPSULE | PREGABALINE-75-MG-CAPSULE | 0.90586600 per stuk |
+| PREGABALINE-75-MG-CAPSULE | PREGABALINE-75-MG-CAPSULE | 0.92384900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/04/279/011 | Lyrica capsule 75mg |   |
 | EU/1/04/279/012 | Lyrica capsule 75mg |   |
 | EU/1/04/279/013 | Lyrica capsule 75mg |   |
 | EU/1/04/279/027 | Lyrica capsule 75mg |   |
 | Productgroep |   | Maximumprijs |
-| PROCARBAZINE-50-MG-CAPSULE | PROCARBAZINE-50-MG-CAPSULE | 3.45856700 per stuk |
+| PROCARBAZINE-50-MG-CAPSULE | PROCARBAZINE-50-MG-CAPSULE | 3.97411200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 5077 | Natulan capsule 50mg |   |
 | Productgroep |   | Maximumprijs |
-| PROGESTERONE-100-MG-CAPSULE | PROGESTERONE-100-MG-CAPSULE | 0.17986100 per stuk |
+| PROGESTERONE-100-MG-CAPSULE | PROGESTERONE-100-MG-CAPSULE | 0.18282500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11473 | Utrogestan capsule 100mg |   |
 | Productgroep |   | Maximumprijs |
-| PROGUANIL-100-MG-TABLET | PROGUANIL-100-MG-TABLET | 0.13029000 per stuk |
+| PROGUANIL-100-MG-TABLET | PROGUANIL-100-MG-TABLET | 0.13147600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 101783/550 | Paludrine tablet 100mg |   |
 | 26775/550 | Paludrine tablet 100mg |   |
@@ -6968,22 +7146,22 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 28168/550 | Paludrine tablet 100mg |   |
 | 550 | Paludrine tablet 100mg |   |
 | Productgroep |   | Maximumprijs |
-| PROGUANIL-100-MG-TABLET-ATOVAQUONE-250-MG-TABLET | PROGUANIL-100-MG-TABLET-ATOVAQUONE-250-MG-TABLET | 2.86477000 per stuk |
+| PROGUANIL-100-MG-TABLET-ATOVAQUONE-250-MG-TABLET | PROGUANIL-100-MG-TABLET-ATOVAQUONE-250-MG-TABLET | 2.89762200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 102480/25386 | Malarone tablet filmomhuld |   |
 | 25386 | Malarone tablet filmomhuld |   |
 | Productgroep |   | Maximumprijs |
-| PROPAFENONE-150-MG-TABLET | PROPAFENONE-150-MG-TABLET | 0.11122000 per stuk |
+| PROPAFENONE-150-MG-TABLET | PROPAFENONE-150-MG-TABLET | 0.10277600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12448 | Rytmonorm tablet omhuld 150mg |   |
 | 24487=12448 | Propafenon hcl pch tablet omhuld 150mg |   |
 | Productgroep |   | Maximumprijs |
-| PROPAFENONE-300-MG-TABLET | PROPAFENONE-300-MG-TABLET | 0.21936500 per stuk |
+| PROPAFENONE-300-MG-TABLET | PROPAFENONE-300-MG-TABLET | 0.21382000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12449 | Rytmonorm tablet omhuld 300mg |   |
 | 24489=12449 | Propafenon hcl pch tablet omhuld 300mg |   |
 | Productgroep |   | Maximumprijs |
-| PROPRANOLOL-10-MG-TABLET | PROPRANOLOL-10-MG-TABLET | 0.03430200 per stuk |
+| PROPRANOLOL-10-MG-TABLET | PROPRANOLOL-10-MG-TABLET | 0.03478900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10216 | Propranolol hcl pch tablet 10mg |   |
 | 11308 | Propranolol hcl rp tablet 10mg |   |
@@ -6993,27 +7171,27 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 27302=11308 | Propranolol hcl a tablet 10mg |   |
 | 55617 | Propranolol hcl cf tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| PROPRANOLOL-160-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | PROPRANOLOL-160-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.18160800 per stuk |
+| PROPRANOLOL-160-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | PROPRANOLOL-160-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.18259600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12821 | Propranolol hcl pch retard capsule mga 160mg |   |
 | 15489=12821 | Propranolol hcl actavis retard capsule mga 160mg |   |
 | 16071=12821 | Propranolol hcl sandoz retard capsule mga 160mg |   |
-| 17891=12821 | Propranolol hcl katwijk retard capsule mga 160mg |   |
+| 17891=12821 | Propranolol hcl apotex retard capsule mga 160mg |   |
 | 20331=57202 | Propranolol hcl a retard capsule mga 160mg |   |
 | 57202 | Propranolol hcl rp retard capsule mga 160mg |   |
 | 57362=57202 | Propranolol hcl cf retard capsule mga 160mg |   |
 | Productgroep |   | Maximumprijs |
-| PROPRANOLOL-40-MG-TABLET | PROPRANOLOL-40-MG-TABLET | 0.04338300 per stuk |
+| PROPRANOLOL-40-MG-TABLET | PROPRANOLOL-40-MG-TABLET | 0.04481800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10217 | Propranolol hcl pch tablet 40mg |   |
 | 11309 | Propranolol hcl rp tablet 40mg |   |
 | 12637 | Propranolol hcl sandoz tablet 40mg |   |
 | 13599 | Propranolol hcl actavis tablet 40mg |   |
-| 19476=11331 | Propranolol hcl katwijk tablet 40mg |   |
+| 19476=11331 | Propranolol hcl apotex tablet 40mg |   |
 | 27303=11309 | Propranolol hcl a tablet 40mg |   |
 | 55618 | Propranolol hcl cf tablet 40mg |   |
 | Productgroep |   | Maximumprijs |
-| PROPRANOLOL-80-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | PROPRANOLOL-80-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.16036300 per stuk |
+| PROPRANOLOL-80-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | PROPRANOLOL-80-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.16400100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 14353 | Propranolol hcl pch retard capsule mga 80mg |   |
 | 15488=14353 | Propranolol hcl actavis retard capsule mga 80mg |   |
@@ -7021,13 +7199,13 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 17890=14353 | Propranolol hcl katwijk retard capsule mga 80mg |   |
 | 57679=14353 | Propranolol hcl rp retard capsule mga 80mg |   |
 | Productgroep |   | Maximumprijs |
-| PROPRANOLOL-80-MG-TABLET | PROPRANOLOL-80-MG-TABLET | 0.06406000 per stuk |
+| PROPRANOLOL-80-MG-TABLET | PROPRANOLOL-80-MG-TABLET | 0.06396800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10218 | Propranololi hydrochloridum pch tablet 80mg |   |
 | 11310 | Propranolol hcl rp tablet 80mg |   |
 | 12638 | Propranolol hcl sandoz tablet 80mg |   |
 | 13600 | Propranolol hcl actavis tablet 80mg |   |
-| 19477=11332 | Propranolol hcl katwijk tablet 80mg |   |
+| 19477=11332 | Propranolol hcl apotex tablet 80mg |   |
 | 27304=11310 | Propranolol hcl a tablet 80mg |   |
 | 55619 | Propranolol hcl cf tablet 80mg |   |
 | Productgroep |   | Maximumprijs |
@@ -7036,11 +7214,12 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 15131=50772 | Pyrazinamide pch tablet 500mg |   |
 | 50772 | Pyrazinamide cf tablet 500mg |   |
 | Productgroep |   | Maximumprijs |
-| PYRIDOSTIGMINE-10-MG-TABLET | PYRIDOSTIGMINE-10-MG-TABLET | 0.09522600 per stuk |
+| PYRIDOSTIGMINE-10-MG-TABLET | PYRIDOSTIGMINE-10-MG-TABLET | 0.07686900 per stuk |
 | Registratienummer | Artikelnaam |   |
+| 100166/3820 | Mestinon tablet 10mg |   |
 | 3820 | Mestinon tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| PYRIDOSTIGMINE-60-MG-TABLET | PYRIDOSTIGMINE-60-MG-TABLET | 0.27518300 per stuk |
+| PYRIDOSTIGMINE-60-MG-TABLET | PYRIDOSTIGMINE-60-MG-TABLET | 0.25532200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100222/3821 | Mestinon tablet omhuld 60mg |   |
 | 101929/3821 | Mestinon tablet omhuld 60mg |   |
@@ -7048,11 +7227,11 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 29593/3821 | Mestinon tablet omhuld 60mg |   |
 | 3821 | Mestinon dragee 60mg |   |
 | Productgroep |   | Maximumprijs |
-| PYRIMETHAMINE-25-MG-TABLET | PYRIMETHAMINE-25-MG-TABLET | 0.10511800 per stuk |
+| PYRIMETHAMINE-25-MG-TABLET | PYRIMETHAMINE-25-MG-TABLET | 0.10692500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 254 | Daraprim tablet 25mg |   |
 | Productgroep |   | Maximumprijs |
-| QUETIAPINE-200-MG-TABLET | QUETIAPINE-200-MG-TABLET | 2.18978100 per stuk |
+| QUETIAPINE-200-MG-TABLET | QUETIAPINE-200-MG-TABLET | 2.21258400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 20828 | Seroquel tablet filmomhuld 200mg |   |
 | 27076/20828 | Seroquel tablet filmomhuld 200mg |   |
@@ -7065,13 +7244,14 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 34560/20828 | Seroquel tablet filmomhuld 200mg |   |
 | 35119/20828 | Seroquel tablet filmomhuld 200mg |   |
 | Productgroep |   | Maximumprijs |
-| QUETIAPINE-200-MG-TABLET, MET GEREGULEERDE AFGIFTE | QUETIAPINE-200-MG-TABLET, MET GEREGULEERDE AFGIFTE | 2.44850100 per stuk |
+| QUETIAPINE-200-MG-TABLET, MET GEREGULEERDE AFGIFTE | QUETIAPINE-200-MG-TABLET, MET GEREGULEERDE AFGIFTE | 2.12634600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 103856/34626 | Seroquel xr tablet mva 200mg |   |
 | 104465/34626 | Seroquel xr tablet mva 200mg |   |
+| 104636/34626 | Seroquel xr tablet mva 200mg |   |
 | 34626 | Seroquel xr tablet mva 200mg |   |
 | Productgroep |   | Maximumprijs |
-| QUETIAPINE-300-MG-TABLET | QUETIAPINE-300-MG-TABLET | 3.29144100 per stuk |
+| QUETIAPINE-300-MG-TABLET | QUETIAPINE-300-MG-TABLET | 3.32845100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 101945/25603 | Seroquel tablet filmomhuld 300mg |   |
 | 102464/25603 | Seroquel tablet filmomhuld 300mg |   |
@@ -7081,25 +7261,28 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 32939/25603 | Seroquel tablet filmomhuld 300mg |   |
 | 32956/25603 | Seroquel tablet filmomhuld 300mg |   |
 | Productgroep |   | Maximumprijs |
-| QUETIAPINE-300-MG-TABLET, MET GEREGULEERDE AFGIFTE | QUETIAPINE-300-MG-TABLET, MET GEREGULEERDE AFGIFTE | 3.68635300 per stuk |
+| QUETIAPINE-300-MG-TABLET, MET GEREGULEERDE AFGIFTE | QUETIAPINE-300-MG-TABLET, MET GEREGULEERDE AFGIFTE | 3.15199700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 103854/34627 | Seroquel xr tablet mva 300mg |   |
 | 104468/34627 | Seroquel xr tablet mva 300mg |   |
 | 104638/34627 | Seroquel xr tablet mva 300mg |   |
+| 105309/34627 | Seroquel xr tablet mva 300mg |   |
+| 105348/34627 | Seroquel xr tablet mva 300mg |   |
 | 34627 | Seroquel xr tablet mva 300mg |   |
 | Productgroep |   | Maximumprijs |
-| QUETIAPINE-400-MG-TABLET, MET GEREGULEERDE AFGIFTE | QUETIAPINE-400-MG-TABLET, MET GEREGULEERDE AFGIFTE | 4.93264700 per stuk |
+| QUETIAPINE-400-MG-TABLET, MET GEREGULEERDE AFGIFTE | QUETIAPINE-400-MG-TABLET, MET GEREGULEERDE AFGIFTE | 4.30987600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 103853/34628 | Seroquel xr tablet mva 400mg |   |
 | 104467/34628 | Seroquel xr tablet mva 400mg |   |
 | 104639/34628 | Seroquel xr tablet mva 400mg |   |
+| 105349/34628 | Seroquel xr tablet mva 400mg |   |
 | 34628 | Seroquel xr tablet mva 400mg |   |
 | Productgroep |   | Maximumprijs |
-| QUINAGOLIDE-.025-MG-TABLET-QUINAGOLIDE-FASE2-.05-MG-TABLET | QUINAGOLIDE-.025-MG-TABLET-QUINAGOLIDE-FASE2-.05-MG-TABLET | 0.86222800 per stuk |
+| QUINAGOLIDE-.025-MG-TABLET-QUINAGOLIDE-FASE2-.05-MG-TABLET | QUINAGOLIDE-.025-MG-TABLET-QUINAGOLIDE-FASE2-.05-MG-TABLET | 0.87395700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 16289 | Norprolac tablet 25 + 50mcg (3+3tabl) |   |
 | Productgroep |   | Maximumprijs |
-| QUINAPRIL-10-MG-TABLET | QUINAPRIL-10-MG-TABLET | 0.12424000 per stuk |
+| QUINAPRIL-10-MG-TABLET | QUINAPRIL-10-MG-TABLET | 0.12647400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13602 | Acupril tablet 10mg |   |
 | 28530 | Quinapril a tablet 10mg |   |
@@ -7108,10 +7291,10 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 29966 | Quinapril ranbaxy tablet 10mg |   |
 | 30307 | Quinapril rp tablet 10mg |   |
 | 30311 | Quinapril cf tablet 10mg |   |
-| 31095 | Quinapril merck tablet 10mg |   |
+| 31095 | Quinapril mylan tablet 10mg |   |
 | 32023 | Quinapril actavis tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| QUINAPRIL-20-MG-TABLET | QUINAPRIL-20-MG-TABLET | 0.21389100 per stuk |
+| QUINAPRIL-20-MG-TABLET | QUINAPRIL-20-MG-TABLET | 0.20942800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13603 | Acupril tablet 20mg |   |
 | 28531 | Quinapril a tablet 20mg |   |
@@ -7121,35 +7304,35 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 29967 | Quinapril ranbaxy tablet 20mg |   |
 | 30308 | Quinapril rp tablet 20mg |   |
 | 30312 | Quinapril cf tablet 20mg |   |
-| 31096 | Quinapril merck tablet 20mg |   |
+| 31096 | Quinapril mylan tablet 20mg |   |
 | 32024 | Quinapril actavis tablet 20mg |   |
 | Productgroep |   | Maximumprijs |
-| QUINAPRIL-40-MG-TABLET | QUINAPRIL-40-MG-TABLET | 0.35031100 per stuk |
+| QUINAPRIL-40-MG-TABLET | QUINAPRIL-40-MG-TABLET | 0.32984500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 19839 | Acupril tablet 40mg |   |
 | 29480 | Quinapril pch tablet 40mg |   |
 | 29592 | Quinapril sandoz tablet 40mg |   |
 | 29862 | Quinapril katwijk tablet 40mg |   |
 | 29968 | Quinapril ranbaxy tablet 40mg |   |
-| 31097 | Quinapril merck tablet 40mg |   |
+| 31097 | Quinapril mylan tablet 40mg |   |
 | 32025 | Quinapril actavis tablet 40mg |   |
 | Productgroep |   | Maximumprijs |
-| QUINAPRIL-5-MG-TABLET | QUINAPRIL-5-MG-TABLET | 0.10161900 per stuk |
+| QUINAPRIL-5-MG-TABLET | QUINAPRIL-5-MG-TABLET | 0.10195800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13601 | Acupril tablet 5mg |   |
-| 29859 | Quinapril katwijk tablet 5mg |   |
+| 29859 | Quinapril apotex tablet 5mg |   |
 | 29965 | Quinapril ranbaxy tablet 5mg |   |
 | 30306 | Quinapril rp tablet 5mg |   |
-| 31094 | Quinapril merck tablet 5mg |   |
+| 31094 | Quinapril mylan tablet 5mg |   |
 | Productgroep |   | Maximumprijs |
-| RABEPRAZOL-10-MG-TABLET, MAAGSAPRESISTENT | RABEPRAZOL-10-MG-TABLET, MAAGSAPRESISTENT | 0.50544200 per stuk |
+| RABEPRAZOL-10-MG-TABLET, MAAGSAPRESISTENT | RABEPRAZOL-10-MG-TABLET, MAAGSAPRESISTENT | 0.52732300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 103116/23210 | Pariet tablet msr 10mg |   |
 | 23210 | Pariet tablet msr 10mg |   |
 | 28169/23210 | Pariet tablet msr 10mg |   |
 | 34540/23210 | Pariet tablet msr 10mg |   |
 | Productgroep |   | Maximumprijs |
-| RABEPRAZOL-20-MG-TABLET, MAAGSAPRESISTENT | RABEPRAZOL-20-MG-TABLET, MAAGSAPRESISTENT | 0.85831300 per stuk |
+| RABEPRAZOL-20-MG-TABLET, MAAGSAPRESISTENT | RABEPRAZOL-20-MG-TABLET, MAAGSAPRESISTENT | 0.89199300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100885/23211 | Pariet tablet msr 20mg |   |
 | 102763/23211 | Pariet tablet msr 20mg |   |
@@ -7157,7 +7340,6 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 23211 | Pariet tablet msr 20mg |   |
 | 28170/23211 | Pariet tablet msr 20mg |   |
 | 30448/23211 | Pariet tablet msr 20mg |   |
-| 30799/23211 | Pariet tablet msr 20mg |   |
 | 32328/23211 | Pariet tablet msr 20mg |   |
 | 33775/23211 | Pariet tablet msr 20mg |   |
 | 34385/23211 | Pariet tablet msr 20mg |   |
@@ -7165,179 +7347,178 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 34600/23211 | Pariet tablet msr 20mg |   |
 | 35204/23211 | Pariet tablet msr 20mg |   |
 | Productgroep |   | Maximumprijs |
-| RALOXIFEN-60-MG-TABLET | RALOXIFEN-60-MG-TABLET | 0.92651700 per stuk |
+| RALOXIFEN-60-MG-TABLET | RALOXIFEN-60-MG-TABLET | 0.93058700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/98/073/002 | Evista tablet 60mg |   |
 | Productgroep |   | Maximumprijs |
-| RALTEGRAVIR-400-MG-TABLET | RALTEGRAVIR-400-MG-TABLET | 13.80672700 per stuk |
+| RALTEGRAVIR-400-MG-TABLET | RALTEGRAVIR-400-MG-TABLET | 13.97542700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/07/436/001 | Isentress tablet filmomhuld 400mg |   |
 | Productgroep |   | Maximumprijs |
-| RAMIPRIL-1.25-MG-CAPSULE | RAMIPRIL-1.25-MG-CAPSULE | 0.12245300 per stuk |
+| RAMIPRIL-1.25-MG-CAPSULE | RAMIPRIL-1.25-MG-CAPSULE | 0.12392100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 29153 | Ramipril pch capsule 1,25mg |   |
 | Productgroep |   | Maximumprijs |
-| RAMIPRIL-1.25-MG-TABLET | RAMIPRIL-1.25-MG-TABLET | 0.10385200 per stuk |
+| RAMIPRIL-1.25-MG-TABLET | RAMIPRIL-1.25-MG-TABLET | 0.10830500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 22833 | Tritace tablet 1,25mg |   |
 | 28001 | Ramipril sandoz tablet 1,25mg |   |
 | 28502 | Ramipril rp tablet 1,25mg |   |
 | 30976 | Ramipril actavis tablet 1,25mg |   |
 | Productgroep |   | Maximumprijs |
-| RAMIPRIL-10-MG-CAPSULE | RAMIPRIL-10-MG-CAPSULE | 0.09234800 per stuk |
+| RAMIPRIL-10-MG-CAPSULE | RAMIPRIL-10-MG-CAPSULE | 0.09753400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13297 | Tritace capsule 10mg |   |
 | 29156 | Ramipril pch capsule 10mg |   |
 | Productgroep |   | Maximumprijs |
-| RAMIPRIL-10-MG-TABLET | RAMIPRIL-10-MG-TABLET | 0.25889100 per stuk |
+| RAMIPRIL-10-MG-TABLET | RAMIPRIL-10-MG-TABLET | 0.25714000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 28004 | Ramipril sandoz tablet 10mg |   |
 | 28505 | Ramipril rp tablet 10mg |   |
-| 29303 | Ramipril merck tablet 10mg |   |
+| 29303 | Ramipril mylan tablet 10mg |   |
 | 29310 | Ramipril ranbaxy tablet 10mg |   |
 | 30971 | Ramipril a tablet 10mg |   |
 | 30979 | Ramipril actavis tablet 10mg |   |
 | 30983 | Ramipril cf tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| RAMIPRIL-2.5-MG-CAPSULE | RAMIPRIL-2.5-MG-CAPSULE | 0.10355700 per stuk |
+| RAMIPRIL-2.5-MG-CAPSULE | RAMIPRIL-2.5-MG-CAPSULE | 0.10558900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 29154 | Ramipril pch capsule 2,5mg |   |
 | Productgroep |   | Maximumprijs |
-| RAMIPRIL-2.5-MG-TABLET | RAMIPRIL-2.5-MG-TABLET | 0.13401400 per stuk |
+| RAMIPRIL-2.5-MG-TABLET | RAMIPRIL-2.5-MG-TABLET | 0.13600500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 16252 | Tritace tablet 2,5mg |   |
 | 28002 | Ramipril sandoz tablet 2,5mg |   |
 | 28503 | Ramipril rp tablet 2,5mg |   |
-| 29301 | Ramipril merck tablet 2,5mg |   |
+| 29301 | Ramipril mylan tablet 2,5mg |   |
 | 29308 | Ramipril ranbaxy tablet 2,5mg |   |
 | 30969 | Ramipril a tablet 2,5mg |   |
 | 30977 | Ramipril actavis tablet 2,5mg |   |
 | 30981 | Ramipril cf tablet 2,5mg |   |
 | Productgroep |   | Maximumprijs |
-| RAMIPRIL-5-MG-CAPSULE | RAMIPRIL-5-MG-CAPSULE | 0.13872500 per stuk |
+| RAMIPRIL-5-MG-CAPSULE | RAMIPRIL-5-MG-CAPSULE | 0.14396600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 29155 | Ramipril pch capsule 5mg |   |
 | Productgroep |   | Maximumprijs |
-| RAMIPRIL-5-MG-TABLET | RAMIPRIL-5-MG-TABLET | 0.17440300 per stuk |
+| RAMIPRIL-5-MG-TABLET | RAMIPRIL-5-MG-TABLET | 0.17414500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 16253 | Tritace tablet 5mg |   |
 | 28003 | Ramipril sandoz tablet 5mg |   |
 | 28504 | Ramipril rp tablet 5mg |   |
-| 29302 | Ramipril merck tablet 5mg |   |
+| 29302 | Ramipril mylan tablet 5mg |   |
 | 29309 | Ramipril ranbaxy tablet 5mg |   |
 | 30970 | Ramipril a tablet 5mg |   |
 | 30978 | Ramipril actavis tablet 5mg |   |
 | 30982 | Ramipril cf tablet 5mg |   |
 | Productgroep |   | Maximumprijs |
-| RANITIDINE-15-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | RANITIDINE-15-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.05510700 per ml |
+| RANITIDINE-15-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | RANITIDINE-15-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.05327400 per ml |
 | Registratienummer | Artikelnaam |   |
 | 13064 | Zantac drank 150mg/10ml |   |
 | Productgroep |   | Maximumprijs |
-| RANITIDINE-150-MG-BRUISTABLET | RANITIDINE-150-MG-BRUISTABLET | 0.24874200 per stuk |
+| RANITIDINE-150-MG-BRUISTABLET | RANITIDINE-150-MG-BRUISTABLET | 0.25028100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 14330 | Zantac bruistablet 150mg |   |
 | 23422 | Ranitidine pch bruistablet 150mg |   |
 | 23701 | Ranitidine sandoz bruistablet 150mg |   |
 | 25047 | Ranitidine actavis bruistablet 150mg |   |
 | 25583 | Ranitidine rp bruistablet 150mg |   |
-| 29327 | Ranitidine merck bruistablet 150mg |   |
+| 29327 | Ranitidine mylan bruistablet 150mg |   |
 | 33297 | Ranitidine cf bruistablet 150mg |   |
 | Productgroep |   | Maximumprijs |
-| RANITIDINE-150-MG-TABLET | RANITIDINE-150-MG-TABLET | 0.14945600 per stuk |
+| RANITIDINE-150-MG-TABLET | RANITIDINE-150-MG-TABLET | 0.14921100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 20999=9265 | Ranitidine gw tablet 150mg |   |
 | 21969 | Ranitidine sandoz tablet 150mg |   |
-| 22359 | Ranitidine merck tablet 150mg |   |
 | 22359 | Ranitidine mylan tablet 150mg |   |
 | 22508 | Ranitidine cf tablet 150mg |   |
-| 25751 | Ranitidine katwijk tablet 150mg |   |
+| 25751 | Ranitidine apotex tablet 150mg |   |
 | 27174=23060 | Ranitidine rp tablet 150mg |   |
 | 32466/9265 | Zantac tablet 150mg |   |
 | 9265 | Zantac tablet 150mg |   |
 | Productgroep |   | Maximumprijs |
-| RANITIDINE-300-MG-BRUISTABLET | RANITIDINE-300-MG-BRUISTABLET | 0.47861400 per stuk |
+| RANITIDINE-300-MG-BRUISTABLET | RANITIDINE-300-MG-BRUISTABLET | 0.47793200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15366 | Zantac bruistablet 300mg |   |
 | 23423 | Ranitidine pch bruistablet 300mg |   |
 | 23702 | Ranitidine sandoz bruistablet 300mg |   |
 | 25048 | Ranitidine actavis bruistablet 300mg |   |
 | 25584 | Ranitidine rp bruistablet 300mg |   |
-| 29328 | Ranitidine merck bruistablet 300mg |   |
+| 29328 | Ranitidine mylan bruistablet 300mg |   |
 | 33298 | Ranitidine cf bruistablet 300mg |   |
 | Productgroep |   | Maximumprijs |
-| RANITIDINE-300-MG-TABLET | RANITIDINE-300-MG-TABLET | 0.28895700 per stuk |
+| RANITIDINE-300-MG-TABLET | RANITIDINE-300-MG-TABLET | 0.28711200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11161 | Zantac tablet 300mg |   |
 | 21000=11161 | Ranitidine gw tablet 300mg |   |
 | 21970 | Ranitidine sandoz tablet 300mg |   |
-| 22360 | Ranitidine merck tablet 300mg |   |
+| 22360 | Ranitidine mylan tablet 300mg |   |
 | 22509 | Ranitidine cf tablet 300mg |   |
-| 25752 | Ranitidine katwijk tablet 300mg |   |
+| 25752 | Ranitidine apotex tablet 300mg |   |
 | 27175=23061 | Ranitidine rp tablet 300mg |   |
 | 32467/11161 | Zantac tablet 300mg |   |
 | Productgroep |   | Maximumprijs |
-| RASAGILINE-1-MG-TABLET | RASAGILINE-1-MG-TABLET | 3.53545000 per stuk |
+| RASAGILINE-1-MG-TABLET | RASAGILINE-1-MG-TABLET | 3.55515000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/04/304/003 | Azilect tablet 1mg |   |
 | Productgroep |   | Maximumprijs |
-| REPAGLINIDE-.5-MG-TABLET | REPAGLINIDE-.5-MG-TABLET | 0.16535400 per stuk |
+| REPAGLINIDE-.5-MG-TABLET | REPAGLINIDE-.5-MG-TABLET | 0.16968500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/98/076/004 | Novonorm tablet 0,5mg |   |
 | EU/1/98/076/005 | Novonorm tablet 0,5mg |   |
 | Productgroep |   | Maximumprijs |
-| REPAGLINIDE-1-MG-TABLET | REPAGLINIDE-1-MG-TABLET | 0.17217600 per stuk |
+| REPAGLINIDE-1-MG-TABLET | REPAGLINIDE-1-MG-TABLET | 0.17677100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/98/076/011 | Novonorm tablet 1mg |   |
 | EU/1/98/076/012 | Novonorm tablet 1mg |   |
 | Productgroep |   | Maximumprijs |
-| RIBAVIRIN-200-MG-CAPSULE | RIBAVIRIN-200-MG-CAPSULE | 3.61167400 per stuk |
+| RIBAVIRIN-200-MG-CAPSULE | RIBAVIRIN-200-MG-CAPSULE | 3.69774600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/99/107/001 | Rebetol capsule 200mg |   |
 | EU/1/99/107/002 | Rebetol capsule 200mg |   |
 | EU/1/99/107/003 | Rebetol capsule 200mg |   |
 | Productgroep |   | Maximumprijs |
-| RIBAVIRIN-200-MG-TABLET | RIBAVIRIN-200-MG-TABLET | 3.76540800 per stuk |
+| RIBAVIRIN-200-MG-TABLET | RIBAVIRIN-200-MG-TABLET | 3.90413700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 26746 | Copegus tablet filmomhuld 200mg |   |
 | 33771/26746 | Copegus tablet filmomhuld 200mg |   |
 | 34751/26746 | Copegus tablet filmomhuld 200mg |   |
 | Productgroep |   | Maximumprijs |
-| RIBAVIRIN-400-MG-TABLET | RIBAVIRIN-400-MG-TABLET | 7.57494000 per stuk |
+| RIBAVIRIN-400-MG-TABLET | RIBAVIRIN-400-MG-TABLET | 7.76477400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 101926/32314 | Copegus tablet filmomhuld 400mg |   |
 | 32314 | Copegus tablet filmomhuld 400mg |   |
 | Productgroep |   | Maximumprijs |
-| RIBAVIRIN-6000-MG-POEDER VOOR INHALATIEVLOEISTOF | RIBAVIRIN-6000-MG-POEDER VOOR INHALATIEVLOEISTOF | 466.55309000 per stuk |
+| RIBAVIRIN-6000-MG-POEDER VOOR INHALATIEVLOEISTOF | RIBAVIRIN-6000-MG-POEDER VOOR INHALATIEVLOEISTOF | 470.19141500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12588 | Virazole poeder voor inhalatievloeistof flacon 6g |   |
 | Productgroep |   | Maximumprijs |
-| RIFABUTIN-150-MG-CAPSULE | RIFABUTIN-150-MG-CAPSULE | 3.35789400 per stuk |
+| RIFABUTIN-150-MG-CAPSULE | RIFABUTIN-150-MG-CAPSULE | 3.36012100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 16740 | Mycobutin capsule 150mg |   |
 | Productgroep |   | Maximumprijs |
-| RIFAMPICIN-150-MG-CAPSULE | RIFAMPICIN-150-MG-CAPSULE | 0.41639900 per stuk |
+| RIFAMPICIN-150-MG-CAPSULE | RIFAMPICIN-150-MG-CAPSULE | 0.40837800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 5761 | Rifampicine sandoz capsule 150mg |   |
 | 5764 | Rifadin capsule 150mg |   |
 | Productgroep |   | Maximumprijs |
-| RIFAMPICIN-20-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | RIFAMPICIN-20-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.07808500 per ml |
+| RIFAMPICIN-20-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | RIFAMPICIN-20-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.07870400 per ml |
 | Registratienummer | Artikelnaam |   |
 | 5766 | Rifadin suspensie 20mg/ml (2%) |   |
 | Productgroep |   | Maximumprijs |
-| RIFAMPICIN-300-MG-CAPSULE | RIFAMPICIN-300-MG-CAPSULE | 0.67246600 per stuk |
+| RIFAMPICIN-300-MG-CAPSULE | RIFAMPICIN-300-MG-CAPSULE | 0.65302500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 5765 | Rifadin capsule 300mg |   |
 | 6090 | Rifampicine sandoz capsule 300mg |   |
 | Productgroep |   | Maximumprijs |
-| RILUZOLE-50-MG-TABLET | RILUZOLE-50-MG-TABLET | 5.76383800 per stuk |
+| RILUZOLE-50-MG-TABLET | RILUZOLE-50-MG-TABLET | 5.91127600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/96/010/001 | Rilutek tablet omhuld 50mg |   |
 | Productgroep |   | Maximumprijs |
-| RISEDRONINEZUUR-30-MG-TABLET | RISEDRONINEZUUR-30-MG-TABLET | 6.81930100 per stuk |
+| RISEDRONINEZUUR-30-MG-TABLET | RISEDRONINEZUUR-30-MG-TABLET | 6.91296100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 24990 | Actonel tablet filmomhuld 30mg |   |
 | Productgroep |   | Maximumprijs |
-| RISEDRONINEZUUR-35-MG-TABLET | RISEDRONINEZUUR-35-MG-TABLET | 6.63914400 per stuk |
+| RISEDRONINEZUUR-35-MG-TABLET | RISEDRONINEZUUR-35-MG-TABLET | 6.63857400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100522/28338 | Actonel wekelijks tablet filmomhuld 35mg |   |
 | 102288/28338 | Actonel wekelijks tablet filmomhuld 35mg |   |
@@ -7347,13 +7528,12 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 104594/28338 | Actonel wekelijks tablet filmomhuld 35mg |   |
 | 28338 | Actonel wekelijks tablet filmomhuld 35mg |   |
 | 30518/28338 | Actonel wekelijks tablet filmomhuld 35mg |   |
-| 33822/28338 | Actonel wekelijks tablet filmomhuld 35mg |   |
 | 34502/28338 | Actonel wekelijks tablet filmomhuld 35mg |   |
 | 34619/28338 | Natriumrisedronaat wekelijks tablet filmomh 35mg |   |
 | 34962/28338 | Actonel wekelijks tablet filmomhuld 35mg |   |
 | 35222/28338 | Actonel wekelijks tablet filmomhuld 35mg |   |
 | Productgroep |   | Maximumprijs |
-| RISEDRONINEZUUR-5-MG-TABLET | RISEDRONINEZUUR-5-MG-TABLET | 0.90339700 per stuk |
+| RISEDRONINEZUUR-5-MG-TABLET | RISEDRONINEZUUR-5-MG-TABLET | 0.90492100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100082/25801 | Actonel tablet filmomhuld 5mg |   |
 | 102782/25801 | Actonel tablet filmomhuld 5mg |   |
@@ -7362,28 +7542,28 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 29401/25801 | Actonel tablet filmomhuld 5mg |   |
 | 29823/25801 | Actonel tablet filmomhuld 5mg |   |
 | Productgroep |   | Maximumprijs |
-| RISPERIDONE-.5-MG-TABLET | RISPERIDONE-.5-MG-TABLET | 0.17949500 per stuk |
+| RISPERIDONE-.5-MG-TABLET | RISPERIDONE-.5-MG-TABLET | 0.17079400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 22714 | Risperdal tablet omhuld 0,5mg |   |
 | 30913 | Risperidon cf tablet omhuld 0,5mg |   |
 | 32414 | Risperidon mylan tablet omhuld 0,5mg |   |
 | 33271 | Risperidon pch tablet omhuld 0,5mg |   |
 | Productgroep |   | Maximumprijs |
-| RISPERIDONE-1-MG-SMELTTABLET | RISPERIDONE-1-MG-SMELTTABLET | 0.64722700 per stuk |
+| RISPERIDONE-1-MG-SMELTTABLET | RISPERIDONE-1-MG-SMELTTABLET | 0.62726200 per stuk |
 | Registratienummer | Artikelnaam |   |
+| 100340 | Risperidon smelttab mylan orodisp tablet 1mg |   |
 | 27791 | Risperdal quicklet orodisp tablet 1mg |   |
 | Productgroep |   | Maximumprijs |
-| RISPERIDONE-1-MG-TABLET | RISPERIDONE-1-MG-TABLET | 0.31389700 per stuk |
+| RISPERIDONE-1-MG-TABLET | RISPERIDONE-1-MG-TABLET | 0.29339100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 16096 | Risperdal tablet omhuld 1mg |   |
-| 29273/16096 | Risperdal tablet omhuld 1mg |   |
 | 30914 | Risperidon cf tablet omhuld 1mg |   |
 | 32415 | Risperidon mylan tablet omhuld 1mg |   |
 | 34202 | Risperidonum tablet omhuld 1mg |   |
 | 35068 | Risperidon ranbaxy tablet omhuld 1mg |   |
 | 35242 | Risperidon pch tablet omhuld 1mg |   |
 | Productgroep |   | Maximumprijs |
-| RISPERIDONE-1-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | RISPERIDONE-1-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.53581100 per ml |
+| RISPERIDONE-1-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | RISPERIDONE-1-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.51627600 per ml |
 | Registratienummer | Artikelnaam |   |
 | 100097/19127 | Risperdal drank 1mg/ml |   |
 | 100610 | Risperidon katwijk drank 1mg/ml |   |
@@ -7392,45 +7572,42 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 33796 | Risperidon sandoz drank 1mg/ml |   |
 | 34329 | Risperidon a drank 1mg/ml |   |
 | 34381 | Risperidon rp drank 1mg/ml |   |
-| 34630 | Risperidon merck drank 1mg/ml |   |
+| 34630 | Risperidon mylan drank 1mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| RISPERIDONE-2-MG-SMELTTABLET | RISPERIDONE-2-MG-SMELTTABLET | 1.19712400 per stuk |
+| RISPERIDONE-2-MG-SMELTTABLET | RISPERIDONE-2-MG-SMELTTABLET | 1.15882400 per stuk |
 | Registratienummer | Artikelnaam |   |
-| 100341 | Risperidon smelttab merck orodisp tablet 2mg |   |
+| 100341 | Risperidon smelttab mylan orodisp tablet 2mg |   |
 | 27792 | Risperdal quicklet orodisp tablet 2mg |   |
 | Productgroep |   | Maximumprijs |
-| RISPERIDONE-2-MG-TABLET | RISPERIDONE-2-MG-TABLET | 0.63738800 per stuk |
+| RISPERIDONE-2-MG-TABLET | RISPERIDONE-2-MG-TABLET | 0.58068000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 16097 | Risperdal tablet omhuld 2mg |   |
-| 29274/16097 | Risperdal tablet omhuld 2mg |   |
 | 30915 | Risperidon cf tablet omhuld 2mg |   |
 | 32416 | Risperidon mylan tablet omhuld 2mg |   |
 | 34203 | Risperidonum tablet omhuld 2mg |   |
 | 35069 | Risperidon ranbaxy tablet omhuld 2mg |   |
 | 35243 | Risperidon pch tablet omhuld 2mg |   |
 | Productgroep |   | Maximumprijs |
-| RISPERIDONE-3-MG-SMELTTABLET | RISPERIDONE-3-MG-SMELTTABLET | 2.21906900 per stuk |
+| RISPERIDONE-3-MG-SMELTTABLET | RISPERIDONE-3-MG-SMELTTABLET | 2.12073100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 31775 | Risperdal quicklet orodisp tablet 3mg |   |
 | Productgroep |   | Maximumprijs |
-| RISPERIDONE-3-MG-TABLET | RISPERIDONE-3-MG-TABLET | 0.92325600 per stuk |
+| RISPERIDONE-3-MG-TABLET | RISPERIDONE-3-MG-TABLET | 0.85425600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 16098 | Risperdal tablet omhuld 3mg |   |
-| 28290/16098 | Risperdal tablet omhuld 3mg |   |
 | 30916 | Risperidon cf tablet omhuld 3mg |   |
 | 32417 | Risperidon mylan tablet omhuld 3mg |   |
 | 34204 | Risperidonum tablet omhuld 3mg |   |
 | 35070 | Risperidon ranbaxy tablet omhuld 3mg |   |
 | 35244 | Risperidon pch tablet omhuld 3mg |   |
 | Productgroep |   | Maximumprijs |
-| RISPERIDONE-4-MG-SMELTTABLET | RISPERIDONE-4-MG-SMELTTABLET | 2.86607600 per stuk |
+| RISPERIDONE-4-MG-SMELTTABLET | RISPERIDONE-4-MG-SMELTTABLET | 2.73351900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 31776 | Risperdal quicklet orodisp tablet 4mg |   |
 | Productgroep |   | Maximumprijs |
-| RISPERIDONE-4-MG-TABLET | RISPERIDONE-4-MG-TABLET | 1.27105400 per stuk |
+| RISPERIDONE-4-MG-TABLET | RISPERIDONE-4-MG-TABLET | 1.15280200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 16099 | Risperdal tablet omhuld 4mg |   |
-| 27731/16099 | Risperdal tablet omhuld 4mg |   |
 | 30843/16099 | Risperdal tablet omhuld 4mg |   |
 | 30917 | Risperidon cf tablet omhuld 4mg |   |
 | 32418 | Risperidon mylan tablet omhuld 4mg |   |
@@ -7438,73 +7615,71 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 35071 | Risperidon ranbaxy tablet omhuld 4mg |   |
 | 35245 | Risperidon pch tablet omhuld 4mg |   |
 | Productgroep |   | Maximumprijs |
-| RISPERIDONE-6-MG-TABLET | RISPERIDONE-6-MG-TABLET | 2.03153400 per stuk |
+| RISPERIDONE-6-MG-TABLET | RISPERIDONE-6-MG-TABLET | 1.79566300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100176 | Risperidon accord tablet omhuld 6mg |   |
 | 19585 | Risperdal tablet omhuld 6mg |   |
 | Productgroep |   | Maximumprijs |
-| RITONAVIR-100-MG-CAPSULE | RITONAVIR-100-MG-CAPSULE | 1.10589300 per stuk |
+| RITONAVIR-100-MG-CAPSULE | RITONAVIR-100-MG-CAPSULE | 1.13590500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/96/016/003 | Norvir capsule 100mg |   |
 | EU/1/96/016/004 | Norvir capsule 100mg |   |
 | Productgroep |   | Maximumprijs |
-| RITONAVIR-20-MG/ML-OPLOSSING/SUSPENSIE, ORAAL-LOPINAVIR-80-MG/ML-OPLOSSING/SUSPE | RITONAVIR-20-MG/ML-OPLOSSING/SUSPENSIE, ORAAL-LOPINAVIR-80-MG/ML-OPLOSSING/SUSPE | 1.53488100 per ml |
+| RITONAVIR-20-MG/ML-OPLOSSING/SUSPENSIE, ORAAL-LOPINAVIR-80-MG/ML-OPLOSSING/SUSPE | RITONAVIR-20-MG/ML-OPLOSSING/SUSPENSIE, ORAAL-LOPINAVIR-80-MG/ML-OPLOSSING/SUSPE | 1.56932300 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/01/172/003 | Kaletra drank |   |
 | Productgroep |   | Maximumprijs |
-| RITONAVIR-25-MG-TABLET-LOPINAVIR-100-MG-TABLET | RITONAVIR-25-MG-TABLET-LOPINAVIR-100-MG-TABLET | 2.07018700 per stuk |
+| RITONAVIR-25-MG-TABLET-LOPINAVIR-100-MG-TABLET | RITONAVIR-25-MG-TABLET-LOPINAVIR-100-MG-TABLET | 2.11396900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/01/172/006 | Kaletra tablet filmomhuld 100/25mg |   |
 | Productgroep |   | Maximumprijs |
-| RITONAVIR-33.3-MG-CAPSULE-LOPINAVIR-133.3-MG-CAPSULE | RITONAVIR-33.3-MG-CAPSULE-LOPINAVIR-133.3-MG-CAPSULE | 2.83200900 per stuk |
-| Registratienummer | Artikelnaam |   |
-| EU/1/01/172/001 | Kaletra capsule zacht 133,3/33,3mg |   |
-| Productgroep |   | Maximumprijs |
-| RITONAVIR-50-MG-TABLET-LOPINAVIR-200-MG-TABLET | RITONAVIR-50-MG-TABLET-LOPINAVIR-200-MG-TABLET | 3.95101400 per stuk |
+| RITONAVIR-50-MG-TABLET-LOPINAVIR-200-MG-TABLET | RITONAVIR-50-MG-TABLET-LOPINAVIR-200-MG-TABLET | 4.02971300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/01/172/004 | Kaletra tablet filmomhuld 200/50mg |   |
 | Productgroep |   | Maximumprijs |
-| RITONAVIR-80-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | RITONAVIR-80-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.89706200 per ml |
+| RITONAVIR-80-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | RITONAVIR-80-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.92558500 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/96/016/001 | Norvir drank 80mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| RITUXIMAB-10-MG/ML-INFUUSVLOEISTOF, FLACON | RITUXIMAB-10-MG/ML-INFUUSVLOEISTOF, FLACON | 27.90505100 per ml |
+| RITUXIMAB-10-MG/ML-INFUUSVLOEISTOF, FLACON | RITUXIMAB-10-MG/ML-INFUUSVLOEISTOF, FLACON | 28.15047100 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/98/067/001 | Mabthera infvlst concentraat 10mg/ml flacon 10ml |   |
 | EU/1/98/067/002 | Mabthera infvlst concentraat 10mg/ml flacon 50ml |   |
 | Productgroep |   | Maximumprijs |
-| RIVAROXABAN-10-MG-TABLET | RIVAROXABAN-10-MG-TABLET | 5.51103000 per stuk |
+| RIVAROXABAN-10-MG-TABLET | RIVAROXABAN-10-MG-TABLET | 5.43401800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/08/472/006 | Xarelto tablet filmomhuld 10mg |   |
+| EU/1/08/472/007 | Xarelto tablet filmomhuld 10mg |   |
 | EU/1/08/472/008 | Xarelto tablet filmomhuld 10mg |   |
 | Productgroep |   | Maximumprijs |
-| RIVASTIGMINE-1.5-MG-CAPSULE | RIVASTIGMINE-1.5-MG-CAPSULE | 1.31808500 per stuk |
+| RIVASTIGMINE-1.5-MG-CAPSULE | RIVASTIGMINE-1.5-MG-CAPSULE | 1.33908400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/98/066/001 | Exelon capsule 1,5mg |   |
 | Productgroep |   | Maximumprijs |
-| RIVASTIGMINE-18-MG-PLEISTER, DERMAAL | RIVASTIGMINE-18-MG-PLEISTER, DERMAAL | 2.82846400 per stuk |
+| RIVASTIGMINE-18-MG-PLEISTER, DERMAAL | RIVASTIGMINE-18-MG-PLEISTER, DERMAAL | 2.85173000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/98/066/024 | Exelon pleister transdermaal 9,5mg/24uur |   |
 | Productgroep |   | Maximumprijs |
-| RIVASTIGMINE-3-MG-CAPSULE | RIVASTIGMINE-3-MG-CAPSULE | 1.35107000 per stuk |
+| RIVASTIGMINE-3-MG-CAPSULE | RIVASTIGMINE-3-MG-CAPSULE | 1.37455600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/98/066/004 | Exelon capsule 3mg |   |
 | EU/1/98/066/005 | Exelon capsule 3mg |   |
 | Productgroep |   | Maximumprijs |
-| RIVASTIGMINE-4.5-MG-CAPSULE | RIVASTIGMINE-4.5-MG-CAPSULE | 1.36150500 per stuk |
+| RIVASTIGMINE-4.5-MG-CAPSULE | RIVASTIGMINE-4.5-MG-CAPSULE | 1.37833400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/98/066/007 | Exelon capsule 4,5mg |   |
 | EU/1/98/066/008 | Exelon capsule 4,5mg |   |
 | Productgroep |   | Maximumprijs |
-| RIVASTIGMINE-6-MG-CAPSULE | RIVASTIGMINE-6-MG-CAPSULE | 1.35764300 per stuk |
+| RIVASTIGMINE-6-MG-CAPSULE | RIVASTIGMINE-6-MG-CAPSULE | 1.37621300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/98/066/010 | Exelon capsule 6mg |   |
 | EU/1/98/066/011 | Exelon capsule 6mg |   |
 | EU/1/98/092/011 | Prometax capsule 6mg |   |
 | Productgroep |   | Maximumprijs |
-| RIZATRIPTAN-10-MG-SMELTTABLET | RIZATRIPTAN-10-MG-SMELTTABLET | 5.80216700 per stuk |
+| RIZATRIPTAN-10-MG-SMELTTABLET | RIZATRIPTAN-10-MG-SMELTTABLET | 5.89508800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 104338/21818 | Maxalt smelttablet 10mg |   |
+| 105211/21818 | Maxalt smelttablet 10mg |   |
 | 21818 | Maxalt smelttablet 10mg |   |
 | 29579/21818 | Maxalt smelttablet 10mg |   |
 | 29836/21818 | Maxalt smelttablet 10mg |   |
@@ -7513,7 +7688,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 31861/21818 | Maxalt smelttablet 10mg |   |
 | 32935/21818 | Rizatriptan smelttablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| RIZATRIPTAN-10-MG-TABLET | RIZATRIPTAN-10-MG-TABLET | 4.80797900 per stuk |
+| RIZATRIPTAN-10-MG-TABLET | RIZATRIPTAN-10-MG-TABLET | 4.87135200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 103307/21816 | Maxalt tablet 10mg |   |
 | 103692/21816 | Maxalt tablet 10mg |   |
@@ -7523,12 +7698,12 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 29837/21816 | Maxalt tablet 10mg |   |
 | 32934/21816 | Rizatriptan tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| RIZATRIPTAN-5-MG-TABLET | RIZATRIPTAN-5-MG-TABLET | 4.66214600 per stuk |
+| RIZATRIPTAN-5-MG-TABLET | RIZATRIPTAN-5-MG-TABLET | 4.75506700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 103688/21815 | Maxalt tablet 5mg |   |
 | 21815 | Maxalt tablet 5mg |   |
 | Productgroep |   | Maximumprijs |
-| ROPINIROL-.25-MG-TABLET | ROPINIROL-.25-MG-TABLET | 0.20067000 per stuk |
+| ROPINIROL-.25-MG-TABLET | ROPINIROL-.25-MG-TABLET | 0.20543200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 101364/31670 | Adartrel tablet filmomhuld 0,25mg |   |
 | 102055/31670 | Adartrel tablet filmomhuld 0,25mg |   |
@@ -7539,7 +7714,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 34856 | Ropinirol mylan tablet filmomhuld 0,25mg |   |
 | 35147 | Ropinirol rp tablet filmomhuld 0,25mg |   |
 | Productgroep |   | Maximumprijs |
-| ROPINIROL-1-MG-TABLET | ROPINIROL-1-MG-TABLET | 0.46542600 per stuk |
+| ROPINIROL-1-MG-TABLET | ROPINIROL-1-MG-TABLET | 0.48364300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100747/20763 | Requip tablet omhuld 1mg |   |
 | 101732/20763 | Requip tablet omhuld 1mg |   |
@@ -7553,7 +7728,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 34858 | Ropinirol mylan tablet filmomhuld 1mg |   |
 | 35149 | Ropinirol rp tablet filmomhuld 1mg |   |
 | Productgroep |   | Maximumprijs |
-| ROPINIROL-2-MG-TABLET | ROPINIROL-2-MG-TABLET | 0.92339800 per stuk |
+| ROPINIROL-2-MG-TABLET | ROPINIROL-2-MG-TABLET | 0.95564900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100750/20764 | Requip tablet omhuld 2mg |   |
 | 101366/31673 | Adartrel tablet filmomhuld 2mg |   |
@@ -7569,53 +7744,56 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 35150 | Ropinirol rp tablet filmomhuld 2mg |   |
 | 35287/20764 | Requip tablet omhuld 2mg |   |
 | Productgroep |   | Maximumprijs |
-| ROPINIROL-2-MG-TABLET, MET GEREGULEERDE AFGIFTE | ROPINIROL-2-MG-TABLET, MET GEREGULEERDE AFGIFTE | 1.21922200 per stuk |
+| ROPINIROL-2-MG-TABLET, MET GEREGULEERDE AFGIFTE | ROPINIROL-2-MG-TABLET, MET GEREGULEERDE AFGIFTE | 1.26433200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100571 | Requip modutab startverpakking tablet mva 2mg |   |
 | 100571 | Requip modutab tablet mva 2mg |   |
 | 103700/100571 | Requip modutab tablet mva 2mg |   |
 | 103713/100571 | Requip modutab tablet mva 2mg |   |
 | 104103/100571 | Requip modutab tablet mva 2mg |   |
+| 104591/100571 | Requip modutab tablet mva 2mg |   |
+| 105275/100571 | Requip modutab tablet mva 2mg |   |
 | Productgroep |   | Maximumprijs |
-| ROPINIROL-4-MG-TABLET, MET GEREGULEERDE AFGIFTE | ROPINIROL-4-MG-TABLET, MET GEREGULEERDE AFGIFTE | 2.21175600 per stuk |
+| ROPINIROL-4-MG-TABLET, MET GEREGULEERDE AFGIFTE | ROPINIROL-4-MG-TABLET, MET GEREGULEERDE AFGIFTE | 2.30660200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100574 | Requip modutab tablet mva 4mg |   |
 | 103701/100574 | Requip modutab tablet mva 4mg |   |
 | 103715/100574 | Requip modutab tablet mva 4mg |   |
 | 104104/100574 | Requip modutab tablet mva 4mg |   |
 | Productgroep |   | Maximumprijs |
-| ROPINIROL-5-MG-TABLET | ROPINIROL-5-MG-TABLET | 1.85624300 per stuk |
+| ROPINIROL-5-MG-TABLET | ROPINIROL-5-MG-TABLET | 1.87847500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 101730/20765 | Requip tablet omhuld 5mg |   |
 | 20765 | Requip tablet omhuld 5mg |   |
 | 26624/20765 | Requip tablet omhuld 5mg |   |
-| 29691/20765 | Requip tablet omhuld 5mg |   |
 | 31406/20765 | Requip tablet omhuld 5mg |   |
 | 32280/20765 | Requip tablet omhuld 5mg |   |
 | Productgroep |   | Maximumprijs |
-| ROPINIROL-8-MG-TABLET, MET GEREGULEERDE AFGIFTE | ROPINIROL-8-MG-TABLET, MET GEREGULEERDE AFGIFTE | 4.01527400 per stuk |
+| ROPINIROL-8-MG-TABLET, MET GEREGULEERDE AFGIFTE | ROPINIROL-8-MG-TABLET, MET GEREGULEERDE AFGIFTE | 4.20137500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100576 | Requip modutab tablet mva 8mg |   |
 | 103702/100576 | Requip modutab tablet mva 8mg |   |
 | 103719/100576 | Requip modutab tablet mva 8mg |   |
 | 104105/100576 | Requip modutab tablet mva 8mg |   |
+| 104589/100576 | Requip modutab tablet mva 8mg |   |
+| 105276/100576 | Requip modutab tablet mva 8mg |   |
 | Productgroep |   | Maximumprijs |
-| ROSIGLITAZON-2-MG-TABLET-METFORMIN-500-MG-TABLET | ROSIGLITAZON-2-MG-TABLET-METFORMIN-500-MG-TABLET | 0.36081100 per stuk |
+| ROSIGLITAZON-2-MG-TABLET-METFORMIN-500-MG-TABLET | ROSIGLITAZON-2-MG-TABLET-METFORMIN-500-MG-TABLET | 0.36022900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/03/258/005 | Avandamet tablet filmomhuld 2/ 500mg |   |
 | EU/1/03/258/006 | Avandamet tablet filmomhuld 2/ 500mg |   |
 | Productgroep |   | Maximumprijs |
-| ROSIGLITAZON-4-MG-TABLET | ROSIGLITAZON-4-MG-TABLET | 0.79746200 per stuk |
+| ROSIGLITAZON-4-MG-TABLET | ROSIGLITAZON-4-MG-TABLET | 0.80863100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/00/137/006 | Avandia tablet filmomhuld 4mg |   |
 | EU/1/00/137/007 | Avandia tablet filmomhuld 4mg |   |
 | EU/1/00/137/009 | Avandia tablet filmomhuld 4mg |   |
 | Productgroep |   | Maximumprijs |
-| ROSIGLITAZON-8-MG-TABLET | ROSIGLITAZON-8-MG-TABLET | 1.21627800 per stuk |
+| ROSIGLITAZON-8-MG-TABLET | ROSIGLITAZON-8-MG-TABLET | 1.21936100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/00/137/011 | Avandia tablet filmomhuld 8mg |   |
 | Productgroep |   | Maximumprijs |
-| ROSUVASTATINE-10-MG-TABLET | ROSUVASTATINE-10-MG-TABLET | 0.82358300 per stuk |
+| ROSUVASTATINE-10-MG-TABLET | ROSUVASTATINE-10-MG-TABLET | 0.81156500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 26872 | Crestor tablet filmomhuld 10mg |   |
 | 30451/26872 | Crestor tablet filmomhuld 10mg |   |
@@ -7625,7 +7803,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 31034/26872 | Crestor tablet filmomhuld 10mg |   |
 | 33645/26872 | Crestor tablet filmomhuld 10mg |   |
 | Productgroep |   | Maximumprijs |
-| ROSUVASTATINE-20-MG-TABLET | ROSUVASTATINE-20-MG-TABLET | 1.19284200 per stuk |
+| ROSUVASTATINE-20-MG-TABLET | ROSUVASTATINE-20-MG-TABLET | 1.17030500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 102181/26873 | Crestor tablet filmomhuld 20mg |   |
 | 26873 | Crestor tablet filmomhuld 20mg |   |
@@ -7637,7 +7815,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 33507/26873 | Crestor tablet filmomhuld 20mg |   |
 | 33646/26873 | Crestor tablet filmomhuld 20mg |   |
 | Productgroep |   | Maximumprijs |
-| ROSUVASTATINE-40-MG-TABLET | ROSUVASTATINE-40-MG-TABLET | 1.61468200 per stuk |
+| ROSUVASTATINE-40-MG-TABLET | ROSUVASTATINE-40-MG-TABLET | 1.64784500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100804/26874 | Crestor tablet filmomhuld 40mg |   |
 | 102575/26874 | Crestor tablet filmomhuld 40mg |   |
@@ -7652,89 +7830,89 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 32327/26874 | Rosuvastatine tablet filmomhuld 40mg |   |
 | 32348/26874 | Crestor tablet filmomhuld 40mg |   |
 | 32457/26874 | Crestor tablet filmomhuld 40mg |   |
-| 33068/26874 | Crestor tablet filmomhuld 40mg |   |
 | Productgroep |   | Maximumprijs |
-| ROXITHROMYCIN-150-MG-TABLET | ROXITHROMYCIN-150-MG-TABLET | 0.53824500 per stuk |
+| ROXITHROMYCIN-150-MG-TABLET | ROXITHROMYCIN-150-MG-TABLET | 0.53338800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12459 | Rulide tablet filmomhuld 150mg |   |
 | 25664 | Roxitromycine sandoz tablet filmomhuld 150mg |   |
 | 26688 | Roxitromycine cf tablet filmomhuld 150mg |   |
 | Productgroep |   | Maximumprijs |
-| SALBUTAMOL-.1-MG-AEROSOL | SALBUTAMOL-.1-MG-AEROSOL | 0.01724000 per dosis |
+| SALBUTAMOL-.1-MG-AEROSOL | SALBUTAMOL-.1-MG-AEROSOL | 0.01848200 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 18353 | Airomir 100 aerosol 100mcg/do spbs 200do+inhalator |   |
 | 21440 | Ventolin 100 aer cfkvr 100mcg/do spbs 200do+inhal |   |
 | Productgroep |   | Maximumprijs |
-| SALBUTAMOL-.1-MG-AEROSOL BAI | SALBUTAMOL-.1-MG-AEROSOL BAI | 0.04202400 per dosis |
+| SALBUTAMOL-.1-MG-AEROSOL BAI | SALBUTAMOL-.1-MG-AEROSOL BAI | 0.04250500 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 22393 | Airomir autohaler aerosol 100mcg/do spbs 200do |   |
 | 26971 | Salbutamol ivax ademges aer 100mcg/do spb 200d+inh |   |
 | 28234 | Salbutamol a ecosal aer cfkv 100 spbs 200d+inh |   |
 | Productgroep |   | Maximumprijs |
-| SALBUTAMOL-.1-MG-INHALATIEPOEDER | SALBUTAMOL-.1-MG-INHALATIEPOEDER | 0.02292600 per dosis |
+| SALBUTAMOL-.1-MG-INHALATIEPOEDER | SALBUTAMOL-.1-MG-INHALATIEPOEDER | 0.02350900 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 29458 | Salbutamol novolizer inhalpd navul 100mcg/do 200do |   |
 | Productgroep |   | Maximumprijs |
-| SALBUTAMOL-.1-MG-INHALATIEPOEDER INCL INHALER | SALBUTAMOL-.1-MG-INHALATIEPOEDER INCL INHALER | 0.03388500 per dosis |
+| SALBUTAMOL-.1-MG-INHALATIEPOEDER INCL INHALER | SALBUTAMOL-.1-MG-INHALATIEPOEDER INCL INHALER | 0.03443200 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 29458 | Salbutamol novolizer pdr start 100mcg/do 200do+inh |   |
 | Productgroep |   | Maximumprijs |
-| SALBUTAMOL-.2-MG-INHALATIEPOEDER INCL INHALER | SALBUTAMOL-.2-MG-INHALATIEPOEDER INCL INHALER | 0.08702700 per dosis |
+| SALBUTAMOL-.2-MG-INHALATIEPOEDER INCL INHALER | SALBUTAMOL-.2-MG-INHALATIEPOEDER INCL INHALER | 0.08212600 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 12939 | Salbutamol pch cyclocaps inhalpdr 200mcg+cyclohal |   |
 | 19496 | Ventolin diskus inhpdr 200mcg 60do |   |
 | Productgroep |   | Maximumprijs |
-| SALBUTAMOL-.4-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | SALBUTAMOL-.4-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.01133000 per ml |
+| SALBUTAMOL-.4-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | SALBUTAMOL-.4-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.01172600 per ml |
 | Registratienummer | Artikelnaam |   |
 | 6450 | Ventolin drank 0,4mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| SALBUTAMOL-1-MG/ML-INHALATIEVLOEISTOF UNITDOSE | SALBUTAMOL-1-MG/ML-INHALATIEVLOEISTOF UNITDOSE | 0.08017300 per ml |
+| SALBUTAMOL-1-MG/ML-INHALATIEVLOEISTOF UNITDOSE | SALBUTAMOL-1-MG/ML-INHALATIEVLOEISTOF UNITDOSE | 0.09473100 per ml |
 | Registratienummer | Artikelnaam |   |
 | 12587 | Ventolin 2,5 inhvlst 1mg/ml nebule 2,5ml |   |
 | 33118/12587 | Ventolin 2,5 inhvlst 1mg/ml nebule 2,5ml |   |
 | Productgroep |   | Maximumprijs |
-| SALBUTAMOL-2-MG-TABLET | SALBUTAMOL-2-MG-TABLET | 0.30509700 per stuk |
+| SALBUTAMOL-2-MG-TABLET | SALBUTAMOL-2-MG-TABLET | 0.34411200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 57194 | Salbutamol rp tablet 2mg |   |
 | 57411 | Salbutamol cf tablet 2mg |   |
 | Productgroep |   | Maximumprijs |
-| SALBUTAMOL-2-MG/ML-INHALATIEVLOEISTOF UNITDOSE | SALBUTAMOL-2-MG/ML-INHALATIEVLOEISTOF UNITDOSE | 0.11516800 per ml |
+| SALBUTAMOL-2-MG/ML-INHALATIEVLOEISTOF UNITDOSE | SALBUTAMOL-2-MG/ML-INHALATIEVLOEISTOF UNITDOSE | 0.13440700 per ml |
 | Registratienummer | Artikelnaam |   |
 | 14590 | Ventolin 5,0 inhvlst 2mg/ml nebule 2,5ml |   |
 | 33119/14590 | Ventolin 5,0 inhvlst 2mg/ml nebule 2,5ml |   |
 | Productgroep |   | Maximumprijs |
-| SALBUTAMOL-4-MG-TABLET | SALBUTAMOL-4-MG-TABLET | 0.44298400 per stuk |
+| SALBUTAMOL-4-MG-TABLET | SALBUTAMOL-4-MG-TABLET | 0.48909200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 57412 | Salbutamol cf tablet 4mg |   |
 | Productgroep |   | Maximumprijs |
-| SALBUTAMOL-5-MG/ML-INHALATIEVLOEISTOF | SALBUTAMOL-5-MG/ML-INHALATIEVLOEISTOF | 0.17671200 per ml |
+| SALBUTAMOL-5-MG/ML-INHALATIEVLOEISTOF | SALBUTAMOL-5-MG/ML-INHALATIEVLOEISTOF | 0.17916000 per ml |
 | Registratienummer | Artikelnaam |   |
 | 18093=57416 | Salbutamol sandoz inhalatievloeistof 5mg/ml |   |
 | 56751 | Salbutamol pch inhalatievloeistof 5mg/ml |   |
 | 57416 | Salbutamol cf inhalatievloeistof 5mg/ml |   |
 | 6676 | Ventolin oplossing inhalatievloeistof 5mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| SALICYLIC ACID-30-MG/G-ZALF, CUTAAN-BETAMETHASONE-.5-MG/G-ZALF, CUTAAN | SALICYLIC ACID-30-MG/G-ZALF, CUTAAN-BETAMETHASONE-.5-MG/G-ZALF, CUTAAN | 0.12819500 per g |
+| SALICYLIC ACID-30-MG/G-ZALF, CUTAAN-BETAMETHASONE-.5-MG/G-ZALF, CUTAAN | SALICYLIC ACID-30-MG/G-ZALF, CUTAAN-BETAMETHASONE-.5-MG/G-ZALF, CUTAAN | 0.12890200 per g |
 | Registratienummer | Artikelnaam |   |
 | 23110/9375 | Diprosalic zalf |   |
 | 29629/9375 | Diprosalic zalf |   |
 | 9375 | Diprosalic zalf |   |
 | Productgroep |   | Maximumprijs |
-| SALMETEROL-.025-MG-AEROSOL-FLUTICASONE-.05-MG-AEROSOL | SALMETEROL-.025-MG-AEROSOL-FLUTICASONE-.05-MG-AEROSOL | 0.25986900 per dosis |
+| SALMETEROL-.025-MG-AEROSOL-FLUTICASONE-.05-MG-AEROSOL | SALMETEROL-.025-MG-AEROSOL-FLUTICASONE-.05-MG-AEROSOL | 0.26213100 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 102666/25865 | Seretide aerosol 25/ 50mcg/do cfkvr spbs 120do+inh |   |
 | 25865 | Seretide aerosol 25/ 50mcg/do cfkvr spbs 120do+inh |   |
 | Productgroep |   | Maximumprijs |
-| SALMETEROL-.025-MG-AEROSOL-FLUTICASONE-.125-MG-AEROSOL | SALMETEROL-.025-MG-AEROSOL-FLUTICASONE-.125-MG-AEROSOL | 0.37662800 per dosis |
+| SALMETEROL-.025-MG-AEROSOL-FLUTICASONE-.125-MG-AEROSOL | SALMETEROL-.025-MG-AEROSOL-FLUTICASONE-.125-MG-AEROSOL | 0.38580000 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 25866 | Seretide aerosol 25/125mcg/do cfkvr spbs 120do+inh |   |
 | 32537/25866 | Seretide aerosol 25/125mcg/do cfkvr spbs 120do+inh |   |
 | Productgroep |   | Maximumprijs |
-| SALMETEROL-.05-MG-INHALATIEPOEDER INCL INHALER | SALMETEROL-.05-MG-INHALATIEPOEDER INCL INHALER | 0.52096900 per dosis |
+| SALMETEROL-.05-MG-INHALATIEPOEDER INCL INHALER | SALMETEROL-.05-MG-INHALATIEPOEDER INCL INHALER | 0.52890400 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 102580/18150 | Serevent diskus inhpdr 50mcg 60do |   |
 | 103113/18150 | Serevent diskus inhpdr 50mcg 60do |   |
 | 103114/18150 | Serevent diskus inhpdr 50mcg 60do |   |
+| 103114/18150 | Salmeterol erc diskus inhpdr 50mcg 60do |   |
 | 103931/18150 | Serevent diskus inhpdr 50mcg 60do |   |
 | 18150 | Serevent diskus inhpdr 50mcg 60do |   |
 | 21916/18150 | Serevent diskus inhpdr 50mcg 60do |   |
@@ -7746,14 +7924,14 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 28221/18150 | Serevent diskus inhpdr 50mcg 60do |   |
 | 29537/18150 | Serevent diskus inhpdr 50mcg 60do |   |
 | Productgroep |   | Maximumprijs |
-| SALMETEROL-.05-MG-INHALATIEPOEDER INCL INHALER-FLUTICASONE-.1-MG-INHALATIEPOEDER | SALMETEROL-.05-MG-INHALATIEPOEDER INCL INHALER-FLUTICASONE-.1-MG-INHALATIEPOEDER | 0.57813100 per dosis |
+| SALMETEROL-.05-MG-INHALATIEPOEDER INCL INHALER-FLUTICASONE-.1-MG-INHALATIEPOEDER | SALMETEROL-.05-MG-INHALATIEPOEDER INCL INHALER-FLUTICASONE-.1-MG-INHALATIEPOEDER | 0.58196900 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 101916/23529 | Seretide diskus inhpdr 50/100mcg 60do |   |
 | 23529 | Seretide diskus inhpdr 50/100mcg 60do |   |
 | 27874/23529 | Seretide diskus inhpdr 50/100mcg 60do |   |
 | 31702/23529 | Seretide diskus inhpdr 50/100mcg 60do |   |
 | Productgroep |   | Maximumprijs |
-| SALMETEROL-.05-MG-INHALATIEPOEDER INCL INHALER-FLUTICASONE-.25-MG-INHALATIEPOEDE | SALMETEROL-.05-MG-INHALATIEPOEDER INCL INHALER-FLUTICASONE-.25-MG-INHALATIEPOEDE | 0.73761600 per dosis |
+| SALMETEROL-.05-MG-INHALATIEPOEDER INCL INHALER-FLUTICASONE-.25-MG-INHALATIEPOEDE | SALMETEROL-.05-MG-INHALATIEPOEDER INCL INHALER-FLUTICASONE-.25-MG-INHALATIEPOEDE | 0.74962900 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 101907/23530 | Seretide diskus inhpdr 50/250mcg 60do |   |
 | 101911/23530 | Seretide diskus inhpdr 50/250mcg 60do |   |
@@ -7769,7 +7947,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 34861/23530 | Salmeterol/fluticasonpropion inhpdr 50/250mcg 60do |   |
 | 35036/23530 | Seretide diskus inhpdr 50/250mcg 60do |   |
 | Productgroep |   | Maximumprijs |
-| SALMETEROL-.05-MG-INHALATIEPOEDER INCL INHALER-FLUTICASONE-.5-MG-INHALATIEPOEDER | SALMETEROL-.05-MG-INHALATIEPOEDER INCL INHALER-FLUTICASONE-.5-MG-INHALATIEPOEDER | 1.01321000 per dosis |
+| SALMETEROL-.05-MG-INHALATIEPOEDER INCL INHALER-FLUTICASONE-.5-MG-INHALATIEPOEDER | SALMETEROL-.05-MG-INHALATIEPOEDER INCL INHALER-FLUTICASONE-.5-MG-INHALATIEPOEDER | 1.02298200 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 101910/23531 | Seretide diskus inhpdr 50/500mcg 60do |   |
 | 101921/23531 | Seretide diskus inhpdr 50/500mcg 60do |   |
@@ -7785,33 +7963,33 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 32249/23531 | Seretide diskus inhpdr 50/500mcg 60do |   |
 | 33063/23531 | Seretide diskus inhpdr 50/500mcg 60do |   |
 | Productgroep |   | Maximumprijs |
-| SAQUINAVIR-200-MG-CAPSULE | SAQUINAVIR-200-MG-CAPSULE | 1.17661200 per stuk |
+| SAQUINAVIR-200-MG-CAPSULE | SAQUINAVIR-200-MG-CAPSULE | 1.19442700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/96/026/001 | Invirase capsule 200mg |   |
 | EU/1/98/075/001 | Fortovase capsule 200mg |   |
 | Productgroep |   | Maximumprijs |
-| SELEGILINE-5-MG-TABLET | SELEGILINE-5-MG-TABLET | 0.35954800 per stuk |
+| SELEGILINE-5-MG-TABLET | SELEGILINE-5-MG-TABLET | 0.35707900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13720 | Eldepryl tablet 5mg |   |
 | 19007 | Selegiline hcl sandoz tablet 5mg |   |
 | 19325 | Selegiline hcl pch tablet 5mg |   |
 | 19637 | Selegiline hcl cf tablet 5mg |   |
-| 20925 | Selegiline hcl merck tablet 5mg |   |
+| 20925 | Selegiline hcl mylan tablet 5mg |   |
 | Productgroep |   | Maximumprijs |
-| SERTINDOLE-4-MG-TABLET | SERTINDOLE-4-MG-TABLET | 1.08079100 per stuk |
+| SERTINDOLE-4-MG-TABLET | SERTINDOLE-4-MG-TABLET | 1.07198600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 20610 | Serdolect tablet filmomhuld 4mg |   |
 | Productgroep |   | Maximumprijs |
-| SERTRALINE-100-MG-TABLET | SERTRALINE-100-MG-TABLET | 0.42526900 per stuk |
+| SERTRALINE-100-MG-TABLET | SERTRALINE-100-MG-TABLET | 0.40382200 per stuk |
 | Registratienummer | Artikelnaam |   |
+| 101124 | Sertraline bluefish tablet filmomhuld 100mg |   |
 | 28402 | Sertraline pch tablet filmomhuld 100mg |   |
 | 30289 | Sertraline ranbaxy tablet filmomhuld 100mg |   |
 | 32679 | Sertraline mylan tablet filmomhuld 100mg |   |
 | 33644 | Sertraline aurobindo tablet filmomhuld 100mg |   |
 | Productgroep |   | Maximumprijs |
-| SERTRALINE-50-MG-TABLET | SERTRALINE-50-MG-TABLET | 0.26863900 per stuk |
+| SERTRALINE-50-MG-TABLET | SERTRALINE-50-MG-TABLET | 0.26648900 per stuk |
 | Registratienummer | Artikelnaam |   |
-| 101511/16292 | Zoloft tablet filmomhuld 50mg |   |
 | 16292 | Zoloft tablet filmomhuld 50mg |   |
 | 28401 | Sertraline pch tablet filmomhuld 50mg |   |
 | 30279 | Sertraline cf tablet filmomhuld 50mg |   |
@@ -7821,25 +7999,25 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 31529 | Sertraline a tablet filmomhuld 50mg |   |
 | 32572 | Sertraline actavis tablet filmomhuld 50mg |   |
 | 32678 | Sertraline mylan tablet filmomhuld 50mg |   |
-| 32678 | Sertraline merck tablet filmomhuld 50mg |   |
 | Productgroep |   | Maximumprijs |
-| SEVELAMER-800-MG-TABLET | SEVELAMER-800-MG-TABLET | 1.02162000 per stuk |
+| SEVELAMER-800-MG-TABLET | SEVELAMER-800-MG-TABLET | 1.03518900 per stuk |
 | Registratienummer | Artikelnaam |   |
+| EU/1/09/521/003 | Renvela tablet filmomhuld 800mg |   |
 | EU/1/99/123/008 | Renagel tablet filmomhuld 800mg |   |
 | EU/1/99/123/012 | Renagel tablet filmomhuld 800mg |   |
 | Productgroep |   | Maximumprijs |
-| SILDENAFIL-20-MG-TABLET | SILDENAFIL-20-MG-TABLET | 6.33693500 per stuk |
+| SILDENAFIL-20-MG-TABLET | SILDENAFIL-20-MG-TABLET | 6.55155200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/05/318/001 | Revatio tablet filmomhuld 20mg |   |
 | Productgroep |   | Maximumprijs |
-| SIMVASTATIN-10-MG-TABLET | SIMVASTATIN-10-MG-TABLET | 0.11070100 per stuk |
+| SIMVASTATIN-10-MG-TABLET | SIMVASTATIN-10-MG-TABLET | 0.11144100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13193 | Zocor tablet 10mg |   |
-| 27556 | Simvastatine katwijk tablet filmomhuld 10mg |   |
+| 27556 | Simvastatine apotex tablet filmomhuld 10mg |   |
 | 27687 | Simvastatine rp tablet filmomhuld 10mg |   |
 | 28507 | Simvastatine cf tablet filmomhuld 10mg |   |
 | 29104 | Simvastatine a tablet filmomhuld 10mg |   |
-| 29108 | Simvastatine merck tablet filmomhuld 10mg |   |
+| 29108 | Simvastatine mylan tablet filmomhuld 10mg |   |
 | 29282 | Simvastatine pch tablet filmomhuld 10mg |   |
 | 32395 | Simvastatine ranbaxy tablet filmomhuld 10mg |   |
 | 32506 | Simvastatine rp tablet filmomhuld 10mg |   |
@@ -7847,92 +8025,167 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 34933 | Simvastatine actavis tablet filmomhuld 10mg |   |
 | 35237 | Simvastatine bluefish tablet filmomhuld 10mg |   |
 | Productgroep |   | Maximumprijs |
-| SIMVASTATIN-20-MG-TABLET | SIMVASTATIN-20-MG-TABLET | 0.19152800 per stuk |
+| SIMVASTATIN-20-MG-TABLET | SIMVASTATIN-20-MG-TABLET | 0.18960900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13194 | Zocor tablet 20mg |   |
-| 27557 | Simvastatine katwijk tablet filmomhuld 20mg |   |
+| 27557 | Simvastatine apotex tablet filmomhuld 20mg |   |
 | 27688 | Simvastatine rp tablet filmomhuld 20mg |   |
 | 28508 | Simvastatine cf tablet filmomhuld 20mg |   |
 | 28759=25538 | Simvastatine cf tablet filmomhuld 20mg |   |
 | 29105 | Simvastatine a tablet filmomhuld 20mg |   |
-| 29109 | Simvastatine merck tablet filmomhuld 20mg |   |
+| 29109 | Simvastatine mylan tablet filmomhuld 20mg |   |
 | 29283 | Simvastatine pch tablet filmomhuld 20mg |   |
 | Productgroep |   | Maximumprijs |
-| SIMVASTATIN-20-MG-TABLET-EZETIMIB-10-MG-TABLET | SIMVASTATIN-20-MG-TABLET-EZETIMIB-10-MG-TABLET | 1.59571000 per stuk |
+| SIMVASTATIN-20-MG-TABLET-EZETIMIB-10-MG-TABLET | SIMVASTATIN-20-MG-TABLET-EZETIMIB-10-MG-TABLET | 1.61437400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 101422/30928 | Inegy tablet 10/20mg |   |
 | 102677/30928 | Inegy tablet 10/20mg |   |
 | 103534/30928 | Inegy tablet 10/20mg |   |
 | 104385/30928 | Inegy tablet 10/20mg |   |
+| 104904/30928 | Inegy tablet 10/20mg |   |
 | 30928 | Inegy tablet 10/20mg |   |
 | Productgroep |   | Maximumprijs |
-| SIMVASTATIN-40-MG-TABLET | SIMVASTATIN-40-MG-TABLET | 0.30548300 per stuk |
+| SIMVASTATIN-40-MG-TABLET | SIMVASTATIN-40-MG-TABLET | 0.30339700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13195 | Zocor tablet 40mg |   |
-| 27558 | Simvastatine katwijk tablet filmomhuld 40mg |   |
+| 27558 | Simvastatine apotex tablet filmomhuld 40mg |   |
 | 27689 | Simvastatine rp tablet filmomhuld 40mg |   |
 | 28509 | Simvastatine cf tablet filmomhuld 40mg |   |
 | 29106 | Simvastatine a tablet filmomhuld 40mg |   |
-| 29110 | Simvastatine merck tablet filmomhuld 40mg |   |
+| 29110 | Simvastatine mylan tablet filmomhuld 40mg |   |
 | 29284 | Simvastatine pch tablet filmomhuld 40mg |   |
 | 32397 | Simvastatine ranbaxy tablet filmomhuld 40mg |   |
 | 33011 | Simvastatine sandoz tablet filmomhuld 40mg |   |
 | 34935 | Simvastatine actavis tablet filmomhuld 40mg |   |
 | Productgroep |   | Maximumprijs |
-| SIMVASTATIN-40-MG-TABLET-EZETIMIB-10-MG-TABLET | SIMVASTATIN-40-MG-TABLET-EZETIMIB-10-MG-TABLET | 1.86564700 per stuk |
+| SIMVASTATIN-40-MG-TABLET-EZETIMIB-10-MG-TABLET | SIMVASTATIN-40-MG-TABLET-EZETIMIB-10-MG-TABLET | 1.88610400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 101424/30929 | Inegy tablet 10/40mg |   |
 | 102678/30929 | Inegy tablet 10/40mg |   |
 | 103535/30929 | Inegy tablet 10/40mg |   |
 | 103536/30929 | Inegy tablet 10/40mg |   |
 | 104386/30929 | Inegy tablet 10/40mg |   |
+| 104903/30929 | Inegy tablet 10/40mg |   |
 | 30929 | Inegy tablet 10/40mg |   |
 | Productgroep |   | Maximumprijs |
-| SIMVASTATIN-80-MG-TABLET | SIMVASTATIN-80-MG-TABLET | 0.61282600 per stuk |
+| SIMVASTATIN-80-MG-TABLET | SIMVASTATIN-80-MG-TABLET | 0.61780900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 28935 | Simvastatine pch tablet filmomhuld 80mg |   |
 | 31144 | Simvastatine sandoz tablet filmomhuld 80mg |   |
 | 34762 | Simvastatine cf tablet filmomhuld 80mg |   |
 | 35240 | Simvastatine bluefish tablet filmomhuld 80mg |   |
 | Productgroep |   | Maximumprijs |
-| SIMVASTATIN-80-MG-TABLET-EZETIMIB-10-MG-TABLET | SIMVASTATIN-80-MG-TABLET-EZETIMIB-10-MG-TABLET | 1.92460300 per stuk |
+| SIMVASTATIN-80-MG-TABLET-EZETIMIB-10-MG-TABLET | SIMVASTATIN-80-MG-TABLET-EZETIMIB-10-MG-TABLET | 1.95529000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 102679/30930 | Inegy tablet 10/80mg |   |
 | 102680/30930 | Inegy tablet 10/80mg |   |
 | 104387/30930 | Inegy tablet 10/80mg |   |
 | 30930 | Inegy tablet 10/80mg |   |
 | Productgroep |   | Maximumprijs |
-| SIROLIMUS-1-MG-TABLET | SIROLIMUS-1-MG-TABLET | 4.44403300 per stuk |
+| SIROLIMUS-1-MG-TABLET | SIROLIMUS-1-MG-TABLET | 4.60730900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/01/171/008 | Rapamune tablet filmomhuld 1mg |   |
 | Productgroep |   | Maximumprijs |
-| SIROLIMUS-1-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | SIROLIMUS-1-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 4.45824100 per ml |
+| SIROLIMUS-1-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | SIROLIMUS-1-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 4.56290300 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/01/171/001 | Rapamune drank 1mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| SIROLIMUS-2-MG-TABLET | SIROLIMUS-2-MG-TABLET | 9.10428100 per stuk |
+| SIROLIMUS-2-MG-TABLET | SIROLIMUS-2-MG-TABLET | 9.26666700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/01/171/009 | Rapamune tablet filmomhuld 2mg |   |
 | EU/1/01/171/010 | Rapamune tablet filmomhuld 2mg |   |
 | Productgroep |   | Maximumprijs |
-| SITAGLIPTIN-100-MG-TABLET | SITAGLIPTIN-100-MG-TABLET | 1.44277900 per stuk |
+| SITAGLIPTIN-100-MG-TABLET | SITAGLIPTIN-100-MG-TABLET | 1.45907800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/07/383/014 | Januvia tablet filmomhuld 100mg |   |
 | EU/1/07/383/018 | Januvia tablet filmomhuld 100mg |   |
 | Productgroep |   | Maximumprijs |
-| SITAXENTAN-100-MG-TABLET | SITAXENTAN-100-MG-TABLET | 81.39704900 per stuk |
+| SITAXENTAN-100-MG-TABLET | SITAXENTAN-100-MG-TABLET | 83.11717400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/06/353/002 | Thelin tablet filmcoated 100mg |   |
 | Productgroep |   | Maximumprijs |
-| SOLIFENACINE-10-MG-TABLET | SOLIFENACINE-10-MG-TABLET | 1.56596900 per stuk |
+| SOLIFENACINE-10-MG-TABLET | SOLIFENACINE-10-MG-TABLET | 1.57858900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 29152 | Vesicare tablet filmomhuld 10mg |   |
 | Productgroep |   | Maximumprijs |
-| SORAFENIB-200-MG-TABLET | SORAFENIB-200-MG-TABLET | 32.72504500 per stuk |
+| SOMATROPIN-10-MG-POED. V. INJECTIE, FLACON | SOMATROPIN-10-MG-POED. V. INJECTIE, FLACON | 328.06277600 per stuk |
+| Registratienummer | Artikelnaam |   |
+| 102990 | Zomacton injpdr flacon 10mg + solv 1ml + toebeh |   |
+| Productgroep |   | Maximumprijs |
+| SOMATROPIN-10-MG/ML-INJ.VLOEISTOF AMPUL | SOMATROPIN-10-MG/ML-INJ.VLOEISTOF AMPUL | 348.34341600 per ml |
+| Registratienummer | Artikelnaam |   |
+| 24225 | Norditropin simplexx injvlst 15mg/patroon 1,5ml |   |
+| 27855/24225 | Norditropin simplexx injvl 10mg/ml patroon 1,5ml |   |
+| Productgroep |   | Maximumprijs |
+| SOMATROPIN-12-MG-POED. V. INJECTIE, PATROON | SOMATROPIN-12-MG-POED. V. INJECTIE, PATROON | 382.81828900 per stuk |
+| Registratienummer | Artikelnaam |   |
+| 100100/15790 | Genotropin injpdr patroon 12mg+cons+solv 1ml |   |
+| 100486/15790 | Genotropin injpdr patroon 12mg+cons+solv 1ml |   |
+| 101011/15790 | Genotropin injpdr patroon 12mg+cons+solv 1ml |   |
+| 101734/15790 | Genotropin injpdr patroon 12mg+cons+solv 1ml |   |
+| 103880/15790 | Genotropin injpdr patroon 12mg+cons+solv 1ml |   |
+| 103889/15790 | Genotropin injpdr patroon 12mg+cons+solv 1ml |   |
+| 104077/17071 | Humatrope penpatroon injpdr patr 12mg+solv 3,15ml |   |
+| 15790 | Genotropin injpdr patroon 12mg + cons+solv 1ml |   |
+| 17071 | Humatrope penpatroon injpdr patr 12mg+solv 3,15ml |   |
+| 19151/15790 | Genotropin injpdr patroon 12mg+cons+solv 1ml |   |
+| 20939/15790 | Genotropin injpdr patroon 12mg+cons+solv 1ml |   |
+| 21572/15790 | Genotropin injpdr patroon 12mg+cons+solv 1ml |   |
+| 30362/15790 | Genotropin injpdr patroon 12mg+cons+solv 1ml |   |
+| 35113/17071 | Humatrope penpatroon injpdr patr 12mg+solv 3,15ml |   |
+| Productgroep |   | Maximumprijs |
+| SOMATROPIN-24-MG-POED. V. INJECTIE, PATROON | SOMATROPIN-24-MG-POED. V. INJECTIE, PATROON | 788.68706700 per stuk |
+| Registratienummer | Artikelnaam |   |
+| 104078/17072 | Humatrope penpatroon injpdr patr 24mg+solv 3,15ml |   |
+| 17072 | Humatrope penpatroon injpdr patr 24mg+solv 3,15ml |   |
+| 35114/17072 | Humatrope penpatroon injpdr patr 24mg+solv 3,15ml |   |
+| Productgroep |   | Maximumprijs |
+| SOMATROPIN-3.3-MG/ML-INJ.VLOEISTOF AMPUL | SOMATROPIN-3.3-MG/ML-INJ.VLOEISTOF AMPUL | 98.44560900 per ml |
+| Registratienummer | Artikelnaam |   |
+| 24223 | Norditropin simplexx injvlst 5mg/patroon 1,5ml |   |
+| 28231/24223 | Norditropin simplexx injvl 3,33mg/ml patroon 1,5ml |   |
+| 29416/24223 | Norditropin simplexx injvl 3,33mg/ml patroon 1,5ml |   |
+| 30284/24223 | Norditropin simplexx injvl 3,33mg/ml patroon 1,5ml |   |
+| 30284/24223 | Norditropin simplexx injvlst 5mg/patroon 1,5ml |   |
+| EU/1/06/332/005 | Omnitrope injvlst 3,3mg/ml patroon 1,5ml |   |
+| Productgroep |   | Maximumprijs |
+| SOMATROPIN-4-MG-POED. V. INJECTIE, FLACON | SOMATROPIN-4-MG-POED. V. INJECTIE, FLACON | 126.69174700 per stuk |
+| Registratienummer | Artikelnaam |   |
+| 101063/14593 | Zomacton injpdr flacon 4mg + solv 3,5ml + toebeh |   |
+| 103538/14593 | Zomacton injpdr flacon 4mg + solv 3,5ml + toebeh |   |
+| 105570/14593 | Zomacton injpdr flacon 4mg + solv 3,5ml + toebeh |   |
+| 105600/14593 | Zomacton injpdr flacon 4mg + solv 3,5ml + toebeh |   |
+| 14593 | Zomacton injpdr flacon 4mg + solv 3,5ml + toebeh |   |
+| 30374/14593 | Zomacton injpdr flacon 4mg + solv 3,5ml + toebeh |   |
+| 32861/14593 | Zomacton injpdr flacon 4mg + solv 3,5ml + toebeh |   |
+| 33032/14593 | Zomacton injpdr flacon 4mg + solv 3,5ml + toebeh |   |
+| Productgroep |   | Maximumprijs |
+| SOMATROPIN-5-MG-POED. V. INJECTIE, FLACON | SOMATROPIN-5-MG-POED. V. INJECTIE, FLACON | 133.70109200 per stuk |
+| Registratienummer | Artikelnaam |   |
+| EU/1/06/332/002 | Omnitrope injpdr flacon 5mg + solv 1ml + recoset |   |
+| EU/1/06/332/003 | Omnitrope injpdr flacon 5mg + solv 1ml + recoset |   |
+| Productgroep |   | Maximumprijs |
+| SOMATROPIN-5-MG/ML-INJ.VLOEISTOF AMPUL | SOMATROPIN-5-MG/ML-INJ.VLOEISTOF AMPUL | 188.31100000 per ml |
+| Registratienummer | Artikelnaam |   |
+| EU/1/00/164/003 | Nutropinaq injvlst 5mg/ml patroon 2ml |   |
+| EU/1/00/164/004 | Nutropinaq injvlst 5mg/ml patroon 2ml |   |
+| Productgroep |   | Maximumprijs |
+| SOMATROPIN-6-MG-POED. V. INJECTIE, PATROON | SOMATROPIN-6-MG-POED. V. INJECTIE, PATROON | 188.66492900 per stuk |
+| Registratienummer | Artikelnaam |   |
+| 104076/17070 | Humatrope penpatroon injpdr patr 6mg+solv 3,15ml |   |
+| 17070 | Humatrope penpatroon injpdr patr 6mg+solv 3,15ml |   |
+| 35112/17070 | Humatrope penpatroon injpdr patr 6mg+solv 3,15ml |   |
+| Productgroep |   | Maximumprijs |
+| SOMATROPIN-6.7-MG/ML-INJ.VLOEISTOF AMPUL | SOMATROPIN-6.7-MG/ML-INJ.VLOEISTOF AMPUL | 195.63978200 per ml |
+| Registratienummer | Artikelnaam |   |
+| 24224 | Norditropin simplexx injvlst 10mg/patroon 1,5ml |   |
+| EU/1/06/332/008 | Omnitrope injvlst 6,7mg/ml patroon 1,5ml |   |
+| Productgroep |   | Maximumprijs |
+| SORAFENIB-200-MG-TABLET | SORAFENIB-200-MG-TABLET | 33.74846300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/06/342/001 | Nexavar tablet filmomhuld 200mg |   |
 | Productgroep |   | Maximumprijs |
-| SOTALOL-160-MG-TABLET | SOTALOL-160-MG-TABLET | 0.12017800 per stuk |
+| SOTALOL-160-MG-TABLET | SOTALOL-160-MG-TABLET | 0.12162000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 16724 | Sotalol hcl actavis tablet 160mg |   |
 | 17706 | Sotalol hcl sandoz tablet 160mg |   |
@@ -7944,16 +8197,15 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 28269 | Sotalol hcl pch tablet 160mg |   |
 | 57481 | Sotalol hcl cf tablet 160mg |   |
 | Productgroep |   | Maximumprijs |
-| SOTALOL-40-MG-TABLET | SOTALOL-40-MG-TABLET | 0.04385300 per stuk |
+| SOTALOL-40-MG-TABLET | SOTALOL-40-MG-TABLET | 0.04213500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 33884 | Sotalol hcl pch tablet 40mg |   |
 | Productgroep |   | Maximumprijs |
-| SOTALOL-80-MG-TABLET | SOTALOL-80-MG-TABLET | 0.06244200 per stuk |
+| SOTALOL-80-MG-TABLET | SOTALOL-80-MG-TABLET | 0.06081300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 16723 | Sotalol hcl actavis tablet 80mg |   |
 | 17705 | Sotalol hcl sandoz tablet 80mg |   |
 | 19579 | Sotalol hcl mylan tablet 80mg |   |
-| 19579 | Sotalol hcl merck tablet 80mg |   |
 | 19859=6741 | Sotalol hcl a tablet 80mg |   |
 | 20329 | Sotaloli hydrochloridum tablet 80mg |   |
 | 22333 | Sotalol hcl katwijk tablet 80mg |   |
@@ -7962,7 +8214,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 57480 | Sotalol hcl cf tablet 80mg |   |
 | 6741 | Sotacor tablet 80mg |   |
 | Productgroep |   | Maximumprijs |
-| SPIRONOLACTONE-100-MG-TABLET | SPIRONOLACTONE-100-MG-TABLET | 0.23820000 per stuk |
+| SPIRONOLACTONE-100-MG-TABLET | SPIRONOLACTONE-100-MG-TABLET | 0.23751000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 18639 | Spironolactonum tablet 100mg |   |
 | 19481 | Spironolacton rp tablet 100mg |   |
@@ -7972,16 +8224,16 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 24688 | Spironolacton katwijk tablet 100mg |   |
 | 24781 | Spironolacton cf tablet 100mg |   |
 | 25520=23151 | Spironolacton a tablet 100mg |   |
-| 25925 | Spironolacton merck tablet 100mg |   |
+| 25925 | Spironolacton mylan tablet 100mg |   |
 | 55838 | Spironolacton pch tablet 100mg |   |
 | Productgroep |   | Maximumprijs |
-| SPIRONOLACTONE-25-MG-TABLET | SPIRONOLACTONE-25-MG-TABLET | 0.11600800 per stuk |
+| SPIRONOLACTONE-25-MG-TABLET | SPIRONOLACTONE-25-MG-TABLET | 0.11811500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 19479 | Spironolacton rp tablet 25mg |   |
 | 24779 | Spironolacton cf tablet 25mg |   |
 | 55837 | Spironolacton pch tablet 25mg |   |
 | Productgroep |   | Maximumprijs |
-| SPIRONOLACTONE-50-MG-TABLET | SPIRONOLACTONE-50-MG-TABLET | 0.16662400 per stuk |
+| SPIRONOLACTONE-50-MG-TABLET | SPIRONOLACTONE-50-MG-TABLET | 0.16535500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 18638 | Spironolactonum tablet 50mg |   |
 | 19480 | Spironolacton rp tablet 50mg |   |
@@ -7991,46 +8243,69 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 24687 | Spironolacton katwijk tablet 50mg |   |
 | 24780 | Spironolacton cf tablet 50mg |   |
 | 25519=23150 | Spironolacton a tablet 50mg |   |
-| 25924 | Spironolacton merck tablet 50mg |   |
 | 25924 | Spironolacton mylan tablet 50mg |   |
 | 55973 | Spironolacton pch tablet 50mg |   |
 | Productgroep |   | Maximumprijs |
-| STAVUDINE-30-MG-CAPSULE | STAVUDINE-30-MG-CAPSULE | 3.47092000 per stuk |
+| STAVUDINE-30-MG-CAPSULE | STAVUDINE-30-MG-CAPSULE | 3.35106800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/96/009/006 | Zerit capsule 30mg |   |
 | Productgroep |   | Maximumprijs |
-| STAVUDINE-40-MG-CAPSULE | STAVUDINE-40-MG-CAPSULE | 3.58825600 per stuk |
+| STAVUDINE-40-MG-CAPSULE | STAVUDINE-40-MG-CAPSULE | 3.46418500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/96/009/008 | Zerit capsule 40mg |   |
 | Productgroep |   | Maximumprijs |
-| STIRIPENTOL-250-MG-CAPSULE | STIRIPENTOL-250-MG-CAPSULE | 3.96454400 per stuk |
+| STIRIPENTOL-250-MG-CAPSULE | STIRIPENTOL-250-MG-CAPSULE | 4.06298400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/06/367/002 | Diacomit capsule 250mg |   |
 | Productgroep |   | Maximumprijs |
-| STIRIPENTOL-500-MG-CAPSULE | STIRIPENTOL-500-MG-CAPSULE | 7.28463400 per stuk |
+| STIRIPENTOL-500-MG-CAPSULE | STIRIPENTOL-500-MG-CAPSULE | 7.45570200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/06/367/005 | Diacomit capsule 500mg |   |
 | Productgroep |   | Maximumprijs |
-| STRONTIUM RANELATE-2000-MG-POEDER/GRANULAAT, ORAAL | STRONTIUM RANELATE-2000-MG-POEDER/GRANULAAT, ORAAL | 1.22711100 per stuk |
+| STRONTIUM RANELATE-2000-MG-POEDER/GRANULAAT, ORAAL | STRONTIUM RANELATE-2000-MG-POEDER/GRANULAAT, ORAAL | 1.23548400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/04/288/003 | Protelos granulaat 2g in sachet |   |
 | Productgroep |   | Maximumprijs |
-| SULFADIAZINE-10-MG/G-CREME, CUTAAN | SULFADIAZINE-10-MG/G-CREME, CUTAAN | 0.07490800 per g |
+| SUCRALFATE-1000-MG-POEDER/GRANULAAT, ORAAL | SUCRALFATE-1000-MG-POEDER/GRANULAAT, ORAAL | 0.19345500 per sachet |
+| Registratienummer | Artikelnaam |   |
+| 17346 | Sucralfaat pch granulaat 1g in sachet |   |
+| 21870=17346 | Sucralfaat apotex granulaat 1g in sachet |   |
+| 9132 | Ulcogant granulaat 1000mg in sachet |   |
+| Productgroep |   | Maximumprijs |
+| SUCRALFATE-1000-MG-TABLET | SUCRALFATE-1000-MG-TABLET | 0.16173100 per stuk |
+| Registratienummer | Artikelnaam |   |
+| 12882 | Sucralfaat sandoz tablet 1000mg |   |
+| 14516=12882 | Sucralfaat rp tablet 1000mg |   |
+| 9131 | Ulcogant tablet 1000mg |   |
+| Productgroep |   | Maximumprijs |
+| SUCRALFATE-200-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | SUCRALFATE-200-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.03546600 per ml |
+| Registratienummer | Artikelnaam |   |
+| 102319/11079 | Ulcogant suspensie 200mg/ml in zakje 5ml |   |
+| 11079 | Ulcogant suspensie 200mg/ml in zakje 5ml |   |
+| 11079 | Ulcogant suspensie 200mg/ml |   |
+| 16859 | Sucralfaat sandoz suspensie 200mg/ml in zakje 5ml |   |
+| 22879/11079 | Ulcogant suspensie 200mg/ml in zakje 5ml |   |
+| Productgroep |   | Maximumprijs |
+| SULCONAZOLE-10-MG/ML-APPLICATIEVLOEISTOF, VOOR CUTAAN GEBRUIK | SULCONAZOLE-10-MG/ML-APPLICATIEVLOEISTOF, VOOR CUTAAN GEBRUIK | 0.16328600 per ml |
+| Registratienummer | Artikelnaam |   |
+| 18384 | Myk 1 lotion 10mg/ml |   |
+| Productgroep |   | Maximumprijs |
+| SULFADIAZINE-10-MG/G-CREME, CUTAAN | SULFADIAZINE-10-MG/G-CREME, CUTAAN | 0.08523300 per g |
 | Registratienummer | Artikelnaam |   |
 | 6705 | Flammazine creme 10mg/g |   |
 | Productgroep |   | Maximumprijs |
-| SULFASALAZINE-500-MG-TABLET, MAAGSAPRESISTENT | SULFASALAZINE-500-MG-TABLET, MAAGSAPRESISTENT | 0.14587200 per stuk |
+| SULFASALAZINE-500-MG-TABLET, MAAGSAPRESISTENT | SULFASALAZINE-500-MG-TABLET, MAAGSAPRESISTENT | 0.14373000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 5705 | Salazopyrine tablet 500mg enteric coated |   |
 | 57373=9645 | Sulfasalazine cf tablet msr 500mg |   |
 | 9645 | Sulfasalazine pch tablet msr 500mg |   |
 | Productgroep |   | Maximumprijs |
-| SULINDAC-100-MG-TABLET | SULINDAC-100-MG-TABLET | 0.24750600 per stuk |
+| SULINDAC-100-MG-TABLET | SULINDAC-100-MG-TABLET | 0.25521700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15028 | Sulindac rp tablet 100mg |   |
 | 57401 | Sulindac pch tablet 100mg |   |
 | Productgroep |   | Maximumprijs |
-| SULINDAC-200-MG-TABLET | SULINDAC-200-MG-TABLET | 0.50647600 per stuk |
+| SULINDAC-200-MG-TABLET | SULINDAC-200-MG-TABLET | 0.52232600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15029 | Sulindac rp tablet 200mg |   |
 | 57402 | Sulindac pch tablet 200mg |   |
@@ -8039,26 +8314,26 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | Registratienummer | Artikelnaam |   |
 | 6278 | Dogmatil drank 5mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| SULPIRIDE-50-MG-CAPSULE | SULPIRIDE-50-MG-CAPSULE | 0.12563100 per stuk |
+| SULPIRIDE-50-MG-CAPSULE | SULPIRIDE-50-MG-CAPSULE | 0.12596500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 14701/6279 | Dogmatil capsule 50mg |   |
 | 26835/6279 | Dogmatil capsule 50mg |   |
 | 29623/6279 | Dogmatil capsule 50mg |   |
 | 6279 | Dogmatil capsule 50mg |   |
 | Productgroep |   | Maximumprijs |
-| SUMATRIPTAN-10-MG-NEUSSPRAY | SUMATRIPTAN-10-MG-NEUSSPRAY | 6.05233500 per stuk |
+| SUMATRIPTAN-10-MG-NEUSSPRAY | SUMATRIPTAN-10-MG-NEUSSPRAY | 6.14459700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 19469 | Imigran neusspray 10mg |   |
 | Productgroep |   | Maximumprijs |
-| SUMATRIPTAN-100-MG-BRUISTABLET | SUMATRIPTAN-100-MG-BRUISTABLET | 7.12278900 per stuk |
+| SUMATRIPTAN-100-MG-BRUISTABLET | SUMATRIPTAN-100-MG-BRUISTABLET | 7.27186600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 101000/29414 | Imigran ftab dispergeerbare tablet 100mg |   |
 | 29414 | Imigran ftab dispergeerbare tablet 100mg |   |
 | 32687/29414 | Imigran ftab tablet filmomhuld 100mg |   |
 | Productgroep |   | Maximumprijs |
-| SUMATRIPTAN-100-MG-TABLET | SUMATRIPTAN-100-MG-TABLET | 3.18301100 per stuk |
+| SUMATRIPTAN-100-MG-TABLET | SUMATRIPTAN-100-MG-TABLET | 2.55200600 per stuk |
 | Registratienummer | Artikelnaam |   |
-| 30623 | Sumatriptan merck tablet omhuld 100mg |   |
+| 30623 | Sumatriptan mylan tablet omhuld 100mg |   |
 | 31077 | Sumatriptan sandoz tablet omhuld 100mg |   |
 | 31900 | Sumatriptan pch tablet omhuld 100mg |   |
 | 33389 | Sumatriptan rp tablet omhuld 100mg |   |
@@ -8068,7 +8343,27 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 33697 | Sumatriptan a tablet 100mg |   |
 | 33719 | Sumatriptan cf tablet 100mg |   |
 | Productgroep |   | Maximumprijs |
-| SUMATRIPTAN-20-MG-NEUSSPRAY | SUMATRIPTAN-20-MG-NEUSSPRAY | 7.39769100 per stuk |
+| SUMATRIPTAN-12-MG/ML-INJ.VLOEISTOF, WWSP | SUMATRIPTAN-12-MG/ML-INJ.VLOEISTOF, WWSP | 47.86174200 per ml |
+| Registratienummer | Artikelnaam |   |
+| 100171/15009 | Imigran injvlst 12mg/ml penfillpatr 0,5ml+glaxopen |   |
+| 103119/15009 | Imigran injvlst 12mg/ml penfillpatr 0,5ml |   |
+| 15009 | Imigran injvlst 12mg/ml penfillpatr 0,5ml |   |
+| 15009 | Imigran injvlst 12mg/ml penfillpatr 0,5ml+glaxopen |   |
+| 21609/15009 | Imigran injvlst 12mg/ml penfillpatr 0,5ml+glaxopen |   |
+| 22205/15009 | Imigran injvlst 12mg/ml penfillpatr 0,5ml+glaxopen |   |
+| 23813/15009 | Imigran injvlst 12mg/ml penfillpatr 0,5ml |   |
+| 23813/15009 | Imigran injvlst 12mg/ml penfillpatr 0,5ml+glaxopen |   |
+| 24322/15009 | Imigran injvlst 12mg/ml penfillpatr 0,5ml+glaxopen |   |
+| 24322/15009 | Imigran injvlst 12mg/ml penfillpatr 0,5ml |   |
+| 26130/15009 | Imigran injvlst 12mg/ml penfillpatr 0,5ml |   |
+| 26130/15009 | Imigran injvlst 12mg/ml penfillpatr 0,5ml+glaxopen |   |
+| 26313/15009 | Imigran injvlst 12mg/ml penfillpatr 0,5ml |   |
+| 26313/15009 | Imigran injvlst 12mg/ml penfillpatr 0,5ml+glaxopen |   |
+| 26399/15009 | Imigran injvlst 12mg/ml penfillpatr 0,5ml+glaxopen |   |
+| 26399/15009 | Imigran injvlst 12mg/ml penfillpatr 0,5ml |   |
+| 33184/15009 | Imigran injvlst 12mg/ml penfillpatr 0,5ml+glaxopen |   |
+| Productgroep |   | Maximumprijs |
+| SUMATRIPTAN-20-MG-NEUSSPRAY | SUMATRIPTAN-20-MG-NEUSSPRAY | 7.48992600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 19470 | Imigran neusspray 20mg |   |
 | 24917/19470 | Imigran neusspray 20mg |   |
@@ -8077,14 +8372,14 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | Registratienummer | Artikelnaam |   |
 | 19853 | Imigran zetpil 25mg |   |
 | Productgroep |   | Maximumprijs |
-| SUMATRIPTAN-50-MG-BRUISTABLET | SUMATRIPTAN-50-MG-BRUISTABLET | 4.38023400 per stuk |
+| SUMATRIPTAN-50-MG-BRUISTABLET | SUMATRIPTAN-50-MG-BRUISTABLET | 4.46328700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 101372/29413 | Imigran ftab dispergeerbare tablet 50mg |   |
 | 29413 | Imigran ftab dispergeerbare tablet 50mg |   |
 | Productgroep |   | Maximumprijs |
-| SUMATRIPTAN-50-MG-TABLET | SUMATRIPTAN-50-MG-TABLET | 2.30895800 per stuk |
+| SUMATRIPTAN-50-MG-TABLET | SUMATRIPTAN-50-MG-TABLET | 2.10813300 per stuk |
 | Registratienummer | Artikelnaam |   |
-| 30622 | Sumatriptan merck tablet omhuld 50mg |   |
+| 30622 | Sumatriptan mylan tablet omhuld 50mg |   |
 | 31076 | Sumatriptan sandoz tablet omhuld 50mg |   |
 | 31899 | Sumatriptan pch tablet omhuld 50mg |   |
 | 33388 | Sumatriptan rp tablet omhuld 50mg |   |
@@ -8094,24 +8389,24 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 33696 | Sumatriptan a tablet 50mg |   |
 | 33718 | Sumatriptan cf tablet 50mg |   |
 | Productgroep |   | Maximumprijs |
-| SUNITINIB-12.5-MG-CAPSULE | SUNITINIB-12.5-MG-CAPSULE | 42.27403200 per stuk |
+| SUNITINIB-12.5-MG-CAPSULE | SUNITINIB-12.5-MG-CAPSULE | 43.56216300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/06/347/004 | Sutent capsule 12,5mg |   |
 | Productgroep |   | Maximumprijs |
-| SUNITINIB-25-MG-CAPSULE | SUNITINIB-25-MG-CAPSULE | 83.73798600 per stuk |
+| SUNITINIB-25-MG-CAPSULE | SUNITINIB-25-MG-CAPSULE | 85.76512000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/06/347/005 | Sutent capsule 25mg |   |
 | Productgroep |   | Maximumprijs |
-| SUNITINIB-50-MG-CAPSULE | SUNITINIB-50-MG-CAPSULE | 166.66303500 per stuk |
+| SUNITINIB-50-MG-CAPSULE | SUNITINIB-50-MG-CAPSULE | 170.17051800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/06/347/006 | Sutent capsule 50mg |   |
 | Productgroep |   | Maximumprijs |
-| TACROLIMUS-.3-MG/G-ZALF, CUTAAN | TACROLIMUS-.3-MG/G-ZALF, CUTAAN | 0.87542600 per g |
+| TACROLIMUS-.3-MG/G-ZALF, CUTAAN | TACROLIMUS-.3-MG/G-ZALF, CUTAAN | 0.88505300 per g |
 | Registratienummer | Artikelnaam |   |
 | EU/1/02/201/001 | Protopic zalf 0,3mg/g |   |
 | EU/1/02/201/002 | Protopic zalf 0,3mg/g |   |
 | Productgroep |   | Maximumprijs |
-| TACROLIMUS-.5-MG-CAPSULE | TACROLIMUS-.5-MG-CAPSULE | 1.72036800 per stuk |
+| TACROLIMUS-.5-MG-CAPSULE | TACROLIMUS-.5-MG-CAPSULE | 1.73682100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 22236 | Prograft capsule 0,5mg |   |
 | 31056/22236 | Prograf capsule 0,5mg |   |
@@ -8119,12 +8414,12 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 34285/22236 | Prograf capsule 0,5mg |   |
 | 35214/22236 | Prograf capsule 0,5mg |   |
 | Productgroep |   | Maximumprijs |
-| TACROLIMUS-0.5-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | TACROLIMUS-0.5-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 1.57487300 per stuk |
+| TACROLIMUS-0.5-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | TACROLIMUS-0.5-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 1.58055000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/07/387/001 | Advagraf capsule mva 0,5mg |   |
 | EU/1/07/387/002 | Advagraf capsule mva 0,5mg |   |
 | Productgroep |   | Maximumprijs |
-| TACROLIMUS-1-MG-CAPSULE | TACROLIMUS-1-MG-CAPSULE | 2.57402200 per stuk |
+| TACROLIMUS-1-MG-CAPSULE | TACROLIMUS-1-MG-CAPSULE | 2.59963300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 18107 | Prograft capsule 1mg |   |
 | 24844/18107 | Prograf capsule 1mg |   |
@@ -8138,18 +8433,18 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 33537/18107 | Prograf capsule 1mg |   |
 | 34286/18107 | Prograf capsule 1mg |   |
 | Productgroep |   | Maximumprijs |
-| TACROLIMUS-1-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | TACROLIMUS-1-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 2.62654600 per stuk |
+| TACROLIMUS-1-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | TACROLIMUS-1-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 2.68031000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/07/387/003 | Advagraf capsule mva 1mg |   |
 | EU/1/07/387/004 | Advagraf capsule mva 1mg |   |
 | EU/1/07/387/005 | Advagraf capsule mva 1mg |   |
 | Productgroep |   | Maximumprijs |
-| TACROLIMUS-1-MG/G-ZALF, CUTAAN | TACROLIMUS-1-MG/G-ZALF, CUTAAN | 0.98713300 per g |
+| TACROLIMUS-1-MG/G-ZALF, CUTAAN | TACROLIMUS-1-MG/G-ZALF, CUTAAN | 0.99734500 per g |
 | Registratienummer | Artikelnaam |   |
 | EU/1/02/201/003 | Protopic zalf 1mg/g |   |
 | EU/1/02/201/004 | Protopic zalf 1mg/g |   |
 | Productgroep |   | Maximumprijs |
-| TACROLIMUS-5-MG-CAPSULE | TACROLIMUS-5-MG-CAPSULE | 10.79624300 per stuk |
+| TACROLIMUS-5-MG-CAPSULE | TACROLIMUS-5-MG-CAPSULE | 10.89086900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 18108 | Prograft capsule 5mg |   |
 | 25637/18108 | Prograf capsule 5mg |   |
@@ -8157,28 +8452,27 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 28156/18108 | Prograf capsule 5mg |   |
 | 28994/18108 | Prograf capsule 5mg |   |
 | 30942/18108 | Prograft capsule 5mg |   |
-| 31080/18108 | Prograf capsule 5mg |   |
 | 32536/18108 | Prograf capsule 5mg |   |
 | 32856/18108 | Prograf capsule 5mg |   |
 | 33232/18108 | Prograf capsule 5mg |   |
 | Productgroep |   | Maximumprijs |
-| TACROLIMUS-5-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | TACROLIMUS-5-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 12.38347800 per stuk |
+| TACROLIMUS-5-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | TACROLIMUS-5-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 12.50430100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/07/387/007 | Advagraf capsule mva 5mg |   |
 | EU/1/07/387/008 | Advagraf capsule mva 5mg |   |
 | Productgroep |   | Maximumprijs |
-| TAMOXIFEN-10-MG-TABLET | TAMOXIFEN-10-MG-TABLET | 0.13607800 per stuk |
+| TAMOXIFEN-10-MG-TABLET | TAMOXIFEN-10-MG-TABLET | 0.13391300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11197 | Tamoxifen rp tablet 10mg |   |
 | 16766 | Tamoxifen sandoz tablet 10mg |   |
 | 17115=9322 | Tamoxifen actavis tablet 10mg |   |
 | 20283=11197 | Tamoxifen a tablet 10mg |   |
-| 24076=11197 | Tamoxifen merck tablet 10mg |   |
+| 24076=11197 | Tamoxifen mylan tablet 10mg |   |
 | 56633 | Tamoxifen cf tablet 10mg |   |
 | 6971 | Nolvadex tablet 10mg |   |
 | 9322 | Tamoxifen pch tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| TAMOXIFEN-20-MG-TABLET | TAMOXIFEN-20-MG-TABLET | 0.25105500 per stuk |
+| TAMOXIFEN-20-MG-TABLET | TAMOXIFEN-20-MG-TABLET | 0.24212400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10635 | Tamoxifen pch tablet 20mg |   |
 | 11198 | Tamoxifen rp tablet 20mg |   |
@@ -8186,16 +8480,15 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 17116=10635 | Tamoxifen actavis tablet 20mg |   |
 | 20284=11198 | Tamoxifen a tablet 20mg |   |
 | 24006=11198 | Tamoxifen katwijk tablet 20mg |   |
-| 24077=11198 | Tamoxifen merck tablet 20mg |   |
+| 24077=11198 | Tamoxifen mylan tablet 20mg |   |
 | 56634 | Tamoxifen cf tablet 20mg |   |
 | Productgroep |   | Maximumprijs |
-| TAMOXIFEN-30-MG-TABLET | TAMOXIFEN-30-MG-TABLET | 0.33301300 per stuk |
+| TAMOXIFEN-30-MG-TABLET | TAMOXIFEN-30-MG-TABLET | 0.34028200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12189 | Tamoxifen pch tablet 30mg |   |
 | 16768 | Tamoxifen sandoz tablet 30mg |   |
-| 17117=12189 | Tamoxifen actavis tablet 30mg |   |
 | Productgroep |   | Maximumprijs |
-| TAMOXIFEN-40-MG-TABLET | TAMOXIFEN-40-MG-TABLET | 0.27980000 per stuk |
+| TAMOXIFEN-40-MG-TABLET | TAMOXIFEN-40-MG-TABLET | 0.31825800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12190 | Tamoxifen pch tablet 40mg |   |
 | 16102 | Tamoxifen rp tablet 40mg |   |
@@ -8204,11 +8497,10 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 17420 | Tamoxifen cf tablet 40mg |   |
 | 20285=16102 | Tamoxifen a tablet 40mg |   |
 | 24007=16102 | Tamoxifen katwijk tablet 40mg |   |
-| 24078=16102 | Tamoxifen merck tablet 40mg |   |
+| 24078=16102 | Tamoxifen mylan tablet 40mg |   |
 | Productgroep |   | Maximumprijs |
-| TAMSULOSIN-.4-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | TAMSULOSIN-.4-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.26617700 per stuk |
+| TAMSULOSIN-.4-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | TAMSULOSIN-.4-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.25666300 per stuk |
 | Registratienummer | Artikelnaam |   |
-| 32577 | Tamsulosine hcl merck retard capsule mga 0,4mg |   |
 | 32577 | Tamsulosine hcl mylan retard capsule mga 0,4mg |   |
 | 32578 | Tamsulosine hcl a retard capsule mga 0,4mg |   |
 | 32579 | Tamsulosine hcl sandoz retard capsule mga 0,4mg |   |
@@ -8218,20 +8510,20 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 32690 | Tamsulosine hcl rp capsule mga 0,4mg |   |
 | 33595 | Tamsulosine hcl katwijk retard capsule mga 0,4mg |   |
 | Productgroep |   | Maximumprijs |
-| TAMSULOSIN-.4-MG-TABLET, MET GEREGULEERDE AFGIFTE | TAMSULOSIN-.4-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.57642600 per stuk |
+| TAMSULOSIN-.4-MG-TABLET, MET GEREGULEERDE AFGIFTE | TAMSULOSIN-.4-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.56516800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 30565 | Omnic ocas tablet mva 0,4mg |   |
 | 34559/30565 | Omnic ocas tablet mva 0,4mg |   |
 | Productgroep |   | Maximumprijs |
-| TEGAFUR-100-MG-CAPSULE-URACIL-224-MG-CAPSULE | TEGAFUR-100-MG-CAPSULE-URACIL-224-MG-CAPSULE | 5.43788700 per stuk |
+| TEGAFUR-100-MG-CAPSULE-URACIL-224-MG-CAPSULE | TEGAFUR-100-MG-CAPSULE-URACIL-224-MG-CAPSULE | 4.70380500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 25659 | Uft capsule 100/224mg |   |
 | Productgroep |   | Maximumprijs |
-| TELBIVUDINE-600-MG-TABLET | TELBIVUDINE-600-MG-TABLET | 13.03307900 per stuk |
+| TELBIVUDINE-600-MG-TABLET | TELBIVUDINE-600-MG-TABLET | 13.24927100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/07/388/001 | Sebivo tablet filmomhuld 600mg |   |
 | Productgroep |   | Maximumprijs |
-| TELMISARTAN-40-MG-TABLET | TELMISARTAN-40-MG-TABLET | 0.62591700 per stuk |
+| TELMISARTAN-40-MG-TABLET | TELMISARTAN-40-MG-TABLET | 0.62603700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/98/090/001 | Micardis tablet 40mg |   |
 | EU/1/98/090/002 | Micardis tablet 40mg |   |
@@ -8239,7 +8531,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | EU/1/98/091/002 | Kinzalmono tablet 40mg |   |
 | EU/1/98/091/013 | Kinzalmono tablet 40mg |   |
 | Productgroep |   | Maximumprijs |
-| TELMISARTAN-80-MG-TABLET | TELMISARTAN-80-MG-TABLET | 0.76288700 per stuk |
+| TELMISARTAN-80-MG-TABLET | TELMISARTAN-80-MG-TABLET | 0.75981000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/98/090/005 | Micardis tablet 80mg |   |
 | EU/1/98/090/006 | Micardis tablet 80mg |   |
@@ -8247,83 +8539,89 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | EU/1/98/091/006 | Kinzalmono tablet 80mg |   |
 | EU/1/98/091/014 | Kinzalmono tablet 80mg |   |
 | Productgroep |   | Maximumprijs |
-| TEMAZEPAM-10-MG-TABLET | TEMAZEPAM-10-MG-TABLET | 0.10482900 per stuk |
+| TEMAZEPAM-10-MG-TABLET | TEMAZEPAM-10-MG-TABLET | 0.07616400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 14354 | Temazepam katwijk tablet 10mg |   |
+| 14354 | Temazepam apotex tablet 10mg |   |
 | 23363=14354 | Temazepam pch tablet 10mg |   |
 | 25505=14356 | Temazepam rp tablet 10mg |   |
 | 26890=14356 | Temazepam a tablet 10mg |   |
 | 28071=14356 | Temazepam cf tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| TEMAZEPAM-20-MG-TABLET | TEMAZEPAM-20-MG-TABLET | 0.12207300 per stuk |
+| TEMAZEPAM-20-MG-TABLET | TEMAZEPAM-20-MG-TABLET | 0.12427500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 14355 | Temazepam katwijk tablet 20mg |   |
+| 14355 | Temazepam apotex tablet 20mg |   |
 | 23364=14355 | Temazepam pch tablet 20mg |   |
 | 25506=14357 | Temazepam rp tablet 20mg |   |
 | 26891=14357 | Temazepam a tablet 20mg |   |
 | 28072=14357 | Temazepam cf tablet 20mg |   |
 | Productgroep |   | Maximumprijs |
-| TEMOZOLOMIDE-100-MG-CAPSULE | TEMOZOLOMIDE-100-MG-CAPSULE | 103.63549500 per stuk |
+| TEMOZOLOMIDE-100-MG-CAPSULE | TEMOZOLOMIDE-100-MG-CAPSULE | 108.32480900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/98/096/005 | Temodal capsule 100mg |   |
 | EU/1/98/096/015 | Temodal capsule 100mg |   |
 | Productgroep |   | Maximumprijs |
-| TEMOZOLOMIDE-140-MG-CAPSULE | TEMOZOLOMIDE-140-MG-CAPSULE | 144.08021000 per stuk |
+| TEMOZOLOMIDE-140-MG-CAPSULE | TEMOZOLOMIDE-140-MG-CAPSULE | 151.33096000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/98/096/009 | Temodal capsule 140mg |   |
 | EU/1/98/096/017 | Temodal capsule 140mg |   |
 | Productgroep |   | Maximumprijs |
-| TEMOZOLOMIDE-180-MG-CAPSULE | TEMOZOLOMIDE-180-MG-CAPSULE | 184.64377000 per stuk |
+| TEMOZOLOMIDE-180-MG-CAPSULE | TEMOZOLOMIDE-180-MG-CAPSULE | 191.96736000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/98/096/011 | Temodal capsule 180mg |   |
 | EU/1/98/096/019 | Temodal capsule 180mg |   |
 | Productgroep |   | Maximumprijs |
-| TEMOZOLOMIDE-20-MG-CAPSULE | TEMOZOLOMIDE-20-MG-CAPSULE | 21.19971800 per stuk |
+| TEMOZOLOMIDE-20-MG-CAPSULE | TEMOZOLOMIDE-20-MG-CAPSULE | 22.58100500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/98/096/003 | Temodal capsule 20mg |   |
 | EU/1/98/096/013 | Temodal capsule 20mg |   |
 | Productgroep |   | Maximumprijs |
-| TEMOZOLOMIDE-250-MG-CAPSULE | TEMOZOLOMIDE-250-MG-CAPSULE | 256.73370600 per stuk |
+| TEMOZOLOMIDE-250-MG-CAPSULE | TEMOZOLOMIDE-250-MG-CAPSULE | 266.67413100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/98/096/007 | Temodal capsule 250mg |   |
 | EU/1/98/096/021 | Temodal capsule 250mg |   |
 | Productgroep |   | Maximumprijs |
-| TEMOZOLOMIDE-5-MG-CAPSULE | TEMOZOLOMIDE-5-MG-CAPSULE | 5.19106100 per stuk |
+| TEMOZOLOMIDE-5-MG-CAPSULE | TEMOZOLOMIDE-5-MG-CAPSULE | 5.73848800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/98/096/001 | Temodal capsule 5mg |   |
 | Productgroep |   | Maximumprijs |
-| TENOFOVIR-245-MG-TABLET | TENOFOVIR-245-MG-TABLET | 12.13728400 per stuk |
+| TEMSIROLIMUS-25-MG/ML-INFUUSVLOEISTOF, FLACON | TEMSIROLIMUS-25-MG/ML-INFUUSVLOEISTOF, FLACON | 724.56746500 per ml |
+| Registratienummer | Artikelnaam |   |
+| EU/1/07/424/001 | Torisel infvlst conc 25mg/ml flacon 1,2ml + solv |   |
+| Productgroep |   | Maximumprijs |
+| TENOFOVIR-245-MG-TABLET | TENOFOVIR-245-MG-TABLET | 12.25554000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/01/200/001 | Viread tablet filmomhuld 245mg |   |
 | Productgroep |   | Maximumprijs |
-| TENOFOVIR-245-MG-TABLET-EMTRICITABINE-200-MG-TABLET | TENOFOVIR-245-MG-TABLET-EMTRICITABINE-200-MG-TABLET | 18.15909500 per stuk |
+| TENOFOVIR-245-MG-TABLET-EMTRICITABINE-200-MG-TABLET | TENOFOVIR-245-MG-TABLET-EMTRICITABINE-200-MG-TABLET | 18.39125200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/04/305/001 | Truvada tablet filmomhuld |   |
 | Productgroep |   | Maximumprijs |
-| TERAZOSIN-10-MG-TABLET | TERAZOSIN-10-MG-TABLET | 0.47849400 per stuk |
+| TERAZOSIN-10-MG-TABLET | TERAZOSIN-10-MG-TABLET | 0.48658800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 14561 | Hytrin tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| TERAZOSIN-2-MG-TABLET | TERAZOSIN-2-MG-TABLET | 0.18084300 per stuk |
+| TERAZOSIN-2-MG-TABLET | TERAZOSIN-2-MG-TABLET | 0.18144600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 14559 | Hytrin tablet 2mg |   |
 | 26357 | Terazosine pch tablet 2mg |   |
 | 31396 | Terazosine sandoz tablet 2mg |   |
 | Productgroep |   | Maximumprijs |
-| TERAZOSIN-5-MG-TABLET | TERAZOSIN-5-MG-TABLET | 0.33842300 per stuk |
+| TERAZOSIN-5-MG-TABLET | TERAZOSIN-5-MG-TABLET | 0.34151000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 14560 | Hytrin tablet 5mg |   |
 | 26358 | Terazosine pch tablet 5mg |   |
 | 31397 | Terazosine sandoz tablet 5mg |   |
 | Productgroep |   | Maximumprijs |
-| TERBINAFINE-10-MG/G-HUIDGEL | TERBINAFINE-10-MG/G-HUIDGEL | 0.31781500 per g |
+| TERBINAFINE-10-MG/G-HUIDGEL | TERBINAFINE-10-MG/G-HUIDGEL | 0.32429700 per g |
 | Registratienummer | Artikelnaam |   |
 | 24945 | Lamisil dermgel 10mg/g |   |
 | Productgroep |   | Maximumprijs |
-| TERBINAFINE-250-MG-TABLET | TERBINAFINE-250-MG-TABLET | 0.83179100 per stuk |
+| TERBINAFINE-250-MG-TABLET | TERBINAFINE-250-MG-TABLET | 0.82105400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 14842 | Lamisil tablet 250mg |   |
-| 28796 | Terbinafine merck tablet 250mg |   |
+| 28796 | Terbinafine mylan tablet 250mg |   |
 | 29426 | Terbinafine rp tablet 250mg |   |
 | 29654 | Terbinafine pch tablet 250mg |   |
 | 29749 | Terbinafine cf tablet 250mg |   |
@@ -8332,7 +8630,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 32777 | Terbinafine actavis tablet 250mg |   |
 | 33250/14842 | Terbinafine tablet 250mg |   |
 | Productgroep |   | Maximumprijs |
-| TERBUTALINE-.5-MG-INHALATIEPOEDER INCL INHALER | TERBUTALINE-.5-MG-INHALATIEPOEDER INCL INHALER | 0.06049500 per dosis |
+| TERBUTALINE-.5-MG-INHALATIEPOEDER INCL INHALER | TERBUTALINE-.5-MG-INHALATIEPOEDER INCL INHALER | 0.06152700 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 101219/12480 | Bricanyl turbuhaler inhalpdr 0,5mg/do 200do |   |
 | 101220/12480 | Bricanyl turbuhaler inhalpdr 0,5mg/do 200do |   |
@@ -8348,9 +8646,8 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 30123/12480 | Bricanyl turbuhaler inhalpdr 0,5mg/do 200do |   |
 | 30957/12480 | Bricanyl turbuhaler inhalpdr 0,5mg/do 200do |   |
 | Productgroep |   | Maximumprijs |
-| TESTOSTERONE-10-MG/G-HUIDGEL | TESTOSTERONE-10-MG/G-HUIDGEL | 0.29339700 per g |
+| TESTOSTERONE-10-MG/G-HUIDGEL | TESTOSTERONE-10-MG/G-HUIDGEL | 0.29670100 per g |
 | Registratienummer | Artikelnaam |   |
-| 100497/27741 | Androgel gel 50mg in sachet |   |
 | 102675/30653 | Testim gel 10mg/g tube 5g |   |
 | 103526/27741 | Androgel gel 50mg in sachet |   |
 | 103527/27741 | Androgel gel 50mg in sachet |   |
@@ -8360,38 +8657,43 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 33870/27741 | Androgel gel 50mg in sachet |   |
 | 34266/27741 | Androgel gel 50mg in sachet |   |
 | Productgroep |   | Maximumprijs |
-| TESTOSTERONE-20-MG/G-HUIDGEL | TESTOSTERONE-20-MG/G-HUIDGEL | 0.65917900 per g |
+| TESTOSTERONE-20-MG/G-HUIDGEL | TESTOSTERONE-20-MG/G-HUIDGEL | 0.66613000 per g |
 | Registratienummer | Artikelnaam |   |
 | 33424 | Tostran gel 20mg/g |   |
 | Productgroep |   | Maximumprijs |
-| TESTOSTERONE-40-MG-CAPSULE | TESTOSTERONE-40-MG-CAPSULE | 0.33246600 per stuk |
+| TESTOSTERONE-40-MG-CAPSULE | TESTOSTERONE-40-MG-CAPSULE | 0.33933900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 23347/7531 | Andriol capsule 40mg |   |
 | 25497/7531 | Andriol capsule 40mg |   |
 | 26477/7531 | Andriol capsule 40mg |   |
 | 7531 | Andriol testocaps capsule 40mg |   |
 | Productgroep |   | Maximumprijs |
-| THEOPHYLLINE-250-MG-TABLET, MET GEREGULEERDE AFGIFTE | THEOPHYLLINE-250-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.07523400 per stuk |
+| TETRABENAZINE-25-MG-TABLET | TETRABENAZINE-25-MG-TABLET | 1.36179700 per stuk |
+| Registratienummer | Artikelnaam |   |
+| 29852 | Xenazine tablet 25mg |   |
+| Productgroep |   | Maximumprijs |
+| THEOPHYLLINE-250-MG-TABLET, MET GEREGULEERDE AFGIFTE | THEOPHYLLINE-250-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.07306700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 8391 | Theolair retard tablet mga 250mg |   |
 | 9849/8391 | Theolair la tablet mga 250mg |   |
 | Productgroep |   | Maximumprijs |
-| THIAMAZOLE-10-MG-TABLET | THIAMAZOLE-10-MG-TABLET | 0.05194500 per stuk |
+| THIAMAZOLE-10-MG-TABLET | THIAMAZOLE-10-MG-TABLET | 0.06574100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 2224 | Strumazol tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| TIAPRIDE-100-MG-TABLET | TIAPRIDE-100-MG-TABLET | 0.21859700 per stuk |
+| TIAPRIDE-100-MG-TABLET | TIAPRIDE-100-MG-TABLET | 0.20819800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 18757/7613 | Tiapridal tablet 100mg |   |
 | 7613 | Tiapridal tablet 100mg |   |
 | Productgroep |   | Maximumprijs |
-| TIAPROFENIC ACID-300-MG-TABLET | TIAPROFENIC ACID-300-MG-TABLET | 0.25512700 per stuk |
+| TIAPROFENIC ACID-300-MG-TABLET | TIAPROFENIC ACID-300-MG-TABLET | 0.26347600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 9729 | Surgam tablet 300mg |   |
 | Productgroep |   | Maximumprijs |
-| TIBOLONE-2.5-MG-TABLET | TIBOLONE-2.5-MG-TABLET | 0.63048400 per stuk |
+| TIBOLONE-2.5-MG-TABLET | TIBOLONE-2.5-MG-TABLET | 0.63638100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 104593/11146 | Livial tablet 2,5mg |   |
+| 105209/11146 | Livial tablet 2,5mg |   |
 | 11146 | Livial tablet 2,5mg |   |
 | 22656/11146 | Livial tablet 2,5mg |   |
 | 23402/11146 | Livial tablet 2,5mg |   |
@@ -8399,20 +8701,24 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 29583/11146 | Livial tablet 2,5mg |   |
 | 34500/11146 | Livial tablet 2,5mg |   |
 | Productgroep |   | Maximumprijs |
-| TILUDRONIC ACID-200-MG-TABLET | TILUDRONIC ACID-200-MG-TABLET | 4.07810100 per stuk |
+| TILUDRONIC ACID-200-MG-TABLET | TILUDRONIC ACID-200-MG-TABLET | 3.99528500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 17302 | Skelid tablet 200mg |   |
 | Productgroep |   | Maximumprijs |
-| TIMOLOL-1-MG/G-OOGGEL | TIMOLOL-1-MG/G-OOGGEL | 0.70021400 per ml |
+| TIMOLOL-1-MG/G-OOGGEL | TIMOLOL-1-MG/G-OOGGEL | 0.70912700 per ml |
 | Registratienummer | Artikelnaam |   |
-| 25176 | Nyogel ooggel 1mg/g flacon 5ml |   |
+| 25716 | Nyogel ooggel 1mg/g flacon 5ml |   |
 | Productgroep |   | Maximumprijs |
-| TIMOLOL-1-MG/ML-OOGDRUPPELS | TIMOLOL-1-MG/ML-OOGDRUPPELS | 0.55270000 per ml |
+| TIMOLOL-1-MG/G-OOGGEL UNITDOSE | TIMOLOL-1-MG/G-OOGGEL UNITDOSE | 0.53053000 per g |
+| Registratienummer | Artikelnaam |   |
+| 33801 | Timogel ooggel 1mg/g tube 0,4g |   |
+| Productgroep |   | Maximumprijs |
+| TIMOLOL-1-MG/ML-OOGDRUPPELS | TIMOLOL-1-MG/ML-OOGDRUPPELS | 0.55190000 per ml |
 | Registratienummer | Artikelnaam |   |
 | 15045 | Timolol pch oogdruppels 1mg/ml flacon 5ml |   |
 | 57607 | Timolol sandoz oogdruppels 1mg/ml flacon 5ml |   |
 | Productgroep |   | Maximumprijs |
-| TIMOLOL-2.5-MG/ML-OOGDRUPPELS | TIMOLOL-2.5-MG/ML-OOGDRUPPELS | 0.57873700 per ml |
+| TIMOLOL-2.5-MG/ML-OOGDRUPPELS | TIMOLOL-2.5-MG/ML-OOGDRUPPELS | 0.57412500 per ml |
 | Registratienummer | Artikelnaam |   |
 | 15699 | Timolol pch oogdruppels 2,5mg/ml flacon 5ml |   |
 | 18821=57497 | Timolol rp oogdruppels 2,5mg/ml flacon 5ml |   |
@@ -8420,49 +8726,53 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 21351=56895 | Timolol actavis oogdruppels 2,5mg/ml flacon 5ml |   |
 | 21644 | Timo-comod oogdruppels 2,5mg/ml flacon 10ml |   |
 | 34842 | Timolol a oogdruppels 2,5mg/ml flacon 5ml |   |
+| 35126 | Timolol mylan oogdruppels 2,5mg/ml flacon 5ml |   |
 | 56895 | Timolol cf oogdruppels 2,5mg/ml flacon 5ml |   |
 | 57323 | Timolol oogdruppels 2,5mg/ml flacon 5ml |   |
 | 57608 | Timolol sandoz oogdruppels 2,5mg/ml flacon 5ml |   |
-| 7630 | Timoptol oogdruppels 2,5mg/ml flacon 5ml |   |
 | Productgroep |   | Maximumprijs |
-| TIMOLOL-2.5-MG/ML-OOGDRUPPELS MET GEREGULEERDE AFGIFTE | TIMOLOL-2.5-MG/ML-OOGDRUPPELS MET GEREGULEERDE AFGIFTE | 1.96158300 per ml |
+| TIMOLOL-2.5-MG/ML-OOGDRUPPELS MET GEREGULEERDE AFGIFTE | TIMOLOL-2.5-MG/ML-OOGDRUPPELS MET GEREGULEERDE AFGIFTE | 2.05761400 per ml |
 | Registratienummer | Artikelnaam |   |
 | 17017 | Timoptol xe oogdruppels 2,5mg/ml flacon 2,5ml |   |
 | Productgroep |   | Maximumprijs |
-| TIMOLOL-5-MG/ML-OOGDRUPPELS | TIMOLOL-5-MG/ML-OOGDRUPPELS | 0.57274100 per ml |
+| TIMOLOL-5-MG/ML-OOGDRUPPELS | TIMOLOL-5-MG/ML-OOGDRUPPELS | 0.58511000 per ml |
 | Registratienummer | Artikelnaam |   |
 | 15700 | Timolol pch oogdruppels 5mg/ml flacon 5ml |   |
 | 20428=57609 | Timolol oogdruppels 5mg/ml flacon 5ml |   |
 | 21352=56896 | Timolol actavis oogdruppels 5mg/ml flacon 5ml |   |
 | 21645 | Timo-comod oogdruppels 5mg/ml flacon 10ml |   |
 | 34843 | Timolol a oogdruppels 5mg/ml flacon 5ml |   |
-| 35127 | Timolol merck oogdruppels 5mg/ml flacon 5ml |   |
+| 35127 | Timolol mylan oogdruppels 5mg/ml flacon 5ml |   |
 | 56896 | Timolol cf oogdruppels 5mg/ml flacon 5ml |   |
 | 57324 | Timolol oogdruppels 5mg/ml flacon 5ml |   |
 | 57498 | Timolol rp oogdruppels 5mg/ml flacon 5ml |   |
 | 57609 | Timolol sandoz oogdruppels 5mg/ml flacon 5ml |   |
-| 7631 | Timoptol oogdruppels 5mg/ml flacon 5ml |   |
 | Productgroep |   | Maximumprijs |
-| TIMOLOL-5-MG/ML-OOGDRUPPELS MET GEREGULEERDE AFGIFTE | TIMOLOL-5-MG/ML-OOGDRUPPELS MET GEREGULEERDE AFGIFTE | 1.88513100 per ml |
+| TIMOLOL-5-MG/ML-OOGDRUPPELS MET GEREGULEERDE AFGIFTE | TIMOLOL-5-MG/ML-OOGDRUPPELS MET GEREGULEERDE AFGIFTE | 1.93879900 per ml |
 | Registratienummer | Artikelnaam |   |
 | 17018 | Timoptol xe oogdruppels 5mg/ml flacon 2,5ml |   |
 | Productgroep |   | Maximumprijs |
-| TIMOLOL-5-MG/ML-OOGDRUPPELS UNITDOSE-DORZOLAMIDE-20-MG/ML-OOGDRUPPELS UNITDOSE | TIMOLOL-5-MG/ML-OOGDRUPPELS UNITDOSE-DORZOLAMIDE-20-MG/ML-OOGDRUPPELS UNITDOSE | 2.48068000 per ml |
+| TIMOLOL-5-MG/ML-OOGDRUPPELS UNITDOSE-DORZOLAMIDE-20-MG/ML-OOGDRUPPELS UNITDOSE | TIMOLOL-5-MG/ML-OOGDRUPPELS UNITDOSE-DORZOLAMIDE-20-MG/ML-OOGDRUPPELS UNITDOSE | 2.42605000 per ml |
 | Registratienummer | Artikelnaam |   |
 | 33660 | Cosopt conserveermiddelvrij oogdruppels flac 0,2ml |   |
 | Productgroep |   | Maximumprijs |
-| TIMOLOL-5-MG/ML-OOGDRUPPELS-BIMATOPROST-0.3-MG/ML-OOGDRUPPELS | TIMOLOL-5-MG/ML-OOGDRUPPELS-BIMATOPROST-0.3-MG/ML-OOGDRUPPELS | 6.08357100 per ml |
+| TIMOLOL-5-MG/ML-OOGDRUPPELS-BIMATOPROST-0.3-MG/ML-OOGDRUPPELS | TIMOLOL-5-MG/ML-OOGDRUPPELS-BIMATOPROST-0.3-MG/ML-OOGDRUPPELS | 5.84350100 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/06/340/001 | Ganfort oogdruppels flacon 3ml |   |
 | Productgroep |   | Maximumprijs |
-| TIMOLOL-5-MG/ML-OOGDRUPPELS-BRIMONIDINE-2-MG/ML-OOGDRUPPELS | TIMOLOL-5-MG/ML-OOGDRUPPELS-BRIMONIDINE-2-MG/ML-OOGDRUPPELS | 2.67126200 per ml |
+| TIMOLOL-5-MG/ML-OOGDRUPPELS-BRIMONIDINE-2-MG/ML-OOGDRUPPELS | TIMOLOL-5-MG/ML-OOGDRUPPELS-BRIMONIDINE-2-MG/ML-OOGDRUPPELS | 2.69940900 per ml |
 | Registratienummer | Artikelnaam |   |
 | 100501/32744 | Combigan oogdruppels flacon 5ml |   |
 | 102481/32744 | Combigan oogdruppels flacon 5ml |   |
 | 103956/32744 | Combigan oogdruppels flacon 5ml |   |
 | 32744 | Combigan oogdruppels flacon 5ml |   |
 | Productgroep |   | Maximumprijs |
-| TIMOLOL-5-MG/ML-OOGDRUPPELS-DORZOLAMIDE-20-MG/ML-OOGDRUPPELS | TIMOLOL-5-MG/ML-OOGDRUPPELS-DORZOLAMIDE-20-MG/ML-OOGDRUPPELS | 2.89221800 per ml |
+| TIMOLOL-5-MG/ML-OOGDRUPPELS-BRINZOLAMIDE-10-MG/ML-OOGDRUPPELS | TIMOLOL-5-MG/ML-OOGDRUPPELS-BRINZOLAMIDE-10-MG/ML-OOGDRUPPELS | 2.92038200 per ml |
+| Registratienummer | Artikelnaam |   |
+| EU/1/08/482/001 | Azarga oogdruppels flacon 5ml |   |
+| EU/1/08/482/002 | Azarga oogdruppels flacon 5ml |   |
+| Productgroep |   | Maximumprijs |
+| TIMOLOL-5-MG/ML-OOGDRUPPELS-DORZOLAMIDE-20-MG/ML-OOGDRUPPELS | TIMOLOL-5-MG/ML-OOGDRUPPELS-DORZOLAMIDE-20-MG/ML-OOGDRUPPELS | 2.92006700 per ml |
 | Registratienummer | Artikelnaam |   |
 | 22871 | Cosopt oogdruppels flacon 5ml |   |
 | 28641/22871 | Cosopt oogdruppels flacon 5ml |   |
@@ -8470,23 +8780,24 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 30092/22871 | Cosopt oogdruppels flacon 5ml |   |
 | 32135/22871 | Cosopt oogdruppels flacon 5ml |   |
 | Productgroep |   | Maximumprijs |
-| TIMOLOL-5-MG/ML-OOGDRUPPELS-LATANOPROST-.05-MG/ML-OOGDRUPPELS | TIMOLOL-5-MG/ML-OOGDRUPPELS-LATANOPROST-.05-MG/ML-OOGDRUPPELS | 7.70756400 per ml |
+| TIMOLOL-5-MG/ML-OOGDRUPPELS-LATANOPROST-.05-MG/ML-OOGDRUPPELS | TIMOLOL-5-MG/ML-OOGDRUPPELS-LATANOPROST-.05-MG/ML-OOGDRUPPELS | 7.65680200 per ml |
 | Registratienummer | Artikelnaam |   |
+| 105394/26592 | Xalacom oogdruppels flacon 2,5ml |   |
 | 26592 | Xalacom oogdruppels flacon 2,5ml |   |
 | 29364/26592 | Xalacom oogdruppels flacon 2,5ml |   |
 | 33155/26592 | Xalacom oogdruppels flacon 2,5ml |   |
 | 33710/26592 | Xalacom oogdruppels flacon 2,5ml |   |
 | Productgroep |   | Maximumprijs |
-| TIMOLOL-5-MG/ML-OOGDRUPPELS-TRAVOPROST-0.04-MG/ML-OOGDRUPPELS | TIMOLOL-5-MG/ML-OOGDRUPPELS-TRAVOPROST-0.04-MG/ML-OOGDRUPPELS | 7.05324000 per ml |
+| TIMOLOL-5-MG/ML-OOGDRUPPELS-TRAVOPROST-0.04-MG/ML-OOGDRUPPELS | TIMOLOL-5-MG/ML-OOGDRUPPELS-TRAVOPROST-0.04-MG/ML-OOGDRUPPELS | 7.10880000 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/06/338/001 | Duotrav oogdruppels flacon 2,5ml |   |
 | EU/1/06/338/002 | Duotrav oogdruppels flacon 2,5ml |   |
 | Productgroep |   | Maximumprijs |
-| TINZAPARIN-10000-IE/ML-INJECTIEVLOEISTOF, FLAC | TINZAPARIN-10000-IE/ML-INJECTIEVLOEISTOF, FLAC | 6.51064900 per ml |
+| TINZAPARIN-10000-IE/ML-INJECTIEVLOEISTOF, FLAC | TINZAPARIN-10000-IE/ML-INJECTIEVLOEISTOF, FLAC | 6.58039000 per ml |
 | Registratienummer | Artikelnaam |   |
 | 14782 | Innohep injvlst 10000 ie/ml flacon 2ml |   |
 | Productgroep |   | Maximumprijs |
-| TINZAPARIN-20000-IE/ML-INJ.VLOEISTOF, WWSP | TINZAPARIN-20000-IE/ML-INJ.VLOEISTOF, WWSP | 16.45609700 per ml |
+| TINZAPARIN-20000-IE/ML-INJ.VLOEISTOF, WWSP | TINZAPARIN-20000-IE/ML-INJ.VLOEISTOF, WWSP | 16.77867400 per ml |
 | Registratienummer | Artikelnaam |   |
 | 102478/20818 | Innohep injvlst 20000 ie/ml wwsp 0,7ml |   |
 | 102622/20818 | Innohep injvlst 20000 ie/ml wwsp 0,7ml |   |
@@ -8495,11 +8806,11 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 20818 | Innohep injvlst 20000 ie/ml wwsp 0,7ml |   |
 | 20819 | Innohep injvlst 20000 ie/ml wwsp 0,9ml |   |
 | Productgroep |   | Maximumprijs |
-| TIOGUANINE-40-MG-TABLET | TIOGUANINE-40-MG-TABLET | 2.32335500 per stuk |
+| TIOGUANINE-40-MG-TABLET | TIOGUANINE-40-MG-TABLET | 2.37085100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 7070 | Lanvis tablet 40mg |   |
 | Productgroep |   | Maximumprijs |
-| TIOTROPIUM-.018-MG-INHALATIEPOEDER | TIOTROPIUM-.018-MG-INHALATIEPOEDER | 1.41383300 per stuk |
+| TIOTROPIUM-.018-MG-INHALATIEPOEDER | TIOTROPIUM-.018-MG-INHALATIEPOEDER | 1.46038500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100570/26191 | Spiriva inhalpdr 18mcg |   |
 | 104083/26191 | Spiriva inhalpdr 18mcg |   |
@@ -8511,10 +8822,13 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 34168/26191 | Spiriva inhalpdr 18mcg |   |
 | 34723/26191 | Spiriva inhalpdr 18mcg |   |
 | Productgroep |   | Maximumprijs |
-| TIOTROPIUM-.018-MG-INHALATIEPOEDER INCL INHALER | TIOTROPIUM-.018-MG-INHALATIEPOEDER INCL INHALER | 1.40263200 per stuk |
+| TIOTROPIUM-.018-MG-INHALATIEPOEDER INCL INHALER | TIOTROPIUM-.018-MG-INHALATIEPOEDER INCL INHALER | 1.39767700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100570/26191 | Spiriva inhalpdr 18mcg met handihaler |   |
 | 104082/26191 | Spiriva inhalpdr 18mcg met handihaler |   |
+| 104083/26191 | Spiriva inhalpdr 18mcg met handihaler |   |
+| 104886/26191 | Spiriva inhalpdr 18mcg met handihaler |   |
+| 105556/26191 | Spiriva inhalpdr 18mcg met handihaler |   |
 | 26191 | Spiriva inhalpdr 18mcg met handihaler |   |
 | 31746/26191 | Spiriva inhalpdr 18mcg met handihaler |   |
 | 33047/26191 | Spiriva inhalpdr 18mcg met handihaler |   |
@@ -8523,21 +8837,22 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 34168/26191 | Spiriva inhalpdr 18mcg met handihaler |   |
 | 34723/26191 | Spiriva inhalpdr 18mcg met handihaler |   |
 | Productgroep |   | Maximumprijs |
-| TIOTROPIUM-0.0025-MG-AEROSOL | TIOTROPIUM-0.0025-MG-AEROSOL | 0.80129300 per dosis |
+| TIOTROPIUM-0.0025-MG-AEROSOL | TIOTROPIUM-0.0025-MG-AEROSOL | 0.81336500 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 103156/34382 | Spiriva respimat opl v inhal 2,5mcg/do patr 60do |   |
+| 104804/34382 | Spiriva respimat opl v inhal 2,5mcg/do patr 60do |   |
 | 34382 | Spiriva respimat opl v inhal 2,5mcg/do patr 60do |   |
 | Productgroep |   | Maximumprijs |
-| TIPRANAVIR-250-MG-CAPSULE | TIPRANAVIR-250-MG-CAPSULE | 5.74473600 per stuk |
+| TIPRANAVIR-250-MG-CAPSULE | TIPRANAVIR-250-MG-CAPSULE | 5.80220400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/05/315/001 | Aptivus capsule 250mg |   |
 | Productgroep |   | Maximumprijs |
-| TIZANIDINE-2-MG-TABLET | TIZANIDINE-2-MG-TABLET | 0.12530800 per stuk |
+| TIZANIDINE-2-MG-TABLET | TIZANIDINE-2-MG-TABLET | 0.12448900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10036 | Sirdalud tablet 2mg |   |
 | 31642 | Tizanidine hcl pch tablet 2mg |   |
 | Productgroep |   | Maximumprijs |
-| TIZANIDINE-4-MG-TABLET | TIZANIDINE-4-MG-TABLET | 0.19075200 per stuk |
+| TIZANIDINE-4-MG-TABLET | TIZANIDINE-4-MG-TABLET | 0.18500900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10037 | Sirdalud tablet 4mg |   |
 | 31643 | Tizanidine hcl pch tablet 4mg |   |
@@ -8546,78 +8861,80 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | Registratienummer | Artikelnaam |   |
 | 10225 | Tobrex oogzalf tube 3,5g |   |
 | Productgroep |   | Maximumprijs |
-| TOBRAMYCIN-60-MG/ML-INHALATIEVLOEISTOF UNITDOSE | TOBRAMYCIN-60-MG/ML-INHALATIEVLOEISTOF UNITDOSE | 7.91242900 per ml |
+| TOBRAMYCIN-60-MG/ML-INHALATIEVLOEISTOF UNITDOSE | TOBRAMYCIN-60-MG/ML-INHALATIEVLOEISTOF UNITDOSE | 7.73494600 per ml |
 | Registratienummer | Artikelnaam |   |
 | 102048/25484 | Tobi inhvlst 60mg/ml ampul 5ml |   |
 | 25484 | Tobi inhvlst 60mg/ml ampul 5ml |   |
 | Productgroep |   | Maximumprijs |
-| TOBRAMYCIN-75-MG/ML-INHALATIEVLOEISTOF UNITDOSE | TOBRAMYCIN-75-MG/ML-INHALATIEVLOEISTOF UNITDOSE | 8.31046400 per ml |
+| TOBRAMYCIN-75-MG/ML-INHALATIEVLOEISTOF UNITDOSE | TOBRAMYCIN-75-MG/ML-INHALATIEVLOEISTOF UNITDOSE | 8.47619400 per ml |
 | Registratienummer | Artikelnaam |   |
 | 33841 | Bramitob verneveloplossing 75mg/ml ampul 4ml |   |
 | Productgroep |   | Maximumprijs |
-| TOLCAPONE-100-MG-TABLET | TOLCAPONE-100-MG-TABLET | 1.27534900 per stuk |
+| TOLCAPONE-100-MG-TABLET | TOLCAPONE-100-MG-TABLET | 1.28930400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/97/044/003 | Tasmar tablet filmomhuld 100mg |   |
 | Productgroep |   | Maximumprijs |
-| TOLTERODINE-1-MG-TABLET | TOLTERODINE-1-MG-TABLET | 0.65922400 per stuk |
+| TOLTERODINE-1-MG-TABLET | TOLTERODINE-1-MG-TABLET | 0.67526600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 22148 | Detrusitol tablet omhuld 1mg |   |
 | Productgroep |   | Maximumprijs |
-| TOLTERODINE-2-MG-TABLET | TOLTERODINE-2-MG-TABLET | 0.68247800 per stuk |
+| TOLTERODINE-2-MG-TABLET | TOLTERODINE-2-MG-TABLET | 0.69321200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 22149 | Detrusitol tablet omhuld 2mg |   |
 | Productgroep |   | Maximumprijs |
-| TOLTERODINE-4-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | TOLTERODINE-4-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 1.25926200 per stuk |
+| TOLTERODINE-4-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | TOLTERODINE-4-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 1.29041400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 103117/26670 | Detrusitol sr capsule mva 4mg |   |
 | 26670 | Detrusitol sr capsule mva 4mg |   |
 | 34503/26670 | Detrusitol sr capsule mva 4mg |   |
 | 35220/26670 | Detrusitol sr capsule mva 4mg |   |
 | Productgroep |   | Maximumprijs |
-| TOPIRAMATE-100-MG-TABLET | TOPIRAMATE-100-MG-TABLET | 1.35491300 per stuk |
+| TOPIRAMATE-100-MG-TABLET | TOPIRAMATE-100-MG-TABLET | 1.01432000 per stuk |
 | Registratienummer | Artikelnaam |   |
+| 103703/24167 | Topamax tablet omhuld 100mg |   |
 | 24167 | Topamax tablet omhuld 100mg |   |
 | 26398/24167 | Epitomax tablet omhuld 100mg |   |
 | 26796/24167 | Topamax tablet omhuld 100mg |   |
 | 27957/24167 | Topiramaat tablet omhuld 100mg |   |
 | Productgroep |   | Maximumprijs |
-| TOPIRAMATE-15-MG-CAPSULE | TOPIRAMATE-15-MG-CAPSULE | 0.30997700 per stuk |
+| TOPIRAMATE-15-MG-CAPSULE | TOPIRAMATE-15-MG-CAPSULE | 0.31095300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 25836 | Topamax sprinkle capsule 15mg |   |
 | Productgroep |   | Maximumprijs |
-| TOPIRAMATE-200-MG-TABLET | TOPIRAMATE-200-MG-TABLET | 2.68179000 per stuk |
+| TOPIRAMATE-200-MG-TABLET | TOPIRAMATE-200-MG-TABLET | 1.83633100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 24168 | Topamax tablet omhuld 200mg |   |
 | 27958/24168 | Topiramaat tablet omhuld 200mg |   |
 | 28453/24168 | Epitomax tablet omhuld 200mg |   |
 | Productgroep |   | Maximumprijs |
-| TOPIRAMATE-25-MG-TABLET | TOPIRAMATE-25-MG-TABLET | 0.46876400 per stuk |
+| TOPIRAMATE-25-MG-TABLET | TOPIRAMATE-25-MG-TABLET | 0.37465800 per stuk |
 | Registratienummer | Artikelnaam |   |
+| 103093/24165 | Topamax tablet omhuld 25mg |   |
 | 24165 | Topamax tablet omhuld 25mg |   |
 | 28535/24165 | Topamax tablet omhuld 25mg |   |
 | 31835/24165 | Topamax tablet omhuld 25mg |   |
 | Productgroep |   | Maximumprijs |
-| TOPIRAMATE-50-MG-CAPSULE | TOPIRAMATE-50-MG-CAPSULE | 0.89333600 per stuk |
+| TOPIRAMATE-50-MG-CAPSULE | TOPIRAMATE-50-MG-CAPSULE | 0.85122400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 25838 | Topamax sprinkle capsule 50mg |   |
 | Productgroep |   | Maximumprijs |
-| TOPOTECAN-0.25-MG-CAPSULE | TOPOTECAN-0.25-MG-CAPSULE | 13.66988500 per stuk |
+| TOPOTECAN-0.25-MG-CAPSULE | TOPOTECAN-0.25-MG-CAPSULE | 13.82626000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/96/027/006 | Hycamtin capsule 0,25mg |   |
 | Productgroep |   | Maximumprijs |
-| TOPOTECAN-1-MG-CAPSULE | TOPOTECAN-1-MG-CAPSULE | 53.78087500 per stuk |
+| TOPOTECAN-1-MG-CAPSULE | TOPOTECAN-1-MG-CAPSULE | 54.40637500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/96/027/007 | Hycamtin capsule 1mg |   |
 | Productgroep |   | Maximumprijs |
-| TRAMADOL-100-MG-BRUISTABLET | TRAMADOL-100-MG-BRUISTABLET | 0.28208300 per stuk |
+| TRAMADOL-100-MG-BRUISTABLET | TRAMADOL-100-MG-BRUISTABLET | 0.28583300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 28079 | Tramadol hcl cf disp tablet 100mg |   |
 | Productgroep |   | Maximumprijs |
-| TRAMADOL-100-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | TRAMADOL-100-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.28868400 per stuk |
+| TRAMADOL-100-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | TRAMADOL-100-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.28954900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 23007=22326 | Tramadoli hydrochloridum retard capsule mga 100mg |   |
 | Productgroep |   | Maximumprijs |
-| TRAMADOL-100-MG-TABLET, MET GEREGULEERDE AFGIFTE | TRAMADOL-100-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.26222800 per stuk |
+| TRAMADOL-100-MG-TABLET, MET GEREGULEERDE AFGIFTE | TRAMADOL-100-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.27461500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 22361 | Tramal retard tablet mga 100mg |   |
 | 22452 | Tramagetic retard tablet mga 100mg |   |
@@ -8625,55 +8942,53 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 29191 | Tramadol hcl actavis retard tablet mga 100mg |   |
 | 33751 | Tramadol hcl pch retard tablet mga 100mg |   |
 | Productgroep |   | Maximumprijs |
-| TRAMADOL-100-MG-ZETPIL | TRAMADOL-100-MG-ZETPIL | 0.26709200 per stuk |
+| TRAMADOL-100-MG-ZETPIL | TRAMADOL-100-MG-ZETPIL | 0.26686400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15512 | Tramal-z zetpil 100mg |   |
 | 27166 | Tramadol hcl cf zetpil 100mg |   |
 | Productgroep |   | Maximumprijs |
-| TRAMADOL-100-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | TRAMADOL-100-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.26742500 per ml |
+| TRAMADOL-100-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | TRAMADOL-100-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.26934300 per ml |
 | Registratienummer | Artikelnaam |   |
 | 15513 | Tramal druppelvloeistof 100mg/ml |   |
 | 27165 | Tramadol hcl cf druppels 100mg/ml |   |
 | 27177 | Tramadol hcl pch druppels 100mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| TRAMADOL-150-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | TRAMADOL-150-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.42185800 per stuk |
+| TRAMADOL-150-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | TRAMADOL-150-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.42156400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 23008=22327 | Tramadoli hydrochloridum retard capsule mga 150mg |   |
 | Productgroep |   | Maximumprijs |
-| TRAMADOL-150-MG-TABLET, MET GEREGULEERDE AFGIFTE | TRAMADOL-150-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.39520800 per stuk |
+| TRAMADOL-150-MG-TABLET, MET GEREGULEERDE AFGIFTE | TRAMADOL-150-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.39558200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 22362 | Tramal retard tablet mga 150mg |   |
-| 22453 | Tramagetic retard tablet mga 150mg |   |
 | 25694 | Tramadol hcl sandoz retard tablet mga 150mg |   |
 | 27514 | Tramadol hcl cf retard tablet mga 150mg |   |
 | 29192 | Tramadol hcl actavis retard tablet mga 150mg |   |
 | Productgroep |   | Maximumprijs |
-| TRAMADOL-200-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | TRAMADOL-200-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.54013400 per stuk |
+| TRAMADOL-200-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | TRAMADOL-200-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.54289600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 23009=22328 | Tramadoli hydrochloridum retard capsule mga 200mg |   |
 | Productgroep |   | Maximumprijs |
-| TRAMADOL-200-MG-TABLET, MET GEREGULEERDE AFGIFTE | TRAMADOL-200-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.49172000 per stuk |
+| TRAMADOL-200-MG-TABLET, MET GEREGULEERDE AFGIFTE | TRAMADOL-200-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.51288500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 22233 | Tramagetic once daily tablet mga 200mg |   |
 | 22363 | Tramal retard tablet mga 200mg |   |
-| 22454 | Tramagetic retard tablet mga 200mg |   |
 | 25695 | Tramadol hcl sandoz retard tablet mga 200mg |   |
 | 27515 | Tramadol hcl cf retard tablet mga 200mg |   |
 | 29193 | Tramadol hcl actavis retard tablet mga 200mg |   |
 | 29997 | Tramadol hcl pch retard tablet mga 200mg |   |
 | Productgroep |   | Maximumprijs |
-| TRAMADOL-300-MG-TABLET, MET GEREGULEERDE AFGIFTE | TRAMADOL-300-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.86597600 per stuk |
+| TRAMADOL-300-MG-TABLET, MET GEREGULEERDE AFGIFTE | TRAMADOL-300-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.87945700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 22234 | Tramagetic once daily tablet mga 300mg |   |
 | Productgroep |   | Maximumprijs |
-| TRAMADOL-50-MG-BRUISTABLET | TRAMADOL-50-MG-BRUISTABLET | 0.13602300 per stuk |
+| TRAMADOL-50-MG-BRUISTABLET | TRAMADOL-50-MG-BRUISTABLET | 0.13790800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 23527 | Tramadol hcl sandoz bruistablet 50mg |   |
 | 25343 | Tramadol hcl pch bruistablet 50mg |   |
 | 26959 | Tramadol hcl actavis bruistablet 50mg |   |
 | 28078 | Tramadol hcl cf disp tablet 50mg |   |
 | Productgroep |   | Maximumprijs |
-| TRAMADOL-50-MG-CAPSULE | TRAMADOL-50-MG-CAPSULE | 0.10340800 per stuk |
+| TRAMADOL-50-MG-CAPSULE | TRAMADOL-50-MG-CAPSULE | 0.10416200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15511 | Tramal capsule 50mg |   |
 | 18586 | Tramagetic capsule 50mg |   |
@@ -8687,45 +9002,45 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 26280 | Tramadol hcl mylan capsule 50mg |   |
 | 27163 | Tramadol hcl cf capsule 50mg |   |
 | Productgroep |   | Maximumprijs |
-| TRAMADOL-50-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | TRAMADOL-50-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.15910300 per stuk |
+| TRAMADOL-50-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | TRAMADOL-50-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.16163700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 23006=22325 | Tramadoli hydrochloridum retard capsule mga 50mg |   |
 | Productgroep |   | Maximumprijs |
-| TRANDOLAPRIL-.5-MG-CAPSULE | TRANDOLAPRIL-.5-MG-CAPSULE | 0.08964800 per stuk |
+| TRANDOLAPRIL-.5-MG-CAPSULE | TRANDOLAPRIL-.5-MG-CAPSULE | 0.09068000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15860 | Gopten capsule 0,5mg |   |
 | Productgroep |   | Maximumprijs |
-| TRANDOLAPRIL-2-MG-CAPSULE | TRANDOLAPRIL-2-MG-CAPSULE | 0.24510400 per stuk |
+| TRANDOLAPRIL-2-MG-CAPSULE | TRANDOLAPRIL-2-MG-CAPSULE | 0.24292000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15861 | Gopten capsule 2mg |   |
 | 33772/15861 | Gopten capsule 2mg |   |
 | 34588/15861 | Gopten capsule 2mg |   |
 | Productgroep |   | Maximumprijs |
-| TRANEXAMIC ACID-500-MG-TABLET | TRANEXAMIC ACID-500-MG-TABLET | 0.32060500 per stuk |
+| TRANEXAMIC ACID-500-MG-TABLET | TRANEXAMIC ACID-500-MG-TABLET | 0.31128000 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 32372/5574 | Tranexaminezuur tablet filmomhuld 500mg |   |
 | 5574 | Cyklokapron tablet filmomhuld 500mg |   |
 | Productgroep |   | Maximumprijs |
-| TRASTUZUMAB-150-MG-POED. V. INFUSIE,FLACON | TRASTUZUMAB-150-MG-POED. V. INFUSIE,FLACON | 622.71392700 per stuk |
+| TRASTUZUMAB-150-MG-POED. V. INFUSIE,FLACON | TRASTUZUMAB-150-MG-POED. V. INFUSIE,FLACON | 604.34732500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/00/145/001 | Herceptin infusiepoeder flacon 150mg |   |
 | Productgroep |   | Maximumprijs |
-| TRAVOPROST-.04-MG/ML-OOGDRUPPELS | TRAVOPROST-.04-MG/ML-OOGDRUPPELS | 5.86222400 per ml |
+| TRAVOPROST-.04-MG/ML-OOGDRUPPELS | TRAVOPROST-.04-MG/ML-OOGDRUPPELS | 5.92583700 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/01/199/001 | Travatan oogdruppels 40mcg/ml flacon 2,5ml |   |
 | EU/1/01/199/002 | Travatan oogdruppels 40mcg/ml flacon 2,5ml |   |
 | Productgroep |   | Maximumprijs |
-| TRAZODONE-100-MG-TABLET | TRAZODONE-100-MG-TABLET | 0.21361900 per stuk |
+| TRAZODONE-100-MG-TABLET | TRAZODONE-100-MG-TABLET | 0.21250700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 9145 | Trazolan tablet 100mg |   |
 | Productgroep |   | Maximumprijs |
-| TRETINOIN-10-MG-CAPSULE | TRETINOIN-10-MG-CAPSULE | 2.74972900 per stuk |
+| TRETINOIN-10-MG-CAPSULE | TRETINOIN-10-MG-CAPSULE | 2.37847200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 101711/20455 | Vesanoid capsule 10mg |   |
 | 103094/20455 | Vesanoid capsule 10mg |   |
 | 20455 | Vesanoid capsule 10mg |   |
 | Productgroep |   | Maximumprijs |
-| TRIAMCINOLONE-.055-MG-NEUSSPRAY | TRIAMCINOLONE-.055-MG-NEUSSPRAY | 0.08463300 per dosis |
+| TRIAMCINOLONE-.055-MG-NEUSSPRAY | TRIAMCINOLONE-.055-MG-NEUSSPRAY | 0.08591700 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 21837 | Nasacort neusspray 55mcg/do 120do |   |
 | Productgroep |   | Maximumprijs |
@@ -8733,65 +9048,67 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | Registratienummer | Artikelnaam |   |
 | 20730 | Triamcinolonacetonide fagron fna creme 1mg/g |   |
 | Productgroep |   | Maximumprijs |
-| TRIHEXYPHENIDYL-2-MG-TABLET | TRIHEXYPHENIDYL-2-MG-TABLET | 0.10491300 per stuk |
+| TRIHEXYPHENIDYL-2-MG-TABLET | TRIHEXYPHENIDYL-2-MG-TABLET | 0.11726100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 640 | Artane tablet 2mg |   |
 | Productgroep |   | Maximumprijs |
-| TRIHEXYPHENIDYL-5-MG-TABLET | TRIHEXYPHENIDYL-5-MG-TABLET | 0.11288800 per stuk |
+| TRIHEXYPHENIDYL-5-MG-TABLET | TRIHEXYPHENIDYL-5-MG-TABLET | 0.12660300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 641 | Artane tablet 5mg |   |
 | Productgroep |   | Maximumprijs |
-| TRIMETHOPRIM-100-MG-TABLET | TRIMETHOPRIM-100-MG-TABLET | 0.12064900 per stuk |
+| TRIMETHOPRIM-100-MG-TABLET | TRIMETHOPRIM-100-MG-TABLET | 0.12401400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 55722 | Trimethoprim cf tablet 100mg |   |
 | 9596 | Trimethoprim pch tablet 100mg |   |
 | Productgroep |   | Maximumprijs |
-| TRIMETHOPRIM-160-MG-TABLET-SULFAMETHOXAZOLE-800-MG-TABLET | TRIMETHOPRIM-160-MG-TABLET-SULFAMETHOXAZOLE-800-MG-TABLET | 0.16855900 per stuk |
+| TRIMETHOPRIM-160-MG-TABLET-SULFAMETHOXAZOLE-800-MG-TABLET | TRIMETHOPRIM-160-MG-TABLET-SULFAMETHOXAZOLE-800-MG-TABLET | 0.16986800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10243 | Cotrimoxazol pch tablet 960mg |   |
 | 13359 | Cotrimoxazol forte actavis tablet 960mg |   |
 | 19370 | Cotrimoxazol sandoz tablet 960mg |   |
 | 19461=55511 | Cotrimoxazol forte tablet 960mg |   |
+| 19461=55511 | Cotrimoxazol forte apotex tablet 960mg |   |
 | 20518 | Cotrimoxazol rp tablet 960mg |   |
 | 20711=20518 | Cotrimoxazol a tablet 960mg |   |
 | 55506 | Cotrimoxazol forte cf tablet 960mg |   |
 | Productgroep |   | Maximumprijs |
-| TRIMETHOPRIM-8-MG/ML-OPLOSSING/SUSPENSIE, ORAAL-SULFAMETHOXAZOLE-40-MG/ML-OPLOSS | TRIMETHOPRIM-8-MG/ML-OPLOSSING/SUSPENSIE, ORAAL-SULFAMETHOXAZOLE-40-MG/ML-OPLOSS | 0.02053100 per ml |
+| TRIMETHOPRIM-8-MG/ML-OPLOSSING/SUSPENSIE, ORAAL-SULFAMETHOXAZOLE-40-MG/ML-OPLOSS | TRIMETHOPRIM-8-MG/ML-OPLOSSING/SUSPENSIE, ORAAL-SULFAMETHOXAZOLE-40-MG/ML-OPLOSS | 0.02069500 per ml |
 | Registratienummer | Artikelnaam |   |
 | 10550 | Cotrimoxazol pch suspensie 240mg/5ml |   |
 | 6214 | Bactrimel suspensie 48mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| TRIMETHOPRIM-80-MG-TABLET-SULFAMETHOXAZOLE-400-MG-TABLET | TRIMETHOPRIM-80-MG-TABLET-SULFAMETHOXAZOLE-400-MG-TABLET | 0.16664600 per stuk |
+| TRIMETHOPRIM-80-MG-TABLET-SULFAMETHOXAZOLE-400-MG-TABLET | TRIMETHOPRIM-80-MG-TABLET-SULFAMETHOXAZOLE-400-MG-TABLET | 0.17845700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13358 | Cotrimoxazol actavis tablet 480mg |   |
+| 19460=55510 | Cotrimoxazol apotex tablet 480mg |   |
 | 19460=55510 | Cotrimoxazol tablet 480mg |   |
 | 20517 | Cotrimoxazol rp tablet 480mg |   |
 | 20710=20517 | Cotrimoxazol a tablet 480mg |   |
 | 55505 | Cotrimoxazol cf tablet 480mg |   |
 | 9647 | Cotrimoxazol pch tablet 480mg |   |
 | Productgroep |   | Maximumprijs |
-| TROPICAMIDE-5-MG/ML-OOGDRUPPELS | TROPICAMIDE-5-MG/ML-OOGDRUPPELS | 0.23117700 per ml |
+| TROPICAMIDE-5-MG/ML-OOGDRUPPELS | TROPICAMIDE-5-MG/ML-OOGDRUPPELS | 0.24604600 per ml |
 | Registratienummer | Artikelnaam |   |
 | 56688 | Tropicamide oogdruppels 0,5% flacon 10ml |   |
 | Productgroep |   | Maximumprijs |
-| TROPISETRON-5-MG-CAPSULE | TROPISETRON-5-MG-CAPSULE | 14.90119900 per stuk |
+| TROPISETRON-5-MG-CAPSULE | TROPISETRON-5-MG-CAPSULE | 13.70277100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15202 | Novaban capsule 5mg |   |
 | Productgroep |   | Maximumprijs |
-| URAPIDIL-30-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | URAPIDIL-30-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.21533300 per stuk |
+| URAPIDIL-30-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | URAPIDIL-30-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.21733300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13207 | Ebrantil mitis capsule mga 30mg |   |
 | Productgroep |   | Maximumprijs |
-| URAPIDIL-60-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | URAPIDIL-60-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.35829700 per stuk |
+| URAPIDIL-60-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | URAPIDIL-60-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.36229700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13208 | Ebrantil 60 capsule mga 60mg |   |
 | Productgroep |   | Maximumprijs |
-| URSODEOXYCHOLIC ACID-250-MG-CAPSULE | URSODEOXYCHOLIC ACID-250-MG-CAPSULE | 0.44987000 per stuk |
+| URSODEOXYCHOLIC ACID-250-MG-CAPSULE | URSODEOXYCHOLIC ACID-250-MG-CAPSULE | 0.45770300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 103115/8384 | Ursofalk capsule 250mg |   |
 | 8384 | Ursofalk capsule 250mg |   |
 | Productgroep |   | Maximumprijs |
-| URSODEOXYCHOLIC ACID-300-MG-TABLET | URSODEOXYCHOLIC ACID-300-MG-TABLET | 0.77105400 per stuk |
+| URSODEOXYCHOLIC ACID-300-MG-TABLET | URSODEOXYCHOLIC ACID-300-MG-TABLET | 0.78026200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 22117=9307 | Ursodeoxycholzuur imphos tablet 300mg |   |
 | 23135/9307 | Ursochol tablet 300mg |   |
@@ -8801,44 +9118,46 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 31409/9307 | Ursochol tablet 300mg |   |
 | 9307 | Ursochol tablet 300mg |   |
 | Productgroep |   | Maximumprijs |
-| VALACICLOVIR-500-MG-TABLET | VALACICLOVIR-500-MG-TABLET | 2.53047200 per stuk |
+| VALACICLOVIR-500-MG-TABLET | VALACICLOVIR-500-MG-TABLET | 2.51955500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 18065 | Zelitrex tablet 500mg |   |
 | Productgroep |   | Maximumprijs |
-| VALPROIC ACID-150-MG-CAPSULE, MAAGSAPRESISTENT | VALPROIC ACID-150-MG-CAPSULE, MAAGSAPRESISTENT | 0.05142100 per stuk |
+| VALPROIC ACID-150-MG-CAPSULE, MAAGSAPRESISTENT | VALPROIC ACID-150-MG-CAPSULE, MAAGSAPRESISTENT | 0.04990300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 8803 | Propymal enteric capsule msr 150mg |   |
 | Productgroep |   | Maximumprijs |
-| VALPROIC ACID-150-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | VALPROIC ACID-150-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.07588000 per stuk |
+| VALPROIC ACID-150-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | VALPROIC ACID-150-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.07766200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 24461 | Orfiril cr capsule mga 150mg |   |
 | Productgroep |   | Maximumprijs |
-| VALPROIC ACID-150-MG-TABLET, MAAGSAPRESISTENT | VALPROIC ACID-150-MG-TABLET, MAAGSAPRESISTENT | 0.06003700 per stuk |
+| VALPROIC ACID-150-MG-TABLET, MAAGSAPRESISTENT | VALPROIC ACID-150-MG-TABLET, MAAGSAPRESISTENT | 0.05924600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 23293=55564 | Natrii valproas pch tablet msr 150mg |   |
 | 55564 | Natriumvalproaat tablet msr 150mg |   |
+| 55564 | Natriumvalproaat apotex tablet msr 150mg |   |
 | 7405 | Depakine enteric tablet 150mg |   |
 | 7405 | Depakine enteric tablet msr 150mg |   |
 | Productgroep |   | Maximumprijs |
-| VALPROIC ACID-300-MG-CAPSULE, MAAGSAPRESISTENT | VALPROIC ACID-300-MG-CAPSULE, MAAGSAPRESISTENT | 0.09864200 per stuk |
+| VALPROIC ACID-300-MG-CAPSULE, MAAGSAPRESISTENT | VALPROIC ACID-300-MG-CAPSULE, MAAGSAPRESISTENT | 0.09754900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 8484 | Propymal enteric capsule msr 300mg |   |
 | Productgroep |   | Maximumprijs |
-| VALPROIC ACID-300-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | VALPROIC ACID-300-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.13567900 per stuk |
+| VALPROIC ACID-300-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | VALPROIC ACID-300-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.13908800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 24462 | Orfiril cr capsule mga 300mg |   |
 | Productgroep |   | Maximumprijs |
-| VALPROIC ACID-300-MG-TABLET, MAAGSAPRESISTENT | VALPROIC ACID-300-MG-TABLET, MAAGSAPRESISTENT | 0.09366200 per stuk |
+| VALPROIC ACID-300-MG-TABLET, MAAGSAPRESISTENT | VALPROIC ACID-300-MG-TABLET, MAAGSAPRESISTENT | 0.09185100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15402=55290 | Natriumvalproaat sandoz tablet msr 300mg |   |
 | 17090=55290 | Natriumvalproaat rp tablet msr 300mg |   |
 | 19713=55290 | Natriumvalproaat cf tablet msr 300mg |   |
 | 25658=7055 | Natriumvalproaat pch tablet msr 300mg |   |
 | 28840=7055 | Natriumvalproaat actavis tablet msr 300mg |   |
+| 55565 | Natriumvalproaat apotex tablet msr 300mg |   |
 | 55565 | Natriumvalproaat tablet msr 300mg |   |
 | 7055 | Depakine enteric tablet 300mg |   |
 | Productgroep |   | Maximumprijs |
-| VALPROIC ACID-300-MG-TABLET, MET GEREGULEERDE AFGIFTE | VALPROIC ACID-300-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.13458000 per stuk |
+| VALPROIC ACID-300-MG-TABLET, MET GEREGULEERDE AFGIFTE | VALPROIC ACID-300-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.13498500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13157 | Depakine chrono tablet mga 300mg |   |
 | 27560 | Natriumvalproaat rp chrono tabl mga 300mg(na-zout) |   |
@@ -8847,11 +9166,11 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 33979 | Natriumvalproaat rp chrono tabl mva 300mg(zuur+na) |   |
 | 35065 | Natriumvalproaat cf chrono tablet mva 300mg |   |
 | Productgroep |   | Maximumprijs |
-| VALPROIC ACID-300-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | VALPROIC ACID-300-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.13581300 per ml |
+| VALPROIC ACID-300-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | VALPROIC ACID-300-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.13418600 per ml |
 | Registratienummer | Artikelnaam |   |
 | 17569 | Depakine vloeistof voor kinderen 300mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| VALPROIC ACID-500-MG-TABLET, MAAGSAPRESISTENT | VALPROIC ACID-500-MG-TABLET, MAAGSAPRESISTENT | 0.17452500 per stuk |
+| VALPROIC ACID-500-MG-TABLET, MAAGSAPRESISTENT | VALPROIC ACID-500-MG-TABLET, MAAGSAPRESISTENT | 0.17517500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 14911=7476 | Natriumvalproaat pch tablet msr 500mg |   |
 | 15403=7476 | Natriumvalproaat sandoz tablet msr 500mg |   |
@@ -8861,7 +9180,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 28841=7476 | Natriumvalproaat actavis tablet msr 500mg |   |
 | 7476 | Depakine enteric tablet 500mg |   |
 | Productgroep |   | Maximumprijs |
-| VALPROIC ACID-500-MG-TABLET, MET GEREGULEERDE AFGIFTE | VALPROIC ACID-500-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.20982800 per stuk |
+| VALPROIC ACID-500-MG-TABLET, MET GEREGULEERDE AFGIFTE | VALPROIC ACID-500-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.21252800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11775 | Depakine chrono tablet mga 500mg |   |
 | 17172/11775 | Depakine chrono tablet mga 500mg |   |
@@ -8876,20 +9195,19 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 33980 | Natriumvalproaat rp chrono tabl mva 500mg(zuur+na) |   |
 | 35066 | Natriumvalproaat cf chrono tablet mva 500mg |   |
 | Productgroep |   | Maximumprijs |
-| VALPROIC ACID-60-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | VALPROIC ACID-60-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.05681000 per ml |
+| VALPROIC ACID-60-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | VALPROIC ACID-60-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.05661500 per ml |
 | Registratienummer | Artikelnaam |   |
 | 55567 | Mixtura natrii valproatis 60mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| VALSARTAN-160-MG-TABLET | VALSARTAN-160-MG-TABLET | 0,77005500 per stuk |
+| VALSARTAN-160-MG-TABLET | VALSARTAN-160-MG-TABLET | 0.77005400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 26940 | Diovan tablet omhuld 160mg |   |
 | Productgroep |   | Maximumprijs |
-| VALSARTAN-320-MG-TABLET | VALSARTAN-320-MG-TABLET | 0.88265300 per stuk |
+| VALSARTAN-320-MG-TABLET | VALSARTAN-320-MG-TABLET | 0.90524900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100500/34472 | Diovan tablet omhuld 320mg |   |
 | 102182/34472 | Diovan tablet omhuld 320mg |   |
 | 102183/34472 | Diovan tablet omhuld 320mg |   |
-| 102582/34472 | Diovan tablet omhuld 320mg |   |
 | 102614/34472 | Diovan tablet omhuld 320mg |   |
 | 103533/34472 | Diovan tablet omhuld 320mg |   |
 | 34472 | Diovan tablet omhuld 320mg |   |
@@ -8898,25 +9216,25 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | Registratienummer | Artikelnaam |   |
 | 26939 | Diovan tablet omhuld 80mg |   |
 | Productgroep |   | Maximumprijs |
-| VANCOMYCIN-250-MG-CAPSULE | VANCOMYCIN-250-MG-CAPSULE | 10.71739200 per stuk |
+| VANCOMYCIN-250-MG-CAPSULE | VANCOMYCIN-250-MG-CAPSULE | 10.86535600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11984 | Vancocin cp capsule 250mg |   |
 | Productgroep |   | Maximumprijs |
-| VENLAFAXINE-150-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | VENLAFAXINE-150-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 1.06862400 per stuk |
+| VENLAFAXINE-150-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | VENLAFAXINE-150-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.99770700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 102455 | Venlafaxine pch retard capsule mva 150mg |   |
 | Productgroep |   | Maximumprijs |
-| VENLAFAXINE-37.5-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | VENLAFAXINE-37.5-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.33311100 per stuk |
+| VENLAFAXINE-37.5-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | VENLAFAXINE-37.5-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.28895800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 102453 | Venlafaxine pch retard capsule mva 37,5mg |   |
 | 26661 | Efexor xr capsule mga 37,5mg |   |
 | Productgroep |   | Maximumprijs |
-| VENLAFAXINE-75-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | VENLAFAXINE-75-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.56478900 per stuk |
+| VENLAFAXINE-75-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | VENLAFAXINE-75-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.53657400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 102454 | Venlafaxine pch retard capsule mva 75mg |   |
 | 33708/20862 | Efexor xr capsule mga 75mg |   |
 | Productgroep |   | Maximumprijs |
-| VERAPAMIL-120-MG-TABLET | VERAPAMIL-120-MG-TABLET | 0.08316000 per stuk |
+| VERAPAMIL-120-MG-TABLET | VERAPAMIL-120-MG-TABLET | 0.08098700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 14495 | Verapamil hcl pch dragee 120mg |   |
 | 18015 | Verapamil hcl sandoz tablet 120mg |   |
@@ -8924,12 +9242,12 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 21999 | Verapamil hcl cf tablet 120mg |   |
 | 57532 | Verapamil hcl katwijk tablet 120mg |   |
 | Productgroep |   | Maximumprijs |
-| VERAPAMIL-120-MG-TABLET, MET GEREGULEERDE AFGIFTE | VERAPAMIL-120-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.16919900 per stuk |
+| VERAPAMIL-120-MG-TABLET, MET GEREGULEERDE AFGIFTE | VERAPAMIL-120-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.17336300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15481 | Isoptin sr tablet mga 120mg |   |
 | 25284=15481 | Verapamil hcl cf retard tablet mga 120mg |   |
 | Productgroep |   | Maximumprijs |
-| VERAPAMIL-240-MG-TABLET, MET GEREGULEERDE AFGIFTE | VERAPAMIL-240-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.20032500 per stuk |
+| VERAPAMIL-240-MG-TABLET, MET GEREGULEERDE AFGIFTE | VERAPAMIL-240-MG-TABLET, MET GEREGULEERDE AFGIFTE | 0.19862600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12102 | Isoptin sr tablet mga 240mg |   |
 | 18499 | Verapamil hcl cf retard tablet mga 240mg |   |
@@ -8940,7 +9258,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 26239=24174 | Verapamil hcl actavis retard tablet mga 240mg |   |
 | 26545=19936 | Verapamil hcl rp retard tablet mga 240mg |   |
 | Productgroep |   | Maximumprijs |
-| VERAPAMIL-40-MG-TABLET | VERAPAMIL-40-MG-TABLET | 0.02895500 per stuk |
+| VERAPAMIL-40-MG-TABLET | VERAPAMIL-40-MG-TABLET | 0.02780300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 18013 | Verapamil hcl sandoz tablet 40mg |   |
 | 19074 | Verapamil hcl rp dragee 40mg |   |
@@ -8949,69 +9267,68 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 56552 | Verapamil hcl pch dragee 40mg |   |
 | 57530 | Verapamil hcl katwijk tablet 40mg |   |
 | Productgroep |   | Maximumprijs |
-| VERAPAMIL-80-MG-TABLET | VERAPAMIL-80-MG-TABLET | 0.04668100 per stuk |
+| VERAPAMIL-80-MG-TABLET | VERAPAMIL-80-MG-TABLET | 0.04377200 per stuk |
 | Registratienummer | Artikelnaam |   |
-| 13537 | Verapamil hcl sandoz dragee 80mg |   |
 | 18014 | Verapamil hcl sandoz tablet 80mg |   |
 | 19075 | Verapamil hcl rp dragee 80mg |   |
 | 20367=13537 | Verapamil hcl a dragee 80mg |   |
 | 21998 | Verapamil hcl cf tablet 80mg |   |
 | 56553 | Verapamil hcl pch dragee 80mg |   |
+| 57531 | Verapamil hcl apotex tablet 80mg |   |
 | 57531 | Verapamil hcl katwijk tablet 80mg |   |
 | Productgroep |   | Maximumprijs |
-| VERTEPORFIN-15-MG-POED. V. INFUSIE,FLACON | VERTEPORFIN-15-MG-POED. V. INFUSIE,FLACON | 1163.40635800 per stuk |
+| VERTEPORFIN-15-MG-POED. V. INFUSIE,FLACON | VERTEPORFIN-15-MG-POED. V. INFUSIE,FLACON | 1129.46130800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/00/140/001 | Visudyne infusiepoeder flacon 15mg |   |
 | Productgroep |   | Maximumprijs |
-| VIGABATRIN-500-MG-POEDER/GRANULAAT, ORAAL | VIGABATRIN-500-MG-POEDER/GRANULAAT, ORAAL | 0.65135500 per stuk |
+| VIGABATRIN-500-MG-POEDER/GRANULAAT, ORAAL | VIGABATRIN-500-MG-POEDER/GRANULAAT, ORAAL | 0.65847700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 15722 | Sabril granulaat in sachets 500mg |   |
 | Productgroep |   | Maximumprijs |
-| VIGABATRIN-500-MG-TABLET | VIGABATRIN-500-MG-TABLET | 0.58443300 per stuk |
+| VIGABATRIN-500-MG-TABLET | VIGABATRIN-500-MG-TABLET | 0.57328700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13707 | Sabril tablet 500mg |   |
 | 18857/13707 | Sabril tablet 500mg |   |
 | 21312/13707 | Sabrilex tablet 500mg |   |
 | 25786/13707 | Sabril tablet 500mg |   |
-| 26172/13707 | Sabril tablet 500mg |   |
 | Productgroep |   | Maximumprijs |
-| VILDAGLIPTIN-50-MG-TABLET | VILDAGLIPTIN-50-MG-TABLET | 0.70773600 per stuk |
+| VILDAGLIPTIN-50-MG-TABLET | VILDAGLIPTIN-50-MG-TABLET | 0.71431700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/07/414/003 | Galvus tablet 50mg |   |
 | EU/1/07/414/005 | Galvus tablet 50mg |   |
 | Productgroep |   | Maximumprijs |
-| VORICONAZOLE-200-MG-POED. V. INFUSIE,FLACON | VORICONAZOLE-200-MG-POED. V. INFUSIE,FLACON | 138.69561000 per stuk |
+| VORICONAZOLE-200-MG-POED. V. INFUSIE,FLACON | VORICONAZOLE-200-MG-POED. V. INFUSIE,FLACON | 128.03846800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/02/212/025 | Vfend infusiepoeder flacon 200mg |   |
 | Productgroep |   | Maximumprijs |
-| ZIDOVUDINE-10-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | ZIDOVUDINE-10-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.15286400 per ml |
+| ZIDOVUDINE-10-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | ZIDOVUDINE-10-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.15298500 per ml |
 | Registratienummer | Artikelnaam |   |
 | 15118 | Retrovir azt drank 10mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| ZIDOVUDINE-100-MG-CAPSULE | ZIDOVUDINE-100-MG-CAPSULE | 1.42963700 per stuk |
+| ZIDOVUDINE-100-MG-CAPSULE | ZIDOVUDINE-100-MG-CAPSULE | 1.43245100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 12639 | Retrovir azt capsule 100mg |   |
 | Productgroep |   | Maximumprijs |
-| ZIDOVUDINE-300-MG-TABLET | ZIDOVUDINE-300-MG-TABLET | 3.97140600 per stuk |
+| ZIDOVUDINE-300-MG-TABLET | ZIDOVUDINE-300-MG-TABLET | 3.89072300 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 18922 | Retrovir azt tablet 300mg |   |
 | 23179/18922 | Retrovir tablet 300mg |   |
 | Productgroep |   | Maximumprijs |
-| ZIDOVUDINE-300-MG-TABLET-LAMIVUDINE-150-MG-TABLET | ZIDOVUDINE-300-MG-TABLET-LAMIVUDINE-150-MG-TABLET | 6.90569600 per stuk |
+| ZIDOVUDINE-300-MG-TABLET-LAMIVUDINE-150-MG-TABLET | ZIDOVUDINE-300-MG-TABLET-LAMIVUDINE-150-MG-TABLET | 7.01735600 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/98/058/001 | Combivir tablet omhuld |   |
 | EU/1/98/058/002 | Combivir tablet omhuld |   |
 | Productgroep |   | Maximumprijs |
-| ZIDOVUDINE-300-MG-TABLET-LAMIVUDINE-150-MG-TABLET-ABACAVIR-300-MG-TABLET | ZIDOVUDINE-300-MG-TABLET-LAMIVUDINE-150-MG-TABLET-ABACAVIR-300-MG-TABLET | 11.85970000 per stuk |
+| ZIDOVUDINE-300-MG-TABLET-LAMIVUDINE-150-MG-TABLET-ABACAVIR-300-MG-TABLET | ZIDOVUDINE-300-MG-TABLET-LAMIVUDINE-150-MG-TABLET-ABACAVIR-300-MG-TABLET | 12.01277200 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/00/156/002 | Trizivir tablet filmomhuld |   |
 | EU/1/00/156/003 | Trizivir tablet filmomhuld |   |
 | Productgroep |   | Maximumprijs |
-| ZINC ACETATE-25-MG-CAPSULE | ZINC ACETATE-25-MG-CAPSULE | 0.78817100 per stuk |
+| ZINC ACETATE-25-MG-CAPSULE | ZINC ACETATE-25-MG-CAPSULE | 0.81691400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/04/286/001 | Wilzin capsule 25mg |   |
 | Productgroep |   | Maximumprijs |
-| ZINC ACETATE-50-MG-CAPSULE | ZINC ACETATE-50-MG-CAPSULE | 1.45703000 per stuk |
+| ZINC ACETATE-50-MG-CAPSULE | ZINC ACETATE-50-MG-CAPSULE | 1.49953500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/04/286/002 | Wilzin capsule 50mg |   |
 | Productgroep |   | Maximumprijs |
@@ -9021,18 +9338,19 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 23722 | Zofil tablet omhuld 30mg |   |
 | 33943/23722 | Zofil tablet omhuld 30mg |   |
 | Productgroep |   | Maximumprijs |
-| ZOLMITRIPTAN-2.5-MG-SMELTTABLET | ZOLMITRIPTAN-2.5-MG-SMELTTABLET | 4.30233800 per stuk |
+| ZOLMITRIPTAN-2.5-MG-SMELTTABLET | ZOLMITRIPTAN-2.5-MG-SMELTTABLET | 4.33992700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100237/31919 | Zomig zip orodisp tablet 2,5mg |   |
 | 100237/31919 | Zomig zip smelttablet 2,5mg |   |
-| 26255/31919 | Zomig zip smelttablet 2,5mg |   |
+| 105354/31919 | Zomig zip smelttablet 2,5mg |   |
 | 26255/31919 | Zomig oro smelttablet 2,5mg |   |
+| 26255/31919 | Zomig zip smelttablet 2,5mg |   |
 | 28186/31919 | Zomig oro smelttablet 2,5mg |   |
 | 28701/31919 | Zomig oro orodisp tablet 2,5mg |   |
 | 31743/31919 | Zomig zip smelttablet 2,5mg |   |
 | 31919 | Zomig zip orodisp tablet 2,5mg |   |
 | Productgroep |   | Maximumprijs |
-| ZOLMITRIPTAN-2.5-MG-TABLET | ZOLMITRIPTAN-2.5-MG-TABLET | 4.39135300 per stuk |
+| ZOLMITRIPTAN-2.5-MG-TABLET | ZOLMITRIPTAN-2.5-MG-TABLET | 4.42909900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 100235/31917 | Zomig tablet omhuld 2,5mg |   |
 | 100614/31917 | Zomig tablet omhuld 2,5mg |   |
@@ -9040,36 +9358,35 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 23815/31917 | Zomig tablet omhuld 2,5mg |   |
 | 24079/31917 | Zomig tablet omhuld 2,5mg |   |
 | 24993/31917 | Zomig tablet omhuld 2,5mg |   |
-| 25911/21079 | Zomig tablet omhuld 2,5mg |   |
 | 31917 | Zomig tablet omhuld 2,5mg |   |
 | Productgroep |   | Maximumprijs |
-| ZOLPIDEM-10-MG-TABLET | ZOLPIDEM-10-MG-TABLET | 0.16520600 per stuk |
+| ZOLPIDEM-10-MG-TABLET | ZOLPIDEM-10-MG-TABLET | 0.16005900 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13223 | Stilnoct tablet filmomhuld 10mg |   |
 | 25353 | Zolpidemtartraat pch tablet filmomhuld 10mg |   |
 | 26424 | Zolpidemtartraat cf tablet filmomhuld 10mg |   |
 | Productgroep |   | Maximumprijs |
-| ZOPICLONE-7.5-MG-TABLET | ZOPICLONE-7.5-MG-TABLET | 0.17494100 per stuk |
+| ZOPICLONE-7.5-MG-TABLET | ZOPICLONE-7.5-MG-TABLET | 0.17896700 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 11063 | Imovane tablet 7,5mg |   |
 | 22397 | Zopiclon cf tablet 7,5mg |   |
 | 25628 | Zopiclon pch tablet 7,5mg |   |
 | Productgroep |   | Maximumprijs |
-| ZUCLOPENTHIXOL-10-MG-TABLET | ZUCLOPENTHIXOL-10-MG-TABLET | 0.11293600 per stuk |
+| ZUCLOPENTHIXOL-10-MG-TABLET | ZUCLOPENTHIXOL-10-MG-TABLET | 0.11454500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 14240/4295 | Clopixol tablet 10mg |   |
 | 4295 | Cisordinol tablet 10mg |   |
 | Productgroep |   | Maximumprijs |
-| ZUCLOPENTHIXOL-2-MG-TABLET | ZUCLOPENTHIXOL-2-MG-TABLET | 0.03300000 per stuk |
+| ZUCLOPENTHIXOL-2-MG-TABLET | ZUCLOPENTHIXOL-2-MG-TABLET | 0.03328400 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 14239/4294 | Clopixol tablet 2mg |   |
 | 4294 | Cisordinol tablet 2mg |   |
 | Productgroep |   | Maximumprijs |
-| ZUCLOPENTHIXOL-20-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | ZUCLOPENTHIXOL-20-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.35947200 per ml |
+| ZUCLOPENTHIXOL-20-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | ZUCLOPENTHIXOL-20-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.35762700 per ml |
 | Registratienummer | Artikelnaam |   |
 | 9287 | Cisordinol druppels 20mg/ml |   |
 | Productgroep |   | Maximumprijs |
-| ZUCLOPENTHIXOL-25-MG-TABLET | ZUCLOPENTHIXOL-25-MG-TABLET | 0.23125500 per stuk |
+| ZUCLOPENTHIXOL-25-MG-TABLET | ZUCLOPENTHIXOL-25-MG-TABLET | 0.23228800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 4296 | Cisordinol tablet 25mg |   |
 
