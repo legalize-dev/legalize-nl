@@ -4,7 +4,7 @@ identifier: "BWBR0023195"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-06-01"
-last_updated: "2010-01-01"
+last_updated: "2010-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023195"
 soort: "ministeriele-regeling"
@@ -48,15 +48,21 @@ In deze regeling wordt verstaan onder:
 
 - b. ministerie: Ministerie van Onderwijs, Cultuur en Wetenschap;
 
-- c. commissie: commissie als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0023195&artikel=6&z=2008-01-04&g=2010-01-01) van deze regeling;
+- c. commissie: commissie als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0023195&artikel=6&z=2010-04-01&g=2010-04-01) van deze regeling;
 
 - d. bezwaar: bezwaar als bedoeld in [artikel 7:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1);
 
 - e. bezwaarde: degene die bezwaar maakt als bedoeld in [artikel 7:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1);
 
-- f. bezwaarschrift: bezwaarschrift als bedoeld in [artikel 6:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:5); en
+- f. bezwaarschrift: bezwaarschrift als bedoeld in [artikel 6:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:5);
 
-- g. CFI: agentschap Centrale Financiën Instellingen van het ministerie.
+- g. DUO: Dienst Uitvoering Onderwijs;
+
+- h. DG-DUO: directeur-generaal van de DUO;
+
+- i. WSF2000: [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453); en
+
+- j. WTOS: [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438).
 
 ##### Artikel 2
 
@@ -64,11 +70,15 @@ Deze regeling is van toepassing op te nemen beslissingen op bezwaarschriften op 
 
 ##### Artikel 3
 
-De organisatie van de behandeling van de bezwaarschriften berust bij CFI.
+1. De organisatie van de behandeling van de bezwaarschriften berust bij DUO.
+
+2. Het bepaalde in de [artikelen 4 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0023195&artikel=4&z=2010-04-01&g=2010-04-01) is niet van toepassing op de behandeling van bezwaarschriften ingediend tegen besluiten op grond van de [WSF2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) en de [WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438).
+
+3. Het bepaalde in de [artikelen 6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0023195&artikel=6&z=2010-04-01&g=2010-04-01) is niet van toepassing op de behandeling van bezwaarschriften waarop de Regeling adviescommissie bezwaarschriften uitgelote gegadigden van toepassing is.
 
 ##### Artikel 4
 
-1. CFI draagt er zorg voor dat degenen die bezwaarde horen, vóór het horen tijdig en volledig kunnen beschikken over alle stukken die zij in verband met de uitoefening van hun taken nodig hebben.
+1. DUO draagt er zorg voor dat degenen die bezwaarde horen, vóór het horen tijdig en volledig kunnen beschikken over alle stukken die zij in verband met de uitoefening van hun taken nodig hebben.
 
 2. Iedere ambtenaar van het ministerie geeft gehoor aan een oproep of een verzoek van degenen die bezwaarde horen.
 
@@ -76,13 +86,13 @@ De organisatie van de behandeling van de bezwaarschriften berust bij CFI.
 
 1. Het horen geschiedt door één of meer ambtenaren van het ministerie of anderen die daartoe door of namens de minister zijn aangewezen.
 
-2. De hoorzitting wordt opgenomen met geluidsapparatuur.
+2. De hoorzitting wordt opgenomen met geluidsapparatuur. Indien dit om technische redenen niet mogelijk is dan wel naar het oordeel van degene, bedoeld in het eerste lid, die de hoorzitting leidt, dan wel van de voorzitter van de commissie, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0023195&artikel=6&z=2010-04-01&g=2010-04-01), niet wenselijk is, wordt een schriftelijk verslag gemaakt.
 
-3. Het horen geschiedt in het openbaar, tenzij de minister of de commissie op verzoek van belanghebbende of om gewichtige redenen ambtshalve anders beslist.
+3. Het horen geschiedt in het openbaar, tenzij de minister of de commissie op verzoek van belanghebbende of om gewichtige redenen ambtshalve anders beslist, dan wel de [Regeling adviescommissie bezwaarschriften uitgelote gegadigden](https://wetten.overheid.nl/jci1.3:c:BWBR0027030) ter zake anders voorschrijft.
 
 ##### Artikel 6
 
-In bijzondere gevallen kan de hoofddirecteur van CFI bepalen dat een bezwaarschrift in afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023195&artikel=5&z=2008-01-04&g=2010-01-01), aan een Commissie voor bezwaarschriften wordt voorgelegd, die tot taak heeft het horen van belanghebbenden en het adviseren van de minister over de te nemen beslissing op het bezwaar.
+In bijzondere gevallen kan de DG-DUO bepalen dat een bezwaarschrift in afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023195&artikel=5&z=2010-04-01&g=2010-04-01), aan een Commissie voor bezwaarschriften wordt voorgelegd, die tot taak heeft het horen van belanghebbenden en het adviseren van de minister over de te nemen beslissing op het bezwaar.
 
 ##### Artikel 7
 
@@ -102,7 +112,7 @@ In bijzondere gevallen kan de hoofddirecteur van CFI bepalen dat een bezwaarschr
 
 5. De leden, bedoeld in het eerste lid, onderdeel b, worden door de secretaris-generaal van het ministerie aangewezen.
 
-6. De secretaris, bedoeld in het eerste lid, onderdeel c, wordt door de hoofddirecteur van CFI aangewezen.
+6. De secretaris, bedoeld in het eerste lid, onderdeel c, wordt door de DG-DUO aangewezen.
 
 ##### Artikel 8
 
@@ -112,7 +122,7 @@ In bijzondere gevallen kan de hoofddirecteur van CFI bepalen dat een bezwaarschr
 
 ##### Artikel 9
 
-Bezwaarschriften waarbij aan bezwaarde kenbaar is gemaakt dat hij zal worden gehoord door een commissie, worden behandeld overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0023195&artikel=6&z=2008-01-04&g=2010-01-01) van deze regeling.
+Bezwaarschriften waarbij aan bezwaarde kenbaar is gemaakt dat hij zal worden gehoord door een commissie, worden behandeld overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0023195&artikel=6&z=2010-04-01&g=2010-04-01) van deze regeling.
 
 ##### Artikel 10
 
