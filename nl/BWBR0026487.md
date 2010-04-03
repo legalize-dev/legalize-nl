@@ -4,7 +4,7 @@ identifier: "BWBR0026487"
 country: "nl"
 rank: "amvb"
 publication_date: "2010-04-03"
-last_updated: "2009-11-10"
+last_updated: "2010-04-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026487"
 soort: "AMvB"
@@ -60,14 +60,14 @@ Wijzigt het Besluit stortplaatsen en stortverboden afvalstoffen.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit stralingsbescherming.
 
 ##### Artikel V
 
-Op het tijdstip van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0026487&artikel=I&z=2009-11-10&g=2009-11-10) vervallen de aan een vergunning als bedoeld in [artikel 8.1, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1) verbonden voorschriften voor zover die zijn aan te merken als voorschriften als bedoeld in het [Besluit financiële zekerheid milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0014686).
+Op het tijdstip van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0026487&artikel=I&z=2010-04-03&g=2010-04-03) vervallen de aan een vergunning als bedoeld in [artikel 8.1, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1) verbonden voorschriften voor zover die zijn aan te merken als voorschriften als bedoeld in het [Besluit financiële zekerheid milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0014686).
 
 ##### Artikel VI
 
-Dit besluit treedt in werking met ingang van de dag waarop vier weken zijn verstreken sedert de datum van uitgifte van het Staatsblad waarin het wordt geplaatst met uitzondering van [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0026487&artikel=IV&z=2009-11-10&g=2009-11-10), dat in werking treedt op 3 april 2010.
+Dit besluit treedt in werking met ingang van de dag waarop vier weken zijn verstreken sedert de datum van uitgifte van het Staatsblad waarin het wordt geplaatst met uitzondering van [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0026487&artikel=IV&z=2010-04-03&g=2010-04-03), dat in werking treedt op 3 april 2010.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
