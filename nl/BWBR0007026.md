@@ -4,7 +4,7 @@ identifier: "BWBR0007026"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2020-01-01"
-last_updated: "2002-09-01"
+last_updated: "2010-04-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007026"
 soort: "rijksKB"
@@ -50,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. Onze Minister: Onze Minister van Binnenlandse Zaken;
+- a. Onze Minister: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
 - b. Het Kapittel: het Kapittel voor de civiele orden.
 
@@ -112,9 +112,7 @@ Het Kapittel verricht zijn werkzaamheden binnen het raam van de middelen welke h
 
 ##### Artikel 9
 
-1. Het Kapittel brengt Onze Minister jaarlijks voor 1 juni verslag uit van zijn werkzaamheden en bevindingen gedurende het daaraan voorafgaande kalenderjaar.
-
-2. Telkens binnen een periode van vier jaar brengt het Kapittel een rapport uit aan Onze Minister waarin zijn taakvervulling aan een nader onderzoek wordt onderworpen. Onze Minister zendt dit rapport, voorzien van zijn standpunt, aan de beide Kamers der Staten-Generaal.
+Het Kapittel brengt Onze Minister jaarlijks voor 1 juni verslag uit van zijn werkzaamheden en bevindingen gedurende het daaraan voorafgaande kalenderjaar.
 
 ##### Artikel 10
 
@@ -124,7 +122,7 @@ Het Kapittel verricht zijn werkzaamheden binnen het raam van de middelen welke h
 
 ##### Artikel 11
 
-In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007026&artikel=3&z=2002-09-01&g=2002-09-01) kan de secretaris voor de eerste maal nadat dit besluit in werking is getreden worden benoemd zonder dat het Kapittel is gehoord.
+In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007026&artikel=3&z=2010-04-08&g=2010-04-08) kan de secretaris voor de eerste maal nadat dit besluit in werking is getreden worden benoemd zonder dat het Kapittel is gehoord.
 
 ##### Artikel 12
 
@@ -133,5 +131,15 @@ De artikelen I, onderdeel F, II, onderdelen E en F, III en IV van de rijkswet va
 ##### Artikel 13
 
 Dit besluit wordt aangehaald als: Besluit Kapittel voor de civiele orden.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst.
+
+##### Artikel 1a
+
+Het Kapittel heeft tevens tot taak:
+
+- a. Onze Minister wie het aangaat te adviseren over het verlenen van de Erepenning voor Menslievend Hulpbetoon;
+
+- b. voorlichting te geven over de werking van het decoratiestelsel.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst.
