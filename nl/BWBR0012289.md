@@ -4,7 +4,7 @@ identifier: "BWBR0012289"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-03"
-last_updated: "2010-04-01"
+last_updated: "2010-04-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012289"
 soort: "circulaire"
@@ -15867,7 +15867,7 @@ Omdat het een overgangsregeling betreft in afwachting van een definitief beleids
 
 Aan de verblijfsvergunning wordt als voorschrift verbonden het aantonen van voldoende verzekerd te zijn tegen ziektekosten met inbegrip van de kosten van opname en verpleging in een sanatorium of psychiatrische inrichting.
 
-### 20. Eergerelateerd geweld
+### 7. Pilot religieus verblijf
 
 Naast levensbedreigende delicten kunnen ook andere uitingsvormen van eergerelateerd geweld, waarbij sprake is van een strafbaar feit gericht tegen het slachtoffer zoals verminking, mishandeling en wederrechtelijke vrijheidsberoving, tot vergunningverlening leiden.
 
@@ -15903,9 +15903,9 @@ Onder levensbedreigende delicten wordt ook verstaan het aanzetten tot zelfmoord,
 
 ### 6. Voorschriften
 
-### 1. Inleiding
+### 20. Eergerelateerd geweld
 
-In dit hoofdstuk wordt het rechtmatig verblijf van slachtoffers van eergerelateerd geweld geregeld. Daarnaast biedt dit hoofdstuk richtlijnen voor het bieden van opvang en bescherming van slachtoffers van eergerelateerd geweld.
+Vooruitlopend op de invoering van het Modern Migratiebeleid wordt een pilot religieus verblijf ingericht om, in nauwe samenwerking met het UWV WERKbedrijf, toe te werken naar deze toekomstige situatie. De pilot biedt de mogelijkheid om nader kennis te maken met de religieuze en levensbeschouwelijke organisaties in hun rol als referent. Tevens biedt de pilot de mogelijkheid om nadere invulling te kunnen geven aan de [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149) uitvoeringsregels ten aanzien van religieuzen, in het bijzonder in welke gevallen toetsing op betaling van tenminste het wettelijk minimumloon bij aanvragen om een tewerkstellingsvergunning achterwege kan blijven en in welke gevallen kan worden afgezien van de verplichte vacaturemelding en de arbeidsmarkttoets.
 
 ### 2.7. Sticker verblijfsaantekeningen algemeen
 
@@ -15913,45 +15913,167 @@ In dit hoofdstuk wordt het rechtmatig verblijf van slachtoffers van eergerelatee
 
 ### 2.3. Algemene voorwaarden:
 
+In dit hoofdstuk wordt het rechtmatig verblijf van slachtoffers van eergerelateerd geweld geregeld. Daarnaast biedt dit hoofdstuk richtlijnen voor het bieden van opvang en bescherming van slachtoffers van eergerelateerd geweld.
+
 Onder eergerelateerd geweld wordt verstaan elke vorm van geestelijk of lichamelijk geweld gepleegd vanuit een collectieve mentaliteit in een reactie op een (dreiging van) schending van de eer van een man of vrouw en daarmee van zijn of haar familie, waarvan de buitenwereld op de hoogte dreigt te raken. Dit type geweld vindt plaats in een specifieke culturele en sociale context en heeft geen religieuze basis. Eergerelateerd geweld kan verschillende vormen aannemen en in het uiterste geval tot moord of doodslag leiden.
 
 Al enige jaren is er – onder andere in de media en de politiek – aandacht voor eergerelateerd geweld en de bestrijding ervan. Het merendeel van de slachtoffers is in het bezit van de Nederlandse nationaliteit of is in het bezit van een zelfstandige verblijfsvergunning. Het komt ook voor dat een slachtoffer een afhankelijke verblijfsvergunning heeft, of in het geheel niet of niet meer in het bezit is van een verblijfsvergunning. Voor deze laatste groep ontbreekt daarmee veelal de grond voor financiering van opvang en hulpverlening.
-
-Dit hoofdstuk voorziet alleen in beleid voor het verlenen van een verblijfsvergunning indien de vreemdeling niet in het bezit is van een (zelfstandige) verblijfsvergunning. Is de vreemdeling in het bezit van een afhankelijke verblijfsvergunning en dreigt dit verblijfsrecht, als gevolg van verbreking van de samenwoning in verband met het dreigend eergerelateerd geweld, komen te vervallen dan dient allereerst beoordeeld te worden of betrokkene op andere gronden voor (voortgezet) verblijf in aanmerking komt. Slechts indien dit niet het geval is, zal verblijf in het kader van dit hoofdstuk aan de orde zijn.
 
 ### 3. Procedurele bepalingen slachtoffer eergerelateerd geweld
 
 ### 3.1. Briefadres
 
-In het kader van de aanpak van eergerelateerd geweld is de [Rvb](https://wetten.overheid.nl/jci1.3:c:BWBR0009726) gewijzigd zodat slachtoffers van eergerelateerd geweld zonder een verblijfstitel, mits een aanvraag om een verblijfsvergunning vanwege dreigend eergerelateerd geweld is ingediend bij de IND, gebruik kunnen maken van de voorzieningen van de Rvb. Deze regeling maakt niet alleen toegang tot opvang door een instelling voor vrouwenopvang mogelijk, maar ook financiering van hulpverlening en een ziektekostenverzekering.
+Is er slechts sprake van gevaar in het land van herkomst, maar is er in Nederland geen dreiging van eergerelateerd geweld, dan is de asielprocedure de aangewezen weg. Indien er in Nederland sprake is van een dreiging van eergerelateerd geweld dan is de reguliere procedure de meest aangewezen weg. Voor verlening van een verblijfsvergunning in het kader van dit hoofdstuk dient echter wel, naast dreiging in Nederland, ook dreiging in het land van herkomst aanwezig te zijn. In dat geval kan betrokkene zich immers niet aan het gevaar onttrekken door zich in het land van herkomst te vestigen.
 
 ### 3.2. Landelijk Expertisecentrum Eergerelateerd Geweld
+
+In het kader van vergroting van de veiligheid van het slachtoffer kan de aanvraag, eventueel door tussenkomst van de vrouwenopvang, schriftelijk worden ingediend (zie B1/9.1.1).
 
 Om te beoordelen of sprake is van dreiging van eergerelateerd geweld vraagt de IND, ten behoeve van de beoordeling of dit verstrekking van een verblijfsvergunning rechtvaardigt, een analyse bij het Landelijk Expertisecentrum Eergerelateerd Geweld van de Nederlandse Politie. Uit de analyse moet in ieder geval blijken of er sprake is van dreiging van eergerelateerd geweld die de verstrekking van een verblijfsvergunning rechtvaardigt. Wanneer het Landelijk Expertisecentrum Eergerelateerd Geweld van de Nederlandse Politie mogelijkheden ziet waardoor de dreiging in die periode op de een of andere wijze afgewend kan worden, moet dit in de analyse worden meegenomen.
 
 Indien de dreiging in de zeer nabije toekomst kan worden weggenomen doordat een bevredigende oplossing voor het conflict kan worden bereikt, zal er in principe geen noodzaak zijn verblijf in Nederland toe te staan. In de rapportage van het Landelijk Expertisecentrum Eergerelateerd Geweld van de Nederlandse Politie zal worden opgenomen wat de verwachte duur is van het conflict. Een verblijfsvergunning zal echter niet alleen worden verleend indien sprake is van een blijvende dreiging, maar daarnaast is het ook mogelijk om in acute situaties een vergunning te verlenen. De verblijfsvergunning zal een tijdelijk karakter hebben.
 
-Uit de analyse moet in ieder geval blijken of er sprake is van langdurige dreiging van eergerelateerd geweld die de verstrekking van een verblijfsvergunning rechtvaardigt. Wanneer het Landelijk Expertisecentrum Eergerelateerd Geweld mogelijkheden ziet waardoor de dreiging in die periode op de een of andere manier afgewend kan worden, moet dit in de analyse worden meegenomen.
+De religieuze of levensbeschouwelijke organisatie legt ter beoordeling of aan bovengenoemde voorwaarden wordt voldaan de volgende gegevens en bescheiden met betrekking tot de individuele aanvraag over:
 
-Indien er sprake is van een dreiging met eergerelateerd geweld die alleen in het land van herkomst bestaat, is er aanleiding om het slachtoffer een asielaanvraag in te laten dienen wegens asielgerelateerde gronden. Er zal derhalve voor verlening van een reguliere verblijfsvergunning in ieder geval sprake moeten zijn van een dreiging in Nederland. Naast dreiging in Nederland, dient ook in het land van herkomst dreiging aanwezig te zijn. De vreemdeling dient in dit kader aannemelijk te maken dat er familieleden in het land van herkomst wonen, welke familieleden dat zijn en waar zij woonachtig zijn.
+### 7.3. Procedure
 
-### 3.3. Kosten van levensonderhoud
+Indien de dreiging in de zeer nabije toekomst kan worden weggenomen doordat een bevredigende oplossing voor het conflict kan worden bereikt, zal er in principe geen noodzaak zijn verblijf in Nederland toe te staan. In de rapportage van het Expertisecentrum Eergerelateerd Geweld van de Nederlandse Politie zal worden opgenomen wat de verwachte duur is van het conflict.
 
 Er zijn verschillende vormen van eergerelateerd geweld, van verstoting door familieleden tot levensdelicten. Niet in alle gevallen zal het noodzakelijk zijn verblijf in Nederland toe te staan. Indien sprake is van levensbedreigende delicten of kinderontvoering of indien het geweld leidt tot schrijnende omstandigheden als gedwongen scheiding tussen ouder en kind of een dreigende gedwongen uithuwelijking, ligt vergunningverlening voor de hand.
 
-Onder levensbedreigende delicten wordt ook verstaan het aanzetten tot zelfmoord, waartegen het slachtoffer geen verweer kan bieden.
-
 ### 3.4. Beëindiging [Rvb](https://wetten.overheid.nl/jci1.3:c:BWBR0009726)
+
+Naast levensbedreigende delicten kunnen ook andere uitingsvormen van eergerelateerd geweld, waarbij sprake is van een strafbaar feit gericht tegen het slachtoffer zoals verminking, mishandeling en wederrechtelijke vrijheidsberoving, tot vergunningverlening leiden.
 
 Eergerelateerd geweld kan zich ook uiten in de vorm van verstoting. Hierbij gaat het om een sociale doodverklaring van het slachtoffer door de familie. Bij de beoordeling van de verblijfsaanvraag wordt de vraag betrokken of het slachtoffer zich door vestiging elders aan de gevolgen van de verstoting zou kunnen onttrekken en of betrokkene zich vervolgens zelfstandig zou kunnen handhaven.
 
-Naast deze voorwaarden zijn de algemene voorwaarden van [artikel 16, eerste lid , Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) van toepassing (zie B1/4), behoudens de voorwaarden die hieronder worden genoemd.
-
 ### 4. De beslissing
+
+In afwijking van de algemene voorwaarden genoemd in [artikel 16 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) wordt de aanvraag niet afgewezen:
 
 Het slachtoffer van dreigend eergerelateerd geweld en de minderjarige kinderen van het slachtoffer zijn geen leges verschuldigd voor het indienen van een aanvraag (zie de [artikelen 3.34b, eerste lid, onder j, en k VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.34b) en [3.34e, aanhef en onder g en h, VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.34e)).
 
-Gelet hierop zal de wettelijke beslistermijn, op grond van [artikel 25, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=25) met ten hoogste zes maanden kunnen worden verlengd.
+### 3. Procedurele bepalingen slachtoffer eergerelateerd geweld
+
+Onder eergerelateerd geweld wordt verstaan elke vorm van geestelijk of lichamelijk geweld gepleegd vanuit een collectieve mentaliteit in een reactie op een (dreiging van) schending van de eer van een man of vrouw en daarmee van zijn of haar familie, waarvan de buitenwereld op de hoogte dreigt te raken. Dit type geweld vindt plaats in een specifieke culturele en sociale context en heeft geen religieuze basis. Eergerelateerd geweld kan verschillende vormen aannemen en in het uiterste geval tot moord of doodslag leiden.
+
+### 3.2. Landelijk Expertisecentrum Eergerelateerd Geweld
+
+Dit hoofdstuk voorziet alleen in beleid voor het verlenen van een verblijfsvergunning indien de vreemdeling niet in het bezit is van een (zelfstandige) verblijfsvergunning. Is de vreemdeling in het bezit van een afhankelijke verblijfsvergunning en dreigt dit verblijfsrecht, als gevolg van verbreking van de samenwoning in verband met het dreigend eergerelateerd geweld, komen te vervallen dan dient allereerst beoordeeld te worden of betrokkene op andere gronden voor (voortgezet) verblijf in aanmerking komt. Slechts indien dit niet het geval is, zal verblijf in het kader van dit hoofdstuk aan de orde zijn.
+
+### 7. Geldigheidsduur van de verblijfsvergunning
+
+Het is niet de bedoeling dat niet terzake gespecialiseerde ambtenaren van de IND zich een eigenstandig oordeel vormen over de mogelijke dreiging van eergerelateerd geweld.
+
+Uit de analyse moet in ieder geval blijken of er sprake is van langdurige dreiging van eergerelateerd geweld die de verstrekking van een verblijfsvergunning rechtvaardigt. Wanneer het Landelijk Expertisecentrum Eergerelateerd Geweld mogelijkheden ziet waardoor de dreiging in die periode op de een of andere manier afgewend kan worden, moet dit in de analyse worden meegenomen.
+
+De inhoud van de analyse van het Landelijk Expertisecentrum Eergerelateerd Geweld vormt de basis van de beslissing omtrent de aanvraag om een verblijfsvergunning. De IND zal opnieuw om een analyse verzoeken indien daaraan zodanige gebreken kleven dat dit niet als basis kan dienen voor een zorgvuldig besluit omtrent de verlening van een verblijfsvergunning.
+
+### 3.3. Kosten van levensonderhoud
+
+Indien de vreemdeling, in verband met dreiging van eergerelateerd geweld, in een instelling voor vrouwenopvang is opgenomen, dient de vreemdeling, indien gewenst met behulp van de instelling voor vrouwenopvang, het aanvraagformulier voor de [Rvb](https://wetten.overheid.nl/jci1.3:c:BWBR0009726) via het COA aan te vragen. De Rvb wordt verstrekt teneinde het slachtoffer in staat te stellen in haar of zijn kosten van levensonderhoud te voorzien.
+
+Aan verstrekking op grond van de [Rvb](https://wetten.overheid.nl/jci1.3:c:BWBR0009726) wordt de voorwaarde verbonden dat er een aanvraag voor een verblijfsvergunning op grond van dreigend eergerelateerd geweld is ingediend en dat er sprake is van verblijf bij een instelling voor vrouwenopvang. Het COA gaat bij de IND en bij de instelling voor vrouwenopvang na of aan deze voorwaarde is voldaan.
+
+### 3.4. Beëindiging [Rvb](https://wetten.overheid.nl/jci1.3:c:BWBR0009726)
+
+Zolang er nog geen beslissing is op het verzoek om de verblijfsvergunning kan een slachtoffer van dreigend eergerelateerd geweld aanspraak maken op de [Rvb](https://wetten.overheid.nl/jci1.3:c:BWBR0009726).
+
+### 4. De beslissing
+
+Onder levensbedreigende delicten wordt ook verstaan het aanzetten tot zelfmoord, waartegen het slachtoffer geen verweer kan bieden.
+
+De contactpersoon gender van de IND vraagt een analyse aan het Landelijk Expertisecentrum Eergerelateerd Geweld van de Nederlandse Politie over de aanwezigheid van dreiging van eergerelateerd geweld.
+
+### 5. Beperking en arbeidsmarktaantekening
+
+Naast deze voorwaarden zijn de algemene voorwaarden van [artikel 16, eerste lid , Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) van toepassing (zie B1/4), behoudens de voorwaarden die hieronder worden genoemd.
+
+Aan de vergunning wordt als voorschrift verbonden de verplichting voldoende verzekerd te zijn tegen ziektekosten, met inbegrip van de kosten verbonden aan opname en verpleging in een sanatorium of een psychiatrische inrichting.
+
+Het slachtoffer van dreigend eergerelateerd geweld en de minderjarige kinderen van het slachtoffer zijn geen leges verschuldigd voor het indienen van een aanvraag (zie de [artikelen 3.34b, eerste lid, onder j, en k VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.34b) en [3.34e, aanhef en onder g en h, VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.34e)).
+
+### 3. Procedurele bepalingen slachtoffer eergerelateerd geweld
+
+De verblijfsvergunning wordt in beginsel voor een periode van één jaar verleend. De verblijfsvergunning is geldig zolang er sprake is van het voortduren van de dreiging van eergerelateerd geweld.
+
+De verblijfsvergunning wordt in beginsel voor een periode van één jaar verleend. De verblijfsvergunning is geldig zolang er sprake is van het voortduren van de dreiging van eergerelateerd geweld.
+
+Indien geen sprake meer is van dreiging van eergerelateerd geweld is er geen grondslag meer voor de verblijfsvergunning gebaseerd op dreigend eergerelateerd geweld.
+
+Het Landelijk Expertisecentrum Eergerelateerd Geweld van de Nederlandse Politie maakt hiervan in de analyse melding. De contactpersoon mensenhandel/gender van de IND, alsmede aan het slachtoffer van dreigend eergerelateerd geweld worden op de hoogte gesteld van de analyse.
+
+### 3.1. Middelen van bestaan
+
+### 2.2. Bijzondere voorwaarden
+
+### 5. Arbeidsmarktaantekening
+
+Dit hoofdstuk voorziet alleen in beleid voor het verlenen van een verblijfsvergunning indien de vreemdeling niet in het bezit is van een (zelfstandige) verblijfsvergunning. Is de vreemdeling in het bezit van een afhankelijke verblijfsvergunning en dreigt dit verblijfsrecht, als gevolg van verbreking van de samenwoning in verband met het dreigend eergerelateerd geweld, komen te vervallen dan dient allereerst beoordeeld te worden of betrokkene op andere gronden voor (voortgezet) verblijf in aanmerking komt. Slechts indien dit niet het geval is, zal verblijf in het kader van dit hoofdstuk aan de orde zijn.
+
+Bij de beoordeling van de vraag of er sprake is van een dreiging van eergerelateerd geweld waarvoor een verblijfsvergunning af moet worden gegeven is van belang waar de vreemdeling gevaar loopt.
+
+In het kader van de aanpak van eergerelateerd geweld is de [Rvb](https://wetten.overheid.nl/jci1.3:c:BWBR0009726) gewijzigd zodat slachtoffers van eergerelateerd geweld zonder een verblijfstitel, mits een aanvraag om een verblijfsvergunning vanwege dreigend eergerelateerd geweld is ingediend bij de IND, gebruik kunnen maken van de voorzieningen van de Rvb. Deze regeling maakt niet alleen toegang tot opvang door een instelling voor vrouwenopvang mogelijk, maar ook financiering van hulpverlening en een ziektekostenverzekering.
+
+### 2. Voorwaarden verblijfsvergunning slachtoffer eergerelateerd geweld
+
+Indien er sprake is van een dreiging met eergerelateerd geweld die alleen in het land van herkomst bestaat, is er aanleiding om het slachtoffer een asielaanvraag in te laten dienen wegens asielgerelateerde gronden. Er zal derhalve voor verlening van een reguliere verblijfsvergunning in ieder geval sprake moeten zijn van een dreiging in Nederland. Naast dreiging in Nederland, dient ook in het land van herkomst dreiging aanwezig te zijn. De vreemdeling dient in dit kader aannemelijk te maken dat er familieleden in het land van herkomst wonen, welke familieleden dat zijn en waar zij woonachtig zijn.
+
+Onder levensbedreigende delicten wordt ook verstaan het aanzetten tot zelfmoord, waartegen het slachtoffer geen verweer kan bieden.
+
+Naast deze voorwaarden zijn de algemene voorwaarden van [artikel 16, eerste lid , Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) van toepassing (zie B1/4), behoudens de voorwaarden die hieronder worden genoemd.
+
+### 1. Inleiding
+
+Ter beoordeling van de vraag of sprake is van dreigend eergerelateerd geweld in Nederland, wordt advies ingewonnen bij het Landelijk Expertisecentrum Eergerelateerd Geweld van de Nederlandse Politie.
+
+### 3.3. Kosten van levensonderhoud
+
+Om te beoordelen of sprake is van dreiging van eergerelateerd geweld vraagt de IND, ten behoeve van de beoordeling of dit verstrekking van een verblijfsvergunning rechtvaardigt, een analyse bij het Landelijk Expertisecentrum Eergerelateerd Geweld van de Nederlandse Politie. Uit de analyse moet in ieder geval blijken of er sprake is van dreiging van eergerelateerd geweld die de verstrekking van een verblijfsvergunning rechtvaardigt. Wanneer het Landelijk Expertisecentrum Eergerelateerd Geweld van de Nederlandse Politie mogelijkheden ziet waardoor de dreiging in die periode op de een of andere wijze afgewend kan worden, moet dit in de analyse worden meegenomen.
+
+### 2. Voorwaarden verblijfsvergunning slachtoffer eergerelateerd geweld
+
+Indien er sprake is van een dreiging met eergerelateerd geweld die alleen in het land van herkomst bestaat, is er aanleiding om het slachtoffer een asielaanvraag in te laten dienen wegens asielgerelateerde gronden. Er zal derhalve voor verlening van een reguliere verblijfsvergunning in ieder geval sprake moeten zijn van een dreiging in Nederland. Naast dreiging in Nederland, dient ook in het land van herkomst dreiging aanwezig te zijn. De vreemdeling dient in dit kader aannemelijk te maken dat er familieleden in het land van herkomst wonen, welke familieleden dat zijn en waar zij woonachtig zijn.
+
+### 6. Afgifte van het verblijfsdocument
+
+### 8. Verlenging
+
+Het is niet de bedoeling dat niet terzake gespecialiseerde ambtenaren van de IND zich een eigenstandig oordeel vormen over de mogelijke dreiging van eergerelateerd geweld.
+
+De geldigheidsduur van de verblijfsvergunning van het slachtoffer kan worden verlengd zolang de dreiging van eergerelateerd geweld voort duurt. De geldigheid van de verblijfsvergunning wordt niet verlengd indien er geen sprake meer is van dreiging van eergerelateerd geweld.
+
+### 9. Plaats van indienen van de aanvraag
+
+De aanvraag om verlenging van de geldigheidsduur van de verblijfsvergunning van het slachtoffer van dreigend eergerelateerd geweld kan rechtstreeks bij de IND worden ingediend (zie [artikel 3.33b VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.33b)).
+
+### 10. Leges
+
+Aan verstrekking op grond van de [Rvb](https://wetten.overheid.nl/jci1.3:c:BWBR0009726) wordt de voorwaarde verbonden dat er een aanvraag voor een verblijfsvergunning op grond van dreigend eergerelateerd geweld is ingediend en dat er sprake is van verblijf bij een instelling voor vrouwenopvang. Het COA gaat bij de IND en bij de instelling voor vrouwenopvang na of aan deze voorwaarde is voldaan.
+
+Op grond van [artikel 3.34b, onder j en k, VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.34b) zijn slachtoffers van dreigend eergerelateerd geweld die in aanmerking komen voor verlening van de geldigheidsduur van de verblijfsvergunning regulier voor bepaalde tijd onder een beperking verband houdend met dreigend eergerelateerd geweld, en hun minderjarige kinderen geen leges verschuldigd.
+
+### 11. Wijziging beperking en voortgezet verblijf ex [artikel 3.52 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.52)
+
+Het COA beëindigt de verstrekking krachtens de [Rvb](https://wetten.overheid.nl/jci1.3:c:BWBR0009726) niet eerder dan nadat een verblijfsvergunning is afgegeven of de aanvraag om een verblijfsvergunning op grond van dreigend eergerelateerd geweld is afgewezen en hiertegen geen bezwaar of beroep is ingesteld dat de vreemdeling hier te lande mag afwachten. Na afgifte van de verblijfsvergunning maakt het slachtoffer eergerelateerd geweld aanspraak op een uitkering ingevolge de [Wwb](https://wetten.overheid.nl/jci1.3:c:BWBR0015703).
+
+Nadat de grond aan de verblijfsvergunning als bedoeld in dit hoofdstuk is komen te ontvallen dient betrokkene Nederland te verlaten.
+
+Dit is slechts anders indien betrokkene tijdig een aanvraag doet om wijziging van de verblijfsvergunning voor een ander doel en aan de in dat kader gestelde voorwaarden is voldaan. Betrokkene dient dan een wijziging van de beperking aan te vragen. Het gaat hier om een aanvraag die niet gerelateerd is aan dreigend eergerelateerd geweld.
+
+### 12. Gezinshereniging
+
+Voor verlening van een verblijfsvergunning in het kader van gezinshereniging komen in aanmerking:
+
+Voor verlening van een verblijfsvergunning in het kader van gezinshereniging komen in aanmerking:
+
+Op deze aanvraag zijn de algemene toelatingsvoorwaarden als verwoord in [artikel 16 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) en de algemene bepalingen van B2 van toepassing, met uitzondering van de bepalingen in zake het middelenvereiste.
+
+Om te verzekeren dat de minderjarige kinderen slechts verblijf krijgen gedurende de periode van toelating van het slachtoffer van dreigend eergerelateerd geweld, krijgt de aan hen verstrekte verblijfsvergunning dezelfde geldigheidsduur als die van het slachtoffer.
+
+### 1. Inleiding
+
+### 2. Voorwaarden verblijfsvergunning slachtoffer eergerelateerd geweld
 
 ### 3.1. Briefadres
 
@@ -15959,39 +16081,61 @@ Indien het slachtoffer van dreigend eergerelateerd geweld tijdens de verdere pro
 
 ### 3.2. Landelijk Expertisecentrum Eergerelateerd Geweld
 
-Ter beoordeling van de vraag of sprake is van dreigend eergerelateerd geweld in Nederland, wordt advies ingewonnen bij het Landelijk Expertisecentrum Eergerelateerd Geweld van de Nederlandse Politie.
-
-### 7. Geldigheidsduur van de verblijfsvergunning
-
-Uit de analyse moet in ieder geval blijken of er sprake is van langdurige dreiging van eergerelateerd geweld die de verstrekking van een verblijfsvergunning rechtvaardigt. Wanneer het Landelijk Expertisecentrum Eergerelateerd Geweld mogelijkheden ziet waardoor de dreiging in die periode op de een of andere manier afgewend kan worden, moet dit in de analyse worden meegenomen.
-
-De inhoud van de analyse van het Landelijk Expertisecentrum Eergerelateerd Geweld vormt de basis van de beslissing omtrent de aanvraag om een verblijfsvergunning. De IND zal opnieuw om een analyse verzoeken indien daaraan zodanige gebreken kleven dat dit niet als basis kan dienen voor een zorgvuldig besluit omtrent de verlening van een verblijfsvergunning.
-
-Het Landelijk Expertisecentrum Eergerelateerd Geweld van de Nederlandse Politie maakt hiervan in de analyse melding. De contactpersoon mensenhandel/gender van de IND, alsmede aan het slachtoffer van dreigend eergerelateerd geweld worden op de hoogte gesteld van de analyse.
-
-### 8. Verlenging
-
-Aan verstrekking op grond van de [Rvb](https://wetten.overheid.nl/jci1.3:c:BWBR0009726) wordt de voorwaarde verbonden dat er een aanvraag voor een verblijfsvergunning op grond van dreigend eergerelateerd geweld is ingediend en dat er sprake is van verblijf bij een instelling voor vrouwenopvang. Het COA gaat bij de IND en bij de instelling voor vrouwenopvang na of aan deze voorwaarde is voldaan.
-
-Voor de beoordeling van de verlengingsaanvraag dient de IND bij het Landelijk Expertisecentrum Eergerelateerd Geweld van de Nederlandse Politie wederom een (aanvullende) analyse aan te vragen. De algemene voorwaarden van [artikel 18, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=18) zijn van toepassing, met uit zondering van het middelenvereiste.
-
-### 9. Plaats van indienen van de aanvraag
-
 Het COA beëindigt de verstrekking krachtens de [Rvb](https://wetten.overheid.nl/jci1.3:c:BWBR0009726) niet eerder dan nadat een verblijfsvergunning is afgegeven of de aanvraag om een verblijfsvergunning op grond van dreigend eergerelateerd geweld is afgewezen en hiertegen geen bezwaar of beroep is ingesteld dat de vreemdeling hier te lande mag afwachten. Na afgifte van de verblijfsvergunning maakt het slachtoffer eergerelateerd geweld aanspraak op een uitkering ingevolge de [Wwb](https://wetten.overheid.nl/jci1.3:c:BWBR0015703).
 
 ### 4. De beslissing
-
-De contactpersoon gender van de IND vraagt een analyse aan het Landelijk Expertisecentrum Eergerelateerd Geweld van de Nederlandse Politie over de aanwezigheid van dreiging van eergerelateerd geweld.
 
 Gelet hierop zal de wettelijke beslistermijn, op grond van [artikel 25, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=25) met ten hoogste zes maanden kunnen worden verlengd.
 
 ### 5. Beperking en arbeidsmarktaantekening
 
-Aan de vergunning wordt als voorschrift verbonden de verplichting voldoende verzekerd te zijn tegen ziektekosten, met inbegrip van de kosten verbonden aan opname en verpleging in een sanatorium of een psychiatrische inrichting.
-
-Dit is slechts anders indien betrokkene tijdig een aanvraag doet om wijziging van de verblijfsvergunning voor een ander doel en aan de in dat kader gestelde voorwaarden is voldaan. Betrokkene dient dan een wijziging van de beperking aan te vragen. Het gaat hier om een aanvraag die niet gerelateerd is aan dreigend eergerelateerd geweld.
+### 6. Afgifte van het verblijfsdocument
 
 Het verblijfsdocument wordt afgegeven door de korpschef onder wiens verantwoordelijkheid het slachtoffer van dreigend eergerelateerd geweld valt.
+
+### 7. Geldigheidsduur van de verblijfsvergunning
+
+### 8. Verlenging
+
+Voor de beoordeling van de verlengingsaanvraag dient de IND bij het Landelijk Expertisecentrum Eergerelateerd Geweld van de Nederlandse Politie wederom een (aanvullende) analyse aan te vragen. De algemene voorwaarden van [artikel 18, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=18) zijn van toepassing, met uit zondering van het middelenvereiste.
+
+### 9. Plaats van indienen van de aanvraag
+
+De aanvraag om verlenging van de geldigheidsduur van de verblijfsvergunning van het slachtoffer van dreigend eergerelateerd geweld kan rechtstreeks bij de IND worden ingediend (zie [artikel 3.33b VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.33b)).
+
+### 10. Leges
+
+Op grond van [artikel 3.34e VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.34e) is deze categorie vreemdelingen voor de aanvraag om verlenging van de verblijfsvergunning evenmin leges verschuldigd.
+
+### 11. Wijziging beperking en voortgezet verblijf ex [artikel 3.52 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.52)
+
+Na drie jaar verblijf als houder van een verblijfsvergunning op grond van dreigend eergerelateerd geweld kan de vreemdeling op grond van [artikel 3.52 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.52) een aanvraag doen voor een verblijfsvergunning onder de beperking ‘voortgezet verblijf’, indien de dreiging van eergerelateerd geweld naar het oordeel van de Minister nog steeds aanwezig is. De vreemdeling moet gedurende de gehele periode hebben voldaan aan de voorwaarden voor verlenging van de geldigheidsduur van de oorspronkelijke verblijfsvergunning.
+
+### 12. Gezinshereniging
+
+De vreemdeling aan wie ingevolge de bepalingen van B2 een verblijfsvergunning voor verblijf bij het slachtoffer is verleend, komt niet in aanmerking voor een zelfstandige verblijfsvergunning voor voortgezet verblijf, zoals bedoeld in [artikel 3.50 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.50), aangezien het hier gaat om een verblijfsrecht van tijdelijke aard (zie [artikel 3.5, tweede lid, aanhef en onder a Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.5) en B16).
+
+### 7.2. Voorwaarden voor verlening van een verblijfsvergunning
+
+### 7.2.1. Algemene voorwaarden
+
+### 7.2.2. Bijzondere voorwaarden
+
+### 7.4. Beperking en arbeidsmarktaantekening
+
+### 7.5. Voorschriften
+
+### 20. Eergerelateerd geweld
+
+In dit hoofdstuk wordt het rechtmatig verblijf van slachtoffers van eergerelateerd geweld geregeld. Daarnaast biedt dit hoofdstuk richtlijnen voor het bieden van opvang en bescherming van slachtoffers van eergerelateerd geweld.
+
+### 3.2. Landelijk Expertisecentrum Eergerelateerd Geweld
+
+### 3.4. Beëindiging [Rvb](https://wetten.overheid.nl/jci1.3:c:BWBR0009726)
+
+### 4. De beslissing
+
+### 6. Afgifte van het verblijfsdocument
 
 ### 7. Geldigheidsduur van de verblijfsvergunning
 
@@ -16000,42 +16144,6 @@ De verblijfsvergunning wordt in beginsel voor een periode van één jaar verleen
 Indien geen sprake meer is van dreiging van eergerelateerd geweld is er geen grondslag meer voor de verblijfsvergunning gebaseerd op dreigend eergerelateerd geweld.
 
 Het Landelijk Expertisecentrum Eergerelateerd Geweld van de Nederlandse Politie maakt hiervan in de analyse melding. De contactpersoon mensenhandel/gender van de IND, alsmede aan het slachtoffer van dreigend eergerelateerd geweld worden op de hoogte gesteld van de analyse.
-
-De vreemdeling aan wie ingevolge de bepalingen van B2 een verblijfsvergunning voor verblijf bij het slachtoffer is verleend, komt niet in aanmerking voor een zelfstandige verblijfsvergunning voor voortgezet verblijf, zoals bedoeld in [artikel 3.50 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.50), aangezien het hier gaat om een verblijfsrecht van tijdelijke aard (zie [artikel 3.5, tweede lid, aanhef en onder a Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.5) en B16).
-
-### 3.1. Middelen van bestaan
-
-### 2.2. Bijzondere voorwaarden
-
-### 5. Arbeidsmarktaantekening
-
-Bij de beoordeling van de vraag of er sprake is van een dreiging van eergerelateerd geweld waarvoor een verblijfsvergunning af moet worden gegeven is van belang waar de vreemdeling gevaar loopt.
-
-Is er slechts sprake van gevaar in het land van herkomst, maar is er in Nederland geen dreiging van eergerelateerd geweld, dan is de asielprocedure de aangewezen weg. Indien er in Nederland sprake is van een dreiging van eergerelateerd geweld dan is de reguliere procedure de meest aangewezen weg. Voor verlening van een verblijfsvergunning in het kader van dit hoofdstuk dient echter wel, naast dreiging in Nederland, ook dreiging in het land van herkomst aanwezig te zijn. In dat geval kan betrokkene zich immers niet aan het gevaar onttrekken door zich in het land van herkomst te vestigen.
-
-In het kader van vergroting van de veiligheid van het slachtoffer kan de aanvraag, eventueel door tussenkomst van de vrouwenopvang, schriftelijk worden ingediend (zie B1/9.1.1).
-
-### 2. Voorwaarden verblijfsvergunning slachtoffer eergerelateerd geweld
-
-Indien de dreiging in de zeer nabije toekomst kan worden weggenomen doordat een bevredigende oplossing voor het conflict kan worden bereikt, zal er in principe geen noodzaak zijn verblijf in Nederland toe te staan. In de rapportage van het Expertisecentrum Eergerelateerd Geweld van de Nederlandse Politie zal worden opgenomen wat de verwachte duur is van het conflict.
-
-Naast levensbedreigende delicten kunnen ook andere uitingsvormen van eergerelateerd geweld, waarbij sprake is van een strafbaar feit gericht tegen het slachtoffer zoals verminking, mishandeling en wederrechtelijke vrijheidsberoving, tot vergunningverlening leiden.
-
-In afwijking van de algemene voorwaarden genoemd in [artikel 16 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) wordt de aanvraag niet afgewezen:
-
-### 3. Procedurele bepalingen slachtoffer eergerelateerd geweld
-
-Het is niet de bedoeling dat niet terzake gespecialiseerde ambtenaren van de IND zich een eigenstandig oordeel vormen over de mogelijke dreiging van eergerelateerd geweld.
-
-### 3.3. Kosten van levensonderhoud
-
-Indien de vreemdeling, in verband met dreiging van eergerelateerd geweld, in een instelling voor vrouwenopvang is opgenomen, dient de vreemdeling, indien gewenst met behulp van de instelling voor vrouwenopvang, het aanvraagformulier voor de [Rvb](https://wetten.overheid.nl/jci1.3:c:BWBR0009726) via het COA aan te vragen. De Rvb wordt verstrekt teneinde het slachtoffer in staat te stellen in haar of zijn kosten van levensonderhoud te voorzien.
-
-### 3.4. Beëindiging [Rvb](https://wetten.overheid.nl/jci1.3:c:BWBR0009726)
-
-Zolang er nog geen beslissing is op het verzoek om de verblijfsvergunning kan een slachtoffer van dreigend eergerelateerd geweld aanspraak maken op de [Rvb](https://wetten.overheid.nl/jci1.3:c:BWBR0009726).
-
-### 6. Afgifte van het verblijfsdocument
 
 ### 8. Verlenging
 
