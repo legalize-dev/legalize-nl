@@ -4,7 +4,7 @@ identifier: "BWBR0020561"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2009-12-22"
+last_updated: "2010-04-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020561"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - d. de gemeente Heerlen: € 722.366,– één behandeleenheid, 35 behandelplaatsen;
 
-- e. de gemeente Rotterdam: € 2.101.967,– twee behandeleenheden, 140 behandelplaatsen;
+- e. de gemeente Rotterdam: € 2.315.833,– twee behandeleenheden, 140 behandelplaatsen;
 
 - f. de gemeente Utrecht: € 912.126,– één behandeleenheid, 45 behandelplaatsen;
 
@@ -150,7 +150,7 @@ Het college van burgemeester en wethouders werkt mee aan door of namens de Minis
 
 ##### Artikel 9
 
-Het college van burgemeester en wethouders werkt mee aan onderzoek van de Centrale Commissie Behandeling Heroïneverslaafden naar de toepassing van de richtlijnen en protocollen, bedoeld in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0020561&artikel=3&z=2009-12-22&g=2009-12-22).
+Het college van burgemeester en wethouders werkt mee aan onderzoek van de Centrale Commissie Behandeling Heroïneverslaafden naar de toepassing van de richtlijnen en protocollen, bedoeld in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0020561&artikel=3&z=2010-04-10&g=2010-04-10).
 
 ##### Artikel 10
 
@@ -162,7 +162,7 @@ Het college van burgemeester en wethouders neemt de volgende verantwoordingsinfo
 
 ##### Artikel 11
 
-De Minister geeft binnen zes maanden na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020561&artikel=10&z=2009-12-22&g=2009-12-22), een beschikking tot vaststelling van de uitkering. De [artikelen 4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46), [4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), [4:52](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:52), [4:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:56) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn van overeenkomstige toepassing.
+De Minister geeft binnen zes maanden na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020561&artikel=10&z=2010-04-10&g=2010-04-10), een beschikking tot vaststelling van de uitkering. De [artikelen 4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46), [4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), [4:52](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:52), [4:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:56) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn van overeenkomstige toepassing.
 
 ##### Artikel 12
 
