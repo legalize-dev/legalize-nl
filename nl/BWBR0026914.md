@@ -4,7 +4,7 @@ identifier: "BWBR0026914"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-05-04"
-last_updated: "2010-04-01"
+last_updated: "2010-04-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026914"
 soort: "ministeriele-regeling"
@@ -154,6 +154,8 @@ Besluit:
 | 5.4 | Subsidieregeling energie en innovatie (Duurzame biomassa-import) | 3.2.2 |   |   |   |
 | 5.5 | Subsidieregeling energie en innovatie (Programma industriële warmtebenutting) | 3.8.2. | Haalbaarheidsonderzoek warmtereductie | Datum van inwerkingtreding van artikel 3.8.2 t/m 29-10 | 2.500.000 |
 | 5.6 | Subsidieregeling energie en innovatie (Programma industriële warmtebenutting) | 3.8.8 | Investeringprojecten industriële warmtebenutting | 15-03 t/m 19-08 | 8.000.000 |
+| 5.7 | Subsidieregeling energie en innovatie (Effectieve en efficiënte vergistingketen) | 3.9.2 | Pilotprojecten vergistingketen | 10-06 t/m 02-09 | 3.000.000 |
+|   |   |   | Demonstratieprojecten vergistingketen | 10-06 t/m 02-09 | 4.000.000 |
 | [Subsidieregeling internationaal ondernemen](https://wetten.overheid.nl/jci1.3:c:BWBR0026819) | [Subsidieregeling internationaal ondernemen](https://wetten.overheid.nl/jci1.3:c:BWBR0026819) | [Subsidieregeling internationaal ondernemen](https://wetten.overheid.nl/jci1.3:c:BWBR0026819) | [Subsidieregeling internationaal ondernemen](https://wetten.overheid.nl/jci1.3:c:BWBR0026819) | [Subsidieregeling internationaal ondernemen](https://wetten.overheid.nl/jci1.3:c:BWBR0026819) | [Subsidieregeling internationaal ondernemen](https://wetten.overheid.nl/jci1.3:c:BWBR0026819) |
 | 6.1 | Subsidieregeling internationaal ondernemen (Prepare2Start) | 2.2 |   | 01-01 t/m 31-12 | 15.000.000 |
 | [Subsidieregeling internationaal excelleren](https://wetten.overheid.nl/jci1.3:c:BWBR0026983) | [Subsidieregeling internationaal excelleren](https://wetten.overheid.nl/jci1.3:c:BWBR0026983) | [Subsidieregeling internationaal excelleren](https://wetten.overheid.nl/jci1.3:c:BWBR0026983) | [Subsidieregeling internationaal excelleren](https://wetten.overheid.nl/jci1.3:c:BWBR0026983) | [Subsidieregeling internationaal excelleren](https://wetten.overheid.nl/jci1.3:c:BWBR0026983) | [Subsidieregeling internationaal excelleren](https://wetten.overheid.nl/jci1.3:c:BWBR0026983) |
