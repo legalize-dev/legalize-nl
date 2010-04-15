@@ -4,7 +4,7 @@ identifier: "BWBR0026914"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-05-04"
-last_updated: "2010-04-14"
+last_updated: "2010-04-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026914"
 soort: "ministeriele-regeling"
@@ -134,6 +134,7 @@ Besluit:
 | 3.28 | Subsidieregeling sterktes in innovatie (Technologische Topinstituten) | 10d.2 |   |   |   |
 | 3.29 | Subsidieregeling sterktes in innovatie (innovatieve zeescheepsbouw) | 10e.2 |   | 01-01 t/m 31-10 | 17.500.000 |
 | 3.30 | Subsidieregeling sterktes in innovatie (prekwalificatie ESA/programma’s) | 10f.2 |   | 01-01 t/m 26-02 | 5.899.143 |
+| 3.31 | Subsidieregeling sterktes in innovatie (Service Innovation & ICT) | 10h.2 |   | 15-04 t/m 17-06 | 4.500.000 |
 | 3.31 | Subsidieregeling sterktes in innovatie (strategisch onderzoeksprogramma vliegtuigontwikkeling) | 10g.2 | onderzoek op motorcomponenten | Tijdstip van inwerkingtreding van deze regeling t/m 26-04 | 898.000 |
 | 3.32 | Subsidieregeling sterktes in innovatie (strategisch onderzoeksprogramma vliegtuigontwikkeling) | 10g.2 | thermoplasten en composieten, vezel-metaal laminaten, ontwerpmethodieken, toekomstige technologieën, vliegtuigsystemen | Tijdstip van inwerkingtreding van deze regeling t/m 26-04 | 3.592.000 |
 | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884) |
