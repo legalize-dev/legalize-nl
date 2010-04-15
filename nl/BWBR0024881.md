@@ -4,7 +4,7 @@ identifier: "BWBR0024881"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-10-01"
-last_updated: "2010-03-11"
+last_updated: "2010-04-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024881"
 soort: "ministeriele-regeling"
@@ -52,6 +52,8 @@ In deze regeling wordt verstaan onder:
 
 - –. **geïndustrialiseerde landen:** Canada, Japan, Singapore en de Verenigde Staten van Amerika;
 
+- –. **industrieel onderzoek:** industrieel onderzoek als bedoeld in paragraaf 2.2, onderdeel f, van de Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2006/C 323/01 (PbEU C323);
+
 - –. **innovatie:** technologische innovatie, met inbegrip van niet-technologische aspecten voor zover ze dienstbaar zijn aan technologische innovatie;
 
 - –. **innovatieproject:** een samenhangend geheel van activiteiten, dat is gericht op innovatie voor Nederland en een bijdrage kan leveren aan duurzame economische groei in Nederland;
@@ -64,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 1.2
 
-1. Het rapport van feitelijke bevindingen, bedoeld in [artikel 12, derde lid, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=12), wordt opgesteld op basis van het protocol dat is opgenomen in [bijlage 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=1.1&z=2010-03-11&g=2010-03-11) bij deze regeling
+1. Het rapport van feitelijke bevindingen, bedoeld in [artikel 12, derde lid, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=12), wordt opgesteld op basis van het protocol dat is opgenomen in [bijlage 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=1.1&z=2010-04-15&g=2010-04-15) bij deze regeling
 
 2. Als rapport als bedoeld in [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=12), wordt aangewezen een afschrift van het rapport van feitelijke bevindingen van een externe accountant inzake de actueel gebruikte methode voor berekening van de personeelskosten en indirecte kosten dat is opgesteld in het kader van [verordening (EG) nr. 1906/2006](32006R1906) van het Europees Parlement en de Raad van de Europese Unie van 18 december 2006 tot vaststelling van de regels voor de deelname van ondernemingen, onderzoekscentra en universiteiten aan acties op grond van het zevende kaderprogramma, en voor verspreiding van onderzoeksresultaten (2007–2013) (PbEU L 391) en, indien de subsidie-ontvanger daarover beschikt, een afschrift van de goedkeuring door de Europese Commissie van dat rapport.
 
@@ -130,7 +132,7 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ##### Artikel 2.7
 
-1. Er is een Adviescommissie Internationaal Innoveren die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=2&artikel=2.9&z=2010-03-11&g=2010-03-11) en de rangschikkingscriteria, bedoeld in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=2&artikel=2.10&z=2010-03-11&g=2010-03-11).
+1. Er is een Adviescommissie Internationaal Innoveren die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=2&artikel=2.9&z=2010-04-15&g=2010-04-15) en de rangschikkingscriteria, bedoeld in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=2&artikel=2.10&z=2010-04-15&g=2010-04-15).
 
 2. De commissie bestaat uit ten minste drie en ten hoogste vijftien leden.
 
@@ -178,7 +180,7 @@ In afwijking van [artikel 39 van het Kaderbesluit EZ-subsidies](https://wetten.o
 
 In dit hoofdstuk wordt verstaan onder:
 
-- –. **IOP:** een op innovatie gericht onderzoeksprogramma als bedoeld in [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=3&artikel=3.7&z=2010-03-11&g=2010-03-11) met als zwaartepunt fundamenteel onderzoek en bestaande uit een samenhangend geheel van onderzoeksprojecten welke door publiek gefinancierde onderzoeksorganisaties en ondernemers worden uitgevoerd;
+- –. **IOP:** een op innovatie gericht onderzoeksprogramma als bedoeld in [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=3&artikel=3.7&z=2010-04-15&g=2010-04-15) met als zwaartepunt fundamenteel onderzoek en bestaande uit een samenhangend geheel van onderzoeksprojecten welke door publiek gefinancierde onderzoeksorganisaties en ondernemers worden uitgevoerd;
 
 - –. **IOP-project:** een onderzoeksproject passend binnen een innovatiegericht onderzoeksprogramma, bestaande uit een voor Nederland nieuw, planmatig en met elkaar samenhangend geheel van activiteiten op het terrein van fundamenteel onderzoek of een combinatie van fundamenteel onderzoek met industrieel onderzoek of experimentele ontwikkeling;
 
@@ -196,7 +198,7 @@ De penvoerder is een publiek gefinancierde onderzoeksorganisatie.
 
 ##### Artikel 3.4
 
-Een aanvraag wordt niet ingediend dan nadat daarover namens de commissie, genoemd in [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=3&artikel=3.9&z=2010-03-11&g=2010-03-11), aan de aanvrager advies is uitgebracht op basis van een vooraanmelding.
+Een aanvraag wordt niet ingediend dan nadat daarover namens de commissie, genoemd in [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=3&artikel=3.9&z=2010-04-15&g=2010-04-15), aan de aanvrager advies is uitgebracht op basis van een vooraanmelding.
 
 ##### Artikel 3.5
 
@@ -250,7 +252,7 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ##### Artikel 3.9
 
-1. Voor elk onderzoeksprogramma, genoemd in [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=3&artikel=3.7&z=2010-03-11&g=2010-03-11), is er een adviescommissie die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=3&artikel=3.10&z=2010-03-11&g=2010-03-11) en de rangschikkingscriteria, bedoeld in [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=3&artikel=3.11&z=2010-03-11&g=2010-03-11).
+1. Voor elk onderzoeksprogramma, genoemd in [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=3&artikel=3.7&z=2010-04-15&g=2010-04-15), is er een adviescommissie die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=3&artikel=3.10&z=2010-04-15&g=2010-04-15) en de rangschikkingscriteria, bedoeld in [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=3&artikel=3.11&z=2010-04-15&g=2010-04-15).
 
 2. De commissie bestaat uit ten minste drie en ten hoogste twaalf leden.
 
@@ -344,7 +346,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - –. **internationaal MKB-samenwerkingsverband:** een internationaal samenwerkingverband dat een LSH-project uitvoert en:
 
-- a. dat bestaat uit minimaal twee deelnemers waarbij de ene in Nederland is gevestigd als MKB-ondernemer en de andere in een land, genoemd in [bijlage 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=4.1&z=2010-03-11&g=2010-03-11);
+- a. dat bestaat uit minimaal twee deelnemers waarbij de ene in Nederland is gevestigd als MKB-ondernemer en de andere in een land, genoemd in [bijlage 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=4.1&z=2010-04-15&g=2010-04-15);
 
 - b. waarin de inbreng van één land of samenwerkingspartner niet hoger is dan 70 procent van de subsidiabele kosten van het LSH-project met uitzondering van een internationaal MKB-samenwerkingsverband met India en
 
@@ -356,7 +358,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - b. ontwikkeling van medische technologie welke leidt tot specifieke behandelmethodes of diagnostiek of
 
-- c. ontwikkeling van biomedische materialen of producten gebaseerd op deze materialen, dat past binnen [bijlage 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=4.2&z=2010-03-11&g=2010-03-11).
+- c. ontwikkeling van biomedische materialen of producten gebaseerd op deze materialen, dat past binnen [bijlage 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=4.2&z=2010-04-15&g=2010-04-15).
 
 #### § 2. Subsidie aan ETB-samenwerkingsverbanden
 
@@ -388,7 +390,7 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ##### Artikel 4.6
 
-1. Er is een Adviescommissie Life Sciences & Health die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=2&artikel=4.8&z=2010-03-11&g=2010-03-11), en de rangschikkingscriteria, bedoeld in [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=2&artikel=4.9&z=2010-03-11&g=2010-03-11).
+1. Er is een Adviescommissie Life Sciences & Health die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=2&artikel=4.8&z=2010-04-15&g=2010-04-15), en de rangschikkingscriteria, bedoeld in [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=2&artikel=4.9&z=2010-04-15&g=2010-04-15).
 
 2. De commissie bestaat uit ten minste twee en ten hoogste vijf leden.
 
@@ -404,7 +406,7 @@ De minister beslist afwijzend op een aanvraag indien:
 
 - a. niet ten minste 35 procent van de op grond van dit hoofdstuk subsidiabele kosten ten laste komen van deelnemende MKB-ondernemers;
 
-- b. het ETB-samenwerkingsverband na indiening van de aanvraag niet meer voldoet aan [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2010-03-11&g=2010-03-11) of de financiering van het totale project onvoldoende blijkt;
+- b. het ETB-samenwerkingsverband na indiening van de aanvraag niet meer voldoet aan [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2010-04-15&g=2010-04-15) of de financiering van het totale project onvoldoende blijkt;
 
 - c. van het LSH-project onvoldoende positieve gevolgen voor de Nederlandse economie te verwachten zijn.
 
@@ -458,7 +460,7 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ##### Artikel 4.15
 
-1. De in [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=2&artikel=4.6&z=2010-03-11&g=2010-03-11) bedoelde adviescommissie heeft tevens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=3&artikel=4.17&z=2010-03-11&g=2010-03-11), en de rangschikkingscriteria, bedoeld in [artikel 4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=3&artikel=4.18&z=2010-03-11&g=2010-03-11).
+1. De in [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=2&artikel=4.6&z=2010-04-15&g=2010-04-15) bedoelde adviescommissie heeft tevens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=3&artikel=4.17&z=2010-04-15&g=2010-04-15), en de rangschikkingscriteria, bedoeld in [artikel 4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=3&artikel=4.18&z=2010-04-15&g=2010-04-15).
 
 2. De commissie bestaat uit ten minste twee en ten hoogste vijf leden.
 
@@ -474,7 +476,7 @@ De minister beslist afwijzend op een aanvraag indien:
 
 - a. niet ten minste 35 procent van de op grond van dit hoofdstuk subsidiabele kosten ten laste komen van deelnemende MKB-ondernemers;
 
-- b. het internationaal MKB-samenwerkingsverband na indiening van de aanvraag niet meer voldoet aan [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2010-03-11&g=2010-03-11) of de financiering van het totale project onvoldoende blijkt;
+- b. het internationaal MKB-samenwerkingsverband na indiening van de aanvraag niet meer voldoet aan [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2010-04-15&g=2010-04-15) of de financiering van het totale project onvoldoende blijkt;
 
 - c. van het LSH-project onvoldoende positieve gevolgen voor de Nederlandse economie te verwachten zijn.
 
@@ -508,7 +510,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - –. **FND-haalbaarheidsproject:** een samenstel van activiteiten, dat leidt tot een schriftelijk rapport met een inschatting van de technische en economische mogelijkheden van een FND-innovatieproject;
 
-- –. **FND-innovatieproject:** een innovatieproject, bestaande uit industrieel onderzoek of experimentele ontwikkeling of een combinatie hiervan, dat past binnen [bijlage 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=5.1&z=2010-03-11&g=2010-03-11);
+- –. **FND-innovatieproject:** een innovatieproject, bestaande uit industrieel onderzoek of experimentele ontwikkeling of een combinatie hiervan, dat past binnen [bijlage 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=5.1&z=2010-04-15&g=2010-04-15);
 
 - –. **FND-MKB-innovatieproject:** een FND-innovatieproject, uitgevoerd door een FND-MKB-samenwerkingsverband;
 
@@ -588,7 +590,7 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ##### Artikel 5.13
 
-1. Er is een Adviescommissie Food & Nutrition Delta die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 5.15](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=5&paragraaf=3&artikel=5.15&z=2010-03-11&g=2010-03-11) en de rangschikkingscriteria, bedoeld in [artikel 5.16](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=5&paragraaf=3&artikel=5.16&z=2010-03-11&g=2010-03-11).
+1. Er is een Adviescommissie Food & Nutrition Delta die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 5.15](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=5&paragraaf=3&artikel=5.15&z=2010-04-15&g=2010-04-15) en de rangschikkingscriteria, bedoeld in [artikel 5.16](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=5&paragraaf=3&artikel=5.16&z=2010-04-15&g=2010-04-15).
 
 2. De commissie bestaat uit ten minste drie en ten hoogste zeven leden.
 
@@ -684,15 +686,15 @@ De minister beslist afwijzend op een aanvraag indien het FND-MKB-innovatieprojec
 
 In dit hoofdstuk wordt verstaan onder:
 
-- –. **HTAS-doorbraakproject:** een samenhangend geheel van activiteiten,al dan niet opgesplitst in opeenvolgende deelprojecten, dat de strategische hoofddoelen van het innovatieprogramma High Tech Automotive Systems (HTAS) zoals genoemd in [bijlage 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.1&z=2010-03-11&g=2010-03-11) haalbaar kan maken, en is gericht op de in de roadmap van HTAS benoemde prioriteiten zoals genoemd in [bijlage 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.2&z=2010-03-11&g=2010-03-11), waarbij het gaat om een in internationaal perspectief nog niet gerealiseerde integrale technologie of innovatieve integratie van technieken;
+- –. **HTAS-doorbraakproject:** een samenhangend geheel van activiteiten,al dan niet opgesplitst in opeenvolgende deelprojecten, dat de strategische hoofddoelen van het innovatieprogramma High Tech Automotive Systems (HTAS) zoals genoemd in [bijlage 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.1&z=2010-04-15&g=2010-04-15) haalbaar kan maken, en is gericht op de in de roadmap van HTAS benoemde prioriteiten zoals genoemd in [bijlage 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.2&z=2010-04-15&g=2010-04-15), waarbij het gaat om een in internationaal perspectief nog niet gerealiseerde integrale technologie of innovatieve integratie van technieken;
 
 - –. **HTAS-doorbraaksamenwerkingsverband:** een geen rechtspersoonlijkheid bezittend verband, bestaande uit tenminste één MKB-ondernemer en tenminste één onderzoeksorganisatie en dat voor gezamenlijke rekening en risico een HTAS-doorbraakproject uitvoert;
 
-- –. **HTAS-EVT-project:** een innovatieproject bestaande uit experimentele ontwikkeling of een combinatie van experimentele ontwikkeling en industrieel onderzoek, dat bijdraagt aan en past binnen de strategische hoofddoelen van het HTAS-programma zoals genoemd in [bijlage 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.1&z=2010-03-11&g=2010-03-11) en het thema, de specifieke doelen en de aandachtsgebieden zoals genoemd in [bijlage 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.3&z=2010-03-11&g=2010-03-11);
+- –. **HTAS-EVT-project:** een innovatieproject bestaande uit experimentele ontwikkeling of een combinatie van experimentele ontwikkeling en industrieel onderzoek, dat bijdraagt aan en past binnen de strategische hoofddoelen van het HTAS-programma zoals genoemd in [bijlage 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.1&z=2010-04-15&g=2010-04-15) en het thema, de specifieke doelen en de aandachtsgebieden zoals genoemd in [bijlage 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.3&z=2010-04-15&g=2010-04-15);
 
 - –. **HTAS-EVT-samenwerkingsverband:** een geen rechtspersoonlijkheid bezittend verband, bestaande uit twee of meer niet in een groep verbonden deelnemers, waarvan tenminste één MKB-ondernemer en een andere partij ofwel een ondernemer ofwel een onderzoeksorganisatie is dat een HTAS-EVT-project uitvoert;
 
-- –. **HTAS-internationaal innovatieproject:** een innovatieproject dat wordt uitgevoerd door een HTAS- internationaal innovatiesamenwerkingsverband en is voorzien van een Eureka-label of betreffende een samenwerkingsverband met Canada, Japan, Singapore of de Verenigde Staten van Amerika of een samenwerkingsverband op basis van een bilaterale samenwerkingsovereenkomst en dat bijdraagt aan en past binnen de doelstellingen en focusgebieden van het HTAS-programma zoals genoemd in [bijlage 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.1&z=2010-03-11&g=2010-03-11);
+- –. **HTAS-internationaal innovatieproject:** een innovatieproject dat wordt uitgevoerd door een HTAS- internationaal innovatiesamenwerkingsverband en is voorzien van een Eureka-label of betreffende een samenwerkingsverband met Canada, Japan, Singapore of de Verenigde Staten van Amerika of een samenwerkingsverband op basis van een bilaterale samenwerkingsovereenkomst en dat bijdraagt aan en past binnen de doelstellingen en focusgebieden van het HTAS-programma zoals genoemd in [bijlage 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.1&z=2010-04-15&g=2010-04-15);
 
 - –. **HTAS- internationaal innovatiesamenwerkingsverband:** een internationaal innovatiesamenwerkingsverband waarbij:
 
@@ -732,7 +734,7 @@ De minister verdeelt het subsidieplafond op volgorde van binnenkomst van de aanv
 
 ##### Artikel 6.6
 
-1. Er is een Adviescommissie HTAS-innovatieprojecten die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=2&artikel=6.8&z=2010-03-11&g=2010-03-11).
+1. Er is een Adviescommissie HTAS-innovatieprojecten die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=2&artikel=6.8&z=2010-04-15&g=2010-04-15).
 
 2. De commissie bestaat uit ten minste drie en ten hoogste zeven leden.
 
@@ -786,7 +788,7 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ##### Artikel 6.13
 
-De adviescommissie, genoemd in [artikel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=2&artikel=6.6&z=2010-03-11&g=2010-03-11) heeft eveneens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=3&artikel=6.14&z=2010-03-11&g=2010-03-11) en de rangschikkingscriteria, bedoeld in [artikel 6.15](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=3&artikel=6.15&z=2010-03-11&g=2010-03-11).
+De adviescommissie, genoemd in [artikel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=2&artikel=6.6&z=2010-04-15&g=2010-04-15) heeft eveneens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=3&artikel=6.14&z=2010-04-15&g=2010-04-15) en de rangschikkingscriteria, bedoeld in [artikel 6.15](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=3&artikel=6.15&z=2010-04-15&g=2010-04-15).
 
 ##### Artikel 6.14
 
@@ -798,7 +800,7 @@ De minister beslist afwijzend op een aanvraag
 
 - a. van een overheid of overheidsinstelling, tenzij het een onderzoeksorganisatie betreft;
 
-- b. wanneer het project niet past binnen de focusgebieden van het HTAS-innovatieprogramma zoals omschreven in [bijlage 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.1&z=2010-03-11&g=2010-03-11);
+- b. wanneer het project niet past binnen de focusgebieden van het HTAS-innovatieprogramma zoals omschreven in [bijlage 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.1&z=2010-04-15&g=2010-04-15);
 
 - c. indien van het HTAS-internationaal innovatieproject project onvoldoende positieve gevolgen voor de Nederlandse economie te verwachten zijn.
 
@@ -812,7 +814,7 @@ De minister beslist afwijzend op een aanvraag
 
 - c. de verwachte economische waarde van de projectresultaten, de aansluiting bij de doelstellingen van de deelnemers en de uitgebreidheid van de toepassingsmogelijkheden van de projectresultaten;
 
-- d. de in [bijlage 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.1&z=2010-03-11&g=2010-03-11)opgenomen doelstellingen en focusgebieden van het HTAS-innovatieprogramma.
+- d. de in [bijlage 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.1&z=2010-04-15&g=2010-04-15)opgenomen doelstellingen en focusgebieden van het HTAS-innovatieprogramma.
 
 2. Voor de rangschikking wegen de in het eerste lid genoemde criteria even zwaar.
 
@@ -828,9 +830,9 @@ In afwijking van [artikel 39 van het Kaderbesluit EZ-subsidies](https://wetten.o
 
 In dit hoofdstuk wordt verstaan onder:
 
-- –. **innoWATOR-project:** een innovatieproject, bestaande uit industrieel onderzoek, experimentele ontwikkeling of een combinatie daarvan, dat is gericht op de ontwikkeling van een product, proces of dienst en dat past binnen [bijlage 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=7.1&z=2010-03-11&g=2010-03-11);
+- –. **innoWATOR-project:** een innovatieproject, bestaande uit industrieel onderzoek, experimentele ontwikkeling of een combinatie daarvan, dat is gericht op de ontwikkeling van een product, proces of dienst en dat past binnen [bijlage 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=7.1&z=2010-04-15&g=2010-04-15);
 
-- –. internationaal innoWATOR-project:een innovatieproject, bestaande uit industrieel onderzoek, experimentele ontwikkeling of een combinatie daarvan dat, hetzij is voorzien van een EUREKA-label hetzij een samenwerkingsverband betreft met een van de geïndustrialiseerde landen of India, dat is gericht op de ontwikkeling van een project, proces of dienst en dat past binnen [bijlage 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=7.1&z=2010-03-11&g=2010-03-11) van deze regeling;
+- –. internationaal innoWATOR-project:een innovatieproject, bestaande uit industrieel onderzoek, experimentele ontwikkeling of een combinatie daarvan dat, hetzij is voorzien van een EUREKA-label hetzij een samenwerkingsverband betreft met een van de geïndustrialiseerde landen of India, dat is gericht op de ontwikkeling van een project, proces of dienst en dat past binnen [bijlage 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=7.1&z=2010-04-15&g=2010-04-15) van deze regeling;
 
 - –. **innoWATOR-samenwerkingsverband:** een innovatiesamenwerkingsverband dat is opgericht ten behoeve van de uitvoering van een innoWATOR-project en waaraan ten minste één in Nederland gevestigde ondernemer deelneemt;
 
@@ -866,7 +868,7 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ##### Artikel 7.6
 
-1. Er is een Adviescommissie innoWATOR die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=2&artikel=7.8&z=2010-03-11&g=2010-03-11) en de rangschikkingscriteria, bedoeld in [artikel 7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=2&artikel=7.9&z=2010-03-11&g=2010-03-11)
+1. Er is een Adviescommissie innoWATOR die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=2&artikel=7.8&z=2010-04-15&g=2010-04-15) en de rangschikkingscriteria, bedoeld in [artikel 7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=2&artikel=7.9&z=2010-04-15&g=2010-04-15)
 
 2. De commissie bestaat uit ten minste drie en ten hoogste 21 leden.
 
@@ -882,7 +884,7 @@ De minister beslist afwijzend op een aanvraag indien:
 
 - a. hij de subsidiabele kosten raamt op minder dan € 150.000;
 
-- b. het project onvoldoende bijdraagt aan de doelstellingen genoemd in de bij deze regeling behorende [bijlage 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=7.1&z=2010-03-11&g=2010-03-11);
+- b. het project onvoldoende bijdraagt aan de doelstellingen genoemd in de bij deze regeling behorende [bijlage 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=7.1&z=2010-04-15&g=2010-04-15);
 
 - c. er geen relevante potentiële eindgebruiker van de te ontwikkelen technologie bij het project betrokken is;
 
@@ -934,7 +936,7 @@ De minister verdeelt het subsidieplafond op volgorde binnenkomst van de aanvrage
 
 ##### Artikel 7.14
 
-De adviescommissie, genoemd in [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=2&artikel=7.6&z=2010-03-11&g=2010-03-11) heeft eveneens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 7.16](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=3&artikel=7.16&z=2010-03-11&g=2010-03-11).
+De adviescommissie, genoemd in [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=2&artikel=7.6&z=2010-04-15&g=2010-04-15) heeft eveneens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 7.16](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=3&artikel=7.16&z=2010-04-15&g=2010-04-15).
 
 ##### Artikel 7.15
 
@@ -946,7 +948,7 @@ De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidi
 
 - a. hij de subsidiabele kosten raamt op minder dan € 150.000;
 
-- b. het internationaal innoWATOR-project onvoldoende bijdraagt aan de doelstellingen genoemd in de bij deze regeling behorende [bijlage 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=7.1&z=2010-03-11&g=2010-03-11);
+- b. het internationaal innoWATOR-project onvoldoende bijdraagt aan de doelstellingen genoemd in de bij deze regeling behorende [bijlage 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=7.1&z=2010-04-15&g=2010-04-15);
 
 - c. er geen relevante potentiële eindgebruiker van de te ontwikkelen technologie bij het internationaal innoWATOR-project betrokken is;
 
@@ -998,7 +1000,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 8.2
 
-De minister verstrekt op aanvraag een subsidie aan een deelnemer in een maritiem MKB-samenwerkingsverband, dat een maritiem MKB-project uitvoert dat past binnen [bijlage 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=8.1&z=2010-03-11&g=2010-03-11), of aan een MKB-ondernemer, die een maritiem MKB-project uitvoert dat past binnen [bijlage 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=8.1&z=2010-03-11&g=2010-03-11).
+De minister verstrekt op aanvraag een subsidie aan een deelnemer in een maritiem MKB-samenwerkingsverband, dat een maritiem MKB-project uitvoert dat past binnen [bijlage 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=8.1&z=2010-04-15&g=2010-04-15), of aan een MKB-ondernemer, die een maritiem MKB-project uitvoert dat past binnen [bijlage 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=8.1&z=2010-04-15&g=2010-04-15).
 
 ##### Artikel 8.3
 
@@ -1024,7 +1026,7 @@ De minister beslist afwijzend op een aanvraag indien:
 
 - a. van het maritiem MKB-project onvoldoende positieve gevolgen voor de Nederlandse economie te verwachten zijn;
 
-- b. het maritiem MKB-project onvoldoende bijdraagt aan de doelstellingen zoals opgenomen in [bijlage 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=8.1&z=2010-03-11&g=2010-03-11);
+- b. het maritiem MKB-project onvoldoende bijdraagt aan de doelstellingen zoals opgenomen in [bijlage 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=8.1&z=2010-04-15&g=2010-04-15);
 
 - c. het innovatieproject waarop het maritiem MKB-project betrekking heeft onvoldoende technisch risicovol is;
 
@@ -1036,7 +1038,7 @@ De minister beslist afwijzend op een aanvraag indien:
 
 ##### Artikel 8.8
 
-De minister verstrekt op aanvraag een subsidie aan een deelnemer in een maritiem innovatiesamenwerkingsverband, dat een maritiem innovatieproject uitvoert dat past binnen de kaders van [bijlage 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=8.1&z=2010-03-11&g=2010-03-11), of aan een MKB-ondernemer, die een maritiem innovatieproject uitvoert dat past binnen de kaders van [bijlage 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=8.1&z=2010-03-11&g=2010-03-11).
+De minister verstrekt op aanvraag een subsidie aan een deelnemer in een maritiem innovatiesamenwerkingsverband, dat een maritiem innovatieproject uitvoert dat past binnen de kaders van [bijlage 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=8.1&z=2010-04-15&g=2010-04-15), of aan een MKB-ondernemer, die een maritiem innovatieproject uitvoert dat past binnen de kaders van [bijlage 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=8.1&z=2010-04-15&g=2010-04-15).
 
 ##### Artikel 8.9
 
@@ -1064,7 +1066,7 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ##### Artikel 8.12
 
-1. Er is een Adviescommissie Maritiem Innovatie Programma die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 8.14](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=8&paragraaf=3&artikel=8.14&z=2010-03-11&g=2010-03-11) en de rangschikkingscriteria, bedoeld in [artikel 8.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=8&paragraaf=3&artikel=8.15&z=2010-03-11&g=2010-03-11).
+1. Er is een Adviescommissie Maritiem Innovatie Programma die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 8.14](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=8&paragraaf=3&artikel=8.14&z=2010-04-15&g=2010-04-15) en de rangschikkingscriteria, bedoeld in [artikel 8.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=8&paragraaf=3&artikel=8.15&z=2010-04-15&g=2010-04-15).
 
 2. De commissie bestaat uit ten minste drie en ten hoogste elf leden.
 
@@ -1136,7 +1138,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 9.2
 
-De minister verstrekt op aanvraag een subsidie aan een MKB-ondernemer in een Point One MKB-samenwerkingsverband voor het uitvoeren van een Point One MKB-project dat past binnen de technologische gebieden zoals genoemd in de bij deze regeling behorende [bijlage 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=9.1&z=2010-03-11&g=2010-03-11).
+De minister verstrekt op aanvraag een subsidie aan een MKB-ondernemer in een Point One MKB-samenwerkingsverband voor het uitvoeren van een Point One MKB-project dat past binnen de technologische gebieden zoals genoemd in de bij deze regeling behorende [bijlage 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=9.1&z=2010-04-15&g=2010-04-15).
 
 ##### Artikel 9.3
 
@@ -1156,7 +1158,7 @@ De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidi
 
 De minister beslist afwijzend op een aanvraag indien:
 
-- a. het Point One R&D-project waarop het Point One MKB-project betrekking heeft onvoldoende bijdraagt aan de doelstellingen opgenomen in de bij deze regeling behorende [bijlage 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=9.1&z=2010-03-11&g=2010-03-11);
+- a. het Point One R&D-project waarop het Point One MKB-project betrekking heeft onvoldoende bijdraagt aan de doelstellingen opgenomen in de bij deze regeling behorende [bijlage 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=9.1&z=2010-04-15&g=2010-04-15);
 
 - b. het Point One R&D-project waarop het Point One MKB-project betrekking heeft onvoldoende technisch risicovol is;
 
@@ -1172,7 +1174,7 @@ De minister beslist afwijzend op een aanvraag indien:
 
 ##### Artikel 9.8
 
-De minister verstrekt op aanvraag subsidie aan een deelnemer in een Point One R&D-samenwerkingsverband die een Point One R&D-project uitvoert dat past binnen de technologische gebieden zoals genoemd in de bij deze regeling behorende [bijlage 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=9.1&z=2010-03-11&g=2010-03-11).
+De minister verstrekt op aanvraag subsidie aan een deelnemer in een Point One R&D-samenwerkingsverband die een Point One R&D-project uitvoert dat past binnen de technologische gebieden zoals genoemd in de bij deze regeling behorende [bijlage 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=9.1&z=2010-04-15&g=2010-04-15).
 
 ##### Artikel 9.9
 
@@ -1194,7 +1196,7 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ##### Artikel 9.11
 
-1. Er is een Adviescommissie Point One Programma die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 9.13](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=3&artikel=9.13&z=2010-03-11&g=2010-03-11) en de rangschikkingscriteria, bedoeld in [artikel 9.14](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=3&artikel=9.14&z=2010-03-11&g=2010-03-11).
+1. Er is een Adviescommissie Point One Programma die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 9.13](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=3&artikel=9.13&z=2010-04-15&g=2010-04-15) en de rangschikkingscriteria, bedoeld in [artikel 9.14](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=3&artikel=9.14&z=2010-04-15&g=2010-04-15).
 
 2. De commissie bestaat uit ten minste drie en ten hoogste twintig leden.
 
@@ -1220,7 +1222,7 @@ De minister beslist afwijzend op een aanvraag indien:
 
 1. De minister rangschikt de aanvragen waarop niet afwijzend is beslist, hoger naarmate een Point One R&D-project meer bijdraagt aan:
 
-- a. de doelstellingen van [bijlage 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=9.1&z=2010-03-11&g=2010-03-11);
+- a. de doelstellingen van [bijlage 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=9.1&z=2010-04-15&g=2010-04-15);
 
 - b. een brede betrokkenheid van verschillende partijen bij het Point One R&D-project, met name van MKB-ondernemers;
 
@@ -1248,7 +1250,7 @@ De minister beslist afwijzend op een aanvraag indien:
 
 ##### Artikel 9.17
 
-De minister verstrekt op aanvraag een subsidie aan een deelnemer in een Internationaal Point One R&D-samenwerkingsverband voor het uitvoeren van een Internationaal Point One R&D-project dat past binnen de technologische gebieden zoals genoemd in de bij deze regeling behorende [bijlage 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=9.1&z=2010-03-11&g=2010-03-11).
+De minister verstrekt op aanvraag een subsidie aan een deelnemer in een Internationaal Point One R&D-samenwerkingsverband voor het uitvoeren van een Internationaal Point One R&D-project dat past binnen de technologische gebieden zoals genoemd in de bij deze regeling behorende [bijlage 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=9.1&z=2010-04-15&g=2010-04-15).
 
 ##### Artikel 9.18
 
@@ -1270,7 +1272,7 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ##### Artikel 9.20
 
-De in [artikel 9.11](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=3&artikel=9.11&z=2010-03-11&g=2010-03-11) genoemde adviescommissie heeft tevens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 9.22](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=4&artikel=9.22&z=2010-03-11&g=2010-03-11) en de rangschikkingscriteria, bedoeld in [artikel 9.23](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=4&artikel=9.23&z=2010-03-11&g=2010-03-11).
+De in [artikel 9.11](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=3&artikel=9.11&z=2010-04-15&g=2010-04-15) genoemde adviescommissie heeft tevens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 9.22](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=4&artikel=9.22&z=2010-04-15&g=2010-04-15) en de rangschikkingscriteria, bedoeld in [artikel 9.23](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=4&artikel=9.23&z=2010-04-15&g=2010-04-15).
 
 ##### Artikel 9.21
 
@@ -1290,7 +1292,7 @@ De minister beslist afwijzend op een aanvraag indien:
 
 1. De minister rangschikt de aanvragen waarop niet afwijzend is beslist, hoger naarmate een Internationaal Point One R&D-project meer bijdraagt aan:
 
-- a. de doelstellingen van [bijlage 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=9.1&z=2010-03-11&g=2010-03-11);
+- a. de doelstellingen van [bijlage 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=9.1&z=2010-04-15&g=2010-04-15);
 
 - b. een brede betrokkenheid van verschillende partijen bij het Internationaal Point One R&D-project, met name van het MKB;
 
@@ -1316,11 +1318,11 @@ De minister beslist afwijzend op een aanvraag indien:
 
 In dit hoofdstuk wordt verstaan onder:
 
-- –. **polymeren haalbaarheidsproject:** een samenstel van activiteiten dat leidt tot een schriftelijk rapport met een inschatting van de technische en economische mogelijkheden van een innovatieproject en dat past binnen [bijlage 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=10.1&z=2010-03-11&g=2010-03-11);
+- –. **polymeren haalbaarheidsproject:** een samenstel van activiteiten dat leidt tot een schriftelijk rapport met een inschatting van de technische en economische mogelijkheden van een innovatieproject en dat past binnen [bijlage 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=10.1&z=2010-04-15&g=2010-04-15);
 
-- –. **polymeren innovatieproject:** een innovatieproject bestaande uit industrieel onderzoek of experimentele ontwikkeling of een combinatie hiervan, dat past binnen [bijlage 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=10.1&z=2010-03-11&g=2010-03-11) en dat wordt uitgevoerd door een polymeren samenwerkingsverband;
+- –. **polymeren innovatieproject:** een innovatieproject bestaande uit industrieel onderzoek of experimentele ontwikkeling of een combinatie hiervan, dat past binnen [bijlage 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=10.1&z=2010-04-15&g=2010-04-15) en dat wordt uitgevoerd door een polymeren samenwerkingsverband;
 
-- –. **polymeren MKB-innovatieproject:** een innovatieproject bestaande uit industrieel onderzoek of experimentele ontwikkeling of een combinatie hiervan, dat past binnen [bijlage 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=10.1&z=2010-03-11&g=2010-03-11) en dat wordt uitgevoerd door polymeren MKB-samenwerkingsverband;
+- –. **polymeren MKB-innovatieproject:** een innovatieproject bestaande uit industrieel onderzoek of experimentele ontwikkeling of een combinatie hiervan, dat past binnen [bijlage 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=10.1&z=2010-04-15&g=2010-04-15) en dat wordt uitgevoerd door polymeren MKB-samenwerkingsverband;
 
 - –. **polymeren MKB-samenwerkingsverband:** een innovatiesamenwerkingsverband, opgericht ten behoeve van de uitvoering van een polymeren MKB-innovatieproject waarvan ten minste één van de deelnemers in het polymeren MKB-samenwerkingsverband is een in Nederland gevestigde MKB-ondernemer en een andere partij is ofwel een ondernemer ofwel een onderzoeksorganisatie.
 
@@ -1408,7 +1410,7 @@ De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidi
 
 - c. het polymeren MKB-innovatieproject geen wezenlijke bijdrage levert aan:
 
-- 1°. de doelstellingen van het Polymeren Innovatie Programma, zoals opgenomen in [bijlage 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=10.1&z=2010-03-11&g=2010-03-11);
+- 1°. de doelstellingen van het Polymeren Innovatie Programma, zoals opgenomen in [bijlage 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=10.1&z=2010-04-15&g=2010-04-15);
 
 - 2°. technologische vernieuwing of wezenlijk nieuwe toepassingen van een bestaande technologie;
 
@@ -1430,15 +1432,15 @@ De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidi
 
 Het formulier voor het indienen van een aanvraag voor:
 
-- a. subsidie voor projecten op grond van deze regeling, met uitzondering van [hoofdstuk 10e](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10e&z=2010-03-11&g=2010-03-11), is opgenomen in de bij deze regeling behorende [bijlage 11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.1&z=2010-03-11&g=2010-03-11);
+- a. subsidie voor projecten op grond van deze regeling, met uitzondering van [hoofdstuk 10e](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10e&z=2010-04-15&g=2010-04-15), is opgenomen in de bij deze regeling behorende [bijlage 11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.1&z=2010-04-15&g=2010-04-15);
 
-- b. subsidievaststelling voor projecten op grond van deze regeling, met uitzondering van [hoofdstuk 10e](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10e&z=2010-03-11&g=2010-03-11), is opgenomen in de bij deze regeling behorende [bijlage 11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.2&z=2010-03-11&g=2010-03-11);
+- b. subsidievaststelling voor projecten op grond van deze regeling, met uitzondering van [hoofdstuk 10e](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10e&z=2010-04-15&g=2010-04-15), is opgenomen in de bij deze regeling behorende [bijlage 11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.2&z=2010-04-15&g=2010-04-15);
 
-- c. een vooraanmelding als bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=3&artikel=3.4&z=2010-03-11&g=2010-03-11) is opgenomen in [bijlage 11.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.3&z=2010-03-11&g=2010-03-11);
+- c. een vooraanmelding als bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=3&artikel=3.4&z=2010-04-15&g=2010-04-15) is opgenomen in [bijlage 11.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.3&z=2010-04-15&g=2010-04-15);
 
-- d. subsidie voor een Innovatieve zeescheepsbouw project is opgenomen in de bij deze regeling behorende [bijlage 11.4](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.4&z=2010-03-11&g=2010-03-11);
+- d. subsidie voor een Innovatieve zeescheepsbouw project is opgenomen in de bij deze regeling behorende [bijlage 11.4](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.4&z=2010-04-15&g=2010-04-15);
 
-- e. subsidievaststelling voor een Innovatieve zeescheepsbouw project is opgenomen in de bij deze regeling behorende [bijlage 11.5](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.5&z=2010-03-11&g=2010-03-11).
+- e. subsidievaststelling voor een Innovatieve zeescheepsbouw project is opgenomen in de bij deze regeling behorende [bijlage 11.5](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.5&z=2010-04-15&g=2010-04-15).
 
 ### Hoofdstuk 12. Slotbepalingen
 
@@ -1738,7 +1740,7 @@ Diverse workshops en consultaties met de grootbedrijven, MKB bedrijven, brancheo
 
 Europese life sciences bedrijven hebben te maken met de zogenoemde ‘equity gap’. In de groeifase, waarbij nieuwe productconcepten de klinische onderzoeksfase ingaan, is het voor een life sciences bedrijf moeilijk financiering te vinden. In deze actielijn wordt dan ook gepleit voor een risicodragend krediet. Dit krediet moet de hefboom zijn om bedrijven in deze fase mede door een venture capitalist gefinancierd te laten worden.
 
-## Bijlage 8.1
+## Bijlage 4.1
 
 ## Bijlage 8.1
 
@@ -1792,7 +1794,7 @@ De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidi
 
 - c. het polymeren innovatieproject geen wezenlijke bijdrage levert aan:
 
-- 1°. de doelstellingen van het Polymeren Innovatie Programma, zoals opgenomen in [bijlage 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=10.1&z=2010-03-11&g=2010-03-11);
+- 1°. de doelstellingen van het Polymeren Innovatie Programma, zoals opgenomen in [bijlage 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=10.1&z=2010-04-15&g=2010-04-15);
 
 - 2°. technologische vernieuwing of wezenlijk nieuwe toepassingen van een bestaande technologie;
 
@@ -1966,23 +1968,23 @@ De valorisatiestap van concepten die voortkomen uit de publiek-private samenwerk
 
 Deze actielijn is erop gericht om alle randvoorwaarden om innovaties tot stand te laten komen zo optimaal mogelijk te maken. Het klimaat in Nederland moet buitenlandse LSG-bedrijven aantrekken. Een voorbeeld hiervan is om ervoor te zorgen dat er voldoende gekwalificeerd personeel beschikbaar is (van MBO tot WO) en het verhogen van internationale bekendheid op dit terrein.
 
-### Focus op vier kansrijke clusters
+### Behorend bij [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2010-04-15&g=2010-04-15)
 
-Zowel de selectie, de winning en exploitatie van functionele bio-ingrediënten, als de selectie en exploitatie van enzymen en micro-organismen die betrokken zijn bij het verkrijgen van bioactieve moleculen, als het borgen van de gewenste bio-activiteit op het moment van gebruik zijn belangrijke uitdagingen in de ontwikkeling van gezonde en functionele voedingsmiddelen.
+Bedrijven en kennisinstellingen hebben samen met het ministerie van EZ het innovatieprogramma Life Sciences & Health (LSH) ontwikkeld. Het programma stimuleert jonge hightech bedrijven nieuwe medische producten (vaccins, geneesmiddelen), behandelingen (weefsel- en orgaanherstel, medische implantaten) en diagnostica te ontwikkelen. Nederland heeft een sterke kennispositie op dit gebied. Bedrijven als Organon, Philips Medical en DSM en diverse jonge, beursgenoteerde life sciences bedrijven als Crucell, Pharming, Octoplus en Galapagos zijn op hun gebied internationaal toonaangevend. De ambitie van het innovatieprogramma LSH is om Nederland een internationale hotspot te laten worden op het gebied van medisch en klinisch onderzoek, waar gezondheidsgerelateerde life sciences bedrijven goed kunnen werken en groeien.
 
-Innovatieprioriteiten die in dit kader relevant zijn, zijn onder andere:
+Het ambitieniveau van dit innovatieprogramma is daarbij:
 
 ### Achtergrond
 
-Diverse workshops en consultaties met de grootbedrijven, MKB bedrijven, brancheorganisaties en onderzoeksorganisaties vonden plaats om het Innovatieprogramma FND inhoudelijk vorm en focus te geven. Dit is eerst voor fase 1 en daarna voor fase 2 gedaan. Ten behoeve van het opzetten van de onderzoeksprogramma’s van fase 1, het TTI WCFS+, is een zorgvuldig proces doorlopen van het identificeren van consumentenbehoeften, via functionele en wetenschappelijke doelen tot het ontwikkelen van innovatiethema’s en -projecten. De consumentenbehoeften die zijn geïdentificeerd als belangrijke marktgebieden voor de toekomst zijn:
+De drie belangrijke knelpunten binnen de LSH-sector zijn de doorgroei van jonge hightech MKB-ers, netwerkvorming en knelpunten binnen het LSH klimaat (o.a. human capital en wet- en regelgeving). Deze knelpunten belemmeren de valorisatie van lopend en nieuw publiek en privaat onderzoek. Deze punten worden met onderstaande agenda aangepakt.
 
-### Innovatiethema’s
+### Actielijn 1:. kapitaal voor ontwikkelingsprojecten
 
-Binnen fase 2 van het Innovatieprogramma FND worden de volgende innovatiethema’s onderscheiden:
+Europese life sciences bedrijven hebben te maken met de zogenoemde ‘equity gap’. In de groeifase, waarbij nieuwe productconcepten de klinische onderzoeksfase ingaan, is het voor een life sciences bedrijf moeilijk financiering te vinden. In deze actielijn wordt dan ook gepleit voor een risicodragend krediet. Dit krediet moet de hefboom zijn om bedrijven in deze fase mede door een venture capitalist gefinancierd te laten worden.
 
 Er ontstaat steeds meer bewustzijn omtrent de rol van voeding en gezondheid van mensen. Dit leidt allereerst tot behoefte aan nieuwe kennis omtrent de relatie tussen voedingsmiddelen en gezondheid en de identificatie van gezondheidsbevorderende voedingsmiddelen en voedingscomponenten. Daarnaast leidt dit tot de vraag naar methoden en technologie om niet-invasief gezondheid, het ontstaan van ziekten in relatie tot voeding en het effect van gezondheidsbevorderende stoffen te monitoren. Verder zijn van belang methoden en technieken om de intrinsieke gezondheidswaarde van voedingsmiddelen te monitoren en behouden in de keten en deze gezondheidswaarde van producten actief te verhogen zonder dat dit ten koste gaat van andere gewenste eigenschappen.
 
-Innovatieprioriteiten die in dit kader relevant zijn, zijn onder andere:
+De valorisatiestap van concepten die voortkomen uit de publiek-private samenwerkingen is een belangrijke om uiteindelijk tot een medisch innovatief product te komen. De sector pleit dan ook voor ondersteuning bij samenwerking. Het gaat hierbij om ondersteuning bij (internationele) samenwerkingsprojecten en bij facility sharing van bijzondere apparatuur of productiefaciliteiten. Ook vallen netwerkevenementen die R&D-samenwerking stimuleren onder deze actielijn.
 
 Naast gezondheid zijn structuur en sensoriek van voedingsmiddelen belangrijke kwaliteitsaspecten die de keuze van de consument bepalen. Hierbij kan bijvoorbeeld gedacht worden aan de invloed van structuur van voedingsmiddelen op het mondgevoel en vrijkomen van geur- en smaakstoffen tijdens consumptie. Een goede controle over beide aspecten is een belangrijke vereiste om de beoogde producten met hoge toegevoegde waarde te kunnen realiseren.
 
@@ -1996,21 +1998,21 @@ Gegarandeerde beschikbaarheid van veilig voedsel is een van de eerste vereisten 
 
 Innovatieprioriteiten die in dit kader relevant zijn, zijn onder andere:
 
-De ontwikkeling van onderscheidende nieuwe processen en producten vergt dermate veel geld en de terugverdientijd is zodanig lang dat het van groot belang is om de behoefte en het gedrag van de consument van morgen goed te kunnen voorspellen.
+Diverse workshops en consultaties met de grootbedrijven, MKB bedrijven, brancheorganisaties en onderzoeksorganisaties vonden plaats om het Innovatieprogramma FND inhoudelijk vorm en focus te geven. Dit is eerst voor fase 1 en daarna voor fase 2 gedaan. Ten behoeve van het opzetten van de onderzoeksprogramma’s van fase 1, het TTI WCFS+, is een zorgvuldig proces doorlopen van het identificeren van consumentenbehoeften, via functionele en wetenschappelijke doelen tot het ontwikkelen van innovatiethema’s en -projecten. De consumentenbehoeften die zijn geïdentificeerd als belangrijke marktgebieden voor de toekomst zijn:
 
 Onderzoeksprioriteiten die in dit kader relevant zijn, zijn onder andere:
 
 ### Vehicle efficiency
 
-Voorbeelden zijn technologie op het gebied van ICT, scheidingen, in line analyse voor processen, miniaturisering van productietechnologie, producttracering en intelligente verpakkingen.
+Er ontstaat steeds meer bewustzijn omtrent de rol van voeding en gezondheid van mensen. Dit leidt allereerst tot behoefte aan nieuwe kennis omtrent de relatie tussen voedingsmiddelen en gezondheid en de identificatie van gezondheidsbevorderende voedingsmiddelen en voedingscomponenten. Daarnaast leidt dit tot de vraag naar methoden en technologie om niet-invasief gezondheid, het ontstaan van ziekten in relatie tot voeding en het effect van gezondheidsbevorderende stoffen te monitoren. Verder zijn van belang methoden en technieken om de intrinsieke gezondheidswaarde van voedingsmiddelen te monitoren en behouden in de keten en deze gezondheidswaarde van producten actief te verhogen zonder dat dit ten koste gaat van andere gewenste eigenschappen.
 
-Toelichting: doorbraken en innovaties zijn noodzakelijk om in de maritieme maakindustrie en in de offshore dienstverlening de kennis en technologie tijdig beschikbaar te hebben. De steeds hogere eisen die gesteld worden ten aanzien van milieu, veiligheid en duurzaamheid moeten snel door nieuwe kennis en technologie kunnen worden ingevuld.
+Innovatieprioriteiten die in dit kader relevant zijn, zijn onder andere:
 
 ### Behorende bij de [artikelen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2010-03-11&g=2010-03-11), [6.15](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=3&artikel=6.15&z=2010-03-11&g=2010-03-11) en [6.16](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=3&artikel=6.16&z=2010-03-11&g=2010-03-11)
 
-De prioriteiten voor 2010 zijn:
+Innovatieprioriteiten die in dit kader relevant zijn, zijn onder andere:
 
-Het Nederlandse cluster van automotive bedrijven heeft de ambitie om binnen vijf jaar één van de leidende innovatieprogramma’s in Europa te worden op het gebied van automotive technologie.
+Zowel de selectie, de winning en exploitatie van functionele bio-ingrediënten, als de selectie en exploitatie van enzymen en micro-organismen die betrokken zijn bij het verkrijgen van bioactieve moleculen, als het borgen van de gewenste bio-activiteit op het moment van gebruik zijn belangrijke uitdagingen in de ontwikkeling van gezonde en functionele voedingsmiddelen.
 
 ## Bijlage 11.1
 
@@ -2136,9 +2138,9 @@ Het hoofddoel van het Innovatieprogramma Watertechnologie luidt:
 
 Binnen fase 2 van het Innovatieprogramma FND worden de volgende innovatiethema’s onderscheiden:
 
-### Behorende bij de [artikelen 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=8&paragraaf=2&artikel=8.2&z=2009-07-29&g=2009-07-29), [8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=8&paragraaf=3&artikel=8.8&z=2009-07-29&g=2009-07-29) en [8.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=8&paragraaf=3&artikel=8.9&z=2009-07-29&g=2009-07-29)
+### Behorende bij [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2010-04-15&g=2010-04-15)
 
-Innovatieprioriteiten die in dit kader relevant zijn, zijn onder andere:
+India
 
 ### 1. Inleiding
 
@@ -2146,7 +2148,7 @@ Dit hoofdstuk Life Sciences & Health van deze regeling is onderdeel van actielij
 
 ### 2. Doelstelling Maritiem Innovatie Programma
 
-Gegarandeerde beschikbaarheid van veilig voedsel is een van de eerste vereisten waaraan de sector moet kunnen voldoen. Om gezonde voedingsmiddelen te produceren met een optimale kwaliteit (smaak, geur en structuur) en veiligheid zijn verbeterde (minimal processing) conserveringstechnieken nodig. Veranderende consumentenbehoeften en de in het kader van deze behoeften ontwikkelde nieuwe producten en productieprocessen vereisen technologie om de veiligheid, kwaliteit en functionaliteit van voedingsmiddelen gedurende processing en in de keten te kunnen borgen.
+De kansen op het gebied van life sciences & health liggen vooral op de gebieden personalized medicine, preventieve diagnostiek en regeneratieve geneeskunde. Hier heeft Nederland met het genomics research en het lopende biomedisch onderzoek een goede kennispositie opgebouwd en zijn recent ook enkele belangrijke publiek-private samenwerkingen gestart. Dit betreft TIPharma, het Center for Translational Molecular Medicine (CTMM) en het BioMedical Materials program (BMM), die zich richten op het pre-competitieve deel van de kennisontwikkeling.
 
 ### Instrumenten ter bevordering van innovatie
 
@@ -2154,21 +2156,21 @@ De ontwikkeling van onderscheidende nieuwe processen en producten vergt dermate 
 
 ### 1. LNG supply chain
 
-Innovatieprioriteiten die in dit kader relevant zijn, zijn onder andere:
+Deze actielijn is erop gericht om alle randvoorwaarden om innovaties tot stand te laten komen zo optimaal mogelijk te maken. Het klimaat in Nederland moet buitenlandse LSG-bedrijven aantrekken. Een voorbeeld hiervan is om ervoor te zorgen dat er voldoende gekwalificeerd personeel beschikbaar is (van MBO tot WO) en het verhogen van internationale bekendheid op dit terrein.
 
 ## Bijlage 10.1
 
-### 1. Achtergrond en kader
+### Behorende bij [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2010-04-15&g=2010-04-15)
 
-Vooral voor MKB bedrijven zijn niet food gerelateerde technologische innovaties van groot belang om op het gebied van Food & Nutrition te komen tot nieuwe producten, processen en diensten.
+Binnen fase 2 van het Innovatieprogramma FND worden de volgende innovatiethema’s onderscheiden:
 
 ### A. Research voor bedrijfsoverschrijdende kennis en technologie;
 
-Toelichting: Nederland excelleert in het bouwen van zogenaamde complexe specials, dat wil zeggen schepen met een gespecialiseerde en complexe functionaliteit, waaraan door de eindgebruiker hoge en specifieke kwaliteitseisen worden gesteld. Complexe specials zijn baggerschepen, shortsea schepen, megajachten, schepen voor rechtshandhaving op zee en Offshore Service Vessels;
+Naast gezondheid zijn structuur en sensoriek van voedingsmiddelen belangrijke kwaliteitsaspecten die de keuze van de consument bepalen. Hierbij kan bijvoorbeeld gedacht worden aan de invloed van structuur van voedingsmiddelen op het mondgevoel en vrijkomen van geur- en smaakstoffen tijdens consumptie. Een goede controle over beide aspecten is een belangrijke vereiste om de beoogde producten met hoge toegevoegde waarde te kunnen realiseren.
 
 ### De Strategische doelen en focusgebieden
 
-De strategische doelstellingen zijn:
+Innovatieprioriteiten die in dit kader relevant zijn, zijn onder andere:
 
 ## Bijlage 11.3
 
@@ -2240,7 +2242,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 10a.2
 
-De minister verstrekt op aanvraag een subsidie aan een deelnemer in een HighTech Topproject-samenwerkingsverband voor het uitvoeren van een HighTech Topproject dat past binnen de technologische gebieden zoals genoemd in de bij deze regeling behorende [bijlagen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.1&z=2010-03-11&g=2010-03-11), [9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=9.1&z=2010-03-11&g=2010-03-11), [10.1A](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=10.1a&z=2010-03-11&g=2010-03-11) of een combinatie daarvan.
+De minister verstrekt op aanvraag een subsidie aan een deelnemer in een HighTech Topproject-samenwerkingsverband voor het uitvoeren van een HighTech Topproject dat past binnen de technologische gebieden zoals genoemd in de bij deze regeling behorende [bijlagen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.1&z=2010-04-15&g=2010-04-15), [9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=9.1&z=2010-04-15&g=2010-04-15), [10.1A](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=10.1a&z=2010-04-15&g=2010-04-15) of een combinatie daarvan.
 
 ##### Artikel 10a.3
 
@@ -2268,7 +2270,7 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ##### Artikel 10a.6
 
-Er is een adviescommissie HighTech Topprojecten die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 10a.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10a&paragraaf=2&artikel=10a.8&z=2010-03-11&g=2010-03-11) en de rangschikkingscriteria, bedoeld in [artikel 10a.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10a&paragraaf=2&artikel=10a.9&z=2010-03-11&g=2010-03-11).
+Er is een adviescommissie HighTech Topprojecten die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 10a.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10a&paragraaf=2&artikel=10a.8&z=2010-04-15&g=2010-04-15) en de rangschikkingscriteria, bedoeld in [artikel 10a.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10a&paragraaf=2&artikel=10a.9&z=2010-04-15&g=2010-04-15).
 
 ##### Artikel 10a.7
 
@@ -2290,7 +2292,7 @@ De minister beslist afwijzend op een aanvraag indien:
 
 1. De minister rangschikt de aanvragen waarop niet afwijzend is beslist, hoger naarmate een HighTech Topproject meer bijdraagt aan:
 
-- a. de doelstellingen van [bijlagen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.1&z=2010-03-11&g=2010-03-11), [9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=9.1&z=2010-03-11&g=2010-03-11), [10.1A](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=10.1a&z=2010-03-11&g=2010-03-11) of een combinatie daarvan;
+- a. de doelstellingen van [bijlagen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.1&z=2010-04-15&g=2010-04-15), [9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=9.1&z=2010-04-15&g=2010-04-15), [10.1A](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=10.1a&z=2010-04-15&g=2010-04-15) of een combinatie daarvan;
 
 - b. een brede betrokkenheid van verschillende partijen bij het HighTech Topproject, met name van MKB-ondernemers;
 
@@ -2326,7 +2328,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - –. **kennisinstelling:** een onderzoeksorganisatie of een instelling voor hoger onderwijs als bedoeld in [artikel 1, onderdeel g, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1);
 
-- –. **onderzoeks- en detacheringsproject:** een innovatieproject bestaande uit fundamenteel of industrieel onderzoek of een combinatie daarvan, dat past binnen een maatschappelijk thema als bedoeld in [bijlage 10b.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=10b.1&z=2010-03-11&g=2010-03-11), en dat wordt uitgevoerd door een onderzoeks- en detacheringssamenwerkingsverband;
+- –. **onderzoeks- en detacheringsproject:** een innovatieproject bestaande uit fundamenteel of industrieel onderzoek of een combinatie daarvan, dat past binnen een maatschappelijk thema als bedoeld in [bijlage 10b.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=10b.1&z=2010-04-15&g=2010-04-15), en dat wordt uitgevoerd door een onderzoeks- en detacheringssamenwerkingsverband;
 
 - –. **onderzoeks- en detacheringssamenwerkingsverband:** een samenwerkingsverband bestaande uit een of meer in Nederland gevestigde ondernemers en een of meer in Nederland gevestigde kennisinstellingen, waarbij, door alle aan het samenwerkingsverband deelnemende ondernemers, onderzoekers zijn gedetacheerd bij een aan het samenwerkingsverband deelnemende kennisinstelling.
 
@@ -2376,7 +2378,7 @@ De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidi
 
 - a. de aanleiding van het project niet gelegen is in een na 1 september 2008 ontstane en aan de financiële en economische crisis te wijten omzetdaling bij alle in het onderzoeks- en detacheringssamenwerkingsverband deelnemende ondernemers;
 
-- b. onvoldoende is aangegeven op welke wijze het onderzoeks- en detacheringsproject zal bijdragen aan een of meer van de in [bijlage 10b.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=10b.1&z=2010-03-11&g=2010-03-11) genoemde thema’s;
+- b. onvoldoende is aangegeven op welke wijze het onderzoeks- en detacheringsproject zal bijdragen aan een of meer van de in [bijlage 10b.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=10b.1&z=2010-04-15&g=2010-04-15) genoemde thema’s;
 
 - c. onvoldoende is aangegeven op welke wijze het onderzoeks- en detacheringsproject zal worden aangestuurd en waar de uitvoering van het project zal plaatsvinden;
 
@@ -2394,7 +2396,7 @@ De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidi
 
 - a. er een duidelijker verband bestaat tussen de omvang van het onderzoeks- en detacheringsproject en de aan de financiële en economische crisis te wijten omzetdaling bij de in het onderzoeks- en detacheringssamenwerkingsverband deelnemende ondernemers;
 
-- b. de bijdrage aan de verwezenlijking van de specifieke doelstellingen van een maatschappelijk thema als bedoeld in [bijlage 10b.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=10b.1&z=2010-03-11&g=2010-03-11), groter is;
+- b. de bijdrage aan de verwezenlijking van de specifieke doelstellingen van een maatschappelijk thema als bedoeld in [bijlage 10b.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=10b.1&z=2010-04-15&g=2010-04-15), groter is;
 
 - c. het onderzoeks- en detacheringsproject meer bijdraagt aan de uitwisseling van kennis en ervaring tussen de bij de uitvoering van het project betrokken onderzoekers, in het bijzonder de uitwisseling van kennis en ervaring tussen werknemers van de ondernemers en de werknemers van de kennisinstellingen en tussen ervaren en jonge onderzoekers.
 
@@ -2521,17 +2523,17 @@ Het rapport van feitelijke bevindingen wordt opgesteld overeenkomstig de Nadere 
 
 ### 1. Inleiding
 
-De automotive sector wil deze ambitie en doelstellingen bereiken door in te zetten op twee focusgebieden waarin Nederland internationaal kan excelleren. Deze focusgebieden betreffen Driving guidance en Vehicle efficiency.
+Gegarandeerde beschikbaarheid van veilig voedsel is een van de eerste vereisten waaraan de sector moet kunnen voldoen. Om gezonde voedingsmiddelen te produceren met een optimale kwaliteit (smaak, geur en structuur) en veiligheid zijn verbeterde (minimal processing) conserveringstechnieken nodig. Veranderende consumentenbehoeften en de in het kader van deze behoeften ontwikkelde nieuwe producten en productieprocessen vereisen technologie om de veiligheid, kwaliteit en functionaliteit van voedingsmiddelen gedurende processing en in de keten te kunnen borgen.
 
-Het Maritiem Innovatie Programma is opgebouwd uit vier deelprogramma’s die voortkomen uit de door de maritieme cluster geconstateerde specifieke knelpunten, waarbij met name de eerste twee deelprogramma’s nauw met elkaar samenhangen.
+Innovatieprioriteiten die in dit kader relevant zijn, zijn onder andere:
 
 ### 5. Activiteiten en instrumenten
 
-Dit type onderwerpen hebben niet alleen de aandacht van de overheid, maar ook van de Nederlandse automotive-industrie. Die deelt de opvatting dat elektrisch rijden perspectief biedt. Internationale ontwikkelingen op het gebied van elektrisch en hybride rijden bieden volgens haar marktkansen in Nederland. Specifiek met betrekking tot elektrische voertuigtechnologie wil de Nederlandse automotive-industrie aan het lopende innovatieprogramma HTAS (High Tech Automotive Systems) een thema toevoegen dat goed aansluit bij de door het kabinet onderkende technische belemmeringen: Electric Vehicle Technology (EVT). Doel daarvan is om de Nederlandse automotive-sector een voorsprong te verschaffen binnen de ontwikkeling van elektrische voertuigen, hun componenten en onderdelen. Het thema EVT richt zich op aspecten waarin de Nederlandse automotive-sector een goede uitgangspositie heeft om in de ontwikkeling van elektrische voertuigen, componenten en onderdelen een competitieve positie te kunnen innemen. De uitdagingen binnen het thema EVT zijn:
+Onderzoeksprioriteiten die in dit kader relevant zijn, zijn onder andere:
 
 ### 6. Prioriteiten
 
-De technische belemmeringen die in het kabinetsstandpunt voor elektrisch rijden worden genoemd en de uitdagingen die de Nederlandse automotive-industrie binnen het voorgenomen thema EVT heeft vastgesteld, passen goed bij elkaar. Op basis hiervan zijn de doelstellingen en aandachtsgebieden geformuleerd.
+Voorbeelden zijn technologie op het gebied van ICT, scheidingen, in line analyse voor processen, miniaturisering van productietechnologie, producttracering en intelligente verpakkingen.
 
 ### Behorende bij [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2010-03-11&g=2010-03-11)
 
@@ -2541,27 +2543,27 @@ Efficient powertrain, Light constructions, Connected car en Vehicle dynamics con
 
 ### D. Programma voor de eliminatie van innovatiedrempels;
 
-Doel is ten slotte dat de projecten leiden tot concepten die binnen enkele jaren in productie kunnen worden genomen. Daarom dient de nadruk van de projecten te liggen op experimentele ontwikkeling en op activiteiten dicht op de productiefase. Projecten die exclusief gericht zijn op industrieel onderzoek zijn uitgesloten.
+De strategische doelstellingen zijn:
 
 ### Achtergrond en thema HTAS-Electric Vehicle Technology
 
 In het kabinetsstandpunt ‘aanpak Elektrisch rijden’ (Kamerstukken II 2008/09, 31305, nr. 145) wordt elektrisch rijden als een zeer kansrijke optie aangemerkt om toekomstige automobiliteit duurzaam te maken, de energiepositie te versterken en de economie een structurele impuls te geven. Centrale ambitie in deze aanpak is om Nederland in de periode 2009–2011 tot gidsland en internationale proeftuin voor elektrisch rijden te maken. Om daarna, op basis van de gecreëerde randvoorwaarden en de opgedane leerervaringen, op te schalen en door te groeien naar grootschalige marktintroductie. Het kabinet heeft met dit oogmerk meerdere maatregelen voor de periode 2009–2011 vastgesteld, waarvan er één zich richt op het financieel stimuleren (en daaraan gekoppelde innovatiebevordering) van onderzoek, ontwikkeling en productie van elektrische voertuigen en/of onderdelen daarvoor. Deze actielijn wil bestaande en nieuwe spelers ondersteunen bij het verzilveren van de nieuwe mogelijkheden, uit het oogpunt van het versterken van onze economie, het verbeteren van ons vestigingsklimaat, het vergroten van onze internationale concurrentiepositie en werkgelegenheid. Concreet wordt geconstateerd dat ondernemers en kennisinstellingen voor de productie van elektrische voertuigen en onderdelen nog tegen een aantal belemmeringen aanlopen. De door het kabinet onderkende technische belemmeringen en onzekerheden voor grootschalige marktintroductie zijn:
 
-Dit type onderwerpen hebben niet alleen de aandacht van de overheid, maar ook van de Nederlandse automotive-industrie. Die deelt de opvatting dat elektrisch rijden perspectief biedt. Internationale ontwikkelingen op het gebied van elektrisch en hybride rijden bieden volgens haar marktkansen in Nederland. Specifiek met betrekking tot elektrische voertuigtechnologie wil de Nederlandse automotive-industrie aan het lopende innovatieprogramma HTAS (High Tech Automotive Systems) een thema toevoegen dat goed aansluit bij de door het kabinet onderkende technische belemmeringen: Electric Vehicle Technology (EVT). Doel daarvan is om de Nederlandse automotive-sector een voorsprong te verschaffen binnen de ontwikkeling van elektrische voertuigen, hun componenten en onderdelen. Het thema EVT richt zich op aspecten waarin de Nederlandse automotive-sector een goede uitgangspositie heeft om in de ontwikkeling van elektrische voertuigen, componenten en onderdelen een competitieve positie te kunnen innemen. De uitdagingen binnen het thema EVT zijn:
+Driving guidance betreft begeleiding- en informatiesystemen voor de verbetering van de mobiliteit. Het beïnvloedt het rijgedrag van de bestuurder voor een betere doorstroming van het verkeer, de verhoging van de actieve- en passieve veiligheid en het ontzien van het milieu. Binnen het focusgebied Driving guidance zijn er drie nadere thema’s vastgesteld:
 
 Belangrijke specifieke veiligheidsaspecten voor de elektrische auto’s zowel voor de passagiers als het andere verkeer zijn onder meer het gewicht en plaats van de batterij in het geval van botsingen, de elektriciteit en het daarmee geassocieerde brandgevaar en het effect van het hoogvoltage batterij bij botsingen en bij contact met water. Zie voor het volledige document www.htas.nl., dat de genoemde uitdagingen toespitst op de volgende aandachtsgebieden: chassis en body, powertrain, control, auxiliary equipment en integratie. Naast de technologische uitdagingen gaat het thema EVT ook in op de ondersteunende activiteiten die nodig zijn om dit voor Nederland te realiseren, zoals goede samenwerking met de overheid en met de energiesector. Er wordt voorts gestreefd naar extra omzetgroei en een toename van het aantal hightech werknemers op het gebied van elektrische voertuigen met 7.500 in 2020.
 
-De technische belemmeringen die in het kabinetsstandpunt voor elektrisch rijden worden genoemd en de uitdagingen die de Nederlandse automotive-industrie binnen het voorgenomen thema EVT heeft vastgesteld, passen goed bij elkaar. Op basis hiervan zijn de doelstellingen en aandachtsgebieden geformuleerd.
+Bij Vehicle efficiency wordt door verbetering van het totale aandrijvingsysteem het brandstofverbruik verminderd. Binnen het focusgebied Vehicle efficiency zijn twee nadere thema’s vastgesteld:
 
-## Bijlage 10.1
+## Bijlage 6.2
 
-### Control:
+### Behorende bij [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2010-04-15&g=2010-04-15)
 
 ### Specifieke doelen
 
-Doel is het ondersteunen en versnellen van projecten die bijdragen aan:
+Efficient powertrain, Light constructions, Connected car en Vehicle dynamics control.
 
-Doel is ten slotte dat de projecten leiden tot concepten die binnen enkele jaren in productie kunnen worden genomen. Daarom dient de nadruk van de projecten te liggen op experimentele ontwikkeling en op activiteiten dicht op de productiefase. Projecten die exclusief gericht zijn op industrieel onderzoek zijn uitgesloten.
+Deze onderwerpen zijn uitwerkt in de [bijlage 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.1&z=2010-04-15&g=2010-04-15).
 
 Het Annual Plan is opgesteld op basis van de bijdragen van de Nederlandse partijen (industrie, kennisinstellingen, MKB) die werkzaam zijn op het terrein van embedded systemen, mechatronica en nano-elektronica en de reeds beschikbare internationale roadmaps van Catrene, ITEA2 en de Joint Technology Initiatives ENIAC en Artemis.
 
@@ -2569,41 +2571,41 @@ De projecten moeten passen binnen onderstaande aandachtsgebieden:
 
 ### Chassis en body:
 
-Ontwikkelingen op het gebied van chassis en body specifiek gericht op de eisen van elektrische voertuigen, rekening houdend met o.a. botsveiligheid, een lichter gewicht, en verbeterde stabiliteit in combinatie met minimale luchtweerstand. Belangrijke aandachtspunten zijn hierbij diverse veiligheidsaspecten ten aanzien van batterij pakketten. Uitgangspunt is een flexibel platform waarop meerdere carrosserievarianten gebouwd kunnen worden.
+Dit type onderwerpen hebben niet alleen de aandacht van de overheid, maar ook van de Nederlandse automotive-industrie. Die deelt de opvatting dat elektrisch rijden perspectief biedt. Internationale ontwikkelingen op het gebied van elektrisch en hybride rijden bieden volgens haar marktkansen in Nederland. Specifiek met betrekking tot elektrische voertuigtechnologie wil de Nederlandse automotive-industrie aan het lopende innovatieprogramma HTAS (High Tech Automotive Systems) een thema toevoegen dat goed aansluit bij de door het kabinet onderkende technische belemmeringen: Electric Vehicle Technology (EVT). Doel daarvan is om de Nederlandse automotive-sector een voorsprong te verschaffen binnen de ontwikkeling van elektrische voertuigen, hun componenten en onderdelen. Het thema EVT richt zich op aspecten waarin de Nederlandse automotive-sector een goede uitgangspositie heeft om in de ontwikkeling van elektrische voertuigen, componenten en onderdelen een competitieve positie te kunnen innemen. De uitdagingen binnen het thema EVT zijn:
 
-Point One is een innovatieprogramma waarin toonaangevende industrie, kennisinstellingen, kleine en middelgrote ondernemingen en de overheid intensief samenwerken aan de ontwikkeling van nieuwe toepassingen voor nanoelectronica, embedded systemen en mechatronica. Centraal in het innovatieprogramma staan valorisatie en het behouden en versterken van de cutting edge kennisbasis. Daarvoor richt het programma zich actief op het samenbrengen van publiek gefinancierde onderzoeksorganisaties en de industrie. Uitgangspunt is de strategie die in het het progammadocument Point One Phase 2, ‘From good to great in Dutch Technologies’ is beschreven en nader is uitgewerkt in de Point One Phase 2 Multiannual Roadmap [hierna meerjarenroadmap] die jaarlijks wordt vertaald naar Point One Phase 2 Annual Plan [hierna: Annual Plan]. Deze strategie is gericht op een dynamisch ondernemersklimaat waarin open innovatie tussen grote en kleine partijen vanzelfsprekend is. Het Annual Plan wordt jaarlijks in nauwe samenspraak met het Ministerie van Economische Zaken vastgesteld en is te vinden op www.point-one.nl en www.senternovem.nl/pointone.
+Belangrijke specifieke veiligheidsaspecten voor de elektrische auto’s zowel voor de passagiers als het andere verkeer zijn onder meer het gewicht en plaats van de batterij in het geval van botsingen, de elektriciteit en het daarmee geassocieerde brandgevaar en het effect van het hoogvoltage batterij bij botsingen en bij contact met water. Zie voor het volledige document www.htas.nl., dat de genoemde uitdagingen toespitst op de volgende aandachtsgebieden: chassis en body, powertrain, control, auxiliary equipment en integratie. Naast de technologische uitdagingen gaat het thema EVT ook in op de ondersteunende activiteiten die nodig zijn om dit voor Nederland te realiseren, zoals goede samenwerking met de overheid en met de energiesector. Er wordt voorts gestreefd naar extra omzetgroei en een toename van het aantal hightech werknemers op het gebied van elektrische voertuigen met 7.500 in 2020.
 
 ### b. R&D-projecten
 
 Door deze maatschappelijke opgave ontstaat de komende jaren een omvangrijke en snelgroeiende vraag op de wereldmarkt. In 2001 bedroeg de omzet op de wereldmarkt 292 miljard euro en was het groeipercentage 11%.
 
-Focus op beheersen en regelen van de integrale aandrijflijn ten behoeve van rijcomfort, veiligheid en optimale energie efficiency. Systeem architectuur en batterij monitoring zullen tevens de nodige ontwikkeling vergen. Daarnaast zal er aandacht zijn voor diverse standaardisatie en communicatieprotocollen met de infrastructuur cq. de buitenwereld.
+De strategische hoofddoelen zijn de hoofddoelen die met het HTAS-innovatieprogramma worden nagestreefd (zie [bijlage 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.1&z=2010-04-15&g=2010-04-15)). Op het gebied van elektrische voertuigtechnologie in het kader van het thema EVT zal het daarbij in het bijzonder gaan om banengroei, omzetgroei, reductie van brandstofverbruik en verhoging van de verkeersveiligheid.
 
 ## Bijlage 10.1a
 
 ### Bijlage behorende bij de [artikelen 10a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10a&paragraaf=2&artikel=10a.2&z=2009-06-19&g=2009-06-19) en [10a.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10a&paragraaf=2&artikel=10a.9&z=2009-06-19&g=2009-06-19)
 
-De komende jaren staat de Nederlandse waterzuiveringsector voor grote opgaven, bijvoorbeeld het zuiveren van de toenemende vervuiling, voldoen aan strengere wet- en regelgeving zoals de Europese Kaderrichtlijn Water en het benutten van de grote exportpotentie, inclusief de Millennium Development Goals.
+Doel is ten slotte dat de projecten leiden tot concepten die binnen enkele jaren in productie kunnen worden genomen. Daarom dient de nadruk van de projecten te liggen op experimentele ontwikkeling en op activiteiten dicht op de productiefase. Projecten die exclusief gericht zijn op industrieel onderzoek zijn uitgesloten.
 
 ## Bijlage 10b.1. Behorende bij [artikel 10b.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10b&artikel=10b.1&z=2009-06-19&g=2009-06-19)
 
-In september 2005 presenteerde de watersector haar visie op de toekomst in de brochure: ‘een wereld om water, naar een nieuwe aanpak voor de watersector’. Teneinde een prominente positie te veroveren binnen deze toekomstvisie wil de watersector op een nieuwe manier gaan samenwerken en zich daarbij richten op kansrijke thema’s (focus en massa). De strategie om deze ambitie en positie op het gebied van watertechnologie te bereiken is vervolgens weergegeven in de brochure ‘een wereld om water, innovatieprogramma watertechnologie (april 2006)’.
+De projecten moeten passen binnen onderstaande aandachtsgebieden:
 
-### Behorende bij de [artikelen 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=1&artikel=7.1&z=2010-03-11&g=2010-03-11), [7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=2&artikel=7.8&z=2010-03-11&g=2010-03-11) en [7.16](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=3&artikel=7.16&z=2010-03-11&g=2010-03-11)
+### Chassis en body:
 
-De uitdagingen en kansen voor die de Nederlandse watertechnologiesector met behulp van innovatie wil benutten zijn onder meer:
+Ontwikkelingen op het gebied van chassis en body specifiek gericht op de eisen van elektrische voertuigen, rekening houdend met o.a. botsveiligheid, een lichter gewicht, en verbeterde stabiliteit in combinatie met minimale luchtweerstand. Belangrijke aandachtspunten zijn hierbij diverse veiligheidsaspecten ten aanzien van batterij pakketten. Uitgangspunt is een flexibel platform waarop meerdere carrosserievarianten gebouwd kunnen worden.
 
 Wereldwijd is sprake van een toenemende behoefte aan nieuwe watertechnologie. Onder watertechnologie wordt hier verstaan: alle technologieën en technieken ten behoeve van het bereiden, transporteren, leveren, verzamelen, behandelen en (her)gebruiken van drinkwater, proceswater en afvalwater voor en van burgers, huishoudens, industrie, land- en tuinbouw, recreatie en toerisme. Deze toenemende behoefte wordt onder meer veroorzaakt door de groei van de bevolking en de welvaart, de verandering van het klimaat met periode van extreme droogte en neerslag en door de toenemende en nieuwe verontreinigingen van het milieu en daarmee het oppervlakte- en grondwater. Deze ontwikkelingen vereisen een duurzame oplossing.
 
-Door deze maatschappelijke opgave ontstaat de komende jaren een omvangrijke en snelgroeiende vraag op de wereldmarkt. In 2001 bedroeg de omzet op de wereldmarkt 292 miljard euro en was het groeipercentage 11%.
+Innovatie op het gebied van key-componenten en samengestelde systemen in de gehele elektrische aandrijflijn, zoals batterijtechnologie, on-board snellaadsystemen, systemen voor terugwinning van remenergie, vermogenselektronica. transmissie technologie en tractie-motoren. Batterijontwikkeling richt zich vooral op nieuwe materialen (tbv hogere energiedichtheid,) en packaging en recycling. Daarnaast is er specifieke aandacht voor de ontwikkeling van range extenders.
 
 Als dichtbevolkt land aan de monding van grote rivieren beschikt Nederland noodzakelijkerwijs over veel wetenschap en ervaring op het gebied van watertechnologie. Op de wereldranglijst met octrooiaanvragen staat Nederland bijvoorbeeld op de zevende plaats. Verhoudingswijs wordt deze kennis en kunde echter onvoldoende verzilverd op de buitenlandse markten.
 
-Dit wordt onder meer veroorzaakt door de bijzondere kenmerken van de thuismarkt: de vraagzijde lijkt vrijwel verzadigd en wordt gedomineerd door risicomijdende monopolisten (bestuurd worden door overheden) zonder commerciële exportambities; de aanbodzijde is zeer heterogeen en bestaat uit vele middelgrote en kleine productiebedrijven en enkele middelgrote adviesbureaus.
+Focus op beheersen en regelen van de integrale aandrijflijn ten behoeve van rijcomfort, veiligheid en optimale energie efficiency. Systeem architectuur en batterij monitoring zullen tevens de nodige ontwikkeling vergen. Daarnaast zal er aandacht zijn voor diverse standaardisatie en communicatieprotocollen met de infrastructuur cq. de buitenwereld.
 
 De omzet van de Nederlandse waterzuiveringsector bedroeg in 2003 ongeveer EUR 9,1 miljard per jaar, waarvan 2,1 miljard op buitenlandse markten.
 
-De komende jaren staat de Nederlandse waterzuiveringsector voor grote opgaven, bijvoorbeeld het zuiveren van de toenemende vervuiling, voldoen aan strengere wet- en regelgeving zoals de Europese Kaderrichtlijn Water en het benutten van de grote exportpotentie, inclusief de Millennium Development Goals.
+Elektrisch aangedreven auto’s vragen om nieuwe energiezuinige auxiliary (ondersteunende) apparatuur, die opnieuw ontwikkeld dienen te worden. Hier is onder meer te denken aan nieuwe concepten voor voertuig temperatuurmanagement (verwarming & airco), luchtcirculatie, draadloos energie opladen, brandstofcel en solarcel toepassingen.
 
 De Nederlandse watersector wil bovengenoemde maatschappelijke opgaven en economische kansen benutten door gebruik te maken van haar sterke uitgangspunten en door het verminderen en wegnemen van de belemmeringen. Het verwezenlijken van deze ambities vereist innovatie.
 
@@ -2611,21 +2613,21 @@ De Nederlandse watersector wil bovengenoemde maatschappelijke opgaven en economi
 
 De belemmeringen voor innovatie op het gebied van watertechnologie vinden hun oorsprong en oorzaak onder meer in:
 
-### Instrumenten ter bevordering van innovatie
+### Behorende bij de [artikelen 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=1&artikel=7.1&z=2010-04-15&g=2010-04-15), [7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=2&artikel=7.8&z=2010-04-15&g=2010-04-15) en [7.16](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=3&artikel=7.16&z=2010-04-15&g=2010-04-15)
 
 Om bovengenoemde belemmeringen en knelpunten zoveel mogelijk weg te nemen heeft de Stuurgroep Watertechnologie in haar Innovatieprogramma de volgende instrumenten voorgesteld:
 
 ### § 2. Waardeketens
 
-Nederland beschikt over een excellente watertechnologiesector die economische en maatschappelijke doelen dient, zowel in Nederland als in het buitenland.
+Door deze maatschappelijke opgave ontstaat de komende jaren een omvangrijke en snelgroeiende vraag op de wereldmarkt. In 2001 bedroeg de omzet op de wereldmarkt 292 miljard euro en was het groeipercentage 11%.
 
 ### 1. Inleiding
 
-Het verwezenlijken van deze (sub) doelen vereist de ontwikkeling en toepassing van nieuwe kennis, technologieën, processen, producten en diensten. De noodzakelijke innovatie wordt echter verhinderd door diverse belemmeringen.
+Dit wordt onder meer veroorzaakt door de bijzondere kenmerken van de thuismarkt: de vraagzijde lijkt vrijwel verzadigd en wordt gedomineerd door risicomijdende monopolisten (bestuurd worden door overheden) zonder commerciële exportambities; de aanbodzijde is zeer heterogeen en bestaat uit vele middelgrote en kleine productiebedrijven en enkele middelgrote adviesbureaus.
 
 ### Focus op vier kansrijke clusters
 
-De Nederlandse watertechnologiesector wil haar inspanningen met betrekking tot innovatie concentreren op vier kansrijke clusters en de daarbijbehorende technologievelden, namelijk:
+De komende jaren staat de Nederlandse waterzuiveringsector voor grote opgaven, bijvoorbeeld het zuiveren van de toenemende vervuiling, voldoen aan strengere wet- en regelgeving zoals de Europese Kaderrichtlijn Water en het benutten van de grote exportpotentie, inclusief de Millennium Development Goals.
 
 ## Bijlage 10.1a
 
@@ -2665,7 +2667,7 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ##### Artikel 4.24
 
-De in [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=2&artikel=4.6&z=2010-03-11&g=2010-03-11) bedoelde adviescommissie heeft tevens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 4.26](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=4&artikel=4.26&z=2010-03-11&g=2010-03-11), en de rangschikkingscriteria, bedoeld in [artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=4&artikel=4.27&z=2010-03-11&g=2010-03-11).
+De in [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=2&artikel=4.6&z=2010-04-15&g=2010-04-15) bedoelde adviescommissie heeft tevens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 4.26](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=4&artikel=4.26&z=2010-04-15&g=2010-04-15), en de rangschikkingscriteria, bedoeld in [artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=4&artikel=4.27&z=2010-04-15&g=2010-04-15).
 
 ##### Artikel 4.25
 
@@ -2677,7 +2679,7 @@ De minister beslist afwijzend op een aanvraag indien:
 
 - a. niet ten minste 35 procent van de op grond van dit hoofdstuk subsidiabele kosten ten laste komen van deelnemende MKB-ondernemers;
 
-- b. het EuroNanoMed-samenwerkingsverband na indiening van de aanvraag niet meer voldoet aan [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2010-03-11&g=2010-03-11) of de financiering van het totale project onvoldoende blijkt;
+- b. het EuroNanoMed-samenwerkingsverband na indiening van de aanvraag niet meer voldoet aan [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2010-04-15&g=2010-04-15) of de financiering van het totale project onvoldoende blijkt;
 
 - c. van het LSH-project onvoldoende positieve gevolgen voor de Nederlandse economie te verwachten zijn.
 
@@ -2773,21 +2775,21 @@ Ligt ter inzage bij SenterNovem te Den Haag.
 
 ### Behorende bij de [artikelen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2010-01-01&g=2010-01-01), [6.15](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=3&artikel=6.15&z=2010-01-01&g=2010-01-01) en [6.16](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=3&artikel=6.16&z=2010-01-01&g=2010-01-01)
 
-Zowel de selectie, de winning en exploitatie van functionele bio-ingrediënten, als de selectie en exploitatie van enzymen en micro-organismen die betrokken zijn bij het verkrijgen van bioactieve moleculen, als het borgen van de gewenste bio-activiteit op het moment van gebruik zijn belangrijke uitdagingen in de ontwikkeling van gezonde en functionele voedingsmiddelen.
+Dit hoofdstuk Life Sciences & Health van deze regeling is onderdeel van actielijn 2 van het innovatieprogramma LSH.
 
-### 4. De deelprogramma’s
+### Achtergrond
 
 ## Bijlage 6.1
 
 ### C. Verbeteren van de huidige en waarborgen van de toekomstige kennisbasis;
 
-Driving guidance betreft begeleiding- en informatiesystemen voor de verbetering van de mobiliteit. Het beïnvloedt het rijgedrag van de bestuurder voor een betere doorstroming van het verkeer, de verhoging van de actieve- en passieve veiligheid en het ontzien van het milieu. Binnen het focusgebied Driving guidance zijn er drie nadere thema’s vastgesteld:
+De ontwikkeling van onderscheidende nieuwe processen en producten vergt dermate veel geld en de terugverdientijd is zodanig lang dat het van groot belang is om de behoefte en het gedrag van de consument van morgen goed te kunnen voorspellen.
 
-Bij Vehicle efficiency wordt door verbetering van het totale aandrijvingsysteem het brandstofverbruik verminderd. Binnen het focusgebied Vehicle efficiency zijn twee nadere thema’s vastgesteld:
+Vooral voor MKB bedrijven zijn niet food gerelateerde technologische innovaties van groot belang om op het gebied van Food & Nutrition te komen tot nieuwe producten, processen en diensten.
 
 Toelichting: dit deelprogramma richt zich op het intensiveren van de samenwerking en de kennisuitwisseling tussen het MKB, grotere bedrijven en publiek gefinancierde onderzoeksorganisaties en het stimuleren van innovatie binnen het MKB;
 
-Deze onderwerpen zijn uitwerkt in de [bijlage 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.1&z=2010-03-11&g=2010-03-11).
+Het Nederlandse cluster van automotive bedrijven heeft de ambitie om binnen vijf jaar één van de leidende innovatieprogramma’s in Europa te worden op het gebied van automotive technologie.
 
 ### Chassis en body:
 
@@ -2799,17 +2801,17 @@ De strategische hoofddoelen zijn de hoofddoelen die met het HTAS-innovatieprogra
 
 ### Point One Phase 2
 
-Nano-electronica, embedded systemen en mechatronica leveren gezamenlijk essentiele bouwstenen voor de high-tech samenleving van de toekomst. Het innovatieprogramma Point One is gestart op 28 april 2006 als programma voor embedded systemen en nano-electronica. Dit programma kreeg op 14 juli 2008 een krachtige nieuwe impuls doordat het werd versterkt met mechatronica en verdere intensivering van de interactie tussen industrie en kennisinstellingen.
+In het kabinetsstandpunt ‘aanpak Elektrisch rijden’ (Kamerstukken II 2008/09, 31305, nr. 145) wordt elektrisch rijden als een zeer kansrijke optie aangemerkt om toekomstige automobiliteit duurzaam te maken, de energiepositie te versterken en de economie een structurele impuls te geven. Centrale ambitie in deze aanpak is om Nederland in de periode 2009–2011 tot gidsland en internationale proeftuin voor elektrisch rijden te maken. Om daarna, op basis van de gecreëerde randvoorwaarden en de opgedane leerervaringen, op te schalen en door te groeien naar grootschalige marktintroductie. Het kabinet heeft met dit oogmerk meerdere maatregelen voor de periode 2009–2011 vastgesteld, waarvan er één zich richt op het financieel stimuleren (en daaraan gekoppelde innovatiebevordering) van onderzoek, ontwikkeling en productie van elektrische voertuigen en/of onderdelen daarvoor. Deze actielijn wil bestaande en nieuwe spelers ondersteunen bij het verzilveren van de nieuwe mogelijkheden, uit het oogpunt van het versterken van onze economie, het verbeteren van ons vestigingsklimaat, het vergroten van onze internationale concurrentiepositie en werkgelegenheid. Concreet wordt geconstateerd dat ondernemers en kennisinstellingen voor de productie van elektrische voertuigen en onderdelen nog tegen een aantal belemmeringen aanlopen. De door het kabinet onderkende technische belemmeringen en onzekerheden voor grootschalige marktintroductie zijn:
 
 ## Bijlage 10.1
 
-### Control:
+### Strategische hoofddoelen
 
 Dit wordt onder meer veroorzaakt door de bijzondere kenmerken van de thuismarkt: de vraagzijde lijkt vrijwel verzadigd en wordt gedomineerd door risicomijdende monopolisten (bestuurd worden door overheden) zonder commerciële exportambities; de aanbodzijde is zeer heterogeen en bestaat uit vele middelgrote en kleine productiebedrijven en enkele middelgrote adviesbureaus.
 
-Elektrisch aangedreven auto’s vragen om nieuwe energiezuinige auxiliary (ondersteunende) apparatuur, die opnieuw ontwikkeld dienen te worden. Hier is onder meer te denken aan nieuwe concepten voor voertuig temperatuurmanagement (verwarming & airco), luchtcirculatie, draadloos energie opladen, brandstofcel en solarcel toepassingen.
+Doel is het ondersteunen en versnellen van projecten die bijdragen aan:
 
-### d. University-Industry Interaction projecten
+### Aandachtsgebieden
 
 Het hoofdstuk Point One in de Sterktes in innovatie regeling heeft tot doel op basis van een door de betrokken partijen in samenspraak met het ministerie van Economische Zaken opgestelde Annual Plan subsidie te verstrekken via twee tenders en één ‘eerst komt, eerst maalt’ subsidieregeling. In het Annual Plan van Point One wordt nader ingegaan op de toepassingsgebieden en doelstellingen van Point One. Een tweede belangrijke doelstelling is een bijdrage te leveren aan standaardisering en bredere toepassing van de ontwikkelde technologie in Point One verband. Als inhoudelijke uitgangspunten voor de R&D-projecten geldt dat het moet gaan om projecten van hoge kwaliteit en met een aansprekend karakter. Van belang is bovendien een brede opzet van het samenwerkingsverband met spelers aan zowel de publieke als private kant.
 
@@ -2823,15 +2825,15 @@ Het hoofdstuk Point One in de Sterktes in innovatie regeling heeft tot doel op b
 
 De uitdagingen en kansen voor die de Nederlandse watertechnologiesector met behulp van innovatie wil benutten zijn onder meer:
 
-Het hoofddoel van het Innovatieprogramma Watertechnologie luidt:
+Wereldwijd is sprake van een toenemende behoefte aan nieuwe watertechnologie. Onder watertechnologie wordt hier verstaan: alle technologieën en technieken ten behoeve van het bereiden, transporteren, leveren, verzamelen, behandelen en (her)gebruiken van drinkwater, proceswater en afvalwater voor en van burgers, huishoudens, industrie, land- en tuinbouw, recreatie en toerisme. Deze toenemende behoefte wordt onder meer veroorzaakt door de groei van de bevolking en de welvaart, de verandering van het klimaat met periode van extreme droogte en neerslag en door de toenemende en nieuwe verontreinigingen van het milieu en daarmee het oppervlakte- en grondwater. Deze ontwikkelingen vereisen een duurzame oplossing.
 
-Dit hoofddoel is vertaald in vier subdoelen:
+Als dichtbevolkt land aan de monding van grote rivieren beschikt Nederland noodzakelijkerwijs over veel wetenschap en ervaring op het gebied van watertechnologie. Op de wereldranglijst met octrooiaanvragen staat Nederland bijvoorbeeld op de zevende plaats. Verhoudingswijs wordt deze kennis en kunde echter onvoldoende verzilverd op de buitenlandse markten.
 
-Als resultaat van een interactief proces geleid door de Federatie Nederlandse Rubber en Kunststofindustrie in samenwerking met het midden en kleinbedrijf en grote bedrijven is een lijst ontwikkeld met thema’s voor gezamenlijke ontwikkelingsdoelstellingen. Het Polymeren Innovatie Programma heeft deze thema’s overgenomen.
+De omzet van de Nederlandse waterzuiveringsector bedroeg in 2003 ongeveer EUR 9,1 miljard per jaar, waarvan 2,1 miljard op buitenlandse markten.
 
 ### § 1. Doelstellingen
 
-De Subsidieregeling Polymeren-module van de Experimentele kaderregeling subsidies innovatieprojecten maakt onderdeel uit van het Polymeren Innovatie Programma.
+De Nederlandse watersector wil bovengenoemde maatschappelijke opgaven en economische kansen benutten door gebruik te maken van haar sterke uitgangspunten en door het verminderen en wegnemen van de belemmeringen. Het verwezenlijken van deze ambities vereist innovatie.
 
 ### Bijlage behorende bij de [artikelen 10a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10a&paragraaf=2&artikel=10a.2&z=2009-07-29&g=2009-07-29) en [10a.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10a&paragraaf=2&artikel=10a.9&z=2009-07-29&g=2009-07-29)
 
@@ -2843,11 +2845,11 @@ Toelichting: het aandeel van LNG (liquefied natural gas, vloeibaar aardgas) in d
 
 ### Behorende bij de [artikelen 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=8&paragraaf=2&artikel=8.2&z=2010-03-11&g=2010-03-11), [8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=8&paragraaf=3&artikel=8.8&z=2010-03-11&g=2010-03-11) en [8.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=8&paragraaf=3&artikel=8.9&z=2010-03-11&g=2010-03-11)
 
-Toelichting: de groei van de wereldeconomie heeft de vraag naar olie en gas sterk doen toenemen, terwijl de makkelijk toegankelijke wingebieden uitgeput raken. Mondiaal worden daarom de exploratie en exploitatie activiteiten verlegd naar (zeer) diep water in belangrijke winningsgebieden zoals de Golf van Mexico;
+Nederland beschikt over een excellente watertechnologiesector die economische en maatschappelijke doelen dient, zowel in Nederland als in het buitenland.
 
 ### 3. Complexe specials;
 
-Toelichting: Nederland excelleert in het bouwen van zogenaamde complexe specials, dat wil zeggen schepen met een gespecialiseerde en complexe functionaliteit, waaraan door de eindgebruiker hoge en specifieke kwaliteitseisen worden gesteld. Complexe specials zijn baggerschepen, shortsea schepen, megajachten, schepen voor rechtshandhaving op zee en Offshore Service Vessels;
+Het verwezenlijken van deze (sub) doelen vereist de ontwikkeling en toepassing van nieuwe kennis, technologieën, processen, producten en diensten. De noodzakelijke innovatie wordt echter verhinderd door diverse belemmeringen.
 
 ## Bijlage 11.1
 
@@ -2875,7 +2877,7 @@ De penvoerder is een ondernemer.
 
 ##### Artikel 9.25
 
-De minister verstrekt op aanvraag subsidie aan een deelnemer in een Point One University-Industry Interaction samenwerkingsverband dat een Point One University-Industry Interaction project uitvoert dat past binnen de technologische gebieden zoals genoemd in de bij deze regeling behorende [bijlage 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=9.1&z=2010-03-11&g=2010-03-11).
+De minister verstrekt op aanvraag subsidie aan een deelnemer in een Point One University-Industry Interaction samenwerkingsverband dat een Point One University-Industry Interaction project uitvoert dat past binnen de technologische gebieden zoals genoemd in de bij deze regeling behorende [bijlage 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=9.1&z=2010-04-15&g=2010-04-15).
 
 ##### Artikel 9.26
 
@@ -2899,7 +2901,7 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ##### Artikel 9.29
 
-De in [artikel 9.11](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=3&artikel=9.11&z=2010-03-11&g=2010-03-11) genoemde adviescommissie heeft tevens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 9.31](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=5&artikel=9.31&z=2010-03-11&g=2010-03-11) en de rangschikkingscriteria, bedoeld in [artikel 9.32](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=5&artikel=9.32&z=2010-03-11&g=2010-03-11).
+De in [artikel 9.11](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=3&artikel=9.11&z=2010-04-15&g=2010-04-15) genoemde adviescommissie heeft tevens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 9.31](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=5&artikel=9.31&z=2010-04-15&g=2010-04-15) en de rangschikkingscriteria, bedoeld in [artikel 9.32](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=5&artikel=9.32&z=2010-04-15&g=2010-04-15).
 
 ##### Artikel 9.30
 
@@ -2919,7 +2921,7 @@ De minister beslist afwijzend op een aanvraag indien:
 
 1. De minister rangschikt de aanvragen waarop niet afwijzend is beslist, hoger naarmate een Point One University-Industry Interaction project meer bijdraagt aan:
 
-- a. de doelstellingen van [bijlage 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=9.1&z=2010-03-11&g=2010-03-11);
+- a. de doelstellingen van [bijlage 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=9.1&z=2010-04-15&g=2010-04-15);
 
 - b. technologische innovatie op de middellange of lange termijn;
 
@@ -2973,9 +2975,9 @@ De valorisatiestap van concepten die voortkomen uit de publiek-private samenwerk
 
 ### Behorende bij [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2010-03-11&g=2010-03-11)
 
-### Behorende bij de [artikelen 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=8&paragraaf=2&artikel=8.2&z=2009-09-09&g=2009-09-09), [8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=8&paragraaf=3&artikel=8.8&z=2009-09-09&g=2009-09-09) en [8.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=8&paragraaf=3&artikel=8.9&z=2009-09-09&g=2009-09-09)
+### Actielijn 2:. (internationale) samenwerking stimuleren
 
-### 3. Complexe specials;
+### Actielijn 3:. overige knelpunten (waaronder human capital, wet- en regelgeving en het stimuleren van ondernemerschap)
 
 Innovatieprioriteiten die in dit kader relevant zijn, zijn onder andere:
 
@@ -2991,7 +2993,7 @@ Innovatieprioriteiten die in dit kader relevant zijn, zijn onder andere:
 
 ### Behorende bij de [artikelen 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=2&artikel=9.2&z=2009-09-01&g=2009-09-01), [9.6](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2009-09-01&g=2009-09-01), [9.7](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=2&artikel=9.7&z=2009-09-01&g=2009-09-01), [9.13](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=3&artikel=9.13&z=2009-09-01&g=2009-09-01) en [9.21](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=4&artikel=9.21&z=2009-09-01&g=2009-09-01)
 
-Focus op beheersen en regelen van de integrale aandrijflijn ten behoeve van rijcomfort, veiligheid en optimale energie efficiency. Systeem architectuur en batterij monitoring zullen tevens de nodige ontwikkeling vergen. Daarnaast zal er aandacht zijn voor diverse standaardisatie en communicatieprotocollen met de infrastructuur cq. de buitenwereld.
+De prioriteiten voor 2010 zijn:
 
 ### Behorende bij de [artikelen 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=1&artikel=7.1&z=2010-01-01&g=2010-01-01), [7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=2&artikel=7.8&z=2010-01-01&g=2010-01-01) en [7.16](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=3&artikel=7.16&z=2010-01-01&g=2010-01-01)
 
@@ -3007,23 +3009,23 @@ Elektrische aandrijving geeft nieuwe mogelijkheden voor auto-design, ontwikkelin
 
 ### Focus op vier kansrijke clusters
 
-### Behorende bij de [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10&paragraaf=1&artikel=10.1&z=2009-09-01&g=2009-09-01), [10.13](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10&paragraaf=3&artikel=10.13&z=2009-09-01&g=2009-09-01) en [10.20](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10&paragraaf=4&artikel=10.20&z=2009-09-01&g=2009-09-01)
+### Integratie:
 
-In september 2005 presenteerde de watersector haar visie op de toekomst in de brochure: ‘een wereld om water, naar een nieuwe aanpak voor de watersector’. Teneinde een prominente positie te veroveren binnen deze toekomstvisie wil de watersector op een nieuwe manier gaan samenwerken en zich daarbij richten op kansrijke thema’s (focus en massa). De strategie om deze ambitie en positie op het gebied van watertechnologie te bereiken is vervolgens weergegeven in de brochure ‘een wereld om water, innovatieprogramma watertechnologie (april 2006)’.
+Elektrische aandrijving geeft nieuwe mogelijkheden voor auto-design, ontwikkeling en engineering. Dus ook een nieuwe geïntegreerde benadering van het gehele voertuig wordt belangrijk. De interfaces met zowel de gebruiker (HMI) maar ook met de infrastructuur (energielaadstations, smart billing, etc) zullen het nodige onderzoek vergen. Tenslotte aandacht voor diverse drivetrain en niet drivetrain accessoires/systemen ter verbetering van de energiehuishouding, comfort en veiligheid van de auto.
 
 ### § 3. Duurzaamheidsdoelstellingen
 
 ## Bijlage 10b.1. Behorende bij [artikel 10b.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10b&artikel=10b.1&z=2009-07-29&g=2009-07-29)
 
-Nederland heeft een sterke maritieme sector. Deze sector omvat een aantal belangrijke wereldspelers in de offshore en de maritieme maakindustrie, een groot aantal kleine bedrijven en enkele internationaal bekende kennisinstituten. De sector vormt als cluster binnen Nederland een goed georganiseerd geheel waarin zowel wetenschappelijke kennis, toepassingskennis als commerciële kennis van de wereldmarkt wordt verenigd. De maritieme cluster is een onderdeel van het zogenaamd sleutelgebied ‘Water’, zoals gedefinieerd door het Nederlandse Innovatieplatform.
+Dit hoofddoel is vertaald in vier subdoelen:
 
 Het Maritiem Innovatie Programma heeft tot doel te bereiken dat de bedrijven en publiek gefinancierde onderzoeksorganisaties in de offshore en maritieme maakindustrie een toonaangevende positie van Nederland op het gebied van productleiderschap en regievoering behouden en versterken. Dit op basis van onderscheidende technologie en een concurrerend positie in prijs/kwaliteit verhouding gebaseerd op een sterke kennisbasis en een hechte samenwerking in de maritieme cluster, rekening houdend met de maatschappelijke randvoorwaarden.
 
-Toelichting: de Nederlandse maritieme maakindustrie moet het hebben van het slimmer en sneller maken van complexe producten. In een steeds ingewikkelder proces van integraal ontwerpen, international sourcing en intensieve samenwerking in de keten blijkt het bedrijfsleven in staat zijn positie te versterken d.m.v. innovatie van het voortbrengingsproces resulterend in o.a. kostenbeheersing.
+De Nederlandse watertechnologiesector wil haar inspanningen met betrekking tot innovatie concentreren op vier kansrijke clusters en de daarbijbehorende technologievelden, namelijk:
 
 In het Visiedocument 2020 van juni 2006, schetst de maritieme cluster de innovatiekansen en knelpunten. Op basis van dit document is er in twee werkgroepen een strategische agenda opgesteld voor de Nederlandse offshore- en de maritieme maakindustrie. Het zal grote inspanningen vergen om enerzijds de kansen te benutten, en anderzijds de knelpunten die deze kansen in de weg staan, op te oplossen. Voor de maritieme maak- en de offshore industrie zijn deze uitdagingen in het Maritiem Innovatie Programma vastgelegd. De sleutelwoorden in dit programma zijn: innovatie en concurrentiekracht alsmede energie, milieu, veiligheid en transport.
 
-De vier speerpunten waarop de maritieme cluster zijn positie wil versterken zijn:
+De belemmeringen voor innovatie op het gebied van watertechnologie vinden hun oorsprong en oorzaak onder meer in:
 
 Het Maritiem Innovatie Programma is opgebouwd uit vier deelprogramma’s die voortkomen uit de door de maritieme cluster geconstateerde specifieke knelpunten, waarbij met name de eerste twee deelprogramma’s nauw met elkaar samenhangen.
 
@@ -3031,7 +3033,7 @@ Het Maritiem Innovatie Programma is opgebouwd uit vier deelprogramma’s die voo
 
 Indien onderzoeks- en detacheringsprojecten zich richten op MIA’s, moeten ze passen binnen die MIA’s zoals omschreven in Kamerstukken TK 2007/08, 27046, nr. 120, bijlage (gezondheid, water en veiligheid) en Kamerstukken TK 2007/08, 31530, nr. 1, bijlage (energie), dan wel in onderstaande thema’s Duurzame agro- en visserijketens en Onderwijs (zie ook www.nederlandondernemendinnovatieland.nl).
 
-### Maatschappelijke Innovatie Agenda Duurzame Agro- en Visserijketens
+### Behorende bij de [artikelen 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=8&paragraaf=2&artikel=8.2&z=2010-04-15&g=2010-04-15), [8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=8&paragraaf=3&artikel=8.8&z=2010-04-15&g=2010-04-15) en [8.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=8&paragraaf=3&artikel=8.9&z=2010-04-15&g=2010-04-15)
 
 Life Sciences & Health ([bijlage 4.1 Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=4.1&z=2009-09-09&g=2009-09-09))
 
@@ -3045,7 +3047,7 @@ Deze subsidieregeling richt zich alleen op de eerste 3 speerpunten. Voor het vie
 
 ### 4. De deelprogramma’s
 
-Het Maritiem Innovatie Programma is opgebouwd uit vier deelprogramma’s die voortkomen uit de door de maritieme cluster geconstateerde specifieke knelpunten, waarbij met name de eerste twee deelprogramma’s nauw met elkaar samenhangen.
+De vier speerpunten waarop de maritieme cluster zijn positie wil versterken zijn:
 
 ## Bijlage 11.1
 
@@ -3121,49 +3123,49 @@ De drie belangrijke knelpunten binnen de LSH-sector zijn de doorgroei van jonge 
 
 ### 4. De deelprogramma’s
 
-### C. Verbeteren van de huidige en waarborgen van de toekomstige kennisbasis;
+### Behorende bij de [artikelen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2010-04-15&g=2010-04-15), [6.15](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=3&artikel=6.15&z=2010-04-15&g=2010-04-15) en [6.16](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=3&artikel=6.16&z=2010-04-15&g=2010-04-15)
 
 ## Bijlage 9.1
 
-### 1. Achtergrond en kader
+### Driving guidance
 
 ### Electric Powertrain:
 
-Innovatie op het gebied van key-componenten en samengestelde systemen in de gehele elektrische aandrijflijn, zoals batterijtechnologie, on-board snellaadsystemen, systemen voor terugwinning van remenergie, vermogenselektronica. transmissie technologie en tractie-motoren. Batterijontwikkeling richt zich vooral op nieuwe materialen (tbv hogere energiedichtheid,) en packaging en recycling. Daarnaast is er specifieke aandacht voor de ontwikkeling van range extenders.
+De technische belemmeringen die in het kabinetsstandpunt voor elektrisch rijden worden genoemd en de uitdagingen die de Nederlandse automotive-industrie binnen het voorgenomen thema EVT heeft vastgesteld, passen goed bij elkaar. Op basis hiervan zijn de doelstellingen en aandachtsgebieden geformuleerd.
 
-### Auxiliary equipment:
+### Specifieke doelen
 
-### Doelstelling
+### Electric Powertrain:
 
 ### Behorende bij de [artikelen 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=8&paragraaf=2&artikel=8.2&z=2010-01-01&g=2010-01-01), [8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=8&paragraaf=3&artikel=8.8&z=2010-01-01&g=2010-01-01) en [8.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=8&paragraaf=3&artikel=8.9&z=2010-01-01&g=2010-01-01)
 
-### Instrumenten ter bevordering van innovatie
+### Uitdagingen
 
-Om bovengenoemde belemmeringen en knelpunten zoveel mogelijk weg te nemen heeft de Stuurgroep Watertechnologie in haar Innovatieprogramma de volgende instrumenten voorgesteld:
+De uitdagingen en kansen voor die de Nederlandse watertechnologiesector met behulp van innovatie wil benutten zijn onder meer:
 
 ## Bijlage 8.1
 
-Om de doelstellingen van het Polymeren Innovatie Programma te ondersteunen is de Subsidieregeling Polymeren-module van de Experimentele kaderregeling subsidies innovatieprojecten ingesteld. Deze subsidieregeling is gericht op innovatieve projecten in de polymerensector, het polymer value system. Het polymer value system bestaat uit een verscheidenheid aan spelers die op verschillende gebieden actief zijn. Binnen het systeem kunnen drie waardeketens onderscheiden worden:
+Het hoofddoel van het Innovatieprogramma Watertechnologie luidt:
 
 ### 1. Inleiding
 
-Toelichting: het aandeel van LNG (liquefied natural gas, vloeibaar aardgas) in de energievoorziening van de middenlange termijn zal sterk toenemen. De Nederlandse offshore bedrijven hebben de ambitie om daarbij een significante rol te spelen bij zowel de vaste als drijvende LNG-terminals in de leveringsketen;
+Om bovengenoemde belemmeringen en knelpunten zoveel mogelijk weg te nemen heeft de Stuurgroep Watertechnologie in haar Innovatieprogramma de volgende instrumenten voorgesteld:
 
 ### 2. Olie en gaswinning onder extreme omstandigheden (zoals zeer diep water en ontoegankelijke omgeving);
 
 Toelichting: de groei van de wereldeconomie heeft de vraag naar olie en gas sterk doen toenemen, terwijl de makkelijk toegankelijke wingebieden uitgeput raken. Mondiaal worden daarom de exploratie en exploitatie activiteiten verlegd naar (zeer) diep water in belangrijke winningsgebieden zoals de Golf van Mexico;
 
-### 3. Complexe specials;
+### 1. Inleiding
 
-Toelichting: Nederland excelleert in het bouwen van zogenaamde complexe specials, dat wil zeggen schepen met een gespecialiseerde en complexe functionaliteit, waaraan door de eindgebruiker hoge en specifieke kwaliteitseisen worden gesteld. Complexe specials zijn baggerschepen, shortsea schepen, megajachten, schepen voor rechtshandhaving op zee en Offshore Service Vessels;
+Nederland heeft een sterke maritieme sector. Deze sector omvat een aantal belangrijke wereldspelers in de offshore en de maritieme maakindustrie, een groot aantal kleine bedrijven en enkele internationaal bekende kennisinstituten. De sector vormt als cluster binnen Nederland een goed georganiseerd geheel waarin zowel wetenschappelijke kennis, toepassingskennis als commerciële kennis van de wereldmarkt wordt verenigd. De maritieme cluster is een onderdeel van het zogenaamd sleutelgebied ‘Water’, zoals gedefinieerd door het Nederlandse Innovatieplatform.
 
-### 4. Procesinnovatie;
+### 2. Doelstelling Maritiem Innovatie Programma
 
-Toelichting: de Nederlandse maritieme maakindustrie moet het hebben van het slimmer en sneller maken van complexe producten. In een steeds ingewikkelder proces van integraal ontwerpen, international sourcing en intensieve samenwerking in de keten blijkt het bedrijfsleven in staat zijn positie te versterken d.m.v. innovatie van het voortbrengingsproces resulterend in o.a. kostenbeheersing.
+Het Maritiem Innovatie Programma heeft tot doel te bereiken dat de bedrijven en publiek gefinancierde onderzoeksorganisaties in de offshore en maritieme maakindustrie een toonaangevende positie van Nederland op het gebied van productleiderschap en regievoering behouden en versterken. Dit op basis van onderscheidende technologie en een concurrerend positie in prijs/kwaliteit verhouding gebaseerd op een sterke kennisbasis en een hechte samenwerking in de maritieme cluster, rekening houdend met de maatschappelijke randvoorwaarden.
 
-### D. Programma voor de eliminatie van innovatiedrempels;
+### 3. Focus Maritiem Innovatie Programma
 
-Toelichting: dit deelprogramma is gericht op het slechten van belemmeringen voor innovatie in wet- en regelgeving en het bevorderen van innovatieve pilotprojecten waarmee een nieuwe werkwijze kan worden getoetst.
+In het Visiedocument 2020 van juni 2006, schetst de maritieme cluster de innovatiekansen en knelpunten. Op basis van dit document is er in twee werkgroepen een strategische agenda opgesteld voor de Nederlandse offshore- en de maritieme maakindustrie. Het zal grote inspanningen vergen om enerzijds de kansen te benutten, en anderzijds de knelpunten die deze kansen in de weg staan, op te oplossen. Voor de maritieme maak- en de offshore industrie zijn deze uitdagingen in het Maritiem Innovatie Programma vastgelegd. De sleutelwoorden in dit programma zijn: innovatie en concurrentiekracht alsmede energie, milieu, veiligheid en transport.
 
 ### 5. Activiteiten en instrumenten
 
@@ -3177,7 +3179,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ##### Artikel 7.20
 
-1. De minister verstrekt op aanvraag subsidie aan een ondernemer die voornemens is een innovatief product, proces of dienst, passende binnen [bijlage 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=7.1&z=2010-03-11&g=2010-03-11), met het oog op een eerste toepassing in de praktijk te verkopen of te verhuren, voor de kosten van aanpassingen van dit product, dit proces of die dienst na de terbeschikkingstelling hiervan aan de koper, respectievelijk de huurder.
+1. De minister verstrekt op aanvraag subsidie aan een ondernemer die voornemens is een innovatief product, proces of dienst, passende binnen [bijlage 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=7.1&z=2010-04-15&g=2010-04-15), met het oog op een eerste toepassing in de praktijk te verkopen of te verhuren, voor de kosten van aanpassingen van dit product, dit proces of die dienst na de terbeschikkingstelling hiervan aan de koper, respectievelijk de huurder.
 
 2. De subsidie heeft slechts betrekking op een aanpassing die:
 
@@ -3191,7 +3193,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ##### Artikel 7.21
 
-1. In afwijking van de [Regeling steunintensiteit](https://wetten.overheid.nl/jci1.3:c:BWBR0026689) bedraagt de in [artikel 7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=4&artikel=7.20&z=2010-03-11&g=2010-03-11) bedoelde subsidie 25% van de subsidiabele kosten, welk percentage wordt verhoogd met 10 procentpunten indien subsidie wordt verstrekt aan een MKB-ondernemer.
+1. In afwijking van de [Regeling steunintensiteit](https://wetten.overheid.nl/jci1.3:c:BWBR0026689) bedraagt de in [artikel 7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=4&artikel=7.20&z=2010-04-15&g=2010-04-15) bedoelde subsidie 25% van de subsidiabele kosten, welk percentage wordt verhoogd met 10 procentpunten indien subsidie wordt verstrekt aan een MKB-ondernemer.
 
 2. Het maximum subsidiebedrag bedraagt € 500.000 per subsidie-ontvanger.
 
@@ -3205,13 +3207,13 @@ De minister verdeelt het subsidieplafond op volgorde van binnenkomst van de aanv
 
 ##### Artikel 7.24
 
-De in [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=2&artikel=7.6&z=2010-03-11&g=2010-03-11) bedoelde adviescommissie heeft eveneens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=4&artikel=7.25&z=2010-03-11&g=2010-03-11).
+De in [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=2&artikel=7.6&z=2010-04-15&g=2010-04-15) bedoelde adviescommissie heeft eveneens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=4&artikel=7.25&z=2010-04-15&g=2010-04-15).
 
 ##### Artikel 7.25
 
 De minister beslist afwijzend op een aanvraag indien:
 
-- a. de verkoop of verhuur van het product, het proces of de dienst onvoldoende bijdraagt aan de doelstellingen genoemd in de bij deze regeling behorende [bijlage 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=7.1&z=2010-03-11&g=2010-03-11);
+- a. de verkoop of verhuur van het product, het proces of de dienst onvoldoende bijdraagt aan de doelstellingen genoemd in de bij deze regeling behorende [bijlage 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=7.1&z=2010-04-15&g=2010-04-15);
 
 - b. van de verkoop of verhuur van het product, het proces of de dienst onvoldoende positieve gevolgen voor de Nederlandse economie te verwachten zijn;
 
@@ -3229,7 +3231,7 @@ De beschikking tot verlenen van een subsidie wordt verleend onder de voorwaarde 
 
 1. De subsidie-ontvanger meldt aan de minister indien zich omstandigheden voordoen die nopen tot aanpassing van het product, het proces of de dienst voor het behalen van de tussen de ondernemer en de koper of de huurder overeengekomen prestatie-indicatoren en die ten tijde van de verkoop of verhuur niet konden worden voorzien.
 
-2. Indien de subsidie-ontvanger aannemelijk maakt dat wordt voldaan aan de voorwaarde, genoemd in [artikel 7.26, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=4&artikel=7.26&z=2010-03-11&g=2010-03-11), bepaalt de minister bij beschikking het bedrag van de kosten van de desbetreffende aanpassing dat maximaal voor subsidie in aanmerking komt.
+2. Indien de subsidie-ontvanger aannemelijk maakt dat wordt voldaan aan de voorwaarde, genoemd in [artikel 7.26, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=4&artikel=7.26&z=2010-04-15&g=2010-04-15), bepaalt de minister bij beschikking het bedrag van de kosten van de desbetreffende aanpassing dat maximaal voor subsidie in aanmerking komt.
 
 3. Indien uit een tweede of volgende melding als bedoeld in het eerste lid blijkt dat zich opnieuw omstandigheden als bedoeld in het eerste lid voordoen, bepaalt de minister het bedrag van de kosten van de desbetreffende aanpassing dat maximaal voor subsidie in aanmerking komt en wijzigt hij de in het tweede lid bedoelde beschikking zodanig dat het in de beschikking genoemde bedrag het totaal vormt van de kosten van de gemelde aanpassingen die maximaal voor subsidie in aanmerking komen.
 
@@ -3287,33 +3289,33 @@ Ligt ter inzage bij SenterNovem te Den Haag.
 
 ### Aandachtsgebieden
 
-### c. Internationale R&D-projecten
+### Control:
 
 ## Bijlage 10.1
 
-De belemmeringen voor innovatie op het gebied van watertechnologie vinden hun oorsprong en oorzaak onder meer in:
+In september 2005 presenteerde de watersector haar visie op de toekomst in de brochure: ‘een wereld om water, naar een nieuwe aanpak voor de watersector’. Teneinde een prominente positie te veroveren binnen deze toekomstvisie wil de watersector op een nieuwe manier gaan samenwerken en zich daarbij richten op kansrijke thema’s (focus en massa). De strategie om deze ambitie en positie op het gebied van watertechnologie te bereiken is vervolgens weergegeven in de brochure ‘een wereld om water, innovatieprogramma watertechnologie (april 2006)’.
 
-### § 2. Waardeketens
+### Doelstelling
 
-### Bijlage behorende bij de [artikelen 10a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10a&paragraaf=2&artikel=10a.2&z=2009-09-09&g=2009-09-09) en [10a.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10a&paragraaf=2&artikel=10a.9&z=2009-09-09&g=2009-09-09)
+### Belemmeringen en knelpunten bij innovatie
 
 ## Bijlage 10b.1. Behorende bij [artikel 10b.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10b&artikel=10b.1&z=2009-09-09&g=2009-09-09)
 
-### Maatschappelijke Innovatie Agenda’s (MIA’s)
+### 1. LNG supply chain
 
-Indien onderzoeks- en detacheringsprojecten zich richten op MIA’s, moeten ze passen binnen die MIA’s zoals omschreven in Kamerstukken TK 2007/08, 27046, nr. 120, bijlage (gezondheid, water en veiligheid) en Kamerstukken TK 2007/08, 31530, nr. 1, bijlage (energie), dan wel in onderstaande thema’s Duurzame agro- en visserijketens en Onderwijs (zie ook www.nederlandondernemendinnovatieland.nl).
+Toelichting: het aandeel van LNG (liquefied natural gas, vloeibaar aardgas) in de energievoorziening van de middenlange termijn zal sterk toenemen. De Nederlandse offshore bedrijven hebben de ambitie om daarbij een significante rol te spelen bij zowel de vaste als drijvende LNG-terminals in de leveringsketen;
 
-### Maatschappelijke Innovatie Agenda Duurzame Agro- en Visserijketens
+### 2. Olie en gaswinning onder extreme omstandigheden (zoals zeer diep water en ontoegankelijke omgeving);
 
-Gelet op het derde speerpunt van de cluster zullen de research- en samenwerkingsactiviteiten onder de deelprogramma’s A en B voor de maritieme maakindustrie bijdragen aan:
+Toelichting: de groei van de wereldeconomie heeft de vraag naar olie en gas sterk doen toenemen, terwijl de makkelijk toegankelijke wingebieden uitgeput raken. Mondiaal worden daarom de exploratie en exploitatie activiteiten verlegd naar (zeer) diep water in belangrijke winningsgebieden zoals de Golf van Mexico;
 
-### 7. Monitoring
+### 3. Complexe specials;
 
-De werking van het programma wordt gemonitored door de maritieme cluster en door Economische Zaken. De monitoring door de maritieme cluster is vooral gericht op het bereiken van de resultaten van het innovatieprogramma en de monitoring door Economische Zaken op de verantwoording van de financiële betrokkenheid van het departement.
+Toelichting: Nederland excelleert in het bouwen van zogenaamde complexe specials, dat wil zeggen schepen met een gespecialiseerde en complexe functionaliteit, waaraan door de eindgebruiker hoge en specifieke kwaliteitseisen worden gesteld. Complexe specials zijn baggerschepen, shortsea schepen, megajachten, schepen voor rechtshandhaving op zee en Offshore Service Vessels;
 
-### Vraagprogrammering TNO en Grote Technologische Instituten (GTIs)
+### 4. Procesinnovatie;
 
-Op aanbeveling van de Ad hoc commissie Wijffels heeft de overheid in 2004 gekozen voor het invoeren van vraagprogrammering en vraagfinanciering van het toepassingsgerichte onderzoek door TNO en de GTI’s (ECN, NLR, MARIN, Deltares en WUR/DLO). Kern van de vraagprogrammering is dat de maatschappelijke kennisvraag van overheid, maatschappelijke organisaties en bedrijfsleven centraal staat bij de onderzoeksprogrammering van de instituten. In 2005 heeft het kabinet (Voortgangsrapportage 2005 Implementatie Kabinetstandpunt Brugfunctie TNO en GTI’s, 11 november 2005, TK 29338, nr. 41) het proces van vraagprogrammering en de thema’s aangegeven. In de Voortgangsrapportage 2006 (11 december 2006, 29338, nr. 56, tabel 2) zijn de thema’s verder uitgewerkt. Het gaat om de volgende twaalf thema’s:
+Toelichting: de Nederlandse maritieme maakindustrie moet het hebben van het slimmer en sneller maken van complexe producten. In een steeds ingewikkelder proces van integraal ontwerpen, international sourcing en intensieve samenwerking in de keten blijkt het bedrijfsleven in staat zijn positie te versterken d.m.v. innovatie van het voortbrengingsproces resulterend in o.a. kostenbeheersing.
 
 ### Point One Phase 2
 
@@ -3327,29 +3329,29 @@ Gelet op de eerste twee speerpunten van de cluster zullen de research- en samenw
 
 ### 1. Penvoerder/aanvrager1
 
-### 7. Monitoring
+### B. Samenwerking;
 
 ### Contactpersoon aanvrager4
 
-### Contactgegevens intermediair5
+### C. Verbeteren van de huidige en waarborgen van de toekomstige kennisbasis;
 
 ### Behorende bij de [artikelen 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=2&artikel=9.2&z=2010-03-11&g=2010-03-11), [9.6](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2010-03-11&g=2010-03-11), [9.7](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=2&artikel=9.7&z=2010-03-11&g=2010-03-11), [9.13](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=3&artikel=9.13&z=2010-03-11&g=2010-03-11) en [9.21](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=4&artikel=9.21&z=2010-03-11&g=2010-03-11)
 
-### Point One Phase 2
+### D. Programma voor de eliminatie van innovatiedrempels;
 
 ### 1. Achtergrond en kader
 
 [Hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&z=2010-03-11&g=2010-03-11) van de regeling sterktes in innovatie vormt een onderdeel van een breder programma ter versterking van de innovatie en de economische positie op het gebied van nano-elektronica, mechatronica en embedded systems, bekend onder de naam Point One. Het is een vervolg op de Point One Boegbeeld regelingen in de jaren 2006 t/m 2008
 
-Nano-electronica, embedded systemen en mechatronica leveren gezamenlijk essentiele bouwstenen voor de high-tech samenleving van de toekomst. Het innovatieprogramma Point One is gestart op 28 april 2006 als programma voor embedded systemen en nano-electronica. Dit programma kreeg op 14 juli 2008 een krachtige nieuwe impuls doordat het werd versterkt met mechatronica en verdere intensivering van de interactie tussen industrie en kennisinstellingen.
+In het eerste deelprogramma gaat het voornamelijk om de ontwikkeling van platformtechnologie, die sector breed kan worden ingezet. Hierin spelen publiek gefinancierde onderzoeksorganisaties en met name de grote bedrijven een belangrijke rol. Daarnaast is het de uitdrukkelijke bedoeling dat het MKB meer betrokken wordt bij deze ontwikkelingsactiviteiten. Hiervoor zullen samenwerkingsprojecten tussen grote bedrijven en toeleveranciers worden uitgevoerd. In het tweede deelprogramma zal de samenwerking tussen (MKB-) bedrijven onderling en tussen bedrijven en publiek gefinancierde onderzoeksorganisaties worden gestimuleerd. Hiervoor wordt in eerste instantie gedacht aan thematische netwerken, maar ook exportondersteuning voor het MKB en kennisoverdrachtsactiviteiten vallen hieronder. Voor 2007 waren voor deze twee deelprogramma’s een tender voor onderzoek- en ontwikkelingsprojecten voorzien, maritieme innovatieprojecten geheten, en een subsidieregeling voor haalbaarheidsprojecten.
 
-### a. MKB-projecten
+### 6. Prioriteiten
 
 ### Optionele bijlage
 
 ### b. R&D-projecten
 
-### Bedrijf/organisatie
+### 7. Monitoring
 
 ### c. Internationale R&D-projecten
 
@@ -3359,7 +3361,7 @@ Het Annual Plan is opgesteld op basis van de bijdragen van de Nederlandse partij
 
 De uitvoering van het Annual Plan maakt het mede mogelijk om de ambities en programmadoelen van Point One te realiseren. Nadere informatie over het programmadocument Point One Phase 2, de meerjarenroadmap en het Annual Plan van Point One kunnen gevonden worden op www.point-one.nl of www.senternovem.nl/pointone.
 
-### Gegevens aanvrager 3
+### 1. Achtergrond en kader
 
 ### 2. Doel en focus
 
@@ -3367,9 +3369,9 @@ De uitvoering van het Annual Plan maakt het mede mogelijk om de ambities en prog
 
 ### 3. Subsidiabele kosten Internationale Projecten
 
-In 2007 en 2008 is onder de Point One Boegbeeld regeling een start gemaakt met het subsidiëren van internationale R&D projecten. Technisch excellente projecten worden eerst op Europees niveau voorzien van een ITEA2, MEDEA+ en Catrene label en vervolgens bij SenterNovem ingediend tijdens een door SenterNovem te organiseren call. De gelabelde projectvoorstellen worden hierbij aanvullend getoetst aan de nationale subsidieregeling.
+Point One is een innovatieprogramma waarin toonaangevende industrie, kennisinstellingen, kleine en middelgrote ondernemingen en de overheid intensief samenwerken aan de ontwikkeling van nieuwe toepassingen voor nanoelectronica, embedded systemen en mechatronica. Centraal in het innovatieprogramma staan valorisatie en het behouden en versterken van de cutting edge kennisbasis. Daarvoor richt het programma zich actief op het samenbrengen van publiek gefinancierde onderzoeksorganisaties en de industrie. Uitgangspunt is de strategie die in het het progammadocument Point One Phase 2, ‘From good to great in Dutch Technologies’ is beschreven en nader is uitgewerkt in de Point One Phase 2 Multiannual Roadmap [hierna meerjarenroadmap] die jaarlijks wordt vertaald naar Point One Phase 2 Annual Plan [hierna: Annual Plan]. Deze strategie is gericht op een dynamisch ondernemersklimaat waarin open innovatie tussen grote en kleine partijen vanzelfsprekend is. Het Annual Plan wordt jaarlijks in nauwe samenspraak met het Ministerie van Economische Zaken vastgesteld en is te vinden op www.point-one.nl en www.senternovem.nl/pointone.
 
-Het doel is verbreding en versterking van de technologische basis van het Point One ecosysteem op het gebied van nano-elektronica mechatronica en embedded systemen zoals beschreven in de meerjarenroadmap en Annual Plan 2009 van Point One. Een belangrijk aspect hierbij is het stimuleren en vergroten van de betrokkenheid van het innovatief MKB in het Point One Ecosysteem. De subsidie moet een impuls geven aan een meer structurele en strategische samenwerking. De opzet van brede consortia waarin op gemeenschappelijke basis R&D wordt uitgevoerd is hier de basis voor. De R&D-projecten moeten leiden tot concepten die uiteindelijk industrieel toepasbaar zijn. De projecten moeten breed van opzet zijn, waarin de industriële waardeketen, van publiek gefinancierde onderzoeksorganisaties, MKB-clusters tot aan Original Equipment Manufacturers (verder OEMers), zo goed mogelijk is vertegenwoordigd. De samenwerkingsverbanden hebben een duidelijke inbreng van het MKB. Streefwaarde is dat 35% van het project en call budget wordt uitgevoerd door zij die een MKB onderneming in stand houden als bedoeld in aanbeveling 2003/361 EG en/of ondernemingen, niet zijnde MKB die een jaarlijkse omzet hebben van minder dan vijfhonderd miljoen Euro.
+Kern van het Point One initiatief is het opbouwen van een hecht en dynamisch netwerk van grote en kleine bedrijven en publiek gefinancierde onderzoeksorganisaties (hierna: Point One ecosysteem).
 
 ### c. Internationale R&D-projecten
 
@@ -3379,19 +3381,19 @@ Het doel is verbreding en versterking van de technologische basis van het Point 
 
 ### d. University-Industry Interaction projecten
 
-Het doel is versterking van de kennisopbouw voor de middellange en lange termijn op het gebied van nano-elektronica, mechatronica en embedded systemen, als ook het bouwen aan een gestructureerd strategisch partnerschap tussen publiek gefinancierde onderzoeksorganisaties en ondernemers in het Point-One domein. Projecten zullen bijdragen aan de implementatie van de Point-One meerjarenroadmap, en in het bijzonder de ‘Emerging Technology Agenda’. Projecten bestaan uit fundamenteel en/of industrieel onderzoek waarvoor een promovendus of postdoc wordt aangesteld. Deze projecten resulteren in proefschriften, wetenschappelijke publicaties, conferentiepresentaties en kennisopbouw voor de middellange tot lange termijn. De nadruk ligt dus op kennisopbouw waarbij de projecten een hoog risicogehalte hebben; echter wel vanuit een industriële vraagstelling. De ondernemer of de ondernemers in het samenwerkingsverband draagt of dragen daarvoor met tenminste 75% bij aan de projectkosten.
+De uitvoering van het Annual Plan maakt het mede mogelijk om de ambities en programmadoelen van Point One te realiseren. Nadere informatie over het programmadocument Point One Phase 2, de meerjarenroadmap en het Annual Plan van Point One kunnen gevonden worden op www.point-one.nl of www.senternovem.nl/pointone.
 
-De Subsidieregeling Polymeren-module van de Experimentele kaderregeling subsidies innovatieprojecten maakt onderdeel uit van het Polymeren Innovatie Programma.
+In het Annual Plan is ervoor gekozen om onderzoek en ontwikkelings projecten te definieren op een beperkt aantal businesscases of toepassingsgebieden. Onderzoeksprojecten zullen dus niet alleen moeten voldoen aan de technologische kwalificatie, embedded systems, mechatronica of nanoelektronica ook zullen ze moeten referenen aan een van de genoemde toepssingsdomeinen. De toepassingsdomeinen uitgewerkt in het Annual Plan van Point One zijn (genummerd volgens het Annual Plan 2009:
 
 ### Gegevens aanvrager 5
 
-### 3. Subsidiabele kosten Internationale Projecten
+### a. MKB-projecten
 
 ### ContactpersoonC
 
-### § 2. Waardeketens
+### b. R&D-projecten
 
-De vertraging die door deze fundingssystematiek wordt veroorzaakt doet afbreuk aan het draagvlak voor het programmatisch innovatiebeleid. De financiële intensivering van de internationale samenwerking komt hierdoor onbedoeld onder druk te staan.
+Het doel is verbreding en versterking van de technologische basis van het Point One ecosysteem op het gebied van nano-elektronica mechatronica en embedded systemen zoals beschreven in de meerjarenroadmap en Annual Plan 2009 van Point One. Een belangrijk aspect hierbij is het stimuleren en vergroten van de betrokkenheid van het innovatief MKB in het Point One Ecosysteem. De subsidie moet een impuls geven aan een meer structurele en strategische samenwerking. De opzet van brede consortia waarin op gemeenschappelijke basis R&D wordt uitgevoerd is hier de basis voor. De R&D-projecten moeten leiden tot concepten die uiteindelijk industrieel toepasbaar zijn. De projecten moeten breed van opzet zijn, waarin de industriële waardeketen, van publiek gefinancierde onderzoeksorganisaties, MKB-clusters tot aan Original Equipment Manufacturers (verder OEMers), zo goed mogelijk is vertegenwoordigd. De samenwerkingsverbanden hebben een duidelijke inbreng van het MKB. Streefwaarde is dat 35% van het project en call budget wordt uitgevoerd door zij die een MKB onderneming in stand houden als bedoeld in aanbeveling 2003/361 EG en/of ondernemingen, niet zijnde MKB die een jaarlijkse omzet hebben van minder dan vijfhonderd miljoen Euro.
 
 Op grond van artikel 15 Kaderbesluit, wordt voor Internationale Projecten daarom afgeweken van de regel dat uitsluitend projectkosten die na een aanvraag op grond van de MR Sterktes in Innovatie ontstaan voor een subsidie in aanmerking kunnen komen. Ook kosten die zijn gemaakt vanaf 1 januari 2009 tot aan de honorering van de aanvraag kunnen worden gesubsidieerd.
 
@@ -3399,15 +3401,15 @@ Op grond van artikel 15 Kaderbesluit, wordt voor Internationale Projecten daarom
 
 ### Behorende bij de [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10&paragraaf=1&artikel=10.1&z=2010-03-11&g=2010-03-11), [10.13](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10&paragraaf=3&artikel=10.13&z=2010-03-11&g=2010-03-11) en [10.20](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10&paragraaf=4&artikel=10.20&z=2010-03-11&g=2010-03-11)
 
-### § 1. Doelstellingen
+### d. University-Industry Interaction projecten
 
 ### Machtiging aanvrager 6
 
 Het Polymeren Innovatie Programma is een van de onderdelen van het Businessplan Chemie, dat in 2006 verschenen is. De ambitie van het Polymeren Innovatie Programma is ‘een quantum leap te bereiken in de bijdrage van de Nederlandse Polymeren gemeenschap aan de kwaliteit van leven, duurzaamheid en economische groei’. Het Polymeren Innovatie Programma draagt hiermee bij aan de overall doelstellingen van het Businessplan Chemie:
 
-Het Polymeren Innovatie Programma zal voor 20% bijdragen aan de verdubbeling van het BBP, dat wil zeggen een bijdrage aan het BBP van € 2,4 miljard en voor bijna 30% aan een reductie van het energieverbruik: 90 PJ.
+Het hoofdstuk Point One in de Sterktes in innovatie regeling heeft tot doel op basis van een door de betrokken partijen in samenspraak met het ministerie van Economische Zaken opgestelde Annual Plan subsidie te verstrekken via twee tenders en één ‘eerst komt, eerst maalt’ subsidieregeling. In het Annual Plan van Point One wordt nader ingegaan op de toepassingsgebieden en doelstellingen van Point One. Een tweede belangrijke doelstelling is een bijdrage te leveren aan standaardisering en bredere toepassing van de ontwikkelde technologie in Point One verband. Als inhoudelijke uitgangspunten voor de R&D-projecten geldt dat het moet gaan om projecten van hoge kwaliteit en met een aansprekend karakter. Van belang is bovendien een brede opzet van het samenwerkingsverband met spelers aan zowel de publieke als private kant.
 
-### Gegevens aanvrager 7
+### 3. Subsidiabele kosten Internationale Projecten
 
 ### § 2. Waardeketens
 
@@ -3415,7 +3417,7 @@ Het Polymeren Innovatie Programma zal voor 20% bijdragen aan de verdubbeling van
 
 ### Machtiging aanvrager 7
 
-Life Sciences & Health ([bijlage 4.1 Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=4.1&z=2010-01-01&g=2010-01-01))
+Op grond van artikel 15 Kaderbesluit, wordt voor Internationale Projecten daarom afgeweken van de regel dat uitsluitend projectkosten die na een aanvraag op grond van de MR Sterktes in Innovatie ontstaan voor een subsidie in aanmerking kunnen komen. Ook kosten die zijn gemaakt vanaf 1 januari 2009 tot aan de honorering van de aanvraag kunnen worden gesubsidieerd.
 
 Als resultaat van een interactief proces geleid door de Federatie Nederlandse Rubber en Kunststofindustrie in samenwerking met het midden en kleinbedrijf en grote bedrijven is een lijst ontwikkeld met thema’s voor gezamenlijke ontwikkelingsdoelstellingen. Het Polymeren Innovatie Programma heeft deze thema’s overgenomen.
 
@@ -3457,7 +3459,7 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ##### Artikel 6.22
 
-De adviescommissie, genoemd in [artikel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=2&artikel=6.6&z=2010-03-11&g=2010-03-11) heeft eveneens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met i, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 6.24](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=4&artikel=6.24&z=2010-03-11&g=2010-03-11) en de rangschikkingscriteria, bedoeld in [artikel 6.25](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=4&artikel=6.25&z=2010-03-11&g=2010-03-11).
+De adviescommissie, genoemd in [artikel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=2&artikel=6.6&z=2010-04-15&g=2010-04-15) heeft eveneens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met i, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 6.24](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=4&artikel=6.24&z=2010-04-15&g=2010-04-15) en de rangschikkingscriteria, bedoeld in [artikel 6.25](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=4&artikel=6.25&z=2010-04-15&g=2010-04-15).
 
 ##### Artikel 6.23
 
@@ -3471,9 +3473,9 @@ De minister beslist afwijzend op een aanvraag indien:
 
 - b. van het HTAS-EVT-project project onvoldoende positieve gevolgen voor de Nederlandse economie te verwachten zijn;
 
-- c. het project onvoldoende bijdraagt aan de strategische hoofddoelen genoemd in de bij deze regeling behorende [bijlage 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.1&z=2010-03-11&g=2010-03-11);
+- c. het project onvoldoende bijdraagt aan de strategische hoofddoelen genoemd in de bij deze regeling behorende [bijlage 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.1&z=2010-04-15&g=2010-04-15);
 
-- d. het project onvoldoende bijdraagt aan het thema en daarbij behorende specifieke doelstellingen en aandachtsgebieden genoemd in de bij deze regeling behorende [bijlage 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.3&z=2010-03-11&g=2010-03-11).
+- d. het project onvoldoende bijdraagt aan het thema en daarbij behorende specifieke doelstellingen en aandachtsgebieden genoemd in de bij deze regeling behorende [bijlage 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.3&z=2010-04-15&g=2010-04-15).
 
 ##### Artikel 6.25
 
@@ -3485,7 +3487,7 @@ De minister beslist afwijzend op een aanvraag indien:
 
 - c. duurzaam economisch perspectief van projectresultaten, uitgebreidheid van de toepassingsmogelijkheden van de projectresultaten;
 
-- d. het in [bijlage 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.3&z=2010-03-11&g=2010-03-11) opgenomen thema en de daarbij behorende specifieke doelen en aandachtsgebieden.
+- d. het in [bijlage 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.3&z=2010-04-15&g=2010-04-15) opgenomen thema en de daarbij behorende specifieke doelen en aandachtsgebieden.
 
 2. Voor de rangschikking wegen de in het eerste lid genoemde criteria even zwaar.
 
@@ -3535,7 +3537,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - –. **civiele vliegtuigontwikkeling:** het geheel van activiteiten gericht op het vergroten van de mogelijkheden voor het Nederlandse bedrijfsleven en de kennisinfrastructuur om te participeren in de ontwikkelingsfase en de productie van civiele vliegtuigen;
 
-- –. **civiel vliegtuigontwikkelingsproject:** een voor Nederland nieuwe, planmatige activiteit, bestaande uit industrieel onderzoek of experimentele ontwikkeling als bedoeld in [artikel 10c.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10c&artikel=10c.2&z=2010-03-11&g=2010-03-11).
+- –. **civiel vliegtuigontwikkelingsproject:** een voor Nederland nieuwe, planmatige activiteit, bestaande uit industrieel onderzoek of experimentele ontwikkeling als bedoeld in [artikel 10c.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10c&artikel=10c.2&z=2010-04-15&g=2010-04-15).
 
 ##### Artikel 10c.2
 
@@ -3717,7 +3719,7 @@ De minister beslist afwijzend op een aanvraag om subsidie voor zover:
 
 ##### Artikel 10d.7
 
-1. De minister rangschikt aanvragen waarop niet afwijzend is beslist, hoger naarmate er beter invulling wordt gegeven aan de aspecten, bedoeld in [artikel 10d.6](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10d&artikel=10d.6&z=2010-03-11&g=2010-03-11), onderdeel h, onder 1° tot en met 9°.
+1. De minister rangschikt aanvragen waarop niet afwijzend is beslist, hoger naarmate er beter invulling wordt gegeven aan de aspecten, bedoeld in [artikel 10d.6](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10d&artikel=10d.6&z=2010-04-15&g=2010-04-15), onderdeel h, onder 1° tot en met 9°.
 
 2. Voor de rangschikking wegen de criteria, bedoeld in het eerste lid, even zwaar.
 
@@ -3855,7 +3857,7 @@ met uitzondering van de kosten voor het standaard technisch ontwerp die ook gema
 
 ##### Artikel 10e.6
 
-1. Er is een Adviescommissie innovatieve zeescheepsbouw die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23 van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 10e.7](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10e&artikel=10e.7&z=2010-03-11&g=2010-03-11).
+1. Er is een Adviescommissie innovatieve zeescheepsbouw die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23 van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 10e.7](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10e&artikel=10e.7&z=2010-04-15&g=2010-04-15).
 
 2. De commissie bestaat uit ten minste drie en ten hoogste vijf leden.
 
@@ -3879,9 +3881,9 @@ De minister beslist afwijzend op een aanvraag:
 
 1. Een subsidie wordt verleend onder de opschortende voorwaarde dat de subsidieontvanger uiterlijk dertien weken na de beschikking tot subsidieverlening heeft aangetoond:
 
-- a. dat de opdrachtgever en de subsidieontvanger een schriftelijk contract, zijnde een schriftelijke letter of intent, dan wel een schriftelijke letter of award, dan wel een ander schriftelijk stuk waaruit blijkt dat een schriftelijk contract tussen de scheepswerf en de opdrachtgever met betrekking tot de bouw of verbouw van een zeeschip waarbij technologische nieuwe of aanmerkelijk verbeterde producten en processen worden gebruikt, zoals bedoeld in [artikel 10e.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10e&artikel=10e.1&z=2010-03-11&g=2010-03-11), definitie scheepsbouwinnovatieproject, onderdeel a, b en c, zal worden gesloten, onvoorwaardelijk zal worden dan wel nader zal worden uitgewerkt, bindend en volledig zijn aangegaan door ondertekening,
+- a. dat de opdrachtgever en de subsidieontvanger een schriftelijk contract, zijnde een schriftelijke letter of intent, dan wel een schriftelijke letter of award, dan wel een ander schriftelijk stuk waaruit blijkt dat een schriftelijk contract tussen de scheepswerf en de opdrachtgever met betrekking tot de bouw of verbouw van een zeeschip waarbij technologische nieuwe of aanmerkelijk verbeterde producten en processen worden gebruikt, zoals bedoeld in [artikel 10e.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10e&artikel=10e.1&z=2010-04-15&g=2010-04-15), definitie scheepsbouwinnovatieproject, onderdeel a, b en c, zal worden gesloten, onvoorwaardelijk zal worden dan wel nader zal worden uitgewerkt, bindend en volledig zijn aangegaan door ondertekening,
 
-- b. dat de opdrachtgever ter zake van de bouw of verbouw van een zeeschip waarbij technologische nieuwe of aanmerkelijk verbeterde producten en processen worden gebruikt, bedoeld in [artikel 10e.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10e&artikel=10e.1&z=2010-03-11&g=2010-03-11) onder scheepsbouwinnovatieproject, een of meer betalingen heeft gedaan en
+- b. dat de opdrachtgever ter zake van de bouw of verbouw van een zeeschip waarbij technologische nieuwe of aanmerkelijk verbeterde producten en processen worden gebruikt, bedoeld in [artikel 10e.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10e&artikel=10e.1&z=2010-04-15&g=2010-04-15) onder scheepsbouwinnovatieproject, een of meer betalingen heeft gedaan en
 
 - c. dat er een verklaring van de scheepswerf is inhoudende dat het contract, bedoeld in onderdeel a, de volledige weergave vormt van de tussen de scheepswerf en opdrachtgever gemaakte afspraken.
 
@@ -3943,13 +3945,13 @@ In afwijking van [artikel 46, vierde lid, van hetKaderbesluit EZ-subsidies](http
 
 1. In afwijking van de [Regeling steunintensiteit](https://wetten.overheid.nl/jci1.3:c:BWBR0026689) bedraagt de subsidie 70 procent van de subsidiabele kosten.
 
-2. Het maximum subsidiebedrag bedraagt € 350.000 per subsidie-ontvanger, als bedoeld in [artikel 10f.2, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10f&artikel=10f.2&z=2010-03-11&g=2010-03-11).
+2. Het maximum subsidiebedrag bedraagt € 350.000 per subsidie-ontvanger, als bedoeld in [artikel 10f.2, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10f&artikel=10f.2&z=2010-04-15&g=2010-04-15).
 
-3. Indien het totale subsidiebedrag voor de deelnemers aan een samenwerkingsverband, als bedoeld in [artikel 10f.2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10f&artikel=10f.2&z=2010-03-11&g=2010-03-11), meer bedraagt dan € 350.000, wordt het meerdere naar rato in mindering gebracht op de aan de betrokken aanvragers te verstrekken subsidie.
+3. Indien het totale subsidiebedrag voor de deelnemers aan een samenwerkingsverband, als bedoeld in [artikel 10f.2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10f&artikel=10f.2&z=2010-04-15&g=2010-04-15), meer bedraagt dan € 350.000, wordt het meerdere naar rato in mindering gebracht op de aan de betrokken aanvragers te verstrekken subsidie.
 
 ##### Artikel 10f.4
 
-1. Er is een Adviescommissie Ruimtevaart Technologie Ontwikkeling die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 10f.5](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10f&artikel=10f.5&z=2010-03-11&g=2010-03-11) en de rangschikingscriteria, bedoeld in [artikel 10f.6](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10f&artikel=10f.6&z=2010-03-11&g=2010-03-11).
+1. Er is een Adviescommissie Ruimtevaart Technologie Ontwikkeling die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 10f.5](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10f&artikel=10f.5&z=2010-04-15&g=2010-04-15) en de rangschikingscriteria, bedoeld in [artikel 10f.6](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10f&artikel=10f.6&z=2010-04-15&g=2010-04-15).
 
 2. De commissie bestaat uit ten minste twee en ten hoogste zes leden.
 
@@ -3981,7 +3983,7 @@ De minister beslist afwijzend op een aanvraag indien:
 
 - g. bijdraagt aan de opbouw van kennis en technologie bij het midden- en kleinbedrijf;
 
-- h. het de kans beperkt dat het project leidt tot een vervolgaanvraag voor een project als bedoeld in [artikel 10f.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10f&artikel=10f.2&z=2010-03-11&g=2010-03-11).
+- h. het de kans beperkt dat het project leidt tot een vervolgaanvraag voor een project als bedoeld in [artikel 10f.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10f&artikel=10f.2&z=2010-04-15&g=2010-04-15).
 
 2. Voor de rangschikking wegen de in het eerste lid genoemde criteria even zwaar.
 
@@ -3999,7 +4001,7 @@ De minister beslist afwijzend op een aanvraag indien:
 
 ## Bijlage 6.1
 
-### Specifieke doelen
+### De Strategische doelen en focusgebieden
 
 ## Bijlage 7.1
 
@@ -4007,7 +4009,7 @@ De minister beslist afwijzend op een aanvraag indien:
 
 ### Belemmeringen en knelpunten bij innovatie
 
-### 4. Procesinnovatie;
+### Focus op vier kansrijke clusters
 
 ### 4. De deelprogramma’s
 
@@ -4019,75 +4021,75 @@ Toelichting: doorbraken en innovaties zijn noodzakelijk om in de maritieme maaki
 
 ### D. Programma voor de eliminatie van innovatiedrempels;
 
-### 5. Activiteiten en instrumenten
+### 4. De deelprogramma’s
 
-In het eerste deelprogramma gaat het voornamelijk om de ontwikkeling van platformtechnologie, die sector breed kan worden ingezet. Hierin spelen publiek gefinancierde onderzoeksorganisaties en met name de grote bedrijven een belangrijke rol. Daarnaast is het de uitdrukkelijke bedoeling dat het MKB meer betrokken wordt bij deze ontwikkelingsactiviteiten. Hiervoor zullen samenwerkingsprojecten tussen grote bedrijven en toeleveranciers worden uitgevoerd. In het tweede deelprogramma zal de samenwerking tussen (MKB-) bedrijven onderling en tussen bedrijven en publiek gefinancierde onderzoeksorganisaties worden gestimuleerd. Hiervoor wordt in eerste instantie gedacht aan thematische netwerken, maar ook exportondersteuning voor het MKB en kennisoverdrachtsactiviteiten vallen hieronder. Voor 2007 waren voor deze twee deelprogramma’s een tender voor onderzoek- en ontwikkelingsprojecten voorzien, maritieme innovatieprojecten geheten, en een subsidieregeling voor haalbaarheidsprojecten.
+Het Maritiem Innovatie Programma is opgebouwd uit vier deelprogramma’s die voortkomen uit de door de maritieme cluster geconstateerde specifieke knelpunten, waarbij met name de eerste twee deelprogramma’s nauw met elkaar samenhangen.
 
-Nano-electronica, embedded systemen en mechatronica leveren gezamenlijk essentiele bouwstenen voor de high-tech samenleving van de toekomst. Het innovatieprogramma Point One is gestart op 28 april 2006 als programma voor embedded systemen en nano-electronica. Dit programma kreeg op 14 juli 2008 een krachtige nieuwe impuls doordat het werd versterkt met mechatronica en verdere intensivering van de interactie tussen industrie en kennisinstellingen.
+Die vier deelprogramma’s zijn:
 
-Gelet op het derde speerpunt van de cluster zullen de research- en samenwerkingsactiviteiten onder de deelprogramma’s A en B voor de maritieme maakindustrie bijdragen aan:
+Toelichting: doorbraken en innovaties zijn noodzakelijk om in de maritieme maakindustrie en in de offshore dienstverlening de kennis en technologie tijdig beschikbaar te hebben. De steeds hogere eisen die gesteld worden ten aanzien van milieu, veiligheid en duurzaamheid moeten snel door nieuwe kennis en technologie kunnen worden ingevuld.
 
 Kern van het Point One initiatief is het opbouwen van een hecht en dynamisch netwerk van grote en kleine bedrijven en publiek gefinancierde onderzoeksorganisaties (hierna: Point One ecosysteem).
 
-De werking van het programma wordt gemonitored door de maritieme cluster en door Economische Zaken. De monitoring door de maritieme cluster is vooral gericht op het bereiken van de resultaten van het innovatieprogramma en de monitoring door Economische Zaken op de verantwoording van de financiële betrokkenheid van het departement.
+Toelichting: dit deelprogramma richt zich op het intensiveren van de samenwerking en de kennisuitwisseling tussen het MKB, grotere bedrijven en publiek gefinancierde onderzoeksorganisaties en het stimuleren van innovatie binnen het MKB;
 
 Doel van het Annual Plan van Point One is het verstrekken van een integrale richtlijn voor onderzoek- en ontwikkelingsactiviteiten die gezamenlijk worden ondernomen door grote bedrijven, MKB’s, overheid, universiteiten en andere publiek gefinancierde onderzoeksorganisaties.
 
-Voor verdere versterking van het Point One ecosysteem zijn in het Annual Plan ook actielijnen gedefinieerd voor MKB, Human Capital en Universiteit-Industrie interactie.
+Toelichting: dit deelprogramma richt zich op het versterken van de opleidingen, het onderwijs en de kennisbasis. Er is in de gehele maritieme cluster nu al een groot gebrek aan voldoende gekwalificeerd personeel;
 
 Het Annual Plan is opgesteld op basis van de bijdragen van de Nederlandse partijen (industrie, kennisinstellingen, MKB) die werkzaam zijn op het terrein van embedded systemen, mechatronica en nano-elektronica en de reeds beschikbare internationale roadmaps van Catrene, ITEA2 en de Joint Technology Initiatives ENIAC en Artemis.
 
-De uitvoering van het Annual Plan maakt het mede mogelijk om de ambities en programmadoelen van Point One te realiseren. Nadere informatie over het programmadocument Point One Phase 2, de meerjarenroadmap en het Annual Plan van Point One kunnen gevonden worden op www.point-one.nl of www.senternovem.nl/pointone.
+Toelichting: dit deelprogramma is gericht op het slechten van belemmeringen voor innovatie in wet- en regelgeving en het bevorderen van innovatieve pilotprojecten waarmee een nieuwe werkwijze kan worden getoetst.
 
-Point One is een innovatieprogramma waarin toonaangevende industrie, kennisinstellingen, kleine en middelgrote ondernemingen en de overheid intensief samenwerken aan de ontwikkeling van nieuwe toepassingen voor nanoelectronica, embedded systemen en mechatronica. Centraal in het innovatieprogramma staan valorisatie en het behouden en versterken van de cutting edge kennisbasis. Daarvoor richt het programma zich actief op het samenbrengen van publiek gefinancierde onderzoeksorganisaties en de industrie. Uitgangspunt is de strategie die in het het progammadocument Point One Phase 2, ‘From good to great in Dutch Technologies’ is beschreven en nader is uitgewerkt in de Point One Phase 2 Multiannual Roadmap [hierna meerjarenroadmap] die jaarlijks wordt vertaald naar Point One Phase 2 Annual Plan [hierna: Annual Plan]. Deze strategie is gericht op een dynamisch ondernemersklimaat waarin open innovatie tussen grote en kleine partijen vanzelfsprekend is. Het Annual Plan wordt jaarlijks in nauwe samenspraak met het Ministerie van Economische Zaken vastgesteld en is te vinden op www.point-one.nl en www.senternovem.nl/pointone.
+Gelet op de eerste twee speerpunten van de cluster zullen de research- en samenwerkingsactiviteiten onder de deelprogramma’s A en B voor de offshore dienstverlening bijdragen aan:
 
 Een beter gebruik van elkaars kwaliteiten en expertise levert op termijn veel meer rendement en slagkracht op dan de grote investeringen die de publieke en private partijen nu doen. Hetzelfde geldt voor het opereren vanuit een internationaal onderscheidende focus en een heldere strategie. Een zwaartepunt binnen de regeling is het beter benutten van het innovatief potentieel van het MKB en het beter betrekken van het MKB in nationale en internationale netwerken.
 
 Voor verdere versterking van het Point One ecosysteem zijn in het Annual Plan ook actielijnen gedefinieerd voor MKB, Human Capital en Universiteit-Industrie interactie.
 
-### d. University-Industry Interaction projecten
+### Point One Phase 2
 
 In het Annual Plan is ervoor gekozen om onderzoek en ontwikkelings projecten te definieren op een beperkt aantal businesscases of toepassingsgebieden. Onderzoeksprojecten zullen dus niet alleen moeten voldoen aan de technologische kwalificatie, embedded systems, mechatronica of nanoelektronica ook zullen ze moeten referenen aan een van de genoemde toepssingsdomeinen. De toepassingsdomeinen uitgewerkt in het Annual Plan van Point One zijn (genummerd volgens het Annual Plan 2009:
 
-Het hoofdstuk Point One in de Sterktes in innovatie regeling heeft tot doel op basis van een door de betrokken partijen in samenspraak met het ministerie van Economische Zaken opgestelde Annual Plan subsidie te verstrekken via twee tenders en één ‘eerst komt, eerst maalt’ subsidieregeling. In het Annual Plan van Point One wordt nader ingegaan op de toepassingsgebieden en doelstellingen van Point One. Een tweede belangrijke doelstelling is een bijdrage te leveren aan standaardisering en bredere toepassing van de ontwikkelde technologie in Point One verband. Als inhoudelijke uitgangspunten voor de R&D-projecten geldt dat het moet gaan om projecten van hoge kwaliteit en met een aansprekend karakter. Van belang is bovendien een brede opzet van het samenwerkingsverband met spelers aan zowel de publieke als private kant.
+Nano-electronica, embedded systemen en mechatronica leveren gezamenlijk essentiele bouwstenen voor de high-tech samenleving van de toekomst. Het innovatieprogramma Point One is gestart op 28 april 2006 als programma voor embedded systemen en nano-electronica. Dit programma kreeg op 14 juli 2008 een krachtige nieuwe impuls doordat het werd versterkt met mechatronica en verdere intensivering van de interactie tussen industrie en kennisinstellingen.
 
-De vertraging die door deze fundingssystematiek wordt veroorzaakt doet afbreuk aan het draagvlak voor het programmatisch innovatiebeleid. De financiële intensivering van de internationale samenwerking komt hierdoor onbedoeld onder druk te staan.
+Een beter gebruik van elkaars kwaliteiten en expertise levert op termijn veel meer rendement en slagkracht op dan de grote investeringen die de publieke en private partijen nu doen. Hetzelfde geldt voor het opereren vanuit een internationaal onderscheidende focus en een heldere strategie. Een zwaartepunt binnen de regeling is het beter benutten van het innovatief potentieel van het MKB en het beter betrekken van het MKB in nationale en internationale netwerken.
 
-Het innovatieprogramma Point One kent een zeer internationale orientatie. Omdat nano-electronica en embedded systems wereldwijde markten zijn, is ook de kennis veelal over onze landsgrenzen te vinden. Om internationaal onze koppositie te behouden, op industrieel- en kennisgebied, is het daarom van groot belang om vanuit een sterk Nederlands ecosysteem R&D-projecten uit te voeren met buitenlandse partners. Binnen Point One vindt de internationale R&D-samenwerking met name plaats met Europese partners.
+Doel van het Annual Plan van Point One is het verstrekken van een integrale richtlijn voor onderzoek- en ontwikkelingsactiviteiten die gezamenlijk worden ondernomen door grote bedrijven, MKB’s, overheid, universiteiten en andere publiek gefinancierde onderzoeksorganisaties.
 
 ## Bijlage 10.1
 
 ### § 1. Doelstellingen
 
-Het hoofdstuk Point One in de Sterktes in innovatie regeling heeft tot doel op basis van een door de betrokken partijen in samenspraak met het ministerie van Economische Zaken opgestelde Annual Plan subsidie te verstrekken via twee tenders en één ‘eerst komt, eerst maalt’ subsidieregeling. In het Annual Plan van Point One wordt nader ingegaan op de toepassingsgebieden en doelstellingen van Point One. Een tweede belangrijke doelstelling is een bijdrage te leveren aan standaardisering en bredere toepassing van de ontwikkelde technologie in Point One verband. Als inhoudelijke uitgangspunten voor de R&D-projecten geldt dat het moet gaan om projecten van hoge kwaliteit en met een aansprekend karakter. Van belang is bovendien een brede opzet van het samenwerkingsverband met spelers aan zowel de publieke als private kant.
+Deze regeling heeft met name betrekking op de lijn voor onderzoek en ontwikkeling en vindt zijn uitwerking in het Point One programma. De lijn voor onderzoek en onwikkeling drie onderdelen:
 
 Het Polymeren Innovatie Programma zal voor 20% bijdragen aan de verdubbeling van het BBP, dat wil zeggen een bijdrage aan het BBP van € 2,4 miljard en voor bijna 30% aan een reductie van het energieverbruik: 90 PJ.
 
-In 2007 en 2008 is onder de Point One Boegbeeld regeling een start gemaakt met het subsidiëren van internationale R&D projecten. Technisch excellente projecten worden eerst op Europees niveau voorzien van een ITEA2, MEDEA+ en Catrene label en vervolgens bij SenterNovem ingediend tijdens een door SenterNovem te organiseren call. De gelabelde projectvoorstellen worden hierbij aanvullend getoetst aan de nationale subsidieregeling.
+Het doel is het verhogen van het aantal R&D-projecten in het MKB als wel het versterken van het innovatief MKB op het gebied van R&D. Middels een haalbaarheidsproject kan een MKB-ondernemer inzicht krijgen in de technologische en economische haalbaarheid van een idee of concept. Bij voldoende positieve uitkomsten kan het MKB-project daarmee mogelijk een vervolg krijgen in een R&D-project en de daarvoor benodigde optimale samenstelling van het samenwerkingsverband. Het project moet een eerste aanzet zijn tot een R&D-project zoals bedoeld in deze regeling met een duidelijke bijdrage aan de doelstellingen van Point One. Het resultaat van het haalbaarheidproject moet de definitieve start van het toekomstige R&D-project bepalen. Haalbaarheidsprojecten betreffen bureau-onderzoek en verkennend onderzoek. De doelgroep is het MKB in een samenwerkingsverband met het MKB, grote bedrijven of publiek gefinancierde onderzoeksorganisaties. De subsidie aanvrager moet een MKB-ondernemer zijn en alleen MKB-ondernemers komen in aanmerking voor subsidie.
 
-Als resultaat van een interactief proces geleid door de Federatie Nederlandse Rubber en Kunststofindustrie in samenwerking met het midden en kleinbedrijf en grote bedrijven is een lijst ontwikkeld met thema’s voor gezamenlijke ontwikkelingsdoelstellingen. Het Polymeren Innovatie Programma heeft deze thema’s overgenomen.
+In 2007 en 2008 is onder de Point One boegbeeldregeling een start gemaakt met het subsidiëren van internationale R&D-projecten binnen het ITEA2, MEDEA+ en Catrene kader. In deze projecten wordt niet alleen technologische excellentie nagestreefd, maar ook wordt aangestuurd op de versterking van het Point One ecosysteem en de introductie van innovatieve MKBs in internationale netwerken. Deze lijn wordt voortgezet. Streefwaarde is dat minimaal 35% van het project en call budget wordt uitgevoerd door zij die een MKB onderneming in stand houden als bedoeld in aanbeveling 2003/361 EG of ondernemingen, niet zijnde MKB die een jaarlijkse omzet hebben van minder dan vijfhonderd miljoen Euro.
 
 Deze thema’s zijn:
 
 ## Bijlage 10.1a
 
-### Bijlage behorende bij de [artikelen 10a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10a&paragraaf=2&artikel=10a.2&z=2010-01-01&g=2010-01-01) en [10a.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10a&paragraaf=2&artikel=10a.9&z=2010-01-01&g=2010-01-01)
+### 2. Doel en focus
 
 ## Bijlage 10b.1. Behorende bij [artikel 10b.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10b&artikel=10b.1&z=2010-01-01&g=2010-01-01)
 
-De onderzoeks- en detacheringsprojecten moeten passen binnen thema’s van maatschappelijk belang (maatschappelijke thema’s) die de Nederlandse kennispositie versterken. Er dient een bijdrage te worden geleverd aan de voor Nederland relevante maatschappelijke innovatiethema’s zoals die worden uitgevoerd in de 9 innovatieprogramma’s voor de sleutelgebieden, de 6 maatschappelijke innovatie agenda’s als onderdeel van Nederland Ondernemend Innovatieland, de 12 thema’s in de vraagprogrammering TNO-GTI’s of de 13 thema’s uit de NWO strategie.
+In 2007 en 2008 is onder de Point One Boegbeeld regeling een start gemaakt met het subsidiëren van internationale R&D projecten. Technisch excellente projecten worden eerst op Europees niveau voorzien van een ITEA2, MEDEA+ en Catrene label en vervolgens bij SenterNovem ingediend tijdens een door SenterNovem te organiseren call. De gelabelde projectvoorstellen worden hierbij aanvullend getoetst aan de nationale subsidieregeling.
 
-Het werkgebied van het polymeren innovatie programma omvat alle bedrijven en kennisinstituten in zowel de polymeer als de producten en toepassingen waardeketen. Voor de apparaat/systeem waardeketen ligt de focus van het polymeren innovatie programma op de bedrijven met een strategische interesse in polymeer applicaties.
+De vertraging die door deze fundingssystematiek wordt veroorzaakt doet afbreuk aan het draagvlak voor het programmatisch innovatiebeleid. De financiële intensivering van de internationale samenwerking komt hierdoor onbedoeld onder druk te staan.
 
 Deze thema’s zijn:
 
 Watertechnologie ([bijlage 7.1 Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=7.1&z=2010-01-01&g=2010-01-01))
 
-Maritiem ([bijlage 8.1 Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=8.1&z=2010-01-01&g=2010-01-01))
+De Subsidieregeling Polymeren-module van de Experimentele kaderregeling subsidies innovatieprojecten maakt onderdeel uit van het Polymeren Innovatie Programma.
 
-Een doelstelling van het hoofdstuk HighTech Topprojecten is om, naast de in het HTAS programma en [bijlage 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.1&z=2010-03-11&g=2010-03-11) omschreven ontwikkeling van Hybrid Vehicles, ook de mogelijkheid te openen om een vergelijkbare ontwikkeling te kunnen ondersteunen voor een 100% elektrische auto of delen daarvan. De bredere HTAS doelstellingen omzetgroei, ecosysteemontwikkeling en human capital zijn ook op dit onderwerp van toepassing.
+Het Polymeren Innovatie Programma is een van de onderdelen van het Businessplan Chemie, dat in 2006 verschenen is. De ambitie van het Polymeren Innovatie Programma is ‘een quantum leap te bereiken in de bijdrage van de Nederlandse Polymeren gemeenschap aan de kwaliteit van leven, duurzaamheid en economische groei’. Het Polymeren Innovatie Programma draagt hiermee bij aan de overall doelstellingen van het Businessplan Chemie:
 
-Er zijn verder 3 innovatieprogramma’s met thema’s die niet gepubliceerd zijn als bijlage in bovengenoemde regeling. Het gaat om Chemie, Materialen en Logistiek en supply chains. Deze worden hierna beschreven.
+Het Polymeren Innovatie Programma zal voor 20% bijdragen aan de verdubbeling van het BBP, dat wil zeggen een bijdrage aan het BBP van € 2,4 miljard en voor bijna 30% aan een reductie van het energieverbruik: 90 PJ.
 
 ### Maatschappelijke Innovatie Agenda’s (MIA’s)
 
@@ -4095,21 +4097,21 @@ Indien onderzoeks- en detacheringsprojecten zich richten op MIA’s, moeten ze p
 
 ### Maatschappelijke Innovatie Agenda Duurzame Agro- en Visserijketens
 
-Life Sciences & Health ([bijlage 4.1 Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=4.1&z=2010-03-11&g=2010-03-11))
+Het werkgebied van het polymeren innovatie programma omvat alle bedrijven en kennisinstituten in zowel de polymeer als de producten en toepassingen waardeketen. Voor de apparaat/systeem waardeketen ligt de focus van het polymeren innovatie programma op de bedrijven met een strategische interesse in polymeer applicaties.
 
-### Maatschappelijke Innovatie Agenda Onderwijs
+### § 3. Duurzaamheidsdoelstellingen
 
-Hightech Automotive Systems ([bijlage 6.1 Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.1&z=2010-03-11&g=2010-03-11))
+Als resultaat van een interactief proces geleid door de Federatie Nederlandse Rubber en Kunststofindustrie in samenwerking met het midden en kleinbedrijf en grote bedrijven is een lijst ontwikkeld met thema’s voor gezamenlijke ontwikkelingsdoelstellingen. Het Polymeren Innovatie Programma heeft deze thema’s overgenomen.
 
 ### Vraagprogrammering TNO en Grote Technologische Instituten (GTIs)
 
 Maritiem ([bijlage 8.1 Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=8.1&z=2010-03-11&g=2010-03-11))
 
-### NWO-strategiethema’s
+### Bijlage behorende bij de [artikelen 10a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10a&paragraaf=2&artikel=10a.2&z=2010-04-15&g=2010-04-15) en [10a.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10a&paragraaf=2&artikel=10a.9&z=2010-04-15&g=2010-04-15)
 
-Er zijn verder 3 innovatieprogramma’s met thema’s die niet gepubliceerd zijn als bijlage in bovengenoemde regeling. Het gaat om Chemie, Materialen en Logistiek en supply chains. Deze worden hierna beschreven.
+Een doelstelling van het hoofdstuk HighTech Topprojecten is om, naast de in het HTAS programma en [bijlage 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.1&z=2010-04-15&g=2010-04-15) omschreven ontwikkeling van Hybrid Vehicles, ook de mogelijkheid te openen om een vergelijkbare ontwikkeling te kunnen ondersteunen voor een 100% elektrische auto of delen daarvan. De bredere HTAS doelstellingen omzetgroei, ecosysteemontwikkeling en human capital zijn ook op dit onderwerp van toepassing.
 
-## Bijlage 11.1
+## Bijlage 10b.1. Behorende bij [artikel 10b.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10b&artikel=10b.1&z=2010-04-15&g=2010-04-15)
 
 ### Aanvraagformulier Subsidieregeling sterktes in innovatie
 
@@ -4129,11 +4131,49 @@ Er zijn verder 3 innovatieprogramma’s met thema’s die niet gepubliceerd zijn
 
 ### 4. Ondertekening
 
-**Ondergetekende verklaart dat alle voor de aanvraag benodigde stukken zijn bijgevoegd en dat hij/zij bekend is met de voorwaarden en procedures van de Subsidieregeling sterktes in innovatie.**
+Er zijn verder 3 innovatieprogramma’s met thema’s die niet gepubliceerd zijn als bijlage in bovengenoemde regeling. Het gaat om Chemie, Materialen en Logistiek en supply chains. Deze worden hierna beschreven.
 
 **Aldus naar waarheid ingevuld:**
 
 ### Bijlagen13
+
+### Maatschappelijke Innovatie Agenda Duurzame Agro- en Visserijketens
+
+### Bedrijf/organisatie
+
+### Maatschappelijke Innovatie Agenda Onderwijs
+
+### Contactgegevens intermediair5
+
+### Vraagprogrammering TNO en Grote Technologische Instituten (GTIs)
+
+Op aanbeveling van de Ad hoc commissie Wijffels heeft de overheid in 2004 gekozen voor het invoeren van vraagprogrammering en vraagfinanciering van het toepassingsgerichte onderzoek door TNO en de GTI’s (ECN, NLR, MARIN, Deltares en WUR/DLO). Kern van de vraagprogrammering is dat de maatschappelijke kennisvraag van overheid, maatschappelijke organisaties en bedrijfsleven centraal staat bij de onderzoeksprogrammering van de instituten. In 2005 heeft het kabinet (Voortgangsrapportage 2005 Implementatie Kabinetstandpunt Brugfunctie TNO en GTI’s, 11 november 2005, TK 29338, nr. 41) het proces van vraagprogrammering en de thema’s aangegeven. In de Voortgangsrapportage 2006 (11 december 2006, 29338, nr. 56, tabel 2) zijn de thema’s verder uitgewerkt. Het gaat om de volgende twaalf thema’s:
+
+**Aldus naar waarheid ingevuld:**
+
+### Gegevens aanvrager 3
+
+### Bedrijf/organisatie
+
+### Doelstellingen
+
+### Optionele bijlage
+
+Vanuit deze uitgangspositie worden de volgende doelstellingen nagestreefd:
+
+**Aldus naar waarheid ingevuld:**
+
+### I. Creatieve sector
+
+### II. Financial logistics
+
+### III. Financial logistics en creatieve sector tezamen
+
+### Machtiging aanvrager 4
+
+**Hierbij verleent ondergetekende een machtiging aan** [naam penvoerder] **om het project** [projecttitel] **in te dienen bij SenterNovem en de verdere correspondentie hierover te voeren.**
+
+**Projectaanvraag heeft betrekking op hoofdstuk 7: InnoWATOR**
 
 ### 1. Penvoerder/aanvrager1
 
@@ -4143,69 +4183,31 @@ Er zijn verder 3 innovatieprogramma’s met thema’s die niet gepubliceerd zijn
 
 ### Contactgegevens intermediair5
 
-### 2. Overige aanvragers6
-
 **Hierbij verleent ondergetekende een machtiging aan** [naam penvoerder] **om het project** [projecttitel] **in te dienen bij SenterNovem en de verdere correspondentie hierover te voeren.**
 
 **Aldus naar waarheid ingevuld:**
 
-### Gegevens aanvrager 3
+### 4. Ondertekening
 
-### Bedrijf/organisatie
+### Machtiging aanvrager 4
+
+### ContactpersoonC
 
 ### Bijlagen13
 
-### Optionele bijlage
-
 **Hierbij verleent ondergetekende een machtiging aan** [naam penvoerder] **om het project** [projecttitel] **in te dienen bij SenterNovem en de verdere correspondentie hierover te voeren.**
 
 **Aldus naar waarheid ingevuld:**
+
+### Bedrijf/organisatie
 
 ### ContactpersoonC
 
 ### Machtiging aanvrager 2
 
-### ContactpersoonC
-
-### Machtiging aanvrager 4
-
-**Hierbij verleent ondergetekende een machtiging aan** [naam penvoerder] **om het project** [projecttitel] **in te dienen bij SenterNovem en de verdere correspondentie hierover te voeren.**
-
-**Aldus naar waarheid ingevuld:**
-
-### ContactpersoonC
-
-### Machtiging aanvrager 3
-
-### ContactpersoonC
-
-### Machtiging aanvrager 5
-
-**Hierbij verleent ondergetekende een machtiging aan** [naam penvoerder] **om het project** [projecttitel] **in te dienen bij SenterNovem en de verdere correspondentie hierover te voeren.**
-
-**Aldus naar waarheid ingevuld:**
-
-### ContactpersoonC
-
-### Machtiging aanvrager 4
-
-### ContactpersoonC
-
-### Machtiging aanvrager 6
-
-**Hierbij verleent ondergetekende een machtiging aan** [naam penvoerder] **om het project** [projecttitel] **in te dienen bij SenterNovem en de verdere correspondentie hierover te voeren.**
-
-**Aldus naar waarheid ingevuld:**
-
-### ContactpersoonC
-
-### Machtiging aanvrager 5
-
-### ContactpersoonC
-
 ### Machtiging aanvrager 7
 
-**Hierbij verleent ondergetekende een machtiging aan** [naam penvoerder] **om het project** [projecttitel] **in te dienen bij SenterNovem en de verdere correspondentie hierover te voeren.**
+**Aldus naar waarheid ingevuld:**
 
 **Aldus naar waarheid ingevuld:**
 
@@ -4231,7 +4233,65 @@ U dient er rekening mee te houden dat de beslissingsprocedure doorgaans tussen a
 
 **Hierbij verleent ondergetekende een machtiging aan** [naam penvoerder] **om het project** [projecttitel] **in te dienen bij SenterNovem en de verdere correspondentie hierover te voeren.**
 
+**Hierbij verleent ondergetekende een machtiging aan** [naam penvoerder] **om het project** [projecttitel] **in te dienen bij SenterNovem en de verdere correspondentie hierover te voeren.**
+
+### Vraag 1.2
+
+Een scheepswerf is een bedrijf dat in Nederland zeeschepen ontwikkelt, ontwerpt, (ver)bouwt en uitrust.
+
+### Bedrijf/organisatie
+
+U dient over een vaste bouwlocatie te beschikken om als scheepswerf in de zin van deze Regeling te kunnen worden aangemerkt.
+
+### Machtiging aanvrager 5
+
+**Hierbij verleent ondergetekende een machtiging aan** [naam penvoerder] **om het project** [projecttitel] **in te dienen bij SenterNovem en de verdere correspondentie hierover te voeren.**
+
+### Vraag 1.7
+
+U dient er rekening mee te houden dat de beslissingsprocedure doorgaans tussen acht en dertien weken zal vergen, te rekenen vanaf het moment dat de ontvangst van de volledig ingevulde en gedocumenteerde aanvraag wordt bevestigd. Een aanvraag wordt eerst geacht volledig te zijn ingediend na ontvangst door de minister van een volledig ingevuld aanvraagformulier inclusief de daarin genoemde bijlagen.
+
+### Bedrijf/organisatie
+
+EVD, agentschap van het ministerie van Economische Zaken, unit internationale financiering (070) 778 8085
+
+### Machtiging aanvrager 6
+
+**Hierbij verleent ondergetekende een machtiging aan** [naam penvoerder] **om het project** [projecttitel] **in te dienen bij SenterNovem en de verdere correspondentie hierover te voeren.**
+
 **Aldus naar waarheid ingevuld:**
+
+### Gegevens aanvrager 7
+
+Bij sleepboten dient het vermogen in kW te worden vermeld.
+
+### ContactpersoonC
+
+Ook (ver)bouwcontracten tussen verschillende rechtspersonen binnen een Groep kunnen voor subsidie in het kader van deze Regeling in aanmerking komen.
+
+### Vraag 2.5
+
+**Aldus naar waarheid ingevuld:**
+
+Een groep is een economische eenheid, waarin organisatorisch zijn verbonden:
+
+hierbij staat:
+
+Subsidie wordt uitsluitend verleend voor de bouw van de volgende zichzelf voorstuwende schepen in de handelsvaart:
+
+Voor verbouw wordt uitsluitend subsidie verleend indien het een zeeschip in de handelsvaart van 1000bt of meer betreft, en voor zover de uitgevoerde werken een ingrijpende wijziging van het laadplan, de romp, het voorstuwingsmechanisme of de passagiersverblijven met zich brengen.
+
+Sleephopperzuigers A= 25 B= 0,73
+
+Aanvragen dienen plaats te vinden per individueel project.
+
+Door een duidelijke beantwoording van de vragen kan worden vermeden dat de behandeling van een aanvraag dient te worden opgeschort voor het vragen van nadere informatie.
+
+U dient er rekening mee te houden dat de beslissingsprocedure doorgaans tussen acht en dertien weken zal vergen, te rekenen vanaf het moment dat de ontvangst van de volledig ingevulde en gedocumenteerde aanvraag wordt bevestigd. Een aanvraag wordt eerst geacht volledig te zijn ingediend na ontvangst door de minister van een volledig ingevuld aanvraagformulier inclusief de daarin genoemde bijlagen.
+
+### Vraag 2.5
+
+EVD, agentschap van het ministerie van Economische Zaken, unit internationale financiering (070) 778 8085
 
 ### Vraag 1.2
 
@@ -4241,21 +4301,21 @@ Een scheepswerf is een bedrijf dat in Nederland zeeschepen ontwikkelt, ontwerpt,
 
 U dient over een vaste bouwlocatie te beschikken om als scheepswerf in de zin van deze Regeling te kunnen worden aangemerkt.
 
-### Algemeen
+### Vraag 1.5
 
-Aanvragen dienen plaats te vinden per individueel project.
+Het aantal werknemers dat gedurende het afgelopen boekjaar voltijds arbeid heeft verricht binnen uw onderneming (verrichte arbeid in deeltijd en seizoensarbeid meetellen naar evenredigheid).
 
-### Vraag 1.7
+Non Cargo Carrying Vessels A= 71 B= 0,61
 
-U dient er rekening mee te houden dat de beslissingsprocedure doorgaans tussen acht en dertien weken zal vergen, te rekenen vanaf het moment dat de ontvangst van de volledig ingevulde en gedocumenteerde aanvraag wordt bevestigd. Een aanvraag wordt eerst geacht volledig te zijn ingediend na ontvangst door de minister van een volledig ingevuld aanvraagformulier inclusief de daarin genoemde bijlagen.
+De SBI-code wordt door het Centraal Bureau voor de Statistiek (CBS) onder andere gebruikt om bedrijfseenheden te rubriceren naar hunhoofdactiviteit, de zogenaamde standaard bedrijfsindeling.
 
-### Vraag 1.8
+Hierbij dient een kostenopbouw van de contractprijs bijgevoegd te worden op basis van de gekozen variant.
 
-EVD, agentschap van het ministerie van Economische Zaken, unit internationale financiering (070) 778 8085
+### Vraag 4.4
 
-### Vraag 1.2
+Bij deze onderbouwingsvariant dient de toerekening van kosten aan de categorieën Eigen produktie (I), Nederlandse toeleveringen (II) en Buitenlandse toeleveringen (III) plaats te vinden op basis van de vestigingsplaats van de toeleverancier die factureert en waaraan betaling verschuldigd is.
 
-Een scheepswerf is een bedrijf dat in Nederland zeeschepen ontwikkelt, ontwerpt, (ver)bouwt en uitrust.
+### Vraag 4.5
 
 Voor verbouw wordt uitsluitend subsidie verleend indien het een zeeschip in de handelsvaart van 1000bt of meer betreft, en voor zover de uitgevoerde werken een ingrijpende wijziging van het laadplan, de romp, het voorstuwingsmechanisme of de passagiersverblijven met zich brengen.
 
@@ -4271,79 +4331,21 @@ Ook (ver)bouwcontracten tussen verschillende rechtspersonen binnen een Groep kun
 
 De afkorting cgt staat voor compensated gross tonnage en is een maat voor de complexiteit van een schip. Voor de meeste schepen volgt de cgt-waarde uit de volgende internationaal vastgestelde formule1De formule is vastgesteld door de OECD: www.oecd.org/dataoecd/59/49/37655301.pdf , met vaste factoren per scheepstype (zie onderstaande tabel).
 
-Een groep is een economische eenheid, waarin organisatorisch zijn verbonden:
+### Vraag 4.4
 
 hierbij staat:
 
-Subsidie wordt uitsluitend verleend voor de bouw van de volgende zichzelf voorstuwende schepen in de handelsvaart:
-
-Voor verbouw wordt uitsluitend subsidie verleend indien het een zeeschip in de handelsvaart van 1000bt of meer betreft, en voor zover de uitgevoerde werken een ingrijpende wijziging van het laadplan, de romp, het voorstuwingsmechanisme of de passagiersverblijven met zich brengen.
-
-Sleephopperzuigers A= 25 B= 0,73
-
-Bij sleepboten dient het vermogen in kW te worden vermeld.
-
-Non Cargo Carrying Vessels A= 71 B= 0,61
-
-Ook (ver)bouwcontracten tussen verschillende rechtspersonen binnen een Groep kunnen voor subsidie in het kader van deze Regeling in aanmerking komen.
-
-### Vraag 2.5
-
-De afkorting cgt staat voor compensated gross tonnage en is een maat voor de complexiteit van een schip. Voor de meeste schepen volgt de cgt-waarde uit de volgende internationaal vastgestelde formule1De formule is vastgesteld door de OECD: www.oecd.org/dataoecd/59/49/37655301.pdf , met vaste factoren per scheepstype (zie onderstaande tabel).
-
-### Vraag 4.1
-
-hierbij staat:
-
-### Vraag 4.2
+### Vraag 4.5
 
 Jachten: A= 75 B= 0,65
 
-### Vraag 4.3
+Sleephopperzuigers A= 25 B= 0,73
 
 Snijkopzuigers: A= 26 B= 0,75
 
 Non Cargo Carrying Vessels A= 71 B= 0,61
 
 Voorbeeld: een 'chemical tanker' (dus factor A=84 en factor B=0.55) van 3.950 gt geeft als uitkomst een cgt waarde van 7.987.
-
-Hierbij dient een kostenopbouw van de contractprijs bijgevoegd te worden op basis van de gekozen variant.
-
-### Vraag 4.4
-
-Bij deze onderbouwingsvariant dient de toerekening van kosten aan de categorieën Eigen produktie (I), Nederlandse toeleveringen (II) en Buitenlandse toeleveringen (III) plaats te vinden op basis van de vestigingsplaats van de toeleverancier die factureert en waaraan betaling verschuldigd is.
-
-### Vraag 4.5
-
-Bij deze onderbouwingsvariant dient de toerekening van kosten aan de categorieën Eigen produktie (I), Nederlandse toeleveringen (II) en Buitenlandse toeleveringen (III) plaats te vinden op basis van de mate waarin het toegeleverde product van Nederlandse origine is.
-
-### Vraag 5
-
-U dient de kerngegevens van het innovatieproject in het aanvraagformulier te vermelden. In een bijlage dient u deze zodanig uit te werken dat kan worden beoordeeld of sprake is van een technologische innovatie die in Europees perspectief als vernieuwend kan worden aangemerkt. Tevens dient te kunnen worden vastgesteld dat het innovatieproject het risico van technologische of industriële mislukking in zich draagt.
-
-### Vraag 5.4
-
-Indien alle bouwfases buiten Nederland plaatsvinden is in ieder geval **geen** sprake van bouwen in Nederland. De aanvraag komt dan niet in aanmerking voor subsidie.
-
-### Vraag 5.5
-
-Hierbij dient een kostenopbouw van de contractprijs bijgevoegd te worden op basis van de gekozen variant.
-
-### Vraag 4.4
-
-Bij deze onderbouwingsvariant dient de toerekening van kosten aan de categorieën Eigen produktie (I), Nederlandse toeleveringen (II) en Buitenlandse toeleveringen (III) plaats te vinden op basis van de vestigingsplaats van de toeleverancier die factureert en waaraan betaling verschuldigd is.
-
-### Vraag 4.5
-
-Bij deze onderbouwingsvariant dient de toerekening van kosten aan de categorieën Eigen produktie (I), Nederlandse toeleveringen (II) en Buitenlandse toeleveringen (III) plaats te vinden op basis van de mate waarin het toegeleverde product van Nederlandse origine is.
-
-Per type innovatieproject zijn diverse in het model kostenverantwoording aangegeven activiteiten, subsidiabel.
-
-U dient de kerngegevens van het innovatieproject in het aanvraagformulier te vermelden. In een bijlage dient u deze zodanig uit te werken dat kan worden beoordeeld of sprake is van een technologische innovatie die in Europees perspectief als vernieuwend kan worden aangemerkt. Tevens dient te kunnen worden vastgesteld dat het innovatieproject het risico van technologische of industriële mislukking in zich draagt.
-
-U dient de begrote kosten voor de levering van goederen en diensten door derden onder de posten materiaal; uitbesteed werk; externe dienstverlening; gebruiksklare toeleveringen en overig, naar afzonderlijke kostenposten uit te splitsen in een bijlage. Posten kleiner dan EUR 25.000 hoeven niet nader gespecificeerd te worden en kunnen per kostensoort in een verzamelpost worden opgenomen.
-
-Het gaat hier om de namen van betrokken partijen, hun aandeel in het project en een omschrijving van de activiteit.
 
 De subsidie bedraagt maximaal 20 procent van de voor subsidie in aanmerking komende kosten.
 
@@ -4353,17 +4355,17 @@ Het gaat hierbij onder meer om de in [artikel 10e.7](https://wetten.overheid.nl/
 
 ## Bijlage 11.5
 
-### Vraag 6
+### Vraag 4.2
 
 ### Algemeen
 
 Per type innovatieproject zijn diverse in het model kostenverantwoording aangegeven activiteiten, subsidiabel.
 
-Per subsidiabele activiteit dient u de gemaakte en betaalde kosten naar de onderscheiden categorieën uit te splitsen. Het kan daarbij zowel gaan om de kosten van de werf (manuren) als om de kosten voor de levering van goederen en diensten door derden (voor zover deze rechtstreeks en uitsluitend verband houden met het innovatieproject).
+Geef per bouwfase een omschrijving daarvan, de locatie waar deze fase wordt uitgevoerd (plaats, evt. land) en het percentage van de bouwkosten dat daarop betrekking heeft. In geval van uitbesteding van werk dient tevens de onderaannemer te worden vermeld.
 
-U dient de begrote kosten voor de levering van goederen en diensten door derden onder de posten materiaal; uitbesteed werk; externe dienstverlening; gebruiksklare toeleveringen en overig, naar afzonderlijke kostenposten uit te splitsen in een bijlage. Posten kleiner dan EUR 25.000 hoeven niet nader gespecificeerd te worden en kunnen per kostensoort in een verzamelpost worden opgenomen.
+Indien alle bouwfases buiten Nederland plaatsvinden is in ieder geval **geen** sprake van bouwen in Nederland. De aanvraag komt dan niet in aanmerking voor subsidie.
 
-Kosten zijn slechts subsidiabel voor zover deze plaatsvinden na de datum waarop de subsidie is aangevraagd (eventueel uitgezonderd de kosten voor haalbaarheidsonderzoeken die binnen twaalf maanden voor de aanvraag zijn uitgevoerd).
+Indien niet alle bouwfases in Nederland plaatsvinden, dient u op een andere wijze aan te tonen dat het schip in Nederland zal worden gebouwd/verbouwd. De wijze waarop u dat doet staat u vrij. Een tweetal in ieder geval aanvaardbare onderbouwingsvarianten zijn onder 4.4 en 4.5 geïndiceerd.
 
 ### Vraag 3.3
 
@@ -4373,19 +4375,19 @@ Bij sleepboten dient het vermogen in kW te worden vermeld.
 
 De afkorting cgt staat voor compensated gross tonnage en is een maat voor de complexiteit van een schip. Voor de meeste schepen volgt de cgt-waarde uit de volgende internationaal vastgestelde formule2De formule is vastgesteld door de OECD: www.oecd.org/dataoecd/59/49/37655301.pdf , met vaste factoren per scheepstype (zie tabel).
 
-**cgt = A * gtB**
+Bij deze onderbouwingsvariant dient de toerekening van kosten aan de categorieën Eigen produktie (I), Nederlandse toeleveringen (II) en Buitenlandse toeleveringen (III) plaats te vinden op basis van de mate waarin het toegeleverde product van Nederlandse origine is.
 
 hierbij staat:
 
-U dient er rekening mee te houden dat de beslistermijn op uw verzoek tot vaststelling van de subsidie 13 weken kan vergen, te rekenen vanaf ontvangst door de minister van een volledig ingevuld vaststellingsformulier inclusief de daarin genoemde bijlagen.
+U dient de kerngegevens van het innovatieproject in het aanvraagformulier te vermelden. In een bijlage dient u deze zodanig uit te werken dat kan worden beoordeeld of sprake is van een technologische innovatie die in Europees perspectief als vernieuwend kan worden aangemerkt. Tevens dient te kunnen worden vastgesteld dat het innovatieproject het risico van technologische of industriële mislukking in zich draagt.
 
 Door een duidelijke beantwoording van de vragen kan worden vermeden dat de behandeling van een aanvraag dient te worden opgeschort voor het vragen van nadere informatie.
 
-Als u vragen heeft, kunt u zich wenden tot:
+Het gaat hier om de namen van betrokken partijen, hun aandeel in het project en een omschrijving van de activiteit.
 
 EVD, agentschap van het ministerie van Economische Zaken, unit internationale financiering (070) 778 8085
 
-Non Cargo Carrying Vessels A= 71 B= 0,61
+U dient hier te beschrijven wat de thans gangbare toepassingspraktijk is bij het te vernieuwen product of proces.
 
 Bij sleepboten dient het vermogen in kW te worden vermeld.
 
@@ -4395,13 +4397,13 @@ De afkorting cgt staat voor compensated gross tonnage en is een maat voor de com
 
 ### Vraag 5.3
 
-hierbij staat:
+Per type innovatieproject zijn diverse in het model kostenverantwoording aangegeven activiteiten, subsidiabel.
 
-Aanvullend op deze OESE-factoren zijn voor onderstaande scheepstypen specifieke cgt-factoren bepaald:
+Per subsidiabele activiteit dient u de gemaakte en betaalde kosten naar de onderscheiden categorieën uit te splitsen. Het kan daarbij zowel gaan om de kosten van de werf (manuren) als om de kosten voor de levering van goederen en diensten door derden (voor zover deze rechtstreeks en uitsluitend verband houden met het innovatieproject).
 
-Jachten: A= 75 B= 0,65
+U dient de begrote kosten voor de levering van goederen en diensten door derden onder de posten materiaal; uitbesteed werk; externe dienstverlening; gebruiksklare toeleveringen en overig, naar afzonderlijke kostenposten uit te splitsen in een bijlage. Posten kleiner dan EUR 25.000 hoeven niet nader gespecificeerd te worden en kunnen per kostensoort in een verzamelpost worden opgenomen.
 
-Sleephopperzuigers A= 25 B= 0,73
+Kosten zijn slechts subsidiabel voor zover deze plaatsvinden na de datum waarop de subsidie is aangevraagd (eventueel uitgezonderd de kosten voor haalbaarheidsonderzoeken die binnen twaalf maanden voor de aanvraag zijn uitgevoerd).
 
 ### Vraag 5.4
 
@@ -4411,39 +4413,39 @@ Non Cargo Carrying Vessels A= 71 B= 0,61
 
 Bij deze onderbouwingsvariant dient de toerekening van kosten aan de categorieën Eigen productie (I), Nederlandse toeleveringen (II) en Buitenlandse toeleveringen (III) plaats te vinden op basis van de mate waarin het toegeleverde product van Nederlandse origine is.
 
-### Vraag 6.1
+### Toelichting bij de vragen
 
 U dient in het kort verslag uit te brengen over het al dan niet bereikt hebben van de doelstelling(en) van het innovatieproject.
 
 ### Vraag 6.2 en 6.3
 
-Indien alle bouwfases buiten Nederland plaatsvinden is in ieder geval geen sprake van bouwen in Nederland. De aanvraag komt dan niet in aanmerking voor subsidie.
+Door een duidelijke beantwoording van de vragen kan worden vermeden dat de behandeling van een aanvraag dient te worden opgeschort voor het vragen van nadere informatie.
 
 ### Vraag 7
 
-Hierbij dient een kostenopbouw van de contractprijs bijgevoegd te worden op basis van de gekozen variant.
+EVD, agentschap van het ministerie van Economische Zaken, unit internationale financiering (070) 778 8085
 
 U dient de verantwoorde kosten onder materiaal; uitbesteed werk; externe dienstverlening; gebruiksklare toeleveringen; alsmede onder de post overige uit te splitsen in een bijlage.
 
-Bij deze onderbouwingsvariant dient de toerekening van kosten aan de categorieën Eigen productie (I), Nederlandse toeleveringen (II) en Buitenlandse toeleveringen (III) plaats te vinden op basis van de vestigingsplaats van de toeleverancier die factureert en waaraan betaling verschuldigd is.
+Bij sleepboten dient het vermogen in kW te worden vermeld.
 
-### Vraag 5.5
+### Vraag 3.7
 
-Bij deze onderbouwingsvariant dient de toerekening van kosten aan de categorieën Eigen productie (I), Nederlandse toeleveringen (II) en Buitenlandse toeleveringen (III) plaats te vinden op basis van de mate waarin het toegeleverde product van Nederlandse origine is.
+De afkorting cgt staat voor compensated gross tonnage en is een maat voor de complexiteit van een schip. Voor de meeste schepen volgt de cgt-waarde uit de volgende internationaal vastgestelde formule2De formule is vastgesteld door de OECD: www.oecd.org/dataoecd/59/49/37655301.pdf , met vaste factoren per scheepstype (zie tabel).
 
 ### Vraag 6.1
 
-U dient in het kort verslag uit te brengen over het al dan niet bereikt hebben van de doelstelling(en) van het innovatieproject.
+hierbij staat:
 
 ### Vraag 6.2 en 6.3
 
-U dient de resultaten van het innovatieproject zowel vanuit innovatief (6.2) als budgettair (6.3) perspectief te relateren aan de geplande uitkomsten van het project.
+Jachten: A= 75 B= 0,65
 
 ### Vraag 7
 
-De subsidie is beperkt tot de kosten voor investeringen, ontwerp, technische en testactiviteiten (inclusief de kosten voor de levering van goederen en diensten door derden), die rechtstreeks en uitsluitend voortvloeien uit het innovatieproject en die hebben plaatsgevonden na de datum waarop de subsidie is aangevraagd (eventueel uitgezonderd de kosten voor haalbaarheidsonderzoeken die binnen twaalf maanden voor de aanvraag zijn uitgevoerd.
+Snijkopzuigers: A= 26 B= 0,75
 
-U dient de verantwoorde kosten onder materiaal; uitbesteed werk; externe dienstverlening; gebruiksklare toeleveringen; alsmede onder de post overige uit te splitsen in een bijlage.
+Non Cargo Carrying Vessels A= 71 B= 0,61
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=1.1&z=2010-01-01&g=2010-01-01), [11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.1&z=2010-01-01&g=2010-01-01), [11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.2&z=2010-01-01&g=2010-01-01) en [11.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.3&z=2010-01-01&g=2010-01-01), die ter inzage worden gelegd bij SenterNovem, Juliana van Stolberglaan 3, Den Haag.
 
@@ -4453,7 +4455,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - –. **strategisch onderzoeksprogramma vliegtuigontwikkeling:** het bevorderen van wetenschappelijke activiteiten op het gebied van vliegtuigbouw en vliegtuigontwikkeling;
 
-- –. **strategisch vliegtuigontwikkelingsproject:** onderzoek dat is toegespitst op het tot stand brengen en verder uitwerken van nieuwe technologische kennis op de terreinen als bedoeld in [artikel 10g.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10g&artikel=10g.2&z=2010-03-11&g=2010-03-11).
+- –. **strategisch vliegtuigontwikkelingsproject:** onderzoek dat is toegespitst op het tot stand brengen en verder uitwerken van nieuwe technologische kennis op de terreinen als bedoeld in [artikel 10g.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10g&artikel=10g.2&z=2010-04-15&g=2010-04-15).
 
 ##### Artikel 10g.2
 
@@ -4556,7 +4558,7 @@ De minister rangschikt de aanvragen waarop niet afwijzend is beslist op volgorde
 
 5. De minister kan aan een ontheffing als bedoeld in het eerste, derde of vierde lid voorschriften verbinden.
 
-### Hoofdstuk 11. Formulieren
+### Hoofdstuk 10h. Service innovaion & ICT
 
 ### Hoofdstuk 12. Slotbepalingen
 
@@ -4631,13 +4633,13 @@ Het rapport van feitelijke bevindingen wordt opgesteld overeenkomstig de Nadere 
 
 ### Uitdagingen
 
-### Doelstelling
+### Achtergrond
 
 ### 2. Doelstelling Maritiem Innovatie Programma
 
 ### 3. Focus Maritiem Innovatie Programma
 
-### 1. LNG supply chain
+### Instrumenten ter bevordering van innovatie
 
 ### B. Samenwerking;
 
@@ -4647,23 +4649,23 @@ Toelichting: dit deelprogramma richt zich op het intensiveren van de samenwerkin
 
 Toelichting: dit deelprogramma richt zich op het versterken van de opleidingen, het onderwijs en de kennisbasis. Er is in de gehele maritieme cluster nu al een groot gebrek aan voldoende gekwalificeerd personeel;
 
-Toelichting: dit deelprogramma is gericht op het slechten van belemmeringen voor innovatie in wet- en regelgeving en het bevorderen van innovatieve pilotprojecten waarmee een nieuwe werkwijze kan worden getoetst.
+Deze subsidieregeling richt zich alleen op de eerste 3 speerpunten. Voor het vierde speerpunt, Procesinnovatie, worden separate initiatieven ontwikkeld.
 
 ## Bijlage 9.1
 
 Het doel van Point One is het creëren van een toonaangevend ecosysteem, leidend op wereldniveau, met betrekking tot nano-electronica, mechatronica en embedded systemen in Nederland, vergelijkbaar met dat van Sillicon Valley en complementair aan de grote clusters in Crolles, Dresden en Parijs.
 
-Kern van het Point One initiatief is het opbouwen van een hecht en dynamisch netwerk van grote en kleine bedrijven en publiek gefinancierde onderzoeksorganisaties (hierna: Point One ecosysteem).
+Gelet op het derde speerpunt van de cluster zullen de research- en samenwerkingsactiviteiten onder de deelprogramma’s A en B voor de maritieme maakindustrie bijdragen aan:
 
-Doel van het Annual Plan van Point One is het verstrekken van een integrale richtlijn voor onderzoek- en ontwikkelingsactiviteiten die gezamenlijk worden ondernomen door grote bedrijven, MKB’s, overheid, universiteiten en andere publiek gefinancierde onderzoeksorganisaties.
+De werking van het programma wordt gemonitored door de maritieme cluster en door Economische Zaken. De monitoring door de maritieme cluster is vooral gericht op het bereiken van de resultaten van het innovatieprogramma en de monitoring door Economische Zaken op de verantwoording van de financiële betrokkenheid van het departement.
 
-Deze regeling heeft met name betrekking op de lijn voor onderzoek en ontwikkeling en vindt zijn uitwerking in het Point One programma. De lijn voor onderzoek en onwikkeling drie onderdelen:
+[Hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&z=2010-04-15&g=2010-04-15) van de regeling sterktes in innovatie vormt een onderdeel van een breder programma ter versterking van de innovatie en de economische positie op het gebied van nano-elektronica, mechatronica en embedded systems, bekend onder de naam Point One. Het is een vervolg op de Point One Boegbeeld regelingen in de jaren 2006 t/m 2008
 
-Het doel is het verhogen van het aantal R&D-projecten in het MKB als wel het versterken van het innovatief MKB op het gebied van R&D. Middels een haalbaarheidsproject kan een MKB-ondernemer inzicht krijgen in de technologische en economische haalbaarheid van een idee of concept. Bij voldoende positieve uitkomsten kan het MKB-project daarmee mogelijk een vervolg krijgen in een R&D-project en de daarvoor benodigde optimale samenstelling van het samenwerkingsverband. Het project moet een eerste aanzet zijn tot een R&D-project zoals bedoeld in deze regeling met een duidelijke bijdrage aan de doelstellingen van Point One. Het resultaat van het haalbaarheidproject moet de definitieve start van het toekomstige R&D-project bepalen. Haalbaarheidsprojecten betreffen bureau-onderzoek en verkennend onderzoek. De doelgroep is het MKB in een samenwerkingsverband met het MKB, grote bedrijven of publiek gefinancierde onderzoeksorganisaties. De subsidie aanvrager moet een MKB-ondernemer zijn en alleen MKB-ondernemers komen in aanmerking voor subsidie.
+Het doel van Point One is het creëren van een toonaangevend ecosysteem, leidend op wereldniveau, met betrekking tot nano-electronica, mechatronica en embedded systemen in Nederland, vergelijkbaar met dat van Sillicon Valley en complementair aan de grote clusters in Crolles, Dresden en Parijs.
 
 ### b. R&D-projecten
 
-In 2007 en 2008 is onder de Point One boegbeeldregeling een start gemaakt met het subsidiëren van internationale R&D-projecten binnen het ITEA2, MEDEA+ en Catrene kader. In deze projecten wordt niet alleen technologische excellentie nagestreefd, maar ook wordt aangestuurd op de versterking van het Point One ecosysteem en de introductie van innovatieve MKBs in internationale netwerken. Deze lijn wordt voortgezet. Streefwaarde is dat minimaal 35% van het project en call budget wordt uitgevoerd door zij die een MKB onderneming in stand houden als bedoeld in aanbeveling 2003/361 EG of ondernemingen, niet zijnde MKB die een jaarlijkse omzet hebben van minder dan vijfhonderd miljoen Euro.
+Voor verdere versterking van het Point One ecosysteem zijn in het Annual Plan ook actielijnen gedefinieerd voor MKB, Human Capital en Universiteit-Industrie interactie.
 
 ### 2. Doel en focus
 
@@ -4671,17 +4673,31 @@ Dit trapsgewijze fundingssysteem leidt er toe dat excellente internationale R&D-
 
 ## Bijlage 10.1
 
-De Subsidieregeling Polymeren-module van de Experimentele kaderregeling subsidies innovatieprojecten maakt onderdeel uit van het Polymeren Innovatie Programma.
+Het doel is versterking van de kennisopbouw voor de middellange en lange termijn op het gebied van nano-elektronica, mechatronica en embedded systemen, als ook het bouwen aan een gestructureerd strategisch partnerschap tussen publiek gefinancierde onderzoeksorganisaties en ondernemers in het Point-One domein. Projecten zullen bijdragen aan de implementatie van de Point-One meerjarenroadmap, en in het bijzonder de ‘Emerging Technology Agenda’. Projecten bestaan uit fundamenteel en/of industrieel onderzoek waarvoor een promovendus of postdoc wordt aangesteld. Deze projecten resulteren in proefschriften, wetenschappelijke publicaties, conferentiepresentaties en kennisopbouw voor de middellange tot lange termijn. De nadruk ligt dus op kennisopbouw waarbij de projecten een hoog risicogehalte hebben; echter wel vanuit een industriële vraagstelling. De ondernemer of de ondernemers in het samenwerkingsverband draagt of dragen daarvoor met tenminste 75% bij aan de projectkosten.
 
 Het Polymeren Innovatie Programma bestaat voor een groot deel uit precompetitieve research, uitgevoerd binnen het DPI. Daarnaast is een DPI-Value Center (DPI-VC) opgericht dat zich richt op het ondersteunen van voornamelijk MKB en starters door de samenwerking te bevorderen, bedrijven met elkaar en met onderzoeksorganisaties in contact te brengen, versterken business development op diverse onderdelen. Hierdoor ontstaat nieuwe business met een hoge toegevoegde waarde of wordt de bedrijvigheid uitgebreid. De time to market en time to profit van veelbelovende innovatieprojecten wordt bekort. De slaagkans van innovatieprojecten wordt verhoogd. Tevens kan het DPI-VC best practices voor succesvolle aanpak van innovatieprojecten met een hoog risico opstellen.
 
-Om de doelstellingen van het Polymeren Innovatie Programma te ondersteunen is de Subsidieregeling Polymeren-module van de Experimentele kaderregeling subsidies innovatieprojecten ingesteld. Deze subsidieregeling is gericht op innovatieve projecten in de polymerensector, het polymer value system. Het polymer value system bestaat uit een verscheidenheid aan spelers die op verschillende gebieden actief zijn. Binnen het systeem kunnen drie waardeketens onderscheiden worden:
+Dit trapsgewijze fundingssysteem leidt er toe dat excellente internationale R&D-projecten die goed passen binnen het Point One programma, niet kunnen starten zolang en doordat de overheid op nationaal niveau nog geen Point One tender heeft uitgeschreven.
 
 ### § 3. Duurzaamheidsdoelstellingen
 
 ### Bijlage behorende bij de [artikelen 10a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10a&paragraaf=2&artikel=10a.2&z=2010-03-11&g=2010-03-11) en [10a.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10a&paragraaf=2&artikel=10a.9&z=2010-03-11&g=2010-03-11)
 
 ## Bijlage 10b.1. Behorende bij [artikel 10b.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10b&artikel=10b.1&z=2010-03-11&g=2010-03-11)
+
+Het Polymeren Innovatie Programma bestaat voor een groot deel uit precompetitieve research, uitgevoerd binnen het DPI. Daarnaast is een DPI-Value Center (DPI-VC) opgericht dat zich richt op het ondersteunen van voornamelijk MKB en starters door de samenwerking te bevorderen, bedrijven met elkaar en met onderzoeksorganisaties in contact te brengen, versterken business development op diverse onderdelen. Hierdoor ontstaat nieuwe business met een hoge toegevoegde waarde of wordt de bedrijvigheid uitgebreid. De time to market en time to profit van veelbelovende innovatieprojecten wordt bekort. De slaagkans van innovatieprojecten wordt verhoogd. Tevens kan het DPI-VC best practices voor succesvolle aanpak van innovatieprojecten met een hoog risico opstellen.
+
+### § 2. Waardeketens
+
+Om de doelstellingen van het Polymeren Innovatie Programma te ondersteunen is de Subsidieregeling Polymeren-module van de Experimentele kaderregeling subsidies innovatieprojecten ingesteld. Deze subsidieregeling is gericht op innovatieve projecten in de polymerensector, het polymer value system. Het polymer value system bestaat uit een verscheidenheid aan spelers die op verschillende gebieden actief zijn. Binnen het systeem kunnen drie waardeketens onderscheiden worden:
+
+Food & Nutrition Delta (bijlage 5.2 Subsidieregeling sterktes in innovatie)
+
+Deze thema’s zijn:
+
+Point One ([bijlage 9.1 Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=9.1&z=2010-03-11&g=2010-03-11))
+
+### Maatschappelijke Innovatie Agenda’s (MIA’s)
 
 De onderzoeks- en detacheringsprojecten moeten passen binnen thema’s van maatschappelijk belang (maatschappelijke thema’s) die de Nederlandse kennispositie versterken. Er dient een bijdrage te worden geleverd aan de voor Nederland relevante maatschappelijke innovatiethema’s zoals die worden uitgevoerd in de 9 innovatieprogramma’s voor de sleutelgebieden, de 6 maatschappelijke innovatie agenda’s als onderdeel van Nederland Ondernemend Innovatieland, de 12 thema’s in de vraagprogrammering TNO-GTI’s of de 13 thema’s uit de NWO strategie.
 
@@ -4691,87 +4707,73 @@ Bedrijven, kennisinstellingen en overheid hebben op kansrijke gebieden innovatie
 
 Food & Nutrition Delta (bijlage 5.2 Subsidieregeling sterktes in innovatie)
 
-Watertechnologie ([bijlage 7.1 Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=7.1&z=2010-03-11&g=2010-03-11))
+Watertechnologie ([bijlage 7.1 Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=7.1&z=2010-04-15&g=2010-04-15))
 
-Point One ([bijlage 9.1 Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=9.1&z=2010-03-11&g=2010-03-11))
+Point One ([bijlage 9.1 Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=9.1&z=2010-04-15&g=2010-04-15))
+
+## Bijlage 11.1
 
 ### Maatschappelijke Innovatie Agenda’s (MIA’s)
 
 Indien onderzoeks- en detacheringsprojecten zich richten op MIA’s, moeten ze passen binnen die MIA’s zoals omschreven in Kamerstukken TK 2007/08, 27046, nr. 120, bijlage (gezondheid, water en veiligheid) en Kamerstukken TK 2007/08, 31530, nr. 1, bijlage (energie), dan wel in onderstaande thema’s Duurzame agro- en visserijketens en Onderwijs (zie ook www.nederlandondernemendinnovatieland.nl).
 
-### Maatschappelijke Innovatie Agenda Duurzame Agro- en Visserijketens
-
-Deze agenda richt zich op onderzoek en ontwikkeling van kennis en innovaties binnen de volgende zeven thema’s:
-
-Deze agenda richt zich op het versterken van de innovatiekracht van het onderwijsveld en het creëren van de juiste randvoorwaarden. Thema’s die centraal staan, zijn o.a. het ondervangen van het leraren tekort d.m.v. innovatieve oplossingen en het bieden van ruimte voor experimenten.
-
-Op aanbeveling van de Ad hoc commissie Wijffels heeft de overheid in 2004 gekozen voor het invoeren van vraagprogrammering en vraagfinanciering van het toepassingsgerichte onderzoek door TNO en de GTI’s (ECN, NLR, MARIN, Deltares en WUR/DLO). Kern van de vraagprogrammering is dat de maatschappelijke kennisvraag van overheid, maatschappelijke organisaties en bedrijfsleven centraal staat bij de onderzoeksprogrammering van de instituten. In 2005 heeft het kabinet (Voortgangsrapportage 2005 Implementatie Kabinetstandpunt Brugfunctie TNO en GTI’s, 11 november 2005, TK 29338, nr. 41) het proces van vraagprogrammering en de thema’s aangegeven. In de Voortgangsrapportage 2006 (11 december 2006, 29338, nr. 56, tabel 2) zijn de thema’s verder uitgewerkt. Het gaat om de volgende twaalf thema’s:
-
-Indien onderzoeks- en detacheringsprojecten zich richten op NWO-strategiethema’s, moeten ze passen binnen de thema’s zoals omschreven in de door NWO vastgestelde strategie 2007–2010 (Wetenschap gewaardeerd, NWO-strategie 2007–2010, mei 2006). Het gaat om de volgende dertien thema’s:
-
-## Bijlage 11.1
-
-### Aanvraagformulier Subsidieregeling sterktes in innovatie
-
-**Projectaanvraag heeft betrekking op hoofdstuk 7: InnoWATOR**
-
 ### 3. Project
 
-### 4. Ondertekening
+### NWO-strategiethema’s
 
-**Ondergetekende verklaart dat alle voor de aanvraag benodigde stukken zijn bijgevoegd en dat hij/zij bekend is met de voorwaarden en procedures van de Subsidieregeling sterktes in innovatie.**
+Indien onderzoeks- en detacheringsprojecten zich richten op NWO-strategiethema’s, moeten ze passen binnen de thema’s zoals omschreven in de door NWO vastgestelde strategie 2007–2010 (Wetenschap gewaardeerd, NWO-strategie 2007–2010, mei 2006). Het gaat om de volgende dertien thema’s:
 
 **Aldus naar waarheid ingevuld:**
 
 ### Gegevens aanvrager 2
 
+### Focusgebieden
+
+**Hierbij verleent ondergetekende een machtiging aan** [naam penvoerder] **om het project** [projecttitel] **in te dienen bij SenterNovem en de verdere correspondentie hierover te voeren.**
+
+**Aldus naar waarheid ingevuld:**
+
+### Aanvraagformulier Subsidieregeling sterktes in innovatie
+
 ### Bedrijf/organisatie
 
 **Hierbij verleent ondergetekende een machtiging aan** [naam penvoerder] **om het project** [projecttitel] **in te dienen bij SenterNovem en de verdere correspondentie hierover te voeren.**
 
 **Aldus naar waarheid ingevuld:**
+
+### 2. Overige aanvragers6
+
+### 3. Project
+
+**Aldus naar waarheid ingevuld:**
+
+**Aldus naar waarheid ingevuld:**
+
+### Optionele bijlage
+
+### Gegevens aanvrager 2
+
+**Hierbij verleent ondergetekende een machtiging aan** [naam penvoerder] **om het project** [projecttitel] **in te dienen bij SenterNovem en de verdere correspondentie hierover te voeren.**
+
+**Hierbij verleent ondergetekende een machtiging aan** [naam penvoerder] **om het project** [projecttitel] **in te dienen bij SenterNovem en de verdere correspondentie hierover te voeren.**
+
+### Gegevens aanvrager 6
 
 ### Gegevens aanvrager 3
 
 ### Bedrijf/organisatie
 
+### ContactpersoonC
+
 **Hierbij verleent ondergetekende een machtiging aan** [naam penvoerder] **om het project** [projecttitel] **in te dienen bij SenterNovem en de verdere correspondentie hierover te voeren.**
 
-**Aldus naar waarheid ingevuld:**
+**Hierbij verleent ondergetekende een machtiging aan** [naam penvoerder] **om het project** [projecttitel] **in te dienen bij SenterNovem en de verdere correspondentie hierover te voeren.**
 
 ### Gegevens aanvrager 4
 
 ### Bedrijf/organisatie
 
-**Hierbij verleent ondergetekende een machtiging aan** [naam penvoerder] **om het project** [projecttitel] **in te dienen bij SenterNovem en de verdere correspondentie hierover te voeren.**
-
-**Aldus naar waarheid ingevuld:**
-
-### Gegevens aanvrager 5
-
-### Bedrijf/organisatie
-
-**Hierbij verleent ondergetekende een machtiging aan** [naam penvoerder] **om het project** [projecttitel] **in te dienen bij SenterNovem en de verdere correspondentie hierover te voeren.**
-
-**Aldus naar waarheid ingevuld:**
-
-### Gegevens aanvrager 6
-
-### Bedrijf/organisatie
-
 ### ContactpersoonC
-
-### Machtiging aanvrager 6
-
-**Hierbij verleent ondergetekende een machtiging aan** [naam penvoerder] **om het project** [projecttitel] **in te dienen bij SenterNovem en de verdere correspondentie hierover te voeren.**
-
-**Aldus naar waarheid ingevuld:**
-
-### Bedrijf/organisatie
-
-### ContactpersoonC
-
-### Machtiging aanvrager 7
 
 ## Bijlage 11.2
 
@@ -4783,9 +4785,9 @@ Ligt ter inzage bij SenterNovem te Den Haag.
 
 ## Bijlage 11.4
 
-### Toelichting bij de vragen
+### ContactpersoonC
 
-Door een duidelijke beantwoording van de vragen kan worden vermeden dat de behandeling van een aanvraag dient te worden opgeschort voor het vragen van nadere informatie.
+**Aldus naar waarheid ingevuld:**
 
 Als u vragen heeft, kunt u zich wenden tot:
 
@@ -4793,19 +4795,19 @@ Als u vragen heeft, kunt u zich wenden tot:
 
 U dient over een vaste bouwlocatie te beschikken om als scheepswerf in de zin van deze Regeling te kunnen worden aangemerkt.
 
-### Vraag 1.5
+### Bedrijf/organisatie
 
 Het aantal werknemers dat gedurende het afgelopen boekjaar voltijds arbeid heeft verricht binnen uw onderneming (verrichte arbeid in deeltijd en seizoensarbeid meetellen naar evenredigheid).
 
-### Vraag 1.7
+### Machtiging aanvrager 7
 
-De SBI-code wordt door het Centraal Bureau voor de Statistiek (CBS) onder andere gebruikt om bedrijfseenheden te rubriceren naar hunhoofdactiviteit, de zogenaamde standaard bedrijfsindeling.
+**Hierbij verleent ondergetekende een machtiging aan** [naam penvoerder] **om het project** [projecttitel] **in te dienen bij SenterNovem en de verdere correspondentie hierover te voeren.**
 
 ### Vraag 1.8
 
 ### Vraag 2.1 t/m 2.3
 
-### Vraag 2.3
+### Algemeen
 
 ### Vraag 2.4
 
@@ -4815,13 +4817,13 @@ Aanvullend op deze OESE-factoren zijn voor onderstaande scheepstypen specifieke 
 
 Sleephopperzuigers A= 25 B= 0,73
 
-### Vraag 3
+### Vraag 1.8
 
-Geen subsidie wordt verstrekt indien ten tijde van de aanvraag al een contract is afgesloten. Dit geldt ook indien dit contract opschortende of ontbindende voorwaarden bevat.
+Een groep is een economische eenheid, waarin organisatorisch zijn verbonden:
 
-### Vraag 4.1
+### Vraag 2.1 t/m 2.3
 
-Subsidie is uitsluitend beschikbaar voor het in Nederland (ver)bouwen van een schip. Dit betekent dat de scheepsnieuwbouwactiviteiten in principe in Nederland dienen plaats te vinden. Daarbij is echter wel oog voor het feit dat in sommige gevallen Nederlandse werven de (ver)bouw van delen van het schip, zoals het casco, in het buitenland uitbesteden.
+Subsidie wordt uitsluitend verleend voor de bouw van de volgende zichzelf voorstuwende schepen in de handelsvaart:
 
 ### Vraag 4.2
 
@@ -4837,33 +4839,47 @@ Indien niet alle bouwfases in Nederland plaatsvinden, dient u op een andere wijz
 
 ### Vraag 5.4
 
-### Vraag 5.5
+### Vraag 3
 
-U dient hier te beschrijven wat de thans gangbare toepassingspraktijk is bij het te vernieuwen product of proces.
+Geen subsidie wordt verstrekt indien ten tijde van de aanvraag al een contract is afgesloten. Dit geldt ook indien dit contract opschortende of ontbindende voorwaarden bevat.
 
-### Vraag 5.6
+### Vraag 4.1
 
-Waarom is de door u beoogde innovatieve stap in Europees perspectief als vernieuwend aan te merken?
+Subsidie is uitsluitend beschikbaar voor het in Nederland (ver)bouwen van een schip. Dit betekent dat de scheepsnieuwbouwactiviteiten in principe in Nederland dienen plaats te vinden. Daarbij is echter wel oog voor het feit dat in sommige gevallen Nederlandse werven de (ver)bouw van delen van het schip, zoals het casco, in het buitenland uitbesteden.
 
-Subsidiabel zijn drie verschillende type innovatieprojecten (A, B of C).
+Indien alle bouwfases in Nederland plaatsvinden is per definitie sprake van bouwen in Nederland.
 
-De subsidie bedraagt maximaal 20 procent van de voor subsidie in aanmerking komende kosten.
+Hierbij dient een kostenopbouw van de contractprijs bijgevoegd te worden op basis van de gekozen variant.
 
-### Vraag 7
+### Vraag 4.4
 
-Het gaat hierbij onder meer om de in [artikel 10e.7](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10e&artikel=10e.7&z=2010-03-11&g=2010-03-11) van de Subsidieregeling sterktes in innovatie genoemde aspecten, en een eventuele aanvraag voor faillissement c.q. surséance van betaling voor de aanvrager en eventuele andere vormen van aan het project verstrekte staatssteun.
+Bij deze onderbouwingsvariant dient de toerekening van kosten aan de categorieën Eigen produktie (I), Nederlandse toeleveringen (II) en Buitenlandse toeleveringen (III) plaats te vinden op basis van de vestigingsplaats van de toeleverancier die factureert en waaraan betaling verschuldigd is.
 
 ## Bijlage 11.5
 
 ### Toelichting bij de vragen
 
-### Algemeen
+### Vraag 5
 
 ### Vraag 3.3
 
-**cgt = A * gtB**
+Subsidiabel zijn drie verschillende type innovatieprojecten (A, B of C).
 
-Snijkopzuigers: A= 26 B= 0,75
+De subsidie bedraagt maximaal 20 procent van de voor subsidie in aanmerking komende kosten.
+
+Het gaat hierbij onder meer om de in [artikel 10e.7](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10e&artikel=10e.7&z=2010-04-15&g=2010-04-15) van de Subsidieregeling sterktes in innovatie genoemde aspecten, en een eventuele aanvraag voor faillissement c.q. surséance van betaling voor de aanvrager en eventuele andere vormen van aan het project verstrekte staatssteun.
+
+### Vraag 5
+
+Subsidie wordt alleen verleend als sprake is van een in Nederland gebouwd of verbouwd schip. Ook indien de bouw van delen van het schip, zoals het casco, in het buitenland heeft plaatsgevonden, kan in de zin van de regeling sprake zijn van (ver)bouwen in Nederland.
+
+### Algemeen
+
+U dient er rekening mee te houden dat de beslistermijn op uw verzoek tot vaststelling van de subsidie 13 weken kan vergen, te rekenen vanaf ontvangst door de minister van een volledig ingevuld vaststellingsformulier inclusief de daarin genoemde bijlagen.
+
+Als u vragen heeft, kunt u zich wenden tot:
+
+### Vraag 3.3
 
 Voorbeeld: een 'chemical tanker' (dus factor A=84 en factor B=0.55) van 3.950 gt geeft als uitkomst een cgt waarde van 7.987.
 
@@ -4875,9 +4891,298 @@ Subsidie wordt alleen verleend als sprake is van een in Nederland gebouwd of ver
 
 Geef per bouwfase een omschrijving daarvan, de locatie waar deze fase is uitgevoerd (plaats, eventueel land) en het percentage van de bouwkosten dat daarop betrekking heeft. In geval van uitbesteding van werk dient tevens de onderaannemer te worden vermeld.
 
+### Vraag 10
+
 Indien niet alle bouwfases in Nederland plaatsvinden, dient u op een andere wijze aan te tonen dat het schip in Nederland is gebouwd/verbouwd. De wijze waarop u dat doet staat u vrij. Een tweetal in ieder geval aanvaardbare onderbouwingsvarianten zijn onder 5.4 en 5.5 geïndiceerd.
 
+### Bijlage
+
+Als bijlage bij dit formulier is een controleprotocol te vinden op www.evd.nl/siz waarin aan de accountant, die is belast met de controle op deze aanvraag tot subsidievaststelling, aanwijzingen worden gegeven met betrekking tot de reikwijdte en de intensiteit van de te verrichten controle. In het protocol wordt ook het object van de controle nader aangegeven. Hierdoor wordt overigens niet beoogd een aanpak van de controle voor te schrijven: de onderzoeksaanpak is de verantwoordelijkheid van de accountant.
+
+Bij deze onderbouwingsvariant dient de toerekening van kosten aan de categorieën Eigen productie (I), Nederlandse toeleveringen (II) en Buitenlandse toeleveringen (III) plaats te vinden op basis van de vestigingsplaats van de toeleverancier die factureert en waaraan betaling verschuldigd is.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=1.1&z=2010-03-11&g=2010-03-11), [11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.1&z=2010-03-11&g=2010-03-11), [11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.2&z=2010-03-11&g=2010-03-11) en [11.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.3&z=2010-03-11&g=2010-03-11), die ter inzage worden gelegd bij SenterNovem, Juliana van Stolberglaan 3, Den Haag.
+
+##### Artikel 10h.1
+
+In dit hoofdstuk wordt verstaan onder:
+
+##### Artikel 10h.2
+
+1. De minister verstrekt op aanvraag subsidie aan een deelnemer in een SII innovatiesamenwerkingsverband dat een SII innovatieproject uitvoert.
+
+2. Subsidie kan ook worden verstrekt aan een niet in Nederland gevestigde deelnemer in een SII innovatiesamenwerkingsverband.
+
+##### Artikel 10h.3
+
+De penvoerder is een ondernemer die deelneemt aan een SII innovatiesamenwerkingsverband.
+
+##### Artikel 10h.4
+
+1. In afwijking van de [Regeling steunintensiteit](https://wetten.overheid.nl/jci1.3:c:BWBR0026689) bedraagt de subsidie:
+
+- a. 50 procent van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;
+
+- b. 35 procent van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek en worden gemaakt door een ondernemer;
+
+- c. 25 procent van de subsidiabele kosten, voor zover deze betrekking hebben op experimentele ontwikkeling.
+
+2. De percentages, genoemd in het eerste lid, onderdelen b en c, worden verhoogd met 10 procentpunten indien subsidie wordt verstrekt aan een MKB-ondernemer.
+
+3. Indien het totale subsidiebedrag voor de deelnemers van een SII innovatiesamenwerkingsverband meer bedraagt dan € 1.000.000,–, wordt het meerdere naar rato in mindering gebracht op de aan de betrokken aanvragers te verstrekken subsidie.
+
+##### Artikel 10h.5
+
+De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aanvragen.
+
+##### Artikel 10h.6
+
+1. Er is een Adviescommissie SII die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en [artikel 10h.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10h&artikel=10h.8&z=2010-04-15&g=2010-04-15) en de rangschikkingscriteria, bedoeld in [artikel 10h.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10h&artikel=10h.9&z=2010-04-15&g=2010-04-15).
+
+2. De commissie bestaat uit ten minste drie en ten hoogste zeven leden.
+
+3. De voorzitter en de andere leden worden benoemd voor een termijn van ten hoogste vier jaar.
+
+##### Artikel 10h.7
+
+De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) is twee jaar.
+
+##### Artikel 10h.8
+
+De minister beslist afwijzend op een aanvraag indien:
+
+- a. hij de subsidiabele kosten raamt op minder dan € 400.000,–;
+
+- b. onvoldoende samenhang in het project aanwezig is, gelet op de verhouding tussen de voorgenomen kosten en de omvang van de activiteiten van het SII innovatieproject;
+
+- c. van het project onvoldoende positieve gevolgen voor de Nederlandse economie te verwachten zijn;
+
+- d. het project gericht is op ontwikkeling of toepassing ten aanzien van een computerspel.
+
+##### Artikel 10h.9
+
+1. De minister rangschikt aanvragen waarop niet afwijzend is beslist, hoger naarmate het SII innovatieproject meer bijdraagt aan:
+
+- a. de in [bijlage 10h.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=10h.1&z=2010-04-15&g=2010-04-15) opgenomen doelstellingen en focusgebieden;
+
+- b. de technologische vernieuwing of wezenlijk nieuwe toepassingen van een bestaande technologie;
+
+- c. het creëren van economische waarde voor de deelnemers in het samenwerkingsverband en de daarmee samenhangende positieve gevolgen voor de Nederlandse economie;
+
+- d. de kwaliteit van de samenwerking en een brede betrokkenheid van verschillende partijen bij het project, met name van MKB-ondernemers.
+
+2. Voor de rangschikking wegen de in het eerste lid genoemde criteria even zwaar.
+
+##### Artikel 10h.10
+
+1. De subsidie-ontvanger verleent medewerking aan een evaluatie van de effecten van het door hem uitgevoerde SII innovatieproject, voor zover deze medewerking redelijkerwijs van hem verlangd kan worden.
+
+2. De verplichting, bedoeld in het eerste lid, geldt gedurende vijf jaar na de datum van de beschikking tot subsidievaststelling.
+
+### Hoofdstuk 11. Formulieren
+
+### Hoofdstuk 12. Slotbepalingen
+
+## Bijlage 1.1
+
+Behorend bij [artikel 1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=1&artikel=1.2&z=2010-04-15&g=2010-04-15), van de Subsidieregeling sterktes in innovatie.
+
+Het rapport van feitelijke bevindingen wordt opgesteld overeenkomstig de Nadere voorschriften controle- en overige standaarden (ex artikel A-130.7 VGC) van het NIVRA. In het rapport van feitelijke bevindingen rapporteert de accountant over de hieronder genoemde aspecten en aandachtspunten van de integrale kostensystematiek.
+
+| 1. Beschrijving integrale kostensystematiek | 1. Beschrijving integrale kostensystematiek |
+| --- | --- |
+| **Opzet systematiek** | **Opzet systematiek** |
+| 1.1 | Welke kostendragers gebruikt de organisatie in de integrale kostensystematiek? |
+| 1.2 | Hoe worden de indirecte kosten toegerekend aan de kostendragers? |
+| 1.3 | Worden de jaarlijkse tarieven op basis van de integrale kostensystematiek voorcalculatorisch vastgesteld? **Als de subsidie-ontvanger jaarlijks vooraf de tarieven vaststelt, is aan het begin van het jaar duidelijk wat de tarieven van dat jaar zijn. Deze tarieven worden gehanteerd bij begroting en ook bij de vaststelling van projecten. Als de subsidie-ontvanger niet met voorcalculatorische tarieven werkt dan toelichten**. |
+| 1.4 | Hoe worden de uitgangscijfers bepaald die voor de jaarlijkse berekening van de tarieven gebruikt worden? |
+| 1.5 | Sinds wanneer wordt deze integrale kostensystematiek door de organisatie toegepast? |
+| 1.6 | Is er een wijziging van de integrale kostensystematiek gepland en zo ja wanneer? |
+| **Over personeelskosten** | **Over personeelskosten** |
+| 1.7 | Is het personeel ingedeeld in tariefgroepen? Zo ja, welke? |
+| 1.8 | Wat is het aantal direct productieve uren per voltijd werknemer? Is dit aantal gelijk voor alle personen? Zo nee, licht toe. |
+| 1.9 | Hoe wordt het aantal direct productieve uren per voltijd werknemer berekend? |
+| **Over machines en apparatuur** | **Over machines en apparatuur** |
+| 1.10 | Zijn de kosten voor machines en apparatuur onderdeel van de integrale kostensystematiek? Zo ja, geldt dat voor alle machines en apparatuur of zijn er ook machines en apparaten die in projecten als aparte post worden begroot? |
+
+| 2. Basisvoorwaarden integrale kostensystematiek | 2. Basisvoorwaarden integrale kostensystematiek |
+| --- | --- |
+| 2.1 | De toerekeningssystematiek en -principes (verdeelsleutels en -mechanismen van indirecte kosten; normen voor percentages, etc.) worden in de hele organisatie stelselmatig toegepast. |
+| 2.2 | Kosten worden op een bedrijfseconomische aanvaardbare en stelselmatige wijze aan kostendragers toegerekend. Deze toerekening is transparant en controleerbaar. |
+| 2.3 | Specifieke indirecte kosten van bepaalde activiteiten worden niet toegerekend aan andere activiteiten. **Bijvoorbeeld: specifieke indirecte kosten van onderwijsactiviteiten worden niet toegerekend aan onderzoeksactiviteiten en specifieke indirecte kosten van de marketingafdeling worden niet toegerekend aan R&D activiteiten.** |
+| 2.4 | Toerekenbare indirecte kosten worden evenredig omgeslagen over de activiteiten. |
+| 2.5 | Directe kosten worden niet nogmaals meegenomen in de indirecte kosten. |
+| 2.6 | In de systematiek zijn geen winstopslagen opgenomen. |
+| 2.7 | In de systematiek zijn geen toeslagen voor risico’s opgenomen. |
+
+| 3. Niet in de integrale kostensystematiek op te nemen kostencomponenten | 3. Niet in de integrale kostensystematiek op te nemen kostencomponenten |
+| --- | --- |
+| 3.1 | Kosten van algemene research of algemene kennisopbouw1. |
+| 3.2 | Kosten die al door de overheid of derden zijn of worden gefinancierd. **Bijvoorbeeld afschrijvingskosten van reeds gefinancierde gebouwen, installaties en apparatuur.** |
+| 3.3 | Kosten die het gevolg zijn van buitensporige of roekeloze uitgaven2. |
+| 3.4 | Kosten die door crediteuren in rekening worden gebracht bij te laat betalen. |
+| 3.5 | Kosten van incourante voorraden. |
+| 3.6 | Kosten van vaste activa als gevolg van leegstand. |
+| 3.7 | Kosten van externe subsidie-adviseurs voor zover deze specifiek betrokken zijn bij de aanvraag van individuele projecten. |
+| 3.8 | Voorzieningen voor mogelijke toekomstige verliezen en schulden (**bijvoorbeeld voor dubieuze debiteuren)**en voor reorganisatiekosten3. |
+| 3.9 | Alle indirecte belastingen, waaronder BTW, voor zover die kunnen worden teruggevorderd of verrekend. |
+| 3.10 | Bemiddelingskosten, transactiekosten en provisies bij het afsluiten van leningen. |
+| 3.11 | Bemiddelingskosten, transactiekosten en provisies bij het beleggen van geld. |
+| 3.12 | Rentekosten, met uitzondering van rente voor gebouwen en technische installaties, mits toerekenbaar aan de subsidiabele activiteiten. |
+| 3.13 | Rekenrente op met eigen vermogen gefinancierde activa4. |
+| 3.14 | Wisselkoersverliezen. |
+
+1 Onder algemene research en kennisopbouw valt basisonderzoek, waaronder het eerste geldstroom onderzoek van universiteiten. De kosten verbonden aan dit onderzoek worden vaak al uit andere bronnen gefinancierd en mogen niet via de integrale kostensystematiek worden toegerekend aan subsidieprojecten.
+
+2 Van **buitensporige uitgaven** is sprake als subsidie-ontvanger beduidend meer betaalt voor producten, diensten of personeel dan tegen de gangbare markttarieven, waardoor een vermijdbaar verlies wordt geleden of een vermijdbare hoge prijs wordt betaald. **Roekeloze uitgaven** betreft het onzorgvuldig omgaan met het selecteren van producten, diensten of personeel waardoor eveneens een vermijdbaar verlies wordt geleden of een vermijdbare hoge prijs wordt betaald.
+
+3 Reorganisatiekosten die verband houden met de normale periodieke reorganisaties die nodig zijn om de afdelingen die de subsidiable activiteiten uitvoeren goed te laten functioneren zijn nodig voor de goede uitvoering van deze activiteiten. Daarom kunnen deze reorganisatiekosten zelf wel onderdeel uitmaken van de kostenberekening.
+
+4 Voor universiteiten geldt hier een uitzondering, voor zover activa van universiteiten beslag leggen op eigen vermogen en voor zover die activa toerekenbaar zijn aan de subsidiabele activiteiten. Als rekenrente moet dan de 10-jaars rente van de Bank Nederlandse Gemeenten per primo van een betreffend jaar gehanteerd worden.
+
+## Bijlage 4.2
+
+## Bijlage 5.1
+
+### Innovatiethema’s
+
+## Bijlage 6.1
+
+De automotive sector wil deze ambitie en doelstellingen bereiken door in te zetten op twee focusgebieden waarin Nederland internationaal kan excelleren. Deze focusgebieden betreffen Driving guidance en Vehicle efficiency.
+
+### Vehicle efficiency
+
+## Bijlage 6.3. , behorende bij de [artikelen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2010-04-15&g=2010-04-15), [6.24](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=4&artikel=6.24&z=2010-04-15&g=2010-04-15) en [6.25](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=4&artikel=6.25&z=2010-04-15&g=2010-04-15)
+
+### Achtergrond en thema HTAS-Electric Vehicle Technology
+
+### Auxiliary equipment:
+
+## Bijlage 7.1
+
+## Bijlage 8.1
+
+### A. Research voor bedrijfsoverschrijdende kennis en technologie;
+
+### 5. Activiteiten en instrumenten
+
+## Bijlage 9.1
+
+### Behorende bij de [artikelen 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=2&artikel=9.2&z=2010-04-15&g=2010-04-15), [9.6](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2010-04-15&g=2010-04-15), [9.7](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=2&artikel=9.7&z=2010-04-15&g=2010-04-15), [9.13](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=3&artikel=9.13&z=2010-04-15&g=2010-04-15) en [9.21](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=4&artikel=9.21&z=2010-04-15&g=2010-04-15)
+
+Het Annual Plan is opgesteld op basis van de bijdragen van de Nederlandse partijen (industrie, kennisinstellingen, MKB) die werkzaam zijn op het terrein van embedded systemen, mechatronica en nano-elektronica en de reeds beschikbare internationale roadmaps van Catrene, ITEA2 en de Joint Technology Initiatives ENIAC en Artemis.
+
+### c. Internationale R&D-projecten
+
+Het innovatieprogramma Point One kent een zeer internationale orientatie. Omdat nano-electronica en embedded systems wereldwijde markten zijn, is ook de kennis veelal over onze landsgrenzen te vinden. Om internationaal onze koppositie te behouden, op industrieel- en kennisgebied, is het daarom van groot belang om vanuit een sterk Nederlands ecosysteem R&D-projecten uit te voeren met buitenlandse partners. Binnen Point One vindt de internationale R&D-samenwerking met name plaats met Europese partners.
+
+## Bijlage 10.1
+
+### Behorende bij de [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10&paragraaf=1&artikel=10.1&z=2010-04-15&g=2010-04-15), [10.13](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10&paragraaf=3&artikel=10.13&z=2010-04-15&g=2010-04-15) en [10.20](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10&paragraaf=4&artikel=10.20&z=2010-04-15&g=2010-04-15)
+
+### § 1. Doelstellingen
+
+## Bijlage 10.1a
+
+Life Sciences & Health ([bijlage 4.1 Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=4.1&z=2010-04-15&g=2010-04-15))
+
+Hightech Automotive Systems ([bijlage 6.1 Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.1&z=2010-04-15&g=2010-04-15))
+
+Maritiem ([bijlage 8.1 Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=8.1&z=2010-04-15&g=2010-04-15))
+
+Deze agenda richt zich op onderzoek en ontwikkeling van kennis en innovaties binnen de volgende zeven thema’s:
+
+Deze agenda richt zich op het versterken van de innovatiekracht van het onderwijsveld en het creëren van de juiste randvoorwaarden. Thema’s die centraal staan, zijn o.a. het ondervangen van het leraren tekort d.m.v. innovatieve oplossingen en het bieden van ruimte voor experimenten.
+
+## Bijlage 10h.1. behorende bij de [artikelen 10h.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10h&artikel=10h.1&z=2010-04-15&g=2010-04-15) en [10h.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10h&artikel=10h.9&z=2010-04-15&g=2010-04-15)
+
+Nederland heeft met een uitstekende infrastructuur voor informatie- en communicatietechnologie (hierna: ICT) en een sterke internationale oriëntatie een goede uitgangspositie voor de innovatieve ontwikkelingen op het gebied van diensteninnovatie en ICT.
+
+## Bijlage 11.1
+
+**Ondergetekende verklaart dat alle voor de aanvraag benodigde stukken zijn bijgevoegd en dat hij/zij bekend is met de voorwaarden en procedures van de Subsidieregeling sterktes in innovatie.**
+
+### Machtiging aanvrager 3
+
+**Aldus naar waarheid ingevuld:**
+
+### Machtiging aanvrager 4
+
+**Aldus naar waarheid ingevuld:**
+
+### Gegevens aanvrager 5
+
+### Gegevens aanvrager 6
+
+### ContactpersoonC
+
+## Bijlage 11.2
+
+Ligt ter inzage bij SenterNovem te Den Haag.
+
+## Bijlage 11.3
+
+Ligt ter inzage bij SenterNovem te Den Haag.
+
+## Bijlage 11.4
+
+### Toelichting bij de vragen
+
+Als u vragen heeft, kunt u zich wenden tot:
+
+### Vraag 1.7
+
+**cgt = A * gtB**
+
+Aanvullend op deze OESE-factoren zijn voor onderstaande scheepstypen specifieke cgt-factoren bepaald.
+
+### Vraag 4.3
+
+### Vraag 4.5
+
 ### Vraag 5.4
+
+### Vraag 5.5
+
+### Vraag 5.6
+
+Waarom is de door u beoogde innovatieve stap in Europees perspectief als vernieuwend aan te merken?
+
+### Vraag 6
+
+### Vraag 7
+
+## Bijlage 11.5
+
+**cgt = A * gtB**
+
+Aanvullend op deze OESE-factoren zijn voor onderstaande scheepstypen specifieke cgt-factoren bepaald:
+
+Sleephopperzuigers A= 25 B= 0,73
+
+Indien alle bouwfases buiten Nederland plaatsvinden is in ieder geval geen sprake van bouwen in Nederland. De aanvraag komt dan niet in aanmerking voor subsidie.
+
+Hierbij dient een kostenopbouw van de contractprijs bijgevoegd te worden op basis van de gekozen variant.
+
+### Vraag 5.4
+
+### Vraag 5.5
+
+Bij deze onderbouwingsvariant dient de toerekening van kosten aan de categorieën Eigen productie (I), Nederlandse toeleveringen (II) en Buitenlandse toeleveringen (III) plaats te vinden op basis van de mate waarin het toegeleverde product van Nederlandse origine is.
+
+### Vraag 6.1
+
+U dient in het kort verslag uit te brengen over het al dan niet bereikt hebben van de doelstelling(en) van het innovatieproject.
+
+### Vraag 6.2 en 6.3
+
+U dient de resultaten van het innovatieproject zowel vanuit innovatief (6.2) als budgettair (6.3) perspectief te relateren aan de geplande uitkomsten van het project.
+
+### Vraag 7
+
+De subsidie is beperkt tot de kosten voor investeringen, ontwerp, technische en testactiviteiten (inclusief de kosten voor de levering van goederen en diensten door derden), die rechtstreeks en uitsluitend voortvloeien uit het innovatieproject en die hebben plaatsgevonden na de datum waarop de subsidie is aangevraagd (eventueel uitgezonderd de kosten voor haalbaarheidsonderzoeken die binnen twaalf maanden voor de aanvraag zijn uitgevoerd.
+
+U dient de verantwoorde kosten onder materiaal; uitbesteed werk; externe dienstverlening; gebruiksklare toeleveringen; alsmede onder de post overige uit te splitsen in een bijlage.
 
 De subsidie bedraagt maximaal 20 procent van de in aanmerking komende kosten.
 
@@ -4887,7 +5192,7 @@ Voor zover voor dit innovatieproject ook andere staatsteun is toegekend, wordt d
 
 ### Vraag 9
 
-Het gaat hierbij onder meer om de in [artikel 10e.7](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10e&artikel=10e.7&z=2010-03-11&g=2010-03-11) van de Subsidieregeling sterktes in innovatie genoemde aspecten. Ook dient u melding te maken van zowel het in faillissement c.q. surseance van betaling geraken van uw onderneming, als van wijzigingen in het projectplan, vertragingen in de bouw en wijziging of beëindiging van het contract tussen uw onderneming en opdrachtgever.
+Het gaat hierbij onder meer om de in [artikel 10e.7](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10e&artikel=10e.7&z=2010-04-15&g=2010-04-15) van de Subsidieregeling sterktes in innovatie genoemde aspecten. Ook dient u melding te maken van zowel het in faillissement c.q. surseance van betaling geraken van uw onderneming, als van wijzigingen in het projectplan, vertragingen in de bouw en wijziging of beëindiging van het contract tussen uw onderneming en opdrachtgever.
 
 ### Vraag 10
 
@@ -4899,4 +5204,4 @@ Als bijlage bij dit formulier is een controleprotocol te vinden op www.evd.nl/si
 
 De controle kan worden uitgevoerd door een accountant als bedoeld in [artikel 393, eerste lid van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). De gevraagde verklaring kan ook worden verstrekt door een niet als openbaar accountant optredend intern accountant, mits deze volstaat aan de bepalingen welke gesteld zijn in deel B2 van de Verordening Gedragscode van het Koninklijk NIVRA.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=1.1&z=2010-03-11&g=2010-03-11), [11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.1&z=2010-03-11&g=2010-03-11), [11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.2&z=2010-03-11&g=2010-03-11) en [11.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.3&z=2010-03-11&g=2010-03-11), die ter inzage worden gelegd bij SenterNovem, Juliana van Stolberglaan 3, Den Haag.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=1.1&z=2010-04-15&g=2010-04-15), [11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.1&z=2010-04-15&g=2010-04-15), [11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.2&z=2010-04-15&g=2010-04-15) en [11.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.3&z=2010-04-15&g=2010-04-15), die ter inzage worden gelegd bij SenterNovem, Juliana van Stolberglaan 3, Den Haag.
