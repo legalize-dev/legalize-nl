@@ -4,7 +4,7 @@ identifier: "BWBR0010198"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-03"
-last_updated: "2009-07-01"
+last_updated: "2010-04-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010198"
 soort: "ministeriele-regeling"
@@ -49,27 +49,27 @@ In dit besluit wordt verstaan onder:
 
 2. De lengte van een geografisch nummer bedraagt tien cijfers.
 
-3. De lengte van een niet-geografisch nummer kan varieren en is aangegeven in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2009-07-01&g=2009-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2009-07-01&g=2009-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=4&z=2009-07-01&g=2009-07-01), genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2009-07-01&g=2009-07-01).
+3. De lengte van een niet-geografisch nummer kan varieren en is aangegeven in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2010-04-18&g=2010-04-18), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2010-04-18&g=2010-04-18) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=4&z=2010-04-18&g=2010-04-18), genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2010-04-18&g=2010-04-18).
 
 ##### Artikel 3
 
 In de bij dit besluit behorende:
 
-- a. [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2009-07-01&g=2009-07-01) worden de bestemmingen vastgesteld voor nummers voor telefoon- en ISDN-diensten;
+- a. [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2010-04-18&g=2010-04-18) worden de bestemmingen vastgesteld voor nummers voor telefoon- en ISDN-diensten;
 
-- b. [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2009-07-01&g=2009-07-01) worden de netnummergebieden, genoemd in bijlage 1, vastgesteld;
+- b. [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2010-04-18&g=2010-04-18) worden de netnummergebieden, genoemd in bijlage 1, vastgesteld;
 
-- c. [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2009-07-01&g=2009-07-01) wordt de verbijzondering naar nummerlengte van de nummerreeksen 0800, 0900, 0906, 0909 en 140X vastgesteld;
+- c. [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2010-04-18&g=2010-04-18) wordt de verbijzondering naar nummerlengte van de nummerreeksen 0800, 0900, 0906, 0909 en 140X vastgesteld;
 
-- d. [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=4&z=2009-07-01&g=2009-07-01) worden de maximale interconnectie afgiftetarieven vastgesteld.
+- d. [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=4&z=2010-04-18&g=2010-04-18) worden de maximale interconnectie afgiftetarieven vastgesteld.
 
-- e. [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=5&z=2009-07-01&g=2009-07-01) worden voorwaarden gesteld aan het recht op het gebruik van nummers in de nummerreeks 116.
+- e. [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=5&z=2010-04-18&g=2010-04-18) worden voorwaarden gesteld aan het recht op het gebruik van nummers in de nummerreeks 116.
 
 ##### Artikel 4
 
 1. Een geografisch nummer waarvan het abonneenummer begint met één van de cijfers 0, 1 en 9, is niet beschikbaar voor toekenning of reservering.
 
-2. Een nummer uit de reeks 014 is in afwijking van het bepaalde in het eerste veld van de tabelkop van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2009-07-01&g=2009-07-01), behorende bij dit besluit, beschikbaar zonder toekenning of reservering.
+2. Een nummer uit de reeks 014 is in afwijking van het bepaalde in het eerste veld van de tabelkop van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2010-04-18&g=2010-04-18), behorende bij dit besluit, beschikbaar zonder toekenning of reservering.
 
 ##### Artikel 5
 
@@ -87,7 +87,7 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 1. Dit besluit wordt aangehaald als: Nummerplan telefoon- en ISDN-diensten.
 
-2. [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2009-07-01&g=2009-07-01) van dit besluit ligt ter inzage bij het college, Zurichtoren, 3e verdieping, Muzenstraat 41, 2511 WB te Den Haag.
+2. [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2010-04-18&g=2010-04-18) van dit besluit ligt ter inzage bij het college, Zurichtoren, 3e verdieping, Muzenstraat 41, 2511 WB te Den Haag.
 
 ## Bijlage 1. als bedoeld in artikel 3, onder a, van het Nummerplan telefoon- en ISDN-diensten
 
@@ -912,7 +912,7 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 |   | 8 | Gebruik wordt uitgefaseerd |   |   |
 |   | 9 | Gebruik wordt uitgefaseerd |   |   |
 
-## Bijlage 1. , behorend bij [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2009-07-01&g=2009-07-01), van het Nummerplan telefoon- en ISDN-diensten
+## Bijlage 1. , behorend bij [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2010-04-18&g=2010-04-18), van het Nummerplan telefoon- en ISDN-diensten
 
 | Beschikbaar voor toekenning of reservering | Niet beschikbaar voor toekenning of reservering | Bestemming van de nummers (geografisch en niet-geografisch) | Lengte van de nummers | Nummers van uitzonderlijke economische waarden |
 | --- | --- | --- | --- | --- |
@@ -1267,13 +1267,16 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 |   | 113 | Geharmoniseerde Europese korte nummers |   |   |
 |   | 114 | Geharmoniseerde Europese korte nummers |   |   |
 |   | 115 | Geharmoniseerde Europese korte nummers |   |   |
-| 116… |   | Europees geharmoniseerde diensten met een maatschappelijke belang, die voldoen aan de voorwaarden van [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=5&z=2009-07-01&g=2009-07-01). Eenzelfde nummer kan aan meerdere aanvragers worden toegekend | 6 | Nee |
+| 116… |   | Europees geharmoniseerde diensten met een maatschappelijk belang, die voldoen aan de voorwaarden van [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=5&z=2010-04-18&g=2010-04-18). Eenzelfde nummer kan aan meerdere aanvragers worden toegekend. | 6 | Nee |
 | 116000 |   | Telefonische meldpunten voor vermiste kinderen | 6 | Nee |
+|   | 116001 t/m 116005 |   |   |   |
+| 116006 |   | Hulplijn voor slachtoffers van criminaliteit | 6 | Nee |
+|   | 116007 t/m 116110 |   |   |   |
 | 116111 |   | Kinderhulplijnen | 6 | Nee |
+|   | 116112 t/m 116116 |   |   |   |
+| 116117 |   | Telefonische hulplijn voor medische hulp in andere dan noodgevallen | 6 | Nee |
+|   | 116118 t/m 116122 |   |   |   |
 | 116123 |   | Hulplijnen voor emotionele steun | 6 | Nee |
-|   |   |   |   |   |
-|   | 116001 t/m 116110 |   |   |   |
-|   | 116112 t/m 116122 |   |   |   |
 |   | 116124 t/m 116999 |   |   |   |
 |   | 117 | Geharmoniseerde Europese korte nummers |   |   |
 |   | 118 |   |   |   |
@@ -1335,7 +1338,7 @@ Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staats
 
 In dit besluit wordt onder de openbare telefoondienst mede verstaan: een elektronische communicatiedienst die voor het publiek beschikbaar is voor alleen uitgaande gesprekken, onderscheidenlijk alleen inkomende gesprekken, en waarbij sprake is van een directe overdracht en routering van signalen.
 
-## Bijlage 3. als bedoeld in [artikel 3, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2009-07-01&g=2009-07-01), van het Nummerplan telefoon- en ISDN-diensten
+## Bijlage 3. als bedoeld in [artikel 3, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2010-04-18&g=2010-04-18), van het Nummerplan telefoon- en ISDN-diensten
 
 |   | **0** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1406,7 +1409,7 @@ Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staats
 
 Tenzij in de bij een nummer behorende bestemming uitdrukkelijk anders is bepaald, wordt een in dit nummerplan opgenomen nummer niet gebruikt om tegen betaling andere diensten dan elektronische communicatiediensten te leveren indien de betaling van die diensten is opgenomen in de door de aanbieder van de elektronische communicatiedienst opgemaakte rekening.
 
-## Bijlage 4. als bedoeld in [artikel 3, onder d, van het Nummerplan telefoon- en ISDN-diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2009-07-01&g=2009-07-01)
+## Bijlage 4. als bedoeld in [artikel 3, onder d, van het Nummerplan telefoon- en ISDN-diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2010-04-18&g=2010-04-18)
 
 | Nummers | Maximaal interconnectie afgifte starttarief, in eurocent, exclusief BTW | Maximaal interconnectie afgiftetarief per minuut, in eurocent, exclusief BTW |
 | --- | --- | --- |
@@ -1415,13 +1418,15 @@ Tenzij in de bij een nummer behorende bestemming uitdrukkelijk anders is bepaald
 
 Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staatscourant worden geplaatst, met uitzondering van [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2007-05-17&g=2007-05-17) die ter inzage ligt bij het college, Babylon kantorencomplex B, 3e verdieping, 2595 AA te Den Haag.
 
-## Bijlage 5. als bedoeld in [artikel 3, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2009-07-01&g=2009-07-01), van het Nummerplan telefoon- en ISDN-diensten.
+## Bijlage 5. als bedoeld in [artikel 3, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2010-04-18&g=2010-04-18), van het Nummerplan telefoon- en ISDN-diensten.
 
 | Nummer | Kwalificatie van de dienst en voorwaarden aan het recht op het gebruik |
 | --- | --- |
 | 116… | a) De dienst biedt de burger informatie of bijstand of een rapportage-instrument, dan wel een combinatie daarvan. b) De dienst is toegankelijk voor alle burgers zonder enige verplichting tot voorafgaande registratie. c) De dienst is niet beperkt in de tijd. d) Om van de dienst gebruik te kunnen maken, wordt niet geëist vooraf voor de dienst te betalen of zich tot betaling te verplichten. e) Tijdens een oproep vindt geen reclame, amusement, marketing of verkoop plaats. Ook mag de oproep niet worden gebruikt om in de toekomst commerciële diensten te verkopen. |
-| 116000 | a) De dienst ontvangt telefonische meldingen van vermiste kinderen en geeft deze door aan de politie. b) De dienst geeft advies/hulp aan en ondersteunt de ouder(s)/voogd(en) van het vermiste kind. c) De dienst ondersteunt het onderzoek. d) De dienst is continu bereikbaar (d.w.z. 24 uur per dag, 7 dagen per week, over het hele land) |
-| 116111 | a) De dienst helpt kinderen die behoefte aan opvang en bescherming hebben en verwijst hen door naar diensten en voorzieningen. b) De dienst biedt kinderen de gelegenheid hun zorgen te uiten, te praten over zaken die hen rechtstreeks aangaan, en met iemand contact op te nemen wanneer zich een noodsituatie voordoet c) Ingeval de dienst niet continu bereikbaar is (d.w.z. 24 uur per dag, 7 dagen per week, over het hele land), moet de dienstverlener ervoor zorgen dat de informatie over de bereikbaarheid op een gemakkelijk toegankelijke wijze voor het publiek beschikbaar is, en dat tijdens periodes waarin de dienst niet bereikbaar is, bellers naar de dienst wordt meegedeeld wanneer deze weer bereikbaar zal zijn. |
+| 116000 | a) De dienst ontvangt telefonische meldingen van vermiste kinderen en geeft deze door aan de politie. b) De dienst geeft advies/hulp aan en ondersteunt de ouder(s)/voogd(en) van het vermiste kind. c) De dienst ondersteunt het onderzoek. d) De dienst is continu bereikbaar (d.w.z. 24 uur per dag, 7 dagen per week, over het hele land). |
+| 116006 | a) De dienst biedt slachtoffers van criminaliteit emotionele steun in dergelijke omstandigheden, verschaft informatie over hun rechten en de rechtsmiddelen die zij kunnen aanwenden en kan hen doorverwijzen naar de bevoegde instanties. b) De dienst verschaft met name informatie over procedures van de lokale politie en van strafrechtelijke instanties, en de mogelijkheden tot schadevergoeding en verzekeringsaangelegenheden. c) Tevens biedt de dienst hulp bij het zoeken naar andere hulpverleners die relevant zijn voor slachtoffers van criminaliteit. d) Ingeval de dienst niet continu bereikbaar is (d.w.z. 24 uur per dag, 7 dagen per week, over het hele land), moet de dienstverlener ervoor zorgen dat de informatie over de bereikbaarheid op een gemakkelijk toegankelijke wijze voor het publiek beschikbaar is, en dat tijdens periodes waarin de dienst niet bereikbaar is, bellers naar de dienst wordt meegedeeld wanneer deze weer bereikbaar zal zijn. |
+| 116111 | a) De dienst helpt kinderen die behoefte aan opvang en bescherming hebben en verwijst hen door naar diensten en voorzieningen. b) De dienst biedt kinderen de gelegenheid hun zorgen te uiten, te praten over zaken die hen rechtstreeks aangaan, en met iemand contact op te nemen wanneer zich een noodsituatie voordoet. c) Ingeval de dienst niet continu bereikbaar is (d.w.z. 24 uur per dag, 7 dagen per week, over het hele land), moet de dienstverlener ervoor zorgen dat de informatie over de bereikbaarheid op een gemakkelijk toegankelijke wijze voor het publiek beschikbaar is, en dat tijdens periodes waarin de dienst niet bereikbaar is, bellers naar de dienst wordt meegedeeld wanneer deze weer bereikbaar zal zijn. |
+| 116117 | a) De dienst leidt bellers naar de passende medische hulpdienst in geval van medische klachten die wel dringend maar niet levensbedreigend zijn, met name, maar niet uitsluitend, buiten de gebruikelijke kantooruren, tijdens het weekeinde en op officiële feestdagen. b) De dienst leidt de beller naar een competente en gekwalificeerde gesprekspartner of verbindt de beller rechtstreeks door met een gekwalificeerd arts of clinicus. c) Ingeval de dienst niet continu bereikbaar is (d.w.z. 24 uur per dag, 7 dagen per week, over het hele land), moet de dienstverlener ervoor zorgen dat de informatie over de bereikbaarheid op een gemakkelijk toegankelijke wijze voor het publiek beschikbaar is, en dat tijdens periodes waarin de dienst niet bereikbaar is, bellers naar de dienst wordt meegedeeld wanneer deze weer bereikbaar zal zijn. |
 | 116123 | a) De dienst stelt de beller in staat echt menselijk contact te leggen waarbij wordt geluisterd zonder te oordelen. b) De dienst biedt emotionele steun aan bellers die zich eenzaam voelen, in een psychologische crisis verkeren of zelfmoord overwegen. c) Ingeval de dienst niet continu bereikbaar is (d.w.z. 24 uur per dag, 7 dagen per week, over het hele land), moet de dienstverlener ervoor zorgen dat de informatie over de bereikbaarheid op een gemakkelijk toegankelijke wijze voor het publiek beschikbaar is, en dat tijdens periodes waarin de dienst niet bereikbaar is, bellers naar de dienst wordt meegedeeld wanneer deze weer bereikbaar zal zijn. |
 
-Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staatscourant worden geplaatst, met uitzondering van [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2009-07-01&g=2009-07-01) die ter inzage ligt bij het college, Babylon kantorencomplex B, 3e verdieping, 2595 AA te Den Haag.
+Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staatscourant worden geplaatst, met uitzondering van [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2010-04-18&g=2010-04-18) die ter inzage ligt bij het college, Babylon kantorencomplex B, 3e verdieping, 2595 AA te Den Haag.
