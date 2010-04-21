@@ -4,7 +4,7 @@ identifier: "BWBR0025316"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2010-01-01"
+last_updated: "2010-04-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025316"
 soort: "ministeriele-regeling"
@@ -36,7 +36,7 @@ entry_into_force: "2015-12-15"
 ---
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 9 februari 2009, nr. DGM/K&L2009006710, houdende regels inzake aanwijzing van investeringen die in het belang zijn van het Nederlandse milieu (Aanwijzingsregeling willekeurige afschrijving en investeringsaftrek milieu-investeringen)
 
-Handelende in overeenstemming met de Staatssecretaris van Financiën en na overleg met de Ministers van Economische Zaken en, voor zover het betreft [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2010-01-01&g=2010-01-01), van Landbouw, Natuur en Voedselkwaliteit;
+Handelende in overeenstemming met de Staatssecretaris van Financiën en na overleg met de Ministers van Economische Zaken en, voor zover het betreft [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2010-04-21&g=2010-04-21), van Landbouw, Natuur en Voedselkwaliteit;
 
 Gelet op de [artikelen 3.31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.31), en [3.42a, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a);
 
@@ -60,7 +60,7 @@ Als milieubedrijfsmiddelen als bedoeld in [artikel 3.31, eerste lid, van de Wet 
 
 ##### Artikel 2. Milieu-investeringsaftrek
 
-Als investeringen, behorend tot categorie I, II respectievelijk III, in het belang van de bescherming van het Nederlandse milieu als bedoeld in [artikel 3.42a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a) worden aangewezen de investeringen in bedrijfsmiddelen of onderdelen daarvan, die zijn opgenomen in de bijlage bij deze regeling en die voldoen aan de in [artikel 1, onderdelen a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1&z=2010-01-01&g=2010-01-01), genoemde voorwaarden.
+Als investeringen, behorend tot categorie I, II respectievelijk III, in het belang van de bescherming van het Nederlandse milieu als bedoeld in [artikel 3.42a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a) worden aangewezen de investeringen in bedrijfsmiddelen of onderdelen daarvan, die zijn opgenomen in de bijlage bij deze regeling en die voldoen aan de in [artikel 1, onderdelen a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1&z=2010-04-21&g=2010-04-21), genoemde voorwaarden.
 
 ##### Artikel 3. Uitzondering
 
@@ -272,7 +272,7 @@ Toelichting: Onder een besloten ruimte wordt verstaan een binnenruimte of een ge
 
 **Duurzame vleeskalverenstal**
 
-Toelichting: De Maatlat Duurzame Veehouderij en Aquacultuur 1, onderdeel MDV 3 – vleeskalveren wordt begin 2010 door Stichting Milieukeur gepubliceerd. Tot deze publicatie kunnen er geen investeringen voor dit bedrijfsmiddel worden gehonoreerd.
+Toelichting: De Maatlat Duurzame Veehouderij en Aquacultuur 1, onderdeel MDV 4 – vleeskalveren wordt begin 2010 door Stichting Milieukeur gepubliceerd. Tot deze publicatie kunnen er geen investeringen voor dit bedrijfsmiddel worden gehonoreerd.
 
 Onder een besloten ruimte wordt verstaan een binnenruimte of een gedeeltelijk omsloten overdekte buitenruimte als bedoeld in hoofdstuk 2 van NEN 2580:2007. Het certificatieschema Maatlat Duurzame Veehouderij ligt ter inzage in de bibliotheek van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer. Het certificatieschema is ook te downloaden via www.smk.nl. Op deze site zijn ook de vigerende criteria, beoordelingsrichtlijnen en aanvullende besluiten te vinden.
 
@@ -292,7 +292,7 @@ Toelichting: Onder een besloten ruimte wordt verstaan een binnenruimte of een ge
 
 **Silo voor vloeibaar voer in de melkvee- en melkgeitenhouderij**
 
-**E 1130**
+**B 1130**
 
 **Nettenplant- of rooimachine voor bollen of knollen**
 
@@ -328,13 +328,17 @@ Toelichting: Emissiearme nettenplant- of rooimachines kunnen worden gemeld onder
 
 **F 2041**
 
-**Openbaar oplaadpunt voor elektrische voer- of vaartuigen**
+**Oplaadpunt voor elektrische voer- of vaartuigen**
 
 Toelichting: Oplaadpunten die niet vrij toegankelijk zijn komen niet in aanmerking voor milieu-investeringsaftrek en de willekeurige afschrijving milieu-investeringen.
 
 **F 2043**
 
 **Accuwisselstation**
+
+**B 2045**
+
+**Afleverstation voor hoge blend biobrandstoffen**
 
 **F 2050**
 
@@ -354,11 +358,11 @@ PGS staat voor: Publicatiereeks Gevaarlijke Stoffen.
 
 **F 2069**
 
-**Koolwaterstofverwijderingsinstallatie voor stationaire gas- of dieselmotoren (ten minste 75% reductie)**
+**Koolwaterstofemissiereducerende techniek**
 
 **A 2070**
 
-**Koolwaterstofverwijderingsinstallatie voor stationaire gas- of dieselmotoren (ten minste 50% reductie)**
+**Koolwaterstofemissiereducerende techniek**
 
 **F 2100**
 
@@ -482,7 +486,7 @@ Toelichting: De naverbrander dient in het proces geïntegreerd te worden, bijvoo
 
 **F 3080**
 
-**Reinigings- of ontsmettingsinstallatie**
+**Reinigings- of ontvettingsinstallatie**
 
 Toelichting: Ook poederontvetting of reiniging met superkritische CO2 komen in aanmerking voor de milieu-investeringsaftrek en de willekeurige afschrijving milieu-investeringen.
 
@@ -544,7 +548,7 @@ Toelichting: Recuperatieve naverbranders komen niet in aanmerking voor de milieu
 
 **Apparatuur voor procesgeïntegreerde reductie van stofontwikkeling**
 
-Toelichting: End-of-pipe-toepassingen en investeringen in uitbreiding van de productiecapaciteit komen niet in aanmerking voor milieu-investeringsaftrek en de willekeurige afschrijving milieu-investeringen.
+Toelichting: De aanpassing of vervanging van het productieproces voorkomt dat fijn stof of een groot deel daarvan ontstaat tijdens tussenstappen of aan het eind van het proces. End-of-pipe-toepassingen komen niet in aanmerking voor milieuinvesteringsaftrek en willekeurige afschrijving milieu-investeringen.
 
 **F 4001**
 
@@ -746,9 +750,11 @@ Toelichting: Geluid- en emissiearme mobiele machines kunnen worden gemeld onder 
 
 **Elektrisch aangedreven voertuig**
 
-Toelichting: Hybride personenauto's kunnen worden gemeld onder C 5076. Hybride bestelauto's kunnen worden gemeld onder E 5078.
+Toelichting: Onder code F 5070 kunnen enkel personenauto’s worden gemeld indien deze bestemd zijn voor beroepsvervoer over de weg. Dit volgt uit [artikel 3.45, eerste lid, onderdeel e, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.45), dat personenauto’s – tenzij bestemd voor beroepsvervoer over de weg – van investeringsaftrek uitsluit. Om het gebruik van elektrische personenauto’s te stimuleren, heeft de Minister van Financiën bij beleidsbesluit, nr. DGB2010/1398M (Stcrt. 3915), besloten – vooruitlopend op wetgeving – deze wettelijke beperking met terugwerkende kracht tot en met 1 januari 2010 weg te nemen voor elektrische personenauto’s die worden aangewezen in code F 5070. Als deze wetswijziging in werking is getreden wordt het mogelijk om de Milieulijst uit te breiden tot alle volledig elektrische personenauto’s en zogenoemde plugin hybridepersonenauto’s met een actieradius van ten minste 50 kilometer op een volle accu. Vooruitlopend op deze aanpassing van de Milieulijst 2010 en in lijn met het beleidsbesluit van de Minister van Financiën, mag ervan worden uitgegaan dat de beperking tot beroepsvervoer in code F 5070 met terugwerkende kracht tot en met 1 januari 2010 geen toepassing vindt. Hybride voertuigen anders dan de in onderdeel a2 en b2 omschreven (al dan niet voor beroepsvervoer bestemde) plugin-hybrides vallen buiten het bereik van deze code en kunnen, wat personenauto’s betreft, onder code C 5076 en, wat bestelauto’s betreft, onder code E 5078 worden gemeld.
 
-Voor elektrische personenauto’s geldt dat deze onder code F 5070 kunnen worden gemeld indien deze bestemd zijn voor beroepsvervoer. Voor het overige kunnen deze worden gemeld onder code C 5076.
+**B 5071**
+
+**Elektrisch aangedreven brom- of snorfiets met lithiumhoudende accu**
 
 **A 5072**
 
@@ -1672,23 +1678,23 @@ Toelichting: Duurzame energievoorzieningen komen mogelijk in aanmerking voor de 
 
 **Directe chemische oxidatie-installatie voor bodemsanering**
 
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
 **A 9106**
 
 **Stoomstripsysteem voor bodemsanering**
 
 **F 9107**
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
 **Reactief scherm voor bodemsanering**
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 **F 9109**
 
 **Apparatuur voor onderzuigen voor sanering of verlaging van bodems**
 
 Toelichting: Het draag- en vervoermiddel (ponton of hydraulische kraan) komt niet in aanmerking voor de milieu-investeringsaftrek en de willekeurige afschrijving milieu-investeringen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 **F 9110**
 
@@ -1788,6 +1794,10 @@ Toelichting: Natte thermische oxidatie-installaties komen pas in aanmerking als 
 
 **Zelfpersende afvalcontainer op zonne-energie**
 
+**A 9309**
+
+**Vervanging asbesthoudende daken van loodsen, schuren en stallen (aanpassing van bestaande voorziening)**
+
 **F 9310**
 
 **Asbestcontainer**
@@ -1851,6 +1861,8 @@ Toelichting: Het reinigen van persrollen komt niet in aanmerking voor de milieu-
 **Vergassingsinstallatie**
 
 **G 9450**
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 **Composteringsinstallatie**
 
