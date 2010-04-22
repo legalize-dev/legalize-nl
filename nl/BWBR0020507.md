@@ -4,7 +4,7 @@ identifier: "BWBR0020507"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-12-14"
-last_updated: "2010-01-05"
+last_updated: "2010-04-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020507"
 soort: "ministeriele-regeling"
@@ -58,15 +58,15 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-Ingetrokken worden:
+1. Als aangewezen punten van invoer of controlepunten, bedoeld in een EU-noodmaatregel, worden wat betreft levensmiddelen aangewezen:
 
-- a. de [Warenwetregeling geleiproducten in minicups 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018222);
+- a. de haven van Rotterdam;
 
-- b. de [Warenwetregeling Spaanse peper, kurkuma en palmolie 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018426);
+- b. de haven van Amsterdam; en
 
-- c. de [Warenwetregeling invoer bepaalde levensmiddelen uit Brazilië, China, Egypte, Iran en Turkije (beschikking 2006/504/EG)](https://wetten.overheid.nl/jci1.3:c:BWBR0020202);
+- c. de luchthaven Schiphol.
 
-- d. de [Warenwetregeling rijstproducten uit de Verenigde Staten (beschikking 2006/601/EG)](https://wetten.overheid.nl/jci1.3:c:BWBR0020265).
+2. De Voedsel en Waren Autoriteit houdt een bijgewerkte lijst van aangewezen punten en de desbetreffende EU-noodmaatregelen bij en maakt deze openbaar op de eigen website.
 
 ##### Artikel 4
 
