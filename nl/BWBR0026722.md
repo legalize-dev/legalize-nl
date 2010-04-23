@@ -4,7 +4,7 @@ identifier: "BWBR0026722"
 country: "nl"
 rank: "amvb"
 publication_date: "2010-04-23"
-last_updated: "2009-12-28"
+last_updated: "2010-04-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026722"
 soort: "AMvB"
@@ -92,9 +92,9 @@ Wijzigt het Besluit bemiddeling muziekauteursrecht.
 
 ##### Artikel XII
 
-1. De [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0026722&artikel=I&z=2009-12-28&g=2009-12-28), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0026722&artikel=III&z=2009-12-28&g=2009-12-28), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0026722&artikel=IV&z=2009-12-28&g=2009-12-28), [V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0026722&artikel=V&z=2009-12-28&g=2009-12-28), en [VII tot en met XI](https://wetten.overheid.nl/jci1.3:c:BWBR0026722&artikel=VII&z=2009-12-28&g=2009-12-28) van dit besluit treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
+1. De [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0026722&artikel=I&z=2010-04-23&g=2010-04-23), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0026722&artikel=III&z=2010-04-23&g=2010-04-23), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0026722&artikel=IV&z=2010-04-23&g=2010-04-23), [V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0026722&artikel=V&z=2010-04-23&g=2010-04-23), en [VII tot en met XI](https://wetten.overheid.nl/jci1.3:c:BWBR0026722&artikel=VII&z=2010-04-23&g=2010-04-23) van dit besluit treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-2. De [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0026722&artikel=II&z=2009-12-28&g=2009-12-28), [V, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0026722&artikel=V&z=2009-12-28&g=2009-12-28), en [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0026722&artikel=VI&z=2009-12-28&g=2009-12-28) van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+2. De [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0026722&artikel=II&z=2010-04-23&g=2010-04-23), [V, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0026722&artikel=V&z=2010-04-23&g=2010-04-23), en [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0026722&artikel=VI&z=2010-04-23&g=2010-04-23) van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 ##### Artikel XIII
 
