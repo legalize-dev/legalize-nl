@@ -4,7 +4,7 @@ identifier: "BWBR0006404"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2009-08-26"
+last_updated: "2010-04-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006404"
 soort: "AMvB"
@@ -72,11 +72,11 @@ Rechtsbijstand wordt als zijnde van elke grond ontbloot niet verleend indien de 
 
 ##### Artikel 4
 
-1. Rechtsbijstand bestaande uit het geven van eenvoudig rechtskundig advies wordt, als zijnde van onvoldoende belang, niet verleend indien het op geld waardeerbare belang blijft beneden een bedrag van € 90,–.
+1. Rechtsbijstand bestaande uit het geven van eenvoudig rechtskundig advies wordt, als zijnde van onvoldoende belang, niet verleend indien het op geld waardeerbare belang blijft beneden een bedrag van € 250,–.
 
-2. Rechtsbijstand op basis van een toevoeging anders dan ten behoeve van eenvoudig rechtskundig advies wordt, als zijnde van onvoldoende belang, niet verleend indien het op geld waardeerbare belang blijft beneden een bedrag van € 180,–.
+2. Rechtsbijstand op basis van een toevoeging anders dan ten behoeve van eenvoudig rechtskundig advies wordt, als zijnde van onvoldoende belang, niet verleend indien het op geld waardeerbare belang blijft beneden een bedrag van € 500,–.
 
-3. Indien de rechtsbijstand betrekking heeft op een beroep in cassatie wordt de toevoeging geweigerd indien het op geld waardeerbare belang blijft beneden een bedrag van € 360,–.
+3. Indien de rechtsbijstand betrekking heeft op een beroep in cassatie wordt de toevoeging geweigerd indien het op geld waardeerbare belang blijft beneden een bedrag van € 1.000,–.
 
 4. Indien de rechtsbijstand betrekking heeft op een beroep in cassatie in een strafzaak uitsluitend betreffende een of meer overtredingen wordt jegens de verdachte de toevoeging geweigerd, indien met toepassing van [artikel 9a van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=9a) geen straf of maatregel werd opgelegd of geen andere straf of maatregel werd opgelegd dan een geldboete tot een maximum – of, wanneer bij het vonnis twee of meer geldboetes zijn opgelegd, tot een gezamenlijke maximum – van € 250,–.
 
@@ -84,7 +84,7 @@ Rechtsbijstand wordt als zijnde van elke grond ontbloot niet verleend indien de 
 
 6. Indien het belang bestaat uit een periodiek te betalen of te ontvangen waarde, wordt het belang gesteld op de waarde van de betaling of ontvangst, vermenigvuldigd met het aantal malen dat deze waarde moet worden betaald dan wel ontvangen in een periode van ten hoogste twee jaar.
 
-7. In afwijking van het in de voorgaande leden bepaalde kan rechtsbijstand of een toevoeging worden verleend indien zwaarwegende belangen van de rechtzoekende dit rechtvaardigen.
+7. In afwijking van het eerste tot en met vierde lid kan rechtsbijstand of een toevoeging worden verleend indien zwaarwegende belangen van de rechtzoekende dit rechtvaardigen, of indien zwaarwegende persoonlijke omstandigheden van de rechtzoekende dit rechtvaardigen in het belang van een effectieve toegang tot het recht.
 
 ##### Artikel 5
 
