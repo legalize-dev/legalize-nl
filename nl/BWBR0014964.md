@@ -4,7 +4,7 @@ identifier: "BWBR0014964"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-08-01"
-last_updated: "2010-01-01"
+last_updated: "2010-04-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014964"
 soort: "AMvB"
@@ -104,19 +104,19 @@ Als bestuursorganen als bedoeld in [artikel 27, eerste lid, onderdeel i, van de 
 
 ##### Artikel 7
 
-1. De bestuursorganen, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014964&artikel=6&z=2009-01-01&g=2010-01-01), en de bestuursorganen, genoemd in [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=27), verstrekken de gegevens, bedoeld in de aanhef van [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=27), binnen twee weken nadat het Bureau om verstrekking heeft gevraagd.
+1. De bestuursorganen, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014964&artikel=6&z=2010-04-28&g=2010-04-28), en de bestuursorganen, genoemd in [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=27), verstrekken de gegevens, bedoeld in de aanhef van [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=27), binnen twee weken nadat het Bureau om verstrekking heeft gevraagd.
 
 2. Indien de gegevens niet binnen twee weken kunnen worden verstrekt, stelt het desbetreffende bestuursorgaan het Bureau daarvan in kennis en noemt het daarbij een termijn waarbinnen de gegevens wel tegemoet kunnen worden gezien. Deze termijn bedraagt niet meer dan twee weken na afloop van de termijn, genoemd in het eerste lid.
 
 ##### Artikel 8
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met uitzondering van [artikel 6, onderdelen b. en c.](https://wetten.overheid.nl/jci1.3:c:BWBR0014964&artikel=6&z=2009-01-01&g=2010-01-01), dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met uitzondering van [artikel 6, onderdelen b. en c.](https://wetten.overheid.nl/jci1.3:c:BWBR0014964&artikel=6&z=2010-04-28&g=2010-04-28), dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit BIBOB.
 
-## Bijlage. als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014964&artikel=2&z=2009-01-01&g=2010-01-01) van het Besluit BIBOB
+## Bijlage. als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014964&artikel=2&z=2010-04-28&g=2010-04-28) van het Besluit BIBOB
 
 ### Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
 
@@ -198,8 +198,6 @@ Dit besluit wordt aangehaald als: Besluit BIBOB.
 
 – Nederlandse Omroep Stichting – Nederlandse Programma Stichting
 
-– Informatie Beheer Groep
-
 – Stichting Participatiefonds voor het Onderwijs
 
 – Stichting Vervangingsfonds en Bedrijfsgezondheidszorg voor het Onderwijs
@@ -224,9 +222,9 @@ Dit besluit wordt aangehaald als: Besluit BIBOB.
 
 – Stichting Fonds voor Podiumprogrammering en Marketing
 
-### Ministerie van Sociale Zaken en Werkgelegenheid
+– Stichting Fonds voor Podiumprogrammering en Marketing
 
-– Sociale Verzekeringsbank
+### Ministerie van Sociale Zaken en Werkgelegenheid
 
 – Uitvoeringsinstituut Werknemersverzekeringen
 
@@ -240,21 +238,21 @@ Dit besluit wordt aangehaald als: Besluit BIBOB.
 
 – Stichting ter certificering van Arbeidshygiënisten SCA
 
-### Ministerie van Verkeer en Waterstaat
-
-– organisatie voor luchtverkeersdienstverlening als bedoeld in [artikel 5.22 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.22) (LVNL)
+– Dienst Wegverkeer (RDW)
 
 ### Ministerie van Verkeer en Waterstaat
 
 – NS Railinfrabeheer B.V. (RIB)
 
+### Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieu
+
 – Centraal Fonds voor de Volkshuisvesting
 
 – Dienst voor het kadaster en de openbare registers
 
-### Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieu
+– Stichting Bureau Architectenregister (SBA)
 
-– N.V. Service Centrum Grondreiniging
+### Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieu
 
 – Gastec Certification B.V.
 
@@ -264,15 +262,17 @@ Dit besluit wordt aangehaald als: Besluit BIBOB.
 
 – Nederlandse Zorgautoriteit
 
-### Ministerie van Volksgezondheid, Welzijn en Sport
+– College bouw zorginstellingen (CBZ)
 
-– College sanering zorginstellingen (CSZ)
+### Ministerie van Volksgezondheid, Welzijn en Sport
 
 – zorgverzekeraars als bedoeld in [artikel 1, onderdeel b, van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=1)
 
 – ZonMW
 
 – Nederlandse Transplantatie Stichting (NTS)
+
+– Pensioen- en Uitkeringsraad
 
 – Pensioen- en Uitkeringsraad
 
@@ -302,19 +302,29 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieu
 
-– Stichting Bureau Architectenregister (SBA)
+– N.V. Service Centrum Grondreiniging
 
 ### Ministerie van Volksgezondheid, Welzijn en Sport
 
-– College bouw zorginstellingen (CBZ)
+– College sanering zorginstellingen (CSZ)
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ### Ministerie van Verkeer en Waterstaat
 
-– Dienst Wegverkeer (RDW)
+– organisatie voor luchtverkeersdienstverlening als bedoeld in [artikel 5.22 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.22) (LVNL)
 
 ### Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieu
+
+### Ministerie van Volksgezondheid, Welzijn en Sport
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+### Ministerie van Sociale Zaken en Werkgelegenheid
+
+– Sociale Verzekeringsbank
+
+### Ministerie van Verkeer en Waterstaat
 
 ### Ministerie van Volksgezondheid, Welzijn en Sport
 
