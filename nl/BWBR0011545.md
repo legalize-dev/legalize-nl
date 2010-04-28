@@ -4,7 +4,7 @@ identifier: "BWBR0011545"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2010-01-01"
+last_updated: "2010-04-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011545"
 soort: "AMvB"
@@ -60,7 +60,7 @@ Hebben goedgevonden en verstaan:
 
 **wet**: [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453).
 
-2. In [hoofdstuk 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3a&z=2009-07-01&g=2010-01-01) van dit besluit wordt verstaan onder **aanvullende beurs**: toegekende en uitbetaalde aanvullende beurs als bedoeld in [artikel 6.2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.2).
+2. In [hoofdstuk 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3a&z=2010-04-28&g=2010-04-28) van dit besluit wordt verstaan onder **aanvullende beurs**: toegekende en uitbetaalde aanvullende beurs als bedoeld in [artikel 6.2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.2).
 
 3. Een wijziging van richtlijn 2004/38/EG gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
@@ -146,31 +146,31 @@ Vervallen
 
 ##### Artikel 7. Conflicteis
 
-1. Van een ernstig en structureel conflict tussen ouder en studerende als bedoeld in [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2009-07-01&g=2010-01-01), is sprake, indien de ouder om ernstige redenen structureel weigert de veronderstelde ouderlijke bijdrage te verstrekken.
+1. Van een ernstig en structureel conflict tussen ouder en studerende als bedoeld in [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2010-04-28&g=2010-04-28), is sprake, indien de ouder om ernstige redenen structureel weigert de veronderstelde ouderlijke bijdrage te verstrekken.
 
-2. De IB-Groep stelt bij de ouder vast dat er sprake is van weigering. Indien die ouder geen medewerking voor die vaststelling verleent, kan de verklaring van een onafhankelijke derde voor de betreffende ouderverklaring in de plaats treden.
+2. Onze Minister stelt bij de ouder vast dat er sprake is van weigering. Indien die ouder geen medewerking voor die vaststelling verleent, kan de verklaring van een onafhankelijke derde voor de betreffende ouderverklaring in de plaats treden.
 
 3. De ernst van het conflict wordt aangetoond aan de hand van een verklaring afgegeven door een ter zake deskundige.
 
 ##### Artikel 8. Uit ouderlijk gezag ontzet of ontheven
 
-Als bewijs dat de ouder uit het ouderlijk gezag is ontzet of ontheven, bedoeld in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2009-07-01&g=2010-01-01), dient een afschrift van de beschikking van de rechtbank.
+Als bewijs dat de ouder uit het ouderlijk gezag is ontzet of ontheven, bedoeld in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2010-04-28&g=2010-04-28), dient een afschrift van de beschikking van de rechtbank.
 
 ##### Artikel 9. Geen contact sinds 12e jaar
 
-Van geen contact met de ouder als bedoeld in [artikel 6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2009-07-01&g=2010-01-01), is sprake, indien de studerende vanaf de maand waarin hij de leeftijd van 12 jaren heeft bereikt geen wezenlijk contact met de ouder had. Als bewijs dient een verklaring van een ter zake deskundige.
+Van geen contact met de ouder als bedoeld in [artikel 6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2010-04-28&g=2010-04-28), is sprake, indien de studerende vanaf de maand waarin hij de leeftijd van 12 jaren heeft bereikt geen wezenlijk contact met de ouder had. Als bewijs dient een verklaring van een ter zake deskundige.
 
 ##### Artikel 10. Niet inbare alimentatie
 
-Van voor de studerende niet inbare alimentatie als bedoeld in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2009-07-01&g=2010-01-01), is sprake, indien de alimentatie oninbaar is gedurende ten minste 12 maanden voorafgaande aan de maand waarin de studerende voor het eerst studiefinanciering ontvangt. Als bewijs dient een verklaring van een ter zake deskundige.
+Van voor de studerende niet inbare alimentatie als bedoeld in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2010-04-28&g=2010-04-28), is sprake, indien de alimentatie oninbaar is gedurende ten minste 12 maanden voorafgaande aan de maand waarin de studerende voor het eerst studiefinanciering ontvangt. Als bewijs dient een verklaring van een ter zake deskundige.
 
 ##### Artikel 11. Onbekende verblijfplaats ouder
 
-Indien de studerende de verblijfplaats van de ouder niet kent, onderzoekt de IB-Groep in een geval als bedoeld in [artikel 6, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2009-07-01&g=2010-01-01), de verblijfplaats van die ouder gedurende ten hoogste 3 maanden onderscheidenlijk ten hoogste 6 maanden in geval van onderzoek in het buitenland. Indien de verblijfplaats van die ouder niet wordt achterhaald, wordt geen rekening gehouden met de veronderstelde ouderlijke bijdrage.
+Indien de studerende de verblijfplaats van de ouder niet kent, onderzoekt Onze Minister in een geval als bedoeld in [artikel 6, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2010-04-28&g=2010-04-28), de verblijfplaats van die ouder gedurende ten hoogste 3 maanden onderscheidenlijk ten hoogste 6 maanden in geval van onderzoek in het buitenland. Indien de verblijfplaats van die ouder niet wordt achterhaald, wordt geen rekening gehouden met de veronderstelde ouderlijke bijdrage.
 
 ##### Artikel 12. Draagkracht uit alimentatie
 
-1. Indien een studerende van zijn ouder alimentatie als bedoeld in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2009-07-01&g=2010-01-01), ontvangt, komt het door de rechter vastgestelde bedrag aan alimentatie van de studerende in de plaats van de veronderstelde ouderlijk bijdrage. Als bewijs van de hoogte van de alimentatie dient in ieder geval de beschikking van de rechtbank of een notariële akte. Het bedrag dat in het bewijsstuk wordt genoemd, wordt vermeerderd met de wettelijke indexering.
+1. Indien een studerende van zijn ouder alimentatie als bedoeld in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2010-04-28&g=2010-04-28), ontvangt, komt het door de rechter vastgestelde bedrag aan alimentatie van de studerende in de plaats van de veronderstelde ouderlijk bijdrage. Als bewijs van de hoogte van de alimentatie dient in ieder geval de beschikking van de rechtbank of een notariële akte. Het bedrag dat in het bewijsstuk wordt genoemd, wordt vermeerderd met de wettelijke indexering.
 
 2. Indien nog geen beschikking is afgegeven, wordt de door de rechter vastgestelde alimentatie van de studerende in de plaats van de veronderstelde ouderlijke bijdrage gesteld vanaf de ingangsdatum van de alimentatie zoals die datum door de rechter is vastgesteld.
 
@@ -194,7 +194,7 @@ Vervallen
 
 ##### Artikel 16. Verstrekken van inlichtingen
 
-Het verstrekken van inlichtingen, benodigd voor de uitvoering van de wet, door organen met een publiekrechtelijke taak geschiedt binnen 8 weken na de dag van verzending van de aanvraag om inlichtingen, indien door het college van burgemeester en wethouders te verschaffen inlichtingen onderzoek buiten de gemeentelijke basisadministratie persoonsgegevens noodzakelijk maken. In alle overige gevallen geschiedt het verstrekken van inlichtingen binnen 4 weken na de dag van verzending van de aanvraag om inlichtingen. De IB-Groep kan bij de aanvraag om inlichtingen aangeven hoe de overdracht van informatie moet plaatsvinden.
+Het verstrekken van inlichtingen, benodigd voor de uitvoering van de wet, door organen met een publiekrechtelijke taak geschiedt binnen 8 weken na de dag van verzending van de aanvraag om inlichtingen, indien door het college van burgemeester en wethouders te verschaffen inlichtingen onderzoek buiten de gemeentelijke basisadministratie persoonsgegevens noodzakelijk maken. In alle overige gevallen geschiedt het verstrekken van inlichtingen binnen 4 weken na de dag van verzending van de aanvraag om inlichtingen. Onze Minister kan bij de aanvraag om inlichtingen aangeven hoe de overdracht van informatie moet plaatsvinden.
 
 ### Hoofdstuk 6. Aanpassing van bedragen
 
@@ -210,7 +210,7 @@ Het verstrekken van inlichtingen, benodigd voor de uitvoering van de wet, door o
 
 ##### Artikel 18. Omzetting voor tempobeursstudenten van lening in gift
 
-1. Indien over een studiejaar de tempobeurs van een student op grond van [artikel 10.7, derde lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=10.7) is omgezet in lening, en die student over dat studiejaar op de voet van [artikel 10.6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=10.6), ten minste 14 studiepunten heeft behaald, zet de IB-Groep op aanvraag van de student het desbetreffende bedrag aan lening alsnog om in gift indien de student aan de volgende voorwaarden voldoet:
+1. Indien over een studiejaar de tempobeurs van een student op grond van [artikel 10.7, derde lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=10.7) is omgezet in lening, en die student over dat studiejaar op de voet van [artikel 10.6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=10.6), ten minste 14 studiepunten heeft behaald, zet Onze Minister op aanvraag van de student het desbetreffende bedrag aan lening alsnog om in gift indien de student aan de volgende voorwaarden voldoet:
 
 - a. hij heeft aan opleidingen waarop [artikel 10.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=10.6) van toepassing is, een aantal studiepunten behaald dat ten minste gelijk is aan de voor de laatst gevolgde opleiding geldende studielast, en
 
@@ -230,7 +230,7 @@ Het verstrekken van inlichtingen, benodigd voor de uitvoering van de wet, door o
 
 8. De omzetting kan jegens een student slechts eenmaal plaatsvinden, doch niet met betrekking tot een studiejaar waarover de student te eniger tijd aanspraak heeft gehad op een financiële voorziening als bedoeld in [artikel 7.51, tweede lid, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.51). Indien er ten behoeve van meer dan een studiejaar omzetting mogelijk is, geeft de student aan ten behoeve van welk studiejaar de omzetting dient plaats te vinden.
 
-9. De student zendt de aanvraag uiterlijk 3 maanden na het einde van de termijn, bedoeld in het eerste lid, onderdeel b, verhoogd met het aantal maanden, bedoeld in het derde lid, aan de IB-Groep. De aanvraag gaat vergezeld van gewaarmerkte verklaringen van de instelling dan wel de instellingen, waaruit de studievoortgang blijkt.
+9. De student zendt de aanvraag uiterlijk 3 maanden na het einde van de termijn, bedoeld in het eerste lid, onderdeel b, verhoogd met het aantal maanden, bedoeld in het derde lid, aan Onze Minister. De aanvraag gaat vergezeld van gewaarmerkte verklaringen van de instelling dan wel de instellingen, waaruit de studievoortgang blijkt.
 
 ### Hoofdstuk 8
 
@@ -284,9 +284,9 @@ Vervallen
 
 ### Hoofdstuk 9. Overgangsbepalingen
 
-##### Artikel 30a. Overgangsbepaling [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=1&artikel=2&z=2009-07-01&g=2010-01-01)
+##### Artikel 30a. Overgangsbepaling [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=1&artikel=2&z=2010-04-28&g=2010-04-28)
 
-1. Indien het derde jaar na het laatste studiefinancieringstijdvak vóór 2006 is gelegen, wordt voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=1&artikel=2&z=2009-07-01&g=2010-01-01) onder belastbaar minimumloon verstaan:
+1. Indien het derde jaar na het laatste studiefinancieringstijdvak vóór 2006 is gelegen, wordt voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=1&artikel=2&z=2010-04-28&g=2010-04-28) onder belastbaar minimumloon verstaan:
 
 - a. de som van:
 
@@ -310,9 +310,9 @@ Wijzigt dit besluit.
 
 Artikel 3, eerste lid, aanhef en onderdelen b en c, en tweede lid, van het Besluit studiefinanciering zoals dat luidde op 31 december 1996, blijft van toepassing op degene die op dat tijdstip studiefinanciering op grond van de Wet op de studiefinanciering genoot.
 
-##### Artikel 33. Afwijking van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=2&artikel=3b&z=2009-07-01&g=2010-01-01)
+##### Artikel 33. Afwijking van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=2&artikel=3b&z=2010-04-28&g=2010-04-28)
 
-Op een student die voor 1 september 2007 op grond van [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=2&artikel=3a&z=2009-07-01&g=2010-01-01) studiefinanciering ontving, blijft artikel 3a, zoals dat luidde op 31 augustus 2007, van toepassing zolang hij zonder onderbreking studiefinanciering op grond van dat artikel geniet.
+Op een student die voor 1 september 2007 op grond van [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=2&artikel=3a&z=2010-04-28&g=2010-04-28) studiefinanciering ontving, blijft artikel 3a, zoals dat luidde op 31 augustus 2007, van toepassing zolang hij zonder onderbreking studiefinanciering op grond van dat artikel geniet.
 
 ##### Artikel 34. Overgangsbepaling artikel 14
 
@@ -440,11 +440,11 @@ Gehele kwijtschelding van de aanvullende beurs kan plaatsvinden indien het toets
 
 ##### Artikel 12f. Aanvraag en tijdstip kwijtschelding
 
-1. De IB-Groep neemt een aanvraag die wordt ingediend voor 1 november van het vierde jaar volgend op het kalenderjaar van het laatste studiefinancieringstijdvak, niet eerder dan op die datum in behandeling, waarbij 1 november geldt als datum van indiening.
+1. Onze Minister neemt een aanvraag die wordt ingediend voor 1 november van het vierde jaar volgend op het kalenderjaar van het laatste studiefinancieringstijdvak, niet eerder dan op die datum in behandeling, waarbij 1 november geldt als datum van indiening.
 
-2. De IB-Groep besluit binnen 8 weken na de indiening van een aanvraag van een debiteur om kwijtschelding van de aanvullende beurs.
+2. Onze Minister besluit binnen 8 weken na de indiening van een aanvraag van een debiteur om kwijtschelding van de aanvullende beurs.
 
-3. De IB-Groep neemt slechts een aanvraag in behandeling die wordt ingediend binnen de diplomatermijn, genoemd in de [artikelen 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=4.9) en [5.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=5.5), of, indien dit daarna is, binnen 5 jaren volgend op het kalenderjaar van het laatste studiefinancieringstijdvak.
+3. Onze Minister neemt slechts een aanvraag in behandeling die wordt ingediend binnen de diplomatermijn, genoemd in de [artikelen 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=4.9) en [5.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=5.5), of, indien dit daarna is, binnen 5 jaren volgend op het kalenderjaar van het laatste studiefinancieringstijdvak.
 
 4. Het kwijt te schelden bedrag wordt aan de aanvrager uitbetaald indien verrekening niet mogelijk is.
 
