@@ -4,7 +4,7 @@ identifier: "BWBR0031040"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-01-01"
-last_updated: "2010-03-18"
+last_updated: "2010-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031040"
 soort: "ministeriele-regeling"
@@ -186,8 +186,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXV
 
 Wijzigt de Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXVI
 
