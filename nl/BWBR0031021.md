@@ -4,7 +4,7 @@ identifier: "BWBR0031021"
 country: "nl"
 rank: "wet"
 publication_date: "2015-06-30"
-last_updated: "2010-04-01"
+last_updated: "2010-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031021"
 soort: "wet"
@@ -102,7 +102,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
 ##### Artikel XIIIa
 
