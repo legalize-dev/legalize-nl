@@ -4,7 +4,7 @@ identifier: "BWBR0014660"
 country: "nl"
 rank: "amvb"
 publication_date: "2010-05-13"
-last_updated: "2008-11-19"
+last_updated: "2010-05-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014660"
 soort: "AMvB"
@@ -52,12 +52,16 @@ De uitsluiting van het recht op een bijdrage uit het BTW-compensatiefonds volgen
 
 ##### Artikel 2
 
-Indien het totaal van de aanschaffings- of voortbrengingskosten dan wel de kostprijs, de omzetbelasting niet daaronder begrepen, van alle door het publiekrechtelijk lichaam of regionaal openbaar lichaam in een boekjaar ten behoeve van eenzelfde personeelslid verrichte prestaties als bedoeld in [artikel 4, eerste lid, aanhef en onderdeel b, van de Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=4), samen met het bedrag dat op grond van [artikel 4, eerste lid, van het Besluit uitsluiting aftrek omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002636&artikel=4) buiten aanmerking is gebleven, niet meer bedraagt dan € 227, blijven die prestaties buiten aanmerking voor de toepassing van [artikel 4, eerste lid, aanhef en onderdeel b, van de Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=4).
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt terug tot en met 1 januari 2003.
+
+2. Dit besluit kan worden aangehaald als: Uitvoeringsbesluit BTW-compensatiefonds.
 
 ##### Artikel 3
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt terug tot en met 1 januari 2003.
 
 2. Dit besluit kan worden aangehaald als: Uitvoeringsbesluit BTW-compensatiefonds.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
