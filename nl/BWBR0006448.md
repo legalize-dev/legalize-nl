@@ -4,7 +4,7 @@ identifier: "BWBR0006448"
 country: "nl"
 rank: "amvb"
 publication_date: "2014-11-14"
-last_updated: "1998-05-31"
+last_updated: "2010-05-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006448"
 soort: "AMvB"
@@ -50,7 +50,7 @@ In dit besluit wordt verstaan onder:
 
 - a. huishoudchemicaliën: en die zich bevinden in een verpakking die bestemd of geschikt is om met de inhoud in de particuliere sfeer te worden gebruikt;
 
-- 1°. stoffen en preparaten waarvan de verpakking krachtens het [Besluit verpakking en aanduiding milieugevaarlijke stoffen en preparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0004220) moet zijn geëtiketteerd als zeer vergiftig, vergiftig of bijtend;
+- 1°. stoffen en preparaten waarvan de verpakking krachtens de verordening (EG) nr. 1272/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 betreffende de indeling, etikettering en verpakking van stoffen en mengsels tot wijziging en intrekking van de Richtlijnen 67/548/EEG en 1999/45/EG en tot wijziging van Verordening (EG) nr. 1907/2006 (PbEU L 353) respectievelijk het [Besluit verpakking en aanduiding milieugevaarlijke stoffen en preparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0004220) moet zijn geëtiketteerd als zeer vergiftig, vergiftig of bijtend;
 
 - 2°. preparaten waarvan de verpakking krachtens het [Besluit verpakking en aanduiding milieugevaarlijke stoffen en preparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0004220) moet zijn geëtiketteerd als «schadelijk: kan longschade veroorzaken na verslikken»;
 
@@ -58,7 +58,7 @@ In dit besluit wordt verstaan onder:
 
 - 4°. preparaten die dichloormethaan bevatten in een concentratie van 1 procent of meer;
 
-- 5°. stoffen en preparaten waarvan de verpakking krachtens het Besluit verpakking en aanduiding milieugevaarlijke stoffen of preparaten moet zijn geëtiketteerd als schadelijk, zeer licht ontvlambaar of licht ontvlambaar;
+- 5°. stoffen en preparaten waarvan de verpakking krachtens de verordening (EG) nr. 1272/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 betreffende de indeling, etikettering en verpakking van stoffen en mengsels tot wijziging en intrekking van de Richtlijnen 67/548/EEG en 1999/45/EG en tot wijziging van Verordening (EG) nr. 1907/2006 (PbEU L 353) respectievelijk het Besluit verpakking en aanduiding milieugevaarlijke stoffen of preparaten moet zijn geëtiketteerd als schadelijk, zeer licht ontvlambaar of licht ontvlambaar;
 
 - 6°. preparaten waarvan de verpakking krachtens het [Besluit verpakking en aanduiding milieugevaarlijke stoffen en preparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0004220) van een etikettering moet zijn voorzien;
 
@@ -72,21 +72,21 @@ In dit besluit wordt verstaan onder:
 
 2. Het is verboden huishoudchemicaliën te verhandelen anders dan met inachtneming van de voorschriften, bij dit besluit gesteld met betrekking tot hun aanduiding of het bezigen van vermeldingen of voorstellingen.
 
-3. Het is verboden huishoudchemicaliën te verhandelen, indien niet is voldaan aan [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006448&artikel=6&z=1998-05-31&g=1998-05-31).
+3. Het is verboden huishoudchemicaliën te verhandelen, indien niet is voldaan aan [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006448&artikel=6&z=2010-05-13&g=2010-05-13).
 
 ##### Artikel 3
 
-1. De verpakking van huishoudchemicaliën als bedoeld in [artikel 1, onderdeel **a**, onder 1° tot en met 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0006448&artikel=1&z=1998-05-31&g=1998-05-31) is voorzien van een kinderveilige sluiting.
+1. De verpakking van huishoudchemicaliën als bedoeld in [artikel 1, onderdeel **a**, onder 1° tot en met 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0006448&artikel=1&z=2010-05-13&g=2010-05-13) is voorzien van een kinderveilige sluiting.
 
-2. Het eerste lid is niet van toepassing op huishoudchemicaliën als bedoeld in [artikel 1, onderdeel **a**, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0006448&artikel=1&z=1998-05-31&g=1998-05-31), die worden verhandeld als aërosol als bedoeld in het Aërosolenbesluit (Warenwet).
+2. Het eerste lid is niet van toepassing op huishoudchemicaliën als bedoeld in [artikel 1, onderdeel **a**, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0006448&artikel=1&z=2010-05-13&g=2010-05-13), die worden verhandeld als aërosol als bedoeld in het Aërosolenbesluit (Warenwet).
 
 ##### Artikel 4
 
-De verpakking van huishoudchemicaliën als bedoeld in [artikel 1, onderdeel **a**, onder 1° en 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0006448&artikel=1&z=1998-05-31&g=1998-05-31), is voorzien van een voelbare gevaarsaanduiding.
+De verpakking van huishoudchemicaliën als bedoeld in [artikel 1, onderdeel **a**, onder 1° en 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0006448&artikel=1&z=2010-05-13&g=2010-05-13), is voorzien van een voelbare gevaarsaanduiding.
 
 ##### Artikel 5
 
-De verpakking van huishoudchemicaliën als bedoeld in [artikel 1, onderdeel **a**, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0006448&artikel=1&z=1998-05-31&g=1998-05-31), mag
+De verpakking van huishoudchemicaliën als bedoeld in [artikel 1, onderdeel **a**, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0006448&artikel=1&z=2010-05-13&g=2010-05-13), mag
 
 - -. geen vorm hebben of afbeelding dragen die de actieve nieuwsgierigheid van kinderen kan wekken of prikkelen, of de gebruikers in verwarring kan brengen ten aanzien van de aard van het produkt;
 
@@ -96,7 +96,7 @@ De verpakking van huishoudchemicaliën als bedoeld in [artikel 1, onderdeel **a*
 
 1. Degene die huishoudchemicaliën waarvan de verpakking moet zijn voorzien van een kinderveilige sluiting, voor het eerst in de handel brengt, is in het bezit van een certificaat waaruit blijkt dat:
 
-- -. de sluiting, aangebracht op de verpakking, voldoet aan de norm, bedoeld in [artikel 1, onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0006448&artikel=1&z=1998-05-31&g=1998-05-31);
+- -. de sluiting, aangebracht op de verpakking, voldoet aan de norm, bedoeld in [artikel 1, onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0006448&artikel=1&z=2010-05-13&g=2010-05-13);
 
 - -. de toegepaste sluiting zodanig is, dat het niet noodzakelijk is de doeltreffendheid van de kinderveilige sluiting te onderzoeken volgens genoemde norm.
 
