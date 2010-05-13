@@ -4,7 +4,7 @@ identifier: "BWBR0004321"
 country: "nl"
 rank: "amvb"
 publication_date: "2010-12-01"
-last_updated: "2008-06-01"
+last_updated: "2010-05-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004321"
 soort: "AMvB"
@@ -58,7 +58,7 @@ In dit besluit wordt verstaan onder:
 
 1. De administratieplichtige administreert met betrekking tot stoffen en preparaten die hij heeft vervaardigd, in Nederland ingevoerd of aan een ander ter beschikking gesteld de chemische namen en de gewichtspercentages van de belangrijkste daarin aanwezige stoffen tot in totaal 95 gewichtsprocenten van het preparaat, alsmede, voor zover hij daarover beschikt of redelijkerwijs kan beschikken, de chemische namen van de stoffen die de resterende 5 gewichtsprocenten van een preparaat vormen.
 
-2. Het eerste lid, onder d, is niet van toepassing, indien degene die aan de administratieplichtige een preparaat of een of meer bestanddelen van een door de administratieplichtige vervaardigd preparaat ter beschikking heeft gesteld, de gegevens met betrekking tot de samenstelling daarvan niet heeft verstrekt in verband met de bescherming van bedrijfsgeheimen:
+2. Het eerste lid is niet van toepassing, indien degene die aan de administratieplichtige een preparaat of een of meer bestanddelen van een door de administratieplichtige vervaardigd preparaat ter beschikking heeft gesteld, de gegevens met betrekking tot de samenstelling daarvan niet heeft verstrekt in verband met de bescherming van bedrijfsgeheimen:
 
 - a. ingeval de administratieplichtige een preparaat in een hoeveelheid kleiner dan 1000 kg per jaar vervaardigt, in Nederland invoert of aan een ander ter beschikking stelt, of
 
@@ -66,9 +66,11 @@ In dit besluit wordt verstaan onder:
 
 3. Indien de bestanddelen van het preparaat behoren tot een categorie, genoemd in [artikel 9.2.3.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.3.1), dient de administratieplichtige ten aanzien van wie het tweede lid van toepassing is, de bij het preparaat behorende benaming van het gevaar of de gevaren, het bijbehorende symbool of de symbolen en de verwijzing naar de bijzondere aan het gebruik van het preparaat verbonden gevaren, bedoeld in [artikel 9.2.3.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.3.2), te administreren.
 
+4. Indien de bestanddelen van een preparaat overeenkomstig de titels II, III en IV van de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels zijn ingedeeld, is het derde lid van overeenkomstige toepassing.
+
 ##### Artikel 3
 
-1. De administratieplichtige dient de gegevens, bedoeld in de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0004321&artikel=1a&z=2008-06-01&g=2008-06-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0004321&artikel=2&z=2008-06-01&g=2008-06-01), op zodanige wijze te administreren dat hij deze over de periode gedurende welke de bewaarplicht ingevolge het derde lid, geldt, indien Onze Minister daarom verzoekt, binnen vier weken schriftelijk kan overleggen, gespecificeerd per stof onderscheidenlijk preparaat, per afnemer en per kalenderjaar.
+1. De administratieplichtige dient de gegevens, bedoeld in de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0004321&artikel=1a&z=2010-05-13&g=2010-05-13) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0004321&artikel=2&z=2010-05-13&g=2010-05-13), op zodanige wijze te administreren dat hij deze over de periode gedurende welke de bewaarplicht ingevolge het derde lid, geldt, indien Onze Minister daarom verzoekt, binnen vier weken schriftelijk kan overleggen, gespecificeerd per stof onderscheidenlijk preparaat, per afnemer en per kalenderjaar.
 
 2. De administratieplichtige kan, in afwijking van het eerste lid, voor stoffen, al dan niet verwerkt in een preparaat, die zijn bestemd voor particuliere huishoudens of voor afnemers in het buitenland volstaan met een zodanige wijze van administreren van gegevens dat hij op verzoek van Onze Minister binnen vier weken schriftelijk opgave kan doen van de totale hoeveelheid die hij van een stof in een kalenderjaar aan elk van de genoemde categorieën van gebruikers ter beschikking heeft gesteld.
 
@@ -76,7 +78,7 @@ In dit besluit wordt verstaan onder:
 
 4. Indien toepassing wordt gegeven aan het tweede lid, dient de administratieplichtige tevens de namen en adressen van de afnemers van de stoffen en preparaten, bestemd voor de desbetreffende categorie van gebruikers, gedurende één jaar overeenkomstig het in het eerste lid bepaalde te bewaren.
 
-5. Met betrekking tot preparaten, ten aanzien waarvan [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004321&artikel=2&z=2008-06-01&g=2008-06-01), van toepassing is, dient de administratieplichtige tevens te bewaren de namen en adressen van de leveranciers over de jaren waarvoor de bewaarplicht ingevolge het derde lid geldt.
+5. Met betrekking tot preparaten, ten aanzien waarvan [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004321&artikel=2&z=2010-05-13&g=2010-05-13), van toepassing is, dient de administratieplichtige tevens te bewaren de namen en adressen van de leveranciers over de jaren waarvoor de bewaarplicht ingevolge het derde lid geldt.
 
 ##### Artikel 4
 
