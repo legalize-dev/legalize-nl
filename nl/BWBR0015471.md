@@ -4,7 +4,7 @@ identifier: "BWBR0015471"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-11-10"
-last_updated: "2003-09-03"
+last_updated: "2010-05-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015471"
 soort: "AMvB"
@@ -60,9 +60,7 @@ In dit besluit wordt verstaan onder:
 
 - e. houder: verpakking van tatoeagekleurstof die rechtstreeks in aanraking komt met de tatoeagekleurstof;
 
-- f. cosmeticarichtlijn: [richtlijn 76/768/EEG](31976L0768) van de Raad van 27 juli 1976 betreffende de onderlinge aanpassing van de wetgevingen der lidstaten inzake cosmetische producten (PbEG L 262);
-
-- g. gevaarlijke stoffen richtlijn: [richtlijn 67/548/EEG](31967L0548) van de Raad van 27 juni 1967 betreffende de aanpassing van de wettelijke en bestuursrechtelijke bepalingen inzake de indeling, de verpakking en het kenmerken van gevaarlijke stoffen (PbEG L 196).
+- f. cosmeticarichtlijn: [richtlijn 76/768/EEG](31976L0768) van de Raad van 27 juli 1976 betreffende de onderlinge aanpassing van de wetgevingen der lidstaten inzake cosmetische producten (PbEG L 262).
 
 ##### Artikel 2
 
@@ -74,17 +72,17 @@ Tatoeagekleurstoffen zijn zodanig samengesteld, hebben een zodanige hoedanigheid
 
 ##### Artikel 4
 
-1. Onverminderd [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015471&artikel=3&z=2003-09-03&g=2003-09-03), worden tatoeagekleurstoffen uitsluitend verhandeld indien zij:
+1. Onverminderd [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015471&artikel=3&z=2010-05-13&g=2010-05-13), worden tatoeagekleurstoffen uitsluitend verhandeld indien zij:
 
-- a. geen stoffen bevatten die de in [bijlage I bij dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0015471&bijlage=I&z=2003-09-03&g=2003-09-03) genoemde aromatische aminen kunnen vormen;
+- a. geen stoffen bevatten die de in [bijlage I bij dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0015471&bijlage=I&z=2010-05-13&g=2010-05-13) genoemde aromatische aminen kunnen vormen;
 
-- b. geen stoffen bevatten die voorkomen in [bijlage II bij dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0015471&bijlage=II&z=2003-09-03&g=2003-09-03);
+- b. geen stoffen bevatten die voorkomen in [bijlage II bij dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0015471&bijlage=II&z=2010-05-13&g=2010-05-13);
 
 - c. geen stoffen bevatten die voorkomen in bijlage II van de cosmeticarichtlijn;
 
 - d. geen stoffen bevatten die worden aangeduid in de toepassingsgebiedkolommen 2 tot en met 4 van bijlage IV van de cosmeticarichtlijn;
 
-- e. geen carcinogene, mutagene en reproductietoxische stoffen van categorie 1, 2 en 3 bevatten, die zijn ingedeeld onder de gevaarlijke stoffen richtlijn;
+- e. geen stoffen bevatten die als kankerverwekkend, mutageen of vergiftig voor de voortplanting zijn ingedeeld in categorie 1A, 1B en 2 in deel 3 van bijlage VI bij verordening (EG) nr. 1272/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 betreffende de indeling, etikettering en verpakking van stoffen en mengsels tot wijziging en intrekking van de Richtlijnen 67/548/EEG en 1999/45/EG en tot wijziging van Verordening (EG) nr. 1907/2006 (PbEU L 353);
 
 - f. geen conserveermiddelen bevatten; en
 
@@ -126,7 +124,7 @@ Wijzigt het [Warenwetbesluit bestuurlijke boeten](https://wetten.overheid.nl/jci
 
 ##### Artikel 8
 
-In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015471&artikel=2&z=2003-09-03&g=2003-09-03) mogen tatoeagekleurstoffen die niet voldoen aan [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015471&artikel=5&z=2003-09-03&g=2003-09-03), tot zeven maanden na inwerkingtreding van dit besluit worden verhandeld.
+In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015471&artikel=2&z=2010-05-13&g=2010-05-13) mogen tatoeagekleurstoffen die niet voldoen aan [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015471&artikel=5&z=2010-05-13&g=2010-05-13), tot zeven maanden na inwerkingtreding van dit besluit worden verhandeld.
 
 ##### Artikel 9
 
@@ -136,7 +134,7 @@ Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgi
 
 Dit besluit wordt aangehaald als: Warenwetbesluit tatoeagekleurstoffen.
 
-## Bijlage I. als bedoeld in [artikel 4 lid 1 onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015471&artikel=4&z=2003-09-03&g=2003-09-03) van het Warenwetbesluit tatoeagekleurstoffen
+## Bijlage I. als bedoeld in [artikel 4 lid 1 onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015471&artikel=4&z=2010-05-13&g=2010-05-13) van het Warenwetbesluit tatoeagekleurstoffen
 
 | CAS-nummer | Catalogusnummer | EG-nummer | Stoffen |
 | --- | --- | --- | --- |
@@ -163,7 +161,7 @@ Dit besluit wordt aangehaald als: Warenwetbesluit tatoeagekleurstoffen.
 | 90–04–4 | 612–035–00–4 | 201–963–1 | o-anisidine 2-methoxyaniline |
 | 60–09–3 |   |   | 4-aminoazobenzeen 4-amino-3-fluorphenol |
 
-## Bijlage II. als bedoeld in [artikel 4 lid 1 onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015471&artikel=4&z=2003-09-03&g=2003-09-03) van het Warenwetbesluit tatoeagekleurstoffen
+## Bijlage II. als bedoeld in [artikel 4 lid 1 onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015471&artikel=4&z=2010-05-13&g=2010-05-13) van het Warenwetbesluit tatoeagekleurstoffen
 
 | CAS-nummer | EG-nummer | mogelijke CI Naam |
 | --- | --- | --- |
