@@ -4,7 +4,7 @@ identifier: "BWBV0003243"
 country: "nl"
 rank: "verdrag"
 publication_date: "2025-01-01"
-last_updated: "2006-11-01"
+last_updated: "2010-05-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003243"
 soort: "verdrag"
@@ -86,7 +86,7 @@ Voor de toepassing van dit Verdrag en de daarbij behorende Bijlage wordt verstaa
 
 - c. De Secretaris-Generaal geeft alle Verdragsluitende Regeringen kennis van elke overeenkomstig het bepaalde in paragraaf b ontvangen mededeling, alsmede van de datum waarop de wijziging van kracht wordt.
 
-- d. De Verdragsluitende Regeringen die een wijziging niet aanvaarden worden niet door die wijziging gebonden, maar dienen de in [Artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&artikel=XIII&z=2006-11-01&g=2006-11-01) van dit Verdrag bepaalde procedure te volgen.
+- d. De Verdragsluitende Regeringen die een wijziging niet aanvaarden worden niet door die wijziging gebonden, maar dienen de in [Artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&artikel=XIII&z=2010-05-15&g=2010-05-15) van dit Verdrag bepaalde procedure te volgen.
 
 3. Een Conferentie van Verdragsluitende Regeringen ter bestudering van wijzigingen van de Bijlage wordt door de Secretaris-Generaal bijeengeroepen op verzoek van ten minste een derde van deze Regeringen. Elke wijziging die door deze Conferentie wordt aanvaard met tweederdemeerderheid van de aanwezige en hun stem uitbrengende Verdragsluitende Regeringen, wordt van kracht zes maanden na de datum waarop de Secretaris-Generaal de Verdragsluitende Regeringen in kennis stelt van het aanvaarden van de wijziging.
 
@@ -136,7 +136,7 @@ Drie jaar nadat dit Verdrag voor een Verdragsluitende Regering in werking is get
 
 - b. Met ingang van de datum waarop de kennisgeving is ontvangen of met ingang van een in de kennisgeving eventueel genoemde andere datum, geldt dit Verdrag eveneens voor het daarin genoemde gebied.
 
-- c. De bepalingen van [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&artikel=VIII&z=2006-11-01&g=2006-11-01) van dit Verdrag zijn van toepassing op elk gebied waartoe dit Verdrag overeenkomstig het bepaalde in dit artikel wordt uitgebreid; onder de uitdrukking „zijn eigen formaliteiten, documenten en procedures” dienen in dit geval mede te worden begrepen de voorschriften welke binnen dat gebied van kracht zijn.
+- c. De bepalingen van [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&artikel=VIII&z=2010-05-15&g=2010-05-15) van dit Verdrag zijn van toepassing op elk gebied waartoe dit Verdrag overeenkomstig het bepaalde in dit artikel wordt uitgebreid; onder de uitdrukking „zijn eigen formaliteiten, documenten en procedures” dienen in dit geval mede te worden begrepen de voorschriften welke binnen dat gebied van kracht zijn.
 
 - d. Dit Verdrag houdt op van toepassing te zijn voor een bepaald gebied, één jaar na ontvangst door de Secretaris-Generaal van een daartoe strekkende kennisgeving, of met ingang van een daarin bepaalde latere datum.
 
@@ -150,11 +150,11 @@ De Secretaris-Generaal stelt alle ondertekenende Regeringen, alle Verdragsluiten
 
 - b. de nederlegging van akten van aanvaarding en toetreding, alsmede de data waarop deze zijn nedergelegd;
 
-- c. de datum waarop het Verdrag overeenkomstig de bepalingen van [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&artikel=XI&z=2006-11-01&g=2006-11-01) in werking treedt;
+- c. de datum waarop het Verdrag overeenkomstig de bepalingen van [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&artikel=XI&z=2010-05-15&g=2010-05-15) in werking treedt;
 
-- d. eventuele kennisgevingen ontvangen overeenkomstig het bepaalde in de [artikelen XII](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&artikel=XII&z=2006-11-01&g=2006-11-01) en [XIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&artikel=XIII&z=2006-11-01&g=2006-11-01), alsmede de data waarop deze zijn ontvangen;
+- d. eventuele kennisgevingen ontvangen overeenkomstig het bepaalde in de [artikelen XII](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&artikel=XII&z=2010-05-15&g=2010-05-15) en [XIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&artikel=XIII&z=2010-05-15&g=2010-05-15), alsmede de data waarop deze zijn ontvangen;
 
-- e. de bijeenroeping van een conferentie op grond van de [artikelen VII](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&artikel=VII&z=2006-11-01&g=2006-11-01) of [IX](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&artikel=IX&z=2006-11-01&g=2006-11-01).
+- e. de bijeenroeping van een conferentie op grond van de [artikelen VII](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&artikel=VII&z=2010-05-15&g=2010-05-15) of [IX](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&artikel=IX&z=2010-05-15&g=2010-05-15).
 
 ##### Artikel XV
 
@@ -360,6 +360,8 @@ De volgende FAL-formulieren zijn opgesteld, zoals vervat in Aanhangsel 1:
 
 - •. vlaggenstaat van het schip
 
+- •. reisnummer
+
 - •. bijzonderheden met betrekking tot de registratie
 
 - •. bijzonderheden met betrekking tot de tonnage
@@ -402,6 +404,8 @@ De volgende FAL-formulieren zijn opgesteld, zoals vervat in Aanhangsel 1:
 
 - •. roepnaam
 
+- •. reisnummer
+
 - •. haven van laden
 
 - •. haven waar rapport is opgesteld
@@ -423,6 +427,8 @@ De volgende FAL-formulieren zijn opgesteld, zoals vervat in Aanhangsel 1:
 - •. naam van de gezagvoerder
 
 - •. roepnaam
+
+- •. reisnummer
 
 - •. haven van lossen
 
@@ -462,6 +468,8 @@ De volgende FAL-formulieren zijn opgesteld, zoals vervat in Aanhangsel 1:
 
 - •. roepnaam
 
+- •. reisnummer
+
 - •. achternaam
 
 - •. voornamen
@@ -480,13 +488,13 @@ De volgende FAL-formulieren zijn opgesteld, zoals vervat in Aanhangsel 1:
 
 2.6.2. **Norm.** Het openbaar gezag aanvaardt dat de bemanningslijst wordt gedateerd en ondertekend door de gezagvoerder of een andere scheepsofficier die daartoe door de gezagvoerder naar behoren is gemachtigd, dan wel wordt gelegaliseerd op een wijze die aanvaardbaar is voor het desbetreffende openbaar gezag.
 
-2.6.3. **Norm.** Het openbaar gezag verlangt in de regel niet dat er telkens wanneer een schip een haven aandoet een bemanningslijst wordt ingediend in gevallen waarin een schip, dat een regelmatige dienst onderhoudt, ten minste eenmaal per 14 dagen dezelfde haven aandoet en er geen verandering in de samenstelling van de bemanning heeft plaatsgevonden. In dit geval wordt een verklaring van „geen wijziging” overgelegd op een wijze die aanvaardbaar is voor het desbetreffende openbaar gezag.
+2.6.3. **Niet in gebruik**
 
 2.6.4. **Aanbevolen werkwijze.** Indien de in norm 2.6.3 genoemde omstandigheden van toepassing zijn, maar er kleine veranderingen in de samenstelling van de bemanning hebben plaatsgevonden, zou het openbaar gezag in de regel niet moeten verlangen dat er een nieuwe, complete bemanningslijst wordt ingediend maar zou het de bestaande bemanningslijst met daarop aangegeven de wijzigingen moeten aanvaarden.
 
 2.7. **Norm.** De passagierslijst is het basisdocument dat het openbaar gezag verlangt bij aankomst of vertrek van een schip en dat gegevens bevat met betrekking tot de passagiers.
 
-2.7.1. **Aanbevolen werkwijze.** Het openbaar gezag zou geen passagierslijsten mogen verlangen wanneer deze betrekking hebben op korte zeereizen of gecombineerde scheeps- en treinreizen tussen aan elkaar grenzende landen.
+2.7.1. **Niet in gebruik**
 
 2.7.2. **Aanbevolen werkwijze.** Het openbaar gezag zou naast de passagierslijsten geen inschepings- of ontschepingskaarten moeten verlangen met betrekking tot passagiers wier namen op die lijsten voorkomen. Indien het openbaar gezag evenwel met bijzondere problemen geconfronteerd wordt die een ernstige bedreiging inhouden voor de volksgezondheid, kan van een persoon op een internationale zeereis bij aankomst verlangd worden dat hij zijn adres van bestemming schriftelijk mededeelt.
 
@@ -498,6 +506,8 @@ De volgende FAL-formulieren zijn opgesteld, zoals vervat in Aanhangsel 1:
 
 - •. vlaggenstaat van het schip
 
+- •. reisnummer
+
 - •. achternaam
 
 - •. voornamen
@@ -508,9 +518,9 @@ De volgende FAL-formulieren zijn opgesteld, zoals vervat in Aanhangsel 1:
 
 - •. geboorteplaats
 
-- •. soort identiteitsbewijs dat door de passagier wordt overgelegd
+- •. soort identiteitsbewijs of reisdocument dat door de passagier wordt overgelegd
 
-- •. serienummer van het identiteitsbewijs
+- •. serienummer van het identiteitsbewijs of reisdocument
 
 - •. haven van inscheping
 
@@ -538,7 +548,7 @@ De volgende FAL-formulieren zijn opgesteld, zoals vervat in Aanhangsel 1:
 
 - •. naam van de gezagvoerder
 
-- •. reisreferentie
+- •. Reisnummer
 
 - •. haven van laden
 
@@ -574,9 +584,11 @@ De volgende FAL-formulieren zijn opgesteld, zoals vervat in Aanhangsel 1:
 
 - •. noodmaatregelen en procedures (EmS)
 
-- •. plaats waar lading aan boord is gestuwd.
+- •. plaats waar lading aan boord is gestuwd
 
-2.9. **Norm.** Het openbaar gezag verlangt bij aankomst of vertrek van het schip geen andere schriftelijke verklaring met betrekking tot poststukken anders dan de verklaring vereist volgens het Algemeen Postverdrag, op voorwaarde dat laatstgenoemde verklaring ook daadwerkelijk wordt overgelegd. Bij het ontbreken van een dergelijk document dienen de poststukken (aantal en gewicht) te worden vermeld op de aangifte van de lading.
+- •. Aanvullende informatie.
+
+2.9. **Norm.** Het openbaar gezag verlangt bij aankomst of vertrek van het schip geen andere schriftelijke verklaring met betrekking tot poststukken anders dan de verklaring vereist volgens het [Algemeen Postverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004090), op voorwaarde dat laatstgenoemde verklaring ook daadwerkelijk wordt overgelegd. Bij het ontbreken van een dergelijk document dienen de poststukken (aantal en gewicht) te worden vermeld op de aangifte van de lading.
 
 2.10. **Norm.** De maritieme gezondheidsverklaring is het basisdocument dat de door de havengezondheidsdienst verlangde gegevens bevat die betrekking hebben op de gezondheidstoestand aan boord van een schip gedurende de reis en bij aankomst in een haven.
 
@@ -676,13 +688,13 @@ De volgende FAL-formulieren zijn opgesteld, zoals vervat in Aanhangsel 1:
 
 3.3.1. **Norm.** Elke Verdragsluitende Regering verzekert dat het openbaar gezag frauduleuze, vervalste of nagemaakte reisdocumenten van personen die niet toegelaten kunnen worden, in beslag neemt. Deze documenten worden uit de roulatie genomen en zo mogelijk teruggezonden aan de bevoegde autoriteiten. De Staat die een document uit de roulatie neemt, geeft in plaats van dat document een begeleidende brief6)In aanhangsel 2 is een mogelijk format voor een begeleidende brief gegeven.af, en voegt daarbij een fotokopie van de vervalste reisdocumenten, indien beschikbaar, alsmede eventueel belangrijke informatie. De begeleidende brief en de bijlagen erbij worden afgegeven aan de exploitant die zorgt draagt voor de verwijdering van de persoon die niet toegelaten kan worden. De brief dient tot het verstrekken van informatie aan de autoriteiten op het transitopunt en/of het punt waar de betrokkene aan boord is gegaan.
 
-**Noot:**Bovenstaande norm mag niet zodanig worden uitgelegd dat hierdoor afbreuk wordt gedaan aan het recht van het openbaar gezag van de Verdragsluitende Regeringen om te bepalen of, afhankelijk van het afzonderlijke geval, het bezit van frauduleuze documenten op zichzelf al dan niet een reden vormt voor het weigeren van de toelating en voor de onmiddellijke verwijdering van het grondgebied van de betrokken Staat. Geen van de bepalingen van deze norm mag worden uitgelegd als zijnde in tegenspraak met het Verdrag van de Verenigde Naties van 28 juli 1951 betreffende de status van vluchtelingen en die van het Protocol van de Verenigde Naties van 31 januari 1967 betreffende de status van vluchtelingen, waarin het uitzetten of het teruggeleiden van een vluchteling wordt verboden.
+**Noot:**Bovenstaande norm mag niet zodanig worden uitgelegd dat hierdoor afbreuk wordt gedaan aan het recht van het openbaar gezag van de Verdragsluitende Regeringen om te bepalen of, afhankelijk van het afzonderlijke geval, het bezit van frauduleuze documenten op zichzelf al dan niet een reden vormt voor het weigeren van de toelating en voor de onmiddellijke verwijdering van het grondgebied van de betrokken Staat. Geen van de bepalingen van deze norm mag worden uitgelegd als zijnde in tegenspraak met het [Verdrag van de Verenigde Naties van 28 juli 1951 betreffende de status van vluchtelingen](https://wetten.overheid.nl/jci1.3:c:BWBV0001002) en die van het [Protocol van de Verenigde Naties van 31 januari 1967 betreffende de status van vluchtelingen](onbekend), waarin het uitzetten of het teruggeleiden van een vluchteling wordt verboden.
 
 3.3.2. **Norm.** De Verdragsluitende Regeringen moeten een persoon ter controle accepteren die van zijn punt van ontscheping is teruggezonden nadat hem de toegang is geweigerd indien deze persoon zich op hun grondgebied had ingescheept. De Verdragsluitende Regeringen mogen deze persoon niet terugzenden naar het land waar hem eerder de toegang was geweigerd.
 
 **Noot 1:** Deze bepaling is niet bedoeld om het openbaar gezag ervan te weerhouden personen wie de toegang is geweigerd en die zijn teruggezonden, aan nadere controles te onderwerpen teneinde vast te stellen of zij uiteindelijk kunnen worden toegelaten op het grondgebied van de Staat of maatregelen te nemen teneinde hen over te brengen, terug te zenden of uit te wijzen naar een Staat waarvan zij de nationaliteit bezitten of waarin zij worden toegelaten. Indien een persoon wie de toegang is geweigerd, zijn reisdocument heeft verloren of vernietigd, aanvaardt de betrokken Verdragsluitende Regering in plaats daarvan een document waaruit blijkt onder welke omstandigheden deze persoon zich heeft ingescheept of is aangekomen, welk document is afgegeven door het openbaar gezag van de Verdragsluitende Regering in het land waar deze persoon de toegang is geweigerd.
 
-**Noot 2:** Het bepaalde in deze norm of in noot 1 mag niet worden uitgelegd als in tegenspraak met het Verdrag van de Verenigde Naties van 28 juli 1951 betreffende de status van vluchtelingen en van het Protocol van de Verenigde Naties van 31 januari 1967 betreffende de status van vluchtelingen, waarin het uitzetten of het teruggeleiden van een vluchteling wordt verboden.
+**Noot 2:** Het bepaalde in deze norm of in noot 1 mag niet worden uitgelegd als in tegenspraak met het [Verdrag van de Verenigde Naties van 28 juli 1951 betreffende de status van vluchtelingen](https://wetten.overheid.nl/jci1.3:c:BWBV0001002) en van het [Protocol van de Verenigde Naties van 31 januari 1967 betreffende de status van vluchtelingen](onbekend), waarin het uitzetten of het teruggeleiden van een vluchteling wordt verboden.
 
 3.3.3. **Norm.** Voordat passagiers en bemanning worden aanvaard teneinde te onderzoeken of zij kunnen worden toegelaten tot de Staat, blijven zij onder de verantwoordelijkheid van de reder vallen.
 
@@ -690,7 +702,7 @@ De volgende FAL-formulieren zijn opgesteld, zoals vervat in Aanhangsel 1:
 
 3.3.5. **Norm.** De verplichting van een reder om een persoon buiten het grondgebied van een Staat te brengen, eindigt zodra die persoon definitief is toegelaten tot die Staat.
 
-3.3.6. **Norm.** Wanneer een persoon de toegang is geweigerd, wordt de reder daarvan door het openbaar gezag, zonder onredelijke vertraging, op de hoogte gebracht, en geraadpleegd over de regelingen voor verwijdering. De reder is verantwoordelijk voor de kosten van verwijdering van een persoon die niet kan worden toegelaten en de reder is, in het geval een persoon weer wordt overgedragen aan de reder, verantwoordelijk voor de onverwijlde verwijdering van deze persoon naar:
+3.3.6. **Norm.** Wanneer een persoon de toegang is geweigerd, wordt de reder daarvan door het openbaar gezag, zonder onredelijke vertraging, op de hoogte gebracht, en geraadpleegd over de regelingen voor verwijdering. De reder is verantwoordelijk voor de kosten van verblijf en verwijdering van een persoon die niet kan worden toegelaten en de reder is, in het geval een persoon weer wordt overgedragen aan de reder, verantwoordelijk voor de onverwijlde verwijdering van deze persoon naar:
 
 - •. het land van inscheping; of
 
@@ -736,7 +748,7 @@ De volgende FAL-formulieren zijn opgesteld, zoals vervat in Aanhangsel 1:
 
 3.9.2. **Aanbevolen werkwijze.** In gevallen waarin controle van de reisbagage van vertrekkende passagiers niet geheel achterwege kan worden gelaten, zou de controle in de regel door middel van steekproeven of door selectie moeten worden uitgevoerd.
 
-3.10. **Norm.** Een geldig identiteitsbewijs voor zeevarenden of een paspoort is het basisdocument dat het openbaar gezag gegevens verstrekt met betrekking tot elk van de bemanningsleden bij aankomst of vertrek van het schip.
+3.10. **Norm**. Een paspoort of een identiteitsbewijs afgegeven in overeenstemming met de relevante ILO-verdragen, of een geldig en naar behoren erkend identiteitsbewijs voor zeevarenden, zijn de basisdocumenten die het openbaar gezag gegevens verstrekken met betrekking tot elk van de bemanningsleden bij aankomst of vertrek van een schip.
 
 3.10.1. **Norm.** Het openbaar gezag eist niet dat het identiteitsbewijs voor zeevarenden meer bevat dan de volgende gegevens:
 
@@ -802,9 +814,9 @@ aanvaardt het openbaar gezag in plaats van een paspoort een geldig identiteitsbe
 
 3.13. **Aanbevolen werkwijze.** Bij het invullen van documenten die betrekking hebben op passagiers en bemanning zou men de achternaam of -namen voorop moeten zetten. Wanneer zowel de achternaam van de vader als die van de moeder wordt gebruikt, zou de achternaam van de vader het eerst moeten worden vermeld. Wanneer voor gehuwde vrouwen zowel de achternaam van de man als die van de vrouw worden gebruikt, zou de achternaam van de man het eerst moeten worden vermeld.
 
-3.14. **Norm.** Het openbaar gezag laat, zonder onredelijke vertraging, personen aan boord van een schip toe voor een onderzoek om na te gaan of zij toegelaten kunnen worden tot de desbetreffende Staat.
+3.14. **Norm.** Het openbaar gezag laat, zonder onredelijke vertraging, personen aanwezig aan boord van een schip toe voor een onderzoek om na te gaan of zij toegelaten kunnen worden tot de desbetreffende Staat.
 
-3.15. **Norm.** Het openbaar gezag legt de reders geen boete op in het geval dat een document in het bezit van een passagier door het openbaar gezag niet in orde wordt bevonden of wanneer de passagier om die reden niet tot de desbetreffende Staat kan worden toegelaten.
+3.15. **Aanbevolen werkwijze**. Het openbaar gezag zou de reders geen onredelijke of buitensporige boete moeten opleggen in het geval dat een controledocument in het bezit van een passagier door het openbaar gezag niet in orde wordt bevonden of wanneer de passagier om die reden niet tot de desbetreffende Staat kan worden toegelaten.
 
 3.15.1. **Norm.** Het openbaar gezag moedigt reders aan bij het punt van inscheping voorzorgsmaatregelen te nemen teneinde te waarborgen dat passagiers in het bezit zijn van de controledocumenten die worden voorgeschreven door de ontvangende Staten of Staten van doortocht.
 
@@ -826,7 +838,7 @@ aanvaardt het openbaar gezag in plaats van een paspoort een geldig identiteitsbe
 
 3.20. **Norm.** Het openbaar gezag staat toe dat een cruiseschip per radio toestemming tot ontscheping wordt gegeven wanneer, op basis van de informatie die voorafgaand aan de aankomst is verstrekt, de gezondheidsdienst die zal worden aangedaan van mening is dat de komst van het schip niet tot gevolg zal hebben dat ziekten waarvoor quarantainevoorschriften gelden worden ingevoerd of verbreid.
 
-3.21. **Norm.** De generale verklaring, passagierslijst en bemanningslijst worden bij cruiseschepen slechts bij de eerste haven van aankomst en laatste haven van vertrek van een land verlangd, op voorwaarde dat de omstandigheden van de reis onveranderd zijn gebleven.
+3.21. **Aanbevolen werkwijze**. De generale verklaring, passagierslijst en bemanningslijst zouden bij cruiseschepen slechts bij de eerste haven van aankomst en laatste haven van vertrek van een land moeten worden verlangd, op voorwaarde dat de omstandigheden van de reis onveranderd zijn gebleven.
 
 3.22. **Norm.** De aangifte van de scheepsvoorraad en de aangifte van de persoonlijke eigendommen van de bemanning worden slechts in de eerste haven van aankomst van een land verlangd.
 
@@ -856,15 +868,7 @@ aanvaardt het openbaar gezag in plaats van een paspoort een geldig identiteitsbe
 
 3.34. **Norm.** Inschepings-/ontschepingskaarten zijn niet nodig voor passagiers van cruiseschepen.
 
-3.35. **Aanbevolen werkwijze.** Behalve wanneer de passagierscontrole uitsluitend op basis van de passagierslijst wordt uitgevoerd, zou het openbaar gezag niet het invullen van de volgende gegevens op de passagierslijst moeten verlangen:
-
-- •. nationaliteit (kolom 6)
-
-- •. geboortedatum en -plaats (kolom 7)
-
-- •. haven van inscheping (kolom 8)
-
-- •. haven van ontscheping (kolom 9).
+3.35. **Niet in gebruik**
 
 ##### E. Bijzondere faciliterende maatregelen voor passagiers op doorreis
 
