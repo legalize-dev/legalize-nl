@@ -4,7 +4,7 @@ identifier: "BWBR0029695"
 country: "nl"
 rank: "wet"
 publication_date: "2015-03-15"
-last_updated: "2009-09-01"
+last_updated: "2010-05-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029695"
 soort: "wet"
@@ -49,7 +49,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Zorgverzekeringswet.
 
 ##### Artikel III
 
@@ -81,7 +81,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+1. Beschikkingen tot oplegging van een boete als bedoeld in [artikel 96 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=96), zoals dat artikel luidde op de dag voorafgaande aan de datum van inwerkingtreding van dit artikel, worden ingetrokken indien op eerstbedoelde dag tegen deze beschikkingen nog bezwaar of beroep kon worden ingesteld dan wel indien op die dag bezwaar of beroep was ingesteld en nog niet op dat bezwaar of beroep was beslist.
+
+2. Beschikkingen tot oplegging van een boete als bedoeld in [artikel 69 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69), zoals dat artikel luidde op de dag voorafgaande aan de datum van inwerkingtreding van dit artikel, worden herzien indien op eerstbedoelde dag tegen deze beschikkingen nog bezwaar of beroep kon worden ingesteld dan wel indien op die dag bezwaar of beroep was ingesteld en nog niet op dat bezwaar of beroep was beslist, en een boete op grond van dat artikel zoals dat na inwerkingtreding van [artikel II, onderdeel P](https://wetten.overheid.nl/jci1.3:c:BWBR0029695&artikel=II&z=2011-03-15&g=2010-05-18) luidt voor de overtreder tot een lager boetebedrag leidt dan de opgelegde boete.
 
 ##### Artikel XI
 
