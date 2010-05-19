@@ -4,7 +4,7 @@ identifier: "BWBR0026914"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-05-04"
-last_updated: "2010-04-15"
+last_updated: "2010-05-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026914"
 soort: "ministeriele-regeling"
@@ -152,7 +152,7 @@ Besluit:
 | 5.2 | Subsidieregeling energie en innovatie (EOS: korte termijn) | 2.2.2 | Andere projecten dan haalbaarheidsstudies | 01-01 t/m 26-08 | 8.000.000 |
 |   |   |   | Haalbaarheidsstudies | 11-02 t/m 14-10 | 800.000 |
 | 5.3 | Subsidieregeling energie en innovatie (EOS: demonstratie) | 2.3.2 |   | 01-01 t/m 08-04 | 7.200.000 |
-| 5.4 | Subsidieregeling energie en innovatie (Duurzame biomassa-import) | 3.2.2 |   |   |   |
+| 5.4 | Subsidieregeling energie en innovatie (Duurzame biomassa-import) | 3.2.2 |   | 10-05 t/m 05-08 | 4.348.000 |
 | 5.5 | Subsidieregeling energie en innovatie (Programma industriële warmtebenutting) | 3.8.2. | Haalbaarheidsonderzoek warmtereductie | Datum van inwerkingtreding van artikel 3.8.2 t/m 29-10 | 2.500.000 |
 | 5.6 | Subsidieregeling energie en innovatie (Programma industriële warmtebenutting) | 3.8.8 | Investeringprojecten industriële warmtebenutting | 15-03 t/m 19-08 | 8.000.000 |
 | 5.7 | Subsidieregeling energie en innovatie (Effectieve en efficiënte vergistingketen) | 3.9.2 | Pilotprojecten vergistingketen | 10-06 t/m 02-09 | 3.000.000 |
@@ -181,6 +181,7 @@ Besluit:
 | 2 | Subsidieregeling energie en innovatie (Investeringen voor verlaging elektriciteitsaansluiting van warmtepomphouders) | 3.3.2 |   | 01-09-2009 t/m 15-12-2010 | 4.290.000 |
 | 3 | Subsidieregeling energie en innovatie (Risico’s dekken voor aardwarmte) | 3.4.2 |   | 03-11-2009 t/m 01-05-2010 | 35.700.000 |
 | 4 | Subsidieregeling energie en innovatie (Voorbereidingsstudies en demonstratieprojecten vergassing) | 3.6.2, eerste lid | Voorbereidingsstudies | 20-11-2009 t/m 31-03-2010 | 200.000 |
+|   |   | 3.6.2, tweede lid | Demonstratieprojecten | 10-5 t/m 30-9 | 12.650.000 |
 | 5 | Subsidieregeling energie en innovatie (Experimenteerregeling Wind op Zee) | 3.7.2 |   | 19-11-2009 t/m 28-01-2010 | 9.000.000 |
 
 ##### Artikel 3
