@@ -4,7 +4,7 @@ identifier: "BWBR0026914"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-05-04"
-last_updated: "2010-05-19"
+last_updated: "2010-05-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026914"
 soort: "ministeriele-regeling"
@@ -58,9 +58,9 @@ Besluit:
 | 1.4 | Subsidieregeling starten, groeien en overdragen van ondernemingen (Tijdelijke garantie ondernemingsfinanciering en Garantstelling gericht op bankgaranties) | – 3.12b – 3.12v |   | – 01-01 t/m 31-12 – 08-03 t/m 31-12 | 500.000.000 |
 | 1.5 | Subsidieregeling starten, groeien en overdragen van ondernemingen (Tijdelijke garantie ondernemingsfaciliteit curatieve zorg) | 3.12m |   | 01-01 t/m 22-10 | 150.000.000 |
 | 1.6 | Subsidieregeling starten, groeien en overdragen van ondernemingen (seed capital technostarters) | 4.3 |   | 01-01 t/m 31-03 | 12.000.000 |
-| 1.7 | Subsidieregeling starten, groeien en overdragen van ondernemingen (kennisexploitatie) | 5.2 |   |   |   |
+| 1.7 | Subsidieregeling Starten, groeien en overdragen van ondernemingen (Valorisatieprogramma) | 5.2 |   | 1-6 t/m 31-12 | € 25.000.000 |
 | 1.8 | Subsidieregeling starten, groeien en overdragen van ondernemingen (ondernemerschapsonderwijsprojecten) | 6.2 |   |   |   |
-| 1.9 | Subsidieregeling starten, groeien en overdragen van ondernemingen (Centres of Entrepreneurship) | 6.12 |   |   |   |
+| 1.9 | Vervallen |   |   |   |   |
 | 1.10 | Subsidieregeling starten, groeien en overdragen van ondernemingen (beroepsonderwijs in bedrijf) | 7.2 |   | 01-01 t/m 01-11 | 12.000.000 |
 | 1.11 | Subsidieregeling starten, groeien en overdragen van ondernemingen (borgstelling scheepsnieuwbouw) | 8.3 |   | 01-01 t/m 31-12 | 1.000.000.000 |
 | 1.12 | Subsidieregeling starten, groeien en overdragen van ondernemingen (veiligheid kleine bedrijven) | 9.2 |   | 16-03 t/m 01-12 | 7.700.000 |
