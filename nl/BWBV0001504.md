@@ -4,7 +4,7 @@ identifier: "BWBV0001504"
 country: "nl"
 rank: "verdrag"
 publication_date: "2013-07-19"
-last_updated: "2008-11-21"
+last_updated: "2010-05-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001504"
 soort: "verdrag"
@@ -242,7 +242,9 @@ Betreft de Nederlandse tekst van het Statuut en het Verdrag van de International
 
 ##### Artikel 11. Algemeen Secretariaat
 
-**73** 1. 1) Het Algemeen Secretariaat wordt bestuurd door een Secretaris-Generaal, die wordt bijgestaan door één plaatsvervangend Secretaris-Generaal.
+**73** 1. 1) Het Algemeen Secretariaat wordt bestuurd door een Secretaris-Generaal, die wordt bijgestaan door één plaatsvervangend Secretaris-Generaal;
+
+**73** **bis** De Secretaris-Generaal treedt op als wettelijk vertegenwoordiger van de Unie.
 
 **73A PP-98** 2) De taken van de Secretaris-Generaal worden in het Verdrag vermeld. Daarnaast is de Secretaris-Generaal belast met:
 
@@ -250,9 +252,9 @@ Betreft de Nederlandse tekst van het Statuut en het Verdrag van de International
 
 **74A PP-98** **b.** het samenstellen, met behulp van het Coördinatiecomité, en aan de Lidstaten en Sectorleden verstrekken van die specifieke informatie welke benodigd is voor de opstelling van een rapport inzake het beleid en het strategisch plan voor de Unie en het coördineren van de uitvoering van het plan; dit verslag wordt ter toetsing gedurende de laatste twee regulier geplande zittingen van de Raad voor een plenipotentiaire conferentie aan de Lidstaten en Sectorleden medegedeeld;
 
-**75 PP-98** c. het nemen van alle maatregelen die nodig zijn om het economisch gebruik van de middelen van de Unie te waarborgen en het afleggen van verantwoording aan de Raad voor alle administratieve en financiële aspecten van de activiteiten van de Unie;
+**75 PP-98** c. het nemen van alle maatregelen die nodig zijn om het economisch gebruik van de middelen van de Unie te waarborgen en het afleggen van verantwoording aan de Raad voor alle administratieve en financiële aspecten van de activiteiten van de Unie.
 
-**76 PP-98** d. het optreden als wettelijk vertegenwoordiger van de Unie.
+**76 PP-98** vervallen.
 
 **76A PP-98** 3) De Secretaris-Generaal kan optreden als depositaris van bijzondere regelingen, opgesteld in overeenstemming met artikel 42 van dit Statuut.
 
@@ -294,9 +296,9 @@ Betreft de Nederlandse tekst van het Statuut en het Verdrag van de International
 
 **89** 1. Een mondiale radiocommunicatieconferentie kan het Radioreglement gedeeltelijk of, in uitzonderlijke gevallen, volledig herzien en kan elke aangelegenheid van mondiale aard behandelen die binnen haar bevoegdheid valt en betrekking heeft op haar agenda; de overige taken van de Conferentie zijn vermeld in het Verdrag.
 
-**90 PP-98** 2. Mondiale radiocommunicatieconferenties worden normaliter eens in de twee of drie jaar bijeengeroepen; overeenkomstig de desbetreffende bepalingen van het Verdrag hoeft een dergelijke Conferentie evenwel niet bijeen te worden geroepen of kan een extra Conferentie worden bijeengeroepen.
+**90 PP-98** 2 Mondiale radiocommunicatieconferenties worden normaliter eens in de drie of vier jaar bijeengeroepen; overeenkomstig de toepassing van de desbetreffende bepalingen van het Verdrag hoeft een dergelijke Conferentie evenwel niet bijeen te worden geroepen of kan een extra Conferentie worden bijeengeroepen.
 
-**91 PP-98** 3. Radiocommunicatie-assemblees worden eveneens normaliter eens in de twee of drie jaar bijeengeroepen en kunnen qua plaats en tijdstip worden afgestemd op mondiale conferenties voor radiocommunicatie ter vergroting van de doelmatigheid en doeltreffendheid van de Radiocommunicatiesector. Radiocommunicatie-assemblees verschaffen de nodige technische basis voor de werkzaamheden van de mondiale conferenties voor radiocommunicatie en geven gevolg aan alle verzoeken van mondiale conferenties voor radiocommunicatie. De taken van de radiocommunicatie-assemblees zijn vermeld in het Verdrag.
+**91 PP-98** 3 Radiocommunicatie-assemblees worden eveneens normaliter eens in de drie of vier jaar bijeengeroepen en kunnen qua plaats en tijdstip worden afgestemd op mondiale radiocommunicatieconferenties ter verbetering van de doelmatigheid en doeltreffendheid van de Radiocommunicatiesector. Radiocommunicatie-assemblees verschaffen de nodige technische bases voor de werkzaamheden van de mondiale radiocommunicatieconferenties en geven gevolg aan alle verzoeken van mondiale radiocommunicatieconferenties. De taken van de radiocommunicatie-assemblees zijn vermeld in het Verdrag.
 
 **92 PP-98** 4. De besluiten van een mondiale radiocommunicatieconferentie, van een radiocommunicatie-assemblee en van een regionale radiocommunicatieconferentie moeten in alle gevallen in overeenstemming zijn met dit Statuut en met het Verdrag. De besluiten van een radiocommunicatie-assemblee of van een regionale radiocommunicatieconferentie moeten ook in alle gevallen in overeenstemming zijn met het Radioreglement. Bij de aanneming van resoluties en besluiten houden de conferenties rekening met de voorzienbare financiële gevolgen en moeten zij ervoor waken resoluties en besluiten aan te nemen die kunnen leiden tot uitgaven die de door de Plenipotentiaire Conferentie vastgestelde financiële grenzen overschrijden.
 
@@ -498,11 +500,11 @@ Betreft de Nederlandse tekst van het Statuut en het Verdrag van de International
 
 **161B PP-98** 3bis 1) Tijdens zijn zitting voorafgaand aan de Plenipotentiaire Conferentie stelt de Raad het voorlopige bedrag van de contributie-eenheid vast, op basis van het voorlopige financiële plan voor de desbetreffende periode en het totale aantal contributie-eenheden.
 
-**161C PP-98** 2) De Secretaris-Generaal brengt de Lidstaten en Sectorleden op de hoogte van het voorlopige bedrag van de contributie-eenheid zoals vastgesteld ingevolge nummer 161B en verzoekt de Lidstaten, uiterlijk een week voorafgaand aan de vastgestelde datum voor de opening van de Plenipotentiaire Conferentie, de door hen voorlopig gekozen contributieklasse bekend te maken.
+**161C PP-98** 2) De Secretaris-Generaal brengt de Lidstaten en Sectorleden op de hoogte van het voorlopige bedrag van de contributie-eenheid zoals vastgesteld ingevolge nummer 161B en verzoekt de Lidstaten, uiterlijk vier weken voorafgaand aan de vastgestelde datum voor de opening van de Plenipotentiaire Conferentie, de door hen voorlopig gekozen contributieklasse bekend te maken.
 
 **161D PP-98** 3) De Plenipotentiaire Conferentie stelt, in haar eerste week, de voorlopige bovengrens van het bedrag van de contributie-eenheid vast dat resulteert uit de door de Secretaris-Generaal ingevolge de nummers 161B en 161C genomen stappen, en waarbij rekening wordt gehouden met de door de Lidstaten aan de Secretaris-Generaal bekendgemaakte wijzigingen van de contributieklasse alsmede met contributieklassen die ongewijzigd zijn gebleven.
 
-**161E PP-98** 4) Aan de hand van het voorlopige financiële plan zoals herzien, stelt de Plenipotentiaire Conferentie zo spoedig mogelijk de definitieve bovengrens van het bedrag van de contributie-eenheid vast en stelt zij een datum vast, die valt binnen de voorlaatste week van de Plenipotentiaire Conferentie, waarop de Lidstaten, op verzoek van de Secretaris-Generaal, hun definitieve keuze van de contributieklasse bekendmaken.
+**161E PP-98 PP-02** 4) Aan de hand van het voorlopige financiële plan zoals herzien, stelt de Plenipotentiaire Conferentie zo spoedig mogelijk de definitieve bovengrens van het bedrag van de contributie-eenheid vast en stelt zij een datum vast, die valt uiterlijk op de maandag van de laatste week van de Plenipotentiaire Conferentie, waarop de Lidstaten, op verzoek van de Secretaris-Generaal, hun definitieve keuze van de contributieklasse bekendmaken.
 
 **161F PP-98** 5) Lidstaten die hebben verzuimd de Secretaris-Generaal op de door de Plenipotentiaire Conferentie vastgestelde datum van hun besluit kennis te geven, behouden de eerder gekozen contributieklasse.
 
@@ -534,7 +536,7 @@ Betreft de Nederlandse tekst van het Statuut en het Verdrag van de International
 
 ##### Artikel 29. Talen
 
-**171** 1. 1) De officiële talen en werktalen van de Unie zijn het Arabisch, het Chinees, het Engels, het Frans, het Russisch en het Spaans.
+**171** 1 1) De officiële talen van de Unie zijn het Arabisch, het Chinees, het Engels, het Frans, het Russisch en het Spaans.
 
 **172** 2) In overeenstemming met de relevante besluiten van de Plenipotentiaire Conferentie, worden deze talen gebruikt voor het opstellen en publiceren van documenten en teksten van de Unie, in versies die qua vorm en inhoud gelijkwaardig zijn, alsmede voor het tolken over en weer gedurende de conferenties en vergaderingen van de Unie.
 
@@ -1314,9 +1316,9 @@ Betreft de Nederlandse tekst van het Statuut en het Verdrag van de International
 
 **215B PP-98** 4. Telecommunicatie-ontwikkelingsstudiegroepen bestuderen vraagstukken en stellen ontwerpaanbevelingen op die moeten worden aangenomen in overeenstemming met de in de nummers 246A tot en met 247 van dit Verdrag vervatte procedures.
 
-##### Artikel 17A. PP-98 Telecommunicatie-ontwikkelingsadviesgroep
+##### Artikel 17A. Telecommunicatie-ontwikkelingsadviesgroep
 
-**215C PP-98** 1. De telecommunicatie-ontwikkelingsadviesgroep staat open voor vertegenwoordigers van administraties van Lidstaten en vertegenwoordigers van Sectorleden en voor voorzitters en vice-voorzitters van studiegroepen en andere groepen.
+**215C**1 De telecommunicatie-ontwikkelingsadviesgroep staat open voor vertegenwoordigers van de administraties van Lidstaten en vertegenwoordigers van Sectorleden en voor voorzitters en vice-voorzitters van studiegroepen en andere groepen, en treedt op via de directeur.
 
 **215D PP-98** 2. De telecommunicatie-ontwikkelingsadviesgroep:
 
@@ -1907,7 +1909,7 @@ beide zoals omschreven in de Administratieve Reglementen. De bepalingen inzake t
 
 **12 PP-98** b) wanneer een Lidstaat afziet van zijn lidmaatschap van de Raad neerlegt.
 
-**13** 1. De Secretaris-Generaal, de plaatsvervangend Secretaris-Generaal en de directeuren van de Bureaus aanvaarden hun taken op de tijdens hun verkiezing door de Plenipotentiaire Conferentie vastgestelde datum. Zij blijven normaliter in functie tot de door de volgende Plenipotentiaire Conferentie vastgestelde datum en zij zijn eenmaal herverkiesbaar.
+**13** 1 De Secretaris-Generaal, de plaatsvervangend Secretaris-Generaal en de directeuren van de Bureaus aanvaarden hun taken op de tijdens hun verkiezing door de Plenipotentiaire Conferentie vastgestelde datum. Zij blijven normaliter in functie tot de door de volgende Plenipotentiaire Conferentie vastgestelde datum en zijn slechts eenmaal voor dezelfde functie herverkiesbaar. Onder herverkiezing wordt uitsluitend de mogelijkheid van een tweede termijn verstaan, ongeacht of deze al dan niet aansluit op de eerste termijn.
 
 **14** 2. Indien de functie van de Secretaris-Generaal vacant wordt, neemt de plaatsvervangend Secretaris-Generaal deze over en blijft hij in functie tot een door de volgende Plenipotentiaire Conferentie vastgestelde datum. Wanneer de plaatsvervangend Secretaris-Generaal de Secretaris-Generaal op deze wijze opvolgt, wordt de functie van de plaatsvervangend Secretaris-Generaal geacht vacant te worden op diezelfde datum en worden de bepalingen van nummer 15 toegepast.
 
@@ -1921,7 +1923,7 @@ beide zoals omschreven in de Administratieve Reglementen. De bepalingen inzake t
 
 **19** 7. De ambtstermijn van een functionaris die op grond van een benoeming ingevolge de nummers 14 tot en met 18 op de functie van een gekozen functionaris is benoemd, laat de mogelijkheid tot verkiezing of herverkiezing voor een dergelijke functie onverlet.
 
-**20** 1. De leden van de Radioreguleringsraad aanvaarden hun taken op de tijdens hun verkiezing door de Plenipotentiaire Conferentie vastgestelde datum. Zij blijven in functie tot de door de volgende Plenipotentiaire Conferentie vastgestelde datum en zij zijn slechts eenmaal herverkiesbaar.
+**20** 1 De leden van de Radioreguleringsraad aanvaarden hun taken op de tijdens hun verkiezing door de Plenipotentiaire Conferentie vastgestelde datum. Zij blijven in functie tot de door de volgende Plenipotentiaire Conferentie vastgestelde datum en zijn slechts eenmaal herverkiesbaar. Onder herverkiezing wordt uitsluitend de mogelijkheid van een tweede termijn verstaan, ongeacht of deze al dan niet aansluit op de eerste termijn.
 
 **21** 2. Indien een lid van de Reguleringsraad, in het tijdvak tussen twee Plenipotentiaire Conferenties, aftreedt of niet langer in staat is zijn taak te verrichten, verzoekt de Secretaris-Generaal, in overleg met de Directeur van het Radiocommunicatiebureau, de Lidstaten van de betrokken regio tijdens de volgende zitting van de Raad kandidaten voor te dragen voor de verkiezing van een vervanger. Indien de vacature evenwel meer dan 90 dagen voor een zitting van de Raad of na een zitting van de Raad voorafgaand aan de volgende Plenipotentiaire Conferentie ontstaat, benoemt de betrokken Lidstaat zo snel mogelijk en binnen 90 dagen, een andere ingezetene als vervanger, die in functie blijft totdat het nieuwe door de Raad benoemde lid zijn functie aanvaardt of totdat de door de volgende Plenipotentiaire Conferentie gekozen nieuwe leden van de Raad hun functie aanvaarden, naar gelang van het geval. De vervanger kan worden voorgedragen voor verkiezing door de Raad of door de Plenipotentiaire Conferentie, naar gelang van het geval.
 
@@ -2003,7 +2005,7 @@ beide zoals omschreven in de Administratieve Reglementen. De bepalingen inzake t
 
 **57 PP-98** 6. Alleen de reis-, verblijfs- en verzekeringskosten die door de vertegenwoordiger van elke Lidstaat van de Raad, behorend tot de categorie van ontwikkelingslanden waarvan de lijst door het ontwikkelingsprogramma van de Verenigde Naties (UNDP) is opgesteld, in die hoedanigheid tijdens zittingen van de Raad worden gemaakt, worden door de Unie dragen.
 
-**58 PP-98** 7. De vertegenwoordiger van elke Lidstaat van de Raad heeft het recht, als waarnemer, alle vergaderingen van de Sectoren van de Unie bij te wonen.
+**58 PP-98** Vervallen.
 
 **59** 8. De Secretaris-Generaal treedt op als Secretaris van de Raad.
 
@@ -2011,7 +2013,7 @@ beide zoals omschreven in de Administratieve Reglementen. De bepalingen inzake t
 
 **60A PP-98** 9**bis** Lidstaten die geen Lidstaat van de Raad zijn, kunnen, met voorafgaande kennisgeving aan de Secretaris-Generaal,op eigen kosten een waarnemer naar de vergaderingen, comités en werkgroepen van de Raad zenden. Een waarnemer heeft niet het recht te stemmen.
 
-**60B** Sectorleden kunnen worden vertegenwoordigd als waarnemers bij vergaderingen, comités en werkgroepen van de Raad, met inachtneming van de door de Raad opgestelde voorwaarden, waaronder voorwaarden met betrekking tot het aantal waarnemers en de procedures voor hun benoeming.
+**60B PP-02** 9 **ter)**Sectorleden kunnen als waarnemer bij vergaderingen, comités en werkgroepen van de Raad aanwezig zijn, met inachtneming van de door de Raad vastgestelde voorwaarden, waaronder voorwaarden met betrekking tot het aantal waarnemers en de procedures voor hun benoeming.
 
 **61 PP-98** 10. De Raad beoordeelt elk jaar het door de Secretaris-Generaal opgestelde rapport inzake de uitvoering van het door de Plenipotentiaire Conferentie aangenomen strategische plan en neemt de nodige maatregelen.
 
@@ -2045,7 +2047,7 @@ beide zoals omschreven in de Administratieve Reglementen. De bepalingen inzake t
 
 **72** 6) het, indien nodig, aanpassen van de contributies van de Unie en haar personeel aan het**United Nations Joint Staff Pension Fund,**in overeenstemming met de regels en voorschriften van dit fonds, alsmede van de vergoedingen voor de kosten van levensonderhoud die worden uitgekeerd aan de begunstigden van het **Union Staff Superanuation and Benevolent Funds,** op basis van de bij dit fonds bestaande praktijk;
 
-**73 PP-98** 7) het beoordelen en goedkeuren van de tweejaarlijkse begroting van de Unie en het bestuderen van de ontwerpbegroting (vervat in het financieel rapport dat de Secretaris-Generaal ingevolge nummer 101 van dit Verdrag opstelt) voor het tijdvak van twee jaar na deze begrotingstermijn, rekening houdend met de besluiten van de Plenipotentiaire Conferentie ten aanzien van nummer 50 van het Statuut en met de door de Plenipotentiaire Conferentie in overeenstemming met nummer 51 van het Statuut vastgestelde financiële grenzen; de Raad garandeert een zo economisch mogelijk gebruik, maar houdt rekening met de verplichting van de Unie zo snel mogelijk bevredigende resultaten te boeken. Hierbij houdt de Raad rekening met de door de Plenipotentiaire Conferentie vastgestelde prioriteiten als genoemd in het strategisch plan voor de Unie, met de standpunten van het Coördinatiecomité als vervat in het in nummer 86 van dit Verdrag bedoelde rapport van de Secretaris-Generaal en het in nummer 101 van dit Verdrag bedoelde financieel rapport;
+**73 PP-98 PP-02** 7) het beoordelen en goedkeuren van de tweejaarlijkse begroting van de Unie en het bestuderen van de ontwerpbegroting (vervat in het financieel rapport dat de Secretaris-Generaal ingevolge nummer 101 van dit Verdrag opstelt) voor het tijdvak van twee jaar na deze begrotingstermijn, rekening houdend met de besluiten van de Plenipotentiaire Conferentie ten aanzien van nummer 50 van het Statuut en met de door de Plenipotentiaire Conferentie in overeenstemming met nummer 51 van het Statuut vastgestelde financiële grenzen; de Raad garandeert een zo economisch mogelijk gebruik, maar houdt rekening met de verplichting van de Unie zo snel mogelijk bevredigende resultaten te boeken. Hierbij houdt de Raad rekening met de door de Plenipotentiaire Conferentie vastgestelde prioriteiten als genoemd in het strategisch plan voor de Unie, met de standpunten van het Coördinatiecomité als vervat in het in nummer 86 van dit Verdrag bedoelde rapport van de Secretaris-Generaal en het in nummer 101 van dit Verdrag bedoelde financieel rapport. De Raad toetst jaarlijks de inkomsten en uitgaven teneinde aanpassingen te kunnen doorvoeren, waar van toepassing in overeenstemming met de resoluties en besluiten van de Plenipotentiaire Conferentie;
 
 **74** 8) het treffen van de nodige regelingen voor de jaarlijkse controle van de door de Secretaris-Generaal opgestelde rekeningen van de Unie en deze, in voorkomend geval, goedkeuren ter voorlegging aan de volgende Plenipotentiaire Conferentie;
 
@@ -2059,7 +2061,7 @@ beide zoals omschreven in de Administratieve Reglementen. De bepalingen inzake t
 
 **79 PP-98** 13) het nemen van alle nodige maatregelen, na goedkeuring door de meerderheid van de Lidstaten, voor het tijdelijk oplossen van kwesties die niet in het Statuut, dit Verdrag en de Administratieve Reglementen zijn voorzien en waarvan de regeling niet kan wachten tot de volgende bevoegde conferentie;
 
-**80 PP-94** het zorgdragen voor de coördinatie met alle in de artikelen 49 en 50 van het Statuut bedoelde internationale organisaties en het hiertoe, namens de Unie, sluiten van voorlopige akkoorden met de in artikel 50 van het Statuut en de in de artikelen 260 en 261 van het Verdrag bedoelde internationale organisaties, en met de Verenigde Naties in toepassing van het Akkoord tussen de Verenigde Naties en de Internationale Unie voor Telecommunicatie; deze voorlopige akkoorden worden overeenkomstig de relevante bepaling van artikel 8 van het Statuut voorgelegd aan de Plenipotentiaire Conferentie;
+**80 PP-94** 14) het zorgdragen voor de coördinatie met alle in de artikelen 49 en 50 van het Statuut bedoelde internationale organisaties en het hiertoe, namens de Unie, sluiten van voorlopige akkoorden met de in artikel 50 van het Statuut en de in de nummers 269B en 269C van dit Verdrag bedoelde internationale organisaties, en met de Verenigde Naties in toepassing van het Akkoord tussen de Verenigde Naties en de Internationale Unie voor Telecommunicatie; deze voorlopige akkoorden worden overeenkomstig de relevante bepaling van artikel 8 van het Statuut voorgelegd aan de Plenipotentiaire Conferentie;
 
 **81 PP-98** 15) het, binnen 30 dagen na elke zitting van de Raad, aan de lidstaten toezenden van beknopte verslagen van de werkzaamheden van de Raad en van andere nuttig geachte stukken;
 
@@ -2097,7 +2099,7 @@ beide zoals omschreven in de Administratieve Reglementen. De bepalingen inzake t
 
 **95** l. verricht, met inachtneming van de verantwoordelijkheden van de Sectoren, de nodige secretariaatwerkzaamheden voorafgaand aan en volgend op conferenties van de Unie;
 
-**96** m. stelt aanbevelingen op voor de eerste vergadering van de in nummer 342 van dit Verdrag***Noot van het Algemeen Secretariaat:** „nummer 342 van dit Verdrag” moet luiden „nummer 4 van het Reglement van orde van conferenties en andere vergaderingen van de Internationale Unie voor Telecommunicatie”. bedoelde delegatieleiders, met inachtneming met de uitkomst van eventueel regionaal overleg;
+**96** **m)**stelt aanbevelingen op voor de eerste vergadering van de in nummer 49 van de Algemene Regels voor conferenties, assemblees en vergaderingen van de Unie bedoelde delegatieleiders, met inachtneming van de uitkomsten van eventueel regionaal overleg;
 
 **97** n. voorziet, in voorkomend geval in samenwerking met de uitnodigende regering, in het secretariaat van de conferenties van de Unie en verschaft de voorzieningen en diensten voor vergaderingen van de Unie, eventueel in samenwerking met de betrokken directeur, waarbij het, in overeenstemming met nummer 93, voor zover het dit nodig acht, personeel van de Unie kan inzetten. De Secretaris-Generaal kan op verzoek, ook op contractbasis voorzien in het secretariaat van andere telecommunicatie-vergaderingen.
 
@@ -2105,7 +2107,7 @@ beide zoals omschreven in de Administratieve Reglementen. De bepalingen inzake t
 
 **99** p. publiceert, met behulp van beschikbaar gestelde of door het Algemeen Secretariaat zelf verzamelde informatie, inclusief de van andere internationale organisaties verkregen informatie, een periodiek bulletin met algemene informatie en documentatie inzake telecommunicatie;
 
-**100 PP-98** q. stelt, na overleg met de Coördinatiecommissie en met een zo economisch mogelijk gebruik van middelen, een tweejaarlijkse ontwerpbegroting vast voor de uitgaven van de Unie en legt dit voor aan de Raad, waarbij het rekening houdt met de door de Plenipotentiaire Conferentie vastgestelde financiële grenzen. Deze ontwerpbegroting bestaat uit een geconsolideerde begroting, samengesteld uit op kosten gebaseerde begrotingen van de drie Sectoren, opgesteld conform de door de Secretaris-Generaal uitgevaardigde begrotingsrichtlijnen en bestaande uit twee versies. Bij de ene versie wordt uitgegaan van een nulgroei van de contributie-eenheid, bij de andere van een groei van minder dan of gelijk aan een door de Plenipotentiaire Conferentie vastgestelde limiet, na eventuele aanspraak op de reserverekening. De begrotingsresolutie wordt, na goedkeuring door de Raad, ter kennisneming naar alle Lidstaten gezonden;
+**100 PP-98** **q)**stelt, na overleg met het Coördinatiecomité en met een zo economisch mogelijk gebruik van middelen, een tweejaarlijkse ontwerpbegroting vast voor de uitgaven van de Unie en legt deze voor aan de Raad, waarbij het rekening houdt met de door de Plenipotentiaire Conferentie vastgestelde financiële grenzen. Deze ontwerpbegroting bestaat uit een geconsolideerde begroting, met inbegrip van op kosten en op resultaten gebaseerde begrotingsinformatie voor de Unie, opgesteld conform de door de Secretaris-Generaal uitgevaardigde begrotingsrichtlijnen en bestaande uit twee versies. Bij de ene versie wordt uitgegaan van een nulgroei van de contributie-eenheid, bij de andere van een groei van minder dan of gelijk aan een door de Plenipotentiaire Conferentie vastgestelde limiet, na eventuele aanspraak op de reserverekening. De begrotingsresolutie wordt, na goedkeuring door de Raad, ter kennisneming naar alle Lidstaten gezonden;
 
 **101** r. stelt, met de assistentie van het Coördinatiecomité, in overeenstemming met het Financieel Reglement, een jaarlijks financieel rapport op en legt dit voor aan de Raad. Een recapitulerend financieel rapport en rekeningen worden opgesteld en ter beoordeling en definitieve goedkeuring voorgelegd aan de volgende Plenipotentiaire Conferentie;
 
@@ -2117,7 +2119,7 @@ beide zoals omschreven in de Administratieve Reglementen. De bepalingen inzake t
 
 **104** u. verricht alle overige door de Raad aan hem opgedragen taken.
 
-**105** 2. De Secretaris-Generaal of de plaatsvervangend Secretaris-Generaal kan, in de hoedanigheid van adviseur, deelnemen aan conferenties van de Unie; de Secretaris-Generaal of diens vertegenwoordiger kan, in de hoedanigheid van adviseur, deelnemen aan alle andere vergaderingen van de Unie.
+**105** 2 De Secretaris-Generaal of de plaatsvervangend Secretaris-Generaal kunnen in de hoedanigheid van adviseur deelnemen aan conferenties van de Unie; de Secretaris-Generaal of zijn vertegenwoordiger kunnen in de hoedanigheid van adviseur deelnemen aan alle overige vergaderingen van de Unie.
 
 ##### Artikel 6. Coördinatiecomité
 
@@ -2131,7 +2133,7 @@ beide zoals omschreven in de Administratieve Reglementen. De bepalingen inzake t
 
 **110** 3. De voorzitter roept het Comité ten minste eenmaal per maand bijeen; het Comité kan indien nodig eveneens worden bijeengeroepen op verzoek van twee van zijn leden.
 
-**111** 4. Van de werkzaamheden van het Coördinatiecomité wordt een verslag gemaakt dat op verzoek aan de Lidstaten van Raad beschikbaar wordt gesteld.
+**111 PP-02** 4 Van de werkzaamheden van het Coördinatiecomité wordt een verslag gemaakt dat aan de Lidstaten beschikbaar wordt gesteld.
 
 ### AFDELING 5. RADIOCOMMUNICATIESECTOR
 
@@ -2301,7 +2303,7 @@ beide zoals omschreven in de Administratieve Reglementen. De bepalingen inzake t
 
 **177 PP-98** a) het verrichten van studies voor het uitbrengen van advies met het oog op de exploitatie van een maximaal haalbaar aantal radiokanalen in die gedeelten van het frequentiespectrum waarin schadelijke interferentie kan ontstaan, en met het oog op een billijk, doeltreffend en doelmatig gebruik van geostationaire en andere satellietomloopbanen, met in achtneming van de behoeften van de Lidstaten die hulp nodig hebben, de bijzondere behoeften van ontwikkelingslanden, alsmede de bijzondere geografische situatie van bepaalde landen;
 
-**178 PP-98** b) het uitwisselen met Lidstaten en Sectorleden van in automatische of andere vorm leesbare gegevens, het opstellen en actualiseren van documenten en gegevensbestanden van de Radiocommunicatiesector en het zorgdragen, samen met de Secretaris-Generaal, voor de eventuele publicatie hiervan in de werktalen van de Unie in overeenstemming met nummer 172 van het Statuut;
+**178 PP-98** **b)**het uitwisselen met Lidstaten en Sectorleden van in automatische of andere vorm leesbare gegevens, het opstellen en actualiseren van documenten en gegevensbestanden van de Radiocommunicatiesector en het zorgdragen, samen met de Secretaris-Generaal, voor de eventuele publicatie hiervan in de talen van de Unie in overeenstemming met nummer 172 van het Statuut;
 
 **179** c) het bijhouden van de nodige stukken;
 
@@ -2371,7 +2373,7 @@ beide zoals omschreven in de Administratieve Reglementen. De bepalingen inzake t
 
 **202 PP-98** c) het verwerken van informatie ontvangen van administraties in toepassing van de desbetreffende bepalingen van het Internationale Telecommunicatiereglement of van de besluiten van de mondiale telecommunicatiestandaardisatie-assemblee, en deze, in voorkomend geval, in een voor publicatie geschikte vorm opstellen;
 
-**203 PP-98** d) het uitwisselen met Lidstaten en Sectorleden van in automatische of andere vorm leesbare gegevens, het opstellen en actualiseren van documenten en gegevensbestanden van de Telecommunicatiestandaardisatiesector en het zorgdragen, samen met de Secretaris-Generaal indien van toepassing, voor de publicatie hiervan in de werktalen van de Unie in overeenstemming met nummer 172 van het Statuut;
+**203 PP-98** **d)**het uitwisselen met Lidstaten en Sectorleden van in automatische of andere vorm leesbare gegevens, het opstellen en zo nodig actualiseren van documenten en gegevensbestanden van de Telecommunicatiestandaardisatiesector en het zorgdragen, samen met de Secretaris-Generaal, voor de eventuele publicatie hiervan in de talen van de Unie in overeenstemming met nummer 172 van het Statuut;
 
 **204 PP-98** e) het aan de mondiale telecommunicatiestandaardisatie-assemblee voorleggen van een rapport inzake de activiteiten van de Sector sinds de laatste conferentie; tenzij een tweede assemblee bijeen wordt geroepen, legt de directeur eveneens aan de Raad en aan de Lidstaten en Sectorleden een dergelijk rapport voor, dat betrekking heeft op de tweejarige periode sinds de laatste assemblee;
 
@@ -2395,7 +2397,7 @@ beide zoals omschreven in de Administratieve Reglementen. De bepalingen inzake t
 
 **208** 1. In overeenstemming met nummer 118 van het Statuut, zijn de taken van de telecommunicatie-ontwikkelingsconferenties als volgt:
 
-**209** a) mondiale telecommunicatie-ontwikkelingsconferenties stellen werkprogramma's en richtlijnen op voor het omschrijven van vraagstukken en prioriteiten op het gebied van telecommunicatie-ontwikkeling en sturen en begeleiden het werkprogramma van de Telecommunicatie-ontwikkelingssector. Zij kunnen naar behoefte studiegroepen oprichten;
+**209** **a.** mondiale telecommunicatie-ontwikkelingsconferenties stellen werkprogramma’s en richtlijnen op voor het omschrijven van vraagstukken en prioriteiten op het gebied van telecommunicatie-ontwikkeling en sturen en begeleiden het werkprogramma van de Telecommunicatie-ontwikkelingssector. Zij beslissen, rekening houdend met de bovengenoemde werkprogramma’s, over de noodzaak studiegroepen op te richten, in stand te houden of te beëindigen en aan elk te bestuderen kwesties toe te wijzen;
 
 **209A** a**bis**) zij nemen besluiten over de behoefte tot handhaving, ontbinding of instelling van andere groepen en zij benoemen de voorzitters en vice-voorzitters hiervan;
 
@@ -2421,7 +2423,7 @@ beide zoals omschreven in de Administratieve Reglementen. De bepalingen inzake t
 
 **215B PP-98** 4. Telecommunicatie-ontwikkelingsstudiegroepen bestuderen vraagstukken en stellen ontwerpaanbevelingen op die moeten worden aangenomen in overeenstemming met de in de nummers 246A tot en met 247 van dit Verdrag vervatte procedures.
 
-##### Artikel 18. PP-98 Telecommunicatie-ontwikkelingsbureau
+##### Artikel 18. Telecommunicatie-ontwikkelingsbureau
 
 **216** 1. De directeur van het Telecommunicatie-ontwikkelingsbureau organiseert en coördineert de werkzaamheden van de Telecommunicatie-ontwikkelingssector.
 
@@ -2431,7 +2433,7 @@ beide zoals omschreven in de Administratieve Reglementen. De bepalingen inzake t
 
 **219** b) het verwerken van de informatie ontvangen van administraties bij de toepassing van de desbetreffende resoluties en besluiten van de Plenipotentiaire Conferentie en telecommunicatie-ontwikkelingsconferenties en deze, in voorkomend geval, in een voor publicatie geschikte vorm opstellen;
 
-**220** c) het uitwisselen met Lidstaten van in automatische en in andere vorm leesbare gegevens, het opstellen en zo nodig actualiseren van documenten en gegevensbestanden van de Telecommunicatie-ontwikkelingssector en het zorgdragen, samen met de Secretaris-Generaal, indien van toepassing, voor de publicatie hiervan in de werktalen van de Unie in overeenstemming met nummer 172 van het Statuut;
+**220** **c)**het uitwisselen met leden van in automatische en in andere vorm leesbare gegevens, het opstellen en zo nodig actualiseren van documenten en gegevensbestanden van de Telecommunicatie-ontwikkelingssector en het zorgdragen, samen met de Secretaris-Generaal, voor de eventuele publicatie hiervan in de talen van de Unie in overeenstemming met nummer 172 van het Statuut;
 
 **221** d) het, in samenwerking met het Algemeen Secretariaat en de overige sectoren van de Unie, verzamelen en voor publicatie gereed maken van zowel technische als administratieve informatie die in het bijzonder nuttig kan zijn voor ontwikkelingslanden teneinde deze te helpen hun telecommunicatienetwerken te verbeteren. Deze landen worden ook gewezen op de mogelijkheden die worden geboden door de internationale programma's onder auspiciën van de Verenigde Naties.
 
@@ -2475,17 +2477,17 @@ beide zoals omschreven in de Administratieve Reglementen. De bepalingen inzake t
 
 **234C PP-98** 4quater Bij het toestaan van rechtstreekse verzoeken kan een Lidstaat de Secretaris-Generaal ervan in kennis stellen dat hij de Secretaris-Generaal bevoegd verklaart elke aanvraag door een entiteit onder zijn rechtsbevoegdheid of soevereiniteit goed te keuren.
 
-**235** 5. Elk verzoek van een in nummer 231 bedoelde entiteit of organisatie (anders dan die welke worden bedoeld in de nummers 260 en 261 van dit Verdrag) om deelname aan de werkzaamheden van de Sector, wordt aan de Secretaris-Generaal gericht en behandeld in overeenstemming met door de Raad opgestelde procedures.
+**235**5 Elk verzoek van een in nummer 231 hierboven bedoelde entiteit of organisatie (anders dan die welke worden bedoeld in de nummers 269B en 269C van dit Verdrag) om deelname aan de werkzaamheden van een Sector wordt aan de Secretaris-Generaal gezonden en behandeld in overeenstemming met door de Raad opgestelde procedures.
 
-**236** 6. Elk verzoek van een in de nummers 260 tot en met 262 van dit Verdrag bedoelde organisatie om deelname aan de werkzaamheden van een Sector, wordt aan de Secretaris-Generaal gezonden en de betrokken organisatie wordt in de in nummer 237 bedoelde lijsten opgenomen.
+**236** 6 Elk verzoek van een in de nummers 269B tot en met 269D van dit Verdrag bedoelde organisatie om deelname aan de werkzaamheden van een Sector wordt aan de Secretaris-Generaal gezonden en de betrokken organisatie wordt in de in nummer 237 hieronder bedoelde lijsten opgenomen.
 
-**237 PP-98** 7. De Secretaris-Generaal stelt voor elke Sector lijsten op, en actualiseert deze, van alle in de nummers 229 tot en met 231 en de nummers 260 tot en met 262 van dit Verdrag bedoelde entiteiten en organisaties die bevoegd zijn deel te nemen aan de werkzaamheden van elke Sector, en publiceert en verzendt deze lijsten met een passende frequentie aan alle betrokken Lidstaten en Sectorleden alsmede aan de directeur van het betrokken Bureau. Die directeur brengt deze entiteiten en organisaties op de hoogte van de maatregelen die naar aanleiding van hun verzoeken zijn genomen, en brengt de desbetreffende Lidstaten op de hoogte.
+**237 PP-98** 7 De Secretaris-Generaal stelt lijsten op, en actualiseert deze, van alle in de nummers 229 tot en met 231 en de nummers 269B tot en met 269D van dit Verdrag bedoelde entiteiten en organisaties die bevoegd zijn deel te nemen aan de werkzaamheden van elke Sector, en publiceert en verzendt deze lijsten met een passende frequentie aan alle betrokken Lidstaten en Sectorleden alsmede aan de directeur van het betrokken Bureau. Die directeur brengt deze entiteiten en organisaties op de hoogte van de maatregelen die naar aanleiding van hun verzoeken zijn genomen, en brengt de desbetreffende Lidstaten op de hoogte.
 
 **238 PP-98** 8. De voorwaarden voor deelname in de Sectoren door de op de in nummer 237 bedoelde lijsten vermelde entiteiten en organisaties worden genoemd in dit artikel, in artikel 33 en in andere relevante bepalingen van dit Verdrag. De bepalingen van de nummers 25 tot en met 28 van het Statuut zijn niet op hen van toepassing.
 
 **239 PP-94 PP-98** 9. Een Sectorlid kan optreden namens de Lidstaat die het heeft goedgekeurd, mits de Lidstaat de directeur van het desbetreffende Bureau ervan op de hoogte brengt dat het daartoe bevoegd is.
 
-**240 PP-98** 10. Elk Sectorlid heeft het recht een dergelijke deelname op te zeggen door middel van een kennisgeving aan de Secretaris-Generaal. Een dergelijke deelname kan, in voorkomend geval, eveneens worden opgezegd door de betrokken Lidstaat of, in geval van een ingevolge nummer 234C goedgekeurde Lidstaat, in overeenstemming met de door de Raad vastgestelde criteria en procedures. Een dergelijke opzegging wordt van kracht na afloop van een jaar, te rekenen vanaf de datum waarop de kennisgeving door de Secretaris-Generaal is ontvangen.
+**240 PP-98** 10 Elk Sectorlid heeft het recht een dergelijke deelname op te zeggen door middel van een kennisgeving aan de Secretaris-Generaal. Een dergelijke deelname kan, in voorkomend geval, eveneens worden opgezegd door de betrokken Lidstaat of, in geval van een ingevolge nummer 234C hierboven goedgekeurde Lidstaat, in overeenstemming met de door de Raad vastgestelde criteria en procedures. Een dergelijke opzegging wordt van kracht na afloop van zes maanden, te rekenen vanaf de datum waarop de kennisgeving door de Secretaris-Generaal is ontvangen.
 
 **241** 11. De Secretaris-Generaal verwijdert entiteiten of organisaties die niet langer bevoegd zijn aan de werkzaamheden van een Sector deel te nemen, van de lijst van entiteiten en organisaties, in overeenstemming met de door de Raad vastgestelde criteria en procedures.
 
@@ -2543,7 +2545,7 @@ beide zoals omschreven in de Administratieve Reglementen. De bepalingen inzake t
 
 **250** 1. Elke conferentie kan aan een andere conferentie van de Unie aanbevelingen voorleggen die onder haar competentie vallen.
 
-**251** 2. Deze aanbevelingen worden tijdig aan de Secretaris-Generaal verzonden ten behoeve van verzameling, coördinatie en mededeling, zoals bepaald in nummer 320 van dit Verdrag.
+**251** 2 Deze aanbevelingen worden tijdig aan de Secretaris-Generaal verzonden ten behoeve van verzameling, coördinatie en mededeling, zoals bepaald in nummer 44 van de Algemene Regels voor conferenties, assemblees en vergaderingen van de Unie.
 
 ##### Artikel 22. Betrekkingen tussen de Sectoren onderling en met internationale organisaties
 
@@ -2553,9 +2555,9 @@ beide zoals omschreven in de Administratieve Reglementen. De bepalingen inzake t
 
 **254** 3. Wanneer een Sector wordt uitgenodigd deel te nemen aan een vergadering van een internationale organisatie, is de directeur van deze Sector bevoegd, met inachtneming van de bepalingen van nummer 107 van dit Verdrag, regelingen te treffen voor zijn vertegenwoordiging in de hoedanigheid van adviseur.
 
-### HOOFDSTUK II. **PP-98** SPECIFIEKE BEPALINGEN INZAKE CONFERENTIES EN ASSEMBLEES
+### HOOFDSTUK II. SPECIFIEKE BEPALINGEN INZAKE CONFERENTIES EN ASSEMBLEES
 
-##### Artikel 23. Toelating tot Plenipotentiaire Conferenties
+##### Artikel 23. PP-02 Toelating tot Plenipotentiaire Conferenties
 
 **255** Vervallen.
 
@@ -2591,7 +2593,7 @@ beide zoals omschreven in de Administratieve Reglementen. De bepalingen inzake t
 
 **268B** **c.**de Radioreguleringsraad, in overeenstemming met nummer 141A van dit Verdrag, in de hoedanigheid van adviseur;
 
-**269 PP-94** **d.** waarnemers van de volgende organisaties, instanties en instellingen:
+**269 PP-94 PP-02** **d)** waarnemers van de volgende organisaties, agentschappen en entiteiten, in de hoedanigheid van adviseur:
 
 **269A** **i.** de Verenigde Naties;
 
@@ -2601,11 +2603,11 @@ beide zoals omschreven in de Administratieve Reglementen. De bepalingen inzake t
 
 **269D** **iv.** de gespecialiseerde organisaties van de Verenigde Naties en de Internationale Organisatie voor Atoomenergie;
 
-**269E** **v.** de Sectorleden bedoeld in de nummers 229 en 231 van dit Verdrag en organisaties van internationale aard die hen vertegenwoordigden.
+**269E PP-02** **e)** waarnemers van de in de nummers 229 en 231 van dit Verdrag bedoelde Sectorleden.
 
 **269F** 2. Het Algemeen Secretariaat en de drie Bureaus van de Unie worden bij de conferentie vertegenwoordigd in de hoedanigheid van adviseur.
 
-##### Artikel 24. Toelating tot radiocommunicatieconferenties
+##### Artikel 24. PP-02 Toelating tot Radiocommunicatieconferenties
 
 **270** Vervallen.
 
@@ -2623,11 +2625,11 @@ beide zoals omschreven in de Administratieve Reglementen. De bepalingen inzake t
 
 **277** a) delegaties;
 
-**278** **b**. waarnemers van de in de nummers 269A tot en met 269D van dit Verdrag genoemde organisaties en instanties;
+**278 PP-02** **b)**waarnemers van de in de nummers 269A tot en met 269D van dit Verdrag genoemde organisaties en agentschappen, in de hoedanigheid van adviseur;
 
-**279** **c.** waarnemers van andere internationale organisaties die door de regering zijn uitgenodigd en door de conferentie zijn toegelaten in overeenstemming met de desbetreffende bepalingen van Hoofdstuk I van de Algemene Regels voor conferenties, assemblees en vergaderingen van de Unie;
+**279 PP-02** **c)**waarnemers van andere internationale organisaties die zijn uitgenodigd in overeenstemming met de desbetreffende bepalingen van Hoofdstuk I van de Algemene Regels voor conferenties, assemblees en vergaderingen van de Unie, in de hoedanigheid van adviseur;
 
-**280 PP-98** d) naar behoren door de betrokken Lidstaat gemachtigde waarnemers die de Sectorleden van de Radiocommunicatiesector vertegenwoordigen;
+**280 PP-98** **d)**waarnemers van Sectorleden van de Radiocommunicatiesector;
 
 **281** vervallen;
 
@@ -2635,7 +2637,7 @@ beide zoals omschreven in de Administratieve Reglementen. De bepalingen inzake t
 
 **282A** **f.** in de hoedanigheid van adviseur, de gekozen functionarissen, wanneer de conferentie aangelegenheden binnen hun bevoegdheid behandelt, en de leden van de Radioreguleringsraad.
 
-##### Artikel 25. PP-98 Toelating tot radiocommunicatie-assemblees, mondiale telecommunicatiestandaardisatie-assemblees en telecommunicatieontwikkelingsconferenties
+##### Artikel 25. PP-98 Toelating tot radiocommunicatie-assemblees, mondiale PP-02 telecommunicatiestandaardisatie-assemblees en telecommunicatieontwikkelingsconferenties
 
 **283** Vervallen.
 
@@ -2665,21 +2667,25 @@ beide zoals omschreven in de Administratieve Reglementen. De bepalingen inzake t
 
 **296** a) delegaties;
 
-**297** **b.** waarnemers van de volgende organisaties en instanties:
+**296** **bis** **b)** vertegenwoordigers van de betrokken Sectorleden;
+
+**297 PP-02** **c)**waarnemers, in de hoedanigheid van adviseur, van:
+
+**297** **bis** **i)**de in de nummers 269A tot en met 269D van dit Verdrag genoemde organisaties en agentschappen;
 
 **298 PP-98** vervallen.
 
-**298A** **i.** regionale telecommunicatie-organisaties bedoeld in artikel 43 van het Statuut;
+**298A** vervallen;
 
-**298B** **ii.** intergouvernementele organisaties die satellietsystemen exploiteren;
+**298B** vervallen;
 
-**298C** **iii.** overige regionale organisaties of internationale organisaties die bemoeienis hebben met aangelegenheden die van belang zijn voor de assemblee of conferentie;
+**298C PP-02** **ii)**overige regionale organisaties of internationale organisaties die bemoeienis hebben met aangelegenheden die van belang zijn voor de assemblee of conferentie.
 
-**298D** **iv.** de Verenigde Naties;
+**298D** vervallen;
 
-**298E** **v.** de gespecialiseerde organisaties van de Verenigde Naties en de Internationale Organisatie voor Atoomenergie;
+**298E** vervallen;
 
-**298F** **c.** vertegenwoordigers van de betrokken Sectorleden.
+**298F** vervallen.
 
 **298G** 2. De gekozen functionarissen, het Algemeen Secretariaat en de Bureaus van de Unie worden, in voorkomend geval, bij de assemblee of conferentie vertegenwoordigd in de hoedanigheid van adviseur. Twee door de Reguleringsraad aangewezen leden van de Radioreguleringsraad nemen, in de hoedanigheid van adviseur, deel aan radiocommunicatieassemblees.
 
@@ -2749,20 +2755,21 @@ Vervallen
 
 ##### Artikel 33. Financiën
 
-**468 PP-98** 1. 1) De schaal waaruit elke Lidstaat, onverminderd de bepalingen van nummer 468A, en elk Sectorlid, onverminderd de bepalingen van nummer 468B, zijn contributieklasse kiest, in overeenstemming met de desbetreffende bepalingen van artikel 28 van het Statuut, is de volgende:
+**468 PP-98** 1 1) De schaal waaruit elke Lidstaat, onverminderd de bepalingen van nummer 468A hieronder, en elk Sectorlid, onverminderd de bepalingen van nummer 468B hieronder, zijn contributieklasse kiest, in overeenstemming met de desbetreffende bepalingen van artikel 28 van het Statuut, is de volgende:
 
 | klasse van 40 eenheden | klasse van 8 eenheden |
 | --- | --- |
-| klasse van 35 eenheden | klasse van 5 eenheden |
-| klasse van 30 eenheden | klasse van 4 eenheden |
-| klasse van 28 eenheden | klasse van 3 eenheden |
-| klasse van 25 eenheden | klasse van 2 eenheden |
-| klasse van 23 eenheden | klasse van 1 1/2 eenheden |
-| klasse van 20 eenheden | klasse van 1 eenheden |
-| klasse van 18 eenheden | klasse van 1/2 eenheden |
-| klasse van 15 eenheden | klasse van 1/4 eenheden |
-| klasse van 13 eenheden | klasse van 1/8 eenheden |
-| klasse van 10 eenheden | klasse van 1/16 eenheden |
+| klasse van 35 eenheden | klasse van 6 eenheden |
+| klasse van 30 eenheden | klasse van 5 eenheden |
+| klasse van 28 eenheden | klasse van 4 eenheden |
+| klasse van 25 eenheden | klasse van 3 eenheden |
+| klasse van 23 eenheden | klasse van 2 eenheden |
+| klasse van 20 eenheden | klasse van 1½ eenheid |
+| klasse van 18 eenheden | klasse van 1 eenheid |
+| klasse van 15 eenheden | klasse van ½ eenheid |
+| klasse van 13 eenheden | klasse van ¼ eenheid |
+| klasse van 11 eenheden | klasse van 1/8 eenheid |
+| klasse van 10 eenheden | klasse van 1/16 eenheid |
 
 **468A PP-98** 1bis) Uitsluitend Lidstaten die door de Verenigde Naties worden aangemerkt als minstontwikkelde landen en die welke door de Raad worden bepaald, mogen de contributieklasse van een 1/8 eenheid of 1/16 eenheid kiezen.
 
@@ -2782,7 +2789,7 @@ Vervallen
 
 **475 PP-98** (SUP)
 
-**476 PP-94 PP-98** 4. 1) De in de nummers 259 tot en met 269E van dit Verdrag bedoelde organisaties en andere organisaties van internationale aard (tenzij zij door de Raad zijn vrijgesteld, onder voorbehoud van wederkerigheid) en de Sectorleden die, in overeenstemming met de bepalingen van dit Verdrag, deelnemen aan een plenipotentiaire conferentie, aan een conferentie, assemblee of vergadering van een Sector van de Unie, of aan een wereldconferentie voor internationale telecommunicatie, dragen – op basis van de kosten van deze conferenties en vergaderingen en in overeenstemming met het Financieel Reglement – bij aan de kosten van de conferenties, assemblees en vergaderingen waaraan zij deelnemen. Niettemin wordt bij de Sectorleden geen aparte bijdrage in rekening gebracht voor hun aanwezigheid bij een conferentie, assemblee of vergadering van hun respectieve Sectoren, behoudens in het geval van regionale radiocommunicatieconferenties.
+**476 PP-94 PP-98 PP-02** 4 1)De in de nummers 269A tot en met 269E van dit Verdrag bedoelde organisaties en andere organisaties die eveneens in Hoofdstuk II daarvan worden genoemd (tenzij zij door de Raad zijn vrijgesteld, onder voorbehoud van wederkerigheid) en de Sectorleden bedoeld in nummer 230 van dit Verdrag die, in overeenstemming met de bepalingen van dit Verdrag, deelnemen aan een plenipotentiaire conferentie, aan een conferentie, assemblee of vergadering van een Sector van de Unie, of aan een wereldconferentie voor internationale telecommunicatie, dragen – op basis van de kosten van deze conferenties en vergaderingen en in overeenstemming met het Financieel Reglement – bij aan het dekken van de kosten van de conferenties, assemblees en vergaderingen waaraan zij deelnemen. Niettemin wordt de Sectorleden geen aparte bijdrage in rekening gebracht voor hun aanwezigheid bij een conferentie, assemblee of vergadering van hun respectieve Sectoren, behoudens in het geval van regionale radiocommunicatieconferenties.
 
 **477 PP-98** 2) Elk Sectorlid dat vermeld staat op de in nummer 237 van dit Verdrag bedoelde lijsten, draagt bij aan de dekking van de kosten van de Sector in overeenstemming met de nummers 480 en 480A.
 
@@ -2790,7 +2797,9 @@ Vervallen
 
 **480 PP-94 PP-98** 5) Het bedrag van de bijdrage per eenheid voor de kosten van elke betrokken Sector, wordt vastgesteld op 1/5 van de contributie-eenheid van de Lidstaten. Deze bijdragen worden aangemerkt als inkomsten van de Unie. Zij dragen rente overeenkomstig de bepalingen van nummer 474.
 
-**480A PP-98** 5bis) Wanneer een Sectorlid een bijdrage levert aan de dekking van de kosten van de Unie ingevolge nummer 159 van het Statuut, moet de Sector waarvoor de bijdrage wordt geleverd, worden vermeld.
+**480A PP-98** 5 **bis)**Wanneer een Sectorlid uit hoofde van nummer 159A van het Statuut bijdraagt aan het dekken van de kosten van de Unie, dient de Sector ten behoeve waarvan de bijdrage is gedaan te worden geïdentificeerd.
+
+**480B** 5**ter**) In uitzonderlijke omstandigheden kan de Raad een vermindering van het aantal contributie-eenheden toestaan wanneer daartoe een verzoek wordt ingediend door een Sectorlid dat heeft aangetoond dat het niet langer de contributie in de door hem oorspronkelijk gekozen klasse kan bijdragen.
 
 **481 tot en met 483** (SUP) PP-98
 
