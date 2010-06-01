@@ -1,0 +1,285 @@
+---
+title: "Besluit mandaat en machtiging Kiwa N.V. (I)"
+identifier: "BWBR0027827"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-07-01"
+last_updated: "2010-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027827"
+soort: "ministeriele-regeling"
+stam_id: "10588113"
+version_id: "17482672"
+internal_id: "C24182431"
+label_id: "10563084"
+dtd_version: "2.0"
+original_entry_into_force: "2010-06-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027827/2025-07-01/0"
+intitule_bron: "Stcrt.2010-10069"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-06-25"
+intitule_published: "2010-06-30"
+intitule_in_force: "2010-06-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-10069"
+original_signed_date: "2010-06-25"
+original_published_date: "2010-06-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-10069"
+entry_into_force_date: "2010-06-30"
+jci_1_3: "jci1.3:c:BWBR0027827&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0027827&g=2025-07-01"
+citeertitel_status: "officieel"
+signed_date: "2010-06-25"
+entry_into_force: "2010-06-30"
+---
+# Besluit mandaat en machtiging Kiwa N.V. (I)
+
+Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3) en [10:4, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4);
+
+Gezien de overeenkomsten tussen de Staat der Nederlanden en Kiwa N.V. d.d. 10 juli 2009 en 27 mei 2010;
+
+Besluit:
+
+##### Artikel 1
+
+In dit besluit wordt verstaan onder:
+
+- a. **de minister:** de Minister van Verkeer en Waterstaat;
+
+- b. **de staatssecretaris:** De Staatssecretaris van Verkeer en Waterstaat;
+
+- c. **mandaat:** de bevoegdheid om in naam van de minister, onderscheidenlijk de staatssecretaris, besluiten te nemen;
+
+- d. **volmacht:** de bevoegdheid om in naam van de minister, onderscheidenlijk de staatssecretaris, rechtshandelingen te verrichten;
+
+- e. **machtiging:** de bevoegdheid om in naam van de minister, onderscheidenlijk de staatssecretaris, handelingen te verrichten die een publiekrechtelijke noch een privaatrechtelijke rechtshandeling zijn;
+
+- f. **de overeenkomsten:** overeenkomsten overdracht taken van de Inspectie Verkeer en Waterstaat aan Kiwa N.V. aangegaan tussen de Staat der Nederlanden en Kiwa N.V. d.d. 10 juli 2009 en 27 mei 2010.
+
+##### Artikel 2
+
+De voorzitter van de directie van Kiwa N.V. is gemandateerd om:
+
+- a. besluiten te nemen ten aanzien van de in de [bijlage A1a](https://wetten.overheid.nl/jci1.3:c:BWBR0027827&bijlage=A1a&z=2010-06-30&g=2010-06-01), bij dit besluit genoemde bevoegdheden;
+
+- b. de in onderdeel a. genoemde besluiten te schorsen of in te trekken als niet meer wordt voldaan aan de voorwaarden die bepalend zijn voor de afgifte van de vergunningen;
+
+- c. de bij de afzonderlijke ministeriële regelingen vastgestelde tarieven te heffen met betrekking tot de in de [bijlage A1a](https://wetten.overheid.nl/jci1.3:c:BWBR0027827&bijlage=A1a&z=2010-06-30&g=2010-06-01), bij dit besluit genoemde bevoegdheden.
+
+- d. besluiten te nemen die een directe relatie hebben met het besluitvormingsproces van hetgeen onder a., b. en c. is bepaald.
+
+##### Artikel 3
+
+- a. De voorzitter van de directie van Kiwa N.V. is gemachtigd om handelingen te verrichten die een directe relatie hebben met de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027827&artikel=2&z=2010-06-30&g=2010-06-01) omschreven bevoegdheden.
+
+- b. In situaties waarin besluiten worden ingetrokken of geschorst op andere gronden dan in [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0027827&artikel=2&z=2010-06-30&g=2010-06-01), zijn bedoeld, dan is de directeur van Kiwa N.V. gemachtigd om ten aanzien daarvan handelingen te verrichten voorzover de intrekkingen en of schorsingen betrekking hebben op de onderwerpen genoemd in [bijlagen A1a](https://wetten.overheid.nl/jci1.3:c:BWBR0027827&bijlage=A1a&z=2010-06-30&g=2010-06-01).
+
+- c. De voorzitter van de directie van Kiwa N.V. is gemachtigd klachten in behandeling te nemen als bedoeld in [Afdeling. 9.1.1. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=9.1.1) over gedragingen binnen zijn organisatie met betrekking tot de uitoefening van de in dit besluit bedoelde mandaat, volmacht en machtiging.
+
+##### Artikel 4
+
+De voorzitter van de directie van Kiwa N.V. is gevolmachtigd en gemachtigd datgene te doen nodig om uitvoering te kunnen geven aan hetgeen is bepaald in de op 9 maart 2004 tussen de Staat der Nederlanden en het Groothertogdom Luxemburg gesloten Overeenkomst inzake de gezamenlijke ontwikkeling en productie werkzaamheden ten behoeve van het Digitale Tachograaf Systeem.
+
+##### Artikel 5
+
+De voorzitter van de directie van Kiwa N.V. neemt bij de uitoefening van het aan hem verleende mandaat, de aan hem verleende machtiging en de aan hem verleende volmacht de instructies van de minister, onderscheidenlijk de staatssecretaris, in acht.
+
+##### Artikel 6
+
+De voorzitter van de directie van Kiwa N.V. zal ten aanzien van de hem op grond van dit besluit verleende bevoegdheden, ondermandaat, ondervolmacht en ondermachtiging verlenen aan een of meer onder hem ressorterende functionarissen.
+
+##### Artikel 7
+
+De voorzitter van de directie van Kiwa N.V. voert bij de uitoefening van de aan hem verleende bevoegdheid een ordentelijke en voor de minister transparante administratie.
+
+##### Artikel 8
+
+1. Het in een document vastleggen van een besluit of hetgeen op basis van de machtiging danwel volmacht wordt verricht, geschiedt op briefpapier waarop het desbetreffende Rijkslogo en het logo van Kiwa N.V. is geplaatst.
+
+2. Een document als bedoeld in het eerste lid, vastgesteld door de voorzitter van de directie van Kiwa N.V., vermeldt aan het slot:
+
+‘DE MINISTER VAN VERKEER EN WATERSTAAT,
+
+namens deze,’,
+
+‘De voorzitter van de directie van Kiwa N.V.’ gevolgd door de handtekening en de naam,
+
+dan wel
+
+DE STAATSSECRETARIS VAN VERKEER EN WATERSTAAT,
+
+namens deze,’,
+
+‘De voorzitter van de directie van Kiwa N.V.’ gevolgd door de handtekening en de naam
+
+3. Een document als bedoeld in het eerste lid, vastgesteld door een functionaris, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0027827&artikel=6&z=2010-06-30&g=2010-06-01), vermeldt aan het slot:
+
+‘DE MINISTER VAN VERKEER EN WATERSTAAT,
+
+namens deze,’,
+
+gevolgd door de functieaanduiding, de handtekening en de naam van de betrokken functionaris,
+
+dan wel
+
+DE STAATSSECRETARIS VAN VERKEER EN WATERSTAAT,
+
+namens deze,’, gevolgd door de functieaanduiding, de handtekening en de naam van de betrokken functionaris,.
+
+##### Artikel 9
+
+Dit besluit treedt in werking met ingang van datum van publicatie in de Staatscourant en werkt terug tot en met 1 juni 2010.
+
+##### Artikel 10
+
+Dit besluit wordt aangehaald als: Besluit mandaat en machtiging Kiwa N.V. (I)
+
+## Bijlage A1a. : Taken namens de Minister van Verkeer en Waterstaat
+
+| Vergunning | wet- of regelgeving | artikel |
+| --- | --- | --- |
+| **Chauffeurspas** |   |   |
+| Chauffeurspas taxi verlenen (eerste en daarop volgende afgafifte na verstrijken geldigheidsduur) | [Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982) | [art 75 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=75) |
+| Chauffeurspas taxi duplicaat (in geval van wijziging, beschadiging of verlies/diefstal) | [Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982) | [art 75 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=75) |
+| Chauffeurspas taxi negatief beschikken | [Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982) | [art 75 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=75) |
+| Verzoek om nieuwe geneeskundige verklaring ofwel verklaring omtrent het gedrag. | [Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982) | [art 77, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=77) |
+| Tijdelijk bewijsschrift LWT | [Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) | [art 88](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=88) |
+|   | + [Tijdelijke beleidsregel leer-werk-traject](https://wetten.overheid.nl/jci1.3:c:BWBR0020893) |   |
+| Tijdelijk bewijsschrift Taxi | [Beleidsregel tijdelijk bewijsschrift taxi](https://wetten.overheid.nl/jci1.3:c:BWBR0020455) |   |
+| Intrekken chauffeurspas | [Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982) | [art 77, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=77) |
+| **Taxi** |   |   |
+| Verlenen vergunning voor taxivervoer | [Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) | [art 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=5) |
+| Wijzigen vergunning voor taxivervoer (samenstelling v.o.f.) | [Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) | [art 6, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=6) |
+| Wijzigen vergunning voor taxivervoer (naam of adres) | [Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) | [art 6, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=6) |
+| Wijzigen bijlage vergunning voor taxivervoer | [Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) | [art 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=6) |
+| Vergunningsbewijs voor taxivervoer afgeven en invorderen | [Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) | [art 5a, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=5a) |
+| Vergunningsbewijs voor taxivervoer afgeven en invorderen | [Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982) | [art 17](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=17) |
+| Ontheffing vakbekwaamheid taxivervoer | [Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) | [art 9, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=9) |
+|   | [Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982) | [art 29, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=29) |
+| Overschrijven taxivergunning naar erven of vertegenwoordiger | [Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) | [art 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=7) |
+| Verlenen EG-verklaring taxivervoer | [Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982) | [art 28, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=28) |
+| Afgeven Bewijs van toelating internationaal taxivervoer | [Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982) | [art 116, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=116) |
+| Verzoek om verklaring omtrent gedrag en/of bewijs vakbekwaamheid (tussentijds toetsen van Ondernemersvergunning) | [Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982) | [art 30](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=30) |
+| Wijzigen, schorsen en intrekken vergunning | [Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) | [art 99, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=99) |
+| **Bus** |   |   |
+| Communautaire vergunning voor busvervoer | [Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) | [art 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=5) |
+| Communautaire vergunning voor busvervoer | [Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982) | [art 91](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=91) |
+| Communautaire vergunning voor busvervoer | Vo.684/92 | art 3bis, lid 2 |
+| Wijzigen communautaire vergunning busvervoer | [Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) | [art 6, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=6) |
+| Wijzigen communautaire vergunning busvervoer | [Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982) | [art 91](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=91) |
+| Wijzigen communautaire vergunning busvervoer | Vo.684/92 | art 3bis, lid 2 |
+| Verstrekken vergunningbewijzen van een communautaire vergunning of vergunning voor internationaal vervoer | [Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) | [art 5a, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=5a) |
+| Verstrekken vergunningbewijzen van een communautaire vergunning of vergunning voor internationaal vervoer | [Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982) | [art 17](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=17) |
+| Verstrekken vergunningbewijzen van een communautaire vergunning of vergunning voor internationaal vervoer | Vo.684/92 | art 3bis lid 2 |
+| Ontheffing vakbekwaamheid openbaar vervoer en besloten busvervoer | [Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) | [art 9, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=9) |
+| Ontheffing vakbekwaamheid openbaar vervoer en besloten busvervoer | [Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982) | [art 29, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=29) |
+| Vergunning geregeld vervoer | [Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982) | [art 91](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=91) |
+|   | Vo.684/92 | art 7 lid 1 |
+| Wijzigen vergunning geregeld vervoer | [Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982) | [art 91](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=91) |
+|   | Vo.684/92 | art 7 lid 1 |
+| Wijzigen naam onderaannemer | [Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982) | [art 91](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=91) |
+|   | Vo.684/92 | art 7, lid 1 |
+| Vergunning pendelvervoer | [Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982) i.c.m. Bilaterale overeenk. | [art 91](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=91) |
+| Transito vergunning | [Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982) i.c.m. Bilaterale overeenk. | [art 91](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=91) |
+| Attest eigen vervoer binnen de EU | [Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982) | [art 91](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=91) |
+| Vergunning ongeregeld vervoer met bussen | [Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982) | [art 91](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=91) |
+| Document (Wit-)Rusland | [Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982) i.c.m. Bilatere overeenk. | [art 91](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=91) |
+| Instemming EU vergunning geregeld vervoer | [Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982) | [art 91](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=91) |
+| Instemming EU vergunning geregeld vervoer | Vo.684/92 | art 7, lid 1 |
+| Instemming EU geregeld transitovervoer | [Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982) | [art 91](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=91) |
+|   | Vo.684/92 | art 7, lid 2 |
+| Reisbladenboeken | Vo.684/92 | art 11, lid 4 |
+|   | [BP 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982) i.c.m. Bilatere overeenk. | [art 91, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=91) |
+| Intrekken en schorsen vergunning | [Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) | [art 99, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=99) |
+| **Goederenvervoer over de weg** |   |   |
+| Aanwijzingsbeschikkingen uitzendbureau’s | [Regeling wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0025704) | [art 14](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&artikel=14) |
+| Verklaring ter beschikkingstelling (archiveren en ter beschikking stellen) | [Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800) | [art 2.11, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.11) |
+| Verklaring dienstbetrekking (archiveren en ter beschikking stellen) | [Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800) | [art 2.11, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.11) |
+| Verklaring dienstbetrekking (archiveren en ter beschikking stellen) | [Regeling wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0025704) | [art 13](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&artikel=13) |
+| Ontheffingen | [Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800) | [art 2.11, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.11) |
+| **Binnenvaart** |   |   |
+| Rijnvaartverklaring | [Binnenvaartbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631) | [art 3, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=3) |
+|   | Verordening (EEG) nr 2919 van de Raad van 17 okt 1985 |   |
+| Wijziging Rijnvaartverklaring | [Binnenvaartbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631) | [art 3, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=3) |
+|   | Verordening (EEG) nr 2919 van de Raad van 17 okt 1985 |   |
+| Intrekken Rijnvaartverklaring | [Binnenvaartbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631) | [art 3, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=3) |
+| Certificaat exploitatie Rijnvaartverklaring | Verordening (EEG) nr 2919 van de Raad van 17 okt 1985 [Binnenvaartregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025958) | Hoofdstuk 8 |
+|   | Verordening (EEG) nr 2919 van de Raad van 17 okt 1985 [Binnenvaartregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025958) | [art 8.2, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&artikel=8.2) (nb geen basisbevoegdheid tot afgifte |
+| Gewaarmerkt afschrift Rijnvaartverklaring | [Binnenvaartregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025958) | [art 1.4, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&artikel=1.4) |
+|   | Verordening (EEG) nr 2919 van de Raad van 17 okt 1985 |   |
+| Bewijs van toelating | [Binnenvaartbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631) | [art 4, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=4) |
+| Intrekken Bewijs van toelating | [Binnenvaartbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631) | [art 4, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=4) |
+| Ontheffing vakbekwaamheidseis | [Binnenvaartregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025958) | [art 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&artikel=2.6) |
+| Ontheffing vaartijden en bemanningssterkte | [Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009) | [art 22, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=22) |
+| **Zeevaart en Visserij** |   |   |
+| Afgifte vaarbevoegdheidsbewijs | [Zeevaartbemanningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0009124) | [art 20](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=20) |
+| erkenning bewijs beroepsbekwaamheid andere lidstaat (buitenlands diploma) handelsvaart en zeilvaart | [Zeevaartbemanningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0009124) | [art 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=22a) |
+| Erkenning vaarbevoegdheidsbewijs (ander lidstaat) handelsvaart en zeilvaart | [Besluit zeevaartbemanning handelsvaart en zeilvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0012778) | [art 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012778&artikel=9) |
+| Erkenning vaarbevoegdheidsbewijs ander lidstaat of derde land(zeevisvaart) | [Zeevaartbemanningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0009124) | [art 22](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=22) |
+| Erkenning vaarbevoegdheidsbewijs ander lidstaat of derde land(zeevisvaart) | [Besluit Zeevisvaartbemanning](https://wetten.overheid.nl/jci1.3:c:BWBR0012790) | [art 35](https://wetten.overheid.nl/jci1.3:c:BWBR0012790&artikel=35) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0012790&artikel=22) |
+| A/B certificaat voor loodsen | [Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365) | [art 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=5) |
+|   | [Besluit certificaatloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0004865) | [art 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004865&artikel=2) |
+| **Bevoegdheden verkeersleiders** |   |   |
+| Initiële afgifte bewijs van bevoegdheid leerling-luchtverkeersleider | [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) | [art 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.2) of [2.8a](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.8a) |
+| Initiële afgifte bewijs van bevoegdheid leerling-luchtverkeersleider | [Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629) | [art 17](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=17) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=18) |
+| Initiële afgifte bewijs van bevoegdheid luchtverkeersleider | [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) | [art 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.2) en [2.8a](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.8a) |
+| Initiële afgifte bewijs van bevoegdheid luchtverkeersleider | [Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629) | [art 17](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=17) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=18) |
+| Verlengen/wijzigen/vernieuwen/wederafgifte bewijs van bevoegdheid leerlingluchtverkeersleider | [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) | [art 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.3) |
+| Verlengen/wijzigen/vernieuwen/wederafgifte bewijs van bevoegdheid leerlingluchtverkeersleider | [Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629) | [art 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=24) |
+| Vernieuwen/wijzigen/wederafgifte bewijs van bevoegdheid verkeersleider | [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) | [art 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.3) |
+| Vernieuwen/wijzigen/wederafgifte bewijs van bevoegdheid verkeersleider | [Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629) | [art 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=24) |
+| Initiële afgifte bewijs van bevoegdheid vluchtinformatieverstrekker | [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) | [art 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.2) |
+| Initiële afgifte bewijs van bevoegdheid vluchtinformatieverstrekker | [Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629) | [art 17](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=17) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=18) |
+| Wijzigen, vernieuwen, wederafgifte bewijs van bevoegdheid vluchtinformatieverstrekker | [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) | [art 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.3) |
+| Wijzigen, vernieuwen, wederafgifte bewijs van bevoegdheid vluchtinformatieverstrekker | [Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629) | [art 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=24) |
+| Initiële afgifte bewijs van bevoegdheid luchthaveninformatieverstrekker | [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) | [art 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.2) |
+| Initiële afgifte bewijs van bevoegdheid luchthaveninformatieverstrekker | [Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629) | [art 17](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=17) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=18) |
+| Wijzigen, vernieuwen, wederafgifte bewijs van bevoegdheid luchthaveninformatie-verstrekker | [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) | [art 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.3) |
+| Wijzigen, vernieuwen, wederafgifte bewijs van bevoegdheid luchthaveninformatie-verstrekker | [Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629) | [art 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=24) |
+| Schorsen van de bovenstaande bewijzen van bevoegdheid en bevoegdverklaringen | [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) | [art 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.5) |
+| Opleggen van examenverplichting na schorsing van de bovenstaande bewijzen van bevoegdheid en bevoegdverklaringen | [Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629) | [art 36](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=36) |
+| Intrekken van de bovenstaande bewijzen van bevoegdheid en bevoegdverklaringen | [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) | [art 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.6) |
+| **Bevoegdheden vliegend personeel** |   |   |
+| Bewijs van bevoegdheid vliegers ATPL, CPL, CFEL, MPL | [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) | [art 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.2) |
+| Bewijs van bevoegdheid vliegers ATPL, CPL, CFEL, MPL | [Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629) | [art 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=2) |
+| Bewijs van bevoegdheid vliegers RPL, PPL en CPL-FB | [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) | [art 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.2) |
+| Bewijs van bevoegdheid vliegers RPL, PPL en CPL-FB | [Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629) | [art 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=2) |
+| Verlengen, wijzigen of vernieuwen bewijs van bevoegdheid en bevoegdverklaringen | [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) | [art 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.3) |
+| Bewijs van gelijkstelling en erkenning, uitgezonderd m.b.t. medische verklaringen | [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) | [art 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.7) en [2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.8) |
+| Conversie JAA bewijs van bevoegdheid | [Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629) | [artt. 38 t/m 41](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=38) |
+| Bevoegdverklaring instructeur (afgifte/verlengen/vernieuwen) | [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) | [art 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.2) |
+| Bevoegdverklaring instructeur (afgifte/verlengen/vernieuwen) | [Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629) | [art 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=3) |
+| Bevoegdverklaring LPE | [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) | [art 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.2) |
+|   | [Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629) | [art 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=3) |
+| Algemene bevoegdverklaring (afgifte/verlengen/vernieuwen) | [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) | [art 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.2) |
+| Algemene bevoegdverklaring (afgifte/verlengen/vernieuwen) | [Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629) | [art 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=3) |
+| Bevoegdverklaring algemeen/bijzonder (nultarief) |   |   |
+| Ontheffing van de bovenstaande bewijzen van bevoegdheid en bevoegdverklaringen | [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) | [art 2.1 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.1) |
+| Schorsen van de bovenstaande bewijzen van bevoegdheid en bevoegdverklaringen | [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) | [art 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.5) |
+| Opleggen van examenverplichting na schorsing van de bovenstaande bewijzen van bevoegdheid en bevoegdverklaringen | [Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629) | [art 36](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=36) |
+| Intrekken van de bovenstaande bewijzen van bevoegdheid en bevoegdverklaringen | [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) | [art 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.6) |
+| **Bevoegdheden technisch personeel** |   |   |
+| Afgifte AML | [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) | [art 3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.30) |
+|   | [Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629) | [art 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=2) |
+| Afgifte Part-66 AML | [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) | [art 3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.30) |
+|   | [Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629) | [art 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=2) |
+| Afgifte AML (motor)ZVT | [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) | [art 3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.30) |
+|   | [Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629) | [art 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=2) |
+| Afgifte bijzondere bevoegdverklaring AML | [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) | [art 3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.30) |
+|   | [Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629) | [art 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=2) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=5) |
+| Afgifte bevoegdverklaring Part-66 AML | [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) | [art 3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.30) |
+|   | [Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629) | [art 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=2) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=5) |
+| Verlengen bijzondere bevoegdverklaring AML | [Regeling bijzondere bevoegdverklaringen AML en Part-66-AML](https://wetten.overheid.nl/jci1.3:c:BWBR0024644) | [art 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024644&artikel=6) |
+| Vernieuwen/wederafgifte AML | [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) | [art 2.3, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.3) |
+| Verlengen bijzondere bevoegdverklaring AML (motor) ZVT | [Regeling bijzondere bevoegdverklaringen AML en Part-66-AML](https://wetten.overheid.nl/jci1.3:c:BWBR0024644) | [art 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024644&artikel=6) |
+| Schorsen en intrekken van de bovenstaande bevoegdheden | [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) | [art 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.5) en [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.6) |
+| Schorsen en intrekken van de bovenstaande bevoegdheden | [Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629) | [art 36](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=36) |
+|   | [Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629) | [art 10](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=10) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=11) |
+| **Praktijkexamens** |   |   |
+| Praktijkexamens (toedeling ipex) | [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) | [art 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.2) |
+|   | [Examenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0017237) | [art 15](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&artikel=15) |
+| Praktijkexamens (toedeling minister) | [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) | [art 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.2) |
+|   | [Examenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0017237) | [art 15](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&artikel=15) |
+
+Dit besluit zal in de Staatscourant worden geplaatst.
