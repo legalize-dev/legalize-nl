@@ -4,7 +4,7 @@ identifier: "BWBV0001000"
 country: "nl"
 rank: "verdrag"
 publication_date: "2021-08-01"
-last_updated: "2009-07-01"
+last_updated: "2010-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001000"
 soort: "verdrag"
@@ -211,25 +211,17 @@ Het Hof bestaat uit een aantal rechters dat gelijk is aan het aantal Hoge Verdra
 
 ##### Artikel 22. Verkiezing van rechters
 
-1. Voor elke Hoge Verdragsluitende Partij worden de rechters gekozen door de Parlementaire Vergadering, met een meerderheid van de uitgebrachte stemmen, uit een lijst van drie kandidaten, voorgedragen door de Hoge Verdragsluitende Partij.
+Voor elke Hoge Verdragsluitende Partij worden de rechters gekozen door de Parlementaire Vergadering, met een meerderheid van de uitgebrachte stemmen, uit een lijst van drie kandidaten, voorgedragen door de Hoge Verdragsluitende Partij.
 
-2. Dezelfde procedure wordt gevolgd om het Hof aan te vullen in geval van toetreding van nieuwe Hoge Verdragsluitende Partijen en om tussentijdse vacatures te vervullen.
+##### Artikel 23. – Ambtstermijn en ontheffing uit het ambt
 
-##### Artikel 23. Ambtstermijn
+1. De rechters worden gekozen voor een periode van negen jaar. Zij zijn niet herkiesbaar.
 
-1. De rechters worden gekozen voor een periode van zes jaar. Zij zijn herkiesbaar. De ambtstermijn van de helft van de rechters die bij de eerste verkiezing zijn gekozen, eindigt evenwel na drie jaar.
+2. De ambtstermijn van rechters eindigt wanneer zij de leeftijd van 70 jaar bereiken.
 
-2. De rechters van wie de ambtstermijn zal eindigen na de eerste periode van drie jaar, worden bij loting aangewezen door de Secretaris-Generaal van de Raad van Europa, onmiddellijk na hun verkiezing.
+3. De rechters blijven in functie tot hun vervanging. Zij handelen evenwel de zaken af die zij reeds in behandeling hebben.
 
-3. Teneinde zo veel mogelijk te bewerkstelligen dat elke drie jaar de ambtstermijn van de helft van de rechters wordt verlengd, kan de Parlementaire Vergadering, alvorens tot een volgende verkiezing over te gaan, besluiten dat de ambtstermijn van één of meer te verkiezen rechters een andere duur heeft dan zes jaar, doch ten hoogste negen en ten minste drie jaar.
-
-4. Ingeval het meer dan één ambtstermijn betreft en de Parlementaire Vergadering het voorgaande lid toepast, geschiedt de toedeling van de ambtstermijnen door middel van loting door de Secretaris-Generaal van de Raad van Europa onmiddellijk na de verkiezing.
-
-5. Een rechter die is verkozen ter vervanging van een rechter van wie de ambtstermijn niet is geëindigd, maakt de ambtstermijn van zijn voorganger af.
-
-6. De ambtstermijn van rechters eindigt wanneer zij de leeftijd van 70 jaar bereiken.
-
-7. De rechters blijven in functie tot hun vervanging. Zij handelen evenwel de zaken af die zij reeds in behandeling hebben.
+4. Een rechter kan slechts van zijn functie worden ontheven indien de overige rechters bij een meerderheid van tweederde besluiten dat die rechter niet meer aan de vereiste voorwaarden voldoet.
 
 ##### Artikel 24. – Griffie en rapporteurs
 
@@ -237,9 +229,21 @@ Het Hof bestaat uit een aantal rechters dat gelijk is aan het aantal Hoge Verdra
 
 2. Indien het Hof zitting houdt als alleenzittende rechter, wordt het bijgestaan door rapporteurs die fungeren onder de bevoegdheid van de President van het Hof. Zij maken deel uit van de griffie van het Hof.
 
-##### Artikel 25. Griffie en referendarissen
+##### Artikel 25. Hof in voltallige vergadering bijeen
 
-Het Hof beschikt over een griffie, waarvan de taken en de organisatie worden vastgesteld in het reglement van het Hof. Het Hof wordt bijgestaan door referendarissen.
+Het Hof in voltallige vergadering bijeen:
+
+- a. kiest zijn President en één of twee Vice-Presidenten voor een periode van drie jaar; zij zijn herkiesbaar;
+
+- b. stelt Kamers in, voor bepaalde tijd;
+
+- c. kiest de Voorzitters van de Kamers van het Hof; zij zijn herkiesbaar;
+
+- d. neemt het reglement van het Hof aan;
+
+- e. kiest de Griffier en één of twee Plaatsvervangend Griffiers;
+
+- f. dient verzoeken in uit hoofde van artikel 26, tweede lid.
 
 ##### Artikel 26. – Alleenzittende rechters, comités, Kamers en Grote Kamer
 
@@ -275,11 +279,9 @@ Het Hof beschikt over een griffie, waarvan de taken en de organisatie worden vas
 
 ##### Artikel 29. Beslissingen van Kamers inzake ontvankelijkheid en gegrondheid
 
-1. Indien geen beslissing ingevolge artikel 28 is genomen, doet een Kamer uitspraak over de ontvankelijkheid en de gegrondheid van individuele verzoekschriften, ingediend op grond van artikel 34.
+1. Indien geen beslissing ingevolge artikel 27 of 28 is genomen, of geen uitspraak is gedaan uit hoofde van artikel 28, doet een Kamer uitspraak over de ontvankelijkheid en gegrondheid van individuele verzoekschriften ingediend op grond van artikel 34. De beslissing inzake ontvankelijkheid kan afzonderlijk worden genomen.
 
-2. Een Kamer doet uitspraak over de ontvankelijkheid en de gegrondheid van interstatelijke verzoekschriften, ingediend op grond van artikel 33.
-
-3. De beslissing inzake ontvankelijkheid wordt afzonderlijk genomen, tenzij het Hof, in uitzonderlijke gevallen, anders beslist.
+2. Een Kamer doet uitspraak over de ontvankelijkheid en de gegrondheid van interstatelijke verzoekschriften, ingediend op grond van artikel 33. De beslissing inzake de ontvankelijkheid wordt afzonderlijk genomen, tenzij het Hof, in uitzonderlijke gevallen, anders beslist.
 
 ##### Artikel 30. Afstand van rechtsmacht ten gunste van de Grote Kamer
 
@@ -289,13 +291,15 @@ Indien de bij een Kamer aanhangige zaak aanleiding geeft tot een ernstige vraag 
 
 De Grote Kamer,
 
-- a. doet uitspraak over op grond van artikel 33 of artikel 34 ingediende verzoekschriften wanneer een Kamer ingevolge artikel 30 afstand van rechtsmacht heeft gedaan of wanneer de zaak ingevolge artikel 43 naar de Grote Kamer is verwezen; en
+- a. doet uitspraak over op grond van artikel 33 of artikel 34 ingediende verzoekschriften wanneer een Kamer ingevolge artikel 30 afstand van rechtsmacht heeft gedaan of wanneer de zaak ingevolge artikel 43 naar de Grote Kamer is verwezen;
 
-- b. behandelt verzoeken om advies, gedaan ingevolge artikel 47.
+- b. doet uitspraak over door het Comité van Ministers in overeenstemming met artikel 46, vierde lid, aan het Hof voorgelegde kwesties; en
+
+- c. behandelt verzoeken om advies, gedaan ingevolge artikel 47.
 
 ##### Artikel 32. Rechtsmacht van het Hof
 
-1. De rechtsmacht van het Hof strekt zich uit tot alle kwesties met betrekking tot de interpretatie en de toepassing van het Verdrag en de Protocollen daarbij die aan het Hof worden voorgelegd zoals bepaald in de artikelen 33, 34 en 47.
+1. De rechtsmacht van het Hof strekt zich uit tot alle kwesties met betrekking tot de interpretatie en de toepassing van het Verdrag en de Protocollen daarbij die aan het Hof worden voorgelegd zoals bepaald in de artikelen 33, 34, 46 en 47.
 
 2. In geval van een meningsverschil met betrekking tot de vraag of het Hof rechtsmacht heeft, beslist het Hof.
 
@@ -317,7 +321,11 @@ Het Hof kan verzoekschriften ontvangen van ieder natuurlijk persoon, iedere niet
 
 - b. in wezen gelijk is aan een zaak die reeds eerder door het Hof is onderzocht of reeds aan een andere internationale instantie voor onderzoek of regeling is voorgelegd en geen nieuwe feiten bevat.
 
-3. Het Hof verklaart elk individueel verzoekschrift, ingediend op grond van artikel 34, niet ontvankelijk, wanneer het van oordeel is dat dit niet verenigbaar is met de bepalingen van het Verdrag of de Protocollen daarbij, kennelijk ongegrond is of een misbruik betekent van het recht tot het indienen van een verzoekschrift.
+3. Het Hof verklaart elk individueel verzoekschrift, ingediend op grond van artikel 34, niet ontvankelijk, wanneer het van oordeel is dat:
+
+- a. het verzoekschrift niet verenigbaar is met de bepalingen van het Verdrag of de Protocollen daarbij, kennelijk ongegrond is of een misbruik betekent van het recht tot het indienen van een verzoekschrift; of
+
+- b. de verzoeker geen wezenlijk nadeel heeft geleden, tenzij de eerbiediging van de in het Verdrag en de Protocollen daarbij omschreven rechten van de mens noopt tot onderzoek van het verzoekschrift naar de gegrondheid ervan en mits op deze grond geen zaken worden afgewezen die niet naar behoren zijn behandeld door een nationaal gerecht.
 
 4. Het Hof verwerpt elk verzoekschrift dat het ingevolge dit artikel als niet ontvankelijk beschouwt. Dit kan het in elk stadium van de procedure doen.
 
@@ -326,6 +334,8 @@ Het Hof kan verzoekschriften ontvangen van ieder natuurlijk persoon, iedere niet
 1. In alle zaken die voor een Kamer of de Grote Kamer aanhangig zijn, heeft een Hoge Verdragsluitende Partij waarvan een onderdaan verzoeker is het recht schriftelijke conclusies in te dienen en aan zittingen deel te nemen.
 
 2. De President van het Hof kan, in het belang van een goede rechtsbedeling, elke Hoge Verdragsluitende Partij die geen partij bij de procedure is of elke belanghebbende die niet de verzoeker is, uitnodigen schriftelijke conclusies in te dienen of aan zittingen deel te nemen.
+
+3. In alle zaken die voor een Kamer of de Grote Kamer aanhangig zijn, kan de Commissaris voor de Mensenrechten van de Raad van Europa schriftelijke conclusies indienen en aan hoorzittingen deelnemen.
 
 ##### Artikel 37. Schrapping van de rol
 
@@ -341,19 +351,19 @@ Het Hof zet de behandeling van het verzoekschrift evenwel voort, indien de eerbi
 
 2. Het Hof kan beslissen een verzoekschrift opnieuw op de rol te plaatsen wanneer het van oordeel is dat de omstandigheden zulks rechtvaardigen.
 
-##### Artikel 38. Behandeling van de zaak en procedure voor minnelijke schikking
+##### Artikel 38. – Behandeling van de zaak
 
-1. Indien het Hof het verzoekschrift ontvankelijk verklaart,
+Het Hof behandelt de zaak tezamen met de vertegenwoordigers van de partijen en verricht, indien nodig, nader onderzoek, voor de goede voortgang waarvan de betrokken Hoge Verdragsluitende Partijen alle noodzakelijke faciliteiten leveren.
 
-- a. zet het de behandeling van de zaak voort, tesamen met de vertegenwoordigers van de partijen en verricht, indien nodig, nader onderzoek, voor de goede voortgang waarvan de betrokken Staten alle noodzakelijke faciliteiten leveren;
+##### Artikel 39. – Minnelijke schikkingen
 
-- b. stelt het zich ter beschikking van de betrokken partijen teneinde tot een minnelijke schikking van de zaak te komen op basis van eerbiediging van de in het Verdrag en de Protocollen daarbij omschreven rechten van de mens.
+1. In elk stadium van de procedure kan het Hof zich ter beschikking stellen van de betrokken partijen teneinde tot een minnelijke schikking van de zaak te komen op basis van eerbiediging van de in het Verdrag en de Protocollen daarbij omschreven rechten van de mens.
 
-2. De in het eerste lid, letter b, omschreven procedure is vertrouwelijk.
+2. De in het eerste lid omschreven procedure is vertrouwelijk.
 
-##### Artikel 39. Totstandbrenging van een minnelijke schikking
+3. Indien het tot een minnelijke schikking komt, schrapt het Hof de zaak van de rol bij een beslissing, die beperkt blijft tot een korte uiteenzetting van de feiten en de bereikte oplossing.
 
-Indien het tot een minnelijke schikking komt, schrapt het Hof de zaak van de rol bij een beslissing, die beperkt blijft tot een korte uiteenzetting van de feiten en de bereikte oplossing.
+4. De beslissing wordt toegezonden aan het Comité van Ministers dat toeziet op de tenuitvoerlegging van de voorwaarden van de minnelijke schikking als vervat in de beslissing.
 
 ##### Artikel 40. Openbare zittingen en toegang tot de stukken
 
@@ -397,11 +407,17 @@ Uitspraken van Kamers gelden als einduitspraak in overeenstemming met de bepalin
 
 2. Indien een uitspraak niet, geheel of gedeeltelijk, de eenstemmige mening van de rechters weergeeft, heeft iedere rechter het recht een uiteenzetting van zijn persoonlijke mening toe te voegen.
 
-##### Artikel 46. Bindende kracht en tenuitvoerlegging van uitspraken
+##### Artikel 46. – Bindende kracht en tenuitvoerlegging van uitspraken
 
 1. De Hoge Verdragsluitende Partijen verbinden zich ertoe zich te houden aan de einduitspraak van het Hof in de zaken waarbij zij partij zijn.
 
-2. De einduitspraak van het Hof wordt toegezonden aan het Comité van Ministers, dat toeziet op de tenuitvoerlegging ervan.
+2. De einduitspraak van het Hof wordt toegezonden aan het Comité van Ministers dat toeziet op de tenuitvoerlegging ervan.
+
+3. Indien het Comité van Ministers van mening is dat het toezicht op de tenuitvoerlegging van een einduitspraak wordt belemmerd vanwege een probleem met de interpretatie van de uitspraak, kan het de zaak voorleggen aan het Hof voor een uitspraak over vragen betreffende de interpretatie. Beslissingen tot verwijzing dienen te worden genomen met een tweederde meerderheid van de vertegenwoordigers die gerechtigd zijn in het Comité zitting te hebben.
+
+4. Indien het Comité van Ministers van mening is dat een Hoge Verdragsluitende Partij weigert zich te houden aan een einduitspraak in een zaak waarbij zij partij is, kan het, na die Partij daarvan formeel in kennis te hebben gesteld en op grond van een beslissing genomen met een meerderheid van tweederden van de vertegenwoordigers die gerechtigd zijn in het Comité zitting te hebben, aan het Hof de vraag voorleggen of die Partij verzuimd heeft te voldoen aan haar verplichtingen uit hoofde van het eerste lid.
+
+5. Indien het Hof constateert dat er sprake is van een schending van het eerste lid, legt het de zaak voor aan het Comité van Ministers teneinde te overwegen welke maatregelen dienen te worden getroffen. Indien het Hof constateert dat er geen sprake is van een schending van het eerste lid, legt het de zaak voor aan het Comité van Ministers dat het onderzoek van de zaak sluit.
 
 ##### Artikel 47. Adviezen
 
@@ -479,10 +495,12 @@ De Hoge Verdragsluitende Partijen komen overeen dat zij, behoudens bijzondere ov
 
 1. Dit Verdrag is voor ondertekening door de Leden van de Raad van Europa opengesteld. Het zal worden bekrachtigd. De akten van bekrachtiging zullen worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
 
-2. Dit Verdrag zal in werking treden na de nederlegging van tien akten van bekrachtiging.
+2. De Europese Unie kan toetreden tot dit Verdrag.
 
-3. Met betrekking tot iedere ondertekenaar die het daarna bekrachtigt, zal het Verdrag in werking treden op de dag van de nederlegging der akte van bekrachtiging.
+3. Dit Verdrag zal in werking treden na de nederlegging van tien akten van bekrachtiging.
 
-4. De Secretaris-Generaal van de Raad van Europa geeft aan alle Leden van de Raad van Europa kennis van de inwerkingtreding van het Verdrag, van de namen der Hoge Verdragsluitende Partijen die het bekrachtigd hebben, evenals van de nederlegging van iedere akte van bekrachtiging die later heeft plaats gehad.
+4. Met betrekking tot iedere ondertekenaar die het daarna bekrachtigt, zal het Verdrag in werking treden op de dag van de nederlegging der akte van bekrachtiging.
+
+5. De Secretaris-Generaal van de Raad van Europa geeft aan alle Leden van de Raad van Europa kennis van de inwerkingtreding van het Verdrag, van de namen der Hoge Verdragsluitende Partijen die het bekrachtigd hebben, evenals van de nederlegging van iedere akte van bekrachtiging die later heeft plaats gehad.
 
 Done at Rome this 4th day of November 1950 in English and French, both texts being equally authentic, in a single copy which shall remain deposited in the archives of the Council of Europe. The Secretary-General shall transmit certified copies to each of the signatories.
