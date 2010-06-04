@@ -4,7 +4,7 @@ identifier: "BWBV0001973"
 country: "nl"
 rank: "verdrag"
 publication_date: "2010-06-04"
-last_updated: "1996-01-10"
+last_updated: "2010-06-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001973"
 soort: "verdrag"
@@ -75,7 +75,7 @@ Tenzij uit het zinsverband anders blijkt, hebben de in deze Overeenkomst en de B
 
 ##### Artikel 2. Verleende rechten
 
-1. Elke Overeenkomstsluitende Partij verleent de andere Overeenkomstsluitende Partij, tenzij in de Bijlage anders is bepaald, de volgende rechten voor het verrichten van internationaal luchtvervoer door de aangewezen luchtvaartmaatschappij van de andere Overeenkomstsluitende Partij:
+1. Elke Overeenkomstsluitende Partij verleent de andere Overeenkomstsluitende Partij, tenzij in de Bijlage anders is bepaald, de volgende rechten voor het verrichten van internationaal luchtvervoer door de aangewezen luchtvaartmaatschappijen van de andere Overeenkomstsluitende Partij:
 
 - a. om zonder te landen over haar grondgebied te vliegen;
 
@@ -83,19 +83,21 @@ Tenzij uit het zinsverband anders blijkt, hebben de in deze Overeenkomst en de B
 
 - c. om op haar grondgebied op de voor die route in de Bijlage omschreven punten te landen voor het afzetten en opnemen van internationaal verkeer in passagiers, vracht en post, afzonderlijk of gecombineerd.
 
-2. Geen van de bepalingen van het eerste lid van dit artikel wordt geacht de luchtvaartmaatschappij van de ene Overeenkomstsluitende Partij het recht te geven tot deelneming aan luchtvervoer tussen punten gelegen op het grondgebied van de andere Overeenkomstsluitende Partij.
+2. Geen van de bepalingen van het eerste lid van dit artikel wordt geacht de luchtvaartmaatschappijen van de ene Overeenkomstsluitende Partij het recht te geven tot deelneming aan luchtvervoer tussen punten gelegen op het grondgebied van de andere Overeenkomstsluitende Partij.
 
 3. Voor het uitvoeren van ongeregelde of chartervluchten door de luchtvaartmaatschappijen van de ene Overeenkomstsluitende Partij naar en vanuit het grondgebied van de andere Overeenkomstsluitende Partij is voorafgaande toestemming vereist van de andere Overeenkomstsluitende Partij.
 
 ##### Artikel 3. Aanwijzing en verlening van vergunningen
 
-1. Elke Overeenkomstsluitende Partij heeft het recht door middel van een schriftelijke kennisgeving langs diplomatieke weg aan de andere Overeenkomstsluitende Partij een luchtvaartmaatschappij aan te wijzen voor de exploitatie van luchtdiensten op de omschreven routes en de eerder aangewezen luchtvaartmaatschappij te vervangen door een andere luchtvaartmaatschappij.
+1. Elke Overeenkomstsluitende Partij heeft het recht door middel van een schriftelijke kennisgeving langs diplomatieke weg aan de andere Overeenkomstsluitende Partij maximaal twee luchtvaartmaatschappijen aan te wijzen voor de exploitatie van luchtdiensten op de in de Bijlage omschreven routes en de eerder aangewezen luchtvaartmaatschappijen te vervangen door andere luchtvaartmaatschappijen
 
-2. Na ontvangst van bedoelde kennisgeving verleent de andere Partij, met inachtneming van het bepaalde in het derde en vierde lid van dit artikel, zonder uitstel de vereiste exploitatievergunningen aan de aangewezen luchtvaartmaatschappij.
+2. Elke Overeenkomstsluitende Partij heeft daarnaast het recht door middel van een schriftelijke kennisgeving langs diplomatieke weg aan de andere Overeenkomstsluitende Partij maximaal twee luchtvaartmaatschappijen aan te wijzen voor de exploitatie van geregelde vrachtdiensten.
 
-3. De luchtvaartautoriteiten van de andere Partij kunnen verlangen dat een door de ene Partij aangewezen luchtvaartmaatschappij te hunnen genoegen aantoont dat zij voldoet aan de voorwaarden zoals die zijn voorgeschreven krachtens de wetten en voorschriften, die gewoonlijk en redelijkerwijs door zodanige autoriteiten worden toegepast op de exploitatie van internationale luchtdiensten.
+3. Na ontvangst van bedoelde kennisgeving verleent de andere Partij, met inachtneming van het bepaalde in het vierde en vijfde lid van dit artikel, zonder uitstel de vereiste exploitatievergunningen aan de aangewezen luchtvaartmaatschappijen.
 
-4. Elke Partij heeft het recht de in het tweede lid van dit artikel genoemde exploitatievergunning te weigeren of daaraan die voorwaarden te verbinden, die zij noodzakelijk acht in die gevallen waarin niet naar haar genoegen is aangetoond dat een aanmerkelijk deel van de eigendom van en het daadwerkelijk toezicht op de luchtvaartmaatschappij berusten bij de Partij die de luchtvaartmaatschappij aanwijst, of bij onderdanen, die ingezetenen zijn van die Partij of van beide.
+4. De luchtvaartautoriteiten van de andere Partij kunnen verlangen dat een door de ene Partij aangewezen luchtvaartmaatschappij te hunnen genoegen aantoont dat zij voldoet aan de voorwaarden zoals die zijn voorgeschreven krachtens de wetten en voorschriften, die gewoonlijk en redelijkerwijs door zodanige autoriteiten worden toegepast op de exploitatie van internationale luchtdiensten.
+
+5. Elke Partij heeft het recht de in het tweede lid van dit artikel genoemde exploitatievergunning te weigeren of daaraan die voorwaarden te verbinden, die zij noodzakelijk acht in die gevallen waarin niet naar haar genoegen is aangetoond dat een aanmerkelijk deel van de eigendom van en het daadwerkelijk toezicht op de luchtvaartmaatschappij berusten bij de Partij die de luchtvaartmaatschappij aanwijst, of bij onderdanen, die ingezetenen zijn van die Partij of van beide.
 
 ##### Artikel 4. Intrekking of opschorting van vergunningen
 
@@ -121,7 +123,7 @@ Tenzij uit het zinsverband anders blijkt, hebben de in deze Overeenkomst en de B
 
 Hierbij neemt elke Overeenkomstsluitende Partij de belangen van de andere Overeenkomstsluitende Partij in aanmerking.
 
-4. Elke Overeenkomstsluitende Partij treft alle passende maatregelen binnen haar rechtsmacht ter bestrijding van alle vormen van discriminatie of oneerlijke concurrentiepraktijken die de concurrentiepositie van de aangewezen luchtvaartmaatschappij van de andere Overeenkomstsluitende Partij nadelig beïnvloeden.
+4. Elke Overeenkomstsluitende Partij treft alle passende maatregelen binnen haar rechtsmacht ter bestrijding van alle vormen van discriminatie of oneerlijke concurrentiepraktijken die de concurrentiepositie van de aangewezen luchtvaartmaatschappijen van de andere Overeenkomstsluitende Partij nadelig beïnvloeden.
 
 ##### Artikel 6. Belastingen, douanerechten en heffingen
 
@@ -131,47 +133,47 @@ Hierbij neemt elke Overeenkomstsluitende Partij de belangen van de andere Overee
 
 ##### Artikel 7. Tarieven
 
-1. De tarieven, die door de aangewezen luchtvaartmaatschappij van een Partij in rekening worden gebracht voor vervoer op de in de Bijlage omschreven routes dienen te worden vastgesteld op een redelijk niveau, waarbij rekening wordt gehouden met alle daarvoor in aanmerking komende factoren, waaronder begrepen de exploitatiekosten, de kenmerkende eigenschappen van de dienst en een redelijke winst.
+1. Elke Overeenkomstsluitende Partij staat toe dat elke aangewezen luchtvaartmaatschappij prijzen vaststelt voor het luchtvervoer op basis van commerciële marktoverwegingen. Het ingrijpen door de Overeenkomstsluitende Partijen beperkt zich tot:
 
-2. De aldus vastgestelde tarieven worden ter goedkeuring voorgelegd aan de luchtvaartautoriteiten van beide Partijen, tenminste 45 (vijfenveertig) dagen voor hun toepassing; in bijzondere gevallen kan deze periode in onderling overleg worden verkort.
+- a. voorkoming van de praktijk van afbraakprijzen en/of onredelijke prijsdiscriminatie of onredelijke praktijken;
 
-3. De tarieven kunnen uitdrukkelijk worden goedgekeurd of worden, indien geen van beide luchtvaartautoriteiten binnen dertig (30) dagen na de datum van voorlegging overeenkomstig het tweede lid van dit artikel te kennen heeft gegeven de tarieven niet goed te keuren, geacht te zijn goedgekeurd.
+- b. bescherming van consumenten tegen prijzen die onredelijk hoog of beperkend zijn als gevolg van misbruik van een dominante positie;
 
-Indien de termijn voor de voorlegging van tarieven wordt verkort, zoals bepaald in het tweede lid, kunnen de luchtvaartautoriteiten overeenkomen dat de termijn waarbinnen van het niet goedkeuren kennis dient te worden gegeven dienovereenkomstig wordt verkort.
+- c. bescherming van luchtvaartmaatschappijen tegen prijzen die kunstmatig laag zijn als gevolg van, onder andere, rechtstreekse of onrechtstreekse overheidssubsidie of –steun.
 
-4. Indien om welke reden dan ook een bepaald tarief niet kan worden vastgesteld volgens de hierboven genoemde bepalingen of indien gedurende de overeenkomstig het derde lid van dit artikel geldende termijn één der Partijen aan de andere schriftelijk kennis geeft van haar afkeuring van enig tarief dat aan haar is voorgelegd, zullen de luchtvaartautoriteiten van de Partijen in onderling overleg trachten een tarief vast te stellen.
+2. Elke Overeenkomstsluitende Partij kan verlangen dat bij haar luchtvaartautoriteiten kennisgeving wordt gedaan van de prijzen die door luchtvaartmaatschappijen van de andere Overeenkomstsluitende Partij worden berekend voor vluchten van of naar haar grondgebied.
 
-5. Indien geen overeenstemming wordt bereikt tussen de luchtvaartautoriteiten zal het laatst goedgekeurde tarief van kracht blijven.
+3. Geen van de Overeenkomstsluitende Partijen neemt unilaterale maatregelen ter voorkoming van de invoering of handhaving van een prijs die wordt berekend of voorgesteld door (a) een luchtvaartmaatschappij van een van beide Overeenkomstsluitende Partijen voor internationaal luchtvervoer tussen de grondgebieden van de Overeenkomstsluitende Partijen, of door (b) een luchtvaartmaatschappij van de ene Overeenkomstsluitende Partij voor internationaal luchtvervoer tussen het grondgebied van de andere Overeenkomstsluitende Partij en elk ander land.
 
-6. De Overeenkomstsluitende Partijen zullen erop toezien dat de aangewezen luchtvaartmaatschappijen geen tarieven hanteren die afwijken van die welke in overeenstemming met de bepalingen van dit artikel zijn goedgekeurd.
+Indien een Overeenkomstsluitende Partij van mening is dat een dergelijke prijs strijdig is met het bepaalde in het eerste lid van dit artikel, verzoekt zij om overleg en stelt zij de andere Overeenkomstsluitende Partij zo spoedig mogeliik in kennis van de redenen van haar ongenoegen. Dit overleg vindt plaats uiterlijk dertig (30) dagen na de ontvangst van het verzoek van de andere Overeenkomstsluitende Partij, en de Overeenkomstsluitende Partijen werken samen om de gegevens te verzamelen die nodig zijn voor een redelijke oplossing van de kwestie. Indien de Overeenkomstsluitende Partijen overeenstemming bereiken ten aanzien van een prijs waarover een kennisgeving van ongenoegen is gedaan, stelt elke Overeenkomstsluitende Partij al het mogelijke in het werk om deze overeenstemming daadwerkelijk na te leven. Bij gebreke van een dergelijke overeenstemming, gaat of blijft de desbetreffende prijs gelden.
 
 ##### Artikel 8. Commerciële aktiviteiten
 
-1. De aangewezen luchtvaartmaatschappij van de ene Partij is gerechtigd om kantoren te houden op het grondgebied van de andere Partij voor de verkoop van luchttransportdocumenten, die gelden voor de in deze Overeenkomst omschreven routes.
+1. De aangewezen luchtvaartmaatschappijen van de ene Partij zijn gerechtigd om kantoren te houden op het grondgebied van de andere Partij voor de verkoop van luchttransportdocumenten, die gelden voor de in deze Overeenkomst omschreven routes.
 
 2. Een luchtvaartmaatschappij aangewezen door een Partij heeft het recht, met inachtneming van de wetten en voorschriften van de andere Partij, op het grondgebied van de andere Partij, haar eigen vertegenwoordiger, technische en commerciële staf, zoals vereist is voor de uitvoering van de overeengekomen diensten, te stationeren.
 
-3. In deze behoeften aan personeel kan naar keuze van de aangewezen luchtvaartmaatschappij worden voorzien door eigen personeel of door gebruikmaking van de diensten van een andere organisatie, onderneming of luchtvaartmaatschappij die werkzaam is op het grondgebied van de andere Overeenkomstsluitende Partij en die gemachtigd is dergelijke diensten te verlenen op het grondgebied van die Overeenkomstsluitende Partij.
+3. In deze behoeften aan personeel kan naar keuze van de aangewezen luchtvaartmaatschappijen worden voorzien door eigen personeel of door gebruikmaking van de diensten van een andere organisatie, onderneming of luchtvaartmaatschappijen die werkzaam is op het grondgebied van de andere Overeenkomstsluitende Partij en die gemachtigd is dergelijke diensten te verlenen op het grondgebied van die Overeenkomstsluitende Partij.
 
 4. Bovenvermelde activiteiten worden verricht in overeenstemming met de wetten en voorschriften van de andere Overeenkomstsluitende Partij.
 
 ##### Artikel 9. Dienstregeling
 
-1. De door elke Overeenkomstsluitende Partij aangewezen luchtvaartmaatschappij legt dertig (30) dagen tevoren de dienstregeling van haar voorgenomen diensten ter goedkeuring voor aan de luchtvaartautoriteit van de andere Overeenkomstsluitende Partij en vermeldt daarbij de frequentie, het type luchtvaartuig, de configuratie en het aantal zitplaatsen dat beschikbaar zal zijn voor het publiek.
+1. Elke aangewezen luchtvaartmaatschappij legt zeven (7) dagen tevoren de dienstregeling van haar voorgenomen diensten ter goedkeuring voor aan de luchtvaartautoriteit van de andere Overeenkomstsluitende Partij en vermeldt daarbij de frequentie, het type luchtvaartuig, de configuratie en het aantal zitplaatsen dat beschikbaar zal zijn voor het publiek.
 
-2. Verzoeken om toestemming voor het uitvoeren van additionele vluchten kunnen door de aangewezen luchtvaartmaatschappij van de ene Overeenkomstsluitende Partij rechtstreeks aan de luchtvaartautoriteit van de andere Overeenkomstsluitende Partij ter goedkeuring worden voorgelegd.
+2. Verzoeken om toestemming voor het uitvoeren van additionele vluchten kunnen door de aangewezen luchtvaartmaatschappijen van de ene Overeenkomstsluitende Partij rechtstreeks aan de luchtvaartautoriteit van de andere Overeenkomstsluitende Partij ter goedkeuring worden voorgelegd.
 
 ##### Artikel 10. Toepassing van wetten, voorschriften en procedures
 
-1. De wetten, voorschriften en procedures van een Overeenkomstsluitende Partij betreffende de toelating tot of het vertrek uit haar grondgebied van in internationale luchtdiensten gebruikte luchtvaartuigen of betreffende de exploitatie van en het vliegen met zodanige luchtvaartuigen dienen door de aangewezen luchtvaartmaatschappij van de andere Overeenkomstsluitende Partij te worden nageleefd vanaf de binnenkomst in en tot en met het vertrek uit genoemd grondgebied.
+1. De wetten, voorschriften en procedures van een Overeenkomstsluitende Partij betreffende de toelating tot of het vertrek uit haar grondgebied van in internationale luchtdiensten gebruikte luchtvaartuigen of betreffende de exploitatie van en het vliegen met zodanige luchtvaartuigen dienen door de aangewezen luchtvaartmaatschappijen van de andere Overeenkomstsluitende Partij te worden nageleefd vanaf de binnenkomst in en tot en met het vertrek uit genoemd grondgebied.
 
-2. De wetten, voorschriften en procedures van een Overeenkomstsluitende Partij betreffende immigratie, paspoorten of andere erkende reisdocumenten, binnenkomst, inklaring, douane en quarantaine dienen te worden nageleefd door of namens bemanningsleden, passagiers, vracht en post vervoerd door luchtvaartuigen van de aangewezen luchtvaartmaatschappij van de andere Overeenkomstsluitende Partij vanaf de binnenkomst in tot en met het vertrek uit het grondgebied van eerstgenoemde Overeenkomstsluitende Partij.
+2. De wetten, voorschriften en procedures van een Overeenkomstsluitende Partij betreffende immigratie, paspoorten of andere erkende reisdocumenten, binnenkomst, inklaring, douane en quarantaine dienen te worden nageleefd door of namens bemanningsleden, passagiers, vracht en post vervoerd door luchtvaartuigen van de aangewezen luchtvaartmaatschappijen van de andere Overeenkomstsluitende Partij vanaf de binnenkomst in tot en met het vertrek uit het grondgebied van eerstgenoemde Overeenkomstsluitende Partij.
 
 3. Passagiers, bagage en vracht die op doorreis zijn via het grondgebied van een Overeenkomstsluitende Partij en die de zone van de luchthaven die daarvoor gereserveerd is niet verlaten, worden, behalve wat veiligheidsmaatregelen tegen geweld en luchtpiraterij betreft, slechts aan een vereenvoudigde controle onderworpen. Bagage en vracht op doorreis zijn vrijgesteld van douanerechten en andere soortgelijke belastingen.
 
 4. Kosten en heffingen die op het grondgebied van een Overeenkomstsluitende Partij met betrekking tot de vluchten van de luchtvaartmaatschappij van de andere Overeenkomstsluitende Partij in rekening worden gebracht voor het gebruik van luchthavens en andere luchtvaartvoorzieningen op het grondgebied van de eerstbedoelde Partij, mogen niet hoger zijn dan die welke in rekening worden gebracht met betrekking tot de vluchten van een andere luchtvaartmaatschappij die soortgelijke vluchten uitvoert.
 
-5. Geen der Overeenkomstsluitende Partijen begunstigt een andere luchtvaartmaatschappij ten opzichte van de aangewezen luchtvaartmaatschappij van de andere Overeenkomstsluitende Partij bij de toepassing van haar voorschriften inzake douane, immigratie, quarantaine en soortgelijke voorschriften, of bij het gebruik van luchthavens, luchtwegen, luchtverkeersdiensten en aanverwante voorzieningen waarover zij zeggenschap heeft.
+5. Geen der Overeenkomstsluitende Partijen begunstigt een andere luchtvaartmaatschappij ten opzichte van de aangewezen luchtvaartmaatschappijen van de andere Overeenkomstsluitende Partij bij de toepassing van haar voorschriften inzake douane, immigratie, quarantaine en soortgelijke voorschriften, of bij het gebruik van luchthavens, luchtwegen, luchtverkeersdiensten en aanverwante voorzieningen waarover zij zeggenschap heeft.
 
 ##### Artikel 11. Erkenning van bewijzen en vergunningen
 
@@ -213,11 +215,13 @@ Elke Overeenkomstsluitende Partij behoudt zich evenwel het recht voor om voor vl
 
 - a. het belang van gebruikers van luchtvervoersdiensten zal worden beschermd tegen alle misbruik van zodanige informatie, met inbegrip van misleidende voorstelling daarvan;
 
-- b. de aangewezen luchtvaartmaatschappij van een Overeenkomstsluitende Partij en de agenten van die luchtvaartmaatschappij onbeperkt en op non-discriminatoire wijze toegang tot en gebruik van de geautomatiseerde boekingssysteem hebben op het grondgebied van de andere Overeenkomstsluitende Partij;
+- b. de aangewezen luchtvaartmaatschappijen van een Overeenkomstsluitende Partij en de agenten van die luchtvaartmaatschappijen onbeperkt en op non-discriminatoire wijze toegang tot en gebruik van de geautomatiseerde boekingssysteem hebben op het grondgebied van de andere Overeenkomstsluitende Partij;
 
-- c. in het grondgebied van elke Overeenkomstsluitende Partij is de nationale wetgeving van toepassing. Indien er geen nationale wetgeving bestaat, is de GBS-Gedragscode van de ICAO van toepassing. Hangende de aanneming van deze GBS-Gedragscode door de Vergadering van de ICAO zullen de geldende ICAO-richtlijnen inzake geautomatiseerde boekingssystemen van toepassing zijn.
+- c. in het grondgebied van elke Overeenkomstsluitende Partij is de nationale wetgeving van toepassing.
 
-2. Een Overeenkomstsluitende Partij garandeert de GBSen die door de aangewezen luchtvaartmaatschappij van de andere Overeenkomstsluitende Partij als hoofdsysteem zijn gekozen, vrije en onbelemmerde toegang tot haar grondgebied. Geen der Overeenkomstsluitende Partijen zal op haar grondgebied aan het GBS van de aangewezen luchtvaartmaatschappij van de andere Overeenkomstsluitende Partij eisen opleggen, of toelaten dat deze worden opgelegd, die strenger zijn dan die welke worden opgelegd aan het GBS van haar eigen aangewezen luchtvaartmaatschappij, b.v. met betrekking tot:
+Indien er geen nationale wetgeving bestaat, is de GBS-Gedragscode van de ICAO van toepassing. Hangende de aanneming van deze GBS-Gedragscode door de Vergadering van de ICAO zullen de geldende ICAO-richtlijnen inzake geautomatiseerde boekingssystemen van toepassing zijn.
+
+2. Een Overeenkomstsluitende Partij garandeert de GBSen die door de aangewezen luchtvaartmaatschappijen van de andere Overeenkomstsluitende Partij als hoofdsysteem zijn gekozen, vrije en onbelemmerde toegang tot haar grondgebied. Geen der Overeenkomstsluitende Partijen zal op haar grondgebied aan het GBS van de aangewezen luchtvaartmaatschappijen van de andere Overeenkomstsluitende Partij eisen opleggen, of toelaten dat deze worden opgelegd, die strenger zijn dan die welke worden opgelegd aan het GBS van haar eigen aangewezen luchtvaartmaatschappijen, b.v. met betrekking tot:
 
 - a. de exploitatie en verkoop van de GBS-diensten, met inbegrip van de regels inzake het tonen en redigeren van een GBS; en
 
