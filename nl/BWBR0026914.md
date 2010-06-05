@@ -4,7 +4,7 @@ identifier: "BWBR0026914"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-05-04"
-last_updated: "2010-05-22"
+last_updated: "2010-06-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026914"
 soort: "ministeriele-regeling"
@@ -67,7 +67,7 @@ Besluit:
 | 1.13 | Subsidieregeling starten, groeien en overdragen van ondernemingen (veiligheid kleine bedrijven) | 9.11 |   | 16-03 t/m 26-04 | 4.000.000 |
 | 1.14 | Subsidieregeling starten, groeien en overdragen van ondernemingen (veiligheid kleine bedrijven) | 9.12 |   | 16-03 t/m 26-04 | 2.300.000 |
 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855) |
-| 2.1 | Subsidieregeling innoveren (Eurostars-projecten) | 2.2 |   | 15-01 t/m 29-01 | 2.500.000 |
+| 2.1 | Subsidieregeling innoveren (Eurostars-projecten) | 2.2 |   | 15-01 t/m 29-01 14-06 t/m 28-06 | 2.500.000 3.750.000 |
 | 2.2 | Subsidieregeling innoveren (innovatiekredieten) | 3.2 | Klinische ontwikkelingsprojecten | 01-01 t/m 31-12 | 15.917.000 |
 | 2.3 | Subsidieregeling innoveren (innovatiekredieten) | 3.2 | Technische ontwikkelingsprojecten | 01-01 t/m 31-12 | 32.157.000 |
 | 2.3a | Subsidieregeling innoveren (innovatiekredieten) | 3.2 | Duurzame technische ontwikkelingsprojecten | 01-01 t/m 01-07 | 24.000.000 |
@@ -81,8 +81,8 @@ Besluit:
 | 2.10 | Subsidieregeling innoveren (private innovatievouchers) | 5a.3 | Aantal beschikbare kleine vouchers | 23-2 t/m 31-12 | 1000 stuks |
 | 2.11 | Subsidieregeling innoveren (innovatie voor maatschappelijke veiligheid) | 6.2 |   |   |   |
 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) |
-| 3.1 | Subsidieregeling sterktes in innovatie (Internationaal innoveren) | 2.2 | Eureka-innovatieprojecten en geïndustrialiseerde landen innovatieprojecten |   |   |
-| 3.2 | Subsidieregeling sterktes in innovatie (Internationaal innoveren) | 2.2 | Opkomende markten innovatieprojecten | 01-01 t/m 25-06 | 3.000.000 |
+| 3.1 | Subsidieregeling sterktes in innovatie (Internationaal innoveren) | 2.2 | Eureka-innovatieprojecten en geïndustrialiseerde landen innovatieprojecten | 14-06 t/m 13-09 | 1.800.000 |
+| 3.2 | Subsidieregeling sterktes in innovatie (Internationaal innoveren) | 2.2 | Opkomende markten innovatieprojecten | 01-01 t/m 25-06 28-06 t/m 13-09 | 3.000.000 1.000.000 |
 | 3.3 | Subsidieregeling sterktes in innovatie (IOP’s) | 3.2 |   | - | - |
 |   |   |   | Genomics (periode vooraanmelding) | 01-04 t/m 29-04 | - |
 |   |   |   | Genomics | 21-06 t/m 17-08 | 250.000 |
@@ -117,7 +117,7 @@ Besluit:
 | 3.12 | Subsidieregeling sterktes in innovatie ( HTAS-EVT-projecten) | 6.18 |   | 01-01 t/m 01-02 | 14.700.000 |
 | 3.13 | Subsidieregeling sterktes in innovatie (InnoWATOR-projecten) | 7.2 |   | 01-03 t/m 28-05 | 4.000.000 |
 | 3.14 | Subsidieregeling sterktes in innovatie (Internationale InnoWATOR-projecten) | 7.11 |   | 08-02 t/m 29-10 | 2.000.000 |
-| 3.15 | Subsidieregeling sterktes in innovatie (InnoWATOR garantiefaciliteit) | 7.20 |   | 08-02 t/m 11-06 | 2.000.000 |
+| 3.15 | Subsidieregeling sterktes in innovatie (InnoWATOR garantiefaciliteit) | 7.20 |   | 08-02 t/m 29-10 | 2.000.000 |
 | 3.16 | Subsidieregeling sterktes in innovatie (maritieme MKB-projecten) | 8.2 |   |   |   |
 | 3.17 | Subsidieregeling sterktes in innovatie (maritieme innovatieprojecten) | 8.8 |   |   |   |
 | 3.18 | Subsidieregeling sterktes in innovatie (Point One MKB-projecten) | 9.2 |   |   |   |
