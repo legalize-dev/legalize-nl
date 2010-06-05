@@ -4,7 +4,7 @@ identifier: "BWBR0024639"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2009-01-24"
+last_updated: "2010-06-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024639"
 soort: "ministeriele-regeling"
@@ -46,31 +46,15 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **Minister:** Minister van Verkeer en Waterstaat.
+- **Minister:** Minister van Verkeer en Waterstaat;
+
+- **typebevoegdheid:** bevoegdheid tot het uitvoeren van onderhoudswerkzaamheden aan een bepaald type vliegtuig met een maximum startmassa van 5700 kg of minder.
 
 ### Hoofdstuk 2. Geregistreerde opleidingsinstellingen
 
 ##### Artikel 2
 
-1. Een geregistreerde opleidingsinstelling beschikt over een bewijs waarop de opleiding waarop de registratie van toepassing is, is vermeld.
-
-2. De registratie van een opleidingsinstelling kan worden gehandhaafd zolang er opleidingen voor het examen conform de eisen van Part-66 inzake basiskennis worden verzorgd, doch uiterlijk totdat de laatste deelnemer van het cohort dat gestart is met de opleiding vóór 28 september 2005, deze heeft beëindigd.
-
-3. De opleidingsinstelling dient het registratiebewijs in te leveren bij de Minister indien geen actieve deelnemers meer aan de opleidingsinstelling zijn verbonden of wanneer de laatste deelnemer van het in het tweede lid genoemd cohort de opleiding heeft afgerond.
-
-4. Wanneer de opleiding wordt gewijzigd of beëindigd, alsmede in geval van wijzigingen ten aanzien van het personeel, de faciliteiten, het leerplan, de leermiddelen of het beoordelingsregistratiesysteem ten behoeve van deze opleiding, stelt de geregistreerde opleidingsinstelling de Minister hiervan per omgaande in kennis.
-
-5. De registratie kan geheel of gedeeltelijk worden ingetrokken in geval de opleidingsinstelling verzuimt de Minister in kennis te stellen van wijzigingen bedoeld in het vierde lid, alsmede ingeval niet langer wordt voldaan aan de bij de registratie gestelde voorwaarden dat de opleidingsinstelling beschikt over:
-
-- a. voldoende en geschikt personeel;
-
-- b. voldoende en geschikte theorie- en praktijkruimten;
-
-- c. een leerplan dat een duidelijk overzicht van de leerstof omvat, alsmede het vereiste aantal lesuren en de verdeling over de voor de opleiding beschikbare tijd;
-
-- d. voldoende en geschikte leermiddelen; en
-
-- e. een beoordelingsregistratiesysteem waarmee de resultaten van de deelnemers op overzichtelijke wijze worden bijgehouden en bewaard tot tenminste 2 jaar na het door de deelnemers beëindigen van de opleiding.
+Vervallen
 
 ### Hoofdstuk 3. Examencommissie
 
@@ -80,7 +64,7 @@ De examencommissie voor onderhoudstechnici in de luchtvaart is bevoegd tot het a
 
 ##### Artikel 4
 
-1. De Minister stelt ten minste eenmaal per twee jaar het aantal examinatoren vast en biedt gelegenheid aan erkende onderhoudsorganisaties, erkende en geregistreerde opleidingsinstellingen, examinatoren en de voorzitter, bij een vacature personen voor te dragen.
+1. De Minister stelt ten minste eenmaal per twee jaar het aantal examinatoren vast en biedt gelegenheid aan erkende onderhoudsorganisaties, erkende opleidingsinstellingen, examinatoren en de voorzitter, bij een vacature personen voor te dragen.
 
 2. De Minister kan een voorgedragen persoon voor ten hoogste twee jaren autoriseren als examinator, nadat is aangetoond, dat hij of zij beschikt over de kennis, ervaring en bekwaamheid die voor het afnemen van het examen relevant is.
 
@@ -110,19 +94,17 @@ Daarnaast kunnen de voorzitter en de secretaris een vergoeding volgens het [Reis
 
 4. Het eerste lid is niet van toepassing op de in het eerste en derde lid bedoelde personen, die rijksambtenaar zijn en de desbetreffende werkzaamheden verrichtten tijdens diensttijd.
 
-5. In afwijking van het eerste lid wordt aan examinatoren die door de Minister zijn geautoriseerd op voordracht van een geregistreerde opleidingsinstelling, geen vergoeding verstrekt, wanneer het examen wordt afgenomen van deelnemers van die opleidingsinstelling.
-
 ##### Artikel 6
 
 De examinator is verplicht tot geheimhouding met betrekking tot de examenopgaven en de overige gegevens waarvan de vertrouwelijke aard is vastgesteld.
 
 ##### Artikel 7
 
-1. De autorisatie kan worden geschorst wanneer een ernstig vermoeden bestaat dat de examinator in strijd heeft gehandeld met het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=3&artikel=6&z=2009-01-24&g=2009-01-24), of het examenreglement.
+1. De autorisatie kan worden geschorst wanneer een ernstig vermoeden bestaat dat de examinator in strijd heeft gehandeld met het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=3&artikel=6&z=2010-06-05&g=2010-06-05), of het examenreglement.
 
-2. De autorisatie kan worden ingetrokken wanneer de examinator in strijd heeft gehandeld met het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=3&artikel=6&z=2009-01-24&g=2009-01-24), of het examenreglement.
+2. De autorisatie kan worden ingetrokken wanneer de examinator in strijd heeft gehandeld met het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=3&artikel=6&z=2010-06-05&g=2010-06-05), of het examenreglement.
 
-### Hoofdstuk 4. Examenreglement
+### Hoofdstuk 4. Examenreglement en examen
 
 ##### Artikel 8
 
@@ -132,32 +114,13 @@ De examinator is verplicht tot geheimhouding met betrekking tot de examenopgaven
 
 ##### Artikel 9
 
-1. De basiskennismodules voor de in tabel 1 genoemde bevoegdverklaringen op een AML waarmee wordt aangetoond dat wordt voldaan aan de eisen inzake basiskennis voor afgifte van die bevoegdverklaringen, zijn vastgelegd in de bij deze regeling behorende [bijlagen 1 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=1&z=2009-01-24&g=2009-01-24) en de tabellen 2 en 3.
+1. De basiskennismodules die deel uitmaken van het examen voor de in tabel 1 genoemde bevoegdverklaringen op een AML zijn vastgelegd in tabel 2 en nader gespecificeerd in de bij deze regeling behorende [bijlagen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=1&z=2010-06-05&g=2010-06-05).
 
 | Bevoegdverklaring | Basiskennis | Examen duur |
 | --- | --- | --- |
-| AB1Z/T | [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=1&z=2009-01-24&g=2009-01-24) (voorheen 70) | tabel 2 |
-| AB2Z/T | [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=2&z=2009-01-24&g=2009-01-24) (voorheen 71) | tabel 2 |
-| AB3Z/T | [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=3&z=2009-01-24&g=2009-01-24) (voorheen 72) | tabel 2 |
-| C(E)F | [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=4&z=2009-01-24&g=2009-01-24) (voorheen 73) | tabel 2 |
-| DG | [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=5&z=2009-01-24&g=2009-01-24) (voorheen 74) | tabel 2 |
-| A | [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=6&z=2009-01-24&g=2009-01-24) (voorheen 75) | tabel 3 |
-| B | [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=7&z=2009-01-24&g=2009-01-24) (voorheen 76) | tabel 3 |
-| C | [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=8&z=2009-01-24&g=2009-01-24) (voorheen 77) | tabel 3 |
-
-|   | Examen (schriftelijk) in minuten | Examen (schriftelijk) in minuten | Examen (schriftelijk) in minuten | Examen (schriftelijk) in minuten | Examen (schriftelijk) in minuten | Examen (schriftelijk) in minuten | Examen (schriftelijk) in minuten | Examen (schriftelijk) in minuten |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Examen basiskennismodule | AB1Z | AB1T | AB2Z | AB2T | AB3Z | AB3T | CEF | DG |
-| Voorschriften | 60 | 60 | 60 | 60 | 60 | 60 | 60 | 60 |
-| Vliegtuigen | 60 | 60 | 90 | 90 | 90 | 90 | 60 | 60 |
-| Zuigermotoren | 60 |   | 60 |   | 60 |   |   |   |
-| Turbinemotoren |   | 60 |   | 60 |   | 60 |   |   |
-| Instrumenten | 60 | 60 | 60 | 60 | 60 | 60 | 90 |   |
-| Elektrische installaties | 60 | 60 | 60 | 60 | 60 | 60 | 60 |   |
-| Elektriciteitsleer |   |   |   |   |   |   | 60 | 60 |
-| Klimaatregeling |   |   |   |   |   |   | 90 |   |
-| Automatische vluchtgeleidingssystemen |   |   |   |   |   |   |   | 90 |
-| Communicatie-, navigatie- en identificatie-installaties |   |   |   |   |   |   |   | 90 |
+| A | [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=1&z=2010-06-05&g=2010-06-05) | tabel 2 |
+| B | [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=2&z=2010-06-05&g=2010-06-05) | tabel 2 |
+| C | [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=3&z=2010-06-05&g=2010-06-05) | tabel 2 |
 
 |   | Examen (schriftelijk) in minuten | Examen (schriftelijk) in minuten | Examen (schriftelijk) in minuten |
 | --- | --- | --- | --- |
@@ -168,31 +131,45 @@ De examinator is verplicht tot geheimhouding met betrekking tot de examenopgaven
 | Vliegtuiginstrumenten | 45 |   |   |
 | Motorinstrumenten |   | 30 |   |
 | Elektrische installaties | 30 | 45 |   |
-| Elektrische en elektronische installaties |   |   | 60 |
+| Elektrische en elektronische installaties |   |   | 90 |
 
-2. Wanneer de examenkandidaat houder is van een AML omvat het examen bedoeld in het eerste lid, de modules zoals opgenomen in tabel 4.
+2. Het examen, bedoeld in het eerste lid, is met goed gevolg afgelegd wanneer de examinandus in een periode van ten hoogste twee jaren voor iedere module ten minste het cijfer 6,0 heeft behaald.
 
-3. Het examen bedoeld in het eerste lid is met goed gevolg afgelegd wanneer de examinandus in ten hoogste twee jaren voor iedere module ten minste het cijfer 6,0 heeft behaald.
+3. Wanneer de examenkandidaat houder is van een AML omvat het examen, bedoeld in het eerste lid, de modules zoals opgenomen in tabel 3.
 
-4. Het examen typebevoegdheid wordt afgelegd op basis van de onderhoudsdocumentatie van het vliegtuigtype, waarvoor examen wordt afgelegd. De examenkandidaat biedt daartoe de examencommissie inzage in die documentatie, die geheel bijgewerkt dient te zijn.
+| Examen | Modules | Houder van de bevoegdverklaring | Houder van de bevoegdverklaring | Houder van de bevoegdverklaring |
+| --- | --- | --- | --- | --- |
+|   |   | A | B | C |
+| A | Voorschriften | n.v.t. |   |   |
+|   | Vliegtuigen | n.v.t. | X | X |
+|   | Vliegtuiginstrumenten | n.v.t. | X | X |
+|   | Elektrische installaties | n.v.t. |   |   |
+| B | Voorschriften |   | n.v.t. |   |
+|   | Vliegtuigen |   | n.v.t. |   |
+|   | Motoren | X | n.v.t. | X |
+|   | Motorinstrumenten | X | n.v.t. | X |
+|   | Elektrische installaties | X | n.v.t. | X |
+| C | Voorschriften |   |   | n.v.t. |
+|   | Vliegtuigen |   |   | n.v.t. |
+|   | Elektrische en elektronische installaties | X | X | n.v.t. |
 
-5. De wijze van examineren en de duur van het examen, bedoeld in het vierde lid, is opgenomen in tabel 5. Het examen typebevoegdheid is met goed gevolg afgelegd wanneer de examinandus het cijfer 6,0 of hoger heeft behaald.
+4. Indien voor een bevoegdverklaring de module Voorschriften is behaald, is het niet verplicht deze module in het kader van het behalen van een andere bevoegdverklaring opnieuw af te leggen, mits niet reeds 3 jaren zijn verstreken na het behalen van genoemde module.
 
-Tabel 4. Examen voor deelnemers die houder zijn van een AML.
+5. Indien voor de bevoegdverklaring A de module Vliegtuigen is behaald is het niet verplicht deze module in het kader van het behalen van een andere bevoegdverklaring opnieuw af te leggen, mits niet reeds 3 jaren zijn verstreken na het behalen van genoemde module.
 
-• = examenmodule die deel uitmaakt van het examen.
+6. Het examen typebevoegdheid wordt afgelegd op basis van de onderhoudsdocumentatie van het vliegtuigtype, waarvoor examen wordt afgelegd. De examinandus biedt daartoe de bijgewerkte onderhoudsdocumentatie aan de examencommissie ter inzage.
 
-| Examen | Mondeling examen in minuten |
-| --- | --- |
-| Alle vliegtuigtypen | ten hoogste 60 |
+7. Het examen voor typebevoegdverklaring wordt afgenomen op basis van Bijlage III bij verordening (EG) nr. 2042/2003 en betreft vliegtuigtypen bedoeld in Bijlage III van verordening (EG) nr. 2042/2003.
+
+8. Het examen, bedoeld in het zesde lid, bestaat uit een theorie- en een praktijkgedeelte en duurt ten hoogste 120 minuten. Het examen typebevoegdheid is met goed gevolg afgelegd wanneer de examinandus het cijfer 6,0 of hoger heeft behaald.
 
 ##### Artikel 10
 
-1. Het examen voor de bevoegdverklaringen op een Part-66 AML, waarmee wordt aangetoond dat wordt voldaan aan de eisen inzake basiskennis voor afgifte van die bevoegdverklaringen, is vastgelegd in Part-66, inzake kwalificaties van onderhoudspersoneel, Bijlage III bij verordening (EG) nr. 2042/2003 van de Commissie van de Europese Gemeenschappen van 20 november 2003 (PbEG L 315).
+1. Het examen voor de bevoegdverklaringen op een Part-66 AML, waarmee wordt aangetoond dat wordt voldaan aan de eisen inzake basiskennis en typekennis voor afgifte van die bevoegdverklaringen, is vastgelegd in Part-66, inzake kwalificaties van onderhoudspersoneel, Bijlage III bij verordening (EG) nr. 2042/2003 van de Commissie van de Europese Gemeenschappen van 20 november 2003 (PbEG L 315).
 
-2. Wanneer de examenkandidaat houder is van een Part-66 AML omvat het examen, bedoeld in het eerste lid, de modules opgenomen in de bij deze regeling behorende tabel 6.
+2. Wanneer de examenkandidaat houder is van een Part-66 AML omvat het examen, bedoeld in het eerste lid, de modules opgenomen in de bij deze regeling behorende tabel 4.
 
-Tabel 6. Examen voor deelnemers die houder zijn van een Part-66 AML.
+Tabel 4. Examen voor deelnemers die houder zijn van een Part-66 AML.
 
 • = examenmodule die deel uitmaakt van het examen.
 
@@ -204,8 +181,6 @@ Tabel 6. Examen voor deelnemers die houder zijn van een Part-66 AML.
 
 3. De voorzitter stelt na consultatie van de examencommissie de plaats, datum en tijd van het examen vast en publiceert deze op de website www.ivw.nl van de Inspectie Verkeer en Waterstaat.
 
-4. In afwijking van het derde lid kan een examinator die door de Minister is geautoriseerd op voordracht van een geregistreerde opleidingsinstelling na instemming van de voorzitter het examen van de deelnemers van die opleidingsinstelling afnemen op een door hem vastgestelde plaats, datum en tijd.
-
 ##### Artikel 12
 
 1. Aanmelding voor het examen vindt plaats bij de secretaris van de examencommissie.
@@ -214,11 +189,9 @@ Tabel 6. Examen voor deelnemers die houder zijn van een Part-66 AML.
 
 3. Toelating vindt plaats nadat de kosten volgens de [Regeling tarieven luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0023145) zijn vergoed en de examinandus een wettig en geldig legitimatiebewijs heeft overgelegd.
 
-4. In afwijking van het eerste, tweede en derde lid behoeft geen aanvraag te worden ingediend en geen vergoeding van de kosten plaats te vinden wanneer sprake is van een examen bedoeld in [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=4&artikel=11&z=2009-01-24&g=2009-01-24).
-
 ##### Artikel 13
 
-1. De examinandus kan door de examinator van verdere deelname aan het examen worden uitgesloten indien deze in strijd handelt met het reglement, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=4&artikel=8&z=2009-01-24&g=2009-01-24).
+1. De examinandus kan door de examinator van verdere deelname aan het examen worden uitgesloten indien deze in strijd handelt met het reglement, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=4&artikel=8&z=2010-06-05&g=2010-06-05).
 
 2. De voorzitter wordt door de examinator over een uitsluiting, bedoeld in het eerste lid, geïnformeerd.
 
@@ -226,7 +199,7 @@ Tabel 6. Examen voor deelnemers die houder zijn van een Part-66 AML.
 
 1. Het examenresultaat wordt als regel beoordeeld door de examinator die het examen heeft afgenomen. De voorzitter is evenwel bevoegd een andere examinator voor de beoordeling van het examenresultaat aan te wijzen.
 
-2. De uitslag van het examen wordt namens de Minister vastgesteld door de beoordelende examinator met instemming van de voorzitter. Bij een uitsluiting bedoeld in [artikel 13, het eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=4&artikel=13&z=2009-01-24&g=2009-01-24), wordt als uitslag van het examen het cijfer 1,0 of 0% vastgesteld.
+2. De uitslag van het examen wordt namens de Minister vastgesteld door de beoordelende examinator met instemming van de voorzitter. Bij een uitsluiting bedoeld in [artikel 13, het eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=4&artikel=13&z=2010-06-05&g=2010-06-05), wordt als uitslag van het examen het cijfer 1,0 of 0% vastgesteld.
 
 3. De uitslag van het examen wordt uiterlijk zes weken nadat het examen is afgelegd schriftelijk aan de examinandus bekend gemaakt.
 
@@ -244,9 +217,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling wordt aangehaald als: Regeling opleiding en examen bevoegdverklaringen AML en Part-66 AML.
 
-## Bijlage 1
-
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat te Den Haag.
+## Bijlage 1. Basiskenniseisen bevoegdverklaring A
 
 ## Bijlage 2
 
@@ -275,5 +246,145 @@ Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat te Den Haag.
 ## Bijlage 8
 
 Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat te Den Haag.
+
+Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de bijlagen die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
+
+### Inhoud
+
+Korte omschrijving modules
+
+Module Voorschriften
+
+Module Vliegtuigen
+
+Module Vliegtuiginstrumenten
+
+Module Elektrische installaties
+
+### Korte omschrijving modules
+
+### Voorschriften
+
+De Nederlandse Luchtvaartvoorschriften, voorzover deze van belang zijn voor onderhoudstechnici in de luchtvaart.
+
+### Vliegtuigen
+
+De theorie van het vliegen, de materialen, de constructie, gewicht- en zwaartepuntbepaling, het monteren en demonteren van het zweefvliegtuig, het verwisselen van onderdelen, de uitvoering van installaties, de uitvoering van het onderhoud, de uitvoering van eenvoudige herstellingen, het vinden en verhelpen van storingen.
+
+### Vliegtuiginstrumenten
+
+De indeling, de constructie en werking, de uitvoering van de installaties, het verwisselen van instrumenten, de uitvoering van het onderhoud, het vinden en verhelpen van storingen.
+
+### Elektrische installaties
+
+De opbouw en werking, de uitvoering van installaties, het verwisselen van onderdelen, de uitvoering van het onderhoud, het vinden en verhelpen van storingen.
+
+### Voorschriften
+
+### Vliegtuigen
+
+### Vliegtuiginstrumenten
+
+### Elektrische installaties
+
+## Bijlage 2. Basiskenniseisen bevoegdverklaring B
+
+### Inhoud
+
+Korte omschrijving modules
+
+Module Voorschriften
+
+Module Vliegtuigen
+
+Module Motoren
+
+Module Motorinstrumenten
+
+Module Elektrische installaties
+
+### Korte omschrijving modules
+
+### Voorschriften
+
+De Nederlandse Luchtvaartvoorschriften, voorzover deze van belang zijn voor onderhoudstechnici in de luchtvaart.
+
+### Vliegtuigen
+
+De theorie van het vliegen, de materialen, de constructie, gewicht- en zwaartepuntbepaling, de uitvoering van het onderhoud.
+
+### Motoren
+
+De constructie, de materialen, de brandstoffen, de smeeroliën, de werking, de bediening, het verwisselen van de motor, het verwisselen van onderdelen, de uitvoering van de installaties, het vinden en verhelpen van storingen, het afstellen.
+
+### Motorinstrumenten
+
+De indeling, de constructie en werking, de uitvoering van de installaties, het verwisselen van instrumenten, de uitvoering van het onderhoud, het vinden en verhelpen van storingen.
+
+### Elektrische installaties
+
+De opbouw en werking, de uitvoering van installaties, het verwisselen van onderdelen, de uitvoering van het onderhoud, het vinden en verhelpen van storingen.
+
+### Voorschriften
+
+### Vliegtuigen
+
+### Motoren
+
+### Motorinstrumenten
+
+### Elektrische installaties
+
+## Bijlage 3. Basiskenniseisen bevoegdverklaring C
+
+### Inhoud
+
+Korte omschrijving modules
+
+Module Voorschriften
+
+Module Vliegtuigen
+
+Module Elektrische en elektronische installaties
+
+### Korte omschrijving modules
+
+### Voorschriften
+
+De Nederlandse Luchtvaartvoorschriften, voorzover deze van belang zijn voor onderhoudstechnici in de luchtvaart.
+
+### Vliegtuigen
+
+De theorie van het vliegen, de materialen, de constructie, gewicht- en zwaartepuntbepaling, de uitvoering van het onderhoud.
+
+### Elektrische en elektronische installaties
+
+De opbouw en werking, de uitvoering van installaties, het verwisselen en testen van apparaten, de uitvoering van het onderhoud, het vinden en verhelpen van storingen.
+
+### Voorschriften
+
+### Vliegtuigen
+
+### Elektrische en elektronische installaties
+
+## Bijlage 4
+
+Vervallen
+
+## Bijlage 5
+
+Vervallen
+
+## Bijlage 6
+
+Vervallen
+
+## Bijlage 7
+
+Vervallen
+
+## Bijlage 8
+
+Vervallen
 
 Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de bijlagen die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
