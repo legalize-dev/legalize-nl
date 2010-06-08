@@ -4,7 +4,7 @@ identifier: "BWBR0027710"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-06-08"
-last_updated: "2010-05-19"
+last_updated: "2010-06-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027710"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ Aan de voorzitter van de Commissie Schadefonds Geweldsmisdrijven wordt mandaat e
 
 ##### Artikel 3
 
-1. De voorzitter van de Commissie Schadefonds Geweldsmisdrijven wordt toegestaan om het aan hem in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027710&artikel=2&z=2010-06-08&g=2010-05-19) verleende mandaat en machtiging door te geven aan de secretaris.
+1. De voorzitter van de Commissie Schadefonds Geweldsmisdrijven wordt toegestaan om het aan hem in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027710&artikel=2&z=2010-06-08&g=2010-06-08) verleende mandaat en machtiging door te geven aan de secretaris.
 
 2. De secretaris kan het aan hem verleende ondermandaat en machtiging doorgeven aan het hoofd van de afdeling Behandel- en bezwaarzaken Noord en het hoofd van de afdeling Behandel- en bezwaarzaken Zuid van het Schadefonds Geweldsmisdrijven, met uitzondering van de bevoegdheid om te beslissen op bezwaarschriften.
 
