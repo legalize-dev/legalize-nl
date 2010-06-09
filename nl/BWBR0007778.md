@@ -4,7 +4,7 @@ identifier: "BWBR0007778"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2007-01-01"
+last_updated: "2010-06-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007778"
 soort: "ministeriele-regeling"
@@ -65,7 +65,7 @@ De regels die de Autoriteit Financiële Markten krachtens het besluit heeft gest
 
 ##### Artikel 7
 
-Vervallen
+De Autoriteit Financiële Markten wordt aangewezen als de bevoegde autoriteit, bedoeld in artikel 22, eerste lid, van de verordening ratingbureaus.
 
 ##### Artikel 8
 
