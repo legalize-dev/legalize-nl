@@ -4,7 +4,7 @@ identifier: "BWBR0010437"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2010-06-10"
-last_updated: "2007-11-21"
+last_updated: "2010-06-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010437"
 soort: "beleidsregel"
@@ -65,7 +65,7 @@ In deze regeling wordt verstaan onder:
 
 - c. inbreuk op het eigendomsrecht van de Rijkswaterstaat als eigenaar van de weg.
 
-4. Bij de uitvoering van Incident management wordt de Richtlijn eerste veiligheidsmaatregelen bij incidenten, uitgegeven door het Verkeerscentrum Nederland te Utrecht, ISBN 90-369- 1733-6, in acht genomen.
+4. Bij de uitvoering van Incident management wordt de Richtlijn eerste veiligheidsmaatregelen bij incidenten met eenzijdig aanrijdgevaar, ISBN 90-369-1733-6, gewijzigde herdruk januari 2010, alsmede de Richtlijn eerste veiligheidsmaatregelen bij incidenten met tweezijdig aanrijdgevaar ISBN 978-90-369-1764-3, 1e druk januari 2010, beiden uitgegeven door het Verkeerscentrum Nederland te Utrecht, in acht genomen.
 
 ##### Artikel 3. Centraal meldpunt
 
