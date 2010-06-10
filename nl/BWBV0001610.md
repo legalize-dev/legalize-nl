@@ -4,7 +4,7 @@ identifier: "BWBV0001610"
 country: "nl"
 rank: "verdrag"
 publication_date: "2011-06-30"
-last_updated: "2009-02-16"
+last_updated: "2010-06-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001610"
 soort: "verdrag"
@@ -34,7 +34,7 @@ entry_into_force: "2011-06-30"
 ---
 # Administratief Akkoord tussen het Koninkrijk der Nederlanden en Bangladesh inzake het project " Integrated Planning for Sustinable Water Management (IPSWAM)"
 
-The Netherlands Minister for Development Co-operation, being the competent Netherlands Authority for the purpose of this Administrative Arrangement, hereinafter referred to as ‘the Netherlands Party’, represented in this matter by Mrs Bea M. ten Tusscher, Ambassador of the Kingdom of the Netherlands to Bangladesh
+The Netherlands Minister for Development Cooperation, being the competent Netherlands Authority for the purpose of this Administrative Arrangement, hereinafter referred to as ‘the Netherlands Party’, represented in this matter by Mr A.J.A.J.M.G. Hennekens, Ambassador of the Kingdom of the Netherlands to Bangladesh
 
 and
 
@@ -50,7 +50,7 @@ Have entered into the following administrative arrangement:
 
 2. The objective of this Project is to strengthen the capacity of water sector organisations, including local level Water Management Organisations, the different offices of the Bangladesh Water Development Board (headquaters and regional/local level) and to a limited extent Local Government Institutions, to responsibly assume their roles as specified in the National Water Policy and the Guidelines for Participatory Water Management.
 
-3. The aforesaid implementation of the Project by the two Parties is planned to last till 31st January 2010. This completion date will supersede all other references mentioned in this Administrative Arrangement as the completion date of the Project
+3. The aforesaid implementation of the project by the two Parties is planned to last till 30 June 2011. This completion date will supersede all other references mentioned in the Administrative Arrangement as the completion date of the project. However, disbursements may be made till 31 December 2011
 
 ##### Article II. The contribution by the Netherlands Party
 
