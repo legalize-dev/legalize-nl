@@ -4,7 +4,7 @@ identifier: "BWBR0002965"
 country: "nl"
 rank: "amvb"
 publication_date: "2010-06-12"
-last_updated: "1998-11-27"
+last_updated: "2010-06-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002965"
 soort: "AMvB"
@@ -50,19 +50,13 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-De begripsbepalingen, gegeven bij of krachtens de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267), zijn ook van toepassing op dit besluit en op de krachtens dit besluit gegeven Ministeriële beschikkingen.
-
-Voor de toepassing van het bij of krachtens dit besluit bepaalde wordt voorts verstaan onder:
-
-commercieel vervoer: vluchten, waarbij passagiers en/of vracht worden vervoerd en de vervoers- en/of verdere kosten geheel of gedeeltelijk, direct of indirect, worden doorberekend aan deze passagiers en/of de bevrachter.
-
-ongeregeld vervoer: vluchten, uitgevoerd anders dan in geregeld luchtvervoer als gedefinieerd in [artikel 1, onder **g**, van de Regeling Toezicht Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&artikel=1) (**Stb.** 1971, 676).
+In dit besluit en de daarop berustende bepalingen wordt verstaan onder ongeregeld vervoer: vluchten die niet onder een bilaterale luchtvaartovereenkomst vallen tenzij in een dergelijke overeenkomst daarover anderszins is bepaald.
 
 #### Toepasselijkheid van het besluit
 
 ##### Artikel 2
 
-Dit besluit is van toepassing op alle vluchten in ongeregeld vervoer door luchtvaartmaatschappijen in, naar of uit Nederland of met Nederland als tussenstation.
+Dit besluit is van toepassing op alle vluchten in ongeregeld vervoer door luchtvaartmaatschappijen in, naar of uit Nederland of met Nederland als tussenstation uit of naar landen niet behorende tot de Europese Unie.
 
 ### Hoofdstuk II. Algemene bepalingen
 
@@ -76,7 +70,7 @@ Voor zover bij internationale overeenkomst niet anders is bepaald mogen vluchten
 
 ##### Artikel 4
 
-Het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002965&hoofdstuk=II&artikel=3&z=1998-11-27&g=1998-11-27) geldt niet, indien door Onze Minister daarvan ontheffing is verleend.
+Het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002965&hoofdstuk=II&artikel=3&z=2010-06-12&g=2010-06-12) geldt niet, indien door Onze Minister daarvan ontheffing is verleend.
 
 ##### Artikel 5
 
@@ -86,37 +80,25 @@ Vervallen
 
 ##### Artikel 6
 
-Bij het overwegen van de te nemen beschikkingen wordt in acht genomen hetgeen is bepaald in de Verordening (EEG), nr. 2408/92 van de Raad van de Europese Gemeenschappen van 23 juli 1992 betreffende de toegang van communautaire luchtvaartmaatschappijen tot intracommunautaire luchtroutes (**PbEG** L 240/8) en, voor zover die verordening niet van toepassing is, het in dit besluit bepaalde.
+Bij het beslissen op een aanvraag voor ongeregeld luchtvervoer wordt in ieder geval rekening gehouden met:
 
-- I. Rekening wordt gehouden met
+- a. het mogelijke negatieve effect van ongeregeld vervoer op de rentabiliteit van een reeds bestaande geregelde vlucht naar dezelfde bestemming;
 
-- a. het belang van de gebruikers bij een samenhangend net van geregelde luchtdiensten voor de duurzame en redelijke voorziening in de vervoersbehoeften in, naar of uit Nederland of met Nederland als tussenstation;
+- b. het belang van de gebruikers bij een aan hun behoefte aangepast ongeregeld vervoer tegen een zo laag mogelijke prijs;
 
-- b. het belang van de gebruikers bij een aan hun behoeften aangepast ongeregeld vervoer tegen een zo laag mogelijke prijs;
-
-- c. het belang van de rentabiliteit van de luchtvaartmaatschappijen.
-
-- II. Voor vluchten in ongeregeld commercieel vervoer wordt toestemming verleend indien dit vervoer door zijn vervoersvoorwaarden kennelijk beoogt te voorzien in andere behoeften dan de bestaande geregelde diensten en het daardoor aannemelijk is, dat het bestaan van die geregelde diensten niet wordt aangetast.
-
-- III. Gestreefd zal worden naar de voorkoming van ongezonde mededinging. Van ongezonde mededinging kan worden gesproken, indien bij een verantwoorde bedrijfsvoering de opbrengsten van het vervoer, geregeld zowel als ongeregeld, de luchtvaartmaatschappijen die dit vervoer verrichten op langere termijn gezien niet in staat stellen tot het behalen van een redelijke rentabiliteit.
-
-- IV. Rekening wordt gehouden met internationaal overeengekomen voorschriften of afspraken en met de verhoudingen op internationaal luchtvaartpolitiek gebied.
-
-- V. In beginsel wordt voor vluchten naar of uit Nederland of met Nederland als tussenstation geen onderscheid gemaakt tussen Nederlandse en niet-Nederlandse luchtvaartmaatschappijen, mits in de staat, waar de niet-Nederlandse luchtvaartmaatschappij is gevestigd, Nederlandse luchtvaartmaatschappijen gelijkelijk toegang hebben voor de uitvoering van vluchten in ongeregeld vervoer.
+- c. het uitgangspunt van wederkerigheid.
 
 #### Nadere regelen
 
 ##### Artikel 7
 
-Onze Minister stelt met inachtneming van het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002965&hoofdstuk=II&artikel=6&z=1998-11-27&g=1998-11-27) nadere regels vast met betrekking tot het uitvoeren van vluchten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002965&hoofdstuk=I&artikel=2&z=1998-11-27&g=1998-11-27).
+Onze Minister kan nadere regels stellen met betrekking tot het uitvoeren van vluchten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002965&hoofdstuk=I&artikel=2&z=2010-06-12&g=2010-06-12).
 
-Hij is bevoegd met betrekking tot het commercieel vervoer tarieven en vervoersvoorwaarden goed te keuren of voor te schrijven.
-
-### Hoofdstuk III. Beroep
+### Hoofdstuk III. Slotbepalingen
 
 ##### Artikel 8
 
-Indien het nemen van beschikkingen inzake het verlenen van toestemming overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002965&hoofdstuk=II&artikel=5&z=1998-11-27&g=1998-11-27) aan de Directeur-Generaal van de Rijksluchtvaartdienst is overgedragen kunnen belanghebbenden tegen dergelijke beschikkingen beroep instellen bij Onze Minister.
+Vervallen
 
 ##### Artikel 9
 
@@ -139,5 +121,7 @@ Dit besluit kan worden aangeduid als "Besluit ongeregeld luchtvervoer".
 ##### Artikel 13
 
 Dit besluit treedt in werking met ingang van de derde kalendermaand na de datum van uitgifte van het **Staatsblad**, waarin het is geplaatst.
+
+Onze Minister van Verkeer en Waterstaat is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
 
 Onze Minister van Verkeer en Waterstaat is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
