@@ -4,7 +4,7 @@ identifier: "BWBR0004913"
 country: "nl"
 rank: "amvb"
 publication_date: "2010-06-12"
-last_updated: "2002-01-01"
+last_updated: "2010-06-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004913"
 soort: "AMvB"
@@ -49,11 +49,9 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-EEG-Verdrag: het Verdrag tot oprichting van de Europese Economische Gemeenschap van 25 maart 1957 (**Trb.** 1957, 91);
+EEG-Verdrag: het Verdrag tot oprichting van de Europese Economische Gemeenschap van 25 maart 1957 (Trb. 1957, 91);
 
-de richtlijn: de [richtlijn 87/601/EEG](31987L0601) betreffende de tarieven voor geregelde luchtdiensten tussen de Lidstaten, zoals vastgesteld door de Raad op 14 december 1987 (**PbEG,** L 374/12);
-
-tarief: prijs in euro’s die wordt berekend voor luchtvervoer tussen een gegeven plaats van vertrek en een gegeven plaats van bestemming alsmede de voorwaarden waaronder deze prijs geldt, met inbegrip van de vergoeding en de voorwaarden voor agentschappen en andere bijkomende diensten.
+tarief: prijs in euro’s die wordt berekend voor luchtvervoer tussen een gegeven plaats van vertrek en een gegeven plaats van bestemming alsmede de voorwaarden waaronder deze prijs geldt, met inbegrip van de vergoeding en de voorwaarden voor agentschappen en andere bijkomende diensten;
 
 communautaire luchtvaartmaatschappij: een luchtvaartmaatschappij met een geldige, door een Lid-Staat overeenkomstig [Verordening (EEG) nr. 2407/92](31992R2407) van de Raad van de Europese Gemeenschappen van 23 juli 1992 betreffende de verlening van exploitatievergunningen aan luchtvaartmaatschappijen (PbEG L 240/1) afgegeven exploitatievergunning.
 
@@ -63,7 +61,7 @@ Voor tarieven die worden berekend door communautaire, Zweedse en Noorse luchtvaa
 
 ##### Artikel 1b
 
-Een wijziging van het bepaalde bij de verordening genoemd in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0004913&artikel=1a&z=2002-01-01&g=2002-01-01), treedt voor de toepassing van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0004913&artikel=1a&z=2002-01-01&g=2002-01-01) in werking met ingang van de dag waarop de betrokken wijzigingsverordening in werking treedt.
+Een wijziging van het bepaalde bij de verordening genoemd in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0004913&artikel=1a&z=2010-06-12&g=2010-06-12), treedt voor de toepassing van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0004913&artikel=1a&z=2010-06-12&g=2010-06-12) in werking met ingang van de dag waarop de betrokken wijzigingsverordening in werking treedt.
 
 ##### Artikel 1c
 
@@ -75,7 +73,7 @@ De hierna volgende bepalingen gelden voor tarieven die worden berekend door:
 
 ##### Artikel 2
 
-1. Het is een luchtvaartmaatschappij verboden andere tarieven te berekenen voor geregeld luchtvervoer van en naar Nederland dan de tarieven waarmee Onze Minister heeft ingestemd.
+1. Voor zover ingevolge een internationale overeenkomst de instemming van Onze Minister is vereist voor het berekenen van tarieven voor geregeld luchtvervoer van en naar Nederland, is het verboden andere tarieven te berekenen dan de tarieven waarmee Onze Minister heeft ingestemd.
 
 2. De voor geregeld luchtvervoer van en naar Nederland gehanteerde tarieven moeten door de betrokken luchtvaartmaatschappijen op duidelijke voor het publiek waarneembare wijze worden medegedeeld; Onze Minister kan terzake nadere regels stellen.
 
@@ -95,17 +93,15 @@ De hierna volgende bepalingen gelden voor tarieven die worden berekend door:
 
 - c. de opbouw en berekeningswijze van het tarief alsmede informatie betreffende de kosten en de ontwikkeling daarvan in de periode gedurende welke het tarief zal gelden.
 
-2. In het geval van een verzoek als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004913&artikel=3&z=2002-01-01&g=2002-01-01), dient bij het verzoek tevens een verklaring te worden overgelegd dat het overleg heeft plaatsgevonden in overeenstemming met het bepaalde bij of krachtens [Verordening 3976/87/EEG](31987R3976) van de Raad van 14 december 1987 betreffende de toepassing van artikel 85, lid 3, van het Verdrag op bepaalde groepen overeenkomsten en onderling afgestemde feitelijke gedragingen in de sector van het luchtvervoer (**PbEG**, L 374, blz. 9).
+2. In het geval van een verzoek als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004913&artikel=3&z=2010-06-12&g=2010-06-12), dient bij het verzoek tevens een verklaring te worden overgelegd dat het overleg heeft plaatsgevonden in overeenstemming met het bepaalde bij of krachtens [Verordening 3976/87/EEG](31987R3976) van de Raad van 14 december 1987 betreffende de toepassing van artikel 85, lid 3, van het Verdrag op bepaalde groepen overeenkomsten en onderling afgestemde feitelijke gedragingen in de sector van het luchtvervoer (**PbEG**, L 374, blz. 9).
 
 ##### Artikel 5
 
-1. Onze Minister beslist op het verzoek om instemming met inachtneming van het bepaalde in artikel 3 en artikel 4, vierde en vijfde lid, van de richtlijn.
+1. Onze Minister onthoudt instemming indien het tarief in strijd is met het terzake van een eerlijke mededinging geldende recht of indien het in strijd met dit recht tot stand is gekomen.
 
-2. Onze Minister onthoudt instemming indien het tarief in strijd is met het terzake van een eerlijke mededinging geldende recht of indien het in strijd met dit recht tot stand is gekomen.
+2. Met een tarief is ingestemd indien Onze Minister niet binnen vijftien dagen te kennen heeft gegeven instemming eraan te onthouden.
 
-3. Met een tarief is ingestemd indien Onze Minister niet binnen vijftien dagen te kennen heeft gegeven instemming eraan te onthouden.
-
-4. Onze Minister kan binnen de in het derde lid bedoelde termijn, indien hij zulks voor zijn beslissing nodig oordeelt, de betrokken luchtvaartmaatschappij schriftelijk om aanvullende informatie vragen, in welk geval de in het derde lid bedoelde termijn opnieuw begint te lopen op het moment waarop de gevraagde gegevens worden verstrekt.
+3. Onze Minister kan binnen de in het tweede lid bedoelde termijn, indien hij zulks voor zijn beslissing nodig oordeelt, de betrokken luchtvaartmaatschappij schriftelijk om aanvullende informatie vragen, in welk geval de in het tweede lid bedoelde termijn opnieuw begint te lopen op het moment waarop de gevraagde gegevens worden verstrekt.
 
 ##### Artikel 6
 
@@ -125,7 +121,7 @@ Vervallen
 
 - a. indien hetzelfde tarief eveneens de instemming behoeft van de bevoegde instantie van een andere Staat en deze instemming daaraan wordt onthouden;
 
-- b. indien niet is voldaan aan het bepaalde bij of krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004913&artikel=2&z=2002-01-01&g=2002-01-01);
+- b. indien niet is voldaan aan het bepaalde bij of krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004913&artikel=2&z=2010-06-12&g=2010-06-12);
 
 - c. indien de aan de luchtvaartmaatschappij toegerekende kosten zich zodanig anders hebben ontwikkeld dan op het moment van instemming kon worden voorzien, dat de tarieven waarvoor instemming is verleend niet meer kunnen worden geacht in een redelijke verhouding te staan tot deze kosten;
 
@@ -133,7 +129,7 @@ Vervallen
 
 - e. indien bij het verzoek om instemming onjuiste informatie is verschaft.
 
-2. Onverminderd het bepaalde in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004913&artikel=6&z=2002-01-01&g=2002-01-01), stelt Onze Minister bij de intrekking van de instemming een door de betrokken luchtvaartmaatschappij te hanteren tarief vast.
+2. Onverminderd het bepaalde in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004913&artikel=6&z=2010-06-12&g=2010-06-12), stelt Onze Minister bij de intrekking van de instemming een door de betrokken luchtvaartmaatschappij te hanteren tarief vast.
 
 ##### Artikel 9
 
@@ -149,7 +145,7 @@ Met betrekking tot tarieven voor geregeld luchtvervoer tussen luchthavens in Ned
 
 ##### Artikel 12
 
-Overtreding van het bepaalde in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004913&artikel=2&z=2002-01-01&g=2002-01-01), is een strafbaar feit als bedoeld in [artikel 62, derde lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=62) (**Stb.** 1958, 47).
+Overtreding van het bepaalde in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004913&artikel=2&z=2010-06-12&g=2010-06-12), is een strafbaar feit als bedoeld in [artikel 62, derde lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=62) (**Stb.** 1958, 47).
 
 ##### Artikel 13
 
