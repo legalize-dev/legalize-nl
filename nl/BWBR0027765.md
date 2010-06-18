@@ -151,9 +151,3 @@ Deze regeling treedt in werking met ingang van de dag na de dagtekening van de S
 Deze regeling wordt aangehaald als: Regeling erkenning EG-beroepskwalificaties kinderopvangpersoneel.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 10. Citeertitel
-
-Deze regeling wordt aangehaald als: Regeling erkenning EG-beroepskwalificaties kinderopvangpersoneel.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
