@@ -4,7 +4,7 @@ identifier: "BWBR0028002"
 country: "nl"
 rank: "pbo"
 publication_date: "2012-06-03"
-last_updated: "2010-06-01"
+last_updated: "2010-06-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028002"
 soort: "pbo"
@@ -37,7 +37,7 @@ entry_into_force: "2010-06-20"
 
 #### § 1. Begripsbepalingen
 
-#### § 2. Heffingsplicht
+#### § 1. Begripsbepalingen
 
 #### § 3. Grondslag en hoogte
 
