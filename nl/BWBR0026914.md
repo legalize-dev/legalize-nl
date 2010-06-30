@@ -4,7 +4,7 @@ identifier: "BWBR0026914"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-05-04"
-last_updated: "2010-06-25"
+last_updated: "2010-06-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026914"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ Besluit:
 | 1.10 | Subsidieregeling starten, groeien en overdragen van ondernemingen (beroepsonderwijs in bedrijf) | 7.2 |   | 01-01 t/m 01-11 | 12.000.000 |
 | 1.11 | Subsidieregeling starten, groeien en overdragen van ondernemingen (borgstelling scheepsnieuwbouw) | 8.3 |   | 01-01 t/m 31-12 | 1.000.000.000 |
 | 1.12 | Subsidieregeling starten, groeien en overdragen van ondernemingen (veiligheid kleine bedrijven) | 9.2 |   | 16-03 t/m 01-12 | 7.700.000 |
-| 1.13 | Subsidieregeling starten, groeien en overdragen van ondernemingen (veiligheid kleine bedrijven) | 9.11 |   | 16-03 t/m 26-04 | 4.000.000 |
+| 1.13 | Subsidieregeling starten, groeien en overdragen van ondernemingen (veiligheid kleine bedrijven) | 9.11 |   | 16-03 t/m 26-04 | 4.650.000 |
 | 1.14 | Subsidieregeling starten, groeien en overdragen van ondernemingen (veiligheid kleine bedrijven) | 9.12 |   | 16-03 t/m 26-04 | 2.300.000 |
 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855) |
 | 2.1 | Subsidieregeling innoveren (Eurostars-projecten) | 2.2 |   | 15-01 t/m 29-01 14-06 t/m 13-08 | 2.500.000 3.750.000 |
