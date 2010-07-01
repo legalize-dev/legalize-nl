@@ -4,7 +4,7 @@ identifier: "BWBR0021067"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-28"
-last_updated: "2010-04-01"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021067"
 soort: "ministeriele-regeling"
@@ -150,7 +150,7 @@ Om tot vrijstelling te kunnen leiden, dient de verklaring de volgende gegevens t
 
 3. Aan de advisering door het Regionaal Opleidingen Centrum van Amsterdam te Amsterdam als bedoeld in het tweede lid, zijn kosten verbonden die door de verzoeker voorafgaande aan de advisering voldaan dienen te worden.
 
-4. De in het derde lid bedoelde kosten bedragen in 2007 € 208.
+4. De in het derde lid bedoelde kosten bedragen € 287.
 
 5. Het bedrag wordt jaarlijks per 1 januari gewijzigd met een percentage, dat overeenkomt met het procentuele verschil tussen het indexcijfer en de CAO-lonen per maand, inclusief bijzondere uitkeringen, van volwassenen, zoals dat wordt berekend door het Centraal Bureau voor de Statistiek naar de stand op 30 september van enig jaar en, al dan niet voorlopig, wordt bekend gemaakt door het Centraal Bureau voor de Statistiek en het overeenkomstige indexcijfer in het voorafgaande jaar.
 
