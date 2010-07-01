@@ -4,7 +4,7 @@ identifier: "BWBR0026208"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-27"
-last_updated: "2009-08-01"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026208"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Aan de raad voor rechtsbijstand ’s-Hertogenbosch wordt mandaat verleend tot:
 
 ##### Artikel 2
 
-De raad voor rechtsbijstand ’s-Hertogenbosch kan van het aan hem bij [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0026208&artikel=1&z=2009-08-01&g=2009-08-01), verleende mandaat ondermandaat verlenen aan één of meer onder deze raad ressorterende functionarissen.
+De raad voor rechtsbijstand ’s-Hertogenbosch kan van het aan hem bij [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0026208&artikel=1&z=2009-08-01&g=2010-07-01), verleende mandaat ondermandaat verlenen aan één of meer onder deze raad ressorterende functionarissen.
 
 ##### Artikel 3
 
@@ -61,5 +61,11 @@ De raad voor rechtsbijstand ’s-Hertogenbosch kan van het aan hem bij [artikel 
 ##### Artikel 4
 
 Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 5
+
+Dit besluit wordt aangehaald als: Regeling verlening mandaat raad voor rechtsbijstand betreffende verlenen van subsidies en vaststellen van beleidsregels dienaangaande.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
