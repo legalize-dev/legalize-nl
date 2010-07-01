@@ -4,7 +4,7 @@ identifier: "BWBR0025577"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-01-01"
-last_updated: "2009-04-01"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025577"
 soort: "AMvB"
@@ -156,13 +156,13 @@ De bedragen, bedoeld in [artikel 29, vierde lid, van de wet](https://wetten.over
 
 2. De verlener van de universele postdienst is ter dekking van de kosten die verband houden met de werkzaamheden van het college ter uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572) in verband met de universele postdienst, jaarlijks een vergoeding verschuldigd ter hoogte van die kosten minus de kosten verbonden aan de behandeling van bezwaar- en beroepschriften.
 
-3. De [artikelen 13, tweede tot en met het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=13&z=2009-04-01&g=2009-04-01), en [15, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=15&z=2009-04-01&g=2009-04-01), zijn van overeenkomstige toepassing.
+3. De [artikelen 13, tweede tot en met het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=13&z=2010-07-01&g=2010-07-01), en [15, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=15&z=2010-07-01&g=2010-07-01), zijn van overeenkomstige toepassing.
 
 #### § 6. Vergoeding kosten college buiten universele postdienst
 
 ##### Artikel 13
 
-1. Het college stelt jaarlijks een raming op van de kosten die verband houden met de werkzaamheden van het college in het volgende kalenderjaar ter uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572), met uitzondering van de werkzaamheden, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=5&artikel=12&z=2009-04-01&g=2009-04-01), en stelt Onze Minister in kennis van de raming.
+1. Het college stelt jaarlijks een raming op van de kosten die verband houden met de werkzaamheden van het college in het volgende kalenderjaar ter uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572), met uitzondering van de werkzaamheden, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=5&artikel=12&z=2010-07-01&g=2010-07-01), en stelt Onze Minister in kennis van de raming.
 
 2. Ter zake van de kosten, bedoeld in [artikel 64, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=64) gelden als uitgangspunten dat:
 
@@ -182,11 +182,11 @@ De bedragen, bedoeld in [artikel 29, vierde lid, van de wet](https://wetten.over
 
 ##### Artikel 14
 
-1. De minister stelt jaarlijks een verdeelsleutel voor het komende kalenderjaar vast voor de verdeling van de kosten, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=13&z=2009-04-01&g=2009-04-01), in de vorm van een uniform percentage van de relevante omzet van elk postvervoerbedrijf.
+1. De minister stelt jaarlijks een verdeelsleutel voor het komende kalenderjaar vast voor de verdeling van de kosten, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=13&z=2010-07-01&g=2010-07-01), in de vorm van een uniform percentage van de relevante omzet van elk postvervoerbedrijf.
 
 2. De verdeelsleutel, bedoeld in het eerste lid, wordt berekend op grond van:
 
-- a. de totale kosten van het college in het komende kalender jaar, geraamd met inachtneming van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=13&z=2009-04-01&g=2009-04-01), minus en
+- a. de totale kosten van het college in het komende kalender jaar, geraamd met inachtneming van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=13&z=2010-07-01&g=2010-07-01), minus en
 
 - 1°. de kosten van het college voor de registratie, bedoeld in [artikel 42, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=42), en
 
@@ -196,11 +196,13 @@ De bedragen, bedoeld in [artikel 29, vierde lid, van de wet](https://wetten.over
 
 ##### Artikel 15
 
-1. Het college berekent de vergoeding voor een kalenderjaar per postvervoerbedrijf door de relevante omzet van het postvervoerbedrijf in het kalenderjaar dat twee jaar voorafgaat aan het kalenderjaar waarin de vergoeding wordt vastgesteld te vermenigvuldigen met de op basis van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=14&z=2009-04-01&g=2009-04-01) vastgestelde verdeelsleutel.
+1. Het college berekent de vergoeding voor een kalenderjaar per postvervoerbedrijf door de relevante omzet van het postvervoerbedrijf in het kalenderjaar dat twee jaar voorafgaat aan het kalenderjaar waarin de vergoeding wordt vastgesteld te vermenigvuldigen met de op basis van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=14&z=2010-07-01&g=2010-07-01) vastgestelde verdeelsleutel.
 
 2. De vergoeding wordt aan het college betaald binnen een termijn van 30 dagen na dagtekening van het verzoek tot betaling.
 
 3. Tenzij bij ministeriële regeling anders wordt bepaald, wordt de vergoeding door degene die de vergoeding is verschuldigd, bij vooruitbetaling voldaan.
+
+4. De relevante omzet, bedoeld in [artikel 64, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=64) bedraagt € 2.000.000.
 
 ##### Artikel 16
 
@@ -210,7 +212,7 @@ De bedragen, bedoeld in [artikel 29, vierde lid, van de wet](https://wetten.over
 
 3. Indien een postvervoerbedrijf door het college is geregistreerd op grond van [artikel 41 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=41) in verband met het verrichten van activiteiten die voorheen werden verricht door één of meer andere postvervoerbedrijven waarvan de registratie is beëindigd, vindt de berekening van de omzet plaats met inachtneming van de omzet van dat postvervoerbedrijf of postvervoerbedrijven overeenkomstig bij ministeriële regeling te stellen regels.
 
-4. Indien een postvervoerbedrijf verlener van de universele postdienst is, wordt uitsluitend de omzet van vervoer van poststukken buiten de universele postdienst als omzet voor de vaststelling van de verdeelsleutel, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=14&z=2009-04-01&g=2009-04-01), gebruikt.
+4. Indien een postvervoerbedrijf verlener van de universele postdienst is, wordt uitsluitend de omzet van vervoer van poststukken buiten de universele postdienst als omzet voor de vaststelling van de verdeelsleutel, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=14&z=2010-07-01&g=2010-07-01), gebruikt.
 
 5. Voor gevallen waarin berekening van de omzet van het vervoer van poststukken niet mogelijk is omdat de desbetreffende activiteiten zijn verweven met andere activiteiten, kan bij ministeriële regeling worden bepaald dat bij de berekening nader genoemde opbrengsten geheel of gedeeltelijk buiten beschouwing blijven.
 
@@ -218,7 +220,7 @@ De bedragen, bedoeld in [artikel 29, vierde lid, van de wet](https://wetten.over
 
 1. Een postvervoerbedrijf dat ingevolge [artikel 64 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=64) een vergoeding verschuldigd is, verstrekt jaarlijks voor 1 september aan het college:
 
-- a. een opgave van de relevante omzet die is gerealiseerd in het voorafgaande kalenderjaar, onder bijvoeging van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), dat de opgave voldoet aan [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=16&z=2009-04-01&g=2009-04-01), of
+- a. een opgave van de relevante omzet die is gerealiseerd in het voorafgaande kalenderjaar, onder bijvoeging van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), dat de opgave voldoet aan [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=16&z=2010-07-01&g=2010-07-01), of
 
 - b. een opgave van de netto-omzet die op grond van [artikel 377, derde lid, onder a, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=377) is vermeld in de jaarrekening, onder bijvoeging van een kopie van de jaarrekening en van de accountantsverklaring, bedoeld in [artikel 393, vijfde lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
 
@@ -254,15 +256,15 @@ De bedragen, bedoeld in [artikel 29, vierde lid, van de wet](https://wetten.over
 
 ##### Artikel 19
 
-De vergoeding, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=15&z=2009-04-01&g=2009-04-01), voor het kalenderjaar waarin de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572) in werking treedt en, indien nodig, voor de twee daaropvolgende kalenderjaren, wordt in rekening gebracht na vaststelling van het criterium met betrekking tot de relevante omzet van een postvervoerbedrijf in Nederland als bedoeld in [artikel 64, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=64).
+De vergoeding, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=15&z=2010-07-01&g=2010-07-01), voor het kalenderjaar waarin de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572) in werking treedt en, indien nodig, voor de twee daaropvolgende kalenderjaren, wordt in rekening gebracht na vaststelling van het criterium met betrekking tot de relevante omzet van een postvervoerbedrijf in Nederland als bedoeld in [artikel 64, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=64).
 
 ##### Artikel 20
 
 1. In het kalenderjaar van de inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572):
 
-- a. worden de ramingen, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=5&artikel=12&z=2009-04-01&g=2009-04-01), en [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=13&z=2009-04-01&g=2009-04-01), in afwijking van [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=13&z=2009-04-01&g=2009-04-01), binnen zes weken na de datum van inwerkingtreding van dit besluit voor de werkzaamheden van het college ter uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572) in dat kalenderjaar of het resterende gedeelte van dat kalenderjaar vastgesteld;
+- a. worden de ramingen, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=5&artikel=12&z=2010-07-01&g=2010-07-01), en [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=13&z=2010-07-01&g=2010-07-01), in afwijking van [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=13&z=2010-07-01&g=2010-07-01), binnen zes weken na de datum van inwerkingtreding van dit besluit voor de werkzaamheden van het college ter uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572) in dat kalenderjaar of het resterende gedeelte van dat kalenderjaar vastgesteld;
 
-- b. wordt de verdeelsleutel, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=14&z=2009-04-01&g=2009-04-01), in afwijking van [artikel 14, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=14&z=2009-04-01&g=2009-04-01), voor het eerste kalenderjaar waarin de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572) van kracht is, berekend op grond van de in onderdeel a bedoelde ramingen.
+- b. wordt de verdeelsleutel, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=14&z=2010-07-01&g=2010-07-01), in afwijking van [artikel 14, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=14&z=2010-07-01&g=2010-07-01), voor het eerste kalenderjaar waarin de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572) van kracht is, berekend op grond van de in onderdeel a bedoelde ramingen.
 
 2. Postvervoerbedrijven delen binnen zes weken na de datum van inwerkingtreding van dit besluit aan het college de relevante omzet mee, die gerealiseerd is in het kalenderjaar dat twee jaar voorafgaat aan het kalenderjaar van inwerkingtreding.
 
