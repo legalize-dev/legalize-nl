@@ -4,7 +4,7 @@ identifier: "BWBR0006368"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2010-02-01"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006368"
 soort: "wet"
@@ -48,43 +48,45 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Justitie;
+- **bestuur:** het bestuur, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=II&afdeling=1&paragraaf=2&artikel=3&z=2010-07-01&g=2010-07-01);
 
-- b. **raad:** de raad voor rechtsbijstand, bedoeld in [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=II&z=2010-02-01&g=2010-02-01);
+- **bijstandsnorm:** de norm voor gehuwden, genoemd in [artikel 21, onderdeel c, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=21), verminderd met het overeenkomstig [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=19), van die wet vastgestelde bedrag van de vakantietoeslag;
 
-- c. **bureau:** het onder de raad ressorterende bureau rechtsbijstandvoorziening;
+- **heffingvrij vermogen:** het heffingvrij vermogen, bedoeld in de [artikelen 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.5) en [5.6 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.6);
 
-- d. **voorziening:** een door de raad ingerichte voorziening als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=II&afdeling=2&artikel=7&z=2010-02-01&g=2010-02-01), of [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=II&afdeling=2&artikel=8&z=2010-02-01&g=2010-02-01);
+- **inkomen:** het inkomen, zoals berekend ingevolge de [artikelen 34a tot en met 34d](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34a&z=2010-07-01&g=2010-07-01);
 
-- e. **rechtsbijstand:** rechtskundige bijstand aan een rechtzoekende ter zake van een rechtsbelang dat hem rechtstreeks en individueel aangaat, voor zover in deze wet en de daarop berustende bepalingen geregeld;
+- **inkomensgegeven:** inkomensgegeven als bedoeld in [artikel 21, onderdeel e, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=21);
 
-- f. **rechtzoekende:** degene die op grond van onvoldoende financiële draagkracht aanspraak kan maken op rechtsbijstand of mediation, voorzover in deze wet en de daarop berustende bepalingen geregeld, alsmede degene die zijn schade wil vorderen als slachtoffer van een misdrijf tegen de zeden of een geweldsmisdrijf;
+- **inspecteur:** de inspecteur, bedoeld in [artikel 2, derde lid, onder b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2);
 
-- g. **jaarplan:** het door de raad op te stellen jaarplan, bedoeld in [artikel 7a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=II&afdeling=2&artikel=7a&z=2010-02-01&g=2010-02-01);
+- **Kaderwet:** de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
 
-- h. **rechtsbijstandverlener:** de advocaat, de medewerker van de voorziening voorzover belast met de verlening van rechtsbijstand en de personen, bedoeld in [artikel 13, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=III&afdeling=1&artikel=13&z=2010-02-01&g=2010-02-01);
+- **mediation:** het bemiddelen in een geschil waarbij een neutrale bemiddelingsdeskundige de onderhandelingen tussen de rechtzoekende en zijn wederpartij begeleidt teneinde vanuit hun werkelijke belangen tot gezamenlijk gedragen en voor ieder van hen optimale resultaten te komen;
 
-- i. **toevoeging:** de toevoeging ten behoeve van rechtsbijstand als bedoeld in artikel 24, eerste lid, of mediation als bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IVa&artikel=33a&z=2010-02-01&g=2010-02-01);
+- **mediator:** de mediator als bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IVa&artikel=33a&z=2010-07-01&g=2010-07-01);
 
-- j. **peiljaar:** het tweede kalenderjaar dat voorafgaat aan het kalenderjaar waarin de aanvraag om een toevoeging wordt gedaan;
+- **Onze Minister:** Onze Minister van Justitie;
 
-- k. **Bijstandsnorm:** de norm voor gehuwden, genoemd in [artikel 21, onderdeel c, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=21), verminderd met het overeenkomstig [artikel 19, derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=19) vastgestelde bedrag van de vakantietoeslag;
+- **peiljaar:** het tweede kalenderjaar dat voorafgaat aan het kalenderjaar waarin de aanvraag om een toevoeging wordt gedaan;
 
-- l. **inkomen:** het inkomen, zoals berekend ingevolge de [artikelen 34a tot en met 34e](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34a&z=2010-02-01&g=2010-02-01);
+- **raad:** de raad voor rechtsbijstand, bedoeld in [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=II&z=2010-07-01&g=2010-07-01);
 
-- m. **vermogen:** het gemiddelde van de rendementsgrondslagen, bedoeld in [artikel 5.2 van de Wet op de inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2);
+- **raad van advies:** de raad van advies, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=II&afdeling=1&paragraaf=3&artikel=6&z=2010-07-01&g=2010-07-01);
 
-- n. **heffingvrij vermogen:** het heffingvrij vermogen, bedoeld in de [artikelen 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.5) en [5.6 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.6);
+- **rechtsbijstand:** rechtskundige bijstand aan een rechtzoekende ter zake van een rechtsbelang dat hem rechtstreeks en individueel aangaat, voor zover in deze wet en de daarop berustende bepalingen geregeld;
 
-- o. **inspecteur:** de inspecteur, bedoeld in [artikel 2, derde lid, onder b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2);
+- **rechtsbijstandverlener:** de advocaat, de medewerker van de voorziening voorzover belast met de verlening van rechtsbijstand en de personen, bedoeld in [artikel 13, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=III&afdeling=1&artikel=13&z=2010-07-01&g=2010-07-01);
 
-- p. **inkomensgegeven:** inkomensgegeven als bedoeld in [artikel 21, onderdeel e, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=21);
+- **rechtshulp:** het verlenen van rechtsbijstand bestaande uit het geven van eenvoudige juridische adviezen waarbij geen sprake is van vertegenwoordiging van de rechtzoekende, alsmede het met het oog op het verlenen van deze rechtsbijstand verstrekken van informatie, analyseren en verduidelijken van een probleem en het verwijzen naar terzake doende instanties en rechtsbijstandverleners;
 
-- q. **rechtshulp:** het verlenen van rechtsbijstand bestaande uit het geven van eenvoudige juridische adviezen waarbij geen sprake is van vertegenwoordiging van de rechtzoekende, alsmede het met het oog op het verlenen van deze rechtsbijstand verstrekken van informatie, analyseren en verduidelijken van een probleem en het verwijzen naar terzake doende instanties en rechtsbijstandverleners;
+- **rechtzoekende:** degene die op grond van onvoldoende financiële draagkracht aanspraak kan maken op rechtsbijstand of mediation, voorzover in deze wet en de daarop berustende bepalingen geregeld, alsmede degene die zijn schade wil vorderen als slachtoffer van een misdrijf tegen de zeden of een geweldsmisdrijf;
 
-- r. **mediation:** het bemiddelen in een geschil waarbij een neutrale bemiddelingsdeskundige de onderhandelingen tussen de rechtzoekende en zijn wederpartij begeleidt teneinde vanuit hun werkelijke belangen tot gezamenlijk gedragen en voor ieder van hen optimale resultaten te komen;
+- **toevoeging:** de toevoeging ten behoeve van rechtsbijstand als bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IV&artikel=24&z=2010-07-01&g=2010-07-01), of mediation als bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IVa&artikel=33a&z=2010-07-01&g=2010-07-01);
 
-- s. **mediator:** de mediator als bedoeld in [artikel 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IVa&artikel=33a&z=2010-02-01&g=2010-02-01).
+- **vermogen:** het gemiddelde van de rendementsgrondslagen, bedoeld in [artikel 5.2 van de Wet op de inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2);
+
+- **voorziening:** een door het bestuur ingerichte voorziening als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=II&afdeling=2&artikel=7&z=2010-07-01&g=2010-07-01), of [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=II&afdeling=2&artikel=8&z=2010-07-01&g=2010-07-01).
 
 2. Vervallen.
 
@@ -92,63 +94,67 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk II. De raad voor rechtsbijstand
 
-### Afdeling 1. Samenstelling van de raad
+### Afdeling 1. De raad en zijn organen
 
 ##### Artikel 2
 
-1. Er is in elke hoofdplaats van het ressort van een gerechtshof een raad gevestigd.
+1. Er is een raad voor rechtsbijstand.
 
-2. De raad heeft rechtspersoonlijkheid.
+2. De raad heeft zijn zetel te Utrecht en vestigingen in de hoofdplaatsen van de ressorten van de gerechtshoven.
 
-3. Onder de raad ressorteert een bureau rechtsbijstandvoorziening.
+3. De raad bezit rechtspersoonlijkheid.
+
+4. De raad heeft een bestuur en een raad van advies.
+
+5. Het bestuur kan na goedkeuring van Onze Minister een nevenvestiging openen.
 
 ##### Artikel 3
 
-1. De raad bestaat uit ten hoogste negen leden.
+1. Aan het hoofd van de raad voor rechtsbijstand staat het bestuur. Het bestuur vertegenwoordigt de raad in en buiten rechte.
 
-2. Onze Minister benoemt, schorst en ontslaat de voorzitter en de overige leden van de raad. Zij worden, de raad gehoord, benoemd uit personen die over juridische, financiële, bestuurlijke of maatschappelijke deskundigheid of ervaring beschikken.
+2. Het bestuur bestaat uit ten hoogste drie leden, waaronder een voorzitter. Het lidmaatschap van het bestuur is onverenigbaar met het lidmaatschap van de raad van advies.
 
-3. Ten hoogste de helft leden van de raad kunnen zijn rechtsbijstandverleners in de zin van deze wet.
-
-4. De raad wijst uit zijn midden een secretaris en een penningmeester aan.
+3. De leden van het bestuur worden benoemd voor een periode van ten hoogste vier jaren. Zij kunnen na afloop van deze periode aansluitend tweemaal opnieuw worden herbenoemd voor een termijn van ten hoogste vier jaren. Onze Minister wijst de voorzitter aan.
 
 ##### Artikel 4
 
-1. De benoeming van de voorzitter en de overige leden van de raad geschiedt voor de tijd van vier jaar.
+1. Het bestuur besluit met volstrekte meerderheid van uitgebrachte stemmen. Elk lid heeft één stem. Indien de stemmen staken beslist de voorzitter.
 
-2. Aftredende leden kunnen tweemaal terstond worden herbenoemd.
+2. Het bestuur stelt bij reglement in ieder geval regels omtrent zijn werkwijze, procedures en besluitvorming alsmede de vertegenwoordiging van het bestuur, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=II&afdeling=1&paragraaf=2&artikel=3&z=2010-07-01&g=2010-07-01).
+
+3. Het bestuur verstrekt, onverminderd zijn verplichtingen jegens Onze Minister ingevolge [artikel 20 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=20), desgevraagd inlichtingen aan de raad van advies. Artikel 20 van de Kaderwet is van overeenkomstige toepassing.
 
 ##### Artikel 5
 
-1. Aan een lid wordt tussentijds ontslag verleend:
+1. De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=9), [11 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=11), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=23), [39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=39), en [41 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=41) zijn van overeenkomstige toepassing op de raad van advies, met dien verstande dat:
 
-- a. op eigen verzoek;
+- a. onder bezoldiging of schadeloosstelling als bedoeld in [artikel 14 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=14) wordt verstaan: vacatiegeld; en
 
-- b. indien hij naar het oordeel van de raad wegens geestelijke of lichamelijke gesteldheid moet worden geacht de geschiktheid tot het bekleden van het lidmaatschap te missen;
+- b. de raad van advies het jaarverslag, bedoeld in [artikel 18, eerste lid, van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18) tezamen met het jaarverslag van het bestuur kan uitbrengen.
 
-- c. om zwaarwegende redenen.
-
-2. Schorsing vindt plaats wegens zwaarwegende redenen.
+2. De raad van advies bestaat uit ten hoogste vijf leden, die voor een periode van ten hoogste vier jaren worden benoemd. Zij kunnen na afloop van deze periode aansluitend eenmaal opnieuw worden herbenoemd voor een termijn van ten hoogste vier jaren. Onze Minister wijst de voorzitter aan.
 
 ##### Artikel 6
 
-1. De voorzitter en de secretaris, dan wel de directeur, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=II&afdeling=3&artikel=11&z=2010-02-01&g=2010-02-01), tezamen met de voorzitter of de secretaris, vertegenwoordigen de raad in en buiten rechte.
+1. De raad van advies ziet toe op de algemene gang van zaken in de raad en kan Onze Minister daarover adviseren.
 
-2. De leden van de raad genieten voor hun werkzaamheden ten behoeve van de raad een door Onze Minister vast te stellen toelage, alsmede vergoeding van reis- en verblijfkosten overeenkomstig de bepalingen welke te dien aanzien voor de burgerlijke rijksambtenaren gelden.
+2. Bij de vervulling van zijn taak richt de raad van advies zich naar het belang van de raad, waaronder het belang van de behoorlijke vervulling van de bij of krachtens de wet aan het bestuur opgedragen taken.
+
+3. De raad van advies stelt bij reglement in ieder geval regels omtrent zijn werkwijze, procedures en besluitvorming.
 
 ### Afdeling 2. Taak en werkwijze van de raad
 
 ##### Artikel 7
 
-1. De raad heeft tot taak om:
+1. Het bestuur heeft tot taak om:
 
 - a. zorg te dragen voor de organisatie van alsmede de verlening van rechtsbijstand;
 
 - b. zorg te dragen voor de organisatie van alsmede de uitvoering van de mediation alsmede het gebruik van mediation te bevorderen.
 
-2. De raden treffen in ieder geval gezamenlijk één afzonderlijke voorziening die belast is met de verlening van rechtshulp, het bevorderen van het gebruik van mediation, het verwijzen naar een mediator alsmede met het benaderen van de wederpartij van de rechtzoekende met het oog op mediation.
+2. Het bestuur treft in ieder geval een afzonderlijke voorziening die belast is met de verlening van rechtshulp, het bevorderen van het gebruik van mediation, het verwijzen naar een mediator alsmede met het benaderen van de wederpartij van de rechtzoekende met het oog op mediation.
 
-3. Met het oog op de uitvoering van de taken, bedoeld in het eerste lid, heeft de raad voorts tot taak:
+3. Met het oog op de uitvoering van de taken, bedoeld in het eerste lid, heeft het bestuur voorts tot taak:
 
 - a. het nemen van besluiten op aanvragen om verlening van toevoegingen;
 
@@ -156,17 +162,17 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - c. de controle op werkzaamheden van rechtsbijstandverleners en mediators, voorzover deze niet elders in deze wet aan anderen is opgedragen;
 
-- d. het sluiten van overeenkomsten met ingeschreven advocaten of met personen, bedoeld in [artikel 13, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=III&afdeling=1&artikel=13&z=2010-02-01&g=2010-02-01), alsmede met mediators;
+- d. het sluiten van overeenkomsten met ingeschreven advocaten of met personen, bedoeld in [artikel 13, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=III&afdeling=1&artikel=13&z=2010-07-01&g=2010-07-01), alsmede met mediators;
 
-- e. de vaststelling van de draagkracht overeenkomstig de bepalingen van deze wet, voorzover dat bij wettelijk voorschrift is bepaald;
+- e. de vaststelling van de draagkracht overeenkomstig de bepalingen van deze wet en het zonodig verstrekken van een verklaring hieromtrent, voor zover dat bij wettelijk voorschrift is bepaald;
 
-- f. het vergoeden van de in deze wet bedoelde, door de rechtzoekende met een grensoverschrijdend geschil als bedoeld in [hoofdstuk IIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IIIa&z=2010-02-01&g=2010-02-01) gemaakte kosten.
+- f. het vergoeden van de in deze wet bedoelde, door de rechtzoekende met een grensoverschrijdend geschil als bedoeld in [hoofdstuk IIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IIIa&z=2010-07-01&g=2010-07-01) gemaakte kosten.
 
 ##### Artikel 8
 
-1. De raad kan voor de uitvoering of voorbereiding van bepaalde werkzaamheden commissies instellen, waarvan ook anderen dan leden van de raad deel kunnen uitmaken.
+1. Het bestuur kan voor de uitvoering of voorbereiding van bepaalde werkzaamheden commissies instellen, waarvan ook anderen dan leden van het bestuur deel kunnen uitmaken.
 
-2. Onverminderd [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=II&afdeling=2&artikel=7&z=2010-02-01&g=2010-02-01), kan de raad met het oog op de uitoefening van zijn taken één of meer voorzieningen treffen.
+2. Onverminderd [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=II&afdeling=2&artikel=7&z=2010-07-01&g=2010-07-01), kan het bestuur met het oog op de uitoefening van zijn taken één of meer voorzieningen treffen.
 
 3. Indien een voorziening wordt getroffen voor de verlening van rechtsbijstand zonder afgifte van een toevoeging, wordt de draagkracht bepaald door het inwinnen van informatie bij de betreffende rechtzoekende. Bij of krachtens algemene maatregel van bestuur kunnen hieromtrent nadere regels worden gesteld.
 
@@ -174,13 +180,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 9
 
-1. De raad brengt jaarlijks verslag uit aan Onze Minister. Van het verslag maken een financieel verslag en een activiteitenverslag deel uit. Het activiteitenverslag besteedt aandacht aan de ontwikkeling van de rechtsbijstandverlening alsmede aan de ontwikkeling van andere taken die door de raad worden uitgeoefend. De raden kunnen één raad aanwijzen die aandacht besteedt aan de ontwikkeling van de rechtshulp.
-
-2. Bij ministeriële regeling kunnen regels worden gesteld omtrent de inrichting van het verslag.
-
-3. De raad verstrekt Onze Minister alle gewenste inlichtingen zonder dat deze tot individuele rechtzoekenden herleidbaar zijn.
-
-4. Indien de raad zijn taken, bedoeld in [artikel 7, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=II&afdeling=2&artikel=7&z=2010-02-01&g=2010-02-01), naar het oordeel van Onze Minister ernstig verwaarloost, kan Onze Minister zonodig voorzieningen treffen. Onze Minister doet hiervan terstond mededeling aan de Staten-Generaal.
+Vervallen
 
 ### Afdeling 3. Het bureau rechtsbijstandvoorziening
 
@@ -190,9 +190,7 @@ Vervallen
 
 ##### Artikel 11
 
-1. De directeur, de plaatsvervangend directeur en de overige personeelsleden van het onder de raad ressorterende bureau, worden in dienst genomen op arbeidsovereenkomst naar burgerlijk recht. De bepalingen van [titel 10 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&titeldeel=10) alsmede [artikel 6 van het Buitengewoon Besluit Arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&artikel=6) zijn op deze overeenkomst van toepassing.
-
-2. Onze Minister kan regels stellen omtrent de inrichting, werkwijze en personeelsformatie van het bureau.
+In afwijking van [artikel 15 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=15) worden de personeelsleden van de raad in dienst genomen op arbeidsovereenkomst naar burgerlijk recht. De bepalingen van [titel 10 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&titeldeel=10) alsmede [artikel 6 van het Buitengewoon Besluit Arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&artikel=6) zijn op deze overeenkomst van toepassing.
 
 ### Hoofdstuk III. De verlening van rechtsbijstand
 
@@ -200,7 +198,7 @@ Vervallen
 
 ##### Artikel 12
 
-1. Rechtsbijstand wordt uitsluitend verleend ter zake van in de Nederlandse rechtssfeer liggende rechtsbelangen aan natuurlijke en rechtspersonen wier financiële draagkracht de in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34&z=2010-02-01&g=2010-02-01) genoemde bedragen niet overschrijdt.
+1. Rechtsbijstand wordt uitsluitend verleend ter zake van in de Nederlandse rechtssfeer liggende rechtsbelangen aan natuurlijke en rechtspersonen wier financiële draagkracht de in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34&z=2010-07-01&g=2010-07-01) genoemde bedragen niet overschrijdt.
 
 2. Rechtsbijstand wordt niet verleend indien:
 
@@ -228,25 +226,25 @@ Vervallen
 
 1. Onverminderd het tweede lid wordt rechtsbijstand verleend door:
 
-- a. door de raad ingeschreven advocaten;
+- a. door het bestuur ingeschreven advocaten;
 
 - b. medewerkers van een voorziening voorzover belast met de verlening van rechtsbijstand;
 
 - c. notarissen, onverminderd het bepaalde in [artikel 56 van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=56), gerechtsdeurwaarders en anderen met wie de raad een overeenkomst is aangegaan tot het verlenen van rechtsbijstand op bepaalde rechtsgebieden.
 
-2. Rechtshulp wordt uitsluitend verleend door medewerkers die in dienstbetrekking zijn bij de voorziening, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=II&afdeling=2&artikel=7&z=2010-02-01&g=2010-02-01), of bij een voorziening als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=II&afdeling=2&artikel=8&z=2010-02-01&g=2010-02-01), voorzover deze belast is met het verlenen van rechtshulp, of door anderen met wie de raad in overeenstemming met de regels, bedoeld in het derde lid, een overeenkomst is aangegaan tot het verlenen van rechtshulp.
+2. Rechtshulp wordt uitsluitend verleend door medewerkers die in dienstbetrekking zijn bij de voorziening, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=II&afdeling=2&artikel=7&z=2010-07-01&g=2010-07-01), of bij een voorziening als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=II&afdeling=2&artikel=8&z=2010-07-01&g=2010-07-01), voorzover deze belast is met het verlenen van rechtshulp, of door anderen met wie de raad in overeenstemming met de regels, bedoeld in het derde lid, een overeenkomst is aangegaan tot het verlenen van rechtshulp.
 
-3. In het jaarplan worden regels opgenomen met betrekking tot het aangaan van de in het eerste lid, onder c, en tweede lid bedoelde overeenkomsten.
+3. Het bestuur stelt regels met betrekking tot het aangaan van de in het eerste lid, onder c, en tweede lid bedoelde overeenkomsten.
 
 ### Afdeling 1. Algemeen
 
 ##### Artikel 14
 
-Alle in het ressort kantoor houdende advocaten die daartoe een aanvraag hebben ingediend, worden door de raad ingeschreven indien zij voldoen aan de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=III&afdeling=2&artikel=15&z=2010-02-01&g=2010-02-01) bedoelde voorwaarden. De raden kunnen gezamenlijk regels stellen met betrekking tot deze voorwaarden. Deze regels behoeven de goedkeuring van Onze Minister.
+Alle in Nederland kantoor houdende advocaten die daartoe een aanvraag hebben ingediend, worden door het bestuur ingeschreven indien zij voldoen aan de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=III&afdeling=2&artikel=15&z=2010-07-01&g=2010-07-01) bedoelde voorwaarden. Het bestuur kan regels stellen met betrekking tot deze voorwaarden. Deze regels behoeven de goedkeuring van Onze Minister.
 
 ##### Artikel 15
 
-De door de raden te stellen regels met betrekking tot de voorwaarden kunnen betrekking hebben op:
+De door het bestuur te stellen regels met betrekking tot de voorwaarden kunnen betrekking hebben op:
 
 - a. het minimum en het maximum aantal zaken waarvoor een advocaat jaarlijks zal worden toegevoegd;
 
@@ -258,7 +256,7 @@ De door de raden te stellen regels met betrekking tot de voorwaarden kunnen betr
 
 ##### Artikel 16
 
-In bijzondere gevallen kan de raad beslissen dat rechtsbijstand zal worden verleend door een niet ingeschreven advocaat.
+In bijzondere gevallen kan het bestuur beslissen dat rechtsbijstand zal worden verleend door een niet ingeschreven advocaat.
 
 Als bijzonder geval kan worden aangemerkt:
 
@@ -268,9 +266,9 @@ Als bijzonder geval kan worden aangemerkt:
 
 ##### Artikel 17
 
-1. De inschrijving wordt door de raad doorgehaald bij verlies van de hoedanigheid van advocaat.
+1. De inschrijving wordt door het bestuur doorgehaald bij verlies van de hoedanigheid van advocaat.
 
-2. Voorts kan de raad de inschrijving doorhalen:
+2. Voorts kan het bestuur de inschrijving doorhalen:
 
 - a. indien de advocaat niet voldaan heeft dan wel niet langer voldoet aan de voor de inschrijving gestelde voorwaarden;
 
@@ -314,33 +312,33 @@ Vervallen
 
 ##### Artikel 24
 
-1. De raad beslist op de aanvraag om een toevoeging ten behoeve van:
+1. Het bestuur beslist op de aanvraag om een toevoeging ten behoeve van:
 
 - a. rechtsbijstand door een advocaat;
 
-- b. rechtsbijstand door een medewerker die in dienstbetrekking is bij een voorziening, tenzij het betreft een medewerker van de voorziening, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=II&afdeling=2&artikel=7&z=2010-02-01&g=2010-02-01), of van een voorziening als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=II&afdeling=2&artikel=8&z=2010-02-01&g=2010-02-01), voorzover het de verlening van rechtshulp betreft;
+- b. rechtsbijstand door een medewerker die in dienstbetrekking is bij een voorziening, tenzij het betreft een medewerker van de voorziening, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=II&afdeling=2&artikel=7&z=2010-07-01&g=2010-07-01), of van een voorziening als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=II&afdeling=2&artikel=8&z=2010-07-01&g=2010-07-01), voorzover het de verlening van rechtshulp betreft;
 
-- c. rechtsbijstand door personen, bedoeld in [artikel 13, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=III&afdeling=1&artikel=13&z=2010-02-01&g=2010-02-01).
+- c. rechtsbijstand door personen, bedoeld in [artikel 13, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=III&afdeling=1&artikel=13&z=2010-07-01&g=2010-07-01).
 
-2. De rechtsbijstandverlener dient mede namens de rechtzoekende, een aanvraag om een toevoeging in bij de raad in het ressort waar de rechtsbijstandverlener kantoor houdt. De aanvraag wordt mede namens de rechtzoekende, ondertekend door de rechtsbijstandverlener.
+2. De rechtsbijstandverlener dient mede namens de rechtzoekende, een aanvraag om een toevoeging in bij de vestiging van de raad in het ressort waar de rechtsbijstandverlener kantoor houdt. De aanvraag wordt mede namens de rechtzoekende, ondertekend door de rechtsbijstandverlener.
 
 3. De aanvraag om een toevoeging bevat een genoegzame omschrijving van de feiten en omstandigheden betreffende het rechtsprobleem waarvoor rechtsbijstand wordt gevraagd, de aan te voeren gronden dan wel een aanduiding van de werkzaamheden op basis van de toevoeging die ter zake van het rechtsprobleem nodig worden geacht.
 
-4. De rechtsbijstandverlener kan slechts met instemming van de raad de toevoeging weigeren. Zolang de toevoeging niet is gewijzigd of ingetrokken, is hij verplicht de nodige rechtsbijstand te verlenen.
+4. De rechtsbijstandverlener kan slechts met instemming van het bestuur de toevoeging weigeren. Zolang de toevoeging niet is gewijzigd of ingetrokken, is hij verplicht de nodige rechtsbijstand te verlenen.
 
-5. De toevoeging vermeldt een omschrijving van het rechtsbelang terzake waarvan de toevoeging is verleend. Het besluit vermeldt tevens het bedrag van de eigen bijdrage die op de voet van het bepaalde in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=35&z=2010-02-01&g=2010-02-01) is verschuldigd.
+5. De toevoeging vermeldt een omschrijving van het rechtsbelang terzake waarvan de toevoeging is verleend. Het besluit vermeldt tevens het bedrag van de eigen bijdrage die op de voet van het bepaalde in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=35&z=2010-07-01&g=2010-07-01) is verschuldigd.
 
 ##### Artikel 25
 
-1. Voorzover beschikbaar worden bij de aanvraag om een toevoeging in ieder geval het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer, van de aanvrager en van degenen als bedoeld in [artikel 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34&z=2010-02-01&g=2010-02-01), verstrekt.
+1. Voorzover beschikbaar worden bij de aanvraag om een toevoeging in ieder geval het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer, van de aanvrager en van degenen als bedoeld in [artikel 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34&z=2010-07-01&g=2010-07-01), verstrekt.
 
-2. Indien het een aanvraag betreft van een vreemdeling van wie geen burgerservicenummer noch een sociaal-fiscaalnummer beschikbaar is, verstrekt Onze Minister op verzoek van de raad de gegevens die voor de beoordeling van de aanvraag noodzakelijk zijn.
+2. Indien het een aanvraag betreft van een vreemdeling van wie geen burgerservicenummer noch een sociaal-fiscaalnummer beschikbaar is, verstrekt Onze Minister op verzoek van het bestuur de gegevens die voor de beoordeling van de aanvraag noodzakelijk zijn.
 
-3. De inspecteur verstrekt op verzoek van de raad het bedrag aan vermogen dat meer bedraagt dan het heffingvrij vermogen van de rechtzoekende en van degenen als bedoeld in [artikel 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34&z=2010-02-01&g=2010-02-01). Voor zover van de rechtzoekende of van degenen als bedoeld in [artikel 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34&z=2010-02-01&g=2010-02-01), geen vermogens- of inkomensgegeven beschikbaar is, verstrekt de inspecteur op verzoek van de raad zo mogelijk het bedrag dat in het peiljaar het vermogen of inkomen zo goed mogelijk benadert.
+3. De inspecteur verstrekt op verzoek van het bestuur het bedrag aan vermogen dat meer bedraagt dan het heffingvrij vermogen van de rechtzoekende en van degenen als bedoeld in [artikel 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34&z=2010-07-01&g=2010-07-01). Voor zover van de rechtzoekende of van degenen als bedoeld in [artikel 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34&z=2010-07-01&g=2010-07-01), geen vermogens- of inkomensgegeven beschikbaar is, verstrekt de inspecteur op verzoek van het bestuur zo mogelijk het bedrag dat in het peiljaar het vermogen of inkomen zo goed mogelijk benadert.
 
-4. In de gevallen waarin de inspecteur niet beschikt over de gegevens over vermogen of inkomen, bedoeld in het derde lid, legt de aanvrager stukken over op grond waarvan de raad het bedrag aan vermogen of inkomen kan vaststellen.
+4. In de gevallen waarin de inspecteur niet beschikt over de gegevens over vermogen of inkomen, bedoeld in het derde lid, legt de aanvrager stukken over op grond waarvan het bestuur het bedrag aan vermogen of inkomen kan vaststellen.
 
-5. Met het oog op het vaststellen van de financiële draagkracht en van de hoogte van de eigen bijdrage van de rechtzoekende worden op verzoek van de raad uit de gemeentelijke basisadministratie persoonsgegevens inlichtingen verstrekt over de rechtzoekende en degenen met wie de rechtzoekende een gezamenlijke huishouding voert als bedoeld in [artikel 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34&z=2010-02-01&g=2010-02-01).
+5. Met het oog op het vaststellen van de financiële draagkracht en van de hoogte van de eigen bijdrage van de rechtzoekende worden op verzoek van het bestuur uit de gemeentelijke basisadministratie persoonsgegevens inlichtingen verstrekt over de rechtzoekende en degenen met wie de rechtzoekende een gezamenlijke huishouding voert als bedoeld in [artikel 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34&z=2010-07-01&g=2010-07-01).
 
 6. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de bij de aanvraag over te leggen gegevens en bescheiden alsmede omtrent het opvragen van het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer bij degenen wier inkomen of vermogen betrokken wordt bij de beoordeling van de aanvraag.
 
@@ -350,23 +348,23 @@ Vervallen
 
 ##### Artikel 27
 
-De raad kan, alvorens op de aanvraag te beslissen, de rechtzoekende horen, indien hij dat noodzakelijk acht voor de beoordeling van de aanvraag of de financiële draagkracht van de rechtzoekende. De raad kan tevens, tenzij het belang van de rechtzoekende zich daartegen verzet, de tegenpartij in de gelegenheid stellen haar standpunt uiteen te zetten.
+Het bestuur kan, alvorens op de aanvraag te beslissen, de rechtzoekende horen, indien hij dat noodzakelijk acht voor de beoordeling van de aanvraag of de financiële draagkracht van de rechtzoekende. Het bestuur kan tevens, tenzij het belang van de rechtzoekende zich daartegen verzet, de tegenpartij in de gelegenheid stellen haar standpunt uiteen te zetten.
 
 ##### Artikel 28
 
-1. De raad kan de toevoeging weigeren indien de aanvraag:
+1. Het bestuur kan de toevoeging weigeren indien de aanvraag:
 
 - a. wordt ingediend nadat de rechtsbijstand reeds feitelijk is verleend;
 
 - b. betrekking heeft op een rechtsbelang ter zake waarvan de aanvrager aanspraak kan maken op rechtsbijstand op grond van een eerder afgegeven toevoeging;
 
-- c. een rechtsprobleem betreft dat naar het oordeel van de raad eenvoudig afgehandeld kan worden;
+- c. een rechtsprobleem betreft dat naar het oordeel van het bestuur eenvoudig afgehandeld kan worden;
 
-- d. een rechtsprobleem betreft dat door de voorziening, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=II&afdeling=2&artikel=7&z=2010-02-01&g=2010-02-01), kan worden afgehandeld.
+- d. een rechtsprobleem betreft dat door de voorziening, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=II&afdeling=2&artikel=7&z=2010-07-01&g=2010-07-01), of door een voorziening als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=II&afdeling=2&artikel=8&z=2010-07-01&g=2010-07-01), voor zover belast met het verlenen van rechtshulp, kan worden afgehandeld.
 
-2. Bij de in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=III&afdeling=1&artikel=12&z=2010-02-01&g=2010-02-01), bedoelde algemene maatregel van bestuur kunnen omtrent het in het eerste lid bepaalde nadere regels worden gesteld.
+2. Bij de in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=III&afdeling=1&artikel=12&z=2010-07-01&g=2010-07-01), bedoelde algemene maatregel van bestuur kunnen omtrent het in het eerste lid bepaalde nadere regels worden gesteld.
 
-3. Het eerste lid, onderdelen a en c, is niet van toepassing, indien het betreft een toevoeging in een zaak waarbij de rechtsbijstand bestaat uit het geven van een eenvoudig rechtskundig advies. De raad kan evenwel een aanvraag om deze toevoeging weigeren, indien de aanvraag niet binnen vier weken na het geven van het advies is ingediend.
+3. Het eerste lid, onderdelen a en c, is niet van toepassing, indien het betreft een toevoeging in een zaak waarbij de rechtsbijstand bestaat uit het geven van een eenvoudig rechtskundig advies. Het bestuur kan evenwel een aanvraag om deze toevoeging weigeren, indien de aanvraag niet binnen vier weken na het geven van het advies is ingediend.
 
 ##### Artikel 29
 
@@ -378,9 +376,9 @@ De raad kan, alvorens op de aanvraag te beslissen, de rechtzoekende horen, indie
 
 ##### Artikel 30
 
-1. In spoedeisende gevallen verleent de raad een voorlopige toevoeging. De raad beslist zo spoedig mogelijk daarna over definitieve toevoeging; dit besluit treedt met terugwerkende kracht in de plaats van die tot verlening van een voorlopige toevoeging.
+1. In spoedeisende gevallen verleent het bestuur een voorlopige toevoeging. Het bestuur beslist zo spoedig mogelijk daarna over definitieve toevoeging; dit besluit treedt met terugwerkende kracht in de plaats van die tot verlening van een voorlopige toevoeging.
 
-2. Bij de verlening van de voorlopige toevoeging stelt de raad de aanvrager overeenkomstig [artikel 4:5, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) een termijn, waarbinnen deze de voor de beoordeling van zijn aanvraag om een definitieve toevoeging van belang zijnde gegevens moet hebben overgelegd.
+2. Bij de verlening van de voorlopige toevoeging stelt het bestuur de aanvrager overeenkomstig [artikel 4:5, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) een termijn, waarbinnen deze de voor de beoordeling van zijn aanvraag om een definitieve toevoeging van belang zijnde gegevens moet hebben overgelegd.
 
 ##### Artikel 31
 
@@ -392,7 +390,7 @@ De toevoeging geldt uitsluitend voor het rechtsbelang ter zake waarvoor zij is v
 
 ##### Artikel 33
 
-1. De raad kan de toevoeging, anders dan op verlangen van de aanvrager, wijzigen, beëindigen of intrekken, indien:
+1. Het bestuur kan de toevoeging, anders dan op verlangen van de aanvrager, wijzigen, beëindigen of intrekken, indien:
 
 - a. deze is verleend op grond van onjuiste of onvolledige gegevens omtrent de aard of het belang van de zaak, de financiële draagkracht of de woonplaats van de aanvrager;
 
@@ -404,7 +402,7 @@ De toevoeging geldt uitsluitend voor het rechtsbelang ter zake waarvoor zij is v
 
 2. De toegevoegde rechtsbijstandverlener kan zich na beëindiging of intrekking van de toevoeging aan de zaak onttrekken.
 
-3. Indien de toevoeging wordt beëindigd of ingetrokken op grond van een situatie als bedoeld in het eerste lid, onder a, kan de raad het bedrag ter hoogte van de vergoeding, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=2&artikel=37&z=2010-02-01&g=2010-02-01), vorderen van de rechtzoekende, tenzij de verlening van de vergoeding op grond van [artikel 4:48, eerste lid, onder c of d, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:48) is ingetrokken of gewijzigd of de vergoeding op grond van [artikel 4:46, tweede lid, onder c of d, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46) lager is vastgesteld dan wel de vaststelling van de vergoeding op grond van [artikel 4:49, eerste lid, onder b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) is ingetrokken of ten nadele van de rechtsbijstandverlener is gewijzigd.
+3. Indien de toevoeging wordt beëindigd of ingetrokken op grond van een situatie als bedoeld in het eerste lid, onder a, kan het bestuur het bedrag ter hoogte van de vergoeding, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=2&artikel=37&z=2010-07-01&g=2010-07-01), vorderen van de rechtzoekende, tenzij de verlening van de vergoeding op grond van [artikel 4:48, eerste lid, onder c of d, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:48) is ingetrokken of gewijzigd of de vergoeding op grond van [artikel 4:46, tweede lid, onder c of d, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46) lager is vastgesteld dan wel de vaststelling van de vergoeding op grond van [artikel 4:49, eerste lid, onder b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) is ingetrokken of ten nadele van de rechtsbijstandverlener is gewijzigd.
 
 ### Hoofdstuk V. Financiële bepalingen
 
@@ -432,17 +430,17 @@ De toevoeging geldt uitsluitend voor het rechtsbelang ter zake waarvoor zij is v
 
 ##### Artikel 36
 
-Aan rechtspersonen wordt overeenkomstig de bepalingen van deze wet rechtsbijstand verleend, indien van de rechtspersoon redelijkerwijze niet verwacht kan worden dat deze de kosten van rechtsbijstand betaalt uit eigen vermogen of inkomsten, waaronder begrepen bijdragen van leden of betrokkenen, alsmede subsidies van de overheid. [Artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=35&z=2010-02-01&g=2010-02-01) is van overeenkomstige toepassing.
+Aan rechtspersonen wordt overeenkomstig de bepalingen van deze wet rechtsbijstand verleend, indien van de rechtspersoon redelijkerwijze niet verwacht kan worden dat deze de kosten van rechtsbijstand betaalt uit eigen vermogen of inkomsten, waaronder begrepen bijdragen van leden of betrokkenen, alsmede subsidies van de overheid. [Artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=35&z=2010-07-01&g=2010-07-01) is van overeenkomstige toepassing.
 
-### Afdeling 3. Afstemming andere regelgeving
+### Afdeling 2. Rechtzoekenden die wonen in Nederland
 
 ##### Artikel 37
 
-1. De raad verstrekt aan een rechtsbijstandverlener een subsidie, genoemd vergoeding, voor:
+1. Het bestuur verstrekt aan een rechtsbijstandverlener een subsidie, genoemd vergoeding, voor:
 
 - a. de door hem op basis van een toevoeging verleende rechtsbijstand;
 
-- b. de door hem verleende rechtsbijstand in een zaak waarin een rechtsbijstandverlener rechtsbijstand heeft verleend in het kader van een door de raad getroffen regeling voor het beurtelings verlenen van rechtsbijstand in bij algemene maatregel van bestuur aan te wijzen zaken.
+- b. de door hem verleende rechtsbijstand in een zaak waarin een rechtsbijstandverlener rechtsbijstand heeft verleend in het kader van een door het bestuur getroffen regeling voor het beurtelings verlenen van rechtsbijstand in bij algemene maatregel van bestuur aan te wijzen zaken.
 
 2. De vergoeding omvat mede de bij algemene maatregel van bestuur aan te wijzen overige kosten die verband houden met de verlening van rechtsbijstand alsmede de omzetbelasting die over de vergoeding is verschuldigd.
 
@@ -472,19 +470,19 @@ Aan rechtspersonen wordt overeenkomstig de bepalingen van deze wet rechtsbijstan
 
 ##### Artikel 38
 
-1. De rechtzoekende is de hem opgelegde eigen bijdrage van rechtswege verschuldigd aan degene die hem de rechtsbijstand verleent. Voor het overige is hij geen vergoeding verschuldigd, behoudens voor kosten die meer in het bijzonder ten behoeve van zijn zaak zijn gemaakt, voor zover die op grond van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=2&artikel=41&z=2010-02-01&g=2010-02-01) aan hem in rekening mogen worden gebracht.
+1. De rechtzoekende is de hem opgelegde eigen bijdrage van rechtswege verschuldigd aan degene die hem de rechtsbijstand verleent. Voor het overige is hij geen vergoeding verschuldigd, behoudens voor kosten die meer in het bijzonder ten behoeve van zijn zaak zijn gemaakt, voor zover die op grond van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=2&artikel=41&z=2010-07-01&g=2010-07-01) aan hem in rekening mogen worden gebracht.
 
-2. De ingevolge [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=35&z=2010-02-01&g=2010-02-01) verschuldigde eigen bijdrage bedraagt niet meer dan het bedrag van de vergoeding waarop de rechtsbijstandverlener ingevolge [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=2&artikel=37&z=2010-02-01&g=2010-02-01) recht heeft.
+2. De ingevolge [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=35&z=2010-07-01&g=2010-07-01) verschuldigde eigen bijdrage bedraagt niet meer dan het bedrag van de vergoeding waarop de rechtsbijstandverlener ingevolge [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=2&artikel=37&z=2010-07-01&g=2010-07-01) recht heeft.
 
 3. De rechtsbijstandverlener licht de rechtzoekende vooraf zo goed mogelijk in over de kosten die voor hem aan de te verlenen rechtsbijstand verbonden zijn. Hij kan ter verzekering van de inning van de eigen bijdrage en de overige aan de zaak verbonden kosten die voor rekening van de rechtzoekende komen, verlangen dat de rechtzoekende een voorschot betaalt.
 
 4. Indien de rechtzoekende weigerachtig blijft de door hem aan de rechtsbijstandverlener verschuldigde bijdrage en vergoeding voor de kosten te voldoen, wordt het bedrag daarvan nader vastgesteld door de president van de rechtbank van het arrondissement waarin de rechtsbijstandverlener is gevestigd. De [artikelen 34 tot en met 40 van de Wet tarieven in burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0001852&artikel=34) zijn van overeenkomstige toepassing.
 
-5. De in het eerste lid bedoelde eigen bijdrage is van rechtswege verschuldigd aan de voorziening die door de raad is getroffen voor de verlening van rechtsbijstand, indien de rechtsbijstand door medewerkers van die voorziening is verleend.
+5. De in het eerste lid bedoelde eigen bijdrage is van rechtswege verschuldigd aan de voorziening die door het bestuur is getroffen voor de verlening van rechtsbijstand, indien de rechtsbijstand door medewerkers van die voorziening is verleend.
 
 ##### Artikel 39
 
-Bij de in [artikel 37, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=2&artikel=37&z=2010-02-01&g=2010-02-01), bedoelde algemene maatregel van bestuur worden regels gesteld voor de vergoedingen voor diensten die bij de verlening van rechtsbijstand zijn verricht door deurwaarders en, in strafzaken, door tolken, alsmede omtrent betaling van krachtens wettelijk voorschrift of rechterlijk bevel in dag- of nieuwsbladen geplaatste oproepingen of aankondigingen.
+Bij de in [artikel 37, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=2&artikel=37&z=2010-07-01&g=2010-07-01), bedoelde algemene maatregel van bestuur worden regels gesteld voor de vergoedingen voor diensten die bij de verlening van rechtsbijstand zijn verricht door deurwaarders en, in strafzaken, door tolken, alsmede omtrent betaling van krachtens wettelijk voorschrift of rechterlijk bevel in dag- of nieuwsbladen geplaatste oproepingen of aankondigingen.
 
 ##### Artikel 40
 
@@ -492,9 +490,9 @@ De rechtzoekende is geen kosten verschuldigd voor het uitbrengen van een exploit
 
 ##### Artikel 41
 
-1. Bij de in [artikel 37, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=2&artikel=37&z=2010-02-01&g=2010-02-01), bedoelde algemene maatregel van bestuur worden regels gesteld omtrent de kosten die ten behoeve van de zaak zijn gemaakt en die door de rechtsbijstandverlener in rekening mogen worden gebracht.
+1. Bij de in [artikel 37, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=2&artikel=37&z=2010-07-01&g=2010-07-01), bedoelde algemene maatregel van bestuur worden regels gesteld omtrent de kosten die ten behoeve van de zaak zijn gemaakt en die door de rechtsbijstandverlener in rekening mogen worden gebracht.
 
-2. Tevens kunnen bij deze algemene maatregel van bestuur regels worden gesteld omtrent de gegevens die de rechtsbijstandverlener aan de raad dient over te leggen inzake:
+2. Tevens kunnen bij deze algemene maatregel van bestuur regels worden gesteld omtrent de gegevens die de rechtsbijstandverlener aan het bestuur dient over te leggen inzake:
 
 - a. de aan de rechtzoekende boven de eigen bijdrage in rekening gebrachte kosten;
 
@@ -506,13 +504,19 @@ De rechtzoekende is geen kosten verschuldigd voor het uitbrengen van een exploit
 
 ##### Artikel 42
 
-1. Onze Minister verstrekt de raad een subsidie voor de uitvoering van zijn wettelijke taak.
+1. Onze Minister verstrekt de raad een subsidie voor de uitvoering van de wettelijke taken van het bestuur en de raad van advies.
 
 2. In afwijking van [artikel 4:21, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:21) is titel 4.2 van die wet van toepassing.
 
 3. De subsidie wordt per boekjaar verstrekt.
 
-4. [Afdeling 4.2.8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.8) is van toepassing.
+4. [Afdeling 4.2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.8), met uitzondering van de [artikelen 4:71](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:71) en [4:72, eerste, tweede, vierde en vijfde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:72) is van toepassing, met dien verstande dat:
+
+- a. de overeenkomstig [artikel 26 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26) toe te zenden begroting betrekking heeft op het boekjaar en Onze Minister bij de ingevolge dat artikel vast te stellen datum rekening houdt met de [artikelen 4:60](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:60) en [4:61 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:61);
+
+- b. in afwijking van [artikel 4:63 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:63) op de inhoud van de begroting de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=27) en [28 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=28) van toepassing zijn;
+
+- c. het activiteitenverslag, bedoeld in [artikel 4:80 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:80), wordt opgenomen in het jaarverslag, bedoeld in [artikel 18 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18).
 
 ##### Artikel 42a
 
@@ -532,31 +536,27 @@ De rechtzoekende is geen kosten verschuldigd voor het uitbrengen van een exploit
 
 - g. de gevallen waarin de raad een vergoeding voor vermogensvorming als bedoeld in [artikel 4:41 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:41) verschuldigd is, alsmede hoe deze vergoeding wordt berekend;
 
-- h. de handelingen, bedoeld in [artikel 4:71 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:71), waarvoor de raad de toestemming van Onze Minister behoeft;
+- h. de omvang en aanvulling van de egalisatiereserves en de aanwending van overschotten;
 
-- i. het vormen van egalisatiereserves door de raad;
+- i. de overige aan de subsidie verbonden verplichtingen;
 
-- j. de overige aan de subsidie verbonden verplichtingen;
+- j. de termijn die bij de indiening van de aanvraag tot vaststelling van de subsidie in acht wordt genomen;
 
-- k. de termijn die bij de indiening van de aanvraag tot vaststelling van de subsidie in acht wordt genomen;
+- k. de termijn waarbinnen Onze Minister op de aanvraag tot vaststelling van de subsidie beslist;
 
-- l. de termijn waarbinnen Onze Minister op de aanvraag tot vaststelling van de subsidie beslist;
+- l. het onderzoek door de accountant, bedoeld in [artikel 4:78 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:78);
 
-- m. het onderzoek door de accountant, bedoeld in [artikel 4:78 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:78);
-
-- n. de overige eisen waaraan het financiële verslag en het activiteitenverslag moeten voldoen.
+- m. de overige eisen waaraan het financiële verslag en het activiteitenverslag moeten voldoen.
 
 2. Onze Minister stelt een aanwijzing over de reikwijdte en de intensiteit van de controle, als bedoeld in [artikel 4:79, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:79), vast.
 
 ##### Artikel 42b
 
-1. De raad kan met het oog op de uitoefening van zijn taken een subsidie verstrekken aan één of meer voorzieningen. De raden kunnen met goedkeuring van Onze Minister één raad aanwijzen die één of meer voorzieningen subsidieert.
+1. Het bestuur kan met het oog op de uitoefening van zijn taken een subsidie verstrekken aan één of meer voorzieningen.
 
-2. De raden subsidiëren gezamenlijk de voorziening, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=II&afdeling=2&artikel=7&z=2010-02-01&g=2010-02-01).
+2. Op de subsidie, die per boekjaar wordt verstrekt, is [afdeling 4.2.8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.8) van toepassing.
 
-3. Op de subsidie, die per boekjaar wordt verstrekt, is [afdeling 4.2.8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.8) van toepassing.
-
-4. De raad stelt regels over de verstrekking van de subsidie, die in ieder geval bepalingen omvatten omtrent:
+3. Het bestuur stelt regels over de verstrekking van de subsidie, die in ieder geval bepalingen omvatten omtrent:
 
 - a. de termijn die bij de indiening van de aanvraag tot subsidieverlening in acht wordt genomen;
 
@@ -564,7 +564,7 @@ De rechtzoekende is geen kosten verschuldigd voor het uitbrengen van een exploit
 
 - c. de gevallen waarin de voorziening een vergoeding voor vermogensvorming als bedoeld in [artikel 4:41 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:41) verschuldigd is, alsmede hoe deze vergoeding wordt berekend;
 
-- d. de handelingen, bedoeld in [artikel 4:71 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:71), waarvoor de voorziening de toestemming van de raad behoeft;
+- d. de handelingen, bedoeld in [artikel 4:71 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:71), waarvoor de voorziening de toestemming van het bestuur behoeft;
 
 - e. het vormen van een egalisatiereserve door de voorziening;
 
@@ -574,17 +574,17 @@ De rechtzoekende is geen kosten verschuldigd voor het uitbrengen van een exploit
 
 - h. het onderzoek door de accountant, bedoeld in [artikel 4:78 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:78).
 
-5. De raad stelt een aanwijzing over de reikwijdte en de intensiteit van de controle, als bedoeld in [artikel 4:79, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:79), vast.
+4. Het bestuur stelt een aanwijzing over de reikwijdte en de intensiteit van de controle, als bedoeld in [artikel 4:79, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:79), vast.
 
-6. De door de raden op te stellen regels voor de subsidiëring van een voorziening behoeven de goedkeuring van Onze Minister. De goedkeuring kan worden onthouden wegens strijd met het recht of het algemeen belang.
+5. De door het bestuur op te stellen regels voor de subsidiëring van een voorziening behoeven de goedkeuring van Onze Minister. De goedkeuring kan worden onthouden wegens strijd met het recht of het algemeen belang.
 
-7. Voorzover noodzakelijk met het oog op het onderzoek door de accountant, bedoeld in [artikel 4:78 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:78), verstrekt de voorziening persoonsgegevens van rechtzoekenden aan de accountant.
+6. Voorzover noodzakelijk met het oog op het onderzoek door de accountant, bedoeld in [artikel 4:78 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:78), verstrekt de voorziening persoonsgegevens van rechtzoekenden aan de accountant.
 
 ### Hoofdstuk VI. Rechtsbijstand in strafzaken
 
 ##### Artikel 43
 
-1. Rechtsbijstand is kosteloos in de gevallen waarin krachtens enig wettelijk voorschrift in het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) of het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) aan de verdachte of de veroordeelde op last van de rechter een raadsman wordt toegevoegd door de raad, onverminderd het in [artikel 49 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=49) bepaalde.
+1. Rechtsbijstand is kosteloos in de gevallen waarin krachtens enig wettelijk voorschrift in het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) of het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) aan de verdachte of de veroordeelde op last van de rechter een raadsman wordt toegevoegd door het bestuur, onverminderd het in [artikel 49 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=49) bepaalde.
 
 2. Het eerste lid is van overeenkomstige toepassing op rechtsbijstand bedoeld in:
 
@@ -606,11 +606,11 @@ De rechtzoekende is geen kosten verschuldigd voor het uitbrengen van een exploit
 
 ##### Artikel 44
 
-1. Aan personen die zich krachtens het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) of het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) door een raadsman kunnen doen bijstaan, kan de raad een advocaat toevoegen.
+1. Aan personen die zich krachtens het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) of het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) door een raadsman kunnen doen bijstaan, kan het bestuur een advocaat toevoegen.
 
 2. De eigen bijdrage is niet verschuldigd, indien een zaak eindigt zonder de toepassing van een straf of maatregel dan wel zonder toepassing van [artikel 9a Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=9a). De rechtsbijstandverlener restitueert de eigen bijdrage aan de rechtzoekende, tenzij deze de eigen bijdrage nog niet heeft voldaan.
 
-3. De raad is bevoegd geen eigen bijdrage op te leggen bij de toevoeging van een raadsman aan hen die zich anders dan als verdachte of veroordeelde krachtens het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) of [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) laten bijstaan.
+3. Het bestuur is bevoegd geen eigen bijdrage op te leggen bij de toevoeging van een raadsman aan hen die zich anders dan als verdachte of veroordeelde krachtens het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) of [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) laten bijstaan.
 
 4. Ongeacht de draagkracht is rechtsbijstand aan een slachtoffer van een misdrijf tegen de zeden of een geweldsmisdrijf kosteloos, indien in de desbetreffende zaak vervolging is ingesteld en het slachtoffer overeenkomstig [artikel 3 van de Wet schadefonds geweldsmisdrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=3) in aanmerking komt voor een uitkering.
 
@@ -622,9 +622,9 @@ Vervallen
 
 ##### Artikel 46
 
-1. Indien beroep wordt ingesteld tegen een besluit van de raad is in afwijking van [artikel 8:7, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:7), de rechtbank bevoegd binnen het rechtsgebied waarvan de raad is gevestigd.
+1. Indien beroep wordt ingesteld tegen een besluit van het bestuur is, in afwijking van [artikel 8:7, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:7), de rechtbank bevoegd binnen het rechtsgebied waarvan de vestiging van de raad, bedoeld in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IV&artikel=24&z=2010-07-01&g=2010-07-01), is gelegen.
 
-2. In afwijking van [artikel 8:41, derde lid, onder b en c, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:41) bedraagt het griffierecht € 41 indien door een rechtzoekende beroep wordt ingesteld tegen een besluit van de raad.
+2. In afwijking van [artikel 8:41, derde lid, onder b en c, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:41) bedraagt het griffierecht € 41 indien door een rechtzoekende beroep wordt ingesteld tegen een besluit van het bestuur.
 
 3. In afwijking van [artikel 40, tweede lid, onder a en b, van de Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&artikel=40) bedraagt het griffierecht € 111 indien door een rechtzoekende hoger beroep wordt ingesteld.
 
@@ -650,7 +650,7 @@ Vervallen
 
 ##### Artikel 49
 
-De voordracht voor een krachtens de [artikelen 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=III&afdeling=1&artikel=12&z=2010-02-01&g=2010-02-01), [34a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34a&z=2010-02-01&g=2010-02-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=35&z=2010-02-01&g=2010-02-01) en [37, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=2&artikel=37&z=2010-02-01&g=2010-02-01), vastgestelde algemene maatregel van bestuur wordt niet gedaan dan nadat het ontwerp in de **Staatscourant** is bekendgemaakt en aan een ieder de gelegenheid is geboden om binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze Minister te brengen. Gelijktijdig met de bekendmaking wordt het ontwerp aan de beide kamers der Staten-Generaal overgelegd.
+De voordracht voor een krachtens de [artikelen 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=III&afdeling=1&artikel=12&z=2010-07-01&g=2010-07-01), [34a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34a&z=2010-07-01&g=2010-07-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=35&z=2010-07-01&g=2010-07-01) en [37, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=2&artikel=37&z=2010-07-01&g=2010-07-01), vastgestelde algemene maatregel van bestuur wordt niet gedaan dan nadat het ontwerp in de **Staatscourant** is bekendgemaakt en aan een ieder de gelegenheid is geboden om binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze Minister te brengen. Gelijktijdig met de bekendmaking wordt het ontwerp aan de beide kamers der Staten-Generaal overgelegd.
 
 ##### Artikel 50
 
@@ -742,7 +742,7 @@ De raad stelt een bestuursreglement vast. Het reglement behoeft de goedkeuring v
 
 ### Afdeling 1. Algemeen
 
-### Afdeling 3. De stichting rechtsbijstand
+### Afdeling 2. De inschrijving van advocaten door het bestuur
 
 ### Hoofdstuk IIIa. De verlening van rechtsbijstand in grensoverschrijdende geschillen binnen de Europese Unie
 
@@ -758,11 +758,11 @@ Indien een rechtspersoon een gehele of gedeeltelijke geldelijke bijdrage ontvang
 
 ##### Artikel 37b
 
-1. De raad kan aan een rechtsbijstandverlener of een samenwerkingsverband van rechtsbijstandverleners ten behoeve van de verlening van rechtsbijstand subsidie verstrekken voor bijzondere doeleinden en projecten.
+1. Het bestuur kan aan een rechtsbijstandverlener of een samenwerkingsverband van rechtsbijstandverleners ten behoeve van de verlening van rechtsbijstand subsidie verstrekken voor bijzondere doeleinden en projecten.
 
-2. De raad kan een subsidieplafond vaststellen voor de activiteiten waarvoor subsidie kan worden verstrekt.
+2. Het bestuur kan een subsidieplafond vaststellen voor de activiteiten waarvoor subsidie kan worden verstrekt.
 
-3. De raad stelt regels vast voor de verstrekking van subsidies als bedoeld in het eerste lid.
+3. Het bestuur stelt regels vast voor de verstrekking van subsidies als bedoeld in het eerste lid.
 
 4. Deze regels bevatten in ieder geval:
 
@@ -778,19 +778,19 @@ Indien een rechtspersoon een gehele of gedeeltelijke geldelijke bijdrage ontvang
 
 - f. de wijze waarop en de termijn waarbinnen het beschikbare bedrag wordt verdeeld.
 
-5. De door de raad te stellen regels behoeven de goedkeuring van Onze Minister.
+5. De door het bestuur te stellen regels behoeven de goedkeuring van Onze Minister.
 
 ### Afdeling 3. Subsidieverstrekking aan de raad en aan de stichting rechtsbijstand
 
 ##### Artikel 42c
 
-1. De raden kunnen met het oog op de uitvoering van hun taken subsidie verstrekken voor bijzondere doeleinden en projecten.
+1. Het bestuur kan met het oog op de uitvoering van zijn taak subsidie verstrekken voor bijzondere doeleinden en projecten.
 
-2. Het tweede tot en met vijfde lid van [artikel 37b](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=2&artikel=37b&z=2010-02-01&g=2010-02-01) zijn van toepassing.
+2. Het tweede tot en met vijfde lid van [artikel 37b](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=2&artikel=37b&z=2010-07-01&g=2010-07-01) zijn van toepassing.
 
 ### Hoofdstuk IVa. Mediation
 
-### Hoofdstuk VII. Bezwaar en beroep
+### Hoofdstuk IVa. Mediation
 
 ### Hoofdstuk V. Financiële bepalingen
 
@@ -818,31 +818,31 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 23c
 
-1. Indien de bijzondere feitelijke of juridische ingewikkeldheid van het geval of de gelijkheid van de partijen dat vereist, kan, in afwijking van [artikel 12, tweede lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=III&afdeling=1&artikel=12&z=2010-02-01&g=2010-02-01), rechtsbijstand worden verleend.
+1. Indien de bijzondere feitelijke of juridische ingewikkeldheid van het geval of de gelijkheid van de partijen dat vereist, kan, in afwijking van [artikel 12, tweede lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=III&afdeling=1&artikel=12&z=2010-07-01&g=2010-07-01), rechtsbijstand worden verleend.
 
-2. Het eerste lid is van overeenkomstige toepassing, indien de raad een toevoeging verleent op last van de rechter.
+2. Het eerste lid is van overeenkomstige toepassing, indien het bestuur een toevoeging verleent op last van de rechter.
 
-3. Rechtsbijstand behoeft niet te worden verleend, indien de rechtzoekende in het betrokken geschil daadwerkelijk toegang heeft tot andere regelingen voor de dekking van de kosten van rechtsbijstand alsmede de in [artikel 23e](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IIIa&afdeling=1&artikel=23e&z=2010-02-01&g=2010-02-01) bedoelde kosten.
+3. Rechtsbijstand behoeft niet te worden verleend, indien de rechtzoekende in het betrokken geschil daadwerkelijk toegang heeft tot andere regelingen voor de dekking van de kosten van rechtsbijstand alsmede de in [artikel 23e](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IIIa&afdeling=1&artikel=23e&z=2010-07-01&g=2010-07-01) bedoelde kosten.
 
-4. [Artikel 33, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IV&artikel=33&z=2010-02-01&g=2010-02-01), is niet van toepassing.
+4. [Artikel 33, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IV&artikel=33&z=2010-07-01&g=2010-07-01), is niet van toepassing.
 
 ##### Artikel 23d
 
-Ondanks de toepasselijkheid van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34&z=2010-02-01&g=2010-02-01) wordt rechtsbijstand verleend of worden kosten, bedoeld in [artikel 23e](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IIIa&afdeling=1&artikel=23e&z=2010-02-01&g=2010-02-01) vergoed, indien de rechtzoekende aantoont dat hij niet in staat is de kosten van rechtsbijstand te dragen als gevolg van de verschillen in de kosten van levensonderhoud tussen de lidstaat waar hij zijn woonplaats of gewone verblijfplaats heeft en Nederland.
+Ondanks de toepasselijkheid van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34&z=2010-07-01&g=2010-07-01) wordt rechtsbijstand verleend of worden kosten, bedoeld in [artikel 23e](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IIIa&afdeling=1&artikel=23e&z=2010-07-01&g=2010-07-01) vergoed, indien de rechtzoekende aantoont dat hij niet in staat is de kosten van rechtsbijstand te dragen als gevolg van de verschillen in de kosten van levensonderhoud tussen de lidstaat waar hij zijn woonplaats of gewone verblijfplaats heeft en Nederland.
 
 ##### Artikel 23e
 
-1. Onverminderd de kosten die op grond van deze wet worden vergoed, worden de hierna te noemen kosten door de raad aan de rechtzoekende vergoed voorzover die rechtstreeks verband houden met het grensoverschrijdende karakter van het geschil en voorzover deze kosten, niet zijnde proceskosten, ten behoeve van de rechtzoekende zijn gemaakt en voor rekening van de rechtzoekende komen en door de rechtzoekende zijn betaald:
+1. Onverminderd de kosten die op grond van deze wet worden vergoed, worden de hierna te noemen kosten door het bestuur aan de rechtzoekende vergoed voorzover die rechtstreeks verband houden met het grensoverschrijdende karakter van het geschil en voorzover deze kosten, niet zijnde proceskosten, ten behoeve van de rechtzoekende zijn gemaakt en voor rekening van de rechtzoekende komen en door de rechtzoekende zijn betaald:
 
 - a. de kosten van tolken, voorzover deze zijn geregistreerd in het kwaliteitsregister te 's-Hertogenbosch;
 
-- b. de kosten voor de vertaling door een beëdigde vertaler van de voor de afdoening van de zaak benodigde stukken die door de rechter of de raad worden verlangd en door de rechtzoekende worden overgelegd;
+- b. de kosten voor de vertaling door een beëdigde vertaler van de voor de afdoening van de zaak benodigde stukken die door de rechter of het bestuur worden verlangd en door de rechtzoekende worden overgelegd;
 
 - c. de reiskosten, voorzover bij het voorleggen van de zaak van de aanvrager de aanwezigheid van betrokkenen ter terechtzitting bij de wet of door de rechter geboden is en de rechter oordeelt dat de betrokkenen niet anderszins ten genoegen van de rechter kunnen worden gehoord, en
 
 - d. vijftig procent van het honorarium van personen die in opdracht van de rechter in de procedure optreden.
 
-2. Voorzover mogelijk draagt de raad zorg voor de vertaling van de stukken, bedoeld in het eerste lid, onder b.
+2. Voorzover mogelijk draagt het bestuur zorg voor de vertaling van de stukken, bedoeld in het eerste lid, onder b.
 
 3. De hoogte van de vergoeding van de reiskosten, bedoeld in het eerste lid, onder c, wordt berekend overeenkomstig [artikel 25 van het Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=25).
 
@@ -860,41 +860,37 @@ Onverminderd de toepasselijkheid van de bepalingen van deze wet, wordt in een gr
 
 ##### Artikel 23g
 
-1. De rechtzoekende dient de aanvraag om verlening van rechtsbijstand in bij de raad voor rechtsbijstand te 's-Gravenhage.
-
-2. Bij ministeriële regeling wordt bepaald in welke taal of talen de aanvraag mag worden gedaan.
+Bij ministeriële regeling wordt bepaald in welke taal of talen de aanvraag om verlening van rechtsbijstand mag worden gedaan.
 
 ##### Artikel 23h
 
-Indien in Nederland om erkenning, niet-erkenning of tenuitvoerlegging van een uitspraak van de rechter uit een andere lidstaat, wordt verzocht door een rechtzoekende die in een andere lidstaat dan Nederland zijn rechtmatige woonplaats of gewone verblijfplaats als bedoeld in [artikel 23b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IIIa&afdeling=1&artikel=23b&z=2010-02-01&g=2010-02-01), heeft en van wie de hoofdzaak in een andere lidstaat dan Nederland is behandeld waarbij hij op grond van de richtlijn, genoemd in [artikel 23i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IIIa&afdeling=2&artikel=23i&z=2010-02-01&g=2010-02-01), rechtsbijstand heeft ontvangen zijn de [artikelen 23c tot en met 23g](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IIIa&afdeling=1&artikel=23c&z=2010-02-01&g=2010-02-01) van overeenkomstige toepassing.
+Indien in Nederland om erkenning, niet-erkenning of tenuitvoerlegging van een uitspraak van de rechter uit een andere lidstaat, wordt verzocht door een rechtzoekende die in een andere lidstaat dan Nederland zijn rechtmatige woonplaats of gewone verblijfplaats als bedoeld in [artikel 23b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IIIa&afdeling=1&artikel=23b&z=2010-07-01&g=2010-07-01), heeft en van wie de hoofdzaak in een andere lidstaat dan Nederland is behandeld waarbij hij op grond van de richtlijn, genoemd in [artikel 23i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IIIa&afdeling=2&artikel=23i&z=2010-07-01&g=2010-07-01), rechtsbijstand heeft ontvangen zijn de [artikelen 23c tot en met 23g](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IIIa&afdeling=1&artikel=23c&z=2010-07-01&g=2010-07-01) van overeenkomstige toepassing.
 
 ### Afdeling 2. Rechtzoekenden die wonen in Nederland
 
 ##### Artikel 23i
 
-1. In het geval waarin de richtlijn van toepassing is, wordt aan de rechtzoekende, die op de dag van het indienen van de aanvraag om verlening van rechtsbijstand met het oog op de behandeling van de zaak in een andere lidstaat dan Nederland, zijn rechtmatige woonplaats of rechtmatige gewone verblijfplaats als bedoeld in [artikel 23b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IIIa&afdeling=1&artikel=23b&z=2010-02-01&g=2010-02-01), in Nederland heeft, rechtsbijstand verleend totdat de aanvraag om verlening van rechtsbijstand in overeenstemming met voornoemde richtlijn is ontvangen door de bevoegde autoriteit van de lidstaat waar de zaak verder zal worden behandeld.
+1. In het geval waarin de richtlijn van toepassing is, wordt aan de rechtzoekende, die op de dag van het indienen van de aanvraag om verlening van rechtsbijstand met het oog op de behandeling van de zaak in een andere lidstaat dan Nederland, zijn rechtmatige woonplaats of rechtmatige gewone verblijfplaats als bedoeld in [artikel 23b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IIIa&afdeling=1&artikel=23b&z=2010-07-01&g=2010-07-01), in Nederland heeft, rechtsbijstand verleend totdat de aanvraag om verlening van rechtsbijstand in overeenstemming met voornoemde richtlijn is ontvangen door de bevoegde autoriteit van de lidstaat waar de zaak verder zal worden behandeld.
 
-2. [Artikel 23b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IIIa&afdeling=1&artikel=23b&z=2010-02-01&g=2010-02-01), is van toepassing.
+2. [Artikel 23b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IIIa&afdeling=1&artikel=23b&z=2010-07-01&g=2010-07-01), is van toepassing.
 
 3. In de gevallen, bedoeld in het eerste lid, wordt rechtsbijstand uitsluitend niet verleend, indien de daartoe strekkende aanvraag kennelijk van elke grond is ontbloot.
 
 4. De verlening van rechtsbijstand, bedoeld in het eerste lid, omvat uitsluitend de verlening van rechtshulp of de verlening van een adviestoevoeging
 
-5. De aanvraag om verlening van rechtsbijstand, bedoeld in het eerste lid, wordt gedaan bij de raad voor rechtsbijstand te 's-Gravenhage.
+5. Het bestuur zendt de aanvraag binnen vijftien dagen nadat de aanvraag en de daarbij begeleidende stukken zijn vertaald naar de bevoegde autoriteit in de lidstaat waar de zaak zal worden behandeld, tenzij de rechtsbijstand op grond van het derde lid niet is verleend. Het bestuur draagt zorg voor de vertaling van de aanvraag en van de vereiste begeleidende stukken zo spoedig mogelijk na ontvangst van de aanvraag. De kosten van de vertaling komen voor rekening van het bestuur.
 
-6. De raad, bedoeld in het vijfde lid, zendt de aanvraag binnen vijftien dagen nadat de aanvraag en de daarbij begeleidende stukken zijn vertaald naar de bevoegde autoriteit in de lidstaat waar de zaak zal worden behandeld, tenzij de rechtsbijstand op grond van het derde lid niet is verleend. De raad draagt zorg voor de vertaling van de aanvraag en van de vereiste begeleidende stukken zo spoedig mogelijk na ontvangst van de aanvraag. De kosten van de vertaling komen voor rekening van de raad.
-
-7. De rechtzoekende is geen kosten verschuldigd voor de handelingen van de raad, bedoeld in het zesde lid. Indien de bevoegde autoriteit in de lidstaat waar de zaak zal worden behandeld de aanvraag om verlening van rechtsbijstand afwijst, is de rechtzoekende de kosten van vertaling verschuldigd aan de raad.
+6. De rechtzoekende is geen kosten verschuldigd voor de handelingen van het bestuur, bedoeld in het vijfde lid. Indien de bevoegde autoriteit in de lidstaat waar de zaak zal worden behandeld de aanvraag om verlening van rechtsbijstand afwijst, is de rechtzoekende de kosten van vertaling verschuldigd aan het bestuur.
 
 ##### Artikel 23j
 
-Indien in Nederland om erkenning, niet-erkenning of tenuitvoerlegging van een uitspraak van de rechter uit een andere lidstaat, wordt verzocht door een rechtzoekende die in Nederland zijn rechtmatige woonplaats of rechtmatige gewone verblijfplaats als bedoeld in [artikel 23b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IIIa&afdeling=1&artikel=23b&z=2010-02-01&g=2010-02-01), heeft en van wie de hoofdzaak in een andere lidstaat is behandeld waarbij hij op grond van de richtlijn rechtsbijstand heeft ontvangen, zijn de [artikelen 23c tot en met 23g](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IIIa&afdeling=1&artikel=23c&z=2010-02-01&g=2010-02-01) van overeenkomstige toepassing.
+Indien in Nederland om erkenning, niet-erkenning of tenuitvoerlegging van een uitspraak van de rechter uit een andere lidstaat, wordt verzocht door een rechtzoekende die in Nederland zijn rechtmatige woonplaats of rechtmatige gewone verblijfplaats als bedoeld in [artikel 23b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IIIa&afdeling=1&artikel=23b&z=2010-07-01&g=2010-07-01), heeft en van wie de hoofdzaak in een andere lidstaat is behandeld waarbij hij op grond van de richtlijn rechtsbijstand heeft ontvangen, zijn de [artikelen 23c tot en met 23g](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IIIa&afdeling=1&artikel=23c&z=2010-07-01&g=2010-07-01) van overeenkomstige toepassing.
 
 ### Afdeling 2. Rechtzoekenden die wonen in Nederland
 
 ##### Artikel 23k
 
-In het geval waarin de richtlijn van toepassing is, zijn de bepalingen in de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IIIa&afdeling=1&z=2010-02-01&g=2010-02-01) en [2 van hoofdstuk IIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IIIa&afdeling=2&z=2010-02-01&g=2010-02-01) van toepassing in afwijking van andere tussen Nederland en de lidstaten geldende overeenkomsten alsmede in afwijking van het Verdrag van 25 oktober 1980 inzake de toegang tot de rechter in internationale gevallen (Trb. 1989, 114).
+In het geval waarin de richtlijn van toepassing is, zijn de bepalingen in de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IIIa&afdeling=1&z=2010-07-01&g=2010-07-01) en [2 van hoofdstuk IIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IIIa&afdeling=2&z=2010-07-01&g=2010-07-01) van toepassing in afwijking van andere tussen Nederland en de lidstaten geldende overeenkomsten alsmede in afwijking van het Verdrag van 25 oktober 1980 inzake de toegang tot de rechter in internationale gevallen (Trb. 1989, 114).
 
 ### Hoofdstuk IV. De toevoeging
 
@@ -904,7 +900,7 @@ In het geval waarin de richtlijn van toepassing is, zijn de bepalingen in de [af
 
 ### Afdeling 1. De normen voor de financiële draagkracht van de rechtzoekende
 
-### Afdeling 3. Subsidieverstrekking aan de raad en aan de stichting rechtsbijstand
+### Afdeling 1. De normen voor de financiële draagkracht van de rechtzoekende
 
 ### Hoofdstuk VI. Rechtsbijstand in strafzaken
 
@@ -932,9 +928,9 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat al
 
 ##### Artikel 34a
 
-1. Het inkomen van de rechtzoekende is het inkomensgegeven in het peiljaar. Voor zover van de rechtzoekende geen inkomensgegeven beschikbaar is, wordt onder inkomen verstaan het bedrag dat in het peiljaar het inkomen zo goed mogelijk benadert, dan wel het door de raad op grond van door de rechtzoekende overgelegde gegevens vastgestelde bedrag aan inkomen. Indien een inkomensgegeven over het peiljaar beschikbaar is dat afwijkt van het eerder toegepaste inkomensgegeven of het bedrag, bedoeld in de tweede volzin, en dat gevolg heeft voor het al dan niet verlenen van een toevoeging of de hoogte van de door de rechtzoekende verschuldigde eigen bijdrage, neemt de raad ambtshalve een besluit dat in de plaats komt van het eerder genomen besluit. [Artikel 34d, eerste lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34d&z=2010-02-01&g=2010-02-01), is van toepassing.
+1. Het inkomen van de rechtzoekende is het inkomensgegeven in het peiljaar. Voor zover van de rechtzoekende geen inkomensgegeven beschikbaar is, wordt onder inkomen verstaan het bedrag dat in het peiljaar het inkomen zo goed mogelijk benadert, dan wel het door het bestuur op grond van door de rechtzoekende overgelegde gegevens vastgestelde bedrag aan inkomen. Indien een inkomensgegeven over het peiljaar beschikbaar is dat afwijkt van het eerder toegepaste inkomensgegeven of het bedrag, bedoeld in de tweede volzin, en dat gevolg heeft voor het al dan niet verlenen van een toevoeging of de hoogte van de door de rechtzoekende verschuldigde eigen bijdrage, neemt het bestuur ambtshalve een besluit dat in de plaats komt van het eerder genomen besluit. [Artikel 34d, eerste lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34d&z=2010-07-01&g=2010-07-01), is van toepassing.
 
-2. Indien op grond van het ambtshalve besluit van de raad, bedoeld in het eerste lid, de rechtzoekende een hogere eigen bijdrage verschuldigd is, is hij hetgeen meer moet worden betaald verschuldigd aan de raad. Is de rechtzoekende een lagere eigen bijdrage of geen eigen bijdrage verschuldigd, dan kan hij het teveel betaalde vorderen van de raad. Over de te betalen of te vorderen bedragen worden geen renten en kosten vergoed. [Artikel 34f](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34f&z=2010-02-01&g=2010-02-01) is van overeenkomstige toepassing.
+2. Indien op grond van het ambtshalve besluit van het bestuur, bedoeld in het eerste lid, de rechtzoekende een hogere eigen bijdrage verschuldigd is, is hij hetgeen meer moet worden betaald verschuldigd aan het bestuur. Is de rechtzoekende een lagere eigen bijdrage of geen eigen bijdrage verschuldigd, dan kan hij het teveel betaalde vorderen van het bestuur. Over de te betalen of te vorderen bedragen worden geen renten en kosten vergoed. [Artikel 34f](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34f&z=2010-07-01&g=2010-07-01) is van overeenkomstige toepassing.
 
 3. Het vermogen is het vermogen in het peiljaar. Het eerste lid is van overeenkomstige toepassing.
 
@@ -942,51 +938,43 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat al
 
 ##### Artikel 34b
 
-[Artikel 34a](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34a&z=2010-02-01&g=2010-02-01) is van overeenkomstige toepassing op het vaststellen van het inkomen en vermogen van een andere persoon dan de rechtzoekende als bedoeld in [artikel 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34&z=2010-02-01&g=2010-02-01).
+[Artikel 34a](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34a&z=2010-07-01&g=2010-07-01) is van overeenkomstige toepassing op het vaststellen van het inkomen en vermogen van een andere persoon dan de rechtzoekende als bedoeld in [artikel 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34&z=2010-07-01&g=2010-07-01).
 
 ##### Artikel 34c
 
-1. Indien in het jaar waarin de aanvraag om een toevoeging is gedaan sprake is van een terugval in het inkomen of vermogen, neemt de raad op aanvraag van de rechtzoekende een besluit dat is gebaseerd op het inkomen of vermogen in het jaar waarin de aanvraag om een toevoeging is gedaan. [Artikel 25, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IV&artikel=25&z=2010-02-01&g=2010-02-01), is van overeenkomstige toepassing.
+1. Indien in het jaar waarin de aanvraag om een toevoeging is gedaan sprake is van een terugval in het inkomen of vermogen, neemt het bestuur op aanvraag van de rechtzoekende een besluit dat is gebaseerd op het inkomen of vermogen in het jaar waarin de aanvraag om een toevoeging is gedaan. [Artikel 25, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IV&artikel=25&z=2010-07-01&g=2010-07-01), is van overeenkomstige toepassing.
 
 2. Onder terugval van inkomen of vermogen wordt verstaan een vermindering van het inkomen of vermogen met ten minste 15% ten opzichte van het peiljaar.
 
-3. De aanvraag wordt bij de raad ingediend binnen zes weken na de bekendmaking van het besluit waarin is beslist op de aanvraag om een toevoeging.
+3. De aanvraag wordt bij het bestuur ingediend binnen zes weken na de bekendmaking van het besluit waarin is beslist op de aanvraag om een toevoeging.
 
 4. Bij de aanvraag wordt overgelegd een verklaring waarin de oorzaak van de inkomens- of vermogensdaling wordt toegelicht.
 
 ##### Artikel 34d
 
-1. Indien de raad de aanvraag, bedoeld in [artikel 34c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34c&z=2010-02-01&g=2010-02-01), niet heeft afgewezen, neemt de raad indien een inkomensgegeven over het jaar van de aanvraag beschikbaar is dat afwijkt van het eerder toegepaste inkomensgegeven of het bedrag, bedoeld in [artikel 34a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34a&z=2010-02-01&g=2010-02-01), tweede volzin, en dat gevolg heeft voor het al dan niet verlenen van een toevoeging of de hoogte van de door de rechtzoekende verschuldigde eigen bijdrage, ambtshalve een besluit dat in de plaats komt van het eerder genomen besluit, bedoeld in [artikel 34c](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34c&z=2010-02-01&g=2010-02-01), eerste lid, met dien verstande dat dit besluit niet van een hoger inkomensgegeven uitgaat dan zou zijn toegepast in het peiljaar, bedoeld in [artikel 34a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34a&z=2010-02-01&g=2010-02-01). De vorige volzin is van overeenkomstige toepassing op het vermogen in het jaar van de aanvraag. Het besluit heeft geen gevolg voor de beschikking tot verlening en vaststelling van de vergoeding alsmede voor het recht van de rechtsbijstandverlener om de eigen bijdrage die voortvloeit uit de draagkracht zoals berekend in het eerder genomen besluit te vorderen.
+1. Indien het bestuur de aanvraag, bedoeld in [artikel 34c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34c&z=2010-07-01&g=2010-07-01), niet heeft afgewezen, neemt het bestuur indien een inkomensgegeven over het jaar van de aanvraag beschikbaar is dat afwijkt van het eerder toegepaste inkomensgegeven of het bedrag, bedoeld in [artikel 34a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34a&z=2010-07-01&g=2010-07-01), tweede volzin, en dat gevolg heeft voor het al dan niet verlenen van een toevoeging of de hoogte van de door de rechtzoekende verschuldigde eigen bijdrage, ambtshalve een besluit dat in de plaats komt van het eerder genomen besluit, bedoeld in [artikel 34c](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34c&z=2010-07-01&g=2010-07-01), eerste lid, met dien verstande dat dit besluit niet van een hoger inkomensgegeven uitgaat dan zou zijn toegepast in het peiljaar, bedoeld in [artikel 34a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34a&z=2010-07-01&g=2010-07-01). De vorige volzin is van overeenkomstige toepassing op het vermogen in het jaar van de aanvraag. Het besluit heeft geen gevolg voor de beschikking tot verlening en vaststelling van de vergoeding alsmede voor het recht van de rechtsbijstandverlener om de eigen bijdrage die voortvloeit uit de draagkracht zoals berekend in het eerder genomen besluit te vorderen.
 
-2. [Artikel 34a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34a&z=2010-02-01&g=2010-02-01), is van overeenkomstige toepassing.
+2. [Artikel 34a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34a&z=2010-07-01&g=2010-07-01), is van overeenkomstige toepassing.
 
-3. Bij algemene maatregel van bestuur kan worden bepaald in welke gevallen de raad mag beslissen tot de verlening van een toevoeging, indien het geschatte inkomen of vermogen de grenzen, genoemd in [artikel 34, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34&z=2010-02-01&g=2010-02-01), overschrijdt dan wel de terugval in het inkomen of vermogen minder is dan 15%. In die gevallen is de eigen bijdrage gelijk aan de ingevolge de algemene maatregel van bestuur, bedoeld in [artikel 35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=35&z=2010-02-01&g=2010-02-01), hoogst mogelijke eigen bijdrage.
+3. Bij algemene maatregel van bestuur kan worden bepaald in welke gevallen het bestuur mag beslissen tot de verlening van een toevoeging, indien het geschatte inkomen of vermogen de grenzen, genoemd in [artikel 34, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34&z=2010-07-01&g=2010-07-01), overschrijdt dan wel de terugval in het inkomen of vermogen minder is dan 15%. In die gevallen is de eigen bijdrage gelijk aan de ingevolge de algemene maatregel van bestuur, bedoeld in [artikel 35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=35&z=2010-07-01&g=2010-07-01), hoogst mogelijke eigen bijdrage.
 
 ##### Artikel 34e
 
-1. De beslissing op het bezwaar tegen de beslissing op de aanvraag om een toevoeging wordt geacht mede betrekking te hebben op de beslissing op de aanvraag, bedoeld in [artikel 34c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34c&z=2010-02-01&g=2010-02-01).
+1. De beslissing op het bezwaar tegen de beslissing op de aanvraag om een toevoeging wordt geacht mede betrekking te hebben op de beslissing op de aanvraag, bedoeld in [artikel 34c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34c&z=2010-07-01&g=2010-07-01).
 
-2. Indien de aanvraag, bedoeld in [artikel 34c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34c&z=2010-02-01&g=2010-02-01), later is ingediend dan het bezwaarschrift wordt in afwijking van [artikel 7:10 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10) de termijn waarbinnen de raad beslist geacht aan te vangen bij ontvangst van de aanvraag.
+2. Indien de aanvraag, bedoeld in [artikel 34c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34c&z=2010-07-01&g=2010-07-01), later is ingediend dan het bezwaarschrift wordt in afwijking van [artikel 7:10 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10) de termijn waarbinnen het bestuur beslist geacht aan te vangen bij ontvangst van de aanvraag.
 
-3. Indien het bezwaarschrift later is ingediend dan de aanvraag om peiljaarverlegging wordt de termijn waarbinnen de raad op de aanvraag om peiljaarverlegging moet beslissen opgeschort tot het moment waarop op het bezwaar wordt beslist.
+3. Indien het bezwaarschrift later is ingediend dan de aanvraag om peiljaarverlegging wordt de termijn waarbinnen het bestuur op de aanvraag om peiljaarverlegging moet beslissen opgeschort tot het moment waarop op het bezwaar wordt beslist.
 
 ##### Artikel 34f
 
-1. De rechtzoekende is het bedrag dat in het kader van de verlening van rechtsbijstand door de raad is betaald aan de rechtsbijstandverlener verschuldigd aan de raad, indien de rechtzoekende op grond van het besluit, bedoeld in [artikel 34d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34d&z=2010-02-01&g=2010-02-01), geen recht heeft op de verlening van rechtsbijstand.
+1. De rechtzoekende is het bedrag dat in het kader van de verlening van rechtsbijstand door het bestuur is betaald aan de rechtsbijstandverlener verschuldigd aan het bestuur, indien de rechtzoekende op grond van het besluit, bedoeld in [artikel 34d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34d&z=2010-07-01&g=2010-07-01), geen recht heeft op de verlening van rechtsbijstand.
 
-2. De raad vordert het bedrag, bedoeld in het eerste lid, van de rechtzoekende, tenzij zwaarwegende omstandigheden zich daartegen verzetten.
+2. Het bestuur vordert het bedrag, bedoeld in het eerste lid, van de rechtzoekende, tenzij zwaarwegende omstandigheden zich daartegen verzetten.
 
-3. Bij het vaststellen van de termijn of de termijnen waarbinnen moet worden betaald, houdt de raad rekening met de draagkracht van de rechtzoekende.
+3. Bij het vaststellen van de termijn of de termijnen waarbinnen moet worden betaald, houdt het bestuur rekening met de draagkracht van de rechtzoekende.
 
-4. Indien de rechtzoekende het verschuldigde bedrag niet of niet tijdig voldoet maant de raad de rechtzoekende schriftelijk aan om alsnog binnen vier weken na dagtekening van de aanmaning het daarin vermelde bedrag aan de raad te voldoen. De aanmaning vermeldt dat bij niet tijdige betaling deze kan worden afgedwongen door op kosten van de schuldenaar uit te voeren invorderingsmaatregelen. De aanmaning vermeldt de vergoeding die in rekening wordt gebracht.
-
-5. Volgt op deze aanmaning de betaling binnen de gestelde termijn niet, dan vaardigt de raad een dwangbevel uit. Het dwangbevel omvat mede de buitengerechtelijke kosten.
-
-6. De bekendmaking van het dwangbevel geschiedt door middel van de betekening van een exploot als bedoeld in het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827).
-
-7. Het dwangbevel levert een executoriale titel op, die met toepassing van de voorschriften van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) kan worden tenuitvoergelegd. Bij het dwangbevel kunnen tevens de aanmaningsvergoeding en de kosten van het dwangbevel worden ingevorderd.
-
-8. Binnen vier weken na de betekening staat verzet open tegen het dwangbevel, bedoeld in het vijfde lid, door dagvaarding van de raad. Het verzet schorst de tenuitvoerlegging van het dwangbevel voorzover deze door het verzet wordt bestreden.
+4. Bij gebreke van volledige betaling kan het bestuur na een aanmaning als bedoeld in [artikel 4:112 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:112) invorderen bij dwangbevel als bedoeld in [artikel 4:114 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:114).
 
 ##### Artikel 34g
 
@@ -998,7 +986,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat al
 
 2. Het eerste lid, onder b, is niet van toepassing in zaken betreffende het strafrecht en het vreemdelingenrecht.
 
-3. [Artikel 34a, tweede lid, tweede, derde en vierde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34a&z=2010-02-01&g=2010-02-01) en [artikel 34d, eerste lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34d&z=2010-02-01&g=2010-02-01) zijn van overeenkomstige toepassing.
+3. [Artikel 34a, tweede lid, tweede, derde en vierde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34a&z=2010-07-01&g=2010-07-01), en [artikel 34d, eerste lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&artikel=34d&z=2010-07-01&g=2010-07-01), zijn van overeenkomstige toepassing.
 
 ### Afdeling 2. De kosten van de verlening van rechtsbijstand
 
@@ -1014,25 +1002,19 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat al
 
 ##### Artikel 7a
 
-1. De raden stellen gezamenlijk regels met het oog op de organisatorische en technische uitwerking van de verlening van rechtsbijstand alsmede de uitvoering van de mediation. De regeling behoeft de goedkeuring van Onze Minister.
+1. Het bestuur draagt zorg voor een zo evenwichtig mogelijke spreiding van het aanbod van de verlening van zowel de rechtsbijstand als de mediation in de ressorten. Het bestuur is belast met het toezicht op de uitvoering van deze taken. Het bestuur draagt tevens zorg voor een zo doelmatig mogelijke besteding van de hem ter beschikking staande middelen.
 
-2. De raad draagt zorg voor een zo evenwichtig mogelijke spreiding van het aanbod van de verlening van zowel de rechtsbijstand als de mediation in het ressort. Hij is belast met het toezicht op de uitvoering van deze taken. De raad draagt tevens zorg voor een zo doelmatig mogelijke besteding van de hem ter beschikking staande middelen.
-
-3. De raad stelt voor elk kalenderjaar een jaarplan op dat inzicht geeft in de wijze waarop de taken zullen worden uitgevoerd. Van het jaarplan maken een activiteitenplan en een begroting deel uit. De raden geven inzicht in de regels die ten grondslag liggen aan de inrichting en werkzaamheden van een voorziening. Het jaarplan wordt van kracht zodra Onze Minister het jaarplan heeft goedgekeurd.
-
-4. Bij ministeriële regeling kunnen regels worden gesteld omtrent de inrichting van het jaarplan, het beheer en de administratie en omtrent de maatregelen die getroffen zullen worden als het jaarplan niet tijdig kan worden goedgekeurd.
-
-5. De raden kunnen met goedkeuring van Onze Minister één raad aanwijzen die met een taak als bedoeld in [artikel 7, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=II&afdeling=2&artikel=7&z=2010-02-01&g=2010-02-01), is belast. De derde volzin van het tweede lid is van overeenkomstige toepassing.
+2. Het bestuur doet jaarlijks aan Onze Minister verslag over de organisatie en de werkzaamheden van de door het bestuur getroffen voorzieningen.
 
 ##### Artikel 8a
 
-De raden stellen een klachtenregeling vast, waarop een ieder die een klacht heeft over een gedraging van een medewerker van een voorziening een beroep kan doen. Deze klachtenregeling behoeft de goedkeuring van Onze Minister. De goedkeuring kan worden onthouden wegens strijd met het recht of het algemeen belang.
+Het bestuur stelt een klachtenregeling vast, waarop een ieder die een klacht heeft over een gedraging van een medewerker van een voorziening een beroep kan doen. Deze klachtenregeling behoeft de goedkeuring van Onze Minister. De goedkeuring kan worden onthouden wegens strijd met het recht of het algemeen belang.
 
 ### Afdeling 3. Het bureau rechtsbijstandvoorziening
 
 ### Hoofdstuk III. De verlening van rechtsbijstand
 
-### Afdeling 2. De inschrijving van advocaten door de raad
+### Afdeling 1. Algemeen
 
 ### Afdeling 3. De stichting rechtsbijstand
 
@@ -1054,7 +1036,7 @@ De raden stellen een klachtenregeling vast, waarop een ieder die een klacht heef
 
 ##### Artikel 37c
 
-De raad kan met het oog op de verlening van rechtsbijstand een subsidie verstrekken voor bijzondere doeleinden en projecten. [Artikel 37b, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=2&artikel=37b&z=2010-02-01&g=2010-02-01), zijn van overeenkomstige toepassing.
+Het bestuur kan met het oog op de verlening van rechtsbijstand een subsidie verstrekken voor bijzondere doeleinden en projecten. [Artikel 37b, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=2&artikel=37b&z=2010-07-01&g=2010-07-01), zijn van overeenkomstige toepassing.
 
 ### Afdeling 3. Subsidieverstrekking aan de raad en aan de stichting rechtsbijstand
 
@@ -1068,17 +1050,17 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat al
 
 ##### Artikel 33a
 
-Mediation wordt voor de toepassing van deze wet verricht door bij de raad ingeschreven mediators.
+Mediation wordt voor de toepassing van deze wet verricht door overeenkomstig [artikel 33b](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IVa&artikel=33b&z=2010-07-01&g=2010-07-01) ingeschreven mediators.
 
 ##### Artikel 33b
 
-1. Alle in het ressort kantoor houdende mediators die daartoe een aanvraag hebben ingediend, worden door de raad ingeschreven, indien zij voldoen aan door de raad vastgestelde voorwaarden. De raden kunnen gezamenlijk regels stellen met betrekking tot deze voorwaarden. Deze regels behoeven de goedkeuring van Onze Minister.
+1. Alle in Nederland kantoor houdende mediators die daartoe een aanvraag hebben ingediend, worden door het bestuur ingeschreven, indien zij voldoen aan de door het bestuur vastgestelde voorwaarden. Het bestuur kan regels stellen met betrekking tot deze voorwaarden. Deze regels behoeven de goedkeuring van Onze Minister.
 
-2. Mediators uit een andere lidstaat die geen kantoor houden in een ressort dienen een aanvraag als bedoeld in het eerste lid in bij de raad te 's-Gravenhage. Onder lidstaat wordt verstaan: lidstaat van de Europese Unie met uitzondering van Denemarken.
+2. Het eerste lid is van overeenkomstige toepassing op mediators uit andere lidstaten van de Europese Unie, met uitzondering van Denemarken, die geen kantoor houden in Nederland.
 
 ##### Artikel 33c
 
-De door de raden te stellen regels als bedoeld in [artikel 33b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IVa&artikel=33b&z=2010-02-01&g=2010-02-01), met betrekking tot de voorwaarden kunnen betrekking hebben op:
+De door het bestuur te stellen regels als bedoeld in [artikel 33b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IVa&artikel=33b&z=2010-07-01&g=2010-07-01), met betrekking tot de voorwaarden kunnen betrekking hebben op:
 
 - a. de vakbekwaamheidseisen die aan de mediator worden gesteld;
 
@@ -1090,25 +1072,25 @@ De door de raden te stellen regels als bedoeld in [artikel 33b, eerste lid](http
 
 - e. de verslaglegging door de mediator van de door hem verrichte werkzaamheden;
 
-- f. de beroepsaansprakelijkheidsverzekering.
+- f. de beroepsaansprakelijkheidsverzekering;
 
 - g. de organisatie van het kantoor waar de mediator werkzaam is.
 
 ##### Artikel 33d
 
-1. De raad kan de inschrijving doorhalen indien de mediator niet voldaan heeft dan wel niet langer voldoet aan de voor de inschrijving gestelde voorwaarden.
+1. Het bestuur kan de inschrijving doorhalen indien de mediator niet voldaan heeft dan wel niet langer voldoet aan de voor de inschrijving gestelde voorwaarden.
 
-2. [Artikel 17, tweede lid, onder b, d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=III&afdeling=2&artikel=17&z=2010-02-01&g=2010-02-01), is van overeenkomstige toepassing.
+2. [Artikel 17, tweede lid, onder b, d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=III&afdeling=2&artikel=17&z=2010-07-01&g=2010-07-01), is van overeenkomstige toepassing.
 
 ##### Artikel 33e
 
-1. De [artikelen 12, uitgezonderd het tweede lid, onderdelen c, d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=III&afdeling=1&artikel=12&z=2010-02-01&g=2010-02-01), [24, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IV&artikel=24&z=2010-02-01&g=2010-02-01), [25 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IV&artikel=25&z=2010-02-01&g=2010-02-01), [28, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IV&artikel=28&z=2010-02-01&g=2010-02-01), en [30 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IV&artikel=30&z=2010-02-01&g=2010-02-01) zijn van overeenkomstige toepassing op de verlening van een toevoeging met het oog op mediation. Bij de aanvraag om een toevoeging wordt de overeenkomst waarin de rechtzoekende en zijn wederpartij hebben verklaard in te stemmen met mediation overgelegd.
+1. De [artikelen 12, uitgezonderd het tweede lid, onderdelen c, d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=III&afdeling=1&artikel=12&z=2010-07-01&g=2010-07-01), [24, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IV&artikel=24&z=2010-07-01&g=2010-07-01), [25 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IV&artikel=25&z=2010-07-01&g=2010-07-01), [28, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IV&artikel=28&z=2010-07-01&g=2010-07-01), en [30 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IV&artikel=30&z=2010-07-01&g=2010-07-01) zijn van overeenkomstige toepassing op de verlening van een toevoeging met het oog op mediation. Bij de aanvraag om een toevoeging wordt de overeenkomst waarin de rechtzoekende en zijn wederpartij hebben verklaard in te stemmen met mediation overgelegd.
 
-2. [Artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IV&artikel=33&z=2010-02-01&g=2010-02-01) is van overeenkomstige toepassing op de toevoeging voor mediation met uitzondering van het eerste lid, onder d.
+2. [Artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=IV&artikel=33&z=2010-07-01&g=2010-07-01) is van overeenkomstige toepassing op de toevoeging voor mediation met uitzondering van het eerste lid, onder d.
 
-3. [Afdeling 1 van Hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&z=2010-02-01&g=2010-02-01) en de [artikelen 37, eerste, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=2&artikel=37&z=2010-02-01&g=2010-02-01), [37a tot en met 38](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=2&artikel=38&z=2010-02-01&g=2010-02-01) en [41](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=2&artikel=41&z=2010-02-01&g=2010-02-01) zijn van overeenkomstige toepassing voor het bepalen van de draagkracht alsmede van de eigen bijdrage van de rechtzoekende aan wie een toevoeging met het oog op mediation is verleend en voor het bepalen van de kosten van mediation.
+3. [Afdeling 1 van Hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=1&z=2010-07-01&g=2010-07-01) en de [artikelen 37, eerste, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=2&artikel=37&z=2010-07-01&g=2010-07-01), [37a tot en met 38](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=2&artikel=38&z=2010-07-01&g=2010-07-01) en [41](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=V&afdeling=2&artikel=41&z=2010-07-01&g=2010-07-01) zijn van overeenkomstige toepassing voor het bepalen van de draagkracht alsmede van de eigen bijdrage van de rechtzoekende aan wie een toevoeging met het oog op mediation is verleend en voor het bepalen van de kosten van mediation.
 
-4. De [artikelen 46](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=VII&artikel=46&z=2010-02-01&g=2010-02-01) en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=VIII&artikel=47&z=2010-02-01&g=2010-02-01) zijn eveneens van overeenkomstige toepassing.
+4. De [artikelen 46](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=VII&artikel=46&z=2010-07-01&g=2010-07-01) en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=VIII&artikel=47&z=2010-07-01&g=2010-07-01) zijn eveneens van overeenkomstige toepassing.
 
 ### Afdeling 1. De normen voor de financiële draagkracht van de rechtzoekende
 
@@ -1118,7 +1100,7 @@ De door de raden te stellen regels als bedoeld in [artikel 33b, eerste lid](http
 
 ### Hoofdstuk VI. Rechtsbijstand in strafzaken
 
-### Hoofdstuk VIII. Toezicht op de naleving
+### Hoofdstuk VII. Bezwaar en beroep
 
 ### Hoofdstuk IX. Slot- en overgangsbepalingen
 
@@ -1126,7 +1108,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat al
 
 ##### Artikel 7b
 
-Dit onderdeel is nog niet inwerking getreden
+Op verzoek van een nationale of internationale rechterlijke instantie of een instantie in een ander land kan het bestuur een verklaring omtrent het inkomen en vermogen verstrekken dat bij de vaststelling van de draagkracht in acht wordt genomen. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent deze verklaring.
 
 ### Hoofdstuk III. De verlening van rechtsbijstand
 
@@ -1153,6 +1135,40 @@ Dit onderdeel is nog niet inwerking getreden
 ### Hoofdstuk VII. Bezwaar en beroep
 
 ### Hoofdstuk VIII. Toezicht op de naleving
+
+### Hoofdstuk VIII. Toezicht op de naleving
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+#### § 1. Algemeen
+
+#### § 2. Het bestuur
+
+#### § 3. De raad van advies
+
+### Afdeling 2. Taak en werkwijze van het bestuur
+
+### Afdeling 3. Personeelsleden van de raad
+
+### Hoofdstuk III. De verlening van rechtsbijstand
+
+### Afdeling 3. De stichting rechtsbijstand
+
+### Hoofdstuk IIIa. De verlening van rechtsbijstand in grensoverschrijdende geschillen binnen de Europese Unie
+
+### Afdeling 1. Rechtzoekenden die wonen in een andere lidstaat dan Nederland
+
+### Afdeling 3. Afstemming andere regelgeving
+
+### Hoofdstuk IV. De toevoeging
+
+### Hoofdstuk V. Financiële bepalingen
+
+### Afdeling 2. De kosten van de verlening van rechtsbijstand
+
+### Afdeling 3. Subsidieverstrekking aan de raad en aan een voorziening
+
+### Hoofdstuk VI. Rechtsbijstand in strafzaken
 
 ### Hoofdstuk IX. Slot- en overgangsbepalingen
 
