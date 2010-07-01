@@ -4,7 +4,7 @@ identifier: "BWBR0010393"
 country: "nl"
 rank: "amvb"
 publication_date: "2010-07-01"
-last_updated: "2009-08-26"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010393"
 soort: "AMvB"
@@ -46,6 +46,8 @@ Gezien het nader rapport van Onze Staatssecretaris van Justitie van 23 maart 199
 
 Hebben goedgevonden en verstaan:
 
+Werkt terug tot en met 1 januari 1999.
+
 ### HOOFDSTUK 1. ALGEMENE BEPALINGEN
 
 ##### Artikel 1
@@ -54,11 +56,11 @@ In dit besluit wordt verstaan onder:
 
 - a. wet: [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368);
 
-- b. subsidie: de krachtens [artikel 42, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=42) aan de raad te verstrekken subsidie voor de uitvoering van zijn wettelijke taak;
+- b. subsidie: de krachtens [artikel 42, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=42) aan de raad te verstrekken subsidie voor de uitvoering van de wettelijke taken van het bestuur en de raad van advies;
 
-- c. deelsubsidie beheers- en programmakosten: de in [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010393&hoofdstuk=1&artikel=2&z=2009-08-26&g=2009-08-26), bedoelde deelsubsidie;
+- c. deelsubsidie beheers- en programmakosten: de in [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010393&hoofdstuk=1&artikel=2&z=2010-07-01&g=2010-07-01), bedoelde deelsubsidie;
 
-- d. deelsubsidie landelijke projecten en activiteiten: de in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010393&hoofdstuk=1&artikel=2&z=2009-08-26&g=2009-08-26), bedoelde deelsubsidie.
+- d. deelsubsidie projecten en activiteiten: de in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010393&hoofdstuk=1&artikel=2&z=2010-07-01&g=2010-07-01), bedoelde deelsubsidie.
 
 ##### Artikel 2
 
@@ -74,19 +76,17 @@ In dit besluit wordt verstaan onder:
 
 - 3°. de doeluitkering voor vergoedingen voor rechtsbijstandverlening ten behoeve van piketregelingen;
 
-- 4°. de doeluitkering voor de subsidiëring van de voorzieningen, bedoeld in [artikel 42b, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=42b), verminderd met de wettelijk te innen eigen bijdragen van rechtzoekenden voor zover het voorzieningen betreft die belast zijn met de verlening van rechtsbijstand, anders dan rechtshulp, of mediation;
+- 4°. de doeluitkering voor de subsidiëring van de voorzieningen, bedoeld in [artikel 42b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=42b), verminderd met de wettelijk te innen eigen bijdragen van rechtzoekenden voor zover het voorzieningen betreft die belast zijn met de verlening van rechtsbijstand, anders dan rechtshulp, of mediation;
 
 - 5°. de doeluitkering voor de verlening van rechtsbijstand of mediation op basis van overeenkomsten als bedoeld in [artikel 7, derde lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=7);
 
 - 6°. overige uitgaven;
 
-- b. indien van toepassing de kosten van landelijke projecten en activiteiten.
+- b. indien van toepassing de kosten van projecten en activiteiten.
 
 ##### Artikel 3
 
-1. De raad vormt egalisatiereserves voor de deelsubsidie beheers- en programmakosten en de deelsubsidie landelijke projecten en activiteiten.
-
-2. Bij ministeriële regeling worden nadere regels gesteld omtrent het vormen van egalisatiereserves door de raad.
+Vervallen
 
 ##### Artikel 4
 
@@ -128,7 +128,7 @@ Onze Minister beslist binnen dertien weken op de aanvraag tot verlening van de s
 
 2. De raad voert de op het [Besluit voorschrift informatiebeveiliging rijksdienst 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006836) gebaseerde beleidsregels uit.
 
-3. De raad geeft in het jaarverslag inzicht in de wijze waarop de bedrijfsvoering heeft plaatsgevonden. Daarbij komen in ieder geval aan de orde:
+3. Het jaarverslag als bedoeld in [artikel 18 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18) geeft tevens inzicht in de wijze waarop de bedrijfsvoering heeft plaatsgevonden. Daarbij komen in ieder geval aan de orde:
 
 - a. de administratieve organisatie;
 
@@ -174,9 +174,9 @@ Vervallen
 
 ##### Artikel 14
 
-1. De raad behoeft de toestemming van Onze Minister voor de handelingen, bedoeld in [artikel 4:71, eerste lid, onderdelen a en c tot en met g, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:71).
+1. De raad behoeft de toestemming van Onze Minister voor de handelingen, bedoeld in [artikel 32, onderdelen a tot en met f van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=32).
 
-2. De raad behoeft tevens de toestemming van Onze Minister voor het aangaan of wijzigen van subsidieverplichtingen anders dan met voorzieningen, bedoeld in [artikel 42b, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=42b).
+2. De raad behoeft tevens de toestemming van Onze Minister voor het aangaan of wijzigen van subsidieverplichtingen anders dan met voorzieningen, bedoeld in [artikel 42b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=42b).
 
 ##### Artikel 15
 
@@ -204,7 +204,7 @@ Vervallen
 
 ##### Artikel 19
 
-Onze Minister kan, na overleg met de raad, de bevoorschotting van de raad verlagen indien diens liquiditeitspositie dat toelaat, zulks ter vermijding van eventuele liquiditeitsproblemen bij een of meer andere raden.
+Vervallen
 
 ##### Artikel 20
 
@@ -216,7 +216,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 ##### Artikel 22
 
-Dit besluit wordt aangehaald als: Subsidiebesluit raden voor rechtsbijstand.
+Dit besluit wordt aangehaald als: Subsidiebesluit raad voor rechtsbijstand.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
