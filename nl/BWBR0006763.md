@@ -4,7 +4,7 @@ identifier: "BWBR0006763"
 country: "nl"
 rank: "wet"
 publication_date: "2010-07-01"
-last_updated: "1999-06-01"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006763"
 soort: "wet"
@@ -65,7 +65,7 @@ Zo is het, dat Wij, de Raad van State gehoord en met gemeen overleg der Staten-G
 
 1. Bevoegd tot het geven van een machtiging tot binnentreden zijn:
 
-- a. de advocaat-generaal bij het gerechtshof;
+- a. de advocaat-generaal bij het ressortsparket;
 
 - b. de officier van justitie;
 
@@ -83,9 +83,9 @@ De machtiging kan uitsluitend worden gegeven aan degene die bij of krachtens de 
 
 1. De machtiging wordt gegeven voor het binnentreden in één in de machtiging te noemen woning. Zo nodig kan in de machtiging worden bepaald dat zij tevens geldt voor ten hoogste drie andere afzonderlijk te noemen woningen.
 
-2. Ten behoeve van de opsporing van misdrijven waarvoor voorlopige hechtenis is toegelaten, is de advocaat-generaal bij het gerechtshof of de officier van justitie bevoegd een machtiging te geven die betrekking heeft op een groter aantal woningen. Bij dringende noodzakelijkheid en indien het optreden van de advocaat-generaal of de officier van justitie niet kan worden afgewacht, komt de bevoegdheid tot het geven van een machtiging toe aan de hulpofficier van Justitie.
+2. Ten behoeve van de opsporing van misdrijven waarvoor voorlopige hechtenis is toegelaten, is de advocaat-generaal bij het ressortsparket of de officier van justitie bevoegd een machtiging te geven die betrekking heeft op een groter aantal woningen. Bij dringende noodzakelijkheid en indien het optreden van de advocaat-generaal of de officier van justitie niet kan worden afgewacht, komt de bevoegdheid tot het geven van een machtiging toe aan de hulpofficier van Justitie.
 
-3. Ten behoeve van de aanhouding, de medebrenging of de gevangenneming van een in de machtiging te noemen of, wanneer zijn naam onbekend is, zo duidelijk mogelijk aan te wijzen persoon onderscheidenlijk van de inbeslagneming van een in de machtiging te noemen of, wanneer dat niet mogelijk is, zo duidelijk mogelijk te omschrijven goed is de advocaat-generaal bij het gerechtshof of de officier van justitie bevoegd een machtiging te geven die geldt voor iedere woning waarin bedoelde persoon onderscheidenlijk bedoeld goed zich bevindt of verondersteld wordt zich te bevinden. Bij dringende noodzakelijkheid en indien het optreden van de advocaat-generaal of de officier van justitie niet kan worden afgewacht, komt de bevoegdheid tot het geven van een machtiging toe aan de hulpofficier van justitie.
+3. Ten behoeve van de aanhouding, de medebrenging of de gevangenneming van een in de machtiging te noemen of, wanneer zijn naam onbekend is, zo duidelijk mogelijk aan te wijzen persoon onderscheidenlijk van de inbeslagneming van een in de machtiging te noemen of, wanneer dat niet mogelijk is, zo duidelijk mogelijk te omschrijven goed is de advocaat-generaal bij het ressortsparket of de officier van justitie bevoegd een machtiging te geven die geldt voor iedere woning waarin bedoelde persoon onderscheidenlijk bedoeld goed zich bevindt of verondersteld wordt zich te bevinden. Bij dringende noodzakelijkheid en indien het optreden van de advocaat-generaal of de officier van justitie niet kan worden afgewacht, komt de bevoegdheid tot het geven van een machtiging toe aan de hulpofficier van justitie.
 
 ##### Artikel 6
 
@@ -135,11 +135,11 @@ Degene die bevoegd is zonder toestemming van de bewoner binnen te treden, kan zi
 
 - f. hetgeen in de woning is verricht of overigens is voorgevallen, het aantal en de hoedanigheid van degenen die hem hebben vergezeld, de namen van de personen aan wie in de woning hun vrijheid is benomen en de voorwerpen die in de woning in beslag zijn genomen;
 
-- g. voor zover van toepassing: de redenen waarom en de wijze waarop het bepaalde in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&paragraaf=1&artikel=1&z=1999-06-01&g=1999-06-01), dan wel [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&paragraaf=2&artikel=2&z=1999-06-01&g=1999-06-01), toepassing heeft gevonden.
+- g. voor zover van toepassing: de redenen waarom en de wijze waarop het bepaalde in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&paragraaf=1&artikel=1&z=2010-07-01&g=2010-07-01), dan wel [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&paragraaf=2&artikel=2&z=2010-07-01&g=2010-07-01), toepassing heeft gevonden.
 
 ##### Artikel 11
 
-1. Indien krachtens een machtiging is binnengetreden, wordt het verslag uiterlijk op de vierde dag na die waarop in de woning is binnengetreden, toegezonden aan degene die de machtiging heeft gegeven. Is de machtiging gegeven door een hulpofficier van justitie, dan wordt het verslag ook aan de officier van justitie toegezonden. Indien overeenkomstig het bepaalde in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&paragraaf=2&artikel=2&z=1999-06-01&g=1999-06-01), zonder machtiging is binnengetreden, wordt het verslag toegezonden aan de officier van justitie dan wel, voor zover is binnengetreden voor andere doeleinden dan strafvordering, aan de burgemeester.
+1. Indien krachtens een machtiging is binnengetreden, wordt het verslag uiterlijk op de vierde dag na die waarop in de woning is binnengetreden, toegezonden aan degene die de machtiging heeft gegeven. Is de machtiging gegeven door een hulpofficier van justitie, dan wordt het verslag ook aan de officier van justitie toegezonden. Indien overeenkomstig het bepaalde in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&paragraaf=2&artikel=2&z=2010-07-01&g=2010-07-01), zonder machtiging is binnengetreden, wordt het verslag toegezonden aan de officier van justitie dan wel, voor zover is binnengetreden voor andere doeleinden dan strafvordering, aan de burgemeester.
 
 2. Een afschrift van het verslag wordt uiterlijk op de vierde dag na die waarop in de woning is binnengetreden, aan de bewoner uitgereikt of toegezonden. Indien het doel waartoe wordt binnengetreden daartoe noodzaakt, kan de uitreiking of de toezending aan de bewoner worden uitgesteld. Uitreiking of toezending geschiedt in dat geval, zodra het belang van dit doel dit toelaat. Indien het niet mogelijk is dit afschrift uit te reiken of toe te zenden, houdt degene aan wie overeenkomstig het eerste lid het verslag is toegezonden dan wel degene die zijn bevoegdheid zonder machtiging binnen te treden heeft uitgeoefend, het afschrift gedurende zes maanden voor de bewoner beschikbaar.
 
@@ -159,7 +159,7 @@ In de gevallen waarin het binnentreden van plaatsen krachtens een wettelijke voo
 
 ##### Artikel 13
 
-Onze Minister van Justitie zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&paragraaf=1&artikel=1&z=1999-06-01&g=1999-06-01) en [2 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&paragraaf=2&artikel=2&z=1999-06-01&g=1999-06-01) in de praktijk.
+Onze Minister van Justitie zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&paragraaf=1&artikel=1&z=2010-07-01&g=2010-07-01) en [2 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&paragraaf=2&artikel=2&z=2010-07-01&g=2010-07-01) in de praktijk.
 
 ##### Artikel 14
 
