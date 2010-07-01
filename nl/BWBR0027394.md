@@ -205,17 +205,3 @@ Dit besluit treedt in werking op het tijdstip waarop de wet van 12 november 2009
 Dit besluit wordt aangehaald als: Besluit bloedtest in strafzaken in geval van een ernstige besmettelijke ziekte.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-#### § 4. Wijze van verkrijging van celmateriaal
-
-#### § 5. Onderzoek naar besmetting met een ernstige besmettelijke ziekte
-
-#### § 6. Fylogenetisch onderzoek
-
-#### § 9. Slotbepalingen
-
-##### Artikel 17
-
-Dit besluit wordt aangehaald als: Besluit onderzoek in strafzaken naar een ernstige besmettelijke ziekte.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
