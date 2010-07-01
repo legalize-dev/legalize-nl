@@ -4,7 +4,7 @@ identifier: "BWBR0007331"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2007-09-23"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007331"
 soort: "ministeriele-regeling"
@@ -498,4 +498,4 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 - d. de Noord.
 
-2. Op de Nieuwe Maas van km 989.000 tot km 991.700 en op de Noord is [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007331&artikel=1&z=2007-09-23&g=2007-09-23), van overeenkomstige toepassing.
+2. Op de Nieuwe Maas van km 989.000 tot km 991.700 en op de Noord is [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007331&artikel=1&z=2007-09-23&g=2010-07-01), van overeenkomstige toepassing.
