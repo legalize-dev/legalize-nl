@@ -4,7 +4,7 @@ identifier: "BWBR0026153"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-01-01"
-last_updated: "2009-09-01"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026153"
 soort: "ministeriele-regeling"
@@ -48,11 +48,13 @@ In deze regeling wordt verstaan onder:
 
 - –. **De verordening:** Verordening (EG) nr. 1927/2006 van het Europees Parlement en de Raad van 20 december 2006, zoals gewijzigd door Verordening (EG) nr. 546/2009 van het Europees parlement en de Raad van 18 juni 2009;
 
-- –. **EGF:** Europees fonds voor aanpassing aan de globalisering.
+- –. **EGF:** Europees fonds voor aanpassing aan de globalisering;
+
+- –. **aanvrager:** rechtspersoon die in aanmerking wil komen voor een financiële bijdrage uit het EGF en daartoe een projectvoorstel indient bij de Minister.
 
 ##### Artikel 2. Projectvoorstel
 
-1. Een rechtspersoon die in aanmerking wil komen voor een financiële bijdrage uit het EGF, kan een projectvoorstel indienen bij de Minister.
+1. Een rechtspersoon die in aanmerking wil komen voor een financiële bijdrage uit het EGF, kan een projectvoorstel indienen bij de Minister, binnen maximaal vier weken na afloop van de referentieperiode. De Minister kan besluiten dat van deze termijn wordt afgeweken.
 
 2. De Minister kan ondersteuning bieden bij de uitwerking van het projectvoorstel.
 
@@ -64,7 +66,7 @@ De Minister dient slechts een projectvoorstel in bij de Europese Commissie nadat
 
 ##### Artikel 4. Verlening en voorschot
 
-1. Wanneer de Europese Commissie het projectvoorstel goedkeurt, verleent de Minister de aanvrager subsidie ter hoogte van het door de Europese Commissie toegekende bedrag, onder de voorwaarden gesteld bij en krachtens de verordening, en de voorwaarden genoemd in het convenant als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026153&artikel=3&z=2009-09-01&g=2009-09-01).
+1. Wanneer de Europese Commissie het projectvoorstel goedkeurt, verleent de Minister de aanvrager subsidie ter hoogte van het door de Europese Commissie toegekende bedrag, onder de voorwaarden gesteld bij en krachtens de verordening, en de voorwaarden genoemd in het convenant als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026153&artikel=3&z=2010-07-01&g=2010-07-01).
 
 2. De Minister verstrekt het volledige van de Europese Commissie ontvangen bedrag als voorschot op de projectsubsidie aan de aanvrager, tenzij er gegronde redenen bestaan om aan te nemen dat het project niet volledig overeenkomstig de aanvraag zal worden uitgevoerd.
 
@@ -74,7 +76,7 @@ Gedurende de looptijd van het project kan de Minister verzoeken om een tussenrap
 
 ##### Artikel 6. Controle
 
-De aanvrager richt de nodige beheers- en controle systemen in conform de eisen die worden gesteld bij en krachtens de Verordening en het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026153&artikel=3&z=2009-09-01&g=2009-09-01) bedoelde convenant, en werkt volledig mee aan de controle door de Minister op de naleving daarvan.
+De aanvrager richt de nodige beheers- en controle systemen in conform de eisen die worden gesteld bij en krachtens de Verordening en het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026153&artikel=3&z=2010-07-01&g=2010-07-01) bedoelde convenant, en werkt volledig mee aan de controle door de Minister op de naleving daarvan.
 
 ##### Artikel 7. Verzoek tot vaststelling van de subsidie
 
@@ -87,5 +89,11 @@ De aanvrager richt de nodige beheers- en controle systemen in conform de eisen d
 ##### Artikel 8. Vaststelling
 
 De Minister stelt de aanvrager zo snel mogelijk op de hoogte van de beslissing van de Europese Commissie waarin de financiële bijdrage van het EGF wordt afgesloten, en stelt op basis daarvan de subsidie vast.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 9. Citeertitel
+
+Deze regeling wordt aangehaald als ‘EGF regeling’.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
