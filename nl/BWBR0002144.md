@@ -4,7 +4,7 @@ identifier: "BWBR0002144"
 country: "nl"
 rank: "wet"
 publication_date: "2023-11-16"
-last_updated: "2010-02-19"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002144"
 soort: "wet"
@@ -76,7 +76,7 @@ Er is een College van Beroep voor het bedrijfsleven, verder te noemen het Colleg
 
 Het bij en krachtens de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=1), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=2) en [6 van hoofdstuk 2 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=6) bepaalde is, met uitzondering van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=3), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=9), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=11), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=20) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=21), van overeenkomstige toepassing op het College, met dien verstande dat:
 
-- a. het bestuur bestaat uit een voorzitter, een niet-rechterlijk lid en ten hoogste vier andere leden met rechtspraak belast van het College als bedoeld in [artikel 3, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=II&artikel=3&z=2010-02-19&g=2010-02-19);
+- a. het bestuur bestaat uit een voorzitter, een niet-rechterlijk lid en ten hoogste vier andere leden met rechtspraak belast van het College als bedoeld in [artikel 3, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=II&artikel=3&z=2010-07-01&g=2010-07-01);
 
 - b. de voorzitter onderscheidenlijk de andere leden met rechtspraak belast, bedoeld in onderdeel a, in verband met het verrichten van de werkzaamheden als voorzitter onderscheidenlijk lid van het bestuur een toelage ontvangen op het salaris dat zij overeenkomstig de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) genieten, waarvan het bedrag gelijk is aan het verschil tussen dat salaris en de bij algemene maatregel van bestuur voor de functie van lid van het bestuur vast te stellen salarishoogte;
 
@@ -88,39 +88,39 @@ Het bij en krachtens de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 - f. de voorzitter en de andere leden, niet zijnde niet-rechterlijk lid, tevens staatsraad in buitengewone dienst kunnen zijn;
 
-- g. het bestuur bevoegd is organisatorische eenheden in te stellen die belast worden met het behandelen en beslissen van de soorten zaken die door het bestuur aan die eenheden worden opgedragen.
+- g. ten aanzien van een lid van het bestuur, niet zijnde voorzitter of niet-rechterlijk lid, de bij en krachtens de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) aan het bestuur toegekende bevoegdheden worden uitgeoefend door het bestuur uitgezonderd dat lid;
+
+- h. het bestuur bevoegd is organisatorische eenheden in te stellen die belast worden met het behandelen en beslissen van de soorten zaken die door het bestuur aan die eenheden worden opgedragen.
 
 ##### Artikel 5
 
-1. Op de leden met rechtspraak belast is het bepaalde bij en krachtens de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365), met uitzondering van het bepaalde bij en krachtens de [artikelen 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=1b), [1g, tweede lid, onderdelen a en b, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=1g), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=10) en het krachtens [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=54), ter aanvulling hiervan bepaalde, van overeenkomstige toepassing, met dien verstande dat:
+1. Op de leden met rechtspraak belast is de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365), voor zover betrekking hebbend op rechterlijke ambtenaren met rechtspraak belast, met uitzondering van de [artikelen 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5a), [5b](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5b), [5c, vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5c), en [5g, tweede lid, onderdeel a, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5g), van overeenkomstige toepassing, met dien verstande dat:
 
-- a. wat hun bezoldiging, onkostenvergoeding, benoeming en ambtskostuum betreft de coördinerend vice-presidenten, de vice-presidenten, de raadsheren en de raadsheren-plaatsvervangers worden gelijkgesteld met diezelfde ambten bij een gerechtshof;
+- a. het bestuur wordt aangemerkt als hun functionele autoriteit;
 
-- b. het bestuur wordt aangemerkt als hun functionele autoriteit;
+- b. zij met betrekking tot hun benoeming en salaris worden gelijkgesteld met degenen die hetzelfde ambt vervullen bij een gerechtshof;
 
-- c. het bestuur de lijst van aanbeveling opmaakt bij het openvallen van een plaats van coördinerend vice-president, vice-president, raadsheer of raadsheer-plaatsvervanger, de raadsheren-plaatsvervangers oproept voor het verrichten van werkzaamheden, en de werkzaamheden van de leden met rechtspraak belast verdeelt;
+- c. het bestuur de lijst van aanbeveling opmaakt bij het openvallen van een plaats van coördinerend vice-president, vice-president, raadsheer of raadsheer-plaatsvervanger en de Raad voor de rechtspraak deze lijst telkens, onder medezending van een advies hierover, aan Onze Minister van Justitie doorzendt met het oog op een voordracht voor benoeming overeenkomstig [artikel 2, eerste lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=2);
 
-- d. de eed of belofte wordt afgelegd ten overstaan van een enkelvoudige of meervoudige kamer van het College en niet wordt afgenomen op requisitoir van het openbaar ministerie dan wel van de procureur-generaal bij de Hoge Raad;
+- d. zij voor de overeenkomstige toepassing van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=6), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=45) en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46) worden gelijkgesteld met bij een gerechtshof of rechtbank werkzame rechterlijke ambtenaren;
 
-- e. het bestuur een register bijhoudt waarin de koninklijke besluiten betreffende de benoeming van de daar beëdigde leden met rechtspraak belast en de formulieren betreffende de afgelegde eed of belofte worden bewaard, en aan het lid met rechtspraak belast een uittreksel uit dat register, inclusief het formulier betreffende de eed of belofte, wordt uitgereikt;
+- e. zij voor de overeenkomstige toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=13) worden gelijkgesteld met rechterlijke ambtenaren van wie de eerste benoeming een ambt bij een gerechtshof of rechtbank betreft;
 
-- f. voor de overeenkomstige toepassing van [artikel 46 van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46) de leden met rechtspraak belast worden gelijkgesteld met rechterlijke ambtenaren die werkzaam zijn bij een gerechtshof of een rechtbank;
+- f. het bestuur de werkzaamheden van de leden met rechtspraak belast verdeelt; en
 
-- g. het lid met rechtspraak belast, dat tevens voorzitter van het bestuur is, bevoegd is tot het opleggen van de disciplinaire maatregel van schriftelijke waarschuwing;
+- g. het lid met rechtspraak belast, dat tevens president is van het College, ten aanzien van hen bevoegd is tot het opleggen van de disciplinaire maatregel van schriftelijke waarschuwing, en het doen van een verzoek aan de procureur-generaal bij de Hoge Raad, bedoeld in [artikel 46o, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46o).
 
-- h. voor de overeenkomstige toepassing van [artikel 46a van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46a) onder functionele autoriteit het bestuur, uitgezonderd het niet-rechterlijk lid, wordt verstaan;
+2. Op de gerechtsauditeurs is de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365), voor zover betrekking hebbend op gerechtsauditeurs, met uitzondering van [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5b), van overeenkomstige toepassing, met dien verstande dat:
 
-- i. voor de overeenkomstige toepassing van [artikel 46o, tweede lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46o) onder functionele autoriteit het lid met rechtspraak belast, dat tevens voorzitter van het bestuur is, wordt verstaan.
+- a. het bestuur wordt aangemerkt als hun functionele autoriteit;
 
-2. Op de gerechtsauditeurs is het bepaalde bij of krachtens de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365), voorzover betrekking hebbend op gerechtsauditeurs, van overeenkomstige toepassing, met dien verstande dat:
+- b. zij voor de overeenkomstige toepassing van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=6), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=45) en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46) worden gelijkgesteld met rechterlijke ambtenaren die werkzaam zijn bij een gerechtshof of rechtbank;
 
-- a. het bestuur als functionele autoriteit wordt aangemerkt;
+- c. het bestuur de werkzaamheden van de gerechtsauditeurs verdeelt; en
 
-- b. de eed of belofte wordt afgelegd ten overstaan van een enkelvoudige of meervoudige kamer van het College en niet wordt afgenomen op requisitoir van het openbaar ministerie dan wel van de procureur-generaal bij de Hoge Raad;
+- d. zij voor de overeenkomstige toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=13) worden gelijkgesteld met rechterlijke ambtenaren van wie de eerste benoeming een ambt bij een gerechtshof of rechtbank betreft.
 
-- c. het bestuur een register bijhoudt waarin de koninklijke besluiten betreffende de benoeming van de daar beëdigde gerechtsauditeurs en de formulieren betreffende de afgelegde eed of belofte worden bewaard, en aan de gerechtsauditeur een uittreksel uit dat register, inclusief het formulier betreffende de eed of belofte, wordt uitgereikt;
-
-- d. voor de overeenkomstige toepassing van [artikel 46 van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46) de gerechtsauditeurs worden gelijkgesteld met rechterlijke ambtenaren die werkzaam zijn bij een gerechtshof of een rechtbank.
+3. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de overeenkomstige toepassing van het krachtens de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) bepaalde ten aanzien van de in het eerste en tweede lid genoemde leden met rechtspraak belast en gerechtsauditeurs.
 
 ##### Artikel 6
 
@@ -278,7 +278,7 @@ Vervallen
 
 1. Van de verzoeker om een voorlopige voorziening wordt door de griffier een griffierecht geheven.[Artikel 24, eerste lid, tweede en derde volzin, tweede en zesde lid](onbekend), is van overeenkomstige toepassing.
 
-2. [Artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=III&hoofdstuk=II&artikel=24&z=2010-02-19&g=2010-02-19), is van overeenkomstige toepassing, met dien verstande dat de termijn binnen welke de bijschrijving of storting van het verschuldigde bedrag dient plaats te vinden, twee weken bedraagt. De president kan een kortere termijn stellen.
+2. [Artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=III&hoofdstuk=II&artikel=24&z=2010-07-01&g=2010-07-01), is van overeenkomstige toepassing, met dien verstande dat de termijn binnen welke de bijschrijving of storting van het verschuldigde bedrag dient plaats te vinden, twee weken bedraagt. De president kan een kortere termijn stellen.
 
 3. Indien het verzoek wordt ingetrokken omdat het bestuursorgaan, onderscheidenlijk de belanghebbende tot wie het bestreden besluit is gericht, aan de president schriftelijk heeft medegedeeld de uitvoering van het bestreden besluit hangende de procedure met betrekking tot de hoofdzaak op te schorten dan wel de gevraagde voorlopige maatregelen te zullen nemen, wordt het betaalde griffierecht door de griffier terugbetaald. In de overige gevallen kan de desbetreffende rechtspersoon, indien het verzoek wordt ingetrokken, het betaalde griffierecht geheel of gedeeltelijk vergoeden.
 
@@ -310,7 +310,7 @@ Het College bevestigt de uitspraak van de rechtbank, hetzij met overneming, hetz
 
 ##### Artikel 29
 
-In de gevallen, bedoeld in [artikel 28, eerste lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=III&hoofdstuk=II&artikel=28&z=2010-02-19&g=2010-02-19), kan het College de zaak zonder terugwijzing afdoen, indien zij naar zijn oordeel geen nadere behandeling door de rechtbank behoeft.
+In de gevallen, bedoeld in [artikel 28, eerste lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=III&hoofdstuk=II&artikel=28&z=2010-07-01&g=2010-07-01), kan het College de zaak zonder terugwijzing afdoen, indien zij naar zijn oordeel geen nadere behandeling door de rechtbank behoeft.
 
 ##### Artikel 30
 
