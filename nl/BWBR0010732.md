@@ -4,7 +4,7 @@ identifier: "BWBR0010732"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-07-28"
-last_updated: "2003-07-27"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010732"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ De raad voor rechtsbijstand te Den Bosch wordt toegestaan van het aan hem verlee
 
 ##### Artikel 3
 
-De raad voor rechtsbijstand te Den Bosch en de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010732&artikel=2&z=2003-07-27&g=2003-07-27) bedoelde functionarissen zijn gemachtigd tot het voeren van verweer in gerechtelijke procedures, voortvloeiend uit de toepassing van [artikel 48c van de Wet Justitie-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008121&artikel=48c) en het Tijdelijk besluit subsidie bewindvoerder schuldsanering. Zij zijn tevens gemachtigd tot het instellen van rechtsmiddelen.
+De raad voor rechtsbijstand te Den Bosch en de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010732&artikel=2&z=2003-07-27&g=2010-07-01) bedoelde functionarissen zijn gemachtigd tot het voeren van verweer in gerechtelijke procedures, voortvloeiend uit de toepassing van [artikel 48c van de Wet Justitie-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008121&artikel=48c) en het Tijdelijk besluit subsidie bewindvoerder schuldsanering. Zij zijn tevens gemachtigd tot het instellen van rechtsmiddelen.
 
 ##### Artikel 4
 
@@ -59,3 +59,7 @@ Dit besluit is vastgesteld met instemming van de raad voor rechtsbijstand te Den
 ##### Artikel 5
 
 Dit besluit wordt gepubliceerd in de Staatscourant en treedt met terugwerkende kracht met ingang van 1 december 1998 in werking.
+
+##### Artikel 6
+
+Dit besluit wordt aangehaald als: Mandaatbesluit inzake beslissingen op bezwaar door het bestuur van de raad voor rechtsbijstand in het kader van verstrekking van subsidies ex artikel 48c Wet Justitie-subsidies.
