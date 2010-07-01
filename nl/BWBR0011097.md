@@ -4,7 +4,7 @@ identifier: "BWBR0011097"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-11-12"
-last_updated: "2000-02-05"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011097"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ Deze regeling verstaat onder:
 
 ##### Artikel 3. Voorlopig reorganisatieplan
 
-1. Een voorlopig reorganisatieplan waarin voornemens of studies tot een reorganisatie zijn uitgewerkt en vastgesteld wordt aangeboden aan de medezeggenschapscommissie van de diensteenheid of diensteenheden waarop de reorganisatie betrekking zal hebben en aan de op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011097&artikel=2&z=2000-02-05&g=2000-02-05), betrokken commissie van georganiseerd overleg.
+1. Een voorlopig reorganisatieplan waarin voornemens of studies tot een reorganisatie zijn uitgewerkt en vastgesteld wordt aangeboden aan de medezeggenschapscommissie van de diensteenheid of diensteenheden waarop de reorganisatie betrekking zal hebben en aan de op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011097&artikel=2&z=2000-02-05&g=2010-07-01), betrokken commissie van georganiseerd overleg.
 
 2. Het voorlopig reorganisatie plan bevat in ieder geval informatie over:
 
@@ -76,7 +76,7 @@ Over het voorlopig reorganisatieplan wordt op de volgende wijze overleg gevoerd:
 
 - a. Het overleg met de betrokken commissie van georganiseerd overleg richt zich op het bij de reorganisatie gehanteerde bijzondere arbeidsvoorwaardelijke instrumentarium en op de personele effecten van de reorganisatie voor zover deze raken aan het algemene personeelsbeleid voor de militaire ambtenaren en ambtenaren van het Ministerie van Defensie dan wel van het krijgsmachtdeel of het deel van het ministerie waarvoor de commissie van georganiseerd overleg is ingesteld.
 
-- b. Met inachtneming van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011097&artikel=5&z=2000-02-05&g=2000-02-05) van deze regeling en [artikel 22, tweede lid, van het Besluit medezeggenschap defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0010617&artikel=22), komen in het overleg met de betrokken medezeggenschapscommissie alle aspecten van de reorganisatie aan de orde, voor zover deze de diensteenheid of diensteenheden betreffen waarop de reorganisatie betrekking heeft. Het gehanteerde bijzondere arbeidsvoorwaardelijke instrumentarium en de personele effecten van reorganisatie, bedoeld in onderdeel a, vormen daarbij een gegeven.
+- b. Met inachtneming van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011097&artikel=5&z=2000-02-05&g=2010-07-01) van deze regeling en [artikel 22, tweede lid, van het Besluit medezeggenschap defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0010617&artikel=22), komen in het overleg met de betrokken medezeggenschapscommissie alle aspecten van de reorganisatie aan de orde, voor zover deze de diensteenheid of diensteenheden betreffen waarop de reorganisatie betrekking heeft. Het gehanteerde bijzondere arbeidsvoorwaardelijke instrumentarium en de personele effecten van reorganisatie, bedoeld in onderdeel a, vormen daarbij een gegeven.
 
 ##### Artikel 5. Motieven
 
@@ -86,7 +86,7 @@ Over het voorlopig reorganisatieplan wordt op de volgende wijze overleg gevoerd:
 
 ##### Artikel 6. Toelichting door materiedeskundigen
 
-Zo nodig zal ten behoeve van het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011097&artikel=4&z=2000-02-05&g=2000-02-05) bedoelde overleg door betrokken materie-deskundigen nadere mondelinge toelichting worden gegeven op reeds verstrekte informatie.
+Zo nodig zal ten behoeve van het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011097&artikel=4&z=2000-02-05&g=2010-07-01) bedoelde overleg door betrokken materie-deskundigen nadere mondelinge toelichting worden gegeven op reeds verstrekte informatie.
 
 ##### Artikel 7. Project of werkgroepen
 
