@@ -4,7 +4,7 @@ identifier: "BWBR0013133"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-02-15"
-last_updated: "2004-07-01"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013133"
 soort: "AMvB"
@@ -48,31 +48,31 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Bij het afleggen van de eed of belofte door de buitengriffier bedoeld in [artikel 14, vierde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=14), is een getuige aanwezig. De eed of belofte wordt afgelegd overeenkomstig het formulier dat is gevoegd als bijlage bij dit besluit.
+1. De buitengriffier, bedoeld in [artikel 14, vierde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=14), legt de eed of belofte af ten overstaan van het bestuur van het gerecht. Bij het afleggen van de eed of belofte is een getuige aanwezig. De eed of belofte wordt afgelegd volgens het formulier zoals dat is vastgesteld in de bijlage bij dit besluit.
 
-2. Na het afleggen van de eed of belofte, bedoeld in het eerste lid, wordt het formulier ondertekend door de buitengriffier en de getuige en het bestuur die bij de beëdiging aanwezig waren.
+2. Na het afleggen van de eed of belofte, bedoeld in het eerste lid, wordt het formulier ondertekend door de buitengriffier, de getuige en een lid van het bestuur ten overstaan van wie de eed of belofte is afgelegd.
 
-3. Het bestuur van het gerecht, bedoeld in het eerste lid, houdt een register bij waarin het formulier van de eed of belofte wordt bewaard.
+3. Het bestuur van het gerecht houdt een register bij waarin de formulieren betreffende de door de buitengriffiers afgelegde eed of belofte worden bewaard.
 
-4. Het bestuur verstrekt een kopie van het formulier aan de buitengriffier.
+4. De buitengriffier ontvangt van het bestuur van het gerecht een afschrift van het formulier betreffende de door hem afgelegde eed of belofte.
 
 ##### Artikel 2
 
-1. Bij het afleggen van de eed of belofte door de waarnemend griffier bedoeld in [artikel 73, derde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=73), is een getuige aanwezig. De eed of belofte wordt afgelegd overeenkomstig het formulier dat is gevoegd als bijlage bij dit besluit.
+1. De waarnemend griffier, bedoeld in [artikel 73, derde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=73), legt de eed of belofte af ten overstaan van de president van de Hoge Raad. Bij het afleggen van de eed of belofte is een getuige aanwezig. De eed of belofte wordt afgelegd volgens het formulier zoals dat is vastgesteld in de bijlage bij dit besluit.
 
-2. Na het afleggen van de eed of belofte door de waarnemend griffier, wordt het formulier ondertekend door de waarnemend griffier en de president en de getuige die bij de beëdiging aanwezig waren.
+2. Na het afleggen van de eed of belofte, bedoeld in het eerste lid, wordt het formulier ondertekend door de waarnemend griffier, de getuige en de president van de Hoge Raad.
 
-3. De president van de Hoge Raad houdt een register bij waarin het formulier van de eed of belofte wordt bewaard.
+3. De president van de Hoge Raad houdt een register bij waarin de formulieren betreffende de door de waarnemend griffiers afgelegde eed of belofte worden bewaard.
 
-4. De president van de Hoge Raad verstrekt een kopie van het formulier aan de waarnemend griffier.
+4. De waarnemend griffier ontvangt van de president een afschrift van het formulier betreffende de door hem afgelegde eed of belofte.
 
 ##### Artikel 3
 
-1. De buitengriffiers ontvangen een vergoeding van € 91,- per zitting. Zittingen die op één dag worden gehouden, worden samen als één zitting beschouwd.
+1. De buitengriffiers, bedoeld in [artikel 1,](https://wetten.overheid.nl/jci1.3:c:BWBR0013133&artikel=1&z=2010-07-01&g=2010-07-01) ontvangen een vergoeding van € 91,- per zitting. Zittingen die op één dag worden gehouden, worden samen als één zitting beschouwd.
 
-2. De vergoeding in het eerste lid wordt niet toegekend als een betrokkene bij een gerecht werkzaam is op basis van een stage of uitzendovereenkomst en aan hen die reeds een volledige of gedeeltelijke bezoldiging ontvangen krachtens de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) en aan de bij de rechterlijke macht behorende werkzame ambtenaren die reeds een gehele of gedeeltelijke bezoldiging ontvangen krachtens het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630).
+2. De vergoeding, bedoeld in het eerste lid, wordt niet toegekend indien de buitengriffier bij het gerecht werkzaam is op basis van een stage op uitzendovereenkomst, als rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding salaris geniet overeenkomstig het bij en krachtens de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) bepaalde, dan wel uit hoofde van een aanstelling in een functie bij een gerecht of parket salaris krachtens het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630) geniet.
 
-3. Het eerste lid is van overeenkomstige toepassing op de waarnemend griffiers bij de Hoge Raad, met dien verstande dat de vergoeding niet wordt toegekend aan hen die reeds een volledige of gedeeltelijke bezoldiging ontvangen krachtens de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) en aan de bij de rechterlijke macht behorende werkzame ambtenaren die reeds een gehele of gedeeltelijke bezoldiging ontvangen krachtens het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630).
+3. Het eerste en tweede lid zijn van overeenkomstige toepassing ten aanzien van de waarnemend griffiers bij de Hoge Raad.
 
 ##### Artikel 4
 
@@ -86,34 +86,30 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Dit besluit wordt aangehaald als: Besluit beëdiging en vergoeding buitengriffiers en waarnemend griffiers.
 
-## Bijlage. bij de [artikelen 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013133&artikel=1&z=2004-07-01&g=2004-07-01), en [2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013133&artikel=2&z=2004-07-01&g=2004-07-01), van het Besluit beëdiging en vergoeding buitengriffiers en waarnemend griffiers
+## Bijlage. als bedoeld in de [artikelen 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013133&artikel=1&z=2010-07-01&g=2010-07-01), en [2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013133&artikel=2&z=2010-07-01&g=2010-07-01), van het Besluit beëdiging en vergoeding buitengriffiers en waarnemend griffiers
 
-**Formulier voor het afleggen van de eed of belofte**
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-Door de buitengriffier en de waarnemend griffier, bedoeld in de [artikelen 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=14), en [73, derde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=73)
+### **Formulier voor het afleggen van de eed of belofte door een buitengriffier of waarnemend griffier**
 
-Ik zweer/beloof dat ik hetgeen ik als buitengriffier/waarnemend griffier te weten kom niet verder bekend zal maken dan voor de uitoefening van mijn betrekking nodig is, tenzij mijn verklaring als getuige of deskundige volgens de wet wordt gevorderd.
+Ik zweer/beloof dat ik gegevens waarover ik als buitengriffier/waarnemend griffier de beschikking krijg en waarvan ik het vertrouwelijke karakter ken of redelijkerwijs moet vermoeden, behoudens voor zover enig wettelijk voorschrift mij tot mededeling verplicht of uit mijn taak als buitengriffier/waarnemend griffier de noodzaak tot mededeling voortvloeit, geheim zal houden.
 
 Zo waarlijk helpe mij God Almachtig!/Dat verklaar en beloof ik!
 
-Op .................... , werd te ....................
+Op ......................., werd te ........................
 
-ten overstaan van (1) .................... , en
+ten overstaan van (1) ..............................., en
 
-in tegenwoordigheid van (2) ....................
+in tegenwoordigheid van (2) ........................
 
-door (3) ....................
+door (3) ..................................
 
-de boven vermelde eed of belofte afgelegd.
+de bovenvermelde eed/belofte afgelegd.
 
-de ....................
+(1) .............................
 
-(1) ....................
+(2) .............................
 
-(2) ....................
-
-(3) ....................
-
-Krachtens de wet zijn de buitengriffier en de waarnemend griffier verplicht tot geheimhouding van hetgeen in de raadkamer over aanhangige zaken is geuit. Daarbij zijn zij verplicht tot geheimhouding van de gegevens waarover zij bij de uitoefening van hun taak de beschikking krijgen en waarvan zij het vertrouwelijk karakter kennen of redelijkerwijs moeten vermoeden, behoudens voor zover enig wettelijk voorschrift hen tot mededeling verplicht of uit hun taak de noodzaak tot mededeling voortvloeit.
+(3) .............................
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
