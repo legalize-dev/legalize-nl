@@ -4,7 +4,7 @@ identifier: "BWBR0002755"
 country: "nl"
 rank: "wet"
 publication_date: "2021-03-01"
-last_updated: "2010-01-01"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002755"
 soort: "wet"
@@ -55,15 +55,17 @@ Voor de toepassing van het bepaalde bij of krachtens deze wet wordt verstaan ond
 
 - bedrijfslichaam: een bedrijfslichaam als bedoeld in [artikel 66, vierde lid, van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=66), ingesteld voor ondernemingen, die in het bedrijfsleven een functie vervullen ten aanzien van enig produkt;
 
-- landbouwkwaliteitsbesluit: een algemene maatregel van bestuur, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=2&z=2010-01-01&g=2010-01-01);
+- landbouwkwaliteitsbesluit: een algemene maatregel van bestuur, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=2&z=2010-07-01&g=2010-07-01);
 
-- controle-instelling: een privaatrechtelijke rechtspersoon met volledige rechtsbevoegdheid, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2010-01-01&g=2010-01-01);
+- controle-instelling: een privaatrechtelijke rechtspersoon met volledige rechtsbevoegdheid, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2010-07-01&g=2010-07-01);
 
 - verordening 510/2006: verordening (EG) nr. 510/2006 van de Raad van 20 maart 2006 inzake de bescherming van geografische aanduidingen en oorsprongsbenamingen van landbouwproducten en levensmiddelen (PbEU L 93);
 
 - geografische aanduiding: geografische aanduiding als bedoeld in artikel 2, eerste lid, onder b, van verordening 510/2006;
 
-- houder van de geografische aanduiding: een natuurlijke of rechtspersoon, die op grond van verordening 510/2006 gerechtigd is een geografische aanduiding te bezigen.
+- geografische oorsprongsbenaming: oorsprongsbenaming als bedoeld in artikel 2, eerste lid, onder a, van verordening 510/2006;
+
+- houder van een geografische aanduiding of geografische oorsprongsbenaming: een natuurlijke persoon of rechtspersoon, die op grond van verordening 510/2006 gerechtigd is een geografische aanduiding of geografische oorsprongsbenaming te bezigen.
 
 ##### Artikel 2
 
@@ -99,7 +101,7 @@ Voor de toepassing van het bepaalde bij of krachtens deze wet wordt verstaan ond
 
 3. Verordeningen, bedoeld in het tweede lid, kunnen onder meer inhouden toekenning aan een daarbij aan te wijzen orgaan van de bevoegdheid vrijstelling, en, op aanvrage, ontheffing van die verordeningen of krachtens deze vast te stellen voorschriften te verlenen.
 
-4. [Artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=3&z=2010-01-01&g=2010-01-01), is van overeenkomstige toepassing.
+4. [Artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=3&z=2010-07-01&g=2010-07-01), is van overeenkomstige toepassing.
 
 ##### Artikel 5
 
@@ -107,7 +109,7 @@ Voor de toepassing van het bepaalde bij of krachtens deze wet wordt verstaan ond
 
 2. Bij dat besluit bepalen Wij tevens, in welke gevallen Onze Minister of Onze Minister en Onze Ministers, wie het mede aangaat, tezamen regelen krachtens een landbouwkwaliteitsbesluit niet vaststellen dan in overeenstemming met Onze Minister van Economische Zaken met het oog op de daarbij betrokken consumentenbelangen.
 
-3. In zodanige gevallen behoeven verordeningen van bedrijfslichamen, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=4&z=2010-01-01&g=2010-01-01), mede de goedkeuring van Onze genoemde Minister.
+3. In zodanige gevallen behoeven verordeningen van bedrijfslichamen, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=4&z=2010-07-01&g=2010-07-01), mede de goedkeuring van Onze genoemde Minister.
 
 ##### Artikel 6
 
@@ -123,7 +125,7 @@ Vervallen
 
 1. In een landbouwkwaliteitsbesluit kunnen een of meer privaatrechtelijke rechtspersonen met volledige rechtsbevoegdheid worden belast met het toezicht op de naleving van de bij of krachtens dat besluit gestelde regels.
 
-2. In een landbouwkwaliteitsbesluit kunnen een of meer privaatrechtelijke rechtspersonen met volledige rechtsbevoegdheid worden belast met de keuring, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=7&z=2010-01-01&g=2010-01-01), of met het toezicht daarop. Zij kunnen daarbij tevens bevoegd worden verklaard tot het uitreiken van merken, tekenen of bewijsstukken, in hetzelfde artikel bedoeld.
+2. In een landbouwkwaliteitsbesluit kunnen een of meer privaatrechtelijke rechtspersonen met volledige rechtsbevoegdheid worden belast met de keuring, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=7&z=2010-07-01&g=2010-07-01), of met het toezicht daarop. Zij kunnen daarbij tevens bevoegd worden verklaard tot het uitreiken van merken, tekenen of bewijsstukken, in hetzelfde artikel bedoeld.
 
 ##### Artikel 9
 
@@ -133,7 +135,7 @@ Vervallen
 
 1. Een controle-instelling is niet werkzaam met het oogmerk om winst te behalen.
 
-2. Een controle-instelling stelt een reglement vast waarin wordt geregeld de wijze waarop de keuring, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=7&z=2010-01-01&g=2010-01-01), wordt uitgevoerd, de wijze waarop het uitreiken van bewijsstukken, merken en tekenen plaatsvindt, en de wijze waarop de controles plaatsvinden.
+2. Een controle-instelling stelt een reglement vast waarin wordt geregeld de wijze waarop de keuring, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=7&z=2010-07-01&g=2010-07-01), wordt uitgevoerd, de wijze waarop het uitreiken van bewijsstukken, merken en tekenen plaatsvindt, en de wijze waarop de controles plaatsvinden.
 
 3. Het in het tweede lid bedoelde reglement behoeft de goedkeuring van Onze Minister. De goedkeuring kan worden onthouden wegens strijd met het recht of op de grond dat het reglement naar het oordeel van Onze Minister een goede taakuitoefening door de controle-instelling kan belemmeren.
 
@@ -141,7 +143,7 @@ Vervallen
 
 ##### Artikel 11
 
-1. Een controle-instelling kan tarieven vaststellen voor de kosten ter zake van het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2010-01-01&g=2010-01-01) bedoelde toezicht en de keuring.
+1. Een controle-instelling kan tarieven vaststellen voor de kosten ter zake van het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2010-07-01&g=2010-07-01) bedoelde toezicht en de keuring.
 
 2. Indien Onze Minister bij of krachtens een landbouwkwaliteitsbesluit de in het eerste lid bedoelde activiteiten uitvoert, kan Onze Minister voor de kosten ter zake van deze activiteiten tarieven vaststellen.
 
@@ -157,7 +159,7 @@ Vervallen
 
 6. Bij gebreke van betaling binnen de door de controle-instelling of door Onze Minister gestelde termijn kan de controle-instelling of Onze Minister het verschuldigde bedrag invorderen bij dwangbevel. De [artikelen 4:114 tot en met 4:124 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:114) zijn van overeenkomstige toepassing.
 
-7. De controle-instelling of Onze Minister kan besluiten geen activiteiten als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2010-01-01&g=2010-01-01), te verrichten of deze te staken, indien niet het ingevolge dit artikel verschuldigde bedrag wordt voldaan.
+7. De controle-instelling of Onze Minister kan besluiten geen activiteiten als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2010-07-01&g=2010-07-01), te verrichten of deze te staken, indien niet het ingevolge dit artikel verschuldigde bedrag wordt voldaan.
 
 ##### Artikel 12
 
@@ -211,7 +213,7 @@ Vervallen
 
 1. Aan het slot van [artikel 1, onder 4**e**, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1) wordt toegevoegd de zinsnede: de Landbouwkwaliteitswet, de artikelen 2, eerste en tweede lid, 3, tweede lid, 4, vierde lid, 6 en 9, eerste lid.
 
-2. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=13&z=2010-01-01&g=2010-01-01) vindt geen toepassing, indien de Officier van Justitie, na overleg met de controle-instelling, heeft beslist, dat een overtreding strafrechtelijk zal worden afgedaan.
+2. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=13&z=2010-07-01&g=2010-07-01) vindt geen toepassing, indien de Officier van Justitie, na overleg met de controle-instelling, heeft beslist, dat een overtreding strafrechtelijk zal worden afgedaan.
 
 ##### Artikel 19
 
@@ -227,11 +229,11 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 13a
 
-1. De houder van een geografische aanduiding kan zijn recht handhaven jegens een ieder die, zonder daartoe gerechtigd te zijn, een van de handelingen genoemd in artikel 13, eerste lid, van verordening 510/2006 verricht.
+1. De houder van een geografische aanduiding of geografische oorsprongsbenaming kan zijn recht handhaven jegens een ieder die, zonder daartoe gerechtigd te zijn, een van de handelingen genoemd in artikel 13, eerste lid, van verordening 510/2006 verricht.
 
-2. De rechter kan op vordering van de houder van een geografische aanduiding tussenpersonen wier diensten door derden worden gebruikt om inbreuk op het recht van de houder te maken, bevelen de diensten die worden gebruikt om die inbreuk te maken, te staken.
+2. De rechter kan op vordering van de houder van een geografische aanduiding of geografische oorsprongsbenaming tussenpersonen wier diensten door derden worden gebruikt om inbreuk op het recht van de houder te maken, bevelen de diensten die worden gebruikt om die inbreuk te maken, te staken.
 
-3. De voorzieningenrechter kan op vordering van de houder van een geografische aanduiding tijdelijke voortzetting van de vermeende inbreuk op dit recht toestaan onder de voorwaarde dat zekerheid wordt gesteld voor vergoeding van de door de houder geleden schade. Onder dezelfde voorwaarden kan de rechter voortzetting van de dienstverlening door de tussenpersoon als bedoeld in het tweede lid toestaan.
+3. De voorzieningenrechter kan op vordering van de houder van een geografische aanduiding of geografische oorsprongsbenaming tijdelijke voortzetting van de vermeende inbreuk op dit recht toestaan onder de voorwaarde dat zekerheid wordt gesteld voor vergoeding van de door de houder geleden schade. Onder dezelfde voorwaarden kan de rechter voortzetting van de dienstverlening door de tussenpersoon als bedoeld in het tweede lid toestaan.
 
 4. Schadevergoeding kan slechts worden gevorderd van degene die de handelingen bewust verricht. Van bewust handelen is in elk geval sprake, indien de inbreuk is gepleegd nadat de betrokkene bij deurwaardersexploot op de strijd tussen de handelingen en de geografische aanduiding is gewezen.
 
@@ -239,22 +241,22 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 6. In plaats van schadevergoeding kan worden gevorderd, dat de gedaagde veroordeeld wordt de door de inbreuk genoten winst af te dragen en dienaangaande rekening en verantwoording af te leggen; indien de rechter echter van oordeel is dat de omstandigheden van het geval geen aanleiding geven tot een dergelijke veroordeling, zal de rechter de gedaagde tot schadevergoeding kunnen veroordelen.
 
-7. De houder van een geografische aanduiding kan de vorderingen tot schadevergoeding of het afdragen van winst ook namens of mede namens de overige houders van de desbetreffende geografische aanduiding instellen.
+7. De houder van een geografische aanduiding of geografische oorsprongsbenaming kan de vorderingen tot schadevergoeding of het afdragen van winst ook namens of mede namens de overige houders van de desbetreffende geografische aanduiding instellen.
 
-8. De houder van een geografische aanduiding heeft de bevoegdheid roerende zaken, waarmee een inbreuk op zijn recht wordt gemaakt, of materialen en werktuigen die voornamelijk zijn gebruikt bij de voortbrenging van die zaken als zijn eigendom op te eisen, dan wel onttrekking aan het verkeer, vernietiging of onbruikbaarmaking daarvan te vorderen. Bij de beoordeling van de vordering wordt een afweging gemaakt tussen de ernst van de inbreuk en de gevorderde maatregelen alsmede de belangen van derden.
+8. De houder van een geografische aanduiding of geografische oorsprongsbenaming heeft de bevoegdheid roerende zaken, waarmee een inbreuk op zijn recht wordt gemaakt, of materialen en werktuigen die voornamelijk zijn gebruikt bij de voortbrenging van die zaken als zijn eigendom op te eisen, dan wel onttrekking aan het verkeer, vernietiging of onbruikbaarmaking daarvan te vorderen. Bij de beoordeling van de vordering wordt een afweging gemaakt tussen de ernst van de inbreuk en de gevorderde maatregelen alsmede de belangen van derden.
 
 9. De bepalingen van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) betreffende beslag en executie tot afgifte van roerende zaken, zijn van toepassing. Bij samenloop met een ander beslag, gaat degene die beslag heeft gelegd krachtens dit artikel voor.
 
 10. De maatregelen bedoeld in het achtste en negende lid worden op kosten van de gedaagde uitgevoerd, tenzij bijzondere redenen dit beletten.
 
-11. De rechter kan op vordering van de houder van een geografische aanduiding degene die inbreuk op diens recht heeft gemaakt, bevelen al hetgeen aan laatstgenoemde bekend is omtrent de herkomst en distributiekanalen van de goederen of diensten die inbreuk maken, aan de houder van de geografische aanduiding mee te delen en alle daarop betrekking hebbende gegevens aan deze te verstrekken. Onder dezelfde voorwaarden kan dit bevel worden gegeven aan een derde die op commerciële schaal inbreukmakende goederen in zijn bezit heeft of gebruikt, die op commerciële schaal diensten verleent die bij de inbreuk worden gebruikt, of die door een van deze derden is aangewezen als zijnde betrokken bij de productie, fabricage of distributie van deze goederen of bij het verlenen van deze diensten. Deze derde kan zich verschonen van het verstrekken van informatie die bewijs zou vormen van deelname aan een inbreuk op een recht van intellectuele eigendom door hem zelf of door de andere in [artikel 165, derde lid, Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=165) bedoelde personen.
+11. De rechter kan op vordering van de houder van een geografische aanduiding of geografische oorsprongsbenaming degene die inbreuk op diens recht heeft gemaakt, bevelen al hetgeen aan laatstgenoemde bekend is omtrent de herkomst en distributiekanalen van de goederen of diensten die inbreuk maken, aan de houder van de geografische aanduiding mee te delen en alle daarop betrekking hebbende gegevens aan deze te verstrekken. Onder dezelfde voorwaarden kan dit bevel worden gegeven aan een derde die op commerciële schaal inbreukmakende goederen in zijn bezit heeft of gebruikt, die op commerciële schaal diensten verleent die bij de inbreuk worden gebruikt, of die door een van deze derden is aangewezen als zijnde betrokken bij de productie, fabricage of distributie van deze goederen of bij het verlenen van deze diensten. Deze derde kan zich verschonen van het verstrekken van informatie die bewijs zou vormen van deelname aan een inbreuk op een recht van intellectuele eigendom door hem zelf of door de andere in [artikel 165, derde lid, Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=165) bedoelde personen.
 
-12. De rechter kan op vordering van de houder van een geografische aanduiding gelasten dat op kosten van degene die inbreuk op diens recht heeft gemaakt passende maatregelen worden getroffen tot verspreiding van informatie over de uitspraak.
+12. De rechter kan op vordering van de houder van een geografische aanduiding of geografische oorsprongsbenaming gelasten dat op kosten van degene die inbreuk op diens recht heeft gemaakt passende maatregelen worden getroffen tot verspreiding van informatie over de uitspraak.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
 ##### Artikel 8a
 
-Op een privaatrechtelijke rechtspersoon als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2010-01-01&g=2010-01-01) is de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) van toepassing.
+Op een privaatrechtelijke rechtspersoon als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2010-07-01&g=2010-07-01) is de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) van toepassing.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
