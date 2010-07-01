@@ -4,7 +4,7 @@ identifier: "BWBR0023543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-18"
-last_updated: "2010-06-28"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023543"
 soort: "ministeriele-regeling"
@@ -66,9 +66,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - j. **budgethouder:** functionaris die verantwoordelijk is voor een rechtmatig en doelmatig financieel beheer van de aan hem toegewezen budgetten,
 
-- k. **budget:** aan een budgethouder toegewezen verplichtingen- en kasbedrag(en) alsmede de te realiseren ontvangsten ter uitvoering van een deel van de begroting,
+- k. **direct-leidinggevende:** degene die binnen het ministerie belast is met de dagelijkse leiding van medewerkers en ten aanzien van die medewerkers personeelsbevoegdheden heeft,
 
-- l. **bestedingsplan ter uitvoering van de begroting, opgesteld ten behoeve van het aangaan van verplichtingen anders dan:**
+- l. **budget:** aan een budgethouder toegewezen verplichtingen- en kasbedrag(en) alsmede de te realiseren ontvangsten ter uitvoering van een deel van de begroting,
+
+- m. **Bestedingsplan:** bestedingsplan ter uitvoering van de begroting, opgesteld ten behoeve van het aangaan van verplichtingen anders dan:
 
 - –. in het kader van de reguliere of aanvullende bekostiging,
 
@@ -76,9 +78,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. subsidies op grond van [artikel 34 van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=34),
 
-- m. **managementafspraak:** afspraak omtrent de vertaling van beleidsdoelen in de begroting en de doelstellingen voor de interne bedrijfsvoering naar concrete acties en activiteiten, benodigde middelen en bevoegdheden of de prestatie- en kwaliteitsnormen ten aanzien van de te leveren producten of diensten, dan wel beide, met inbegrip van het bestedingsplan,
+- n. **managementafspraak:** afspraak omtrent de vertaling van beleidsdoelen in de begroting en de doelstellingen voor de interne bedrijfsvoering naar concrete acties en activiteiten, benodigde middelen en bevoegdheden of de prestatie- en kwaliteitsnormen ten aanzien van de te leveren producten of diensten, dan wel beide, met inbegrip van het bestedingsplan,
 
-- n. **personele besluiten:** besluiten in de zin van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) ten aanzien van personele aangelegenheden.
+- o. **personele besluiten:** besluiten in de zin van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) ten aanzien van personele aangelegenheden.
 
 ##### Artikel 2. Mandaat, volmacht en machtiging
 
@@ -184,7 +186,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 3. De directeuren zijn budgethouder voor de hun door de directeur-generaal toegewezen budgetten.
 
-4. Voor zover het betreft personele besluiten hebben de directeuren en direct-leidinggevenden mandaat onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2010-04-01&g=2010-06-28), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2010-04-01&g=2010-06-28), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2010-04-01&g=2010-06-28) en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2010-04-01&g=2010-06-28).
+4. Voor zover het betreft personele besluiten hebben de directeuren en direct-leidinggevenden mandaat onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2010-07-01&g=2010-07-01), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2010-07-01&g=2010-07-01), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2010-07-01&g=2010-07-01) en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2010-07-01&g=2010-07-01).
 
 5. Het verlenen van ondermandaat van de in lid 1 en lid 2 bedoelde bevoegdheden is niet mogelijk.
 
@@ -218,7 +220,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - d. de afwijzing van een verzoek om informatie ingevolge de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252),
 
-- e. het nemen van personele besluiten ten aanzien van leidinggevende ambtenaren en ambtenaren in schaal 17 en hoger voor zover het betreft:
+- e. het nemen van personele besluiten ten aanzien van leidinggevende ambtenaren, voor zover deze niet ressorteren onder de directeur-generaal DUO en lager ingeschaald zijn dan schaal 15, en niet-leidinggevende ambtenaren in schaal 17 en hoger voor zover het betreft:
 
 - 1. aanstellings- en benoemingsbesluiten en daaraan voorafgaande besluiten die daarop betrekking hebben,
 
@@ -234,7 +236,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - g. het vaststellen van de OCW-formatie en de verdeling van de personeelscapaciteit van de OCW-formatie,
 
-- h. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2010-04-01&g=2010-06-28),
+- h. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2010-07-01&g=2010-07-01),
 
 - i. het nemen van besluiten die voor alle ambtenaren van het Ministerie gelden
 
@@ -266,11 +268,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - c. vaststelling of wijziging van het organisatie- en capaciteitsplan van een onder hem ressorterend dienstonderdeel,
 
-- d. het nemen van personele besluiten, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2010-04-01&g=2010-06-28), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2010-04-01&g=2010-06-28) en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2010-04-01&g=2010-06-28), voor zover het betreft:
-
-- 1. disciplinaire straffen, met uitzondering van voorwaardelijk en onvoorwaardelijk strafontslag,
-
-- 2. incidentele beloningsbesluiten op grond van [artikel 22a van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=22a) na goedkeuring van de directeur CO,
+- d. het treffen van disciplinaire straffen, met uitzondering van voorwaardelijk en onvoorwaardelijk strafontslag en onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2010-07-01&g=2010-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2010-07-01&g=2010-07-01) en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2010-07-01&g=2010-07-01),
 
 - e. opstellen van het bestedingsplan voor zijn directoraat-generaal, inspectie of baten-lastendienst op basis van de bestedingsplannen van de onder hem ressorterende organisatieonderdelen,
 
@@ -282,13 +280,13 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 2. Voor het inhuren van externe professionals en uitzendkrachten door een directeur is voorafgaande goedkeuring van de directeur-generaal vereist voor zover het betreft bedragen boven € 60 per uur.
 
-3. De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaarschriften onverminderd [artikel 12, eerste lid, onderdelen p en q](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2010-04-01&g=2010-06-28).
+3. De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaarschriften onverminderd [artikel 12, eerste lid, onderdelen o en p](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2010-07-01&g=2010-07-01).
 
 4. Met uitzondering van de bevoegdheid bedoeld in lid 3 is ondermandaat van de bevoegdheden, bedoeld in dit artikel niet mogelijk.
 
 ##### Artikel 14. Voorbehouden aan de directeur CO
 
-1. De directeur Concernondersteuning is met uitsluiting van anderen, met uitzondering van de secretaris-generaal, gemandateerd met betrekking tot het nemen van personele besluiten, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2010-04-01&g=2010-06-28), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2010-04-01&g=2010-06-28) en [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2010-04-01&g=2010-06-28), voor zover het betreft:
+1. De directeur-generaal DUO en de directeur Concernondersteuning zijn voor de onder hen ressorterende medewerkers gemandateerd met betrekking tot het nemen van personele besluiten, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2010-07-01&g=2010-07-01), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2010-07-01&g=2010-07-01) en [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2010-07-01&g=2010-07-01), voor zover het betreft:
 
 - a. aanstellings- en benoemingsbesluiten en daaraan voorafgaande besluiten die daarop betrekking hebben,
 
@@ -298,15 +296,9 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - d. ontslagbesluiten, anders dan besluiten inhoudende reorganisatieontslag, ontslag als bedoeld in [artikel 99 van het algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=99) en voorwaardelijk en onvoorwaardelijk strafontslag,
 
-- e. besluiten inhoudende erkenning van aansprakelijkheid ten aanzien van beroepsziekte, dienstongeval en beroepsincident en daaruit voortvloeiende besluiten met betrekking tot vergoeding van schade en besluiten met betrekking tot vergoedingen als bedoeld in de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=47), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=48), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=66), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=69) en [73 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=73),
+- e. besluiten inhoudende erkenning van aansprakelijkheid ten aanzien van beroepsziekte, dienstongeval en beroepsincident en daaruit voortvloeiende besluiten met betrekking tot vergoeding van schade en besluiten met betrekking tot vergoedingen als bedoeld in de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=47), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=48), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=66), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=69) en [73 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=73).
 
-- f. besluiten inzake woon-werkverkeer,
-
-- g. besluiten inzake reintegratie bij ziekte,
-
-- h. het volgen van opleidingen,
-
-2. In afwijking van het bepaalde in [artikel 11 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=11&z=2010-04-01&g=2010-06-28) van dit besluit is ondermandaat van de in dit artikel opgenomen bevoegdheden mogelijk na instemming van de secretaris-generaal en de plaatsvervangend secretaris-generaal.
+2. In afwijking van het bepaalde in [artikel 11 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=11&z=2010-07-01&g=2010-07-01) van dit besluit is ondermandaat van de in dit artikel opgenomen bevoegdheden mogelijk na instemming van de secretaris-generaal en de plaatsvervangend secretaris-generaal.
 
 ##### Artikel 15. Afwezigheid of verhindering
 
@@ -314,7 +306,9 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 2. De directeur-generaal DUO, de hoofden van inspecties, het hoofd van het Nationaal Archief en de directeuren voorzien in de vervanging bij hun afwezigheid of verhindering. Bij afwezigheid of verhindering wordt voor de duur van de afwezigheid of verhindering, diens bevoegdheid uitgeoefend door de plaatsvervanger, met dien verstande dat het mandaat van de vervanger niet de bevoegdheid omvat tot het verlenen, wijzigen of intrekken van mandaat.
 
-3. De directeur Bestuursondersteuning en Advies draagt zorg voor bekendmaking van de vervanging, bedoeld in het eerste lid, door openbare ter inzage legging op het Ministerie en door plaatsing op het intranet en de internetsite van het Ministerie. De directeur-generaal DUO, de hoofden van de inspecties, het hoofd van het Nationaal Archief en de directeuren dragen zorg voor bekendmaking van de vervanging, bedoeld in het tweede lid, door openbare ter inzage legging op het Ministerie en plaatsing op het intranet en de internetsite van het Ministerie.
+3. De direct-leidinggevenden wijzen een plaatsvervanger aan door in het P-direktportaal twee leidinggevende medewerkers te registreren als plaatsvervanger.
+
+4. De directeur Bestuursondersteuning en Advies draagt zorg voor bekendmaking van de vervanging, bedoeld in het eerste lid, door openbare ter inzage legging op het Ministerie en door plaatsing op het intranet en de internetsite van het Ministerie. De directeur-generaal DUO, de hoofden van de inspecties, het hoofd van het Nationaal Archief en de directeuren dragen zorg voor bekendmaking van de vervanging, bedoeld in het tweede lid, door openbare ter inzage legging op het Ministerie en plaatsing op het intranet en de internetsite van het Ministerie.
 
 ##### Artikel 16. Wijze van ondertekening
 
@@ -330,7 +324,19 @@ handtekening van de gemandateerde,
 
 naam van de gemandateerde.
 
-2. Ondertekening bij afwezigheid met de aanduiding ‘b/a’ is uitsluitend mogelijk indien de ondertekenaar ook zelf bevoegd is tot ondertekenen. In dat geval wordt ook de naam van de ondertekenaar vermeld.
+2. De gemandateerde is gehouden in de ondertekening van stukken als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14a&z=2010-07-01&g=2010-07-01) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
+
+**De minister van Onderwijs, Cultuur en Wetenschap en de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,**
+
+**namens dezen, functie van de gemandateerde,**
+
+**handtekening van de gemandateerde,**
+
+**naam van de gemandateerde.**
+
+Het derde lid is van overeenkomstige toepassing.
+
+3. Ondertekening bij afwezigheid met de aanduiding ‘b/a’ is uitsluitend mogelijk indien de ondertekenaar ook zelf bevoegd is tot ondertekenen. In dat geval wordt ook de naam van de ondertekenaar vermeld.
 
 ##### Artikel 17. Intrekking
 
@@ -726,17 +732,17 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 14a. Mandaatbesluit beschermde stads- en dorpsgezichten
 
-Dit onderdeel is nog niet inwerking getreden
+1. De directeur van de Rijksdienst voor het Cultureel Erfgoed is gemandateerd om, namens de secretaris-generaal, mede namens de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer besluiten te nemen als bedoeld in [artikel 1, eerste lid, aanhef en onder a en d, van het Mandaatbesluit beschermde stads- en dorpsgezichten](https://wetten.overheid.nl/jci1.3:c:BWBR0027565&artikel=1). Hij kan met betrekking tot dit mandaat ondermandaat verlenen aan één of meer onder hem ressorterende functionarissen.
+
+2. De directeur-generaal DUO is gemandateerd om, namens de secretaris-generaal, mede namens de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer besluiten te nemen als bedoeld in [artikel 1, eerste lid, aanhef en onder b en c, van het Mandaatbesluit beschermde stads- en dorpsgezichten](https://wetten.overheid.nl/jci1.3:c:BWBR0027565&artikel=1), tenzij dit op grond van het bepaalde in [artikel 12, eerste lid, aanhef en onder p](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2010-07-01&g=2010-07-01), is voorbehouden aan de secretaris-generaal. De directeur-generaal DUO kan met betrekking tot dit mandaat ondermandaat verlenen aan één of meer onder hem ressorterende functionarissen.
 
 ## Bijlage. : Organisatie van het Ministerie van Onderwijs, Cultuur en Wetenschap
 
 De bewindspersonen van het Ministerie zijn:
 
-- –. minister, de heer dr. R.H.A. Plasterk
+- –. minister, de heer mr. A. Rouvoet
 
 - –. staatssecretaris, mevrouw J.M. van Bijsterveldt-Vliegenthart
-
-- –. staatssecretaris, mevrouw S.A.M. Dijksma.
 
 Het managementteam van het ministerie bestaat uit:
 
