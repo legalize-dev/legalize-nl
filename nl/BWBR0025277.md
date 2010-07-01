@@ -4,7 +4,7 @@ identifier: "BWBR0025277"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2009-12-18"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025277"
 soort: "AMvB"
@@ -98,13 +98,13 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De inkomensgrenzen, bedoeld in [artikel 2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&hoofdstuk=2&artikel=2&z=2009-12-18&g=2009-12-18), alsmede de hoogten van de eigen bijdragen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&hoofdstuk=2&artikel=2&z=2009-12-18&g=2009-12-18) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&hoofdstuk=2&artikel=4&z=2009-12-18&g=2009-12-18), worden jaarlijks met ingang van 1 januari aangepast met het percentage waarmee het indexcijfer van de lonen op 31 oktober van het voorafgaande jaar afwijkt van het overeenkomstige indexcijfer op 31 oktober in het daaraan voorafgaande jaar, met dien verstande dat de aan te passen inkomensgrenzen worden afgerond op het naastliggende veelvoud van € 100,– en de aan te passen hoogten van de eigen bijdragen worden afgerond op het naastliggende veelvoud van € 1,–. [Artikel 1 van het Besluit omschrijving indexcijfer](https://wetten.overheid.nl/jci1.3:c:BWBR0009721&artikel=1) is van overeenkomstige toepassing.
+1. De inkomensgrenzen, bedoeld in [artikel 2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&hoofdstuk=2&artikel=2&z=2010-07-01&g=2010-07-01), alsmede de hoogten van de eigen bijdragen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&hoofdstuk=2&artikel=2&z=2010-07-01&g=2010-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&hoofdstuk=2&artikel=4&z=2010-07-01&g=2010-07-01), worden jaarlijks met ingang van 1 januari aangepast met het percentage waarmee het indexcijfer van de lonen op 31 oktober van het voorafgaande jaar afwijkt van het overeenkomstige indexcijfer op 31 oktober in het daaraan voorafgaande jaar, met dien verstande dat de aan te passen inkomensgrenzen worden afgerond op het naastliggende veelvoud van € 100,– en de aan te passen hoogten van de eigen bijdragen worden afgerond op het naastliggende veelvoud van € 1,–. [Artikel 1 van het Besluit omschrijving indexcijfer](https://wetten.overheid.nl/jci1.3:c:BWBR0009721&artikel=1) is van overeenkomstige toepassing.
 
 2. Onze Minister maakt jaarlijks de geïndexeerde bedragen, bedoeld in het eerste lid, bekend door publicatie in de Staatscourant.
 
 ##### Artikel 4
 
-In afwijking van [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&hoofdstuk=2&artikel=2&z=2009-12-18&g=2009-12-18), bedraagt de eigen bijdrage, die een natuurlijk persoon verschuldigd is voor de verlening van rechtsbijstand op basis van een toevoeging, € 98,– per 1 januari 2010: € 100., indien het gaat om de verlening van rechtsbijstand:
+In afwijking van [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&hoofdstuk=2&artikel=2&z=2010-07-01&g=2010-07-01), bedraagt de eigen bijdrage, die een natuurlijk persoon verschuldigd is voor de verlening van rechtsbijstand op basis van een toevoeging, € 98,– per 1 januari 2010: € 100., indien het gaat om de verlening van rechtsbijstand:
 
 - a. in hoger beroep tegen de afwijzing van het verzoek om toepassing van de schuldsaneringsregeling, bedoeld in [artikel 292 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=292);
 
@@ -128,11 +128,11 @@ In afwijking van [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jc
 
 ##### Artikel 5
 
-1. Indien binnen zes maanden na verlening van een toevoeging ten behoeve van rechtsbijstand aan een natuurlijk persoon, onder oplegging van een eigen bijdrage als bedoeld in [artikel 2, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&hoofdstuk=2&artikel=2&z=2009-12-18&g=2009-12-18), of [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&hoofdstuk=2&artikel=4&z=2009-12-18&g=2009-12-18), een of meer toevoegingen ten behoeve van rechtsbijstand worden verleend aan dezelfde persoon of aan degene met wie hij een gezamenlijke huishouding voerde op het moment van verlening van eerstgenoemde toevoeging, bedraagt de eigen bijdrage bij de eerstvolgende en de twee daaropvolgende toevoegingen ten behoeve van rechtsbijstand binnen genoemde termijn van zes maanden, vijftig procent van de eerst opgelegde eigen bijdrage.
+1. Indien binnen zes maanden na verlening van een toevoeging ten behoeve van rechtsbijstand aan een natuurlijk persoon, onder oplegging van een eigen bijdrage als bedoeld in [artikel 2, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&hoofdstuk=2&artikel=2&z=2010-07-01&g=2010-07-01), of [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&hoofdstuk=2&artikel=4&z=2010-07-01&g=2010-07-01), een of meer toevoegingen ten behoeve van rechtsbijstand worden verleend aan dezelfde persoon of aan degene met wie hij een gezamenlijke huishouding voerde op het moment van verlening van eerstgenoemde toevoeging, bedraagt de eigen bijdrage bij de eerstvolgende en de twee daaropvolgende toevoegingen ten behoeve van rechtsbijstand binnen genoemde termijn van zes maanden, vijftig procent van de eerst opgelegde eigen bijdrage.
 
 2. Voor de toepasselijkheid van het eerste lid wordt met toevoegingen waarbij geen eigen bijdrage wordt opgelegd geen rekening gehouden. Met toevoegingen die zijn verleend aan degene die met de natuurlijk persoon een gezamenlijke huishouding voert, wordt voor de toepasselijkheid van het eerste lid alleen rekening gehouden, indien deze persoon hierom verzoekt en het een zaak betreft waarin geen onderling tegenstrijdige belangen aan de orde zijn.
 
-3. Indien de eigen bijdrage bij een volgende toevoeging ten behoeve van rechtsbijstand zonder toepassing van het in het eerste lid bedoelde kortingspercentage lager is dan met toepassing van dit percentage, legt de raad de laagste eigen bijdrage op. De termijn van zes maanden, bedoeld in het eerste lid, vangt in dit geval aan op het moment van verlening van de toevoeging waarbij de laagste eigen bijdrage is opgelegd. De tweede volzin is niet van toepassing indien de volgende toevoeging, bedoeld in de eerste volzin, een toevoeging ten behoeve van rechtsbijstand bestaande uit het geven van eenvoudig rechtskundig advies betreft.
+3. Indien de eigen bijdrage bij een volgende toevoeging ten behoeve van rechtsbijstand zonder toepassing van het in het eerste lid bedoelde kortingspercentage lager is dan met toepassing van dit percentage, legt het bestuur de laagste eigen bijdrage op. De termijn van zes maanden, bedoeld in het eerste lid, vangt in dit geval aan op het moment van verlening van de toevoeging waarbij de laagste eigen bijdrage is opgelegd. De tweede volzin is niet van toepassing indien de volgende toevoeging, bedoeld in de eerste volzin, een toevoeging ten behoeve van rechtsbijstand bestaande uit het geven van eenvoudig rechtskundig advies betreft.
 
 ##### Artikel 5a
 
@@ -140,17 +140,19 @@ Indien een toevoeging ten behoeve van rechtsbijstand wordt verleend in een zaak 
 
 ##### Artikel 6
 
-1. De raad legt geen eigen bijdrage op in geval van een toevoeging ten behoeve van rechtsbijstand aan:
+1. Het bestuur legt geen eigen bijdrage op in geval van een toevoeging ten behoeve van rechtsbijstand aan:
 
 - a. personen die uitsluitend zijn aangewezen op verstrekkingen, weergegeven in zowel de [Regeling opvang asielzoekers](https://wetten.overheid.nl/jci1.3:c:BWBR0005366) als de [Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959);
 
 - b. personen wier vrijheid rechtens is ontnomen en die geen inkomsten meer hebben uit een dienstbetrekking, beroep of bedrijf, sociale verzekering of sociale voorziening;
 
-- c. personen die een vordering in kort geding instellen tegen een beslissing als bedoeld in [artikel 38, vijfde lid, derde volzin, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen](https://wetten.overheid.nl/jci1.3:c:BWBR0005700&artikel=38); en
+- c. personen die een vordering in kort geding instellen tegen een beslissing als bedoeld in [artikel 38, vijfde lid, derde volzin, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen](https://wetten.overheid.nl/jci1.3:c:BWBR0005700&artikel=38);
 
-- d. minderjarigen ten behoeve van wie een bijzonder curator als bedoeld in [artikel 250 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=250) is benoemd.
+- d. minderjarigen ten behoeve van wie een bijzonder curator als bedoeld in [artikel 250 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=250) is benoemd; en
 
-2. De raad kan beslissen om geen eigen bijdrage op te leggen in geval van een toevoeging ten behoeve van rechtsbijstand, indien de rechtzoekende geen inkomen of vermogen heeft.
+- e. echtgenoten als bedoeld in [artikel 817, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=817).
+
+2. Het bestuur kan beslissen om geen eigen bijdrage op te leggen in geval van een toevoeging ten behoeve van rechtsbijstand, indien de rechtzoekende geen inkomen of vermogen heeft.
 
 ##### Artikel 7
 
@@ -170,11 +172,11 @@ Indien de rechtzoekende minderjarig is, wordt voor de vaststelling van de financ
 
 ##### Artikel 9
 
-Indien de rechtzoekende een rechtspersoon is, kan hij bij de indiening van de aanvraag om een toevoeging ten behoeve van rechtsbijstand volstaan met het overleggen van de meest recente jaarrekening. De raad kan verlangen dat de rechtspersoon in aanvulling hierop andere bescheiden overlegt.
+Indien de rechtzoekende een rechtspersoon is, kan hij bij de indiening van de aanvraag om een toevoeging ten behoeve van rechtsbijstand volstaan met het overleggen van de meest recente jaarrekening. Het bestuur kan verlangen dat de rechtspersoon in aanvulling hierop andere bescheiden overlegt.
 
 ##### Artikel 10
 
-Indien het inkomen of vermogen van de rechtzoekende in het jaar waarin de aanvraag om een toevoeging is gedaan, bedoeld in [artikel 34c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=34c), binnen de grenzen, genoemd in [artikel 34, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=34), valt, maar de terugval in het inkomen of vermogen, bedoeld in [artikel 34c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=34c), minder dan 15% bedraagt, wordt hem door de raad desondanks een toevoeging ten behoeve van rechtsbijstand verleend.
+Indien het inkomen of vermogen van de rechtzoekende in het jaar waarin de aanvraag om een toevoeging is gedaan, bedoeld in [artikel 34c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=34c), binnen de grenzen, genoemd in [artikel 34, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=34), valt, maar de terugval in het inkomen of vermogen, bedoeld in [artikel 34c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=34c), minder dan 15% bedraagt, wordt hem door het bestuur desondanks een toevoeging ten behoeve van rechtsbijstand verleend.
 
 ### Hoofdstuk 4. Overige bepalingen
 
