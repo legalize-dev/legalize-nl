@@ -4,7 +4,7 @@ identifier: "BWBR0025554"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-01"
-last_updated: "2009-05-01"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025554"
 soort: "AMvB"
@@ -64,7 +64,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-Het is de bestuurder van een motorrijtuig verboden met dat motorrijtuig te rijden en de eigenaar of houder van een motorrijtuig verboden met dat motorrijtuig te laten rijden, indien in of aan het motorrijtuig een radarontvangstapparaat aanwezig is als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=2&artikel=2&z=2009-05-01&g=2009-05-01).
+Het is de bestuurder van een motorrijtuig verboden met dat motorrijtuig te rijden en de eigenaar of houder van een motorrijtuig verboden met dat motorrijtuig te laten rijden, indien in of aan het motorrijtuig een radarontvangstapparaat aanwezig is als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=2&artikel=2&z=2010-07-01&g=2010-07-01).
 
 ### Hoofdstuk 3. Periodieke keuring van voertuigen
 
@@ -92,7 +92,7 @@ Het is de bestuurder van een motorrijtuig verboden met dat motorrijtuig te rijde
 
 ##### Artikel 8
 
-[Artikel 72, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72) geldt niet voor een ander motorrijtuig dan in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=5&z=2009-05-01&g=2009-05-01) bedoeld, ten aanzien van:
+[Artikel 72, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72) geldt niet voor een ander motorrijtuig dan in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=5&z=2010-07-01&g=2010-07-01) bedoeld, ten aanzien van:
 
 - a. motorrijtuigen met een verbrandingsmotor die wordt gevoed door al dan niet tot vloeistof verdicht gas of diesel zolang sinds de datum van eerste toelating van het motorrijtuig nog geen drie jaren zijn verstreken;
 
@@ -134,9 +134,9 @@ Het is de bestuurder van een motorrijtuig verboden met dat motorrijtuig te rijde
 
 ##### Artikel 13
 
-1. De aanvrager dient bij de aanvraag van een keuringsrapport deel I dan wel deel I A van het kentekenbewijs over te leggen, dat is afgegeven voor het motorrijtuig of de aanhangwagen waarop de aanvraag betrekking heeft.
+1. De aanvrager dient bij de aanvraag van een keuringsrapport de bijlage bij het deel I dan wel deel IA van het kentekenbewijs dat is afgegeven voor het motorrijtuig waarop de aanvraag betrekking heeft over te leggen, indien blijkens het kentekenregister of kentekenbewijs bij bijzonderheden is vermeld: «– Taxi, zie bijlage» of «– OV-auto, zie bijlage».
 
-2. Degene bij wie de aanvraag is ingediend, geeft het deel I dan wel deel I A van het kentekenbewijs na behandeling van de aanvraag terug aan de aanvrager.
+2. Degene bij wie de aanvraag is ingediend, geeft de in het eerste lid bedoelde bijlage bij het deel I dan wel deel I A van het kentekenbewijs na behandeling van de aanvraag terug aan de aanvrager.
 
 ##### Artikel 14
 
@@ -160,7 +160,7 @@ Het is de bestuurder van een motorrijtuig verboden met dat motorrijtuig te rijde
 
 1. Een keuringsbewijs is geldig voor de duur van een jaar.
 
-2. In afwijking van het eerste lid is het keuringsbewijs geldig voor de duur van twee jaren indien het keuringsbewijs is afgegeven voor een ander motorrijtuig dan in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=5&z=2009-05-01&g=2009-05-01) bedoeld, en:
+2. In afwijking van het eerste lid is het keuringsbewijs geldig voor de duur van twee jaren indien het keuringsbewijs is afgegeven voor een ander motorrijtuig dan in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=5&z=2010-07-01&g=2010-07-01) bedoeld, en:
 
 - a. dat is uitgerust met een verbrandingsmotor die niet wordt gevoed door al dan niet tot vloeistof verdicht gas of diesel,
 
@@ -168,7 +168,7 @@ Het is de bestuurder van een motorrijtuig verboden met dat motorrijtuig te rijde
 
 - c. waarvan gerekend vanaf de datum van eerste toelating op het moment van afgifte van het keuringsbewijs een termijn van zeven jaren nog niet is verstreken.
 
-3. In afwijking van het eerste lid is voorts het keuringsbewijs waarvan de datum van afgifte 30 jaren of meer ligt na de datum van eerste toelating geldig voor de duur van twee jaren indien het desbetreffende keuringsbewijs is afgegeven voor een ander motorrijtuig dan in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=5&z=2009-05-01&g=2009-05-01) bedoeld.
+3. In afwijking van het eerste lid is voorts het keuringsbewijs waarvan de datum van afgifte 30 jaren of meer ligt na de datum van eerste toelating geldig voor de duur van twee jaren indien het desbetreffende keuringsbewijs is afgegeven voor een ander motorrijtuig dan in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=5&z=2010-07-01&g=2010-07-01) bedoeld.
 
 #### § 4. Afgifte keuringsbewijs
 
@@ -192,7 +192,7 @@ Het verzoek om herkeuring, bedoeld in [artikel 90, derde lid, van de wet](https:
 
 1. De verzoeker legt voorafgaande aan de herkeuring aan de deskundige die door de Dienst Wegverkeer is aangewezen om de herkeuring te verrichten, de volgende bescheiden over:
 
-- a. deel I dan wel deel I A van het kentekenbewijs dat is afgegeven voor het motorrijtuig of de aanhangwagen, waarop het verzoek betrekking heeft, en
+- a. de bijlage bij het deel I dan wel deel I A van het kentekenbewijs dat is afgegeven voor het motorrijtuig waarop het verzoek betrekking heeft, indien blijkens het kentekenregister of kentekenbewijs bij bijzonderheden is vermeld: «– Taxi, zie bijlage» of «– OV-auto, zie bijlage», en
 
 - b. het keuringsrapport.
 
@@ -210,7 +210,7 @@ De Dienst Wegverkeer doet, indien een beschikking tot weigering van de afgifte v
 
 1. De verzoeker legt voorafgaande aan het in [artikel 91 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=91) bedoelde deskundigenonderzoek aan de deskundige die door de Dienst Wegverkeer is aangewezen om het onderzoek te verrichten, de volgende bescheiden over:
 
-- a. deel I dan wel deel I A van het kentekenbewijs dat is afgegeven voor het motorrijtuig of de aanhangwagen waarop het verzoek betrekking heeft, en
+- a. de bijlage bij het deel I dan wel deel I A van het kentekenbewijs dat is afgegeven voor het motorrijtuig waarop het verzoek betrekking heeft, indien blijkens het kentekenregister of kentekenbewijs bij bijzonderheden is vermeld: «– Taxi, zie bijlage» of «– OV-auto, zie bijlage», en
 
 - b. het keuringsbewijs dat is afgegeven voor het motorrijtuig of de aanhangwagen waarop het verzoek betrekking heeft.
 
@@ -222,21 +222,21 @@ De Dienst Wegverkeer doet, indien een beschikking tot weigering van de afgifte v
 
 De Dienst Wegverkeer doet, indien de keuring op grond waarvan het keuringsrapport werd afgegeven is verricht door een erkende natuurlijke persoon of rechtspersoon, aan deze afschrift toekomen van de uitslag van het onderzoek.
 
-### Hoofdstuk 3. Strafbepalingen
+### Hoofdstuk 4. Strafbepalingen
 
 ##### Artikel 24
 
-Overtreding van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=2&artikel=3&z=2009-05-01&g=2009-05-01) is een strafbaar feit.
+Overtreding van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=2&artikel=3&z=2010-07-01&g=2010-07-01) is een strafbaar feit.
 
 ##### Artikel 25
 
 Bij veroordeling van de bestuurder van een motorrijtuig wegens overtreding van [artikel 5.1.1, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.1.1), of [artikel 5.1.2 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.1.2) kan hem de bevoegdheid tot het besturen van motorrijtuigen voor ten hoogste twee jaren worden ontzegd.
 
-### Hoofdstuk 4. Slotbepalingen
+### Hoofdstuk 5. Slotbepalingen
 
 ##### Artikel 26
 
-Na de inwerkingtreding van dit besluit berusten de [Regeling uitzondering keuringsplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0009149) en de [Regeling transitokentekenbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0020708) op [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=10&z=2009-05-01&g=2009-05-01) van dit besluit.
+Na de inwerkingtreding van dit besluit berusten de [Regeling uitzondering keuringsplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0009149) en de [Regeling transitokentekenbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0020708) op [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=10&z=2010-07-01&g=2010-07-01) van dit besluit.
 
 ##### Artikel 27
 
