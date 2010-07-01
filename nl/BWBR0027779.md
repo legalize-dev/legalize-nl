@@ -4,7 +4,7 @@ identifier: "BWBR0027779"
 country: "nl"
 rank: "wet"
 publication_date: "2011-01-01"
-last_updated: "2010-01-01"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027779"
 soort: "wet"
@@ -49,31 +49,33 @@ Wijzigt de Wet investeren in jongeren.
 
 ##### Artikel II. Wijziging van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet werk en bijstand.
 
 ##### Artikel III. Wijziging van de [Wet participatiebudget](https://wetten.overheid.nl/jci1.3:c:BWBR0025039)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet participatiebudget.
 
 ##### Artikel IV. Wijziging van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet bestuursrecht.
 
 ##### Artikel V. Wijziging van de [Beroepswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002170)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Beroepswet.
 
 ##### Artikel VI. Wijziging van de [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inburgering.
 
 ##### Artikel VII. Eenmalige aanpassing normen en percentage
 
-Dit onderdeel is nog niet inwerking getreden
+1. Onze Minister kan de normen en het percentage, genoemd in de [onderdelen H en J van artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0027779&artikel=I&z=2010-07-01&g=2010-07-01) van deze wet eenmalig aanpassen na de datum van inwerkingtreding van deze wet.
+
+2. Dit artikel vervalt zes maanden na zijn inwerkingtreding.
 
 ##### Artikel VIII. [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet investeren in jongeren.
 
 ##### Artikel VIIIa. Wijziging van de [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
 
@@ -85,6 +87,10 @@ Wijzigt de Wet tegemoetkoming chronisch zieken en gehandicapten.
 
 ##### Artikel IX. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+2. [Artikel I, onderdelen D, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027779&artikel=I&z=2010-07-01&g=2010-07-01), voor wat betreft de verwijzing naar [artikel 33, tweede en derde lid, en O, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026054&artikel=33), werken terug tot en met 1 oktober 2009.
+
+3. De [artikelen VIIIa, onderdelen B, D, E en F](https://wetten.overheid.nl/jci1.3:c:BWBR0027779&artikel=VIIIa&z=2010-07-01&g=2010-07-01), en [VIIIb](https://wetten.overheid.nl/jci1.3:c:BWBR0027779&artikel=VIIIb&z=2010-07-01&g=2010-07-01) werken terug tot en met 1 januari 2010.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
