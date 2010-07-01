@@ -4,7 +4,7 @@ identifier: "BWBR0014380"
 country: "nl"
 rank: "kb"
 publication_date: "2021-04-22"
-last_updated: "2002-01-02"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014380"
 soort: "KB"
@@ -44,23 +44,27 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder de Raad: de Raad voor Rechtsbijstand, bedoeld in [artikel 1, eerste lid, aanhef en onder b, van de Wet op de Rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=1).
+In dit besluit wordt verstaan onder:
+
+- **bestuur:** het bestuur bedoeld in [artikel 3 van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=3);
+
+- **raad van advies:** de raad van advies bedoeld in [artikel 6 van de Wet op de raad voor rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=6).
 
 ##### Artikel 2
 
-De voorzitter van de Raad ontvangt voor zijn werkzaamheden en onkosten een vaste maandelijkse vergoeding van € 1090.
+De voorzitter van de raad van advies ontvangt voor zijn werkzaamheden en onkosten een vaste maandelijkse vergoeding van € 1090.
 
 ##### Artikel 3
 
-De overige leden van de Raad ontvangen per vergadering van de Raad een vergoeding van € 185. Met een vergadering van de Raad wordt gelijkgesteld een bijeenkomst waaraan een lid van de Raad uit hoofde van dit lidmaatschap deelneemt.
+De overige leden van de raad van advies ontvangen per vergadering van de raad van advies een vergoeding van € 185. Met een vergadering van de raad van advies wordt gelijkgesteld een bijeenkomst waaraan een lid van de raad van advies uit hoofde van dit lidmaatschap deelneemt.
 
 ##### Artikel 4
 
-De Raad kan op grond van [artikel 8 van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=8) voor de voorbereiding of uitvoering van bepaalde werkzaamheden commissies instellen. De leden van deze onder de Raad ressorterende commissies ontvangen per dagdeel dat wordt deelgenomen aan een vergadering een vergoeding van € 140.
+Het bestuur kan op grond van [artikel 8 van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=8) voor de voorbereiding of uitvoering van bepaalde werkzaamheden commissies instellen. De leden van deze onder het bestuur ressorterende commissies ontvangen per dagdeel dat wordt deelgenomen aan een vergadering een vergoeding van € 140.
 
 ##### Artikel 5
 
-De voorzitter en de leden van de Raad en de onder de Raad ressorterende commissies hebben overeenkomstig het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889) en het [Reisbesluit buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006842) recht op vergoeding wegens reis- en verblijfkosten.
+De voorzitter en de leden van de raad van advies en de onder het bestuur ressorterende commissies hebben overeenkomstig het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889) en het [Reisbesluit buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006842) recht op vergoeding wegens reis- en verblijfkosten.
 
 ##### Artikel 6
 
@@ -72,6 +76,6 @@ Dit besluit treedt in werking op de datum van plaatsing in het Staatsblad en wer
 
 ##### Artikel 8
 
-Deze regeling wordt aangehaald als: Vergoedingenregeling Raad voor Rechtsbijstand.
+Deze regeling wordt aangehaald als: Vergoedingenregeling raad voor rechtsbijstand.
 
 Onze Minister van Justitie is belast met de uitvoering van dit besluit dat in het Staatsblad zal worden geplaatst.
