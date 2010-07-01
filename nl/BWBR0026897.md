@@ -4,7 +4,7 @@ identifier: "BWBR0026897"
 country: "nl"
 rank: "wet"
 publication_date: "2010-07-01"
-last_updated: "2010-01-01"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026897"
 soort: "wet"
@@ -61,19 +61,23 @@ Wijzigt de Plantenziektenwet.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Landbouwwet.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+De [Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](https://wetten.overheid.nl/jci1.3:c:BWBR0003143) wordt ingetrokken.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+De [Reconstructiewet Midden-Delfland](https://wetten.overheid.nl/jci1.3:c:BWBR0003094) wordt ingetrokken.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+1. De bij of krachtens de [Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](https://wetten.overheid.nl/jci1.3:c:BWBR0003143) gestelde regels blijven van toepassing op de uitvoering van het herinrichtingsplan, bedoeld in [artikel 20 van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](https://wetten.overheid.nl/jci1.3:c:BWBR0003143&artikel=20).
+
+2. De bij of krachtens de [Reconstructiewet Midden-Delfland gestelde regels](https://wetten.overheid.nl/jci1.3:c:BWBR0003094) blijven van toepassing op de uitvoering van het plan van voorzieningen, bedoeld in [artikel 39 van de Reconstructiewet Midden-Delfland](https://wetten.overheid.nl/jci1.3:c:BWBR0003094&artikel=39).
+
+3. Voor een goede uitvoering van het eerste en tweede lid kunnen bij ministeriële regeling nadere regels worden gesteld.
 
 ##### Artikel IX
 
