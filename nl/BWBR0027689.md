@@ -1,0 +1,68 @@
+---
+title: "Beschikking rendementen gesubsidieerde woningbouw, mei 2010"
+identifier: "BWBR0027689"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2010-07-01"
+last_updated: "2010-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027689"
+soort: "ministeriele-regeling"
+stam_id: "10541763"
+version_id: "17376092"
+internal_id: "C23975591"
+label_id: "10516674"
+dtd_version: "2.0"
+original_entry_into_force: "2010-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027689/2010-07-01/0"
+intitule_bron: "Stcrt.2010-8028"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-05-17"
+intitule_published: "2010-05-31"
+intitule_in_force: "2010-05-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-8028"
+original_signed_date: "2010-05-17"
+original_published_date: "2010-05-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-8028"
+entry_into_force_date: "2010-07-01"
+jci_1_3: "jci1.3:c:BWBR0027689&z=2010-07-01&g=2010-07-01"
+jci_1_0: "1.0:c:BWBR0027689&g=2010-07-01"
+citeertitel_status: "redactioneel"
+signed_date: "2010-05-17"
+entry_into_force: "2010-07-01"
+---
+# Beschikking rendementen gesubsidieerde woningbouw, mei 2010
+
+gelet op artikel 17, vierde lid, van de Beschikking geldelijke steun huurwoningen 1975, en artikel 18, vierde lid, van de Regeling geldelijke steun huurwoningen in proefgemeenten normkostensysteem 1986, en gelet op artikel 31 onderdeel i., op artikel 56, tweede lid, op artikel 57, eerste lid, en op artikel 58, derde lid, van de Regeling geldelijke steun huurwoningen normkostensysteem 1988, en voorts gelet op artikel 17, tweede lid, van de Beschikking geldelijke steun eigen woningen 1984 alsmede gelet op artikel 28b van de Regeling geldelijke steun voorzieningen aan huurwoningen 1987;
+
+Besluit:
+
+##### Artikel 1
+
+Voor woningen en voor woongebouwen met een bijzonder karakter, waarvoor een jaarlijkse bijdrage en een bijdrage ineens dan wel een bijdrage ineens op voet van de Beschikking geldelijke steun huurwoningen 1975, de Regeling geldelijke steun huurwoningen in proefgemeenten normkostensysteem 1986, of de Regeling geldelijke steun huurwoningen normkostensysteem 1988 werden verstrekt, bedraagt het rendement in de maand mei 2010, dat voor de berekening van de dynamische kostprijshuur bij de aanvang van elk nieuw tijdvak van 10 jaren wordt aangehouden, 3,75 procent.
+
+##### Artikel 2
+
+Voor de bepaling van de hoogte van de jaarlijkse bijdrage op voet van de berekeningsmethodiek conform de Regeling geldelijke steun huurwoningen normkostensysteem 1988, met betrekking tot welk de gemeente de datum, bedoeld in artikel 31, onderdeel i. van die regeling, stelt op 16 mei 2010, doch niet later dan 15 juni 2010 bedraagt het gemiddelde verschil, bedoeld in artikel 57, eerste lid, van die regeling 1,229 procent.
+
+##### Artikel 3
+
+Voor de woningen, ten aanzien waarvan de toelatingsbeschikking voor 1 januari 1992 is afgegeven en waarvan in het tijdvak aanvangende met 16 mei 2010 en eindigende met 15 juni 2010 de notariële akte tot levering, bedoeld in [artikel 89, boek 3, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=89), is verleden, bedraagt het rentepercentage dat voor de toepassing van artikel 17, tweede lid, van de Beschikking geldelijke steun eigen woningen 1984 in aanmerking wordt genomen, 4,50 procent.
+
+##### Artikel 4
+
+Het in artikel 28b van de Regeling geldelijke steun voorzieningen aan huurwoningen 1987 bedoelde opslagpercentage is gelijk aan het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027689&artikel=2&z=2010-07-01&g=2010-07-01) van deze beschikking genoemde percentage en is geldig voor de genoemde periode.
+
+## Onderwerp: Rendementen gesubsidieerde woningbouw, mei 2010
+
+De rendementen gesubsidieerde woningbouw zoals die in mei 2010 worden gepubliceerd zijn, conform de circulaire MG 91-49 van 13 december 1991, alleen van toepassing op beschikkingen die vóór 1 januari 1992 zijn afgegeven.
+
+- I. **Regeling geldelijke steun huurwoningen 1975 / NKS'86 / NKS'88 / RGSVH'87** Voor woningen en voor woongebouwen met een bijzonder karakter, waarvoor een jaarlijkse bijdrage en een bijdrage ineens dan wel een bijdrage ineens op voet van de Beschikking geldelijke steun huurwoningen 1975, of de Regeling geldelijke steun huurwoningen in proefgemeenten normkostensysteem 1986, danwel de Regeling geldelijke steun huurwoningen normkostensysteem 1988, is verstrekt, bedraagt het rendement in de maand mei 2010 dat voor de berekening van de dynamische kostprijshuur bij de aanvang van enig tijdvak van 10 jaren wordt aangehouden 3,75 procent. Het opslagpercentage voor de periode 16 mei 2010 t/m 15 juni 2010 bedraagt 1,229 procent. Dit opslagpercentage geldt ook voor de Regeling geldelijke steun voorzieningen aan huurwoningen 1987 bij de berekening van het rendement ten behoeve van de vaststelling looptijd jaarlijkse bijdrage.
+
+- II. **Beschikking geldelijke steun eigen woningen 1984** Als vóór 1 januari 1992 een toelatingsbeschikking is afgegeven op voet van deze regeling, bedraagt voor het tijdvak van 16 mei 2010 t/m 15 juni 2010 het rentepercentage dat in aanmerking wordt genomen voor het berekenen van het aantal jaren waarover de jaarlijkse bijdrage wordt verstrekt, 4,50 procent. Dit percentage wordt ook gebruikt bij de uitvoering van de rijksrekenrente toets. De jaarlijkse bijdrage, voor woningen waarvan de contante waarde na 30 jaren is of wordt vastgesteld op € 18.604,99 en waarvoor het transport van de notariële akte zal plaatsvinden in de bovengenoemde periode, is vastgesteld op € 1.633,61.
+
+- III. **Vermenigvuldigingsfactoren** Aanvang exploitatiejaar: april 2010 Onderhouds- en algemene beheers- en administratiekosten: 0,9991 Belastingen: 1,0060 Premie voor storm- en brandverzekering: 1,0291 Huurderving: 1,0250
+
+- IV. **Wellicht ten overvloede bericht ik u dat alle bovengenoemde informatie onder voorbehoud dient te worden gehanteerd, tot de definitieve MG-circulaire is verschenen.**
