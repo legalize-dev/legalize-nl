@@ -4,7 +4,7 @@ identifier: "BWBR0023494"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-07-01"
-last_updated: "2008-02-22"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023494"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In deze regeling wordt verstaan onder Agentschap Telecom: Agentschap Telecom van
 
 1. Een aanvraag tot verlening van een vergunning voor het verrichten van
 
-ruimtevaartactiviteiten geschiedt door middel van het indienen van het formulier, zoals opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0023494&bijlage=I&z=2008-02-22&g=2008-02-22).
+ruimtevaartactiviteiten geschiedt door middel van het indienen van het formulier, zoals opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0023494&bijlage=I&z=2010-07-01&g=2010-07-01).
 
 2. De aanvraag gaat vergezeld van de volgende gegevens en bescheiden:
 
@@ -78,13 +78,13 @@ ruimtevaartactiviteiten geschiedt door middel van het indienen van het formulier
 
 ##### Artikel 3
 
-De aanvraag, bedoeld in [artikel 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023494&paragraaf=2&artikel=2&z=2008-02-22&g=2008-02-22), wordt gericht aan Onze Minister van Economische Zaken en gezonden aan Agentschap Telecom.
+De aanvraag, bedoeld in [artikel 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023494&paragraaf=2&artikel=2&z=2010-07-01&g=2010-07-01), wordt gericht aan Onze Minister van Economische Zaken en gezonden aan Agentschap Telecom.
 
 #### § 3. Registratie ruimtevoorwerpen
 
 ##### Artikel 4
 
-De registratie en wijziging van gegevens van een ruimtevoorwerp, bedoeld in [artikel 4 van het Besluit register ruimtevoorwerpen](https://wetten.overheid.nl/jci1.3:c:BWBR0022944&artikel=4), geschiedt door middel van het indienen van het formulier, zoals opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0023494&bijlage=II&z=2008-02-22&g=2008-02-22).
+De registratie en wijziging van gegevens van een ruimtevoorwerp, bedoeld in [artikel 4 van het Besluit register ruimtevoorwerpen](https://wetten.overheid.nl/jci1.3:c:BWBR0022944&artikel=4), geschiedt door middel van het indienen van het formulier, zoals opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0023494&bijlage=II&z=2010-07-01&g=2010-07-01).
 
 ##### Artikel 5
 
