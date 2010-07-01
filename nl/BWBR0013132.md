@@ -4,7 +4,7 @@ identifier: "BWBR0013132"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-10-01"
-last_updated: "2008-09-01"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013132"
 soort: "AMvB"
@@ -62,7 +62,7 @@ De dagen waarop de gewone zittingen worden gehouden en de tijdstippen waarop de 
 
 ##### Artikel 3
 
-1. De voorzitter van de meervoudige kamer of degene die zitting heeft in een enkelvoudige kamer kan bepalen dat in verband met de omstandigheden in een bepaalde zaak voor de behandeling van die zaak op andere dagen, tijdstippen of plaatsen zittingen worden gehouden dan is vastgesteld in het reglement, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=2&artikel=2&z=2008-09-01&g=2008-09-01).
+1. De voorzitter van de meervoudige kamer of degene die zitting heeft in een enkelvoudige kamer kan bepalen dat in verband met de omstandigheden in een bepaalde zaak voor de behandeling van die zaak op andere dagen, tijdstippen of plaatsen zittingen worden gehouden dan is vastgesteld in het reglement, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=2&artikel=2&z=2010-07-01&g=2010-07-01).
 
 2. Het bestuur van een gerecht kan bepalen dat voor enig ander doel een buitengewone zitting plaatsvindt.
 
@@ -112,7 +112,7 @@ De dagen waarop de gewone zittingen worden gehouden en de tijdstippen waarop de 
 
 ##### Artikel 9
 
-1. De ambtenaren van het openbaar ministerie kunnen de uitspraken in strafzaken gewezen op hun parket ontvangen, met uitzondering van de stukken, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=4&artikel=8&z=2008-09-01&g=2008-09-01), ten behoeve van de betekening.
+1. De ambtenaren van het openbaar ministerie kunnen de uitspraken in strafzaken gewezen op hun parket ontvangen, met uitzondering van de stukken, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=4&artikel=8&z=2010-07-01&g=2010-07-01), ten behoeve van de betekening.
 
 2. Indien het parket gevestigd is buiten de gemeente waar het gerecht zijn hoofdplaats heeft, geschiedt de verzending van uitspraken per dienstbrief of op een andere veilige wijze.
 
@@ -262,7 +262,7 @@ De leden van het openbaar ministerie en van het parket bij de Hoge Raad nemen ge
 
 1. De griffier van de Hoge Raad draagt zorg voor de bij de Hoge Raad in behandeling zijnde stukken.
 
-2. Bij afwezigheid van de griffier treedt op een substituut-griffier dan wel, bij afwezigheid van een substituut-griffier, een waarnemend griffier, op basis van een volgorde die, na overleg met de president, door de griffier is vastgesteld.
+2. Bij afwezigheid van de griffier treedt op de substituut-griffier dan wel, bij afwezigheid van de substituut-griffier, een waarnemend griffier, op basis van een volgorde die, na overleg met de president, door de griffier is vastgesteld.
 
 #### Paragraaf 7. Openbaar ministerie en procureur-generaal bij de Hoge Raad
 
@@ -274,7 +274,7 @@ De leden van het openbaar ministerie en van het parket bij de Hoge Raad nemen ge
 
 3. Het bijeenroepen geschiedt door een schriftelijke kennisgeving van de president. Hij doet dit ten minste zeven dagen voorafgaand aan de bijeenkomst.
 
-4. De bij de Hoge Raad werkzame gerechtsauditeurs, substituut-griffiers en gerechtsambtenaren en de bij het parket van de Hoge Raad werkzame rechterlijke ambtenaren en gerechtsambtenaren kunnen op uitnodiging deelnemen aan de gerechtsvergadering.
+4. De bij de Hoge Raad werkzame gerechtsauditeurs, substituut-griffier en gerechtsambtenaren en de bij het parket van de Hoge Raad werkzame rechterlijke ambtenaren en gerechtsambtenaren kunnen op uitnodiging deelnemen aan de gerechtsvergadering.
 
 ##### Artikel 27
 
@@ -288,7 +288,7 @@ De leden van het openbaar ministerie en van het parket bij de Hoge Raad nemen ge
 
 ##### Artikel 28
 
-1. De reglementen, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=2&artikel=2&z=2008-09-01&g=2008-09-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=4&artikel=10&z=2008-09-01&g=2008-09-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=17&z=2008-09-01&g=2008-09-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=18&z=2008-09-01&g=2008-09-01), worden door het gerechtsbestuur vastgesteld nadat de vertegenwoordigers van het openbaar ministerie, de Nederlandse orde van advocaten en de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders in het arrondissement onderscheidenlijk in het ressort zijn gehoord.
+1. De reglementen, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=2&artikel=2&z=2010-07-01&g=2010-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=4&artikel=10&z=2010-07-01&g=2010-07-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=17&z=2010-07-01&g=2010-07-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=18&z=2010-07-01&g=2010-07-01), worden door het gerechtsbestuur vastgesteld nadat de vertegenwoordigers van het openbaar ministerie, de Nederlandse orde van advocaten en de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders in het arrondissement onderscheidenlijk in het ressort zijn gehoord.
 
 2. De reglementen, bedoeld in het eerste lid, worden gepubliceerd in de Staatscourant.
 
