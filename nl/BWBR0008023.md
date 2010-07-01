@@ -4,7 +4,7 @@ identifier: "BWBR0008023"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2010-04-01"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008023"
 soort: "ministeriele-regeling"
@@ -1195,10 +1195,6 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | Registratienummer | Artikelnaam |   |
 | 100978 | Butrans pleister transdermaal 10mcg/uur |   |
 | Productgroep |   | Maximumprijs |
-| BUPRENORPHINE-20-MG-PLEISTER, DERMAAL | BUPRENORPHINE-20-MG-PLEISTER, DERMAAL | 11.96953600 per stuk |
-| Registratienummer | Artikelnaam |   |
-| 100979 | Butrans pleister transdermaal 20mcg/uur |   |
-| Productgroep |   | Maximumprijs |
 | BUPRENORPHINE-8-MG-TABLET, OROMUCOSAAL-NALOXONE-2-MG-TABLET, OROMUCOSAAL | BUPRENORPHINE-8-MG-TABLET, OROMUCOSAAL-NALOXONE-2-MG-TABLET, OROMUCOSAAL | 3.27397500 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/06/359/003 | Suboxone tablet sublinguaal 8mg/2mg |   |
@@ -2121,14 +2117,14 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | EU/1/01/185/001 | Aranesp 10 injvlst 25mcg/ml wwsp 0,4ml |   |
 | EU/1/01/185/002 | Aranesp 10 injvlst 25mcg/ml wwsp 0,4ml |   |
 | Productgroep |   | Maximumprijs |
-| DARBEPOETIN ALFA-.04-MG/ML-INJ.VLOEISTOF, WWSP | DARBEPOETIN ALFA-.04-MG/ML-INJ.VLOEISTOF, WWSP | 77.73784500 per ml |
+| DARBEPOETIN ALFA-.04-MG/ML-INJ.VLOEISTOF, WWSP | DARBEPOETIN ALFA-.04-MG/ML-INJ.VLOEISTOF, WWSP | € 77,27659500 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/01/185/005 | Aranesp 20 injvlst 40mcg/ml wwsp 0,5ml |   |
 | EU/1/01/185/006 | Aranesp 20 injvlst 40mcg/ml wwsp 0,5ml |   |
 | EU/1/01/185/047 | Aranesp sureclick 20 injvlst 40mcg/ml wwsp 0,5ml |   |
 | EU/1/01/185/079 | Aranesp 20 injvlst 40mcg/ml wwsp 0,5ml |   |
 | Productgroep |   | Maximumprijs |
-| DARBEPOETIN ALFA-.1-MG/ML-INJ.VLOEISTOF, WWSP | DARBEPOETIN ALFA-.1-MG/ML-INJ.VLOEISTOF, WWSP | 196.51220300 per ml |
+| DARBEPOETIN ALFA-.1-MG/ML-INJ.VLOEISTOF, WWSP | DARBEPOETIN ALFA-.1-MG/ML-INJ.VLOEISTOF, WWSP | € 196,68396200 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/01/185/007 | Aranesp 30 injvlst 100mcg/ml wwsp 0,3ml |   |
 | EU/1/01/185/008 | Aranesp 30 injvlst 100mcg/ml wwsp 0,3ml |   |
@@ -2141,7 +2137,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | EU/1/01/185/083 | Aranesp 40 injvlst 100mcg/ml wwsp 0,4ml |   |
 | EU/1/01/185/085 | Aranesp 50 injvlst 100mcg/ml wwsp 0,5ml |   |
 | Productgroep |   | Maximumprijs |
-| DARBEPOETIN ALFA-.2-MG/ML-INJ.VLOEISTOF, WWSP | DARBEPOETIN ALFA-.2-MG/ML-INJ.VLOEISTOF, WWSP | 395.43818900 per ml |
+| DARBEPOETIN ALFA-.2-MG/ML-INJ.VLOEISTOF, WWSP | DARBEPOETIN ALFA-.2-MG/ML-INJ.VLOEISTOF, WWSP | € 399,45882800 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/01/185/013 | Aranesp 60 injvlst 200mcg/ml wwsp 0,3ml |   |
 | EU/1/01/185/014 | Aranesp 60 injvlst 200mcg/ml wwsp 0,3ml |   |
@@ -2159,7 +2155,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | EU/1/01/185/091 | Aranesp 100 injvlst 200mcg/ml wwsp 0,5ml |   |
 | EU/1/01/185/093 | Aranesp 130 injvlst 200mcg/ml wwsp 0,65ml |   |
 | Productgroep |   | Maximumprijs |
-| DARBEPOETIN ALFA-.5-MG/ML-INJ.VLOEISTOF, WWSP | DARBEPOETIN ALFA-.5-MG/ML-INJ.VLOEISTOF, WWSP | 957.29811800 per ml |
+| DARBEPOETIN ALFA-.5-MG/ML-INJ.VLOEISTOF, WWSP | DARBEPOETIN ALFA-.5-MG/ML-INJ.VLOEISTOF, WWSP | € 967,23907000 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/01/185/019 | Aranesp 150 injvlst 500mcg/ml wwsp 0,3ml |   |
 | EU/1/01/185/020 | Aranesp 150 injvlst 500mcg/ml wwsp 0,3ml |   |
