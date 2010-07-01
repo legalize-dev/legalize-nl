@@ -4,7 +4,7 @@ identifier: "BWBV0004127"
 country: "nl"
 rank: "verdrag"
 publication_date: "2010-07-01"
-last_updated: "2007-10-25"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004127"
 soort: "verdrag"
@@ -88,7 +88,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - a. „kind” iedere persoon jonger dan achttien jaar;
 
-- b. „seksuele uitbuiting en seksueel misbruik van kinderen” het gedrag zoals bedoeld in de [artikelen 18 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=18&z=2007-10-25&g=2007-10-25) van dit Verdrag;
+- b. „seksuele uitbuiting en seksueel misbruik van kinderen” het gedrag zoals bedoeld in de [artikelen 18 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=18&z=2010-07-01&g=2010-07-01) van dit Verdrag;
 
 - c. „slachtoffer” elk kind dat onderworpen is aan seksuele uitbuiting of seksueel misbruik.
 
@@ -102,7 +102,7 @@ Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om alle vor
 
 1. Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om bij personen die regelmatig met kinderen in aanraking komen in de sectoren onderwijs, gezondheidszorg, sociale bescherming, justitie en rechtshandhaving en op gebieden die verband houden met sport, cultuur en recreatie, bewustzijn te stimuleren inzake de bescherming en rechten van kinderen.
 
-2. Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat de in het eerste lid bedoelde personen toereikende kennis bezitten op het gebied van seksuele uitbuiting en seksueel misbruik van kinderen, van de manieren om dit vast te stellen en van de mogelijkheid genoemd in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=IV&artikel=12&z=2007-10-25&g=2007-10-25).
+2. Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat de in het eerste lid bedoelde personen toereikende kennis bezitten op het gebied van seksuele uitbuiting en seksueel misbruik van kinderen, van de manieren om dit vast te stellen en van de mogelijkheid genoemd in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=IV&artikel=12&z=2010-07-01&g=2010-07-01).
 
 3. Elke Partij neemt de wetgevende of andere maatregelen, in overeenstemming met haar nationale recht, die nodig zijn om ervoor te zorgen dat in de voorwaarden voor toegang tot de beroepen waarbij men regelmatig in aanraking komt met kinderen waarborgen zijn ingebouwd dat de kandidaten voor deze beroepen nooit zijn veroordeeld wegens seksuele uitbuiting of seksueel misbruik van kinderen.
 
@@ -168,7 +168,7 @@ Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om de inste
 
 2. Elke Partij neemt maatregelen, onder de voorwaarden voorzien in haar nationale recht, om samen te werken met niet-gouvernementele organisaties, andere relevante organisaties of onderdelen van het maatschappelijk middenveld die zich bezighouden met hulp aan slachtoffers.
 
-3. Wanneer de ouders of verzorgers betrokken zijn bij de seksuele uitbuiting of het seksueel misbruik van een kind, omvatten de ingevolge [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=IV&artikel=11&z=2007-10-25&g=2007-10-25), ingezette interventiemaatregelen, onder andere:
+3. Wanneer de ouders of verzorgers betrokken zijn bij de seksuele uitbuiting of het seksueel misbruik van een kind, omvatten de ingevolge [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=IV&artikel=11&z=2010-07-01&g=2010-07-01), ingezette interventiemaatregelen, onder andere:
 
 - –. de mogelijkheid de vermeende dader te verwijderen;
 
@@ -180,25 +180,25 @@ Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om de inste
 
 ##### Artikel 15. Algemene beginselen
 
-1. Elke Partij voorziet in of bevordert, in overeenstemming met haar nationale recht, effectieve interventieprogramma’s of -maatregelen voor de personen bedoeld in [artikel 16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=V&artikel=16&z=2007-10-25&g=2007-10-25), met het oog op het voorkomen en tot een minimum terugbrengen van het risico op herhaling van zedendelicten tegen kinderen. Dergelijke programma’s of maatregelen dienen op elk moment tijdens de procedure toegankelijk te zijn, zowel binnen als buiten penitentiaire inrichtingen, in overeenstemming met de in het nationale recht vastgelegde voorwaarden.
+1. Elke Partij voorziet in of bevordert, in overeenstemming met haar nationale recht, effectieve interventieprogramma’s of -maatregelen voor de personen bedoeld in [artikel 16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=V&artikel=16&z=2010-07-01&g=2010-07-01), met het oog op het voorkomen en tot een minimum terugbrengen van het risico op herhaling van zedendelicten tegen kinderen. Dergelijke programma’s of maatregelen dienen op elk moment tijdens de procedure toegankelijk te zijn, zowel binnen als buiten penitentiaire inrichtingen, in overeenstemming met de in het nationale recht vastgelegde voorwaarden.
 
-2. Elke Partij voorziet in of bevordert, in overeenstemming met haar nationale recht, de ontwikkeling van partnerschappen of andere vormen van samenwerking tussen de bevoegde autoriteiten, met name de gezondheidsdiensten en de sociale diensten, en de gerechtelijke autoriteiten en andere instanties die verantwoordelijk zijn voor het volgen van de personen bedoeld in [artikel 16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=V&artikel=16&z=2007-10-25&g=2007-10-25).
+2. Elke Partij voorziet in of bevordert, in overeenstemming met haar nationale recht, de ontwikkeling van partnerschappen of andere vormen van samenwerking tussen de bevoegde autoriteiten, met name de gezondheidsdiensten en de sociale diensten, en de gerechtelijke autoriteiten en andere instanties die verantwoordelijk zijn voor het volgen van de personen bedoeld in [artikel 16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=V&artikel=16&z=2010-07-01&g=2010-07-01).
 
-3. Elke Partij voorziet, in overeenstemming met haar nationale recht, in een beoordeling van het gevaar en de mogelijke risico’s van recidive van de overeenkomstig dit Verdrag strafbaar gestelde feiten door de personen bedoeld in [artikel 16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=V&artikel=16&z=2007-10-25&g=2007-10-25), met als doel het vaststellen van passende programma's of maatregelen.
+3. Elke Partij voorziet, in overeenstemming met haar nationale recht, in een beoordeling van het gevaar en de mogelijke risico’s van recidive van de overeenkomstig dit Verdrag strafbaar gestelde feiten door de personen bedoeld in [artikel 16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=V&artikel=16&z=2010-07-01&g=2010-07-01), met als doel het vaststellen van passende programma's of maatregelen.
 
 4. Elke Partij voorziet, in overeenstemming met haar nationale recht, in een beoordeling van de effectiviteit van de toegepaste programma’s en maatregelen.
 
 ##### Artikel 16. Personen voor wie de interventieprogramma’s en -maatregelen bedoeld zijn
 
-1. Elke Partij waarborgt dat, in overeenstemming met haar nationale recht, personen die strafrechtelijk worden vervolgd wegens een van de overeenkomstig dit Verdrag strafbaar gestelde feiten toegang hebben tot de in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=V&artikel=15&z=2007-10-25&g=2007-10-25), genoemde programma’s of maatregelen, onder voorwaarden die geen negatieve gevolgen hebben voor of in strijd zijn met de rechten van de verdediging en de vereisten van een eerlijk en onpartijdig proces, en met name met inachtneming van het beginsel van de onschuldpresumptie.
+1. Elke Partij waarborgt dat, in overeenstemming met haar nationale recht, personen die strafrechtelijk worden vervolgd wegens een van de overeenkomstig dit Verdrag strafbaar gestelde feiten toegang hebben tot de in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=V&artikel=15&z=2010-07-01&g=2010-07-01), genoemde programma’s of maatregelen, onder voorwaarden die geen negatieve gevolgen hebben voor of in strijd zijn met de rechten van de verdediging en de vereisten van een eerlijk en onpartijdig proces, en met name met inachtneming van het beginsel van de onschuldpresumptie.
 
-2. Elke Partij waarborgt, in overeenstemming met haar nationale recht, dat personen die veroordeeld zijn wegens het plegen van een van de overeenkomstig dit Verdrag strafbaar gestelde feiten, toegang kunnen krijgen tot de in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=V&artikel=15&z=2007-10-25&g=2007-10-25), genoemde programma’s of maatregelen.
+2. Elke Partij waarborgt, in overeenstemming met haar nationale recht, dat personen die veroordeeld zijn wegens het plegen van een van de overeenkomstig dit Verdrag strafbaar gestelde feiten, toegang kunnen krijgen tot de in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=V&artikel=15&z=2010-07-01&g=2010-07-01), genoemde programma’s of maatregelen.
 
 3. Elke Partij waarborgt, in overeenstemming met haar nationale recht, dat er interventieprogramma’s of -maatregelen worden ontwikkeld voor of aangepast aan de ontwikkelingsbehoeften van kinderen die een zedendelict plegen, met inbegrip van degenen die onder de leeftijd zijn waarop zij strafrechtelijk aansprakelijk kunnen worden gesteld, met het oog op de behandeling van hun seksuele gedragsproblemen.
 
 ##### Artikel 17. Informatie en toestemming
 
-1. Elke Partij waarborgt, in overeenstemming met haar nationale recht, dat de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=V&artikel=16&z=2007-10-25&g=2007-10-25) bedoelde personen aan wie interventieprogramma’s of -maatregelen zijn voorgesteld volledig worden geïnformeerd over de redenen voor het voorstel en met volledige kennis van de feiten toestemmen in deelname aan het programma of de maatregel.
+1. Elke Partij waarborgt, in overeenstemming met haar nationale recht, dat de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=V&artikel=16&z=2010-07-01&g=2010-07-01) bedoelde personen aan wie interventieprogramma’s of -maatregelen zijn voorgesteld volledig worden geïnformeerd over de redenen voor het voorstel en met volledige kennis van de feiten toestemmen in deelname aan het programma of de maatregel.
 
 2. Elke Partij waarborgt dat, in overeenstemming met haar nationale recht, personen aan wie interventieprogramma’s of -maatregelen zijn voorgesteld deze kunnen weigeren en, in het geval van veroordeelde personen, dat zij op de hoogte worden gesteld van de mogelijke gevolgen van deze weigering.
 
@@ -256,7 +256,7 @@ Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om de inste
 
 - –. dat uitsluitend bestaat uit gesimuleerde weergaven of realistische afbeeldingen van een niet-bestaand kind;
 
-- –. waarbij kinderen betrokken zijn die de ingevolge [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=18&z=2007-10-25&g=2007-10-25), vastgestelde leeftijd hebben bereikt, wanneer deze beelden met hun instemming door hen zijn vervaardigd en in hun bezit zijn en uitsluitend bestemd zijn voor hun eigen gebruik.
+- –. waarbij kinderen betrokken zijn die de ingevolge [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=18&z=2010-07-01&g=2010-07-01), vastgestelde leeftijd hebben bereikt, wanneer deze beelden met hun instemming door hen zijn vervaardigd en in hun bezit zijn en uitsluitend bestemd zijn voor hun eigen gebruik.
 
 4. Elke Partij kan zich het recht voorbehouden het eerste lid, onderdeel f, gedeeltelijk of in het geheel niet toe te passen.
 
@@ -274,11 +274,11 @@ Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om de inste
 
 ##### Artikel 22. Het corrumperen van kinderen
 
-Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn voor het strafbaar stellen van het opzettelijk getuige laten zijn, voor seksuele doeleinden, van een kind dat de ingevolge [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=18&z=2007-10-25&g=2007-10-25), vastgestelde leeftijd niet heeft bereikt, van seksueel misbruik of seksuele activiteiten, ook zonder dat het kind daaraan moet deelnemen.
+Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn voor het strafbaar stellen van het opzettelijk getuige laten zijn, voor seksuele doeleinden, van een kind dat de ingevolge [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=18&z=2010-07-01&g=2010-07-01), vastgestelde leeftijd niet heeft bereikt, van seksueel misbruik of seksuele activiteiten, ook zonder dat het kind daaraan moet deelnemen.
 
 ##### Artikel 23. Benaderen van kinderen voor seksuele doeleinden
 
-Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn voor het strafbaar stellen van het doen van een voorstel, door middel van informatie- en communicatietechnologie, door een volwassene aan een kind dat de ingevolge [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=18&z=2007-10-25&g=2007-10-25), vastgestelde leeftijd niet heeft bereikt, tot een ontmoeting met als vooropgezet doel het plegen van een overeenkomstig artikel 18, eerste lid, onderdeel a, of [artikel 20, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=20&z=2007-10-25&g=2007-10-25), strafbaar gesteld feit tegen hem of haar, wanneer dit voorstel is gevolgd door materiële handelingen die tot een dergelijke ontmoeting leiden.
+Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn voor het strafbaar stellen van het doen van een voorstel, door middel van informatie- en communicatietechnologie, door een volwassene aan een kind dat de ingevolge [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=18&z=2010-07-01&g=2010-07-01), vastgestelde leeftijd niet heeft bereikt, tot een ontmoeting met als vooropgezet doel het plegen van een overeenkomstig artikel 18, eerste lid, onderdeel a, of [artikel 20, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=20&z=2010-07-01&g=2010-07-01), strafbaar gesteld feit tegen hem of haar, wanneer dit voorstel is gevolgd door materiële handelingen die tot een dergelijke ontmoeting leiden.
 
 ##### Artikel 24. Medeplichtigheid of uitlokking en poging
 
@@ -286,7 +286,7 @@ Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn voor het st
 
 2. Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om een poging tot het plegen van een van de overeenkomstig dit Verdrag strafbaar gestelde feiten, indien zulks opzettelijk geschiedt, strafbaar te stellen.
 
-3. Elke Partij kan zich het recht voorbehouden het tweede lid gedeeltelijk of in het geheel niet toe te passen op de overeenkomstig [artikel 20, eerste lid, onderdelen b, d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=20&z=2007-10-25&g=2007-10-25), [artikel 21, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=21&z=2007-10-25&g=2007-10-25), en de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=22&z=2007-10-25&g=2007-10-25) en 23 strafbaar gestelde feiten.
+3. Elke Partij kan zich het recht voorbehouden het tweede lid gedeeltelijk of in het geheel niet toe te passen op de overeenkomstig [artikel 20, eerste lid, onderdelen b, d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=20&z=2010-07-01&g=2010-07-01), [artikel 21, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=21&z=2010-07-01&g=2010-07-01), en de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=22&z=2010-07-01&g=2010-07-01) en 23 strafbaar gestelde feiten.
 
 ##### Artikel 25. Rechtsmacht
 
@@ -306,11 +306,11 @@ Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn voor het st
 
 3. Elke Partij kan, op het tijdstip van ondertekening of bij de nederlegging van haar akte van bekrachtiging, aanvaarding of goedkeuring of toetreding, door middel van een verklaring gericht aan de Secretaris-Generaal van de Raad van Europa verklaren dat zij zich het recht voorbehoudt de regels betreffende rechtsmacht vastgesteld in het eerste lid, onderdeel e, van dit artikel, niet toe te passen of slechts in specifieke gevallen of omstandigheden toe te passen.
 
-4. Voor de vervolging van de ingevolge de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=18&z=2007-10-25&g=2007-10-25), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=19&z=2007-10-25&g=2007-10-25), [20, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=20&z=2007-10-25&g=2007-10-25), en [21, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=21&z=2007-10-25&g=2007-10-25), van dit Verdrag strafbaar gestelde feiten, neemt elke Partij de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat haar rechtsmacht uit hoofde van het eerste lid, onderdeel d, niet afhankelijk wordt gesteld van de voorwaarde dat de feiten strafbaar zijn op de plaats waar zij zijn gepleegd.
+4. Voor de vervolging van de ingevolge de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=18&z=2010-07-01&g=2010-07-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=19&z=2010-07-01&g=2010-07-01), [20, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=20&z=2010-07-01&g=2010-07-01), en [21, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=21&z=2010-07-01&g=2010-07-01), van dit Verdrag strafbaar gestelde feiten, neemt elke Partij de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat haar rechtsmacht uit hoofde van het eerste lid, onderdeel d, niet afhankelijk wordt gesteld van de voorwaarde dat de feiten strafbaar zijn op de plaats waar zij zijn gepleegd.
 
-5. Elke Partij kan, op het tijdstip van ondertekening of bij de nederlegging van haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, door middel van een verklaring gericht aan de Secretaris-Generaal van de Raad van Europa verklaren dat zij zich het recht voorbehoudt de toepassing van het vierde lid van dit artikel, met betrekking tot overeenkomstig [artikel 18, eerste lid, onderdeel b, tweede en derde liggende streepje](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=18&z=2007-10-25&g=2007-10-25), strafbaar gestelde feiten te beperken tot gevallen waarin haar onderdaan zijn vaste verblijfplaats op het grondgebied van die Partij heeft.
+5. Elke Partij kan, op het tijdstip van ondertekening of bij de nederlegging van haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, door middel van een verklaring gericht aan de Secretaris-Generaal van de Raad van Europa verklaren dat zij zich het recht voorbehoudt de toepassing van het vierde lid van dit artikel, met betrekking tot overeenkomstig [artikel 18, eerste lid, onderdeel b, tweede en derde liggende streepje](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=18&z=2010-07-01&g=2010-07-01), strafbaar gestelde feiten te beperken tot gevallen waarin haar onderdaan zijn vaste verblijfplaats op het grondgebied van die Partij heeft.
 
-6. Voor de vervolging van de ingevolge de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=18&z=2007-10-25&g=2007-10-25), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=19&z=2007-10-25&g=2007-10-25), [20, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=20&z=2007-10-25&g=2007-10-25), en [21](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=21&z=2007-10-25&g=2007-10-25) van dit Verdrag strafbaar gestelde feiten, neemt elke Partij de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat haar rechtsmacht uit hoofde van het eerste lid, onderdelen d en e, niet afhankelijk wordt gesteld van de voorwaarde dat vervolging slechts kan worden ingesteld na een aangifte van het slachtoffer of een aanklacht door de Staat van de plaats waar het feit is gepleegd.
+6. Voor de vervolging van de ingevolge de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=18&z=2010-07-01&g=2010-07-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=19&z=2010-07-01&g=2010-07-01), [20, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=20&z=2010-07-01&g=2010-07-01), en [21](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=21&z=2010-07-01&g=2010-07-01) van dit Verdrag strafbaar gestelde feiten, neemt elke Partij de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat haar rechtsmacht uit hoofde van het eerste lid, onderdelen d en e, niet afhankelijk wordt gesteld van de voorwaarde dat vervolging slechts kan worden ingesteld na een aangifte van het slachtoffer of een aanklacht door de Staat van de plaats waar het feit is gepleegd.
 
 7. Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om haar rechtsmacht te vestigen met betrekking tot de overeenkomstig dit Verdrag strafbaar gestelde feiten, in gevallen waarin een vermoedelijke dader zich op haar grondgebied bevindt en zij die persoon niet uitlevert aan een andere Partij, uitsluitend op grond van zijn nationaliteit.
 
@@ -338,7 +338,7 @@ Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn voor het st
 
 1. Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat op de overeenkomstig dit Verdrag strafbaar gestelde feiten doeltreffende, evenredige en afschrikkende straffen worden gesteld, rekening houdend met de ernst van de feiten. Deze sancties omvatten straffen die vrijheidsbeneming met zich mee kunnen brengen en tot uitlevering kunnen leiden.
 
-2. Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat rechtspersonen die aansprakelijk worden gesteld overeenkomstig [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=26&z=2007-10-25&g=2007-10-25) onderworpen worden aan doeltreffende, evenredige en afschrikkende straffen, met inbegrip van strafrechtelijke of niet-strafrechtelijke boetes, en kunnen andere maatregelen omvatten, met name:
+2. Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat rechtspersonen die aansprakelijk worden gesteld overeenkomstig [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=26&z=2010-07-01&g=2010-07-01) onderworpen worden aan doeltreffende, evenredige en afschrikkende straffen, met inbegrip van strafrechtelijke of niet-strafrechtelijke boetes, en kunnen andere maatregelen omvatten, met name:
 
 - a. uitsluiting van het recht op overheidsvoorzieningen of -steun;
 
@@ -400,7 +400,7 @@ Elke Partij neemt de wettelijke of andere maatregelen die nodig zijn om te voorz
 
 - –. om een doeltreffend onderzoek en doeltreffende vervolging te waarborgen van de overeenkomstig dit Verdrag strafbaar gestelde feiten, waarbij, wanneer van toepassing, dient te worden voorzien in de mogelijkheid van geheime operaties;
 
-- –. om eenheden of onderzoeksdiensten in staat te stellen de slachtoffers van de overeenkomstig [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=20&z=2007-10-25&g=2007-10-25) strafbaar gestelde feiten te identificeren, met name door analyse van kinderpornografisch materiaal, zoals foto’s of audiovisuele opnamen die zijn uitgezonden of beschikbaar zijn gesteld door het gebruik van informatie- en communicatietechnologieën.
+- –. om eenheden of onderzoeksdiensten in staat te stellen de slachtoffers van de overeenkomstig [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=20&z=2010-07-01&g=2010-07-01) strafbaar gestelde feiten te identificeren, met name door analyse van kinderpornografisch materiaal, zoals foto’s of audiovisuele opnamen die zijn uitgezonden of beschikbaar zijn gesteld door het gebruik van informatie- en communicatietechnologieën.
 
 ##### Artikel 31. Algemene beschermende maatregelen
 
@@ -436,7 +436,7 @@ Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om te waarb
 
 ##### Artikel 33. Verjaringstermijn
 
-Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat de verjaringstermijn voor het instellen van een procedure met betrekking tot de overeenkomstig de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=18&z=2007-10-25&g=2007-10-25), [19, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=19&z=2007-10-25&g=2007-10-25), en [21, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=21&z=2007-10-25&g=2007-10-25), strafbaar gestelde feiten een zodanige duur heeft dat het mogelijk is de procedure op doeltreffende wijze in te stellen nadat het slachtoffer meerderjarig is geworden, waarbij deze termijn evenredig is aan de zwaarte van het desbetreffende strafbare feit.
+Elke Partij neemt de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat de verjaringstermijn voor het instellen van een procedure met betrekking tot de overeenkomstig de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=18&z=2010-07-01&g=2010-07-01), [19, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=19&z=2010-07-01&g=2010-07-01), en [21, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=VI&artikel=21&z=2010-07-01&g=2010-07-01), strafbaar gestelde feiten een zodanige duur heeft dat het mogelijk is de procedure op doeltreffende wijze in te stellen nadat het slachtoffer meerderjarig is geworden, waarbij deze termijn evenredig is aan de zwaarte van het desbetreffende strafbare feit.
 
 ##### Artikel 34. Onderzoek
 
@@ -556,7 +556,7 @@ Dit Verdrag laat de rechten en verplichtingen die voortvloeien uit de bepalingen
 
 ##### Artikel 44. Wijzigingen
 
-1. Elk voorstel tot wijziging van dit Verdrag dat door een Partij wordt ingediend, wordt medegedeeld aan de Secretaris-Generaal van de Raad van Europa en door hem of haar toegezonden aan de lidstaten van de Raad van Europa, elke ondertekenaar, elke Staat die Partij is, de Europese Gemeenschap, elke Staat die overeenkomstig de bepalingen van [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=XIII&artikel=45&z=2007-10-25&g=2007-10-25), is uitgenodigd dit Verdrag te ondertekenen en aan elke Staat die overeenkomstig de bepalingen van [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=XIII&artikel=46&z=2007-10-25&g=2007-10-25), is uitgenodigd tot dit Verdrag toe te treden.
+1. Elk voorstel tot wijziging van dit Verdrag dat door een Partij wordt ingediend, wordt medegedeeld aan de Secretaris-Generaal van de Raad van Europa en door hem of haar toegezonden aan de lidstaten van de Raad van Europa, elke ondertekenaar, elke Staat die Partij is, de Europese Gemeenschap, elke Staat die overeenkomstig de bepalingen van [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=XIII&artikel=45&z=2010-07-01&g=2010-07-01), is uitgenodigd dit Verdrag te ondertekenen en aan elke Staat die overeenkomstig de bepalingen van [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=XIII&artikel=46&z=2010-07-01&g=2010-07-01), is uitgenodigd tot dit Verdrag toe te treden.
 
 2. Elke door een Partij voorgestelde wijziging wordt medegedeeld aan de Europese Commissie voor Strafrechtelijke Vraagstukken (CDPC) die haar oordeel over de voorgestelde wijziging voorlegt aan het Comité van Ministers.
 
@@ -604,19 +604,19 @@ Ten aanzien van de bepalingen van dit Verdrag kunnen geen voorbehouden worden ge
 
 ##### Artikel 50. Kennisgeving
 
-1. De Secretaris-Generaal van de Raad van Europa stelt de lidstaten van de Raad van Europa, alle ondertekenende Staten, alle Staten die Partij zijn, de Europese Gemeenschap, alle Staten die overeenkomstig de bepalingen van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=XIII&artikel=45&z=2007-10-25&g=2007-10-25) zijn uitgenodigd dit Verdrag te ondertekenen en alle Staten die overeenkomstig de bepalingen van [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=XIII&artikel=46&z=2007-10-25&g=2007-10-25) zijn uitgenodigd tot dit Verdrag toe te treden in kennis van:
+1. De Secretaris-Generaal van de Raad van Europa stelt de lidstaten van de Raad van Europa, alle ondertekenende Staten, alle Staten die Partij zijn, de Europese Gemeenschap, alle Staten die overeenkomstig de bepalingen van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=XIII&artikel=45&z=2010-07-01&g=2010-07-01) zijn uitgenodigd dit Verdrag te ondertekenen en alle Staten die overeenkomstig de bepalingen van [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=XIII&artikel=46&z=2010-07-01&g=2010-07-01) zijn uitgenodigd tot dit Verdrag toe te treden in kennis van:
 
 - a. elke ondertekening;
 
 - b. de nederlegging van elke akte van bekrachtiging, aanvaarding, goedkeuring of toetreding;
 
-- c. elke datum van inwerkingtreding van dit Verdrag in overeenstemming met de [artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=XIII&artikel=45&z=2007-10-25&g=2007-10-25) en [46](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=XIII&artikel=48&z=2007-10-25&g=2007-10-25);
+- c. elke datum van inwerkingtreding van dit Verdrag in overeenstemming met de [artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=XIII&artikel=45&z=2010-07-01&g=2010-07-01) en [46](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=XIII&artikel=48&z=2010-07-01&g=2010-07-01);
 
-- d. elke wijziging die overeenkomstig [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=XII&artikel=44&z=2007-10-25&g=2007-10-25) is aangenomen en de datum waarop een dergelijke wijziging in werking treedt;
+- d. elke wijziging die overeenkomstig [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=XII&artikel=44&z=2010-07-01&g=2010-07-01) is aangenomen en de datum waarop een dergelijke wijziging in werking treedt;
 
-- e. elk voorbehoud gemaakt ingevolge [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=XIII&artikel=48&z=2007-10-25&g=2007-10-25);
+- e. elk voorbehoud gemaakt ingevolge [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=XIII&artikel=48&z=2010-07-01&g=2010-07-01);
 
-- f. elke opzegging uit hoofde van de bepalingen van [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=XIII&artikel=49&z=2007-10-25&g=2007-10-25);
+- f. elke opzegging uit hoofde van de bepalingen van [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBV0004127&hoofdstuk=XIII&artikel=49&z=2010-07-01&g=2010-07-01);
 
 - g. elk ander besluit, kennisgeving of mededeling met betrekking tot dit Verdrag.
 
