@@ -4,7 +4,7 @@ identifier: "BWBR0019209"
 country: "nl"
 rank: "amvb"
 publication_date: "2012-09-30"
-last_updated: "2006-02-01"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019209"
 soort: "AMvB"
@@ -108,7 +108,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 5
 
-1. In het register van aanvragen, bedoeld in [artikel 4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=3&artikel=4&z=2006-02-01&g=2006-02-01), worden onder vermelding van een dagtekening ingeschreven:
+1. In het register van aanvragen, bedoeld in [artikel 4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=3&artikel=4&z=2010-07-01&g=2010-07-01), worden onder vermelding van een dagtekening ingeschreven:
 
 - a. aanvragen tot toelating als bedoeld in [artikel 36 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=36);
 
@@ -142,7 +142,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 6
 
-1. In het register van inschrijving, bedoeld in [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=3&artikel=4&z=2006-02-01&g=2006-02-01), worden onder vermelding van een dagtekening ingeschreven:
+1. In het register van inschrijving, bedoeld in [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=3&artikel=4&z=2010-07-01&g=2010-07-01), worden onder vermelding van een dagtekening ingeschreven:
 
 - a. rassen en opstanden die ingevolge [hoofdstuk 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=5) zijn toegelaten;
 
@@ -156,7 +156,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. in voorkomend geval de vermelding dat een ras een genetisch gemodificeerd organisme is als bedoeld in [richtlijn 2001/18/EG](32001L0018);
 
-- c. de categorie of categorieën, waarin het teeltmateriaal kan worden verhandeld, voor zover de inschrijving het gevolg is van een toelating van een ras van de ingevolge [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=8&z=2006-02-01&g=2006-02-01), [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=9&z=2006-02-01&g=2006-02-01) of [10 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=10&z=2006-02-01&g=2006-02-01), aan te wijzen groentegewassen, landbouwgewassen of bosbouwgewassen of van een opstand;
+- c. de categorie of categorieën, waarin het teeltmateriaal kan worden verhandeld, voor zover de inschrijving het gevolg is van een toelating van een ras van de ingevolge [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=8&z=2010-07-01&g=2010-07-01), [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=9&z=2010-07-01&g=2010-07-01) of [10 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=10&z=2010-07-01&g=2010-07-01), aan te wijzen groentegewassen, landbouwgewassen of bosbouwgewassen of van een opstand;
 
 - d. de ingevolge de artikelen 10 en 24 van [richtlijn 1999/105/EG](31999L0105) te vermelden gegevens;
 
@@ -224,6 +224,8 @@ indien voldaan is aan de bij of krachtens [richtlijn 1999/105/EG](31999L0105) ge
 
 2. In afwijking van het eerste lid wordt een opstand toegelaten als «opstand voor de productie van getest teeltmateriaal» op basis van de voorlopige resultaten van de genetische waardebepaling of vergelijkende tests, mits die voorlopige resultaten naar het oordeel van de Raad de veronderstelling rechtvaardigen dat het desbetreffende uitgangsmateriaal aan de toelatingseisen zal voldoen.
 
+3. Bij ministeriële regeling kunnen voor elk van de categorieën, genoemd in het eerste lid, nadere regels worden gesteld over de toelating van opstanden.
+
 ##### Artikel 11
 
 1. Bij ministeriële regeling kunnen overeenkomstig [artikel 85 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=85) nadere regels worden gesteld over de toelating van plantengroepen die niet aan de vereisten van [artikel 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=35) voldoen.
@@ -234,25 +236,25 @@ indien voldaan is aan de bij of krachtens [richtlijn 1999/105/EG](31999L0105) ge
 
 ##### Artikel 12
 
-1. Een ras dat of een opstand die een genetisch gemodificeerd organisme is als bedoeld in [richtlijn 2001/18/EG](32001L0018), wordt uitsluitend toegelaten op grond van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=8&z=2006-02-01&g=2006-02-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=9&z=2006-02-01&g=2006-02-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=10&z=2006-02-01&g=2006-02-01) of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=11&z=2006-02-01&g=2006-02-01) indien overeenkomstig de eerdergenoemde richtlijn toestemming is verleend om dat materiaal in de handel te brengen.
+1. Een ras dat of een opstand die een genetisch gemodificeerd organisme is als bedoeld in [richtlijn 2001/18/EG](32001L0018), wordt uitsluitend toegelaten op grond van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=8&z=2010-07-01&g=2010-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=9&z=2010-07-01&g=2010-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=10&z=2010-07-01&g=2010-07-01) of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=11&z=2010-07-01&g=2010-07-01) indien overeenkomstig de eerdergenoemde richtlijn toestemming is verleend om dat materiaal in de handel te brengen.
 
-2. Bij de toelating van materiaal van een ras of een opstand als bedoeld in het eerste lid kunnen bij ministeriële regeling nadere eisen worden gesteld aan de toelating, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=8&z=2006-02-01&g=2006-02-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=9&z=2006-02-01&g=2006-02-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=10&z=2006-02-01&g=2006-02-01) of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=11&z=2006-02-01&g=2006-02-01).
+2. Bij de toelating van materiaal van een ras of een opstand als bedoeld in het eerste lid kunnen bij ministeriële regeling nadere eisen worden gesteld aan de toelating, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=8&z=2010-07-01&g=2010-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=9&z=2010-07-01&g=2010-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=10&z=2010-07-01&g=2010-07-01) of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=11&z=2010-07-01&g=2010-07-01).
 
 3. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de gevallen waarin en de voorwaarden waaronder een toelating als bedoeld in het eerste lid wordt gewijzigd of ingetrokken.
 
 ##### Artikel 13
 
-1. De Raad draagt zorg voor de bewaring van het dossier waarop een toelating als bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=8&z=2006-02-01&g=2006-02-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=9&z=2006-02-01&g=2006-02-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=10&z=2006-02-01&g=2006-02-01) of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=11&z=2006-02-01&g=2006-02-01) berust.
+1. De Raad draagt zorg voor de bewaring van het dossier waarop een toelating als bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=8&z=2010-07-01&g=2010-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=9&z=2010-07-01&g=2010-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=10&z=2010-07-01&g=2010-07-01) of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=11&z=2010-07-01&g=2010-07-01) berust.
 
 2. Het dossier, bedoeld in het eerste lid, bevat alle feiten en gegevens die uit het technisch onderzoek zijn voortgekomen.
 
 ##### Artikel 14
 
-1. Een toelating ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=8&z=2006-02-01&g=2006-02-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=9&z=2006-02-01&g=2006-02-01), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=10&z=2006-02-01&g=2006-02-01), of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=11&z=2006-02-01&g=2006-02-01) geldt ten hoogste tot en met het tiende kalenderjaar na de toelating.
+1. Een toelating ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=8&z=2010-07-01&g=2010-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=9&z=2010-07-01&g=2010-07-01), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=10&z=2010-07-01&g=2010-07-01), of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=11&z=2010-07-01&g=2010-07-01) geldt ten hoogste tot en met het tiende kalenderjaar na de toelating.
 
-2. De Raad verlengt de toelating van een ras, ingevolge de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=8&z=2006-02-01&g=2006-02-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=9&z=2006-02-01&g=2006-02-01) of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=11&z=2006-02-01&g=2006-02-01) op aanvraag van een instandhouder van dat ras of ambtshalve telkens voor een daarbij vast te stellen termijn, mits naar het oordeel van de Raad voldaan wordt aan de vereisten voor toelating en de bij of krachtens dit besluit gestelde regels inzake de instandhouding.
+2. De Raad verlengt de toelating van een ras, ingevolge de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=8&z=2010-07-01&g=2010-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=9&z=2010-07-01&g=2010-07-01) of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=11&z=2010-07-01&g=2010-07-01) op aanvraag van een instandhouder van dat ras of ambtshalve telkens voor een daarbij vast te stellen termijn, mits naar het oordeel van de Raad voldaan wordt aan de vereisten voor toelating en de bij of krachtens dit besluit gestelde regels inzake de instandhouding.
 
-3. De Raad trekt een toelating ingevolge de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=8&z=2006-02-01&g=2006-02-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=9&z=2006-02-01&g=2006-02-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=10&z=2006-02-01&g=2006-02-01) of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=11&z=2006-02-01&g=2006-02-01) in, ingeval naar zijn oordeel niet meer aan de aan de toelating gestelde eisen wordt voldaan.
+3. De Raad trekt een toelating ingevolge de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=8&z=2010-07-01&g=2010-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=9&z=2010-07-01&g=2010-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=10&z=2010-07-01&g=2010-07-01) of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=11&z=2010-07-01&g=2010-07-01) in, ingeval naar zijn oordeel niet meer aan de aan de toelating gestelde eisen wordt voldaan.
 
 ##### Artikel 15
 
@@ -278,7 +280,7 @@ indien voldaan is aan de bij of krachtens [richtlijn 1999/105/EG](31999L0105) ge
 
 ##### Artikel 17
 
-Bij ministeriële regeling worden regels gesteld over de wijze waarop een onderzoek als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=16&z=2006-02-01&g=2006-02-01) wordt uitgevoerd en de per gewas vastgestelde kenmerken waarover het onderzoek zich uitstrekt.
+Bij ministeriële regeling worden regels gesteld over de wijze waarop een onderzoek als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=16&z=2010-07-01&g=2010-07-01) wordt uitgevoerd en de per gewas vastgestelde kenmerken waarover het onderzoek zich uitstrekt.
 
 ##### Artikel 18
 
@@ -302,7 +304,7 @@ De Raad stelt een of meer protocollen op met betrekking tot de inrichting en uit
 
 ##### Artikel 21
 
-Op het technisch onderzoek, bedoeld in [artikel 49, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=49), zijn de [artikelen 16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=16&z=2006-02-01&g=2006-02-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=18&z=2006-02-01&g=2006-02-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=20&z=2006-02-01&g=2006-02-01) van overeenkomstige toepassing.
+Op het technisch onderzoek, bedoeld in [artikel 49, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=49), zijn de [artikelen 16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=16&z=2010-07-01&g=2010-07-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=18&z=2010-07-01&g=2010-07-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=20&z=2010-07-01&g=2010-07-01) van overeenkomstige toepassing.
 
 ##### Artikel 22
 
@@ -316,7 +318,7 @@ Op het technisch onderzoek, bedoeld in [artikel 49, zevende lid, van de wet](htt
 
 Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot:
 
-- a. de wijze waarop aanvragen tot toelating van rassen of opstanden als bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=8&z=2006-02-01&g=2006-02-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=9&z=2006-02-01&g=2006-02-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=10&z=2006-02-01&g=2006-02-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=11&z=2006-02-01&g=2006-02-01), aanvragen tot verlening van kwekersrecht en overige aanvragen en verzoeken die op grond van de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=5) en [7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=7) bij de Raad worden ingediend;
+- a. de wijze waarop aanvragen tot toelating van rassen of opstanden als bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=8&z=2010-07-01&g=2010-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=9&z=2010-07-01&g=2010-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=10&z=2010-07-01&g=2010-07-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=11&z=2010-07-01&g=2010-07-01), aanvragen tot verlening van kwekersrecht en overige aanvragen en verzoeken die op grond van de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=5) en [7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=7) bij de Raad worden ingediend;
 
 - b. de bepaling van het tijdstip waarop de overeenkomstig de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=5) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=7) gedane aanvragen en verzoeken geacht worden bij de Raad te zijn ingediend en
 
@@ -355,5 +357,15 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 26
 
 Dit besluit wordt aangeduid als: Besluit werkzaamheden Raad voor plantenrassen.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 8a
+
+Dit onderdeel is nog niet inwerking getreden
+
+#### Paragraaf 5. Kwekersrecht
+
+#### Paragraaf 6. Overige bepalingen en slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
