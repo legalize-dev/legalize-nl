@@ -4,7 +4,7 @@ identifier: "BWBR0023025"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2010-02-27"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023025"
 soort: "AMvB"
@@ -92,7 +92,7 @@ De leden van het stembureau geven tijdens de uitoefening van hun functie geen bl
 
 1. Het stembureau kan zich bij de uitvoering van zijn werkzaamheden laten bijstaan door daartoe door hem aangewezen personen.
 
-2. Het stembureau wijst tenminste twee gekwalificeerde personen aan die gedurende de stemopneming aanwezig zijn om de voorziening briefstemmen als bedoeld in [artikel 2.44](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=9&artikel=2.44&z=2010-01-01&g=2010-02-27) te bedienen, om in opdracht van het stembureau handelingen te verrichten aan de voorziening en om te controleren of de voorziening functioneert. Van de wisseling van de personen en van alle handelingen en controles wordt aantekening gehouden in een logboek.
+2. Het stembureau wijst tenminste twee gekwalificeerde personen aan die gedurende de stemopneming aanwezig zijn om de voorziening briefstemmen als bedoeld in [artikel 2.44](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=9&artikel=2.44&z=2010-07-01&g=2010-07-01) te bedienen, om in opdracht van het stembureau handelingen te verrichten aan de voorziening en om te controleren of de voorziening functioneert. Van de wisseling van de personen en van alle handelingen en controles wordt aantekening gehouden in een logboek.
 
 ##### Artikel 2.6
 
@@ -106,7 +106,7 @@ De leden van het stembureau geven tijdens de uitoefening van hun functie geen bl
 
 ##### Artikel 2.7
 
-1. Indien de mogelijkheid wordt geboden de stem uit te brengen met toepassing van [paragraaf 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=12&z=2010-01-01&g=2010-02-27) is gedurende de stemperiode [artikel 2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=1&artikel=2.5&z=2010-01-01&g=2010-02-27), van overeenkomstige toepassing.
+1. Indien de mogelijkheid wordt geboden de stem uit te brengen met toepassing van [paragraaf 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=12&z=2010-07-01&g=2010-07-01) is gedurende de stemperiode [artikel 2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=1&artikel=2.5&z=2010-07-01&g=2010-07-01), van overeenkomstige toepassing.
 
 2. Indien de voorziening om met behulp van internet te stemmen wordt verstoord of dreigt te worden verstoord, wordt het stembureau zo spoedig mogelijk in zitting bijeengeroepen. Indien de omstandigheden geen voorafgaande bijeenroeping van het stembureau toelaten, kan een daartoe bij toerbeurt aangewezen lid of plaatsvervangend lid namens het stembureau besluiten de stemming met behulp van internet te schorsen.
 
@@ -114,7 +114,7 @@ De leden van het stembureau geven tijdens de uitoefening van hun functie geen bl
 
 ##### Artikel 2.8
 
-De kandidaatstelling voor de verkiezing vindt plaats op de dinsdag in de periode van 11 tot en met 17 september, onverminderd [artikel 2.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=4&artikel=2.16&z=2010-01-01&g=2010-02-27).
+De kandidaatstelling voor de verkiezing vindt plaats op de dinsdag in de periode van 11 tot en met 17 september, onverminderd [artikel 2.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=4&artikel=2.16&z=2010-07-01&g=2010-07-01).
 
 #### § 3. De registratie van de aanduiding van een belangengroepering
 
@@ -126,7 +126,7 @@ De kandidaatstelling voor de verkiezing vindt plaats op de dinsdag in de periode
 
 2. Het dagelijks bestuur kan een of meer tijdvakken voorafgaande aan de dag van kandidaatstelling aanwijzen binnen welke de kandidatenlijsten eveneens bij de voorzitter van het stembureau, of bij een van de door deze aan te wijzen leden van het stembureau, op het kantoor van het waterschap kunnen worden ingeleverd. Van de aanwijzing van een of meer tijdvakken wordt melding gemaakt bij de in het eerste lid bedoelde kennisgeving.
 
-3. De formulieren voor de kandidatenlijsten en voor de verklaringen bedoeld in de [artikelen 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=4&artikel=2.19&z=2010-01-01&g=2010-02-27) en [2.25](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=4&artikel=2.25&z=2010-01-01&g=2010-02-27) worden uiterlijk drie weken vóór de dag van kandidaatstelling toegezonden aan de geregistreerde belangengroeperingen, en zijn ook kosteloos verkrijgbaar bij het kantoor van het waterschap.
+3. De formulieren voor de kandidatenlijsten en voor de verklaringen bedoeld in de [artikelen 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=4&artikel=2.19&z=2010-07-01&g=2010-07-01) en [2.25](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=4&artikel=2.25&z=2010-07-01&g=2010-07-01) worden uiterlijk drie weken vóór de dag van kandidaatstelling toegezonden aan de geregistreerde belangengroeperingen, en zijn ook kosteloos verkrijgbaar bij het kantoor van het waterschap.
 
 ##### Artikel 2.17
 
@@ -144,7 +144,7 @@ De kandidaatstelling voor de verkiezing vindt plaats op de dinsdag in de periode
 
 1. De inlevering van de lijst geschiedt persoonlijk door een gemachtigde van de belangengroepering. De voorzitter van het stembureau of een van de door deze aangewezen leden van dat bureau kan verlangen dat deze van zijn identiteit doet blijken. De kandidaten kunnen bij de inlevering aanwezig zijn.
 
-2. De gemachtigde die de lijst inlevert, plaatst daarboven een aanduiding, gevormd door samenvoeging van voor de desbetreffende verkiezing geregistreerde aanduidingen of afkortingen daarvan, indien hem daartoe de bevoegdheid is verleend door de gemachtigden van de onderscheidene belangengroeperingen. Verklaringen van de gemachtigden waaruit deze bevoegdheid blijkt, worden bij de lijst overgelegd. Een aldus gevormde aanduiding voldoet aan de eisen, bedoeld in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2010-01-01&g=2010-02-27).
+2. De gemachtigde die de lijst inlevert, plaatst daarboven een aanduiding, gevormd door samenvoeging van voor de desbetreffende verkiezing geregistreerde aanduidingen of afkortingen daarvan, indien hem daartoe de bevoegdheid is verleend door de gemachtigden van de onderscheidene belangengroeperingen. Verklaringen van de gemachtigden waaruit deze bevoegdheid blijkt, worden bij de lijst overgelegd. Een aldus gevormde aanduiding voldoet aan de eisen, bedoeld in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2010-07-01&g=2010-07-01).
 
 3. De gemachtigde die de lijst heeft ingeleverd, ontvangt van de voorzitter van het stembureau of van een van de door deze aangewezen leden van dat bureau een bewijs daarvan.
 
@@ -162,7 +162,7 @@ De kandidaatstelling voor de verkiezing vindt plaats op de dinsdag in de periode
 
 ##### Artikel 2.20
 
-De in het [eerste lid van artikel 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=4&artikel=2.19&z=2010-01-01&g=2010-02-27) bedoelde verplichting geldt niet voor een kandidatenlijst van een belangengroepering aan wier kandidatenlijst bij de laatstgehouden verkiezing een of meer zetels zijn toegekend. De vorige volzin is mede van toepassing ten aanzien van:
+De in het [eerste lid van artikel 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=4&artikel=2.19&z=2010-07-01&g=2010-07-01) bedoelde verplichting geldt niet voor een kandidatenlijst van een belangengroepering aan wier kandidatenlijst bij de laatstgehouden verkiezing een of meer zetels zijn toegekend. De vorige volzin is mede van toepassing ten aanzien van:
 
 - a. samenvoeging van aanduidingen van twee of meer belangengroeperingen, indien bij de laatstgehouden verkiezing, hetzij aan de gezamenlijke belangengroeperingen, hetzij aan tenminste één daarvan, één of meer zetels zijn toegekend;
 
@@ -170,7 +170,7 @@ De in het [eerste lid van artikel 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 ##### Artikel 2.21
 
-Op de lijst kunnen een gemachtigde en desgewenst diens plaatsvervangers worden aangewezen, die bevoegd zijn tot het verbinden van de lijst met andere lijsten tot een lijstencombinatie. Voorts worden op de lijst een of meer personen vermeld die bij verhindering van de gemachtigde die de lijst heeft ingeleverd bevoegd zijn tot het herstel van verzuimen, bedoeld in [artikel 2.29](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=5&artikel=2.29&z=2010-01-01&g=2010-02-27).
+Op de lijst kunnen een gemachtigde en desgewenst diens plaatsvervangers worden aangewezen, die bevoegd zijn tot het verbinden van de lijst met andere lijsten tot een lijstencombinatie. Voorts worden op de lijst een of meer personen vermeld die bij verhindering van de gemachtigde die de lijst heeft ingeleverd bevoegd zijn tot het herstel van verzuimen, bedoeld in [artikel 2.29](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=5&artikel=2.29&z=2010-07-01&g=2010-07-01).
 
 ##### Artikel 2.22
 
@@ -200,7 +200,7 @@ Op dezelfde lijst van een belangengroepering aan wier kandidatenlijst bij de laa
 
 ##### Artikel 2.26
 
-1. Voor elke lijst wordt een waarborgsom van € 225,– betaald aan het waterschap. Deze waarborgsom dient uiterlijk op de veertiende dag voor de kandidaatstelling te zijn ontvangen op de rekening van het waterschap bedoeld in [artikel 2.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=3&artikel=2.9&z=2010-01-01&g=2010-02-27), onder vermelding van «waarborgsom kandidaatstelling» en met vermelding van de naam van de belangengroepering.
+1. Voor elke lijst wordt een waarborgsom van € 225,– betaald aan het waterschap. Deze waarborgsom dient uiterlijk op de veertiende dag voor de kandidaatstelling te zijn ontvangen op de rekening van het waterschap bedoeld in [artikel 2.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=3&artikel=2.9&z=2010-07-01&g=2010-07-01), onder vermelding van «waarborgsom kandidaatstelling» en met vermelding van de naam van de belangengroepering.
 
 2. De in het eerste lid bedoelde verplichting tot betaling geldt niet voor een kandidatenlijst van een belangengroepering aan wier kandidatenlijst bij de laatstgehouden verkiezing een of meer zetels zijn toegekend. De vorige volzin is mede van toepassing ten aanzien van samenvoeging van aanduidingen van twee of meer belangengroeperingen, indien bij de laatstgehouden verkiezing, hetzij aan de gezamenlijke groeperingen, hetzij aan ten minste één daarvan, één of meer zetels zijn toegekend.
 
@@ -208,7 +208,7 @@ Op dezelfde lijst van een belangengroepering aan wier kandidatenlijst bij de laa
 
 4. Indien geen lijst wordt ingeleverd, wordt na de vaststelling van de uitslag van de verkiezing door het stembureau de waarborgsom teruggegeven aan degene die de betaling heeft verricht.
 
-5. Na de vaststelling van de uitslag van de verkiezing door het stembureau wordt de waarborgsom zo spoedig mogelijk teruggegeven aan degene die de betaling heeft verricht, tenzij het stemcijfer van de lijst lager is dan 75 procent van de kiesdeler, bedoeld in [artikel 2.77](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=14&artikel=2.77&z=2010-01-01&g=2010-02-27). In dat geval vervalt de waarborgsom aan het waterschap. Over de terug te geven waarborgsommen wordt geen rente vergoed.
+5. Na de vaststelling van de uitslag van de verkiezing door het stembureau wordt de waarborgsom zo spoedig mogelijk teruggegeven aan degene die de betaling heeft verricht, tenzij het stemcijfer van de lijst lager is dan 75 procent van de kiesdeler, bedoeld in [artikel 2.77](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=14&artikel=2.77&z=2010-07-01&g=2010-07-01). In dat geval vervalt de waarborgsom aan het waterschap. Over de terug te geven waarborgsommen wordt geen rente vergoed.
 
 #### § 5. Het onderzoek van de kandidatenlijsten
 
@@ -220,23 +220,23 @@ Op de tweede dag na de kandidaatstelling, om tien uur, houdt het stembureau een 
 
 Indien bij het onderzoek blijkt van een of meer van de volgende verzuimen, geeft het stembureau onverwijld bij aangetekende brief of tegen gedagtekend ontvangstbewijs kennis aan degene die de lijst heeft ingeleverd:
 
-- a. dat, indien bij de lijst verklaringen van ondersteuning moeten worden overgelegd, niet ten minste het aantal verklaringen, genoemd in [artikel 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=4&artikel=2.19&z=2010-01-01&g=2010-02-27) is overgelegd, waarbij niet meetellen de verklaringen die niet aan [artikel 2.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=4&artikel=2.19&z=2010-01-01&g=2010-02-27), voldoen en de verklaringen van een kiezer die meer dan één verklaring heeft ondertekend;
+- a. dat, indien bij de lijst verklaringen van ondersteuning moeten worden overgelegd, niet ten minste het aantal verklaringen, genoemd in [artikel 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=4&artikel=2.19&z=2010-07-01&g=2010-07-01) is overgelegd, waarbij niet meetellen de verklaringen die niet aan [artikel 2.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=4&artikel=2.19&z=2010-07-01&g=2010-07-01), voldoen en de verklaringen van een kiezer die meer dan één verklaring heeft ondertekend;
 
-- b. dat, indien zich het geval voordoet, bedoeld in [artikel 2.24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=4&artikel=2.24&z=2010-01-01&g=2010-02-27), de verklaring dat de kandidaat voornemens is zich bij benoeming te vestigen in het gebied van het waterschap ontbreekt;
+- b. dat, indien zich het geval voordoet, bedoeld in [artikel 2.24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=4&artikel=2.24&z=2010-07-01&g=2010-07-01), de verklaring dat de kandidaat voornemens is zich bij benoeming te vestigen in het gebied van het waterschap ontbreekt;
 
-- c. dat een kandidaat niet is vermeld overeenkomstig [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=4&artikel=2.17&z=2010-01-01&g=2010-02-27);
+- c. dat een kandidaat niet is vermeld overeenkomstig [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=4&artikel=2.17&z=2010-07-01&g=2010-07-01);
 
 - d. dat ten aanzien van een kandidaat ontbreekt de verklaring dat hij instemt met zijn kandidaatstelling op de lijst;
 
 - e. dat de lijst niet persoonlijk is ingeleverd door een gemachtigde van de belangengroepering;
 
-- f. dat verklaringen als bedoeld in [artikel 2.18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=4&artikel=2.18&z=2010-01-01&g=2010-02-27), ontbreken.
+- f. dat verklaringen als bedoeld in [artikel 2.18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=4&artikel=2.18&z=2010-07-01&g=2010-07-01), ontbreken.
 
 ##### Artikel 2.29
 
 1. Uiterlijk tot op de zevende dag na de kandidaatstelling kan degene die de lijst heeft ingeleverd, het verzuim of de verzuimen, in de kennisgeving aangeduid, herstellen bij de voorzitter van het stembureau of bij een van de door deze aan te wijzen leden van dat bureau op het kantoor van het waterschap, op werkdagen van negen tot zeventien uur.
 
-2. In het geval, bedoeld in [artikel 2.28, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=5&artikel=2.28&z=2010-01-01&g=2010-02-27), kan een gemachtigde die tot het inleveren van de lijst bevoegd zou zijn geweest, door persoonlijke verschijning op het kantoor van het waterschap zich alsnog in de plaats van de onbevoegde inleveraar stellen en aldus het verzuim herstellen.
+2. In het geval, bedoeld in [artikel 2.28, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=5&artikel=2.28&z=2010-07-01&g=2010-07-01), kan een gemachtigde die tot het inleveren van de lijst bevoegd zou zijn geweest, door persoonlijke verschijning op het kantoor van het waterschap zich alsnog in de plaats van de onbevoegde inleveraar stellen en aldus het verzuim herstellen.
 
 3. Bij verhindering of ontstentenis van de gemachtigde die de lijst heeft ingeleverd, treedt in diens plaats een op de lijst vermelde vervanger.
 
@@ -252,21 +252,21 @@ Op de achtste dag na de kandidaatstelling beslist het stembureau in een openbare
 
 Ongeldig is de lijst:
 
-- a. die niet op de dag van de kandidaatstelling tussen negen en negentien uur, dan wel binnen de tijdvakken bedoeld in [artikel 2.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=4&artikel=2.16&z=2010-01-01&g=2010-02-27), bij de voorzitter van het stembureau of een van de door deze aangewezen leden is ingeleverd;
+- a. die niet op de dag van de kandidaatstelling tussen negen en negentien uur, dan wel binnen de tijdvakken bedoeld in [artikel 2.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=4&artikel=2.16&z=2010-07-01&g=2010-07-01), bij de voorzitter van het stembureau of een van de door deze aangewezen leden is ingeleverd;
 
-- b. waarbij, indien bij de lijst verklaringen van ondersteuningen moeten worden overgelegd, niet ten minste het aantal geldige verklaringen, genoemd in [artikel 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=4&artikel=2.19&z=2010-01-01&g=2010-02-27), is overgelegd;
+- b. waarbij, indien bij de lijst verklaringen van ondersteuningen moeten worden overgelegd, niet ten minste het aantal geldige verklaringen, genoemd in [artikel 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=4&artikel=2.19&z=2010-07-01&g=2010-07-01), is overgelegd;
 
 - c. die niet voldoet aan het vastgestelde model;
 
 - d. die niet persoonlijk is ingeleverd door een gemachtigde;
 
-- e. waarop door toepassing van [artikel 2.33](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=5&artikel=2.33&z=2010-01-01&g=2010-02-27) alle kandidaten zijn geschrapt.
+- e. waarop door toepassing van [artikel 2.33](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=5&artikel=2.33&z=2010-07-01&g=2010-07-01) alle kandidaten zijn geschrapt.
 
 ##### Artikel 2.33
 
 1. Het stembureau schrapt, in de volgorde in dit lid aangewezen, van de lijst de naam van de kandidaat:
 
-- a. die niet is vermeld overeenkomstig [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=4&artikel=2.17&z=2010-01-01&g=2010-02-27);
+- a. die niet is vermeld overeenkomstig [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=4&artikel=2.17&z=2010-07-01&g=2010-07-01);
 
 - b. van wie niet is overgelegd de verklaring dat hij instemt met zijn kandidaatstelling op de lijst;
 
@@ -282,7 +282,7 @@ Ongeldig is de lijst:
 
 - h. die op de lijst voorkomt na het ten hoogste toegelaten aantal.
 
-2. Het stembureau schrapt de aanduiding gevormd door samenvoeging van voor de desbetreffende verkiezingen geregistreerde aanduidingen of afkortingen daarvan, indien een daarop betrekking hebbende verklaring als bedoeld in [artikel 2.18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=4&artikel=2.18&z=2010-01-01&g=2010-02-27), ontbreekt.
+2. Het stembureau schrapt de aanduiding gevormd door samenvoeging van voor de desbetreffende verkiezingen geregistreerde aanduidingen of afkortingen daarvan, indien een daarop betrekking hebbende verklaring als bedoeld in [artikel 2.18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=4&artikel=2.18&z=2010-07-01&g=2010-07-01), ontbreekt.
 
 ##### Artikel 2.34
 
@@ -290,7 +290,7 @@ Indien de aanduiding van een belangengroepering niet in overeenstemming is met d
 
 ##### Artikel 2.35
 
-1. Tegen een beschikking als bedoeld in [artikel 2.31](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=5&artikel=2.31&z=2010-01-01&g=2010-02-27) kan een belanghebbende en iedere kiezer beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.
+1. Tegen een beschikking als bedoeld in [artikel 2.31](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=5&artikel=2.31&z=2010-07-01&g=2010-07-01) kan een belanghebbende en iedere kiezer beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.
 
 2. In afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:7) bedraagt de termijn voor het indienen van een beroepschrift vier dagen.
 
@@ -302,7 +302,7 @@ Indien de aanduiding van een belangengroepering niet in overeenstemming is met d
 
 ##### Artikel 2.36
 
-1. Indien beroep is ingesteld tegen een beschikking waarbij het stembureau een lijst ongeldig heeft verklaard of de naam van een kandidaat dan wel de aanduiding als bedoeld in [artikel 2.33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=5&artikel=2.33&z=2010-01-01&g=2010-02-27), heeft geschrapt op grond van een of meer van de verzuimen, vermeld in [artikel 2.28](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=5&artikel=2.28&z=2010-01-01&g=2010-02-27), zonder dat het stembureau tevoren overeenkomstig het in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=5&artikel=2.28&z=2010-01-01&g=2010-02-27) bepaalde kennis heeft gegeven van het bestaan daarvan aan degene die de lijst heeft ingeleverd, kan deze het verzuim of de verzuimen alsnog herstellen ter secretarie van de Raad van State. [Artikel 2.29, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=5&artikel=2.29&z=2010-01-01&g=2010-02-27), is van overeenkomstige toepassing.
+1. Indien beroep is ingesteld tegen een beschikking waarbij het stembureau een lijst ongeldig heeft verklaard of de naam van een kandidaat dan wel de aanduiding als bedoeld in [artikel 2.33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=5&artikel=2.33&z=2010-07-01&g=2010-07-01), heeft geschrapt op grond van een of meer van de verzuimen, vermeld in [artikel 2.28](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=5&artikel=2.28&z=2010-07-01&g=2010-07-01), zonder dat het stembureau tevoren overeenkomstig het in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=5&artikel=2.28&z=2010-07-01&g=2010-07-01) bepaalde kennis heeft gegeven van het bestaan daarvan aan degene die de lijst heeft ingeleverd, kan deze het verzuim of de verzuimen alsnog herstellen ter secretarie van de Raad van State. [Artikel 2.29, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=5&artikel=2.29&z=2010-07-01&g=2010-07-01), is van overeenkomstige toepassing.
 
 2. Indien een verzuim overeenkomstig het eerste lid is hersteld, houdt de Afdeling bestuursrechtspraak van de Raad van State bij haar uitspraak daarmee rekening.
 
@@ -316,13 +316,13 @@ Indien de aanduiding van een belangengroepering niet in overeenstemming is met d
 
 ##### Artikel 2.38
 
-Het stembureau beslist over de geldigheid van de lijstencombinaties in de zitting, bedoeld in [artikel 2.31](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=5&artikel=2.31&z=2010-01-01&g=2010-02-27).
+Het stembureau beslist over de geldigheid van de lijstencombinaties in de zitting, bedoeld in [artikel 2.31](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=5&artikel=2.31&z=2010-07-01&g=2010-07-01).
 
 #### § 7. De nummering van de kandidatenlijsten
 
 ##### Artikel 2.39
 
-In de zitting, bedoeld in [artikel 2.31](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=5&artikel=2.31&z=2010-01-01&g=2010-02-27), nummert het stembureau de ingediende kandidatenlijsten, waarbij de kandidatenlijsten die kennelijk ongeldig zijn, buiten beschouwing blijven.
+In de zitting, bedoeld in [artikel 2.31](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=5&artikel=2.31&z=2010-07-01&g=2010-07-01), nummert het stembureau de ingediende kandidatenlijsten, waarbij de kandidatenlijsten die kennelijk ongeldig zijn, buiten beschouwing blijven.
 
 ##### Artikel 2.40
 
@@ -354,15 +354,19 @@ Een beslissing tot het ongeldig verklaren van een kandidatenlijst heeft geen gev
 
 ##### Artikel 2.44
 
-In de [paragrafen 9 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=9&z=2010-01-01&g=2010-02-27) en de daarop berustende bepalingen wordt verstaan onder:
+In de [paragrafen 9 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=9&z=2010-07-01&g=2010-07-01) en de daarop berustende bepalingen wordt verstaan onder:
 
-**de voorziening briefstemmen**: de voorziening die het stembureau in staat stelt de per brief uitgebrachte stemmen te verwerken en de uitslag van de verkiezing vast te stellen.
+**blanco enveloppe:** enveloppe die duidelijk te onderscheiden is van een gecodeerde retourenveloppe;
+
+**gecodeerde retourenveloppe:** enveloppe als bedoeld in [artikel 2.53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=11&artikel=2.53&z=2010-07-01&g=2010-07-01);
+
+**de voorziening briefstemmen**: de voorziening die het stembureau in staat stelt de per brief uitgebrachte stemmen te verwerken en de uitslag van de verkiezing vast te stellen;
 
 **de voorziening internetstemmen**: de voorziening die de kiesgerechtigde in staat stelt om zijn stem uit te brengen met behulp van internet en die het stembureau in staat stelt de uitslag van de verkiezing vast te stellen.
 
 ##### Artikel 2.45
 
-1. Een voorziening als bedoeld in [artikel 2.44](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=9&artikel=2.44&z=2010-01-01&g=2010-02-27), voldoet aan de volgende vereisten:
+1. Een voorziening als bedoeld in [artikel 2.44](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=9&artikel=2.44&z=2010-07-01&g=2010-07-01), voldoet aan de volgende vereisten:
 
 - a. het geheime karakter van de stemming is voldoende gewaarborgd;
 
@@ -382,7 +386,11 @@ In de [paragrafen 9 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR00230
 
 - a. de procedure van het vervaardigen van de stembescheiden;
 
-- b. de wijze waarop de code, bedoeld in [artikel 2.48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=9&artikel=2.48&z=2010-01-01&g=2010-02-27), wordt vastgesteld.
+- b. de wijze waarop de code, bedoeld in [artikel 2.48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=9&artikel=2.48&z=2010-07-01&g=2010-07-01), wordt vastgesteld;
+
+- c. de procedure voor het scheiden van de retourenveloppen en het deponeren van het stembiljet in de stembus;
+
+- d. de procedure voor het handmatig tellen van de stemmen.
 
 5. Het protocol, bedoeld in het vierde lid, wordt tenminste twee weken voor het begin van de stemming ter inzage gelegd op het kantoor van het waterschap en wordt toegezonden aan gedeputeerde staten.
 
@@ -396,9 +404,11 @@ De stemming geschiedt over de kandidaten wier namen voorkomen op de geldig verkl
 
 ##### Artikel 2.48
 
-1. Het stembureau voorziet elke kiesgerechtigde van een unieke, geanonimiseerde en vertrouwelijke code.
+1. Het stembureau voorziet in een unieke code voor elke kiesgerechtigde.
 
-2. Het stembureau stelt een referentiebestand op van alle mogelijk uit te brengen stemmen en maakt dit ten minste vierentwintig uur voor de aanvang van de stemming openbaar door plaatsing van het bestand op internet. Om de kiezer in staat te stellen de integriteit van het referentiebestand vast te stellen wordt een controlewaarde berekend. Het stembureau maakt deze controlewaarde bekend.
+2. Bij de voorziening internetstemmen voorziet het stembureau in een referentiebestand van alle mogelijk uit te brengen stemmen.
+
+3. Het referentiebestand wordt ten minste vierentwintig uur voor de aanvang van de stemming openbaar gemaakt door plaatsing van het bestand op internet. Om de kiezer in staat te stellen de integriteit van het referentiebestand vast te stellen wordt een controlewaarde berekend. Het stembureau maakt deze controlewaarde bekend.
 
 #### § 10. De oproeping voor de stemming
 
@@ -416,15 +426,23 @@ Ten minste zeven dagen, maar niet eerder dan veertien dagen, voor het einde van 
 
 ##### Artikel 2.51
 
-1. De stembescheiden omvatten het stembiljet met retourenveloppe, de kandidatenlijsten en instructies voor de kiezer. Indien de mogelijkheid wordt geboden de stem uit te brengen overeenkomstig [paragraaf 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=12&z=2010-01-01&g=2010-02-27) van dit hoofdstuk, omvatten de stembescheiden tevens een stemkaart met stemcode en het internetadres.
+1. De stembescheiden omvatten:
 
-2. Op de kandidatenlijsten, zoals deze ter kennis van de kiezers worden gebracht, worden vermeld de nummers van de lijsten en de aanduidingen van de belangengroeperingen en, in voorkomend geval, de nummers van de lijsten waarmee die lijsten tot een lijstencombinatie zijn verbonden. Voorts worden daarop de kandidaten kolomsgewijs vermeld zoals ze op de kandidatenlijst voorkomen, met weglating van het adres en de geboortedatum. De kandidatenlijsten worden weergegeven in de volgorde van de toegekende nummers. De kandidaten worden per lijst doorlopend genummerd.
+- a. het stembiljet;
 
-3. Het dagelijks bestuur stelt voor de kandidatenlijsten een model vast.
+- b. een blanco enveloppe;
+
+- c. een gecodeerde retourenveloppe, en
+
+- d. instructies voor de kiezer.
+
+2. Indien de mogelijkheid wordt geboden de stem uit te brengen overeenkomstig [paragraaf 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=12&z=2010-07-01&g=2010-07-01) van dit hoofdstuk, omvatten de stembescheiden tevens een stemkaart met stemcode en het internetadres.
+
+3. Het dagelijks bestuur verzorgt het stembiljet met de kandidaten voor het desbetreffende waterschap overeenkomstig het model, bedoeld in [artikel 2.53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=11&artikel=2.53&z=2010-07-01&g=2010-07-01).
 
 ##### Artikel 2.52
 
-1. De voorzitter van het waterschap brengt de periode waarbinnen de stembescheiden worden toegezonden en de dag en het tijdstip waarop de stemming eindigt, ten minste eenentwintig dagen voor deze dag ter openbare kennis. Hij maakt daarbij melding van dag, tijdstip en plaats van de in [artikelen 2.64](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=13&artikel=2.64&z=2010-01-01&g=2010-02-27), [2.66](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=13&artikel=2.66&z=2010-01-01&g=2010-02-27), [2.69](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=13&artikel=2.69&z=2010-01-01&g=2010-02-27) en [2.74](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=14&artikel=2.74&z=2010-01-01&g=2010-02-27) bedoelde zittingen van het stembureau en van de terinzagelegging van het in [artikel 2.45, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=9&artikel=2.45&z=2010-01-01&g=2010-02-27), bedoelde protocol.
+1. De voorzitter van het waterschap brengt de periode waarbinnen de stembescheiden worden toegezonden en de dag en het tijdstip waarop de stemming eindigt, ten minste eenentwintig dagen voor deze dag ter openbare kennis. Hij maakt daarbij melding van dag, tijdstip en plaats van de in [artikelen 2.54, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=11&artikel=2.54&z=2010-07-01&g=2010-07-01), [2.54a](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=11&artikel=2.54a&z=2010-07-01&g=2010-07-01), [2.64](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=13&artikel=2.64&z=2010-07-01&g=2010-07-01), [2.65](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=13&artikel=2.65&z=2010-07-01&g=2010-07-01), [2.66](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=13&artikel=2.66&z=2010-07-01&g=2010-07-01), [2.69](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=13&artikel=2.69&z=2010-07-01&g=2010-07-01) en [2.74](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=14&artikel=2.74&z=2010-07-01&g=2010-07-01) bedoelde zittingen van het stembureau en van de terinzagelegging van het in [artikel 2.45, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=9&artikel=2.45&z=2010-07-01&g=2010-07-01), bedoelde protocol.
 
 2. Bij een ernstige externe verstoring van de stemming kan het dagelijks bestuur het tijdstip waarop de stemming eindigt met maximaal twee dagen verlengen. Dit besluit wordt zo spoedig mogelijk bekend gemaakt.
 
@@ -432,23 +450,23 @@ Ten minste zeven dagen, maar niet eerder dan veertien dagen, voor het einde van 
 
 ##### Artikel 2.53
 
-1. Op het bij de verkiezing te bezigen stembiljet zijn eenzijdig geprint de lijstnummers en de aanduiding van de belangengroeperingen die aan de verkiezingen deelnemen, zoals deze ter kennis van de kiezers worden gebracht, alsmede zoveel vakjes als er ten hoogste kandidaten op een kandidatenlijst mogen worden geplaatst. Aan deze zijde wordt ook een vakje opgenomen voor het kunnen uitbrengen van een blanco stem. Aan deze zijde kunnen voorts worden vermeld de naam van het waterschap en het jaartal van de verkiezing, alsmede, indien van toepassing, een aanduiding van het kiesdistrict.
+1. Op het bij de verkiezing te bezigen stembiljet zijn eenzijdig in een rij geprint de lijstnummers met de aanduidingen van de belangengroeperingen die aan de verkiezingen deelnemen en, in voorkomend geval de nummers van de lijsten waarmee die lijsten tot een lijstencombinatie zijn verbonden. Voorts worden onder de aanduiding van de belangengroepering met het lijstnummer, de daarbij behorende kandidaten kolomsgewijs weergegeven, met weglating van het adres en de geboortedatum, en per lijst doorlopend genummerd in de volgorde van de toegekende nummers. Voor elke naam van een kandidaat wordt een stemvak geprint. Tevens kunnen op het stembiljet de naam van het waterschap, het jaartal van de verkiezingen en, indien van toepassing, een aanduiding van het kiesdistrict worden vermeld, en kan op het stembiljet een echtheidskenmerk worden aangebracht.
 
-2. Op het stembiljet worden ten behoeve van de stemopneming een of meer machineleesbare codes geprint om te waarborgen dat de kiesgerechtigde ten hoogste één geldige stem kan uitbrengen. De code of codes bevatten de code als bedoeld in [artikel 2.48](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=9&artikel=2.48&z=2010-01-01&g=2010-02-27) in versleutelde vorm, aangevuld met een cijfermatige weergave van de naam van het waterschap, van het jaar van de verkiezingen en, indien van toepassing, van het desbetreffende kiesdistrict.
+2. Op de bij de stembescheiden behorende gecodeerde retourenveloppe worden, ten behoeve van de registratie van het ontvangst van de stembescheiden van de kiesgerechtigde, een of meer machineleesbare codes geprint om te waarborgen dat de kiesgerechtigde hoogstens één geldige stem kan uitbrengen. De code of codes bevatten de code, bedoeld in [artikel 2.48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=9&artikel=2.48&z=2010-07-01&g=2010-07-01), indien van toepassing aangevuld met een gecodeerde weergave van de naam van het desbetreffende kiesdistrict.
 
-3. Het stembiljet kan worden voorzien van een korte instructie. Op het stembiljet kan voorts worden voorzien in de mogelijkheid om een niet-identificeerbaar gegeven van de kiesgerechtigde in te vullen, ten behoeve van het gebruik van een verdergaand beveiligingssysteem om misbruik van stembiljetten tegen te gaan.
-
-4. Bij ministeriële regeling wordt voor het stembiljet een model vastgesteld.
+3. Bij ministeriële regeling worden voor de stembescheiden, bedoeld in [artikel 2.51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=10&artikel=2.51&z=2010-07-01&g=2010-07-01), modellen vastgesteld.
 
 ##### Artikel 2.54
 
-1. De kiesgerechtigde brengt zijn stem uit door op het stembiljet het stemvak, geplaatst voor het nummer van de belangengroepering van zijn keuze aan te kruisen of anderszins te markeren en vervolgens door het nummer van de kandidaat dat correspondeert met het nummer van de kandidaat van voorkeur zoals vermeld op de kandidatenlijst, aan te kruisen of anderszins te markeren. Indien het waterschap heeft gekozen voor een beveiligingssysteem als bedoeld in [artikel 2.53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=11&artikel=2.53&z=2010-01-01&g=2010-02-27), dient de stemgerechtigde het bedoelde gegeven in te vullen.
+1. De kiesgerechtigde brengt zijn stem uit door op het stembiljet het stemvak geplaatst voor de naam van de kandidaat van zijn keuze aan te kruisen of anderszins te markeren.
 
-2. De kiesgerechtigde verzendt het stembiljet met gebruikmaking van de daarvoor bestemde retourenvelop.
+2. Daarna vouwt hij het stembiljet dicht op zodanige wijze dat de namen van de kandidaten niet zichtbaar zijn en doet hij het stembiljet in de blanco enveloppe.
 
-3. In afwijking van het tweede lid kan de kiesgerechtigde het stembiljet deponeren in de brievenbus van het waterschap of tijdens kantooruren in een daartoe in het kantoor van het waterschap geplaatste stembus, die is voorzien van een slot en van een sleuf waardoor de stembiljetten in de bus kunnen worden gestoken.
+3. Vervolgens doet hij de blanco enveloppe met het stembiljet in de gecodeerde retourenveloppe en verzendt hij deze gesloten naar het voorgedrukte adres.
 
-4. De in de stembus of brievenbus van het waterschap gedeponeerde stembiljetten worden door of vanwege het stembureau onmiddellijk na het tijdstip waarop de stemming eindigt, overgebracht naar de ruimte waar de stemopneming plaatsvindt. Zonodig kunnen bedoelde stembiljetten tussentijds worden overgebracht naar de ruimte waar de stemopneming plaatsvindt
+4. In afwijking van het derde lid kan de kiesgerechtigde de gecodeerde retourenveloppe in de brievenbus van het waterschap deponeren of tijdens kantooruren in een daartoe in het kantoor van het waterschap geplaatste stembus, die is voorzien van een slot en van een sleuf waardoor de stembiljetten in de bus kunnen worden gestoken.
+
+5. De in de stembus, bedoeld in het vorige lid, of brievenbus van het waterschap gedeponeerde gecodeerde retourenveloppen, worden door of vanwege het stembureau, gedurende de stemperiode in een dagelijkse openbare zitting overgebracht naar de ruimte waar de werkzaamheden, bedoeld in [artikel 2.54a](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=11&artikel=2.54a&z=2010-07-01&g=2010-07-01), plaatsvinden.
 
 ##### Artikel 2.55
 
@@ -466,7 +484,7 @@ Deze paragraaf is van toepassing indien het waterschap de kiesgerechtigde in de 
 
 ##### Artikel 2.58
 
-1. Onverminderd [artikel 2.45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=9&artikel=2.45&z=2010-01-01&g=2010-02-27), voldoet de voorziening internetstemmen aan de volgende vereisten:
+1. Onverminderd [artikel 2.45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=9&artikel=2.45&z=2010-07-01&g=2010-07-01), voldoet de voorziening internetstemmen aan de volgende vereisten:
 
 - a. indien de voorziening de vermelding van kandidatenlijsten omvat, dienen deze lijsten, het aan elke lijst toegekende nummer en de aanduiding van de belangengroepering, alsmede de mogelijkheid een blanco stem uit te brengen, op duidelijke wijze te kunnen worden vermeld;
 
@@ -484,23 +502,23 @@ Deze paragraaf is van toepassing indien het waterschap de kiesgerechtigde in de 
 
 ##### Artikel 2.59
 
-Alvorens de mogelijkheid om te stemmen te openen voert het stembureau de handelingen uit die nodig zijn om vast te stellen dat de voorziening gereed is voor de stemming en dat er geen stemmen in het geheugen van de voorziening zijn opgeslagen. Indien het stembureau de handelingen, bedoeld in de eerste volzin, opdraagt aan de in [artikel 2.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=1&artikel=2.7&z=2010-01-01&g=2010-02-27), bedoelde personen, gaat het stembureau na of deze handelingen met goed gevolg zijn verricht.
+Alvorens de mogelijkheid om te stemmen te openen voert het stembureau de handelingen uit die nodig zijn om vast te stellen dat de voorziening gereed is voor de stemming en dat er geen stemmen in het geheugen van de voorziening zijn opgeslagen. Indien het stembureau de handelingen, bedoeld in de eerste volzin, opdraagt aan de in [artikel 2.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=1&artikel=2.7&z=2010-07-01&g=2010-07-01), bedoelde personen, gaat het stembureau na of deze handelingen met goed gevolg zijn verricht.
 
 ##### Artikel 2.60
 
-1. Het stembureau en de in [artikel 2.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=1&artikel=2.7&z=2010-01-01&g=2010-02-27), bedoelde personen zijn bevoegd zich, op te houden in de ruimte waar de voorziening zich bevindt, voor zover dit noodzakelijk is voor de uitoefening van de taak.
+1. Het stembureau en de in [artikel 2.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=1&artikel=2.7&z=2010-07-01&g=2010-07-01), bedoelde personen zijn bevoegd zich, op te houden in de ruimte waar de voorziening zich bevindt, voor zover dit noodzakelijk is voor de uitoefening van de taak.
 
 2. Het bedienen van de voorziening geschiedt te allen tijde door ten minste twee personen gezamenlijk.
 
 ##### Artikel 2.61
 
-Bij ministeriële regeling worden de opmaak en functionaliteit vastgesteld van de stembiljetten die worden gebruikt bij het stemmen per internet. Hierbij wordt zoveel als mogelijk aansluiting gezocht bij de systematiek van het stembiljet, bedoeld in [artikel 2.53](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=11&artikel=2.53&z=2010-01-01&g=2010-02-27).
+Bij ministeriële regeling worden de opmaak en functionaliteit vastgesteld van de stembiljetten die worden gebruikt bij het stemmen per internet. Hierbij wordt zoveel als mogelijk aansluiting gezocht bij de systematiek van het stembiljet, bedoeld in [artikel 2.53](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=11&artikel=2.53&z=2010-07-01&g=2010-07-01).
 
 ##### Artikel 2.62
 
 1. De kiezer brengt zijn stem als volgt uit:
 
-- a. nadat de kiezer verbinding heeft gekregen met de voorziening, voert hij zijn stemcode, bedoeld in [artikel 2.51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=10&artikel=2.51&z=2010-01-01&g=2010-02-27), in;
+- a. nadat de kiezer verbinding heeft gekregen met de voorziening, voert hij zijn stemcode, bedoeld in [artikel 2.51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=10&artikel=2.51&z=2010-07-01&g=2010-07-01), in;
 
 - b. nadat aan de hand van de stemcode de kiesgerechtigdheid is vastgesteld, maakt de kiezer zijn keuze, door:
 
@@ -508,7 +526,7 @@ Bij ministeriële regeling worden de opmaak en functionaliteit vastgesteld van d
 
 - 2°. het uitbrengen van een blanco stem;
 
-- c. indien het waterschap gebruik maakt van een beveiligingssysteem als bedoeld in [artikel 2.53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=11&artikel=2.53&z=2010-01-01&g=2010-02-27), dient de kiezer het bedoelde gegeven in te vullen;
+- c. indien het waterschap gebruik maakt van een beveiligingssysteem als bedoeld in [artikel 2.53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=11&artikel=2.53&z=2010-07-01&g=2010-07-01), dient de kiezer het bedoelde gegeven in te vullen;
 
 - d. nadat de inhoud van zijn keuze aan de kiezer is getoond brengt de kiezer zijn stem uit, die wordt verzonden naar de voorziening;
 
@@ -530,53 +548,37 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld betreffende de ga
 
 ##### Artikel 2.64
 
-1. Onmiddellijk na de sluiting van de stemperiode gaat het stembureau over tot vaststelling van de uitslag van de verkiezing.
+1. Onmiddellijk na de sluiting van de stemperiode gaat het stembureau over tot stemopneming.
 
-2. Het stembureau verricht, indien van toepassing, onverwijld de handelingen die nodig zijn om de stemming met behulp van internet te beëindigen. De tweede volzin van [artikel 2.59](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=12&artikel=2.59&z=2010-01-01&g=2010-02-27) is van overeenkomstige toepassing.
-
-3. Alvorens met de stemopneming van de per brief uitgebrachte stemmen een aanvang te nemen stelt het stembureau vast dat de voorziening gereed is voor de stemopneming en dat er geen stemmen in het geheugen van de voorziening zijn opgeslagen. Indien het stembureau de handelingen bedoeld in de eerste volzin opdraagt aan de in [artikel 2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=1&artikel=2.5&z=2010-01-01&g=2010-02-27) bedoelde personen, gaat het stembureau na of deze handelingen met goed gevolg zijn verricht.
-
-4. [Artikel 2.60](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=12&artikel=2.60&z=2010-01-01&g=2010-02-27) is van overeenkomstige toepassing.
+2. Het stembureau verricht, indien van toepassing, onverwijld de handelingen die nodig zijn om de stemming met behulp van internet te beëindigen. De tweede volzin van [artikel 2.59](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=12&artikel=2.59&z=2010-07-01&g=2010-07-01) is van overeenkomstige toepassing.
 
 ##### Artikel 2.65
 
-Onverminderd [artikel 2.64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=13&artikel=2.64&z=2010-01-01&g=2010-02-27), kan met de stemopneming worden aangevangen voordat de stemming is beëindigd onder de voorwaarden dat:
+1. Bij aanvang van de stemopneming wordt de stembus geleegd in de ruimte waar de stemopneming plaatsvindt en door leden van het stembureau wordt vastgesteld dat er zich geen enveloppen of stembiljetten meer in de stembus bevinden. Vervolgens stelt het stembureau vast dat de getroffen voorziening voor het opnemen van de per brief uitgebrachte stemmen gereed is. Van deze vaststellingen wordt melding gemaakt in het proces-verbaal, bedoeld in [artikel 2.73](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=13&artikel=2.73&z=2010-07-01&g=2010-07-01).
 
-- a. de handelingen, bedoeld in [artikel 2.64, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=13&artikel=2.64&z=2010-01-01&g=2010-02-27), zijn uitgevoerd;
+2. De leden van het stembureau openen de blanco enveloppen met de stembiljetten en tellen handmatig de stemmen in een openbare zitting. De leden van het stembureau kunnen zich bij deze werkzaamheden doen bijstaan door plaatsvervangende leden of andere personen die zijn aangewezen door het dagelijks bestuur. Tevens kan een voorziening voor het machinematig openen van de blanco enveloppen worden gebruikt.
 
-- b. de beslissingen omtrent de geldigheid van de uitgebrachte stemmen worden genomen in een openbare zitting van het stembureau.
+3. Het stembureau beslist over de geldigheid van de stembiljetten die niet als overeenkomstig dit besluit ingevulde stembiljetten zijn aan te merken. De beslissingen omtrent de geldigheid van de uitgebrachte stemmen worden genomen in de zitting, bedoeld in het vorige lid.
 
 ##### Artikel 2.66
 
-1. Het stembureau komt de dag na de sluiting van de stemming om veertien uur in openbare zitting bijeen om aan de hand van de gegevens die de voorziening weergeeft het aantal stemmen vast te stellen dat per brief en, indien van toepassing, met behulp van internet is uitgebracht.
+1. Het stembureau komt de dag na de sluiting van de stemming om veertien uur in openbare zitting bijeen om aan de hand van de gegevens die de voorziening weergeeft het aantal stemmen vast te stellen dat met behulp van internet is uitgebracht.
 
 2. De voorzitter maakt deze aantallen, alsmede het aantal kiesgerechtigden bekend.
 
-3. Het stembureau beslist over de geldigheid van de stembiljetten die door de voorziening niet als overeenkomstig dit besluit ingevulde stembiljetten worden aangemerkt.
-
 ##### Artikel 2.67
 
-1. Als ongeldige stem wordt aangemerkt:
+Als ongeldige stem wordt aangemerkt:
 
-- a. een stem uitgebracht met stembescheiden waarvoor vervangende stembescheiden als bedoeld in [artikel 2.50](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=10&artikel=2.50&z=2010-01-01&g=2010-02-27) zijn verstrekt;
+- a. een stem waarbij de kiezer niet op ondubbelzinnige wijze heeft kenbaar gemaakt op welke kandidaat hij zijn stem uitbrengt, doordat de kiezer geen, of bij meerdere kandidaten, op het stembiljet een stemvak heeft aangekruist of anderszins gemarkeerd en de stem niet als blanco is aan te merken;
 
-- b. een stem waarbij de kiezer niet op ondubbelzinnige wijze heeft kenbaar gemaakt op welke kandidaat hij zijn stem uitbrengt, onverminderd het bepaalde in het tweede lid;
+- b. een stem waaraan gegevens zijn toegevoegd waardoor de kiezer kan worden geïdentificeerd, en
 
-- c. een stem waaraan gegevens zijn toegevoegd waardoor de kiezer kan worden geïdentificeerd;
-
-- d. een stem waarbij een ander stembiljet is gebruikt dan het verstrekte stembiljet;
-
-- e. op één na alle stemmen waarvan een stembiljet in de voorziening is opgeslagen met een code die identiek is aan die op een of meer andere stembiljetten;
-
-- f. een stem waarbij op het stembiljet de code gewijzigd is of onleesbaar is gemaakt;
-
-- g. een stem waarbij op het stembiljet het gevraagde gegeven niet of niet juist is ingevuld, indien het waterschap heeft besloten tot toepassing van het beveiligingssysteem, bedoeld in [artikel 2.53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=11&artikel=2.53&z=2010-01-01&g=2010-02-27).
-
-2. Indien op een overigens geldig stembiljet alleen het nummer van de belangengroepering is aangekruist of gemarkeerd, wordt de stem geacht te zijn uitgebracht op kandidaat nummer één van de lijst van die belangengroepering;
+- c. een stem waarbij een ander stembiljet is gebruikt dan het verstrekte stembiljet.
 
 ##### Artikel 2.68
 
-Indien de mogelijkheid is geboden de stem uit te brengen met toepassing van [paragraaf 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=12&z=2010-01-01&g=2010-02-27) van dit hoofdstuk, wordt voorts als ongeldige stem aangemerkt:
+Indien de mogelijkheid is geboden de stem uit te brengen met toepassing van [paragraaf 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=12&z=2010-07-01&g=2010-07-01) van dit hoofdstuk, wordt voorts als ongeldige stem aangemerkt:
 
 - a. op één na alle stemmen van een kiezer die in de voorziening zijn opgeslagen en die zijn uitgebracht op dezelfde kandidaat;
 
@@ -588,39 +590,41 @@ Indien de mogelijkheid is geboden de stem uit te brengen met toepassing van [par
 
 ##### Artikel 2.69
 
-1. Het stembureau komt de tweede dag na de sluiting van de stemming om negentien uur in openbare zitting bijeen om de voorlopige uitslag van de stemming vast te stellen. Daartoe verricht het stembureau de handelingen die nodig zijn om een afdruk te verkrijgen van de in het tweede lid bedoelde gegevens.
-
-2. Het stembureau stelt vervolgens aan de hand van de gegevens die de voorziening weergeeft vast:
+1. Het stembureau komt de tweede dag na de sluiting van de stemming om negentien uur in openbare zitting bijeen om, ten behoeve van de voorlopige uitslag van de stemopneming, de volgende gegevens vast te stellen:
 
 - a. ten aanzien van iedere lijst het aantal op iedere kandidaat uitgebrachte stemmen en de som van deze aantallen;
 
-- b. het aantal kiezers dat door middel van de daartoe bestemde optie heeft aangegeven een blanco stem uit te brengen;
+- b. het aantal kiezers dat een blanco stem heeft uitgebracht;
 
-- c. het aantal ongeldige stemmen.
+- c. het aantal ongeldige stemmen, en
+
+- d. het aantal terzijde gelegde stemmen, bedoeld in [artikel 2.66a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=13&artikel=2.66a&z=2010-07-01&g=2010-07-01).
+
+2. De leden van het stembureau verrichten de benodigde handelingen om de vastgestelde gegevens, bedoeld in het eerste lid, op schrift te stellen.
 
 ##### Artikel 2.70
 
-De voorzitter deelt de uitkomsten genoemd in [artikel 2.69, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=13&artikel=2.69&z=2010-01-01&g=2010-02-27), mede. Door de aanwezige kiezers kunnen mondeling bezwaren worden ingebracht.
+De voorzitter deelt de uitkomsten genoemd in [artikel 2.69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=13&artikel=2.69&z=2010-07-01&g=2010-07-01), mede. Door de aanwezige kiezers kunnen mondeling bezwaren worden ingebracht.
 
 ##### Artikel 2.71
 
-Het stembureau verricht vervolgens de handelingen die nodig zijn om het geheugen van de voorziening internetstemmen veilig te stellen. De [tweede volzin van artikel 2.59](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=12&artikel=2.59&z=2010-01-01&g=2010-02-27) is van overeenkomstige toepassing.
+Het stembureau verricht vervolgens de handelingen die nodig zijn om het geheugen van de voorziening internetstemmen veilig te stellen. De [tweede volzin van artikel 2.59](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=12&artikel=2.59&z=2010-07-01&g=2010-07-01) is van overeenkomstige toepassing.
 
 ##### Artikel 2.72
 
-1. Het stembureau stelt iedere kiezer na de stemopneming in de gelegenheid om na te gaan of zijn per internet uitgebrachte stem correct is meegeteld. Het stembureau maakt na de sluiting van de stemming de daarvoor benodigde referentiebestanden zo spoedig mogelijk openbaar door plaatsing op de in [artikel 2.48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=9&artikel=2.48&z=2010-01-01&g=2010-02-27), bedoelde internetpagina. Bij ministeriële regeling kunnen hierover regels worden gesteld.
+1. Het stembureau stelt iedere kiezer na de stemopneming in de gelegenheid om na te gaan of zijn per internet uitgebrachte stem correct is meegeteld. Het stembureau maakt na de sluiting van de stemming de daarvoor benodigde referentiebestanden zo spoedig mogelijk openbaar door plaatsing op de in [artikel 2.48, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=9&artikel=2.48&z=2010-07-01&g=2010-07-01), bedoelde internetpagina. Bij ministeriële regeling kunnen hierover regels worden gesteld.
 
 2. De kiesgerechtigde die van oordeel is dat zijn per internet uitgebrachte stem niet correct is meegeteld, kan tot twaalf uur op de zesde dag na het einde van de stemming aan het stembureau bezwaren hierover kenbaar maken.
 
 ##### Artikel 2.73
 
-Nadat alle werkzaamheden, bedoeld in de [artikelen 2.64 tot en met 2.72](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=13&artikel=2.64&z=2010-01-01&g=2010-02-27), zijn beëindigd, wordt onmiddellijk proces-verbaal opgemaakt van de stemming en de stemopneming. Alle ingebrachte bezwaren worden in het proces-verbaal vermeld. De in [artikel 2.69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=13&artikel=2.69&z=2010-01-01&g=2010-02-27), bedoelde afdruk wordt aan het proces-verbaal gehecht.
+Nadat alle werkzaamheden, bedoeld in de [artikelen 2.64 tot en met 2.72](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=13&artikel=2.64&z=2010-07-01&g=2010-07-01), zijn beëindigd, wordt onmiddellijk proces-verbaal opgemaakt van de stemming en de stemopneming. Alle ingebrachte bezwaren worden in het proces-verbaal vermeld. De op schrift gestelde gegevens, bedoeld in [artikel 2.69, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=13&artikel=2.69&z=2010-07-01&g=2010-07-01), worden aan het proces-verbaal gehecht.
 
 #### § 14. De vaststelling van de verkiezingsuitslag
 
 ##### Artikel 2.74
 
-Het stembureau houdt zeven dagen na het einde van de stemming, om tien uur een openbare zitting. Het stembureau beoordeelt de ingebrachte bezwaren, bedoeld in [artikel 2.72, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=13&artikel=2.72&z=2010-01-01&g=2010-02-27).
+Het stembureau houdt zeven dagen na het einde van de stemming, om tien uur een openbare zitting. Het stembureau beoordeelt de ingebrachte bezwaren, bedoeld in [artikel 2.72, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=13&artikel=2.72&z=2010-07-01&g=2010-07-01).
 
 ##### Artikel 2.75
 
@@ -630,7 +634,7 @@ Het stembureau houdt zeven dagen na het einde van de stemming, om tien uur een o
 
 ##### Artikel 2.76
 
-1. Een lijstencombinatie als bedoeld in [artikel 2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=4&artikel=2.21&z=2010-01-01&g=2010-02-27) geldt voor het bepalen van het aantal daaraan toe te wijzen zetels als één lijst, met een stemcijfer gelijk aan de som van de stemcijfers van de lijsten waaruit die combinatie bestaat.
+1. Een lijstencombinatie als bedoeld in [artikel 2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=4&artikel=2.21&z=2010-07-01&g=2010-07-01) geldt voor het bepalen van het aantal daaraan toe te wijzen zetels als één lijst, met een stemcijfer gelijk aan de som van de stemcijfers van de lijsten waaruit die combinatie bestaat.
 
 2. Een lijstencombinatie wordt slechts in aanmerking genomen, indien aan ten minste twee van de verbonden lijsten een zetel zou zijn toegewezen, indien geen lijstencombinaties zouden zijn gevormd. Verbonden lijsten die zelfstandig geen zetel zouden hebben verworven, worden buiten beschouwing gelaten.
 
@@ -674,13 +678,13 @@ Indien bij de toepassing van de vorige bepalingen aan een lijst meer zetels word
 
 ##### Artikel 2.83
 
-1. Indien bij de toepassing van de [artikelen 2.81](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=14&artikel=2.81&z=2010-01-01&g=2010-02-27) en [2.82](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=14&artikel=2.82&z=2010-01-01&g=2010-02-27) aan een lijst meer zetels zouden moeten worden toegewezen dan er kandidaten zijn, gaan de overblijvende zetel of zetels door voortgezette toepassing van [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=14&artikel=2.82&z=2010-01-01&g=2010-02-27) over op een van de andere lijsten van de combinatie, onderscheidenlijk van de belangengroepering, waarop kandidaten voorkomen aan wie geen zetel is toegewezen.
+1. Indien bij de toepassing van de [artikelen 2.81](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=14&artikel=2.81&z=2010-07-01&g=2010-07-01) en [2.82](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=14&artikel=2.82&z=2010-07-01&g=2010-07-01) aan een lijst meer zetels zouden moeten worden toegewezen dan er kandidaten zijn, gaan de overblijvende zetel of zetels door voortgezette toepassing van [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=14&artikel=2.82&z=2010-07-01&g=2010-07-01) over op een van de andere lijsten van de combinatie, onderscheidenlijk van de belangengroepering, waarop kandidaten voorkomen aan wie geen zetel is toegewezen.
 
-2. Zijn er na toepassing van het eerste lid nog zetels toe te wijzen, dan worden deze toegewezen volgens het stelsel van de grootste gemiddelden als bedoeld in [artikel 2.79, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=14&artikel=2.79&z=2010-01-01&g=2010-02-27).
+2. Zijn er na toepassing van het eerste lid nog zetels toe te wijzen, dan worden deze toegewezen volgens het stelsel van de grootste gemiddelden als bedoeld in [artikel 2.79, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=14&artikel=2.79&z=2010-07-01&g=2010-07-01).
 
 ##### Artikel 2.84
 
-De in de voorgaande artikelen bedoelde lotingen vinden plaats in de in [artikel 2.89](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=16&artikel=2.89&z=2010-01-01&g=2010-02-27) bedoelde zitting van het stembureau. De lotingen geschieden op de wijze, bepaald krachtens [artikel 2.40, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=7&artikel=2.40&z=2010-01-01&g=2010-02-27).
+De in de voorgaande artikelen bedoelde lotingen vinden plaats in de in [artikel 2.89](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=16&artikel=2.89&z=2010-07-01&g=2010-07-01) bedoelde zitting van het stembureau. De lotingen geschieden op de wijze, bepaald krachtens [artikel 2.40, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=7&artikel=2.40&z=2010-07-01&g=2010-07-01).
 
 ##### Artikel 2.85
 
@@ -696,9 +700,9 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld betreffende de ta
 
 ##### Artikel 2.87
 
-1. Het stembureau rangschikt ten aanzien van iedere lijst de daarop voorkomende kandidaten zodanig, dat bovenaan komen te staan de kandidaten aan wie een zetel is toegewezen met toepassing van [artikel 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=15&artikel=2.86&z=2010-01-01&g=2010-02-27), in de volgorde waarin de zetels zijn toegewezen.
+1. Het stembureau rangschikt ten aanzien van iedere lijst de daarop voorkomende kandidaten zodanig, dat bovenaan komen te staan de kandidaten aan wie een zetel is toegewezen met toepassing van [artikel 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=15&artikel=2.86&z=2010-07-01&g=2010-07-01), in de volgorde waarin de zetels zijn toegewezen.
 
-2. Vervolgens worden, in de volgorde van de aantallen op hen uitgebrachte stemmen, gerangschikt de op de lijst voorkomende kandidaten die een aantal stemmen hebben verkregen groter dan 25% van de kiesdeler, doch die niet met toepassing van [artikel 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=15&artikel=2.86&z=2010-01-01&g=2010-02-27) zijn gekozen verklaard. Indien aantallen gelijk zijn, beslist de volgorde van de lijst.
+2. Vervolgens worden, in de volgorde van de aantallen op hen uitgebrachte stemmen, gerangschikt de op de lijst voorkomende kandidaten die een aantal stemmen hebben verkregen groter dan 25% van de kiesdeler, doch die niet met toepassing van [artikel 2.86](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=15&artikel=2.86&z=2010-07-01&g=2010-07-01) zijn gekozen verklaard. Indien aantallen gelijk zijn, beslist de volgorde van de lijst.
 
 3. Tenslotte worden, in de volgorde van de lijst, gerangschikt de overige op de lijst voorkomende kandidaten.
 
@@ -712,11 +716,11 @@ Indien een gekozen kandidaat is overleden, wordt deze bij de toepassing van deze
 
 ##### Artikel 2.89
 
-De voorzitter van het stembureau maakt de uitslag van de verkiezing zo spoedig mogelijk bekend. De bekendmaking geschiedt in de openbare zitting van het stembureau, bedoeld in [artikel 2.74](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=14&artikel=2.74&z=2010-01-01&g=2010-02-27).
+De voorzitter van het stembureau maakt de uitslag van de verkiezing zo spoedig mogelijk bekend. De bekendmaking geschiedt in de openbare zitting van het stembureau, bedoeld in [artikel 2.74](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=14&artikel=2.74&z=2010-07-01&g=2010-07-01).
 
 ##### Artikel 2.90
 
-Het stembureau kan op de in [artikel 2.89](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=16&artikel=2.89&z=2010-01-01&g=2010-02-27) bedoelde zitting, voordat de uitslag van de verkiezing bekend wordt gemaakt, hetzij ambtshalve, hetzij naar aanleiding van een met opgave van redenen gedaan verzoek van een of meer kiezers, tot een nieuwe opneming van stembiljetten of elektronisch uitgebrachte stemmen besluiten, indien een ernstig vermoeden bestaat dat bij de stemopneming zodanige fouten zijn gemaakt dat zij van invloed op de zetelverdeling kunnen zijn.
+Het stembureau kan op de in [artikel 2.89](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=16&artikel=2.89&z=2010-07-01&g=2010-07-01) bedoelde zitting, voordat de uitslag van de verkiezing bekend wordt gemaakt, hetzij ambtshalve, hetzij naar aanleiding van een met opgave van redenen gedaan verzoek van een of meer kiezers, tot een nieuwe opneming van stembiljetten of elektronisch uitgebrachte stemmen besluiten, indien een ernstig vermoeden bestaat dat bij de stemopneming zodanige fouten zijn gemaakt dat zij van invloed op de zetelverdeling kunnen zijn.
 
 ##### Artikel 2.91
 
@@ -732,13 +736,13 @@ De voorzitter van het stembureau doet een afschrift van het proces-verbaal toeko
 
 ##### Artikel 2.94
 
-1. De voorzitter van het waterschap draagt zorg voor de bewaring van de verzegelde pakken met stembiljetten en indien van toepassing de gegevensbestanden met de internetstemmen. Hij vernietigt deze na drie maanden nadat over de toelating van de benoemden onherroepelijk is beslist. Van deze vernietiging wordt proces-verbaal opgemaakt.
+1. De voorzitter van het waterschap draagt zorg voor de bewaring van de verzegelde pakken met stembiljetten, gecodeerde retourenveloppen en indien van toepassing de gegevensbestanden met de internetstemmen. Hij vernietigt deze na drie maanden nadat over de toelating van de benoemden onherroepelijk is beslist. Van deze vernietiging wordt proces-verbaal opgemaakt.
 
-2. De voorzitter van het waterschap is bevoegd de verzegelde pakken met de stembiljetten en indien van toepassing de gegevensbestanden met de internetstemmen, nadat onherroepelijk is beslist over de toelating van de gekozen leden, ten dienste van een onderzoek naar enig strafbaar feit aan de officier van justitie over te dragen.
+2. De voorzitter van het waterschap is bevoegd de verzegelde pakken met de stembiljetten, gecodeerde retourenveloppen en indien van toepassing de gegevensbestanden met de internetstemmen, nadat onherroepelijk is beslist over de toelating van de gekozen leden, ten dienste van een onderzoek naar enig strafbaar feit aan de officier van justitie over te dragen.
 
-3. Indien toepassing is gegeven aan het tweede lid, vernietigt de voorzitter van het waterschap de stembiljetten en gegevensbestanden onmiddellijk na teruggave door de officier van justitie.
+3. Indien toepassing is gegeven aan het tweede lid, vernietigt de voorzitter van het waterschap de stembiljetten, gecodeerde retourenveloppen en gegevensbestanden onmiddellijk na teruggave door de officier van justitie.
 
-#### § 16. De bekendmaking van de verkiezingsuitslag
+#### § 15. De toewijzing van de zetels aan de kandidaten
 
 ##### Artikel 2.95
 
@@ -794,15 +798,15 @@ Indien het algemeen bestuur heeft besloten om één of meer van de benoemde lede
 
 ##### Artikel 2.102
 
-1. Uiterlijk op de veertiende dag nadat de kennisgeving, bedoeld in [artikel 2.101](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=17&artikel=2.101&z=2010-01-01&g=2010-02-27) is ontvangen, houdt het stembureau een openbare zitting en stelt het met inachtneming van de in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=17&artikel=2.101&z=2010-01-01&g=2010-02-27) bedoelde beslissing de uitslag van de verkiezing voor zover nodig opnieuw vast.
+1. Uiterlijk op de veertiende dag nadat de kennisgeving, bedoeld in [artikel 2.101](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=17&artikel=2.101&z=2010-07-01&g=2010-07-01) is ontvangen, houdt het stembureau een openbare zitting en stelt het met inachtneming van de in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=17&artikel=2.101&z=2010-07-01&g=2010-07-01) bedoelde beslissing de uitslag van de verkiezing voor zover nodig opnieuw vast.
 
-2. De [artikelen 2.89](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=16&artikel=2.89&z=2010-01-01&g=2010-02-27) en [2.91 tot en met 2.93](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=16&artikel=2.91&z=2010-01-01&g=2010-02-27), zijn van overeenkomstige toepassing.
+2. De [artikelen 2.89](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=16&artikel=2.89&z=2010-07-01&g=2010-07-01) en [2.91 tot en met 2.93](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=16&artikel=2.91&z=2010-07-01&g=2010-07-01), zijn van overeenkomstige toepassing.
 
 3. Het onderzoek van de geloofsbrief van de aldus nieuw gekozen verklaarde strekt zich niet uit tot punten, die het verloop van de verkiezing raken.
 
 ##### Artikel 2.103
 
-Indien het algemeen bestuur heeft besloten de benoemde niet als lid toe te laten op de grond dat hij niet voldoet aan de vereisten voor het lidmaatschap, dat hij een met het lidmaatschap onverenigbare betrekking vervult of dat de benoemdverklaring van de voorzitter van het stembureau in strijd is met [paragraaf 18](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=18&z=2010-01-01&g=2010-02-27), geeft de voorzitter van het algemeen bestuur daarvan onverwijld kennis aan de voorzitter van het stembureau.
+Indien het algemeen bestuur heeft besloten de benoemde niet als lid toe te laten op de grond dat hij niet voldoet aan de vereisten voor het lidmaatschap, dat hij een met het lidmaatschap onverenigbare betrekking vervult of dat de benoemdverklaring van de voorzitter van het stembureau in strijd is met [paragraaf 18](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=18&z=2010-07-01&g=2010-07-01), geeft de voorzitter van het algemeen bestuur daarvan onverwijld kennis aan de voorzitter van het stembureau.
 
 ##### Artikel 2.104
 
@@ -832,11 +836,11 @@ De beslissing betreffende de toelating van de tot lid van het algemeen bestuur b
 
 ##### Artikel 2.108
 
-Wanneer, anders dan bij de vaststelling van de uitslag van een verkiezing, in een opengevallen plaats moet worden voorzien, verklaart de voorzitter van het stembureau bij een met redenen omkleed besluit benoemd, uiterlijk op de veertiende dag nadat dit te zijner kennis is gekomen, de daarvoor in aanmerking komende kandidaat die in de volgorde, bedoeld in [artikel 2.87](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=15&artikel=2.87&z=2010-01-01&g=2010-02-27), het hoogst is geplaatst op de lijst waarop degene die moet worden opgevolgd, is gekozen. Indien het lid in wiens plaats moet worden voorzien, ontslag heeft genomen met ingang van een bepaald tijdstip, vangt de termijn, bedoeld in de eerste volzin, aan op dat tijdstip.
+Wanneer, anders dan bij de vaststelling van de uitslag van een verkiezing, in een opengevallen plaats moet worden voorzien, verklaart de voorzitter van het stembureau bij een met redenen omkleed besluit benoemd, uiterlijk op de veertiende dag nadat dit te zijner kennis is gekomen, de daarvoor in aanmerking komende kandidaat die in de volgorde, bedoeld in [artikel 2.87](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=15&artikel=2.87&z=2010-07-01&g=2010-07-01), het hoogst is geplaatst op de lijst waarop degene die moet worden opgevolgd, is gekozen. Indien het lid in wiens plaats moet worden voorzien, ontslag heeft genomen met ingang van een bepaald tijdstip, vangt de termijn, bedoeld in de eerste volzin, aan op dat tijdstip.
 
 ##### Artikel 2.109
 
-1. Bij de toepassing van [artikel 2.108](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=18&artikel=2.108&z=2010-01-01&g=2010-02-27) wordt buiten beschouwing gelaten de kandidaat:
+1. Bij de toepassing van [artikel 2.108](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=18&artikel=2.108&z=2010-07-01&g=2010-07-01) wordt buiten beschouwing gelaten de kandidaat:
 
 - a. die is overleden;
 
@@ -844,9 +848,9 @@ Wanneer, anders dan bij de vaststelling van de uitslag van een verkiezing, in ee
 
 - c. wiens vacature vervuld wordt;
 
-- d. die in de vacature benoemd is verklaard, maar schriftelijk verklaard heeft of geacht wordt de benoeming niet aan te nemen, de in [artikel 2.97](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=17&artikel=2.97&z=2010-01-01&g=2010-02-27) genoemde stukken niet tijdig heeft ingezonden of bij onherroepelijk besluit niet tot het algemeen bestuur is toegelaten;
+- d. die in de vacature benoemd is verklaard, maar schriftelijk verklaard heeft of geacht wordt de benoeming niet aan te nemen, de in [artikel 2.97](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=17&artikel=2.97&z=2010-07-01&g=2010-07-01) genoemde stukken niet tijdig heeft ingezonden of bij onherroepelijk besluit niet tot het algemeen bestuur is toegelaten;
 
-- e. die lid is van het algemeen bestuur of als zodanig benoemd is verklaard, terwijl over zijn toelating als lid nog niet onherroepelijk is beslist, tenzij hij is benoemd tot vervanger voor de plaats die is opengevallen als gevolg van een tijdelijk ontslag als bedoeld in [artikel 2.118](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=20&artikel=2.118&z=2010-01-01&g=2010-02-27);
+- e. die lid is van het algemeen bestuur of als zodanig benoemd is verklaard, terwijl over zijn toelating als lid nog niet onherroepelijk is beslist, tenzij hij is benoemd tot vervanger voor de plaats die is opengevallen als gevolg van een tijdelijk ontslag als bedoeld in [artikel 2.118](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=20&artikel=2.118&z=2010-07-01&g=2010-07-01);
 
 - f. van wie door de voorzitter van het stembureau een schriftelijke verklaring is ontvangen dat hij niet voor benoeming in aanmerking wenst te komen;
 
@@ -856,15 +860,15 @@ Wanneer, anders dan bij de vaststelling van de uitslag van een verkiezing, in ee
 
 ##### Artikel 2.110
 
-1. Indien bij de toepassing van deze paragraaf geen kandidaat meer voor benoeming in aanmerking komt op de lijst waarop degene is gekozen die moet worden opgevolgd, en deze lijst tezamen met één of meer andere lijsten een lijstencombinatie vormt, gaat de zetel door toepassing van [artikel 2.81](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=14&artikel=2.81&z=2010-01-01&g=2010-02-27) over op één van die andere lijsten. De kandidaat van deze lijst die naar de volgorde, vastgesteld overeenkomstig [artikel 2.87](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=15&artikel=2.87&z=2010-01-01&g=2010-02-27), voor benoeming in aanmerking komt, wordt benoemd verklaard. Komt ook op deze lijst geen kandidaat meer voor benoeming in aanmerking, dan wordt de plaats aan een andere van de combinatie deel uitmakende lijst toegekend door verdere toepassing van het in dit artikel bepaalde, en zo vervolgens.
+1. Indien bij de toepassing van deze paragraaf geen kandidaat meer voor benoeming in aanmerking komt op de lijst waarop degene is gekozen die moet worden opgevolgd, en deze lijst tezamen met één of meer andere lijsten een lijstencombinatie vormt, gaat de zetel door toepassing van [artikel 2.81](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=14&artikel=2.81&z=2010-07-01&g=2010-07-01) over op één van die andere lijsten. De kandidaat van deze lijst die naar de volgorde, vastgesteld overeenkomstig [artikel 2.87](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=15&artikel=2.87&z=2010-07-01&g=2010-07-01), voor benoeming in aanmerking komt, wordt benoemd verklaard. Komt ook op deze lijst geen kandidaat meer voor benoeming in aanmerking, dan wordt de plaats aan een andere van de combinatie deel uitmakende lijst toegekend door verdere toepassing van het in dit artikel bepaalde, en zo vervolgens.
 
 2. Indien bij de toepassing van het eerste lid op geen van de lijsten een kandidaat meer voor benoeming in aanmerking komt, beslist de voorzitter van het stembureau dat geen opvolger kan worden benoemd.
 
 ##### Artikel 2.111
 
-1. Indien de toepassing van [artikel 2.110](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=18&artikel=2.110&z=2010-01-01&g=2010-02-27) tot een beslissing door het lot aanleiding geeft, zal de loting plaats hebben in een zitting van het stembureau.
+1. Indien de toepassing van [artikel 2.110](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=18&artikel=2.110&z=2010-07-01&g=2010-07-01) tot een beslissing door het lot aanleiding geeft, zal de loting plaats hebben in een zitting van het stembureau.
 
-2. Op de in het eerste lid bedoelde zitting vinden de [artikelen 2.89](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=16&artikel=2.89&z=2010-01-01&g=2010-02-27) en [2.91](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=16&artikel=2.91&z=2010-01-01&g=2010-02-27) overeenkomstige toepassing.
+2. Op de in het eerste lid bedoelde zitting vinden de [artikelen 2.89](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=16&artikel=2.89&z=2010-07-01&g=2010-07-01) en [2.91](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=16&artikel=2.91&z=2010-07-01&g=2010-07-01) overeenkomstige toepassing.
 
 ##### Artikel 2.112
 
@@ -896,7 +900,7 @@ Het lid dat zijn ontslag heeft ingezonden, houdt op lid te zijn met ingang van d
 
 ##### Artikel 2.117
 
-[Artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=3&artikel=2.14&z=2010-01-01&g=2010-02-27) is van toepassing op een besluit als bedoeld in de [artikelen X 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_5) en [X 8 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_8) ingeval de situatie genoemd in de [artikelen 31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=31), en [33, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=33) optreedt.
+[Artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=3&artikel=2.14&z=2010-07-01&g=2010-07-01) is van toepassing op een besluit als bedoeld in de [artikelen X 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_5) en [X 8 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_8) ingeval de situatie genoemd in de [artikelen 31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=31), en [33, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=33) optreedt.
 
 #### § 20. Tijdelijk ontslag en vervanging wegens zwangerschap en bevalling of ziekte
 
@@ -912,9 +916,9 @@ Het lid dat zijn ontslag heeft ingezonden, houdt op lid te zijn met ingang van d
 
 ##### Artikel 2.119
 
-1. De voorzitter van het waterschap beslist op een verzoek tot tijdelijk ontslag als bedoeld in [artikel 2.118, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=20&artikel=2.118&z=2010-01-01&g=2010-02-27), zo spoedig mogelijk, doch uiterlijk op de veertiende dag na indiening van het verzoek.
+1. De voorzitter van het waterschap beslist op een verzoek tot tijdelijk ontslag als bedoeld in [artikel 2.118, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=20&artikel=2.118&z=2010-07-01&g=2010-07-01), zo spoedig mogelijk, doch uiterlijk op de veertiende dag na indiening van het verzoek.
 
-2. De beslissing op het verzoek tot tijdelijk ontslag geschiedt in overeenstemming met de verklaring van de arts of verloskundige, bedoeld in [artikel 2.118, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=20&artikel=2.118&z=2010-01-01&g=2010-02-27).
+2. De beslissing op het verzoek tot tijdelijk ontslag geschiedt in overeenstemming met de verklaring van de arts of verloskundige, bedoeld in [artikel 2.118, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=20&artikel=2.118&z=2010-07-01&g=2010-07-01).
 
 3. Een beslissing tot tijdelijk ontslag bevat de dag van ingang van het ontslag.
 
@@ -922,7 +926,7 @@ Het lid dat zijn ontslag heeft ingezonden, houdt op lid te zijn met ingang van d
 
 ##### Artikel 2.120
 
-1. De voorzitter van het stembureau benoemt een vervanger voor de plaats die is opengevallen als gevolg van een tijdelijk ontslag als bedoeld in deze paragraaf. Op deze benoeming zijn de [paragrafen 17 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=17&z=2010-01-01&g=2010-02-27) van overeenkomstige toepassing, met dien verstande dat in afwijking van [artikel 2.96, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=17&artikel=2.96&z=2010-01-01&g=2010-02-27), de benoeming uiterlijk op de tiende dag na de dagtekening van de kennisgeving van benoeming wordt aangenomen.
+1. De voorzitter van het stembureau benoemt een vervanger voor de plaats die is opengevallen als gevolg van een tijdelijk ontslag als bedoeld in deze paragraaf. Op deze benoeming zijn de [paragrafen 17 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=17&z=2010-07-01&g=2010-07-01) van overeenkomstige toepassing, met dien verstande dat in afwijking van [artikel 2.96, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=17&artikel=2.96&z=2010-07-01&g=2010-07-01), de benoeming uiterlijk op de tiende dag na de dagtekening van de kennisgeving van benoeming wordt aangenomen.
 
 2. Degene die als vervanger is benoemd, houdt op lid te zijn met ingang van de dag waarop zestien weken zijn verstreken sinds de dag van ingang van het tijdelijk ontslag, onverminderd de mogelijkheid dat het vervangend lidmaatschap ingevolge dit besluit op een eerder tijdstip eindigt.
 
@@ -932,15 +936,15 @@ Het lid dat zijn ontslag heeft ingezonden, houdt op lid te zijn met ingang van d
 
 ##### Artikel 2.121
 
-Een openbare kennisgeving, als bedoeld in de [artikelen 2.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2010-01-01&g=2010-02-27), [2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=3&artikel=2.13&z=2010-01-01&g=2010-02-27), [2.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=4&artikel=2.16&z=2010-01-01&g=2010-02-27), [2.41](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=7&artikel=2.41&z=2010-01-01&g=2010-02-27), [2.43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=8&artikel=2.43&z=2010-01-01&g=2010-02-27), [2.52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=10&artikel=2.52&z=2010-01-01&g=2010-02-27), en [2.92](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=16&artikel=2.92&z=2010-01-01&g=2010-02-27) geschiedt op de in het waterschap gebruikelijke wijze.
+Een openbare kennisgeving, als bedoeld in de [artikelen 2.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2010-07-01&g=2010-07-01), [2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=3&artikel=2.13&z=2010-07-01&g=2010-07-01), [2.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=4&artikel=2.16&z=2010-07-01&g=2010-07-01), [2.41](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=7&artikel=2.41&z=2010-07-01&g=2010-07-01), [2.43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=8&artikel=2.43&z=2010-07-01&g=2010-07-01), [2.52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=10&artikel=2.52&z=2010-07-01&g=2010-07-01), en [2.92](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=16&artikel=2.92&z=2010-07-01&g=2010-07-01) geschiedt op de in het waterschap gebruikelijke wijze.
 
 ##### Artikel 2.122
 
-Een besluit als bedoeld in de [artikelen 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2010-01-01&g=2010-02-27), [2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=3&artikel=2.11&z=2010-01-01&g=2010-02-27), [2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=3&artikel=2.12&z=2010-01-01&g=2010-02-27), [2.31](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=5&artikel=2.31&z=2010-01-01&g=2010-02-27), [2.117](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=19&artikel=2.117&z=2010-01-01&g=2010-02-27), alsmede een besluit dat is genomen op grond van de ministeriële regeling, bedoeld in [artikel 2.45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=9&artikel=2.45&z=2010-01-01&g=2010-02-27), is een besluit als bedoeld in [artikel 21, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=21).
+Een besluit als bedoeld in de [artikelen 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2010-07-01&g=2010-07-01), [2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=3&artikel=2.11&z=2010-07-01&g=2010-07-01), [2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=3&artikel=2.12&z=2010-07-01&g=2010-07-01), [2.31](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=5&artikel=2.31&z=2010-07-01&g=2010-07-01), [2.117](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=19&artikel=2.117&z=2010-07-01&g=2010-07-01), alsmede een besluit dat is genomen op grond van de ministeriële regeling, bedoeld in [artikel 2.45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=9&artikel=2.45&z=2010-07-01&g=2010-07-01), is een besluit als bedoeld in [artikel 21, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=21).
 
 ##### Artikel 2.123
 
-De [paragrafen 17 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=17&z=2010-01-01&g=2010-02-27) zijn van overeenkomstige toepassing op de leden van het algemeen bestuur die zijn benoemd door de organisaties, bedoeld in [artikel 14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=14).
+De [paragrafen 17 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=17&z=2010-07-01&g=2010-07-01) zijn van overeenkomstige toepassing op de leden van het algemeen bestuur die zijn benoemd door de organisaties, bedoeld in [artikel 14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=14).
 
 ##### Artikel 2.124
 
@@ -968,7 +972,7 @@ Bij de instelling van een waterschap kan bij reglement worden bepaald dat wordt 
 
 **tijdsbestedingsnorm**: het deel van de werkweek dat de voorzitter in staat dient te worden gesteld aan het voorzitterschap te besteden, uitgedrukt in een percentage van een voltijdsfunctie;
 
-**tijdstip van beëindiging van het lidmaatschap van het algemeen bestuur**: tijdstip van beëindiging van het lidmaatschap, bedoeld in de [artikelen 23, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=23), [artikel 33, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=33) juncto [artikel X 8, eerste tot en met vijfde lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_8), en de [artikelen 2.114](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=19&artikel=2.114&z=2010-01-01&g=2010-02-27) en [2.116](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=19&artikel=2.116&z=2010-01-01&g=2010-02-27);
+**tijdstip van beëindiging van het lidmaatschap van het algemeen bestuur**: tijdstip van beëindiging van het lidmaatschap, bedoeld in de [artikelen 23, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=23), [artikel 33, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=33) juncto [artikel X 8, eerste tot en met vijfde lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_8), en de [artikelen 2.114](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=19&artikel=2.114&z=2010-07-01&g=2010-07-01) en [2.116](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=19&artikel=2.116&z=2010-07-01&g=2010-07-01);
 
 **tijdstip van beëindiging van het lidmaatschap van het dagelijks bestuur**: tijdstip van beëindiging van het lidmaatschap van het algemeen bestuur en het tijdstip van beëindiging, bedoeld in [artikel 41, vierde en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=41);
 
@@ -986,7 +990,7 @@ Bij de instelling van een waterschap kan bij reglement worden bepaald dat wordt 
 
 ##### Artikel 3.3
 
-Het algemeen bestuur kan bij verordening tot ten hoogste 20% naar beneden afwijken van de vergoeding, bedoeld in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.2&z=2010-01-01&g=2010-02-27).
+Het algemeen bestuur kan bij verordening tot ten hoogste 20% naar beneden afwijken van de vergoeding, bedoeld in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.2&z=2010-07-01&g=2010-07-01).
 
 ##### Artikel 3.4
 
@@ -1016,9 +1020,9 @@ Het algemeen bestuur kan bij verordening bepalen dat een lid van het algemeen be
 
 ##### Artikel 3.10
 
-1. De artikelen van deze paragraaf zijn van overeenkomstige toepassing op het lid van het algemeen bestuur aan wie ingevolge [artikel 2.118](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=20&artikel=2.118&z=2010-01-01&g=2010-02-27) tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte, met dien verstande dat, indien toepassing is gegeven aan [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2010-01-01&g=2010-02-27), dit lid een uitkering ontvangt voor alle vergaderingen die gedurende het tijdelijk ontslag plaatsvinden of hebben plaatsgevonden.
+1. De artikelen van deze paragraaf zijn van overeenkomstige toepassing op het lid van het algemeen bestuur aan wie ingevolge [artikel 2.118](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=20&artikel=2.118&z=2010-07-01&g=2010-07-01) tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte, met dien verstande dat, indien toepassing is gegeven aan [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2010-07-01&g=2010-07-01), dit lid een uitkering ontvangt voor alle vergaderingen die gedurende het tijdelijk ontslag plaatsvinden of hebben plaatsgevonden.
 
-2. Een tijdelijk ontslag als bedoeld in [artikel 2.118](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=20&artikel=2.118&z=2010-01-01&g=2010-02-27) wordt niet aangemerkt als beëindiging van het lidmaatschap van het algemeen bestuur als bedoeld in [artikel 3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.5&z=2010-01-01&g=2010-02-27).
+2. Een tijdelijk ontslag als bedoeld in [artikel 2.118](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=20&artikel=2.118&z=2010-07-01&g=2010-07-01) wordt niet aangemerkt als beëindiging van het lidmaatschap van het algemeen bestuur als bedoeld in [artikel 3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.5&z=2010-07-01&g=2010-07-01).
 
 #### § 3. Bezoldiging en tegemoetkoming in kosten leden dagelijks bestuur waterschap
 
@@ -1070,7 +1074,7 @@ kunnen de naar het oordeel van dagelijks bestuur noodzakelijk gemaakte kosten va
 
 ##### Artikel 3.17
 
-[Artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.9&z=2010-01-01&g=2010-02-27) en [artikel 3.40, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.40&z=2010-01-01&g=2010-02-27), zijn van overeenkomstige toepassing.
+[Artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.9&z=2010-07-01&g=2010-07-01) en [artikel 3.40, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.40&z=2010-07-01&g=2010-07-01), zijn van overeenkomstige toepassing.
 
 #### § 3. Bezoldiging en tegemoetkoming in kosten leden dagelijks bestuur waterschap
 
@@ -1224,9 +1228,9 @@ Vervallen
 
 1. De voorzitter heeft ten laste van het waterschap recht op een uitkering:
 
-- a. bij eervol ontslag op grond van [artikel 3.21, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.21&z=2010-01-01&g=2010-02-27);
+- a. bij eervol ontslag op grond van [artikel 3.21, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.21&z=2010-07-01&g=2010-07-01);
 
-- b. bij eervol ontslag op eigen aanvraag, bij niet-herbenoeming als ook bij een eervol ontslag op grond van [artikel 3.21, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.21&z=2010-01-01&g=2010-02-27), indien naar het oordeel van Onze Minister de reden van het ontslag of de niet-herbenoeming is gelegen in een verstoorde verhouding tussen de voorzitter en het algemeen bestuur.
+- b. bij eervol ontslag op eigen aanvraag, bij niet-herbenoeming als ook bij een eervol ontslag op grond van [artikel 3.21, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.21&z=2010-07-01&g=2010-07-01), indien naar het oordeel van Onze Minister de reden van het ontslag of de niet-herbenoeming is gelegen in een verstoorde verhouding tussen de voorzitter en het algemeen bestuur.
 
 2. Onze Minister wint ter voorbereiding van zijn oordeel advies in van gedeputeerde staten en hij stelt vervolgens de voorzitter in kennis van zijn voornemen omtrent het oordeel.
 
@@ -1246,7 +1250,7 @@ Vervallen
 
 ##### Artikel 3.41
 
-Op de voorzitter zijn de [artikelen 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.9&z=2010-01-01&g=2010-02-27), [3.13 tot en met 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=3&artikel=3.13&z=2010-01-01&g=2010-02-27) van overeenkomstige toepassing.
+Op de voorzitter zijn de [artikelen 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=2&artikel=3.9&z=2010-07-01&g=2010-07-01), [3.13 tot en met 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=3&artikel=3.13&z=2010-07-01&g=2010-07-01) van overeenkomstige toepassing.
 
 ### Hoofdstuk 4. De beleidsvoorbereiding en de verantwoording
 
@@ -1308,13 +1312,13 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Onderdelen van de meerjarenraming, de begroting, de jaarverslaggeving en de uitvoeringsinformatie die krachtens dit besluit worden onderscheiden, maar die voor een waterschap niet van toepassing zijn, kunnen worden weggelaten.
 
-4. Indien dit noodzakelijk is voor het in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=1&artikel=4.3&z=2010-01-01&g=2010-02-27) bedoelde inzicht, kan een waterschap afwijken van de krachtens de [paragrafen 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&z=2010-01-01&g=2010-02-27) van dit hoofdstuk gestelde eisen aan de inrichting. Deze afwijking wordt in de toelichting op het betreffende onderdeel van de meerjarenraming, de begroting, de jaarverslaggeving en de uitvoeringsinformatie vermeld.
+4. Indien dit noodzakelijk is voor het in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=1&artikel=4.3&z=2010-07-01&g=2010-07-01) bedoelde inzicht, kan een waterschap afwijken van de krachtens de [paragrafen 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&z=2010-07-01&g=2010-07-01) van dit hoofdstuk gestelde eisen aan de inrichting. Deze afwijking wordt in de toelichting op het betreffende onderdeel van de meerjarenraming, de begroting, de jaarverslaggeving en de uitvoeringsinformatie vermeld.
 
 ##### Artikel 4.5
 
 1. Verbonden partijen worden niet geconsolideerd in de begroting en jaarverslaggeving.
 
-2. Het eerste lid is niet van toepassing op rechtspersonen die zijn opgericht ten behoeve van de in [artikel 4.42, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.42&z=2010-01-01&g=2010-02-27), bedoelde activa en waarin het waterschap het volledige financieel belang alsmede de feitelijke zeggenschap heeft.
+2. Het eerste lid is niet van toepassing op rechtspersonen die zijn opgericht ten behoeve van de in [artikel 4.42, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.42&z=2010-07-01&g=2010-07-01), bedoelde activa en waarin het waterschap het volledige financieel belang alsmede de feitelijke zeggenschap heeft.
 
 #### § 2. De meerjarenraming en de toelichting
 
@@ -1344,7 +1348,7 @@ In de toelichting op de meerjarenraming wordt ten minste afzonderlijke aandacht 
 
 - e. het weerstandsvermogen, waarbij wordt ingegaan op aard, stand en verloop van de algemene reserves en de voorzieningen;
 
-- f. de ontwikkeling van de waterschapsbelastingen in de komende jaren, mede in relatie tot de stand en het verloop van de bestemmingsreserves voor tariefsegalisatie, als bedoeld in [artikel 4.52, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.52&z=2010-01-01&g=2010-02-27).
+- f. de ontwikkeling van de waterschapsbelastingen in de komende jaren, mede in relatie tot de stand en het verloop van de bestemmingsreserves voor tariefsegalisatie, als bedoeld in [artikel 4.52, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.52&z=2010-07-01&g=2010-07-01).
 
 ##### Artikel 4.8
 
@@ -1440,13 +1444,13 @@ De paragraaf betreffende de incidentele baten en lasten bevat een overzicht van 
 
 In de paragraaf betreffende de kostentoerekening wordt ingegaan op de principes die zijn gehanteerd bij de toerekening van kosten aan de kostendragers. Deze paragraaf bevat in ieder geval:
 
-- a. de wijze waarop uitvoering is gegeven aan de in [artikel 4.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=1&artikel=4.2&z=2010-01-01&g=2010-02-27), bedoelde eis;
+- a. de wijze waarop uitvoering is gegeven aan de in [artikel 4.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=1&artikel=4.2&z=2010-07-01&g=2010-07-01), bedoelde eis;
 
 - b. de kwantitatieve grondslagen die als onderdeel van de kostentoerekening zijn gehanteerd.
 
 ##### Artikel 4.16
 
-In de paragraaf betreffende de onttrekkingen aan overige bestemmingsreserves en voorzieningen wordt ingegaan op de bedragen die rechtstreeks uit voorzieningen worden onttrokken alsmede op het beroep dat op de overige bestemmingsreserves, bedoeld in [artikel 4.52, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.52&z=2010-01-01&g=2010-02-27), wordt gedaan.
+In de paragraaf betreffende de onttrekkingen aan overige bestemmingsreserves en voorzieningen wordt ingegaan op de bedragen die rechtstreeks uit voorzieningen worden onttrokken alsmede op het beroep dat op de overige bestemmingsreserves, bedoeld in [artikel 4.52, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.52&z=2010-07-01&g=2010-07-01), wordt gedaan.
 
 ##### Artikel 4.17
 
@@ -1456,7 +1460,7 @@ De paragraaf betreffende de waterschapsbelastingen bevat ten minste:
 
 - b. een beschrijving van het kwijtscheldingsbeleid;
 
-- c. de mate van kostendekkendheid van de diverse belastingen, waarbij wordt ingegaan op de stand aan het begin, de mutaties en de stand aan het eind van het begrotingsjaar van de bestemmingsreserves voor tariefsegalisatie, bedoeld in [artikel 4.52, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.52&z=2010-01-01&g=2010-02-27);
+- c. de mate van kostendekkendheid van de diverse belastingen, waarbij wordt ingegaan op de stand aan het begin, de mutaties en de stand aan het eind van het begrotingsjaar van de bestemmingsreserves voor tariefsegalisatie, bedoeld in [artikel 4.52, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.52&z=2010-07-01&g=2010-07-01);
 
 - d. de geraamde opbrengsten;
 
@@ -1570,7 +1574,7 @@ In een besluit tot wijziging van de begroting wordt in ieder geval aandacht best
 
 ##### Artikel 4.28
 
-De jaarverslaggeving wordt vastgesteld met inachtneming van hetgeen omtrent de financiële positie op de balansdatum is gebleken tussen het moment van opmaken van de verslaggeving en het tijdstip van vaststelling daarvan, voor zover deze aanvullende informatie onontbeerlijk is voor het in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=1&artikel=4.3&z=2010-01-01&g=2010-02-27) bedoelde inzicht.
+De jaarverslaggeving wordt vastgesteld met inachtneming van hetgeen omtrent de financiële positie op de balansdatum is gebleken tussen het moment van opmaken van de verslaggeving en het tijdstip van vaststelling daarvan, voor zover deze aanvullende informatie onontbeerlijk is voor het in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=1&artikel=4.3&z=2010-07-01&g=2010-07-01) bedoelde inzicht.
 
 ##### Artikel 4.29
 
@@ -1590,9 +1594,9 @@ De jaarverslaggeving wordt vastgesteld met inachtneming van hetgeen omtrent de f
 
 ##### Artikel 4.30
 
-1. Het jaarverslag bevat ten minste de paragrafen die ingevolge [artikel 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&artikel=4.11&z=2010-01-01&g=2010-02-27), in de begroting zijn opgenomen, met dien verstande dat in plaats van [onderdeel a van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&artikel=4.11&z=2010-01-01&g=2010-02-27) een paragraaf betreffende de ontwikkelingen in het vorig begrotingsjaar wordt opgenomen, met uitzondering van de [onderdelen b en d, van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&artikel=4.11&z=2010-01-01&g=2010-02-27), alsmede een paragraaf betreffende topinkomens. Ze bevatten de verantwoording van hetgeen in de overeenkomstige paragrafen in de begroting is opgenomen.
+1. Het jaarverslag bevat ten minste de paragrafen die ingevolge [artikel 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&artikel=4.11&z=2010-07-01&g=2010-07-01), in de begroting zijn opgenomen, met dien verstande dat in plaats van [onderdeel a van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&artikel=4.11&z=2010-07-01&g=2010-07-01) een paragraaf betreffende de ontwikkelingen in het vorig begrotingsjaar wordt opgenomen, met uitzondering van de [onderdelen b en d, van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&artikel=4.11&z=2010-07-01&g=2010-07-01), alsmede een paragraaf betreffende topinkomens. Ze bevatten de verantwoording van hetgeen in de overeenkomstige paragrafen in de begroting is opgenomen.
 
-2. In de paragraaf betreffende het EMU-saldo wordt de in [artikel 4.22](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&artikel=4.22&z=2010-01-01&g=2010-02-27) bedoelde specificatie opgenomen voor het begrotingsjaar en volgens de realisatie van het vorige begrotingsjaar.
+2. In de paragraaf betreffende het EMU-saldo wordt de in [artikel 4.22](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&artikel=4.22&z=2010-07-01&g=2010-07-01) bedoelde specificatie opgenomen voor het begrotingsjaar en volgens de realisatie van het vorige begrotingsjaar.
 
 3. In de paragraaf betreffende topinkomens wordt de informatie opgenomen, bedoeld in [artikel 6, eerste en tweede lid, van de Wet openbaarmaking uit publieke middelen gefinancierde topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0019562&artikel=6).
 
@@ -1624,7 +1628,7 @@ De exploitatierekening naar programma’s bevat een overzicht van de gerealiseer
 
 ##### Artikel 4.33
 
-De toelichting op de exploitatierekening naar kostendragers bevat ten minste voor alle onderdelen van [artikel 4.32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&artikel=4.32&z=2010-01-01&g=2010-02-27), een analyse van de afwijkingen tussen de exploitatierekening en de begroting.
+De toelichting op de exploitatierekening naar kostendragers bevat ten minste voor alle onderdelen van [artikel 4.32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&artikel=4.32&z=2010-07-01&g=2010-07-01), een analyse van de afwijkingen tussen de exploitatierekening en de begroting.
 
 ##### Artikel 4.34
 
@@ -1992,7 +1996,7 @@ In de toelichting op de balans worden de netto-vlottende schulden met een loopti
 
 ##### Artikel 4.61
 
-De aard en omvang van de aangebrachte dan wel geraamde waardeverminderingen van de leningen en vorderingen, bedoeld in [artikel 4.66, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.66&z=2010-01-01&g=2010-02-27), van de vaste activa, bedoeld in [artikel 4.68, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.68&z=2010-01-01&g=2010-02-27), en van de deelnemingen en voorraden, bedoeld in [artikel 4.68, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.68&z=2010-01-01&g=2010-02-27), worden in de toelichting op de balans opgenomen.
+De aard en omvang van de aangebrachte dan wel geraamde waardeverminderingen van de leningen en vorderingen, bedoeld in [artikel 4.66, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.66&z=2010-07-01&g=2010-07-01), van de vaste activa, bedoeld in [artikel 4.68, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.68&z=2010-07-01&g=2010-07-01), en van de deelnemingen en voorraden, bedoeld in [artikel 4.68, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.68&z=2010-07-01&g=2010-07-01), worden in de toelichting op de balans opgenomen.
 
 ##### Artikel 4.62
 
@@ -2030,7 +2034,7 @@ Bijdragen aan activa in eigendom van derden kunnen worden geactiveerd indien:
 
 ##### Artikel 4.66
 
-1. Activa worden gewaardeerd op basis van de verkrijgings- of vervaardigingsprijs, met inachtneming van [artikel 4.65, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.65&z=2010-01-01&g=2010-02-27).
+1. Activa worden gewaardeerd op basis van de verkrijgings- of vervaardigingsprijs, met inachtneming van [artikel 4.65, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.65&z=2010-07-01&g=2010-07-01).
 
 2. De verkrijgingsprijs omvat de inkoopprijs en de bijkomende kosten.
 
@@ -2054,11 +2058,11 @@ Bijdragen aan activa in eigendom van derden kunnen worden geactiveerd indien:
 
 3. Op vaste activa met een beperkte gebruiksduur wordt jaarlijks afgeschreven volgens een stelsel dat is afgestemd op de verwachte toekomstige gebruiksduur.
 
-4. In afwijking van het derde lid is de afschrijvingsduur voor de immateriële vaste activa, bedoeld in [artikel 4.41, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.41&z=2010-01-01&g=2010-02-27), maximaal gelijk aan de looptijd van de lening.
+4. In afwijking van het derde lid is de afschrijvingsduur voor de immateriële vaste activa, bedoeld in [artikel 4.41, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.41&z=2010-07-01&g=2010-07-01), maximaal gelijk aan de looptijd van de lening.
 
-5. In afwijking van het derde lid is de afschrijvingsduur voor de immateriële vaste activa, bedoeld in [artikel 4.41, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.41&z=2010-01-01&g=2010-02-27), ten hoogste vijf jaar.
+5. In afwijking van het derde lid is de afschrijvingsduur voor de immateriële vaste activa, bedoeld in [artikel 4.41, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.41&z=2010-07-01&g=2010-07-01), ten hoogste vijf jaar.
 
-6. In afwijking van het derde lid is de afschrijvingsduur voor de immateriële vaste activa, bedoeld in [artikel 4.41, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.41&z=2010-01-01&g=2010-02-27), ten hoogste vijf jaar, tenzij gemotiveerd wordt dat een andere periode passender is.
+6. In afwijking van het derde lid is de afschrijvingsduur voor de immateriële vaste activa, bedoeld in [artikel 4.41, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.41&z=2010-07-01&g=2010-07-01), ten hoogste vijf jaar, tenzij gemotiveerd wordt dat een andere periode passender is.
 
 ##### Artikel 4.68
 
@@ -2140,7 +2144,7 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld ten aanzien van d
 
 ##### Artikel 4.75
 
-Indien de informatie voor derden niet voldoende inzicht biedt, kan Onze Minister een deelverantwoording als bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=5&artikel=5.1&z=2010-01-01&g=2010-02-27) van het waterschap vragen.
+Indien de informatie voor derden niet voldoende inzicht biedt, kan Onze Minister een deelverantwoording als bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=5&artikel=5.1&z=2010-07-01&g=2010-07-01) van het waterschap vragen.
 
 ### Hoofdstuk 5. De accountantscontrole
 
@@ -2178,9 +2182,9 @@ Naast de kwantitatieve fouten en onzekerheden in de controle houdt de accountant
 
 ##### Artikel 5.4
 
-1. Voor de formulering van de goedkeurende accountantsverklaring hanteert de accountant het model zoals opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&bijlage=I&z=2010-01-01&g=2010-02-27) bij dit besluit.
+1. Voor de formulering van de goedkeurende accountantsverklaring hanteert de accountant het model zoals opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&bijlage=I&z=2010-07-01&g=2010-07-01) bij dit besluit.
 
-2. Voor de strekking van de accountantsverklaring hanteert de accountant de uitgangspunten en de tabel, zoals opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&bijlage=II&z=2010-01-01&g=2010-02-27) bij dit besluit.
+2. Voor de strekking van de accountantsverklaring hanteert de accountant de uitgangspunten en de tabel, zoals opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&bijlage=II&z=2010-07-01&g=2010-07-01) bij dit besluit.
 
 ##### Artikel 5.5
 
@@ -2230,9 +2234,9 @@ De waarde van de ongebouwde onroerende zaken, niet zijnde natuurterreinen, is de
 
 ##### Artikel 6.4
 
-1. De waarde van elk van de categorieën ongebouwde zaken, bedoeld in [artikel 6.3, onderdelen a en c tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2010-01-01&g=2010-02-27), is het product van de oppervlakte in hectaren en de gemiddelde waarde per hectare van de desbetreffende categorie ongebouwde zaken binnen het gebied van het waterschap.
+1. De waarde van elk van de categorieën ongebouwde zaken, bedoeld in [artikel 6.3, onderdelen a en c tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2010-07-01&g=2010-07-01), is het product van de oppervlakte in hectaren en de gemiddelde waarde per hectare van de desbetreffende categorie ongebouwde zaken binnen het gebied van het waterschap.
 
-2. De waarde van de categorie ongebouwde zaken, bedoeld in [artikel 6.3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2010-01-01&g=2010-02-27), is het product van de oppervlakte in hectaren en het gewogen gemiddelde van de waarden per hectare van de:
+2. De waarde van de categorie ongebouwde zaken, bedoeld in [artikel 6.3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2010-07-01&g=2010-07-01), is het product van de oppervlakte in hectaren en het gewogen gemiddelde van de waarden per hectare van de:
 
 - a. autosnelwegen;
 
@@ -2252,9 +2256,9 @@ inclusief kunstwerken, binnen het gebied van het waterschap.
 
 ##### Artikel 6.6
 
-1. De gemiddelde waarde per hectare en de in aanmerking te nemen oppervlakte van de categorieën ongebouwde zaken, bedoeld in [artikel 6.3, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2010-01-01&g=2010-02-27), omvat de waarde en de oppervlakte van de kadastrale percelen waarin zij zijn gelegen, met uitzondering van de delen van die percelen die ingevolge de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108) worden aangemerkt als gebouwde onroerende zaken of als natuurterreinen of die niet dienstbaar zijn aan de verkeersfunctie van deze ongebouwde zaken.
+1. De gemiddelde waarde per hectare en de in aanmerking te nemen oppervlakte van de categorieën ongebouwde zaken, bedoeld in [artikel 6.3, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2010-07-01&g=2010-07-01), omvat de waarde en de oppervlakte van de kadastrale percelen waarin zij zijn gelegen, met uitzondering van de delen van die percelen die ingevolge de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108) worden aangemerkt als gebouwde onroerende zaken of als natuurterreinen of die niet dienstbaar zijn aan de verkeersfunctie van deze ongebouwde zaken.
 
-2. De waarde van elk van de categorieën ongebouwde zaken, bedoeld in [artikel 6.3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2010-01-01&g=2010-02-27), en [artikel 6.4, tweede lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.4&z=2010-01-01&g=2010-02-27), wordt gesteld op 75% van de vervangingswaarde.
+2. De waarde van elk van de categorieën ongebouwde zaken, bedoeld in [artikel 6.3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2010-07-01&g=2010-07-01), en [artikel 6.4, tweede lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.4&z=2010-07-01&g=2010-07-01), wordt gesteld op 75% van de vervangingswaarde.
 
 ##### Artikel 6.7
 
@@ -2262,7 +2266,7 @@ De gemiddelde waarde per hectare van bouwpercelen wordt bepaald op basis van de 
 
 ##### Artikel 6.8
 
-De gemiddelde waarde per hectare van de ongebouwde onroerende zaken, bedoeld in [artikel 6.3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2010-01-01&g=2010-02-27), wordt gesteld op de gemiddelde waarde per hectare van de agrarische gronden binnen het gebied van het waterschap.
+De gemiddelde waarde per hectare van de ongebouwde onroerende zaken, bedoeld in [artikel 6.3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2010-07-01&g=2010-07-01), wordt gesteld op de gemiddelde waarde per hectare van de agrarische gronden binnen het gebied van het waterschap.
 
 ##### Artikel 6.9
 
@@ -2312,7 +2316,7 @@ In deze paragraaf wordt verstaan onder:
 
 - a. de heffingplichtige op wie [artikel 122k van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=122k) of [artikel 7.5, vijfde lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.5) in samenhang met dat artikel van toepassing is.
 
-- b. de heffingplichtige op wie [artikel 6.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=2&artikel=6.12&z=2010-01-01&g=2010-02-27), van dit besluit of [7.5, tweede lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.5) van toepassing is.
+- b. de heffingplichtige op wie [artikel 6.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=2&artikel=6.12&z=2010-07-01&g=2010-07-01), van dit besluit of [7.5, tweede lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.5) van toepassing is.
 
 2. De in het eerste lid bedoelde administratieplichtige is verplicht de gegevensdragers, die op basis van het eerste lid tot zijn administratie dienen te behoren, gedurende zeven jaren te bewaren.
 
@@ -2320,7 +2324,7 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 6.15
 
-De in [artikel 6.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=3&artikel=6.14&z=2010-01-01&g=2010-02-27), bedoelde administratieplichtige die niet of niet volledig voldoet aan de vordering van de inspecteur om de in [artikel 6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=3&artikel=6.14&z=2010-01-01&g=2010-02-27) bedoelde gegevensdragers of de inhoud daarvan voor raadpleging beschikbaar te stellen, wordt voor de toepassing van [artikel 25, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=25), en [artikel 27e, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=27e) geacht niet volledig te hebben voldaan aan de verplichting ingevolge [artikel 52 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52), tenzij aannemelijk is dat het niet, dan wel niet volledig voldoen aan de vordering van de inspecteur het gevolg is van overmacht.
+De in [artikel 6.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=3&artikel=6.14&z=2010-07-01&g=2010-07-01), bedoelde administratieplichtige die niet of niet volledig voldoet aan de vordering van de inspecteur om de in [artikel 6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=3&artikel=6.14&z=2010-07-01&g=2010-07-01) bedoelde gegevensdragers of de inhoud daarvan voor raadpleging beschikbaar te stellen, wordt voor de toepassing van [artikel 25, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=25), en [artikel 27e, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=27e) geacht niet volledig te hebben voldaan aan de verplichting ingevolge [artikel 52 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52), tenzij aannemelijk is dat het niet, dan wel niet volledig voldoen aan de vordering van de inspecteur het gevolg is van overmacht.
 
 ##### Artikel 6.16
 
@@ -2370,9 +2374,9 @@ Het [Besluit administratieve verplichtingen waterschapsbelastingen](https://wett
 
 ##### Artikel 7.6
 
-1. In afwijking van [artikel 4.66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.66&z=2010-01-01&g=2010-02-27), worden activa, die op 31 december 2008 tegen actuele waarde zijn gewaardeerd, volgens de op dat moment aanwezige boekwaarde gedurende de nog resterende afschrijvingsperiode afgeschreven. Gevormde herwaarderingsreserves dienen op de boekwaarde in mindering te worden gebracht.
+1. In afwijking van [artikel 4.66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.66&z=2010-07-01&g=2010-07-01), worden activa, die op 31 december 2008 tegen actuele waarde zijn gewaardeerd, volgens de op dat moment aanwezige boekwaarde gedurende de nog resterende afschrijvingsperiode afgeschreven. Gevormde herwaarderingsreserves dienen op de boekwaarde in mindering te worden gebracht.
 
-2. In afwijking van [artikel 4.65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.65&z=2010-01-01&g=2010-02-27), worden alle activa waar voor 1 januari 2009 reserves op in mindering zijn gebracht op de waarde volgens de op 31 december 2008 aanwezige boekwaarde gedurende de nog resterende afschrijvingsperiode afgeschreven.
+2. In afwijking van [artikel 4.65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.65&z=2010-07-01&g=2010-07-01), worden alle activa waar voor 1 januari 2009 reserves op in mindering zijn gebracht op de waarde volgens de op 31 december 2008 aanwezige boekwaarde gedurende de nog resterende afschrijvingsperiode afgeschreven.
 
 #### § 1. Intrekking van andere regelingen
 
@@ -2408,29 +2412,29 @@ In geval van een goedkeuring van de jaarrekening (goedkeurend getrouwheidsconclu
 
 ### Accountantsverklaring
 
-Onze verantwoordelijkheid is het geven van een oordeel over de jaarrekening op basis van onze controle, als bedoeld in [artikel 109, tweede lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=109). Wij hebben onze controle verricht in overeenstemming met Nederlands recht, waaronder [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&z=2007-12-29&g=2007-12-29) van het Waterschapsbesluit. 3Indien van toepassing ook verwijzen naar het door het waterschap opgestelde controleprotocol. Dienovereenkomstig zijn wij verplicht te voldoen aan de voor ons geldende gedragsnormen en zijn wij gehouden onze controle zodanig te plannen en uit te voeren dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening geen afwijkingen van materieel belang bevat.
+In [artikel 109, derde lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=109) zijn de elementen opgenomen, die de accountant in de accountantsverklaring moet opnemen.
 
-Wij hebben de (in dit rapport/verslag opgenomen 1Verwijzing kan geschieden met behulp van paginanummers.) jaarrekening.. (jaartal) van waterschap.. (naam waterschap), bestaande uit de balans per 31 december .... (jaartal) en de exploitatierekeningen naar programma´s, naar kostendragers en naar kosten- en opbrengstsoorten over .... (jaartal) met de toelichtingen 2De te noemen onderdelen van de jaarrekening moeten worden afgestemd op de inhoudsopgave van de jaarrekening., gecontroleerd.
+In geval van een goedkeuring van de jaarrekening (goedkeurend getrouwheidsconclusie en geen materiële onrechtmatigheden en/of onzekerheden over de rechtmatigheid; fout ≤ 1%; onzekerheid ≤ 3%) dient bij het opstellen van de accountantsverklaring de volgende tekst te worden aangehouden door de accountant.
 
-Wij hebben de (in dit rapport/verslag opgenomen 1Verwijzing kan geschieden met behulp van paginanummers.) jaarrekening.. (jaartal) van waterschap.. (naam waterschap), bestaande uit de balans per 31 december .... (jaartal) en de exploitatierekeningen naar programma´s, naar kostendragers en naar kosten- en opbrengstsoorten over .... (jaartal) met de toelichtingen 2De te noemen onderdelen van de jaarrekening moeten worden afgestemd op de inhoudsopgave van de jaarrekening., gecontroleerd.
+Aan: Opdrachtgever
 
 Het dagelijks bestuur van waterschap .... (naam waterschap) is verantwoordelijk voor het opmaken van de jaarrekening, alsmede voor het opstellen van het jaarverslag, beide in overeenstemming met [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&z=2008-04-16&g=2008-04-16) van het Waterschapsbesluit.
 
-### **Oordeel**
+### Verklaring betreffende de jaarrekening
 
-Deze houdt onder meer in dat de jaarrekening zowel de baten en lasten als de activa en passiva getrouw dient weer te geven en dat de in de jaarrekening verantwoorde baten, lasten en balansmutaties rechtmatig tot stand zijn gekomen. Rechtmatige totstandkoming betekent in overeenstemming met de begroting en met de van toepassing zijnde wettelijke regelingen waaronder verordeningen van het waterschap zelf.
+Wij hebben de (in dit rapport/verslag opgenomen 1Verwijzing kan geschieden met behulp van paginanummers.) jaarrekening.. (jaartal) van waterschap.. (naam waterschap), bestaande uit de balans per 31 december .... (jaartal) en de exploitatierekeningen naar programma´s, naar kostendragers en naar kosten- en opbrengstsoorten over .... (jaartal) met de toelichtingen 2De te noemen onderdelen van de jaarrekening moeten worden afgestemd op de inhoudsopgave van de jaarrekening., gecontroleerd.
 
 Deze verantwoordelijkheid omvat onder meer: het ontwerpen, invoeren en in stand houden van een intern beheersingssysteem relevant voor het opmaken van en getrouw weergeven in de jaarrekening van zowel de baten en lasten als de activa en passiva, zodanig dat deze geen afwijkingen van materieel belang als gevolg van fraude of fouten bevat en voor de naleving van de relevante wet- en regelgeving, het kiezen en toepassen van aanvaardbare grondslagen voor financiële verslaggeving en het maken van schattingen die onder de gegeven omstandigheden redelijk zijn.
 
 ### **Verantwoordelijkheid van de accountant**
 
-Onze verantwoordelijkheid is het geven van een oordeel over de jaarrekening op basis van onze controle, als bedoeld in [artikel 109, tweede lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=109). Wij hebben onze controle verricht in overeenstemming met Nederlands recht, waaronder [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&z=2010-01-01&g=2010-02-27) van het Waterschapsbesluit. 3Indien van toepassing ook verwijzen naar het door het waterschap opgestelde controleprotocol. Dienovereenkomstig zijn wij verplicht te voldoen aan de voor ons geldende gedragsnormen en zijn wij gehouden onze controle zodanig te plannen en uit te voeren dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening geen afwijkingen van materieel belang bevat.
+Deze houdt onder meer in dat de jaarrekening zowel de baten en lasten als de activa en passiva getrouw dient weer te geven en dat de in de jaarrekening verantwoorde baten, lasten en balansmutaties rechtmatig tot stand zijn gekomen. Rechtmatige totstandkoming betekent in overeenstemming met de begroting en met de van toepassing zijnde wettelijke regelingen waaronder verordeningen van het waterschap zelf.
 
-Een controle omvat het uitvoeren van werkzaamheden ter verkrijging van controle-informatie over de bedragen en de toelichtingen in de jaarrekening. De keuze van de uit te voeren werkzaamheden is afhankelijk van de professionele oordeelsvorming van de accountant, waaronder begrepen zijn beoordeling van de risico´s van afwijkingen van materieel belang als gevolg van fraude of fouten. In die beoordeling neemt de accountant in aanmerking het voor het opmaken van en getrouw weergeven in de jaarrekening van zowel de baten en lasten als de activa en passiva, alsmede het voor de naleving van de wet- en regelgeving relevante interne beheersingssysteem, teneinde een verantwoorde keuze te kunnen maken van de controlewerkzaamheden die onder de gegeven omstandigheden adequaat zijn, maar die niet tot doel hebben een oordeel te geven over de effectiviteit van het interne beheersingssysteem van het waterschap. Tevens omvat een controle onder meer een evaluatie van de aanvaardbaarheid van de toegepaste grondslagen voor financiële verslaggeving, van de redelijkheid van schattingen die het dagelijks bestuur van het waterschap heeft gemaakt, en een evaluatie van het algehele beeld van de jaarrekening.
+Deze verantwoordelijkheid omvat onder meer: het ontwerpen, invoeren en in stand houden van een intern beheersingssysteem relevant voor het opmaken van en getrouw weergeven in de jaarrekening van zowel de baten en lasten als de activa en passiva, zodanig dat deze geen afwijkingen van materieel belang als gevolg van fraude of fouten bevat en voor de naleving van de relevante wet- en regelgeving, het kiezen en toepassen van aanvaardbare grondslagen voor financiële verslaggeving en het maken van schattingen die onder de gegeven omstandigheden redelijk zijn.
 
 De bij onze controle toegepaste goedkeuringstolerantie bedraagt voor fouten ...% en voor onzekerheden ...% van de totale bruto-lasten. Deze goedkeuringstolerantie is door het algemeen bestuur bij besluit van .............. (datum, nummer) vastgesteld.
 
-Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is als basis voor ons oordeel
+Onze verantwoordelijkheid is het geven van een oordeel over de jaarrekening op basis van onze controle, als bedoeld in [artikel 109, tweede lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=109). Wij hebben onze controle verricht in overeenstemming met Nederlands recht, waaronder [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&z=2010-07-01&g=2010-07-01) van het Waterschapsbesluit. 3Indien van toepassing ook verwijzen naar het door het waterschap opgestelde controleprotocol. Dienovereenkomstig zijn wij verplicht te voldoen aan de voor ons geldende gedragsnormen en zijn wij gehouden onze controle zodanig te plannen en uit te voeren dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening geen afwijkingen van materieel belang bevat.
 
 ## Bijlage II. goedkeuringstoleranties en strekking accountantsverklaringen, bedoeld in [artikel 5.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=5&artikel=5.4&z=2007-12-29&g=2007-12-29), van het Waterschapsbesluit
 
@@ -2483,7 +2487,7 @@ Het stembureau beslist slechts afwijzend op het verzoek, indien:
 
 1. De beslissing van het stembureau op het verzoek wordt aan de gemachtigde bekendgemaakt. Van de beslissing wordt mededeling gedaan in een plaatselijk verschijnend dag- of nieuwsblad.
 
-2. Een belangengroepering waarvan de aanduiding is ingeschreven in het register, kan schriftelijk een verzoek tot wijziging van deze aanduiding indienen bij het stembureau. [Artikel 2.9, eerste lid, laatste volzin, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=3&artikel=2.9&z=2010-01-01&g=2010-02-27), [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2010-01-01&g=2010-02-27) en het eerste lid zijn op verzoeken tot wijziging van overeenkomstige toepassing.
+2. Een belangengroepering waarvan de aanduiding is ingeschreven in het register, kan schriftelijk een verzoek tot wijziging van deze aanduiding indienen bij het stembureau. [Artikel 2.9, eerste lid, laatste volzin, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=3&artikel=2.9&z=2010-07-01&g=2010-07-01), [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2010-07-01&g=2010-07-01) en het eerste lid zijn op verzoeken tot wijziging van overeenkomstige toepassing.
 
 ##### Artikel 2.12
 
@@ -2495,7 +2499,7 @@ Het stembureau schrapt de aanduiding in het register en doet hiervan mededeling 
 
 - c. de belangengroepering als vereniging of stichting bij onherroepelijke rechterlijke uitspraak verboden is verklaard en ontbonden;
 
-- d. voor de laatstgehouden verkiezing van de leden van het algemeen bestuur geen gebruik is gemaakt van de bevoegdheid, bedoeld in [artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=4&artikel=2.16&z=2010-01-01&g=2010-02-27).
+- d. voor de laatstgehouden verkiezing van de leden van het algemeen bestuur geen gebruik is gemaakt van de bevoegdheid, bedoeld in [artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=4&artikel=2.16&z=2010-07-01&g=2010-07-01).
 
 ##### Artikel 2.13
 
@@ -2503,7 +2507,7 @@ Uiterlijk op de veertiende dag voor de kandidaatstelling brengt het stembureau d
 
 ##### Artikel 2.14
 
-1. Tegen een beschikking als bedoeld in de [artikelen 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2010-01-01&g=2010-02-27), [2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=3&artikel=2.11&z=2010-01-01&g=2010-02-27) of [2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=3&artikel=2.12&z=2010-01-01&g=2010-02-27), kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.
+1. Tegen een beschikking als bedoeld in de [artikelen 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2010-07-01&g=2010-07-01), [2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=3&artikel=2.11&z=2010-07-01&g=2010-07-01) of [2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=3&artikel=2.12&z=2010-07-01&g=2010-07-01), kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.
 
 2. In afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:7) wordt een beroepschrift ingevolge [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) tegen een beschikking als bedoeld in het eerste lid ingediend uiterlijk op de zesde dag na de dagtekening van het dag- of nieuwsblad waarin de beschikking is opgenomen.
 
@@ -2539,7 +2543,7 @@ Bij ministeriële regeling kunnen modellen worden vastgesteld voor de registers 
 
 #### § 20. Tijdelijk ontslag en vervanging wegens zwangerschap en bevalling of ziekte
 
-#### § 21. Overige bepalingen
+#### § 20. Tijdelijk ontslag en vervanging wegens zwangerschap en bevalling of ziekte
 
 ### Hoofdstuk 3. De rechtspositie van de leden van het waterschapsbestuur
 
@@ -2557,7 +2561,7 @@ Bij ministeriële regeling kunnen modellen worden vastgesteld voor de registers 
 
 #### § 2. De meerjarenraming en de toelichting
 
-#### § 3. De begroting en de toelichting
+#### § 2. De meerjarenraming en de toelichting
 
 #### § 4. De jaarverslaggeving en de toelichting
 
@@ -2591,23 +2595,23 @@ Bij ministeriële regeling kunnen modellen worden vastgesteld voor de registers 
 
 Het dagelijks bestuur van waterschap .... (naam waterschap) is verantwoordelijk voor het opmaken van de jaarrekening, alsmede voor het opstellen van het jaarverslag, beide in overeenstemming met [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&z=2010-01-01&g=2010-02-27) van het Waterschapsbesluit.
 
-### **Verantwoordelijkheid van de accountant**
+### **Verantwoordelijkheid van het dagelijks bestuur**
 
-Onze verantwoordelijkheid is het geven van een oordeel over de jaarrekening op basis van onze controle, als bedoeld in [artikel 109, tweede lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=109). Wij hebben onze controle verricht in overeenstemming met Nederlands recht, waaronder [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&z=2008-04-16&g=2008-04-16) van het Waterschapsbesluit. 3Indien van toepassing ook verwijzen naar het door het waterschap opgestelde controleprotocol. Dienovereenkomstig zijn wij verplicht te voldoen aan de voor ons geldende gedragsnormen en zijn wij gehouden onze controle zodanig te plannen en uit te voeren dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening geen afwijkingen van materieel belang bevat.
+Het dagelijks bestuur van waterschap .... (naam waterschap) is verantwoordelijk voor het opmaken van de jaarrekening, alsmede voor het opstellen van het jaarverslag, beide in overeenstemming met [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&z=2010-07-01&g=2010-07-01) van het Waterschapsbesluit.
 
 ### **Oordeel**
 
-Naar ons oordeel geeft de jaarrekening van waterschap .............. (naam waterschap) een getrouw beeld van de grootte en de samenstelling van zowel de baten en lasten over .... (jaartal) als van de activa en passiva per 31 december ... (jaartal) in overeenstemming is met [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&z=2008-04-16&g=2008-04-16) van het Waterschapsbesluit.
+Een controle omvat het uitvoeren van werkzaamheden ter verkrijging van controle-informatie over de bedragen en de toelichtingen in de jaarrekening. De keuze van de uit te voeren werkzaamheden is afhankelijk van de professionele oordeelsvorming van de accountant, waaronder begrepen zijn beoordeling van de risico´s van afwijkingen van materieel belang als gevolg van fraude of fouten. In die beoordeling neemt de accountant in aanmerking het voor het opmaken van en getrouw weergeven in de jaarrekening van zowel de baten en lasten als de activa en passiva, alsmede het voor de naleving van de wet- en regelgeving relevante interne beheersingssysteem, teneinde een verantwoorde keuze te kunnen maken van de controlewerkzaamheden die onder de gegeven omstandigheden adequaat zijn, maar die niet tot doel hebben een oordeel te geven over de effectiviteit van het interne beheersingssysteem van het waterschap. Tevens omvat een controle onder meer een evaluatie van de aanvaardbaarheid van de toegepaste grondslagen voor financiële verslaggeving, van de redelijkheid van schattingen die het dagelijks bestuur van het waterschap heeft gemaakt, en een evaluatie van het algehele beeld van de jaarrekening.
 
-Naar ons oordeel geeft de jaarrekening van waterschap .............. (naam waterschap) een getrouw beeld van de grootte en de samenstelling van zowel de baten en lasten over .... (jaartal) als van de activa en passiva per 31 december ... (jaartal) in overeenstemming is met [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&z=2010-01-01&g=2010-02-27) van het Waterschapsbesluit.
+De bij onze controle toegepaste goedkeuringstolerantie bedraagt voor fouten ...% en voor onzekerheden ...% van de totale bruto-lasten. Deze goedkeuringstolerantie is door het algemeen bestuur bij besluit van .............. (datum, nummer) vastgesteld.
 
 ### Verklaring betreffende andere wettelijke voorschriften en/of voorschriften van regelgevende instanties
 
 Op grond van de wettelijke verplichting ingevolge [artikel 109, derde lid, onderdeel d, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=109) melden wij dat het jaarverslag, voor zover wij dat kunnen beoordelen, verenigbaar is met de jaarrekening.
 
-Op grond van de wettelijke verplichting ingevolge [artikel 109, derde lid, onderdeel d, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=109) melden wij dat het jaarverslag, voor zover wij dat kunnen beoordelen, verenigbaar is met de jaarrekening.
+Naar ons oordeel geeft de jaarrekening van waterschap .............. (naam waterschap) een getrouw beeld van de grootte en de samenstelling van zowel de baten en lasten over .... (jaartal) als van de activa en passiva per 31 december ... (jaartal) in overeenstemming is met [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&z=2010-07-01&g=2010-07-01) van het Waterschapsbesluit.
 
-Plaats, datum
+Voorts zijn wij van oordeel dat de in deze jaarrekening verantwoorde baten en lasten alsmede de balansmutaties rechtmatig tot stand zijn gekomen in overeenstemming met de begroting en de van toepassing zijnde wettelijke regelingen, waaronder verordeningen van het waterschap zelf.
 
 Naam accountantsorganisatie
 
@@ -2628,9 +2632,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2.45a
 
-1. Tegen een beschikking die is genomen op grond van de ministeriële regeling, bedoeld in [artikel 2.45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=9&artikel=2.45&z=2010-01-01&g=2010-02-27), kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.
+1. Tegen een beschikking die is genomen op grond van de ministeriële regeling, bedoeld in [artikel 2.45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=9&artikel=2.45&z=2010-07-01&g=2010-07-01), kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.
 
-2. [Artikel 2.35, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=5&artikel=2.35&z=2010-01-01&g=2010-02-27), is van toepassing.
+2. [Artikel 2.35, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=5&artikel=2.35&z=2010-07-01&g=2010-07-01), is van toepassing.
 
 #### § 10. De oproeping voor de stemming
 
@@ -2700,15 +2704,15 @@ Aan: Opdrachtgever
 
 ### Verklaring betreffende de jaarrekening
 
-### **Verantwoordelijkheid van het dagelijks bestuur**
+### Accountantsverklaring
 
 ### **Oordeel**
 
-Voorts zijn wij van oordeel dat de in deze jaarrekening verantwoorde baten en lasten alsmede de balansmutaties rechtmatig tot stand zijn gekomen in overeenstemming met de begroting en de van toepassing zijnde wettelijke regelingen, waaronder verordeningen van het waterschap zelf.
+Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is als basis voor ons oordeel
 
-### Verklaring betreffende andere wettelijke voorschriften en/of voorschriften van regelgevende instanties
+### **Oordeel**
 
-Naam externe accountant en ondertekening met die naam
+Op grond van de wettelijke verplichting ingevolge [artikel 109, derde lid, onderdeel d, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=109) melden wij dat het jaarverslag, voor zover wij dat kunnen beoordelen, verenigbaar is met de jaarrekening.
 
 ## Bijlage II. goedkeuringstoleranties en strekking accountantsverklaringen, bedoeld in [artikel 5.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=5&artikel=5.4&z=2010-01-01&g=2010-02-27), van het Waterschapsbesluit
 
@@ -2722,5 +2726,122 @@ Als één der of beide goedkeuringstolerantie(s) worden overschreden zal geen go
 | Onzekerheden in de controle (% van bruto-lasten) | ≤ 3% | > 3% < 10% | ≥ 10% | – |
 
 Zoals in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=5&artikel=5.3&z=2010-01-01&g=2010-02-27) aangegeven, kan de accountant, op grond van zijn deskundigheid, ook besluiten dat er kwalitatieve gebreken zijn van dusdanige aard, dat de goedkeuring wordt onthouden.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 2.54a
+
+1. Het stembureau stelt in dagelijkse openbare zitting gedurende de stemperiode vast of de machineleesbare code op de gecodeerde retourenveloppe correspondeert met een nummer in het kiesregister.
+
+2. Het stembureau houdt aantekening van deze vaststelling door de code te registreren.
+
+3. De leden van het stembureau openen onverwijld na de vaststelling de gecodeerde retourenveloppen en deponeren de blanco enveloppen met de stembiljetten in de stembus, die is voorzien van een slot en van een sleuf waardoor de enveloppen in de bus kunnen worden gestoken. De leden kunnen zich bij deze werkzaamheden doen bijstaan door plaatsvervangende leden of andere personen die zijn aangewezen door het dagelijks bestuur. De leden kunnen een voorziening voor het machinematig openen van de gecodeerde retourenveloppen gebruiken.
+
+4. Indien het stembiljet zich niet in de blanco enveloppe bevindt, steekt een lid of plaatsvervangend lid van het stembureau het stembiljet, zonder het in te zien, dichtgevouwen in de stembus.
+
+5. Indien het stembureau de handelingen, bedoeld in het eerste lid, opdraagt aan de in [artikel 2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=1&artikel=2.5&z=2010-07-01&g=2010-07-01), bedoelde personen, gaat het stembureau na of deze handelingen met goed gevolg zijn verricht.
+
+#### § 12. Stemmen per internet
+
+#### § 13. De stemopneming
+
+##### Artikel 2.66a
+
+1. De volgende stemmen worden bij de openbare zitting, bedoeld in [artikel 2.54a](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=11&artikel=2.54a&z=2010-07-01&g=2010-07-01), terzijde gelegd:
+
+- a. stemmen waarvan meerdere stembiljetten in één gecodeerde retourenveloppe zijn ingesloten;
+
+- b. een stem waarvan de machineleesbare code op de gecodeerde retourenveloppe, waarin hij gesloten is, niet correspondeert met een kiesgerechtigde in het kiesgebied waarin de stem is uitgebracht;
+
+- c. een stem waarbij de machineleesbare code op de bijbehorende gecodeerde retourenveloppe onleesbaar is gemaakt of gewijzigd, en
+
+- d. een stem waarvoor niet het door het desbetreffende waterschap uitgereikte stembiljet en de bijbehorende gecodeerde retourenveloppe zijn gebruikt.
+
+2. Opgestuurde gecodeerde retourenveloppen die geen stembiljet bevatten of stembescheiden die op grond van [artikel 2.50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=2&paragraaf=10&artikel=2.50&z=2010-07-01&g=2010-07-01), ongeldig zijn, worden terzijde gelegd. Het stembureau houdt aantekening van het aantal lege gecodeerde retourenveloppen en ongeldige stembescheiden.
+
+##### Artikel 2.67a
+
+Blanco is de stem die is uitgebracht op een stembiljet dat door de kiezer is ingeleverd zonder dat hij geheel of gedeeltelijk een stemvak heeft aangekruist of anderszins gemarkeerd en zonder dat hij anderszins op het stembiljet heeft geschreven of getekend.
+
+#### § 14. De vaststelling van de verkiezingsuitslag
+
+#### § 16. De bekendmaking van de verkiezingsuitslag
+
+#### § 17. Het lidmaatschap
+
+#### § 18. De opvolging
+
+#### § 19. Einde van het lidmaatschap
+
+#### § 21. Overige bepalingen
+
+### Hoofdstuk 3. De rechtspositie van de leden van het waterschapsbestuur
+
+#### § 1. Begripsbepalingen
+
+#### § 2. Vergoedingen en tegemoetkoming leden algemeen bestuur
+
+#### § 3. Bezoldiging en tegemoetkoming in kosten leden dagelijks bestuur waterschap
+
+#### § 4. Rechtspositie voorzitters waterschappen
+
+### Hoofdstuk 4. De beleidsvoorbereiding en de verantwoording
+
+#### § 1. Algemene bepalingen
+
+#### § 3. De begroting en de toelichting
+
+#### § 4. De jaarverslaggeving en de toelichting
+
+#### § 5. De balans en de toelichting
+
+#### § 6. Waardering, activeren en afschrijven
+
+#### § 7. De uitvoeringsinformatie
+
+#### § 8. Informatieverstrekking aan derden
+
+### Hoofdstuk 5. De accountantscontrole
+
+### Hoofdstuk 6. De waterschapsbelastingen
+
+#### § 1. Kostendelen
+
+#### § 2. Meting, bemonstering en analyse zuiveringsheffing
+
+#### § 3. Administratieve verplichtingen waterschapsbelastingen
+
+### Hoofdstuk 7. Overgangsbepalingen en slotbepalingen
+
+#### § 1. Intrekking van andere regelingen
+
+#### § 2. Overgangsbepalingen
+
+#### § 3. Slotbepalingen
+
+## Bijlage I. model goedkeurende accountantsverklaring, bedoeld in [artikel 5.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=5&artikel=5.4&z=2010-07-01&g=2010-07-01), van het Waterschapsbesluit
+
+### **Verantwoordelijkheid van de accountant**
+
+### Verklaring betreffende andere wettelijke voorschriften en/of voorschriften van regelgevende instanties
+
+Plaats, datum
+
+Naam accountantsorganisatie
+
+Naam externe accountant en ondertekening met die naam
+
+## Bijlage II. goedkeuringstoleranties en strekking accountantsverklaringen, bedoeld in [artikel 5.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=5&artikel=5.4&z=2010-07-01&g=2010-07-01), van het Waterschapsbesluit
+
+Bij de oordeelsvorming over de jaarrekening spelen de goedkeuringstoleranties een belangrijke rol. De goedkeuringstoleranties zijn kwantitatieve criteria. Als de goedkeuringstoleranties niet worden overschreden, wordt in beginsel een goedkeurende accountantsverklaring afgegeven.
+
+Als één der of beide goedkeuringstolerantie(s) worden overschreden zal geen goedkeurende accountantsverklaring, maar één van de drie andere hieronder aangegeven oordelen, worden verstrekt door de accountant.
+
+|   | Goedkeurend | Met beperking | Oordeelonthouding | Afkeurend |
+| --- | --- | --- | --- | --- |
+| Fouten in de jaarrekening (% van bruto-lasten) | ≤ 1% | > 1% < 3% | – | ≥ 3% |
+| Onzekerheden in de controle (% van bruto-lasten) | ≤ 3% | > 3% < 10% | ≥ 10% | – |
+
+Zoals in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=5&artikel=5.3&z=2010-07-01&g=2010-07-01) aangegeven, kan de accountant, op grond van zijn deskundigheid, ook besluiten dat er kwalitatieve gebreken zijn van dusdanige aard, dat de goedkeuring wordt onthouden.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
