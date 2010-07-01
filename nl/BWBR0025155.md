@@ -4,7 +4,7 @@ identifier: "BWBR0025155"
 country: "nl"
 rank: "wet"
 publication_date: "2010-07-01"
-last_updated: "2009-02-28"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025155"
 soort: "wet"
@@ -43,79 +43,79 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de rechterlijke organisatie.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Beroepswet.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.
 
 ##### Artikel IVa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Advocatenwet, de Gerechtsdeurwaarderswet, de Loodsenwet en de Wet op de beroepen in de individuele gezondheidszorg.
 
 ##### Artikel IVb
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet gelijke behandeling, de Uitvoeringswet grondkamers, de Wet bescherming persoonsgegevens, de Wet op het hoger onderwijs en wetenschappelijk onderzoek, de Aanpassingswet invoering bachelor-masterstructuur, de Wet personenvervoer 2000 en de Wet tuchtrechtspraak bedrijfsorganisatie 2004.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet bestuursrecht.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet op het binnentreden.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Ambtenarenwet.
 
 ##### Artikel VIIa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Comptabiliteitswet 2001.
 
 ##### Artikel VIIb
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Militaire Ambtenarenwet 1931.
 
 ##### Artikel VIIc
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet gewetensbezwaren militaire dienst.
 
 ##### Artikel VIId
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de Raad van State.
 
 ##### Artikel VIIe
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de uitoefening van de diergeneeskunde 1990.
 
 ##### Artikel VIIf
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet organisatie en bestuur gerechten.
 
 ##### Artikel VIIg
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Zaaizaad- en plantgoedwet 2005.
 
 ##### Artikel VIIh
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de Raad van State en deze wet.
 
 ##### Artikel VIIi
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de Raad van State.
 
 ##### Artikel VIIj
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wijzigingswet Wet op de Raad van State (herstructurering Raad van State) en de Wet op de rechterlijke organisatie.
 
 ##### Artikel VIIk
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet Dieren en deze wet.
 
 ##### Artikel VIIl
 
@@ -123,27 +123,39 @@ Wijzigt het Burgerlijk Wetboek Boek 1.
 
 ##### Artikel VIIm
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet rechtspositie rechterlijke ambtenaren.
 
 ##### Artikel VIIn
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Beroepswet en de Wet bestuursrechtspraak bedrijfsorganisatie.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+De [artikelen 1:1, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:1) en [47, derde en vierde lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=47), zoals deze luidden voor het tijdstip van inwerkingtreding van deze wet, blijven van toepassing, indien een schriftelijke beslissing of een handeling van een onafhankelijk bij wet ingesteld met rechtspraak belast orgaan, de voorzitter of een lid van een zodanig orgaan, het bestuur van een zodanig orgaan of de voorzitter van dat bestuur, de Raad voor de rechtspraak, dan wel de procureur-generaal, de plaatsvervangend procureur-generaal of een advocaat-generaal bij de Hoge Raad, waarbij een voor het leven benoemde rechterlijk ambtenaar als zodanig of een nagelaten betrekking of rechtverkrijgende belanghebbende is, voor het tijdstip van inwerkingtreding van deze wet is genomen of verricht.
 
 ##### Artikel VIIIa
 
-Dit onderdeel is nog niet inwerking getreden
+1. De benoemingsbesluiten van degenen die op de dag voorafgaand aan de inwerkingtreding van deze wet het ambt vervullen van coördinerend vice-president van, vice-president van, raadsheer in, raadsheer-plaatsvervanger in of gerechtsauditeur bij een gerechtshof onderscheidenlijk coördinerend vice-president van, vice-president van, rechter in, rechter-plaatsvervanger in of gerechtsauditeur bij een rechtbank, worden mede aangemerkt als besluiten tot vaststelling bij welk gerechtshof onderscheidenlijk welke rechtbank zij hun ambt vervullen, bedoeld in [artikel 5b, eerste lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5b).
+
+2. De benoemingsbesluiten van degenen die op de dag voorafgaand aan de inwerkingtreding van deze wet bij een tot het openbaar ministerie behorend parket het ambt vervullen van hoofdadvocaat-generaal, plaatsvervangend hoofdadvocaat-generaal, advocaat-generaal, plaatsvervangend advocaat-generaal, hoofdofficier, fungerend hoofdofficier, plaatsvervangend hoofdofficier, officier eerste klasse, officier, substituut-officier, plaatsvervangend officier van justitie, officier enkelvoudige zittingen of plaatsvervangend officier enkelvoudige zittingen, worden mede aangemerkt als besluiten tot vaststelling bij welk parket zij hun ambt vervullen, bedoeld in [artikel 5b, tweede lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5b).
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+Na de inwerkingtreding van deze wet:
+
+- a. berust het [Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530) op de [artikelen 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5), [5d tot en met 5f](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5d), [5g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5g), [7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7), [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=9), [19a](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=19a), [19b](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=19b), [45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=45), [50, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=50), [51, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=51), en [54 van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=54);
+
+- b. berusten het [Besluit bovenwettelijke uitkeringen bij werkloosheid van rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0011826) en het [Kostuum- en titulatuurbesluit rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0009255) op [artikel 54 van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=54);
+
+- c. berust het [Besluit opleiding rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0003871) op de [artikelen 145, tweede lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=145) en de [artikelen 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5), [5d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5d), [5g, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5g), en [54 van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=54);
+
+- d. berust het [Besluit rechtspositie leden gerechtsbesturen en Raad voor de rechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0013131) op de [artikelen 16, eerste en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=16), [25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=25), en [86, eerste, zesde, zevende en achtste lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=86), [3 van de Beroepswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&artikel=3) en [4 van de Wet bestuursrechtspraak bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&artikel=4); en
+
+- e. berust het [Besluit uitoefening rechtspositionele bevoegdheden gerechtsambtenaren en ambtenaren bureau Raad voor de rechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0013130) op de [artikelen 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=25), en [89, derde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=89).
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, en kan terugwerken tot en met een in dat besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
