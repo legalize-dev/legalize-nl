@@ -4,7 +4,7 @@ identifier: "BWBR0019727"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-07-01"
-last_updated: "2006-05-12"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019727"
 soort: "ministeriele-regeling"
@@ -46,15 +46,13 @@ Besluit:
 
 - b. legalisatie van een document: de bevestiging door een daartoe bevoegde instantie van tenminste de echtheid van de ondertekening en in voorkomend geval van het zegel of stempel alsmede van de hoedanigheid van de ondertekenaar van een document;
 
-- c. verificatie: een onderzoek naar de juistheid van de inhoud van een document;
-
-- d. Apostilleverdrag: verdrag van 5 oktober 1961 tot afschaffing van het vereiste van legalisatie voor buitenlandse openbare akten (Trb. 1963, 28).
+- c. verificatie: een onderzoek naar de juistheid van de inhoud van een document.
 
 2. Voor de toepassing van dit besluit worden onder ‘bestuursorganen’ mede verstaan: instellingsbesturen en bevoegde gezagsorganen van uit de openbare kas bekostigde dan wel krachtens de [Wet op de erkende onderwijsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003821) erkende onderwijsinstellingen.
 
 ##### Artikel 2. Voor legalisatie in aanmerking komende documenten
 
-1. De minister gaat, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019727&artikel=4&z=2006-05-12&g=2006-05-12), op verzoek tot legalisatie over van:
+1. De minister gaat, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019727&artikel=4&z=2010-07-01&g=2010-07-01), op verzoek tot legalisatie over van:
 
 - a. documenten die buiten Nederland zijn opgemaakt en van
 
@@ -84,21 +82,15 @@ Een verzoek tot legalisatie door de minister van een buiten Nederland opgemaakt 
 
 3. Het onderzoek, bedoeld in het eerste lid, vindt plaats aan de hand van een op het document gestelde en tot degene die het document heeft vastgesteld te herleiden legalisatie of aansluitende reeks van legalisaties.
 
-##### Artikel 5. Vragenformulier
+##### Artikel 5
 
-1. De minister nodigt degene die bij een Nederlandse vertegenwoordiging een verzoek doet om legalisatie van een of meer documenten betreffende de staat van een persoon, uit om aan de hand van een vragenformulier een aantal gegevens te verstrekken betreffende het document, het beoogde gebruik van het document en betreffende de persoon waarop het document betrekking heeft.
+1. De minister kan naar aanleiding van een verzoek om legalisatie van een of meer documenten betreffende de staat van een persoon, al dan niet door tussenkomst van de verzoeker, gegevens verzamelen betreffende het document, de persoon waarop het document betrekking heeft en het beoogde gebruik van het document. De minister kan de gegevens ter beschikking stellen van de betrokken Nederlandse bestuursorganen, met het oog op de uitvoering van hun wettelijke taak.
 
-2. Het eerste lid is van overeenkomstige toepassing op degene die bij een Nederlandse vertegenwoordiging een of meer krachtens het Apostilleverdrag van legalisatie vrijgestelde documenten betreffende de staat van een persoon overlegt.
-
-3. De gegevens, bedoeld in het eerste en tweede lid, strekken ertoe de betrokken Nederlandse bestuursorganen in staat te stellen zich een beeld te vormen van de juistheid van de gegevens, vermeld in het document, met het oog op de uitvoering van hun wettelijke taak. De minister verzamelt niet meer gegevens dan noodzakelijk voor het in de eerste volzin omschreven doel.
-
-4. Het ingevulde vragenformulier wordt aan de verzoeker ter hand gesteld.
-
-5. Het eerste en tweede lid zijn niet van toepassing op documenten afkomstig uit een lidstaat van de Europese Unie, uit een andere staat die partij is bij de Overeenkomst van 2 mei 1992 betreffende de Europese Economische Ruimte (Trb. 1992, 132) of uit Australië, Canada, Japan, Monaco, Nieuw-Zeeland, de Verenigde Staten of Zwitserland.
+2. De gegevens, bedoeld in het eerste lid, strekken ertoe de betrokken Nederlandse bestuursorganen in staat te stellen zich een beeld te vormen van de juistheid van de gegevens, vermeld in het document, met het oog op de uitvoering van hun wettelijke taak. De minister verzamelt niet meer gegevens dan noodzakelijk voor het in de eerste volzin omschreven doel.
 
 ##### Artikel 6. Verificatie
 
-1. Op verzoek van het betrokken bestuursorgaan verleent de minister tussenkomst bij de uitvoering van een onderzoek naar de juistheid van de gegevens, vermeld in een document, in aanvulling op het onderzoek, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019727&artikel=4&z=2006-05-12&g=2006-05-12).
+1. Op verzoek van het betrokken bestuursorgaan verleent de minister tussenkomst bij de uitvoering van een onderzoek naar de juistheid van de gegevens, vermeld in een document, in aanvulling op het onderzoek, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019727&artikel=4&z=2010-07-01&g=2010-07-01).
 
 2. De minister geleidt de bevindingen van het onderzoek door aan het betrokken bestuursorgaan.
 
