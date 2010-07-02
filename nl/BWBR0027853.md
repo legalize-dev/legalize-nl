@@ -4,7 +4,7 @@ identifier: "BWBR0027853"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-07-02"
-last_updated: "2010-01-01"
+last_updated: "2010-07-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027853"
 soort: "ministeriele-regeling"
@@ -72,7 +72,7 @@ Besluit:
 
 ##### Artikel 3
 
-1. De zorgautoriteit voorziet erin dat de instellingen als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027853&artikel=1&z=2010-07-02&g=2010-01-01) bij beëindiging van budgetbekostiging gedurende een periode van 6 jaar (te rekenen vanaf 2011) een in omvang afnemende garantie wordt geboden voor de kapitaallastenvergoeding die zij onder budgetbekostiging zouden hebben gehad.
+1. De zorgautoriteit voorziet erin dat de instellingen als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027853&artikel=1&z=2010-07-02&g=2010-07-02) bij beëindiging van budgetbekostiging gedurende een periode van 6 jaar (te rekenen vanaf 2011) een in omvang afnemende garantie wordt geboden voor de kapitaallastenvergoeding die zij onder budgetbekostiging zouden hebben gehad.
 
 2. De zorgautoriteit neemt daarbij in acht dat instellingen in vertrouwen op continuïteit van het oude bekostigingsregime hebben geïnvesteerd, de exploitatielasten hiervan op korte termijn niet of slechts beperkt kunnen beïnvloeden en zij vooral in de eerste jaren hun kapitaallasten nog voor een belangrijk deel krijgen gegarandeerd.
 
@@ -90,7 +90,7 @@ Besluit:
 
 ##### Artikel 4
 
-Bij het toepassen van de garantie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027853&artikel=3&z=2010-07-02&g=2010-01-01) houdt de zorgautoriteit rekening met het volgende:
+Bij het toepassen van de garantie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027853&artikel=3&z=2010-07-02&g=2010-07-02) houdt de zorgautoriteit rekening met het volgende:
 
 - a. een suppletie wordt toegekend als de kapitaallastenvergoeding onder het nieuwe bekostigingsregime lager is dan de genoemde garantiepercentages;
 
