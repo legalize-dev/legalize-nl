@@ -4,7 +4,7 @@ identifier: "BWBV0003173"
 country: "nl"
 rank: "verdrag"
 publication_date: "2010-07-03"
-last_updated: "2004-11-11"
+last_updated: "2010-07-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003173"
 soort: "verdrag"
@@ -92,7 +92,7 @@ Zijn het volgende overeengekomen:
 
 5. Niets in dit Verdrag geeft een verdragsluitende partij de bevoegdheid op het grondgebied van een andere verdragsluitende partij rechtsmacht uit te oefenen en functies te vervullen die door haar nationale wetgeving uitsluitend zijn voorbehouden aan de autoriteiten van die andere verdragsluitende partij.
 
-6. Bij de toepassing van het [eerste lid van artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003173&deel=I&artikel=1&z=2004-11-11&g=2004-11-11) houdt iedere verdragsluitende partij zorgvuldig rekening met de relevante bepalingen van het [UNCLOS](https://wetten.overheid.nl/jci1.3:c:BWBV0003172) zonder afbreuk te doen aan de rechten van derden.
+6. Bij de toepassing van het [eerste lid van artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003173&deel=I&artikel=1&z=2010-07-03&g=2010-07-03) houdt iedere verdragsluitende partij zorgvuldig rekening met de relevante bepalingen van het [UNCLOS](https://wetten.overheid.nl/jci1.3:c:BWBV0003172) zonder afbreuk te doen aan de rechten van derden.
 
 ##### Artikel 3. Algemene verplichtingen
 
@@ -166,7 +166,7 @@ Het Centrum heeft de volgende taken:
 
 - d. het geven van een passende waarschuwing, wanneer mogelijk, aan de verdragsluitende partijen wanneer er redelijke gronden zijn om aan te nemen dat er onmiddellijk gevaar is voor piraterij of gewapende overvallen op zee;
 
-- e. het verspreiden onder de verdragsluitende partijen van de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003173&deel=III&artikel=10&z=2004-11-11&g=2004-11-11) bedoelde verzoeken en relevante informatie over de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003173&deel=III&artikel=11&z=2004-11-11&g=2004-11-11) bedoelde genomen maatregelen;
+- e. het verspreiden onder de verdragsluitende partijen van de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003173&deel=III&artikel=10&z=2010-07-03&g=2010-07-03) bedoelde verzoeken en relevante informatie over de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003173&deel=III&artikel=11&z=2010-07-03&g=2010-07-03) bedoelde genomen maatregelen;
 
 - f. het opstellen van niet-geheime statistieken en rapporten op basis van de informatie die uit hoofde van onderdeel b is verzameld en geanalyseerd, en de verspreiding daarvan in de scheepvaartwereld en bij de Internationale Maritieme Organisatie; en
 
@@ -184,7 +184,7 @@ Het Centrum heeft de volgende taken:
 
 ##### Artikel 9. Uitwisselen van informatie
 
-1. Iedere verdragsluitende partij wijst een contactpunt aan dat verantwoordelijk is voor haar communicatie met het Centrum en vermeldt de aanwijzing van dit contactpunt op het tijdstip van haar ondertekening of nederlegging van een in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0003173&deel=V&artikel=18&z=2004-11-11&g=2004-11-11) voorziene akte van kennisgeving.
+1. Iedere verdragsluitende partij wijst een contactpunt aan dat verantwoordelijk is voor haar communicatie met het Centrum en vermeldt de aanwijzing van dit contactpunt op het tijdstip van haar ondertekening of nederlegging van een in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0003173&deel=V&artikel=18&z=2010-07-03&g=2010-07-03) voorziene akte van kennisgeving.
 
 2. Iedere verdragsluitende partij eerbiedigt, op verzoek van het Centrum, de vertrouwelijkheid van de door het Centrum verzonden informatie.
 
@@ -194,7 +194,7 @@ Het Centrum heeft de volgende taken:
 
 5. Iedere verdragsluitende partij die informatie heeft ontvangen of vergaard over een onmiddellijke dreiging of geval van piraterij of gewapende overvallen op zee, stelt via haar aangewezen contactpunt het Centrum onverwijld in kennis van relevante informatie.
 
-6. In het geval dat een verdragsluitende partij uit hoofde van [artikel 7, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBV0003173&deel=II&artikel=7&z=2004-11-11&g=2004-11-11), van het Centrum een waarschuwing ontvangt over een onmiddellijke dreiging van piraterij of gewapende overvallen op zee, geeft deze verdragsluitende partij de waarschuwing onverwijld door aan schepen in het gebied waarvoor deze onmiddellijke dreiging geldt.
+6. In het geval dat een verdragsluitende partij uit hoofde van [artikel 7, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBV0003173&deel=II&artikel=7&z=2010-07-03&g=2010-07-03), van het Centrum een waarschuwing ontvangt over een onmiddellijke dreiging van piraterij of gewapende overvallen op zee, geeft deze verdragsluitende partij de waarschuwing onverwijld door aan schepen in het gebied waarvoor deze onmiddellijke dreiging geldt.
 
 ##### Artikel 10. Verzoek om samenwerking
 
@@ -218,9 +218,9 @@ Het Centrum heeft de volgende taken:
 
 ##### Artikel 11. Medewerking van de aangezochte verdragsluitende partij
 
-1. Een verdragsluitende partij die een verzoek uit hoofde van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003173&deel=III&artikel=10&z=2004-11-11&g=2004-11-11) heeft ontvangen, verricht, met inachtneming van het [eerste lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003173&deel=I&artikel=2&z=2004-11-11&g=2004-11-11), alle mogelijke inspanningen om doeltreffende en praktische maatregelen te nemen om een dergelijk verzoek uit te voeren.
+1. Een verdragsluitende partij die een verzoek uit hoofde van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003173&deel=III&artikel=10&z=2010-07-03&g=2010-07-03) heeft ontvangen, verricht, met inachtneming van het [eerste lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003173&deel=I&artikel=2&z=2010-07-03&g=2010-07-03), alle mogelijke inspanningen om doeltreffende en praktische maatregelen te nemen om een dergelijk verzoek uit te voeren.
 
-2. Een verdragsluitende partij die een verzoek uit hoofde van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003173&deel=III&artikel=10&z=2004-11-11&g=2004-11-11) heeft ontvangen, kan de verzoekende verdragsluitende partij om aanvullende informatie vragen ten behoeve van het uitvoeren van een dergelijk verzoek.
+2. Een verdragsluitende partij die een verzoek uit hoofde van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003173&deel=III&artikel=10&z=2010-07-03&g=2010-07-03) heeft ontvangen, kan de verzoekende verdragsluitende partij om aanvullende informatie vragen ten behoeve van het uitvoeren van een dergelijk verzoek.
 
 3. Een verdragsluitende partij die de in het eerste lid van dit artikel bedoelde maatregelen heeft genomen, stelt het Centrum onverwijld in kennis van de relevante informatie over de genomen maatregelen.
 
@@ -254,7 +254,7 @@ Iedere verdragsluitende partij moedigt schepen, reders of scheepsexploitanten, a
 
 ##### Artikel 17. Beslechting van geschillen
 
-Geschillen die voortvloeien uit de uitlegging of toepassing van dit Verdrag, met inbegrip van geschillen over de aansprakelijkheid voor verlies of schade als gevolg van een verzoek uit hoofde van het [tweede lid van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003173&deel=III&artikel=10&z=2004-11-11&g=2004-11-11) of een maatregel uit hoofde van het [eerste lid van artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003173&deel=III&artikel=11&z=2004-11-11&g=2004-11-11), worden door de betrokken verdragsluitende partijen in der minne geschikt door middel van onderhandelingen in overeenstemming met de van toepassing zijnde regels van het internationale recht.
+Geschillen die voortvloeien uit de uitlegging of toepassing van dit Verdrag, met inbegrip van geschillen over de aansprakelijkheid voor verlies of schade als gevolg van een verzoek uit hoofde van het [tweede lid van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003173&deel=III&artikel=10&z=2010-07-03&g=2010-07-03) of een maatregel uit hoofde van het [eerste lid van artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003173&deel=III&artikel=11&z=2010-07-03&g=2010-07-03), worden door de betrokken verdragsluitende partijen in der minne geschikt door middel van onderhandelingen in overeenstemming met de van toepassing zijnde regels van het internationale recht.
 
 ##### Artikel 18. Ondertekening en inwerkingtreding
 
