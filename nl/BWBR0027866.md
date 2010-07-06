@@ -177,31 +177,3 @@ De volgende locaties worden vanwege hun bijzondere status aangemerkt als Militai
 Deze Regeling wordt met toelichting gepubliceerd in de serie Ministeriele Publicaties (MP 32-300).
 
 Deze Regeling wordt met toelichting gepubliceerd in de Staatscourant.
-
-### (ad [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027866&artikel=5&z=2016-01-06&g=2016-01-06), Regeling reüniefaciliteiten veteranen, oorlogs- en dienstslachtoffers en postactieven)
-
-In 2016 zijn de volgende normbedragen voor het standaardarrangement van toepassing:
-
-## Bijlage II. Militaire en semi-militaire locaties
-
-De volgende locaties worden aangemerkt als Semi-militaire locaties:
-
-- –. Marineclub
-
-- –. Witte Raaf
-
-- –. MOOC (Marine Onder Officier Centrum)
-
-- –. WSOV/Dukdalf
-
-- –. Marinemuseum/Schorpioen
-
-De volgende locaties worden vanwege hun bijzondere status aangemerkt als Militaire locatie:
-
-- –. Reünie- en congrescentrum Kumpulan/KTOMM Bronbeek
-
-- –. ECHOS Homes van Home-Base Support
-
-Deze Regeling wordt met toelichting gepubliceerd in de serie Ministeriele Publicaties (MP 32-300).
-
-Deze Regeling wordt met toelichting gepubliceerd in de Staatscourant.
