@@ -4,7 +4,7 @@ identifier: "BWBR0007331"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2010-07-01"
+last_updated: "2010-07-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007331"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 - a. vervallen;
 
-- b. de Waddenzee, in de betonde vaargeulen van:
+- b. de Waddenzee, binnen de betonning in de vaargeulen van:
 
 - 1). zee naar de havens van Den Helder, Oude Schild en Den Oever via respectievelijk het Marsdiep, de Texelstroom en het Visjagersgaatje;
 
@@ -100,11 +100,11 @@ Besluit:
 
 - k. het Ketelmeer, het gedeelte westelijk van IJsseloog met uitzondering van een strook van 250 m uit de oever;
 
-- l. het Zwarte Water van km. 12.700 tot km. 15.300 gedurende de periode van 1 juni tot en met 31 december;
+- l. het Zwarte Water van km. 12.700 tot km. 15.300;
 
 - m. de Geldersche IJssel (met uitzondering van de afgesneden armen en zandgaten):
 
-- 1. van km 881.000 tot km 901.000;
+- 1. van km 879.000 tot km 901.000;
 
 - 2. van km 903.000 tot km 927.000;
 
@@ -112,7 +112,7 @@ Besluit:
 
 - 4. van km 948.000 tot km 959.000;
 
-- 5. van km 963.000 tot km 994.000;
+- 5. van km 963.000 tot km 993.000;
 
 - 6. van km 998.000 tot km 1006.000;
 
@@ -138,23 +138,19 @@ Besluit:
 
 - p. de Waal;
 
-- q. de Boven-Merwede; van km 952.500 tot km 962.000;
+- q. de Boven-Merwede;
 
 - r. de Beneden-Merwede;
 
 - s. de Nieuwe Merwede;
 
-- t. de Amer:
-
-- 1. van km 250.900 tot km 252.400;
-
-- 2. van km 254.000 tot km 262.500;
+- t. vervallen;
 
 - u. de Dordtsche Kil;
 
 - v. de Oude Maas: vanaf km 976.200;
 
-- w. het Spui: van km 995.300 tot km 1010.000;
+- w. het Spui;
 
 - x. de Noord;
 
@@ -196,11 +192,11 @@ Besluit:
 
 - 2. in het oostelijk deel van het Veerse Meer: het met gele drijfsbakens aangegeven gebied buiten de vaargeul beoosten de jachthaven van Wolphaartsdijk, op een afstand van ca. 150 m uit de oever van Zuid-Beveland;
 
-- ai. Oosterscheldegebied: De betonde vaargeul van de volgende vaarwateren op de route Krammersluizen-Wemeldinge: het Zijpe bezuiden de lijn die het sectorlicht bij Bruinisse verbindt met de lichtboei K 1, Mastgat, Keeten, Witte Tonnen Vlije, Brabantsche Vaarwater, Engelsche Vaarwater, Oosterschelde tussen de lichtboei EV 7/0 4 en de lijn die de tonnen 0 24 en 0 21 met elkaar verbindt.
+- ai. Oosterscheldegebied: De betonde vaargeul van de volgende vaarwateren op de route Krammersluizen-Wemeldinge: het Zijpe bezuiden de lijn die het sectorlicht bij Bruinisse verbindt met de lichtboei K 1, Mastgat, Keeten, Witte Tonnen Vlije, Brabantsche Vaarwater, Aanloop Wemeldinge, Engelsche Vaarwater, Oosterschelde tussen lichtboei EV 7/ O 4, in het oosten begrensd door eerdergenoemde Aanloop Wemeldinge.
 
 - aj. het Lateraalkanaal Linne-Buggenum tussen 500 m ten noorden van de sluizen Heel en 400 m bovenstrooms van de benedenmond van het kanaal;
 
-- ak. de Maas/de Bergsche Maas en de Amer:
+- ak. de Maas: de Bergsche Maas: de Amer:
 
 - 1. van km 8.865 tot km 12.000;
 
@@ -268,7 +264,7 @@ Besluit:
 
 1. Als vaarwegen of gedeelten daarvan, waar overdag mag worden gewaterskied worden aangewezen:
 
-- a. vervallen;
+- a. het Marsdiep, ten zuiden van de lijn gevormd door de verbinding tussen de tonnen T 1 en T 3, en ten westen van de haven van Den Helder;
 
 - b. de Texelstroom, ten noorden van de lijn gevormd door de verbinding tussen de tonnen T 12 en T 14, en ten zuiden van de haven van Oudeschild;
 
@@ -312,7 +308,7 @@ Besluit:
 
 - 1. vervallen;
 
-- 2. van km 12.700 tot km 15.300 gedurende de periode van 1 juni tot en met 31 december;
+- 2. van km 12.700 tot km 15.300;
 
 - k. de Geldersche IJssel:
 
@@ -320,7 +316,7 @@ Besluit:
 
 - 2. van km 948.000 tot km 959.000;
 
-- 3. van km 963.000 tot km 994.000;
+- 3. van km 963.000 tot km 993.000;
 
 - 4. van km 998.000 tot km 1006.000;
 
@@ -394,7 +390,7 @@ Besluit:
 
 - u. het Grevelingenmeer:
 
-- 1. in het westelijk deel van het Grevelingenmeer: het beoosten het gedeelte bestemd voor waterscooters gelegen, met gele drijfbakens aangegeven gebied tussen de Haven Springersdiep, Marina Port Zélande en de ton SP 21, ca. 250 m verwijderd van de oever van de Brouwersdam, gemiddeld ca. 300 m van de haveningang van Haven Springersdiep en gemiddeld ca. 350 m van de haveningang van Marina Port Zélande;
+- 1. in het westelijke deel van het Grevelingemeer: het met gele drijfbakens aangegeven gebied tussen de haven Springersdiep, Marina Port Zélande en de kruising Springersdiep – Hompelgeul, ca. 150 m verwijderd van de oever van de Brouwersdam, gemiddeld ca. 250 m van de haveningang van de haven Springersdiep en gemiddeld ca. 350 m van de haveningang van Marina Port Zélande;
 
 - 2. in het oostelijk deel van het Grevelingenmeer: het met gele drijfbakens aangegeven gebied NO van de binnenvoorhaven van de Grevelingensluis bij Bruinisse, met een lengte van ca. 1200 m, op een afstand variërend van 130 tot 310 m tot de oever van de Grevelingendam en ca. 220 m verwijderd van de haveningang van genoemde binnenvoorhaven;
 
@@ -410,7 +406,7 @@ Besluit:
 
 - w. het Lateraalkanaal Linne-Buggenum tussen 500 m ten noorden van de sluizen Heel en 400 m bovenstrooms van de benedenmond van het kanaal;
 
-- x. de Maas/de Bergsche Maas en Amer:
+- x. de Maas: de Bergsche Maas: de Amer:
 
 - 1. van km 8.865 tot km 12.000;
 
@@ -498,4 +494,4 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 - d. de Noord.
 
-2. Op de Nieuwe Maas van km 989.000 tot km 991.700 en op de Noord is [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007331&artikel=1&z=2007-09-23&g=2010-07-01), van overeenkomstige toepassing.
+2. Op de Nieuwe Maas van km 989.000 tot km 991.700 en op de Noord is [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007331&artikel=1&z=2010-07-06&g=2010-07-06), van overeenkomstige toepassing.
