@@ -4,7 +4,7 @@ identifier: "BWBR0027473"
 country: "nl"
 rank: "wet"
 publication_date: "2010-07-07"
-last_updated: "2009-11-01"
+last_updated: "2010-07-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027473"
 soort: "wet"
@@ -53,26 +53,26 @@ Wijzigt de Wijzigingswet Wet luchtvaart (Regelgeving burgerluchthavens en milita
 
 ##### Artikel IIa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Luchtvaartwet.
 
 ##### Artikel IIb
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Wetboek van Strafrecht.
 
 ##### Artikel IIc
 
-Dit onderdeel is nog niet inwerking getreden
+Het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) zoals het luidde vóór inwerkingtreding van [artikel IIb](https://wetten.overheid.nl/jci1.3:c:BWBR0027473&artikel=IIb&z=2010-07-07&g=2010-07-07) blijft van toepassing op een luchtvaartterrein, aangewezen op grond van [artikel 18 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=18), zolang op dat luchtvaartterrein het bepaalde bij of krachtens de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267) van toepassing blijft krachtens [artikel IX, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=IX), of [artikel XVIII, derde lid, van de in artikel II genoemde Wet van 18 december 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=XVIII).
 
 ##### Artikel IId
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet wapens en munitie.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wijzigingswet Wet Luchtverkeer (luchtvaartuigen en vluchtuitvoering), de Wijzigingswet Wet luchtvaart enz. (uitvoering EG-verordeningen i.v.m. totstandkoming gemeenschappelijk Europees luchtruim) (Stb. 2007/405) en de Wijzigingswet Wet luchtvaart (communautaire vergunning luchtverkeersleiders).
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. Daarbij kan worden bepaald dat een artikel of onderdeel terugwerkt tot en met een in dat besluit te bepalen tijdstip.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
