@@ -4,7 +4,7 @@ identifier: "BWBR0026914"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-05-04"
-last_updated: "2010-06-30"
+last_updated: "2010-07-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026914"
 soort: "ministeriele-regeling"
@@ -145,6 +145,7 @@ Besluit:
 |   |   |   | Zuidwest-Nederland | 15-03 t/m 27-04 | 1.600.000 |
 |   |   |   | Zuidoost-Nederland | 15-03 t/m 27-04 | 4.500.000 |
 |   |   |   | Noord-Nederland | 01-01 t/m 31-12 | 20.000.000 |
+| 4.2 | Subsidieregeling sterktes in de regio (regionale investeringsprojecten) | 3.2 |   | 12-07 t/m 15-11 | 10.400.000 |
 | [Subsidieregeling energie en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0026952) | [Subsidieregeling energie en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0026952) | [Subsidieregeling energie en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0026952) | [Subsidieregeling energie en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0026952) | [Subsidieregeling energie en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0026952) | [Subsidieregeling energie en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0026952) |
 | 5.1 | Subsidieregeling energie en innovatie (EOS: lange termijn | 2.1.2 | NEO haalbaarheidsstudie | 11-02 t/m 14-10 | 500.000 |
 |   |   |   | Andere NEO projecten dan haalbaarheidsstudies | 01-01 t/m 09-09 | 1.000.000 |
