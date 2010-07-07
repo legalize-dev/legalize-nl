@@ -4,7 +4,7 @@ identifier: "BWBR0023790"
 country: "nl"
 rank: "wet"
 publication_date: "2010-07-07"
-last_updated: "2008-05-28"
+last_updated: "2010-07-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023790"
 soort: "wet"
@@ -49,7 +49,7 @@ Wijzigt de Wet luchtvaart.
 
 ##### Artikel II
 
-Wijzigt de Wijzigingswet Wet luchtvaart (Regelgeving burgerluchthavens en militaire luchthavens) en deze wet.
+Vervallen
 
 ##### Artikel III
 
@@ -57,7 +57,7 @@ Wijzigt deze wet.
 
 ##### Artikel IV
 
-Een bewijs van bevoegdheid of bevoegdverklaring afgegeven als bedoeld in de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) voor de inwerkingtreding van [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0023790&artikel=I&z=2008-05-28&g=2008-05-28), van deze wet wordt gelijkgesteld met een bewijs van bevoegdheid of bevoegdverklaring afgegeven in overeenstemming met de vereisten van de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555).
+Een bewijs van bevoegdheid of bevoegdverklaring afgegeven als bedoeld in de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) voor de inwerkingtreding van [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0023790&artikel=I&z=2010-07-07&g=2010-07-07), van deze wet wordt gelijkgesteld met een bewijs van bevoegdheid of bevoegdverklaring afgegeven in overeenstemming met de vereisten van de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555).
 
 ##### Artikel V
 
