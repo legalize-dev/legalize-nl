@@ -4,7 +4,7 @@ identifier: "BWBR0017707"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2009-12-31"
+last_updated: "2010-07-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017707"
 soort: "ministeriele-regeling"
@@ -40,6 +40,8 @@ Gelet op [artikelen 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0017
 
 Besluit:
 
+Treedt in werking op het tijdstip waarop het Besluit spoorverkeer in werking treedt.
+
 ### Hoofdstuk 1. Algemene bepalingen
 
 ##### Artikel 1
@@ -60,23 +62,25 @@ In deze regeling wordt verstaan onder:
 
 - g. ETCS: European Train Control System;
 
-- h. ETCS-cabinesein: sein, getoond op de ETCS-bestuurdersinterface, bedoeld in paragraaf 4.3. van beschikking nr. 2006/679/EG van de Commissie van de Europese Gemeenschappen van 28 maart 2006 betreffende de technische specificaties inzake interoperabiliteit van het subsysteem ‘Besturing en seingeving’ van het conventionele trans-Europese spoorwegsysteem (PbEG L 284);
+- h. ETCS-cabinesein: sein, getoond op de ETCS-bestuurdersinterface, bedoeld in paragraaf 4.3 van de bijlage behorende bij beschikking nr. 2006/679/EG van de Commissie van de Europese Gemeenschappen van 28 maart 2006 betreffende de technische specificaties inzake interoperabiliteit van het subsysteem ‘Besturing en Seingeving’ van het conventionele trans-Europese spoorwegsysteem (PbEU L 284) dan wel op de bestuurdersinterface, bedoeld in paragraaf 4.3 van de bijlage behorende bij beschikking nr. 2006/860/EG van de Commissie van de Europese Gemeenschappen van 7 november 2006 betreffende de technische specificaties inzake interoperabiliteit van het subsysteem ‘Besturing en Seingeving’ van het trans-Europees hogesnelheidsspoorwegsysteem en tot wijziging van bijlage A bij Beschikking 2006/679/EG betreffende de technische specificaties inzake interoperabiliteit van het subsysteem ‘Besturing en Seingeving’ van het conventionele trans-Europese spoorwegsysteem (PbEU L 342);
 
-- i. vast sein: niet verplaatsbaar sein;
+- i. bijlage A: bijlage A van de bijlage behorende bij beschikking nr. 2008/231/EG van de Commissie van de Europese Gemeenschappen van 1 februari 2008 betreffende de technische specificatie inzake interoperabiliteit van het subsysteem ‘Exploitatie’ van het trans-Europese hogesnelheidsspoorwegsysteem overeenkomstig artikel 6, lid, 1, van richtlijn 96/48/EG van de Raad en houdende intrekking van Beschikking nr. 2002/734/EG van de Commissie van de Europese Gemeenschappen van 30 mei 2002 (PbEU L 84);
 
-- j. lichtsein: vast sein dat groen, geel, rood of wit licht kan uitstralen;
+- j. vast sein: niet verplaatsbaar sein;
 
-- k. hoofdsein: lichtsein dat rood licht kan uitstralen;
+- k. lichtsein: vast sein dat groen, geel, rood of wit licht kan uitstralen;
 
-- l. voorsein: lichtsein dat aan een hoofdsein voorafgaat en geen rood licht kan uitstralen;
+- l. hoofdsein: lichtsein dat rood licht kan uitstralen;
 
-- m. P-sein: lichtsein voorzien van een onderbord met het opschrift ‘P’;
+- m. voorsein: lichtsein dat aan een hoofdsein voorafgaat en geen rood licht kan uitstralen;
 
-- n. AKI: automatische knipperlichtinstallatie;
+- n. P-sein: lichtsein voorzien van een onderbord met het opschrift ‘P’;
 
-- o. AHOB: automatische halve overwegbomen;
+- o. AKI: automatische knipperlichtinstallatie;
 
-- p. AOB: automatische overpadbomen.
+- p. AHOB: automatische halve overwegbomen;
+
+- q. AOB: automatische overpadbomen.
 
 ### Hoofdstuk 2. Onderzoek treinen
 
@@ -124,13 +128,13 @@ Vervallen
 
 ##### Artikel 5
 
-De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=2&paragraaf=1&artikel=3&z=2009-12-31&g=2009-12-31) bedoelde technische controle wordt uitgevoerd aan de hand van de gebrekencatalogus van bijlage 9, annex 1, van het General Contract of Use for Wagons.
+De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=2&paragraaf=1&artikel=3&z=2010-07-08&g=2010-07-08) bedoelde technische controle wordt uitgevoerd aan de hand van de gebrekencatalogus van bijlage 9, annex 1, van het General Contract of Use for Wagons.
 
 #### § 2. Rembeproeving
 
 ##### Artikel 6
 
-1. Onverminderd de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=2&paragraaf=1&artikel=2&z=2009-12-31&g=2009-12-31) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=2&paragraaf=1&artikel=3&z=2009-12-31&g=2009-12-31) worden treinen onderworpen aan een rembeproeving.
+1. Onverminderd de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=2&paragraaf=1&artikel=2&z=2010-07-08&g=2010-07-08) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=2&paragraaf=1&artikel=3&z=2010-07-08&g=2010-07-08) worden treinen onderworpen aan een rembeproeving.
 
 2. De spoorwegondernemer stelt voor iedere soort of type trein een plan op waarin de inhoud, de plaats en het tijdstip van de rembeproeving worden vastgelegd.
 
@@ -160,7 +164,7 @@ Onverminderd [artikel 8a van het Besluit spoorverkeer](https://wetten.overheid.n
 
 ##### Artikel 8
 
-1. Treinen worden tenminste beremd overeenkomstig de rempercentages die zijn opgenomen in de tabellen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=2&z=2009-12-31&g=2009-12-31). In deze tabellen zijn de rempercentages een functie van de snelheid en komen zij overeen met de van toepassing zijnde maximumsnelheid.
+1. Treinen worden tenminste beremd overeenkomstig de rempercentages die zijn opgenomen in de tabellen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=2&z=2010-07-08&g=2010-07-08). In deze tabellen zijn de rempercentages een functie van de snelheid en komen zij overeen met de van toepassing zijnde maximumsnelheid.
 
 2. De rempercentages zijn zodanig, dat treinen op een dalende helling van 5‰ tot stilstand kunnen worden gebracht binnen de hierna genoemde afstanden:
 
@@ -174,7 +178,7 @@ Onverminderd [artikel 8a van het Besluit spoorverkeer](https://wetten.overheid.n
 
 ##### Artikel 9
 
-1. Het berekenen van het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=3&paragraaf=1&artikel=8&z=2009-12-31&g=2009-12-31) bedoelde rempercentage geschiedt overeenkomstig de volgende formule:
+1. Het berekenen van het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=3&paragraaf=1&artikel=8&z=2010-07-08&g=2010-07-08) bedoelde rempercentage geschiedt overeenkomstig de volgende formule:
 
 (Remgewicht van de trein / Treingewicht) × 100%.
 
@@ -194,35 +198,35 @@ Onverminderd [artikel 8a van het Besluit spoorverkeer](https://wetten.overheid.n
 
 ##### Artikel 11
 
-1. Indien van een rijtuig of een wagen de rem van slechts één draaistel buiten werking is, wordt in afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=3&paragraaf=2&artikel=10&z=2009-12-31&g=2009-12-31) als remgewicht van dat spoorvoertuig uitgegaan van:
+1. Indien van een rijtuig of een wagen de rem van slechts één draaistel buiten werking is, wordt in afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=3&paragraaf=2&artikel=10&z=2010-07-08&g=2010-07-08) als remgewicht van dat spoorvoertuig uitgegaan van:
 
 - a. de helft van het op het rijtuig of de wagen aangegeven remgewicht, of
 
 - b. het op het draaistel, waarvan de rem nog wel in werking is, aangegeven remgewicht.
 
-2. Indien van een rijtuig de hogedrukrem van slechts één draaistel is afgesloten en deze is voorzien van een verstelkruk R-P, wordt in afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=3&paragraaf=2&artikel=10&z=2009-12-31&g=2009-12-31) als remgewicht van dat rijtuig uitgegaan van het totaal van:
+2. Indien van een rijtuig de hogedrukrem van slechts één draaistel is afgesloten en deze is voorzien van een verstelkruk R-P, wordt in afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=3&paragraaf=2&artikel=10&z=2010-07-08&g=2010-07-08) als remgewicht van dat rijtuig uitgegaan van het totaal van:
 
 - a. het remgewicht, vermeld achter P bij het afgesloten draaistel, en
 
 - b. het remgewicht, vermeld achter R bij het andere draaistel,
 
-3. Indien van een rijtuig de hogedrukrem is uitgevallen en deze niet is voorzien van een verstelkruk R-P, wordt in afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=3&paragraaf=2&artikel=10&z=2009-12-31&g=2009-12-31) als remgewicht van dat rijtuig uitgegaan van het eigen gewicht.
+3. Indien van een rijtuig de hogedrukrem is uitgevallen en deze niet is voorzien van een verstelkruk R-P, wordt in afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=3&paragraaf=2&artikel=10&z=2010-07-08&g=2010-07-08) als remgewicht van dat rijtuig uitgegaan van het eigen gewicht.
 
-4. Indien van een locomotief, van een treinstel of van andere spoorvoertuigen die in vaste samenstelling worden vervoerd, de remmen gedeeltelijk zijn afgesloten, stelt de spoorwegonderneming in afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=3&paragraaf=2&artikel=10&z=2009-12-31&g=2009-12-31) vast met welke vermindering van het remgewicht van dat betreffende spoorvoertuig of van die betreffende spoorvoertuigen rekening moet worden gehouden.
+4. Indien van een locomotief, van een treinstel of van andere spoorvoertuigen die in vaste samenstelling worden vervoerd, de remmen gedeeltelijk zijn afgesloten, stelt de spoorwegonderneming in afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=3&paragraaf=2&artikel=10&z=2010-07-08&g=2010-07-08) vast met welke vermindering van het remgewicht van dat betreffende spoorvoertuig of van die betreffende spoorvoertuigen rekening moet worden gehouden.
 
 ##### Artikel 12
 
-In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=3&paragraaf=2&artikel=10&z=2009-12-31&g=2009-12-31) wordt bij een rijtuig voorzien van een magneetrem en rijdend met de verstelkruk in de stand R+Mg, als remgewicht van dat rijtuig uitgegaan van het remgewicht in de stand R.
+In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=3&paragraaf=2&artikel=10&z=2010-07-08&g=2010-07-08) wordt bij een rijtuig voorzien van een magneetrem en rijdend met de verstelkruk in de stand R+Mg, als remgewicht van dat rijtuig uitgegaan van het remgewicht in de stand R.
 
 ##### Artikel 13
 
-1. Indien van een rijtuig met automatische lastafremming de automatische lastafremming defect is en dit rijtuig voor reizigers toegankelijk is, wordt in afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=3&paragraaf=2&artikel=10&z=2009-12-31&g=2009-12-31) als remgewicht van dat rijtuig uitgegaan van het eigen gewicht.
+1. Indien van een rijtuig met automatische lastafremming de automatische lastafremming defect is en dit rijtuig voor reizigers toegankelijk is, wordt in afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=3&paragraaf=2&artikel=10&z=2010-07-08&g=2010-07-08) als remgewicht van dat rijtuig uitgegaan van het eigen gewicht.
 
 2. Een rijtuig met automatische lastafremming waarvan de automatische lastafremming van slechts één draaistel defect is of de luchttoevoer naar één van de veren afgesloten is, wordt voor de vaststelling van het remgewicht gelijkgesteld met het in het eerste lid bedoelde rijtuig.
 
 ##### Artikel 14
 
-Bij wagens met automatische lastafremming wordt in afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=3&paragraaf=2&artikel=10&z=2009-12-31&g=2009-12-31) als remgewicht uitgegaan van het eigen gewicht van die wagen vermeerderd met het gewicht van de lading, met dien verstande dat de som hiervan het op de wagen vermelde maximum remgewicht niet kan overstijgen.
+Bij wagens met automatische lastafremming wordt in afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=3&paragraaf=2&artikel=10&z=2010-07-08&g=2010-07-08) als remgewicht uitgegaan van het eigen gewicht van die wagen vermeerderd met het gewicht van de lading, met dien verstande dat de som hiervan het op de wagen vermelde maximum remgewicht niet kan overstijgen.
 
 ##### Artikel 15
 
@@ -274,9 +278,9 @@ Bij wagens met automatische lastafremming wordt in afwijking van [artikel 10](ht
 
 ##### Artikel 18
 
-1. Treinen bestemd voor het vervoer van goederen zijn voor het rijden in de Hemtunnel, de Velsertunnel dan wel de Willemstunnel zodanig samengesteld dat deze een rempercentage van ten minste 54% hebben, tenzij op grond van de tabellen van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=2&z=2009-12-31&g=2009-12-31) een hoger rempercentage van toepassing is.
+1. Treinen bestemd voor het vervoer van goederen zijn voor het rijden in de Hemtunnel, de Velsertunnel dan wel de Willemstunnel zodanig samengesteld dat deze een rempercentage van ten minste 54% hebben, tenzij op grond van de tabellen van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=2&z=2010-07-08&g=2010-07-08) een hoger rempercentage van toepassing is.
 
-2. Op treinen bestemd voor werkzaamheden aan op buiten dienst gestelde sporen is voor het rijden in de in het eerste lid genoemde tunnels kolom 2.4 van de tabellen van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=2&z=2009-12-31&g=2009-12-31) van toepassing.
+2. Op treinen bestemd voor werkzaamheden aan op buiten dienst gestelde sporen is voor het rijden in de in het eerste lid genoemde tunnels kolom 2.4 van de tabellen van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=2&z=2010-07-08&g=2010-07-08) van toepassing.
 
 ##### Artikel 19
 
@@ -290,11 +294,11 @@ Bij wagens met automatische lastafremming wordt in afwijking van [artikel 10](ht
 
 1. Bij treinen bestemd voor het vervoer van reizigers en losse locomotieven wordt de P/G-kraan in de stand ‘P’ gesteld.
 
-2. Bij treinen bestemd voor het vervoer van goederen wordt de P/G-kraan volgens de tabellen A of B opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=3&z=2009-12-31&g=2009-12-31) ingesteld.
+2. Bij treinen bestemd voor het vervoer van goederen wordt de P/G-kraan volgens de tabellen A of B opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=3&z=2010-07-08&g=2010-07-08) ingesteld.
 
 ##### Artikel 21
 
-1. In afwijking van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=3&paragraaf=5&artikel=20&z=2009-12-31&g=2009-12-31) kunnen in treinen, bestemd voor het vervoer van goederen en met de P/G-kraan in de stand ‘P’, maximaal vijf wagens met de P/G-kraan in de stand ‘G’ achter de locomotief worden opgenomen, indien het totaal van de op deze wagens vermelde remgewichten met 20% wordt verminderd, waarbij de uitkomst naar beneden wordt afgerond.
+1. In afwijking van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=3&paragraaf=5&artikel=20&z=2010-07-08&g=2010-07-08) kunnen in treinen, bestemd voor het vervoer van goederen en met de P/G-kraan in de stand ‘P’, maximaal vijf wagens met de P/G-kraan in de stand ‘G’ achter de locomotief worden opgenomen, indien het totaal van de op deze wagens vermelde remgewichten met 20% wordt verminderd, waarbij de uitkomst naar beneden wordt afgerond.
 
 2. Indien in treinen, bestemd voor het vervoer van goederen en met de P/G-kraan in de stand ‘G’, wagens worden opgenomen waarvan de P/G-kraan niet in de stand ‘G’ kan worden gesteld, worden de remmen van deze wagens afgesloten.
 
@@ -322,9 +326,17 @@ De verstelkruk leeg/beladen wordt op ‘leeg’gesteld, indien:
 
 ##### Artikel 24
 
-1. De aard, uitvoering en betekenis van de seinen zijn opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4&z=2009-12-31&g=2009-12-31).
+1. De aard, uitvoering en betekenis van de seinen anders dan ETCS-cabineseinen zijn opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4&z=2010-07-08&g=2010-07-08).
 
-2. Voor ETCS-cabineseinen zijn de aard, uitvoering en betekenis opgenomen in Bijlage A1 van beschikking nr. 2006/920/EG van de Commissie van de Europese Gemeenschappen van 11 augustus 2006 betreffende de technische specificaties inzake interoperabiliteit van het subsysteem ‘Exploitatie en beheer van het treinverkeer’ van het conventionele trans-Europese spoorwegsysteem (PbEG L 359).
+2. De aard, uitvoering en betekenis van ETCS-cabineseinen zijn opgenomen in bijlage A.
+
+3. In aanvulling op bijlage A geldt dat:
+
+- a. het in de punten 5.1.5, 5.2.1, 6.8.2.3.3, 6.8.2.3.5, en 6.18.2.2, van die bijlage met betrekking tot het ETCS level 1 met seinen bepaalde, van overeenkomstige toepassing op het ETCS level 2 met seinen, en
+
+- b. punt 6.11.2.1.4 van die bijlage van overeenkomstige toepassing is op de delen van een hoofdspoorweg waarop punt 6.3.2.1.3 van die bijlage betrekking heeft.
+
+4. De bestuurder mag indien het spoorvoertuig stilstaat, het eerstvolgende te passeren lichtsein het voorbijrijden toestaat en geen bedienbare inrichtingen in de tussenliggende rijweg liggen, in afwijking van het tweede lid in verbinding met onderdeel a2 van punt 6.11.2.1.4 van bijlage A, naar en voorbij dat lichtsein rijden.
 
 #### § 2. Plaatsing van seinen
 
@@ -356,15 +368,15 @@ beveiligd door seinen die tenminste rood licht kunnen uitstralen of door ETCS.
 
 ##### Artikel 27
 
-Seinen worden zodanig geplaatst, dat de bestuurder afhankelijk van de plaatselijk toegestane maximumsnelheid in staat is deze tijdig waar te nemen en daarop op passende wijze te reageren.
+Seinen zijn voor de bestuurder zodanig zichtbaar dat hij afhankelijk van de plaatselijk toegestane maximumsnelheid in staat is die tijdig waar te nemen en daarop op passende wijze te reageren.
 
 #### § 3. Onderling verband
 
 ##### Artikel 28
 
-1. Tussen een wissel en een daarvoor ingevolge [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=4&paragraaf=2&artikel=25&z=2009-12-31&g=2009-12-31), eerste lid, geplaatst sein bestaat een zodanig verband dat als dit sein voorbijrijden toestaat, het wissel niet kan worden omgelegd en de juiste stand van de tongen verzekerd is.
+1. Tussen een wissel en een daarvoor ingevolge [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=4&paragraaf=2&artikel=25&z=2010-07-08&g=2010-07-08), eerste lid, geplaatst sein bestaat een zodanig verband dat als dit sein voorbijrijden toestaat, het wissel niet kan worden omgelegd en de juiste stand van de tongen verzekerd is.
 
-2. Tussen een beweegbare brug en een daarvoor ingevolge [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=4&paragraaf=2&artikel=25&z=2009-12-31&g=2009-12-31), eerste lid, geplaatst sein bestaat een zodanig verband dat als dit sein voorbijrijden toestaat, de brug in de juiste stand is vastgelegd.
+2. Tussen een beweegbare brug en een daarvoor ingevolge [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=4&paragraaf=2&artikel=25&z=2010-07-08&g=2010-07-08), eerste lid, geplaatst sein bestaat een zodanig verband dat als dit sein voorbijrijden toestaat, de brug in de juiste stand is vastgelegd.
 
 3. De Minister kan ontheffing verlenen van het bepaalde in het eerste lid.
 
@@ -384,11 +396,13 @@ Seinen worden zodanig geplaatst, dat de bestuurder afhankelijk van de plaatselij
 
 ##### Artikel 31
 
-1. Een door een lichtsein of een ETCS-cabinesein gegeven gebod of toestemming geldt vanaf dit sein totdat de trein het volgende sein heeft bereikt of tot een ander ETCS-cabinesein wordt getoond. De bestuurder neemt hierbij geboden of toestemmingen van specifieke snelheidsborden, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4&z=2009-12-31&g=2009-12-31), in acht.
+1. Een door een lichtsein of een ETCS-cabinesein gegeven gebod of toestemming geldt vanaf dit sein totdat de trein het volgende sein heeft bereikt of tot een ander ETCS-cabinesein wordt getoond. De bestuurder neemt hierbij geboden of toestemmingen van specifieke snelheidsborden, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4&z=2010-07-08&g=2010-07-08), in acht.
 
-2. Een door lichtsein nr. 214 of bord nr. 317, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4&z=2009-12-31&g=2009-12-31), gegeven toestemming geldt tot aan het eerstvolgende hoofdsein.
+2. Een door lichtsein nr. 214 of bord nr. 317, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4&z=2010-07-08&g=2010-07-08), gegeven toestemming geldt tot aan het eerstvolgende hoofdsein.
 
-3. Onverminderd het tweede lid mag de bestuurder, met inachtneming van geboden of toestemmingen van specifieke snelheidsborden, bedoeld in het eerste lid, de snelheid direct verhogen, indien:
+3. Bij gebruik van een hoofdspoorweg, met een spoorvoertuig waarvan het inzetcertificaat, bedoeld in [artikel 36, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=36), die hoofdspoorweg voor dat voertuig vermeldt als te berijden met het ETCS, geldt in afwijking van het tweede lid, een in dat lid bedoelde toestemming tot het tijdstip waarop een ETCS-cabinesein wordt getoond indien dat tijdstip voor het tijdstip van het passeren van het eerstvolgende hoofdsein is gelegen.
+
+4. Onverminderd het tweede lid mag de bestuurder, met inachtneming van geboden of toestemmingen van specifieke snelheidsborden, bedoeld in het eerste lid, de snelheid direct verhogen, indien:
 
 - a. hij overdag en bij goed zicht ziet dat het eerste hoofdsein dat hij zal voorbijrijden, toestaat om te rijden met een hogere snelheid dan de trein rijdt;
 
@@ -398,7 +412,13 @@ Seinen worden zodanig geplaatst, dat de bestuurder afhankelijk van de plaatselij
 
 - d. het punt van toegestane snelheidsverhoging volledig is gepasseerd.
 
-4. Onverminderd het tweede lid mag een bestuurder de snelheid verhogen, indien hij een specifiek snelheidsbord, bedoeld in het eerste lid, voorbijrijdt, dat een hogere snelheid toestaat dan de trein rijdt, en het voorafgaande lichtsein groen licht uitstraalde.
+5. Onverminderd het tweede lid mag een bestuurder de snelheid verhogen, indien hij een specifiek snelheidsbord, bedoeld in het eerste lid, voorbijrijdt, dat een hogere snelheid toestaat dan de trein rijdt, en het voorafgaande lichtsein groen licht uitstraalde.
+
+6. De door een ETCS-cabinesein aangegeven toegestane snelheid treedt, bij gebruik van een hoofdspoorweg met een spoorvoertuig als bedoeld in het derde lid, indien in de ETCS FS-modus wordt gereden, in de plaats van de aangegeven toegestane snelheden door de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4&z=2010-07-08&g=2010-07-08) opgenomen seinen nrs. 201 tot en met 212 a/b, nrs. 217 tot en met 219 en nrs. 313 tot en met 316.
+
+7. De op basis van het zesde lid geldende toegestane snelheid, geldt tot het tijdstip waarop het in punt 6.8.2.1.2.4 van bijlage A bedoelde signaal is getoond of een daarmee overkomend bericht is ontvangen en één of meer van de in het zesde lid genoemde seinen wordt gepasseerd.
+
+8. Het derde, zesde en zevende lid is niet van toepassing bij gebruik van de hoofdspoorweg, bedoeld in [bijlage 1, punt 15, van het Besluit aanwijzing hoofdspoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&bijlage=1).
 
 #### § 5. Gedoofde en onjuiste seinen
 
@@ -408,19 +428,19 @@ Seinen worden zodanig geplaatst, dat de bestuurder afhankelijk van de plaatselij
 
 - a. hij in het bezit is van een aanwijzing Stoptonend sein;
 
-- b. het voorafgaande sein lichtsein nr. 212 a/b, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4&z=2009-12-31&g=2009-12-31), dat geel licht uitstraalde, was;
+- b. het voorafgaande sein lichtsein nr. 212 a/b, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4&z=2010-07-08&g=2010-07-08), dat geel licht uitstraalde, was;
 
 - c. het voorafgaande lichtsein een gedoofd sein was;
 
-- d. het voorafgaande sein baken nr. 249a, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4&z=2009-12-31&g=2009-12-31), was; of
+- d. het voorafgaande sein baken nr. 249a, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4&z=2010-07-08&g=2010-07-08), was; of
 
-- e. het voorafgaande sein lichtsein nr. 214, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4&z=2009-12-31&g=2009-12-31), dat geel licht uitstraalde, of bord nr. 317, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4&z=2009-12-31&g=2009-12-31), was.
+- e. het voorafgaande sein lichtsein nr. 214, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4&z=2010-07-08&g=2010-07-08), dat geel licht uitstraalde, of bord nr. 317, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4&z=2010-07-08&g=2010-07-08), was.
 
 In andere dan de onder a tot en met e genoemde gevallen begrenst de bestuurder de snelheid tot 40 km/u om op elke plaats achter dit sein waar een belemmering voor het verder rijden aanwezig is te kunnen stoppen.
 
 2. Indien de bestuurder in een P-sein gedoofd of onjuist licht waarneemt, begrenst hij de snelheid tot 40 km/u om op elke plaats achter dit sein waar een belemmering voor het verder rijden aanwezig is te kunnen stoppen.
 
-3. Indien de bestuurder in een voorsein gedoofd of onjuist licht waarneemt, dan handelt de bestuurder alsof dit sein overeenkomstig voorsein nr. 219 a/b, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4&z=2009-12-31&g=2009-12-31), geel licht uitstraalt.
+3. Indien de bestuurder in een voorsein gedoofd of onjuist licht waarneemt, dan handelt de bestuurder alsof dit sein overeenkomstig voorsein nr. 219 a/b, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4&z=2010-07-08&g=2010-07-08), geel licht uitstraalt.
 
 #### § 6. Het passeren van rode seinen
 
@@ -450,7 +470,7 @@ Aanwijzingen van de beheerder, bedoeld in de [artikelen 4, derde lid](https://we
 
 ##### Artikel 35
 
-Het model, de afmetingen, het reflecterend vermogen en de plaatsing van het schild aan de achterzijde van treinen worden vastgesteld en vervaardigd overeenkomstig het model en de voorschriften opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=5&z=2009-12-31&g=2009-12-31).
+Het model, de afmetingen, het reflecterend vermogen en de plaatsing van het schild aan de achterzijde van treinen worden vastgesteld en vervaardigd overeenkomstig het model en de voorschriften opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=5&z=2010-07-08&g=2010-07-08).
 
 ### Hoofdstuk 6. Standaardaanwijzingen
 
@@ -506,7 +526,7 @@ Aanwijzing om voor vertrek telefonisch aan de treindienstleider toestemming te v
 
 ##### Artikel 37
 
-1. De aanwijzingen, bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=6&artikel=36&z=2009-12-31&g=2009-12-31), worden schriftelijk dan wel per spreekverbinding gegeven.
+1. De aanwijzingen, bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=6&artikel=36&z=2010-07-08&g=2010-07-08), worden schriftelijk dan wel per spreekverbinding gegeven.
 
 2. Indien de aanwijzingen per spreekverbinding worden gegeven, noteert de bestuurder de gegevens en herhaalt hij de inhoud van de aanwijzing.
 
@@ -518,7 +538,7 @@ Aanwijzing om voor vertrek telefonisch aan de treindienstleider toestemming te v
 
 ##### Artikel 38
 
-Als spoorwegemplacementen bedoeld in [artikel 1, onderdeel e, van het Besluit spoorverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=1) worden aangewezen de spoorwegemplacementen, bedoeld in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=6&z=2009-12-31&g=2009-12-31).
+Als spoorwegemplacementen bedoeld in [artikel 1, onderdeel e, van het Besluit spoorverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=1) worden aangewezen de spoorwegemplacementen, bedoeld in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=6&z=2010-07-08&g=2010-07-08).
 
 ##### Artikel 39
 
@@ -530,11 +550,11 @@ Als spoorwegemplacementen bedoeld in [artikel 1, onderdeel e, van het Besluit sp
 
 - c. alle aan de sporen als bedoeld in onderdeel a en b grenzende sporen tot een maximale afstand van 200 m voor het toeleidende sein van het bedoelde emplacement.
 
-2. In afwijking van het eerste lid, onderdeel c, zijn de locaties waar een grotere afstand dan 200 m benodigd is, weergegeven in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=7&z=2009-12-31&g=2009-12-31).
+2. In afwijking van het eerste lid, onderdeel c, zijn de locaties waar een grotere afstand dan 200 m benodigd is, weergegeven in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=7&z=2010-07-08&g=2010-07-08).
 
 ##### Artikel 40
 
-In afwijking van [artikel 39 eerste lid, onderdeel c, en het tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=7&artikel=39&z=2009-12-31&g=2009-12-31), wordt door de beheerder, indien dit voor het veilige gebruik van de spoorweg vereist is, door middel van het bord nr. 302 uit [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4&z=2009-12-31&g=2009-12-31) aangegeven dat op dit spoor niet gerangeerd kan worden of dat beperkingen gelden ten aanzien van het rangeren.
+In afwijking van [artikel 39 eerste lid, onderdeel c, en het tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=7&artikel=39&z=2010-07-08&g=2010-07-08), wordt door de beheerder, indien dit voor het veilige gebruik van de spoorweg vereist is, door middel van het bord nr. 302 uit [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4&z=2010-07-08&g=2010-07-08) aangegeven dat op dit spoor niet gerangeerd kan worden of dat beperkingen gelden ten aanzien van het rangeren.
 
 ### Hoofdstuk 7a. Afmeting van de lading
 
@@ -562,11 +582,67 @@ Vervallen
 
 Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
-## Bijlage 3
+## Bijlage 3. behorende bij [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=3&paragraaf=5&artikel=20&z=2010-07-08&g=2010-07-08), van de Regeling spoorverkeer
 
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
+| Treingewicht exclusief locomotieven | Toelaatbare standen P/G-kranen | Toelaatbare standen P/G-kranen | Toelaatbare standen P/G-kranen | Toelaatbare standen P/G-kranen | Voorwaarden |
+| --- | --- | --- | --- | --- | --- |
+| ≤ 800 ton1 | GG | LL5 | **GP** | PP |   |
+| ≤ 1600 ton2 | GG | LL5 | **GP** | Niet toegestaan |   |
+| ≤ 2500 ton3 | GG | LL5 | Niet toegestaan | Niet toegestaan | Voor LL: > 1600 ton, alle wagens in de trein: massa/wagen ≥ 32 ton |
+| ≤ 4000 ton | GG | LL5 | Niet toegestaan | Niet toegestaan | Voor LL: > 2500 ton, alle wagens in de trein: massa/wagen ≥ 40 ton |
+| > 4000 ton4 | GG | LL5 | Niet toegestaan | Niet toegestaan | Automatische koppeling conform 69e voorschrift van de Internationale Spoorweg Unie verplicht |
+| Treinlengte incl. loc’n | Toelaatbare standen P/G-kranen | Toelaatbare standen P/G-kranen | Toelaatbare standen P/G-kranen | Toelaatbare standen P/G-kranen | Voorwaarden |
+| > 700 meter | GG | Niet toegestaan | Niet toegestaan | Niet toegestaan |   |
+| Treinsnelheid | Maximaal toegelaten treinsnelheid | Maximaal toegelaten treinsnelheid | Maximaal toegelaten treinsnelheid | Maximaal toegelaten treinsnelheid | Voorwaarden |
+| Treinsnelheid | 90/95 | 120 | 120 | 120 | Voor minimaal benodigd rempercentage λ zie Bijlage 2 |
 
-## Bijlage 4
+1 600 ton maximaal treingewicht voor België in stand PP
+
+5 gelede wagens gelden als meerdere wagens; bij een treingewicht > 1600 ton dient elk deel van de gelede wagen een massa te hebben ≥ 32 ton en bij een treingewicht > 2500 ton een massa ≥ 40 ton, alle P/G-kranen van de gelede wagen moeten in éénzelfde stand staan.
+
+2 1200 ton maximaal treingewicht voor België en Duitsland in stand GP
+
+3 1800 ton maximaal treingewicht voor België in stand LL
+
+4 4500 ton maximaal treingewicht voor België met AK
+
+**PP:**
+
+Vooroplopende locomotie(f)(ven) en alle wagens in de stand P;
+
+Minimum rempercentage λ volgens de P-remtabellen in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=2&z=2010-07-08&g=2010-07-08);
+
+Data invoer ETCS: P.
+
+**GP:**
+
+Vooroplopende locomotie(f)(ven) in de stand G en de wagens in de stand P;
+
+Remgewicht vooroplopende locomotie(f)(ven) het G-remgewicht aanhouden;
+
+Minimum rempercentage λ volgens de P-remtabellen in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=2&z=2010-07-08&g=2010-07-08);
+
+Data invoer ETCS: P.
+
+**LL:**
+
+Vooroplopende locomotie(f)(ven) en de vijf volgende wagens in de stand G en de overige wagens in de stand P;
+
+Remgewicht vooroplopende locomtie(f)(ven) het G-remgewicht aanhouden, remgewicht van de eerste vijf wagens met 20% verlagen, rest van de wagens het P-remgewicht aanhouden;
+
+Minimum rempercentage λ volgens de P-remtabellen in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=2&z=2010-07-08&g=2010-07-08);
+
+Data invoer ETCS: P.
+
+**GG:**
+
+Vooroplopende locomotie(f)(ven) en alle overige wagens in de stand G;
+
+Minimum rempercentage λ volgens de G-remtabellen in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=2&z=2010-07-08&g=2010-07-08);
+
+Data invoer ETCS: G.
+
+## Bijlage 4. , behorende bij [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=4&paragraaf=1&artikel=24&z=2010-07-08&g=2010-07-08), van de Regeling spoorverkeer
 
 Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
@@ -578,7 +654,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ##### Artikel 40a
 
-Het profiel, bedoeld in [artikel 12, tweede lid, onderdeel a, van het Besluit Spoorverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=12), is opgenomen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=8&z=2009-12-31&g=2009-12-31).
+Het profiel, bedoeld in [artikel 12, tweede lid, onderdeel a, van het Besluit Spoorverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=12), is opgenomen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=8&z=2010-07-08&g=2010-07-08).
 
 ### Hoofdstuk 8. Slotbepalingen
 
