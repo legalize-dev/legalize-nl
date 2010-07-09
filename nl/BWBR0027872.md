@@ -4,7 +4,7 @@ identifier: "BWBR0027872"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-07-09"
-last_updated: "2009-11-21"
+last_updated: "2010-07-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027872"
 soort: "ministeriele-regeling"
@@ -104,13 +104,13 @@ In dit besluit wordt verstaan onder:
 
 - 12. **Volmacht:** de bevoegdheid om in naam van de minister privaatrechtelijke rechtshandelingen te verrichten die betrekking hebben op het openbaar ministerie;
 
-- 13. **Voorzitter van het regionaal managementteam:** de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027872&paragraaf=2&artikel=2&z=2010-07-09&g=2009-11-21) aangewezen hoofdofficieren van justitie.
+- 13. **Voorzitter van het regionaal managementteam:** de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027872&paragraaf=2&artikel=2&z=2010-07-09&g=2010-07-09) aangewezen hoofdofficieren van justitie.
 
 #### Paragraaf 2. De voorzitter van het regionaal managementteam
 
 ##### Artikel 2
 
-1. De hierna genoemde hoofdofficieren van justitie fungeren als voorzitter van het regionaal managementteam en aan hen wordt het beheermandaat, het budgetmandaat en het mandaat organisatie en formatie verleend als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027872&paragraaf=3&artikel=3&z=2010-07-09&g=2009-11-21):
+1. De hierna genoemde hoofdofficieren van justitie fungeren als voorzitter van het regionaal managementteam en aan hen wordt het beheermandaat, het budgetmandaat en het mandaat organisatie en formatie verleend als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027872&paragraaf=3&artikel=3&z=2010-07-09&g=2010-07-09):
 
 - a. De hoofdofficier van justitie te Amsterdam indien en voor zover het gaat om het arrondissementsparket te Amsterdam;
 
@@ -142,23 +142,23 @@ In dit besluit wordt verstaan onder:
 
 1. Bevoegdheden ten aanzien van het beheer van het regioparket (de dagelijkse gang van zaken)
 
-Aan de voorzitter van het regionaal managementteam bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027872&paragraaf=2&artikel=2&z=2010-07-09&g=2009-11-21), wordt mandaat, volmacht en machtiging verleend ten aanzien van de aan het College toekomende bevoegdheden inzake aangelegenheden die het beheer van de gezamenlijke arrondissementsparketten betreffen, met uitzondering van:
+Aan de voorzitter van het regionaal managementteam bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027872&paragraaf=2&artikel=2&z=2010-07-09&g=2010-07-09), wordt mandaat, volmacht en machtiging verleend ten aanzien van de aan het College toekomende bevoegdheden inzake aangelegenheden die het beheer van de gezamenlijke arrondissementsparketten betreffen, met uitzondering van:
 
-- a. besluiten en handelingen die op grond van [artikel 5, aanhef, onderdeel 4, sub a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0027872&paragraaf=3&artikel=5&z=2010-07-09&g=2009-11-21), zijn uitgesloten van het mandaat, en;
+- a. besluiten en handelingen die op grond van [artikel 5, aanhef, onderdeel 4, sub a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0027872&paragraaf=3&artikel=5&z=2010-07-09&g=2010-07-09), zijn uitgesloten van het mandaat, en;
 
-- b. het mandaat dat op grond van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027872&paragraaf=3&artikel=4&z=2010-07-09&g=2009-11-21) aan de hoofdofficier van justitie wordt verleend.
+- b. het mandaat dat op grond van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027872&paragraaf=3&artikel=4&z=2010-07-09&g=2010-07-09) aan de hoofdofficier van justitie wordt verleend.
 
 2. Budgetmandaat
 
-Aan de voorzitter van het regionaal managementteam bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027872&paragraaf=2&artikel=2&z=2010-07-09&g=2009-11-21), wordt mandaat verleend om besluiten te nemen met betrekking tot de verdeling, toedeling en besteding van het gezamenlijke budget van de arrondissementsparketten die onder het bereik van het betreffende regionaal managementteam vallen, een en ander met inachtneming van het aan hem toegekende budget en de voor het budgethouderschap geldende voorschriften.
+Aan de voorzitter van het regionaal managementteam bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027872&paragraaf=2&artikel=2&z=2010-07-09&g=2010-07-09), wordt mandaat verleend om besluiten te nemen met betrekking tot de verdeling, toedeling en besteding van het gezamenlijke budget van de arrondissementsparketten die onder het bereik van het betreffende regionaal managementteam vallen, een en ander met inachtneming van het aan hem toegekende budget en de voor het budgethouderschap geldende voorschriften.
 
 3. Het College behoudt zich het recht voor om bij een nader aanvullend besluit nadere aanwijzingen te geven ten aanzien van de administratieve organisatie van het budgetmandaat, de wijze waarop verplichtingen worden aangegaan, de wijze waarop betaalbaarstelling ten laste van het budget plaatsheeft en de wijze waarop bestedingen van het budget worden verantwoord.
 
-4. Aan de voorzitter van het regionaal managementteam bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027872&paragraaf=2&artikel=2&z=2010-07-09&g=2009-11-21), wordt mandaat verleend om via het jaarplan aanwijzingen te geven aan de hoofdofficieren van justitie met betrekking tot de besteding en de uitputting van het budget.
+4. Aan de voorzitter van het regionaal managementteam bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027872&paragraaf=2&artikel=2&z=2010-07-09&g=2010-07-09), wordt mandaat verleend om via het jaarplan aanwijzingen te geven aan de hoofdofficieren van justitie met betrekking tot de besteding en de uitputting van het budget.
 
 5. Mandaat organisatie en formatie
 
-Aan de voorzitter van het regionaal managementteam bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027872&paragraaf=2&artikel=2&z=2010-07-09&g=2009-11-21), wordt mandaat verleend om, passend binnen de hoofdlijnen van de organisatie en formatie en met inachtneming van de budgettaire kaders zoals die in het jaarplan zijn vastgelegd en het geldende functiehuis voor de sectoren rechterlijke macht en rijk, de organisatie en formatie vast te stellen van de arrondissementsparketten die onder het bereik van het betreffende regionaal managementteam vallen.
+Aan de voorzitter van het regionaal managementteam bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027872&paragraaf=2&artikel=2&z=2010-07-09&g=2010-07-09), wordt mandaat verleend om, passend binnen de hoofdlijnen van de organisatie en formatie en met inachtneming van de budgettaire kaders zoals die in het jaarplan zijn vastgelegd en het geldende functiehuis voor de sectoren rechterlijke macht en rijk, de organisatie en formatie vast te stellen van de arrondissementsparketten die onder het bereik van het betreffende regionaal managementteam vallen.
 
 ##### Artikel 4. De bevoegdheden van de hoofdofficieren van justitie
 
@@ -168,17 +168,17 @@ De hoofdofficier van justitie wordt aangewezen tot hoofd van dienst ten aanzien 
 
 2. Bevoegdheden ten aanzien van het beheer van de arrondissementsparketten (de dagelijkse gang van zaken)
 
-Aan de hoofdofficier van justitie wordt mandaat verleend ten aanzien van de aan het College toekomende bevoegdheden inzake aangelegenheden die het beheer van het eigen arrondissementsparket betreffen met uitzondering van de besluiten en handelingen die op grond van [artikel 5, aanhef, vierde lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0027872&paragraaf=3&artikel=5&z=2010-07-09&g=2009-11-21) zijn uitgesloten van het mandaat.
+Aan de hoofdofficier van justitie wordt mandaat verleend ten aanzien van de aan het College toekomende bevoegdheden inzake aangelegenheden die het beheer van het eigen arrondissementsparket betreffen met uitzondering van de besluiten en handelingen die op grond van [artikel 5, aanhef, vierde lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0027872&paragraaf=3&artikel=5&z=2010-07-09&g=2010-07-09) zijn uitgesloten van het mandaat.
 
 3. Bevoegdheden ten aanzien van budgetten
 
-Aan de hoofdofficier van justitie wordt mandaat verleend om besluiten te nemen, stukken af te doen en brieven te ondertekenen voor zover deze de besteding en de uitputting van het budget betreffen met betrekking tot eigen arrondissementsparket, een en ander met inachtneming van het – via het jaarplan – aan het arrondissementsparket toegekende budget, de aanwijzingen die aan hem zijn gegeven op grond van [artikel 3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027872&paragraaf=3&artikel=3&z=2010-07-09&g=2009-11-21) en de voor het budgethouderschap geldende voorschriften en met uitzondering van de besluiten en handelingen als bedoeld in [artikel 5 aanhef, onderdeel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027872&paragraaf=3&artikel=5&z=2010-07-09&g=2009-11-21).
+Aan de hoofdofficier van justitie wordt mandaat verleend om besluiten te nemen, stukken af te doen en brieven te ondertekenen voor zover deze de besteding en de uitputting van het budget betreffen met betrekking tot eigen arrondissementsparket, een en ander met inachtneming van het – via het jaarplan – aan het arrondissementsparket toegekende budget, de aanwijzingen die aan hem zijn gegeven op grond van [artikel 3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027872&paragraaf=3&artikel=3&z=2010-07-09&g=2010-07-09) en de voor het budgethouderschap geldende voorschriften en met uitzondering van de besluiten en handelingen als bedoeld in [artikel 5 aanhef, onderdeel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027872&paragraaf=3&artikel=5&z=2010-07-09&g=2010-07-09).
 
 4. Personeelsmandaat
 
 Aan de hoofdofficier van justitie wordt mandaat verleend om:
 
-- a. Besluiten te nemen, stukken af te doen en brieven te ondertekenen al dan niet met rechtspositionele gevolgen, voor zover deze de rechterlijke en niet rechterlijke ambtenaren aangaan die werkzaam zijn bij het eigen arrondissementsparket met uitzondering van de besluiten en/of handelingen bedoeld in [artikel 5, aanhef, vierde lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0027872&paragraaf=3&artikel=5&z=2010-07-09&g=2009-11-21). De bevoegdheden worden uitgeoefend op basis van de geldende voorschriften, de vastgestelde formatie en het toegekende personele budget.
+- a. Besluiten te nemen, stukken af te doen en brieven te ondertekenen al dan niet met rechtspositionele gevolgen, voor zover deze de rechterlijke en niet rechterlijke ambtenaren aangaan die werkzaam zijn bij het eigen arrondissementsparket met uitzondering van de besluiten en/of handelingen bedoeld in [artikel 5, aanhef, vierde lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0027872&paragraaf=3&artikel=5&z=2010-07-09&g=2010-07-09). De bevoegdheden worden uitgeoefend op basis van de geldende voorschriften, de vastgestelde formatie en het toegekende personele budget.
 
 - b. Besluiten te nemen waarmee aan rechterlijke en niet rechterlijke ambtenaren die werkzaam zijn bij het eigen arrondissementsparket een schadeloosstelling wordt toegekend tot het bedrag van € 5.000,– op jaarbasis.
 
@@ -278,7 +278,7 @@ De voorzitter van het regionaal managementteam en de hoofdofficier van justitie 
 
 2. De hoofdofficier van justitie wordt toegestaan van het aan hem in deze regeling verleende mandaat:
 
-- a. Ondermandaat te verlenen aan de hoofdofficier van justitie die op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027872&paragraaf=2&artikel=2&z=2010-07-09&g=2009-11-21), fungeert als voorzitter van het regionaal managementteam;
+- a. Ondermandaat te verlenen aan de hoofdofficier van justitie die op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027872&paragraaf=2&artikel=2&z=2010-07-09&g=2010-07-09), fungeert als voorzitter van het regionaal managementteam;
 
 - b. Ondermandaat te verlenen aan de regionaal directeur bedrijfsvoering, en;
 
