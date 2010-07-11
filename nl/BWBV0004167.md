@@ -4,7 +4,7 @@ identifier: "BWBV0004167"
 country: "nl"
 rank: "verdrag"
 publication_date: "2010-07-11"
-last_updated: "2003-05-21"
+last_updated: "2010-07-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004167"
 soort: "verdrag"
@@ -110,11 +110,11 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 1. Elke Partij verzekert dat een strategische milieubeoordeling wordt uitgevoerd voor de plannen en programma's bedoeld in het tweede, derde en vierde lid die waarschijnlijk aanzienlijke milieugevolgen, met inbegrip van gezondheidsgevolgen, hebben.
 
-2. Een strategische milieubeoordeling wordt uitgevoerd voor plannen en programma's die worden opgesteld voor landbouw, bosbouw, visserij, energie, industrie met inbegrip van mijnbouw, vervoer, regionale ontwikkeling, afvalbeheer, waterbeheer, telecommunicatie, toerisme, ruimtelijke ordening of landinrichting, en die het kader vormen voor de toekenning van vergunningen in de toekomst voor in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&bijlage=I&z=2003-05-21&g=2003-05-21) bedoelde projecten en elk ander in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&bijlage=II&z=2003-05-21&g=2003-05-21) bedoeld project waarvoor krachtens de nationale wetgeving een milieubeoordeling vereist is.
+2. Een strategische milieubeoordeling wordt uitgevoerd voor plannen en programma's die worden opgesteld voor landbouw, bosbouw, visserij, energie, industrie met inbegrip van mijnbouw, vervoer, regionale ontwikkeling, afvalbeheer, waterbeheer, telecommunicatie, toerisme, ruimtelijke ordening of landinrichting, en die het kader vormen voor de toekenning van vergunningen in de toekomst voor in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&bijlage=I&z=2010-07-11&g=2010-07-11) bedoelde projecten en elk ander in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&bijlage=II&z=2010-07-11&g=2010-07-11) bedoeld project waarvoor krachtens de nationale wetgeving een milieubeoordeling vereist is.
 
-3. Voor niet onder het tweede lid vallende plannen en programma's die het kader vormen voor de toekenning van vergunningen in de toekomst voor projecten, wordt een strategische milieubeoordeling uitgevoerd voor zover een Partij daartoe besluit overeenkomstig [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=5&z=2003-05-21&g=2003-05-21).
+3. Voor niet onder het tweede lid vallende plannen en programma's die het kader vormen voor de toekenning van vergunningen in de toekomst voor projecten, wordt een strategische milieubeoordeling uitgevoerd voor zover een Partij daartoe besluit overeenkomstig [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=5&z=2010-07-11&g=2010-07-11).
 
-4. Voor in het tweede lid bedoelde plannen en programma's die het gebruik bepalen van kleine gebieden op lokaal niveau en voor kleine wijzigingen van in het tweede lid bedoelde plannen en programma's wordt enkel een strategische milieubeoordeling uitgevoerd voor zover een Partij daartoe besluit overeenkomstig [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=5&z=2003-05-21&g=2003-05-21).
+4. Voor in het tweede lid bedoelde plannen en programma's die het gebruik bepalen van kleine gebieden op lokaal niveau en voor kleine wijzigingen van in het tweede lid bedoelde plannen en programma's wordt enkel een strategische milieubeoordeling uitgevoerd voor zover een Partij daartoe besluit overeenkomstig [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=5&z=2010-07-11&g=2010-07-11).
 
 5. De volgende plannen en programma's vallen niet onder dit Protocol:
 
@@ -124,9 +124,9 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 ##### Artikel 5. Screening
 
-1. Elke Partij bepaalt of de plannen en programma's bedoeld in [artikel 4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=4&z=2003-05-21&g=2003-05-21), waarschijnlijk aanzienlijke milieugevolgen, met inbegrip van gezondheidsgevolgen, hebben door ofwel een onderzoek per geval ofwel het aanwijzen van de soorten plannen en programma's ofwel een combinatie van beide werkwijzen. Elke Partij zal hiertoe in alle gevallen rekening houden met de in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&bijlage=III&z=2003-05-21&g=2003-05-21) vastgestelde criteria.
+1. Elke Partij bepaalt of de plannen en programma's bedoeld in [artikel 4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=4&z=2010-07-11&g=2010-07-11), waarschijnlijk aanzienlijke milieugevolgen, met inbegrip van gezondheidsgevolgen, hebben door ofwel een onderzoek per geval ofwel het aanwijzen van de soorten plannen en programma's ofwel een combinatie van beide werkwijzen. Elke Partij zal hiertoe in alle gevallen rekening houden met de in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&bijlage=III&z=2010-07-11&g=2010-07-11) vastgestelde criteria.
 
-2. Elke Partij verzekert dat de milieu- en gezondheidsinstanties bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=9&z=2003-05-21&g=2003-05-21), worden geraadpleegd bij de toepassing van de in het eerste lid van dit artikel bedoelde procedures.
+2. Elke Partij verzekert dat de milieu- en gezondheidsinstanties bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=9&z=2010-07-11&g=2010-07-11), worden geraadpleegd bij de toepassing van de in het eerste lid van dit artikel bedoelde procedures.
 
 3. Voor zover passend streeft elke Partij ernaar het betrokken publiek mogelijkheden tot inspraak te bieden inzake de screening van plannen en programma's krachtens dit artikel.
 
@@ -134,9 +134,9 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 ##### Artikel 6. Afbakening toepassingsgebied
 
-1. Elke Partij stelt regelingen vast voor de vaststelling van de relevante informatie die in overeenstemming met [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=7&z=2003-05-21&g=2003-05-21), moet worden opgenomen in het milieurapport.
+1. Elke Partij stelt regelingen vast voor de vaststelling van de relevante informatie die in overeenstemming met [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=7&z=2010-07-11&g=2010-07-11), moet worden opgenomen in het milieurapport.
 
-2. Elke Partij verzekert dat de milieu- en gezondheidsinstanties bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=9&z=2003-05-21&g=2003-05-21), worden geraadpleegd bij de vaststelling van de relevante informatie die moet worden opgenomen in het milieurapport.
+2. Elke Partij verzekert dat de milieu- en gezondheidsinstanties bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=9&z=2010-07-11&g=2010-07-11), worden geraadpleegd bij de vaststelling van de relevante informatie die moet worden opgenomen in het milieurapport.
 
 3. Voor zover passend streeft elke Partij ernaar het betrokken publiek mogelijkheden tot inspraak te bieden bij de vaststelling van de relevante informatie die in het milieurapport moet worden opgenomen.
 
@@ -144,7 +144,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 1. Elke Partij verzekert dat met betrekking tot plannen en programma's die onderworpen zijn aan een strategische milieubeoordeling, een milieurapport wordt opgesteld.
 
-2. In het milieurapport worden, overeenkomstig de vaststelling krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=6&z=2003-05-21&g=2003-05-21), de waarschijnlijke aanzienlijke milieugevolgen, met inbegrip van gezondheidsgevolgen, van de uitvoering van het plan of het programma en de redelijke alternatieven daarvan vastgesteld, beschreven en geëvalueerd. Het rapport bevat de in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&bijlage=IV&z=2003-05-21&g=2003-05-21) omschreven informatie die redelijkerwijs vereist kan zijn, rekening houdend met:
+2. In het milieurapport worden, overeenkomstig de vaststelling krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=6&z=2010-07-11&g=2010-07-11), de waarschijnlijke aanzienlijke milieugevolgen, met inbegrip van gezondheidsgevolgen, van de uitvoering van het plan of het programma en de redelijke alternatieven daarvan vastgesteld, beschreven en geëvalueerd. Het rapport bevat de in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&bijlage=IV&z=2010-07-11&g=2010-07-11) omschreven informatie die redelijkerwijs vereist kan zijn, rekening houdend met:
 
 - a. de huidige kennis en methoden van beoordeling;
 
@@ -166,7 +166,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 4. Elke Partij verzekert dat het in het derde lid bedoelde publiek de gelegenheid heeft binnen een redelijke termijn zijn zienswijze kenbaar te maken over het ontwerp-plan of -programma en het milieueffectrapport.
 
-5. Elke Partij verzekert dat de gedetailleerde regelingen voor het informeren van het publiek en het raadplegen van het betrokken publiek worden vastgesteld en publiek beschikbaar gesteld. Hiertoe houdt elke Partij voor zover passend rekening met de in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&bijlage=V&z=2003-05-21&g=2003-05-21) opgesomde factoren.
+5. Elke Partij verzekert dat de gedetailleerde regelingen voor het informeren van het publiek en het raadplegen van het betrokken publiek worden vastgesteld en publiek beschikbaar gesteld. Hiertoe houdt elke Partij voor zover passend rekening met de in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&bijlage=V&z=2010-07-11&g=2010-07-11) opgesomde factoren.
 
 ##### Artikel 9. Overleg met milieu- en gezondheidsinstanties
 
@@ -190,7 +190,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 3. De benadeelde Partij geeft binnen de in de kennisgeving gespecificeerde termijn aan de Partij van herkomst te kennen of zij overleg wenst te plegen vóór de aanneming van het plan of programma en, indien zij dit te kennen geeft, plegen de betrokken Partijen overleg over de waarschijnlijke grensoverschrijdende milieugevolgen, met inbegrip van gezondheidsgevolgen, van de uitvoering van het plan of programma en over de voorgenomen maatregelen om nadelige gevolgen te voorkomen, verminderen of af te zwakken.
 
-4. Wanneer dergelijk overleg plaatsvindt, komen de betrokken Partijen gedetailleerde regelingen overeen om te verzekeren dat het betrokken publiek en de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=9&z=2003-05-21&g=2003-05-21), bedoelde instanties in de benadeelde Partij worden geïnformeerd en de gelegenheid krijgen binnen een redelijke termijn hun zienswijze over het ontwerp-plan of -programma en het milieurapport kenbaar te maken.
+4. Wanneer dergelijk overleg plaatsvindt, komen de betrokken Partijen gedetailleerde regelingen overeen om te verzekeren dat het betrokken publiek en de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=9&z=2010-07-11&g=2010-07-11), bedoelde instanties in de benadeelde Partij worden geïnformeerd en de gelegenheid krijgen binnen een redelijke termijn hun zienswijze over het ontwerp-plan of -programma en het milieurapport kenbaar te maken.
 
 ##### Artikel 11. Besluit
 
@@ -200,15 +200,15 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 - b. de maatregelen om de in het milieurapport vastgestelde nadelige gevolgen te voorkomen, te verminderen of af te zwakken; en
 
-- c. het commentaar ontvangen in overeenstemming met [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=8&z=2003-05-21&g=2003-05-21).
+- c. het commentaar ontvangen in overeenstemming met [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=8&z=2010-07-11&g=2010-07-11).
 
-2. Elke Partij verzekert dat, wanneer een plan of programma wordt aangenomen, het publiek, de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=9&z=2003-05-21&g=2003-05-21), bedoelde instanties, en de overeenkomstig [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=10&z=2003-05-21&g=2003-05-21) geraadpleegde instanties worden geïnformeerd, en dat het plan of programma aan hen ter beschikking wordt gesteld samen met een verklaring waarin wordt samengevat op welke wijze de milieuoverwegingen, met inbegrip van gezondheidsoverwegingen, erin zijn geïntegreerd, op welke wijze het overeenkomstig de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=8&z=2003-05-21&g=2003-05-21) ontvangen commentaar in aanmerking is genomen en welke de redenen waren voor het aannemen ervan in het licht van de overwogen redelijke alternatieven.
+2. Elke Partij verzekert dat, wanneer een plan of programma wordt aangenomen, het publiek, de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=9&z=2010-07-11&g=2010-07-11), bedoelde instanties, en de overeenkomstig [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=10&z=2010-07-11&g=2010-07-11) geraadpleegde instanties worden geïnformeerd, en dat het plan of programma aan hen ter beschikking wordt gesteld samen met een verklaring waarin wordt samengevat op welke wijze de milieuoverwegingen, met inbegrip van gezondheidsoverwegingen, erin zijn geïntegreerd, op welke wijze het overeenkomstig de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=8&z=2010-07-11&g=2010-07-11) ontvangen commentaar in aanmerking is genomen en welke de redenen waren voor het aannemen ervan in het licht van de overwogen redelijke alternatieven.
 
 ##### Artikel 12. Monitoring
 
-1. Elke Partij houdt toezicht op de aanzienlijke milieugevolgen, met inbegrip van gezondheidsgevolgen, van de uitvoering van de krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=11&z=2003-05-21&g=2003-05-21) aangenomen plannen en programma's, om onder andere onvoorziene nadelige gevolgen in een vroeg stadium te kunnen vaststellen en passende herstelmaatregelen te kunnen nemen.
+1. Elke Partij houdt toezicht op de aanzienlijke milieugevolgen, met inbegrip van gezondheidsgevolgen, van de uitvoering van de krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=11&z=2010-07-11&g=2010-07-11) aangenomen plannen en programma's, om onder andere onvoorziene nadelige gevolgen in een vroeg stadium te kunnen vaststellen en passende herstelmaatregelen te kunnen nemen.
 
-2. De resultaten van de uitgevoerde monitoring worden, in overeenstemming met de nationale wetgeving, ter beschikking gesteld van de instanties bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=9&z=2003-05-21&g=2003-05-21), en van het publiek.
+2. De resultaten van de uitgevoerde monitoring worden, in overeenstemming met de nationale wetgeving, ter beschikking gesteld van de instanties bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=9&z=2010-07-11&g=2010-07-11), en van het publiek.
 
 ##### Artikel 13. Beleid en wetgeving
 
@@ -266,7 +266,7 @@ Het bij [artikel 13 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 ##### Artikel 18. Bijlagen
 
-De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&bijlage=I&z=2003-05-21&g=2003-05-21) bij dit Protocol maken een integrerend deel daarvan uit.
+De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&bijlage=I&z=2010-07-11&g=2010-07-11) bij dit Protocol maken een integrerend deel daarvan uit.
 
 ##### Artikel 19. Wijzigingen van het Protocol
 
@@ -290,29 +290,29 @@ De Secretaris-Generaal van de Verenigde Naties treedt op als Depositaris van dit
 
 ##### Artikel 23. Bekrachtiging, aanvaarding, goedkeuring en toetreding
 
-1. Dit Protocol dient te worden bekrachtigd, aanvaard of goedgekeurd door de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=21&z=2003-05-21&g=2003-05-21) bedoelde ondertekenende staten en regionale organisaties voor economische integratie.
+1. Dit Protocol dient te worden bekrachtigd, aanvaard of goedgekeurd door de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=21&z=2010-07-11&g=2010-07-11) bedoelde ondertekenende staten en regionale organisaties voor economische integratie.
 
-2. Dit Protocol staat vanaf 1 januari 2004 open voor toetreding door de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=21&z=2003-05-21&g=2003-05-21) bedoelde staten en regionale organisaties voor economische integratie.
+2. Dit Protocol staat vanaf 1 januari 2004 open voor toetreding door de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=21&z=2010-07-11&g=2010-07-11) bedoelde staten en regionale organisaties voor economische integratie.
 
 3. Elke andere, niet in het voorgaande tweede lid bedoelde staat die lid is van de Verenigde Naties kan tot het Protocol toetreden na goedkeuring door de Vergadering van de Partijen bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002731) fungerend als de Vergadering van de Partijen bij het Protocol.
 
-4. Elke regionale organisatie voor economische integratie als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=21&z=2003-05-21&g=2003-05-21) die Partij wordt bij dit Protocol zonder dat één van haar lidstaten Partij is, is gebonden aan alle verplichtingen krachtens dit Protocol. Indien één of meer lidstaten van een dergelijke organisatie Partij bij dit Protocol zijn, beslissen de organisatie en haar lidstaten over hun onderscheiden verantwoordelijkheden ten aanzien van de nakoming van hun verplichtingen krachtens dit Protocol. In dergelijke gevallen zijn de organisatie en haar lidstaten niet gerechtigd de uit het Protocol voortvloeiende rechten gelijktijdig uit te oefenen.
+4. Elke regionale organisatie voor economische integratie als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=21&z=2010-07-11&g=2010-07-11) die Partij wordt bij dit Protocol zonder dat één van haar lidstaten Partij is, is gebonden aan alle verplichtingen krachtens dit Protocol. Indien één of meer lidstaten van een dergelijke organisatie Partij bij dit Protocol zijn, beslissen de organisatie en haar lidstaten over hun onderscheiden verantwoordelijkheden ten aanzien van de nakoming van hun verplichtingen krachtens dit Protocol. In dergelijke gevallen zijn de organisatie en haar lidstaten niet gerechtigd de uit het Protocol voortvloeiende rechten gelijktijdig uit te oefenen.
 
-5. In hun akten van bekrachtiging, aanvaarding, goedkeuring of toetreding geven de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=21&z=2003-05-21&g=2003-05-21) bedoelde regionale organisaties voor economische integratie de reikwijdte van hun bevoegdheid ter zake van de aangelegenheden die onder dit Protocol vallen aan. Deze organisaties doen de Depositaris tevens mededeling van iedere relevante verandering in de reikwijdte van hun bevoegdheden.
+5. In hun akten van bekrachtiging, aanvaarding, goedkeuring of toetreding geven de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=21&z=2010-07-11&g=2010-07-11) bedoelde regionale organisaties voor economische integratie de reikwijdte van hun bevoegdheid ter zake van de aangelegenheden die onder dit Protocol vallen aan. Deze organisaties doen de Depositaris tevens mededeling van iedere relevante verandering in de reikwijdte van hun bevoegdheden.
 
 ##### Artikel 24. Inwerkingtreding
 
 1. Dit Protocol treedt in werking negentig dagen na de datum van nederlegging van de zestiende akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
-2. Voor de toepassing van het eerste lid van dit artikel wordt een door een als in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=21&z=2003-05-21&g=2003-05-21) bedoelde regionale organisatie voor economische integratie nedergelegde akte niet meegeteld naast akten die zijn nedergelegd door de lidstaten van deze organisatie.
+2. Voor de toepassing van het eerste lid van dit artikel wordt een door een als in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=21&z=2010-07-11&g=2010-07-11) bedoelde regionale organisatie voor economische integratie nedergelegde akte niet meegeteld naast akten die zijn nedergelegd door de lidstaten van deze organisatie.
 
-3. Ten aanzien van elke in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=21&z=2003-05-21&g=2003-05-21) bedoelde staat of regionale organisatie voor economische integratie die dit Protocol bekrachtigt, aanvaardt of goedkeurt, danwel ertoe toetreedt na de nederlegging van de zestiende akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, treedt het Protocol in werking negentig dagen na de datum van nederlegging van de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding door die staat of regionale organisatie voor economische integratie.
+3. Ten aanzien van elke in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=21&z=2010-07-11&g=2010-07-11) bedoelde staat of regionale organisatie voor economische integratie die dit Protocol bekrachtigt, aanvaardt of goedkeurt, danwel ertoe toetreedt na de nederlegging van de zestiende akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, treedt het Protocol in werking negentig dagen na de datum van nederlegging van de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding door die staat of regionale organisatie voor economische integratie.
 
 4. Dit Protocol is van toepassing op plannen, programma's, beleid en wetgeving ten aanzien waarvan de eerste formele voorbereidende handeling volgt op de datum van inwerkingtreding van dit Protocol. Indien een Partij onder wier rechtsmacht een plan, programma, beleid of wetgeving wordt voorgenomen, een Partij is waarop het derde lid van toepassing is, is dit Protocol van toepassing op plannen, programma's, beleid en wetgeving ten aanzien waarvan de eerste formele voorbereidende handeling volgt op de datum waarop dit Protocol in werking treedt voor die Partij.
 
 ##### Artikel 25. Opzegging
 
-Elke Partij kan, te allen tijde na vier jaar vanaf de datum waarop dit Protocol ten aanzien van die Partij in werking is getreden, het Protocol opzeggen door middel van een schriftelijke kennisgeving aan de Depositaris. De opzegging wordt van kracht negentig dagen na de datum van ontvangst van de kennisgeving door de Depositaris. De opzegging doet geen afbreuk aan de toepassing van de [artikelen 5 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=5&z=2003-05-21&g=2003-05-21), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=11&z=2003-05-21&g=2003-05-21) en [13](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=13&z=2003-05-21&g=2003-05-21) op een reeds begonnen strategische milieubeoordeling krachtens dit Protocol, of de toepassing van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=10&z=2003-05-21&g=2003-05-21) ten aanzien van een reeds gedane kennisgeving of een reeds gedaan verzoek, voordat een dergelijke opzegging van kracht wordt.
+Elke Partij kan, te allen tijde na vier jaar vanaf de datum waarop dit Protocol ten aanzien van die Partij in werking is getreden, het Protocol opzeggen door middel van een schriftelijke kennisgeving aan de Depositaris. De opzegging wordt van kracht negentig dagen na de datum van ontvangst van de kennisgeving door de Depositaris. De opzegging doet geen afbreuk aan de toepassing van de [artikelen 5 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=5&z=2010-07-11&g=2010-07-11), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=11&z=2010-07-11&g=2010-07-11) en [13](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=13&z=2010-07-11&g=2010-07-11) op een reeds begonnen strategische milieubeoordeling krachtens dit Protocol, of de toepassing van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=10&z=2010-07-11&g=2010-07-11) ten aanzien van een reeds gedane kennisgeving of een reeds gedaan verzoek, voordat een dergelijke opzegging van kracht wordt.
 
 ##### Artikel 26. Authentieke teksten
 
