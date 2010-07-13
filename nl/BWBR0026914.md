@@ -4,7 +4,7 @@ identifier: "BWBR0026914"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-05-04"
-last_updated: "2010-07-07"
+last_updated: "2010-07-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026914"
 soort: "ministeriele-regeling"
@@ -165,8 +165,9 @@ Besluit:
 | 7.1 | Subsidieregeling internationaal excelleren (Basismodule 2Getthere) | 2.1 | Periode vooraanmelding |   | - |
 | 7.2 | Subsidieregeling internationaal excelleren (Basismodule 2Getthere en demonstratieprojecten) | 2.1 en 3.1 |   | 01-01 t/m 31-12 | 6.000.000 |
 | 7.3 | Subsidieregeling internationaal excelleren (2xplore) | 4.1 |   | 01-01 t/m 31-12 | 1.500.000 |
-| 7.4 | Subsidieregeling internationaal excelleren (Opkomende markten) | 5.2 | Orders | 01-01 t/m 30-06 | 5.000.000 |
-|   |   | 5.8 | Investeringsprojecten | 01-01 t/m 30-06 | 2.000.000 |
+| 7.4 | Subsidieregeling internationaal excelleren (Opkomende markten) | 5.2 | Orders | 01-01 t/m 31-12 | 10.000.000 |
+|   |   | 5.8 | Investeringsprojecten | 01-01 t/m 31-12 | 4.000.000 |
+|   |   | 5.19 | Kennisverwerving | Datum waarop artikel 5.19 in werking treedt t/m 31-12 | 3.000.000 |
 
 ##### Artikel 2
 
