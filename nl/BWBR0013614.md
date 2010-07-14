@@ -4,7 +4,7 @@ identifier: "BWBR0013614"
 country: "nl"
 rank: "wet"
 publication_date: "2010-07-14"
-last_updated: "2005-02-02"
+last_updated: "2010-07-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013614"
 soort: "wet"
@@ -61,13 +61,11 @@ Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.
 
 ##### Artikel V
 
-1. Het verbod bedoeld in [artikel 5, eerste lid, van de Tabakswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=5) geldt ten aanzien van sponsoring en de bestaande sponsoring van op mondiaal niveau georganiseerde evenementen of activiteiten eerst met ingang van 31 juli 2002 en ten aanzien van de geschreven pers eerst met ingang van 1 januari 2003.
-
-2. Onze Minister kan aan een organisator van een auto- of motorrace in het kader van bestaande, op mondiaal niveau georganiseerde, evenementen of activiteiten, die voor 10 april 1999 schriftelijk een contractuele verplichting is aangegaan, welke onder het verbod bedoeld in [artikel 5, eerste lid, van de Tabakswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=5) valt, ontheffing verlenen van dat verbod tot een daarbij aan te geven tijdstip, doch uiterlijk tot en met 30 juli 2005, en onder daarbij te stellen voorschriften en beperkingen.
+Het verbod bedoeld in [artikel 5, eerste lid, van de Tabakswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=5) geldt ten aanzien van sponsoring en de bestaande sponsoring van op mondiaal niveau georganiseerde evenementen of activiteiten eerst met ingang van 31 juli 2002 en ten aanzien van de geschreven pers eerst met ingang van 1 januari 2003.
 
 ##### Artikel VI
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden gesteld.
+Vervallen
 
 ## Bijlage bij de Tabakswet. Bijlage als bedoeld in artikel 11b inzake bestuurlijke boeten, bevattende de tarieven voor overtredingen als bedoeld in artikel 1, onderdeel d
 
