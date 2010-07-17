@@ -4,7 +4,7 @@ identifier: "BWBR0022543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-14"
-last_updated: "2009-07-01"
+last_updated: "2010-07-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022543"
 soort: "ministeriele-regeling"
@@ -46,6 +46,12 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
+- **traaggroeiend pluimveeras:** pluimveeras waarvan de daartoe behorende dieren gemiddeld met maximaal 40 gram per dag groeien;
+
+- **verordening (EG) 889/2008:** verordening (EG) nr. 889/2008 van de Commissie van 5 september 2008 tot vaststelling van bepalingen ter uitvoering van Verordening (EG) 834/2007 van de Raad inzake de biologische productie en de etikettering van biologische producten, wat de biologische productie, de etikettering en de controle betreft (PbEU L 250);
+
+- **verordening (EG) 1235/2008:** verordening (EG) 1235/2008 van de Commissie van 8 december 2008 houdende bepalingen ter uitvoering van Verordening (EG) nr. 834/2007 van de Raad wat de regeling voor de invoer van biologische producten uit derde landen betreft (PbEU L 334).
+
 ##### Artikel 2
 
 1. Marktdeelnemers als bedoeld in artikel 2, aanhef, onderdeel d, van verordening (EG) 834/2007 registreren zich bij de Stichting Skal overeenkomstig artikel 28, eerste lid, van verordening (EG) 834/2007 in samenhang met artikel 63, derde lid, van verordening (EG) 889/2008.
@@ -58,21 +64,29 @@ Indien de Stichting Skal constateert dat de bepalingen van verordening (EG) 834/
 
 ##### Artikel 4
 
-1. Het aantal grootvee-eenheden, bedoeld in artikel 15 van verordening (EG) 889/2008, wordt vastgesteld door 170 kg stikstof per jaar per hectare te delen door de omvang van de mestproductie per dier van de desbetreffende diercategorie per jaar uitgedrukt in kilogrammen stikstof, zoals opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=I&z=2009-07-01&g=2009-07-01) bij deze regeling.
+1. Het aantal grootvee-eenheden, bedoeld in artikel 15 van verordening (EG) 889/2008, wordt vastgesteld door 170 kg stikstof per jaar per hectare te delen door de omvang van de mestproductie per dier van de desbetreffende diercategorie per jaar uitgedrukt in kilogrammen stikstof, zoals opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=I&z=2010-07-17&g=2010-07-17) bij deze regeling.
 
-2. Ingeval de desbetreffende diercategorie in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=I&z=2009-07-01&g=2009-07-01) ontbreekt, is [bijlage D van de Uitvoeringsregeling Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=D) van toepassing.
+2. Ingeval de desbetreffende diercategorie in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=I&z=2010-07-17&g=2010-07-17) ontbreekt, is [bijlage D van de Uitvoeringsregeling Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=D) van toepassing.
 
 ##### Artikel 5
 
-De duur van de periode waarin de uitlopen leeg moeten blijven als bedoeld in artikel 23, vijfde lid, van verordening (EG) 889/2008 bedraagt 60 dagen, telkens na het houden van een koppel pluimvee.
+De duur van de periode waarin de uitlopen leeg moeten blijven als bedoeld in artikel 23, vijfde lid, van verordening (EG) 889/2008 bedraagt telkens na het houden van een koppel pluimvee:
+
+- a. 60 dagen voor legkippen;
+
+- b. 30 dagen voor vleeskuikens.
 
 ##### Artikel 6
 
 1. De Minister kan op aanvraag een vergunning verlenen als bedoeld in artikel 29, eerste lid van verordening (EG) 889/2008.
 
-2. De Minister kan op aanvraag een ontheffing verlenen voor de import van producten van gegarandeerde gelijkwaardigheid afkomstig uit derde landen die niet zijn opgenomen op de lijst, bedoeld in artikel 33, tweede lid, van verordening (EG) 889/2008, overeenkomstig de krachtens artikel 33, tweede lid en artikel 40 van verordening 834/2008 vastgestelde communautaire voorschriften.
+2. De Minister kan op aanvraag een ontheffing verlenen voor de import van producten van gegarandeerde gelijkwaardigheid afkomstig uit derde landen die niet zijn opgenomen op de lijst, bedoeld in artikel 33, tweede lid, van verordening (EG) 834/2007, overeenkomstig de bij verordening (EG) 1235/2008 vastgestelde communautaire voorschriften.
 
 3. De Stichting Skal kan op aanvraag ontheffing verlenen voor het gebruik van niet overeenkomstig de biologische productiemethode verkregen zaaizaad en pootgoed overeenkomstig artikel 45 van verordening (EG) 889/2008.
+
+4. De stichting Skal kan op aanvraag tot uiterlijk 31 december 2013 toestemming verlenen voor het aanbinden van runderen overeenkomstig artikel 95, eerste lid, van verordening (EG) 889/2008.
+
+5. De stichting Skal kan op aanvraag tot uiterlijk 31 december 2013 toestemming verlenen voor de bezetting van de uitloop voor vleeskuikens overeenkomstig artikel 95, tweede lid, van verordening (EG) 889/2008.
 
 ##### Artikel 7
 
@@ -94,29 +108,21 @@ Marktdeelnemers die bananen in de handel brengen, die op grond van artikel 7, ee
 
 ##### Artikel 11
 
-De Minister is als coördinerende autoriteit belast met de taken, vermeld in de artikelen 9, derde lid, 10, vierde en vijfde lid, 12, zesde lid, en 17 van verordening (EG) 1580/2007.
+De Minister is de coördinerende autoriteit, bedoeld in artikel 8 van verordening (EG) 1580/2007.
 
 ##### Artikel 12
 
 De Stichting KCB is belast met:
 
-- a. het verlenen van de in artikel 10, derde lid, van verordening (EG) 1580/2007 bedoelde toestemming;
+- a. het verlenen van de in artikel 11, eerste lid, van verordening (EG) 1580/2007 bedoelde toestemming;
 
-- b. het bepalen van het minimumpercentage van de zendingen en hoeveelheden, die bij de uitvoer aan een normcontrole onderworpen moeten zijn als bedoeld in artikel 11, tweede lid, van verordening (EG) 1580/2007;
+- b. de vaststelling van het minimumaandeel, bedoeld in artikel 10, tweede lid, onderdeel b, van verordening (EG) 1580/2007;
 
 - c. het verlenen van vrijstellingen en de afgifte van vrijstellingscertificaten, bedoeld in artikel 7, eerste lid, van [verordening (EG) 2898/95](31995R2898).
 
 ##### Artikel 13
 
-1. De controle van groenten en fruit door de Stichting KCB geschiedt overeenkomstig:
-
-- a. de artikelen 10 en 20 en bijlage VI van verordening (EG) 1580/2007 en artikel 113 bis, vierde lid en de krachtens artikel 194 van verordening (EG) 1234/2007 vastgestelde voorschriften bij de normcontroles op de interne markt;
-
-- b. de artikelen 11 en 20 van verordening (EG) 1580/2007 bij de uitvoer naar derde landen;
-
-- c. de artikelen 12 en 20 van verordening (EG) 1580/2007 bij de uitvoer uit derde landen;
-
-- d. de artikelen 19 en 20 van verordening (EG) 1580/2007 bij voor industriële verwerking bestemde producten.
+1. De controle van groenten en fruit door de Stichting KCB geschiedt overeenkomstig de artikelen 10 en 20 en bijlage VI van verordening (EG) 1580/2007 en artikel 113 bis, vierde lid en de krachtens artikel 194 van verordening (EG) 1234/2007 vastgestelde voorschriften bij de normcontroles op de interne markt.
 
 2. De keuring en controle van bananen door de Stichting KCB geschiedt overeenkomstig de artikelen 2 tot en met 7 van [verordening (EG) 2898/95](31995R2898).
 
@@ -144,7 +150,7 @@ Indien pluimveevlees afkomstig uit landen buiten de Europese Unie de vermeldinge
 
 ##### Artikel 17
 
-Een aanvraag tot registratie als bedoeld in artikel 5 van [verordening (EG) 510/2006](32006R0510) dan wel in artikel 7 van [verordening (EG) 509/2006](32006R0509), alsmede een verzoek tot wijziging van een productdossier als bedoeld in artikel 9, eerste lid, van [verordening (EG) 510/2006](32006R0510) dan wel artikel 11, eerste lid, van [verordening (EG) 510/2006](32006R0510), alsmede een verzoek tot annulering van een registratie als bedoeld in artikel 12, tweede lid, van [verordening (EG) 510/2006](32006R0510) wordt ingediend bij het Hoofdproductschap Akkerbouw.
+Een aanvraag tot registratie als bedoeld in artikel 5 van [verordening (EG) 510/2006](32006R0510) dan wel in artikel 7 van [verordening (EG) 509/2006](32006R0509), alsmede een verzoek tot wijziging van een productdossier als bedoeld in artikel 9, eerste lid, van [verordening (EG) 510/2006](32006R0510) dan wel artikel 11, eerste lid, van verordening (EG) 509/2006, alsmede een verzoek tot annulering van een registratie als bedoeld in artikel 12, tweede lid, van [verordening (EG) 510/2006](32006R0510) wordt ingediend bij het Hoofdproductschap Akkerbouw.
 
 ##### Artikel 18
 
@@ -202,7 +208,7 @@ Volledige zuigelingenvoeding en opvolgzuigelingenvoeding worden slechts uit Nede
 
 ##### Artikel 23
 
-Onder bloembollen wordt verstaan: bollen, knollen, wortelstokken en andere voor vermeerdering of bloemproductie bestemde plantendelen van de in de [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=II&z=2009-07-01&g=2009-07-01) bij deze regeling onder I genoemde gewassen, voor zover zij behoren tot de daarachter onder II vermelde botanische families, geslachten of soorten.
+Onder bloembollen wordt verstaan: bollen, knollen, wortelstokken en andere voor vermeerdering of bloemproductie bestemde plantendelen van de in de [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=II&z=2010-07-17&g=2010-07-17) bij deze regeling onder I genoemde gewassen, voor zover zij behoren tot de daarachter onder II vermelde botanische families, geslachten of soorten.
 
 ##### Artikel 24
 
@@ -863,7 +869,7 @@ In dit hoofdstuk wordt verstaan onder marktdeelnemer: iedere natuurlijke persoon
 | Vanoverberghia | Zingiberaceae |
 | Zingiber | Zingiberaceae |
 
-## Bijlage I. als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=7&z=2011-07-02&g=2009-07-01) van de Landbouwkwaliteitsregeling 2007
+## Bijlage I. als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=7&z=2010-07-17&g=2010-07-17) van de Landbouwkwaliteitsregeling 2007
 
 **Omvang van de mestproductie voor de onderscheiden diercategorieën, uitgedrukt in kilogrammen stikstof per dier per jaar als bedoeld in artikel 7**
 
@@ -954,15 +960,15 @@ De periode waarin uitlopen leeg moeten blijven als bedoeld in bijlage I, onderde
 
 ### Hoofdstuk 5. Zuigelingenvoeding bestemd voor derde landen
 
-### Hoofdstuk 6. Het in de handel brengen van teeltmateriaal van bloembollen
+### Hoofdstuk 5. Zuigelingenvoeding bestemd voor derde landen
 
 ### Hoofdstuk 7. Toezichthouders
 
-### Hoofdstuk 8. Overige bepalingen
+### Hoofdstuk 7. Toezichthouders
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage II. als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=6&artikel=23&z=2011-07-02&g=2009-07-01) van de Landbouwkwaliteitsregeling 2007
+## Bijlage II. als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=6&artikel=23&z=2010-07-17&g=2010-07-17) van de Landbouwkwaliteitsregeling 2007
 
 | I | II |
 | --- | --- |
@@ -1364,3 +1370,480 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 ##### Artikel 7a
 
 Bij het in de handel brengen van of het maken van reclame voor diervoeders voor honden en katten wordt slechts verwezen naar de biologische productiemethode indien de bereiding voldoet aan de biologische productiemethode zoals vastgesteld door het bestuur van de Stichting Skal.
+
+##### Artikel 8a
+
+1. Voor het schoonmaken en ontsmetten van gebouwen en installaties voor de plantaardige productie, inclusief opslag in een landbouwbedrijf, overeenkomstig artikel 95, zesde lid, van verordening (EG) 889/2008, mag slechts gebruik worden gemaakt van de in bijlage III genoemde producten met de daarbij genoemde beperkingen.
+
+2. Om gebouwen en andere installaties voor de plantaardige productie te ontdoen van insecten en andere parasieten, mag gebruik worden gemaakt van rodenticiden en de in bijlage II bij verordening (EG) 889/2008 opgenomen producten. Rodenticiden worden uitsluitend gebruikt in vallen.
+
+### Hoofdstuk 2. Het in de handel brengen van groenten en fruit
+
+### Hoofdstuk 3. Het in de handel brengen van vlees van pluimvee
+
+##### Artikel 16a
+
+1. In afwijking van de in bijlage XIV bij verordening (EG) 1234/2007, deel B, onderdeel II, punt 2, vastgestelde temperatuurvoorschriften, mag de temperatuur van vers vlees van pluimvee, voor zover dat nodig is, gedurende een periode van ten hoogste 24 uur omlaag worden gebracht, tot een temperatuur van ten laagste -8°C in de kern, voor:
+
+- a. het snijden en behandelen in detailhandelszaken of in aan verkooppunten grenzende lokalen, waar het vlees uitsluitend wordt versneden en behandeld om het ter plaatse rechtstreeks aan de consument te kunnen leveren; en
+
+- b. het snijden en behandelen van vers vlees van pluimvee in de fabriek tijdens de productie van bereidingen op basis van vers vlees van pluimvee.
+
+### Hoofdstuk 4. Het in de handel brengen van landbouwproducten en levensmiddelen met een beschermde geografische aanduiding, oorsprongsbenaming en een bescherming als een gegarandeerde traditionele specialiteit
+
+### Hoofdstuk 6. Het in de handel brengen van teeltmateriaal van bloembollen
+
+### Hoofdstuk 8. Overige bepalingen
+
+## Bijlage III. als bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=8a&z=2010-07-17&g=2010-07-17) van de Landbouwkwaliteitsregeling 2007
+
+Producten voor de reiniging en de ontsmetting van gebouwen en installaties voor de plantaardige productie:
+
+| Producten | Beperkingen |
+| --- | --- |
+| Kalium- en natriumzeep |   |
+| Water en stoom |   |
+| Kalkmelk |   |
+| Kalk |   |
+| Ongebluste kalk |   |
+| Natriumhypochloriet |   |
+| Bijtende soda |   |
+| Bijtende potas |   |
+| Waterstofperoxide |   |
+| Natuurlijke plantenextracten |   |
+| Citroenzuur, perazijnzuur, mierenzuur, melkzuur, oxaalzuur en azijnzuur |   |
+| Alcohol |   |
+| Salpeterzuur | Alleen voor de reiniging van druppelaars in kassen |
+| Formaldehyde | Alleen bij het ontsmetten van entruimten voor paddestoelen |
+| Natriumcarbonaat |   |
+| Chloramine-T |   |
+| Sulfiet | Alleen voor het reinigen van plukgereedschap en opslagruimte voor druiven |
+| Fluorverbindingen | Alleen voor de reiniging van glas in lege kassen |
+| Middelen die door de Plantenziektekundige Dienst zijn verplicht voor de reiniging van productielocaties in geval van besmetting met quarantaineorganismen |   |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage II. als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=6&artikel=23&z=2011-07-02&g=2010-07-17) van de Landbouwkwaliteitsregeling 2007
+
+| I | II |
+| --- | --- |
+| Bravoa | Agavaceae |
+| Polianthes | Agavaceae |
+| Pseudobravoa | Agavaceae |
+|   |   |
+| Allium | Alliaceae |
+| Ancrumia | Alliaceae |
+| Androstephium | Alliaceae |
+| Bessera | Alliaceae |
+| Bloomeria | Alliaceae |
+| Brodiaea | Alliaceae |
+| Caloscordum | Alliaceae |
+| Dandya | Alliaceae |
+| Dichelostemma | Alliaceae |
+| Erinna | Alliaceae |
+| Garaventia | Alliaceae |
+| Gethyum | Alliaceae |
+| Gilliesia | Alliaceae |
+| Ipheion | Alliaceae |
+| Latace | Alliaceae |
+| Leucocoryne | Alliaceae |
+| Miersia | Alliaceae |
+| Milla | Alliaceae |
+| Milula | Alliaceae |
+| Muilla | Alliaceae |
+| Nectaroscordum | Alliaceae |
+| Nothoscordum | Alliaceae |
+| Petronymphe | Alliaceae |
+| Solaria | Alliaceae |
+| Speea | Alliaceae |
+| Trichlora | Alliaceae |
+| Tristagma | Alliaceae |
+| Triteleia | Alliaceae |
+| Triteleiopsis | Alliaceae |
+| Tulbaghia | Alliaceae |
+|   |   |
+| Amaryllis | Amaryllidaceae |
+| Ammocharis | Amaryllidaceae |
+| Apodolirion | Amaryllidaceae |
+| Bokkeveldia | Amaryllidaceae |
+| Boophone | Amaryllidaceae |
+| Braxireon | Amaryllidaceae |
+| Brunsvigia | Amaryllidaceae |
+| Caliphruria | Amaryllidaceae |
+| Calostemma | Amaryllidaceae |
+| Carpolyza | Amaryllidaceae |
+| Castellanoa | Amaryllidaceae |
+| Champmanolirion | Amaryllidaceae |
+| Chlidanthus | Amaryllidaceae |
+| Clivia | Amaryllidaceae |
+| Crinum | Amaryllidaceae |
+| Cryptostephanus | Amaryllidaceae |
+| Cybistetes | Amaryllidaceae |
+| Cyrtanthus | Amaryllidaceae |
+| Elisena | Amaryllidaceae |
+| Eucharis | Amaryllidaceae |
+| Eucrosia | Amaryllidaceae |
+| Eustephia | Amaryllidaceae |
+| Famatina | Amaryllidaceae |
+| Galanthus | Amaryllidaceae |
+| Gemmaria | Amaryllidaceae |
+| Gethyllis | Amaryllidaceae |
+| Griffinia | Amaryllidaceae |
+| Habranthus | Amaryllidaceae |
+| Haemanthus | Amaryllidaceae |
+| Hannonia | Amaryllidaceae |
+| Haylockia | Amaryllidaceae |
+| Hessea | Amaryllidaceae |
+| Hieronymiella | Amaryllidaceae |
+| Hippeastrum | Amaryllidaceae |
+| Hyline | Amaryllidaceae |
+| Hymenocallis | Amaryllidaceae |
+| Ismene | Amaryllidaceae |
+| Lapiedra | Amaryllidaceae |
+| Leucojum | Amaryllidaceae |
+| Lycoris | Amaryllidaceae |
+| Mathieua | Amaryllidaceae |
+| Namaquanula | Amaryllidaceae |
+| Narcissus | Amaryllidaceae |
+| Pamianthe | Amaryllidaceae |
+| Pancratium | Amaryllidaceae |
+| Paramongaia | Amaryllidaceae |
+| Phaedranassa | Amaryllidaceae |
+| Placea | Amaryllidaceae |
+| Plagiolirion | Amaryllidaceae |
+| Proiphys | Amaryllidaceae |
+| Pseudostenomesson | Amaryllidaceae |
+| Pyrolirion | Amaryllidaceae |
+| Rauhia | Amaryllidaceae |
+| Rhodophiala | Amaryllidaceae |
+| Scadoxus | Amaryllidaceae |
+| Sprekelia | Amaryllidaceae |
+| Stenomesson | Amaryllidaceae |
+| Sternbergia | Amaryllidaceae |
+| Strumaria | Amaryllidaceae |
+| Tedingea | Amaryllidaceae |
+| Traubia | Amaryllidaceae |
+| Ungernia | Amaryllidaceae |
+| Urceolina | Amaryllidaceae |
+| Vagaria | Amaryllidaceae |
+| Vallota | Amaryllidaceae |
+| Zephyranthes | Amaryllidaceae |
+|   |   |
+| Aphyllanthes | Aphyllanthaceae |
+|   |   |
+| Amorphophallus | Araceae |
+| Arisaema | Araceae |
+| Arum | Araceae |
+| Biarum | Araceae |
+| Dracontium | Araceae |
+| Dracunculus | Araceae |
+| Helicodiceros | Araceae |
+| Pinellia | Araceae |
+| Sauromatum | Araceae |
+| Zantedeschia | Araceae |
+|   |   |
+| Asphodelus | Asphodelaceae |
+| Bulbine | Asphodelaceae |
+| Bulbinella | Asphodelaceae |
+| Eremurus | Asphodelaceae |
+| Hemiphylacus | Asphodelaceae |
+| Jodrellia | Asphodelaceae |
+| Paradisea | Asphodelaceae |
+| Simethis | Asphodelaceae |
+| Trachyandra | Asphodelaceae |
+|   |   |
+| Dahlia | Asteraceae |
+|   |   |
+| Begonia tuberhybrida | Begoniaceae |
+|   |   |
+| Blanfordia | Blanfordiaceae |
+|   |   |
+| Canna | Cannaceae |
+|   |   |
+| Androcymbium | Colchicaceae |
+| Baeometra | Colchicaceae |
+| Bulbocodium | Colchicaceae |
+| Burchardia | Colchicaceae |
+| Camptorrhiza | Colchicaceae |
+| Colchicum | Colchicaceae |
+| Gloriosa | Colchicaceae |
+| Hexacyrtis | Colchicaceae |
+| Iphigenia | Colchicaceae |
+| Littonia | Colchicaceae |
+| Merendera | Colchicaceae |
+| Neodregea | Colchicaceae |
+| Onixotis | Colchicaceae |
+| Ornithoglossum | Colchicaceae |
+| Sandersonia | Colchicaceae |
+| Wurmbea | Colchicaceae |
+|   |   |
+| Cyanastrum | Cyanastraceae |
+|   |   |
+| Eriospermum | Eriospermaceae |
+|   |   |
+| Albuca | Hyacinthaceae |
+| Alrawia | Hyacinthaceae |
+| Amphisiphon | Hyacinthaceae |
+| Androsiphon | Hyacinthaceae |
+| Bellevalia | Hyacinthaceae |
+| Bowiea | Hyacinthaceae |
+| Brimeura | Hyacinthaceae |
+| Camassia | Hyacinthaceae |
+| Chionodoxa | Hyacinthaceae |
+| Chlorogalum | Hyacinthaceae |
+| Daubenya | Hyacinthaceae |
+| Dipcadi | Hyacinthaceae |
+| Drimia | Hyacinthaceae |
+| Drimiopsis | Hyacinthaceae |
+| Eucomis | Hyacinthaceae |
+| Fortunatia | Hyacinthaceae |
+| Galtonia | Hyacinthaceae |
+| Hastingsia | Hyacinthaceae |
+| Hesperocallis | Hyacinthaceae |
+| Hyacinthella | Hyacinthaceae |
+| Hyacinthoides | Hyacinthaceae |
+| Hyacinthus | Hyacinthaceae |
+| Lachenalia | Hyacinthaceae |
+| Ledebouria | Hyacinthaceae |
+| Leopoldia | Hyacinthaceae |
+| Litanthus | Hyacinthaceae |
+| Massonia | Hyacinthaceae |
+| Muscari | Hyacinthaceae |
+| Muscarimia | Hyacinthaceae |
+| Neopatersonia | Hyacinthaceae |
+| Ornithogalum | Hyacinthaceae |
+| Polyxena | Hyacinthaceae |
+| Pseudogaltonia | Hyacinthaceae |
+| Pseudomuscari | Hyacinthaceae |
+| Puschkinia | Hyacinthaceae |
+| Rhadamanthus | Hyacinthaceae |
+| Rhodocodon | Hyacinthaceae |
+| Schizobasis | Hyacinthaceae |
+| Schoenolirion | Hyacinthaceae |
+| Scilla | Hyacinthaceae |
+| Sypharissa | Hyacinthaceae |
+| Thuranthos | Hyacinthaceae |
+| Urginea | Hyacinthaceae |
+| Veltheimia | Hyacinthaceae |
+| Whiteheadia | Hyacinthaceae |
+|   |   |
+| Curculigo | Hypoxidaceae |
+| Empodium | Hypoxidaceae |
+| Hypoxidia | Hypocidaceae |
+| Hypoxis | Hypoxidaceae |
+| Molineria | Hypoxidaceae |
+| Pauridia | Hypoxidaceae |
+| Rhodohypoxis | Hypoxidaceae |
+| Saniella | Hypoxidaceae |
+| Spiloxene | Hypoxidaceae |
+|   |   |
+| Ainea | Iridaceae |
+| Alophia | Iridaceae |
+| Anapalina | Iridaceae |
+| Anomatheca | Iridaceae |
+| Antholyza | Iridaceae |
+| Aristea | Iridaceae |
+| Babiana | Iridaceae |
+| Barnardiella | Iridaceae |
+| Belamcanda | Iridaceae |
+| Bobartia | Iridaceae |
+| Calydorea | Iridaceae |
+| Cardenanthus | Iridaceae |
+| Chasmanthe | Iridaceae |
+| Cipura | Iridaceae |
+| Cobana | Iridaceae |
+| Crocosmia | Iridaceae |
+| Crocus | Iridaceae |
+| Cypella | Iridaceae |
+| Devia | Iridaceae |
+| Dierama | Iridaceae |
+| Dietes | Iridaceae |
+| Diplarrhena | Iridaceae |
+| Duthiastrum | Iridaceae |
+| Eleutherine | Iridaceae |
+| Ennealophus | Iridaceae |
+| Eurynotia | Iridaceae |
+| Ferraria | Iridaceae |
+| Fosteria | Iridaceae |
+| Galaxia | Iridaceae |
+| Geissorhiza | Iridaceae |
+| Gelasine | Iridaceae |
+| Geosiris | Iridaceae |
+| Gladiolus | Iridaceae |
+| Gynandriris | Iridaceae |
+| Herbertia | Iridaceae |
+| Hermodactylus | Iridaceae |
+| Hesperantha | Iridaceae |
+| Hesperoxiphion | Iridaceae |
+| Hexaglottis | Iridaceae |
+| Homeria | Iridaceae |
+| Iris excl. I.germanica, I.kaempferi, I.ensata, I.pumila, I.foetidissima, I.laevigata, I.sibirica, I.japonica (incl. I.Chinensis), I.chryso- | Iridaceae |
+| graphes, I.halophila (I.spuria ssp halophila) en I.spuria |   |
+| Isophysis | Iridaceae |
+| Ixia | Iridaceae |
+| Kelissa | Iridaceae |
+| Klattia | Iridaceae |
+| Lapeirousia | Iridaceae |
+| Larentia | Iridaceae |
+| Lethia | Iridaceae |
+| Libertia | Iridaceae |
+| Mastigostyla | Iridaceae |
+| Melasphaerula | Iridaceae |
+| Micranthus | Iridaceae |
+| Moraea | Iridaceae |
+| Nemastylis | Iridaceae |
+| Neomarica | Iridaceae |
+| Nivenia | Iridaceae |
+| Olsynium | Iridaceae |
+| Onira | Iridaceae |
+| Orthrosanthus | Iridaceae |
+| Pardanthopsis | Iridaceae |
+| Patersonia | Iridaceae |
+| Phalocallis | Iridaceae |
+| Pillansia | Iridaceae |
+| Pseudotrimezia | Iridaceae |
+| Radinosiphon | Iridaceae |
+| Rheome | Iridaceae |
+| Rigidella | Iridaceae |
+| Roggeveldia | Iridaceae |
+| Romulea | Iridaceae |
+| Savannosiphon | Iridaceae |
+| Schizostylis | Iridaceae |
+| Sessilanthera | Iridaceae |
+| Sessilistigma | Iridaceae |
+| Solenomelus | Iridaceae |
+| Sparaxis | Iridaceae |
+| Sphenostigma | Iridaceae |
+| Syringodea | Iridaceae |
+| Tapeinia | Iridaceae |
+| Thereianthus | Iridaceae |
+| Tigridia | Iridaceae |
+| Trimezia | Iridaceae |
+| Tritonia | Iridaceae |
+| Tritoniopsis | Iridaceae |
+| Watsonia | Iridaceae |
+| Witsenia | Iridaceae |
+| Zygotritonia | Iridaceae |
+|   |   |
+| Ixiolirion | Ixioliriaceae |
+|   |   |
+| Calochortus | Liliaceae |
+| Cardiocrinum | Liliaceae |
+| Erythronium | Liliaceae |
+| Fritillaria | Liliaceae |
+| Gagea | Liliaceae |
+| Korolkowia | Liliaceae |
+| Lilium | Liliaceae |
+| Lloydia | Liliaceae |
+| Nomocharis | Liliaceae |
+| Notholirion | Liliaceae |
+| Tulipa | Liliaceae |
+|   |   |
+| Zigadenus | Melanthiaceae |
+|   |   |
+| Mirabilis | Nyctaginaceae |
+|   |   |
+| Oxalis | Oxalidaceae |
+|   |   |
+| Cyclamen excl. C. persicum cultivars | Primulaceae |
+|   |   |
+| Anemone apennina | Ranunculaceae |
+| A. blanda | Ranunculaceae |
+| A. coronaria | Ranunculaceae |
+| A. cylindrica | Ranunculaceae |
+| A. flaccida | Ranunculaceae |
+| A. fulgens | Ranunculaceae |
+| A. ranunculoides | Ranunculaceae |
+| A. trifolia | Ranunculaceae |
+| Eranthis | Ranunculaceae |
+| Ranunculus ficaria | Ranunculaceae |
+| R. asiaticus | Ranunculaceae |
+| R. millefoliatus | Ranunculaceae |
+|   |   |
+| Conanthera | Tecophilaeaceae |
+| Cyanella | Tecophilaeaceae |
+| Odontostomum | Tecophilaeaceae |
+| Tecophilaea | Tecophilaeaceae |
+| Walleria | Tecophilaeaceae |
+| Zephyra | Tecophilaeaceae |
+|   |   |
+| Abolboda | Xyridaceae |
+| Achlyphila | Xyridaceae |
+| Aratitiyopea | Xyridaceae |
+| Orectanthe | Xyridaceae |
+| Xyris | Xyridaceae |
+|   |   |
+| Aframomum | Zingiberaceae |
+| Alpinia | Zingiberaceae |
+| Amomum | Zingiberaceae |
+| Aulotandra | Zingiberaceae |
+| Boesenbergia | Zingiberaceae |
+| Burbidgea | Zingiberaceae |
+| Camptandra | Zingiberaceae |
+| Caulokaempferia | Zingiberaceae |
+| Cautleya | Zingiberaceae |
+| Curcuma | Zingiberaceae |
+| Curcumorpha | Zingiberaceae |
+| Cyphostigma | Zingiberaceae |
+| Elettaria | Zingiberaceae |
+| Elettariopsis | Zingiberaceae |
+| Etlingera | Zingiberaceae |
+| Gagnepainia | Zingiberaceae |
+| Geocharis | Zingiberaceae |
+| Geostachys | Zingiberaceae |
+| Globba | Zingiberaceae |
+| Haniffia | Zingiberaceae |
+| Haplochorema | Zingiberaceae |
+| Hedychium | Zingiberaceae |
+| Hemiorchis | Zingiberaceae |
+| Hitchenia | Zingiberaceae |
+| Hornstedtia | Zingiberaceae |
+| Kaempferia | Zingiberaceae |
+| Leptosolena | Zingiberaceae |
+| Mantisia | Zingiberaceae |
+| Nanochilus | Zingiberaceae |
+| Paracautleya | Zingiberaceae |
+| Parakeampferia | Zingiberaceae |
+| Plagiostachys | Zingiberaceae |
+| Pleuranthodium | Zingiberaceae |
+| Pommereschea | Zingiberaceae |
+| Pyrgophyllum | Zingiberaceae |
+| Renealmia | Zingiberaceae |
+| Rhynchanthus | Zingiberaceae |
+| Riedelia | Zingiberaceae |
+| Roscoea | Zingiberaceae |
+| Scaphochlamys | Zingiberaceae |
+| Siliquamomum | Zingiberaceae |
+| Siphonochilus | Zingiberaceae |
+| Stadiochilus | Zingiberaceae |
+| Stahlianthus | Zingiberaceae |
+| Vanoverberghia | Zingiberaceae |
+| Zingiber | Zingiberaceae |
+
+## Bijlage III. als bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=8a&z=2011-07-02&g=2010-07-17) van de Landbouwkwaliteitsregeling 2007
+
+Producten voor de reiniging en de ontsmetting van gebouwen en installaties voor de plantaardige productie:
+
+| Producten | Beperkingen |
+| --- | --- |
+| Kalium- en natriumzeep |   |
+| Water en stoom |   |
+| Kalkmelk |   |
+| Kalk |   |
+| Ongebluste kalk |   |
+| Natriumhypochloriet |   |
+| Bijtende soda |   |
+| Bijtende potas |   |
+| Waterstofperoxide |   |
+| Natuurlijke plantenextracten |   |
+| Citroenzuur, perazijnzuur, mierenzuur, melkzuur, oxaalzuur en azijnzuur |   |
+| Alcohol |   |
+| Salpeterzuur | Alleen voor de reiniging van druppelaars in kassen |
+| Formaldehyde | Alleen bij het ontsmetten van entruimten voor paddestoelen |
+| Natriumcarbonaat |   |
+| Chloramine-T |   |
+| Sulfiet | Alleen voor het reinigen van plukgereedschap en opslagruimte voor druiven |
+| Fluorverbindingen | Alleen voor de reiniging van glas in lege kassen |
+| Middelen die door de Plantenziektekundige Dienst zijn verplicht voor de reiniging van productielocaties in geval van besmetting met quarantaineorganismen |   |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
