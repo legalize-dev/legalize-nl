@@ -4,7 +4,7 @@ identifier: "BWBR0016097"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-08"
-last_updated: "2010-04-29"
+last_updated: "2010-07-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016097"
 soort: "ministeriele-regeling"
@@ -159,6 +159,8 @@ De vergoeding die ingevolge [artikel 2, eerste lid, van de Rijkswet op de consul
 
 - –. ten behoeve van de personen, bedoeld in de voorlaatste alinea van de brief van 21 december 2007 van de Permanente Vertegenwoordiging van het Koninkrijk der Nederlanden bij de Verenigde Naties, behorend bij het op 21 december 2007 te New York tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Naties betreffende de Zetel van het Speciale Tribunaal voor Libanon (Trb. 2007, 228), met het oog op het verrichten van de in die alinea bedoelde werkzaamheden: € 60,
 
+- –. ten behoeve van Turkse onderdanen, die met het oog op het verrichten van arbeid in loondienst, het verrichten van arbeid als geestelijk voorganger of godsdienstleraar, met het oog op verblijf als stagiair of praktikant, verblijf als kennismigrant als bedoeld in [artikel 1d van het Besluit uitvoering Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=1d), verblijf als onderzoeker in de zin van richtlijn 2005/71/EG, verblijf als onbezoldigde wetenschappelijk onderzoeker of verblijf als onbezoldigde gastdocent, en hun gezinsleden, verblijfsrecht hebben op grond van het Associatierecht EU-Turkije, alsmede Turkse onderdanen die als zelfstandige of dienstverrichter in Nederland verblijfsrecht hebben op grond van het Associatierecht EU-Turkije: € 60,
+
 - –. in overige gevallen: € 331.
 
 - t. het bemiddelen bij het afleggen van een examen: € 157,– per afzonderlijk examen;
@@ -171,9 +173,9 @@ De vergoeding voor het uitvoeren van een bijzondere opdracht bedraagt het aantal
 
 ##### Artikel 3
 
-1. De vergoeding, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2009-11-15&g=2010-04-29) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=2&z=2009-11-15&g=2010-04-29), is in de Oekraïne en in Zimbabwe verschuldigd in het equivalent aan US dollars. De vergoeding in Suriname is verschuldigd in euro’s.
+1. De vergoeding, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2010-07-20&g=2010-07-20) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=2&z=2010-07-20&g=2010-07-20), is in de Oekraïne en in Zimbabwe verschuldigd in het equivalent aan US dollars. De vergoeding in Suriname is verschuldigd in euro’s.
 
-2. De vergoeding, bedoeld in [artikel 1, onderdeel s, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2009-11-15&g=2010-04-29), wordt voldaan door storting of overboeking van het verschuldigde bedrag op een daartoe bestemde rekening in Nederland.
+2. De vergoeding, bedoeld in [artikel 1, onderdeel s, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2010-07-20&g=2010-07-20), wordt voldaan door storting of overboeking van het verschuldigde bedrag op een daartoe bestemde rekening in Nederland.
 
 ##### Artikel 4
 
@@ -187,7 +189,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3a
 
-1. De vergoeding, genoemd in [artikel 1, onderdeel s, onder 1° tot en met onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2009-11-15&g=2010-04-29), is niet verschuldigd door:
+1. De vergoeding, genoemd in [artikel 1, onderdeel s, onder 1° tot en met onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2010-07-20&g=2010-07-20), is niet verschuldigd door:
 
 - a. kinderen jonger dan zes jaar,
 
@@ -195,13 +197,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - c. wetenschappelijke onderzoekers die onderdaan zijn van derde landen en die zich met het oog op wetenschappelijk onderzoek verplaatsen.
 
-2. Tot 1 januari 2008 bedraagt de vergoeding, genoemd in [artikel 1, onderdeel s, onder 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2009-11-15&g=2010-04-29), € 35 voor aanvragen ten behoeve van onderdanen uit Rusland, Oekraïne, Albanië, Macedonië, Montenegro, Servië, Bosnië-Herzegovina en Moldavië.
+2. Tot 1 januari 2008 bedraagt de vergoeding, genoemd in [artikel 1, onderdeel s, onder 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2010-07-20&g=2010-07-20), € 35 voor aanvragen ten behoeve van onderdanen uit Rusland, Oekraïne, Albanië, Macedonië, Montenegro, Servië, Bosnië-Herzegovina en Moldavië.
 
-3. Na 1 januari 2008 bedraagt de vergoeding, genoemd in [artikel 1, onderdeel s, onder 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2009-11-15&g=2010-04-29), € 35 voor aanvragen ten behoeve van onderdanen uit de landen, bedoeld in het eerste lid, indien die landen met de Europese Gemeenschap een visumfaciliteringsovereenkomst hebben gesloten als bedoeld in artikel 2 van de Beschikking (EG) nr. (2006/440/EC) van de Raad van 1 juni 2006 visumaanvragen (PbEG 2006 L 175).
+3. Na 1 januari 2008 bedraagt de vergoeding, genoemd in [artikel 1, onderdeel s, onder 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2010-07-20&g=2010-07-20), € 35 voor aanvragen ten behoeve van onderdanen uit de landen, bedoeld in het eerste lid, indien die landen met de Europese Gemeenschap een visumfaciliteringsovereenkomst hebben gesloten als bedoeld in artikel 2 van de Beschikking (EG) nr. (2006/440/EC) van de Raad van 1 juni 2006 visumaanvragen (PbEG 2006 L 175).
 
-4. De vergoeding, genoemd in [artikel 1, onderdeel s, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2009-11-15&g=2010-04-29), is niet verschuldigd door de belanghebbende, bedoeld in [artikel 1, eerste lid, van de Wet betreffende de positie van Molukkers](https://wetten.overheid.nl/jci1.3:c:BWBR0003052&artikel=1).
+4. De vergoeding, genoemd in [artikel 1, onderdeel s, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2010-07-20&g=2010-07-20), is niet verschuldigd door de belanghebbende, bedoeld in [artikel 1, eerste lid, van de Wet betreffende de positie van Molukkers](https://wetten.overheid.nl/jci1.3:c:BWBR0003052&artikel=1).
 
-5. De vergoeding, genoemd in [artikel 1, onderdeel s, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2009-11-15&g=2010-04-29), is niet verschuldigd indien de aanvraag betrekking heeft op een machtiging tot voorlopig verblijf:
+5. De vergoeding, genoemd in [artikel 1, onderdeel s, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2010-07-20&g=2010-07-20), is niet verschuldigd indien de aanvraag betrekking heeft op een machtiging tot voorlopig verblijf:
 
 - a. onder de beperking genoemd in [artikel 3.4, eerste lid, onder m, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4);
 
@@ -215,11 +217,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - f. met het oog op gebruikmaking van de terugkeeroptie naar Nederland op grond van [artikel 8 van de Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=8).
 
-6. De vergoeding, genoemd in [artikel 1, aanhef, onderdeel s, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2009-11-15&g=2010-04-29), is niet verschuldigd indien de aanvraag betrekking heeft op een categorie machtigingen tot voorlopig verblijf die ingevolge een verdrag of besluit van een volkenrechtelijke organisatie kosteloos moeten worden verleend.
+6. De vergoeding, genoemd in [artikel 1, aanhef, onderdeel s, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2010-07-20&g=2010-07-20), is niet verschuldigd indien de aanvraag betrekking heeft op een categorie machtigingen tot voorlopig verblijf die ingevolge een verdrag of besluit van een volkenrechtelijke organisatie kosteloos moeten worden verleend.
 
 ##### Artikel 3b
 
-Voor het behandelen van een aanvraag tot het verlenen van een machtiging tot voorlopig verblijf met het oog op gezinshereniging of gezinsvorming is de vergoeding, genoemd in [artikel 1, onderdeel s, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2009-11-15&g=2010-04-29), niet verschuldigd indien de belanghebbende:
+Voor het behandelen van een aanvraag tot het verlenen van een machtiging tot voorlopig verblijf met het oog op gezinshereniging of gezinsvorming is de vergoeding, genoemd in [artikel 1, onderdeel s, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0016097&artikel=1&z=2010-07-20&g=2010-07-20), niet verschuldigd indien de belanghebbende:
 
 - a. een, ter beoordeling van de Minister voor Vreemdelingenzaken en Integratie, gerechtvaardigd beroep op artikel 8 van het Verdrag tot bescherming van de rechten van de mens en van de fundamentele vrijheden (Trb. 1951, 154) doet;
 
