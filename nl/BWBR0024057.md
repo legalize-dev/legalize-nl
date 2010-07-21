@@ -4,7 +4,7 @@ identifier: "BWBR0024057"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-07-21"
-last_updated: "2008-07-01"
+last_updated: "2010-07-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024057"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluiten:
 
 - a. verzekeringsmaatschappijen waaraan een vergunning als bedoeld in [artikel 2:27 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:27) is verleend en door hen aangewezen gevolmachtigden waaraan een vergunning als bedoeld in [artikel 2:92 van diezelfde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:92) is verleend, voor zover het de verzekeringen op grond van de [Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415) betreft,
 
-- b. advocatuur en stichtingen rechtsbijstand, en
+- b. advocatuur, en
 
 - c. producenten of importeurs van motorrijtuigen.
 
@@ -54,7 +54,7 @@ Besluiten:
 
 - a. wat betreft verzekeringsmaatschappijen en de door hen aangewezen gevolmachtigden: ten behoeve van schade-afwikkeling en de totstandkoming van verzekeringen op grond van de [Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415),
 
-- b. wat betreft de advocatuur en stichtingen rechtsbijstand: ten behoeve van eigendomsgeschillen omtrent motorrijtuigen of aanhangwagens alsmede gerechtelijke procedures en de voorbereiding daarvan alsmede voor zover het de advocatuur betreft ten behoeve van faillissementen waarbij voertuigen zijn betrokken, en
+- b. wat betreft de advocatuur: ten behoeve van eigendomsgeschillen omtrent motorrijtuigen of aanhangwagens alsmede gerechtelijke procedures en de voorbereiding daarvan alsmede voor zover het de advocatuur betreft ten behoeve van faillissementen waarbij voertuigen zijn betrokken, en
 
 - c. wat betreft producenten en importeurs van motorrijtuigen: ten behoeve van de uitvoering van de [Wet op de belasting van personenauto's en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806).
 
