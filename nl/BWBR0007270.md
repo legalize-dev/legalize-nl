@@ -4,7 +4,7 @@ identifier: "BWBR0007270"
 country: "nl"
 rank: "amvb"
 publication_date: "2012-12-21"
-last_updated: "2005-11-01"
+last_updated: "2010-07-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007270"
 soort: "AMvB"
@@ -75,11 +75,7 @@ Als gevallen waarin uiterlijke kenmerken die samenhangen met het ras van een per
 
 - a. de uitoefening van het beroep of de activiteit van acteur, danser of kunstenaar, voor zover het beroep of de activiteit betrekking heeft op het vertolken van een bepaalde rol;
 
-- b. de uitoefening van het beroep of de activiteit van mannequin die bepaalde kledingstukken moet tonen door deze te dragen, van model voor beeldend kunstenaars, fotografen, cineasten, kappers, grimeurs en schoonheidsspecialisten, voor zover in redelijkheid eisen kunnen worden gesteld aan uiterlijke kenmerken;
-
-- c. de deelname aan schoonheidswedstrijden voor zover met het ras van een persoon samenhangende kenmerken van belang zijn in verband met het doel van de wedstrijd;
-
-- d. het verlenen van diensten die uitsluitend kunnen worden verleend aan personen met bepaalde uiterlijke kenmerken.
+- b. de uitoefening van het beroep of de activiteit van mannequin die bepaalde kledingstukken moet tonen door deze te dragen, van model voor beeldend kunstenaars, fotografen, cineasten, kappers, grimeurs en schoonheidsspecialisten, voor zover in redelijkheid eisen kunnen worden gesteld aan uiterlijke kenmerken.
 
 ##### Artikel 3
 
