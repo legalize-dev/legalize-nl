@@ -4,7 +4,7 @@ identifier: "BWBR0026690"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-07-24"
-last_updated: "2009-11-25"
+last_updated: "2010-07-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026690"
 soort: "ministeriele-regeling"
@@ -62,11 +62,11 @@ In deze regeling wordt verstaan onder:
 
 2. Aanvragen om subsidie als bedoeld in het eerste lid worden ontvangen in de periode van 4 januari 2010 tot 1 maart 2010, 17:00 uur.
 
-3. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026690&bijlage=1&z=2009-11-25&g=2009-11-25).
+3. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026690&bijlage=1&z=2010-07-24&g=2010-07-24).
 
 ##### Artikel 3
 
-1. Het subsidieplafond voor het verlenen van subsidie die is aangevraagd in de periode, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026690&paragraaf=2&artikel=2&z=2009-11-25&g=2009-11-25), bedraagt € 5.312.000.000,00.
+1. Het subsidieplafond voor het verlenen van subsidie die is aangevraagd in de periode, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026690&paragraaf=2&artikel=2&z=2010-07-24&g=2010-07-24), bedraagt € 5.384.817.810,00.
 
 2. De Minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van rangschikking van de aanvragen.
 
@@ -74,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-Het maximum tenderbedrag, bedoeld in [artikel 19, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=19), voor subsidie als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026690&paragraaf=2&artikel=2&z=2009-11-25&g=2009-11-25), bedraagt € 0,181000 per kWh.
+Het maximum tenderbedrag, bedoeld in [artikel 19, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=19), voor subsidie als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026690&paragraaf=2&artikel=2&z=2010-07-24&g=2010-07-24), bedraagt € 0,181000 per kWh.
 
 ##### Artikel 5
 
@@ -103,7 +103,7 @@ Voor de toepassing van [artikel 60, zesde lid, van het besluit](https://wetten.o
 
 ##### Artikel 6
 
-De beschikking tot verlenen van een subsidie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op zee wordt verleend onder de opschortende voorwaarde dat binnen acht weken na afgifte van deze beschikking een uitvoeringsovereenkomst overeenkomstig de overeenkomst opgenomen in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026690&bijlage=2&z=2009-11-25&g=2009-11-25) tot stand is gekomen tussen de Staat en de subsidie-aanvrager.
+De beschikking tot verlenen van een subsidie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op zee wordt verleend onder de opschortende voorwaarde dat binnen acht weken na afgifte van deze beschikking een uitvoeringsovereenkomst overeenkomstig de overeenkomst opgenomen in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026690&bijlage=2&z=2010-07-24&g=2010-07-24) tot stand is gekomen tussen de Staat en de subsidie-aanvrager.
 
 ##### Artikel 7
 
@@ -137,7 +137,7 @@ De subsidie-ontvanger verstrekt tenminste eenmaal per jaar, op het tijdstip geno
 
 ##### Artikel 12
 
-De correcties op het tenderbedrag voor de subsidie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026690&paragraaf=2&artikel=2&z=2009-11-25&g=2009-11-25), worden voor 2010 als volgt vastgesteld:
+De correcties op het tenderbedrag voor de subsidie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026690&paragraaf=2&artikel=2&z=2010-07-24&g=2010-07-24), worden voor 2010 als volgt vastgesteld:
 
 - a. € 0,054638 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 22, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=22);
 
@@ -155,7 +155,7 @@ Deze regeling wordt aangehaald als: Regeling windenergie op zee 2009.
 
 ## Bijlage 1
 
-## Bijlage 2. bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0026690&paragraaf=2&artikel=6&z=2009-11-25&g=2009-11-25)
+## Bijlage 2. bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0026690&paragraaf=2&artikel=6&z=2010-07-24&g=2010-07-24)
 
 ### Uitvoeringsovereenkomst tot zekerheid van het aanvangen van de activiteiten ter zake waarvan subsidie is verstrekt op basis van de Regeling windenergie op zee 2009
 
@@ -171,7 +171,7 @@ De Ondernemer verplicht zich jegens de Staat de bouwperiode tijdig aan te vangen
 
 ### Artikel 3. Inhoud en omvang van de garantie
 
-De Ondernemer verplicht zich om tot zekerheid voor de nakoming van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026690&paragraaf=2&artikel=2&z=2009-11-25&g=2009-11-25) bedoelde verplichting, alsmede de bij niet tijdige nakoming verschuldigde boetes, binnen acht weken nadat de Beschikking in werking is getreden ten behoeve van de Staat financiële zekerheid te stellen en gesteld houden voor een bedrag groot € 20.000.000,– (zegge: twintig miljoen euro) door middel van de afgifte aan de Staat van een door een binnen de Europese Unie gevestigde bank afgegeven bankgarantie welke is opgemaakt onder gebruikmaking van het model opgenomen als Bijlage B
+De Ondernemer verplicht zich om tot zekerheid voor de nakoming van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026690&paragraaf=2&artikel=2&z=2010-07-24&g=2010-07-24) bedoelde verplichting, alsmede de bij niet tijdige nakoming verschuldigde boetes, binnen acht weken nadat de Beschikking in werking is getreden ten behoeve van de Staat financiële zekerheid te stellen en gesteld houden voor een bedrag groot € 20.000.000,– (zegge: twintig miljoen euro) door middel van de afgifte aan de Staat van een door een binnen de Europese Unie gevestigde bank afgegeven bankgarantie welke is opgemaakt onder gebruikmaking van het model opgenomen als Bijlage B
 
 ### Artikel 4. Vrijval van de garantie
 
