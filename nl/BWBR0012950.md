@@ -4,7 +4,7 @@ identifier: "BWBR0012950"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2009-07-01"
+last_updated: "2010-07-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012950"
 soort: "wet"
@@ -50,13 +50,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. Raadsverordening: [Verordening nr. 718/1999](31999R0718) van de Raad van de Europese Unie van 29 maart 1999 betreffende het beleid ten aanzien van de capaciteit van de communautaire binnenvaartvloot met het oog op de bevordering van het vervoer over de binnenwateren (PbEG L 90);
 
-- b. Commissieverordening: [Verordening nr. 805/1999](31999R0805) van de Commissie van de Europese Gemeenschappen van 16 april 1999 tot vaststelling van een aantal bepalingen ter uitvoering van de Raadsverordening (PbEG L 102/64);
+- b. Onze Minister: Onze Minister van Verkeer en Waterstaat;
 
-- c. Onze Minister: Onze Minister van Verkeer en Waterstaat;
+- c. lidstaten: de betrokken lidstaten, bedoeld in artikel 3, eerste lid, van de Raadsverordening;
 
-- d. lidstaten: de betrokken lidstaten, bedoeld in artikel 3, eerste lid, van de Raadsverordening;
-
-- e. fonds voor de binnenvaart: artikel 05.34 van de begroting van Verkeer en Waterstaat.
+- d. fonds voor de binnenvaart: artikel 05.34 van de begroting van Verkeer en Waterstaat.
 
 ##### Artikel 2
 
@@ -78,7 +76,7 @@ De organisaties, bedoeld in artikel 3, tweede lid, van de Raadsverordening zijn 
 
 ##### Artikel 4
 
-Onze Minister legt, overeenkomstig het terzake bepaalde in de Commissieverordening, speciale bijdragen als bedoeld in artikel 4, eerste lid, tweede gedachtenstreepje, van de Raadsverordening op en doet de uitgaven in het kader van artikel 3, vierde, vijfde en zesde lid, van de Raadsverordening.
+Onze Minister legt speciale bijdragen als bedoeld in artikel 4, eerste lid, tweede gedachtenstreepje, van de Raadsverordening op en doet de uitgaven in het kader van artikel 3, vierde, vijfde en zesde lid, van de Raadsverordening.
 
 ##### Artikel 5
 
@@ -90,7 +88,7 @@ Het is de eigenaar verboden zijn binnenschip in de vaart te brengen in afwijking
 
 ##### Artikel 7
 
-Met het toezicht op de naleving van het bij of krachtens deze wet, de Raadsverordening en de Commissieverordening bepaalde zijn belast:
+Met het toezicht op de naleving van het bij of krachtens deze wet en de Raadsverordening bepaalde zijn belast:
 
 - a. de bij of krachtens [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) aangewezen ambtenaren,
 
@@ -124,7 +122,7 @@ Met betrekking tot de behandeling van bezwaar of beroep tegen een krachtens de W
 
 ##### Artikel 14
 
-1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt terug tot en met 29 april 1999, met uitzondering van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=6&z=2009-07-01&g=2009-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=8&z=2009-07-01&g=2009-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=9&z=2009-07-01&g=2009-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=10&z=2009-07-01&g=2009-07-01) en [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=12&z=2009-07-01&g=2009-07-01), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
+1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt terug tot en met 29 april 1999, met uitzondering van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=6&z=2010-07-24&g=2010-07-24), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=8&z=2010-07-24&g=2010-07-24), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=9&z=2010-07-24&g=2010-07-24), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=10&z=2010-07-24&g=2010-07-24) en [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=12&z=2010-07-24&g=2010-07-24), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
 
 2. Deze wet vervalt op het tijdstip waarop de Raadsverordening vervalt.
 
