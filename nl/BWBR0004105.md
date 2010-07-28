@@ -4,7 +4,7 @@ identifier: "BWBR0004105"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-07-28"
-last_updated: "2010-07-01"
+last_updated: "2010-07-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004105"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ De officier van justitie of de hulpofficier doet van een inverzekeringstelling t
 
 ##### Artikel 3
 
-Aan degene die de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004105&artikel=2&z=1987-02-01&g=2010-07-01) geregelde mededeling heeft gedaan wordt vanuit het contactpunt terstond of in ieder geval zo spoedig mogelijk telefonisch medegedeeld of een advocaat beschikbaar is. Indien een in verzekering gestelde verdachte vraagt om een bepaalde advocaat en deze bereid is rechtsbijstand te verlenen, kan het contactpunt aan dit verzoek voldoen. Het antwoord wordt gegeven uiterlijk op de dag na de mededeling aan het contactpunt vóór 's morgens 10 uur, met dien verstande, dat op zaterdag en zondag het antwoord wordt gegeven in de tijdvakken bedoeld in [artikel 2 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004105&artikel=2&z=1987-02-01&g=2010-07-01).
+Aan degene die de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004105&artikel=2&z=2010-07-28&g=2010-07-28) geregelde mededeling heeft gedaan wordt vanuit het contactpunt terstond of in ieder geval zo spoedig mogelijk telefonisch medegedeeld of een advocaat beschikbaar is. Indien een in verzekering gestelde verdachte vraagt om een bepaalde advocaat en deze bereid is rechtsbijstand te verlenen, kan het contactpunt aan dit verzoek voldoen. Het antwoord wordt gegeven uiterlijk op de dag na de mededeling aan het contactpunt vóór 's morgens 10 uur, met dien verstande, dat op zaterdag en zondag het antwoord wordt gegeven in de tijdvakken bedoeld in [artikel 2 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004105&artikel=2&z=2010-07-28&g=2010-07-28).
 
 ##### Artikel 4
 
@@ -68,7 +68,7 @@ Een advocaat die buiten zijn arrondissement optreedt, ontvangt geen reiskostenve
 
 ##### Artikel 5
 
-Indien het antwoord, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004105&artikel=3&z=1987-02-01&g=2010-07-01), inhoudt dat geen advocaat beschikbaar is, brengt de officier van justitie of de hulpofficier dit, zo mogelijk door tussenkomst van de griffie, telefonisch ter kennis van de voorzitter van de rechtbank.
+Indien het antwoord, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004105&artikel=3&z=2010-07-28&g=2010-07-28), inhoudt dat geen advocaat beschikbaar is, brengt de officier van justitie of de hulpofficier dit, zo mogelijk door tussenkomst van de griffie, telefonisch ter kennis van de voorzitter van de rechtbank.
 
 ##### Artikel 6
 
@@ -80,7 +80,7 @@ Van toevoegingen op grond van de [artikelen 41](https://wetten.overheid.nl/jci1.
 
 ##### Artikel 8
 
-De raad van rechtsbijstand geeft van toevoegingen door hem verricht schriftelijk kennis aan de griffie van het betrokken gerecht, de raadsman en de verdachte. De griffie licht het openbaar minister en in geval van een gerechtelijk vooronderzoek, de rechter-commissaris in.
+De het bestuur van de raad voor rechtsbijstand geeft van toevoegingen door hem verricht schriftelijk kennis aan de griffie van het betrokken gerecht, de raadsman en de verdachte. De griffie licht het openbaar minister en in geval van een gerechtelijk vooronderzoek, de rechter-commissaris in.
 
 ##### Artikel 9
 
