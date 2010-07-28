@@ -4,7 +4,7 @@ identifier: "BWBR0024932"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-04-05"
-last_updated: "2010-07-01"
+last_updated: "2010-07-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024932"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluit:
 
 - a. **wet:** de [Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066);
 
-- b. **raad:** de raad voor rechtsbijstand te ’s-Hertogenbosch;
+- b. **bestuur:** het bestuur van de raad voor rechtsbijstand;
 
 - c. **aanvraag:** de aanvraag van een migrerende beroepsbeoefenaar tot het verkrijgen van erkenning van EG-beroepskwalificaties, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), met betrekking tot een of meer bron- en doeltalen, als beëdigd tolk of beëdigd vertaler;
 
@@ -62,17 +62,17 @@ Besluit:
 
 ##### Artikel 2. Mandaat en machtiging
 
-1. De raad wordt mandaat en machtiging verleend ten aanzien van de bevoegdheden en handelingen, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=8), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=13), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=19), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=23), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=29), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=30), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=32), [34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=34), en [35, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=35), met inbegrip van de behandeling van klachten, het beslissen op bezwaar en op verzoeken in het kader van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) en het terzake voeren van gerechtelijke procedures.
+1. Het bestuur wordt mandaat en machtiging verleend ten aanzien van de bevoegdheden en handelingen, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=8), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=13), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=19), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=23), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=29), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=30), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=32), [34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=34), en [35, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=35), met inbegrip van de behandeling van klachten, het beslissen op bezwaar en op verzoeken in het kader van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) en het terzake voeren van gerechtelijke procedures.
 
-2. De raad wordt toegestaan het in het eerste lid verleende mandaat en machtiging geheel of gedeeltelijk door te geven aan een of meer onder hem ressorterende functionarissen, de commissie beëdigde tolken en vertaler of de klachtencommissie.
+2. Het bestuur wordt toegestaan het in het eerste lid verleende mandaat en machtiging geheel of gedeeltelijk door te geven aan een of meer onder hem ressorterende functionarissen, de commissie beëdigde tolken en vertaler of de klachtencommissie.
 
 ### Hoofdstuk 2. Erkenning van EG-beroepskwalificaties
 
 ##### Artikel 3. Documenten bij aanvraag
 
-1. De aanvraag wordt ingediend bij de raad, met een duidelijke omschrijving van het betreffende gereglementeerde beroep, en met aanduiding van de betreffende bron- en doeltalen, per taalcombinatie en per taalvaardigheid.
+1. De aanvraag wordt ingediend bij het bestuur, met een duidelijke omschrijving van het betreffende gereglementeerde beroep, en met aanduiding van de betreffende bron- en doeltalen, per taalcombinatie en per taalvaardigheid.
 
-2. De aanvrager legt bij de aanvraag de volgende bescheiden over aan de raad:
+2. De aanvrager legt bij de aanvraag de volgende bescheiden over aan het bestuur:
 
 - a. de documenten betreffende nationaliteit en verblijf, bedoeld in [artikel 13, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=13);
 
@@ -88,23 +88,23 @@ Besluit:
 
 - e. een verklaring omtrent gedrag afgegeven door het bevoegd gezag van de betrokken staat van oorsprong of herkomst, of een met die verklaring overeenkomend document bedoeld in [artikel 14, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=14), met dien verstande dat de verklaring of het document ten tijde van de indiening van de aanvraag niet ouder is dan drie maanden.
 
-3. Indien de raad een eerdere aanvraag heeft afgewezen en hierbij een mededeling, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024932&hoofdstuk=2&artikel=4&z=2009-01-01&g=2010-07-01), heeft gedaan, doet de aanvrager de aanvraag tevens vergezeld gaan van:
+3. Indien het bestuur een eerdere aanvraag heeft afgewezen en hierbij een mededeling, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024932&hoofdstuk=2&artikel=4&z=2010-07-28&g=2010-07-28), heeft gedaan, doet de aanvrager de aanvraag tevens vergezeld gaan van:
 
-- a. een verklaring, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024932&hoofdstuk=2&artikel=5&z=2009-01-01&g=2010-07-01); of
+- a. een verklaring, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024932&hoofdstuk=2&artikel=5&z=2010-07-28&g=2010-07-28); of
 
-- b. een verklaring, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024932&hoofdstuk=2&artikel=6&z=2009-01-01&g=2010-07-01).
+- b. een verklaring, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024932&hoofdstuk=2&artikel=6&z=2010-07-28&g=2010-07-28).
 
-4. De raad kan verlangen dat de aanvrager nadere informatie verstrekt over:
+4. Het bestuur kan verlangen dat de aanvrager nadere informatie verstrekt over:
 
 - a. de aard, de inhoud en de duur van de door de aanvrager gevolgde opleiding; en
 
 - b. de beroepservaring van de aanvrager.
 
-5. De raad kan verlangen dat de aanvraag en de gegevens en bescheiden, bedoeld in het tweede lid, onderdelen b tot en met e en vierde lid, die zijn gesteld in een andere dan de Nederlandse taal, vergezeld gaan van beëdigde vertalingen in het Nederlands.
+5. Het bestuur kan verlangen dat de aanvraag en de gegevens en bescheiden, bedoeld in het tweede lid, onderdelen b tot en met e en vierde lid, die zijn gesteld in een andere dan de Nederlandse taal, vergezeld gaan van beëdigde vertalingen in het Nederlands.
 
 ##### Artikel 4. Compenserende maatregel
 
-1. Met inachtneming van [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11) stelt de raad de aanvrager op de hoogte van de eis van het met goed gevolg afleggen van een compenserende maatregel met een bepaalde duur of inhoud.
+1. Met inachtneming van [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11) stelt het bestuur de aanvrager op de hoogte van de eis van het met goed gevolg afleggen van een compenserende maatregel met een bepaalde duur of inhoud.
 
 2. De compenserende maatregel wordt beoordeeld aan de hand van de vraag of de wettelijke competenties in voldoende mate worden beheerst:
 
@@ -134,7 +134,7 @@ Besluit:
 
 ##### Artikel 6. Proeve van bekwaamheid
 
-1. Indien de compenserende maatregel bestaat uit een proeve van bekwaamheid, wordt deze afgelegd bij een door de raad aangewezen instantie.
+1. Indien de compenserende maatregel bestaat uit een proeve van bekwaamheid, wordt deze afgelegd bij een door het bestuur aangewezen instantie.
 
 2. Na het afleggen van de proeve van bekwaamheid zendt de instantie, bedoeld in het eerste lid, een schriftelijke verklaring aan de aanvrager.
 
@@ -146,19 +146,19 @@ Besluit:
 
 ##### Artikel 7. Beroepskwalificatie-eisen aan tijdelijke en incidentele dienstverrichters
 
-1. De dienstverrichter doet voorafgaand aan de eerste dienstverrichting in Nederland aan de raad een schriftelijke verklaring toekomen, bedoeld in [artikel 23, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=23), met een aanduiding van welk gereglementeerd beroep, met aanduiding van bron- en doeltalen, op welke tijdelijke en incidentele wijze zal worden verricht.
+1. De dienstverrichter doet voorafgaand aan de eerste dienstverrichting in Nederland aan het bestuur een schriftelijke verklaring toekomen, bedoeld in [artikel 23, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=23), met een aanduiding van welk gereglementeerd beroep, met aanduiding van bron- en doeltalen, op welke tijdelijke en incidentele wijze zal worden verricht.
 
 2. De dienstverrichter voegt bij de verklaring de documenten, genoemd in [artikel 23, derde lid, onderdeel a tot en met d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=23).
 
 ##### Artikel 8. Controle in verband met openbare veiligheid
 
-1. De raad kan voorafgaand aan de eerste dienstverrichting de beroepskwalificaties van de dienstverrichter controleren in verband met de openbare veiligheid, bedoeld in [artikel 27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27).
+1. Het bestuur kan voorafgaand aan de eerste dienstverrichting de beroepskwalificaties van de dienstverrichter controleren in verband met de openbare veiligheid, bedoeld in [artikel 27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27).
 
-2. In geval van [artikel 27, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27), biedt de raad de dienstverrichter de mogelijkheid om door middel van een met goed gevolg afgelegde proeve van bekwaamheid, bedoeld in de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024932&hoofdstuk=2&artikel=4&z=2009-01-01&g=2010-07-01), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024932&hoofdstuk=2&artikel=6&z=2009-01-01&g=2010-07-01), aan te tonen dat hij de ontbrekende kennis en vaardigheden heeft verworven.
+2. In geval van [artikel 27, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27), biedt het bestuur de dienstverrichter de mogelijkheid om door middel van een met goed gevolg afgelegde proeve van bekwaamheid, bedoeld in de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024932&hoofdstuk=2&artikel=4&z=2010-07-28&g=2010-07-28), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024932&hoofdstuk=2&artikel=6&z=2010-07-28&g=2010-07-28), aan te tonen dat hij de ontbrekende kennis en vaardigheden heeft verworven.
 
 ##### Artikel 9. Gegevens voor afnemers van de dienst
 
-Wanneer de dienstverrichter de beroepstitel waartoe hij in de betrokken staat van vestiging is gerechtigd of de titel die behoort bij zijn opleiding, bedoeld in [artikel 26, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=26) voert, kan de raad eisen dat de dienstverrichter aan de afnemer van de dienst de gegevens verstrekt, genoemd in [artikel 29, onderdeel a tot en met e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=29).
+Wanneer de dienstverrichter de beroepstitel waartoe hij in de betrokken staat van vestiging is gerechtigd of de titel die behoort bij zijn opleiding, bedoeld in [artikel 26, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=26) voert, kan het bestuur eisen dat de dienstverrichter aan de afnemer van de dienst de gegevens verstrekt, genoemd in [artikel 29, onderdeel a tot en met e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=29).
 
 ### Hoofdstuk 4. Slotbepalingen
 
