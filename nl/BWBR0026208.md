@@ -4,7 +4,7 @@ identifier: "BWBR0026208"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-27"
-last_updated: "2010-07-01"
+last_updated: "2010-07-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026208"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-Aan de raad voor rechtsbijstand ’s-Hertogenbosch wordt mandaat verleend tot:
+Aan het bestuur van de raad voor rechtsbijstand wordt mandaat verleend tot:
 
 - a. het nemen van besluiten met betrekking tot het verlenen van subsidie als bedoeld in [artikel 48c van de wet Justitie-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008121&artikel=48c);
 
@@ -50,13 +50,13 @@ Aan de raad voor rechtsbijstand ’s-Hertogenbosch wordt mandaat verleend tot:
 
 ##### Artikel 2
 
-De raad voor rechtsbijstand ’s-Hertogenbosch kan van het aan hem bij [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0026208&artikel=1&z=2009-08-01&g=2010-07-01), verleende mandaat ondermandaat verlenen aan één of meer onder deze raad ressorterende functionarissen.
+Het bestuur van de raad voor rechtsbijstand kan van het aan hem bij [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0026208&artikel=1&z=2010-07-28&g=2010-07-28), verleende mandaat ondermandaat verlenen aan één of meer onder deze raad ressorterende functionarissen.
 
 ##### Artikel 3
 
-1. Aan de raad voor rechtsbijstand te ’s-Hertogenbosch wordt mandaat en machtiging verleend om bezwaar en beroep te behandelen als bedoeld in de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7) en [8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8) en klachten te behandelen als bedoeld in [titel 9.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=9.1).
+1. Aan het bestuur van de raad voor rechtsbijstand wordt mandaat en machtiging verleend om bezwaar en beroep te behandelen als bedoeld in de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7) en [8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8) en klachten te behandelen als bedoeld in [titel 9.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=9.1).
 
-2. Het krachtens het eerste lid verleende mandaat en de machtiging kunnen verder worden doorgegeven aan onder de raad ressorterende functionarissen, waarbij niet wordt toegestaan dat functionarissen besluiten nemen in bezwaar of klachten behandelen over besluiten of gedragingen waarbij zij zelf betrokken zijn geweest.
+2. Het krachtens het eerste lid verleende mandaat en de machtiging kunnen verder worden doorgegeven aan onder het bestuur van de raad voor rechtsbijstand ressorterende functionarissen, waarbij niet wordt toegestaan dat functionarissen besluiten nemen in bezwaar of klachten behandelen over besluiten of gedragingen waarbij zij zelf betrokken zijn geweest.
 
 ##### Artikel 4
 
