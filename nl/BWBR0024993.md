@@ -4,7 +4,7 @@ identifier: "BWBR0024993"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-01"
-last_updated: "2009-01-01"
+last_updated: "2010-07-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024993"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - a. **Minister:** de Minister van Justitie;
 
-- b. **raad:** de raad voor rechtsbijstand te ’s-Hertogenbosch;
+- b. **raad:** de raad voor rechtsbijstand;
 
 - c. **Wet:** de [Wet beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0022704);
 
