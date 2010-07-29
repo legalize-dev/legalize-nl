@@ -4,7 +4,7 @@ identifier: "BWBR0027556"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2010-07-30"
-last_updated: "2008-08-20"
+last_updated: "2010-07-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027556"
 soort: "beleidsregel"
@@ -215,3 +215,85 @@ Deze beleidsregel wordt aangehaald als: Beleidsregel veiligheid zeeschepen
 ##### Artikel. 7
 
 Deze beleidsregel zal met toelichting in de Staatscourant worden geplaatst en treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij worden geplaatst.
+
+##### Artikel 5.1. Toezicht op de uitvoering van [artikel 23, zesde, zevende en achtste lid, van de Regeling veiligheid zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&artikel=23)
+
+Bij het toezicht op de uitvoering van [artikel 23, zesde, zevende lid en achtste lid, van de Regeling veiligheid zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&artikel=23) passen de ambtenaren van de Scheepvaartinspectie de [artikelen 5.2 tot en met 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0027556&artikel=5.2&z=2010-07-29&g=2010-07-29) toe.
+
+##### Artikel 5.2. Keuring en onderhoud van acetyleen las- en snij-installaties en elektrische lastoestellen
+
+Ten aanzien van de keuring en het onderhoud van acetyleen las- en snij-installaties en elektrische lastoestellen die deel uitmaken van de uitrusting van een schip is aan de bepalingen van [artikel 23, zesde en zevende lid, van de Regeling veiligheid zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&artikel=23) voldaan indien de kapitein er zorg voor draagt dat de acetyleen las- en snij-installaties en de elektrische lastoestellen periodiek worden gekeurd en goed worden onderhouden door een deskundige persoon of instelling conform de instructies van de leverancier of het klassenbureau.
+
+##### Artikel 5.3. Opstelling en inrichting van acetyleen las- en snij-installaties
+
+1. Ten aanzien van de opstelling en de inrichting van acetyleen las- en snij-installaties is aan [artikel 23, zesde lid, van de Regeling veiligheid zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&artikel=23) voldaan indien:
+
+- a. de acetyleen las- en snij-installatie, met inbegrip van het leidingsysteem, voldoet aan de desbetreffende regels van het klassenbureau;
+
+- b. de acetyleen- en zuurstofflessen gescheiden staan opgesteld, zich bevinden in een goed geventileerde omgeving en volkomen vet- en olievrij zijn;
+
+- c. de flessen beschermd staan opgesteld buiten de machinekamer en accommodatie, op het hoogste doorgaande dek, zodat in geval van nood de flessen eenvoudig overboord kunnen worden gezet;
+
+- d. de leidingsystemen niet door ongeventileerde ruimten of door bemannings- of passagiersruimten lopen;
+
+- e. de toegangsdeuren, indien nodig, voorzien zijn van waarschuwingen;
+
+- f. de leidingen in een duidelijk herkenbare kleur geverfd zijn: preferent rood voor acetyleen en blauw voor zuurstof;
+
+- g. de acetyleen las- en snij-installatie voorzien is van gebruiksaanwijzingen en veiligheidsvoorzieningen;
+
+- h. de periodieke vervanging van specifieke onderdelen, zoals reduceers en hoge druk slangen, uitgevoerd worden volgens voorschriften van de leverancier.
+
+2. In het geval van een acetyleen las- en snij-installatie met meerdere flessen is voorzien in:
+
+- a. een afsluiter met reduceer aan het einde van de hoge druk verzamelleiding;
+
+- b. een afsluiter met reduceer aan het einde van de lage druk leiding;
+
+- c. een manometer voor en na de reduceer aan het einde van de hoge druk verzamelleiding;
+
+- d. een manometer na elke reduceer aan het einde van de lage druk leiding;
+
+- e. een vlamdover direct na de lage druk reduceer voor zowel de zuurstof- als acetyleen slang;
+
+- f. een vlamdover direct na de hoge druk reduceer voor acetyleen.
+
+3. Ten aanzien van de opstelling en de inrichting van acetyleen las- en snij-installaties is aan [artikel 23, zesde lid, van de Regeling veiligheid zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&artikel=23) eveneens voldaan indien de volgende door het Nederlands Normalisatie-Institutuut te Delft uitgegeven normen zijn toegepast:
+
+| NEN-EN 562:2003 | Apparatuur voor autogeenlassen – Manometers voor gebruik bij lassen, snijden en verwante processen |
+| --- | --- |
+| NEN-EN 730-1:2002 | Apparatuur voor autogeenlassen – Veiligheidsvoorzieningen – Deel 1: Met ingebouwde vlamdover |
+| NEN-EN 730-2:2002 | Apparatuur voor autogeenlassen – Veiligheidsvoorzieningen – Deel 2: Zonder ingebouwde vlamdover |
+| NEN-EN-ISO 2503:1998 | Apparatuur voor autogeenlassen – Drukregelaars voor gasflessen voor gebruik bij lassen, snijden en verwante processen tot 300 bar |
+| NEN-EN-ISO 14113:1997 | Apparatuur voor autogeenlassen – Slangensamenstellen van rubber en kunststof voor gecomprimeerde of vloeibare gassen met een maximale ontwerpdruk van 450 bar |
+| NEN-EN-ISO 14114:1999 | Apparatuur voor autogeen lassen – Verdeelsystemen voor acetyleen voor lassen, snijden en verwante processen – Algemene eisen |
+| NEN-ISO 9090:1992 | Gasdichtheid van apparatuur voor autogeenlassen en aanverwante processen |
+| NEN-ISO 9539:1992 | Materialen voor apparatuur voor autogeenlassen, snijden en aanverwante processen |
+
+##### Artikel 5.4. Inrichting van elektrische lastoestellen
+
+Ten aanzien van de inrichting van elektrische lastoestellen is aan [artikel 23, zevende lid, van de Regeling veiligheid zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&artikel=23) voldaan indien:
+
+- a. het elektrische lastoestel is geconstrueerd volgens de door het Nederlands Normalisatie-Instituut te Delft uitgegeven norm NEN-EN-IEC 60974-1:2005 ‘Uitrusting voor booglassen’;
+
+- b. het elektrische lastoelstel gelijkspanning als nullastspanning genereert als bedoeld in de in onderdeel a genoemde norm.
+
+- c. het elektrische lastoestel is ingericht voor het gebruik in een omgeving met een verhoogd gevaar voor een elektrische schok;
+
+- d. de nullastspanning ten hoogste 113 volt ‘piek’ bedraagt;
+
+- e. de lastangen, laskabels en aansluitverbindingen zodanig zijn uitgevoerd dat de onder spanning staande delen deugdelijk zijn afgeschermd. Zij voldoen aan EN-standaarden, of zijn voorzien van het CE-merkteken;
+
+- f. het elektrische lastoestel, de lastangen, laskabels en aansluitverbindingen verkeren in een goede staat van onderhoud.
+
+##### Artikel 5.5. Werkzaamheden met acetyleen las- en snij-installaties en elektrische lastoestellen
+
+Ten aanzien van het uitvoeren van laswerkzaamheden aan boord van schepen is aan de verplichting van [artikel 23, achtste lid, van de Regeling veiligheid zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&artikel=23) voldaan indien:
+
+- a. de kapitein er op toeziet dat de bemanning vertrouwd is met de acetyleen las- en snij-installaties en de elektrische lastoestellen aan boord van een schip en dat zij op de juiste wijze is geïnstrueerd met betrekking tot de werkzaamheden met deze las- en snij-installaties en lastoestellen. Daarbij worden de aanwijzingen in de MSC/Circ.1084 (**Principles for hot work on board of all types of ships**) in acht genomen;
+
+- b. de laswerkzaamheden slechts verricht worden door personen die met de daarbij in acht te nemen veiligheidsvoorschriften voldoende bekend zijn en door de scheepsleiding met deze werkzaamheden zijn belast;
+
+- c. bij het uitvoeren van laswerkzaamheden in geval van ongunstige omstandigheden steeds ten minste twee personen ter plaatse van het werk aanwezig zijn, de persoon die de laswerkzaamheden verricht daarbij inbegrepen;
+
+- d. de met laswerkzaamheden belaste persoon gebruik maakt van de bij deze werkzaamheden behorende beschermende kleding en beschermingsmiddelen die zijn voorzien van het CE-merkteken.
