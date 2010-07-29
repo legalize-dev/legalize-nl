@@ -4,7 +4,7 @@ identifier: "BWBR0027971"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-07-29"
-last_updated: "2009-11-21"
+last_updated: "2010-07-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027971"
 soort: "ministeriele-regeling"
@@ -94,13 +94,13 @@ Aan de directeur bedrijfsvoering wordt mandaat verleend om besluiten te nemen, s
 
 3. Beheermandaat (dagelijkse gang van zaken)
 
-Aan de directeur bedrijfsvoering wordt mandaat verleend, tenzij bij wettelijke voorschrift anders is bepaald of de aard van de bevoegdheid zich daartegen verzet, om besluiten te nemen, stukken af te doen en uitgaande brieven te ondertekenen die betrekking hebben op de bedrijfsvoering met uitzondering van de besluiten als bedoeld in [artikel 3, tweede lid, aanhef, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0027971&paragraaf=3&artikel=3&z=2010-07-29&g=2009-11-21).
+Aan de directeur bedrijfsvoering wordt mandaat verleend, tenzij bij wettelijke voorschrift anders is bepaald of de aard van de bevoegdheid zich daartegen verzet, om besluiten te nemen, stukken af te doen en uitgaande brieven te ondertekenen die betrekking hebben op de bedrijfsvoering met uitzondering van de besluiten als bedoeld in [artikel 3, tweede lid, aanhef, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0027971&paragraaf=3&artikel=3&z=2010-07-29&g=2010-07-29).
 
 4. Personeelsmandaat
 
 Aan de directeur bedrijfsvoering wordt mandaat verleend om:
 
-- a). Besluiten te nemen, stukken af te doen en brieven te ondertekenen, al dan niet met rechtspositionele gevolgen, voor zover het de medewerkers bedrijfsvoering aangaat met uitzondering van de besluiten en/of handelingen bedoeld in [artikel 3, tweede lid, aanhef, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0027971&paragraaf=3&artikel=3&z=2010-07-29&g=2009-11-21). Deze bevoegdheden worden uitgeoefend op basis van de geldende voorschriften, de vastgestelde formatie en het toegekende personele budget.
+- a). Besluiten te nemen, stukken af te doen en brieven te ondertekenen, al dan niet met rechtspositionele gevolgen, voor zover het de medewerkers bedrijfsvoering aangaat met uitzondering van de besluiten en/of handelingen bedoeld in [artikel 3, tweede lid, aanhef, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0027971&paragraaf=3&artikel=3&z=2010-07-29&g=2010-07-29). Deze bevoegdheden worden uitgeoefend op basis van de geldende voorschriften, de vastgestelde formatie en het toegekende personele budget.
 
 - b). Besluiten te nemen waarmee aan medewerkers bedrijfsvoering een schadeloosstelling wordt toegekend tot het bedrag van € 5.000,– op jaarbasis.
 
