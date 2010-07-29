@@ -4,7 +4,7 @@ identifier: "BWBR0012681"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-08"
-last_updated: "2009-07-16"
+last_updated: "2010-07-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012681"
 soort: "ministeriele-regeling"
@@ -122,7 +122,9 @@ Als gespen behorende bij de Herinneringsmedaille Vredesoperaties worden ingestel
 
 - 7°. de missie ten behoeve van het Bureau Intégré des Nations Unies au Burundi ‘BINUB’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de republiek Burundi;
 
-- 8°. de missie ten behoeve van de United Nations African Union Mission in Darfur ‘UNAMID’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de republiek Soedan, provincie Darfur: VN OPERATIES;
+- 8°. de missie ten behoeve van de United Nations African Union Mission in Darfur ‘UNAMID’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de republiek Soedan, provincie Darfur;
+
+- 9°. de missie ten behoeve van de United Nations Office on Drugs and Crime ‘UNODC’, in Kenia: VN OPERATIES;
 
 - dd. voor deelname aan operaties van de Noord Atlantische Verdrags Organisatie:
 
@@ -132,7 +134,9 @@ Als gespen behorende bij de Herinneringsmedaille Vredesoperaties worden ingestel
 
 - 3°. de operatie Active Endeavour, voor zover deze deelname heeft plaatsgehad in het zeegebied van de Middellandse Zee;
 
-- 4°. de operatie ‘Allied Protector’, voor zover deze deelname heeft plaatsgehad in de wateren van en in de nabijheid van Somalië: NAVO OPERATIES;
+- 4°. de operatie ‘Allied Protector’, voor zover deze deelname heeft plaatsgehad in de wateren van en in de nabijheid van Somalië;
+
+- 5°. de maritieme operatie Ocean Shield voor zover deze deelname heeft plaatsgehad in de Rode Zee, Golf van Aden en het Somalië Bassin: NAVO OPERATIES;
 
 - ee. voor deelname aan operaties van de Europese Unie:
 
@@ -164,7 +168,9 @@ Als gespen behorende bij de Herinneringsmedaille Vredesoperaties worden ingestel
 
 - 1°. de African Union Mission in Sudan, ‘AMIS’, voor zover deze deelname heeft plaatsgehad op en rondom het grondgebied van en in het luchtruim boven Sudan vanaf juni 2005;
 
-- 2°. het International Military Advisory Team in Sudan, ‘IMAT’, voor zover deze deelname heeft plaatsgehad op en rondom het grondgebied van en in het luchtruim boven Sudan vanaf november 2005: MULTINATIONALE OPERATIES;
+- 2°. het International Military Advisory Team in Sudan, ‘IMAT’, voor zover deze deelname heeft plaatsgehad op en rondom het grondgebied van en in het luchtruim boven Sudan vanaf november 2005;
+
+- 3°. de operatie United States Security Coordinator Dayton ‘USSC Dayton’, voor zover deze heeft plaatsgehad in Ramallah, West Bank: MULTINATIONALE OPERATIES;
 
 - hh. voor deelname aan SSR operaties van Nederland:
 
