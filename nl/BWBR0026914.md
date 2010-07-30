@@ -4,7 +4,7 @@ identifier: "BWBR0026914"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-05-04"
-last_updated: "2010-07-13"
+last_updated: "2010-07-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026914"
 soort: "ministeriele-regeling"
@@ -106,7 +106,7 @@ Besluit:
 |   |   |   | Photonic devices | 15-08 t/m 17-09 | 4.750.000 |
 |   |   |   | Maritiem (periode vooraanmelding) |   | - |
 |   |   |   | Maritiem | 15-02 t/m 12-03 | 1.200.000 |
-| 3.4 | Subsidieregeling sterktes in innovatie (LSH-projecten; ETB-samenwerkingsverbanden ) | 4.2 |   | 01-01 t/m 01-02 | 3.000.000 |
+| 3.4 | Subsidieregeling sterktes in innovatie (LSH-projecten; ETB-samenwerkingsverbanden ) | 4.2 |   | 01-01 t/m 01-02 | 3.700.000 |
 | 3.5 | Subsidieregeling sterktes in innovatie (LSH-projecten; internationale MKB-samenwerkingsverbanden) | 4.11 |   | 01-04 t/m 25-06 | 1.000.000 |
 | 3.6 | Subsidieregeling sterktes in innovatie (LSH-projecten; EuroNanoMed-samenwerkingsverbanden) | 4.20 |   |   |   |
 | 3.7 | Subsidieregeling sterktes in innovatie (FND haalbaarheidsprojecten) | 5.2 |   | 01-01 t/m 08-10 | 1.000.000 |
@@ -132,7 +132,7 @@ Besluit:
 | 3.26 | Subsidieregeling sterktes in innovatie (detachering kenniswerkers) | 10b.2 |   |   |   |
 | 3.27 | Subsidieregeling sterktes in innovatie (civiele vliegtuigontwikkeling) | 10c.2 | Projecten, niet betrekking hebbend op industrieel onderzoek | 01-01 t/m 01-12 | 52.800.000 |
 |   |   |   | Projecten, betrekking hebbend op industrieel onderzoek |   |   |
-| 3.28 | Subsidieregeling sterktes in innovatie (Technologische Topinstituten) | 10d.2 |   |   |   |
+| 3.28 | Subsidieregeling sterktes in innovatie (Technologische Topinstituten) | 10d.2 | Food & Nutrition | 16-08 t/m 15-09 | 39.900.000 |
 | 3.29 | Subsidieregeling sterktes in innovatie (innovatieve zeescheepsbouw) | 10e.2 |   | 01-01 t/m 31-10 | 17.500.000 |
 | 3.30 | Subsidieregeling sterktes in innovatie (prekwalificatie ESA/programma’s) | 10f.2 |   | 01-01 t/m 26-02 | 5.899.143 |
 | 3.31 | Subsidieregeling sterktes in innovatie (Service Innovation & ICT) | 10h.2 |   | 15-04 t/m 17-06 | 4.500.000 |
@@ -186,6 +186,7 @@ Besluit:
 | 4 | Subsidieregeling energie en innovatie (Voorbereidingsstudies en demonstratieprojecten vergassing) | 3.6.2, eerste lid | Voorbereidingsstudies | 20-11-2009 t/m 31-03-2010 | 200.000 |
 |   |   | 3.6.2, tweede lid | Demonstratieprojecten | 10-5 t/m 30-9 | 12.650.000 |
 | 5 | Subsidieregeling energie en innovatie (Experimenteerregeling Wind op Zee) | 3.7.2 |   | 19-11-2009 t/m 28-01-2010 | 9.000.000 |
+| 6 | Subsidieregeling sterktes in innovatie (LSH-projecten; ETB-samenwerkingsverbanden) | 4.2 |   | 01-10-2010 t/m 01-02-2011 | 3.000.000 |
 
 ##### Artikel 3
 
