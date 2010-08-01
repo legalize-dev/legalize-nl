@@ -4,7 +4,7 @@ identifier: "BWBV0004138"
 country: "nl"
 rank: "verdrag"
 publication_date: "2010-08-01"
-last_updated: "2005-05-16"
+last_updated: "2010-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004138"
 soort: "verdrag"
@@ -158,9 +158,9 @@ Op verzoek van een andere Partij verifieert een Partij, in overeenstemming met h
 
 ##### Artikel 10. Identificatie van de slachtoffers
 
-1. Elke Partij verzekert dat haar bevoegde autoriteiten beschikken over personen die opgeleid en gekwalificeerd zijn op het gebied van het voorkomen en bestrijden van mensenhandel en het identificeren en helpen van slachtoffers, met inbegrip van kinderen, en waarborgt dat de verschillende autoriteiten met elkaar en met relevante hulporganisaties samenwerken, zodat slachtoffers kunnen worden geïdentificeerd in een procedure waarbij op passende wijze rekening wordt gehouden met de bijzondere situatie waarin vrouwen en kinderen die slachtoffer zijn, verkeren en, in de daarvoor in aanmerking komende gevallen, verblijfsvergunningen kunnen worden afgegeven krachtens de voorwaarden als vervat in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=III&artikel=14&z=2005-05-16&g=2005-05-16) van dit Verdrag.
+1. Elke Partij verzekert dat haar bevoegde autoriteiten beschikken over personen die opgeleid en gekwalificeerd zijn op het gebied van het voorkomen en bestrijden van mensenhandel en het identificeren en helpen van slachtoffers, met inbegrip van kinderen, en waarborgt dat de verschillende autoriteiten met elkaar en met relevante hulporganisaties samenwerken, zodat slachtoffers kunnen worden geïdentificeerd in een procedure waarbij op passende wijze rekening wordt gehouden met de bijzondere situatie waarin vrouwen en kinderen die slachtoffer zijn, verkeren en, in de daarvoor in aanmerking komende gevallen, verblijfsvergunningen kunnen worden afgegeven krachtens de voorwaarden als vervat in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=III&artikel=14&z=2010-08-01&g=2010-08-01) van dit Verdrag.
 
-2. Elke Partij neemt de wetgevende en andere maatregelen die nodig kunnen zijn om slachtoffers te identificeren, wanneer van toepassing in samenwerking met andere Partijen en relevante hulporganisaties. Elke Partij waarborgt dat, indien de bevoegde autoriteiten redelijke gronden hebben om aan te nemen dat een persoon het slachtoffer is geweest van mensenhandel, deze persoon niet van haar grondgebied zal worden verwijderd voordat de identificatieprocedure om vast te stellen of iemand het slachtoffer is geworden van een strafbaar feit als omschreven in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=IV&artikel=18&z=2005-05-16&g=2005-05-16) van dit Verdrag, door de bevoegde autoriteiten is afgerond en waarborgt tevens dat deze persoon de hulp ontvangt als omschreven in [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=III&artikel=12&z=2005-05-16&g=2005-05-16).
+2. Elke Partij neemt de wetgevende en andere maatregelen die nodig kunnen zijn om slachtoffers te identificeren, wanneer van toepassing in samenwerking met andere Partijen en relevante hulporganisaties. Elke Partij waarborgt dat, indien de bevoegde autoriteiten redelijke gronden hebben om aan te nemen dat een persoon het slachtoffer is geweest van mensenhandel, deze persoon niet van haar grondgebied zal worden verwijderd voordat de identificatieprocedure om vast te stellen of iemand het slachtoffer is geworden van een strafbaar feit als omschreven in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=IV&artikel=18&z=2010-08-01&g=2010-08-01) van dit Verdrag, door de bevoegde autoriteiten is afgerond en waarborgt tevens dat deze persoon de hulp ontvangt als omschreven in [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=III&artikel=12&z=2010-08-01&g=2010-08-01).
 
 3. Wanneer onzekerheid bestaat over de leeftijd van het slachtoffer en er gronden zijn om aan te nemen dat het slachtoffer een kind is, wordt hij of zij aangemerkt als kind en worden in afwachting van verificatie van zijn of haar leeftijd bijzondere beschermingsmaatregelen ingesteld.
 
@@ -212,7 +212,7 @@ Op verzoek van een andere Partij verifieert een Partij, in overeenstemming met h
 
 1. Elke Partij voorziet in haar nationale recht in een periode van herstel en bezinning van ten minste 30 dagen, wanneer er redelijke gronden zijn om aan te nemen dat de desbetreffende persoon een slachtoffer is. Een dergelijke periode dient voor de desbetreffende persoon voldoende te zijn om te herstellen en zich te onttrekken aan de invloed van mensenhandelaren en/of op basis van voldoende informatie te beslissen of hij/zij met de bevoegde autoriteiten wil samenwerken. Gedurende deze periode mag geen enkele tegen hem/haar genomen verwijderingsmaatregel ten uitvoer worden gelegd. Deze bepaling geldt onverminderd de door de bevoegde autoriteiten uitgevoerde activiteiten tijdens alle fases van de relevante nationale procedures, en met name bij de opsporing en vervolging van de desbetreffende strafbare feiten. Gedurende deze periode geven de Partijen de desbetreffende personen toestemming op hun grondgebied te verblijven.
 
-2. Gedurende deze periode hebben de in het eerste lid van dit artikel bedoelde personen recht op de maatregelen vervat in [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=III&artikel=12&z=2005-05-16&g=2005-05-16).
+2. Gedurende deze periode hebben de in het eerste lid van dit artikel bedoelde personen recht op de maatregelen vervat in [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=III&artikel=12&z=2010-08-01&g=2010-08-01).
 
 3. De Partijen zijn niet gehouden deze periode in acht te nemen indien redenen die verband houden met de openbare orde, hiertoe nopen of wanneer ontdekt wordt dat ten onrechte een beroep wordt gedaan op de status van slachtoffer.
 
@@ -230,7 +230,7 @@ Op verzoek van een andere Partij verifieert een Partij, in overeenstemming met h
 
 4. Indien een slachtoffer een aanvraag indient voor een ander soort verblijfsvergunning, houdt de desbetreffende Partij rekening met het feit dat hij of zij in het bezit is, of was, van een verblijfsvergunning overeenkomstig het eerste lid.
 
-5. Gelet op de verplichtingen van de Partijen waarnaar in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=VIII&artikel=40&z=2005-05-16&g=2005-05-16) van dit Verdrag wordt verwezen, waarborgt elke Partij dat het toekennen van een vergunning overeenkomstig deze bepaling het recht om asiel te zoeken en te genieten onverlet laat.
+5. Gelet op de verplichtingen van de Partijen waarnaar in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=VIII&artikel=40&z=2010-08-01&g=2010-08-01) van dit Verdrag wordt verwezen, waarborgt elke Partij dat het toekennen van een vergunning overeenkomstig deze bepaling het recht om asiel te zoeken en te genieten onverlet laat.
 
 ##### Artikel 15. Schadeloosstelling en rechtsmiddelen
 
@@ -240,7 +240,7 @@ Op verzoek van een andere Partij verifieert een Partij, in overeenstemming met h
 
 3. Elke Partij voorziet, in haar nationale recht, in het recht van slachtoffers op schadeloosstelling door de daders.
 
-4. Elke Partij neemt de wetgevende of andere maatregelen die nodig kunnen zijn om schadeloosstelling voor slachtoffers te waarborgen overeenkomstig de voorwaarden voorzien in haar nationale recht, bijvoorbeeld door het instellen van een fonds voor schadeloosstelling van slachtoffers of maatregelen of programma’s, gericht op sociale ondersteuning en sociale integratie van slachtoffers, hetgeen gefinancierd zou kunnen worden door de vermogensbestanddelen die voortvloeien uit de toepassing van de in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=IV&artikel=23&z=2005-05-16&g=2005-05-16) voorziene maatregelen.
+4. Elke Partij neemt de wetgevende of andere maatregelen die nodig kunnen zijn om schadeloosstelling voor slachtoffers te waarborgen overeenkomstig de voorwaarden voorzien in haar nationale recht, bijvoorbeeld door het instellen van een fonds voor schadeloosstelling van slachtoffers of maatregelen of programma’s, gericht op sociale ondersteuning en sociale integratie van slachtoffers, hetgeen gefinancierd zou kunnen worden door de vermogensbestanddelen die voortvloeien uit de toepassing van de in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=IV&artikel=23&z=2010-08-01&g=2010-08-01) voorziene maatregelen.
 
 ##### Artikel 16. Repatriëring en terugzending van slachtoffers
 
@@ -266,11 +266,11 @@ Elke Partij streeft er bij de toepassing van de in dit hoofdstuk bedoelde maatre
 
 ##### Artikel 18. Strafbaarstelling van mensenhandel
 
-Elke Partij neemt de wetgevende of andere maatregelen die nodig kunnen zijn om de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=I&artikel=4&z=2005-05-16&g=2005-05-16) van dit Verdrag omschreven handelingen, indien zij opzettelijk zijn gepleegd, strafbaar te stellen.
+Elke Partij neemt de wetgevende of andere maatregelen die nodig kunnen zijn om de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=I&artikel=4&z=2010-08-01&g=2010-08-01) van dit Verdrag omschreven handelingen, indien zij opzettelijk zijn gepleegd, strafbaar te stellen.
 
 ##### Artikel 19. Strafbaarstelling van het gebruikmaken van de diensten van een slachtoffer
 
-Elke Partij overweegt de wetgevende of andere maatregelen te nemen die nodig kunnen zijn om het gebruikmaken van diensten die het voorwerp zijn van uitbuiting als omschreven in [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=I&artikel=4&z=2005-05-16&g=2005-05-16), van dit Verdrag, in de wetenschap dat de persoon een slachtoffer is van mensenhandel, krachtens haar nationale recht strafbaar te stellen.
+Elke Partij overweegt de wetgevende of andere maatregelen te nemen die nodig kunnen zijn om het gebruikmaken van diensten die het voorwerp zijn van uitbuiting als omschreven in [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=I&artikel=4&z=2010-08-01&g=2010-08-01), van dit Verdrag, in de wetenschap dat de persoon een slachtoffer is van mensenhandel, krachtens haar nationale recht strafbaar te stellen.
 
 ##### Artikel 20. Strafbaarstelling van handelingen die verband houden met reis- of identiteitsdocumenten
 
@@ -284,9 +284,9 @@ Elke Partij neemt de wetgevende of andere maatregelen die nodig kunnen zijn om d
 
 ##### Artikel 21. Poging en medeplichtigheid of uitlokking
 
-1. Elke Partij neemt de wetgevende of andere maatregelen die nodig kunnen zijn om medeplichtigheid aan of uitlokking van elk van de overeenkomstig de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=IV&artikel=18&z=2005-05-16&g=2005-05-16) en [20](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=IV&artikel=20&z=2005-05-16&g=2005-05-16) van dit Verdrag omschreven feiten, indien zulks opzettelijk geschiedt, strafbaar te stellen.
+1. Elke Partij neemt de wetgevende of andere maatregelen die nodig kunnen zijn om medeplichtigheid aan of uitlokking van elk van de overeenkomstig de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=IV&artikel=18&z=2010-08-01&g=2010-08-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=IV&artikel=20&z=2010-08-01&g=2010-08-01) van dit Verdrag omschreven feiten, indien zulks opzettelijk geschiedt, strafbaar te stellen.
 
-2. Elke Partij neemt de wetgevende of andere maatregelen die nodig kunnen zijn om een poging tot het plegen van een van de in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=IV&artikel=18&z=2005-05-16&g=2005-05-16) en [20, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=IV&artikel=20&z=2005-05-16&g=2005-05-16), van dit Verdrag omschreven feiten, indien zulks opzettelijk geschiedt, strafbaar te stellen.
+2. Elke Partij neemt de wetgevende of andere maatregelen die nodig kunnen zijn om een poging tot het plegen van een van de in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=IV&artikel=18&z=2010-08-01&g=2010-08-01) en [20, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=IV&artikel=20&z=2010-08-01&g=2010-08-01), van dit Verdrag omschreven feiten, indien zulks opzettelijk geschiedt, strafbaar te stellen.
 
 ##### Artikel 22. Aansprakelijkheid van rechtspersonen
 
@@ -306,17 +306,17 @@ Elke Partij neemt de wetgevende of andere maatregelen die nodig kunnen zijn om d
 
 ##### Artikel 23. Sancties en maatregelen
 
-1. Elke Partij neemt de wetgevende of andere maatregelen die nodig kunnen zijn om te waarborgen dat op de in de artikelen 18 tot en met 21 omschreven strafbare feiten doeltreffende, evenredige en afschrikkende straffen worden gesteld. Deze sancties omvatten, voor de overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=IV&artikel=18&z=2005-05-16&g=2005-05-16) strafbaar gestelde feiten indien zij door natuurlijke personen worden gepleegd, straffen die vrijheidsbeneming met zich meebrengen en tot uitlevering kunnen leiden.
+1. Elke Partij neemt de wetgevende of andere maatregelen die nodig kunnen zijn om te waarborgen dat op de in de artikelen 18 tot en met 21 omschreven strafbare feiten doeltreffende, evenredige en afschrikkende straffen worden gesteld. Deze sancties omvatten, voor de overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=IV&artikel=18&z=2010-08-01&g=2010-08-01) strafbaar gestelde feiten indien zij door natuurlijke personen worden gepleegd, straffen die vrijheidsbeneming met zich meebrengen en tot uitlevering kunnen leiden.
 
-2. Elke Partij waarborgt dat rechtspersonen die aansprakelijk worden gesteld overeenkomstig [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=IV&artikel=22&z=2005-05-16&g=2005-05-16), onderworpen worden aan doeltreffende, evenredige en afschrikkende strafrechtelijke of niet-strafrechtelijke sancties of maatregelen, met inbegrip van geldelijke sancties.
+2. Elke Partij waarborgt dat rechtspersonen die aansprakelijk worden gesteld overeenkomstig [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=IV&artikel=22&z=2010-08-01&g=2010-08-01), onderworpen worden aan doeltreffende, evenredige en afschrikkende strafrechtelijke of niet-strafrechtelijke sancties of maatregelen, met inbegrip van geldelijke sancties.
 
-3. Elke Partij neemt de wetgevende of andere maatregelen die nodig kunnen zijn om het mogelijk te maken de hulpmiddelen en opbrengsten van overeenkomstig de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=IV&artikel=18&z=2005-05-16&g=2005-05-16) en [20, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=IV&artikel=20&z=2005-05-16&g=2005-05-16), van dit Verdrag strafbaar gestelde feiten, of goederen waarvan de waarde overeenkomt met dergelijke opbrengsten, in beslag te nemen of anderszins te ontnemen.
+3. Elke Partij neemt de wetgevende of andere maatregelen die nodig kunnen zijn om het mogelijk te maken de hulpmiddelen en opbrengsten van overeenkomstig de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=IV&artikel=18&z=2010-08-01&g=2010-08-01) en [20, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=IV&artikel=20&z=2010-08-01&g=2010-08-01), van dit Verdrag strafbaar gestelde feiten, of goederen waarvan de waarde overeenkomt met dergelijke opbrengsten, in beslag te nemen of anderszins te ontnemen.
 
 4. Elke Partij neemt de wetgevende of andere maatregelen die nodig kunnen zijn om de tijdelijke of permanente sluiting mogelijk te maken van een inrichting die gebruikt is voor mensenhandel, onverminderd de rechten van derden te goeder trouw, of om de dader tijdelijk of permanent het recht te ontzeggen de activiteit uit te voeren in de uitvoering waarvan het strafbare feit werd gepleegd.
 
 ##### Artikel 24. Verzwarende omstandigheden
 
-Elke Partij waarborgt dat de volgende omstandigheden worden beschouwd als verzwarende omstandigheden bij de strafbepaling voor overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=IV&artikel=18&z=2005-05-16&g=2005-05-16) van dit Verdrag strafbaar gestelde feiten:
+Elke Partij waarborgt dat de volgende omstandigheden worden beschouwd als verzwarende omstandigheden bij de strafbepaling voor overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=IV&artikel=18&z=2010-08-01&g=2010-08-01) van dit Verdrag strafbaar gestelde feiten:
 
 - a. het strafbare feit heeft door opzet of grove nalatigheid het leven van het slachtoffer in gevaar gebracht;
 
@@ -342,7 +342,7 @@ Elke Partij voorziet, in overeenstemming met de grondbeginselen van haar rechtss
 
 2. Elke Partij waarborgt dat slachtoffers van een strafbaar feit gepleegd op het grondgebied van een andere Partij dan de partij op het grondgebied waarvan zij wonen, aangifte kunnen doen bij de bevoegde autoriteiten van de Staat waarin zij wonen. De bevoegde autoriteit bij wie de aangifte is gedaan, geleidt deze indien zij zelf niet in dit opzicht bevoegd is, onverwijld door aan de bevoegde autoriteit van de Partij op het grondgebied waarvan het strafbare feit werd gepleegd. De aangifte wordt behandeld in overeenstemming met het nationale recht van de Partij op het grondgebied waarvan het strafbare feit werd gepleegd.
 
-3. Elke Partij waarborgt, door middel van wetgevende of andere maatregelen, in overeenstemming met de voorwaarden voorzien in haar nationale wetgeving, dat elke groep, stichting, vereniging of niet-gouvernementele organisaties die zich richten op de bestrijding van mensenhandel of de bescherming van mensenrechten, de mogelijkheid heeft het slachtoffer met zijn of haar toestemming bij te staan en/of te ondersteunen tijdens het strafproces met betrekking tot het overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=IV&artikel=18&z=2005-05-16&g=2005-05-16) van dit Verdrag strafbaar gestelde feit.
+3. Elke Partij waarborgt, door middel van wetgevende of andere maatregelen, in overeenstemming met de voorwaarden voorzien in haar nationale wetgeving, dat elke groep, stichting, vereniging of niet-gouvernementele organisaties die zich richten op de bestrijding van mensenhandel of de bescherming van mensenrechten, de mogelijkheid heeft het slachtoffer met zijn of haar toestemming bij te staan en/of te ondersteunen tijdens het strafproces met betrekking tot het overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=IV&artikel=18&z=2010-08-01&g=2010-08-01) van dit Verdrag strafbaar gestelde feit.
 
 ##### Artikel 28. Bescherming van slachtoffers, getuigen en personen die met de gerechtelijke autoriteiten samenwerken
 
@@ -350,9 +350,9 @@ Elke Partij voorziet, in overeenstemming met de grondbeginselen van haar rechtss
 
 - a. slachtoffers;
 
-- b. wanneer van toepassing, de personen die aangifte doen van de overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=IV&artikel=18&z=2005-05-16&g=2005-05-16) van dit Verdrag strafbaar gestelde feiten of anderszins medewerking verlenen aan de met de opsporing of vervolging belaste autoriteiten;
+- b. wanneer van toepassing, de personen die aangifte doen van de overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=IV&artikel=18&z=2010-08-01&g=2010-08-01) van dit Verdrag strafbaar gestelde feiten of anderszins medewerking verlenen aan de met de opsporing of vervolging belaste autoriteiten;
 
-- c. getuigen die verklaringen afleggen inzake de overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=IV&artikel=18&z=2005-05-16&g=2005-05-16) van dit Verdrag strafbaar gestelde feiten;
+- c. getuigen die verklaringen afleggen inzake de overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=IV&artikel=18&z=2010-08-01&g=2010-08-01) van dit Verdrag strafbaar gestelde feiten;
 
 - d. wanneer noodzakelijk, familieleden van de in de onderdelen a en c bedoelde personen.
 
@@ -360,7 +360,7 @@ Elke Partij voorziet, in overeenstemming met de grondbeginselen van haar rechtss
 
 3. Op een kind dat slachtoffer is, zijn bijzondere beschermingsmaatregelen van toepassing waarbij rekening wordt gehouden met de belangen van het kind.
 
-4. Elke Partij neemt de wetgevende of andere maatregelen die nodig kunnen zijn om, wanneer noodzakelijk, passende bescherming te bieden tegen mogelijke represailles of intimidatie met name tijdens en na de opsporing en vervolging van daders, aan leden van groepen, stichtingen, verenigingen of niet-gouvernementele organisaties die de in [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=V&artikel=27&z=2005-05-16&g=2005-05-16), genoemde activiteiten verrichten.
+4. Elke Partij neemt de wetgevende of andere maatregelen die nodig kunnen zijn om, wanneer noodzakelijk, passende bescherming te bieden tegen mogelijke represailles of intimidatie met name tijdens en na de opsporing en vervolging van daders, aan leden van groepen, stichtingen, verenigingen of niet-gouvernementele organisaties die de in [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=V&artikel=27&z=2010-08-01&g=2010-08-01), genoemde activiteiten verrichten.
 
 5. Elke Partij overweegt overeenkomsten of regelingen met andere Staten te sluiten ten behoeve van de uitvoering van dit artikel.
 
@@ -418,7 +418,7 @@ De Partijen werken, overeenkomstig de bepalingen van dit Verdrag en door toepass
 
 ##### Artikel 33. Maatregelen die betrekking hebben op bedreigde of vermiste personen
 
-1. Wanneer een Partij, op basis van de informatie waarover zij beschikt, redelijke gronden heeft om aan te nemen dat het leven, de vrijheid of de lichamelijke integriteit van een in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=V&artikel=28&z=2005-05-16&g=2005-05-16), bedoelde persoon in direct gevaar is op het grondgebied van een andere Partij, doet de partij die deze informatie heeft, deze, in een dergelijk noodgeval, onverwijld aan de andere Partij toekomen zodat deze passende beschermingsmaatregelen kan treffen.
+1. Wanneer een Partij, op basis van de informatie waarover zij beschikt, redelijke gronden heeft om aan te nemen dat het leven, de vrijheid of de lichamelijke integriteit van een in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=V&artikel=28&z=2010-08-01&g=2010-08-01), bedoelde persoon in direct gevaar is op het grondgebied van een andere Partij, doet de partij die deze informatie heeft, deze, in een dergelijk noodgeval, onverwijld aan de andere Partij toekomen zodat deze passende beschermingsmaatregelen kan treffen.
 
 2. De Partijen bij dit Verdrag kunnen overwegen hun samenwerking te intensiveren bij het zoeken naar vermiste personen, in het bijzonder vermiste kinderen, indien zij op basis van de beschikbare informatie vermoeden dat zij het slachtoffer van mensenhandel zijn. De Partijen kunnen hiertoe bilaterale of multilaterale verdragen met elkaar sluiten.
 
@@ -430,7 +430,7 @@ De Partijen werken, overeenkomstig de bepalingen van dit Verdrag en door toepass
 
 3. Voorafgaand aan het verstrekken van deze informatie kan de verstrekkende Partij verzoeken dat deze vertrouwelijk wordt behandeld of uitsluitend onder bepaalde voorwaarden wordt gebruikt. Indien de ontvangende Partij aan een dergelijk verzoek niet kan voldoen, stelt zij de verstrekkende Partij daarvan in kennis, die vervolgens bepaalt of de informatie niettemin moet worden verstrekt. Indien de ontvangende Partij de informatie onder deze voorwaarden aanvaardt, is zij aan deze voorwaarden verbonden.
 
-4. Alle informatie die wordt verzocht met betrekking tot de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=III&artikel=13&z=2005-05-16&g=2005-05-16), [14](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=III&artikel=14&z=2005-05-16&g=2005-05-16) en [16](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=III&artikel=16&z=2005-05-16&g=2005-05-16), noodzakelijk om te voorzien in de rechten die voortvloeien uit deze artikelen, wordt op verzoek van de desbetreffende Partij onverwijld verstrekt met zorgvuldige inachtneming van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=III&artikel=11&z=2005-05-16&g=2005-05-16) van dit Verdrag.
+4. Alle informatie die wordt verzocht met betrekking tot de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=III&artikel=13&z=2010-08-01&g=2010-08-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=III&artikel=14&z=2010-08-01&g=2010-08-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=III&artikel=16&z=2010-08-01&g=2010-08-01), noodzakelijk om te voorzien in de rechten die voortvloeien uit deze artikelen, wordt op verzoek van de desbetreffende Partij onverwijld verstrekt met zorgvuldige inachtneming van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=III&artikel=11&z=2010-08-01&g=2010-08-01) van dit Verdrag.
 
 ##### Artikel 35. Samenwerking met het maatschappelijk middenveld
 
@@ -504,7 +504,7 @@ Dit Verdrag laat de rechten en verplichtingen die voortvloeien uit het Protocol 
 
 ##### Artikel 41. Wijzigingen
 
-1. Elk voorstel tot wijziging van dit Verdrag dat door een Partij wordt ingediend, wordt medegedeeld aan de Secretaris-Generaal van de Raad van Europa en door hem of haar toegezonden aan de lidstaten van de Raad van Europa, elke ondertekenaar, elke Staat die Partij is, de Europese Gemeenschap, elke Staat die overeenkomstig de bepalingen van [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=X&artikel=42&z=2005-05-16&g=2005-05-16) is uitgenodigd dit Verdrag te ondertekenen en aan elke Staat die overeenkomstig de bepalingen van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=X&artikel=43&z=2005-05-16&g=2005-05-16) is uitgenodigd tot dit Verdrag toe te treden.
+1. Elk voorstel tot wijziging van dit Verdrag dat door een Partij wordt ingediend, wordt medegedeeld aan de Secretaris-Generaal van de Raad van Europa en door hem of haar toegezonden aan de lidstaten van de Raad van Europa, elke ondertekenaar, elke Staat die Partij is, de Europese Gemeenschap, elke Staat die overeenkomstig de bepalingen van [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=X&artikel=42&z=2010-08-01&g=2010-08-01) is uitgenodigd dit Verdrag te ondertekenen en aan elke Staat die overeenkomstig de bepalingen van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=X&artikel=43&z=2010-08-01&g=2010-08-01) is uitgenodigd tot dit Verdrag toe te treden.
 
 2. Elke door een Partij voorgestelde wijziging wordt medegedeeld aan GRETA, die haar oordeel over die voorgestelde wijziging voorlegt aan het Comité van Ministers.
 
@@ -542,7 +542,7 @@ Dit Verdrag laat de rechten en verplichtingen die voortvloeien uit het Protocol 
 
 ##### Artikel 45. Voorbehouden
 
-Ten aanzien van de bepalingen van dit Verdrag kunnen geen voorbehouden worden gemaakt, met uitzondering van het voorbehoud van [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=V&artikel=31&z=2005-05-16&g=2005-05-16).
+Ten aanzien van de bepalingen van dit Verdrag kunnen geen voorbehouden worden gemaakt, met uitzondering van het voorbehoud van [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=V&artikel=31&z=2010-08-01&g=2010-08-01).
 
 ##### Artikel 46. Opzegging
 
@@ -552,21 +552,21 @@ Ten aanzien van de bepalingen van dit Verdrag kunnen geen voorbehouden worden ge
 
 ##### Artikel 47. Kennisgeving
 
-De Secretaris-Generaal van de Raad van Europa stelt de lidstaten van de Raad van Europa, alle ondertekenende Staten, alle Staten die Partij zijn, de Europese Gemeenschap, alle Staten die overeenkomstig de bepalingen van [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=X&artikel=42&z=2005-05-16&g=2005-05-16) zijn uitgenodigd dit Verdrag te ondertekenen en alle Staten die overeenkomstig de bepalingen van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=X&artikel=43&z=2005-05-16&g=2005-05-16) zijn uitgenodigd tot dit Verdrag toe te treden in kennis van:
+De Secretaris-Generaal van de Raad van Europa stelt de lidstaten van de Raad van Europa, alle ondertekenende Staten, alle Staten die Partij zijn, de Europese Gemeenschap, alle Staten die overeenkomstig de bepalingen van [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=X&artikel=42&z=2010-08-01&g=2010-08-01) zijn uitgenodigd dit Verdrag te ondertekenen en alle Staten die overeenkomstig de bepalingen van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=X&artikel=43&z=2010-08-01&g=2010-08-01) zijn uitgenodigd tot dit Verdrag toe te treden in kennis van:
 
 - a. elke ondertekening;
 
 - b. de nederlegging van elke akte van bekrachtiging, aanvaarding, goedkeuring of toetreding;
 
-- c. elke datum van inwerkingtreding van dit Verdrag in overeenstemming met de [artikelen 42](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=X&artikel=42&z=2005-05-16&g=2005-05-16) en [43](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=X&artikel=43&z=2005-05-16&g=2005-05-16);
+- c. elke datum van inwerkingtreding van dit Verdrag in overeenstemming met de [artikelen 42](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=X&artikel=42&z=2010-08-01&g=2010-08-01) en [43](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=X&artikel=43&z=2010-08-01&g=2010-08-01);
 
-- d. elke wijziging die overeenkomstig [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=IX&artikel=41&z=2005-05-16&g=2005-05-16) is aangenomen en de datum waarop een dergelijke wijziging in werking treedt;
+- d. elke wijziging die overeenkomstig [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=IX&artikel=41&z=2010-08-01&g=2010-08-01) is aangenomen en de datum waarop een dergelijke wijziging in werking treedt;
 
-- e. elke opzegging uit hoofde van de bepalingen van [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=X&artikel=46&z=2005-05-16&g=2005-05-16);
+- e. elke opzegging uit hoofde van de bepalingen van [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=X&artikel=46&z=2010-08-01&g=2010-08-01);
 
 - f. elke andere akte, kennisgeving of mededeling met betrekking tot dit Verdrag;
 
-- g. elk voorbehoud gemaakt ingevolge [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=X&artikel=45&z=2005-05-16&g=2005-05-16).
+- g. elk voorbehoud gemaakt ingevolge [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=X&artikel=45&z=2010-08-01&g=2010-08-01).
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Convention.
 
