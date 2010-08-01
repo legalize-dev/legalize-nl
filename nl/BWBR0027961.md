@@ -115,15 +115,3 @@ Dit besluit treedt in werking op het tijdstip waarop het bij koninklijke boodsch
 Dit besluit wordt aangehaald als: Besluit basisvoorwaarden kwaliteit voorschoolse educatie.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 4a. Inhoud pedagogisch beleidsplan wat voorschoolse educatie betreft
-
-Dit onderdeel is nog niet inwerking getreden
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 2a. Inzet pedagogisch beleidsmedewerker
-
-Dit onderdeel is nog niet inwerking getreden
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
