@@ -4,7 +4,7 @@ identifier: "BWBR0027765"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-04-01"
-last_updated: "2010-06-18"
+last_updated: "2010-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027765"
 soort: "ministeriele-regeling"
@@ -84,7 +84,7 @@ De aanvrager verstrekt aan de minister bij de aanvraag de volgende documenten, b
 
 - d. in voorkomend geval een bewijs van de beroepservaring;
 
-- e. voor het gereglementeerde beroep, bedoeld in [artikel 2, onderdeel a, subonderdeel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027765&artikel=2&z=2010-06-18&g=2010-06-18), een verklaring omtrent het gedrag als bedoeld in de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194) of een met die verklaring overeenkomend document als bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=14), of een attest waaruit blijkt van een verklaring onder ede of plechtige verklaring als bedoeld in artikel 14, tweede lid, van de wet;
+- e. voor het gereglementeerde beroep, bedoeld in [artikel 2, onderdeel a, subonderdeel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027765&artikel=2&z=2010-06-18&g=2010-08-01), een verklaring omtrent het gedrag als bedoeld in de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194) of een met die verklaring overeenkomend document als bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=14), of een attest waaruit blijkt van een verklaring onder ede of plechtige verklaring als bedoeld in artikel 14, tweede lid, van de wet;
 
 - f. indien de aanvraag en de onder b tot en met e bedoelde stukken in een andere dan de Nederlandse, Duitse of Engelse taal zijn gesteld, een door een beëdigd tolk/vertaler opgestelde vertaling daarvan in één van deze talen.
 
