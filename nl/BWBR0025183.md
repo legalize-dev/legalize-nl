@@ -4,7 +4,7 @@ identifier: "BWBR0025183"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-01-01"
-last_updated: "2010-04-01"
+last_updated: "2010-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025183"
 soort: "ministeriele-regeling"
@@ -86,7 +86,7 @@ De [Regeling samenloop kinderbijslag](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ##### Artikel 7. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025183&artikel=4&z=2010-04-01&g=2010-04-01) terugwerkt tot en met 1 januari 2008.
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025183&artikel=4&z=2010-04-01&g=2010-08-01) terugwerkt tot en met 1 januari 2008.
 
 ##### Artikel 8. Citeertitel
 
