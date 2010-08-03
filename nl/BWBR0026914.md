@@ -4,7 +4,7 @@ identifier: "BWBR0026914"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-05-04"
-last_updated: "2010-07-30"
+last_updated: "2010-08-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026914"
 soort: "ministeriele-regeling"
@@ -57,14 +57,14 @@ Besluit:
 | 1.3 | Subsidieregeling starten, groeien en overdragen van ondernemingen (groeifaciliteit) | 3.2 |   | 01-01 t/m 31-12 | 170.000.000 |
 | 1.4 | Subsidieregeling starten, groeien en overdragen van ondernemingen (Tijdelijke garantie ondernemingsfinanciering en Garantstelling gericht op bankgaranties) | – 3.12b – 3.12v |   | – 01-01 t/m 31-12 – 08-03 t/m 31-12 | 500.000.000 |
 | 1.5 | Subsidieregeling starten, groeien en overdragen van ondernemingen (Tijdelijke garantie ondernemingsfaciliteit curatieve zorg) | 3.12m |   | 01-01 t/m 22-10 | 150.000.000 |
-| 1.6 | Subsidieregeling starten, groeien en overdragen van ondernemingen (seed capital technostarters) | 4.3 |   | 01-01 t/m 31-03 | 12.000.000 |
+| 1.6 | Subsidieregeling starten, groeien en overdragen van ondernemingen (seed capital technostarters) | 4.3 |   | 01-01 t/m 31-03 05-08 t/m 30-09 | 12.000.000 10.000.000 |
 | 1.7 | Subsidieregeling Starten, groeien en overdragen van ondernemingen (Valorisatieprogramma) | 5.2 |   | 1-6 t/m 31-12 | € 25.000.000 |
 | 1.8 | Subsidieregeling starten, groeien en overdragen van ondernemingen (ondernemerschapsonderwijsprojecten) | 6.2 |   |   |   |
 | 1.9 | Vervallen |   |   |   |   |
-| 1.10 | Subsidieregeling starten, groeien en overdragen van ondernemingen (beroepsonderwijs in bedrijf) | 7.2 |   | 01-01 t/m 01-11 | 12.000.000 |
+| 1.10 | Subsidieregeling starten, groeien en overdragen van ondernemingen (beroepsonderwijs in bedrijf) | 7.2 |   | 01-01 t/m 01-11 | 13.300.000 |
 | 1.11 | Subsidieregeling starten, groeien en overdragen van ondernemingen (borgstelling scheepsnieuwbouw) | 8.3 |   | 01-01 t/m 31-12 | 1.000.000.000 |
 | 1.12 | Subsidieregeling starten, groeien en overdragen van ondernemingen (veiligheid kleine bedrijven) | 9.2 |   | 16-03 t/m 01-12 | 7.700.000 |
-| 1.13 | Subsidieregeling starten, groeien en overdragen van ondernemingen (veiligheid kleine bedrijven) | 9.11 |   | 16-03 t/m 26-04 | 4.650.000 |
+| 1.13 | Subsidieregeling starten, groeien en overdragen van ondernemingen (veiligheid kleine bedrijven) | 9.11 |   | 16-03 t/m 26-04 | 4.900.000 |
 | 1.14 | Subsidieregeling starten, groeien en overdragen van ondernemingen (veiligheid kleine bedrijven) | 9.12 |   | 16-03 t/m 26-04 | 2.300.000 |
 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855) |
 | 2.1 | Subsidieregeling innoveren (Eurostars-projecten) | 2.2 |   | 15-01 t/m 29-01 14-06 t/m 13-08 | 2.500.000 3.750.000 |
