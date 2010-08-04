@@ -4,7 +4,7 @@ identifier: "BWBR0026914"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-05-04"
-last_updated: "2010-08-03"
+last_updated: "2010-08-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026914"
 soort: "ministeriele-regeling"
@@ -139,12 +139,13 @@ Besluit:
 | 3.31 | Subsidieregeling sterktes in innovatie (strategisch onderzoeksprogramma vliegtuigontwikkeling) | 10g.2 | onderzoek op motorcomponenten | Tijdstip van inwerkingtreding van deze regeling t/m 26-04 | 898.000 |
 | 3.32 | Subsidieregeling sterktes in innovatie (strategisch onderzoeksprogramma vliegtuigontwikkeling) | 10g.2 | thermoplasten en composieten, vezel-metaal laminaten, ontwerpmethodieken, toekomstige technologieën, vliegtuigsystemen | Tijdstip van inwerkingtreding van deze regeling t/m 26-04 | 3.592.000 |
 | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884) |
-| 4.1 | Subsidieregeling sterktes in de regio (Pieken in de Delta) | 2.3 | Oost-Nederland | 15-03 t/m 27-04 | 4.000.000 |
+| 4.1 | Subsidieregeling sterktes in de regio (Pieken in de delta) | 2.3 |   |   |   |
+|   |   |   | Oost-Nederland | 15-03 t/m 27-04 | 4.000.000 |
 |   |   |   | Noordvleugel Randstad | 15-03 t/m 27-04 | 9.000.000 |
 |   |   |   | Zuidvleugel Randstad | 15-03 t/m 27-04 | 7.350.000 |
-|   |   |   | Zuidwest-Nederland | 15-03 t/m 27-04 | 1.600.000 |
-|   |   |   | Zuidoost-Nederland | 15-03 t/m 27-04 | 4.500.000 |
-|   |   |   | Noord-Nederland | 01-01 t/m 31-12 | 20.000.000 |
+|   |   |   | Zuidwest-Nederland | 15-03 t/m 27-04 | 1.756.000 |
+|   |   |   | Zuidoost-Nederland | 15-03 t/m 27-04 | 5.072.000 |
+|   |   |   | Noord-Nederland | 01-01 t/m 31-12 | 36.324.000 |
 | 4.2 | Subsidieregeling sterktes in de regio (regionale investeringsprojecten) | 3.2 |   | 12-07 t/m 15-11 | 10.400.000 |
 | [Subsidieregeling energie en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0026952) | [Subsidieregeling energie en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0026952) | [Subsidieregeling energie en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0026952) | [Subsidieregeling energie en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0026952) | [Subsidieregeling energie en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0026952) | [Subsidieregeling energie en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0026952) |
 | 5.1 | Subsidieregeling energie en innovatie (EOS: lange termijn | 2.1.2 | NEO haalbaarheidsstudie | 11-02 t/m 14-10 | 500.000 |
