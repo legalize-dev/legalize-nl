@@ -4,7 +4,7 @@ identifier: "BWBR0006152"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2010-04-28"
+last_updated: "2010-08-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006152"
 soort: "AMvB"
@@ -78,15 +78,15 @@ In dit besluit wordt verstaan onder:
 
 - h. register: het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13);
 
-- i. CROHO-onderdeel: een onderdeel van het register, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=3&afdeling=1&artikel=3.1&z=2010-04-28&g=2010-04-28);
+- i. CROHO-onderdeel: een onderdeel van het register, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=3&afdeling=1&artikel=3.1&z=2010-08-05&g=2010-08-05);
 
 - j. CRIHO: het Centraal register inschrijving hoger onderwijs, bedoeld in [artikel 7.52 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.52);
 
-- k. onderwijsdeel wo: het onderdeel van de landelijk beschikbare rijksbijdrage, bedoeld in [artikel 4.2, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=1&artikel=4.2&z=2010-04-28&g=2010-04-28);
+- k. onderwijsdeel wo: het onderdeel van de landelijk beschikbare rijksbijdrage, bedoeld in [artikel 4.2, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=1&artikel=4.2&z=2010-08-05&g=2010-08-05);
 
-- l. onderwijsdeel hbo: het onderdeel van de landelijk beschikbare rijksbijdrage, bedoeld in [artikel 4.2, derde lid, onderdeel b, of vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=1&artikel=4.2&z=2010-04-28&g=2010-04-28);
+- l. onderwijsdeel hbo: het onderdeel van de landelijk beschikbare rijksbijdrage, bedoeld in [artikel 4.2, derde lid, onderdeel b, of vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=1&artikel=4.2&z=2010-08-05&g=2010-08-05);
 
-- m. onderzoekdeel wo: het onderdeel van de landelijk beschikbare rijksbijdrage, bedoeld in [artikel 4.2, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=1&artikel=4.2&z=2010-04-28&g=2010-04-28);
+- m. onderzoekdeel wo: het onderdeel van de landelijk beschikbare rijksbijdrage, bedoeld in [artikel 4.2, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=1&artikel=4.2&z=2010-08-05&g=2010-08-05);
 
 - n. opleiding: een opleiding als bedoeld in [artikel 7.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3);
 
@@ -108,7 +108,7 @@ In dit besluit wordt verstaan onder:
 
 - t. peilperiode: de periode van 1 oktober in het derde kalenderjaar voorafgaand aan het begrotingsjaar waarvoor de rijksbijdrage wordt vastgesteld, tot en met 30 september in het tweede kalenderjaar voorafgaand aan het begrotingsjaar waarvoor de rijksbijdrage wordt vastgesteld;
 
-- u. bekostigingsniveau: het bekostigingsniveau, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&bijlage=3&z=2010-04-28&g=2010-04-28) bij dit besluit;
+- u. bekostigingsniveau: het bekostigingsniveau, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&bijlage=3&z=2010-08-05&g=2010-08-05) bij dit besluit;
 
 - v. graad: een blijkens het CRIHO verleende graad Bachelor of graad Master, bedoeld in [artikel 7.10a, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.10a), die is verleend aan een persoon die op enig tijdstip tussen 1 oktober in het derde kalenderjaar voorafgaand aan het begrotingsjaar en het moment van graadverlening in Nederland, België, of een van de bondsstaten Noord-Rijnland-Westfalen, Nedersaksen of Bremen van de Bondsrepubliek Duitsland woonde;
 
@@ -166,7 +166,7 @@ Vervallen
 
 ##### Artikel 2.4. Aanspraak
 
-De door een organisatie aangewezen vertegenwoordiger heeft, met inachtneming van het bepaalde in deze afdeling, gedurende het tijdvak waarvoor de in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=2&afdeling=2&artikel=2.5&z=2010-04-28&g=2010-04-28) bedoelde aanwijzing geldt, aanspraak op financiële ondersteuning.
+De door een organisatie aangewezen vertegenwoordiger heeft, met inachtneming van het bepaalde in deze afdeling, gedurende het tijdvak waarvoor de in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=2&afdeling=2&artikel=2.5&z=2010-08-05&g=2010-08-05) bedoelde aanwijzing geldt, aanspraak op financiële ondersteuning.
 
 ##### Artikel 2.5. Aanwijzing, vertegenwoordiging en termijn
 
@@ -188,9 +188,9 @@ De door een organisatie aangewezen vertegenwoordiger heeft, met inachtneming van
 
 ##### Artikel 2.7. Beperking totaal der aanspraken
 
-1. Per studiejaar is ten aanzien van ten hoogste twintig organisaties financiële ondersteuning als bedoeld in [artikel 2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=2&afdeling=2&artikel=2.6&z=2010-04-28&g=2010-04-28), beschikbaar.
+1. Per studiejaar is ten aanzien van ten hoogste twintig organisaties financiële ondersteuning als bedoeld in [artikel 2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=2&afdeling=2&artikel=2.6&z=2010-08-05&g=2010-08-05), beschikbaar.
 
-2. Toewijzing van de financiële ondersteuning vindt plaats in de volgorde van binnenkomst van de aanmeldingen, bedoeld in [artikel 2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=2&afdeling=2&artikel=2.5&z=2010-04-28&g=2010-04-28).
+2. Toewijzing van de financiële ondersteuning vindt plaats in de volgorde van binnenkomst van de aanmeldingen, bedoeld in [artikel 2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=2&afdeling=2&artikel=2.5&z=2010-08-05&g=2010-08-05).
 
 ##### Artikel 2.8. Subsidies aan VSNU en HBO-Raad ten behoeve van studentleden van visitatiecommissies
 
@@ -252,13 +252,13 @@ Onze minister kan voorschriften geven voor de wijze waarop gegevens die in het r
 
 1. Op een daartoe ingediend verzoek kunnen gegevens die in het register zijn opgenomen, worden verstrekt. Bij dat verzoek wordt aangegeven welke gegevens worden verlangd alsmede de gewenste wijze van verstrekking.
 
-2. Binnen een maand na ontvangst van het verzoek, wordt aan aanvrager bekendgemaakt of het verzoek kan worden gehonoreerd. Indien het verzoek zal worden gehonoreerd, wordt tevens aangegeven binnen welke termijn dit zal geschieden alsmede of aan de verstrekking kosten zijn verbonden en zo ja, hoe hoog de verschuldigde vergoeding, met inachtneming van [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=3&afdeling=1&artikel=3.5&z=2010-04-28&g=2010-04-28), zal zijn.
+2. Binnen een maand na ontvangst van het verzoek, wordt aan aanvrager bekendgemaakt of het verzoek kan worden gehonoreerd. Indien het verzoek zal worden gehonoreerd, wordt tevens aangegeven binnen welke termijn dit zal geschieden alsmede of aan de verstrekking kosten zijn verbonden en zo ja, hoe hoog de verschuldigde vergoeding, met inachtneming van [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=3&afdeling=1&artikel=3.5&z=2010-08-05&g=2010-08-05), zal zijn.
 
 3. De verstrekking kan slechts worden geweigerd als de gevraagde gegevens niet beschikbaar zijn, of de gevraagde wijze van verstrekking niet kan worden uitgevoerd.
 
 ##### Artikel 3.5. Vergoeding verstrekte gegevens
 
-1. Indien een verzoek als bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=3&afdeling=1&artikel=3.4&z=2010-04-28&g=2010-04-28) wordt gedaan door anderen dan de besturen van instellingen waarop de wet betrekking heeft, is voor het verstrekken van gegevens een vergoeding verschuldigd.
+1. Indien een verzoek als bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=3&afdeling=1&artikel=3.4&z=2010-08-05&g=2010-08-05) wordt gedaan door anderen dan de besturen van instellingen waarop de wet betrekking heeft, is voor het verstrekken van gegevens een vergoeding verschuldigd.
 
 2. De verschuldigde vergoeding is afhankelijk van:
 
@@ -274,7 +274,7 @@ Onze minister kan voorschriften geven voor de wijze waarop gegevens die in het r
 
 ##### Artikel 3.6. Aanwijzing bacheloropleidingen in het hbo
 
-De bacheloropleidingen in het hoger beroepsonderwijs ten aanzien waarvan het [eerste lid van artikel 7.26 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26) toepassing kan vinden, zijn, ingedeeld naar de onderdelen van het register, genoemd in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=3&afdeling=1&artikel=3.1&z=2010-04-28&g=2010-04-28):
+De bacheloropleidingen in het hoger beroepsonderwijs ten aanzien waarvan het [eerste lid van artikel 7.26 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26) toepassing kan vinden, zijn, ingedeeld naar de onderdelen van het register, genoemd in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=3&afdeling=1&artikel=3.1&z=2010-08-05&g=2010-08-05):
 
 - a. binnen het onderdeel onderwijs:
 
@@ -334,9 +334,9 @@ De bacheloropleidingen in het hoger beroepsonderwijs ten aanzien waarvan het [ee
 
 5. Voor de toepassing van dit hoofdstuk wordt een hbo-opleiding, anders dan een voortgezette opleiding, een bachelor- of een masteropleiding, gelijkgesteld met een bacheloropleiding. Een persoon die het afsluitend examen van een dergelijke opleiding met goed gevolg heeft afgelegd, wordt gelijkgesteld met een persoon aan wie de graad Bachelor is verleend.
 
-6. Voor de toepassing van [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.8&z=2010-04-28&g=2010-04-28) wordt voor de universiteiten, bedoeld in [artikel 1.1, onderdeel d, ten 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=1&artikel=1.1&z=2010-04-28&g=2010-04-28), onder graad Bachelor in het hoger beroepsonderwijs verstaan: een graad Bachelor in het hoger beroepsonderwijs, die is verleend in de peilperiode of de daaraan voorafgaande periode van vijf jaar.
+6. Voor de toepassing van [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.8&z=2010-08-05&g=2010-08-05) wordt voor de universiteiten, bedoeld in [artikel 1.1, onderdeel d, ten 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=1&artikel=1.1&z=2010-08-05&g=2010-08-05), onder graad Bachelor in het hoger beroepsonderwijs verstaan: een graad Bachelor in het hoger beroepsonderwijs, die is verleend in de peilperiode of de daaraan voorafgaande periode van vijf jaar.
 
-7. Voor de toepassing van de [artikelen 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.9&z=2010-04-28&g=2010-04-28) en [4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=3&paragraaf=1&artikel=4.20&z=2010-04-28&g=2010-04-28) wordt voor de universiteiten, bedoeld in [artikel 1.1, onderdeel d, ten 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=1&artikel=1.1&z=2010-04-28&g=2010-04-28), onder graad Bachelor verstaan: een graad Bachelor, die is verleend aan een persoon aan wie niet reeds in peilperiode of de daaraan voorafgaande periode van vijf jaar de graad Bachelor in het hoger beroepsonderwijs is verleend, en voor de overige universiteiten: een graad Bachelor, die is verleend aan een persoon aan wie niet reeds de graad Bachelor in het hoger beroepsonderwijs is verleend.
+7. Voor de toepassing van de [artikelen 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.9&z=2010-08-05&g=2010-08-05) en [4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=3&paragraaf=1&artikel=4.20&z=2010-08-05&g=2010-08-05) wordt voor de universiteiten, bedoeld in [artikel 1.1, onderdeel d, ten 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=1&artikel=1.1&z=2010-08-05&g=2010-08-05), onder graad Bachelor verstaan: een graad Bachelor, die is verleend aan een persoon aan wie niet reeds in peilperiode of de daaraan voorafgaande periode van vijf jaar de graad Bachelor in het hoger beroepsonderwijs is verleend, en voor de overige universiteiten: een graad Bachelor, die is verleend aan een persoon aan wie niet reeds de graad Bachelor in het hoger beroepsonderwijs is verleend.
 
 8. Voor de toepassing van dit hoofdstuk blijven inschrijvingen die hebben plaatsgevonden vóór 1 augustus 1991 en getuigschriften die zijn uitgereikt vóór 1 augustus 1991 buiten beschouwing.
 
@@ -372,9 +372,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 3.7. Masteropleidingen in het wetenschappelijk onderwijs met een studielast van 120 studiepunten of hoger
 
-1. Masteropleidingen in het wetenschappelijk onderwijs met een studielast van 120 studiepunten zijn de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&bijlage=1&z=2010-04-28&g=2010-04-28) bij dit besluit vermelde opleidingen.
+1. Masteropleidingen in het wetenschappelijk onderwijs met een studielast van 120 studiepunten zijn de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&bijlage=1&z=2010-08-05&g=2010-08-05) bij dit besluit vermelde opleidingen.
 
-2. Masteropleidingen in het wetenschappelijk onderwijs met een studielast van ten minste 120 en ten hoogste 180 studiepunten zijn de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&bijlage=2&z=2010-04-28&g=2010-04-28) bij dit besluit vermelde opleidingen.
+2. Masteropleidingen in het wetenschappelijk onderwijs met een studielast van ten minste 120 en ten hoogste 180 studiepunten zijn de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&bijlage=2&z=2010-08-05&g=2010-08-05) bij dit besluit vermelde opleidingen.
 
 ### Afdeling 4. Overige eigen bijdragen
 
@@ -606,15 +606,15 @@ Art History and Archaeology: Material Culture Studies in Art, Architecture and A
 
 Behavioural and Cognitive Neurosciences (research)
 
+Behavioural and Social Sciences (research)
+
 Classical, Medieval and Renaissance Studies (CMRS): Text and Context in Premodern and Early Modern Times (research)
 
 Clinical and Psychosocial Epidemiology (research)
 
-Economics and Business: Production, Organisation & Marketing (research)
+Economics and Business: Production, Organization and Marketing (research)
 
 Functionaliteit van het Recht (research)
-
-Human Behaviour in Social Contexts (research)
 
 Literary and Cultural Studies: Literature and Performing Arts in Society (research)
 
@@ -626,7 +626,7 @@ Philosophy: Knowledge and Knowledge Development (research)
 
 Regional Studies: Spaces and Places, Analysis and Intervention (research)
 
-Religious Symbols and Traditions (research).
+Religion and Culture (research).
 
 ### 3. Openbare universiteit te Amsterdam
 
@@ -854,7 +854,7 @@ Philosophy (research)
 
 Research in Public Administration and Organizational Science (research)
 
-Social Health Psychology (research)
+Social & Health Psychology (research)
 
 Sociology and Social Research (research)
 
@@ -984,6 +984,8 @@ Applied Physics
 
 Architecture, Building and Planning
 
+Automotive Technology
+
 Biomedical Engineering
 
 Building Services
@@ -998,15 +1000,17 @@ Construction Management and Engeneering
 
 Electrical Engineering
 
-Embedded Systems
-
 ### 12. Bijzondere universiteit te Nijmegen
+
+Human-technology Interaction
 
 Industrial and Applied Mathematics
 
 Industrial Design
 
 Innovation Management
+
+Innovation Sciences
 
 Mechanical Engineering
 
@@ -1018,9 +1022,7 @@ Sustainable Energy Technology
 
 Systems and Control
 
-Technology and Policy.
-
-Business Mathematics and Informatics
+A.
 
 A.
 
@@ -1038,13 +1040,11 @@ Civil Engineering & Management
 
 Computer Science
 
-Construction Management and Engeneering
-
 ### 13. Bijzondere universiteit te Tilburg
 
-Embedded Systems
+Electrical Engineering
 
-Geo-informatics
+Embedded Systems
 
 Human Media Interaction
 
@@ -1070,15 +1070,15 @@ B.
 
 Social Systems Evaluation and Survey Research (research).
 
-Neuroscience (research)
-
 Clinical Epidemiology (research)
 
 Clinical Research (research)
 
+Early Modern Intellectual History (research)
+
 ## Bijlage. bij het uitvoeringsbesluit WHW
 
-ERIM Master of Philosophy in Business Research (research)
+Infection and Immunity (research)
 
 ### 1. **Openbare universiteit te Leiden**
 
@@ -1098,19 +1098,23 @@ Law and Language Studies.
 
 A.
 
+Health Food Innovation Management
+
 International Laws.
 
 B.
 
-Business Research (research)
-
 ### 1. Openbare universiteit te Eindhoven
 
-Cognitive Neuroscience, Neuropsychology and Psychopathology (research)
+Cardiovascular Biology and Medicine (research)
+
+Cognitive and Clinical Neuroscience
 
 Cultures of Arts, Science and Technology (research)
 
 Economic and Financial Research (research)
+
+European Studies (research)
 
 Health Sciences (research)
 
@@ -1128,7 +1132,7 @@ Bioinformatics
 
 Biology
 
-Biomedical sciences
+Biomedical Sciences
 
 Biomolecular Sciences
 
@@ -1144,17 +1148,15 @@ Earth Sciences
 
 Ecology
 
-Geo-environmental Sciences
-
 Hydrology
 
 Management, Policy Analysis and Entrepreneurship in the Health and Life Sciences
 
 Mathematics
 
-Medical Natural Sciences
-
 ### 1. Openbare universiteit te Eindhoven
+
+Neurosciences
 
 Oncology
 
@@ -1166,15 +1168,15 @@ Stochastics and Financial Mathematics;
 
 B.
 
-Architectuurgeschiedenis (research)
+Cardiovascular Research (research)
 
 Cognitive Neuropsychology (research)
+
+Fundamental and Clinical Human Movement Sciences (research)
 
 Geosciences of Basins in Lithosphere (research)
 
 Geschiedenis na 1400 (research)
-
-Geschiedenis van de beeldende kunst (research)
 
 Letterkunde (research)
 
@@ -1182,25 +1184,27 @@ Lifestyle and Chronic Disorders (research)
 
 Linguistics (research)
 
-Oudheidstudies
-
 ### 4. **Openbare universiteit te Utrecht**
 
-Reformed Theology (research)
+Palaeoclimatology and Geo-ecosystems (research)
+
+Religion and Theology (research)
 
 Social Psychology: Regulation of Social Behaviour (research)
 
-Social Research; Organization Sciences, Political Science and Sociology (research)
+Social Research (research)
 
-Tinbergen Institute Master of Philosophy in Economics (research).
+Tinbergen Institute Master of Philosophy in Economics (research)
+
+Visual Arts, Media and Architecture (research).
 
 Biology
 
 A.
 
-Biology
+Artificial Intelligence
 
-Bio-informatics
+Biology
 
 Biomedical sciences
 
@@ -1210,21 +1214,23 @@ Environmental Sciences
 
 Informatica
 
-Kunstmatige Intelligentie
-
 Mathematics
 
-Medische biologie
+Medical Biology
 
 Moleculaire levenswetenschappen
 
 Natuur- en sterrenkunde
 
-Natuurwetenschappen;
-
 ### 5. **Openbare universiteit te Delft**
 
-Behavioral Science: the study of behavior regulation (research)
+Niederlande-Deutschland-Studien
+
+Theology;
+
+B.
+
+Behavioural Science: the study of behaviour regulation (research)
 
 Cognitive Neuroscience (research)
 
@@ -1240,11 +1246,11 @@ Molecular Mechanisms of Disease (research)
 
 Onderneming en Recht (research)
 
-Social Cultural Science: Comparative Research on Societies (research)
+Social and Cultural Science: Comparative Research on Societies (research)
 
 Wijsbegeerte (research).
 
-Medische Psychologie.
+B.
 
 A.
 
@@ -1268,15 +1274,15 @@ Theology (research)
 
 Wijsbegeerte (research).
 
-Molecular Life Sciences.
+### 14. transnationale Universiteit Limburg
 
 Artificial Intelligence en Operations Research
 
 Molecular Life Sciences.
 
-### 6. **Openbare universiteit te Wageningen**
-
 Mathematics Education
+
+Physics Education.
 
 Chemistry Education
 
@@ -1284,7 +1290,7 @@ Mathematics Education
 
 Physics Education.
 
-Opleiding tot leraar voortgezet onderwijs van de eerste graad in Natuurkunde
+Opleiding tot leraar voortgezet onderwijs van de eerste graad in Scheikunde
 
 Opleiding tot leraar voortgezet onderwijs van de eerste graad in Biologie
 
@@ -1293,12 +1299,6 @@ Opleiding tot leraar voortgezet onderwijs van de eerste graad in Natuurkunde
 Opleiding tot leraar voortgezet onderwijs van de eerste graad in Scheikunde
 
 Opleiding tot leraar voortgezet onderwijs van de eerste graad in Wiskunde.
-
-food technology
-
-forest and nature conservation
-
-geographical information management and applications
 
 geo-information science
 
@@ -1488,11 +1488,11 @@ Biology
 
 ### 12. Bijzondere universiteit te Nijmegen
 
-Human-technology Interaction
+Embedded Systems
 
 ### 12. Bijzondere universiteit te Nijmegen
 
-Electrical Engineering
+Construction Management and Engeneering
 
 ### 14. Katholieke Theologische Universiteit te Utrecht
 
@@ -1504,7 +1504,7 @@ Sustainable Energy Technology
 
 ### 2. Bijzondere universiteit te Nijmegen
 
-Master of Science Systems and Control
+Social Systems Evaluation and Survey Research (research).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
@@ -1528,7 +1528,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Mechanical Engineering
 
-Early Modern Intellectual History (research)
+ERIM Master of Philosophy in Business Research (research)
 
 Institutions: Erasmus Research Master in Philosophy and Economics (research)
 
@@ -1582,7 +1582,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### 10. Openbare universiteit te Maastricht
 
-Cardiovascular Biology and Medicine (research)
+Business Research (research)
 
 ### 14. Katholieke Theologische Universiteit te Utrecht
 
@@ -1612,7 +1612,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### 14. transnationale Universiteit Limburg
 
-Neurosciences
+Medical Natural Sciences
 
 ## Bijlage 2. Masteropleidingen in het wetenschappelijk onderwijs met een studielast van ten minste 120 en ten hoogste 180 studiepunten
 
@@ -1686,41 +1686,41 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 4.3. Verdeling van de landelijk beschikbare rijksbijdrage
 
-1. Het onderwijsdeel wo, bedoeld in [artikel 4.2, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=1&artikel=4.2&z=2010-04-28&g=2010-04-28), wordt over de universiteiten met uitzondering van Wageningen Universiteit verdeeld overeenkomstig [afdeling 2, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=1&z=2010-04-28&g=2010-04-28). Het onderwijsdeel wo, bedoeld in [artikel 4.2, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=1&artikel=4.2&z=2010-04-28&g=2010-04-28), wordt toegekend aan Wageningen Universiteit.
+1. Het onderwijsdeel wo, bedoeld in [artikel 4.2, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=1&artikel=4.2&z=2010-08-05&g=2010-08-05), wordt over de universiteiten met uitzondering van Wageningen Universiteit verdeeld overeenkomstig [afdeling 2, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=1&z=2010-08-05&g=2010-08-05). Het onderwijsdeel wo, bedoeld in [artikel 4.2, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=1&artikel=4.2&z=2010-08-05&g=2010-08-05), wordt toegekend aan Wageningen Universiteit.
 
-2. Het onderwijsdeel hbo, bedoeld in [artikel 4.2, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=1&artikel=4.2&z=2010-04-28&g=2010-04-28), wordt overeenkomstig [afdeling 2, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=2&z=2010-04-28&g=2010-04-28), verdeeld over de instellingen die opleidingen in het hoger beroepsonderwijs op andere gebieden dan het gebied van landbouw en natuurlijke omgeving verzorgen. De eerste volzin is van overeenkomstige toepassing op het onderwijsdeel hbo, bedoeld in [artikel 4.2, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=1&artikel=4.2&z=2010-04-28&g=2010-04-28).
+2. Het onderwijsdeel hbo, bedoeld in [artikel 4.2, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=1&artikel=4.2&z=2010-08-05&g=2010-08-05), wordt overeenkomstig [afdeling 2, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=2&z=2010-08-05&g=2010-08-05), verdeeld over de instellingen die opleidingen in het hoger beroepsonderwijs op andere gebieden dan het gebied van landbouw en natuurlijke omgeving verzorgen. De eerste volzin is van overeenkomstige toepassing op het onderwijsdeel hbo, bedoeld in [artikel 4.2, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=1&artikel=4.2&z=2010-08-05&g=2010-08-05).
 
-3. Het onderzoekdeel wo, bedoeld in [artikel 4.2, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=1&artikel=4.2&z=2010-04-28&g=2010-04-28), wordt over de universiteiten met uitzondering van Wageningen Universiteit verdeeld overeenkomstig [afdeling 6, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=3&paragraaf=1&z=2010-04-28&g=2010-04-28). Het onderzoekdeel wo, bedoeld in [artikel 4.2, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=1&artikel=4.2&z=2010-04-28&g=2010-04-28) wordt toegekend aan Wageningen Universiteit.
+3. Het onderzoekdeel wo, bedoeld in [artikel 4.2, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=1&artikel=4.2&z=2010-08-05&g=2010-08-05), wordt over de universiteiten met uitzondering van Wageningen Universiteit verdeeld overeenkomstig [afdeling 6, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=3&paragraaf=1&z=2010-08-05&g=2010-08-05). Het onderzoekdeel wo, bedoeld in [artikel 4.2, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=1&artikel=4.2&z=2010-08-05&g=2010-08-05) wordt toegekend aan Wageningen Universiteit.
 
-4. Het deel ontwerp en ontwikkeling hbo, bedoeld in [artikel 4.2, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=1&artikel=4.2&z=2010-04-28&g=2010-04-28), wordt overeenkomstig [afdeling 3, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=3&paragraaf=2&z=2010-04-28&g=2010-04-28), verdeeld over de instellingen die opleidingen in het hoger beroepsonderwijs op andere gebieden dan het gebied van landbouw en natuurlijke omgeving verzorgen. De eerste volzin is van overeenkomstige toepassing op het deel ontwerp en ontwikkeling hbo, bedoeld in [artikel 4.2, vierde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=1&artikel=4.2&z=2010-04-28&g=2010-04-28).
+4. Het deel ontwerp en ontwikkeling hbo, bedoeld in [artikel 4.2, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=1&artikel=4.2&z=2010-08-05&g=2010-08-05), wordt overeenkomstig [afdeling 3, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=3&paragraaf=2&z=2010-08-05&g=2010-08-05), verdeeld over de instellingen die opleidingen in het hoger beroepsonderwijs op andere gebieden dan het gebied van landbouw en natuurlijke omgeving verzorgen. De eerste volzin is van overeenkomstige toepassing op het deel ontwerp en ontwikkeling hbo, bedoeld in [artikel 4.2, vierde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=1&artikel=4.2&z=2010-08-05&g=2010-08-05).
 
-5. Het deel ondersteuning geneeskundig onderwijs en onderzoek, bedoeld in [artikel 4.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=1&artikel=4.2&z=2010-04-28&g=2010-04-28), wordt over de universiteiten verdeeld overeenkomstig [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=4&z=2010-04-28&g=2010-04-28).
+5. Het deel ondersteuning geneeskundig onderwijs en onderzoek, bedoeld in [artikel 4.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=1&artikel=4.2&z=2010-08-05&g=2010-08-05), wordt over de universiteiten verdeeld overeenkomstig [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=4&z=2010-08-05&g=2010-08-05).
 
 ##### Artikel 4.4. Gegevens
 
-1. Het instellingsbestuur verstrekt uiterlijk 30 november in het tweede kalenderjaar voorafgaand aan het begrotingsjaar aan Onze minister de ingevolge dit besluit voor de toepassing van [afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&z=2010-04-28&g=2010-04-28) en [artikel 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=3&paragraaf=1&artikel=4.20&z=2010-04-28&g=2010-04-28) noodzakelijke gegevens.
+1. Het instellingsbestuur verstrekt uiterlijk 30 november in het tweede kalenderjaar voorafgaand aan het begrotingsjaar aan Onze minister de ingevolge dit besluit voor de toepassing van [afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&z=2010-08-05&g=2010-08-05) en [artikel 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=3&paragraaf=1&artikel=4.20&z=2010-08-05&g=2010-08-05) noodzakelijke gegevens.
 
 2. Het instellingsbestuur heeft tot 15 april voorafgaand aan het begrotingsjaar de gelegenheid de aangeleverde gegevens, bedoeld in het eerste lid, te corrigeren.
 
 3. Gegevens die door het instellingsbestuur na 30 november in het tweede kalenderjaar voorafgaand aan het begrotingsjaar aan Onze minister worden geleverd, worden niet tot de gegevens voor de bekostiging gerekend, tenzij deze als gevolg van een buiten het instellingsbestuur liggende oorzaak na 30 november zijn aangeleverd.
 
-4. Het instellingsbestuur van een universiteit verstrekt uiterlijk 15 april voorafgaand aan het begrotingsjaar Onze minister een overzicht van het aantal proefschriften en ontwerperscertificaten, bedoeld in [artikel 4.21](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=3&paragraaf=1&artikel=4.21&z=2010-04-28&g=2010-04-28).
+4. Het instellingsbestuur van een universiteit verstrekt uiterlijk 15 april voorafgaand aan het begrotingsjaar Onze minister een overzicht van het aantal proefschriften en ontwerperscertificaten, bedoeld in [artikel 4.21](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=3&paragraaf=1&artikel=4.21&z=2010-08-05&g=2010-08-05).
 
-5. Het instellingsbestuur van de Universiteit Maastricht verstrekt uiterlijk 15 april voorafgaand aan het begrotingsjaar Onze minister tevens een overzicht van de aantallen eerstejaars en van de aantallen graden, bedoeld in [artikel 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.11&z=2010-04-28&g=2010-04-28).
+5. Het instellingsbestuur van de Universiteit Maastricht verstrekt uiterlijk 15 april voorafgaand aan het begrotingsjaar Onze minister tevens een overzicht van de aantallen eerstejaars en van de aantallen graden, bedoeld in [artikel 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.11&z=2010-08-05&g=2010-08-05).
 
 ##### Artikel 4.5. Controleprotocol
 
-1. De gecorrigeerde gegevens, bedoeld in [artikel 4.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=1&artikel=4.4&z=2010-04-28&g=2010-04-28), en de gegevens, bedoeld in [artikel 4.4, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=1&artikel=4.4&z=2010-04-28&g=2010-04-28), gaan vergezeld van een verklaring van een accountant.
+1. De gecorrigeerde gegevens, bedoeld in [artikel 4.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=1&artikel=4.4&z=2010-08-05&g=2010-08-05), en de gegevens, bedoeld in [artikel 4.4, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=1&artikel=4.4&z=2010-08-05&g=2010-08-05), gaan vergezeld van een verklaring van een accountant.
 
 2. Bij ministeriële regeling worden voorschriften vastgesteld over de controle van de jaarrekening, de besteding van de rijksbijdrage en de juistheid van de door de instellingsbesturen opgegeven bekostigingsgegevens, daaronder begrepen voorschriften over de controle op de rechtmatigheid van de verkrijging van de rijksbijdrage en de rechtmatigheid en doelmatigheid van de besteding van de rijksbijdrage.
 
 ##### Artikel 4.6. Bijstelling bedragen en percentages
 
-De bedragen en verdelingen, vastgesteld op grond van de [afdelingen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&z=2010-04-28&g=2010-04-28), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=3&z=2010-04-28&g=2010-04-28) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=4&z=2010-04-28&g=2010-04-28) van dit hoofdstuk, kunnen bij ministeriële regeling worden gewijzigd, voor zover wijzigingen in de onderdelen van de rijksbegroting die op het hoger onderwijs en wetenschappelijk onderzoek betrekking hebben daartoe aanleiding geven.
+De bedragen en verdelingen, vastgesteld op grond van de [afdelingen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&z=2010-08-05&g=2010-08-05), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=3&z=2010-08-05&g=2010-08-05) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=4&z=2010-08-05&g=2010-08-05) van dit hoofdstuk, kunnen bij ministeriële regeling worden gewijzigd, voor zover wijzigingen in de onderdelen van de rijksbegroting die op het hoger onderwijs en wetenschappelijk onderzoek betrekking hebben daartoe aanleiding geven.
 
 ##### Artikel 4.7. Overleg
 
-Een ministeriële regeling als bedoeld in de [artikelen 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=1&artikel=4.6&z=2010-04-28&g=2010-04-28), [4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.9&z=2010-04-28&g=2010-04-28), [4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.10&z=2010-04-28&g=2010-04-28), [4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.12&z=2010-04-28&g=2010-04-28), [4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.17&z=2010-04-28&g=2010-04-28), [4.19](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.19&z=2010-04-28&g=2010-04-28), [4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=3&paragraaf=1&artikel=4.20&z=2010-04-28&g=2010-04-28), [4.23](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=3&paragraaf=1&artikel=4.23&z=2010-04-28&g=2010-04-28), [4.24](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=3&paragraaf=2&artikel=4.24&z=2010-04-28&g=2010-04-28), [4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=4&artikel=4.25&z=2010-04-28&g=2010-04-28), [4.26](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=4&artikel=4.26&z=2010-04-28&g=2010-04-28) en [4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=4&artikel=4.27&z=2010-04-28&g=2010-04-28), wordt vastgesteld na overleg als bedoeld in [artikel 3.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=3.1).
+Een ministeriële regeling als bedoeld in de [artikelen 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=1&artikel=4.6&z=2010-08-05&g=2010-08-05), [4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.9&z=2010-08-05&g=2010-08-05), [4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.10&z=2010-08-05&g=2010-08-05), [4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.12&z=2010-08-05&g=2010-08-05), [4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.17&z=2010-08-05&g=2010-08-05), [4.19](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.19&z=2010-08-05&g=2010-08-05), [4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=3&paragraaf=1&artikel=4.20&z=2010-08-05&g=2010-08-05), [4.21](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=3&paragraaf=1&artikel=4.21&z=2010-08-05&g=2010-08-05), [4.22](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=3&paragraaf=1&artikel=4.22&z=2010-08-05&g=2010-08-05),[4.23](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=3&paragraaf=1&artikel=4.23&z=2010-08-05&g=2010-08-05), [4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=4&artikel=4.25&z=2010-08-05&g=2010-08-05), [4.26](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=4&artikel=4.26&z=2010-08-05&g=2010-08-05) en [4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=4&artikel=4.27&z=2010-08-05&g=2010-08-05), wordt vastgesteld na overleg als bedoeld in [artikel 3.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=3.1).
 
 ### Afdeling 2. Bepalingen over de rijksbijdrage vanwege het verzorgen van onderwijs
 
@@ -1728,9 +1728,13 @@ Een ministeriële regeling als bedoeld in de [artikelen 4.6](https://wetten.over
 
 ##### Artikel 4.8. Eerstejaars
 
-1. Een door Onze minister te bepalen deel van het onderwijsdeel wo wordt over de universiteiten, bedoeld in [artikel 1.1, onderdeel d ten 1° en ten 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=1&artikel=1.1&z=2010-04-28&g=2010-04-28), verdeeld naar rato van de som van de aantallen te bekostigen eerstejaars per opleiding voor de desbetreffende universiteit.
+1. Een door Onze minister te bepalen deel van het onderwijsdeel wo wordt over de universiteiten, bedoeld in [artikel 1.1, onderdeel d ten 1° en ten 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=1&artikel=1.1&z=2010-08-05&g=2010-08-05), verdeeld naar rato van de som van de aantallen te bekostigen eerstejaars per opleiding voor de desbetreffende universiteit.
 
-2. Onder eerstejaars wordt verstaan een persoon die op enig moment in de peilperiode als student voor een bachelor- of masteropleiding is ingeschreven en die in de periode van vijf jaar voorafgaande aan de peilperiode op geen enkel moment bij de desbetreffende instelling als student voor een bachelor- respectievelijk masteropleiding was ingeschreven. Studenten aan wie de graad Bachelor in het hoger beroepsonderwijs is verleend, blijven bij de vaststelling van het aantal eerstejaars voor een bacheloropleiding buiten beschouwing.
+2. Onder eerstejaars wordt verstaan:
+
+- a. een student die op enig moment in de peilperiode is ingeschreven, die in de vijf kalenderjaren voorafgaand aan de peilperiode niet op 1 oktober aan de desbetreffende instelling was ingeschreven en aan wie, indien hij voor een bacheloropleiding is ingeschreven, niet de graad Bachelor in het hoger beroepsonderwijs is verleend, of
+
+- b. een student aan wie reeds de graad Bachelor in het hoger beroepsonderwijs is verleend, die op enig moment in de peilperiode is ingeschreven voor een masteropleiding en die in de vijf kalenderjaren voorafgaand aan de peilperiode niet op 1 oktober aan de desbetreffende instelling was ingeschreven voor een masteropleiding.
 
 3. Het aantal te bekostigen eerstejaars van een opleiding is gelijk aan het product van het aantal eerstejaars en de factor behorend bij het bekostigingsniveau van de desbetreffende opleiding.
 
@@ -1764,7 +1768,7 @@ Een ministeriële regeling als bedoeld in de [artikelen 4.6](https://wetten.over
 
 4. Uit het onderwijsdeel wo wordt aan een universiteit een bedrag toegekend, vastgesteld door het in het tweede lid berekende aantal te bekostigen graden te vermenigvuldigen met een bij ministeriële regeling vast te stellen bedrag.
 
-5. Indien de som van de bedragen per universiteit, bedoeld in het vierde lid, afwijkt van het bedrag, bedoeld in het eerste lid, wordt het verschil van het bedrag bedoeld in het eerste lid en die som verdeeld op basis van de percentages in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&bijlage=4&z=2010-04-28&g=2010-04-28) bij dit besluit.
+5. Indien de som van de bedragen per universiteit, bedoeld in het vierde lid, afwijkt van het bedrag, bedoeld in het eerste lid, wordt het verschil van het bedrag bedoeld in het eerste lid en die som verdeeld op basis van de percentages in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&bijlage=4&z=2010-08-05&g=2010-08-05) bij dit besluit.
 
 ##### Artikel 4.10. Onderwijsopslag
 
@@ -1772,11 +1776,11 @@ De onderwijsopslag van een universiteit bestaat uit:
 
 - a. een bedrag dat voor de desbetreffende universiteit is vastgesteld bij ministeriële regeling in relatie tot kwaliteit, kwetsbare opleidingen of bijzondere voorzieningen, en
 
-- b. het voor de desbetreffende universiteit bij ministeriële regeling vastgestelde percentage van het deel van het onderwijsdeel wo dat resteert na toepassing van de [artikelen 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.8&z=2010-04-28&g=2010-04-28) en [4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.9&z=2010-04-28&g=2010-04-28) en na aftrek van de som van de bedragen, bedoeld in onderdeel a.
+- b. het voor de desbetreffende universiteit bij ministeriële regeling vastgestelde percentage van het deel van het onderwijsdeel wo dat resteert na toepassing van de [artikelen 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.8&z=2010-08-05&g=2010-08-05) en [4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.9&z=2010-08-05&g=2010-08-05) en na aftrek van de som van de bedragen, bedoeld in onderdeel a.
 
 ##### Artikel 4.11. Bijzondere bepaling Universiteit Maastricht
 
-Bij de vaststelling van het aantal te bekostigen eerstejaars en het aantal te bekostigen graden van de Universiteit Maastricht worden de op grond van [artikel 4.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.8&z=2010-04-28&g=2010-04-28), respectievelijk [artikel 4.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.9&z=2010-04-28&g=2010-04-28), berekende aantallen vermeerderd met de aantallen te bekostigen eerstejaars met de Nederlandse nationaliteit, respectievelijk de aantallen te bekostigen graden van personen met de Nederlandse nationaliteit van de transnationale Universiteit Limburg. Onder de aantallen eerstejaars en graden met de Nederlandse nationaliteit worden tevens begrepen de aantallen eerstejaars en graden van ingeschrevenen die noch de Nederlandse noch de Belgische nationaliteit bezitten, en die voor bekostiging door de Nederlandse overheid in aanmerking worden genomen op grond van artikel 7 van het Verdrag tussen het Koninkrijk der Nederlanden en de Vlaamse Gemeenschap van België inzake de transnationale Universiteit Limburg.
+Bij de vaststelling van het aantal te bekostigen eerstejaars en het aantal te bekostigen graden van de Universiteit Maastricht worden de op grond van [artikel 4.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.8&z=2010-08-05&g=2010-08-05), respectievelijk [artikel 4.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.9&z=2010-08-05&g=2010-08-05), berekende aantallen vermeerderd met de aantallen te bekostigen eerstejaars met de Nederlandse nationaliteit, respectievelijk de aantallen te bekostigen graden van personen met de Nederlandse nationaliteit van de transnationale Universiteit Limburg. Onder de aantallen eerstejaars en graden met de Nederlandse nationaliteit worden tevens begrepen de aantallen eerstejaars en graden van ingeschrevenen die noch de Nederlandse noch de Belgische nationaliteit bezitten, en die voor bekostiging door de Nederlandse overheid in aanmerking worden genomen op grond van artikel 7 van het Verdrag tussen het Koninkrijk der Nederlanden en de Vlaamse Gemeenschap van België inzake de transnationale Universiteit Limburg.
 
 #### § 2. Onderwijsdeel hbo
 
@@ -1786,9 +1790,9 @@ Bij de vaststelling van het aantal te bekostigen eerstejaars en het aantal te be
 
 2. Een door Onze minister te bepalen deel van het onderwijsdeel hbo wordt over de hogescholen verdeeld naar rato van de instelling-gewogen onderwijsvraag van de hogescholen.
 
-3. De opleiding-gewogen onderwijsvraag van een hogeschool is gelijk aan het totaal van de volgens [artikelen 4.14 tot en met 4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.14&z=2010-04-28&g=2010-04-28) berekende onderwijsvraag van de door de desbetreffende hogeschool verzorgde opleidingen, nadat deze per opleiding is vermenigvuldigd met de factor behorend bij het bekostigingsniveau van de desbetreffende opleiding.
+3. De opleiding-gewogen onderwijsvraag van een hogeschool is gelijk aan het totaal van de volgens [artikelen 4.14 tot en met 4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.14&z=2010-08-05&g=2010-08-05) berekende onderwijsvraag van de door de desbetreffende hogeschool verzorgde opleidingen, nadat deze per opleiding is vermenigvuldigd met de factor behorend bij het bekostigingsniveau van de desbetreffende opleiding.
 
-4. De instelling-gewogen onderwijsvraag van een hogeschool is gelijk aan het totaal van de volgens de [artikelen 4.14 tot en met 4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.14&z=2010-04-28&g=2010-04-28) berekende onderwijsvraag van de door de desbetreffende hogeschool verzorgde opleidingen, vermenigvuldigd met een bij ministeriële regeling voor de desbetreffende hogeschool vast te stellen factor.
+4. De instelling-gewogen onderwijsvraag van een hogeschool is gelijk aan het totaal van de volgens de [artikelen 4.14 tot en met 4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.14&z=2010-08-05&g=2010-08-05) berekende onderwijsvraag van de door de desbetreffende hogeschool verzorgde opleidingen, vermenigvuldigd met een bij ministeriële regeling voor de desbetreffende hogeschool vast te stellen factor.
 
 5. De factoren, bedoeld in het derde lid, zijn:
 
@@ -1802,7 +1806,7 @@ Bij de vaststelling van het aantal te bekostigen eerstejaars en het aantal te be
 
 1. In dit artikel wordt verstaan onder «de hogeschool»: de hogeschool waarvoor de rijksbijdrage wordt berekend.
 
-2. In dit artikel en in de [artikelen 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.14&z=2010-04-28&g=2010-04-28) en [4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.17&z=2010-04-28&g=2010-04-28) wordt verstaan onder aantal inschrijvingsjaren van een persoon: het aantal malen dat deze persoon, voorafgaand aan de peildatum, op 1 oktober aan de hogeschool als student was ingeschreven.
+2. In dit artikel en in de [artikelen 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.14&z=2010-08-05&g=2010-08-05) en [4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.17&z=2010-08-05&g=2010-08-05) wordt verstaan onder aantal inschrijvingsjaren van een persoon: het aantal malen dat deze persoon, voorafgaand aan de peildatum, op 1 oktober aan de hogeschool als student was ingeschreven.
 
 3. Indien een opleiding door een andere hogeschool is overgedragen aan de hogeschool en indien een persoon op 1 oktober voorafgaand aan de overgang aan de andere hogeschool als student voor die opleiding was ingeschreven en op 1 oktober volgend op de overgang aan de hogeschool als student voor die opleiding was ingeschreven, worden voor de bepaling van het aantal inschrijvingsjaren van deze persoon de inschrijvingen aan de andere hogeschool gelijkgesteld met inschrijvingen aan de hogeschool.
 
@@ -1814,7 +1818,7 @@ Bij de vaststelling van het aantal te bekostigen eerstejaars en het aantal te be
 
 1. In dit artikel wordt verstaan onder opleiding: een bacheloropleiding, niet zijnde een opleiding of lerarenopleiding op het gebied van de kunst.
 
-2. De onderwijsvraag van een opleiding wordt bepaald door de onderwijsvraagfactor voor de groep van opleidingen waartoe de opleiding behoort, te vermenigvuldigen met het aantal studenten dat op de peildatum ingeschreven staat voor de desbetreffende opleiding. [Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&bijlage=5&z=2010-04-28&g=2010-04-28) bij dit besluit bevat de indeling van de groepen van opleidingen.
+2. De onderwijsvraag van een opleiding wordt bepaald door de onderwijsvraagfactor voor de groep van opleidingen waartoe de opleiding behoort, te vermenigvuldigen met het aantal studenten dat op de peildatum ingeschreven staat voor de desbetreffende opleiding. [Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&bijlage=5&z=2010-08-05&g=2010-08-05) bij dit besluit bevat de indeling van de groepen van opleidingen.
 
 3. De onderwijsvraagfactor van een groep van opleidingen wordt berekend met de volgende formule:
 
@@ -1840,15 +1844,15 @@ Bij de vaststelling van het aantal te bekostigen eerstejaars en het aantal te be
 
 ##### Artikel 4.15. Niet mee te tellen studenten, afgestudeerden en uitvallers
 
-1. Tot de studenten, bedoeld in [artikel 4.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.14&z=2010-04-28&g=2010-04-28), worden niet gerekend de studenten aan wie de desbetreffende hogeschool vóór de peildatum een graad heeft verleend, tenzij ze zijn ingeschreven voor een opleiding op het gebied van onderwijs of het gebied van gezondheidszorg.
+1. Tot de studenten, bedoeld in [artikel 4.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.14&z=2010-08-05&g=2010-08-05), worden niet gerekend de studenten aan wie de desbetreffende hogeschool vóór de peildatum een graad heeft verleend, tenzij ze zijn ingeschreven voor een opleiding op het gebied van onderwijs of het gebied van gezondheidszorg.
 
-2. Tot de afgestudeerden, bedoeld in [artikel 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.14&z=2010-04-28&g=2010-04-28), worden niet gerekend de personen:
+2. Tot de afgestudeerden, bedoeld in [artikel 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.14&z=2010-08-05&g=2010-08-05), worden niet gerekend de personen:
 
 - a. van wie het aantal inschrijvingsjaren kleiner is dan drie, of
 
 - b. aan wie de desbetreffende hogeschool vóór de peilperiode een graad heeft verleend.
 
-3. Tot de uitvallers, bedoeld in [artikel 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.14&z=2010-04-28&g=2010-04-28), worden niet gerekend de personen:
+3. Tot de uitvallers, bedoeld in [artikel 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.14&z=2010-08-05&g=2010-08-05), worden niet gerekend de personen:
 
 - a. die in de peilperiode zijn overleden,
 
@@ -1860,11 +1864,11 @@ Bij de vaststelling van het aantal te bekostigen eerstejaars en het aantal te be
 
 ##### Artikel 4.16. Afwijkende onderwijsvraagfactor bacheloropleidingen
 
-1. In afwijking van [artikel 4.14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.14&z=2010-04-28&g=2010-04-28), is de onderwijsvraagfactor voor een opleiding die na 1 oktober in het zevende kalenderjaar voorafgaand aan het begrotingsjaar voor de eerste maal in het CROHO is opgenomen en die geen voortzetting vormt van een andere opleiding die behoort tot dezelfde groep van opleidingen, gelijk aan 0,945.
+1. In afwijking van [artikel 4.14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.14&z=2010-08-05&g=2010-08-05), is de onderwijsvraagfactor voor een opleiding die na 1 oktober in het zevende kalenderjaar voorafgaand aan het begrotingsjaar voor de eerste maal in het CROHO is opgenomen en die geen voortzetting vormt van een andere opleiding die behoort tot dezelfde groep van opleidingen, gelijk aan 0,945.
 
-2. In afwijking van het [artikel 4.14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.14&z=2010-04-28&g=2010-04-28), is de onderwijsvraagfactor voor een opleiding waarvoor blijkens het CROHO in de peilperiode en op de peildatum geen nieuwe studenten kunnen worden ingeschreven en die niet is voortgezet in een andere opleiding die behoort tot dezelfde groep van opleidingen, gelijk aan 0,945.
+2. In afwijking van het [artikel 4.14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.14&z=2010-08-05&g=2010-08-05), is de onderwijsvraagfactor voor een opleiding waarvoor blijkens het CROHO in de peilperiode en op de peildatum geen nieuwe studenten kunnen worden ingeschreven en die niet is voortgezet in een andere opleiding die behoort tot dezelfde groep van opleidingen, gelijk aan 0,945.
 
-3. Indien de aantallen afgestudeerden en uitvallers, bedoeld in [artikel 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.14&z=2010-04-28&g=2010-04-28), voor een groep van opleidingen beide gelijk zijn aan nul, is in afwijking van [artikel 4.14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.14&z=2010-04-28&g=2010-04-28), de onderwijsvraagfactor gelijk aan 0,945.
+3. Indien de aantallen afgestudeerden en uitvallers, bedoeld in [artikel 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.14&z=2010-08-05&g=2010-08-05), voor een groep van opleidingen beide gelijk zijn aan nul, is in afwijking van [artikel 4.14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.14&z=2010-08-05&g=2010-08-05), de onderwijsvraagfactor gelijk aan 0,945.
 
 ##### Artikel 4.17. Afwijkende onderwijsvraag kunstopleidingen
 
@@ -1888,7 +1892,7 @@ De onderwijsopslag van een hogeschool bestaat uit:
 
 - a. een bedrag dat voor de desbetreffende hogeschool is vastgesteld bij ministeriële regeling in relatie tot kwaliteit, kwetsbare opleidingen of bijzondere voorzieningen, en
 
-- b. het voor de desbetreffende hogeschool bij ministeriële regeling vastgestelde percentage van het deel van het onderwijsdeel hbo dat resteert na toepassing van [artikel 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.12&z=2010-04-28&g=2010-04-28) en na aftrek van de som van de bedragen, bedoeld in onderdeel a.
+- b. het voor de desbetreffende hogeschool bij ministeriële regeling vastgestelde percentage van het deel van het onderwijsdeel hbo dat resteert na toepassing van [artikel 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.12&z=2010-08-05&g=2010-08-05) en na aftrek van de som van de bedragen, bedoeld in onderdeel a.
 
 ### Afdeling 3. Bepalingen over de rijksbijdrage vanwege het verrichten van onderzoek
 
@@ -1910,9 +1914,9 @@ De onderwijsopslag van een hogeschool bestaat uit:
 
 4. Uit het onderzoekdeel wo wordt aan een universiteit een bedrag toegekend dat wordt vastgesteld door het in het tweede lid berekende aantal te bekostigen graden te vermenigvuldigen met een bij ministeriële regeling vast te stellen bedrag.
 
-5. Indien de som van de bedragen, bedoeld in het vierde lid, afwijkt van het bedrag, bedoeld in het eerste lid, wordt het verschil van het bedrag, bedoeld in het eerste lid, en die som verdeeld over de universiteiten op basis van de percentages in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&bijlage=6&z=2010-04-28&g=2010-04-28) van dit besluit.
+5. Indien de som van de bedragen, bedoeld in het vierde lid, afwijkt van het bedrag, bedoeld in het eerste lid, wordt het verschil van het bedrag, bedoeld in het eerste lid, en die som verdeeld over de universiteiten op basis van de percentages in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&bijlage=6&z=2010-08-05&g=2010-08-05) van dit besluit.
 
-6. Onder de aantallen graden, bedoeld in het eerste lid, verleend door de Universiteit Maastricht, zijn begrepen de aantallen graden, vastgesteld overeenkomstig [artikel 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.11&z=2010-04-28&g=2010-04-28), verleend door de transnationale Universiteit Limburg, bedoeld in artikel 2.5a van de wet.
+6. Onder de aantallen graden, bedoeld in het eerste lid, verleend door de Universiteit Maastricht, zijn begrepen de aantallen graden, vastgesteld overeenkomstig [artikel 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.11&z=2010-08-05&g=2010-08-05), verleend door de transnationale Universiteit Limburg, bedoeld in artikel 2.5a van de wet.
 
 ##### Artikel 4.21. Promoties en certificaten
 
@@ -1920,19 +1924,19 @@ De onderwijsopslag van een hogeschool bestaat uit:
 
 2. Uit het onderzoekdeel wo ontvangt een universiteit per ontwerperscertificaat dat is uitgereikt in het tweede kalenderjaar voorafgaand aan het begrotingsjaar, een bij ministeriële regeling te bepalen bedrag.
 
-3. Onder ontwerperscertificaat wordt verstaan een getuigschrift, uitgereikt aan een technologisch ontwerper na het met goed gevolg afronden van onderwijs als bedoeld in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&bijlage=7&z=2010-04-28&g=2010-04-28) bij dit besluit.
+3. Onder ontwerperscertificaat wordt verstaan een getuigschrift, uitgereikt aan een technologisch ontwerper na het met goed gevolg afronden van onderwijs als bedoeld in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&bijlage=7&z=2010-08-05&g=2010-08-05) bij dit besluit.
 
 ##### Artikel 4.22. Onderzoekscholen en toponderzoekscholen
 
-1. Een door Onze minister te bepalen deel van het onderzoekdeel wo wordt voor onderzoekscholen over de universiteiten verdeeld volgens de percentages, genoemd in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&bijlage=8&z=2010-04-28&g=2010-04-28) bij dit besluit.
+1. Een door Onze minister te bepalen deel van het onderzoekdeel wo wordt voor onderzoekscholen over de universiteiten verdeeld volgens de percentages, vastgesteld bij ministeriële regeling.
 
-2. Een door Onze minister te bepalen deel van het onderzoekdeel wo wordt voor toponderzoekscholen over de universiteiten verdeeld volgens de percentages, genoemd in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&bijlage=9&z=2010-04-28&g=2010-04-28) bij dit besluit.
+2. Een door Onze minister te bepalen deel van het onderzoekdeel wo wordt voor toponderzoekscholen over de universiteiten verdeeld volgens de percentages, vastgesteld bij ministeriële regeling.
 
 ##### Artikel 4.23. Bedragen onderzoek (strategische overwegingen)
 
 1. Uit het onderzoekdeel wo kunnen aan de rijksbijdrage van de universiteiten de bedragen, vastgesteld bij ministeriële regeling, worden toegevoegd.
 
-2. De verdeling van het deel van het onderzoekdeel wo dat na toepassing van de [artikelen 4.19 tot en met 4.22](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.19&z=2010-04-28&g=2010-04-28) en het eerste lid resteert, wordt, onverminderd [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=1&artikel=4.6&z=2010-04-28&g=2010-04-28), over de universiteiten, bedoeld in [artikel 1.1, onderdeel d ten 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=1&artikel=1.1&z=2010-04-28&g=2010-04-28), bij ministeriële regeling vastgesteld.
+2. De verdeling van het deel van het onderzoekdeel wo dat na toepassing van de [artikelen 4.19 tot en met 4.22](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.19&z=2010-08-05&g=2010-08-05) en het eerste lid resteert, wordt, onverminderd [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=1&artikel=4.6&z=2010-08-05&g=2010-08-05), over de universiteiten, bedoeld in [artikel 1.1, onderdeel d ten 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=1&artikel=1.1&z=2010-08-05&g=2010-08-05), bij ministeriële regeling vastgesteld.
 
 3. Indien een universiteit naar het oordeel van Onze minister onvoldoende rekening houdt met de prioriteit- en posterioriteitstelling van de wetenschapsgebieden die zijn aangeduid in het wetenschapsbudget, bedoeld in [artikel 16a van de Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&artikel=16a), wordt daarover en over de mogelijke gevolgen voor de bekostiging van de desbetreffende universiteit overleg gevoerd als bedoeld in [artikel 3.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=3.1).
 
@@ -1952,15 +1956,15 @@ De onderwijsopslag van een hogeschool bestaat uit:
 
 ##### Artikel 4.25. Rente en afschrijving voor investeringen tot en met 2007
 
-1. Uit het deel ondersteuning geneeskundig onderwijs en onderzoek wordt aan de rijksbijdrage van een universiteit waaraan een academisch ziekenhuis is verbonden, een bedrag toegevoegd voor rente en afschrijving ten behoeve van investeringen voor academische ziekenhuizen in de begrotingsjaren tot en met 2007. Dit bedrag is gelijk aan de som van de vergoedingen die op grond van het tweede lid zijn berekend over het in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&bijlage=10&z=2010-04-28&g=2010-04-28) bij dit besluit genoemde OCW-deel van de investeringsbedragen. De investeringsbedragen zijn ingedeeld in ten hoogste vier categorieën met verschillende afschrijvingspercentages.
+1. Uit het deel ondersteuning geneeskundig onderwijs en onderzoek wordt aan de rijksbijdrage van een universiteit waaraan een academisch ziekenhuis is verbonden, een bedrag toegevoegd voor rente en afschrijving ten behoeve van investeringen voor academische ziekenhuizen in de begrotingsjaren tot en met 2007. Dit bedrag is gelijk aan de som van de vergoedingen die op grond van het tweede lid zijn berekend over het in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&bijlage=10&z=2010-08-05&g=2010-08-05) bij dit besluit genoemde OCW-deel van de investeringsbedragen. De investeringsbedragen zijn ingedeeld in ten hoogste vier categorieën met verschillende afschrijvingspercentages.
 
 2. De vergoeding per categorie, bedoeld in het eerste lid, is samengesteld uit:
 
-- a. het jaarlijkse afschrijvingsbedrag, genoemd in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&bijlage=11&z=2010-04-28&g=2010-04-28), totdat het investeringsbedrag, genoemd in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&bijlage=10&z=2010-04-28&g=2010-04-28), volledig is vergoed, en
+- a. het jaarlijkse afschrijvingsbedrag, genoemd in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&bijlage=11&z=2010-08-05&g=2010-08-05), totdat het investeringsbedrag, genoemd in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&bijlage=10&z=2010-08-05&g=2010-08-05), volledig is vergoed, en
 
-- b. de rente, berekend met het rentepercentage, bedoeld in het vierde lid, over het verschil tussen het investeringsbedrag, genoemd in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&bijlage=10&z=2010-04-28&g=2010-04-28), en de gecumuleerde afschrijvingen.
+- b. de rente, berekend met het rentepercentage, bedoeld in het vierde lid, over het verschil tussen het investeringsbedrag, genoemd in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&bijlage=10&z=2010-08-05&g=2010-08-05), en de gecumuleerde afschrijvingen.
 
-3. Onder de gecumuleerde afschrijvingen, bedoeld in het tweede lid, met betrekking tot enig begrotingsjaar wordt verstaan het gecumuleerde afschrijvingsbedrag 2007, genoemd in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&bijlage=12&z=2010-04-28&g=2010-04-28), vermeerderd met het product van het afschrijvingsbedrag, genoemd in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&bijlage=11&z=2010-04-28&g=2010-04-28), en het aantal jaren dat sinds 2007 is verstreken met inbegrip van het jaar waarvoor de rijksbijdrage wordt vastgesteld.
+3. Onder de gecumuleerde afschrijvingen, bedoeld in het tweede lid, met betrekking tot enig begrotingsjaar wordt verstaan het gecumuleerde afschrijvingsbedrag 2007, genoemd in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&bijlage=12&z=2010-08-05&g=2010-08-05), vermeerderd met het product van het afschrijvingsbedrag, genoemd in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&bijlage=11&z=2010-08-05&g=2010-08-05), en het aantal jaren dat sinds 2007 is verstreken met inbegrip van het jaar waarvoor de rijksbijdrage wordt vastgesteld.
 
 4. Bij ministeriële regeling wordt ten behoeve van de investeringen voor academische ziekenhuizen in een bepaald begrotingsjaar een rentepercentage vastgesteld voor een tijdvak van 10 jaar. Na het tijdvak wordt het rentepercentage telkens voor een tijdvak van 10 jaar bij ministeriële regeling vastgesteld.
 
@@ -1980,33 +1984,33 @@ Vergoeding van het bedrag onder a vindt plaats met ingang van het begrotingsjaar
 
 4. Onder gecumuleerde afschrijvingen, bedoeld in het tweede lid, met betrekking tot enig begrotingsjaar wordt verstaan de som van de totaal vergoede afschrijvingsbedragen met betrekking tot het OCW-deel van een investeringsbedrag sedert de vaststelling van het besluit inzake bouwvolume waarin dat investeringsbedrag is opgenomen, met inbegrip van het afschrijvingsbedrag voor het begrotingsjaar waarvoor de rijksbijdrage wordt vastgesteld.
 
-5. [Artikel 4.25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=4&artikel=4.25&z=2010-04-28&g=2010-04-28), is van toepassing.
+5. [Artikel 4.25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=4&artikel=4.25&z=2010-08-05&g=2010-08-05), is van toepassing.
 
-6. Jaarlijks voor 1 november nemen Onze Minister van Volksgezondheid, Welzijn en Sport en Onze minister een besluit waarin het voor het daaropvolgende begrotingsjaar toegestane bouwvolume wordt vastgesteld. In dat besluit worden in elk geval opgenomen het investeringsbedrag per academisch ziekenhuis en het OCW-deel daarvan. Onze minister besluit daarbij tevens welk rentepercentage, bedoeld in [artikel 4,25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=4&artikel=4.25&z=2010-04-28&g=2010-04-28), voorlopig voor de investering in dat begrotingsjaar wordt gehanteerd.
+6. Jaarlijks voor 1 november nemen Onze Minister van Volksgezondheid, Welzijn en Sport en Onze minister een besluit waarin het voor het daaropvolgende begrotingsjaar toegestane bouwvolume wordt vastgesteld. In dat besluit worden in elk geval opgenomen het investeringsbedrag per academisch ziekenhuis en het OCW-deel daarvan. Onze minister besluit daarbij tevens welk rentepercentage, bedoeld in [artikel 4,25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=4&artikel=4.25&z=2010-08-05&g=2010-08-05), voorlopig voor de investering in dat begrotingsjaar wordt gehanteerd.
 
-7. Indien het rentepercentage, bedoeld in [artikel 4,25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=4&artikel=4.25&z=2010-04-28&g=2010-04-28), wordt vastgesteld na afloop van het begrotingsjaar, bedoeld in het zesde lid, wordt de te veel of te weinig toegekende rentevergoeding, bedoeld in het tweede lid, onderdeel b, over een of meer begrotingsjaren verrekend met het bedrag voor rente en afschrijving van het deel ondersteuning geneeskundig onderwijs en onderzoek van de desbetreffende universiteit.
+7. Indien het rentepercentage, bedoeld in [artikel 4,25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=4&artikel=4.25&z=2010-08-05&g=2010-08-05), wordt vastgesteld na afloop van het begrotingsjaar, bedoeld in het zesde lid, wordt de te veel of te weinig toegekende rentevergoeding, bedoeld in het tweede lid, onderdeel b, over een of meer begrotingsjaren verrekend met het bedrag voor rente en afschrijving van het deel ondersteuning geneeskundig onderwijs en onderzoek van de desbetreffende universiteit.
 
 ##### Artikel 4.27. Onderwijs en onderzoek
 
-1. Van het deel ondersteuning geneeskundig onderwijs en onderzoek dat na toepassing van de [artikelen 4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=4&artikel=4.25&z=2010-04-28&g=2010-04-28) en [4.26](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=4&artikel=4.26&z=2010-04-28&g=2010-04-28) resteert wordt:
+1. Van het deel ondersteuning geneeskundig onderwijs en onderzoek dat na toepassing van de [artikelen 4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=4&artikel=4.25&z=2010-08-05&g=2010-08-05) en [4.26](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=4&artikel=4.26&z=2010-08-05&g=2010-08-05) resteert wordt:
 
 - a. 7,5 procent gelijkelijk verdeeld over de universiteiten waaraan een academisch ziekenhuis is verbonden,
 
-- b. 3,5 procent verdeeld naar rato van het aantal eerstejaars, bedoeld in [artikel 4.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.8&z=2010-04-28&g=2010-04-28), aan de opleidingen geneeskunde, geneeskunde, klinisch onderzoeker en arts, klinisch onderzoeker van de universiteit,
+- b. 3,5 procent verdeeld naar rato van het aantal eerstejaars, bedoeld in [artikel 4.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.8&z=2010-08-05&g=2010-08-05), aan de opleidingen geneeskunde, geneeskunde, klinisch onderzoeker en arts, klinisch onderzoeker van de universiteit,
 
 - c. 14 procent verdeeld naar rato van het aantal door de universiteit in de peilperiode verleende graden Master voor de opleidingen geneeskunde, geneeskunde, klinisch onderzoeker en arts, klinisch onderzoeker,
 
 - d. een bij ministeriële regeling vast te stellen bedrag toegevoegd aan de rijksbijdrage van de desbetreffende universiteit.
 
-2. Het deel van het deel ondersteuning geneeskundig onderwijs en onderzoek dat na toepassing van de [artikelen 4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=4&artikel=4.25&z=2010-04-28&g=2010-04-28) en [4.26 en het eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=4&artikel=4.26&z=2010-04-28&g=2010-04-28) resteert, wordt verdeeld volgens de percentages, genoemd in [bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&bijlage=13&z=2010-04-28&g=2010-04-28) bij dit besluit.
+2. Het deel van het deel ondersteuning geneeskundig onderwijs en onderzoek dat na toepassing van de [artikelen 4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=4&artikel=4.25&z=2010-08-05&g=2010-08-05) en [4.26 en het eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=4&artikel=4.26&z=2010-08-05&g=2010-08-05) resteert, wordt verdeeld volgens de percentages, genoemd in [bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&bijlage=13&z=2010-08-05&g=2010-08-05) bij dit besluit.
 
 ### Hoofdstuk 5. Overgangsbepalingen
 
 ##### Artikel 5.1. Afwijkende gegevenslevering door universiteiten
 
-1. Tot een bij koninklijk besluit te bepalen datum doet, in afwijking van [artikel 4.4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=1&artikel=4.4&z=2010-04-28&g=2010-04-28), het instellingsbestuur van de Open universiteit uiterlijk 15 april voorafgaand aan het begrotingsjaar Onze minister een opgave van de aantallen graden, bedoeld in de [artikelen 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.9&z=2010-04-28&g=2010-04-28) en [4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=3&paragraaf=1&artikel=4.20&z=2010-04-28&g=2010-04-28). Deze gegevens gaan vergezeld van een verklaring van een accountant.
+1. Tot een bij koninklijk besluit te bepalen datum doet, in afwijking van [artikel 4.4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=1&artikel=4.4&z=2010-08-05&g=2010-08-05), het instellingsbestuur van de Open universiteit uiterlijk 15 april voorafgaand aan het begrotingsjaar Onze minister een opgave van de aantallen graden, bedoeld in de [artikelen 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.9&z=2010-08-05&g=2010-08-05) en [4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=3&paragraaf=1&artikel=4.20&z=2010-08-05&g=2010-08-05). Deze gegevens gaan vergezeld van een verklaring van een accountant.
 
-2. Tot een bij koninklijk besluit te bepalen datum doet, in afwijking van [artikel 4.4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=1&artikel=4.4&z=2010-04-28&g=2010-04-28), het instellingsbestuur van een universiteit, bedoeld in [artikel 1.1, onderdeel d, ten 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=1&artikel=1.1&z=2010-04-28&g=2010-04-28), uiterlijk 15 april voorafgaand aan het begrotingsjaar Onze minister een opgave van de aantallen eerstejaars, bedoeld in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.8&z=2010-04-28&g=2010-04-28), en de aantallen graden, bedoeld in de [artikelen 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.9&z=2010-04-28&g=2010-04-28) en [4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=3&paragraaf=1&artikel=4.20&z=2010-04-28&g=2010-04-28). Deze gegevens gaan vergezeld van een verklaring van een accountant.
+2. Tot een bij koninklijk besluit te bepalen datum doet, in afwijking van [artikel 4.4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=1&artikel=4.4&z=2010-08-05&g=2010-08-05), het instellingsbestuur van een universiteit, bedoeld in [artikel 1.1, onderdeel d, ten 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=1&artikel=1.1&z=2010-08-05&g=2010-08-05), uiterlijk 15 april voorafgaand aan het begrotingsjaar Onze minister een opgave van de aantallen eerstejaars, bedoeld in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.8&z=2010-08-05&g=2010-08-05), en de aantallen graden, bedoeld in de [artikelen 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.9&z=2010-08-05&g=2010-08-05) en [4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=3&paragraaf=1&artikel=4.20&z=2010-08-05&g=2010-08-05). Deze gegevens gaan vergezeld van een verklaring van een accountant.
 
 ##### Artikel 5.2. Bekostiging leraartrajecten in 2008
 
@@ -2066,11 +2070,11 @@ Bij de vaststelling van de regels voor uitkeringen wegens werkloosheid draagt he
 
 ### 10. Openbare universiteit te Maastricht
 
-Palaeoclimatology and Geo-ecosystems (research)
+Oudheidstudies (research)
 
 ### 13. Bijzondere universiteit te Tilburg
 
-B.
+Natuurwetenschappen
 
 ### 14. transnationale Universiteit Limburg
 
@@ -2199,49 +2203,7 @@ Indien bij de opleidingen niet expliciet is aangegeven dat het bachelor- of mast
 | Vrije Universiteit Amsterdam | 6,066 |
 | Radboud Universiteit Nijmegen | 1,767 |
 
-## Bijlage 10. , behorend bij [artikel 4.25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=4&artikel=4.25&z=2009-01-01&g=2009-01-02)
-
-|   |   | **t/m 1992** | **1993** | **1994** | **1995** | **1996** | **1997** | **1998** | **1999** | **2000** | **2001** | **2002** | **2003** | **2004** | **2005** | **2006** | **2007** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Universiteit Leiden | 1 | 28.045 | 6.614 | 6.115 | 5.672 | 1.826 |   |   |   |   |   |   |   | 5.571 | 5.738 | 5.911 | 6.088 |
-|   | 2 | 987 | 1.157 | 1.191 | 1.225 | 1.123 |   |   |   |   |   |   |   |   |   |   |   |
-|   | 3 | 5.235 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   | 4 | 737 | 397 | 397 | 567 | 567 | 567 | 567 | 567 | 567 | 567 | 567 | 567 |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| Universiteit Utrecht | 1 | 10.743 |   |   |   |   |   |   |   | 21.702 | 1.815 | 935 | 1.591 | 8.019 | 8.260 | 8.508 | 8.763 |
-|   | 2 | 4.821 |   |   |   |   |   |   |   | 159 |   |   |   |   |   |   |   |
-|   | 3 | 2.661 |   |   |   |   |   |   |   | 3.267 |   |   |   |   |   |   |   |
-|   | 4 | 737 | 397 | 397 | 567 | 567 | 567 | 567 | 567 | 1.860 | 567 | 567 | 567 |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| Rijksuniversiteit Groningen | 1 | 35.003 | 8.429 | 8.293 | 7.079 | 5.979 | 3.018 | 1.895 | 2.462 | 2.587 | 885 | 1.040 | 2.294 | 5.656 | 5.825 | 6.000 | 6.180 |
-|   | 2 |   |   | 749 | 1.271 | 1.305 | 238 |   | 68 | 68 | 91 |   |   |   |   |   |   |
-|   | 3 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   | 4 | 737 | 567 | 567 | 567 | 567 | 567 | 567 | 567 | 567 | 567 | 567 | 567 |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| Erasmus Universiteit Rotterdam | 1 | 23.370 | 1.089 | 896 | 590 | 760 | 2.099 | 3.823 | 5.774 | 4.787 | 4.436 | 5.772 | 6.372 | 12.212 | 12.578 | 12.955 | 13.334 |
-|   | 2 |   |   |   |   |   |   | 113 | 147 | 159 | 170 | 171 | 176 |   |   |   |   |
-|   | 3 | 4.606 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   | 4 | 737 | 567 | 567 | 567 | 567 | 567 | 567 | 567 | 567 | 567 | 567 | 567 |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| Universiteit Maastricht | 1 | 55.361 |   |   |   |   | 68 |   |   |   |   |   | 602 | 1.294 | 1.333 | 1.373 | 1.414 |
-|   | 2 | 4.774 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   | 3 | 6.371 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   | 4 | 737 | 397 | 397 | 567 | 567 | 567 | 567 | 567 | 567 | 567 | 567 | 567 |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| Universiteit van Amsterdam | 1 | 408 | 658 | 352 | 79 | 1.168 | 4.515 | 5.173 | 3.267 | 2.303 | 2.450 | 2.754 | 3.429 | 8.019 | 8.260 | 8.508 | 8.763 |
-|   | 2 |   |   |   |   | 11 | 136 | 102 | 113 | 34 | 34 |   |   |   |   |   |   |
-|   | 3 | 19,9 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   | 4 | 737 | 567 | 567 | 567 | 567 | 567 | 567 | 567 | 567 | 567 | 567 | 567 |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| Vrije Universiteit | 1 | 4.969 | 1.203 | 2.847 | 2.655 | 1.849 | 4.674 | 2.099 | 1.804 | 2.745 | 2.689 | 2.679 | 2.303 | 5.121 | 5.275 | 5.433 | 5.596 |
-|   | 2 |   |   |   |   | 318 | 23 | 79 | 136 | 147 | 159 | 198 |   |   |   |   |   |
-|   | 3 | 916 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   | 4 | 737 | 567 | 567 | 567 | 567 | 567 | 567 | 567 | 567 | 567 | 567 | 567 |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| Radboud Universiteit Nijmegen | 1 | 11.106 | 1.860 | 1.770 | 2.360 | 4.753 | 8.656 | 7.215 | 8.384 | 10.199 | 11.492 | 11.426 | 9.049 | 10.383 | 10.694 | 11.015 | 11.364 |
-|   | 2 | 1.021 |   |   |   | 227 | 227 | 250 | 250 | 771 | 590 | 727 | 795 |   |   |   |   |
-|   | 3 | 2.540 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   | 4 | 737 | 567 | 567 | 567 | 567 | 567 | 567 | 567 | 567 | 567 | 567 | 567 |   |   |   |   |
+## Bijlage 2. , behorend bij [artikel 3.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=3&afdeling=3&artikel=3.7&z=2010-08-05&g=2010-08-05)
 
 ## Bijlage 11. , behorend bij [artikel 4.25, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=4&artikel=4.25&z=2009-01-01&g=2009-01-02)
 
@@ -2422,13 +2384,13 @@ De [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747
 
 ##### Artikel 7.1. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst en werkt voor wat betreft de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=3&afdeling=1&artikel=3.1&z=2010-04-28&g=2010-04-28) en [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=3&afdeling=1&artikel=3.2&z=2010-04-28&g=2010-04-28) terug tot en met 1 mei 1993.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst en werkt voor wat betreft de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=3&afdeling=1&artikel=3.1&z=2010-08-05&g=2010-08-05) en [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=3&afdeling=1&artikel=3.2&z=2010-08-05&g=2010-08-05) terug tot en met 1 mei 1993.
 
 ##### Artikel 7.2. Citeertitel
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit WHW 2008.
 
-## Bijlage 1. , behorend bij [artikel 3.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=3&afdeling=3&artikel=3.7&z=2010-04-28&g=2010-04-28)
+## Bijlage 1. , behorend bij [artikel 3.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=3&afdeling=3&artikel=3.7&z=2010-08-05&g=2010-08-05)
 
 ### 1. Openbare universiteit te Leiden
 
@@ -2679,7 +2641,127 @@ Indien bij de opleidingen niet expliciet is aangegeven dat het bachelor- of mast
 
 De door een hogeschool aangeboden opleidingen die behoren tot dezelfde hoofdgroep en die de deeltijdse dan wel een niet-deeltijdse vorm hebben, vormen een groep.
 
-## Bijlage 6. , behorend bij [artikel 4.20, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=3&paragraaf=1&artikel=4.20&z=2010-04-28&g=2010-04-28)
+## Bijlage 3. , behorend bij [artikel 1.1, onderdeel u](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=1&artikel=1.1&z=2010-08-05&g=2010-08-05)
+
+| CROHO-onderdeel | standaard | uitzonderingen | uitzonderingen |
+| --- | --- | --- | --- |
+|   | niveau | opleiding of CROHO-subonderdeel* | niveau |
+| onderwijs | Hoog | – opleidingen tot leraar speciaal onderwijs | laag |
+|   |   | – opleiding tot leraar basisonderwijs |   |
+|   |   | – opleidingskunde |   |
+|   |   | – opleiding tot leraar voortgezet onderwijs van de tweede dan wel eerste graad in: |   |
+|   |   | – aardrijkskunde |   |
+|   |   | – algemene economie |   |
+|   |   | – bedrijfseconomie |   |
+|   |   | – Duits |   |
+|   |   | – Engels |   |
+|   |   | – Frans |   |
+|   |   | – Fries |   |
+|   |   | – geschiedenis |   |
+|   |   | – gezondheidszorg en welzijn |   |
+|   |   | – godsdienst |   |
+|   |   | – islamgodsdienst |   |
+|   |   | – lichamelijke oefening |   |
+|   |   | – maatschappijleer |   |
+|   |   | – mens en maatschappij |   |
+|   |   | – Nederlands |   |
+|   |   | – omgangskunde |   |
+|   |   | – pedagogiek |   |
+|   |   | – Spaans |   |
+|   |   | – Turks |   |
+|   |   | – verpleegkunde |   |
+|   |   | – verzorging/gezondheidskunde |   |
+| landbouw en natuurlijke omgeving | Hoog | – accountancy en agribusiness – agrarische accountancy | laag |
+|   |   | – international business and management studies |   |
+| natuur | Hoog | – wetenschapsdynamica | laag |
+|   |   | – farmacie | top |
+| techniek | Hoog |   |   |
+| gezondheidszorg | Hoog | – bewegingstherapie/psychomotorische therapie | laag |
+|   |   | – ergotherapie |   |
+|   |   | – kader in de gezondheidszorg |   |
+|   |   | – kunstzinnige therapie |   |
+|   |   | – management in de zorg |   |
+|   |   | – logopedie |   |
+|   |   | – oefentherapie Cesar |   |
+|   |   | – oefentherapie Mensendieck |   |
+|   |   | – opleiding tot fysiotherapeut |   |
+|   |   | – opleiding tot verpleegkundige |   |
+|   |   | – opleiding tot verpleegkundige in de maatschappelijke gezondheidszorg |   |
+|   |   | – sport, gezondheid en management |   |
+|   |   | – voeding en diëtetiek |   |
+|   |   | – bachelor klinische technologie | top |
+|   |   | – diergeneeskunde |   |
+|   |   | – geneeskunde |   |
+|   |   | – master arts, klinisch onderzoeker |   |
+|   |   | – master geneeskunde, klinisch onderzoeker |   |
+|   |   | – master technical medicine |   |
+|   |   | – tandheelkunde |   |
+|   |   | – advanced nursing practice |   |
+|   |   | – physician assistent |   |
+|   |   | – verloskunde |   |
+|   |   | – mondzorgkunde |   |
+| economie | Laag | – business administration in hotel management | hoog |
+|   |   | – communicatiesystemen |   |
+|   |   | – facility management |   |
+|   |   | – food & business |   |
+|   |   | – hoger hotelonderwijs |   |
+|   |   | – hogere Europese beroepenopleiding |   |
+|   |   | – informatiedienstverlening en -management |   |
+|   |   | – journalistiek |   |
+|   |   | – journalistiek en voorlichting |   |
+|   |   | – media, informatie en communicatie |   |
+|   |   | – oriëntaalse talen en communicatie |   |
+|   |   | – vertaalacademie |   |
+| recht | Laag |   |   |
+| gedrag en maatschappij | Laag | – beleidsgerichte milieukunde | hoog |
+|   |   | – master environment and resource management |   |
+|   |   | – milieu-maatschappijwetenschappen |   |
+|   |   | – sociaal wetenschappelijke informatica |   |
+|   |   | – technische cognitiewetenschap |   |
+|   |   | – creatieve therapie |   |
+|   |   | – University College Maastricht |   |
+| taal en cultuur | Laag | – bachelor liberal arts and sciences | hoog |
+|   |   | * opleidingen op het gebied van de kunst |   |
+|   |   | * masteropleidingen op het gebied van de bouwkunst |   |
+|   |   | – museologie |   |
+| sectoroverstijgend | Laag | * Onderwijs/Landbouw en Natuurlijke Omgeving/Natuur/Techniek/Gezondheid | hoog |
+
+Indien bij de opleidingen niet expliciet is aangegeven dat het bachelor- of masteropleidingen betreft, worden, voor zover van toepassing, zowel de bachelor-, de master-, de voortgezette, als de ongedeelde opleiding bedoeld.
+
+## Bijlage 4. , behorend bij [artikel 4.9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.9&z=2010-08-05&g=2010-08-05)
+
+| Universiteit Leiden | 7,435 |
+| --- | --- |
+| Rijksuniversiteit Groningen | 10,897 |
+| Universiteit van Amsterdam | 11,523 |
+| Universiteit Utrecht | 15,350 |
+| Technische Universiteit Delft | 10,584 |
+| Technische Universiteit Eindhoven | 4,705 |
+| Universiteit Twente (Enschede) | 4,833 |
+| Erasmus Universiteit Rotterdam | 6,884 |
+| Universiteit Maastricht | 6,961 |
+| Vrije Universiteit Amsterdam | 8,899 |
+| Radboud Universiteit Nijmegen | 8,867 |
+| Universiteit van Tilburg | 3,062 |
+
+## Bijlage 5. , behorend bij [artikel 4.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.14&z=2010-08-05&g=2010-08-05)
+
+| **groep** | **opleidingen** |
+| --- | --- |
+| leraar bo | de opleiding tot leraar basisonderwijs |
+| onderwijs-laag | de opleidingen op het gebied van onderwijs met een laag bekostigingsniveau, uitgezonderd de opleiding tot leraar basisonderwijs |
+| landbouw-laag | de opleidingen op het gebied van de landbouw en natuurlijke omgeving met een laag bekostigingsniveau |
+| economie-laag | de opleidingen op het gebied van de economie met een laag bekostigingsniveau |
+| overig-laag | de opleidingen op de gebieden gezondheidszorg en gedrag en maatschappij met een laag bekostigingsniveau |
+| onderwijs-hoog | de opleidingen op het gebied van onderwijs met een hoog bekostigingsniveau |
+| landbouw-hoog | de opleidingen op het gebied van de landbouw en natuurlijke omgeving met een hoog bekostigingsniveau |
+| laboratorium | de opleidingen: – biologie en medisch laboratoriumonderzoek, en – chemie. |
+| overig–hoog | – de opleidingen op het gebied van de techniek met uitzondering van de opleidingen die tot de groep laboratorium behoren, en – de opleidingen op de gebieden gezondheidszorg, economie en gedrag en maatschappij met een hoog bekostigingsniveau |
+| top | de opleidingen met een topbekostigingsniveau |
+
+De door een hogeschool aangeboden opleidingen die behoren tot dezelfde hoofdgroep en die de deeltijdse dan wel een niet-deeltijdse vorm hebben, vormen een groep.
+
+## Bijlage 6. , behorend bij [artikel 4.20, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=3&paragraaf=1&artikel=4.20&z=2010-08-05&g=2010-08-05)
 
 | Universiteit Leiden | 7,424 |
 | --- | --- |
@@ -2690,12 +2772,12 @@ De door een hogeschool aangeboden opleidingen die behoren tot dezelfde hoofdgroe
 | Technische Universiteit Eindhoven | 3,958 |
 | Universiteit Twente (Enschede) | 4,065 |
 | Erasmus Universiteit Rotterdam | 7,395 |
-| Universiteit Maastricht | 7,178 |
+| Universiteit Maastricht | 7,177 |
 | Vrije Universiteit Amsterdam | 9,414 |
 | Radboud Universiteit Nijmegen | 9,235 |
 | Universiteit van Tilburg | 2,575 |
 
-## Bijlage 7. , behorend bij [artikel 4.21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=3&paragraaf=1&artikel=4.21&z=2010-04-28&g=2010-04-28)
+## Bijlage 7. , behorend bij [artikel 4.21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=3&paragraaf=1&artikel=4.21&z=2010-08-05&g=2010-08-05)
 
 Onderwijs verbonden aan de Universiteit van Amsterdam
 
@@ -2731,36 +2813,27 @@ Onderwijs verbonden aan de Universiteit Twente (Enschede)
 
 - –. Procestechnologie
 
-## Bijlage 8. , behorend bij [artikel 4.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=3&paragraaf=1&artikel=4.22&z=2010-04-28&g=2010-04-28)
+## Bijlage 8. , behorend bij artikel 4.22, eerste lid
 
-| Universiteit Leiden | 9,153 |
-| --- | --- |
-| Rijksuniversiteit Groningen | 9,662 |
-| Universiteit van Amsterdam | 11,851 |
-| Universiteit Utrecht | 12,809 |
-| Technische Universiteit Delft | 14,802 |
-| Technische Universiteit Eindhoven | 8,000 |
-| Universiteit Twente (Enschede) | 6,228 |
-| Erasmus Universiteit Rotterdam | 5,279 |
-| Universiteit Maastricht | 3,814 |
-| Vrije Universiteit Amsterdam | 8,036 |
-| Radboud Universiteit Nijmegen | 8,075 |
-| Universiteit van Tilburg | 2,291 |
+Vervallen
 
-## Bijlage 9. , behorend bij [artikel 4.22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=3&paragraaf=1&artikel=4.22&z=2010-04-28&g=2010-04-28)
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-| Universiteit Leiden | 7,492 |
-| --- | --- |
-| Rijksuniversiteit Groningen | 22,104 |
-| Universiteit van Amsterdam | 12,397 |
-| Universiteit Utrecht | 19,408 |
-| Technische Universiteit Delft | 5,078 |
-| Technische Universiteit Eindhoven | 22,780 |
-| Erasmus Universiteit Rotterdam | 2,908 |
-| Vrije Universiteit Amsterdam | 6,066 |
-| Radboud Universiteit Nijmegen | 1,767 |
+### 11. Bijzondere universiteit te Amsterdam
 
-## Bijlage 10. , behorend bij [artikel 4.25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=4&artikel=4.25&z=2010-04-28&g=2010-04-28)
+### 12. Bijzondere universiteit te Nijmegen
+
+### 14. transnationale Universiteit Limburg
+
+### 1. Openbare universiteit te Eindhoven
+
+### 2. Bijzondere universiteit te Nijmegen
+
+## Bijlage 9. , behorend bij artikel 4.22, tweede lid
+
+Vervallen
+
+## Bijlage 10. , behorend bij [artikel 4.25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=4&artikel=4.25&z=2010-08-05&g=2010-08-05)
 
 |   |   | **t/m 1992** | **1993** | **1994** | **1995** | **1996** | **1997** | **1998** | **1999** | **2000** | **2001** | **2002** | **2003** | **2004** | **2005** | **2006** | **2007** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -2804,7 +2877,23 @@ Onderwijs verbonden aan de Universiteit Twente (Enschede)
 |   | 3 | 2.540 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   | 4 | 737 | 567 | 567 | 567 | 567 | 567 | 567 | 567 | 567 | 567 | 567 | 567 |   |   |   |   |
 
-## Bijlage 11. , behorend bij [artikel 4.25, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=4&artikel=4.25&z=2010-04-28&g=2010-04-28)
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+### 8. Openbare universiteit te Enschede
+
+### 9. Openbare universiteit te Rotterdam
+
+### 11. Bijzondere universiteit te Amsterdam
+
+### 12. Bijzondere universiteit te Nijmegen
+
+### 13. Bijzondere universiteit te Tilburg
+
+### 1. Openbare universiteit te Eindhoven
+
+### 2. Bijzondere universiteit te Nijmegen
+
+## Bijlage 11. , behorend bij [artikel 4.25, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=4&artikel=4.25&z=2010-08-05&g=2010-08-05)
 
 |   |   | **t/m 1992** | **1993** | **1994** | **1995** | **1996** | **1997** | **1998** | **1999** | **2000** | **2001** | **2002** | **2003** | **2004** | **2005** | **2006** | **2007** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -2848,19 +2937,7 @@ Onderwijs verbonden aan de Universiteit Twente (Enschede)
 |   | 3 | 63,5 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   | 4 | 36,9 | 28,4 | 28,4 | 28,4 | 28,4 | 28,4 | 28,4 | 28,4 | 28,4 | 28,4 | 28,4 | 28,4 |   |   |   |   |
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
-
-### 11. Bijzondere universiteit te Amsterdam
-
-### 12. Bijzondere universiteit te Nijmegen
-
-### 14. transnationale Universiteit Limburg
-
-### 1. Openbare universiteit te Eindhoven
-
-### 2. Bijzondere universiteit te Nijmegen
-
-## Bijlage 12. , behorend bij [artikel 4.25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=4&artikel=4.25&z=2010-04-28&g=2010-04-28)
+## Bijlage 12. , behorend bij [artikel 4.25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=4&artikel=4.25&z=2010-08-05&g=2010-08-05)
 
 |   |   | **t/m 1992** | **1993** | **1994** | **1995** | **1996** | **1997** | **1998** | **1999** | **2000** | **2001** | **2002** | **2003** | **2004** | **2005** | **2006** | **2007** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -2904,7 +2981,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 |   | 3 | 953 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   | 4 | 607 | 425 | 397 | 369 | 340 | 284 | 255 | 227 | 199 | 170 | 142 | 113 |   |   |   |   |
 
-## Bijlage 13. , behorend bij [artikel 4.27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=4&artikel=4.27&z=2010-04-28&g=2010-04-28)
+## Bijlage 13. , behorend bij [artikel 4.27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&hoofdstuk=4&afdeling=4&artikel=4.27&z=2010-08-05&g=2010-08-05)
 
 | **universiteit** | **percentage** |
 | --- | --- |
