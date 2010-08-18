@@ -4,7 +4,7 @@ identifier: "BWBR0014730"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-12"
-last_updated: "2009-03-05"
+last_updated: "2010-08-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014730"
 soort: "ministeriele-regeling"
@@ -54,19 +54,21 @@ Besluit:
 
 ##### Artikel 2
 
-1. Het is verboden om wapens, munitie en militaire uitrusting, goederen, bewapende en niet-bewapende emplacementen, dan wel onderdelen, reparaties en onderhoud daarvan, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024269) dan wel bedoeld in [artikel 2 van de Regeling van de Staatssecretaris van Economische Zaken van 7 december 2006 houdende strafbaarstelling ongeoorloofde overdracht programmatuur en technologie van strategische goederen door middel van elektronische media, faxapparaten of telefoon](https://wetten.overheid.nl/jci1.3:c:BWBR0020691&artikel=2), te verkopen of te leveren aan natuurlijke personen of rechtspersonen in Somalië.
+1. Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024269) dan wel bedoeld in [artikel 2 van de Regeling van de Staatssecretaris van Economische Zaken van 7 december 2006 houdende strafbaarstelling ongeoorloofde overdracht programmatuur en technologie van strategische goederen door middel van elektronische media, faxapparaten of telefoon](https://wetten.overheid.nl/jci1.3:c:BWBR0020691&artikel=2), dan wel onderdelen daarvan, direct of indirect te verkopen, te leveren, over te dragen aan, dan wel door of uit te voeren naar entiteiten of personen in Somalië of voor gebruik in Somalië, ongeacht het land van herkomst.
 
-2. Het eerste lid is niet van toepassing in geval het leveringen betreft van:
+2. Het eerste lid is niet van toepassing in geval het een levering, verkoop of overdracht betreft van:
 
-- materieel dat uitsluitend bestemd is voor de missie overeenkomstig het onder 4 gestelde van Resolutie 1744 (2007) van de Veiligheidsraad van de Verenigde Naties;
+- a. materieel dat uitsluitend bestemd is voor de ondersteuning van of het gebruik door AMISOM overeenkomstig het onder 4 gestelde van Resolutie 1744 (2007) van de Veiligheidsraad van de Verenigde Naties, of slechts bestemd is voor gebruik door landen en regionale organisaties die maatregelen treffen overeenkomstig het onder 6 gestelde van Resolutie 1851 (2008) en het onder 10 gestelde van Resolutie 1846 (2008) van de Veiligheidsraad van de Verenigde Naties;
 
-- materieel dat uitsluitend bestemd is voor de hulp bij de ontwikkeling van de instellingen van de veiligheidssector, in overeenstemming met het politieke proces als omschreven onder 1 tot en met 3 van Resolutie 1744 (2007) mits het onder 11 van Resolutie 751(1992) van de Veiligheidsraad van de Verenigde Naties ingestelde Comité niet binnen vijf werkdagen na ontvangst van de kennisgeving een negatief besluit heeft genomen;
+- b. materieel dat uitsluitend bestemd is voor de hulp bij de ontwikkeling van de instellingen van de veiligheidssector, in overeenstemming met het politieke proces als omschreven onder 1 tot en met 3 van Resolutie 1744 (2007) mits het onder 11 van Resolutie 751(1992) van de Veiligheidsraad van de Verenigde Naties ingestelde Sanctiecomité niet binnen vijf werkdagen na ontvangst van de kennisgeving een negatief besluit heeft genomen;
 
-- niet-dodelijke militaire uitrusting voor uitsluitend humanitaire of beschermende doeleinden;
+- c.
 
-- materieel dat bestemd is voor programma's op het gebied van veiligheid voor het opzetten van instellingen van de Europese Unie, de Europese Gemeenschap of de lidstaten, die in het kader van het vredes- en verzoeningsproces worden uitgevoerd en waaraan vooraf door het bij punt 11 van UNSCR 751 (1992) ingestelde comité goedkeuring is verleend;
+- –. niet-dodelijke militaire uitrusting voor uitsluitend humanitaire of beschermende doeleinden;
 
-- beschermende kledij, waaronder kogelwerende vesten en militaire helmen die het VN-personeel, vertegenwoordigers van de media, medewerkers van humanitaire organisaties, en ontwikkelingswerkers en aanverwant personeel voor hun eigen bescherming tijdelijk naar Somalië worden verzonden.
+- –. materieel dat bestemd is voor programma's op het gebied van veiligheid voor het opzetten van instellingen van de Europese Unie of de lidstaten, die in het kader van het vredes- en verzoeningsproces worden uitgevoerd en waaraan vooraf door het bij punt 11 van Resolutie 751 (1992) van de Veiligheidsraad van de Verenigde Naties ingestelde Sanctiecomité goedkeuring is verleend;
+
+- –. beschermende kledij, waaronder kogelwerende vesten en militaire helmen die het VN-personeel, vertegenwoordigers van de media, medewerkers van humanitaire organisaties, en ontwikkelingswerkers en aanverwant personeel voor hun eigen bescherming tijdelijk naar Somalië worden verzonden.
 
 ##### Artikel 3
 
@@ -80,6 +82,26 @@ De regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2a
 
-De bevoegde autoriteit, bedoeld in artikel 2 bis onder a en b, van Verordening (EG) nr. 631/2007 van de Raad van de Europese Unie van 7 juni 2007 tot wijziging van Verordening (EG) nr. 147/2003 betreffende een aantal beperkende maatregelen ten aanzien van Somalië (Pb EG L 146), is de Minister van Financiën voor zover het betreft financiering en financiële bijstand, bedoeld in voornoemd artikel 2 bis onder a, en de Minister van Economische Zaken voor zover het betreft technisch advies, bijstand of opleiding, bedoeld in voornoemd artikel 2 bis onder a. De bevoegde autoriteit, bedoeld in voornoemd artikel 2 bis onder b, is de Minister van Economische Zaken.
+1. De bevoegde autoriteit, bedoeld in artikel 2 bis onder a en b, van Verordening (EG) nr. 147/2003, is de Minister van Financiën voor zover het betreft financiering en financiële bijstand, bedoeld in voornoemd artikel 2 bis onder a, en de Minister van Economische Zaken voor zover het betreft technisch advies, bijstand of opleiding, bedoeld in voornoemd artikel 2 bis onder a. De bevoegde autoriteit, bedoeld in voornoemd artikel 2 bis onder b, is de Minister van Economische Zaken.
+
+2. De bevoegde autoriteit, bedoeld in artikel 3, tweede lid, van Verordening (EU) nr. 356/2010 is de Minister van Financiën.
+
+3. De bevoegde autoriteit, bedoeld in artikel 5, eerste en tweede lid, en artikel 6, aanhef, van Verordening (EU) nr. 356/2010 is, wat betreft de beschikbaarstelling van bepaalde tegoeden, bedoeld in voornoemde artikelen, de Minister van Financiën.
+
+4. De bevoegde autoriteit, bedoeld in artikel 5, eerste en tweede lid, en artikel 6, aanhef, van Verordening (EU) nr. 356/2010 is, wat betreft de beschikbaarstelling van economische middelen, bedoeld in voornoemde artikelen, de Minister van Economische Zaken.
+
+5. De bevoegde autoriteiten, bedoeld in artikel 9, eerste lid, van Verordening (EG) nr. 356/2010 zijn, elk voor het gebied waartoe hun competentie zich op grond van dat lid uitstrekt:
+
+- -. de Minister van Economische Zaken;
+
+- -. de Minister van Financiën.
+
+De regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+1. Het is verboden te handelen in strijd met de artikelen 2, 8, 9, van Verordening (EU) nr. 356/2010 van de Raad van de Europese Unie van 26 april 2010 tot vaststelling van bepaalde specifieke beperkende maatregelen tegen sommige natuurlijke personen of rechtspersonen, entiteiten of lichamen, in het licht van de situatie in Somalië (Pb EU L 105).
+
+2. Een verbod, bedoeld in het eerste lid, geldt niet indien artikel 3, 4, eerste lid, 5 of 6 van Verordening (EU) nr. 356/2010 van toepassing is.
 
 De regeling zal met de toelichting in de Staatscourant worden geplaatst.
