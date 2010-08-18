@@ -4,7 +4,7 @@ identifier: "BWBV0005001"
 country: "nl"
 rank: "verdrag"
 publication_date: "2010-08-18"
-last_updated: "2010-01-01"
+last_updated: "2010-08-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005001"
 soort: "verdrag"
@@ -54,7 +54,7 @@ Wijzigt de Overeenkomst tussen het Duitse Deichverband "Kleve-Landesgrenze" en h
 
 ##### Artikel 2
 
-De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005001&artikel=1&z=2010-08-18&g=2010-01-01) van deze wijzigingsovereenkomst bedoelde wijziging van het kostenaandeel van het Deichverband dient te worden herberekend vanaf 1 januari 1998. Dat is de datum dat de polder Erlecom rechtstreeks is gaan lozen op het gemeenschappelijk stroomgebied, hetgeen het Nederlands aandeel in de gemeenschappelijke waterafvoer heeft doen toenemen met 7%.
+De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005001&artikel=1&z=2010-08-18&g=2010-08-18) van deze wijzigingsovereenkomst bedoelde wijziging van het kostenaandeel van het Deichverband dient te worden herberekend vanaf 1 januari 1998. Dat is de datum dat de polder Erlecom rechtstreeks is gaan lozen op het gemeenschappelijk stroomgebied, hetgeen het Nederlands aandeel in de gemeenschappelijke waterafvoer heeft doen toenemen met 7%.
 
 ##### Artikel 3
 
