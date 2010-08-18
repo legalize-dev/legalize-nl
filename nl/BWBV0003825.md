@@ -4,7 +4,7 @@ identifier: "BWBV0003825"
 country: "nl"
 rank: "verdrag"
 publication_date: "2010-08-18"
-last_updated: "1975-10-15"
+last_updated: "2010-08-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003825"
 soort: "verdrag"
@@ -94,9 +94,9 @@ Het Polderdistrict dient het Deichverband tijdig daartoe uit te nodigen. Het bep
 
 1. Het Deichverband neemt op zich:
 
-- a. een aandeel van 60 procent te dragen van de kosten welke het Polderdistrict maakt bij de nakoming van de in artikel 1 neergelegde verplichtingen (uitvoeringskosten), met uitzondering echter van de kosten van het beheer;
+- a. een aandeel van 53 procent te dragen van de kosten welke het Polderdistrict maakt bij de nakoming van de in artikel 1 neergelegde verplichtingen (uitvoeringskosten), met uitzondering echter van de kosten van het beheer;
 
-- b. een aandeel van 7,5 procent te dragen van de kosten, die het Polderdistrict in elk rekeningsjaar (kalenderjaar) maakt voor het beheer van het Nederlandse deel van het gemeenschappelijke stroomgebied.
+- b. een aandeel van 18 procent te dragen van de kosten, die het Polderdistrict in elk rekeningsjaar (kalenderjaar) maakt voor het beheer van het Nederlandse deel van het gemeenschappelijke stroomgebied.
 
 2. Indien ten gevolge van door een der partijen of door derden uitgevoerde werkzaamheden (b.v. door uitgravingen, de nieuwbouw of uitbreiding van steenfabrieken, alsmede van andere niet-landbouwbedrijven of de toeneming van de woningbouw) in het gemeenschappelijk stroomgebied (vgl. art. 6) de waterhoeveelheden, in het bijzonder de hoeveelheden kwelwater, aanmerkelijk zouden toenemen of de grondwaterstand aanzienlijk zou veranderen, dan treffen de partijen ter zake van de hieruit voortvloeiende kostenverhoging een nieuwe regeling.
 
