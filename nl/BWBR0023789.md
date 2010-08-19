@@ -4,7 +4,7 @@ identifier: "BWBR0023789"
 country: "nl"
 rank: "zbo"
 publication_date: "2015-03-31"
-last_updated: "2009-01-28"
+last_updated: "2010-08-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023789"
 soort: "zbo"
@@ -47,7 +47,7 @@ In dit besluit wordt verstaan onder:
 
 - 1°. de werknemer, bedoeld in de [artikelen 3 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=3) en [53 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=53),
 
-- 2°. de persoon, bedoeld in de [artikelen 3 tot en met 8c](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=3) en [64 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=64), [3 tot en met 7b](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=3) juncto [23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=23), en [81 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=81), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=7), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=10) en [18 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=18), [3 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=3) en [3 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3),
+- 2°. de persoon, bedoeld in de [artikelen 3 tot en met 8c](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=3) en [64 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=64), [3 tot en met 7b](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=3) juncto [23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=23), en [81 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=81), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=7), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=10) en [18 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=18), [3 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=3) en [2:68](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:68) en [3:39 van de Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:39),
 
 - 3°. degene die aanspraak maakt op een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043), zijn echtgenoot of zijn wettelijk vertegenwoordiger, en
 
@@ -139,7 +139,7 @@ In dit besluit wordt verstaan onder:
 
 2. Bij het niet naleven van de verplichting, genoemd in [artikel 88, eerste lid, onder d, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=88), wordt de uitkering geweigerd voor de duur van het verlengde tijdvak, bedoeld in [artikel 25, negende lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=25).
 
-3. Onverminderd [artikel 2, zevende lid, van het Maatregelenbesluit socialezekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0022445&artikel=2), wordt bij het niet naleven van de verplichting, bedoeld in [artikel 30, derde lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=30) de uitkering geweigerd voor dat deel dat niet zou zijn uitbetaald indien die verplichting wel zou zijn nageleefd, en wordt de duur van de maatregel vastgesteld op de nog resterende duur van de loongerelateerde uitkering.
+3. Onverminderd [artikel 2, zevende lid, van het Maatregelenbesluit socialezekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0022445&artikel=2), wordt bij het niet naleven van de verplichting, bedoeld in [artikel 30, derde lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=30) en [artikel 2:32, tweede lid, van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:32) de uitkering geweigerd voor dat deel dat niet zou zijn uitbetaald indien die verplichting wel zou zijn nageleefd, en wordt de duur van de maatregel vastgesteld op de nog resterende duur van de loongerelateerde uitkering, de inkomensondersteuning werkregeling, respectievelijk de voortgezette inkomensondersteuning werkregeling.
 
 4. Geen maatregel wordt opgelegd indien wegens het niet naleven van de verplichting toepassing wordt gegeven aan [artikel 6, vijfde lid, van het Inkomensbesluit Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=6).
 
@@ -151,7 +151,9 @@ In dit besluit wordt verstaan onder:
 
 - a. het niet naleven van de verplichting niet eerder is onderkend als gevolg van het niet naleven door de betrokkene van de verplichting tot het verstrekken van inlichtingen;
 
-- b. het niet naleven een termijngebonden verplichting betreft, en de termijnoverschrijding (mede) betrekking heeft op een periode waarover wel recht op uitkering bestaat, maar dit recht niet geldend wordt gemaakt wegens verjaring.
+- b. het niet naleven een termijngebonden verplichting betreft, en de termijnoverschrijding (mede) betrekking heeft op een periode waarover wel recht op uitkering bestaat, maar dit recht niet geldend wordt gemaakt wegens verjaring;
+
+- c. het niet naleven de verplichting betreft om mee te werken aan het opstellen van het participatieplan, bedoeld in [artikel 2:8, tweede lid, onderdeel b, van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:8).
 
 3. Indien de duur van de maatregel langer is dan de periode tussen de datum waarop de maatregel op grond van het eerste lid zou ingaan en de datum waarop het recht op uitkering zal eindigen wegens het verstrijken van de daarvoor geldende maximumtermijn, gaat de maatregel, in afwijking van het eerste lid, in op een zodanige datum dat de maatregel tegelijk met het uitkeringsrecht zal eindigen, doch niet eerder dan op de datum met ingang waarvan de verplichting niet is nageleefd.
 
