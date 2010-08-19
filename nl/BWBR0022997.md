@@ -4,7 +4,7 @@ identifier: "BWBR0022997"
 country: "nl"
 rank: "zbo"
 publication_date: "2010-08-19"
-last_updated: "2010-01-01"
+last_updated: "2010-08-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022997"
 soort: "zbo"
@@ -43,9 +43,9 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. uitkering: de arbeidsongeschiktheidsuitkering bedoeld in [artikel 47 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=47), [artikel 6 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=6), [artikel 19 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=19) en [artikel 7 van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=7), alsmede de WGA-uitkering bedoeld in [artikel 54 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=54).
+- a. uitkering: de arbeidsongeschiktheidsuitkering bedoeld in [artikel 47 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=47), de [artikelen 2:45](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:45) en [3:3 van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:3), [artikel 19 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=19) en [artikel 7 van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=7), alsmede de WGA-uitkering bedoeld in [artikel 54 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=54) en de inkomensondersteuning, bedoeld in de [artikelen 2:39](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:39) en [2:43 van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:43).
 
-- b. verzekerde: de verzekerde bedoeld in de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=47) en [54 WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=54), [artikel 19 WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=19) en [artikel 7 WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=7) en de jonggehandicapte bedoeld in [artikel 6 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=6).
+- b. verzekerde: de verzekerde bedoeld in de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=47) en [54 WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=54), [artikel 19 WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=19) en [artikel 7 WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=7) en de jonggehandicapte bedoeld in de [artikelen 2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:3) en [3:2 van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:2).
 
 ##### Artikel 2. Verhoging tot 100%
 
@@ -67,7 +67,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4. Einde verhoging bij volledige opname
 
-Indien de verzekerde volledig wordt opgenomen in een inrichting wordt de verhoging als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022997&artikel=2&z=2007-12-14&g=2010-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0022997&artikel=3&z=2007-12-14&g=2010-01-01) beëindigd ingaande de eerste dag van de tweede maand volgende op de maand waarin de opname in de inrichting plaatsvond.
+Indien de verzekerde volledig wordt opgenomen in een inrichting wordt de verhoging als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022997&artikel=2&z=2010-08-19&g=2010-08-19) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0022997&artikel=3&z=2010-08-19&g=2010-08-19) beëindigd ingaande de eerste dag van de tweede maand volgende op de maand waarin de opname in de inrichting plaatsvond.
 
 ##### Artikel 5. Intrekking besluit
 
