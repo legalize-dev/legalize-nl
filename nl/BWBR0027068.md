@@ -4,7 +4,7 @@ identifier: "BWBR0027068"
 country: "nl"
 rank: "zbo"
 publication_date: "2010-08-19"
-last_updated: "2010-01-01"
+last_updated: "2010-08-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027068"
 soort: "zbo"
@@ -47,7 +47,7 @@ De normbedragen voor voorzieningen, als bedoeld in:
 
 - –. [artikel 65e van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65e),
 
-- –. [artikel 59b van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=59b),
+- –. de [artikelen 2:22](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:22), [2:23](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:23) en [3:64 van de Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:64),
 
 - –. [artikel 67c van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=67c), en
 
