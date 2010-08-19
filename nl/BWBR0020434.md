@@ -4,7 +4,7 @@ identifier: "BWBR0020434"
 country: "nl"
 rank: "zbo"
 publication_date: "2011-07-14"
-last_updated: "2010-01-01"
+last_updated: "2010-08-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020434"
 soort: "zbo"
@@ -63,15 +63,15 @@ Besluit:
 
 - j. Waz: [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656);
 
-- k. Wajong: [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657);
+- k. Wet Wajong: [Wet werk en arbeidondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657);
 
 - l. WAZO: [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008);
 
 - m. TW: [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043).
 
-2. In dit besluit wordt onder uitkering tevens verstaan: ziekengeld ingevolge de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en toeslag ingevolge de [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043).
+2. In dit besluit wordt onder uitkering tevens verstaan: ziekengeld ingevolge de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), inkomensondersteuning ingevolge de [Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) en toeslag ingevolge de [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043).
 
-3. In dit besluit wordt onder verzekerde tevens verstaan: de werknemer ingevolge de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de jonggehandicapte ingevolge de [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), de persoon die recht heeft op toeslag ingevolge de [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de werknemer, de gelijkgestelde en de beroepsbeoefenaar op arbeidsovereenkomst in de zin van de [WAZO](https://wetten.overheid.nl/jci1.3:c:BWBR0013008).
+3. In dit besluit wordt onder verzekerde tevens verstaan: de werknemer ingevolge de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de jonggehandicapte ingevolge de [Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), de persoon die recht heeft op toeslag ingevolge de [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de werknemer, de gelijkgestelde en de beroepsbeoefenaar op arbeidsovereenkomst in de zin van de [WAZO](https://wetten.overheid.nl/jci1.3:c:BWBR0013008).
 
 ##### Artikel 2. Schorsing of opschorting
 
@@ -93,13 +93,13 @@ Besluit:
 
 ##### Artikel 4. Intrekking of herziening met ingang van de dag van de mededeling
 
-1. Onverminderd het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020434&artikel=3&z=2006-11-26&g=2010-01-01) wordt, indien het de verzekerde niet redelijkerwijs duidelijk was of kon zijn dat ten onrechte of tot een te hoog bedrag uitkering werd verstrekt, de uitkering ingetrokken of herzien met ingang van de dag waarop UWV hem voor het eerst kenbaar heeft gemaakt dat hem ten onrechte of tot een te hoog bedrag uitkering is verstrekt, doch niet later dan de dag met ingang waarvan de uitkering werd geschorst.
+1. Onverminderd het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020434&artikel=3&z=2010-08-19&g=2010-08-19) wordt, indien het de verzekerde niet redelijkerwijs duidelijk was of kon zijn dat ten onrechte of tot een te hoog bedrag uitkering werd verstrekt, de uitkering ingetrokken of herzien met ingang van de dag waarop UWV hem voor het eerst kenbaar heeft gemaakt dat hem ten onrechte of tot een te hoog bedrag uitkering is verstrekt, doch niet later dan de dag met ingang waarvan de uitkering werd geschorst.
 
 2. In afwijking van het bepaalde in het vorige lid wordt, indien aan de verzekerde over een periode waarover ten onrechte of tot een te hoog bedrag uitkering is verstrekt terwijl dat hem niet redelijkerwijs duidelijk was of kon zijn, een andere uitkering wordt toegekend, de eerstgenoemde uitkering ingetrokken of herzien met ingang van de dag waarop de andere uitkering ingaat. De ten onrechte of tot een te hoog bedrag verstrekte uitkering wordt met de andere uitkering verrekend. Voorzover een hoger bedrag is uitgekeerd dan het bedrag van de andere uitkering wordt het meerdere niet teruggevorderd.
 
 ##### Artikel 5. Intrekking of herziening met een uitlooptermijn
 
-1. Bij toepassing van [artikel 30 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=30), [artikel 43, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=43), in samenhang met [artikel 46, tweede lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=46), [artikel 11 van de Waz](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=11) of [artikel 10 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=10) op een ogenblik waarop reeds uitkering is toegekend, wordt in beginsel een uitlooptermijn in acht genomen van twee maanden. Indien de verzekerde in het buitenland verblijft en bij intrekking of herziening van de uitkering wegens afname van de arbeidsongeschiktheid een uitlooptermijn van zes maanden zou zijn gehanteerd, bedraagt de uitlooptermijn bedoeld in de eerste zin zes maanden.
+1. Bij toepassing van [artikel 30 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=30), [artikel 43, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=43), in samenhang met [artikel 46, tweede lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=46), [artikel 11 van de Waz](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=11) of [artikel 3: 11 van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:11) op een ogenblik waarop reeds uitkering is toegekend, wordt in beginsel een uitlooptermijn in acht genomen van twee maanden. Indien de verzekerde in het buitenland verblijft en bij intrekking of herziening van de uitkering wegens afname van de arbeidsongeschiktheid een uitlooptermijn van zes maanden zou zijn gehanteerd, bedraagt de uitlooptermijn bedoeld in de eerste zin zes maanden.
 
 2. Indien in een geval als bedoeld in het eerste lid de toekenning van de uitkering heeft plaatsgevonden als gevolg van het feit dat de verzekerde zijn inlichtingenverplichting of medewerkingsverplichting niet is nagekomen, wordt de uitkering ingetrokken of herzien met ingang van de dag vanaf welke zij is toegekend.
 
