@@ -4,7 +4,7 @@ identifier: "BWBR0020119"
 country: "nl"
 rank: "zbo"
 publication_date: "2010-08-19"
-last_updated: "2005-12-29"
+last_updated: "2010-08-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020119"
 soort: "zbo"
@@ -41,7 +41,7 @@ Besluit:
 
 ##### Artikel 1. Duidelijk verminderde arbeidsprestatie
 
-Een duidelijk verminderde arbeidsprestatie als bedoeld in [artikel 59a van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=59a) wordt slechts aangenomen indien die prestatie een geldelijke beloning rechtvaardigt die, berekend per gewerkt uur, ten minste 25% lager ligt dan de beloning die voor dezelfde arbeid gebruikelijk is.
+Een duidelijk verminderde arbeidsprestatie als bedoeld in de [artikelen 2:20](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:20) en [3:63 van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:63) wordt slechts aangenomen indien die prestatie een geldelijke beloning rechtvaardigt die, berekend per gewerkt uur, ten minste 25% lager ligt dan de beloning die voor dezelfde arbeid gebruikelijk is.
 
 ##### Artikel 2. Minimale duur
 
@@ -61,7 +61,7 @@ Loondispensatie wordt verleend voor de periode waarin naar de verwachting van he
 
 ##### Artikel 6. Werknemers jonger dan 18 jaar
 
-Ten aanzien van een werknemer jonger dan 18 jaar wordt loondispensatie steeds verleend met de bepaling dat deze eindigt bij het bereiken van de leeftijd van 18 jaar, tenzij aan die werknemer een uitkering op grond van de [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) wordt toegekend.
+Ten aanzien van een werknemer jonger dan 18 jaar wordt loondispensatie steeds verleend met de bepaling dat deze eindigt bij het bereiken van de leeftijd van 18 jaar, tenzij aan die werknemer arbeidsondersteuning als bedoeld in [artikel 2:15 van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:15) wordt toegekend.
 
 ##### Artikel 7. Intrekking Lisv-mededeling
 
