@@ -4,7 +4,7 @@ identifier: "BWBR0024497"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2010-08-19"
-last_updated: "2007-03-02"
+last_updated: "2010-08-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024497"
 soort: "beleidsregel"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. aan de schatting ten grondslag gelegde arbeid: arbeid als bedoeld in [artikel 9 van het Schattingsbesluit arbeidsongeschiktheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&artikel=9).
 
-- b. maatgevende arbeid: arbeid verricht door de gelijksoortige gezonde persoon als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=4) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=5) juncto [artikel 1 WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=1), [artikel 18 WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=18), [artikel 2 WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=2) en [artikel 2 Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2).
+- b. maatgevende arbeid: arbeid verricht door de gelijksoortige gezonde persoon als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=4) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=5) juncto [artikel 1 WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=1), [artikel 18 WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=18), [artikel 2 WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=2) en [artikelen 2:2](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:2), [2:5](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:5) en [3:1 van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:1).
 
 - c. mediane uurloon: uurloon als bedoeld in [artikel 10, eerste lid, onderdeel b, van het Schattingsbesluit arbeidsongeschiktheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&artikel=10)
 
