@@ -4,7 +4,7 @@ identifier: "BWBV0004611"
 country: "nl"
 rank: "verdrag"
 publication_date: "2010-08-28"
-last_updated: "2003-04-10"
+last_updated: "2010-08-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004611"
 soort: "verdrag"
@@ -138,7 +138,7 @@ Rechtshandhavingsoperaties ter bestrijding van sluikhandel uit hoofde van dit Ve
 
 - d. toestemming te verlenen voor het binnengaan van haar wateren en luchtruim door vaartuigen en luchtvaartuigen van de rechtshandhavingsautoriteit en luchtvaartuigen ter ondersteuning van rechtshandhavingsoperaties van de andere Partijen.
 
-2. Elke Partij stelt de Depositaris in kennis van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=1&z=2003-04-10&g=2003-04-10) omschreven autoriteit of autoriteiten waaraan verzoeken uit hoofde van het eerste lid van dit artikel moeten worden gericht.
+2. Elke Partij stelt de Depositaris in kennis van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=1&z=2010-08-28&g=2010-08-28) omschreven autoriteit of autoriteiten waaraan verzoeken uit hoofde van het eerste lid van dit artikel moeten worden gericht.
 
 ##### Artikel 8. Bevoegdheden van rechtshandhavingsfunctionarissen
 
@@ -166,11 +166,11 @@ Rechtshandhavingsoperaties ter bestrijding van sluikhandel uit hoofde van dit Ve
 
 - f. rechtshandhavingsfunctionarissen van andere Partijen adviseren en assisteren bij het aan boord gaan van vaartuigen teneinde de wetten van deze Partijen te handhaven om sluikhandel te bestrijden.
 
-4. Wanneer rechtshandhavingsfunctionarissen aan boord zijn van een vaartuig van een rechtshandhavingsautoriteit van een andere Partij, en de rechtshandhavingsactie wordt uitgevoerd uit hoofde van de bevoegdheid van de rechtshandhavingsfunctionarissen, wordt elke doorzoeking of inbeslagneming van goederen, elke vrijheidsbeneming van een persoon, en elk gebruik van geweld uit hoofde van dit Verdrag, al dan niet met gebruik van wapens, uitgevoerd door deze rechtshandhavingsfunctionarissen, onverminderd de algemene beginselen bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=11&z=2003-04-10&g=2003-04-10). Echter:
+4. Wanneer rechtshandhavingsfunctionarissen aan boord zijn van een vaartuig van een rechtshandhavingsautoriteit van een andere Partij, en de rechtshandhavingsactie wordt uitgevoerd uit hoofde van de bevoegdheid van de rechtshandhavingsfunctionarissen, wordt elke doorzoeking of inbeslagneming van goederen, elke vrijheidsbeneming van een persoon, en elk gebruik van geweld uit hoofde van dit Verdrag, al dan niet met gebruik van wapens, uitgevoerd door deze rechtshandhavingsfunctionarissen, onverminderd de algemene beginselen bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=11&z=2010-08-28&g=2010-08-28). Echter:
 
 - a. bemanningsleden van het vaartuig van de andere Partij kunnen bij een dergelijke actie assistentie verlenen indien hun dat uitdrukkelijk door de rechtshandhavingsfunctionarissen wordt gevraagd, en uitsluitend in de mate en op de wijze waarom verzocht wordt. Een dergelijk verzoek kan uitsluitend worden gedaan, aanvaard en uitgevoerd indien de actie in overeenstemming is met de toepasselijke wetten en procedures van beide Partijen; en
 
-- b. dergelijke bemanningsleden mogen geweld gebruiken in overeenstemming met [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=22&z=2003-04-10&g=2003-04-10) en hun nationale wet- en regelgeving.
+- b. dergelijke bemanningsleden mogen geweld gebruiken in overeenstemming met [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=22&z=2010-08-28&g=2010-08-28) en hun nationale wet- en regelgeving.
 
 5. Elke Partij stelt de Depositaris in kennis van de autoriteit die verantwoordelijk is voor het aanwijzen van ingescheepte rechtshandhavingsfunctionarissen.
 
@@ -202,7 +202,7 @@ Rechtshandhavingsoperaties ter bestrijding van sluikhandel uit hoofde van dit Ve
 
 1. Met inachtneming van het tweede lid van dit artikel, mag een vaartuig van de rechtshandhavingsautoriteit van een Partij een verdacht vaartuig volgen tot in de wateren van een andere Partij en maatregelen nemen om ontsnapping van het vaartuig te voorkomen, aan boord van het vaartuig gaan, en het vaartuig en zijn opvarenden vasthouden, in afwachting van een spoedig antwoord van de andere Partij indien:
 
-- a. de Partij toestemming heeft gekregen van de autoriteit of de autoriteiten van de andere Partij zoals bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=1&z=2003-04-10&g=2003-04-10) en gemeld ingevolge [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=7&z=2003-04-10&g=2003-04-10); of
+- a. de Partij toestemming heeft gekregen van de autoriteit of de autoriteiten van de andere Partij zoals bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=1&z=2010-08-28&g=2010-08-28) en gemeld ingevolge [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=7&z=2010-08-28&g=2010-08-28); of
 
 - b. bij kennisgeving aan de andere Partij, wanneer geen ingescheepte rechtshandhavingsfunctionaris of vaartuig van de rechtshandhavingsautoriteit van de andere Partij onmiddellijk beschikbaar is om een onderzoek te verrichten. Een dergelijke kennisgeving wordt gedaan vóór het binnenvaren van de wateren van de andere Partij indien dit vanuit operationeel oogpunt mogelijk is, of, indien dit niet mogelijk is, zo spoedig mogelijk.
 
@@ -212,7 +212,7 @@ Rechtshandhavingsoperaties ter bestrijding van sluikhandel uit hoofde van dit Ve
 
 4. Met inachtneming van het vijfde lid, mag een vaartuig van de rechtshandhavingsautoriteit van een Partij een verdacht luchtvaartuig volgen tot in de wateren van een andere Partij teneinde contact te houden met het verdachte luchtvaartuig indien:
 
-- a. de Partij toestemming heeft gekregen van de autoriteit of autoriteiten van de andere Partij zoals bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=1&z=2003-04-10&g=2003-04-10) en gemeld ingevolge [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=7&z=2003-04-10&g=2003-04-10); of
+- a. de Partij toestemming heeft gekregen van de autoriteit of autoriteiten van de andere Partij zoals bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=1&z=2010-08-28&g=2010-08-28) en gemeld ingevolge [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=7&z=2010-08-28&g=2010-08-28); of
 
 - b. bij kennisgeving aan de andere Partij, wanneer geen ingescheepte rechtshandhavingsfunctionaris of vaartuig of luchtvaartuig van de rechtshandhavingsautoriteit van de andere Partij onmiddellijk beschikbaar is om contact te houden. Een dergelijke kennisgeving wordt gedaan vóór het binnenvaren van de wateren van de andere Partij indien dit vanuit operationeel oogpunt mogelijk is, of, indien dit niet mogelijk is, zo spoedig mogelijk.
 
@@ -238,7 +238,7 @@ Rechtshandhavingsoperaties ter bestrijding van sluikhandel uit hoofde van dit Ve
 
 6. Met inachtneming van het zevende lid van dit artikel, geeft de verzoekende Partij luchtvaartuigen van een aangezochte Partij, wanneer zij betrokken zijn bij rechtshandhavingsoperaties of activiteiten ter ondersteuning van rechtshandhavingsoperaties, toestemming over haar grondgebied of wateren te vliegen, en, met inachtneming van de wetten van de Partij die toestemming geeft en die van de aangezochte Partij, op verzoek van de Partij die toestemming geeft, bevelen door te geven aan verdachte luchtvaartuigen om de instructies en aanwijzingen van haar luchtverkeersleiding en rechtshandhavingsautoriteit op te volgen, indien:
 
-- a. toestemming is verleend door de autoriteit of autoriteiten van de Partij die om assistentie verzoekt, zoals bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=1&z=2003-04-10&g=2003-04-10) en gemeld ingevolge [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=7&z=2003-04-10&g=2003-04-10); of
+- a. toestemming is verleend door de autoriteit of autoriteiten van de Partij die om assistentie verzoekt, zoals bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=1&z=2010-08-28&g=2010-08-28) en gemeld ingevolge [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=7&z=2010-08-28&g=2010-08-28); of
 
 - b. voorafgaand toestemming is verleend door de Partij die om assistentie verzoekt.
 
@@ -270,11 +270,11 @@ Bij de ondertekening, bekrachtiging, aanvaarding of goedkeuring van dit Verdrag,
 
 2. Bij ondertekening, bekrachtiging, aanvaarding of goedkeuring van dit Verdrag, kan een Partij de Depositaris ervan in kennis stellen dat het aan boord gaan van vaartuigen waarvan gesteld wordt dat zij de nationaliteit hebben van die Partij en die zich zeewaarts van de territoriale zee van een Staat bevinden, uitsluitend mag geschieden met uitdrukkelijke toestemming van die Partij. Deze kennisgeving ontslaat die Partij niet van de verplichting onverwijld te reageren op verzoeken van andere Partijen uit hoofde van dit Verdrag, in overeenstemming met zijn mogelijkheden. De kennisgeving kan te allen tijde worden ingetrokken.
 
-3. Bij de ondertekening, bekrachtiging, aanvaarding of goedkeuring van dit Verdrag, of te eniger tijd daarna, kan een Partij de Depositaris ervan in kennis stellen dat Partijen geacht worden toestemming te hebben aan boord te gaan van een verdacht vaartuig dat zich zeewaarts van de territoriale zee van een Staat bevindt en zijn vlag voert of stelt dat het zijn nationaliteit heeft, en het verdachte vaartuig en zijn lading te doorzoeken en zijn opvarenden te ondervragen teneinde vast te stellen of het vaartuig betrokken is bij sluikhandel, indien geen antwoord wordt ontvangen of indien de aangezochte Partij niet binnen vier (4) uur de nationaliteit kan bevestigen noch ontkennen nadat zij een mondeling verzoek heeft ontvangen uit hoofde van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=6&z=2003-04-10&g=2003-04-10). De kennisgeving kan te allen tijde worden ingetrokken.
+3. Bij de ondertekening, bekrachtiging, aanvaarding of goedkeuring van dit Verdrag, of te eniger tijd daarna, kan een Partij de Depositaris ervan in kennis stellen dat Partijen geacht worden toestemming te hebben aan boord te gaan van een verdacht vaartuig dat zich zeewaarts van de territoriale zee van een Staat bevindt en zijn vlag voert of stelt dat het zijn nationaliteit heeft, en het verdachte vaartuig en zijn lading te doorzoeken en zijn opvarenden te ondervragen teneinde vast te stellen of het vaartuig betrokken is bij sluikhandel, indien geen antwoord wordt ontvangen of indien de aangezochte Partij niet binnen vier (4) uur de nationaliteit kan bevestigen noch ontkennen nadat zij een mondeling verzoek heeft ontvangen uit hoofde van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=6&z=2010-08-28&g=2010-08-28). De kennisgeving kan te allen tijde worden ingetrokken.
 
 4. Een vlaggenstaat die de Depositaris ervan in kennis heeft gesteld dat hij het tweede of derde lid van dit artikel in acht zal nemen, en die een verzoek tot verificatie van de nationaliteit van een verdacht vaartuig heeft ontvangen, kan de verzoekende Partij toestemming verlenen alle nodige maatregelen te nemen teneinde ontsnapping van het verdachte vaartuig te voorkomen.
 
-5. Wanneer bewijzen van sluikhandel worden ontdekt als gevolg van het aan boord gaan uit hoofde van dit artikel, mogen de rechtshandhavingsfunctionarissen van de Partij die aan boord gaat het vaartuig, de lading en de opvarenden vasthouden in afwachting van spoedige instructies van de vlaggenstaat die Partij is. De Partij die aan boord gaat stelt de vlaggenstaat die Partij is onverwijld op de hoogte van de resultaten van de uit hoofde van dit artikel aan boord gaan en doorzoeken, in overeenstemming met het [eerste lid van artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=26&z=2003-04-10&g=2003-04-10) van dit Verdrag.
+5. Wanneer bewijzen van sluikhandel worden ontdekt als gevolg van het aan boord gaan uit hoofde van dit artikel, mogen de rechtshandhavingsfunctionarissen van de Partij die aan boord gaat het vaartuig, de lading en de opvarenden vasthouden in afwachting van spoedige instructies van de vlaggenstaat die Partij is. De Partij die aan boord gaat stelt de vlaggenstaat die Partij is onverwijld op de hoogte van de resultaten van de uit hoofde van dit artikel aan boord gaan en doorzoeken, in overeenstemming met het [eerste lid van artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=26&z=2010-08-28&g=2010-08-28) van dit Verdrag.
 
 6. Niettegenstaande de voorgaande leden van dit artikel mogen rechtshandhavingsfunctionarissen van een Partij aan boord gaan van een verdacht vaartuig dat zich zeewaarts van de territoriale zee van een Staat bevindt en dat stelt de nationaliteit van een andere Partij te hebben, teneinde de documenten van dat vaartuig op te sporen en te inspecteren indien:
 
@@ -316,7 +316,7 @@ Bij het aanwijzen van autoriteiten en functionarissen zoals omschreven in artike
 
 2. In overeenstemming met haar rechtsstelsel neemt elke Partij passende maatregelen om te waarborgen dat haar rechtshandhavingsfunctionarissen en rechtshandhavingsfunctionarissen van andere Partijen die namens haar optreden, de bevoegdheden van rechtshandhavingsfunctionarissen mogen uitoefenen zoals in dit Verdrag voorgeschreven.
 
-3. In overeenstemming met de bepalingen van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=8&z=2003-04-10&g=2003-04-10) en onverminderd de bepalingen van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=11&z=2003-04-10&g=2003-04-10), waarborgt elke Partij dat haar rechtshandhavingsfunctionarissen, wanneer zij aan boord gaan van vaartuigen en deze onderzoeken en activiteiten in de lucht uitvoeren uit hoofde van dit Verdrag, handelen in overeenstemming met hun toepasselijke nationale wetten en procedures en met het internationale recht en aanvaarde internationale praktijken.
+3. In overeenstemming met de bepalingen van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=8&z=2010-08-28&g=2010-08-28) en onverminderd de bepalingen van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=11&z=2010-08-28&g=2010-08-28), waarborgt elke Partij dat haar rechtshandhavingsfunctionarissen, wanneer zij aan boord gaan van vaartuigen en deze onderzoeken en activiteiten in de lucht uitvoeren uit hoofde van dit Verdrag, handelen in overeenstemming met hun toepasselijke nationale wetten en procedures en met het internationale recht en aanvaarde internationale praktijken.
 
 4. Bij het nemen van dergelijke maatregelen uit hoofde van dit Verdrag, houdt elke Partij er naar behoren rekening mee dat de veiligheid van mensenlevens op zee en van het vaartuig en de lading niet in gevaar mogen worden gebracht en dat er geen handelsbelangen en juridische belangen mogen worden geschaad. Zij houden in het bijzonder rekening met:
 
@@ -396,7 +396,7 @@ Elke Partij neemt de maatregelen die nodig kunnen zijn om haar rechtsmacht te ve
 
 1. Goederen die in beslag zijn genomen of verbeurd zijn verklaard als gevolg van een rechtshandhavingsoperatie die uit hoofde van dit Verdrag is uitgevoerd in de wateren van een Partij, worden vervreemd in overeenstemming met de wetten van die Partij.
 
-2. Indien de vlaggenstaat die Partij is ermee heeft ingestemd dat een andere Staat uit hoofde van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=24&z=2003-04-10&g=2003-04-10) rechtsmacht uitoefent, worden de goederen die in beslag zijn genomen of verbeurd zijn verklaard als gevolg van een rechtshandhavingsoperatie die uit hoofde van dit Verdrag door een Partij is uitgevoerd, vervreemd in overeenstemming met de wetten van de Partij die aan boord is gegaan.
+2. Indien de vlaggenstaat die Partij is ermee heeft ingestemd dat een andere Staat uit hoofde van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=24&z=2010-08-28&g=2010-08-28) rechtsmacht uitoefent, worden de goederen die in beslag zijn genomen of verbeurd zijn verklaard als gevolg van een rechtshandhavingsoperatie die uit hoofde van dit Verdrag door een Partij is uitgevoerd, vervreemd in overeenstemming met de wetten van de Partij die aan boord is gegaan.
 
 3. Voorzover dit is toegestaan door haar wetgeving en op de voorwaarden die zij passend acht, kan een Partij in alle gevallen de verbeurdverklaarde goederen of de opbrengst van de verkoop ervan overdragen aan een andere Partij of aan intergouvernementele lichamen die gespecialiseerd zijn in de bestrijding van sluikhandel en het gebruik van verdovende middelen en psychotrope stoffen.
 
@@ -430,7 +430,7 @@ Geen enkele bepaling van dit Verdrag doet afbreuk aan de positie van een Partij 
 
 2. Tijdens de vergaderingen van de Partijen wordt onder andere bezien of het Verdrag wordt nageleefd en worden, indien nodig, maatregelen aangenomen om de doeltreffendheid ervan te vergroten, en worden maatregelen geëvalueerd op het gebied van regionale en subregionale samenwerking en coördinatie van toekomstige acties.
 
-3. Tijdens de vergaderingen van de Partijen die uit hoofde van het tweede lid van dit artikel worden belegd, worden wijzigingen van dit Verdrag overwogen die in overeenstemming met [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=33&z=2003-04-10&g=2003-04-10) zijn voorgesteld.
+3. Tijdens de vergaderingen van de Partijen die uit hoofde van het tweede lid van dit artikel worden belegd, worden wijzigingen van dit Verdrag overwogen die in overeenstemming met [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=33&z=2010-08-28&g=2010-08-28) zijn voorgesteld.
 
 4. In de vergaderingen van de Partijen worden alle besluiten bij consensus genomen.
 
@@ -464,15 +464,15 @@ Dit Verdrag staat te San José, Costa Rica, vanaf 10 april 2003 open voor ondert
 
 ##### Artikel 37. Voorbehouden en uitzonderingen
 
-Met inachtneming van haar Grondwet en wetten en overeenkomstig het internationale recht, kan een Partij voorbehouden maken ten aanzien van dit Verdrag, behoudens wanneer deze niet verenigbaar zijn met het onderwerp en doel van het Verdrag. Ten aanzien van [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=2&z=2003-04-10&g=2003-04-10), [12](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=12&z=2003-04-10&g=2003-04-10), [13](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=13&z=2003-04-10&g=2003-04-10) en [16](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=16&z=2003-04-10&g=2003-04-10) kunnen geen voorbehouden worden gemaakt.
+Met inachtneming van haar Grondwet en wetten en overeenkomstig het internationale recht, kan een Partij voorbehouden maken ten aanzien van dit Verdrag, behoudens wanneer deze niet verenigbaar zijn met het onderwerp en doel van het Verdrag. Ten aanzien van [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=2&z=2010-08-28&g=2010-08-28), [12](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=12&z=2010-08-28&g=2010-08-28), [13](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=13&z=2010-08-28&g=2010-08-28) en [16](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=16&z=2010-08-28&g=2010-08-28) kunnen geen voorbehouden worden gemaakt.
 
 ##### Artikel 38. Verklaringen
 
-[Artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=37&z=2003-04-10&g=2003-04-10) doet geen afbreuk aan het recht van een Staat om bij de ondertekening, bekrachtiging, aanvaarding of goedkeuring van dit Verdrag, verklaringen, ongeacht de formulering of de benaming die eraan wordt gegeven, af te geven, bijvoorbeeld ten behoeve van onderlinge overeenstemming tussen zijn wet- en regelgeving en de bepalingen van dit Verdrag, voorzover dergelijke verklaringen er niet toe strekken of tot gevolg hebben dat het effect van de bepalingen van dit Verdrag op die Staat teniet wordt gedaan of veranderd.
+[Artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=37&z=2010-08-28&g=2010-08-28) doet geen afbreuk aan het recht van een Staat om bij de ondertekening, bekrachtiging, aanvaarding of goedkeuring van dit Verdrag, verklaringen, ongeacht de formulering of de benaming die eraan wordt gegeven, af te geven, bijvoorbeeld ten behoeve van onderlinge overeenstemming tussen zijn wet- en regelgeving en de bepalingen van dit Verdrag, voorzover dergelijke verklaringen er niet toe strekken of tot gevolg hebben dat het effect van de bepalingen van dit Verdrag op die Staat teniet wordt gedaan of veranderd.
 
 ##### Artikel 39. Territoriale toepassing
 
-Dit Verdrag is uitsluitend van toepassing op het Caribisch gebied, zoals omschreven in [artikel 1, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=1&z=2003-04-10&g=2003-04-10).
+Dit Verdrag is uitsluitend van toepassing op het Caribisch gebied, zoals omschreven in [artikel 1, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=1&z=2010-08-28&g=2010-08-28).
 
 ##### Artikel 40. Opschorting
 
@@ -492,33 +492,33 @@ Partijen bij dit Verdrag kunnen hun verplichtingen uit hoofde van dit Verdrag te
 
 3. De Depositaris stelt alle ondertekenaars en partijen bij het Verdrag in kennis van:
 
-- a. alle aanwijzingen van rechtshandhavingsautoriteiten ingevolge [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=1&z=2003-04-10&g=2003-04-10);
+- a. alle aanwijzingen van rechtshandhavingsautoriteiten ingevolge [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=1&z=2010-08-28&g=2010-08-28);
 
-- b. alle aanwijzingen van autoriteiten waaraan, ingevolge [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=6&z=2003-04-10&g=2003-04-10) en [7](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=7&z=2003-04-10&g=2003-04-10), verzoeken om verificatie of registratie moeten worden gericht, waaraan toestemming moet worden gevraagd voor het binnengaan van nationale wateren en het nationale luchtruim en voor het aan boord gaan en doorzoeken, en waar instructies moeten worden verkregen;
+- b. alle aanwijzingen van autoriteiten waaraan, ingevolge [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=6&z=2010-08-28&g=2010-08-28) en [7](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=7&z=2010-08-28&g=2010-08-28), verzoeken om verificatie of registratie moeten worden gericht, waaraan toestemming moet worden gevraagd voor het binnengaan van nationale wateren en het nationale luchtruim en voor het aan boord gaan en doorzoeken, en waar instructies moeten worden verkregen;
 
-- c. alle functionarissen die worden aangewezen als zijnde verantwoordelijk voor het aanwijzen van ingescheepte rechtshandhavingsfunctionarissen ingevolge [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=9&z=2003-04-10&g=2003-04-10);
+- c. alle functionarissen die worden aangewezen als zijnde verantwoordelijk voor het aanwijzen van ingescheepte rechtshandhavingsfunctionarissen ingevolge [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=9&z=2010-08-28&g=2010-08-28);
 
-- d. alle kennisgevingen van keuzes met betrekking tot toestemming voor achtervolging of binnengaan van territoriale wateren en het luchtruim teneinde ingevolge [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=12&z=2003-04-10&g=2003-04-10) aan boord te gaan en doorzoekingen te verrichten;
+- d. alle kennisgevingen van keuzes met betrekking tot toestemming voor achtervolging of binnengaan van territoriale wateren en het luchtruim teneinde ingevolge [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=12&z=2010-08-28&g=2010-08-28) aan boord te gaan en doorzoekingen te verrichten;
 
-- e. alle kennisgevingen van keuzes met betrekking tot toestemming voor ondersteuning door luchtvaartuigen ingevolge [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=13&z=2003-04-10&g=2003-04-10);
+- e. alle kennisgevingen van keuzes met betrekking tot toestemming voor ondersteuning door luchtvaartuigen ingevolge [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=13&z=2010-08-28&g=2010-08-28);
 
-- f. alle verklaringen van territoriale toepasselijkheid ingevolge [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=15&z=2003-04-10&g=2003-04-10);
+- f. alle verklaringen van territoriale toepasselijkheid ingevolge [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=15&z=2010-08-28&g=2010-08-28);
 
-- g. alle kennisgevingen van keuzes om geen voorafgaande toestemming te verlenen voor het aan boord gaan ingevolge van [artikel 16, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=16&z=2003-04-10&g=2003-04-10);
+- g. alle kennisgevingen van keuzes om geen voorafgaande toestemming te verlenen voor het aan boord gaan ingevolge van [artikel 16, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=16&z=2010-08-28&g=2010-08-28);
 
-- h. alle voorstellen tot wijziging van het Verdrag ingediend ingevolge [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=33&z=2003-04-10&g=2003-04-10);
+- h. alle voorstellen tot wijziging van het Verdrag ingediend ingevolge [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=33&z=2010-08-28&g=2010-08-28);
 
-- i. alle ingevolge [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=36&z=2003-04-10&g=2003-04-10) gedeponeerde ondertekeningen, bekrachtigingen, aanvaardingen en goedkeuringen;
+- i. alle ingevolge [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=36&z=2010-08-28&g=2010-08-28) gedeponeerde ondertekeningen, bekrachtigingen, aanvaardingen en goedkeuringen;
 
-- j. de data van inwerkingtreding van het Verdrag ingevolge [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=36&z=2003-04-10&g=2003-04-10);
+- j. de data van inwerkingtreding van het Verdrag ingevolge [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=36&z=2010-08-28&g=2010-08-28);
 
-- k. alle ingevolge [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=37&z=2003-04-10&g=2003-04-10) gemaakte voorbehouden;
+- k. alle ingevolge [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=37&z=2010-08-28&g=2010-08-28) gemaakte voorbehouden;
 
-- l. alle ingevolge [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=38&z=2003-04-10&g=2003-04-10) afgegeven verklaringen;
+- l. alle ingevolge [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=38&z=2010-08-28&g=2010-08-28) afgegeven verklaringen;
 
-- m. alle ingevolge [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=40&z=2003-04-10&g=2003-04-10) afgegeven verklaringen;
+- m. alle ingevolge [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=40&z=2010-08-28&g=2010-08-28) afgegeven verklaringen;
 
-- n. alle kennisgevingen van opzegging ingevolge [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=41&z=2003-04-10&g=2003-04-10).
+- n. alle kennisgevingen van opzegging ingevolge [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0004611&artikel=41&z=2010-08-28&g=2010-08-28).
 
 4. De Depositaris laat dit Verdrag bij de Verenigde Naties registreren overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
