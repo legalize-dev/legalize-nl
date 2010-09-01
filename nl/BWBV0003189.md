@@ -4,7 +4,7 @@ identifier: "BWBV0003189"
 country: "nl"
 rank: "verdrag"
 publication_date: "2010-09-01"
-last_updated: "2001-11-16"
+last_updated: "2010-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003189"
 soort: "verdrag"
@@ -88,9 +88,9 @@ In dit Verdrag worden, behoudens wanneer de context anders vereist, de volgende 
 
 - iii. iedere andere persoon die ten aanzien van de zaak rechten heeft;
 
-- n. „interne transactie”: een soort transactie als bedoeld in [artikel 2, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=I&artikel=2&z=2001-11-16&g=2001-11-16) waarbij het centrum van de primaire zakelijke rechten van alle partijen bij een dergelijke transactie alsmede de betrokken zaak (zoals nader omschreven in het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003190)) op het tijdstip van het sluiten van het contract zijn gelegen in dezelfde Verdragsluitende Staat en waarbij het door de transactie gevestigde zakelijk recht is ingeschreven in een nationaal register in die Verdragsluitende Staat en deze een verklaring overeenkomstig [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIV&artikel=50&z=2001-11-16&g=2001-11-16), heeft afgelegd;
+- n. „interne transactie”: een soort transactie als bedoeld in [artikel 2, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=I&artikel=2&z=2010-09-01&g=2010-09-01) waarbij het centrum van de primaire zakelijke rechten van alle partijen bij een dergelijke transactie alsmede de betrokken zaak (zoals nader omschreven in het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003190)) op het tijdstip van het sluiten van het contract zijn gelegen in dezelfde Verdragsluitende Staat en waarbij het door de transactie gevestigde zakelijk recht is ingeschreven in een nationaal register in die Verdragsluitende Staat en deze een verklaring overeenkomstig [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIV&artikel=50&z=2010-09-01&g=2010-09-01), heeft afgelegd;
 
-- o. „internationaal zakelijk recht”: een zakelijk recht van een schuldeiser waarop [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=I&artikel=2&z=2001-11-16&g=2001-11-16) van toepassing is;
+- o. „internationaal zakelijk recht”: een zakelijk recht van een schuldeiser waarop [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=I&artikel=2&z=2010-09-01&g=2010-09-01) van toepassing is;
 
 - p. „Internationaal Register”: de internationale inschrijvingsfaciliteiten die zijn ingesteld ten behoeve van dit Verdrag of het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003190);
 
@@ -98,13 +98,13 @@ In dit Verdrag worden, behoudens wanneer de context anders vereist, de volgende 
 
 - r. „nationaal zakelijk recht”: een zakelijk recht van een schuldeiser ten aanzien van een zaak, gevestigd door middel van een interne transactie waarop een verklaring uit hoofde van artikel 50, eerste lid, van toepassing is;
 
-- s. „buitencontractueel recht of zakelijk recht”: een recht of zakelijk recht, toegekend ingevolge het recht van een Verdragsluitende Staat die een verklaring uit hoofde van [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=X&artikel=39&z=2001-11-16&g=2001-11-16) heeft afgelegd, om de nakoming van een verplichting, met inbegrip van een verplichting tegenover een Staat, een orgaan daarvan of een intergouvernementele of private organisatie, te waarborgen;
+- s. „buitencontractueel recht of zakelijk recht”: een recht of zakelijk recht, toegekend ingevolge het recht van een Verdragsluitende Staat die een verklaring uit hoofde van [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=X&artikel=39&z=2010-09-01&g=2010-09-01) heeft afgelegd, om de nakoming van een verplichting, met inbegrip van een verplichting tegenover een Staat, een orgaan daarvan of een intergouvernementele of private organisatie, te waarborgen;
 
 - t. „kennisgeving van een nationaal zakelijk recht”: een in het Internationaal Register ingeschreven of nog in te schrijven kennisgeving dat een nationaal zakelijk recht is gevestigd;
 
-- u. „zaak”: een zaak van een categorie waarop [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=I&artikel=2&z=2001-11-16&g=2001-11-16) van toepassing is;
+- u. „zaak”: een zaak van een categorie waarop [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=I&artikel=2&z=2010-09-01&g=2010-09-01) van toepassing is;
 
-- v. „reeds bestaand recht of zakelijk recht”: elk recht of zakelijk recht ten aanzien van een zaak gevestigd of ontstaan voor de datum van inwerkingtreding van dit Verdrag zoals omschreven in [artikel 60, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIV&artikel=60&z=2001-11-16&g=2001-11-16);
+- v. „reeds bestaand recht of zakelijk recht”: elk recht of zakelijk recht ten aanzien van een zaak gevestigd of ontstaan voor de datum van inwerkingtreding van dit Verdrag zoals omschreven in [artikel 60, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIV&artikel=60&z=2010-09-01&g=2010-09-01);
 
 - w. „opbrengsten”: geldelijke of andere opbrengsten van een zaak voortvloeiende uit de volledige of gedeeltelijke teloorgang of fysieke vernietiging van de zaak of de volledige of gedeeltelijke inbeslagname, verbeurdverklaring of opeising ervan;
 
@@ -116,13 +116,13 @@ In dit Verdrag worden, behoudens wanneer de context anders vereist, de volgende 
 
 - aa. „[Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003190)”: ten aanzien van alle categorieën zaken en geassocieerde rechten waarop dit Verdrag van toepassing is, het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003190) ten aanzien van een van die categorieën zaken en geassocieerde rechten;
 
-- bb. „ingeschreven”: ingeschreven in het Internationaal Register overeenkomstig [Hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=V&z=2001-11-16&g=2001-11-16);
+- bb. „ingeschreven”: ingeschreven in het Internationaal Register overeenkomstig [Hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=V&z=2010-09-01&g=2010-09-01);
 
-- cc. „ingeschreven zakelijk recht”: een internationaal zakelijk recht, een inschrijfbaar buitencontractueel recht of zakelijk recht of een nationaal zakelijk recht omschreven in een kennisgeving van een nationaal zakelijk recht dat overeenkomstig [Hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=V&z=2001-11-16&g=2001-11-16) is ingeschreven;
+- cc. „ingeschreven zakelijk recht”: een internationaal zakelijk recht, een inschrijfbaar buitencontractueel recht of zakelijk recht of een nationaal zakelijk recht omschreven in een kennisgeving van een nationaal zakelijk recht dat overeenkomstig [Hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=V&z=2010-09-01&g=2010-09-01) is ingeschreven;
 
-- dd. „inschrijfbaar buitencontractueel recht of zakelijk recht”: een buitencontractueel recht of zakelijk recht dat inschrijfbaar is ingevolge een overeenkomstig [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=X&artikel=40&z=2001-11-16&g=2001-11-16) neergelegde verklaring;
+- dd. „inschrijfbaar buitencontractueel recht of zakelijk recht”: een buitencontractueel recht of zakelijk recht dat inschrijfbaar is ingevolge een overeenkomstig [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=X&artikel=40&z=2010-09-01&g=2010-09-01) neergelegde verklaring;
 
-- ee. „Bewaarder”: ten aanzien van het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003190), de persoon of instantie die door [dat Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003190) is aangewezen of krachtens [artikel 17, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=IV&artikel=17&z=2001-11-16&g=2001-11-16), is aangesteld;
+- ee. „Bewaarder”: ten aanzien van het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003190), de persoon of instantie die door [dat Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003190) is aangewezen of krachtens [artikel 17, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=IV&artikel=17&z=2010-09-01&g=2010-09-01), is aangesteld;
 
 - ff. „reglement”: krachtens het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003190) door de Toezichthoudende Autoriteit gegeven of goedgekeurd reglement;
 
@@ -134,11 +134,11 @@ In dit Verdrag worden, behoudens wanneer de context anders vereist, de volgende 
 
 - jj. „ zakelijk recht”: een zakelijk recht dat wordt gevestigd door een overeenkomst tot vestiging van een zakelijk recht;
 
-- kk. „Toezichthoudende Autoriteit”: ten aanzien van het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003190), de in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=IV&artikel=17&z=2001-11-16&g=2001-11-16), bedoelde Toezichthoudende Autoriteit;
+- kk. „Toezichthoudende Autoriteit”: ten aanzien van het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003190), de in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=IV&artikel=17&z=2010-09-01&g=2010-09-01), bedoelde Toezichthoudende Autoriteit;
 
 - ll. „overeenkomst tot voorbehoud van eigendom”: een overeenkomst tot verkoop van een zaak op voorwaarde dat de eigendom niet overgaat voordat de in de overeenkomst vervatte vereisten zijn vervuld;
 
-- mm. „niet ingeschreven zakelijk recht”: een contractueel zakelijk recht of buitencontractueel recht of zakelijk recht (anders dan een zakelijk recht waarop [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=X&artikel=39&z=2001-11-16&g=2001-11-16) van toepassing is) en dat niet is ingeschreven, ongeacht of het krachtens dit Verdrag inschrijfbaar is; en
+- mm. „niet ingeschreven zakelijk recht”: een contractueel zakelijk recht of buitencontractueel recht of zakelijk recht (anders dan een zakelijk recht waarop [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=X&artikel=39&z=2010-09-01&g=2010-09-01) van toepassing is) en dat niet is ingeschreven, ongeacht of het krachtens dit Verdrag inschrijfbaar is; en
 
 - nn. „schriftelijk”: een drager van informatie (met inbegrip van via telecommunicatie verstuurde informatie) in tastbare of andere vorm die bij een latere gelegenheid in tastbare vorm kan worden gereproduceerd en waarin met redelijke middelen de goedkeuring van de informatie door een persoon wordt vermeld.
 
@@ -146,7 +146,7 @@ In dit Verdrag worden, behoudens wanneer de context anders vereist, de volgende 
 
 1. Dit Verdrag regelt de vestiging en rechtsgevolgen van een internationaal zakelijk recht op bepaalde categorieën mobiel materieel en geassocieerde rechten.
 
-2. Voor de toepassing van dit Verdrag is een internationaal zakelijk recht ten aanzien van mobiel materieel een zakelijk recht, gevestigd overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=II&artikel=7&z=2001-11-16&g=2001-11-16), op een voor individualisering vatbare zaak uit een categorie van dergelijke in het derde lid vermelde en in het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003190) aangewezen zaken:
+2. Voor de toepassing van dit Verdrag is een internationaal zakelijk recht ten aanzien van mobiel materieel een zakelijk recht, gevestigd overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=II&artikel=7&z=2010-09-01&g=2010-09-01), op een voor individualisering vatbare zaak uit een categorie van dergelijke in het derde lid vermelde en in het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003190) aangewezen zaken:
 
 - a. door de gever van een zakelijk recht krachtens een overeenkomst tot vestiging van een zakelijk recht verleend;
 
@@ -176,7 +176,7 @@ Een zakelijk recht dat valt onder onderdeel a valt niet eveneens onder de onderd
 
 ##### Artikel 4. Waar de schuldenaar zich bevindt
 
-1. Voor de toepassing van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=I&artikel=3&z=2001-11-16&g=2001-11-16), bevindt de schuldenaar zich in een Verdragsluitende Staat:
+1. Voor de toepassing van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=I&artikel=3&z=2010-09-01&g=2010-09-01), bevindt de schuldenaar zich in een Verdragsluitende Staat:
 
 - a. krachtens wiens recht hij is opgericht of gevormd;
 
@@ -222,7 +222,7 @@ Een zakelijk recht wordt gevestigd als een internationaal zakelijk recht overeen
 
 ##### Artikel 8. Rechtsmiddelen van de nemer van een zakelijk recht
 
-1. In het geval van verzuim als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=11&z=2001-11-16&g=2001-11-16), kan de nemer van het zakelijk recht, voor zover de gever van het zakelijk recht daar op enig tijdstip mee heeft ingestemd en onder voorbehoud van een eventuele verklaring door een Verdragsluitende Staat ingevolge [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIV&artikel=54&z=2001-11-16&g=2001-11-16), een of meer van de volgende rechtsmiddelen toepassen:
+1. In het geval van verzuim als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=11&z=2010-09-01&g=2010-09-01), kan de nemer van het zakelijk recht, voor zover de gever van het zakelijk recht daar op enig tijdstip mee heeft ingestemd en onder voorbehoud van een eventuele verklaring door een Verdragsluitende Staat ingevolge [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIV&artikel=54&z=2010-09-01&g=2010-09-01), een of meer van de volgende rechtsmiddelen toepassen:
 
 - a. tot zekerheid dienende zaken in bezit nemen of zich hierover de zeggenschap toeëigenen;
 
@@ -232,13 +232,13 @@ Een zakelijk recht wordt gevestigd als een internationaal zakelijk recht overeen
 
 2. Ook kan de nemer van het zakelijk recht een rechterlijke machtiging voor of een rechterlijk bevel tot een handeling als bedoeld in het vorige lid verzoeken.
 
-3. De in het eerste lid, onderdelen a, b en c, en in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=13&z=2001-11-16&g=2001-11-16) omschreven rechtsmiddelen worden op een in commercieel opzicht redelijke wijze toegepast. Een rechtsmiddel wordt geacht op een in commercieel opzicht redelijke wijze te zijn toegepast indien het is toegepast in overeenstemming met een bepaling van de overeenkomst tot vestiging van het zakelijk recht, behoudens indien een dergelijk beding kennelijk onredelijk is.
+3. De in het eerste lid, onderdelen a, b en c, en in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=13&z=2010-09-01&g=2010-09-01) omschreven rechtsmiddelen worden op een in commercieel opzicht redelijke wijze toegepast. Een rechtsmiddel wordt geacht op een in commercieel opzicht redelijke wijze te zijn toegepast indien het is toegepast in overeenstemming met een bepaling van de overeenkomst tot vestiging van het zakelijk recht, behoudens indien een dergelijk beding kennelijk onredelijk is.
 
 4. Een nemer van een zakelijk recht die ingevolge het eerste lid voorstelt een zaak te verkopen of in leasing te geven, geeft een redelijke voorafgaande schriftelijke kennisgeving van de voorgestelde verkoop of leasing aan:
 
-- a. de in [artikel 1, onderdeel m, onder i en ii](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=I&artikel=1&z=2001-11-16&g=2001-11-16) bedoelde belanghebbenden; en
+- a. de in [artikel 1, onderdeel m, onder i en ii](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=I&artikel=1&z=2010-09-01&g=2010-09-01) bedoelde belanghebbenden; en
 
-- b. de in [artikel 1, onderdeel m, onder iii](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=I&artikel=1&z=2001-11-16&g=2001-11-16) bedoelde belanghebbenden die aan de nemer van het zakelijk recht binnen een redelijke termijn voorafgaand aan de verkoop of leasing kennisgeving van hun rechten hebben gedaan.
+- b. de in [artikel 1, onderdeel m, onder iii](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=I&artikel=1&z=2010-09-01&g=2010-09-01) bedoelde belanghebbenden die aan de nemer van het zakelijk recht binnen een redelijke termijn voorafgaand aan de verkoop of leasing kennisgeving van hun rechten hebben gedaan.
 
 5. Door de nemer van het zakelijk recht als gevolg van de toepassing van de in het eerste of tweede lid omschreven rechtsmiddelen geïnde of ontvangen bedragen worden in mindering gebracht op het bedrag van de zekergestelde verplichtingen.
 
@@ -246,37 +246,37 @@ Een zakelijk recht wordt gevestigd als een internationaal zakelijk recht overeen
 
 ##### Artikel 9. Toekenning eigendomsrechten van zaak ter nakoming; aflossing
 
-1. Na het in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=11&z=2001-11-16&g=2001-11-16) bedoelde verzuim kunnen de nemer van het zakelijk recht en alle belanghebbenden te allen tijde overeenkomen dat de eigendom van (of elk ander recht van de gever van het zakelijk recht op) zaken die met het zakelijk recht zijn bezwaard, aan de nemer van het zakelijk recht wordt toegekend ter nakoming of ten behoeve van de nakoming van de zekergestelde verplichtingen.
+1. Na het in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=11&z=2010-09-01&g=2010-09-01) bedoelde verzuim kunnen de nemer van het zakelijk recht en alle belanghebbenden te allen tijde overeenkomen dat de eigendom van (of elk ander recht van de gever van het zakelijk recht op) zaken die met het zakelijk recht zijn bezwaard, aan de nemer van het zakelijk recht wordt toegekend ter nakoming of ten behoeve van de nakoming van de zekergestelde verplichtingen.
 
 2. Het gerecht kan op verzoek van de nemer van het zakelijk recht bevelen dat de eigendom van (of elk ander recht van de gever van het zakelijk recht op) zaken die met het zakelijk recht zijn bezwaard, aan de nemer van het zakelijk recht wordt toegekend ter nakoming of ten behoeve van de nakoming van de zekergestelde verplichtingen.
 
 3. Het gerecht willigt een verzoek ingevolge het voorgaande lid uitsluitend in indien het bedrag van de zekergestelde verplichtingen die via een dergelijke toekenning moeten worden nagekomen, evenredig is met de waarde van de zaak, na verrekening van de eventueel door de nemer van het zakelijk recht aan de belanghebbenden te verrichten betalingen.
 
-4. Na het in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=11&z=2001-11-16&g=2001-11-16) bedoelde verzuim en voor de verkoop van de tot zekerheid dienende zaak of het uitvaardigen van een bevel overeenkomstig het tweede lid, kunnen de gever van het zakelijk recht en belanghebbenden het zakelijk recht te allen tijde opheffen door het volledige zekergestelde bedrag te betalen, onder voorbehoud van een eventuele door de nemer van het zakelijk recht krachtens [artikel 8, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=8&z=2001-11-16&g=2001-11-16), toegekende of krachtens [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=8&z=2001-11-16&g=2001-11-16), toegestane of bevolen leasing. Indien, na een dergelijk verzuim, het zekergestelde bedrag volledig is betaald door een andere belanghebbende dan de schuldenaar, treedt die persoon in de rechten van de nemer van het zakelijk recht.
+4. Na het in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=11&z=2010-09-01&g=2010-09-01) bedoelde verzuim en voor de verkoop van de tot zekerheid dienende zaak of het uitvaardigen van een bevel overeenkomstig het tweede lid, kunnen de gever van het zakelijk recht en belanghebbenden het zakelijk recht te allen tijde opheffen door het volledige zekergestelde bedrag te betalen, onder voorbehoud van een eventuele door de nemer van het zakelijk recht krachtens [artikel 8, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=8&z=2010-09-01&g=2010-09-01), toegekende of krachtens [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=8&z=2010-09-01&g=2010-09-01), toegestane of bevolen leasing. Indien, na een dergelijk verzuim, het zekergestelde bedrag volledig is betaald door een andere belanghebbende dan de schuldenaar, treedt die persoon in de rechten van de nemer van het zakelijk recht.
 
-5. De eigendom of enig ander recht van de gever van het zakelijk recht dat overgaat bij een verkoop overeenkomstig [artikel 8, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=8&z=2001-11-16&g=2001-11-16), of dat overgaat overeenkomstig het eerste of tweede lid van dit artikel, is vrij van elk ander recht waarboven het zakelijk recht van de nemer van het zakelijk recht ingevolge [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=VIII&artikel=29&z=2001-11-16&g=2001-11-16) voorrang heeft.
+5. De eigendom of enig ander recht van de gever van het zakelijk recht dat overgaat bij een verkoop overeenkomstig [artikel 8, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=8&z=2010-09-01&g=2010-09-01), of dat overgaat overeenkomstig het eerste of tweede lid van dit artikel, is vrij van elk ander recht waarboven het zakelijk recht van de nemer van het zakelijk recht ingevolge [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=VIII&artikel=29&z=2010-09-01&g=2010-09-01) voorrang heeft.
 
 ##### Artikel 10. Rechtsmiddelen van voorwaardelijke verkoper of verhuurder (lessor)
 
-In geval van verzuim bij een overeenkomst tot voorbehoud van eigendom of een lease-overeenkomst als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=11&z=2001-11-16&g=2001-11-16), kan de voorwaardelijke verkoper of de verhuurder (lessor), naargelang het geval is:
+In geval van verzuim bij een overeenkomst tot voorbehoud van eigendom of een lease-overeenkomst als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=11&z=2010-09-01&g=2010-09-01), kan de voorwaardelijke verkoper of de verhuurder (lessor), naargelang het geval is:
 
-- a. onverminderd een verklaring die ingevolge [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIV&artikel=54&z=2001-11-16&g=2001-11-16) door een Verdragsluitende Staat kan worden afgelegd, de overeenkomst beëindigen en zaken waarop de overeenkomst betrekking heeft in bezit nemen of zich het beheer hierover toeëigenen; of
+- a. onverminderd een verklaring die ingevolge [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIV&artikel=54&z=2010-09-01&g=2010-09-01) door een Verdragsluitende Staat kan worden afgelegd, de overeenkomst beëindigen en zaken waarop de overeenkomst betrekking heeft in bezit nemen of zich het beheer hierover toeëigenen; of
 
 - b. een rechterlijke machtiging voor of een rechterlijk bevel tot één van deze handelingen verzoeken.
 
 ##### Artikel 11. Betekenis van verzuim
 
-1. De schuldenaar en de schuldeiser kunnen te allen tijde schriftelijk overeenkomen welke gebeurtenissen verzuim opleveren of anderszins aanleiding geven tot de in de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=8&z=2001-11-16&g=2001-11-16) en [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=13&z=2001-11-16&g=2001-11-16) omschreven rechten en rechtsmiddelen.
+1. De schuldenaar en de schuldeiser kunnen te allen tijde schriftelijk overeenkomen welke gebeurtenissen verzuim opleveren of anderszins aanleiding geven tot de in de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=8&z=2010-09-01&g=2010-09-01) en [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=13&z=2010-09-01&g=2010-09-01) omschreven rechten en rechtsmiddelen.
 
-2. Indien de schuldenaar en de schuldeiser daaromtrent niets zijn overeengekomen, wordt voor de toepassing van de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=8&z=2001-11-16&g=2001-11-16) en [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=13&z=2001-11-16&g=2001-11-16) onder „verzuim” verstaan, een verzuim dat de schuldeiser wezenlijk onthoudt hetgeen hij op grond van de overeenkomst mag verwachten.
+2. Indien de schuldenaar en de schuldeiser daaromtrent niets zijn overeengekomen, wordt voor de toepassing van de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=8&z=2010-09-01&g=2010-09-01) en [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=13&z=2010-09-01&g=2010-09-01) onder „verzuim” verstaan, een verzuim dat de schuldeiser wezenlijk onthoudt hetgeen hij op grond van de overeenkomst mag verwachten.
 
 ##### Artikel 12. Aanvullende rechtsmiddelen
 
-Door het toepasselijke recht toegestane aanvullende rechtsmiddelen, met inbegrip van rechtsmiddelen die door de partijen zijn overeengekomen, mogen worden toegepast voor zover deze niet onverenigbaar zijn met de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=15&z=2001-11-16&g=2001-11-16) genoemde dwingende bepalingen van dit Hoofdstuk.
+Door het toepasselijke recht toegestane aanvullende rechtsmiddelen, met inbegrip van rechtsmiddelen die door de partijen zijn overeengekomen, mogen worden toegepast voor zover deze niet onverenigbaar zijn met de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=15&z=2010-09-01&g=2010-09-01) genoemde dwingende bepalingen van dit Hoofdstuk.
 
 ##### Artikel 13. Redres hangende definitieve vaststelling
 
-1. Onverminderd verklaringen die hij kan afleggen krachtens [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIV&artikel=55&z=2001-11-16&g=2001-11-16), draagt een Verdragsluitende Staat er zorg voor dat een schuldeiser die bewijs aanvoert van verzuim door de schuldenaar, in afwachting van de definitieve vaststelling van zijn vordering en voor zover de schuldenaar daar op enig tijdstip mee heeft ingestemd, van een gerecht spoedig redres kan verkrijgen in de vorm van een of meer van de volgende bevelen, naargelang de schuldeiser verzoekt:
+1. Onverminderd verklaringen die hij kan afleggen krachtens [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIV&artikel=55&z=2010-09-01&g=2010-09-01), draagt een Verdragsluitende Staat er zorg voor dat een schuldeiser die bewijs aanvoert van verzuim door de schuldenaar, in afwachting van de definitieve vaststelling van zijn vordering en voor zover de schuldenaar daar op enig tijdstip mee heeft ingestemd, van een gerecht spoedig redres kan verkrijgen in de vorm van een of meer van de volgende bevelen, naargelang de schuldeiser verzoekt:
 
 - a. behoud van de zaak en de waarde ervan;
 
@@ -294,15 +294,15 @@ Door het toepasselijke recht toegestane aanvullende rechtsmiddelen, met inbegrip
 
 3. Voor de uitvaardiging van een bevel ingevolge het eerste lid kan het gerecht verlangen dat van het verzoek kennisgeving wordt gedaan aan de belanghebbenden.
 
-4. Niets in dit artikel doet afbreuk aan de toepassing van [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=8&z=2001-11-16&g=2001-11-16), of beperkt de beschikbaarheid van andere dan de in het eerste lid bedoelde vormen van tussentijds redres.
+4. Niets in dit artikel doet afbreuk aan de toepassing van [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=8&z=2010-09-01&g=2010-09-01), of beperkt de beschikbaarheid van andere dan de in het eerste lid bedoelde vormen van tussentijds redres.
 
 ##### Artikel 14. Procedurele vereisten
 
-Onverminderd [artikel 54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIV&artikel=54&z=2001-11-16&g=2001-11-16), wordt een in dit Hoofdstuk voorzien rechtsmiddel toegepast in overeenstemming met de procedure voorgeschreven door het recht van de plaats waar het rechtsmiddel wordt toegepast.
+Onverminderd [artikel 54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIV&artikel=54&z=2010-09-01&g=2010-09-01), wordt een in dit Hoofdstuk voorzien rechtsmiddel toegepast in overeenstemming met de procedure voorgeschreven door het recht van de plaats waar het rechtsmiddel wordt toegepast.
 
 ##### Artikel 15. Derogatie
 
-In hun betrekkingen met elkaar kunnen twee of meer van de in dit Hoofdstuk bedoelde partijen te allen tijde door middel van een schriftelijke overeenkomst van de voorgaande bepalingen van dit Hoofdstuk afwijken, of de rechtsgevolgen ervan wijzigen, met uitzondering van [artikel 8, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=8&z=2001-11-16&g=2001-11-16), [artikel 9, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=9&z=2001-11-16&g=2001-11-16), [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=13&z=2001-11-16&g=2001-11-16), en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=14&z=2001-11-16&g=2001-11-16).
+In hun betrekkingen met elkaar kunnen twee of meer van de in dit Hoofdstuk bedoelde partijen te allen tijde door middel van een schriftelijke overeenkomst van de voorgaande bepalingen van dit Hoofdstuk afwijken, of de rechtsgevolgen ervan wijzigen, met uitzondering van [artikel 8, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=8&z=2010-09-01&g=2010-09-01), [artikel 9, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=9&z=2010-09-01&g=2010-09-01), [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=13&z=2010-09-01&g=2010-09-01), en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=14&z=2010-09-01&g=2010-09-01).
 
 ### HOOFDSTUK IV. HET INTERNATIONALE INSCHRIJVINGSSTELSEL
 
@@ -322,7 +322,7 @@ In hun betrekkingen met elkaar kunnen twee of meer van de in dit Hoofdstuk bedoe
 
 2. Voor verschillende categorieën zaken en geassocieerde rechten kunnen verschillende internationale registers worden ingesteld.
 
-3. Voor de toepassing van dit Hoofdstuk en [Hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=V&z=2001-11-16&g=2001-11-16) omvat de term „inschrijving” mede een wijziging, uitbreiding of doorhaling van een inschrijving.
+3. Voor de toepassing van dit Hoofdstuk en [Hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=V&z=2010-09-01&g=2010-09-01) omvat de term „inschrijving” mede een wijziging, uitbreiding of doorhaling van een inschrijving.
 
 ##### Artikel 17. De Toezichthoudende Autoriteit en de Bewaarder
 
@@ -350,7 +350,7 @@ In hun betrekkingen met elkaar kunnen twee of meer van de in dit Hoofdstuk bedoe
 
 - j. brengt periodiek verslag uit aan de Verdragsluitende Staten betreffende de vervulling van haar verplichtingen krachtens dit Verdrag en het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003190).
 
-3. De Toezichthoudende Autoriteit kan alle voor de uitoefening van haar taken benodigde overeenkomsten sluiten, met inbegrip van een overeenkomst als bedoeld in [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=VI&artikel=27&z=2001-11-16&g=2001-11-16).
+3. De Toezichthoudende Autoriteit kan alle voor de uitoefening van haar taken benodigde overeenkomsten sluiten, met inbegrip van een overeenkomst als bedoeld in [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=VI&artikel=27&z=2010-09-01&g=2010-09-01).
 
 4. Aan de Toezichthoudende Autoriteit behoren alle eigendomsrechten van de gegevensbestanden en archieven van het Internationaal Register toe.
 
@@ -362,13 +362,13 @@ In hun betrekkingen met elkaar kunnen twee of meer van de in dit Hoofdstuk bedoe
 
 1. Het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003190) en het reglement omschrijven de vereisten, met inbegrip van de criteria voor de identificatie van de zaak:
 
-- a. voor het doen van een inschrijving (met inbegrip van een voorziening voor voorafgaande elektronische verzending van de ingevolge [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=V&artikel=20&z=2001-11-16&g=2001-11-16) vereiste instemming);
+- a. voor het doen van een inschrijving (met inbegrip van een voorziening voor voorafgaande elektronische verzending van de ingevolge [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=V&artikel=20&z=2010-09-01&g=2010-09-01) vereiste instemming);
 
 - b. voor het uitvoeren van raadplegingen en het afgeven van de bijbehorende verklaringen, en, onverminderd het voorafgaande,
 
 - c. voor het waarborgen van de vertrouwelijkheid van informatie en documenten van het Internationaal Register, anders dan informatie en documenten met betrekking tot een inschrijving.
 
-2. De Bewaarder is niet verplicht na te gaan of een instemming tot inschrijving krachtens [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=V&artikel=20&z=2001-11-16&g=2001-11-16) daadwerkelijk is gegeven of geldig is.
+2. De Bewaarder is niet verplicht na te gaan of een instemming tot inschrijving krachtens [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=V&artikel=20&z=2010-09-01&g=2010-09-01) daadwerkelijk is gegeven of geldig is.
 
 3. Wanneer een als toekomstig internationaal zakelijk recht ingeschreven zakelijk recht een internationaal zakelijk recht wordt, is geen verdere inschrijving vereist, mits de informatie betreffende de inschrijving voldoende is voor inschrijving van een internationaal zakelijk recht.
 
@@ -378,7 +378,7 @@ In hun betrekkingen met elkaar kunnen twee of meer van de in dit Hoofdstuk bedoe
 
 ##### Artikel 19. Geldigheid en tijdstip van inschrijving
 
-1. Een inschrijving is slechts geldig indien deze wordt gedaan in overeenstemming met [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=V&artikel=20&z=2001-11-16&g=2001-11-16).
+1. Een inschrijving is slechts geldig indien deze wordt gedaan in overeenstemming met [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=V&artikel=20&z=2010-09-01&g=2010-09-01).
 
 2. Een inschrijving is, indien deze geldig is, volledig wanneer de vereiste informatie in het gegevensbestand van het Internationaal Register is ingevoerd zodat deze raadpleegbaar is.
 
@@ -388,7 +388,7 @@ In hun betrekkingen met elkaar kunnen twee of meer van de in dit Hoofdstuk bedoe
 
 - b. de informatie betreffende de inschrijving, met inbegrip van het bestandsnummer, bij het Internationaal Register in duurzame vorm is opgeslagen en toegankelijk is.
 
-4. Indien een zakelijk recht dat eerst als toekomstig internationaal zakelijk recht is ingeschreven een internationaal zakelijk recht wordt, wordt dat internationaal zakelijk recht behandeld als zijnde ingeschreven vanaf het tijdstip van inschrijving van het toekomstig internationaal zakelijk recht, mits de inschrijving nog steeds bestond onmiddellijk voorafgaand aan de vestiging van het internationale zakelijk recht zoals bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=II&artikel=7&z=2001-11-16&g=2001-11-16).
+4. Indien een zakelijk recht dat eerst als toekomstig internationaal zakelijk recht is ingeschreven een internationaal zakelijk recht wordt, wordt dat internationaal zakelijk recht behandeld als zijnde ingeschreven vanaf het tijdstip van inschrijving van het toekomstig internationaal zakelijk recht, mits de inschrijving nog steeds bestond onmiddellijk voorafgaand aan de vestiging van het internationale zakelijk recht zoals bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=II&artikel=7&z=2010-09-01&g=2010-09-01).
 
 5. Het voorgaande lid is, met de noodzakelijke aanpassingen, van overeenkomstige toepassing op de inschrijving van een toekomstige cessie van een internationaal zakelijk recht.
 
@@ -426,7 +426,7 @@ De inschrijving van een internationaal zakelijk recht behoudt haar werking totda
 
 ##### Artikel 23. Lijst van verklaringen en van buitencontractuele rechten of zakelijke rechten
 
-De Bewaarder houdt een lijst bij van verklaringen, intrekkingen van verklaringen en van de categorieën buitencontractuele rechten of zakelijke rechten waarvan de Depositaris aan de Bewaarder heeft medegedeeld dat deze door Verdragsluitende Staten in overeenstemming met [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=X&artikel=39&z=2001-11-16&g=2001-11-16) en [40](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=X&artikel=40&z=2001-11-16&g=2001-11-16) zijn afgelegd respectievelijk gemeld, en van de datum van elke verklaring, of intrekking van een verklaring. Deze lijst wordt vastgelegd en kan worden geraadpleegd op de naam van de Staat die de verklaring heeft afgelegd en wordt, zoals in het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003190) en in het reglement bepaald, beschikbaar gesteld aan elke persoon die daarom verzoekt.
+De Bewaarder houdt een lijst bij van verklaringen, intrekkingen van verklaringen en van de categorieën buitencontractuele rechten of zakelijke rechten waarvan de Depositaris aan de Bewaarder heeft medegedeeld dat deze door Verdragsluitende Staten in overeenstemming met [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=X&artikel=39&z=2010-09-01&g=2010-09-01) en [40](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=X&artikel=40&z=2010-09-01&g=2010-09-01) zijn afgelegd respectievelijk gemeld, en van de datum van elke verklaring, of intrekking van een verklaring. Deze lijst wordt vastgelegd en kan worden geraadpleegd op de naam van de Staat die de verklaring heeft afgelegd en wordt, zoals in het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003190) en in het reglement bepaald, beschikbaar gesteld aan elke persoon die daarom verzoekt.
 
 ##### Artikel 24. Bewijskracht van getuigschriften
 
@@ -464,7 +464,7 @@ Niemand wordt de toegang ontzegd tot de inschrijvings- en raadplegingsfaciliteit
 
 4. De activa, documenten, gegevensbestanden en archieven van het Internationaal Register zijn onschendbaar en immuun voor beslaglegging of andere gerechtelijke of administratieve vervolging.
 
-5. Met het oog op vorderingen tegen de Bewaarder op grond van [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=VII&artikel=28&z=2001-11-16&g=2001-11-16), of [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XII&artikel=44&z=2001-11-16&g=2001-11-16), is de eiser bevoegd toegang te krijgen tot de informatie en documenten die benodigd zijn om het hem mogelijk te maken zijn vordering in te stellen.
+5. Met het oog op vorderingen tegen de Bewaarder op grond van [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=VII&artikel=28&z=2010-09-01&g=2010-09-01), of [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XII&artikel=44&z=2010-09-01&g=2010-09-01), is de eiser bevoegd toegang te krijgen tot de informatie en documenten die benodigd zijn om het hem mogelijk te maken zijn vordering in te stellen.
 
 6. De Toezichthoudende Autoriteit kan afstand doen van de uit hoofde van het vierde lid toegekende onschendbaarheid en immuniteit.
 
@@ -530,7 +530,7 @@ Niemand wordt de toegang ontzegd tot de inschrijvings- en raadplegingsfaciliteit
 
 ##### Artikel 31. Rechtsgevolgen van cessie
 
-1. Behoudens wanneer anders door de partijen is overeengekomen, doet een in overeenstemming met [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=IX&artikel=32&z=2001-11-16&g=2001-11-16) verrichte cessie van geassocieerde rechten tevens aan de cessionaris overgaan:
+1. Behoudens wanneer anders door de partijen is overeengekomen, doet een in overeenstemming met [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=IX&artikel=32&z=2010-09-01&g=2010-09-01) verrichte cessie van geassocieerde rechten tevens aan de cessionaris overgaan:
 
 - a. het daaraan gerelateerde internationale zakelijk recht; en
 
@@ -560,7 +560,7 @@ Niemand wordt de toegang ontzegd tot de inschrijvings- en raadplegingsfaciliteit
 
 ##### Artikel 33. Verplichtingen van de schuldenaar ten aanzien van de cessionaris
 
-1. Voor zover de geassocieerde rechten en het daaraan gerelateerde internationale zakelijk recht zijn overgegaan in overeenstemming met de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=IX&artikel=31&z=2001-11-16&g=2001-11-16) en [32](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=IX&artikel=32&z=2001-11-16&g=2001-11-16), is de schuldenaar van die rechten en de door dat zakelijk recht gedekte verplichting door de cessie gebonden en is hij verplicht de cessionaris te betalen of een andere prestatie te leveren, uitsluitend indien:
+1. Voor zover de geassocieerde rechten en het daaraan gerelateerde internationale zakelijk recht zijn overgegaan in overeenstemming met de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=IX&artikel=31&z=2010-09-01&g=2010-09-01) en [32](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=IX&artikel=32&z=2010-09-01&g=2010-09-01), is de schuldenaar van die rechten en de door dat zakelijk recht gedekte verplichting door de cessie gebonden en is hij verplicht de cessionaris te betalen of een andere prestatie te leveren, uitsluitend indien:
 
 - a. aan de schuldenaar schriftelijk kennisgeving is gedaan van de cessie door of met toestemming van de cedent; en
 
@@ -572,7 +572,7 @@ Niemand wordt de toegang ontzegd tot de inschrijvings- en raadplegingsfaciliteit
 
 ##### Artikel 34. Rechtsmiddelen bij verzuim in geval van cessie tot zekerheid
 
-Bij verzuim door de cedent in geval van cessie tot zekerheid van geassocieerde rechten en het daaraan gerelateerde internationale zakelijk recht, zijn de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=8&z=2001-11-16&g=2001-11-16), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=9&z=2001-11-16&g=2001-11-16) en 11 tot en met 14 van toepassing op de betrekkingen tussen de cedent en de cessionaris (en, met betrekking tot geassocieerde rechten, van toepassing voor zover die bepalingen op onlichamelijke goederen kunnen worden toegepast) alsof verwijzingen:
+Bij verzuim door de cedent in geval van cessie tot zekerheid van geassocieerde rechten en het daaraan gerelateerde internationale zakelijk recht, zijn de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=8&z=2010-09-01&g=2010-09-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=9&z=2010-09-01&g=2010-09-01) en 11 tot en met 14 van toepassing op de betrekkingen tussen de cedent en de cessionaris (en, met betrekking tot geassocieerde rechten, van toepassing voor zover die bepalingen op onlichamelijke goederen kunnen worden toegepast) alsof verwijzingen:
 
 - a. naar de zekergestelde verplichting en het zakelijk recht verwijzingen waren naar de verplichting die is zekergesteld door de cessie van de geassocieerde rechten en het daaraan gerelateerde internationale zakelijk recht en het door die cessie gevestigde zakelijk recht;
 
@@ -584,13 +584,13 @@ Bij verzuim door de cedent in geval van cessie tot zekerheid van geassocieerde r
 
 ##### Artikel 35. Rang van concurrerende cessies
 
-1. Indien sprake is van concurrerende cessies van geassocieerde rechten en ten minste één van de cessies het daaraan gerelateerde internationale zakelijk recht omvat en ingeschreven is, zijn de bepalingen van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=VIII&artikel=29&z=2001-11-16&g=2001-11-16) van toepassing alsof de verwijzingen naar een ingeschreven zakelijk recht verwijzingen waren naar een cessie van de geassocieerde rechten en het daaraan gerelateerde ingeschreven zakelijk recht en alsof verwijzingen naar een ingeschreven of niet ingeschreven zakelijk recht verwijzingen waren naar een ingeschreven of niet ingeschreven cessie.
+1. Indien sprake is van concurrerende cessies van geassocieerde rechten en ten minste één van de cessies het daaraan gerelateerde internationale zakelijk recht omvat en ingeschreven is, zijn de bepalingen van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=VIII&artikel=29&z=2010-09-01&g=2010-09-01) van toepassing alsof de verwijzingen naar een ingeschreven zakelijk recht verwijzingen waren naar een cessie van de geassocieerde rechten en het daaraan gerelateerde ingeschreven zakelijk recht en alsof verwijzingen naar een ingeschreven of niet ingeschreven zakelijk recht verwijzingen waren naar een ingeschreven of niet ingeschreven cessie.
 
-2. [Artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=VIII&artikel=30&z=2001-11-16&g=2001-11-16) is van toepassing op een cessie van geassocieerde rechten alsof de verwijzingen naar een internationaal zakelijk recht verwijzingen waren naar een cessie van de geassocieerde rechten en het daaraan gerelateerde internationale zakelijk recht.
+2. [Artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=VIII&artikel=30&z=2010-09-01&g=2010-09-01) is van toepassing op een cessie van geassocieerde rechten alsof de verwijzingen naar een internationaal zakelijk recht verwijzingen waren naar een cessie van de geassocieerde rechten en het daaraan gerelateerde internationale zakelijk recht.
 
 ##### Artikel 36. Rang van de cessionaris ten aanzien van geassocieerde rechten
 
-1. De cessionaris van geassocieerde rechten en het daaraan gerelateerde internationale zakelijk recht, wiens cessie is ingeschreven, heeft uitsluitend voorrang ingevolge [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=IX&artikel=35&z=2001-11-16&g=2001-11-16), op een andere cessionaris van de geassocieerde rechten:
+1. De cessionaris van geassocieerde rechten en het daaraan gerelateerde internationale zakelijk recht, wiens cessie is ingeschreven, heeft uitsluitend voorrang ingevolge [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=IX&artikel=35&z=2010-09-01&g=2010-09-01), op een andere cessionaris van de geassocieerde rechten:
 
 - a. indien het contract uit hoofde waarvan de geassocieerde rechten ontstaan, vermeldt dat deze zijn zekergesteld door of zijn geassocieerd met de zaak; en
 
@@ -612,7 +612,7 @@ Bij verzuim door de cedent in geval van cessie tot zekerheid van geassocieerde r
 
 ##### Artikel 37. Rechtsgevolgen van insolventie van de cedent
 
-De bepalingen van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=VIII&artikel=30&z=2001-11-16&g=2001-11-16) zijn op een insolventieprocedure tegen de cedent van toepassing alsof verwijzingen naar de schuldenaar verwijzingen naar de cedent waren.
+De bepalingen van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=VIII&artikel=30&z=2010-09-01&g=2010-09-01) zijn op een insolventieprocedure tegen de cedent van toepassing alsof verwijzingen naar de schuldenaar verwijzingen naar de cedent waren.
 
 ##### Artikel 38. Subrogatie
 
@@ -626,7 +626,7 @@ De bepalingen van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&h
 
 1. Een Verdragsluitende Staat kan te allen tijde in een bij de Depositaris van het Protocol neergelegde verklaring, in het algemeen of in het bijzonder, aangeven:
 
-- a. welke categorieën van buitencontractuele rechten of zakelijke rechten (anders dan de rechten of zakelijke rechten waarop [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=X&artikel=40&z=2001-11-16&g=2001-11-16) van toepassing is) ingevolge het recht van die Staat voorrang hebben boven een zakelijk recht ten aanzien van een zaak die equivalent is aan die van de houder van een ingeschreven internationaal zakelijk recht en welke categorieën voorrang hebben boven een ingeschreven internationaal zakelijk recht, al dan niet in het kader van een insolventieprocedure; en
+- a. welke categorieën van buitencontractuele rechten of zakelijke rechten (anders dan de rechten of zakelijke rechten waarop [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=X&artikel=40&z=2010-09-01&g=2010-09-01) van toepassing is) ingevolge het recht van die Staat voorrang hebben boven een zakelijk recht ten aanzien van een zaak die equivalent is aan die van de houder van een ingeschreven internationaal zakelijk recht en welke categorieën voorrang hebben boven een ingeschreven internationaal zakelijk recht, al dan niet in het kader van een insolventieprocedure; en
 
 - b. dat niets in dit Verdrag afbreuk doet aan het recht van een Staat, een entiteit van een Staat, intergouvernementele organisatie of andere private leverancier van openbare diensten een zaak krachtens het recht van die Staat in beslag te nemen of achter te houden voor betaling van aan een dergelijke entiteit, organisatie of leverancier verschuldigde bedragen, die rechtstreeks verband houden met die diensten ten aanzien van die zaak of een andere zaak.
 
@@ -650,27 +650,27 @@ Dit Verdrag is van toepassing op de verkoop of toekomstige verkoop van zaken zoa
 
 ##### Artikel 42. Keuze van de bevoegde rechter
 
-1. Onverminderd de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XII&artikel=43&z=2001-11-16&g=2001-11-16) en [44](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XII&artikel=44&z=2001-11-16&g=2001-11-16) zijn de gerechten van een Verdragsluitende Staat die door de partijen bij een transactie zijn gekozen bevoegd ten aanzien van uit hoofde van dit Verdrag ingestelde vorderingen, ongeacht of er een connectie bestaat tussen de gekozen rechter en de partijen of de transactie. Deze bevoegdheid is exclusief, tenzij de partijen anders zijn overeengekomen.
+1. Onverminderd de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XII&artikel=43&z=2010-09-01&g=2010-09-01) en [44](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XII&artikel=44&z=2010-09-01&g=2010-09-01) zijn de gerechten van een Verdragsluitende Staat die door de partijen bij een transactie zijn gekozen bevoegd ten aanzien van uit hoofde van dit Verdrag ingestelde vorderingen, ongeacht of er een connectie bestaat tussen de gekozen rechter en de partijen of de transactie. Deze bevoegdheid is exclusief, tenzij de partijen anders zijn overeengekomen.
 
 2. Een dergelijke overeenkomst is schriftelijk of anderszins gesloten in overeenstemming met de vormvereisten van het recht van de gekozen rechter.
 
-##### Artikel 43. Jurisdictie ingevolge [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=13&z=2001-11-16&g=2001-11-16)
+##### Artikel 43. Jurisdictie ingevolge [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=13&z=2010-09-01&g=2010-09-01)
 
-1. De gerechten van een Verdragsluitende Staat die door de partijen zijn gekozen en de gerechten van de Verdragsluitende Staat op het grondgebied waarvan de zaak is gelegen, zijn bevoegd om ten aanzien van die zaak redres toe te kennen krachtens [artikel 13, eerste lid, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=13&z=2001-11-16&g=2001-11-16), en [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=13&z=2001-11-16&g=2001-11-16).
+1. De gerechten van een Verdragsluitende Staat die door de partijen zijn gekozen en de gerechten van de Verdragsluitende Staat op het grondgebied waarvan de zaak is gelegen, zijn bevoegd om ten aanzien van die zaak redres toe te kennen krachtens [artikel 13, eerste lid, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=13&z=2010-09-01&g=2010-09-01), en [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=13&z=2010-09-01&g=2010-09-01).
 
-2. De bevoegdheid om redres krachtens [artikel 13, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=13&z=2001-11-16&g=2001-11-16), of ander voorlopig redres uit hoofde van [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=13&z=2001-11-16&g=2001-11-16), toe te kennen, kan worden uitgeoefend door:
+2. De bevoegdheid om redres krachtens [artikel 13, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=13&z=2010-09-01&g=2010-09-01), of ander voorlopig redres uit hoofde van [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=13&z=2010-09-01&g=2010-09-01), toe te kennen, kan worden uitgeoefend door:
 
 - a. de door de partijen gekozen gerechten; of
 
 - b. de gerechten van een Verdragsluitende Staat op wiens grondgebied de schuldenaar zich bevindt, indien het redres ingevolge de bewoordingen van het bevel dat het redres toekent, uitsluitend uitvoerbaar is op het grondgebied van die Verdragsluitende Staat.
 
-3. Een gerecht is zelfs bevoegd uit hoofde van de voorgaande leden indien de definitieve vaststelling van de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=13&z=2001-11-16&g=2001-11-16), bedoelde vordering door een gerecht van een andere Verdragsluitende Staat of door middel van arbitrage zal of kan plaatsvinden.
+3. Een gerecht is zelfs bevoegd uit hoofde van de voorgaande leden indien de definitieve vaststelling van de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=13&z=2010-09-01&g=2010-09-01), bedoelde vordering door een gerecht van een andere Verdragsluitende Staat of door middel van arbitrage zal of kan plaatsvinden.
 
 ##### Artikel 44. Bevoegdheid om bevelen uit te vaardigen tegen de Bewaarder
 
 1. De gerechten van de plaats waar de Bewaarder zijn bestuurlijk centrum heeft, hebben exclusieve bevoegdheid om de Bewaarder tot schadevergoeding te veroordelen of bevelen tegen hem uit te vaardigen.
 
-2. Indien een persoon verzuimt te voldoen aan een krachtens [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=V&artikel=25&z=2001-11-16&g=2001-11-16) gedaan verzoek en die persoon niet langer bestaat of niet kan worden gevonden met het oogmerk het mogelijk te maken een bevel tegen hem uit te vaardigen waarin van hem wordt verlangd zorg te dragen voor de doorhaling van de inschrijving, hebben de in het voorgaande lid bedoelde gerechten exclusieve bevoegdheid, op verzoek van de schuldenaar of toekomstige schuldenaar, een bevel tegen de Bewaarder uit te vaardigen waarin van hem wordt verlangd de inschrijving door te halen.
+2. Indien een persoon verzuimt te voldoen aan een krachtens [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=V&artikel=25&z=2010-09-01&g=2010-09-01) gedaan verzoek en die persoon niet langer bestaat of niet kan worden gevonden met het oogmerk het mogelijk te maken een bevel tegen hem uit te vaardigen waarin van hem wordt verlangd zorg te dragen voor de doorhaling van de inschrijving, hebben de in het voorgaande lid bedoelde gerechten exclusieve bevoegdheid, op verzoek van de schuldenaar of toekomstige schuldenaar, een bevel tegen de Bewaarder uit te vaardigen waarin van hem wordt verlangd de inschrijving door te halen.
 
 3. Indien een persoon verzuimt gevolg te geven aan een bevel van een gerecht waaraan krachtens dit Verdrag bevoegdheid toekomt of, in het geval van een nationaal zakelijk recht, een bevel van een bevoegd gerecht dat verlangt dat die persoon zorg draagt voor de wijziging of doorhaling van een inschrijving, kunnen de in het eerste lid bedoelde gerechten de Bewaarder opdragen de nodige stappen te nemen om dat bevel ten uitvoer te brengen.
 
@@ -694,7 +694,7 @@ In het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003190) kan de verhou
 
 ##### Artikel 47. Ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding
 
-1. Dit Verdrag staat open voor ondertekening te Kaapstad op 16 november 2001 door Staten die deelnemen aan de Diplomatieke Conferentie voor de aanneming van een Verdrag inzake mobiel materieel en een luchtvaartuig-Protocol, gehouden te Kaapstad van 29 oktober tot en met 16 november 2001. Na 16 november 2001 staat het Verdrag voor alle Staten open voor ondertekening op de Zetel van het Internationaal Instituut voor de Eenmaking van het Privaatrecht (Unidroit) te Rome, totdat het in werking treedt in overeenstemming met [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIV&artikel=49&z=2001-11-16&g=2001-11-16).
+1. Dit Verdrag staat open voor ondertekening te Kaapstad op 16 november 2001 door Staten die deelnemen aan de Diplomatieke Conferentie voor de aanneming van een Verdrag inzake mobiel materieel en een luchtvaartuig-Protocol, gehouden te Kaapstad van 29 oktober tot en met 16 november 2001. Na 16 november 2001 staat het Verdrag voor alle Staten open voor ondertekening op de Zetel van het Internationaal Instituut voor de Eenmaking van het Privaatrecht (Unidroit) te Rome, totdat het in werking treedt in overeenstemming met [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIV&artikel=49&z=2010-09-01&g=2010-09-01).
 
 2. Dit Verdrag is onderworpen aan bekrachtiging, aanvaarding of goedkeuring door Staten voor welke het Verdrag is ondertekend.
 
@@ -726,13 +726,13 @@ In het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003190) kan de verhou
 
 1. Een Verdragsluitende Staat kan, op het tijdstip van bekrachtiging, aanvaarding of goedkeuring van, of toetreding tot het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003190), verklaren dat dit Verdrag niet van toepassing is op een interne transactie ten opzichte van die Staat ten aanzien van alle of sommige soorten zaken.
 
-2. Niettegenstaande het voorgaande lid zijn de bepalingen van [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=8&z=2001-11-16&g=2001-11-16), [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=9&z=2001-11-16&g=2001-11-16), [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=IV&artikel=16&z=2001-11-16&g=2001-11-16), [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=V&z=2001-11-16&g=2001-11-16), [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=VIII&artikel=29&z=2001-11-16&g=2001-11-16), en alle bepalingen van dit Verdrag met betrekking tot ingeschreven zakelijke rechten van toepassing op een interne transactie.
+2. Niettegenstaande het voorgaande lid zijn de bepalingen van [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=8&z=2010-09-01&g=2010-09-01), [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=9&z=2010-09-01&g=2010-09-01), [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=IV&artikel=16&z=2010-09-01&g=2010-09-01), [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=V&z=2010-09-01&g=2010-09-01), [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=VIII&artikel=29&z=2010-09-01&g=2010-09-01), en alle bepalingen van dit Verdrag met betrekking tot ingeschreven zakelijke rechten van toepassing op een interne transactie.
 
-3. Indien een kennisgeving van een nationaal zakelijk recht in het Internationaal Register is ingeschreven, wordt de voorrang die de houder van dat zakelijk recht krachtens [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=VIII&artikel=29&z=2001-11-16&g=2001-11-16) heeft niet aangetast door het feit dat een andere persoon een dergelijke zakelijk recht is gaan houden ingevolge cessie of subrogatie krachtens het toepasselijke recht.
+3. Indien een kennisgeving van een nationaal zakelijk recht in het Internationaal Register is ingeschreven, wordt de voorrang die de houder van dat zakelijk recht krachtens [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=VIII&artikel=29&z=2010-09-01&g=2010-09-01) heeft niet aangetast door het feit dat een andere persoon een dergelijke zakelijk recht is gaan houden ingevolge cessie of subrogatie krachtens het toepasselijke recht.
 
 ##### Artikel 51. Toekomstige protocollen
 
-1. De Depositaris kan, in samenwerking met door hem daartoe geschikt geachte niet-gouvernementele organisaties, werkgroepen instellen om de haalbaarheid te beoordelen van uitbreiding van de toepassing van dit Verdrag door middel van een of meer protocollen tot zaken van ongeacht welke categorie mobiel materieel met een hoge waarde, anders dan een categorie als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=I&artikel=2&z=2001-11-16&g=2001-11-16), waarvan elk exemplaar voor individualisering vatbaar is, en tot de aan deze zaken gerelateerde geassocieerde rechten.
+1. De Depositaris kan, in samenwerking met door hem daartoe geschikt geachte niet-gouvernementele organisaties, werkgroepen instellen om de haalbaarheid te beoordelen van uitbreiding van de toepassing van dit Verdrag door middel van een of meer protocollen tot zaken van ongeacht welke categorie mobiel materieel met een hoge waarde, anders dan een categorie als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=I&artikel=2&z=2010-09-01&g=2010-09-01), waarvan elk exemplaar voor individualisering vatbaar is, en tot de aan deze zaken gerelateerde geassocieerde rechten.
 
 2. De Depositaris deelt de tekst van het voorontwerp van een Protocol met betrekking tot een categorie zaken dat door een dergelijke werkgroep is voorbereid mede aan alle Staten die Partij zijn bij dit Verdrag, aan alle lidstaten van de Depositaris, aan de lidstaten van de Verenigde Naties die geen lid zijn van de Depositaris en aan de betrokken intergouvernementele organisaties, en nodigt deze Staten en organisaties uit deel te nemen aan intergouvernementele onderhandelingen voor de voltooiing van een ontwerp-Protocol op basis van dat voorontwerp van een Protocol.
 
@@ -742,7 +742,7 @@ In het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003190) kan de verhou
 
 5. Zodra een Protocol is aangenomen is dit Verdrag, onder voorbehoud van het zesde lid, van toepassing op de categorie zaken die door het Protocol wordt bestreken.
 
-6. [Artikel 45 bis](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIII&artikel=45-bis&z=2001-11-16&g=2001-11-16) van dit Verdrag is uitsluitend op een dergelijk Protocol van toepassing indien zulks in het Protocol uitdrukkelijk wordt bepaald.
+6. [Artikel 45 bis](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIII&artikel=45-bis&z=2010-09-01&g=2010-09-01) van dit Verdrag is uitsluitend op een dergelijk Protocol van toepassing indien zulks in het Protocol uitdrukkelijk wordt bepaald.
 
 ##### Artikel 52. Territoriale eenheden
 
@@ -764,7 +764,7 @@ In het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003190) kan de verhou
 
 ##### Artikel 53. Keuze van gerechten
 
-Een Verdragsluitende Staat kan, op het tijdstip van bekrachtiging, aanvaarding of goedkeuring van, of toetreding tot het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003190), verklaren welk „gerecht” of welke „gerechten” aangewezen zijn voor de toepassing van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=I&artikel=1&z=2001-11-16&g=2001-11-16) en [hoofdstuk XII](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XII&z=2001-11-16&g=2001-11-16) van dit Verdrag.
+Een Verdragsluitende Staat kan, op het tijdstip van bekrachtiging, aanvaarding of goedkeuring van, of toetreding tot het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003190), verklaren welk „gerecht” of welke „gerechten” aangewezen zijn voor de toepassing van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=I&artikel=1&z=2010-09-01&g=2010-09-01) en [hoofdstuk XII](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XII&z=2010-09-01&g=2010-09-01) van dit Verdrag.
 
 ##### Artikel 54. Verklaringen met betrekking tot rechtsmiddelen
 
@@ -774,17 +774,17 @@ Een Verdragsluitende Staat kan, op het tijdstip van bekrachtiging, aanvaarding o
 
 ##### Artikel 55. Verklaringen met betrekking tot redres hangende definitieve vaststelling
 
-Een Verdragsluitende Staat kan, op het tijdstip van bekrachtiging, aanvaarding of goedkeuring van, of toetreding tot het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003190) verklaren dat hij de bepalingen van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=13&z=2001-11-16&g=2001-11-16) of [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XII&artikel=43&z=2001-11-16&g=2001-11-16), of beide, geheel of gedeeltelijk niet zal toepassen. In de verklaring moet worden vermeld onder welke voorwaarden het desbetreffende artikel zal worden toegepast, indien het gedeeltelijk zal worden toegepast, of anders welke andere vormen van voorlopig redres zullen worden toegepast.
+Een Verdragsluitende Staat kan, op het tijdstip van bekrachtiging, aanvaarding of goedkeuring van, of toetreding tot het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003190) verklaren dat hij de bepalingen van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III&artikel=13&z=2010-09-01&g=2010-09-01) of [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XII&artikel=43&z=2010-09-01&g=2010-09-01), of beide, geheel of gedeeltelijk niet zal toepassen. In de verklaring moet worden vermeld onder welke voorwaarden het desbetreffende artikel zal worden toegepast, indien het gedeeltelijk zal worden toegepast, of anders welke andere vormen van voorlopig redres zullen worden toegepast.
 
 ##### Artikel 56. Voorbehouden en verklaringen
 
-1. Ten aanzien van dit Verdrag kunnen geen voorbehouden worden gemaakt, maar uit hoofde van de [artikelen 39](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=X&artikel=39&z=2001-11-16&g=2001-11-16), [40](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=X&artikel=40&z=2001-11-16&g=2001-11-16), [50](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIV&artikel=50&z=2001-11-16&g=2001-11-16), [52](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIV&artikel=52&z=2001-11-16&g=2001-11-16), [53](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIV&artikel=53&z=2001-11-16&g=2001-11-16), [54](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIV&artikel=54&z=2001-11-16&g=2001-11-16), [55](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIV&artikel=55&z=2001-11-16&g=2001-11-16), [57](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIV&artikel=57&z=2001-11-16&g=2001-11-16), [58](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIV&artikel=58&z=2001-11-16&g=2001-11-16) en [60](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIV&artikel=60&z=2001-11-16&g=2001-11-16) toegestane verklaringen kunnen in overeenstemming met deze artikelen worden afgelegd.
+1. Ten aanzien van dit Verdrag kunnen geen voorbehouden worden gemaakt, maar uit hoofde van de [artikelen 39](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=X&artikel=39&z=2010-09-01&g=2010-09-01), [40](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=X&artikel=40&z=2010-09-01&g=2010-09-01), [50](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIV&artikel=50&z=2010-09-01&g=2010-09-01), [52](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIV&artikel=52&z=2010-09-01&g=2010-09-01), [53](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIV&artikel=53&z=2010-09-01&g=2010-09-01), [54](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIV&artikel=54&z=2010-09-01&g=2010-09-01), [55](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIV&artikel=55&z=2010-09-01&g=2010-09-01), [57](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIV&artikel=57&z=2010-09-01&g=2010-09-01), [58](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIV&artikel=58&z=2010-09-01&g=2010-09-01) en [60](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIV&artikel=60&z=2010-09-01&g=2010-09-01) toegestane verklaringen kunnen in overeenstemming met deze artikelen worden afgelegd.
 
 2. Van elke verklaring of latere verklaring of elke intrekking van een verklaring ingevolge dit Verdrag wordt schriftelijke kennisgeving aan de Depositaris gedaan.
 
 ##### Artikel 57. Latere verklaringen
 
-1. Een Staat die Partij is kan te allen tijde na de datum waarop dit Verdrag voor hem in werking is getreden door middel van een daartoe aan de Depositaris gerichte kennisgeving een latere verklaring afleggen, anders dan een uit hoofde van [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIV&artikel=60&z=2001-11-16&g=2001-11-16) toegestane verklaring.
+1. Een Staat die Partij is kan te allen tijde na de datum waarop dit Verdrag voor hem in werking is getreden door middel van een daartoe aan de Depositaris gerichte kennisgeving een latere verklaring afleggen, anders dan een uit hoofde van [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIV&artikel=60&z=2010-09-01&g=2010-09-01) toegestane verklaring.
 
 2. Later afgelegde verklaringen worden van kracht op de eerste dag van de maand volgend op het verstrijken van zes maanden na de datum van ontvangst van de kennisgeving door de Depositaris. Indien in de kennisgeving een langer tijdvak voor het van kracht worden van die verklaring is vermeld, wordt de verklaring van kracht na het verstrijken van dit langere tijdvak na de ontvangst van de kennisgeving door de Depositaris.
 
@@ -792,7 +792,7 @@ Een Verdragsluitende Staat kan, op het tijdstip van bekrachtiging, aanvaarding o
 
 ##### Artikel 58. Intrekking van verklaringen
 
-1. Elke Staat die Partij is en die een verklaring uit hoofde van dit Verdrag heeft afgelegd, anders dan een uit hoofde van [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIV&artikel=60&z=2001-11-16&g=2001-11-16) toegestane verklaring, kan deze verklaring te allen tijde intrekken door middel van een kennisgeving aan de Depositaris. Deze intrekking wordt van kracht op de eerste dag van de maand volgend op het verstrijken van zes maanden na de datum van ontvangst van de kennisgeving door de Depositaris.
+1. Elke Staat die Partij is en die een verklaring uit hoofde van dit Verdrag heeft afgelegd, anders dan een uit hoofde van [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIV&artikel=60&z=2010-09-01&g=2010-09-01) toegestane verklaring, kan deze verklaring te allen tijde intrekken door middel van een kennisgeving aan de Depositaris. Deze intrekking wordt van kracht op de eerste dag van de maand volgend op het verstrijken van zes maanden na de datum van ontvangst van de kennisgeving door de Depositaris.
 
 2. Niettegenstaande het voorgaande lid blijft dit Verdrag ten aanzien van alle rechten en zakelijke rechten die voor de datum van het van kracht worden van die intrekking zijn ontstaan, van toepassing alsof de verklaring niet was ingetrokken.
 
@@ -808,7 +808,7 @@ Een Verdragsluitende Staat kan, op het tijdstip van bekrachtiging, aanvaarding o
 
 1. Tenzij op enig tijdstip door een Verdragsluitende Staat anders wordt verklaard, is dit Verdrag niet van toepassing op reeds bestaande rechten of zakelijke rechten, die de voorrang behouden die zij krachtens het toepasselijke recht genoten voor de datum van inwerkingtreding van dit Verdrag.
 
-2. Voor de toepassing van [artikel 1, onderdeel v](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=I&artikel=1&z=2001-11-16&g=2001-11-16), en voor de vaststelling van voorrang ingevolge dit Verdrag:
+2. Voor de toepassing van [artikel 1, onderdeel v](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=I&artikel=1&z=2010-09-01&g=2010-09-01), en voor de vaststelling van voorrang ingevolge dit Verdrag:
 
 - a. wordt verstaan onder „datum van inwerkingtreding van dit Verdrag”, in relatie tot een schuldenaar, het tijdstip waarop dit Verdrag in werking treedt of het tijdstip wanneer de Staat waarin de schuldenaar zich bevindt een Verdragsluitende Staat wordt, naar gelang welke datum later valt; en
 
@@ -830,7 +830,7 @@ Een Verdragsluitende Staat kan, op het tijdstip van bekrachtiging, aanvaarding o
 
 - d. de vraag of het wenselijk is wijzigingen aan te brengen in dit Verdrag of in de regelingen inzake het Internationaal Register.
 
-3. Onverminderd het vierde lid wordt een wijziging van dit Verdrag goedgekeurd met een meerderheid van ten minste tweederde van de Staten die Partij zijn en die aan de in het voorgaande lid bedoelde Conferentie deelnemen, en treedt deze vervolgens in werking ten aanzien van de Staten die de wijziging hebben bekrachtigd, aanvaard of goedgekeurd indien deze, in overeenstemming met de bepalingen van [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIV&artikel=49&z=2001-11-16&g=2001-11-16) inzake zijn inwerkingtreding, door drie Staten is bekrachtigd, aanvaard of goedgekeurd.
+3. Onverminderd het vierde lid wordt een wijziging van dit Verdrag goedgekeurd met een meerderheid van ten minste tweederde van de Staten die Partij zijn en die aan de in het voorgaande lid bedoelde Conferentie deelnemen, en treedt deze vervolgens in werking ten aanzien van de Staten die de wijziging hebben bekrachtigd, aanvaard of goedgekeurd indien deze, in overeenstemming met de bepalingen van [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIV&artikel=49&z=2010-09-01&g=2010-09-01) inzake zijn inwerkingtreding, door drie Staten is bekrachtigd, aanvaard of goedgekeurd.
 
 4. Indien de voorgestelde wijziging van dit Verdrag is bedoeld van toepassing te zijn op meer dan een categorie materieel, dient de wijziging eveneens te worden goedgekeurd door een meerderheid van ten minste tweederde van de Staten die Partij zijn bij elk Protocol en die aan de in het tweede lid bedoelde Conferentie deelnemen.
 
