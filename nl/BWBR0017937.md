@@ -4,7 +4,7 @@ identifier: "BWBR0017937"
 country: "nl"
 rank: "amvb"
 publication_date: "2010-09-01"
-last_updated: "2005-02-09"
+last_updated: "2010-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017937"
 soort: "AMvB"
@@ -47,7 +47,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Op de vice-president, de staatsraden en de staatsraden in buitengewone dienst, bedoeld in [artikel 4, derde lid, van de Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&artikel=4), zijn van toepassing [hoofdstuk 3, met uitzondering van de artikelen 30 en 31, van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3), betrekking hebbende op de regels inzake arbeidsgezondheidskundige begeleiding en voorzieningen in verband met ziekte en arbeidsongeschiktheid die van toepassing zijn op voor het leven benoemde rechterlijke ambtenaren en het [Besluit bovenwettelijke uitkeringen bij werkloosheid van rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0011826), met dien verstande dat wordt gelezen voor:
+Op de vice-president, de leden van de Raad van State en de staatsraden, zijn van toepassing [hoofdstuk 3, met uitzondering van de artikelen 30 en 31, van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3), betrekking hebbende op de regels inzake arbeidsgezondheidskundige begeleiding en voorzieningen in verband met ziekte en arbeidsongeschiktheid die van toepassing zijn op voor het leven benoemde rechterlijke ambtenaren en het [Besluit bovenwettelijke uitkeringen bij werkloosheid van rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0011826), met dien verstande dat wordt gelezen voor:
 
 - a. «Onze Minister»: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
