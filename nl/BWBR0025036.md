@@ -4,7 +4,7 @@ identifier: "BWBR0025036"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2010-01-01"
+last_updated: "2010-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025036"
 soort: "AMvB"
@@ -146,9 +146,9 @@ Uitingen anders dan reclame- of winkelboodschappen zijn onvermijdbaar, als het u
 
 ##### Artikel 10
 
-1. Onverminderd [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=9&z=2010-01-01&g=2010-01-01) mag media-aanbod van informatieve of educatieve aard vermijdbare uitingen in de vorm van het tonen of vermelden van namen of (beeld)merken van bepaalde producten of diensten of van namen van bedrijven of instellingen bevatten. Op deze uitingen is [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=9&z=2010-01-01&g=2010-01-01), van overeenkomstige toepassing.
+1. Onverminderd [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=9&z=2010-01-01&g=2010-09-01) mag media-aanbod van informatieve of educatieve aard vermijdbare uitingen in de vorm van het tonen of vermelden van namen of (beeld)merken van bepaalde producten of diensten of van namen van bedrijven of instellingen bevatten. Op deze uitingen is [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=9&z=2010-01-01&g=2010-09-01), van overeenkomstige toepassing.
 
-2. In afwijking van [artikel 9, eerste lid, aanhef en onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=9&z=2010-01-01&g=2010-01-01), mag media-aanbod van informatieve of educatieve aard vermijdbare uitingen bevatten die bestaan uit het aankondigen en recenseren van boeken, video’s, compact discs en soortgelijke culturele uitingen, alsmede van toneel-, muziek- en filmuitvoeringen, tentoonstellingen en soortgelijke evenementen van kunstzinnige aard.
+2. In afwijking van [artikel 9, eerste lid, aanhef en onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=9&z=2010-01-01&g=2010-09-01), mag media-aanbod van informatieve of educatieve aard vermijdbare uitingen bevatten die bestaan uit het aankondigen en recenseren van boeken, video’s, compact discs en soortgelijke culturele uitingen, alsmede van toneel-, muziek- en filmuitvoeringen, tentoonstellingen en soortgelijke evenementen van kunstzinnige aard.
 
 ##### Artikel 11
 
@@ -200,7 +200,7 @@ In media-aanbod zijn vermijdbare uitingen in de vorm van het tonen of vermelden 
 
 2. Uit het buitenland aangekocht media-aanbod dat ten behoeve van het buitenlandse publiek als zodanig is verspreid, mag vermijdbare uitingen bevatten die bestaan uit het tonen of vermelden van namen, (beeld-)merken, producten of diensten van personen, bedrijven of instellingen, als die uitingen in het media-aanbod voorkomen in dezelfde vorm en in ten hoogste dezelfde hoeveelheid als in de ten behoeve van het buitenlandse publiek verspreide inhoud van het media-aanbod.
 
-#### § 3. Nederlands- en Friestalige producties
+#### § 2. Onvermijdbare en vermijdbare uitingen
 
 ##### Artikel 15
 
@@ -296,11 +296,11 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 24
 
-Het Commissariaat kan zonodig de omroepzender of omroepzenders aanwijzen die voor de omroepdienst bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=5&paragraaf=2&artikel=23&z=2010-01-01&g=2010-01-01), wordt gebruikt.
+Het Commissariaat kan zonodig de omroepzender of omroepzenders aanwijzen die voor de omroepdienst bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=5&paragraaf=2&artikel=23&z=2010-01-01&g=2010-09-01), wordt gebruikt.
 
 ##### Artikel 25
 
-1. Een aanvraag voor de toestemming bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=5&paragraaf=2&artikel=23&z=2010-01-01&g=2010-01-01) wordt ingediend bij Onze Minister van Defensie, die deze voorzien van zijn opmerkingen binnen vier weken doorzendt aan het Commissariaat. Het Commissariaat zendt een afschrift van de aanvraag aan Onze Minister van Economische Zaken.
+1. Een aanvraag voor de toestemming bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=5&paragraaf=2&artikel=23&z=2010-01-01&g=2010-09-01) wordt ingediend bij Onze Minister van Defensie, die deze voorzien van zijn opmerkingen binnen vier weken doorzendt aan het Commissariaat. Het Commissariaat zendt een afschrift van de aanvraag aan Onze Minister van Economische Zaken.
 
 2. De aanvraag gaat vergezeld van:
 
@@ -308,7 +308,7 @@ Het Commissariaat kan zonodig de omroepzender of omroepzenders aanwijzen die voo
 
 - b. een aanduiding van het gebied waarbinnen de omroepdienst zal worden verspreid;
 
-- c. een verklaring van de auteursrechthebbenden aan de autoriteiten van de desbetreffende Navo-lidstaat waaruit blijkt dat geen auteursrechtelijke toestemming zal worden verleend voor de verspreiding van de mediadienst buiten de in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=5&paragraaf=2&artikel=23&z=2010-01-01&g=2010-01-01) omschreven doelgroep en het aangeduide gebied; en
+- c. een verklaring van de auteursrechthebbenden aan de autoriteiten van de desbetreffende Navo-lidstaat waaruit blijkt dat geen auteursrechtelijke toestemming zal worden verleend voor de verspreiding van de mediadienst buiten de in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=5&paragraaf=2&artikel=23&z=2010-01-01&g=2010-09-01) omschreven doelgroep en het aangeduide gebied; en
 
 - d. een omschrijving van de te gebruiken omroepzender.
 
@@ -316,23 +316,23 @@ Het Commissariaat kan zonodig de omroepzender of omroepzenders aanwijzen die voo
 
 1. Het Commissariaat trekt de toestemming in:
 
-- a. als niet meer wordt voldaan aan de voorwaarden van [artikel 23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=5&paragraaf=2&artikel=23&z=2010-01-01&g=2010-01-01); of
+- a. als niet meer wordt voldaan aan de voorwaarden van [artikel 23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=5&paragraaf=2&artikel=23&z=2010-01-01&g=2010-09-01); of
 
 - b. op gronden ontleend aan de veiligheid van de staat.
 
-2. Het Commissariaat kan de toestemming intrekken als niet wordt voldaan aan [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=5&paragraaf=2&artikel=23&z=2010-01-01&g=2010-01-01).
+2. Het Commissariaat kan de toestemming intrekken als niet wordt voldaan aan [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=5&paragraaf=2&artikel=23&z=2010-01-01&g=2010-09-01).
 
 3. Het Commissariaat maakt zijn voornemen tot intrekking van de toestemming kenbaar aan Onze Minister van Defensie en Onze Minister van Economische Zaken.
 
 ##### Artikel 27
 
-1. Een beschikking tot intrekking van een verleende toestemming op grond van [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=5&paragraaf=2&artikel=26&z=2010-01-01&g=2010-01-01), gaat onmiddellijk in.
+1. Een beschikking tot intrekking van een verleende toestemming op grond van [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=5&paragraaf=2&artikel=26&z=2010-01-01&g=2010-09-01), gaat onmiddellijk in.
 
-2. Een beschikking tot intrekking van een verleende toestemming op grond van [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=5&paragraaf=2&artikel=26&z=2010-01-01&g=2010-01-01), gaat niet eerder in dan nadat de bevoegde militaire autoriteit van het voornemen daartoe en de gronden waarop de beschikking berust in kennis is gesteld en deze in de gelegenheid is gesteld binnen een redelijke termijn schriftelijke en desgewenst mondelinge opmerkingen te maken.
+2. Een beschikking tot intrekking van een verleende toestemming op grond van [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=5&paragraaf=2&artikel=26&z=2010-01-01&g=2010-09-01), gaat niet eerder in dan nadat de bevoegde militaire autoriteit van het voornemen daartoe en de gronden waarop de beschikking berust in kennis is gesteld en deze in de gelegenheid is gesteld binnen een redelijke termijn schriftelijke en desgewenst mondelinge opmerkingen te maken.
 
 ##### Artikel 28
 
-1. De bevoegde militaire autoriteit gebruikt de aan hem verleende toestemming geheel voor de omroepdienst, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=5&paragraaf=2&artikel=23&z=2010-01-01&g=2010-01-01).
+1. De bevoegde militaire autoriteit gebruikt de aan hem verleende toestemming geheel voor de omroepdienst, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=5&paragraaf=2&artikel=23&z=2010-01-01&g=2010-09-01).
 
 2. Aan het begin en aan het eind van het dagelijks verzorgde programma-aanbod wordt vermeld dat het verzorgde programma-aanbod uitsluitend bestemd is voor de in Nederland gelegerde militairen van de strijdkrachten van de desbetreffende Navo-lidstaat en hun gezinnen.
 
@@ -356,7 +356,7 @@ Bij ministeriële regeling kunnen regels worden gesteld over:
 
 - g. de intrekking, wijziging en terugvordering van subsidies.
 
-### Hoofdstuk 7. Slotbepalingen
+### Hoofdstuk 5. Gebruik frequentieruimte en omroepdiensten voor buitenlandse militairen
 
 ##### Artikel 30
 
@@ -376,13 +376,13 @@ De [regeling van de Minister van Welzijn, Volksgezondheid en Cultuur van 17 febr
 
 ##### Artikel 34
 
-Na inwerkingtreding van dit besluit berust [artikel 8 van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=8) op [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=5&paragraaf=1&artikel=22&z=2010-01-01&g=2010-01-01), van dit besluit.
+Na inwerkingtreding van dit besluit berust [artikel 8 van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=8) op [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=5&paragraaf=1&artikel=22&z=2010-01-01&g=2010-09-01), van dit besluit.
 
 ##### Artikel 35
 
-1. Voor zover ter zake van het besluit en de regeling, bedoeld in de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=7&artikel=31&z=2010-01-01&g=2010-01-01) en [32](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=7&artikel=32&z=2010-01-01&g=2010-01-01), nog sprake is van bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze overeenkomstig het besluit en de regeling, bedoeld in de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=7&artikel=31&z=2010-01-01&g=2010-01-01) en [32](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=7&artikel=32&z=2010-01-01&g=2010-01-01), plaats.
+1. Voor zover ter zake van het besluit en de regeling, bedoeld in de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=7&artikel=31&z=2010-01-01&g=2010-09-01) en [32](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=7&artikel=32&z=2010-01-01&g=2010-09-01), nog sprake is van bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze overeenkomstig het besluit en de regeling, bedoeld in de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=7&artikel=31&z=2010-01-01&g=2010-09-01) en [32](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=7&artikel=32&z=2010-01-01&g=2010-09-01), plaats.
 
-2. Bestaande aanspraken en verplichtingen op grond van het besluit en de regeling, bedoeld in de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=7&artikel=31&z=2010-01-01&g=2010-01-01) en [32](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=7&artikel=32&z=2010-01-01&g=2010-01-01), blijven in stand.
+2. Bestaande aanspraken en verplichtingen op grond van het besluit en de regeling, bedoeld in de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=7&artikel=31&z=2010-01-01&g=2010-09-01) en [32](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=7&artikel=32&z=2010-01-01&g=2010-09-01), blijven in stand.
 
 ##### Artikel 36
 
@@ -416,7 +416,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 14a
 
-Bij regeling van het Commissariaat kan worden bepaald dat in andere gevallen dan die bedoeld in de [artikelen 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=9&z=2010-01-01&g=2010-01-01) vermijdbare uitingen in het media-aanbod zijn toegestaan, voor zover het betreft uitingen in het kader van:
+Bij regeling van het Commissariaat kan worden bepaald dat in andere gevallen dan die bedoeld in de [artikelen 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=9&z=2010-01-01&g=2010-09-01) vermijdbare uitingen in het media-aanbod zijn toegestaan, voor zover het betreft uitingen in het kader van:
 
 - a. zelfpromotie;
 
@@ -492,7 +492,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - b. de voorgenomen experimenten in het komende kalenderjaar.
 
-2. [Artikel 1a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=1a&z=2010-01-01&g=2010-01-01), is van overeenkomstige toepassing.
+2. [Artikel 1a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=1a&z=2010-01-01&g=2010-09-01), is van overeenkomstige toepassing.
 
 ##### Artikel 1c
 
@@ -550,7 +550,107 @@ Omroepverenigingen die een erkenning of een voorlopige erkenning als bedoeld in 
 
 ### **Cultuur**
 
+### **Evenementenlijst**
+
+### A. **Volledige rechtstreekse verslaggeving**
+
+### **Sport**
+
+### **Cultuur**
+
 ### B. **Gedeeltelijke rechtstreekse verslaggeving**
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+#### § 4. Evaluatiecriteria
+
+##### Artikel 3a
+
+In deze paragraaf worden onder evaluatie en evaluatiecommissie verstaan de evaluatie onderscheidenlijk de evaluatiecommissie, bedoeld in [artikel 2.186, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.186).
+
+##### Artikel 3b
+
+1. Bij de evaluatie van elke afzonderlijke landelijke publieke media-instelling betrekt de evaluatiecommissie de wijze waarop deze instelling heeft bijgedragen aan de uitvoering van de publieke mediaopdracht door het aanbieden van media-aanbod dat:
+
+- a. evenwichtig, pluriform, gevarieerd en kwalitatief hoogstaand is en zich tevens kenmerkt door een grote verscheidenheid naar vorm en inhoud;
+
+- b. op evenwichtige wijze een beeld van de samenleving geeft en de pluriformiteit van onder de bevolking levende overtuigingen, opvattingen en interesses op maatschappelijk, cultureel en levensbeschouwelijk gebied weerspiegelt;
+
+- c. gericht is op en een relevant bereik heeft onder zowel een breed en algemeen publiek als bevolkings- en leeftijdgroepen van verschillende omvang en samenstelling met in het bijzonder aandacht voor kleine doelgroepen;
+
+- d. onafhankelijk is van commerciële invloeden en, behoudens het bepaalde bij of krachtens de wet, van overheidsinvloeden;
+
+- e. voldoet aan hoge journalistieke en professionele kwaliteitseisen; en
+
+- f. voor iedereen toegankelijk is.
+
+2. Bij de evaluatie van elke afzonderlijke landelijke publieke media-instelling betrekt de evaluatiecommissie voorts de wijze waarop deze instelling heeft bijgedragen aan het volgen en stimuleren van technologische ontwikkelingen en het benutten van de mogelijkheden om media-aanbod aan het publiek aan te bieden via nieuwe media- en verspreidingstechnieken.
+
+3. Bij de evaluatie, bedoeld in het eerste en tweede lid, betrekt de evaluatiecommissie de wijze waarop deze instelling heeft bijgedragen aan realisering van doelstellingen voor het media-aanbod en het publieksbereik van het concessiebeleidsplan, bedoeld in [artikel 2.20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.20), en van de prestatieovereenkomst, bedoeld in [artikel 2.22 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.22).
+
+##### Artikel 3c
+
+1. Bij de evaluatie van een omroepvereniging die een erkenning als bedoeld in [artikel 2.24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.24) heeft verkregen, betrekt de evaluatiecommissie voorts:
+
+- a. de wijze waarop de missie en de identiteit van de omroepvereniging zijn geformuleerd en uitgewerkt in doelstellingen voor het media-aanbod en het publieksbereik; en
+
+- b. de mate waarin de omroepvereniging in onderdeel a bedoelde doelstellingen heeft gerealiseerd.
+
+2. Bij de evaluatie van een omroepvereniging die een voorlopige erkenning als bedoeld in [artikel 2.24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.24) heeft verkregen, betrekt de evaluatiecommissie voorts:
+
+- a. de criteria, bedoeld in het eerste lid; en
+
+- b. de mate waarin deze instelling heeft voldaan aan de eis om zich naar stroming en naar voorgenomen media-aanbod wat betreft genre, inhoud en doelgroepen zodanig te onderscheiden van de erkende omroepverenigingen dat de verscheidenheid van het media-aanbod van de landelijke publieke mediadienst is vergroot en een vernieuwende bijdrage is geleverd aan de uitvoering van de publieke mediaopdracht op landelijke niveau.
+
+3. Bij de evaluatie van de educatieve media-instelling die een erkenning als bedoeld in [artikel 2.28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.28) heeft verkregen, betrekt de evaluatiecommissie voorts:
+
+- a. de wijze waarop deze instelling heeft voorzien in een breed en samenhangend educatief media-aanbod op het gebied van onderwijs, scholing en vorming; en
+
+- b. de mate waarin deze instelling eigen doelstellingen voor media-aanbod en publieksbereik heeft gerealiseerd.
+
+4. Bij de evaluatie van de NOS en de NPS betrekt de evaluatiecommissie voorts:
+
+- a. de wijze waarop deze instellingen de taken, bedoeld in [artikel 2.34a, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.34a) onderscheidenlijk [artikel 2.35, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.35), en in het bijzonder de taken, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=2&afdeling=1&paragraaf=2&artikel=2&z=2010-11-04&g=2010-09-01) onderscheidenlijk [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=2&afdeling=1&paragraaf=3&artikel=3&z=2010-11-04&g=2010-09-01), hebben uitgevoerd;
+
+- b. de mate waarin deze instellingen eigen doelstellingen voor media-aanbod en publieksbereik hebben gerealiseerd; en
+
+- c. de wijze waarop deze instellingen zorg dragen voor interne pluriformiteit van hun media-aanbod als bedoeld in [artikel 2.34d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.34d) onderscheidenlijk [artikel 2.37a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.37a).
+
+5. Bij de evaluatie van een kerkgenootschap of een genootschap op geestelijke grondslag als bedoeld in [artikel 2.42 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.42) betrekt de evaluatiecommissie voorts:
+
+- a. de wijze waarop de kerkelijke of geestelijke identiteit van deze instelling is geformuleerd en uitgewerkt in doelstellingen van media-aanbod en publieksbereik; en
+
+- b. de mate waarin deze instelling de in onderdeel a bedoelde doelstellingen heeft gerealiseerd.
+
+### Afdeling 2. Regionale en lokale publieke mediadiensten
+
+#### § 1. Media-aanbod
+
+### Afdeling 3. Nadere voorschriften media-aanbod publieke mediadiensten
+
+#### § 1. Reclame en telewinkelen
+
+#### § 3. Nederlandstalige producties
+
+### Afdeling 4. Nevenactiviteiten
+
+### Afdeling 5. Bekostiging publieke mediadiensten
+
+### Hoofdstuk 3. Commerciële omroep
+
+### Hoofdstuk 4. Evenementen van aanzienlijk belang voor de samenleving
+
+#### § 1. Gebruik frequentieruimte
+
+#### § 2. Omroepdiensten voor buitenlandse militairen
+
+### Hoofdstuk 6. Subsidieverstrekking ten behoeve van persorganen
+
+### Hoofdstuk 6a. Invoering [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028)
+
+### Hoofdstuk 7. Slotbepalingen
+
+## Bijlage. behorende bij het Mediabesluit 2008
 
 ### **Sport**
 
