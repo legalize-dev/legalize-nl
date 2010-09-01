@@ -4,7 +4,7 @@ identifier: "BWBR0006328"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "1996-01-15"
+last_updated: "2010-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006328"
 soort: "wet"
@@ -134,9 +134,7 @@ De bezoldiging van de staatsraden die op de datum voor de inwerkingtreding van d
 
 ##### Artikel IIA
 
-1. Voor de toepassing van [artikel 29, tweede lid, van de Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&artikel=29) worden de staatsraden en de staatsraden in buitengewone dienst die voor de inwerkingtreding van deze wet als zodanig waren benoemd en die niet voldoen aan de in dat lid bedoelde vereisten, gelijkgesteld met de staatsraden en de staatsraden in buitengewone dienst die daaraan wel voldoen.
-
-2. Het eerste lid is niet van toepassing ten aanzien van degene die het ambt van voorzitter van de Afdeling bestuursrechtspraak van de Raad van State vervult.
+Vervallen
 
 ##### Artikel III
 
