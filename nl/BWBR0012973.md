@@ -4,7 +4,7 @@ identifier: "BWBR0012973"
 country: "nl"
 rank: "amvb"
 publication_date: "2010-09-01"
-last_updated: "2001-12-15"
+last_updated: "2010-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012973"
 soort: "AMvB"
@@ -48,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Het afsluitend examen, bedoeld in [artikel 29, tweede lid, van de Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&artikel=29), is zodanig samengesteld dat ten minste grondige kennis van en inzicht in drie van de vijf volgende rechtsgebieden is verkregen:
+1. Het afsluitend examen, bedoeld in [artikel 2, vierde lid, van de Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&artikel=2), is zodanig samengesteld dat ten minste grondige kennis van en inzicht in drie van de vijf volgende rechtsgebieden is verkregen:
 
 a. burgerlijk recht, met inbegrip van burgerlijk procesrecht;
 
