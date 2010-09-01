@@ -4,7 +4,7 @@ identifier: "BWBR0021915"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2009-12-07"
+last_updated: "2010-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021915"
 soort: "ministeriele-regeling"
@@ -98,31 +98,31 @@ De Minister van Volksgezondheid, Welzijn en Sport houdt een openbaar register bi
 
 2. De retributie voor het in behandeling nemen van een aanvraag bedraagt:
 
-- a. € 371,36 voor een vergunning voor het gebruik van een tatoeagemachine;
+- a. € 381,40 voor een vergunning voor het gebruik van een tatoeagemachine;
 
-- b. € 324,94 voor een vergunning voor het gebruik van pigmenteerpen;
+- b. € 333,73 voor een vergunning voor het gebruik van pigmenteerpen;
 
-- c. € 371,36 voor het gebruik van ander tatoeagemateriaal als bedoeld onder a en b;
+- c. € 381,40 voor het gebruik van ander tatoeagemateriaal als bedoeld onder a en b;
 
-- d. € 185,68 voor een vergunning voor het gebruik van piercingmateriaal ten behoeve van het aanbrengen van een piercing in het vlakke gedeelte van het kraakbeen van het oor of de neusvleugel;
+- d. € 190,70 voor een vergunning voor het gebruik van piercingmateriaal ten behoeve van het aanbrengen van een piercing in het vlakke gedeelte van het kraakbeen van het oor of de neusvleugel;
 
-- e. € 371,36 voor een vergunning voor het gebruik van een naald ten behoeve van het aanbrengen van een piercing;
+- e. € 381,40 voor een vergunning voor het gebruik van een naald ten behoeve van het aanbrengen van een piercing;
 
-- f. € 464,20, indien:
+- f. € 476,75, indien:
 
 - –. de aanvraag betrekking heeft op twee of meer vormen van gebruik van tatoeage- of piercingmateriaal als bedoeld in de onderdelen a tot en met e, en
 
 - –. die vormen van gebruik betrekking hebben op dezelfde ruimte.
 
-3. De retributie wordt vermeerderd met € 23,21 voor elk kwartier of gedeelte van een kwartier die de toezichthouder besteedt om te reizen, teneinde het onderzoek, bedoeld in [artikel 4, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&artikel=4), in te stellen.
+3. De retributie wordt vermeerderd met € 23,84 voor elk kwartier of gedeelte van een kwartier die de toezichthouder besteedt om te reizen, teneinde het onderzoek, bedoeld in [artikel 4, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&artikel=4), in te stellen.
 
-4. Indien het onderzoek, bedoeld in [artikel 4, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&artikel=4), in overleg met de aanvrager op een later tijdstip wordt voortgezet, wordt de retributie verhoogd met een bedrag van € 23,21 voor elk kwartier of gedeelte van een kwartier:
+4. Indien het onderzoek, bedoeld in [artikel 4, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&artikel=4), in overleg met de aanvrager op een later tijdstip wordt voortgezet, wordt de retributie verhoogd met een bedrag van € 23,84 voor elk kwartier of gedeelte van een kwartier:
 
 - a. dat de voortzetting duurt, en
 
 - b. voor de reistijd die nodig is om het onderzoek te kunnen voortzetten.
 
-5. De retributie wordt verminderd met een bedrag van € 92,85, indien:
+5. De retributie wordt verminderd met een bedrag van € 95,36, indien:
 
 - a. de aanvrager op het moment van aanvraag voor een andere ruimte dan waarop de aanvraag is gericht beschikt over een vergunning voor gelijksoortige activiteiten;
 
