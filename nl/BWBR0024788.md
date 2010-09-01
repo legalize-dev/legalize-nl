@@ -4,7 +4,7 @@ identifier: "BWBR0024788"
 country: "nl"
 rank: "wet"
 publication_date: "2024-07-01"
-last_updated: "2010-03-10"
+last_updated: "2010-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024788"
 soort: "wet"
@@ -49,25 +49,25 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. De bezoldiging van de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State wordt bepaald op € 9691,95 per maand.
 
-3. De bezoldiging van de overige staatsraden, de overige leden in gewone dienst van de Algemene Rekenkamer en de substituut-ombudsmannen wordt bepaald op € 9098,26 per maand.
+3. De bezoldiging van de overige leden van de Raad van State, de overige leden in gewone dienst van de Algemene Rekenkamer en de substituut-ombudsmannen wordt bepaald op € 9098,26 per maand.
 
-4. De staatsraden in buitengewone dienst, bedoeld in [artikel 4, derde lid, van de Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&artikel=4), ontvangen een zodanig deel van de in het derde lid bedoelde bezoldiging als overeenkomt met de vastgestelde omvang van de te verrichten taak.
+4. De staatsraden ontvangen een zodanig deel van de in het derde lid bedoelde bezoldiging als overeenkomt met de vastgestelde omvang van de te verrichten taak.
 
 5. De bezoldiging vangt aan met de dag van indiensttreding. De bezoldiging eindigt in ieder geval met ingang van de dag na het overlijden.
 
-6. Na het overlijden van de vice-president van de Raad van State, de president van de Algemene Rekenkamer, de Nationale ombudsman, de staatsraden en de staatsraden in buitengewone dienst, bedoeld in [artikel 4, derde lid, van de Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&artikel=4), de overige leden van de Algemene Rekenkamer of de substituut-ombudsmannen wordt een uitkering verstrekt op de voet van de regeling hieromtrent voor het personeel werkzaam bij de sector Rijk.
+6. Na het overlijden van de vice-president van de Raad van State, de president van de Algemene Rekenkamer, de Nationale ombudsman, de leden van de Raad van State en de staatsraden, de overige leden van de Algemene Rekenkamer of de substituut-ombudsmannen wordt een uitkering verstrekt op de voet van de regeling hieromtrent voor het personeel werkzaam bij de sector Rijk.
 
 7. Indien de bezoldiging van het personeel werkzaam bij de sector Rijk wijziging ondergaat, en wordt bepaald dat die wijziging een algemeen karakter draagt, worden de in het eerste, tweede en derde lid genoemde bedragen bij ministeriële regeling overeenkomstig gewijzigd.
 
 ##### Artikel 2
 
-1. De staatsraden in buitengewone dienst, bedoeld in [artikel 4, vierde lid, van de Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&artikel=4) en de leden in buitengewone dienst van de Algemene Rekenkamer ontvangen voor het deelnemen aan de werkzaamheden van de Raad van State onderscheidenlijk de Algemene Rekenkamer een bij algemene maatregel van bestuur te regelen vergoeding.
+1. De staatsraden in buitengewone dienst en de leden in buitengewone dienst van de Algemene Rekenkamer ontvangen voor het deelnemen aan de werkzaamheden van de Raad van State onderscheidenlijk de Algemene Rekenkamer een bij algemene maatregel van bestuur te regelen vergoeding.
 
 2. De reis- en verblijfkosten van de in het eerste lid genoemde functionarissen worden vergoed op de voet van de regeling hieromtrent voor het personeel werkzaam bij de sector Rijk.
 
 ##### Artikel 3
 
-1. De vice-president van de Raad van State, de president van de Algemene Rekenkamer, de Nationale ombudsman, de staatsraden en de staatsraden in buitengewone dienst, bedoeld in [artikel 4, derde lid, van de Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&artikel=4), de overige leden in gewone dienst van de Algemene Rekenkamer en de substituut-ombudsmannen ontvangen op de voet van de regeling die hieromtrent geldt voor het personeel werkzaam bij de sector Rijk een ambtsjubileumgratificatie, een vakantie-uitkering en een eindejaarsuitkering.
+1. De vice-president van de Raad van State, de president van de Algemene Rekenkamer, de Nationale ombudsman, de leden van de Raad van State en de staatsraden, de overige leden in gewone dienst van de Algemene Rekenkamer en de substituut-ombudsmannen ontvangen op de voet van de regeling die hieromtrent geldt voor het personeel werkzaam bij de sector Rijk een ambtsjubileumgratificatie, een vakantie-uitkering en een eindejaarsuitkering.
 
 2. Bij algemene maatregel van bestuur worden regels gesteld ten aanzien van:
 
@@ -79,7 +79,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 4
 
-1. De vice-president van de Raad van State kan een staatsraad en een staatsraad in buitengewone dienst als bedoeld in [artikel 4, derde lid, van de Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&artikel=4) op diens verzoek gedurende een bepaalde periode ontheffen van de waarneming van zijn ambt.
+1. De vice-president van de Raad van State kan een lid van de Raad van State en een staatsraad op diens verzoek gedurende een bepaalde periode ontheffen van de waarneming van zijn ambt.
 
 2. De bezoldiging blijft gedurende de periode van de ontheffing van de waarneming van zijn ambt achterwege.
 
