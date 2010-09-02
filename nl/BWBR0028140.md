@@ -4,7 +4,7 @@ identifier: "BWBR0028140"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-03-22"
-last_updated: "2010-08-10"
+last_updated: "2010-09-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028140"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ De Commissie heeft tot taak onderzoek te doen naar:
 
 1. De Commissie bestaat uit een voorzitter en ten hoogste zeven andere leden.
 
-2. De leden van de Commissie worden benoemd op grond van de deskundigheid die nodig is voor een goede vervulling van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028140&artikel=3&z=2010-09-02&g=2010-08-10) genoemde taken.
+2. De leden van de Commissie worden benoemd op grond van de deskundigheid die nodig is voor een goede vervulling van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028140&artikel=3&z=2010-09-02&g=2010-09-02) genoemde taken.
 
 3. De leden van de Commissie worden op eigen aanvraag door de Ministers tussentijds ontslagen.
 
