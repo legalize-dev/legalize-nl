@@ -4,7 +4,7 @@ identifier: "BWBR0020672"
 country: "nl"
 rank: "zbo"
 publication_date: "2018-10-13"
-last_updated: "2007-01-01"
+last_updated: "2010-09-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020672"
 soort: "zbo"
@@ -50,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - c. centraal register: een bij een kredietinstelling of een bijkantoor van een kredietinstelling als bedoeld in [artikel 11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=11) op één centrale plaats toegankelijk register;
 
-- d. cliënt: een cliënt als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Wet identificatie bij dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0006330&artikel=1);
+- d. een cliënt als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1);
 
 - e. transactieverwerking: het uitvoeren van opdrachten of betaalopdrachten ten gunste of ten laste van een rekening.
 
@@ -68,9 +68,9 @@ Deze regeling heeft betrekking op in Nederland bestaande en nog open te stellen 
 
 ##### Artikel 4
 
-1. Onverminderd de op de kredietinstelling of bijkantoor van de kredietinstelling als bedoeld in [artikel 11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=11) rustende verplichtingen op grond van de [Wet identificatie bij dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0006330) houden financiële ondernemingen bij het gebruik van afgeschermde rekeningen een centraal register aan.
+1. Onverminderd de op de kredietinstelling of bijkantoor van de kredietinstelling als bedoeld in [artikel 11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=11) rustende verplichtingen op grond van de [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282) houden financiële ondernemingen bij het gebruik van afgeschermde rekeningen een centraal register aan.
 
-2. Het centrale register omvat ten minste de gegevens die op grond van [artikel 6 van de Wet identificatie bij dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0006330&artikel=6) worden vastgelegd.
+2. Het centrale register omvat ten minste de gegevens die op grond van [artikel 33 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=33) worden vastgelegd.
 
 3. Het centrale register verschaft ten minste op naam en nummer- of codesleutel toegang.
 
