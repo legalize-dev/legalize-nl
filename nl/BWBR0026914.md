@@ -4,7 +4,7 @@ identifier: "BWBR0026914"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-05-04"
-last_updated: "2010-08-28"
+last_updated: "2010-09-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026914"
 soort: "ministeriele-regeling"
@@ -115,6 +115,7 @@ Besluit:
 | 3.10 | Subsidieregeling sterktes in innovatie (HTAS doorbraakprojecten) | 6.2 |   | 01-02 t/m 01-10 | 4.000.000 |
 | 3.11 | Subsidieregeling sterktes in innovatie (HTAS-internationale innovatieprojecten) | 6.9 |   | 01-02 t/m 10-09 | 3.000.000 |
 | 3.12 | Subsidieregeling sterktes in innovatie ( HTAS-EVT-projecten) | 6.18 |   | 01-01 t/m 01-02 | 14.700.000 |
+|   |   |   |   | datum van inwerkingtreding van de Regeling tweede tender HTAS-EVT 2010 t/m 8-10 | 3.500.000 |
 | 3.13 | Subsidieregeling sterktes in innovatie (InnoWATOR-projecten) | 7.2 |   | 01-03 t/m 28-05 | 4.000.000 |
 | 3.14 | Subsidieregeling sterktes in innovatie (Internationale InnoWATOR-projecten) | 7.11 |   | 08-02 t/m 29-10 | 2.000.000 |
 | 3.15 | Subsidieregeling sterktes in innovatie (InnoWATOR garantiefaciliteit) | 7.20 |   | 08-02 t/m 29-10 | 2.000.000 |
