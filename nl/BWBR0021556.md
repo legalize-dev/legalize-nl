@@ -4,7 +4,7 @@ identifier: "BWBR0021556"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2009-03-05"
+last_updated: "2010-09-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021556"
 soort: "ministeriele-regeling"
@@ -79,5 +79,11 @@ Deze regeling wordt aangehaald als: Sanctieregeling Libanon en Syrië 2007.
 ##### Artikel 5
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3a
+
+De bevoegde autoriteit, bedoeld in artikel 3 van Verordening (EU) nr. 1412/2006 is, wat betreft de technische bijstand, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021556&artikel=3&z=2010-09-15&g=2010-09-15), de Minister van Economische Zaken en wat betreft de financiering en de financiële bijstand, bedoeld in artikel 3, de Minister van Financiën.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
