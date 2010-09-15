@@ -4,7 +4,7 @@ identifier: "BWBR0029324"
 country: "nl"
 rank: "wet"
 publication_date: "2011-07-01"
-last_updated: "2010-04-01"
+last_updated: "2010-09-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029324"
 soort: "wet"
@@ -170,7 +170,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXIVA
 
-Dit onderdeel is nog niet inwerking getreden
+De termijn van vier jaar, genoemd in [artikel 32, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=32), wordt voor in de kalenderjaren 2006 tot en met 2009 op de voet van een spaarloonregeling als bedoeld in die bepaling gespaard loon vervangen door een termijn die eindigt op 15 september 2010.
 
 ##### Artikel XXV
 
