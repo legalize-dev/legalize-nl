@@ -4,7 +4,7 @@ identifier: "BWBV0001417"
 country: "nl"
 rank: "verdrag"
 publication_date: "2019-04-01"
-last_updated: "2007-01-01"
+last_updated: "2010-09-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001417"
 soort: "verdrag"
@@ -2918,11 +2918,13 @@ Om te bepalen of een product een product van oorsprong is, behoeft niet te worde
 
 6. Het verbod in lid 1 is niet van toepassing indien de producten worden beschouwd als van oorsprong uit de Gemeenschap of Jordanië zonder toepassing van cumulatie met materialen van oorsprong uit een van de andere in de artikelen 3 en 4 genoemde landen.
 
-7. In afwijking van lid 1 mag Jordanië, behalve voor producten die zijn ingedeeld onder de hoofdstukken 1 tot en met 24 van het geharmoniseerd systeem, regelingen toepassen voor de vrijstelling of teruggave van douanerechten en heffingen van gelijke werking die van toepassing zijn op niet van oorsprong zijnde materialen die gebruikt zijn bij de vervaardiging van producten van oorsprong, op voorwaarde dat:
+7. Niettegenstaande lid 1 mag Jordanië, behalve voor producten die zijn ingedeeld onder de hoofdstukken 1 tot en met 24 van het geharmoniseerd systeem, regelingen toepassen voor de teruggave of vrijstelling van douanerechten of heffingen van gelijke werking die van toepassing zijn op niet van oorsprong zijnde materialen die gebruikt zijn bij de vervaardiging van producten van oorsprong, op voorwaarde dat:
 
-- a. een douanerecht van 5%, of een lager recht indien dit in Jordanië van toepassing is, wordt geheven op producten die onder de hoofdstukken 25 tot en met 49 en 64 tot en met 97 van het geharmoniseerd systeem zijn ingedeeld;
+- a). een douanerecht van 4 %, of een lager recht indien dit in Jordanië van toepassing is, wordt geheven op producten die onder de hoofdstukken 25 tot en met 49 en 64 tot en met 97 van het geharmoniseerd systeem zijn ingedeeld;
 
-- b. een douanerecht van 10%, of een lager recht indien dit in Jordanië van toepassing is, wordt geheven op producten die onder de hoofdstukken 50 tot en met 63 van het geharmoniseerd systeem zijn ingedeeld. Dit lid is tot en met 31 december 2009 van toepassing en kan in onderling overleg worden herzien.
+- b). een douanerecht van 8 %, of een lager recht indien dit in Jordanië van toepassing is, wordt geheven op producten die onder de hoofdstukken 50 tot en met 63 van het geharmoniseerd systeem zijn ingedeeld.
+
+Dit lid is tot en met 31 december 2012 van toepassing en kan in onderling overleg worden herzien.
 
 ## TITEL V. BEWIJS VAN OORSPRONG
 
