@@ -4,7 +4,7 @@ identifier: "BWBR0002154"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2024-01-01"
-last_updated: "1998-10-09"
+last_updated: "2010-09-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002154"
 soort: "rijkswet"
@@ -81,13 +81,13 @@ De Kroon van het Koninkrijk wordt erfelijk gedragen door Hare Majesteit Juliana,
 
 2. Andere onderwerpen kunnen in gemeen overleg tot aangelegenheden van het Koninkrijk worden verklaard.
 
-[Artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=5&artikel=55&z=1998-10-09&g=1998-10-09) is daarbij van overeenkomstige toepassing.
+[Artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=5&artikel=55&z=2010-09-16&g=2010-09-16) is daarbij van overeenkomstige toepassing.
 
 ##### Artikel 4
 
 1. De koninklijke macht wordt in aangelegenheden van het Koninkrijk uitgeoefend door de Koning als hoofd van het Koninkrijk.
 
-2. De wetgevende macht wordt in aangelegenheden van het Koninkrijk uitgeoefend door de wetgever van het Koninkrijk. Bij voorstellen van rijkswet vindt de behandeling plaats met inachtneming van de [artikelen 15 t/m 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=15&z=1998-10-09&g=1998-10-09).
+2. De wetgevende macht wordt in aangelegenheden van het Koninkrijk uitgeoefend door de wetgever van het Koninkrijk. Bij voorstellen van rijkswet vindt de behandeling plaats met inachtneming van de [artikelen 15 t/m 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=15&z=2010-09-16&g=2010-09-16).
 
 ##### Artikel 5
 
@@ -95,7 +95,7 @@ De Kroon van het Koninkrijk wordt erfelijk gedragen door Hare Majesteit Juliana,
 
 2. De [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) neemt de bepalingen van het Statuut in acht.
 
-3. Op een voorstel tot verandering in de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840), houdende bepalingen betreffende aangelegenheden van het Koninkrijk, alsmede op het ontwerp van wet, dat er grond bestaat een zodanig voorstel in overweging te nemen, zijn de [artikelen 15 t/m 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=15&z=1998-10-09&g=1998-10-09) van toepassing.
+3. Op een voorstel tot verandering in de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840), houdende bepalingen betreffende aangelegenheden van het Koninkrijk, alsmede op het ontwerp van wet, dat er grond bestaat een zodanig voorstel in overweging te nemen, zijn de [artikelen 15 t/m 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=15&z=2010-09-16&g=2010-09-16) van toepassing.
 
 #### § 2. De behartiging van de aangelegenheden van het Koninkrijk
 
@@ -139,7 +139,7 @@ Hetgeen in dit Statuut is bepaald voor de Gevolmachtigde Minister, is van overee
 
 3. Ten aanzien van de buitenlandse betrekkingen wordt aangenomen, dat buitenlandse betrekkingen, wanneer belangen van de Nederlandse Antillen, onderscheidenlijk van Aruba in het bijzonder daarbij betrokken zijn, dan wel wanneer de voorziening daarin gewichtige gevolgen voor deze belangen kan hebben, de Nederlandse Antillen, onderscheidenlijk Aruba raken.
 
-4. De vaststelling van de bijdrage in de kosten, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=35&z=1998-10-09&g=1998-10-09), raakt de Nederlandse Antillen, onderscheidenlijk Aruba.
+4. De vaststelling van de bijdrage in de kosten, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=35&z=2010-09-16&g=2010-09-16), raakt de Nederlandse Antillen, onderscheidenlijk Aruba.
 
 5. Voorstellen tot naturalisatie worden geacht de Nederlandse Antillen en Aruba slechts te raken, indien het personen betreft, die woonachtig zijn in het betrokken land.
 
@@ -153,7 +153,7 @@ Hetgeen in dit Statuut is bepaald voor de Gevolmachtigde Minister, is van overee
 
 3. Het hiervoren bedoeld overleg geschiedt tussen de minister-president, twee ministers, de Gevolmachtigde Minister en een door de betrokken regering aan te wijzen minister of bijzonder gemachtigde.
 
-4. Wensen beide Gevolmachtigde Ministers aan het voortgezette overleg deel te nemen, dan geschiedt dit overleg tussen de minister-president, twee ministers en de beide Gevolmachtigde Ministers. Het [tweede lid van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=10&z=1998-10-09&g=1998-10-09) is van overeenkomstige toepassing.
+4. Wensen beide Gevolmachtigde Ministers aan het voortgezette overleg deel te nemen, dan geschiedt dit overleg tussen de minister-president, twee ministers en de beide Gevolmachtigde Ministers. Het [tweede lid van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=10&z=2010-09-16&g=2010-09-16) is van overeenkomstige toepassing.
 
 5. De raad van ministers oordeelt overeenkomstig de uitkomst van het voortgezette overleg. Wordt van de gelegenheid tot het plegen van voortgezet overleg niet binnen de bepaalde termijn gebruik gemaakt, dan bepaalt de raad van ministers zijn oordeel.
 
@@ -165,7 +165,7 @@ Hetgeen in dit Statuut is bepaald voor de Gevolmachtigde Minister, is van overee
 
 Zijn ontslag geschiedt na overleg met deze regering.
 
-3. De staatsraad voor de Nederlandse Antillen, onderscheidenlijk voor Aruba, neemt deel aan de werkzaamheden van de Raad van State ingeval de Raad of een afdeling van de Raad wordt gehoord over ontwerpen van rijkswetten en algemene maatregelen van rijksbestuur, die in de Nederlandse Antillen, onderscheidenlijk Aruba, zullen gelden, of over andere aangelegenheden, die overeenkomstig [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=11&z=1998-10-09&g=1998-10-09) de Nederlandse Antillen, onderscheidenlijk Aruba raken.
+3. De staatsraad voor de Nederlandse Antillen, onderscheidenlijk voor Aruba, neemt deel aan de werkzaamheden van de Raad van State ingeval de Raad of een afdeling van de Raad wordt gehoord over ontwerpen van rijkswetten en algemene maatregelen van rijksbestuur, die in de Nederlandse Antillen, onderscheidenlijk Aruba, zullen gelden, of over andere aangelegenheden, die overeenkomstig [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=11&z=2010-09-16&g=2010-09-16) de Nederlandse Antillen, onderscheidenlijk Aruba raken.
 
 4. Bij algemene maatregel van rijksbestuur kunnen ten opzichte van genoemde staatsraden voorschriften worden vastgesteld, welke afwijken van de bepalingen van de [Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367).
 
@@ -211,15 +211,15 @@ Het vertegenwoordigende lichaam van het land, waarin de regeling zal gelden, is 
 
 ##### Artikel 19
 
-De [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=17&z=1998-10-09&g=1998-10-09) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=18&z=1998-10-09&g=1998-10-09) zijn voor de behandeling in de verenigde vergadering van de Staten-Generaal van overeenkomstige toepassing.
+De [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=17&z=2010-09-16&g=2010-09-16) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=18&z=2010-09-16&g=2010-09-16) zijn voor de behandeling in de verenigde vergadering van de Staten-Generaal van overeenkomstige toepassing.
 
 ##### Artikel 20
 
-Bij rijkswet kunnen nadere regels worden gesteld ten aanzien van het bepaalde in de [artikelen 15 t/m 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=15&z=1998-10-09&g=1998-10-09).
+Bij rijkswet kunnen nadere regels worden gesteld ten aanzien van het bepaalde in de [artikelen 15 t/m 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=15&z=2010-09-16&g=2010-09-16).
 
 ##### Artikel 21
 
-Indien, na gepleegd overleg met de Gevolmachtigde Ministers van de Nederlandse Antillen en Aruba, in geval van oorlog of in andere bijzondere gevallen, waarin onverwijld moet worden gehandeld, het naar het oordeel van de Koning onmogelijk is het resultaat van het in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=16&z=1998-10-09&g=1998-10-09) bedoelde onderzoek af te wachten, kan van de bepaling van dat artikel worden afgeweken.
+Indien, na gepleegd overleg met de Gevolmachtigde Ministers van de Nederlandse Antillen en Aruba, in geval van oorlog of in andere bijzondere gevallen, waarin onverwijld moet worden gehandeld, het naar het oordeel van de Koning onmogelijk is het resultaat van het in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=16&z=2010-09-16&g=2010-09-16) bedoelde onderzoek af te wachten, kan van de bepaling van dat artikel worden afgeweken.
 
 ##### Artikel 22
 
@@ -255,7 +255,7 @@ Indien de regering van de Nederlandse Antillen, onderscheidenlijk van Aruba, de 
 
 ##### Artikel 27
 
-De Nederlandse Antillen, onderscheidenlijk Aruba worden betrokken in de voorbereiding van overeenkomsten met andere mogendheden, welke hen overeenkomstig [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=11&z=1998-10-09&g=1998-10-09) raken. Zij worden tevens betrokken in de uitvoering van overeenkomsten, die hen aldus raken en voor hen verbindend zijn.
+De Nederlandse Antillen, onderscheidenlijk Aruba worden betrokken in de voorbereiding van overeenkomsten met andere mogendheden, welke hen overeenkomstig [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=11&z=2010-09-16&g=2010-09-16) raken. Zij worden tevens betrokken in de uitvoering van overeenkomsten, die hen aldus raken en voor hen verbindend zijn.
 
 ##### Artikel 28
 
@@ -305,7 +305,7 @@ In de strijdkrachten voor de verdediging van de Nederlandse Antillen, onderschei
 
 2. De in het eerste lid bedoelde bijdrage van de Nederlandse Antillen, onderscheidenlijk van Aruba, wordt door de raad van ministers voor een begrotingsjaar of enige achtereenvolgende begrotingsjaren vastgesteld.
 
-[Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=12&z=1998-10-09&g=1998-10-09) is van overeenkomstige toepassing, met dien verstande, dat beslissingen worden genomen met eenparigheid van stemmen.
+[Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=12&z=2010-09-16&g=2010-09-16) is van overeenkomstige toepassing, met dien verstande, dat beslissingen worden genomen met eenparigheid van stemmen.
 
 3. Indien de in het tweede lid bedoelde vaststelling niet tijdig plaats heeft, geldt in afwachting daarvan voor de duur van ten hoogste een begrotingsjaar de overeenkomstig dat lid voor het laatste begrotingsjaar vastgestelde bijdrage.
 
@@ -415,7 +415,7 @@ Wijzigingen in de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) be
 
 - d. de artikelen, betrekking hebbende op de rechtspraak,
 
-worden - onverminderd het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=1&artikel=5&z=1998-10-09&g=1998-10-09) - geacht in de zin van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=10&z=1998-10-09&g=1998-10-09) de Nederlandse Antillen en Aruba te raken.
+worden - onverminderd het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=1&artikel=5&z=2010-09-16&g=2010-09-16) - geacht in de zin van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=10&z=2010-09-16&g=2010-09-16) de Nederlandse Antillen en Aruba te raken.
 
 ##### Artikel 46
 
@@ -491,15 +491,15 @@ Wetten en algemene maatregelen van bestuur, die in de Nederlandse Antillen gelde
 
 ##### Artikel 59
 
-1. Binnen zes maanden nadat de Staten van Aruba het in [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=5&artikel=58&z=1998-10-09&g=1998-10-09) genoemde voorstel hebben goedgekeurd wordt een bij landsverordening geregeld referendum gehouden, waarbij de kiesgerechtigden voor de Staten zich kunnen uitspreken over het goedgekeurde voorstel.
+1. Binnen zes maanden nadat de Staten van Aruba het in [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=5&artikel=58&z=2010-09-16&g=2010-09-16) genoemde voorstel hebben goedgekeurd wordt een bij landsverordening geregeld referendum gehouden, waarbij de kiesgerechtigden voor de Staten zich kunnen uitspreken over het goedgekeurde voorstel.
 
 2. Het goedgekeurde voorstel wordt niet als landsverordening vastgesteld dan nadat bij het referendum een meerderheid van het aantal kiesgerechtigden voor het voorstel heeft gestemd.
 
 ##### Artikel 60
 
-1. Na vaststelling van de landsverordening overeenkomstig de [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=5&artikel=58&z=1998-10-09&g=1998-10-09) en [59](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=5&artikel=59&z=1998-10-09&g=1998-10-09) en goedkeuring van de toekomstige constitutie door de Staten van Aruba met een meerderheid van ten minste twee derden van de stemmen van het aantal zitting hebbende leden wordt overeenkomstig het gevoelen van de regering van Aruba bij koninklijk besluit het tijdstip van beëindiging van de in het Statuut neergelegde rechtsorde ten aanzien van Aruba bepaald.
+1. Na vaststelling van de landsverordening overeenkomstig de [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=5&artikel=58&z=2010-09-16&g=2010-09-16) en [59](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=5&artikel=59&z=2010-09-16&g=2010-09-16) en goedkeuring van de toekomstige constitutie door de Staten van Aruba met een meerderheid van ten minste twee derden van de stemmen van het aantal zitting hebbende leden wordt overeenkomstig het gevoelen van de regering van Aruba bij koninklijk besluit het tijdstip van beëindiging van de in het Statuut neergelegde rechtsorde ten aanzien van Aruba bepaald.
 
-2. Dit tijdstip ligt ten hoogste een maand na de datum van vaststelling van de constitutie. Deze vaststelling vindt plaats ten hoogste een jaar na de datum van het in [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=5&artikel=59&z=1998-10-09&g=1998-10-09) bedoelde referendum.
+2. Dit tijdstip ligt ten hoogste een maand na de datum van vaststelling van de constitutie. Deze vaststelling vindt plaats ten hoogste een jaar na de datum van het in [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=5&artikel=59&z=2010-09-16&g=2010-09-16) bedoelde referendum.
 
 ##### Artikel 61
 
@@ -512,3 +512,45 @@ Dit besluit wordt genomen met twee derden der uitgebrachte stemmen. Wordt deze m
 ##### Artikel 62
 
 Vervallen.
+
+##### Artikel 12a
+
+Dit onderdeel is nog niet inwerking getreden
+
+#### § 3. Onderlinge bijstand, overleg en samenwerking
+
+##### Artikel 38a
+
+Dit onderdeel is nog niet inwerking getreden
+
+#### § 4. De staatsinrichting van de landen
+
+#### § 5. Overgangs- en slotbepalingen
+
+##### Artikel 57a
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 60a
+
+1. De door de eilandsraden van Curaçao en Sint Maarten bij eilandsverordening vastgestelde ontwerpen voor een Staatsregeling van Curaçao, onderscheidenlijk van Sint Maarten, verkrijgen op het tijdstip van inwerkingtreding van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) en [II van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=II) de staat van Staatsregeling van Curaçao, onderscheidenlijk van Sint Maarten, indien:
+
+- a. het gevoelen van de regering van het Koninkrijk is ingewonnen voordat het ontwerp aan de betrokken eilandsraad is aangeboden, onderscheidenlijk voordat een initiatiefontwerp door de betrokken eilandsraad in onderzoek is genomen
+
+- b. het ontwerp door de betrokken eilandsraad met ten minste twee derden van de uitgebrachte stemmen is aanvaard en
+
+- c. de regering van het Koninkrijk met het door de betrokken eilandsraad vastgestelde ontwerp heeft ingestemd.
+
+2. Indien een ontwerp door een eilandsraad is aanvaard met een kleinere meerderheid dan twee derden van de uitgebrachte stemmen, dan wordt voldaan aan de voorwaarde genoemd in het eerste lid, onder **b**, indien de eilandsraad na de stemming over het ontwerp is ontbonden en het ontwerp met een volstrekte meerderheid van de uitgebrachte stemmen is aanvaard door de in verband met die ontbinding nieuw gekozen eilandsraad.
+
+3. Indien een ontwerp door een eilandsraad is aanvaard met een kleinere meerderheid dan twee derden van de uitgebrachte stemmen en de betrokken eilandsraad niet is ontbonden, dan wordt die eilandsraad door de gezaghebber ontbonden. Het besluit tot ontbinding behelst de uitschrijving van de verkiezing van een nieuwe eilandsraad binnen twee maanden en de eerste samenkomst van de nieuwe eilandsraad binnen drie maanden na de datum van het besluit tot ontbinding. Indien de nieuw gekozen eilandsraad het ontwerp aanvaardt met een volstrekte meerderheid van de uitgebrachte stemmen, wordt voldaan aan de voorwaarde genoemd onder **b** van het eerste lid.
+
+##### Artikel 60b
+
+1. De door de eilandsraden van Curaçao en Sint Maarten bij eilandsverordening vastgestelde ontwerp-landsverordeningen van Curaçao, onderscheidenlijk Sint Maarten, verkrijgen op het tijdstip van inwerkingtreding van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) en [II van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=II) de staat van landsverordeningen van het land Curaçao, onderscheidenlijk Sint Maarten.
+
+2. De door het Bestuurscollege van Curaçao of Sint Maarten bij eilandsbesluit of eilandsbesluit, houdende algemene maatregelen, vastgestelde ontwerp-landsbesluiten onderscheidenlijk ontwerp-landsbesluiten, houdende algemene maatregelen van Curaçao, onderscheidenlijk Sint Maarten, verkrijgen op het tijdstip van inwerkingtreding van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) en [II van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=II) de staat van landsbesluit, onderscheidenlijk landsbesluit, houdende algemene maatregelen van Curaçao, onderscheidenlijk Sint Maarten.
+
+##### Artikel 60c
+
+De Bestuurscolleges van Curaçao en Sint Maarten kunnen met elkaar en één of meer regeringen van de landen van het Koninkrijk ontwerp-onderlinge regelingen treffen die de staat van onderlinge regeling in de zin van [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=3&artikel=38&z=2010-09-16&g=2010-09-16), krijgen op het tijdstip van inwerkingtreding van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) en [II van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=II).
