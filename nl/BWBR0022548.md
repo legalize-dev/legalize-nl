@@ -4,7 +4,7 @@ identifier: "BWBR0022548"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-10-19"
-last_updated: "2010-03-13"
+last_updated: "2010-09-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022548"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - b. voorzitter: de voorzitter van het Avt;
 
-- c. DJI: de Dienst Justitiële Inrichtingen, bedoeld in [artikel 30 van de organisatieregeling Ministerie van Justitie 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018331&artikel=30);
+- c. DJI: de Dienst Justitiële Inrichtingen, bedoeld in [artikel 2, onderdeel d, onder 5](https://wetten.overheid.nl/jci1.3:c:BWBR0022607&artikel=2) en [artikel 37 van de Organisatieregeling Ministerie van Justitie 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022607&artikel=37);
 
 - d. Minister: de Minister van Justitie.
 
@@ -56,29 +56,25 @@ In dit besluit wordt verstaan onder:
 
 - –. tenminste negen forensisch psychiaters en psychologen,
 
-- –. drie juristen en
+- –. ten minste drie juristen en
 
 - –. tenminste één wetenschappelijk adviseur op het gebied van risicotaxatie.
 
-2. De benoeming van de negen forensische psychiaters en psychologen, die plaats zullen nemen in het Adviescollege Verloftoetsing tbs zal geschieden op basis van de volgende voordracht:
+2. De benoeming van de forensische psychiaters en psychologen, die plaats zullen nemen in het Adviescollegeverloftoetsing tbs zal geschieden op basis van de volgende voordracht:
 
-- 1. drie leden vanuit het Nederlands Instituut voor Psychiatrie en Psychologie (NIFP);
+- –. ten minste drie leden vanuit het Nederlands Instituut voor Psychiatrie en Psychologie (NIFP);
 
-- 2. drie leden vanuit de Forensisch Psychiatrische Centra (FPC’s);
+- –. ten minste drie leden vanuit de Forensisch Psychiatrische Centra (FPC’s);
 
-- 3. drie leden vanuit de forensische psychiatrie, niet werkzaam binnen de FPC’s (via GGZ Nederland).
+- –. ten minste drie leden vanuit de forensische psychiatrie, niet werkzaam binnen de FPC’s (via GGZ Nederland).
 
-3. De voorzitter deelt het Avt in drie commissies in, bestaande elk uit drie forensisch psychiaters en/of psychologen, met als voorzitter een van de juristen. De commissies betrekken desgewenst de wetenschappelijk adviseur bij de advisering.
+3. De voorzitter deelt het Avt in commissies in, bestaande elk uit drie forensisch psychiaters en/of psychologen, met als voorzitter een van de juristen. De commissies betrekken desgewenst de wetenschappelijk adviseur bij de advisering.
 
 4. De voorzitter en de leden van het Avt worden benoemd door de Minister voor een periode van drie jaar. Herbenoeming is eenmaal mogelijk.
 
-5. Wanneer leden van het Avt vervangen moeten worden, brengt het aan de Minister voordrachten uit voor de benoeming van de nieuwe leden.
+5. Wanneer leden van het Avt vervangen moeten worden, brengt het aan de Minister voordrachten uit voor de benoeming van de nieuwe leden. De Minister benoemt de leden na kennisneming van de voordracht.
 
-6. De Minister benoemt de leden na kennisneming van de voordracht.
-
-Van de leden van het college die de eerste maal worden benoemd, worden er in het totaal tenminste vijf, zo veel mogelijk in evenredigheid van het aantal leden van de verschillende disciplines, voor een periode van drie jaar benoemd. De leden die voor drie jaar zijn benoemd, kunnen eenmaal voor twee jaar worden herbenoemd.
-
-7. In het Avt kunnen plaatsvervangend leden worden benoemd voor een periode van drie jaar. Een volgende termijn als plaatsvervangend lid is niet mogelijk. Het vijfde en zesde lid zijn van overeenkomstige toepassing.
+6. In het Avt kunnen plaatsvervangende leden worden benoemd voor een periode van drie jaar. Een volgende termijn als plaatsvervangend lid is niet mogelijk. Het vijfde lid is van overeenkomstige toepassing.
 
 ##### Artikel 3. Ontslag
 
