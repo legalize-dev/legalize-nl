@@ -4,7 +4,7 @@ identifier: "BWBR0028277"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2010-09-01"
+last_updated: "2010-09-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028277"
 soort: "ministeriele-regeling"
@@ -128,7 +128,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 6
 
-1. De kosten van de Stichting Uitvoering Omslagregelingen, waaronder zijn begrepen de kosten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028277&artikel=3&z=2010-09-18&g=2010-09-01), [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028277&artikel=4&z=2010-09-18&g=2010-09-01) en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028277&artikel=5&z=2010-09-18&g=2010-09-01), worden ten laste gebracht van de financiële voorziening voor de (uitvoering van de) wachtgeldregeling.
+1. De kosten van de Stichting Uitvoering Omslagregelingen, waaronder zijn begrepen de kosten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028277&artikel=3&z=2010-09-18&g=2010-09-18), [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028277&artikel=4&z=2010-09-18&g=2010-09-18) en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028277&artikel=5&z=2010-09-18&g=2010-09-18), worden ten laste gebracht van de financiële voorziening voor de (uitvoering van de) wachtgeldregeling.
 
 2. De rentebaten over de financiële voorziening voor de wachtgeldregeling en de uitvoering ervan worden tot deze voorziening gerekend.
 
