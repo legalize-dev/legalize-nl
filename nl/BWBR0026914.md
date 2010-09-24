@@ -4,7 +4,7 @@ identifier: "BWBR0026914"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-05-04"
-last_updated: "2010-09-04"
+last_updated: "2010-09-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026914"
 soort: "ministeriele-regeling"
@@ -74,6 +74,7 @@ Besluit:
 | 2.4 | Subsidieregeling innoveren (innovatieprestatiecontracten) | 4.3 |   | 11-01 t/m 31-12 | 1.000.000 |
 | 2.4a | Subsidieregeling innoveren (innovatieprestatiecontracten) | 4.9b |   | Datum inwerkingtreding artikel 4.9b t/m 31-12 | 700.000 |
 | 2.5 | Subsidieregeling innoveren (innovatieprestatiecontracten) | 4.10 |   | 11-01 t/m 31-12 | 18.300.000 |
+| 2.5a | Subsidieregeling innoveren (innovatieprestatiecontracten) | 4.10 | Een IPC-verband dat voor meer dan 50% bestaat uit IPC-deelnemers met de SBI-code 41 en 43 | 27-09 t/m 31-12 | 5.900.000 |
 | 2.6 | Subsidieregeling innoveren (innovatievouchers) | 5.2 | Aantal beschikbare grote vouchers | 23-2 t/m 31-12 | 3143 stuks |
 | 2.7 | Subsidieregeling innoveren (innovatievouchers) | 5.3 | Aantal beschikbare kleine vouchers | 23-2 t/m 31-12 | 3142 stuks |
 | 2.8 | Subsidieregeling innoveren (innovatievouchers) | 5.7 |   |   |   |
