@@ -4,7 +4,7 @@ identifier: "BWBR0026914"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-05-04"
-last_updated: "2010-09-24"
+last_updated: "2010-09-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026914"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ Besluit:
 | --- | --- | --- | --- | --- | --- |
 | Nr. | Regeling | Artikel | Groep | Openstelling 2010 | Plafond € |
 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902) | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902) | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902) | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902) | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902) | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902) |
-| 1.1 | Subsidieregeling starten, groeien en overdragen van ondernemingen (borgstelling MKB-kredieten) | 2.3 | Bedrijfsborgstellingskredieten | 01-01 t/m 31-12 | 765.000.000 |
+| 1.1 | Subsidieregeling starten, groeien en overdragen van ondernemingen (borgstelling MKB-kredieten) | 2.3 | Bedrijfsborgstellingskredieten | 01-01 t/m 31-12 | 805.000.000 |
 | 1.2 | Subsidieregeling starten, groeien en overdragen van ondernemingen (borgstelling MKB-kredieten) | 2.3 | Bodemsaneringsborgstellingskredieten | 01-01 t/m 31-12 | 65.344.122 |
 | 1.3 | Subsidieregeling starten, groeien en overdragen van ondernemingen (groeifaciliteit) | 3.2 |   | 01-01 t/m 31-12 | 170.000.000 |
 | 1.4 | Subsidieregeling starten, groeien en overdragen van ondernemingen (Tijdelijke garantie ondernemingsfinanciering en Garantstelling gericht op bankgaranties) | – 3.12b – 3.12v |   | – 01-01 t/m 31-12 – 08-03 t/m 31-12 | 500.000.000 |
