@@ -4,7 +4,7 @@ identifier: "BWBR0008763"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2010-07-07"
+last_updated: "2010-09-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008763"
 soort: "AMvB"
@@ -128,25 +128,7 @@ De voorzitter van de huurcommissie vermeldt in de verklaring, bedoeld in [artike
 
 ##### Artikel 7
 
-1. Het tarief, bedoeld in [artikel 39, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=39), bedraagt € 450.
-
-2. De bijdrage, bedoeld in [artikel 39, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=39), wordt niet ingevorderd als deze € 2275 of minder zou bedragen.
-
-3. Een krachtens [artikel 39, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=39) verschuldigde financiële bijdrage wordt ingevorderd door Onze Minister.
-
-4. Onze Minister zendt een aanmaning om binnen een vastgestelde termijn van ten minste vier weken na dagtekening van de aanmaning de verschuldigde financiële bijdrage te voldoen indien burgemeester en wethouders in gebreke blijven de door hen verschuldigde financiële bijdrage binnen de daarvoor gestelde termijn te voldoen.
-
-5. De invordering van de verschuldigde financiële bijdrage, vermeerderd met de kosten van aanmaning en invordering, kan zonder rechterlijke tussenkomst geschieden bij dwangbevel indien burgemeester en wethouders ook na aanmaning in gebreke blijven.
-
-6. De betekening en tenuitvoerlegging van het dwangbevel geschieden door de belastingdeurwaarder, bedoeld in [artikel 2, eerste lid, onderdeel j, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2), en door de ontvanger, bedoeld in [artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2), met toepassing van de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=13) en [14 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=14).
-
-7. Zolang de ontvanger met de zorg voor de invordering is belast, kan hij een vordering doen op grond van [artikel 19 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=19), alsmede verrekenen op grond van [artikel 24 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=24).
-
-8. De ontvanger kan, zolang hij met de zorg voor de invordering is belast, onder door hem te stellen voorwaarden aan burgemeester en wethouders voor een bepaalde tijd bij beschikking uitstel van betaling verlenen. Gedurende het uitstel wordt de dwanginvordering geschorst. Het uitstel kan tussentijds bij beschikking worden beëindigd.
-
-9. Met betrekking tot het verzet tegen de tenuitvoerlegging van het dwangbevel is [artikel 17 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=17) van overeenkomstige toepassing, met dien verstande dat in dat artikel in plaats van «de ontvanger die het dwangbevel heeft uitgevaardigd» telkens moet worden gelezen: de met de tenuitvoerlegging van het dwangbevel belaste ontvanger.
-
-10. De kosten van aanmaning en verdere invordering worden berekend op de voet van de [Kostenwet invordering rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002645). De [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=6) en [7 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=7) zijn van overeenkomstige toepassing.
+Vervallen
 
 ### HOOFDSTUK 6. WIJZIGING VAN ANDERE BESLUITEN
 
@@ -212,7 +194,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. Voor de toepassing van het eerste lid wordt geen rekening gehouden met de verzorgingsbehoefte van een minderjarige eerstegraads bloed- of aanverwant in de neergaande lijn.
 
-4. [Artikel 27, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=27) is van overeenkomstige toepassing op de in het tweede lid, onderdelen b en c, vermelde bedragen, waarbij ten aanzien van het in het tweede lid, onderdeel c, vermelde bedrag het resultaat naar boven wordt afgerond op een veelvoud van € 25.
+4. [Artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=27) is van overeenkomstige toepassing op de in het tweede lid, onderdelen b en c, vermelde bedragen, waarbij ten aanzien van het in het tweede lid, onderdeel c, vermelde bedrag het resultaat naar boven wordt afgerond op een veelvoud van € 25.
 
 ##### Artikel 2b
 
@@ -234,9 +216,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2c
 
-1. Een verzoek als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2&z=2010-07-07&g=2010-07-07), [2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2a&z=2010-07-07&g=2010-07-07), en [2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2b&z=2010-07-07&g=2010-07-07), kan worden gedaan tot het tijdstip dat de toekenning van de huurtoeslag over het desbetreffende berekeningsjaar onherroepelijk is geworden.
+1. Een verzoek als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2&z=2010-09-29&g=2010-09-29), [2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2a&z=2010-09-29&g=2010-09-29), en [2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2b&z=2010-09-29&g=2010-09-29), kan worden gedaan tot het tijdstip dat de toekenning van de huurtoeslag over het desbetreffende berekeningsjaar onherroepelijk is geworden.
 
-2. Een verzoek als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2&z=2010-07-07&g=2010-07-07), [2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2a&z=2010-07-07&g=2010-07-07), en [2b, eerste lid, onderdelen c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2b&z=2010-07-07&g=2010-07-07), wordt geacht mede te zijn gedaan voor op het berekeningsjaar volgende berekeningsjaren.
+2. Een verzoek als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2&z=2010-09-29&g=2010-09-29), [2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2a&z=2010-09-29&g=2010-09-29), en [2b, eerste lid, onderdelen c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2b&z=2010-09-29&g=2010-09-29), wordt geacht mede te zijn gedaan voor op het berekeningsjaar volgende berekeningsjaren.
 
 ### Hoofdstuk 3. Onzelfstandige woonruimte
 
