@@ -4,7 +4,7 @@ identifier: "BWBR0026914"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-05-04"
-last_updated: "2010-09-28"
+last_updated: "2010-09-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026914"
 soort: "ministeriele-regeling"
@@ -106,7 +106,7 @@ Besluit:
 |   |   |   | Photonic devices (periode vooraanmelding) | 01-04 t/m 16-04 | - |
 |   |   |   | Photonic devices | 15-08 t/m 17-09 | 4.750.000 |
 |   |   |   | Maritiem (periode vooraanmelding) |   | - |
-|   |   |   | Maritiem | 15-02 t/m 12-03 | 1.200.000 |
+|   |   |   | Maritiem | 15-02 t/m 12-03 | 1.375.000 |
 | 3.4 | Subsidieregeling sterktes in innovatie (LSH-projecten; ETB-samenwerkingsverbanden ) | 4.2 |   | 01-01 t/m 01-02 | 3.700.000 |
 | 3.5 | Subsidieregeling sterktes in innovatie (LSH-projecten; internationale MKB-samenwerkingsverbanden) | 4.11 |   | 01-04 t/m 25-06 | 1.000.000 |
 | 3.6 | Subsidieregeling sterktes in innovatie (LSH-projecten; EuroNanoMed-samenwerkingsverbanden) | 4.20 |   |   |   |
@@ -195,6 +195,8 @@ Besluit:
 |   |   | 3.6.2, tweede lid | Demonstratieprojecten | 10-5 t/m 30-9 | 12.650.000 |
 | 5 | Subsidieregeling energie en innovatie (Experimenteerregeling Wind op Zee) | 3.7.2 |   | 19-11-2009 t/m 28-01-2010 | 9.000.000 |
 | 6 | Subsidieregeling sterktes in innovatie (LSH-projecten; ETB-samenwerkingsverbanden) | 4.2 |   | 01-10-2010 t/m 01-02-2011 | 3.000.000 |
+| 7. | Subsidieregeling sterktes in innovatie (IOP’s) | 3.2 | Maritiem (periode vooraanmelding) | 04-10-2010 t/m 29-10-2010 | – |
+|   |   |   | Maritiem (Offshore) | 31-01-2011 t/m 25-02-2011 | 1.075.000 |
 
 ##### Artikel 3
 
