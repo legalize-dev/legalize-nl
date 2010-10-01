@@ -4,7 +4,7 @@ identifier: "BWBR0026599"
 country: "nl"
 rank: "wet"
 publication_date: "2010-10-01"
-last_updated: "2009-11-11"
+last_updated: "2010-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026599"
 soort: "wet"
@@ -100,6 +100,6 @@ Wijzigt de Wet veiligheidsregio’s.
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
-## Bijlage. Kaart, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026599&paragraaf=1&artikel=2&z=2009-11-11&g=2009-11-11)
+## Bijlage. Kaart, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026599&paragraaf=1&artikel=2&z=2010-10-01&g=2010-10-01)
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
