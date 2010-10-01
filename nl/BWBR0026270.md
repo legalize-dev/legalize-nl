@@ -4,7 +4,7 @@ identifier: "BWBR0026270"
 country: "nl"
 rank: "wet"
 publication_date: "2010-10-01"
-last_updated: "2009-08-26"
+last_updated: "2010-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026270"
 soort: "wet"
@@ -114,12 +114,12 @@ Wijzigt de Politiewet 1993.
 
 ##### Artikel 10
 
-Wijzigt de Wet veiligheidsregio’s (kst. 31 117).
+Wijzigt de Wet veiligheidsregio’s.
 
 ##### Artikel 11
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
-## Kaart. genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026270&paragraaf=1&artikel=2&z=2009-08-26&g=2009-08-26) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0026270&paragraaf=1&artikel=3&z=2009-08-26&g=2009-08-26) van de Wet herindeling van de gemeenten Horst aan de Maas, Meerlo-Wanssum, Sevenum en Venray
+## Kaart. genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026270&paragraaf=1&artikel=2&z=2010-10-01&g=2010-10-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0026270&paragraaf=1&artikel=3&z=2010-10-01&g=2010-10-01) van de Wet herindeling van de gemeenten Horst aan de Maas, Meerlo-Wanssum, Sevenum en Venray
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
