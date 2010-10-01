@@ -4,7 +4,7 @@ identifier: "BWBR0024708"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2008-12-01"
+last_updated: "2010-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024708"
 soort: "AMvB"
@@ -92,9 +92,9 @@ In dit besluit wordt verstaan onder:
 
 1. Het basistakenpakket jeugdgezondheidszorg bestaat uit een uniform deel en een maatwerk deel.
 
-2. Het uniform deel van het basistakenpakket omvat de in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=4&z=2008-12-01&g=2008-12-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=5&z=2008-12-01&g=2008-12-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=6&z=2008-12-01&g=2008-12-01) van dit besluit beschreven werkzaamheden en wordt aan alle jeugdigen aangeboden.
+2. Het uniform deel van het basistakenpakket omvat de in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=4&z=2010-10-01&g=2010-10-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=5&z=2010-10-01&g=2010-10-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=6&z=2010-10-01&g=2010-10-01) van dit besluit beschreven werkzaamheden en wordt aan alle jeugdigen aangeboden.
 
-3. Het maatwerk deel van het basistakenpakket omvat de in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=7&z=2008-12-01&g=2008-12-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=8&z=2008-12-01&g=2008-12-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=9&z=2008-12-01&g=2008-12-01) van dit besluit beschreven werkzaamheden en wordt afgestemd op de specifieke zorgbehoeften van de jeugdigen alsmede op lokale of regionale demografische en epidemiologische gegevenheden.
+3. Het maatwerk deel van het basistakenpakket omvat de in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=7&z=2010-10-01&g=2010-10-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=8&z=2010-10-01&g=2010-10-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=9&z=2010-10-01&g=2010-10-01) van dit besluit beschreven werkzaamheden en wordt afgestemd op de specifieke zorgbehoeften van de jeugdigen alsmede op lokale of regionale demografische en epidemiologische gegevenheden.
 
 ##### Artikel 4
 
@@ -122,7 +122,7 @@ De in [artikel 5, tweede lid, aanhef en onder a, van de wet](https://wetten.over
 
 ##### Artikel 5
 
-De in [artikel 5, tweede lid, aanhef en onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=5) genoemde werkzaamheid inzake de behoeften aan zorg omvat, naast het maatwerk deel, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=7&z=2008-12-01&g=2008-12-01) van dit besluit, de volgende aspecten:
+De in [artikel 5, tweede lid, aanhef en onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=5) genoemde werkzaamheid inzake de behoeften aan zorg omvat, naast het maatwerk deel, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=7&z=2010-10-01&g=2010-10-01) van dit besluit, de volgende aspecten:
 
 - a. het schatten van de verhouding tussen de draaglast en draagkracht van de jeugdige en van het gezin waartoe hij behoort,
 
@@ -152,7 +152,7 @@ De in [artikel 5, tweede lid, aanhef en onder c, van de wet](https://wetten.over
 
 ##### Artikel 7
 
-De in [artikel 5, tweede lid, aanhef en onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=5) genoemde werkzaamheid inzake de behoeften aan zorg omvat, naast het uniform deel, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=5&z=2008-12-01&g=2008-12-01) van dit besluit, de volgende aspecten:
+De in [artikel 5, tweede lid, aanhef en onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=5) genoemde werkzaamheid inzake de behoeften aan zorg omvat, naast het uniform deel, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=5&z=2010-10-01&g=2010-10-01) van dit besluit, de volgende aspecten:
 
 - a. het ramen welke zorgverlening op maat nodig is,
 
@@ -180,7 +180,7 @@ De in [artikel 5, tweede lid, aanhef en onder e, van de wet](https://wetten.over
 
 ##### Artikel 10
 
-Indien het college van burgemeester en wethouders toepassing geeft aan [artikel 14, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=14), hanteert het college voor de uitvoering dezelfde eisen als in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=V&artikel=17&z=2008-12-01&g=2008-12-01), van dit besluit, aan de gemeentelijke gezondheidsdienst zijn gesteld.
+Indien het college van burgemeester en wethouders toepassing geeft aan [artikel 14, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=14), hanteert het college voor de uitvoering dezelfde eisen als in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=V&artikel=17&z=2010-10-01&g=2010-10-01), van dit besluit, aan de gemeentelijke gezondheidsdienst zijn gesteld.
 
 ### Hoofdstuk IV. Infectieziektebestrijding
 
@@ -232,15 +232,15 @@ De infectieziekten behorende tot groep C zijn: anthrax, bof, botulisme, brucello
 
 ##### Artikel 14
 
-Een krachtens [artikel 48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=48) als behorende tot categorie A aangewezen haven of luchthaven beschikt, naast de voorzieningen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=13&z=2008-12-01&g=2008-12-01) van dit besluit, tevens over de volgende voorzieningen:
+Een krachtens [artikel 48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=48) als behorende tot categorie A aangewezen haven of luchthaven beschikt, naast de voorzieningen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=13&z=2010-10-01&g=2010-10-01) van dit besluit, tevens over de volgende voorzieningen:
 
-- a. een te allen tijde bereikbare crisisdienst die kan worden ingezet ter uitvoering van het plan voor noodsituaties, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=13&z=2008-12-01&g=2008-12-01) van dit besluit,
+- a. een te allen tijde bereikbare crisisdienst die kan worden ingezet ter uitvoering van het plan voor noodsituaties, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=13&z=2010-10-01&g=2010-10-01) van dit besluit,
 
 - b. een van sanitaire voorzieningen voorziene ruimte waar aankomende reizigers, afgezonderd van andere reizigers, aan quarantaine of medische controle kunnen worden onderworpen.
 
 ##### Artikel 15
 
-1. Onze Minister verleent op aanvraag van het college van burgemeester en wethouders een bijdrage in de kosten die voor de gemeente voortvloeien uit het door de burgemeester uitvoeren van de door Onze Minister opgedragen maatregelen, bedoeld in [artikel 62, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=62).
+1. Onze Minister verleent op aanvraag van het college van burgemeester en wethouders een bijdrage in de kosten die voor de gemeente voortvloeien uit het door de voorzitter van de veiligheidsregio dan wel de burgemeester uitvoeren van de door Onze Minister opgedragen maatregelen, bedoeld in [artikel 62, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=62).
 
 2. De bijdrage wordt vastgesteld op grond van de kosten die voortvloeien uit het daadwerkelijk treffen van de maatregelen en de gevolgen daarvan, verminderd met:
 
@@ -252,7 +252,7 @@ Een krachtens [artikel 48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ##### Artikel 16
 
-1. De aanvraag, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=15&z=2008-12-01&g=2008-12-01), wordt uiterlijk twaalf maanden na het einde van het treffen van de maatregelen ingediend.
+1. De aanvraag, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=15&z=2010-10-01&g=2010-10-01), wordt uiterlijk twaalf maanden na het einde van het treffen van de maatregelen ingediend.
 
 2. In afwijking van het eerste lid wordt, indien de maatregelen onafgebroken gedurende één jaar worden getroffen, de aanvraag uiterlijk twaalf maanden na het verstrijken van dat jaar ingediend.
 
@@ -260,7 +260,7 @@ Een krachtens [artikel 48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 4. Onze Minister beslist binnen zes maanden na indiening van de aanvraag.
 
-5. Op verzoek van de aanvrager kan Onze Minister een voorschot verlenen op de bijdrage, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=15&z=2008-12-01&g=2008-12-01). Een verzoek daartoe gaat vergezeld van een voorlopige opgave van de kosten.
+5. Op verzoek van de aanvrager kan Onze Minister een voorschot verlenen op de bijdrage, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=15&z=2010-10-01&g=2010-10-01). Een verzoek daartoe gaat vergezeld van een voorlopige opgave van de kosten.
 
 6. Onze Minister kan de vaststelling van een bijdrage intrekken of ten nadele van de ontvanger wijzigen:
 
