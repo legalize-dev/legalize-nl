@@ -4,7 +4,7 @@ identifier: "BWBR0019099"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2006-01-01"
+last_updated: "2010-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019099"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ Deze regeling treedt in werking met ingang van 1 januari 2006.
 
 Deze regeling wordt aangehaald als: Warenwetregeling handelsbenamingen vis.
 
-## Deze bijlage behoort bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019099&artikel=1&z=2006-01-01&g=2006-01-01)
+## Deze bijlage behoort bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019099&artikel=1&z=2010-10-01&g=2010-10-01)
 
 De lijst met handelsbenamingen, bedoeld in artikel 4, tweede lid, van [verordening (EG) 104/2000](32000R0104), is de navolgende:
 
@@ -69,7 +69,7 @@ De lijst met handelsbenamingen, bedoeld in artikel 4, tweede lid, van [verordeni
 | 1.6.2. | Scyliorhinus stellaris | Kathaai |
 | 1.7. | Galeorhinus galeus | Ruwe haai, Steenhaai |
 | 1.8. | Mustelus mustelus | Gladde haai |
-| 1.9. | Squatina spp. | Zeeangel |
+| 1.9. | Squatina spp. | Zee-engel |
 | 1.10. | Squalus acanthias | Doornhaai |
 | 1.11.1. | Somniosus microcephalus | Groenlandse haai |
 | 1.11.2. | Hexanchus griseus | Zeskieuwhaai |
@@ -218,7 +218,7 @@ De lijst met handelsbenamingen, bedoeld in artikel 4, tweede lid, van [verordeni
 | 6.11.4. | Dentex maroccanus | Marokkaanse tandbrasem |
 | 6.12. | Pterogymnus laniarius | Panga zeebrasem |
 | 6.13. | Boops boops | Bokvis |
-| 6.14. | Sarpa salpa | Goudgestreepte zeebrasem |
+| 6.14. | Sarpa salpa | Goudgestreepte zeebrasem / Gestreepte bokvis |
 | 6.15. | Lethrinus spp. | Lethrinus |
 | 6.16. | Gymnocranius grandoculis | Grootoogbrasem |
 | 6.17.1. | Nemipterus spp. | Valse snapper |
@@ -307,10 +307,11 @@ De lijst met handelsbenamingen, bedoeld in artikel 4, tweede lid, van [verordeni
 | 10.20.1. | Umbrina canariensis | Baardman |
 | 10.20.2. | Umbrina cirrosa | Kustbaardman |
 | 10.20.3. | Umbrina ronchus | Fuscabaardman |
-| 10.23.1. | Pomadasys bennetti | Bastaardknorvis |
 | 10.21. | Priacanthus arenatus | Grootoog |
 | 10.22. | Hemiramphus spp. | Bastaardgeep |
-| 10.23. | Haemulon plumieri | Knorvis |
+| 10.23.1. | Pomadasys bennetti | Bastaardknorvis |
+| 10.23.2. | Haemulon plumieri | Knorvis |
+| 10.23.3 | Pomadasys bennetti | Bastaardknorvis |
 | 10.24. | Labridus spp. | Lipvis |
 | 10.25. | Sparisoma spp. | Papegaaivis |
 | 10.26. | Bolbometopon muricatum | Papegaaivis |
@@ -421,7 +422,8 @@ De lijst met handelsbenamingen, bedoeld in artikel 4, tweede lid, van [verordeni
 | 11.20. | Phoxinus phoxinus | Elrits |
 | 11.21. | Siluris glanis | Europese meerval |
 | 11.22. | Ictalurus spp. | Dwergmeerval |
-| 11.23. | Clarias gariepinus | Afrikaanse meerval |
+| 11.23.1. | Clarias gariepinus | Afrikaanse meerval |
+| 11.23.2 | Heterobranchus longifilis | Claresse meerval |
 | 11.24. | Pangasius spp. | Pangasius meerval |
 | 11.25.1. | Arius spp. | Zeemeerval |
 | 11.25.2. | Bagre bagre | Barbaman |
@@ -480,122 +482,5 @@ De lijst met handelsbenamingen, bedoeld in artikel 4, tweede lid, van [verordeni
 | 12.6.4. | Palaemon serratus | Steurgarnaal |
 | 12.7. | Sicyonidae (Pantsergarnalen) |   |
 | 12.7.1. | Sicyonia carinata | Mediterrane pantsergarnaal |
-|   |   |   |
-| 18. | Mytilidae (Mosselachtigen) |   |
-| 18.1. | Mytilus galloprovincialis | Middellandsezeemossel |
-| 18.1.1. | Mytilus edulis | (Gewone) mossel |
-| 18.2. | Perna canalicus | Nieuwzeelandse mossel |
-|   |   |   |
-| 19. | Ostreidae (Oesterachtigen) |   |
-| 19.1. | Ostrea edulis | (Europese) platte oester |
-| 19.2. | Ostrea lurida | Olympia oester |
-| 19.3. | Crassostrea angulata | Portugese oester |
-| 19.4. | Crassostrea virginica | Amerikaanse oester |
-| 19.5. | Crassostrea gigas | Grote oester |
-|   |   |   |
-| 20. | Pectinidae (Kamschelpachtigen) |   |
-| 20.1. | Pecten maximus | Sint-Jacobsschelp |
-| 20.4.1. | Chlamys islandica | Noordelijke kamschelp |
-| 20.4.2. | Chlamys varia | Bonte mantel |
-| 20.4.3. | Chlamys opercularis | Wijde mantel |
-|   |   |   |
-| 21. | Cardiidae (Kokkelachtigen) |   |
-| 21.1. | Cardium costatum | Geribde hartschelp |
-| 21.3. | Acanthocardia aculeata | Gedoornde hartschelp |
-| 21.4. | Acanthocardia echinata | Gestekelde hartschelp |
-| 21.5. | Cerastoderma edule | Kokkel, Kokhaan |
-|   |   |   |
-| 22. | Veneraceae (Venusschelpachtigen, Tapijtschelpachtigen) |   |
-| 22.1. | Venus gallina | Gestreepte venusschelp |
-| 22.2. | Venus verrucosa | Wrattige venusschelp |
-| 22.6. | Callista chione | Bruine venusschelp |
-| 22.7. | Mercenaria mercenaria | Amerikaanse venusschelp |
-| 22.8. | Venerupis aurea | Goudkleurige venusschelp |
-| 22.9. | Venerupis decussata | Tapijtschelp |
-| 22.10. | Venerupis pullastra | Tapijtschelp |
-| 22.11. | Tapes rhomboides | Roze venusschelp |
-|   |   |   |
-| 23. | Myidae (Gaperachtigen) |   |
-| 23.1. | Mya arenaria | Strandgaper |
-| 23.2. | Mya truncata | Afgeknotte gaper |
-|   |   |   |
-| 24. | Arcticidae (Noordkrompachtigen) |   |
-| 24.1. | Arctica islandica | Noordkromp |
-|   |   |   |
-| 25. | Glycymeridae (Glycymerisachtigen) |   |
-| 25.1. | Glycymeris glycymeris | Glycymeris |
-|   |   |   |
-| 26. | Mactridae (Strandschelpachtigen) |   |
-| 26.1. | Mactra corallina | Grote strandschelp |
-| 26.2. | Spisula elliptica | Ovale strandschelp |
-| 26.3. | Spisula subtruncata | Afgeknotte strandschelp |
-| 26.4. | Spisula solida | Stevige strandschelp |
-| 26.5. | Spisula solidissima | Reuze strandschelp |
-| 26.6. | Macoma baltica | Nonnetje |
-|   |   |   |
-| 27. | Tellinidea (Platschelpachtigen) |   |
-| 27.1. | Tellina crassa | Dikke platschelp |
-| 27.2. | Donax trunculus | Zaagje |
-|   |   |   |
-| 28. | Solenidea (Mesheftachtigen) |   |
-| 28.1. | Solen marginatus | Messchede |
-| 28.2. | Ensis directus | Amerikaanse zwaardschede |
-| 28.3. | Ensis ensis | Kleine zwaardschede |
-| 28.4. | Ensis siliqua | (Tafel)mesheft |
-|   |   |   |
-|   | Gastropoda (Buikpotigen) |   |
-| 29. | Haliotidae (Zeeoorachtigen) |   |
-| 29.1. | Haliotis (tuberculata) | Zeeoor |
-|   |   |   |
-| 30. | Fissurellidae (Sleutelgathoornachtigen) |   |
-| 30.1. | Fissurella nubecula | Sleutelgathoorn |
-| 31. | Patellidea (Schaalhoornachtigen) |   |
-| 31.1. | Patella (vulgata) | Schaalhoorn |
-|   |   |   |
-| 32. | Littorinidae (Alikruikachtigen) |   |
-| 32.1. | Littorina littorea | Gewone alikruik, Kreukel |
-| 32.2. | Littorina (obtusata) | Alikruik |
-|   |   |   |
-| 33. | Buccinidae (Wulkachtigen) |   |
-| 33.1. | Buccinum undatum | Wulk, Kinkhoorn |
-| 33.2. | Neptunea antiqua | Noordhoorn |
-| 33.3. | Busycon spp. | Amerikaanse wulk |
-|   |   |   |
-|   | Inktvissen (Koppotigen) |   |
-| 34. | Sepioidea (Zeekatachtigen) |   |
-| 34.1. | Sepia spp. | Zeekat, Sepia |
-| 34.2. | Rossia spp. | Ross-dwerginktvis |
-| 34.3. | Sepiola spp. | Dwerginktvis |
-|   |   |   |
-| 35. | Teuthoidea spp.(Pijlinktvisachtigen) |   |
-| 35.1. | Loligo spp. | Pijlinktvis |
-| 35.2. | Loligo vulgaris | Gewone Pijlinktvis |
-| 35.3. | Loligo pealei | Pijlinktvis |
-| 35.4. | Loligo opalescens | Pijlinktvis |
-| 35.5. | Ommastrephes spp. | Pijlinktvis |
-| 35.6. | Todarodes sagittatus | Pijlinktvis |
-| 35.7. | Nototodarus sloani | Pijlinktvis |
-| 35.8. | Nototodarus gouldi | Pijlinktvis |
-| 35.9. | Illex spp. | Pijlinktvis |
-| 35.10. | Dosidicus gigas | Pijlinktvis |
-|   |   |   |
-| 36. | Octopoda (Achtarmigen) |   |
-| 36.1. | Octopus vulgaris | Oktopus, Octopus, achtarmige inktvis |
-|   |   |   |
-|   | Stekelhuidigen |   |
-| 37. | Echinoidea (Zee-egels en Zee-appels) |   |
-| 37.1. | Echinus esculentus | Zee-egel |
-| 37.2. | Paracentrotus | Zee-egel |
-| 37.3. | Arbacia spp. | (Zwarte) zee-egel |
-| 37.4. | Arbacia punctulata | (Zwarte) zee-egel |
-| 37.5. | Strongylocentrotus spp. | Zee-egel |
-| 37.6. | Strongylocentrotus purpuratus | Zee-egel |
-|   |   |   |
-| 38. | Holothurioidea (Zeekomkommers) |   |
-| 38.1. | Holothuria tubulosa | Bruine zeekomkommer |
-| 38.2. | Stichopus regalis | Witgevlekte zeekomkommer |
-|   |   |   |
-| 39. | Zakpijpen |   |
-| 39.1. | Microcosmus sulcatus | Zakpijp |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
