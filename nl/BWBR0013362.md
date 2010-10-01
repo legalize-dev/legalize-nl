@@ -4,7 +4,7 @@ identifier: "BWBR0013362"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-07-01"
-last_updated: "2002-12-25"
+last_updated: "2010-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013362"
 soort: "AMvB"
@@ -56,31 +56,29 @@ In dit besluit wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Justitie;
 
-- b. verdachtenfoto: een tweeluik van kleurenafbeeldingen, dat bestaat uit twee naast elkaar geplaatste afbeeldingen van het gelaat van de verdachte, op de linkerzijde een afbeelding van het gelaat van voren genomen en op de rechterzijde een afbeelding van de linkerzijde van het gelaat;
+- b. confrontatie: een onderzoek waarbij het uiterlijk van een verdachte door een getuige wordt geobserveerd om vast te stellen of de verdachte door deze persoon wordt herkend als betrokkene bij een strafbaar feit;
 
-- c. confrontatie: een onderzoek waarbij het uiterlijk van een verdachte door een getuige wordt geobserveerd om vast te stellen of de verdachte door deze persoon wordt herkend als betrokkene bij een strafbaar feit;
+- c. meervoudige confrontatie: een confrontatie waarbij de verdachte en minimaal vijf andere personen die uiterlijk gelijkenis vertonen met de verdachte, worden getoond;
 
-- d. meervoudige confrontatie: een confrontatie waarbij de verdachte en minimaal vijf andere personen die uiterlijk gelijkenis vertonen met de verdachte, worden getoond;
+- d. geuridentificatieproef: een onderzoek waarbij door een daarvoor gecertificeerde politiespeurhond onder leiding van zijn vaste geleider een geurvergelijking wordt uitgevoerd;
 
-- e. geuridentificatieproef: een onderzoek waarbij door een daarvoor gecertificeerde politiespeurhond onder leiding van zijn vaste geleider een geurvergelijking wordt uitgevoerd;
+- e. observatiecel: een cel waarin de ingeslotene permanent kan worden geobserveerd;
 
-- f. observatiecel: een cel waarin de ingeslotene permanent kan worden geobserveerd;
+- f. permanente observatie: het stelselmatig waarnemen, al dan niet via technische hulpmiddelen, van het gedrag van een ingeslotene.
 
-- g. permanente observatie: het stelselmatig waarnemen, al dan niet via technische hulpmiddelen, van het gedrag van een ingeslotene.
-
-#### § 2. Het maken van fotografische opnamen of video-opnamen
+#### § 2. Het maken van foto’s en video-opnamen
 
 ##### Artikel 2
 
-Degene die een bevel geeft tot het maken van opnamen kan daarbij aanwijzingen geven omtrent de uitvoering van het bevel.
+Degene die een bevel geeft tot het maken van een of meer foto’s of video-opnamen kan daarbij aanwijzingen geven omtrent de uitvoering van het bevel.
 
 ##### Artikel 3
 
-Het maken van opnamen bestaat uit het maken van een verdachtenfoto of andere fotografische of video-opnamen, waaronder het vastleggen van bijzondere lichamelijke kenmerken van de verdachte.
+Vervallen
 
 ##### Artikel 4
 
-Het maken van opnamen geschiedt door daartoe door de korpsbeheerder onderscheidenlijk werkgever aangewezen terzake deskundige personen.
+Het maken van een of meer foto’s of video-opnamen geschiedt door daartoe door de korpsbeheerder onderscheidenlijk werkgever aangewezen terzake deskundige personen.
 
 #### § 3. De toepassing van een confrontatie
 
@@ -116,7 +114,7 @@ De confrontatie wordt geleid door een daartoe door de korpsbeheerder onderscheid
 
 ##### Artikel 9
 
-De officier van justitie en de raadsman van de verdachte worden zo mogelijk in de gelegenheid gesteld om voorafgaand aan de meervoudige confrontatie opmerkingen te maken omtrent de te tonen selectie, zonder dat de confrontatie daardoor mag worden opgehouden. De gemaakte opmerkingen worden opgenomen in het in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=3&artikel=8&z=2002-12-25&g=2002-12-25), bedoelde proces-verbaal of rapport.
+De officier van justitie en de raadsman van de verdachte worden zo mogelijk in de gelegenheid gesteld om voorafgaand aan de meervoudige confrontatie opmerkingen te maken omtrent de te tonen selectie, zonder dat de confrontatie daardoor mag worden opgehouden. De gemaakte opmerkingen worden opgenomen in het in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=3&artikel=8&z=2010-10-01&g=2010-10-01), bedoelde proces-verbaal of rapport.
 
 ##### Artikel 10
 
@@ -138,7 +136,7 @@ Als helper bij het uitvoeren van de geuridentificatieproef kunnen optreden opspo
 
 ##### Artikel 14
 
-De helper, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=4&artikel=13&z=2002-12-25&g=2002-12-25), en de geleider, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=4&artikel=12&z=2002-12-25&g=2002-12-25), maken van de geuridentificatieproef een proces-verbaal op, waarin in elk geval wordt opgenomen:
+De helper, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=4&artikel=13&z=2010-10-01&g=2010-10-01), en de geleider, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=4&artikel=12&z=2010-10-01&g=2010-10-01), maken van de geuridentificatieproef een proces-verbaal op, waarin in elk geval wordt opgenomen:
 
 - a. een verslag van de helper omtrent de gevolgde procedure;
 
