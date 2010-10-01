@@ -4,7 +4,7 @@ identifier: "BWBR0020852"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-10-01"
-last_updated: "2008-07-01"
+last_updated: "2010-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020852"
 soort: "ministeriele-regeling"
@@ -46,9 +46,9 @@ In deze regeling wordt verstaan onder:
 
 - a. uitvoeringskosten: kosten voor personeel, onderzoek en communicatie;
 
-- b. Prestatiekaart gemeenten: het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020852&bijlage=1&z=2008-07-01&g=2008-07-01) bij deze regeling opgenomen overzicht van thema's en doelstellingen, onderscheiden in een actief, voorlopend en innovatief niveau, die zijn gericht op CO2-reductie;
+- b. Prestatiekaart gemeenten: het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020852&bijlage=1&z=2010-10-01&g=2010-10-01) bij deze regeling opgenomen overzicht van thema's en doelstellingen, onderscheiden in een actief, voorlopend en innovatief niveau, die zijn gericht op CO2-reductie;
 
-- c. Prestatiekaart provincies: het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020852&bijlage=2&z=2008-07-01&g=2008-07-01) bij deze regeling opgenomen overzicht van thema's en doelstellingen, onderscheiden naar niveaus, die zijn gericht op CO2-reductie;
+- c. Prestatiekaart provincies: het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020852&bijlage=2&z=2010-10-01&g=2010-10-01) bij deze regeling opgenomen overzicht van thema's en doelstellingen, onderscheiden naar niveaus, die zijn gericht op CO2-reductie;
 
 - d. basispakket: pakket van ten minste twee, door de gemeente of provincie aan de Prestatiekaart gemeenten onderscheidenlijk de Prestatiekaart provincies ontleende doelstellingen of ten minste twee door de gemeente of de provincie zelf gedefiniëerde doelstellingen met daarbij behorende projecten, ter uitvoering van het gemeentelijk onderscheidenlijk provinciaal klimaatbeleid;
 
@@ -170,7 +170,7 @@ waaraan op grond van de [Subsidieregeling BANS klimaatconvenant](https://wetten.
 
 ##### Artikel 9. Voorschotten
 
-Aan een bestuursorgaan als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020852&artikel=8&z=2008-07-01&g=2008-07-01), waaraan subsidie is verleend, worden voorschotten ter beschikking gesteld ter grootte van:
+Aan een bestuursorgaan als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020852&artikel=8&z=2010-10-01&g=2010-10-01), waaraan subsidie is verleend, worden voorschotten ter beschikking gesteld ter grootte van:
 
 - a. 50% van het verleende subsidiebedrag en wel binnen vier weken na de dagtekening van de beschikking tot subsidieverlening, en
 
@@ -235,8 +235,8 @@ Deze regeling wordt aangehaald als: Vervolgsubsidieregeling BANS klimaatconvenan
 | --- | --- | --- | --- |
 |   | Actief | Voorlopend | Innovatief |
 | **Energie en duurzaam ondernemen** | **Energie en duurzaam ondernemen** | **Energie en duurzaam ondernemen** |   |
-| Bedrijven | – Opstellen en uitvoeren van een actieplan voor het implementeren van de verbredingsthema’s duurzame energie en energiezuinige productontwikkeling1.De verbredingsthema’s zijn:– duurzame energie: bijvoorbeeld zon, wind, warmte, koude-warmte opslag, biomassa,– energiezuinige productontwikkeling: duurzame producten, optimalisatie van transport, logistiek en ketens, duurzame bedrijventerreinen bij minimaal 20% van de energie- | – Stimuleren en implementeren van duurzaam ondernemen bij de inrichtingen als bedoeld in [artikel 8.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1), waarvoor de provincie bevoegd gezag is via een actieplan. | – De provincie is vooruitstrevend op het gebied van duurzaam ondernemen, bijvoorbeeld door provinciale pilotprojecten met een vernieuwend karakter, gebiedsgerichte uitwerking van |
-|   | extensieve inrichtingen als bedoeld in [artikel 8.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1)2Onder energie-extensieve inrichtingen wordt verstaan de inrichtingen met een energiegebruik tussen 0,001 en 0,01 PJ en inrichtingen die niet meedoen met het Convenant Benchmarking energie-efficiency en de Meerjarenafspraken energie-efficiency., waarvoor de provincie bevoegd gezag is. – Organiseren en faciliteren van een actieplan van gemeenten en bedrijven voor energiedoorlichting- en, adviezen en invoering van maatregelen bij bedrijven, waarvoor de gemeente bevoegd gezag is. | – Organiseren en faciliteren van een implementatieplan van duurzaam ondernemen bij grote bedrijven en Midden- en kleinbedrijf - ondernemingen waar gemeente bevoegd gezag is. | grootschalige energie-uitwisseling of verdergaande afspraken met het bedrijfsleven. |
+| Bedrijven | – Opstellen en uitvoeren van een actieplan voor het implementeren van de verbredingsthema’s duurzame energie en energiezuinige productontwikkeling1.De verbredingsthema’s zijn:– duurzame energie: bijvoorbeeld zon, wind, warmte, koude-warmte opslag, biomassa,– energiezuinige productontwikkeling: duurzame producten, optimalisatie van transport, logistiek en ketens, duurzame bedrijventerreinen bij minimaal 20% van de energie- | – Stimuleren en implementeren van duurzaam ondernemen bij de inrichtingen die behoren tot een krachtens [artikel 1.1, derde lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=1.1) aangewezen categorie, waarvoor de provincie bevoegd gezag is via een actieplan. | – De provincie is vooruitstrevend op het gebied van duurzaam ondernemen, bijvoorbeeld door provinciale pilotprojecten met een vernieuwend karakter, gebiedsgerichte uitwerking van |
+|   | extensieve inrichtingen die behoren tot een krachtens [artikel 1.1, derde lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=1.1) aangewezen categorie2Onder energie-extensieve inrichtingen wordt verstaan de inrichtingen met een energiegebruik tussen 0,001 en 0,01 PJ en inrichtingen die niet meedoen met het Convenant Benchmarking energie-efficiency en de Meerjarenafspraken energie-efficiency., waarvoor de provincie bevoegd gezag is. – Organiseren en faciliteren van een actieplan van gemeenten en bedrijven voor energiedoorlichting- en, adviezen en invoering van maatregelen bij bedrijven, waarvoor de gemeente bevoegd gezag is. | – Organiseren en faciliteren van een implementatieplan van duurzaam ondernemen bij grote bedrijven en Midden- en kleinbedrijf - ondernemingen waar gemeente bevoegd gezag is. | grootschalige energie-uitwisseling of verdergaande afspraken met het bedrijfsleven. |
 | Bedrijventerreinen | – Organiseren en faciliteren van een actieplan of projecten van gemeenten en bedrijfsleven om duurzame energiehuishouding op locatieniveau te implementeren op bedrijventerreinen (nieuw, bestaand en renovatie). – Organiseren dat bij planvor- | – Bijdrage leveren aan het realiseren van bedrijventerreinen met een duurzame energiehuishouding door faciliteren of organiseren van de procesbegeleiding of implementatie, bijv. door de inzet van deskundige menskracht of via afspraken. | – Organiseren en faciliteren van het realiseren van de opzet en inrichting van een nul-energie bedrijventerrein door gemeenten en bedrijfsleven. |
 |   | ming en beoordeling van plannen voor de ontwikkeling of revitalisering van (duurzame) bedrijventerreinen duurzame energiehuishouding expliciet als ontwerp- en inrichtingscriterium worden meegenomen. | – Bij het toetsen van ontwerp- en inrichtingsplannen en bestemmingsplannen die gericht zijn op de ontwikkeling of revitalisering van duurzame bedrijventerreinen duurzame energiehuishouding als criterium meenemen. |   |
 
