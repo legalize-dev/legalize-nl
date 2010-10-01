@@ -4,7 +4,7 @@ identifier: "BWBR0021728"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2009-12-22"
+last_updated: "2010-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021728"
 soort: "ministeriele-regeling"
@@ -43,13 +43,13 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. wet: de [Wet rampen en zware ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0003765);
+- a. **wet:** de [Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466);
 
-- b. risicokaart: de via internet toegankelijke provinciale risicokaart, bedoeld in [artikel 6a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003765&artikel=6a);
+- b. **risicokaart:** de via internet toegankelijke provinciale risicokaart, bedoeld in [artikel 45 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=45).
 
 ##### Artikel 2
 
-1. Op de risicokaart worden met inachtneming van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=3&z=2009-12-22&g=2009-12-22) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=4&z=2009-12-22&g=2009-12-22) de in de provincie aanwezige plaatsgebonden en geografisch te onderscheiden risico’s vermeld met betrekking tot de volgende categorieën rampen en zware ongevallen:
+1. Op de risicokaart worden met inachtneming van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=3&z=2010-10-01&g=2010-10-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=4&z=2010-10-01&g=2010-10-01) de in de provincie aanwezige plaatsgebonden en geografisch te onderscheiden risico’s vermeld met betrekking tot de volgende categorieën rampen:
 
 - a. ongevallen met brandbare of explosieve stoffen in inrichtingen of tijdens het transport;
 
@@ -81,15 +81,15 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Op de risicokaart worden risico’s in verband met de in [artikel 2, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=2&z=2009-12-22&g=2009-12-22), genoemde ongevallen met stoffen vermeld indien de hoeveelheid van de bedoelde stoffen de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&bijlage=I&z=2009-12-22&g=2009-12-22) genoemde drempelwaarde overschrijdt.
+1. Op de risicokaart worden risico’s in verband met de in [artikel 2, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=2&z=2010-10-01&g=2010-10-01), genoemde ongevallen met stoffen vermeld indien de hoeveelheid van de bedoelde stoffen de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&bijlage=I&z=2010-10-01&g=2010-10-01) genoemde drempelwaarde overschrijdt.
 
-2. Op de risicokaart worden risicolocaties in verband met de in [artikel 2, eerste lid, onderdelen d tot en met m](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=2&z=2009-12-22&g=2009-12-22), genoemde categorieën rampen en zware ongevallen vermeld indien zij voldoen aan de in bijlage II vermelde voorwaarden.
+2. Op de risicokaart worden risicolocaties in verband met de in [artikel 2, eerste lid, onderdelen d tot en met m](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=2&z=2010-10-01&g=2010-10-01), genoemde categorieën rampen vermeld indien zij voldoen aan de in bijlage II vermelde voorwaarden.
 
 ##### Artikel 4
 
-1. Op de risicokaart worden de in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&bijlage=III&z=2009-12-22&g=2009-12-22) genoemde gebouwen en objecten vermeld die voldoen aan de daarbij vermelde voorwaarden.
+1. Op de risicokaart worden de in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&bijlage=III&z=2010-10-01&g=2010-10-01) genoemde gebouwen en objecten vermeld die voldoen aan de daarbij vermelde voorwaarden.
 
-2. Op de risicokaart worden in ieder geval de in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&bijlage=IV&z=2009-12-22&g=2009-12-22) genoemde onderdelen vermeld in verband met overstroming als bedoeld in [artikel 2, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=2&z=2009-12-22&g=2009-12-22).
+2. Op de risicokaart worden in ieder geval de in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&bijlage=IV&z=2010-10-01&g=2010-10-01) genoemde onderdelen vermeld in verband met overstroming als bedoeld in [artikel 2, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=2&z=2010-10-01&g=2010-10-01).
 
 ##### Artikel 5
 
@@ -103,7 +103,7 @@ Gedeputeerde staten vermelden de door het college van burgemeester en wethouders
 
 1. Indien op de risicokaart vermelde gegevens die afkomstig zijn van de gemeente niet langer juist zijn, levert het college van burgemeester en wethouders binnen vier weken na het tijdstip waarop de gegevens zijn gewijzigd, de nieuwe gegevens aan gedeputeerde staten.
 
-2. Telkens wanneer het college van burgemeester en wethouders ingevolge [artikel 3, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003765&artikel=3) het rampenplan vaststelt of wijzigt, levert het college binnen vier weken aan gedeputeerde staten aangepaste gegevens indien de risicokaart actualisering behoeft.
+2. Indien in het overleg, bedoeld in [artikel 15, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=15), blijkt dat de inventarisatie van risico’s die ten grondslag ligt aan het risicoprofiel van de veiligheidsregio afwijkt van de door de colleges van burgemeester en wethouders geleverde gegevens die op de risicokaart worden weergegeven, levert het college van burgemeester en wethouders van de gemeente van wie de gegevens afkomstig zijn, gedeputeerde staten binnen vier weken aangepaste gegevens.
 
 ##### Artikel 8
 
@@ -111,19 +111,19 @@ Gedeputeerde staten vermelden de door het college van burgemeester en wethouders
 
 2. Gedeputeerde staten kunnen van het functioneel ontwerp afwijken indien de afwijking op de risicokaarten van alle provincies wordt toegepast.
 
-3. Gedeputeerde staten dragen er zorg voor dat op de risicokaart niet de afstanden worden getoond, waarbinnen doden en/of gewonden kunnen vallen, in het geval zich een ramp of zwaar ongeval voordoet met de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=3&z=2009-12-22&g=2009-12-22), bedoelde stoffen.
+3. Gedeputeerde staten dragen er zorg voor dat op de risicokaart niet de afstanden worden getoond, waarbinnen doden en/of gewonden kunnen vallen, in het geval zich een ongeval voordoet met de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=3&z=2010-10-01&g=2010-10-01), bedoelde stoffen.
 
 ##### Artikel 9
 
-De colleges van burgemeester en wethouders leveren de gegevens uit de gemeentelijke risico-inventarisatie, bedoeld in [artikel 3, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003765&artikel=3) voor de eerste keer aan gedeputeerde staten binnen zes maanden na het tijdstip van inwerkingtreding van deze regeling.
+Vervallen
 
 ##### Artikel 10
 
-Gedeputeerde staten dragen er zorg voor dat de risicokaart binnen negen maanden na het tijdstip van inwerkingtreding van deze regeling op het internet toegankelijk is.
+Vervallen
 
 ##### Artikel 11
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
+Vervallen
 
 ##### Artikel 12
 
@@ -171,7 +171,7 @@ Deze regeling wordt aangehaald als: Regeling provinciale risicokaart.
 |   | Overig |   |
 | Geparkeerde vervoerseenheden met gevaarlijke stoffen. | Aangewezen (parkeer) locaties waar vervoerseenheden beladen met gevaarlijke stoffen worden geparkeerd | Voor zover op de aangewezen (parkeer-)locatie ≥ 10.000 kg gevaarlijke stoffen gelijktijdig aanwezig mag zijn. |
 
-## Bijlage I. bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=3&z=2009-12-22&g=2009-12-22)
+## Bijlage I. bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=3&z=2010-10-01&g=2010-10-01)
 
 | Categorie | Categorie-omschrijving | Risicokaart-relevante drempelwaarde |
 | --- | --- | --- |
@@ -213,7 +213,7 @@ Deze regeling wordt aangehaald als: Regeling provinciale risicokaart.
 |   | Overig |   |
 | Geparkeerde vervoerseenheden met gevaarlijke stoffen. | Aangewezen (parkeer) locaties waar vervoerseenheden beladen met gevaarlijke stoffen worden geparkeerd | Voor zover op de aangewezen (parkeer-)locatie ≥ 10.000 kg gevaarlijke stoffen gelijktijdig aanwezig mag zijn. |
 
-## Bijlage II. bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=3&z=2009-12-22&g=2009-12-22)
+## Bijlage II. bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=3&z=2010-10-01&g=2010-10-01)
 
 |   | Voorwaarde voor opname op de risicokaart |
 | --- | --- |
@@ -230,9 +230,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 11a
 
-Deze regeling berust mede op [artikelen 3.4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=3.4), en [4.9, derde lid, van het Waterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=4.9).
+Deze regeling berust op [artikel 45, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=45) en op de [artikelen 3.4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=3.4), en [4.9, derde lid, van het Waterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=4.9).
 
-## Bijlage III. bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=4&z=2009-12-22&g=2009-12-22)
+## Bijlage III. bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=4&z=2010-10-01&g=2010-10-01)
 
 |   | Voorwaarde voor opname op de risicokaart |
 | --- | --- |
@@ -278,7 +278,7 @@ Deze regeling berust mede op [artikelen 3.4, zevende lid](https://wetten.overhei
 |   |   |
 | Alle gebouwen vanaf 25 verdiepingen | >24 verdiepingen |
 
-## Bijlage IV. bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=4&z=2009-12-22&g=2009-12-22)
+## Bijlage IV. bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=4&z=2010-10-01&g=2010-10-01)
 
 - 1. Omvang van de overstroming.
 
