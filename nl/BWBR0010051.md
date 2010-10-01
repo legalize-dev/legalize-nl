@@ -4,7 +4,7 @@ identifier: "BWBR0010051"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-07-12"
-last_updated: "2007-01-01"
+last_updated: "2010-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010051"
 soort: "ministeriele-regeling"
@@ -74,7 +74,7 @@ Besluit:
 
 - d. een overzicht van de geschatte loonkosten van de collectieve arbeidsovereenkomst, bedoeld in onderdeel a, tenzij een schatting niet mogelijk is door gebrek aan kennis van de loonkosten voorafgaand aan deze collectieve arbeidsovereenkomst.
 
-2. Indien de mededeling, bedoeld in [artikel 1:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=1&artikel=1:1&z=2007-01-01&g=2007-01-01), betrekking heeft op een collectieve arbeidsovereenkomst welke in vergelijking met de daaraan voorafgaande collectieve arbeidsovereenkomst wijzigingen heeft ondergaan, wordt bij de mededeling, bedoeld in dat lid, gevoegd;
+2. Indien de mededeling, bedoeld in [artikel 1:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=1&artikel=1:1&z=2010-10-01&g=2010-10-01), betrekking heeft op een collectieve arbeidsovereenkomst welke in vergelijking met de daaraan voorafgaande collectieve arbeidsovereenkomst wijzigingen heeft ondergaan, wordt bij de mededeling, bedoeld in dat lid, gevoegd;
 
 - a. de digitale tekst van de integrale collectieve arbeidsovereenkomst, met inbegrip van alle daarbij behorende bijlagen, waaronder de rechtens geldende statuten en reglementen van fondsen, waarbij gebruik is gemaakt van algemeen gebruikte programmatuur 2Zie [artikel II van de Wijziging Besluit aanmelding van collectieve arbeidsovereenkomsten en het aanvragen van algemeen verbindend verklaring](https://wetten.overheid.nl/jci1.3:c:BWBR0012911&artikel=II), AV/A&M/2001/60856, 23 oktober 2001.;
 
@@ -86,11 +86,11 @@ Besluit:
 
 3. Bij een wijziging van de collectieve arbeidsovereenkomst die binnen de looptijd daarvan valt, is het tweede lid, onderdelen a tot en met d van overeenkomstige toepassing;
 
-4. Het eerste lid, onderdelen c en d, en het tweede lid, onderdelen b, c en d, zijn niet van toepassing in geval van een collectieve arbeidsovereenkomst op ondernemingsniveau, indien het aantal werknemers, bedoeld in [artikel 1:1, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=1&artikel=1:1&z=2007-01-01&g=2007-01-01) minder dan 2000 bedraagt.
+4. Het eerste lid, onderdelen c en d, en het tweede lid, onderdelen b, c en d, zijn niet van toepassing in geval van een collectieve arbeidsovereenkomst op ondernemingsniveau, indien het aantal werknemers, bedoeld in [artikel 1:1, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=1&artikel=1:1&z=2010-10-01&g=2010-10-01) minder dan 2000 bedraagt.
 
 ##### Artikel 1:3
 
-Indien een of meer verenigingen van werkgevers of een of meer verenigingen van werknemers, voor de eerste keer in zijn bestaan een collectieve arbeidsovereenkomst heeft (hebben) aangegaan, wordt bij de mededeling, bedoeld in [artikel 1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=1&artikel=1:1&z=2007-01-01&g=2007-01-01), een afschrift van de statuten van die vereniging of verenigingen gevoegd.
+Indien een of meer verenigingen van werkgevers of een of meer verenigingen van werknemers, voor de eerste keer in zijn bestaan een collectieve arbeidsovereenkomst heeft (hebben) aangegaan, wordt bij de mededeling, bedoeld in [artikel 1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=1&artikel=1:1&z=2010-10-01&g=2010-10-01), een afschrift van de statuten van die vereniging of verenigingen gevoegd.
 
 #### § 2. Verzoek tot algemeen verbindendverklaring van bepalingen van collectieve arbeidsovereenkomsten
 
@@ -112,21 +112,21 @@ Een verzoek tot het algemeen verbindend verklaren van bepalingen van collectieve
 
 ##### Artikel 2:2
 
-1. Bij een verzoek, zoals bedoeld in [artikel 2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=2&artikel=2:1&z=2007-01-01&g=2007-01-01), wordt gevoegd:
+1. Bij een verzoek, zoals bedoeld in [artikel 2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=2&artikel=2:1&z=2010-10-01&g=2010-10-01), wordt gevoegd:
 
-- a. de digitale tekst van de integrale collectieve arbeidsovereenkomst op diskette, waarbij gebruik is gemaakt van algemeen gebruikte programmatuur, en waarbij de bepalingen waarvoor geen algemeen verbindend verklaring wordt verzocht door middel van duidelijke markeringen zijn aangegeven;
+- a. de digitale tekst van de integrale collectieve arbeidsovereenkomst, waarbij gebruik is gemaakt van algemeen gebruikte programmatuur, en waarbij de bepalingen waarvoor geen algemeen verbindend verklaring wordt verzocht door middel van duidelijke markeringen zijn aangegeven;
 
-- b. een op papier geprinte versie van de digitale tekst, bedoeld in onderdeel a, mét en zònder de in dat onderdeel bedoelde markering in tweevoud;
+- b. een op papier geprinte versie van de digitale tekst, bedoeld in onderdeel a, mét de in dat onderdeel bedoelde markering in tweevoud;
 
 - c. een opgave van:
 
 - 1. het aantal werkgevers lid van werkgeversvereniging(en) die partij zijn bij de collectieve arbeidsovereenkomst en onderscheidenlijk het aantal werkgevers dat naar de aard van de bedrijfsactiviteiten en de werkzaamheden tot de werkingssfeer van de collectieve arbeidsovereenkomst kan worden gerekend alsmede
 
-- 2. het aantal werknemers in dienst van werkgevers die lid zijn van de werkgeversvereniging(en) die partij zijn bij deze collectieve arbeidsovereenkomst en onderscheidenlijk het aantal werknemers werkzaam bij werkgevers die naar de aard van de bedrijfsactiviteiten en de werkzaamheden tot de werkingssfeer van de collectieve arbeidsovereenkomst kunnen worden gerekend.
+- 2. het aantal personen werkzaam bij werkgevers die lid zijn van de werkgeversvereniging(en) die partij zijn bij deze collectieve arbeidsovereenkomst en onderscheidenlijk het aantal personen werkzaam bij werkgevers die naar de aard van de bedrijfsactiviteiten en de werkzaamheden tot de werkingssfeer van de collectieve arbeidsovereenkomst gerekend kunnen worden.
 
-- d. een toelichting op de wijze van de verzameling van de representativiteitsgegevens, die in ieder geval het volgende bevat:
+- d. een toelichting op de wijze van de verzameling van de representativiteitsgegevens waarbij gebruik kan worden gemaakt van een daarvoor opgesteld formulier representativiteitsgegevens’, dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&bijlage=1&z=2010-10-01&g=2010-10-01) bij deze regeling is gevoegd, die in ieder geval het volgende bevat:
 
-- 1. een opgave van de gebruikte bronnen voor de aantallen werkgevers en werknemers zoals genoemd onder onderdeel c, onder 1 en 2;
+- 1. een opgave van de gebruikte bronnen voor de aantallen werkgevers en personen zoals genoemd onder onderdeel c, onder 1 en 2;
 
 - 2. een opgave van de gehanteerde onderzoeksmethode;
 
@@ -134,33 +134,41 @@ Een verzoek tot het algemeen verbindend verklaren van bepalingen van collectieve
 
 - 4. een opgave van de peildatum of de periode waarop de cijfers betrekking hebben;
 
-- 5. een toelichting waaruit blijkt dat de grenzen van het domein waarover de gegevens zijn verzameld gerelateerd zijn aan de werkingssfeer van de collectieve arbeidsovereenkomst. Daarbij dient ook duidelijk te zijn dat in de werkingssfeer van de collectieve arbeidsovereenkomst uitgesloten categorieën werknemers in de tellingen buiten beschouwing zijn gelaten.
+- 5. een toelichting waaruit blijkt dat de grenzen van het domein waarover de gegevens zijn verzameld gerelateerd zijn aan de werkingssfeer van de collectieve arbeidsovereenkomst. Daarbij dient ook duidelijk te zijn dat in de werkingssfeer van de collectieve arbeidsovereenkomst uitgesloten categorieën personen in de tellingen buiten beschouwing zijn gelaten.
 
-2. De brongegevens met betrekking tot de representativiteit, bedoeld in het eerste lid, onderdelen c en d, die zijn gevoegd bij het verzoek, bedoeld in [artikel 2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=2&artikel=2:1&z=2007-01-01&g=2007-01-01), worden door de indieners van het verzoek tot algemeen verbindend verklaring bewaard teneinde deze te kunnen gebruiken voor een onderzoek door de Minister van Sociale Zaken en Werkgelegenheid naar de kwaliteit van deze gegevens. Deze gegevens worden desgevraagd beschikbaar gesteld.
+2. De brongegevens met betrekking tot de representativiteit, bedoeld in het eerste lid, onderdelen c en d, die zijn gevoegd bij het verzoek, bedoeld in [artikel 2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=2&artikel=2:1&z=2010-10-01&g=2010-10-01), worden door de indieners van het verzoek tot algemeen verbindend verklaring bewaard teneinde deze te kunnen gebruiken voor een onderzoek door de Minister van Sociale Zaken en Werkgelegenheid naar de kwaliteit van deze gegevens. Deze gegevens worden desgevraagd beschikbaar gesteld.
+
+3. Indien het verzoek betrekking heeft op een collectieve arbeidsovereenkomst die in vergelijking met de daaraan voorafgaande collectieve arbeidsovereenkomst wijzigingen heeft ondergaan, wordt tevens bij een verzoek als bedoeld in [artikel 2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=2&artikel=2:1&z=2010-10-01&g=2010-10-01), gevoegd de letterlijke tekst van de integrale collectieve arbeidsovereenkomst waarbij de wijzigingen door middel van markeringen zijn aangegeven als bedoeld in [artikel 1:2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=1&artikel=1:2&z=2010-10-01&g=2010-10-01), tenzij deze tekst reeds in het kader van dat laatstgenoemde artikellidonderdeel is overgelegd.
 
 ##### Artikel 2:3
 
-1. Indien op grond van de opgave, bedoeld in [artikel 2:2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=2&artikel=2:2&z=2007-01-01&g=2007-01-01), het aantal werknemers waarop de collectieve arbeidsovereenkomst van toepassing is, minder bedraagt dan 60% van het totaal aantal werknemers als bedoeld in dat artikellidonderdeel dan wel tegen algemeen verbindendverklaring ingediende gegronde bedenkingen daartoe aanleiding geven, zal een door een registeraccountant of een accountants-administratieconsulent met certificerende bevoegdheid geverifieerde opgave worden verlangd van de verstrekte aantallen werknemers en de betrouwbaarheid van de daartoe gekozen bronnen zoals genoemd in [artikel 2:2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=2&artikel=2:2&z=2007-01-01&g=2007-01-01).
+1. Indien op grond van de opgave, bedoeld in [artikel 2:2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=2&artikel=2:2&z=2010-10-01&g=2010-10-01), het aantal personen waarop de collectieve arbeidsovereenkomst van toepassing is, minder bedraagt dan 60% van het totaal aantal personen als bedoeld in dat artikellidonderdeel dan wel tegen algemeen verbindendverklaring ingediende gegronde bedenkingen daartoe aanleiding geven wordt de toelichting op de wijze van verzameling van de representativiteitsgegevens, bedoeld in artikel 2:2, eerste lid, onderdeel d, gegeven aan de hand van het in dat artikellidonderdeel bedoelde formulier representativiteitsgegevens.
 
-2. In aanvulling op hetgeen onder [artikel 2:2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=2&artikel=2:2&z=2007-01-01&g=2007-01-01), bij een verzoek als bedoeld in [artikel 2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=2&artikel=2:1&z=2007-01-01&g=2007-01-01) moet worden gevoegd, kan de Minister van Sociale Zaken en Werkgelegenheid vragen om een opgave van het aantal werknemers, dat lid is van werknemersverenigingen die partij zijn bij de collectieve arbeidsovereenkomst.
+2. De Minister van Sociale Zaken en Werkgelegenheid kan naar aanleiding van de opgave, bedoeld in [artikel 2:2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=2&artikel=2:2&z=2010-10-01&g=2010-10-01), verlangen dat een nadere rapportage over de juistheid van die opgave van een registeraccountant of een accountantsadministratieconsulent die daartoe gecertificeerd is, wordt overgelegd.
+
+3. In aanvulling op hetgeen onder [artikel 2:2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=2&artikel=2:2&z=2010-10-01&g=2010-10-01), bij een verzoek als bedoeld in [artikel 2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=2&artikel=2:1&z=2010-10-01&g=2010-10-01) moet worden gevoegd, kan de Minister van Sociale Zaken en Werkgelegenheid vragen om een opgave van het aantal personen, dat lid is van werknemersverenigingen die partij zijn bij de collectieve arbeidsovereenkomst.
 
 ##### Artikel 2:4
 
-In afwijking van [artikel 2:2, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=2&artikel=2:2&z=2007-01-01&g=2007-01-01), wordt, indien het verzoek, bedoeld in [artikel 2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=2&artikel=2:1&z=2007-01-01&g=2007-01-01), betrekking heeft op een tussentijdse wijziging van de collectieve arbeidsovereenkomst, bij dit verzoek gevoegd:
+In afwijking van [artikel 2:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=2&artikel=2:2&z=2010-10-01&g=2010-10-01), wordt, indien het verzoek, bedoeld in [artikel 2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=2&artikel=2:1&z=2010-10-01&g=2010-10-01), betrekking heeft op een tussentijdse wijziging van de collectieve arbeidsovereenkomst, bij dit verzoek gevoegd:
 
-- a. de digitale tekst van de integrale collectieve arbeidsovereenkomst op diskette, waarbij gebruik is gemaakt van de programmatuur, bedoeld in [artikel 2:2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=2&artikel=2:2&z=2007-01-01&g=2007-01-01), en waarbij de tussentijds gewijzigde bepalingen waarvoor geen algemeen verbindendverklaring wordt verzocht door middel van duidelijke markeringen zijn aangegeven;
+- a. de digitale tekst van de tussentijdse wijzigingen, waarbij gebruik is gemaakt van de programmatuur, bedoeld in [artikel 2:2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=2&artikel=2:2&z=2010-10-01&g=2010-10-01), en waarbij de tussentijds gewijzigde bepalingen waarvoor geen algemeen verbindendverklaring wordt verzocht door middel van duidelijke markeringen zijn aangegeven;
 
-- b. een op papier geprinte versie van de digitale tekst van de tussentijdse wijzigingen, bedoeld in onderdeel a, mét en zònder de in dat onderdeel bedoelde markering in tweevoud;
+- b. een op papier geprinte versie van de digitale tekst, bedoeld in onderdeel a, met de in dat onderdeel bedoelde markering in tweevoud;
+
+- c. een opgave van de representativiteitsgegevens en een toelichting op de wijze van verzameling daarvan, bedoeld in [artikel 2:2 onderdeel c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=2&artikel=2:2&z=2010-10-01&g=2010-10-01), indien de tussentijdse wijziging van de collectieve arbeidsovereenkomst betrekking heeft op de werkingssfeer daarvan;
+
+- d. de digitale tekst, bedoeld in onderdeel a, en de op papier geprinte versie, bedoeld in onderdeel b, omvat tevens de integrale tekst van de werkingssfeerbepaling of werkingssfeerbepalingen, indien sprake is van een collectieve arbeidsovereenkomst waarin tevens fondsbepalingen zijn opgenomen welke voor een langer tijdvak algemeen verbindend zijn verklaard dan de overige bepalingen en het verzoek betrekking heeft op die overige bepalingen vanwege het verstrijken van de duur daarvan.
 
 ##### Artikel 2:6
 
-Een verzoek, als bedoeld in [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=2&artikel=2:1&z=2007-01-01&g=2007-01-01), wordt eerst in behandeling genomen wanneer alle van belang zijnde gegevens en bescheiden, genoemd in de [artikelen 2:2](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=2&artikel=2:2&z=2007-01-01&g=2007-01-01) en [2:4](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=2&artikel=2:4&z=2007-01-01&g=2007-01-01) bij het verzoek zijn gevoegd.
+Een verzoek, als bedoeld in [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=2&artikel=2:1&z=2010-10-01&g=2010-10-01), wordt eerst in behandeling genomen wanneer alle van belang zijnde gegevens en bescheiden, genoemd in de [artikelen 2:2](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=2&artikel=2:2&z=2010-10-01&g=2010-10-01) en [2:4](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=2&artikel=2:4&z=2010-10-01&g=2010-10-01) bij het verzoek zijn gevoegd.
 
 #### § 2a. Dispensatie van algemeen verbindend verklaarde bepalingen van collectieve arbeidsovereenkomsten
 
 ##### Artikel 3:1
 
-1. Indien de mededeling, bedoeld in [artikel 1:1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=1&artikel=1:1&z=2007-01-01&g=2007-01-01), elektronisch wordt verzonden, wordt daarbij gebruik gemaakt van de daarvoor door de Minister ter beschikking gestelde elektronische formulieren en een door hem erkende elektronische handtekening.
+1. Indien de mededeling, bedoeld in [artikel 1:1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=1&artikel=1:1&z=2010-10-01&g=2010-10-01), elektronisch wordt verzonden, wordt daarbij gebruik gemaakt van de daarvoor door de Minister ter beschikking gestelde elektronische formulieren en een door hem erkende elektronische handtekening.
 
 2. Indien de mededeling van het sluiten van een collectieve arbeidsovereenkomst elektronisch is verzonden als bedoeld in het eerste lid, worden mededelingen van het wijzigen of opzeggen daarvan eveneens elektronisch verzonden.
 
@@ -190,9 +198,15 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 3. Een verzoek om dispensatie dat buiten de periode van tervisielegging, bedoeld in het eerste lid, wordt gedaan, wordt niet gehonoreerd.
 
+4. Van een beschikking op een verzoek om dispensatie wordt in de overwegingen bij het besluit tot algemeen verbindendverklaring melding gemaakt.
+
 ##### Artikel 2:8
 
-[Artikel 2:7](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=2a&artikel=2:7&z=2007-01-01&g=2007-01-01) is van overeenkomstige toepassing op een verzoek om dispensatie dat wordt gedaan naar aanleiding van een verzoek om algemeen verbindend verklaring van een wijziging van de werkingssfeerbepaling of werkingssfeerbepalingen van een collectieve arbeidsovereenkomst tijdens de looptijd van een besluit waarbij bepalingen van die collectieve arbeidsovereenkomst algemeen verbindend zijn verklaard.
+[Artikel 2:7](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=2a&artikel=2:7&z=2010-10-01&g=2010-10-01) is van overeenkomstige toepassing op een verzoek om dispensatie dat wordt gedaan:
+
+- a. naar aanleiding van een verzoek om algemeenverbindendverklaring van een wijziging van de werkingssfeerbepaling of werkingssfeerbepalingen van een collectieve arbeidsovereenkomst tijdens de looptijd van een besluit waarbij bepalingen van die collectieve arbeidsovereenkomst algemeen verbindend zijn verklaard;
+
+- b. naar aanleiding van een verzoek om algemeenverbindendverklaring als bedoeld in [artikel 2:4, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&paragraaf=2&artikel=2:4&z=2010-10-01&g=2010-10-01).
 
 #### § 3. Elektronische aanmelding
 
@@ -201,5 +215,11 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 #### Inwerkingtreding
 
 #### Citeertitel
+
+Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage 1
+
+Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid en is gepubliceerd op cao.szw.nl.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
