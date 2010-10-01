@@ -4,7 +4,7 @@ identifier: "BWBR0019516"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2008-06-13"
+last_updated: "2010-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019516"
 soort: "wet"
@@ -57,7 +57,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. bevoegd college van burgemeester en wethouders: het college van burgemeester en wethouders van de gemeente waarin een tunnel geheel of in hoofdzaak is of zal zijn gelegen;
 
-- d. hulpverleningsdiensten: de politie, de brandweer en de geneeskundige hulpverlening bij ongevallen en rampen;
+- d. hulpverleningsdiensten: de politie, de brandweer en de GHOR, bedoeld in [artikel 1 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=1);
 
 - e. bouwen: hetgeen onder bouwen wordt verstaan in [artikel 1, eerste lid, onderdeel a, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1).
 
@@ -95,17 +95,17 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 2. In geval overwogen wordt een tunnel te bouwen of het gebruik te veranderen, stelt de tunnelbeheerder na overleg met de veiligheidsbeambte een tunnelveiligheidsplan op waarin alle veiligheidsaspecten die een rol spelen bij de keuze van de locatie, het ontwerp en het beoogde gebruik, worden afgewogen. De risicoanalyses, bedoeld in het eerste lid, maken daarvan onderdeel uit. Bij ministeriële regeling worden nadere regels gesteld ten aanzien van de vorm en inhoud van het tunnelveiligheidsplan.
 
-3. De tunnelbeheerder vraagt advies aan de Commissie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=3&z=2008-06-13&g=2008-06-13), over:
+3. De tunnelbeheerder vraagt advies aan de Commissie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=3&z=2010-10-01&g=2010-10-01), over:
 
 - a. het tunnelveiligheidsplan; en
 
-- b. het bouwplan waarvoor bouwvergunning zal worden aangevraagd.
+- b. het bouwplan waarvoor een omgevingsvergunning voor een bouwactiviteit als bedoeld in [artikel 2.1, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) zal worden aangevraagd.
 
-4. In afwijking van [artikel 2, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=2&z=2008-06-13&g=2008-06-13), is het derde lid van overeenkomstige toepassing ten aanzien van tunnels, langer dan 250 meter, bestemd voor verkeer over spoorstaven of geleiderails.
+4. In afwijking van [artikel 2, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=2&z=2010-10-01&g=2010-10-01), is het derde lid van overeenkomstige toepassing ten aanzien van tunnels, langer dan 250 meter, bestemd voor verkeer over spoorstaven of geleiderails.
 
 ##### Artikel 7
 
-Voor de openstelling van een tunnel stelt de tunnelbeheerder na overleg met de veiligheidsbeambte en de burgemeester van de gemeente of van elk van de gemeenten waarin de tunnel is gelegen een veiligheidsbeheerplan op. Het plan omvat ten minste de organisatie van het tunnelbeheer, de afstemming van dit beheer met de hulpverleningsdiensten, de verkeersbegeleiding, de instandhoudingsactiviteiten en de bestrijding van rampen, zware ongevallen of andere gebeurtenissen in of bij een tunnel die een mensenleven, het milieu of de tunnel in gevaar kunnen brengen. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de inhoud van het veiligheidsbeheerplan.
+Voor de openstelling van een tunnel stelt de tunnelbeheerder na overleg met de veiligheidsbeambte en de burgemeester van de gemeente of van elk van de gemeenten waarin de tunnel is gelegen een veiligheidsbeheerplan op. Het plan omvat ten minste de organisatie van het tunnelbeheer, de afstemming van dit beheer met de hulpverleningsdiensten, de verkeersbegeleiding, de instandhoudingsactiviteiten en de bestrijding van rampen of andere gebeurtenissen in of bij een tunnel die een mensenleven, het milieu of de tunnel in gevaar kunnen brengen. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de inhoud van het veiligheidsbeheerplan.
 
 ##### Artikel 8
 
@@ -113,7 +113,7 @@ Voor de openstelling van een tunnel stelt de tunnelbeheerder na overleg met de v
 
 - a. na het bouwen open te stellen zonder daartoe strekkende vergunning van het bevoegd college van burgemeester en wethouders;
 
-- b. in gebruik te hebben zonder of in afwijking van het veiligheidsbeheerplan, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=7&z=2008-06-13&g=2008-06-13).
+- b. in gebruik te hebben zonder of in afwijking van het veiligheidsbeheerplan, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=7&z=2010-10-01&g=2010-10-01).
 
 2. Bij ministeriële regeling wordt bepaald welke gegevens en bescheiden bij een aanvraag om vergunning, bedoeld in het eerste lid, verstrekt, onderscheidenlijk overgelegd, worden.
 
@@ -139,7 +139,7 @@ De tunnelbeheerder draagt zorg voor een actueel tunnelveiligheidsdossier. Bij mi
 
 - a. doet het bevoegd college van burgemeester en wethouders daarvan onverwijld mededeling aan de tunnelbeheerder, de veiligheidsbeambte, Onze Minister en Onze Minister voor Wonen, Wijken en Integratie;
 
-- b. kan het bevoegd college van burgemeester en wethouders de vergunning, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=8&z=2008-06-13&g=2008-06-13), intrekken.
+- b. kan het bevoegd college van burgemeester en wethouders de vergunning, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=8&z=2010-10-01&g=2010-10-01), intrekken.
 
 ##### Artikel 12
 
