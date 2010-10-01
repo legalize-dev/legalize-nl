@@ -4,7 +4,7 @@ identifier: "BWBR0013371"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-01-01"
-last_updated: "2009-07-01"
+last_updated: "2010-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013371"
 soort: "AMvB"
@@ -54,17 +54,17 @@ In dit besluit wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- b. bijstand: de bijstand, bedoeld in de[artikelen 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003764&artikel=8), en [9, tweede lid, van de Brandweerwet 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0003764&artikel=9);
+- b. **bijstand:** bijstand door een veiligheidsregio als bedoeld in [artikel 51, eerste lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=51);
 
-- c. kosten: de kosten voor bijstand of de bestrijding van een ramp of zwaar ongeval die niet in de begroting van het jaar waarin de ramp of het zware ongeval heeft plaatsgevonden hadden kunnen worden voorzien;
+- c. kosten: de kosten voor bijstand of de bestrijding van een ramp die niet in de begroting van het jaar waarin de ramp heeft plaatsgevonden hadden kunnen worden voorzien;
 
 - d. overeenkomsten: de op 14 november 1984 te Den Haag tot stand gekomen Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België inzake wederzijdse bijstandsverlening bij het bestrijden van rampen en ongevallen (Trb. 1984, nr. 155) en de op 7 juni 1988 te Bonn tot stand gekomen Overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake wederzijdse bijstandsverlening bij het bestrijden van rampen, zware ongevallen daaronder begrepen (Trb. 1988, nr. 95).
 
-#### § 2. Bijdrage in de kosten gemaakt voor bijstand of voor de bestrijding van een ramp of zwaar ongeval in Nederland
+#### § 2. Bijdrage in de kosten gemaakt voor bijstand of voor de bestrijding van een ramp in Nederland
 
 ##### Artikel 2
 
-1. Onze Minister verleent op aanvraag van het college van burgemeester en wethouders van een gemeente of van het bestuur van een regionale brandweer een bijdrage in de kosten die voor de gemeente of de regionale brandweer voortvloeien uit de verlening van bijstand, voor zover die kosten een bedrag van € 4500,– te boven gaan.
+1. Onze Minister verleent op aanvraag van het bestuur van de veiligheidsregio een bijdrage voor de kosten die voor de regionale brandweer voortvloeien uit de verlening van bijstand, voor zover die kosten een bedrag van € 4500,– te boven gaan.
 
 2. Voor een bijdrage als bedoeld in het eerste lid, komen in aanmerking:
 
@@ -76,19 +76,19 @@ In dit besluit wordt verstaan onder:
 
 - d. de kosten van reparatie en onderhoud.
 
-3. Indien bijstand is verleend in het kader van de bestrijding van een ramp of zwaar ongeval en de gevolgen daarvan, wordt de aanvraag, bedoeld in het eerste lid, ingediend door tussenkomst van de gemeente waaraan de bijstand is verleend.
+3. Indien bijstand is verleend in het kader van de bestrijding van een ramp en de gevolgen daarvan, wordt de aanvraag, bedoeld in het eerste lid, ingediend door tussenkomst van de gemeente waaraan de bijstand is verleend.
 
 ##### Artikel 3
 
-1. Onze Minister verleent op aanvraag van het college van burgemeester en wethouders een bijdrage in de kosten die een gemeente heeft gemaakt in verband met de daadwerkelijke bestrijding van een ramp of zwaar ongeval en de gevolgen daarvan.
+1. Onze Minister verleent op aanvraag van het college van burgemeester en wethouders een bijdrage in de kosten die een gemeente heeft gemaakt in verband met de daadwerkelijke bestrijding van een ramp en de gevolgen daarvan.
 
-2. De bijdrage wordt berekend op grond van de kosten die voortvloeien uit de daadwerkelijke bestrijding van de ramp of het zware ongeval en de gevolgen daarvan, verminderd met:
+2. De bijdrage wordt berekend op grond van de kosten die voortvloeien uit de daadwerkelijke bestrijding van de ramp en de gevolgen daarvan, verminderd met:
 
 - a. de kosten waarvoor de gemeente uit andere hoofde een bijdrage heeft verkregen of kan verkrijgen;
 
-- b. de kosten die een gemeente of een regio in rekening brengt voor de verlening van bijstand;
+- b. de kosten die een veiligheidsregio in rekening brengt voor de verlening van bijstand;
 
-- c. de uitkomst van de vermenigvuldiging van het aantal inwoners van de gemeente volgens de door het Centraal Bureau voor de Statistiek openbaar gemaakte bevolkingscijfers per 1 januari van het jaar waarin de ramp of het zware ongeval heeft plaatsgevonden met € 3,-.
+- c. de uitkomst van de vermenigvuldiging van het aantal inwoners van de gemeente volgens de door het Centraal Bureau voor de Statistiek openbaar gemaakte bevolkingscijfers per 1 januari van het jaar waarin de ramp heeft plaatsgevonden met € 3,-.
 
 3. Geen bijdrage wordt toegekend, indien de kosten, bedoeld in het tweede lid, aanhef, onder a en b, € 45 000,– of minder bedragen.
 
@@ -96,13 +96,13 @@ In dit besluit wordt verstaan onder:
 
 5. Indien de gemeente verkeert of door toepassing van het tweede of derde lid zou komen te verkeren in de situatie, bedoeld in [artikel 12 van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=12), kan Onze Minister in overeenstemming met Onze Minister van Financiën op verzoek van het college van burgemeester en wethouders het ten laste van de gemeente komend aandeel in de kosten op een lager bedrag vaststellen dan wel bepalen dat door de gemeente geen aandeel in de kosten verschuldigd is.
 
-#### § 3. Bijdrage in de kosten gemaakt voor bijstand bij de bestrijding van een ramp of zwaar ongeval in België of Duitsland
+#### § 3. Bijdrage in de kosten gemaakt voor bijstand bij de bestrijding van een ramp in België of Duitsland
 
 ##### Artikel 4
 
-1. Onze Minister verleent op aanvraag een bijdrage in de kosten die voortvloeien uit het verlenen van bijstand bij de bestrijding van rampen en zware ongevallen in België of Duitsland ingevolge de met deze landen gesloten overeenkomsten.
+1. Onze Minister verleent op aanvraag een bijdrage in de kosten die voortvloeien uit het verlenen van bijstand bij de bestrijding van rampen in België of Duitsland ingevolge de met deze landen gesloten overeenkomsten.
 
-2. De aanvraag kan worden ingediend door bij de bijstand betrokken gedeputeerde staten, colleges van burgemeester en wethouders, besturen van regionale brandweren, centrale posten ambulancevervoer, intergemeentelijke gezondheidsdiensten, het Nederlandse Rode Kruis, particuliere ambulancevervoeders, of ziekenhuizen die een mobiel medisch team ter beschikking hebben gesteld. De aanvraag wordt ingediend door tussenkomst van Onze Commissaris van de Koningin van de betrokken provincie.
+2. De aanvraag kan worden ingediend door de colleges van burgemeester en wethouders, de besturen van de veiligheidsregio’s, het Nederlandse Rode Kruis, alsmede de in de regio werkzame instellingen, zorgaanbieders, ambulancevervoerders en gezondheidsdiensten, bedoeld in [artikel 33, eerste lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=33), die bij de bijstand waren betrokken.
 
 3. Voor een bijdrage als bedoeld in het eerste lid, komen in aanmerking:
 
@@ -122,7 +122,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 5
 
-1. De aanvragen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013371&paragraaf=2&artikel=2&z=2009-07-01&g=2009-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013371&paragraaf=2&artikel=3&z=2009-07-01&g=2009-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013371&paragraaf=3&artikel=4&z=2009-07-01&g=2009-07-01), worden uiterlijk twaalf maanden na het einde van de bijstandsverlening of de bestrijding van de ramp of het zware ongeval en de gevolgen daarvan ingediend bij Onze Minister.
+1. De aanvragen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013371&paragraaf=2&artikel=2&z=2010-10-01&g=2010-10-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013371&paragraaf=2&artikel=3&z=2010-10-01&g=2010-10-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013371&paragraaf=3&artikel=4&z=2010-10-01&g=2010-10-01), worden uiterlijk twaalf maanden na het einde van de bijstandsverlening of de bestrijding van de ramp en de gevolgen daarvan ingediend bij Onze Minister.
 
 2. De aanvraag gaat vergezeld van de opgave van de kosten, welke is voorzien van bewijsstukken, alsmede een verslag van de gebeurtenissen.
 
@@ -157,5 +157,11 @@ Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalende
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit rijksbijdragen bijstands- en bestrijdingskosten.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 10a
+
+Dit besluit berust op [artikel 55, vijfde lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=55).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
