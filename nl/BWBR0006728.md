@@ -4,7 +4,7 @@ identifier: "BWBR0006728"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-03-30"
-last_updated: "2004-08-25"
+last_updated: "2010-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006728"
 soort: "AMvB"
@@ -56,7 +56,7 @@ De commissaris bevordert de door hem noodzakelijk geachte samenwerking tussen in
 
 2. Indien de in het eerste lid bedoelde functionarissen weigeren de op grond van deze ambtsinstructie gevraagde medewerking te verlenen, brengt de commissaris Onze Ministers wie het aangaat, alsmede Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties daarvan op de hoogte.
 
-3. De commissaris geeft, indien een ramp, een zwaar ongeval of een ordeverstoring van meer dan plaatselijke betekenis dan wel de ernstige vrees voor het ontstaan daarvan zulks noodzakelijk maken, de in het eerste lid bedoelde functionarissen, met uitzondering van de ambtenaren van het openbaar ministerie, zoveel mogelijk na overleg met hen, de nodige aanwijzingen met betrekking tot de wijze waarop zij bij de uitoefening van de hun opgedragen taken met elkaar samenwerken en met het provinciaal bestuur, de gemeentebesturen en de waterschapsbesturen. De functionarissen zijn verplicht de aanwijzingen op te volgen. Onze Minister wie het aangaat kan de aanwijzingen ongedaan maken. Het verzoek daartoe heeft geen schorsende werking. De commissaris kan aan het College van procureurs-generaal verzoeken de ambtenaren van het openbaar ministerie de nodige instructies te geven.
+3. De commissaris geeft, indien een ramp, een crisis of een ordeverstoring van meer dan plaatselijke betekenis dan wel de ernstige vrees voor het ontstaan daarvan zulks noodzakelijk maken, de in het eerste lid bedoelde functionarissen, met uitzondering van de ambtenaren van het openbaar ministerie, zoveel mogelijk na overleg met hen, de nodige aanwijzingen met betrekking tot de wijze waarop zij bij de uitoefening van de hun opgedragen taken met elkaar samenwerken en met het provinciaal bestuur, de gemeentebesturen, de besturen van de veiligheidsregio’s en de waterschapsbesturen. De functionarissen zijn verplicht de aanwijzingen op te volgen. Onze Minister wie het aangaat kan de aanwijzingen ongedaan maken. Het verzoek daartoe heeft geen schorsende werking. De commissaris kan aan het College van procureurs-generaal verzoeken de ambtenaren van het openbaar ministerie de nodige instructies te geven.
 
 ##### Artikel 3
 
@@ -66,13 +66,13 @@ De commissaris brengt met redelijke tussenpozen bezoeken aan de gemeenten in de 
 
 1. De commissaris brengt uit eigen beweging, dan wel op verzoek advies uit aan de regering of aan Onze Ministers over andere onderwerpen dan die bedoeld in [artikel 116, eerste lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=116).
 
-2. De commissaris brengt zijn advies over de in [artikel 25, tweede lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=25) bedoelde aanbeveling voor de benoeming van een korpschef of van een van de in [artikel 25, derde lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=25) bedoelde ambtenaren van politie uit binnen vier weken, nadat Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties hem om advies heeft gevraagd.
+2. De commissaris brengt zijn advies over de in [artikel 23, zevende lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=23) bedoelde besluiten ter zake van de benoeming, de herbenoeming, de schorsing en het ontslag van de korpsbeheerder, alsmede omtrent de benoeming van een waarnemend korpsbeheerder uit binnen vier weken, nadat Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties hem om advies heeft gevraagd.
+
+3. De commissaris brengt zijn advies over de in [artikel 25, tweede lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=25) bedoelde aanbeveling voor de benoeming van een korpschef of van een van de in [artikel 25, derde lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=25) bedoelde ambtenaren van politie uit binnen vier weken, nadat Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties hem om advies heeft gevraagd.
 
 ##### Artikel 5
 
-1. De commissaris coördineert de voorbereiding van de civiele verdediging door de in de provincie werkzame rijksambtenaren en personen deel uitmakend van de krijgsmacht, het provinciaal bestuur, de gemeentebesturen en de waterschapsbesturen, met inachtneming van de aanwijzingen van Onze Minister, belast met de coördinerende verantwoordelijkheid voor de civiele verdediging.
-
-2. De commissaris zit het overleg voor tussen de in de provincie werkzame rijksambtenaren en personen deel uitmakend van de krijgsmacht, de burgemeesters en de voorzitters van de waterschapsbesturen over de wederzijdse afstemming van hun beleid met betrekking tot de civiele verdediging.
+De commissaris coördineert de voorbereiding van de civiele verdediging door de in de provincie werkzame rijksambtenaren en personen deel uitmakend van de krijgsmacht, het provinciaal bestuur, de gemeentebesturen en de waterschapsbesturen, met inachtneming van de aanwijzingen van Onze Minister, belast met de coördinerende verantwoordelijkheid voor de civiele verdediging.
 
 ##### Artikel 6
 
@@ -118,7 +118,7 @@ De commissaris brengt met redelijke tussenpozen bezoeken aan de gemeenten in de 
 
 ##### Artikel 10
 
-Onverminderd [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006728&artikel=2&z=2004-08-25&g=2004-08-25), kan de commissaris een ieder belast met bevoegdheden in de openbare dienst in de provincie verzoeken om bericht en raad, voor zover hij dat nodig acht in verband met de hem bij deze instructie opgedragen taken. Aan deze verzoeken dient te worden voldaan.
+Onverminderd [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006728&artikel=2&z=2010-10-01&g=2010-10-01), kan de commissaris een ieder belast met bevoegdheden in de openbare dienst in de provincie verzoeken om bericht en raad, voor zover hij dat nodig acht in verband met de hem bij deze instructie opgedragen taken. Aan deze verzoeken dient te worden voldaan.
 
 ##### Artikel 11
 
@@ -135,5 +135,31 @@ Dit besluit treedt in werking met ingang van 15 augustus 1994.
 ##### Artikel 14
 
 Dit besluit wordt aangehaald als: Ambtsinstructie commissaris van de Koning.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+##### Artikel 5a
+
+1. De commissaris overlegt met het regionaal beleidsteam, alvorens een aanwijzing te geven als bedoeld in [artikel 41 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=41).
+
+2. De commissaris stelt Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties onverwijld in kennis van een gegeven aanwijzing.
+
+##### Artikel 5b
+
+De commissaris zendt zijn oordeel over het bestreden besluit, bedoeld in [artikel 40, vijfde lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=40), alsmede de stukken, bedoeld in het eerste en tweede lid van dat artikel, binnen zes weken na de ontvangst van het standpunt van de raad over dat besluit aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
+
+##### Artikel 5c
+
+1. Tenzij de vereiste spoed zich daartegen verzet, geeft de commissaris geen aanwijzing als bedoeld in [artikel 42 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=42) dan na overleg met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
+
+2. De commissaris geeft onverwijld uitvoering aan een verzoek van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties tot het geven van een aanwijzing als bedoeld in [artikel 42 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=42).
+
+##### Artikel 5d
+
+1. Indien uit een rapportage van de Inspectie Openbare Orde en Veiligheid blijkt dat de taakuitvoering in een veiligheidsregio tekortschiet, ziet de commissaris er op toe dat het bestuur van de veiligheidsregio passende maatregelen neemt om de tekortkomingen weg te nemen.
+
+2. De commissaris geeft geen aanwijzing als bedoeld in [artikel 59 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=59) dan na instemming van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
+
+3. De commissaris geeft uitvoering aan een verzoek van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties tot het geven van een aanwijzing als bedoeld in [artikel 59 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=59).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
