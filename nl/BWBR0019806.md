@@ -4,7 +4,7 @@ identifier: "BWBR0019806"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2010-09-02"
+last_updated: "2010-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019806"
 soort: "ministeriele-regeling"
@@ -87,11 +87,11 @@ Het tunnelveiligheidsplan, bedoeld in [artikel 6, tweede lid, van de wet](https:
 
 - c. een beschrijving van de wijze van voortdurende terugkoppeling van ervaring ten behoeve van de verslaglegging en analyse van significante voorvallen;
 
-- d. een beschrijving van de uitgangspunten en randvoorwaarden bij het gebruik van de tunnel, zoals aangegeven in de leidraad, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=5&z=2010-09-02&g=2010-09-02).
+- d. een beschrijving van de uitgangspunten en randvoorwaarden bij het gebruik van de tunnel, zoals aangegeven in de leidraad, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=5&z=2010-10-01&g=2010-10-01).
 
 ##### Artikel 7
 
-De veiligheidsbeambte werkt mee aan de afstemming tussen het calamiteitenbestrijdingsplan, bedoeld in [artikel 6, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=6&z=2010-09-02&g=2010-09-02), en de aanvalsplannen van de hulpverleningsdiensten. Hij neemt kennis van de rampbestrijdingsplannen van de desbetreffende gemeenten, voor zover de tunnel betreffende.
+De veiligheidsbeambte werkt mee aan de afstemming tussen het calamiteitenbestrijdingsplan, bedoeld in [artikel 6, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=6&z=2010-10-01&g=2010-10-01), en de aanvalsplannen van de hulpverleningsdiensten. Hij neemt kennis van de rampbestrijdingsplannen van de desbetreffende gemeenten, voor zover de tunnel betreffende.
 
 ##### Artikel 8
 
@@ -107,7 +107,7 @@ De veiligheidsbeambte werkt mee aan de afstemming tussen het calamiteitenbestrij
 
 - a. het tunnelveiligheidsplan, bedoeld in [artikel 6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&artikel=6);
 
-- b. het advies van de commissie over het tunnelveiligheidsplan en dat over het bouwplan waarvoor bouwvergunning aangevraagd zal worden;
+- b. het advies van de commissie over het tunnelveiligheidsplan en dat over het bouwplan waarvoor een omgevingsvergunning voor een bouwactiviteit als bedoeld in [artikel 2.1, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) aangevraagd zal worden;
 
 - c. het veiligheidsbeheerplan, bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&artikel=7);
 
@@ -141,11 +141,11 @@ De veiligheidsbeambte controleert regelmatig of de tunnelconstructies en -voorzi
 
 ##### Artikel 12
 
-1. Het tunnelveiligheidsdossier bevat alle voor de veiligheid betreffende de tunnel van belang zijnde gegevens en oorspronkelijke bescheiden, alsmede de desbetreffende digitale documenten, waartoe in elk geval behoren de documenten, bedoeld in de [artikelen 2 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=2&z=2010-09-02&g=2010-09-02), en de documenten betreffende het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=11&z=2010-09-02&g=2010-09-02), met inbegrip van latere wijzigingen daarvan, alsmede:
+1. Het tunnelveiligheidsdossier bevat alle voor de veiligheid betreffende de tunnel van belang zijnde gegevens en oorspronkelijke bescheiden, alsmede de desbetreffende digitale documenten, waartoe in elk geval behoren de documenten, bedoeld in de [artikelen 2 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=2&z=2010-10-01&g=2010-10-01), en de documenten betreffende het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=11&z=2010-10-01&g=2010-10-01), met inbegrip van latere wijzigingen daarvan, alsmede:
 
 - a. de planologische besluiten ten aanzien van de tunnel;
 
-- b. de bouwaanvraag en de bouwvergunning;
+- b. de omgevingsvergunning voor een bouwactiviteit als bedoeld in [artikel 2.1, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) en de bij die vergunning behorende aanvraag;
 
 - c. een lijst van de uitgevoerde oefeningen en een analyse van de lering die hieruit getrokken is.
 
