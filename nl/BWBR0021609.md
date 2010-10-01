@@ -4,7 +4,7 @@ identifier: "BWBR0021609"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2009-12-22"
+last_updated: "2010-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021609"
 soort: "AMvB"
@@ -72,7 +72,7 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip,
 
 Dit besluit wordt aangehaald als: Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken.
 
-## Bijlage. behorende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021609&artikel=2&z=2009-12-22&g=2009-12-22), van het Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken (aangewezen categorieën van beperkingenbesluiten)
+## Bijlage. behorende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021609&artikel=2&z=2010-10-01&g=2010-10-01), van het Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken (aangewezen categorieën van beperkingenbesluiten)
 
 ### Hoofdstuk I. Categorieën van beperkingenbesluiten krachtens wetten op het gebied van binnenlandse zaken en koninkrijksrelaties
 
@@ -124,39 +124,39 @@ Dit besluit wordt aangehaald als: Aanwijzingsbesluit Wet kenbaarheid publiekrech
 
 ### [Huisvestingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005674)
 
-### [Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994)
-
-– ([artikel 13b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=13b)) besluit van de burgemeester tot oplegging van een last onder bestuursdwang, indien dat besluit strekt tot sluiting van het betreffende object.
-
-### [Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994)
-
-### [Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449)
-
-### [Wet voorkeursrecht gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0003391)
-
-– ([artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0002731&artikel=60)) door de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer opgelegde gedoogplicht voor zover deze betreft het gebruik maken van onroerende zaken ten behoeve van het bepalen van luchtverontreiniging.
-
-### [Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449)
-
-– ([artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0002731&artikel=60)) door de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer opgelegde gedoogplicht voor zover deze betreft het gebruik maken van onroerende zaken ten behoeve van het bepalen van luchtverontreiniging.
-
-### [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181)
-
-### [Wet voorkeursrecht gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0003391)
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-### [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181)
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-### Hoofdstuk VI. Categorieën van beperkingenbesluiten krachtens wetten op het gebied van volksgezondheid, welzijn en sport
+### [Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779)
 
 – ([artikel 13b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=13b)) besluit van de burgemeester tot oplegging van een last onder bestuursdwang, indien dat besluit strekt tot sluiting van het betreffende object.
 
 ### [Wet inzake de luchtverontreiniging](https://wetten.overheid.nl/jci1.3:c:BWBR0002731)
 
-Tenzij het betreft bodem onder oppervlaktewater die eigendom is van een publiekrechtelijke rechtspersoon:
+### [Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449)
+
+### [Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449)
+
+– ([artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0002731&artikel=60)) door de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer opgelegde gedoogplicht voor zover deze betreft het gebruik maken van onroerende zaken ten behoeve van het bepalen van luchtverontreiniging.
+
+### [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181)
+
+– ([artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0002731&artikel=60)) door de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer opgelegde gedoogplicht voor zover deze betreft het gebruik maken van onroerende zaken ten behoeve van het bepalen van luchtverontreiniging.
+
+### [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181)
+
+### [Wet voorkeursrecht gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0003391)
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+### [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181)
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+### Hoofdstuk VI. Categorieën van beperkingenbesluiten krachtens wetten op het gebied van volksgezondheid, welzijn en sport
+
+– ([artikel 13b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=13b)) besluit van de burgemeester tot oplegging van een last onder bestuursdwang, indien dat besluit strekt tot sluiting van het betreffende object.
+
+### [Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994)
+
+– ([artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0002731&artikel=60)) door de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer opgelegde gedoogplicht voor zover deze betreft het gebruik maken van onroerende zaken ten behoeve van het bepalen van luchtverontreiniging.
 
 ### [Wet voorkeursrecht gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0003391)
 
@@ -166,6 +166,8 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 – ([artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0002731&artikel=60)) door de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer opgelegde gedoogplicht voor zover deze betreft het gebruik maken van onroerende zaken ten behoeve van het bepalen van luchtverontreiniging.
 
-### [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181)
+### [Wet voorkeursrecht gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0003391)
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
