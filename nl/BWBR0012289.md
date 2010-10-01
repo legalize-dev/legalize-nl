@@ -4,7 +4,7 @@ identifier: "BWBR0012289"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-03"
-last_updated: "2010-08-04"
+last_updated: "2010-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012289"
 soort: "circulaire"
@@ -5497,11 +5497,11 @@ Het is echter mogelijk dat in Nederland (alsnog) in de adoptie moeten worden voo
 
 ### 3.2. Voorwaarden voor verlening van de verblijfsvergunning
 
-Bij de berekening van de periode van drie jaren wordt mede betrokken de periode waarin de vreemdeling direct voorafgaande aan de verkrijging van het Nederlanderschap rechtmatig in Nederland verbleef op grond van artikel 9, 9a of 10 Vw (oud).
+Het gevaar voor de openbare orde wordt beoordeeld aan de hand van de maatstaven die zijn aangelegd voor verblijfsbeëindiging (de glijdende schaal; zie B1/5.3.6). Bij de vaststelling van de verblijfsduur wordt mede betrokken de periode waarin de vreemdeling als Nederlander in Nederland heeft verbleven. Onder strafmaat wordt verstaan de totale duur van de vrijheidsbenemende straffen of maatregelen, met inbegrip van die welke bij al dan niet onherroepelijk geworden uitspraak zijn opgelegd in de periode waarin de vreemdeling het Nederlanderschap bezat en in de periode na het verlies van het Nederlanderschap.
 
-### 3. Buitenlandse pleegkinderen
+### 2.2.3.2. Bij de aanvraag over te leggen bescheiden
 
-De opneming van een buitenlands kind ter adoptie door personen die in Nederland hun gewone verblijf hebben, is ingevolge de [Wobka](https://wetten.overheid.nl/jci1.3:c:BWBR0004447) uitsluitend toegestaan, indien hiertoe door de Minister van Justitie (Directoraat-Generaal Preventie, Jeugd en Sancties) een beginseltoestemming is afgegeven. Deze beginseltoestemming wordt niet slechts afgegeven aan echtparen (van ongelijk geslacht), doch ook aan één persoon en betreft in beginsel slechts de opneming van één kind en geldt voor een periode van drie jaren met de mogelijkheid van verlenging met telkens ten hoogste drie jaren. Het is de bevoegdheid van de Minister van Justitie om in bepaalde gevallen hiervan af te wijken;
+Bij de aanvraag overlegt de vreemdeling, naast een geldig document voor grensoverschrijding, in ieder geval:
 
 Bij de aanvraag overlegt de vreemdeling, naast een geldig document voor grensoverschrijding, in ieder geval:
 
@@ -5509,23 +5509,23 @@ Het buitenlandse kind mag op het tijdstip van binnenkomst in Nederland de leefti
 
 ### 2.2.4.1. Verblijfsvoorwaarden
 
-Verblijf kan worden verleend aan de vreemdeling:
-
 Wat betreft de voorwaarden is het bepaalde in B4/2.2.3.1 en B4/2.3.1 van overeenkomstige toepassing op de aanvraag tot het verlenen van een verblijfsvergunning regulier voor bepaalde tijd (zie [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14)) of voor onbepaalde tijd (zie [artikel 20 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20)).
+
+Indien de betrokkene na verlening of verkrijging van het Nederlanderschap – doch voordat het Nederlanderschap werd ingetrokken – zelf afstand doet van de Nederlandse nationaliteit wordt de termijn van twee jaar berekend vanaf de dag na die waarop de verklaring is afgelegd.
 
 Indien de betrokkene na de naturalisatie – doch voordat het Nederlanderschap werd ingetrokken – zelf afstand doet van de Nederlandse nationaliteit wordt de termijn van twee jaar berekend vanaf de dag na die waarop de verklaring is afgelegd.
 
-De aanvraag wordt niet afgewezen wegens:
+Naast de in paragraaf B4/2.2.3.2 genoemde bescheiden, met uitzondering van een afschrift van het besluit waarbij het Nederlanderschap is ingetrokken, overlegt de vreemdeling bij de aanvraag een uittreksel uit de GBA waaruit de datum blijkt waarop afstand is gedaan van de Nederlandse nationaliteit.
 
 Naast de in paragraaf B4/2.2.3.2 genoemde bescheiden, met uitzondering van een afschrift van het besluit waarbij het Nederlanderschap is ingetrokken, overlegt de vreemdeling bij de aanvraag een uittreksel uit de GBA waaruit de datum blijkt waarop afstand is gedaan van de Nederlandse nationaliteit.
 
 Ingevolge [artikel 25, tweede lid van de Wobka](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&artikel=25) zijn met de controle op de naleving van het bepaalde bij de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&artikel=2) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&artikel=8), belast:
 
-Verzoeken om advies in verband met een door het kind in het land van herkomst of bestendig verblijf in te dienen aanvraag tot het verlenen van een mvv worden in beginsel ingediend door de bemiddelende vergunninghoudende instanties, als bedoeld in [hoofdstuk 5 Wobka](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=5). Dit staat er niet aan in de weg dat ook aspirant-adoptiefouders een dergelijk verzoek ten behoeve van het kind kunnen indienen.
+Aan de meerderjarige vreemdeling die het Nederlanderschap heeft verloren omdat hij na verlening of verkrijging van het Nederlanderschap heeft nagelaten al het mogelijke te doen om zijn oorspronkelijke nationaliteit te verliezen, kan een verblijfsvergunning regulier voor onbepaalde tijd (zie [artikel 20 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20)) worden verleend, indien:
 
 ### 2.5. Procedure betreffende de verlening van de verblijfsvergunning
 
-Bij de berekening van de periode van vijf jaren wordt mede betrokken de periode waarin de vreemdeling voor de inwerkingtreding van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) rechtmatig in Nederland verbleef op grond van artikel 9, 9a of 10 Vw (oud).
+Voor wat betreft de bij de aanvraag over te leggen bescheiden wordt verwezen naar B4/2.2.3. Het gestelde in deze paragraaf is van overeenkomstige toepassing.
 
 Het kind dient zich binnen drie dagen na aankomst in Nederland aan te melden bij het regionale politiekorps waarin de gemeente is gelegen waar hij woon- of verblijfplaats heeft (zie [artikel 4.47](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.47) juncto [artikel 4.49 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.49)).
 
@@ -9981,15 +9981,15 @@ Aangezien de opneming in het belang moet zijn van het kind speelt met name de ge
 
 ### 3.3.3. Kennisgeving aan de gemeente
 
-### 2.2.3. Oud-Nederlanders ([artikel 15, eerste lid, aanhef onder d, Rwn](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15))
+### 2.2.3. Oud-Nederlanders ([artikel 15, eerste lid, aanhef onder d en f, Rwn](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15))
 
-De verblijfsvergunning regulier voor bepaalde tijd kan worden verleend aan de vreemdeling die:
+De verblijfsvergunning regulier voor bepaalde tijd kan worden verleend aan de vreemdeling:
 
-### 2.4. Mvv
+### 2.2.4. Oud-Nederlanders ([artikel 15, eerste lid, aanhef onder b, Rwn](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15))
 
 ### 3.3.1. Aanmelding en plaats van indiening van de aanvraag
 
-### 2.3. Vergunning regulier onbepaalde tijd
+### 2.3.1. Oud-Nederlanders ([artikel 15, eerste lid, aanhef onder b, d of f, Rwn](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15))
 
 ### 2.5.1. Aanmelding
 
@@ -11901,7 +11901,7 @@ De verblijfsvergunning krijgt dezelfde geldigheidsduur als de verblijfsvergunnin
 
 ### 2.2.2.2. Bij de aanvraag over te leggen bescheiden
 
-Aan de meerderjarige vreemdeling die het Nederlanderschap heeft verloren omdat hij na de totstandkoming van zijn naturalisatie heeft nagelaten al het mogelijke te doen om zijn oorspronkelijke nationaliteit te verliezen, kan een verblijfsvergunning regulier voor bepaalde tijd worden verleend (zie [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14)).
+Aan de meerderjarige vreemdeling die het Nederlanderschap heeft verloren omdat hij na verlening of verkrijging van het Nederlanderschap heeft nagelaten al het mogelijke te doen om zijn oorspronkelijke nationaliteit te verliezen, kan een verblijfsvergunning regulier voor bepaalde tijd worden verleend (zie [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14)).
 
 ### 2.2.3.1. Verblijfsvoorwaarden
 
@@ -11909,13 +11909,13 @@ Het gevaar voor de openbare orde wordt beoordeeld aan de hand van de maatstaven 
 
 ### 2.2.3.2. Bij de aanvraag over te leggen bescheiden
 
-### 2.2.4. Oud-Nederlanders ([artikel 15, eerste lid, aanhef onder b, Rwn](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15))
+### 2.2.4.1. Verblijfsvoorwaarden
 
-Een medische verklaring m.b.t. het buitenlandse kind is overgelegd ([artikel 8 onder b Wobka](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&artikel=8))
+Verblijf kan worden verleend aan de vreemdeling:
 
 ### 2.5.1. Aanmelding
 
-### 2.5.2. Plaats van indiening van de aanvraag
+### 2.2.4.2. Bij de aanvraag over te leggen bescheiden
 
 ### 3. Remigratie en terugkeeroptie (op grond van [artikel 8 Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=8))
 
@@ -12727,7 +12727,7 @@ In situaties waarbij sprake is van reeds in Nederland verblijvende illegaal opge
 
 ### 2.3.1. Oud-Nederlanders ([artikel 15, eerste lid, aanhef onder d, Rwn](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15))
 
-Aan de meerderjarige vreemdeling die het Nederlanderschap heeft verloren omdat hij na de totstandkoming van zijn naturalisatie heeft nagelaten al het mogelijke te doen om zijn oorspronkelijke nationaliteit te verliezen, kan een verblijfsvergunning regulier voor onbepaalde tijd (zie [artikel 20 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20)) worden verleend, indien:
+De aanvraag tot het verlenen van de verblijfsvergunning wordt niet afgewezen indien:
 
 Indien de politie een gegrond vermoeden heeft dat in strijd met het gestelde onder B3/2.2.2 wordt gehandeld, legt zij dit vast in een proces-verbaal, en doet hiervan onverwijld mededeling aan de IND. Zij stelt eveneens de Officier van Justitie en de betrokken Raad voor de Kinderbescherming op de hoogte. Indien de opneming van een buitenlands kind is geschied zonder dat vooraf een beginseltoestemming is verkregen, kan de Officier van Justitie de minderjarige voorlopig aan de Raad voor de Kinderbescherming toevertrouwen, tenzij dit niet verenigbaar is met het belang van de minderjarige.
 
@@ -14463,7 +14463,7 @@ De werkgever vult het formulier elektronisch in en verzendt het ingevulde en ond
 
 ### 2. Buitenlandse adoptiekinderen
 
-### 2.5.3. De controletaak van de politie ingevolge de [Wobka](https://wetten.overheid.nl/jci1.3:c:BWBR0004447)
+### 2.3. Vergunning regulier onbepaalde tijd
 
 ### 3.2.1.2. Bij de aanvraag over te leggen bescheiden
 
