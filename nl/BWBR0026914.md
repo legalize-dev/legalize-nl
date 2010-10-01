@@ -4,7 +4,7 @@ identifier: "BWBR0026914"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-05-04"
-last_updated: "2010-09-30"
+last_updated: "2010-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026914"
 soort: "ministeriele-regeling"
@@ -191,6 +191,7 @@ Besluit:
 |   |   |   | Installaties voor micro-warmtekrachtkoppeling | 10-09-2008 t/m 31-12-2010 | 4.000.000 |
 | 2 | Subsidieregeling energie en innovatie (Investeringen voor verlaging elektriciteitsaansluiting van warmtepomphouders) | 3.3.2 |   | 01-09-2009 t/m 15-12-2010 | 4.290.000 |
 | 3 | Subsidieregeling energie en innovatie (Risico’s dekken voor aardwarmte) | 3.4.2 |   | 03-11-2009 t/m 01-05-2010 | 35.700.000 |
+|   |   |   |   | 01-10-2010 t/m 01-04-2011 | 43.350.000 |
 | 4 | Subsidieregeling energie en innovatie (Voorbereidingsstudies en demonstratieprojecten vergassing) | 3.6.2, eerste lid | Voorbereidingsstudies | 20-11-2009 t/m 31-03-2010 | 200.000 |
 |   |   | 3.6.2, tweede lid | Demonstratieprojecten | 10-5 t/m 30-9 | 12.650.000 |
 | 5 | Subsidieregeling energie en innovatie (Experimenteerregeling Wind op Zee) | 3.7.2 |   | 19-11-2009 t/m 28-01-2010 | 9.000.000 |
