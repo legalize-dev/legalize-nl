@@ -4,7 +4,7 @@ identifier: "BWBR0013506"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-10-10"
-last_updated: "2010-01-01"
+last_updated: "2010-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013506"
 soort: "ministeriele-regeling"
@@ -135,11 +135,13 @@ Tenzij in deze regeling anders is bepaald, oefent de uitvoeringsautoriteit de he
 
 4. Indien het betreft een geval als bedoeld in het eerste lid, aanhef en onder c, dient de verzoeker zich bij zijn verzoek tot naturalisatie bereid te verklaren om na de totstandkoming van de naturalisatie het mogelijke te zullen doen om zijn andere nationaliteit of nationaliteiten te verliezen, tenzij op hem een der andere in het eerste lid genoemde gevallen van toepassing is.
 
-### Afdeling IV. Personen die als belanghebbenden in de zin van [artikel 66, vijfde lid, van het Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=66) kunnen worden aangemerkt
+### Afdeling IV. Voorschriften met betrekking tot verlies van het Nederlanderschap
 
 ##### Artikel 7
 
-Onder rechtstreeks betrokken persoon wordt eveneens verstaan, voor zover zij daarbij een rechtstreeks belang hebben, degene die met de persoon op wie het voornemen tot intrekking rechtstreeks betrekking heeft, een duurzame relatie heeft en bij hem duurzaam inwonend is, als ook de bij deze persoon inwonende minderjarige stiefkinderen.
+1. Het voornemen tot een besluit tot intrekking van het Nederlanderschap als bedoeld in [artikel 14, tweede lid, van de Rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14) wordt ter beoordeling voorgelegd door het hoofd van de Immigratie- en Naturalisatiedienst aan de Minister.
+
+2. Onder rechtstreeks betrokken persoon als bedoeld in [artikel 66, vijfde lid, Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=66) wordt eveneens verstaan, voor zover zij daarbij een rechtstreeks belang hebben, degene die met de persoon op wie het voornemen tot intrekking rechtstreeks betrekking heeft, een duurzame relatie heeft en bij hem duurzaam inwonend is, als ook de bij deze persoon inwonende minderjarige stiefkinderen.
 
 ### Hoofdstuk III. Voorschriften met betrekking tot het [Besluit optie- en naturalisatiegelden 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013782)
 
@@ -151,7 +153,7 @@ Onder rechtstreeks betrokken persoon wordt eveneens verstaan, voor zover zij daa
 
 ##### Artikel 9
 
-De uitvoeringsautoriteit kan van de in het [voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0013506&hoofdstuk=III&artikel=8&z=2010-01-01&g=2010-01-01) bedoelde bevoegdheden ondermandaat verlenen aan onder hem ressorterende functionarissen, voor zover dat in overeenstemming is met de aard van de werkzaamheden van die functionarissen en de aard van de bevoegdheid zich daartegen niet verzet.
+De uitvoeringsautoriteit kan van de in het [voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0013506&hoofdstuk=III&artikel=8&z=2010-10-01&g=2010-10-01) bedoelde bevoegdheden ondermandaat verlenen aan onder hem ressorterende functionarissen, voor zover dat in overeenstemming is met de aard van de werkzaamheden van die functionarissen en de aard van de bevoegdheid zich daartegen niet verzet.
 
 ##### Artikel 10
 
@@ -197,6 +199,6 @@ De [Machtigingsregeling naturalisatie en naturalisatiegelden 1998](onbekend) ver
 
 1. Deze regeling wordt met de toelichting in de Staatscourant, het Publicatieblad van de Nederlandse Antillen en het Afkondigingsblad van Aruba geplaatst.
 
-2. Deze regeling treedt, met uitzondering van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0013506&hoofdstuk=III&artikel=12&z=2010-01-01&g=2010-01-01) en [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013506&hoofdstuk=IV&artikel=14&z=2010-01-01&g=2010-01-01), in werking met ingang van 1 april 2003; [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013506&hoofdstuk=II&afdeling=III&artikel=6&z=2010-01-01&g=2010-01-01) is slechts van toepassing op Nederland en de Nederlandse Antillen.
+2. Deze regeling treedt, met uitzondering van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0013506&hoofdstuk=III&artikel=12&z=2010-10-01&g=2010-10-01) en [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013506&hoofdstuk=IV&artikel=14&z=2010-10-01&g=2010-10-01), in werking met ingang van 1 april 2003; [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013506&hoofdstuk=II&afdeling=III&artikel=6&z=2010-10-01&g=2010-10-01) is slechts van toepassing op Nederland en de Nederlandse Antillen.
 
 3. Deze regeling wordt aangehaald als Regeling verkrijging en verlies Nederlanderschap.
