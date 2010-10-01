@@ -4,7 +4,7 @@ identifier: "BWBR0025316"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2010-04-21"
+last_updated: "2010-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025316"
 soort: "ministeriele-regeling"
@@ -36,7 +36,7 @@ entry_into_force: "2015-12-15"
 ---
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 9 februari 2009, nr. DGM/K&L2009006710, houdende regels inzake aanwijzing van investeringen die in het belang zijn van het Nederlandse milieu (Aanwijzingsregeling willekeurige afschrijving en investeringsaftrek milieu-investeringen)
 
-Handelende in overeenstemming met de Staatssecretaris van Financiën en na overleg met de Ministers van Economische Zaken en, voor zover het betreft [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2010-04-21&g=2010-04-21), van Landbouw, Natuur en Voedselkwaliteit;
+Handelende in overeenstemming met de Staatssecretaris van Financiën en na overleg met de Ministers van Economische Zaken en, voor zover het betreft [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2010-10-01&g=2010-10-01), van Landbouw, Natuur en Voedselkwaliteit;
 
 Gelet op de [artikelen 3.31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.31), en [3.42a, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a);
 
@@ -60,7 +60,7 @@ Als milieubedrijfsmiddelen als bedoeld in [artikel 3.31, eerste lid, van de Wet 
 
 ##### Artikel 2. Milieu-investeringsaftrek
 
-Als investeringen, behorend tot categorie I, II respectievelijk III, in het belang van de bescherming van het Nederlandse milieu als bedoeld in [artikel 3.42a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a) worden aangewezen de investeringen in bedrijfsmiddelen of onderdelen daarvan, die zijn opgenomen in de bijlage bij deze regeling en die voldoen aan de in [artikel 1, onderdelen a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1&z=2010-04-21&g=2010-04-21), genoemde voorwaarden.
+Als investeringen, behorend tot categorie I, II respectievelijk III, in het belang van de bescherming van het Nederlandse milieu als bedoeld in [artikel 3.42a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a) worden aangewezen de investeringen in bedrijfsmiddelen of onderdelen daarvan, die zijn opgenomen in de bijlage bij deze regeling en die voldoen aan de in [artikel 1, onderdelen a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1&z=2010-10-01&g=2010-10-01), genoemde voorwaarden.
 
 ##### Artikel 3. Uitzondering
 
@@ -212,19 +212,19 @@ Het bedrijfsmiddel komt voor 50% van het investeringsbedrag in aanmerking voor d
 
 **Kas voor milieuvriendelijke productie met Milieukeur**
 
-Toelichting: Informatie over Milieukeur kan worden gevonden op www.smk.nl. De bouwvergunning die voor nieuw op te richten glasopstanden is vereist, moet door het bevoegd gezag zijn afgegeven voordat de melding wordt gedaan. De bezwaar- en beroepsprocedure hoeft echter niet te worden afgewacht.
+Toelichting: Informatie over Milieukeur kan worden gevonden op www.smk.nl. De bouwvergunning of de omgevingsvergunning voor het bouwen, bedoeld in [artikel 2.1, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), die voor nieuw op te richten glasopstanden is vereist, moet door het bevoegd gezag zijn afgegeven voordat de melding wordt gedaan. De bezwaar- en beroepsprocedure hoeft echter niet te worden afgewacht.
 
 **A 1088**
 
 **Kas voor biologische teelt**
 
-Toelichting: Informatie over het [Landbouwkwaliteitsbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022535) kan worden gevonden op www.skal.nl. De bouwvergunning die voor nieuw op te richten glasopstanden is vereist, moet door het bevoegd gezag zijn afgegeven voordat de melding wordt gedaan. De bezwaar- en beroepsprocedure voor die bouwvergunning hoeft echter niet te worden afgewacht.
+Toelichting: Informatie over het [Landbouwkwaliteitsbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022535) kan worden gevonden op www.skal.nl. De bouwvergunning of de omgevingsvergunning voor het bouwen, bedoeld in [artikel 2.1, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), die voor nieuw op te richten glasopstanden is vereist, moet door het bevoegd gezag zijn afgegeven voordat de melding wordt gedaan. De bezwaar- en beroepsprocedure voor de desbetreffende vergunning hoeft echter niet te worden afgewacht.
 
 **F 1089**
 
 **Groen Label Kas voor biologische teelt**
 
-Toelichting: Informatie over het [Landbouwkwaliteitsbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022535) kan worden gevonden op www.skal.nl. De bouwvergunning die voor nieuw op te richten glasopstanden is vereist, moet door het bevoegd gezag zijn afgegeven voordat de melding wordt gedaan. De bezwaar- en beroepsprocedure voor die bouwvergunning hoeft echter niet te worden afgewacht. Voor alle kassen die onder de criteria voor extensieve teelt worden gecertificeerd moet bij definitieve oplevering worden aangetoond dat het totale energieverbruik op basis van ten minste 1 jaar teelt minder is geweest dan 25 kubieke meter per vierkante meter aardgasequivalenten per jaar. De tuinder toont dit aan door na 1 jaar teelt het werkelijke energiegebruik van het voorgaande jaar te laten controleren op basis van facturen en meetgegevens en de gegevens in het energiecertificaat.
+Toelichting: Informatie over het [Landbouwkwaliteitsbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022535) kan worden gevonden op www.skal.nl. De bouwvergunning of de omgevingsvergunning voor het bouwen, bedoeld in [artikel 2.1, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), die voor nieuw op te richten glasopstanden is vereist, moet door het bevoegd gezag zijn afgegeven voordat de melding wordt gedaan. De bezwaar- en beroepsprocedure voor de desbetreffende vergunning hoeft echter niet te worden afgewacht. Voor alle kassen die onder de criteria voor extensieve teelt worden gecertificeerd moet bij definitieve oplevering worden aangetoond dat het totale energieverbruik op basis van ten minste 1 jaar teelt minder is geweest dan 25 kubieke meter per vierkante meter aardgasequivalenten per jaar. De tuinder toont dit aan door na 1 jaar teelt het werkelijke energiegebruik van het voorgaande jaar te laten controleren op basis van facturen en meetgegevens en de gegevens in het energiecertificaat.
 
 Het Certificatieschema Groen Label Kas 9 (GLK9) ligt ter inzage in de bibliotheek van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer. Het certificatieschema is ook te downloaden via www.groenlabelkas.nl.
 
@@ -232,7 +232,7 @@ Het Certificatieschema Groen Label Kas 9 (GLK9) ligt ter inzage in de bibliothee
 
 **Groen Label Kas**
 
-Toelichting: De bouwvergunning die voor nieuw op te richten glasopstanden is vereist, moet door het bevoegd gezag zijn afgegeven voordat de melding wordt gedaan. De bezwaar- en beroepsprocedure voor die bouwvergunning hoeft echter niet te worden afgewacht. Voor alle kassen die onder de criteria voor extensieve teelt worden gecertificeerd moet bij definitieve oplevering worden aangetoond dat het totale energieverbruik op basis van ten minste 1 jaar teelt minder is geweest dan 25 kubieke meter per vierkante meter aardgasequivalenten per jaar. De tuinder toont dit aan door na 1 jaar teelt het werkelijke energiegebruik van het voorgaande jaar te laten controleren op basis van facturen en meetgegevens en de gegevens in het energiecertificaat.
+Toelichting: De bouwvergunning of de omgevingsvergunning voor het bouwen, bedoeld in [artikel 2.1, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), die voor nieuw op te richten glasopstanden is vereist, moet door het bevoegd gezag zijn afgegeven voordat de melding wordt gedaan. De bezwaar- en beroepsprocedure voor de desbetreffende vergunning hoeft echter niet te worden afgewacht. Voor alle kassen die onder de criteria voor extensieve teelt worden gecertificeerd moet bij definitieve oplevering worden aangetoond dat het totale energieverbruik op basis van ten minste 1 jaar teelt minder is geweest dan 25 kubieke meter per vierkante meter aardgasequivalenten per jaar. De tuinder toont dit aan door na 1 jaar teelt het werkelijke energiegebruik van het voorgaande jaar te laten controleren op basis van facturen en meetgegevens en de gegevens in het energiecertificaat.
 
 Het Certificatieschema Groen Label Kas 9 (GLK9) ligt ter inzage in de bibliotheek van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer. Het certificatieschema is ook te downloaden via www.groenlabelkas.nl.
 
