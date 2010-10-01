@@ -4,7 +4,7 @@ identifier: "BWBR0005181"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2009-07-15"
+last_updated: "2010-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005181"
 soort: "wet"
@@ -48,41 +48,35 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder:
 
-- a. bouwen: het plaatsen, het geheel of gedeeltelijk oprichten, vernieuwen of veranderen en het vergroten van een bouwwerk, alsmede het geheel of gedeeltelijk oprichten, vernieuwen of veranderen en het vergroten van een standplaats;
+- a. bouwen: plaatsen, geheel of gedeeltelijk oprichten, vernieuwen, veranderen of vergroten;
 
 - b. slopen: het afbreken van een bouwwerk of een gedeelte daarvan;
 
 - c. gebouw: elk bouwwerk, dat een voor mensen toegankelijke overdekte geheel of gedeeltelijk met wanden omsloten ruimte vormt;
 
-- d. woonkeet: een loods, keet of ander soortgelijk bouwwerk, bestemd om te voorzien in een tijdelijke behoefte aan woongelegenheid;
+- d. omgevingsvergunning: vergunning voor een bouwactiviteit als bedoeld in [artikel 2.1, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1);
 
-- e. woonwagen: voor bewoning bestemd gebouw dat is geplaatst op een standplaats en dat in zijn geheel of in delen kan worden verplaatst;
+- e. bevoegd gezag: het bestuursorgaan, bedoeld in [artikel 1.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=1.1), dan wel, bij het ontbreken van een bestuursorgaan als bedoeld in dat artikellid, burgemeester en wethouders;
 
 - f. bestemmingsplan: een bestemmingsplan als bedoeld in [artikel 3.1 van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.1), alsmede een inpassingsplan als bedoeld in [artikel 3.26](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.26) of [3.28 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.28) of een beheersverordening als bedoeld in [artikel 3.38 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.38);
 
-- g. rooilijn: de lijn die, behoudens toegelaten afwijkingen, bij het bouwen aan de wegzijde of aan de van de weg afgekeerde zijde niet mag worden overschreden;
+- g. rooilijn: de lijn die, behoudens toegelaten afwijkingen, bij het bouwen van een bouwwerk aan de wegzijde of aan de van de weg afgekeerde zijde niet mag worden overschreden;
 
-- h. standplaats: een kavel, bestemd voor het plaatsen van een woonwagen, waarop voorzieningen aanwezig zijn die op het leidingnet van de openbare nutsbedrijven, andere instellingen of van gemeenten kunnen worden aangesloten;
+- h. norm: een document, uitgegeven door een deskundig, onafhankelijk instituut, waarin wordt omschreven aan welke eisen een bouwmateriaal, bouwdeel of bouwconstructie moet voldoen dan wel waarin een omschrijving wordt gegeven van een keurings-, meet- of berekeningsmethode;
 
-- i. norm: een document, uitgegeven door een deskundig, onafhankelijk instituut, waarin wordt omschreven aan welke eisen een bouwmateriaal, bouwdeel of bouwconstructie moet voldoen dan wel waarin een omschrijving wordt gegeven van een keurings-, meet- of berekeningsmethode;
+- i. kwaliteitsverklaring: een schriftelijk bewijs, voorzien van een merkteken, aangewezen door Onze Minister, afgegeven door een deskundig, onafhankelijk instituut, aangewezen door Onze Minister, op grond waarvan een bouwmateriaal, bouwdeel of samenstel van bouwmaterialen of bouwdelen dan wel een bouwwijze, indien dat bouwmateriaal, bouwdeel of samenstel van bouwmaterialen of bouwdelen dan wel die bouwwijze bij het bouwen van een bouwwerk wordt toegepast, wordt geacht te voldoen aan krachtens deze wet aan dat bouwmateriaal, bouwdeel of samenstel van bouwmaterialen of bouwdelen dan wel die bouwwijze gestelde eisen;
 
-- j. kwaliteitsverklaring: een schriftelijk bewijs, voorzien van een merkteken, aangewezen door Onze Minister, afgegeven door een deskundig, onafhankelijk instituut, aangewezen door Onze Minister, op grond waarvan een bouwmateriaal, bouwdeel of samenstel van bouwmaterialen of bouwdelen dan wel een bouwwijze, indien dat bouwmateriaal, bouwdeel of samenstel van bouwmaterialen of bouwdelen dan wel die bouwwijze bij het bouwen wordt toegepast, wordt geacht te voldoen aan krachtens deze wet aan dat bouwmateriaal, bouwdeel of samenstel van bouwmaterialen of bouwdelen dan wel die bouwwijze gestelde eisen;
+- j. Onze Minister: Onze Minister voor Wonen, Wijken en Integratie;
 
-- k. Onze Minister: Onze Minister voor Wonen, Wijken en Integratie;
+- k. inspecteur: als zodanig bij besluit van Onze Minister aangewezen ambtenaar;
 
-- l. inspecteur: als zodanig bij besluit van Onze Minister aangewezen ambtenaar;
+- l. toegelaten instelling: instelling als bedoeld in [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3&artikel=70&z=2010-10-01&g=2010-10-01);
 
-- m. toegelaten instelling: instelling als bedoeld in [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3&artikel=70&z=2009-07-15&g=2009-07-15);
+- m. fonds: Centraal Fonds voor de Volkshuisvesting, bedoeld in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3A&artikel=71&z=2010-10-01&g=2010-10-01);
 
-- n. fonds: Centraal Fonds voor de Volkshuisvesting, bedoeld in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3A&artikel=71&z=2009-07-15&g=2009-07-15);
+- n. welstandscommissie: door de gemeenteraad benoemde onafhankelijke commissie die aan burgemeester en wethouders advies uitbrengt ten aanzien van de vraag of het uiterlijk of de plaatsing van een bouwwerk, waarvoor een aanvraag om een omgevingsvergunning is ingediend, in strijd is met redelijke eisen van welstand;
 
-- o. reguliere bouwvergunning: bouwvergunning als bedoeld in [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=44&z=2009-07-15&g=2009-07-15);
-
-- p. lichte bouwvergunning: bouwvergunning als bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=44&z=2009-07-15&g=2009-07-15), derde juncto eerste lid;
-
-- q. welstandscommissie: door de gemeenteraad benoemde onafhankelijke commissie die aan burgemeester en wethouders advies uitbrengt ten aanzien van de vraag of het uiterlijk of de plaatsing van een bouwwerk of standplaats, waarvoor een aanvraag om bouwvergunning is ingediend, in strijd is met redelijke eisen van welstand;
-
-- r. stadsbouwmeester: door de gemeenteraad benoemde onafhankelijke deskundige die aan burgemeester en wethouders advies uitbrengt ten aanzien van de vraag of het uiterlijk of de plaatsing van een bouwwerk of standplaats, waarvoor een aanvraag om bouwvergunning is ingediend, in strijd is met redelijke eisen van welstand.
+- o. stadsbouwmeester: door de gemeenteraad benoemde onafhankelijke deskundige die aan burgemeester en wethouders advies uitbrengt ten aanzien van de vraag of het uiterlijk of de plaatsing van een bouwwerk, waarvoor een aanvraag om een omgevingsvergunning is ingediend, in strijd is met redelijke eisen van welstand.
 
 2. Voor de toepassing van het bij of krachtens deze wet bepaalde wordt onder woning mede verstaan een afzonderlijk gedeelte van een gebouw, welk gedeelte tot bewoning is bestemd.
 
@@ -92,25 +86,21 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 2
 
-1. Bij of krachtens algemene maatregel van bestuur worden uit het oogpunt van veiligheid, gezondheid, bruikbaarheid, energiezuinigheid en milieu technische voorschriften gegeven omtrent het bouwen van woningen, woonketen, woonwagens en andere gebouwen.
+1. Bij of krachtens algemene maatregel van bestuur worden uit het oogpunt van veiligheid, gezondheid, bruikbaarheid, energiezuinigheid en milieu technische voorschriften gegeven omtrent het bouwen van woningen en andere gebouwen.
 
-2. Bij of krachtens de in het eerste lid bedoelde algemene maatregel van bestuur worden voorts uit het oogpunt van veiligheid, gezondheid en bruikbaarheid voorschriften gegeven omtrent de staat van bestaande woningen, woonketen en woonwagens en van bestaande andere gebouwen.
+2. Bij of krachtens de in het eerste lid bedoelde algemene maatregel van bestuur worden voorts uit het oogpunt van veiligheid, gezondheid en bruikbaarheid voorschriften gegeven omtrent de staat van bestaande woningen en van bestaande andere gebouwen.
 
 3. Bij of krachtens de in het eerste lid bedoelde algemene maatregel van bestuur worden voorts uit het oogpunt van veiligheid, gezondheid en milieu technische voorschriften gegeven omtrent het bouwen van bouwwerken, geen gebouw zijnde.
 
 4. Bij of krachtens de in het eerste lid bedoelde algemene maatregel van bestuur worden voorts uit het oogpunt van veiligheid en gezondheid technische voorschriften gegeven omtrent de staat van bestaande bouwwerken, geen gebouw zijnde.
 
-5. Bij of krachtens de in het eerste lid bedoelde algemene maatregel van bestuur worden voorts uit het oogpunt van veiligheid, gezondheid, bruikbaarheid en milieu technische voorschriften gegeven omtrent het bouwen van standplaatsen.
+5. Aan een voorschrift omtrent het bouwen van een bouwwerk kunnen voorschriften worden verbonden.
 
-6. Bij of krachtens de in het eerste lid bedoelde algemene maatregel van bestuur worden voorts uit het oogpunt van veiligheid, gezondheid en bruikbaarheid technische voorschriften gegeven omtrent de staat van bestaande standplaatsen.
-
-7. Aan een voorschrift omtrent het bouwen van een bouwwerk of standplaats kunnen voorschriften worden verbonden.
-
-8. Een algemene maatregel van bestuur als bedoeld in het eerste lid, treedt niet eerder in werking dan twee maanden na de datum van uitgifte van het **Staatsblad** waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan beide kamers der Staten-Generaal.
+6. Een algemene maatregel van bestuur als bedoeld in het eerste lid, treedt niet eerder in werking dan twee maanden na de datum van uitgifte van het **Staatsblad** waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan beide kamers der Staten-Generaal.
 
 ##### Artikel 3
 
-Bij of krachtens de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=1&artikel=2&z=2009-07-15&g=2009-07-15) bedoelde algemene maatregel van bestuur kan worden verwezen naar:
+Bij of krachtens de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=1&artikel=2&z=2010-10-01&g=2010-10-01) bedoelde algemene maatregel van bestuur kan worden verwezen naar:
 
 - a. normen of delen van normen en
 
@@ -118,27 +108,25 @@ Bij of krachtens de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR00051
 
 ##### Artikel 4
 
-Indien een bouwwerk of standplaats gedeeltelijk wordt vernieuwd, veranderd of vergroot, zijn de voorschriften, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=1&artikel=2&z=2009-07-15&g=2009-07-15), voor zover zij betrekking hebben op dat bouwen, slechts van toepassing op die vernieuwing, verandering of vergroting.
+Indien een bouwwerk gedeeltelijk wordt vernieuwd, veranderd of vergroot, zijn de voorschriften, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=1&artikel=2&z=2010-10-01&g=2010-10-01), voor zover zij betrekking hebben op dat bouwen, slechts van toepassing op die vernieuwing, verandering of vergroting.
 
 ##### Artikel 5
 
-Op de voordracht van Onze Minister wordt de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=1&artikel=2&z=2009-07-15&g=2009-07-15) bedoelde algemene maatregel van bestuur in overeenstemming gebracht met technische voorschriften omtrent het bouwen, die zijn of worden gegeven bij of krachtens een andere algemene maatregel van bestuur.
+Op de voordracht van Onze Minister wordt de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=1&artikel=2&z=2010-10-01&g=2010-10-01) bedoelde algemene maatregel van bestuur in overeenstemming gebracht met technische voorschriften omtrent het bouwen, die zijn of worden gegeven bij of krachtens een andere algemene maatregel van bestuur.
 
 ##### Artikel 6
 
-1. Bij een voorschrift, gegeven bij of krachtens de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=1&artikel=2&z=2009-07-15&g=2009-07-15) bedoelde algemene maatregel van bestuur, kan worden bepaald dat burgemeester en wethouders van dat voorschrift ontheffing kunnen verlenen tot een bij dat voorschrift aangegeven niveau.
-
-2. Aan een ontheffing als bedoeld in het eerste lid, mogen slechts voorwaarden worden verbonden ter bescherming van de belangen, waarop de voorschriften, waarvan ontheffing wordt verleend, het oog hebben.
+Bij of krachtens de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=1&artikel=2&z=2010-10-01&g=2010-10-01) bedoelde algemene maatregel van bestuur kan worden bepaald dat van een daarbij gegeven voorschrift bij een omgevingsvergunning kan worden afgeweken tot een bij dat voorschrift aangegeven niveau of, indien sprake is van het geheel of gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk dat tevens kan worden aangemerkt als een activiteit met betrekking tot een monument als bedoeld in [artikel 2.1, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), dan wel [artikel 2.2, eerste lid, onder b, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.2), in het belang van de monumentenzorg.
 
 ##### Artikel 7
 
-1. Onze Minister kan op verzoek van een aanvrager om bouwvergunning, bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=40&z=2009-07-15&g=2009-07-15), in bijzondere gevallen ontheffing verlenen van de bij of krachtens de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=1&artikel=2&z=2009-07-15&g=2009-07-15) bedoelde algemene maatregel van bestuur gegeven voorschriften, met dien verstande dat, indien het verzoek betrekking heeft op voorschriften als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=1&artikel=5&z=2009-07-15&g=2009-07-15), hij de ontheffing slechts kan verlenen in overeenstemming met het bij of krachtens de desbetreffende wet daartoe bevoegd verklaarde gezag.
+1. Onze Minister kan op verzoek van een aanvrager om een omgevingsvergunning in bijzondere gevallen ontheffing verlenen van de bij of krachtens de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=1&artikel=2&z=2010-10-01&g=2010-10-01) bedoelde algemene maatregel van bestuur gegeven voorschriften, met dien verstande dat, indien het verzoek betrekking heeft op voorschriften als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=1&artikel=5&z=2010-10-01&g=2010-10-01), hij de ontheffing slechts kan verlenen in overeenstemming met het bij of krachtens de desbetreffende wet daartoe bevoegd verklaarde gezag.
 
-2. Een verzoek als bedoeld in het eerste lid, gaat vergezeld van een verklaring van burgemeester en wethouders, dat zij de desbetreffende bouwvergunning zullen verlenen indien ontheffing als bedoeld in dat lid, is verkregen.
+2. Een verzoek als bedoeld in het eerste lid, gaat vergezeld van een verklaring van het bevoegd gezag, dat het de desbetreffende omgevingsvergunning zal verlenen indien ontheffing als bedoeld in dat lid, is verkregen.
 
 3. Aan een ontheffing als bedoeld in het eerste lid, mogen slechts voorwaarden worden verbonden ter bescherming van de belangen, waarop de voorschriften, waarvan ontheffing wordt verleend, het oog hebben.
 
-4. Tegelijkertijd met of zo spoedig mogelijk na de bekendmaking van de beslissing op een verzoek als bedoeld in het eerste lid, doet Onze Minister daarvan mededeling aan burgemeester en wethouders.
+4. Tegelijkertijd met of zo spoedig mogelijk na de bekendmaking van de beslissing op een verzoek als bedoeld in het eerste lid, doet Onze Minister daarvan mededeling aan het bevoegd gezag.
 
 5. De verlening van de verklaring, bedoeld in het tweede lid, en de verlening van ontheffing, bedoeld in het eerste lid, worden geacht voor de mogelijkheid van beroep ingevolge [hoofdstuk 8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8) deel uit te maken van de beschikking waarop zij betrekking hebben.
 
@@ -146,21 +134,21 @@ Op de voordracht van Onze Minister wordt de in [artikel 2](https://wetten.overhe
 
 7. In een geval als bedoeld in het zesde lid verzoekt de tunnelbeheerder, bedoeld in de [Wet aanvullende regels veiligheid wegtunnels](https://wetten.overheid.nl/jci1.3:c:BWBR0019516), aan Onze Minister om de ontheffing als bedoeld in het eerste lid niet te verlenen dan nadat het voornemen daartoe aan de Europese Commissie is voorgelegd.
 
-8. Het eerste, derde, vierde, zesde en zevende lid zijn van overeenkomstige toepassing indien voor het bouwen geen bouwvergunning is vereist.
+8. Het eerste, derde, vierde, zesde en zevende lid zijn van overeenkomstige toepassing indien voor het bouwen op grond van [artikel 2.1, derde lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) geen omgevingsvergunning is vereist.
 
 ##### Artikel 7a
 
-1. Onze Minister kan met het oog op duurzaam bouwen in een bijzonder geval burgemeester en wethouders toestaan door hun voorgestelde nadere voorschriften op te leggen ter voldoening aan de technische voorschriften, gegeven bij of krachtens de algemene maatregel van bestuur, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=1&artikel=2&z=2009-07-15&g=2009-07-15). Dit toestaan kan ook betrekking hebben op door burgemeester en wethouders voorgestelde, uit het oogpunt van milieu op te leggen technische voorschriften, waarin de algemene maatregel van bestuur, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=1&artikel=2&z=2009-07-15&g=2009-07-15), niet voorziet. Een verzoek van burgemeester en wethouders geschiedt mede aan de hand van een door Onze Minister ter beschikking gesteld formulier. Het verzoek, alsmede de daarbij voorgestelde op te leggen voorschriften zijn gemotiveerd en van een toelichting voorzien.
+1. Onze Minister kan met het oog op duurzaam bouwen in een bijzonder geval het bevoegd gezag toestaan door hem voorgestelde nadere voorschriften op te leggen ter voldoening aan de technische voorschriften, gegeven bij of krachtens de algemene maatregel van bestuur, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=1&artikel=2&z=2010-10-01&g=2010-10-01). Dit toestaan kan ook betrekking hebben op door het bevoegd gezag voorgestelde, uit het oogpunt van milieu op te leggen technische voorschriften, waarin de algemene maatregel van bestuur, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=1&artikel=2&z=2010-10-01&g=2010-10-01), niet voorziet. Een verzoek van het bevoegd gezag geschiedt mede aan de hand van een door Onze Minister ter beschikking gesteld formulier. Het verzoek, alsmede de daarbij voorgestelde op te leggen voorschriften zijn gemotiveerd en van een toelichting voorzien.
 
 2. Onze Minister beslist binnen acht weken na ontvangst van een verzoek om toestemming. Hij kan die beslissing eenmaal voor ten hoogste vier weken verdagen. Indien toestemming wordt verleend, geldt die toestemming alleen voor het geval waarop het verzoek betrekking heeft. Aan een toestemming kunnen voorschriften worden verbonden.
 
-3. De toestemming op een verzoek van burgemeester en wethouders is van rechtswege verleend indien Onze Minister:
+3. De toestemming op een verzoek van het bevoegd gezag is van rechtswege verleend indien Onze Minister:
 
 - a. niet binnen acht weken na ontvangst van het verzoek een beslissing op dat verzoek heeft genomen,
 
-- b. niet binnen acht weken na ontvangst van het verzoek van burgemeester en wethouders heeft besloten de beslissing op dat verzoek te verdagen, of
+- b. niet binnen acht weken na ontvangst van het verzoek heeft besloten de beslissing op dat verzoek te verdagen, of
 
-- c. niet binnen de termijn waarmee de beslissing op het verzoek van burgemeester en wethouders is verdaagd, een beslissing op dat verzoek heeft genomen.
+- c. niet binnen de termijn waarmee de beslissing op het verzoek is verdaagd, een beslissing op dat verzoek heeft genomen.
 
 Deze verlening van toestemming wordt aangemerkt als een besluit in de zin van [artikel 1:3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3).
 
@@ -172,7 +160,7 @@ Deze verlening van toestemming wordt aangemerkt als een besluit in de zin van [a
 
 2. De bouwverordening bevat voorschriften omtrent:
 
-- a. het gebruik van woningen, woonketen, woonwagens, andere gebouwen, bouwwerken, geen gebouwen zijnde, en standplaatsen, waaronder in elk geval zijn begrepen voorschriften met betrekking tot:
+- a. het gebruik van woningen, andere gebouwen en bouwwerken, geen gebouwen zijnde, waaronder in elk geval zijn begrepen voorschriften met betrekking tot:
 
 - 1°. de beschikbaarheid van drinkwater en energie;
 
@@ -182,19 +170,15 @@ Deze verlening van toestemming wordt aangemerkt als een besluit in de zin van [a
 
 - 4°. de brandveiligheid en
 
-- 5°. voor zover het woningen, woonketen of woonwagens betreft, het aantal personen dat in een dergelijk gebouw mag wonen;
+- 5°. voor zover het woningen betreft, het aantal personen dat in een dergelijk gebouw mag wonen;
 
 - b. het gebruik van open erven en terreinen en de staat, waarin deze zich moeten bevinden;
 
-- c. het tegengaan van bouwen op verontreinigde bodem;
+- c. het tegengaan van het bouwen van een bouwwerk op verontreinigde bodem;
 
 - d. het slopen, waaronder begrepen voorschriften omtrent selectief slopen;
 
-- e. de wijze van inrichting en indiening van een aanvraag om woonvergunning als bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=2&artikel=60&z=2009-07-15&g=2009-07-15);
-
-- f. de overdraagbaarheid van een bouwvergunning als bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=40&z=2009-07-15&g=2009-07-15), en van een woonvergunning als bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=2&artikel=60&z=2009-07-15&g=2009-07-15);
-
-- g. het uitvoeren van bouw- of sloopwerkzaamheden, waaronder in elk geval zijn begrepen voorschriften met betrekking tot:
+- e. het uitvoeren van bouw- of sloopwerkzaamheden met betrekking tot een bouwwerk, waaronder in elk geval zijn begrepen voorschriften met betrekking tot:
 
 - 1°. de veiligheid op de bouw- of sloopplaats;
 
@@ -214,7 +198,7 @@ Deze verlening van toestemming wordt aangemerkt als een besluit in de zin van [a
 
 - a. waarin voortdurend of nagenoeg voortdurend mensen zullen verblijven,
 
-- b. voor het bouwen waarvan een reguliere bouwvergunning is vereist, met uitzondering van bouwwerken die naar aard en omvang gelijk zijn aan een bouwwerk voor het bouwen waarvan op grond van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=43&z=2009-07-15&g=2009-07-15) geen bouwvergunning is vereist of een geval als bedoeld in [artikel 44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=44&z=2009-07-15&g=2009-07-15), en
+- b. voor het bouwen waarvan een omgevingsvergunning is vereist, met uitzondering van bouwwerken die naar aard en omvang gelijk zijn aan een bouwwerk voor het bouwen waarvan op grond van [artikel 2.1, derde lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) geen omgevingsvergunning is vereist, en
 
 - c.
 
@@ -232,19 +216,19 @@ Deze verlening van toestemming wordt aangemerkt als een besluit in de zin van [a
 
 5. De bouwverordening kan voorschriften bevatten van stedenbouwkundige aard. Tot die voorschriften kunnen behoren voorschriften met betrekking tot:
 
-- a. de wegen waaraan mag worden gebouwd;
+- a. de wegen waaraan een bouwwerk mag worden gebouwd;
 
 - b. de rooilijnen, en
 
 - c. de plaatsing van bouwwerken ten opzichte van elkaar, mede uit het oogpunt van bereikbaarheid van die bouwwerken.
 
-6. De bouwverordening bevat tevens voorschriften omtrent de samenstelling, inrichting en werkwijze van de welstandscommissie. Zij kan bepalen dat er in plaats van een welstandscommissie een stadsbouwmeester wordt aangesteld, in welk geval de bouwverordening voorschriften bevat over de rol en de functie van de stadsbouwmeester. Voorts kan de bouwverordening nadere voorschriften bevatten omtrent de verslagen, bedoeld in de [artikelen 12b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=3&artikel=12b&z=2009-07-15&g=2009-07-15), en [46, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=46&z=2009-07-15&g=2009-07-15).
+6. De bouwverordening bevat tevens voorschriften omtrent de samenstelling, inrichting en werkwijze van de welstandscommissie. Zij kan bepalen dat er in plaats van een welstandscommissie een stadsbouwmeester wordt aangesteld, in welk geval de bouwverordening voorschriften bevat over de rol en de functie van de stadsbouwmeester. Voorts kan de bouwverordening nadere voorschriften bevatten omtrent de verslagen, bedoeld in [artikel 12b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=3&artikel=12b&z=2010-10-01&g=2010-10-01).
 
 7. Bij algemene maatregel van bestuur kan worden bepaald dat in de bouwverordening voorschriften worden gegeven omtrent andere onderwerpen dan die, genoemd in het tweede, vijfde en zesde lid.
 
 8. Bij algemene maatregel van bestuur kunnen ter bevordering van eenheid in de bouwverordeningen regelen worden gegeven omtrent de inhoud van de voorschriften, bedoeld in het tweede tot en met vierde, zesde en zevende lid.
 
-9. De gemeenteraad brengt binnen een jaar na het in werking treden van de krachtens het achtste lid en de krachtens [artikel 120](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IX&artikel=120&z=2009-07-15&g=2009-07-15) gegeven voorschriften de bouwverordening met die voorschriften in overeenstemming. Zolang de bouwverordening niet met die voorschriften in overeenstemming is gebracht, gelden die voorschriften rechtstreeks.
+9. De gemeenteraad brengt binnen een jaar na het in werking treden van de krachtens het achtste lid en de krachtens [artikel 120](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IX&artikel=120&z=2010-10-01&g=2010-10-01) gegeven voorschriften de bouwverordening met die voorschriften in overeenstemming. Zolang de bouwverordening niet met die voorschriften in overeenstemming is gebracht, gelden die voorschriften rechtstreeks.
 
 ##### Artikel 9
 
@@ -258,11 +242,9 @@ De in de bouwverordening vervatte voorschriften omtrent de rooilijnen en de plaa
 
 ##### Artikel 11
 
-1. Bij een in de bouwverordening gegeven voorschrift kan worden bepaald, dat burgemeester en wethouders bevoegd zijn van dat voorschrift ontheffing te verlenen, tenzij het een voorschrift betreft waarmee de bouwverordening krachtens [artikel 8, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=2&artikel=8&z=2009-07-15&g=2009-07-15), in overeenstemming is gebracht.
+1. Bij een in de bouwverordening gegeven voorschrift kan worden bepaald, dat daarvan kan worden afgeweken bij een vergunning voor een bouw- of sloopactiviteit als bedoeld in [artikel 2.1, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), respectievelijk [2.2, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.2).
 
-2. Bij een in de algemene maatregel van bestuur, bedoeld in [artikel 8, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=2&artikel=8&z=2009-07-15&g=2009-07-15), gegeven voorschrift kan worden bepaald, dat burgemeester en wethouders bevoegd zijn ontheffing te verlenen van dat voorschrift.
-
-3. Aan een ontheffing als bedoeld in het eerste of tweede lid, mogen slechts voorwaarden worden verbonden ter bescherming van de belangen, waarop de voorschriften, waarvan ontheffing wordt verleend, het oog hebben.
+2. Van een voorschrift dat overeenkomstig [artikel 8, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=2&artikel=8&z=2010-10-01&g=2010-10-01), in de bouwverordening is opgenomen kan slechts worden afgeweken voor zover dat is toegestaan op grond van een algemene maatregel van bestuur krachtens artikel 8, achtste lid.
 
 ### Afdeling 3. De welstand
 
@@ -270,17 +252,15 @@ De in de bouwverordening vervatte voorschriften omtrent de rooilijnen en de plaa
 
 1. Het uiterlijk van:
 
-- a. een bestaand bouwwerk, met uitzondering van een tijdelijk bouwwerk als bedoeld in [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=45&z=2009-07-15&g=2009-07-15),
+- a. een bestaand bouwwerk, met uitzondering van een bouwwerk, niet zijnde een seizoensgebonden bouwwerk, waarvoor in de omgevingsvergunning is bepaald dat dit slechts voor een bepaalde periode in stand mag worden gehouden;
 
-- b. een bestaande standplaats,
+- b. een te bouwen bouwwerk voor het bouwen waarvan op grond van [artikel 2.1, derde lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) geen omgevingsvergunning is vereist,
 
-- c. een te bouwen bouwwerk voor het bouwen waarvan op grond van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=43&z=2009-07-15&g=2009-07-15) geen bouwvergunning is vereist,
+mag niet in ernstige mate in strijd zijn met redelijke eisen van welstand, beoordeeld naar de criteria, bedoeld in [artikel 12a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=3&artikel=12a&z=2010-10-01&g=2010-10-01).
 
-mag niet in ernstige mate in strijd zijn met redelijke eisen van welstand, beoordeeld naar de criteria, bedoeld in [artikel 12a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=3&artikel=12a&z=2009-07-15&g=2009-07-15).
+2. De gemeenteraad kan besluiten dat, in afwijking van het eerste lid en [artikel 2.10, eerste lid, onder d, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.10), voor een daarbij aan te wijzen gebied of voor een of meer daarbij aan te wijzen categorieën van bestaande en te bouwen bouwwerken geen redelijke eisen van welstand van toepassing zijn.
 
-2. De gemeenteraad kan besluiten dat, in afwijking van het eerste lid en [artikel 44, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=44&z=2009-07-15&g=2009-07-15), voor een daarbij aan te wijzen gebied of voor een of meer daarbij aan te wijzen categorieën van bestaande en te bouwen bouwwerken of standplaatsen geen redelijke eisen van welstand van toepassing zijn.
-
-3. Voor zover de toepassing van de criteria, bedoeld in [artikel 12a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=3&artikel=12a&z=2009-07-15&g=2009-07-15), leidt tot strijd met het bestemmingsplan of met in de bouwverordening opgenomen voorschriften van stedenbouwkundige aard, blijven die criteria buiten toepassing.
+3. Voor zover de toepassing van de criteria, bedoeld in [artikel 12a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=3&artikel=12a&z=2010-10-01&g=2010-10-01), leidt tot strijd met het bestemmingsplan of met in de bouwverordening opgenomen voorschriften van stedenbouwkundige aard, blijven die criteria buiten toepassing.
 
 4. De gemeenteraad betrekt de ingezetenen van de gemeente en belanghebbenden bij de voorbereiding van besluiten krachtens het tweede lid op de wijze voorzien in de krachtens [artikel 150 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=150) vastgestelde verordening.
 
@@ -290,37 +270,37 @@ mag niet in ernstige mate in strijd zijn met redelijke eisen van welstand, beoor
 
 ##### Artikel 13
 
-Burgemeester en wethouders kunnen, indien dit naar hun oordeel noodzakelijk is, degene die als eigenaar van een gebouw, bouwwerk, niet zijnde een gebouw, of standplaats, dan wel uit anderen hoofde bevoegd is tot het daaraan treffen van voorzieningen, verplichten tot het binnen een door hen te bepalen termijn treffen van zodanige voorzieningen, dat de staat van dat gebouw, dat bouwwerk of die standplaats nadien komt te liggen op een niveau dat hoger is dan het niveau dat overeenkomt met de voorschriften, bedoeld in [artikel 1b, tweede lid, onderdeel a, b, respectievelijk c](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=1&artikel=1b&z=2009-07-15&g=2009-07-15), zonder dat deze hoger komt te liggen dan het niveau dat overeenkomt met de voorschriften, bedoeld in [artikel 1b, eerste lid, onderdeel a, b, respectievelijk c](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=1&artikel=1b&z=2009-07-15&g=2009-07-15).
+Het bevoegd gezag kan, indien dat naar zijn oordeel noodzakelijk is, degene die als eigenaar van een gebouw of een bouwwerk, niet zijnde een gebouw, dan wel uit anderen hoofde bevoegd is tot het daaraan treffen van voorzieningen, verplichten tot het binnen een door hem te bepalen termijn treffen van zodanige voorzieningen, dat de staat van dat gebouw of dat bouwwerk nadien komt te liggen op een niveau dat hoger is dan het niveau dat overeenkomt met de voorschriften, bedoeld in [artikel 1b, tweede lid, onderdeel a, respectievelijk b](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=1&artikel=1b&z=2010-10-01&g=2010-10-01), zonder dat dit hoger komt te liggen dan het niveau dat overeenkomt met de voorschriften, bedoeld in artikel 1b, eerste lid, onderdeel a, respectievelijk b.
 
 ### Afdeling 2. Aanschrijving tot het treffen van voorzieningen en tot het aanbrengen van verbeteringen
 
 ##### Artikel 14
 
-1. Indien een gebouw, een open erf of een terrein op grond van [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=VI&afdeling=1a&artikel=97&z=2009-07-15&g=2009-07-15), dan wel een gebouw op grond van [artikel 174a van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=174a), een verordening als bedoeld in [artikel 174 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=174) of [artikel 13b van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=13b) is gesloten, kan bij besluit van burgemeester en wethouders degene die als eigenaar of uit anderen hoofde bevoegd is tot het in gebruik geven van dat gebouw, open erf of terrein, worden verplicht om naar hun keuze het gebouw, open erf of terrein binnen een daarbij te bepalen termijn:
+1. Indien een gebouw, een open erf of een terrein op grond van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=III&artikel=17&z=2010-10-01&g=2010-10-01), dan wel een gebouw op grond van [artikel 174a van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=174a), een verordening als bedoeld in [artikel 174 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=174) of [artikel 13b van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=13b) is gesloten, kan bij besluit van het bevoegd gezag degene die als eigenaar of uit anderen hoofde bevoegd is tot het in gebruik geven van dat gebouw, open erf of terrein, worden verplicht om naar keuze van het bevoegd gezag het gebouw, open erf of terrein binnen een daarbij te bepalen termijn:
 
 - a. in gebruik te geven aan een andere persoon dan degene die als gevolg van de sluiting het gebruik van het gebouw, open erf of terrein heeft moeten staken, of
 
 - b. in beheer te geven aan een persoon, die uit hoofde van beroep of bedrijf op het terrein van de huisvesting werkzaam is, of aan een op dat terrein werkzame instelling.
 
-2. Burgemeester en wethouders kunnen in hun besluit:
+2. Het bevoegd gezag kan in zijn besluit:
 
-- a. personen of instellingen als bedoeld in het eerste lid, onderdelen a en b, noemen uit welke degene tot wie het besluit is gericht een keuze moet maken, of, indien dit naar het oordeel van burgemeester en wethouders niet mogelijk is, een persoon of instelling als hier bedoeld noemen aan wie het gebouw, open erf of terrein binnen een daarbij aangegeven termijn en op een daarbij aangegeven wijze in gebruik dan wel in beheer moet worden gegeven,
+- a. personen of instellingen als bedoeld in het eerste lid, onderdelen a en b, noemen uit welke degene tot wie het besluit is gericht een keuze moet maken, of, indien dit naar het oordeel van het bevoegd gezag niet mogelijk is, een persoon of instelling als hier bedoeld noemen aan wie het gebouw, open erf of terrein binnen een daarbij aangegeven termijn en op een daarbij aangegeven wijze in gebruik dan wel in beheer moet worden gegeven,
 
-- b. indien het gebouw, open erf of terrein noodzakelijke voorzieningen behoeft om weer op redelijke wijze tot bewoning of gebruik te kunnen dienen, degene die als eigenaar of uit anderen hoofde tot het treffen van die voorzieningen bevoegd is, ertoe verplichten om binnen een door hen te bepalen termijn de door hen aan te geven voorzieningen te treffen, en
+- b. indien het gebouw, open erf of terrein noodzakelijke voorzieningen behoeft om weer op redelijke wijze tot bewoning of gebruik te kunnen dienen, degene die als eigenaar of uit anderen hoofde tot het treffen van die voorzieningen bevoegd is, ertoe verplichten om binnen een door hem te bepalen termijn de door hem aan te geven voorzieningen te treffen, en
 
 - c. zo nodig, andere voorwaarden aan de uitvoering van het besluit stellen.
 
-3. Indien het eerste lid, onderdeel b, van toepassing is stellen burgemeester en wethouders een beheersvergoeding vast. De in dat onderdeel bedoelde persoon of instelling stelt na overleg met degene tot wie het in dat lid bedoelde besluit is gericht, de huurprijs vast op een bedrag dat redelijk is in het economische verkeer en stelt de ontvangen huurprijs, na aftrek van de beheersvergoeding, ter beschikking van degene tot wie dat besluit is gericht.
+3. Indien het eerste lid, onderdeel b, van toepassing is stelt het bevoegd gezag een beheersvergoeding vast. De in dat onderdeel bedoelde persoon of instelling stelt na overleg met degene tot wie het in dat lid bedoelde besluit is gericht, de huurprijs vast op een bedrag dat redelijk is in het economische verkeer en stelt de ontvangen huurprijs, na aftrek van de beheersvergoeding, ter beschikking van degene tot wie dat besluit is gericht.
 
-4. Een in het eerste lid, onderdeel a of b, bedoelde persoon of instelling die het gebruik of beheer van het gebouw, open erf of terrein heeft beëindigd, doet daarvan binnen veertien dagen na de dag van beëindiging mededeling aan burgemeester en wethouders.
+4. Een in het eerste lid, onderdeel a of b, bedoelde persoon of instelling die het gebruik of beheer van het gebouw, open erf of terrein heeft beëindigd, doet daarvan binnen veertien dagen na de dag van beëindiging mededeling aan het bevoegd gezag.
 
 5. Onder beheer wordt in dit artikel verstaan het in gebruik geven van een gebouw, open erf of terrein en het daarna verrichten van al die handelingen met betrekking tot dat gebouw, open erf of terrein die volgens het burgerlijk recht tot de verantwoordelijkheid van een eigenaar behoren.
 
 ##### Artikel 15
 
-1. Burgemeester en wethouders kunnen gelijktijdig met een besluit als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=III&artikel=13&z=2009-07-15&g=2009-07-15), [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=III&artikel=13a&z=2009-07-15&g=2009-07-15) of [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=III&artikel=14&z=2009-07-15&g=2009-07-15), besluiten tot oplegging van een last onder bestuursdwang of oplegging van een last onder dwangsom, gericht op naleving van het eerstgenoemde besluit. In dat geval worden beide besluiten gelijktijdig bekendgemaakt.
+1. Het bevoegd gezag kan gelijktijdig met een besluit als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=III&artikel=13&z=2010-10-01&g=2010-10-01), [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=III&artikel=13a&z=2010-10-01&g=2010-10-01) of [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=III&artikel=14&z=2010-10-01&g=2010-10-01), besluiten tot oplegging van een last onder bestuursdwang of oplegging van een last onder dwangsom, gericht op naleving van het eerstgenoemde besluit. In dat geval worden beide besluiten gelijktijdig bekendgemaakt.
 
-2. Indien toepassing wordt gegeven aan het eerste lid maakt het besluit tot oplegging van een last onder bestuursdwang of oplegging van een last onder dwangsom, wat betreft de mogelijkheid van bezwaar en beroep, deel uit van het in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=III&artikel=13&z=2009-07-15&g=2009-07-15), [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=III&artikel=13a&z=2009-07-15&g=2009-07-15) of [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=III&artikel=14&z=2009-07-15&g=2009-07-15), bedoelde besluit.
+2. Indien toepassing wordt gegeven aan het eerste lid maakt het besluit tot oplegging van een last onder bestuursdwang of oplegging van een last onder dwangsom, wat betreft de mogelijkheid van bezwaar en beroep, deel uit van het in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=III&artikel=13&z=2010-10-01&g=2010-10-01), [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=III&artikel=13a&z=2010-10-01&g=2010-10-01) of [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=III&artikel=14&z=2010-10-01&g=2010-10-01), bedoelde besluit.
 
 ##### Artikel 15a
 
@@ -332,7 +312,9 @@ Degene die als eigenaar van een woning of uit anderen hoofde daartoe bevoegd is,
 
 ##### Artikel 17
 
-Vervallen
+1. Indien overtreding van de bij of krachtens [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=I&z=2010-10-01&g=2010-10-01), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&z=2010-10-01&g=2010-10-01), of [III](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=III&z=2010-10-01&g=2010-10-01) gegeven voorschriften met betrekking tot de staat of het gebruik van een gebouw, open erf of terrein gepaard gaat met een bedreiging van de leefbaarheid of een gevaar voor de veiligheid of de gezondheid, en er een klaarblijkelijk gevaar is op herhaling van de overtreding, kan het bevoegd gezag besluiten dat gebouw, open erf of terrein te sluiten. De [artikelen 5:24, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:24), en [5:25 tot en met 5:28 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:25) zijn van overeenkomstige toepassing. Het bevoegd gezag kan van de overtreder de ingevolge [artikel 5:25 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:25) verschuldigde kosten invorderen bij dwangbevel.
+
+2. Het bevoegd gezag bepaalt in het besluit, bedoeld in het eerste lid, de duur van de sluiting.
 
 ##### Artikel 17a
 
@@ -344,7 +326,7 @@ Vervallen
 
 ##### Artikel 18
 
-Vervallen
+Indien het bevoegd gezag een besluit als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=III&artikel=13&z=2010-10-01&g=2010-10-01), [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=III&artikel=13a&z=2010-10-01&g=2010-10-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=III&artikel=14&z=2010-10-01&g=2010-10-01), of [17](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=III&artikel=17&z=2010-10-01&g=2010-10-01) heeft genomen en, nadat dat besluit is genomen, een ander bestuursorgaan ten aanzien van het betrokken bouwwerk, open erf of terrein het bevoegd gezag wordt, is [artikel 5.2, tweede lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=5.2) op een zodanig besluit van overeenkomstige toepassing.
 
 ##### Artikel 19
 
@@ -438,21 +420,11 @@ Vervallen
 
 ##### Artikel 40
 
-1. Het is verboden:
-
-- a. te bouwen zonder of in afwijking van een door burgemeester en wethouders verleende bouwvergunning,
-
-- b. een bouwwerk, standplaats of deel daarvan dat is gebouwd zonder of in afwijking van een door burgemeester en wethouders verleende bouwvergunning, in stand te laten,
-
-tenzij voor dat bouwen op grond van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=43&z=2009-07-15&g=2009-07-15) geen bouwvergunning is of was vereist.
-
-2. Voor het bouwen van een tent, tentwagen, kampeerauto, caravan of stacaravan ten behoeve van recreatief nachtverblijf is geen bouwvergunning vereist, indien het bouwen geschiedt in overeenstemming met een bestemmingsplan en de eisen die krachtens zodanig plan zijn gesteld.
-
-3. Het in stand houden van een ingevolge het tweede lid zonder bouwvergunning gebouwde tent, tentwagen, kampeerauto, caravan of stacaravan buiten een tijdvak waarbinnen het betreffende bouwwerk ingevolge het bestemmingsplan is toegestaan, staat gelijk aan een overtreding van het verbod, bedoeld in het eerste lid, aanhef en onderdeel b.
+Vervallen
 
 ##### Artikel 41
 
-Van een aanvraag om bouwvergunning wordt binnen twee weken na ontvangst daarvan door burgemeester en wethouders kennisgegeven in een van gemeentewege uitgegeven blad of een dag-, nieuws- of huis-aan-huisblad.
+Vervallen
 
 ##### Artikel 42
 
@@ -460,115 +432,19 @@ Vervallen
 
 ##### Artikel 43
 
-1. Geen bouwvergunning is vereist voor het bouwen:
-
-- a. ingevolge een besluit als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=III&artikel=13&z=2009-07-15&g=2009-07-15), [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=III&artikel=13a&z=2009-07-15&g=2009-07-15) of [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=III&artikel=14&z=2009-07-15&g=2009-07-15), dan wel een besluit tot oplegging van een last onder bestuursdwang of oplegging van een last onder dwangsom gericht op naleving van het bepaalde bij of krachtens [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=I&z=2009-07-15&g=2009-07-15), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&z=2009-07-15&g=2009-07-15), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=III&z=2009-07-15&g=2009-07-15) of [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&z=2009-07-15&g=2009-07-15);
-
-- b. dat tot het gewone onderhoud behoort, of
-
-- c. dat bij algemene maatregel van bestuur is aangemerkt als van beperkte betekenis, waarbij tevens voorschriften kunnen worden gegeven omtrent het gebruik van het bouwwerk of de standplaats.
-
-2. Het eerste lid, onderdeel c, is niet van toepassing op het bouwen:
-
-- a. in, op, aan of bij een monument als bedoeld in de [Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471) of een monument als bedoeld in een provinciale of gemeentelijke monumentenverordening, of
-
-- b. in een beschermd stads- of dorpsgezicht als bedoeld in de [Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471).
-
-3. De voordracht voor een krachtens het eerste lid, onderdeel c, vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan de beide kamers der Staten-Generaal is voorgelegd.
+Vervallen
 
 ##### Artikel 44
 
-1. De reguliere bouwvergunning mag slechts en moet worden geweigerd, indien:
-
-- a. de aanvraag en de daarbij overgelegde gegevens naar het oordeel van burgemeester en wethouders niet aannemelijk maken dat het bouwen waarop de aanvraag betrekking heeft voldoet aan de voorschriften die zijn gegeven bij of krachtens een algemene maatregel van bestuur als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=1&artikel=2&z=2009-07-15&g=2009-07-15) of [120](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IX&artikel=120&z=2009-07-15&g=2009-07-15);
-
-- b. de aanvraag en de daarbij overgelegde gegevens naar het oordeel van burgemeester en wethouders niet aannemelijk maken dat het bouwen waarop de aanvraag betrekking heeft voldoet aan de voorschriften die zijn gegeven bij de bouwverordening of, zolang de bouwverordening daarmee nog niet in overeenstemming is gebracht, met de voorschriften die zijn gegeven bij een algemene maatregel van bestuur als bedoeld in [artikel 8, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=2&artikel=8&z=2009-07-15&g=2009-07-15), dan wel bij of krachtens een algemene maatregel van bestuur als bedoeld in [artikel 120](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IX&artikel=120&z=2009-07-15&g=2009-07-15);
-
-- c. het bouwen in strijd is met een bestemmingsplan of met de eisen die krachtens zodanig plan zijn gesteld dan wel met een projectbesluit als bedoeld in [artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.10), [3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.27) of [3.29 van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.29) of met een besluit als bedoeld in [artikel 3.40](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.40), [3.41](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.41) of [3.42 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.42);
-
-- d. het uiterlijk of de plaatsing van het bouwwerk of de standplaats, waarop de aanvraag betrekking heeft, met uitzondering van een tijdelijk bouwwerk als bedoeld in [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=45&z=2009-07-15&g=2009-07-15), zowel op zichzelf beschouwd als in verband met de omgeving of de te verwachten ontwikkeling daarvan, in strijd is met redelijke eisen van welstand, beoordeeld naar de criteria, bedoeld in [artikel 12a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=3&artikel=12a&z=2009-07-15&g=2009-07-15), onderdeel a, tenzij burgemeester en wethouders van oordeel zijn dat de bouwvergunning niettemin moet worden verleend, of
-
-- e. voor het bouwen een vergunning ingevolge de [Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471) of een provinciale of gemeentelijke monumentenverordening is vereist en deze niet is verleend;
-
-- f. het bouwen in strijd is met de regels, gesteld bij of krachtens een verordening als bedoeld in [artikel 4.1, derde lid, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=4.1) of bij of krachtens een algemene maatregel van bestuur als bedoeld in [artikel 4.3, derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=4.3);
-
-- g. het bouwen een bouwplan betreft, dat bij algemene maatregel van bestuur, bedoeld in [artikel 6.12, eerste lid, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=6.12), is aangewezen, en in strijd is met een exploitatieplan of met krachtens zodanig plan gestelde eisen.
-
-2. Bij algemene maatregel van bestuur wordt bepaald voor welke categorieën van gevallen geen reguliere bouwvergunning is vereist, doch kan worden volstaan met een lichte bouwvergunning. De voordracht voor een krachtens de eerste volzin vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan de beide kamers der Staten-Generaal is voorgelegd.
-
-3. Op de lichte bouwvergunning is het eerste lid van overeenkomstige toepassing, met dien verstande dat:
-
-- a. onderdeel a van dat lid slechts van toepassing is voor zover de voorschriften die in dat onderdeel zijn bedoeld, betrekking hebben op constructieve veiligheid, en
-
-- b. onderdeel b van dat lid slechts van toepassing is voor zover de voorschriften die in dat onderdeel zijn bedoeld, van stedenbouwkundige aard zijn.
+Vervallen
 
 ##### Artikel 45
 
-1. In een bouwvergunning voor:
-
-- a. een woonkeet;
-
-- b. een bouwwerk, bestemd om in een tijdelijke behoefte, niet zijnde bewoning, te voorzien, niet zijnde een seizoensgebonden bouwwerk als bedoeld in het zesde lid;
-
-- c. een bouwwerk dat slechts toelaatbaar is ingevolge een voorlopige bestemming als bedoeld in [artikel 3.2 van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.2) of
-
-- d. een bouwwerk ten aanzien waarvan [artikel 3.22 van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.22) wordt toegepast,
-
-wordt een termijn gesteld, na het verstrijken waarvan het bouwwerk niet langer in stand mag worden gehouden.
-
-2. In de gevallen, bedoeld in het eerste lid, onderdelen a en b, is de termijn ten hoogste vijf jaren.
-
-3. In het geval, bedoeld in het eerste lid, onderdeel c, wordt de termijn vastgesteld overeenkomstig hetgeen bij het bestemmingsplan omtrent de duur van de bestemming is bepaald.
-
-4. In het geval, bedoeld in het eerste lid, onderdeel d, is de termijn gelijk aan die, waarvoor de vrijstelling, bedoeld in [artikel 3.22 van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.22), is verleend.
-
-5. De termijnen kunnen worden verlengd, met dien verstande dat:
-
-- a. de termijn ten aanzien van een woonkeet slechts kan worden verlengd, indien een kortere termijn dan vijf jaren is gesteld, en wel tot ten hoogste vijf jaren;
-
-- b. de termijn ten aanzien van een bouwwerk dat slechts toelaatbaar is ingevolge een voorlopige bestemming als bedoeld in [artikel 3.2 van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.2) slechts kan worden verlengd, indien de duur van de bestemming inmiddels is verlengd, en
-
-- c. de termijn ten aanzien van een bouwwerk waarop [artikel 3.22 van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.22) is toegepast, slechts kan worden verlengd, indien de termijn, bedoeld in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.22), is verlengd.
-
-6. In de bouwvergunning voor een seizoensgebonden bouwwerk wordt bepaald binnen welke opeenvolgende tijdvakken van een kalenderjaar dat bouwwerk wordt opgericht, gebruikt en gesloopt en voor welke periode de vergunning wordt verleend.
-
-7. In een geval als bedoeld in het eerste lid, onderdeel a, b of c, is de rechthebbende na het verstrijken van de in de bouwvergunning gestelde termijn gehouden het bouwwerk hetzij terstond te slopen hetzij terstond in overeenstemming te brengen met de van toepassing zijnde voorschriften. In een geval als bedoeld in het zesde lid is de rechthebbende gehouden het bouwwerk te slopen binnen het in de bouwvergunning daartoe vastgestelde tijdvak.
-
-8. In het geval, bedoeld in het eerste lid, onderdeel d, is na het verstrijken van de termijn [artikel 3.22, derde lid, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.22) van toepassing.
+Vervallen
 
 ##### Artikel 46
 
-1. Burgemeester en wethouders beslissen omtrent een aanvraag:
-
-- a. om een lichte bouwvergunning: binnen zes weken na ontvangst van de aanvraag;
-
-- b. om een reguliere bouwvergunning: binnen twaalf weken na ontvangst van de aanvraag;
-
-- c. om een reguliere bouwvergunning die overeenkomstig [artikel 56a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=56a&z=2009-07-15&g=2009-07-15), in twee fasen wordt verleend: telkens binnen zes weken na ontvangst van de aanvraag.
-
-2. Burgemeester en wethouders kunnen hun beslissing omtrent een aanvraag om een reguliere bouwvergunning, dan wel, indien die vergunning overeenkomstig [artikel 56a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=56a&z=2009-07-15&g=2009-07-15), in twee fasen wordt verleend, hun beslissing omtrent een aanvraag om bouwvergunning eerste of tweede fase, eenmaal met ten hoogste zes weken verdagen.
-
-3. Het eerste lid is niet van toepassing, indien de in [artikel 44, eerste lid, onderdeel c of f](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=44&z=2009-07-15&g=2009-07-15), bedoelde situatie zich voordoet. In dat geval wordt de aanvraag om bouwvergunning tevens aangemerkt als een aanvraag om:
-
-- a. een ontheffing als bedoeld in [artikel 3.6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.6), [3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.22), [3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.23), of [3.38, vierde lid, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.38);
-
-- b. een projectbesluit als bedoeld in [artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.10), [3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.27) of [3.29 van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.29) of een besluit als bedoeld in [artikel 3.40](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.40), [3.41](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.41) of [3.42 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.42), of
-
-- c. een ontheffing van de regels die zijn gesteld krachtens [artikel 4.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=4.1), of [4.3, derde lid, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=4.3), voor zover de betrokken regels een dergelijke ontheffing mogelijk maken.
-
-4. In de situatie, bedoeld in het derde lid, tweede volzin, wordt de beslissing omtrent de aanvraag om bouwvergunning voorbereid overeenkomstig de procedure die van toepassing is op de voorbereiding van de beslissing omtrent de aanvraag om een ontheffing, een projectbesluit of een besluit als bedoeld in [artikel 3.40](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.40), [3.41](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.41) of [3.42 van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.42). Daarbij beslissen burgemeester en wethouders omtrent de aanvraag om bouwvergunning, voor zover van toepassing in afwijking van [artikel 3:18 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:18), binnen vier weken nadat is beslist omtrent de aanvraag om een ontheffing, een projectbesluit of een besluit als bedoeld in [artikel 3.40](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.40), [3.41](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.41) of [3.42 van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.42).
-
-5. Indien wordt beslist omtrent een aanvraag om bouwvergunning op een moment dat ten behoeve daarvan een ontheffing, projectbesluit of een besluit als bedoeld in [artikel 3.40](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.40), [3.41](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.41) of [3.42 van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.42) is genomen, maar nog niet in werking is getreden, mag slechts en moet die bouwvergunning worden geweigerd, in afwijking van [artikel 44, eerste lid, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=44&z=2009-07-15&g=2009-07-15), indien het bouwen in strijd is met het bestemmingsplan in samenhang met die ontheffing, dan wel in strijd is met dat projectbesluit of dat besluit. Indien burgemeester en wethouders niet omtrent de aanvraag om bouwvergunning beslissen binnen de daarvoor in het eerste of vierde lid gestelde termijn en, indien het derde lid van toepassing is, een ontheffing, een projectbesluit of een besluit als bedoeld in [artikel 3.40](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.40), [3.41](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.41) of [3.42 van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.42) is genomen, is de vergunning van rechtswege verleend. Deze verlening wordt aangemerkt als een besluit in de zin van [artikel 1:3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3).
-
-6. De beslissing omtrent een aanvraag om bouwvergunning en een beslissing omtrent een aanvraag om een ontheffing, een projectbesluit of een besluit als bedoeld in [artikel 3.40](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.40), [3.41](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.41) of [3.42 van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.42), voor zover deze beslissing ziet op het bouwen waarop de aanvraag om bouwvergunning betrekking heeft, worden voor de mogelijkheid van beroep ingevolge [hoofdstuk 8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8)als één besluit aangemerkt. De beslissing omtrent een aanvraag om bouwvergunning treedt niet eerder in werking dan een op dat bouwen betrekking hebbende beslissing krachtens de [Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449) als bedoeld in de eerste volzin.
-
-7. Indien de vergunning een woonkeet betreft, doen burgemeester en wethouders tegelijkertijd met of zo spoedig mogelijk na de bekendmaking mededeling van de in het eerste lid bedoelde beslissing aan de inspecteur.
-
-8. Indien de vergunning een bouwwerk betreft dat behoort tot een beschermd stads- of dorpsgezicht in de zin van de [Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471), doen burgemeester en wethouders tegelijkertijd of zo spoedig mogelijk na de bekendmaking mededeling van de in het eerste lid bedoelde beslissing aan de Rijksdienst voor Archeologie, Cultuurlandschap en Monumenten.
-
-9. Burgemeester en wethouders leggen de gemeenteraad eenmaal per jaar een verslag voor waarin zij uiteenzetten op welke wijze zij toepassing hebben gegeven aan het tweede lid.
-
-10. Indien een beslissing als bedoeld in het eerste of tweede lid afwijkt van het advies van de welstandscommissie of de stadsbouwmeester wordt zulks met de redenen voor de afwijking bij de bekendmaking vermeld.
+Vervallen
 
 ##### Artikel 47
 
@@ -576,13 +452,7 @@ Vervallen
 
 ##### Artikel 48
 
-1. Burgemeester en wethouders leggen een aanvraag voor een reguliere bouwvergunning voor advies voor aan de welstandscommissie dan wel de stadsbouwmeester die in de betreffende gemeente werkzaam is. Een aanvraag voor een lichte bouwvergunning kunnen zij voor advies aan die welstandscommissie dan wel de stadsbouwmeester voorleggen.
-
-2. Het eerste lid is niet van toepassing:
-
-- a. indien voor het betreffende bouwwerk of de betreffende standplaats geen redelijke eisen van welstand gelden, of
-
-- b. indien bij voorbaat vaststaat dat de bouwvergunning reeds op een andere grond moet worden geweigerd dan wegens strijd met redelijke eisen van welstand.
+Vervallen
 
 ##### Artikel 49
 
@@ -590,45 +460,11 @@ Vervallen
 
 ##### Artikel 50
 
-1. In afwijking van [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=46&z=2009-07-15&g=2009-07-15), houden burgemeester en wethouders de beslissing op een aanvraag om bouwvergunning aan indien er geen grond is de vergunning te weigeren en voor het gebied, waarin het bouwwerk zal worden uitgevoerd, vóór de dag van ontvangst van de aanvraag:
-
-- a. een voorbereidingsbesluit als bedoeld in [artikel 3.7 van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.7) in werking is getreden;
-
-- b. een bestemmingsplan in ontwerp ter inzage is gelegd;
-
-- c. een verklaring als bedoeld in [artikel 4.1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=4.1), of in [artikel 4.3, vierde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=4.3) is bekendgemaakt;
-
-- d. een bestemmingsplan is vastgesteld;
-
-- e. een bestemmingsplan na vaststelling is bekendgemaakt.
-
-2. De aanhouding duurt totdat:
-
-- a. het voorbereidingsbesluit overeenkomstig [artikel 3.7, vijfde of zesde lid, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.7) is vervallen;
-
-- b. de termijn voor vaststelling van het bestemmingsplan ingevolge [artikel 3.8, eerste lid, onder e, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.8) is overschreden;
-
-- c. de termijn voor bekendmaking van het bestemmingsplan ingevolge [artikel 3.8, derde, vierde of zesde lid, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.8) is overschreden;
-
-- d. het bestemmingsplan in werking is getreden dan wel in beroep is vernietigd;
-
-- e. de termijn, genoemd in [artikel 4.1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=4.1), of in [artikel 4.3, vierde lid, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=4.3) is verstreken;
-
-- f. de verordening, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=4.1), of de algemene maatregel van bestuur, bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=4.3), in werking is getreden.
-
-3. In afwijking van het eerste lid kan de bouwvergunning worden verleend indien het bouwwerk niet in strijd is met het in voorbereiding zijnde bestemmingsplan.
-
-4. Na het verstrijken van de aanhoudingsduur, bedoeld in het tweede lid, beslissen burgemeester en wethouders omtrent de aanvraag overeenkomstig [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=46&z=2009-07-15&g=2009-07-15).
+Vervallen
 
 ##### Artikel 51
 
-1. In afwijking van [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=46&z=2009-07-15&g=2009-07-15), houden burgemeester en wethouders de beslissing omtrent een aanvraag om bouwvergunning eveneens aan, indien er geen grond is om de vergunning te weigeren en de aanvraag een bouwwerk betreft, behorend tot een beschermd stads- of dorpsgezicht in de zin van de [Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471), waarvoor nog geen ter bescherming daarvan strekkend bestemmingsplan of beheersverordening geldt. De in de eerste volzin bedoelde plicht tot aanhouding geldt niet voor zover de aanvraag betrekking heeft op bouwen als bedoeld in [artikel 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=43&z=2009-07-15&g=2009-07-15).
-
-2. De aanhouding, bedoeld in het eerste lid, eerste volzin, duurt totdat een ter voldoening aan [artikel 36 van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=36) vast te stellen bestemmingsplan of beheersverordening in werking is getreden.
-
-3. Burgemeester en wethouders kunnen, in afwijking van het eerste lid, eerste volzin, de bouwvergunning verlenen indien het bouwplan niet in strijd is met het in voorbereiding zijnde, ter bescherming van het beschermde stads- of dorpsgezicht strekkende bestemmingsplan. Alvorens te besluiten horen burgemeester en wethouders de Rijksdienst voor Archeologie, Cultuurlandschap en Monumenten. Van het besluit wordt onverwijld mededeling gedaan aan genoemde dienst.
-
-4. Na het verstrijken van de aanhoudingsduur, bedoeld in het tweede lid, beslissen burgemeester en wethouders omtrent de aanvraag om bouwvergunning overeenkomstig [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=46&z=2009-07-15&g=2009-07-15).
+Vervallen
 
 ##### Artikel 51a
 
@@ -636,147 +472,45 @@ Vervallen
 
 ##### Artikel 52
 
-1. In afwijking van [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=46&z=2009-07-15&g=2009-07-15), houden burgemeester en wethouders de beslissing omtrent een aanvraag om bouwvergunning eveneens aan, indien er geen grond is om de vergunning te weigeren en het bouwen tevens is aan te merken als het oprichten of veranderen van een inrichting waarvoor een vergunning krachtens [artikel 8.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1) of [artikel 15, onderdeel **b**, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) is vereist, tenzij de beschikking op de aanvraag om laatstbedoelde vergunning reeds is gegeven, en
-
-- a. over het ontwerp van de beschikking geen zienswijzen naar voren zijn gebracht en de beschikking niet afwijkt van dat ontwerp, of
-
-- b. indien het onder a gestelde niet van toepassing is:
-
-- 1°. zes weken zijn verstreken na de dag waarop een exemplaar van die beschikking ter inzage is gelegd, of
-
-- 2°. binnen die termijn een verzoek om voorlopige voorziening is gedaan en op dat verzoek is beslist.
-
-2. De in het eerste lid bedoelde aanhouding eindigt:
-
-- a. indien de beschikking op de aanvraag om de ingevolge de in het eerste lid genoemde wetten vereiste vergunning is gegeven, over het ontwerp van de beschikking geen zienswijzen naar voren zijn gebracht en de beschikking niet afwijkt van dat ontwerp: op de dag waarop burgemeester en wethouders van het ingevolge de in het eerste lid genoemde wetten bevoegde gezag een exemplaar van die beschikking hebben ontvangen, of
-
-- b. indien het onder a gestelde niet van toepassing is:
-
-- 1°. zes weken zijn verstreken na de dag waarop een exemplaar van de beschikking op de aanvraag om die vergunning ter inzage is gelegd, of
-
-- 2°. indien binnen die termijn een verzoek om voorlopige voorziening is gedaan, met ingang van de dag na die waarop op dat verzoek is beslist.
-
-3. Na de in het tweede lid bedoelde beëindiging van de aanhouding verlenen burgemeester en wethouders de bouwvergunning, tenzij het vierde lid van toepassing is, binnen vier weken na de beëindiging van de aanhouding. Indien burgemeester en wethouders niet binnen die termijn beslissen, is de bouwvergunning van rechtswege verleend. [Artikel 46, vijfde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=46&z=2009-07-15&g=2009-07-15), is van overeenkomstige toepassing.
-
-4. Indien het bouwplan waarop de aanvraag om bouwvergunning betrekking heeft, wijziging behoeft als gevolg van de vergunning in verband waarmee de beslissing op de aanvraag om bouwvergunning werd aangehouden, delen burgemeester en wethouders dit binnen twee weken na de beëindiging van de aanhouding aan de aanvrager van de bouwvergunning mede. Zij stellen hem daarbij in de gelegenheid binnen vijf weken een gewijzigde aanvraag om bouwvergunning in te dienen. Burgemeester en wethouders beslissen omtrent de gewijzigde aanvraag om bouwvergunning binnen vier weken. Indien burgemeester en wethouders niet binnen die termijn beslissen, is de bouwvergunning van rechtswege verleend. [Artikel 46, vijfde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=46&z=2009-07-15&g=2009-07-15), is van overeenkomstige toepassing.
-
-5. Indien de aanvrager van de bouwvergunning geen gebruik maakt van de hem overeenkomstig het vierde lid geboden gelegenheid, is de bouwvergunning van rechtswege verleend met ingang van de dag na de dag waarop de termijn van de hem geboden gelegenheid is verstreken. [Artikel 46, vijfde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=46&z=2009-07-15&g=2009-07-15), is van overeenkomstige toepassing.
-
-6. Indien burgemeester en wethouders niet zelf het bestuursorgaan zijn dat bevoegd is tot verlening van de vergunning in verband waarmee de beslissing op de aanvraag om bouwvergunning werd aangehouden, zenden zij een afschrift van de aanhouding, bedoeld in het eerste lid, onderscheidenlijk de beslissingen, bedoeld in het derde en vierde lid, aan het desbetreffende, krachtens de in het eerste lid genoemde wetten bevoegde gezag. Tevens stellen zij dat gezag in kennis van de verlening van de bouwvergunning ingevolge het vijfde lid.
+Vervallen
 
 ##### Artikel 52a
 
-1. In afwijking van [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=46&z=2009-07-15&g=2009-07-15), houden burgemeester en wethouders de beslissing op een aanvraag om bouwvergunning eveneens aan, indien er geen grond is de bouwvergunning te weigeren en uit het onderzoeksrapport, bedoeld in [artikel 8, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=2&artikel=8&z=2009-07-15&g=2009-07-15), blijkt dat de bodem ter plaatse van het te bouwen bouwwerk in zodanige mate is verontreinigd dan wel bij hen uit anderen hoofde een redelijk vermoeden bestaat dat overeenkomstig de [Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994)sprake is van een geval van ernstige verontreiniging. Het besluit tot aanhouding van de beslissing op de aanvraag om bouwvergunning wordt genomen binnen twee weken na ontvangst van die aanvraag en het onderzoeksrapport; indien er geen grond is de bouwvergunning te weigeren en de beslissing niet binnen deze termijn is genomen en uit het onderzoeksrapport blijkt dat de bodem ernstig is verontreinigd, is die beslissing van rechtswege genomen.
-
-2. De aanhouding duurt totdat het krachtens de [Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994) bevoegd gezag met het saneringsplan, bedoeld in [artikel 39, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=39), overeenkomstig het tweede lid van dat artikel, heeft ingestemd dan wel overeenkomstig [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=29), juncto [37, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=37) heeft vastgesteld dat geen sprake is van een geval van ernstige verontreiniging ten aanzien waarvan spoedige sanering noodzakelijk is. In geval van een melding als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=28) juncto [39b van de Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=39b), duurt de aanhouding totdat is gebleken dat de melding overeenkomstig de bij of krachtens die wet gestelde eisen is gedaan.
-
-3. Indien het bouwplan, waarop de aanvraag om bouwvergunning betrekking heeft, wijziging behoeft door het saneringsplan waarmee is ingestemd, delen burgemeester en wethouders dit binnen twee weken na de beëindiging van de aanhouding aan de aanvrager van de bouwvergunning mede. Zij stellen hem daarbij in de gelegenheid binnen vijf weken een gewijzigde aanvraag om bouwvergunning in te dienen.
-
-4. Na de beëindiging van de aanhouding of, indien toepassing is gegeven aan het derde lid, beslissen burgemeester en wethouders op de aanvraag om bouwvergunning overeenkomstig [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=46&z=2009-07-15&g=2009-07-15), met dien verstande dat de termijn, die in het eerste lid van dat artikel is genoemd, aanvangt op de dag die volgt op de datum waarop de aanhouding is beëindigd. Indien toepassing is gegeven aan het derde lid en de aanvrager van de bouwvergunning niet binnen vijf weken een gewijzigde aanvraag om bouwvergunning heeft ingediend, is de bouwvergunning van rechtswege geweigerd.
+Vervallen
 
 ##### Artikel 53
 
-1. In afwijking van [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=46&z=2009-07-15&g=2009-07-15), houden burgemeester en wethouders de beslissing omtrent een aanvraag om bouwvergunning eveneens aan, indien er geen grond is om de vergunning te weigeren en voor het gebouw een aanvraag is ingediend om een toelating als bedoeld in [artikel 5, tweede lid, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=5).
-
-2. De in het eerste lid bedoelde aanhouding eindigt, indien Onze Minister van Volksgezondheid, Welzijn en Sport voor het betrokken bouwproject een toelating heeft verleend als bedoeld in [artikel 5, tweede lid, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=5).
-
-3. Zo spoedig mogelijk na de bekendmaking doen burgemeester en wethouders mededeling van de aanhouding, bedoeld in het eerste lid, alsmede van de beëindiging van de aanhouding, aan het gezag, bedoeld in het tweede lid.
-
-4. Na de in het tweede lid bedoelde beëindiging van de aanhouding verlenen burgemeester en wethouders de bouwvergunning, tenzij het zesde lid van toepassing is, binnen vier weken na de beëindiging van de aanhouding.
-
-5. Indien burgemeester en wethouders niet voldoen aan het vierde lid, is de bouwvergunning, behoudens in een geval als bedoeld in het zesde lid, van rechtswege verleend. [Artikel 46, vijfde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=46&z=2009-07-15&g=2009-07-15), is van overeenkomstige toepassing.
-
-6. Indien het bouwplan, waarop de aanvraag om bouwvergunning betrekking heeft, als gevolg van een vergunning als bedoeld in het tweede lid, in verband waarmee de beslissing op de aanvraag om bouwvergunning is aangehouden, naar het oordeel van burgemeester en wethouders wijziging behoeft, stellen zij de aanvrager van de bouwvergunning in de gelegenheid binnen vijf weken nadat zij hem mededeling hebben gedaan van de in het tweede lid bedoelde beëindiging van de aanhouding, een gewijzigde aanvraag om bouwvergunning in te dienen. Burgemeester en wethouders beslissen omtrent de gewijzigde aanvraag om bouwvergunning overeenkomstig [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=46&z=2009-07-15&g=2009-07-15). Artikel 47 is op de gewijzigde aanvraag om bouwvergunning van overeenkomstige toepassing.
-
-7. Indien de aanvrager van de bouwvergunning geen gebruik maakt van de hem overeenkomstig het zesde lid geboden gelegenheid, is de bouwvergunning van rechtswege verleend met ingang van de dag na de dag waarop de termijn van de hem geboden gelegenheid is verstreken. [Artikel 46, vijfde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=46&z=2009-07-15&g=2009-07-15), is van overeenkomstige toepassing.
+Vervallen
 
 ##### Artikel 54
 
-1. In afwijking van [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=46&z=2009-07-15&g=2009-07-15), houden burgemeester en wethouders de beslissing omtrent een aanvraag om bouwvergunning eveneens aan, indien voor het bouwwerk een vergunning als bedoeld in [artikel 11, tweede lid, van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=11) is vereist.
-
-2. De in het eerste lid bedoelde aanhouding eindigt:
-
-- a. indien tegen het besluit, bedoeld in [artikel 11, tweede lid, van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=11), geen beroep is ingesteld, met ingang van de dag waarop zes weken zijn verstreken na de bekendmaking van dat besluit, of
-
-- b. indien tegen het besluit, bedoeld onder a, binnen zes weken na de bekendmaking ervan beroep is ingesteld, met ingang van de dag na de dag waarop het verzoek van de vergunninghouder om de opschorting van dat besluit op te heffen, is toegewezen.
-
-3. Zo spoedig mogelijk na de bekendmaking doen burgemeester en wethouders mededeling van de aanhouding, bedoeld in het eerste lid, aan het gezag, bedoeld in het tweede lid.
-
-4. Burgemeester en wethouders beslissen binnen twee weken na beëindiging van de in het tweede lid bedoelde aanhouding op de aanvraag om bouwvergunning. Tegelijkertijd met de bekendmaking wordt mededeling gedaan van de beëindiging van de aanhouding.
-
-5. Indien burgemeester en wethouders niet voldoen aan het vierde lid en de vergunning, bedoeld in [artikel 11, tweede lid, van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=11) is verleend of moet worden geacht te zijn verleend, is de bouwvergunning van rechtswege verleend. [Artikel 46, vijfde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=46&z=2009-07-15&g=2009-07-15), is van overeenkomstige toepassing.
+Vervallen
 
 ##### Artikel 55
 
-1. In afwijking van [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=46&z=2009-07-15&g=2009-07-15), houden burgemeester en wethouders de beslissing omtrent een aanvraag om bouwvergunning eveneens aan, indien naar hun oordeel voor het bouwen van het bouwwerk ontheffing als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=1&artikel=7&z=2009-07-15&g=2009-07-15), is vereist.
-
-2. De in het eerste lid bedoelde aanhouding eindigt op de dag, volgende op de dag waarop burgemeester en wethouders het in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=1&artikel=7&z=2009-07-15&g=2009-07-15), bedoelde afschrift hebben ontvangen.
-
-3. Burgemeester en wethouders doen de bekendmaking van de aanhouding, bedoeld in het eerste lid, vergezeld gaan van een verklaring als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=1&artikel=7&z=2009-07-15&g=2009-07-15).
-
-4. Na beëindiging van de aanhouding, bedoeld in het tweede lid, beslissen burgemeester en wethouders binnen twee weken omtrent de aanvraag om bouwvergunning, met dien verstande dat de bouwvergunning moet worden verleend, indien de ontheffing, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=1&artikel=7&z=2009-07-15&g=2009-07-15), is verleend.
-
-5. Tegelijkertijd met de bekendmaking van de in het vierde lid bedoelde beslissing wordt mededeling gedaan van de in het tweede lid bedoelde beëindiging van de aanhouding.
-
-6. Indien burgemeester en wethouders niet voldoen aan het vijfde lid en de ontheffing, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=1&artikel=7&z=2009-07-15&g=2009-07-15), is verleend, is de bouwvergunning van rechtswege verleend. [Artikel 46, vijfde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=46&z=2009-07-15&g=2009-07-15), is van overeenkomstige toepassing.
+Vervallen
 
 ##### Artikel 56
 
-Onverminderd [artikel 40, tweede lid, van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=40) en [artikel 6.17, eerste lid, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=6.17), mogen burgemeester en wethouders aan de bouwvergunning slechts voorschriften of beperkingen verbinden ter bescherming van de belangen ten behoeve waarvan de voorschriften strekken krachtens welke de vergunning wordt verleend en waaraan het bouwwerk waarop de aanvraag betrekking heeft moet voldoen, alsmede voorschriften op grond van een bestemmingsplan, een verordening als bedoeld in [artikel 4.1 van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=4.1) of een algemene maatregel van bestuur als bedoeld in [artikel 4.3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=4.3).
+Vervallen
 
 ##### Artikel 57
 
-1. Burgemeester en wethouders stellen een openbaar register in, waarin aantekening wordt gehouden van:
-
-- a. aanvragen om bouwvergunning;
-
-- b. verleende bouwvergunningen;
-
-- c. bouwvergunningen die van rechtswege zijn verleend.
-
-2. Bij algemene maatregel van bestuur kan worden bepaald dat burgemeester en wethouders ook andere gegevens aantekenen in het register, bedoeld in het eerste lid.
-
-3. Bij de maatregel kan worden bepaald binnen welke termijn de gegevens, bedoeld in het eerste en tweede lid, dienen te worden aangetekend. Die termijn kan voor de verschillende gegevens verschillend worden gesteld.
+Vervallen
 
 ##### Artikel 58
 
-De eigenaar of hoofdgebruiker van een naburig ander gebouw wordt, overeenkomstig bij de bouwverordening gegeven voorschriften, door burgemeester en wethouders binnen twee weken na de dag waarop een bouwvergunning van rechtswege is verleend, schriftelijk van deze verlening in kennis gesteld.
+Vervallen
 
 ##### Artikel 59
 
-1. Burgemeester en wethouders kunnen de bouwvergunning geheel of gedeeltelijk intrekken:
-
-- a. indien blijkt, dat zij de vergunning ten gevolge van een onjuiste of onvolledige opgave hebben verleend of dat gegevens of bescheiden als bedoeld in [artikel 40a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=40a&z=2009-07-15&g=2009-07-15), niet tijdig zijn overgelegd;
-
-- b. indien blijkt dat de houder niet heeft voldaan aan een voorwaarde of voorschrift als bedoeld in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=56&z=2009-07-15&g=2009-07-15);
-
-- c. indien binnen de in de bouwverordening bepaalde termijn geen begin is gemaakt met de bouwwerkzaamheden;
-
-- d. indien de werkzaamheden langer dan de in de bouwverordening bepaalde termijn hebben stilgelegen;
-
-- e. op verzoek van de vergunninghouder, of
-
-- f. in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3), met dien verstande dat voor de toepassing van [artikel 3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3) in deze wet onder betrokkene mede wordt verstaan degene die op grond van feiten en omstandigheden redelijkerwijs met een vergunninghouder gelijk kan worden gesteld.
-
-2. Een vergunning met toepassing van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=45&z=2009-07-15&g=2009-07-15) verleend, kan bovendien worden ingetrokken, indien de voorschriften omtrent het onderhoud en het gebruik niet worden nageleefd.
-
-3. Een intrekking als bedoeld in het tweede lid, heeft hetzelfde rechtsgevolg als het verstrijken van de in de vergunning gestelde termijn.
-
-4. Voordat toepassing wordt gegeven aan onderdeel f van het eerste lid kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=8), om een advies als bedoeld in [artikel 9 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9) worden gevraagd.
-
-5. Op de voorbereiding van een intrekking van een bouwvergunning is [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) niet van toepassing.
+Vervallen
 
 ### Afdeling 2. Woonvergunning
 
 ##### Artikel 60
 
-1. Het is verboden zonder vergunning van burgemeester en wethouders (woonvergunning) een bestaand gebouw dan wel een gedeelte van een bestaand gebouw, dat, ofschoon niet ongeschikt voor bewoning, laatstelijk niet of wederrechtelijk als woning of woonwagen werd gebruikt, als woning of woonwagen in gebruik te geven of te nemen.
-
-2. De woonvergunning mag alleen en moet worden geweigerd indien het beoogde gebruik van het gebouw dan wel het gedeelte van het gebouw niet voldoet aan de voorschriften van de bouwverordening of in strijd is met het desbetreffende bestemmingsplan, een verordening als bedoeld in [artikel 4.1, derde lid, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=4.1) of een algemene maatregel van bestuur als bedoeld in [artikel 4.3, derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=4.3).
-
-3. Het eerste lid is niet van toepassing op het als woning of woonwagen in gebruik geven of nemen van een bestaand gebouw dan wel een gedeelte van een bestaand gebouw, dat, ofschoon ongeschikt voor bewoning, overeenkomstig de daarvoor geldende voorschriften voor bewoning geschikt is gemaakt.
-
-4. De [artikelen 46](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=46&z=2009-07-15&g=2009-07-15), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=47&z=2009-07-15&g=2009-07-15), [50](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=50&z=2009-07-15&g=2009-07-15), [51](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=51&z=2009-07-15&g=2009-07-15), [56](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=56&z=2009-07-15&g=2009-07-15) en [59](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=59&z=2009-07-15&g=2009-07-15) zijn van overeenkomstige toepassing, voor zover het betreft de bepalingen die betrekking hebben op de reguliere bouwvergunning.
+Vervallen
 
 ### Afdeling 3. Vergunning tot hergebruik van een ontruimde onbewoonbaarverklaarde woning of woonwagen
 
@@ -812,7 +546,7 @@ Onze Minister verstrekt eenmaal per jaar aan de Staten-Generaal een verslag van 
 
 ##### Artikel 65
 
-1. Burgemeester en wethouders alsmede gedeputeerde staten verstrekken overeenkomstig bij of krachtens algemene maatregel van bestuur gegeven voorschriften informatie ten behoeve van de door Onze Minister ingevolge [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=2&artikel=64&z=2009-07-15&g=2009-07-15) aan de Staten-Generaal te verstrekken gegevens.
+1. Burgemeester en wethouders alsmede gedeputeerde staten verstrekken overeenkomstig bij of krachtens algemene maatregel van bestuur gegeven voorschriften informatie ten behoeve van de door Onze Minister ingevolge [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=2&artikel=64&z=2010-10-01&g=2010-10-01) aan de Staten-Generaal te verstrekken gegevens.
 
 2. Bij of krachtens de algemene maatregel van bestuur, bedoeld in het eerste lid, worden in elk geval voorschriften gegeven omtrent de aard en omvang van de te verstrekken informatie, de instanties die, alvorens de informatie wordt verstrekt, moeten worden gehoord, alsmede de wijze waarop, het tijdstip waarop en de instantie waaraan de informatie moet worden verstrekt.
 
@@ -830,7 +564,7 @@ Vervallen
 
 ##### Artikel 69
 
-Een algemene maatregel van bestuur als bedoeld in [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=2&artikel=65&z=2009-07-15&g=2009-07-15), treedt niet eerder in werking dan twee maanden na de datum van uitgifte van het **Staatsblad** waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.
+Een algemene maatregel van bestuur als bedoeld in [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=2&artikel=65&z=2010-10-01&g=2010-10-01), treedt niet eerder in werking dan twee maanden na de datum van uitgifte van het **Staatsblad** waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.
 
 ### Afdeling 4. Vergunning voor toegelaten instellingen tot vervreemden van onroerende zaken en daarop vestigen van zakelijke rechten
 
@@ -888,7 +622,7 @@ Een algemene maatregel van bestuur als bedoeld in [artikel 65](https://wetten.ov
 
 ##### Artikel 70d
 
-1. De toegelaten instellingen staan onder toezicht van Onze Minister, behoudens [artikel 71a, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3A&artikel=71a&z=2009-07-15&g=2009-07-15).
+1. De toegelaten instellingen staan onder toezicht van Onze Minister, behoudens [artikel 71a, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3A&artikel=71a&z=2010-10-01&g=2010-10-01).
 
 2. Bij of krachtens algemene maatregel van bestuur worden omtrent het toezicht nadere voorschriften gegeven. Daarbij kan worden bepaald dat in de bij die maatregel aangegeven gevallen:
 
@@ -944,11 +678,11 @@ Een algemene maatregel van bestuur als bedoeld in [artikel 65](https://wetten.ov
 
 2. Bij algemene maatregel van bestuur worden nadere voorschriften gegeven omtrent de toelating, weigering en intrekking van de toelating, alsmede omtrent de werkzaamheden van en het toezicht op instellingen als bedoeld in het eerste lid.
 
-3. De [artikelen 70, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3&artikel=70&z=2009-07-15&g=2009-07-15), [70a](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3&artikel=70a&z=2009-07-15&g=2009-07-15), [70b](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3&artikel=70b&z=2009-07-15&g=2009-07-15), [70d tot en met 70i](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3&artikel=70d&z=2009-07-15&g=2009-07-15) en [105](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=VIII&artikel=105&z=2009-07-15&g=2009-07-15) zijn voorzover mogelijk van toepassing.
+3. De [artikelen 70, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3&artikel=70&z=2010-10-01&g=2010-10-01), [70a](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3&artikel=70a&z=2010-10-01&g=2010-10-01), [70b](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3&artikel=70b&z=2010-10-01&g=2010-10-01), [70d tot en met 70i](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3&artikel=70d&z=2010-10-01&g=2010-10-01) en [105](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=VIII&artikel=105&z=2010-10-01&g=2010-10-01) zijn voorzover mogelijk van toepassing.
 
 ##### Artikel 70k
 
-Een algemene maatregel van bestuur als bedoeld in de [artikelen 70](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3&artikel=70&z=2009-07-15&g=2009-07-15), [70c](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3&artikel=70c&z=2009-07-15&g=2009-07-15), [70d](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3&artikel=70d&z=2009-07-15&g=2009-07-15) en [70j](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3&artikel=70j&z=2009-07-15&g=2009-07-15) treedt niet eerder in werking dan twee maanden na de datum van uitgifte van het Staatsblad waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.
+Een algemene maatregel van bestuur als bedoeld in de [artikelen 70](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3&artikel=70&z=2010-10-01&g=2010-10-01), [70c](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3&artikel=70c&z=2010-10-01&g=2010-10-01), [70d](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3&artikel=70d&z=2010-10-01&g=2010-10-01) en [70j](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3&artikel=70j&z=2010-10-01&g=2010-10-01) treedt niet eerder in werking dan twee maanden na de datum van uitgifte van het Staatsblad waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.
 
 ### Afdeling 3. Instellingen werkzaam in het belang van de volkshuisvesting
 
@@ -972,7 +706,7 @@ Er is een Centraal Fonds voor de Volkshuisvesting. Het Centraal Fonds voor de Vo
 
 ##### Artikel 71b
 
-1. Het fonds stelt jaarlijks voor 1 december beleidsregels vast, waarin wordt bepaald op welke wijze het fonds uitvoering geeft aan [artikel 71a](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3A&artikel=71a&z=2009-07-15&g=2009-07-15) en de daarop berustende algemene maatregelen van bestuur. De beleidsregels zijn van toepassing op het eerstvolgende kalenderjaar. Het fonds doet een afschrift van de beleidsregels aan Onze Minister toekomen.
+1. Het fonds stelt jaarlijks voor 1 december beleidsregels vast, waarin wordt bepaald op welke wijze het fonds uitvoering geeft aan [artikel 71a](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3A&artikel=71a&z=2010-10-01&g=2010-10-01) en de daarop berustende algemene maatregelen van bestuur. De beleidsregels zijn van toepassing op het eerstvolgende kalenderjaar. Het fonds doet een afschrift van de beleidsregels aan Onze Minister toekomen.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen nadere voorschriften worden gegeven omtrent de inhoud en de bekendmaking van de in het eerste lid bedoelde beleidsregels.
 
@@ -1008,7 +742,7 @@ Er is een Centraal Fonds voor de Volkshuisvesting. Het Centraal Fonds voor de Vo
 
 2. Elke toegelaten instelling die op 1 januari van een kalenderjaar als zodanig bestaat, is over dat kalenderjaar een bijdrage aan het fonds verschuldigd. Het fonds bepaalt de hoogte van de bijdrage volgens bij of krachtens algemene maatregel van bestuur te geven voorschriften. Het besluit tot bepaling van de hoogte van de bijdrage behoeft de instemming van Onze Minister.
 
-3. Onze Minister kan, indien hij van oordeel is dat het fonds op de in het tweede lid bedoelde datum over voldoende financiële middelen zal beschikken om zonder storting van een bijdrage als bedoeld in dat lid ten minste een jaar uitvoering te geven aan [artikel 71a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3A&artikel=71a&z=2009-07-15&g=2009-07-15), voor die datum bepalen dat een zodanige bijdrage niet verschuldigd is over het jaar waarin die datum valt.
+3. Onze Minister kan, indien hij van oordeel is dat het fonds op de in het tweede lid bedoelde datum over voldoende financiële middelen zal beschikken om zonder storting van een bijdrage als bedoeld in dat lid ten minste een jaar uitvoering te geven aan [artikel 71a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3A&artikel=71a&z=2010-10-01&g=2010-10-01), voor die datum bepalen dat een zodanige bijdrage niet verschuldigd is over het jaar waarin die datum valt.
 
 ##### Artikel 71f
 
@@ -1058,7 +792,7 @@ Vervallen
 
 ##### Artikel 73
 
-Een algemene maatregel van bestuur als bedoeld in de [artikelen 71a](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3A&artikel=71a&z=2009-07-15&g=2009-07-15), [71b](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3A&artikel=71b&z=2009-07-15&g=2009-07-15) en [71e](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3A&artikel=71e&z=2009-07-15&g=2009-07-15), treedt niet eerder in werking dan twee maanden na de datum van uitgifte van het **Staatsblad** waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.
+Een algemene maatregel van bestuur als bedoeld in de [artikelen 71a](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3A&artikel=71a&z=2010-10-01&g=2010-10-01), [71b](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3A&artikel=71b&z=2010-10-01&g=2010-10-01) en [71e](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3A&artikel=71e&z=2010-10-01&g=2010-10-01), treedt niet eerder in werking dan twee maanden na de datum van uitgifte van het **Staatsblad** waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.
 
 ### Afdeling 4. Voorzieningen in het belang van de volkshuisvesting vanwege de gemeente of de provincie
 
@@ -1156,7 +890,7 @@ Vervallen
 
 ##### Artikel 83
 
-Een algemene maatregel van bestuur als bedoeld in de [artikelen 81](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=5&artikel=81&z=2009-07-15&g=2009-07-15) en [82](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=5&artikel=82&z=2009-07-15&g=2009-07-15), treedt niet eerder in werking dan twee maanden na de datum van uitgifte van het **Staatsblad** waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.
+Een algemene maatregel van bestuur als bedoeld in de [artikelen 81](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=5&artikel=81&z=2010-10-01&g=2010-10-01) en [82](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=5&artikel=82&z=2010-10-01&g=2010-10-01), treedt niet eerder in werking dan twee maanden na de datum van uitgifte van het **Staatsblad** waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.
 
 ##### Artikel 84
 
@@ -1196,21 +930,19 @@ Vervallen
 
 ##### Artikel 92
 
-Vervallen
+1. Het bevoegd gezag draagt zorg voor de bestuursrechtelijke handhaving van het bepaalde bij of krachtens de [hoofdstukken I tot en met III](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=I&z=2010-10-01&g=2010-10-01).
+
+2. Met betrekking tot de handhaving van het bepaalde bij of krachtens de [hoofdstukken I tot en met III](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=I&z=2010-10-01&g=2010-10-01) zijn de [artikelen 5.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=5.2), en [5.3 tot en met 5.25 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=5.10) van toepassing.
 
 ##### Artikel 93
 
-1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
+1. Met het toezicht op de naleving van het bij of krachtens de [hoofdstukken V tot en met IX](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&z=2010-10-01&g=2010-10-01) bepaalde zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
 
 2. Van een besluit als bedoeld in het eerste lid, wordt mededeling gedaan door plaatsing in de Staatscourant.
 
 ##### Artikel 94
 
-1. Met het toezicht op de uitvoering en de handhaving van het bij of krachtens deze wet bepaalde zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
-
-2. De [artikelen 5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13), [5:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), [5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16), [5:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) en [5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) zijn van overeenkomstige toepassing.
-
-3. Onze Minister kan bij ministeriële regeling bepalen dat bestuursorganen die met de uitvoering of de handhaving van het bij of krachtens deze wet bepaalde zijn belast, daarbij aan te geven gegevens verstrekken aan de krachtens het eerste lid aangewezen ambtenaren. Bij de regeling kunnen regels worden gesteld met betrekking tot het tijdstip waarop, de frequentie waarmee en de vorm waarin de gegevens worden verstrekt. Tevens kan bij de regeling worden bepaald dat daarbij gestelde regels slechts gelden in daarbij aangegeven gevallen.
+Vervallen
 
 ##### Artikel 95
 
@@ -1220,15 +952,11 @@ Vervallen
 
 ##### Artikel 96
 
-1. Met het toezicht op de uitvoering van het bij of krachtens deze wet bepaalde zijn tevens belast de bij besluit van de commissaris van de Koning aangewezen personen.
-
-2. De [artikelen 5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13), [5:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), [5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16), [5:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) en [5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) zijn van overeenkomstige toepassing.
+In aanvulling op [artikel 5.11, eerste lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=5.11) zijn met het toezicht op de uitvoering van het bepaalde bij of krachtens de [hoofdstukken I tot en met III](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=I&z=2010-10-01&g=2010-10-01) tevens belast de bij besluit van de commissaris van de Koning aangewezen personen. Artikel 5.11, tweede lid, van die wet is van overeenkomstige toepassing.
 
 ##### Artikel 97
 
-1. Indien overtreding van de bij of krachtens [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=I&z=2009-07-15&g=2009-07-15), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&z=2009-07-15&g=2009-07-15), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=III&z=2009-07-15&g=2009-07-15), of [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&z=2009-07-15&g=2009-07-15) gegeven voorschriften met betrekking tot de staat of het gebruik van een gebouw, open erf of terrein gepaard gaat met een bedreiging van de leefbaarheid of een gevaar voor de veiligheid of de gezondheid, en er een klaarblijkelijk gevaar is op herhaling van de overtreding, kunnen burgemeester en wethouders besluiten dat gebouw, dat open erf of dat terrein te sluiten. De [artikelen 5:24, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:24), en [5:25 tot en met 5:28 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:25) zijn van overeenkomstige toepassing. Burgemeester en wethouders kunnen van de overtreder de ingevolge [artikel 5:25 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:25) verschuldigde kosten invorderen bij dwangbevel.
-
-2. Burgemeester en wethouders bepalen in het besluit, bedoeld in het eerste lid, de duur van de sluiting.
+Vervallen
 
 ##### Artikel 97a
 
@@ -1246,7 +974,7 @@ Vervallen
 
 ##### Artikel 100
 
-Burgemeester en wethouders dragen zorg voor de bestuursrechtelijke handhaving van het bepaalde bij of krachtens de [hoofdstukken I tot en met IV](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=I&z=2009-07-15&g=2009-07-15).
+Vervallen
 
 ### Hoofdstuk VII. Voorzieningen in geval van buitengewone omstandigheden
 
@@ -1268,11 +996,11 @@ Burgemeester en wethouders dragen zorg voor de bestuursrechtelijke handhaving va
 
 ##### Artikel 104
 
-Indien toepassing van bestuursdwang ter handhaving van de bij of krachtens deze wet gegeven voorschriften leidt tot het slopen van een bouwwerk, worden de overblijvende materialen door burgemeester en wethouders in het openbaar verkocht, tenzij, naar redelijkerwijs is te verwachten, bij onderhandse verkoop een hogere opbrengst kan worden verkregen. De opbrengst wordt, na aftrek van de kosten van het slopen en van de verkoop, aan de rechthebbende uitgekeerd.
+Indien toepassing van bestuursdwang ter handhaving van de bij of krachtens deze wet gegeven voorschriften leidt tot het slopen van een bouwwerk, worden de overblijvende materialen door het bevoegd gezag in het openbaar verkocht, tenzij, naar redelijkerwijs is te verwachten, bij onderhandse verkoop een hogere opbrengst kan worden verkregen. De opbrengst wordt, na aftrek van de kosten van het slopen en van de verkoop, aan de rechthebbende uitgekeerd.
 
 ##### Artikel 105
 
-1. Onze Minister kan aan een toegelaten instelling die in strijd handelt met het bepaalde bij of krachtens [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3&artikel=70&z=2009-07-15&g=2009-07-15), [70a](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3&artikel=70a&z=2009-07-15&g=2009-07-15) of [70c](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3&artikel=70c&z=2009-07-15&g=2009-07-15), of met een maatregel als bedoeld in [artikel 70d, tweede lid, tweede volzin, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3&artikel=70d&z=2009-07-15&g=2009-07-15), een last onder dwangsom opleggen.
+1. Onze Minister kan aan een toegelaten instelling die in strijd handelt met het bepaalde bij of krachtens [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3&artikel=70&z=2010-10-01&g=2010-10-01), [70a](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3&artikel=70a&z=2010-10-01&g=2010-10-01) of [70c](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3&artikel=70c&z=2010-10-01&g=2010-10-01), of met een maatregel als bedoeld in [artikel 70d, tweede lid, tweede volzin, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3&artikel=70d&z=2010-10-01&g=2010-10-01), een last onder dwangsom opleggen.
 
 2. De verbeurde dwangsom komt toe aan het Centraal Fonds voor de Volkshuisvesting.
 
@@ -1342,7 +1070,7 @@ Vervallen
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen voorschriften worden gegeven met het oog op de nakoming van voor Nederland verbindende internationale verplichtingen die betrekking hebben op of samenhangen met onderwerpen waarin bij of krachtens deze wet is voorzien.
 
-2. Gedragingen in strijd met voorschriften als bedoeld in het eerste lid, niet zijnde voorschriften als bedoeld in [artikel 8, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=2&artikel=8&z=2009-07-15&g=2009-07-15), zijn verboden.
+2. Gedragingen in strijd met voorschriften als bedoeld in het eerste lid, niet zijnde voorschriften als bedoeld in [artikel 8, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=2&artikel=8&z=2010-10-01&g=2010-10-01), zijn verboden.
 
 ##### Artikel 120a
 
@@ -1360,21 +1088,13 @@ Vervallen
 
 De bevoegdheid, de gemeenteraad toekomende overeenkomstig [artikel 149 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=149), mag niet worden uitgeoefend ten aanzien van de onderwerpen waarin is voorzien bij of krachtens de algemene maatregelen van bestuur, bedoeld in:
 
-- a. [artikel 12a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=3&artikel=12a&z=2009-07-15&g=2009-07-15);
+- a. [artikel 12a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=3&artikel=12a&z=2010-10-01&g=2010-10-01);
 
-- b. [artikel 40a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=40a&z=2009-07-15&g=2009-07-15);
-
-- c. [artikel 43, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=43&z=2009-07-15&g=2009-07-15);
-
-- d. [artikel 44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=44&z=2009-07-15&g=2009-07-15);
-
-- e. [artikel 70c, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3&artikel=70c&z=2009-07-15&g=2009-07-15), voorzover die algemene maatregel van bestuur betrekking heeft op toegelaten instellingen;
-
-- f. [artikel 100a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=VI&afdeling=2&artikel=100a&z=2009-07-15&g=2009-07-15).
+- b. [artikel 70c, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3&artikel=70c&z=2010-10-01&g=2010-10-01), voorzover die algemene maatregel van bestuur betrekking heeft op toegelaten instellingen.
 
 ##### Artikel 122
 
-De gemeente kan geen rechtshandelingen naar burgerlijk recht verrichten ten aanzien van de onderwerpen waarin bij of krachtens de algemene maatregel van bestuur, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=1&artikel=2&z=2009-07-15&g=2009-07-15), en in [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&z=2009-07-15&g=2009-07-15) van deze wet is voorzien.
+De gemeente kan geen rechtshandelingen naar burgerlijk recht verrichten ten aanzien van de onderwerpen waarin bij of krachtens de algemene maatregel van bestuur, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=1&artikel=2&z=2010-10-01&g=2010-10-01), is voorzien of die met betrekking tot het bouwen bij of krachtens de [Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779) zijn geregeld.
 
 ##### Artikel 123
 
@@ -1390,9 +1110,9 @@ De intrekking van de [Woningwet van 12 juli 1962](https://wetten.overheid.nl/jci
 
 ##### Artikel 126
 
-1. Gedurende ten hoogste een jaar na het tijdstip van inwerkingtreding van [hoofdstuk II, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=2&z=2009-07-15&g=2009-07-15), blijft de op grond van de [Woningwet van 12 juli 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002379) geldende gemeentelijke bouwverordening, voor zover deze niet in strijd is met de bij of krachtens deze wet gegeven voorschriften, van kracht en geldt deze als de bouwverordening, genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=2&artikel=8&z=2009-07-15&g=2009-07-15).
+1. Gedurende ten hoogste een jaar na het tijdstip van inwerkingtreding van [hoofdstuk II, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=2&z=2010-10-01&g=2010-10-01), blijft de op grond van de [Woningwet van 12 juli 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002379) geldende gemeentelijke bouwverordening, voor zover deze niet in strijd is met de bij of krachtens deze wet gegeven voorschriften, van kracht en geldt deze als de bouwverordening, genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=2&artikel=8&z=2010-10-01&g=2010-10-01).
 
-2. De bouwverordening, genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=2&artikel=8&z=2009-07-15&g=2009-07-15), wordt vastgesteld binnen zes maanden na het tijdstip van inwerkingtreding van [hoofdstuk II, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=2&z=2009-07-15&g=2009-07-15).
+2. De bouwverordening, genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=2&artikel=8&z=2010-10-01&g=2010-10-01), wordt vastgesteld binnen zes maanden na het tijdstip van inwerkingtreding van [hoofdstuk II, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=2&z=2010-10-01&g=2010-10-01).
 
 ##### Artikel 127
 
@@ -1408,21 +1128,19 @@ De intrekking van de [Woningwet van 12 juli 1962](https://wetten.overheid.nl/jci
 
 ##### Artikel 129
 
-1. Verzoeken om toestemming als bedoeld in [artikel 46 van de Woningwet van 12 juli 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002379&artikel=46), alsmede enig beroep, ingesteld tegen een beslissing omtrent een dergelijk verzoek, worden afgedaan overeenkomstig genoemde wet. Verzoeken als bedoeld in dit lid, gelden als aanvragen om vergunning als bedoeld in [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=3&artikel=61&z=2009-07-15&g=2009-07-15).
+1. Verzoeken om toestemming als bedoeld in [artikel 46 van de Woningwet van 12 juli 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002379&artikel=46), alsmede enig beroep, ingesteld tegen een beslissing omtrent een dergelijk verzoek, worden afgedaan overeenkomstig genoemde wet. Verzoeken als bedoeld in dit lid, gelden als aanvragen om vergunning als bedoeld in [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=3&artikel=61&z=2010-10-01&g=2010-10-01).
 
-2. Toestemmingen als bedoeld in [artikel 46 van de Woningwet van 12 juli 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002379&artikel=46), waartegen geen beroep meer kan worden ingesteld, gelden als vergunningen als bedoeld in [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=3&artikel=61&z=2009-07-15&g=2009-07-15).
+2. Toestemmingen als bedoeld in [artikel 46 van de Woningwet van 12 juli 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002379&artikel=46), waartegen geen beroep meer kan worden ingesteld, gelden als vergunningen als bedoeld in [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=3&artikel=61&z=2010-10-01&g=2010-10-01).
 
 ##### Artikel 130
 
-1. Aanvragen om bouwvergunning als bedoeld in [artikel 47, eerste lid, van de Woningwet van 12 juli 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002379&artikel=47), alsmede enig beroep, ingesteld tegen een beslissing omtrent een dergelijke aanvraag, worden afgedaan overeenkomstig genoemde wet. Aanvragen als bedoeld in dit lid, gelden als aanvragen om bouwvergunning als bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=40&z=2009-07-15&g=2009-07-15).
+1. Aanvragen om bouwvergunning als bedoeld in [artikel 47, eerste lid, van de Woningwet van 12 juli 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002379&artikel=47), alsmede enig beroep, ingesteld tegen een beslissing omtrent een dergelijke aanvraag, worden afgedaan overeenkomstig genoemde wet. Aanvragen als bedoeld in dit lid, gelden als aanvragen om bouwvergunning als bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=40&z=2010-10-01&g=2010-10-01).
 
-2. Bouwvergunningen als bedoeld in [artikel 47, eerste lid, van de Woningwet van 12 juli 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002379&artikel=47), waartegen geen beroep meer kan worden ingesteld, gelden als bouwvergunningen als bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=40&z=2009-07-15&g=2009-07-15).
+2. Bouwvergunningen als bedoeld in [artikel 47, eerste lid, van de Woningwet van 12 juli 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002379&artikel=47), waartegen geen beroep meer kan worden ingesteld, gelden als bouwvergunningen als bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=40&z=2010-10-01&g=2010-10-01).
 
 ##### Artikel 131
 
-1. Aanvragen om woonvergunning als bedoeld in [artikel 55 van de Woningwet van 12 juli 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002379&artikel=55), alsmede enig beroep, ingesteld tegen een beslissing omtrent een dergelijke aanvraag, worden afgedaan overeenkomstig genoemde wet. Aanvragen als bedoeld in dit lid, gelden als aanvragen om woonvergunning als bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=2&artikel=60&z=2009-07-15&g=2009-07-15).
-
-2. Woonvergunningen als bedoeld in [artikel 55 van de Woningwet van 12 juli 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002379&artikel=55), waartegen geen beroep meer kan worden ingesteld, gelden als woonvergunningen als bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=2&artikel=60&z=2009-07-15&g=2009-07-15).
+Vervallen
 
 ##### Artikel 132
 
@@ -1430,7 +1148,7 @@ Overtredingen van bij of krachtens de [Woningwet van 12 juli 1962](https://wette
 
 ##### Artikel 133
 
-Een overeenkomstig de Woonwagenwet op een standplaats geplaatste woonwagen dan wel een woonwagen waarvan de plaatsing op een standplaats wordt gedoogd op het tijdstip van inwerkingtreding van deze wet, is een woonwagen als bedoeld in [artikel 1, eerste lid, onderdeel **e**](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=I&artikel=1&z=2009-07-15&g=2009-07-15), tot het tijdstip waarop die woonwagen wordt vervangen.
+Vervallen
 
 ##### Artikel 134
 
@@ -1488,13 +1206,13 @@ Bevat wijzigingen in andere regelgeving.
 
 De Wet geldelijke steun woonwagens (**Stb.** 1986, 264) wordt ingetrokken.
 
-##### Artikel 148
-
-Bevat wijzigingen in andere regelgeving.
-
 ##### Artikel 85
 
 Vervallen
+
+##### Artikel 149
+
+Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel 150
 
@@ -1506,13 +1224,13 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel 152
 
-Waar in voorschriften, gegeven bij of krachtens een andere wet dan de in de [artikelen 149 tot en met 151](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IX&artikel=149&z=2009-07-15&g=2009-07-15) genoemde, wordt verwezen naar een artikel in de [Woningwet van 12 juli 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002379), wordt deze verwijzing geacht te zijn geschied naar de overeenkomstige bepalingen in deze wet.
+Waar in voorschriften, gegeven bij of krachtens een andere wet dan de in de [artikelen 149 tot en met 151](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IX&artikel=149&z=2010-10-01&g=2010-10-01) genoemde, wordt verwezen naar een artikel in de [Woningwet van 12 juli 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002379), wordt deze verwijzing geacht te zijn geschied naar de overeenkomstige bepalingen in deze wet.
 
 ##### Artikel 153
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden gesteld.
 
-2. Bij het in het eerste lid bedoelde besluit kan, voor zover dat besluit voorziet in gedeeltelijke inwerkingtreding van deze wet, in afwijking in zoverre van [artikel 124](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IX&artikel=124&z=2009-07-15&g=2009-07-15) worden bepaald dat verschillende artikelen of onderdelen van artikelen van de [Woningwet van 12 juli 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002379) van kracht blijven.
+2. Bij het in het eerste lid bedoelde besluit kan, voor zover dat besluit voorziet in gedeeltelijke inwerkingtreding van deze wet, in afwijking in zoverre van [artikel 124](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IX&artikel=124&z=2010-10-01&g=2010-10-01) worden bepaald dat verschillende artikelen of onderdelen van artikelen van de [Woningwet van 12 juli 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002379) van kracht blijven.
 
 3. Indien toepassing wordt gegeven aan het eerste of tweede lid, kan in hetgeen met het oog op het in werking treden dan wel in stand blijven van de desbetreffende artikelen of onderdelen daarvan regeling behoeft, worden voorzien bij algemene maatregel van bestuur.
 
@@ -1562,11 +1280,11 @@ Vervallen
 
 ##### Artikel 105a
 
-1. Overtreding van [artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=III&artikel=14&z=2009-07-15&g=2009-07-15), wordt gestraft met geldboete van de eerste categorie.
+1. Overtreding van [artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=III&artikel=14&z=2010-10-01&g=2010-10-01), wordt gestraft met geldboete van de eerste categorie.
 
 2. Het strafbare feit, bedoeld in het eerste lid, is een overtreding.
 
-3. Met de opsporing van het bij het eerste lid strafbaar gestelde feit zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), belast de door de burgemeester aangewezen ambtenaren, belast met de in [artikel 100a](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=VI&afdeling=2&artikel=100a&z=2009-07-15&g=2009-07-15), eerste lid, bedoelde taak.
+3. Met de opsporing van het bij het eerste lid strafbaar gestelde feit zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), belast de ambtenaren die zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens de [hoofdstukken I tot en met III](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=I&z=2010-10-01&g=2010-10-01).
 
 4. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179 tot en met 182](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179) en [184 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.
 
@@ -1582,33 +1300,33 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 12a
 
-1. De gemeenteraad stelt een welstandsnota vast, inhoudende beleidsregels waarin in ieder geval de criteria zijn opgenomen die burgemeester en wethouders toepassen bij hun beoordeling:
+1. De gemeenteraad stelt een welstandsnota vast, inhoudende beleidsregels waarin in ieder geval de criteria zijn opgenomen die het bevoegd gezag toepast bij de beoordeling:
 
-- a. of het uiterlijk en de plaatsing van een bouwwerk of standplaats, waarop de aanvraag om bouwvergunning betrekking heeft, met uitzondering van een tijdelijk bouwwerk als bedoeld in [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=45&z=2009-07-15&g=2009-07-15), zowel op zichzelf beschouwd als in verband met de omgeving of de te verwachten ontwikkeling daarvan, in strijd zijn met redelijke eisen van welstand;
+- a. of het uiterlijk en de plaatsing van een bouwwerk waarop de aanvraag om een omgevingsvergunning betrekking heeft, zowel op zichzelf beschouwd, als in verband met de omgeving of de te verwachten ontwikkeling daarvan, in strijd zijn met redelijke eisen van welstand;
 
-- b. of het uiterlijk van: in ernstige mate in strijd is met redelijke eisen van welstand.
+- b. of het uiterlijk van een bestaand bouwwerk in ernstige mate in strijd is met redelijke eisen van welstand.
 
-- 1°. een bestaand bouwwerk, met uitzondering van een tijdelijk bouwwerk als bedoeld in [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=45&z=2009-07-15&g=2009-07-15),
+2. [Artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=3&artikel=12&z=2010-10-01&g=2010-10-01), is van overeenkomstige toepassing op de vaststelling of wijziging van de welstandsnota.
 
-- 2°. een bestaande standplaats,
+3. De criteria, bedoeld in het eerste lid:
 
-- 3°. een te bouwen bouwwerk voor het bouwen waarvan op grond van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=43&z=2009-07-15&g=2009-07-15) geen bouwvergunning is vereist,
+- a. hebben geen betrekking op bouwwerken, waarvoor in de omgevingsvergunning wordt bepaald dat deze slechts voor een bepaalde periode in stand mogen worden gehouden, met uitzondering van seizoensgebonden bouwwerken;
 
-2. [Artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=3&artikel=12&z=2009-07-15&g=2009-07-15), is van overeenkomstige toepassing op de vaststelling of wijziging van de welstandsnota.
+- b. zijn zoveel mogelijk toegesneden op de onderscheiden categorieën bouwwerken;
 
-3. De criteria, bedoeld in het eerste lid, zijn zoveel mogelijk toegesneden op de onderscheidene categorieën bouwwerken en standplaatsen. De criteria kunnen verschillen naargelang de plaats waar een bouwwerk of standplaats is gelegen.
+- c. kunnen verschillen naargelang de plaats waar een bouwwerk is gelegen.
 
-4. Ter bevordering van de eenheid in welstandsnota's kunnen bij algemene maatregel van bestuur voorschriften worden gegeven omtrent categorieën van bouwwerken en standplaatsen als bedoeld in het derde lid en de daarop toe te passen criteria.
+4. Ter bevordering van de eenheid in welstandsnota's kunnen bij algemene maatregel van bestuur voorschriften worden gegeven omtrent categorieën van bouwwerken als bedoeld in het derde lid en de daarop toe te passen criteria.
 
 5. Een algemene maatregel van bestuur als bedoeld in het vierde lid treedt niet eerder in werking dan twee maanden na de datum van uitgifte van het Staatsblad waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.
 
 ##### Artikel 12b
 
-1. De welstandscommissie dan wel de stadsbouwmeester baseert haar onderscheidenlijk zijn advies slechts op de criteria, bedoeld in [artikel 12a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=3&artikel=12a&z=2009-07-15&g=2009-07-15), doch betrekt daarbij, indien van toepassing, het bepaalde in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=3&artikel=12&z=2009-07-15&g=2009-07-15). De adviezen van de welstandscommissie dan wel de stadsbouwmeester zijn openbaar. Een advies van de welstandscommissie dan wel de stadsbouwmeester inhoudende dat een bouwplan in strijd is met redelijke eisen van welstand, wordt schriftelijk uitgebracht en deugdelijk gemotiveerd.
+1. De welstandscommissie dan wel de stadsbouwmeester baseert haar onderscheidenlijk zijn advies slechts op de criteria, bedoeld in [artikel 12a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=3&artikel=12a&z=2010-10-01&g=2010-10-01), doch betrekt daarbij, indien van toepassing, het bepaalde in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=3&artikel=12&z=2010-10-01&g=2010-10-01). De adviezen van de welstandscommissie dan wel de stadsbouwmeester zijn openbaar. Een advies van de welstandscommissie dan wel de stadsbouwmeester inhoudende dat een bouwplan in strijd is met redelijke eisen van welstand, wordt schriftelijk uitgebracht en deugdelijk gemotiveerd.
 
 2. De door de welstandscommissie of stadsbouwmeester gehouden vergaderingen zijn openbaar. Een vergadering of gedeelte daarvan is niet openbaar in gevallen als bedoeld in [artikel 10, eerste lid, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) en in gevallen waarin het belang van openbaarheid niet opweegt tegen de in [artikel 10, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) genoemde belangen.
 
-3. De welstandscommissie dan wel de stadsbouwmeester legt de gemeenteraad eenmaal per jaar een verslag voor van de door haar onderscheidenlijk hem verrichte werkzaamheden. In het verslag wordt ten minste uiteengezet op welke wijze zij onderscheidenlijk hij toepassing heeft gegeven aan de criteria, bedoeld in [artikel 12a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=3&artikel=12a&z=2009-07-15&g=2009-07-15).
+3. De welstandscommissie dan wel de stadsbouwmeester legt de gemeenteraad eenmaal per jaar een verslag voor van de door haar onderscheidenlijk hem verrichte werkzaamheden. In het verslag wordt ten minste uiteengezet op welke wijze zij onderscheidenlijk hij toepassing heeft gegeven aan de criteria, bedoeld in [artikel 12a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=3&artikel=12a&z=2010-10-01&g=2010-10-01).
 
 4. Een voorzitter of ander lid van een welstandscommissie kan voor een termijn van ten hoogste drie jaar worden benoemd in een welstandscommissie die in de betreffende gemeente werkzaam is. Zij kunnen eenmaal voor een termijn van ten hoogste drie jaar worden herbenoemd in dezelfde commissie. De eerste en tweede volzin zijn van overeenkomstige toepassing op de stadsbouwmeester.
 
@@ -1618,9 +1336,7 @@ Burgemeester en wethouders leggen de gemeenteraad eenmaal per jaar een verslag v
 
 - a. op welke wijze zij zijn omgegaan met de adviezen van de welstandscommissie dan wel de stadsbouwmeester;
 
-- b. in welke categorieën van gevallen zij de aanvraag voor een lichte bouwvergunning niet aan de welstandscommissie dan wel de stadsbouwmeester hebben voorgelegd en op welke wijze zij in die gevallen zelf toepassing hebben gegeven aan de criteria, bedoeld in [artikel 12a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=3&artikel=12a&z=2009-07-15&g=2009-07-15);
-
-- c. in welke gevallen waarin niet is of wordt voldaan aan [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=3&artikel=12&z=2009-07-15&g=2009-07-15), zij zijn overgegaan tot oplegging van een last onder bestuursdwang of oplegging van een last onder dwangsom.
+- b. in welke gevallen waarin niet is of wordt voldaan aan [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=3&artikel=12&z=2010-10-01&g=2010-10-01), zij zijn overgegaan tot oplegging van een last onder bestuursdwang of oplegging van een last onder dwangsom.
 
 ### Hoofdstuk III. Bijzondere maatregelen
 
@@ -1636,51 +1352,15 @@ Burgemeester en wethouders leggen de gemeenteraad eenmaal per jaar een verslag v
 
 ##### Artikel 40a
 
-1. Bij algemene maatregel van bestuur worden voorschriften gegeven omtrent de wijze van inrichting en indiening van een aanvraag om bouwvergunning, alsmede omtrent de daarbij over te leggen gegevens en bescheiden.
-
-2. Bij de maatregel kan worden bepaald dat daarbij aan te geven gegevens en bescheiden mogen worden overgelegd binnen een daarbij te bepalen termijn nadat de bouwvergunning is afgegeven.
-
-3. In afwijking van het eerste lid kunnen voorschriften van technische of administratieve aard als bedoeld in dat lid bij ministeriële regeling worden vastgesteld.
+Vervallen
 
 ##### Artikel 56a
 
-1. Een reguliere bouwvergunning wordt op aanvraag in twee fasen verleend.
-
-2. De bouwvergunning eerste fase mag slechts en moet worden geweigerd indien een weigeringsgrond als bedoeld in [artikel 44, eerste lid, onderdeel b, c, d, e, f of g](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=44&z=2009-07-15&g=2009-07-15), van toepassing is, met dien verstande dat onderdeel b van dat lid slechts van toepassing is voor zover de daar bedoelde voorschriften van stedenbouwkundige aard zijn.
-
-3. De bouwvergunning tweede fase mag slechts en moet worden geweigerd indien een weigeringsgrond als bedoeld in [artikel 44, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=44&z=2009-07-15&g=2009-07-15), van toepassing is, met dien verstande dat onderdeel b van dat lid niet van toepassing is voor zover de daar bedoelde voorschriften van stedenbouwkundige aard zijn.
-
-4. De aanvraag om bouwvergunning tweede fase kan eerst worden ingediend:
-
-- a. na afloop van de termijn waarbinnen overeenkomstig [artikel 46, eerste lid, onderdeel c, of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=46&z=2009-07-15&g=2009-07-15), op de aanvraag om bouwvergunning eerste fase moet worden beslist, dan wel
-
-- b. indien op een eerder tijdstip op die aanvraag is beslist: nadat die beslissing is bekendgemaakt.
-
-5. Indien de bouwvergunning in twee fasen wordt verleend, wordt in:
-
-- a. [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=41&z=2009-07-15&g=2009-07-15) in plaats van «aanvraag om bouwvergunning» gelezen: aanvraag om bouwvergunning eerste, dan wel tweede fase;
-
-- b. [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=48&z=2009-07-15&g=2009-07-15), eerste lid, in plaats van «aanvraag voor een reguliere bouwvergunning» gelezen: aanvraag om bouwvergunning eerste fase;
-
-- c. de [artikelen 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=50&z=2009-07-15&g=2009-07-15), [51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=51&z=2009-07-15&g=2009-07-15), en [54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=54&z=2009-07-15&g=2009-07-15), in plaats van «aanvraag om bouwvergunning» gelezen: aanvraag om bouwvergunning eerste fase;
-
-- d. de [artikelen 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=52&z=2009-07-15&g=2009-07-15), [52a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=52a&z=2009-07-15&g=2009-07-15), [53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=53&z=2009-07-15&g=2009-07-15), en [55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=55&z=2009-07-15&g=2009-07-15), in plaats van «aanvraag om bouwvergunning» telkens gelezen: aanvraag om bouwvergunning tweede fase.
-
-6. Burgemeester en wethouders kunnen het besluit waarbij de bouwvergunning eerste fase is verleend, intrekken indien:
-
-- a. blijkt, dat zij dit besluit ten gevolge van een onjuiste of onvolledige opgave hebben genomen, of dat gegevens of bescheiden als bedoeld in [artikel 40a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=40a&z=2009-07-15&g=2009-07-15), niet tijdig zijn overgelegd, of
-
-- b. niet binnen 12 maanden na het onherroepelijk worden van het besluit een aanvraag om bouwvergunning tweede fase is ingediend.
-
-7. Het besluit waarbij de bouwvergunning eerste fase is verleend, vervalt indien niet binnen twee jaren na het onherroepelijk worden ervan een aanvraag om bouwvergunning tweede fase is ingediend.
-
-8. Indien het bouwplan waarvoor de bouwvergunning eerste fase is verleend als gevolg van hun besluit omtrent de aanvraag om bouwvergunning tweede fase zodanige wijziging behoeft dat naar het oordeel van burgemeester en wethouders wederom een toetsing aan de weigeringsgronden van de eerste fase noodzakelijk is, delen zij dit onverwijld mede aan de aanvrager van de bouwvergunning tweede fase. Zij stellen hem daarbij in de gelegenheid binnen vijf weken een gewijzigde aanvraag om bouwvergunning eerste fase in te dienen. Burgemeester en wethouders beslissen omtrent die gewijzigde aanvraag binnen vier weken. Indien burgemeester en wethouders niet binnen die vier weken beslissen, is de bouwvergunning eerste fase van rechtswege verleend. De bouwvergunning eerste fase, zoals die in tweede instantie is verleend, treedt, voor zover die afwijkt van de primaire bouwvergunning eerste fase, in de plaats van de primaire bouwvergunning eerste fase. [Artikel 46, vijfde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=46&z=2009-07-15&g=2009-07-15), is van overeenkomstige toepassing. Indien de aanvrager geen gebruik maakt van de gelegenheid die hem krachtens de tweede volzin is geboden, is de bouwvergunning van rechtswege geweigerd met ingang van de dag na de dag waarop de termijn van de hem geboden gelegenheid is verstreken.
+Vervallen
 
 ##### Artikel 56b
 
-1. In afwijking van [artikel 46, eerste lid, onderdeel c, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=46&z=2009-07-15&g=2009-07-15), houden burgemeester en wethouders de beslissing omtrent de aanvraag om bouwvergunning tweede fase aan indien er geen grond is om de vergunning te weigeren en de termijn voor het indienen van een bezwaarschrift tegen het besluit, waarbij de bouwvergunning eerste fase is verleend, nog niet is verstreken. In afwijking van [artikel 46, eerste lid, onderdeel c, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=46&z=2009-07-15&g=2009-07-15), houden burgemeester en wethouders de beslissing omtrent de aanvraag om bouwvergunning tweede fase eveneens aan indien er geen grond is om de vergunning te weigeren en indien gedurende de termijn, bedoeld in de eerste volzin, bij de voorzieningenrechter van de rechtbank een verzoek om schorsing van het besluit als bedoeld in de eerste volzin is ingediend en op dat verzoek positief is beslist. De aanhouding eindigt op de dag na de dag dat de termijn, bedoeld in de eerste volzin, is verstreken zonder dat een bezwaarschrift is ingediend, of, indien wel een bezwaarschrift is ingediend en het besluit als bedoeld in de eerste volzin is geschorst, op de dag dat de schorsing ingevolge [artikel 8:85 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:85) vervalt.
-
-2. In afwijking van [artikel 46, eerste lid, onderdeel c, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=46&z=2009-07-15&g=2009-07-15), houden burgemeester en wethouders de beslissing omtrent de aanvraag om bouwvergunning tweede fase eveneens aan indien er geen grond is om de vergunning te weigeren en toepassing is gegeven aan [artikel 56a, achtste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=56a&z=2009-07-15&g=2009-07-15). De aanhouding eindigt op de dag na de dag dat een gewijzigde aanvraag om bouwvergunning eerste fase is ingediend.
+Vervallen
 
 ### Afdeling 2. Woonvergunning
 
@@ -1716,13 +1396,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 44a
 
-1. In afwijking van [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=44&z=2009-07-15&g=2009-07-15), en [artikel 56a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=56a&z=2009-07-15&g=2009-07-15), kan de reguliere bouwvergunning tevens worden geweigerd:
-
-- a. in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3), met dien verstande dat voor de toepassing van [artikel 3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3) in deze wet onder betrokkene mede wordt verstaan degene die op grond van feiten en omstandigheden redelijkerwijs met een aanvrager van de bouwvergunning gelijk kan worden gesteld;
-
-- b. indien het advies van de Commissie voor de tunnelveiligheid, bedoeld in [artikel 6, derde lid, onderdeel b, van de Wet aanvullende regels veiligheid wegtunnels](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&artikel=6), daartoe aanleiding geeft.
-
-2. Voordat toepassing wordt gegeven aan het eerste lid, onderdeel a, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=8), om een advies als bedoeld in [artikel 9 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9) worden gevraagd.
+Vervallen
 
 ### Afdeling 3. Vergunning tot hergebruik van een ontruimde onbewoonbaarverklaarde woning of woonwagen
 
@@ -1776,47 +1450,43 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 1b
 
-1. Tenzij een bouwvergunning als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=40&z=2009-07-15&g=2009-07-15) het uitdrukkelijk toestaat, is het verboden:
+1. Tenzij een omgevingsvergunning het uitdrukkelijk toestaat, is het verboden:
 
-- a. een gebouw te bouwen, voor zover daarbij niet wordt voldaan aan de op dat bouwen van toepassing zijnde voorschriften, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=1&artikel=2&z=2009-07-15&g=2009-07-15);
+- a. een gebouw te bouwen, voor zover daarbij niet wordt voldaan aan de op dat bouwen van toepassing zijnde voorschriften, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=1&artikel=2&z=2010-10-01&g=2010-10-01);
 
-- b. een bouwwerk, niet zijnde een gebouw, te bouwen, voor zover daarbij niet wordt voldaan aan de op dat bouwen van toepassing zijnde voorschriften, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=1&artikel=2&z=2009-07-15&g=2009-07-15);
-
-- c. een standplaats te bouwen, voor zover daarbij niet wordt voldaan aan de op dat bouwen van toepassing zijnde voorschriften, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=1&artikel=2&z=2009-07-15&g=2009-07-15).
+- b. een bouwwerk, niet zijnde een gebouw, te bouwen, voor zover daarbij niet wordt voldaan aan de op dat bouwen van toepassing zijnde voorschriften, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=1&artikel=2&z=2010-10-01&g=2010-10-01).
 
 2. Het is verboden:
 
-- a. een bestaand gebouw in een staat te brengen, te laten komen of te houden die niet voldoet aan de op de staat van dat gebouw van toepassing zijnde voorschriften, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=1&artikel=2&z=2009-07-15&g=2009-07-15);
+- a. een bestaand gebouw in een staat te brengen, te laten komen of te houden die niet voldoet aan de op de staat van dat gebouw van toepassing zijnde voorschriften, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=1&artikel=2&z=2010-10-01&g=2010-10-01);
 
-- b. een bestaand bouwwerk, niet zijnde een gebouw, in een staat te brengen, te laten komen of te houden die niet voldoet aan de op de staat van dat bouwwerk van toepassing zijnde voorschriften, bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=1&artikel=2&z=2009-07-15&g=2009-07-15);
+- b. een bestaand bouwwerk, niet zijnde een gebouw, in een staat te brengen, te laten komen of te houden die niet voldoet aan de op de staat van dat bouwwerk van toepassing zijnde voorschriften, bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=1&artikel=2&z=2010-10-01&g=2010-10-01).
 
-- c. een bestaande standplaats in een staat te brengen, te laten komen of te houden die niet voldoet aan de op de staat van die standplaats van toepassing zijnde voorschriften, bedoeld in [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=1&artikel=2&z=2009-07-15&g=2009-07-15).
-
-3. Tenzij een bouwvergunning als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=40&z=2009-07-15&g=2009-07-15) het uitdrukkelijk toestaat, is het verboden een gebouw, bouwwerk, niet zijnde een gebouw, of standplaats, dan wel deel daarvan, in stand te laten voor zover bij het bouwen daarvan niet is voldaan aan de op dat bouwen van toepassing zijnde voorschriften, bedoeld in het eerste lid.
+3. Tenzij een omgevingsvergunning het uitdrukkelijk toestaat, is het verboden een gebouw, bouwwerk, niet zijnde een gebouw, dan wel deel daarvan, in stand te laten voor zover bij het bouwen daarvan niet is voldaan aan de op dat bouwen van toepassing zijnde voorschriften, bedoeld in het eerste lid.
 
 ### Afdeling 2. De bouwverordening
 
 ##### Artikel 7b
 
-1. Tenzij een bouwvergunning als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=40&z=2009-07-15&g=2009-07-15) het uitdrukkelijk toestaat, is het verboden te bouwen, voor zover daarbij niet wordt voldaan aan de op dat bouwen van toepassing zijnde voorschriften, bedoeld in [artikel 8, tweede lid, onderdelen c en g, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=2&artikel=8&z=2009-07-15&g=2009-07-15), met dien verstande dat voorschriften van stedenbouwkundige aard als bedoeld in dat vijfde lid niet van toepassing zijn op het bouwen waarvoor op grond van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=43&z=2009-07-15&g=2009-07-15) geen bouwvergunning is vereist.
+1. Tenzij een omgevingsvergunning het uitdrukkelijk toestaat, is het verboden een bouwwerk te bouwen, voor zover daarbij niet wordt voldaan aan de op dat bouwen van toepassing zijnde voorschriften, bedoeld in [artikel 8, tweede lid, onderdelen c en e, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=2&artikel=8&z=2010-10-01&g=2010-10-01), met dien verstande dat voorschriften van stedenbouwkundige aard als bedoeld in dat vijfde lid niet van toepassing zijn op het bouwen waarvoor op grond van [artikel 2.1, derde lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) geen omgevingsvergunning is vereist.
 
 2. Het is verboden:
 
-- a. een bouwwerk of standplaats te gebruiken of te laten gebruiken, anders dan in overeenstemming met de op dat gebruik van toepassing zijnde voorschriften, bedoeld in [artikel 8, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=2&artikel=8&z=2009-07-15&g=2009-07-15);
+- a. een bouwwerk te gebruiken of te laten gebruiken, anders dan in overeenstemming met de op dat gebruik van toepassing zijnde voorschriften, bedoeld in [artikel 8, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=2&artikel=8&z=2010-10-01&g=2010-10-01);
 
-- b. een open erf of terrein te gebruiken of te laten gebruiken, anders dan in overeenstemming met de op dat gebruik van toepassing zijnde voorschriften, bedoeld in [artikel 8, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=2&artikel=8&z=2009-07-15&g=2009-07-15);
+- b. een open erf of terrein te gebruiken of te laten gebruiken, anders dan in overeenstemming met de op dat gebruik van toepassing zijnde voorschriften, bedoeld in [artikel 8, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=2&artikel=8&z=2010-10-01&g=2010-10-01);
 
 - c. een open erf of terrein in een staat te brengen, te laten komen of te houden die niet voldoet aan de op de staat van dat open erf of terrein van toepassing zijnde voorschriften, bedoeld in artikel 8, tweede lid, onderdeel b;
 
-- d. te slopen, tenzij daarbij wordt voldaan aan de op dat slopen van toepassing zijnde voorschriften, bedoeld in [artikel 8, tweede lid, onderdeel d en g](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=2&artikel=8&z=2009-07-15&g=2009-07-15).
+- d. te slopen, tenzij daarbij wordt voldaan aan de op dat slopen van toepassing zijnde voorschriften, bedoeld in [artikel 8, tweede lid, onderdeel d en g](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=2&artikel=8&z=2010-10-01&g=2010-10-01).
 
 3. Een verbod als bedoeld in het eerste of tweede lid heeft mede betrekking op het niet voldoen aan de voorschriften met betrekking tot het bouwen, het gebruik, de staat of het slopen van een bouwwerk, bedoeld in:
 
-- a. [artikel 8, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=2&artikel=8&z=2009-07-15&g=2009-07-15), voor zover deze voorschriften in de bouwverordening zijn opgenomen;
+- a. [artikel 8, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=2&artikel=8&z=2010-10-01&g=2010-10-01), voor zover deze voorschriften in de bouwverordening zijn opgenomen;
 
-- b. [artikel 8, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=2&artikel=8&z=2009-07-15&g=2009-07-15), indien en voor zover deze voorschriften op grond van het negende lid van dat artikel rechtstreeks gelden.
+- b. [artikel 8, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=2&artikel=8&z=2010-10-01&g=2010-10-01), indien en voor zover deze voorschriften op grond van het negende lid van dat artikel rechtstreeks gelden.
 
-4. Tenzij een bouwvergunning als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=40&z=2009-07-15&g=2009-07-15) het uitdrukkelijk toestaat, is het verboden een bouwwerk, standplaats dan wel deel daarvan in stand te laten voor zover bij het bouwen daarvan niet is voldaan aan de op dat bouwen van toepassing zijnde voorschriften, bedoeld in het eerste of derde lid.
+4. Tenzij een omgevingsvergunning het uitdrukkelijk toestaat, is het verboden een bouwwerk dan wel deel daarvan in stand te laten voor zover bij het bouwen daarvan niet is voldaan aan de op dat bouwen van toepassing zijnde voorschriften, bedoeld in het eerste of derde lid.
 
 ### Afdeling 3. De welstand
 
@@ -1832,9 +1502,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 40b
 
-1. Burgemeester en wethouders tekenen onverwijld de datum van ontvangst aan op het geschrift waarbij de aanvraag om bouwvergunning is ingediend.
-
-2. Burgemeester en wethouders zenden de aanvrager onverwijld een bewijs van ontvangst, waarin die datum is vermeld.
+Vervallen
 
 ### Afdeling 2. Woonvergunning
 
@@ -1850,7 +1518,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ### Afdeling 5. Verstrekking van geldelijke steun uit ’s Rijks kas
 
-### Hoofdstuk VI. Het toezicht op de volkshuisvesting
+### Hoofdstuk VI. Bestuursrechtelijke handhaving
 
 ### Afdeling 1a. Sluiting van gebouwen, open erven en terreinen door burgemeester en wethouders
 
@@ -1862,7 +1530,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 120b
 
-Onze Minister is belast met de bestuursrechtelijke handhaving van het verbod, bedoeld in [artikel 120, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IX&artikel=120&z=2009-07-15&g=2009-07-15), en beschikt daartoe over de bevoegdheid tot oplegging van een last onder bestuursdwang.
+Onze Minister is belast met de bestuursrechtelijke handhaving van het verbod, bedoeld in [artikel 120, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IX&artikel=120&z=2010-10-01&g=2010-10-01), en beschikt daartoe over de bevoegdheid tot oplegging van een last onder bestuursdwang.
 
 ##### Artikel 148
 
@@ -1872,57 +1540,45 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 1a
 
-1. De eigenaar van een bouwwerk, standplaats, open erf of terrein of degene die uit anderen hoofde bevoegd is tot het daaraan treffen van voorzieningen draagt er zorg voor dat als gevolg van de staat van dat bouwwerk, die standplaats, dat open erf of terrein geen gevaar voor de gezondheid of veiligheid ontstaat dan wel voortduurt.
+1. De eigenaar van een bouwwerk, open erf of terrein of degene die uit anderen hoofde bevoegd is tot het daaraan treffen van voorzieningen draagt er zorg voor dat als gevolg van de staat van dat bouwwerk, open erf of terrein geen gevaar voor de gezondheid of veiligheid ontstaat dan wel voortduurt.
 
-2. Een ieder die een bouwwerk of standplaats bouwt, gebruikt, laat gebruiken of sloopt, dan wel een open erf of terrein gebruikt of laat gebruiken, draagt er, voor zover dat in diens vermogen ligt, zorg voor dat als gevolg van dat bouwen, gebruik of slopen geen gevaar voor de gezondheid of veiligheid ontstaat dan wel voortduurt.
+2. Een ieder die een bouwwerk bouwt, gebruikt, laat gebruiken of sloopt, dan wel een open erf of terrein gebruikt of laat gebruiken, draagt er, voor zover dat in diens vermogen ligt, zorg voor dat als gevolg van dat bouwen, gebruik of slopen geen gevaar voor de gezondheid of veiligheid ontstaat dan wel voortduurt.
 
-### Hoofdstuk II. Voorschriften betreffende het bouwen, de staat van bestaande bouwwerken en standplaatsen, het gebruik, het slopen en de welstand
+### Hoofdstuk II. Voorschriften betreffende het bouwen, de staat van bestaande bouwwerken, het gebruik, het slopen en de welstand
 
-### Afdeling 1. Voorschriften betreffende het bouwen en de staat van bestaande bouwwerken en standplaatsen
+### Afdeling 1. Voorschriften betreffende het bouwen en de staat van bestaande bouwwerken
 
 ### Afdeling 2. De bouwverordening
 
-### Hoofdstuk III. Bijzondere verplichtingen
+### Hoofdstuk III. Bijzondere bepalingen
 
 ##### Artikel 13a
 
-Indien niet wordt voldaan aan [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=3&artikel=12&z=2009-07-15&g=2009-07-15), kunnen burgemeester en wethouders, tenzij toepassing is gegeven aan het tweede lid van dat artikel, degene die als eigenaar van een bouwwerk of standplaats dan wel uit anderen hoofde bevoegd is tot het treffen van voorzieningen daaraan, verplichten tot het binnen een door hen te bepalen termijn treffen van zodanige door hen daarbij aan te geven voorzieningen, dat nadien wordt voldaan aan [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=3&artikel=12&z=2009-07-15&g=2009-07-15).
+Indien niet wordt voldaan aan [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=3&artikel=12&z=2010-10-01&g=2010-10-01), kan het bevoegd gezag, tenzij toepassing is gegeven aan het tweede lid van dat artikel, degene die als eigenaar van een bouwwerk dan wel uit anderen hoofde bevoegd is tot het treffen van voorzieningen daaraan, verplichten tot het binnen een door hem te bepalen termijn treffen van zodanige door hem daarbij aan te geven voorzieningen, dat nadien wordt voldaan aan [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=3&artikel=12&z=2010-10-01&g=2010-10-01).
 
 ##### Artikel 14a
 
-Degene, tot wie een besluit als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=III&artikel=13&z=2009-07-15&g=2009-07-15), [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=III&artikel=13a&z=2009-07-15&g=2009-07-15) of [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=III&artikel=14&z=2009-07-15&g=2009-07-15), is gericht, of zijn rechtsopvolger en iedere verdere rechtsopvolger, is verplicht daaraan te voldoen.
+Degene, tot wie een besluit als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=III&artikel=13&z=2010-10-01&g=2010-10-01), [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=III&artikel=13a&z=2010-10-01&g=2010-10-01) of [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=III&artikel=14&z=2010-10-01&g=2010-10-01), is gericht, of zijn rechtsopvolger en iedere verdere rechtsopvolger, is verplicht daaraan te voldoen.
 
 ##### Artikel 100a
 
-1. Met het toezicht op de naleving van het bepaalde bij of krachtens de [hoofdstukken I tot en met IV](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=I&z=2009-07-15&g=2009-07-15) zijn belast de bij besluit van burgemeester en wethouders aangewezen ambtenaren.
-
-2. De krachtens het eerste lid aangewezen ambtenaren zijn bevoegd met medeneming van de benodigde apparatuur een woning te betreden zonder toestemming van de bewoner.
-
-3. Bij of krachtens algemene maatregel van bestuur kunnen voorschriften worden gegeven omtrent het uitoefenen van toezicht op de naleving van de bij of krachtens de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&afdeling=1&artikel=2&z=2009-07-15&g=2009-07-15) bedoelde algemene maatregel van bestuur gegeven voorschriften.
+Vervallen
 
 ##### Artikel 100b
 
-1. Onze Minister kan, indien dat in het belang van de naleving van het bepaalde bij of krachtens [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=I&z=2009-07-15&g=2009-07-15), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&z=2009-07-15&g=2009-07-15), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=III&z=2009-07-15&g=2009-07-15) of [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&z=2009-07-15&g=2009-07-15) dringend geboden is, vorderen dat burgemeester en wethouders ter zake van de overtreding van een bij of krachtens [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=I&z=2009-07-15&g=2009-07-15), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&z=2009-07-15&g=2009-07-15), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=III&z=2009-07-15&g=2009-07-15) of [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&z=2009-07-15&g=2009-07-15) gesteld voorschrift binnen een door hem te stellen termijn een beschikking tot oplegging van een last onder bestuursdwang of oplegging van een last onder dwangsom uitvoeren, dan wel geven en uitvoeren. Burgemeester en wethouders doen van de wijze waarop gevolg is gegeven aan de vordering schriftelijk mededeling aan Onze Minister.
-
-2. Indien burgemeester en wethouders niet of niet volledig gevolg geven aan een vordering kan Onze Minister voor rekening van de gemeente daarin voorzien.
-
-3. [Artikel 5:10, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:10) is van overeenkomstige toepassing, met dien verstande dat voor het bestuursorgaan dat de sanctie heeft opgelegd, wordt gelezen: burgemeester en wethouders.
-
-4. Onze Minister kan bij zijn vorderingsbesluit bepalen dat in afwijking van [artikel 5:25 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:25) de aan de uitvoering van de beschikking verbonden kosten voor rekening van de gemeente blijven.
+Vervallen
 
 ##### Artikel 100c
 
-1. Burgemeester en wethouders maken jaarlijks hun voornemens bekend met betrekking tot de wijze waarop in het komende jaar uitvoering zal worden gegeven aan de bestuursrechtelijke handhaving van het bepaalde bij of krachtens de [hoofdstukken I tot en met IV](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=I&z=2009-07-15&g=2009-07-15).
-
-2. Burgemeester en wethouders doen jaarlijks verslag aan de gemeenteraad van de wijze waarop in het voorgaande jaar uitvoering is gegeven aan de bestuursrechtelijke handhaving van het bepaalde bij of krachtens de [hoofdstukken I tot en met IV](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=I&z=2009-07-15&g=2009-07-15), alsmede van het door hen gevoerde beleid bij de uitvoering van die hoofdstukken. Burgemeester en wethouders zenden gelijktijdig met de aanbieding van het verslag aan de gemeenteraad een afschrift ervan aan de inspecteur.
+Vervallen
 
 ##### Artikel 100d
 
-Een besluit tot oplegging van een last onder bestuursdwang of oplegging van een last onder dwangsom gericht op naleving van het bepaalde bij of krachtens [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=I&z=2009-07-15&g=2009-07-15), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&z=2009-07-15&g=2009-07-15), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=III&z=2009-07-15&g=2009-07-15) of [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&z=2009-07-15&g=2009-07-15) kan inhouden dat het bouwen, gebruik of slopen wordt gestaakt dan wel dat voorzieningen, met inbegrip van het slopen van een bouwwerk of standplaats, gericht op het tegengaan of beëindigen van gevaar voor de gezondheid of de veiligheid worden getroffen.
+Vervallen
 
 ##### Artikel 100e
 
-Bij een besluit tot oplegging van een last onder bestuursdwang of oplegging van een last onder dwangsom gericht op naleving van het bepaalde bij of krachtens [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=I&z=2009-07-15&g=2009-07-15), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=II&z=2009-07-15&g=2009-07-15), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=III&z=2009-07-15&g=2009-07-15) of [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&z=2009-07-15&g=2009-07-15), kunnen burgemeester en wethouders bepalen dat dit besluit mede geldt jegens de rechtsopvolger van degene aan wie dat besluit is opgelegd alsmede jegens iedere verdere rechtsopvolger. In dat geval kan het besluit, tenzij bijzondere omstandigheden zich daartegen naar het oordeel van burgemeester en wethouders verzetten, jegens die rechtsopvolger of iedere verdere rechtsopvolger worden ten uitvoer gelegd en kunnen de kosten van die tenuitvoerlegging en een te innen dwangsom bij die rechtsopvolger of verdere rechtsopvolger worden ingevorderd.
+Vervallen
 
 ### Hoofdstuk VII. Voorzieningen in geval van buitengewone omstandigheden
 
@@ -1938,11 +1594,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 50a
 
-1. In afwijking van [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=1&artikel=46&z=2009-07-15&g=2009-07-15), houden burgemeester en wethouders de beslissing op een aanvraag om bouwvergunning eveneens aan voor een bouwplan, dat krachtens [artikel 6.12 van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=6.12) is aangewezen, indien er geen grond is om de vergunning te weigeren en het exploitatieplan, dat voor de in de aanvraag begrepen grond is vastgesteld, nog niet onherroepelijk is.
-
-2. De aanhouding duurt totdat een exploitatieplan onherroepelijk is.
-
-3. In afwijking van het eerste lid kunnen burgemeester en wethouders de bouwvergunning verlenen indien een ingesteld beroep geen gevolgen kan hebben voor de toetsing van het bouwplan of de aan de bouwvergunning te verbinden voorschriften, dan wel indien deze gevolgen naar het oordeel van burgemeester en wethouders niet opwegen tegen het belang dat met verlening van de bouwvergunning is gediend.
+Vervallen
 
 ### Afdeling 3. Vergunning tot hergebruik van een ontruimde onbewoonbaarverklaarde woning of woonwagen
 
@@ -1974,17 +1626,15 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 100aa
 
-1. Onze Minister kan, indien dat in het belang van een goede ruimtelijke ordening geboden is, vorderen dat het tot intrekken bevoegde bestuursorgaan binnen een door hem te stellen termijn de bouwvergunning intrekt. Indien burgemeester en wethouders of gedeputeerde staten de beschikking tot intrekking van de vergunning geven, zenden zij daarvan terstond afschrift aan Onze Minister.
-
-2. Indien het bestuursorgaan aan de vordering geen gevolg geeft, kan Onze Minister tot zes weken na het verstrijken van de gestelde termijn een beschikking als bedoeld in het eerste lid geven. Onze Minister zendt van zijn beschikking terstond afschrift aan burgemeester en wethouders.
+Vervallen
 
 ##### Artikel 100ab
 
-Gedeputeerde staten kunnen, indien dat met het oog op een goede ruimtelijke ordening ter behartiging van de provinciale belangen geboden is, burgemeester en wethouders verzoeken binnen een bepaalde termijn de bouwvergunning in te trekken. Indien burgemeester en wethouders de beschikking tot intrekking van de vergunning geven, zenden zij daarvan terstond afschrift aan gedeputeerde staten.
+Vervallen
 
 ##### Artikel 100ba
 
-Gedeputeerde staten kunnen, indien dat ter behartiging van provinciale belangen geboden is, burgemeester en wethouders verzoeken binnen een bepaalde termijn gebruik te maken van hun bevoegdheden tot handhaving ter zake van de overtreding van een bij of krachtens deze wet geregeld voorschrift.
+Vervallen
 
 ### Hoofdstuk VII. Voorzieningen in geval van buitengewone omstandigheden
 
@@ -1997,3 +1647,29 @@ Gedeputeerde staten kunnen, indien dat ter behartiging van provinciale belangen 
 Bevat wijzigingen in andere regelgeving.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+### Hoofdstuk V. Voorziening in de woningbehoefte
+
+### Afdeling 1. Onderzoek naar de volkshuisvesting
+
+### Afdeling 2. Planning, programmering en verdeling
+
+### Afdeling 3. Instellingen werkzaam in het belang van de volkshuisvesting
+
+##### Artikel 70l
+
+1. Het is een toegelaten instelling als bedoeld in [artikel 70, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=V&afdeling=3&artikel=70&z=2010-10-01&g=2010-10-01), in bij of krachtens algemene maatregel van bestuur aangegeven gevallen, verboden zonder vergunning van Onze Minister haar onroerende zaken te vervreemden aan of daarop een recht van erfpacht, van opstal of van vruchtgebruik te vestigen ten behoeve van een wederpartij die geen zodanige toegelaten instelling en geen huurder van een onroerende zaak van een zodanige toegelaten instelling is. Onze Minister stelt voor het aanvragen van een zodanige vergunning en het in verband daarmee door de betrokken toegelaten instelling verstrekken van gegevens een formulier vast.
+
+2. Onze Minister kan de in het eerste lid bedoelde vergunning weigeren, indien de toegelaten instelling bij een voorgenomen vervreemding aan of vestiging van een recht als bedoeld in dat lid naar zijn oordeel:
+
+- a. onvoldoende rekening houdt met de gevolgen daarvan voor de huurders van de betrokken onroerende zaken;
+
+- b. onvoldoende motiveert waarom zij afziet van vervreemding aan of vestiging van een zodanig recht ten behoeve van een andere wederpartij, of
+
+- c. de bij of krachtens algemene maatregel van bestuur gegeven, op een handeling als bedoeld in het eerste lid van toepassing zijnde voorschriften niet naleeft.
+
+3. Onze Minister kan de in het eerste lid bedoelde vergunning intrekken, indien hem blijkt dat hij de vergunning ten gevolge van een onjuiste of onvolledige opgave heeft verleend.
+
+4. Onze Minister kan de in het eerste lid bedoelde vergunning tevens weigeren of intrekken in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
+
+5. Voordat toepassing wordt gegeven aan het vierde lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=8), om een advies als bedoeld in [artikel 9 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9) worden gevraagd.
