@@ -4,7 +4,7 @@ identifier: "BWBR0010000"
 country: "nl"
 rank: "amvb"
 publication_date: "2010-10-01"
-last_updated: "1999-02-03"
+last_updated: "2010-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010000"
 soort: "AMvB"
@@ -48,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder de wet: de [Wet tegemoetkoming schade bij rampen en zware ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0009637).
+In dit besluit wordt verstaan onder de wet: de [Wet tegemoetkoming schade bij rampen](https://wetten.overheid.nl/jci1.3:c:BWBR0009637).
 
 ##### Artikel 2
 
@@ -114,8 +114,8 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 7
 
-Dit besluit wordt aangehaald als: Besluit tegemoetkoming schade bij rampen en zware ongevallen.
+Dit besluit wordt aangehaald als: Besluit tegemoetkoming schade bij rampen.
 
-## KAARTBIJLAGE. BEHORENDE BIJ [ARTIKEL 5, TWEEDE LID](https://wetten.overheid.nl/jci1.3:c:BWBR0010000&artikel=5&z=1999-02-03&g=1999-02-03), BESLUIT TEGEMOETKOMING SCHADE BIJ RAMPEN EN ZWARE ONGEVALLEN
+## KAARTBIJLAGE. BEHORENDE BIJ [ARTIKEL 5, TWEEDE LID](https://wetten.overheid.nl/jci1.3:c:BWBR0010000&artikel=5&z=2010-10-01&g=2010-10-01), BESLUIT TEGEMOETKOMING SCHADE BIJ RAMPEN
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
