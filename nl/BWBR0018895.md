@@ -4,7 +4,7 @@ identifier: "BWBR0018895"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "2005-11-01"
+last_updated: "2010-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018895"
 soort: "AMvB"
@@ -46,15 +46,17 @@ Gezien het nader rapport van Onze Minister van Justitie van 10 oktober 2005, nr.
 
 Hebben goedgevonden en verstaan:
 
+Treedt in werking op het tijdstip waarop artikel I van de Wijzigingswet Wetboek van Strafvordering (betekening van gerechtelijke mededelingen in strafzaken) in werking treedt.
+
 ##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder de wet: het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903).
 
 ##### Artikel 2
 
-1. De in [artikel 588, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=588) bedoelde uitreiking in persoon geschiedt mede ingeval aan een verdachte een dagvaarding of oproeping om op de terechtzitting of nadere terechtzitting te verschijnen wordt betekend en aan deze persoon blijkens raadpleging van de Verwijs Index Personen anders dan in verband met de strafzaak waarop de mededeling betrekking heeft, in Nederland rechtens zijn vrijheid is ontnomen. Dit vereiste geldt niet indien de strafzaak wordt vervolgd voor de kantonrechter.
+1. De in [artikel 588, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=588) bedoelde uitreiking in persoon geschiedt mede ingeval aan een verdachte een dagvaarding of oproeping om op de terechtzitting of nadere terechtzitting te verschijnen wordt betekend en aan deze persoon blijkens raadpleging van de strafrechtsketendatabank anders dan in verband met de strafzaak waarop de mededeling betrekking heeft, in Nederland rechtens zijn vrijheid is ontnomen dan wel aan deze persoon ingevolge een machtiging als bedoeld in [artikel 28 van de Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=28) in Nederland rechtens zijn vrijheid is ontnomen. Dit vereiste geldt niet indien de strafzaak wordt vervolgd voor de kantonrechter.
 
-2. Uitreiking in persoon geschiedt voorts ingeval aan een persoon ingevolge [artikel 511b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=511b) een vordering van het openbaar ministerie als bedoeld in [artikel 36e van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36e) wordt betekend en aan deze persoon blijkens raadpleging van de Verwijs Index Personen in Nederland rechtens zijn vrijheid is ontnomen.
+2. Uitreiking in persoon geschiedt voorts ingeval aan een persoon ingevolge [artikel 511b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=511b) een vordering van het openbaar ministerie als bedoeld in [artikel 36e van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36e) wordt betekend en aan deze persoon blijkens raadpleging van de strafrechtsketendatabank in Nederland rechtens zijn vrijheid is ontnomen.
 
 ##### Artikel 3
 
