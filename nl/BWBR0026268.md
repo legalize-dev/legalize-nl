@@ -4,7 +4,7 @@ identifier: "BWBR0026268"
 country: "nl"
 rank: "wet"
 publication_date: "2010-10-01"
-last_updated: "2009-08-26"
+last_updated: "2010-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026268"
 soort: "wet"
@@ -90,7 +90,7 @@ Wijzigt de Politiewet 1993.
 
 ##### Artikel 8
 
-Wijzigt de Wet veiligheidsregio’s (kst. 31 117).
+Wijzigt de Wet veiligheidsregio’s.
 
 ##### Artikel 9
 
