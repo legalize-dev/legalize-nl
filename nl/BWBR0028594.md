@@ -111,7 +111,3 @@ Dit onderdeel is nog niet inwerking getreden
 Dit onderdeel is nog niet inwerking getreden
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad en in het Publicatieblad van de Nederlandse Antillen zal worden geplaatst.
-
-### Rechtsopvolging ter zake van de door het land Nederlandse Antillen gehouden aandelen in naamloze vennootschappen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad en in het Publicatieblad van de Nederlandse Antillen zal worden geplaatst.
