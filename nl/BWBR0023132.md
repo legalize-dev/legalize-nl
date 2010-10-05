@@ -4,7 +4,7 @@ identifier: "BWBR0023132"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-09"
-last_updated: "2010-01-02"
+last_updated: "2010-10-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023132"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. onderwijsinstelling: een bekostigde school als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), een school als bedoeld in [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), een regionaal expertisecentrum als bedoeld in [artikel 28b van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28b), een school als bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1)met uitzondering van de scholen, bedoeld in [titel II, afdeling II van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&afdeling=II), een instelling als bedoeld in [artikel 1.1.1, onder b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), een kenniscentrum als bedoeld in [artikel 1.1.1, onder b1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) of een instelling voor hoger onderwijs als bedoeld in [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8);
+- a. onderwijsinstelling: een bekostigde school als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), een bekostigde school als bedoeld in [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), een bekostigd regionaal expertisecentrum als bedoeld in [artikel 28b van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28b), een school als bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1) met uitzondering van de scholen, bedoeld in [titel II, afdeling II van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&afdeling=II), een bekostigde instelling als bedoeld in [artikel 1.1.1, onder b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), een bekostigd kenniscentrum als bedoeld in artikel 1.1.1, onder b2 van de Wet educatie en beroepsonderwijs of een instelling voor hoger onderwijs als bedoeld in [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8);
 
 - b. bevoegd gezag: het bevoegd gezag, bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), het bestuur van een rechtspersoon die een centrale dienst in stand houdt als bedoeld in [artikel 68 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=68), het bevoegd gezag, bedoeld in [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), het bestuur van de rechtspersoon die een regionaal expertisecentrum in stand houdt als bedoeld in [artikel 28b van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28b), het bevoegd gezag, bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1) onderscheidenlijk [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) dan wel het instellingsbestuur, bedoeld in [artikel 1.1, onder j, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1);
 
@@ -64,17 +64,21 @@ In deze regeling wordt verstaan onder:
 
 - f. richtlijnen: de Richtlijnen voor de Jaarverslaggeving, zoals vastgesteld door de Raad voor de Jaarverslaggeving;
 
-- g. **BAPO**: de regeling ‘Bevordering Arbeidsparticipatie Ouderen’ zoals opgenomen in de geldende CAO’s voor PO en VO.
+- g. BAPO: de regeling ‘Bevordering Arbeidsparticipatie Ouderen’ zoals opgenomen in de geldende CAO’s voor het primair onderwijs, het voortgezet onderwijs en het beroepsonderwijs en de volwasseneneducatie;
+
+- h. SOP: de ‘Seniorenregeling onderwijspersoneel’ zoals opgenomen in de geldende CAO voor het hoger beroepsonderwijs;
+
+- i. periodelasten: lasten die in aanmerking worden genomen in de periode waarover deze lasten zijn verschuldigd.
 
 ##### Artikel 2. Boek 2 BW
 
 Op de jaarverslaggeving is [Titel 9 Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) van overeenkomstige toepassing, met uitzondering van de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=1), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=11) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=12), een en ander voor zover in deze regeling niet anders is bepaald.
 
-##### Artikel 3. Afwijkingen en aanvullingen
+##### Artikel 3. Afwijkingen van en aanvullingen op [Boek 2 Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045)
 
 In afwijking van of in aanvulling op [Titel 9 Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9):
 
-- a. wordt de jaarverslaggeving ingericht overeenkomstig de richtlijnen, in het bijzonder de hoofdstukken 400, 640 en 660 behoudens het bepaalde in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3a&z=2010-01-01&g=2010-01-02) ten aanzien van het bevoegd gezag van een school of scholengemeenschappen in het primair en het voortgezet onderwijs;
+- a. wordt de jaarverslaggeving ingericht overeenkomstig de richtlijnen, in het bijzonder de hoofdstukken 400, 640 en 660 behoudens het bepaalde in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3a&z=2010-10-05&g=2010-10-05) ten aanzien van het bevoegd gezag van een school of scholengemeenschappen in het primair en het voortgezet onderwijs;
 
 - b. wordt de jaarverslaggeving gepubliceerd in de Nederlandse taal en in de in Nederland wettige valuta;
 
@@ -86,7 +90,7 @@ In afwijking van of in aanvulling op [Titel 9 Boek 2 van het Burgerlijk Wetboek]
 
 - f. worden de balans en de staat van baten en lasten, het kasstroomoverzicht en de toelichting opgesteld overeenkomstig de modellen in de bijlagen bij hoofdstuk 660 van de richtlijnenmet dien verstande dat de door het Ministerie van Landbouw, Natuur en Voedselkwaliteit regulier bekostigde instellingen voor onderwijs voor zover zij niet worden bekostigd op basis van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) alle van dat Ministerie ontvangen gelden naast de normatieve rijksbijdrage opnemen in het model G. Het Besluit modellen jaarrekening, samengesteld door de Raad voor de Jaarverslaggeving en opgenomen in hoofdstuk 910 van de richtlijnen is van overeenkomstige toepassing;
 
-- g. specificeren de onderwijsinstellingen, bedoeld in [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8), de door het Rijk verstrekte subsidies eveneens in een tabel overeenkomstig het model dat als bijlage bij deze regeling is gevoegd en dragen zij er zorg voor dat deze tabel is voorzien van een accountantsverklaring als bedoeld in [Titel 9 Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9);
+- g. specificeren de onderwijsinstellingen, bedoeld in [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8), de door het Rijk verstrekte subsidies eveneens in een tabel overeenkomstig het model dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=1&z=2010-10-05&g=2010-10-05) bij deze regeling is gevoegd en dragen zij er zorg voor dat deze tabel is voorzien van een accountantsverklaring als bedoeld in [Titel 9 Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9);
 
 - h. wordt de jaarverslaggeving per instelling opgesteld als een bevoegd gezag meer dan één instelling als bedoeld in [artikel 1.1.1, onder b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=1.1.1), een kenniscentrum als bedoeld in [artikel 1.1.1, onder b1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=1.1.1)of meer dan één instelling voor hoger onderwijs als bedoeld in [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8) in stand houdt;
 
@@ -100,7 +104,7 @@ In afwijking van of in aanvulling op [Titel 9 Boek 2 van het Burgerlijk Wetboek]
 
 1. Het bevoegd gezag levert de jaarverslaggeving zowel in schriftelijke als elektronische vorm aan bij de Dienst Uitvoering Onderwijs.
 
-2. De aanlevering van gegevens uit de jaarrekening en de gegevens, bedoeld in [artikel 3, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3&z=2010-01-01&g=2010-01-02), geschiedt met gebruikmaking van een daartoe ingericht instrument dan wel met gebruikmaking van instrumenten die op overeenkomstige wijze gegevens genereren.
+2. De aanlevering van gegevens uit de jaarrekening en de gegevens, bedoeld in [artikel 3, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3&z=2010-10-05&g=2010-10-05), geschiedt met gebruikmaking van een daartoe ingericht instrument dan wel met gebruikmaking van instrumenten die op overeenkomstige wijze gegevens genereren.
 
 ##### Artikel 5. Intrekken regelingen
 
@@ -138,25 +142,27 @@ van de instelling: …………..
 
 Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst en bekendgemaakt op de internetsite van de Centrale Financiën Instellingen, agentschap van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-##### Artikel 3a
+##### Artikel 3a. Afwijking en aanvulling richtlijnen
 
-In afwijking van hoofdstuk 271 van de richtlijnen worden voor de verslagjaren 2008 en 2009 voor toekomstige verplichtingen op basis van de BAPO door het bevoegd gezag de volgende uitgangspunten gehanteerd:
+1. In afwijking van hoofdstuk 271 Personeelsbeloningen van de richtlijnen worden voor de verslagjaren 2008 en 2009 voor toekomstige verplichtingen op basis van de BAPO door het bevoegd gezag van een school of scholengemeenschap in het primair en het voortgezet onderwijs de volgende uitgangspunten gehanteerd:
 
-- a. een voorziening in verband met de BAPO wordt uitsluitend in de balans of in de staat van baten en lasten opgenomen als dat ook in voorgaand verslagjaar is gebeurd; de berekening en de verwerking van die voorziening zijn niet anders dan in voorgaand verslagjaar,
+- a. een voorziening in verband met de BAPO wordt uitsluitend in de balans of in de staat van baten en lasten opgenomen als dat ook in de vorige jaarrekening is gebeurd; de berekening en de verwerking van die voorziening zijn niet anders dan in de vorige jaarrekening;
 
-- b. het bevoegd gezag neemt in een afzonderlijke toelichting bij de jaarrekening, aan de hand van het berekeningsmodel in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=1&z=2010-01-01&g=2010-01-02) bij deze regeling, een berekening op met de volgende gegevens:
+- b. het bevoegd gezag neemt in een afzonderlijke toelichting bij de jaarrekening, aan de hand van het berekeningsmodel in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=2&z=2010-10-05&g=2010-10-05) bij deze regeling, een berekening op met de volgende gegevens:
 
 - 1. de waardering van de toekomstige lasten die voortvloeien uit de BAPO;
 
 - 2. de waardering van de toekomstige baten in verband met de BAPO zoals opgenomen in de lumpsumbekostiging;
 
-- 3. de hoogte van de BAPO-verplichtingen, gevormd door de lasten bedoeld onder b.1 te salderen met de baten bedoeld onder b.2.;
+- 3. de hoogte van de BAPO-verplichtingen, gevormd door de lasten, bedoeld onder 1, te salderen met de baten, bedoeld onder 2; en
 
-- 4. de wijze waarop het bevoegd gezag de toekomstige BAPO-lasten denkt te kunnen opvangen;
+- 4. de wijze waarop het bevoegd gezag de toekomstige BAPO-lasten denkt te kunnen opvangen. De uitkomsten van de berekeningen stuurt het bevoegd gezag samen met de jaarrekening in op de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=3&z=2010-10-05&g=2010-10-05) voorgeschreven wijze.
 
-- 5. het bevoegd gezag neemt de uitkomsten van de berekeningen op de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=2&z=2010-01-01&g=2010-01-02) voorgeschreven wijze en stuurt deze samen met de jaarrekening in.
+2. In aanvulling op hoofdstuk 271 Personeelsbeloningen van de richtlijnen worden vanaf het verslagjaar 2010 de lasten op basis van de BAPO en de SOP overeenkomstig paragraaf 2, alinea 204, van dat hoofdstuk in de staat van baten en lasten verantwoord als periodelasten.
 
-## Bijlage
+3. Met ingang van het verslagjaar 2010 vervalt de mogelijkheid tot het vormen van een voorziening met het oog op toekomstige BAPO- en SOP-lasten. Niet bestede voorzieningen die tot en met het verslagjaar 2009 door schoolbesturen en onderwijsinstellingen zijn gevormd ter financiering van toekomstige BAPO- en SOP-lasten vallen in het verslagjaar 2010 volledig vrij ten gunste van het eigen vermogen.
+
+## Bijlage 1
 
 De FSR voor verslagjaar: ………
 
@@ -170,13 +176,13 @@ van de instelling: …………..
 |   |   |   |   |   |   |   |   |   |   |   |   |
 | Totaal |   |   |   |   |   |   |   |   |   |   |   |
 
-## Bijlage 1
+## Bijlage 2
 
 ### **Berekening BAPO verplichtingen 2008 en 2009**
 
-## Bijlage 2
+## Bijlage 3
 
-Het bevoegd gezag neemt de overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=1&z=2010-01-01&g=2010-01-02) uitgevoerde berekeningen met behulp van een Excel spreadsheet op in een overzicht waarbij de volgende indeling wordt gehanteerd:
+Het bevoegd gezag neemt de overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=1&z=2010-10-05&g=2010-10-05) uitgevoerde berekeningen met behulp van een Excel spreadsheet op in een overzicht waarbij de volgende indeling wordt gehanteerd:
 
 | Bevoegd gezagnummer: | Bevoegd gezagnummer: |   |   |   |   |   |
 | --- | --- | --- | --- | --- | --- | --- |
