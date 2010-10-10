@@ -74,13 +74,3 @@ Deze regeling wordt aangehaald als: Regeling van 6 januari 2005 ter uitvoering v
 ### B:. paddenstoelen die van nature muscimol en iboteenzuur bevatten:
 
 Preparaten die één of meer van de bovengenoemde substanties bevatten, met uitzondering van hennepolie.
-
-Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van het Koninkrijk.
-
-## Bijlage. behorende bij de Regeling van 6 januari 2005 ter uitvoering van artikel 3, eerste lid, onder f, Opiumwet 1960 BES
-
-* De door de Wereldgezondheidsorganisatie vastgestelde generieke benaming.
-
-### B:. paddenstoelen die van nature muscimol en iboteenzuur bevatten:
-
-Preparaten die één of meer van de bovengenoemde substanties bevatten, met uitzondering van hennepolie.
