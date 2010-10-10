@@ -145,21 +145,3 @@ Deze regeling wordt aangehaald als: Reis- verblijf- en verhuiskostenregeling amb
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 10 oktober 2010.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 12a
-
-Deze regeling berust op de [artikelen 66, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=66), [67, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=67), en [68, tweede lid, onder a, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=68).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-1. Bij een dienstreis binnen het Caribisch deel van Nederland van meer dan dertig dagen draagt het bevoegd gezag zo mogelijk zorg voor een ingerichte woning in het openbaar lichaam van bestemming. De volgende zaken worden vergoed door het bevoegd gezag: huur, water, elektra en internet.
-
-2. Ingeval de ambtenaar door toepassing van het eerste lid de beschikking heeft over een ingerichte woning, bedraagt de vergoeding voor verblijfskosten in afwijking van [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029422&artikel=2&z=2015-04-01&g=2015-04-01), vanaf de dag dat de ambtenaar het openbaar lichaam van bestemming bereikt per dag USD 55,00.
-
-##### Artikel 2b
-
-Bij een dienstreis binnen het Caribisch deel van Nederland van langer dan dertig dagen heeft de ambtenaar een maal per maand aanspraak op vergoeding van de reiskosten van het openbaar lichaam van bestemming naar zijn standplaats en terug. [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029422&artikel=1&z=2015-04-01&g=2015-04-01) is van overeenkomstige toepassing.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
