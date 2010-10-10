@@ -4,7 +4,7 @@ identifier: "BWBR0002134"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2010-04-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002134"
 soort: "wet"
@@ -44,7 +44,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-Onverminderd het bepaalde in met andere Mogendheden gesloten uitleveringsverdragen, kunnen personen aan een andere Mogendheid ter berechting worden overgeleverd ter zake van één der misdrijven, omschreven in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002134&artikel=3&z=2010-04-01&g=2010-04-01), [5 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002134&artikel=5&z=2010-04-01&g=2010-04-01) en, voor zover met de in die artikelen bedoelde feiten verband houdend, [artikel 9 van de Wet internationale misdrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&artikel=9), indien het feit een ernstige schending oplevert van:
+1. Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
+
+2. Onverminderd het bepaalde in met andere Mogendheden gesloten uitleveringsverdragen, kunnen personen aan een andere Mogendheid ter berechting worden overgeleverd ter zake van één der misdrijven, omschreven in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002134&artikel=3&z=2010-10-10&g=2010-10-10), [5 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002134&artikel=5&z=2010-10-10&g=2010-10-10) en, voor zover met de in die artikelen bedoelde feiten verband houdend, [artikel 9 van de Wet internationale misdrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&artikel=9), indien het feit een ernstige schending oplevert van:
 
 - a. het Verdrag van Genève van 12 augustus 1949 voor de verbetering van het lot der gewonden en zieken, zich bevindende bij de strijdkrachten te velde;
 
@@ -70,13 +72,15 @@ De overlevering kan slechts aan een andere Mogendheid geschieden, indien deze pa
 
 ##### Artikel 4
 
-1. Personen, wier overlevering overeenkomstig [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002134&artikel=1&z=2010-04-01&g=2010-04-01) door een andere Mogendheid wordt aangevraagd, kunnen, voor zover zij zich niet reeds in verzekerde bewaring bevinden, worden aangehouden.
+1. Personen, wier overlevering overeenkomstig [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002134&artikel=1&z=2010-10-10&g=2010-10-10) door een andere Mogendheid wordt aangevraagd, kunnen, voor zover zij zich niet reeds in verzekerde bewaring bevinden, worden aangehouden.
 
 2. Het bevel van aanhouding moet hun binnen tweemaal vier en twintig uren worden betekend.
 
 3. De op en bij hen zijnde goederen kunnen worden in beslag genomen.
 
 4. Binnen vier en twintig uren na de aanhouding wordt daarvan kennis gegeven aan het openbaar ministerie bij het gerecht, dat bevoegd is tot kennisneming van het misdrijf, ter zake waarvan de overlevering is aangevraagd.
+
+5. Het vierde lid blijft buiten toepassing indien de aanhouding in de openbare lichamen Bonaire, Sint Eustatius en Saba heeft plaatsgevonden. In dat geval wordt de officier van justitie bij het arrondissementsparket te Amsterdam binnen vierentwintig uur na de aanhouding daarvan kennis gegeven.
 
 ##### Artikel 5
 
@@ -86,9 +90,13 @@ De overlevering kan slechts aan een andere Mogendheid geschieden, indien deze pa
 
 3. Overlevering vindt in geen geval plaats, indien het gerecht adviseert de overlevering niet toe te staan.
 
+4. Voor de toepassing van de voorgaande leden treedt de rechtbank te Amsterdam in de plaats van het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba, indien dat gerecht bevoegd is tot kennisneming van het misdrijf, ter zake waarvan de overlevering is aangevraagd.
+
 ##### Artikel 6
 
-De Regering kan vergunnen, dat een vreemdeling, wiens overlevering ter zake van een ernstige schending van één der in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002134&artikel=1&z=2010-04-01&g=2010-04-01) genoemde Verdragen door een andere Mogendheid aan een derde Mogendheid is toegestaan, over het Nederlands grondgebied onder medegeleide van Nederlandse ambtenaren wordt vervoerd, mits de Mogendheid aan welke de overlevering geschiedt, partij is bij het geschonden Verdrag.
+1. De Regering kan vergunnen, dat een vreemdeling, wiens overlevering ter zake van een ernstige schending van één der in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002134&artikel=1&z=2010-10-10&g=2010-10-10) genoemde Verdragen door een andere Mogendheid aan een derde Mogendheid is toegestaan, over het Nederlands grondgebied onder medegeleide van Nederlandse ambtenaren wordt vervoerd, mits de Mogendheid aan welke de overlevering geschiedt, partij is bij het geschonden Verdrag.
+
+2. Onder Nederlands grondgebied wordt mede verstaan het grondgebied van de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 ##### Artikel 7
 
@@ -96,12 +104,20 @@ De artikelen 9, 10, 12-17, 20-40, 46, 47 en 51-60 van de [Uitleveringswet](https
 
 ##### Artikel 8
 
-Het aan andere Mogendheden ter berechting overleveren van personen, die verdacht worden van oorlogsmisdrijven, wordt voor de Nederlandse Antillen en Aruba zoveel mogelijk in overeenstemming met deze wet geregeld bij algemene maatregel van rijksbestuur.
+Het aan andere Mogendheden ter berechting overleveren van personen, die verdacht worden van oorlogsmisdrijven, wordt voor Aruba, Curaçao en Sint Maarten zoveel mogelijk in overeenstemming met deze wet geregeld bij algemene maatregel van rijksbestuur.
 
 ##### Artikel 9
 
 1. Deze wet kan worden aangehaald als "Wet overlevering inzake oorlogsmisdrijven".
 
 2. Zij treedt in werking op een nader door Ons te bepalen tijdstip.
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 8a
+
+1. De aanvraag tot overlevering betreffende een persoon die zich bevindt in de openbare lichamen Bonaire, Sint Eustatius en Saba die voor het tijdstip van transitie, bedoeld in [artikel 1, onder a, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=1), is ingediend en waarover op dat tijdstip nog niet is beslist, wordt behandeld door het vanaf dat tijdstip bevoegde orgaan en afgehandeld met inachtneming van de bepalingen van deze wet.
+
+2. De persoon, bedoeld in het eerste lid, die voor het tijdstip van transitie, bedoeld in [artikel 1, onder a, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=1), met het oog op overlevering gedetineerd is, wordt beschouwd als iemand die krachtens deze wet in bewaring wordt gehouden of in verzekering is gesteld.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
