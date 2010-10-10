@@ -4,7 +4,7 @@ identifier: "BWBR0020148"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-10-10"
-last_updated: "2006-09-02"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020148"
 soort: "ministeriele-regeling"
@@ -40,7 +40,7 @@ Besluit:
 
 ##### Artikel 1
 
-Door de Minister van Verkeer en Waterstaat aan te wijzen ambtenaren van de Inspectie Verkeer en Waterstaat, zijn aangewezen als ambtenaren belast met de opsporing van de feiten, strafbaar gesteld bij of krachtens de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267) en de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555).
+Door de Minister van Verkeer en Waterstaat aan te wijzen ambtenaren van de Inspectie Verkeer en Waterstaat, zijn aangewezen als ambtenaren belast met de opsporing van de feiten, strafbaar gesteld bij of krachtens de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267), de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) en de [Luchtvaartwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028549) .
 
 ##### Artikel 2
 
@@ -57,5 +57,11 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 4
 
 Deze regeling wordt aangehaald als: Regeling aanwijzing opsporingsambtenaren luchtvaart IVW.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 5
+
+Deze regeling berust tevens op [artikel 61a, eerste lid, van de Luchtvaartwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=61a).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
