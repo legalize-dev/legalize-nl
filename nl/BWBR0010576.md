@@ -4,7 +4,7 @@ identifier: "BWBR0010576"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2010-10-10"
-last_updated: "2000-01-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010576"
 soort: "rijkswet"
@@ -49,13 +49,13 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 In deze rijkswet wordt verstaan onder:
 
-- a. land: Nederland, de Nederlandse Antillen, onderscheidenlijk Aruba;
+- a. land: Nederland, Aruba, Curaçao, onderscheidenlijk Sint Maarten;
 
-- b. douanewetgeving: de bij wet of landsverordening en de daarop berustende bepalingen vastgestelde regels van ieder van de landen inzake de in-, uit- en doorvoer van goederen, met inbegrip van de regels inzake verboden, beperkingen en toezicht op het vervoer van aan regulering onderworpen goederen over de landsgrenzen heen, alsmede inzake de heffing van accijnzen, omzetbelasting, algemene bestedingsbelasting en belasting op bedrijfsomzetten;
+- b. douanewetgeving: de bij wet of landsverordening en de daarop berustende bepalingen vastgestelde regels van ieder van de landen inzake de in-, uit- en doorvoer van goederen, met inbegrip van de regels inzake verboden, beperkingen en toezicht op het vervoer van aan regulering onderworpen goederen over de landsgrenzen heen, alsmede inzake de heffing van accijnzen, omzetbelasting, belasting op bedrijfsomzetten, dan wel soortgelijke indirecte belastingen;
 
 - c. inbreuk: ieder handelen of nalaten in strijd met de douanewetgeving;
 
-- d. douanerechten: de rechten, heffingen en restituties terzake van in-, uit- en doorvoer van goederen, alsmede accijnzen, omzetbelasting, algemene bestedingsbelasting en belasting op bedrijfsomzetten;
+- d. douanerechten: de rechten, heffingen en restituties terzake van in-, uit- en doorvoer van goederen, alsmede accijnzen, omzetbelasting, belasting op bedrijfsomzetten, dan wel soortgelijke indirecte belastingen;
 
 - e. douanevordering: een bedrag aan verschuldigde douanerechten, administratieve boeten, vervolgingskosten en interest;
 
@@ -79,7 +79,7 @@ In deze rijkswet wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Informatie die in het kader van deze rijkswet wordt ontvangen wordt slechts gebruikt voor de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010576&hoofdstuk=1&artikel=2&z=2000-01-01&g=2000-01-01), genoemde doeleinden en mag slechts worden overgedragen aan andere douane-autoriteiten van het ontvangende land.
+1. Informatie die in het kader van deze rijkswet wordt ontvangen wordt slechts gebruikt voor de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010576&hoofdstuk=1&artikel=2&z=2010-10-10&g=2010-10-10), genoemde doeleinden en mag slechts worden overgedragen aan andere douane-autoriteiten van het ontvangende land.
 
 2. In bijzondere gevallen mag de informatie worden gebruikt voor andere doeleinden, dan wel door andere autoriteiten, mits de verstrekkende douane-administratie schriftelijk uitdrukkelijk heeft ingestemd met een zodanig gebruik. Overdracht van informatie aan het openbaar ministerie of aan de rechterlijke autoriteiten vindt slechts plaats met toestemming van het openbaar ministerie dan wel de rechterlijke autoriteiten in het land van de verstrekkende douane-administratie.
 
@@ -91,21 +91,21 @@ In deze rijkswet wordt verstaan onder:
 
 ##### Artikel 4
 
-Dit hoofdstuk is slechts van toepassing in de Nederlandse Antillen en Aruba. Het geldt tot het tijdstip waarop in de Nederlandse Antillen, onderscheidenlijk Aruba, een landsverordening in werking treedt waarbij algemene, onderscheidenlijk nadere, regels worden gesteld ter bescherming van de persoonlijke levenssfeer in verband met persoonsgegevens.
+Dit hoofdstuk is slechts van toepassing in Aruba, Curaçao en Sint Maarten. Het geldt tot het tijdstip waarop in Aruba, Curaçao, onderscheidenlijk Sint Maarten, een landsverordening in werking treedt waarbij algemene, onderscheidenlijk nadere, regels worden gesteld ter bescherming van de persoonlijke levenssfeer in verband met persoonsgegevens.
 
 ##### Artikel 5
 
-1. Onverminderd [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010576&hoofdstuk=2&artikel=3&z=2000-01-01&g=2000-01-01) mogen voor de toepassing van deze rijkswet de in een persoonsregistratie opgenomen persoonsgegevens slechts worden gebruikt voorzover die gegevens:
+1. Onverminderd [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010576&hoofdstuk=2&artikel=3&z=2010-10-10&g=2010-10-10) mogen voor de toepassing van deze rijkswet de in een persoonsregistratie opgenomen persoonsgegevens slechts worden gebruikt voorzover die gegevens:
 
-- a. rechtmatig zijn verkregen en in overeenstemming zijn met de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010576&hoofdstuk=1&artikel=2&z=2000-01-01&g=2000-01-01), genoemde doeleinden;
+- a. rechtmatig zijn verkregen en in overeenstemming zijn met de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010576&hoofdstuk=1&artikel=2&z=2010-10-10&g=2010-10-10), genoemde doeleinden;
 
 - b. nauwkeurig zijn en, zo nodig, zijn bijgewerkt;
 
-- c. toereikend, terzake dienend en niet overmatig zijn, uitgaande van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010576&hoofdstuk=1&artikel=2&z=2000-01-01&g=2000-01-01), genoemde doeleinden;
+- c. toereikend, terzake dienend en niet overmatig zijn, uitgaande van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010576&hoofdstuk=1&artikel=2&z=2010-10-10&g=2010-10-10), genoemde doeleinden;
 
-- d. zodanig zijn bewaard dat de betrokkene hierdoor niet langer te identificeren is dan strikt noodzakelijk is voor de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010576&hoofdstuk=1&artikel=2&z=2000-01-01&g=2000-01-01), genoemde doeleinden.
+- d. zodanig zijn bewaard dat de betrokkene hierdoor niet langer te identificeren is dan strikt noodzakelijk is voor de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010576&hoofdstuk=1&artikel=2&z=2010-10-10&g=2010-10-10), genoemde doeleinden.
 
-2. Persoonsgegevens die betrekking hebben op godsdienst of levensovertuiging, ras, politieke gezindheid, seksualiteit, intiem levensgedrag, of op grond van medische of psychologische kenmerken, worden slechts opgenomen in aanvulling op andere persoonsgegevens en voorzover het voor de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010576&hoofdstuk=1&artikel=2&z=2000-01-01&g=2000-01-01), genoemde doeleinden onvermijdelijk is.
+2. Persoonsgegevens die betrekking hebben op godsdienst of levensovertuiging, ras, politieke gezindheid, seksualiteit, intiem levensgedrag, of op grond van medische of psychologische kenmerken, worden slechts opgenomen in aanvulling op andere persoonsgegevens en voorzover het voor de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010576&hoofdstuk=1&artikel=2&z=2010-10-10&g=2010-10-10), genoemde doeleinden onvermijdelijk is.
 
 3. Er worden passende beveiligingsmaatregelen getroffen om persoonsgegevens die zijn opgenomen in geautomatiseerde bestanden te beschermen tegen toevallige of ongeoorloofde vernietiging, toevallig verlies en ongeoorloofde toegang, wijziging of verspreiding.
 
@@ -137,9 +137,7 @@ Dit hoofdstuk is slechts van toepassing in de Nederlandse Antillen en Aruba. Het
 
 ##### Artikel 6
 
-1. De Minister van Financiën van de Nederlandse Antillen, onderscheidenlijk de Minister van Financiën van Aruba, stelt voor een persoonsregistratie als bedoeld in
-
-[dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0010576&hoofdstuk=3&z=2000-01-01&g=2000-01-01) een reglement vast.
+1. De Minister van Financiën van Aruba, Curaçao onderscheidenlijk Sint Maarten, stelt voor een persoonsregistratie als bedoeld in dit hoofdstuk een reglement vast.
 
 2. In het reglement worden het doel en de werking van de persoonsregistratie beschreven.
 
@@ -165,7 +163,7 @@ Dit hoofdstuk is slechts van toepassing in de Nederlandse Antillen en Aruba. Het
 
 ##### Artikel 7
 
-1. De douane-administraties verstrekken elkaar, op verzoek of uit eigen beweging, informatie om het bereiken van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010576&hoofdstuk=1&artikel=2&z=2000-01-01&g=2000-01-01), genoemde doeleinden te bevorderen.
+1. De douane-administraties verstrekken elkaar, op verzoek of uit eigen beweging, informatie om het bereiken van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010576&hoofdstuk=1&artikel=2&z=2010-10-10&g=2010-10-10), genoemde doeleinden te bevorderen.
 
 2. Indien de aangezochte douane-administratie niet beschikt over de informatie waar om wordt verzocht, stelt zij een onderzoek in om die informatie te verkrijgen. Zij is bevoegd daartoe de handelingen te verrichten die haar ten behoeve van de toepassing van, en de voorkoming, opsporing en bestrijding van inbreuken op, de eigen douanewetgeving, onderscheidenlijk ten behoeve van de invordering van eigen douanevorderingen, ter beschikking staan.
 
