@@ -152,23 +152,3 @@ Deze regeling treedt in werking met ingang van de dag na de dagtekening van de S
 Deze regeling wordt aangehaald als: Uitvoeringsregeling investeringsaftrek Aruba, Curaçao, Sint Maarten en de BES eilanden 2010.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 10a
-
-1. De verklaring van de Minister van Infrastructuur en Waterstaat, bedoeld in [artikel 3.42a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a), vermeldt in welke aangewezen bedrijfsmiddelen of onderdelen is geïnvesteerd alsmede het bedrag van de investering.
-
-2. Het verzoek om een verklaring als bedoeld in het eerste lid wordt gedaan bij de aanmelding, bedoeld in de [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029298&hoofdstuk=4&artikel=8&z=2025-01-01&g=2025-01-01).
-
-3. De belastingplichtige overlegt ten behoeve van het verstrekken van een verklaring als bedoeld in het eerste lid, indien de Minister van Infrastructuur en Waterstaat daarom verzoekt, vergunningen, certificaten of andere voor de verklaring benodigde informatie.
-
-4. De Minister van Infrastructuur en Waterstaat neemt een verzoek om een verklaring niet in behandeling indien niet is voldaan aan het derde lid.
-
-##### Artikel 10b
-
-1. De Minister van Infrastructuur en Waterstaat kan de in [artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0029298&hoofdstuk=4&artikel=10a&z=2025-01-01&g=2025-01-01) bedoelde verklaring wijzigen of intrekken indien de door of namens de belastingplichtige verstrekte gegevens of bescheiden zodanig onjuist of onvolledig zijn geweest dat op het verzoek een andere beslissing zou zijn genomen indien bij de beoordeling daarvan de juiste of volledige gegevens bekend zouden zijn geweest. Onjuistheid of onvolledigheid van gegevens of bescheiden die de Minister van Infrastructuur en Waterstaat bekend was of redelijkerwijs bekend had kunnen zijn, kunnen geen grond opleveren voor wijziging of intrekking van een verklaring.
-
-2. De bevoegdheid tot het intrekken of wijzigen van een verklaring op grond van het eerste lid vervalt door verloop van vijf jaren na de dagtekening van de verklaring.
-
-### Hoofdstuk 6. Inwerkingtreding en citeertitel
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
