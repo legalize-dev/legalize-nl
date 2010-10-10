@@ -4,7 +4,7 @@ identifier: "BWBR0004287"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2009-07-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004287"
 soort: "wet"
@@ -83,7 +83,7 @@ geschiedt door plaatsing in de **Staatscourant**.
 
 ##### Artikel 5
 
-1. In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=3&z=2009-07-01&g=2009-07-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=4&z=2009-07-01&g=2009-07-01) kan een wet, algemene maatregel van bestuur of vanwege het Rijk anders dan bij wet of algemene maatregel van bestuur vastgesteld algemeen verbindend voorschrift bepalen dat een bij het voorschrift behorende bijlage wordt bekendgemaakt door terinzagelegging.
+1. In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=3&z=2010-10-10&g=2010-10-10) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=4&z=2010-10-10&g=2010-10-10) kan een wet, algemene maatregel van bestuur of vanwege het Rijk anders dan bij wet of algemene maatregel van bestuur vastgesteld algemeen verbindend voorschrift bepalen dat een bij het voorschrift behorende bijlage wordt bekendgemaakt door terinzagelegging.
 
 2. Van een bekendmaking als in het eerste lid bedoeld, wordt mededeling gedaan in de **Staatscourant**.
 
@@ -107,7 +107,7 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking t
 
 ##### Artikel 9
 
-Indien elektronische uitgifte van het Staatsblad onderscheidenlijk van de Staatscourant op de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=1&z=2009-07-01&g=2009-07-01) voorziene wijze geheel of gedeeltelijk onmogelijk is, voorziet Onze Minister van Justitie onderscheidenlijk Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties in een vervangende uitgave volgens bij ministeriële regeling te stellen regels.
+Indien elektronische uitgifte van het Staatsblad onderscheidenlijk van de Staatscourant op de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=1&z=2010-10-10&g=2010-10-10) voorziene wijze geheel of gedeeltelijk onmogelijk is, voorziet Onze Minister van Justitie onderscheidenlijk Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties in een vervangende uitgave volgens bij ministeriële regeling te stellen regels.
 
 ##### Artikel 10
 
@@ -128,5 +128,11 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 2. Bij algemene maatregel van bestuur kunnen categorieën van algemeen verbindende voorschriften worden aangewezen, waarop het eerste lid niet van toepassing is.
 
 3. Een geconsolideerde tekst van een regeling die op grond van het eerste lid beschikbaar is gesteld, blijft beschikbaar indien de regeling na de beschikbaarstelling is gewijzigd of ingetrokken.
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 10b
+
+Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
