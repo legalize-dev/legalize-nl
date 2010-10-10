@@ -4,7 +4,7 @@ identifier: "BWBR0003869"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2014-01-01"
-last_updated: "1985-12-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003869"
 soort: "rijksKB"
@@ -48,13 +48,13 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. De territoriale zee van het Koninkrijk in de Nederlandse Antillen strekt zich uit tot de lijn, waarvan elk punt is gelegen op de afstand van twaalf internationale zeemijlen, dat is tweeëntwintig kilometer en tweehonderd vierentwintig meter, gemeten zeewaarts van het dichtstbijzijnde punt van de laagwaterlijn langs de kust of van de basislijnen dan wel van de afsluitingslijnen genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003869&artikel=3&z=1985-12-01&g=1985-12-01) en 4, met dien verstande dat, indien binnen deze afstand natuurlijk gevormde, bij eb droogvallende bodemverheffingen zijn gelegen, die bij hoogtij door water zijn omgeven, gemeten wordt van het dichtstbij gelegen punt van de laagwaterlijn van die bodemverheffing.
+1. De territoriale zee van het Koninkrijk in Aruba, Curaçao, Sint Maarten en in de openbare lichamen Bonaire, Sint Eustatius en Saba strekt zich uit tot de lijn, waarvan elk punt is gelegen op de afstand van twaalf internationale zeemijlen, dat is tweeëntwintig kilometer en tweehonderd vierentwintig meter, gemeten zeewaarts van het dichtstbijzijnde punt van de laagwaterlijn langs de kust of van de basislijnen dan wel van de afsluitingslijnen genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003869&artikel=3&z=2010-10-10&g=2010-10-10) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003869&artikel=4&z=2010-10-10&g=2010-10-10), met dien verstande dat, indien binnen deze afstand natuurlijk gevormde, bij eb droogvallende bodemverheffingen zijn gelegen, die bij hoogtij door water zijn omgeven, gemeten wordt van het dichtstbij gelegen punt van de laagwaterlijn van die bodemverheffing.
 
 2. De laagwaterlijn is de dieptelijn van nul meter of, waar deze ontbreekt, de kustlijn dan wel de randen van droogvallende riffen, zoals aangegeven op de grootschalige Nederlandse zeekaarten.
 
 ##### Artikel 2
 
-De laagwaterlijn langs de kust vormt, met de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003869&artikel=3&z=1985-12-01&g=1985-12-01) en 4 genoemde basislijnen, voorzover deze zeewaarts daarvan zijn gelegen, de grens tussen de binnenwateren en de territoriale zee van het Koninkrijk in de Nederlandse Antillen.
+De laagwaterlijn langs de kust vormt, met de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003869&artikel=3&z=2010-10-10&g=2010-10-10) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003869&artikel=4&z=2010-10-10&g=2010-10-10) genoemde basislijnen, voorzover deze zeewaarts daarvan zijn gelegen, de grens tussen de binnenwateren en de territoriale zee van het Koninkrijk in Aruba, Curaçao, Sint Maarten en in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 ##### Artikel 3
 
