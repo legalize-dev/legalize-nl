@@ -4,7 +4,7 @@ identifier: "BWBR0003080"
 country: "nl"
 rank: "wet"
 publication_date: "2014-07-01"
-last_updated: "2003-01-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003080"
 soort: "wet"
@@ -55,9 +55,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - e. notariële akten bevattende schenkingsovereenkomsten of andere giften met de strekking dat zij pas na het overlijden van de schenker of gever zullen worden uitgevoerd, bedingen als bedoeld in [artikel 126, tweede lid, onder a, van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=126) en omzettingen als bedoeld in [artikel 126, tweede lid, onder c, van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=126);
 
-- f. akten als bedoeld in [artikel 19a, eerste lid, onder a tot en met e, van de Consulaire Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001847&artikel=19a) die overeenkomstig de voorschriften van het Nederlands-Antilliaanse of Arubaanse recht zijn opgemaakt.
+- f. akten als bedoeld in [artikel 19a, eerste lid, onder a tot en met e, van de Consulaire Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001847&artikel=19a) die overeenkomstig de voorschriften van het recht van Aruba, Curaçao of Sint Maarten zijn opgemaakt.
 
-2. Onze Minister van Justitie draagt de zorg voor de inrichting en het bijhouden van het testamentenregister.
+2. In het register worden voorts opgenomen de in het volgende artikel vermelde gegevens van naar het in de openbare lichamen Bonaire, Sint Eustatius en Saba geldende recht opgemaakte akten, bevattende uiterste wilsbeschikkingen en schenkingen van de gehele of de gedeeltelijke nalatenschap van de schenker, alsmede akten waarbij uiterste wilsbeschikkingen worden herroepen of olografische testamenten worden teruggenomen. Onder akten, bevattende uiterste wilsbeschikkingen, worden verstaan: uiterste willen bij openbare akte, akten van bewaargeving van uiterste wil, akten van superscriptie, onderhandse stukken als bedoeld in artikel 961 van Boek 4 van het Burgerlijk Wetboek BES, voor zover deze na het overlijden van de erflater aan een notaris zijn ter hand gesteld en akten van benoeming ingaande bij overlijden.
+
+3. Onze Minister van Justitie draagt de zorg voor de inrichting en het bijhouden van het testamentenregister.
 
 ##### Artikel 2
 
@@ -73,13 +75,21 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - b. indien de akte is verleden door of ten overstaan van een persoon als bedoeld in de [artikelen 98 tot en met 104 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=98), diens naam, voorletters en hoedanigheid;
 
-- c. de soort van de akte naar de onderscheiding van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003080&artikel=1&z=2003-01-01&g=2003-01-01);
+- c. de soort van de akte naar de onderscheiding van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003080&artikel=1&z=2010-10-10&g=2010-10-10);
 
-- d. indien de akte behoort tot de categorie van [artikel 1, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003080&artikel=1&z=2003-01-01&g=2003-01-01), de mededeling of bij deze akte alle vorige uiterste willen al dan niet zijn herroepen.
+- d. indien de akte behoort tot de categorie van [artikel 1, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003080&artikel=1&z=2010-10-10&g=2010-10-10), de mededeling of bij deze akte alle vorige uiterste willen al dan niet zijn herroepen.
+
+3. Met betrekking tot de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003080&artikel=1&z=2010-10-10&g=2010-10-10), bedoelde akten wordt, voor zover daarvan uit de opgaven blijkt, aantekening gehouden van de in het eerste en tweede lid bedoelde gegevens, met dien verstande dat:
+
+- a. voor de toepassing van het tweede lid, onder b in plaats van «de [artikelen 98 tot en met 104 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=98)» wordt gelezen: de artikelen 972 tot en met 974 van Boek 4 van het Burgerlijk Wetboek BES;
+
+- b. voor de toepassing van het tweede lid, onder c, in plaats van «[artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003080&artikel=1&z=2010-10-10&g=2010-10-10), wordt gelezen: artikel 1, tweede lid;
+
+- c. de in het tweede lid, onder d, bedoelde mededeling wordt opgenomen indien het een notariële akte betreft die uiterste wilsbeschikkingen of de herroeping van uiterste wilsbeschikkingen bevat.
 
 ##### Artikel 3
 
-De notaris door of ten overstaan van wie een akte als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003080&artikel=1&z=2003-01-01&g=2003-01-01) is verleden, is verplicht uiterlijk op de eerste werkdag volgende op die waarop de akte is verleden aan het testamentenregister op een door Onze Minister van Justitie vast te stellen formulier opgaaf te doen van de in het vorige artikel bedoelde gegevens, alsmede van de woonplaats van de persoon die de akte deed verlijden of te verklaren dat en om welke reden deze gegevens niet kunnen worden opgegeven.
+De notaris door of ten overstaan van wie een akte als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003080&artikel=1&z=2010-10-10&g=2010-10-10) is verleden, is verplicht uiterlijk op de eerste werkdag volgende op die waarop de akte is verleden aan het testamentenregister op een door Onze Minister van Justitie vast te stellen formulier opgaaf te doen van de in het vorige artikel bedoelde gegevens, alsmede van de woonplaats van de persoon die de akte deed verlijden of te verklaren dat en om welke reden deze gegevens niet kunnen worden opgegeven.
 
 ##### Artikel 4
 
@@ -108,5 +118,11 @@ Onze Minister van Justitie doet de in [artikel 106, eerste lid, van Boek 4 van h
 1. Deze wet kan worden aangehaald als: Wet op het centraal testamentenregister.
 
 2. Deze wet treedt in werking op een door Ons te bepalen tijdstip.
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 6a
+
+Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
