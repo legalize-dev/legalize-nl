@@ -282,15 +282,3 @@ Deze regeling treedt in werking op het tijdstip waarop [artikel I, tweede lid, v
 Deze regeling wordt aangehaald als: Regeling luchtvaartmeteorologische inlichtingen BES 2010.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling berust op de [artikelen 5.13a](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.13a) en [5.14b, vierde lid, onderdeel a, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.14b).
-
-##### Artikel 1b
-
-Het Koninklijk Nederlands Meteorologisch Instituut wordt op exclusieve basis aangewezen als verlener van meteorologische diensten voor de luchtvaartnavigatie in het gehele luchtruim dat onder de verantwoordelijkheid van de Minister van Infrastructuur en Milieu valt.
-
-#### § 10. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
