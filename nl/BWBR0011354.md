@@ -4,7 +4,7 @@ identifier: "BWBR0011354"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2010-01-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011354"
 soort: "wet"
@@ -520,7 +520,7 @@ AKb. Aanvang termijn bestaande schulden eigen woning. De termijn van op 31 decem
 
 - 2. De rente begrepen in een kapitaalsuitkering uit levensverzekering die volgens de in het eerste lid, eerste volzin, bedoelde bepalingen tot de inkomsten behoort, wordt voor de toepassing van de Wet inkomstenbelasting 2001 aangemerkt als inkomen uit werk en woning.
 
-- 3. Indien de verzekeringnemer of, in geval van een onherroepelijke begunstiging, de begunstigde anders dan door overlijden ophoudt binnenlands belastingplichtig te zijn, wordt een in onderdeel AL, eerste lid, eerste volzin, bedoelde levensverzekering geacht op het onmiddellijk daaraan voorafgaande tijdstip tot uitkering te zijn gekomen bij de verzekeringnemer of, in geval van een onherroepelijke begunstiging, bij de begunstigde en de hoogte van de uitkering gesteld op de waarde in het economische verkeer op dat tijdstip van de verzekering. Onder ophouden binnenlands belastingplichtig te zijn wordt mede verstaan de situatie waarin de verzekeringnemer respectievelijk de begunstigde voor de toepassing van de Belastingregeling voor het Koninkrijk of een verdrag ter voorkoming van dubbele belasting wordt geacht geen inwoner van Nederland meer te zijn.
+- 3. Indien de verzekeringnemer of, in geval van een onherroepelijke begunstiging, de begunstigde anders dan door overlijden ophoudt binnenlands belastingplichtig te zijn, wordt een in onderdeel AL, eerste lid, eerste volzin, bedoelde levensverzekering geacht op het onmiddellijk daaraan voorafgaande tijdstip tot uitkering te zijn gekomen bij de verzekeringnemer of, in geval van een onherroepelijke begunstiging, bij de begunstigde en de hoogte van de uitkering gesteld op de waarde in het economische verkeer op dat tijdstip van de verzekering. Onder ophouden binnenlands belastingplichtig te zijn wordt mede verstaan de situatie waarin de verzekeringnemer respectievelijk de begunstigde voor de toepassing van de Belastingregeling voor het Koninkrijk, de Belastingregeling voor het land Nederland of een verdrag ter voorkoming van dubbele belasting wordt geacht geen inwoner van Nederland meer te zijn.
 
 - 4. Een keuze als bedoeld in [artikel 2.5, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.5) geldt niet voor de toepassing van het derde lid.
 
@@ -768,9 +768,9 @@ Voor de plaatsing in het Staatsblad brengt Onze Minister van Financiën de in de
 
 ##### Artikel II. Inwerkingtreding
 
-1. Deze wet en de [Wet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) treden in werking met ingang van 1 januari 2001 met uitzondering van [Hoofdstuk 2, artikel I, onderdeel AF, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2012-01-01&g=2010-01-01), dat in werking treedt op 31 december 2000.
+1. Deze wet en de [Wet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) treden in werking met ingang van 1 januari 2001 met uitzondering van [Hoofdstuk 2, artikel I, onderdeel AF, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2011-01-01&g=2010-10-10), dat in werking treedt op 31 december 2000.
 
-2. In afwijking van het eerste lid, treedt [hoofdstuk 2, artikel 1, onderdelen Dc en Dd](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2012-01-01&g=2010-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht kan hebben tot 1 januari 2001.
+2. In afwijking van het eerste lid, treedt [hoofdstuk 2, artikel 1, onderdelen Dc en Dd](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2011-01-01&g=2010-10-10), in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht kan hebben tot 1 januari 2001.
 
 3. Deze wet wordt aangehaald als: Invoeringswet Wet inkomstenbelasting 2001.
 
