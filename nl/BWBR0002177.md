@@ -4,7 +4,7 @@ identifier: "BWBR0002177"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2010-10-10"
-last_updated: "1988-06-23"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002177"
 soort: "rijkswet"
@@ -50,7 +50,7 @@ Hebben goedgevonden en verstaan: de tekst van de Defensiewet voor de Nederlandse
 
 1. Alle dienenden bij de krijgsmacht zijn in dienst van het Koninkrijk.
 
-2. Onverminderd het bepaalde in het derde lid, hebben de Gouverneurs als orgaan van het Koninkrijk ieder de bevoegdheid de bevelhebber van de krijgsmacht in de Nederlandse Antillen en Aruba te schorsen en geven van een beslissing tot schorsing terstond kennis aan de Koning. Zij oefenen deze bevoegdheid uit in onderling overleg. Indien dit overleg niet tot overeenstemming leidt, wendt de betrokken Gouverneur zich tot Onze Minister van Defensie.
+2. Onverminderd het bepaalde in het derde lid, hebben de Gouverneurs als orgaan van het Koninkrijk ieder de bevoegdheid de bevelhebber van de krijgsmacht in Aruba, Curaçao en Sint Maarten te schorsen en geven van een beslissing tot schorsing terstond kennis aan de regering van het Koninkrijk. Zij oefenen deze bevoegdheid uit in onderling overleg. Indien dit overleg niet tot overeenstemming leidt, wendt de betrokken Gouverneur zich tot Onze Minister van Defensie.
 
 3. Onze Minister van Defensie is bevoegd de bevelhebber, bedoeld in het tweede lid, te schorsen.
 
@@ -58,19 +58,19 @@ Hebben goedgevonden en verstaan: de tekst van de Defensiewet voor de Nederlandse
 
 ##### Artikel 2
 
-Bij landsverordening worden overeenkomstig bij Rijkswet te stellen algemene regels de voorwaarden vastgesteld, waarop wegens ernstige gewetensbezwaren vrijstelling van de dienst in de krijgsmacht wordt verleend.
+Bij landsverordening worden de voorwaarden vastgesteld, waarop aan inwoners van Aruba, Curaçao en Sint Maarten wegens ernstige gewetensbezwaren vrijstelling van de dienst in de krijgsmacht wordt verleend.
 
 ##### Artikel 3
 
-1. Onverminderd het bepaalde in deze rijkswet worden de rechtstoestand van, alsmede de pensioenvoorzieningen voor de Antilliaanse onderscheidenlijk Arubaanse dienstplichtigen geregeld bij landsverordening.
+1. Onverminderd het bepaalde in deze rijkswet worden de rechtstoestand van, alsmede de pensioenvoorzieningen voor dienstplichtigen van Aruba, Curaçao en Sint Maarten geregeld bij landsverordening.
 
-2. Onder Antilliaanse onderscheidenlijk Arubaanse dienstplichtigen als bedoeld in dit artikel en in de artikelen 4 en 6 wordt verstaan hij, die dienstplichtige is in de zin van de landsverordening op grond van artikel 31, eerste lid, van het Statuut voor het Koninkrijk.
+2. Onder dienstplichtigen van Aruba, Curaçao en Sint Maarten als bedoeld in dit artikel en in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002177&artikel=4&z=2010-10-10&g=2010-10-10) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002177&artikel=6&z=2010-10-10&g=2010-10-10) wordt verstaan hij, die dienstplichtige is in de zin van de landsverordening op grond van [artikel 31, eerste lid, van het Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=31).
 
-3. Onze Minister van Algemene Zaken van de Nederlandse Antillen onderscheidenlijk van Aruba is belast met de uitvoering van de landsverordening, bedoeld in het eerste lid, voor zover in deze landsverordening niet anders is bepaald.
+3. Onze Minister van Algemene Zaken van Aruba, Curaçao onderscheidenlijk Sint Maarten is belast met de uitvoering van de landsverordening, bedoeld in het eerste lid, voor zover in deze landsverordening niet anders is bepaald.
 
 ##### Artikel 4
 
-1. Bij of krachtens de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002177&artikel=3&z=1988-06-23&g=1988-06-23), bedoelde landsverordening worden in ieder geval voorschriften gegeven betreffende:
+1. Bij of krachtens de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002177&artikel=3&z=2010-10-10&g=2010-10-10), bedoelde landsverordening worden in ieder geval voorschriften gegeven betreffende:
 
 - a. benoeming, bevordering;
 
@@ -90,45 +90,45 @@ Bij landsverordening worden overeenkomstig bij Rijkswet te stellen algemene rege
 
 - i. andere rechten en verplichtingen in verband met de dienstvervulling;
 
-- j. de wijze waarop aan verenigingen van militair personeel gelegenheid wordt gegeven advies uit te brengen ten aanzien van algemeen verbindende voorschriften voor de Antilliaanse onderscheidenlijk Arubaanse dienstplichtigen, met uitzondering van de voorschriften uitsluitend de dienstplicht betreffende.
+- j. de wijze waarop aan verenigingen van militair personeel gelegenheid wordt gegeven advies uit te brengen ten aanzien van algemeen verbindende voorschriften voor dienstplichtigen van Aruba, Curaçao en Sint Maarten, met uitzondering van de voorschriften uitsluitend de dienstplicht betreffende.
 
-2. De in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002177&artikel=3&z=1988-06-23&g=1988-06-23), bedoelde landsverordening bevat voorts bepalingen inzake bezwaar of beroep tegen een beslissing, krachtens deze landsverordening of krachtens enig hierop berustend voorschrift, waardoor een Antilliaanse onderscheidenlijk Arubaanse dienstplichtige rechtstreeks in zijn belang is getroffen.
+2. De in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002177&artikel=3&z=2010-10-10&g=2010-10-10), bedoelde landsverordening bevat voorts bepalingen inzake bezwaar of beroep tegen een beslissing, krachtens deze landsverordening of krachtens enig hierop berustend voorschrift, waardoor een dienstplichtige van Aruba, Curaçao of Sint Maarten rechtstreeks in zijn belang is getroffen.
 
 ##### Artikel 5
 
-1. Een ontwerp van de landsverordening, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002177&artikel=3&z=1988-06-23&g=1988-06-23), wordt niet aan de Staten van de Nederlandse Antillen onderscheidenlijk aan de Staten van Aruba aangeboden, noch bij een initiatief-ontwerp door deze lichamen in onderzoek genomen dan nadat het gevoelen van de regering van het Koninkrijk is ingewonnen.
+1. Een ontwerp van de landsverordening, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002177&artikel=3&z=2010-10-10&g=2010-10-10), wordt niet aan de Staten van Aruba, Curaçao of Sint Maarten aangeboden, noch bij een initiatief-ontwerp door deze lichamen in onderzoek genomen dan nadat het gevoelen van de regering van het Koninkrijk is ingewonnen.
 
-2. Een landsbesluit houdende algemene maatregelen, berustend op de landsverordening, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002177&artikel=3&z=1988-06-23&g=1988-06-23), wordt niet vastgesteld dan nadat het gevoelen van de regering van het Koninkrijk is ingewonnen.
+2. Een landsbesluit houdende algemene maatregelen, berustend op de landsverordening, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002177&artikel=3&z=2010-10-10&g=2010-10-10), wordt niet vastgesteld dan nadat het gevoelen van de regering van het Koninkrijk is ingewonnen.
 
-3. Behoudens het vijfde lid, behoeven de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002177&artikel=3&z=1988-06-23&g=1988-06-23), bedoelde landsverordening en een daarop berustend landsbesluit houdende algemene maatregelen goedkeuring bij koninklijk besluit, alvorens zij in werking kunnen treden.
+3. Behoudens het vijfde lid, behoeven de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002177&artikel=3&z=2010-10-10&g=2010-10-10), bedoelde landsverordening en een daarop berustend landsbesluit houdende algemene maatregelen goedkeuring bij koninklijk besluit, alvorens zij in werking kunnen treden.
 
-4. Het eerste tot en met derde lid gelden eveneens bij wijziging of intrekking van de landsverordening, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002177&artikel=3&z=1988-06-23&g=1988-06-23), onderscheidenlijk van een daarop berustend landsbesluit houdende algemene maatregelen.
+4. Het eerste tot en met derde lid gelden eveneens bij wijziging of intrekking van de landsverordening, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002177&artikel=3&z=2010-10-10&g=2010-10-10), onderscheidenlijk van een daarop berustend landsbesluit houdende algemene maatregelen.
 
-5. Het derde lid is niet van toepassing op regels en andere voorschriften die niet van invloed zijn op de gezagsuitoefening over of de taak en de taakuitvoering van de krijgsmacht in de Nederlandse Antillen en Aruba, dit ter beoordeling van Onze Minister van Defensie.
+5. Het derde lid is niet van toepassing op regels en andere voorschriften die niet van invloed zijn op de gezagsuitoefening over of de taak en de taakuitvoering van de krijgsmacht in Aruba, Curaçao of Sint Maarten, dit ter beoordeling van Onze Minister van Defensie.
 
 ##### Artikel 6
 
-Onze Minister van Defensie, Onze Minister van Algemene Zaken van de Nederlandse Antillen en Onze Minister van Algemene Zaken van Aruba plegen onderling overleg omtrent enig voornemen een wijziging tot stand te brengen in de rechtstoestand van de Antilliaanse onderscheidenlijk Arubaanse dienstplichtigen.
+Onze Minister van Defensie, Onze Ministers van Algemene Zaken van Aruba, Curaçao en Sint Maarten plegen onderling overleg omtrent enig voornemen een wijziging tot stand te brengen in de rechtstoestand van dienstplichtigen van Aruba, Curaçao en Sint Maarten.
 
 ##### Artikel 7
 
-1. De benoeming, de bevordering en het ontslag van officieren die de hoedanigheid van Antilliaans onderscheidenlijk Arubaans dienstplichtige bezitten, geschiedt bij koninklijk besluit, na overleg met de Gouverneur.
+1. De benoeming, de bevordering en het ontslag van officieren die de hoedanigheid van dienstplichtige van Aruba, Curaçao en Sint Maarten bezitten, geschiedt bij koninklijk besluit, na overleg met de Gouverneur.
 
 2. Indien aan een officier als bedoeld in het eerste lid bij administratieve maatregel een dienstverbod is opgelegd, behoeft deze beslissing koninklijke bekrachtiging.
 
 ##### Artikel 8
 
-De bevelhebber van de krijgsmacht in de Nederlandse Antillen en Aruba dient de Gouverneur en Onze Minister van Algemene Zaken van de Nederlandse Antillen alsmede de Gouverneur en Onze Minister van Algemene Zaken van Aruba desgevraagd of eigener beweging van advies omtrent alle aangelegenheden, de rechtspositie van de Antilliaanse onderscheidenlijk Arubaanse dienstplichtigen betreffende.
+De bevelhebber van de krijgsmacht in Aruba, Curaçao en Sint Maarten dient de Gouverneurs en Onze Ministers van Algemene Zaken van Aruba, Curaçao en Sint Maarten desgevraagd of eigener beweging van advies omtrent alle aangelegenheden, de rechtspositie van de Arubaanse, Curaçaose onderscheidenlijk Sint Maartense dienstplichtigen betreffende.
 
 ##### Artikel 9
 
-1. De Gouverneur van de Nederlandse Antillen onderscheidenlijk Aruba kan als orgaan van het Koninkrijk in geval van oorlog, oorlogsgevaar of andere buitengewone omstandigheden tijdelijk afwijken of doen afwijken van hetgeen bij of krachtens de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002177&artikel=3&z=1988-06-23&g=1988-06-23), bedoelde landsverordening is bepaald, voor zolang dit met het oog op de goede uitvoering van de operationele taken van de krijgsmacht noodzakelijk wordt geacht.
+1. De Gouverneur van Aruba, Curaçao onderscheidenlijk Sint Maarten kan als orgaan van het Koninkrijk in geval van oorlog, oorlogsgevaar of andere buitengewone omstandigheden tijdelijk afwijken of doen afwijken van hetgeen bij of krachtens de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002177&artikel=3&z=2010-10-10&g=2010-10-10), bedoelde landsverordening is bepaald, voor zolang dit met het oog op de goede uitvoering van de operationele taken van de krijgsmacht noodzakelijk wordt geacht.
 
 2. Omtrent het voornemen tot afwijking als bedoeld in het eerste lid plegen de Gouverneurs onderling overleg.
 
 ##### Artikel 10
 
-De verplichtingen, welke aan hen, die niet tot dienst in de krijgsmacht verplicht zijn, ten aanzien van de behartiging van de belangen van het Koninkrijk kunnen worden opgelegd, worden bij landsverordening geregeld. Deze landsverordening neemt de bij of krachtens Rijkswet te stellen algemene regels in acht.
+De verplichtingen, welke aan inwoners van Aruba, Curaçao en Sint Maarten, die niet tot dienst in de krijgsmacht verplicht zijn, ten aanzien van de behartiging van de belangen van het Koninkrijk kunnen worden opgelegd, worden bij landsverordening geregeld. Deze landsverordening neemt de bij of krachtens Rijkswet te stellen algemene regels in acht.
 
 ##### Artikel 11
 
@@ -136,9 +136,9 @@ In geval van oorlog of oorlogsgevaar of ingeval bedreiging of verstoring van de 
 
 ##### Artikel 12
 
-1. De Nederlandse Antillen en Aruba verlenen aan de strijdkrachten, welke zich op hun gebied bevinden, de hulp en bijstand, welke deze in de uitoefening van hun taak behoeven.
+1. Aruba, Curaçao en Sint Maarten verlenen aan de strijdkrachten, welke zich op hun gebied bevinden, de hulp en bijstand, welke deze in de uitoefening van hun taak behoeven.
 
-2. Bij landsverordening worden regelen gesteld om te waarborgen, dat de krijgsmacht van het Koninkrijk in de Nederlandse Antillen en Aruba haar taak kan vervullen.
+2. Bij landsverordening worden regelen gesteld om te waarborgen, dat de krijgsmacht van het Koninkrijk in Aruba, Curaçao en Sint Maarten haar taak kan vervullen.
 
 ##### Artikel 13
 
@@ -146,7 +146,7 @@ Het militaire straf- en tuchtrecht en de rechtspleging in militaire zaken worden
 
 ##### Artikel 14
 
-Deze Rijkswet kan worden aangehaald als "Defensiewet voor de Nederlandse Antillen en Aruba".
+Deze Rijkswet kan worden aangehaald als "Defensiewet voor Aruba, Curaçao en Sint Maarten".
 
 Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Publicatieblad** van de Nederlandse Antillen, waarin het wordt geplaatst.
 
