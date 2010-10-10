@@ -4,7 +4,7 @@ identifier: "BWBR0004789"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2020-04-01"
-last_updated: "2000-01-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004789"
 soort: "rijkswet"
@@ -44,9 +44,19 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ##### Artikel 1
 
-1. De zowel in deze wet als in het [Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869) voorkomende uitdrukkingen hebben in beide dezelfde betekenis met dien verstande dat in deze wet onder militairen niet worden begrepen militairen die Gouverneur, minister, staatssecretaris of lid van de Staten-Generaal zijn. [Artikel 61 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=61) is van toepassing.
+1. De zowel in deze wet als in het [Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869) voorkomende uitdrukkingen hebben in beide dezelfde betekenis met dien verstande dat in deze wet onder militairen niet worden begrepen militairen die Gouverneur, minister, staatssecretaris, lid van de Staten van Aruba, Curaçao of Sint Maarten of lid van de Staten-Generaal zijn. [Artikel 61 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=61) is van toepassing.
 
-2. Het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) is van toepassing, tenzij daarvan in deze wet wordt afgeweken.
+2. In deze wet wordt verstaan onder:
+
+- a. **Wetboek van Strafvordering:** het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) van het Europese deel van het Koninkrijk;
+
+- b. **Wetboek van Strafrecht:** het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) van het Europese deel van het Koninkrijk;
+
+- c. **Gemeenschappelijk Hof van Justitie:** het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao en Sint Maarten en van Bonaire, Sint Eustatius en Saba;
+
+- d. **Gerechten in eerste aanleg:** het Gerecht in eerste aanleg van Aruba, het Gerecht in eerste aanleg van Curaçao, het Gerecht in eerste aanleg van Sint Maarten en het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba.
+
+3. Het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) is van toepassing, tenzij daarvan in deze wet wordt afgeweken.
 
 ### Hoofdstuk II. Organisatie van de militaire strafrechtspraak
 
@@ -54,7 +64,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ##### Artikel 2
 
-1. Onverminderd het bepaalde in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=III&artikel=10&z=2000-01-01&g=2000-01-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=IV&artikel=17&z=2000-01-01&g=2000-01-01) en behoudens de uitzonderingen bij de wet gemaakt berust de bevoegdheid tot kennisneming in eerste aanleg van strafbare feiten begaan door militairen en door hen die ten aanzien van zodanige feiten bij of krachtens de wet met Nederlandse militairen zijn gelijkgesteld:
+1. Onverminderd het bepaalde in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=III&artikel=10&z=2010-10-10&g=2010-10-10) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=IV&artikel=17&z=2010-10-10&g=2010-10-10) en behoudens de uitzonderingen bij de wet gemaakt berust de bevoegdheid tot kennisneming in eerste aanleg van strafbare feiten begaan door militairen en door hen die ten aanzien van zodanige feiten bij of krachtens de wet met Nederlandse militairen zijn gelijkgesteld:
 
 - 1°. bij de kantonrechter, voor wat betreft alle overtredingen waarvan de kennisneming niet aan een andere rechter is opgedragen;
 
@@ -74,17 +84,17 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ##### Artikel 3
 
-1. Het kantongerecht te Arnhem is bij uitsluiting bevoegd tot de uitoefening van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=2&z=2000-01-01&g=2000-01-01) omschreven rechtsmacht. De rechter die deze rechtsmacht uitoefent draagt de titel van militaire kantonrechter.
+1. Het kantongerecht te Arnhem is bij uitsluiting bevoegd tot de uitoefening van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=2&z=2010-10-10&g=2010-10-10) omschreven rechtsmacht. De rechter die deze rechtsmacht uitoefent draagt de titel van militaire kantonrechter.
 
-2. Bij de arrondissementsrechtbank te Arnhem zijn een of meer meervoudige kamers en een of meer enkelvoudige kamers, onder de benaming van militaire kamers, bij uitsluiting bevoegd tot de uitoefening van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=2&z=2000-01-01&g=2000-01-01) omschreven rechtsmacht. Het lid van een enkelvoudige kamer draagt de titel van militaire politierechter.
+2. Bij de arrondissementsrechtbank te Arnhem zijn een of meer meervoudige kamers en een of meer enkelvoudige kamers, onder de benaming van militaire kamers, bij uitsluiting bevoegd tot de uitoefening van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=2&z=2010-10-10&g=2010-10-10) omschreven rechtsmacht. Het lid van een enkelvoudige kamer draagt de titel van militaire politierechter.
 
-3. De rechtsgebieden van de in de vorige leden genoemde gerechten zijn met betrekking tot de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=2&z=2000-01-01&g=2000-01-01) omschreven rechtsmacht onbegrensd, doch strekken zich niet uit over het rechtsgebied van enig ander bij of krachtens deze wet aangewezen gerecht, tot de uitoefening van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=2&z=2000-01-01&g=2000-01-01) omschreven rechtsmacht bevoegd.
+3. De rechtsgebieden van de in de vorige leden genoemde gerechten zijn met betrekking tot de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=2&z=2010-10-10&g=2010-10-10) omschreven rechtsmacht onbegrensd, doch strekken zich niet uit over het rechtsgebied van enig ander bij of krachtens deze wet aangewezen gerecht, tot de uitoefening van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=2&z=2010-10-10&g=2010-10-10) omschreven rechtsmacht bevoegd.
 
 4. De rechtsmacht strekt zich eveneens uit over de strafbare feiten omschreven in de [Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063).
 
 ##### Artikel 4
 
-1. De ingevolge de voorgaande artikelen toegekende uitsluitende bevoegdheden lijden uitzondering in het geval van deelneming aan strafbare feiten van iemand die niet valt onder de rechtsmacht, in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=2&z=2000-01-01&g=2000-01-01) omschreven.
+1. De ingevolge de voorgaande artikelen toegekende uitsluitende bevoegdheden lijden uitzondering in het geval van deelneming aan strafbare feiten van iemand die niet valt onder de rechtsmacht, in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=2&z=2010-10-10&g=2010-10-10) omschreven.
 
 2. In dat geval vindt vervolging bij voorkeur plaats voor de rechter in Nederland, tot kennisneming van de door de deelnemer begane feiten bevoegd, tenzij:
 
@@ -126,13 +136,13 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ##### Artikel 8
 
-1. De militaire kamer van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=3&z=2000-01-01&g=2000-01-01) genoemde rechtbank neemt bij uitsluiting in hoger beroep kennis van de daarvoor vatbare vonnissen door de militaire kantonrechter in eerste aanleg gewezen.
+1. De militaire kamer van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=3&z=2010-10-10&g=2010-10-10) genoemde rechtbank neemt bij uitsluiting in hoger beroep kennis van de daarvoor vatbare vonnissen door de militaire kantonrechter in eerste aanleg gewezen.
 
-2. Bij het gerechtshof te Arnhem is een meervoudige kamer, onder de benaming van militaire kamer, bij uitsluiting bevoegd tot het oordeel in hoger beroep over de daarvoor vatbare vonnissen van de militaire kamers van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=3&z=2000-01-01&g=2000-01-01) genoemde arrondissementsrechtbank. Deze kamer oordeelt ook over het beklag bedoeld in [artikel 12 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=12).
+2. Bij het gerechtshof te Arnhem is een meervoudige kamer, onder de benaming van militaire kamer, bij uitsluiting bevoegd tot het oordeel in hoger beroep over de daarvoor vatbare vonnissen van de militaire kamers van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=3&z=2010-10-10&g=2010-10-10) genoemde arrondissementsrechtbank. Deze kamer oordeelt ook over het beklag bedoeld in [artikel 12 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=12).
 
 ##### Artikel 9
 
-1. De militaire kamer van het gerechtshof houdt zitting en beslist met drie leden, van wie twee, onder wie de voorzitter, lid zijn van het gerechtshof en een, verder te noemen het militair lid, niet tot de rechterlijke macht behoort. [Artikel 5, eerste lid, tweede en derde volzin, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=5&z=2000-01-01&g=2000-01-01), is van overeenkomstige toepassing.
+1. De militaire kamer van het gerechtshof houdt zitting en beslist met drie leden, van wie twee, onder wie de voorzitter, lid zijn van het gerechtshof en een, verder te noemen het militair lid, niet tot de rechterlijke macht behoort. [Artikel 5, eerste lid, tweede en derde volzin, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=5&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing.
 
 2. Wij benoemen op voordracht van Onze Minister van Justitie, in overeenstemming met Onze Minister van Defensie, zoveel militaire leden bedoeld in het voorgaande lid als Wij dienstig oordelen.
 
@@ -140,17 +150,17 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 4. Militairen met de rang van kapitein ter zee of kolonel worden als militair lid bevorderd tot de titulaire rang van commandeur, brigade-generaal of commodore.
 
-5. [Artikel 6, derde, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=6&z=2000-01-01&g=2000-01-01), is van overeenkomstige toepassing.
+5. [Artikel 6, derde, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=6&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing.
 
 ## Titel III. Mobiele rechtbanken
 
 ##### Artikel 10
 
-1. Wij kunnen op voordracht van Onze Ministers van Justitie en van Defensie, in het gebied waarvoor een uitzonderingstoestand is afgekondigd, of voor de berechting buiten Nederland een of meer mobiele rechtbanken instellen.
+1. Wij kunnen op voordracht van Onze Ministers van Justitie en van Defensie, in het gebied waarvoor een uitzonderingstoestand is afgekondigd, of voor de berechting buiten het Koninkrijk een of meer mobiele rechtbanken instellen.
 
 2. Wij kunnen bepalen dat de bevelhebber van een krijgsmachtdeel in het gebied waarvoor een uitzonderingstoestand is afgekondigd, een of meer mobiele rechtbanken kan instellen.
 
-3. [Artikel 2, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=2&z=2000-01-01&g=2000-01-01), is van overeenkomstige toepassing op een mobiele rechtbank.
+3. [Artikel 2, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=2&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing op een mobiele rechtbank.
 
 4. Indien meer dan een mobiele rechtbank worden ingesteld regelen Wij bij Ons ingevolge het eerste of tweede lid genomen besluit hun onderlinge betrekkelijke bevoegdheid. De militaire kantonrechter en de arrondissementsrechtbank nemen bij voorkeur geen kennis van een feit waarvan ook een mobiele rechtbank kan kennis nemen.
 
@@ -162,7 +172,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 2. Indien een of twee tot de rechterlijke macht behorende personen als bedoeld in het eerste lid niet beschikbaar zijn, wordt hun plaats ingenomen door niet tot de rechterlijke macht behorende militairen. Ingeval slechts één tot de rechterlijke macht behorend lid aanwezig is, fungeert deze als voorzitter. Indien een zodanig lid in het geheel niet aanwezig is, wordt de rechtbank voorgezeten door het niet tot de rechterlijke macht behorende lid, dat het oudste is in benoeming als lid.
 
-3. Op de niet tot de rechterlijke macht behorende personen als in de vorige leden bedoeld, is [artikel 6, tweede, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=6&z=2000-01-01&g=2000-01-01), van overeenkomstige toepassing met dien verstande dat aan de eis omschreven in [artikel 48, eerste lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=48) bij voorkeur dient te worden voldaan.
+3. Op de niet tot de rechterlijke macht behorende personen als in de vorige leden bedoeld, is [artikel 6, tweede, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=6&z=2010-10-10&g=2010-10-10), van overeenkomstige toepassing met dien verstande dat aan de eis omschreven in [artikel 48, eerste lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=48) bij voorkeur dient te worden voldaan.
 
 4. Indien Wij een mobiele rechtbank hebben ingesteld, benoemen Wij op voordracht van Onze Minister van Justitie, in overeenstemming met Onze Minister van Defensie, de voorzitter en zoveel leden als Wij dienstig oordelen. Ingeval de bevelhebber van een krijgsmachtdeel de rechtbank heeft ingesteld, benoemt hij de voorzitter en zoveel leden als hij dienstig oordeelt. De bevelhebber voert inzake die benoemingen zo mogelijk overleg met de genoemde ministers en de voorzitter van de mobiele rechtbank.
 
@@ -170,23 +180,23 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 1. Zodra een mobiele rechtbank feitelijk optreedt, kunnen zaken die bij de militaire kantonrechter of de militaire kamer van de arrondissementsrechtbank aanhangig zijn en tot de bevoegdheid van die mobiele rechtbank behoren, aan deze worden overgedragen in de stand, waarin zij zich op dat ogenblik bevinden.
 
-2. Overdracht van een zaak die bij een mobiele rechtbank aanhangig is, naar een andere mobiele rechtbank of naar de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=3&z=2000-01-01&g=2000-01-01) genoemde rechtbank, onderscheidenlijk de militaire kantonrechter kan plaatsvinden in de stand, waarin zij zich op dat ogenblik bevindt.
+2. Overdracht van een zaak die bij een mobiele rechtbank aanhangig is, naar een andere mobiele rechtbank of naar de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=3&z=2010-10-10&g=2010-10-10) genoemde rechtbank, onderscheidenlijk de militaire kantonrechter kan plaatsvinden in de stand, waarin zij zich op dat ogenblik bevindt.
 
 3. Uitvoering van dit artikel geschiedt door het openbaar ministerie.
 
 ##### Artikel 13
 
-1. Bij een mobiele rechtbank zijn met de handhaving van de wetten, met de vervolging van strafbare feiten en het doen uitvoeren van de vonnissen belast leden van het openbaar ministerie. De [artikelen 59b-59d van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=59b) zijn van overeenkomstige toepassing met dien verstande dat de benoeming geschiedt op de wijze in [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=III&artikel=11&z=2000-01-01&g=2000-01-01), voorzien.
+1. Bij een mobiele rechtbank zijn met de handhaving van de wetten, met de vervolging van strafbare feiten en het doen uitvoeren van de vonnissen belast leden van het openbaar ministerie. De [artikelen 59b-59d van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=59b) zijn van overeenkomstige toepassing met dien verstande dat de benoeming geschiedt op de wijze in [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=III&artikel=11&z=2010-10-10&g=2010-10-10), voorzien.
 
 2. Bij afwezigheid van leden van het openbaar ministerie kunnen met de waarneming van de taak van het openbaar ministerie militairen worden belast. Het daartoe strekkend besluit wordt door Ons gegeven op voordracht van Onze Ministers van Justitie en van Defensie, of, indien zodanig besluit niet kan worden afgewacht, door de voorzitter van de rechtbank.
 
-3. Op de waarnemende leden van het openbaar ministerie als bedoeld in het vorige lid, is [artikel 6, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=6&z=2000-01-01&g=2000-01-01), van overeenkomstige toepassing. Zij dienen bij voorkeur aan de eis omschreven in [artikel 59b van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=59b) te voldoen.
+3. Op de waarnemende leden van het openbaar ministerie als bedoeld in het vorige lid, is [artikel 6, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=6&z=2010-10-10&g=2010-10-10), van overeenkomstige toepassing. Zij dienen bij voorkeur aan de eis omschreven in [artikel 59b van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=59b) te voldoen.
 
 ##### Artikel 14
 
-1. Bij een mobiele rechtbank worden op de wijze als in [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=III&artikel=11&z=2000-01-01&g=2000-01-01), voorzien, benoemd een griffier en een of meer substituut-griffiers, die voldoen aan de eisen bedoeld in [artikel 48, tweede onderscheidenlijk derde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=48).
+1. Bij een mobiele rechtbank worden op de wijze als in [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=III&artikel=11&z=2010-10-10&g=2010-10-10), voorzien, benoemd een griffier en een of meer substituut-griffiers, die voldoen aan de eisen bedoeld in [artikel 48, tweede onderscheidenlijk derde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=48).
 
-2. [Artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=III&artikel=13&z=2000-01-01&g=2000-01-01), is van overeenkomstige toepassing.
+2. [Artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=III&artikel=13&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing.
 
 ##### Artikel 15
 
@@ -196,53 +206,53 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ##### Artikel 16
 
-1. De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=II&artikel=7&z=2000-01-01&g=2000-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=II&artikel=8&z=2000-01-01&g=2000-01-01) zijn van overeenkomstige toepassing op de vonnissen van de mobiele rechtbank, met dien verstande dat ten aanzien van vonnissen gewezen ter zake van overtredingen het bepaalde in [artikel 44, tweede lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=44) toepassing vindt.
+1. De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=II&artikel=7&z=2010-10-10&g=2010-10-10) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=II&artikel=8&z=2010-10-10&g=2010-10-10) zijn van overeenkomstige toepassing op de vonnissen van de mobiele rechtbank, met dien verstande dat ten aanzien van vonnissen gewezen ter zake van overtredingen het bepaalde in [artikel 44, tweede lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=44) toepassing vindt.
 
 2. [Artikel 95 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=95) is van overeenkomstige toepassing met betrekking tot de mobiele rechtbank.
 
-## Titel IV. Organisatie van de militaire strafrechtspraak in de Nederlandse Antillen en in Aruba
+## Titel IV. Organisatie van de militaire strafrechtspraak in Aruba, Curaçao en Sint Maarten en in de openbare lichamen Bonaire, Sint Eustatius en Saba
 
 ##### Artikel 17
 
-1. Het gerecht in eerste aanleg van de Nederlandse Antillen en het gerecht in eerste aanleg van Aruba oefenen de rechtsmacht omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=2&z=2000-01-01&g=2000-01-01) uit voorzover de verdachte zich bevindt binnen het door Ons vast te stellen bevelsgebied van de hoogste bevelvoerende militair in de Nederlandse Antillen en Aruba.
+1. Het Gerecht in eerste aanleg van Aruba, het Gerecht in eerste aanleg van Curaçao, het Gerecht in eerste aanleg van Sint Maarten en het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba oefenen de rechtsmacht omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=2&z=2010-10-10&g=2010-10-10) uit voorzover de verdachte zich bevindt binnen het bij koninklijk besluit vast te stellen bevelsgebied van de hoogste bevelvoerende militair in Aruba, Curaçao en Sint Maarten en in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-2. Het gerecht in eerste aanleg van Aruba oefent de in het eerste lid omschreven rechtsmacht uit indien de verdachte zich in Aruba bevindt. In de overige gevallen oefent het gerecht in eerste aanleg van de Nederlandse Antillen deze rechtsmacht uit.
+2. Het Gerecht in eerste aanleg van het in het eerste lid genoemde land waar de verdachte zich bevindt, oefent de in het eerste lid omschreven rechtsmacht uit.
 
-3. Bij het gerecht in eerste aanleg van de Nederlandse Antillen en bij het gerecht in eerste aanleg van Aruba zijn een meervoudige en een enkelvoudige kamer onder de benaming militaire kamers. Het lid van een enkelvoudige militaire kamer draagt de titel van militaire politierechter.
+3. Bij de Gerechten in eerste aanleg zijn een meervoudige en een enkelvoudige kamer onder de benaming militaire kamers. Het lid van een enkelvoudige kamer draagt de titel van militaire politierechter.
 
 4. De behandeling van de in het eerste lid bedoelde zaken geschiedt bij uitsluiting door een militaire kamer.
 
-5. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=4&z=2000-01-01&g=2000-01-01) is van overeenkomstige toepassing ten aanzien van zich in de Nederlandse Antillen of in Aruba bevindende personen.
+5. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=4&z=2010-10-10&g=2010-10-10) is van overeenkomstige toepassing ten aanzien van zich in Aruba, Curaçao en Sint Maarten en in de openbare lichamen Bonaire, Sint Eustatius en Saba bevindende personen.
 
-6. [Artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=5&z=2000-01-01&g=2000-01-01), is van overeenkomstige toepassing met dien verstande dat twee leden van een meervoudige kamer, onder wie de voorzitter, lid zijn van het Gemeenschappelijke Hof van Justitie van de Nederlandse Antillen en Aruba, en dat de functie van militaire politierechter wordt vervuld door een lid van het Gemeenschappelijke Hof van Justitie.
+6. [Artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=5&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing met dien verstande dat twee leden van een meervoudige kamer, onder wie de voorzitter, lid zijn van het Gemeenschappelijk Hof van Justitie en dat de functie van militaire politierechter wordt vervuld door een lid van het Gemeenschappelijk Hof van Justitie.
 
-7. De militaire kamers van het gerecht in eerste aanleg van de Nederlandse Antillen zijn gevestigd op Curaçao, maar zij kunnen zitting houden op elke plaats in de Nederlandse Antillen. De militaire kamers van het gerecht in eerste aanleg van Aruba houden zitting in Aruba.
+7. [Artikel 10, tweede en derde lid, van de Rijkswet Gemeenschappelijk Hof van Justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&artikel=10), is van overeenkomstige toepassing.
 
-8. [Artikel 6, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=6&z=2000-01-01&g=2000-01-01), is van overeenkomstige toepassing met dien verstande dat de benoeming van een militair lid in de militaire kamer van het gerecht in eerste aanleg van de Nederlandse Antillen geschiedt na overleg met de Gouverneur van de Nederlandse Antillen en dat de benoeming van een militair lid in de militaire kamer van het gerecht in eerste aanleg van Aruba geschiedt na overleg met de Gouverneur van Aruba. Aan de vereisten omschreven in artikel 53, eerste lid, van de Samenwerkingsregeling Nederlandse Antillen en Aruba dient bij voorkeur te worden voldaan.
+8. De benoeming van een militair lid in de militaire kamer van het Gerecht in eerste aanleg geschiedt op de wijze zoals neergelegd in [artikel 23 van de Rijkswet Gemeenschappelijk Hof van Justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&artikel=23). Om te kunnen worden benoemd tot militair lid moet men militair zijn en niet behoren tot het wapen der Koninklijke marechaussee. [Artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=6&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing. Aan de vereisten omschreven in [artikel 24, eerste lid, onder a en b, van de Rijkswet Gemeenschappelijk Hof van Justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&artikel=24) dient bij voorkeur te worden voldaan.
 
-9. Op de militaire leden zijn de artikelen 54-57 van de Samenwerkingsregeling Nederlandse Antillen en Aruba en de artikelen 31-35, 37 en 39 van de Eenvormige landsverordening op de rechterlijke organisatie van overeenkomstige toepassing.
+9. Op de militaire leden zijn de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&artikel=6), [12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&artikel=12), [13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&artikel=13), [27 tot en met 34](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&artikel=27), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&artikel=36) en [46 van de Rijkswet Gemeenschappelijk Hof van Justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&artikel=46) van overeenkomstige toepassing, voor zover die artikelen niet afwijken van het in deze wet bepaalde.
 
-10. [Artikel 6, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=6&z=2000-01-01&g=2000-01-01), is van overeenkomstige toepassing.
+10. [Artikel 6, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=6&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing, met dien verstande dat de eedaflegging door de militaire leden geschiedt op de wijze zoals is vastgelegd in [artikel 28 van de Rijkswet Gemeenschappelijk Hof van Justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&artikel=28).
 
-11. Overdracht van een zaak die in eerste aanleg bij een militaire kamer van de arrondissementsrechtbank of bij een mobiele rechtbank aanhangig is met betrekking tot een persoon die zich bevindt in de Nederlandse Antillen of in Aruba, dan wel overdracht van een zaak die bij een militaire kamer van een der genoemde gerechten in eerste aanleg aanhangig is met betrekking tot een persoon die zich niet meer in het rechtsgebied van desbetreffende gerecht bevindt, naar de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=3&z=2000-01-01&g=2000-01-01) genoemde arrondissementsrechtbank of naar een mobiele rechtbank, kan plaatsvinden in de stand waarin de zaak zich op dat ogenblik bevindt. Uitvoering van deze overdracht geschiedt door het openbaar ministerie.
+11. Overdracht van een zaak die in eerste aanleg bij een militaire kamer van de arrondissementsrechtbank of bij een mobiele rechtbank aanhangig is met betrekking tot een persoon die zich bevindt in Aruba, Curaçao of Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius en Saba dan wel overdracht van een zaak die bij een militaire kamer van een der genoemde gerechten in eerste aanleg aanhangig is met betrekking tot een persoon die zich niet meer in het rechtsgebied van desbetreffende gerecht bevindt, naar de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=3&z=2010-10-10&g=2010-10-10) genoemde arrondissementsrechtbank of naar een mobiele rechtbank, kan plaatsvinden in de stand waarin de zaak zich op dat ogenblik bevindt. Uitvoering van deze overdracht geschiedt door het openbaar ministerie.
 
 ##### Artikel 18
 
-1. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=II&artikel=7&z=2000-01-01&g=2000-01-01) is van overeenkomstige toepassing op vonnissen van de militaire kamers van de gerechten in eerste aanleg.
+1. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=II&artikel=7&z=2010-10-10&g=2010-10-10) is van overeenkomstige toepassing op vonnissen van de militaire kamers van de gerechten in eerste aanleg.
 
-2. Het Gemeenschappelijk Hof van Justitie van de Nederlandse Antillen en Aruba oordeelt in hoger beroep over de daarvoor vatbare vonnissen van de gerechten in eerste aanleg.
+2. Het Gemeenschappelijk Hof van Justitie oordeelt in hoger beroep over de daarvoor vatbare vonnissen van de gerechten in eerste aanleg.
 
 3. Bij het Gemeenschappelijk Hof van Justitie is een meervoudige kamer onder de benaming van militaire kamer.
 
-4. De behandeling van de in het eerste lid bedoelde zaken geschiedt bij uitsluiting door een militaire kamer. Deze kamer oordeelt over het beklag bedoeld in [artikel 12 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=12), indien de persoon wiens vervolging wordt verlangd zich bevindt in de Nederlandse Antillen of in Aruba.
+4. De behandeling van de in het eerste lid bedoelde zaken geschiedt bij uitsluiting door een militaire kamer. Deze kamer oordeelt over het beklag bedoeld in [artikel 12 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=12), indien de persoon wiens vervolging wordt verlangd zich bevindt in Aruba, Curaçao of Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-5. [Artikel 9, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=II&artikel=9&z=2000-01-01&g=2000-01-01), is van overeenkomstige toepassing met dien verstande dat de benoeming geschiedt na overleg met de Ministeriële Samenwerkingsraad, aan de vereisten van artikel 53, eerste lid, van de Samenwerkingsregeling Nederlandse Antillen en Aruba bij voorkeur dient te worden voldaan en de militair tenminste een hoofdofficiersrang bekleedt.
+5. [Artikel 9, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=II&artikel=9&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing met dien verstande dat de benoeming geschiedt overeenkomstig [artikel 23 van de Rijkswet Gemeenschappelijk Hof van Justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&artikel=23), aan de eisen van [artikel 24 van de Rijkswet Gemeenschappelijk Hof van Justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&artikel=24) zoveel mogelijk wordt voldaan en de militair tenminste een hoofdofficiersrang bekleedt.
 
-6. [Artikel 6, derde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=6&z=2000-01-01&g=2000-01-01), is van overeenkomstige toepassing.
+6. [Artikel 6, derde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=6&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing.
 
-7. [Artikel 17, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=IV&artikel=17&z=2000-01-01&g=2000-01-01), is van overeenkomstige toepassing.
+7. [Artikel 17, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=IV&artikel=17&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing.
 
-8. Overdracht van een zaak die bij de militaire kamer van het gerechtshof aanhangig is met betrekking tot een persoon die zich bevindt in de Nederlandse Antillen of in Aruba, dan wel overdracht van een zaak die bij het Gemeenschappelijk Hof van Justitie aanhangig is met betrekking tot een persoon die zich niet meer in de Nederlandse Antillen of in Aruba bevindt, naar het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=II&artikel=8&z=2000-01-01&g=2000-01-01) genoemde gerechtshof, kan plaatsvinden in de stand waarin de zaak zich op dat ogenblik bevindt. Uitvoering van deze overdracht geschiedt door het openbaar ministerie. Het hof waaraan de zaak wordt overgedragen is bevoegd in hoger beroep over de zaak te oordelen.
+8. Overdracht van een zaak die bij de militaire kamer van het gerechtshof aanhangig is met betrekking tot een persoon die zich bevindt in Aruba, Curaçao of Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius en Saba, dan wel overdracht van een zaak die bij het Gemeenschappelijk Hof van Justitie aanhangig is met betrekking tot een persoon die zich niet meer in Aruba, Curaçao of Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius en Saba bevindt, naar het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=II&artikel=8&z=2010-10-10&g=2010-10-10) genoemde gerechtshof, kan plaatsvinden in de stand waarin de zaak zich op dat ogenblik bevindt. Uitvoering van deze overdracht geschiedt door het openbaar ministerie. Het hof waaraan de zaak wordt overgedragen is bevoegd in hoger beroep over de zaak te oordelen.
 
 ##### Artikel 19
 
@@ -258,15 +268,15 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 1. Onder leden en rechters in het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) worden begrepen leden van een militaire kamer als bedoeld in deze wet.
 
-2. Onder opsporingsambtenaren in de zin van [artikel 141](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) en [142 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142) worden mede begrepen de in de Nederlandse Antillen en Aruba als zodanig bevoegde ambtsdragers.
+2. Onder opsporingsambtenaren in de zin van [artikel 141](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) en [142 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142) worden mede begrepen de in Aruba, Curaçao en Sint Maarten en in de openbare lichamen Bonaire, Sint Eustatius en Saba als zodanig bevoegde ambtsdragers.
 
 ##### Artikel 21
 
-In zaken betreffende strafbare feiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=2&z=2000-01-01&g=2000-01-01) treedt als raadkamer een meervoudige militaire kamer op.
+In zaken betreffende strafbare feiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=2&z=2010-10-10&g=2010-10-10) treedt als raadkamer een meervoudige militaire kamer op.
 
 ##### Artikel 22
 
-1. De raadkamer van een gerecht bedoeld in deze wet kan een verhoor van een persoon die zich buiten Nederland bevindt, opdragen aan een van de leden van een militaire kamer van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=3&z=2000-01-01&g=2000-01-01) genoemde rechtbank, van een krachtens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=III&artikel=10&z=2000-01-01&g=2000-01-01) ingestelde mobiele rechtbank of van een militaire kamer van het gerecht in eerste aanleg bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=IV&artikel=17&z=2000-01-01&g=2000-01-01).
+1. De raadkamer van een gerecht bedoeld in deze wet kan een verhoor van een persoon die zich buiten het Europese deel van het Koninkrijk bevindt, opdragen aan een van de leden van een militaire kamer van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=3&z=2010-10-10&g=2010-10-10) genoemde rechtbank, van een krachtens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=III&artikel=10&z=2010-10-10&g=2010-10-10) ingestelde mobiele rechtbank of van een militaire kamer van het gerecht in eerste aanleg bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=IV&artikel=17&z=2010-10-10&g=2010-10-10).
 
 2. Een opdracht als bedoeld in het eerste lid wordt bij voorkeur niet gegeven aan een lid, dat op enigerlei wijze bij de behandeling van een zaak betrokken is geweest.
 
@@ -274,9 +284,9 @@ In zaken betreffende strafbare feiten als bedoeld in [artikel 2](https://wetten.
 
 1. Als raadslieden kunnen worden toegelaten degenen die worden genoemd in [artikel 37 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=37), alsmede officieren, met dien verstande dat dezen niet worden toegelaten bij beroep in cassatie.
 
-2. Buiten Nederland kan een advocaat alleen worden toegevoegd, indien hij zich daartoe bereid heeft verklaard.
+2. Buiten het Europese deel van het Koninkrijk kan een advocaat alleen worden toegevoegd, indien hij zich daartoe bereid heeft verklaard.
 
-3. Een officier kan alleen worden toegevoegd, indien een advocaat niet beschikbaar is. Ook indien deze wel beschikbaar is, kan een officier als raadsman worden toegevoegd, mits de verdachte daarom uitdrukkelijk verzoekt. De toevoeging van een officier geschiedt door de voorzitter van de rechtbank, dan wel van het gerechtshof, waarvoor de zaak moet dienen. In Nederland kan een officier alleen worden toegevoegd, indien hij zich daartoe bereid heeft verklaard. Een toegevoegde officier is, onverminderd het bepaalde in [artikel 45 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=45), verplicht als raadsman op te treden.
+3. Een officier kan alleen worden toegevoegd, indien een advocaat niet beschikbaar is. Ook indien deze wel beschikbaar is, kan een officier als raadsman worden toegevoegd, mits de verdachte daarom uitdrukkelijk verzoekt. De toevoeging van een officier geschiedt door de voorzitter van de rechtbank, dan wel van het gerechtshof, waarvoor de zaak moet dienen. In het Europese deel van het Koninkrijk kan een officier alleen worden toegevoegd, indien hij zich daartoe bereid heeft verklaard. Een toegevoegde officier is, onverminderd het bepaalde in [artikel 45 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=45), verplicht als raadsman op te treden.
 
 4. Onder advocaat in het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) wordt begrepen een officier die als raadsman optreedt. Het bepaalde in de [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=37), [40, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=40), en [46 van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=46) is echter niet van toepassing op een officier die als raadsman optreedt.
 
@@ -318,7 +328,7 @@ De strafbepalingen van het [Wetboek van Militair Strafrecht](https://wetten.over
 
 ##### Artikel 29
 
-1. [Artikel 59 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=59) is van toepassing met dien verstande, dat de rechters-commissarissen, belast met de behandeling van zaken betreffende strafbare feiten als bedoeld in [artikel 2 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=2&z=2000-01-01&g=2000-01-01), worden benoemd uit de leden en plaatsvervangende leden van de militaire kamer.
+1. [Artikel 59 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=59) is van toepassing met dien verstande, dat de rechters-commissarissen, belast met de behandeling van zaken betreffende strafbare feiten als bedoeld in [artikel 2 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=2&z=2010-10-10&g=2010-10-10), worden benoemd uit de leden en plaatsvervangende leden van de militaire kamer.
 
 2. Een militair lid, dat ingevolge het eerste lid is benoemd tot rechter-commissaris, treedt als zodanig op met dien verstande dat hij:
 
@@ -354,7 +364,7 @@ De termijn van dagvaarding voor de militaire politierechter en de militaire kant
 
 ##### Artikel 34
 
-In de gevallen bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=II&artikel=7&z=2000-01-01&g=2000-01-01) is [artikel 404 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=404) van overeenkomstige toepassing.
+In de gevallen bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=II&artikel=7&z=2010-10-10&g=2010-10-10) is [artikel 404 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=404) van overeenkomstige toepassing.
 
 ##### Artikel 35
 
@@ -364,19 +374,19 @@ In geval van hoger beroep is de vorige titel van overeenkomstige toepassing.
 
 In geval van verwijzing als bedoeld in [artikel 441, tweede lid, tweede volzin onder 2e en 3e, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=441), wordt de zaak verwezen:
 
-- 1°. wanneer de vernietigde uitspraak is gedaan door een militaire kamer van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=3&z=2000-01-01&g=2000-01-01) genoemde rechtbank, naar het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=II&artikel=8&z=2000-01-01&g=2000-01-01) genoemde gerechtshof;
+- 1°. wanneer de vernietigde uitspraak is gedaan door een militaire kamer van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=3&z=2010-10-10&g=2010-10-10) genoemde rechtbank, naar het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=II&artikel=8&z=2010-10-10&g=2010-10-10) genoemde gerechtshof;
 
-- 2°. wanneer zij is gedaan door de militaire kamer van het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=II&artikel=8&z=2000-01-01&g=2000-01-01) genoemde gerechtshof naar datzelfde gerechtshof;
+- 2°. wanneer zij is gedaan door de militaire kamer van het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=II&artikel=8&z=2010-10-10&g=2010-10-10) genoemde gerechtshof naar datzelfde gerechtshof;
 
 en in alle gevallen behandeld door de militaire kamer. Aan de behandeling van de verwezen zaak nemen bij voorkeur geen leden deel die op enigerlei wijze bij de behandeling van die zaak betrokken zijn geweest.
 
 ##### Artikel 37
 
-Bij toepassing van [artikel 461, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=461), en [artikel 465, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=465) vindt, indien de in die artikelen bedoelde gevallen betrekking hebben op zaken als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=2&z=2000-01-01&g=2000-01-01), verwijzing plaats naar het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=II&artikel=8&z=2000-01-01&g=2000-01-01) genoemde gerechtshof. Aan de behandeling van de verwezen zaak nemen bij voorkeur geen leden deel die op enigerlei wijze bij de behandeling van die zaak betrokken zijn geweest.
+Bij toepassing van [artikel 461, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=461), en [artikel 465, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=465) vindt, indien de in die artikelen bedoelde gevallen betrekking hebben op zaken als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=2&z=2010-10-10&g=2010-10-10), verwijzing plaats naar het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=II&artikel=8&z=2010-10-10&g=2010-10-10) genoemde gerechtshof. Aan de behandeling van de verwezen zaak nemen bij voorkeur geen leden deel die op enigerlei wijze bij de behandeling van die zaak betrokken zijn geweest.
 
 ##### Artikel 38
 
-Bij de toepassing van [artikel 470, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=470) zijn de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=I&artikel=26&z=2000-01-01&g=2000-01-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=I&artikel=27&z=2000-01-01&g=2000-01-01) mede van overeenkomstige toepassing.
+Bij de toepassing van [artikel 470, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=470) zijn de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=I&artikel=26&z=2010-10-10&g=2010-10-10) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=I&artikel=27&z=2010-10-10&g=2010-10-10) mede van overeenkomstige toepassing.
 
 ## Titel IV. Bepalingen betreffende enige rechtsplegingen van bijzondere aard
 
@@ -410,13 +420,13 @@ Op de mobiele rechtbank en de ambtsdragers bij dat college zijn van overeenkomst
 
 - a. het bepaalde in het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) met betrekking tot de rechtbank en de ambtsdragers daarbij;
 
-- b. het bepaalde in [de titels I-V](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=I&z=2000-01-01&g=2000-01-01) en [VIII van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=VIII&z=2000-01-01&g=2000-01-01) met betrekking tot de rechtbank, de militaire kamers en de ambtsdragers daarbij voorzover daarvan in deze titel niet wordt afgeweken.
+- b. het bepaalde in [de titels I-V](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=I&z=2010-10-10&g=2010-10-10) en [VIII van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=VIII&z=2010-10-10&g=2010-10-10) met betrekking tot de rechtbank, de militaire kamers en de ambtsdragers daarbij voorzover daarvan in deze titel niet wordt afgeweken.
 
 ##### Artikel 44
 
 1. Indien de benoeming van de rechter-commissaris niet kan geschieden op de wijze als in de [Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830) voorzien, benoemt de voorzitter van de mobiele rechtbank een of meer leden tot rechter-commissaris voor de tijd van één jaar. Deze is steeds weer dadelijk benoembaar.
 
-2. Het bepaalde in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=II&artikel=29&z=2000-01-01&g=2000-01-01), is niet van toepassing indien er geen tot de rechterlijke macht behorende personen beschikbaar zijn om tot rechter-commissaris te worden benoemd.
+2. Het bepaalde in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=II&artikel=29&z=2010-10-10&g=2010-10-10), is niet van toepassing indien er geen tot de rechterlijke macht behorende personen beschikbaar zijn om tot rechter-commissaris te worden benoemd.
 
 ##### Artikel 45
 
@@ -430,7 +440,7 @@ Indien zulks noodzakelijk is om de militaire strafrechtspraak te waarborgen, kan
 
 - 1°. de termijnen genoemd in de [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=58) en [64 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=64) tijdelijk zijn verdubbeld;
 
-- 2°. tijdelijk bij dagvaarding betreffende een strafbaar feit kan worden volstaan met een korte aanduiding van het feit dat te laste wordt gelegd met vermelding omstreeks welke tijd en waar ter plaatse het begaan zou zijn, en de termijnen genoemd in [artikel 265 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=265) en [artikel 32 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=II&artikel=32&z=2000-01-01&g=2000-01-01) ook zonder toestemming van de verdachte tijdelijk kunnen worden verkort, een en ander voorzover de verdachte daardoor naar het oordeel van de rechtbank niet in zijn verdediging wordt geschaad;
+- 2°. tijdelijk bij dagvaarding betreffende een strafbaar feit kan worden volstaan met een korte aanduiding van het feit dat te laste wordt gelegd met vermelding omstreeks welke tijd en waar ter plaatse het begaan zou zijn, en de termijnen genoemd in [artikel 265 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=265) en [artikel 32 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=II&artikel=32&z=2010-10-10&g=2010-10-10) ook zonder toestemming van de verdachte tijdelijk kunnen worden verkort, een en ander voorzover de verdachte daardoor naar het oordeel van de rechtbank niet in zijn verdediging wordt geschaad;
 
 - b. de mobiele rechtbank wettelijke voorschriften betreffende de termijnen en vormen, indien deze ten gevolge van de bijzondere omstandigheden in redelijkheid niet konden of kunnen worden in acht genomen, buiten beschouwing kan laten;
 
@@ -438,47 +448,47 @@ Indien zulks noodzakelijk is om de militaire strafrechtspraak te waarborgen, kan
 
 ##### Artikel 47
 
-De krachtens [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=VI&artikel=46&z=2000-01-01&g=2000-01-01) getroffen voorzieningen worden ingetrokken zodra de omstandigheden dit toelaten.
+De krachtens [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=VI&artikel=46&z=2010-10-10&g=2010-10-10) getroffen voorzieningen worden ingetrokken zodra de omstandigheden dit toelaten.
 
 ##### Artikel 48
 
-Krachtens de [artikelen 46](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=VI&artikel=46&z=2000-01-01&g=2000-01-01) en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=VI&artikel=47&z=2000-01-01&g=2000-01-01) door Onze Minister van Justitie te nemen besluiten treden, tenzij daarbij anders is bepaald, in werking met ingang van de dag na die van hun bekendmaking. Daarin kan worden bepaald dat zij onmiddellijk na hun bekendmaking in werking treden.
+Krachtens de [artikelen 46](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=VI&artikel=46&z=2010-10-10&g=2010-10-10) en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=VI&artikel=47&z=2010-10-10&g=2010-10-10) door Onze Minister van Justitie te nemen besluiten treden, tenzij daarbij anders is bepaald, in werking met ingang van de dag na die van hun bekendmaking. Daarin kan worden bepaald dat zij onmiddellijk na hun bekendmaking in werking treden.
 
 ##### Artikel 49
 
-1. Krachtens de [artikelen 46](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=VI&artikel=46&z=2000-01-01&g=2000-01-01), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=VI&artikel=47&z=2000-01-01&g=2000-01-01) en [48](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=VI&artikel=48&z=2000-01-01&g=2000-01-01) door Onze Minister van Justitie te nemen besluiten worden bekend gemaakt in de Nederlandse Staatscourant.
+1. Krachtens de [artikelen 46](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=VI&artikel=46&z=2010-10-10&g=2010-10-10), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=VI&artikel=47&z=2010-10-10&g=2010-10-10) en [48](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=VI&artikel=48&z=2010-10-10&g=2010-10-10) door Onze Minister van Justitie te nemen besluiten worden bekend gemaakt in de Nederlandse Staatscourant.
 
 2. Indien het landsbelang dit naar zijn oordeel noodzakelijk maakt, kan de Minister van Justitie een besluit als bedoeld in het voorgaande lid op andere wijze bekend maken.
 
 ##### Artikel 50
 
-1. Indien en voor zolang de verbinding met Onze Minister van Justitie is verbroken, oefent de bevelhebber, ten aanzien van een door hem krachtens [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=III&artikel=10&z=2000-01-01&g=2000-01-01), ingestelde mobiele rechtbank, de bevoegdheden uit, welke in de [artikelen 46](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=VI&artikel=46&z=2000-01-01&g=2000-01-01) en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=VI&artikel=47&z=2000-01-01&g=2000-01-01) aan Onze Minister van Justitie zijn toegekend.
+1. Indien en voor zolang de verbinding met Onze Minister van Justitie is verbroken, oefent de bevelhebber, ten aanzien van een door hem krachtens [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=III&artikel=10&z=2010-10-10&g=2010-10-10), ingestelde mobiele rechtbank, de bevoegdheden uit, welke in de [artikelen 46](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=VI&artikel=46&z=2010-10-10&g=2010-10-10) en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=VI&artikel=47&z=2010-10-10&g=2010-10-10) aan Onze Minister van Justitie zijn toegekend.
 
-2. De [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=VI&artikel=48&z=2000-01-01&g=2000-01-01) en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=VI&artikel=49&z=2000-01-01&g=2000-01-01) zijn in dat geval van overeenkomstige toepassing met dien verstande dat voor de Minister van Justitie wordt gelezen de in het vorige lid bedoelde bevelhebber.
+2. De [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=VI&artikel=48&z=2010-10-10&g=2010-10-10) en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=VI&artikel=49&z=2010-10-10&g=2010-10-10) zijn in dat geval van overeenkomstige toepassing met dien verstande dat voor de Minister van Justitie wordt gelezen de in het vorige lid bedoelde bevelhebber.
 
-## Titel VII. Bepalingen betreffende de rechtspleging in de Nederlandse Antillen en in Aruba
+## Titel VII. Bepalingen betreffende de rechtspleging in Aruba, Curaçao en Sint Maarten en in de openbare lichamen Bonaire, Sint Eustatius en Saba
 
 ##### Artikel 51
 
-Op het gerecht in eerste aanleg van de Nederlandse Antillen en dat van Aruba en op het Gemeenschappelijk Hof van Justitie van de Nederlandse Antillen en van Aruba, de militaire kamers van die colleges en de ambtsdragers daarbij zijn in zaken betreffende personen, die vallen onder de in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=IV&artikel=17&z=2000-01-01&g=2000-01-01), bedoelde rechtsmacht, van overeenkomstige toepassing:
+Op de Gerechten in eerste aanleg en op het Gemeenschappelijk Hof van Justitie, de militaire kamers van die colleges en de ambtsdragers daarbij zijn in zaken betreffende personen, die vallen onder de in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=IV&artikel=17&z=2010-10-10&g=2010-10-10), bedoelde rechtsmacht, van overeenkomstige toepassing:
 
 - a. het bepaalde in het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) met betrekking tot de rechtbank, onderscheidenlijk het gerechtshof en de ambtsdragers bij die colleges;
 
-- b. het bepaalde in de [titels I-V](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=I&z=2000-01-01&g=2000-01-01) en [VIII van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=VIII&z=2000-01-01&g=2000-01-01) met betrekking tot de rechtbank onderscheidenlijk het gerechtshof, de militaire kamers van die colleges en de ambtsdragers daarbij voorzover daarvan in deze titel niet wordt afgeweken.
+- b. het bepaalde in de [titels I-V](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=I&z=2010-10-10&g=2010-10-10) en [VIII van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=VIII&z=2010-10-10&g=2010-10-10) met betrekking tot de rechtbank onderscheidenlijk het gerechtshof, de militaire kamers van die colleges en de ambtsdragers daarbij voorzover daarvan in deze titel niet wordt afgeweken.
 
 ##### Artikel 52
 
-[Artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=I&artikel=22&z=2000-01-01&g=2000-01-01) is van overeenkomstige toepassing ten aanzien van het verhoor van een persoon die zich buiten de Nederlandse Antillen of Aruba bevindt.
+[Artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=I&artikel=22&z=2010-10-10&g=2010-10-10) is van overeenkomstige toepassing ten aanzien van het verhoor van een persoon die zich buiten Aruba, Curaçao of Sint Maarten of buiten de openbare lichamen Bonaire, Sint Eustatius en Saba bevindt.
 
 ##### Artikel 53
 
-1. Onverminderd het bepaalde in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=I&artikel=23&z=2000-01-01&g=2000-01-01) kunnen in de Nederlandse Antillen en Aruba ook als raadsman worden toegelaten personen die bevoegd zijn om aldaar als raadsman in strafzaken op te treden.
+1. Onverminderd het bepaalde in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=I&artikel=23&z=2010-10-10&g=2010-10-10) kunnen in Aruba, Curaçao en Sint Maarten en in de openbare lichamen Bonaire, Sint Eustatius en Saba ook als raadsman worden toegelaten personen die bevoegd zijn om aldaar als raadsman in strafzaken op te treden.
 
 2. Als raadsman van de verdachte kunnen bij de Hoge Raad ook optreden advocaten, ingeschreven bij het Gemeenschappelijk Hof van Justitie.
 
 ##### Artikel 54
 
-Onverminderd het bepaalde in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=II&artikel=29&z=2000-01-01&g=2000-01-01) kan een militair lid als rechter-commissaris optreden indien het onderzoek van de zaak geheel of overwegend buiten de Nederlandse Antillen of Aruba plaatsvindt.
+Onverminderd het bepaalde in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=II&artikel=29&z=2010-10-10&g=2010-10-10) kan een militair lid als rechter-commissaris optreden indien het onderzoek van de zaak geheel of overwegend buiten Aruba, Curaçao of Sint Maarten of buiten de openbare lichamen Bonaire, Sint Eustatius en Saba plaatsvindt.
 
 ##### Artikel 55
 
@@ -486,17 +496,17 @@ Onverminderd het bepaalde in [artikel 279 van het Wetboek van Strafvordering](ht
 
 ##### Artikel 56
 
-In de gevallen van verwijzing als bedoeld in de [artikelen 36, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=III&artikel=36&z=2000-01-01&g=2000-01-01), en [37, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=III&artikel=37&z=2000-01-01&g=2000-01-01), vindt de behandeling van de zaak door de militaire kamer van het Gemeenschappelijk Hof van Justitie plaats op de wijze als voorzien in [artikel 36, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=III&artikel=36&z=2000-01-01&g=2000-01-01).
+In de gevallen van verwijzing als bedoeld in de [artikelen 36, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=III&artikel=36&z=2010-10-10&g=2010-10-10), en [37, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=III&artikel=37&z=2010-10-10&g=2010-10-10), vindt de behandeling van de zaak door de militaire kamer van het Gemeenschappelijk Hof van Justitie plaats op de wijze als voorzien in [artikel 36, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=III&artikel=36&z=2010-10-10&g=2010-10-10).
 
 ##### Artikel 57
 
-1. [Artikel 344, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=344) is van overeenkomstige toepassing op geschriften opgemaakt door de in dat artikel bedoelde colleges, ambtenaren of personen van de Nederlandse Antillen en van Aruba.
+1. [Artikel 344, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=344) is van overeenkomstige toepassing op geschriften opgemaakt door de in dat artikel bedoelde colleges, ambtenaren of personen van Aruba, Curaçao en Sint Maarten en van de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-2. [Artikel 344, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=344) is van overeenkomstige toepassing op het proces-verbaal van een opsporingsambtenaar van de Nederlandse Antillen en van Aruba.
+2. [Artikel 344, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=344) is van overeenkomstige toepassing op het proces-verbaal van een opsporingsambtenaar van Aruba, Curaçao en Sint Maarten en van de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 ##### Artikel 58
 
-In de Nederlandse Antillen en in Aruba kunnen opsporingsambtenaren bij de uitoefening van hun bevoegdheden niet dan met inachtneming van de grenzen in de ter plaatse geldende wetgeving voor de gewone strafvordering gesteld, inbreuk maken op de rechten van niet aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=2&z=2000-01-01&g=2000-01-01) bedoelde rechtsmacht onderworpen personen.
+In Aruba, Curaçao en Sint Maarten en in de openbare lichamen Bonaire, Sint Eustatius en Saba kunnen opsporingsambtenaren bij de uitoefening van hun bevoegdheden niet dan met inachtneming van de grenzen in de ter plaatse geldende wetgeving voor de gewone strafvordering gesteld, inbreuk maken op de rechten van niet aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=2&z=2010-10-10&g=2010-10-10) bedoelde rechtsmacht onderworpen personen.
 
 ## Titel VIII. Bijzondere bepalingen betreffende het uitoefenen van bevoegdheden inzake strafvordering buiten het Koninkrijk of binnen de territoriale zee
 
@@ -524,7 +534,7 @@ In de Nederlandse Antillen en in Aruba kunnen opsporingsambtenaren bij de uitoef
 
 1. Buiten het Koninkrijk kunnen opsporingsambtenaren de bevoegdheden uitoefenen welke aan hen zijn toegekend bij enige bepaling van een andere wet dan deze of het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903), indien dat bij algemene maatregel van Rijksbestuur is bepaald.
 
-2. [Artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=VIII&artikel=59&z=2000-01-01&g=2000-01-01) is van overeenkomstige toepassing.
+2. [Artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=III&titeldeel=VIII&artikel=59&z=2010-10-10&g=2010-10-10) is van overeenkomstige toepassing.
 
 ### Hoofdstuk IV. Slotbepalingen
 
@@ -564,13 +574,13 @@ Deze Rijkswet kan worden aangehaald als "Wet militaire strafrechtspraak".
 
 ##### Artikel 66
 
-1. Zaken, die op het tijdstip van inwerking treden van deze Rijkswet ter kennis zijn gekomen van de Commandant der Zeemacht in het Caraïbisch gebied worden door deze in de stand waarin zij zich bevinden met inachtneming van het bepaalde in de [eerste twee leden van artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=IV&artikel=17&z=2000-01-01&g=2000-01-01) overgedragen aan het openbaar ministerie bij het gerecht in eerste aanleg van de Nederlandse Antillen, onderscheidenlijk dat van Aruba.
+1. Zaken, die op het tijdstip van inwerking treden van deze Rijkswet ter kennis zijn gekomen van de Commandant der Zeemacht in het Caraïbisch gebied worden door deze in de stand waarin zij zich bevinden met inachtneming van het bepaalde in de [eerste twee leden van artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=IV&artikel=17&z=2010-10-10&g=2010-10-10) overgedragen aan het openbaar ministerie bij het gerecht in eerste aanleg van de Nederlandse Antillen, onderscheidenlijk dat van Aruba.
 
-2. Zaken, die op dat tijdstip ter kennis zijn gekomen van de overige verwijzingsautoriteiten, worden door deze in de stand waarin zij zich bevinden overgedragen aan het openbaar ministerie bij de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=3&z=2000-01-01&g=2000-01-01) genoemde rechtbank.
+2. Zaken, die op dat tijdstip ter kennis zijn gekomen van de overige verwijzingsautoriteiten, worden door deze in de stand waarin zij zich bevinden overgedragen aan het openbaar ministerie bij de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=3&z=2010-10-10&g=2010-10-10) genoemde rechtbank.
 
 3. Voor zover het in de vorige leden bedoelde openbaar ministerie oordeelt dat deze zaken krijgstuchtelijke vergrijpen betreffen, draagt het deze zaken over aan de ingevolge de artikelen 39-43 van de Wet op de Krijgstucht tot straffen bevoegde autoriteit ter behandeling en afdoening overeenkomstig het in [artikel 107 van de Wet militair tuchtrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&artikel=107) bepaalde.
 
-4. Voorzover het in het tweede lid bedoelde openbaar ministerie oordeelt dat deze zaken betrekking hebben op strafbare feiten waarvan een andere rechter dan een der in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=3&z=2000-01-01&g=2000-01-01) genoemde gerechten bevoegd is kennis te nemen, draagt het deze zaken over aan het tot vervolging daarvan bevoegde openbaar ministerie.
+4. Voorzover het in het tweede lid bedoelde openbaar ministerie oordeelt dat deze zaken betrekking hebben op strafbare feiten waarvan een andere rechter dan een der in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=I&artikel=3&z=2010-10-10&g=2010-10-10) genoemde gerechten bevoegd is kennis te nemen, draagt het deze zaken over aan het tot vervolging daarvan bevoegde openbaar ministerie.
 
 5. De overige zaken worden met inachtneming van de bepalingen van deze Rijkswet behandeld en afgedaan.
 
@@ -580,7 +590,7 @@ Strafzaken die op het tijdstip van inwerking treden van deze Rijkswet bij de kri
 
 ##### Artikel 68
 
-1. Rechtshandelingen die onder de werking van de in [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=IV&artikel=65&z=2000-01-01&g=2000-01-01) genoemde wettelijke regelingen vóór het tijdstip van inwerkingtreden van deze Rijkswet zijn verricht, blijven rechtsgeldig.
+1. Rechtshandelingen die onder de werking van de in [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=IV&artikel=65&z=2010-10-10&g=2010-10-10) genoemde wettelijke regelingen vóór het tijdstip van inwerkingtreden van deze Rijkswet zijn verricht, blijven rechtsgeldig.
 
 2. Ten aanzien van verdachten die zich op dat tijdstip in voorlopig arrest bevinden kan de termijn gedurende welke een door de krijgsraad bekrachtigd of verlengd voorlopig arrest geldt nadien door het bevoegde gerecht op vordering van de officier van justitie vóór de aanvang van het onderzoek op de terechtzitting nog ten hoogste tweemaal worden verlengd.
 
@@ -590,19 +600,19 @@ Strafzaken die op het tijdstip van inwerking treden van deze Rijkswet bij de kri
 
 ##### Artikel 69
 
-1. Tegen beslissingen van de Permanente krijgsraad voor de zeemacht in de Nederlandse Antillen, die op tijdstip van inwerkingtreden van deze Rijkswet niet onherroepelijk zijn geworden en waartegen nog geen beroep is ingesteld, kan zulk beroep met inachtneming van het bepaalde in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=IV&artikel=19&z=2000-01-01&g=2000-01-01), worden ingesteld op het in dat artikel genoemde gerecht. Het beroep kan worden ingesteld binnen veertien dagen na de uitspraak op de wijze als uit hoofde van deze Rijkswet voorgeschreven voor het instellen van hoger beroep tegen beslissingen van het gerecht in eerste aanleg van de Nederlandse Antillen en dat van Aruba.
+1. Tegen beslissingen van de Permanente krijgsraad voor de zeemacht in de Nederlandse Antillen, die op tijdstip van inwerkingtreden van deze Rijkswet niet onherroepelijk zijn geworden en waartegen nog geen beroep is ingesteld, kan zulk beroep met inachtneming van het bepaalde in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=IV&artikel=19&z=2010-10-10&g=2010-10-10), worden ingesteld op het in dat artikel genoemde gerecht. Het beroep kan worden ingesteld binnen veertien dagen na de uitspraak op de wijze als uit hoofde van deze Rijkswet voorgeschreven voor het instellen van hoger beroep tegen beslissingen van het gerecht in eerste aanleg van de Nederlandse Antillen en dat van Aruba.
 
-2. Tegen beslissingen van de overige krijgsraden kan, in de in het vorig lid bedoelde gevallen en met inachtneming van het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=II&artikel=8&z=2000-01-01&g=2000-01-01), zulk beroep worden ingesteld op het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=II&artikel=9&z=2000-01-01&g=2000-01-01) genoemde gerecht, ook indien het een strafzaak betreft, waarvan na de inwerkingtreding van deze Rijkswet de militaire kantonrechter tot kennisneming bevoegd zou zijn geweest. Het beroep kan worden ingesteld binnen veertien dagen na de uitspraak op de wijze als voorgeschreven voor het instellen van hoger beroep tegen beslissingen van de arrondissementsrechtbank te Arnhem.
+2. Tegen beslissingen van de overige krijgsraden kan, in de in het vorig lid bedoelde gevallen en met inachtneming van het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=II&artikel=8&z=2010-10-10&g=2010-10-10), zulk beroep worden ingesteld op het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=II&artikel=9&z=2010-10-10&g=2010-10-10) genoemde gerecht, ook indien het een strafzaak betreft, waarvan na de inwerkingtreding van deze Rijkswet de militaire kantonrechter tot kennisneming bevoegd zou zijn geweest. Het beroep kan worden ingesteld binnen veertien dagen na de uitspraak op de wijze als voorgeschreven voor het instellen van hoger beroep tegen beslissingen van de arrondissementsrechtbank te Arnhem.
 
 3. Tegen beslissingen van het Hoog Militair Gerechtshof in strafzaken die op het tijdstip van inwerking treden van deze Rijkswet niet onherroepelijk zijn geworden en waartegen nog geen beroep in cassatie is ingesteld kan binnen veertien dagen na de uitspraak zulk beroep worden ingesteld op de wijze als voorgeschreven voor het instellen van beroep in cassatie tegen arresten van het gerechtshof te Arnhem.
 
 ##### Artikel 70
 
-Indien de Hoge Raad een sententie van het Hoog Militair Gerechtshof na het tijdstip van inwerkingtreden van deze Rijkswet in cassatie vernietigt, wordt de zaak, indien zij niet door de Hoge Raad zelf wordt afgedaan, verwezen naar het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=II&artikel=8&z=2000-01-01&g=2000-01-01) genoemde gerechtshof.
+Indien de Hoge Raad een sententie van het Hoog Militair Gerechtshof na het tijdstip van inwerkingtreden van deze Rijkswet in cassatie vernietigt, wordt de zaak, indien zij niet door de Hoge Raad zelf wordt afgedaan, verwezen naar het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=II&titeldeel=II&artikel=8&z=2010-10-10&g=2010-10-10) genoemde gerechtshof.
 
 ##### Artikel 71
 
-Waar uit hoofde van enige in [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=IV&artikel=65&z=2000-01-01&g=2000-01-01) genoemde wettelijke regeling, het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) of het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) aan het gerecht in feitelijke aanleg waarvoor een zaak het laatst werd vervolgd bepaalde bevoegdheden worden toegekend, wordt vanaf het tijdstip van inwerkingtreden van deze Rijkswet de uitoefening van deze bevoegdheden van de krijgsraden en van het Hoog Militair Gerechtshof overgenomen door de gerechten die, indien de zaak na dat tijdstip zou zijn vervolgd, in eerste aanleg, onderscheidenlijk in beroep tot kennisneming daarvan bevoegd zouden zijn geweest.
+Waar uit hoofde van enige in [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&hoofdstuk=IV&artikel=65&z=2010-10-10&g=2010-10-10) genoemde wettelijke regeling, het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) of het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) aan het gerecht in feitelijke aanleg waarvoor een zaak het laatst werd vervolgd bepaalde bevoegdheden worden toegekend, wordt vanaf het tijdstip van inwerkingtreden van deze Rijkswet de uitoefening van deze bevoegdheden van de krijgsraden en van het Hoog Militair Gerechtshof overgenomen door de gerechten die, indien de zaak na dat tijdstip zou zijn vervolgd, in eerste aanleg, onderscheidenlijk in beroep tot kennisneming daarvan bevoegd zouden zijn geweest.
 
 ##### Artikel 72
 
