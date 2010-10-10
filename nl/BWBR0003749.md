@@ -4,7 +4,7 @@ identifier: "BWBR0003749"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2010-10-10"
-last_updated: "1985-12-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003749"
 soort: "rijkswet"
@@ -43,12 +43,12 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ##### Artikel 1
 
-De territoriale zee van het Koninkrijk in de Nederlandse Antillen wordt uitgebreid tot twaalf zeemijlen, met inachtneming van regels te stellen bij algemene maatregel van rijksbestuur.
+De territoriale zee van het Koninkrijk in Aruba, Curaçao, Sint Maarten en in de openbare lichamen Bonaire, Sint Eustatius en Saba wordt uitgebreid tot twaalf zeemijlen, met inachtneming van regels te stellen bij algemene maatregel van rijksbestuur.
 
 ##### Artikel 2
 
 1. Deze rijkswet treedt in werking op een door Ons te bepalen tijdstip.
 
-2. Zij kan worden aangehaald als Rijkswet uitbreiding territoriale zee van het Koninkrijk in de Nederlandse Antillen.
+2. Deze rijkswet wordt aangehaald als: Rijkswet uitbreiding territoriale zee van het Koninkrijk.
 
 Lasten en bevelen, dat deze in het **Staatsblad** en het **Publicatieblad van de Nederlandse Antillen** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
