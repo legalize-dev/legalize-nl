@@ -4,7 +4,7 @@ identifier: "BWBR0019756"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2009-07-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019756"
 soort: "wet"
@@ -53,7 +53,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder Onze Ministe
 
 Dit hoofdstuk is van toepassing op subsidies die door Onze Minister worden verstrekt en:
 
-- a. die op één van de gronden genoemd in het [tweede hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&hoofdstuk=2&z=2009-07-01&g=2009-07-01) van deze wet berusten;
+- a. die op één van de gronden genoemd in het [tweede hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&hoofdstuk=2&z=2010-10-10&g=2010-10-10) van deze wet berusten;
 
 - b. die berusten op een algemene maatregel van bestuur, als bedoeld in [artikel 4:23, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23), of
 
@@ -119,15 +119,15 @@ Onze Minister kan subsidies verstrekken ten behoeve van activiteiten inzake open
 
 Onze Minister kan subsidies verstrekken ten behoeve van activiteiten inzake de Koninkrijksrelaties die gericht zijn op:
 
-- a. het bevorderen van de ontwikkeling van de democratische rechtsstaat en rechtsorde in de Nederlandse Antillen en Aruba;
+- a. het bevorderen van de ontwikkeling van de democratische rechtsstaat en rechtsorde in Aruba, Curaçao en Sint Maarten;
 
-- b. het bevorderen van de ontwikkeling van Aruba en de Nederlandse Antillen, daaronder begrepen de afzonderlijke eilandgebieden van de Nederlandse Antillen, in het bijzonder de economische, sociale, culturele, bestuurlijke ontwikkeling, evenals de ontwikkeling op het terrein van het onderwijs en de gezondheidszorg;
+- b. het bevorderen van de ontwikkeling van Aruba, Curaçao en Sint Maarten in het bijzonder de economische, sociale, culturele, bestuurlijke ontwikkeling, evenals de ontwikkeling op het terrein van het onderwijs en de gezondheidszorg;
 
-- c. het bevorderen en handhaven van een behoorlijk bestuursniveau in de Nederlandse Antillen en Aruba;
+- c. het bevorderen en handhaven van een behoorlijk bestuursniveau in Aruba, Curaçao en Sint Maarten;
 
-- d. het verstrekken van noodhulp aan de Nederlandse Antillen en Aruba en de wederopbouw na natuurrampen of andere noodsituaties;
+- d. het verstrekken van noodhulp aan Aruba, Curaçao en Sint Maarten en de wederopbouw na natuurrampen of andere noodsituaties;
 
-- e. de onderlinge relaties tussen Nederland, de Nederlandse Antillen en Aruba;
+- e. de onderlinge relaties tussen Nederland, Aruba, Curaçao, en Sint Maarten;
 
 - f. het bevorderen van onderzoek en advisering ter ondersteuning van het beleid inzake de Koninkrijksrelaties.
 
@@ -161,11 +161,11 @@ Onze Minister kan subsidies verstrekken ten behoeve van activiteiten inzake het 
 
 ##### Artikel 14
 
-Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling kunnen de activiteiten bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&hoofdstuk=2&z=2009-07-01&g=2009-07-01) nader worden bepaald, alsmede criteria voor de verstrekking worden vastgesteld.
+Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling kunnen de activiteiten bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&hoofdstuk=2&z=2010-10-10&g=2010-10-10) nader worden bepaald, alsmede criteria voor de verstrekking worden vastgesteld.
 
 ##### Artikel 15
 
-Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling kunnen voor subsidies die verstrekt worden op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&hoofdstuk=2&z=2009-07-01&g=2009-07-01), regels worden gesteld met betrekking tot:
+Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling kunnen voor subsidies die verstrekt worden op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&hoofdstuk=2&z=2010-10-10&g=2010-10-10), regels worden gesteld met betrekking tot:
 
 - a. de aanvraag van een subsidie en de besluitvorming daarover;
 
@@ -187,7 +187,7 @@ Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling ku
 
 ##### Artikel 16
 
-Na de inwerkingtreding van deze wet berusten de algemene maatregelen van bestuur en de ministeriële regelingen, vastgesteld krachtens [artikel 2 van de Wet overige BiZa-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009055&artikel=2) op de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&hoofdstuk=3&artikel=14&z=2009-07-01&g=2009-07-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&hoofdstuk=3&artikel=15&z=2009-07-01&g=2009-07-01) van deze wet.
+Na de inwerkingtreding van deze wet berusten de algemene maatregelen van bestuur en de ministeriële regelingen, vastgesteld krachtens [artikel 2 van de Wet overige BiZa-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009055&artikel=2) op de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&hoofdstuk=3&artikel=14&z=2010-10-10&g=2010-10-10) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&hoofdstuk=3&artikel=15&z=2010-10-10&g=2010-10-10) van deze wet.
 
 ##### Artikel 17
 
