@@ -4,7 +4,7 @@ identifier: "BWBR0026404"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-10-10"
-last_updated: "2009-09-15"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026404"
 soort: "ministeriele-regeling"
@@ -42,15 +42,17 @@ Gelet op [artikel 72, eerste lid, van de Schepenwet](https://wetten.overheid.nl/
 
 Besluit:
 
+De datum van inwerkingtreding ligt voor de datum van uitgifte.
+
 #### § 1. Begripsbepalingen
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **vaarbevoegdheidsbewijs:** bewijs als bedoeld in [artikel 1, onderdeel i, van het Bemanningsbesluit Nederlands-Antilliaanse en Arubaanse zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&artikel=1);
+- a. **vaarbevoegdheidsbewijs:** bewijs als bedoeld in [artikel 1, onderdeel i, van het Bemanningsbesluit Arubaanse, Curaçaose en Sint Maartense zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&artikel=1);
 
-- b. **vaarbevoegdheidsbewijs van erkenning:** bewijs van erkenning als bedoeld in [artikel 33, tweede lid, van het Bemanningsbesluit Nederlands-Antilliaanse en Arubaanse zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&artikel=33).
+- b. **vaarbevoegdheidsbewijs van erkenning:** bewijs van erkenning als bedoeld in [artikel 33, tweede lid, van het Bemanningsbesluit Arubaanse, Curaçaose en Sint Maartense zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&artikel=33).
 
 #### § 2. Aanvragen
 
@@ -140,13 +142,13 @@ De kosten van de behandeling van een aanvraag voor de afgifte van een vaarbevoeg
 
 ##### Artikel 4
 
-De kosten voor de afgifte van een ontheffing als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&artikel=12), onderscheidenlijk [artikel 32 van het Bemanningsbesluit Nederlands-Antilliaanse en Arubaanse zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&artikel=32) bedragen: ANG 375,– voor elke ontheffing.
+De kosten voor de afgifte van een ontheffing als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&artikel=12), onderscheidenlijk [artikel 32 van het Bemanningsbesluit Arubaanse, Curaçaose en Sint Maartense zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&artikel=32) bedragen: ANG 375,– voor elke ontheffing.
 
 #### § 3. Slotbepalingen
 
 ##### Artikel 5
 
-De in deze regeling genoemde tarieven luiden in het betaalmiddel van de Nederlandse Antillen en zijn verschuldigd voor de afgifte van vaarbevoegdheidsbewijzen, vaarbevoegdheidsbewijzen van erkenning en ontheffingen door ambtenaren van de Nederlandse Antillen.
+De in deze regeling genoemde tarieven luiden in het betaalmiddel van Curaçao, onderscheidenlijk Sint Maarten en zijn verschuldigd voor de afgifte van vaarbevoegdheidsbewijzen, vaarbevoegdheidsbewijzen van erkenning en ontheffingen door ambtenaren van Curaçao, onderscheidenlijk Sint Maarten.
 
 ##### Artikel 6
 
@@ -154,6 +156,6 @@ Deze regeling treedt in werking met ingang van 15 september 2009.
 
 ##### Artikel 7
 
-Deze regeling wordt aangehaald als: Regeling Nederlands-Antilliaanse tarieven vaarbevoegdheidsbewijzen zeevaart 2009.
+Deze regeling wordt aangehaald als: Regeling Curaçaose en Sint Maartense tarieven vaarbevoegdheidsbewijzen zeevaart.
 
 Deze regeling zal met de toelichting in de Staatscourant en in de Curaçaosche Courant worden geplaatst.
