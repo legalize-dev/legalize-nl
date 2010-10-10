@@ -4,7 +4,7 @@ identifier: "BWBR0014652"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2008-12-25"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014652"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-Een als klassenbureau aan te wijzen organisatie houdt kantoor in een land van het Koninkrijk en heeft met Nederland, de Nederlandse Antillen en Aruba een overeenkomst als bedoeld in artikel 6 van de richtlijn gesloten. De overeenkomst voldoet aan de in het tweede lid van dat artikel gestelde eisen.
+Een als klassenbureau aan te wijzen organisatie houdt kantoor in een land van het Koninkrijk en heeft met Nederland, Aruba, Curaçao, onderscheidenlijk Sint Maarten een overeenkomst als bedoeld in artikel 6 van de richtlijn gesloten. De overeenkomst voldoet aan de in het tweede lid van dat artikel gestelde eisen.
 
 ##### Artikel 4
 
@@ -78,7 +78,7 @@ Een als klassenbureau aan te wijzen organisatie houdt kantoor in een land van he
 
 1. Een aanwijzing als klassenbureau kan met inachtneming van artikel 10 van de richtlijn worden geschorst, indien door een handeling of nalatigheid van de aangewezen organisatie ernstig gevaar voor de veiligheid of het milieu is of kan ontstaan.
 
-2. Een aanwijzing kan voorts worden ingetrokken, indien niet meer wordt voldaan aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014652&artikel=3&z=2008-12-25&g=2008-12-25).
+2. Een aanwijzing kan voorts worden ingetrokken, indien niet meer wordt voldaan aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014652&artikel=3&z=2010-10-10&g=2010-10-10).
 
 ##### Artikel 6
 
@@ -102,7 +102,7 @@ Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Cou
 
 1. Als erkende beveiligingsorganisatie kunnen worden aangewezen organisaties die voldoen aan de erkenningscriteria, opgenomen in het aanhangsel bij circulaire MSC/Circ.1074 (Interim Guidelines for the Authorization of Recognized Security Organizations) van de Maritieme Veiligheidscommissie van de Internationale Maritieme Organisatie.
 
-2. Een organisatie als bedoeld in het eerste lid houdt kantoor in een land van het Koninkrijk en heeft met Nederland, de Nederlandse Antillen en Aruba een overeenkomst gesloten met betrekking tot de taken die zij in het kader van de aanwijzing uitvoert.
+2. Een organisatie als bedoeld in het eerste lid houdt kantoor in een land van het Koninkrijk en heeft met Nederland, Aruba, Curaçao, onderscheidenlijk Sint Maarten een overeenkomst gesloten met betrekking tot de taken die zij in het kader van de aanwijzing uitvoert.
 
 ##### Artikel 5b
 
@@ -134,6 +134,6 @@ Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Cou
 
 ##### Artikel 5d
 
-De resolutie, bedoeld in [artikel 5c, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014652&artikel=5c&z=2008-12-25&g=2008-12-25), en de circulaire, bedoeld in [artikel 5c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014652&artikel=5c&z=2008-12-25&g=2008-12-25), liggen ter inzage bij het Ministerie van Verkeer en Waterstaat.
+De resolutie, bedoeld in [artikel 5c, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014652&artikel=5c&z=2010-10-10&g=2010-10-10), en de circulaire, bedoeld in [artikel 5c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014652&artikel=5c&z=2010-10-10&g=2010-10-10), liggen ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
 Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Courant en in het Afkondigingsblad van Aruba worden geplaatst.
