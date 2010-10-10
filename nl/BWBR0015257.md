@@ -4,7 +4,7 @@ identifier: "BWBR0015257"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-10-10"
-last_updated: "2005-01-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015257"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ Als personen bevoegd tot het stellen van magnetische kompassen aan boord van vis
 
 - e. K. Wagenaar, J.A. Mol, A.W. den Ouden en J. Veenstra, in dienst van Transport & Offshore Services B.V. te Rotterdam;
 
-- f. R.E. Britt en F. Dorant in de Nederlandse Antillen;
+- f. R.E. Britt en F. Dorant in Curaçao en Sint Maarten;
 
 - g. J. Seraus in Aruba.
 
