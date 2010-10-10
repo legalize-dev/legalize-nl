@@ -4,7 +4,7 @@ identifier: "BWBR0002202"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-05"
-last_updated: "2010-05-29"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002202"
 soort: "wet"
@@ -185,7 +185,7 @@ In afwijking van [artikel 19, tweede lid, van de Kaderwet adviescolleges](https:
 
 ##### Artikel 26
 
-In afwijking van de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=18) en [20, eerste lid, van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=20) is een commissie als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=III&artikel=24&z=2010-05-29&g=2010-05-29) bevoegd in naam van de Gezondheidsraad door tussenkomst van de voorzitter een rapport als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=III&artikel=22&z=2010-05-29&g=2010-05-29) uit te brengen. Op de beraadslaging en besluitvorming binnen een commissie is [artikel 20 van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=20) van overeenkomstige toepassing.
+In afwijking van de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=18) en [20, eerste lid, van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=20) is een commissie als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=III&artikel=24&z=2010-10-10&g=2010-10-10) bevoegd in naam van de Gezondheidsraad door tussenkomst van de voorzitter een rapport als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=III&artikel=22&z=2010-10-10&g=2010-10-10) uit te brengen. Op de beraadslaging en besluitvorming binnen een commissie is [artikel 20 van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=20) van overeenkomstige toepassing.
 
 ##### Artikel 26a
 
@@ -245,15 +245,33 @@ Vervallen
 
 ##### Artikel 37
 
-Vervallen
+Aan het hoofd van elk onderdeel van het Staatstoezicht staat een hoofdinspecteur. Hij neemt bij de vervulling van zijn taak de aanwijzingen van Onze Minister in acht.
 
 ##### Artikel 38
 
-Aan het hoofd van elk onderdeel van het Staatstoezicht staat een hoofdinspecteur.
+1. De [artikelen 36, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV&paragraaf=1&artikel=36&z=2010-10-10&g=2010-10-10), en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV&paragraaf=1&artikel=37&z=2010-10-10&g=2010-10-10) zijn van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
+
+2. Het Staatstoezicht op de Volksgezondheid is in de openbare lichamen Bonaire, Sint Eustatius en Saba uitsluitend bevoegd tot de uitoefening van de in [artikel 36, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV&paragraaf=1&artikel=36&z=2010-10-10&g=2010-10-10), genoemde taken, voor zover het gaat om de voorschriften bij of krachtens de:
+
+- a. Wet toezicht op krankzinnigen BES;
+
+- b. Wet beperking tabaksgebruik BES;
+
+- c. Warenwet BES;
+
+- d. Opiumwet 1960 BES;
+
+- e. Wet op de geneesmiddelenvoorziening BES;
+
+- f. Wet organisatie bloedvoorziening BES;
+
+- g. Wet zorginstellingen BES;
+
+3. Het Staatstoezicht op de Volksgezondheid oefent in de openbare lichamen Bonaire, Sint Eustatius en Saba zijn taken uit met inachtneming van de rechten, plichten en bevoegdheden, genoemd in de Hoofdstukken 3, 4 en 5 van de Wet Inspectie voor de Volksgezondheid BES, zoals die luidde op 1 januari 2011.
 
 ##### Artikel 39
 
-1. Met betrekking tot de uitvoering van de in [artikel 36, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV&artikel=36&z=2010-05-29&g=2010-05-29), bedoelde taak:
+1. Met betrekking tot de uitvoering van de in [artikel 36, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV&paragraaf=1&artikel=36&z=2010-10-10&g=2010-10-10), bedoelde taak:
 
 - a. zijn de [artikelen 5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12), [5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13), [5:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), [5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16), [5:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17), [5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) van overeenkomstige toepassing.
 
@@ -339,13 +357,13 @@ De samenstelling van de Provinciale Raad wordt zodanig geregeld, dat daarin in e
 
 2. De Hoofdinspecteurs zijn bevoegd de vergaderingen van de Provinciale Raad en van de door deze ingestelde commissies bij te wonen en hebben een adviserende stem. Zij ontvangen daartoe mededeling van het bijeenroepen der vergaderingen en een afschrift van de agenda.
 
-#### § 3. Van de commissies
+#### § 2. Van de samenstelling
 
 ##### Artikel 50
 
 1. De Provinciale Raad doet zich bijstaan door commissies van advies en bijstand, welke deskundig zijn op een bijzonder gebied van de volksgezondheid.
 
-2. De Provinciale Raad kan in zijn gebied één of meer districtscommissies instellen. Ten aanzien van die commissies is [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=V&paragraaf=2&artikel=48&z=2010-05-29&g=2010-05-29) van overeenkomstige toepassing.
+2. De Provinciale Raad kan in zijn gebied één of meer districtscommissies instellen. Ten aanzien van die commissies is [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=V&paragraaf=2&artikel=48&z=2010-10-10&g=2010-10-10) van overeenkomstige toepassing.
 
 3. De Raad regelt de samenstelling, bevoegdheid en werkwijze van deze commissies en benoemt de leden.
 
@@ -449,7 +467,7 @@ Waar in enig wettelijk voorschrift wordt verwezen naar een artikel van de Gezond
 
 ##### Artikel 69a
 
-1. Na de inwerkingtreding van de [Aanpassingswet derde tranche Awb I](https://wetten.overheid.nl/jci1.3:c:BWBR0008994) berust het Besluit Staatstoezicht Volksgezondheid op [artikel 36, eerste lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV&artikel=36&z=2010-05-29&g=2010-05-29).
+1. Na de inwerkingtreding van de [Aanpassingswet derde tranche Awb I](https://wetten.overheid.nl/jci1.3:c:BWBR0008994) berust het Besluit Staatstoezicht Volksgezondheid op [artikel 36, eerste lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV&paragraaf=1&artikel=36&z=2010-10-10&g=2010-10-10).
 
 2. Ten aanzien van de in [artikel 145 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=145) genoemde wetten is deze wet van toepassing zoals deze luidde voor de inwerkingtreding van de [Aanpassingswet derde tranche Awb I](https://wetten.overheid.nl/jci1.3:c:BWBR0008994).
 
@@ -460,5 +478,27 @@ Waar in enig wettelijk voorschrift wordt verwezen naar een artikel van de Gezond
 2. Zij treedt in werking op een door Ons te bepalen tijdstip. Wij kunnen het inwerkingtreden van de verschillende onderdelen van deze wet op verschillende tijdstippen bepalen.
 
 3. De Gezondheidswet 1919, **Stb.** 784, vervalt.
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+#### § 1. Taken van het Staatstoezicht op de Volksgezondheid in het Europese deel van Nederland
+
+#### § 2. Taken van het Staatstoezicht op de Volksgezondheid in de openbare lichamen Bonaire, Sint Eustatius en Saba
+
+#### § 3. Overige bepalingen omtrent het Staatstoezicht op de Volksgezondheid in het Europese deel van Nederland
+
+### Hoofdstuk V. De Provinciale Raden voor de Volksgezondheid
+
+#### § 1. Van de zetel en de taak
+
+#### § 3. Van de commissies
+
+#### § 4. Van het bureau
+
+#### § 5. Van de werkwijze
+
+### Hoofdstuk VI. Geschillen
+
+### Hoofdstuk VII. Overgangs- en slotbepalingen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
