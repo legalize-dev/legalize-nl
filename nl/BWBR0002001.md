@@ -4,7 +4,7 @@ identifier: "BWBR0002001"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2010-10-10"
-last_updated: "2002-01-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002001"
 soort: "rijkswet"
@@ -128,9 +128,9 @@ de overigen € 182
 
 ##### Artikel 10
 
-1. Tot goedmaking van de toelagen, in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002001&artikel=9&z=2002-01-01&g=2002-01-01) bedoeld, zoomede van de verdere onkosten der Orde, wordt jaarlijks eene som op de begrotingen van Nederland, de Nederlandse Antillen en Aruba gebracht.
+1. Tot goedmaking van de toelagen, in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002001&artikel=9&z=2010-10-10&g=2010-10-10) bedoeld, zoomede van de verdere onkosten der Orde, wordt jaarlijks eene som op de begrotingen van Nederland, Aruba, Curaçao en Sint Maarten gebracht.
 
-2. De toelagen komen ten laste van de begroting van het Rijksdeel, waaruit de betrokkene, tijdens het verrichten van zijn uitstekende daad, werd bezoldigd; voor zover betreft hen, die niet uit een dier begrotingen werden bezoldigd, ten laste van de begroting van Nederland, indien de daad is verricht in Nederland of elders buiten de Nederlandse Antillen en Aruba, en ten laste van de desbetreffende begroting van één der evengenoemde Overzeese Rijksdelen, ingeval de daad in een dezer Rijksdelen is verricht.
+2. De toelagen komen ten laste van de begroting van het Rijksdeel, waaruit de betrokkene, tijdens het verrichten van zijn uitstekende daad, werd bezoldigd; voor zover betreft hen, die niet uit een dier begrotingen werden bezoldigd, ten laste van de begroting van Nederland, indien de daad is verricht in Nederland of elders buiten Aruba, Curaçao en Sint Maarten, en ten laste van de desbetreffende begroting van één der evengenoemde Overzeese Rijksdelen, ingeval de daad in een dezer Rijksdelen is verricht.
 
 ##### Artikel 11
 
@@ -152,7 +152,7 @@ de overigen € 182
 
 - b. oneervol is ontslagen uit enig openbaar ambt of beroep.
 
-3. Het vervallen van een onderscheiding in de Orde heeft tot gevolg het verlies van het ordeteken en van het recht op de toelagen, in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002001&artikel=9&z=2002-01-01&g=2002-01-01) bedoeld.
+3. Het vervallen van een onderscheiding in de Orde heeft tot gevolg het verlies van het ordeteken en van het recht op de toelagen, in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002001&artikel=9&z=2010-10-10&g=2010-10-10) bedoeld.
 
 ##### Artikel 13
 
