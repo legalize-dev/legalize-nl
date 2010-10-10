@@ -4,7 +4,7 @@ identifier: "BWBR0027536"
 country: "nl"
 rank: "amvb"
 publication_date: "2010-10-10"
-last_updated: "1986-01-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027536"
 soort: "AMvB"
@@ -48,15 +48,13 @@ Besluit:
 
 ##### Artikel 1
 
-Onverminderd het bepaalde in met andere mogendheden gesloten verdragen ten aanzien van de uitlevering van vreemdelingen kunnen vreemdelingen aan een andere mogendheid ter berechting worden overgeleverd terzake van een der in de Nederlandse Antillen strafbaar gestelde misdrijven van schending van de wetten en gebruiken van de oorlog dan wel van het opzettelijk toelaten dat een ondergeschikte zodanig feit pleegt, indien het feit een ernstige schending oplevert van een der navolgende verdragen van Genève van 12 augustus 1949:
+In dit besluit wordt verstaan onder
 
-- a. verdrag voor de verbetering van het lot der gewonden en zieken, zich bevindende bij de strijdkrachten te velde;
+- a. **Gouverneur:** Gouverneur van het land waar de opgeëiste persoon wordt of is aangetroffen;
 
-- b. verdrag voor de verbetering van het lot der gewonden, zieken en schipbreukelingen van de strijdkrachten ter zee;
+- b. **het Hof van Justitie:** het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba;
 
-- c. verdrag betreffende de behandeling van krijgsgevangenen;
-
-- d. verdrag betreffende de bescherming van burgers in oorlogstijd, dan wel van het Aanvullend Protocol bij die Verdragen betreffende bescherming van de slachtoffers van internationale gewapende conflicten (Protocol I) van 12 december 1977.
+- c. **openbaar ministerie:** het openbaar ministerie van het land waar de opgeëiste persoon wordt of is aangetroffen.
 
 ##### Artikel 2
 
@@ -72,30 +70,42 @@ De overlevering kan slechts aan een andere mogendheid geschieden, indien deze pa
 
 ##### Artikel 4
 
-1. Vreemdelingen, wier overlevering overeenkomstig [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027536&artikel=1&z=1986-01-01&g=1986-01-01) wordt gevraagd, kunnen, voorzover zij zich niet reeds in verzekerde bewaring bevinden, worden aangehouden.
+1. Vreemdelingen, wier overlevering overeenkomstig [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027536&artikel=1&z=2010-10-10&g=2010-10-10) wordt gevraagd, kunnen, voorzover zij zich niet reeds in verzekerde bewaring bevinden, worden aangehouden.
 
 2. Het bevel van aanhouding moet hun zo spoedig mogelijk worden betekend.
 
 3. De op en bij hen zijnde goederen kunnen worden in beslag genomen.
 
-4. Zo spoedig mogelijk na de aanhouding wordt daarvan kennis gegeven aan het openbaar ministerie bij het gerecht, dat bevoegd is tot kennisneming van het misdrijf, terzake waarvan de overlevering is gevraagd.
+4. Zo spoedig mogelijk na de aanhouding wordt daarvan kennis gegeven aan het openbaar ministerie bij het Hof van Justitie.
 
 ##### Artikel 5
 
-1. Alvorens over een aanvraag tot overlevering te beslissen, wordt het advies ingewonnen van het gerecht, dat bevoegd is tot kennisneming van het misdrijf, terzake waarvan de overlevering is gevraagd.
+1. Alvorens over een aanvraag tot overlevering te beslissen, wordt het advies ingewonnen van het Hof van Justitie.
 
-2. Het gerecht beslist bij zijn advies, welke der in beslag genomen goederen in geval van overlevering aan de opgeëiste persoon zullen worden teruggegeven en welke, als stukken van overtuiging, zullen worden afgegeven.
+2. Het Hof van Justitie beslist bij zijn advies, welke der in beslag genomen goederen in geval van overlevering aan de opgeëiste persoon zullen worden teruggegeven en welke, als stukken van overtuiging, zullen worden afgegeven.
 
-3. Overlevering vindt in geen geval plaats, indien het gerecht adviseert de overlevering niet toe te staan.
+3. Overlevering vindt in geen geval plaats, indien het Hof van Justitie adviseert de overlevering niet toe te staan.
 
 ##### Artikel 6
 
-De Gouverneur als orgaan van het Koninkrijk is bevoegd te vergunnen, dat een vreemdeling, wiens overlevering terzake van een ernstige schending van een der in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027536&artikel=1&z=1986-01-01&g=1986-01-01) genoemde verdragen door een andere mogendheid of het bestuur van een derde gebied is toegestaan, over het grondgebied van de Nederlandse Antillen onder medegeleide van Antilliaans ambtenaren of beambten wordt vervoerd, mits de mogendheid, aan welke de overlevering geschiedt of waartoe het bestuur, waaraan de overlevering geschiedt, behoort, partij is bij het geschonden verdrag.
+De Gouverneur als orgaan van het Koninkrijk is bevoegd te vergunnen, dat een vreemdeling, wiens overlevering terzake van een ernstige schending van een der in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027536&artikel=1&z=2010-10-10&g=2010-10-10) genoemde verdragen door een andere mogendheid of het bestuur van een derde gebied is toegestaan, over het grondgebied van Aruba, Curaçao of Sint Maarten onder medegeleide van ambtenaren of beambten van Aruba, Curaçao of Sint Maarten wordt vervoerd, mits de mogendheid, aan welke de overlevering geschiedt of waartoe het bestuur, waaraan de overlevering geschiedt, behoort, partij is bij het geschonden verdrag.
 
 ##### Artikel 7
 
-De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027429&artikel=2), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0027429&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0027429&artikel=5), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0027429&artikel=7), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0027429&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0027429&artikel=10), [12-19](https://wetten.overheid.nl/jci1.3:c:BWBR0027429&artikel=12), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0027429&artikel=23) en [25 van het Nederlands-Antilliaans Uitleveringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0027429&artikel=25) zijn van overeenkomstige toepassing.
+De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027429&artikel=2), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0027429&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0027429&artikel=5), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0027429&artikel=7), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0027429&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0027429&artikel=10), [12-19](https://wetten.overheid.nl/jci1.3:c:BWBR0027429&artikel=12), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0027429&artikel=23) en [25 van het Uitleveringsbesluit van Aruba, Curaçao en Sint Maarten](https://wetten.overheid.nl/jci1.3:c:BWBR0027429&artikel=25) zijn van overeenkomstige toepassing.
 
 ##### Artikel 8
 
-Dit besluit kan worden aangehaald als ‘Besluit overlevering inzake oorlogsmisdrijven Nederlandse Antillen’ en treedt in werking op een nader door Ons te bepalen tijdstip.
+Dit besluit wordt aangehaald als: Besluit overlevering inzake oorlogsmisdrijven Aruba, Curaçao en Sint Maarten.
+
+##### Artikel 1a
+
+Onverminderd het bepaalde in met andere mogendheden gesloten verdragen ten aanzien van de uitlevering van vreemdelingen kunnen vreemdelingen aan een andere mogendheid ter berechting worden overgeleverd terzake van een der in Aruba, Curaçao of Sint Maarten strafbaar gestelde misdrijven van schending van de wetten en gebruiken van de oorlog dan wel van het opzettelijk toelaten dat een ondergeschikte zodanig feit pleegt, indien het feit een ernstige schending oplevert van een der navolgende verdragen van Genève van 12 augustus 1949:
+
+- a. verdrag voor de verbetering van het lot der gewonden en zieken, zich bevindende bij de strijdkrachten te velde;
+
+- b. verdrag voor de verbetering van het lot der gewonden, zieken en schipbreukelingen van de strijdkrachten ter zee;
+
+- c. verdrag betreffende de behandeling van krijgsgevangenen;
+
+- d. verdrag betreffende de bescherming van burgers in oorlogstijd, dan wel van het Aanvullend Protocol bij die Verdragen betreffende bescherming van de slachtoffers van internationale gewapende conflicten (Protocol I) van 12 december 1977.
