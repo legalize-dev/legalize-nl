@@ -4,7 +4,7 @@ identifier: "BWBR0010884"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-10-10"
-last_updated: "2000-01-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010884"
 soort: "ministeriele-regeling"
@@ -48,11 +48,11 @@ Deze regeling:
 
 ##### Artikel 2
 
-Indien aan de douane-administratie van de Nederlandse Antillen of Aruba bijstand wordt verleend bij de daadwerkelijke invordering van een in de Nederlandse Antillen, respectievelijk Aruba, ontstane douanevordering, geschieden de betekening van de executoriale titel, het bevel tot betaling en de tenuitvoerlegging in Nederland overeenkomstig de regels die te dezen bij of krachtens de Wet wederzijdse bijstand bij de invordering van enkele EEG-heffingen, de omzetbelasting en de accijnzen gelden voor schuldvorderingen die zijn ontstaan in een lidstaat van de Europese Unie en verband houden met, respectievelijk, de in artikel 1, onderdelen c, d en e, van die wet bedoelde rechten op de in- en uitvoer, omzetbelasting en accijnzen.
+Indien aan de douane-administratie van Aruba, Curaçao of Sint Maarten bijstand wordt verleend bij de daadwerkelijke invordering van een in Aruba, Curaçao of Sint Maarten ontstane douanevordering, geschieden de betekening van de executoriale titel, het bevel tot betaling en de tenuitvoerlegging in Nederland overeenkomstig de regels die te dezen bij of krachtens de [Wet wederzijdse bijstand bij de invordering van belastingschulden en enkele andere schuldvorderingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003270) gelden voor schuldvorderingen die zijn ontstaan in een lidstaat van de Europese Unie en verband houden met, respectievelijk, de in [artikel 1, onderdelen c, d en e, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003270&artikel=1) bedoelde rechten op de in- en uitvoer, omzetbelasting en accijnzen.
 
 ##### Artikel 3
 
-De Minister van Financiën kan in daartoe aanleiding gevende gevallen bij de beslissing, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010884&artikel=2&z=2000-01-01&g=2000-01-01) van deze regeling in verbinding met artikel 11, artikel 15 of artikel 30 van de Wet wederzijdse bijstand bij de invordering van enkele EEG-heffingen, de omzetbelasting en de accijnzen, uitdrukkelijk bepalen dat de in artikel 1, onderdeel c, d of e, van die wet bedoelde rechten op de in- en uitvoer, omzetbelasting, onderscheidenlijk accijnzen, voor de toepassing van artikel 13 van de rijkswet als gelijksoortig zijn aan te merken.
+De Minister van Financiën kan in daartoe aanleiding gevende gevallen bij de beslissing, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010884&artikel=2&z=2010-10-10&g=2010-10-10) van deze regeling in verbinding met [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003270&artikel=11), [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003270&artikel=15) of [artikel 30 van de Wet wederzijdse bijstand bij de invordering van belastingschulden en enkele andere schuldvorderingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003270&artikel=30), uitdrukkelijk bepalen dat de in [artikel 1, onderdeel c, d of e, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003270&artikel=1) bedoelde rechten op de in- en uitvoer, omzetbelasting, onderscheidenlijk accijnzen, voor de toepassing van [artikel 13 van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0010576&artikel=13) als gelijksoortig zijn aan te merken.
 
 ##### Artikel 4
 
