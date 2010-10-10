@@ -4,7 +4,7 @@ identifier: "BWBR0004670"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2010-10-10"
-last_updated: "2003-06-04"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004670"
 soort: "rijkswet"
@@ -47,9 +47,9 @@ In deze rijkswet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- b. Reglement: het [Reglement voor de Gouverneur van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0002175), onderscheidenlijk het [Reglement voor de Gouverneur van Aruba](https://wetten.overheid.nl/jci1.3:c:BWBR0003900);
+- b. Reglement: het [Reglement voor de Gouverneur van Aruba](https://wetten.overheid.nl/jci1.3:c:BWBR0003900), het Reglement voor de Gouverneur van Curaçao, onderscheidenlijk het Reglement voor de Gouverneur van Sint Maarten;
 
-- c. Gouverneur: degene die bij koninklijk besluit als Gouverneur van de Nederlandse Antillen, onderscheidenlijk als Gouverneur van Aruba is benoemd op grond van artikel 1, tweede lid, van het Reglement;
+- c. Gouverneur: degene die bij koninklijk besluit als Gouverneur van Aruba, Curaçao, onderscheidenlijk Sint Maarten is benoemd op grond van artikel 1, tweede lid, van het Reglement;
 
 - d. gewezen Gouverneur: degene die na ontslag als Gouverneur krachtens deze rijkswet uitzicht heeft op ouderdomspensioen bij het bereiken van de vijfenvijftig-jarige leeftijd;
 
@@ -63,15 +63,15 @@ In deze rijkswet en de daarop berustende bepalingen wordt verstaan onder:
 
 1. In deze rijkswet en de daarop berustende bepalingen wordt onder berekeningsgrondslag verstaan het bedrag, waarvan een uitkering of een pensioen ingevolge deze rijkswet is afgeleid.
 
-2. Het bedrag, bedoeld in het eerste lid, is gelijk aan de laatstelijk als Gouverneur genoten maandelijkse wedde, verhoogd met de vakantie-uitkering, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003702&artikel=2) en [7, onder b, van het Positiebesluit Gouverneur van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0003702&artikel=7), onderscheidenlijk het [Positiebesluit Gouverneur van Aruba](https://wetten.overheid.nl/jci1.3:c:BWBR0003901).
+2. Het bedrag, bedoeld in het eerste lid, is gelijk aan de laatstelijk als Gouverneur genoten maandelijkse wedde, verhoogd met de vakantie-uitkering, vastgesteld op grond van artikel 1, vierde lid, van het Reglement.
 
 ##### Artikel 3
 
-De berekeningsgrondslag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=2&z=2003-06-04&g=2003-06-04), wordt, indien de koopkrachtontwikkeling in de Nederlandse Antillen, onderscheidenlijk Aruba daartoe in een bepaald jaar aanleiding geeft, in de maand januari daaropvolgend door Onze Minister aangepast.
+De berekeningsgrondslag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=2&z=2010-10-10&g=2010-10-10), wordt, indien de koopkrachtontwikkeling in Aruba, Curaçao, onderscheidenlijk Sint Maarten daartoe in een bepaald jaar aanleiding geeft, in de maand januari daaropvolgend door Onze Minister aangepast.
 
 ##### Artikel 4
 
-Bij algemene maatregel van rijksbestuur kunnen afwijkende regels worden gesteld met betrekking tot de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=2&z=2003-06-04&g=2003-06-04) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=3&z=2003-06-04&g=2003-06-04), voor zover een wijziging in de bezoldigingsstructuur ingevolge de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003702&artikel=2), [7, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003702&artikel=7), dan wel [14 van het Positiebesluit Gouverneur van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0003702&artikel=14), onderscheidenlijk het [Positiebesluit Gouverneur van Aruba](https://wetten.overheid.nl/jci1.3:c:BWBR0003901) daartoe noopt.
+De berekeningsgrondslag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=2&z=2010-10-10&g=2010-10-10), wordt, indien een wijziging in de bezoldigingsstructuur van de Gouverneur daartoe aanleiding geeft, bij koninklijk besluit aangepast.
 
 #### Uitkering gewezen gouverneur
 
@@ -85,7 +85,7 @@ Bij algemene maatregel van rijksbestuur kunnen afwijkende regels worden gesteld 
 
 ##### Artikel 6
 
-1. De uitkering, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=5&z=2003-06-04&g=2003-06-04), bedraagt gedurende de eerste twaalf maanden van het uitkeringstijdvak 80% en gedurende de overige maanden 50% van de berekeningsgrondslag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=2&z=2003-06-04&g=2003-06-04).
+1. De uitkering, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=5&z=2010-10-10&g=2010-10-10), bedraagt gedurende de eerste twaalf maanden van het uitkeringstijdvak 80% en gedurende de overige maanden 50% van de berekeningsgrondslag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=2&z=2010-10-10&g=2010-10-10).
 
 2. Voor zover de som van de uitkering en nieuwe inkomsten uit of in verband met arbeid 75% van de in het eerste lid bedoelde berekeningsgrondslag overtreft, wordt dat meerdere in mindering gebracht op de uitkering. De in de eerste volzin bedoelde vermindering bedraagt ten hoogste 50% van de daar bedoelde nieuwe inkomsten.
 
@@ -99,7 +99,7 @@ De gewezen Gouverneur krijgt recht op ouderdomspensioen met ingang van de dag wa
 
 ##### Artikel 8
 
-1. Het pensioen als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=7&z=2003-06-04&g=2003-06-04) bedraagt voor elk van de eerste zes dienstjaren als Gouverneur 3,5% en voor elk overig dienstjaar als Gouverneur 1,75% van de berekeningsgrondslag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=2&z=2003-06-04&g=2003-06-04).
+1. Het pensioen als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=7&z=2010-10-10&g=2010-10-10) bedraagt voor elk van de eerste zes dienstjaren als Gouverneur 3,5% en voor elk overig dienstjaar als Gouverneur 1,75% van de berekeningsgrondslag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=2&z=2010-10-10&g=2010-10-10).
 
 2. Onze Minister kan nadere regels stellen ter uitvoering van het eerste lid.
 
@@ -139,7 +139,7 @@ Recht op bijzonder nabestaandenpensioen heeft de persoon met wie een overleden G
 
 ##### Artikel 13
 
-1. Indien een Gouverneur, gewezen Gouverneur of gepensioneerd Gouverneur naar het oordeel van Onze Minister is vermist, zijn de [artikelen 9 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=9&z=2003-06-04&g=2003-06-04) van overeenkomstige toepassing.
+1. Indien een Gouverneur, gewezen Gouverneur of gepensioneerd Gouverneur naar het oordeel van Onze Minister is vermist, zijn de [artikelen 9 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=9&z=2010-10-10&g=2010-10-10) van overeenkomstige toepassing.
 
 2. Het tijdelijke pensioen gaat van rechtswege over in een voortdurend pensioen, zodra het overlijden van de vermiste vaststaat.
 
@@ -151,7 +151,7 @@ Recht op bijzonder nabestaandenpensioen heeft de persoon met wie een overleden G
 
 2. Indien de nabestaande van een Gouverneur hertrouwt, wordt het pensioen opnieuw vastgesteld met toepassing van de eerste volzin van het eerste lid, met dien verstande dat voor de berekening van het ouderdomspensioen, waarvan het nabestaandenpensioen is afgeleid, de onvoltooide diensttijd niet in aanmerking wordt genomen.
 
-3. Het bedrag van het nabestaandenpensioen ingevolge de voorgaande leden wordt verminderd met het bedrag van het bijzonder nabestaandenpensioen, toegekend ingevolge [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=15&z=2003-06-04&g=2003-06-04).
+3. Het bedrag van het nabestaandenpensioen ingevolge de voorgaande leden wordt verminderd met het bedrag van het bijzonder nabestaandenpensioen, toegekend ingevolge [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=15&z=2010-10-10&g=2010-10-10).
 
 ##### Artikel 15
 
@@ -179,15 +179,15 @@ Het bijzonder nabestaandenpensioen bedraagt 72% van het ouderdomspensioen, waaro
 
 2. Indien naast een pensioen op grond van deze rijkswet tevens recht bestaat op een of meer pensioenen als bedoeld in het vijfde lid en het totaal van die pensioenen meer bedraagt dan het grensbedrag omschreven in het derde lid, wordt eerstbedoeld pensioen beperkt tot een zodanig gedeelte van het grensbedrag als evenredig is aan de verhouding waarin dat pensioen staat tot het totaal van de pensioenen.
 
-3. Het grensbedrag is het pensioen dat met toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=8&z=2003-06-04&g=2003-06-04) tot een maximum van 70% zou zijn toegekend naar een wedde vermeerderd met de vakantie-uitkering overeenkomend met het bedrag, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003702&artikel=2) en [7, onder b, van het Positiebesluit Gouverneur van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0003702&artikel=7), onderscheidenlijk het [Positiebesluit Gouverneur van Aruba](https://wetten.overheid.nl/jci1.3:c:BWBR0003901).
+3. Het grensbedrag is het pensioen dat met toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=8&z=2010-10-10&g=2010-10-10) tot een maximum van 70% zou zijn toegekend naar een wedde vermeerderd met de vakantie-uitkering overeenkomend met het bedrag, vastgesteld op grond van artikel 1, vierde lid, van het Reglement.
 
 4. Indien het bedrag van een of meer van de in het tweede lid bedoelde pensioenen bij berekening van de maximaal in aanmerking komende diensttijd hoger is of zou zijn dan het grensbedrag, bedoeld in het derde lid, treedt dat hogere bedrag of het hoogste van die bedragen voor de toepassing van het tweede lid in de plaats van het grensbedrag.
 
-5. Onder een pensioen krachtens een andere regeling wordt in dit artikel verstaan een pensioen, een daarmee in aard overeenkomende uitkering, alsmede een onderstand bij wijze van pensioen ten laste van het Rijk, een provincie, een gemeente of waterschap, van de Stichting Pensioenfonds ABP, dan wel ten laste van de Nederlandse Antillen en Aruba of een publiekrechtelijk lichaam in deze landen of een door het openbaar gezag in een van deze landen ingesteld fonds, met inbegrip van de daarop onder welke benaming ook verleende toeslagen. Onder een pensioen krachtens een andere regeling wordt in dit artikel mede begrepen een ten laste van Nederland, de Nederlandse Antillen en Aruba onder welke benaming ook verleende toeslag op een pensioen, een daarmede in aard overeenkomende uitkering of een onderstand bij wijze van pensioen ten laste van Suriname of een publiekrechtelijk lichaam in dat land.
+5. Onder een pensioen krachtens een andere regeling wordt in dit artikel verstaan een pensioen, een daarmee in aard overeenkomende uitkering, alsmede een onderstand bij wijze van pensioen ten laste van het Rijk, een provincie, een gemeente, een waterschap of de openbare lichamen Bonaire, Sint Eustatius of Saba, van de Stichting Pensioenfonds ABP, dan wel ten laste van Aruba, Curaçao en Sint Maarten of een publiekrechtelijk lichaam in deze landen of een door het openbaar gezag in een van deze landen ingesteld fonds, met inbegrip van de daarop onder welke benaming ook verleende toeslagen. Onder een pensioen krachtens een andere regeling wordt in dit artikel mede begrepen een ten laste van Nederland, Aruba, Curaçao en Sint Maarten onder welke benaming ook verleende toeslag op een pensioen, een daarmede in aard overeenkomende uitkering of een onderstand bij wijze van pensioen ten laste van Suriname of een publiekrechtelijk lichaam in dat land.
 
 6. Na beperking van een eigen pensioen volgens het eerste of tweede lid wordt de toegepaste beperkingsbreuk slechts gewijzigd, wanneer een pensioen krachtens een andere regeling wordt toegekend of beëindigd dan wel wordt herzien.
 
-7. Bij regeling van Onze Minister, Onze minister-president van de Nederlandse Antillen, onderscheidenlijk Onze minister-president van Aruba gehoord, kan de in het vijfde lid opgenomen opsomming worden aangevuld met andere regelingen en kunnen regelingen van de werking van dit artikel worden uitgezonderd.
+7. Bij regeling van Onze Minister, Onze minister-president van Aruba, van Curaçao, onderscheidenlijk van Sint Maarten gehoord, kan de in het vijfde lid opgenomen opsomming worden aangevuld met andere regelingen en kunnen regelingen van de werking van dit artikel worden uitgezonderd.
 
 ##### Artikel 19
 
@@ -195,13 +195,13 @@ Het bijzonder nabestaandenpensioen bedraagt 72% van het ouderdomspensioen, waaro
 
 2. Het eerste lid is van overeenkomstige toepassing op bijzonder nabestaandenpensioen.
 
-3. Onder een pensioen krachtens een andere regeling als bedoeld in het eerste lid wordt verstaan een pensioen ten laste van de Nederlandse schatkist - anders dan ingevolge wettelijke garanties of ingevolge overneming van de verplichting tot betaling -, ten laste van de Nederlandse Antillen, van een publiekrechtelijk lichaam in Nederland of in de Nederlandse Antillen, dan wel ten laste van een door het openbaar gezag in Nederland of de Nederlandse Antillen ingesteld fonds.
+3. Onder een pensioen krachtens een andere regeling als bedoeld in het eerste lid wordt verstaan een pensioen ten laste van de Nederlandse schatkist - anders dan ingevolge wettelijke garanties of ingevolge overneming van de verplichting tot betaling -, ten laste van Aruba, Curaçao of Sint Maarten, van een publiekrechtelijk lichaam in Nederland, Aruba, Curaçao of Sint Maarten, dan wel ten laste van een door het openbaar gezag in Nederland, Aruba, Curaçao of Sint Maarten ingesteld fonds.
 
 ##### Artikel 20
 
 1. Indien een wees die reeds recht op een wezenpensioen heeft, hetzij krachtens deze rijkswet, hetzij krachtens een andere regeling, daarna eveneens recht op enig ander wezenpensioen verkrijgt, hetzij krachtens deze rijkswet, hetzij krachtens een andere regeling, wordt voor de berekening van de eigen pensioenen waarvan die wezenpensioenen zijn afgeleid of geacht moeten worden te zijn afgeleid, samenlopende tijd slechts meegeteld bij de berekening van het pensioen, waarbij die tijd het hoogste bedrag oplevert.
 
-2. [Artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=19&z=2003-06-04&g=2003-06-04), is van overeenkomstige toepassing.
+2. [Artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=19&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing.
 
 #### Verval van pensioen en uitkering
 
@@ -213,7 +213,7 @@ Het bijzonder nabestaandenpensioen bedraagt 72% van het ouderdomspensioen, waaro
 
 ##### Artikel 22
 
-Het recht of het uitzicht op pensioen wordt bij koninklijk besluit, Onze minister-president van de Nederlandse Antillen alsmede de Raad van State van het Koninkrijk gehoord, geheel of gedeeltelijk vervallen verklaard, indien degene die dat recht of dat uitzicht heeft:
+Het recht of het uitzicht op pensioen wordt bij koninklijk besluit, Onze minister-president van Aruba, van Curaçao, onderscheidenlijk van Sint Maarten alsmede de Raad van State van het Koninkrijk gehoord, geheel of gedeeltelijk vervallen verklaard, indien degene die dat recht of dat uitzicht heeft:
 
 - a. zich in vreemde krijgs- of overheidsdienst naar Ons oordeel uit Nederlands nationaal oogpunt beschouwd onwaardig heeft gedragen;
 
@@ -223,11 +223,11 @@ Het recht of het uitzicht op pensioen wordt bij koninklijk besluit, Onze ministe
 
 ##### Artikel 23
 
-[Artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=22&z=2003-06-04&g=2003-06-04) is van overeenkomstige toepassing ten aanzien van het recht op uitkering als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=5&z=2003-06-04&g=2003-06-04).
+[Artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=22&z=2010-10-10&g=2010-10-10) is van overeenkomstige toepassing ten aanzien van het recht op uitkering als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=5&z=2010-10-10&g=2010-10-10).
 
 ##### Artikel 24
 
-In bijzondere gevallen kan bij koninklijk besluit, Onze minister-president van de Nederlandse Antillen alsmede de Raad van State van het Koninkrijk gehoord, een op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=22&z=2003-06-04&g=2003-06-04) of [23](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=23&z=2003-06-04&g=2003-06-04) vervallen recht of uitzicht op pensioen of uitkering geheel of gedeeltelijk worden hersteld.
+In bijzondere gevallen kan bij koninklijk besluit, Onze minister-president van Aruba, van Curaçao, onderscheidenlijk van Sint Maarten alsmede de Raad van State van het Koninkrijk gehoord, een op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=22&z=2010-10-10&g=2010-10-10) of [23](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=23&z=2010-10-10&g=2010-10-10) vervallen recht of uitzicht op pensioen of uitkering geheel of gedeeltelijk worden hersteld.
 
 #### Ingang en einde van pensioen en uitkering
 
@@ -249,13 +249,13 @@ In bijzondere gevallen kan bij koninklijk besluit, Onze minister-president van d
 
 ##### Artikel 27
 
-De [artikelen 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=25&z=2003-06-04&g=2003-06-04), en [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=26&z=2003-06-04&g=2003-06-04), zijn van overeenkomstige toepassing ten aanzien van het recht op uitkering als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=5&z=2003-06-04&g=2003-06-04).
+De [artikelen 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=25&z=2010-10-10&g=2010-10-10), en [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=26&z=2010-10-10&g=2010-10-10), zijn van overeenkomstige toepassing ten aanzien van het recht op uitkering als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=5&z=2010-10-10&g=2010-10-10).
 
 ##### Artikel 28
 
 1. Zo spoedig mogelijk na het overlijden van een gewezen Gouverneur kent Onze Minister aan de nabestaande van wie de overledene niet duurzaam gescheiden leefde, een uitkering toe ten bedrage van de uitkering over een tijdvak van acht weken die de gewezen Gouverneur op de dag van overlijden genoot. Laat de overledene geen nabestaande na als bedoeld in de eerste volzin, dan geschiedt de uitkering ten behoeve van de kinderen, geadopteerde kinderen of pleegkinderen van de overledene die de leeftijd van eenentwintig jaar nog niet hebben bereikt en niet gehuwd of gehuwd geweest zijn.
 
-2. Het eerste lid is van overeenkomstige toepassing in geval van vermissing van een gewezen Gouverneur als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=13&z=2003-06-04&g=2003-06-04).
+2. Het eerste lid is van overeenkomstige toepassing in geval van vermissing van een gewezen Gouverneur als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=13&z=2010-10-10&g=2010-10-10).
 
 3. Indien de overledene geen betrekkingen als bedoeld in het eerste lid nalaat, kan Onze Minister het daar bedoelde bedrag geheel of ten dele bestemmen voor de betaling van de kosten van de laatste ziekte en van de lijkbezorging, indien de nalatenschap voor de betaling van die kosten ontoereikend is.
 
@@ -263,15 +263,15 @@ De [artikelen 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&ar
 
 1. Zo spoedig mogelijk na het overlijden van een gepensioneerd Gouverneur kent Onze Minister aan de nabestaande van wie de gepensioneerd Gouverneur niet duurzaam gescheiden leefde, een uitkering toe ten bedrage van het ouderdomspensioen over een tijdvak van acht weken. Laat de overledene geen nabestaande na als bedoeld in de eerste volzin, dan geschiedt de uitkering ten behoeve van de kinderen, geadopteerde kinderen, of pleegkinderen van de overledene die de leeftijd van eenentwintig jaar nog niet hebben bereikt en niet gehuwd of gehuwd geweest zijn.
 
-2. Het eerste lid is van overeenkomstige toepassing in geval van vermissing van een gepensioneerd Gouverneur als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=13&z=2003-06-04&g=2003-06-04).
+2. Het eerste lid is van overeenkomstige toepassing in geval van vermissing van een gepensioneerd Gouverneur als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=13&z=2010-10-10&g=2010-10-10).
 
 3. Indien de overledene geen betrekkingen als bedoeld in het eerste lid nalaat, kan Onze Minister het daar bedoelde bedrag geheel of ten dele bestemmen voor de betaling van de kosten van de laatste ziekte en van de lijkbezorging, indien de nalatenschap voor de betaling van die kosten ontoereikend is.
 
 ##### Artikel 30
 
-1. Indien meer pensioen of uitkering is betaald dan overeenstemt met de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=26&z=2003-06-04&g=2003-06-04) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=27&z=2003-06-04&g=2003-06-04), wordt het teveel betaalde teruggevorderd voor zover verrekening daarvan kan plaatsvinden met de uitkering krachtens [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=28&z=2003-06-04&g=2003-06-04) of [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=29&z=2003-06-04&g=2003-06-04).
+1. Indien meer pensioen of uitkering is betaald dan overeenstemt met de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=26&z=2010-10-10&g=2010-10-10) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=27&z=2010-10-10&g=2010-10-10), wordt het teveel betaalde teruggevorderd voor zover verrekening daarvan kan plaatsvinden met de uitkering krachtens [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=28&z=2010-10-10&g=2010-10-10) of [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=29&z=2010-10-10&g=2010-10-10).
 
-2. Indien een vermiste in leven blijkt te zijn, kan hetgeen aan tijdelijk pensioen en aan uitkering ingevolge [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=28&z=2003-06-04&g=2003-06-04) of [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=29&z=2003-06-04&g=2003-06-04) is betaald worden teruggevorderd.
+2. Indien een vermiste in leven blijkt te zijn, kan hetgeen aan tijdelijk pensioen en aan uitkering ingevolge [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=28&z=2010-10-10&g=2010-10-10) of [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=29&z=2010-10-10&g=2010-10-10) is betaald worden teruggevorderd.
 
 #### Administratieve bepalingen
 
@@ -317,7 +317,7 @@ Tegen een besluit op grond van deze rijkswet kan een belanghebbende beroep inste
 
 1. Een herzieningsbeschikking werkt terug tot het tijdstip van inwerkingtreding van de herziene beschikking, tenzij de herzieningsbeschikking anders bepaalt.
 
-2. Indien een beschikking als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=35&z=2003-06-04&g=2003-06-04) is genomen binnen vier maanden na de dagtekening van de herziene of herstelde beschikking, onderscheidenlijk binnen vier maanden nadat Onze Minister bericht heeft ontvangen van wijziging in de feiten als bedoeld in [artikel 35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=35&z=2003-06-04&g=2003-06-04), is Onze Minister bevoegd tot terugvordering of verrekening van de te veel betaalde bedragen.
+2. Indien een beschikking als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=35&z=2010-10-10&g=2010-10-10) is genomen binnen vier maanden na de dagtekening van de herziene of herstelde beschikking, onderscheidenlijk binnen vier maanden nadat Onze Minister bericht heeft ontvangen van wijziging in de feiten als bedoeld in [artikel 35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=35&z=2010-10-10&g=2010-10-10), is Onze Minister bevoegd tot terugvordering of verrekening van de te veel betaalde bedragen.
 
 3. Terugvordering of verrekening van teveel betaalde bedragen vindt, behoudens het tweede lid, slechts plaats indien belanghebbende redelijkerwijs had moeten begrijpen dat er teveel werd uitbetaald, onderscheidenlijk indien belanghebbende heeft nagelaten Onze Minister kennis te geven van een wijziging in de feiten, hoewel dit redelijkerwijs van belanghebbende mocht worden verwacht.
 
@@ -333,19 +333,19 @@ Behoudens het bepaalde in de volgende artikelen worden op het tijdstip van inwer
 
 ##### Artikel 39
 
-Onverminderd het bepaalde in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=40&z=2003-06-04&g=2003-06-04) worden alle pensioenen die voor de datum van inwerkingtreding van deze rijkswet krachtens de in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=38&z=2003-06-04&g=2003-06-04) genoemde koninklijke besluiten zijn toegekend, geacht krachtens deze rijkswet te zijn toegekend.
+Onverminderd het bepaalde in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=40&z=2010-10-10&g=2010-10-10) worden alle pensioenen die voor de datum van inwerkingtreding van deze rijkswet krachtens de in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=38&z=2010-10-10&g=2010-10-10) genoemde koninklijke besluiten zijn toegekend, geacht krachtens deze rijkswet te zijn toegekend.
 
 ##### Artikel 40
 
-1. De voor de datum van inwerkingtreding van deze rijkswet krachtens de in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=38&z=2003-06-04&g=2003-06-04) genoemde koninklijke besluiten verworven rechten en uitzichten blijven gehandhaafd.
+1. De voor de datum van inwerkingtreding van deze rijkswet krachtens de in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=38&z=2010-10-10&g=2010-10-10) genoemde koninklijke besluiten verworven rechten en uitzichten blijven gehandhaafd.
 
 2. Het bepaalde in het eerste lid geldt voor de Gouverneurs die voor het tijdstip van inwerkingtreding van deze rijkswet, doch na 1 januari 1962 als zodanig bij koninklijk besluit zijn benoemd op grond van [artikel 1, tweede lid, van het Reglement voor de Gouverneur van de Nederlandse Antillen](onbekend), onderscheidenlijk artikel 1, tweede lid, van het Reglement voor de Gouverneur van Suriname, alsmede voor hun nagelaten betrekkingen.
 
-3. Onverminderd het bepaalde in het eerste lid zijn de [artikelen 31 tot en met 37 van deze rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=31&z=2003-06-04&g=2003-06-04) van toepassing op de belanghebbenden als bedoeld in het tweede lid.
+3. Onverminderd het bepaalde in het eerste lid zijn de [artikelen 31 tot en met 37 van deze rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=31&z=2010-10-10&g=2010-10-10) van toepassing op de belanghebbenden als bedoeld in het tweede lid.
 
 ##### Artikel 41
 
-De [artikelen 34 tot en met 37](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=34&z=2003-06-04&g=2003-06-04) zijn van toepassing met betrekking tot aanspraken, ontleend aan het koninklijk besluit van 8 juni 1953, nr. 22.
+De [artikelen 34 tot en met 37](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=34&z=2010-10-10&g=2010-10-10) zijn van toepassing met betrekking tot aanspraken, ontleend aan het koninklijk besluit van 8 juni 1953, nr. 22.
 
 #### Slotbepaling
 
@@ -357,9 +357,9 @@ Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de
 
 ##### Artikel 18a
 
-1. [Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=18&z=2003-06-04&g=2003-06-04) is van overeenkomstige toepassing indien voor een nabestaande, naast recht op een of meer nabestaandenpensioenen ingevolge deze rijkswet recht bestaat op een of meer nabestaandenpensioenen krachtens een andere regeling, met dien verstande dat voor het in het [derde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=18&z=2003-06-04&g=2003-06-04) bedoelde grensbedrag en het in het [vierde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=18&z=2003-06-04&g=2003-06-04) bedoelde hogere bedrag, met betrekking tot een nabestaandenpensioen krachtens [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=16&z=2003-06-04&g=2003-06-04), 14% en met betrekking tot een nabestaandenpensioen krachtens [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=16&z=2003-06-04&g=2003-06-04), 28% van die bedragen in de plaats komt.
+1. [Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=18&z=2010-10-10&g=2010-10-10) is van overeenkomstige toepassing indien voor een nabestaande, naast recht op een of meer nabestaandenpensioenen ingevolge deze rijkswet recht bestaat op een of meer nabestaandenpensioenen krachtens een andere regeling, met dien verstande dat voor het in het [derde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=18&z=2010-10-10&g=2010-10-10) bedoelde grensbedrag en het in het [vierde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=18&z=2010-10-10&g=2010-10-10) bedoelde hogere bedrag, met betrekking tot een nabestaandenpensioen krachtens [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=16&z=2010-10-10&g=2010-10-10), 14% en met betrekking tot een nabestaandenpensioen krachtens [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=16&z=2010-10-10&g=2010-10-10), 28% van die bedragen in de plaats komt.
 
-2. De gedeelten van de nabestaandenpensioenen en bijzondere nabestaandenpensioenen, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=14&z=2003-06-04&g=2003-06-04), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=15&z=2003-06-04&g=2003-06-04) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=16&z=2003-06-04&g=2003-06-04), gaan tezamen het bedrag waarvan die pensioenen zijn afgeleid niet te boven.
+2. De gedeelten van de nabestaandenpensioenen en bijzondere nabestaandenpensioenen, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=14&z=2010-10-10&g=2010-10-10), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=15&z=2010-10-10&g=2010-10-10) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0004670&artikel=16&z=2010-10-10&g=2010-10-10), gaan tezamen het bedrag waarvan die pensioenen zijn afgeleid niet te boven.
 
 3. Indien wegens toepassing van het tweede lid de daar bedoelde pensioengedeelten een vermindering moeten ondergaan, geschiedt deze in evenredigheid van de onderscheiden bedragen.
 
@@ -376,5 +376,17 @@ Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de
 #### Overgangsbepalingen
 
 #### Slotbepaling
+
+Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 41a
+
+Aanspraken op een uitkering of pensioen op grond van deze rijkswet, zoals die luidde voor de inwerkingtreding van de [Rijkswet aanpassing rijkswetten aan de oprichting van de nieuwe landen](onbekend), worden geacht te zijn opgebouwd op grond van deze rijkswet, zoals die luidt na de inwerkingtreding van de Rijkswet aanpassing rijkswetten aan de oprichting van de nieuwe landen.
+
+#### Slotbepalingen
+
+##### Artikel 41b
+
+Deze rijkswet wordt aangehaald als: Rijkswet pensioenen en uitkeringen aan Gouverneurs van Aruba, Curaçao en Sint Maarten.
 
 Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
