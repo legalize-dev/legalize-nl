@@ -4,7 +4,7 @@ identifier: "BWBR0029349"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-04-01"
-last_updated: "2009-01-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029349"
 soort: "ministeriele-regeling"
@@ -62,8 +62,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel III
 
 Wijzigt de Uitvoeringsregeling loonbelasting 2001.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
@@ -202,8 +200,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXVII
 
 Wijzigt de Uitvoeringsregeling internationale bijstandsverlening bij de heffing van belastingen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXVIII
 
