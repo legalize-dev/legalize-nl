@@ -4,7 +4,7 @@ identifier: "BWBR0028249"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2010-10-10"
-last_updated: "2010-09-16"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028249"
 soort: "rijkswet"
@@ -46,11 +46,15 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+1. Curaçao en Sint Maarten hebben elk de hoedanigheid van land in het Koninkrijk.
+
+2. Bonaire, Sint Eustatius en Saba zijn onderdeel van het staatsbestel van Nederland.
+
+3. Het land de Nederlandse Antillen is opgeheven.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Statuut voor het Koninkrijk der Nederlanden.
 
 ##### Artikel III
 
@@ -60,7 +64,7 @@ Wijzigt het Statuut voor het Koninkrijk der Nederlanden.
 
 1. Deze rijkswet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
-2. In afwijking van het eerste lid, treden de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I&z=2010-09-16&g=2010-09-16) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=II&z=2010-09-16&g=2010-09-16) van deze rijkswet in werking op een bij koninklijk besluit te bepalen tijdstip, dat niet ligt voor het tijdstip van inwerkingtreding van de [Rijkswet financieel toezicht Curaçao en Sint Maarten](https://wetten.overheid.nl/jci1.3:c:BWBR0028132), de [Rijkswet Gemeenschappelijk Hof van Justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0028070), de [Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028072), de [Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079) en de [Rijkswet Raad voor de rechtshandhaving](https://wetten.overheid.nl/jci1.3:c:BWBR0028075), en dat voor de verschillende onderdelen van artikel I en II verschillend kan worden vastgesteld.
+2. In afwijking van het eerste lid, treden de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I&z=2010-10-10&g=2010-10-10) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=II&z=2010-10-10&g=2010-10-10) van deze rijkswet in werking op een bij koninklijk besluit te bepalen tijdstip, dat niet ligt voor het tijdstip van inwerkingtreding van de [Rijkswet financieel toezicht Curaçao en Sint Maarten](https://wetten.overheid.nl/jci1.3:c:BWBR0028132), de [Rijkswet Gemeenschappelijk Hof van Justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0028070), de [Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028072), de [Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079) en de [Rijkswet Raad voor de rechtshandhaving](https://wetten.overheid.nl/jci1.3:c:BWBR0028075), en dat voor de verschillende onderdelen van artikel I en II verschillend kan worden vastgesteld.
 
 ##### Artikel V
 
@@ -68,6 +72,6 @@ Deze rijkswet wordt aangehaald als: Rijkswet wijziging Statuut in verband met de
 
 ##### Artikel VI
 
-De tekst van het Statuut voor het Koninkrijk der Nederlanden wordt na de inwerkingtreding van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I&z=2010-09-16&g=2010-09-16) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=II&z=2010-09-16&g=2010-09-16) van deze rijkswet in het Staatsblad, het Publicatieblad van Curaçao, het Afkondigingsblad van Aruba en het Afkondigingsblad van Sint Maarten geplaatst.
+De tekst van het Statuut voor het Koninkrijk der Nederlanden wordt na de inwerkingtreding van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I&z=2010-10-10&g=2010-10-10) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=II&z=2010-10-10&g=2010-10-10) van deze rijkswet in het Staatsblad, het Publicatieblad van Curaçao, het Afkondigingsblad van Aruba en het Afkondigingsblad van Sint Maarten geplaatst.
 
 Lasten en bevelen dat deze in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst en dat alle ministeries, autoriteiten, colleges, en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
