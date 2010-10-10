@@ -4,7 +4,7 @@ identifier: "BWBR0029375"
 country: "nl"
 rank: "amvb"
 publication_date: "2011-02-24"
-last_updated: "2010-05-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029375"
 soort: "AMvB"
@@ -52,7 +52,7 @@ Wijzigt het Uitvoeringsbesluit inkomstenbelasting 2001.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit loonbelasting 1965.
 
 ##### Artikel III
 
@@ -108,7 +108,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit Algemene wet inzake rijksbelastingen 1964.
 
 ##### Artikel XVII
 
