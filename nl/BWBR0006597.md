@@ -4,7 +4,7 @@ identifier: "BWBR0006597"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2010-10-10"
-last_updated: "1997-01-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006597"
 soort: "rijkswet"
@@ -61,15 +61,17 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel IV
 
-De commissaris van de Koning adviseert Onze Minister wie het aangaat volgens een door de regering gegeven ambtsinstructie over de verlening van onderscheidingen in de Orde van de Nederlandse Leeuw en de Orde van Oranje-Nassau aan inwoners van de provincie.
+1. De commissaris van de Koning adviseert Onze Minister wie het aangaat volgens een door de regering gegeven ambtsinstructie over de verlening van onderscheidingen in de Orde van de Nederlandse Leeuw en de Orde van Oranje-Nassau aan inwoners van de provincie.
+
+2. De Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba adviseert Onze Minister wie het aangaat volgens een door de regering gegeven ambtsinstructie over de verlening van onderscheidingen in de Orde van de Nederlandse Leeuw en de Orde van Oranje-Nassau aan inwoners van de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 ##### Artikel V
 
-- a. Gehandhaafd blijven alle benoemingen tot Broeder, verbonden aan de Orde van de Nederlandse Leeuw, zoals deze hebben plaatsgevonden voor de inwerkingtreding van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0006597&artikel=II&z=1997-01-01&g=1997-01-01) van deze wet.
+- a. Gehandhaafd blijven alle benoemingen tot Broeder, verbonden aan de Orde van de Nederlandse Leeuw, zoals deze hebben plaatsgevonden voor de inwerkingtreding van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0006597&artikel=II&z=2010-10-10&g=2010-10-10) van deze wet.
 
-- b. De toelagen die de Broeders, verbonden aan de Orde van de Nederlandse Leeuw, alsmede die welke de weduwen van Broeders genieten op de dag van inwerkingtreding van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0006597&artikel=II&z=1997-01-01&g=1997-01-01) van deze wet, blijven na de inwerkingtreding van [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0006597&artikel=II&z=1997-01-01&g=1997-01-01) van kracht.
+- b. De toelagen die de Broeders, verbonden aan de Orde van de Nederlandse Leeuw, alsmede die welke de weduwen van Broeders genieten op de dag van inwerkingtreding van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0006597&artikel=II&z=2010-10-10&g=2010-10-10) van deze wet, blijven na de inwerkingtreding van [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0006597&artikel=II&z=2010-10-10&g=2010-10-10) van kracht.
 
-- a. Gehandhaafd blijven alle koninklijke besluiten waarbij de eremedailles in brons, zilver en goud zijn verleend, zoals deze zijn genomen voor de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0006597&artikel=I&z=1997-01-01&g=1997-01-01) van deze wet.
+- a. Gehandhaafd blijven alle koninklijke besluiten waarbij de eremedailles in brons, zilver en goud zijn verleend, zoals deze zijn genomen voor de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0006597&artikel=I&z=2010-10-10&g=2010-10-10) van deze wet.
 
 - b. Het lint van de eremedaille mag als draagteken zonder de eremedaille worden gedragen.
 
