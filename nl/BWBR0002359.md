@@ -4,7 +4,7 @@ identifier: "BWBR0002359"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2008-10-03"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002359"
 soort: "wet"
@@ -46,15 +46,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. Onder de naam 'kansspelbelasting' wordt een directe belasting geheven van:
 
-- a. degene die gelegenheid geeft tot deelname aan binnenlandse casinospelen alsmede de exploitant van een binnen het Rijk geplaatste fysieke speelautomaat, ingericht voor de beoefening van een kansspel, dat bestaat uit een door de speler in werking gesteld mechanisch, elektrisch of elektronisch proces, waarbij het resultaat kan leiden tot rechtstreekse of niet-rechtstreekse uitkering van prijzen, met inbegrip van extra speelduur (kansspelautomatenspel);
+- a. degene die gelegenheid geeft tot deelname aan binnenlandse casinospelen alsmede de exploitant van een in Nederland geplaatste fysieke speelautomaat, ingericht voor de beoefening van een kansspel, dat bestaat uit een door de speler in werking gesteld mechanisch, elektrisch of elektronisch proces, waarbij het resultaat kan leiden tot rechtstreekse of niet-rechtstreekse uitkering van prijzen, met inbegrip van extra speelduur (kansspelautomatenspel);
 
 - b. degene die gelegenheid geeft tot deelneming aan binnenlandse kansspelen welke via het internet worden gespeeld;
 
 - c. de gerechtigden tot de prijzen van binnenlandse kansspelen, niet zijnde casinospelen, kansspelautomatenspelen of kansspelen welke via het internet worden gespeeld;
 
-- d. de binnen het Rijk wonende of gevestigde gerechtigden tot de prijzen van buitenlandse kansspelen, niet zijnde kansspelen welke via het internet worden gespeeld;
+- d. de in Nederland wonende of gevestigde gerechtigden tot de prijzen van buitenlandse kansspelen, niet zijnde kansspelen welke via het internet worden gespeeld;
 
-- e. de binnen het Rijk wonende of gevestigde gerechtigden tot de prijzen van buitenlandse kansspelen welke via het internet worden gespeeld.
+- e. de in Nederland wonende of gevestigde gerechtigden tot de prijzen van buitenlandse kansspelen welke via het internet worden gespeeld.
 
 2. Onder exploitant als bedoeld in het eerste lid, onderdeel a, wordt verstaan degene die een kansspelautomaat exploiteert in de zin van [artikel 30h, tweede lid, van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30h).
 
@@ -66,7 +66,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - b. prijzen en premies, uitgeloofd ten behoeve van de deelnemers aan een prijsvraag van welke aard ook, tenzij een wetenschappelijke of kunstzinnige prestatie wordt gevorderd, dan wel een prestatie waarmee het algemeen maatschappelijk belang wordt gediend.
 
-2. Kansspelen worden als binnenlands beschouwd, indien zij worden gehouden door natuurlijke personen of door lichamen in de zin van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) (Stb. 1959, 301), van wie een of meer binnen het Rijk wonen of zijn gevestigd.
+2. Kansspelen worden als binnenlands beschouwd, indien zij worden gehouden door natuurlijke personen of door lichamen in de zin van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) (Stb. 1959, 301), van wie een of meer in Nederland wonen of zijn gevestigd.
 
 3. Kansspelen worden als buitenlands beschouwd, indien zij niet vallen onder het tweede lid.
 
@@ -76,11 +76,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. De belasting wordt geheven:
 
-- a. in de gevallen waarin [artikel 1, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2008-10-03&g=2008-10-03), van toepassing is, naar het verschil tussen de in een tijdvak ontvangen inzetten en de ter beschikking gestelde prijzen, dan wel, zo een ander dan de belastingplichtige de prijzen ter beschikking stelt, naar hetgeen in een tijdvak ontvangen wordt voor het geven van gelegenheid tot deelneming aan casinospelen of tot deelneming aan binnenlandse kansspelen welke via het internet worden gespeeld;
+- a. in de gevallen waarin [artikel 1, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2010-10-10&g=2010-10-10), van toepassing is, naar het verschil tussen de in een tijdvak ontvangen inzetten en de ter beschikking gestelde prijzen, dan wel, zo een ander dan de belastingplichtige de prijzen ter beschikking stelt, naar hetgeen in een tijdvak ontvangen wordt voor het geven van gelegenheid tot deelneming aan casinospelen of tot deelneming aan binnenlandse kansspelen welke via het internet worden gespeeld;
 
-- b. in de gevallen waarin [artikel 1, eerste lid, onderdeel c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2008-10-03&g=2008-10-03), van toepassing is, naar de prijzen;
+- b. in de gevallen waarin [artikel 1, eerste lid, onderdeel c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2010-10-10&g=2010-10-10), van toepassing is, naar de prijzen;
 
-- c. in de gevallen waarin [artikel 1, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2008-10-03&g=2008-10-03), van toepassing is, naar het positieve verschil tussen de in een kalendermaand gewonnen prijzen en de in die kalendermaand gedane inzetten.
+- c. in de gevallen waarin [artikel 1, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2010-10-10&g=2010-10-10), van toepassing is, naar het positieve verschil tussen de in een kalendermaand gewonnen prijzen en de in die kalendermaand gedane inzetten.
 
 2. Onder prijzen worden verstaan alle goederen waaraan in het economische verkeer waarde kan worden toegekend, welke aan de deelnemers van de kansspelen uit hoofde van hun deelneming toevallen.
 
@@ -90,7 +90,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 4
 
-1. Indien [artikel 1, eerste lid, onderdeel c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2008-10-03&g=2008-10-03), van toepassing is, is van de belasting vrijgesteld:
+1. Indien [artikel 1, eerste lid, onderdeel c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2010-10-10&g=2010-10-10), van toepassing is, is van de belasting vrijgesteld:
 
 - a. de prijs welke niet meer bedraagt dan € 454;
 
@@ -104,17 +104,17 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. De belasting bedraagt 29 percent.
 
-2. Neemt, in het geval waarin [artikel 1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2008-10-03&g=2008-10-03), van toepassing is, degene die de prijs verschuldigd is, de belasting voor zijn rekening, dan wordt voor het berekenen van de belasting de prijs met 100/71 vermenigvuldigd.
+2. Neemt, in het geval waarin [artikel 1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2010-10-10&g=2010-10-10), van toepassing is, degene die de prijs verschuldigd is, de belasting voor zijn rekening, dan wordt voor het berekenen van de belasting de prijs met 100/71 vermenigvuldigd.
 
 ### Hoofdstuk V. Wijze van heffing
 
 ##### Artikel 5a
 
-1. In de gevallen waarin [artikel 1, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2008-10-03&g=2008-10-03), van toepassing is, moet de in een tijdvak verschuldigd geworden belasting op aangifte worden voldaan.
+1. In de gevallen waarin [artikel 1, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2010-10-10&g=2010-10-10), van toepassing is, moet de in een tijdvak verschuldigd geworden belasting op aangifte worden voldaan.
 
-2. De belasting is verschuldigd op de laatste dag van het tijdvak, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=II&artikel=3&z=2008-10-03&g=2008-10-03).
+2. De belasting is verschuldigd op de laatste dag van het tijdvak, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=II&artikel=3&z=2010-10-10&g=2010-10-10).
 
-3. Indien het in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=II&artikel=3&z=2008-10-03&g=2008-10-03), bedoelde verschil over een tijdvak negatief is, wordt het verrekend met het positieve verschil over een volgend tijdvak. De verrekening geschiedt in de volgorde waarin zich negatieve en positieve verschillen voordoen.
+3. Indien het in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=II&artikel=3&z=2010-10-10&g=2010-10-10), bedoelde verschil over een tijdvak negatief is, wordt het verrekend met het positieve verschil over een volgend tijdvak. De verrekening geschiedt in de volgorde waarin zich negatieve en positieve verschillen voordoen.
 
 ##### Artikel 5b
 
@@ -122,7 +122,7 @@ De belastingplichtige is gehouden volgens door Onze Minister te stellen regelen 
 
 ##### Artikel 6
 
-1. In de gevallen waarin [artikel 1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2008-10-03&g=2008-10-03), van toepassing is, wordt de belasting geheven door inhouding op de prijs.
+1. In de gevallen waarin [artikel 1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2010-10-10&g=2010-10-10), van toepassing is, wordt de belasting geheven door inhouding op de prijs.
 
 2. Inhoudingsplichtige is degene die de prijs verschuldigd is.
 
@@ -138,7 +138,7 @@ De belastingplichtige is gehouden volgens door Onze Minister te stellen regelen 
 
 ##### Artikel 8
 
-1. In de gevallen waarin [artikel 1, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2008-10-03&g=2008-10-03), van toepassing is, moet de belasting op aangifte worden voldaan.
+1. In de gevallen waarin [artikel 1, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2010-10-10&g=2010-10-10), van toepassing is, moet de belasting op aangifte worden voldaan.
 
 2. De belasting wordt verschuldigd op het tijdstip waarop de prijs:
 
@@ -204,9 +204,9 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 8a
 
-1. In de gevallen waarin [artikel 1, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2008-10-03&g=2008-10-03), van toepassing is, moet de belasting op aangifte worden voldaan.
+1. In de gevallen waarin [artikel 1, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=I&artikel=1&z=2010-10-10&g=2010-10-10), van toepassing is, moet de belasting op aangifte worden voldaan.
 
-2. De belasting is verschuldigd op de laatste dag van de kalendermaand, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=II&artikel=3&z=2008-10-03&g=2008-10-03).
+2. De belasting is verschuldigd op de laatste dag van de kalendermaand, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002359&hoofdstuk=II&artikel=3&z=2010-10-10&g=2010-10-10).
 
 ### Hoofdstuk VI. Strafbepaling
 
