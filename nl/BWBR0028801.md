@@ -169,24 +169,3 @@ NOTE
 The service units rendered each year are calculated using the relevant civil aviation traffic statistics.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage 2. behorende bij [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028801&artikel=2&z=2012-10-01&g=2012-10-01), van de Regeling vergoedingen luchtverkeersdienstverlening BES
-
-Formule voor de berekening van het eenheidstarief voor vergoedingen van luchtverkeersdiensten naderings- en terminalverkeer.
-
-- 1. De vergoeding wordt berekend op basis van de volgende formule r = ti x d x p, waarin wordt verstaan onder: r: de vergoeding; ti: eenheidstarief in USD, dat wordt vastgesteld door de Minister voor een combinatie van één landing en één start; d: de factor afstand, die gelijk is aan de gevlogen afstand in de naderings- en terminalheffingenzone, gemeten in kilometers gedeeld door 100 kilometers; p: de factor gewicht bepaald per categorie Maximaal Toegelaten Totaal-gewicht (‘maximum certified take-off weight’) conform onderstaande tabel
-
-| Categorie | MTOW (in tonnen) | Factor |
-| --- | --- | --- |
-| 1 | 0–2 | 0,14 |
-| 2 | 2–5,7 | 0,26 |
-| 3 | 5,7–25 | 0,55 |
-| 4 | 25–50 | 0,87 |
-| 5 | 50–100 | 1,22 |
-| 6 | 100–150 | 1,58 |
-| 7 | 150–250 | 2,00 |
-| 8 | Meer 250 | 2,45 |
-
-- 2. Wanneer een betalingsplichtige twee of meer luchtvaartuigen van hetzelfde type, maar in verschillende uitvoeringen te zijner beschikking heeft, wordt als het gewicht voor de berekening van de vergoeding genomen het gemiddelde van de maximaal toegelaten totaalgewichten van de verschillende uitvoeringen. Deze berekening wordt tenminste ieder jaar herhaald. Voor zover gegevens beschikbaar zijn wordt voor de berekening het gewicht van de zwaarste uitvoering van het desbetreffende type luchtvaartuig gehanteerd.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
