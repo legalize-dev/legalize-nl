@@ -4,7 +4,7 @@ identifier: "BWBR0018784"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-01"
-last_updated: "2006-02-22"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018784"
 soort: "wet"
@@ -74,7 +74,7 @@ In deze wet wordt verstaan onder:
 
 1. Op het tijdstip waarop deze wet in werking treedt, geldt als schrijfwijze van de Nederlandse taal de schrijfwijze waartoe het Comité van Ministers op 21 maart 1994, 24 oktober 1994 en 25 september 1995 heeft beslist.
 
-2. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018784&artikel=3&z=2006-02-22&g=2006-02-22) is van overeenkomstige toepassing op een beslissing van het Comité van Ministers betreffende de schrijfwijze van de Nederlandse taal, die na 25 september 1995 maar voor het tijdstip van inwerkingtreding van deze wet is genomen.
+2. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018784&artikel=3&z=2010-10-10&g=2010-10-10) is van overeenkomstige toepassing op een beslissing van het Comité van Ministers betreffende de schrijfwijze van de Nederlandse taal, die na 25 september 1995 maar voor het tijdstip van inwerkingtreding van deze wet is genomen.
 
 ##### Artikel 5
 
@@ -87,5 +87,11 @@ Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van he
 ##### Artikel 7
 
 Deze wet wordt aangehaald als: Spellingwet.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 1a
+
+Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
