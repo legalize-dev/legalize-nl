@@ -4,7 +4,7 @@ identifier: "BWBR0015918"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2010-10-10"
-last_updated: "2004-01-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015918"
 soort: "rijksKB"
@@ -105,7 +105,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-Aan de Gevolmachtigde Minister van de Nederlandse Antillen is een vergoeding verschuldigd voor het legaliseren van een document dan wel van een handtekening, alsmede voor het behandelen van een aanvraag om een visum voor de Nederlandse Antillen. Deze vergoeding is gelijk aan de vergoeding die op grond van [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015918&artikel=1&z=2004-01-01&g=2004-01-01), is verschuldigd voor de daarmee overeenkomende door Onze Minister verleende dienst.
+Aan de Gevolmachtigde Ministers van Curaçao onderscheidenlijk van Sint Maarten is een vergoeding verschuldigd voor het legaliseren van een document dan wel van een handtekening, alsmede voor het behandelen van een aanvraag om een visum voor Curaçao onderscheidenlijk Sint Maarten. Deze vergoeding is gelijk aan de vergoeding die op grond van [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015918&artikel=1&z=2010-10-10&g=2010-10-10), is verschuldigd voor de daarmee overeenkomende door Onze Minister verleende dienst.
 
 ##### Artikel 3
 
