@@ -4,7 +4,7 @@ identifier: "BWBR0011530"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2010-10-10"
-last_updated: "2003-09-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011530"
 soort: "rijksKB"
@@ -106,7 +106,7 @@ Bij gebruik van fysiek geweld dan wel een geweldmiddel wordt in verhouding tot h
 
 ##### Artikel 8
 
-1. De bewaker die geweld heeft aangewend, waaronder begrepen het geven van een waarschuwingsschot als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011530&paragraaf=2&artikel=5&z=2003-09-01&g=2003-09-01), meldt de feiten en omstandigheden dienaangaande, alsmede de gevolgen hiervan, onverwijld aan zijn meerdere.
+1. De bewaker die geweld heeft aangewend, waaronder begrepen het geven van een waarschuwingsschot als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011530&paragraaf=2&artikel=5&z=2010-10-10&g=2010-10-10), meldt de feiten en omstandigheden dienaangaande, alsmede de gevolgen hiervan, onverwijld aan zijn meerdere.
 
 2. De melding, bedoeld in het eerste lid, wordt door de meerdere terstond vastgelegd in een schriftelijk rapport. De meerdere doet het rapport onverwijld toekomen aan de commandant of een voor de toepassing van dit artikel daarmee gelijk te stellen functionaris.
 
@@ -116,7 +116,7 @@ Bij gebruik van fysiek geweld dan wel een geweldmiddel wordt in verhouding tot h
 
 ##### Artikel 9
 
-1. Het gebruik van een vuurwapen als bedoeld in [artikel 6, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011530&paragraaf=2&artikel=6&z=2003-09-01&g=2003-09-01), is slechts geoorloofd:
+1. Het gebruik van een vuurwapen als bedoeld in [artikel 6, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011530&paragraaf=2&artikel=6&z=2010-10-10&g=2010-10-10), is slechts geoorloofd:
 
 - a. tegen een persoon indien redelijkerwijs mag worden aangenomen dat die persoon een voor onmiddellijk gebruik gereed zijnd vuurwapen bij zich heeft en dat tegen personen zal gebruiken dan wel ander levensbedreigend geweld tegen personen zal gebruiken;
 
@@ -126,7 +126,7 @@ Bij gebruik van fysiek geweld dan wel een geweldmiddel wordt in verhouding tot h
 
 ##### Artikel 10
 
-Bij gebruik van een vuurwapen als bedoeld in [artikel 6, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011530&paragraaf=2&artikel=6&z=2003-09-01&g=2003-09-01), wordt het volgende in acht genomen:
+Bij gebruik van een vuurwapen als bedoeld in [artikel 6, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011530&paragraaf=2&artikel=6&z=2010-10-10&g=2010-10-10), wordt het volgende in acht genomen:
 
 - a. zwaar lichamelijk letsel of erger wordt zo veel mogelijk voorkomen;
 
@@ -136,7 +136,7 @@ Bij gebruik van een vuurwapen als bedoeld in [artikel 6, eerste lid, onder a](ht
 
 ##### Artikel 11
 
-De bewaker mag slechts uit voorzorg een vuurwapen ter hand nemen indien redelijkerwijs mag worden aangenomen dat een situatie als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0011530&paragraaf=3&artikel=9&z=2003-09-01&g=2003-09-01) ontstaat, waarin hij bevoegd is het vuurwapen te gebruiken. Zodra blijkt dat een dergelijke situatie zich niet voordoet, wordt het ter hand nemen van het vuurwapen beëindigd.
+De bewaker mag slechts uit voorzorg een vuurwapen ter hand nemen indien redelijkerwijs mag worden aangenomen dat een situatie als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0011530&paragraaf=3&artikel=9&z=2010-10-10&g=2010-10-10) ontstaat, waarin hij bevoegd is het vuurwapen te gebruiken. Zodra blijkt dat een dergelijke situatie zich niet voordoet, wordt het ter hand nemen van het vuurwapen beëindigd.
 
 #### Paragraaf 4. Handboeien
 
@@ -186,11 +186,15 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - c. geweld: elke dwangmatige kracht van meer dan geringe betekenis, uitgeoefend op personen of zaken;
 
-- d. geweldmiddel: een geweldmiddel als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011530&paragraaf=2&artikel=6&z=2003-09-01&g=2003-09-01);
+- d. geweldmiddel: een geweldmiddel als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011530&paragraaf=2&artikel=6&z=2010-10-10&g=2010-10-10);
 
 - e. gebruik van een vuurwapen: het richten, het gericht houden en het daadwerkelijk gebruik van een vuurwapen.
 
-2. Onder het gebruiken van geweld wordt mede verstaan het dreigen met geweld.
+2. Onder het gebruiken van geweld wordt mede verstaan:
+
+- a. het dreigen met geweld;
+
+- b. het gebruik van vrijheidsbeperkende middelen.
 
 #### Paragraaf 2. Algemene geweldsbepalingen
 
