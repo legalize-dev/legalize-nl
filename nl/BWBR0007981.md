@@ -4,7 +4,7 @@ identifier: "BWBR0007981"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2010-10-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007981"
 soort: "wet"
@@ -72,17 +72,17 @@ De beperkte noodtoestand en de algemene noodtoestand eindigen van rechtswege bij
 
 ##### Artikel 5
 
-1. Het besluit, bedoeld in [artikel 3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=1&artikel=3&z=2010-10-01&g=2010-10-01), wordt op de daarin te bepalen wijze bekendgemaakt op last van de voorzitter der verenigde vergadering en treedt terstond in werking.
+1. Het besluit, bedoeld in [artikel 3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=1&artikel=3&z=2010-10-10&g=2010-10-10), wordt op de daarin te bepalen wijze bekendgemaakt op last van de voorzitter der verenigde vergadering en treedt terstond in werking.
 
 2. Door de zorg van Onze Minister van Justitie wordt het besluit, bedoeld in het eerste lid, in ieder geval geplaatst in het **Staatsblad**.
 
-3. Het koninklijk besluit, bedoeld in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=1&artikel=3&z=2010-10-01&g=2010-10-01), wordt op de daarin te bepalen wijze bekendgemaakt en treedt terstond in werking.
+3. Het koninklijk besluit, bedoeld in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=1&artikel=3&z=2010-10-10&g=2010-10-10), wordt op de daarin te bepalen wijze bekendgemaakt en treedt terstond in werking.
 
 4. Het koninklijk besluit, bedoeld in het derde lid, wordt in ieder geval geplaatst in het **Staatsblad**.
 
 ##### Artikel 6
 
-Door opheffing of einde van de beperkte noodtoestand, respectievelijk de algemene noodtoestand eindigt van rechtswege de werking van de bepalingen die in werking zijn gesteld ingevolge het koninklijk besluit bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=2&artikel=7&z=2010-10-01&g=2010-10-01), respectievelijk [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=2&artikel=8&z=2010-10-01&g=2010-10-01).
+Door opheffing of einde van de beperkte noodtoestand, respectievelijk de algemene noodtoestand eindigt van rechtswege de werking van de bepalingen die in werking zijn gesteld ingevolge het koninklijk besluit bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=2&artikel=7&z=2010-10-10&g=2010-10-10), respectievelijk [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=2&artikel=8&z=2010-10-10&g=2010-10-10).
 
 #### § 2. Inwerkingstelling en buitenwerkingstelling van noodwetgeving gedurende een uitzonderingstoestand
 
@@ -421,6 +421,336 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 #### § 3. Slotbepalingen
 
 ## Lijst B. , bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=2&artikel=8&z=2010-10-01&g=2010-10-01), van de Coördinatiewet uitzonderingstoestanden
+
+De navolgende paragrafen of bepalingen kunnen in de algemene noodtoestand in werking worden gesteld:
+
+van de [Wet buitengewone bevoegdheden burgerlijk gezag](https://wetten.overheid.nl/jci1.3:c:BWBR0007982):
+
+de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&artikel=7), [8, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&artikel=8), [9, eerste, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&artikel=9), [10 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&artikel=10), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&artikel=14), [15, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&artikel=15), [16, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&artikel=16), [17, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&artikel=17), en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&artikel=18) gezamenlijk of afzonderlijk en de [artikelen 19 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&artikel=19), [26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&artikel=26), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&artikel=27) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&artikel=28) gezamenlijk;
+
+van de [Oorlogswet voor Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0007983):
+
+[de artikelen 9 tot en met 43](https://wetten.overheid.nl/jci1.3:c:BWBR0007983&artikel=9) gezamenlijk of afzonderlijk en [de artikelen 44 tot en met 53](https://wetten.overheid.nl/jci1.3:c:BWBR0007983&artikel=44) gezamenlijk;
+
+van de [Wet bescherming staatsgeheimen](https://wetten.overheid.nl/jci1.3:c:BWBR0002074):
+
+[artikel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0002074&artikel=III_A);
+
+van de [Noodwet rechtspleging](https://wetten.overheid.nl/jci1.3:c:BWBR0002457):
+
+[de artikelen 2 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002457&artikel=2), alsmede [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002457&artikel=17);
+
+[van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823):
+
+[artikel 111](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=111);
+
+van de [Wet verplaatsing bevolking](https://wetten.overheid.nl/jci1.3:c:BWBR0002097):
+
+[de artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=2a), [2b](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=2b), [2c](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=2c), [2e](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=2e), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=4), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=6), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=7), en [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=8), gezamenlijk of afzonderlijk;
+
+van de [Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466):
+
+de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=53) en [54](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=54);
+
+van de [Noodwet financieel verkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0003173):
+
+[de artikelen 3 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&artikel=3) gezamenlijk of afzonderlijk;
+
+van de [Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891):
+
+[artikel 97, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=97);
+
+van de [Wet militaire inundatiën](https://wetten.overheid.nl/jci1.3:c:BWBR0001863):
+
+[de artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0001863&artikel=1a), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0001863&artikel=2) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001863&artikel=3);
+
+van de [Kaderwet dienstplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0008589):
+
+[artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&artikel=19);
+
+van de [Inkwartieringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002111):
+
+[de artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&artikel=28), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&artikel=29) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&artikel=35);
+
+van de [Onteigeningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001842):
+
+[de artikelen 76a bis tot en met 76f bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001842&artikel=76a_bis);
+
+van de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181):
+
+[de artikelen 101a](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=101a), [102](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=102) en [103](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=103) gezamenlijk;
+
+van de [Wet behoud scheepsruimte 1939](https://wetten.overheid.nl/jci1.3:c:BWBR0001998):
+
+[de artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=2), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=8) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=9);
+
+van de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267):
+
+de [artikelen 58 tot en met 61](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=58) gezamenlijk of afzonderlijk;
+
+van de [Vervoersnoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002391):
+
+de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&artikel=10), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&artikel=13), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&artikel=15) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&artikel=17) gezamenlijk of afzonderlijk;
+
+van de [Havennoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002410):
+
+de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=8) gezamenlijk of afzonderlijk;
+
+van de [Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606):
+
+[artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=60);
+
+van de [Vaarplichtwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002828):
+
+[de artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=2a), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=11), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=18) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=20);
+
+van de [Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009):
+
+[artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=53);
+
+van de [Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364):
+
+de [artikelen 37a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=37a), en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=38) gezamenlijk of afzonderlijk;
+
+van de [Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365):
+
+[de artikelen 52](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=52) en [53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=53), gezamenlijk of afzonderlijk;
+
+de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950), [artikel 14.4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=14.4);
+
+van de [Postwet 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025572);
+
+van de [Wet rijonderricht motorrijtuigen 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006073):
+
+[artikel 8b](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=8b);
+
+van de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555):
+
+de [artikelen 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=9.3), [9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=9.4) en [9.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=9.5) gezamenlijk of afzonderlijk;
+
+van de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622):
+
+[artikel 4, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4);
+
+van de [Distributiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001997):
+
+de [artikelen 4 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&artikel=4) en [10a](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&artikel=10a) gezamenlijk of afzonderlijk;
+
+van de [Hamsterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002389):
+
+[artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002389&artikel=3);
+
+van de [Vorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002393):
+
+[artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=3a);
+
+van de [Prijzennoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003734):
+
+de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=5) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=8) gezamenlijk of afzonderlijk;
+
+van de [Bodemproductiewet 1939](https://wetten.overheid.nl/jci1.3:c:BWBR0001996):
+
+[de artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001996&artikel=2), [8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0001996&artikel=8);
+
+van de [Noodwet voedselvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0002392):
+
+[de artikelen 6 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&artikel=6);
+
+van de [Noodwet arbeidsvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0002759):
+
+één of meer van de paragrafen van [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II);
+
+van de [Noodwet geneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002758):
+
+één of meer paragrafen van [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II);
+
+van de [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028):
+
+[artikel 6.26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=6.26);
+
+van de [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969):
+
+[artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=2a);
+
+van de [Wet medisch-wetenschappelijk onderzoek met mensen](https://wetten.overheid.nl/jci1.3:c:BWBR0009408): [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&artikel=32).
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 9a
+
+In deze paragraaf wordt verstaan onder openbare lichamen: de openbare lichamen Bonaire, Sint Eustatius en Saba.
+
+##### Artikel 9b
+
+1. Deze wet is mede van toepassing in de openbare lichamen met inachtneming van het in deze paragraaf bepaalde.
+
+2. De bepalingen die voorkomen op de bij deze wet behorende [lijsten A](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&bijlage=A&z=2010-10-10&g=2010-10-10) en [B](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&bijlage=B&z=2010-10-10&g=2010-10-10) zijn van overeenkomstige toepassing in de openbare lichamen, voor zover deze bepalingen niet reeds van toepassing zijn in de openbare lichamen met dien verstande dat telkens in die bepalingen wordt gelezen voor:
+
+- a. «burgemeester»: gezaghebber;
+
+- b. «Onze Commissaris van de Koning», «Onze Commissaris in de provincie» en «Onze commissaris in de provincie»: de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba.
+
+##### Artikel 9c
+
+Indien ingevolge een koninklijk besluit als bedoeld in de [artikelen 7, eerste lis](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=2&artikel=7&z=2010-10-10&g=2010-10-10), of [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=2&artikel=8&z=2010-10-10&g=2010-10-10), voor de openbare lichamen gezamenlijk of ieder afzonderlijk één of meerdere bepalingen in werking worden gesteld, kunnen hiermee samenhangende in een koninklijk besluit aan te wijzen bepalingen bij dat besluit van overeenkomstige toepassing worden verklaard in de openbare lichamen.
+
+##### Artikel 9d
+
+Onze Minister wie het aangaat kan aan de gezaghebber of de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba mandaat verlenen tot het uitoefenen in de openbare lichamen van de bevoegdheden die zijn opgenomen in op grond van de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=2&artikel=7&z=2010-10-10&g=2010-10-10), of [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=2&artikel=8&z=2010-10-10&g=2010-10-10), in werking gestelde artikelen.
+
+#### § 3. Slotbepalingen
+
+## Lijst A. , bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=2&artikel=7&z=2010-10-10&g=2010-10-10), van de Coördinatiewet uitzonderingstoestanden
+
+De navolgende paragrafen of bepalingen kunnen in de beperkte noodtoestand in werking worden gesteld:
+
+van de [Wet buitengewone bevoegdheden burgerlijk gezag](https://wetten.overheid.nl/jci1.3:c:BWBR0007982):
+
+de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&artikel=7), [8, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&artikel=8), [9, eerste, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&artikel=9), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&artikel=10) gezamenlijk of afzonderlijk;
+
+van de [Oorlogswet voor Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0007983):
+
+de [artikelen 9 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0007983&artikel=9) gezamenlijk of afzonderlijk;
+
+van de [Wet bescherming staatsgeheimen](https://wetten.overheid.nl/jci1.3:c:BWBR0002074):
+
+[artikel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0002074&artikel=III_A);
+
+van de [Noodwet rechtspleging](https://wetten.overheid.nl/jci1.3:c:BWBR0002457):
+
+de [artikelen 2 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002457&artikel=2);
+
+van de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823):
+
+[artikel 111](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=111);
+
+van de [Wet verplaatsing bevolking](https://wetten.overheid.nl/jci1.3:c:BWBR0002097):
+
+de [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=2a), [2b](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=2b), [2c](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=2c), [2e](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=2e), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=4), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=6), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=7), en [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=8), gezamenlijk of afzonderlijk;
+
+van de [Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466):
+
+de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=53) en [54](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=54);
+
+van de [Noodwet financieel verkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0003173):
+
+de [artikelen 3 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBR0003173&artikel=3) gezamenlijk of afzonderlijk;
+
+van de [Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891):
+
+[artikel 97, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=97);
+
+van de [Wet militaire inundatiën](https://wetten.overheid.nl/jci1.3:c:BWBR0001863):
+
+de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0001863&artikel=1a), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0001863&artikel=2) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001863&artikel=3);
+
+van de [Kaderwet dienstplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0008589):
+
+[artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&artikel=19);
+
+van de [Inkwartieringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002111):
+
+de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&artikel=28), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&artikel=29) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&artikel=35);
+
+van de [Onteigeningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001842):
+
+de [artikelen 76a bis tot en met 76f bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001842&artikel=76a_bis);
+
+van de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181):
+
+de [artikelen 101a](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=101a), [102](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=102) en [103](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=103) gezamenlijk;
+
+van de [Wet behoud scheepsruimte 1939](https://wetten.overheid.nl/jci1.3:c:BWBR0001998):
+
+de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=2), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=8) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=9);
+
+van de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267):
+
+de [artikelen 58 tot en met 61](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=58) gezamenlijk of afzonderlijk;
+
+van de [Vervoersnoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002391):
+
+de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&artikel=10), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&artikel=13), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&artikel=15) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&artikel=17) gezamenlijk of afzonderlijk;
+
+van de [Havennoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002410):
+
+de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=6) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=8) gezamenlijk of afzonderlijk;
+
+van de [Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606):
+
+[artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=60);
+
+van de [Vaarplichtwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002828):
+
+de [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=2a), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=11), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=18) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0002828&artikel=20);
+
+van de [Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009):
+
+[artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=53);
+
+van de [Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364):
+
+de [artikelen 37a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=37a), en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=38) gezamenlijk of afzonderlijk;
+
+van de [Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365):
+
+de [artikelen 52](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=52) en [53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=53), gezamenlijk of afzonderlijk;
+
+de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950), [artikel 14.4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=14.4);
+
+van de [Postwet 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025572);
+
+van de [Wet rijonderricht motorrijtuigen 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006073):
+
+[artikel 8b](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=8b);
+
+van de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555):
+
+de [artikelen 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=9.3), [9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=9.4) en [9.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=9.5) gezamenlijk of afzonderlijk;
+
+van de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622):
+
+[artikel 4, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4);
+
+van de [Distributiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001997):
+
+de [artikelen 4 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&artikel=2) en [10a](https://wetten.overheid.nl/jci1.3:c:BWBR0001997&artikel=10a) gezamenlijk of afzonderlijk;
+
+van de [Hamsterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002389):
+
+[artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002389&artikel=3);
+
+van de [Vorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002393):
+
+[artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=3a);
+
+van de [Prijzennoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003734):
+
+de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=5) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=8) gezamenlijk of afzonderlijk;
+
+van de [Bodemproductiewet 1939](https://wetten.overheid.nl/jci1.3:c:BWBR0001996):
+
+de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001996&artikel=2), [8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0001996&artikel=8);
+
+van de [Noodwet voedselvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0002392):
+
+de [artikelen 6 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&artikel=6);
+
+van de [Noodwet arbeidsvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0002759):
+
+één of meer van de paragrafen van [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0002759&hoofdstuk=II);
+
+van de [Noodwet geneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002758):
+
+één of meer van de paragrafen van [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0002758&hoofdstuk=II);
+
+van de [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969):
+
+[artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=2a);
+
+van de [Wet medisch-wetenschappelijk onderzoek met mensen](https://wetten.overheid.nl/jci1.3:c:BWBR0009408): [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&artikel=32).
+
+## Lijst B. , bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&paragraaf=2&artikel=8&z=2010-10-10&g=2010-10-10), van de Coördinatiewet uitzonderingstoestanden
 
 De navolgende paragrafen of bepalingen kunnen in de algemene noodtoestand in werking worden gesteld:
 
