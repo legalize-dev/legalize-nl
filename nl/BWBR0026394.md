@@ -4,7 +4,7 @@ identifier: "BWBR0026394"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-10-10"
-last_updated: "2010-03-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026394"
 soort: "ministeriele-regeling"
@@ -41,6 +41,8 @@ Handelende in overeenstemming met de Minister van Verkeer en Vervoer van de Nede
 Gelet op [artikel 72, eerste lid, van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=72);
 
 Besluit:
+
+De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ### Hoofdstuk 1. Tarieven certificaten geklasseerde schepen volgens het geharmoniseerde systeem van onderzoek en certificering
 
@@ -154,7 +156,7 @@ Voor het onderzoek van geklasseerde schepen, geen passagiersschepen, vracht- en 
 
 ##### Artikel 11
 
-Indien een scheepstype niet is opgenomen in een van de genoemde artikelen wordt door het Hoofd van de Scheepvaartinspectie in de Nederlandse Antillen het tarief gebaseerd op het tarief van het scheepstype dat hiermee het meest overeenkomt.
+Indien een scheepstype niet is opgenomen in een van de genoemde artikelen wordt door het Hoofd van de Scheepvaartinspectie in Curaçao, onderscheidenlijk Sint Maarten het tarief gebaseerd op het tarief van het scheepstype dat hiermee het meest overeenkomt.
 
 ### Hoofdstuk 2. Tarieven certificaten niet-geklasseerde schepen volgens het geharmoniseerde systeem van onderzoek en certificering
 
@@ -207,7 +209,7 @@ Voor het tussentijds onderzoek van de romp aan de buitenzijde van niet-geklassee
 | 6000 tot 9000 GT | f 1378,– | f 2401,– |
 | vanaf 9000 GT | f 1495,– | f 2519,– |
 
-2. Geen tarief is verschuldigd indien het een vergunning betreft, uitsluitend bestemd voor het maken van een proefvaart dan wel het ondernemen van een reis uit een haven in de Nederlandse Antillen, met de bedoeling het schip gereed te maken voor het verkrijgen van een certificaat van deugdelijkheid.
+2. Geen tarief is verschuldigd indien het een vergunning betreft, uitsluitend bestemd voor het maken van een proefvaart dan wel het ondernemen van een reis uit een haven in Curaçao, onderscheidenlijk Sint Maarten, met de bedoeling het schip gereed te maken voor het verkrijgen van een certificaat van deugdelijkheid.
 
 ##### Artikel 16
 
@@ -223,7 +225,7 @@ Voor het onderzoek aan boord en de verdere werkzaamheden nodig voor de afgifte v
 
 ##### Artikel 19
 
-1. Voor het onderzoek van een radio-installatie aan boord van bij Landsverordening van 25 juni 1953 (P.B. no. 109) aangewezen schepen, varende met een zeebrief van de Nederlandse Antillen, en aan boord van schepen als bedoeld in [artikel 2, eerste lid, onder f, g en h, van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=2), is het volgende tarief verschuldigd:
+1. Voor het onderzoek van een radio-installatie aan boord van bij Landsverordening van 25 juni 1953 (P.B. no. 109) aangewezen schepen, varende met een zeebrief van Curaçao, onderscheidenlijk Sint Maarten, en aan boord van schepen als bedoeld in [artikel 2, eerste lid, onder f, g en h, van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=2), is het volgende tarief verschuldigd:
 
 - a. radiotelefonie-installatie f 672,–;
 
@@ -233,7 +235,7 @@ Voor het onderzoek aan boord en de verdere werkzaamheden nodig voor de afgifte v
 
 - d. GMDSS radio-installatie voor de zeegebieden A3 en A4 f 1679,–.
 
-2. Indien het onderzoek van een radio-installatie aan boord van een in de Nederlandse Antillen thuisbehorend schip geheel of gedeeltelijk buiten de Nederlandse Antillen plaatsvindt, is, onverminderd de [artikelen 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026394&hoofdstuk=5&artikel=30&z=2010-03-01&g=2010-03-01), en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0026394&hoofdstuk=5&artikel=31&z=2010-03-01&g=2010-03-01), een toeslag verschuldigd van 25 procent van het tarief, genoemd in het eerste lid.
+2. Indien het onderzoek van een radio-installatie aan boord van een in Curaçao, onderscheidenlijk Sint Maarten thuisbehorend schip geheel of gedeeltelijk buiten Curaçao, onderscheidenlijk Sint Maarten plaatsvindt, is, onverminderd de [artikelen 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026394&hoofdstuk=5&artikel=30&z=2010-10-10&g=2010-10-10), en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0026394&hoofdstuk=5&artikel=31&z=2010-10-10&g=2010-10-10), een toeslag verschuldigd van 25 procent van het tarief, genoemd in het eerste lid.
 
 3. Voor het verstrekken van een certificaat voor de radio-installatie is een tarief verschuldigd van f 490,–.
 
@@ -249,9 +251,9 @@ Voor het onderzoek en de verdere werkzaamheden nodig voor de afgifte of de tusse
 
 ##### Artikel 21
 
-1. Voor het onderzoek en de verdere werkzaamheden nodig voor de afgifte van het kennisbewijs sloepsgast, bedoeld in [artikel 66 van het Bemanningsbesluit Nederlands-Antilliaanse en Arubaanse zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&artikel=66), is een tarief verschuldigd van f 305,–.
+1. Voor het onderzoek en de verdere werkzaamheden nodig voor de afgifte van het kennisbewijs sloepsgast, bedoeld in [artikel 66 van het Bemanningsbesluit Arubaanse, Curaçaose en Sint Maartense zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&artikel=66), is een tarief verschuldigd van f 305,–.
 
-2. Voor de werkzaamheden nodig voor de afgifte van het duplicaat van het kennisbewijs sloepsgast, bedoeld in [artikel 66 van het Bemanningsbesluit Nederlands-Antilliaanse en Arubaanse zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&artikel=66), is een tarief verschuldigd van f 153,–.
+2. Voor de werkzaamheden nodig voor de afgifte van het duplicaat van het kennisbewijs sloepsgast, bedoeld in [artikel 66 van het Bemanningsbesluit Arubaanse, Curaçaose en Sint Maartense zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&artikel=66), is een tarief verschuldigd van f 153,–.
 
 3. Indien het onderzoek, bedoeld in het eerste lid, niet leidt tot afgifte van een kennisbewijs sloepsgast, is een tarief verschuldigd van f 290,–.
 
@@ -271,7 +273,7 @@ Voor een verzoek aan een buitenlandse autoriteit tot afgifte van certificaten al
 
 ##### Artikel 24
 
-Indien de werkzaamheden ten behoeve van de afgifte van een document als bedoeld in deze regeling, met uitzondering van de documenten, bedoeld in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0026394&hoofdstuk=3&artikel=21&z=2010-03-01&g=2010-03-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0026394&hoofdstuk=4&artikel=26&z=2010-03-01&g=2010-03-01), buiten toedoen van de ambtenaren van de Nederlandse Antillen niet leiden tot de afgifte van dat document, is het volgende tarief verschuldigd:
+Indien de werkzaamheden ten behoeve van de afgifte van een document als bedoeld in deze regeling, met uitzondering van de documenten, bedoeld in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0026394&hoofdstuk=3&artikel=21&z=2010-10-10&g=2010-10-10) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0026394&hoofdstuk=4&artikel=26&z=2010-10-10&g=2010-10-10), buiten toedoen van de ambtenaren van Curaçao, onderscheidenlijk Sint Maarten niet leiden tot de afgifte van dat document, is het volgende tarief verschuldigd:
 
 - a. indien de werkzaamheden niet volledig zijn uitgevoerd f 234,– per uur per ambtenaar;
 
@@ -287,9 +289,9 @@ Voor werkzaamheden voortvloeiende uit het bepaalde bij of krachtens de [Schepenw
 
 1. Voor het onderzoek ten behoeve van de typegoedkeuring van uitrustingsstukken en materialen, alsmede de daarbij behorende afgifte van documenten ten bewijze dat deze uitrustingsstukken en materialen voldoen aan de bij of krachtens de [Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876) gestelde eisen, is het tarief verschuldigd, genoemd in onderstaande tabel.
 
-2. De tarieven, genoemd in kolom 1, zijn verschuldigd indien het document kan worden afgegeven zonder dat daarvoor beproevingen nodig zijn die de aanwezigheid van een ambtenaar van de Nederlandse Antillen vereisen.
+2. De tarieven, genoemd in kolom 1, zijn verschuldigd indien het document kan worden afgegeven zonder dat daarvoor beproevingen nodig zijn die de aanwezigheid van een ambtenaar van Curaçao, onderscheidenlijk Sint Maarten vereisen.
 
-3. De tarieven, genoemd in kolom 2, zijn verschuldigd indien het document kan worden afgegeven nadat daarvoor beproevingen zijn uitgevoerd die de aanwezigheid van een ambtenaar van de Nederlandse Antillen vereisen.
+3. De tarieven, genoemd in kolom 2, zijn verschuldigd indien het document kan worden afgegeven nadat daarvoor beproevingen zijn uitgevoerd die de aanwezigheid van een ambtenaar van Curaçao, onderscheidenlijk Sint Maarten vereisen.
 
 |   | REDDINGMIDDELEN | 1 | 1 | 2 | 2 |
 | --- | --- | --- | --- | --- | --- |
@@ -397,11 +399,11 @@ Voor werkzaamheden voortvloeiende uit het bepaalde bij of krachtens de [Schepenw
 
 ##### Artikel 27
 
-1. Indien het onderzoek, bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026394&hoofdstuk=4&artikel=26&z=2010-03-01&g=2010-03-01), niet leidt tot de afgifte van een document, is, inclusief reistijd, een tarief verschuldigd van f 234,– per uur.
+1. Indien het onderzoek, bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026394&hoofdstuk=4&artikel=26&z=2010-10-10&g=2010-10-10), niet leidt tot de afgifte van een document, is, inclusief reistijd, een tarief verschuldigd van f 234,– per uur.
 
-2. Voor hernieuwing van een document als bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026394&hoofdstuk=4&artikel=26&z=2010-03-01&g=2010-03-01), is een tarief verschuldigd van f 490,–.
+2. Voor hernieuwing van een document als bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026394&hoofdstuk=4&artikel=26&z=2010-10-10&g=2010-10-10), is een tarief verschuldigd van f 490,–.
 
-3. Bij gelijktijdige aanbieding voor een onderzoek ter goedkeuring van meerdere vrijwel identieke uitvoeringen van uitrustingsstukken en materialen, is voor de afgifte van het eerste document het tarief, genoemd in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0026394&hoofdstuk=4&artikel=26&z=2010-03-01&g=2010-03-01) en voor elk van de volgende documenten een tarief verschuldigd van f 490,–.
+3. Bij gelijktijdige aanbieding voor een onderzoek ter goedkeuring van meerdere vrijwel identieke uitvoeringen van uitrustingsstukken en materialen, is voor de afgifte van het eerste document het tarief, genoemd in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0026394&hoofdstuk=4&artikel=26&z=2010-10-10&g=2010-10-10) en voor elk van de volgende documenten een tarief verschuldigd van f 490,–.
 
 ##### Artikel 28
 
@@ -411,21 +413,21 @@ Voor het onderzoek verbonden aan de produktietest van uitrustingsstukken of onde
 
 ##### Artikel 29
 
-1. Indien een onderzoek als bedoeld in deze regeling geheel of gedeeltelijk buiten de Nederlandse Antillen wordt uitgevoerd en de voor het betreffende onderzoek vastgestelde termijn, zoals opgenomen in de bijlage, wordt overschreden, is per termijnoverschrijdende dag een aanvullend tarief verschuldigd van f 1870,–.
+1. Indien een onderzoek als bedoeld in deze regeling geheel of gedeeltelijk buiten Curaçao, onderscheidenlijk Sint Maarten wordt uitgevoerd en de voor het betreffende onderzoek vastgestelde termijn, zoals opgenomen in de bijlage, wordt overschreden, is per termijnoverschrijdende dag een aanvullend tarief verschuldigd van f 1870,–.
 
-2. De eventuele reis- en verblijfskosten van de ambtenaar ten behoeve van de in deze regeling genoemde onderzoeken buiten de Nederlandse Antillen komen voor rekening van de opdrachtgever. Deze kosten worden afzonderlijk in rekening gebracht.
+2. De eventuele reis- en verblijfskosten van de ambtenaar ten behoeve van de in deze regeling genoemde onderzoeken buiten Curaçao, onderscheidenlijk Sint Maarten komen voor rekening van de opdrachtgever. Deze kosten worden afzonderlijk in rekening gebracht.
 
 ##### Artikel 30
 
-1. Indien de in deze regeling genoemde onderzoeken geheel of gedeeltelijk worden uitgevoerd op werkdagen tussen 18.00 uur en 08.00 uur, op een zaterdag, op een zondag of op een bij of krachtens de Landsverordening Materieel Ambtenarenrecht daaraan gelijkgestelde dag, is een aanvullend tarief verschuldigd van f 116,– per uur per ambtenaar.
+1. Indien de in deze regeling genoemde onderzoeken geheel of gedeeltelijk worden uitgevoerd op werkdagen tussen 18.00 uur en 08.00 uur, op een zaterdag, op een zondag of op een bij of krachtens de [Wet materieel ambtenarenrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215) daaraan gelijkgestelde dag, is een aanvullend tarief verschuldigd van f 116,– per uur per ambtenaar.
 
-2. Het in het eerste lid genoemde tarief is eveneens verschuldigd voor uitgevoerde onderzoeken buiten de Nederlandse Antillen, buiten de daar ter plaatse geldende werktijden.
+2. Het in het eerste lid genoemde tarief is eveneens verschuldigd voor uitgevoerde onderzoeken buiten Curaçao, onderscheidenlijk Sint Maarten, buiten de daar ter plaatse geldende werktijden.
 
 ##### Artikel 31
 
-1. De in deze regeling genoemde tarieven zijn verschuldigd voor het verrichten van werkzaamheden of diensten door ambtenaren van de Nederlandse Antillen.
+1. De in deze regeling genoemde tarieven zijn verschuldigd voor het verrichten van werkzaamheden of diensten door ambtenaren van Curaçao, onderscheidenlijk Sint Maarten.
 
-2. De in deze regeling genoemde tarieven luiden in het betaalmiddel van de Nederlandse Antillen.
+2. De in deze regeling genoemde tarieven luiden in het betaalmiddel van Curaçao, onderscheidenlijk Sint Maarten.
 
 ### Hoofdstuk 6. Slotbepalingen
 
@@ -439,11 +441,11 @@ Deze regeling treedt in werking met ingang van 15 september 2009.
 
 ##### Artikel 34
 
-Deze regeling wordt aangehaald als: Regeling Nederlands-Antilliaanse tarieven Schepenwet 2009.
+Deze regeling wordt aangehaald als: Regeling Curaçaose en Sint Maartense tarieven Schepenwet.
 
 ## Bijlage
 
-Bijlage als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026394&hoofdstuk=5&artikel=29&z=2010-03-01&g=2010-03-01). De onderzoekstermijn begint op de dag van vertrek vanuit de Nederlandse Antillen en loopt tot aan de dag van terugkomst op de Nederlandse Antillen.
+Bijlage als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026394&hoofdstuk=5&artikel=29&z=2010-10-10&g=2010-10-10). De onderzoekstermijn begint op de dag van vertrek vanuit de Nederlandse Antillen en loopt tot aan de dag van terugkomst op de Nederlandse Antillen.
 
 |   | Tonnage of lengte | Aantal dagen |
 | --- | --- | --- |
