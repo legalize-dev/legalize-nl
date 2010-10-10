@@ -4,7 +4,7 @@ identifier: "BWBR0001998"
 country: "nl"
 rank: "wet"
 publication_date: "2010-10-10"
-last_updated: "2004-11-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001998"
 soort: "wet"
@@ -43,21 +43,17 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 ##### Artikel 1
 
-Deze wet verstaat onder:
+In deze wet wordt verstaan onder:
 
-- a. "schepen": schepen in de zin van artikel 1, eerste lid, van Boek 8 van het Burgerlijk Wetboek;
+- a. **«schepen»:** schepen als bedoeld in [artikel 1, eerste lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1);
 
-- b. vervallen;
+- b. **«binnenschepen»:** binnenschepen als bedoeld in [artikel 3, eerste lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=3);
 
-- c. "binnenschepen": binnenschepen in de zin van artikel 3, eerste lid, van Boek 8 van het Burgerlijk Wetboek;
-
-- d. vervallen;
-
-- e. "binnenschepen, die in Nederland thuisbehoren": binnenschepen in de zin van artikel 3, eerste lid, van Boek 8 van het Burgerlijk Wetboek die voldoen aan tenminste één der in het eerste lid van artikel 784 van Boek 8 van het Burgerlijk Wetboek genoemde voorwaarden.
+- c. **«binnenschepen, die in Nederland thuisbehoren»:** binnenschepen in de zin van [artikel 3, eerste lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=3) die voldoen aan tenminste één van de voorwaarden, bedoeld in [artikel 784, eerste lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=784).
 
 ##### Artikel 1a
 
-1. Onverminderd de [artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=2&z=2004-11-01&g=2004-11-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=3&z=2004-11-01&g=2004-11-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=4&z=2004-11-01&g=2004-11-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=8&z=2004-11-01&g=2004-11-01) in werking worden gesteld.
+1. Onverminderd de [artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=2&z=2010-10-10&g=2010-10-10), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=3&z=2010-10-10&g=2010-10-10), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=4&z=2010-10-10&g=2010-10-10) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=8&z=2010-10-10&g=2010-10-10) in werking worden gesteld.
 
 2. Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.
 
@@ -71,33 +67,55 @@ Deze wet verstaat onder:
 
 ##### Artikel 2
 
-Dit onderdeel is nog niet inwerking getreden
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+
+1. Onze Minister van Verkeer en Waterstaat kan verbieden op enigerlei wijze te bewerken of ertoe mede te werken, dat een binnenschip, dat in Nederland thuisbehoort, zonder door of namens hem verleende vergunning:
+
+- a. zijn hoedanigheid van binnenschip, dat in Nederland thuisbehoort, verliest;
+
+- b. in eigendom, in gebruik of ter beschikking wordt overgedragen;
+
+- c. een vaart, een reis of een reeks van reizen aanvangt, welke niet geheel binnen Nederland valt;
+
+- d. een vaart, een reis of een reeks van reizen vervolgt, welke niet geheel binnen Nederland valt, indien deze vaart, reis of reeks van reizen was aangevangen vóór het in werking treden van het verbod.
+
+2. De in het eerste lid omschreven bevoegdheden komen insgelijks toe aan Onze Minister van Defensie; hij maakt hiervan evenwel slechts gebruik na overleg met Onze Minister van Verkeer en Waterstaat.
 
 ##### Artikel 3
 
-Dit onderdeel is nog niet inwerking getreden
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+
+Een verbod, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=2&z=2010-10-10&g=2010-10-10), kan ook uitsluitend bepaalde schepen of groepen van schepen betreffen.
 
 ##### Artikel 4
 
-Dit onderdeel is nog niet inwerking getreden
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+
+1. Bij het aanvragen van een vergunning betreffende een vaart, een reis of een reeks van reizen, moeten deze nauwkeurig worden omschreven.
+
+2. Aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=2&z=2010-10-10&g=2010-10-10) bedoelde vergunningen kunnen voorschriften worden verbonden. Beschikbaarstelling van scheepsruimte zal niet als voorschrift gesteld worden.
+
+3. Het verleenen van een vergunning laat onverkort iedere wettelijke bevoegdheid tot het vorderen van schepen of scheepsruimte.
+
+4. Onze in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=2&z=2010-10-10&g=2010-10-10) genoemde Ministers gedragen zich bij het verleenen en onthouden van vergunningen tot handelingen, als omschreven in lid 1, onder a en b, van dat artikel, naar regelen bij algemeenen maatregel van bestuur gesteld.
 
 ##### Artikel 5
 
-1. Hij die door handelen of nalaten een verbod, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=2&z=2004-11-01&g=2004-11-01), opzettelijk overtreedt, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van ten hoogste € 4 500, dan wel indien de geldboete wordt opgelegd door de strafrechter in de Nederlandse Antillen of Aruba, een geldboete van ten hoogste ANG 10 000 onderscheidenlijk AWG 10 000.
+1. Hij die door handelen of nalaten een verbod, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=2&z=2010-10-10&g=2010-10-10), opzettelijk overtreedt, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van ten hoogste € 4 500.
 
-2. Hij aan wiens schuld te wijten is, dat een verbod, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=2&z=2004-11-01&g=2004-11-01), wordt overtreden, hetzij door hemzelf, hetzij door een ander, wordt gestraft met gevangenisstraf of hechtenis van ten hoogste één jaar of geldboete van ten hoogste € 2 250, dan wel indien de geldboete wordt opgelegd door de strafrechter in de Nederlandse Antillen of Aruba, een geldboete van ten hoogste ANG 5 000 onderscheidenlijk AWG 5 000.
+2. Hij aan wiens schuld te wijten is, dat een verbod, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=2&z=2010-10-10&g=2010-10-10), wordt overtreden, hetzij door hemzelf, hetzij door een ander, wordt gestraft met gevangenisstraf of hechtenis van ten hoogste één jaar of geldboete van ten hoogste € 2 250.
 
 3. De bij dit artikel strafbaar gestelde feiten worden beschouwd als misdrijven.
 
 4. Dit artikel is ook van toepassing op feiten, buiten Nederland gepleegd.
 
-5. Niet strafbaar is de overtreding van een verbod, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=2&z=2004-11-01&g=2004-11-01), voorzoover betreft het aanvangen of vervolgen van een vaart, een reis of een reeks van reizen in het buitenland, indien kan worden aannemelijk gemaakt, dat gedurende vijf dagen onmiddellijk hieraan voorafgaande, geenerlei berichtgeving tusschen het schip en Nederland mogelijk is geweest.
+5. Niet strafbaar is de overtreding van een verbod, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=2&z=2010-10-10&g=2010-10-10), voorzoover betreft het aanvangen of vervolgen van een vaart, een reis of een reeks van reizen in het buitenland, indien kan worden aannemelijk gemaakt, dat gedurende vijf dagen onmiddellijk hieraan voorafgaande, geenerlei berichtgeving tusschen het schip en Nederland mogelijk is geweest.
 
 ##### Artikel 6
 
-1. Hij die een voorwaarde, als bedoeld in [artikel 4, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=4&z=2004-11-01&g=2004-11-01), opzettelijk niet nakomt, dan wel door handelen of nalaten opzettelijk bewerkt of opzettelijk medebewerkt, dat een zoodanige voorwaarde niet wordt nagekomen, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van ten hoogste € 4 500, dan wel indien de geldboete wordt opgelegd door de strafrechter in de Nederlandse Antillen of Aruba, een geldboete van ten hoogste ANG 10 000 onderscheidenlijk AWG 10 000.
+1. Hij die een voorwaarde, als bedoeld in [artikel 4, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=4&z=2010-10-10&g=2010-10-10), opzettelijk niet nakomt, dan wel door handelen of nalaten opzettelijk bewerkt of opzettelijk medebewerkt, dat een zoodanige voorwaarde niet wordt nagekomen, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van ten hoogste € 4 500.
 
-2. Hij aan wiens schuld te wijten is, dat een voorwaarde, als bedoeld in [artikel 4, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=4&z=2004-11-01&g=2004-11-01), niet wordt nagekomen, wordt gestraft met gevangenisstraf of hechtenis van ten hoogste één jaar of geldboete van ten hoogste € 2 250, dan wel indien de geldboete wordt opgelegd door de strafrechter in de Nederlandse Antillen of Aruba, een geldboete van ten hoogste ANG 5 000 onderscheidenlijk AWG 5 000.
+2. Hij aan wiens schuld te wijten is, dat een voorwaarde, als bedoeld in [artikel 4, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=4&z=2010-10-10&g=2010-10-10), niet wordt nagekomen, wordt gestraft met gevangenisstraf of hechtenis van ten hoogste één jaar of geldboete van ten hoogste € 2 250.
 
 3. De bij dit artikel strafbaar gestelde feiten worden beschouwd als misdrijven.
 
@@ -105,7 +123,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 7
 
-1. Met de opsporing van de bij of krachtens deze rijkswet strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) en de overeenkomstige wetsbepalingen van de Nederlandse Antillen en van Aruba, belast:
+1. Met de opsporing van de bij of krachtens deze rijkswet strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), belast:
 
 - a. de officieren der Koninklijke Marine, behoorende tot het Korps zeeofficieren, en, voorzoover zij in werkelijken dienst zijn, de tot dit Korps behoorende officieren der Koninklijke Marine Reserve;
 
@@ -113,15 +131,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 - c. de ambtenaren der Invoerrechten en Accijnzen;
 
-- d. de Nederlandsche consulaire ambtenaren;
+- d. de Nederlandsche consulaire ambtenaren.
 
-- e. de ambtenaren in de overzeesche gebiedsdeelen, die daartoe door de overzeesche overheden worden aangewezen.
-
-2. Processen-verbaal opgemaakt door een ambtenaar, als onder **d** of **e** genoemd, gelden als wettig bewijsmiddel, mits zij bevestigd worden door zijn daarin opgenomen schriftelijken eed (belofte).
+2. Processen-verbaal opgemaakt door een ambtenaar als bedoeld in onderdeel d, gelden als wettig bewijsmiddel, mits zij bevestigd worden door zijn daarin opgenomen schriftelijken eed (belofte).
 
 ##### Artikel 8
 
-Dit onderdeel is nog niet inwerking getreden
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+
+De [artikelen 5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13), [5:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) en [5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) zijn van overeenkomstige toepassing ten aanzien van de in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=7&z=2010-10-10&g=2010-10-10), bedoelde ambtenaren in Nederland.
 
 ##### Artikel 9
 
