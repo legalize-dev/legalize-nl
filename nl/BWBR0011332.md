@@ -4,7 +4,7 @@ identifier: "BWBR0011332"
 country: "nl"
 rank: "amvb"
 publication_date: "2010-10-10"
-last_updated: "2002-01-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011332"
 soort: "AMvB"
@@ -52,23 +52,23 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. opgehoudenen: personen die op basis van [artikel 154a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=154a), dan wel [artikel 176a, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=176a) tijdelijk worden opgehouden;
+- a. opgehoudenen: personen die op basis van [artikel 154a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=154a), dan wel [artikel 176a, derde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=176a) dan wel [artikel 158, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=158), dan wel [artikel 180, derde lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=180) tijdelijk worden opgehouden;
 
-- b. plaats van ophouding: door de burgemeester aangewezen plaats waar opgehoudenen tijdelijk worden opgevangen.
+- b. plaats van ophouding: door de burgemeester onderscheidenlijk de gezaghebber aangewezen plaats waar opgehoudenen tijdelijk worden opgevangen.
 
 #### Paragraaf 2. Eisen aan de plaats van ophouding
 
 ##### Artikel 2
 
-De burgemeester draagt er zorg voor dat voldoende maatregelen zijn genomen om de veiligheid van de opgehoudenen en andere op de plaats van ophouding aanwezigen, te waarborgen.
+De burgemeester onderscheidenlijk de gezaghebber draagt er zorg voor dat voldoende maatregelen zijn genomen om de veiligheid van de opgehoudenen en andere op de plaats van ophouding aanwezigen, te waarborgen.
 
 ##### Artikel 3
 
-De burgemeester draagt er zorg voor dat de opgehoudenen kunnen beschikken over een redelijke bewegingsruimte.
+De burgemeester onderscheidenlijk de gezaghebber draagt er zorg voor dat de opgehoudenen kunnen beschikken over een redelijke bewegingsruimte.
 
 ##### Artikel 4
 
-1. De burgemeester treft voorzieningen opdat de opgehoudenen, indien redelijkerwijs nodig en mogelijk, beschikken over:
+1. De burgemeester onderscheidenlijk de gezaghebber treft voorzieningen opdat de opgehoudenen, indien redelijkerwijs nodig en mogelijk, beschikken over:
 
 - a. de gelegenheid tot het gebruik van een toilet,
 
@@ -78,9 +78,9 @@ De burgemeester draagt er zorg voor dat de opgehoudenen kunnen beschikken over e
 
 - d. informatie over de gang van zaken tijdens de ophouding.
 
-2. De burgemeester laat aan de opgehoudenen zo nodig eten en drinken verstrekken.
+2. De burgemeester onderscheidenlijk de gezaghebber laat aan de opgehoudenen zo nodig eten en drinken verstrekken.
 
-3. Indien er sprake is van ophouding in de periode tussen één en zes uur voormiddags, treft de burgemeester voorzieningen opdat de opgehoudenen in ieder geval beschikken over slaapgelegenheid, tenzij de opgehoudenen op de plaats van ophouding, niet zijnde het middel van vervoer, aankomen na vier uur voormiddags.
+3. Indien er sprake is van ophouding in de periode tussen één en zes uur voormiddags, treft de burgemeester onderscheidenlijk de gezaghebber voorzieningen opdat de opgehoudenen in ieder geval beschikken over slaapgelegenheid, tenzij de opgehoudenen op de plaats van ophouding, niet zijnde het middel van vervoer, aankomen na vier uur voormiddags.
 
 ##### Artikel 5
 
@@ -90,11 +90,11 @@ De burgemeester draagt er zorg voor dat de opgehoudenen kunnen beschikken over e
 
 ##### Artikel 6
 
-1. De burgemeester treft op de plaats van ophouding voorzieningen opdat de opgehoudenen in de gelegenheid zijn beroep in te stellen als bedoeld in [artikel 8:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:1), en een voorlopige voorziening te vragen, als bedoeld in [artikel 8:81 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:81).
+1. De burgemeester onderscheidenlijk de gezaghebber treft op de plaats van ophouding voorzieningen opdat de opgehoudenen in de gelegenheid zijn beroep in te stellen als bedoeld in [artikel 8:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:1) onderscheidenlijk [artikel 7 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=7), en een voorlopige voorziening te vragen, als bedoeld in [artikel 8:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:81) onderscheidenlijk [artikel 85 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=85).
 
 2. Deze voorzieningen bestaan in elk geval uit het beschikbaar stellen van schrijfgerei en papier.
 
-3. De burgemeester draagt er zorg voor dat een op de voorgeschreven wijze aangereikt beroepschrift of een schriftelijk verzoek om een voorlopige voorziening, onverwijld in handen wordt gesteld van de voorzieningenrechter van de bevoegde rechtbank.
+3. De burgemeester onderscheidenlijk de gezaghebber draagt er zorg voor dat een op de voorgeschreven wijze aangereikt beroepschrift of een schriftelijk verzoek om een voorlopige voorziening, onverwijld in handen wordt gesteld van de voorzieningenrechter van de bevoegde rechtbank onderscheidenlijk van het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba.
 
 #### Paragraaf 3. Slotbepalingen
 
@@ -105,5 +105,15 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit plaatsen bestuurlijke ophouding.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 1a
+
+Dit besluit berust mede op de [artikelen158, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=158), en [180, derde lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=180).
+
+#### Paragraaf 2. Eisen aan de plaats van ophouding
+
+#### Paragraaf 3. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het Staatsblad zal worden geplaatst.
