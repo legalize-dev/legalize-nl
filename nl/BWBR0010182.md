@@ -4,7 +4,7 @@ identifier: "BWBR0010182"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-01"
-last_updated: "2007-12-19"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010182"
 soort: "AMvB"
@@ -96,7 +96,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3. Nederlanders, in dienst van een publiekrechtelijke rechtspersoon, en hun gezinsleden in het buitenland
 
-1. Verzekerd op grond van de volksverzekeringen is de niet in Nederland wonende Nederlander, voor zover niet reeds begrepen onder [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=2&artikel=2&z=2007-12-19&g=2007-12-19), die uit hoofde van een dienstbetrekking met een Nederlandse publiekrechtelijke rechtspersoon buiten Nederland arbeid verricht ten behoeve van die rechtspersoon, tenzij hij:
+1. Verzekerd op grond van de volksverzekeringen is de niet in Nederland wonende Nederlander, voor zover niet reeds begrepen onder [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=2&artikel=2&z=2010-10-10&g=2010-10-10), die uit hoofde van een dienstbetrekking met een Nederlandse publiekrechtelijke rechtspersoon buiten Nederland arbeid verricht ten behoeve van die rechtspersoon, tenzij hij:
 
 - a. ten tijde van aanwerving niet in Nederland woonde;
 
@@ -106,7 +106,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. werkzaam is bij een door Onze Ministers en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties aan te wijzen volkenrechtelijke organisatie en op hem een regeling inzake sociale zekerheid van die organisatie van toepassing is.
 
-2. In afwijking van het eerste lid, onderdeel b, is verzekerd op grond van de volksverzekeringen de Nederlander die in dienst is van een publiekrechtelijke rechtspersoon op de Nederlandse Antillen of Aruba mits hij door de Nederlandse overheid is uitgezonden.
+2. In afwijking van het eerste lid, onderdeel b, is verzekerd op grond van de volksverzekeringen de Nederlander die in dienst is van een publiekrechtelijke rechtspersoon in Aruba, Curaçao, Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius of Saba mits hij door de Nederlandse overheid is uitgezonden.
 
 3. Verzekerd op grond van de volksverzekeringen zijn de echtgenoot, kinderen en overige inwonende gezinsleden van de verzekerde, bedoeld in het eerste en tweede lid, tenzij het gezinslid:
 
@@ -130,7 +130,7 @@ Verzekerd op grond van de volksverzekeringen is de persoon die niet in Nederland
 
 ##### Artikel 5. Gezinsleden van varend personeel
 
-Verzekerd op grond van de volksverzekeringen zijn de aan boord van een schip wonende echtgenoot en kinderen van de persoon die op grond van de volksverzekeringen of van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=2&artikel=4&z=2007-12-19&g=2007-12-19) verzekerd is.
+Verzekerd op grond van de volksverzekeringen zijn de aan boord van een schip wonende echtgenoot en kinderen van de persoon die op grond van de volksverzekeringen of van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=2&artikel=4&z=2010-10-10&g=2010-10-10) verzekerd is.
 
 ##### Artikel 6. Tijdelijke onderbreking van arbeid in Nederland
 
@@ -264,15 +264,15 @@ In afwijking van de eerste zin zijn de daar genoemde leden en particuliere bedie
 
 - b. een Nederlandse socialeverzekeringsuitkering ontvangen.
 
-##### Artikel 15. Nederlandse Antillen en Aruba
+##### Artikel 15. Aruba, Curaçao, Sint Maarten en de openbare lichamen Bonaire, Sint Eustatius en Saba
 
 1. Niet verzekerd op grond van de volksverzekeringen is:
 
-- a. de gevolmachtigde Minister van de Nederlandse Antillen en de gevolmachtigde Minister van Aruba;
+- a. de gevolmachtigde Minister van Aruba, de gevolmachtigde Minister van Curaçao en de gevolmachtigde Minister van Sint Maarten;
 
 - b. de persoon die als ambtenaar is toegevoegd aan één van de in onderdeel a bedoelde personen en die ten tijde van aanwerving niet in Nederland woonde; of
 
-- c. de persoon die als ambtenaar van de Nederlandse Antillen, Aruba of een publiekrechtelijke rechtspersoon van een van beide landen in Nederland een studieopdracht vervult en die ten tijde van aanwerving niet in Nederland woonde, tenzij hij: 1o. in Nederland arbeid verricht anders dan uit hoofde van de vorenbedoelde dienstbetrekking; of 2o. een Nederlandse socialeverzekeringsuitkering ontvangt.
+- c. de persoon die als ambtenaar van Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius of Saba of een publiekrechtelijke rechtspersoon van een van de drie landen of openbare lichamen in Nederland een studieopdracht vervult en die ten tijde van aanwerving niet in Nederland woonde, tenzij hij: 1o. in Nederland arbeid verricht anders dan uit hoofde van de vorenbedoelde dienstbetrekking; of 2o. een Nederlandse socialeverzekeringsuitkering ontvangt.
 
 2. De in Nederland wonende echtgenoot, kinderen en overige inwonende gezinsleden van een persoon als bedoeld in het eerste lid, zijn niet verzekerd op grond van de volksverzekeringen, tenzij zij:
 
@@ -288,7 +288,7 @@ In afwijking van de eerste zin zijn de daar genoemde leden en particuliere bedie
 
 ##### Artikel 16. Buitenlandse ambtenaren
 
-1. Niet verzekerd op grond van de volksverzekeringen is de persoon, voor zover niet reeds begrepen onder [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=13&z=2007-12-19&g=2007-12-19), die arbeid verricht uit hoofde van een dienstbetrekking met een buitenlandse publiekrechtelijke rechtspersoon, tenzij hij:
+1. Niet verzekerd op grond van de volksverzekeringen is de persoon, voor zover niet reeds begrepen onder [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=13&z=2010-10-10&g=2010-10-10), die arbeid verricht uit hoofde van een dienstbetrekking met een buitenlandse publiekrechtelijke rechtspersoon, tenzij hij:
 
 - a. in Nederland arbeid verricht anders dan uit hoofde van die dienstbetrekking; of
 
@@ -352,7 +352,7 @@ Niet verzekerd op grond van de volksverzekeringen is:
 
 1. Niet verzekerd op grond van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) is de persoon die in Nederland woont, doch die met toepassing van een verordening van de Raad van de Europese Gemeenschappen of van een door Nederland met een of meer andere staten gesloten verdrag inzake sociale zekerheid, in Nederland recht kan doen gelden op verstrekkingen die hem in beginsel worden verleend ten laste van een andere lidstaat van de Europese Unie dan wel een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of een staat waarmee Nederland een verdrag inzake sociale zekerheid heeft gesloten.
 
-2. Niet verzekerd op grond van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) is de persoon die in Nederland woont en die recht heeft op een uitkering of pensioen ingevolge een regeling van een op grond van [artikel 3, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=2&artikel=3&z=2007-12-19&g=2007-12-19), dan wel [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=14&z=2007-12-19&g=2007-12-19), aangewezen volkenrechtelijke organisatie, indien hij op grond van een regeling van die organisatie in Nederland aanspraak heeft op zorg, of op vergoeding voor de kosten daarvan, tenzij hij in Nederland arbeid verricht. De aanspraak, bedoeld in de vorige volzin, omvat in ieder geval opname en verpleging in ziekenhuizen en in instellingen voor langdurige verpleging en verzorging.
+2. Niet verzekerd op grond van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) is de persoon die in Nederland woont en die recht heeft op een uitkering of pensioen ingevolge een regeling van een op grond van [artikel 3, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=2&artikel=3&z=2010-10-10&g=2010-10-10), dan wel [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=14&z=2010-10-10&g=2010-10-10), aangewezen volkenrechtelijke organisatie, indien hij op grond van een regeling van die organisatie in Nederland aanspraak heeft op zorg, of op vergoeding voor de kosten daarvan, tenzij hij in Nederland arbeid verricht. De aanspraak, bedoeld in de vorige volzin, omvat in ieder geval opname en verpleging in ziekenhuizen en in instellingen voor langdurige verpleging en verzorging.
 
 3. De in Nederland wonende echtgenoot, kinderen en inwonende overige gezinsleden van de in het tweede lid bedoelde persoon, zijn eveneens niet verzekerd op grond van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) indien zij ingevolge een regeling van de desbetreffende volkenrechtelijke organisatie in Nederland aanspraak hebben op zorg, of op vergoeding voor de kosten daarvan. De aanspraak, bedoeld in de vorige volzin, omvat in ieder geval opname en verpleging in ziekenhuizen en in instellingen voor langdurige verpleging en verzorging.
 
@@ -376,7 +376,7 @@ Niet verzekerd op grond van de volksverzekeringen is:
 
 4. Voor de toepassing van dit artikel wordt met een uitkering op grond van een buitenlandse wettelijke of bovenwettelijke regeling inzake sociale zekerheid gelijkgesteld een vergelijkbare buitenlandse uitkering krachtens een bijzondere regeling voor ambtenaren en wordt met een Nederlandse socialeverzekeringsuitkering gelijkgesteld een vergelijkbare Nederlandse uitkering krachtens een bijzondere regeling voor ambtenaren.
 
-5. Voor de toepassing van dit artikel wordt een uitkering op grond van een wettelijke of bovenwettelijke regeling inzake sociale zekerheid van de Nederlandse Antillen of Aruba aangemerkt als een uitkering op grond van een buitenlandse regeling.
+5. Voor de toepassing van dit artikel wordt een uitkering op grond van een wettelijke of bovenwettelijke regeling inzake sociale zekerheid van Aruba, Curaçao, Sint Maarten of van Nederland ten behoeve van de openbare lichamen Bonaire, Sint Eustatius en Saba aangemerkt als een uitkering op grond van een buitenlandse regeling.
 
 6. Het tweede lid, eerste zin, en het derde lid, zijn niet van toepassing indien de persoon bedoeld in het eerste lid, binnen de in die leden genoemde periode van een jaar respectievelijk ten hoogste drie jaar, een uitkering op grond van de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) dan wel kinderbijslag op grond van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) heeft ontvangen.
 
@@ -388,7 +388,7 @@ De vreemdeling die rechtmatig in Nederland verblijf houdt in de zin van [artikel
 
 ##### Artikel 24. Hardheidsclausule
 
-1. De Sociale verzekeringsbank kan, met uitzondering van [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=22&z=2007-12-19&g=2007-12-19), artikelen van dit besluit buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang van de uitbreiding en beperking van de kring van verzekerden zal leiden tot een onbillijkheid van overwegende aard, die uitsluitend voortvloeit uit de verzekeringsplicht of de uitsluiting daarvan krachtens dit besluit.
+1. De Sociale verzekeringsbank kan, met uitzondering van [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=22&z=2010-10-10&g=2010-10-10), artikelen van dit besluit buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang van de uitbreiding en beperking van de kring van verzekerden zal leiden tot een onbillijkheid van overwegende aard, die uitsluitend voortvloeit uit de verzekeringsplicht of de uitsluiting daarvan krachtens dit besluit.
 
 2. Van een besluit van de Sociale verzekeringsbank op grond van het eerste lid, wordt mededeling gedaan in de Staatscourant.
 
@@ -396,11 +396,11 @@ De vreemdeling die rechtmatig in Nederland verblijf houdt in de zin van [artikel
 
 ##### Artikel 25. Voortzetting verstrekkingen op grond van de AWBZ
 
-1. De persoon, die niet in Nederland woont, en van wie de verzekering op grond van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) uitsluitend wegens de inwerkingtreding van enig artikel van dit besluit dan wel wegens het vervallen van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=5&artikel=26&z=2007-12-19&g=2007-12-19) is geëindigd, heeft niettemin met overeenkomstige toepassing van [artikel 20, eerste lid, onderdeel b, en derde lid, van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=20), recht op uitkeringen ten laste van het Algemeen Fonds Bijzondere Ziektekosten, bedoeld in de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745), ter zake van de kosten van verblijf en voortgezet verblijf als bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=9) en [13 van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=13), voor zover die zorg op de dag voorafgaande aan de inwerkingtreding van enig artikel van dit besluit dan wel aan het vervallen van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=5&artikel=26&z=2007-12-19&g=2007-12-19) ingevolge [artikel 20, eerste lid, onderdeel b, en derde lid, van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=20), voor rekening van het Algemeen Fonds Bijzondere Ziektekosten werd verleend en op een tijdstip gelegen uiterlijk op die dag was aangevangen maar nog niet voltooid.
+1. De persoon, die niet in Nederland woont, en van wie de verzekering op grond van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) uitsluitend wegens de inwerkingtreding van enig artikel van dit besluit dan wel wegens het vervallen van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=5&artikel=26&z=2010-10-10&g=2010-10-10) is geëindigd, heeft niettemin met overeenkomstige toepassing van [artikel 20, eerste lid, onderdeel b, en derde lid, van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=20), recht op uitkeringen ten laste van het Algemeen Fonds Bijzondere Ziektekosten, bedoeld in de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745), ter zake van de kosten van verblijf en voortgezet verblijf als bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=9) en [13 van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=13), voor zover die zorg op de dag voorafgaande aan de inwerkingtreding van enig artikel van dit besluit dan wel aan het vervallen van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=5&artikel=26&z=2010-10-10&g=2010-10-10) ingevolge [artikel 20, eerste lid, onderdeel b, en derde lid, van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=20), voor rekening van het Algemeen Fonds Bijzondere Ziektekosten werd verleend en op een tijdstip gelegen uiterlijk op die dag was aangevangen maar nog niet voltooid.
 
-2. De belanghebbende die op grond van het eerste lid zijn aanspraak tot gelding wil brengen meldt zich daartoe binnen een termijn van vier maanden na de inwerkingtreding van enig artikel van dit besluit dan wel vier maanden na het vervallen van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=5&artikel=26&z=2007-12-19&g=2007-12-19) aan bij de zorgverzekeraar. waarbij hij op de dag voorafgaande aan de inwerkingtreding van enig artikel van dit besluit dan wel het vervallen van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=5&artikel=26&z=2007-12-19&g=2007-12-19) als verzekerde op grond van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) was ingeschreven. Indien de belanghebbende op de dag voorafgaande aan de inwerkingtreding van enig artikel van dit besluit dan wel het vervallen van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=5&artikel=26&z=2007-12-19&g=2007-12-19) nog niet was ingeschreven, dan wel diens inschrijving in de periode gelegen tussen die dag en de dag van aanmelding als belanghebbende is komen te vervallen, meldt hij zich binnen een termijn van vier maanden om zijn aanspraak tot gelding te brengen een zorgverzekeraar naar eigen keuze.
+2. De belanghebbende die op grond van het eerste lid zijn aanspraak tot gelding wil brengen meldt zich daartoe binnen een termijn van vier maanden na de inwerkingtreding van enig artikel van dit besluit dan wel vier maanden na het vervallen van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=5&artikel=26&z=2010-10-10&g=2010-10-10) aan bij de zorgverzekeraar. waarbij hij op de dag voorafgaande aan de inwerkingtreding van enig artikel van dit besluit dan wel het vervallen van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=5&artikel=26&z=2010-10-10&g=2010-10-10) als verzekerde op grond van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) was ingeschreven. Indien de belanghebbende op de dag voorafgaande aan de inwerkingtreding van enig artikel van dit besluit dan wel het vervallen van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=5&artikel=26&z=2010-10-10&g=2010-10-10) nog niet was ingeschreven, dan wel diens inschrijving in de periode gelegen tussen die dag en de dag van aanmelding als belanghebbende is komen te vervallen, meldt hij zich binnen een termijn van vier maanden om zijn aanspraak tot gelding te brengen een zorgverzekeraar naar eigen keuze.
 
-3. De belanghebbende die zich niet binnen de in het tweede lid bedoelde termijn als zodanig heeft aangemeld, wordt geacht aan die termijn te hebben voldaan, indien hij naar het oordeel van de instelling, bedoeld in het tweede lid, genoegzaam aantoont dat hij zich heeft aangemeld binnen een termijn van vier maanden na de dag waarop hij redelijkerwijs van de inwerkingtreding van enig artikel van dit besluit dan wel het vervallen van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=5&artikel=26&z=2007-12-19&g=2007-12-19) kennis heeft kunnen nemen.
+3. De belanghebbende die zich niet binnen de in het tweede lid bedoelde termijn als zodanig heeft aangemeld, wordt geacht aan die termijn te hebben voldaan, indien hij naar het oordeel van de instelling, bedoeld in het tweede lid, genoegzaam aantoont dat hij zich heeft aangemeld binnen een termijn van vier maanden na de dag waarop hij redelijkerwijs van de inwerkingtreding van enig artikel van dit besluit dan wel het vervallen van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=5&artikel=26&z=2010-10-10&g=2010-10-10) kennis heeft kunnen nemen.
 
 ##### Artikel 26. Tijdelijke uitbreiding van de kring van verzekerden op grond van het recht hebben op een uitkering
 
@@ -412,11 +412,11 @@ Vervallen
 
 ##### Artikel 28. Voortzetting beschikkingen
 
-Beschikkingen, gegeven op grond van de artikelen 18, 23, 24 en 25 van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1989 worden aangemerkt als beschikkingen op grond van de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=18&z=2007-12-19&g=2007-12-19), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=21&z=2007-12-19&g=2007-12-19), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=22&z=2007-12-19&g=2007-12-19) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=4&artikel=24&z=2007-12-19&g=2007-12-19).
+Beschikkingen, gegeven op grond van de artikelen 18, 23, 24 en 25 van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1989 worden aangemerkt als beschikkingen op grond van de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=18&z=2010-10-10&g=2010-10-10), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=21&z=2010-10-10&g=2010-10-10), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=22&z=2010-10-10&g=2010-10-10) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=4&artikel=24&z=2010-10-10&g=2010-10-10).
 
 ##### Artikel 29. Ministeriële regelingen
 
-Na de inwerkingtreding van dit besluit berusten de ministeriële regelingen op grond van de artikelen 3, derde lid, en 13, tweede lid, van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1989 op [de artikelen 3, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=2&artikel=3&z=2007-12-19&g=2007-12-19), en [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=14&z=2007-12-19&g=2007-12-19), van dit besluit.
+Na de inwerkingtreding van dit besluit berusten de ministeriële regelingen op grond van de artikelen 3, derde lid, en 13, tweede lid, van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1989 op [de artikelen 3, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=2&artikel=3&z=2010-10-10&g=2010-10-10), en [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=14&z=2010-10-10&g=2010-10-10), van dit besluit.
 
 ##### Artikel 30. Intrekking
 
@@ -434,25 +434,25 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 21a. Ontheffing verzekeringsplicht [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614)
 
-1. In afwijking van [artikel 14, derde lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=14&z=2007-12-19&g=2007-12-19), is niet verzekerd op grond van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) de persoon die op grond van een regeling van de in dat lid bedoelde organisatie aanspraken heeft op zorg, waaronder in ieder geval opname en verpleging in ziekenhuizen en in instellingen voor langdurige verpleging en verzorging, of op vergoeding voor de kosten daarvan, die een ouderdomspensioen op grond van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) ontvangt en aan wie het College zorgverzekeringen op zijn verzoek een ontheffing van de verzekering op grond van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) heeft verleend, tenzij hij in Nederland arbeid verricht.
+1. In afwijking van [artikel 14, derde lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=14&z=2010-10-10&g=2010-10-10), is niet verzekerd op grond van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) de persoon die op grond van een regeling van de in dat lid bedoelde organisatie aanspraken heeft op zorg, waaronder in ieder geval opname en verpleging in ziekenhuizen en in instellingen voor langdurige verpleging en verzorging, of op vergoeding voor de kosten daarvan, die een ouderdomspensioen op grond van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) ontvangt en aan wie het College zorgverzekeringen op zijn verzoek een ontheffing van de verzekering op grond van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) heeft verleend, tenzij hij in Nederland arbeid verricht.
 
-2. [Artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=21&z=2007-12-19&g=2007-12-19), is niet van toepassing op de persoon die een ouderdomspensioen op grond van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) ontvangt en aan wie het College zorgverzekeringen op zijn verzoek een ontheffing van de verzekering op grond van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) heeft verleend, tenzij hij in Nederland arbeid verricht.
+2. [Artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=21&z=2010-10-10&g=2010-10-10), is niet van toepassing op de persoon die een ouderdomspensioen op grond van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) ontvangt en aan wie het College zorgverzekeringen op zijn verzoek een ontheffing van de verzekering op grond van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) heeft verleend, tenzij hij in Nederland arbeid verricht.
 
-3. Het College zorgverzekeringen verleent de ontheffing indien en voor zolang wordt voldaan aan de in het eerste lid en aan de in [artikel 21, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=21&z=2007-12-19&g=2007-12-19), gestelde voorwaarden.
+3. Het College zorgverzekeringen verleent de ontheffing indien en voor zolang wordt voldaan aan de in het eerste lid en aan de in [artikel 21, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=21&z=2010-10-10&g=2010-10-10), gestelde voorwaarden.
 
 4. Indien de aanvraag voor de ontheffing voor 1 mei 2006 wordt ingediend door een persoon die op 31 december 2005 aan de in het eerste lid gestelde voorwaarde voldoet, gaat de ontheffing in met ingang van 1 januari 2006. Indien de aanvraag wordt ingediend binnen vier maanden nadat een persoon voor het eerst is gaan voldoen aan de in het eerste lid genoemde voorwaarde, gaat de ontheffing in met ingang van de dag waarop aan deze voorwaarde wordt voldaan. Indien de aanvraag voor de ontheffing later wordt ingediend, gaat de ontheffing in op de datum van de aanvraag om ontheffing.
 
 #### § 4. Gemeenschappelijke bepalingen
 
-#### § 5. Overgangs- en slotbepalingen
+#### § 4. Gemeenschappelijke bepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 21b. Ontheffing verzekeringsplicht AWBZ, AOW, ANW en AKW
 
-1. Voorzover de in Nederland wonende echtgenoot, kinderen en overige inwonende gezinsleden van de persoon, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=14&z=2007-12-19&g=2007-12-19), niet van de verzekering op grond van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) zijn uitgesloten op grond van de [artikelen 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=14&z=2007-12-19&g=2007-12-19), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=21&z=2007-12-19&g=2007-12-19) of [21a](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=21a&z=2007-12-19&g=2007-12-19), wordt, op aanvraag, door de Sociale verzekeringsbank een ontheffing verleend van de verzekering op grond van zowel de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) als de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368), indien de echtgenoot, kinderen en overige inwonende gezinsleden op grond van een regeling van een op grond van [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=14&z=2007-12-19&g=2007-12-19), aangewezen volkenrechtelijke organisatie, aanspraken hebben op zorg, waaronder in ieder geval opname en verpleging in ziekenhuizen en in instellingen voor langdurige verpleging en verzorging, of op vergoeding voor de kosten daarvan.
+1. Voorzover de in Nederland wonende echtgenoot, kinderen en overige inwonende gezinsleden van de persoon, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=14&z=2010-10-10&g=2010-10-10), niet van de verzekering op grond van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) zijn uitgesloten op grond van de [artikelen 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=14&z=2010-10-10&g=2010-10-10), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=21&z=2010-10-10&g=2010-10-10) of [21a](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=21a&z=2010-10-10&g=2010-10-10), wordt, op aanvraag, door de Sociale verzekeringsbank een ontheffing verleend van de verzekering op grond van zowel de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) als de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368), indien de echtgenoot, kinderen en overige inwonende gezinsleden op grond van een regeling van een op grond van [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=14&z=2010-10-10&g=2010-10-10), aangewezen volkenrechtelijke organisatie, aanspraken hebben op zorg, waaronder in ieder geval opname en verpleging in ziekenhuizen en in instellingen voor langdurige verpleging en verzorging, of op vergoeding voor de kosten daarvan.
 
-2. Het eerste lid is niet van toepassing op de echtgenoot, kinderen en overige inwonende gezinsleden die in Nederland arbeid verrichten of een Nederlandse sociale verzekeringsuitkering ontvangen, anders dan de in [artikel 21a](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=21a&z=2007-12-19&g=2007-12-19) bedoelde uitkering.
+2. Het eerste lid is niet van toepassing op de echtgenoot, kinderen en overige inwonende gezinsleden die in Nederland arbeid verrichten of een Nederlandse sociale verzekeringsuitkering ontvangen, anders dan de in [artikel 21a](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=21a&z=2010-10-10&g=2010-10-10) bedoelde uitkering.
 
 3. De Sociale verzekeringsbank verleent de ontheffing indien en voor zolang wordt voldaan aan de in het eerste en tweede lid gestelde voorwaarden.
 
@@ -462,9 +462,33 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 6. Indien de aanvraag voor de ontheffing niet binnen de in het vierde of vijfde lid genoemde periode wordt ingediend, gaat de ontheffing in op de eerste dag van de maand volgende op de dag waarop de aanvraag door de Sociale verzekeringsbank is ontvangen, indien op die eerste dag aan de in het eerste en tweede lid gestelde voorwaarden wordt voldaan.
 
-7. De echtgenoot, kinderen en overige inwonende gezinsleden die op grond van het eerste lid zijn ontheven, blijven ontheven van de verzekering op grond van zowel de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) als de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368), gedurende de periode van een jaar, te rekenen vanaf de datum van overlijden van de persoon, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=14&z=2007-12-19&g=2007-12-19), tenzij zij in Nederland arbeid verrichten.
+7. De echtgenoot, kinderen en overige inwonende gezinsleden die op grond van het eerste lid zijn ontheven, blijven ontheven van de verzekering op grond van zowel de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) als de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368), gedurende de periode van een jaar, te rekenen vanaf de datum van overlijden van de persoon, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=14&z=2010-10-10&g=2010-10-10), tenzij zij in Nederland arbeid verrichten.
 
 8. De Sociale verzekeringsbank stelt het College zorgverzekeringen op de hoogte van de in het eerste dan wel derde lid verleende, onderscheidenlijk ingetrokken, ontheffing.
+
+#### § 5. Overgangs- en slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 3a
+
+1. Verzekerd op grond van de volksverzekeringen is de Rijksvertegenwoordiger.
+
+2. Verzekerd op grond van de volksverzekeringen zijn de echtgenoot, kinderen en overige inwonende gezinsleden van de Rijksvertegenwoordiger, tenzij het gezinslid:
+
+- a. buiten Nederland arbeid verricht en de inkomsten uit deze arbeid meer bedragen dan het bedrag, genoemd in [artikel 8.14a, eerste lid, onderdeel a, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.14a); of
+
+- b. een uitkering ontvangt op grond van een andere wettelijke regeling inzake sociale zekerheid.
+
+3. De echtgenoot, kinderen en overige inwonende gezinsleden die op grond van het tweede lid zijn verzekerd, blijven verzekerd op grond van de volksverzekeringen gedurende de periode van een jaar, te rekenen vanaf de datum van overlijden van de Rijksvertegenwoordiger, tenzij het gezinslid:
+
+- a. buiten Nederland arbeid verricht en de inkomsten uit deze arbeid meer bedragen dan het bedrag, genoemd in [artikel 8.14a, eerste lid, onderdeel a, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.14a); of
+
+- b. een uitkering ontvangt op grond van een andere wettelijke regeling inzake sociale zekerheid.
+
+4. Onder Rijksvertegenwoordiger als bedoeld in dit artikel wordt verstaan: de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba.
+
+#### § 3. Beperking van de kring van verzekerden
 
 #### § 5. Overgangs- en slotbepalingen
 
