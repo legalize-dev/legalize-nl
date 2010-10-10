@@ -4,7 +4,7 @@ identifier: "BWBR0003895"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2010-10-10"
-last_updated: "1986-01-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003895"
 soort: "rijkswet"
@@ -44,7 +44,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ##### Artikel 1
 
-1. Met ingang van het tijdstip waarop Aruba de hoedanigheid verkrijgt van land in het Koninkrijk, wordt, met inachtneming van het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003895&artikel=2&z=1986-01-01&g=1986-01-01), de zeegrens tussen het land de Nederlandse Antillen en het land Aruba gevormd door de bogen van grootcirkels tussen de volgende punten in de volgorde zoals hieronder aangegeven:
+1. De zeegrens tussen het land Aruba en het land Curaçao wordt, met inachtneming van het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003895&artikel=2&z=2010-10-10&g=2010-10-10), gevormd door de bogen van grootcirkels tussen de volgende punten in de volgorde zoals hieronder aangegeven:
 
 | R. | 12°09'06"N | 69°32'46"W |
 | --- | --- | --- |
@@ -63,12 +63,20 @@ en van het punt X de meridiaan van 69°20'20"W in noordelijke richting volgend t
 
 ##### Artikel 2
 
-In zuidelijke richting is het eindpunt van de grenslijn punt R, dat het snijpunt vormt van de grenslijnen tussen de zeegebieden van het land de Nederlandse Antillen, het land Aruba en de Republiek Venezuela.
+In zuidelijke richting is het eindpunt van de grenslijn punt R, dat het snijpunt vormt van de grenslijnen tussen de zeegebieden van het land Curaçao, het land Aruba en de Republiek Venezuela.
 
 ##### Artikel 3
 
 Deze rijkswet treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip.
 
 ## Bijlage. als bedoeld in [artikel 1 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003895&artikel=1&z=1986-01-01&g=1986-01-01) van de rijkswet houdende vaststelling van een zeegrens tussen de Nederlandse Antillen en Aruba
+
+Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 4
+
+Deze rijkswet wordt aangehaald als: Rijkswet vaststelling zeegrens tussen Aruba en Curaçao.
+
+## Bijlage. als bedoeld in [artikel 1 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003895&artikel=1&z=2010-10-10&g=2010-10-10) van de rijkswet houdende vaststelling van een zeegrens tussen de Nederlandse Antillen en Aruba
 
 Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
