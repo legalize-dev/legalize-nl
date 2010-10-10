@@ -4,7 +4,7 @@ identifier: "BWBR0027063"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-10-10"
-last_updated: "1996-11-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027063"
 soort: "ministeriele-regeling"
@@ -68,11 +68,11 @@ Besluit:
 
 ##### Artikel 3
 
-Deze regeling treedt voor de Nederlandse Antillen in werking met ingang van 1 november 1996.
+Deze regeling geldt voor Curaçao en Sint Maarten.
 
 ##### Artikel 4
 
-Deze regeling wordt aangehaald als: Regeling wachtalarminstallatie voor de Nederlandse Antillen.
+Deze regeling wordt aangehaald als: Regeling wachtalarminstallatie voor Curaçao en Sint Maarten.
 
 ## Bijlage
 
