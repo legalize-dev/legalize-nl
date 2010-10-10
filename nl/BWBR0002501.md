@@ -4,7 +4,7 @@ identifier: "BWBR0002501"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2010-10-10"
-last_updated: "2005-01-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002501"
 soort: "rijksKB"
@@ -50,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Omschrijvingen
 
-1. Onverminderd het bepaalde in het derde lid van dit artikel en het bepaalde in [artikel 107](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=VII&artikel=107&z=2005-01-01&g=2005-01-01) van dit besluit, wordt voor de toepassing van dit besluit verstaan onder:
+1. Onverminderd het bepaalde in het derde lid van dit artikel en het bepaalde in [artikel 107](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=VII&artikel=107&z=2010-10-10&g=2010-10-10) van dit besluit, wordt voor de toepassing van dit besluit verstaan onder:
 
 **wet:** de [Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876);
 
@@ -88,9 +88,9 @@ Hebben goedgevonden en verstaan:
 
 **tankschip:** een vrachtschip dat is gebouwd of is aangepast voor het vervoer in bulk van vloeibare lading van ontvlambare aard;
 
-**chemicaliëntankschip:** een vrachtschip dat is gebouwd of is aangepast en wordt gebruikt voor het vervoer in bulk van vloeibare lading zoals vermeld in de opsomming van minimumeisen per stof, behorende bij de door Onze Minister voor een zodanig schip gestelde aanvullende eisen, bedoeld in [artikel 130g](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=IX&artikel=130g&z=2005-01-01&g=2005-01-01);
+**chemicaliëntankschip:** een vrachtschip dat is gebouwd of is aangepast en wordt gebruikt voor het vervoer in bulk van vloeibare lading zoals vermeld in de opsomming van minimumeisen per stof, behorende bij de door Onze Minister voor een zodanig schip gestelde aanvullende eisen, bedoeld in [artikel 130g](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=IX&artikel=130g&z=2010-10-10&g=2010-10-10);
 
-**gastankschip:** een vrachtschip dat is gebouwd of is aangepast en wordt gebruikt voor het vervoer in bulk van lading bestaande uit vloeibaar gemaakt gas of andere stoffen zoals vermeld in de opsomming van minimumeisen, behorende bij de door Onze Minister voor een zodanig schip gestelde aanvullende eisen, bedoeld in [artikel 130g](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=IX&artikel=130g&z=2005-01-01&g=2005-01-01);
+**gastankschip:** een vrachtschip dat is gebouwd of is aangepast en wordt gebruikt voor het vervoer in bulk van lading bestaande uit vloeibaar gemaakt gas of andere stoffen zoals vermeld in de opsomming van minimumeisen, behorende bij de door Onze Minister voor een zodanig schip gestelde aanvullende eisen, bedoeld in [artikel 130g](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=IX&artikel=130g&z=2010-10-10&g=2010-10-10);
 
 **combinatietankschip:** een schip ingericht voor het vervoer van afwisselend olie en stortladingen;
 
@@ -128,7 +128,7 @@ indien de grootte van een schip is vastgesteld volgens de bepalingen krachtens d
 
 **lastlijn:** de waterlijn bij de grootste geoorloofde inzinking in zeewater;
 
-**vrijboord:** de in het midscheepse vlak vertikaal gemeten afstand van de bovenkant van de deklijn, als aangegeven in [artikel 3 van bijlage I van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=I&z=2005-01-01&g=2005-01-01), tot de bovenkant van de van toepassing zijnde lijn van het uitwateringsmerk, als aangegeven in [artikel 5 van genoemde bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=I&z=2005-01-01&g=2005-01-01) ;
+**vrijboord:** de in het midscheepse vlak vertikaal gemeten afstand van de bovenkant van de deklijn, als aangegeven in [artikel 3 van bijlage I van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=I&z=2010-10-10&g=2010-10-10), tot de bovenkant van de van toepassing zijnde lijn van het uitwateringsmerk, als aangegeven in [artikel 5 van genoemde bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=I&z=2010-10-10&g=2010-10-10) ;
 
 **indompelingsgrenslijn:** een lijn, gedacht op het scheepsboord, evenwijdig aan en op een afstand van 76 millimeter onder de aansnijding van de bovenzijde van het schottendek met dit boord;
 
@@ -194,7 +194,7 @@ Vervallen
 
 - b. een passagiersschip of een schip van 500 ton of meer een veiligheidsmanagementcertificaat (safety management certificate) als bedoeld in de ISM-code aan boord heeft.
 
-2. De certificaten, bedoeld in [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=II&artikel=3&z=2005-01-01&g=2005-01-01) zijn:
+2. De certificaten, bedoeld in [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=II&artikel=3&z=2010-10-10&g=2010-10-10) zijn:
 
 - a. voor elk schip van 150 ton of meer, dat is gebouwd vóór 21 juli 1968, en voor elk schip dat is gebouwd op of na 21 juli 1968 en dat een lengte heeft van 24 meter of meer: een internationaal certificaat van uitwatering (international load line certificate);
 
@@ -218,7 +218,7 @@ Onze Minister wijst de natuurlijke personen of de rechtspersonen aan, klassebure
 
 ##### Artikel 7. Klassebureau naar keuze
 
-1. Voordat een eerste onderzoek plaatsvindt voor de verlening van certificaten, andere dan die genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=II&artikel=3&z=2005-01-01&g=2005-01-01), kiest de eigenaar of de bouwer van een schip voor de regels van een bepaald klassebureau. Bij volgende onderzoeken worden de regels van dat klassebureau toegepast. Een schip voldoet met betrekking tot de romp, de machine- en elektrische installaties en de uitrusting aan de regels, gegeven door dat klassebureau, voorzover die regels niet in strijd zijn met het bepaalde bij of krachtens dit besluit.
+1. Voordat een eerste onderzoek plaatsvindt voor de verlening van certificaten, andere dan die genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=II&artikel=3&z=2010-10-10&g=2010-10-10), kiest de eigenaar of de bouwer van een schip voor de regels van een bepaald klassebureau. Bij volgende onderzoeken worden de regels van dat klassebureau toegepast. Een schip voldoet met betrekking tot de romp, de machine- en elektrische installaties en de uitrusting aan de regels, gegeven door dat klassebureau, voorzover die regels niet in strijd zijn met het bepaalde bij of krachtens dit besluit.
 
 2. Vervallen.
 
@@ -228,7 +228,7 @@ Onze Minister wijst de natuurlijke personen of de rechtspersonen aan, klassebure
 
 2. Vervallen.
 
-3. Een schip wordt in verband met de certificaten, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=II&artikel=3&z=2005-01-01&g=2005-01-01), en de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=II&artikel=4&z=2005-01-01&g=2005-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=II&artikel=5&z=2005-01-01&g=2005-01-01), onderworpen aan de volgende onderzoeken:
+3. Een schip wordt in verband met de certificaten, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=II&artikel=3&z=2010-10-10&g=2010-10-10), en de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=II&artikel=4&z=2010-10-10&g=2010-10-10) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=II&artikel=5&z=2010-10-10&g=2010-10-10), onderworpen aan de volgende onderzoeken:
 
 - a. een eerste onderzoek voordat het schip in dienst wordt gesteld,
 
@@ -288,7 +288,7 @@ Vervallen
 
 ##### Artikel 20. Weigering van afgifte
 
-Indien een op de Nederlandse Antillen of op Aruba ingediende aanvraag van een certificaat wordt afgewezen, geschiedt de afwijzing schriftelijk en met redenen omkleed door toezending of uitreiking aan de belanghebbende.
+Indien een in Aruba, Curaçao of Sint Maarten ingediende aanvraag van een certificaat wordt afgewezen, geschiedt de afwijzing schriftelijk en met redenen omkleed door toezending of uitreiking aan de belanghebbende.
 
 ##### Artikel 21. Geldigheidsduur van certificaten
 
@@ -298,7 +298,7 @@ Indien een op de Nederlandse Antillen of op Aruba ingediende aanvraag van een ce
 
 ##### Artikel 22. Vernieuwing van certificaten
 
-Na de voltooiing van een hernieuwd onderzoek is het nieuwe certificaat, in afwijking van [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=III&artikel=21&z=2005-01-01&g=2005-01-01), geldig vanaf de datum van voltooiing van het hernieuwde onderzoek tot:
+Na de voltooiing van een hernieuwd onderzoek is het nieuwe certificaat, in afwijking van [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=III&artikel=21&z=2010-10-10&g=2010-10-10), geldig vanaf de datum van voltooiing van het hernieuwde onderzoek tot:
 
 - a. indien het een veiligheidscertificaat voor een passagiersschip betreft: een datum niet later dan twaalf maanden na de vervaldatum van het bestaande certificaat;
 
@@ -480,7 +480,7 @@ Vervallen
 
 ##### Artikel 63a. Bescherming tegen geluidhinder
 
-Aan boord van een schip moeten maatregelen worden getroffen om geluidhinder te beperken. In ruimten voor machines moet daartoe worden voldaan aan het bepaalde in [artikel 36 van bijlage II van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=II&z=2005-01-01&g=2005-01-01) . In overige ruimten moet daartoe worden voldaan aan de door het Hoofd van de Scheepvaartinspectie gestelde nadere regels.
+Aan boord van een schip moeten maatregelen worden getroffen om geluidhinder te beperken. In ruimten voor machines moet daartoe worden voldaan aan het bepaalde in [artikel 36 van bijlage II van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=II&z=2010-10-10&g=2010-10-10) . In overige ruimten moet daartoe worden voldaan aan de door het Hoofd van de Scheepvaartinspectie gestelde nadere regels.
 
 ##### Artikel 64. Verblijven voor de bemanning
 
@@ -506,7 +506,7 @@ Vervallen
 
 ##### Artikel 67a. Stabiliteit
 
-1. Tezamen met de resultaten van de hellingproef als bedoeld in [artikel 12 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=III&artikel=12&z=2005-01-01&g=2005-01-01), dienen voldoende gegevens betreffende de stabiliteit voor verschillende hellingen van het schip te worden overgelegd aan het Hoofd van de Scheepvaartinspectie. De stabiliteit van het schip dient daarbij in alle voorkomende bedrijfstoestanden ten minste te voldoen aan door het Hoofd van de Scheepvaartinspectie vast te stellen criteria.
+1. Tezamen met de resultaten van de hellingproef als bedoeld in [artikel 12 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=III&artikel=12&z=2010-10-10&g=2010-10-10), dienen voldoende gegevens betreffende de stabiliteit voor verschillende hellingen van het schip te worden overgelegd aan het Hoofd van de Scheepvaartinspectie. De stabiliteit van het schip dient daarbij in alle voorkomende bedrijfstoestanden ten minste te voldoen aan door het Hoofd van de Scheepvaartinspectie vast te stellen criteria.
 
 ### Hoofdstuk VI. Uitrusting
 
@@ -628,9 +628,9 @@ Vervallen
 
 ##### Artikel 93. Medische uitrusting aan boord
 
-1. Aan boord van een schip is de bij ministeriële regeling voorgeschreven medische uitrusting, bestaande uit geneesmiddelen, verplegingsartikelen en antidota, met de daarbij behorende controlelijsten en handleidingen, aanwezig volgens de voorschriften, vervat in [Bijlage XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=XVI&z=2005-01-01&g=2005-01-01).
+1. Aan boord van een schip is de bij ministeriële regeling voorgeschreven medische uitrusting, bestaande uit geneesmiddelen, verplegingsartikelen en antidota, met de daarbij behorende controlelijsten en handleidingen, aanwezig volgens de voorschriften, vervat in [Bijlage XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=XVI&z=2010-10-10&g=2010-10-10).
 
-2. De kapitein is verplicht zorg te dragen dat de medische uitrusting in goede staat verkeert, wordt aangevuld en zonodig wordt vernieuwd, zodra dit mogelijk is, in ieder geval bij voorrang tijdens de normale bevoorradingsprocedures. Hij kan het gebruik en het beheer van de medische uitrusting aan boord, onverminderd zijn eigen verantwoordelijkheid, overdragen aan een of meer schepelingen die voldoen aan de eisen, bedoeld in [artikel 117a](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=VII&artikel=117a&z=2005-01-01&g=2005-01-01).
+2. De kapitein is verplicht zorg te dragen dat de medische uitrusting in goede staat verkeert, wordt aangevuld en zonodig wordt vernieuwd, zodra dit mogelijk is, in ieder geval bij voorrang tijdens de normale bevoorradingsprocedures. Hij kan het gebruik en het beheer van de medische uitrusting aan boord, onverminderd zijn eigen verantwoordelijkheid, overdragen aan een of meer schepelingen die voldoen aan de eisen, bedoeld in [artikel 117a](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=VII&artikel=117a&z=2010-10-10&g=2010-10-10).
 
 ##### Artikel 93a. Wachtalarminstallatie
 
@@ -1484,7 +1484,7 @@ In deze berekening moeten de bijzondere kenmerken van het schip, zomede de inric
 
 Op een schip met een lengte van minder dan 100 meter mogen de aangenomen belastingen worden verminderd overeenkomstig het bepaalde in het vijfde lid van artikel 15 van deze bijlage.
 
-1. Voor de toepassing van dit artikel hebben de begrippen "vrijboorddek", "lengte van het schip" en "voorloodlijn" dezelfde betekenis als omschreven in [bijlage I van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=I&z=2005-01-01&g=2005-01-01).
+1. Voor de toepassing van dit artikel hebben de begrippen "vrijboorddek", "lengte van het schip" en "voorloodlijn" dezelfde betekenis als omschreven in [bijlage I van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=I&z=2010-10-10&g=2010-10-10).
 
 2. Er moet een voorpiek- of aanvaringsschot worden aangebracht dat tot het vrijboorddek waterdicht is opgetrokken. Dit schot moet worden aangebracht op een afstand van de voorloodlijn van niet minder van 5 percent en niet meer dan 10 percent van de lengte van het schip.
 
@@ -1608,7 +1608,7 @@ Op vaartuigen met een voortstuwingsvermogen van niet meer dan 120 kW moet deze h
 
 7. Het bepaalde in de voorgaande leden van dit artikel is niet van toepassing op vaartuigen waarvan:
 
-8. In alle gevallen kan de stroomvoorziening van de radio-uitrusting, zoals voorgeschreven in [Bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=V&z=2005-01-01&g=2005-01-01), overgeschakeld worden op de reservekrachtbron, zoals voorgeschreven in [artikel 15, tweede lid, van Bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=V&z=2005-01-01&g=2005-01-01). De reservekrachtbron voldoet aan de eisen gesteld in [artikel 15 en artikel 17 van Bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=V&z=2005-01-01&g=2005-01-01) en wordt alleen voor de in deze artikelen genoemde doeleinden en de stroomvoorziening van de noodverlichting bij de reddingvlotten gebruikt, indien dit volgens onderdeel 7.4 van toepassing is. De elektrische capaciteit van de reservekrachtbron is voldoende om gedurende ten minste 6 uur de radio-uitrusting, zoals voorgeschreven in [Bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=V&z=2005-01-01&g=2005-01-01), stroom te kunnen leveren. Voor de radio-uitrusting voor het vaargebied A1 (de VHF radiotelefonie-installatie) is met in achtneming van het voorgaande in dit lid de capaciteit van de reservekrachtbron niet minder dan 50 Ah bij 24 Volt. De reservekrachtbron wordt buiten de machinekamer in het bovenste deel van het schip opgesteld en mag niet worden beïnvloed door een calamiteit in de machinekamer. Op de brug is de laadstroom van de reservekrachtbron op een ampèremeter afleesbaar.
+8. In alle gevallen kan de stroomvoorziening van de radio-uitrusting, zoals voorgeschreven in [Bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=V&z=2010-10-10&g=2010-10-10), overgeschakeld worden op de reservekrachtbron, zoals voorgeschreven in [artikel 15, tweede lid, van Bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=V&z=2010-10-10&g=2010-10-10). De reservekrachtbron voldoet aan de eisen gesteld in [artikel 15 en artikel 17 van Bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=V&z=2010-10-10&g=2010-10-10) en wordt alleen voor de in deze artikelen genoemde doeleinden en de stroomvoorziening van de noodverlichting bij de reddingvlotten gebruikt, indien dit volgens onderdeel 7.4 van toepassing is. De elektrische capaciteit van de reservekrachtbron is voldoende om gedurende ten minste 6 uur de radio-uitrusting, zoals voorgeschreven in [Bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=V&z=2010-10-10&g=2010-10-10), stroom te kunnen leveren. Voor de radio-uitrusting voor het vaargebied A1 (de VHF radiotelefonie-installatie) is met in achtneming van het voorgaande in dit lid de capaciteit van de reservekrachtbron niet minder dan 50 Ah bij 24 Volt. De reservekrachtbron wordt buiten de machinekamer in het bovenste deel van het schip opgesteld en mag niet worden beïnvloed door een calamiteit in de machinekamer. Op de brug is de laadstroom van de reservekrachtbron op een ampèremeter afleesbaar.
 
 9. Het laden van de reservekrachtbron geschiedt op de volgende wijze:
 
@@ -2100,7 +2100,7 @@ Vervallen.
 
 ### Artikel 48
 
-Ten behoeve van de radiocommunicatie tussen de groepsreddingmiddelen onderling en het schip, alsmede tussen het schip en de hulpverleningsboot, moeten aan boord van schepen VHF radio-installaties die voldoen aan het bepaalde in [artikel 14c van bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=XIII&z=2005-01-01&g=2005-01-01), aan boord zijn. Het is niet noodzakelijk dat er voor ieder groepsreddingmiddel een afzonderlijke VHF radio-installatie is, maar er moeten op schepen van 300 ton of meer ten minste twee VHF radio-installaties aan boord zijn en op schepen van minder dan 300 ton ten minste één VHF radio-installatie.
+Ten behoeve van de radiocommunicatie tussen de groepsreddingmiddelen onderling en het schip, alsmede tussen het schip en de hulpverleningsboot, moeten aan boord van schepen VHF radio-installaties die voldoen aan het bepaalde in [artikel 14c van bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=XIII&z=2010-10-10&g=2010-10-10), aan boord zijn. Het is niet noodzakelijk dat er voor ieder groepsreddingmiddel een afzonderlijke VHF radio-installatie is, maar er moeten op schepen van 300 ton of meer ten minste twee VHF radio-installaties aan boord zijn en op schepen van minder dan 300 ton ten minste één VHF radio-installatie.
 
 ### Artikel 49
 
@@ -8806,7 +8806,7 @@ De artikelen 55 tot en met 59 zijn uitsluitend van toepassing op kleine vaartuig
 
 1. VHF radio-installaties
 
-Aan deze bepaling kan ook worden voldaan door toepassing van andere draagbare communicatie-apparaten die aan boord worden gebruikt, mits die apparaten voldoen aan het bepaalde in [artikel 14c van bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=XIII&z=2005-01-01&g=2005-01-01).
+Aan deze bepaling kan ook worden voldaan door toepassing van andere draagbare communicatie-apparaten die aan boord worden gebruikt, mits die apparaten voldoen aan het bepaalde in [artikel 14c van bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=XIII&z=2010-10-10&g=2010-10-10).
 
 Op of in de nabijheid van de brug moeten ten minste zes valschermsignalen aanwezig zijn, die voldoen aan het bepaalde in artikel 35.
 
