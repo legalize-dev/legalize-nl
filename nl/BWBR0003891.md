@@ -4,7 +4,7 @@ identifier: "BWBR0003891"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-07-01"
-last_updated: "1998-06-26"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003891"
 soort: "AMvB"
@@ -94,9 +94,9 @@ Voor de toepassing van de [artikelen 56](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 4
 
-1. Voor de toepassing van de [artikelen 56](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=56) en [59 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=59) wordt met het wonen binnen het Rijk gelijkgesteld het wonen in Suriname, Nederlandse Antillen of Aruba van een Surinamer, aan wie, voor hij het Rijk metterwoon verliet, de voordelen voortvloeiend uit [artikel 55 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=55) toekwamen of die toen voldeed aan de eisen van artikel 58 in verbinding met artikel 59 van genoemde wet, mits hij - al dan niet onafgebroken - gedurende zes jaren na de voleindiging van zijn 59ste levensjaar binnen het Rijk heeft gewoond.
+1. Voor de toepassing van de [artikelen 56](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=56) en [59 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=59) wordt met het wonen binnen het Rijk gelijkgesteld het wonen in Suriname, Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba van een Surinamer, aan wie, voor hij het Rijk metterwoon verliet, de voordelen voortvloeiend uit [artikel 55 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=55) toekwamen of die toen voldeed aan de eisen van [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=58) in verbinding met artikel 59 van genoemde wet, mits hij - al dan niet onafgebroken - gedurende zes jaren na de voleindiging van zijn 59ste levensjaar binnen het Rijk heeft gewoond.
 
-2. Voor de toepassing van het eerste lid wordt, wanneer het de voordelen voortvloeiend uit [artikel 55 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=55) betreft, uitsluitend voor de vaststelling van de toeslag, bedoeld in [artikel 8 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=8) met toepassing van het bepaalde in artikel 13, tweede lid, onderdeel **a**, van die wet, de jongere echtgenoot van de pensioengerechtigde geacht het 59ste levensjaar te hebben voleindigd op dezelfde dag als die pensioengerechtigde.
+2. Voor de toepassing van het eerste lid wordt, wanneer het de voordelen voortvloeiend uit [artikel 55 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=55) betreft, uitsluitend voor de vaststelling van de toeslag, bedoeld in [artikel 8 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=8) met toepassing van het bepaalde in [artikel 13, tweede lid, onderdeel a, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=13), de jongere echtgenoot van de pensioengerechtigde geacht het 59ste levensjaar te hebben voleindigd op dezelfde dag als die pensioengerechtigde.
 
 ##### Artikel 5
 
@@ -118,9 +118,9 @@ Voor de toepassing van de [artikelen 56](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 7
 
-1. Voor de toepassing van [artikel 56 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=56) wordt met het wonen binnen het Rijk gelijkgesteld het wonen in Suriname, de Nederlandse Antillen of Aruba van een Surinamer, die van 1 januari 1957 tot het bereiken van de leeftijd van 65 jaar onafgebroken verzekerd is geweest krachtens de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221).
+1. Voor de toepassing van [artikel 56 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=56) wordt met het wonen binnen het Rijk gelijkgesteld het wonen in Suriname, Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba van een Surinamer, die van 1 januari 1957 tot het bereiken van de leeftijd van 65 jaar onafgebroken verzekerd is geweest krachtens de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221).
 
-2. Voor de toepassing van het bepaalde in het eerste lid, wordt, uitsluitend voor de vaststelling van de toeslag, bedoeld in [artikel 8 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=8) met toepassing van het bepaalde in artikel 13, tweede lid, onderdeel **a**, van die wet de jongere echtgenoot van de pensioengerechtigde Surinamer geacht het 65ste levensjaar te hebben voleindigd op dezelfde dag als die Surinamer.
+2. Voor de toepassing van het bepaalde in het eerste lid, wordt, uitsluitend voor de vaststelling van de toeslag, bedoeld in [artikel 8 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=8) met toepassing van het bepaalde in [artikel 13, tweede lid, onderdeel a, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=13) de jongere echtgenoot van de pensioengerechtigde Surinamer geacht het 65ste levensjaar te hebben voleindigd op dezelfde dag als die Surinamer.
 
 ##### Artikel 8
 
@@ -128,7 +128,7 @@ Voor de toepassing van [artikel 59 van de Algemene Ouderdomswet](https://wetten.
 
 ##### Artikel 9
 
-Voor de toepassing van [artikel 59 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=59) wordt met het wonen binnen het Rijk gelijkgesteld het wonen in Suriname, de Nederlandse Antillen of Aruba van een Surinamer, die het Rijk voor 1 januari 1957 metterwoon heeft verlaten, mits hij - al dan niet onafgebroken - gedurende zes jaren na de voleindiging van zijn 59ste levensjaar binnen het Rijk heeft gewoond.
+Voor de toepassing van [artikel 59 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=59) wordt met het wonen binnen het Rijk gelijkgesteld het wonen in Suriname, Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba van een Surinamer, die het Rijk voor 1 januari 1957 metterwoon heeft verlaten, mits hij - al dan niet onafgebroken - gedurende zes jaren na de voleindiging van zijn 59ste levensjaar binnen het Rijk heeft gewoond.
 
 ##### Artikel 10
 
