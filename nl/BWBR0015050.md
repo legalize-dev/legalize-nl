@@ -4,7 +4,7 @@ identifier: "BWBR0015050"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2020-04-01"
-last_updated: "2004-01-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015050"
 soort: "rijkswet"
@@ -49,13 +49,13 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 In deze rijkswet wordt verstaan onder:
 
-- a. Gemeenschappelijk Hof: het Gemeenschappelijk Hof van Justitie van de Nederlandse Antillen en Aruba;
+- a. Gemeenschappelijk Hof: het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba.
 
-- b. einduitspraak: het advies van het Gemeenschappelijk Hof, bedoeld in artikel 8, tweede lid, van het Nederlands-Antilliaanse Uitleveringsbesluit (Pb. 1983, 84), voor zover dit advies betreft de toelaatbaarheid van de uitlevering en de afgifte dan wel teruggave van in beslag genomen voorwerpen;
+- b. einduitspraak: het advies van het Gemeenschappelijk Hof, bedoeld in artikel 8, tweede lid, van het Uitleveringsbesluit van Aruba, Curaçao en Sint Maarten (Pb. 1983, 84), voor zover dit advies betreft de toelaatbaarheid van de uitlevering en de afgifte dan wel teruggave van in beslag genomen voorwerpen;
 
-- c. Gouverneur: de Gouverneur van de Nederlandse Antillen onderscheidenlijk Aruba die op grond van artikel 18, eerste lid, van het Nederlands-Antilliaanse Uitleveringsbesluit over het verzoek tot uitlevering beslist;
+- c. Gouverneur: de Gouverneur van Aruba, de Gouverneur van Curaçao en de Gouverneur van Sint Maarten die op grond van artikel 18, eerste lid, van het Uitleveringsbesluit van Aruba, Curaçao en Sint Maarten over het verzoek tot uitlevering beslissen;
 
-- d. Wetboek: het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) van het land Nederland.
+- d. Wetboek: het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) van het Europese deel van het Koninkrijk.
 
 ##### Artikel 2
 
@@ -101,7 +101,7 @@ In deze rijkswet wordt verstaan onder:
 
 ##### Artikel 5
 
-1. De procureur-generaal bij de Hoge Raad kan cassatie «in het belang der wet» instellen tegen de einduitspraken of enige andere beslissing of handeling van het Gemeenschappelijk Hof in de zaken, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015050&artikel=2&z=2004-01-01&g=2004-01-01). Hij handelt in dat geval overeenkomstig [artikel 456, eerste lid, van het Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=456). De [artikelen 443](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=443), [444](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=444) en [456, derde lid, van het Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=456) zijn van overeenkomstige toepassing.
+1. De procureur-generaal bij de Hoge Raad kan cassatie «in het belang der wet» instellen tegen de einduitspraken of enige andere beslissing of handeling van het Gemeenschappelijk Hof in de zaken, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015050&artikel=2&z=2010-10-10&g=2010-10-10). Hij handelt in dat geval overeenkomstig [artikel 456, eerste lid, van het Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=456). De [artikelen 443](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=443), [444](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=444) en [456, derde lid, van het Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=456) zijn van overeenkomstige toepassing.
 
 2. In het geval bedoeld in [artikel 456, vierde lid, van het Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=456), zendt de procureur-generaal bij de Hoge Raad het aldaar bedoelde afschrift aan de procureur-generaal die de vordering tot het in behandeling nemen van het oorspronkelijke uitleveringsverzoek bij het Gemeenschappelijk Hof gedaan heeft.
 
@@ -121,7 +121,7 @@ Wijzigt deze wet.
 
 1. De Hoge Raad neemt geen kennis van beroepen in cassatie in uitleveringszaken ingesteld tegen einduitspraken gewezen voordat deze rijkswet binnen de landen van het Koninkrijk in werking is getreden.
 
-2. [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015050&artikel=6&z=2004-01-01&g=2004-01-01) is niet van toepassing op zaken waarin op het moment van inwerkingtreding van deze rijkswet door de verdachte reeds beroep in cassatie is ingesteld. Op deze zaken worden de bepalingen toegepast zoals die luidden voor het moment van inwerkingtreding.
+2. [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015050&artikel=6&z=2010-10-10&g=2010-10-10) is niet van toepassing op zaken waarin op het moment van inwerkingtreding van deze rijkswet door de verdachte reeds beroep in cassatie is ingesteld. Op deze zaken worden de bepalingen toegepast zoals die luidden voor het moment van inwerkingtreding.
 
 #### Inwerkingtreding
 
@@ -133,6 +133,6 @@ Deze rijkswet treedt in werking op een bij koninklijk besluit te bepalen tijdsti
 
 ##### Artikel 10
 
-Deze rijkswet wordt aangehaald als: Cassatieregeling in uitleveringszaken voor de Nederlandse Antillen en Aruba.
+Deze wet wordt aangehaald als: Rijkswet cassatierechtspraak in uitleveringszaken voor Aruba, Curaçao en Sint Maarten.
 
 Lasten en bevelen dat deze in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst, en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
