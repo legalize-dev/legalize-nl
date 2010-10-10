@@ -4,7 +4,7 @@ identifier: "BWBR0020422"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-06-13"
-last_updated: "2010-01-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020422"
 soort: "AMvB"
@@ -56,9 +56,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. SI: het Internationale stelsel van meeteenheden (Système International);
 
-- c. SI-grondeenheden: de eenheden, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=3&z=2010-01-01&g=2010-01-01);
+- c. SI-grondeenheden: de eenheden, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=3&z=2010-10-10&g=2010-10-10);
 
-- d. afgeleide SI-eenheden: de eenheden, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=5&z=2010-01-01&g=2010-01-01).
+- d. afgeleide SI-eenheden: de eenheden, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=5&z=2010-10-10&g=2010-10-10).
 
 #### § 2. Erkende meeteenheden
 
@@ -244,9 +244,9 @@ De benaming «alcoholgehalte» mag met betrekking tot een mengsel van water en a
 
 2. Het gebruik van de in het eerste lid genoemde voorvoegsels is van toepassing op:
 
-- a. de SI-grondeenheden, genoemd in [art. 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=3&z=2010-01-01&g=2010-01-01);
+- a. de SI-grondeenheden, genoemd in [art. 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=3&z=2010-10-10&g=2010-10-10);
 
-- b. de afgeleide SI-eenheden, genoemd in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=5&z=2010-01-01&g=2010-01-01);
+- b. de afgeleide SI-eenheden, genoemd in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=5&z=2010-10-10&g=2010-10-10);
 
 - c. de eenheden: liter, ton, bar, decimale graad of gon, atomaire massaeenheid, elektronvolt, dioptrie, are, barn, metriekkaraat, tex, voltampère en voltampère reactief.
 
@@ -302,7 +302,7 @@ De verwezenlijking van de nationale meetstandaard van thermodynamische temperatu
 
 De verwezenlijking van de nationale meetstandaard voor lichtsterkte is gebaseerd op de meting van het stralingsvermogen met een Absolute Cryogene Radiometer.
 
-#### § 4. Slotbepalingen
+#### § 3a. Bonaire, Sint Eustatius en Saba
 
 ##### Artikel 21
 
@@ -311,5 +311,13 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 ##### Artikel 22
 
 Dit besluit wordt aangehaald als: Meeteenhedenbesluit 2006.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 20a
+
+Dit besluit, met uitzondering van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=9&z=2010-10-10&g=2010-10-10), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=10&z=2010-10-10&g=2010-10-10) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=11&z=2010-10-10&g=2010-10-10) alsmede [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=3&z=2010-10-10&g=2010-10-10), is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba en berust voor de toepassing in die openbare lichamen op [artikel 2 van de IJkwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028247&artikel=2).
+
+#### § 4. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
