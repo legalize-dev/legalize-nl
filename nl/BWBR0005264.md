@@ -4,7 +4,7 @@ identifier: "BWBR0005264"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2026-01-01"
-last_updated: "2010-01-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005264"
 soort: "rijksKB"
@@ -52,21 +52,23 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. aanvrager: degene die een aanvraag als bedoeld in [artikel 1, onder **a,** van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=1) (**Stb.** 1991, 498) indient;
+- a. aanvrager: degene die een aanvraag als bedoeld in [artikel 1, onder a, van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=1) (**Stb.** 1991, 498) indient;
 
 - b. Onze Minister: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- c. de Gouverneur: de Gouverneur van de Nederlandse Antillen onderscheidenlijk van Aruba;
+- c. de Gouverneur: de Gouverneur van Aruba, Curaçao of Sint Maarten;
 
-- d. kosten: de kosten, bedoeld in [artikel 7, eerste lid, onder **a,** van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=7);
+- d. kosten: de kosten, bedoeld in [artikel 7, eerste lid, onder a, van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=7);
 
-- e. rechten: de rechten, bedoeld in [artikel 7, eerste lid, onder **b,** van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=7);
+- e. rechten: de rechten, bedoeld in [artikel 7, eerste lid, onder b, van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=7);
 
 - f. leverancier: het bedrijf dat in opdracht van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties belast is met het verrichten van diensten in verband met de verstrekking van reisdocumenten, waaronder de vervaardiging en levering van reisdocumenten en bijschrijvingsstickers;
 
 - g. bijschrijvingssticker: sticker, aan te brengen in een uitgereikt reisdocument, waarop de gegevens van een in dat reisdocument bij te schrijven kind zijn vermeld;
 
-- h. spoedlevering: de versnelde aflevering van een gepersonaliseerd reisdocument of een bijschrijvingssticker, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=2), eerste lid.
+- h. spoedlevering: de versnelde aflevering van een gepersonaliseerd reisdocument of een bijschrijvingssticker, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=2), eerste lid;
+
+- i. openbaar lichaam: openbaar lichaam Bonaire, Sint Eustatius of Saba.
 
 ### Hoofdstuk II. Kosten, verschuldigd terzake van reisdocumenten
 
@@ -74,31 +76,39 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Een gemeente is aan het Rijk de in[artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=3&artikel=6&z=2010-01-01&g=2010-01-01), eerste lid, vastgelegde kosten verschuldigd in verband met door de leverancier geleverde reisdocumenten en door de leverancier verrichte spoedleveringen. Van een spoedlevering als bedoeld in dit artikel is sprake, indien naar aanleiding van een daartoe vanuit de gemeente verstrekte opdracht, die de leverancier op werkdagen vóór 16.00 uur heeft bereikt, een gepersonaliseerd reisdocument of een bijschrijvingssticker de daarop volgende werkdag uiterlijk 16.00 uur is afgeleverd bij de in de aanvraag opgegeven uitgiftelocatie.
+1. Een gemeente is aan het Rijk de in[artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=3&artikel=6&z=2010-10-10&g=2010-10-10), eerste lid, vastgelegde kosten verschuldigd in verband met door de leverancier geleverde reisdocumenten en door de leverancier verrichte spoedleveringen. Van een spoedlevering als bedoeld in dit artikel is sprake, indien naar aanleiding van een daartoe vanuit de gemeente verstrekte opdracht, die de leverancier op werkdagen vóór 16.00 uur heeft bereikt, een gepersonaliseerd reisdocument of een bijschrijvingssticker de daarop volgende werkdag uiterlijk 16.00 uur is afgeleverd bij de in de aanvraag opgegeven uitgiftelocatie.
 
 2. De in het eerste lid bedoelde kosten zijn niet dan wel gedeeltelijk verschuldigd naar rato van de aan de aanvrager verleende kwijtschelding van de rechten, die op grond van de toepasselijke gemeentelijke verordening voor de desbetreffende handeling geheven kunnen worden, indien de kwijtschelding is verleend overeenkomstig de krachtens [artikel 255, tweede lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=255) gestelde regels.
 
-3. De in [artikel 6, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=3&artikel=6&z=2010-01-01&g=2010-01-01), vastgelegde kosten zijn niet verschuldigd in verband met de levering van een reisdocument ter vervanging van een eerder geleverd reisdocument, indien:
+3. De in [artikel 6, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=3&artikel=6&z=2010-10-10&g=2010-10-10), vastgelegde kosten zijn niet verschuldigd in verband met de levering van een reisdocument ter vervanging van een eerder geleverd reisdocument, indien:
 
 - a. het eerder geleverde reisdocument door toedoen van de leverancier niet op de juiste wijze was vervaardigd, of
 
-- b. bij de uitreiking van het eerder geleverde reisdocument een verificatie van de vingerafdrukken heeft plaatsgevonden en bij deze verificatie anders dan door toedoen van de aanvrager niet kon worden vastgesteld dat diens vingerafdrukken overeenkomen met de vingerafdrukken, opgenomen in het reisdocument. In laatstgenoemde situatie wordt het verschil tussen het toepasselijke bedrag, genoemd in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=3&artikel=6&z=2010-01-01&g=2010-01-01), en het toepasselijke bedrag, genoemd in artikel 6, tweede lid, gerestitueerd aan de betreffende gemeente.
+- b. bij de uitreiking van het eerder geleverde reisdocument een verificatie van de vingerafdrukken heeft plaatsgevonden en bij deze verificatie anders dan door toedoen van de aanvrager niet kon worden vastgesteld dat diens vingerafdrukken overeenkomen met de vingerafdrukken, opgenomen in het reisdocument. In laatstgenoemde situatie wordt het verschil tussen het toepasselijke bedrag, genoemd in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=3&artikel=6&z=2010-10-10&g=2010-10-10), en het toepasselijke bedrag, genoemd in artikel 6, tweede lid, gerestitueerd aan de betreffende gemeente.
 
-4. De in [artikel 6, eerste lid, onderdelen f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=3&artikel=6&z=2010-01-01&g=2010-01-01) vastgelegde kosten zijn niet verschuldigd, indien de spoedlevering door toedoen van de leverancier niet binnen de gestelde periode heeft plaatsgevonden, dan wel de met spoed geleverde reisdocumenten of bijschrijvingsstickers door toedoen van de leverancier niet op de juiste wijze blijken te zijn vervaardigd.
+4. De in [artikel 6, eerste lid, onderdelen f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=3&artikel=6&z=2010-10-10&g=2010-10-10) vastgelegde kosten zijn niet verschuldigd, indien de spoedlevering door toedoen van de leverancier niet binnen de gestelde periode heeft plaatsgevonden, dan wel de met spoed geleverde reisdocumenten of bijschrijvingsstickers door toedoen van de leverancier niet op de juiste wijze blijken te zijn vervaardigd.
 
 ##### Artikel 3
 
-1. Onze Minister stelt maandelijks het bedrag vast van de kosten die door een gemeente aan het Rijk moeten worden afgedragen. Deze vaststelling geschiedt aan de hand van de in de voorafgaande maand geleverde reisdocumenten en verrichte spoedleveringen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2&z=2010-01-01&g=2010-01-01), verminderd met de in de voorafgaande maand geleverde reisdocumenten, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2&z=2010-01-01&g=2010-01-01).
+1. Onze Minister stelt maandelijks het bedrag vast van de kosten die door een gemeente of een openbaar lichaam aan het Rijk moeten worden afgedragen. Deze vaststelling geschiedt:
 
-2. Onze Minister zendt voor het einde van elke kalendermaand een factuur aan de gemeente, waarin het bedrag van de aan het Rijk af te dragen kosten in verband met de in de voorafgaande maand geleverde reisdocumenten en de in de voorafgaande maand verrichte spoedleveringen, wordt vermeld.
+- a. voor een gemeente: aan de hand van de in de voorafgaande maand geleverde reisdocumenten en verrichte spoedleveringen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2&z=2010-10-10&g=2010-10-10), verminderd met de in de voorafgaande maand geleverde reisdocumenten, bedoeld in artikel 2, derde lid;
 
-3. Onze Minister stelt op basis van:
+- b. voor een openbaar lichaam: aan de hand van de in de voorafgaande maand geleverde reisdocumenten, bedoeld in [artikel 2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2a&z=2010-10-10&g=2010-10-10), verminderd met de in de voorafgaande maand geleverde reisdocumenten, bedoeld in artikel 2a, derde lid.
 
-- a. de door de gemeente verstrekte afschriften van de beschikkingen, inhoudende gehele of gedeeltelijke kwijtschelding als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2&z=2010-01-01&g=2010-01-01), en
+2. Onze Minister zendt voor het einde van elke kalendermaand een factuur aan de gemeente of het openbaar lichaam, waarin het bedrag van de overeenkomstig het eerste lid vastgestelde kosten die aan het Rijk moeten worden afgedragen, wordt vermeld.
 
-- b. de van de gemeente ontvangen mededelingen omtrent de gevallen, bedoeld in [artikel 2, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2&z=2010-01-01&g=2010-01-01), en omtrent bij de leverancier geverifieerde gevallen, bedoeld in artikel 2, vierde lid, het bedrag vast van de kosten die aan de gemeente worden gerestitueerd. Onze Minister maakt, tegelijk met het verzenden van de in het tweede lid bedoelde factuur, schriftelijk aan de gemeente bekend welk bedrag wordt gerestitueerd en op welke wijze de betaling daarvan zal plaatsvinden.
+3. Onze Minister stelt het bedrag vast van de kosten die aan een gemeente of een openbaar lichaam worden gerestitueerd en maakt, tegelijk met het verzenden van de factuur, bedoeld in het tweede lid, schriftelijk aan de gemeente of het openbaar lichaam bekend welk bedrag wordt gerestitueerd en op welke wijze de betaling daarvan zal plaatsvinden. De vaststelling van het te restitueren bedrag geschiedt:
 
-4. De afdracht van de aan het Rijk verschuldigde kosten, bedoeld in het tweede lid, geschiedt in het kader van de rijksverrekening op grond van het [Koninklijk Besluit van 28 maart 1925 (**Stb.** 1925, 125) tot regeling van de betalingen tusschen Rijk en Gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0041549), waarbij automatische verrekening bij de N.V. Bank voor Nederlandsche Gemeenten dient plaats te vinden, uiterlijk binnen vier weken na de verzending van de factuur, bedoeld in het tweede lid.
+- a. voor een gemeente op basis van de door de gemeente verstrekte afschriften van de beschikkingen, inhoudende gehele of gedeeltelijke kwijtschelding als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2&z=2010-10-10&g=2010-10-10), en de van de gemeente ontvangen en bij de leverancier geverifieerde mededelingen omtrent gevallen waarin een spoedlevering niet binnen de gestelde periode heeft plaatsgevonden dan wel de met spoed geleverde reisdocumenten of bijschrijvingsstickers niet op de juiste wijze blijken te zijn vervaardigd, als bedoeld in artikel 2, vierde lid;
+
+- b. voor een openbaar lichaam op basis van de door het openbaar lichaam verstrekte afschriften van de beschikkingen, inhoudende gehele of gedeeltelijke kwijtschelding als bedoeld in [artikel 2a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2a&z=2010-10-10&g=2010-10-10).
+
+4. De afdracht van de aan het Rijk verschuldigde kosten, bedoeld in het tweede lid, geschiedt:
+
+- a. door een gemeente in het kader van de rijksverrekening op grond van het [Koninklijk Besluit van 28 maart 1925 (Stb. 1925, 125) tot regeling van de betalingen tusschen Rijk en Gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0041549), waarbij automatische verrekening bij de N.V. Bank voor Nederlandsche Gemeenten dient plaats te vinden, uiterlijk binnen vier weken na de verzending van de factuur, bedoeld in het tweede lid;
+
+- b. door een openbaar lichaam door middel van automatische incasso van een door het openbaar lichaam daartoe geopende bankrekening.
 
 5. Onze Minister regelt op welke wijze de juistheid van de bedragen die terzake van de verschuldigde kosten aan het Rijk zijn afgedragen, wordt vastgesteld.
 
@@ -106,19 +116,19 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4
 
-1. Een eilandgebied van de Nederlandse Antillen, onderscheidenlijk het land Aruba, is aan het Rijk de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=3&artikel=6&z=2010-01-01&g=2010-01-01), eerste lid, onderdelen a tot en met c vastgelegde kosten verschuldigd in verband met door de leverancier geleverde reisdocumenten, indien de aanvraag voor de desbetreffende handeling bij de ingevolge [artikel 26 van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=26) door de Gouverneur aangewezen autoriteit is ingediend.
+1. Aruba, Curaçao en Sint Maarten zijn aan het Rijk de in [artikel 6, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=3&artikel=6&z=2010-10-10&g=2010-10-10) vastgelegde kosten verschuldigd in verband met door de leverancier geleverde reisdocumenten, indien de aanvraag voor de desbetreffende handeling bij de ingevolge [artikel 26 van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=26) door de Gouverneur aangewezen autoriteit is ingediend.
 
-2. De in het eerste lid bedoelde kosten zijn niet verschuldigd in verband met de levering van een reisdocument, als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2&z=2010-01-01&g=2010-01-01).
+2. De in het eerste lid bedoelde kosten zijn niet verschuldigd in verband met de levering van een reisdocument, als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2&z=2010-10-10&g=2010-10-10).
 
 ##### Artikel 5
 
-1. De Gouverneur stelt maandelijks het bedrag vast van de kosten die door een eilandgebied van de Nederlandse Antillen, onderscheidenlijk het land Aruba aan het Rijk moeten worden afgedragen. Deze vaststelling geschiedt aan de hand van de in de voorafgaande maand geleverde reisdocumenten, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=2&artikel=4&z=2010-01-01&g=2010-01-01), verminderd met de in de voorafgaande maand geleverde reisdocumenten, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=2&artikel=4&z=2010-01-01&g=2010-01-01) en, indien het in [artikel 2, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2&z=2010-01-01&g=2010-01-01), bedoelde geval zich heeft voorgedaan, verminderd met een overeenkomstig bedrag, als bedoeld in artikel 2, derde lid, laatste volzin.
+1. De Gouverneur stelt maandelijks het bedrag vast van de kosten die door Aruba, Curaçao en Sint Maarten aan het Rijk moeten worden afgedragen. Deze vaststelling geschiedt aan de hand van de in de voorafgaande maand geleverde reisdocumenten, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=2&artikel=4&z=2010-10-10&g=2010-10-10), verminderd met de in de voorafgaande maand geleverde reisdocumenten, bedoeld in artikel 4, tweede lid en, indien het in [artikel 2, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2&z=2010-10-10&g=2010-10-10), bedoelde geval zich heeft voorgedaan, verminderd met een overeenkomstig bedrag, als bedoeld in artikel 2, derde lid, laatste volzin.
 
-2. De Gouverneur zendt voor het einde van elke kalendermaand een factuur aan het desbetreffende eilandgebied van de Nederlandse Antillen, onderscheidenlijk het land Aruba, waarin het bedrag van de aan het Rijk af te dragen kosten in verband met de in de voorafgaande maand geleverde reisdocumenten, wordt vermeld.
+2. De Gouverneur zendt voor het einde van elke kalendermaand een factuur aan Aruba, Curaçao en Sint Maarten, waarin het bedrag van de aan het Rijk af te dragen kosten in verband met de in de voorafgaande maand geleverde reisdocumenten, wordt vermeld.
 
 3. De afdracht van de aan het Rijk verschuldigde kosten geschiedt uiterlijk binnen vier weken na de verzending van de factuur, bedoeld in het tweede lid, door overmaking van het daarin genoemde bedrag op de daartoe aangewezen rekening van het kabinet van de Gouverneur.
 
-4. De Gouverneur kan, na overleg met de bevoegde autoriteiten, bepalen dat de overmaking van de aan het Rijk verschuldigde kosten plaats vindt door middel van automatische incasso van een door het desbetreffende eilandgebied van de Nederlandse Antillen, onderscheidenlijk het land Aruba, daartoe speciaal geopende bankof girorekening.
+4. De Gouverneur kan, na overleg met de bevoegde autoriteiten, bepalen dat de overmaking van de aan het Rijk verschuldigde kosten plaats vindt door middel van automatische incasso van een door Aruba, Curaçao of Sint Maarten, daartoe speciaal geopende bankof girorekening.
 
 #### § 3. De kosten
 
@@ -130,6 +140,7 @@ In dit besluit wordt verstaan onder:
 
 | € | 23,01 |
 | --- | --- |
+| USD | 32,29 |
 | ANG | 57,80 |
 | AWG | 57,80 |
 
@@ -137,6 +148,7 @@ In dit besluit wordt verstaan onder:
 
 | € | 29,01 |
 | --- | --- |
+| USD | 40,73 |
 | ANG | 72,90 |
 | AWG | 72,90 |
 
@@ -144,6 +156,7 @@ In dit besluit wordt verstaan onder:
 
 | € | 23,01 |
 | --- | --- |
+| USD | 32,29 |
 | ANG | 57,80 |
 | AWG | 57,80 |
 
@@ -167,22 +180,25 @@ In dit besluit wordt verstaan onder:
 | € | 19,50 |
 | --- | --- |
 
-2. De van de aanvrager op grond van de toepasselijke gemeentelijke verordening ten hoogste te heffen rechten bedragen:
+2. De van de aanvrager op grond van de toepasselijke gemeentelijke verordening of eilandsverordening ten hoogste te heffen rechten bedragen:
 
 - a. voor een nationaal paspoort, een reisdocument voor vluchtelingen of een reisdocument voor vreemdelingen
 
 | € | 50,90 |
 | --- | --- |
+| USD | 84,36 |
 
 - b. voor een nationaal paspoort dat een groter aantal bladzijden bevat dan een nationaal paspoort als bedoeld in onderdeel a (zakenpaspoort)
 
 | € | 56,90 |
 | --- | --- |
+| USD | 111,73 |
 
 - c. voor een reisdocument ten behoeve van een persoon die op grond van de [Wet betreffende de positie van Molukkers](https://wetten.overheid.nl/jci1.3:c:BWBR0003052) van 9 september 1976 (Stb. 468) als Nederlander wordt behandeld (faciliteitenpaspoort)
 
 | € | 50,90 |
 | --- | --- |
+| USD | 84,36 |
 
 - d. voor een Nederlandse identiteitskaart
 
@@ -198,11 +214,13 @@ In dit besluit wordt verstaan onder:
 
 | € | 8,97 |
 | --- | --- |
+| USD | 13,97 |
 
 - g. voor de bijschrijving van een kind in een reeds uitgereikt reisdocument, met behulp van een bijschrijvingssticker
 
 | € | 20,93 |
 | --- | --- |
+| USD | 22,35 |
 
 - h. voor de versnelde uitreiking van een reisdocument als bedoeld in de onderdelen a tot en met e, zijnde een toeslag op de in die onderdelen genoemde bedragen
 
@@ -214,7 +232,7 @@ In dit besluit wordt verstaan onder:
 | € | 19,50 |
 | --- | --- |
 
-3. De rechten, bedoeld in het tweede lid, onderdeel a tot en met e, worden niet geheven in verband met de levering van documenten ter vervanging van een eerder geleverd reisdocument als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2&z=2010-01-01&g=2010-01-01).
+3. De rechten, bedoeld in het tweede lid, onderdeel a tot en met e, worden niet geheven in verband met de levering van documenten ter vervanging van een eerder geleverd reisdocument als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2&z=2010-10-10&g=2010-10-10), of [artikel 2a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2a&z=2010-10-10&g=2010-10-10).
 
 ### Hoofdstuk III. Rechten, verschuldigd terzake van reisdocumenten
 
@@ -222,13 +240,15 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 7
 
-Bevoegd tot het heffen van de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=III&paragraaf=3&artikel=12&z=2010-01-01&g=2010-01-01) vastgelegde rechten, dan wel tot het verlenen van gehele of gedeeltelijke kwijtschelding daarvan zijn:
+Bevoegd tot het heffen van de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=III&paragraaf=3&artikel=12&z=2010-10-10&g=2010-10-10) vastgelegde rechten, dan wel tot het verlenen van gehele of gedeeltelijke kwijtschelding daarvan zijn:
 
-- a. in Nederland: Onze Minister en de door hem daartoe aangewezen autoriteiten, voor zover de aanvraag niet bij een burgemeester is ingediend;
+- a. in het Europese deel van Nederland: Onze Minister en de door hem daartoe aangewezen autoriteiten, voor zover de aanvraag niet bij een burgemeester is ingediend;
 
-- b. buiten het Koninkrijk: de hoofden van de door Onze Minister van Buitenlandse Zaken aangewezen consulaire posten.
+- b. in het Caribische deel van Nederland: Onze Minister en de door hem daartoe aangewezen autoriteiten, voor zover de aanvraag betrekking heeft op verstrekking van een noodpaspoort of een laissez-passer;
 
-- c. Onze Minister van Buitenlandse Zaken.
+- c. buiten het Koninkrijk: de hoofden van de door Onze Minister van Buitenlandse Zaken aangewezen consulaire posten;
+
+- d. Onze Minister van Buitenlandse Zaken.
 
 ##### Artikel 8
 
@@ -240,15 +260,15 @@ Met betrekking tot het verlenen van gehele of gedeeltelijke kwijtschelding zijn 
 
 ##### Artikel 10
 
-De vaststelling van de valuta waarin de betaling van de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=III&paragraaf=3&artikel=12&z=2010-01-01&g=2010-01-01) vastgelegde rechten in het buitenland plaatsvindt en de herleiding van deze rechten in de vastgestelde valuta geschieden overeenkomstig [artikel 6 van de Rijkswet op de consulaire tarieven](https://wetten.overheid.nl/jci1.3:c:BWBR0013618&artikel=6)
+De vaststelling van de valuta waarin de betaling van de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=III&paragraaf=3&artikel=12&z=2010-10-10&g=2010-10-10) vastgelegde rechten in het buitenland plaatsvindt en de herleiding van deze rechten in de vastgestelde valuta geschieden overeenkomstig [artikel 6 van de Rijkswet op de consulaire tarieven](https://wetten.overheid.nl/jci1.3:c:BWBR0013618&artikel=6)
 
 #### § 2. Heffing van rechten in de Nederlandse Antillen en Aruba
 
 ##### Artikel 11
 
-1. In de Nederlandse Antillen en in Aruba vindt heffing dan wel kwijtschelding van de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=III&paragraaf=3&artikel=12&z=2010-01-01&g=2010-01-01) vastgelegde rechten plaats door of namens de Gouverneur, voor zover de aanvraag niet bij een ingevolge [artikel 26 van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=26) door de Gouverneur aangewezen autoriteit is ingediend.
+1. In Aruba, Curaçao en Sint Maarten vindt heffing dan wel kwijtschelding van de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=III&paragraaf=3&artikel=12&z=2010-10-10&g=2010-10-10) vastgelegde rechten plaats door of namens de Gouverneur, voor zover de aanvraag niet bij een ingevolge [artikel 26 van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=26) door de Gouverneur aangewezen autoriteit is ingediend.
 
-2. Aan de aanvrager in de Nederlandse Antillen of in Aruba die niet in staat is anders dan met buitengewoon bezwaar de door hem aan het Rijk verschuldigde rechten geheel of gedeeltelijk te voldoen omdat hij geen of geringe betalingscapaciteit bezit, kan op zijn schriftelijk verzoek geheel of gedeeltelijk kwijtschelding van deze rechten worden verleend.
+2. Aan de aanvrager in Aruba, Curaçao of Sint Maarten die niet in staat is anders dan met buitengewoon bezwaar de door hem aan het Rijk verschuldigde rechten geheel of gedeeltelijk te voldoen omdat hij geen of geringe betalingscapaciteit bezit, kan op zijn schriftelijk verzoek geheel of gedeeltelijk kwijtschelding van deze rechten worden verleend.
 
 #### § 3. De rechten
 
@@ -300,6 +320,7 @@ De vaststelling van de valuta waarin de betaling van de in [artikel 12](https://
 | --- | --- |
 | ANG | 110,65 |
 | AWG | 110,65 |
+| USD | 61,82 |
 
 - h. voor de bijschrijving van een kind in een reisdocument, waarvoor de aanvraag tegelijk met de aanvraag van het desbetreffende reisdocument is ingediend
 
@@ -317,13 +338,13 @@ De vaststelling van de valuta waarin de betaling van de in [artikel 12](https://
 
 2. De in het eerste lid genoemde rechten die door de aanvrager zijn voldaan, worden aan deze gerestitueerd indien de gevraagde handeling niet wordt verricht.
 
-3. De in het eerste lid genoemde rechten worden niet geheven, indien de verstrekking van het reisdocument onderscheidenlijk de bijschrijving of de wijziging plaatsvindt in verband met een ambtelijke fout of indien de verstrekking plaatsvindt in verband met de vervanging van een eerder geleverd document als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2&z=2010-01-01&g=2010-01-01).
+3. De in het eerste lid genoemde rechten worden niet geheven, indien de verstrekking van het reisdocument onderscheidenlijk de bijschrijving of de wijziging plaatsvindt in verband met een ambtelijke fout of indien de verstrekking plaatsvindt in verband met de vervanging van een eerder geleverd document als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2&z=2010-10-10&g=2010-10-10), of [artikel 2a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2a&z=2010-10-10&g=2010-10-10).
 
 4. Het in het eerste lid, onderdeel d, genoemde recht wordt niet geheven voor de verstrekking van diplomatieke paspoorten of dienstpaspoorten ten behoeve van personen die bij een Nederlandse vertegenwoordiging in het buitenland zijn tewerkgesteld, hun inwonende huwelijkspartner, geregistreerde partner of levenspartner als bedoeld in [artikel 2, tweede lid, van het Reglement Dienst Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0004052&artikel=2) en bij hen inwonende minderjarige kinderen.
 
 ##### Artikel 13
 
-De in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=III&paragraaf=3&artikel=12&z=2010-01-01&g=2010-01-01) bedoelde rechten worden geheven bij wege van een mondelinge dan wel een gedagtekende schriftelijke kennisgeving.
+De in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=III&paragraaf=3&artikel=12&z=2010-10-10&g=2010-10-10) bedoelde rechten worden geheven bij wege van een mondelinge dan wel een gedagtekende schriftelijke kennisgeving.
 
 ### Hoofdstuk IV. Slotbepalingen
 
@@ -334,5 +355,29 @@ Dit besluit treedt in werking met ingang van de dag waarop de [Paspoortwet](http
 ##### Artikel 15
 
 Dit besluit kan worden aangehaald als "Besluit paspoortgelden".
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad**, in het **Publicatieblad** van de Nederlandse Antillen en in het **Afkondigingsblad** van Aruba zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State van het Koninkrijk en de Algemene Rekenkamer.
+
+##### Artikel 2a
+
+1. Een openbaar lichaam is aan het Rijk de in [artikel 6, eerste lid, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=3&artikel=6&z=2010-10-10&g=2010-10-10), vastgelegde kosten verschuldigd in verband met door de leverancier geleverde reisdocumenten.
+
+2. De in het eerste lid bedoelde kosten zijn niet dan wel gedeeltelijk verschuldigd naar rato van de aan de aanvrager verleende kwijtschelding van de rechten, die op grond van de toepasselijke eilandsverordening voor de desbetreffende handeling geheven kunnen worden, indien de kwijtschelding is verleend overeenkomstig de krachtens artikel 8.58, eerste lid, van de Belastingwet BES gestelde regels.
+
+3. De in het eerste lid bedoelde kosten zijn niet verschuldigd in verband met de levering van een reisdocument, die plaatsvindt ter vervanging van een eerder geleverd reisdocument, dat door toedoen van de leverancier niet op de juiste wijze was vervaardigd.
+
+#### § 2. In Aruba, Curaçao en Sint Maarten aan het Rijk verschuldigde kosten
+
+#### § 3. De kosten
+
+### Hoofdstuk III. Rechten, verschuldigd terzake van reisdocumenten
+
+#### § 1. Heffing van rechten in Nederland en buiten het Koninkrijk
+
+#### § 2. Heffing van rechten in Aruba, Curaçao en Sint Maarten
+
+#### § 3. De rechten
+
+### Hoofdstuk IV. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad**, in het **Publicatieblad** van de Nederlandse Antillen en in het **Afkondigingsblad** van Aruba zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State van het Koninkrijk en de Algemene Rekenkamer.
