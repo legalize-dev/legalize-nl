@@ -4,7 +4,7 @@ identifier: "BWBR0006613"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-10-10"
-last_updated: "1994-04-30"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006613"
 soort: "ministeriele-regeling"
@@ -52,13 +52,13 @@ Als diensttijd voor de toepassing van een ambtsjubileumgratificatie geldt de tij
 
 - e. tot en met 24 november 1975 in burgerlijke dienst bij de overheid in Suriname;
 
-- f. in burgerlijke dienst bij de overheid van de Nederlandse Antillen en Aruba, bij de voormalige gouvernementen van Suriname, Curaçao en Nieuw-Guinea en tot en met 26 december 1949 bij de voormalige Indische Pensioenfondsen;
+- f. in burgerlijke dienst bij de overheid van Aruba, Curaçao, Sint Maarten en de openbare lichamen Bonaire, Sint Eustatius en Saba, bij de voormalige gouvernementen van Suriname, Curaçao en Nieuw-Guinea en tot en met 26 december 1949 bij de voormalige Indische Pensioenfondsen;
 
 - g. in dienst bij het niet-openbaar onderwijs in de onder e en f genoemde landen en voormalige overzeese rijksdelen, voor zover zulks de belanghebbende onder de werkingssfeer van een overheidspensioenregeling bracht of zou hebben gebracht indien hij in vaste dienst was geweest;
 
 - h. tot en met 31 december 1954 in dienst van de Republiek Indonesië, voor zover die tijd door de [Garantiewet Burgerlijk Overheidspersoneel Indonesië](https://wetten.overheid.nl/jci1.3:c:BWBR0002060) wordt bestreken;
 
-- i. in Nederlandse militaire dienst of daarmede voor de toepassing van het [Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950) gelijkgestelde dienst, waaronder begrepen dienst bij het voormalig KNIL, de troepen in de Nederlandse Antillen en Aruba en tot en met 24 november 1975 de troepen in Suriname;
+- i. in Nederlandse militaire dienst of daarmede voor de toepassing van het [Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950) gelijkgestelde dienst, waaronder begrepen dienst bij het voormalig KNIL, de troepen in Aruba, Curaçao, Sint Maarten en de openbare lichamen Bonaire, Sint Eustatius en Saba en tot en met 24 november 1975 de troepen in Suriname;
 
 - j. als volontair met een volledige dagtaak;
 
@@ -70,7 +70,7 @@ Als diensttijd voor de toepassing van een ambtsjubileumgratificatie geldt de tij
 
 2. Voorts komt als diensttijd niet in aanmerking diensttijd die, zonder dat werkzaamheden zijn verricht, is doorgebracht buiten het genot van inkomsten uit de dienstbetrekking, behoudens voor zoveel het tijd betreft, gedurende welke belanghebbende mede dan wel overwegend in het algemeen belang buitengewoon verlof heeft genoten.
 
-3. Onverminderd [artikel 1, onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0006613&artikel=1&z=1994-04-30&g=1994-04-30), wordt fictieve diensttijd evenmin als diensttijd aangemerkt.
+3. Onverminderd [artikel 1, onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0006613&artikel=1&z=2010-10-10&g=2010-10-10), wordt fictieve diensttijd evenmin als diensttijd aangemerkt.
 
 ##### Artikel 3
 
