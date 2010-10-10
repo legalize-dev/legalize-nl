@@ -1341,29 +1341,3 @@ Deze wet wordt aangehaald als: Wet materieel ambtenarenrecht BES.
 ### Hoofdstuk XIIa
 
 ### Hoofdstuk XIII. Slot- en overgangsbepalingen
-
-### Hoofdstuk III. Georganiseerd overleg
-
-### Hoofdstuk IV. Inhouding, beslag en korting
-
-#### § 1. Algemeen
-
-#### § 2. Inhouding
-
-#### § 3. Beslag
-
-#### § 4. Korting
-
-#### § 5. Beperkingen
-
-#### § 6. Faillissement
-
-#### § 7. Samenloop
-
-#### § 8. Verdeling
-
-#### § 9. Overdracht en inpandgeving
-
-#### § 10. Verjaring van vorderingen
-
-### Hoofdstuk V. Opleidingen
