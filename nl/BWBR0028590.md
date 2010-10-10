@@ -77,17 +77,3 @@ De regeling wordt aangehaald als: Regeling uitvoering CITES-verdrag BES
 Niet opgenomen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling is mede gebaseerd op [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&artikel=16).
-
-##### Artikel 5a
-
-Als toezichthouder als bedoeld in [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&artikel=16) wordt, wat betreft het toezicht op de naleving van het bij of krachtens [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&artikel=7a) en [7b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&artikel=7b) bepaalde, aangewezen de inspecteur, bedoeld in [artikel 1.1, onderdeel h, van de Douane en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=1.1).
-
-## Bijlage
-
-Niet opgenomen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
