@@ -4,7 +4,7 @@ identifier: "BWBR0026405"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-10-10"
-last_updated: "2009-09-15"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026405"
 soort: "ministeriele-regeling"
@@ -42,6 +42,8 @@ Gelet op [artikel 72, eerste lid, van de Schepenwet](https://wetten.overheid.nl/
 
 Besluit:
 
+De datum van inwerkingtreding ligt voor de datum van uitgifte.
+
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
@@ -62,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-De in deze regeling genoemde tarieven luiden in het betaalmiddel van de Nederlandse Antillen en zijn verschuldigd voor het verrichten van werkzaamheden of diensten door ambtenaren van de Nederlandse Antillen.
+De in deze regeling genoemde tarieven luiden in het betaalmiddel van Curaçao, onderscheidenlijk Sint Maarten en zijn verschuldigd voor het verrichten van werkzaamheden of diensten door ambtenaren van Curaçao, onderscheidenlijk Sint Maarten.
 
 ##### Artikel 3
 
@@ -78,7 +80,7 @@ De in deze regeling genoemde tarieven luiden in het betaalmiddel van de Nederlan
 
 ##### Artikel 4
 
-1. Voor het onderzoek en de verdere werkzaamheden nodig voor de afgifte van certificaten voor een vissersvaartuig dat reeds eerder onderworpen is geweest aan een eerste onderzoek, is, in afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026405&artikel=3&z=2009-09-15&g=2009-09-15), het volgende tarief verschuldigd:
+1. Voor het onderzoek en de verdere werkzaamheden nodig voor de afgifte van certificaten voor een vissersvaartuig dat reeds eerder onderworpen is geweest aan een eerste onderzoek, is, in afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026405&artikel=3&z=2010-10-10&g=2010-10-10), het volgende tarief verschuldigd:
 
 - a. voor niet-geklasseerde vaartuigen tot 24 meter: f 6.303,–;
 
@@ -112,7 +114,7 @@ De in deze regeling genoemde tarieven luiden in het betaalmiddel van de Nederlan
 
 - b. voor vaartuigen met een lengte vanaf 24 meter f 998,–.
 
-2. Het tarief, bedoeld in het eerste lid, is niet verschuldigd indien het een vergunning betreft uitsluitend bestemd voor het maken van een proefvaart dan wel het ondernemen van een reis uit een haven in de Nederlandse Antillen, Aruba of Nederland, met de bedoeling het vaartuig gereed te maken voor het verkrijgen van een certificaat van overeenstemming of deugdelijkheid.
+2. Het tarief, bedoeld in het eerste lid, is niet verschuldigd indien het een vergunning betreft uitsluitend bestemd voor het maken van een proefvaart dan wel het ondernemen van een reis uit een haven in Nederland, Aruba, Curaçao of Sint Maarten, met de bedoeling het vaartuig gereed te maken voor het verkrijgen van een certificaat van overeenstemming of deugdelijkheid.
 
 ##### Artikel 7
 
@@ -126,15 +128,15 @@ Voor werkzaamheden voortvloeiende uit het bepaalde bij of krachtens het [Vissers
 
 ##### Artikel 9
 
-1. Indien een onderzoek als bedoeld in deze regeling geheel of gedeeltelijk buiten de Nederlandse Antillen wordt uitgevoerd en de voor het desbetreffende onderzoek vastgestelde termijn, opgenomen in de bijlage, wordt overschreden, is per termijnoverschrijdende dag een aanvullend tarief verschuldigd van f 1.635,–.
+1. Indien een onderzoek als bedoeld in deze regeling geheel of gedeeltelijk buiten Curaçao, onderscheidenlijk Sint Maarten wordt uitgevoerd en de voor het desbetreffende onderzoek vastgestelde termijn, opgenomen in de bijlage, wordt overschreden, is per termijnoverschrijdende dag een aanvullend tarief verschuldigd van f 1.635,–.
 
-2. De eventuele reis- en verblijfskosten van de ambtenaar ten behoeve van de in deze regeling genoemde onderzoeken buiten de Nederlandse Antillen komen voor rekening van de aanvrager van het certificaat. Deze kosten worden afzonderlijk in rekening gebracht.
+2. De eventuele reis- en verblijfskosten van de ambtenaar ten behoeve van de in deze regeling genoemde onderzoeken buiten Curaçao, onderscheidenlijk Sint Maarten komen voor rekening van de aanvrager van het certificaat. Deze kosten worden afzonderlijk in rekening gebracht.
 
 ##### Artikel 10
 
-1. Indien de in deze regeling genoemde onderzoeken geheel of gedeeltelijk worden uitgevoerd op werkdagen tussen 18.00 uur en 08.00 uur, op een zaterdag, op een zondag of op een in de Nederlandse Antillen daaraan gelijkgestelde dag, is een aanvullend tarief verschuldigd van f 234,– per uur per ambtenaar.
+1. Indien de in deze regeling genoemde onderzoeken geheel of gedeeltelijk worden uitgevoerd op werkdagen tussen 18.00 uur en 08.00 uur, op een zaterdag, op een zondag of op een in Curaçao, onderscheidenlijk Sint Maarten daaraan gelijkgestelde dag, is een aanvullend tarief verschuldigd van f 234,– per uur per ambtenaar.
 
-2. Het tarief, genoemd in het eerste lid, is eveneens verschuldigd voor uitgevoerde onderzoeken buiten de Nederlandse Antillen buiten de daar ter plaatse geldende werktijden.
+2. Het tarief, genoemd in het eerste lid, is eveneens verschuldigd voor uitgevoerde onderzoeken buiten Curaçao, onderscheidenlijk Sint Maarten buiten de daar ter plaatse geldende werktijden.
 
 ##### Artikel 11
 
@@ -146,11 +148,11 @@ Deze regeling treedt in werking met ingang van 15 september 2009.
 
 ##### Artikel 13
 
-Deze regeling wordt aangehaald als: Regeling Nederlands-Antilliaanse tarieven vissersvaartuigen 2009.
+Deze regeling wordt aangehaald als: Regeling Curaçaose en Sint Maartense tarieven vissersvaartuigen.
 
 ## Bijlage
 
-Bijlage als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026405&artikel=9&z=2009-09-15&g=2009-09-15). De onderzoekstermijn begint op de dag van vertrek uit de Nederlandse Antillen en eindigt op de desbetreffende dag van terugkomst in de Nederlandse Antillen.
+Bijlage als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026405&artikel=9&z=2010-10-10&g=2010-10-10). De onderzoekstermijn begint op de dag van vertrek uit de Nederlandse Antillen en eindigt op de desbetreffende dag van terugkomst in de Nederlandse Antillen.
 
 | Nieuwbouw | Lengte | Aantal dagen |
 | --- | --- | --- |
