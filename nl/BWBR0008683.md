@@ -4,7 +4,7 @@ identifier: "BWBR0008683"
 country: "nl"
 rank: "wet"
 publication_date: "2020-04-01"
-last_updated: "2006-03-08"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008683"
 soort: "wet"
@@ -56,11 +56,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. De raad heeft tot taak:
 
-- a. de regering en de beide kamers der Staten-Generaal te adviseren over hoofdlijnen van het beleid en de wetgeving op het terrein van het onderwijs;
+- a. de regering en de beide kamers der Staten-Generaal te adviseren over hoofdlijnen van het beleid en de wetgeving op het terrein van het onderwijs in Nederland;
 
 - b. Onze Minister van Onderwijs, Cultuur en Wetenschap en Onze Minister van Landbouw, Natuur en Voedselkwaliteit desgevraagd te adviseren over de toepassing van wetten, algemene maatregelen van bestuur en ministeriële regelingen op het terrein van het onderwijs.
 
 2. De raad heeft tevens tot taak gemeenteraden en colleges van burgemeester en wethouders in bij de wet genoemde gevallen te adviseren over aangelegenheden die het gemeentelijk onderwijsbeleid betreffen.
+
+3. De raad heeft voorts tot taak eilandsraden en bestuurcolleges van de openbare lichamen Bonaire, Sint Eustatius en Saba in bij de wet genoemde gevallen te adviseren over aangelegenheden die het onderwijsbeleid van die openbare lichamen betreffen.
 
 ### HOOFDSTUK II. WIJZIGING VAN ANDERE WETTEN
 
@@ -132,7 +134,7 @@ De Wet van 21 februari 1919, houdende instelling van eenen Onderwijsraad (**Stb*
 
 ##### Artikel 19. Inwerkingtreding
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst, en werkt wat betreft [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBR0008683&hoofdstuk=I&z=2006-03-08&g=2006-03-08) terug tot en met 1 januari 1997.
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst, en werkt wat betreft [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBR0008683&hoofdstuk=I&z=2010-10-10&g=2010-10-10) terug tot en met 1 januari 1997.
 
 ##### Artikel 20. Citeertitel
 
