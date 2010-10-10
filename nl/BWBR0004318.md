@@ -4,7 +4,7 @@ identifier: "BWBR0004318"
 country: "nl"
 rank: "wet"
 publication_date: "2010-10-10"
-last_updated: "1994-10-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004318"
 soort: "wet"
@@ -93,7 +93,7 @@ De bij of krachtens de bepalingen uit deze paragraaf aan overheidsorganen gegeve
 
 - b. de vereiste gegevens niet tijdig zijn verstrekt;
 
-- c. een van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004318&paragraaf=II&artikel=2&z=1994-10-01&g=1994-10-01)genoemde belangen dat vordert.
+- c. een van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004318&paragraaf=II&artikel=2&z=2010-10-10&g=2010-10-10)genoemde belangen dat vordert.
 
 3. Een voorschrift, beperking of verbod kan geen betrekking hebben op de inhoud van hetgeen wordt beleden, onderscheidenlijk van de te openbaren gedachten of gevoelens.
 
@@ -111,7 +111,7 @@ De burgemeester kan aan degenen die een samenkomst tot het belijden van godsdien
 
 - b. in strijd wordt gehandeld met een voorschrift, beperking of aanwijzing;
 
-- c. een van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004318&paragraaf=II&artikel=2&z=1994-10-01&g=1994-10-01) genoemde belangen dat vordert.
+- c. een van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004318&paragraaf=II&artikel=2&z=2010-10-10&g=2010-10-10) genoemde belangen dat vordert.
 
 #### Paragraaf III. Bepalingen voor andere dan openbare plaatsen
 
@@ -147,7 +147,7 @@ Klokgelui ter gelegenheid van godsdienstige en levensbeschouwelijke plechtighede
 
 - a. het houden van of deelnemen aan een samenkomst tot het belijden van godsdienst of levensovertuiging, vergadering of betoging waarvoor de vereiste kennisgeving niet is gedaan of waarvoor een verbod is gegeven;
 
-- b. handelen in strijd met een voorschrift of beperking als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004318&paragraaf=II&artikel=5&z=1994-10-01&g=1994-10-01), met een aanwijzing als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004318&paragraaf=II&artikel=6&z=1994-10-01&g=1994-10-01) en [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004318&paragraaf=IV&artikel=9&z=1994-10-01&g=1994-10-01), of met een opdracht als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004318&paragraaf=II&artikel=7&z=1994-10-01&g=1994-10-01), [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004318&paragraaf=III&artikel=8&z=1994-10-01&g=1994-10-01), en [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004318&paragraaf=IV&artikel=9&z=1994-10-01&g=1994-10-01).
+- b. handelen in strijd met een voorschrift of beperking als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004318&paragraaf=II&artikel=5&z=2010-10-10&g=2010-10-10), met een aanwijzing als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004318&paragraaf=II&artikel=6&z=2010-10-10&g=2010-10-10) en [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004318&paragraaf=IV&artikel=9&z=2010-10-10&g=2010-10-10), of met een opdracht als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004318&paragraaf=II&artikel=7&z=2010-10-10&g=2010-10-10), [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004318&paragraaf=III&artikel=8&z=2010-10-10&g=2010-10-10), en [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004318&paragraaf=IV&artikel=9&z=2010-10-10&g=2010-10-10).
 
 2. De feiten zijn overtredingen.
 
@@ -169,7 +169,7 @@ De Wet van 22 april 1855, **Stb.** 32, tot regeling en beperking der uitoefening
 
 ##### Artikel VI
 
-Tot de inwerkingtreding van de door de gemeenteraad vast te stellen regels bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004318&paragraaf=II&artikel=3&z=1994-10-01&g=1994-10-01) en [4 van artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0004318&paragraaf=II&artikel=4&z=1994-10-01&g=1994-10-01) van deze wet, doch uiterlijk tot drie maanden na de inwerkingtreding van deze wet, gelden met betrekking tot de voorafgaande kennisgeving van samenkomsten tot het belijden van godsdienst of levensovertuiging, vergaderingen en betogingen, de volgende bepalingen:
+Tot de inwerkingtreding van de door de gemeenteraad vast te stellen regels bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004318&paragraaf=II&artikel=3&z=2010-10-10&g=2010-10-10) en [4 van artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0004318&paragraaf=II&artikel=4&z=2010-10-10&g=2010-10-10) van deze wet, doch uiterlijk tot drie maanden na de inwerkingtreding van deze wet, gelden met betrekking tot de voorafgaande kennisgeving van samenkomsten tot het belijden van godsdienst of levensovertuiging, vergaderingen en betogingen, de volgende bepalingen:
 
 - a. Degene die het voornemen heeft op een openbare plaats een samenkomst tot het belijden van godsdienst of levensovertuiging, een vergadering of een betoging te houden, geeft daarvan ten minste 48 uur voor de aanvang schriftelijk kennis aan de burgemeester.
 
@@ -202,5 +202,17 @@ Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van he
 Deze wet kan worden aangehaald als:
 
 Wet openbare manifestaties.
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+#### Paragraaf VI. Bonaire, Sint Eustatius en Saba
+
+##### Artikel 12
+
+Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba, met dien verstande dat telkens wordt gelezen voor:
+
+- a. gemeenteraad: eilandraad;
+
+- b. burgemeester: gezaghebber.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
