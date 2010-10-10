@@ -4,7 +4,7 @@ identifier: "BWBR0024634"
 country: "nl"
 rank: "amvb"
 publication_date: "2014-01-06"
-last_updated: "2009-03-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024634"
 soort: "AMvB"
@@ -56,7 +56,7 @@ Hebben goedgevonden en verstaan:
 
 3. Het DNA-bewijs, bedoeld in het eerste en tweede lid, wordt geleverd door middel van een als zodanig herkenbaar en ondertekend rapport van een laboratorium als bedoeld in het zesde lid.
 
-4. Het DNA-bewijs, bedoeld in het eerste lid, wordt overgelegd aan de bevoegde autoriteit. De bevoegde autoriteit is in Nederland het college van burgemeester en wethouders, op de eilandgebieden van de Nederlandse Antillen het bestuurscollege, op Aruba de Minister van Volksgezondheid en Milieu, Administratieve en Vreemdelingenzaken en in het buitenland het hoofd van de diplomatieke of consulaire post.
+4. Het DNA-bewijs, bedoeld in het eerste lid, wordt overgelegd aan de bevoegde autoriteit, die verantwoordelijk is voor de basisadministratie van persoonsgegevens of, in het buitenland, aan het hoofd van de diplomatieke of consulaire post.
 
 5. Het DNA-bewijs, bedoeld in het tweede lid, wordt overgelegd aan de autoriteit die bevoegd is tot bevestiging van de verkrijging van het Nederlanderschap.
 
