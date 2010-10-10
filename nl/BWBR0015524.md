@@ -4,7 +4,7 @@ identifier: "BWBR0015524"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-04-17"
-last_updated: "2007-09-12"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015524"
 soort: "AMvB"
@@ -48,27 +48,35 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. (Begrippen)
 
-Voor de toepassing van dit besluit wordt verstaan onder: deelverantwoording: een in opdracht van provinciale staten onderscheidenlijk de raad opgestelde afzonderlijke verantwoording van een deel van de provinciale organisatie onderscheidenlijk de gemeentelijke organisatie.
+Voor de toepassing van dit besluit wordt verstaan onder:
+
+- a. **deelverantwoording:** een in opdracht van provinciale staten, de raad onderscheidenlijk de eilandsraad opgestelde afzonderlijke verantwoording van een deel van de provinciale, gemeentelijke onderscheidenlijk eilandelijke organisatie;
+
+- b. **openbaar lichaam:** openbaar lichaam Bonaire, Sint Eustatius of Saba.
 
 ##### Artikel 2. (Goedkeuringstoleranties)
 
-1. De accountant gebruikt ten behoeve van de oordeelsvorming over de jaarrekening van de provincie, bedoeld in [artikel 217, derde lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=217), onderscheidenlijk de jaarrekening van de gemeente, bedoeld in [artikel 213, derde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213), de volgende goedkeuringstoleranties:
+1. De accountant gebruikt ten behoeve van de oordeelsvorming over de jaarrekening van de provincie, bedoeld in [artikel 217, derde lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=217), de jaarrekening van de gemeente, bedoeld in [artikel 213, derde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213), onderscheidenlijk [artikel 38, vierde lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=38), de volgende goedkeuringstoleranties:
 
 - a). ten aanzien van fouten in de jaarrekening 1% van de omvangsbasis en
 
 - b). ten aanzien van onzekerheden in de controle 3% van de omvangsbasis.
 
-2. De omvangsbasis is gelijk aan de totale lasten van de provincie onderscheidenlijk gemeente.
+2. De omvangsbasis is gelijk aan de totale lasten van de provincie, de gemeente onderscheidenlijk het openbaar lichaam.
 
-3. De fouten in de jaarrekening en de onzekerheden in de controle kunnen betrekking hebben op het getrouwe beeld, bedoeld in [artikel 217, derde lid, onder a van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=217) en/of op de rechtmatigheid van de baten, lasten en balansmutaties, bedoeld in [artikel 217, derde lid, onder b van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=217), onderscheidenlijk op het getrouwe beeld, bedoeld in [artikel 213, derde lid, onder a van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213) en/of op de rechtmatigheid van de baten, lasten en balansmutaties, bedoeld in [artikel 213, derde lid, onder b van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213).
+3. De fouten in de jaarrekening en de onzekerheden in de controle kunnen betrekking hebben op:
+
+- a. het getrouwe beeld, bedoeld in [artikel 217, derde lid, onder a van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=217), [artikel 213, derde lid, onder a van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213) onderscheidenlijk [artikel 38, vierde lid, onder a, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=38), of
+
+- b. de rechtmatigheid van de baten, lasten en balansmutaties, bedoeld in [artikel 217, derde lid, onder b van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=217), [artikel 213, derde lid, onder b van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213), onderscheidenlijk [artikel 38, vierde lid, onder b, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=38).
 
 4. De accountant richt zijn controle zodanig in dat een redelijke mate van zekerheid bestaat dat fouten en onzekerheden die afzonderlijk of gezamenlijk de goedkeuringstoleranties voor fouten in de jaarrekening respectievelijk onzekerheden in de controle overschrijden worden ontdekt.
 
 5. De accountant onthoudt een goedkeurende accountantsverklaring aan de jaarrekening indien één der of beide goedkeuringstoleranties, zoals opgenomen in het eerste lid, worden overschreden.
 
-6. Indien provinciale staten onderscheidenlijk de raad opdracht geven over een deelverantwoording een afzonderlijke accountantsverklaring af te geven, dan zijn de goedkeuringstoleranties ten aanzien van fouten in de deelverantwoording 1% en ten aanzien van onzekerheden in de controle 3% van de omvangsbasis van die deelverantwoording. Op grond van (bijzondere) activiteiten van het onderdeel van de provinciale onderscheidenlijk gemeentelijke organisatie kan de accountant voor de berekening van de goedkeuringstoleranties voor bepaalde deelverantwoordingen gemotiveerd kiezen voor een andere omvangsbasis dan de totale lasten van de deelverantwoording.
+6. Indien provinciale staten, de raad, onderscheidenlijk de eilandsraad opdracht geven over een deelverantwoording een afzonderlijke accountantsverklaring af te geven, dan zijn de goedkeuringstoleranties ten aanzien van fouten in de deelverantwoording 1% en ten aanzien van onzekerheden in de controle 3% van de omvangsbasis van die deelverantwoording. Op grond van (bijzondere) activiteiten van het onderdeel van de provinciale, gemeentelijke onderscheidenlijk eilandelijke organisatie kan de accountant voor de berekening van de goedkeuringstoleranties voor bepaalde deelverantwoordingen gemotiveerd kiezen voor een andere omvangsbasis dan de totale lasten van de deelverantwoording.
 
-7. Provinciale staten onderscheidenlijk de raad kunnen de goedkeuringstoleranties voor de gehele jaarrekening of voor deelverantwoordingen op een lager percentage vaststellen.
+7. Provinciale staten, de raad, onderscheidenlijk de eilandsraad kunnen de goedkeuringstoleranties voor de gehele jaarrekening of voor deelverantwoordingen op een lager percentage vaststellen.
 
 ##### Artikel 3. (Kwalitatieve aspecten)
 
@@ -76,15 +84,15 @@ Naast de kwantitatieve fouten en onzekerheden in de controle houdt de accountant
 
 ##### Artikel 4. (Accountantsverklaring)
 
-1. Voor de formulering van de goedkeurende accountantsverklaring hanteert de accountant het model van [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&bijlage=1a&z=2007-09-12&g=2007-09-12) voor de provincie onderscheidenlijk [bijlage 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&bijlage=1b&z=2007-09-12&g=2007-09-12) voor de gemeente.
+1. Voor de formulering van de goedkeurende accountantsverklaring hanteert de accountant het model van [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&bijlage=1a&z=2010-10-10&g=2010-10-10) voor de provincie, [bijlage 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&bijlage=1b&z=2010-10-10&g=2010-10-10) voor de gemeente onderscheidenlijk [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&bijlage=1c&z=2010-10-10&g=2010-10-10) voor het openbaar lichaam.
 
-2. Voor de strekking van de accountantsverklaring hanteert de accountant de uitgangspunten en de tabel, zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&bijlage=2&z=2007-09-12&g=2007-09-12).
+2. Voor de strekking van de accountantsverklaring hanteert de accountant de uitgangspunten en de tabel, zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&bijlage=2&z=2010-10-10&g=2010-10-10).
 
 ##### Artikel 5. (Verslag van bevindingen)
 
 1. De bedragen voor de rapporteringstoleranties die de accountant hanteert ten behoeve van de rapportering in het verslag van bevindingen zijn de bedragen die voortvloeien uit de goedkeuringstoleranties.
 
-2. Provinciale staten onderscheidenlijk de raad kunnen de accountant bedragen voor de rapporteringstoleranties voorschrijven die lager zijn dan de bedragen die voortvloeien uit de goedkeuringstoleranties.
+2. Provinciale staten, de raad onderscheidenlijk de eilandsraad kunnen de accountant bedragen voor de rapporteringstoleranties voorschrijven die lager zijn dan de bedragen die voortvloeien uit de goedkeuringstoleranties.
 
 3. Indien de accountant kwalitatieve gebreken van noemenswaardig belang constateert, meldt hij deze in het verslag van bevindingen, ook indien deze gebreken niet leiden tot het onthouden van een goedkeurende accountantsverklaring.
 
@@ -96,9 +104,9 @@ Naast de kwantitatieve fouten en onzekerheden in de controle houdt de accountant
 
 - c. € 100.000 indien de lasten groter dan € 1.000.000 zijn.
 
-##### Artikel 6. (Intrekken [Besluit accountantscontrole gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0013016))
+##### Artikel 6. (Uitbreiding grondslag)
 
-Het [Besluit accountantscontrole gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0013016) wordt ingetrokken.
+Dit besluit berust mede op [artikel 38, zevende lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=38).
 
 ##### Artikel 7. (Inwerkingtreding)
 
@@ -106,7 +114,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 ##### Artikel 8. (Citeertitel)
 
-Dit besluit wordt aangehaald als: Besluit accountantscontrole provincies en gemeenten.
+Dit besluit wordt aangehaald als: Besluit accountantscontrole decentrale overheden.
 
 ## Bijlage 1a. Tekst goedkeurende accountantsverklaring
 
@@ -116,9 +124,11 @@ In [artikel 217, derde lid van de Provinciewet](https://wetten.overheid.nl/jci1.
 
 ### Opdracht
 
-Wij hebben de jaarrekening .... (jaartal) van provincie ... (naam) gecontroleerd. De jaarrekening is opgesteld onder verantwoordelijkheid van het gedeputeerde staten van de provincie (naam). Gedeputeerde staten zijn tevens primair verantwoordelijk voor de naleving van de wet- en regelgeving. Het is onze verantwoordelijkheid de controle als bedoeld in [artikel 217, tweede lid van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=217) uit te voeren en een accountantsverklaring inzake de jaarrekening te verstrekken.
+In geval van een goedkeuring van de jaarrekening dient bij het opstellen van de accountantsverklaring de volgende tekst te worden aangehouden door de accountant.
 
-### Werkzaamheden
+### Opdracht
+
+Wij hebben de jaarrekening .... (jaartal) van provincie ... (naam) gecontroleerd. De jaarrekening is opgesteld onder verantwoordelijkheid van het gedeputeerde staten van de provincie (naam). Gedeputeerde staten zijn tevens primair verantwoordelijk voor de naleving van de wet- en regelgeving. Het is onze verantwoordelijkheid de controle als bedoeld in [artikel 217, tweede lid van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=217) uit te voeren en een accountantsverklaring inzake de jaarrekening te verstrekken.
 
 Bij onze controle hebben wij nagegaan of de jaarrekening voldoet aan de volgende eisen:
 
@@ -126,25 +136,25 @@ Bij onze controle hebben wij nagegaan of de jaarrekening voldoet aan de volgende
 
 Tevens hebben wij nagegaan of de jaarrekening is opgesteld in overeenstemming met het [Besluit begroting en verantwoording provincies en gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0014606).
 
-Onze controle is verricht overeenkomstig in Nederland algemeen aanvaarde richtlijnen met betrekking tot controleopdrachten en in overeenstemming met het Besluit accountantscontrole provincies en gemeenten. Volgens de in Nederland algemeen aanvaarde richtlijnen dient onze controle zodanig te worden gepland en uitgevoerd, dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening geen onjuistheden van materieel belang bevat.
-
-Een controle omvat onder meer een onderzoek door middel van deelwaarnemingen van informatie ter onderbouwing van de bedragen en toelichtingen in de jaarrekening. Tevens omvat een controle een beoordeling van de grondslagen voor financiële verslaggeving die bij het opmaken van de jaarrekening zijn toegepast en van belangrijke schattingen die het bevoegd gezag van de instelling daarbij heeft gemaakt, alsmede een evaluatie van het algehele beeld van de jaarrekening.
+Onze controle is verricht overeenkomstig in Nederland algemeen aanvaarde richtlijnen met betrekking tot controleopdrachten en in overeenstemming met het Besluit accountantscontrole decentrale overheden. Volgens de in Nederland algemeen aanvaarde richtlijnen dient onze controle zodanig te worden gepland en uitgevoerd, dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening geen onjuistheden van materieel belang bevat.
 
 ### Oordeel
 
-Wij zijn van oordeel dat de jaarrekening van de provincie .... (provincienaam) getrouw en in overeenstemming met het [Besluit begroting en verantwoording provincies en gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0014606) zowel de baten en de lasten over .... (jaartal) als de activa en passiva per 31 december .... (jaartal) weergeeft, en dat de in deze jaarrekening opgenomen baten en lasten, alsmede de balansmutaties tot stand zijn gekomen in overeenstemming met de begroting en met van toepassing zijnde wettelijke regelingen waaronder provinciale verordeningen.
+Wij zijn van mening dat onze controle een deugdelijke grondslag vormt voor ons oordeel.
 
 ## Bijlage 1b. Tekst goedkeurende accountantsverklaring
 
-In [artikel 213, derde lid van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213) zijn de elementen opgenomen, die de accountant in de accountantsverklaring moet opnemen.
+Wij zijn van oordeel dat de jaarrekening van de provincie .... (provincienaam) getrouw en in overeenstemming met het [Besluit begroting en verantwoording provincies en gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0014606) zowel de baten en de lasten over .... (jaartal) als de activa en passiva per 31 december .... (jaartal) weergeeft, en dat de in deze jaarrekening opgenomen baten en lasten, alsmede de balansmutaties tot stand zijn gekomen in overeenstemming met de begroting en met van toepassing zijnde wettelijke regelingen waaronder provinciale verordeningen.
 
 In [artikel 213, derde lid van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213) zijn de elementen opgenomen, die de accountant in de accountantsverklaring moet opnemen.
 
 ### Opdracht
 
-Wij hebben de jaarrekening .... (jaartal) van gemeente (plaatsnaam) gecontroleerd. De jaarrekening is opgesteld onder verantwoordelijkheid van het college van burgemeester en wethouders van de gemeente (plaatsnaam). Het college van burgemeester en wethouders is tevens primair verantwoordelijk voor de naleving van de wet- en regelgeving. Het is onze verantwoordelijkheid de controle als bedoeld in [artikel 213, tweede lid van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213) uit te voeren en een accountantsverklaring inzake de jaarrekening te verstrekken.
+In geval van een goedkeuring van de jaarrekening dient bij het opstellen van de accountantsverklaring de volgende tekst te worden aangehouden door de accountant.
 
-### Werkzaamheden
+### Opdracht
+
+Wij hebben de jaarrekening .... (jaartal) van gemeente (plaatsnaam) gecontroleerd. De jaarrekening is opgesteld onder verantwoordelijkheid van het college van burgemeester en wethouders van de gemeente (plaatsnaam). Het college van burgemeester en wethouders is tevens primair verantwoordelijk voor de naleving van de wet- en regelgeving. Het is onze verantwoordelijkheid de controle als bedoeld in [artikel 213, tweede lid van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213) uit te voeren en een accountantsverklaring inzake de jaarrekening te verstrekken.
 
 Bij onze controle hebben wij nagegaan of de jaarrekening voldoet aan de volgende eisen:
 
@@ -152,23 +162,21 @@ Bij onze controle hebben wij nagegaan of de jaarrekening voldoet aan de volgende
 
 Tevens hebben wij nagegaan of de jaarrekening is opgesteld in overeenstemming met het [Besluit begroting en verantwoording provincies en gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0014606).
 
-Onze controle is verricht overeenkomstig in Nederland algemeen aanvaarde richtlijnen met betrekking tot controleopdrachten en in overeenstemming met het Besluit accountantscontrole provincies en gemeenten. Volgens de in Nederland algemeen aanvaarde richtlijnen dient onze controle zodanig te worden gepland en uitgevoerd, dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening geen onjuistheden van materieel belang bevat.
-
-Een controle omvat onder meer een onderzoek door middel van deelwaarnemingen van informatie ter onderbouwing van de bedragen en toelichtingen in de jaarrekening. Tevens omvat een controle een beoordeling van de grondslagen voor financiële verslaggeving die bij het opmaken van de jaarrekening zijn toegepast en van belangrijke schattingen die het bevoegd gezag van de instelling daarbij heeft gemaakt, alsmede een evaluatie van het algehele beeld van de jaarrekening.
+Onze controle is verricht overeenkomstig in Nederland algemeen aanvaarde richtlijnen met betrekking tot controleopdrachten en in overeenstemming met het Besluit accountantscontrole decentrale overheden. Volgens de in Nederland algemeen aanvaarde richtlijnen dient onze controle zodanig te worden gepland en uitgevoerd, dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening geen onjuistheden van materieel belang bevat.
 
 ### Oordeel
 
-Wij zijn van oordeel dat de jaarrekening van gemeente .... (plaatsnaam) getrouw en in overeenstemming met het Besluit begroting en verantwoording provincies en gemeenten zowel de baten en de lasten over .... (jaartal) als de activa en passiva per 31 december .... (jaartal) weergeeft, en dat de in deze jaarrekening opgenomen baten en lasten, alsmede de balansmutaties tot stand zijn gekomen in overeenstemming met de begroting en met van toepassing zijnde wettelijke regelingen waaronder gemeentelijke verordeningen.
+Wij zijn van mening dat onze controle een deugdelijke grondslag vormt voor ons oordeel.
 
 ## Bijlage 2. Goedkeuringstoleranties en strekking accountantsverklaringen
 
-Bij de oordeelsvorming over de jaarrekening spelen de goedkeuringstoleranties een belangrijke rol. De goedkeuringstoleranties zijn kwantitatieve criteria. Als de goedkeuringstoleranties niet worden overschreden, wordt in beginsel een goedkeurende accountantsverklaring afgegeven.
+Wij zijn van oordeel dat de jaarrekening van gemeente .... (plaatsnaam) getrouw en in overeenstemming met het Besluit begroting en verantwoording provincies en gemeenten zowel de baten en de lasten over .... (jaartal) als de activa en passiva per 31 december .... (jaartal) weergeeft, en dat de in deze jaarrekening opgenomen baten en lasten, alsmede de balansmutaties tot stand zijn gekomen in overeenstemming met de begroting en met van toepassing zijnde wettelijke regelingen waaronder gemeentelijke verordeningen.
 
 Bij de oordeelsvorming over de jaarrekening spelen de goedkeuringstoleranties een belangrijke rol. De goedkeuringstoleranties zijn kwantitatieve criteria. Als de goedkeuringstoleranties niet worden overschreden, wordt in beginsel een goedkeurende accountantsverklaring afgegeven.
 
 ### soort verklaring
 
-Zoals in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&artikel=3&z=2003-09-19&g=2003-09-19) aangegeven kan de accountant, op grond van zijn deskundigheid, ook besluiten dat er kwalitatieve gebreken zijn van dusdanige aard, dat de goedkeuring wordt onthouden.
+Bij de oordeelsvorming over de jaarrekening spelen de goedkeuringstoleranties een belangrijke rol. De goedkeuringstoleranties zijn kwantitatieve criteria. Als de goedkeuringstoleranties niet worden overschreden, wordt in beginsel een goedkeurende accountantsverklaring afgegeven.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
@@ -178,7 +186,7 @@ De accountant beoordeelt voor elke specifieke uitkering of er sprake is van risi
 
 ## Bijlage 1a. Tekst goedkeurende accountantsverklaring
 
-In geval van een goedkeuring van de jaarrekening dient bij het opstellen van de accountantsverklaring de volgende tekst te worden aangehouden door de accountant.
+In [artikel 217, derde lid van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=217) zijn de elementen opgenomen, die de accountant in de accountantsverklaring moet opnemen.
 
 ### Opdracht
 
@@ -186,7 +194,7 @@ Wij hebben de jaarrekening .... (jaartal) van provincie ... (naam) gecontroleerd
 
 ### Werkzaamheden
 
-Wij zijn van mening dat onze controle een deugdelijke grondslag vormt voor ons oordeel.
+Een controle omvat onder meer een onderzoek door middel van deelwaarnemingen van informatie ter onderbouwing van de bedragen en toelichtingen in de jaarrekening. Tevens omvat een controle een beoordeling van de grondslagen voor financiële verslaggeving die bij het opmaken van de jaarrekening zijn toegepast en van belangrijke schattingen die het bevoegd gezag van de instelling daarbij heeft gemaakt, alsmede een evaluatie van het algehele beeld van de jaarrekening.
 
 ### Oordeel
 
@@ -194,7 +202,7 @@ Wij zijn van oordeel dat de jaarrekening van de provincie .... (provincienaam) g
 
 ## Bijlage 1b. Tekst goedkeurende accountantsverklaring
 
-In geval van een goedkeuring van de jaarrekening dient bij het opstellen van de accountantsverklaring de volgende tekst te worden aangehouden door de accountant.
+In [artikel 213, derde lid van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213) zijn de elementen opgenomen, die de accountant in de accountantsverklaring moet opnemen.
 
 ### Opdracht
 
@@ -202,7 +210,7 @@ Wij hebben de jaarrekening .... (jaartal) van gemeente (plaatsnaam) gecontroleer
 
 ### Werkzaamheden
 
-Wij zijn van mening dat onze controle een deugdelijke grondslag vormt voor ons oordeel.
+Een controle omvat onder meer een onderzoek door middel van deelwaarnemingen van informatie ter onderbouwing van de bedragen en toelichtingen in de jaarrekening. Tevens omvat een controle een beoordeling van de grondslagen voor financiële verslaggeving die bij het opmaken van de jaarrekening zijn toegepast en van belangrijke schattingen die het bevoegd gezag van de instelling daarbij heeft gemaakt, alsmede een evaluatie van het algehele beeld van de jaarrekening.
 
 ### Oordeel
 
@@ -214,6 +222,56 @@ Als één der of beide goedkeuringstolerantie(s) worden overschreden zal geen go
 
 ### soort verklaring
 
-Zoals in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&artikel=3&z=2007-09-12&g=2007-09-12) aangegeven kan de accountant, op grond van zijn deskundigheid, ook besluiten dat er kwalitatieve gebreken zijn van dusdanige aard, dat de goedkeuring wordt onthouden.
+Als één der of beide goedkeuringstolerantie(s) worden overschreden zal geen goedkeurende accountantsverklaring, maar één van de drie andere hieronder aangegeven oordelen, worden verstrekt door de accountant.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 1a. (Reikwijdte)
+
+De [artikelen 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&artikel=3a&z=2010-10-10&g=2010-10-10) en [5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&artikel=5&z=2010-10-10&g=2010-10-10), van dit besluit zijn niet van toepassing op de openbare lichamen.
+
+## Bijlage 1a. Tekst goedkeurende accountantsverklaring
+
+### Werkzaamheden
+
+### Oordeel
+
+## Bijlage 1b. Tekst goedkeurende accountantsverklaring
+
+### Werkzaamheden
+
+### Oordeel
+
+## Bijlage 1c. Tekst goedkeurende accountantsverklaring
+
+In [artikel 38, vierde lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=38) zijn de elementen opgenomen, die de accountant in de accountantsverklaring moet opnemen.
+
+In geval van een goedkeuring van de jaarrekening dient bij het opstellen van de accountantsverklaring de volgende tekst te worden aangehouden door de accountant.
+
+Wij hebben de jaarrekening .... (jaartal) van het openbaar lichaam (naam) gecontroleerd. De jaarrekening is opgesteld onder verantwoordelijkheid van het bestuurscollege van het openbaar lichaam (naam). Het bestuurscollege is tevens primair verantwoordelijk voor de naleving van de wet- en regelgeving. Het is onze verantwoordelijkheid de controle als bedoeld in [artikel 38, derde lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=38) uit te voeren en een accountantsverklaring inzake de jaarrekening te verstrekken.
+
+Bij onze controle hebben wij nagegaan of de jaarrekening voldoet aan de volgende eisen:
+
+- •. dat de jaarrekening getrouw weergeeft zowel de baten en de lasten over .... (jaartal) als de activa en passiva per 31 december .... (jaartal) en
+
+- •. dat de in de jaarrekening opgenomen baten en lasten, alsmede de balansmutaties tot stand zijn gekomen in overeenstemming met de begroting, van toepassing zijnde wettelijke regelingen, waaronder eilandsverordeningen en
+
+- •. dat het jaarverslag met de jaarrekening verenigbaar is.
+
+Tevens hebben wij nagegaan of de jaarrekening is opgesteld in overeenstemming met het Besluit begroting en verantwoording BES.
+
+Onze controle is verricht overeenkomstig in Nederland algemeen aanvaarde richtlijnen met betrekking tot controleopdrachten en in overeenstemming met het Besluit accountantscontrole decentrale overheden. Volgens de in Nederland algemeen aanvaarde richtlijnen dient onze controle zodanig te worden gepland en uitgevoerd, dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening geen onjuistheden van materieel belang bevat.
+
+Een controle omvat onder meer een onderzoek door middel van deelwaarnemingen van informatie ter onderbouwing van de bedragen en toelichtingen in de jaarrekening. Tevens omvat een controle een beoordeling van de grondslagen voor financiële verslaggeving die bij het opmaken van de jaarrekening zijn toegepast en van belangrijke schattingen die het bevoegd gezag van de instelling daarbij heeft gemaakt, alsmede een evaluatie van het algehele beeld van de jaarrekening.
+
+Wij zijn van mening dat onze controle een deugdelijke grondslag vormt voor ons oordeel.
+
+Wij zijn van oordeel dat de jaarrekening van het openbaar lichaam .... (naam) getrouw en in overeenstemming met het Besluit begroting en verantwoording BES zowel de baten en de lasten over .... (jaartal) als de activa en passiva per 31 december .... (jaartal) weergeeft, en dat de in deze jaarrekening opgenomen baten en lasten, alsmede de balansmutaties tot stand zijn gekomen in overeenstemming met de begroting en met van toepassing zijnde wettelijke regelingen waaronder eilandsverordeningen.
+
+## Bijlage 2. Goedkeuringstoleranties en strekking accountantsverklaringen
+
+### soort verklaring
+
+Zoals in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&artikel=3&z=2010-10-10&g=2010-10-10) aangegeven kan de accountant, op grond van zijn deskundigheid, ook besluiten dat er kwalitatieve gebreken zijn van dusdanige aard, dat de goedkeuring wordt onthouden.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
