@@ -4,7 +4,7 @@ identifier: "BWBR0002448"
 country: "nl"
 rank: "wet"
 publication_date: "2010-10-10"
-last_updated: "1999-02-17"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002448"
 soort: "wet"
@@ -72,7 +72,7 @@ Deze wet geldt niet voor termijnen:
 
 ##### Artikel 5
 
-Op in een algemene maatregel van bestuur gestelde termijnen zijn de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002448&artikel=1&z=1999-02-17&g=1999-02-17)-[4](https://wetten.overheid.nl/jci1.3:c:BWBR0002448&artikel=4&z=1999-02-17&g=1999-02-17) van overeenkomstige toepassing, tenzij bij algemene maatregel van bestuur iets anders is bepaald.
+Op in een algemene maatregel van bestuur gestelde termijnen zijn de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002448&artikel=1&z=2010-10-10&g=2010-10-10)-[4](https://wetten.overheid.nl/jci1.3:c:BWBR0002448&artikel=4&z=2010-10-10&g=2010-10-10) van overeenkomstige toepassing, tenzij bij algemene maatregel van bestuur iets anders is bepaald.
 
 ##### Artikel 6
 
@@ -83,5 +83,11 @@ Deze wet kan worden aangehaald als: Algemene termijnenwet.
 1. Deze wet treedt in werking met ingang van 1 april 1965.
 
 2. Zij kan voor termijnen, gesteld in door Ons, door plaatsing op een daartoe door Ons aangehouden lijst, aangewezen wetten en algemene maatregelen van bestuur, op door Ons te bepalen eerdere tijdstippen in werking treden.
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 5a
+
+Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
