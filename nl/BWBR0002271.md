@@ -4,7 +4,7 @@ identifier: "BWBR0002271"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2020-01-01"
-last_updated: "2000-03-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002271"
 soort: "rijksKB"
@@ -50,7 +50,7 @@ Voor de toepassing van dit besluit wordt verstaan onder "Onze Minister", Onze Mi
 
 ##### Artikel 2
 
-Het bepaalde in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=5&z=2000-03-01&g=2000-03-01), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=6&z=2000-03-01&g=2000-03-01), [19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=19&z=2000-03-01&g=2000-03-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=20&z=2000-03-01&g=2000-03-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=21&z=2000-03-01&g=2000-03-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=22&z=2000-03-01&g=2000-03-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=23&z=2000-03-01&g=2000-03-01) van dit besluit is niet van toepassing op de door of vanwege de Gouverneur van de Nederlandse Antillen benoemde ambtenaren van de Scheepvaartinspectie. De in de artikelen behandelde onderwerpen worden, voor zover het betreft de door of vanwege de Gouverneur van de Nederlandse Antillen benoemde ambtenaren, geregeld bij landsverordening of landsbesluit, houdende algemene maatregelen.
+Het bepaalde in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=5&z=2010-10-10&g=2010-10-10), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=6&z=2010-10-10&g=2010-10-10), [19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=19&z=2010-10-10&g=2010-10-10), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=20&z=2010-10-10&g=2010-10-10), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=21&z=2010-10-10&g=2010-10-10), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=22&z=2010-10-10&g=2010-10-10) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=23&z=2010-10-10&g=2010-10-10) van dit besluit is niet van toepassing op de door of vanwege de Gouverneur van Curaçao, onderscheidenlijk Sint Maarten benoemde ambtenaren van de Scheepvaartinspectie. De in de artikelen behandelde onderwerpen worden, voor zover het betreft de door of vanwege de Gouverneur van Curaçao, onderscheidenlijk Sint Maarten benoemde ambtenaren, geregeld bij landsverordening of landsbesluit, houdende algemene maatregelen.
 
 ##### Artikel 3
 
@@ -58,7 +58,7 @@ Het bepaalde in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002271
 
 2. De Inspecteur-Generaal, in dit besluit verder te noemen Hoofd van de Scheepvaartinspectie, is verantwoordelijk voor en belast met de algemene leiding van de dienst der Scheepvaartinspectie, onder de bevelen van Onze Minister.
 
-3. Onze Minister wijst elke ambtenaar van de Scheepvaartinspectie een standplaats aan. Voor zover het betreft de door of vanwege de Gouverneur van de Nederlandse Antillen benoemde ambtenaren, geschiedt deze aanwijzing door of vanwege de Gouverneur van de Nederlandse Antillen.
+3. Onze Minister wijst elke ambtenaar van de Scheepvaartinspectie een standplaats aan. Voor zover het betreft de door of vanwege de Gouverneur van Curaçao, onderscheidenlijk Sint Maarten benoemde ambtenaren, geschiedt deze aanwijzing door of vanwege de Gouverneur van Curaçao, onderscheidenlijk Sint Maarten.
 
 4. Het Hoofd van de Scheepvaartinspectie en de aan deze toegevoegde ambtenaren van de Scheepvaartinspectie hebben hun standplaats te 's-Gravenhage.
 
@@ -98,13 +98,13 @@ Voor het toezicht op de naleving worden in Nederland de volgende districten gevo
 
 1. Het toezicht op de naleving wordt uitgeoefend onder leiding van een door Onze Minister voor elk district aangewezen ambtenaar van de Scheepvaartinspectie (Districtshoofd), onder wiens bevelen de andere ambtenaren van het district werkzaam zijn.
 
-Het toezicht op de naleving in de Nederlandse Antillen wordt uitgeoefend onder leiding van een door of vanwege de Gouverneur van de Nederlandse Antillen aangewezen ambtenaar van de Scheepvaartinspectie (Hoofd van de Scheepvaartinspectie in de Nederlandse Antillen) onder wiens bevelen de andere ambtenaren aldaar werkzaam zijn.
+Het toezicht op de naleving in Curaçao, onderscheidenlijk Sint Maarten wordt uitgeoefend onder leiding van een door of vanwege de Gouverneur van Curaçao, onderscheidenlijk Sint Maarten aangewezen ambtenaar van de Scheepvaartinspectie (Hoofd van de Scheepvaartinspectie in Curaçao, onderscheidenlijk Sint Maarten) onder wiens bevelen de andere ambtenaren aldaar werkzaam zijn.
 
-2. Bij ontstentenis van het Districtshoofd wordt deze door een door het Hoofd van de Scheepvaartinspectie aangewezen ambtenaar vervangen. Bij ontstentenis van het Hoofd van de Scheepvaartinspectie in de Nederlandse Antillen wordt deze vervangen door een door of vanwege de Gouverneur van de Nederlandse Antillen aangewezen ambtenaar.
+2. Bij ontstentenis van het Districtshoofd wordt deze door een door het Hoofd van de Scheepvaartinspectie aangewezen ambtenaar vervangen. Bij ontstentenis van het Hoofd van de Scheepvaartinspectie in Curaçao, onderscheidenlijk Sint Maarten wordt deze vervangen door een door of vanwege de Gouverneur van Curaçao, onderscheidenlijk Sint Maarten aangewezen ambtenaar.
 
-3. Het districtshoofd en het Hoofd van de Scheepvaartinspectie in de Nederlandse Antillen verrichten hun taak onder de bevelen van het Hoofd van de Scheepvaartinspectie.
+3. Het districtshoofd en het Hoofd van de Scheepvaartinspectie in Curaçao, onderscheidenlijk Sint Maarten verrichten hun taak onder de bevelen van het Hoofd van de Scheepvaartinspectie.
 
-4. De bemoeiingen van het Districtshoofd en van de aan hem toegevoegde ambtenaren van de Scheepvaartinspectie strekken zich uit over alle schepen, welke in het district, waarin zij geplaatst zijn, thuisbehoren, dan wel zich aldaar bevinden. De bemoeiingen van het Hoofd van de Scheepvaartinspectie in de Nederlandse Antillen en van de aan hem toegevoegde ambtenaren van de Scheepvaartinspectie strekken zich uit over alle schepen die zijn voorzien van een zeebrief van de Nederlandse Antillen en over alle schepen die zich in de Nederlandse Antillen bevinden.
+4. De bemoeiingen van het Districtshoofd en van de aan hem toegevoegde ambtenaren van de Scheepvaartinspectie strekken zich uit over alle schepen, welke in het district, waarin zij geplaatst zijn, thuisbehoren, dan wel zich aldaar bevinden. De bemoeiingen van het Hoofd van de Scheepvaartinspectie in Curaçao, onderscheidenlijk Sint Maarten en van de aan hem toegevoegde ambtenaren van de Scheepvaartinspectie strekken zich uit over alle schepen die zijn voorzien van een zeebrief van de Nederlandse Antillen en over alle schepen die zich in Curaçao, onderscheidenlijk Sint Maarten bevinden.
 
 ##### Artikel 9
 
@@ -116,9 +116,9 @@ Het Hoofd van de Scheepvaartinspectie is, indien het in het belang van de uitoef
 
 - c. aan ambtenaren van het eerste, tweede, derde of vierde district werkzaamheden op te dragen in een ander district;
 
-- d. aan ambtenaren van het eerste, tweede of derde district het toezicht op te dragen op schepen voorzien van een zeebrief van de Nederlandse Antillen;
+- d. aan ambtenaren van het eerste, tweede of derde district het toezicht op te dragen op schepen voorzien van een zeebrief van Curaçao, onderscheidenlijk Sint Maarten;
 
-- e. aan ambtenaren in de Nederlandse Antillen het toezicht op te dragen op schepen thuisbehorende in een der districten in Nederland;
+- e. aan ambtenaren in Curaçao, onderscheidenlijk Sint Maarten het toezicht op te dragen op schepen thuisbehorende in een der districten in Nederland;
 
 - f. aan ambtenaren welke aan hem zijn toegevoegd werkzaamheden op te dragen in een der onder **c** genoemde districten, dan wel hen ter beschikking te stellen van het Districtshoofd.
 
@@ -130,7 +130,7 @@ Het Hoofd van de Scheepvaartinspectie is, indien het in het belang van de uitoef
 
 3. Zij overtuigen zich of de schepen op merkbare wijze in sterkte zijn achteruit gegaan, dan wel schade hebben belopen en of herstellingen op afdoende wijze en met deugdelijk materiaal worden en zijn verricht.
 
-4. Zij overtuigen zich of is of zal worden voldaan aan de voorschriften in [artikel 4 der Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=4) bedoeld, of krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=5&z=2000-03-01&g=2000-03-01) dier Wet gesteld of gegeven.
+4. Zij overtuigen zich of is of zal worden voldaan aan de voorschriften in [artikel 4 der Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=4) bedoeld, of krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=5&z=2010-10-10&g=2010-10-10) dier Wet gesteld of gegeven.
 
 5. Zij zijn bevoegd zich alle in het [Schepenbesluit 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002501) genoemde voorwerpen te doen vertonen, inzage te nemen van de dagboeken, van de registers van waarnemingen betreffende kompassen en tijdmeters, van de certificaten en bewijzen, afgegeven bij het onderzoeken van lantaarns, instrumenten, enz. en in het algemeen van alle bescheiden welke kunnen dienen om te beoordelen of de voorschriften zijn of worden nageleefd.
 
@@ -152,35 +152,35 @@ Het Hoofd van de Scheepvaartinspectie is, indien het in het belang van de uitoef
 
 1. De ambtenaren van de Scheepvaartinspectie en de ambtenaren van andere diensttakken, die ter beschikking van de dienst der Scheepvaartinspectie zijn gesteld, zijn verplicht van alle belangrijke zaken, welke zich bij hun inspecties voordoen, aantekening te houden en daarvan geregeld mededeling te doen aan hun onmiddellijke chef.
 
-2. De Districtshoofden en het Hoofd van de Scheepvaartinspectie in de Nederlandse Antillen zenden zo spoedig mogelijk doordrukken van de in het eerste lid bedoelde aantekeningen aan het Hoofd van de Scheepvaartinspectie.
+2. De Districtshoofden en het Hoofd van de Scheepvaartinspectie in Curaçao, onderscheidenlijk Sint Maarten zenden zo spoedig mogelijk doordrukken van de in het eerste lid bedoelde aantekeningen aan het Hoofd van de Scheepvaartinspectie.
 
 ##### Artikel 13
 
-1. De Districtshoofden en het Hoofd van de Scheepvaartinspectie in de Nederlandse Antillen zien toe op de nauwgezette plichtsbetrachting van de onder hun bevelen gestelde ambtenaren.
+1. De Districtshoofden en het Hoofd van de Scheepvaartinspectie in Curaçao, onderscheidenlijk Sint Maarten zien toe op de nauwgezette plichtsbetrachting van de onder hun bevelen gestelde ambtenaren.
 
 2. Hiertoe begeven zij zich ook aan boord van de schepen, op de werven en in de dokken waar zich onder toezicht staande schepen bevinden.
 
 3. Door tussenkomst van de onder hun bevelen gestelde ambtenaren en door andere doeltreffende middelen zorgen zij steeds op de hoogte te blijven van de toestand van de schepen, waarover hun bemoeiingen zich uitstrekken.
 
-4. Indien een schip uit hun district naar een ander wordt overgebracht, dan wel het toezicht op de naleving op bepaalde schepen wordt opgedragen aan het Hoofd van een ander district, worden de van deze schepen beschikbare gegevens aan dit Districtshoofd overgedragen, waarbij op bijzonderheden wordt gewezen. Het bepaalde in dit lid is van overeenkomstige toepassing voor gevallen waarbij het toezicht op de naleving van een schip uit een der districten wordt opgedragen aan het Hoofd van de Scheepvaartinspectie in de Nederlandse Antillen onderscheidenlijk het toezicht op de naleving van een schip voorzien van een zeebrief van de Nederlandse Antillen wordt opgedragen aan een der Districtshoofden in Nederland.
+4. Indien een schip uit hun district naar een ander wordt overgebracht, dan wel het toezicht op de naleving op bepaalde schepen wordt opgedragen aan het Hoofd van een ander district, worden de van deze schepen beschikbare gegevens aan dit Districtshoofd overgedragen, waarbij op bijzonderheden wordt gewezen. Het bepaalde in dit lid is van overeenkomstige toepassing voor gevallen waarbij het toezicht op de naleving van een schip uit een der districten wordt opgedragen aan het Hoofd van de Scheepvaartinspectie in Curaçao, onderscheidenlijk Sint Maarten onderscheidenlijk het toezicht op de naleving van een schip voorzien van een zeebrief van Curaçao, onderscheidenlijk Sint Maarten wordt opgedragen aan een der Districtshoofden in Nederland.
 
 ##### Artikel 14
 
-Wanneer een Districtshoofd dan wel het Hoofd van de Scheepvaartinspectie in de Nederlandse Antillen van oordeel is, dat het nodig zal zijn een schip te doen dokken of op andere wijze te doen droogzetten, geeft hij hiervan zo tijdig mogelijk kennis aan de eigenaar en de kapitein, opdat deze bij het regelen der werkzaamheden hiermede rekening kunnen houden.
+Wanneer een Districtshoofd dan wel het Hoofd van de Scheepvaartinspectie in Curaçao, onderscheidenlijk Sint Maarten van oordeel is, dat het nodig zal zijn een schip te doen dokken of op andere wijze te doen droogzetten, geeft hij hiervan zo tijdig mogelijk kennis aan de eigenaar en de kapitein, opdat deze bij het regelen der werkzaamheden hiermede rekening kunnen houden.
 
 ##### Artikel 15
 
-Wanneer een Districtshoofd dan wel het Hoofd van de Scheepvaartinspectie in de Nederlandse Antillen verneemt, dat in de gevallen bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=11&z=2000-03-01&g=2000-03-01), meningsverschil bestaat tussen de ambtenaar en de kapitein of de eigenaar, dan stelt hij zich op de hoogte en tracht overeenstemming te bereiken, teneinde verdere moeilijkheden te voorkomen.
+Wanneer een Districtshoofd dan wel het Hoofd van de Scheepvaartinspectie in Curaçao, onderscheidenlijk Sint Maarten verneemt, dat in de gevallen bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=11&z=2010-10-10&g=2010-10-10), meningsverschil bestaat tussen de ambtenaar en de kapitein of de eigenaar, dan stelt hij zich op de hoogte en tracht overeenstemming te bereiken, teneinde verdere moeilijkheden te voorkomen.
 
 ##### Artikel 16
 
-1. Wanneer een Districtshoofd dan wel het Hoofd van de Scheepvaartinspectie in de Nederlandse Antillen van oordeel is dat gevaarlijke stoffen op ongeoorloofde wijze zijn geladen of de stabiliteit van het schip gevaar loopt door ondoelmatige belading, kan hij de lading geheel of gedeeltelijk doen lossen dan wel, met inachtneming van het bepaalde in het tweede lid van dit artikel, een stabiliteitsproef doen nemen. Een ambtenaar van de Scheepvaartinspectie die werkzaam is onder de bevelen van een Districtshoofd dan wel van het Hoofd van de Scheepvaartinspectie in de Nederlandse Antillen, zal deze maatregel slechts kunnen nemen na machtiging van zijn onmiddellijke chef.
+1. Wanneer een Districtshoofd dan wel het Hoofd van de Scheepvaartinspectie in Curaçao, onderscheidenlijk Sint Maarten van oordeel is dat gevaarlijke stoffen op ongeoorloofde wijze zijn geladen of de stabiliteit van het schip gevaar loopt door ondoelmatige belading, kan hij de lading geheel of gedeeltelijk doen lossen dan wel, met inachtneming van het bepaalde in het tweede lid van dit artikel, een stabiliteitsproef doen nemen. Een ambtenaar van de Scheepvaartinspectie die werkzaam is onder de bevelen van een Districtshoofd dan wel van het Hoofd van de Scheepvaartinspectie in Curaçao, onderscheidenlijk Sint Maarten, zal deze maatregel slechts kunnen nemen na machtiging van zijn onmiddellijke chef.
 
 2. Tot het nemen van een stabiliteitsproef, hetzij met het ledige, hetzij met het geladen schip, zal intussen niet worden overgegaan voordat de Scheepsbouwkundig Adviseur of diens vervanger is geraadpleegd.
 
-3. In de in het eerste lid bedoelde gevallen, zomede in het geval bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=14&z=2000-03-01&g=2000-03-01), wordt onverwijld mededeling gedaan aan het Hoofd van de Scheepvaartinspectie. Hierbij wordt tevens vermeld of van de zijde van de eigenaar of van de kapitein tegen de lastgeving bezwaar is gemaakt. De werking van de lastgeving wordt opgeschort totdat de bezwaar- of beroepstermijn is verstreken of, indien bezwaar of beroep is ingesteld, op het bezwaar onderscheidenlijk beroep is beslist.
+3. In de in het eerste lid bedoelde gevallen, zomede in het geval bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002271&artikel=14&z=2010-10-10&g=2010-10-10), wordt onverwijld mededeling gedaan aan het Hoofd van de Scheepvaartinspectie. Hierbij wordt tevens vermeld of van de zijde van de eigenaar of van de kapitein tegen de lastgeving bezwaar is gemaakt. De werking van de lastgeving wordt opgeschort totdat de bezwaar- of beroepstermijn is verstreken of, indien bezwaar of beroep is ingesteld, op het bezwaar onderscheidenlijk beroep is beslist.
 
-4. In afwijking van het bepaalde in het tweede lid en de laatste zin van het derde lid van dit artikel, kan het Hoofd van de Scheepvaartinspectie in de Nederlandse Antillen nalaten de Scheepsbouwkundig Adviseur te raadplegen, onderscheidenlijk een beslissing van het Hoofd van de Scheepvaartinspectie af te wachten, indien daardoor naar zijn mening ongewenst oponthoud zou ontstaan.
+4. In afwijking van het bepaalde in het tweede lid en de laatste zin van het derde lid van dit artikel, kan het Hoofd van de Scheepvaartinspectie in Curaçao, onderscheidenlijk Sint Maarten nalaten de Scheepsbouwkundig Adviseur te raadplegen, onderscheidenlijk een beslissing van het Hoofd van de Scheepvaartinspectie af te wachten, indien daardoor naar zijn mening ongewenst oponthoud zou ontstaan.
 
 ##### Artikel 17
 
@@ -188,7 +188,7 @@ Vervallen
 
 ##### Artikel 18
 
-Jaarlijks zendt het Hoofd van de Scheepvaartinspectie aan Onze Minister een gedrukt verslag betreffende de werking en de toepassing van de wettelijke voorschriften en de gang van de dienst in de districten en in de Nederlandse Antillen, aangevuld met statistische opgaven.
+Jaarlijks zendt het Hoofd van de Scheepvaartinspectie aan Onze Minister een gedrukt verslag betreffende de werking en de toepassing van de wettelijke voorschriften en de gang van de dienst in de districten en in Curaçao, onderscheidenlijk Sint Maarten, aangevuld met statistische opgaven.
 
 ##### Artikel 19
 
