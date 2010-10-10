@@ -4,7 +4,7 @@ identifier: "BWBR0002154"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2024-01-01"
-last_updated: "2010-09-16"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002154"
 soort: "rijkswet"
@@ -35,27 +35,33 @@ entry_into_force: "1954-12-29"
 
 Preambule
 
-Nederland, de Nederlandse Antillen en Aruba,
+Nederland, Aruba, Curaçao en Sint Maarten,
 
 constaterende dat Nederland, Suriname en de Nederlandse Antillen in 1954 uit vrije wil hebben verklaard in het Koninkrijk der Nederlanden een nieuwe rechtsorde te aanvaarden, waarin zij de eigen belangen zelfstandig behartigen en op voet van gelijkwaardigheid de gemeenschappelijke belangen verzorgen en wederkerig bijstand verlenen, en hebben besloten in gemeen overleg het Statuut voor het Koninkrijk vast te stellen;
 
 constaterende dat de statutaire band met Suriname is beëindigd met ingang van 25 november 1975 door wijziging van het Statuut bij rijkswet van 22 november 1975, **Stb.** 617, **PbNA** 233;
 
-overwegende dat Aruba uit vrije wil heeft verklaard deze rechtsorde als land te aanvaarden;
+constaterende dat Aruba uit vrije wil heeft verklaard deze rechtsorde als land te aanvaarden met ingang van 1 januari 1986 voor een periode van tien jaar en met ingang van 1 januari 1996 voor onbepaalde tijd;
+
+overwegende dat Curaçao en Sint Maarten elk uit vrije wil hebben verklaard deze rechtsorde als land te aanvaarden;
 
 hebben besloten in gemeen overleg het Statuut voor het Koninkrijk als volgt nader vast te stellen.
+
+Treedt in werking om 00.00 uur in Aruba, Curaçao, Sint Maarten, Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van het Koninkrijk.
 
 #### § 1. Algemene bepalingen
 
 ##### Artikel 1
 
-De Kroon van het Koninkrijk wordt erfelijk gedragen door Hare Majesteit Juliana, Prinses van Oranje-Nassau en bij opvolging door Hare wettige opvolgers.
+1. Het Koninkrijk omvat de landen Nederland, Aruba, Curaçao en Sint Maarten.
+
+2. Bonaire, Sint Eustatius en Saba maken elk deel uit van het staatsbestel van Nederland. Voor deze eilanden kunnen regels worden gesteld en andere specifieke maatregelen worden getroffen met het oog op de economische en sociale omstandigheden, de grote afstand tot het Europese deel van Nederland, hun insulaire karakter, kleine oppervlakte en bevolkingsomvang, geografische omstandigheden, het klimaat en andere factoren waardoor deze eilanden zich wezenlijk onderscheiden van het Europese deel van Nederland.
 
 ##### Artikel 2
 
 1. De Koning voert de regering van het Koninkrijk en van elk der landen. Hij is onschendbaar, de ministers zijn verantwoordelijk.
 
-2. De Koning wordt in de Nederlandse Antillen en Aruba vertegenwoordigd door de Gouverneur. De bevoegdheden, verplichtingen en verantwoordelijkheid van de Gouverneur als vertegenwoordiger van de regering van het Koninkrijk worden geregeld bij rijkswet of in de daarvoor in aanmerking komende gevallen bij algemene maatregel van rijksbestuur.
+2. De Koning wordt in Aruba, Curaçao en Sint Maarten vertegenwoordigd door de Gouverneur. De bevoegdheden, verplichtingen en verantwoordelijkheid van de Gouverneur als vertegenwoordiger van de regering van het Koninkrijk worden geregeld bij rijkswet of in de daarvoor in aanmerking komende gevallen bij algemene maatregel van rijksbestuur.
 
 3. De rijkswet regelt hetgeen verband houdt met de benoeming en het ontslag van de Gouverneur. De benoeming en het ontslag geschieden door de Koning als hoofd van het Koninkrijk.
 
@@ -81,13 +87,13 @@ De Kroon van het Koninkrijk wordt erfelijk gedragen door Hare Majesteit Juliana,
 
 2. Andere onderwerpen kunnen in gemeen overleg tot aangelegenheden van het Koninkrijk worden verklaard.
 
-[Artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=5&artikel=55&z=2010-09-16&g=2010-09-16) is daarbij van overeenkomstige toepassing.
+[Artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=5&artikel=55&z=2010-10-10&g=2010-10-10) is daarbij van overeenkomstige toepassing.
 
 ##### Artikel 4
 
 1. De koninklijke macht wordt in aangelegenheden van het Koninkrijk uitgeoefend door de Koning als hoofd van het Koninkrijk.
 
-2. De wetgevende macht wordt in aangelegenheden van het Koninkrijk uitgeoefend door de wetgever van het Koninkrijk. Bij voorstellen van rijkswet vindt de behandeling plaats met inachtneming van de [artikelen 15 t/m 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=15&z=2010-09-16&g=2010-09-16).
+2. De wetgevende macht wordt in aangelegenheden van het Koninkrijk uitgeoefend door de wetgever van het Koninkrijk. Bij voorstellen van rijkswet vindt de behandeling plaats met inachtneming van de [artikelen 15 t/m 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=15&z=2010-10-10&g=2010-10-10).
 
 ##### Artikel 5
 
@@ -95,19 +101,19 @@ De Kroon van het Koninkrijk wordt erfelijk gedragen door Hare Majesteit Juliana,
 
 2. De [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) neemt de bepalingen van het Statuut in acht.
 
-3. Op een voorstel tot verandering in de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840), houdende bepalingen betreffende aangelegenheden van het Koninkrijk, alsmede op het ontwerp van wet, dat er grond bestaat een zodanig voorstel in overweging te nemen, zijn de [artikelen 15 t/m 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=15&z=2010-09-16&g=2010-09-16) van toepassing.
+3. Op een voorstel tot verandering in de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840), houdende bepalingen betreffende aangelegenheden van het Koninkrijk, alsmede op het ontwerp van wet, dat er grond bestaat een zodanig voorstel in overweging te nemen, zijn de [artikelen 15 t/m 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=15&z=2010-10-10&g=2010-10-10) van toepassing.
 
 #### § 2. De behartiging van de aangelegenheden van het Koninkrijk
 
 ##### Artikel 6
 
-1. De aangelegenheden van het Koninkrijk worden in samenwerking van Nederland, de Nederlandse Antillen en Aruba behartigd overeenkomstig de navolgende bepalingen.
+1. De aangelegenheden van het Koninkrijk worden in samenwerking van Nederland, Aruba, Curaçao en Sint Maarten behartigd overeenkomstig de navolgende bepalingen.
 
 2. Bij de behartiging van deze aangelegenheden worden waar mogelijk de landsorganen ingeschakeld.
 
 ##### Artikel 7
 
-De raad van ministers van het Koninkrijk is samengesteld uit de door de Koning benoemde ministers en de door de regering van de Nederlandse Antillen, onderscheidenlijk van Aruba benoemde Gevolmachtigde Minister.
+De raad van ministers van het Koninkrijk is samengesteld uit de door de Koning benoemde ministers en de door de regering van Aruba, Curaçao onderscheidenlijk Sint Maarten benoemde Gevolmachtigde Minister.
 
 ##### Artikel 8
 
@@ -129,31 +135,31 @@ Hetgeen in dit Statuut is bepaald voor de Gevolmachtigde Minister, is van overee
 
 1. De Gevolmachtigde Minister neemt deel aan het overleg in de vergaderingen van de raad van ministers en van de vaste colleges en bijzondere commissies uit de raad over aangelegenheden van het Koninkrijk, welke het betrokken land raken.
 
-2. De regeringen van de Nederlandse Antillen en Aruba zijn ieder gerechtigd - indien een bepaald onderwerp haar daartoe aanleiding geeft - naast de Gevolmachtigde Minister tevens een minister met raadgevende stem te doen deelnemen aan het in het vorig lid bedoelde overleg.
+2. De regeringen van Aruba, Curaçao en Sint Maarten zijn ieder gerechtigd - indien een bepaald onderwerp haar daartoe aanleiding geeft - naast de Gevolmachtigde Minister tevens een minister met raadgevende stem te doen deelnemen aan het in het vorig lid bedoelde overleg.
 
 ##### Artikel 11
 
-1. Voorstellen tot verandering in de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840), houdende bepalingen betreffende aangelegenheden van het Koninkrijk, raken de Nederlandse Antillen en Aruba.
+1. Voorstellen tot verandering in de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840), houdende bepalingen betreffende aangelegenheden van het Koninkrijk, raken Aruba, Curaçao en Sint Maarten.
 
-2. Ten aanzien van de defensie wordt aangenomen, dat de defensie van het grondgebied van de Nederlandse Antillen, onderscheidenlijk dat van Aruba, zomede overeenkomsten of afspraken betreffende een gebied, dat tot hun belangensfeer behoort, de Nederlandse Antillen, onderscheidenlijk Aruba raken.
+2. Ten aanzien van de defensie wordt aangenomen, dat de defensie van het grondgebied van Aruba, Curaçao of Sint Maarten, zomede overeenkomsten of afspraken betreffende een gebied, dat tot hun belangensfeer behoort, Aruba, Curaçao onderscheidenlijk Sint Maarten raken.
 
-3. Ten aanzien van de buitenlandse betrekkingen wordt aangenomen, dat buitenlandse betrekkingen, wanneer belangen van de Nederlandse Antillen, onderscheidenlijk van Aruba in het bijzonder daarbij betrokken zijn, dan wel wanneer de voorziening daarin gewichtige gevolgen voor deze belangen kan hebben, de Nederlandse Antillen, onderscheidenlijk Aruba raken.
+3. Ten aanzien van de buitenlandse betrekkingen wordt aangenomen, dat buitenlandse betrekkingen, wanneer belangen van Aruba, Curaçao of Sint Maarten in het bijzonder daarbij betrokken zijn, dan wel wanneer de voorziening daarin gewichtige gevolgen voor deze belangen kan hebben, Aruba, Curaçao onderscheidenlijk Sint Maarten raken.
 
-4. De vaststelling van de bijdrage in de kosten, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=35&z=2010-09-16&g=2010-09-16), raakt de Nederlandse Antillen, onderscheidenlijk Aruba.
+4. De vaststelling van de bijdrage in de kosten, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=35&z=2010-10-10&g=2010-10-10), raakt Aruba, Curaçao onderscheidenlijk Sint Maarten.
 
-5. Voorstellen tot naturalisatie worden geacht de Nederlandse Antillen en Aruba slechts te raken, indien het personen betreft, die woonachtig zijn in het betrokken land.
+5. Voorstellen tot naturalisatie worden geacht Aruba, Curaçao en Sint Maarten slechts te raken, indien het personen betreft, die woonachtig zijn in het betrokken land.
 
-6. De regering van de Nederlandse Antillen, onderscheidenlijk van Aruba, kan aangeven, welke aangelegenheden van het Koninkrijk, behalve die, in het eerste tot en met het vierde lid genoemd, haar land raken.
+6. De regeringen van Aruba, Curaçao en Sint Maarten kunnen aangeven welke aangelegenheden van het Koninkrijk, behalve die, in het eerste tot en met het vierde lid genoemd, hun land raken.
 
 ##### Artikel 12
 
-1. Indien de Gevolmachtigde Minister van de Nederlandse Antillen, onderscheidenlijk van Aruba, onder aanwijzing van de gronden, waarop hij ernstige benadeling van zijn land verwacht, heeft verklaard, dat zijn land niet ware te binden aan een voorgenomen voorziening, houdende algemeen bindende regelen, kan de voorziening niet in dier voege, dat zij in het betrokken land geldt, worden vastgesteld, tenzij de verbondenheid van het land in het Koninkrijk zich daartegen verzet.
+1. Indien de Gevolmachtigde Minister van Aruba, Curaçao of Sint Maarten, onder aanwijzing van de gronden, waarop hij ernstige benadeling van zijn land verwacht, heeft verklaard, dat zijn land niet ware te binden aan een voorgenomen voorziening, houdende algemeen bindende regelen, kan de voorziening niet in dier voege, dat zij in het betrokken land geldt, worden vastgesteld, tenzij de verbondenheid van het land in het Koninkrijk zich daartegen verzet.
 
-2. Indien de Gevolmachtigde Minister van de Nederlandse Antillen, onderscheidenlijk van Aruba, ernstig bezwaar heeft tegen het aanvankelijk oordeel van de raad van ministers over de eis van gebondenheid, bedoeld in het eerste lid, dan wel over enige andere aangelegenheid, aan de behandeling waarvan hij heeft deelgenomen, wordt op zijn verzoek het overleg, zo nodig met inachtneming van een daartoe door de raad van ministers te bepalen termijn, voortgezet.
+2. Indien de Gevolmachtigde Minister van Aruba, Curaçao of Sint Maarten, ernstig bezwaar heeft tegen het aanvankelijk oordeel van de raad van ministers over de eis van gebondenheid, bedoeld in het eerste lid, dan wel over enige andere aangelegenheid, aan de behandeling waarvan hij heeft deelgenomen, wordt op zijn verzoek het overleg, zo nodig met inachtneming van een daartoe door de raad van ministers te bepalen termijn, voortgezet.
 
 3. Het hiervoren bedoeld overleg geschiedt tussen de minister-president, twee ministers, de Gevolmachtigde Minister en een door de betrokken regering aan te wijzen minister of bijzonder gemachtigde.
 
-4. Wensen beide Gevolmachtigde Ministers aan het voortgezette overleg deel te nemen, dan geschiedt dit overleg tussen de minister-president, twee ministers en de beide Gevolmachtigde Ministers. Het [tweede lid van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=10&z=2010-09-16&g=2010-09-16) is van overeenkomstige toepassing.
+4. Wensen meerdere Gevolmachtigde Ministers aan het voortgezette overleg deel te nemen, dan geschiedt dit overleg tussen deze Gevolmachtigde Ministers, een even groot aantal ministers en de minister-president. Het [tweede lid van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=10&z=2010-10-10&g=2010-10-10) is van overeenkomstige toepassing.
 
 5. De raad van ministers oordeelt overeenkomstig de uitkomst van het voortgezette overleg. Wordt van de gelegenheid tot het plegen van voortgezet overleg niet binnen de bepaalde termijn gebruik gemaakt, dan bepaalt de raad van ministers zijn oordeel.
 
@@ -161,11 +167,11 @@ Hetgeen in dit Statuut is bepaald voor de Gevolmachtigde Minister, is van overee
 
 1. Er is een Raad van State van het Koninkrijk.
 
-2. Indien de regering van de Nederlandse Antillen, onderscheidenlijk van Aruba, de wens daartoe te kennen geeft, benoemt de Koning voor de Nederlandse Antillen, onderscheidenlijk Aruba, in de Raad van State een lid, wiens benoeming geschiedt in overeenstemming met de Regering van het betrokken land.
+2. Indien de regering van Aruba, Curaçao of Sint Maarten, de wens daartoe te kennen geeft, benoemt de Koning voor Aruba, Curaçao onderscheidenlijk Sint Maarten, in de Raad van State een lid, wiens benoeming geschiedt in overeenstemming met de Regering van het betrokken land.
 
 Zijn ontslag geschiedt na overleg met deze regering.
 
-3. De staatsraad voor de Nederlandse Antillen, onderscheidenlijk voor Aruba, neemt deel aan de werkzaamheden van de Raad van State ingeval de Raad of een afdeling van de Raad wordt gehoord over ontwerpen van rijkswetten en algemene maatregelen van rijksbestuur, die in de Nederlandse Antillen, onderscheidenlijk Aruba, zullen gelden, of over andere aangelegenheden, die overeenkomstig [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=11&z=2010-09-16&g=2010-09-16) de Nederlandse Antillen, onderscheidenlijk Aruba raken.
+3. De staatsraden voor Aruba, Curaçao en Sint Maarten nemen deel aan de werkzaamheden van de Raad van State ingeval de Raad of een afdeling van de Raad wordt gehoord over ontwerpen van rijkswetten en algemene maatregelen van rijksbestuur, die in Aruba, Curaçao onderscheidenlijk Sint Maarten, zullen gelden, of over andere aangelegenheden, die overeenkomstig [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=11&z=2010-10-10&g=2010-10-10) Aruba, Curaçao onderscheidenlijk Sint Maarten raken.
 
 4. Bij algemene maatregel van rijksbestuur kunnen ten opzichte van genoemde staatsraden voorschriften worden vastgesteld, welke afwijken van de bepalingen van de [Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367).
 
@@ -177,17 +183,17 @@ De rijkswet of de algemene maatregel van rijksbestuur kan het stellen van nadere
 
 2. Indien de regeling niet aan de rijkswet is voorbehouden, kan zij geschieden bij algemene maatregel van rijksbestuur.
 
-3. Regelen omtrent aangelegenheden van het Koninkrijk, welke noch in de Nederlandse Antillen, noch in Aruba gelden, worden bij wet of algemene maatregel van bestuur vastgesteld.
+3. Regelen omtrent aangelegenheden van het Koninkrijk, welke niet in Aruba, Curaçao of Sint Maarten gelden, worden bij wet of algemene maatregel van bestuur vastgesteld.
 
-4. Naturalisatie van personen, die woonachtig zijn in de Nederlandse Antillen of Aruba, geschiedt bij of krachtens de rijkswet.
+4. Naturalisatie van personen, die woonachtig zijn in Aruba, Curaçao of Sint Maarten, geschiedt bij of krachtens de rijkswet.
 
 ##### Artikel 15
 
-1. De Koning zendt een ontwerp van rijkswet gelijktijdig met de indiening bij de Staten-Generaal aan de vertegenwoordigende lichamen van de Nederlandse Antillen en Aruba.
+1. De Koning zendt een ontwerp van rijkswet gelijktijdig met de indiening bij de Staten-Generaal aan de vertegenwoordigende lichamen van Aruba, Curaçao en Sint Maarten.
 
 2. Bij een voordracht tot een voorstel van rijkswet, uitgaande van de Staten-Generaal, geschiedt de toezending van het voorstel door de Tweede Kamer terstond nadat het bij de Kamer aanhangig is gemaakt.
 
-3. De Gevolmachtigde Minister van de Nederlandse Antillen, onderscheidenlijk van Aruba, is bevoegd aan de Tweede Kamer voor te stellen een voordracht tot een voorstel van rijkswet te doen.
+3. De Gevolmachtigde Minister van Aruba, Curaçao of Sint Maarten, is bevoegd aan de Tweede Kamer voor te stellen een voordracht tot een voorstel van rijkswet te doen.
 
 ##### Artikel 16
 
@@ -211,15 +217,15 @@ Het vertegenwoordigende lichaam van het land, waarin de regeling zal gelden, is 
 
 ##### Artikel 19
 
-De [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=17&z=2010-09-16&g=2010-09-16) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=18&z=2010-09-16&g=2010-09-16) zijn voor de behandeling in de verenigde vergadering van de Staten-Generaal van overeenkomstige toepassing.
+De [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=17&z=2010-10-10&g=2010-10-10) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=18&z=2010-10-10&g=2010-10-10) zijn voor de behandeling in de verenigde vergadering van de Staten-Generaal van overeenkomstige toepassing.
 
 ##### Artikel 20
 
-Bij rijkswet kunnen nadere regels worden gesteld ten aanzien van het bepaalde in de [artikelen 15 t/m 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=15&z=2010-09-16&g=2010-09-16).
+Bij rijkswet kunnen nadere regels worden gesteld ten aanzien van het bepaalde in de [artikelen 15 t/m 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=15&z=2010-10-10&g=2010-10-10).
 
 ##### Artikel 21
 
-Indien, na gepleegd overleg met de Gevolmachtigde Ministers van de Nederlandse Antillen en Aruba, in geval van oorlog of in andere bijzondere gevallen, waarin onverwijld moet worden gehandeld, het naar het oordeel van de Koning onmogelijk is het resultaat van het in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=16&z=2010-09-16&g=2010-09-16) bedoelde onderzoek af te wachten, kan van de bepaling van dat artikel worden afgeweken.
+Indien, na gepleegd overleg met de Gevolmachtigde Ministers van Aruba, Curaçao en Sint Maarten, in geval van oorlog of in andere bijzondere gevallen, waarin onverwijld moet worden gehandeld, het naar het oordeel van de Koning onmogelijk is het resultaat van het in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=16&z=2010-10-10&g=2010-10-10) bedoelde onderzoek af te wachten, kan van de bepaling van dat artikel worden afgeweken.
 
 ##### Artikel 22
 
@@ -231,35 +237,41 @@ Indien, na gepleegd overleg met de Gevolmachtigde Ministers van de Nederlandse A
 
 ##### Artikel 23
 
-1. De rechtsmacht van de Hoge Raad der Nederlanden ten aanzien van rechtszaken in de Nederlandse Antillen, onderscheidenlijk Aruba, wordt geregeld bij rijkswet.
+1. De rechtsmacht van de Hoge Raad der Nederlanden ten aanzien van rechtszaken in Aruba, Curaçao en Sint Maarten, alsmede op Bonaire, Sint Eustatius en Saba, wordt geregeld bij rijkswet.
 
-2. Indien de regering van het betrokken land dit verzoekt, wordt bij deze rijkswet de mogelijkheid geopend, dat aan de Raad een lid, een buitengewoon of een adviserend lid wordt toegevoegd.
+2. Indien de regering van Aruba, Curaçao of Sint Maarten dit verzoekt, wordt bij deze rijkswet de mogelijkheid geopend, dat aan de Raad een lid, een buitengewoon of een adviserend lid wordt toegevoegd.
 
 ##### Artikel 24
 
-1. Overeenkomsten met andere mogendheden en met volkenrechtelijke organisaties, welke de Nederlandse Antillen, onderscheidenlijk Aruba raken, worden gelijktijdig met de overlegging aan de Staten-Generaal aan het vertegenwoordigende lichaam van de Nederlandse Antillen, onderscheidenlijk van Aruba overgelegd.
+1. Overeenkomsten met andere mogendheden en met volkenrechtelijke organisaties, welke Aruba, Curaçao of Sint Maarten raken, worden gelijktijdig met de overlegging aan de Staten-Generaal aan het vertegenwoordigende lichaam van Aruba, Curaçao onderscheidenlijk Sint Maarten overgelegd.
 
 2. Ingeval de overeenkomst ter stilzwijgende goedkeuring aan de Staten-Generaal is overgelegd, kan de Gevolmachtigde Minister binnen de daartoe voor de kamers der Staten-Generaal gestelde termijn de wens te kennen geven dat de overeenkomst aan de uitdrukkelijke goedkeuring van de Staten-Generaal zal worden onderworpen.
 
-3. De voorgaande leden zijn van overeenkomstige toepassing ten aanzien van opzegging van internationale overeenkomsten, het eerste lid met dien verstande, dat van het voornemen tot opzegging mededeling aan het vertegenwoordigende lichaam van de Nederlandse Antillen onderscheidenlijk van Aruba wordt gedaan.
+3. De voorgaande leden zijn van overeenkomstige toepassing ten aanzien van opzegging van internationale overeenkomsten, het eerste lid met dien verstande, dat van het voornemen tot opzegging mededeling aan het vertegenwoordigende lichaam van Aruba, Curaçao onderscheidenlijk Sint Maarten wordt gedaan.
 
 ##### Artikel 25
 
-1. Aan internationale economische en financiële overeenkomsten bindt de Koning de Nederlandse Antillen, onderscheidenlijk Aruba, niet, indien de regering van het land, onder aanwijzing van de gronden, waarop zij van de binding benadeling van het land verwacht, heeft verklaard, dat het land niet dient te worden verbonden.
+1. Aan internationale economische en financiële overeenkomsten bindt de Koning Aruba, Curaçao of Sint Maarten, niet, indien de regering van het land, onder aanwijzing van de gronden, waarop zij van de binding benadeling van het land verwacht, heeft verklaard, dat het land niet dient te worden verbonden.
 
-2. Internationale economische en financiële overeenkomsten zegt de Koning voor wat de Nederlandse Antillen, onderscheidenlijk Aruba betreft, niet op, indien de regering van het land, onder aanwijzing van de gronden, waarop zij van de opzegging benadeling van het land verwacht, heeft verklaard, dat voor het land geen opzegging dient plaats te vinden. Opzegging kan niettemin geschieden, indien het met de bepalingen der overeenkomst niet verenigbaar is, dat het land van de opzegging wordt uitgesloten.
+2. Internationale economische en financiële overeenkomsten zegt de Koning voor wat Aruba, Curaçao of Sint Maarten betreft, niet op, indien de regering van het land, onder aanwijzing van de gronden, waarop zij van de opzegging benadeling van het land verwacht, heeft verklaard, dat voor het land geen opzegging dient plaats te vinden. Opzegging kan niettemin geschieden, indien het met de bepalingen der overeenkomst niet verenigbaar is, dat het land van de opzegging wordt uitgesloten.
 
 ##### Artikel 26
 
-Indien de regering van de Nederlandse Antillen, onderscheidenlijk van Aruba, de wens te kennen geeft, dat een internationale economische of financiële overeenkomst wordt aangegaan, welke uitsluitend voor het betrokken land geldt, zal de regering van het Koninkrijk medewerken tot een zodanige overeenkomst, tenzij de verbondenheid van het land in het Koninkrijk zich daartegen verzet.
+Indien de regering van Aruba, Curaçao of Sint Maarten, de wens te kennen geeft, dat een internationale economische of financiële overeenkomst wordt aangegaan, welke uitsluitend voor het betrokken land geldt, zal de regering van het Koninkrijk medewerken tot een zodanige overeenkomst, tenzij de verbondenheid van het land in het Koninkrijk zich daartegen verzet.
 
 ##### Artikel 27
 
-De Nederlandse Antillen, onderscheidenlijk Aruba worden betrokken in de voorbereiding van overeenkomsten met andere mogendheden, welke hen overeenkomstig [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=11&z=2010-09-16&g=2010-09-16) raken. Zij worden tevens betrokken in de uitvoering van overeenkomsten, die hen aldus raken en voor hen verbindend zijn.
+1. Aruba, Curaçao en Sint Maarten worden in een zo vroeg mogelijk stadium betrokken in de voorbereiding van overeenkomsten met andere mogendheden, welke hen overeenkomstig [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=11&z=2010-10-10&g=2010-10-10) raken. Zij worden tevens betrokken in de uitvoering van overeenkomsten, die hen aldus raken en voor hen verbindend zijn.
+
+2. Nederland, Aruba, Curaçao en Sint Maarten treffen een onderlinge regeling over de samenwerking tussen de landen ten behoeve van de totstandkoming van regelgeving of andere maatregelen die noodzakelijk zijn voor de uitvoering van overeenkomsten met andere mogendheden.
+
+3. Indien de belangen van het Koninkrijk geraakt worden door het uitblijven van regelgeving of andere maatregelen die noodzakelijk zijn voor de uitvoering van een overeenkomst met andere mogendheden in een van de landen, terwijl de overeenkomst pas voor dat land kan worden bekrachtigd als de regelgeving of andere maatregelen gereed zijn, kan een algemene maatregel van rijksbestuur, of indien nodig een rijkswet, bepalen op welke wijze uitvoering wordt gegeven aan die overeenkomst.
+
+4. Indien de regelgeving of andere maatregelen ter uitvoering van de betreffende overeenkomst door het land zijn getroffen, wordt de algemene maatregel van rijksbestuur of de rijkswet ingetrokken.
 
 ##### Artikel 28
 
-Op de voet van door het Koninkrijk aangegane internationale overeenkomsten kunnen de Nederlandse Antillen, onderscheidenlijk Aruba desgewenst als lid tot volkenrechtelijke organisaties toetreden.
+Op de voet van door het Koninkrijk aangegane internationale overeenkomsten kunnen Aruba, Curaçao en Sint Maarten desgewenst als lid tot volkenrechtelijke organisaties toetreden.
 
 ##### Artikel 29
 
@@ -269,19 +281,19 @@ Op de voet van door het Koninkrijk aangegane internationale overeenkomsten kunne
 
 ##### Artikel 30
 
-1. De Nederlandse Antillen en Aruba verlenen aan de strijdkrachten, welke zich op hun gebied bevinden, de hulp en bijstand, welke deze in de uitoefening van hun taak behoeven.
+1. Aruba, Curaçao en Sint Maarten verlenen aan de strijdkrachten, welke zich op hun gebied bevinden, de hulp en bijstand, welke deze in de uitoefening van hun taak behoeven.
 
-2. Bij landsverordening worden regelen gesteld om te waarborgen, dat de krijgsmacht van het Koninkrijk in de Nederlandse Antillen onderscheidenlijk Aruba haar taak kan vervullen.
+2. Bij landsverordening worden regelen gesteld om te waarborgen, dat de krijgsmacht van het Koninkrijk in Aruba, Curaçao en Sint Maarten haar taak kan vervullen.
 
 ##### Artikel 31
 
-1. Personen, die woonachtig zijn in de Nederlandse Antillen en Aruba, kunnen niet dan bij landsverordening tot dienst in de krijgsmacht dan wel tot burgerdienstplicht worden verplicht.
+1. Personen, die woonachtig zijn in Aruba, Curaçao en Sint Maarten, kunnen niet dan bij landsverordening tot dienst in de krijgsmacht dan wel tot burgerdienstplicht worden verplicht.
 
 2. Aan de Staatsregeling is voorbehouden te bepalen, dat de dienstplichtigen, dienende bij de landmacht, zonder hun toestemming niet dan krachtens een landsverordening naar elders kunnen worden gezonden.
 
 ##### Artikel 32
 
-In de strijdkrachten voor de verdediging van de Nederlandse Antillen, onderscheidenlijk van Aruba, zullen zoveel mogelijk personen, die in deze landen woonachtig zijn, worden opgenomen.
+In de strijdkrachten voor de verdediging van Aruba, Curaçao en Sint Maarten, zullen zoveel mogelijk personen, die in deze landen woonachtig zijn, worden opgenomen.
 
 ##### Artikel 33
 
@@ -301,11 +313,11 @@ In de strijdkrachten voor de verdediging van de Nederlandse Antillen, onderschei
 
 ##### Artikel 35
 
-1. De Nederlandse Antillen en Aruba dragen in overeenstemming met hun draagkracht bij in de kosten, verbonden aan de handhaving van de onafhankelijkheid en de verdediging van het Koninkrijk, zomede in de kosten, verbonden aan de verzorging van andere aangelegenheden van het Koninkrijk, voor zover deze strekt ten gunste van de Nederlandse Antillen, onderscheidenlijk Aruba.
+1. Aruba, Curaçao en Sint Maarten dragen in overeenstemming met hun draagkracht bij in de kosten, verbonden aan de handhaving van de onafhankelijkheid en de verdediging van het Koninkrijk, zomede in de kosten, verbonden aan de verzorging van andere aangelegenheden van het Koninkrijk, voor zover deze strekt ten gunste van Aruba, Curaçao onderscheidenlijk Sint Maarten.
 
-2. De in het eerste lid bedoelde bijdrage van de Nederlandse Antillen, onderscheidenlijk van Aruba, wordt door de raad van ministers voor een begrotingsjaar of enige achtereenvolgende begrotingsjaren vastgesteld.
+2. De in het eerste lid bedoelde bijdrage van Aruba, Curaçao of Sint Maarten, wordt door de raad van ministers voor een begrotingsjaar of enige achtereenvolgende begrotingsjaren vastgesteld.
 
-[Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=12&z=2010-09-16&g=2010-09-16) is van overeenkomstige toepassing, met dien verstande, dat beslissingen worden genomen met eenparigheid van stemmen.
+[Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=12&z=2010-10-10&g=2010-10-10) is van overeenkomstige toepassing, met dien verstande, dat beslissingen worden genomen met eenparigheid van stemmen.
 
 3. Indien de in het tweede lid bedoelde vaststelling niet tijdig plaats heeft, geldt in afwachting daarvan voor de duur van ten hoogste een begrotingsjaar de overeenkomstig dat lid voor het laatste begrotingsjaar vastgestelde bijdrage.
 
@@ -315,17 +327,15 @@ In de strijdkrachten voor de verdediging van de Nederlandse Antillen, onderschei
 
 ##### Artikel 36
 
-Nederland, de Nederlandse Antillen en Aruba verlenen elkander hulp en bijstand.
+Nederland, Aruba, Curaçao en Sint Maarten verlenen elkander hulp en bijstand.
 
 ##### Artikel 36a
 
-1. Nederland, de Nederlandse Antillen en Aruba nemen deel in een fonds ten behoeve van het handhaven van een behoorlijk bestuursniveau in de eilandgebieden Bonaire, Saba en Sint Eustatius van de Nederlandse Antillen.
-
-2. Dit fonds wordt ingesteld bij rijkswet.
+Vervallen
 
 ##### Artikel 37
 
-1. Nederland, de Nederlandse Antillen en Aruba zullen zoveel mogelijk overleg plegen omtrent alle aangelegenheden, waarbij belangen der landen of van twee hunner zijn betrokken. Daartoe kunnen bijzondere vertegenwoordigers worden aangewezen en gemeenschappelijke organen worden ingesteld.
+1. Nederland, Aruba, Curaçao en Sint Maarten zullen zoveel mogelijk overleg plegen omtrent alle aangelegenheden, waarbij belangen van twee of meer van de landen zijn betrokken. Daartoe kunnen bijzondere vertegenwoordigers worden aangewezen en gemeenschappelijke organen worden ingesteld.
 
 2. Als aangelegenheden, bedoeld in dit artikel, worden onder meer beschouwd:
 
@@ -347,7 +357,7 @@ Nederland, de Nederlandse Antillen en Aruba verlenen elkander hulp en bijstand.
 
 ##### Artikel 38
 
-1. Nederland, de Nederlandse Antillen en Aruba kunnen onderling regelingen treffen.
+1. Nederland, Aruba, Curaçao en Sint Maarten kunnen onderling regelingen treffen.
 
 2. In onderling overleg kan worden bepaald, dat zodanige regeling en de wijziging daarvan bij rijkswet of algemene maatregel van rijksbestuur wordt vastgesteld.
 
@@ -357,27 +367,27 @@ Nederland, de Nederlandse Antillen en Aruba verlenen elkander hulp en bijstand.
 
 ##### Artikel 39
 
-1. Het burgerlijk en handelsrecht, de burgerlijke rechtsvordering, het strafrecht, de strafvordering, het auteursrecht, de industriële eigendom, het notarisambt, zomede bepalingen omtrent maten en gewichten worden in Nederland, de Nederlandse Antillen en Aruba zoveel mogelijk op overeenkomstige wijze geregeld.
+1. Het burgerlijk en handelsrecht, de burgerlijke rechtsvordering, het strafrecht, de strafvordering, het auteursrecht, de industriële eigendom, het notarisambt, zomede bepalingen omtrent maten en gewichten worden in Nederland, Aruba, Curaçao en Sint Maarten zoveel mogelijk op overeenkomstige wijze geregeld.
 
 2. Een voorstel tot ingrijpende wijziging van de bestaande wetgeving op dit stuk wordt niet bij het vertegenwoordigende lichaam ingediend - dan wel door het vertegenwoordigende lichaam in behandeling genomen - alvorens de regeringen in de andere landen in de gelegenheid zijn gesteld van haar zienswijze hieromtrent te doen blijken.
 
 ##### Artikel 40
 
-Vonnissen, door de rechter in Nederland, de Nederlandse Antillen of Aruba gewezen, en bevelen, door hem uitgevaardigd, mitsgaders grossen van authentieke akten, aldaar verleden, kunnen in het gehele Koninkrijk ten uitvoer worden gelegd, met inachtneming van de wettelijke bepalingen van het land, waar de tenuitvoerlegging plaats vindt.
+Vonnissen, door de rechter in Nederland, Aruba, Curaçao of Sint Maarten gewezen, en bevelen, door hem uitgevaardigd, mitsgaders grossen van authentieke akten, aldaar verleden, kunnen in het gehele Koninkrijk ten uitvoer worden gelegd, met inachtneming van de wettelijke bepalingen van het land, waar de tenuitvoerlegging plaats vindt.
 
 #### § 4. De staatsinrichting van de landen
 
 ##### Artikel 41
 
-1. Nederland, de Nederlandse Antillen en Aruba behartigen zelfstandig hun eigen aangelegenheden.
+1. Nederland, Aruba, Curaçao en Sint Maarten behartigen zelfstandig hun eigen aangelegenheden.
 
 2. De belangen van het Koninkrijk zijn mede een voorwerp van zorg voor de landen.
 
 ##### Artikel 42
 
-1. In het Koninkrijk vindt de staatsinrichting van Nederland regeling in de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840), die van de Nederlandse Antillen en die van Aruba in de Staatsregelingen van de Nederlandse Antillen en van Aruba.
+1. In het Koninkrijk vindt de staatsinrichting van Nederland regeling in de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840), die van Aruba, Curaçao en Sint Maarten in de Staatsregelingen van Aruba, van Curaçao en van Sint Maarten.
 
-2. De Staatsregelingen van de Nederlandse Antillen en van Aruba worden vastgesteld bij landsverordening. Elk voorstel tot verandering van de Staatsregeling wijst de voorgestelde verandering uitdrukkelijk aan. Het vertegenwoordigende lichaam kan het ontwerp van een zodanige landsverordening niet aannemen dan met twee derden der uitgebrachte stemmen.
+2. De Staatsregelingen van Aruba, van Curaçao en van Sint Maarten worden vastgesteld bij landsverordening. Elk voorstel tot verandering van de Staatsregeling wijst de voorgestelde verandering uitdrukkelijk aan. Het vertegenwoordigende lichaam kan het ontwerp van een zodanige landsverordening niet aannemen dan met twee derden der uitgebrachte stemmen.
 
 ##### Artikel 43
 
@@ -399,9 +409,7 @@ Vonnissen, door de rechter in Nederland, de Nederlandse Antillen of Aruba geweze
 
 wordt overgelegd aan de regering van het Koninkrijk. Zij treedt niet in werking dan nadat de regering van het Koninkrijk haar instemming hiermede heeft betuigd.
 
-2. De bepaling van het eerste lid is mede van toepassing op een landsverordening tot wijziging van de Staatsregeling van de Nederlandse Antillen voor wat betreft de verdeling van de zetels van het vertegenwoordigende lichaam van de Nederlandse Antillen over de verschillende eilandgebieden, alsmede de regeling van de eilandgebieden.
-
-3. Een ontwerp-landsverordening betreffende de voorgaande bepalingen wordt niet aan het vertegenwoordigende lichaam aangeboden, noch bij een initiatief-ontwerp door dit lichaam in onderzoek genomen dan nadat het gevoelen der regering van het Koninkrijk is ingewonnen.
+2. Een ontwerp-landsverordening betreffende de voorgaande bepalingen wordt niet aan het vertegenwoordigende lichaam aangeboden, noch bij een initiatief-ontwerp door dit lichaam in onderzoek genomen dan nadat het gevoelen der regering van het Koninkrijk is ingewonnen.
 
 ##### Artikel 45
 
@@ -415,7 +423,7 @@ Wijzigingen in de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) be
 
 - d. de artikelen, betrekking hebbende op de rechtspraak,
 
-worden - onverminderd het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=1&artikel=5&z=2010-09-16&g=2010-09-16) - geacht in de zin van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=10&z=2010-09-16&g=2010-09-16) de Nederlandse Antillen en Aruba te raken.
+worden - onverminderd het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=1&artikel=5&z=2010-10-10&g=2010-10-10) - geacht in de zin van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=2&artikel=10&z=2010-10-10&g=2010-10-10) Aruba, Curaçao en Sint Maarten te raken.
 
 ##### Artikel 46
 
@@ -427,7 +435,7 @@ worden - onverminderd het bepaalde in [artikel 5](https://wetten.overheid.nl/jci
 
 1. De ministers en de leden van het vertegenwoordigende lichaam in de landen leggen, alvorens hun betrekking te aanvaarden, een eed of belofte van trouw aan de Koning en het Statuut af.
 
-2. De ministers en de leden van het vertegenwoordigende lichaam in de Nederlandse Antillen en in Aruba leggen de eed of belofte af in handen van de vertegenwoordiger van de Koning.
+2. De ministers en de leden van het vertegenwoordigende lichaam in Aruba, Curaçao en Sint Maarten leggen de eed of belofte af in handen van de vertegenwoordiger van de Koning.
 
 ##### Artikel 48
 
@@ -439,13 +447,13 @@ Bij rijkswet kunnen regels worden gesteld omtrent de verbindendheid van wetgeven
 
 ##### Artikel 50
 
-1. Wetgevende en bestuurlijke maatregelen in de Nederlandse Antillen en Aruba, die in strijd zijn met het Statuut, een internationale regeling, een rijkswet of een algemene maatregel van rijksbestuur, dan wel met belangen, welker verzorging of waarborging aangelegenheid van het Koninkrijk is, kunnen door de Koning als hoofd van het Koninkrijk bij gemotiveerd besluit worden geschorst en vernietigd. De voordracht tot vernietiging geschiedt door de raad van ministers.
+1. Wetgevende en bestuurlijke maatregelen in Aruba, Curaçao en Sint Maarten, die in strijd zijn met het Statuut, een internationale regeling, een rijkswet of een algemene maatregel van rijksbestuur, dan wel met belangen, welker verzorging of waarborging aangelegenheid van het Koninkrijk is, kunnen door de Koning als hoofd van het Koninkrijk bij gemotiveerd besluit worden geschorst en vernietigd. De voordracht tot vernietiging geschiedt door de raad van ministers.
 
 2. Voor Nederland wordt in dit onderwerp voor zover nodig in de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) voorzien.
 
 ##### Artikel 51
 
-1. Wanneer een orgaan in de Nederlandse Antillen of Aruba niet of niet voldoende voorziet in hetgeen het ingevolge het Statuut, een internationale regeling, een rijkswet of een algemene maatregel van rijksbestuur moet verrichten, kan, onder aanwijzing van de rechtsgronden en de beweegredenen, waarop hij berust, een algemene maatregel van rijksbestuur bepalen op welke wijze hierin wordt voorzien.
+1. Wanneer een orgaan in Aruba, Curaçao of Sint Maarten niet of niet voldoende voorziet in hetgeen het ingevolge het Statuut, een internationale regeling, een rijkswet of een algemene maatregel van rijksbestuur moet verrichten, kan, onder aanwijzing van de rechtsgronden en de beweegredenen, waarop hij berust, een algemene maatregel van rijksbestuur bepalen op welke wijze hierin wordt voorzien.
 
 2. Voor Nederland wordt in dit onderwerp voor zover nodig in de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) voorzien.
 
@@ -455,19 +463,21 @@ De landsverordening kan aan de Koning als hoofd van het Koninkrijk en aan de Gou
 
 ##### Artikel 53
 
-Indien de Nederlandse Antillen of Aruba de wens daartoe te kennen geven, wordt het onafhankelijke toezicht op de besteding der geldmiddelen overeenkomstig de begroting van de Nederlandse Antillen en de eilandgebieden, dan wel van Aruba, door de Algemene Rekenkamer uitgeoefend. In dat geval worden na overleg met de Rekenkamer bij rijkswet regelen gesteld omtrent de samenwerking tussen de Rekenkamer en het betrokken gebied. Alsdan zal de regering van het land op voordracht van het vertegenwoordigende lichaam iemand kunnen aanwijzen, die in de gelegenheid wordt gesteld deel te nemen aan de beraadslagingen over alle aangelegenheden van het betrokken gebied.
+Indien Aruba, Curaçao of Sint Maarten de wens daartoe te kennen geven, wordt het onafhankelijke toezicht op de besteding der geldmiddelen overeenkomstig de begroting van Aruba, Curaçao onderscheidenlijk Sint Maarten, door de Algemene Rekenkamer uitgeoefend. In dat geval worden na overleg met de Rekenkamer bij rijkswet regelen gesteld omtrent de samenwerking tussen de Rekenkamer en het betrokken land. Alsdan zal de regering van het land op voordracht van het vertegenwoordigende lichaam iemand kunnen aanwijzen, die in de gelegenheid wordt gesteld deel te nemen aan de beraadslagingen over alle aangelegenheden van het betrokken land.
 
 #### § 5. Overgangs- en slotbepalingen
 
 ##### Artikel 54
 
-Vervallen.
+1. Bij wijziging van de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) wordt [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=1&artikel=1&z=2010-10-10&g=2010-10-10), vervallen verklaard op het moment dat bij de Grondwet wordt voorzien in de positie van Bonaire, Sint Eustatius en Saba binnen het staatsbestel van Nederland.
+
+2. Dit artikel vervalt indien onder toepassing van het voorgaande lid [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=1&artikel=1&z=2010-10-10&g=2010-10-10), vervallen wordt verklaard.
 
 ##### Artikel 55
 
 1. Wijziging van dit Statuut geschiedt bij rijkswet.
 
-2. Een voorstel tot wijziging, door de Staten-Generaal aangenomen, wordt door de Koning niet goedgekeurd, alvorens het door de Nederlandse Antillen en Aruba is aanvaard. Deze aanvaarding geschiedt bij landsverordening.
+2. Een voorstel tot wijziging, door de Staten-Generaal aangenomen, wordt door de Koning niet goedgekeurd, alvorens het door Aruba, Curaçao en Sint Maarten is aanvaard. Deze aanvaarding geschiedt bij landsverordening.
 
 Deze landsverordening wordt niet vastgesteld alvorens het ontwerp door de Staten in twee lezingen is goedgekeurd. Indien het ontwerp in eerste lezing is goedgekeurd met twee derden der uitgebrachte stemmen, geschiedt de vaststelling terstond. De tweede lezing vindt plaats binnen een maand nadat het ontwerp in eerste lezing is goedgekeurd.
 
@@ -479,7 +489,7 @@ Op het tijdstip van inwerkingtreding van het Statuut bestaande autoriteiten, ver
 
 ##### Artikel 57
 
-Wetten en algemene maatregelen van bestuur, die in de Nederlandse Antillen gelden, verkrijgen de staat van rijkswet, onderscheidenlijk van algemene maatregel van rijksbestuur, met dien verstande, dat zij, voor zover zij ingevolge het Statuut bij landsverordening kunnen worden gewijzigd, de staat verkrijgen van landsverordening.
+Wetten en algemene maatregelen van bestuur, die in de Nederlandse Antillen golden, hebben de staat van rijkswet, onderscheidenlijk van algemene maatregel van rijksbestuur, met dien verstande, dat zij, voor zover zij ingevolge het Statuut bij landsverordening kunnen worden gewijzigd, de staat hebben van landsverordening.
 
 ##### Artikel 58
 
@@ -491,15 +501,15 @@ Wetten en algemene maatregelen van bestuur, die in de Nederlandse Antillen gelde
 
 ##### Artikel 59
 
-1. Binnen zes maanden nadat de Staten van Aruba het in [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=5&artikel=58&z=2010-09-16&g=2010-09-16) genoemde voorstel hebben goedgekeurd wordt een bij landsverordening geregeld referendum gehouden, waarbij de kiesgerechtigden voor de Staten zich kunnen uitspreken over het goedgekeurde voorstel.
+1. Binnen zes maanden nadat de Staten van Aruba het in [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=5&artikel=58&z=2010-10-10&g=2010-10-10) genoemde voorstel hebben goedgekeurd wordt een bij landsverordening geregeld referendum gehouden, waarbij de kiesgerechtigden voor de Staten zich kunnen uitspreken over het goedgekeurde voorstel.
 
 2. Het goedgekeurde voorstel wordt niet als landsverordening vastgesteld dan nadat bij het referendum een meerderheid van het aantal kiesgerechtigden voor het voorstel heeft gestemd.
 
 ##### Artikel 60
 
-1. Na vaststelling van de landsverordening overeenkomstig de [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=5&artikel=58&z=2010-09-16&g=2010-09-16) en [59](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=5&artikel=59&z=2010-09-16&g=2010-09-16) en goedkeuring van de toekomstige constitutie door de Staten van Aruba met een meerderheid van ten minste twee derden van de stemmen van het aantal zitting hebbende leden wordt overeenkomstig het gevoelen van de regering van Aruba bij koninklijk besluit het tijdstip van beëindiging van de in het Statuut neergelegde rechtsorde ten aanzien van Aruba bepaald.
+1. Na vaststelling van de landsverordening overeenkomstig de [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=5&artikel=58&z=2010-10-10&g=2010-10-10) en [59](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=5&artikel=59&z=2010-10-10&g=2010-10-10) en goedkeuring van de toekomstige constitutie door de Staten van Aruba met een meerderheid van ten minste twee derden van de stemmen van het aantal zitting hebbende leden wordt overeenkomstig het gevoelen van de regering van Aruba bij koninklijk besluit het tijdstip van beëindiging van de in het Statuut neergelegde rechtsorde ten aanzien van Aruba bepaald.
 
-2. Dit tijdstip ligt ten hoogste een maand na de datum van vaststelling van de constitutie. Deze vaststelling vindt plaats ten hoogste een jaar na de datum van het in [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=5&artikel=59&z=2010-09-16&g=2010-09-16) bedoelde referendum.
+2. Dit tijdstip ligt ten hoogste een maand na de datum van vaststelling van de constitutie. Deze vaststelling vindt plaats ten hoogste een jaar na de datum van het in [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=5&artikel=59&z=2010-10-10&g=2010-10-10) bedoelde referendum.
 
 ##### Artikel 61
 
@@ -515,13 +525,13 @@ Vervallen.
 
 ##### Artikel 12a
 
-Dit onderdeel is nog niet inwerking getreden
+Bij rijkswet worden voorzieningen getroffen voor de behandeling van bij rijkswet aangewezen geschillen tussen het Koninkrijk en de landen.
 
 #### § 3. Onderlinge bijstand, overleg en samenwerking
 
 ##### Artikel 38a
 
-Dit onderdeel is nog niet inwerking getreden
+De landen kunnen bij onderlinge regeling voorzieningen treffen voor de behandeling van onderlinge geschillen. Het tweede lid van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=3&artikel=38&z=2010-10-10&g=2010-10-10) is van toepassing.
 
 #### § 4. De staatsinrichting van de landen
 
@@ -529,7 +539,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 57a
 
-Dit onderdeel is nog niet inwerking getreden
+Bestaande rijkswetten, wetten, landsverordeningen, algemene maatregelen van rijksbestuur, algemene maatregelen van bestuur en andere regelingen en besluiten die in strijd zijn met een verandering in het Statuut, blijven gehandhaafd, totdat daarvoor met inachtneming van het Statuut een voorziening is getroffen.
 
 ##### Artikel 60a
 
@@ -553,4 +563,16 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 60c
 
-De Bestuurscolleges van Curaçao en Sint Maarten kunnen met elkaar en één of meer regeringen van de landen van het Koninkrijk ontwerp-onderlinge regelingen treffen die de staat van onderlinge regeling in de zin van [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=3&artikel=38&z=2010-09-16&g=2010-09-16), krijgen op het tijdstip van inwerkingtreding van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) en [II van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=II).
+De Bestuurscolleges van Curaçao en Sint Maarten kunnen met elkaar en één of meer regeringen van de landen van het Koninkrijk ontwerp-onderlinge regelingen treffen die de staat van onderlinge regeling in de zin van [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=3&artikel=38&z=2010-10-10&g=2010-10-10), krijgen op het tijdstip van inwerkingtreding van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) en [II van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=II).
+
+##### Artikel 1a
+
+De Kroon van het Koninkrijk wordt erfelijk gedragen door Hare Majesteit Juliana, Prinses van Oranje-Nassau en bij opvolging door Hare wettige opvolgers.
+
+#### § 2. De behartiging van de aangelegenheden van het Koninkrijk
+
+#### § 3. Onderlinge bijstand, overleg en samenwerking
+
+#### § 4. De staatsinrichting van de landen
+
+#### § 5. Overgangs- en slotbepalingen
