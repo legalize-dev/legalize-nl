@@ -259,9 +259,3 @@ Deze regeling wordt aangehaald als: Regeling basisadministraties persoonsgegeven
 Ligt ter inzage bij het agentschap Basisadministratie Persoonsgegevens en Reisdocumenten, Lange Vijverberg 11 te ’s-Gravenhage.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlage, die ter inzage wordt gelegd bij het agentschap Basisadministratie Persoonsgegevens en Reisdocumenten, Lange Vijverberg 11 te ’s-Gravenhage.
-
-### Bijlage bij de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028605&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01), en [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028605&hoofdstuk=3&paragraaf=1&artikel=6&z=2024-01-01&g=2024-01-01)
-
-Deze bijlage wordt bekendgemaakt op [https://www.rvig.nl](onbekend) en tevens ter inzage gelegd bij de afdelingen burgerzaken van het openbaar lichaam Bonaire, Kaya Neerlandia 40, Kralendijk, het openbaar lichaam Sint Eustatius, 13 Kennip Road, Princess Garden, Oranjestad en het openbaar lichaam Saba, Power Street 1, The Bottom.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlage, die ter inzage wordt gelegd bij het agentschap Basisadministratie Persoonsgegevens en Reisdocumenten, Lange Vijverberg 11 te ’s-Gravenhage.
