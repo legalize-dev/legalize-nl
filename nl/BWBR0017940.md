@@ -4,7 +4,7 @@ identifier: "BWBR0017940"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-11-09"
-last_updated: "2007-05-16"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017940"
 soort: "ministeriele-regeling"
@@ -118,7 +118,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De [artikelen 5 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2007-05-16&g=2007-05-16) en [15 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=9&artikel=15&z=2007-05-16&g=2007-05-16) zijn niet van toepassing op voorvallen waarbij geen andere zaak of persoon is betrokken dan een zaak of persoon in gebruik bij onderscheidenlijk in de uitoefening van een functie ten behoeve van:
+1. De [artikelen 5 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2010-10-10&g=2010-10-10) en [15 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=9&artikel=15&z=2010-10-10&g=2010-10-10) zijn niet van toepassing op voorvallen waarbij geen andere zaak of persoon is betrokken dan een zaak of persoon in gebruik bij onderscheidenlijk in de uitoefening van een functie ten behoeve van:
 
 - a. de Minister van Defensie,
 
@@ -126,7 +126,7 @@ In deze regeling wordt verstaan onder:
 
 - c. een organisatie waarvan het beheer is opgedragen aan de Minister van Defensie.
 
-2. Indien bij een voorval als bedoeld in het eerste lid tevens een andere zaak of persoon is betrokken dan in dat lid bedoeld, zijn de [artikelen 5 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2007-05-16&g=2007-05-16) en [15 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=9&artikel=15&z=2007-05-16&g=2007-05-16) slechts van toepassing voor zover het die andere zaak of persoon betreft.
+2. Indien bij een voorval als bedoeld in het eerste lid tevens een andere zaak of persoon is betrokken dan in dat lid bedoeld, zijn de [artikelen 5 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2010-10-10&g=2010-10-10) en [15 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=9&artikel=15&z=2010-10-10&g=2010-10-10) slechts van toepassing voor zover het die andere zaak of persoon betreft.
 
 #### § 3. Staten met een aanmerkelijk belang
 
@@ -248,7 +248,7 @@ In geval van een voorval met een zeeschip wordt onder staat met aanmerkelijk bel
 
 ##### Artikel 6
 
-In geval van een scheepvaartongeval of een ernstig scheepvaartincident met een zeeschip in de Europese wateren onder Nederlandse jurisdictie, doet de raad terzake zo spoedig mogelijk een melding toekomen aan de staat waarvan het zeeschip, dat niet is een Nederlands zeeschip, de vlag voert, dan wel aan de Nederlandse Antillen of Aruba in geval het een Nederlands-Antilliaans of een Arubaans zeeschip betreft. Hij vermeldt daarbij tevens welke actie door Nederland wordt voorgesteld.
+In geval van een scheepvaartongeval of een ernstig scheepvaartincident met een zeeschip in de Europese wateren onder Nederlandse jurisdictie, doet de raad terzake zo spoedig mogelijk een melding toekomen aan de staat waarvan het zeeschip, dat niet is een Nederlands zeeschip, de vlag voert, dan wel aan Aruba, Curaçao of Sint Maarten indien het een zeeschip uit Aruba, Curaçao onderscheidenlijk Sint Maarten betreft. Hij vermeldt daarbij tevens welke actie door Nederland wordt voorgesteld.
 
 #### § 6. Melding onderzoek en informatie betreffende een onderzoek
 
@@ -264,7 +264,7 @@ In geval van een scheepvaartongeval of een ernstig scheepvaartincident met een z
 
 - d. de internationale burgerluchtvaartorganisatie indien het om een luchtvaartuig gaat met een startmassa van meer dan 2250 kg.
 
-2. [Artikel 5, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2007-05-16&g=2007-05-16), is van overeenkomstige toepassing.
+2. [Artikel 5, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing.
 
 ##### Artikel 8
 
@@ -460,7 +460,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 17b
 
-Een wijziging van bijlage V bij richtlijn 2004/49/EG gaat voor de toepassing van [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=9&artikel=17a&z=2007-05-16&g=2007-05-16), gelden met ingang van de waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven
+Een wijziging van bijlage V bij richtlijn 2004/49/EG gaat voor de toepassing van [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=9&artikel=17a&z=2010-10-10&g=2010-10-10), gelden met ingang van de waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven
 
 #### § 10. Vergoedingen
 
