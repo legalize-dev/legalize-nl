@@ -4,7 +4,7 @@ identifier: "BWBR0006501"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2020-04-16"
-last_updated: "2010-10-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006501"
 soort: "rijksKB"
@@ -120,7 +120,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 5
 
-Over aangelegenheden bij welke het algemeen regeringsbeleid betrokken kan zijn, niet behorende tot die bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006501&paragraaf=2&artikel=4&z=2006-11-22&g=2010-10-01), plegen de ministers overleg met de minister-president. Indien het overleg niet tot overeenstemming leidt, worden deze aangelegenheden in de raad gebracht.
+Over aangelegenheden bij welke het algemeen regeringsbeleid betrokken kan zijn, niet behorende tot die bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006501&paragraaf=2&artikel=4&z=2006-11-22&g=2010-10-10), plegen de ministers overleg met de minister-president. Indien het overleg niet tot overeenstemming leidt, worden deze aangelegenheden in de raad gebracht.
 
 ##### Artikel 6
 
