@@ -238,17 +238,3 @@ Deze regeling treedt in werking op het tijdstip waarop [artikel I, tweede lid, v
 Deze regeling wordt aangehaald als: Regeling algemeen weerbericht BES 2010.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling berust op [artikel 3, tweede lid, aanhef en onderdelen a en b, en derde lid, van de Wet taken meteorologie en seismologie](https://wetten.overheid.nl/jci1.3:c:BWBR0037074&artikel=3).
-
-#### § 2. Beschikbaarstelling van het algemeen weerbericht
-
-#### § 3. Inhoud van het algemeen weerbericht
-
-#### § 4. Eisen aan apparatuur en personeel
-
-#### § 5. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
