@@ -85,9 +85,3 @@ Deze regeling treedt in werking met ingang van 10 oktober 2010.
 Deze regeling wordt aangehaald als: Aanwijzingsregeling toezichthoudende ambtenaren SZW-regelgeving BES.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-Deze regeling berust mede op [artikel 41, eerste lid, van het Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=41).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
