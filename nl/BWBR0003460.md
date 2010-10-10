@@ -4,7 +4,7 @@ identifier: "BWBR0003460"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2019-09-14"
-last_updated: "2003-04-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003460"
 soort: "rijksKB"
@@ -50,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 - a. akten van huwelijkstoestemming op te maken;
 
-- b. de tussenkomst te verlenen, bedoeld in de artikelen 91-96 van het Burgerlijk Wetboek van de Nederlandse Antillen en in de artikelen 91-96 van het Burgerlijk Wetboek van Aruba.
+- b. de tussenkomst te verlenen, bedoeld in de artikelen 91 tot en met 96 van het Burgerlijk Wetboek van Aruba, in de artikelen 91 tot en met 96 van het Burgerlijk Wetboek van Curaçao en in de artikelen 91 tot en met 96 van het Burgerlijk Wetboek van Sint Maarten;
 
 - c. de eed af te nemen, die de voogd, toeziende voogd, curator of toeziende curator volgens de wet moet afleggen;
 
@@ -222,9 +222,9 @@ De hoofden van de volgende consulaire posten zijn bevoegd:
 
 De hoofden van de volgende consulaire posten zijn bevoegd:
 
-- a. op verzoek van de rechter in eerste aanleg van de Nederlandse Antillen de handelingen te verrichten als bedoeld in de [artikelen 700](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=700) en [703 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=703) van de Nederlandse Antillen, alsmede in artikel 709 van dat boek, voor zover dit naar de genoemde artikelen verwijst;
+- a. op verzoek van de rechter in eerste aanleg van Curaçao of Sint Maarten de handelingen te verrichten als bedoeld in de artikelen 700 en 703 van het Wetboek van Burgerlijke Rechtsvordering van Curaçao, alsmede in artikel 709 van dat boek, voor zover dit naar de genoemde artikelen verwijst, onderscheidenlijk de artikelen 700 en 703 van het Wetboek van Burgerlijke Rechtsvordering van Sint Maarten, alsmede in artikel 709 van dat boek, voor zover dit naar de genoemde artikelen verwijst;
 
-- b. op verzoek van de rechter in eerste aanleg van Aruba de handelingen te verrichten als bedoeld in de [artikelen 700](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=700) en [703 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=703) van Aruba, alsmede in artikel 709 van dat boek, voor zover dit naar de genoemde artikelen verwijst.
+- b. op verzoek van de rechter in eerste aanleg van Aruba de handelingen te verrichten als bedoeld in de artikelen 700 en 703 van het Wetboek van Burgerlijke Rechtsvordering van Aruba, alsmede in artikel 709 van dat boek, voor zover dit naar de genoemde artikelen verwijst.
 
 | Argentinië | Buenos Aires |
 | --- | --- |
