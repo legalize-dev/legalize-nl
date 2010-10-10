@@ -4,7 +4,7 @@ identifier: "BWBR0002827"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2025-07-01"
-last_updated: "1998-05-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002827"
 soort: "rijkswet"
@@ -45,17 +45,13 @@ Deze Rijkswet verstaat onder:
 
 - a. "vaarplicht": de verplichting, welke krachtens de wet dan wel bij of krachtens landsverordening aan zeelieden of gewezen zeelieden wordt opgelegd om hun diensten beschikbaar te stellen en te houden voor het verrichten van werkzaamheden aan boord of ten behoeve van schepen onder de vlag van het Koninkrijk;
 
-- b. "schip": een geen oorlogsschip zijnd zeeschip in de zin van [artikel 2, eerste lid, van Boek 8 van het Nederlandse Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=2) alsmede een zodanig schip in aanbouw, en in de zin van de [artikelen 375](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=375), eerste lid, en [376, eerste lid, van het Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=376) van de Nederlandse Antillen en in de zin van de [artikelen 375](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=375), eerste lid, en [376, eerste lid, van het Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=376) van Aruba.
+- b. "schip": een geen oorlogsschip zijnd zeeschip in de zin van [artikel 2, eerste lid, van Boek 8 van het Nederlandse Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=2) alsmede een zodanig schip in aanbouw, en in de zin van de artikelen 375, eerste lid, en 376, eerste lid, van het Wetboek van Koophandel van Aruba, in de zin van de artikelen 375, eerste lid, en 376, eerste lid, van het Wetboek van Koophandel van Curaçao en in de zin van de artikelen 375, eerste lid, en 376, eerste lid, van het Wetboek van Koophandel van Sint Maarten;
 
 - c. "schip onder de vlag van het Koninkrijk":
 
-- 1°. een Nederlands schip in de zin van de artikelen 311 of 312 van het Nederlandse [Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838);
+- 1°. Een schip dat op grond van Nederlandse, Arubaanse, Curaçaose, onderscheidenlijk Sint Maartense rechtsregels gerechtigd is de vlag van het Koninkrijk der Nederlanden te voeren;
 
-- 2°. een Nederlands-Antilliaans zeeschip op grond van [artikel 2 van het Nederlands-Antilliaans Zeebrievenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005943&artikel=2);
-
-- 3°. een Arubaans zeeschip op grond van de artikelen 3 en 5 van het Curaçaosche Zeebrievenbesluit 1933;
-
-- 4°. een bij de wet, onderscheidenlijk bij landsverordening als zodanig aangewezen in Nederland, de Nederlandse Antillen of Aruba thuisbehorend vissersvaartuig.
+- 2°. een bij de wet, onderscheidenlijk bij landsverordening als zodanig aangewezen in Nederland, Aruba, Curaçao of Sint Maarten thuisbehorend vissersvaartuig.
 
 ##### Artikel 2
 
@@ -63,7 +59,7 @@ De landen van het Koninkrijk regelen de vaarplicht zoveel mogelijk op gelijke wi
 
 ##### Artikel 3
 
-De vaarplicht wordt slechts opgelegd in geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verbandhoudende buitengewone omstandigheden.
+De vaarplicht wordt slechts opgelegd in geval van buitengewone omstandigheden.
 
 ##### Artikel 4
 
@@ -81,7 +77,7 @@ De wet en de landsverordeningen, waarbij de vaarplicht wordt geregeld, voorzien 
 
 ##### Artikel 6
 
-De wet en de landsverordeningen, waarbij de vaarplicht wordt geregeld, bevatten een regeling van de rechtspositie van de vaarplichtige. Daarbij wordt aan de vaarplichtige het recht toegekend bij een aan te wijzen Autoriteit voorziening te vragen tegen te zijnen aanzien genomen beschikkingen, welke in strijd zijn met een algemeen verbindend voorschrift of waartoe het orgaan dat de beschikking nam in redelijkheid niet heeft kunnen komen. Voor de toepassing van wettelijke voorschriften over bezwaar en beroep wordt in de Nederlandse Antillen en in Aruba met een beschikking gelijkgesteld de schriftelijke weigering om een beschikking te geven dan wel het niet tijdig geven van een beschikking. In de Nederlandse Antillen en in Aruba wordt een beschikking gegeven binnen twaalf weken na ontvangst van de aanvraag.
+De wet en de landsverordeningen, waarbij de vaarplicht wordt geregeld, bevatten een regeling van de rechtspositie van de vaarplichtige. Daarbij wordt aan de vaarplichtige het recht toegekend bij een aan te wijzen Autoriteit voorziening te vragen tegen te zijnen aanzien genomen beschikkingen, welke in strijd zijn met een algemeen verbindend voorschrift of waartoe het orgaan dat de beschikking nam in redelijkheid niet heeft kunnen komen. Voor de toepassing van wettelijke voorschriften over bezwaar en beroep wordt in Aruba, Curaçao en Sint Maarten met een beschikking gelijkgesteld de schriftelijke weigering om een beschikking te geven dan wel het niet tijdig geven van een beschikking. In Aruba, Curaçao en Sint Maarten wordt een beschikking gegeven binnen twaalf weken na ontvangst van de aanvraag.
 
 ##### Artikel 7
 
@@ -91,7 +87,7 @@ Bij of krachtens wet of landsverordening kan worden verboden, dat vaarplichtigen
 
 1. Bij koninklijk besluit op de voordracht van Onze Minister-President kan de aanwijzing van het schip of de schepen onder de vlag van het Koninkrijk, aan boord of ten behoeve waarvan een vaarplichtige wordt ingezet, worden gedelegeerd aan een in dat besluit genoemde autoriteit.
 
-2. Ons besluit wordt geplaatst in het **Staatsblad,** het **Publicatieblad van de Nederlandse Antillen** en het **Afkondigingsblad van Aruba**.
+2. Ons besluit wordt geplaatst in het **Staatsblad,** het Afkondigingsblad van Aruba, het Publicatieblad van Curaçao en het Afkondigingsblad van Sint Maarten.
 
 ##### Artikel 9
 
