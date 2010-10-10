@@ -4,7 +4,7 @@ identifier: "BWBR0021476"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-10-10"
-last_updated: "2007-03-14"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021476"
 soort: "ministeriele-regeling"
@@ -42,7 +42,23 @@ Besluit:
 
 ##### Artikel 1
 
-[Artikel 3 van de Regeling erkende organisaties Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014652&artikel=3) is van overeenkomstige toepassing op de rechtspersonen, genoemd in artikel 1, van het Besluit aanwijzing klassenbureaus Wet voorkoming verontreiniging door schepen, met dien verstande dat in dat artikel voor ‘een land van het Koninkrijk’ en ‘Nederland, de Nederlandse Antillen en Aruba’ moet worden gelezen ‘Nederland’.
+Het register, bedoeld in [artikel 5 van de Vaartuigenwet 1930 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=5) bevat ten minste de volgende gegevens:
+
+- a. type, naam, bouwplaats en afmeting van het vaartuig;
+
+- b. naam en contactgegevens eigenaar;
+
+- c. datum van registratie;
+
+- d. gegevens met betrekking tot het casco;
+
+- e. type, merk en vermogen van de motor;
+
+- f. ligplaats;
+
+- g. letter en nummer, bedoeld in [artikel 2 van de Vaartuigenwet 1930 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=2);
+
+- h. gegevens met betrekking tot de vergunning, bedoeld in [artikel 6 van de Vaartuigenwet 1930 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=6).
 
 ##### Artikel 2
 
