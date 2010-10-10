@@ -4,7 +4,7 @@ identifier: "BWBR0025441"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2010-10-10"
-last_updated: "2009-05-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025441"
 soort: "rijksKB"
@@ -54,15 +54,19 @@ Hebben goedgevonden en verstaan:
 
 1. In dit besluit wordt verstaan onder:
 
-- a. **aangewezen opvarende:** opvarende als bedoeld in [artikel 10, eerste lid, van de Rijkswet Kustwacht voor de Nederlandse Antillen en Aruba](https://wetten.overheid.nl/jci1.3:c:BWBR0023731&artikel=10);
+- a. **aangewezen opvarende:** opvarende als bedoeld in [artikel 10, eerste lid, van de Rijkswet Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0023731&artikel=10);
 
 - b. **niet-penetrerende munitie:** munitie die is ontworpen om bij het treffen van een persoon niet het lichaam binnen te dringen;
 
 - c. **officier van piket:** functionaris die belast is met piketdienst;
 
-- d. **ernstig misdrijf:** misdrijf waarvoor in de strafwetgeving van de Nederlandse Antillen of van Aruba voorlopige hechtenis is toegelaten.
+- d. **ernstig misdrijf:** misdrijf waarvoor in de strafwetgeving van Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba voorlopige hechtenis is toegelaten.
 
-2. Onder het aanwenden van geweld wordt mede verstaan het dreigen met geweld.
+2. Onder het aanwenden van geweld wordt mede verstaan:
+
+- a. het dreigen met geweld;
+
+- b. het gebruik van vrijheidsbeperkende middelen.
 
 #### § 2. Uiterlijke kentekenen van kustwachtschepen en kustwachtluchtvaartuigen
 
@@ -70,7 +74,7 @@ Hebben goedgevonden en verstaan:
 
 1. Een kustwachtschip voert duidelijk kenbaar de volgende uiterlijke kentekenen:
 
-- a. het logo van de Kustwacht voor de Nederlandse Antillen en Aruba, dat op de romp wordt aangebracht;
+- a. het logo van de Kustwacht, dat op de romp wordt aangebracht;
 
 - b. de belettering «Coast Guard».
 
@@ -144,7 +148,7 @@ Bij gebruik van fysiek geweld dan wel een geweldmiddel wordt in verhouding tot h
 
 - b. om een persoon aan te houden die zich aan zijn aanhouding, voorgeleiding of andere rechtmatige vrijheidsbeneming tracht te onttrekken of heeft onttrokken en die wordt verdacht van of is veroordeeld wegens het plegen van een ernstig misdrijf, dat bovendien moet worden aangemerkt als een grove aantasting van de rechtsorde.
 
-2. Onder het plegen van een misdrijf als bedoeld in het eerste lid, onder b, worden mede begrepen de poging en de deelnemingsvormen, bedoeld in de artikelen 49 en 50 van het Wetboek van Strafrecht van de Nederlandse Antillen en de artikelen 49 en 50 van het Wetboek van Strafrecht van Aruba.
+2. Onder het plegen van een misdrijf als bedoeld in het eerste lid, onder b, worden mede begrepen poging tot en deelneming aan het misdrijf.
 
 ##### Artikel 10
 
@@ -158,7 +162,7 @@ Bij gebruik van een vuurwapen ten behoeve van niet-automatisch vuur wordt het vo
 
 ##### Artikel 11
 
-De commandant, onderscheidenlijk de aangewezen opvarende, mag slechts uit voorzorg een vuurwapen ten behoeve van niet-automatisch vuur ter hand nemen indien redelijkerwijs mag worden aangenomen dat een situatie als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0025441&paragraaf=4&artikel=9&z=2009-05-01&g=2009-05-01) ontstaat, waarin hij bevoegd is het vuurwapen te gebruiken. Zodra blijkt dat een dergelijke situatie zich niet voordoet, wordt het ter hand nemen van het vuurwapen beëindigd.
+De commandant, onderscheidenlijk de aangewezen opvarende, mag slechts uit voorzorg een vuurwapen ten behoeve van niet-automatisch vuur ter hand nemen indien redelijkerwijs mag worden aangenomen dat een situatie als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0025441&paragraaf=4&artikel=9&z=2010-10-10&g=2010-10-10) ontstaat, waarin hij bevoegd is het vuurwapen te gebruiken. Zodra blijkt dat een dergelijke situatie zich niet voordoet, wordt het ter hand nemen van het vuurwapen beëindigd.
 
 ##### Artikel 12
 
@@ -174,11 +178,11 @@ De commandant, onderscheidenlijk de aangewezen opvarende, mag slechts uit voorzo
 
 ##### Artikel 13
 
-1. De commandant, onderscheidenlijk de aangewezen opvarende, is bevoegd om boordvuurwapens op een vaartuig te richten indien door de gezagvoerder van dat vaartuig niet terstond aan een vordering als bedoeld in [artikel 4 van de Rijkswet Kustwacht voor de Nederlandse Antillen en Aruba](https://wetten.overheid.nl/jci1.3:c:BWBR0023731&artikel=4) wordt voldaan.
+1. De commandant, onderscheidenlijk de aangewezen opvarende, is bevoegd om boordvuurwapens op een vaartuig te richten indien door de gezagvoerder van dat vaartuig niet terstond aan een vordering als bedoeld in [artikel 4 van de Rijkswet Kustwacht voor Aruba, Curaçao en Sint Maarten](https://wetten.overheid.nl/jci1.3:c:BWBR0023731&artikel=4) alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba wordt voldaan.
 
 2. De commandant, onderscheidenlijk de aangewezen opvarende, is bevoegd om met behulp van een of meer hem ter beschikking staande vuurwapens schoten voor de boeg af te geven, dan wel gericht te vuren op niet-vitale delen van een vaartuig indien:
 
-- a. door de gezagvoerder van dat vaartuig niet terstond aan een vordering als bedoeld in [artikel 4 van de Rijkswet Kustwacht voor de Nederlandse Antillen en Aruba](https://wetten.overheid.nl/jci1.3:c:BWBR0023731&artikel=4) wordt voldaan; en
+- a. door de gezagvoerder van dat vaartuig niet terstond aan een vordering als bedoeld in [artikel 4 van de Rijkswet Kustwacht voor Aruba, Curaçao en Sint Maarten](https://wetten.overheid.nl/jci1.3:c:BWBR0023731&artikel=4) alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba wordt voldaan; en
 
 - b. andere middelen om de vordering kracht bij te zetten ontbreken.
 
@@ -200,7 +204,7 @@ De commandant, onderscheidenlijk de aangewezen opvarende, mag slechts uit voorzo
 
 ##### Artikel 14
 
-[Paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025441&paragraaf=4&z=2009-05-01&g=2009-05-01) is niet van toepassing op het gebruik en het ter hand nemen van een vuurwapen dat is geladen met niet-penetrerende munitie.
+[Paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025441&paragraaf=4&z=2010-10-10&g=2010-10-10) is niet van toepassing op het gebruik en het ter hand nemen van een vuurwapen dat is geladen met niet-penetrerende munitie.
 
 ##### Artikel 15
 
@@ -216,7 +220,7 @@ De commandant, onderscheidenlijk de aangewezen opvarende, waarschuwt onmiddellij
 
 ##### Artikel 17
 
-De [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0025441&paragraaf=5&artikel=15&z=2009-05-01&g=2009-05-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0025441&paragraaf=5&artikel=16&z=2009-05-01&g=2009-05-01) zijn van overeenkomstige toepassing indien de niet-penetrerende munitie wordt afgegeven met een ander hulpmiddel dan een vuurwapen.
+De [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0025441&paragraaf=5&artikel=15&z=2010-10-10&g=2010-10-10) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0025441&paragraaf=5&artikel=16&z=2010-10-10&g=2010-10-10) zijn van overeenkomstige toepassing indien de niet-penetrerende munitie wordt afgegeven met een ander hulpmiddel dan een vuurwapen.
 
 #### § 6. Handboeien
 
@@ -274,6 +278,6 @@ Met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgift
 
 ##### Artikel 24
 
-Dit besluit wordt aangehaald als: Uitvoeringsbesluit Kustwacht voor de Nederlandse Antillen en Aruba.
+Dit besluit wordt aangehaald als: Uitvoeringsbesluit Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst.
