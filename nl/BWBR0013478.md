@@ -4,7 +4,7 @@ identifier: "BWBR0013478"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-04"
-last_updated: "2009-10-31"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013478"
 soort: "ministeriele-regeling"
@@ -41,7 +41,7 @@ Besluit:
 
 ##### Artikel 1
 
-Als ambtenaren belast met het toezicht op de naleving bedoeld in [artikel 73, eerste lid, onderdeel a, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=73) en [artikel 11.1, eerste lid, onderdeel b, van de Wet Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=11.1) worden aangewezen:
+Als ambtenaren belast met het toezicht op de naleving bedoeld in [artikel 73, eerste lid, onderdeel a, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=73), [artikel 11.1, eerste lid, onderdeel b, van de Wet Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=11.1) en de [artikelen 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=62), [64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=64) en [65 van de Luchtvaartwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=65) worden aangewezen:
 
 - a. de inspecteur-generaal van de Inspectie Verkeer en Waterstaat;
 
@@ -55,7 +55,9 @@ Vervallen
 
 ##### Artikel 3
 
-Als personen, bedoeld in [artikel 73, eerste lid, onderdeel b, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=73) worden aangewezen, de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013478&artikel=1&z=2009-10-31&g=2009-10-31) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0013478&artikel=2&z=2009-10-31&g=2009-10-31) van dit Besluit genoemde ambtenaren, alsmede de havenmeesters en assistent-havenmeesters van de luchthavens Ameland, Budel, Drachten, Eelde, Eindhoven, Hilversum, Hoogeveen, Lelystad, Maastricht-Aachen, Midden Zeeland, Onstwedde, Rotterdam, Schiphol, Seppe, Terlet, Teuge en Texel.
+1. Als personen, bedoeld in [artikel 73, eerste lid, onderdeel b, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=73) worden aangewezen, de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013478&artikel=1&z=2010-10-10&g=2010-10-10) van dit Besluit genoemde ambtenaren, alsmede de havenmeesters en assistent-havenmeesters van de luchthavens Ameland, Budel, Drachten, Eelde, Eindhoven, Hilversum, Hoogeveen, Lelystad, Maastricht-Aachen, Midden Zeeland, Onstwedde, Rotterdam, Schiphol, Seppe, Terlet, Teuge en Texel.
+
+2. Als personen, bedoeld in artikel 62, eerste lid, van de Luchtvaartlandsverordening worden aangewezen, de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013478&artikel=1&z=2010-10-10&g=2010-10-10) van dit Besluit genoemde ambtenaren, alsmede de havenmeesters en assistent-havenmeesters van de luchtvaartterreinen Flamingo Luchthaven, F.D. Roosevelt vliegveld en Juancho Yrausquin vliegveld.
 
 ##### Artikel 4
 
@@ -84,5 +86,11 @@ Als ambtenaren belast met het toezicht op de naleving bedoeld in [artikel 11.1, 
 - b. de inspecteur-generaal van de Inspectie Verkeer en Waterstaat;
 
 - c. de ambtenaren van de Inspectie Verkeer en Waterstaat, die zijn belast met toezicht.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 8
+
+Dit besluit berust tevens op de [artikelen 62, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=62), [64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=64), en [65 van de Luchtvaartwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=65).
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
