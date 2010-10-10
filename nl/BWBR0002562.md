@@ -4,7 +4,7 @@ identifier: "BWBR0002562"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2010-10-10"
-last_updated: "1994-01-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002562"
 soort: "rijkswet"
@@ -45,15 +45,15 @@ Onder rechtspersoon wordt in het bij of krachtens deze rijkswet bepaalde begrepe
 
 ##### Artikel 2
 
-1. Indien in geval van oorlog, onmiddellijk oorlogsgevaar, revolutie of daarmee vergelijkbare buitengewone omstandigheden naar Ons oordeel de belangen van het Koninkrijk dit vereisen, kunnen Wij Onze Ministers van Justitie en van Financiën machtigen om bij gezamenlijke beschikking de plaats van vestiging van een of meer in Nederland, de Nederlandse Antillen of Aruba gevestigde rechtspersonen over te brengen naar een andere, in de beschikking aan te geven, plaats binnen het Koninkrijk der Nederlanden.
+1. Indien in geval van oorlog, onmiddellijk oorlogsgevaar, revolutie of daarmee vergelijkbare buitengewone omstandigheden naar Ons oordeel de belangen van het Koninkrijk dit vereisen, kunnen Wij Onze Ministers van Justitie en van Financiën machtigen om bij gezamenlijke beschikking de plaats van vestiging van een of meer in Nederland, Aruba, Curaçao of Sint Maarten gevestigde rechtspersonen over te brengen naar een andere, in de beschikking aan te geven, plaats binnen het Koninkrijk der Nederlanden.
 
-2. Onze voornoemde Ministers kunnen in hun beschikking ook andere bepalingen van de akte van oprichting of van de statuten en reglementen van de rechtspersoon wijzigen, indien dit naar hun oordeel noodzakelijk is in verband met de overbrenging van de plaats van vestiging. Een wijziging, als bedoeld in de vorige zin, kan ook een omzetting inhouden van een naamloze vennootschap in een besloten vennootschap met beperkte aansprakelijkheid en omgekeerd.
+2. Onze voornoemde Ministers kunnen in hun beschikking ook andere bepalingen van de akte van oprichting of van de statuten en reglementen van de rechtspersoon wijzigen, indien dit naar hun oordeel noodzakelijk is in verband met de overbrenging van de plaats van vestiging. Een wijziging als bedoeld in de vorige zin kan ook een omzetting inhouden van een naamloze vennootschap, besloten vennootschap met beperkte aansprakelijkheid of een besloten vennootschap in een van de andere genoemde typen van vennootschappen.
 
-3. Is de rechtspersoon in de Nederlandse Antillen of in Aruba gevestigd of bestaat het voornemen tot overbrenging daarheen, dan geschiedt de overbrenging slechts in overeenstemming met het gevoelen van Onze Ministers van Justitie en van Financiën van de Nederlandse Antillen of van Aruba, tenzij de omstandigheden naar Ons oordeel niet toelaten hen van tevoren te raadplegen.
+3. Is de rechtspersoon in Aruba, Curaçao of Sint Maarten gevestigd of bestaat het voornemen tot overbrenging daarheen, dan geschiedt de overbrenging slechts in overeenstemming met het gevoelen van Onze Ministers van Justitie en van Financiën van Aruba, Curaçao of Sint Maarten, tenzij de omstandigheden naar Ons oordeel niet toelaten hen van tevoren te raadplegen.
 
 ##### Artikel 3
 
-In afwijking van [artikel 3:40 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:40), treden de overbrenging en de wijziging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002562&artikel=2&z=1994-01-01&g=1994-01-01), in werking met ingang van de dag waarop de beschikking tot stand is gekomen, tenzij de beschikking anders bepaalt.
+In afwijking van [artikel 3:40 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:40), treden de overbrenging en de wijziging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002562&artikel=2&z=2010-10-10&g=2010-10-10), in werking met ingang van de dag waarop de beschikking tot stand is gekomen, tenzij de beschikking anders bepaalt.
 
 ##### Artikel 4
 
@@ -69,13 +69,13 @@ In afwijking van [artikel 3:40 van de Algemene wet bestuursrecht](https://wetten
 
 4. De openbaarmaking geschiedt door middel van het blad, waarin van overheidswege de officiële berichten in het betrokken deel van het Koninkrijk worden gepubliceerd, en wel hetzij door de rechtspersoon, hetzij van Onzentwege.
 
-5. In afwijking van de eerste drie leden behoeven de statuten en reglementen van een rechtspersoon, die geen naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid is, en de daarin aangebrachte wijzigingen slechts te worden openbaar gemaakt, voor zover andere in het betrokken deel van het Koninkrijk geldende wettelijke bepalingen een soortgelijke openbaarmaking van de statuten en reglementen van zodanige rechtspersoon voorschrijven.
+5. In afwijking van de eerste drie leden behoeven de statuten en reglementen van een rechtspersoon, die geen naamloze vennootschap, besloten vennootschap met beperkte aansprakelijkheid of besloten vennootschap is, en de daarin aangebrachte wijzigingen slechts te worden openbaar gemaakt, voor zover andere in het betrokken deel van het Koninkrijk geldende wettelijke bepalingen een soortgelijke openbaarmaking van de statuten en reglementen van zodanige rechtspersoon voorschrijven.
 
 6. Voor zover aan de voorschriften van de vorige leden niet is voldaan, kunnen de overbrenging en de wijziging van de akte van oprichting of van de statuten en reglementen niet tegen derden te goeder trouw worden ingeroepen.
 
 ##### Artikel 5
 
-Na de overbrenging kan de plaats van vestiging van de rechtspersoon, onverminderd het bepaalde in de voorgaande artikelen, weer worden teruggebracht naar het deel van het Koninkrijk of naar de plaats in hetzelfde deel van het Koninkrijk, waar de rechtspersoon het eerst was gevestigd. Deze terugbrenging geschiedt uitsluitend door overeenkomstige toepassing van de [afdelingen 2 of 4 van de Rijkswet vrijwillige zetelverplaatsing van rechtspersonen](https://wetten.overheid.nl/jci1.3:c:BWBR0002561&afdeling=2), wanneer het een naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid betreft, dan wel van afdeling 6 van die Rijkswet, wanneer het een andere rechtspersoon betreft.
+Na de overbrenging kan de plaats van vestiging van de rechtspersoon, onverminderd het bepaalde in de voorgaande artikelen, weer worden teruggebracht naar het deel van het Koninkrijk of naar de plaats in hetzelfde deel van het Koninkrijk, waar de rechtspersoon het eerst was gevestigd. Deze terugbrenging geschiedt uitsluitend door overeenkomstige toepassing van de [afdelingen 2 of 4 van de Rijkswet vrijwillige zetelverplaatsing van rechtspersonen](https://wetten.overheid.nl/jci1.3:c:BWBR0002561&afdeling=2), wanneer het een naamloze vennootschap, besloten vennootschap met beperkte aansprakelijkheid of besloten vennootschap betreft, dan wel van afdeling 6 van die Rijkswet, wanneer het een andere rechtspersoon betreft.
 
 ##### Artikel 6
 
