@@ -4,7 +4,7 @@ identifier: "BWBR0013604"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2022-05-26"
-last_updated: "2007-04-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013604"
 soort: "rijksKB"
@@ -52,17 +52,19 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. Onze Minister: Onze Minister van Justitie van het Koninkrijk;
+- a. Onze Minister: Onze Minister van Justitie in zijn hoedanigheid van minister van het Koninkrijk;
 
 - b. verzoeker: vreemdeling die op grond van de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738) verzoekt om verlening van het Nederlanderschap;
 
-- c. de naturalisatietoets: de toets, genoemd in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=2&z=2007-04-01&g=2007-04-01).
+- c. de naturalisatietoets: de toets, genoemd in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=2&z=2010-10-10&g=2010-10-10);
+
+- d. openbaar lichaam: de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 ##### Artikel 2
 
-1. Een verzoeker beschikt over voldoende kennis van de taal alsmede van de staatsinrichting en maatschappij als bedoeld in [artikel 8, eerste lid, aanhef en onder d, van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=8), indien hij beschikt over een zodanige mate van kennis van de taal alsmede van de staatsinrichting en maatschappij, dat hij zelfstandig in de Nederlandse, Nederlands-Antilliaanse of Arubaanse samenleving kan functioneren.
+1. Een verzoeker beschikt over voldoende kennis van de taal alsmede van de staatsinrichting en maatschappij als bedoeld in [artikel 8, eerste lid, aanhef en onder d, van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=8), indien hij beschikt over een zodanige mate van kennis van de taal alsmede van de staatsinrichting en maatschappij, dat hij zelfstandig in de samenleving van Nederland, Aruba, Curaçao, Sint Maarten of van de openbare lichamen Bonaire, Sint Eustatius en Saba kan functioneren.
 
-2. Of hij beschikt over de mate van kennis van de taal alsmede van de staatsinrichting en maatschappij, bedoeld in het eerste lid, wordt vastgesteld aan de hand van een door Onze Minister op te stellen naturalisatietoets. Onze Minister stelt de naturalisatietoets voor de Nederlandse Antillen en Aruba vast na overleg met de Minister van Justitie van de Nederlandse Antillen onderscheidenlijk de Minister van Justitie van Aruba.
+2. Of hij beschikt over de mate van kennis van de taal alsmede van de staatsinrichting en maatschappij, bedoeld in het eerste lid, wordt vastgesteld aan de hand van een door Onze Minister op te stellen naturalisatietoets. Onze Minister stelt de naturalisatietoets voor Aruba, Curaçao en Sint Maarten vast na overleg met de Minister van Justitie van het betrokken land.
 
 3. De toets van de kennis van de taal omvat een onderzoek naar:
 
@@ -74,7 +76,7 @@ In dit besluit wordt verstaan onder:
 
 - d. leesvaardigheid; en
 
-- e. in Nederland: gespreksvaardigheid.
+- e. in het Europese deel van Nederland: gespreksvaardigheid.
 
 4. Onze Minister wijst de ambtenaren, autoriteiten of instellingen aan die de naturalisatietoets afnemen. Indien de plaatselijke omstandigheden daartoe aanleiding geven, kan Onze Minister in overeenstemming met de Minister die het aangaat de beoordeling of de verzoeker beschikt over de mate van kennis van de taal alsmede van de staatsinrichting en maatschappij, bedoeld in het eerste lid, opdragen aan de autoriteit of ambtenaar die het verzoek om verlening van het Nederlanderschap in ontvangst neemt.
 
@@ -84,7 +86,7 @@ In dit besluit wordt verstaan onder:
 
 - a. hij valt onder de [Wet van 9 september 1976 (Stb. 1976, 468) betreffende de positie van Molukkers](https://wetten.overheid.nl/jci1.3:c:BWBR0003052);
 
-- b. hij, na onderwijs te hebben gevolgd in de Nederlandse taal, dan wel – indien de verzoeker in de Nederlandse Antillen of Aruba hoofdverblijf heeft – in de taal die op het eiland van hoofdverblijf naast het Nederlands gangbaar is, in het bezit is gesteld van een op wettelijke basis uitgereikt diploma of getuigschrift van afronding van een opleiding van wetenschappelijk onderwijs, hoger onderwijs, algemeen voortgezet onderwijs, beroepsonderwijs of leerlingwezen;
+- b. hij, na onderwijs te hebben gevolgd in de Nederlandse taal, dan wel – indien de verzoeker in een openbaar lichaam, Aruba, Curaçao of Sint Maarten hoofdverblijf heeft – in de taal die op het eiland van hoofdverblijf naast het Nederlands gangbaar is, in het bezit is gesteld van een op wettelijke basis uitgereikt diploma of getuigschrift van afronding van een opleiding van wetenschappelijk onderwijs, hoger onderwijs, algemeen voortgezet onderwijs, beroepsonderwijs of leerlingwezen;
 
 - c. hij in het bezit is van een diploma staatsexamen Nederlands als Tweede taal, programma I dan wel programma II als bedoeld in [artikel 7.3.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1);
 
@@ -104,7 +106,7 @@ In dit besluit wordt verstaan onder:
 
 - i. hij in het bezit is van het document, bedoeld in [artikel 2.7, tweede lid, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=2.7);
 
-- j. hij ten minste acht jaren tijdens de leerplichtige leeftijd in Nederland heeft verbleven als bedoeld in [artikel 5, eerste lid, onderdeel b, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=5);
+- j. hij ten minste acht jaren tijdens de leerplichtige leeftijd in het Europese deel van Nederland heeft verbleven als bedoeld in [artikel 5, eerste lid, onderdeel b, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=5);
 
 - k. hij in het bezit is van een met een van de in onderdeel b genoemde diploma’s of getuigschriften vergelijkbaar diploma of een ander document, behaald in het Nederlandstalig onderwijs in België, mits een voldoende is behaald voor het vak Nederlandse taal;
 
@@ -128,7 +130,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 5
 
-1. Indien de verzoeker de naturalisatietoets met goed gevolg heeft afgelegd, wordt hem in Nederland uitgereikt het inburgeringsdiploma, bedoeld in [artikel 14, tweede lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=14) met daarop de vermelding dat de vaardigheden in de Nederlandse taal op het niveau A2 van het Europees Raamwerk voor Moderne Vreemde Talen zijn verworven, en op de Nederlandse Antillen en Aruba een certificaat. Op het certificaat worden de onderdelen vermeld, die door de verzoeker met goed gevolg zijn afgelegd. Bij ministeriële regeling wordt voor het certificaat een model vastgesteld.
+1. Indien de verzoeker de naturalisatietoets met goed gevolg heeft afgelegd, wordt hem in het Europese deel van Nederland uitgereikt het inburgeringsdiploma, bedoeld in [artikel 14, tweede lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=14) met daarop de vermelding dat de vaardigheden in de Nederlandse taal op het niveau A2 van het Europees Raamwerk voor Moderne Vreemde Talen zijn verworven, en in een openbaar lichaam, Aruba, Curaçao of Sint Maarten een certificaat. Op het certificaat worden de onderdelen vermeld, die door de verzoeker met goed gevolg zijn afgelegd. Bij ministeriële regeling wordt voor het certificaat een model vastgesteld.
 
 2. Het in het eerste lid bedoelde inburgeringsdiploma alsmede het certificaat met de aantekening dat de verzoeker beschikt over de vereiste kennis van de Nederlandse taal worden in het kader van een verzoek om naturalisatie in het gehele Koninkrijk erkend.
 
@@ -136,7 +138,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 6
 
-Bij ministeriële regeling kunnen, de Ministers van Justitie van de Nederlandse Antillen en van Aruba gehoord, ter uitvoering van dit besluit nadere regels worden gesteld.
+Bij ministeriële regeling kunnen, de Ministers van Justitie van Aruba, Curaçao en Sint Maarten gehoord, ter uitvoering van dit besluit nadere regels worden gesteld.
 
 ##### Artikel 7
 
