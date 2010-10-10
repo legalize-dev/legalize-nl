@@ -4,7 +4,7 @@ identifier: "BWBR0003900"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2020-04-01"
-last_updated: "1998-01-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003900"
 soort: "rijkswet"
@@ -77,11 +77,11 @@ Onverminderd hetgeen elders in dit reglement is bepaald, is de Gouverneur verpli
 
 ##### Artikel 5
 
-De Gouverneur mag zonder verlof van Onze Minister voor Nederlands-Antilliaanse en Arubaanse Zaken Aruba niet verlaten.
+De Gouverneur mag zonder verlof van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties Aruba niet verlaten.
 
 ##### Artikel 6
 
-1. De Gouverneur mag rechtstreeks noch zijdelings deelhebber zijn in, noch borg zijn voor enige onderneming, ten grondslag hebbende een overeenkomst om winst of voordeel aangegaan met Aruba, met de Nederlandse Antillen of met enig deel daarvan of met Nederland.
+1. De Gouverneur mag rechtstreeks noch zijdelings deelhebber zijn in, noch borg zijn voor enige onderneming, ten grondslag hebbende een overeenkomst om winst of voordeel aangegaan met Nederland, Aruba, Curaçao of Sint Maarten.
 
 2. Hij mag, behalve openbare schuldbrieven, geen schuldvorderingen ten laste van een van de landen van het Koninkrijk bezitten.
 
@@ -123,13 +123,13 @@ De Gouverneur mag zonder verlof van Onze Minister voor Nederlands-Antilliaanse e
 
 9. Een van de dubbelen wordt onverwijld gezonden aan de Koning.
 
-10. Wanneer de Gouverneur door een plotselinge ziektetoestand anders dan bedoeld in het eerste lid niet in staat is om zijn ambt uit te oefenen en om de uitoefening hiervan overeenkomstig [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003900&artikel=13&z=1998-01-01&g=1998-01-01), tijdelijk aan de aldaar bedoelde persoon over te dragen, worden de in dit artikel opgenomen bepalingen eveneens toegepast, met dien verstande echter, dat de Gouverneur, nadat hij voldoende hersteld is, de uitoefening van zijn ambt hervat.
+10. Wanneer de Gouverneur door een plotselinge ziektetoestand anders dan bedoeld in het eerste lid niet in staat is om zijn ambt uit te oefenen en om de uitoefening hiervan overeenkomstig [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003900&artikel=13&z=2010-10-10&g=2010-10-10), tijdelijk aan de aldaar bedoelde persoon over te dragen, worden de in dit artikel opgenomen bepalingen eveneens toegepast, met dien verstande echter, dat de Gouverneur, nadat hij voldoende hersteld is, de uitoefening van zijn ambt hervat.
 
 ##### Artikel 9
 
-1. De Gouverneur kan, zolang hij zijn ambt bekleedt, niet voor de strafrechter in Aruba of in de Nederlandse Antillen worden gedagvaard, noch aldaar in burgerlijke gijzeling gebracht, noch zonder koninklijke toestemming als getuige in een rechtsgeding geroepen worden.
+1. De Gouverneur kan, zolang hij zijn ambt bekleedt, niet voor de strafrechter in Aruba, Curaçao of Sint Maarten worden gedagvaard, noch aldaar in burgerlijke gijzeling gebracht, noch zonder koninklijke toestemming als getuige in een rechtsgeding geroepen worden.
 
-2. Hij kan, ook na zijn ontslag, wegens feiten, tijdens zijn ambtsperiode gepleegd, in Aruba of in de Nederlandse Antillen niet tot straf vervolgd worden.
+2. Hij kan, ook na zijn ontslag, wegens feiten, tijdens zijn ambtsperiode gepleegd, in Aruba, Curaçao of Sint Maarten niet tot straf vervolgd worden.
 
 ##### Artikel 10
 
@@ -143,15 +143,15 @@ De Gouverneur staat wegens ambtsmisdrijven in zijn betrekking gepleegd, ook na z
 
 ##### Artikel 12
 
-Indien tegen de Gouverneur, hetzij in het geval voorzien in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003900&artikel=10&z=1998-01-01&g=1998-01-01), hetzij ter zake van andere strafbare feiten, een vervolging in Nederland wordt ingesteld, draagt hij de uitoefening van zijn ambt over aan degene, die bij koninklijk besluit is aangewezen om tijdelijk het ambt van Gouverneur uit te oefenen.
+Indien tegen de Gouverneur, hetzij in het geval voorzien in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003900&artikel=10&z=2010-10-10&g=2010-10-10), hetzij ter zake van andere strafbare feiten, een vervolging in Nederland wordt ingesteld, draagt hij de uitoefening van zijn ambt over aan degene, die bij koninklijk besluit is aangewezen om tijdelijk het ambt van Gouverneur uit te oefenen.
 
 ##### Artikel 13
 
-1. Wanneer de Gouverneur overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003900&artikel=8&z=1998-01-01&g=1998-01-01) tijdelijk van de uitoefening van zijn ambt is ontheven, of wanneer hij niet in staat is om het uit te oefenen, treedt als waarnemende Gouverneur op de persoon, bij koninklijk besluit daartoe aangewezen.
+1. Wanneer de Gouverneur overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003900&artikel=8&z=2010-10-10&g=2010-10-10) tijdelijk van de uitoefening van zijn ambt is ontheven, of wanneer hij niet in staat is om het uit te oefenen, treedt als waarnemende Gouverneur op de persoon, bij koninklijk besluit daartoe aangewezen.
 
 2. Hetzelfde geschiedt wanneer de Gouverneur overlijdt of de uitoefening van zijn ambt tussentijds beëindigt en zijn opvolger nog niet is benoemd of nog niet kan optreden.
 
-3. Wanneer ziekte van de Gouverneur anders dan bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003900&artikel=8&z=1998-01-01&g=1998-01-01), een voorziening noodzakelijk maakt, onderscheidenlijk wanneer hij verlof verkrijgt, draagt de Gouverneur de uitoefening van zijn ambt tijdelijk over aan de persoon, bedoeld in het eerste lid.
+3. Wanneer ziekte van de Gouverneur anders dan bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003900&artikel=8&z=2010-10-10&g=2010-10-10), een voorziening noodzakelijk maakt, onderscheidenlijk wanneer hij verlof verkrijgt, draagt de Gouverneur de uitoefening van zijn ambt tijdelijk over aan de persoon, bedoeld in het eerste lid.
 
 4. Telkenmale wanneer de waarnemende Gouverneur als zodanig optreedt in de gevallen, bedoeld in het eerste en tweede lid, doet hij hiervan mededeling aan de Staten en brengt hij dit bij proclamatie ter kennis van de ingezetenen.
 
@@ -161,9 +161,9 @@ Indien tegen de Gouverneur, hetzij in het geval voorzien in [artikel 10](https:/
 
 ##### Artikel 14
 
-1. Al wat in dit reglement en in de Staatsregeling van Aruba is bepaald omtrent de Gouverneur is van overeenkomstige toepassing op de waarnemende Gouverneur, met uitzondering van de voorschriften in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003900&artikel=3&z=1998-01-01&g=1998-01-01) en [7 van dit reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003900&artikel=7&z=1998-01-01&g=1998-01-01), en met dien verstande, dat de verbodsbepalingen van [artikel 6 van dit reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003900&artikel=6&z=1998-01-01&g=1998-01-01) niet gelden voor het deel dat de waarnemende Gouverneur in de daarbij bedoelde concessies en ondernemingen had, alsmede voor door hem vervulde betrekkingen als genoemd in het vierde lid bij de aldaar bedoelde ondernemingen, voor zover verworven onderscheidenlijk aanvaard buiten de tijd dat hij als waarnemende Gouverneur optreedt, en dat het vijfde en zesde lid van dat artikel niet op hem van toepassing zijn.
+1. Al wat in dit reglement en in de Staatsregeling van Aruba is bepaald omtrent de Gouverneur is van overeenkomstige toepassing op de waarnemende Gouverneur, met uitzondering van de voorschriften in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003900&artikel=3&z=2010-10-10&g=2010-10-10) en [7 van dit reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003900&artikel=7&z=2010-10-10&g=2010-10-10), en met dien verstande, dat de verbodsbepalingen van [artikel 6 van dit reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003900&artikel=6&z=2010-10-10&g=2010-10-10) niet gelden voor het deel dat de waarnemende Gouverneur in de daarbij bedoelde concessies en ondernemingen had, alsmede voor door hem vervulde betrekkingen als genoemd in het vierde lid bij de aldaar bedoelde ondernemingen, voor zover verworven onderscheidenlijk aanvaard buiten de tijd dat hij als waarnemende Gouverneur optreedt, en dat het vijfde en zesde lid van dat artikel niet op hem van toepassing zijn.
 
-2. De waarnemende Gouverneur legt bij zijn eerste optreden als zodanig in een plechtige vergadering van de Staten een afschrift over van het koninklijk besluit, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003900&artikel=13&z=1998-01-01&g=1998-01-01), eeste lid, en van het proces-verbaal van zijn eedaflegging.
+2. De waarnemende Gouverneur legt in een plechtige vergadering van de Staten een afschrift over van het koninklijk besluit, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003900&artikel=13&z=2010-10-10&g=2010-10-10), eeste lid, en van het proces-verbaal van zijn eedaflegging.
 
 #### Tweede afdeling De bevoegdheden van de Gouverneur als orgaan van het Koninkrijk
 
@@ -171,7 +171,13 @@ Indien tegen de Gouverneur, hetzij in het geval voorzien in [artikel 10](https:/
 
 1. De Gouverneur vertegenwoordigt de regering van het Koninkrijk en waakt daarbij over het algemeen belang van het Koninkrijk overeenkomstig de bepalingen van dit reglement en met inachtneming van de bij of krachtens koninklijk besluit te geven aanwijzingen. Hij is verantwoordelijk aan de regering van het Koninkrijk.
 
-2. Indien de Gouverneur dan wel de Gouverneur van de Nederlandse Antillen het gewenst acht, plegen zij onderling overleg omtrent aangelegenheden waarbij het belang van het Koninkrijk is betrokken.
+2. Indien de Gouverneur dan wel de Gouverneur van Curaçao of Sint Maarten het gewenst acht, plegen zij onderling overleg omtrent aangelegenheden waarbij het belang van het Koninkrijk is betrokken.
+
+3. Onze Minister-President of een andere minister van het Koninkrijk kan overleg voeren met de Gouverneur, de Gouverneur van Curaçao en de Gouverneur van Sint Maarten.
+
+4. Ten minste tweemaal per jaar vindt er een overleg plaats tussen de Gouverneur, de Gouverneur van Curaçao, de Gouverneur van Sint Maarten en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties omtrent aangelegenheden waarbij het belang van het Koninkrijk is betrokken. Aan dat overleg kunnen eveneens deelnemen Onze Ministers van het Koninkrijk wie de te bespreken onderwerpen aangaan.
+
+5. Indien Onze Minister-President deelneemt aan een overleg als bedoeld in het derde of vierde lid, zit hij de vergadering voor.
 
 ##### Artikel 16
 
@@ -179,7 +185,7 @@ De Gouverneur zorgt voor de afkondiging van de hem daartoe vanwege de Koning toe
 
 ##### Artikel 17
 
-1. De Gouverneur kan om gewichtige redenen de hem bevolen afkondiging of uitvoering van de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003900&artikel=16&z=1998-01-01&g=1998-01-01) bedoelde rijkswetten en algemene maatregelen van rijksbestuur opschorten en geeft hiervan terstond kennis aan de regering van het Koninkrijk.
+1. De Gouverneur kan om gewichtige redenen de hem bevolen afkondiging of uitvoering van de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003900&artikel=16&z=2010-10-10&g=2010-10-10) bedoelde rijkswetten en algemene maatregelen van rijksbestuur opschorten en geeft hiervan terstond kennis aan de regering van het Koninkrijk.
 
 2. Wanneer de afkondiging of uitvoering van een rijkswet door de Gouverneur is opgeschort, wordt hiervan door de Koning ten spoedigste mededeling gedaan aan de vertegenwoordigende lichamen van de landen.
 
