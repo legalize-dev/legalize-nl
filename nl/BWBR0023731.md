@@ -4,7 +4,7 @@ identifier: "BWBR0023731"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2010-10-10"
-last_updated: "2009-05-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023731"
 soort: "rijkswet"
@@ -51,7 +51,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 - a. Onze Minister: Onze Minister van Defensie;
 
-- b. Kustwacht: Kustwacht voor de Nederlandse Antillen en Aruba;
+- b. Kustwacht: Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
 - c. kustwachtschip: enig vaartuig door de Kustwacht gebezigd voor de uitoefening van enige bij deze rijkswet omschreven taak, dat de daarvoor vastgestelde uiterlijke kentekenen voert, dan wel duidelijk kenbaar in gebruik is bij de krijgsmacht van het Koninkrijk;
 
@@ -63,17 +63,17 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 - g. gezagvoerder: degene die aan boord van enig vaartuig of luchtvaartuig, niet zijnde een kustwachtschip of kustwachtluchtvaartuig, feitelijk het bevel voert;
 
-- h. territoriale zee: de zeewateren, vastgesteld bij of krachtens [artikel 1 van de Rijkswet uitbreiding territoriale zee van het Koninkrijk in de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0003749&artikel=1);
+- h. territoriale zee: de zeewateren, vastgesteld bij of krachtens [artikel 1 van de Rijkswet uitbreiding territoriale zee van het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0003749&artikel=1);
 
 - i. volle zee: zee als bedoeld in artikel 86 van het zeerechtverdrag;
 
-- j. binnenwateren: wateren van de Nederlandse Antillen en Aruba als bedoeld in artikel 8 van het zeerechtverdrag;
+- j. binnenwateren: wateren als bedoeld in artikel 8 van het zeerechtverdrag;
 
 - k. zeerechtverdrag: het op 10 december 1982 te Montego Bay tot stand gekomen Verdrag van de Verenigde Naties inzake het recht van de zee (Trb. 1984, 55).
 
 2. Bij of krachtens algemene maatregel van rijksbestuur, op voordracht van Onze Minister, worden regels vastgesteld met betrekking tot de uiterlijke kentekenen van kustwachtschepen en kustwachtluchtvaartuigen.
 
-3. Voor de toepassing van deze rijkswet gelden de Nederlandse Antillen en Aruba elk afzonderlijk als een rechtsgebied.
+3. Voor de toepassing van deze rijkswet gelden Nederland, Aruba, Curaçao en Sint Maarten elk afzonderlijk als een rechtsgebied.
 
 4. Het bij of krachtens deze rijkswet bepaalde met betrekking tot kustwachtschepen onderscheidenlijk vaartuigen en hun opvarenden is van overeenkomstige toepassing met betrekking tot kustwachtluchtvaartuigen onderscheidenlijk luchtvaartuigen en hun bemanningsleden.
 
@@ -81,7 +81,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ##### Artikel 2
 
-1. Er is een door Nederland, de Nederlandse Antillen en Aruba ingestelde Kustwacht voor de Nederlandse Antillen en Aruba.
+1. Er is een Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 2. De Kustwacht is belast met toezichthoudende en opsporingstaken alsmede met dienstverlenende taken, welke in ondergeschiktheid aan het bevoegd gezag worden uitgevoerd.
 
@@ -111,11 +111,11 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 De Kustwacht oefent haar taken uit in de volgende wateren en het luchtruim daarboven:
 
-- a. de binnenwateren van de Nederlandse Antillen en van Aruba,
+- a. de binnenwateren van Aruba, Curaçao en Sint Maarten alsmede van de openbare lichamen Bonaire, Sint Eustatius en Saba,
 
-- b. de territoriale zee van de Nederlandse Antillen en van Aruba, en
+- b. de territoriale zee van Aruba, Curaçao en Sint Maarten alsmede van de openbare lichamen Bonaire, Sint Eustatius en Saba, en
 
-- c. de aansluitende zone en het overige zeegebied in de Carïbische zee, behoudens het in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0023731&hoofdstuk=II&artikel=11&z=2009-05-01&g=2009-05-01) bepaalde.
+- c. de aansluitende zone en het overige zeegebied in de Carïbische zee, behoudens het in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0023731&hoofdstuk=II&artikel=11&z=2010-10-10&g=2010-10-10) bepaalde.
 
 ##### Artikel 4
 
@@ -133,7 +133,7 @@ De Kustwacht oefent haar taken uit in de volgende wateren en het luchtruim daarb
 
 1. Voor zover zulks redelijkerwijs nodig is voor de uitoefening van de toezichthoudende en opsporingstaken zijn de commandant en de door hem aangewezen opvarenden bevoegd:
 
-- a. onverminderd het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0023731&hoofdstuk=II&artikel=6&z=2009-05-01&g=2009-05-01), zich zonder toestemming toegang te verschaffen tot iedere plaats op het vaartuig;
+- a. onverminderd het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0023731&hoofdstuk=II&artikel=6&z=2010-10-10&g=2010-10-10), zich zonder toestemming toegang te verschaffen tot iedere plaats op het vaartuig;
 
 - b. plaatsen, daaronder begrepen ladingen, te doorzoeken,
 
@@ -149,7 +149,7 @@ De Kustwacht oefent haar taken uit in de volgende wateren en het luchtruim daarb
 
 ##### Artikel 6
 
-Voor zover de uitoefening van de bevoegdheid, bedoeld in [artikel 5 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023731&hoofdstuk=II&artikel=5&z=2009-05-01&g=2009-05-01), aanhef en onder a, betreft het binnentreden van een plaats in gebruik als woonverblijf, zijn de artikelen 162 en 163 van het Wetboek van Strafvordering van de Nederlandse Antillen onderscheidenlijk Aruba van overeenkomstige toepassing.
+Voor zover de uitoefening van de bevoegdheid, bedoeld in [artikel 5 eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0023731&hoofdstuk=II&artikel=5&z=2010-10-10&g=2010-10-10), betreft het binnentreden van een plaats in gebruik als woonverblijf, zijn de artikelen 162 en 163 van het Wetboek van Strafvordering van Aruba, Curaçao, onderscheidenlijk Sint Maarten van overeenkomstige toepassing.
 
 ##### Artikel 7
 
@@ -171,15 +171,15 @@ Kustwachtschepen zijn bevoegd tot uitoefening van het achtervolgingsrecht, bedoe
 
 ##### Artikel 10
 
-1. De commandant en de door hem aangewezen opvarenden zijn bevoegd om in de rechtmatige uitoefening van bevoegdheden ter uitvoering van de taken van de Kustwacht, geweld te gebruiken, wanneer het daarmee beoogde doel dit, mede gelet op aan het gebruik van geweld verbonden gevaren, rechtvaardigt en dat doel niet op een andere wijze kan worden bereikt. Aan het gebruik van geweld gaat zo mogelijk een waarschuwing vooraf.
+1. De commandant en de door hem aangewezen opvarenden zijn bevoegd om in de rechtmatige uitoefening van bevoegdheden ter uitvoering van de taken van de Kustwacht, geweld of vrijheidsbeperkende middelen te gebruiken, wanneer het daarmee beoogde doel dit, mede gelet op aan het gebruik hiervan verbonden gevaren, rechtvaardigt en dat doel niet op een andere wijze kan worden bereikt. Aan het gebruik van geweld gaat zo mogelijk een waarschuwing vooraf.
 
 2. De uitoefening van de bevoegdheid, bedoeld in het eerste lid, dient in verhouding tot het beoogde doel redelijk en gematigd te zijn.
 
-3. Bij algemene maatregel van rijksbestuur, op voordracht van Onze Minister, worden regels vastgesteld over het gebruik van geweld, bedoeld in het eerste en tweede lid.
+3. Bij algemene maatregel van rijksbestuur, op voordracht van Onze Minister, worden regels vastgesteld over het gebruik van geweld of vrijheidsbeperkende middelen, bedoeld in het eerste en tweede lid.
 
 ##### Artikel 11
 
-De bevoegdheden bij deze wet toegekend ten behoeve van de uitoefening van de in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023731&hoofdstuk=II&artikel=2&z=2009-05-01&g=2009-05-01), bedoelde taken kunnen buiten de territoriale zee van de Nederlandse Antillen en van Aruba worden uitgeoefend voorzover het volkenrecht en het interregionale recht dit toelaten.
+De bevoegdheden bij deze wet toegekend ten behoeve van de uitoefening van de in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023731&hoofdstuk=II&artikel=2&z=2010-10-10&g=2010-10-10), bedoelde taken kunnen buiten de territoriale zee van de landen van het Koninkrijk worden uitgeoefend voorzover het volkenrecht en het interregionale recht dit toelaten.
 
 ### Hoofdstuk III. Beheer, beleid en gezag
 
@@ -187,7 +187,7 @@ De bevoegdheden bij deze wet toegekend ten behoeve van de uitoefening van de in 
 
 1. Er is een kustwachtcommissie, die tot taak heeft het beleidsplan, het operationeel jaarplan, de begroting, het jaarverslag en de jaarlijkse financiële verantwoording van de Kustwacht voor te bereiden ten behoeve van de indiening door Onze Minister bij de Raad van Ministers van het Koninkrijk.
 
-2. De kustwachtcommissie is samengesteld uit ambtelijke vertegenwoordigers van de bij de taakuitoefening van de Kustwacht betrokken Ministers van Nederland, de Nederlandse Antillen en Aruba.
+2. De kustwachtcommissie is samengesteld uit ambtelijke vertegenwoordigers van de bij de taakuitoefening van de Kustwacht betrokken Ministers van Nederland, Aruba, Curaçao en Sint Maarten.
 
 3. Er is een presidium van de kustwachtcommissie. De landen zijn hierin op voet van gelijkwaardigheid vertegenwoordigd. Het presidium verricht de afstemming van de hoofdlijnen van het beleid, het beheer en de middelen. Het presidium bereidt ten behoeve van de kustwachtcommissie de in het eerste lid genoemde documenten voor en regelt het voorzitterschap.
 
@@ -197,19 +197,19 @@ De bevoegdheden bij deze wet toegekend ten behoeve van de uitoefening van de in 
 
 1. De landen van het Koninkrijk dragen gezamenlijk de financiële middelen bij ten behoeve van de Kustwacht.
 
-2. De Raad van Ministers van het Koninkrijk stelt, onverminderd [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023731&hoofdstuk=III&artikel=14&z=2009-05-01&g=2009-05-01), het beleid voor de Kustwacht met betrekking tot de uitoefening van haar taken vast.
+2. De Raad van Ministers van het Koninkrijk stelt, onverminderd [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023731&hoofdstuk=III&artikel=14&z=2010-10-10&g=2010-10-10), het beleid voor de Kustwacht met betrekking tot de uitoefening van haar taken vast.
 
-3. De Raad van Ministers van het Koninkrijk stelt daartoe de in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023731&hoofdstuk=III&artikel=12&z=2009-05-01&g=2009-05-01), genoemde documenten vast.
+3. De Raad van Ministers van het Koninkrijk stelt daartoe de in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023731&hoofdstuk=III&artikel=12&z=2010-10-10&g=2010-10-10), genoemde documenten vast.
 
-4. Onze Minister draagt, na instemming van Onze Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties, zorg voor het indienen bij de Raad van Ministers van het Koninkrijk van de in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023731&hoofdstuk=III&artikel=12&z=2009-05-01&g=2009-05-01) genoemde documenten. Onze Minister gaat niet tot indiening van de genoemde documenten over dan nadat de bij de taakuitoefening van de Kustwacht betrokken ministers van Nederland, de Nederlandse Antillen en Aruba in de gelegenheid zijn gesteld hun zienswijze daarover aan hem kenbaar te maken.
+4. Onze Minister draagt, na instemming van Onze Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties, zorg voor het indienen bij de Raad van Ministers van het Koninkrijk van de in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023731&hoofdstuk=III&artikel=12&z=2010-10-10&g=2010-10-10) genoemde documenten. Onze Minister gaat niet tot indiening van de genoemde documenten over dan nadat de bij de taakuitoefening van de Kustwacht betrokken ministers van Nederland, Aruba, Curaçao en Sint Maarten in de gelegenheid zijn gesteld hun zienswijze daarover aan hem kenbaar te maken.
 
 5. Het presidium ziet toe op de uitvoering van het beleidsplan en het in acht nemen van de begroting.
 
 ##### Artikel 14
 
-1. Onze Ministers van Justitie van Nederland, de Nederlandse Antillen en Aruba voeren regelmatig overleg over het justitieel beleid ten behoeve van de uitoefening van de taken van de Kustwacht en stellen dit beleid gezamenlijk vast.
+1. Onze Ministers van Justitie van Nederland, Aruba, Curaçao en Sint Maarten voeren regelmatig overleg over het justitieel beleid ten behoeve van de uitoefening van de taken van de Kustwacht en stellen dit beleid gezamenlijk vast.
 
-2. Voorstellen voor het justitieel beleid kunnen worden gedaan door het overleg van de procureurs-generaal van de Nederlandse Antillen en Aruba en een lid van het college van procureurs-generaal in Nederland.
+2. Voorstellen voor het justitieel beleid kunnen worden gedaan door het overleg van de procureurs-generaal van Aruba, Curaçao en Sint Maarten en een lid van het college van procureurs-generaal in Nederland.
 
 3. Bij gebrek aan overeenstemming tussen Onze Ministers van Justitie beslist de Raad van Ministers van het Koninkrijk.
 
@@ -223,13 +223,13 @@ De bevoegdheden bij deze wet toegekend ten behoeve van de uitoefening van de in 
 
 ##### Artikel 16
 
-1. Onze bij de taakuitoefening van de Kustwacht betrokken Ministers van Nederland, de Nederlandse Antillen en Aruba, dragen er zorg voor dat de directeur en het personeel van de Kustwacht toezichthoudende en opsporingsbevoegdheid wordt verleend die nodig is voor de goede uitoefening van de taken van de Kustwacht.
+1. Onze bij de taakuitoefening van de Kustwacht betrokken Ministers van Nederland, Aruba, Curaçao en Sint Maarten, dragen er zorg voor dat de directeur en het personeel van de Kustwacht toezichthoudende en opsporingsbevoegdheid wordt verleend die nodig is voor de goede uitoefening van de taken van de Kustwacht.
 
-2. De bij de taakuitoefening van de Kustwacht betrokken Ministers van Nederland, de Nederlandse Antillen en Aruba, alsmede de onder hen ressorterende diensten, verschaffen aan de directeur de inlichtingen die nodig zijn voor een goede uitoefening van de taken van de Kustwacht.
+2. De bij de taakuitoefening van de Kustwacht betrokken Ministers van Nederland, Aruba, Curaçao en Sint Maarten, alsmede de onder hen ressorterende diensten, verschaffen aan de directeur de inlichtingen die nodig zijn voor een goede uitoefening van de taken van de Kustwacht.
 
 ##### Artikel 17
 
-1. Bij landsbesluit kunnen aanwijzingen inzake de uitvoering van toezichthoudende en dienstverlenende taken worden gegeven.
+1. Bij landsbesluit kunnen aanwijzingen inzake de uitvoering van toezichthoudende en dienstverlenende taken worden gegeven. Ten aanzien van de openbare lichamen Bonaire, Sint Eustatius en Saba worden deze aanwijzingen bij algemene maatregel van bestuur vastgesteld.
 
 2. De procureur-generaal van het betrokken land kan inzake de uitvoering van opsporingstaken rechtstreeks aanwijzingen geven.
 
@@ -237,11 +237,11 @@ De bevoegdheden bij deze wet toegekend ten behoeve van de uitoefening van de in 
 
 ##### Artikel 18
 
-De Gouverneur van de Nederlandse Antillen onderscheidenlijk de Gouverneur van Aruba is bevoegd in geval van rampen, ongevallen en storingen in het verkeer of de verbindingen, welke geen samenhang vertonen met andere verstoringen van de inwendige veiligheid of de openbare orde, delen van de Kustwacht ter beschikking te stellen van de regering van de Nederlandse Antillen onderscheidenlijk van Aruba. In andere noodgevallen gebeurt zulks niet dan in overleg met Onze Minister.
+De Gouverneur van Aruba, Curaçao onderscheidenlijk Sint Maarten, dan wel het bestuurscollege van de openbare lichamen Bonaire, Sint Eustatius en Saba, is bevoegd in geval van rampen, ongevallen en storingen in het verkeer of de verbindingen, welke geen samenhang vertonen met andere verstoringen van de inwendige veiligheid of de openbare orde, delen van de Kustwacht ter beschikking te stellen van de regering van Aruba, Curaçao onderscheidenlijk Sint Maarten. In andere noodgevallen gebeurt zulks niet dan in overleg met Onze Minister.
 
 ##### Artikel 19
 
-1. De bevoegde autoriteiten van de Nederlandse Antillen en Aruba dragen zorg voor de regeling van de rechtspositie voor het Nederlands Antilliaanse en Arubaanse personeel van de Kustwacht, die onderling overeenstemmend is.
+1. De bevoegde autoriteiten van Aruba, Curaçao en Sint Maarten alsmede van de openbare lichamen Bonaire, Sint Eustatius en Saba dragen zorg voor de regeling van de rechtspositie voor het personeel van de Kustwacht, die onderling overeenstemmend is.
 
 2. Op het door Onze Minister ter beschikking gestelde personeel zijn de rechtspositieregelingen van het ministerie van Defensie van toepassing. Op het overige door Nederland beschikbaar gestelde personeel zijn de rechtspositieregelingen voor technische bijstand van toepassing.
 
@@ -259,7 +259,7 @@ De Gouverneur van de Nederlandse Antillen onderscheidenlijk de Gouverneur van Ar
 
 ##### Artikel 21
 
-1. Degene die als gezagvoerder op een vaartuig of luchtvaartuig enig teken of middel aanbrengt, doet aanbrengen of voert, wetende dat hij daardoor aan zijn vaartuig of luchtvaartuig de schijn geeft van een kustwachtschip of kustwachtluchtvaartuig, wordt gestraft met een gevangenisstraf van ten hoogste één jaar of geldboete van ten hoogste twintigduizend Nederlands-Antilliaanse guldens, onderscheidenlijk twintigduizend Arubaanse florin, onderscheidenlijk negenduizend euro.
+1. Degene die als gezagvoerder op een vaartuig of luchtvaartuig enig teken of middel aanbrengt, doet aanbrengen of voert, wetende dat hij daardoor aan zijn vaartuig of luchtvaartuig de schijn geeft van een kustwachtschip of kustwachtluchtvaartuig, wordt gestraft met een gevangenisstraf van ten hoogste één jaar of geldboete van ten hoogste twintigduizend Nederlands-Antilliaanse guldens, onderscheidenlijk twintigduizend Arubaanse florin, onderscheidenlijk negenduizend euro. Indien de geldboete wordt opgelegd door de strafrechter in de openbare lichamen Bonaire, Sint Eustatius en Saba is deze geldboete ten hoogste USD 11.173.
 
 2. Het in het eerste lid strafbaar gestelde feit is een misdrijf.
 
@@ -277,6 +277,6 @@ Deze rijkswet treedt in werking op een bij koninklijk besluit te bepalen tijdsti
 
 ##### Artikel 24
 
-Deze rijkswet wordt aangehaald als: Rijkswet Kustwacht voor de Nederlandse Antillen en Aruba.
+Deze rijkswet wordt aangehaald als: Rijkswet Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 Lasten en bevelen dat deze in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
