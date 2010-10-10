@@ -4,7 +4,7 @@ identifier: "BWBR0003896"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2010-10-10"
-last_updated: "1998-02-06"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003896"
 soort: "rijkswet"
@@ -41,23 +41,23 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ##### Artikel 1
 
-In deze rijkswet wordt verstaan onder Nederlands-Antilliaans, onderscheidenlijk Arubaans lid: het ingevolge [artikel 13, tweede lid, van het Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=13) bij koninklijk besluit benoemde lid van de Raad van State van het Koninkrijk.
+In deze rijkswet wordt verstaan onder Arubaans, Curaçaos, onderscheidenlijk Sint-Maartens lid: het ingevolge [artikel 13, tweede lid, van het Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=13) bij koninklijk besluit benoemde lid van de Raad van State van het Koninkrijk.
 
 ##### Artikel 2
 
-1. Bij landsbesluit houdende algemene maatregelen wordt de schadeloosstelling van het Nederlands-Antilliaanse, onderscheidenlijk Arubaanse lid geregeld, alsmede de aanspraak op een uitkering bij overlijden of blijvende arbeidsongeschiktheid.
+1. Bij landsbesluit houdende algemene maatregelen wordt de schadeloosstelling van het Arubaanse, Curaçaose, onderscheidenlijk Sint-Maartense lid geregeld, alsmede de aanspraak op een uitkering bij overlijden of blijvende arbeidsongeschiktheid.
 
-2. Het landsbesluit, bedoeld in het eerste lid, kan voorts regels stellen omtrent de tegemoetkoming in de noodzakelijke kosten van geneeskundige behandeling en verpleging van het Nederlands-Antilliaanse, onderscheidenlijk Arubaanse lid en de leden van zijn gezin.
+2. Het landsbesluit, bedoeld in het eerste lid, kan voorts regels stellen omtrent de tegemoetkoming in de noodzakelijke kosten van geneeskundige behandeling en verpleging van het Arubaanse, Curaçaose, onderscheidenlijk Sint-Maartense lid en de leden van zijn gezin.
 
 3. Het landsbesluit, bedoeld in het eerste lid, wordt door de Gouverneur niet vastgesteld dan nadat het gevoelen van de regering van het Koninkrijk is ingewonnen.
 
 4. Het bepaalde in het derde lid is eveneens van toepassing bij wijziging of intrekking van het landsbesluit, bedoeld in het eerste lid.
 
-5. De uitgaven voortvloeiende uit het landsbesluit, bedoeld in het eerste lid, komen ten laste van de geldmiddelen van het land de Nederlandse Antillen, onderscheidenlijk Aruba.
+5. De uitgaven voortvloeiende uit het landsbesluit, bedoeld in het eerste lid, komen ten laste van de geldmiddelen van het land Aruba, Curaçao, onderscheidenlijk Sint Maarten.
 
 ##### Artikel 3
 
-De Wet van 11 september 1964, Stb. 387, houdende vaststelling van een nieuwe regeling van de bezoldiging van de vice-president van de Raad van State en de staatsraden, alsmede van de president en de overige leden van de Algemene Rekenkamer, en de [Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791) zijn niet van toepassing op het Nederlands-Antilliaanse, onderscheidenlijk Arubaanse lid.
+De [Wet rechtspositie Raad van State, Algemene Rekenkamer en Nationale Ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0024788) en de [Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791) zijn niet van toepassing op het Arubaanse, Curaçaose, onderscheidenlijk Sint-Maartense lid.
 
 ##### Artikel 4
 
