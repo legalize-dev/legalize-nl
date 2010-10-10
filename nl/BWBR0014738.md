@@ -4,7 +4,7 @@ identifier: "BWBR0014738"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2010-10-10"
-last_updated: "2003-09-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014738"
 soort: "rijkswet"
@@ -44,7 +44,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ##### Artikel 1
 
-1. De militair, behorend tot de krijgsmacht van het Koninkrijk, in de rechtmatige uitoefening van de militaire bewakings- en beveiligingstaak is bevoegd tot gebruik van geweld wanneer het daarmee beoogde doel dit, mede gelet op de aan het gebruik van geweld verbonden gevaren, rechtvaardigt en dat doel niet op een andere wijze kan worden bereikt.
+1. De militair, behorend tot de krijgsmacht van het Koninkrijk, in de rechtmatige uitoefening van de militaire bewakings- en beveiligingstaak is bevoegd tot gebruik van geweld of vrijheidsbeperkende middelen wanneer het daarmee beoogde doel dit, mede gelet op de aan het gebruik hiervan verbonden gevaren, rechtvaardigt en dat doel niet op een andere wijze kan worden bereikt.
 
 2. Het eerste lid is van overeenkomstige toepassing op:
 
@@ -58,19 +58,19 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 3. Aanwijzing als bedoeld in het tweede lid, onderdeel b, onder 2, vindt slechts plaats ter uitvoering van een verdrag of van een besluit van een volkenrechtelijke organisatie.
 
-4. Van een aanwijzing als bedoeld in het tweede lid, onderdeel b, onder 2, wordt mededeling gedaan door plaatsing in de Staatscourant. Indien de aanwijzing betrekking heeft op militairen die hun bewakings- en beveiligingstaak in de Nederlandse Antillen onderscheidenlijk in Aruba uitoefenen wordt van de aanwijzing tevens mededeling gedaan door plaatsing in de Curaçaosche Courant onderscheidenlijk de Landscourant van Aruba.
+4. Van een aanwijzing als bedoeld in het tweede lid, onderdeel b, onder 2, wordt mededeling gedaan door plaatsing in de Staatscourant. Indien de aanwijzing betrekking heeft op militairen die hun bewakings- en beveiligingstaak in Aruba, Curaçao of Sint Maarten uitoefenen wordt van de aanwijzing tevens mededeling gedaan door plaatsing in de Landscourant van Aruba, de Curaçaose Courant onderscheidenlijk de Landscourant van Sint Maarten.
 
 ##### Artikel 2
 
-De bevoegdheid tot gebruik van geweld geldt slechts bij de bewaking en beveiliging van door Onze Minister van Defensie aangewezen objecten.
+De bevoegdheid tot gebruik van geweld of vrijheidsbeperkende middelen geldt slechts bij de bewaking en beveiliging van door Onze Minister van Defensie aangewezen objecten.
 
 ##### Artikel 3
 
-1. De uitoefening van de bevoegdheid tot gebruik van geweld dient in verhouding tot het beoogde doel redelijk en gematigd te zijn.
+1. De uitoefening van de bevoegdheid tot gebruik van geweld of vrijheidsbeperkende middelen dient in verhouding tot het beoogde doel redelijk en gematigd te zijn.
 
 2. Aan het gebruik van geweld gaat zo mogelijk een waarschuwing vooraf.
 
-3. Bij algemene maatregel van rijksbestuur worden regels vastgesteld over het gebruik van geweld, bedoeld in het eerste en tweede lid.
+3. Bij algemene maatregel van rijksbestuur worden regels vastgesteld over het gebruik van geweld of vrijheidsbeperkende middelen, bedoeld in het eerste en tweede lid.
 
 ##### Artikel 4
 
@@ -80,9 +80,9 @@ De [Rijkswet geweldgebruik defensiepersoneel in de uitoefening van de bewakings-
 
 Na de inwerkingtreding van deze wet berust:
 
-- a. het [Besluit geweldgebruik defensiepersoneel in de uitoefening van de bewakings- en beveiligingstaak](https://wetten.overheid.nl/jci1.3:c:BWBR0011530) op [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014738&artikel=3&z=2003-09-01&g=2003-09-01), van deze wet;
+- a. het [Besluit geweldgebruik defensiepersoneel in de uitoefening van de bewakings- en beveiligingstaak](https://wetten.overheid.nl/jci1.3:c:BWBR0011530) op [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014738&artikel=3&z=2010-10-10&g=2010-10-10), van deze wet;
 
-- b. het [Rijksbesluit houdende aanwijzing van te bewaken en te beveiligen objecten](https://wetten.overheid.nl/jci1.3:c:BWBR0011635) op [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014738&artikel=2&z=2003-09-01&g=2003-09-01) van deze wet.
+- b. het [Rijksbesluit houdende aanwijzing van te bewaken en te beveiligen objecten](https://wetten.overheid.nl/jci1.3:c:BWBR0011635) op [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014738&artikel=2&z=2010-10-10&g=2010-10-10) van deze wet.
 
 ##### Artikel 6
 
