@@ -181,9 +181,3 @@ Dit besluit treedt in werking op het tijdstip waarop [artikel I, eerste lid, van
 Dit besluit wordt aangehaald als: Rijksbesluit rechtspositie Gouverneur van Curaçao en Gouverneur van Sint Maarten.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst.
-
-##### Artikel 1a
-
-De Gouverneur is niet tevens waarnemend Gouverneur van een ander land binnen het Koninkrijk.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst.
