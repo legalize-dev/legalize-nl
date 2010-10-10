@@ -4,7 +4,7 @@ identifier: "BWBR0001999"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2025-07-01"
-last_updated: "2006-01-01"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001999"
 soort: "rijkswet"
@@ -46,23 +46,25 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 - a. "Onze Ministers": Onze Ministers van Verkeer en Waterstaat en van Financiën;
 
-- b. "zeeschepen": zeeschepen in de zin van artikel 8.1.2, eerste lid, van het Nederlandse Burgerlijk Wetboek alsmede zodanige schepen in aanbouw.
+- b. "zeeschepen": zeeschepen in de zin van [artikel 2, eerste lid, van boek 8 van het Nederlandse Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=2) alsmede zodanige schepen in aanbouw.
 
 - c. "Nederlandsche zeeschepen": die, welke de Nederlandsche nationaliteit bezitten ingevolge [artikel 311](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=311) of [312 van het Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=312);
 
-- d. Nederlands-Antilliaanse zeeschepen op grond van [artikel 2 van het Nederlands-Antilliaans Zeebrievenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005943&artikel=2);
+- d. Curaçaose zeeschepen: zeeschepen die op grond van voor Curaçao geldende rechtsregels de Curaçaose nationaliteit bezitten;
 
-- e. Arubaanse schepen op grond van de artikelen 3 en 5 van het Curaçaosche Zeebrievenbesluit 1933;
+- e. Sint Maartense zeeschepen: zeeschepen die op grond van voor Sint Maarten geldende rechtsregels de Sint Maartense nationaliteit bezitten;
 
-- f. "luchtvaartuig": wat daaronder wordt verstaan in [artikel 1 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=1);
+- f. Arubaanse schepen op grond van de artikelen 3 en 5 van het Curaçaosche Zeebrievenbesluit 1933;
 
-- g. "Nederlandsch luchtvaartuig": ieder luchtvaartuig, dat door of vanwege het bevoegd gezag is ingeschreven in een binnen het Koninkrijk gehouden luchtvaartuigregister;
+- g. "luchtvaartuig": wat daaronder wordt verstaan in [artikel 1 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=1);
 
-- h. "Nederlandsch verzekeraar": ieder verzekeraar, wiens hoofdkantoor in het Koninkrijk is gevestigd.
+- h. "Nederlandsch luchtvaartuig": ieder luchtvaartuig, dat door of vanwege het bevoegd gezag is ingeschreven in een binnen het Koninkrijk gehouden luchtvaartuigregister;
 
-2. Voor de toepassing van deze wet worden met zeeschepen gelijkgesteld de binnenschepen in de zin van artikel 8.1.3, eerste lid, van het Nederlandse Burgerlijk Wetboek.
+- i. "Nederlandsch verzekeraar": ieder verzekeraar, wiens hoofdkantoor in het Koninkrijk is gevestigd.
 
-3. Voor de toepassing van deze wet worden met Nederlandse zeeschepen gelijk gesteld de in het tweede lid bedoelde binnenschepen, die voldoen aan ten minste één der in het eerste lid van artikel 8.8.2.5 van het Nederlandse Burgerlijk Wetboek genoemde voorwaarden.
+2. Voor de toepassing van deze wet worden met zeeschepen gelijkgesteld de binnenschepen in de zin van [artikel 3, eerste lid, van boek 8 van het Nederlandse Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=3).
+
+3. Voor de toepassing van deze wet worden met Nederlandse zeeschepen gelijk gesteld de in het tweede lid bedoelde binnenschepen, die voldoen aan ten minste één der in het eerste lid van [artikel 784 van boek 8 van het Nederlandse Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=784) genoemde voorwaarden.
 
 ##### Artikel 2
 
@@ -76,7 +78,7 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 2. Bedoelde herverzekeringsovereenkomsten kunnen uitsluitend betreffen:
 
-- a. Nederlandse, Nederlands-Antilliaanse en Arubaanse zeeschepen;
+- a. Nederlandse, Curaçaose, Sint Maartense en Arubaanse zeeschepen;
 
 - b. Nederlandsche luchtvaartuigen;
 
@@ -106,17 +108,17 @@ Bij de in het voorgaande artikel bedoelde herverzekering zullen gelden de volgen
 
 - d. alle rechten, welke de oorspronkelijke verzekeraar met betrekking tot de geabandonneerde goederen na het abandonnement tegen derden verkrijgt.
 
-- 4°. de voorrechten, onder 1° en onder 3°, gaan in rang boven pandrecht en alle andere voorrechten, met dien verstande, dat het voorrecht onder 3° met betrekking tot zeeschepen rang neemt na de voorrechten, vermeld in artikel 8.3.3.2 van het Nederlandse Burgerlijk Wetboek, en de voor het abandonnement gevestigde hypotheken en met betrekking tot lading na de voorrechten, vermeld in artikel 8.3.4.2 van het Nederlandse Burgerlijk Wetboek. De Staat der Nederlanden vervolgt zijn recht op een zeeschip, in wiens handen zich dit ook bevindt. De voorrechten, onder 1° en 3°, omvatten interessen en kosten;
+- 4°. de voorrechten, onder 1° en onder 3°, gaan in rang boven pandrecht en alle andere voorrechten, met dien verstande, dat het voorrecht onder 3° met betrekking tot zeeschepen rang neemt na de voorrechten, vermeld in [artikel 211 van boek 8 van het Nederlandse Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=211), en de voor het abandonnement gevestigde hypotheken en met betrekking tot lading na de voorrechten, vermeld in [artikel 222 van boek 8 van het Nederlandse Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=222). De Staat der Nederlanden vervolgt zijn recht op een zeeschip, in wiens handen zich dit ook bevindt. De voorrechten, onder 1° en 3°, omvatten interessen en kosten;
 
 - 5°. op straffe van nietigheid kunnen de hierboven onder 1° en onder 3° bedoelde, bij voorrecht ten behoeve van de oorspronkelijke verzekerde of van de Staat der Nederlanden verbonden vorderingen, voorwerpen en rechten niet zonder medewerking van deze worden vervreemd of met zakelijke rechten worden belast.
 
 ##### Artikel 4
 
-1. Indien Nederlandse, Nederlands-Antilliaanse of Arubaanse belanghebbenden bij Nederlandse, Nederlands-Antilliaanse of Arubaanse zeeschepen of luchtvaartuigen, dan wel bij goederen, als bedoeld in [artikel 2, lid 2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0001999&artikel=2&z=2006-01-01&g=2006-01-01), niet tegen een redelijke premie voldoende dekking kunnen vinden tegen het gevaar van molest, dan wel tegen de gewone transportgevaren, zijn Onze Ministers - in gevallen, waarin naar hun oordeel het algemeen belang zulks vordert - gemachtigd ten opzichte van de vorenbedoelde zeeschepen, luchtvaartuigen en goederen op voorwaarden en tegen premiën, als door hen te bepalen, voor den Staat der Nederlanden, als verzekeraar verzekeringsovereenkomsten tegen vorenbedoelde gevaren aan te gaan.
+1. Indien Nederlandse, Curaçaose, Sint Maartense of Arubaanse belanghebbenden bij Nederlandse, Curaçaose, Sint Maartense of Arubaanse zeeschepen of luchtvaartuigen, dan wel bij goederen, als bedoeld in [artikel 2, lid 2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0001999&artikel=2&z=2010-10-10&g=2010-10-10), niet tegen een redelijke premie voldoende dekking kunnen vinden tegen het gevaar van molest, dan wel tegen de gewone transportgevaren, zijn Onze Ministers - in gevallen, waarin naar hun oordeel het algemeen belang zulks vordert - gemachtigd ten opzichte van de vorenbedoelde zeeschepen, luchtvaartuigen en goederen op voorwaarden en tegen premiën, als door hen te bepalen, voor den Staat der Nederlanden, als verzekeraar verzekeringsovereenkomsten tegen vorenbedoelde gevaren aan te gaan.
 
 De hiervoor bedoelde machtiging tot het aangaan van verzekeringsovereenkomsten tegen het gevaar van molest dan wel tegen de gewone transportgevaren geldt mede ten aanzien van belangen, welke samenhangen met de exploitatie van Nederlandse zeeschepen of luchtvaartuigen of met het vervoeren van de hiervoor bedoelde goederen.
 
-2. Zeeschepen, als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001999&artikel=1&z=2006-01-01&g=2006-01-01), en luchtvaartuigen, welke ingevolge wettelijk voorschrift worden gevorderd, zullen in omstandigheden, als in lid 1 bedoeld, steeds door Onze Ministers worden verzekerd.
+2. Zeeschepen, als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001999&artikel=1&z=2010-10-10&g=2010-10-10), en luchtvaartuigen, welke ingevolge wettelijk voorschrift worden gevorderd, zullen in omstandigheden, als in lid 1 bedoeld, steeds door Onze Ministers worden verzekerd.
 
 ##### Artikel 5
 
@@ -124,7 +126,7 @@ Onze Ministers worden voorts gemachtigd de ingevolge deze wet voor den Staat der
 
 ##### Artikel 6
 
-De uit deze wet voortvloeiende baten en lasten zullen over Nederland, de Nederlandse Antillen en Aruba worden verdeeld volgens regelen door Ons te stellen.
+De uit deze wet voortvloeiende baten en lasten zullen over Nederland, Aruba, Curaçao en Sint Maarten worden verdeeld volgens regelen door Ons te stellen.
 
 ##### Artikel 7
 
