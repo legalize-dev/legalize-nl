@@ -301,17 +301,3 @@ Dit besluit treedt in werking op het tijdstip waarop [artikel I, tweede lid, van
 Dit besluit wordt aangehaald als: Besluit uitvoering Wet arbeid vreemdelingen BES.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 8a
-
-Het verbod, bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028437&artikel=2) is niet van toepassing in het openbaar lichaam Saba met betrekking tot de vreemdeling die onderwijs geeft op een instelling als bedoeld in [artikel 1, onderdeel g, van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=1).
-
-#### § 4. Voorschriften
-
-#### § 5. Aanvullende weigeringsgronden
-
-#### § 6. Bijzondere categorieën
-
-#### § 7. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
