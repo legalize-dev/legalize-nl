@@ -4,7 +4,7 @@ identifier: "BWBR0005431"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2010-10-10"
-last_updated: "1992-04-23"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005431"
 soort: "rijkswet"
@@ -54,11 +54,11 @@ Zo waarlijk helpe Mij God almachtig!"
 
 ##### Artikel 2
 
-Nadat de Koning de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005431&artikel=1&z=1992-04-23&g=1992-04-23) bedoelde eed of belofte heeft afgelegd, spreekt de voorzitter namens de Staten-Generaal, de Staten van de Nederlandse Antillen en de Staten van Aruba de volgende plechtige verklaring uit:
+Nadat de Koning de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005431&artikel=1&z=2010-10-10&g=2010-10-10) bedoelde eed of belofte heeft afgelegd, spreekt de voorzitter namens de Staten-Generaal, de Staten van Aruba, de Staten van Curaçao en de Staten van Sint Maarten de volgende plechtige verklaring uit:
 
 "Wij ontvangen en huldigen, in naam van de volkeren van het Koninkrijk en krachtens het Statuut voor het Koninkrijk en de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840), U als Koning; Wij zweren (beloven) dat wij Uw onschendbaarheid en de rechten van Uw Koningschap zullen handhaven.
 
-Wij zweren (beloven) alles te zullen doen wat goede en getrouwe Staten-Generaal, Staten van de Nederlandse Antillen en Staten van Aruba schuldig zijn te doen.
+Wij zweren (beloven) alles te zullen doen wat goede en getrouwe Staten-Generaal, Staten van Aruba, Staten van Curaçao en Staten van Sint Maarten schuldig zijn te doen.
 
 Zo waarlijk helpe ons God almachtig!"
 
@@ -66,13 +66,13 @@ Zo waarlijk helpe ons God almachtig!"
 
 ##### Artikel 3
 
-Na het uitspreken van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005431&artikel=2&z=1992-04-23&g=1992-04-23) bedoelde plechtige verklaring wordt deze door de voorzitter en elk der leden, hoofd voor hoofd, beëdigd of bevestigd.
+Na het uitspreken van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005431&artikel=2&z=2010-10-10&g=2010-10-10) bedoelde plechtige verklaring wordt deze door de voorzitter en elk der leden, hoofd voor hoofd, beëdigd of bevestigd.
 
 ##### Artikel 4
 
-1. De Staten van de Nederlandse Antillen en de Staten van Aruba vaardigen elk één of meer gedelegeerden af, die de verenigde vergadering als bedoeld in [artikel 32 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=32) bijwonen.
+1. De Staten van Aruba, de Staten van Curaçao en de Staten van Sint Maarten vaardigen elk één of meer gedelegeerden af, die de verenigde vergadering als bedoeld in [artikel 32 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=32) bijwonen.
 
-2. Op de in het eerste lid bedoelde gedelegeerden is [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005431&artikel=3&z=1992-04-23&g=1992-04-23) van overeenkomstige toepassing.
+2. Op de in het eerste lid bedoelde gedelegeerden is [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005431&artikel=3&z=2010-10-10&g=2010-10-10) van overeenkomstige toepassing.
 
 ##### Artikel 5
 
