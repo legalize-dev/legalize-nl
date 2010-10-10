@@ -4,7 +4,7 @@ identifier: "BWBR0004613"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-01"
-last_updated: "2006-09-30"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004613"
 soort: "AMvB"
@@ -82,7 +82,7 @@ Als werknemer in de zin van de werknemersverzekeringen wordt beschouwd de Nederl
 
 ##### Artikel 4b
 
-1. Als werknemer in de zin van de werknemersverzekeringen wordt beschouwd de Nederlander, voorzover niet reeds begrepen onder [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=4a&z=2006-09-30&g=2006-09-30), die uit hoofde van een dienstbetrekking met een Nederlands publiekrechtelijke rechtspersoon buiten Nederland arbeid verricht ten behoeve van die rechtspersoon, tenzij hij:
+1. Als werknemer in de zin van de werknemersverzekeringen wordt beschouwd de Nederlander, voorzover niet reeds begrepen onder [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=4a&z=2010-10-10&g=2010-10-10), die uit hoofde van een dienstbetrekking met een Nederlands publiekrechtelijke rechtspersoon buiten Nederland arbeid verricht ten behoeve van die rechtspersoon, tenzij hij:
 
 - a. ten tijde van aanwerving niet in Nederland woonde;
 
@@ -92,7 +92,7 @@ Als werknemer in de zin van de werknemersverzekeringen wordt beschouwd de Nederl
 
 - d. werkzaam is bij een door Onze Minister, Onze Minister van Volksgezondheid, Welzijn en Sport en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties aan te wijzen volkenrechtelijke organisatie en op hem een regeling inzake sociale zekerheid van die organisatie van toepassing is.
 
-2. In afwijking van het eerste lid, onderdeel b, wordt als werknemer in de zin van de werknemersverzekeringen beschouwd de Nederlander die in dienst is van een publiekrechtelijke rechtspersoon op de Nederlandse Antillen of Aruba mits hij door de Nederlandse overheid is uitgezonden.
+2. In afwijking van het eerste lid, onderdeel b, wordt als werknemer in de zin van de werknemersverzekeringen beschouwd de Nederlander die in dienst is van een publiekrechtelijke rechtspersoon in Aruba, Curaçao, Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius of Saba mits hij door de Nederlandse overheid is uitgezonden.
 
 ##### Artikel 4c
 
@@ -154,13 +154,13 @@ In afwijking van de eerste zin worden de daar genoemde leden en particuliere bed
 
 1. Als werknemer in de zin van de werknemersverzekeringen wordt niet beschouwd de persoon die:
 
-- a. gevolmachtigd Minister van de Nederlandse Antillen of gevolmachtigd Minister van Aruba is, of
+- a. gevolmachtigd Minister van Aruba, gevolmachtigd Minister van Curaçao of gevolmachtigd Minister van Sint Maarten is, of
 
 - b. als ambtenaar is toegevoegd aan een van de in onderdeel **a** bedoelde personen, of
 
-- c. als ambtenaar van de Nederlandse Antillen, Aruba of een publiekrechtelijke rechtspersoon van een van beide landen in Nederland een studie-opdracht vervult,
+- c. als ambtenaar van Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius of Saba of een publiekrechtelijk rechtspersoon van een van de drie landen of openbare lichamen in Nederland een studie-opdracht vervult,
 
-mits hij is verzekerd tegen geldelijke gevolgen van langdurige arbeidsongeschiktheid en werkloosheid op grond van een in de Nederlandse Antillen of in Aruba geldende wettelijke regeling.
+mits hij is verzekerd tegen geldelijke gevolgen van langdurige arbeidsongeschiktheid en werkloosheid op grond van een in Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba geldende wettelijke regeling.
 
 2. Het eerste lid geldt slechts ter zake van de dienstbetrekking waarin een in dat lid genoemde functie wordt uitgeoefend.
 
@@ -188,7 +188,7 @@ Als werknemer in de zin van de werknemersverzekeringen wordt niet beschouwd dege
 
 ##### Artikel 14
 
-1. Als werknemer in de zin van de werknemersverzekeringen wordt niet beschouwd degene, anders dan bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=7&z=2006-09-30&g=2006-09-30), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=8&z=2006-09-30&g=2006-09-30) of [12](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=12&z=2006-09-30&g=2006-09-30), die buiten Nederland woont, in dienst is van een buiten Nederland wonende of gevestigde werkgever en tijdelijk in Nederland werkzaam is, indien bij de aanvang van zijn werkzaamheden kan worden aangenomen, dat deze niet langer dan zes maanden, gerekend vanaf de aanvang van die werkzaamheden, in Nederland zullen worden verricht.
+1. Als werknemer in de zin van de werknemersverzekeringen wordt niet beschouwd degene, anders dan bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=7&z=2010-10-10&g=2010-10-10), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=8&z=2010-10-10&g=2010-10-10) of [12](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=12&z=2010-10-10&g=2010-10-10), die buiten Nederland woont, in dienst is van een buiten Nederland wonende of gevestigde werkgever en tijdelijk in Nederland werkzaam is, indien bij de aanvang van zijn werkzaamheden kan worden aangenomen, dat deze niet langer dan zes maanden, gerekend vanaf de aanvang van die werkzaamheden, in Nederland zullen worden verricht.
 
 2. Onze Minister is bevoegd in bepaalde gevallen van het eerste lid en de aldaar genoemde termijn af te wijken. Een buiten Nederland doorgebrachte verlofperiode geldt niet als onderbreking van zowel de termijn, genoemd in het eerste lid, als de termijn, vastgesteld na toepassing van de eerste volzin.
 
