@@ -4,7 +4,7 @@ identifier: "BWBR0011049"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-11-14"
-last_updated: "2005-12-29"
+last_updated: "2010-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011049"
 soort: "AMvB"
@@ -110,43 +110,43 @@ In afwijking van [artikel 7b, eerste lid, van de Algemene Kinderbijslagwet](http
 
 ##### Artikel 8. Recht op ziekengeld op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
 
-In afwijking van [artikel 19a, eerste lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=19a) heeft de verzekerde, bedoeld in dat artikel, recht op ziekengeld indien deze verzekerde op de Nederlandse Antillen woont.
+In afwijking van [artikel 19a, eerste lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=19a) heeft de verzekerde, bedoeld in dat artikel, recht op ziekengeld indien deze verzekerde in Curaçao, Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius of Saba woont.
 
 ##### Artikel 9. Recht op toekenning van arbeidsongeschiktheidsuitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
 
-In afwijking van de [artikelen 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=20), en [43b, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=43b), heeft de verzekerde, bedoeld in die artikelen, recht op toekenning van arbeidsongeschiktheidsuitkering dan wel wordt de arbeidsongeschiktheidsuitkering niet ingetrokken, indien deze verzekerde op de Nederlandse Antillen woont.
+In afwijking van de [artikelen 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=20), en [43b, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=43b), heeft de verzekerde, bedoeld in die artikelen, recht op toekenning van arbeidsongeschiktheidsuitkering dan wel wordt de arbeidsongeschiktheidsuitkering niet ingetrokken, indien deze verzekerde in Curaçao, Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius of Saba woont.
 
 ##### Artikel 10. Recht op arbeidsongeschiktheidsuitkering op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656)
 
-In afwijking van de [artikelen 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=7a), en [19a, eerste lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=19a), heeft de verzekerde, bedoeld in die artikelen, recht op arbeidsongeschiktheidsuitkering dan wel eindigt het recht op arbeidsongeschiktheidsuitkering niet, indien deze verzekerde op de Nederlandse Antillen woont.
+In afwijking van de [artikelen 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=7a), en [19a, eerste lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=19a), heeft de verzekerde, bedoeld in die artikelen, recht op arbeidsongeschiktheidsuitkering dan wel eindigt het recht op arbeidsongeschiktheidsuitkering niet, indien deze verzekerde in Curaçao, Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius of Saba woont.
 
 ##### Artikel 11. Recht op toeslag en de hoogte van het bruto-ouderdomspensioen op grond van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
 
-1. In afwijking van [artikel 8a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=8a), heeft de pensioengerechtigde, bedoeld in [artikel 8, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=8), recht op een toeslag, indien deze pensioengerechtigde op de Nederlandse Antillen woont.
+1. In afwijking van [artikel 8a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=8a), heeft de pensioengerechtigde, bedoeld in [artikel 8, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=8), recht op een toeslag, indien deze pensioengerechtigde in Curaçao, Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius of Saba woont.
 
-2. In afwijking van [artikel 9a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=9a), heeft de pensioengerechtigde, bedoeld in [artikel 9, eerste lid, onderdelen a en c, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=9), recht op ouderdomspensioen alsof hij in Nederland woont, indien hij op de Nederlandse Antillen woont.
+2. In afwijking van [artikel 9a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=9a), heeft de pensioengerechtigde, bedoeld in [artikel 9, eerste lid, onderdelen a en c, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=9), recht op ouderdomspensioen alsof hij in Nederland woont, indien hij in Curaçao, Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius of Saba woont.
 
 ##### Artikel 12. Recht op kinderbijslag op grond van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368)
 
-In afwijking van [artikel 7b, eerste lid, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7b), heeft de verzekerde, bedoeld in dat artikel, recht op kinderbijslag, indien hij dan wel het eigen kind, het aangehuwde kind of het pleegkind op de Nederlandse Antillen woont dan wel in Nederland, of een land waarin op grond van een verdrag of een besluit van een volkenrechtelijke organisatie recht op kinderbijslag kan bestaan.
+In afwijking van [artikel 7b, eerste lid, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7b), heeft de verzekerde, bedoeld in dat artikel, recht op kinderbijslag, indien hij dan wel het eigen kind, het aangehuwde kind of het pleegkind in Curaçao, Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius of Saba woont dan wel in Nederland, of een land waarin op grond van een verdrag of een besluit van een volkenrechtelijke organisatie recht op kinderbijslag kan bestaan.
 
 ##### Artikel 13. Recht op nabestaandenuitkering, halfwezenuitkering en wezenuitkering op grond van de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
 
 1. In afwijking van [artikel 32a, eerste lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=32a), ontstaat voor:
 
-- a. de nabestaande, bedoeld in dat artikel, recht op nabestaandenuitkering, indien de nabestaande op de Nederlandse Antillen woont;
+- a. de nabestaande, bedoeld in dat artikel, recht op nabestaandenuitkering, indien de nabestaande in Curaçao, Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius of Saba woont;
 
-- b. de nabestaande, bedoeld in dat artikel, recht op halfwezenuitkering, indien de nabestaande of de halfwees op de Nederlandse Antillen woont dan wel in Nederland, of een land waarin op grond van een verdrag of een besluit van een volkenrechtelijke organisatie recht op halfwezenuitkering kan bestaan;
+- b. de nabestaande, bedoeld in dat artikel, recht op halfwezenuitkering, indien de nabestaande of de halfwees in Curaçao, Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius of Saba woont dan wel in Nederland, of een land waarin op grond van een verdrag of een besluit van een volkenrechtelijke organisatie recht op halfwezenuitkering kan bestaan;
 
-- c. het kind, bedoeld in dat artikel, recht op wezenuitkering, indien het kind op de Nederlandse Antillen woont.
+- c. het kind, bedoeld in dat artikel, recht op wezenuitkering, indien het kind in Curaçao, Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius of Saba woont.
 
 2. In afwijking van [artikel 32b, eerste lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=32b), eindigt het recht op:
 
-- a. nabestaandenuitkering niet, indien de nabestaande op de Nederlandse Antillen woont;
+- a. nabestaandenuitkering niet, indien de nabestaande in Curaçao, Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius of Saba woont;
 
-- b. halfwezenuitkering niet, indien de nabestaande of de halfwees op de Nederlandse Antillen woont dan wel in Nederland, of een land waarin op grond van een verdrag of een besluit van een volkenrechtelijke organisatie recht op halfwezenuitkering kan bestaan;
+- b. halfwezenuitkering niet, indien de nabestaande of de halfwees in Curaçao, Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius of Saba woont dan wel in Nederland, of een land waarin op grond van een verdrag of een besluit van een volkenrechtelijke organisatie recht op halfwezenuitkering kan bestaan;
 
-- c. wezenuitkering niet, indien het kind op de Nederlandse Antillen woont.
+- c. wezenuitkering niet, indien het kind in Curaçao, Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius of Saba woont.
 
 ### Hoofdstuk 4. Recht op uitkering op Aruba
 
@@ -194,15 +194,15 @@ In afwijking van [artikel 7b, eerste lid, van de Algemene Kinderbijslagwet](http
 
 ##### Artikel 20. Tijdelijk recht op uitkering op de Nederlandse Antillen
 
-1. [Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011049&hoofdstuk=3&z=2005-12-29&g=2005-12-29) vervalt op een bij koninklijk besluit te bepalen tijdstip, welk tijdstip in ieder geval niet eerder ligt dan drie jaar na inwerkingtreding van dit besluit.
+1. [Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011049&hoofdstuk=3&z=2010-10-10&g=2010-10-10) vervalt op een bij koninklijk besluit te bepalen tijdstip, welk tijdstip in ieder geval niet eerder ligt dan drie jaar na inwerkingtreding van dit besluit.
 
-2. [Dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0011049&hoofdstuk=5&artikel=20&z=2005-12-29&g=2005-12-29) vervalt op een bij koninklijk besluit te bepalen tijdstip.
+2. [Dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0011049&hoofdstuk=5&artikel=20&z=2010-10-10&g=2010-10-10) vervalt op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 21. Tijdelijk recht op uitkering op Aruba
 
-1. [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011049&hoofdstuk=4&z=2005-12-29&g=2005-12-29) vervalt op een bij koninklijk besluit te bepalen tijdstip, welk tijdstip in ieder geval niet eerder ligt dan drie jaar na inwerkingtreding van dit besluit.
+1. [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011049&hoofdstuk=4&z=2010-10-10&g=2010-10-10) vervalt op een bij koninklijk besluit te bepalen tijdstip, welk tijdstip in ieder geval niet eerder ligt dan drie jaar na inwerkingtreding van dit besluit.
 
-2. [Dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0011049&hoofdstuk=5&artikel=21&z=2005-12-29&g=2005-12-29) vervalt op een bij koninklijk besluit te bepalen tijdstip.
+2. [Dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0011049&hoofdstuk=5&artikel=21&z=2010-10-10&g=2010-10-10) vervalt op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 22. Inwerkingtreding
 
@@ -224,7 +224,7 @@ In afwijking van [artikel 43, aanhef en onderdeel e](https://wetten.overheid.nl/
 
 ##### Artikel 9a. Recht op uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
 
-In afwijking van [artikel 43, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=43), in samenhang met [paragraaf 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&paragraaf=6.1) of [7.1 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&paragraaf=7.1), ontstaat of herleeft het recht op een uitkering op grond van die wet dan wel eindigt een dergelijke uitkering niet, indien de verzekerde op de Nederlandse Antillen woont.
+In afwijking van [artikel 43, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=43), in samenhang met [paragraaf 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&paragraaf=6.1) of [7.1 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&paragraaf=7.1), ontstaat of herleeft het recht op een uitkering op grond van die wet dan wel eindigt een dergelijke uitkering niet, indien de verzekerde in Curaçao, Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius of Saba woont.
 
 ### Hoofdstuk 4. Recht op uitkering op Aruba
 
