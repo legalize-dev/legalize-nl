@@ -4,7 +4,7 @@ identifier: "BWBR0028317"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2011-01-01"
-last_updated: "2010-10-10"
+last_updated: "2010-10-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028317"
 soort: "wet-BES"
@@ -67,7 +67,7 @@ entry_into_force: "2010-12-16"
 
 ##### Artikel 3
 
-1. Bij veroordeling van de bestuurder van een motorrijtuig wegens overtreding van het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028317&artikel=5&z=2010-10-10&g=2010-10-10) van deze wet, of wegens een feit, waarvan de staat van dronkenschap een wettelijk bestanddeel is, of wegens het veroorzaken van de dood of lichamelijk letsel door schuld, of wegens het plegen van, poging tot, of medeplichtigheid aan enig misdrijf tegen het leven gericht, zware mishandeling, mishandeling de dood of zwaar lichamelijk letsel ten gevolge hebbende, deelneming aan een aanval of vechterij, enig misdrijf tegen de zeden, diefstal, stroperij, afpersing, afdreiging, verduistering, bedrog, of enig misdrijf, waarvan geweld of bedreiging met geweld een wettelijk bestanddeel is, kan hem de bevoegdheid motorrijtuigen te besturen worden ontzegd voor het leven, dan wel tijdelijk voor ten hoogste 20 jaren.
+1. Bij veroordeling van de bestuurder van een motorrijtuig wegens overtreding van het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028317&artikel=5&z=2010-10-10&g=2010-10-11) van deze wet, of wegens een feit, waarvan de staat van dronkenschap een wettelijk bestanddeel is, of wegens het veroorzaken van de dood of lichamelijk letsel door schuld, of wegens het plegen van, poging tot, of medeplichtigheid aan enig misdrijf tegen het leven gericht, zware mishandeling, mishandeling de dood of zwaar lichamelijk letsel ten gevolge hebbende, deelneming aan een aanval of vechterij, enig misdrijf tegen de zeden, diefstal, stroperij, afpersing, afdreiging, verduistering, bedrog, of enig misdrijf, waarvan geweld of bedreiging met geweld een wettelijk bestanddeel is, kan hem de bevoegdheid motorrijtuigen te besturen worden ontzegd voor het leven, dan wel tijdelijk voor ten hoogste 20 jaren.
 
 2. Bij veroordeling van de bestuurder wegens een feit met een motorrijtuig gepleegd, als omschreven in enige eilandsverordening tot regeling van het wegverkeer of wegens een der feiten in het eerste of vierde lid van [artikel 313](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=313) of in [artikel 439 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=439) omschreven, kan hem de bevoegdheid motorrijtuigen te besturen voor ten hoogste vier jaren worden ontzegd.
 
