@@ -4,7 +4,7 @@ identifier: "BWBR0028586"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2018-08-01"
-last_updated: "2010-10-10"
+last_updated: "2010-10-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028586"
 soort: "wet-BES"
@@ -49,11 +49,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **algemeen commandant:** degene die op grond van [artikel 27, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=27&z=2010-10-10&g=2010-10-10), belast is met de dagelijkse leiding over het brandweerkorps;
+- **algemeen commandant:** degene die op grond van [artikel 27, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=27&z=2010-10-10&g=2010-10-11), belast is met de dagelijkse leiding over het brandweerkorps;
 
 - **ambtenaar van politie:** ambtenaar van politie als bedoeld in [artikel 3 van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3);
 
-- **brandweerkorps:** brandweerkorps als bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=27&z=2010-10-10&g=2010-10-10);
+- **brandweerkorps:** brandweerkorps als bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=27&z=2010-10-10&g=2010-10-11);
 
 - **buitengewoon agent van politie:** buitengewoon agent van politie als bedoeld in [artikel 10 van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=10);
 
@@ -65,13 +65,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **hoofdofficier van justitie:** de hoofdofficier van justitie, bedoeld in [artikel 7, eerste lid, van de Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028072&artikel=7);
 
-- **korpsbeheerder brandweer:** degene bij wie op grond van [artikel 27, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=27&z=2010-10-10&g=2010-10-10), het beheer van het brandweerkorps berust;
+- **korpsbeheerder brandweer:** degene bij wie op grond van [artikel 27, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=27&z=2010-10-10&g=2010-10-11), het beheer van het brandweerkorps berust;
 
 - **korpsbeheerder politie:** degene bij wie op grond van [artikel 47, derde lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=47) het beheer van het politiekorps berust;
 
 - **korpschef:** de korpschef, bedoeld in [artikel 6 van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=6);
 
-- **lokaal commandant:** degene die op grond van [artikel 27, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=27&z=2010-10-10&g=2010-10-10), onder het gezag van de algemeen commandant belast is met de dagelijkse leiding over een vestiging van het brandweerkorps;
+- **lokaal commandant:** degene die op grond van [artikel 27, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=27&z=2010-10-10&g=2010-10-11), onder het gezag van de algemeen commandant belast is met de dagelijkse leiding over een vestiging van het brandweerkorps;
 
 - **Onze Minister:** Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
@@ -205,7 +205,7 @@ De Rijksvertegenwoordiger geeft, indien een ordeverstoring van boveneilandelijke
 
 ##### Artikel 13
 
-1. Ten behoeve van de toepassing van de [artikelen 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=2&paragraaf=2&artikel=10&z=2010-10-10&g=2010-10-10), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=2&paragraaf=3&artikel=12&z=2010-10-10&g=2010-10-10) verstrekken de gezaghebbers, de Rijksvertegenwoordiger en Onze Minister elkaar de gewenste inlichtingen.
+1. Ten behoeve van de toepassing van de [artikelen 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=2&paragraaf=2&artikel=10&z=2010-10-10&g=2010-10-11), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=2&paragraaf=3&artikel=12&z=2010-10-10&g=2010-10-11) verstrekken de gezaghebbers, de Rijksvertegenwoordiger en Onze Minister elkaar de gewenste inlichtingen.
 
 2. Onze Minister kan regels geven ter uitvoering van het eerste lid.
 
@@ -245,7 +245,7 @@ Bij regeling van Onze Minister worden regels gesteld over de kleding van de poli
 
 2. Bij regeling van Onze Minister van Defensie worden nadere regels gesteld ten aanzien van klachten over gedragingen van militairen van de Koninklijke marechaussee dan wel van enig ander onderdeel van de krijgsmacht bij de uitvoering van hun in deze wet omschreven taken.
 
-3. [Artikel 16, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=2&paragraaf=5&artikel=16&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing.
+3. [Artikel 16, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=2&paragraaf=5&artikel=16&z=2010-10-10&g=2010-10-11), is van overeenkomstige toepassing.
 
 ##### Artikel 18
 
@@ -269,7 +269,7 @@ Bij regeling van Onze Minister worden regels gesteld over de kleding van de poli
 
 ##### Artikel 20
 
-In afwijking van [artikel 9:11, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:11) wordt de klacht afgehandeld binnen tien weken of, indien een commissie als bedoeld in [artikel 16, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=2&paragraaf=5&artikel=16&z=2010-10-10&g=2010-10-10), is belast met de behandeling van en advisering over de klacht, binnen veertien weken na de ontvangst van de klacht.
+In afwijking van [artikel 9:11, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:11) wordt de klacht afgehandeld binnen tien weken of, indien een commissie als bedoeld in [artikel 16, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=2&paragraaf=5&artikel=16&z=2010-10-10&g=2010-10-11), is belast met de behandeling van en advisering over de klacht, binnen veertien weken na de ontvangst van de klacht.
 
 ##### Artikel 21
 
@@ -291,7 +291,7 @@ In afwijking van [artikel 9:11, eerste lid, van de Algemene wet bestuursrecht](h
 
 ##### Artikel 23
 
-1. De korpschef stelt na overleg met de hoofdofficier van justitie en de gezaghebbers, in overeenstemming met de procureur-generaal en met inachtneming van [artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=2&paragraaf=5&artikel=24&z=2010-10-10&g=2010-10-10), ten minste eenmaal in de vier jaar het ontwerp van het beheersplan voor het politiekorps op. Voorafgaand aan het opstellen van het ontwerp van het beheersplan worden de eilandsraden gehoord over de lokale prioriteiten.
+1. De korpschef stelt na overleg met de hoofdofficier van justitie en de gezaghebbers, in overeenstemming met de procureur-generaal en met inachtneming van [artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=2&paragraaf=5&artikel=24&z=2010-10-10&g=2010-10-11), ten minste eenmaal in de vier jaar het ontwerp van het beheersplan voor het politiekorps op. Voorafgaand aan het opstellen van het ontwerp van het beheersplan worden de eilandsraden gehoord over de lokale prioriteiten.
 
 2. De korpschef zendt het ontwerp van het beheersplan ter vaststelling aan de korpsbeheerder politie. De korpschef zendt de stukken ter kennisneming aan de eilandsraden, de Rijksvertegenwoordiger, de procureur-generaal en de hoofdofficier van justitie.
 
@@ -311,7 +311,7 @@ In afwijking van [artikel 9:11, eerste lid, van de Algemene wet bestuursrecht](h
 
 3. Op basis en binnen het kader van de hoofdlijnen, bedoeld in het eerste lid, stellen Onze Ministers ten minste eenmaal in de vier jaar doelstellingen vast ter verwezenlijking van voornoemde hoofdlijnen. Voor zover het de strafrechtelijke handhaving van de rechtsorde betreft dan wel de vervulling van taken ten dienste van de justitie, wint Onze Minister van Justitie voorafgaand het advies in van de procureur-generaal.
 
-4. In het beheersplan, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=2&paragraaf=5&artikel=23&z=2010-10-10&g=2010-10-10), wordt aangegeven op welke wijze wordt beoogd de doelstellingen te verwezenlijken.
+4. In het beheersplan, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=2&paragraaf=5&artikel=23&z=2010-10-10&g=2010-10-11), wordt aangegeven op welke wijze wordt beoogd de doelstellingen te verwezenlijken.
 
 5. De resultaten die in het voorafgaande jaar zijn behaald met de verwezenlijking van de doelstellingen, maken deel uit van het jaarplan, bedoeld in [artikel 48 van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=48).
 
@@ -357,7 +357,7 @@ De korpsbeheerder politie hanteert voor het politiekorps een kwaliteitszorgsyste
 
 ##### Artikel 28
 
-1. Het brandweerkorps verricht in elk van de openbare lichamen de taken, bedoeld in [artikel 27, tweede lid, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=27&z=2010-10-10&g=2010-10-10), tevens op de luchthaven.
+1. Het brandweerkorps verricht in elk van de openbare lichamen de taken, bedoeld in [artikel 27, tweede lid, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=27&z=2010-10-10&g=2010-10-11), tevens op de luchthaven.
 
 2. Het brandweerkorps brengt de kosten voor de brandweer op en rond de luchthaven in rekening bij de exploitant van het luchthaventerrein.
 
@@ -379,7 +379,7 @@ De korpsbeheerder politie hanteert voor het politiekorps een kwaliteitszorgsyste
 
 - a. het ontwerp-jaarplan en de daarbij behorende begroting en het ontwerp-beheersplan;
 
-- b. de uitvoering van het beheersplan en de verwezenlijking van de doelstellingen, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=41&z=2010-10-10&g=2010-10-10).
+- b. de uitvoering van het beheersplan en de verwezenlijking van de doelstellingen, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=41&z=2010-10-10&g=2010-10-11).
 
 ##### Artikel 31
 
@@ -419,17 +419,17 @@ De korpsbeheerder brandweer hanteert voor het brandweerkorps een kwaliteitszorgs
 
 1. Bij regeling van Onze Minister worden nadere regels gesteld ten aanzien van de behandeling van klachten over gedragingen van het personeel van het brandweerkorps.
 
-2. [Artikel 16, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=2&paragraaf=5&artikel=16&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing.
+2. [Artikel 16, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=2&paragraaf=5&artikel=16&z=2010-10-10&g=2010-10-11), is van overeenkomstige toepassing.
 
-3. De korpsbeheerder brandweer draagt zorg voor de behandeling van een klacht die is ingediend over een gedraging van een personeelslid van het brandweerkorps. [Artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=2&paragraaf=5&artikel=20&z=2010-10-10&g=2010-10-10) is van toepassing.
+3. De korpsbeheerder brandweer draagt zorg voor de behandeling van een klacht die is ingediend over een gedraging van een personeelslid van het brandweerkorps. [Artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=2&paragraaf=5&artikel=20&z=2010-10-10&g=2010-10-11) is van toepassing.
 
 ##### Artikel 35
 
-Het Nederlands instituut fysieke veiligheid, bedoeld in [artikel 66 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=66), oefent de taken, bedoeld in artikel 66, tweede lid, a tot en met c, van die wet, en kan de werkzaamheden, bedoeld in artikel 66, derde lid, van die wet, mede uitoefenen in de openbare lichamen, met dien verstande dat in artikel 66, tweede lid, onder a, van die wet voor «een rijksexamen als bedoeld in artikel 18, vierde lid,» wordt gelezen: een Caribisch rijksexamen als bedoeld in [artikel 33, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=33&z=2010-10-10&g=2010-10-10), van de Veiligheidswet BES. Artikelen 66, vierde lid, en [70 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=70) zijn van overeenkomstige toepassing.
+Het Nederlands instituut fysieke veiligheid, bedoeld in [artikel 66 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=66), oefent de taken, bedoeld in artikel 66, tweede lid, a tot en met c, van die wet, en kan de werkzaamheden, bedoeld in artikel 66, derde lid, van die wet, mede uitoefenen in de openbare lichamen, met dien verstande dat in artikel 66, tweede lid, onder a, van die wet voor «een rijksexamen als bedoeld in artikel 18, vierde lid,» wordt gelezen: een Caribisch rijksexamen als bedoeld in [artikel 33, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=33&z=2010-10-10&g=2010-10-11), van de Veiligheidswet BES. Artikelen 66, vierde lid, en [70 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=70) zijn van overeenkomstige toepassing.
 
 ##### Artikel 36
 
-Het Nederlands bureau brandweerexamens, bedoeld in [artikel 72, eerste lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=72) oefent de taken en werkzaamheden, bedoeld in artikel 72, tweede lid, van die wet, en kan de werkzaamheden, bedoeld in [73, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=73), mede uitoefenen in de openbare lichamen, met dien verstande dat in artikel 72, tweede lid, onder a, van die wet voor «een rijksexamen als bedoeld in artikel 18, vierde lid» wordt gelezen: een Caribisch rijksexamen als bedoeld in [artikel 33, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=33&z=2010-10-10&g=2010-10-10), van de Veiligheidswet BES. Artikelen 73, tweede lid, en [74, vijfde lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=74) zijn van overeenkomstige toepassing.
+Het Nederlands bureau brandweerexamens, bedoeld in [artikel 72, eerste lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=72) oefent de taken en werkzaamheden, bedoeld in artikel 72, tweede lid, van die wet, en kan de werkzaamheden, bedoeld in [73, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=73), mede uitoefenen in de openbare lichamen, met dien verstande dat in artikel 72, tweede lid, onder a, van die wet voor «een rijksexamen als bedoeld in artikel 18, vierde lid» wordt gelezen: een Caribisch rijksexamen als bedoeld in [artikel 33, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=33&z=2010-10-10&g=2010-10-11), van de Veiligheidswet BES. Artikelen 73, tweede lid, en [74, vijfde lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=74) zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk 4. Brandweerzorg, rampenbestrijding en crisisbeheersing
 
@@ -451,7 +451,7 @@ Het Nederlands bureau brandweerexamens, bedoeld in [artikel 72, eerste lid, van 
 
 - b. het beperken en bestrijden van gevaar voor mensen en dieren bij ongevallen anders dan bij brand.
 
-4. Het bestuurscollege kan, in overeenstemming met de korpsbeheerder brandweer, een vestiging van het brandweerkorps belasten met andere taken dan bedoeld in [artikel 27, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=27&z=2010-10-10&g=2010-10-10). Deze taak wordt uitgevoerd onder verantwoordelijkheid van het bestuurscollege.
+4. Het bestuurscollege kan, in overeenstemming met de korpsbeheerder brandweer, een vestiging van het brandweerkorps belasten met andere taken dan bedoeld in [artikel 27, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=27&z=2010-10-10&g=2010-10-11). Deze taak wordt uitgevoerd onder verantwoordelijkheid van het bestuurscollege.
 
 ##### Artikel 38
 
@@ -501,19 +501,19 @@ De gezaghebber kan degene die verantwoordelijk is voor het vervoer van zieken en
 
 - a. een beschrijving van de beoogde operationele prestaties van de diensten en organisaties van het openbaar lichaam, van het brandweerkorps en van de politie in het kader van de rampenbestrijding en de crisisbeheersing;
 
-- b. een uitwerking van door Onze Minister vastgestelde doelstellingen als bedoeld in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=41&z=2010-10-10&g=2010-10-10);
+- b. een uitwerking van door Onze Minister vastgestelde doelstellingen als bedoeld in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=41&z=2010-10-10&g=2010-10-11);
 
 - c. een informatieparagraaf waarin een beschrijving wordt gegeven van de informatievoorziening binnen en tussen de onder a bedoelde diensten en organisaties;
 
 - d. een oefenbeleidsplan;
 
-- e. een beschrijving van de niet-wettelijke adviesfunctie van de eilandelijke rampencoördinator, bedoeld in [artikel 48, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=48&z=2010-10-10&g=2010-10-10);
+- e. een beschrijving van de niet-wettelijke adviesfunctie van de eilandelijke rampencoördinator, bedoeld in [artikel 48, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=48&z=2010-10-10&g=2010-10-11);
 
 - f. een beschrijving van de voorzieningen en maatregelen, noodzakelijk voor de brandweer om te voldoen aan de gestelde opkomsttijden.
 
 3. Het beleidsplan wordt tussentijds geactualiseerd, indien gewijzigde omstandigheden daartoe aanleiding geven.
 
-4. Het beleidsplan is afgestemd met het beheersplan van het politiekorps, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=2&paragraaf=5&artikel=23&z=2010-10-10&g=2010-10-10), en het beheersplan van het brandweerkorps, als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=29&z=2010-10-10&g=2010-10-10), en zo mogelijk afgestemd met een vergelijkbaar plan van omringende eilanden.
+4. Het beleidsplan is afgestemd met het beheersplan van het politiekorps, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=2&paragraaf=5&artikel=23&z=2010-10-10&g=2010-10-11), en het beheersplan van het brandweerkorps, als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=29&z=2010-10-10&g=2010-10-11), en zo mogelijk afgestemd met een vergelijkbaar plan van omringende eilanden.
 
 5. Het bestuurscollege zendt het beleidsplan en de wijzigingen daarop binnen een maand na vaststelling ter toetsing toe aan de Rijksvertegenwoordiger en ter kennisneming aan Onze Minister, de algemeen commandant, en de bestuurscolleges van de andere openbare lichamen.
 
@@ -521,7 +521,7 @@ De gezaghebber kan degene die verantwoordelijk is voor het vervoer van zieken en
 
 ##### Artikel 43
 
-1. Het beleidsplan, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=42&z=2010-10-10&g=2010-10-10), is mede gebaseerd op een door het bestuurscollege vastgesteld risicoprofiel.
+1. Het beleidsplan, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=42&z=2010-10-10&g=2010-10-11), is mede gebaseerd op een door het bestuurscollege vastgesteld risicoprofiel.
 
 2. Het risicoprofiel bestaat uit:
 
@@ -545,7 +545,7 @@ De gezaghebber kan degene die verantwoordelijk is voor het vervoer van zieken en
 
 - b. een schema met betrekking tot de leiding over en de gecoördineerde inzet bij de bestrijding van rampen en crisis;
 
-- c. een plan met betrekking tot de wijze waarop de informatie, bedoeld in de [artikelen 50, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=50&z=2010-10-10&g=2010-10-10), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=52&z=2010-10-10&g=2010-10-10) en [54, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=4&artikel=54&z=2010-10-10&g=2010-10-10), wordt verschaft, alsmede een plan met betrekking tot de waarschuwing van de bevolking;
+- c. een plan met betrekking tot de wijze waarop de informatie, bedoeld in de [artikelen 50, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=50&z=2010-10-10&g=2010-10-11), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=52&z=2010-10-10&g=2010-10-11) en [54, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=4&artikel=54&z=2010-10-10&g=2010-10-11), wordt verschaft, alsmede een plan met betrekking tot de waarschuwing van de bevolking;
 
 - d. een plan met betrekking tot de opvang, de verzorging en de nazorg van slachtoffers.
 
@@ -573,7 +573,7 @@ De gezaghebber kan degene die verantwoordelijk is voor het vervoer van zieken en
 
 3. De gezaghebber zendt het rampbestrijdingsplan en de wijzigingen daarop binnen een maand na vaststelling ter toetsing toe aan de Rijksvertegenwoordiger en ter kennisneming aan Onze Minister, de algemeen commandant en de hoofdofficier van justitie, alsmede de gezaghebbers van de andere openbare lichamen en het bevoegd gezag dat in Aruba, Curaçao en Sint Maarten belast is met het vaststellen van een vergelijkbaar plan.
 
-4. De gezaghebber, gehoord de algemeen commandant, kan op grond van de ingevolge [artikel 51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=51&z=2010-10-10&g=2010-10-10), verschafte informatie besluiten dat voor een krachtens het eerste lid aangewezen inrichting geen rampbestrijdingsplan behoeft te worden vastgesteld. De gezaghebber meldt dit aan de Rijksvertegenwoordiger en verschaft hem daartoe de nodige informatie.
+4. De gezaghebber, gehoord de algemeen commandant, kan op grond van de ingevolge [artikel 51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=51&z=2010-10-10&g=2010-10-11), verschafte informatie besluiten dat voor een krachtens het eerste lid aangewezen inrichting geen rampbestrijdingsplan behoeft te worden vastgesteld. De gezaghebber meldt dit aan de Rijksvertegenwoordiger en verschaft hem daartoe de nodige informatie.
 
 ##### Artikel 46
 
@@ -595,7 +595,7 @@ De gezaghebber kan degene die verantwoordelijk is voor het vervoer van zieken en
 
 - b. de afstemming van de rampenbestrijding en de crisisbeheersing met andere landen;
 
-- c. gegevens over het verzoeken en verlenen van bijstand, als bedoeld in [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=4&artikel=58&z=2010-10-10&g=2010-10-10).
+- c. gegevens over het verzoeken en verlenen van bijstand, als bedoeld in [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=4&artikel=58&z=2010-10-10&g=2010-10-11).
 
 2. Het plan, bedoeld in het eerste lid wordt tussentijds geactualiseerd, indien gewijzigde omstandigheden daartoe aanleiding geven.
 
@@ -639,9 +639,9 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ove
 
 1. Eenieder die beschikt over relevante veiligheidstechnische gegevens verschaft het bestuurscollege de informatie die nodig is voor een adequate voorbereiding van de rampenbestrijding en de crisisbeheersing. Dit geldt niet voor zover deze informatie reeds op grond van andere voorschriften is verschaft of kan worden verkregen.
 
-2. Het bestuurscollege kan bevelen dat een inrichting die behoort tot een krachtens [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=45&z=2010-10-10&g=2010-10-10), aangewezen categorie niet in werking gesteld of gehouden wordt, indien degene die de inrichting in werking zal hebben of heeft, niet aan de in het eerste lid bedoelde verplichting tot informatieverschaffing voldoet.
+2. Het bestuurscollege kan bevelen dat een inrichting die behoort tot een krachtens [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=45&z=2010-10-10&g=2010-10-11), aangewezen categorie niet in werking gesteld of gehouden wordt, indien degene die de inrichting in werking zal hebben of heeft, niet aan de in het eerste lid bedoelde verplichting tot informatieverschaffing voldoet.
 
-3. Degene die een inrichting drijft die behoort tot een krachtens [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=45&z=2010-10-10&g=2010-10-10), aangewezen categorie, is verplicht:
+3. Degene die een inrichting drijft die behoort tot een krachtens [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=45&z=2010-10-10&g=2010-10-11), aangewezen categorie, is verplicht:
 
 - a. aan het bestuurscollege een actueel bijgehouden document te verschaffen waarin het door hem gevoerde beleid ter voorkoming van zware ongevallen, rekening houdend met de aanwezigheid en de omvang van de risico’s, is vastgelegd;
 
@@ -655,7 +655,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ove
 
 ##### Artikel 52
 
-1. Het bestuurscollege maakt de gegevens openbaar die het krachtens [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=51&z=2010-10-10&g=2010-10-10) heeft ontvangen ten behoeve van de vaststelling van rampbestrijdingsplannen voor de krachtens [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=45&z=2010-10-10&g=2010-10-10) aangewezen categorieën inrichtingen en luchtvaartterreinen.
+1. Het bestuurscollege maakt de gegevens openbaar die het krachtens [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=51&z=2010-10-10&g=2010-10-11) heeft ontvangen ten behoeve van de vaststelling van rampbestrijdingsplannen voor de krachtens [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=45&z=2010-10-10&g=2010-10-11) aangewezen categorieën inrichtingen en luchtvaartterreinen.
 
 2. In afwijking van [artikel 11, tweede lid, van de Wet openbaarheid van bestuur BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028154&artikel=11) blijft het verstrekken van informatie op basis van de gegevens, bedoeld in het eerste lid, achterwege voor zover het belang daarvan niet opweegt tegen de volgende belangen:
 
@@ -663,7 +663,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ove
 
 - b. het voorkomen van sabotage.
 
-3. Indien een verzoek tot het verstrekken van informatie over de overige gegevens die zijn ontvangen krachtens [artikel 51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=51&z=2010-10-10&g=2010-10-10), of over de gegevens die zijn ontvangen krachtens [artikel 56, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=4&artikel=56&z=2010-10-10&g=2010-10-10), betrekking heeft op inrichtingen, aangewezen op grond van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=45&z=2010-10-10&g=2010-10-10) van deze wet, kan verstrekking op grond van [artikel 11, tweede lid, aanhef en onder a, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=11) slechts achterwege blijven voor zover die gegevens een vertrouwelijk karakter hebben.
+3. Indien een verzoek tot het verstrekken van informatie over de overige gegevens die zijn ontvangen krachtens [artikel 51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=51&z=2010-10-10&g=2010-10-11), of over de gegevens die zijn ontvangen krachtens [artikel 56, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=4&artikel=56&z=2010-10-10&g=2010-10-11), betrekking heeft op inrichtingen, aangewezen op grond van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=45&z=2010-10-10&g=2010-10-11) van deze wet, kan verstrekking op grond van [artikel 11, tweede lid, aanhef en onder a, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=11) slechts achterwege blijven voor zover die gegevens een vertrouwelijk karakter hebben.
 
 4. [Artikel 11, tweede lid, aanhef en onder e, van de Wet openbaarheid van bestuur BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028154&artikel=11) is op het op verzoek verstrekken van informatie over gegevens als bedoeld in het derde lid uitsluitend van toepassing.
 
@@ -699,11 +699,11 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ove
 
 1. In geval van een ramp stelt eenieder die daarvan kennis draagt, de gezaghebber zo spoedig mogelijk daarvan op de hoogte.
 
-2. In geval van een ramp verschaft eenieder die over relevante veiligheidstechnische gegevens beschikt, de gezaghebber de informatie die nodig is voor een adequate uitvoering van diens taken, bedoeld in [artikel 54, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=4&artikel=54&z=2010-10-10&g=2010-10-10). Dit geldt niet voor zover deze informatie reeds op grond van andere voorschriften is verschaft of kan worden verkregen, dan wel indien de gegevens op grond van [artikel 51, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=51&z=2010-10-10&g=2010-10-10), reeds zijn verstrekt aan Onze betrokken Minister.
+2. In geval van een ramp verschaft eenieder die over relevante veiligheidstechnische gegevens beschikt, de gezaghebber de informatie die nodig is voor een adequate uitvoering van diens taken, bedoeld in [artikel 54, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=4&artikel=54&z=2010-10-10&g=2010-10-11). Dit geldt niet voor zover deze informatie reeds op grond van andere voorschriften is verschaft of kan worden verkregen, dan wel indien de gegevens op grond van [artikel 51, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=51&z=2010-10-10&g=2010-10-11), reeds zijn verstrekt aan Onze betrokken Minister.
 
 ##### Artikel 57
 
-Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de informatieverschaffing, bedoeld in de [artikelen 50, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=50&z=2010-10-10&g=2010-10-10), [51, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=51&z=2010-10-10&g=2010-10-10), [52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=52&z=2010-10-10&g=2010-10-10), [54, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=4&artikel=54&z=2010-10-10&g=2010-10-10), [55, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=4&artikel=55&z=2010-10-10&g=2010-10-10), en [56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=4&artikel=56&z=2010-10-10&g=2010-10-10).
+Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de informatieverschaffing, bedoeld in de [artikelen 50, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=50&z=2010-10-10&g=2010-10-11), [51, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=51&z=2010-10-10&g=2010-10-11), [52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=52&z=2010-10-10&g=2010-10-11), [54, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=4&artikel=54&z=2010-10-10&g=2010-10-11), [55, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=4&artikel=55&z=2010-10-10&g=2010-10-11), en [56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=4&artikel=56&z=2010-10-10&g=2010-10-11).
 
 ##### Artikel 58
 
@@ -717,7 +717,7 @@ De Rijksvertegenwoordiger kan in geval van een ramp of een crisis van boveneilan
 
 ##### Artikel 60
 
-De gezaghebbers, de Rijksvertegenwoordiger en Onze Minister verstrekken elkaar de nodige inlichtingen ten behoeve van hun rol bij de toepassing van [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=4&artikel=59&z=2010-10-10&g=2010-10-10).
+De gezaghebbers, de Rijksvertegenwoordiger en Onze Minister verstrekken elkaar de nodige inlichtingen ten behoeve van hun rol bij de toepassing van [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=4&artikel=59&z=2010-10-10&g=2010-10-11).
 
 ##### Artikel 61
 
@@ -729,7 +729,7 @@ De gezaghebbers, de Rijksvertegenwoordiger en Onze Minister verstrekken elkaar d
 
 ##### Artikel 62
 
-1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8), kunnen indien buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de [artikelen 63](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=5&artikel=63&z=2010-10-10&g=2010-10-10) en [64](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=5&artikel=64&z=2010-10-10&g=2010-10-10) in werking worden gesteld.
+1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8), kunnen indien buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de [artikelen 63](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=5&artikel=63&z=2010-10-10&g=2010-10-11) en [64](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=5&artikel=64&z=2010-10-10&g=2010-10-11) in werking worden gesteld.
 
 2. Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.
 
@@ -763,7 +763,7 @@ Onze Minister kan, indien het algemeen belang zulks dringend eist, bevoegdheden 
 
 ##### Artikel 66
 
-1. Het convenant, bedoeld in [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=5&artikel=65&z=2010-10-10&g=2010-10-10), heeft betrekking op een gemeenschappelijke meldkamer ten behoeve van de politietaak, de brandweerzorg, de geneeskundige hulpverlening en het ambulancevervoer.
+1. Het convenant, bedoeld in [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=5&artikel=65&z=2010-10-10&g=2010-10-11), heeft betrekking op een gemeenschappelijke meldkamer ten behoeve van de politietaak, de brandweerzorg, de geneeskundige hulpverlening en het ambulancevervoer.
 
 2. Het convenant bevat met betrekking tot de meldkamerfunctie in ieder geval afspraken over de samenwerking in de meldkamer.
 
@@ -783,7 +783,7 @@ Bij of krachtens algemene maatregel van bestuur op voordracht van Onze Minister 
 
 ##### Artikel 69
 
-1. Bij regeling van Onze Ministers kunnen regels worden gesteld over de informatie- en communicatievoorzieningen van en het gebruik daarvan door de politie, het brandweerkorps en de diensten van de openbare lichamen die zijn betrokken bij de in [artikel 27, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=27&z=2010-10-10&g=2010-10-10), en [artikel 37, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=1&artikel=37&z=2010-10-10&g=2010-10-10), genoemde taken, alsmede over de informatiebeveiliging. Voor zover deze regels van belang zijn voor de uitvoering van de politietaken, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=2&paragraaf=1&artikel=5&z=2010-10-10&g=2010-10-10), kunnen zij, in overeenstemming met Onze Minister van Defensie, mede worden gegeven ten aanzien van de Koninklijke marechaussee.
+1. Bij regeling van Onze Ministers kunnen regels worden gesteld over de informatie- en communicatievoorzieningen van en het gebruik daarvan door de politie, het brandweerkorps en de diensten van de openbare lichamen die zijn betrokken bij de in [artikel 27, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=27&z=2010-10-10&g=2010-10-11), en [artikel 37, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=1&artikel=37&z=2010-10-10&g=2010-10-11), genoemde taken, alsmede over de informatiebeveiliging. Voor zover deze regels van belang zijn voor de uitvoering van de politietaken, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=2&paragraaf=1&artikel=5&z=2010-10-10&g=2010-10-11), kunnen zij, in overeenstemming met Onze Minister van Defensie, mede worden gegeven ten aanzien van de Koninklijke marechaussee.
 
 2. Bij regeling van Onze Minister kunnen aan het politiekorps, het brandweerkorps en de openbare lichamen frequenties worden toewijzen voor de overdracht van gegevens door middel van daartoe aangewezen informatie- en communicatievoorzieningen.
 
@@ -791,7 +791,7 @@ Bij of krachtens algemene maatregel van bestuur op voordracht van Onze Minister 
 
 ##### Artikel 70
 
-1. In de kosten die voor een openbaar lichaam voortvloeien uit de uitoefening van zijn taken ingevolge [artikel 37, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=1&artikel=37&z=2010-10-10&g=2010-10-10), verlenen Onze Minister en Onze Minister van Volksgezondheid, Welzijn en Sport, voor zover het betreft de geneeskundige hulpverlening, een bijdrage. De bijdrage kan onder voorwaarden worden verleend.
+1. In de kosten die voor een openbaar lichaam voortvloeien uit de uitoefening van zijn taken ingevolge [artikel 37, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=1&artikel=37&z=2010-10-10&g=2010-10-11), verlenen Onze Minister en Onze Minister van Volksgezondheid, Welzijn en Sport, voor zover het betreft de geneeskundige hulpverlening, een bijdrage. De bijdrage kan onder voorwaarden worden verleend.
 
 2. In de kosten die voor een openbaar lichaam voortvloeien uit de daadwerkelijke bestrijding van een ramp en uit de gevolgen van die bestrijding, kan Onze Minister een bijdrage verlenen.
 
@@ -819,31 +819,31 @@ Bij of krachtens algemene maatregel van bestuur op voordracht van Onze Minister 
 
 ##### Artikel 72
 
-1. De inspectie staat onder gezag van Onze Minister, voor zover zij is belast met de werkzaamheden, bedoeld in [artikel 71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=7&artikel=71&z=2010-10-10&g=2010-10-10).
+1. De inspectie staat onder gezag van Onze Minister, voor zover zij is belast met de werkzaamheden, bedoeld in [artikel 71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=7&artikel=71&z=2010-10-10&g=2010-10-11).
 
 2. Indien ten aanzien van de inspectie een aanwijzing is gegeven als bedoeld in [artikel 29 van de Rijkswet Raad voor de rechtshandhaving](https://wetten.overheid.nl/jci1.3:c:BWBR0028075&artikel=29), staat de inspectie onder gezag van de Raad voor de rechtshandhaving.
 
 ##### Artikel 73
 
-1. Het brandweerkorps en een orgaan als bedoeld in [artikel 71, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=7&artikel=71&z=2010-10-10&g=2010-10-10), verstrekken de door Onze Minister aangewezen ambtenaren desgevraagd de inlichtingen die zij redelijkerwijs nodig hebben in verband met de uitvoering van toetsen als bedoeld in artikel 71, eerste lid, onder a en b.
+1. Het brandweerkorps en een orgaan als bedoeld in [artikel 71, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=7&artikel=71&z=2010-10-10&g=2010-10-11), verstrekken de door Onze Minister aangewezen ambtenaren desgevraagd de inlichtingen die zij redelijkerwijs nodig hebben in verband met de uitvoering van toetsen als bedoeld in artikel 71, eerste lid, onder a en b.
 
-2. Het brandweerkorps, een orgaan van het openbaar lichaam, van een samenwerkingslichaam of van het Rijk dan wel een ieder die werkzaam is bij een organisatie, een instelling, een inrichting die of een bedrijf dat betrokken is bij een brand, ramp of crisis, verstrekt de door Onze Minister aangewezen ambtenaren desgevraagd de inlichtingen die zij redelijkerwijs nodig hebben in verband met het verrichten van een onderzoek als bedoeld in [artikel 71, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=7&artikel=71&z=2010-10-10&g=2010-10-10).
+2. Het brandweerkorps, een orgaan van het openbaar lichaam, van een samenwerkingslichaam of van het Rijk dan wel een ieder die werkzaam is bij een organisatie, een instelling, een inrichting die of een bedrijf dat betrokken is bij een brand, ramp of crisis, verstrekt de door Onze Minister aangewezen ambtenaren desgevraagd de inlichtingen die zij redelijkerwijs nodig hebben in verband met het verrichten van een onderzoek als bedoeld in [artikel 71, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=7&artikel=71&z=2010-10-10&g=2010-10-11).
 
 ##### Artikel 74
 
-1. De werkzaamheden die in het kader van [artikel 71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=7&artikel=71&z=2010-10-10&g=2010-10-10), worden uitgevoerd, worden jaarlijks door Onze Minister vastgesteld, gehoord de Rijksvertegenwoordiger.
+1. De werkzaamheden die in het kader van [artikel 71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=7&artikel=71&z=2010-10-10&g=2010-10-11), worden uitgevoerd, worden jaarlijks door Onze Minister vastgesteld, gehoord de Rijksvertegenwoordiger.
 
-2. Over de werkzaamheden, bedoeld in [artikel 71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=7&artikel=71&z=2010-10-10&g=2010-10-10), rapporteert de inspectie, gevraagd en ongevraagd, rechtstreeks aan Onze Minister.
+2. Over de werkzaamheden, bedoeld in [artikel 71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=7&artikel=71&z=2010-10-10&g=2010-10-11), rapporteert de inspectie, gevraagd en ongevraagd, rechtstreeks aan Onze Minister.
 
 3. De inspectie rapporteert tevens aan de Rijksvertegenwoordiger.
 
-4. Onze Minister brengt in een multidisciplinair rapport aan de Staten-Generaal verslag uit van de bevindingen van de inspectie bij de toetsing, bedoeld in [artikel 71, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=7&artikel=71&z=2010-10-10&g=2010-10-10).
+4. Onze Minister brengt in een multidisciplinair rapport aan de Staten-Generaal verslag uit van de bevindingen van de inspectie bij de toetsing, bedoeld in [artikel 71, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=7&artikel=71&z=2010-10-10&g=2010-10-11).
 
-5. Onze Minister zendt, onverminderd het vierde lid, de Staten-Generaal jaarlijks een door de inspectie opgesteld verslag van de werkzaamheden die in het kader van [artikel 71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=7&artikel=71&z=2010-10-10&g=2010-10-10), zijn uitgevoerd.
+5. Onze Minister zendt, onverminderd het vierde lid, de Staten-Generaal jaarlijks een door de inspectie opgesteld verslag van de werkzaamheden die in het kader van [artikel 71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=7&artikel=71&z=2010-10-10&g=2010-10-11), zijn uitgevoerd.
 
 ##### Artikel 75
 
-1. De Rijksvertegenwoordiger kan een bestuursorgaan van het openbaar lichaam of van een samenwerkingslichaam een aanwijzing geven indien de taakuitvoering op grond van de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&z=2010-10-10&g=2010-10-10) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=5&z=2010-10-10&g=2010-10-10) in het desbetreffende openbaar lichaam tekortschiet.
+1. De Rijksvertegenwoordiger kan een bestuursorgaan van het openbaar lichaam of van een samenwerkingslichaam een aanwijzing geven indien de taakuitvoering op grond van de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&z=2010-10-10&g=2010-10-11) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=5&z=2010-10-10&g=2010-10-11) in het desbetreffende openbaar lichaam tekortschiet.
 
 2. Tot het geven van een aanwijzing gaat de Rijksvertegenwoordiger niet over dan nadat hij over de voorgenomen aanwijzing het bestuurscollege heeft gehoord.
 
@@ -851,19 +851,19 @@ Bij of krachtens algemene maatregel van bestuur op voordracht van Onze Minister 
 
 ##### Artikel 76
 
-1. Onverminderd [artikel 71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=7&artikel=71&z=2010-10-10&g=2010-10-10), zijn de ambtenaren die bij besluit van het bestuurscollege zijn aangewezen, belast met toezicht op de naleving van:
+1. Onverminderd [artikel 71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=7&artikel=71&z=2010-10-10&g=2010-10-11), zijn de ambtenaren die bij besluit van het bestuurscollege zijn aangewezen, belast met toezicht op de naleving van:
 
-- a. het gestelde bij of krachtens [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=2&artikel=40&z=2010-10-10&g=2010-10-10);
+- a. het gestelde bij of krachtens [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=2&artikel=40&z=2010-10-10&g=2010-10-11);
 
-- b. het gestelde bij of krachtens [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=51&z=2010-10-10&g=2010-10-10) ten aanzien van de krachtens [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=45&z=2010-10-10&g=2010-10-10) aangewezen inrichtingen; en
+- b. het gestelde bij of krachtens [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=51&z=2010-10-10&g=2010-10-11) ten aanzien van de krachtens [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=45&z=2010-10-10&g=2010-10-11) aangewezen inrichtingen; en
 
-- c. de verordening, bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=2&artikel=39&z=2010-10-10&g=2010-10-10).
+- c. de verordening, bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=2&artikel=39&z=2010-10-10&g=2010-10-11).
 
 2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over het toezicht, bedoeld in het eerste lid, onder b.
 
 ##### Artikel 77
 
-1. De gezaghebber, de Rijksvertegenwoordiger, de algemeen commandant en het door hem aangewezen ter plaatste dienstdoende personeel van de brandweer alsmede de door Onze Minister aangewezen ambtenaren, bedoeld in [artikel 73, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=7&artikel=73&z=2010-10-10&g=2010-10-10), zijn bevoegd elke plaats te betreden, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zo nodig verschaffen zij zich de toegang met behulp van de sterke arm. Zij kunnen zich bij het binnentreden doen vergezellen van door hen aangewezen personen.
+1. De gezaghebber, de Rijksvertegenwoordiger, de algemeen commandant en het door hem aangewezen ter plaatste dienstdoende personeel van de brandweer alsmede de door Onze Minister aangewezen ambtenaren, bedoeld in [artikel 73, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=7&artikel=73&z=2010-10-10&g=2010-10-11), zijn bevoegd elke plaats te betreden, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zo nodig verschaffen zij zich de toegang met behulp van de sterke arm. Zij kunnen zich bij het binnentreden doen vergezellen van door hen aangewezen personen.
 
 2. De [titels X](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=X) en [XI van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=XI) zijn van overeenkomstige toepassing met dien verstande dat:
 
@@ -873,19 +873,19 @@ Bij of krachtens algemene maatregel van bestuur op voordracht van Onze Minister 
 
 - c. het schriftelijk verslag omtrent het binnentreden, bedoeld in [artikel 163 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=163), wordt toegezonden aan de gezaghebber.
 
-3. De gezaghebber, de lokaal commandant van de brandweer en het door hem aangewezen ter plaatse dienstdoende personeel van de brandweer alsmede de door Onze Minister aangewezen ambtenaren, bedoeld in [artikel 73, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=7&artikel=73&z=2010-10-10&g=2010-10-10), zijn bevoegd alle benodigde uitrustingsstukken en hulpmiddelen op de plaats, bedoeld in het eerste lid, mee te nemen en daarvan op zodanige wijze gebruik te maken als zij voor een goede vervulling van hun taak noodzakelijk achten.
+3. De gezaghebber, de lokaal commandant van de brandweer en het door hem aangewezen ter plaatse dienstdoende personeel van de brandweer alsmede de door Onze Minister aangewezen ambtenaren, bedoeld in [artikel 73, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=7&artikel=73&z=2010-10-10&g=2010-10-11), zijn bevoegd alle benodigde uitrustingsstukken en hulpmiddelen op de plaats, bedoeld in het eerste lid, mee te nemen en daarvan op zodanige wijze gebruik te maken als zij voor een goede vervulling van hun taak noodzakelijk achten.
 
 ### Hoofdstuk 8. Sancties en overige bepalingen
 
 ##### Artikel 78
 
-1. Overtreding van de regels van de verordening, bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=2&artikel=39&z=2010-10-10&g=2010-10-10) en van het bij of krachtens de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=31&z=2010-10-10&g=2010-10-10) en [40, tweede, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=2&artikel=40&z=2010-10-10&g=2010-10-10), bepaalde wordt bestraft met hechtenis van ten hoogste een jaar of een geldboete van de derde categorie.
+1. Overtreding van de regels van de verordening, bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=2&artikel=39&z=2010-10-10&g=2010-10-11) en van het bij of krachtens de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=31&z=2010-10-10&g=2010-10-11) en [40, tweede, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=2&artikel=40&z=2010-10-10&g=2010-10-11), bepaalde wordt bestraft met hechtenis van ten hoogste een jaar of een geldboete van de derde categorie.
 
-2. In geval van overtreding van [artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=2&artikel=40&z=2010-10-10&g=2010-10-10), kan als bijkomende straf worden opgelegd gehele of gedeeltelijke stillegging van de inrichting voor een tijd van ten hoogste een jaar.
+2. In geval van overtreding van [artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=2&artikel=40&z=2010-10-10&g=2010-10-11), kan als bijkomende straf worden opgelegd gehele of gedeeltelijke stillegging van de inrichting voor een tijd van ten hoogste een jaar.
 
-3. Het niet naleven van [artikel 51, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=51&z=2010-10-10&g=2010-10-10), is een strafbaar feit en wordt gestraft met gevangenisstraf van ten hoogste zes jaar of een geldboete van de vijfde categorie, indien het feit opzettelijk is begaan, en gestraft met een hechtenis van ten hoogste een jaar of een geldboete van de vierde categorie, indien het feit niet opzettelijk is begaan.
+3. Het niet naleven van [artikel 51, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=51&z=2010-10-10&g=2010-10-11), is een strafbaar feit en wordt gestraft met gevangenisstraf van ten hoogste zes jaar of een geldboete van de vijfde categorie, indien het feit opzettelijk is begaan, en gestraft met een hechtenis van ten hoogste een jaar of een geldboete van de vierde categorie, indien het feit niet opzettelijk is begaan.
 
-4. Het niet naleven van [artikel 56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=4&artikel=56&z=2010-10-10&g=2010-10-10), door degene die een inrichting die behoort tot een krachtens [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=45&z=2010-10-10&g=2010-10-10), aangewezen categorie drijft, is een strafbaar feit en wordt gestraft met gevangenisstraf van ten hoogste zes jaar of een geldboete van de vijfde categorie, indien het feit opzettelijk is begaan, en gestraft met een hechtenis van ten hoogste een jaar of een geldboete van de vierde categorie, indien het feit niet opzettelijk is begaan.
+4. Het niet naleven van [artikel 56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=4&artikel=56&z=2010-10-10&g=2010-10-11), door degene die een inrichting die behoort tot een krachtens [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=45&z=2010-10-10&g=2010-10-11), aangewezen categorie drijft, is een strafbaar feit en wordt gestraft met gevangenisstraf van ten hoogste zes jaar of een geldboete van de vijfde categorie, indien het feit opzettelijk is begaan, en gestraft met een hechtenis van ten hoogste een jaar of een geldboete van de vierde categorie, indien het feit niet opzettelijk is begaan.
 
 5. De in het eerste en tweede lid strafbaar gestelde feiten zijn overtredingen.
 
@@ -893,7 +893,7 @@ Bij of krachtens algemene maatregel van bestuur op voordracht van Onze Minister 
 
 ##### Artikel 79
 
-1. Met de opsporing van de bij [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=8&artikel=78&z=2010-10-10&g=2010-10-10) strafbaar gestelde feiten zijn, onverminderd [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184), belast de ambtenaren, aangewezen bij besluit van Onze Minister.
+1. Met de opsporing van de bij [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=8&artikel=78&z=2010-10-10&g=2010-10-11) strafbaar gestelde feiten zijn, onverminderd [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184), belast de ambtenaren, aangewezen bij besluit van Onze Minister.
 
 2. Als opsporingsambtenaar kan slechts worden aangewezen degene die voldoet aan de door Onze Minister te stellen regels over de eisen van bekwaamheid.
 
@@ -905,29 +905,29 @@ Bij of krachtens algemene maatregel van bestuur op voordracht van Onze Minister 
 
 1. Ten aanzien van de in deze wet opgenomen verplichtingen geldt dat:
 
-- a. het beheersplan, bedoeld in de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=2&paragraaf=5&artikel=23&z=2010-10-10&g=2010-10-10) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=29&z=2010-10-10&g=2010-10-10), uiterlijk acht maanden na inwerkingtreding van deze wet voor het eerst wordt vastgesteld;
+- a. het beheersplan, bedoeld in de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=2&paragraaf=5&artikel=23&z=2010-10-10&g=2010-10-11) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=29&z=2010-10-10&g=2010-10-11), uiterlijk acht maanden na inwerkingtreding van deze wet voor het eerst wordt vastgesteld;
 
-- b. de brandbeveiligingsverordening, bedoeld in [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=2&artikel=39&z=2010-10-10&g=2010-10-10), uiterlijk binnen zes maanden na inwerkingtreding van deze wet voor het eerst wordt vastgesteld;
+- b. de brandbeveiligingsverordening, bedoeld in [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=2&artikel=39&z=2010-10-10&g=2010-10-11), uiterlijk binnen zes maanden na inwerkingtreding van deze wet voor het eerst wordt vastgesteld;
 
-- c. het beleidsplan, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=42&z=2010-10-10&g=2010-10-10), uiterlijk negen maanden na inwerkingtreding van deze wet voor het eerst wordt vastgesteld;
+- c. het beleidsplan, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=42&z=2010-10-10&g=2010-10-11), uiterlijk negen maanden na inwerkingtreding van deze wet voor het eerst wordt vastgesteld;
 
-- d. het risicoprofiel, bedoeld in [artikel 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=43&z=2010-10-10&g=2010-10-10), uiterlijk zes maanden na inwerkingtreding van deze wet voor het eerst wordt vastgesteld;
+- d. het risicoprofiel, bedoeld in [artikel 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=43&z=2010-10-10&g=2010-10-11), uiterlijk zes maanden na inwerkingtreding van deze wet voor het eerst wordt vastgesteld;
 
-- e. het rampen- en crisisplan, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=44&z=2010-10-10&g=2010-10-10), uiterlijk twaalf maanden na inwerkingtreding van deze wet voor het eerst wordt vastgesteld;
+- e. het rampen- en crisisplan, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=44&z=2010-10-10&g=2010-10-11), uiterlijk twaalf maanden na inwerkingtreding van deze wet voor het eerst wordt vastgesteld;
 
-- f. de rampbestrijdingsplannen, bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=45&z=2010-10-10&g=2010-10-10), uiterlijk twaalf maanden na inwerkingtreding van de algemene maatregel van bestuur, bedoeld in [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=45&z=2010-10-10&g=2010-10-10), voor het eerst worden vastgesteld.
+- f. de rampbestrijdingsplannen, bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=45&z=2010-10-10&g=2010-10-11), uiterlijk twaalf maanden na inwerkingtreding van de algemene maatregel van bestuur, bedoeld in [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=45&z=2010-10-10&g=2010-10-11), voor het eerst worden vastgesteld.
 
-2. Het krachtens wettelijk voorschrift vastgestelde rampenplan van een eilandgebied Bonaire, Sint Eustatius of Saba blijft van kracht totdat het rampen- en crisisplan, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=44&z=2010-10-10&g=2010-10-10), is vastgesteld.
+2. Het krachtens wettelijk voorschrift vastgestelde rampenplan van een eilandgebied Bonaire, Sint Eustatius of Saba blijft van kracht totdat het rampen- en crisisplan, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=44&z=2010-10-10&g=2010-10-11), is vastgesteld.
 
-3. De krachtens wettelijk voorschrift vastgestelde rampbestrijdingsplannen van een eilandgebied Bonaire, Sint Eustatius of Saba blijven van kracht totdat de rampbestrijdingsplannen, bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=45&z=2010-10-10&g=2010-10-10), zijn vastgesteld.
+3. De krachtens wettelijk voorschrift vastgestelde rampbestrijdingsplannen van een eilandgebied Bonaire, Sint Eustatius of Saba blijven van kracht totdat de rampbestrijdingsplannen, bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=4&paragraaf=3&artikel=45&z=2010-10-10&g=2010-10-11), zijn vastgesteld.
 
 4. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over gelijkstelling van diploma’s van ambtenaren van politie en het personeel van de brandweer.
 
 ##### Artikel 81
 
-1. In afwijking van [artikel 11, eerste lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=11), treedt de Staat ten aanzien van de rechten en verplichtingen naar burgerlijk recht van de voormalige eilandgebieden Bonaire, Sint Eustatius en Saba, voor zover het betreft de taken die op het tijdstip van inwerkingtreding van deze wet bij het brandweerkorps, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=27&z=2010-10-10&g=2010-10-10), berusten, met ingang van inwerkingtreding van deze wet voor de voormalige eilandgebieden in de plaats.
+1. In afwijking van [artikel 11, eerste lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=11), treedt de Staat ten aanzien van de rechten en verplichtingen naar burgerlijk recht van de voormalige eilandgebieden Bonaire, Sint Eustatius en Saba, voor zover het betreft de taken die op het tijdstip van inwerkingtreding van deze wet bij het brandweerkorps, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=27&z=2010-10-10&g=2010-10-11), berusten, met ingang van inwerkingtreding van deze wet voor de voormalige eilandgebieden in de plaats.
 
-2. In afwijking van [artikel 11, tweede lid, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=11), treedt in wettelijke procedure en rechtsgedingen waarbij de dienst brandweer van het voormalige eilandgebied Bonaire, de dienst luchthaven van het voormalige eilandgebied Sint Eustatius en de dienst lucht- en zeehaven van het voormalige eilandgebied Saba voor wat betreft taken die na inwerkingtreding van deze wet door het brandweerkorps, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=27&z=2010-10-10&g=2010-10-10), van deze wet, worden uitgevoerd, is betrokken, de Staat dan wel Onze Minister in de plaats van het eilandgebied dan wel het bestuurscollege.
+2. In afwijking van [artikel 11, tweede lid, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=11), treedt in wettelijke procedure en rechtsgedingen waarbij de dienst brandweer van het voormalige eilandgebied Bonaire, de dienst luchthaven van het voormalige eilandgebied Sint Eustatius en de dienst lucht- en zeehaven van het voormalige eilandgebied Saba voor wat betreft taken die na inwerkingtreding van deze wet door het brandweerkorps, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=27&z=2010-10-10&g=2010-10-11), van deze wet, worden uitgevoerd, is betrokken, de Staat dan wel Onze Minister in de plaats van het eilandgebied dan wel het bestuurscollege.
 
 ##### Artikel 82
 
