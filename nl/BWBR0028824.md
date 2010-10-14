@@ -4,7 +4,7 @@ identifier: "BWBR0028824"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2010-10-14"
-last_updated: "2010-10-11"
+last_updated: "2010-10-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028824"
 soort: "ministeriele-regeling-BES"
@@ -54,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-Wijziging van een voor de ambtenaar geldend dienstrooster kan, behoudens het bepaalde in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028824&artikel=6&z=2010-10-14&g=2010-10-11) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028824&artikel=7&z=2010-10-14&g=2010-10-11) van deze regeling en de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028723&artikel=5) en [6 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028723&artikel=6) slechts geschieden op verzoek van de ambtenaar of om dringende redenen van dienstbelang waarbij zoveel mogelijk rekening wordt gehouden met de wensen van de ambtenaar. Een wijziging uit dienstbelang dient behoudens bijzondere omstandigheden, uiterlijk tweemaal 12 uren vóór de aanvang van de te verrichten dienst ter kennis van de ambtenaar te zijn gebracht.
+Wijziging van een voor de ambtenaar geldend dienstrooster kan, behoudens het bepaalde in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028824&artikel=6&z=2010-10-14&g=2010-10-14) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028824&artikel=7&z=2010-10-14&g=2010-10-14) van deze regeling en de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028723&artikel=5) en [6 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028723&artikel=6) slechts geschieden op verzoek van de ambtenaar of om dringende redenen van dienstbelang waarbij zoveel mogelijk rekening wordt gehouden met de wensen van de ambtenaar. Een wijziging uit dienstbelang dient behoudens bijzondere omstandigheden, uiterlijk tweemaal 12 uren vóór de aanvang van de te verrichten dienst ter kennis van de ambtenaar te zijn gebracht.
 
 ##### Artikel 3
 
@@ -80,13 +80,13 @@ Een rustdag voor de ambtenaar in wachtdienst is een roostervrije dag van 24 aane
 
 ##### Artikel 7
 
-1. Op de ambtenaar die overgeplaatst wordt naar een functie waar hij in wachtdienst werkzaam zal zijn, wordt vanaf de dag der overplaatsing een tegoed aan extra rustdagen toegekend gelijk aan het aantal in dat jaar nog komende feestdagen waarbij rekening wordt gehouden met het bepaalde in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028824&artikel=6&z=2010-10-14&g=2010-10-11), dat hierop van toepassing is.
+1. Op de ambtenaar die overgeplaatst wordt naar een functie waar hij in wachtdienst werkzaam zal zijn, wordt vanaf de dag der overplaatsing een tegoed aan extra rustdagen toegekend gelijk aan het aantal in dat jaar nog komende feestdagen waarbij rekening wordt gehouden met het bepaalde in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028824&artikel=6&z=2010-10-14&g=2010-10-14), dat hierop van toepassing is.
 
 2. Op de ambtenaar die in de loop van een kalenderjaar overgeplaatst wordt naar een functie waar hij niet in wachtdienst werkzaam zal zijn, is vanaf de dag van de overplaatsing het bepaalde in [artikel 4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028723&artikel=4) van toepassing, echter wordt aan hem alsnog verleend een tegoed van een aantal extra rustdagen gelijk aan het aantal nog niet door hem als extra rustdag genoten feestdagen.
 
 3. Aan het begin van een kalenderjaar wordt voor de ambtenaar in wachtdienst op de dienstroosters een tegoed aan extra rustdagen opgebracht, gelijk aan het aantal in dat jaar aan de ambtenaar, niet in wachtdienst werkzaam, te verlenen feestdagen. De verlening van de extra rustdagen dient gelijkmatig over het gehele jaar te worden verspreid. De extra rustdagen dienen op straffe van verval in het desbetreffende kalenderjaar te worden opgenomen, tenzij het niet opnemen van deze dagen het gevolg is van het toedoen van degene die bevoegd is om toestemming te verlenen voor het opnemen van deze rustdagen.
 
-4. Aan de ambtenaar die met vakantie, vrijstelling van dienst wegens bijzondere omstandigheden van twee maanden of langer of de dienst verlaat, wordt – onder aftrek van de reeds verleende en ingevolge [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028824&artikel=6&z=2010-10-14&g=2010-10-11), in mindering gebrachte dagen – voorafgaande daaraan een aantal extra rustdagen verleend gelijk aan het aantal in dat jaar reeds verschenen feestdagen.
+4. Aan de ambtenaar die met vakantie, vrijstelling van dienst wegens bijzondere omstandigheden van twee maanden of langer of de dienst verlaat, wordt – onder aftrek van de reeds verleende en ingevolge [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028824&artikel=6&z=2010-10-14&g=2010-10-14), in mindering gebrachte dagen – voorafgaande daaraan een aantal extra rustdagen verleend gelijk aan het aantal in dat jaar reeds verschenen feestdagen.
 
 5. Aan de in het vorige lid bedoelde ambtenaar worden echter geen extra rustdagen verleend voor de in dat jaar nog komende feestdagen die – voor zover te voorzien – binnen dat verlof of deze vrijstelling van dienst wegens buitengewone omstandigheden of na ontslag, vallen.
 
@@ -126,7 +126,7 @@ Een rustdag voor de ambtenaar in wachtdienst is een roostervrije dag van 24 aane
 
 1. In geval van buitengewone omstandigheden kan door de lokaal commandant aan de ambtenaren worden opgedragen dat zij zich gedurende een bepaalde tijd boven de voor hen vastgestelde werktijd ter beschikking van het brandweerkorps dienen te houden in hun woning dan wel in een dienstgebouw of een andere daartoe aangewezen lokaliteit of plaats.
 
-2. Voor de in het eerste lid bedoelde tijd wordt een vergoeding toegekend van tweemaal de vergoeding, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028824&artikel=8&z=2010-10-14&g=2010-10-11).
+2. Voor de in het eerste lid bedoelde tijd wordt een vergoeding toegekend van tweemaal de vergoeding, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028824&artikel=8&z=2010-10-14&g=2010-10-14).
 
 3. De in de bovenomschreven tijd gemaakte werkuren komen in aanmerking voor overwerkvergoeding overeenkomstig het in [artikel 27 van de Wet materieel ambtenarenrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=27) bepaalde voor dienst op een roostervrije dag. De vergoeding ingevolge het tweede lid komt voor deze tijd te vervallen.
 
@@ -140,7 +140,7 @@ Een rustdag voor de ambtenaar in wachtdienst is een roostervrije dag van 24 aane
 
 3. De in het eerste lid bedoelde ambtenaar ontvangt voor de duur van de tijdelijke indeling de continudiensttoelage als bedoeld in het vorige lid naar evenredigheid van het aantal dagen dat hij in vol- dan wel halfcontinudienst werkzaam is geweest.
 
-4. [Artikel 8, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028824&artikel=8&z=2010-10-14&g=2010-10-11), is van overeenkomstige toepassing op de ambtenaar die in aanmerking komt voor een continudiensttoelage.
+4. [Artikel 8, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028824&artikel=8&z=2010-10-14&g=2010-10-14), is van overeenkomstige toepassing op de ambtenaar die in aanmerking komt voor een continudiensttoelage.
 
 ##### Artikel 11
 
@@ -148,7 +148,7 @@ Een rustdag voor de ambtenaar in wachtdienst is een roostervrije dag van 24 aane
 
 2. De meerurentoelage is herleid aan de hand van de dienst- en werktijden. Ingevolge [artikel 1, onderdelen c, d en e, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028723&artikel=1) zijn aan de onderscheidene type diensturen verschillende waarderingsfaktoren verbonden waarbij tevens voor het volgens rooster verrichten van dienst op zondagen en zaterdagen, voor de onderscheidene diensturen daarenboven respectievelijk een waarderingsfaktor van 200% en 150% wordt toegekend.
 
-3. [Artikel 8, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028824&artikel=8&z=2010-10-14&g=2010-10-11), is van overeenkomstige toepassing op de ambtenaar die in aanmerking komt voor een meerurentoelage.
+3. [Artikel 8, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028824&artikel=8&z=2010-10-14&g=2010-10-14), is van overeenkomstige toepassing op de ambtenaar die in aanmerking komt voor een meerurentoelage.
 
 4. De ambtenaar die niet in de wachtdienst werkzaam is en tijdelijk wordt ingedeeld in wachtdienst ontvangt, met inachtneming van het bepaalde bij of krachtens [artikel 9 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028723&artikel=9), naar evenredigheid een toelage als bedoeld in lid 1.
 
@@ -220,7 +220,7 @@ Deze regeling kan worden aangehaald als: Dienst- en werktijdenregeling brandweer
 
 ## Bijlage
 
-Bijlage bij de Dienst- en werktijdenregeling brandweerkorps BES ter vaststelling van de hoogte van de toelagen als bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028824&artikel=8&z=2010-10-14&g=2010-10-11), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0028824&artikel=10&z=2010-10-14&g=2010-10-11) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0028824&artikel=11&z=2010-10-14&g=2010-10-11).
+Bijlage bij de Dienst- en werktijdenregeling brandweerkorps BES ter vaststelling van de hoogte van de toelagen als bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028824&artikel=8&z=2010-10-14&g=2010-10-14), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0028824&artikel=10&z=2010-10-14&g=2010-10-14) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0028824&artikel=11&z=2010-10-14&g=2010-10-14).
 
 |   | Bonaire | Sint Eustatius | Saba |
 | --- | --- | --- | --- |
