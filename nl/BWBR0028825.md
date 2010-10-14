@@ -4,7 +4,7 @@ identifier: "BWBR0028825"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2010-10-14"
-last_updated: "2010-10-11"
+last_updated: "2010-10-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028825"
 soort: "ministeriele-regeling-BES"
@@ -112,7 +112,7 @@ De ventilatievoud in een cel is minimaal 11 × 103 m3 per seconde.
 
 ##### Artikel 10
 
-1. Een observatiecel voldoet in ieder geval aan de eisen, gesteld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028825&hoofdstuk=2&paragraaf=2&artikel=5&z=2010-10-14&g=2010-10-11), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0028825&hoofdstuk=2&paragraaf=2&artikel=6&z=2010-10-14&g=2010-10-11) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028825&hoofdstuk=2&paragraaf=2&artikel=7&z=2010-10-14&g=2010-10-11).
+1. Een observatiecel voldoet in ieder geval aan de eisen, gesteld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028825&hoofdstuk=2&paragraaf=2&artikel=5&z=2010-10-14&g=2010-10-14), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0028825&hoofdstuk=2&paragraaf=2&artikel=6&z=2010-10-14&g=2010-10-14) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028825&hoofdstuk=2&paragraaf=2&artikel=7&z=2010-10-14&g=2010-10-14).
 
 2. Een observatiecel heeft een vlakke vloer en bevat geen meubilair.
 
@@ -120,7 +120,7 @@ De ventilatievoud in een cel is minimaal 11 × 103 m3 per seconde.
 
 ##### Artikel 11
 
-1. Een verhoor- of ophoudkamer voldoet in ieder geval aan de eisen overeenkomstig de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028825&hoofdstuk=2&paragraaf=2&artikel=5&z=2010-10-14&g=2010-10-11), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028825&hoofdstuk=2&paragraaf=2&artikel=7&z=2010-10-14&g=2010-10-11) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0028825&hoofdstuk=2&paragraaf=2&artikel=8&z=2010-10-14&g=2010-10-11).
+1. Een verhoor- of ophoudkamer voldoet in ieder geval aan de eisen overeenkomstig de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028825&hoofdstuk=2&paragraaf=2&artikel=5&z=2010-10-14&g=2010-10-14), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028825&hoofdstuk=2&paragraaf=2&artikel=7&z=2010-10-14&g=2010-10-14) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0028825&hoofdstuk=2&paragraaf=2&artikel=8&z=2010-10-14&g=2010-10-14).
 
 2. In de deur van de ophoudkamer is een opening, voorzien van slagvast glas.
 
@@ -158,7 +158,7 @@ De korpsbeheerder politie draagt er zorg voor dat ten aanzien van personen die z
 
 2. Ten minste eens in de vijf jaar wordt een politiecellencomplex door ambtenaren van de Raad voor de rechtshandhaving, gecontroleerd op het voldoen aan de hiervoor geldende eisen.
 
-3. De korpsbeheerder politie kan, de procureur-generaal gehoord, voor het gebruik van dat complex anders dan voor inverzekeringstelling, ontheffing verlenen van het gestelde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028825&hoofdstuk=2&paragraaf=1&artikel=3&z=2010-10-14&g=2010-10-11), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0028825&hoofdstuk=2&paragraaf=2&artikel=6&z=2010-10-14&g=2010-10-11), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0028825&hoofdstuk=2&paragraaf=2&artikel=8&z=2010-10-14&g=2010-10-11) en [9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028825&hoofdstuk=2&paragraaf=2&artikel=9&z=2010-10-14&g=2010-10-11).
+3. De korpsbeheerder politie kan, de procureur-generaal gehoord, voor het gebruik van dat complex anders dan voor inverzekeringstelling, ontheffing verlenen van het gestelde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028825&hoofdstuk=2&paragraaf=1&artikel=3&z=2010-10-14&g=2010-10-14), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0028825&hoofdstuk=2&paragraaf=2&artikel=6&z=2010-10-14&g=2010-10-14), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0028825&hoofdstuk=2&paragraaf=2&artikel=8&z=2010-10-14&g=2010-10-14) en [9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028825&hoofdstuk=2&paragraaf=2&artikel=9&z=2010-10-14&g=2010-10-14).
 
 4. Een ontheffing voor het gebruik van het politiecellencomplex als ruimte voor inverzekeringstelling en voor het gebruik daarvan anders dan voor inverzekeringstelling, indien het een ontheffing betreft van andere eisen dan genoemd in het derde lid, wordt slechts verleend door of namens de procureur-generaal.
 
