@@ -4,7 +4,7 @@ identifier: "BWBR0028811"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2010-10-14"
-last_updated: "2010-10-11"
+last_updated: "2010-10-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028811"
 soort: "ministeriele-regeling-BES"
@@ -39,8 +39,6 @@ entry_into_force: "2010-10-14"
 Gelet op [artikel 6, eerste lid, onder b, van de Pensioenwet ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028714&artikel=6);
 
 Besluit:
-
-Werkt terug tot 00:00 uur in Bonaire, Sint Eustatius en Saba en tot 06.00 uur in het Europese deel van Nederland.
 
 ##### Artikel 1
 
