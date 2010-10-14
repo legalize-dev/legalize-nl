@@ -4,7 +4,7 @@ identifier: "BWBR0023543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-18"
-last_updated: "2010-10-01"
+last_updated: "2010-10-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023543"
 soort: "ministeriele-regeling"
@@ -186,7 +186,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 3. De directeuren zijn budgethouder voor de hun door de directeur-generaal toegewezen budgetten.
 
-4. Voor zover het betreft personele besluiten hebben de directeuren en direct-leidinggevenden mandaat onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2010-01-06&g=2010-10-01), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2010-01-06&g=2010-10-01), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2010-01-06&g=2010-10-01) en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2010-01-06&g=2010-10-01).
+4. Voor zover het betreft personele besluiten hebben de directeuren en direct-leidinggevenden mandaat onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2010-10-14&g=2010-10-14), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2010-10-14&g=2010-10-14), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2010-10-14&g=2010-10-14) en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2010-10-14&g=2010-10-14).
 
 5. Het verlenen van ondermandaat van de in lid 1 en lid 2 bedoelde bevoegdheden is niet mogelijk.
 
@@ -236,7 +236,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - g. het vaststellen van de OCW-formatie en de verdeling van de personeelscapaciteit van de OCW-formatie,
 
-- h. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2010-01-06&g=2010-10-01),
+- h. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2010-10-14&g=2010-10-14),
 
 - i. het nemen van besluiten die voor alle ambtenaren van het Ministerie gelden
 
@@ -268,7 +268,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - c. vaststelling of wijziging van het organisatie- en capaciteitsplan van een onder hem ressorterend dienstonderdeel,
 
-- d. het treffen van disciplinaire straffen, met uitzondering van voorwaardelijk en onvoorwaardelijk strafontslag en onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2010-01-06&g=2010-10-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2010-01-06&g=2010-10-01) en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2010-01-06&g=2010-10-01),
+- d. het treffen van disciplinaire straffen, met uitzondering van voorwaardelijk en onvoorwaardelijk strafontslag en onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2010-10-14&g=2010-10-14), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2010-10-14&g=2010-10-14) en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2010-10-14&g=2010-10-14),
 
 - e. opstellen van het bestedingsplan voor zijn directoraat-generaal, inspectie of baten-lastendienst op basis van de bestedingsplannen van de onder hem ressorterende organisatieonderdelen,
 
@@ -280,13 +280,13 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 2. Voor het inhuren van externe professionals en uitzendkrachten door een directeur is voorafgaande goedkeuring van de directeur-generaal vereist voor zover het betreft bedragen boven € 60 per uur.
 
-3. De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaarschriften onverminderd [artikel 12, eerste lid, onderdelen o en p](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2010-01-06&g=2010-10-01).
+3. De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaarschriften onverminderd [artikel 12, eerste lid, onderdelen o en p](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2010-10-14&g=2010-10-14).
 
 4. Met uitzondering van de bevoegdheid bedoeld in lid 3 is ondermandaat van de bevoegdheden, bedoeld in dit artikel niet mogelijk.
 
 ##### Artikel 14. Voorbehouden aan de directeur CO
 
-1. De directeur-generaal DUO en de directeur Concernondersteuning zijn voor de onder hen ressorterende medewerkers gemandateerd met betrekking tot het nemen van personele besluiten, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2010-01-06&g=2010-10-01), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2010-01-06&g=2010-10-01) en [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2010-01-06&g=2010-10-01), voor zover het betreft:
+1. De directeur-generaal DUO en de directeur Concernondersteuning zijn voor de onder hen ressorterende medewerkers gemandateerd met betrekking tot het nemen van personele besluiten, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2010-10-14&g=2010-10-14), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2010-10-14&g=2010-10-14) en [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2010-10-14&g=2010-10-14), voor zover het betreft:
 
 - a. aanstellings- en benoemingsbesluiten en daaraan voorafgaande besluiten die daarop betrekking hebben,
 
@@ -298,7 +298,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - e. besluiten inhoudende erkenning van aansprakelijkheid ten aanzien van beroepsziekte, dienstongeval en beroepsincident en daaruit voortvloeiende besluiten met betrekking tot vergoeding van schade en besluiten met betrekking tot vergoedingen als bedoeld in de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=47), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=48), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=66), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=69) en [73 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=73).
 
-2. In afwijking van het bepaalde in [artikel 11 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=11&z=2010-01-06&g=2010-10-01) van dit besluit is ondermandaat van de in dit artikel opgenomen bevoegdheden mogelijk na instemming van de secretaris-generaal en de plaatsvervangend secretaris-generaal.
+2. In afwijking van het bepaalde in [artikel 11 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=11&z=2010-10-14&g=2010-10-14) van dit besluit is ondermandaat van de in dit artikel opgenomen bevoegdheden mogelijk na instemming van de secretaris-generaal en de plaatsvervangend secretaris-generaal.
 
 ##### Artikel 15. Afwezigheid of verhindering
 
@@ -324,7 +324,7 @@ handtekening van de gemandateerde,
 
 naam van de gemandateerde.
 
-2. De gemandateerde is gehouden in de ondertekening van stukken als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14a&z=2010-01-06&g=2010-10-01) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
+2. De gemandateerde is gehouden in de ondertekening van stukken als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14a&z=2010-10-14&g=2010-10-14) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
 
 **De minister van Onderwijs, Cultuur en Wetenschap en de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,**
 
@@ -734,7 +734,7 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. De directeur van de Rijksdienst voor het Cultureel Erfgoed is gemandateerd om, namens de secretaris-generaal, mede namens de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer besluiten te nemen als bedoeld in [artikel 1, eerste lid, aanhef en onder a en d, van het Mandaatbesluit beschermde stads- en dorpsgezichten](https://wetten.overheid.nl/jci1.3:c:BWBR0027565&artikel=1). Hij kan met betrekking tot dit mandaat ondermandaat verlenen aan één of meer onder hem ressorterende functionarissen.
 
-2. De directeur-generaal DUO is gemandateerd om, namens de secretaris-generaal, mede namens de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer besluiten te nemen als bedoeld in [artikel 1, eerste lid, aanhef en onder b en c, van het Mandaatbesluit beschermde stads- en dorpsgezichten](https://wetten.overheid.nl/jci1.3:c:BWBR0027565&artikel=1), tenzij dit op grond van het bepaalde in [artikel 12, eerste lid, aanhef en onder p](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2010-01-06&g=2010-10-01), is voorbehouden aan de secretaris-generaal. De directeur-generaal DUO kan met betrekking tot dit mandaat ondermandaat verlenen aan één of meer onder hem ressorterende functionarissen.
+2. De directeur-generaal DUO is gemandateerd om, namens de secretaris-generaal, mede namens de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer besluiten te nemen als bedoeld in [artikel 1, eerste lid, aanhef en onder b en c, van het Mandaatbesluit beschermde stads- en dorpsgezichten](https://wetten.overheid.nl/jci1.3:c:BWBR0027565&artikel=1), tenzij dit op grond van het bepaalde in [artikel 12, eerste lid, aanhef en onder p](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2010-10-14&g=2010-10-14), is voorbehouden aan de secretaris-generaal. De directeur-generaal DUO kan met betrekking tot dit mandaat ondermandaat verlenen aan één of meer onder hem ressorterende functionarissen.
 
 ## Bijlage. : Organisatie van het Ministerie van Onderwijs, Cultuur en Wetenschap
 
@@ -984,7 +984,7 @@ De Ivho heeft de volgende taken:
 
 - –. rapporteren over de ontwikkelingen in het onderwijs, in het bijzonder de kwaliteit daarvan, op instellings- en op stelselniveau.
 
-- –. het beoordelen van de rechtmatigheid en de doeltreffendheid van de uitvoering van de taken, opgedragen aan het college van burgemeester en wethouders bij of krachtens de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=3) en [6 van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=6).
+- –. het beoordelen van de rechtmatigheid en de doeltreffendheid van de uitvoering van de taken, opgedragen aan het college van burgemeester en wethouders bij of krachtens [hoofdstuk 1, afdelingen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&afdeling=3) en [6, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&afdeling=6).
 
 - –. het beoordelen van de financiële rechtmatigheid door in ieder geval het verrichten van onderzoek naar de controlerapporten van de door het bevoegd gezag aangewezen accountant, naar de rechtmatigheid van de bestedingen en de rechtmatigheid van het financieel beheer van de bekostigde onderwijsinstellingen.
 
