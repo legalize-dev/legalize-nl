@@ -4,7 +4,7 @@ identifier: "BWBR0026796"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-10-14"
-last_updated: "2010-08-27"
+last_updated: "2010-10-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026796"
 soort: "ministeriele-regeling"
@@ -48,11 +48,11 @@ In deze regeling wordt verstaan onder:
 
 - a. **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **gastouderbureau:** gastouderbureau waarop [artikel 90a van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=90a) van toepassing is;
+- b. **gastouderbureau:** gastouderbureau waarop [artikel 3.2 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=3.2) van toepassing is;
 
-- c. **gastouder:** gastouder op wie [artikel 90a van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=90a) van toepassing is;
+- c. **gastouder:** gastouder op wie [artikel 3.2 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=3.2) van toepassing is;
 
-- d. **certificaat goed gastouderschap:** bewijs van het met goed gevolg hebben doorlopen van een certificeringsprocedure goed gastouderschap waaruit blijkt dat de houder voor een voorziening voor gastouderopvang als bedoeld in de [Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) voldoet aan de competenties, behorende bij de beroepsopleiding, bedoeld in [artikel 7.2.2, eerste lid, onderdeel b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2), specifiek gericht op gastouderopvang;
+- d. **certificaat goed gastouderschap:** bewijs van het met goed gevolg hebben doorlopen van een certificeringsprocedure goed gastouderschap waaruit blijkt dat de houder voor een voorziening voor gastouderopvang als bedoeld in de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) voldoet aan de competenties, behorende bij de beroepsopleiding, bedoeld in [artikel 7.2.2, eerste lid, onderdeel b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2), specifiek gericht op gastouderopvang;
 
 - f. **certificeringsprocedure:** geheel van processtappen en gehanteerde instrumenten waarmee een aanbieder de verworven competenties van personen beoordeelt ten opzichte van een specifieke landelijke standaard, uitgevoerd conform de EVC-code;
 
@@ -68,7 +68,7 @@ De minister verstrekt subsidie met als doel gastouders die op de datum van inwer
 
 ##### Artikel 3. Te subsidiëren activiteiten
 
-1. Voor subsidie met het oog op en binnen de doelstelling, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026796&hoofdstuk=1&artikel=2&z=2010-08-27&g=2010-08-27), komen uitsluitend in aanmerking de werkelijke kosten van de certificeringsprocedure die wordt afgesloten met een certificaat goed gastouderschap indien wordt voldaan aan de volgende voorwaarden:
+1. Voor subsidie met het oog op en binnen de doelstelling, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026796&hoofdstuk=1&artikel=2&z=2010-10-14&g=2010-10-14), komen uitsluitend in aanmerking de werkelijke kosten van de certificeringsprocedure die wordt afgesloten met een certificaat goed gastouderschap indien wordt voldaan aan de volgende voorwaarden:
 
 - a. de certificeringsprocedure is gericht op het voldoen aan het kwalificatiedossier Helpende Zorg en Welzijn, CREBO-nr. 92640, of het eindtermendocument Helpende Welzijn, CREBO-nr. 10745;
 
@@ -80,7 +80,7 @@ De minister verstrekt subsidie met als doel gastouders die op de datum van inwer
 
 - e. de aanbieder stelt de gastouder en het desbetreffende gastouderbureau voorafgaand aan inschrijving ervan in kennis dat de subsidie ten behoeve van de certificeringsprocedure ten hoogste 75% bedraagt van het maximumbedrag, genoemd onder d;
 
-- f. de aanbieder stelt de gastouder en het gastouderbureau voorafgaand aan inschrijving in kennis van het bepaalde in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0026796&hoofdstuk=3&artikel=11&z=2010-08-27&g=2010-08-27) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0026796&hoofdstuk=7&artikel=16&z=2010-08-27&g=2010-08-27);
+- f. de aanbieder stelt de gastouder en het gastouderbureau voorafgaand aan inschrijving in kennis van het bepaalde in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0026796&hoofdstuk=3&artikel=11&z=2010-10-14&g=2010-10-14) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0026796&hoofdstuk=7&artikel=16&z=2010-10-14&g=2010-10-14);
 
 - g. ten bewijze van een met goed gevolg doorlopen certificeringsprocedure verstrekt de aanbieder aan de gastouder een certificaat goed gastouderschap;
 
@@ -108,7 +108,7 @@ De minister verstrekt subsidie met als doel gastouders die op de datum van inwer
 
 ##### Artikel 4. Subsidieaanvrager
 
-Subsidie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026796&hoofdstuk=1&artikel=3&z=2010-08-27&g=2010-08-27) wordt uitsluitend verleend aan gastouderbureaus.
+Subsidie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026796&hoofdstuk=1&artikel=3&z=2010-10-14&g=2010-10-14) wordt uitsluitend verleend aan gastouderbureaus.
 
 ##### Artikel 5. Tijdvak subsidiëring
 
@@ -144,7 +144,7 @@ Bij de subsidieaanvraag worden overgelegd:
 
 ##### Artikel 10. Beslissing op de aanvraag
 
-De minister beslist op een aanvraag als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026796&hoofdstuk=2&artikel=7&z=2010-08-27&g=2010-08-27) binnen acht weken na ontvangst van de aanvraag.
+De minister beslist op een aanvraag als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026796&hoofdstuk=2&artikel=7&z=2010-10-14&g=2010-10-14) binnen acht weken na ontvangst van de aanvraag.
 
 ##### Artikel 11. Aanvullende weigeringsgronden
 
@@ -192,7 +192,7 @@ Het subsidiebedrag wordt binnen een maand na de subsidievaststelling uitbetaald 
 
 ##### Artikel 16. Terugvordering subsidie
 
-De minister kan de subsidie terugvorderen voor zover het betreft een gastouder die met gebruikmaking van de op grond van deze regeling ontvangen subsidie een certificaat goed gastouderschap heeft behaald, voor 1 oktober 2012 tevens een diploma van een uit ’s Rijks kas bekostigde instelling als bedoeld in [artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) heeft verkregen ten bewijze dat hij voldoet aan de eisen, genoemd in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0026796&hoofdstuk=1&artikel=3&z=2010-08-27&g=2010-08-27).
+De minister kan de subsidie terugvorderen voor zover het betreft een gastouder die met gebruikmaking van de op grond van deze regeling ontvangen subsidie een certificaat goed gastouderschap heeft behaald, voor 1 oktober 2012 tevens een diploma van een uit ’s Rijks kas bekostigde instelling als bedoeld in [artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) heeft verkregen ten bewijze dat hij voldoet aan de eisen, genoemd in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0026796&hoofdstuk=1&artikel=3&z=2010-10-14&g=2010-10-14).
 
 ##### Artikel 17. Mandaatverlening BBK
 
