@@ -4,7 +4,7 @@ identifier: "BWBR0028823"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2010-10-14"
-last_updated: "2010-10-11"
+last_updated: "2010-10-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028823"
 soort: "ministeriele-regeling-BES"
@@ -46,7 +46,7 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **ambtenaren criminele inlichtingen:** de ambtenaren, bedoeld in [artikel 4, eerste lid, van het Besluit beheer politiekorps BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028780&artikel=4), waarover het politiekorps beschikt dan wel kan beschikken, dan wel de ambtenaren van de Koninklijke marechaussee, belast met de taak bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028823&paragraaf=2&artikel=2&z=2010-10-14&g=2010-10-11);
+- a. **ambtenaren criminele inlichtingen:** de ambtenaren, bedoeld in [artikel 4, eerste lid, van het Besluit beheer politiekorps BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028780&artikel=4), waarover het politiekorps beschikt dan wel kan beschikken, dan wel de ambtenaren van de Koninklijke marechaussee, belast met de taak bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028823&paragraaf=2&artikel=2&z=2010-10-14&g=2010-10-14);
 
 - b. **informantgegevens:** gegevens omtrent een persoon, bedoeld in [artikel 12, zevende lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=12);
 
@@ -88,9 +88,9 @@ Ambtenaren criminele inlichtingen zijn belast met de informatievoorziening in he
 
 2. De samenwerking strekt tot een zo doelmatig en doeltreffend mogelijke taakvervulling en bestaat in ieder geval uit:
 
-- a. een uniforme gegevensverwerking als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028823&paragraaf=2&artikel=4&z=2010-10-14&g=2010-10-11) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028823&paragraaf=2&artikel=5&z=2010-10-14&g=2010-10-11);
+- a. een uniforme gegevensverwerking als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028823&paragraaf=2&artikel=4&z=2010-10-14&g=2010-10-14) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028823&paragraaf=2&artikel=5&z=2010-10-14&g=2010-10-14);
 
-- b. onderlinge gegevensuitwisseling als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028823&paragraaf=2&artikel=6&z=2010-10-14&g=2010-10-11).
+- b. onderlinge gegevensuitwisseling als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028823&paragraaf=2&artikel=6&z=2010-10-14&g=2010-10-14).
 
 ##### Artikel 4
 
@@ -110,7 +110,7 @@ Ambtenaren criminele inlichtingen zijn belast met de informatievoorziening in he
 
 - e. het ter beschikking stellen van criminele inlichtingen overeenkomstig [artikel 10, vijfde lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10).
 
-2. De uitvoering van de werkzaamheden, bedoeld in het eerste lid, onder c, met medewerking van personen als omschreven in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028823&paragraaf=1&artikel=1&z=2010-10-14&g=2010-10-11), wordt uitsluitend verricht door de ambtenaren criminele inlichtingen.
+2. De uitvoering van de werkzaamheden, bedoeld in het eerste lid, onder c, met medewerking van personen als omschreven in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028823&paragraaf=1&artikel=1&z=2010-10-14&g=2010-10-14), wordt uitsluitend verricht door de ambtenaren criminele inlichtingen.
 
 ##### Artikel 5
 
@@ -126,11 +126,11 @@ Ambtenaren criminele inlichtingen verwerken informantgegevens overeenkomstig het
 
 ##### Artikel 7
 
-1. De verantwoordelijke bepaalt de termijn gedurende welke de ambtenaar die belast is met de werkzaamheden, bedoeld in [artikel 4, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028823&paragraaf=2&artikel=4&z=2010-10-14&g=2010-10-11), ononderbroken ambtenaar criminele inlichtingen is.
+1. De verantwoordelijke bepaalt de termijn gedurende welke de ambtenaar die belast is met de werkzaamheden, bedoeld in [artikel 4, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028823&paragraaf=2&artikel=4&z=2010-10-14&g=2010-10-14), ononderbroken ambtenaar criminele inlichtingen is.
 
 2. De termijn, bedoeld in het eerste lid, is ten hoogste vier jaar en kan tweemaal met twee jaar worden verlengd.
 
-3. Voor de ambtenaar die voor de inwerkingtreding van deze regeling is aangesteld, gaat de termijn, bedoeld in het eerste lid, in op het tijdstip, bedoeld in het [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028823&paragraaf=5&artikel=13&z=2010-10-14&g=2010-10-11).
+3. Voor de ambtenaar die voor de inwerkingtreding van deze regeling is aangesteld, gaat de termijn, bedoeld in het eerste lid, in op het tijdstip, bedoeld in het [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028823&paragraaf=5&artikel=13&z=2010-10-14&g=2010-10-14).
 
 ##### Artikel 8
 
