@@ -4,7 +4,7 @@ identifier: "BWBR0019237"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2010-05-01"
+last_updated: "2010-10-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019237"
 soort: "ministeriele-regeling"
@@ -109,7 +109,7 @@ Het verzoek, bedoeld in [artikel 8, derde lid, van de wet](https://wetten.overhe
 
 - d. een wijziging in de uurprijs;
 
-- e. een wijziging van de tegemoetkoming van de gemeente of het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=22) onderscheidenlijk [artikel 29, van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=29).
+- e. een wijziging van de tegemoetkoming van de gemeente of het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.22) onderscheidenlijk [artikel 1.29 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.29).
 
 6. In afwijking in zoverre van het eerste lid kan van een wijziging als bedoeld in het tweede lid, onderdeel b, alsmede van wijzigingen die leiden tot een beëindiging van het voorschot op de tegemoetkoming ook telefonisch dan wel anderszins mondeling mededeling worden gedaan aan de Belastingdienst/Toeslagen.
 
