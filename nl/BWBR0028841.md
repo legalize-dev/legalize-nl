@@ -4,7 +4,7 @@ identifier: "BWBR0028841"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2010-10-15"
-last_updated: "2010-10-10"
+last_updated: "2010-10-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028841"
 soort: "ministeriele-regeling-BES"
@@ -44,17 +44,17 @@ Besluit:
 
 ##### Artikel 1
 
-De invoer in het vrije verkeer van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0028841&bijlage=I&z=2010-10-15&g=2010-10-10) opgenomen werkzame stoffen of bestrijdingsmiddelen is verboden.
+De invoer in het vrije verkeer van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0028841&bijlage=I&z=2010-10-15&g=2010-10-15) opgenomen werkzame stoffen of bestrijdingsmiddelen is verboden.
 
 ##### Artikel 2
 
-Het is verboden in een openbaar lichaam de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0028841&bijlage=II&z=2010-10-15&g=2010-10-10) opgenomen werkzame stoffen of bestrijdingsmiddelen te kopen of te gebruiken, tenzij daartoe vergunning is verleend door het desbetreffende bestuurscollege van dat openbaar lichaam.
+Het is verboden in een openbaar lichaam de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0028841&bijlage=II&z=2010-10-15&g=2010-10-15) opgenomen werkzame stoffen of bestrijdingsmiddelen te kopen of te gebruiken, tenzij daartoe vergunning is verleend door het desbetreffende bestuurscollege van dat openbaar lichaam.
 
 ##### Artikel 3
 
-1. Het is verboden een in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0028841&bijlage=I&z=2010-10-15&g=2010-10-10) opgenomen werkzame stof of bestrijdingsmiddel aan te prijzen.
+1. Het is verboden een in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0028841&bijlage=I&z=2010-10-15&g=2010-10-15) opgenomen werkzame stof of bestrijdingsmiddel aan te prijzen.
 
-2. Het is verboden een in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0028841&bijlage=II&z=2010-10-15&g=2010-10-10) opgenomen werkzame stof of bestrijdingsmiddel aan te prijzen zonder daarbij te vermelden dat voor de aankoop en het gebruik van het betrokken bestrijdingsmiddel een vergunning van het bestuurscollege is vereist.
+2. Het is verboden een in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0028841&bijlage=II&z=2010-10-15&g=2010-10-15) opgenomen werkzame stof of bestrijdingsmiddel aan te prijzen zonder daarbij te vermelden dat voor de aankoop en het gebruik van het betrokken bestrijdingsmiddel een vergunning van het bestuurscollege is vereist.
 
 ##### Artikel 4
 
