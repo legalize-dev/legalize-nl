@@ -4,7 +4,7 @@ identifier: "BWBR0028862"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-10-19"
-last_updated: "2009-11-10"
+last_updated: "2010-10-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028862"
 soort: "ministeriele-regeling"
@@ -62,15 +62,15 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Een uitkering als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=2&z=2010-10-19&g=2009-11-10), wordt enkel verleend aan een gemeente die voor 16 december 2009 een aanvraag heeft ingediend die aan de voorwaarden, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=4&z=2010-10-19&g=2009-11-10), voldoet.
+1. Een uitkering als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=2&z=2010-10-19&g=2010-10-19), wordt enkel verleend aan een gemeente die voor 16 december 2009 een aanvraag heeft ingediend die aan de voorwaarden, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=4&z=2010-10-19&g=2010-10-19), voldoet.
 
-2. Een uitkering als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=2&z=2010-10-19&g=2009-11-10), wordt enkel verleend aan een gemeente die voor 15 september 2010 een aanvraag heeft ingediend, die aan de voorwaarden, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=5&z=2010-10-19&g=2009-11-10), voldoet.
+2. Een uitkering als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=2&z=2010-10-19&g=2010-10-19), wordt enkel verleend aan een gemeente die voor 15 september 2010 een aanvraag heeft ingediend, die aan de voorwaarden, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=5&z=2010-10-19&g=2010-10-19), voldoet.
 
 ##### Artikel 4
 
-1. Een aanvraag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=3&z=2010-10-19&g=2009-11-10), wordt ingediend bij SenterNovem.
+1. Een aanvraag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=3&z=2010-10-19&g=2010-10-19), wordt ingediend bij SenterNovem.
 
-2. Een aanvraag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=3&z=2010-10-19&g=2009-11-10), bevat in ieder geval:
+2. Een aanvraag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=3&z=2010-10-19&g=2010-10-19), bevat in ieder geval:
 
 - a. een begroting van de kosten voor het opstellen van de planstudie;
 
@@ -78,7 +78,7 @@ In deze regeling wordt verstaan onder:
 
 - c. een kopie van het raadsbesluit waaruit blijkt dat de aanvrager streeft naar een klimaatneutrale stad in 2050 of andere documenten waaruit dit streven blijkt, met in ieder geval een document waaruit de langetermijnvisie van de aanvrager blijkt.
 
-3. Uit een aanvraag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=3&z=2010-10-19&g=2009-11-10), blijkt verder in ieder geval, dat de planstudie:
+3. Uit een aanvraag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=3&z=2010-10-19&g=2010-10-19), blijkt verder in ieder geval, dat de planstudie:
 
 - a. onderdeel uitmaakt van, of past binnen, een programma om een klimaatneutrale stad te bereiken;
 
@@ -96,15 +96,15 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 5
 
-1. Een aanvraag als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=3&z=2010-10-19&g=2009-11-10), wordt ingediend bij Agentschap NL.
+1. Een aanvraag als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=3&z=2010-10-19&g=2010-10-19), wordt ingediend bij Agentschap NL.
 
-2. Een aanvraag als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=3&z=2010-10-19&g=2009-11-10), kan enkel worden ingediend door een gemeente die voor 19 april 2010 een projectvoorstel heeft ingediend, dat:
+2. Een aanvraag als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=3&z=2010-10-19&g=2010-10-19), kan enkel worden ingediend door een gemeente die voor 19 april 2010 een projectvoorstel heeft ingediend, dat:
 
-- a. positief is beoordeeld op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=7&z=2010-10-19&g=2009-11-10), en,
+- a. positief is beoordeeld op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=7&z=2010-10-19&g=2010-10-19), en,
 
-- b. na rangschikking op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=8&z=2010-10-19&g=2009-11-10) tot één van de acht hoogst gerangschikte projectvoorstellen behoort.
+- b. na rangschikking op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=8&z=2010-10-19&g=2010-10-19) tot één van de acht hoogst gerangschikte projectvoorstellen behoort.
 
-3. Een aanvraag als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=3&z=2010-10-19&g=2009-11-10), bevat in ieder geval:
+3. Een aanvraag als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=3&z=2010-10-19&g=2010-10-19), bevat in ieder geval:
 
 - a. de naam van de aanvrager;
 
@@ -126,7 +126,7 @@ In deze regeling wordt verstaan onder:
 
 - j. overige relevante informatie.
 
-4. Uit een aanvraag als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=3&z=2010-10-19&g=2009-11-10), blijkt verder in ieder geval:
+4. Uit een aanvraag als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=3&z=2010-10-19&g=2010-10-19), blijkt verder in ieder geval:
 
 - a. wie de samenwerkingspartners zijn;
 
@@ -138,9 +138,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 6
 
-1. Een projectvoorstel als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=5&z=2010-10-19&g=2009-11-10), bestaat ten hoogste uit twee pagina’s van A4-formaat met een lettergrootte negen of tien en volgt het modelformulier dat op www.agentschapnl.nl/klimaatneutralesteden staat.
+1. Een projectvoorstel als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=5&z=2010-10-19&g=2010-10-19), bestaat ten hoogste uit twee pagina’s van A4-formaat met een lettergrootte negen of tien en volgt het modelformulier dat op www.agentschapnl.nl/klimaatneutralesteden staat.
 
-2. Een projectvoorstel als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=5&z=2010-10-19&g=2009-11-10), bevat in ieder geval:
+2. Een projectvoorstel als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=5&z=2010-10-19&g=2010-10-19), bevat in ieder geval:
 
 - a. de naam van de aanvrager;
 
@@ -158,7 +158,7 @@ In deze regeling wordt verstaan onder:
 
 - h. een globale begroting van de proces- en begeleidingskosten van het proefproject.
 
-3. Uit een projectvoorstel als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=5&z=2010-10-19&g=2009-11-10), blijkt verder in ieder geval:
+3. Uit een projectvoorstel als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=5&z=2010-10-19&g=2010-10-19), blijkt verder in ieder geval:
 
 - a. wie de samenwerkingspartners zijn;
 
@@ -178,9 +178,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 7
 
-De minister beoordeelt een projectvoorstel als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=5&z=2010-10-19&g=2009-11-10), positief, indien:
+De minister beoordeelt een projectvoorstel als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=5&z=2010-10-19&g=2010-10-19), positief, indien:
 
-- a. het projectvoorstel aan de voorwaarden, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=6&z=2010-10-19&g=2009-11-10), voldoet;
+- a. het projectvoorstel aan de voorwaarden, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=6&z=2010-10-19&g=2010-10-19), voldoet;
 
 - b. het proefproject betrekking heeft op twee thema’s uit de Innovatieagenda, en
 
@@ -188,7 +188,7 @@ De minister beoordeelt een projectvoorstel als bedoeld in [artikel 5, tweede lid
 
 ##### Artikel 8
 
-1. De minister rangschikt de projectvoorstellen als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=5&z=2010-10-19&g=2009-11-10), die op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=7&z=2010-10-19&g=2009-11-10) positief zijn beoordeeld, waarbij een projectvoorstel hoger in de rangschikking wordt geplaatst naarmate naar het oordeel van de minister het projectvoorstel een grotere bijdrage levert aan de doelstelling van de uitkering.
+1. De minister rangschikt de projectvoorstellen als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=5&z=2010-10-19&g=2010-10-19), die op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=7&z=2010-10-19&g=2010-10-19) positief zijn beoordeeld, waarbij een projectvoorstel hoger in de rangschikking wordt geplaatst naarmate naar het oordeel van de minister het projectvoorstel een grotere bijdrage levert aan de doelstelling van de uitkering.
 
 2. Bij de rangschikking houdt de minister rekening met:
 
@@ -216,19 +216,19 @@ het project betrekking heeft.
 
 ##### Artikel 9
 
-1. Het totale bedrag van de te verlenen uitkeringen op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=2&z=2010-10-19&g=2009-11-10), bedraagt €1.000.000,-.
+1. Het totale bedrag van de te verlenen uitkeringen op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=2&z=2010-10-19&g=2010-10-19), bedraagt €1.000.000,-.
 
-2. De minister verdeelt het bedrag, genoemd in het eerste lid, in de volgorde van ontvangst van de aanvragen, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=3&z=2010-10-19&g=2009-11-10).
+2. De minister verdeelt het bedrag, genoemd in het eerste lid, in de volgorde van ontvangst van de aanvragen, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=3&z=2010-10-19&g=2010-10-19).
 
-3. Het totale bedrag van de op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=2&z=2010-10-19&g=2009-11-10), te verlenen uitkeringen bedraagt € 5.000.000,–.
+3. Het totale bedrag van de op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=2&z=2010-10-19&g=2010-10-19), te verlenen uitkeringen bedraagt € 5.000.000,–.
 
-4. De minister verdeelt het bedrag, genoemd in het derde lid, over de aanvragen, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=3&z=2010-10-19&g=2009-11-10), in de volgorde van de hoogte in de rangschikking van de bij de aanvragen behorende projectvoorstellen als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=5&z=2010-10-19&g=2009-11-10).
+4. De minister verdeelt het bedrag, genoemd in het derde lid, over de aanvragen, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=3&z=2010-10-19&g=2010-10-19), in de volgorde van de hoogte in de rangschikking van de bij de aanvragen behorende projectvoorstellen als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=5&z=2010-10-19&g=2010-10-19).
 
 ##### Artikel 10
 
-1. Een uitkering op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=2&z=2010-10-19&g=2009-11-10), bedraagt tenminste € 50.000 en ten hoogste € 150.000 per aanvraag.
+1. Een uitkering op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=2&z=2010-10-19&g=2010-10-19), bedraagt tenminste € 50.000 en ten hoogste € 150.000 per aanvraag.
 
-2. Een uitkering op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=2&z=2010-10-19&g=2009-11-10), bedraagt ten hoogste € 1.000.000 per aanvraag.
+2. Een uitkering op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=2&z=2010-10-19&g=2010-10-19), bedraagt ten hoogste € 1.000.000 per aanvraag.
 
 3. Zolang een uitkering nog niet is vastgesteld kan de minister de beschikking tot verlening van de uitkering intrekken of ten nadele van de gemeente waaraan de uitkering is verleend wijzigen, indien:
 
@@ -242,7 +242,7 @@ het project betrekking heeft.
 
 ##### Artikel 11
 
-Een uitkering als bedoeld in [artikel 2, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=2&z=2010-10-19&g=2009-11-10), wordt verleend ten behoeve van de noodzakelijke, rechtstreeks aan het opstellen van de planstudie onderscheidenlijk het uitvoeren van het proefproject toe te rekenen kosten, bestaande uit:
+Een uitkering als bedoeld in [artikel 2, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=2&z=2010-10-19&g=2010-10-19), wordt verleend ten behoeve van de noodzakelijke, rechtstreeks aan het opstellen van de planstudie onderscheidenlijk het uitvoeren van het proefproject toe te rekenen kosten, bestaande uit:
 
 - a. de loonkosten van medewerkers die bij het opstellen van de planstudie of het uitvoeren van het proefproject betrokken zijn, berekend op basis van het brutoloon van de betrokken medewerkers, verhoogd met de wettelijke of op grond van een collectieve arbeidsovereenkomst verschuldigde opslagen voor sociale lasten, met dien verstande dat wordt uitgegaan van een uurloon, berekend op basis van het jaarloon bij een volledige betrekking, gedeeld door 1600, of
 
@@ -250,17 +250,17 @@ Een uitkering als bedoeld in [artikel 2, eerste of tweede lid](https://wetten.ov
 
 ##### Artikel 12
 
-1. De gemeente waaraan een uitkering is verleend op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=2&z=2010-10-19&g=2009-11-10), betaalt 50% van de kosten, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=11&z=2010-10-19&g=2009-11-10), uit eigen middelen of met behulp van middelen van samenwerkingspartners.
+1. De gemeente waaraan een uitkering is verleend op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=2&z=2010-10-19&g=2010-10-19), betaalt 50% van de kosten, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=11&z=2010-10-19&g=2010-10-19), uit eigen middelen of met behulp van middelen van samenwerkingspartners.
 
-2. De gemeente waaraan een uitkering is verleend op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=2&z=2010-10-19&g=2009-11-10), betaalt een substantieel deel van de kosten, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=11&z=2010-10-19&g=2009-11-10), uit eigen middelen of met behulp van middelen van samenwerkingspartners.
+2. De gemeente waaraan een uitkering is verleend op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=2&z=2010-10-19&g=2010-10-19), betaalt een substantieel deel van de kosten, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=11&z=2010-10-19&g=2010-10-19), uit eigen middelen of met behulp van middelen van samenwerkingspartners.
 
-3. Voor zover het opstellen van de planstudie of het uitvoeren van het proefproject al dan niet gedeeltelijk wordt betaald met een andere uitkering van het Rijk, wordt een uitkering als bedoeld in [artikel 2, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=2&z=2010-10-19&g=2009-11-10), zodanig vastgesteld dat het totaal van de uitkeringen niet hoger is dan de totale uitkering die op grond van deze regeling kan worden verstrekt.
+3. Voor zover het opstellen van de planstudie of het uitvoeren van het proefproject al dan niet gedeeltelijk wordt betaald met een andere uitkering van het Rijk, wordt een uitkering als bedoeld in [artikel 2, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=2&z=2010-10-19&g=2010-10-19), zodanig vastgesteld dat het totaal van de uitkeringen niet hoger is dan de totale uitkering die op grond van deze regeling kan worden verstrekt.
 
 ##### Artikel 13
 
-De gemeente waaraan een uitkering is verleend op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=2&z=2010-10-19&g=2009-11-10):
+De gemeente waaraan een uitkering is verleend op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=2&z=2010-10-19&g=2010-10-19):
 
-- a. besteedt het verleende bedrag uitsluitend aan kosten als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=11&z=2010-10-19&g=2009-11-10);
+- a. besteedt het verleende bedrag uitsluitend aan kosten als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=11&z=2010-10-19&g=2010-10-19);
 
 - b. neemt actief deel aan het kennis- en leertraject, en
 
@@ -290,7 +290,7 @@ De minister stelt een uitkering overeenkomstig de verlening vast, tenzij:
 
 ##### Artikel 17
 
-In afwijking van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=15&z=2010-10-19&g=2009-11-10), kan de minister een uitkering geheel of gedeeltelijk ambtshalve vaststellen, indien de beschikking tot verlening van de uitkering of tot vaststelling van de uitkering wordt ingetrokken of ten nadele van de gemeente waaraan de uitkering is verleend wordt gewijzigd.
+In afwijking van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=15&z=2010-10-19&g=2010-10-19), kan de minister een uitkering geheel of gedeeltelijk ambtshalve vaststellen, indien de beschikking tot verlening van de uitkering of tot vaststelling van de uitkering wordt ingetrokken of ten nadele van de gemeente waaraan de uitkering is verleend wordt gewijzigd.
 
 ##### Artikel 18
 
