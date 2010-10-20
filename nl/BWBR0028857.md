@@ -4,7 +4,7 @@ identifier: "BWBR0028857"
 country: "nl"
 rank: "kb"
 publication_date: "2010-10-20"
-last_updated: "2010-10-14"
+last_updated: "2010-10-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028857"
 soort: "KB"
@@ -70,13 +70,13 @@ Er is een ministerie van Infrastructuur en Milieu.
 
 ##### Artikel 6
 
-1. Onze Minister van Infrastructuur en Milieu wordt belast met de behartiging van alle aangelegenheden die voor 14 oktober 2010 waren opgedragen aan Onze Minister van Verkeer en Waterstaat en aan Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, met uitzondering van de aangelegenheden zoals bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028857&artikel=2&z=2010-10-20&g=2010-10-14), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028857&artikel=3&z=2010-10-20&g=2010-10-14) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028857&artikel=4&z=2010-10-20&g=2010-10-14).
+1. Onze Minister van Infrastructuur en Milieu wordt belast met de behartiging van alle aangelegenheden die voor 14 oktober 2010 waren opgedragen aan Onze Minister van Verkeer en Waterstaat en aan Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, met uitzondering van de aangelegenheden zoals bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028857&artikel=2&z=2010-10-20&g=2010-10-20), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028857&artikel=3&z=2010-10-20&g=2010-10-20) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028857&artikel=4&z=2010-10-20&g=2010-10-20).
 
 2. De taken van het ministerie van Infrastructuur en Milieu worden dienovereenkomstig gewijzigd.
 
 ##### Artikel 7
 
-1. De verplichtingen ten aanzien van het personeel en de zorg voor overige beheersaangelegenheden van het voormalige ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer gaan in samenhang en evenredigheid met de taakwijzigingen als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028857&artikel=2&z=2010-10-20&g=2010-10-14), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028857&artikel=3&z=2010-10-20&g=2010-10-14), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028857&artikel=4&z=2010-10-20&g=2010-10-14) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0028857&artikel=6&z=2010-10-20&g=2010-10-14) over op onderscheidenlijk het ministerie van Binnenlandse Zaken en Koninkrijksrelaties, het ministerie van Economische Zaken, Landbouw en Innovatie, het ministerie van Buitenlandse Zaken en het ministerie van Infrastructuur en Milieu.
+1. De verplichtingen ten aanzien van het personeel en de zorg voor overige beheersaangelegenheden van het voormalige ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer gaan in samenhang en evenredigheid met de taakwijzigingen als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028857&artikel=2&z=2010-10-20&g=2010-10-20), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028857&artikel=3&z=2010-10-20&g=2010-10-20), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028857&artikel=4&z=2010-10-20&g=2010-10-20) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0028857&artikel=6&z=2010-10-20&g=2010-10-20) over op onderscheidenlijk het ministerie van Binnenlandse Zaken en Koninkrijksrelaties, het ministerie van Economische Zaken, Landbouw en Innovatie, het ministerie van Buitenlandse Zaken en het ministerie van Infrastructuur en Milieu.
 
 2. De organisatorische, personele en rechtspositionele aspecten van de in het eerste lid bedoelde overgang worden uitgewerkt in overleg tussen Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, Onze Minister van Economische Zaken, Landbouw en Innovatie, Onze Minister van Buitenlandse Zaken en Onze Minister van Infrastructuur en Milieu.
 
