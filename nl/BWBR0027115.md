@@ -4,7 +4,7 @@ identifier: "BWBR0027115"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-01-01"
-last_updated: "2010-04-30"
+last_updated: "2010-10-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027115"
 soort: "ministeriele-regeling"
@@ -116,41 +116,41 @@ In deze regeling wordt verstaan onder:
 
 2. Aanvragen om subsidie als bedoeld in het eerste lid, worden ontvangen in de periode van 1 maart 2010 tot en met 1 november 2010, 17:00 uur.
 
-3. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&bijlage=1&z=2010-04-30&g=2010-04-30).
+3. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&bijlage=1&z=2010-10-20&g=2010-10-20).
 
 ##### Artikel 3
 
-1. Het subsidieplafond voor het verlenen van subsidie die is aangevraagd in de periode, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.1&artikel=2&z=2010-04-30&g=2010-04-30), bedraagt € 937.000.000,–.
+1. Het subsidieplafond voor het verlenen van subsidie die is aangevraagd in de periode, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.1&artikel=2&z=2010-10-20&g=2010-10-20), bedraagt € 937.000.000,–.
 
 2. De minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van binnenkomst van de aanvragen.
 
 ##### Artikel 4
 
-1. Subsidie als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.1&artikel=2&z=2010-04-30&g=2010-04-30), wordt voor een periode van 15 jaar verstrekt.
+1. Subsidie als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.1&artikel=2&z=2010-10-20&g=2010-10-20), wordt voor een periode van 15 jaar verstrekt.
 
 2. De subsidie-ontvanger neemt de productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op land binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.
 
 ##### Artikel 5
 
-1. Het maximaal aantal vollasturen voor productie-installaties als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.1&artikel=2&z=2010-04-30&g=2010-04-30), bedraagt 1760 uren per jaar.
+1. Het maximaal aantal vollasturen voor productie-installaties als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.1&artikel=2&z=2010-10-20&g=2010-10-20), bedraagt 1760 uren per jaar.
 
-2. Het maximaal aantal vollasturen voor productie-installaties als bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.1&artikel=2&z=2010-04-30&g=2010-04-30), bedraagt 2476 uren per jaar.
+2. Het maximaal aantal vollasturen voor productie-installaties als bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.1&artikel=2&z=2010-10-20&g=2010-10-20), bedraagt 2476 uren per jaar.
 
 ##### Artikel 6
 
-Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.1&artikel=2&z=2010-04-30&g=2010-04-30), bedraagt voor productie- installaties als bedoeld in:
+Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.1&artikel=2&z=2010-10-20&g=2010-10-20), bedraagt voor productie- installaties als bedoeld in:
 
-- a. [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.1&artikel=2&z=2010-04-30&g=2010-04-30): € 0,120 per kWh;
+- a. [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.1&artikel=2&z=2010-10-20&g=2010-10-20): € 0,120 per kWh;
 
-- b. [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.1&artikel=2&z=2010-04-30&g=2010-04-30): € 0,120 per kWh.
+- b. [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.1&artikel=2&z=2010-10-20&g=2010-10-20): € 0,120 per kWh.
 
 ##### Artikel 7
 
-De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.1&artikel=2&z=2010-04-30&g=2010-04-30), bedraagt voor productie- installaties als bedoeld in:
+De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.1&artikel=2&z=2010-10-20&g=2010-10-20), bedraagt voor productie- installaties als bedoeld in:
 
-- a. [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.1&artikel=2&z=2010-04-30&g=2010-04-30): € 0,049 per kWh;
+- a. [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.1&artikel=2&z=2010-10-20&g=2010-10-20): € 0,049 per kWh;
 
-- b. [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.1&artikel=2&z=2010-04-30&g=2010-04-30): € 0,050 per kWh.
+- b. [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.1&artikel=2&z=2010-10-20&g=2010-10-20): € 0,050 per kWh.
 
 #### § 2.2. Fotovoltaïsche zonnepanelen
 
@@ -168,27 +168,27 @@ De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wet
 
 4. Aanvragen om subsidie als bedoeld in het eerste lid, onderdeel b, worden ontvangen in de periode van 31 mei 2010 tot en met 1 november 2010, 17:00 uur. Aanvragen, ingediend via www.agentschapnl.nl/sde in de periode van 18 mei 2010 tot en met 30 mei 2010, worden geacht te zijn ontvangen op 31 mei 2010.
 
-5. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&bijlage=2&z=2010-04-30&g=2010-04-30).
+5. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&bijlage=2&z=2010-10-20&g=2010-10-20).
 
-6. Een gebundelde aanvraag om subsidie als bedoeld in [artikel 56, eerste lid, tweede volzin, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=56) wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier dat is opgenomen in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&bijlage=3&z=2010-04-30&g=2010-04-30).
+6. Een gebundelde aanvraag om subsidie als bedoeld in [artikel 56, eerste lid, tweede volzin, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=56) wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier dat is opgenomen in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&bijlage=3&z=2010-10-20&g=2010-10-20).
 
 7. Een aanvraag om subsidie als bedoeld in het vijfde lid en zesde lid, wordt geacht een aanvraag tot het verstrekken van een voorschot te zijn, tenzij de aanvrager te kennen geeft een aparte aanvraag tot het verstrekken van een voorschot te willen indienen of aangeeft geen voorschot te willen ontvangen.
 
 ##### Artikel 9
 
-Voor subsidie als bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.2&artikel=8&z=2010-04-30&g=2010-04-30), is de rapportageverplichting, bedoeld in [artikel 3, tweede lid, van de algemene uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=3) niet van toepassing.
+Voor subsidie als bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.2&artikel=8&z=2010-10-20&g=2010-10-20), is de rapportageverplichting, bedoeld in [artikel 3, tweede lid, van de algemene uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=3) niet van toepassing.
 
 ##### Artikel 10
 
-1. Het subsidieplafond voor het verlenen van subsidie die is aangevraagd in de periode, bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.2&artikel=8&z=2010-04-30&g=2010-04-30), bedraagt voor productie-installaties als bedoeld artikel 8, eerste lid, onderdeel a, € 69.000.000,–.
+1. Het subsidieplafond voor het verlenen van subsidie die is aangevraagd in de periode, bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.2&artikel=8&z=2010-10-20&g=2010-10-20), bedraagt voor productie-installaties als bedoeld artikel 8, eerste lid, onderdeel a, € 69.000.000,–.
 
-2. Het subsidieplafond voor het verlenen van subsidie die is aangevraagd in de periode, bedoeld in [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.2&artikel=8&z=2010-04-30&g=2010-04-30), bedraagt voor productie-installaties als bedoeld in artikel 8, eerste lid, onderdeel b, € 24.000.000,–.
+2. Het subsidieplafond voor het verlenen van subsidie die is aangevraagd in de periode, bedoeld in [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.2&artikel=8&z=2010-10-20&g=2010-10-20), bedraagt voor productie-installaties als bedoeld in artikel 8, eerste lid, onderdeel b, € 24.000.000,–.
 
 3. De minister verdeelt de bedragen, genoemd in het eerste en tweede lid, op volgorde van binnenkomst van de aanvragen.
 
 ##### Artikel 11
 
-1. Subsidie als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.2&artikel=8&z=2010-04-30&g=2010-04-30), wordt voor een periode van 15 jaar verstrekt.
+1. Subsidie als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.2&artikel=8&z=2010-10-20&g=2010-10-20), wordt voor een periode van 15 jaar verstrekt.
 
 2. De subsidie-ontvanger neemt de productie-installatie voor de productie van hernieuwbare elektriciteit uit zonlicht met behulp van fotovoltaïsche zonnepanelen binnen 18 maanden na de datum van de beschikking tot subsidieverlening in gebruik.
 
@@ -200,21 +200,21 @@ Het maximaal aantal vollasturen voor productie-installaties voor de productie va
 
 ##### Artikel 13
 
-Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.2&artikel=8&z=2010-04-30&g=2010-04-30), bedraagt voor productie-installaties als bedoeld in:
+Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.2&artikel=8&z=2010-10-20&g=2010-10-20), bedraagt voor productie-installaties als bedoeld in:
 
-- a. [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.2&artikel=8&z=2010-04-30&g=2010-04-30), voor de productie tot en met 6375 kWh per jaar: € 0,474 per kWh;
+- a. [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.2&artikel=8&z=2010-10-20&g=2010-10-20), voor de productie tot en met 6375 kWh per jaar: € 0,474 per kWh;
 
-- b. [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.2&artikel=8&z=2010-04-30&g=2010-04-30), voor de productie boven 6375 kWh per jaar: € 0,00 per kWh;
+- b. [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.2&artikel=8&z=2010-10-20&g=2010-10-20), voor de productie boven 6375 kWh per jaar: € 0,00 per kWh;
 
-- c. [artikel 8, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.2&artikel=8&z=2010-04-30&g=2010-04-30): € 0,430 per kWh.
+- c. [artikel 8, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.2&artikel=8&z=2010-10-20&g=2010-10-20): € 0,430 per kWh.
 
 ##### Artikel 14
 
-De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.2&artikel=8&z=2010-04-30&g=2010-04-30), bedraagt voor productie-installaties als bedoeld in:
+De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.2&artikel=8&z=2010-10-20&g=2010-10-20), bedraagt voor productie-installaties als bedoeld in:
 
-- a. [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.2&artikel=8&z=2010-04-30&g=2010-04-30): € 0,202 per kWh;
+- a. [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.2&artikel=8&z=2010-10-20&g=2010-10-20): € 0,202 per kWh;
 
-- b. [artikel 8, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.2&artikel=8&z=2010-04-30&g=2010-04-30): € 0,053 per kWh.
+- b. [artikel 8, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.2&artikel=8&z=2010-10-20&g=2010-10-20): € 0,053 per kWh.
 
 #### § 2.3. Afvalverbranding
 
@@ -224,21 +224,21 @@ De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wet
 
 2. Aanvragen om subsidie als bedoeld in het eerste lid, worden ontvangen in de periode van 1 maart 2010 tot en met 1 november 2010, 17:00 uur.
 
-3. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&bijlage=4&z=2010-04-30&g=2010-04-30).
+3. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&bijlage=4&z=2010-10-20&g=2010-10-20).
 
 ##### Artikel 16
 
-Voor subsidie als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.3&artikel=15&z=2010-04-30&g=2010-04-30), is de rapportageverplichting, bedoeld in [artikel 6, eerste lid, van de algemene uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=6) niet van toepassing.
+Voor subsidie als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.3&artikel=15&z=2010-10-20&g=2010-10-20), is de rapportageverplichting, bedoeld in [artikel 6, eerste lid, van de algemene uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=6) niet van toepassing.
 
 ##### Artikel 17
 
-1. Het subsidieplafond voor het verlenen van subsidie die is aangevraagd in de periode, bedoeld in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.3&artikel=15&z=2010-04-30&g=2010-04-30), bedraagt € 238.000.000,–.
+1. Het subsidieplafond voor het verlenen van subsidie die is aangevraagd in de periode, bedoeld in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.3&artikel=15&z=2010-10-20&g=2010-10-20), bedraagt € 238.000.000,–.
 
 2. De minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van binnenkomst van de aanvragen.
 
 ##### Artikel 18
 
-1. Subsidie als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.3&artikel=15&z=2010-04-30&g=2010-04-30), wordt voor een periode van 15 jaar verstrekt.
+1. Subsidie als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.3&artikel=15&z=2010-10-20&g=2010-10-20), wordt voor een periode van 15 jaar verstrekt.
 
 2. De subsidie-ontvanger neemt de productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van afvalverbranding binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.
 
@@ -248,7 +248,7 @@ Het maximaal aantal vollasturen voor productie-installaties voor de productie va
 
 ##### Artikel 20
 
-Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.3&artikel=15&z=2010-04-30&g=2010-04-30), bedraagt bij een gewogen maandelijks rendement dat groter is dan genoemd in kolom 1 en kleiner is dan of gelijk is aan genoemd in kolom 2, het bedrag in euro per kWh, genoemd in kolom 3.
+Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.3&artikel=15&z=2010-10-20&g=2010-10-20), bedraagt bij een gewogen maandelijks rendement dat groter is dan genoemd in kolom 1 en kleiner is dan of gelijk is aan genoemd in kolom 2, het bedrag in euro per kWh, genoemd in kolom 3.
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --- | --- | --- |
@@ -265,7 +265,7 @@ Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid
 
 ##### Artikel 21
 
-De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.3&artikel=15&z=2010-04-30&g=2010-04-30), bedraagt € 0,090 per kWh.
+De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.3&artikel=15&z=2010-10-20&g=2010-10-20), bedraagt € 0,090 per kWh.
 
 #### § 2.4. Stortgas of biogas uit afvalwater- of rioolwaterzuiveringsinstallaties
 
@@ -275,21 +275,21 @@ De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wet
 
 2. Aanvragen om subsidie als bedoeld in het eerste lid, worden ontvangen in de periode van 1 maart 2010 tot en met 1 november 2010, 17:00 uur.
 
-3. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&bijlage=4&z=2010-04-30&g=2010-04-30).
+3. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&bijlage=4&z=2010-10-20&g=2010-10-20).
 
 ##### Artikel 23
 
-Voor subsidie als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.4&artikel=22&z=2010-04-30&g=2010-04-30), is de rapportageverplichting, bedoeld in [artikel 6, eerste lid, van de algemene uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=6) niet van toepassing.
+Voor subsidie als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.4&artikel=22&z=2010-10-20&g=2010-10-20), is de rapportageverplichting, bedoeld in [artikel 6, eerste lid, van de algemene uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=6) niet van toepassing.
 
 ##### Artikel 24
 
-1. Het subsidieplafond voor het verlenen van subsidie die is aangevraagd in de in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.4&artikel=22&z=2010-04-30&g=2010-04-30), bedoelde periode, bedraagt € 13.000.000,–.
+1. Het subsidieplafond voor het verlenen van subsidie die is aangevraagd in de in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.4&artikel=22&z=2010-10-20&g=2010-10-20), bedoelde periode, bedraagt € 13.000.000,–.
 
 2. De minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van binnenkomst van de aanvragen.
 
 ##### Artikel 25
 
-1. Subsidie als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.4&artikel=22&z=2010-04-30&g=2010-04-30), wordt voor een periode van 12 jaar verstrekt.
+1. Subsidie als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.4&artikel=22&z=2010-10-20&g=2010-10-20), wordt voor een periode van 12 jaar verstrekt.
 
 2. De subsidie-ontvanger neemt de productie-installatie voor de productie van hernieuwbare elektriciteit met gebruik van stortgas of biogas uit afvalwater- of rioolwaterzuiveringsinstallaties binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.
 
@@ -299,11 +299,11 @@ Het maximaal aantal vollasturen voor een productie-installatie voor de productie
 
 ##### Artikel 27
 
-Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.4&artikel=22&z=2010-04-30&g=2010-04-30), bedraagt € 0,059 per kWh.
+Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.4&artikel=22&z=2010-10-20&g=2010-10-20), bedraagt € 0,059 per kWh.
 
 ##### Artikel 28
 
-De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.4&artikel=22&z=2010-04-30&g=2010-04-30), bedraagt € 0,044 per kWh.
+De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.4&artikel=22&z=2010-10-20&g=2010-10-20), bedraagt € 0,044 per kWh.
 
 #### § 2.5. Biomassa
 
@@ -323,27 +323,27 @@ De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wet
 
 2. Aanvragen om subsidie als bedoeld in het eerste lid, worden ontvangen in de periode van 1 maart 2010 tot en met 1 november 2010, 17:00 uur.
 
-3. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&bijlage=4&z=2010-04-30&g=2010-04-30).
+3. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&bijlage=4&z=2010-10-20&g=2010-10-20).
 
 ##### Artikel 30
 
-1. Het subsidieplafond voor het verlenen van subsidie die is aangevraagd in de in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.5&artikel=29&z=2010-04-30&g=2010-04-30), bedoelde periode, bedraagt € 400.000.000,–.
+1. Het subsidieplafond voor het verlenen van subsidie die is aangevraagd in de in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.5&artikel=29&z=2010-10-20&g=2010-10-20), bedoelde periode, bedraagt € 400.000.000,–.
 
 2. De minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van binnenkomst van de aanvragen.
 
 ##### Artikel 31
 
-1. Subsidie als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.5&artikel=29&z=2010-04-30&g=2010-04-30), wordt voor een periode van 12 jaar verstrekt.
+1. Subsidie als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.5&artikel=29&z=2010-10-20&g=2010-10-20), wordt voor een periode van 12 jaar verstrekt.
 
-2. De subsidie-ontvanger neemt de productie-installatie voor de productie van hernieuwbare elektriciteit bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.5&artikel=30&z=2010-04-30&g=2010-04-30), binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.
+2. De subsidie-ontvanger neemt de productie-installatie voor de productie van hernieuwbare elektriciteit bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.5&artikel=30&z=2010-10-20&g=2010-10-20), binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.
 
 ##### Artikel 32
 
-Het maximaal aantal vollasturen voor productie-installaties als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.5&artikel=29&z=2010-04-30&g=2010-04-30), bedraagt 8000 uren per jaar.
+Het maximaal aantal vollasturen voor productie-installaties als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.5&artikel=29&z=2010-10-20&g=2010-10-20), bedraagt 8000 uren per jaar.
 
 ##### Artikel 33
 
-1. Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 29, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.5&artikel=29&z=2010-04-30&g=2010-04-30), bedraagt bij een warmtebenuttingscoëfficiënt groter dan genoemd in kolom 1 en kleiner dan of gelijk aan genoemd in kolom 2 een bedrag in euro per kWh, genoemd in kolom 3.
+1. Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 29, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.5&artikel=29&z=2010-10-20&g=2010-10-20), bedraagt bij een warmtebenuttingscoëfficiënt groter dan genoemd in kolom 1 en kleiner dan of gelijk aan genoemd in kolom 2 een bedrag in euro per kWh, genoemd in kolom 3.
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --- | --- | --- |
@@ -357,7 +357,7 @@ Het maximaal aantal vollasturen voor productie-installaties als bedoeld in [arti
 | 1,75 MJ/kWh | 2,0 MJ/kWh | 0,190 |
 | 2,0 MJ/kWh | Onbepaald | 0,193 |
 
-2. Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 29, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.5&artikel=29&z=2010-04-30&g=2010-04-30), bedraagt bij een warmtebenuttingscoëfficiënt groter dan genoemd in kolom 1 en kleiner dan of gelijk aan genoemd in kolom 2 een bedrag in euro per kWh, genoemd in kolom 3.
+2. Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 29, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.5&artikel=29&z=2010-10-20&g=2010-10-20), bedraagt bij een warmtebenuttingscoëfficiënt groter dan genoemd in kolom 1 en kleiner dan of gelijk aan genoemd in kolom 2 een bedrag in euro per kWh, genoemd in kolom 3.
 
 | Kolom1 | Kolom 2 | Kolom 3 |
 | --- | --- | --- |
@@ -371,9 +371,9 @@ Het maximaal aantal vollasturen voor productie-installaties als bedoeld in [arti
 | 1,75 MJ/kWh | 2,0 MJ/kWh | 0,146 |
 | 2,0 MJ/kWh | Onbepaald | 0,149 |
 
-3. Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 29, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.5&artikel=29&z=2010-04-30&g=2010-04-30), bedraagt € 0,158 per kWh.
+3. Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 29, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.5&artikel=29&z=2010-10-20&g=2010-10-20), bedraagt € 0,158 per kWh.
 
-4. Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 29, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.5&artikel=29&z=2010-04-30&g=2010-04-30), bedraagt bij een warmtebenuttingscoëfficiënt groter dan genoemd in kolom 1 en kleiner dan of gelijk aan genoemd in kolom 2 een bedrag in euro per kWh, genoemd in kolom 3.
+4. Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 29, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.5&artikel=29&z=2010-10-20&g=2010-10-20), bedraagt bij een warmtebenuttingscoëfficiënt groter dan genoemd in kolom 1 en kleiner dan of gelijk aan genoemd in kolom 2 een bedrag in euro per kWh, genoemd in kolom 3.
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --- | --- | --- |
@@ -387,7 +387,7 @@ Het maximaal aantal vollasturen voor productie-installaties als bedoeld in [arti
 | 1,75 MJ/kWh | 2,0 MJ/kWh | 0,173 |
 | 2,0 MJ/kWh | Onbepaald | 0,176 |
 
-5. Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 29, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.5&artikel=29&z=2010-04-30&g=2010-04-30), bedraagt bij een warmtebenuttingscoëfficiënt groter dan genoemd in kolom 1 en kleiner dan of gelijk aan genoemd in kolom 2 een bedrag in euro per kWh, genoemd in kolom 3.
+5. Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 29, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.5&artikel=29&z=2010-10-20&g=2010-10-20), bedraagt bij een warmtebenuttingscoëfficiënt groter dan genoemd in kolom 1 en kleiner dan of gelijk aan genoemd in kolom 2 een bedrag in euro per kWh, genoemd in kolom 3.
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --- | --- | --- |
@@ -411,7 +411,7 @@ Het maximaal aantal vollasturen voor productie-installaties als bedoeld in [arti
 
 ##### Artikel 34
 
-De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.5&artikel=29&z=2010-04-30&g=2010-04-30), bedraagt € 0,044 per kWh.
+De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.5&artikel=29&z=2010-10-20&g=2010-10-20), bedraagt € 0,044 per kWh.
 
 #### § 2.6. Waterkracht
 
@@ -423,19 +423,19 @@ De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wet
 
 - b. in installaties met een valhoogte gelijk aan of groter dan 5 meter.
 
-2. Aanvragen om subsidie als bedoeld in het eerste lid, worden ontvangen in de periode van 1 maart 2010 tot en met 1 november 2010, 17:00 uur.
+2. Aanvragen om subsidie als bedoeld in het eerste lid, worden ontvangen in de periode van 1 maart 2010 tot en met 30 december 2010, 17:00 uur.
 
-3. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&bijlage=5&z=2010-04-30&g=2010-04-30).
+3. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&bijlage=5&z=2010-10-20&g=2010-10-20).
 
 ##### Artikel 36
 
-1. Het subsidieplafond voor het verlenen van subsidie die is aangevraagd in de in [artikel 35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.6&artikel=35&z=2010-04-30&g=2010-04-30), bedoelde periode, bedraagt € 63.000.000,–.
+1. Het subsidieplafond voor het verlenen van subsidie die is aangevraagd in de in [artikel 35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.6&artikel=35&z=2010-10-20&g=2010-10-20), bedoelde periode, bedraagt € 63.000.000,–.
 
 2. De minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van binnenkomst van de aanvragen.
 
 ##### Artikel 37
 
-1. Subsidie als bedoeld in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.6&artikel=35&z=2010-04-30&g=2010-04-30), wordt voor een periode van 15 jaar verstrekt.
+1. Subsidie als bedoeld in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.6&artikel=35&z=2010-10-20&g=2010-10-20), wordt voor een periode van 15 jaar verstrekt.
 
 2. De subsidie-ontvanger neemt de productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van waterkracht binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.
 
@@ -443,33 +443,33 @@ De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wet
 
 Het maximaal aantal vollasturen voor productie-installaties voor de productie van hernieuwbare elektriciteit met behulp van waterkracht als bedoeld in:
 
-- a. [artikel 35, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.6&artikel=35&z=2010-04-30&g=2010-04-30), bedraagt 3800 uren per jaar;
+- a. [artikel 35, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.6&artikel=35&z=2010-10-20&g=2010-10-20), bedraagt 3800 uren per jaar;
 
-- b. [artikel 35, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.6&artikel=35&z=2010-04-30&g=2010-04-30), bedraagt 4800 uren per jaar.
+- b. [artikel 35, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.6&artikel=35&z=2010-10-20&g=2010-10-20), bedraagt 4800 uren per jaar.
 
 ##### Artikel 39
 
-Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.6&artikel=35&z=2010-04-30&g=2010-04-30), bedraagt voor productie-installaties als bedoeld in:
+Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.6&artikel=35&z=2010-10-20&g=2010-10-20), bedraagt voor productie-installaties als bedoeld in:
 
-- a. [artikel 35, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.6&artikel=35&z=2010-04-30&g=2010-04-30): € 0,123 per kWh;
+- a. [artikel 35, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.6&artikel=35&z=2010-10-20&g=2010-10-20): € 0,123 per kWh;
 
-- b. [artikel 35, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.6&artikel=35&z=2010-04-30&g=2010-04-30): € 0,072 per kWh.
+- b. [artikel 35, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.6&artikel=35&z=2010-10-20&g=2010-10-20): € 0,072 per kWh.
 
 ##### Artikel 40
 
-De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 35, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.6&artikel=35&z=2010-04-30&g=2010-04-30), bedraagt € 0,044 per kWh.
+De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 35, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.6&artikel=35&z=2010-10-20&g=2010-10-20), bedraagt € 0,044 per kWh.
 
 #### § 2.7. Correctiebedragen voorschotverlening productie van hernieuwbare elektriciteit
 
 ##### Artikel 41
 
-1. De correcties op het basisbedrag voor subsidie als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.1&artikel=2&z=2010-04-30&g=2010-04-30), worden voor 2010 als volgt vastgesteld:
+1. De correcties op het basisbedrag voor subsidie als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.1&artikel=2&z=2010-10-20&g=2010-10-20), worden voor 2010 als volgt vastgesteld:
 
 - a. € 0,052 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14);
 
 - b. € 0 voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, onderdelen b en c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14).
 
-2. De correcties op het basisbedrag voor subsidie als bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.1&artikel=2&z=2010-04-30&g=2010-04-30), worden voor 2010 als volgt vastgesteld:
+2. De correcties op het basisbedrag voor subsidie als bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.1&artikel=2&z=2010-10-20&g=2010-10-20), worden voor 2010 als volgt vastgesteld:
 
 - a. € 0,054 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14);
 
@@ -477,21 +477,21 @@ De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wet
 
 ##### Artikel 42
 
-1. De correcties op het basisbedrag voor subsidie als bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.2&artikel=8&z=2010-04-30&g=2010-04-30), worden voor 2010 als volgt vastgesteld:
+1. De correcties op het basisbedrag voor subsidie als bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.2&artikel=8&z=2010-10-20&g=2010-10-20), worden voor 2010 als volgt vastgesteld:
 
 - a. € 0,225 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14);
 
 - b. € 0 voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, onderdelen b en c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14).
 
-2. De correcties op het basisbedrag voor subsidie als bedoeld in [artikel 8, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.2&artikel=8&z=2010-04-30&g=2010-04-30), worden voor 2010 als volgt vastgesteld:
+2. De correcties op het basisbedrag voor subsidie als bedoeld in [artikel 8, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.2&artikel=8&z=2010-10-20&g=2010-10-20), worden voor 2010 als volgt vastgesteld:
 
-- a. de basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12) zoals vastgesteld in [artikel 14, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.2&artikel=14&z=2010-04-30&g=2010-04-30), van deze regeling op € 0,053 per kWh;
+- a. de basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12) zoals vastgesteld in [artikel 14, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.2&artikel=14&z=2010-10-20&g=2010-10-20), van deze regeling op € 0,053 per kWh;
 
 - b. € 0 voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, onderdelen b en c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14).
 
 ##### Artikel 43
 
-De correcties op het basisbedrag voor subsidie als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.3&artikel=15&z=2010-04-30&g=2010-04-30), worden voor 2010 als volgt vastgesteld:
+De correcties op het basisbedrag voor subsidie als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.3&artikel=15&z=2010-10-20&g=2010-10-20), worden voor 2010 als volgt vastgesteld:
 
 - a. € 0,096 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14);
 
@@ -499,7 +499,7 @@ De correcties op het basisbedrag voor subsidie als bedoeld in [artikel 15, eerst
 
 ##### Artikel 44
 
-De correcties op het basisbedrag voor subsidie als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.4&artikel=22&z=2010-04-30&g=2010-04-30), worden voor 2010 als volgt vastgesteld:
+De correcties op het basisbedrag voor subsidie als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.4&artikel=22&z=2010-10-20&g=2010-10-20), worden voor 2010 als volgt vastgesteld:
 
 - a. € 0,047 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14);
 
@@ -507,7 +507,7 @@ De correcties op het basisbedrag voor subsidie als bedoeld in [artikel 22, eerst
 
 ##### Artikel 45
 
-De correcties op het basisbedrag voor subsidie als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.5&artikel=29&z=2010-04-30&g=2010-04-30), worden voor 2010 als volgt vastgesteld:
+De correcties op het basisbedrag voor subsidie als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.5&artikel=29&z=2010-10-20&g=2010-10-20), worden voor 2010 als volgt vastgesteld:
 
 - a. € 0,047 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14);
 
@@ -515,7 +515,7 @@ De correcties op het basisbedrag voor subsidie als bedoeld in [artikel 29, eerst
 
 ##### Artikel 46
 
-De correcties op het basisbedrag voor subsidie als bedoeld in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.6&artikel=35&z=2010-04-30&g=2010-04-30), worden voor 2010 als volgt vastgesteld:
+De correcties op het basisbedrag voor subsidie als bedoeld in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.6&artikel=35&z=2010-10-20&g=2010-10-20), worden voor 2010 als volgt vastgesteld:
 
 - a. € 0,047 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14);
 
@@ -531,21 +531,21 @@ De correcties op het basisbedrag voor subsidie als bedoeld in [artikel 35, eerst
 
 2. Aanvragen om subsidie als bedoeld in het eerste lid, worden ontvangen in de periode van 1 maart 2010 tot en met 1 november 2010, 17:00 uur.
 
-3. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&bijlage=4&z=2010-04-30&g=2010-04-30).
+3. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&bijlage=4&z=2010-10-20&g=2010-10-20).
 
 ##### Artikel 48
 
-Voor subsidie als bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=3&sub-paragraaf=3.1&artikel=47&z=2010-04-30&g=2010-04-30), is de rapportageverplichting, bedoeld in [artikel 6, eerste lid, van de algemene uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=6) niet van toepassing.
+Voor subsidie als bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=3&sub-paragraaf=3.1&artikel=47&z=2010-10-20&g=2010-10-20), is de rapportageverplichting, bedoeld in [artikel 6, eerste lid, van de algemene uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=6) niet van toepassing.
 
 ##### Artikel 49
 
-1. Het subsidieplafond voor het verlenen van subsidie die is aangevraagd in de in [artikel 47, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=3&sub-paragraaf=3.1&artikel=47&z=2010-04-30&g=2010-04-30), bedoelde periode, bedraagt € 24.000.000,–.
+1. Het subsidieplafond voor het verlenen van subsidie die is aangevraagd in de in [artikel 47, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=3&sub-paragraaf=3.1&artikel=47&z=2010-10-20&g=2010-10-20), bedoelde periode, bedraagt € 24.000.000,–.
 
 2. De minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van binnenkomst van de aanvragen.
 
 ##### Artikel 50
 
-1. Subsidie als bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=3&sub-paragraaf=3.1&artikel=47&z=2010-04-30&g=2010-04-30), wordt voor een periode van 12 jaar verstrekt.
+1. Subsidie als bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=3&sub-paragraaf=3.1&artikel=47&z=2010-10-20&g=2010-10-20), wordt voor een periode van 12 jaar verstrekt.
 
 2. De subsidie-ontvanger neemt de productie-installatie voor de productie van hernieuwbaar gas met gebruik van stortgas of biogas uit afvalwater- of rioolwaterzuiveringsinstallaties binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.
 
@@ -555,11 +555,11 @@ Het maximaal aantal vollasturen voor productie-installaties voor de productie va
 
 ##### Artikel 52
 
-Het basisbedrag, bedoeld in [artikel 28 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=28), voor subsidie als bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=3&sub-paragraaf=3.1&artikel=47&z=2010-04-30&g=2010-04-30), bedraagt € 0,218 per Nm3.
+Het basisbedrag, bedoeld in [artikel 28 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=28), voor subsidie als bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=3&sub-paragraaf=3.1&artikel=47&z=2010-10-20&g=2010-10-20), bedraagt € 0,218 per Nm3.
 
 ##### Artikel 53
 
-De basisgasprijs, bedoeld in [artikel 29 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=29), voor subsidie als bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=3&sub-paragraaf=3.1&artikel=47&z=2010-04-30&g=2010-04-30), bedraagt € 0,147 per Nm3.
+De basisgasprijs, bedoeld in [artikel 29 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=29), voor subsidie als bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=3&sub-paragraaf=3.1&artikel=47&z=2010-10-20&g=2010-10-20), bedraagt € 0,147 per Nm3.
 
 #### § 3.2. Biomassa
 
@@ -575,43 +575,43 @@ De basisgasprijs, bedoeld in [artikel 29 van het besluit](https://wetten.overhei
 
 2. Aanvragen om subsidie als bedoeld in het eerste lid, worden ontvangen in de periode van 1 maart 2010 tot en met 1 november 2010, 17:00 uur.
 
-3. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&bijlage=4&z=2010-04-30&g=2010-04-30).
+3. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&bijlage=4&z=2010-10-20&g=2010-10-20).
 
 ##### Artikel 55
 
-1. Het subsidieplafond voor het verlenen van subsidie die is aangevraagd in de in [artikel 54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=3&sub-paragraaf=3.2&artikel=54&z=2010-04-30&g=2010-04-30), bedoelde periode, bedraagt € 190.000.000,–.
+1. Het subsidieplafond voor het verlenen van subsidie die is aangevraagd in de in [artikel 54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=3&sub-paragraaf=3.2&artikel=54&z=2010-10-20&g=2010-10-20), bedoelde periode, bedraagt € 190.000.000,–.
 
 2. De minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van binnenkomst van de aanvragen.
 
 ##### Artikel 56
 
-1. Subsidie als bedoeld in [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=3&sub-paragraaf=3.2&artikel=54&z=2010-04-30&g=2010-04-30), wordt voor een periode van 12 jaar verstrekt.
+1. Subsidie als bedoeld in [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=3&sub-paragraaf=3.2&artikel=54&z=2010-10-20&g=2010-10-20), wordt voor een periode van 12 jaar verstrekt.
 
-2. De subsidie-ontvanger neemt de productie-installatie voor de productie van hernieuwbaar gas bedoeld in [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=3&sub-paragraaf=3.2&artikel=54&z=2010-04-30&g=2010-04-30), binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.
+2. De subsidie-ontvanger neemt de productie-installatie voor de productie van hernieuwbaar gas bedoeld in [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=3&sub-paragraaf=3.2&artikel=54&z=2010-10-20&g=2010-10-20), binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.
 
 ##### Artikel 57
 
-Het maximaal aantal vollasturen voor productie-installaties bedoeld in [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=3&sub-paragraaf=3.2&artikel=54&z=2010-04-30&g=2010-04-30), bedraagt 8000 uren per jaar.
+Het maximaal aantal vollasturen voor productie-installaties bedoeld in [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=3&sub-paragraaf=3.2&artikel=54&z=2010-10-20&g=2010-10-20), bedraagt 8000 uren per jaar.
 
 ##### Artikel 58
 
 Het basisbedrag, bedoeld in [artikel 28 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=28), bedraagt voor subsidie als bedoeld in:
 
-- a. [artikel 54, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=3&sub-paragraaf=3.2&artikel=54&z=2010-04-30&g=2010-04-30): € 0,465 per Nm3;
+- a. [artikel 54, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=3&sub-paragraaf=3.2&artikel=54&z=2010-10-20&g=2010-10-20): € 0,465 per Nm3;
 
-- b. [artikel 54, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=3&sub-paragraaf=3.2&artikel=54&z=2010-04-30&g=2010-04-30): € 0,635 per Nm3;
+- b. [artikel 54, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=3&sub-paragraaf=3.2&artikel=54&z=2010-10-20&g=2010-10-20): € 0,635 per Nm3;
 
-- c. [artikel 54, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=3&sub-paragraaf=3.2&artikel=54&z=2010-04-30&g=2010-04-30): € 0,583 per Nm3.
+- c. [artikel 54, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=3&sub-paragraaf=3.2&artikel=54&z=2010-10-20&g=2010-10-20): € 0,583 per Nm3.
 
 ##### Artikel 59
 
-De basisgasprijs, bedoeld in [artikel 29 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=29), voor subsidie als bedoeld in [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=3&sub-paragraaf=3.2&artikel=54&z=2010-04-30&g=2010-04-30), bedraagt € 0,147 per Nm3.
+De basisgasprijs, bedoeld in [artikel 29 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=29), voor subsidie als bedoeld in [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=3&sub-paragraaf=3.2&artikel=54&z=2010-10-20&g=2010-10-20), bedraagt € 0,147 per Nm3.
 
 #### § 3.3. Correctiebedragen voorschotverlening productie van hernieuwbaar gas
 
 ##### Artikel 60
 
-De correcties op het basisbedrag voor de subsidie, bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=3&sub-paragraaf=3.1&artikel=47&z=2010-04-30&g=2010-04-30), worden voor 2010 als volgt vastgesteld:
+De correcties op het basisbedrag voor de subsidie, bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=3&sub-paragraaf=3.1&artikel=47&z=2010-10-20&g=2010-10-20), worden voor 2010 als volgt vastgesteld:
 
 - a. € 0,208 per Nm3 voor wat betreft de gasprijs, bedoeld in [artikel 31, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=31);
 
@@ -619,7 +619,7 @@ De correcties op het basisbedrag voor de subsidie, bedoeld in [artikel 47, eerst
 
 ##### Artikel 61
 
-De correcties op het basisbedrag voor de subsidie, bedoeld in [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=3&sub-paragraaf=3.2&artikel=54&z=2010-04-30&g=2010-04-30) worden voor 2010 als volgt vastgesteld:
+De correcties op het basisbedrag voor de subsidie, bedoeld in [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=3&sub-paragraaf=3.2&artikel=54&z=2010-10-20&g=2010-10-20) worden voor 2010 als volgt vastgesteld:
 
 - a. € 0,208 per Nm3 voor wat betreft de gasprijs, bedoeld in [artikel 31, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=31);
 
@@ -645,15 +645,15 @@ De correcties op het basisbedrag voor de subsidie, bedoeld in [artikel 54, eerst
 
 2. Aanvragen om subsidie als bedoeld in het eerste lid, worden ontvangen in de periode van 1 maart 2010 van deze regeling tot 31 augustus 2010, 17:00 uur.
 
-3. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&bijlage=6&z=2010-04-30&g=2010-04-30).
+3. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&bijlage=6&z=2010-10-20&g=2010-10-20).
 
 ##### Artikel 63
 
-Voor subsidie als bedoeld in [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=4&artikel=62&z=2010-04-30&g=2010-04-30), is de rapportageverplichting, bedoeld in [artikel 6, eerste lid, van de algemene uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=6) niet van toepassing.
+Voor subsidie als bedoeld in [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=4&artikel=62&z=2010-10-20&g=2010-10-20), is de rapportageverplichting, bedoeld in [artikel 6, eerste lid, van de algemene uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=6) niet van toepassing.
 
 ##### Artikel 64
 
-1. Het subsidieplafond voor het verlenen van subsidie die is aangevraagd in de in [artikel 62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=4&artikel=62&z=2010-04-30&g=2010-04-30), bedoelde periode, bedraagt € 168.000.000,–.
+1. Het subsidieplafond voor het verlenen van subsidie die is aangevraagd in de in [artikel 62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=4&artikel=62&z=2010-10-20&g=2010-10-20), bedoelde periode, bedraagt € 168.000.000,–.
 
 2. De minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van rangschikking van de aanvragen.
 
@@ -661,17 +661,17 @@ Voor subsidie als bedoeld in [artikel 62, eerste lid](https://wetten.overheid.nl
 
 ##### Artikel 65
 
-1. Subsidie als bedoeld in [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=4&artikel=62&z=2010-04-30&g=2010-04-30), wordt voor een periode van 12 jaar verstrekt.
+1. Subsidie als bedoeld in [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=4&artikel=62&z=2010-10-20&g=2010-10-20), wordt voor een periode van 12 jaar verstrekt.
 
-2. De subsidie-ontvanger neemt de productie-installatie voor de productie van elektriciteit door middel van warmtekrachtkoppeling, bedoeld in [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=4&artikel=62&z=2010-04-30&g=2010-04-30), binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.
+2. De subsidie-ontvanger neemt de productie-installatie voor de productie van elektriciteit door middel van warmtekrachtkoppeling, bedoeld in [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=4&artikel=62&z=2010-10-20&g=2010-10-20), binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.
 
 ##### Artikel 66
 
-Het maximaal aantal vollasturen voor productie-installaties voor de productie van elektriciteit door middel van warmtekrachtkoppeling bedoeld in [artikel 62, eerste lid en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=4&artikel=62&z=2010-04-30&g=2010-04-30), bedraagt 5900 uren per jaar.
+Het maximaal aantal vollasturen voor productie-installaties voor de productie van elektriciteit door middel van warmtekrachtkoppeling bedoeld in [artikel 62, eerste lid en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=4&artikel=62&z=2010-10-20&g=2010-10-20), bedraagt 5900 uren per jaar.
 
 ##### Artikel 67
 
-Het subsidiebedrag, bedoeld in [artikel 52, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=52), voor subsidie als bedoeld in [artikel 62, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=4&artikel=62&z=2010-04-30&g=2010-04-30), bedraagt voor het kalenderjaar 2010 € 0,0097 per kWh.
+Het subsidiebedrag, bedoeld in [artikel 52, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=52), voor subsidie als bedoeld in [artikel 62, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=4&artikel=62&z=2010-10-20&g=2010-10-20), bedraagt voor het kalenderjaar 2010 € 0,0097 per kWh.
 
 ##### Artikel 68
 
@@ -691,7 +691,7 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Regeling aanwijzing categorieën duurzame energieproductie 2010.
 
-## Bijlage 1. behorende bij [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.1&artikel=2&z=2010-04-30&g=2010-04-30)
+## Bijlage 1. behorende bij [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.1&artikel=2&z=2010-10-20&g=2010-10-20)
 
 ### Stimuleringsregeling duurzame energieproductie (SDE)
 
@@ -785,7 +785,7 @@ Per 1 januari 2010 bundelen EVD, Octrooicentrum Nederland en SenterNovem hun kra
 
 Bij publicaties van Agentschap NL die informeren over subsidieregelingen geldt dat de beoordeling van subsidieaanvragen uitsluitend plaatsvindt aan de hand van de officiële publicatie van het besluit in de Staatscourant.
 
-## Bijlage 2. behorende bij [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.2&artikel=8&z=2010-04-30&g=2010-04-30), van de Regeling aanwijzing categorieën duurzame energieproductie 2010
+## Bijlage 2. behorende bij [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.2&artikel=8&z=2010-10-20&g=2010-10-20), van de Regeling aanwijzing categorieën duurzame energieproductie 2010
 
 ### Stimuleringsregeling duurzame energieproductie (SDE)
 
@@ -1301,7 +1301,7 @@ U kunt een pdf of een print van de zon-PV formulieren aanvragen bij de helpdesk 
 
 Waar u schrijfruimte tekort komt mag u een bijlage toevoegen.
 
-## Bijlage 3. behorende bij [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.2&artikel=8&z=2010-04-30&g=2010-04-30), van de Regeling aanwizing categorieën duurzame energieproductie 2010
+## Bijlage 3. behorende bij [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.2&artikel=8&z=2010-10-20&g=2010-10-20), van de Regeling aanwizing categorieën duurzame energieproductie 2010
 
 Dit formulier is verstrekt door en moet worden ingediend bij:
 
@@ -1323,7 +1323,7 @@ Waar u schrijfruimte tekort komt mag u een bijlage toevoegen.
 
 Voor het indienen van een **enkelvoudige**aanvraag voor één zon-PV-installatie is zowel digitaal als in pdf of op papier een apart formulier beschikbaar.
 
-## Bijlage 4. behorende bij de [artikelen 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.3&artikel=15&z=2010-04-30&g=2010-04-30), [22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.4&artikel=22&z=2010-04-30&g=2010-04-30), [29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.5&artikel=29&z=2010-04-30&g=2010-04-30), [47, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=3&sub-paragraaf=3.1&artikel=47&z=2010-04-30&g=2010-04-30), en [54, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=3&sub-paragraaf=3.2&artikel=54&z=2010-04-30&g=2010-04-30)
+## Bijlage 4. behorende bij de [artikelen 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.3&artikel=15&z=2010-10-20&g=2010-10-20), [22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.4&artikel=22&z=2010-10-20&g=2010-10-20), [29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.5&artikel=29&z=2010-10-20&g=2010-10-20), [47, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=3&sub-paragraaf=3.1&artikel=47&z=2010-10-20&g=2010-10-20), en [54, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=3&sub-paragraaf=3.2&artikel=54&z=2010-10-20&g=2010-10-20)
 
 ### Stimuleringsregeling duurzame energieproductie (SDE)
 
@@ -1361,7 +1361,7 @@ Controleer voordat u de aanvraag verstuurt of:
 
 Bij publicaties van Agentschap NL die informeren over subsidieregelingen geldt dat de beoordeling van subsidieaanvragen uitsluitend plaatsvindt aan de hand van de officiële publicatie van het regeling in de Staatscourant.
 
-## Bijlage 5. behorende bij [artikel 35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.6&artikel=35&z=2010-04-30&g=2010-04-30)
+## Bijlage 5. behorende bij [artikel 35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=2&sub-paragraaf=2.6&artikel=35&z=2010-10-20&g=2010-10-20)
 
 ### Aanvraagformulier Waterkracht
 
@@ -1395,7 +1395,7 @@ Aldus naar waarheid ingevuld,
 
 Per 1 januari 2010 bundelen EVD, Octrooicentrum Nederland en SenterNovem hun krachten in één organisatie: Agentschap NL. Bij Agentschap NL kunnen ondernemers, kennisinstellingen en overheden terecht voor informatie, advies, financiering en netwerken op het gebied van duurzaam, innovatief en internationaal ondernemen en samenwerken. SenterNovem vormt vanaf 1 januari de divisies NL Energie en Klimaat, NL Milieu en Leefomgeving en NL Innovatie.
 
-## Bijlage 6. behorende bij [artikel 62, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=4&artikel=62&z=2010-04-30&g=2010-04-30)
+## Bijlage 6. behorende bij [artikel 62, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027115&paragraaf=4&artikel=62&z=2010-10-20&g=2010-10-20)
 
 ### Stimuleringsregeling duurzame energieproductie (SDE)
 
