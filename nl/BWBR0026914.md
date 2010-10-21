@@ -4,7 +4,7 @@ identifier: "BWBR0026914"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-05-04"
-last_updated: "2010-10-01"
+last_updated: "2010-10-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026914"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ Besluit:
 | 1.2 | Subsidieregeling starten, groeien en overdragen van ondernemingen (borgstelling MKB-kredieten) | 2.3 | Bodemsaneringsborgstellingskredieten | 01-01 t/m 31-12 | 65.344.122 |
 | 1.3 | Subsidieregeling starten, groeien en overdragen van ondernemingen (groeifaciliteit) | 3.2 |   | 01-01 t/m 31-12 | 170.000.000 |
 | 1.4 | Subsidieregeling starten, groeien en overdragen van ondernemingen (Tijdelijke garantie ondernemingsfinanciering en Garantstelling gericht op bankgaranties) | – 3.12b – 3.12v |   | – 01-01 t/m 31-12 – 08-03 t/m 31-12 | 500.000.000 |
-| 1.5 | Subsidieregeling starten, groeien en overdragen van ondernemingen (Tijdelijke garantie ondernemingsfaciliteit curatieve zorg) | 3.12m |   | 01-01 t/m 22-10 | 150.000.000 |
+| 1.5 | vervallen. |   |   |   |   |
 | 1.6 | Subsidieregeling starten, groeien en overdragen van ondernemingen (seed capital technostarters) | 4.3 |   | 01-01 t/m 31-03 05-08 t/m 30-09 | 12.000.000 10.000.000 |
 | 1.7 | Subsidieregeling Starten, groeien en overdragen van ondernemingen (Valorisatieprogramma) | 5.2 |   | 1-6 t/m 31-12 | € 25.000.000 |
 | 1.8 | Subsidieregeling starten, groeien en overdragen van ondernemingen (ondernemerschapsonderwijsprojecten) | 6.2 |   |   |   |
@@ -186,18 +186,19 @@ Besluit:
 | 1 | 2 | 3 | 4 | 5 | 6 |
 | --- | --- | --- | --- | --- | --- |
 | Nr. | Regeling | Artikel | Groep | Openstelling | Plafond € |
-| 1 | Subsidieregeling energie en innovatie (Duurzame warmte voor bestaande woningen) | 3.1.2 | Zonneboilers en warmtepompen, niet zijnde lucht/waterwarmtepompen | 10-09-2008 t/m 31-12-2010 | 32.000.000 |
+| 1 | [Subsidieregeling energie en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0026952) (Duurzame warmte voor bestaande woningen) | 3.1.2 | Zonneboilers en warmtepompen, niet zijnde lucht/waterwarmtepompen | 10-09-2008 t/m 31-12-2010 | 32.000.000 |
 |   |   |   | Lucht/waterwarmtepompen | 10-09-2008 t/m 31-12-2010 | 4.000.000 |
 |   |   |   | Installaties voor micro-warmtekrachtkoppeling | 10-09-2008 t/m 31-12-2010 | 4.000.000 |
 | 2 | Subsidieregeling energie en innovatie (Investeringen voor verlaging elektriciteitsaansluiting van warmtepomphouders) | 3.3.2 |   | 01-09-2009 t/m 15-12-2010 | 4.290.000 |
-| 3 | Subsidieregeling energie en innovatie (Risico’s dekken voor aardwarmte) | 3.4.2 |   | 03-11-2009 t/m 01-05-2010 | 35.700.000 |
+| 3 | [Subsidieregeling energie en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0026952) (Risico’s dekken voor aardwarmte) | 3.4.2 |   | 03-11-2009 t/m 01-05-2010 | 35.700.000 |
 |   |   |   |   | 01-10-2010 t/m 01-04-2011 | 43.350.000 |
-| 4 | Subsidieregeling energie en innovatie (Voorbereidingsstudies en demonstratieprojecten vergassing) | 3.6.2, eerste lid | Voorbereidingsstudies | 20-11-2009 t/m 31-03-2010 | 200.000 |
+| 4 | [Subsidieregeling energie en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0026952) (Voorbereidingsstudies en demonstratieprojecten vergassing) | 3.6.2, eerste lid | Voorbereidingsstudies | 20-11-2009 t/m 31-03-2010 | 200.000 |
 |   |   | 3.6.2, tweede lid | Demonstratieprojecten | 10-5 t/m 30-9 | 12.650.000 |
-| 5 | Subsidieregeling energie en innovatie (Experimenteerregeling Wind op Zee) | 3.7.2 |   | 19-11-2009 t/m 28-01-2010 | 9.000.000 |
-| 6 | Subsidieregeling sterktes in innovatie (LSH-projecten; ETB-samenwerkingsverbanden) | 4.2 |   | 01-10-2010 t/m 01-02-2011 | 3.000.000 |
-| 7. | Subsidieregeling sterktes in innovatie (IOP’s) | 3.2 | Maritiem (periode vooraanmelding) | 04-10-2010 t/m 29-10-2010 | – |
+| 5 | [Subsidieregeling energie en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0026952) (Experimenteerregeling Wind op Zee) | 3.7.2 |   | 19-11-2009 t/m 28-01-2010 | 9.000.000 |
+| 6 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) (LSH-projecten; ETB-samenwerkingsverbanden) | 4.2 |   | 01-10-2010 t/m 01-02-2011 | 3.000.000 |
+| 7. | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) (IOP’s) | 3.2 | Maritiem (periode vooraanmelding) | 04-10-2010 t/m 29-10-2010 | – |
 |   |   |   | Maritiem (Offshore) | 31-01-2011 t/m 25-02-2011 | 1.075.000 |
+| 8. | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902) (Tijdelijke garantie ondernemingsfaciliteit curatieve zorg) | 3.12m |   | 01-01-2010 t/m 31-12-2011 | 250.000.000 |
 
 ##### Artikel 3
 
