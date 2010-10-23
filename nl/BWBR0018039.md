@@ -4,7 +4,7 @@ identifier: "BWBR0018039"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-07-01"
-last_updated: "2006-01-01"
+last_updated: "2010-10-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018039"
 soort: "AMvB"
@@ -56,7 +56,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. activiteitensubsidie: subsidie ten behoeve van activiteiten, gericht op vooraf omschreven doelstellingen en resultaten;
 
-- b. instellingssubsidie: subsidie ten behoeve van de integrale kosten van de werkzaamheden van een instelling.
+- b. instellingssubsidie: subsidie ten behoeve van de integrale kosten van de werkzaamheden van een instelling;
+
+- c. verstrekking: verlening, dan wel ingeval de subsidie direct wordt vastgesteld, vaststelling.
 
 ##### Artikel 2
 
@@ -64,19 +66,21 @@ Subsidie kan worden verstrekt voor bij ministeriële regeling aangeduide activit
 
 ##### Artikel 3
 
-De bepalingen van dit besluit zijn van toepassing op de verstrekking van subsidies door Onze Minister, voor zover bij ministeriële regeling niet anders is bepaald.
+Vervallen
 
 #### Paragraaf 2. Subsidieontvangers
 
 ##### Artikel 4
 
-1. Subsidie wordt slechts verleend aan rechtspersonen waarvan de statutaire doelstelling past binnen het doel van de subsidieverlening, die:
+1. Subsidie wordt slechts verstrekt aan rechtspersonen waarvan de statutaire doelstelling past binnen het doel van de subsidieverstrekking, die:
 
 - a. in staat zijn tot een adequaat financieel beheer en
 
 - b. door ervaringsdeskundigheid met betrekking tot activiteiten als waarvoor subsidie wordt gevraagd, een doelgerichte en doelmatige uitvoering van de activiteiten kunnen waarborgen.
 
-2. In bijzondere gevallen kan subsidie worden verleend aan natuurlijke personen die voldoen aan de onderdelen a en b van het eerste lid, indien de omstandigheden waaronder de activiteiten worden uitgevoerd daartoe aanleiding geven.
+2. In bijzondere gevallen kan subsidie worden verstrekt aan natuurlijke personen die voldoen aan de onderdelen a en b van het eerste lid, indien de omstandigheden waaronder de activiteiten worden uitgevoerd daartoe aanleiding geven.
+
+3. Instellingssubsidies kunnen slechts worden verstrekt aan instellingen die zich geheel of in overwegende mate richten op het uitvoeren van activiteiten waarvoor krachtens [artikel 3, eerste lid, van de Kaderwet subsidies Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0010178&artikel=3) subsidie kan worden verstrekt. Samenloop van een instellingssubsidie en een activiteitensubsidie krachtens artikel 3, eerste lid, van de Kaderwet subsidies Ministerie van Buitenlandse Zaken is uitsluitend mogelijk in bij ministeriële regeling voorziene gevallen.
 
 ##### Artikel 5
 
@@ -86,21 +90,21 @@ Subsidie kan worden geweigerd, ingetrokken, vastgesteld op een lager bedrag dan 
 
 ##### Artikel 6
 
-1. Indien Onze Minister beleidsregels met betrekking tot de verlening van subsidie vaststelt, maakt hij deze uiterlijk twee weken voor aanvang van het subsidietijdvak bekend. Onze Minister kan een subsidieplafond vaststellen.
+1. Indien Onze Minister beleidsregels met betrekking tot de verstrekking van subsidie vaststelt, maakt hij deze uiterlijk twee weken voor aanvang van het subsidietijdvak bekend. Onze Minister kan een subsidieplafond vaststellen.
 
 2. Het subsidietijdvak, bedoeld in het eerste lid, valt samen met het kalenderjaar, tenzij bij de bekendmaking op grond van het eerste lid anders is bepaald.
 
 3. Bekendmaking van de beleidsregels vindt plaats in de Staatscourant dan wel op een andere geschikte wijze, onder kennisgeving daarvan in de Staatscourant. Bekendmaking van een subsidieplafond vindt plaats in de Staatscourant.
 
-4. Onze Minister kan bij de bekendmaking van een subsidieplafond bepalen dat bij de beoordeling van aanvragen mede acht wordt geslagen op een spreiding van uitgaven over de loop van het subsidietijdvak alsmede per categorie activiteiten afzonderlijke bedragen vaststellen voor doelgroepen, regio's, thema's, aard van de activiteiten, vorm van de subsidie en andere voor de subsidieverlening relevante invalshoeken.
+4. Onze Minister kan bij de bekendmaking van een subsidieplafond bepalen dat bij de beoordeling van aanvragen mede acht wordt geslagen op een spreiding van uitgaven over de loop van het subsidietijdvak alsmede per categorie activiteiten afzonderlijke bedragen vaststellen voor doelgroepen, regio's, thema's, aard van de activiteiten, vorm van de subsidie en andere voor de subsidieverstrekking relevante invalshoeken.
 
 ##### Artikel 7
 
 1. Onze Minister behandelt subsidieaanvragen in volgorde van binnenkomst.
 
-2. Onze Minister beslist binnen dertien weken na ontvangst van de aanvraag. Onze Minister kan deze termijn verlengen met ten hoogste dertien weken, onverminderd de [artikelen 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&afdeling=2&artikel=25&z=2006-01-01&g=2006-01-01), en [35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&afdeling=3&artikel=35&z=2006-01-01&g=2006-01-01).
+2. In afwijking van het eerste lid kan Onze Minister bij de bekendmaking van zijn beleidsregels of van het subsidieplafond bepalen dat met het oog op een onderlinge afweging van aanvragen dan wel met het oog op een spreiding van uitgaven over het subsidietijdvak, op aanvragen die voor afloop van de bij de bekendmaking vastgestelde termijn zijn ontvangen, uiterlijk op een of meer bepaalde data wordt beslist. Daarbij kan Onze Minister bepalen dat de aanvragen worden gerangschikt aan de hand van bij de bekendmaking aangeduide maatstaven.
 
-3. In afwijking van het eerste en tweede lid kan Onze Minister bij de bekendmaking van zijn beleidsregels dan wel het subsidieplafond bepalen dat met het oog op een onderlinge afweging van aanvragen dan wel met het oog op een spreiding van uitgaven over het subsidietijdvak op aanvragen wordt beslist na een of meer bepaalde data. Daarbij kan Onze Minister bepalen dat met het oog op een verdeling van de beschikbare middelen de aanvragen die voor de aangeduide datum worden ingediend, worden gerangschikt naar bij de bekendmaking aangeduide maatstaven.
+3. Indien toepassing is gegeven aan [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5), geldt voor de toepassing van het eerste en tweede lid als datum van ontvangst van de aanvraag de datum waarop de aanvraag is aangevuld.
 
 #### Paragraaf 4. Beoordeling
 
@@ -134,103 +138,95 @@ Subsidie kan worden geweigerd, ingetrokken, vastgesteld op een lager bedrag dan 
 
 - c. de mate waarin de activiteiten waarvoor subsidie wordt gevraagd voorzien in een behoefte, mede gelet op het geheel van verrichte activiteiten en
 
-- d. een evenwichtige spreiding over doelgroepen, regio's, thema's, aard van de activiteiten, vorm van de subsidie en andere voor de subsidieverlening relevante invalshoeken.
-
-4. Met het oog op de toepassing van dit artikel kan Onze Minister, in afwijking van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&afdeling=1&paragraaf=3&artikel=7&z=2006-01-01&g=2006-01-01), en onverminderd [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&afdeling=1&paragraaf=3&artikel=7&z=2006-01-01&g=2006-01-01), de beslissing omtrent subsidieverlening aanhouden.
+- d. een evenwichtige spreiding over doelgroepen, regio's, thema's, aard van de activiteiten, vorm van de subsidie en andere voor de subsidieverstrekking relevante invalshoeken.
 
 ##### Artikel 9
 
-Subsidie wordt geweigerd indien de aanvraag wordt ingediend na aanvang van de activiteiten.
+Subsidie wordt geweigerd indien de aanvraag wordt ingediend na aanvang van de activiteiten. Bij ministeriële regeling kan worden bepaald dat in afwijking van de eerste volzin subsidie kan worden verstrekt voor nader omschreven activiteiten met een spoedeisend karakter.
 
 ##### Artikel 10
 
-Onverminderd het overigens bij of krachtens de wet bepaalde kan Onze Minister de verlening van subsidie weigeren indien verlening niet verenigbaar is met het beleid van Onze Minister ten aanzien van de buitenlandse betrekkingen en de ontwikkelingssamenwerking, zoals onder andere kenbaar uit de memorie van toelichting bij de begroting van het Ministerie van Buitenlandse Zaken, uit het verkeer tussen Onze Minister en de Staten-Generaal, uit de bekendmaking van zijn beleidsregels op grond van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&afdeling=1&paragraaf=3&artikel=6&z=2006-01-01&g=2006-01-01), of uit andere geschikte vormen van bekendmaking of mededeling.
+Onverminderd het overigens bij of krachtens de wet bepaalde kan Onze Minister de verstrekking van subsidie weigeren indien verstrekking niet verenigbaar is met het beleid van Onze Minister ten aanzien van de buitenlandse betrekkingen en de ontwikkelingssamenwerking, zoals onder andere kenbaar uit de memorie van toelichting bij de begroting van het Ministerie van Buitenlandse Zaken, uit het verkeer tussen Onze Minister en de Staten-Generaal, uit de bekendmaking van zijn beleidsregels op grond van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&paragraaf=3&artikel=6&z=2010-10-23&g=2010-10-23), of uit andere geschikte vormen van bekendmaking of mededeling.
 
 ##### Artikel 11
 
-Subsidie wordt slechts verleend indien de aanvrager aannemelijk maakt dat de hem ten dienste staande financiële middelen, met inbegrip van de subsidie, voldoende zullen zijn om de voorgenomen activiteiten uit te voeren.
+Subsidie wordt slechts verstrekt indien de aanvrager aannemelijk maakt dat de hem ten dienste staande financiële middelen, met inbegrip van de subsidie, voldoende zullen zijn om de voorgenomen activiteiten uit te voeren.
 
 #### Paragraaf 5. Subsidieverleningstijdvak; begrotingsvoorbehoud
 
 ##### Artikel 12
 
-Subsidie wordt verleend voor een bij de subsidieverlening vast te stellen tijdvak, maar niet langer dan voor de duur van de activiteiten. Onze Minister kan op aanvraag van de subsidieontvanger het subsidieverleningstijdvak verlengen, zonder aanpassing van het subsidiebedrag, indien de activiteiten waarvoor subsidie werd verleend niet binnen het oorspronkelijke tijdvak konden worden voltooid.
+Subsidie wordt verstrekt voor een bij de subsidieverstrekking vast te stellen tijdvak, maar niet langer dan voor de duur van de activiteiten. Onze Minister kan op aanvraag van de subsidieontvanger het tijdvak verlengen, zonder aanpassing van het subsidiebedrag, indien de activiteiten waarvoor subsidie werd verstrekt niet binnen het oorspronkelijke tijdvak konden worden voltooid.
 
 ##### Artikel 13
 
-Aan subsidieverlening ten laste van een begroting die nog niet is vastgesteld is de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34), verbonden.
+1. Subsidieverlening gaat vooraf aan subsidievaststelling, onverminderd [artikel 39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&paragraaf=9&artikel=39&z=2010-10-23&g=2010-10-23).
+
+2. Aan subsidieverlening ten laste van een begroting die nog niet is vastgesteld, kan de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34) worden verbonden.
 
 #### Paragraaf 6. Subsidiabele kosten
 
 ##### Artikel 14
 
-1. Subsidie wordt slechts verleend voor de noodzakelijke kosten van de voorgenomen activiteiten in het licht van de beoogde doelstellingen en resultaten voor zover redelijkerwijs niet gevergd kan worden dat deze uit eigen middelen of anderszins bekostigd worden.
+1. Subsidie wordt slechts verstrekt voor de noodzakelijke kosten van de voorgenomen activiteiten in het licht van de beoogde doelstellingen en resultaten voor zover redelijkerwijs niet gevergd kan worden dat deze uit eigen middelen of anderszins bekostigd worden.
 
-2. Subsidie wordt niet verleend ter dekking van tekorten na afloop van de activiteiten.
+2. Subsidie wordt niet verstrekt ter dekking van tekorten na afloop van de activiteiten.
 
 3. Bij de subsidieverlening kan Onze Minister bepalen dat het subsidiebedrag door hem kan worden aangepast in het licht van onvoorziene ontwikkelingen die niet aan de subsidieontvanger kunnen worden toegerekend en redelijkerwijze niet voor diens risico gelaten kunnen worden.
 
 ##### Artikel 15
 
-Bij de subsidieverlening kan worden bepaald dat de kosten van de activiteiten, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&afdeling=1&paragraaf=6&artikel=14&z=2006-01-01&g=2006-01-01), op normatieve grondslag worden berekend op voet van de gerealiseerde resultaten van de activiteiten of op een andere bij de subsidieverlening bepaalde grondslag en dat in het subsidiebedrag een genormeerde vergoeding voor de personele en materiële kosten van de subsidieontvanger is begrepen.
+Bij de subsidieverlening kan worden bepaald dat de kosten van de activiteiten, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&paragraaf=6&artikel=14&z=2010-10-23&g=2010-10-23), op normatieve grondslag worden berekend op voet van de gerealiseerde resultaten van de activiteiten of op een andere bij de subsidieverlening bepaalde grondslag en dat in het subsidiebedrag een genormeerde vergoeding voor de personele en materiële kosten van de subsidieontvanger is begrepen.
 
 #### Paragraaf 7. Vaststelling; voorschotten
 
 ##### Artikel 16
 
-Subsidieverlening gaat vooraf aan subsidievaststelling.
+Vervallen
 
 ##### Artikel 17
 
-Onze Minister kan aan de hand van een door de aanvrager verstrekte liquiditeitsprognose met betrekking tot de te subsidiëren activiteiten voorafgaand aan de subsidievaststelling voorschotten verlenen tot ten hoogste een bij de subsidieverlening vast te stellen bedrag.
+Vervallen
 
 ##### Artikel 18
 
-Onze Minister beslist binnen dertien weken na ontvangst van de aanvraag tot subsidievaststelling, onverminderd [artikel 32, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&afdeling=2&artikel=32&z=2006-01-01&g=2006-01-01). Onze Minister kan deze termijn verlengen met ten hoogste dertien weken.
+Vervallen
 
 #### Paragraaf 8. Verplichtingen voor de subsidieontvanger
 
 ##### Artikel 19
 
-1. De subsidieontvanger draagt zorg voor een overzichtelijke en doelmatige administratie die een juist, volledig en actueel beeld geeft van de activiteiten waarvoor subsidie is verleend en de verwezenlijking van de daarmee beoogde resultaten alsmede van de daarmee gemoeide uitgaven en inkomsten.
-
-2. Van alle uitgaven die betrekking hebben op activiteiten waarvoor subsidie is verleend alsmede van alle inkomsten die in aanmerking kunnen worden genomen bij de vaststelling van de subsidie bewaart de subsidieontvanger deugdelijke bewijsstukken.
-
-3. Als boekjaar geldt het kalenderjaar, tenzij bij de subsidieverlening anders is bepaald.
-
-4. De administratie en de daarbij behorende stukken worden tenminste tien jaar bewaard.
+Vervallen
 
 ##### Artikel 20
 
-1. De subsidieontvanger draagt zorg voor een doelmatige besteding van de subsidie. De subsidie, daaronder begrepen de daarop ontvangen renteopbrengsten, wordt uitsluitend besteed voor de activiteiten waarvoor zij blijkens de subsidieverlening is bestemd.
+1. De subsidieontvanger draagt zorg voor een doelmatige besteding van de subsidie. De subsidie, daaronder begrepen de daarop ontvangen renteopbrengsten, wordt uitsluitend besteed voor de activiteiten waarvoor zij blijkens de subsidieverstrekking is bestemd.
 
-2. Bij de besteding doet de subsidieontvanger recht aan de volkenrechtelijke positie van het Koninkrijk.
+2. Bij de subsidieverstrekking kan worden bepaald dat de subsidieontvanger recht doet aan de volkenrechtelijke positie van het Koninkrijk.
 
-3. De subsidieontvanger geeft in voorkomend geval blijk van zijn bereidheid om zijn activiteiten af te stemmen op de activiteiten van andere organisaties.
+3. Bij de subsidieverstrekking kan worden bepaald dat de subsidieontvanger in voorkomend geval blijk geeft van de bereidheid om zijn activiteiten af te stemmen op de activiteiten van andere organisaties.
 
 ##### Artikel 21
 
-1. Onze Minister kan bij de subsidieverlening bepalen dat de subsidieontvanger op bij de verlening te bepalen tijdstippen Onze Minister inlichtingen verstrekt over de voortgang van de activiteiten waarvoor subsidie is verleend en de verwezenlijking van de daarmee beoogde resultaten alsmede van de daarmee gemoeide uitgaven en inkomsten.
-
-2. De subsidieontvanger stelt Onze Minister onverwijld in kennis van feiten of omstandigheden die redelijkerwijs van belang kunnen zijn voor wijziging of intrekking van de verlening of voor vaststelling van de subsidie.
+Bij de subsidieverstrekking kan worden bepaald dat de subsidieontvanger een kostendekkende vergoeding in rekening brengt voor de beschikbaarstelling van goederen aan derden of het verrichten van diensten voor derden.
 
 ##### Artikel 22
 
-In de beschikking tot subsidieverlening kunnen ten aanzien van goederen die met de subsidie worden aangeschaft voorschriften worden gegeven omtrent gebruik en bestemming daarvan na afloop van het subsidieverleningstijdvak of na uitvoering van de activiteiten waarvoor de goederen zijn verworven. Onze Minister kan daarbij bepalen dat de goederen om niet of tegen een door hem te bepalen vergoeding worden overgedragen aan hem of aan door hem aan te wijzen derden.
+Bij de subsidieverstrekking kunnen ten aanzien van goederen die met de subsidie worden aangeschaft voorschriften worden gegeven omtrent gebruik en bestemming daarvan na afloop van het tijdvak waarvoor subsidie wordt verstrekt of na uitvoering van de activiteiten waarvoor de goederen zijn verworven. Onze Minister kan daarbij bepalen dat de goederen om niet of tegen een door hem te bepalen vergoeding worden overgedragen aan hem of aan door hem aan te wijzen derden.
 
 ##### Artikel 23
 
-In de beschikking tot subsidieverlening kan worden bepaald dat de subsidieontvanger Onze Minister in de gelegenheid stelt om ten behoeve van de doelstellingen waarvoor de subsidie is verleend vrijelijk en om niet gebruik te maken van alle auteurs- of andere intellectuele eigendomsrechten die het resultaat zijn van geheel of gedeeltelijk met de subsidie bekostigde activiteiten.
+Bij de subsidieverstrekking kan worden bepaald dat de subsidieontvanger Onze Minister in de gelegenheid stelt om ten behoeve van de doelstellingen waarvoor de subsidie is verstrekt vrijelijk en om niet gebruik te maken van alle auteurs- of andere intellectuele eigendomsrechten die het resultaat zijn van geheel of gedeeltelijk met de subsidie bekostigde activiteiten.
 
 ##### Artikel 24
 
-De subsidieontvanger maakt bij publicaties inzake gesubsidieerde activiteiten en in correspondentie met derden die bij de uitvoering van de activiteiten zijn betrokken melding van de omstandigheid dat de activiteiten geheel of gedeeltelijk bekostigd zijn uit een subsidie verleend door Onze Minister, tenzij de aard van de activiteiten, de hoedanigheid van de ontvanger of andere gewichtige omstandigheden zich daartegen verzetten.
+Bij de subsidieverstrekking kan worden bepaald dat de subsidieontvanger bij publicaties inzake gesubsidieerde activiteiten en in correspondentie met derden die bij de uitvoering van de activiteiten zijn betrokken, melding maakt van de omstandigheid dat de activiteiten geheel of gedeeltelijk bekostigd zijn uit een subsidie verstrekt door Onze Minister, tenzij de aard van de activiteiten, de hoedanigheid van de ontvanger of andere gewichtige omstandigheden zich daartegen verzetten.
 
 ### Afdeling 2. Activiteitensubsidies
 
 ##### Artikel 25
 
-1. De aanvraag tot verlening van een activiteitensubsidie omvat:
+De aanvraag tot verstrekking van een activiteitensubsidie omvat:
 
 - a. een activiteitenplan,
 
@@ -238,15 +234,13 @@ De subsidieontvanger maakt bij publicaties inzake gesubsidieerde activiteiten en
 
 - c. een liquiditeitsprognose voor de eerstvolgende twaalf maanden.
 
-2. Indien de aanvraag eerder dan dertien weken voor aanvang van het subsidietijdvak waarin de activiteiten zullen aanvangen wordt ingediend, schort Onze Minister de behandeling van de aanvraag op tot dertien weken voor aanvang van het subsidietijdvak. Voor de toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&afdeling=1&paragraaf=3&artikel=7&z=2006-01-01&g=2006-01-01) geldt als datum van ontvangst van de aanvraag de dag waarop de termijn van dertien weken aanvangt.
-
 ##### Artikel 26
 
-Het activiteitenplan omvat een overzicht van activiteiten, naar aard, omvang, fasering en onderling verband, in relatie tot de daarmee beoogde doelstellingen en resultaten en verwachte effecten voor de eerstvolgende twaalf maanden van het subsidieverleningstijdvak. Doelstellingen, resultaten en effecten worden waar mogelijk uitgedrukt in meetbare grootheden. Indien de activiteiten zich over een tijdvak van meer dan twaalf maanden uitstrekken gaat het activiteitenplan vergezeld van een globaal overzicht van werkzaamheden, doelstellingen, resultaten en verwachte effecten voor de resterende periode van het subsidieverleningstijdvak.
+Het activiteitenplan omvat een overzicht van activiteiten, naar aard, omvang, fasering en onderling verband, in relatie tot de daarmee beoogde doelstellingen en resultaten en verwachte effecten voor de eerstvolgende twaalf maanden van het tijdvak waarvoor subsidie wordt gevraagd. Doelstellingen, resultaten en effecten worden waar mogelijk uitgedrukt in meetbare grootheden. Indien de activiteiten zich over een tijdvak van meer dan twaalf maanden uitstrekken gaat het activiteitenplan vergezeld van een globaal overzicht van werkzaamheden, doelstellingen, resultaten en verwachte effecten voor de resterende periode van het tijdvak.
 
 ##### Artikel 27
 
-De begroting geeft inzicht in de inkomsten, daaronder begrepen bijdragen van derden, en uitgaven gerelateerd aan de voorgenomen activiteiten voor de eerstvolgende twaalf maanden van het subsidieverleningstijdvak en is voorzien van een postgewijze toelichting. Indien de activiteiten zich over een tijdvak van meer dan twaalf maanden uitstrekken gaat de begroting vergezeld van een financiële raming voor de daaropvolgende periode.
+De begroting geeft inzicht in de inkomsten, daaronder begrepen bijdragen van derden, en uitgaven gerelateerd aan de voorgenomen activiteiten voor de eerstvolgende twaalf maanden van het tijdvak waarvoor subsidie wordt gevraagd en is voorzien van een postgewijze toelichting. Indien de activiteiten zich over een tijdvak van meer dan twaalf maanden uitstrekken gaat de begroting vergezeld van een financiële raming voor de daaropvolgende periode.
 
 ##### Artikel 28
 
@@ -256,97 +250,101 @@ De begroting geeft inzicht in de inkomsten, daaronder begrepen bijdragen van der
 
 ##### Artikel 29
 
-1. De subsidieontvanger draagt zorg dat de begroting niet wordt overschreden.
-
-2. Blijkt dat de werkelijke uitgaven of de inkomsten aanzienlijk afwijken van de begroting, dan stelt de subsidieontvanger Onze Minister daarvan zo spoedig mogelijk in kennis, onder opgave van de verschillen en de oorzaken daarvan.
-
-3. Wijzigingen van activiteitenplan en begroting worden vooraf schriftelijk aan Onze Minister ter goedkeuring voorgelegd. Indien binnen acht weken na indiening van het verzoek om goedkeuring Onze Minister niet van bedenkingen heeft blijk gegeven, is het verzoek goedgekeurd.
-
-##### Artikel 30
-
-Indien de activiteiten zich over een tijdvak van meer dan een kalenderjaar uitstrekken kan bij de subsidieverlening worden bepaald dat de vaststelling van de subsidie plaats vindt per kalenderjaar.
-
-##### Artikel 31
-
-De aanvraag tot vaststelling van een activiteitensubsidie geschiedt binnen zes maanden na afloop van het subsidieverleningstijdvak dan wel na afloop van de activiteiten dan wel, indien toepassing is gegeven aan [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&afdeling=2&artikel=30&z=2006-01-01&g=2006-01-01), telkens binnen zes maanden na afloop van elk kalenderjaar.
-
-##### Artikel 32
-
-1. De aanvraag tot vaststelling geschiedt aan de hand van een verslag van werkzaamheden en een financiële verantwoording.
-
-2. Het verslag van werkzaamheden biedt inzicht in de mate waarin en de wijze waarop het activiteitenplan is uitgevoerd aan de hand van een overzicht van aard en omvang van de werkzaamheden en de daarmee behaalde resultaten.
-
-3. De financiële verantwoording biedt inzicht in de besteding van de subsidie, daaronder begrepen de daarop ontvangen renteopbrengsten, en verschaft de gegevens die voor de vaststelling van de subsidie noodzakelijk zijn. De verantwoording is ingericht overeenkomstig de begroting.
-
-4. Indien het subsidiebedrag gelijk is aan of hoger is dan € 5.000.000 of indien dit bij de subsidieverlening is bepaald, is [artikel 4:78 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:78) van overeenkomstige toepassing. Het accountantsonderzoek, bedoeld in [artikel 4:78, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:78), heeft tevens betrekking op de naleving van de aan de subsidie verbonden verplichtingen. In afwijking van [artikel 4:78, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:78), kan de verklaring, bedoeld in [artikel 4:78, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:78), na afloop van het boekjaar worden ingediend, indien Onze Minister daartoe uit oogpunt van doelmatigheid van het onderzoek grond aanwezig acht. De vaststellingstermijn, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&afdeling=1&paragraaf=7&artikel=18&z=2006-01-01&g=2006-01-01), vangt niet eerder aan dan na ontvangst van de verklaring.
-
-5. Onze Minister kan bij de subsidieverlening voorschriften verbinden aan de uitvoering van het onderzoek en de inrichting van de accountantsverklaring. De subsidieontvanger bedingt bij de accountant dat deze de voorschriften, bedoeld in de vorige volzin, in acht neemt en dat deze in voorkomend geval meewerkt aan de uitoefening van het toezicht op grond van [artikel 6 van de Kaderwet subsidies Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0010178&artikel=6).
-
-##### Artikel 33
-
-Voorschotten die blijkens de vaststelling te veel betaald zijn, worden onverwijld aan Onze Minister terugbetaald.
-
-### Afdeling 3. Instellingssubsidies
-
-##### Artikel 34
-
-1. Instellingssubsidies kunnen slechts worden verstrekt aan instellingen die zich geheel of in overwegende mate richten op het uitvoeren van activiteiten waarvoor krachtens [artikel 3, eerste lid, van de Kaderwet subsidies Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0010178&artikel=3) subsidie kan worden verleend.
-
-2. Een subsidieaanvraag gaat voor de eerste maal vergezeld van:
+De [artikelen 26 tot en met 28](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&paragraaf=8&artikel=26&z=2010-10-23&g=2010-10-23) zijn van overeenkomstige toepassing op de aanvraag voor een instellingssubsidie, met dien verstande dat de gegevens betrekking hebben op alle werkzaamheden van de instelling en de integrale kosten daarvan. Een aanvraag voor een instellingssubsidie gaat voor de eerste maal vergezeld van:
 
 - a. een afschrift van de statuten dan wel de reglementen van de subsidieaanvrager, zoals deze laatstelijk zijn vastgesteld of gewijzigd en
 
 - b. de meest recente jaarrekening dan wel een overzicht van de financiële situatie van de subsidieaanvrager.
 
+##### Artikel 30
+
+1. Onze Minister beslist binnen dertien weken na ontvangst van de aanvraag. Onze Minister kan deze termijn verlengen tot ten hoogste:
+
+- a. tweeëntwintig weken indien de activiteiten mede worden bekostigd door de Europese Unie of met het oog op de beslissing advies wordt ingewonnen dan wel een nader onderzoek plaatsvindt, of
+
+- b. veertig weken indien met het oog op de beslissing internationaal advies wordt ingewonnen.
+
+2. Indien [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&paragraaf=3&artikel=7&z=2010-10-23&g=2010-10-23), van toepassing is en de aanvraag eerder dan dertien weken voor aanvang van het subsidietijdvak waarin de activiteiten zullen aanvangen wordt ingediend, schort Onze Minister de behandeling van de aanvraag op tot dertien weken voor aanvang van het subsidietijdvak en geldt als datum van ontvangst van de aanvraag de dag waarop de termijn van dertien weken aanvangt.
+
+3. Het eerste en het tweede lid zijn niet van toepassing indien [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&paragraaf=3&artikel=7&z=2010-10-23&g=2010-10-23), van toepassing is.
+
+4. Met het oog op de toepassing van [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&paragraaf=4&artikel=8&z=2010-10-23&g=2010-10-23), kan Onze Minister in afwijking van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&paragraaf=3&artikel=7&z=2010-10-23&g=2010-10-23), de beslissing op de aanvraag aanhouden, onverminderd het eerste lid.
+
+##### Artikel 31
+
+1. De aanvraag tot vaststelling van een activiteitensubsidie geschiedt binnen zes maanden na afloop van het tijdvak waarvoor subsidie werd verleend dan wel na afloop van de activiteiten dan wel, indien toepassing is gegeven aan [artikel 4:44, eerste lid, onder b of c, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:44), telkens binnen zes maanden na afloop van elk kalenderjaar.
+
+2. Onze Minister beslist binnen dertien weken na ontvangst van de aanvraag. Onze Minister kan deze termijn verlengen tot ten hoogste tweeëntwintig weken.
+
+##### Artikel 32
+
+Indien toepassing is gegeven aan [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5), vangt de termijn om op een aanvraag tot verlening of vaststelling te beslissen aan zodra de aanvraag is aangevuld.
+
+##### Artikel 33
+
+Betaling van voorschotten vindt plaats in termijnen waarvan hoogte en betalingstijdstip in de beschikking tot subsidieverlening worden vastgelegd.
+
+### Afdeling 3. Instellingssubsidies
+
+##### Artikel 34
+
+Vervallen
+
 ##### Artikel 35
 
-1. [Afdeling 4.2.8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.8) is van toepassing, voor zover bij de subsidieverlening niet anders is bepaald.
-
-2. Voor de toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&afdeling=1&paragraaf=3&artikel=7&z=2006-01-01&g=2006-01-01) geldt als datum van ontvangst van aanvragen die eerder zijn ingediend dan dertien weken voor aanvang van het subsidietijdvak waarin de activiteiten zullen worden uitgevoerd, de dag waarop die termijn van dertien weken aanvangt.
-
-3. De [artikelen 26 tot en met 28](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&afdeling=2&artikel=26&z=2006-01-01&g=2006-01-01) zijn van overeenkomstige toepassing.
+Vervallen
 
 ##### Artikel 36
 
-Wijzigingen van activiteitenplan en begroting worden vooraf schriftelijk aan Onze Minister ter goedkeuring voorgelegd. Indien binnen acht weken na indiening van het verzoek om goedkeuring Onze Minister niet van bedenkingen heeft blijk gegeven, is het verzoek goedgekeurd.
+Vervallen
 
 ##### Artikel 37
 
-Voor de beschikbaarstelling van goederen aan derden of het verrichten van diensten voor derden brengt de subsidieontvanger een vergoeding in rekening die ten minste kostendekkend is. Deze verplichting geldt niet ten aanzien van derden die tot de doelgroep van de subsidie behoren.
+Vervallen
 
 ##### Artikel 38
 
-1. Het accountantsonderzoek, bedoeld in [artikel 4:78, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:78), is verplicht indien het subsidiebedrag gelijk is aan of hoger is dan € 5.000.000 of indien dit bij de subsidieverlening is bepaald.
-
-2. Het accountantsonderzoek heeft mede betrekking op de naleving van de aan de subsidie verbonden voorschriften. Onze Minister kan voorschriften verbinden aan de uitvoering van het onderzoek en de inrichting van de accountantsverklaring. De subsidieontvanger bedingt bij de accountant dat deze de voorschriften, bedoeld in de vorige volzin, in acht neemt en dat deze in voorkomend geval meewerkt aan de uitoefening van het toezicht op grond van [artikel 6 van de Kaderwet subsidies Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0010178&artikel=6).
+Vervallen
 
 ### Afdeling 4. Subsidies lager dan € 25.000
 
 ##### Artikel 39
 
-1. Indien de subsidie minder dan € 25.000 bedraagt is deze afdeling van toepassing, tenzij bij de subsidieverlening anders is bepaald.
+1. Subsidies voor een bedrag lager dan € 25.000 worden als vast bedrag verstrekt.
 
-2. Aan de beschikking tot subsidievaststelling gaat geen beschikking tot subsidieverlening vooraf.
+2. De subsidie wordt:
+
+- a. direct vastgesteld zonder voorafgaande beschikking tot subsidieverlening of
+
+- b. ambtshalve vastgesteld, uiterlijk op een in een voorafgaande beschikking tot subsidieverlening vermelde datum, doch niet later dan tweeëntwintig weken nadat de activiteiten op grond van de beschikking moeten zijn verricht.
+
+3. Een subsidie als bedoeld in het tweede lid, onder a, wordt binnen zes weken na vaststelling in één termijn betaald, doch niet eerder dan na aanvang van het subsidietijdvak.
 
 ##### Artikel 40
 
-1. Voor de toepassing van dit besluit wordt ten aanzien van subsidies lager dan € 25.000 onder «verlening» verstaan: vaststelling.
+1. Indien een beschikking tot subsidieverlening als bedoeld in [artikel 39, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&paragraaf=9&artikel=39&z=2010-10-23&g=2010-10-23), wordt gegeven, vermeldt de beschikking de datum waarop de activiteiten uiterlijk moeten zijn verricht.
 
-2. Op subsidies lager dan € 25.000 zijn niet van toepassing de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&afdeling=1&paragraaf=2&artikel=5&z=2006-01-01&g=2006-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&afdeling=1&paragraaf=5&artikel=13&z=2006-01-01&g=2006-01-01), [14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&afdeling=1&paragraaf=6&artikel=14&z=2006-01-01&g=2006-01-01), [16 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&afdeling=1&paragraaf=7&artikel=16&z=2006-01-01&g=2006-01-01), [25, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&afdeling=2&artikel=25&z=2006-01-01&g=2006-01-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&afdeling=2&artikel=28&z=2006-01-01&g=2006-01-01), [29, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&afdeling=2&artikel=29&z=2006-01-01&g=2006-01-01), [30 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&afdeling=2&artikel=30&z=2006-01-01&g=2006-01-01), [35 tot en met 38](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&afdeling=3&artikel=35&z=2006-01-01&g=2006-01-01).
+2. Bij de subsidieverlening wordt bepaald dat de subsidieontvanger desgevraagd op in de beschikking vermelde wijze aantoont dat de activiteiten waarvoor de subsidie is verleend, zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen.
+
+3. Bevoorschotting vindt plaats tot honderd procent van het verleende bedrag in termijnen waarvan hoogte en betalingstijdstip in de beschikking tot subsidieverlening worden vastgelegd.
 
 ##### Artikel 41
 
-De subsidie wordt binnen zes weken na vaststelling in één termijn dan wel in een bij de subsidievaststelling te bepalen aantal termijnen betaald, doch niet eerder dan na aanvang van het subsidietijdvak.
+1. Subsidies voor een bedrag van ten minste € 25.000 tot ten hoogste € 125.000 worden verstrekt in de vorm van een vast bedrag of een vast bedrag overeenkomstig een in de beschikking te bepalen grondslag die is gerelateerd aan de gerealiseerde resultaten.
+
+2. Bij de subsidieverstrekking wordt bepaald dat de subsidieontvanger op in de beschikking vermelde wijze aantoont dat de activiteiten waarvoor de subsidie is verleend, zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen.
+
+3. Indien de kosten en opbrengsten in verband met de aard van de activiteiten zodanig ongewis zijn dat een realistische begroting niet kan worden vereist, kan in de beschikking worden bepaald dat de subsidieontvanger op basis van een verklaring inzake werkelijke kosten en opbrengsten aantoont dat de activiteiten zijn verricht.
 
 ##### Artikel 42
 
-De subsidieontvanger dient binnen dertien weken na afloop van de activiteiten of na afloop van het subsidieverleningstijdvak bij Onze Minister een verslag van werkzaamheden en een financiële verantwoording in.
+Vervallen
 
 ### Afdeling 5. Slotbepalingen
 
 ##### Artikel 43
 
-Na inwerkingtreding van dit besluit berust de [Subsidieregeling Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0010173) op de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&afdeling=1&paragraaf=1&artikel=2&z=2006-01-01&g=2006-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&afdeling=1&paragraaf=1&artikel=3&z=2006-01-01&g=2006-01-01) van dit besluit.
+Vervallen
 
 ##### Artikel 44
 
@@ -357,3 +355,33 @@ Dit besluit treedt in werking met ingang van 1 januari 2006.
 Dit besluit wordt aangehaald als: Subsidiebesluit Ministerie van Buitenlandse Zaken.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+#### Paragraaf 1. Algemeen
+
+#### Paragraaf 2. Subsidieontvangers
+
+#### Paragraaf 3. Beleidsregels; subsidieplafond; verdeling
+
+#### Paragraaf 4. Beoordeling
+
+#### Paragraaf 5. Tijdvak; begrotingsvoorbehoud
+
+#### Paragraaf 6. Subsidiabele kosten
+
+#### Paragraaf 7. Verplichtingen voor de subsidieontvanger
+
+##### Artikel 24a
+
+Aan de subsidieverstrekking kunnen verplichtingen als bedoeld in [artikel 4:39, tweede lid van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:39) worden verbonden, met het oog op de belangen, genoemd in [artikel 2, onder a tot en met h, van de Kaderwet subsidies Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0010178&artikel=2) en in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&paragraaf=4&artikel=8&z=2010-10-23&g=2010-10-23).
+
+##### Artikel 24b
+
+Bij de subsidieverlening wordt bepaald dat de subsidieontvanger onverwijld een schriftelijke melding doet zodra aannemelijk is dat de activiteiten waarvoor de subsidie is verleend niet, niet tijdig of niet geheel zullen worden verricht of dat niet, niet tijdig of niet geheel aan de aan de subsidie verbonden verplichtingen zal worden voldaan.
+
+#### Paragraaf 8. Aanvragen; termijnen
+
+#### Paragraaf 9. Subsidies lager dan € 25.000
+
+#### Paragraaf 10. Subsidies tussen € 25.000 en € 125.000
+
+#### Paragraaf 11. Slotbepalingen
