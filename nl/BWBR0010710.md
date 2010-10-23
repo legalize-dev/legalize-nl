@@ -4,7 +4,7 @@ identifier: "BWBR0010710"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2010-01-01"
+last_updated: "2010-10-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010710"
 soort: "ministeriele-regeling"
@@ -90,7 +90,7 @@ Bij afwezigheid of verhindering van een gevolmachtigde wordt, voor de duur van d
 
 ##### Artikel 8
 
-De Secretaris-Generaal heeft volmacht ten aanzien van alle rechtshandelingen met uitsluiting van de rechtshandelingen die ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=11&z=2009-04-03&g=2010-01-01) door de Minister worden verricht.
+De Secretaris-Generaal heeft volmacht ten aanzien van alle rechtshandelingen met uitsluiting van de rechtshandelingen die ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=11&z=2010-10-23&g=2010-10-23) door de Minister worden verricht.
 
 ##### Artikel 9
 
@@ -132,7 +132,9 @@ De plaatsvervangend Secretaris-Generaal heeft volmacht ten aanzien van de rechts
 
 - p. de teamleiders van de Rijksinstellingen voor gesloten jeugdzorg Den Engh en De Lindenhorst tot een bedrag van € 2.500 inclusief btw.
 
-2. De volmacht, verleend in het eerste lid, heeft geen betrekking op het sluiten van borgtochtovereenkomsten, vaststellingsovereenkomsten, overeenkomsten van geldlening en overeenkomsten, waarbij zaken worden verhuurd of verkocht, met uitzondering van overeenkomsten waarbij tijdschriften op basis van abonnementen worden verkocht.
+2. De teamcoördinator Inkoop van de eenheid Financiën, Inkoop en Subsidies heeft volmacht voor het sluiten van overeenkomsten met betrekking tot de verwerving van goederen en diensten op het werkterrein van de functionarissen, genoemd in [artikel 10, eerste lid, onder a en d](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2010-10-23&g=2010-10-23).
+
+3. De volmacht, verleend in het eerste en tweede lid, heeft geen betrekking op het sluiten van borgtochtovereenkomsten, vaststellingsovereenkomsten, overeenkomsten van geldlening en overeenkomsten, waarbij zaken worden verhuurd of verkocht, met uitzondering van overeenkomsten waarbij tijdschriften op basis van abonnementen worden verkocht.
 
 ### Hoofdstuk 4. Beperkingen van volmacht
 
@@ -148,35 +150,19 @@ De plaatsvervangend Secretaris-Generaal heeft volmacht ten aanzien van de rechts
 
 ##### Artikel 12
 
-1. In afwijking van [artikel 10, eerste lid, onder a, i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2009-04-03&g=2010-01-01), worden overeenkomsten met betrekking tot de verwerving van goederen en diensten waarvoor op basis van de Richtlijn 2004/18/EG, [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005937&artikel=2) en [3 van de Raamwet EEG-voorschriften aanbestedingen](https://wetten.overheid.nl/jci1.3:c:BWBR0005937&artikel=3) en het [Besluit aanbestedingsregels voor overheidsopdrachten](https://wetten.overheid.nl/jci1.3:c:BWBR0018607) een plicht tot Europees aanbesteden geldt, gesloten door de functionarissen, genoemd in [artikel 10, eerste lid, onder a, i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2009-04-03&g=2010-01-01), tezamen met de teamcoördinator Inkoop van de eenheid Financiën, Inkoop en Subsidies.
-
-2. In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2009-04-03&g=2010-01-01) worden raamovereenkomsten met betrekking tot de verwerving van goederen en diensten waarvoor op basis van de Richtlijn 2004/18/EG, [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005937&artikel=2) en [3 van de Raamwet EEG-voorschriften aanbestedingen](https://wetten.overheid.nl/jci1.3:c:BWBR0005937&artikel=3) en het [Besluit aanbestedingsregels voor overheidsopdrachten](https://wetten.overheid.nl/jci1.3:c:BWBR0018607) een plicht tot Europees aanbesteden geldt, gesloten door de teamcoördinator Inkoop van de eenheid Financiën, Inkoop en Subsidies tezamen met de directeur Bedrijfsvoering, of, wanneer het een raamovereenkomst op het werkterrein van één of enkele functionarissen, genoemd in [artikel 10, eerste lid, onder a, i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2009-04-03&g=2010-01-01), betreft, tezamen met de betrokken functionaris of functionarissen.
-
-3. De teamcoördinator Inkoop van de eenheid Financiën, Inkoop en Subsidies heeft tevens volmacht voor het sluiten van overeenkomsten met betrekking tot de verwerving van goederen en diensten op het werkterrein van de functionarissen, genoemd in [artikel 10, eerste lid, onder a, i, en j](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2009-04-03&g=2010-01-01), mits hij daartoe van hen opdracht krijgt.
-
-4. Het eerste lid geldt niet voor nadere overeenkomsten op basis van een raamovereenkomst.
-
-5. Het tweede lid geldt niet voor raamovereenkomsten welke uitsluitend betrekking hebben op het werkterrein van één van de functionarissen, genoemd in [artikel 10, eerste lid, onder a tot en met p](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2009-04-03&g=2010-01-01).
+Vervallen
 
 ##### Artikel 13
 
-1. In afwijking van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2009-04-03&g=2010-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=12&z=2009-04-03&g=2010-01-01) heeft de directeur Bedrijfsvoering volmacht om overeenkomsten te sluiten waarbij bepaalde, door de Secretaris-Generaal aangewezen, categorieën goederen en diensten worden verworven.
-
-2. In afwijking van het eerste lid hebben de teamcoördinator Inkoop van de eenheid Financiën, Inkoop en Subsidies tezamen met de directeur Bedrijfsvoering tezamen volmacht met betrekking tot overeenkomsten als bedoeld in [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=12&z=2009-04-03&g=2010-01-01), waarbij bepaalde, met toepassing van het eerste lid aangewezen goederen en diensten worden verworven.
-
-3. De teamcoördinator Inkoop van de eenheid Financiën, Inkoop en Subsidies heeft tevens volmacht voor het sluiten van overeenkomsten met betrekking tot de verwerving van deze goederen en diensten op het werkterrein van de functionarissen, genoemd in [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2009-04-03&g=2010-01-01), mits hij daartoe van hen opdracht krijgt.
-
-4. Het eerste en het tweede lid gelden niet voor nadere overeenkomsten op basis van een raamovereenkomst.
-
-5. Het eerste lid geldt niet voor overeenkomsten welke uitsluitend betrekking hebben op het werkterrein van één van de functionarissen, genoemd in [artikel 10, eerste lid, onder a tot en met p](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2009-04-03&g=2010-01-01).
+Vervallen
 
 ##### Artikel 14
 
-In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2009-04-03&g=2010-01-01) wordt uitsluitend aan de Directeur Financieel-Economische Zaken en door deze aan te wijzen kasbeheerders volmacht verleend om bankrekeningen te openen, te wijzigen en op te heffen.
+In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2010-10-23&g=2010-10-23) wordt uitsluitend aan de Directeur Financieel-Economische Zaken en door deze aan te wijzen kasbeheerders volmacht verleend om bankrekeningen te openen, te wijzigen en op te heffen.
 
 ##### Artikel 15
 
-In afwijking van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2009-04-03&g=2010-01-01), wordt aan de Directeur Curatieve Zorg volmacht verleend tot het aangaan van borgtochtovereenkomsten uit hoofde van de Garantieregeling Inrichtingen voor Gezondheidszorg 1958, de Rijksregeling dagverblijven voor gehandicapten (Stcrt. 1971, 64) en de Rijksregeling gezinsvervangende tehuizen voor gehandicapten (Stcrt. 1971, 254).
+In afwijking van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2010-10-23&g=2010-10-23), wordt aan de Directeur Curatieve Zorg volmacht verleend tot het aangaan van borgtochtovereenkomsten uit hoofde van de Garantieregeling Inrichtingen voor Gezondheidszorg 1958, de Rijksregeling dagverblijven voor gehandicapten (Stcrt. 1971, 64) en de Rijksregeling gezinsvervangende tehuizen voor gehandicapten (Stcrt. 1971, 254).
 
 ### Hoofdstuk 5. Ondervolmacht
 
@@ -184,11 +170,11 @@ In afwijking van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BW
 
 1. De directeuren van beleidsdirecties en stafeenheden zijn bevoegd ondervolmacht te verlenen aan de directeur van een facilitaire eenheid.
 
-2. De functionarissen genoemd in [artikel 10, eerste lid, onder a tot en met o](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2009-04-03&g=2010-01-01), kunnen volmacht verlenen:
+2. De functionarissen genoemd in [artikel 10, eerste lid, onder a tot en met o](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2010-10-23&g=2010-10-23), kunnen volmacht verlenen:
 
-- a. tot een bedrag van € 25.000 inclusief btw aan anderen dan de in [artikel 10, eerste lid, onder o](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2009-04-03&g=2010-01-01), genoemde hoofden;
+- a. tot een bedrag van € 25.000 inclusief btw aan anderen dan de in [artikel 10, eerste lid, onder o](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2010-10-23&g=2010-10-23), genoemde hoofden;
 
-- b. in bijzondere gevallen tot een bedrag hoger dan € 25.000 inclusief btw, maar niet hoger dan € 100.000 inclusief btw, aan de in [artikel 10, eerste lid, onder o](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2009-04-03&g=2010-01-01), genoemde hoofden en de onder a van dit lid bedoelde functionarissen.
+- b. in bijzondere gevallen tot een bedrag hoger dan € 25.000 inclusief btw, maar niet hoger dan € 100.000 inclusief btw, aan de in [artikel 10, eerste lid, onder o](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2010-10-23&g=2010-10-23), genoemde hoofden en de onder a van dit lid bedoelde functionarissen.
 
 3. Ondervolmacht kan hetzij algemeen hetzij voor een bepaald geval verleend worden.
 
@@ -200,7 +186,7 @@ In afwijking van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 17
 
-1. Onverminderd [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=11&z=2009-04-03&g=2010-01-01) kan de Secretaris-Generaal in het kader van een bepaald project en in andere bijzondere gevallen naast of in plaats van de op grond van de [Hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&z=2009-04-03&g=2010-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&z=2009-04-03&g=2010-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=5&z=2009-04-03&g=2010-01-01) bevoegde functionarissen aan anderen de bevoegdheid verlenen in naam van de Minister privaatrechtelijke rechtshandelingen te verrichten.
+1. Onverminderd [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=11&z=2010-10-23&g=2010-10-23) kan de Secretaris-Generaal in het kader van een bepaald project en in andere bijzondere gevallen naast of in plaats van de op grond van de [Hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&z=2010-10-23&g=2010-10-23), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&z=2010-10-23&g=2010-10-23) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=5&z=2010-10-23&g=2010-10-23) bevoegde functionarissen aan anderen de bevoegdheid verlenen in naam van de Minister privaatrechtelijke rechtshandelingen te verrichten.
 
 2. Bijzondere ondervolmacht aan personen die geen ambtenaar zijn, wordt slechts verleend voor zover daartoe dwingende redenen zijn.
 
