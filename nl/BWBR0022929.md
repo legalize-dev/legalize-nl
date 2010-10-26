@@ -4,7 +4,7 @@ identifier: "BWBR0022929"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-01"
-last_updated: "2010-10-01"
+last_updated: "2010-10-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022929"
 soort: "AMvB"
@@ -66,11 +66,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 **Beheerder**: bestuursorgaan dat bevoegd is tot vergunningverlening ingevolge [artikel 6.2 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.2);
 
-**Bodembeheergebied**: aaneengesloten, door het bestuursorgaan, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2010-10-01&g=2010-10-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=45&z=2010-10-01&g=2010-10-01) of [46](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=46&z=2010-10-01&g=2010-10-01), afgebakend deel van de oppervlakte van een of meer gemeenten of het beheergebied van een of meer beheerders;
+**Bodembeheergebied**: aaneengesloten, door het bestuursorgaan, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2010-10-26&g=2010-10-26), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=45&z=2010-10-26&g=2010-10-26) of [46](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=46&z=2010-10-26&g=2010-10-26), afgebakend deel van de oppervlakte van een of meer gemeenten of het beheergebied van een of meer beheerders;
 
 **Bodemfuncties**: gebruik van de bodem, niet zijnde de bodem of oever van een oppervlaktewaterlichaam, zoals dat is vastgesteld door de gemeenteraad, overeenkomstig een bij regeling van Onze Ministers vastgestelde indeling;
 
-**Bodemfunctieklassen**: bij regeling van Onze Ministers vastgestelde indeling van bodemfuncties in de categorieën, bedoeld in [artikel 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=55&z=2010-10-01&g=2010-10-01);
+**Bodemfunctieklassen**: bij regeling van Onze Ministers vastgestelde indeling van bodemfuncties in de categorieën, bedoeld in [artikel 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=55&z=2010-10-26&g=2010-10-26);
 
 **Bouwstof**: materiaal waarin de totaalgehalten aan silicium, calcium of aluminium tezamen meer dan 10 gewichtsprocent van dat materiaal bedragen, uitgezonderd vlakglas, metallisch aluminium, grond of baggerspecie, dat is bestemd om te worden toegepast;
 
@@ -100,13 +100,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. voor bouwstoffen, grond of baggerspecie: partijkeuring, fabrikant-eigenverklaring of erkende kwaliteitsverklaring, en
 
-- b. voor grond, baggerspecie of de bodem, waarop of waarin de grond of baggerspecie wordt toegepast: verklaring omtrent de milieuhygiënische kwaliteit van een specifieke partij of de bodem, die is afgegeven op basis van een kaart als bedoeld in [artikel 47, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=47&z=2010-10-01&g=2010-10-01), of [57, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=57&z=2010-10-01&g=2010-10-01) of een bij regeling van Onze Ministers aangewezen normdocument of onderzoeksprotocollen;
+- b. voor grond, baggerspecie of de bodem, waarop of waarin de grond of baggerspecie wordt toegepast: verklaring omtrent de milieuhygiënische kwaliteit van een specifieke partij of de bodem, die is afgegeven op basis van een kaart als bedoeld in [artikel 47, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=47&z=2010-10-26&g=2010-10-26), of [57, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=57&z=2010-10-26&g=2010-10-26) of een bij regeling van Onze Ministers aangewezen normdocument of onderzoeksprotocollen;
 
-**Normdocument**: een voor een werkzaamheid op grond van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=3&artikel=25&z=2010-10-01&g=2010-10-01) aangewezen beoordelingsrichtlijn, protocol of andere richtlijn, code, aanbeveling of norm die of dat eisen bevat ter bevordering van de kwaliteit van werkzaamheden of de uitvoering daarvan;
+**Normdocument**: een voor een werkzaamheid op grond van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=3&artikel=25&z=2010-10-26&g=2010-10-26) aangewezen beoordelingsrichtlijn, protocol of andere richtlijn, code, aanbeveling of norm die of dat eisen bevat ter bevordering van de kwaliteit van werkzaamheden of de uitvoering daarvan;
 
 **Onze Minister**: Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
 
-**Onze Ministers**: Onze Minister, Onze Minister van Verkeer en Waterstaat en Onze Minister van Landbouw, Natuur en Voedselkwaliteit, met dien verstande dat het bepaalde in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=14&z=2010-10-01&g=2010-10-01) van toepassing is;
+**Onze Ministers**: Onze Minister, Onze Minister van Verkeer en Waterstaat en Onze Minister van Landbouw, Natuur en Voedselkwaliteit, met dien verstande dat het bepaalde in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=14&z=2010-10-26&g=2010-10-26) van toepassing is;
 
 **Parameter**: chemische stof of een fysische eigenschap;
 
@@ -120,7 +120,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 **Toepassen van bouwstoffen**: in een werk aanbrengen of houden van bouwstoffen, alsmede het laten verrichten daarvan. Voor de toepassing van de bij of krachtens dit besluit gestelde regels wordt onder «het toepassen van bouwstoffen in een oppervlaktewaterlichaam» mede verstaan het toepassen van bouwstoffen op of in de bodem of oever van een oppervlaktewaterlichaam;
 
-**Toepassen van grond of baggerspecie**: het aanbrengen, verspreiden of tijdelijk opslaan van grond of baggerspecie als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-01&g=2010-10-01), het houden van de aangebrachte of tijdelijk opgeslagen grond of baggerspecie in die toepassing, alsmede het laten verrichten daarvan. Voor de toepassing van de bij of krachtens dit besluit gestelde regels wordt onder het toepassen van grond of baggerspecie in een oppervlaktewaterlichaam mede verstaan het toepassen van grond of baggerspecie op of in de bodem of oever van een oppervlaktewaterlichaam;
+**Toepassen van grond of baggerspecie**: het aanbrengen, verspreiden of tijdelijk opslaan van grond of baggerspecie als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-26&g=2010-10-26), het houden van de aangebrachte of tijdelijk opgeslagen grond of baggerspecie in die toepassing, alsmede het laten verrichten daarvan. Voor de toepassing van de bij of krachtens dit besluit gestelde regels wordt onder het toepassen van grond of baggerspecie in een oppervlaktewaterlichaam mede verstaan het toepassen van grond of baggerspecie op of in de bodem of oever van een oppervlaktewaterlichaam;
 
 **Vestigingsplaats**: adres en woonplaats van een persoon of adres en woonplaats waar een instelling zetelt;
 
@@ -132,17 +132,17 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Voor de toepassing van de [artikelen 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=5&z=2010-10-01&g=2010-10-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=6&z=2010-10-01&g=2010-10-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=7&z=2010-10-01&g=2010-10-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=8&z=2010-10-01&g=2010-10-01), van hoofdstuk 3 en de daarop berustende bepalingen zijn, behoudens het tweede lid, burgemeester en wethouders van de gemeente waarin de bouwstoffen worden toegepast het bevoegd gezag ten opzichte van degene die een bouwstof toepast op of in de bodem, uitgezonderd de bodem of oever van een oppervlaktewaterlichaam.
+1. Voor de toepassing van de [artikelen 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=5&z=2010-10-26&g=2010-10-26), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=6&z=2010-10-26&g=2010-10-26), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=7&z=2010-10-26&g=2010-10-26), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=8&z=2010-10-26&g=2010-10-26), van hoofdstuk 3 en de daarop berustende bepalingen zijn, behoudens het tweede lid, burgemeester en wethouders van de gemeente waarin de bouwstoffen worden toegepast het bevoegd gezag ten opzichte van degene die een bouwstof toepast op of in de bodem, uitgezonderd de bodem of oever van een oppervlaktewaterlichaam.
 
 2. Indien bouwstoffen worden toegepast op of in de bodem, uitgezonderd de bodem of oever van een oppervlaktewaterlichaam, binnen een inrichting die behoort tot een categorie van inrichtingen die is aangewezen krachtens [artikel 1.1, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1), en op grond van [artikel 2.4 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.4) een ander orgaan dan burgemeester en wethouders bevoegd is of indien de vergunningplicht niet was opgeheven, bevoegd zou zijn een vergunning voor de inrichting te verlenen, is ook in het kader van dit besluit dat andere orgaan het bevoegd gezag.
 
 3. De beheerder is het bevoegd gezag ten opzichte van degene die een bouwstof toepast in een oppervlaktewaterlichaam.
 
-4. Onze Minister is het bevoegd gezag ten opzichte van degene die de handelingen, genoemd in [artikel 28, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&artikel=28&z=2010-10-01&g=2010-10-01), verricht, met uitzondering van het toepassen van bouwstoffen.
+4. Onze Minister is het bevoegd gezag ten opzichte van degene die de handelingen, genoemd in [artikel 28, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&artikel=28&z=2010-10-26&g=2010-10-26), verricht, met uitzondering van het toepassen van bouwstoffen.
 
 ##### Artikel 3
 
-1. Voor de toepassing van de [artikelen 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=5&z=2010-10-01&g=2010-10-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=6&z=2010-10-01&g=2010-10-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=7&z=2010-10-01&g=2010-10-01), [8, van hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=8&z=2010-10-01&g=2010-10-01) en de daarop berustende bepalingen zijn, behoudens het tweede lid, burgemeester en wethouders van de gemeente waarin grond of baggerspecie op of in de bodem, uitgezonderd de bodem of oever van een oppervlaktewaterlichaam, wordt toegepast, het bevoegd gezag.
+1. Voor de toepassing van de [artikelen 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=5&z=2010-10-26&g=2010-10-26), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=6&z=2010-10-26&g=2010-10-26), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=7&z=2010-10-26&g=2010-10-26), [8, van hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=8&z=2010-10-26&g=2010-10-26) en de daarop berustende bepalingen zijn, behoudens het tweede lid, burgemeester en wethouders van de gemeente waarin grond of baggerspecie op of in de bodem, uitgezonderd de bodem of oever van een oppervlaktewaterlichaam, wordt toegepast, het bevoegd gezag.
 
 2. Indien grond of baggerspecie op of in de bodem, uitgezonderd de bodem of oever van een oppervlaktewaterlichaam, wordt toegepast binnen een inrichting die behoort tot een categorie van inrichtingen, die is aangewezen krachtens [artikel 1.1, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1), en op grond van [artikel 2.4 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.4) een ander orgaan dan burgemeester en wethouders bevoegd gezag is of zou zijn, is dat andere orgaan het bevoegd gezag.
 
@@ -158,19 +158,19 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. het toepassen van bouwstoffen op of in de bodem, uitgezonderd de bodem of oever van een oppervlaktewaterlichaam;
 
-- b. het toepassen van grond of baggerspecie op of in de bodem, uitgezonderd de bodem of oever van een oppervlaktewaterlichaam, als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-01&g=2010-10-01);
+- b. het toepassen van grond of baggerspecie op of in de bodem, uitgezonderd de bodem of oever van een oppervlaktewaterlichaam, als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-26&g=2010-10-26);
 
-- c. het verstrekken van een milieuhygiënische verklaring als bedoeld in [artikel 28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&artikel=28&z=2010-10-01&g=2010-10-01);
+- c. het verstrekken van een milieuhygiënische verklaring als bedoeld in [artikel 28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&artikel=28&z=2010-10-26&g=2010-10-26);
 
-- d. het melden van een toepassing als bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&artikel=32&z=2010-10-01&g=2010-10-01) en [42](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=42&z=2010-10-01&g=2010-10-01).
+- d. het melden van een toepassing als bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&artikel=32&z=2010-10-26&g=2010-10-26) en [42](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=42&z=2010-10-26&g=2010-10-26).
 
 4. Onze Minister heeft tot taak zorg te dragen voor de handhaving van de bij of krachtens dit besluit gestelde verplichtingen, voor zover zij betrekking hebben op:
 
 - a. het in opdracht aanbrengen van bouwstoffenop of in de bodem, uitgezonderd de bodem of oever van een oppervlaktewaterlichaam;
 
-- b. het in opdracht verrichten van de handelingen, genoemd in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-01&g=2010-10-01), op of in de bodem, uitgezonderd de bodem of oever van een oppervlaktewaterlichaam.
+- b. het in opdracht verrichten van de handelingen, genoemd in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-26&g=2010-10-26), op of in de bodem, uitgezonderd de bodem of oever van een oppervlaktewaterlichaam.
 
-5. Aan de [artikelen 28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&artikel=28&z=2010-10-01&g=2010-10-01), [32, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&artikel=32&z=2010-10-01&g=2010-10-01), [42, eerste, negende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=42&z=2010-10-01&g=2010-10-01), en [58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=58&z=2010-10-01&g=2010-10-01), wordt geacht te zijn voldaan, indien door één van de daartoe verplichte personen aan de desbetreffende verplichting is voldaan.
+5. Aan de [artikelen 28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&artikel=28&z=2010-10-26&g=2010-10-26), [32, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&artikel=32&z=2010-10-26&g=2010-10-26), [42, eerste, negende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=42&z=2010-10-26&g=2010-10-26), en [58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=58&z=2010-10-26&g=2010-10-26), wordt geacht te zijn voldaan, indien door één van de daartoe verplichte personen aan de desbetreffende verplichting is voldaan.
 
 ##### Artikel 5
 
@@ -184,13 +184,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Het verbod, bedoeld in [artikel 6.2, eerste lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.2), geldt niet voor toepassingen van bouwstoffen, grond of baggerspecie in een oppervlaktewaterlichaam die voldoen aan het bepaalde in het eerste lid.
 
-3. Een toepassing in de zin van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&z=2010-10-01&g=2010-10-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&z=2010-10-01&g=2010-10-01) van dit besluit waarbij wordt afgeweken van de bepalingen in dit besluit is vergunningplichtig als bedoeld in [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1).
+3. Een toepassing in de zin van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&z=2010-10-26&g=2010-10-26) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&z=2010-10-26&g=2010-10-26) van dit besluit waarbij wordt afgeweken van de bepalingen in dit besluit is vergunningplichtig als bedoeld in [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1).
 
-In afwijking van de [artikelen twee](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=2&z=2010-10-01&g=2010-10-01) en [drie](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=3&z=2010-10-01&g=2010-10-01) zijn Onze Minister respectievelijk de Minister van Verkeer en Waterstaat het bevoegd gezag.
+In afwijking van de [artikelen twee](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=2&z=2010-10-26&g=2010-10-26) en [drie](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=3&z=2010-10-26&g=2010-10-26) zijn Onze Minister respectievelijk de Minister van Verkeer en Waterstaat het bevoegd gezag.
 
 ##### Artikel 6
 
-Het stellen van regels als bedoeld in de [artikelen 28, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&artikel=28&z=2010-10-01&g=2010-10-01), [30, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&artikel=30&z=2010-10-01&g=2010-10-01), en [31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&artikel=31&z=2010-10-01&g=2010-10-01), en het toetsen aan de maximale waarden, bedoeld in de [artikelen 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2010-10-01&g=2010-10-01), [45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=45&z=2010-10-01&g=2010-10-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=46&z=2010-10-01&g=2010-10-01), [55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=55&z=2010-10-01&g=2010-10-01), [57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=57&z=2010-10-01&g=2010-10-01), [60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=60&z=2010-10-01&g=2010-10-01) en [63, eerste lid, onderdeel a, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=63&z=2010-10-01&g=2010-10-01), geschiedt met inachtneming van de voorwaarde dat toepassingen van bouwstoffen, grond of baggerspecie voldoen aan de voorwaarden, bedoeld in artikel 4 van de Kaderrichtlijn afvalstoffen.
+Het stellen van regels als bedoeld in de [artikelen 28, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&artikel=28&z=2010-10-26&g=2010-10-26), [30, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&artikel=30&z=2010-10-26&g=2010-10-26), en [31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&artikel=31&z=2010-10-26&g=2010-10-26), en het toetsen aan de maximale waarden, bedoeld in de [artikelen 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2010-10-26&g=2010-10-26), [45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=45&z=2010-10-26&g=2010-10-26), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=46&z=2010-10-26&g=2010-10-26), [55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=55&z=2010-10-26&g=2010-10-26), [57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=57&z=2010-10-26&g=2010-10-26), [60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=60&z=2010-10-26&g=2010-10-26) en [63, eerste lid, onderdeel a, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=63&z=2010-10-26&g=2010-10-26), geschiedt met inachtneming van de voorwaarde dat toepassingen van bouwstoffen, grond of baggerspecie voldoen aan de voorwaarden, bedoeld in artikel 4 van de Kaderrichtlijn afvalstoffen.
 
 ##### Artikel 7
 
@@ -242,7 +242,7 @@ Degene die bouwstoffen, grond of baggerspecie toepast en die weet of redelijkerw
 
 - d. de vestigingsplaats van de persoon of instelling;
 
-- e. indien van toepassing, de naam en een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28), die niet ouder is dan zes maanden, van de natuurlijk persoon als bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2010-10-01&g=2010-10-01).
+- e. indien van toepassing, de naam en een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28), die niet ouder is dan zes maanden, van de natuurlijk persoon als bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2010-10-26&g=2010-10-26).
 
 3. Onze Ministers kunnen nadere regels stellen met betrekking tot de in het tweede lid bedoelde gegevens.
 
@@ -254,31 +254,31 @@ Degene die bouwstoffen, grond of baggerspecie toepast en die weet of redelijkerw
 
 - a. niet in staat van faillissement of surseance van betaling verkeert; en
 
-- b. heeft voldaan aan [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=10&z=2010-10-01&g=2010-10-01).
+- b. heeft voldaan aan [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=10&z=2010-10-26&g=2010-10-26).
 
 3. Bij regeling van Onze Ministers wordt aangegeven of een erkenning voor een werkzaamheid wordt gebaseerd op een certificaat of een accreditatie.
 
-4. Een erkenning kan geheel of gedeeltelijk worden geweigerd, indien de desbetreffende persoon of instelling of een bestuurder van deze persoon of instelling, in de drie jaren voorafgaande aan de aanvraag een wettelijk voorschrift heeft overtreden dat is gesteld bij of krachtens dit besluit, bij of krachtens één van de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=2&artikel=21&z=2010-10-01&g=2010-10-01) of [22](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=2&artikel=22&z=2010-10-01&g=2010-10-01) genoemde wetten of [artikel 225 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=225), voor zover de overtreding verband houdt met een werkzaamheid.
+4. Een erkenning kan geheel of gedeeltelijk worden geweigerd, indien de desbetreffende persoon of instelling of een bestuurder van deze persoon of instelling, in de drie jaren voorafgaande aan de aanvraag een wettelijk voorschrift heeft overtreden dat is gesteld bij of krachtens dit besluit, bij of krachtens één van de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=2&artikel=21&z=2010-10-26&g=2010-10-26) of [22](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=2&artikel=22&z=2010-10-26&g=2010-10-26) genoemde wetten of [artikel 225 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=225), voor zover de overtreding verband houdt met een werkzaamheid.
 
 ##### Artikel 12
 
-1. Op verzoek van de erkende persoon of instelling kan de erkenning worden gewijzigd. [Artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2010-10-01&g=2010-10-01), is van overeenkomstige toepassing.
+1. Op verzoek van de erkende persoon of instelling kan de erkenning worden gewijzigd. [Artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2010-10-26&g=2010-10-26), is van overeenkomstige toepassing.
 
-2. Het verzoek wordt, door middel van een door Onze Ministers vastgesteld formulier, ingediend bij Onze Ministers. [Artikel 10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=10&z=2010-10-01&g=2010-10-01), is van overeenkomstige toepassing.
+2. Het verzoek wordt, door middel van een door Onze Ministers vastgesteld formulier, ingediend bij Onze Ministers. [Artikel 10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=10&z=2010-10-26&g=2010-10-26), is van overeenkomstige toepassing.
 
-3. Onze Ministers beslissen binnen vier weken na de datum van ontvangst van het verzoek. [Artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=11&z=2010-10-01&g=2010-10-01), is van overeenkomstige toepassing.
+3. Onze Ministers beslissen binnen vier weken na de datum van ontvangst van het verzoek. [Artikel 11, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=11&z=2010-10-26&g=2010-10-26), is van overeenkomstige toepassing.
 
 ##### Artikel 13
 
-1. Met een verklaring omtrent het gedrag als bedoeld in [artikel 10, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=10&z=2010-10-01&g=2010-10-01), wordt gelijkgesteld een verklaring omtrent het gedrag afgegeven door een daartoe bevoegde instantie in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, op basis van onderzoekingen of documenten die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het beschermingsniveau dat met de nationale onderzoekingen of documenten wordt geboden, mits die verklaring niet ouder is dan zes maanden.
+1. Met een verklaring omtrent het gedrag als bedoeld in [artikel 10, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=10&z=2010-10-26&g=2010-10-26), wordt gelijkgesteld een verklaring omtrent het gedrag afgegeven door een daartoe bevoegde instantie in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, op basis van onderzoekingen of documenten die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het beschermingsniveau dat met de nationale onderzoekingen of documenten wordt geboden, mits die verklaring niet ouder is dan zes maanden.
 
 2. Met een certificaat of accreditatie als bedoeld bij of krachtens dit besluit of in een normdocument wordt gelijkgesteld een certificaat of accreditatie afgegeven door een daartoe bevoegde instelling in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, op basis van onderzoekingen of documenten die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het beschermingsniveau dat met de nationale onderzoekingen of de normdocumenten wordt geboden.
 
-3. Met een erkenning wordt gelijkgesteld een erkenning of een vergelijkbare beschikking afgegeven door een daartoe bevoegde instantie in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, op basis van voorwaarden die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het beschermingsniveau dat met de voorwaarden, genoemd in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=10&z=2010-10-01&g=2010-10-01), wordt geboden. De [artikelen 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2010-10-01&g=2010-10-01), en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=3&artikel=24&z=2010-10-01&g=2010-10-01) zijn van overeenkomstige toepassing.
+3. Met een erkenning wordt gelijkgesteld een erkenning of een vergelijkbare beschikking afgegeven door een daartoe bevoegde instantie in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, op basis van voorwaarden die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het beschermingsniveau dat met de voorwaarden, genoemd in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=10&z=2010-10-26&g=2010-10-26), wordt geboden. De [artikelen 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2010-10-26&g=2010-10-26), en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=3&artikel=24&z=2010-10-26&g=2010-10-26) zijn van overeenkomstige toepassing.
 
 ##### Artikel 14
 
-Voor toepassing van de artikelen in [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&z=2010-10-01&g=2010-10-01) wordt onder «Onze Ministers» verstaan: Onze Minister en Onze Minister van Verkeer en Waterstaat.
+Voor toepassing van de artikelen in [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&z=2010-10-26&g=2010-10-26) wordt onder «Onze Ministers» verstaan: Onze Minister en Onze Minister van Verkeer en Waterstaat.
 
 ### Afdeling 2. Verboden en verplichtingen
 
@@ -286,7 +286,7 @@ Voor toepassing van de artikelen in [Hoofdstuk 2](https://wetten.overheid.nl/jci
 
 1. Het is verboden een werkzaamheid uit te voeren zonder daartoe verleende erkenning.
 
-2. De in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2010-10-01&g=2010-10-01), bedoelde handelingen kunnen slechts worden uitgevoerd door een natuurlijke persoon die staat vermeld op de erkenning.
+2. De in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2010-10-26&g=2010-10-26), bedoelde handelingen kunnen slechts worden uitgevoerd door een natuurlijke persoon die staat vermeld op de erkenning.
 
 3. Het bepaalde in het eerste en tweede lid geldt niet voorzover de werkzaamheid wordt uitgevoerd voor het verkrijgen van een certificaat of een accreditatie.
 
@@ -326,13 +326,13 @@ Een certificeringsinstelling of de Raad voor Accreditatie meldt een schorsing of
 
 ##### Artikel 21
 
-1. Een bestuursorgaan neemt een aanvraag om een beschikking, die bij of krachtens wettelijke voorschriften wordt gegeven, niet in behandeling indien daarbij gegevens zijn gevoegd die afkomstig zijn van een persoon of instelling die voor het verkrijgen van deze gegevens in strijd heeft gehandeld met [artikel 15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=2&artikel=15&z=2010-10-01&g=2010-10-01).
+1. Een bestuursorgaan neemt een aanvraag om een beschikking, die bij of krachtens wettelijke voorschriften wordt gegeven, niet in behandeling indien daarbij gegevens zijn gevoegd die afkomstig zijn van een persoon of instelling die voor het verkrijgen van deze gegevens in strijd heeft gehandeld met [artikel 15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=2&artikel=15&z=2010-10-26&g=2010-10-26).
 
 2. De wettelijke voorschriften, bedoeld in het eerste lid, zijn de [artikelen 2.1, eerste lid, aanhef en onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), en [2.6 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.6) en [8.49 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.49), en de [artikelen 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=29), en [39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=39), [39b](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=39b), [39c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=39c), [39d, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=39d), en [40, tweede lid, van de Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=40).
 
 ##### Artikel 22
 
-1. Het is een ieder verboden om, ter voldoening aan bij of krachtens wettelijke voorschriften, gegevens te verstrekken aan een bestuursorgaan, indien hij weet of redelijkerwijs had kunnen vermoeden dat deze gegevens afkomstig zijn van een persoon of instelling die voor het verkrijgen van deze gegevens in strijd heeft gehandeld met [artikel 15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=2&artikel=15&z=2010-10-01&g=2010-10-01).
+1. Het is een ieder verboden om, ter voldoening aan bij of krachtens wettelijke voorschriften, gegevens te verstrekken aan een bestuursorgaan, indien hij weet of redelijkerwijs had kunnen vermoeden dat deze gegevens afkomstig zijn van een persoon of instelling die voor het verkrijgen van deze gegevens in strijd heeft gehandeld met [artikel 15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=2&artikel=15&z=2010-10-26&g=2010-10-26).
 
 2. De wettelijke voorschriften, bedoeld in het eerste lid, zijn de [artikelen 8.40, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.40), de [artikelen 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.6) en [6.7 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.7) en de [artikelen 6 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=6), [27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=27), [39, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=39), [39b, tweede lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=39b), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=70) en [72 van de Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=72).
 
@@ -350,7 +350,7 @@ Een certificeringsinstelling of de Raad voor Accreditatie meldt een schorsing of
 
 - d. indien de erkende persoon of instelling in staat van faillissement verkeert of surseance van betaling heeft verkregen, of
 
-- e. indien de erkende persoon of instelling of de natuurlijk persoon, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2010-10-01&g=2010-10-01), een wettelijk voorschrift heeft overtreden dat is gesteld bij of krachtens dit besluit, bij of krachtens de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=2&artikel=21&z=2010-10-01&g=2010-10-01) of [22](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=2&artikel=22&z=2010-10-01&g=2010-10-01) genoemde wetten of [artikel 225 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=225), voor zover de overtreding verband houdt met een werkzaamheid.
+- e. indien de erkende persoon of instelling of de natuurlijk persoon, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2010-10-26&g=2010-10-26), een wettelijk voorschrift heeft overtreden dat is gesteld bij of krachtens dit besluit, bij of krachtens de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=2&artikel=21&z=2010-10-26&g=2010-10-26) of [22](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=2&artikel=22&z=2010-10-26&g=2010-10-26) genoemde wetten of [artikel 225 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=225), voor zover de overtreding verband houdt met een werkzaamheid.
 
 2. Onze Ministers kunnen een erkenning voor een periode van ten hoogste twee jaren, geheel of gedeeltelijk schorsen, indien:
 
@@ -364,7 +364,7 @@ Een certificeringsinstelling of de Raad voor Accreditatie meldt een schorsing of
 
 ##### Artikel 24
 
-Onze Ministers verwerken de schorsing en intrekking van de erkenning in de lijsten, bedoeld in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2010-10-01&g=2010-10-01).
+Onze Ministers verwerken de schorsing en intrekking van de erkenning in de lijsten, bedoeld in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2010-10-26&g=2010-10-26).
 
 ##### Artikel 25
 
@@ -424,17 +424,17 @@ Dit hoofdstuk is van toepassing op de volgende handelingen:
 
 2. Dit hoofdstuk is niet van toepassing op de volgende handelingen:
 
-- a. het toepassen van grond of baggerspecie waarvan de samenstelling de interventiewaarde overschrijdt, tenzij [artikel 44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2010-10-01&g=2010-10-01), of [artikel 45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=45&z=2010-10-01&g=2010-10-01) van toepassing is;
+- a. het toepassen van grond of baggerspecie waarvan de samenstelling de interventiewaarde overschrijdt, tenzij [artikel 44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2010-10-26&g=2010-10-26), of [artikel 45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=45&z=2010-10-26&g=2010-10-26) van toepassing is;
 
 - b. het op of in de bodem brengen van producten die overeenkomstig de krachtens [artikel 4 van de Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=4) gestelde regels als meststof mogen worden verhandeld;
 
 - c. handelingen waarop het [Besluit uniforme saneringen](https://wetten.overheid.nl/jci1.3:c:BWBR0019511) van toepassing is, tenzij bij of krachtens [dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019511) anders is bepaald.
 
-3. Het tijdelijk verplaatsen of uit de toepassing wegnemen van grond of baggerspecie is toegestaan zonder inachtnemening van de [artikelen 38 tot en met 64](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=38&z=2010-10-01&g=2010-10-01), indien deze vervolgens, zonder te zijn bewerkt, op of nabij dezelfde plaats en onder dezelfde conditie opnieuw in die toepassing wordt aangebracht.
+3. Het tijdelijk verplaatsen of uit de toepassing wegnemen van grond of baggerspecie is toegestaan zonder inachtnemening van de [artikelen 38 tot en met 64](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=38&z=2010-10-26&g=2010-10-26), indien deze vervolgens, zonder te zijn bewerkt, op of nabij dezelfde plaats en onder dezelfde conditie opnieuw in die toepassing wordt aangebracht.
 
 ##### Artikel 37
 
-1. Het is verboden om grond of baggerspecie toe te passen in strijd met de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=5&z=2010-10-01&g=2010-10-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=7&z=2010-10-01&g=2010-10-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=38&z=2010-10-01&g=2010-10-01), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=42&z=2010-10-01&g=2010-10-01), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2010-10-01&g=2010-10-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=45&z=2010-10-01&g=2010-10-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=46&z=2010-10-01&g=2010-10-01), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=52&z=2010-10-01&g=2010-10-01), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=59&z=2010-10-01&g=2010-10-01), [60](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=60&z=2010-10-01&g=2010-10-01), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=63&z=2010-10-01&g=2010-10-01) en [64](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=64&z=2010-10-01&g=2010-10-01) van dit besluit.
+1. Het is verboden om grond of baggerspecie toe te passen in strijd met de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=5&z=2010-10-26&g=2010-10-26), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=7&z=2010-10-26&g=2010-10-26), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=38&z=2010-10-26&g=2010-10-26), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=42&z=2010-10-26&g=2010-10-26), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2010-10-26&g=2010-10-26), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=45&z=2010-10-26&g=2010-10-26), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=46&z=2010-10-26&g=2010-10-26), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=52&z=2010-10-26&g=2010-10-26), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=59&z=2010-10-26&g=2010-10-26), [60](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=60&z=2010-10-26&g=2010-10-26), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=63&z=2010-10-26&g=2010-10-26) en [64](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=64&z=2010-10-26&g=2010-10-26) van dit besluit.
 
 2. Bij regeling van Onze Ministers worden regels gesteld ten aanzien van de wijze waarop een overschrijding wordt vastgesteld van waarden, gesteld bij of krachtens de artikelen, genoemd in het eerste lid.
 
@@ -442,7 +442,7 @@ Dit hoofdstuk is van toepassing op de volgende handelingen:
 
 ##### Artikel 38
 
-1. Degene die voornemens is grond of baggerspecie toe te passen laat overeenkomstig de bij regeling van Onze Ministers bepaalde methoden door een persoon of instelling die daartoe beschikt over een erkenning de kwaliteit van de grond of baggerspecie vaststellen, met inbegrip van de emissiewaarden voor zover vereist op grond van [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=63&z=2010-10-01&g=2010-10-01).
+1. Degene die voornemens is grond of baggerspecie toe te passen laat overeenkomstig de bij regeling van Onze Ministers bepaalde methoden door een persoon of instelling die daartoe beschikt over een erkenning de kwaliteit van de grond of baggerspecie vaststellen, met inbegrip van de emissiewaarden voor zover vereist op grond van [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=63&z=2010-10-26&g=2010-10-26).
 
 2. De kwaliteit van de grond of baggerspecie en het gestelde in het eerste lid blijkt uit een milieuhygiënische verklaring, die bij de betreffende partij aanwezig is.
 
@@ -460,27 +460,27 @@ Dit hoofdstuk is van toepassing op de volgende handelingen:
 
 ##### Artikel 39
 
-Op het toepassen van grond of baggerspecie waarvan de kwaliteit de bij regeling van Onze Ministers vastgestelde achtergrondwaarden niet overschrijdt, zijn [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=40&z=2010-10-01&g=2010-10-01) en [afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&z=2010-10-01&g=2010-10-01) van dit hoofdstuk niet van toepassing.
+Op het toepassen van grond of baggerspecie waarvan de kwaliteit de bij regeling van Onze Ministers vastgestelde achtergrondwaarden niet overschrijdt, zijn [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=40&z=2010-10-26&g=2010-10-26) en [afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&z=2010-10-26&g=2010-10-26) van dit hoofdstuk niet van toepassing.
 
 ##### Artikel 40
 
-1. Het vaststellen van de kwaliteit van de bodem, waarop of waarin de grond of baggerspecie wordt toegepast, geschiedt overeenkomstig de bij regeling van Onze Ministers bepaalde methoden door een persoon of instelling die daartoe beschikt over een erkenning krachtens [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2010-10-01&g=2010-10-01).
+1. Het vaststellen van de kwaliteit van de bodem, waarop of waarin de grond of baggerspecie wordt toegepast, geschiedt overeenkomstig de bij regeling van Onze Ministers bepaalde methoden door een persoon of instelling die daartoe beschikt over een erkenning krachtens [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2010-10-26&g=2010-10-26).
 
 2. De kwaliteit van de bodem en het gestelde in het eerste lid, blijkt uit een milieuhygiënische verklaring.
 
 ##### Artikel 41
 
-Bij regeling van Onze Ministers wordt bepaald welke van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&bijlage=1&z=2010-10-01&g=2010-10-01) van dit besluit genoemde parameters voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen worden gemeten ten behoeve van:
+Bij regeling van Onze Ministers wordt bepaald welke van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&bijlage=1&z=2010-10-26&g=2010-10-26) van dit besluit genoemde parameters voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen worden gemeten ten behoeve van:
 
-- a. de vaststelling van de kwaliteit van grond of baggerspecie, met inbegrip van de emissiewaarden voor toepassingen voor zover vereist op grond van [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=63&z=2010-10-01&g=2010-10-01), en
+- a. de vaststelling van de kwaliteit van grond of baggerspecie, met inbegrip van de emissiewaarden voor toepassingen voor zover vereist op grond van [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=63&z=2010-10-26&g=2010-10-26), en
 
 - b. de vaststelling van de kwaliteit van de bodem, waarop of waarin grond of baggerspecie wordt toegepast.
 
 ##### Artikel 42
 
-1. Degene die voornemens is grond of baggerspecie toe te passen als bedoeld in [artikel 35, onderdeel a tot en met i, met uitzondering van onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-01&g=2010-10-01), meldt dat voornemen ten minste vijf werkdagen van tevoren aan Onze Minister.
+1. Degene die voornemens is grond of baggerspecie toe te passen als bedoeld in [artikel 35, onderdeel a tot en met i, met uitzondering van onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-26&g=2010-10-26), meldt dat voornemen ten minste vijf werkdagen van tevoren aan Onze Minister.
 
-2. Bij de melding van een toepassing als bedoeld in [artikel 35, onder a tot en met e en g](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-01&g=2010-10-01), worden ten minste de volgende gegevens verstrekt:
+2. Bij de melding van een toepassing als bedoeld in [artikel 35, onder a tot en met e en g](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-26&g=2010-10-26), worden ten minste de volgende gegevens verstrekt:
 
 - a. de naam en het adres van degene die voornemens is grond of baggerspecie toe te passen;
 
@@ -494,13 +494,13 @@ Bij regeling van Onze Ministers wordt bepaald welke van de in [bijlage 1](https:
 
 - f. de toepassingslocatie;
 
-- g. voor zover het een toepassing betreft krachtens [afdeling 2, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&z=2010-10-01&g=2010-10-01), de bodemkwaliteitsklasse;
+- g. voor zover het een toepassing betreft krachtens [afdeling 2, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&z=2010-10-26&g=2010-10-26), de bodemkwaliteitsklasse;
 
-- h. voor zover het een toepassing op of in de bodem, uitgezonderd de bodem of oever van een oppervlaktewaterlichaam, betreft krachtens [afdeling 2, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&z=2010-10-01&g=2010-10-01), de bodemfunctieklasse.
+- h. voor zover het een toepassing op of in de bodem, uitgezonderd de bodem of oever van een oppervlaktewaterlichaam, betreft krachtens [afdeling 2, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&z=2010-10-26&g=2010-10-26), de bodemfunctieklasse.
 
-3. Op de melding van de toepassing, bedoeld in [artikel 35, onder h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-01&g=2010-10-01), is het tweede lid, onder a, c tot en met f, van overeenkomstige toepassing en op meldingen van de toepassing, bedoeld in [artikel 35, onder h, het tweede lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-01&g=2010-10-01). Bij meldingen van de toepassing, bedoeld in [artikel 35, onder h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-01&g=2010-10-01), wordt ook de voorziene duur van de toepassing vermeld.
+3. Op de melding van de toepassing, bedoeld in [artikel 35, onder h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-26&g=2010-10-26), is het tweede lid, onder a, c tot en met f, van overeenkomstige toepassing en op meldingen van de toepassing, bedoeld in [artikel 35, onder h, het tweede lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-26&g=2010-10-26). Bij meldingen van de toepassing, bedoeld in [artikel 35, onder h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-26&g=2010-10-26), wordt ook de voorziene duur van de toepassing vermeld.
 
-4. Indien de voorziene duur van de toepassing, bedoeld in [artikel 35, onder h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-01&g=2010-10-01), langer is dan zes maanden, wordt de eindbestemming van de grond of baggerspecie binnen die termijn gemeld.
+4. Indien de voorziene duur van de toepassing, bedoeld in [artikel 35, onder h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-26&g=2010-10-26), langer is dan zes maanden, wordt de eindbestemming van de grond of baggerspecie binnen die termijn gemeld.
 
 5. Onze Ministers kunnen nadere regels stellen met betrekking tot de in het tweede lid bedoelde gegevens.
 
@@ -514,21 +514,21 @@ Bij regeling van Onze Ministers wordt bepaald welke van de in [bijlage 1](https:
 
 - b. degene die voornemens is grond of baggerspecie toe te passen binnen een landbouwbedrijf, indien de grond of baggerspecie afkomstig is van een tot dat landbouwbedrijf behorend perceel waarop een vergelijkbaar gewas wordt geteeld als op het perceel waar de grond of baggerspecie wordt toegepast;
 
-- c. degene die voornemens is grond of baggerspecie als bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=39&z=2010-10-01&g=2010-10-01) in een omvang van minder dan 50 m3 toe te passen.
+- c. degene die voornemens is grond of baggerspecie als bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=39&z=2010-10-26&g=2010-10-26) in een omvang van minder dan 50 m3 toe te passen.
 
-9. Degene die voornemens is grond of baggerspecie als bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=39&z=2010-10-01&g=2010-10-01) in een omvang van ten minste 50 m3 toe te passen, meldt in afwijking van het tweede en derde lid eenmalig de gegevens, genoemd in het tweede lid, onder a en f.
+9. Degene die voornemens is grond of baggerspecie als bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=39&z=2010-10-26&g=2010-10-26) in een omvang van ten minste 50 m3 toe te passen, meldt in afwijking van het tweede en derde lid eenmalig de gegevens, genoemd in het tweede lid, onder a en f.
 
 10. Het achtste lid, onder c, en het negende lid zijn niet van toepassing op het toepassen van grond of baggerspecie in de Nederlandse territoriale zee.
 
 11. De volgende toepassers van grond of baggerspecie bewaren de in het tweede, onder a, c tot en met f, genoemde gegevens gedurende ten minste vijf jaren:
 
-- a. degene die voornemens is grond of baggerspecie toe te passen als bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=39&z=2010-10-01&g=2010-10-01), uitgezonderd degene, bedoeld in het achtste lid, onder a en b;
+- a. degene die voornemens is grond of baggerspecie toe te passen als bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=39&z=2010-10-26&g=2010-10-26), uitgezonderd degene, bedoeld in het achtste lid, onder a en b;
 
 - b. degene die baggerspecie verspreidt uit een watergang over de aan de watergang grenzende percelen.
 
 ##### Artikel 43
 
-1. Voor het toepassen van baggerspecie, bedoeld in [artikel 35, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-01&g=2010-10-01), kan de beheerder met betrekking tot de oppervlaktewaterlichamen onder zijn beheer verspreidingsvakken aanwijzen en vaststellen hoeveel baggerspecie er maximaal kan worden verspreid.
+1. Voor het toepassen van baggerspecie, bedoeld in [artikel 35, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-26&g=2010-10-26), kan de beheerder met betrekking tot de oppervlaktewaterlichamen onder zijn beheer verspreidingsvakken aanwijzen en vaststellen hoeveel baggerspecie er maximaal kan worden verspreid.
 
 2. Het is verboden om baggerspecie toe te passen buiten een krachtens het vorige lid aangewezen verspreidingsvak en boven de daarbij aangegeven maximale hoeveelheid.
 
@@ -538,9 +538,9 @@ Bij regeling van Onze Ministers wordt bepaald welke van de in [bijlage 1](https:
 
 ##### Artikel 44
 
-1. De gemeenteraad kan voor het toepassen van grond of baggerspecie als bedoeld in [artikel 35, onderdeel a tot en met e en h](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-01&g=2010-10-01) op of in de bodem, uitgezonderd de bodem of oever van een oppervlaktewaterlichaam, voor een door hem aangewezen bodembeheergebied lokale maximale waarden vaststellen voor de bodem, waarop of waarin de grond of baggerspecie wordt toegepast, alsmede een percentage bodemvreemd materiaal dat afwijkt van het percentage, bedoeld in [artikel 34, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=34&z=2010-10-01&g=2010-10-01) tot een maximum van 20 gewichtsprocenten.
+1. De gemeenteraad kan voor het toepassen van grond of baggerspecie als bedoeld in [artikel 35, onderdeel a tot en met e en h](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-26&g=2010-10-26) op of in de bodem, uitgezonderd de bodem of oever van een oppervlaktewaterlichaam, voor een door hem aangewezen bodembeheergebied lokale maximale waarden vaststellen voor de bodem, waarop of waarin de grond of baggerspecie wordt toegepast, alsmede een percentage bodemvreemd materiaal dat afwijkt van het percentage, bedoeld in [artikel 34, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=34&z=2010-10-26&g=2010-10-26) tot een maximum van 20 gewichtsprocenten.
 
-2. De lokale maximale waarden kunnen boven de maximale waarden voor de bodemfunctieklasse industrie, bedoeld in [artikel 55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=55&z=2010-10-01&g=2010-10-01), worden vastgesteld en het afwijkende percentage bodemvreemd materiaal kan worden vastgesteld, indien:
+2. De lokale maximale waarden kunnen boven de maximale waarden voor de bodemfunctieklasse industrie, bedoeld in [artikel 55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=55&z=2010-10-26&g=2010-10-26), worden vastgesteld en het afwijkende percentage bodemvreemd materiaal kan worden vastgesteld, indien:
 
 - a. de kwaliteit van de bodem wordt bepaald door stoffen die verspreid in dat bodembeheergebied voorkomen als gevolg van diffuse verontreiniging;
 
@@ -550,57 +550,57 @@ Bij regeling van Onze Ministers wordt bepaald welke van de in [bijlage 1](https:
 
 ##### Artikel 45
 
-1. Onze Minister van Verkeer en Waterstaat of het algemeen bestuur van het waterschap kan met betrekking tot rijkswateren, onderscheidenlijk regionale wateren voor het toepassen van grond of baggerspecie in een oppervlaktewaterlichaam als bedoeld in [artikel 35, onderdeel a, c tot en met e en h](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-01&g=2010-10-01) voor een door hem aangewezen bodembeheergebied lokale maximale waarden vaststellen voor de bodem of oever van een oppervlaktewaterlichaam, waarop of waarin de grond of baggerspecie wordt toegepast, alsmede een percentage bodemvreemd materiaal dat afwijkt van het percentage, bedoeld in [artikel 34, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=34&z=2010-10-01&g=2010-10-01), tot een maximum van 20 gewichtsprocenten.
+1. Onze Minister van Verkeer en Waterstaat of het algemeen bestuur van het waterschap kan met betrekking tot rijkswateren, onderscheidenlijk regionale wateren voor het toepassen van grond of baggerspecie in een oppervlaktewaterlichaam als bedoeld in [artikel 35, onderdeel a, c tot en met e en h](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-26&g=2010-10-26) voor een door hem aangewezen bodembeheergebied lokale maximale waarden vaststellen voor de bodem of oever van een oppervlaktewaterlichaam, waarop of waarin de grond of baggerspecie wordt toegepast, alsmede een percentage bodemvreemd materiaal dat afwijkt van het percentage, bedoeld in [artikel 34, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=34&z=2010-10-26&g=2010-10-26), tot een maximum van 20 gewichtsprocenten.
 
-2. De lokale maximale waarden kunnen voor het toepassen van baggerspecie boven de interventiewaarden en voor het toepassen van grond niet boven de maximale waarden voor de bodemfunctieklasse industrie worden vastgesteld en het afwijkende percentage bodemvreemd materiaal kan worden vastgesteld, indien is voldaan aan de voorwaarden, bedoeld in [artikel 44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2010-10-01&g=2010-10-01).
+2. De lokale maximale waarden kunnen voor het toepassen van baggerspecie boven de interventiewaarden en voor het toepassen van grond niet boven de maximale waarden voor de bodemfunctieklasse industrie worden vastgesteld en het afwijkende percentage bodemvreemd materiaal kan worden vastgesteld, indien is voldaan aan de voorwaarden, bedoeld in [artikel 44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2010-10-26&g=2010-10-26).
 
 ##### Artikel 46
 
-1. Onze Minister van Verkeer en Waterstaat of het algemeen bestuur van het waterschap kan met betrekking tot rijkswateren, onderscheidenlijk regionale wateren voor toepassingen als bedoeld in [artikel 35, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-01&g=2010-10-01), voor een door hem aangewezen bodembeheergebied, maximale waarden vaststellen voor de kwaliteit van de toe te passen baggerspecie die afwijken van de waarden, die krachtens [artikel 60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=60&z=2010-10-01&g=2010-10-01), voor die toepassing zijn vastgesteld, alsmede een percentage bodemvreemd materiaal dat afwijkt van het percentage, bedoeld in [artikel 34, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=34&z=2010-10-01&g=2010-10-01), tot een maximum van 20 gewichtsprocenten.
+1. Onze Minister van Verkeer en Waterstaat of het algemeen bestuur van het waterschap kan met betrekking tot rijkswateren, onderscheidenlijk regionale wateren voor toepassingen als bedoeld in [artikel 35, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-26&g=2010-10-26), voor een door hem aangewezen bodembeheergebied, maximale waarden vaststellen voor de kwaliteit van de toe te passen baggerspecie die afwijken van de waarden, die krachtens [artikel 60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=60&z=2010-10-26&g=2010-10-26), voor die toepassing zijn vastgesteld, alsmede een percentage bodemvreemd materiaal dat afwijkt van het percentage, bedoeld in [artikel 34, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=34&z=2010-10-26&g=2010-10-26), tot een maximum van 20 gewichtsprocenten.
 
-2. Bij regeling van Onze Ministers kan worden bepaald dat het bestuursorgaan, bedoeld in het eerste lid, voor daarbij aan te geven parameters geen hogere maximale waarden kan vaststellen dan de krachtens [artikel 60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=60&z=2010-10-01&g=2010-10-01) vastgestelde waarden.
+2. Bij regeling van Onze Ministers kan worden bepaald dat het bestuursorgaan, bedoeld in het eerste lid, voor daarbij aan te geven parameters geen hogere maximale waarden kan vaststellen dan de krachtens [artikel 60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=60&z=2010-10-26&g=2010-10-26) vastgestelde waarden.
 
-3. Voor toepassingen als bedoeld in het eerste lid in de Nederlandse territoriale zee kan het bestuursorgaan, bedoeld in het eerste lid, geen hogere maximale waarden vaststellen dan de krachtens [artikel 60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=60&z=2010-10-01&g=2010-10-01), vastgestelde waarden.
+3. Voor toepassingen als bedoeld in het eerste lid in de Nederlandse territoriale zee kan het bestuursorgaan, bedoeld in het eerste lid, geen hogere maximale waarden vaststellen dan de krachtens [artikel 60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=60&z=2010-10-26&g=2010-10-26), vastgestelde waarden.
 
 ##### Artikel 47
 
-Een besluit op grond van de [artikelen 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2010-10-01&g=2010-10-01) en [45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=45&z=2010-10-01&g=2010-10-01), bevat:
+Een besluit op grond van de [artikelen 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2010-10-26&g=2010-10-26) en [45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=45&z=2010-10-26&g=2010-10-26), bevat:
 
 - a. een of meer kaarten, opgesteld overeenkomstig de bij regeling van Onze Ministers gestelde protocollen, waarop zijn aangegeven de begrenzing van het bodembeheergebied, de kwaliteit van de bodem en, bij toepassingen op of in de bodem, uitgezonderd de bodem of oever van een oppervlaktewaterlichaam, de bodemfuncties;
 
-- b. de lokale maximale waarden, bedoeld in de [artikelen 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2010-10-01&g=2010-10-01), en [45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=45&z=2010-10-01&g=2010-10-01);
+- b. de lokale maximale waarden, bedoeld in de [artikelen 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2010-10-26&g=2010-10-26), en [45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=45&z=2010-10-26&g=2010-10-26);
 
-- c. voor zover van toepassing, het gewichtspercentage bodemvreemd materiaal, bedoeld in [artikel 34, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=34&z=2010-10-01&g=2010-10-01);
+- c. voor zover van toepassing, het gewichtspercentage bodemvreemd materiaal, bedoeld in [artikel 34, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=34&z=2010-10-26&g=2010-10-26);
 
 - d. een motivering van het besluit aan de hand van de lokale maximale waarden en, voor zover van toepassing, het gewichtspercentage bodemvreemd materiaal in relatie tot de kwaliteit van de bodem, de maatschappelijke noodzaak van die waarden en het gewichtspercentage bodemvreemd materiaal en een beschrijving van de overeenkomstig de bij regeling van Onze Ministers gestelde methoden bepaalde gevolgen van de uitvoering van het besluit voor de kwaliteit van de bodem in het bodembeheergebied.
 
 ##### Artikel 48
 
-Een besluit op grond van [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=46&z=2010-10-01&g=2010-10-01), bevat:
+Een besluit op grond van [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=46&z=2010-10-26&g=2010-10-26), bevat:
 
 - a. een of meerdere kaarten waarop de begrenzing van dat bodembeheergebied is aangegeven;
 
-- b. de maximale waarden en het percentage bodemvreemd materiaal, bedoeld in [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=46&z=2010-10-01&g=2010-10-01);
+- b. de maximale waarden en het percentage bodemvreemd materiaal, bedoeld in [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=46&z=2010-10-26&g=2010-10-26);
 
 - c. een motivering van het besluit aan de hand van de maximale waarden en het percentage bodemvreemd materiaal in relatie tot de gevolgen voor de kwaliteit van een oppervlaktewaterlichaam en de maatschappelijke noodzaak van die waarden.
 
 ##### Artikel 49
 
-Bij de voorbereiding van een besluit als bedoeld in de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2010-10-01&g=2010-10-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=45&z=2010-10-01&g=2010-10-01) en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=46&z=2010-10-01&g=2010-10-01) wordt toepassing gegeven aan [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4).
+Bij de voorbereiding van een besluit als bedoeld in de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2010-10-26&g=2010-10-26), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=45&z=2010-10-26&g=2010-10-26) en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=46&z=2010-10-26&g=2010-10-26) wordt toepassing gegeven aan [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4).
 
 ##### Artikel 50
 
-Tegen een besluit als bedoeld in de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2010-10-01&g=2010-10-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=45&z=2010-10-01&g=2010-10-01) en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=46&z=2010-10-01&g=2010-10-01) kan beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State.
+Tegen een besluit als bedoeld in de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2010-10-26&g=2010-10-26), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=45&z=2010-10-26&g=2010-10-26) en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=46&z=2010-10-26&g=2010-10-26) kan beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State.
 
 ##### Artikel 51
 
-Op een besluit tot wijziging van een besluit als bedoeld in de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2010-10-01&g=2010-10-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=45&z=2010-10-01&g=2010-10-01) en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=46&z=2010-10-01&g=2010-10-01), zijn de [artikelen 47 tot en met 50](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=47&z=2010-10-01&g=2010-10-01) van overeenkomstige toepassing.
+Op een besluit tot wijziging van een besluit als bedoeld in de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2010-10-26&g=2010-10-26), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=45&z=2010-10-26&g=2010-10-26) en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=46&z=2010-10-26&g=2010-10-26), zijn de [artikelen 47 tot en met 50](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=47&z=2010-10-26&g=2010-10-26) van overeenkomstige toepassing.
 
 ##### Artikel 52
 
-1. Bij toepassing in een bodembeheergebied overschrijdt de kwaliteit van de toe te passen grond of baggerspecie niet de lokale maximale waarden, bedoeld in de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2010-10-01&g=2010-10-01) en [45](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=45&z=2010-10-01&g=2010-10-01), en de maximale waarden, bedoeld in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=46&z=2010-10-01&g=2010-10-01).
+1. Bij toepassing in een bodembeheergebied overschrijdt de kwaliteit van de toe te passen grond of baggerspecie niet de lokale maximale waarden, bedoeld in de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2010-10-26&g=2010-10-26) en [45](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=45&z=2010-10-26&g=2010-10-26), en de maximale waarden, bedoeld in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=46&z=2010-10-26&g=2010-10-26).
 
-2. Grond of baggerspecie die voldoet aan de lokale maximale waarden, bedoeld in de [artikelen 44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2010-10-01&g=2010-10-01), en [45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=45&z=2010-10-01&g=2010-10-01), kan uitsluitend worden toegepast in het bodembeheergebied waarvan deze afkomstig is.
+2. Grond of baggerspecie die voldoet aan de lokale maximale waarden, bedoeld in de [artikelen 44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2010-10-26&g=2010-10-26), en [45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=45&z=2010-10-26&g=2010-10-26), kan uitsluitend worden toegepast in het bodembeheergebied waarvan deze afkomstig is.
 
 3. Indien de grond of baggerspecie, bedoeld in het vorige lid, de kwaliteit van de bodem, waarop of waarin de grond of baggerspecie wordt toegepast, overschrijdt, kan deze grond of baggerspecie alleen worden toegepast in het bodembeheergebied waarvan deze afkomstig is.
 
@@ -612,13 +612,13 @@ Op een besluit tot wijziging van een besluit als bedoeld in de [artikelen 44](ht
 
 ##### Artikel 53
 
-Het bestuursorgaan, bedoeld in de [artikelen 44 tot en met 46](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2010-10-01&g=2010-10-01), overweegt ten minste eenmaal in de tien jaar in hoeverre een aldaar bedoeld besluit herziening behoeft.
+Het bestuursorgaan, bedoeld in de [artikelen 44 tot en met 46](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2010-10-26&g=2010-10-26), overweegt ten minste eenmaal in de tien jaar in hoeverre een aldaar bedoeld besluit herziening behoeft.
 
 #### Paragraaf 2. Generiek toetsingskader voor de algemene toepassing
 
 ##### Artikel 54
 
-Deze paragraaf is uitsluitend van toepassing, indien geen besluit als bedoeld in de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2010-10-01&g=2010-10-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=45&z=2010-10-01&g=2010-10-01) of [46](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=46&z=2010-10-01&g=2010-10-01) is genomen.
+Deze paragraaf is uitsluitend van toepassing, indien geen besluit als bedoeld in de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2010-10-26&g=2010-10-26), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=45&z=2010-10-26&g=2010-10-26) of [46](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=46&z=2010-10-26&g=2010-10-26) is genomen.
 
 ##### Artikel 55
 
@@ -642,9 +642,9 @@ Deze paragraaf is uitsluitend van toepassing, indien geen besluit als bedoeld in
 
 - b. het toepassen van grond of baggerspecie binnen een landbouwbedrijf, indien de grond of baggerspecie afkomstig is van een tot dat landbouwbedrijf behorend perceel waarop een vergelijkbaar gewas wordt geteeld als op het perceel waar de grond of baggerspecie wordt toegepast;
 
-- c. het toepassen van baggerspecie, als bedoeld in [artikel 35, onder f en i](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-01&g=2010-10-01);
+- c. het toepassen van baggerspecie, als bedoeld in [artikel 35, onder f en i](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-26&g=2010-10-26);
 
-- d. het toepassen van baggerspecie in een oppervlaktewaterlichaam, als bedoeld in [artikel 35, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-01&g=2010-10-01).
+- d. het toepassen van baggerspecie in een oppervlaktewaterlichaam, als bedoeld in [artikel 35, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-26&g=2010-10-26).
 
 ##### Artikel 57
 
@@ -662,31 +662,31 @@ Deze paragraaf is uitsluitend van toepassing, indien geen besluit als bedoeld in
 
 - b. degene die voornemens is grond of baggerspecie toe te passen binnen een landbouwbedrijf, indien de grond of baggerspecie afkomstig is van een tot dat landbouwbedrijf behorend perceel waarop een vergelijkbaar gewas wordt geteeld als op het perceel waar de grond of baggerspecie wordt toegepast;
 
-- c. degene die voornemens is baggerspecie toe te passen, als bedoeld in [artikel 35, onder f, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-01&g=2010-10-01).
+- c. degene die voornemens is baggerspecie toe te passen, als bedoeld in [artikel 35, onder f, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-26&g=2010-10-26).
 
-3. Het eerste lid is niet van toepassing op het toepassen van grond of baggerspecie als bedoeld in [artikel 35, eerste lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-01&g=2010-10-01), met een duur van korter dan 6 maanden.
+3. Het eerste lid is niet van toepassing op het toepassen van grond of baggerspecie als bedoeld in [artikel 35, eerste lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-26&g=2010-10-26), met een duur van korter dan 6 maanden.
 
 ##### Artikel 59
 
-1. Voor het toepassen van grond of baggerspecie, bedoeld in [artikel 35, onder a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-01&g=2010-10-01), op of in de bodem, uitgezonderd de bodem of oever van een oppervlaktewaterlichaam, overschrijdt de kwaliteit van de grond of baggerspecie niet:
+1. Voor het toepassen van grond of baggerspecie, bedoeld in [artikel 35, onder a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-26&g=2010-10-26), op of in de bodem, uitgezonderd de bodem of oever van een oppervlaktewaterlichaam, overschrijdt de kwaliteit van de grond of baggerspecie niet:
 
 - a. de maximale waarden voor de bodemfunctieklasse wonen of industrie; en
 
 - b. de maximale waarden voor de bodemkwaliteitsklassen.
 
-2. Voor het op of in de bodem of oever van een oppervlaktewaterlichaam toepassen van grond of baggerspecie als bedoeld in [artikel 35, onder a en c tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-01&g=2010-10-01), en het op of in de bodem toepassen van grond en baggerspecie als bedoeld in [artikel 35, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-01&g=2010-10-01), overschrijdt de kwaliteit van de grond of baggerspecie niet de waarden, bedoeld in het eerste lid, onder b.
+2. Voor het op of in de bodem of oever van een oppervlaktewaterlichaam toepassen van grond of baggerspecie als bedoeld in [artikel 35, onder a en c tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-26&g=2010-10-26), en het op of in de bodem toepassen van grond en baggerspecie als bedoeld in [artikel 35, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-26&g=2010-10-26), overschrijdt de kwaliteit van de grond of baggerspecie niet de waarden, bedoeld in het eerste lid, onder b.
 
 3. Onverminderd het bepaalde in het tweede lid, overschrijdt bij toepassing in een oppervlaktewaterlichaam de kwaliteit van de grond niet de maximale waarden voor de bodemfunctieklasse industrie.
 
 ##### Artikel 60
 
-1. Bij het toepassen van baggerspecie, bedoeld in [artikel 35, onder f, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-01&g=2010-10-01), overschrijdt de kwaliteit van de baggerspecie de daarvoor bij regeling van Onze Ministers vastgestelde maximale waarden niet.
+1. Bij het toepassen van baggerspecie, bedoeld in [artikel 35, onder f, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-26&g=2010-10-26), overschrijdt de kwaliteit van de baggerspecie de daarvoor bij regeling van Onze Ministers vastgestelde maximale waarden niet.
 
 2. Voor toepassing van het eerste lid worden erven en gronden die door een weg, voetpad of andere constructie of door een te smalle grondstrook om de baggerspecie te ontvangen van de watergang gescheiden zijn, als aan de watergang grenzend perceel aangemerkt.
 
 ##### Artikel 61
 
-Onze Ministers overwegen ten minste eenmaal in de tien jaar in hoeverre de waarden, bedoeld in de [artikelen 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=55&z=2010-10-01&g=2010-10-01), en [57, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=57&z=2010-10-01&g=2010-10-01), herziening behoeven en stellen de Staten-Generaal in kennis van hun bevindingen daaromtrent.
+Onze Ministers overwegen ten minste eenmaal in de tien jaar in hoeverre de waarden, bedoeld in de [artikelen 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=55&z=2010-10-26&g=2010-10-26), en [57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=57&z=2010-10-26&g=2010-10-26), herziening behoeven en stellen de Staten-Generaal in kennis van hun bevindingen daaromtrent.
 
 #### Paragraaf 2. Generiek toetsingskader voor de algemene toepassing
 
@@ -696,15 +696,15 @@ Deze paragraaf is niet van toepassing op het toepassen van grond of baggerspecie
 
 ##### Artikel 63
 
-1. Een toepassing van grond of baggerspecie als bedoeld in [artikel 35, onder a, c tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-01&g=2010-10-01), in een laagdikte van minimaal twee meter en een minimale omvang van 5000 m3 hoeft niet te voldoen aan de eisen die daaraan in [afdeling 2, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&z=2010-10-01&g=2010-10-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&z=2010-10-01&g=2010-10-01), worden gesteld, mits
+1. Een toepassing van grond of baggerspecie als bedoeld in [artikel 35, onder a, c tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-26&g=2010-10-26), in een laagdikte van minimaal twee meter en een minimale omvang van 5000 m3 hoeft niet te voldoen aan de eisen die daaraan in [afdeling 2, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&z=2010-10-26&g=2010-10-26) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&z=2010-10-26&g=2010-10-26), worden gesteld, mits
 
 - a. de kwaliteit van de grond of baggerspecie voldoet aan:
 
 - i. de bij regeling van Onze Ministers vast te stellen maximale emissiewaarden, en
 
-- ii. bij toepassing op of in de bodem, uitgezonderd de bodem of oever van een oppervlaktewaterlichaam, de maximale waarden voor de bodemfunctieklasse industrie, bedoeld in [artikel 55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=55&z=2010-10-01&g=2010-10-01);
+- ii. bij toepassing op of in de bodem, uitgezonderd de bodem of oever van een oppervlaktewaterlichaam, de maximale waarden voor de bodemfunctieklasse industrie, bedoeld in [artikel 55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=55&z=2010-10-26&g=2010-10-26);
 
-- iii. bij toepassing in een oppervlaktewaterlichaam, de maximale waarden voor de bodemfunctieklasse industrie, bedoeld in [artikel 55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=55&z=2010-10-01&g=2010-10-01), onderscheidelijk de interventiewaarden, en
+- iii. bij toepassing in een oppervlaktewaterlichaam, de maximale waarden voor de bodemfunctieklasse industrie, bedoeld in [artikel 55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=55&z=2010-10-26&g=2010-10-26), onderscheidelijk de interventiewaarden, en
 
 - b. op de desbetreffende grond of baggerspecie een leeflaag of een laag bouwstoffen wordt aangebracht.
 
@@ -712,9 +712,9 @@ Deze paragraaf is niet van toepassing op het toepassen van grond of baggerspecie
 
 3. De leeflaag, bedoeld in het eerste lid, onder b, heeft een minimale dikte van een halve meter. Bij regeling van Onze Ministers kunnen op grond van milieuhygiënische overwegingen nadere regels worden gesteld met betrekking tot de dikte van de leeflaag of de laag bouwstoffen.
 
-4. Op het aanbrengen van een leeflaag zijn de eisen die in [afdeling 2, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&z=2010-10-01&g=2010-10-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&z=2010-10-01&g=2010-10-01), aan het toepassen van grond of baggerspecie worden gesteld van overeenkomstige toepassing.
+4. Op het aanbrengen van een leeflaag zijn de eisen die in [afdeling 2, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&z=2010-10-26&g=2010-10-26) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&z=2010-10-26&g=2010-10-26), aan het toepassen van grond of baggerspecie worden gesteld van overeenkomstige toepassing.
 
-5. In afwijking van het eerste lid, aanhef, geldt voor de toepassingen, bedoeld in [artikel 35, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-01&g=2010-10-01), een laagdikte van minimaal een halve meter, indien:
+5. In afwijking van het eerste lid, aanhef, geldt voor de toepassingen, bedoeld in [artikel 35, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-26&g=2010-10-26), een laagdikte van minimaal een halve meter, indien:
 
 - a. het de aanleg of het wijzigen van Rijkswegen, provinciale en gemeentelijke wegen en spoorwegen betreft; en
 
@@ -724,15 +724,15 @@ Deze paragraaf is niet van toepassing op het toepassen van grond of baggerspecie
 
 ##### Artikel 64
 
-1. Bij regeling van Onze Ministers kunnen aan de toepassing van grond of baggerspecie, bedoeld in [artikel 63, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=63&z=2010-10-01&g=2010-10-01), nadere regels worden gesteld ter bescherming van de kwaliteit van de omliggende bodem, het grondwater of oppervlaktewaterlichamen.
+1. Bij regeling van Onze Ministers kunnen aan de toepassing van grond of baggerspecie, bedoeld in [artikel 63, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=63&z=2010-10-26&g=2010-10-26), nadere regels worden gesteld ter bescherming van de kwaliteit van de omliggende bodem, het grondwater of oppervlaktewaterlichamen.
 
-2. Bij regeling van Onze Ministers kunnen regels worden gesteld met betrekking tot beheersmaatregelen met het oog op de instandhouding van de toepassing, bedoeld in [artikel 63, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=63&z=2010-10-01&g=2010-10-01).
+2. Bij regeling van Onze Ministers kunnen regels worden gesteld met betrekking tot beheersmaatregelen met het oog op de instandhouding van de toepassing, bedoeld in [artikel 63, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=63&z=2010-10-26&g=2010-10-26).
 
 ### Hoofdstuk 5. Slot- en overgangsbepalingen
 
 ##### Artikel 65
 
-1. Het [Bouwstoffenbesluit bodem- en oppervlaktewaterenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0007667) wordt ingetrokken, met dien verstande dat de intrekking voor gedeelten van dat besluit op verschillende tijdstippen kan geschieden welke tijstippen nader worden bepaald in het besluit tot inwerkingtreding van het besluit bodemkwaliteit als bedoeld in [artikel 83, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=5&artikel=83&z=2010-10-01&g=2010-10-01).
+1. Het [Bouwstoffenbesluit bodem- en oppervlaktewaterenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0007667) wordt ingetrokken, met dien verstande dat de intrekking voor gedeelten van dat besluit op verschillende tijdstippen kan geschieden welke tijstippen nader worden bepaald in het besluit tot inwerkingtreding van het besluit bodemkwaliteit als bedoeld in [artikel 83, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=5&artikel=83&z=2010-10-26&g=2010-10-26).
 
 2. Het [Bouwstoffenbesluit bodem- en oppervlaktewaterenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0007667) blijft van toepassing op een aanvraag als bedoeld in [artikel 12, tweede lid, van de Tijdelijke Stimuleringsregeling verwerking baggerspecie](https://wetten.overheid.nl/jci1.3:c:BWBR0013877&artikel=12).
 
@@ -740,7 +740,7 @@ Deze paragraaf is niet van toepassing op het toepassen van grond of baggerspecie
 
 1. Het [Besluit uitvoeringskwaliteit bodembeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0019963) wordt ingetrokken, met uitzondering van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0019963&artikel=21), met dien verstande dat in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0019963&artikel=21) in plaats van [Besluit uitvoeringskwaliteit bodembeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0019963), wordt gelezen: Besluit bodemkwaliteit.
 
-2. [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&z=2010-10-01&g=2010-10-01) van dit besluit is niet van toepassing op:
+2. [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&z=2010-10-26&g=2010-10-26) van dit besluit is niet van toepassing op:
 
 - a. een werkzaamheid die voor inwerkingtreding van het [Besluit uitvoeringskwaliteit bodembeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0019963) is aangevangen;
 
@@ -750,39 +750,39 @@ Deze paragraaf is niet van toepassing op het toepassen van grond of baggerspecie
 
 ##### Artikel 67
 
-Wijzigt het Besluit indieningsvereisten aanvraag bouwvergunning.
+Vervallen
 
 ##### Artikel 68
 
-Wijzigt het Inrichtingen- en vergunningenbesluit milieubeheer.
+Vervallen
 
 ##### Artikel 69
 
-Wijzigt het Besluit vrijstellingen stortverbod buiten inrichtingen.
+Vervallen
 
 ##### Artikel 70
 
-Wijzigt het Besluit stortplaatsen en stortverboden afvalstoffen.
+Vervallen
 
 ##### Artikel 71
 
-Wijzigt het Besluit financiële bepalingen bodemsanering.
+Vervallen
 
 ##### Artikel 72
 
-Wijzigt het Uitvoeringsbesluit belastingen op milieugrondslag.
+Vervallen
 
 ##### Artikel 73
 
-Wijzigt het Besluit overige niet-meldingsplichtige gevallen bodemsanering.
+Vervallen
 
 ##### Artikel 74
 
-Wijzigt het Besluit milieu-effectrapportage 1994.
+Vervallen
 
 ##### Artikel 75
 
-Het recht zoals dat gold voor het tijdstip van inwerkingtreding van [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=5&artikel=65&z=2010-10-01&g=2010-10-01) blijft van toepassing op het houden van bouwstoffen, waaronder grond en baggerspecie, in een werk, indien de bouwstoffen voor dat tijdstip in het betreffende werk waren toegepast.
+Het recht zoals dat gold voor het tijdstip van inwerkingtreding van [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=5&artikel=65&z=2010-10-26&g=2010-10-26) blijft van toepassing op het houden van bouwstoffen, waaronder grond en baggerspecie, in een werk, indien de bouwstoffen voor dat tijdstip in het betreffende werk waren toegepast.
 
 ##### Artikel 76
 
@@ -790,27 +790,27 @@ De [Vrijstellingsregeling grondverzet](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 ##### Artikel 77
 
-Het recht zoals dat gold voor het tijdstip van inwerkingtreding van [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=5&artikel=65&z=2010-10-01&g=2010-10-01) blijft voor partijkeuringen, erkende kwaliteitsverklaringen en andere bewijsmiddelen, die krachtens het [Bouwstoffenbesluit bodem- en oppervlaktewaterenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0007667), zoals dat gold op het tijdstip van inwerkingtreding, zijn afgegeven, van toepassing voor de duur van de desbetreffende verklaring, maar ten hoogste voor drie jaar na de inwerkingtreding van dit besluit.
+Het recht zoals dat gold voor het tijdstip van inwerkingtreding van [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=5&artikel=65&z=2010-10-26&g=2010-10-26) blijft voor partijkeuringen, erkende kwaliteitsverklaringen en andere bewijsmiddelen, die krachtens het [Bouwstoffenbesluit bodem- en oppervlaktewaterenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0007667), zoals dat gold op het tijdstip van inwerkingtreding, zijn afgegeven, van toepassing voor de duur van de desbetreffende verklaring, maar ten hoogste voor drie jaar na de inwerkingtreding van dit besluit.
 
 ##### Artikel 78
 
-Het recht zoals dat gold voor het tijdstip van inwerkingtreding van [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=5&artikel=65&z=2010-10-01&g=2010-10-01) blijft voor maximaal drie jaar na dat tijdstip van toepassing, indien voor dat tijdstip een melding krachtens [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007667&artikel=11), [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007667&artikel=18), of [21, tweede lid, van het Bouwstoffenbesluit bodem- en oppervlaktewaterenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0007667&artikel=21) is gedaan en binnen een half jaar na dat tijdstip is begonnen met de toepassing.
+Het recht zoals dat gold voor het tijdstip van inwerkingtreding van [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=5&artikel=65&z=2010-10-26&g=2010-10-26) blijft voor maximaal drie jaar na dat tijdstip van toepassing, indien voor dat tijdstip een melding krachtens [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007667&artikel=11), [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007667&artikel=18), of [21, tweede lid, van het Bouwstoffenbesluit bodem- en oppervlaktewaterenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0007667&artikel=21) is gedaan en binnen een half jaar na dat tijdstip is begonnen met de toepassing.
 
 ##### Artikel 79
 
-1. Het recht zoals dat gold voor het tijdstip van inwerkingtreding van [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=5&artikel=65&z=2010-10-01&g=2010-10-01) blijft geldig, indien voor dat tijdstip, dan wel uiterlijk een half jaar na dat tijdstip een vergunning is verleend krachtens [artikel 8.1, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1) of [artikel 1, eerste of derde lid, van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=1), voor de duur van de vergunning maar ten hoogste voor drie jaar na dat tijdstip.
+1. Het recht zoals dat gold voor het tijdstip van inwerkingtreding van [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=5&artikel=65&z=2010-10-26&g=2010-10-26) blijft geldig, indien voor dat tijdstip, dan wel uiterlijk een half jaar na dat tijdstip een vergunning is verleend krachtens [artikel 8.1, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1) of [artikel 1, eerste of derde lid, van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=1), voor de duur van de vergunning maar ten hoogste voor drie jaar na dat tijdstip.
 
-2. Voorzover een vergunning op grond van [artikel 1, eerste of derde lid, van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=1) betrekking heeft op een handeling als bedoeld in [artikel 35, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-01&g=2010-10-01), vervalt het desbetreffende deel van de vergunning.
+2. Voorzover een vergunning op grond van [artikel 1, eerste of derde lid, van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=1) betrekking heeft op een handeling als bedoeld in [artikel 35, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-26&g=2010-10-26), vervalt het desbetreffende deel van de vergunning.
 
 3. In afwijking van het tweede lid vervallen de voorschriften van een vergunning waarbij verspreidingsvakken worden aangewezen een half jaar na de datum van inwerkingtreding van dit besluit.
 
 ##### Artikel 80
 
-Op het toepassen van tarragrond blijft de [Vrijstellingsregeling plantenresten en tarragrond](https://wetten.overheid.nl/jci1.3:c:BWBR0019048) gedurende twee jaar na het tijdstip van inwerkingtreding van dit besluit van toepassing.
+Vervallen
 
 ##### Artikel 81
 
-Indien het bij koninklijke boodschap van 21 mei 2007 ingediende voorstel van wet tot wijziging van de Wet verontreiniging zeewater en enige andere wetten, kamerstukken II, 2006/07, 31 049, nr. 1 nadat het tot wet is verheven, in werking treedt, treedt dit besluit voor het toepassen van grond en baggerspecie in de Nederlandse territoriale zee, op hetzelfde tijdstip in werking.
+Vervallen
 
 ##### Artikel 82
 
@@ -818,9 +818,7 @@ Onze Minister zendt in overeenstemming met de Ministers van Landbouw, Natuur en 
 
 ##### Artikel 83
 
-1. Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan of het toepassen of toepassingen, als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2010-10-01&g=2010-10-01), verschillend kan worden vastgesteld.
-
-2. [Artikel 36 van de Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=36) treedt in werking op het tijdstip waarop [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=1&z=2010-10-01&g=2010-10-01) in werking treedt.
+Vervallen
 
 ##### Artikel 84
 
@@ -1424,13 +1422,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - b. bouwstoffen die vallen onder een douaneregeling en bestemd zijn voor douanevervoer, plaatsing in douane-entrepot of voor tijdelijke invoer als bedoeld in artikel 4, onderdeel 16 van [verordening (EEG) nr. 2913/92](31992R2913) van de Raad van de Europese Gemeenschappen van 12 oktober 1992, tot vaststelling van het communautair douanewetboek (PbEG L 302).
 
-2. Het tijdelijk verplaatsen of uit een werk wegnemen van bouwstoffen is toegestaan zonder inachtneming van de [artikelen 28 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&artikel=28&z=2010-10-01&g=2010-10-01), indien deze vervolgens, zonder te zijn bewerkt, op of nabij dezelfde plaats en onder dezelfde condities opnieuw in dat werk worden aangebracht.
+2. Het tijdelijk verplaatsen of uit een werk wegnemen van bouwstoffen is toegestaan zonder inachtneming van de [artikelen 28 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&artikel=28&z=2010-10-26&g=2010-10-26), indien deze vervolgens, zonder te zijn bewerkt, op of nabij dezelfde plaats en onder dezelfde condities opnieuw in dat werk worden aangebracht.
 
 ##### Artikel 28
 
 1. Het vervaardigen, invoeren, voor toepassing in Nederland of voor handelsdoeleinden voor de Nederlandse markt voorhanden hebben, vervoeren, aan een ander ter beschikking stellen of toepassen van bouwstoffen is verboden, tenzij:
 
-- a. de samenstellings- en emissiewaarden van de bouwstof zijn bepaald aan de hand van de parameters, die in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&bijlage=1&z=2010-10-01&g=2010-10-01) van dit besluit zijn vermeld en bij regeling van Onze Ministers zijn aangewezen, overeenkomstig de bij regeling van Onze Ministers gestelde methoden door of onder toezicht van een persoon of instelling die daartoe beschikt over een erkenning;
+- a. de samenstellings- en emissiewaarden van de bouwstof zijn bepaald aan de hand van de parameters, die in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&bijlage=1&z=2010-10-26&g=2010-10-26) van dit besluit zijn vermeld en bij regeling van Onze Ministers zijn aangewezen, overeenkomstig de bij regeling van Onze Ministers gestelde methoden door of onder toezicht van een persoon of instelling die daartoe beschikt over een erkenning;
 
 - b. een bij regeling van Onze Ministers aangewezen persoon of instelling op een bij regeling van Onze Ministers voorgeschreven wijze heeft vastgesteld dat de waarden, bedoeld onder a, de bij regeling van Onze Ministers vastgestelde maximale samenstellings- en emissiewaarden niet overschrijden;
 
@@ -1444,11 +1442,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 4. Bij regeling van Onze Ministers worden regels gesteld met betrekking tot het samenvoegen en splitsen van partijen bouwstof.
 
-5. Het is verboden om bouwstoffen toe te passen in strijd met de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=5&z=2010-10-01&g=2010-10-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=7&z=2010-10-01&g=2010-10-01) van dit besluit.
+5. Het is verboden om bouwstoffen toe te passen in strijd met de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=5&z=2010-10-26&g=2010-10-26) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=7&z=2010-10-26&g=2010-10-26) van dit besluit.
 
 ##### Artikel 29
 
-1. In afwijking van [artikel 28, eerste lid, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&artikel=28&z=2010-10-01&g=2010-10-01), worden de samenstellings- en emissiewaarden van de toe te passen bouwstof niet bepaald en is geen milieuhygiënische verklaring vereist, indien sprake is van de volgende handelingen:
+1. In afwijking van [artikel 28, eerste lid, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&artikel=28&z=2010-10-26&g=2010-10-26), worden de samenstellings- en emissiewaarden van de toe te passen bouwstof niet bepaald en is geen milieuhygiënische verklaring vereist, indien sprake is van de volgende handelingen:
 
 - a. het toepassen van metselmortel of natuursteenproducten, met uitzondering van breuksteen en steenslag;
 
@@ -1460,11 +1458,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - e. het toepassen van bouwstoffen door natuurlijke personen anders dan in de uitoefening van beroep of bedrijf.
 
-2. Het bepaalde in het eerste lid is niet van toepassing, indien degene die de bouwstof toepast op grond van kennis of organoleptische waarneming kan aannemen of redelijkerwijs had moeten aannemen dat niet is voldaan aan [artikel 28, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&artikel=28&z=2010-10-01&g=2010-10-01).
+2. Het bepaalde in het eerste lid is niet van toepassing, indien degene die de bouwstof toepast op grond van kennis of organoleptische waarneming kan aannemen of redelijkerwijs had moeten aannemen dat niet is voldaan aan [artikel 28, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&artikel=28&z=2010-10-26&g=2010-10-26).
 
 ##### Artikel 30
 
-1. Een bouwstof die de maximale emissiewaarden, bedoeld in [artikel 28, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&artikel=28&z=2010-10-01&g=2010-10-01) overschrijdt, kan als IBC-bouwstof worden toegepast, indien:
+1. Een bouwstof die de maximale emissiewaarden, bedoeld in [artikel 28, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&artikel=28&z=2010-10-26&g=2010-10-26) overschrijdt, kan als IBC-bouwstof worden toegepast, indien:
 
 - a. de bouwstof voldoet aan de bij regeling van Onze Ministers gesteld maximale emissiewaarden voor IBC-bouwstoffen;
 
@@ -1476,7 +1474,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 31
 
-1. Onze Minister kan op aanvraag ontheffing verlenen van de eis, gesteld in [artikel 30, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&artikel=30&z=2010-10-01&g=2010-10-01), voor zover anders dan door toepassing van die regel ten minste dezelfde mate van bescherming van de bodem wordt geboden, als is beoogd met de betrokken eis.
+1. Onze Minister kan op aanvraag ontheffing verlenen van de eis, gesteld in [artikel 30, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&artikel=30&z=2010-10-26&g=2010-10-26), voor zover anders dan door toepassing van die regel ten minste dezelfde mate van bescherming van de bodem wordt geboden, als is beoogd met de betrokken eis.
 
 2. Bij regeling van Onze Minister worden regels gesteld omtrent:
 
@@ -1488,9 +1486,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 32
 
-1. Degene die voornemens is een bouwstof toe te passen als bedoeld in [artikel 29, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&artikel=29&z=2010-10-01&g=2010-10-01), meldt dit voornemen ten minste vijf werkdagen voor het toepassen aan Onze Minister.
+1. Degene die voornemens is een bouwstof toe te passen als bedoeld in [artikel 29, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&artikel=29&z=2010-10-26&g=2010-10-26), meldt dit voornemen ten minste vijf werkdagen voor het toepassen aan Onze Minister.
 
-2. Degene die voornemens is een IBC-bouwstof toe te passen als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&artikel=30&z=2010-10-01&g=2010-10-01) meldt dat voornemen tenminste vier weken voor het toepassen aan Onze Minister.
+2. Degene die voornemens is een IBC-bouwstof toe te passen als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&artikel=30&z=2010-10-26&g=2010-10-26) meldt dat voornemen tenminste vier weken voor het toepassen aan Onze Minister.
 
 3. Bij een melding als bedoeld in het eerste en tweede lid, worden ten minste de volgende gegevens verstrekt:
 
@@ -1867,7 +1865,7 @@ Dit besluit berust mede op de [artikelen 6.2, eerste lid, onderdeel b](https://w
 
 ### Hoofdstuk 5. Slot- en overgangsbepalingen
 
-## Bijlage 1. behorende bij [artikel 28, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&artikel=28&z=2010-10-01&g=2010-10-01) en [41](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=41&z=2010-10-01&g=2010-10-01)
+## Bijlage 1. behorende bij [artikel 28, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&artikel=28&z=2010-10-26&g=2010-10-26) en [41](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=41&z=2010-10-26&g=2010-10-26)
 
 | **Parameterlijst voor bouwstoffen, grond en baggerspecie** | **Parameterlijst voor bouwstoffen, grond en baggerspecie** |
 | --- | --- |
