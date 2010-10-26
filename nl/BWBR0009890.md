@@ -4,7 +4,7 @@ identifier: "BWBR0009890"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-04-19"
-last_updated: "2009-10-03"
+last_updated: "2010-10-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009890"
 soort: "AMvB"
@@ -100,7 +100,7 @@ Vervallen
 
 ##### Artikel 2.4
 
-De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2009-10-03&g=2009-10-03), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2009-10-03&g=2009-10-03), gelden niet met betrekking tot de volgende kwikhoudende producten:
+De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2010-10-26&g=2010-10-26), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2010-10-26&g=2010-10-26), gelden niet met betrekking tot de volgende kwikhoudende producten:
 
 - a. een pycno- of porosimeter ter bepaling van het poriënvolume van grond of andere poreuze vaste stoffen;
 
@@ -134,7 +134,7 @@ De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.n
 
 ##### Artikel 2.5
 
-De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2009-10-03&g=2009-10-03), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2009-10-03&g=2009-10-03), gelden niet met betrekking tot elektrotechnische componenten die dienen als reserve-onderdelen voor apparatuur waarvan degene die deze apparatuur bezit, kan aantonen dat die apparatuur voor 1 januari 2003 voor het eerst voor gebruik ter beschikking is gesteld.
+De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2010-10-26&g=2010-10-26), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2010-10-26&g=2010-10-26), gelden niet met betrekking tot elektrotechnische componenten die dienen als reserve-onderdelen voor apparatuur waarvan degene die deze apparatuur bezit, kan aantonen dat die apparatuur voor 1 januari 2003 voor het eerst voor gebruik ter beschikking is gesteld.
 
 #### § 2a. Handelingen met kwik en kwikverbindingen
 
@@ -166,7 +166,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. Het is verboden te handelen in strijd met artikel 6, eerste tot en met derde lid, van verordening (EG) nr. 1102/2008 van het Europees Parlement en de Raad van 22 oktober 2008 inzake het verbod op de uitvoer van metallisch kwik en andere kwikverbindingen en -mengsels en de veilige opslag van metallisch kwik (PbEU L 304/75).
 
-4. Als bevoegde autoriteit, bedoeld in de artikelen 5, derde lid, en 6, eerste en tweede lid, van verordening (EG) nr. 1102/2008 van het Europees Parlement en de Raad van 22 oktober 2008 inzake het verbod op de uitvoer van metallisch kwik en andere kwikverbindingen en -mengsels en de veilige opslag van metallisch kwik (PbEU L 304/75), wordt aangewezen: Onze Minister. De ingevolge voornoemde artikelen te verstrekken gegevens worden gezonden aan SenterNovem, postbus 93144, 2509 AC Den Haag, dan wel in plaats daarvan aan een door Onze Minister in de Staatscourant bekendgemaakt ander adres.
+4. Als bevoegde autoriteit, bedoeld in de artikelen 5, derde lid, en 6, eerste en tweede lid, van verordening (EG) nr. 1102/2008 van het Europees Parlement en de Raad van 22 oktober 2008 inzake het verbod op de uitvoer van metallisch kwik en andere kwikverbindingen en -mengsels en de veilige opslag van metallisch kwik (PbEU L 304/75), wordt aangewezen: Onze Minister. De ingevolge voornoemde artikelen te verstrekken gegevens worden gezonden aan Agentschap NL, postbus 93144, 2509 AC Den Haag, dan wel in plaats daarvan aan een door Onze Minister in de Staatscourant bekendgemaakt ander adres.
 
 #### § 3. Slotbepalingen
 
