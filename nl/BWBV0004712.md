@@ -4,7 +4,7 @@ identifier: "BWBV0004712"
 country: "nl"
 rank: "verdrag"
 publication_date: "2010-10-28"
-last_updated: "2002-12-18"
+last_updated: "2010-10-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004712"
 soort: "verdrag"
@@ -74,7 +74,7 @@ Elke Staat die Partij is, stelt op nationaal niveau een of meer visitatieorganen
 
 ##### Artikel 4
 
-1. Elke Staat die Partij is, staat bezoeken in overeenstemming met dit Protocol, overeenkomstig het stelsel bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=I&artikel=2&z=2002-12-18&g=2002-12-18) en [3](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=I&artikel=3&z=2002-12-18&g=2002-12-18) toe aan elke plaats onder zijn rechtsmacht en invloedssfeer waar personen gedetineerd worden of kunnen worden, hetzij uit hoofde van een bevel of op aanstichten van het openbaar gezag of met zijn instemming of berusting (hierna te noemen plaatsen van detentie). Deze bezoeken worden afgelegd met het oogmerk de bescherming van deze personen tegen foltering en andere wrede, onmenselijke of onterende behandeling of bestraffing zo nodig te versterken.
+1. Elke Staat die Partij is, staat bezoeken in overeenstemming met dit Protocol, overeenkomstig het stelsel bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=I&artikel=2&z=2010-10-28&g=2010-10-28) en [3](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=I&artikel=3&z=2010-10-28&g=2010-10-28) toe aan elke plaats onder zijn rechtsmacht en invloedssfeer waar personen gedetineerd worden of kunnen worden, hetzij uit hoofde van een bevel of op aanstichten van het openbaar gezag of met zijn instemming of berusting (hierna te noemen plaatsen van detentie). Deze bezoeken worden afgelegd met het oogmerk de bescherming van deze personen tegen foltering en andere wrede, onmenselijke of onterende behandeling of bestraffing zo nodig te versterken.
 
 2. Voor de toepassing van dit Protocol wordt onder vrijheidsberoving verstaan elke vorm van detentie of gevangenschap of het plaatsen van een persoon in een publieke of private inrichting die deze persoon niet naar believen kan verlaten op last van een gerechtelijke, bestuursrechtelijke of andere autoriteit.
 
@@ -96,7 +96,7 @@ Elke Staat die Partij is, stelt op nationaal niveau een of meer visitatieorganen
 
 ##### Artikel 6
 
-1. Elke Staat die Partij is, kan in overeenstemming met het tweede lid van dit artikel ten hoogste twee kandidaten voordragen die beschikken over de kwalificaties en voldoen aan de vereisten omschreven in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=II&artikel=5&z=2002-12-18&g=2002-12-18), en verstrekt daarbij gedetailleerde informatie over de kwalificaties van de genomineerden.
+1. Elke Staat die Partij is, kan in overeenstemming met het tweede lid van dit artikel ten hoogste twee kandidaten voordragen die beschikken over de kwalificaties en voldoen aan de vereisten omschreven in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=II&artikel=5&z=2010-10-28&g=2010-10-28), en verstrekt daarbij gedetailleerde informatie over de kwalificaties van de genomineerden.
 
 - a. De genomineerden dienen de nationaliteit te hebben van een Staat die Partij is bij dit Protocol;
 
@@ -112,7 +112,7 @@ Elke Staat die Partij is, stelt op nationaal niveau een of meer visitatieorganen
 
 1. De leden van het Subcomité ter Preventie worden op de volgende wijze gekozen:
 
-- a. Voorop dient te staan of de kandidaten voldoen aan de vereisten en criteria van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=II&artikel=5&z=2002-12-18&g=2002-12-18) van dit Protocol;
+- a. Voorop dient te staan of de kandidaten voldoen aan de vereisten en criteria van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=II&artikel=5&z=2010-10-28&g=2010-10-28) van dit Protocol;
 
 - b. De eerste verkiezing wordt niet later gehouden dan zes maanden na de datum van inwerkingtreding van dit Protocol;
 
@@ -130,11 +130,11 @@ Elke Staat die Partij is, stelt op nationaal niveau een of meer visitatieorganen
 
 ##### Artikel 8
 
-Indien een lid van het Subcomité ter Preventie overlijdt of terugtreedt, of om enige andere reden zijn of haar taken niet langer kan vervullen, benoemt de Staat die Partij is die het lid had voorgedragen een andere daarvoor in aanmerking komende persoon die beschikt over de kwalificaties en voldoet aan de vereisten vervat in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=II&artikel=5&z=2002-12-18&g=2002-12-18), waarbij rekening wordt gehouden met een goede balans tussen de verschillende competentiegebieden, teneinde de taken te vervullen tot de volgende vergadering van de Staten die Partij zijn, zulks onder voorbehoud van de goedkeuring van de meerderheid van de Staten die Partij zijn. Deze goedkeuring wordt geacht gegeven te zijn, tenzij de helft of meer van de Staten die Partij zijn, binnen zes weken nadat zij door de Secretaris-Generaal van de Verenigde Naties van de voorgestelde benoeming in kennis zijn gesteld, afwijzend reageren.
+Indien een lid van het Subcomité ter Preventie overlijdt of terugtreedt, of om enige andere reden zijn of haar taken niet langer kan vervullen, benoemt de Staat die Partij is die het lid had voorgedragen een andere daarvoor in aanmerking komende persoon die beschikt over de kwalificaties en voldoet aan de vereisten vervat in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=II&artikel=5&z=2010-10-28&g=2010-10-28), waarbij rekening wordt gehouden met een goede balans tussen de verschillende competentiegebieden, teneinde de taken te vervullen tot de volgende vergadering van de Staten die Partij zijn, zulks onder voorbehoud van de goedkeuring van de meerderheid van de Staten die Partij zijn. Deze goedkeuring wordt geacht gegeven te zijn, tenzij de helft of meer van de Staten die Partij zijn, binnen zes weken nadat zij door de Secretaris-Generaal van de Verenigde Naties van de voorgestelde benoeming in kennis zijn gesteld, afwijzend reageren.
 
 ##### Artikel 9
 
-De leden van het Subcomité ter Preventie worden gekozen voor een tijdvak van vier jaar. Zij zijn eenmalig herkiesbaar indien zij opnieuw worden voorgedragen. De ambtstermijn van de helft van de bij de eerste verkiezing benoemde leden loopt na twee jaar af; terstond na de eerste verkiezing worden die leden bij loting aangewezen door de voorzitter van de in [artikel 7, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=II&artikel=7&z=2002-12-18&g=2002-12-18), bedoelde vergadering.
+De leden van het Subcomité ter Preventie worden gekozen voor een tijdvak van vier jaar. Zij zijn eenmalig herkiesbaar indien zij opnieuw worden voorgedragen. De ambtstermijn van de helft van de bij de eerste verkiezing benoemde leden loopt na twee jaar af; terstond na de eerste verkiezing worden die leden bij loting aangewezen door de voorzitter van de in [artikel 7, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=II&artikel=7&z=2010-10-28&g=2010-10-28), bedoelde vergadering.
 
 ##### Artikel 10
 
@@ -156,7 +156,7 @@ De leden van het Subcomité ter Preventie worden gekozen voor een tijdvak van vi
 
 Het Subcomité ter Preventie zal:
 
-- a. de plaatsen bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=I&artikel=4&z=2002-12-18&g=2002-12-18) bezoeken en aanbevelingen doen aan de Staten die Partij zijn, betreffende de bescherming van mensen die van hun vrijheid zijn beroofd tegen foltering en andere wrede, onmenselijke of onterende behandeling of bestraffing;
+- a. de plaatsen bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=I&artikel=4&z=2010-10-28&g=2010-10-28) bezoeken en aanbevelingen doen aan de Staten die Partij zijn, betreffende de bescherming van mensen die van hun vrijheid zijn beroofd tegen foltering en andere wrede, onmenselijke of onterende behandeling of bestraffing;
 
 - b. met betrekking tot de nationale preventiemechanismen:
 
@@ -172,9 +172,9 @@ Het Subcomité ter Preventie zal:
 
 ##### Artikel 12
 
-Teneinde het Subcomité ter Preventie in staat te stellen zijn mandaat als vervat in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=III&artikel=11&z=2002-12-18&g=2002-12-18) uit te voeren, verplichten de Staten die Partij zijn, zich:
+Teneinde het Subcomité ter Preventie in staat te stellen zijn mandaat als vervat in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=III&artikel=11&z=2010-10-28&g=2010-10-28) uit te voeren, verplichten de Staten die Partij zijn, zich:
 
-- a. het Subcomité ter Preventie te ontvangen op hun grondgebied en toegang te verschaffen tot de plaatsen van detentie omschreven in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=I&artikel=4&z=2002-12-18&g=2002-12-18) van dit Protocol;
+- a. het Subcomité ter Preventie te ontvangen op hun grondgebied en toegang te verschaffen tot de plaatsen van detentie omschreven in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=I&artikel=4&z=2010-10-28&g=2010-10-28) van dit Protocol;
 
 - b. alle relevante informatie te verschaffen waarom het Subcomité ter Preventie kan verzoeken teneinde de behoeften en de te treffen maatregelen te beoordelen die nodig zijn ter versterking van de bescherming van mensen die van hun vrijheid zijn beroofd tegen foltering en andere wrede, onmenselijke of onterende behandeling of bestraffing;
 
@@ -184,7 +184,7 @@ Teneinde het Subcomité ter Preventie in staat te stellen zijn mandaat als verva
 
 ##### Artikel 13
 
-1. Het Subcomité ter Preventie stelt, in eerste instantie bij loting, een programma op van periodieke bezoeken aan Staten die Partij zijn, teneinde zijn mandaat als vastgesteld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=III&artikel=11&z=2002-12-18&g=2002-12-18) uit te voeren.
+1. Het Subcomité ter Preventie stelt, in eerste instantie bij loting, een programma op van periodieke bezoeken aan Staten die Partij zijn, teneinde zijn mandaat als vastgesteld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=III&artikel=11&z=2010-10-28&g=2010-10-28) uit te voeren.
 
 2. Na overleg stelt het Subcomité ter Preventie de Staten die Partij zijn, in kennis van zijn programma opdat zij onverwijld de nodige praktische maatregelen kunnen treffen voor de af te leggen bezoeken.
 
@@ -196,7 +196,7 @@ Teneinde het Subcomité ter Preventie in staat te stellen zijn mandaat als verva
 
 1. Teneinde het Subcomité ter Preventie in staat te stellen zijn mandaat uit te voeren, verplichten alle Staten die Partij zijn, zich het Subcomité:
 
-- a. onbeperkt toegang te verschaffen tot alle informatie betreffende het aantal mensen die van hun vrijheid zijn beroofd in plaatsen van detentie als omschreven in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=I&artikel=4&z=2002-12-18&g=2002-12-18), alsmede het aantal inrichtingen en hun locatie;
+- a. onbeperkt toegang te verschaffen tot alle informatie betreffende het aantal mensen die van hun vrijheid zijn beroofd in plaatsen van detentie als omschreven in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=I&artikel=4&z=2010-10-28&g=2010-10-28), alsmede het aantal inrichtingen en hun locatie;
 
 - b. onbeperkt toegang te verschaffen tot alle informatie met betrekking tot de behandeling van die personen alsmede de omstandigheden van de detentie;
 
@@ -220,7 +220,7 @@ Autoriteiten of functionarissen geven geen opdracht tot, verzoek om of toestemmi
 
 3. Het Subcomité ter Preventie presenteert een openbaar jaarverslag over zijn activiteiten aan het Comité tegen Foltering.
 
-4. Indien de Staat die Partij is, weigert met het Subcomité ter Preventie samen te werken overeenkomstig de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=III&artikel=12&z=2002-12-18&g=2002-12-18) en [14](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=III&artikel=14&z=2002-12-18&g=2002-12-18) of maatregelen te treffen teneinde de situatie in het licht van de aanbevelingen van het Subcomité ter Preventie te verbeteren, kan het Comité tegen Foltering beslissen, op verzoek van het Subcomité ter Preventie, bij meerderheid van stemmen van zijn leden nadat de Staat die Partij is in de gelegenheid gesteld is zijn standpunt kenbaar te maken, een openbare verklaring af te leggen over de aangelegenheid of het verslag van het Subcomité ter Preventie te publiceren.
+4. Indien de Staat die Partij is, weigert met het Subcomité ter Preventie samen te werken overeenkomstig de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=III&artikel=12&z=2010-10-28&g=2010-10-28) en [14](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=III&artikel=14&z=2010-10-28&g=2010-10-28) of maatregelen te treffen teneinde de situatie in het licht van de aanbevelingen van het Subcomité ter Preventie te verbeteren, kan het Comité tegen Foltering beslissen, op verzoek van het Subcomité ter Preventie, bij meerderheid van stemmen van zijn leden nadat de Staat die Partij is in de gelegenheid gesteld is zijn standpunt kenbaar te maken, een openbare verklaring af te leggen over de aangelegenheid of het verslag van het Subcomité ter Preventie te publiceren.
 
 ## DEEL IV. NATIONALE PREVENTIEMECHANISMEN
 
@@ -242,7 +242,7 @@ Elke Staat die Partij is, zal uiterlijk een jaar na de inwerkingtreding of bekra
 
 De nationale preventiemechanismen krijgen ten minste de bevoegdheid:
 
-- a. de behandeling van mensen die van hun vrijheid zijn beroofd in plaatsen van detentie als omschreven in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=I&artikel=4&z=2002-12-18&g=2002-12-18) periodiek te onderzoeken, met het oogmerk hun bescherming tegen foltering en andere wrede, onmenselijke of onterende behandeling of bestraffing zo nodig te versterken;
+- a. de behandeling van mensen die van hun vrijheid zijn beroofd in plaatsen van detentie als omschreven in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=I&artikel=4&z=2010-10-28&g=2010-10-28) periodiek te onderzoeken, met het oogmerk hun bescherming tegen foltering en andere wrede, onmenselijke of onterende behandeling of bestraffing zo nodig te versterken;
 
 - b. aanbevelingen te doen aan de desbetreffende autoriteiten teneinde de behandeling en omstandigheden van de mensen die van hun vrijheid zijn beroofd te verbeteren en foltering en andere wrede, onmenselijke of onterende behandeling of bestraffing te voorkomen, daarbij rekening houdend met de desbetreffende normen van de Verenigde Naties;
 
@@ -252,7 +252,7 @@ De nationale preventiemechanismen krijgen ten minste de bevoegdheid:
 
 Teneinde de nationale preventiemechanismen in staat te stellen hun mandaat uit te voeren, verplichten alle Staten die Partij zijn bij dit Protocol, zich hun:
 
-- a. toegang te verschaffen tot alle informatie betreffende het aantal mensen die van hun vrijheid zijn beroofd in plaatsen van detentie als omschreven in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=I&artikel=4&z=2002-12-18&g=2002-12-18), alsmede het aantal inrichtingen en hun locatie;
+- a. toegang te verschaffen tot alle informatie betreffende het aantal mensen die van hun vrijheid zijn beroofd in plaatsen van detentie als omschreven in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=I&artikel=4&z=2010-10-28&g=2010-10-28), alsmede het aantal inrichtingen en hun locatie;
 
 - b. toegang te verschaffen tot alle informatie met betrekking tot de behandeling van die personen alsmede de omstandigheden van de detentie;
 
@@ -282,7 +282,7 @@ De Staten die Partij zijn bij dit Protocol, verplichten zich de jaarverslagen va
 
 ##### Artikel 24
 
-1. Bij de bekrachtiging kunnen de Staten die Partij zijn, verklaren dat zij de uitvoering van hun verplichtingen uit hoofde van [deel III](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=III&z=2002-12-18&g=2002-12-18) of [deel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=IV&z=2002-12-18&g=2002-12-18) van dit Protocol opschorten.
+1. Bij de bekrachtiging kunnen de Staten die Partij zijn, verklaren dat zij de uitvoering van hun verplichtingen uit hoofde van [deel III](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=III&z=2010-10-28&g=2010-10-28) of [deel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=IV&z=2010-10-28&g=2010-10-28) van dit Protocol opschorten.
 
 2. Deze opschorting geldt voor ten hoogste drie jaar. Na naar behoren geformuleerde bezwaren aangetekend door de Staat die Partij is en na overleg met het Subcomité ter Preventie kan het Comité tegen Foltering dat tijdvak met nogmaals twee jaar verlengen.
 
