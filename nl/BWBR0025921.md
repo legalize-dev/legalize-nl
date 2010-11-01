@@ -4,7 +4,7 @@ identifier: "BWBR0025921"
 country: "nl"
 rank: "wet"
 publication_date: "2017-09-01"
-last_updated: "2009-06-10"
+last_updated: "2010-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025921"
 soort: "wet"
@@ -108,11 +108,11 @@ Op verzoeken betreffende de tenuitvoerlegging als bedoeld in de artikelen 22 en 
 
 ##### Artikel 11
 
-1. Het bedrag, bedoeld in artikel 25, tweede lid, van de verordening, dat in rekening wordt gebracht voor een verzoek om een Europees betalingsbevel, wordt vastgesteld overeenkomstig de [Wet tarieven in burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0001852).
+1. Het bedrag, bedoeld in artikel 25, tweede lid, van de verordening, dat in rekening wordt gebracht voor een verzoek om een Europees betalingsbevel, wordt vastgesteld overeenkomstig de [Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899).
 
-2. Van de verweerder wordt geen vast recht geheven voor de indiening van een verweerschrift als bedoeld in artikel 16 van de verordening.
+2. Van de verweerder wordt geen griffierecht geheven voor de indiening van een verweerschrift als bedoeld in artikel 16 van de verordening.
 
-3. Wordt de procedure voortgezet na indiening van een verweerschrift, dan wordt van de verweerder overeenkomstig de regels van de [Wet tarieven in burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0001852) vast recht geheven als hij ook in de voortgezette procedure verschijnt.
+3. Wordt de procedure voortgezet na indiening van een verweerschrift, dan wordt van de verweerder overeenkomstig de regels van de [Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899) griffierecht geheven als hij ook in de voortgezette procedure verschijnt.
 
 ##### Artikel 12
 
