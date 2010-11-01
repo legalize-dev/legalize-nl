@@ -4,7 +4,7 @@ identifier: "BWBR0002406"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2004-09-01"
+last_updated: "2010-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002406"
 soort: "wet"
@@ -59,7 +59,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 2
 
-Tot het maken van ten laste van 's Rijks kas komende buitengewone, bij en krachtens deze wet niet voorziene kosten in de zaken in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&titeldeel=Eerste&paragraaf=1&artikel=1&z=2004-09-01&g=2004-09-01) bedoeld wordt vereist een machtiging van de advocaat-generaal bij het gerechtshof en, in de zaken die bij de Hoge Raad dienen, van de procureur-generaal bij de Hoge Raad. Zodanige machtiging is niet vereist in de gevallen van de [artikelen 150](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=150), [158](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=158) juncto [150](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=150), [192](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=192), [202](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=202), [212](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=212), [318](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=318), [398](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=398) juncto [318](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=318) en [415](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=415) juncto [318 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=318).
+Tot het maken van ten laste van 's Rijks kas komende buitengewone, bij en krachtens deze wet niet voorziene kosten in de zaken in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&titeldeel=Eerste&paragraaf=1&artikel=1&z=2010-11-01&g=2010-11-01) bedoeld wordt vereist een machtiging van de advocaat-generaal bij het gerechtshof en, in de zaken die bij de Hoge Raad dienen, van de procureur-generaal bij de Hoge Raad. Zodanige machtiging is niet vereist in de gevallen van de [artikelen 150](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=150), [158](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=158) juncto [150](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=150), [192](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=192), [202](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=202), [212](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=212), [318](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=318), [398](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=398) juncto [318](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=318) en [415](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=415) juncto [318 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=318).
 
 #### § 2. Vergoedingen voor werkzaamheden en voor tijdverzuim
 
@@ -67,9 +67,9 @@ Tot het maken van ten laste van 's Rijks kas komende buitengewone, bij en kracht
 
 1. Wij stellen bij algemene maatregel van bestuur de tarieven vast voor vergoedingen voor:
 
-- a. werkzaamheden ingevolge verzoeken en opdrachten als bedoeld in [artikel 1, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&titeldeel=Eerste&paragraaf=1&artikel=1&z=2004-09-01&g=2004-09-01);
+- a. werkzaamheden ingevolge verzoeken en opdrachten als bedoeld in [artikel 1, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&titeldeel=Eerste&paragraaf=1&artikel=1&z=2010-11-01&g=2010-11-01);
 
-- b. tijdverzuim ingevolge verzoeken en opdrachten als bedoeld in [artikel 1, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&titeldeel=Eerste&paragraaf=1&artikel=1&z=2004-09-01&g=2004-09-01), van hen aan wie werkzaamheden zijn opgedragen, van getuigen, van voogden die wegens een strafzaak tegen een onder hun gezag staande minderjarige ingevolge het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) moeten worden opgeroepen en - ingeval van toepassing van [artikel 509**d**](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=509d) van dat Wetboek - van curatoren; voorts van noodzakelijke geleiders van deze personen en van verdachten of gerekwestreerden, alsmede van met het tijdverzuim verband houdende noodzakelijke kosten.
+- b. tijdverzuim ingevolge verzoeken en opdrachten als bedoeld in [artikel 1, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&titeldeel=Eerste&paragraaf=1&artikel=1&z=2010-11-01&g=2010-11-01), van hen aan wie werkzaamheden zijn opgedragen, van getuigen, van voogden die wegens een strafzaak tegen een onder hun gezag staande minderjarige ingevolge het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) moeten worden opgeroepen en - ingeval van toepassing van [artikel 509**d**](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=509d) van dat Wetboek - van curatoren; voorts van noodzakelijke geleiders van deze personen en van verdachten of gerekwestreerden, alsmede van met het tijdverzuim verband houdende noodzakelijke kosten.
 
 2. Geen vergoeding wordt toegekend voor werkzaamheden:
 
@@ -79,7 +79,7 @@ Tot het maken van ten laste van 's Rijks kas komende buitengewone, bij en kracht
 
 3. Geen vergoeding wordt toegekend wegens tijdverzuim:
 
-- a. voor de tijd besteed aan werkzaamheden als bedoeld in [artikel 1, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&titeldeel=Eerste&paragraaf=1&artikel=1&z=2004-09-01&g=2004-09-01);
+- a. voor de tijd besteed aan werkzaamheden als bedoeld in [artikel 1, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&titeldeel=Eerste&paragraaf=1&artikel=1&z=2010-11-01&g=2010-11-01);
 
 - b. van personen die rechtens van hun vrijheid zijn beroofd;
 
@@ -107,7 +107,7 @@ Voor werktuigen en gereedschappen, gebruikt bij de opgedragen werkzaamheden, wor
 
 ##### Artikel 6
 
-1. Wij stellen bij algemene maatregel van bestuur tarieven vast voor vergoedingen voor reis- en verblijfkosten, toekomende aan de in [artikel 3, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&titeldeel=Eerste&paragraaf=2&artikel=3&z=2004-09-01&g=2004-09-01), sub **b**, genoemde personen. Onnodig gemaakte reis- en verblijfkosten worden niet vergoed.
+1. Wij stellen bij algemene maatregel van bestuur tarieven vast voor vergoedingen voor reis- en verblijfkosten, toekomende aan de in [artikel 3, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&titeldeel=Eerste&paragraaf=2&artikel=3&z=2010-11-01&g=2010-11-01), sub **b**, genoemde personen. Onnodig gemaakte reis- en verblijfkosten worden niet vergoed.
 
 2. Onze Minister van Justitie kan nadere regelen stellen.
 
@@ -137,7 +137,7 @@ Voor werktuigen en gereedschappen, gebruikt bij de opgedragen werkzaamheden, wor
 
 ##### Artikel 10
 
-Het bezwaar, bedoeld in [de artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&titeldeel=Eerste&paragraaf=4&artikel=8&z=2004-09-01&g=2004-09-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&titeldeel=Eerste&paragraaf=4&artikel=9&z=2004-09-01&g=2004-09-01), kan slechts schriftelijk worden ingediend binnen veertien dagen na de dag van uitreiking of verzending van de beschikking, waartegen bezwaar wordt ingediend.
+Het bezwaar, bedoeld in [de artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&titeldeel=Eerste&paragraaf=4&artikel=8&z=2010-11-01&g=2010-11-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&titeldeel=Eerste&paragraaf=4&artikel=9&z=2010-11-01&g=2010-11-01), kan slechts schriftelijk worden ingediend binnen veertien dagen na de dag van uitreiking of verzending van de beschikking, waartegen bezwaar wordt ingediend.
 
 ##### Artikel 11
 
@@ -165,13 +165,13 @@ Vergoedingen verschuldigd door de verdachte of de gerekwestreerde worden, nadat 
 
 ##### Artikel 16
 
-1. De verdachte of de gerekwestreerde kan de krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&titeldeel=Eerste&paragraaf=5&artikel=14&z=2004-09-01&g=2004-09-01) bevoegde griffier verzoeken, vergoedingen als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&titeldeel=Eerste&paragraaf=5&artikel=15&z=2004-09-01&g=2004-09-01) bij wijze van voorschot te zijnen behoeve aan de rechthebbenden te betalen. Het verzoek, dat schriftelijk moet worden gedaan, kan worden ingediend binnen 14 dagen nadat de beschikking tot toekenning van de vergoeding of de beschikking tot goedkeuring van de declaratie onherroepelijk is geworden. De griffier beslist zo spoedig mogelijk.
+1. De verdachte of de gerekwestreerde kan de krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&titeldeel=Eerste&paragraaf=5&artikel=14&z=2010-11-01&g=2010-11-01) bevoegde griffier verzoeken, vergoedingen als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&titeldeel=Eerste&paragraaf=5&artikel=15&z=2010-11-01&g=2010-11-01) bij wijze van voorschot te zijnen behoeve aan de rechthebbenden te betalen. Het verzoek, dat schriftelijk moet worden gedaan, kan worden ingediend binnen 14 dagen nadat de beschikking tot toekenning van de vergoeding of de beschikking tot goedkeuring van de declaratie onherroepelijk is geworden. De griffier beslist zo spoedig mogelijk.
 
-2. Het voorschot dient binnen 3 maanden na het eindigen van de zaak te worden terugbetaald. Wordt aan de verplichting tot terugbetaling niet binnen de gestelde termijn voldaan, dan geschiedt invordering krachtens een door de griffier uit te vaardigen dwangbevel. [Artikel 22 van de Wet tarieven in burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0001852&artikel=22) is van overeenkomstige toepassing.
+2. Het voorschot dient binnen 3 maanden na het eindigen van de zaak te worden terugbetaald. Wordt aan de verplichting tot terugbetaling niet binnen de gestelde termijn voldaan, dan geschiedt invordering krachtens een door de griffier uit te vaardigen dwangbevel. [Artikel 30 van de Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&artikel=30) is van overeenkomstige toepassing.
 
 3. In strafzaken wordt na het eindigen van de zaak een verzoek, gedaan ingevolge lid 1, aangemerkt als een verzoek als bedoeld in [artikel 591, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=591). Het wordt door de griffier zo spoedig mogelijk overgelegd aan het gerecht, bedoeld in dat artikel. De op grond van dat verzoek toegekende vergoeding wordt verrekend met het verleende voorschot.
 
-4. In zaken, als bedoeld in [artikel 1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&titeldeel=Eerste&paragraaf=1&artikel=1&z=2004-09-01&g=2004-09-01), sub **b**, kan binnen 3 maanden na het eindigen van de zaak door de gewezen gerekwestreerde of zijn erfgenamen een verzoek om vrijstelling van de verplichting tot terugbetaling van het voorschot worden ingediend bij het gerecht in feitelijke aanleg, waarvoor de zaak tijdens de beëindiging daarvan heeft gediend of anders het laatst heeft gediend. Op het verzoek wordt beslist door de voorzieningenrechter of door de kantonrechter. De gevraagde vrijstelling wordt verleend voor zover de aanwending der kosten het belang van het onderzoek heeft gediend of door de intrekking van verzoekschrift of rechtsmiddelen door het Openbaar Ministerie nutteloos is geworden.
+4. In zaken, als bedoeld in [artikel 1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&titeldeel=Eerste&paragraaf=1&artikel=1&z=2010-11-01&g=2010-11-01), sub **b**, kan binnen 3 maanden na het eindigen van de zaak door de gewezen gerekwestreerde of zijn erfgenamen een verzoek om vrijstelling van de verplichting tot terugbetaling van het voorschot worden ingediend bij het gerecht in feitelijke aanleg, waarvoor de zaak tijdens de beëindiging daarvan heeft gediend of anders het laatst heeft gediend. Op het verzoek wordt beslist door de voorzieningenrechter of door de kantonrechter. De gevraagde vrijstelling wordt verleend voor zover de aanwending der kosten het belang van het onderzoek heeft gediend of door de intrekking van verzoekschrift of rechtsmiddelen door het Openbaar Ministerie nutteloos is geworden.
 
 5. Onze Minister van Justitie kan nadere regelen stellen.
 
@@ -179,7 +179,7 @@ Vergoedingen verschuldigd door de verdachte of de gerekwestreerde worden, nadat 
 
 ##### Artikel 17
 
-1. Bij of krachtens algemene maatregel van bestuur worden regelen gesteld met betrekking tot de vergoedingen, door de verdachte, de gewezen verdachte, de gerekwestreerde, de gewezen gerekwestreerde, derden-belanghebbenden of andere derden verschuldigd voor afschriften van, uittreksels uit en inzage van vonnissen, arresten, registers of andere stukken, waarvan kennisneming geoorloofd is, en voor inlichtingen in zaken, bedoeld in [artikel 1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&titeldeel=Eerste&paragraaf=1&artikel=1&z=2004-09-01&g=2004-09-01), alsmede met betrekking tot het kosteloos bekomen van zodanige afschriften, uittreksels of inlichtingen.
+1. Bij of krachtens algemene maatregel van bestuur worden regelen gesteld met betrekking tot de vergoedingen, door de verdachte, de gewezen verdachte, de gerekwestreerde, de gewezen gerekwestreerde, derden-belanghebbenden of andere derden verschuldigd voor afschriften van, uittreksels uit en inzage van vonnissen, arresten, registers of andere stukken, waarvan kennisneming geoorloofd is, en voor inlichtingen in zaken, bedoeld in [artikel 1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&titeldeel=Eerste&paragraaf=1&artikel=1&z=2010-11-01&g=2010-11-01), alsmede met betrekking tot het kosteloos bekomen van zodanige afschriften, uittreksels of inlichtingen.
 
 2. Geen recht wordt geheven van openbare colleges en van ambtenaren van openbare lichamen, die afschriften, uittreksels of inlichtingen behoeven in het belang van de uitoefening van de dienst, noch in gevallen waarin bij bijzondere wetten gratis afgifte van afschriften of uittreksels of verstrekking van inlichtingen is voorgeschreven.
 
@@ -193,7 +193,7 @@ Wij stellen bij algemene maatregel van bestuur de tarieven vast voor het uitbren
 
 ##### Artikel 19
 
-Voor zaken, bedoeld in [artikel 1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&titeldeel=Eerste&paragraaf=1&artikel=1&z=2004-09-01&g=2004-09-01) sub **b** van deze wet, voor zaken aangebonden en verzoeken ingediend op grond van enig artikel van deze wet en van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903), benevens voor niet op grond van een bepaling van burgerlijk recht aangebonden zaken betreffende dwangmaatregelen van overheidswege, zonder rechterlijk bevel getroffen in verband met de niet-naleving van een wettelijk gebod of verbod, is geen recht verschuldigd als bedoeld in [artikel 1 van de Wet tarieven in burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0001852&artikel=1).
+Voor zaken, bedoeld in [artikel 1, lid 1 sub b](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&titeldeel=Eerste&paragraaf=1&artikel=1&z=2010-11-01&g=2010-11-01) van deze wet, voor zaken aangebonden en verzoeken ingediend op grond van enig artikel van deze wet en van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903), benevens voor niet op grond van een bepaling van burgerlijk griffierecht aangebonden zaken betreffende dwangmaatregelen van overheidswege, zonder rechterlijk bevel getroffen in verband met de niet-naleving van een wettelijk gebod of verbod, is geen griffierecht verschuldigd als bedoeld in [artikel 3 van de Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&artikel=3).
 
 ##### Artikel 20
 
@@ -233,7 +233,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel IX
 
-In zaken, als bedoeld in [artikel 1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&titeldeel=Eerste&paragraaf=1&artikel=1&z=2004-09-01&g=2004-09-01), aanhangig op de dag van inwerkingtreding van deze wet wordt het bij en krachtens deze wet bepaalde toegepast met ingang van die dag, met dien verstande dat voor werkzaamheden, die zijn verricht na de dag van inwerkingtreding van deze wet, voor tijdverzuim, met inbegrip van de daarmede verband houdende noodzakelijke kosten, dat valt na die dag en voor reis- en verblijfkosten, na die dag gemaakt, ingevolge een verzoek of opdracht gedaan en gegeven vóór die dag, ook vergoedingen worden toegekend overeenkomstig het bij en krachtens deze wet bepaalde.
+In zaken, als bedoeld in [artikel 1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&titeldeel=Eerste&paragraaf=1&artikel=1&z=2010-11-01&g=2010-11-01), aanhangig op de dag van inwerkingtreding van deze wet wordt het bij en krachtens deze wet bepaalde toegepast met ingang van die dag, met dien verstande dat voor werkzaamheden, die zijn verricht na de dag van inwerkingtreding van deze wet, voor tijdverzuim, met inbegrip van de daarmede verband houdende noodzakelijke kosten, dat valt na die dag en voor reis- en verblijfkosten, na die dag gemaakt, ingevolge een verzoek of opdracht gedaan en gegeven vóór die dag, ook vergoedingen worden toegekend overeenkomstig het bij en krachtens deze wet bepaalde.
 
 ##### Artikel X
 
