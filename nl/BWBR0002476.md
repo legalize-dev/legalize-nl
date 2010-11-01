@@ -4,7 +4,7 @@ identifier: "BWBR0002476"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "1965-09-10"
+last_updated: "2010-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002476"
 soort: "wet"
@@ -49,7 +49,7 @@ De aanvragen om overmaking van stukken en de verzending van rogatoire commissies
 
 ##### Artikel 3
 
-De bij de overmaking van stukken gemaakte kosten, waarvan ingevolge artikel 5, tweede lid, van het verdrag door de Republiek Oostenrijk opgave wordt gedaan, worden in rekening gebracht aan degene te wiens verzoeke de Officier van Justitie de overmaking heeft aangevraagd. De [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0001852&artikel=22) tot en met [26 van de Wet tarieven in burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0001852&artikel=26) (**Stb.** 1843, 37, 38, 39, 40, 66 en 67) zijn van overeenkomstige toepassing.
+De bij de overmaking van stukken gemaakte kosten, waarvan ingevolge artikel 5, tweede lid, van het verdrag door de Republiek Oostenrijk opgave wordt gedaan, worden in rekening gebracht aan degene te wiens verzoeke de Officier van Justitie de overmaking heeft aangevraagd. [Artikel 30 van de Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&artikel=30) is van overeenkomstige toepassing.
 
 ##### Artikel 4
 
