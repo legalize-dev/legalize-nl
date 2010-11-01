@@ -4,7 +4,7 @@ identifier: "BWBR0024649"
 country: "nl"
 rank: "wet"
 publication_date: "2020-07-01"
-last_updated: "2009-01-01"
+last_updated: "2010-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024649"
 soort: "wet"
@@ -55,7 +55,7 @@ In deze wet wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De burgemeester kan een huisverbod opleggen aan een persoon indien uit feiten of omstandigheden blijkt dat diens aanwezigheid in de woning ernstig en onmiddellijk gevaar oplevert voor de veiligheid van één of meer personen die met hem in de woning wonen of daarin anders dan incidenteel verblijven of indien op grond van feiten of omstandigheden een ernstig vermoeden van dit gevaar bestaat. Het verbod geldt voor een periode van tien dagen, behoudens verlenging overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=9&z=2009-01-01&g=2009-01-01). Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de aard van de feiten en omstandigheden die aanleiding kunnen geven om een huisverbod op te leggen.
+1. De burgemeester kan een huisverbod opleggen aan een persoon indien uit feiten of omstandigheden blijkt dat diens aanwezigheid in de woning ernstig en onmiddellijk gevaar oplevert voor de veiligheid van één of meer personen die met hem in de woning wonen of daarin anders dan incidenteel verblijven of indien op grond van feiten of omstandigheden een ernstig vermoeden van dit gevaar bestaat. Het verbod geldt voor een periode van tien dagen, behoudens verlenging overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=9&z=2010-11-01&g=2010-11-01). Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de aard van de feiten en omstandigheden die aanleiding kunnen geven om een huisverbod op te leggen.
 
 2. Een huisverbod kan slechts worden opgelegd aan een meerderjarig persoon.
 
@@ -81,13 +81,13 @@ In deze wet wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De burgemeester kan van de bevoegdheden en taken, bedoeld in [artikel 2, eerste, derde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=2&z=2009-01-01&g=2009-01-01), en [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=5&z=2009-01-01&g=2009-01-01), mandaat onderscheidenlijk machtiging verlenen aan de hulpofficier van justitie. [Artikel 10:9, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9) is niet van toepassing.
+1. De burgemeester kan van de bevoegdheden en taken, bedoeld in [artikel 2, eerste, derde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=2&z=2010-11-01&g=2010-11-01), en [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=5&z=2010-11-01&g=2010-11-01), mandaat onderscheidenlijk machtiging verlenen aan de hulpofficier van justitie. [Artikel 10:9, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9) is niet van toepassing.
 
 2. De hulpofficier van justitie doet onverwijld mededeling van een door hem opgelegd huisverbod aan de burgemeester.
 
 ##### Artikel 4
 
-1. Indien het gevaar, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=2&z=2009-01-01&g=2009-01-01), zich voordoet, is de burgemeester of een ambtenaar van politie met het oog op het opleggen van het huisverbod, bevoegd de woning zonder toestemming van de bewoner binnen te treden, voor zover dat redelijkerwijs voor de vervulling van diens taak nodig is.
+1. Indien het gevaar, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=2&z=2010-11-01&g=2010-11-01), zich voordoet, is de burgemeester of een ambtenaar van politie met het oog op het opleggen van het huisverbod, bevoegd de woning zonder toestemming van de bewoner binnen te treden, voor zover dat redelijkerwijs voor de vervulling van diens taak nodig is.
 
 2. De ambtenaar van politie vordert van de uithuisgeplaatste de huissleutel of huissleutels en is bevoegd deze zo nodig na de uithuisgeplaatste daartoe aan de kleding onderzocht te hebben, aan de uithuisgeplaatste te ontnemen tegen afgifte van een bewijs van ontvangst.
 
@@ -117,6 +117,8 @@ In deze wet wordt verstaan onder:
 
 3. De rechter betrekt bij de beoordeling van het huisverbod tevens de feiten en omstandigheden die zich hebben voorgedaan na het opleggen van het huisverbod.
 
+4. In afwijking van de [artikelen 8:41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:41), en [8:82, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:82) wordt door de griffier geen griffierecht geheven.
+
 ##### Artikel 7
 
 De rechter stelt minderjarigen die tot het huishouden van de uithuisgeplaatste behoren en die de leeftijd van twaalf jaren hebben bereikt, in de gelegenheid hem hun mening kenbaar te maken, tenzij de spoedige behandeling van de zaak zich hiertegen verzet. Hij kan minderjarigen die de leeftijd van twaalf jaren nog niet hebben bereikt, in de gelegenheid stellen hem hun mening kenbaar te maken op een door hem te bepalen wijze.
@@ -135,23 +137,25 @@ De rechter stelt minderjarigen die tot het huishouden van de uithuisgeplaatste b
 
 ##### Artikel 9
 
-1. De burgemeester kan een huisverbod verlengen tot ten hoogste vier weken nadat het is opgelegd indien de dreiging van het gevaar, of het ernstige vermoeden daarvan, zich voortzet. De [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=2&z=2009-01-01&g=2009-01-01), en [6 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=6&z=2009-01-01&g=2009-01-01) zijn van overeenkomstige toepassing.
+1. De burgemeester kan een huisverbod verlengen tot ten hoogste vier weken nadat het is opgelegd indien de dreiging van het gevaar, of het ernstige vermoeden daarvan, zich voortzet. De [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=2&z=2010-11-01&g=2010-11-01), en [6 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=6&z=2010-11-01&g=2010-11-01) zijn van overeenkomstige toepassing.
 
 2. Het beroep of hoger beroep tegen het huisverbod heeft mede betrekking op een beschikking tot verlenging van het huisverbod als bedoeld in het eerste lid, voor zover de belanghebbende deze beschikking betwist.
 
 3. In beroep of hoger beroep legt de belanghebbende zo mogelijk een afschrift over van de beschikking die hij betwist.
 
-4. Het tweede en het derde lid zijn van overeenkomstige toepassing op een verzoek om voorlopige voorziening.
+4. In afwijking van de [artikelen 40](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&artikel=40) en [41 van de Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&artikel=41) wordt door de secretaris geen griffierecht geheven.
+
+5. Het tweede en het derde lid zijn van overeenkomstige toepassing op een verzoek om voorlopige voorziening.
 
 ##### Artikel 10
 
-1. De beschikking waarbij het huisverbod met toepassing van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=2&z=2009-01-01&g=2009-01-01), of [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=9&z=2009-01-01&g=2009-01-01), is opgelegd of verlengd, wordt gedurende vijf jaren ter gemeentesecretarie bewaard en vervolgens vernietigd. De gedurende deze termijn ontvangen stukken betreffende het huisverbod worden daarbij gevoegd.
+1. De beschikking waarbij het huisverbod met toepassing van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=2&z=2010-11-01&g=2010-11-01), of [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=9&z=2010-11-01&g=2010-11-01), is opgelegd of verlengd, wordt gedurende vijf jaren ter gemeentesecretarie bewaard en vervolgens vernietigd. De gedurende deze termijn ontvangen stukken betreffende het huisverbod worden daarbij gevoegd.
 
 2. De persoonsgegevens, opgenomen in de beschikkingen of in de andere stukken, bedoeld in het eerste lid, worden verwerkt met het oog op het opleggen, het verlengen en de controle op de naleving van het huisverbod.
 
 ##### Artikel 11
 
-1. De uithuisgeplaatste die handelt in strijd met een met toepassing van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=2&z=2009-01-01&g=2009-01-01), of [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=9&z=2009-01-01&g=2009-01-01), gegeven huisverbod wordt gestraft met gevangenisstraf van ten hoogste twee jaren of een geldboete van de vierde categorie.
+1. De uithuisgeplaatste die handelt in strijd met een met toepassing van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=2&z=2010-11-01&g=2010-11-01), of [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=9&z=2010-11-01&g=2010-11-01), gegeven huisverbod wordt gestraft met gevangenisstraf van ten hoogste twee jaren of een geldboete van de vierde categorie.
 
 2. De in het eerste lid strafbaar gestelde feiten zijn misdrijven.
 
@@ -161,7 +165,7 @@ Wijzigt het Wetboek van Strafvordering.
 
 ##### Artikel 13
 
-De [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is op de termijnen, bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=2&z=2009-01-01&g=2009-01-01), en [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=9&z=2009-01-01&g=2009-01-01), niet van toepassing.
+De [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is op de termijnen, bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=2&z=2010-11-01&g=2010-11-01), en [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=9&z=2010-11-01&g=2010-11-01), niet van toepassing.
 
 ##### Artikel 14
 
