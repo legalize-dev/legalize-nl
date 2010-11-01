@@ -4,7 +4,7 @@ identifier: "BWBR0002685"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2004-07-01"
+last_updated: "2010-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002685"
 soort: "AMvB"
@@ -76,11 +76,11 @@ Hebben goedgevonden en verstaan:
 
 Indien ingevolge het vorige artikel een aantekening over een minderjarige in het register is opgenomen, wordt daarin tevens aantekening gehouden van de volgende op hem betrekking hebbende gegevens:
 
-- a. de wijziging of vaststelling van zijn geslachtsnaam en de vaststelling van zijn voornamen, van welke gegevens Onze Minister van Justitie onverwijld kennis geeft aan de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002685&artikel=1&z=2004-07-01&g=2004-07-01) aangewezen griffier;
+- a. de wijziging of vaststelling van zijn geslachtsnaam en de vaststelling van zijn voornamen, van welke gegevens Onze Minister van Justitie onverwijld kennis geeft aan de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002685&artikel=1&z=2010-11-01&g=2010-11-01) aangewezen griffier;
 
 - b. de wijziging van zijn voornamen, van zijn geslachtsnaam, zijn erkenning, of de ontkenning van het vaderschap door zijn moeder;
 
-- c. een in kracht van gewijsde gegane rechterlijke uitspraak, inhoudende de vaststelling van het vaderschap, de gegrondverklaring van de ontkenning van het vaderschap, de vernietiging van zijn erkenning, de gegrondverklaring van een betwisting of inroeping van zijn staat, of de vernietiging van zulk een uitspraak, van welke gegevens de griffiers van de Hoge Raad, de gerechtshoven en de arrondissementsrechtbanken onverwijld kennis geven aan de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002685&artikel=1&z=2004-07-01&g=2004-07-01) aangewezen griffier.
+- c. een in kracht van gewijsde gegane rechterlijke uitspraak, inhoudende de vaststelling van het vaderschap, de gegrondverklaring van de ontkenning van het vaderschap, de vernietiging van zijn erkenning, de gegrondverklaring van een betwisting of inroeping van zijn staat, of de vernietiging van zulk een uitspraak, van welke gegevens de griffiers van de Hoge Raad, de gerechtshoven en de arrondissementsrechtbanken onverwijld kennis geven aan de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002685&artikel=1&z=2010-11-01&g=2010-11-01) aangewezen griffier.
 
 ##### Artikel 4
 
@@ -102,7 +102,7 @@ Het kaartregister wordt in alfabetische volgorde aangehouden. Onze Minister van 
 
 ##### Artikel 8
 
-1. De kaarten volgens het bij dit Besluit behorende model worden gebruikt voor de eerste mededeling van een rechterlijke beslissing of van een buitengerechtelijke beslissing op grond van [artikel 252, eerste lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=252) betreffende een minderjarige en in omslag gezonden aan de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002685&artikel=1&z=2004-07-01&g=2004-07-01) aangewezen griffier.
+1. De kaarten volgens het bij dit Besluit behorende model worden gebruikt voor de eerste mededeling van een rechterlijke beslissing of van een buitengerechtelijke beslissing op grond van [artikel 252, eerste lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=252) betreffende een minderjarige en in omslag gezonden aan de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002685&artikel=1&z=2010-11-01&g=2010-11-01) aangewezen griffier.
 
 2. Deze kaarten kunnen als eerste inschrijving de aan het hoofd genoemde minderjarige betreffend, in het register worden opgenomen, na ondertekening door de griffier van de onder de mededeling te stellen verklaring: "Getekend voor inschrijving in het register. De griffier ...", en na dagtekening dier verklaring.
 
@@ -114,9 +114,9 @@ Het kaartregister wordt in alfabetische volgorde aangehouden. Onze Minister van 
 
 ##### Artikel 10
 
-1. De griffier is verplicht aan ieder kosteloos inzage van het register te verstrekken. Hij is voorts verplicht om - met inachtneming van het bij of krachtens de [Wet tarieven in burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0001852) bepaalde - aan ieder een uittreksel uit het register te verstrekken. Het verzoek tot inzage in het register dan wel tot verstrekking van een uittreksel daaruit dient op een bepaalde minderjarige betrekking te hebben.
+1. De griffier is verplicht aan ieder kosteloos inzage van het register te verstrekken. Hij is voorts verplicht om - met inachtneming van het bij of krachtens de [Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899) bepaalde - aan ieder een uittreksel uit het register te verstrekken. Het verzoek tot inzage in het register dan wel tot verstrekking van een uittreksel daaruit dient op een bepaalde minderjarige betrekking te hebben.
 
-2. Het eerste lid is mede van toepassing op de inzage en de verstrekking van uittreksels van kaarten die reeds overeenkomstig [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002685&artikel=9&z=2004-07-01&g=2004-07-01), uit het register zijn gelicht.
+2. Het eerste lid is mede van toepassing op de inzage en de verstrekking van uittreksels van kaarten die reeds overeenkomstig [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002685&artikel=9&z=2010-11-01&g=2010-11-01), uit het register zijn gelicht.
 
 ##### Artikel 11
 
