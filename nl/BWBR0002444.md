@@ -4,7 +4,7 @@ identifier: "BWBR0002444"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-01-01"
-last_updated: "2008-09-01"
+last_updated: "2010-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002444"
 soort: "AMvB"
@@ -75,7 +75,7 @@ Dat zij voorts hun posten met eerlijkheid, nauwgezetheid en onzijdigheid, zonder
 
 ##### Artikel 4
 
-1. De plaatsvervangend voorzitter, de leden, de secretaris en de plaatsvervangende secretarissen van de Kamer leggen de eed (belofte), voorgeschreven bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002444&artikel=2&z=2008-09-01&g=2008-09-01), af in handen van de voorzitter, in een zitting van de Kamer.
+1. De plaatsvervangend voorzitter, de leden, de secretaris en de plaatsvervangende secretarissen van de Kamer leggen de eed (belofte), voorgeschreven bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002444&artikel=2&z=2010-11-01&g=2010-11-01), af in handen van de voorzitter, in een zitting van de Kamer.
 
 2. Van het afleggen van de eed (belofte) wordt een akte opgemaakt.
 
@@ -103,7 +103,7 @@ Betreffende zaken aan de behandeling waarvan zij deelnemen, kunnen de voorzitter
 
 ##### Artikel 9
 
-Uitgezonderd de zaterdag en de zondag en de dagen, genoemd in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002444&artikel=10&z=2008-09-01&g=2008-09-01), is de secretarie geopend gedurende ten minste zes uren per dag.
+Uitgezonderd de zaterdag en de zondag en de dagen, genoemd in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002444&artikel=10&z=2010-11-01&g=2010-11-01), is de secretarie geopend gedurende ten minste zes uren per dag.
 
 ##### Artikel 10
 
@@ -125,11 +125,11 @@ Vervallen
 
 - c. alle verzoeken tot het verlengen van overeenkomsten als bedoeld in [artikel 33, eerste lid, van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=33), behoudens voor zover de verhuurder, daartoe uitgenodigd door de voorzitter, kenbaar heeft gemaakt de overeenkomst niet te willen voortzetten.
 
-2. De enkelvoudige afdeling van de Kamer is te allen tijde bevoegd, indien het belang der zaak dit naar haar oordeel vordert, deze naar een meervoudige afdeling, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002444&artikel=13&z=2008-09-01&g=2008-09-01), te verwijzen.
+2. De enkelvoudige afdeling van de Kamer is te allen tijde bevoegd, indien het belang der zaak dit naar haar oordeel vordert, deze naar een meervoudige afdeling, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002444&artikel=13&z=2010-11-01&g=2010-11-01), te verwijzen.
 
 ##### Artikel 13
 
-Een meervoudige afdeling van de Kamer, samengesteld door de voorzitter van de Kamer en bestaande uit de voorzitter en vier leden, behandelt aanvragen en verzoeken als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002444&artikel=12&z=2008-09-01&g=2008-09-01), die door de enkelvoudige afdeling van de Kamer naar haar zijn verwezen, zomede alle andere verzoeken tot afhandeling waarvan de enkelvoudige afdeling van de Kamer niet bevoegd is.
+Een meervoudige afdeling van de Kamer, samengesteld door de voorzitter van de Kamer en bestaande uit de voorzitter en vier leden, behandelt aanvragen en verzoeken als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002444&artikel=12&z=2010-11-01&g=2010-11-01), die door de enkelvoudige afdeling van de Kamer naar haar zijn verwezen, zomede alle andere verzoeken tot afhandeling waarvan de enkelvoudige afdeling van de Kamer niet bevoegd is.
 
 ##### Artikel 14
 
@@ -159,7 +159,7 @@ Voor zover de Kamer partijen en andere belanghebbenden heeft opgeroepen ter zitt
 
 ##### Artikel 18
 
-Getuigen en deskundigen ontvangen desverlangd ten laste van het Rijk, onderscheidenlijk - zo zij niet door de Kamer zijn opgeroepen - ten laste van degene, die hen heeft voorgebracht, schadevergoeding, waarvan het bedrag door de voorzitter wordt begroot overeenkomstig het bij en krachtens de [Wet tarieven in burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0001852) bepaalde.
+Getuigen en deskundigen ontvangen desverlangd ten laste van het Rijk, onderscheidenlijk - zo zij niet door de Kamer zijn opgeroepen - ten laste van degene, die hen heeft voorgebracht, schadevergoeding, waarvan het bedrag door de voorzitter wordt begroot overeenkomstig het bij en krachtens de [Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899) bepaalde.
 
 ##### Artikel 19
 
