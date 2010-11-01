@@ -4,7 +4,7 @@ identifier: "BWBR0002684"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-09-01"
-last_updated: "2008-09-01"
+last_updated: "2010-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002684"
 soort: "AMvB"
@@ -72,13 +72,13 @@ Een verlenging overeenkomstig [artikel 106 van Boek 1 van het Burgerlijk Wetboek
 
 2. Op de kaart worden de inschrijvingen, met vermelding van hun dagtekening, aangebracht en door de griffier ondertekend.
 
-3. In het omslag worden de stukken, genoemd in [artikel 1, eerste lid onder **a**, **b** en **d**, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002684&artikel=1&z=2008-09-01&g=2008-09-01), bewaard.
+3. In het omslag worden de stukken, genoemd in [artikel 1, eerste lid onder **a**, **b** en **d**, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002684&artikel=1&z=2010-11-01&g=2010-11-01), bewaard.
 
 4. De kaarten dragen een nummer en worden gerangschikt in alfabetische volgorde naar de geslachtsnaam van de man, indien het een geregistreerd paar betreft, wordt de geslachtsnaam gekozen van die persoon wiens geslachtsnaam op grond van alfabetische volgorde het eerst in aanmerking komt. Het nummer van de kaart wordt op het omslag aangebracht.
 
 ##### Artikel 4
 
-De griffier is verplicht aan ieder kosteloos inzage van het register te verstrekken. Hij is voorts verplicht om - met inachtneming van het bij of krachtens de [Wet tarieven in burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0001852) bepaalde - aan ieder een uittreksel uit het register te verstrekken.
+De griffier is verplicht aan ieder kosteloos inzage van het register te verstrekken. Hij is voorts verplicht om - met inachtneming van het bij of krachtens de [Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899) bepaalde - aan ieder een uittreksel uit het register te verstrekken.
 
 ##### Artikel 5
 
