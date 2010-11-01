@@ -4,7 +4,7 @@ identifier: "BWBR0014438"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-08-17"
-last_updated: "2003-01-01"
+last_updated: "2010-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014438"
 soort: "AMvB"
@@ -56,13 +56,13 @@ Voor een inschrijving in het boedelregister, bedoeld in [artikel 186 van Boek 4 
 
 - c. ter inschrijving van een notaris die betrokken is bij de afwikkeling van een nalatenschap, als bedoeld in [artikel 186 lid 2 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=186): de schriftelijke mededeling terzake van de desbetreffende notaris;
 
-- d. ter inschrijving van de verklaring houdende zuivere aanvaarding of aanvaarding onder het voorrecht van boedelbeschrijving dan wel verwerping van een nalatenschap, als bedoeld in [artikel 191 lid 1 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=191): de in [artikel 3 lid 1 eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0014438&artikel=3&z=2003-01-01&g=2003-01-01) bedoelde akte, alsmede de volmacht, indien deze akte bij volmacht wordt ondertekend;
+- d. ter inschrijving van de verklaring houdende zuivere aanvaarding of aanvaarding onder het voorrecht van boedelbeschrijving dan wel verwerping van een nalatenschap, als bedoeld in [artikel 191 lid 1 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=191): de in [artikel 3 lid 1 eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0014438&artikel=3&z=2010-11-01&g=2010-11-01) bedoelde akte, alsmede de volmacht, indien deze akte bij volmacht wordt ondertekend;
 
 - e. ter inschrijving van de beschikking, onder vermelding van de daarvan gedane betekening, bedoeld in [artikel 192 lid 2 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=192): een authentiek afschrift van de beschikking, alsmede het exploot van betekening;
 
 - f. ter inschrijving van de verlenging van de termijnen, bedoeld in de [artikelen 192 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=192) en [193 lid 1 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=193): een authentiek afschrift van de beschikking;
 
-- g. ter inschrijving van de verklaring van beneficiaire aanvaarding of van verwerping door een wettelijke vertegenwoordiger van een erfgenaam, als bedoeld in [artikel 193 lid 1 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=193): de in [artikel 3 lid 1 tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0014438&artikel=3&z=2003-01-01&g=2003-01-01) bedoelde akte alsmede de volmacht, indien deze akte bij volmacht wordt ondertekend, en voorts, in het geval van verwerping, een authentiek afschrift van de beschikking houdende machtiging van de kantonrechter;
+- g. ter inschrijving van de verklaring van beneficiaire aanvaarding of van verwerping door een wettelijke vertegenwoordiger van een erfgenaam, als bedoeld in [artikel 193 lid 1 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=193): de in [artikel 3 lid 1 tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0014438&artikel=3&z=2010-11-01&g=2010-11-01) bedoelde akte alsmede de volmacht, indien deze akte bij volmacht wordt ondertekend, en voorts, in het geval van verwerping, een authentiek afschrift van de beschikking houdende machtiging van de kantonrechter;
 
 - h. ter inschrijving van het verlopen zijn van de termijn waardoor de nalatenschap als door de erfgenaam beneficiair aanvaard geldt, als bedoeld in [artikel 193 lid 2 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=193): een authentiek afschrift van de beschikking;
 
@@ -76,7 +76,7 @@ Voor een inschrijving in het boedelregister, bedoeld in [artikel 186 van Boek 4 
 
 ##### Artikel 2
 
-De in [artikel 1, onder b, f, h en k](https://wetten.overheid.nl/jci1.3:c:BWBR0014438&artikel=1&z=2003-01-01&g=2003-01-01) bedoelde feiten worden door de griffier ambtshalve in het boedelregister ingeschreven.
+De in [artikel 1, onder b, f, h en k](https://wetten.overheid.nl/jci1.3:c:BWBR0014438&artikel=1&z=2010-11-01&g=2010-11-01) bedoelde feiten worden door de griffier ambtshalve in het boedelregister ingeschreven.
 
 ##### Artikel 3
 
@@ -86,7 +86,7 @@ De in [artikel 1, onder b, f, h en k](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ##### Artikel 4
 
-In het boedelregister worden uitsluitend in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014438&artikel=1&z=2003-01-01&g=2003-01-01) genoemde feiten ingeschreven die betrekking hebben op nalatenschappen van erflaters die hun laatste woonplaats hebben in het arrondissement van de desbetreffende rechtbank. Kan een feit niet op grond van de eerste volzin worden ingeschreven, dan wordt het ingeschreven in het boedelregister, gehouden door de griffier van de rechtbank te 's-Gravenhage.
+In het boedelregister worden uitsluitend in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014438&artikel=1&z=2010-11-01&g=2010-11-01) genoemde feiten ingeschreven die betrekking hebben op nalatenschappen van erflaters die hun laatste woonplaats hebben in het arrondissement van de desbetreffende rechtbank. Kan een feit niet op grond van de eerste volzin worden ingeschreven, dan wordt het ingeschreven in het boedelregister, gehouden door de griffier van de rechtbank te 's-Gravenhage.
 
 ##### Artikel 5
 
@@ -96,15 +96,15 @@ In het boedelregister worden uitsluitend in [artikel 1](https://wetten.overheid.
 
 ##### Artikel 6
 
-De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014438&artikel=1&z=2003-01-01&g=2003-01-01) genoemde stukken die voor een inschrijving in het boedelregister dienen te worden overgelegd of ter beschikking dienen te staan, maken geen deel uit van het boedelregister. Zij worden ter griffie van de rechtbank zodanig bewaard, dat het verband met de op grond daarvan ingeschreven feiten kan worden gelegd.
+De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014438&artikel=1&z=2010-11-01&g=2010-11-01) genoemde stukken die voor een inschrijving in het boedelregister dienen te worden overgelegd of ter beschikking dienen te staan, maken geen deel uit van het boedelregister. Zij worden ter griffie van de rechtbank zodanig bewaard, dat het verband met de op grond daarvan ingeschreven feiten kan worden gelegd.
 
 ##### Artikel 7
 
-De griffier is verplicht aan eenieder kosteloos inzage in het boedelregister te verstrekken. Het verzoek daartoe dient op een bepaalde nalatenschap betrekking te hebben. De griffier is, met inachtneming van de vorige volzin, voorts verplicht om met betrekking tot een of meer der in het boedelregister ingeschreven en door de verzoeker aangegeven feiten, een uittreksel uit het boedelregister te verstrekken, zulks met inachtneming van het bij of krachtens de [Wet tarieven in burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0001852) bepaalde.
+De griffier is verplicht aan eenieder kosteloos inzage in het boedelregister te verstrekken. Het verzoek daartoe dient op een bepaalde nalatenschap betrekking te hebben. De griffier is, met inachtneming van de vorige volzin, voorts verplicht om met betrekking tot een of meer der in het boedelregister ingeschreven en door de verzoeker aangegeven feiten, een uittreksel uit het boedelregister te verstrekken, zulks met inachtneming van het bij of krachtens de [Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899) bepaalde.
 
 ##### Artikel 8
 
-Indien aan de griffier een verzoek als in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014438&artikel=7&z=2003-01-01&g=2003-01-01) bedoeld wordt gedaan en de nalatenschap voor het tijdstip van inwerkingtreding van dit besluit is opengevallen, gaat de griffier ambtshalve na of terzake van die nalatenschap feiten zijn ingeschreven in het daartoe bestemde register, bedoeld in [artikel 1070 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=1070) zoals dat voor genoemd tijdstip gold.
+Indien aan de griffier een verzoek als in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014438&artikel=7&z=2010-11-01&g=2010-11-01) bedoeld wordt gedaan en de nalatenschap voor het tijdstip van inwerkingtreding van dit besluit is opengevallen, gaat de griffier ambtshalve na of terzake van die nalatenschap feiten zijn ingeschreven in het daartoe bestemde register, bedoeld in [artikel 1070 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=1070) zoals dat voor genoemd tijdstip gold.
 
 ##### Artikel 9
 
