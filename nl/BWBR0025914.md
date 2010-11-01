@@ -4,7 +4,7 @@ identifier: "BWBR0025914"
 country: "nl"
 rank: "wet"
 publication_date: "2017-07-14"
-last_updated: "2009-06-10"
+last_updated: "2010-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025914"
 soort: "wet"
@@ -62,11 +62,11 @@ In deze wet wordt verstaan onder:
 
 ##### Artikel 3
 
-Op een geding betreffende een Europese geringe vordering is de [Wet tarieven in burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0001852) van overeenkomstige toepassing.
+Op een geding betreffende een Europese geringe vordering is de [Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899) van overeenkomstige toepassing.
 
 ##### Artikel 4
 
-1. Indien de kantonrechter eiser ervan in kennis heeft gesteld dat zijn vordering buiten het in artikel 2 van de verordening genoemde toepassingsgebied valt, kan eiser zijn vordering intrekken. Eiser doet hiervan schriftelijk mededeling aan de kantonrechter binnen 30 dagen na ontvangst van de kennisgeving van de kantonrechter. Het vast recht wordt in geval van intrekking niet gerestitueerd.
+1. Indien de kantonrechter eiser ervan in kennis heeft gesteld dat zijn vordering buiten het in artikel 2 van de verordening genoemde toepassingsgebied valt, kan eiser zijn vordering intrekken. Eiser doet hiervan schriftelijk mededeling aan de kantonrechter binnen 30 dagen na ontvangst van de kennisgeving van de kantonrechter. Het griffierecht wordt in geval van intrekking niet gerestitueerd.
 
 2. Indien een tegenvordering als bedoeld in artikel 5, zesde lid, van de verordening buiten het in artikel 2 van de verordening genoemde toepassingsgebied valt, is het eerste lid van overeenkomstige toepassing.
 
@@ -74,7 +74,7 @@ Op een geding betreffende een Europese geringe vordering is de [Wet tarieven in 
 
 ##### Artikel 5
 
-Bij de veroordeling van de in het ongelijk gestelde partij in de proceskosten zijn de [artikelen 238](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=238), [241](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=241), [242](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=242), [243](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=243) en [244 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=244) van overeenkomstige toepassing.
+Bij de veroordeling van de in het ongelijk gestelde partij in de proceskosten zijn de [artikelen 238](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=238), [241](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=241), [242](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=242) en [244 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=244) van overeenkomstige toepassing.
 
 ##### Artikel 6
 
