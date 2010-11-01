@@ -4,7 +4,7 @@ identifier: "BWBR0015325"
 country: "nl"
 rank: "wet"
 publication_date: "2017-12-23"
-last_updated: "2008-09-01"
+last_updated: "2010-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015325"
 soort: "wet"
@@ -73,7 +73,7 @@ In deze wet wordt verstaan onder «de verordening»: de [verordening (EG) nr. 44
 
 ##### Artikel 5
 
-Voor de toepassing van de [Wet tarieven in burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0001852) wordt de bij een rechtsmiddel ingestelde vordering geacht geen eis tot betaling van een bepaalde geldsom te zijn.
+Voor de toepassing van de [Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899) wordt de bij een rechtsmiddel ingestelde vordering geacht geen eis tot betaling van een bepaalde geldsom te zijn.
 
 ##### Artikel 6
 
