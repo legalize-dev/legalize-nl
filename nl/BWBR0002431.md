@@ -4,7 +4,7 @@ identifier: "BWBR0002431"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "1964-05-03"
+last_updated: "2010-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002431"
 soort: "wet"
@@ -49,7 +49,7 @@ Als Nederlandse rechterlijke autoriteiten, bedoeld in artikel 1, eerste lid onde
 
 ##### Artikel 3
 
-De kosten, waarvan ingevolge artikel 3, derde of vijfde lid, van het verdrag door de Bondsrepubliek Duitsland opgave wordt gedaan, worden in rekening gebracht aan degene te wiens verzoeke de Officier van Justitie de mededeling van stukken heeft aangevraagd. De [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0001852&artikel=22) tot en met [26 van de Wet tarieven in burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0001852&artikel=26) (**Stb.** 1843, 37, 38, 39, 40, 66 en 67) zijn van overeenkomstige toepassing.
+De kosten, waarvan ingevolge artikel 3, derde of vijfde lid, van het verdrag door de Bondsrepubliek Duitsland opgave wordt gedaan, worden in rekening gebracht aan degene te wiens verzoeke de Officier van Justitie de mededeling van stukken heeft aangevraagd. [Artikel 30 van de Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&artikel=30) is van overeenkomstige toepassing.
 
 ##### Artikel 4
 
