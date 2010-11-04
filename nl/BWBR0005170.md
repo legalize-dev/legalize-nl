@@ -4,7 +4,7 @@ identifier: "BWBR0005170"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-06-20"
-last_updated: "2008-08-01"
+last_updated: "2010-11-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005170"
 soort: "AMvB"
@@ -44,23 +44,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Als de autoriteiten, bedoeld in [artikel 16, eerste lid, van de Prijzennoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=16) (**Stb.** 1984, 575) worden, met de titel van economisch commissaris, aangewezen de secretarissen, dan wel, in gevallen waarin bij de betrokken Kamer meer dan een secretaris is benoemd, de algemeen secretarissen van de hierna genoemde Kamers van Koophandel en Fabrieken. Ieder van hen oefent de in [artikel 16, eerste lid, van de Prijzennoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=16) bedoelde bevoegdheden slechts uit in het gebied dat hierna is vermeld bij de Kamer waarvan hij secretaris of algemeen secretaris is:
-
-| Kamer van Koophandel en Fabrieken voor: | gebied: |
-| --- | --- |
-| 1. Groningen: | de provincie Groningen; |
-| 2. Friesland: | de provincie Friesland; |
-| 3. Drenthe: | de provincie Drenthe; |
-| 4. Noordelijk Overijssel: | de provincie Overijssel; |
-| 5. Midden-Gelderland: | de provincie Gelderland; |
-| 6. Flevoland: | de provincie Flevoland; |
-| 7. Utrecht en omstreken: | de provincie Utrecht; |
-| 8. Amsterdam: | de provincie Noord-Holland; |
-| 9. Rotterdam en de Beneden-Maas: | de provincie Zuid-Holland; |
-| 10. Midden- en Noord-Zeeland: | de provincie Zeeland met uitzondering van Zeeuwsch Vlaanderen; |
-| 11. Zeeuwsch-Vlaanderen: | Zeeuwsch-Vlaanderen; |
-| 12. Midden-Brabant: | de provincie Noord-Brabant; |
-| 13. Maastricht en omstreken: | de provincie Limburg. |
+Als de autoriteiten, bedoeld in [artikel 16, eerste lid, van de Prijzennoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=16) worden, met de titel van economisch commissaris aangewezen de directeuren van de kamers van koophandel en fabrieken, ieder voor het gebied waarvoor de kamer van koophandel en fabrieken waarvan hij directeur is op grond van [artikel 2 van het Besluit instelling, gebiedsindeling en bestuursgrootte kamers van koophandel en fabrieken](https://wetten.overheid.nl/jci1.3:c:BWBR0009277&artikel=2) is ingesteld.
 
 ##### Artikel 2
 
@@ -74,27 +58,25 @@ Als de autoriteiten, bedoeld in [artikel 16, tweede lid, van de Prijzennoodwet](
 
 - d. Financiën: de voorzitters van de managementteams van de Belastingdienst/Douane;
 
-- e. Defensie: de provinciale militaire commandanten, ieder voor het gebied dat in [artikel 3 van het Besluit gezagsgebieden militaire gezagsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0003915&artikel=3) (**Stb.** 1986, 58) als zijn gezagsgebied is vastgesteld;
+- e. **Defensie:** de regionale militaire commandanten, ieder voor het gezagsgebied waarvoor hij is aangesteld;
 
-- f. Verkeer en Waterstaat: de rijkshoofdinspecteurs van het verkeer, ieder voor het district aan het hoofd waarvan hij is gesteld en dat is vastgesteld bij artikel 3 van de beschikking van de Minister van Verkeer en Waterstaat van 5 januari 1983, nr. WBJ/V20 012 (**Stcrt.** 7);
+- f. **Verkeer en Waterstaat:** de hoofdingenieur-directeuren van de regionale diensten van het directoraat-generaal Rijkswaterstaat, ingesteld krachtens [artikel 8 van het Organiek Besluit Rijkswaterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0002743&artikel=8), ieder voor het gezagsgebied van de regionale dienst waarvoor hij is aangesteld;
 
 - g. Welzijn, Volksgezondheid en Cultuur: de regionale geneeskundige inspecteurs van de volksgezondheid, ieder voor het gebied dat ingevolge artikel 1 van het koninklijk besluit van 20 januari 1964 (**Stb.** 25) tot vaststelling van de ambtsgebieden van de regionale inspecteurs van de volksgezondheid als zijn ambtsgebied is vastgesteld.
 
 ##### Artikel 3
 
-1. De in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=1&z=2008-08-01&g=2008-08-01) en [2, onder d tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=2&z=2008-08-01&g=2008-08-01), genoemde autoriteiten verrichten hun taak zoveel mogelijk na overleg met de commissaris van de Koning van de provincie waarin het in die artikelen voor hen aangewezen gebied is gelegen, en zij verstrekken deze op diens verzoek inlichtingen over het door hen gevoerde en te voeren beleid.
+1. De in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=1&z=2010-11-04&g=2010-11-04) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=2&z=2010-11-04&g=2010-11-04) aangewezen autoriteiten oefenen de krachtens [artikel 16 van de Prijzennoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=16) gemandateerde bevoegdheden zoveel mogelijk uit na overleg met de voorzitters van de veiligheidsregio’s die binnen het gezagsgebied van de betrokken autoriteit zijn gelegen.
 
-2. De commissaris van de Koning verricht zijn taak krachtens de aanwijzing in [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=2&z=2008-08-01&g=2008-08-01), zoveel mogelijk na overleg met het College van procureurs-generaal.
+2. De commissaris van de Koning verricht zijn taak krachtens de aanwijzing in [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=2&z=2010-11-04&g=2010-11-04), zoveel mogelijk na overleg met het College van procureurs-generaal.
 
 ##### Artikel 4
 
-De in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=1&z=2008-08-01&g=2008-08-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=2&z=2008-08-01&g=2008-08-01) genoemde autoriteiten maken de regelingen die zij hebben vastgesteld krachtens de [Prijzennoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003734), de [Distributiewet 1939](https://wetten.overheid.nl/jci1.3:c:BWBR0001997) (**Stb.** 633), de [Hamsterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002389) (**Stb.** 1962, 542), de [Vorderingswet 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002393) (**Stb.** 587) en de [artikelen 1:4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:4), en [3:1 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=3:1) zo mogelijk bekend in een of meer in het betrokken gebied verschijnende dag- of weekbladen. De regelingen treden niet in werking alvorens zij, op die wijze, dan wel indien dit niet mogelijk is, op een andere door hen bepaalde wijze, zijn bekendgemaakt.
+De in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=1&z=2010-11-04&g=2010-11-04) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=2&z=2010-11-04&g=2010-11-04) genoemde autoriteiten maken de regelingen die zij hebben vastgesteld krachtens de [Prijzennoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003734), de [Distributiewet 1939](https://wetten.overheid.nl/jci1.3:c:BWBR0001997) (**Stb.** 633), de [Hamsterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002389) (**Stb.** 1962, 542), de [Vorderingswet 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002393) (**Stb.** 587) en de [artikelen 1:4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:4), en [3:1 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=3:1) zo mogelijk bekend in een of meer in het betrokken gebied verschijnende dag- of weekbladen. De regelingen treden niet in werking alvorens zij, op die wijze, dan wel indien dit niet mogelijk is, op een andere door hen bepaalde wijze, zijn bekendgemaakt.
 
 ##### Artikel 5
 
-1. Zodra de verbinding tussen Onze betrokken Ministers en een gebied, waarmee de verbinding verbroken was, is hersteld, doet Onze Minister van Economische Zaken daarvan mededeling aan de desbetreffende bij de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=1&z=2008-08-01&g=2008-08-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=2&z=2008-08-01&g=2008-08-01) aangewezen autoriteiten. Een dergelijke mededeling wordt tevens bekendgemaakt in de Staatscourant.
-
-2. Zo spoedig mogelijk na de bekendmaking van de in het eerste lid bedoelde mededeling leggen de betrokken, bij de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=1&z=2008-08-01&g=2008-08-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0005170&artikel=2&z=2008-08-01&g=2008-08-01) aangewezen, autoriteiten aan Onze minister wiens bevoegdheden zij hebben uitgeoefend rekening en verantwoording af van al hetgeen zij in de uitoefening van die bevoegdheden hebben verricht.
+Vervallen
 
 ##### Artikel 6
 
