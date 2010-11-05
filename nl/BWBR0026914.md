@@ -4,7 +4,7 @@ identifier: "BWBR0026914"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-05-04"
-last_updated: "2010-10-21"
+last_updated: "2010-11-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026914"
 soort: "ministeriele-regeling"
@@ -55,7 +55,7 @@ Besluit:
 | 1.1 | Subsidieregeling starten, groeien en overdragen van ondernemingen (borgstelling MKB-kredieten) | 2.3 | Bedrijfsborgstellingskredieten | 01-01 t/m 31-12 | 805.000.000 |
 | 1.2 | Subsidieregeling starten, groeien en overdragen van ondernemingen (borgstelling MKB-kredieten) | 2.3 | Bodemsaneringsborgstellingskredieten | 01-01 t/m 31-12 | 65.344.122 |
 | 1.3 | Subsidieregeling starten, groeien en overdragen van ondernemingen (groeifaciliteit) | 3.2 |   | 01-01 t/m 31-12 | 170.000.000 |
-| 1.4 | Subsidieregeling starten, groeien en overdragen van ondernemingen (Tijdelijke garantie ondernemingsfinanciering en Garantstelling gericht op bankgaranties) | – 3.12b – 3.12v |   | – 01-01 t/m 31-12 – 08-03 t/m 31-12 | 500.000.000 |
+| 1.4 | vervallen. |   |   |   |   |
 | 1.5 | vervallen. |   |   |   |   |
 | 1.6 | Subsidieregeling starten, groeien en overdragen van ondernemingen (seed capital technostarters) | 4.3 |   | 01-01 t/m 31-03 05-08 t/m 30-09 | 12.000.000 10.000.000 |
 | 1.7 | Subsidieregeling Starten, groeien en overdragen van ondernemingen (Valorisatieprogramma) | 5.2 |   | 1-6 t/m 31-12 | € 25.000.000 |
@@ -199,6 +199,8 @@ Besluit:
 | 7. | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) (IOP’s) | 3.2 | Maritiem (periode vooraanmelding) | 04-10-2010 t/m 29-10-2010 | – |
 |   |   |   | Maritiem (Offshore) | 31-01-2011 t/m 25-02-2011 | 1.075.000 |
 | 8. | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902) (Tijdelijke garantie ondernemingsfaciliteit curatieve zorg) | 3.12m |   | 01-01-2010 t/m 31-12-2011 | 250.000.000 |
+| 9. | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902) (Tijdelijke garantie ondernemingsfinanciering en Garantstelling gericht op bankgaranties) | – 3.12b |   | –01-01-2010 t/m 31-12-2011 | 1.258.607.000 |
+|   |   | – 3.12v |   | –08-03-2010 t/m 31-12-2011 |   |
 
 ##### Artikel 3
 
