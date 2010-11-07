@@ -4,7 +4,7 @@ identifier: "BWBR0008023"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2010-10-01"
+last_updated: "2010-11-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008023"
 soort: "ministeriele-regeling"
@@ -9403,10 +9403,6 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | Registratienummer | Artikelnaam |   |
 | 31138 | Pamorelin injpdr flacon 11,25mg + solvens 2ml |   |
 | 34737 | Salvacyl injectiepoeder 11,25mg + solvens 2ml |   |
-| Productgroep |   | Maximumprijs |
-| TRIPTORELIN-3.75-MG-POED. V. INJECTIE, FLACON | TRIPTORELIN-3.75-MG-POED. V. INJECTIE, FLACON | 135.15562500 per stuk |
-| Registratienummer | Artikelnaam |   |
-| 33849 | Pamorelin injpdr flacon 3,75mg + solvens 2ml |   |
 | Productgroep |   | Maximumprijs |
 | TRIPTORELIN-3.75-MG-POED. V. INJECTIE, WWSP | TRIPTORELIN-3.75-MG-POED. V. INJECTIE, WWSP | 121.78135700 per stuk |
 | Registratienummer | Artikelnaam |   |
