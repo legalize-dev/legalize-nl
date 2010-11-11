@@ -153,9 +153,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 Deze regeling wordt aangehaald als: Regeling toezichtsbevoegdheden functionarissen voor de gegevensbescherming OCW.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 15a. Nieuwe grondslag
-
-Deze regeling berust op artikel 37 van de Algemene verordening gegevensbescherming.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
