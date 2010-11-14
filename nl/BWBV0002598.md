@@ -4,7 +4,7 @@ identifier: "BWBV0002598"
 country: "nl"
 rank: "verdrag"
 publication_date: "2010-11-14"
-last_updated: "1988-04-12"
+last_updated: "2010-11-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0002598"
 soort: "verdrag"
@@ -149,21 +149,21 @@ Indien het voor de uitvoering van deze Overeenkomst noodzakelijk is de waarde va
 
 ##### Artikel 11. Gedekte risico's
 
-(a). Behoudens het bepaalde in de leden (b) en (c) hieronder kan het Agentschap de daarvoor in aanmerking komende investeringen garanderen tegen verliezen, voortvloeiend uit één of meer van de volgende risico's:
+(a). Behoudens het bepaalde in de leden (b) en (c) hieronder kan het Agentschap de daarvoor in aanmerking komende investeringen garanderen tegen verliezen, voortvloeiend uit één of meer van de volgende risico’s:
 
 - (i). **Overmaking van valuta** de invoering door het gastheerland van beperkingen inzake de overmaking van de valuta van het gastheerland naar het buitenland in een vrij bruikbare valuta of een andere valuta die aanvaardbaar is voor de houder van de garantie, daarbij inbegrepen een verzuim van de regering van het gastheerland om binnen een redelijke tijdsperiode te reageren op een verzoek van deze houder om deze overmaking;
 
-- (ii). **Onteigening en soortgelijke maatregelen** Een wettelijke of administratieve maatregel of nalatigheid van de zijde van de regering van het gastheerland die ertoe leidt dat de houder van een garantie wordt beroofd van de eigendom van of de zeggenschap over, of van een aanzienlijk voordeel uit, zijn investering, met uitzondering van niet-discriminatoire maatregelen voor algemene toepassing die regeringen gewoonlijk nemen ten behoeve van de regeling van de economische activiteit op hun grondgebied;
+- (ii). **Onteigening en soortgelijke maatregelen** een wettelijke of administratieve maatregel of nalatigheid van de zijde van de regering van het gastheerland die ertoe leidt dat de houder van een garantie wordt beroofd van de eigendom van of de zeggenschap over, of van een aanzienlijk voordeel uit, zijn investering, met uitzondering van niet-discriminatoire maatregelen voor algemene toepassing die regeringen gewoonlijk nemen ten behoeve van de regeling van de economische activiteit op hun grondgebied;
 
 - (iii). **Contractbreuk** een verwerping van of een inbreuk op een overeenkomst met de houder van een garantie door de regering van het gastheerland, indien (a) de houder van een garantie geen toegang heeft tot een gerechtelijke of scheidsrechterlijke instantie ter behandeling van de vordering wegens verwerping of inbreuk, of (b) een beslissing door deze instantie niet wordt genomen binnen de redelijke tijdsperiode die in de garantieovereenkomsten krachtens de voorschriften van het Agentschap wordt voorgeschreven, of (c) deze beslissing niet kan worden uitgevoerd; en
 
 - (iv). **Oorlog en burgerlijke onlusten** een militaire actie of burgerlijke onlusten op enig deel van het grondgebied van het gastheerland waarop deze Overeenkomst van toepassing is krachtens het bepaalde in artikel 66.
 
-(b). Na een gemeenschappelijk verzoek van de investeerder en het gastheerland kan het College, met een bijzondere meerderheid van stemmen, de uitbreiding van de dekking krachtens het bepaalde in dit artikel goedkeuren tot andere specifieke niet-commerciële risico's dan die welke in lid (a) zijn bedoeld, doch in geen geval tot het risico van devaluatie of waardevermindering van valuta.
+(b). Voorts kan het College met een bijzondere meerderheid van stemmen de uitbreiding van de dekking krachtens dit artikel tot andere specifieke niet-commerciële risico's dan die welke in lid (a) hierboven zijn bedoeld goedkeuren, doch in geen geval tot het risico van devaluatie of waardevermindering van valuta.
 
 (c). Verliezen worden niet gedekt, indien zij het gevolg zijn van:
 
-- (i). een maatregel of een verzuim van een regering van een gastheerland waarmede de houder van de garantie heeft ingestemd of waarvoor hij aansprakelijk is geweest; en
+- (i). een maatregel of een verzuim van een regering van een gastheerland waarmee de houder van de garantie heeft ingestemd of waarvoor hij aansprakelijk is geweest; en
 
 - (ii). een maatregel of een verzuim van de regering van een gastheerland of een andere gebeurtenis die plaats heeft gevonden vóór het sluiten van de garantieovereenkomst.
 
@@ -171,23 +171,33 @@ Indien het voor de uitvoering van deze Overeenkomst noodzakelijk is de waarde va
 
 (a). Investeringen die in aanmerking komen voor een garantie, omvatten mede deelnemingen in het aandelenkapitaal, met inbegrip van leningen op middellange en op lange termijn, gesloten of gegarandeerd door houders van aandelen in de betrokken onderneming, alsmede die vormen van rechtstreekse investering waartoe door het College wordt besloten.
 
-(b). Het College kan, met een bijzondere meerderheid van stemmen, de voor een garantie in aanmerking komende investeringen uitbreiden tot elke andere vorm van investering op middellange of lange termijn, met dien verstande dat andere leningen dan die welke in lid (a) zijn genoemd, slechts dan voor een garantie in aanmerking komen, indien zij betrekking hebben op een specifieke investering die door het Agentschap wordt gedekt of zal worden gedekt.
+(b). Leningen anders dan die genoemd in lid (a) komen in aanmerking voor een garantie indien (i) zij worden opgenomen ter financiering van of anderszins betrekking hebben op een specifieke investering of project waarbij sprake is van een andere vorm van rechtstreekse investering, ongeacht of deze door het Agentschap wordt gedekt en ongeacht het tijdstip waarop deze investering is gedaan, of (ii) al naargelang anderszins met een bijzondere meerderheid van stemmen door het College goedgekeurd.
 
-(c). Garanties worden beperkt tot investeringen waarvan de uitvoering begint na de inschrijving van het verzoek om garantieverlening door het Agentschap. Deze investeringen omvatten mede:
+(c). Het College kan, met een bijzondere meerderheid van stemmen, de voor een garantie in aanmerking komende investeringen uitbreiden tot elke andere vorm van investering op middellange of lange termijn.
 
-- (i). elke overmaking van buitenlandse valuta die geschiedt ten behoeve van de modernisering, de uitbreiding of de ontwikkeling van een bestaande investering; alsmede
+(d). Garanties worden over het algemeen beperkt tot investeringen waarvan de uitvoering begint na de inschrijving van het verzoek om garantieverlening door het Agentschap of ontvangst door het Agentschap van voldoende overig bewijs dat de investeerder voornemens is garanties van het Agentschap te verkrijgen. Dergelijke investeringen omvatten mede:
 
-- (ii). het gebruik van inkomsten uit bestaande investeringen die anders uit het gastheerland zouden kunnen worden overgemaakt naar het buitenland.
+- (i). een overmaking van buitenlandse valuta die geschiedt ten behoeve van de modernisering, de uitbreiding of de ontwikkeling van een bestaande investering, in welk geval zowel de oorspronkelijke investering als de aanvullende investering in aanmerking kan worden genomen voor een garantie;
 
-(d). Bij het verlenen van een garantie voor een investering overtuigt het Agentschap zich van:
+- (ii). het gebruik van inkomsten uit bestaande investeringen die anders uit het gastheerland zouden kunnen worden overgemaakt naar het buitenland;
 
-- (i). de economische gerechtvaardigdheid van de investering en van de bijdrage daarvan tot de ontwikkeling van het gastheerland;
+- (iii). de verwerving van een bestaande investering door een nieuwe investeerder die in aanmerking komt voor een garantie;
 
-- (ii). de overeenstemming van de investering met de wetten en voorschriften van het gastheerland;
+- (iv). bestaande investeringen waarbij een investeerder die in aanmerking komt voor een garantie tracht een combinatie van bestaande en nieuwe investeringen te verzekeren;
 
-- (iii). de verenigbaarheid van de investering met de vastgestelde ontwikkelingsdoeleinden en -prioriteiten van het gastheerland; alsmede
+- (v). bestaande investeringen die worden gehouden door een investeerder die in aanmerking komt voor een garantie waarbij sprake is van een verbetering of bevordering van het onderhavige project of waarbij de investeerder op andere wijze aantoont voor de middellange of lange termijn betrokken te zijn bij het project en het Agentschap zich ervan heeft overtuigd dat het project intensief zal blijven bijdragen aan de ontwikkeling in het gastheerland; en
 
-- (iv). de investeringsvoorwaarden in het gastheerland, met inbegrip van de mogelijkheid van billijke en onpartijdige behandeling en wettelijke bescherming voor de investering.
+- (vi). andere investeringen die door het College met een bijzondere meerderheid van stemmen worden goedgekeurd.
+
+(e). Bij het verlenen van een garantie voor een investering overtuigt het Agentschap zich ervan:
+
+- (i). of de investering economisch gerechtvaardigd is en in hoeverre deze bijdraagt aan de ontwikkeling van het gastheerland;
+
+- (ii). of de investering voldoet aan de wet- en regelgeving van het gastheerland;
+
+- (iii). of de investering beantwoordt aan de opgegeven ontwikkelingsdoeleinden en -prioriteiten van het gastheerland; en
+
+- (iv). of de investeringsvoorwaarden in het gastheerland voldoen en voorzien in een billijke en onpartijdige behandeling en wettelijke bescherming van de investering.
 
 ##### Artikel 13. Investeerders die in aanmerking komen voor een garantie
 
