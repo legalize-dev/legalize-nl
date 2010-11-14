@@ -4,7 +4,7 @@ identifier: "BWBR0028931"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-11-14"
-last_updated: "2009-11-21"
+last_updated: "2010-11-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028931"
 soort: "ministeriele-regeling"
@@ -98,11 +98,11 @@ In dit besluit wordt verstaan onder:
 
 - 2). Budgetverantwoordelijkheid Aan de regionaal directeur bedrijfsvoering wordt mandaat verleend om besluiten te nemen, stukken af te doen en brieven te ondertekenen voor zover deze de besteding en de uitputting van het budget betreffen met betrekking tot de arrondissementsparketten Dordrecht en Rotterdam, een en ander met inachtneming van het – via het jaarplan – aan de arrondissementsparketten Dordrecht en Rotterdam toegekende budget, de aanwijzingen die aan hem zijn gegeven door de voorzitter van het Bestuur, de nadere regelgeving als bedoeld in [artikel 3, derde en vierde lid van Mandaatbesluit openbaar ministerie (arrondissementsparketten) 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027872&artikel=3) en de voor het budgethouderschap geldende voorschriften.
 
-- 3). Beheermandaat (dagelijkse gang van zaken) Aan de regionaal directeur bedrijfsvoering wordt mandaat verleend, tenzij bij wettelijk voorschrift anders is bepaald of de aard van de bevoegdheid zich daartegen verzet, om besluiten te nemen, stukken af te doen en uitgaande brieven te ondertekenen die betrekking hebben op de bedrijfsvoering met uitzondering van de besluiten als bedoeld in [artikel 3, tweede lid, aanhef, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0028931&paragraaf=2&artikel=3&z=2010-11-14&g=2009-11-21).
+- 3). Beheermandaat (dagelijkse gang van zaken) Aan de regionaal directeur bedrijfsvoering wordt mandaat verleend, tenzij bij wettelijk voorschrift anders is bepaald of de aard van de bevoegdheid zich daartegen verzet, om besluiten te nemen, stukken af te doen en uitgaande brieven te ondertekenen die betrekking hebben op de bedrijfsvoering met uitzondering van de besluiten als bedoeld in [artikel 3, tweede lid, aanhef, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0028931&paragraaf=2&artikel=3&z=2010-11-14&g=2010-11-14).
 
 - 4). Personeelsmandaat Aan de regionaal directeur bedrijfsvoering wordt mandaat verleend om:
 
-- a). Besluiten te nemen, stukken af te doen en brieven te ondertekenen, al dan niet met rechtspositionele gevolgen, voor zover het de ambtenaren aangaat met uitzondering van de besluiten en/of handelingen bedoeld in [artikel 3, tweede lid, aanhef, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0028931&paragraaf=2&artikel=3&z=2010-11-14&g=2009-11-21). Deze bevoegdheden worden uitgeoefend op basis van de geldende voorschriften, de vastgestelde formatie en het toegekende personele budget.
+- a). Besluiten te nemen, stukken af te doen en brieven te ondertekenen, al dan niet met rechtspositionele gevolgen, voor zover het de ambtenaren aangaat met uitzondering van de besluiten en/of handelingen bedoeld in [artikel 3, tweede lid, aanhef, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0028931&paragraaf=2&artikel=3&z=2010-11-14&g=2010-11-14). Deze bevoegdheden worden uitgeoefend op basis van de geldende voorschriften, de vastgestelde formatie en het toegekende personele budget.
 
 - b). Besluiten te nemen waarmee aan ambtenaren een schadeloosstelling wordt toegekend tot het bedrag van € 5.000,– op jaarbasis.
 
