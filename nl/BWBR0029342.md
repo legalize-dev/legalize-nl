@@ -4,7 +4,7 @@ identifier: "BWBR0029342"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2009-07-01"
+last_updated: "2010-11-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029342"
 soort: "wet"
@@ -45,7 +45,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ##### Artikel I
 
-Wijzigt de Wet inkomstenbelasting 2001.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IA
 
@@ -65,7 +65,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel V
 
@@ -129,7 +129,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XX
 
-Wijzigt de Invorderingswet 1990.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXI
 
