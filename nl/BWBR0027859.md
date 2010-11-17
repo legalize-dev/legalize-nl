@@ -4,7 +4,7 @@ identifier: "BWBR0027859"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-07-28"
-last_updated: "2010-07-07"
+last_updated: "2010-11-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027859"
 soort: "AMvB"
@@ -74,7 +74,7 @@ In dit besluit wordt verstaan onder:
 
 - k. **navorderingsaanslag:** een navorderingsaanslag als bedoeld in [artikel 16 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=16);
 
-- l. **ambtshalve vermindering:** een ambtshalve vermindering als bedoeld in [artikel 65 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=65) van een aanslag of navorderingsaanslag inkomstenbelasting.
+- l. **ambtshalve vermindering:** een ambtshalve vermindering als bedoeld in [artikel 9.6 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.6) van een aanslag of navorderingsaanslag inkomstenbelasting.
 
 ### Hoofdstuk 2. Tegemoetkoming specifieke zorgkosten
 
@@ -104,17 +104,17 @@ In dit besluit wordt verstaan onder:
 
 2. Indien zowel bij de belastingplichtige als bij zijn partner uitgaven voor specifieke zorgkosten in aanmerking zijn genomen, wordt de beschikking in afwijking van het eerste lid, tweede volzin, afgegeven aan degene met het hoogste verzamelinkomen. Indien het verzamelinkomen van de belastingplichtige en het verzamelinkomen van zijn partner aan elkaar gelijk zijn, wordt de beschikking afgegeven aan degene met de hoogste leeftijd.
 
-3. De inspecteur stelt de tegemoetkoming vast binnen zes maanden na het tijdstip waarop de aanslag inkomstenbelasting van de belastingplichtige onherroepelijk is geworden. Bij een gezamenlijke aanspraak als bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027859&hoofdstuk=2&artikel=2&z=2010-07-07&g=2010-07-07), stelt de inspecteur de tegemoetkoming vast binnen zes maanden na het tijdstip waarop zowel de aanslag inkomstenbelasting van de belastingplichtige als de aanslag inkomstenbelasting van zijn partner onherroepelijk zijn geworden. Indien ingevolge [artikel 9.4 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.4) geen aanslag inkomstenbelasting over het kalenderjaar aan de partner wordt opgelegd, stelt de inspecteur de tegemoetkoming bij een gezamenlijke aanspraak vast binnen zes maanden na het tijdstip waarop de aanslag inkomstenbelasting van de belastingplichtige onherroepelijk is geworden.
+3. De inspecteur stelt de tegemoetkoming vast binnen zes maanden na het tijdstip waarop de aanslag inkomstenbelasting van de belastingplichtige onherroepelijk is geworden. Bij een gezamenlijke aanspraak als bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027859&hoofdstuk=2&artikel=2&z=2010-11-17&g=2010-11-17), stelt de inspecteur de tegemoetkoming vast binnen zes maanden na het tijdstip waarop zowel de aanslag inkomstenbelasting van de belastingplichtige als de aanslag inkomstenbelasting van zijn partner onherroepelijk zijn geworden. Indien ingevolge [artikel 9.4 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.4) geen aanslag inkomstenbelasting over het kalenderjaar aan de partner wordt opgelegd, stelt de inspecteur de tegemoetkoming bij een gezamenlijke aanspraak vast binnen zes maanden na het tijdstip waarop de aanslag inkomstenbelasting van de belastingplichtige onherroepelijk is geworden.
 
 4. Ingeval de aanspraak op de tegemoetkoming eerst ontstaat als gevolg van een navorderingsaanslag of een ambtshalve vermindering, stelt de inspecteur de tegemoetkoming vast binnen zes maanden na het tijdstip waarop de navorderingsaanslag van de belastingplichtige onherroepelijk is geworden, onderscheidenlijk binnen zes maanden na de dagtekening van de beschikking inzake ambtshalve vermindering. Het derde lid, tweede en derde volzin, zijn hierbij van overeenkomstige toepassing.
 
 ##### Artikel 4
 
-1. Indien als gevolg van een navorderingsaanslag inkomstenbelasting of een ambtshalve vermindering blijkt dat de beschikking, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027859&hoofdstuk=2&artikel=3&z=2010-07-07&g=2010-07-07), ten onrechte of tot een onjuist bedrag is vastgesteld, stelt de inspecteur de tegemoetkoming, onder verrekening van de eerder vastgestelde tegemoetkoming, opnieuw bij beschikking vast binnen zes maanden na het tijdstip waarop de navorderingsaanslag onherroepelijk is geworden, onderscheidenlijk binnen zes maanden na de dagtekening van de beschikking inzake ambtshalve vermindering. Artikel 3, derde lid, tweede volzin, is hierbij van overeenkomstige toepassing.
+1. Indien als gevolg van een navorderingsaanslag inkomstenbelasting of een ambtshalve vermindering blijkt dat de beschikking, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027859&hoofdstuk=2&artikel=3&z=2010-11-17&g=2010-11-17), ten onrechte of tot een onjuist bedrag is vastgesteld, stelt de inspecteur de tegemoetkoming, onder verrekening van de eerder vastgestelde tegemoetkoming, opnieuw bij beschikking vast binnen zes maanden na het tijdstip waarop de navorderingsaanslag onherroepelijk is geworden, onderscheidenlijk binnen zes maanden na de dagtekening van de beschikking inzake ambtshalve vermindering. Artikel 3, derde lid, tweede volzin, is hierbij van overeenkomstige toepassing.
 
-2. Indien uit anderen hoofde dan bedoeld in het eerste lid blijkt dat de beschikking, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027859&hoofdstuk=2&artikel=3&z=2010-07-07&g=2010-07-07), ten onrechte of tot een onjuist bedrag is vastgesteld, stelt de inspecteur de tegemoetkoming opnieuw bij beschikking vast binnen een jaar na de dagtekening van de beschikking, bedoeld in artikel 3. De eerste volzin is niet van toepassing wanneer de inspecteur ten tijde van de vaststelling van de beschikking, bedoeld in artikel 3, bekend was of redelijkerwijs bekend had kunnen zijn met de feiten die aanleiding geven tot het opnieuw vaststellen van de tegemoetkoming, tenzij blijkt dat de belastingplichtige of zijn partner ter zake van deze feiten te kwader trouw is.
+2. Indien uit anderen hoofde dan bedoeld in het eerste lid blijkt dat de beschikking, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027859&hoofdstuk=2&artikel=3&z=2010-11-17&g=2010-11-17), ten onrechte of tot een onjuist bedrag is vastgesteld, stelt de inspecteur de tegemoetkoming opnieuw bij beschikking vast binnen een jaar na de dagtekening van de beschikking, bedoeld in artikel 3. De eerste volzin is niet van toepassing wanneer de inspecteur ten tijde van de vaststelling van de beschikking, bedoeld in artikel 3, bekend was of redelijkerwijs bekend had kunnen zijn met de feiten die aanleiding geven tot het opnieuw vaststellen van de tegemoetkoming, tenzij blijkt dat de belastingplichtige of zijn partner ter zake van deze feiten te kwader trouw is.
 
-3. Indien blijkt dat de beschikking, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027859&hoofdstuk=2&artikel=3&z=2010-07-07&g=2010-07-07), ten onrechte achterwege is gebleven, stelt de inspecteur de beschikking alsnog vast binnen acht weken nadat hij met dit feit bekend is geworden.
+3. Indien blijkt dat de beschikking, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027859&hoofdstuk=2&artikel=3&z=2010-11-17&g=2010-11-17), ten onrechte achterwege is gebleven, stelt de inspecteur de beschikking alsnog vast binnen acht weken nadat hij met dit feit bekend is geworden.
 
 4. Toepassing van het eerste, tweede en derde lid blijft achterwege indien:
 
@@ -128,13 +128,13 @@ De ontvanger is belast met de uitbetaling van een door de inspecteur vastgesteld
 
 ##### Artikel 6
 
-1. Indien een belastingplichtige bij wie over een kalenderjaar uitgaven voor specifieke zorgkosten in aanmerking zijn genomen zeven maanden na het tijdstip waarop de aanslag inkomstenbelasting over dat jaar onherroepelijk is geworden geen beschikking tegemoetkoming specifieke zorgkosten over dat jaar heeft ontvangen, en hij van mening is dat hij daar wel recht op heeft, kan hij binnen een jaar na het verstrijken van de genoemde termijn van zeven maanden een verzoek om toekenning van een tegemoetkoming indienen bij de inspecteur. Binnen acht weken na de ontvangst van het verzoek stelt de inspecteur met toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027859&hoofdstuk=2&artikel=3&z=2010-07-07&g=2010-07-07) een tegemoetkoming vast of wijst hij het verzoek bij beschikking af.
+1. Indien een belastingplichtige bij wie over een kalenderjaar uitgaven voor specifieke zorgkosten in aanmerking zijn genomen zeven maanden na het tijdstip waarop de aanslag inkomstenbelasting over dat jaar onherroepelijk is geworden geen beschikking tegemoetkoming specifieke zorgkosten over dat jaar heeft ontvangen, en hij van mening is dat hij daar wel recht op heeft, kan hij binnen een jaar na het verstrijken van de genoemde termijn van zeven maanden een verzoek om toekenning van een tegemoetkoming indienen bij de inspecteur. Binnen acht weken na de ontvangst van het verzoek stelt de inspecteur met toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027859&hoofdstuk=2&artikel=3&z=2010-11-17&g=2010-11-17) een tegemoetkoming vast of wijst hij het verzoek bij beschikking af.
 
 2. In afwijking in zoverre van het eerste lid geldt bij een gezamenlijke aanspraak een termijn van zeven maanden na het tijdstip waarop zowel de aanslag inkomstenbelasting van de belastingplichtige als de aanslag inkomstenbelasting van zijn partner onherroepelijk zijn geworden. Indien ingevolge [artikel 9.4 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.4) geen aanslag inkomstenbelasting over het kalenderjaar aan de partner wordt opgelegd, geldt bij een gezamenlijke aanspraak een termijn van zeven maanden na het tijdstip waarop de aanslag van de belastingplichtige onherroepelijk is geworden.
 
 3. Ingeval de aanspraak op de tegemoetkoming eerst ontstaat als gevolg van een navorderingsaanslag of een ambtshalve vermindering, zijn het eerste en tweede lid van overeenkomstige toepassing, met dien verstande dat de termijn voor het indienen van het verzoek om toekenning van een tegemoetkoming in dat geval aanvangt zeven maanden na het tijdstip waarop de navorderingsaanslag inkomstenbelasting over dat jaar onherroepelijk is geworden onderscheidenlijk zeven maanden na de dagtekening van de beschikking inzake de ambtshalve vermindering.
 
-4. Het eerste, tweede en derde lid zijn van overeenkomstige toepassing met betrekking tot het niet toepassen van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027859&hoofdstuk=2&artikel=4&z=2010-07-07&g=2010-07-07).
+4. Het eerste, tweede en derde lid zijn van overeenkomstige toepassing met betrekking tot het niet toepassen van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027859&hoofdstuk=2&artikel=4&z=2010-11-17&g=2010-11-17).
 
 ##### Artikel 7
 
@@ -162,7 +162,7 @@ Wijzigt het Besluit op de huurtoeslag.
 
 ##### Artikel 12
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt met uitzondering van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0027859&hoofdstuk=3&artikel=8&z=2010-07-07&g=2010-07-07) terug tot en met 1 januari 2009.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt met uitzondering van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0027859&hoofdstuk=3&artikel=8&z=2010-11-17&g=2010-11-17) terug tot en met 1 januari 2009.
 
 ##### Artikel 13
 
