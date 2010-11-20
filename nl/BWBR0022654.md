@@ -4,7 +4,7 @@ identifier: "BWBR0022654"
 country: "nl"
 rank: "wet"
 publication_date: "2010-11-20"
-last_updated: "2009-07-15"
+last_updated: "2010-11-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022654"
 soort: "wet"
@@ -59,7 +59,7 @@ Wijzigt de Wet op de economische delicten.
 
 1. Na de inwerkingtreding van deze wet berusten het [Besluit rendementseisen cv-ketels](https://wetten.overheid.nl/jci1.3:c:BWBR0005828), het [Besluit energie-efficiëntienormen koel- en vriesapparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0008756) en het [Besluit energierendementseisen voorschakelapparaten voor fluorescentielampen](https://wetten.overheid.nl/jci1.3:c:BWBR0012851) mede op [artikel 9.4.4, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.4.4).
 
-2. Cv-ketels, koel- en vriesapparatuur, voorschakelapparaten voor fluorescentielampen, waarop een van de in het eerste lid genoemde besluiten van toepassing is, worden aangemerkt als categorieën van energieverbruikende producten, aangewezen ingevolge [artikel 9.4.4, tweede lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.4.4).
+2. Cv-ketels, koel- en vriesapparatuur, voorschakelapparaten voor fluorescentielampen, waarop een van de in het eerste lid genoemde besluiten van toepassing is, worden aangemerkt als categorieën van energiegerelateerde producten, aangewezen ingevolge [artikel 9.4.4, tweede lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.4.4).
 
 ##### Artikel V
 
