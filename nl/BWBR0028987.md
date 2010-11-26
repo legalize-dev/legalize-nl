@@ -4,7 +4,7 @@ identifier: "BWBR0028987"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-12-31"
-last_updated: "2010-07-01"
+last_updated: "2010-11-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028987"
 soort: "AMvB"
@@ -88,7 +88,7 @@ Op de gerechtsauditeurs bij de Centrale Raad van Beroep onderscheidenlijk het Co
 
 ##### Artikel 3
 
-Bij regeling van Onze Minister van Veiligheid en Justitie worden regels gesteld met betrekking tot de overeenkomstige toepassing van het krachtens de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) bij ministeriële regeling bepaalde ten aanzien van de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028987&artikel=1&z=2010-11-26&g=2010-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0028987&artikel=2&z=2010-11-26&g=2010-07-01) bedoelde leden met rechtspraak belast en gerechtsauditeurs.
+Bij regeling van Onze Minister van Veiligheid en Justitie worden regels gesteld met betrekking tot de overeenkomstige toepassing van het krachtens de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) bij ministeriële regeling bepaalde ten aanzien van de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028987&artikel=1&z=2010-11-26&g=2010-11-26) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0028987&artikel=2&z=2010-11-26&g=2010-11-26) bedoelde leden met rechtspraak belast en gerechtsauditeurs.
 
 ##### Artikel 4
 
