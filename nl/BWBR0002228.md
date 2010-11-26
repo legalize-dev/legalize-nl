@@ -4,7 +4,7 @@ identifier: "BWBR0002228"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-01-01"
-last_updated: "1999-05-05"
+last_updated: "2010-11-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002228"
 soort: "AMvB"
@@ -168,7 +168,7 @@ Vervallen
 
 ##### Artikel 28b
 
-Van het afleggen van de eed of de belofte wordt een behoorlijke akte opgemaakt.
+Vervallen
 
 ##### Artikel 28c
 
@@ -180,7 +180,7 @@ Vervallen.
 
 ##### Artikel 30
 
-Zij die deel uitmaken van de Centrale Raad van Beroep of deze raad als griffier bijstaan, dragen hetzelfde costuum als de overeenkomstige ambtenaren van een gerechtshof.
+Zij die de Centrale Raad van Beroep als griffier bijstaan, dragen hetzelfde costuum als de overeenkomstige ambtenaren van een gerechtshof.
 
 ##### Artikel 31
 
@@ -188,7 +188,7 @@ De president roept, zo dikwijls hij zulks nodig acht, de Centrale Raad van Beroe
 
 ##### Artikel 31a
 
-De verdeling van werkzaamheden geschiedt volgens een rooster, vastgesteld door de president na overleg met de coördinerende vice-presidenten, de vice-presidenten en de raadsheren. Bij ontstentenis van degene die ingevolge de rooster met enige werkzaamheid is belast, wijst de president een vervanger aan.
+Vervallen
 
 ##### Artikel 32
 
