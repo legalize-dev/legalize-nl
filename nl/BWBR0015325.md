@@ -4,7 +4,7 @@ identifier: "BWBR0015325"
 country: "nl"
 rank: "wet"
 publication_date: "2017-12-23"
-last_updated: "2010-11-01"
+last_updated: "2010-11-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015325"
 soort: "wet"
@@ -92,5 +92,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 ##### Artikel 5a
 
 Deze wet is van overeenkomstige toepassing op de rechterlijke beslissingen, bedoeld in artikel 25, eerste lid, van de [verordening (EG) nr. 1346/2000](32000R1346) van de Raad van de Europese Unie van 29 mei 2000 betreffende insolventieprocedures (PbEG L 160).
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 6a
+
+De [artikelen 2–5](https://wetten.overheid.nl/jci1.3:c:BWBR0015325&artikel=2&z=2010-11-26&g=2010-11-26) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0015325&artikel=6&z=2010-11-26&g=2010-11-26) van deze wet strekken mede tot uitvoering van het op 30 oktober 2007 te Lugano tot stand gekomen verdrag betreffende de rechterlijke bevoegdheid, de erkenning en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken, met Protocollen, Verklaringen en Bijlagen (PBEU L 339) met dien verstande dat in deze artikelen voor «de verordening» het in dit artikel genoemde verdrag wordt gelezen.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
