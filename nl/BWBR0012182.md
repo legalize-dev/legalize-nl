@@ -4,7 +4,7 @@ identifier: "BWBR0012182"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-02-18"
-last_updated: "2005-12-31"
+last_updated: "2010-11-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012182"
 soort: "ministeriele-regeling"
@@ -70,7 +70,7 @@ De Dienst Wegverkeer te Zoetermeer wordt aangewezen als keuringsinstantie als be
 
 ##### Artikel 3
 
-De keuring, bedoeld in de [artikelen 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0012182&artikel=2&z=2005-12-31&g=2005-12-31), dan wel [3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0012182&artikel=3&z=2005-12-31&g=2005-12-31), van het besluit wordt verricht met inachtneming van [richtlijn 97/68](31997L0068) dan wel [richtlijn 2000/25](32000L0025).
+De keuring, bedoeld in de [artikelen 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0012182&artikel=2&z=2010-11-27&g=2010-11-27), dan wel [3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0012182&artikel=3&z=2010-11-27&g=2010-11-27), van het besluit wordt verricht met inachtneming van [richtlijn 97/68](31997L0068) dan wel [richtlijn 2000/25](32000L0025).
 
 ##### Artikel 4
 
@@ -155,6 +155,8 @@ De keuring, bedoeld in de [artikelen 2, onder a](https://wetten.overheid.nl/jci1
 6. In afwijking van het eerste lid kunnen motoren van de categorieën, bedoeld in het eerste lid, onderdelen h tot en met o, r en s, volgens de procedure, bedoeld in artikel 4, zesde lid, van [richtlijn 97/68](31997L0068), in de handel worden gebracht.
 
 7. Het eerste lid, onder q, is tot uiterlijk 1 januari 2014 niet van toepassing op motoren van de categorie, bedoeld in dat onderdeel, indien met betrekking tot de betreffende motorcategorie of motorfamilie een koopcontract is afgesloten vóór 20 mei 2004.
+
+8. In afwijking van het eerste en vierde lid houdt voor heggenscharen en kettingzagen voor snoeiwerkzaamheden, bedoeld in artikel 9bis, zevende lid, laatste alinea, van richtlijn 97/68, de goedkeuring, bedoeld in [artikel 3, onder a of c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012169&artikel=3), op te gelden en het goedkeuringscertificaat, bedoeld in dat artikel, onder b, op van kracht te zijn op 31 juli 2013.
 
 ##### Artikel 6
 
