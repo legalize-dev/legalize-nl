@@ -4,7 +4,7 @@ identifier: "BWBR0028988"
 country: "nl"
 rank: "kb"
 publication_date: "2010-11-27"
-last_updated: "2010-10-14"
+last_updated: "2010-11-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028988"
 soort: "KB"
@@ -54,7 +54,7 @@ De taken van het ministerie van Economische Zaken, Landbouw en Innovatie en van 
 
 ##### Artikel 3
 
-De organisatorische, personele en rechtspositionele aspecten van de in [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028988&artikel=1&z=2010-11-27&g=2010-10-14) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0028988&artikel=2&z=2010-11-27&g=2010-10-14) bedoelde herindeling van departementale taken worden uitgewerkt in overleg tussen Onze Minister van Economische Zaken, Landbouw en Innovatie, Onze Minister van Infrastructuur en Milieu en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
+De organisatorische, personele en rechtspositionele aspecten van de in [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028988&artikel=1&z=2010-11-27&g=2010-11-27) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0028988&artikel=2&z=2010-11-27&g=2010-11-27) bedoelde herindeling van departementale taken worden uitgewerkt in overleg tussen Onze Minister van Economische Zaken, Landbouw en Innovatie, Onze Minister van Infrastructuur en Milieu en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ##### Artikel 4
 
