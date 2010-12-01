@@ -4,7 +4,7 @@ identifier: "BWBV0005016"
 country: "nl"
 rank: "verdrag"
 publication_date: "2010-12-01"
-last_updated: "2007-07-24"
+last_updated: "2010-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005016"
 soort: "verdrag"
@@ -154,7 +154,7 @@ Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen d
 
 2. Dit protocol treedt in werking op de eerste dag van de eerste maand volgende op de maand waarin alle partijen elkaar in kennis hebben gesteld van de voltooiing van de daartoe vereiste procedures.
 
-3. Onverminderd lid 2 komen de Gemeenschap en Chili overeen de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005016&afdeling=II&artikel=2&z=2007-07-24&g=2007-07-24), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0005016&afdeling=II&artikel=3&z=2007-07-24&g=2007-07-24), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0005016&afdeling=II&artikel=4&z=2007-07-24&g=2007-07-24) en [9](https://wetten.overheid.nl/jci1.3:c:BWBV0005016&afdeling=IV&artikel=9&z=2007-07-24&g=2007-07-24) van dit protocol voorlopig toe te passen vanaf 1 januari 2007.
+3. Onverminderd lid 2 komen de Gemeenschap en Chili overeen de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005016&afdeling=II&artikel=2&z=2010-12-01&g=2010-12-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0005016&afdeling=II&artikel=3&z=2010-12-01&g=2010-12-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0005016&afdeling=II&artikel=4&z=2010-12-01&g=2010-12-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBV0005016&afdeling=IV&artikel=9&z=2010-12-01&g=2010-12-01) van dit protocol voorlopig toe te passen vanaf 1 januari 2007.
 
 4. Deze kennisgeving wordt gericht aan de secretaris-generaal van de Raad van de Europese Unie, die depositaris van dit Protocol is.
 
@@ -168,4 +168,4 @@ Binnen drie maanden na de ondertekening van dit protocol zal de Europese Gemeens
 
 ##### Artikel 12
 
-Dit protocol vormt een integrerend onderdeel van de [Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001575). De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBV0005016&bijlage=I&z=2007-07-24&g=2007-07-24) bij dit protocol vormen een integrerend onderdeel daarvan.
+Dit protocol vormt een integrerend onderdeel van de [Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001575). De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBV0005016&bijlage=I&z=2010-12-01&g=2010-12-01) bij dit protocol vormen een integrerend onderdeel daarvan.
