@@ -4,7 +4,7 @@ identifier: "BWBR0030122"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-01-01"
-last_updated: "2009-07-01"
+last_updated: "2010-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030122"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling willekeurige afschrijving 2001.
 
 ##### Artikel III
 
