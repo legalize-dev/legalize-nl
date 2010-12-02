@@ -4,7 +4,7 @@ identifier: "BWBR0027683"
 country: "nl"
 rank: "zbo"
 publication_date: "2011-02-01"
-last_updated: "2010-08-02"
+last_updated: "2010-12-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027683"
 soort: "zbo"
@@ -88,9 +88,9 @@ Het bestuur van de Stichting Participatiefonds voor het Onderwijs besluit, gelet
 
 - 24. **Onderwijsassistent in opleiding:** de functie als bedoeld in artikel 3.27 en 4.26 CAO-PO.
 
-- 25. **Onderwijspersoneel:** directieleden, leraren en onderwijsondersteunend personeel in dienstbetrekking bij het bevoegd gezag als hierboven bedoeld.
+- 25. **Onderwijspersoneel:** Directieleden, leraren en onderwijsondersteunend personeel in dienstbetrekking bij het bevoegd gezag als hierboven bedoeld en leden van het bestuur van die scholen die zijn benoemd door een raad van toezicht als bedoeld in [artikel 17c, derde lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=17c), voor zover die leden mede zijn benoemd op basis van een arbeidsovereenkomst of een akte van aanstelling.
 
-- 26. **Ontslag:** beëindiging van een dienstverband voor onbepaalde tijd. Het eindigen of de beëindiging van een dienstverband voor bepaalde tijd, of een tijdelijke uitbreiding van een (vast) dienstverband, wordt ongeacht de reden met ontslag gelijkgesteld. Voor de toepassing van dit Reglement wordt met ontslag niet gelijkgesteld: In beide situaties behoeft geen melding bij het Participatiefonds te worden gedaan. Indien er echter sprake is van een rappel als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=3&z=2010-02-01&g=2010-08-02), wordt ook het einde van een vervangingsbetrekking waaraan geen reguliere aanstelling vooraf is gegaan, en een ontslag op eigen verzoek van betrokkene, met ontslag gelijk gesteld en dient melding bij het Participatiefonds plaats te vinden.
+- 26. **Ontslag:** beëindiging van een dienstverband voor onbepaalde tijd. Het eindigen of de beëindiging van een dienstverband voor bepaalde tijd, of een tijdelijke uitbreiding van een (vast) dienstverband, wordt ongeacht de reden met ontslag gelijkgesteld. Voor de toepassing van dit Reglement wordt met ontslag niet gelijkgesteld: In beide situaties behoeft geen melding bij het Participatiefonds te worden gedaan. Indien er echter sprake is van een rappel als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=3&z=2010-12-02&g=2010-12-02), wordt ook het einde van een vervangingsbetrekking waaraan geen reguliere aanstelling vooraf is gegaan, en een ontslag op eigen verzoek van betrokkene, met ontslag gelijk gesteld en dient melding bij het Participatiefonds plaats te vinden.
 
 - a. het eindigen van een vervangingsbetrekking waaraan geen reguliere aanstelling vooraf is gegaan;
 
@@ -136,11 +136,11 @@ Het bestuur van de Stichting Participatiefonds voor het Onderwijs besluit, gelet
 
 - 38. **Zij-instromers:** onbevoegden met een geschiktheidsverklaring als bedoeld in [artikel 162e WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=162e).
 
-### Toelichting op [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=2&artikel=2&z=2010-02-01&g=2010-08-02)
+### Toelichting op [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=2&artikel=2&z=2010-12-02&g=2010-12-02)
 
 ### 2. Andere gronden
 
-In de uitspraak van 26 augustus 1999, onder nummer E04.98.0149, heeft de Raad van State aangegeven dat een ontslag dat valt binnen de risicosfeer van het bevoegd gezag, reeds daarom niet onvermijdbaar kan worden geacht op grond van [artikel 9, lid h](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=9&z=2010-02-01&g=2010-08-02) van het reglement. Andere gronden welke bedoeld zijn in artikel 9, lid h van het reglement, zijn derhalve gronden welke vallen buiten de risicosfeer van het bevoegd gezag.
+In de uitspraak van 26 augustus 1999, onder nummer E04.98.0149, heeft de Raad van State aangegeven dat een ontslag dat valt binnen de risicosfeer van het bevoegd gezag, reeds daarom niet onvermijdbaar kan worden geacht op grond van [artikel 9, lid h](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=9&z=2010-12-02&g=2010-12-02) van het reglement. Andere gronden welke bedoeld zijn in artikel 9, lid h van het reglement, zijn derhalve gronden welke vallen buiten de risicosfeer van het bevoegd gezag.
 
 ### 9. Contractactiviteiten
 
@@ -148,11 +148,11 @@ Het kan hierbij gaan om cursussen waarvan de kosten niet ten laste komen van ’
 
 ### 11. Eigen beleid
 
-In de uitspraak van 17 augustus 1999, onder nummer E04.98.0131, heeft de Raad van State aangegeven dat van onvermijdbaar ontslag alleen sprake kan zijn indien het ontslag is verleend op grond van het bepaalde in de [artikelen 7 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-02-01&g=2010-08-02) van het reglement. De omstandigheid dat een ontslaggrond niet is opgenomen in het reglement heeft derhalve tot gevolg dat het ontslag niet als onvermijdbaar kan worden aangemerkt. Niet van belang is of op goede gronden tot het ontslag van betrokkene is besloten.
+In de uitspraak van 17 augustus 1999, onder nummer E04.98.0131, heeft de Raad van State aangegeven dat van onvermijdbaar ontslag alleen sprake kan zijn indien het ontslag is verleend op grond van het bepaalde in de [artikelen 7 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-12-02&g=2010-12-02) van het reglement. De omstandigheid dat een ontslaggrond niet is opgenomen in het reglement heeft derhalve tot gevolg dat het ontslag niet als onvermijdbaar kan worden aangemerkt. Niet van belang is of op goede gronden tot het ontslag van betrokkene is besloten.
 
 ### 13. Formatiebudget
 
-In [artikel 1.13](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=1&artikel=1&z=2010-02-01&g=2010-08-02) van het reglement staat omschreven welke gelden er in de formatie worden meegenomen, hierbij staat genoemd de aanvullende formatie in geld. Het budget voor personeels- en arbeidsmarktbeleid wordt hieronder begrepen en vormt als zodanig een onderdeel van de formatie.
+In [artikel 1.13](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=1&artikel=1&z=2010-12-02&g=2010-12-02) van het reglement staat omschreven welke gelden er in de formatie worden meegenomen, hierbij staat genoemd de aanvullende formatie in geld. Het budget voor personeels- en arbeidsmarktbeleid wordt hieronder begrepen en vormt als zodanig een onderdeel van de formatie.
 
 ### 20. Ingetrokken melding
 
@@ -176,7 +176,7 @@ Vervanging bij de volgende vormen van afwezigheid van onderwijspersoneel wordt g
 
 Het bevoegd gezag is verplicht, op de wijze zoals bepaald in de bestuursvoorschriften, een door het Participatiefonds te bepalen bijdrage te voldoen in verband met de kosten voor werkloosheidsuitkeringen, suppleties inzake arbeidsongeschiktheid alsmede uitkeringen wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888).
 
-### Toelichting op [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=2&artikel=2&z=2010-02-01&g=2010-08-02)
+### Toelichting op [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=2&artikel=2&z=2010-12-02&g=2010-12-02)
 
 Er zijn geen toelichtingen.
 
@@ -206,7 +206,7 @@ De fatale termijn blijft buiten toepassing:
 
 - a. Indien het gaat om het eindigen van een vervangingsbetrekking waaraan geen reguliere aanstelling vooraf is gegaan. Het bevoegd gezag toont in die gevallen door middel van het overleggen van een akte van aanstelling danwel een akte van benoeming aan dat er daadwerkelijk sprake is van de beëindiging van een vervangingsbetrekking.
 
-- b. Indien het gaat om een ontslag op eigen verzoek van betrokkene. Het bevoegd gezag toont aan dat voldaan is aan het bepaalde in [artikel 9i](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=9&z=2010-02-01&g=2010-08-02).
+- b. Indien het gaat om een ontslag op eigen verzoek van betrokkene. Het bevoegd gezag toont aan dat voldaan is aan het bepaalde in [artikel 9i](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=9&z=2010-12-02&g=2010-12-02).
 
 - c. Indien de termijnoverschrijding niet aan het bevoegd gezag is toe te rekenen.
 
@@ -226,7 +226,7 @@ Zonder tegenbericht wordt binnen 8 weken nadat de melding door het Participatief
 
 In het geval waarbij het Participatiefonds om aanvullende informatie heeft verzocht, wordt binnen 8 weken na het ontvangen van de aanvullende gegevens een beschikking gegeven.
 
-### Toelichting op [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=3&z=2010-02-01&g=2010-08-02)
+### Toelichting op [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=3&z=2010-12-02&g=2010-12-02)
 
 ### 3.2. Melden
 
@@ -240,7 +240,7 @@ De uitkeringsaanvraag wordt in deze gevallen geruime tijd na het ontslag uit de 
 
 ### 3.3.1. Fatale termijn
 
-De termijn van [artikel 3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=3&z=2010-02-01&g=2010-08-02) is ook van toepassing op het melden van de beëindiging van een vervangingsbetrekking waar geen reguliere betrekking aan vooraf is gegaan. Dit betekent dat wanneer er een rappel als bedoeld in artikel 3.3 heeft plaatsgevonden het bevoegd gezag binnen zes weken aan het Participatiefonds kenbaar maakt dat van de beëindiging van een vervangingsbetrekking sprake is. Wanneer de termijn van zes weken wordt overschreden betekent dit echter niet dat de bedoelde mededeling buiten behandeling wordt gelaten.
+De termijn van [artikel 3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=3&z=2010-12-02&g=2010-12-02) is ook van toepassing op het melden van de beëindiging van een vervangingsbetrekking waar geen reguliere betrekking aan vooraf is gegaan. Dit betekent dat wanneer er een rappel als bedoeld in artikel 3.3 heeft plaatsgevonden het bevoegd gezag binnen zes weken aan het Participatiefonds kenbaar maakt dat van de beëindiging van een vervangingsbetrekking sprake is. Wanneer de termijn van zes weken wordt overschreden betekent dit echter niet dat de bedoelde mededeling buiten behandeling wordt gelaten.
 
 Bij het beëindigen van een vervangingsbetrekking wordt het bevoegd gezag gevraagd aan te tonen dat er daadwerkelijk sprake is geweest van een vervangingsbetrekking.
 
@@ -258,13 +258,13 @@ De toetsing vindt trapsgewijs plaats. Eerst wordt de onvermijdbaarheid van het o
 
 4.3. **Onvermijdbaarheid ontslag**
 
-Een ontslag dient gemeld te worden op basis van een van de gronden genoemd in de [artikelen7 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-02-01&g=2010-08-02). In deze artikelen is per ontslaggrond aangegeven hoe het bevoegd gezag de onvermijdbaarheid van het ontslag aantoont.
+Een ontslag dient gemeld te worden op basis van een van de gronden genoemd in de [artikelen7 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-12-02&g=2010-12-02). In deze artikelen is per ontslaggrond aangegeven hoe het bevoegd gezag de onvermijdbaarheid van het ontslag aantoont.
 
 4.4. **Inspanningsverplichting**
 
-Bij elke melding wordt beoordeeld of aan het in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=4&z=2010-02-01&g=2010-08-02)gestelde is voldaan. Indien blijkt dat onvoldoende uitvoering is gegeven aan de activiteiten genoemd in het artikel dat op het ontslag van toepassing is, wordt het vergoedingsverzoek afgewezen.
+Bij elke melding wordt beoordeeld of aan het in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=4&z=2010-12-02&g=2010-12-02)gestelde is voldaan. Indien blijkt dat onvoldoende uitvoering is gegeven aan de activiteiten genoemd in het artikel dat op het ontslag van toepassing is, wordt het vergoedingsverzoek afgewezen.
 
-Het bevoegd gezag heeft tal van mogelijkheden en instrumenten van personeelsbeleid die gericht zijn op het voorkomen van een beroep op een werkloosheidsregeling. Omdat niet voor iedere soort ontslag eenzelfde inspanning kan worden verwacht, is bij iedere ontslaggrond zoals gesteld in de [artikelen 7 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-02-01&g=2010-08-02), aangegeven aan welke eisen het bevoegd gezag dient te voldoen.
+Het bevoegd gezag heeft tal van mogelijkheden en instrumenten van personeelsbeleid die gericht zijn op het voorkomen van een beroep op een werkloosheidsregeling. Omdat niet voor iedere soort ontslag eenzelfde inspanning kan worden verwacht, is bij iedere ontslaggrond zoals gesteld in de [artikelen 7 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-12-02&g=2010-12-02), aangegeven aan welke eisen het bevoegd gezag dient te voldoen.
 
 De inspanningsverplichting is door het Participatiefonds in de volgende categorieën ondergebracht:
 
@@ -354,9 +354,9 @@ Het vergoedingsverzoek wordt afgewezen indien er sprake is van kennelijke onrede
 
 4.6. **Herplaatsing vanuit een centrale dienst**
 
-Naast de in [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=4&z=2010-02-01&g=2010-08-02) genoemde activiteiten, onderzoekt het bestuur van een centrale dienst of er voor een met ontslag bedreigd personeelslid bij een van de aangesloten bevoegde gezagsorganen een vacature beschikbaar is, tenzij de aard van het ontslag zich hiertegen verzet. Indien blijkt dat er geen vacatures beschikbaar zijn, overlegt het bestuur van de centrale dienst een verklaring van alle aangesloten bevoegde gezagsorganen waaruit blijkt dat zij voor betrokkene geen plaatsingsmogelijkheden hebben.
+Naast de in [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=4&z=2010-12-02&g=2010-12-02) genoemde activiteiten, onderzoekt het bestuur van een centrale dienst of er voor een met ontslag bedreigd personeelslid bij een van de aangesloten bevoegde gezagsorganen een vacature beschikbaar is, tenzij de aard van het ontslag zich hiertegen verzet. Indien blijkt dat er geen vacatures beschikbaar zijn, overlegt het bestuur van de centrale dienst een verklaring van alle aangesloten bevoegde gezagsorganen waaruit blijkt dat zij voor betrokkene geen plaatsingsmogelijkheden hebben.
 
-### Toelichting op [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=4&z=2010-02-01&g=2010-08-02)
+### Toelichting op [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=4&z=2010-12-02&g=2010-12-02)
 
 Wat de inspanningsverplichting betreft, heeft het Participatiefonds aansluiting gezocht bij de instrumenten die het bevoegd gezag conform de CAO-PO ter beschikking staan. Het Participatiefonds heeft de inspanningsverplichting in de categorieën I, II, III en IV ondergebracht.
 
@@ -366,7 +366,7 @@ Indien het bevoegd gezag ondanks het voeren van een op het voorkomen van ontslag
 
 Bij categorie III kunnen onder andere de volgende voorbeelden van activiteiten worden genoemd:
 
-Ter beoordeling of herplaatsing binnen het bevoegd gezag mogelijk is wordt bij een ontslag op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=8&z=2010-02-01&g=2010-08-02) van het reglement een formatievergelijking gemaakt.
+Ter beoordeling of herplaatsing binnen het bevoegd gezag mogelijk is wordt bij een ontslag op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=8&z=2010-12-02&g=2010-12-02) van het reglement een formatievergelijking gemaakt.
 
 Indien geen invulling is gegeven aan de verplichting als genoemd in categorie III geeft het bevoegd gezag gemotiveerd aan wat de reden is waarom niet is voldaan aan 'hulp bij behoud van werk'.
 
@@ -374,7 +374,7 @@ Ook van het betrokken personeelslid mag verwacht worden dat deze de nodige inspa
 
 ##### Artikel 5. Personele bezetting
 
-5.1. Het bevoegd gezag verstrekt bij de ontslagen per of na 1 augustus 2010 informatie over de personele bezetting, als het ontslag op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-02-01&g=2010-08-02), [7A](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7A&z=2010-02-01&g=2010-08-02), [7B](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7B&z=2010-02-01&g=2010-08-02), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=8&z=2010-02-01&g=2010-08-02) of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=11&z=2010-02-01&g=2010-08-02) gemeld wordt.
+5.1. Het bevoegd gezag verstrekt bij de ontslagen per of na 1 augustus 2010 informatie over de personele bezetting, als het ontslag op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-12-02&g=2010-12-02), [7A](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7A&z=2010-12-02&g=2010-12-02), [7B](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7B&z=2010-12-02&g=2010-12-02), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=8&z=2010-12-02&g=2010-12-02) of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=11&z=2010-12-02&g=2010-12-02) gemeld wordt.
 
 5.2. De te overleggen informatie onderbouwt de reden dat juist voor deze persoon (personen) het vergoedingsverzoek is ingediend, in de volgende situaties:
 
@@ -382,17 +382,17 @@ Ook van het betrokken personeelslid mag verwacht worden dat deze de nodige inspa
 
 Het bevoegd gezag geeft aan of er een vacature beschikbaar is op de datum van ontslag.
 
-- I. Als er geen vacature is, wordt het ontslag onderbouwd overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-02-01&g=2010-08-02), [7A](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7A&z=2010-02-01&g=2010-08-02) of [7B](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7B&z=2010-02-01&g=2010-08-02).
+- I. Als er geen vacature is, wordt het ontslag onderbouwd overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-12-02&g=2010-12-02), [7A](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7A&z=2010-12-02&g=2010-12-02) of [7B](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7B&z=2010-12-02&g=2010-12-02).
 
-- II. Als er wel een vacature is, wordt het ontslag onderbouwd overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-02-01&g=2010-08-02), [7A](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7A&z=2010-02-01&g=2010-08-02) of [7B](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7B&z=2010-02-01&g=2010-08-02), wat betreft de formatieve ontwikkelingen, en overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=8&z=2010-02-01&g=2010-08-02) wat betreft de vacature en de reden dat betrokkene niet in deze vacature is benoemd.
+- II. Als er wel een vacature is, wordt het ontslag onderbouwd overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-12-02&g=2010-12-02), [7A](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7A&z=2010-12-02&g=2010-12-02) of [7B](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7B&z=2010-12-02&g=2010-12-02), wat betreft de formatieve ontwikkelingen, en overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=8&z=2010-12-02&g=2010-12-02) wat betreft de vacature en de reden dat betrokkene niet in deze vacature is benoemd.
 
 5.2.2. **Beëindiging tijdelijk dienstverband op grond van kwalitatieve fricties**
 
 Het bevoegd gezag geeft aan of er een vacature beschikbaar is op de datum van ontslag.
 
-- I. I Als er geen vacature is, wordt het ontslag onderbouwd overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=8&z=2010-02-01&g=2010-08-02).
+- I. I Als er geen vacature is, wordt het ontslag onderbouwd overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=8&z=2010-12-02&g=2010-12-02).
 
-- II. II Als er wel een vacature is, wordt het ontslag onderbouwd overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=8&z=2010-02-01&g=2010-08-02), waarbij ook het vakgebied van de vacature bij de onderbouwing wordt betrokken.
+- II. II Als er wel een vacature is, wordt het ontslag onderbouwd overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=8&z=2010-12-02&g=2010-12-02), waarbij ook het vakgebied van de vacature bij de onderbouwing wordt betrokken.
 
 5.2.3. **Beëindiging vast dienstverband op grond van de formatieve ontwikkelingen**
 
@@ -406,9 +406,9 @@ Het bevoegd gezag geeft aan of er op de datum van ontslag sprake is van:
 
 - d. personeel dat in de periode tussen de ontslagaanzegging en de ontslagdatum in vaste dienst is getreden en/of e een vacature op de datum van ontslag;
 
-- I. Als van het gestelde onder a, b, c, d en e geen sprake is, wordt het ontslag onderbouwd overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-02-01&g=2010-08-02), [7A](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7A&z=2010-02-01&g=2010-08-02) of [7B](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7B&z=2010-02-01&g=2010-08-02).
+- I. Als van het gestelde onder a, b, c, d en e geen sprake is, wordt het ontslag onderbouwd overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-12-02&g=2010-12-02), [7A](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7A&z=2010-12-02&g=2010-12-02) of [7B](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7B&z=2010-12-02&g=2010-12-02).
 
-- II. Als van het gestelde onder a, b, c, d, of e één of meer keren sprake is, wordt het ontslag wat betreft de formatieve ontwikkelingen onderbouwd op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-02-01&g=2010-08-02), [7A](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7A&z=2010-02-01&g=2010-08-02) of [7B](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7B&z=2010-02-01&g=2010-08-02), en wat betreft de functie bedoeld in a t/m e wordt op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=8&z=2010-02-01&g=2010-08-02) onderbouwd waarom betrokkene niet in deze functie is benoemd.
+- II. Als van het gestelde onder a, b, c, d, of e één of meer keren sprake is, wordt het ontslag wat betreft de formatieve ontwikkelingen onderbouwd op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-12-02&g=2010-12-02), [7A](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7A&z=2010-12-02&g=2010-12-02) of [7B](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7B&z=2010-12-02&g=2010-12-02), en wat betreft de functie bedoeld in a t/m e wordt op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=8&z=2010-12-02&g=2010-12-02) onderbouwd waarom betrokkene niet in deze functie is benoemd.
 
 5.2.4. **Beëindiging vast dienstverband op grond van kwalitatieve fricties**
 
@@ -422,29 +422,29 @@ Het bevoegd gezag geeft aan of er op de datum van ontslag sprake is van:
 
 - d. personeel dat in de periode tussen de ontslagaanzegging en de ontslagdatum in vaste dienst is getreden en/of er sprake is van e een vacature op de datum van ontslag.
 
-- I. Als van het genoemde in a, b, c, d en e geen sprake is, wordt het ontslag onderbouwd overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=8&z=2010-02-01&g=2010-08-02).
+- I. Als van het genoemde in a, b, c, d en e geen sprake is, wordt het ontslag onderbouwd overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=8&z=2010-12-02&g=2010-12-02).
 
-- II. Als van het genoemde in a, b, c, d, of e één of meer keren sprake is, wordt het ontslag onderbouwd op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=8&z=2010-02-01&g=2010-08-02), waarbij tevens wordt aangegeven waarom betrokkene niet in de onder a t/m e bedoelde functie is benoemd.
+- II. Als van het genoemde in a, b, c, d, of e één of meer keren sprake is, wordt het ontslag onderbouwd op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=8&z=2010-12-02&g=2010-12-02), waarbij tevens wordt aangegeven waarom betrokkene niet in de onder a t/m e bedoelde functie is benoemd.
 
 5.3. **Afvloeiingsvolgorde bij vast en tijdelijk dienstverband**
 
-Het bevoegd gezag overlegt de onderlinge volgorde van ontslag als er sprake is van meerdere ontslagen die gemeld worden. Hierbij zijn voor personeel in vaste dienst de geldende regels t.a.v. de afvloeiingsvolgorde van kracht, en voor personeel uit tijdelijke dienst geldt dat het bevoegd gezag de volgorde vaststelt. Uitgangspunt hierbij is dat ontslag van personeel in vaste dienst, terwijl personeel in tijdelijke dienst gehandhaafd blijft, alleen mogelijk is indien er sprake is van kwalitatieve fricties zoals bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=8&z=2010-02-01&g=2010-08-02). In de overige gevallen dient eerst al het tijdelijk benoemde personeel af te vloeien voordat personeel in vaste dienst kan worden ontslagen.
+Het bevoegd gezag overlegt de onderlinge volgorde van ontslag als er sprake is van meerdere ontslagen die gemeld worden. Hierbij zijn voor personeel in vaste dienst de geldende regels t.a.v. de afvloeiingsvolgorde van kracht, en voor personeel uit tijdelijke dienst geldt dat het bevoegd gezag de volgorde vaststelt. Uitgangspunt hierbij is dat ontslag van personeel in vaste dienst, terwijl personeel in tijdelijke dienst gehandhaafd blijft, alleen mogelijk is indien er sprake is van kwalitatieve fricties zoals bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=8&z=2010-12-02&g=2010-12-02). In de overige gevallen dient eerst al het tijdelijk benoemde personeel af te vloeien voordat personeel in vaste dienst kan worden ontslagen.
 
-### Toelichting op [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=5&z=2010-02-01&g=2010-08-02)
+### Toelichting op [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=5&z=2010-12-02&g=2010-12-02)
 
 In dit artikel is aangegeven wanneer en op welke wijze het bevoegd gezag het Participatiefonds dient te berichten over de personele bezetting op het niveau van het bevoegd gezag of samenwerkingsverband. Dit artikel is geen zelfstandige toetsingsgrond, maar geeft slechts een beschrijving van de wijze waarop een in dit artikel genoemd ontslag onderbouwd en getoetst wordt.
 
-De personele bezetting is alleen van belang indien deze van invloed is op de reden van ontslag, en is dus niet noodzakelijk bij persoonsgebonden redenen (dus wel bij ontslag op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-02-01&g=2010-08-02), [7A](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7A&z=2010-02-01&g=2010-08-02), [7B](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7B&z=2010-02-01&g=2010-08-02), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=8&z=2010-02-01&g=2010-08-02) of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=11&z=2010-02-01&g=2010-08-02) en niet bij ontslag op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=9&z=2010-02-01&g=2010-08-02)).
+De personele bezetting is alleen van belang indien deze van invloed is op de reden van ontslag, en is dus niet noodzakelijk bij persoonsgebonden redenen (dus wel bij ontslag op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-12-02&g=2010-12-02), [7A](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7A&z=2010-12-02&g=2010-12-02), [7B](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7B&z=2010-12-02&g=2010-12-02), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=8&z=2010-12-02&g=2010-12-02) of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=11&z=2010-12-02&g=2010-12-02) en niet bij ontslag op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=9&z=2010-12-02&g=2010-12-02)).
 
 ##### Artikel 6. Toewijzen/afwijzen vergoedingsverzoek
 
-6.1. Een vergoedingsverzoek kan alleen worden toegewezen indien het ontslag is verleend met inachtneming van het gestelde in [artikel 7 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-02-01&g=2010-08-02) en wanneer tevens is voldaan aan het gestelde in [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=4&z=2010-02-01&g=2010-08-02).
+6.1. Een vergoedingsverzoek kan alleen worden toegewezen indien het ontslag is verleend met inachtneming van het gestelde in [artikel 7 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-12-02&g=2010-12-02) en wanneer tevens is voldaan aan het gestelde in [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=4&z=2010-12-02&g=2010-12-02).
 
-6.2. Indien het ontslag is verleend op andere dan in [artikel 7 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-02-01&g=2010-08-02) genoemde gronden is er sprake van eigen beleid. Als er sprake is van eigen beleid wordt het vergoedingsverzoek afgewezen.
+6.2. Indien het ontslag is verleend op andere dan in [artikel 7 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-12-02&g=2010-12-02) genoemde gronden is er sprake van eigen beleid. Als er sprake is van eigen beleid wordt het vergoedingsverzoek afgewezen.
 
-6.3. Een vergoedingsverzoek wordt afgewezen indien niet is voldaan aan het gestelde in [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=4&z=2010-02-01&g=2010-08-02).
+6.3. Een vergoedingsverzoek wordt afgewezen indien niet is voldaan aan het gestelde in [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=4&z=2010-12-02&g=2010-12-02).
 
-### Toelichting op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=6&z=2010-02-01&g=2010-08-02)
+### Toelichting op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=6&z=2010-12-02&g=2010-12-02)
 
 **Lees dit artikel voordat u het formulier ‘Opgave formatie’ invult.**
 
@@ -510,7 +510,7 @@ Ontslag op grond van artikel 7 per of na de laatste schooldag van een schooljaar
 
 7.8. **Inspanningsverplichting**
 
-Bij een ontslag op grond van artikel 7 dient het bevoegd gezag te voldoen aan de inspanningsverplichting, [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=4&z=2010-02-01&g=2010-08-02), categorie IV.
+Bij een ontslag op grond van artikel 7 dient het bevoegd gezag te voldoen aan de inspanningsverplichting, [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=4&z=2010-12-02&g=2010-12-02), categorie IV.
 
 Hieronder volgen de eisen die het Participatiefonds in dit kader aan een ontslag op grond van artikel 7, stelt
 
@@ -532,13 +532,13 @@ Hieronder volgen de eisen die het Participatiefonds in dit kader aan een ontslag
 
 - 3. aanbieden van outplacement (outplacement vervangt de inspanningen 1 en 2 van deze categorie).
 
-### Toelichting op [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-02-01&g=2010-08-02)
+### Toelichting op [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-12-02&g=2010-12-02)
 
-Alle instellingen voor primair onderwijs ontvangen een budget voor personeels- en arbeidsmarktbeleid (PAB-budget) In [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-02-01&g=2010-08-02) van het reglement wordt een deel van het PAB-budget bij de beoordeling van de vermijdbaarheid van het ontslag wegens daling van de rijksbekostiging van personeel buiten beschouwing gelaten. Voor het schooljaar 2010–2011 is het percentage van PAB-budget dat bij de vergelijking buiten beschouwing wordt gelaten, gesteld op 35%.
+Alle instellingen voor primair onderwijs ontvangen een budget voor personeels- en arbeidsmarktbeleid (PAB-budget) In [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-12-02&g=2010-12-02) van het reglement wordt een deel van het PAB-budget bij de beoordeling van de vermijdbaarheid van het ontslag wegens daling van de rijksbekostiging van personeel buiten beschouwing gelaten. Voor het schooljaar 2010–2011 is het percentage van PAB-budget dat bij de vergelijking buiten beschouwing wordt gelaten, gesteld op 35%.
 
 ### 7.1. Ontslaggrond
 
-Indien er een ontslaguitkering wordt aangevraagd ten gevolge van de afbouw van overuren wordt de melding van het ontslag getoetst op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-02-01&g=2010-08-02) van dit reglement.
+Indien er een ontslaguitkering wordt aangevraagd ten gevolge van de afbouw van overuren wordt de melding van het ontslag getoetst op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-12-02&g=2010-12-02) van dit reglement.
 
 Indien de ontslagruimte kleiner is dan de omvang van het ontslag, kan ontslag uit een vast dienstverband niet plaatsvinden omdat deelontslag niet is toegestaan. In het geval dat een tijdelijk dienstverband van rechtswege eindigt, dient een herbenoeming plaats te vinden welke gelijk is aan de omvang van de voorafgaande betrekking minus de ontslagruimte.
 
@@ -564,11 +564,11 @@ In beide situaties wordt de omvang van het natuurlijk verloop en de andere ontsl
 
 ### 7.4. Natuurlijk verloop en andere ontslagen
 
-Voor de ruimte van de rijksbekostiging van personeel die ontstaat door natuurlijk verloop of andere ontslagen geldt dat het bevoegd gezag van de school deze inzet om gedwongen ontslagen te voorkomen. Om deze reden betrekt het bevoegd gezag eveneens het natuurlijk verloop en de andere ontslagen in het in [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-02-01&g=2010-08-02) bedoeld overzicht.
+Voor de ruimte van de rijksbekostiging van personeel die ontstaat door natuurlijk verloop of andere ontslagen geldt dat het bevoegd gezag van de school deze inzet om gedwongen ontslagen te voorkomen. Om deze reden betrekt het bevoegd gezag eveneens het natuurlijk verloop en de andere ontslagen in het in [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-12-02&g=2010-12-02) bedoeld overzicht.
 
 ### 7.7. Toetsingsdatum
 
-Bij een ontslag per andere datum dan 1 augustus of laatste schooldag past het bevoegd gezag zijn melding aan, aan deze andere datum en richt de melding verder in overeenkomstig de wijze als in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-02-01&g=2010-08-02) beschreven, maar nu met als uitgangspunt deze andere datum.
+Bij een ontslag per andere datum dan 1 augustus of laatste schooldag past het bevoegd gezag zijn melding aan, aan deze andere datum en richt de melding verder in overeenkomstig de wijze als in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-12-02&g=2010-12-02) beschreven, maar nu met als uitgangspunt deze andere datum.
 
 ##### Artikel 7A. Ontslag wegens daling rijksbekostiging personeel bij werkgelegenheidsbeleid
 
@@ -626,7 +626,7 @@ Ontslag op grond van artikel 7A per of na de laatste schooldag van een schooljaa
 
 7A.6. **Inspanningsverplichting**
 
-Bij een ontslag op grond van artikel 7A dient het bevoegd gezag te voldoen aan de inspanningsverplichting, [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=4&z=2010-02-01&g=2010-08-02), categorie IV.
+Bij een ontslag op grond van artikel 7A dient het bevoegd gezag te voldoen aan de inspanningsverplichting, [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=4&z=2010-12-02&g=2010-12-02), categorie IV.
 
 Hieronder volgen de eisen die het Participatiefonds in dit kader aan een ontslag op grond van artikel 7A, stelt
 
@@ -648,13 +648,13 @@ Hieronder volgen de eisen die het Participatiefonds in dit kader aan een ontslag
 
 - 3. aanbieden van outplacement (outplacement vervangt de inspanningen 1 en 2 van deze categorie).
 
-### Toelichting op [artikel 7A](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7A&z=2010-02-01&g=2010-08-02)
+### Toelichting op [artikel 7A](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7A&z=2010-12-02&g=2010-12-02)
 
-Alle instellingen voor primair onderwijs ontvangen een budget voor personeels- en arbeidsmarktbeleid (PAB-budget) In [artikel 7A](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7A&z=2010-02-01&g=2010-08-02) van het reglement wordt een deel van het PAB-budget bij de beoordeling van de vermijdbaarheid van het ontslag wegens daling van de rijksbekostiging van personeel buiten beschouwing gelaten. Voor het schooljaar 2010–2011 is het percentage van PAB-budget dat bij de vergelijking buiten beschouwing wordt gelaten, gesteld op 35%.
+Alle instellingen voor primair onderwijs ontvangen een budget voor personeels- en arbeidsmarktbeleid (PAB-budget) In [artikel 7A](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7A&z=2010-12-02&g=2010-12-02) van het reglement wordt een deel van het PAB-budget bij de beoordeling van de vermijdbaarheid van het ontslag wegens daling van de rijksbekostiging van personeel buiten beschouwing gelaten. Voor het schooljaar 2010–2011 is het percentage van PAB-budget dat bij de vergelijking buiten beschouwing wordt gelaten, gesteld op 35%.
 
 ### 7A.1. Ontslaggrond
 
-Indien er een ontslaguitkering wordt aangevraagd ten gevolge van de afbouw van overuren wordt de melding van het ontslag getoetst op grond van [artikel 7A van dit reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7A&z=2010-02-01&g=2010-08-02).
+Indien er een ontslaguitkering wordt aangevraagd ten gevolge van de afbouw van overuren wordt de melding van het ontslag getoetst op grond van [artikel 7A van dit reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7A&z=2010-12-02&g=2010-12-02).
 
 ### 7A.3. Vergelijking van rijksbekostiging personeel
 
@@ -670,7 +670,7 @@ Bij het beoordelen van een vergoedingsverzoek van uitkeringskosten welke het gev
 
 ### 7A.5. Toetsingsdatum
 
-Bij een ontslag per andere datum dan 1 augustus of laatste schooldag past het bevoegd gezag zijn melding aan, aan deze andere datum en richt de melding verder in overeenkomstig de wijze als in [artikel 7A](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7A&z=2010-02-01&g=2010-08-02) beschreven, maar nu met als uitgangspunt deze andere datum.
+Bij een ontslag per andere datum dan 1 augustus of laatste schooldag past het bevoegd gezag zijn melding aan, aan deze andere datum en richt de melding verder in overeenkomstig de wijze als in [artikel 7A](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7A&z=2010-12-02&g=2010-12-02) beschreven, maar nu met als uitgangspunt deze andere datum.
 
 ##### Artikel 7B. Ontslag wegens reorganisatie
 
@@ -688,11 +688,11 @@ Toewijzing van het vergoedingsverzoek op basis van de in dit artikel genoemde on
 
 7B.3. **Toetsingsdatum**
 
-Ontslag op grond van [artikel 7B](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7B&z=2010-02-01&g=2010-08-02) per of na de laatste schooldag van een schooljaar wordt getoetst als zijnde een ontslag per 1 augustus van het volgend schooljaar. Een ontslag op grond van artikel 7B per een andere datum voorafgaand aan de laatste schooldag van een schooljaar wordt per deze andere datum getoetst.
+Ontslag op grond van [artikel 7B](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7B&z=2010-12-02&g=2010-12-02) per of na de laatste schooldag van een schooljaar wordt getoetst als zijnde een ontslag per 1 augustus van het volgend schooljaar. Een ontslag op grond van artikel 7B per een andere datum voorafgaand aan de laatste schooldag van een schooljaar wordt per deze andere datum getoetst.
 
 7B.4. **Inspanningsverplichting**
 
-Bij een ontslag op grond van [artikel 7B](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7B&z=2010-02-01&g=2010-08-02) dient het bevoegd gezag te voldoen aan de inspanningsverplichting, [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=4&z=2010-02-01&g=2010-08-02), categorie IV.
+Bij een ontslag op grond van [artikel 7B](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7B&z=2010-12-02&g=2010-12-02) dient het bevoegd gezag te voldoen aan de inspanningsverplichting, [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=4&z=2010-12-02&g=2010-12-02), categorie IV.
 
 Hieronder volgen de eisen die het Participatiefonds in dit kader aan een ontslag op grond van artikel 7B, stelt
 
@@ -714,17 +714,17 @@ Hieronder volgen de eisen die het Participatiefonds in dit kader aan een ontslag
 
 - 3. aanbieden van outplacement (outplacement vervangt de inspanningen 1 en 2 van deze categorie).
 
-### Toelichting op [artikel 7B](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7B&z=2010-02-01&g=2010-08-02)
+### Toelichting op [artikel 7B](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7B&z=2010-12-02&g=2010-12-02)
 
 ### 7B.1. Ontslaggrond
 
 Als een werkgever wegens reorganisatie, waaronder begrepen noodzakelijke bezuinigingen anders dan wegens daling rijksbekostiging personeel wil ontslaan, dan kan zo’n ontslag een grond zijn voor de toewijzing van een vergoedingsverzoek. Indien de werkgever meerdere personeelsleden wil ontslaan, is denkbaar dat ontslagen deels het gevolg zijn van daling van de rijksbekostiging personeel en deels vanwege andere noodzakelijke bezuinigingen.
 
-Indien er een ontslaguitkering wordt aangevraagd ten gevolge van de afbouw van overuren wordt de melding van het ontslag getoetst op grond van [artikel 7B](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7B&z=2010-02-01&g=2010-08-02) van dit reglement.
+Indien er een ontslaguitkering wordt aangevraagd ten gevolge van de afbouw van overuren wordt de melding van het ontslag getoetst op grond van [artikel 7B](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7B&z=2010-12-02&g=2010-12-02) van dit reglement.
 
 ### 7B.3. Toetsingsdatum
 
-Bij een ontslag per andere datum dan 1 augustus of laatste schooldag past het bevoegd gezag zijn melding aan, aan deze andere datum en richt de melding verder in overeenkomstig de wijze als in [artikel 7B](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7B&z=2010-02-01&g=2010-08-02) beschreven, maar nu met als uitgangspunt deze andere datum.
+Bij een ontslag per andere datum dan 1 augustus of laatste schooldag past het bevoegd gezag zijn melding aan, aan deze andere datum en richt de melding verder in overeenkomstig de wijze als in [artikel 7B](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7B&z=2010-12-02&g=2010-12-02) beschreven, maar nu met als uitgangspunt deze andere datum.
 
 **Lees dit artikel voordat u het formulier ‘Opgave Kwalitatieve Frictie’ invult.**
 
@@ -794,7 +794,7 @@ Ontslag op grond van artikel 8 per of na de laatste schooldag van een schooljaar
 
 8.6. **Inspanningsverplichting**
 
-Bij een ontslag op grond van artikel 8 dient het bevoegd gezag te voldoen aan de inspanningsverplichting, [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=4&z=2010-02-01&g=2010-08-02), categorie III en IV.
+Bij een ontslag op grond van artikel 8 dient het bevoegd gezag te voldoen aan de inspanningsverplichting, [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=4&z=2010-12-02&g=2010-12-02), categorie III en IV.
 
 Hieronder volgen de eisen die het Participatiefonds in dit kader aan een ontslag op grond van artikel 8, stelt
 
@@ -822,7 +822,7 @@ Hieronder volgen de eisen die het Participatiefonds in dit kader aan een ontslag
 
 - 3. aanbieden van outplacement (outplacement vervangt de inspanningen 1 en 2 van deze categorie).
 
-### Toelichting op [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=8&z=2010-02-01&g=2010-08-02)
+### Toelichting op [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=8&z=2010-12-02&g=2010-12-02)
 
 ### 8.2. Kwalitatieve frictie
 
@@ -830,19 +830,19 @@ In dit artikel is per soort kwalitatieve frictie aangegeven op welke wijze de kw
 
 ### 8.2.1. Verschuivingen tussen onderwijzend personeel
 
-Ook bij expertisecentra zijn vakleerkrachten benoemd. Om deze reden wordt in dit artikel gevraagd om de aantallen leerlingen per vak. De bedoelde overzichten dienen aan te tonen dat het bevoegd gezag niet anders kon dan tot ontslag over te gaan van een vakleerkracht of juist een groepsleerkracht. Vervolgens toont het bevoegd gezag overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=5&z=2010-02-01&g=2010-08-02) aan hoe het tot de keus van deze persoon is gekomen.
+Ook bij expertisecentra zijn vakleerkrachten benoemd. Om deze reden wordt in dit artikel gevraagd om de aantallen leerlingen per vak. De bedoelde overzichten dienen aan te tonen dat het bevoegd gezag niet anders kon dan tot ontslag over te gaan van een vakleerkracht of juist een groepsleerkracht. Vervolgens toont het bevoegd gezag overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=5&z=2010-12-02&g=2010-12-02) aan hoe het tot de keus van deze persoon is gekomen.
 
 ### 8.2.2. Verschuivingen tussen onderwijspersoneel
 
-De bedoelde onderbouwing dient aan te tonen dat het bevoegd gezag niet anders kon dan tot ontslag over te gaan van een lid van de ene soort personeel, om ruimte te maken voor een lid van een andere soort personeel. Vervolgens toont het bevoegd gezag overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=5&z=2010-02-01&g=2010-08-02) aan hoe het tot de keus van deze persoon is gekomen.
+De bedoelde onderbouwing dient aan te tonen dat het bevoegd gezag niet anders kon dan tot ontslag over te gaan van een lid van de ene soort personeel, om ruimte te maken voor een lid van een andere soort personeel. Vervolgens toont het bevoegd gezag overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=5&z=2010-12-02&g=2010-12-02) aan hoe het tot de keus van deze persoon is gekomen.
 
 Bij een vacature directeur die tijdelijk wordt ingevuld door het beleggen van de directietaken bij de adjunct-directeur, dan wel de plaatsvervanger, en het tijdelijk aanstellen van een leerkracht voor de lesgevende taken, kan het ontslag van de tijdelijke leerkracht op basis van dit artikel gemeld worden.
 
-Met behulp van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=5&z=2010-02-01&g=2010-08-02) toont het bevoegd gezag aan dat er op de ontslagdatum geen vacature voor deze leerkracht beschikbaar is.
+Met behulp van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=5&z=2010-12-02&g=2010-12-02) toont het bevoegd gezag aan dat er op de ontslagdatum geen vacature voor deze leerkracht beschikbaar is.
 
 ### 8.3. Natuurlijk verloop en andere ontslagen
 
-Ten gevolge van natuurlijk verloop en andere ontslagen komt formatieruimte beschikbaar. Om deze reden betrekt het bevoegd gezag het natuurlijk verloop en andere ontslagen bij de melding. Hierbij kan worden volstaan met het natuurlijk verloop en andere ontslagen dat zich in de in [artikel 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=8&z=2010-02-01&g=2010-08-02) bedoelde situatie heeft voorgedaan.
+Ten gevolge van natuurlijk verloop en andere ontslagen komt formatieruimte beschikbaar. Om deze reden betrekt het bevoegd gezag het natuurlijk verloop en andere ontslagen bij de melding. Hierbij kan worden volstaan met het natuurlijk verloop en andere ontslagen dat zich in de in [artikel 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=8&z=2010-12-02&g=2010-12-02) bedoelde situatie heeft voorgedaan.
 
 **Lees dit artikel voordat u het formulier ‘Opgave persoonsgebonden redenen en anders’ invult.**
 
@@ -850,7 +850,7 @@ Ten gevolge van natuurlijk verloop en andere ontslagen komt formatieruimte besch
 
 Overige gronden voor toewijzing van het vergoedingsverzoek kunnen zijn:
 
-- a. **Ontslag op grond van ongeschiktheid voor de functie, anders dan op grond van ziels- of lichaamsgebreken en ongeschiktheid voor het onderwijs, anders dan op grond van ziels- of lichaamsgebreken** **Ontslaggrond** De reden voor het ontslag is gelegen in: **Onvermijdbaarheid ontslag** Toewijzing van het vergoedingsverzoek op basis van de in dit artikel genoemde ontslaggrond doet zich voor indien het bevoegd gezag aantoont dat het in redelijkheid niet anders dan tot het ontslag van betrokkene kon komen, ondanks het feit dat het betrokkene de mogelijkheden heeft geboden het functioneren te verbeteren en dat anderszins maatregelen zijn genomen om gedwongen ontslag te voorkomen. Het bevoegd gezag geeft aan hoe de beoordelingsprocedure is doorlopen. Tevens overlegt het bevoegd gezag een afschrift van het ontslagbesluit waarin de reden voor het ontslag genoemd is, of wanneer het besluit nog niet is opgemaakt of de reden voor het ontslag niet genoemd wordt, een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor het ontslag, zoals genoemd in artikel 9 sub a, aan betrokkene is kenbaar gemaakt. Bij de beëindiging van een tijdelijk dienstverband verstrekt het bevoegd gezag, wanneer er geen ontslagbesluit wordt opgemaakt, een afschrift van de akte van benoeming en een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor de beëindiging, zoals genoemd in artikel 9 sub a, aan betrokkene is kenbaar gemaakt. **Inspanningsverplichting** Bij een ontslag op grond van artikel 9 sub a, dient het bevoegd gezag bij een vast dienstverband te voldoen aan de inspanningsverplichting, [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=4&z=2010-02-01&g=2010-08-02), categorie I, II, III en IV-A; Bij einde tijdelijk dienstverband dient het bevoegd gezag te voldoen aan de inspanningsverplichting, artikel 4, categorie I, II en IV-B. Hieronder volgen de eisen die het Participatiefonds in dit kader aan een ontslag op grond van artikel 9 sub a, stelt: **Categorie I functionerings- en beoordelingsgesprekken** **Categorie II vormen van begeleiding** **Categorie III hulp bij behoud van werk, intern** **Categorie IV-A hulp bij behoud van werk, extern (bij ontslag uit een vast dienstverband)** **Categorie IV-B hulp bij behoud van werk, extern (bij ontslag uit een tijdelijk dienstverband)**
+- a. **Ontslag op grond van ongeschiktheid voor de functie, anders dan op grond van ziels- of lichaamsgebreken en ongeschiktheid voor het onderwijs, anders dan op grond van ziels- of lichaamsgebreken** **Ontslaggrond** De reden voor het ontslag is gelegen in: **Onvermijdbaarheid ontslag** Toewijzing van het vergoedingsverzoek op basis van de in dit artikel genoemde ontslaggrond doet zich voor indien het bevoegd gezag aantoont dat het in redelijkheid niet anders dan tot het ontslag van betrokkene kon komen, ondanks het feit dat het betrokkene de mogelijkheden heeft geboden het functioneren te verbeteren en dat anderszins maatregelen zijn genomen om gedwongen ontslag te voorkomen. Het bevoegd gezag geeft aan hoe de beoordelingsprocedure is doorlopen. Tevens overlegt het bevoegd gezag een afschrift van het ontslagbesluit waarin de reden voor het ontslag genoemd is, of wanneer het besluit nog niet is opgemaakt of de reden voor het ontslag niet genoemd wordt, een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor het ontslag, zoals genoemd in artikel 9 sub a, aan betrokkene is kenbaar gemaakt. Bij de beëindiging van een tijdelijk dienstverband verstrekt het bevoegd gezag, wanneer er geen ontslagbesluit wordt opgemaakt, een afschrift van de akte van benoeming en een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor de beëindiging, zoals genoemd in artikel 9 sub a, aan betrokkene is kenbaar gemaakt. **Inspanningsverplichting** Bij een ontslag op grond van artikel 9 sub a, dient het bevoegd gezag bij een vast dienstverband te voldoen aan de inspanningsverplichting, [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=4&z=2010-12-02&g=2010-12-02), categorie I, II, III en IV-A; Bij einde tijdelijk dienstverband dient het bevoegd gezag te voldoen aan de inspanningsverplichting, artikel 4, categorie I, II en IV-B. Hieronder volgen de eisen die het Participatiefonds in dit kader aan een ontslag op grond van artikel 9 sub a, stelt: **Categorie I functionerings- en beoordelingsgesprekken** **Categorie II vormen van begeleiding** **Categorie III hulp bij behoud van werk, intern** **Categorie IV-A hulp bij behoud van werk, extern (bij ontslag uit een vast dienstverband)** **Categorie IV-B hulp bij behoud van werk, extern (bij ontslag uit een tijdelijk dienstverband)**
 
 - I. de ongeschiktheid voor de functie, anders dan op grond van ziels- of lichaamsgebreken van betrokkene;
 
@@ -884,7 +884,7 @@ Overige gronden voor toewijzing van het vergoedingsverzoek kunnen zijn:
 
 - a. **Ontslag op grond van ongeschiktheid voor de functie** Dit artikel vraagt in het kader van het vaststellen van de onvermijdbaarheid van het ontslag van het bevoegd gezag onder andere dat het betrokkene de mogelijkheden heeft geboden het functioneren te verbeteren en dat anderszins maatregelen zijn genomen om gedwongen ontslag te voorkomen. Als bewijsstuk wordt geaccepteerd een overzicht van de data waarop functionerings- en beoordelingsgesprekken hebben plaatsgevonden, dan wel een overzicht van de data waarop re-integratiegesprekken hebben plaatsgevonden. Het overzicht wordt door betrokkene schriftelijk bevestigd. Hiermee verklaart betrokkene dat de gesprekken hebben plaatsgevonden.
 
-- b. **Ontslag op grond van denominatie** **Ontslaggrond** De reden voor het ontslag is gelegen in de denominatie. **Onvermijdbaarheid ontslag** Toewijzing van het vergoedingsverzoek op basis van de in dit artikel genoemde ontslaggrond doet zich voor indien het bevoegd gezag aantoont waarom betrokkene naar het oordeel van het bevoegd gezag, niet langer kan functioneren overeenkomstig de grondslag en doelstelling van de instelling. Tevens overlegt het bevoegd gezag een afschrift van het ontslagbesluit waarin de reden voor het ontslag genoemd is, of wanneer het besluit nog niet is opgemaakt of de reden voor het ontslag niet genoemd wordt, een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor het ontslag, zoals genoemd in artikel 9 sub b, aan betrokkene is kenbaar gemaakt. Bij de beëindiging van een tijdelijk dienstverband verstrekt het bevoegd gezag, wanneer er geen ontslagbesluit wordt opgemaakt, een afschrift van de akte van benoeming en een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor de beëindiging, zoals genoemd in artikel 9 sub b, aan betrokkene is kenbaar gemaakt. **Inspanningsverplichting** Indien het bevoegd gezag stelt dat betrokkene niet meer aan de grondslag voldoet, dient het bevoegd gezag bij een ontslag op grond van artikel 9 sub b, te voldoen aan de inspanningsverplichting, [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=4&z=2010-02-01&g=2010-08-02), categorie IV. Hieronder volgen de eisen die het Participatiefonds in dit kader aan een ontslag op grond van artikel 9 sub b, stelt: **Categorie IV-A hulp bij behoud van werk, extern (bij ontslag uit een vast dienstverband)** **Categorie IV-B hulp bij behoud van werk, extern (bij ontslag uit een tijdelijk dienstverband)**
+- b. **Ontslag op grond van denominatie** **Ontslaggrond** De reden voor het ontslag is gelegen in de denominatie. **Onvermijdbaarheid ontslag** Toewijzing van het vergoedingsverzoek op basis van de in dit artikel genoemde ontslaggrond doet zich voor indien het bevoegd gezag aantoont waarom betrokkene naar het oordeel van het bevoegd gezag, niet langer kan functioneren overeenkomstig de grondslag en doelstelling van de instelling. Tevens overlegt het bevoegd gezag een afschrift van het ontslagbesluit waarin de reden voor het ontslag genoemd is, of wanneer het besluit nog niet is opgemaakt of de reden voor het ontslag niet genoemd wordt, een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor het ontslag, zoals genoemd in artikel 9 sub b, aan betrokkene is kenbaar gemaakt. Bij de beëindiging van een tijdelijk dienstverband verstrekt het bevoegd gezag, wanneer er geen ontslagbesluit wordt opgemaakt, een afschrift van de akte van benoeming en een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor de beëindiging, zoals genoemd in artikel 9 sub b, aan betrokkene is kenbaar gemaakt. **Inspanningsverplichting** Indien het bevoegd gezag stelt dat betrokkene niet meer aan de grondslag voldoet, dient het bevoegd gezag bij een ontslag op grond van artikel 9 sub b, te voldoen aan de inspanningsverplichting, [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=4&z=2010-12-02&g=2010-12-02), categorie IV. Hieronder volgen de eisen die het Participatiefonds in dit kader aan een ontslag op grond van artikel 9 sub b, stelt: **Categorie IV-A hulp bij behoud van werk, extern (bij ontslag uit een vast dienstverband)** **Categorie IV-B hulp bij behoud van werk, extern (bij ontslag uit een tijdelijk dienstverband)**
 
 - 1. extern een passende functie zoeken (indien aangesloten, gebruik maken van een mobiliteitscentrum/arbeidspool, zoeken bij een ander bevoegd gezag, of buiten het onderwijs); en
 
@@ -902,7 +902,7 @@ Overige gronden voor toewijzing van het vergoedingsverzoek kunnen zijn:
 
 - b. **Denominatie** Van ontslag op grond van denominatie is geen sprake wanneer betrokkene aangeeft niet langer te kunnen functioneren overeenkomstig de grondslag en doelstelling van de instelling. In dergelijke gevallen wordt het ontslag door het Participatiefonds behandeld als een ontslag op eigen verzoek.
 
-- c. **Ontslag op grond van opheffing van de enige instelling die onder het bevoegd gezag ressorteert (uitgezonderd opheffing wegens fusie)** **Ontslaggrond** De reden voor het ontslag is gelegen in de opheffing van de enige instelling die onder het bevoegd gezag ressorteert. Een uitzondering hierop vormt de opheffing vanwege fusie. **Onvermijdbaarheid ontslag** Toewijzing van het vergoedingsverzoek op basis van de in dit artikel genoemde ontslaggrond doet zich voor indien het bevoegd gezag aantoont dat het pogingen tot een fusie heeft ondernomen en waarom de fusie niet gerealiseerd kon worden en of anderszins maatregelen zijn genomen om gedwongen ontslag te voorkomen. Tevens overlegt het bevoegd gezag een afschrift van het ontslagbesluit waarin de reden voor het ontslag genoemd is, of wanneer het besluit nog niet is opgemaakt of de reden voor het ontslag niet genoemd wordt, een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor het ontslag, zoals genoemd in artikel 9 sub c, aan betrokkene is kenbaar gemaakt. Bij de beëindiging van een tijdelijk dienstverband verstrekt het bevoegd gezag, wanneer er geen ontslagbesluit wordt opgemaakt, een afschrift van de akte van benoeming en een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor de beëindiging, zoals genoemd in artikel 9 sub c, aan betrokkene is kenbaar gemaakt. **Inspanningsverplichting** Bij een ontslag op grond van artikel 9 sub c, dient het bevoegd gezag te voldoen aan de inspanningsverplichting, [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=4&z=2010-02-01&g=2010-08-02), categorie IV. Hieronder volgen de eisen die het Participatiefonds in dit kader aan een ontslag op grond van artikel 9 sub c, stelt: **Categorie IV-A hulp bij behoud van werk, extern (bij ontslag uit een vast dienstverband)** **Categorie IV-B hulp bij behoud van werk, extern (bij ontslag uit een tijdelijk dienstverband)**
+- c. **Ontslag op grond van opheffing van de enige instelling die onder het bevoegd gezag ressorteert (uitgezonderd opheffing wegens fusie)** **Ontslaggrond** De reden voor het ontslag is gelegen in de opheffing van de enige instelling die onder het bevoegd gezag ressorteert. Een uitzondering hierop vormt de opheffing vanwege fusie. **Onvermijdbaarheid ontslag** Toewijzing van het vergoedingsverzoek op basis van de in dit artikel genoemde ontslaggrond doet zich voor indien het bevoegd gezag aantoont dat het pogingen tot een fusie heeft ondernomen en waarom de fusie niet gerealiseerd kon worden en of anderszins maatregelen zijn genomen om gedwongen ontslag te voorkomen. Tevens overlegt het bevoegd gezag een afschrift van het ontslagbesluit waarin de reden voor het ontslag genoemd is, of wanneer het besluit nog niet is opgemaakt of de reden voor het ontslag niet genoemd wordt, een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor het ontslag, zoals genoemd in artikel 9 sub c, aan betrokkene is kenbaar gemaakt. Bij de beëindiging van een tijdelijk dienstverband verstrekt het bevoegd gezag, wanneer er geen ontslagbesluit wordt opgemaakt, een afschrift van de akte van benoeming en een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor de beëindiging, zoals genoemd in artikel 9 sub c, aan betrokkene is kenbaar gemaakt. **Inspanningsverplichting** Bij een ontslag op grond van artikel 9 sub c, dient het bevoegd gezag te voldoen aan de inspanningsverplichting, [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=4&z=2010-12-02&g=2010-12-02), categorie IV. Hieronder volgen de eisen die het Participatiefonds in dit kader aan een ontslag op grond van artikel 9 sub c, stelt: **Categorie IV-A hulp bij behoud van werk, extern (bij ontslag uit een vast dienstverband)** **Categorie IV-B hulp bij behoud van werk, extern (bij ontslag uit een tijdelijk dienstverband)**
 
 - 1. extern een passende functie zoeken (indien aangesloten, gebruik maken van een mobiliteitscentrum/arbeidspool, zoeken bij een ander bevoegd gezag, of buiten het onderwijs); en
 
@@ -918,7 +918,7 @@ Overige gronden voor toewijzing van het vergoedingsverzoek kunnen zijn:
 
 - 3. aanbieden van outplacement (outplacement vervangt de inspanningen 1 en 2 van deze categorie).
 
-- c. **Opheffing instelling** Ontslag wegens opheffing van een instelling bij een bevoegd gezag waaronder meerdere instellingen van één onderwijssoort ressorteren, wordt getoetst conform [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-02-01&g=2010-08-02), [7A](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7A&z=2010-02-01&g=2010-08-02) of [7B](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7B&z=2010-02-01&g=2010-08-02) van het reglement.
+- c. **Opheffing instelling** Ontslag wegens opheffing van een instelling bij een bevoegd gezag waaronder meerdere instellingen van één onderwijssoort ressorteren, wordt getoetst conform [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-12-02&g=2010-12-02), [7A](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7A&z=2010-12-02&g=2010-12-02) of [7B](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7B&z=2010-12-02&g=2010-12-02) van het reglement.
 
 - d. **Ontslag op grond van onverenigbaarheid van karakters** **Ontslaggrond** De reden voor het ontslag is gelegen in de onverenigbaarheid van karakters. **Onvermijdbaarheid ontslag** Toewijzing van het vergoedingsverzoek op basis van de in dit artikel genoemde ontslaggrond doet zich voor indien het bevoegd gezag aantoont dat er sprake is van onverenigbaarheid van karakters en onwerkbaarheid van de situatie. Tevens overlegt het bevoegd gezag een afschrift van het ontslagbesluit waarin de reden voor het ontslag genoemd is, of wanneer het besluit nog niet is opgemaakt of de reden voor het ontslag niet genoemd wordt, een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor het ontslag, zoals genoemd in artikel 9 sub d, aan betrokkene is kenbaar gemaakt. Bij de beëindiging van een tijdelijk dienstverband verstrekt het bevoegd gezag, wanneer er geen ontslagbesluit wordt opgemaakt, een afschrift van de akte van benoeming en een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor de beëindiging, zoals genoemd in artikel 9 sub d, aan betrokkene is kenbaar gemaakt. **Inspanningsverplichting** Bij een ontslag op grond van artikel 9 sub d, dient het bevoegd gezag te voldoen aan de inspanningsverplichting, artikel 4, categorie I, II, III en IV. Hieronder volgen de eisen die het Participatiefonds in dit kader aan een ontslag op grond van artikel 9 sub d, stelt: **Categorie I functionerings- en beoordelingsgesprekken** **Categorie II vormen van begeleiding** **Categorie III hulp bij behoud van werk, intern** **Categorie IV-A hulp bij behoud van werk, extern (bij ontslag uit een vast dienstverband)** **Categorie IV-B hulp bij behoud van werk, extern (bij ontslag uit een tijdelijk dienstverband)**
 
@@ -948,7 +948,7 @@ Overige gronden voor toewijzing van het vergoedingsverzoek kunnen zijn:
 
 - 3. aanbieden van outplacement (outplacement vervangt de inspanningen 1 en 2 van deze categorie).
 
-- e. **Ontslag op grond van arbeidsongeschiktheid** **Ontslaggrond** De reden voor het ontslag is gelegen in de arbeidsongeschiktheid. **Onvermijdbaarheid ontslag** Toewijzing van het vergoedingsverzoek op basis van de in dit artikel genoemde ontslag grond doet zich voor indien het bevoegd gezag aantoont dat er sprake is van arbeidsongeschiktheid en dat een onderzoek heeft plaatsgevonden waaruit is gebleken dat er geen mogelijkheden zijn om betrokkene te herplaatsen. Het bevoegd gezag overlegt hiertoe in geval van ontslag uit een vast dienstverband een afschrift van de WIA-beschikking en een afschrift van het herplaatsingsonderzoek. In geval van ontslag uit een tijdelijk dienstverband overlegt het bevoegd gezag hiertoe een verklaring van een bevoegde onafhankelijke instelling waaruit blijkt dat betrokkene op de datum van ontslag arbeidsongeschikt is. Tevens overlegt het bevoegd gezag een afschrift van het ontslagbesluit waarin de reden voor het ontslag genoemd is, of wanneer het besluit nog niet is opgemaakt of de reden voor het ontslag niet genoemd wordt, een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor het ontslag, zoals genoemd in artikel 9 sub e aan betrokkene is kenbaar gemaakt. Bij de beëindiging van een tijdelijk dienstverband verstrekt het bevoegd gezag, wanneer er geen ontslagbesluit wordt opgemaakt, een afschrift van de akte van benoeming en een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor de beëindiging, zoals genoemd in artikel 9 sub e, aan betrokkene is kenbaar gemaakt. **Inspanningsverplichting** Bij een ontslag op grond van artikel 9 sub e, dient het bevoegd gezag te voldoen aan de inspanningsverplichting, artikel 4, categorie I, II, III en IV. Indien betrokkene volledig arbeidsongeschikt is verklaard (ontslag uit een vast dienstverband en 80-100% ziek volgens UWV) verlangt het Participatiefonds geen inspanning als bedoeld in de categorieën II, III en IV. Hieronder volgen de eisen die het Participatiefonds in dit kader aan een ontslag op grond van artikel 9 sub e, stelt **Categorie I functionerings- en beoordelingsgesprekken** **Categorie II vormen van begeleiding** **Categorie III hulp bij behoud van werk, intern** **Categorie IV-A hulp bij behoud van werk, extern (bij ontslag uit een vast dienstverband)** **Categorie IV-B hulp bij behoud van werk, extern (bij ontslag uit een tijdelijk dienstverband)**
+- e. **Ontslag op grond van arbeidsongeschiktheid** **Ontslaggrond** De reden voor het ontslag is gelegen in arbeidsongeschiktheid van minder dan 35% in de zin van de [WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057). Wanneer sprake is van 35% of meer arbeidsongeschiktheid in de zin van de WIA, behoeft geen melding bij het Participatiefonds plaats te vinden. Deze uitzondering geldt niet voor arbeidsongeschiktheid in de zin van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524). **Onvermijdbaarheid ontslag** Toewijzing van het vergoedingsverzoek op basis van de in dit artikel genoemde ontslaggrond doet zich voor indien het bevoegd gezag aantoont dat er sprake is van arbeidsongeschiktheid en dat een onderzoek heeft plaatsgevonden waaruit is gebleken dat er geen mogelijkheden zijn om betrokkene te herplaatsen. Het bevoegd gezag overlegt hiertoe in geval van ontslag uit een vast dienstverband een afschrift van de WIA-beschikking en een afschrift van het herplaatsingsonderzoek. In geval van ontslag uit een tijdelijk dienstverband overlegt het bevoegd gezag hiertoe een verklaring van een bevoegde onafhankelijke instelling waaruit blijkt dat betrokkene op de datum van ontslag arbeidsongeschikt is. Tevens overlegt het bevoegd gezag een afschrift van het ontslagbesluit waarin de reden voor het ontslag genoemd is, of wanneer het besluit nog niet is opgemaakt of de reden voor het ontslag niet genoemd wordt, een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor het ontslag, zoals genoemd in artikel 9 sub e aan betrokkene is kenbaar gemaakt. Bij de beëindiging van een tijdelijk dienstverband verstrekt het bevoegd gezag, wanneer er geen ontslagbesluit wordt opgemaakt, een afschrift van de akte van benoeming en een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor de beëindiging, zoals genoemd in artikel 9 sub e, aan betrokkene is kenbaar gemaakt. **Inspanningsverplichting** Bij een ontslag op grond van artikel 9 sub e, dient het bevoegd gezag te voldoen aan de inspanningsverplichting, artikel 4, categorie I, II, III en IV. Indien betrokkene volledig arbeidsongeschikt is verklaard (ontslag uit een vast dienstverband en 80-100% ziek volgens UWV) verlangt het Participatiefonds geen inspanning als bedoeld in de categorieën II, III en IV. Hieronder volgen de eisen die het Participatiefonds in dit kader aan een ontslag op grond van artikel 9 sub e, stelt **Categorie I Functionerings- en beoordelingsgesprekken** **Categorie II Vormen van begeleiding** **Categorie III Hulp bij behoud van werk, intern** **Categorie IV-A Hulp bij behoud van werk, extern (bij ontslag uit een vast dienstverband)** **Categorie IV-B Hulp bij behoud van werk, extern (bij ontslag uit een tijdelijk dienstverband)**
 
 - 1. overzicht met data van functionerings- en beoordelingsgesprekken, lesbezoeken en begeleidingsgesprekken, die hebben plaatsgevonden in de periode van een jaar voorafgaand aan de ontslagdatum;
 
@@ -974,9 +974,7 @@ Overige gronden voor toewijzing van het vergoedingsverzoek kunnen zijn:
 
 - 3. aanbieden van outplacement (outplacement vervangt de inspanningen 1 en 2 van deze categorie).
 
-- e. **Ontslag op grond van arbeidsongeschiktheid** Waar voorheen bij ontslag uit een vast dienstverband werd gevraagd om een afschrift van het functie-ongeschiktheidsadvies te overleggen, is die eis sinds de aanpassing van het BZA per 1 februari 2007 niet meer aan de orde. Sinds de invoering van de [WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) maakt de beoordeling van functie-ongeschiktheid namelijk deel uit van de WIA-beschikking. Er kan worden volstaan met het overleggen van deze WIA-beschikking. Als betrokkene of het bevoegd gezag een deskundigenoordeel aan het UWV heeft aangevraagd, moet dit door het bevoegd gezag zijn betrokken bij het onderzoek ter beoordeling van de vraag of er sprake is van een situatie als bedoeld in artikel 9 sub e (arbeidsongeschiktheid en een onderzoek waaruit is gebleken dat er geen mogelijkheden zijn om betrokkene te herplaatsen).
-
-- f. **Ontslag op grond van ontbinding van de arbeidsovereenkomst op grond van een uitspraak van de sector kanton van de Rechtbank, dan wel een uitspraak van de Commissie van Beroep, de sector bestuursrecht van de Rechtbank of de Centrale Raad van Beroep waarbij het beroep van de werknemer tegen het ontslag ongegrond is verklaard** **Ontslaggrond** De reden voor het ontslag is gelegen in de ontbinding van de arbeidsovereenkomst op grond van een uitspraak van de sector kanton van de Rechtbank, dan wel een uitspraak van de Commissie van Beroep, de sector bestuursrecht van de Rechtbank of de Centrale Raad van Beroep waarbij het beroep van de werknemer tegen het ontslag ongegrond is verklaard. **Onvermijdbaarheid ontslag** Toewijzing van het vergoedingsverzoek op basis van de in dit artikel genoemde ontslaggrond doet zich voor indien: **Sector kanton van de Rechtbank** Het bevoegd gezag een afschrift van de uitspraak van sector kanton van de rechtbank overlegt waarbij de beëindiging of het einde van het dienstverband wordt uitgesproken dan wel wordt bevestigd. Het vergoedingsverzoek wordt afgewezen: **Commissie van Beroep, sector bestuursrecht van de Rechtbank, Centrale Raad van Beroep** Het bevoegd gezag een afschrift van de uitspraak van de Commissie van Beroep, de sector bestuursrecht van de Rechtbank of de Centrale Raad van Beroep overlegt waarin het beroep van betrokkene ongegrond wordt verklaard. Het vergoedingsverzoek wordt vervolgens met inachtneming van de uitspraak getoetst op de in het ontslagbesluit vermelde ontslaggrond. Het vergoedingsverzoek wordt afgewezen in het geval dat er afspraken gemaakt zijn omtrent de informatievoorziening aan de Commissie van Beroep, en aan het Participatiefonds blijkt dat op grond van de feiten en omstandigheden een vergoedingsverzoek moet worden afgewezen. **Inspanningsverplichting** Bij een ontslag op grond van artikel 9 sub f, dient het bevoegd gezag te voldoen aan de inspanningsverplichting, [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=4&z=2010-02-01&g=2010-08-02), categorie IV. Hieronder volgen de eisen die het Participatiefonds in dit kader aan een ontslag op grond van artikel 9 sub f, stelt: **Categorie IV-A hulp bij behoud van werk, extern (bij ontslag uit een vast dienstverband)** **Categorie IV-B hulp bij behoud van werk, extern (bij ontslag uit een tijdelijk dienstverband)**
+- f. **Ontslag op grond van ontbinding van de arbeidsovereenkomst op grond van een uitspraak van de sector kanton van de Rechtbank, dan wel een uitspraak van de Commissie van Beroep, de sector bestuursrecht van de Rechtbank of de Centrale Raad van Beroep waarbij het beroep van de werknemer tegen het ontslag ongegrond is verklaard** **Ontslaggrond** De reden voor het ontslag is gelegen in de ontbinding van de arbeidsovereenkomst op grond van een uitspraak van de sector kanton van de Rechtbank, dan wel een uitspraak van de Commissie van Beroep, de sector bestuursrecht van de Rechtbank of de Centrale Raad van Beroep waarbij het beroep van de werknemer tegen het ontslag ongegrond is verklaard. **Onvermijdbaarheid ontslag** Toewijzing van het vergoedingsverzoek op basis van de in dit artikel genoemde ontslaggrond doet zich voor indien: **Sector kanton van de Rechtbank** Het bevoegd gezag een afschrift van de uitspraak van sector kanton van de rechtbank overlegt waarbij de beëindiging of het einde van het dienstverband wordt uitgesproken dan wel wordt bevestigd. Het vergoedingsverzoek wordt afgewezen: **Commissie van Beroep, sector bestuursrecht van de Rechtbank, Centrale Raad van Beroep** Het bevoegd gezag een afschrift van de uitspraak van de Commissie van Beroep, de sector bestuursrecht van de Rechtbank of de Centrale Raad van Beroep overlegt waarin het beroep van betrokkene ongegrond wordt verklaard. Het vergoedingsverzoek wordt vervolgens met inachtneming van de uitspraak getoetst op de in het ontslagbesluit vermelde ontslaggrond. Het vergoedingsverzoek wordt afgewezen in het geval dat er afspraken gemaakt zijn omtrent de informatievoorziening aan de Commissie van Beroep, en aan het Participatiefonds blijkt dat op grond van de feiten en omstandigheden een vergoedingsverzoek moet worden afgewezen. **Inspanningsverplichting** Bij een ontslag op grond van artikel 9 sub f, dient het bevoegd gezag te voldoen aan de inspanningsverplichting, [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=4&z=2010-12-02&g=2010-12-02), categorie IV. Hieronder volgen de eisen die het Participatiefonds in dit kader aan een ontslag op grond van artikel 9 sub f, stelt: **Categorie IV-A hulp bij behoud van werk, extern (bij ontslag uit een vast dienstverband)** **Categorie IV-B hulp bij behoud van werk, extern (bij ontslag uit een tijdelijk dienstverband)**
 
 - 1. indien uit de uitspraak blijkt dat het geschil in overwegende mate aan het bevoegd gezag te wijten is; of
 
@@ -1004,7 +1002,7 @@ Overige gronden voor toewijzing van het vergoedingsverzoek kunnen zijn:
 
 - g. **Ontslag wegens dringende redenen** **Ontslaggrond** De reden voor het ontslag is gelegen in de dringende redenen. **Onvermijdbaarheid ontslag** Toewijzing van het vergoedingsverzoek op basis van de in dit artikel genoemde ontslaggrond doet zich voor indien het bevoegd gezag aantoont dat er sprake is van een dringende reden. Tevens overlegt het bevoegd gezag een afschrift van het ontslagbesluit waarin de reden voor het ontslag genoemd is, of wanneer het besluit nog niet is opgemaakt of de reden voor het ontslag niet genoemd wordt, een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor het ontslag, zoals genoemd in artikel 9 sub g, aan betrokkene is kenbaar gemaakt. Bij de beëindiging van een tijdelijk dienstverband verstrekt het bevoegd gezag, wanneer er geen ontslagbesluit wordt opgemaakt, een afschrift van de akte van benoeming en een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor de beëindiging, zoals genoemd in artikel 9 sub g, aan betrokkene is kenbaar gemaakt. **Inspanningsverplichting** Bij een ontslag op grond van artikel 9 sub g, vereist het Participatiefonds geen inspanning.
 
-- h. **Ontslag op andere gronden** **Ontslaggrond** De reden voor het ontslag is gelegen in de andere gronden. **Onvermijdbaarheid ontslag** Toewijzing van het vergoedingsverzoek op basis van de in dit artikel genoemde ontslaggrond doet zich voor indien het bevoegd gezag de onvermijdbaarheid van het ontslag op andere gronden aantoont. Tevens overlegt het bevoegd gezag een afschrift van het ontslagbesluit waarin de reden voor het ontslag genoemd is, of wanneer het besluit nog niet is opgemaakt of de reden voor het ontslag niet genoemd wordt, een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor het ontslag, zoals genoemd in artikel 9 sub h, aan betrokkene is kenbaar gemaakt. Bij de beëindiging van een tijdelijk dienstverband verstrekt het bevoegd gezag, wanneer er geen ontslagbesluit wordt opgemaakt, een afschrift van de akte van benoeming en een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor de beëindiging, zoals genoemd in artikel 9 sub h, aan betrokkene is kenbaar gemaakt. **Inspanningsverplichting** Bij een ontslag op grond van artikel 9 sub h, dient het bevoegd gezag te voldoen aan de inspanningsverplichting, [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=4&z=2010-02-01&g=2010-08-02), categorie I, II, III en IV. Hieronder volgen de eisen die het Participatiefonds in dit kader aan een ontslag op grond van artikel 9 sub h, stelt: **Categorie I functionerings- en beoordelingsgesprekken** **Categorie II vormen van begeleiding** **Categorie III hulp bij behoud van werk, intern** **Categorie IV-A hulp bij behoud van werk, extern (bij ontslag uit een vast dienstverband)** **Categorie IV-B hulp bij behoud van werk, extern (bij ontslag uit een tijdelijk dienstverband)**
+- h. **Ontslag op andere gronden** **Ontslaggrond** De reden voor het ontslag is gelegen in de andere gronden. **Onvermijdbaarheid ontslag** Toewijzing van het vergoedingsverzoek op basis van de in dit artikel genoemde ontslaggrond doet zich voor indien het bevoegd gezag de onvermijdbaarheid van het ontslag op andere gronden aantoont. Tevens overlegt het bevoegd gezag een afschrift van het ontslagbesluit waarin de reden voor het ontslag genoemd is, of wanneer het besluit nog niet is opgemaakt of de reden voor het ontslag niet genoemd wordt, een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor het ontslag, zoals genoemd in artikel 9 sub h, aan betrokkene is kenbaar gemaakt. Bij de beëindiging van een tijdelijk dienstverband verstrekt het bevoegd gezag, wanneer er geen ontslagbesluit wordt opgemaakt, een afschrift van de akte van benoeming en een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor de beëindiging, zoals genoemd in artikel 9 sub h, aan betrokkene is kenbaar gemaakt. **Inspanningsverplichting** Bij een ontslag op grond van artikel 9 sub h, dient het bevoegd gezag te voldoen aan de inspanningsverplichting, [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=4&z=2010-12-02&g=2010-12-02), categorie I, II, III en IV. Hieronder volgen de eisen die het Participatiefonds in dit kader aan een ontslag op grond van artikel 9 sub h, stelt: **Categorie I functionerings- en beoordelingsgesprekken** **Categorie II vormen van begeleiding** **Categorie III hulp bij behoud van werk, intern** **Categorie IV-A hulp bij behoud van werk, extern (bij ontslag uit een vast dienstverband)** **Categorie IV-B hulp bij behoud van werk, extern (bij ontslag uit een tijdelijk dienstverband)**
 
 - 1. overzicht met data van functionerings- en beoordelingsgesprekken, lesbezoeken en begeleidingsgesprekken, die hebben plaatsgevonden in de periode van een jaar voorafgaand aan de ontslagdatum;
 
@@ -1066,7 +1064,7 @@ Overige gronden voor toewijzing van het vergoedingsverzoek kunnen zijn:
 
 - k. **Zij-instromer** Indien de zij-instromer tussentijds wordt ontslagen, voordat de geldigheidsduur van de geschiktheidsverklaring is verlopen, wordt deze als regulier onderwijspersoneel getoetst en is artikel 9 sub k niet van toepassing.
 
-- l. **Ontslag van de vervanger van een betrokkene, welke betrokkene gebruik heeft gemaakt van de regeling Spaarverlof als bedoeld in artikel 8.23 CAO-PO** **Ontslaggrond** De reden voor het ontslag is gelegen in de beëindiging van het verlof van de betrokkene die gebruik heeft gemaakt van de regeling Spaarverlof als bedoeld in artikel 8.23 CAO-PO. **Onvermijdbaarheid ontslag** Toewijzing van het vergoedingsverzoek op basis van de in dit artikel genoemde ontslaggrond doet zich voor indien het bevoegd gezag het einde van deze vorm van vervanging meldt en een afschrift van het verlofbesluit overlegt waaruit blijkt dat de einddatum van het spaarverlof overeenkomt met de einddatum van de vervanging. Tevens overlegt het bevoegd gezag een afschrift van het ontslagbesluit waarin de reden voor het ontslag genoemd is, of wanneer het besluit nog niet is opgemaakt of de reden voor het ontslag niet genoemd wordt, een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor het ontslag, zoals genoemd in artikel 9 sub l, aan betrokkene is kenbaar gemaakt. Bij de beëindiging van een tijdelijk dienstverband verstrekt het bevoegd gezag, wanneer er geen ontslagbesluit wordt opgemaakt, een afschrift van de akte van benoeming en een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor de beëindiging, zoals genoemd in artikel 9 sub l, aan betrokkene is kenbaar gemaakt. **Inspanningsverplichting** Bij een ontslag op grond van artikel 9 sub l, dient het bevoegd gezag te voldoen aan de inspanningsverplichting, [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=4&z=2010-02-01&g=2010-08-02), categorie III sub 1. Hieronder volgt de eis die het Participatiefonds in dit kader aan een ontslag op grond van artikel 9 sub l, stelt: **Categorie III hulp bij behoud van werk, intern**
+- l. **Ontslag van de vervanger van een betrokkene, welke betrokkene gebruik heeft gemaakt van de regeling Spaarverlof als bedoeld in artikel 8.23 CAO-PO** **Ontslaggrond** De reden voor het ontslag is gelegen in de beëindiging van het verlof van de betrokkene die gebruik heeft gemaakt van de regeling Spaarverlof als bedoeld in artikel 8.23 CAO-PO. **Onvermijdbaarheid ontslag** Toewijzing van het vergoedingsverzoek op basis van de in dit artikel genoemde ontslaggrond doet zich voor indien het bevoegd gezag het einde van deze vorm van vervanging meldt en een afschrift van het verlofbesluit overlegt waaruit blijkt dat de einddatum van het spaarverlof overeenkomt met de einddatum van de vervanging. Tevens overlegt het bevoegd gezag een afschrift van het ontslagbesluit waarin de reden voor het ontslag genoemd is, of wanneer het besluit nog niet is opgemaakt of de reden voor het ontslag niet genoemd wordt, een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor het ontslag, zoals genoemd in artikel 9 sub l, aan betrokkene is kenbaar gemaakt. Bij de beëindiging van een tijdelijk dienstverband verstrekt het bevoegd gezag, wanneer er geen ontslagbesluit wordt opgemaakt, een afschrift van de akte van benoeming en een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor de beëindiging, zoals genoemd in artikel 9 sub l, aan betrokkene is kenbaar gemaakt. **Inspanningsverplichting** Bij een ontslag op grond van artikel 9 sub l, dient het bevoegd gezag te voldoen aan de inspanningsverplichting, [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=4&z=2010-12-02&g=2010-12-02), categorie III sub 1. Hieronder volgt de eis die het Participatiefonds in dit kader aan een ontslag op grond van artikel 9 sub l, stelt: **Categorie III hulp bij behoud van werk, intern**
 
 - 1. intern een andere passende functie aanbieden.
 
@@ -1088,7 +1086,7 @@ Overige gronden voor toewijzing van het vergoedingsverzoek kunnen zijn:
 
 - q. **Ontslag van een onderwijsassistent in opleiding** **Ontslaggrond** De reden voor het ontslag is gelegen in de afloop van de leer-arbeidsovereenkomst van de onderwijsassistent in opleiding zoals bedoeld in artikel 3.27 en 4.26 CAO-PO. **Onvermijdbaarheid ontslag** Toewijzing van het vergoedingsverzoek op basis van de in dit artikel genoemde ontslaggrond doet zich voor indien het bevoegd gezag het ontslag van een onderwijsassistent in opleiding meldt en een afschrift van de leer-arbeidsovereenkomst overlegt waarin de einddatum genoemd is. **Inspanningsverplichting** Bij een ontslag op grond van artikel 9 sub q, vereist het Participatiefonds geen inspanning.
 
-- r. **Ontslag wegens terugkeer levensloopganger** **Ontslaggrond** De reden voor het ontslag is gelegen in de beëindiging van het verlof van de betrokkene die gebruik heeft gemaakt van de levensloopregeling. **Onvermijdbaarheid ontslag** Toewijzing van het vergoedingsverzoek op basis van de in dit artikel genoemde ontslaggrond doet zich voor indien het bevoegd gezag het einde van deze vorm van vervanging meldt en een afschrift van het verlofbesluit overlegt waaruit blijkt dat de einddatum van het levensloopverlof overeenkomt met de einddatum van de vervanging. Tevens overlegt het bevoegd gezag een afschrift van het ontslagbesluit waarin de reden voor het ontslag genoemd is, of wanneer het besluit nog niet is opgemaakt of de reden voor het ontslag niet genoemd wordt, een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor het ontslag, zoals genoemd in artikel 9 sub r, aan betrokkene is kenbaar gemaakt. Bij de beëindiging van een tijdelijk dienstverband verstrekt het bevoegd gezag, wanneer er geen ontslagbesluit wordt opgemaakt, een afschrift van de akte van benoeming en een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor de beëindiging, zoals genoemd in artikel 9 sub r, aan betrokkene is kenbaar gemaakt. **Inspanningsverplichting** Bij een ontslag op grond van artikel 9 sub r, dient het bevoegd gezag te voldoen aan de inspanningsverplichting, [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=4&z=2010-02-01&g=2010-08-02), categorie III sub 1. Hieronder volgt de eis die het Participatiefonds in dit kader aan een ontslag op grond van artikel 9 sub r, stelt: **Categorie III hulp bij behoud van werk, intern**
+- r. **Ontslag wegens terugkeer levensloopganger** **Ontslaggrond** De reden voor het ontslag is gelegen in de beëindiging van het verlof van de betrokkene die gebruik heeft gemaakt van de levensloopregeling. **Onvermijdbaarheid ontslag** Toewijzing van het vergoedingsverzoek op basis van de in dit artikel genoemde ontslaggrond doet zich voor indien het bevoegd gezag het einde van deze vorm van vervanging meldt en een afschrift van het verlofbesluit overlegt waaruit blijkt dat de einddatum van het levensloopverlof overeenkomt met de einddatum van de vervanging. Tevens overlegt het bevoegd gezag een afschrift van het ontslagbesluit waarin de reden voor het ontslag genoemd is, of wanneer het besluit nog niet is opgemaakt of de reden voor het ontslag niet genoemd wordt, een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor het ontslag, zoals genoemd in artikel 9 sub r, aan betrokkene is kenbaar gemaakt. Bij de beëindiging van een tijdelijk dienstverband verstrekt het bevoegd gezag, wanneer er geen ontslagbesluit wordt opgemaakt, een afschrift van de akte van benoeming en een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor de beëindiging, zoals genoemd in artikel 9 sub r, aan betrokkene is kenbaar gemaakt. **Inspanningsverplichting** Bij een ontslag op grond van artikel 9 sub r, dient het bevoegd gezag te voldoen aan de inspanningsverplichting, [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=4&z=2010-12-02&g=2010-12-02), categorie III sub 1. Hieronder volgt de eis die het Participatiefonds in dit kader aan een ontslag op grond van artikel 9 sub r, stelt: **Categorie III hulp bij behoud van werk, intern**
 
 - 1. intern een andere passende functie aanbieden.
 
@@ -1110,9 +1108,9 @@ Overige gronden voor toewijzing van het vergoedingsverzoek kunnen zijn:
 
 - 3. aanbieden van outplacement (outplacement vervangt de inspanningen 1 en 2 van deze categorie).
 
-- t. **Ontslag wegens beëindiging van een landelijke subsidie** Dit artikel heeft betrekking op ontslagen als gevolg van de beëindiging van landelijk door de overheid beschikbaar gestelde subsidies. Van een landelijke subsidie is sprake indien ieder bevoegd gezag in het primair onderwijs in principe voor deze subsidie in aanmerking komt. Dit in tegenstelling tot niet landelijke subsidies of subsidies van derden. Deze laatstgenoemde subsidies kunnen beschikbaar zijn op bijvoorbeeld uitsluitend gemeentelijk of regionaal niveau. In dat geval komen niet alle bevoegde gezagsorganen voor de subsidie in aanmerking. Gelet op het vereveningskarakter van het Participatiefonds geldt voor die gevallen de reguliere formatieve toets als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-02-01&g=2010-08-02), [7A](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7A&z=2010-02-01&g=2010-08-02) of [7B](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7B&z=2010-02-01&g=2010-08-02) van dit reglement, inclusief de daar genoemde inspanningsverplichting.
+- t. **Ontslag wegens beëindiging van een landelijke subsidie** Dit artikel heeft betrekking op ontslagen als gevolg van de beëindiging van landelijk door de overheid beschikbaar gestelde subsidies. Van een landelijke subsidie is sprake indien ieder bevoegd gezag in het primair onderwijs in principe voor deze subsidie in aanmerking komt. Dit in tegenstelling tot niet landelijke subsidies of subsidies van derden. Deze laatstgenoemde subsidies kunnen beschikbaar zijn op bijvoorbeeld uitsluitend gemeentelijk of regionaal niveau. In dat geval komen niet alle bevoegde gezagsorganen voor de subsidie in aanmerking. Gelet op het vereveningskarakter van het Participatiefonds geldt voor die gevallen de reguliere formatieve toets als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-12-02&g=2010-12-02), [7A](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7A&z=2010-12-02&g=2010-12-02) of [7B](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7B&z=2010-12-02&g=2010-12-02) van dit reglement, inclusief de daar genoemde inspanningsverplichting.
 
-- u. **Ontslag op grond van een beëindigingsovereenkomst** **Ontslaggrond** De reden voor het ontslag is gelegen in de beëindigingsovereenkomst waarbij het dienstverband met wederzijds goedvinden wordt beëindigd. **Onvermijdbaarheid ontslag** Toewijzing van het vergoedingsverzoek op basis van de in dit artikel genoemde ontslaggrond doet zich voor indien het bevoegd gezag een afschrift van de beëindigingsovereenkomst overlegt. De beëindigingsovereenkomst bevat minimaal de volgende onderdelen: **Inspanningsverplichting** Bij een ontslag op grond van artikel 9 sub u, dient het bevoegd gezag te voldoen aan de inspanningsverplichting, [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=4&z=2010-02-01&g=2010-08-02), categorie IV. Hieronder volgen de eisen die het Participatiefonds in dit kader aan een ontslag op grond van artikel 9 sub u, stelt: **Categorie IV-A hulp bij behoud van werk, extern (bij ontslag uit een vast dienstverband)** **Categorie IV-B hulp bij behoud van werk, extern (bij ontslag uit een tijdelijk dienstverband)**
+- u. **Ontslag op grond van een beëindigingsovereenkomst** **Ontslaggrond** De reden voor het ontslag is gelegen in de beëindigingsovereenkomst waarbij het dienstverband met wederzijds goedvinden wordt beëindigd. **Onvermijdbaarheid ontslag** Toewijzing van het vergoedingsverzoek op basis van de in dit artikel genoemde ontslaggrond doet zich voor indien het bevoegd gezag een afschrift van de beëindigingsovereenkomst overlegt. De beëindigingsovereenkomst bevat minimaal de volgende onderdelen: **Inspanningsverplichting** Bij een ontslag op grond van artikel 9 sub u, dient het bevoegd gezag te voldoen aan de inspanningsverplichting, [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=4&z=2010-12-02&g=2010-12-02), categorie IV. Hieronder volgen de eisen die het Participatiefonds in dit kader aan een ontslag op grond van artikel 9 sub u, stelt: **Categorie IV-A hulp bij behoud van werk, extern (bij ontslag uit een vast dienstverband)** **Categorie IV-B hulp bij behoud van werk, extern (bij ontslag uit een tijdelijk dienstverband)**
 
 - a. naam en adres van u en uw werkgever;
 
@@ -1144,11 +1142,43 @@ Overige gronden voor toewijzing van het vergoedingsverzoek kunnen zijn:
 
 - u. **Ontslag op grond van een beëindigingsovereenkomst** Bij het bepalen van de minimumvereisten waaraan een beëindigingsovereenkomst moet voldoen, heeft het Participatiefonds aansluiting gezocht bij de minimumvereisten die UWV aan een beëindigingsovereenkomst stelt.
 
+- v. **Ontslag wegens bezuiniging op ambulante begeleiding en de leerlinggebonden financiering** **Ontslaggrond** De reden voor het ontslag is de vermindering van de bedragen van de rugzak speciaal basisonderwijs en het leerlinggebonden budget cluster 3 en 4 als gevolg van het Besluit van 31 maart 2010 tot wijziging per 1 augustus 2010 van enkele bedragen van het leerlinggebonden budget in het Besluit bekostiging WPO en het Bekostigingsbesluit W.V.O (Staatsblad 2010, 156).
+
+Toewijzing van het vergoedingsverzoek op basis van de in dit artikel genoemde ontslaggrond doet zich voor indien het bevoegd gezag aantoont dat als gevolg van de wijziging van het Besluit bekostiging WPO en het Bekostigingsbesluit W.V.O vermindering is opgetreden van de rijksbekostiging voor ambulant begeleiders voor cluster 3 en 4 en personeelsleden in het speciaal basisonderwijs. De daling van deze rijksbekostiging is miniaal gelijk aan de omvang van het gemelde ontslag.
+
+Tevens overlegt het bevoegd gezag een afschrift van het ontslagbesluit waarin de reden voor het ontslag genoemd is, of wanneer het besluit nog niet is opgemaakt of de reden voor het ontslag niet genoemd wordt, een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor het ontslag, zoals genoemd in artikel 9 sub v, aan betrokkene is kenbaar gemaakt.
+
+Bij de beëindiging van een tijdelijk dienstverband verstrekt het bevoegd gezag, wanneer er geen ontslagbesluit wordt opgemaakt, een afschrift van de akte van benoeming en een afschrift van het document waaruit blijkt dat de daadwerkelijke reden voor de beëindiging, zoals genoemd in artikel 9 sub v, aan betrokkene is kenbaar gemaakt.
+
+Om flankerend beleid vast te stellen dat erop gericht is om optimale voorwaarden te scheppen voor de mobiliteit van met ontslag bedreigde personeelsleden, hebben de minister van OCW, de PO-raad, de WEC-raad en de centrales het Convenant flankerend beleid naar aanleiding van wijziging van het [Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862) en het [Bekostigingsbesluit W.V.O](https://wetten.overheid.nl/jci1.3:c:BWBR0005672). in verband met de wijziging van enkele bedragen van het leerlinggebonden budget gesloten.
+
+Bij een ontslag op grond van artikel 9 sub v, overlegt het bevoegd gezag een schriftelijke verklaring waarin het volgende dient te zijn opgenomen:
+
+- a. het bevoegd gezag heeft het personeelslid dat hij niet intern heeft kunnen herplaatsen, onverwijld aangemeld bij het matchpunt (als bedoeld in artikel 2, tweede lid, van het Convenant), met vermelding van de datum waarop de aanmelding bij het matchpunt heeft plaatsgevonden en
+
+- b. het bevoegd gezag heeft het matchpunt, ten aanzien van personeelsleden die zichzelf bij het matchpunt hebben aangemeld, in de gelegenheid gesteld om de in artikel 4, tweede lid, van het Convenant genoemde toetsing uit te voeren.
+
+Daarnaast dient het bevoegd gezag te voldoen aan de inspanningsverplichting, artikel 4, categorie IV. Hieronder volgen de eisen die het Participatiefonds in dit kader aan een ontslag op grond van artikel 9 sub v, stelt:
+
+- 1. extern een passende functie zoeken (indien aangesloten, gebruik maken van een mobiliteitscentrum/arbeidspool, zoeken bij een ander bevoegd gezag, of buiten het onderwijs); en
+
+- 2. (vervallen)
+
+- 3. aanbieden van faciliteiten die de positie op de arbeidsmarkt verbeteren; of
+
+- 4. aanbieden van outplacement (outplacement vervangt de inspanningen 1 tot en met 3 van deze categorie).
+
+- 1. (vervallen)
+
+- 2. aanbieden van faciliteiten die de positie op de arbeidsmarkt verbeteren; of
+
+- 3. aanbieden van outplacement (outplacement vervangt de inspanningen 1 en 2 van deze categorie).
+
 ##### Artikel 10
 
 Vervallen
 
-### Toelichting op [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=10&z=2010-02-01&g=2010-08-02)
+### Toelichting op [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=10&z=2010-12-02&g=2010-12-02)
 
 Er zijn geen toelichtingen.
 
@@ -1158,7 +1188,7 @@ Er zijn geen toelichtingen.
 
 11.1. **Ontslaggrond**
 
-Ontslag van schoonmaakpersoneel, anders dan op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=9&z=2010-02-01&g=2010-08-02), kan grond zijn voor toewijzing van een vergoedingsverzoek. Ontslag van schoonmaakpersoneel doet zich voor indien blijkt dat de materiële instandhouding op het niveau van het bevoegd gezag over twee opeenvolgende jaren, inclusief andere ontslagen en natuurlijk verloop, vermindert of is verminderd met een omvang die tenminste gelijk is aan de netto-loonkosten op jaarbasis van het ontslagen personeelslid.
+Ontslag van schoonmaakpersoneel, anders dan op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=9&z=2010-12-02&g=2010-12-02), kan grond zijn voor toewijzing van een vergoedingsverzoek. Ontslag van schoonmaakpersoneel doet zich voor indien blijkt dat de materiële instandhouding op het niveau van het bevoegd gezag over twee opeenvolgende jaren, inclusief andere ontslagen en natuurlijk verloop, vermindert of is verminderd met een omvang die tenminste gelijk is aan de netto-loonkosten op jaarbasis van het ontslagen personeelslid.
 
 11.2. **Toetsingsmoment**
 
@@ -1230,7 +1260,7 @@ Bij een ontslag op grond van artikel 11 dient het bevoegd gezag te voldoen aan c
 
 - 3. aanbieden van outplacement (outplacement vervangt de inspanningen 1 en 2 van deze categorie).
 
-### Toelichting op [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=11&z=2010-02-01&g=2010-08-02)
+### Toelichting op [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=11&z=2010-12-02&g=2010-12-02)
 
 Dit artikel is ook van toepassing op het ontslag van personeel bij een Centrale Dienst.
 
@@ -1242,33 +1272,33 @@ Indien het ontslag op een andere datum dan 1 januari of 1 augustus wordt geëffe
 
 12.1. **Ter uitwerking van de in dit reglement opgenomen bepalingen omtrent toetsing van het ontslag worden door het bevoegd gezag de volgende formulieren gehanteerd en toelichtingen verstrekt:**
 
-De melding van een ontslag genoemd in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-02-01&g=2010-08-02), [7A](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7A&z=2010-02-01&g=2010-08-02) of [7B](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7B&z=2010-02-01&g=2010-08-02) bestaat uit:
+De melding van een ontslag genoemd in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-12-02&g=2010-12-02), [7A](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7A&z=2010-12-02&g=2010-12-02) of [7B](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7B&z=2010-12-02&g=2010-12-02) bestaat uit:
 
 - a. een ingevuld formulier ‘Opgave medewerker’;
 
 - b. een ingevuld formulier ‘Opgave formatie’ of, indien het de melding van het ontslag bij een centrale dienst betreft, een ingevuld formulier ‘Opgave schoonmaakpersoneel/personeel Centrale Dienst’;
 
-- c. per ontslag de gegevens als genoemd in [artikel 7.6 sub c en sub d](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-02-01&g=2010-08-02), indien het een uitgesteld ontslag betreft.
+- c. per ontslag de gegevens als genoemd in [artikel 7.6 sub c en sub d](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-12-02&g=2010-12-02), indien het een uitgesteld ontslag betreft.
 
-De melding van ontslag genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=8&z=2010-02-01&g=2010-08-02) bestaat uit:
+De melding van ontslag genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=8&z=2010-12-02&g=2010-12-02) bestaat uit:
 
 - a. een ingevuld formulier ‘Opgave medewerker’;
 
 - b. een ingevuld formulier ‘Opgave kwalitatieve frictie’.
 
-De melding van een ontslag genoemd in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=9&z=2010-02-01&g=2010-08-02) bestaat uit:
+De melding van een ontslag genoemd in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=9&z=2010-12-02&g=2010-12-02) bestaat uit:
 
 - a. een ingevuld formulier ‘Opgave medewerker’;
 
 - b. een afschrift van het ontslagbesluit.
 
-De melding van een ontslag genoemd in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=11&z=2010-02-01&g=2010-08-02) bestaat uit:
+De melding van een ontslag genoemd in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=11&z=2010-12-02&g=2010-12-02) bestaat uit:
 
 - a. een ingevuld formulier ‘Opgave medewerker’;
 
 - b. een ingevuld formulier ‘Opgave schoonmaakpersoneel/personeel Centrale Dienst’.
 
-Bij de melding van ontslagen op grond van het genoemde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-02-01&g=2010-08-02), [7A](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7A&z=2010-02-01&g=2010-08-02), [7B](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7B&z=2010-02-01&g=2010-08-02), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=8&z=2010-02-01&g=2010-08-02), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=9&z=2010-02-01&g=2010-08-02) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=11&z=2010-02-01&g=2010-08-02), dienen eveneens de op de betreffende formulieren genoemde bijlagen te zijn gevoegd.
+Bij de melding van ontslagen op grond van het genoemde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-12-02&g=2010-12-02), [7A](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7A&z=2010-12-02&g=2010-12-02), [7B](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7B&z=2010-12-02&g=2010-12-02), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=8&z=2010-12-02&g=2010-12-02), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=9&z=2010-12-02&g=2010-12-02) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=11&z=2010-12-02&g=2010-12-02), dienen eveneens de op de betreffende formulieren genoemde bijlagen te zijn gevoegd.
 
 12.2. **Afspraken**
 
@@ -1284,7 +1314,7 @@ Indien er afspraken zijn gemaakt tussen het bevoegd gezag en betrokkene over:
 
 - e. de gevolgen van een beslissing van het Participatiefonds in het kader van de instroomtoets, of de gevolgen van een beslissing van UWV in het kader van de uitkeringsaanvraag;
 
-wordt hier tevens opgave van gedaan bij de melding van ontslag op grond van het genoemde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-02-01&g=2010-08-02), [7A](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7A&z=2010-02-01&g=2010-08-02), [7B](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7B&z=2010-02-01&g=2010-08-02), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=8&z=2010-02-01&g=2010-08-02), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=9&z=2010-02-01&g=2010-08-02) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=11&z=2010-02-01&g=2010-08-02).
+wordt hier tevens opgave van gedaan bij de melding van ontslag op grond van het genoemde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7&z=2010-12-02&g=2010-12-02), [7A](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7A&z=2010-12-02&g=2010-12-02), [7B](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=7B&z=2010-12-02&g=2010-12-02), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=8&z=2010-12-02&g=2010-12-02), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=9&z=2010-12-02&g=2010-12-02) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=11&z=2010-12-02&g=2010-12-02).
 
 Uitgangspunt is dat alle informatie die het Participatiefonds in het kader van de instroomtoets van het bevoegd gezag ontvangt, wordt meegewogen in de beoordeling van het vergoedingsverzoek.
 
@@ -1292,7 +1322,7 @@ Uitgangspunt is dat alle informatie die het Participatiefonds in het kader van d
 
 Vervallen
 
-### Toelichting op [artikel 12–13](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=12&z=2010-02-01&g=2010-08-02)
+### Toelichting op [artikel 12–13](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=12&z=2010-12-02&g=2010-12-02)
 
 Er zijn geen toelichtingen.
 
@@ -1306,9 +1336,9 @@ Er zijn geen toelichtingen.
 
 Het bevoegd gezag is verplicht alle medewerking te verlenen aan een controle door of namens het Participatiefonds welke gericht is op de beoordeling van de rechtmatigheid van een melding. Het bevoegd gezag draagt zorg voor een administratie welke op een centraal punt is in te zien en geeft hier desgevraagd inzage in voor zover relevant en betrekking hebbend op de melding.
 
-### Toelichting op [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=15&z=2010-02-01&g=2010-08-02)
+### Toelichting op [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=15&z=2010-12-02&g=2010-12-02)
 
-De in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=15&z=2010-02-01&g=2010-08-02) bedoelde administratie dient het bevoegd gezag gedurende een periode van vijf jaar te bewaren.
+De in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=3&artikel=15&z=2010-12-02&g=2010-12-02) bedoelde administratie dient het bevoegd gezag gedurende een periode van vijf jaar te bewaren.
 
 ### Deel 4. Zelfstandig wachtgeldbeleid
 
@@ -1358,7 +1388,7 @@ Dit reglement treedt in werking op 1 februari 2010 en heeft betrekking op alle o
 
 Dit reglement wordt bekendgemaakt middels toezending aan de betrokken bevoegde gezagsorganen, vermelding in het publicatieblad Rentree van het Participatiefonds en plaatsing op de internetsite van het Participatiefonds. Van de bekendmaking wordt mededeling gedaan in de Staatscourant.
 
-### Toelichting op [artikel 26–33](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=5&artikel=26&z=2010-02-01&g=2010-08-02)
+### Toelichting op [artikel 26–33](https://wetten.overheid.nl/jci1.3:c:BWBR0027683&deel=5&artikel=26&z=2010-12-02&g=2010-12-02)
 
 Er zijn geen toelichtingen.
 
