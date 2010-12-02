@@ -4,7 +4,7 @@ identifier: "BWBR0002688"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-12-02"
-last_updated: "1970-01-01"
+last_updated: "2010-12-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002688"
 soort: "ministeriele-regeling"
@@ -40,7 +40,7 @@ Besluiten:
 
 ##### Artikel 1
 
-Voor de toepassing van de [artikelen 2, eerste lid, onder d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&artikel=2), [3, tweede lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&artikel=3), [5, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&artikel=5), [6, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&artikel=6), [14, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&artikel=14), [16, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&artikel=16), [19, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&artikel=19), en [22, eerste lid, onder b, van het Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&artikel=22) (**Stb.** 1969, 405), worden de volgende landen aangewezen:
+Voor de toepassing van de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&artikel=3), jo. 3, eerste lid, onder h, onder 1°, [6, eerste lid, onder b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&artikel=6), [14, eerste lid, onder c, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&artikel=14), en [16, eerste lid, onder c, onder 2°, van het Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&artikel=16) worden de volgende landen aangewezen:
 
 - a. voor alle wijzen van vervoer: België, Bondsrepubliek Duitsland, Bulgarije, Denemarken, Finland, Frankrijk, Griekenland, Hongarije, Italië, Irak, Joegoslavië, Liechtenstein, Luxemburg, Marokko, Noorwegen, Oost-Duitsland, Oostenrijk, Polen, Portugal, Roemenië, Syrië, Spanje, Tjechoslowakije, Tunesië, Turkije, Verenigd Koninkrijk, Zweden en Zwitserland;
 
