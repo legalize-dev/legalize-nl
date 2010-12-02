@@ -4,7 +4,7 @@ identifier: "BWBR0016405"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-12-02"
-last_updated: "2004-03-21"
+last_updated: "2010-12-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016405"
 soort: "ministeriele-regeling"
@@ -41,7 +41,7 @@ Besluiten:
 
 ##### Artikel 1
 
-Inrichtingen als bedoeld in [artikel 15, onder b, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), waarin kernenergie kan worden vrijgemaakt met het oogmerk om energie op te wekken, voldoen aan de Code and Safety Guides Q1 tot en met Q7 en Q10 tot en met Q14, Quality Assurance for Safety in Nuclear Power Plants and other Nuclear Installations, uitgave 1996, van het International Atomic Energy Agency te Wenen, zoals gewijzigd overeenkomstig de bijlage bij deze regeling.
+Inrichtingen als bedoeld in [artikel 15, onder b, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), waarin kernenergie kan of kon worden vrijgemaakt met het oogmerk om energie op te wekken, voldoen aan de Code and Safety Guides Q1 tot en met Q7 en Q10 tot en met Q14, Quality Assurance for Safety in Nuclear Power Plants and other Nuclear Installations, uitgave 1996, van het International Atomic Energy Agency te Wenen, zoals gewijzigd overeenkomstig de bijlage bij deze regeling.
 
 ##### Artikel 2
 
