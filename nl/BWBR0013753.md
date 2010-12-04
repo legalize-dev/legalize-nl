@@ -4,7 +4,7 @@ identifier: "BWBR0013753"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2010-05-04"
+last_updated: "2010-12-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013753"
 soort: "AMvB"
@@ -82,11 +82,35 @@ In dit besluit wordt verstaan onder:
 
 1. Aan ministers en staatssecretarissen die niet zijn verhuisd en van wie de woning zich op een afstand van ten minste 50 kilometer van het ministerie bevindt, wordt op hun verzoek voor de duur van de vervulling van hun ambt een gemeubileerde verblijfsvoorziening binnen een afstand van 25 kilometer van het ministerie ter beschikking gesteld.
 
-2. Onze Minister kan nadere regels stellen ter uitvoering van het eerste lid.
+2. Aan ministers en staatssecretarissen die een gemeubileerde verblijfsvoorziening als bedoeld in het eerste lid ter beschikking is gesteld, worden in verband met de verblijfsvoorziening verstrekt dan wel de kosten vergoed van:
+
+- a. huur van een parkeerplaats, voor zover deze onderdeel uitmaakt van de ter beschikking gestelde verblijfsvoorziening;
+
+- b. beveiliging als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=4&z=2010-12-04&g=2010-12-04);
+
+- c. informatie- en communicatievoorzieningen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=5&z=2010-12-04&g=2010-12-04);
+
+- d. gemeentelijke belastingen als bedoeld in [hoofdstuk XV van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&hoofdstuk=XV) en waterschapsbelastingen als bedoeld in [artikel 123, eerste lid, onderdeel a, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=123);
+
+- e. abonnement voor ontvangst van radio en televisie;
+
+- f. abonnement voor een krant;
+
+- g. gas, licht, water;
+
+- h. wassen en strijken;
+
+- i. schoonmaak.
+
+3. Onze Minister kan nadere regels stellen ter uitvoering van het eerste lid.
 
 ##### Artikel 4
 
-Ten behoeve van ministers en staatssecretarissen en hun gezinsleden worden passende beveiligingsmaatregelen getroffen.
+1. Ten behoeve van ministers en staatssecretarissen en hun gezinsleden worden passende beveiligingsmaatregelen getroffen.
+
+2. Indien dit om veiligheidsredenen noodzakelijk wordt geoordeeld, wordt aan ministers en staatssecretarissen een gemeubileerde verblijfsvoorziening ter beschikking gesteld.
+
+3. [Artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=3&z=2010-12-04&g=2010-12-04), is van overeenkomstige toepassing.
 
 ##### Artikel 5
 
@@ -166,7 +190,7 @@ waarin:
 
 M = het bedrag van de vergoeding;
 
-CAT = de catalogusprijs van de dienstauto, met inbegrip van BTW en BPM;
+CAT = de catalogusprijs van de dienstauto, met inbegrip van BTW en BPM, verminderd met het deel van de catalogusprijs, met inbegrip van BTW en BPM, dat toerekenbaar is aan buitengewone beveiligingsmaatregelen;
 
 P = het toepasselijke percentage, genoemd in [artikel 13bis, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=13bis).
 
@@ -219,5 +243,15 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 17
 
 Dit besluit wordt aangehaald als: Voorzieningenbesluit ministers en staatssecretarissen.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 6a
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 15a
+
+Dit onderdeel is nog niet inwerking getreden
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
