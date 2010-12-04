@@ -4,7 +4,7 @@ identifier: "BWBR0025278"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2010-09-01"
+last_updated: "2010-12-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025278"
 soort: "AMvB"
@@ -140,7 +140,7 @@ waarin:
 
 M = het bedrag van de vergoeding;
 
-CAT = de catalogusprijs van de dienstauto, met inbegrip van belasting over de toegevoegde waarde (omzetbelasting) en belasting van personenauto's en motorrijwielen;
+CAT = de catalogusprijs van de dienstauto, met inbegrip van belasting over de toegevoegde waarde (omzetbelasting) en belasting van personenauto's en motorrijwielen, verminderd met het deel van de catalogusprijs, met inbegrip van belasting over de toegevoegde waarde (omzetbelasting) en belasting van personenauto's en motorrijwielen, dat toerekenbaar is aan buitengewone beveiligingsmaatregelen;
 
 P = het toepasselijke percentage, genoemd in [artikel 13bis, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=13bis).
 
@@ -198,12 +198,22 @@ De volgende besluiten worden ingetrokken:
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met dien verstande dat:
 
-- a. [artikel 4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025278&artikel=4&z=2010-09-01&g=2010-09-01), terugwerkt tot en met 1 januari 2005;
+- a. [artikel 4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025278&artikel=4&z=2010-12-04&g=2010-12-04), terugwerkt tot en met 1 januari 2005;
 
-- b. [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025278&artikel=4&z=2010-09-01&g=2010-09-01), terugwerkt tot en met 1 oktober 2007.
+- b. [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025278&artikel=4&z=2010-12-04&g=2010-12-04), terugwerkt tot en met 1 oktober 2007.
 
 ##### Artikel 13
 
 Dit besluit wordt aangehaald als: Besluit rechtspositie Raad van State, Algemene Rekenkamer en Nationale ombudsman.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 3a
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 11a
+
+Dit onderdeel is nog niet inwerking getreden
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
