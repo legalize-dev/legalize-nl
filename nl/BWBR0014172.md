@@ -4,7 +4,7 @@ identifier: "BWBR0014172"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2019-02-08"
-last_updated: "2004-11-01"
+last_updated: "2010-12-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014172"
 soort: "beleidsregel"
@@ -66,7 +66,9 @@ In dit besluit wordt verstaan onder:
 
 - d. DKP: de Directie Kabinet en Protocol van het ministerie van Buitenlandse Zaken;
 
-- e. afnemer: degene aan wie persoonsgegevens uit PROBAS kunnen worden verstrekt, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014172&artikel=6&z=2004-11-01&g=2004-11-01).
+- e. afnemer: een bestuursorgaan;
+
+- f. derde: elke andere persoon of instelling dan een afnemer en de geprivilegieerde.
 
 ##### Artikel 2. PROBAS
 
@@ -80,7 +82,7 @@ PROBAS heeft tot doel:
 
 - a. de naleving te bevorderen van de verdragsverplichtingen en de verplichtingen uit internationale overeenkomsten daaronder begrepen de rechten en plichten van geprivilegieerden, en
 
-- b. de afnemers te voorzien van de persoonsgegevens, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014172&artikel=4&z=2004-11-01&g=2004-11-01), voor zover deze gegevens noodzakelijk zijn voor de vervulling van de taken van de afnemers.
+- b. de afnemers te voorzien van de persoonsgegevens, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014172&artikel=4&z=2010-12-09&g=2010-12-09), voor zover deze gegevens noodzakelijk zijn voor de vervulling van de taken van de afnemers.
 
 ##### Artikel 4. Soorten opgenomen persoonsgegevens
 
@@ -100,7 +102,7 @@ PROBAS omvat de volgende persoonsgegevens van geprivilegieerden:
 
 - g. gegevens omtrent sociale verzekeringen;
 
-- h. gegevens omtrent belastingafdracht;
+- h. vervallen;
 
 - i. het centrale registratie en vreemdelingennummer voor zover de geprivilegieerde duurzaam verblijf houdt in Nederland; en
 
@@ -108,45 +110,39 @@ PROBAS omvat de volgende persoonsgegevens van geprivilegieerden:
 
 ##### Artikel 5. Verwijdering en vernietiging van persoonsgegevens
 
-De persoonsgegevens, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014172&artikel=4&z=2004-11-01&g=2004-11-01), worden verwijderd en vernietigd 5 jaar na het overlijden van een geprivilegieerde.
+Vervallen
 
 ##### Artikel 6. Afnemers
 
-Afnemers zijn organen van het Rijk, provincies, gemeenten of andere openbare lichamen met inbegrip van daaronder ressorterende diensten, instellingen en bedrijven, alsmede organen van een instelling die met de uitvoering van publiekrechtelijke taken zijn belast.
+Vervallen
 
 ##### Artikel 7. Verstrekking aan afnemers
 
-1. Uit PROBAS worden, voor zover zulks voortvloeit uit het doel van PROBAS, persoonsgegevens verstrekt aan afnemers. De verstrekking vindt slechts plaats op een verzoek dat de grondslag voor de verstrekking vermeldt. Het persoonsgegeven, genoemd in [artikel 4, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0014172&artikel=4&z=2004-11-01&g=2004-11-01), wordt uitsluitend verstrekt aan de afnemer, genoemd in het tweede lid, onder d.
+1. Uit PROBAS worden, voor zover zulks voortvloeit uit het doel van PROBAS, persoonsgegevens verstrekt aan afnemers. De verstrekking vindt slechts plaats op een verzoek dat de grondslag voor de verstrekking vermeldt. Het persoonsgegeven, genoemd in [artikel 4, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0014172&artikel=4&z=2010-12-09&g=2010-12-09), wordt uitsluitend verstrekt aan de afnemers, genoemd in het tweede lid, onder c en d.
 
 2. Een verzoek, bedoeld in het eerste lid, is niet nodig indien de verstrekking van persoonsgegevens tot doel heeft om een van de volgende afnemers op de hoogte te stellen van wijzigingen in de persoonsgegevens van geprivilegieerden:
 
-- a. Het Kabinet van de Burgemeester te Den Haag,
+- a. De Belastingdienst Douane, ondernemingen en particulieren,
 
-- b. De Belastingdienst Douane, ondernemingen en particulieren,
+- b. De gemeentelijke basisadministraties,
 
-- c. De gemeentelijke basisadministraties,
+- c. Het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (AIVD),
 
-- d. Het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (AIVD),
+- d. Het Ministerie van Defensie (MIVD),
 
-- e. Het Kabinet van de Commissaris van de Koningin,
+- e. De gemeenten in verband met gemeentelijke belastingen,
 
-- f. Het Ministerie van Defensie,
+- f. De staf van de Koninklijke Marechaussee,
 
-- g. De gemeenten in verband met gemeentelijke belastingen,
+- g. De korpschef van de politie,
 
-- h. De staf van de Koninklijke Marechaussee,
+- h. De politiediensten van Nederland,
 
-- i. De korpschef van de politie,
+- i. De vreemdelingendiensten, en
 
-- j. De politiediensten van Nederland,
+- j. De Sociale Verzekeringsbank.
 
-- k. De Rijks Dienst Wegverkeer,
-
-- l. N.V. Luchthaven Schiphol, en
-
-- m. De vreemdelingendienst Haaglanden.
-
-3. Uit PROBAS kunnen op verzoek persoonsgegevens worden verstrekt aan andere personen of instanties dan afnemers, indien zulks wordt vereist ingevolge een wettelijk voorschrift of indien zulks geschiedt met toestemming van de geprivilegieerde.
+3. Uit PROBAS kunnen op verzoek persoonsgegevens worden verstrekt aan derden indien zulks wordt vereist ingevolge een wettelijk voorschrift of indien zulks geschiedt met toestemming van de geprivilegieerde. Vanaf 15 jaar na het overlijden van de geprivilegieerde kunnen slechts diens bloedverwanten tot en met de tweede graad en diens aanverwanten tot en met de eerste graad om persoonsgegevens verzoeken.
 
 4. Van iedere verstrekking wordt aangetekend de datum van verstrekking, de identiteit van de verzoeker en een omschrijving van de verstrekte persoonsgegevens.
 
@@ -160,7 +156,7 @@ Afnemers zijn organen van het Rijk, provincies, gemeenten of andere openbare lic
 
 2. Bij de uitvoering van de werkzaamheden verbonden aan PROBAS worden procedures gevolgd die zoveel mogelijk waarborgen dat de persoonsgegevens in PROBAS juist en volledig zijn. DKP stelt hiervoor een schriftelijke instructie vast.
 
-3. Indien aan DKP, al dan niet naar aanleiding van een verzoek van de geprivilegieerde als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0014172&artikel=10&z=2004-11-01&g=2004-11-01) blijkt dat bepaalde persoonsgegevens in PROBAS onjuist zijn, draagt DKP zo spoedig mogelijk zorg voor verbetering van die gegevens.
+3. Indien aan DKP, al dan niet naar aanleiding van een verzoek van de geprivilegieerde als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0014172&artikel=10&z=2010-12-09&g=2010-12-09) blijkt dat bepaalde persoonsgegevens in PROBAS onjuist zijn, draagt DKP zo spoedig mogelijk zorg voor verbetering van die gegevens.
 
 ##### Artikel 9. Kennisgeving
 
@@ -180,7 +176,7 @@ Afnemers zijn organen van het Rijk, provincies, gemeenten of andere openbare lic
 
 - c. aan wie of aan welke instanties persoonsgegevens over hem zijn verstrekt.
 
-2. Een schriftelijk verzoek, bedoeld in het eerste lid, dient gericht te worden aan DKP.
+2. Een schriftelijk verzoek, bedoeld in het eerste lid, dient gericht te worden aan de Minister door tussenkomst van DKP.
 
 3. Een verzoek, bedoeld in het eerste lid, kan, onder overlegging van een bijzondere daartoe strekkende schriftelijke machtiging, namens de geprivilegieerde worden gedaan door diens gemachtigde.
 
@@ -190,7 +186,7 @@ Afnemers zijn organen van het Rijk, provincies, gemeenten of andere openbare lic
 
 1. Een geprivilegieerde kan DKP verzoeken bepaalde persoonsgegevens over hem te verbeteren, aan te vullen, te verwijderen of af te schermen.
 
-2. Een schriftelijk verzoek, bedoeld in het eerste lid, dient gericht te worden aan DKP. Het verzoek bevat de gewenste verbetering, aanvulling, wijzigingen of afscherming.
+2. Een schriftelijk verzoek, bedoeld in het eerste lid, dient gericht te worden aan de Minister door tussenkomst van DKP. Het verzoek bevat de gewenste verbetering, aanvulling, wijzigingen of afscherming.
 
 3. Een verzoek, bedoeld in het eerste lid, kan, onder overlegging van een bijzondere daartoe strekkende schriftelijke machtiging, namens de geprivilegieerde worden gedaan door diens gemachtigde.
 
