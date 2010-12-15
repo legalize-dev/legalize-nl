@@ -4,7 +4,7 @@ identifier: "BWBR0028457"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2015-07-01"
-last_updated: "2010-10-10"
+last_updated: "2010-12-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028457"
 soort: "wet-BES"
@@ -45,7 +45,7 @@ In deze wet wordt verstaan onder:
 
 - b. **Onze Minister:** Onze Minister van Justitie;
 
-- c. **stageverklaring:** de verklaring van de volbrachte werktijd van drie jaar, bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=II&artikel=9&z=2010-10-10&g=2010-10-10).
+- c. **stageverklaring:** de verklaring van de volbrachte werktijd van drie jaar, bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=II&artikel=9&z=2010-12-15&g=2010-12-15).
 
 ##### Artikel 2
 
@@ -131,7 +131,7 @@ In deze wet wordt verstaan onder:
 
 - a. een uittreksel uit het bevolkingsregister;
 
-- b. een getuigschrift waaruit blijkt dat met goed gevolg één van de examens, bedoeld in [artikel 14, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=III&artikel=14&z=2010-10-10&g=2010-10-10), is afgelegd;
+- b. een getuigschrift waaruit blijkt dat met goed gevolg één van de examens, bedoeld in [artikel 14, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=III&artikel=14&z=2010-12-15&g=2010-12-15), is afgelegd;
 
 - c. een verklaring omtrent het gedrag, bedoeld in [titel II van de Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028258&titeldeel=II);
 
@@ -139,7 +139,7 @@ In deze wet wordt verstaan onder:
 
 ##### Artikel 10
 
-1. Nadat de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=II&artikel=9&z=2010-10-10&g=2010-10-10), bedoelde termijn is verstreken, nodigt Onze Minister het Hof van Justitie uit een aanbeveling voor de benoeming te doen uit de sollicitanten.
+1. Nadat de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=II&artikel=9&z=2010-12-15&g=2010-12-15), bedoelde termijn is verstreken, nodigt Onze Minister het Hof van Justitie uit een aanbeveling voor de benoeming te doen uit de sollicitanten.
 
 2. Het Hof van Justitie maakt binnen zestig dagen een aanbevelingslijst op, bevattende de namen van ten hoogste drie kandidaten, en zendt deze aan Onze Minister.
 
@@ -221,13 +221,13 @@ Kandidaat-notaris is hij die:
 
 1. De President van het Hof van Justitie wijst een waarnemer voor een notaris aan:
 
-- a. indien aan de notaris een verlof als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=IV&artikel=16&z=2010-10-10&g=2010-10-10) of [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VI&artikel=59&z=2010-10-10&g=2010-10-10), wordt verleend;
+- a. indien aan de notaris een verlof als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=IV&artikel=16&z=2010-12-15&g=2010-12-15) of [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VI&artikel=59&z=2010-12-15&g=2010-12-15), wordt verleend;
 
 - b. indien hij van oordeel is dat de notaris tijdelijk verhinderd is zijn ambt uit te oefenen;
 
 - c. indien de notaris wordt geschorst, uit zijn ambt ontzet of ontslagen;
 
-- d. indien de notaris zonder een verlof als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=IV&artikel=16&z=2010-10-10&g=2010-10-10), zich langer dan veertien opeenvolgende dagen van zijn standplaats heeft verwijderd of zijn ambt niet uitoefent;
+- d. indien de notaris zonder een verlof als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=IV&artikel=16&z=2010-12-15&g=2010-12-15), zich langer dan veertien opeenvolgende dagen van zijn standplaats heeft verwijderd of zijn ambt niet uitoefent;
 
 - e. in geval van overlijden van de notaris.
 
@@ -291,7 +291,7 @@ De President van het Hof van Justitie beëindigt de waarneming:
 
 - a. zodra er voor de waarneming geen grond meer bestaat;
 
-- b. indien de waarnemer zich schuldig maakt aan een handelen of nalaten dat ten aanzien van een notaris aanleiding kan geven tot het treffen van maatregelen als bedoeld in [artikel 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VI&artikel=57&z=2010-10-10&g=2010-10-10);
+- b. indien de waarnemer zich schuldig maakt aan een handelen of nalaten dat ten aanzien van een notaris aanleiding kan geven tot het treffen van maatregelen als bedoeld in [artikel 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VI&artikel=57&z=2010-12-15&g=2010-12-15);
 
 - c. indien de waarnemer door aanhoudende geestes- of lichaamsziekte ongeschikt is voor de uitoefening van zijn ambt.
 
@@ -343,7 +343,7 @@ De President van het Hof van Justitie beëindigt de waarneming:
 
 3. In afwijking van het eerste en tweede lid mag de echtgenoot of bloed- of aanverwant van een koper, huurder, pachter, aannemer of borg bij onderscheidenlijk een openbare verkoop, verhuur, verpachting of aanbesteding, alsmede van een lid van een vergadering waarin van het verhandelde door een notaris proces-verbaal wordt opgemaakt, daarbij als getuige optreden.
 
-4. In geval van overtreding van dit artikel of van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=V&artikel=28&z=2010-10-10&g=2010-10-10) mist de akte authenticiteit en voldoet zij niet aan de voorschriften waarin de vorm van een notariële akte wordt geëist, een en ander behoudens het geval van verzuim van de in artikel 28, derde of vierde lid, voorgeschreven vermeldingen.
+4. In geval van overtreding van dit artikel of van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=V&artikel=28&z=2010-12-15&g=2010-12-15) mist de akte authenticiteit en voldoet zij niet aan de voorschriften waarin de vorm van een notariële akte wordt geëist, een en ander behoudens het geval van verzuim van de in artikel 28, derde of vierde lid, voorgeschreven vermeldingen.
 
 ##### Artikel 30
 
@@ -419,7 +419,7 @@ Indien opgave van één of meer van deze gegevens niet mogelijk is, worden de re
 
 9. Indien echter een of meer van de verschijnende personen alleen bij een bijzonder gedeelte van de akte belang hebben, of alleen bij zulk een gedeelte gehandeld hebben, is het voldoende dat dit gedeelte aan hem of hen wordt voorgelezen en door hem of hen wordt ondertekend en dat die voorlezing en ondertekening bij dit gedeelte van de akte uitdrukkelijk wordt vermeld.
 
-10. Voorts wordt de akte ondertekend door de getuigen en de vertalers, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=V&artikel=33&z=2010-10-10&g=2010-10-10), tweede lid, in tegenwoordigheid van wie de akte wordt verleden.
+10. Voorts wordt de akte ondertekend door de getuigen en de vertalers, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=V&artikel=33&z=2010-12-15&g=2010-12-15), tweede lid, in tegenwoordigheid van wie de akte wordt verleden.
 
 11. Ten slotte wordt de akte door de notaris ondertekend. Onmiddellijk voordat de notaris de akte ondertekent, neemt hij het uur en de minuut van zijn ondertekening in de akte op in de gevallen waarin dit is vereist, door een verschijnende persoon wordt verlangd of door de notaris raadzaam wordt geacht.
 
@@ -437,7 +437,7 @@ Wanneer bij het verlijden van een akte van boedelbeschrijving, openbare verkoop,
 
 ##### Artikel 37
 
-Van de aanhechting in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=V&artikel=36&z=2010-10-10&g=2010-10-10) voorgeschreven, worden vrijgesteld:
+Van de aanhechting in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=V&artikel=36&z=2010-12-15&g=2010-12-15) voorgeschreven, worden vrijgesteld:
 
 - 1. volmachten, in minuut berustende onder de notaris die de akte verlijdt, waarbij de gevolmachtigde verschijnt;
 
@@ -487,9 +487,9 @@ In alle akten van overdracht en van scheiding van onroerende goederen en teboekg
 
 ##### Artikel 44a
 
-1. De [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=V&artikel=27&z=2010-10-10&g=2010-10-10), [31, eerste lid en tweede lid, aanhef en onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=V&artikel=31&z=2010-10-10&g=2010-10-10), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=V&artikel=32&z=2010-10-10&g=2010-10-10), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=V&artikel=33&z=2010-10-10&g=2010-10-10), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=V&artikel=38&z=2010-10-10&g=2010-10-10), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=V&artikel=39&z=2010-10-10&g=2010-10-10) en [40](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=V&artikel=40&z=2010-10-10&g=2010-10-10) zijn mede van toepassing op een verklaring van erfrecht.
+1. De [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=V&artikel=27&z=2010-12-15&g=2010-12-15), [31, eerste lid en tweede lid, aanhef en onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=V&artikel=31&z=2010-12-15&g=2010-12-15), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=V&artikel=32&z=2010-12-15&g=2010-12-15), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=V&artikel=33&z=2010-12-15&g=2010-12-15), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=V&artikel=38&z=2010-12-15&g=2010-12-15), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=V&artikel=39&z=2010-12-15&g=2010-12-15) en [40](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=V&artikel=40&z=2010-12-15&g=2010-12-15) zijn mede van toepassing op een verklaring van erfrecht.
 
-2. De [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=V&artikel=26&z=2010-10-10&g=2010-10-10), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=V&artikel=27&z=2010-10-10&g=2010-10-10), [30 tot en met 40](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=V&artikel=30&z=2010-10-10&g=2010-10-10) en [44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=V&artikel=44&z=2010-10-10&g=2010-10-10), zijn mede van toepassing op notariële verklaringen als bedoeld in de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028516&artikel=26), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0028516&artikel=30), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0028516&artikel=34), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0028516&artikel=35) en [36 van de Wet openbare registers BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028516&artikel=36).
+2. De [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=V&artikel=26&z=2010-12-15&g=2010-12-15), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=V&artikel=27&z=2010-12-15&g=2010-12-15), [30 tot en met 40](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=V&artikel=30&z=2010-12-15&g=2010-12-15) en [44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=V&artikel=44&z=2010-12-15&g=2010-12-15), zijn mede van toepassing op notariële verklaringen als bedoeld in de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028516&artikel=26), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0028516&artikel=30), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0028516&artikel=34), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0028516&artikel=35) en [36 van de Wet openbare registers BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028516&artikel=36).
 
 3. De in de vorige leden bedoelde verklaringen worden voor wat betreft de uitwendige bewijskracht en de bewijskracht van de daarin gerelateerde verrichtingen en waarnemingen van de notaris als een authentieke akte aangemerkt, tenzij krachtens een der in de vorige leden vermelde bepalingen authenticiteit ontbreekt.
 
@@ -579,9 +579,9 @@ De notaris mag, met uitzondering van een aan hem in bewaring gegeven olografisch
 
 - a. twee leden van het Hof van Justitie, waarvan één de voorzitter is;
 
-- b. één lid, door Onze Minister voor een periode van drie jaar te benoemen uit de notarissen en de kandidaat-notarissen die in het bezit zijn van een stageverklaring.
+- b. één deskundig lid, benoemd door Onze Minister voor een periode van drie jaar met stilzwijgende verlenging van drie jaar.
 
-2. Onze Minister benoemt uit de notarissen en de kandidaat-notarissen twee plaatsvervangende leden voor een periode van drie jaar.
+2. Onze Minister kan ten hoogste twee deskundige plaatsvervangende leden benoemen voor een periode van drie jaar met stilzwijgende verlenging van drie jaar.
 
 3. Tussen de personen, benoemd ingevolge het eerste of tweede lid, mag niet bestaan de verhouding van echtgenoten, bloed- of aanverwantschap tot en met de derde graad, een samenwerkingsverband tot het uitoefenen van het notarisambt of het beroep van kandidaat-notaris of de verhouding van werkgever tot werknemer.
 
@@ -593,7 +593,7 @@ De notaris mag, met uitzondering van een aan hem in bewaring gegeven olografisch
 
 - c. wegens wangedrag of onzedelijkheid of bij gebleken voortdurende achteloosheid in de uitoefening van zijn functie;
 
-- d. wegens overtreding van [artikel 78, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VIII&artikel=78&z=2010-10-10&g=2010-10-10).
+- d. wegens overtreding van [artikel 78, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VIII&artikel=78&z=2010-12-15&g=2010-12-15).
 
 5. Het lid, bedoeld in het eerste lid, onderdeel b, of een lid als bedoeld in het tweede lid, wordt door het Hof van Justitie ontslagen:
 
@@ -683,7 +683,7 @@ De maatregelen, genoemd in de onderdelen c en d, kunnen gecombineerd worden opge
 
 ##### Artikel 59
 
-1. De Kamer van Toezicht is bevoegd de notaris, tegen wie ernstig vermoeden is gerezen, dat hij een van de in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VI&artikel=57&z=2010-10-10&g=2010-10-10) bedoelde handelingen of verzuimen heeft gepleegd, voor een termijn van ten hoogste zes maanden ongevraagd verlof te verlenen. Zij kan deze termijn éénmaal voor ten hoogste zes maanden of totdat op een door haar gedane voordracht tot ontzetting zal zijn beslist, verlengen. De Kamer van Toezicht kan deze termijnen te allen tijde verkorten. Voordat de Kamer van Toezicht de notaris ongevraagd verlof verleent, hoort zij hem dan wel roept zij hem daartoe behoorlijk op.
+1. De Kamer van Toezicht is bevoegd de notaris, tegen wie ernstig vermoeden is gerezen, dat hij een van de in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VI&artikel=57&z=2010-12-15&g=2010-12-15) bedoelde handelingen of verzuimen heeft gepleegd, voor een termijn van ten hoogste zes maanden ongevraagd verlof te verlenen. Zij kan deze termijn éénmaal voor ten hoogste zes maanden of totdat op een door haar gedane voordracht tot ontzetting zal zijn beslist, verlengen. De Kamer van Toezicht kan deze termijnen te allen tijde verkorten. Voordat de Kamer van Toezicht de notaris ongevraagd verlof verleent, hoort zij hem dan wel roept zij hem daartoe behoorlijk op.
 
 2. In dringende gevallen is de Voorzitter van de Kamer van Toezicht bevoegd verlof als bedoeld in het eerste lid, te geven voor ten hoogste veertien dagen.
 
@@ -705,9 +705,9 @@ De maatregelen, genoemd in de onderdelen c en d, kunnen gecombineerd worden opge
 
 ##### Artikel 61
 
-1. Binnen veertien dagen na de datum van ontvangst van de in [artikel 58, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VI&artikel=58&z=2010-10-10&g=2010-10-10), bedoelde aangetekende brief kunnen de betrokken notaris of kandidaat-notaris en de klager bij verzoekschrift van de beslissing van de Kamer van Toezicht, behoudens voor zover deze een voordracht tot ontzetting uit het ambt inhoudt, in hoger beroep komen bij het Hof van Justitie. De griffier van het Hof geeft van het instellen van het beroep onverwijld kennis aan de Kamer van Toezicht, aan de notaris of kandidaat-notaris, indien het beroep door de klager is ingesteld, en aan de klager indien het beroep door de notaris of kandidaat-notaris is ingesteld.
+1. Binnen veertien dagen na de datum van ontvangst van de in [artikel 58, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VI&artikel=58&z=2010-12-15&g=2010-12-15), bedoelde aangetekende brief kunnen de betrokken notaris of kandidaat-notaris en de klager bij verzoekschrift van de beslissing van de Kamer van Toezicht, behoudens voor zover deze een voordracht tot ontzetting uit het ambt inhoudt, in hoger beroep komen bij het Hof van Justitie. De griffier van het Hof geeft van het instellen van het beroep onverwijld kennis aan de Kamer van Toezicht, aan de notaris of kandidaat-notaris, indien het beroep door de klager is ingesteld, en aan de klager indien het beroep door de notaris of kandidaat-notaris is ingesteld.
 
-2. [Artikel 58, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VI&artikel=58&z=2010-10-10&g=2010-10-10), en [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VI&artikel=60&z=2010-10-10&g=2010-10-10) zijn van overeenkomstige toepassing.
+2. [Artikel 58, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VI&artikel=58&z=2010-12-15&g=2010-12-15), en [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VI&artikel=60&z=2010-12-15&g=2010-12-15) zijn van overeenkomstige toepassing.
 
 3. Het Hof van Justitie behandelt de zaak opnieuw in volle omvang. Het Hof kan mede oordelen over feiten die de Kamer van Toezicht niet voor een maatregel vatbaar heeft geacht, en kan door de Kamer van Toezicht onbewezen geachte feiten onderzoeken.
 
@@ -715,11 +715,11 @@ De maatregelen, genoemd in de onderdelen c en d, kunnen gecombineerd worden opge
 
 - a. het hoger beroep ongegrond verklaren;
 
-- b. met toepassing van [artikel 57, eerste lid, onderdelen a tot en met d, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VI&artikel=57&z=2010-10-10&g=2010-10-10), een maatregel opleggen;
+- b. met toepassing van [artikel 57, eerste lid, onderdelen a tot en met d, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VI&artikel=57&z=2010-12-15&g=2010-12-15), een maatregel opleggen;
 
 - c. verklaren dat er geen grond bestaat voor het opleggen van een maatregel;
 
-- d. een uitspraak doen als bedoeld in [artikel 57, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VI&artikel=57&z=2010-10-10&g=2010-10-10);
+- d. een uitspraak doen als bedoeld in [artikel 57, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VI&artikel=57&z=2010-12-15&g=2010-12-15);
 
 - e. de notaris uit zijn ambt ontzetten.
 
@@ -729,11 +729,11 @@ De maatregelen, genoemd in de onderdelen c en d, kunnen gecombineerd worden opge
 
 ##### Artikel 62
 
-1. Ontzetting van de notaris uit zijn ambt, na een voordracht daartoe overeenkomstig [artikel 57, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VI&artikel=57&z=2010-10-10&g=2010-10-10), geschiedt door het Hof van Justitie.
+1. Ontzetting van de notaris uit zijn ambt, na een voordracht daartoe overeenkomstig [artikel 57, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VI&artikel=57&z=2010-12-15&g=2010-12-15), geschiedt door het Hof van Justitie.
 
-2. [Artikel 57, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VI&artikel=57&z=2010-10-10&g=2010-10-10), [artikel 58, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VI&artikel=58&z=2010-10-10&g=2010-10-10), [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VI&artikel=60&z=2010-10-10&g=2010-10-10) en [artikel 61, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VI&artikel=61&z=2010-10-10&g=2010-10-10), zijn van overeenkomstige toepassing.
+2. [Artikel 57, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VI&artikel=57&z=2010-12-15&g=2010-12-15), [artikel 58, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VI&artikel=58&z=2010-12-15&g=2010-12-15), [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VI&artikel=60&z=2010-12-15&g=2010-12-15) en [artikel 61, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VI&artikel=61&z=2010-12-15&g=2010-12-15), zijn van overeenkomstige toepassing.
 
-3. Indien er geen grond bestaat voor ontzetting uit het ambt, kan het Hof van Justitie de notaris een maatregel als bedoeld in [artikel 57, eerste lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VI&artikel=57&z=2010-10-10&g=2010-10-10), opleggen.
+3. Indien er geen grond bestaat voor ontzetting uit het ambt, kan het Hof van Justitie de notaris een maatregel als bedoeld in [artikel 57, eerste lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VI&artikel=57&z=2010-12-15&g=2010-12-15), opleggen.
 
 Artikel 57, derde tot en met vijfde lid, is van overeenkomstige toepassing.
 
@@ -765,13 +765,13 @@ De notaris moet zijn minuten, registers en repertoria zorgvuldig in een regelmat
 
 ##### Artikel 67
 
-De notaris voor wie ingevolge [artikel 17, eerste lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=IV&artikel=17&z=2010-10-10&g=2010-10-10), een waarnemer is aangewezen, alsmede degenen die het archief of de praktijkboekhouding onder zich hebben, verlenen aan de waarnemer vrije toegang tot het archief van de notaris en verschaffen op verzoek van de waarnemer, gedaan in opdracht van belanghebbenden, de voor de uitoefening van diens werkzaamheden vereiste inlichtingen.
+De notaris voor wie ingevolge [artikel 17, eerste lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=IV&artikel=17&z=2010-12-15&g=2010-12-15), een waarnemer is aangewezen, alsmede degenen die het archief of de praktijkboekhouding onder zich hebben, verlenen aan de waarnemer vrije toegang tot het archief van de notaris en verschaffen op verzoek van de waarnemer, gedaan in opdracht van belanghebbenden, de voor de uitoefening van diens werkzaamheden vereiste inlichtingen.
 
 ##### Artikel 68
 
 1. De waarnemer neemt binnen twee weken na de dag waarop de waarneming ingaat, over de minuten, registers en repertoria en de daartoe behorende dossiers en verdere bescheiden, welke volgens het gebruik met het protocol behoren te worden overgedragen, van de notaris of van degene die deze onder zich heeft. Hij verricht voorts ten aanzien daarvan al datgene waartoe deze laatste bevoegd en verplicht was.
 
-2. Het bepaalde in het eerste lid en in de [artikelen 69](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VII&artikel=69&z=2010-10-10&g=2010-10-10) en [70](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VII&artikel=70&z=2010-10-10&g=2010-10-10) is niet van toepassing in geval de waarnemer op verzoek en voordracht van de notaris is aangewezen.
+2. Het bepaalde in het eerste lid en in de [artikelen 69](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VII&artikel=69&z=2010-12-15&g=2010-12-15) en [70](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VII&artikel=70&z=2010-12-15&g=2010-12-15) is niet van toepassing in geval de waarnemer op verzoek en voordracht van de notaris is aangewezen.
 
 ##### Artikel 69
 
@@ -789,23 +789,23 @@ De notaris voor wie ingevolge [artikel 17, eerste lid, onderdelen a tot en met d
 
 7. Blijkt bij de overneming, dat geen minuten, registers of repertoria ontbreken, dan wordt daarvan insgelijks een verklaring in triplo opgemaakt en daarmee op dezelfde wijze gehandeld.
 
-8. In deze verklaring wordt in het geval omschreven in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VII&artikel=68&z=2010-10-10&g=2010-10-10) tevens vermeld de overneming door de waarnemer van de daar bedoelde dossiers en verdere bescheiden.
+8. In deze verklaring wordt in het geval omschreven in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VII&artikel=68&z=2010-12-15&g=2010-12-15) tevens vermeld de overneming door de waarnemer van de daar bedoelde dossiers en verdere bescheiden.
 
 ##### Artikel 70
 
-1. Binnen acht dagen na het verstrijken van een waarneming draagt de waarnemer de door hem overgenomen minuten, registers of repertoria en de door hem verleden akten over aan de notaris wiens kantoor hij heeft waargenomen, diens opvolger, of aan degene die ingevolge [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VII&artikel=72&z=2010-10-10&g=2010-10-10) met de bewaring daarvan is belast.
+1. Binnen acht dagen na het verstrijken van een waarneming draagt de waarnemer de door hem overgenomen minuten, registers of repertoria en de door hem verleden akten over aan de notaris wiens kantoor hij heeft waargenomen, diens opvolger, of aan degene die ingevolge [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VII&artikel=72&z=2010-12-15&g=2010-12-15) met de bewaring daarvan is belast.
 
-2. Op een overdracht als bedoeld in het eerste lid, is [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VII&artikel=69&z=2010-10-10&g=2010-10-10) van overeenkomstige toepassing.
+2. Op een overdracht als bedoeld in het eerste lid, is [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VII&artikel=69&z=2010-12-15&g=2010-12-15) van overeenkomstige toepassing.
 
 ##### Artikel 71
 
-1. Bij vervulling van een opengevallen standplaats draagt de waarnemer aan de nieuwbenoemde notaris binnen twee weken na diens eedsaflegging de door hem overgenomen minuten, registers en repertoria alsmede de in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VII&artikel=68&z=2010-10-10&g=2010-10-10) bedoelde door hem overgenomen dossiers en verdere bescheiden over. De waarnemer draagt tevens de door hem tijdens de waarneming verleden akten en vervaardigde dossiers en verdere bescheiden als bedoeld in artikel 68, over.
+1. Bij vervulling van een opengevallen standplaats draagt de waarnemer aan de nieuwbenoemde notaris binnen twee weken na diens eedsaflegging de door hem overgenomen minuten, registers en repertoria alsmede de in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VII&artikel=68&z=2010-12-15&g=2010-12-15) bedoelde door hem overgenomen dossiers en verdere bescheiden over. De waarnemer draagt tevens de door hem tijdens de waarneming verleden akten en vervaardigde dossiers en verdere bescheiden als bedoeld in artikel 68, over.
 
 2. Indien de nieuwbenoemde notaris wordt benoemd met ingang van de datum waarop het aan de aftredend notaris verleende ontslag ingaat, geschiedt de overdracht aan de nieuwbenoemde notaris door de aftredend notaris binnen twee weken na bedoelde datum. De nieuwbenoemde notaris verricht ten aanzien van de door hem overgenomen minuten, registers en repertoria al datgene waartoe de afgetreden notaris bevoegd of verplicht zou zijn geweest.
 
-3. De nieuwbenoemde notaris draagt binnen drie maanden na een overdracht als bedoeld in het eerste of tweede lid, de minuten, registers en repertoria die op de eerste januari van het jaar waarin de overdracht plaatsvindt, ouder zijn dan dertig jaar, over aan de bewaarder van de bewaarplaats, bedoeld in [artikel 73, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VII&artikel=73&z=2010-10-10&g=2010-10-10).
+3. De nieuwbenoemde notaris draagt binnen drie maanden na een overdracht als bedoeld in het eerste of tweede lid, de minuten, registers en repertoria die op de eerste januari van het jaar waarin de overdracht plaatsvindt, ouder zijn dan dertig jaar, over aan de bewaarder van de bewaarplaats, bedoeld in [artikel 73, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VII&artikel=73&z=2010-12-15&g=2010-12-15).
 
-4. Op een overdracht als bedoeld in dit artikel, is [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VII&artikel=69&z=2010-10-10&g=2010-10-10) van overeenkomstige toepassing.
+4. Op een overdracht als bedoeld in dit artikel, is [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VII&artikel=69&z=2010-12-15&g=2010-12-15) van overeenkomstige toepassing.
 
 5. Na vervulling van de opengevallen standplaats verschaffen degenen die de praktijkboekhouding onder zich hebben, de bewaarder van het protocol op diens verzoek, gedaan in opdracht van belanghebbenden, de voor de uitoefening van diens werkzaamheden vereiste inlichtingen. Zij zijn van die gehoudenheid bevrijd voor zover zij de praktijkboekhouding aan de bewaarder van het protocol hebben afgegeven.
 
@@ -817,15 +817,15 @@ De notaris voor wie ingevolge [artikel 17, eerste lid, onderdelen a tot en met d
 
 3. Binnen een week na de in het tweede lid bedoelde aanwijzing geeft de notaris van de aanwijzing kennis aan de waarnemer. Deze draagt binnen twee weken na de kennisgeving de door hem overgenomen minuten, registers en repertoria en de door hem verleden akten aan de aangewezen notaris over.
 
-4. Op een overdracht als bedoeld in het derde lid, is [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VII&artikel=69&z=2010-10-10&g=2010-10-10) van overeenkomstige toepassing.
+4. Op een overdracht als bedoeld in het derde lid, is [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VII&artikel=69&z=2010-12-15&g=2010-12-15) van overeenkomstige toepassing.
 
-5. [Artikel 71, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VII&artikel=71&z=2010-10-10&g=2010-10-10), is op de notaris, bedoeld in het eerste dan wel tweede lid, van overeenkomstige toepassing, met dien verstande dat de termijn van drie maanden begint te lopen vanaf de datum van aanwijzing.
+5. [Artikel 71, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VII&artikel=71&z=2010-12-15&g=2010-12-15), is op de notaris, bedoeld in het eerste dan wel tweede lid, van overeenkomstige toepassing, met dien verstande dat de termijn van drie maanden begint te lopen vanaf de datum van aanwijzing.
 
 ##### Artikel 73
 
 1. In elk van de openbare lichamen wordt in het gebouw waarin het Gerecht in eerste aanleg zitting houdt, of in een ander daartoe door Onze Minister aangewezen gebouw, een algemene bewaarplaats van minuten, registers en repertoria ingericht, die onder toezicht van de Kamer van Toezicht staat.
 
-2. Door de Kamer van Toezicht wordt voor elke bewaarplaats een notaris aangewezen aan wie de bewaring van de zich aldaar bevindende stukken zal zijn opgedragen en die bevoegd en verplicht is om ten aanzien daarvan al datgene te verrichten, waartoe de notarissen ten aanzien van hun minuten, registers en repertoria bevoegd en verplicht zijn, zonder dat enig stuk buiten de bewaarplaats zal mogen worden gebracht, anders dan in de gevallen in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=V&artikel=47&z=2010-10-10&g=2010-10-10) vermeld.
+2. Door de Kamer van Toezicht wordt voor elke bewaarplaats een notaris aangewezen aan wie de bewaring van de zich aldaar bevindende stukken zal zijn opgedragen en die bevoegd en verplicht is om ten aanzien daarvan al datgene te verrichten, waartoe de notarissen ten aanzien van hun minuten, registers en repertoria bevoegd en verplicht zijn, zonder dat enig stuk buiten de bewaarplaats zal mogen worden gebracht, anders dan in de gevallen in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=V&artikel=47&z=2010-12-15&g=2010-12-15) vermeld.
 
 3. Bij afwezigheid, schorsing, ontzetting, ontslag of overlijden van de aangewezen notaris vervangt zijn waarnemer hem tijdelijk onder gelijke gehoudenheid.
 
@@ -835,9 +835,9 @@ De notaris voor wie ingevolge [artikel 17, eerste lid, onderdelen a tot en met d
 
 ##### Artikel 74
 
-1. De notaris mag na machtiging van de Kamer van Toezicht alle onder hem berustende minuten, registers en repertoria, die ouder zijn dan dertig jaar, aan de bewaarder van de algemene bewaarplaats, bedoeld in [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VII&artikel=73&z=2010-10-10&g=2010-10-10), overdragen.
+1. De notaris mag na machtiging van de Kamer van Toezicht alle onder hem berustende minuten, registers en repertoria, die ouder zijn dan dertig jaar, aan de bewaarder van de algemene bewaarplaats, bedoeld in [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VII&artikel=73&z=2010-12-15&g=2010-12-15), overdragen.
 
-2. Op een overdracht als bedoeld in het eerste lid, is [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VII&artikel=69&z=2010-10-10&g=2010-10-10) van overeenkomstige toepassing.
+2. Op een overdracht als bedoeld in het eerste lid, is [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VII&artikel=69&z=2010-12-15&g=2010-12-15) van overeenkomstige toepassing.
 
 ### Hoofdstuk VIII. Overige bepalingen
 
@@ -921,7 +921,7 @@ wijzigt artikel 65 van de Zegelverordening 1908 (P.B. 1908, no. 52)]
 
 1. Voor de op het tijdstip van inwerkingtreding van deze wet in functie zijnde notarissen geldt als standplaats het openbaar lichaam dat in hun benoemingsbesluit als standplaats is aangewezen.
 
-2. In afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=I&artikel=4&z=2010-10-10&g=2010-10-10), zijn de notarissen met als standplaats Sint Maarten bevoegd hun ambt tevens in de openbare lichamen Saba en Sint Eustatius uit te oefenen, zolang nog niet een notaris is benoemd in wiens benoemingsbesluit deze openbare lichamen als standplaats zijn aangewezen. In afwijking van artikel 4, eerste lid, zijn de notarissen met als standplaats Curaçao bevoegd hun ambt tevens in het openbaar lichaam Bonaire uit te oefenen, zolang nog niet een notaris is benoemd in wiens benoemingsbesluit dit openbaar lichaam als standplaats is aangewezen.
+2. In afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=I&artikel=4&z=2010-12-15&g=2010-12-15), zijn de notarissen met als standplaats Sint Maarten bevoegd hun ambt tevens in de openbare lichamen Saba en Sint Eustatius uit te oefenen, zolang nog niet een notaris is benoemd in wiens benoemingsbesluit deze openbare lichamen als standplaats zijn aangewezen. In afwijking van artikel 4, eerste lid, zijn de notarissen met als standplaats Curaçao bevoegd hun ambt tevens in het openbaar lichaam Bonaire uit te oefenen, zolang nog niet een notaris is benoemd in wiens benoemingsbesluit dit openbaar lichaam als standplaats is aangewezen.
 
 3. Degene die op het tijdstip van inwerkingtreding van deze wet de functie van notaris of kandidaat-notaris uitoefent, wordt na inwerkingtreding van deze wet geacht aan de voorwaarden voor uitoefening van die functie op grond van deze wet te hebben voldaan.
 
