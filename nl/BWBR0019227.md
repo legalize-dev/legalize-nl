@@ -4,7 +4,7 @@ identifier: "BWBR0019227"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-12-09"
-last_updated: "2006-03-01"
+last_updated: "2010-12-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019227"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De directeuren van het COKZ en het CPE dienen jaarlijks voor 1 oktober na overleg met de directeur Toezicht van de Voedsel en Waren Autoriteit een werkprogramma in bij de IG-VWA, waarin zijn opgenomen de activiteiten van het COKZ onderscheidenlijk het CPE met betrekking tot [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019227&artikel=2&z=2006-03-01&g=2006-03-01) voor het eerstkomende volle kalenderjaar.
+1. De directeuren van het COKZ en het CPE dienen jaarlijks voor 1 oktober na overleg met de directeur Toezicht van de Voedsel en Waren Autoriteit een werkprogramma in bij de IG-VWA, waarin zijn opgenomen de activiteiten van het COKZ onderscheidenlijk het CPE met betrekking tot [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019227&artikel=2&z=2010-12-16&g=2010-12-16) voor het eerstkomende volle kalenderjaar.
 
 2. Het werkprogramma behoeft binnen twee maanden na indiening de goedkeuring van de IG-VWA.
 
@@ -74,7 +74,7 @@ De directeuren van het COKZ en het CPE zenden jaarlijks voor 1 juni een verslag 
 
 ##### Artikel 6
 
-Deze regeling treedt in werking met ingang van 1 januari 2006, en vervalt met ingang van 1 januari 2011.
+Deze regeling treedt in werking met ingang van 1 januari 2006.
 
 ##### Artikel 7
 
