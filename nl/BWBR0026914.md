@@ -4,7 +4,7 @@ identifier: "BWBR0026914"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-05-04"
-last_updated: "2010-11-05"
+last_updated: "2010-12-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026914"
 soort: "ministeriele-regeling"
@@ -82,7 +82,7 @@ Besluit:
 | 2.10 | Subsidieregeling innoveren (private innovatievouchers) | 5a.3 | Aantal beschikbare kleine vouchers | 23-2 t/m 31-12 | 1000 stuks |
 | 2.11 | Subsidieregeling innoveren (innovatie voor maatschappelijke veiligheid) | 6.2 |   |   |   |
 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) |
-| 3.1 | Subsidieregeling sterktes in innovatie (Internationaal innoveren) | 2.2 | Eureka-innovatieprojecten en geïndustrialiseerde landen innovatieprojecten | 14-06 t/m 13-09 | 1.800.000 |
+| 3.1 | Subsidieregeling sterktes in innovatie (Internationaal innoveren) | 2.2 | Eureka-innovatieprojecten en geïndustrialiseerde landen innovatieprojecten | 14-06 t/m 13-09 | 2.911.000 |
 | 3.2 | Subsidieregeling sterktes in innovatie (Internationaal innoveren) | 2.2 | Opkomende markten innovatieprojecten | 01-01 t/m 25-06 28-06 t/m 13-09 | 3.000.000 1.000.000 |
 | 3.3 | Subsidieregeling sterktes in innovatie (IOP’s) | 3.2 |   | - | - |
 |   |   |   | Genomics (periode vooraanmelding) | 01-04 t/m 29-04 | - |
@@ -104,31 +104,31 @@ Besluit:
 |   |   |   | Beeldverwerking (periode vooraanmelding) |   | - |
 |   |   |   | Beeldverwerking |   |   |
 |   |   |   | Photonic devices (periode vooraanmelding) | 01-04 t/m 16-04 | - |
-|   |   |   | Photonic devices | 15-08 t/m 17-09 | 4.750.000 |
+|   |   |   | Photonic devices | 15-08 t/m 17-09 | 5.280.000 |
 |   |   |   | Maritiem (periode vooraanmelding) |   | - |
 |   |   |   | Maritiem | 15-02 t/m 12-03 | 1.375.000 |
 | 3.4 | Subsidieregeling sterktes in innovatie (LSH-projecten; ETB-samenwerkingsverbanden ) | 4.2 |   | 01-01 t/m 01-02 | 3.700.000 |
 | 3.5 | Subsidieregeling sterktes in innovatie (LSH-projecten; internationale MKB-samenwerkingsverbanden) | 4.11 |   | 01-04 t/m 25-06 | 1.000.000 |
 | 3.6 | Subsidieregeling sterktes in innovatie (LSH-projecten; EuroNanoMed-samenwerkingsverbanden) | 4.20 |   |   |   |
-| 3.7 | Subsidieregeling sterktes in innovatie (FND haalbaarheidsprojecten) | 5.2 |   | 01-01 t/m 08-10 | 1.000.000 |
-| 3.8 | Subsidieregeling sterktes in innovatie (FND innovatieprojecten) | 5.9 |   | 01-01 t/m 18-06 | 6.000.000 |
-| 3.9 | Subsidieregeling sterktes in innovatie (FND MKB-innovatieprojecten) | 5.19 |   | 01-01 t/m 08-10 | 3.000.000 |
-| 3.10 | Subsidieregeling sterktes in innovatie (HTAS doorbraakprojecten) | 6.2 |   | 01-02 t/m 01-10 | 4.000.000 |
+| 3.7 | Subsidieregeling sterktes in innovatie (FND haalbaarheidsprojecten) | 5.2 |   | 01-01 t/m 08-10 | 1.100.000 |
+| 3.8 | Subsidieregeling sterktes in innovatie (FND innovatieprojecten) | 5.9 |   | 01-01 t/m 18-06 | 7.200.000 |
+| 3.9 | Subsidieregeling sterktes in innovatie (FND MKB-innovatieprojecten) | 5.19 |   | 01-01 t/m 08-10 | 3.500.000 |
+| 3.10 | Subsidieregeling sterktes in innovatie (HTAS doorbraakprojecten) | 6.2 |   | 01-02 t/m 01-10 | 7.602.373 |
 | 3.11 | Subsidieregeling sterktes in innovatie (HTAS-internationale innovatieprojecten) | 6.9 |   | 01-02 t/m 10-09 | 3.000.000 |
 | 3.12 | Subsidieregeling sterktes in innovatie ( HTAS-EVT-projecten) | 6.18 |   | 01-01 t/m 01-02 | 14.700.000 |
 |   |   |   |   | datum van inwerkingtreding van de Regeling tweede tender HTAS-EVT 2010 t/m 8-10 | 3.500.000 |
-| 3.13 | Subsidieregeling sterktes in innovatie (InnoWATOR-projecten) | 7.2 |   | 01-03 t/m 28-05 | 4.000.000 |
+| 3.13 | Subsidieregeling sterktes in innovatie (InnoWATOR-projecten) | 7.2 |   | 01-03 t/m 28-05 | 4.278.563 |
 | 3.14 | Subsidieregeling sterktes in innovatie (Internationale InnoWATOR-projecten) | 7.11 |   | 08-02 t/m 29-10 | 2.000.000 |
 | 3.15 | Subsidieregeling sterktes in innovatie (InnoWATOR garantiefaciliteit) | 7.20 |   | 08-02 t/m 29-10 | 2.000.000 |
 | 3.16 | Subsidieregeling sterktes in innovatie (maritieme MKB-projecten) | 8.2 |   | 01-07 t/m 29-10 | 750.000 |
 | 3.17 | Subsidieregeling sterktes in innovatie (maritieme innovatieprojecten) | 8.8 |   | 01-07 t/m 13-09 | 3.000.000 |
 | 3.18 | Subsidieregeling sterktes in innovatie (Point-One haalbaarheidsprojecten) | 9.1a |   | 1-7 t/m 1-10 | 500.000 |
-| 3.18a | Subsidieregeling sterktes in innovatie (Point-One MKB-innovatieprojecten) | 9.2 |   | 1-7 t/m 8-10 | 3.000.000 |
+| 3.18a | Subsidieregeling sterktes in innovatie (Point-One MKB-innovatieprojecten) | 9.2 |   | 1-7 t/m 8-10 | 3.128.000 |
 | 3.19 | Subsidieregeling sterktes in innovatie (Point-One R&D-projecten) |   |   | 01-04 t/m 10-05 01-07 t/m 06-09 | 6.000.000 6.000.000 |
 | 3.20 | Subsidieregeling sterktes in innovatie (internationale Point-One R&D-projecten) | 9.17 |   | 05-01 t/m 02-02 | 21.000.000 |
-| 3.21 | Subsidieregeling sterktes in innovatie (Point-One University-Industry Interaction projecten) | 9.25 |   | 1-7 t/m 1-10 | 4.000.000 |
+| 3.21 | Subsidieregeling sterktes in innovatie (Point-One University-Industry Interaction projecten) | 9.25 |   | 1-7 t/m 1-10 | 4.290.000 |
 | 3.22 | Subsidieregeling sterktes in innovatie (polymeren haalbaarheidsprojecten) | 10.2 |   | 12-04 t/m 01-10 | 400.000 |
-| 3.23 | Subsidieregeling sterktes in innovatie (polymeren MKB-innovatieprojecten) | 10.8 |   | 12-04 t/m 01-10 | 1.200.000 |
+| 3.23 | Subsidieregeling sterktes in innovatie (polymeren MKB-innovatieprojecten) | 10.8 |   | 12-04 t/m 01-10 | 1.370.000 |
 | 3.24 | Subsidieregeling sterktes in innovatie (polymeren innovatieprojecten) | 10.15 |   |   |   |
 | 3.25 | Subsidieregeling sterktes in innovatie (High Tech Topprojecten) | 10a.2 |   |   |   |
 | 3.26 | Subsidieregeling sterktes in innovatie (detachering kenniswerkers) | 10b.2 |   |   |   |
@@ -163,15 +163,15 @@ Besluit:
 |   |   |   | Haalbaarheidsstudies | 11-02 t/m 14-10 | 800.000 |
 | 5.3 | Subsidieregeling energie en innovatie (EOS: demonstratie) | 2.3.2 |   | 01-01 t/m 08-04 | 7.200.000 |
 | 5.4 | Subsidieregeling energie en innovatie (Duurzame biomassa-import) | 3.2.2 |   | 10-05 t/m 05-08 | 4.348.000 |
-| 5.5 | Subsidieregeling energie en innovatie (Programma industriële warmtebenutting) | 3.8.2. | Haalbaarheidsonderzoek warmtereductie | Datum van inwerkingtreding van artikel 3.8.2 t/m 29-10 | 2.500.000 |
+| 5.5 | Subsidieregeling energie en innovatie (Programma industriële warmtebenutting) | 3.8.2. | Haalbaarheidsonderzoek warmtereductie | Datum van inwerkingtreding van artikel 3.8.2 t/m 29-10 | 2.643.000 |
 | 5.6 | Subsidieregeling energie en innovatie (Programma industriële warmtebenutting) | 3.8.8 | Investeringprojecten industriële warmtebenutting | 15-03 t/m 19-08 | 8.000.000 |
-| 5.7 | Subsidieregeling energie en innovatie (Effectieve en efficiënte vergistingketen) | 3.9.2 | Pilotprojecten vergistingketen | 10-06 t/m 02-09 | 3.000.000 |
+| 5.7 | Subsidieregeling energie en innovatie (Effectieve en efficiënte vergistingketen) | 3.9.2 | Pilotprojecten vergistingketen | 10-06 t/m 02-09 | 3.213.758 |
 |   |   |   | Demonstratieprojecten vergistingketen | 10-06 t/m 02-09 | 4.000.000 |
 | [Subsidieregeling internationaal ondernemen](https://wetten.overheid.nl/jci1.3:c:BWBR0026819) | [Subsidieregeling internationaal ondernemen](https://wetten.overheid.nl/jci1.3:c:BWBR0026819) | [Subsidieregeling internationaal ondernemen](https://wetten.overheid.nl/jci1.3:c:BWBR0026819) | [Subsidieregeling internationaal ondernemen](https://wetten.overheid.nl/jci1.3:c:BWBR0026819) | [Subsidieregeling internationaal ondernemen](https://wetten.overheid.nl/jci1.3:c:BWBR0026819) | [Subsidieregeling internationaal ondernemen](https://wetten.overheid.nl/jci1.3:c:BWBR0026819) |
 | 6.1 | Subsidieregeling internationaal ondernemen (Prepare2Start) | 2.2 |   | 01-01 t/m 31-12 | 15.000.000 |
 | [Subsidieregeling internationaal excelleren](https://wetten.overheid.nl/jci1.3:c:BWBR0026983) | [Subsidieregeling internationaal excelleren](https://wetten.overheid.nl/jci1.3:c:BWBR0026983) | [Subsidieregeling internationaal excelleren](https://wetten.overheid.nl/jci1.3:c:BWBR0026983) | [Subsidieregeling internationaal excelleren](https://wetten.overheid.nl/jci1.3:c:BWBR0026983) | [Subsidieregeling internationaal excelleren](https://wetten.overheid.nl/jci1.3:c:BWBR0026983) | [Subsidieregeling internationaal excelleren](https://wetten.overheid.nl/jci1.3:c:BWBR0026983) |
 | 7.1 | Subsidieregeling internationaal excelleren (Basismodule 2Getthere) | 2.1 | Periode vooraanmelding |   | - |
-| 7.2 | Subsidieregeling internationaal excelleren (Basismodule 2Getthere en demonstratieprojecten) | 2.1 en 3.1 |   | 01-01 t/m 31-12 | 6.000.000 |
+| 7.2 | Subsidieregeling internationaal excelleren (Basismodule 2Getthere en demonstratieprojecten) | 2.1 en 3.1 |   | 01-01 t/m 31-12 | 6.600.000 |
 | 7.3 | Subsidieregeling internationaal excelleren (2xplore) | 4.1 |   | 01-01 t/m 31-12 | 1.500.000 |
 | 7.4 | Subsidieregeling internationaal excelleren (Opkomende markten) | 5.2 | Orders | 01-01 t/m 31-12 | 10.000.000 |
 |   |   | 5.8 | Investeringsprojecten | 01-01 t/m 31-12 | 4.000.000 |
