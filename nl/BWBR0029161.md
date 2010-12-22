@@ -112,28 +112,3 @@ De omhullende lijn heeft de volgende coördinaten in graden, minuten en seconden
 | 17 20 | 50.9049 N 63 49 | 53.5713 W. |
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-Het is verboden zich met een schip van 300 GT of meer te begeven binnen het natuurpark, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029161&artikel=2&z=2013-06-01&g=2013-06-01).
-
-## Bijlage. bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029161&artikel=2&z=2013-06-01&g=2013-06-01), van de Regeling aanwijzing Saba Bank als natuurpark
-
-De omhullende lijn heeft de volgende coördinaten in graden, minuten en seconden in WGS84, gevisualiseerd met de blauwe cirkels:
-
-| 1. | 17° 27′.06 N | 063° 56′.14 W |
-| --- | --- | --- |
-| 2. | 17° 29′.00 N | 063° 55′.09 W |
-| 3. | 17° 27′.94 N | 063° 43′.32 W |
-| 4. | 17° 38′.03 N | 063° 27′.41 W |
-| 5. | 17° 43′.35 N | 063° 32′.74 W |
-| 6. | 17° 45′.98 N | 063° 29′.98 W |
-| 7. | 17° 40′.34 N | 063° 21′.10 W |
-| 8. | 17° 30′.88 N | 063° 10′.92 W |
-| 9. | 17° 23′.80 N | 063° 11′.25 W |
-| 10. | 17° 16′.27 N | 063° 15′.85 W |
-| 11. | 17° 13′.44 N | 063° 26′.89 W |
-| 12. | 17° 10′.55 N | 063° 41′.81 W |
-| 13. | 17° 20′.85 N | 063° 49′.89 W |
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
