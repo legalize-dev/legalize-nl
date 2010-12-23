@@ -4,7 +4,7 @@ identifier: "BWBR0029186"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2010-12-23"
-last_updated: "2010-10-10"
+last_updated: "2010-12-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029186"
 soort: "ministeriele-regeling-BES"
@@ -39,8 +39,6 @@ entry_into_force: "2010-12-23"
 Gelet op [artikel 2, vijfde lid, van het Besluit bevoegdheidsverklaring leraren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028647&artikel=2);
 
 Besluit:
-
-Werkt terug tot 00:00 uur.
 
 ##### Artikel 1
 
