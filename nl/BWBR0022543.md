@@ -4,7 +4,7 @@ identifier: "BWBR0022543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-14"
-last_updated: "2010-07-17"
+last_updated: "2010-12-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022543"
 soort: "ministeriele-regeling"
@@ -64,9 +64,9 @@ Indien de Stichting Skal constateert dat de bepalingen van verordening (EG) 834/
 
 ##### Artikel 4
 
-1. Het aantal grootvee-eenheden, bedoeld in artikel 15 van verordening (EG) 889/2008, wordt vastgesteld door 170 kg stikstof per jaar per hectare te delen door de omvang van de mestproductie per dier van de desbetreffende diercategorie per jaar uitgedrukt in kilogrammen stikstof, zoals opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=I&z=2010-07-17&g=2010-07-17) bij deze regeling.
+1. Het aantal grootvee-eenheden, bedoeld in artikel 15 van verordening (EG) 889/2008, wordt vastgesteld door 170 kg stikstof per jaar per hectare te delen door de omvang van de mestproductie per dier van de desbetreffende diercategorie per jaar uitgedrukt in kilogrammen stikstof, zoals opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=I&z=2010-12-25&g=2010-12-25) bij deze regeling.
 
-2. Ingeval de desbetreffende diercategorie in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=I&z=2010-07-17&g=2010-07-17) ontbreekt, is [bijlage D van de Uitvoeringsregeling Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=D) van toepassing.
+2. Ingeval de desbetreffende diercategorie in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=I&z=2010-12-25&g=2010-12-25) ontbreekt, is [bijlage D van de Uitvoeringsregeling Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=D) van toepassing.
 
 ##### Artikel 5
 
@@ -146,7 +146,7 @@ Een slachterij die op grond van artikel 11, eerste lid, van verordening (EG) 543
 
 Indien pluimveevlees afkomstig uit landen buiten de Europese Unie de vermeldingen en aanduidingen vastgesteld op grond van artikelen 10 en 11 van verordening (EG) 543/2008 voert, gaat dit vlees vergezeld van een certificaat dat is afgegeven door de bevoegde autoriteit van het land van oorsprong overeenkomstig artikel 14 van verordening (EG) 543/2008.
 
-### Hoofdstuk 4. Het in de handel brengen van landbouwproducten en levensmiddelen met een beschermde geografische aanduiding, oorsprongsbenaming en een bescherming als een gegarandeerde traditionele specialiteit
+### Hoofdstuk 3. Het in de handel brengen van vlees van pluimvee
 
 ##### Artikel 17
 
@@ -190,7 +190,11 @@ De producten, bedoeld in [artikel 16, aanhef, van het besluit](https://wetten.ov
 
 - d. Noord-Hollandse Gouda in relatie tot het productdossier Noord-Hollandse Gouda op grond van [verordening (EG) 510/2006](32006R0510);
 
-- e. Boerenkaas in relatie tot het productdossier Boerenkaas op grond van [verordening (EG) 509/2006](32006R0509).
+- e. Boerenkaas in relatie tot het productdossier Boerenkaas op grond van [verordening (EG) 509/2006](32006R0509);
+
+- f. Edam Holland in relatie tot het productdossier Edam Holland op grond van verordening (EG) 510/2006;
+
+- g. Gouda Holland in relatie tot het productdossier Gouda Holland op grond van verordening (EG) 510/2006.
 
 ### Hoofdstuk 5. Zuigelingenvoeding bestemd voor derde landen
 
@@ -208,7 +212,7 @@ Volledige zuigelingenvoeding en opvolgzuigelingenvoeding worden slechts uit Nede
 
 ##### Artikel 23
 
-Onder bloembollen wordt verstaan: bollen, knollen, wortelstokken en andere voor vermeerdering of bloemproductie bestemde plantendelen van de in de [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=II&z=2010-07-17&g=2010-07-17) bij deze regeling onder I genoemde gewassen, voor zover zij behoren tot de daarachter onder II vermelde botanische families, geslachten of soorten.
+Onder bloembollen wordt verstaan: bollen, knollen, wortelstokken en andere voor vermeerdering of bloemproductie bestemde plantendelen van de in de [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=II&z=2010-12-25&g=2010-12-25) bij deze regeling onder I genoemde gewassen, voor zover zij behoren tot de daarachter onder II vermelde botanische families, geslachten of soorten.
 
 ##### Artikel 24
 
@@ -222,7 +226,7 @@ De aanvraag tot registratie vindt plaats door inzending van een volledig ingevul
 
 - b. een bewijs van inschrijving in het handelsregister, dat door de bevoegde instantie niet langer dan twee maanden vóór de datum van aanvraag tot registratie is afgegeven.
 
-### Hoofdstuk 7. Toezichthouders
+### Hoofdstuk 6. Het in de handel brengen van teeltmateriaal van bloembollen
 
 ##### Artikel 26
 
@@ -968,402 +972,82 @@ De periode waarin uitlopen leeg moeten blijven als bedoeld in bijlage I, onderde
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage II. als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=6&artikel=23&z=2010-07-17&g=2010-07-17) van de Landbouwkwaliteitsregeling 2007
+## Bijlage I. als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=7&z=2010-12-25&g=2010-12-25) van de Landbouwkwaliteitsregeling 2007
 
-| I | II |
-| --- | --- |
-| Bravoa | Agavaceae |
-| Polianthes | Agavaceae |
-| Pseudobravoa | Agavaceae |
-|   |   |
-| Allium | Alliaceae |
-| Ancrumia | Alliaceae |
-| Androstephium | Alliaceae |
-| Bessera | Alliaceae |
-| Bloomeria | Alliaceae |
-| Brodiaea | Alliaceae |
-| Caloscordum | Alliaceae |
-| Dandya | Alliaceae |
-| Dichelostemma | Alliaceae |
-| Erinna | Alliaceae |
-| Garaventia | Alliaceae |
-| Gethyum | Alliaceae |
-| Gilliesia | Alliaceae |
-| Ipheion | Alliaceae |
-| Latace | Alliaceae |
-| Leucocoryne | Alliaceae |
-| Miersia | Alliaceae |
-| Milla | Alliaceae |
-| Milula | Alliaceae |
-| Muilla | Alliaceae |
-| Nectaroscordum | Alliaceae |
-| Nothoscordum | Alliaceae |
-| Petronymphe | Alliaceae |
-| Solaria | Alliaceae |
-| Speea | Alliaceae |
-| Trichlora | Alliaceae |
-| Tristagma | Alliaceae |
-| Triteleia | Alliaceae |
-| Triteleiopsis | Alliaceae |
-| Tulbaghia | Alliaceae |
-|   |   |
-| Amaryllis | Amaryllidaceae |
-| Ammocharis | Amaryllidaceae |
-| Apodolirion | Amaryllidaceae |
-| Bokkeveldia | Amaryllidaceae |
-| Boophone | Amaryllidaceae |
-| Braxireon | Amaryllidaceae |
-| Brunsvigia | Amaryllidaceae |
-| Caliphruria | Amaryllidaceae |
-| Calostemma | Amaryllidaceae |
-| Carpolyza | Amaryllidaceae |
-| Castellanoa | Amaryllidaceae |
-| Champmanolirion | Amaryllidaceae |
-| Chlidanthus | Amaryllidaceae |
-| Clivia | Amaryllidaceae |
-| Crinum | Amaryllidaceae |
-| Cryptostephanus | Amaryllidaceae |
-| Cybistetes | Amaryllidaceae |
-| Cyrtanthus | Amaryllidaceae |
-| Elisena | Amaryllidaceae |
-| Eucharis | Amaryllidaceae |
-| Eucrosia | Amaryllidaceae |
-| Eustephia | Amaryllidaceae |
-| Famatina | Amaryllidaceae |
-| Galanthus | Amaryllidaceae |
-| Gemmaria | Amaryllidaceae |
-| Gethyllis | Amaryllidaceae |
-| Griffinia | Amaryllidaceae |
-| Habranthus | Amaryllidaceae |
-| Haemanthus | Amaryllidaceae |
-| Hannonia | Amaryllidaceae |
-| Haylockia | Amaryllidaceae |
-| Hessea | Amaryllidaceae |
-| Hieronymiella | Amaryllidaceae |
-| Hippeastrum | Amaryllidaceae |
-| Hyline | Amaryllidaceae |
-| Hymenocallis | Amaryllidaceae |
-| Ismene | Amaryllidaceae |
-| Lapiedra | Amaryllidaceae |
-| Leucojum | Amaryllidaceae |
-| Lycoris | Amaryllidaceae |
-| Mathieua | Amaryllidaceae |
-| Namaquanula | Amaryllidaceae |
-| Narcissus | Amaryllidaceae |
-| Pamianthe | Amaryllidaceae |
-| Pancratium | Amaryllidaceae |
-| Paramongaia | Amaryllidaceae |
-| Phaedranassa | Amaryllidaceae |
-| Placea | Amaryllidaceae |
-| Plagiolirion | Amaryllidaceae |
-| Proiphys | Amaryllidaceae |
-| Pseudostenomesson | Amaryllidaceae |
-| Pyrolirion | Amaryllidaceae |
-| Rauhia | Amaryllidaceae |
-| Rhodophiala | Amaryllidaceae |
-| Scadoxus | Amaryllidaceae |
-| Sprekelia | Amaryllidaceae |
-| Stenomesson | Amaryllidaceae |
-| Sternbergia | Amaryllidaceae |
-| Strumaria | Amaryllidaceae |
-| Tedingea | Amaryllidaceae |
-| Traubia | Amaryllidaceae |
-| Ungernia | Amaryllidaceae |
-| Urceolina | Amaryllidaceae |
-| Vagaria | Amaryllidaceae |
-| Vallota | Amaryllidaceae |
-| Zephyranthes | Amaryllidaceae |
-|   |   |
-| Aphyllanthes | Aphyllanthaceae |
-|   |   |
-| Amorphophallus | Araceae |
-| Arisaema | Araceae |
-| Arum | Araceae |
-| Biarum | Araceae |
-| Dracontium | Araceae |
-| Dracunculus | Araceae |
-| Helicodiceros | Araceae |
-| Pinellia | Araceae |
-| Sauromatum | Araceae |
-| Zantedeschia | Araceae |
-|   |   |
-| Asphodelus | Asphodelaceae |
-| Bulbine | Asphodelaceae |
-| Bulbinella | Asphodelaceae |
-| Eremurus | Asphodelaceae |
-| Hemiphylacus | Asphodelaceae |
-| Jodrellia | Asphodelaceae |
-| Paradisea | Asphodelaceae |
-| Simethis | Asphodelaceae |
-| Trachyandra | Asphodelaceae |
-|   |   |
-| Dahlia | Asteraceae |
-|   |   |
-| Begonia tuberhybrida | Begoniaceae |
-|   |   |
-| Blanfordia | Blanfordiaceae |
-|   |   |
-| Canna | Cannaceae |
-|   |   |
-| Androcymbium | Colchicaceae |
-| Baeometra | Colchicaceae |
-| Bulbocodium | Colchicaceae |
-| Burchardia | Colchicaceae |
-| Camptorrhiza | Colchicaceae |
-| Colchicum | Colchicaceae |
-| Gloriosa | Colchicaceae |
-| Hexacyrtis | Colchicaceae |
-| Iphigenia | Colchicaceae |
-| Littonia | Colchicaceae |
-| Merendera | Colchicaceae |
-| Neodregea | Colchicaceae |
-| Onixotis | Colchicaceae |
-| Ornithoglossum | Colchicaceae |
-| Sandersonia | Colchicaceae |
-| Wurmbea | Colchicaceae |
-|   |   |
-| Cyanastrum | Cyanastraceae |
-|   |   |
-| Eriospermum | Eriospermaceae |
-|   |   |
-| Albuca | Hyacinthaceae |
-| Alrawia | Hyacinthaceae |
-| Amphisiphon | Hyacinthaceae |
-| Androsiphon | Hyacinthaceae |
-| Bellevalia | Hyacinthaceae |
-| Bowiea | Hyacinthaceae |
-| Brimeura | Hyacinthaceae |
-| Camassia | Hyacinthaceae |
-| Chionodoxa | Hyacinthaceae |
-| Chlorogalum | Hyacinthaceae |
-| Daubenya | Hyacinthaceae |
-| Dipcadi | Hyacinthaceae |
-| Drimia | Hyacinthaceae |
-| Drimiopsis | Hyacinthaceae |
-| Eucomis | Hyacinthaceae |
-| Fortunatia | Hyacinthaceae |
-| Galtonia | Hyacinthaceae |
-| Hastingsia | Hyacinthaceae |
-| Hesperocallis | Hyacinthaceae |
-| Hyacinthella | Hyacinthaceae |
-| Hyacinthoides | Hyacinthaceae |
-| Hyacinthus | Hyacinthaceae |
-| Lachenalia | Hyacinthaceae |
-| Ledebouria | Hyacinthaceae |
-| Leopoldia | Hyacinthaceae |
-| Litanthus | Hyacinthaceae |
-| Massonia | Hyacinthaceae |
-| Muscari | Hyacinthaceae |
-| Muscarimia | Hyacinthaceae |
-| Neopatersonia | Hyacinthaceae |
-| Ornithogalum | Hyacinthaceae |
-| Polyxena | Hyacinthaceae |
-| Pseudogaltonia | Hyacinthaceae |
-| Pseudomuscari | Hyacinthaceae |
-| Puschkinia | Hyacinthaceae |
-| Rhadamanthus | Hyacinthaceae |
-| Rhodocodon | Hyacinthaceae |
-| Schizobasis | Hyacinthaceae |
-| Schoenolirion | Hyacinthaceae |
-| Scilla | Hyacinthaceae |
-| Sypharissa | Hyacinthaceae |
-| Thuranthos | Hyacinthaceae |
-| Urginea | Hyacinthaceae |
-| Veltheimia | Hyacinthaceae |
-| Whiteheadia | Hyacinthaceae |
-|   |   |
-| Curculigo | Hypoxidaceae |
-| Empodium | Hypoxidaceae |
-| Hypoxidia | Hypocidaceae |
-| Hypoxis | Hypoxidaceae |
-| Molineria | Hypoxidaceae |
-| Pauridia | Hypoxidaceae |
-| Rhodohypoxis | Hypoxidaceae |
-| Saniella | Hypoxidaceae |
-| Spiloxene | Hypoxidaceae |
-|   |   |
-| Ainea | Iridaceae |
-| Alophia | Iridaceae |
-| Anapalina | Iridaceae |
-| Anomatheca | Iridaceae |
-| Antholyza | Iridaceae |
-| Aristea | Iridaceae |
-| Babiana | Iridaceae |
-| Barnardiella | Iridaceae |
-| Belamcanda | Iridaceae |
-| Bobartia | Iridaceae |
-| Calydorea | Iridaceae |
-| Cardenanthus | Iridaceae |
-| Chasmanthe | Iridaceae |
-| Cipura | Iridaceae |
-| Cobana | Iridaceae |
-| Crocosmia | Iridaceae |
-| Crocus | Iridaceae |
-| Cypella | Iridaceae |
-| Devia | Iridaceae |
-| Dierama | Iridaceae |
-| Dietes | Iridaceae |
-| Diplarrhena | Iridaceae |
-| Duthiastrum | Iridaceae |
-| Eleutherine | Iridaceae |
-| Ennealophus | Iridaceae |
-| Eurynotia | Iridaceae |
-| Ferraria | Iridaceae |
-| Fosteria | Iridaceae |
-| Galaxia | Iridaceae |
-| Geissorhiza | Iridaceae |
-| Gelasine | Iridaceae |
-| Geosiris | Iridaceae |
-| Gladiolus | Iridaceae |
-| Gynandriris | Iridaceae |
-| Herbertia | Iridaceae |
-| Hermodactylus | Iridaceae |
-| Hesperantha | Iridaceae |
-| Hesperoxiphion | Iridaceae |
-| Hexaglottis | Iridaceae |
-| Homeria | Iridaceae |
-| Iris excl. I.germanica, I.kaempferi, I.ensata, I.pumila, I.foetidissima, I.laevigata, I.sibirica, I.japonica (incl. I.Chinensis), I.chryso- | Iridaceae |
-| graphes, I.halophila (I.spuria ssp halophila) en I.spuria |   |
-| Isophysis | Iridaceae |
-| Ixia | Iridaceae |
-| Kelissa | Iridaceae |
-| Klattia | Iridaceae |
-| Lapeirousia | Iridaceae |
-| Larentia | Iridaceae |
-| Lethia | Iridaceae |
-| Libertia | Iridaceae |
-| Mastigostyla | Iridaceae |
-| Melasphaerula | Iridaceae |
-| Micranthus | Iridaceae |
-| Moraea | Iridaceae |
-| Nemastylis | Iridaceae |
-| Neomarica | Iridaceae |
-| Nivenia | Iridaceae |
-| Olsynium | Iridaceae |
-| Onira | Iridaceae |
-| Orthrosanthus | Iridaceae |
-| Pardanthopsis | Iridaceae |
-| Patersonia | Iridaceae |
-| Phalocallis | Iridaceae |
-| Pillansia | Iridaceae |
-| Pseudotrimezia | Iridaceae |
-| Radinosiphon | Iridaceae |
-| Rheome | Iridaceae |
-| Rigidella | Iridaceae |
-| Roggeveldia | Iridaceae |
-| Romulea | Iridaceae |
-| Savannosiphon | Iridaceae |
-| Schizostylis | Iridaceae |
-| Sessilanthera | Iridaceae |
-| Sessilistigma | Iridaceae |
-| Solenomelus | Iridaceae |
-| Sparaxis | Iridaceae |
-| Sphenostigma | Iridaceae |
-| Syringodea | Iridaceae |
-| Tapeinia | Iridaceae |
-| Thereianthus | Iridaceae |
-| Tigridia | Iridaceae |
-| Trimezia | Iridaceae |
-| Tritonia | Iridaceae |
-| Tritoniopsis | Iridaceae |
-| Watsonia | Iridaceae |
-| Witsenia | Iridaceae |
-| Zygotritonia | Iridaceae |
-|   |   |
-| Ixiolirion | Ixioliriaceae |
-|   |   |
-| Calochortus | Liliaceae |
-| Cardiocrinum | Liliaceae |
-| Erythronium | Liliaceae |
-| Fritillaria | Liliaceae |
-| Gagea | Liliaceae |
-| Korolkowia | Liliaceae |
-| Lilium | Liliaceae |
-| Lloydia | Liliaceae |
-| Nomocharis | Liliaceae |
-| Notholirion | Liliaceae |
-| Tulipa | Liliaceae |
-|   |   |
-| Zigadenus | Melanthiaceae |
-|   |   |
-| Mirabilis | Nyctaginaceae |
-|   |   |
-| Oxalis | Oxalidaceae |
-|   |   |
-| Cyclamen excl. C. persicum cultivars | Primulaceae |
-|   |   |
-| Anemone apennina | Ranunculaceae |
-| A. blanda | Ranunculaceae |
-| A. coronaria | Ranunculaceae |
-| A. cylindrica | Ranunculaceae |
-| A. flaccida | Ranunculaceae |
-| A. fulgens | Ranunculaceae |
-| A. ranunculoides | Ranunculaceae |
-| A. trifolia | Ranunculaceae |
-| Eranthis | Ranunculaceae |
-| Ranunculus ficaria | Ranunculaceae |
-| R. asiaticus | Ranunculaceae |
-| R. millefoliatus | Ranunculaceae |
-|   |   |
-| Conanthera | Tecophilaeaceae |
-| Cyanella | Tecophilaeaceae |
-| Odontostomum | Tecophilaeaceae |
-| Tecophilaea | Tecophilaeaceae |
-| Walleria | Tecophilaeaceae |
-| Zephyra | Tecophilaeaceae |
-|   |   |
-| Abolboda | Xyridaceae |
-| Achlyphila | Xyridaceae |
-| Aratitiyopea | Xyridaceae |
-| Orectanthe | Xyridaceae |
-| Xyris | Xyridaceae |
-|   |   |
-| Aframomum | Zingiberaceae |
-| Alpinia | Zingiberaceae |
-| Amomum | Zingiberaceae |
-| Aulotandra | Zingiberaceae |
-| Boesenbergia | Zingiberaceae |
-| Burbidgea | Zingiberaceae |
-| Camptandra | Zingiberaceae |
-| Caulokaempferia | Zingiberaceae |
-| Cautleya | Zingiberaceae |
-| Curcuma | Zingiberaceae |
-| Curcumorpha | Zingiberaceae |
-| Cyphostigma | Zingiberaceae |
-| Elettaria | Zingiberaceae |
-| Elettariopsis | Zingiberaceae |
-| Etlingera | Zingiberaceae |
-| Gagnepainia | Zingiberaceae |
-| Geocharis | Zingiberaceae |
-| Geostachys | Zingiberaceae |
-| Globba | Zingiberaceae |
-| Haniffia | Zingiberaceae |
-| Haplochorema | Zingiberaceae |
-| Hedychium | Zingiberaceae |
-| Hemiorchis | Zingiberaceae |
-| Hitchenia | Zingiberaceae |
-| Hornstedtia | Zingiberaceae |
-| Kaempferia | Zingiberaceae |
-| Leptosolena | Zingiberaceae |
-| Mantisia | Zingiberaceae |
-| Nanochilus | Zingiberaceae |
-| Paracautleya | Zingiberaceae |
-| Parakeampferia | Zingiberaceae |
-| Plagiostachys | Zingiberaceae |
-| Pleuranthodium | Zingiberaceae |
-| Pommereschea | Zingiberaceae |
-| Pyrgophyllum | Zingiberaceae |
-| Renealmia | Zingiberaceae |
-| Rhynchanthus | Zingiberaceae |
-| Riedelia | Zingiberaceae |
-| Roscoea | Zingiberaceae |
-| Scaphochlamys | Zingiberaceae |
-| Siliquamomum | Zingiberaceae |
-| Siphonochilus | Zingiberaceae |
-| Stadiochilus | Zingiberaceae |
-| Stahlianthus | Zingiberaceae |
-| Vanoverberghia | Zingiberaceae |
-| Zingiber | Zingiberaceae |
+**Omvang van de mestproductie voor de onderscheiden diercategorieën, uitgedrukt in kilogrammen stikstof per dier per jaar als bedoeld in artikel 7**
+
+| Diersoorten | Onderscheiden categorieën dieren binnen de diersoorten | Omvang mestproductie per dier van de onderscheiden diercategorieën per jaar, uitgedrukt in kilogrammen stikstof |
+| --- | --- | --- |
+| I Rundvee | Fok- en gebruiksvee |   |
+|   | – Melk- en kalfkoeien (alle koeien die ten minste één maal hebben gekalfd en die voor de melkproductie of de fokkerij worden gehouden; ook koeien die drooggezet zijn alsmede koeien die worden vetgemest en in de mesttijd worden gemolken) | 96,1 |
+|   | In grupstal met vaste mest | 90,6 |
+|   | In potstal met vaste mest | 86,4 |
+|   | – Vrouwelijk jongvee (alle vrouwelijke dieren die nog nooit gekalfd hebben en die worden aangehouden voor de vervanging van de eigen veestapel of de veestapel van derden; ook drachtige dieren die niet eerder hebben gekalfd): |   |
+|   | – jonger dan 1 jaar | 32,3 |
+|   | – 1 jaar en ouder | 66,0 |
+|   | – Stieren voor de fokkerij (stieren bestemd voor het fokken van melk- of vleesvee): |   |
+|   | – jonger dan 1 jaar | 26,7 |
+|   | – 1 jaar en ouder | 51,0 |
+|   |   |   |
+|   | Roodvleesproductie |   |
+|   | – Weide- en zoogkoeien (koeien die niet meer worden gemolken, maar worden vetgeweid) | 66,2 |
+|   | – Vleesstieren, alsook vrouwelijke dieren en ossen die op dezelfde wijze worden gemest (vee dat tot ca. 16 maanden wordt gemest voor roodvlees): |   |
+|   | – startkalf t.b.v. vleesstier, ca. 0 tot 3 maanden (kalveren die worden opgefokt van ca. 0 tot ca. 3 maanden, waarna ze voor afmesting aan een ander bedrijf worden geleverd) | 6,6 |
+|   | – van startkalf tot vleesstier, ca. 3 tot ca. 16 maanden (kalveren die zijn aangeleverd als startkalf van ca. 3 maanden en die verder worden afgemest tot vleesstier van ca. 16 maanden) | 27,2 |
+|   | – vleesstier, ca. 0 tot ca. 16 maanden (stieren die worden gemest van ca. 0 tot ca. 16 maanden) | 23,4 |
+|   | – Overig vleesvee (vee bestemd voor roodvleesproductie, dat niet behoort tot de categorieën ‘weidekoeien’ of ‘vleesstieren’; ook vleesstieren, vrouwelijkedieren en ossen ouder dan ca. 16 maanden): |   |
+|   | – jonger dan 1 jaar | 26,4 |
+|   | – 1 jaar en ouder | 65,4 |
+|   |   |   |
+| II Varkens | Fokkerij/vermeerdering |   |
+|   | – Fokzeugen (ten minste éénmaal gedekt of geïnsemineerd: guste zeugen, gedekte maar nog niet drachtige zeugen, drachtige zeugen, zeugen met biggen, zeugen waarvan de biggen gespeend zijn): |   |
+|   | – waarvan de biggen aan een ander bedrijf worden geleverd ca. 6 weken na hun geboorte (ook fokzeugen die nog geen biggen hebben) | 12,0 |
+|   | – waarvan de biggen worden gehouden tot een gewicht van ca. 25 kg (ook fokzeugen waarvan de biggen op het eigen bedrijf worden gehouden) | 15,3 |
+|   | – Opfokzeugen (jonge zeugen, nooit gedekt of geïnsemineerd, gehouden voor de fokkerij): |   |
+|   | – van ca. 25 kg tot ca. 7 maanden (aangeleverde opfokzeugen van ca. 25 kg die worden afgeleverd op ca. 7 maanden of iets ouder; ook opfokzeugen afkomstig van het eigen bedrijf van exact 25 kg, die worden afgeleverd op ca. 7 maanden) | 5,9 |
+|   | – van ca. 7 maanden tot de eerste dekking (opfokzeugen die zijn aangeleverd op ca. 7 maanden of iets jonger, tot de eerste dekking) | 9,1 |
+|   | – van ca. 25 kg tot de eerste dekking (opfokzeugen die zijn aangeleverd op ca. 25 kg, die niet op 7 maanden worden afgeleverd, maar worden aangehouden tot de eerste dekking; ook opfokzeugen afkomstig van het eigen bedrijf die worden aangehouden van exact | 6,1 |
+|   | – Opfokberen van ca. 25 kg tot ca. 7 maanden (jonge nog niet dekrijpe beren, die worden aangehouden voor de fokkerij, van ca. 25 kg tot ca. 7 maanden of iets ouder; ook beren afkomstig van het eigen bedrijf vanaf exact 25 kg) | 5,5 |
+|   | – Dekberen, van ca. 7 maanden en ouder (dekrijpe beren – ook zoekberen – van ca. 7 maanden en ouder; ook aangeleverde beren van iets jonger dan 7 maanden; beren afkomstig van het eigen bedrijf te rekenen vanaf exact 7 maanden) | 11,7 |
+|   | – Biggen, aangeleverd op ca. 6 weken, tot ca. 25 kg (gespeende biggen die op ca. 6 weken zijn aangeleverd, die worden afgeleverd op ca. 25 kg; ook op 6 weken aangeleverde biggen die op het eigen bedrijf worden aangehouden voor de mesterij, tot exact 25 kg) | 2,0 |
+|   |   |   |
+|   | Mesterij |   |
+|   | – Slachtzeugen (zeugen die niet meer gebruikt worden voor de fokkerij, maar worden afgemest) | 12,8 |
+|   | – Vleesvarkens (varkens 6,1 die doorgaans worden gemest vanaf ca. 25 kg of iets lichter tot ca. 110 kg; ook biggen afkomstig van het eigen, gesloten bedrijf vanaf exact 25kg) | 6,1 |
+|   |   |   |
+| III Kippen | Legrassen |   |
+|   | – Opfokhennen en -hanen van legrassen, jonger dan ca. 18 weken (opfokhennenen -hanen voor de vervanging van hennen enhanen van legrassen,inclusief (groot)ouderdieren, die worden afgeleverd op ca. 18 weken; dieren die op het eigen bedrijf worden aangehouden worden tot exact 18 weken meegeteld) | 0,159 |
+|   | – Hennen en hanen van legrassen, ca. 18 weken en ouder (hennen en hanen – inclusief (groot)ouderdieren – die zijn aangeleverd op ca. 18 weken; ook van het eigen bedrijf afkomstige hennen en hanen – inclusief (groot)ouderdieren -, vanaf exact 18 weken) | 0,371 |
+|   |   |   |
+|   | Vleesrassen |   |
+|   | – Opfokhennen en -hanen van vleesrassen, jonger dan ca. 19 weken (opfokhennen en -hanen ter vervanging van (groot-)ouderdieren van vleesrassen, die worden afgeleverd op ca. 19 weken; dieren die op het eigen bedrijf worden aangehouden worden tot exact 19 weken meegeteld) | 0,110 |
+|   | – Ouderdieren van vleesrassen, ca. 19 weken en ouder (ouderdieren – inclusief grootouderdieren – van vleesrassen, die zijn aangeleverd op ca. 19 weken; ook van het eigen bedrijf afkomstige (ouder)dieren, vanaf exact 19 weken) | 0,411 |
+|   | – Vleeskuikens (kuikens die voor de slacht worden afgeleverd) | 0,332 |
+|   |   |   |
+| IV Kalkoenen | Voor broedeieren |   |
+|   | – Hennen en hanen voor de productie van broedeieren: |   |
+|   | – ca. 0 tot ca. 6 weken (hennen en hanen van ca. 0 tot ca. 6 weken, gehouden op een quarantainebedrijf) | 0,290 |
+|   | – ca. 6 tot ca. 30 weken (hennen en hanen van ca. 6 tot ca. 30 weken, gehouden op een opfokbedrijf) | 1,165 |
+|   | – ca. 30 weken en ouder (hennen en hanen van ca. 30 weken en ouder) | 1,513 |
+|   |   |   |
+|   | Vleeskalkoenen |   |
+|   | – Vleeskalkoenen (vanaf het opzetten bij aanvang van de mestperiode tot de aflevering voor de slacht) | 0,884 |
+|   |   |   |
+| V Schapen | – Fokschapen, inclusief de lammeren tot ca. 25 kg (alle ooien die ten minste éénmaal hebben gelammerd) | 10,3 |
+|   | – Overige schapen (alle lammeren zwaarder dan 25 kg, alle fokrammen en overhouders) | 9,3 |
+|   |   |   |
+| VI Geiten | – Melkgeiten, inclusief lammeren tot ca. 10 kg (alle geiten die ten minste éénmaal hebben gelammerd) | 7,3 |
+|   | – Overige geiten (geitelammeren en opfokgeiten zwaarder dan ca. 10 kg en bokken) | 5,2 |
+|   |   |   |
+| VII Eenden | – Ouderdieren van vleeseenden (opfok- en legeenden) | 0,50 |
+|   | – Vleeseenden (eenden die worden gehouden voor de slacht) | 0,39 |
+|   |   |   |
+| VIII Konijnen | – Voedsters, inclusief de niet-gespeende jongen (alle vrouwelijke dieren die ten minste éénmaal zijn gedekt) | 1,24 |
+|   | – Fokrammen (rammen bestemd voor het fokken van vleeskonijnen) | 0,75 |
+|   | – Opfokkonijnen (jonge nog niet dekrijpe konijnen, die worden aangehouden voor de fokkerij, vanaf de leeftijd van ca. 80 dagen tot de eerste dekking) | 1,01 |
+|   | – Vleeskonijnen (jonge konijnen vanaf het spenen tot de leeftijd van ca. 80 dagen; ook opfokkonijnen tot 80 dagen) | 0,40 |
+|   |   |   |
+| IX Parelhoenders | – Vleesparelhoenders | 0,437 |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -1395,35 +1079,7 @@ Bij het in de handel brengen van of het maken van reclame voor diervoeders voor 
 
 ### Hoofdstuk 8. Overige bepalingen
 
-## Bijlage III. als bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=8a&z=2010-07-17&g=2010-07-17) van de Landbouwkwaliteitsregeling 2007
-
-Producten voor de reiniging en de ontsmetting van gebouwen en installaties voor de plantaardige productie:
-
-| Producten | Beperkingen |
-| --- | --- |
-| Kalium- en natriumzeep |   |
-| Water en stoom |   |
-| Kalkmelk |   |
-| Kalk |   |
-| Ongebluste kalk |   |
-| Natriumhypochloriet |   |
-| Bijtende soda |   |
-| Bijtende potas |   |
-| Waterstofperoxide |   |
-| Natuurlijke plantenextracten |   |
-| Citroenzuur, perazijnzuur, mierenzuur, melkzuur, oxaalzuur en azijnzuur |   |
-| Alcohol |   |
-| Salpeterzuur | Alleen voor de reiniging van druppelaars in kassen |
-| Formaldehyde | Alleen bij het ontsmetten van entruimten voor paddestoelen |
-| Natriumcarbonaat |   |
-| Chloramine-T |   |
-| Sulfiet | Alleen voor het reinigen van plukgereedschap en opslagruimte voor druiven |
-| Fluorverbindingen | Alleen voor de reiniging van glas in lege kassen |
-| Middelen die door de Plantenziektekundige Dienst zijn verplicht voor de reiniging van productielocaties in geval van besmetting met quarantaineorganismen |   |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage II. als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=6&artikel=23&z=2011-07-02&g=2010-07-17) van de Landbouwkwaliteitsregeling 2007
+## Bijlage II. als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=6&artikel=23&z=2010-12-25&g=2010-12-25) van de Landbouwkwaliteitsregeling 2007
 
 | I | II |
 | --- | --- |
@@ -1820,7 +1476,450 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 | Vanoverberghia | Zingiberaceae |
 | Zingiber | Zingiberaceae |
 
-## Bijlage III. als bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=8a&z=2011-07-02&g=2010-07-17) van de Landbouwkwaliteitsregeling 2007
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage III. als bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=8a&z=2010-12-25&g=2010-12-25) van de Landbouwkwaliteitsregeling 2007
+
+Producten voor de reiniging en de ontsmetting van gebouwen en installaties voor de plantaardige productie:
+
+| Producten | Beperkingen |
+| --- | --- |
+| Kalium- en natriumzeep |   |
+| Water en stoom |   |
+| Kalkmelk |   |
+| Kalk |   |
+| Ongebluste kalk |   |
+| Natriumhypochloriet |   |
+| Bijtende soda |   |
+| Bijtende potas |   |
+| Waterstofperoxide |   |
+| Natuurlijke plantenextracten |   |
+| Citroenzuur, perazijnzuur, mierenzuur, melkzuur, oxaalzuur en azijnzuur |   |
+| Alcohol |   |
+| Salpeterzuur | Alleen voor de reiniging van druppelaars in kassen |
+| Formaldehyde | Alleen bij het ontsmetten van entruimten voor paddestoelen |
+| Natriumcarbonaat |   |
+| Chloramine-T |   |
+| Sulfiet | Alleen voor het reinigen van plukgereedschap en opslagruimte voor druiven |
+| Fluorverbindingen | Alleen voor de reiniging van glas in lege kassen |
+| Middelen die door de Plantenziektekundige Dienst zijn verplicht voor de reiniging van productielocaties in geval van besmetting met quarantaineorganismen |   |
+
+## Bijlage II. als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=6&artikel=23&z=2011-07-02&g=2010-12-25) van de Landbouwkwaliteitsregeling 2007
+
+| I | II |
+| --- | --- |
+| Bravoa | Agavaceae |
+| Polianthes | Agavaceae |
+| Pseudobravoa | Agavaceae |
+|   |   |
+| Allium | Alliaceae |
+| Ancrumia | Alliaceae |
+| Androstephium | Alliaceae |
+| Bessera | Alliaceae |
+| Bloomeria | Alliaceae |
+| Brodiaea | Alliaceae |
+| Caloscordum | Alliaceae |
+| Dandya | Alliaceae |
+| Dichelostemma | Alliaceae |
+| Erinna | Alliaceae |
+| Garaventia | Alliaceae |
+| Gethyum | Alliaceae |
+| Gilliesia | Alliaceae |
+| Ipheion | Alliaceae |
+| Latace | Alliaceae |
+| Leucocoryne | Alliaceae |
+| Miersia | Alliaceae |
+| Milla | Alliaceae |
+| Milula | Alliaceae |
+| Muilla | Alliaceae |
+| Nectaroscordum | Alliaceae |
+| Nothoscordum | Alliaceae |
+| Petronymphe | Alliaceae |
+| Solaria | Alliaceae |
+| Speea | Alliaceae |
+| Trichlora | Alliaceae |
+| Tristagma | Alliaceae |
+| Triteleia | Alliaceae |
+| Triteleiopsis | Alliaceae |
+| Tulbaghia | Alliaceae |
+|   |   |
+| Amaryllis | Amaryllidaceae |
+| Ammocharis | Amaryllidaceae |
+| Apodolirion | Amaryllidaceae |
+| Bokkeveldia | Amaryllidaceae |
+| Boophone | Amaryllidaceae |
+| Braxireon | Amaryllidaceae |
+| Brunsvigia | Amaryllidaceae |
+| Caliphruria | Amaryllidaceae |
+| Calostemma | Amaryllidaceae |
+| Carpolyza | Amaryllidaceae |
+| Castellanoa | Amaryllidaceae |
+| Champmanolirion | Amaryllidaceae |
+| Chlidanthus | Amaryllidaceae |
+| Clivia | Amaryllidaceae |
+| Crinum | Amaryllidaceae |
+| Cryptostephanus | Amaryllidaceae |
+| Cybistetes | Amaryllidaceae |
+| Cyrtanthus | Amaryllidaceae |
+| Elisena | Amaryllidaceae |
+| Eucharis | Amaryllidaceae |
+| Eucrosia | Amaryllidaceae |
+| Eustephia | Amaryllidaceae |
+| Famatina | Amaryllidaceae |
+| Galanthus | Amaryllidaceae |
+| Gemmaria | Amaryllidaceae |
+| Gethyllis | Amaryllidaceae |
+| Griffinia | Amaryllidaceae |
+| Habranthus | Amaryllidaceae |
+| Haemanthus | Amaryllidaceae |
+| Hannonia | Amaryllidaceae |
+| Haylockia | Amaryllidaceae |
+| Hessea | Amaryllidaceae |
+| Hieronymiella | Amaryllidaceae |
+| Hippeastrum | Amaryllidaceae |
+| Hyline | Amaryllidaceae |
+| Hymenocallis | Amaryllidaceae |
+| Ismene | Amaryllidaceae |
+| Lapiedra | Amaryllidaceae |
+| Leucojum | Amaryllidaceae |
+| Lycoris | Amaryllidaceae |
+| Mathieua | Amaryllidaceae |
+| Namaquanula | Amaryllidaceae |
+| Narcissus | Amaryllidaceae |
+| Pamianthe | Amaryllidaceae |
+| Pancratium | Amaryllidaceae |
+| Paramongaia | Amaryllidaceae |
+| Phaedranassa | Amaryllidaceae |
+| Placea | Amaryllidaceae |
+| Plagiolirion | Amaryllidaceae |
+| Proiphys | Amaryllidaceae |
+| Pseudostenomesson | Amaryllidaceae |
+| Pyrolirion | Amaryllidaceae |
+| Rauhia | Amaryllidaceae |
+| Rhodophiala | Amaryllidaceae |
+| Scadoxus | Amaryllidaceae |
+| Sprekelia | Amaryllidaceae |
+| Stenomesson | Amaryllidaceae |
+| Sternbergia | Amaryllidaceae |
+| Strumaria | Amaryllidaceae |
+| Tedingea | Amaryllidaceae |
+| Traubia | Amaryllidaceae |
+| Ungernia | Amaryllidaceae |
+| Urceolina | Amaryllidaceae |
+| Vagaria | Amaryllidaceae |
+| Vallota | Amaryllidaceae |
+| Zephyranthes | Amaryllidaceae |
+|   |   |
+| Aphyllanthes | Aphyllanthaceae |
+|   |   |
+| Amorphophallus | Araceae |
+| Arisaema | Araceae |
+| Arum | Araceae |
+| Biarum | Araceae |
+| Dracontium | Araceae |
+| Dracunculus | Araceae |
+| Helicodiceros | Araceae |
+| Pinellia | Araceae |
+| Sauromatum | Araceae |
+| Zantedeschia | Araceae |
+|   |   |
+| Asphodelus | Asphodelaceae |
+| Bulbine | Asphodelaceae |
+| Bulbinella | Asphodelaceae |
+| Eremurus | Asphodelaceae |
+| Hemiphylacus | Asphodelaceae |
+| Jodrellia | Asphodelaceae |
+| Paradisea | Asphodelaceae |
+| Simethis | Asphodelaceae |
+| Trachyandra | Asphodelaceae |
+|   |   |
+| Dahlia | Asteraceae |
+|   |   |
+| Begonia tuberhybrida | Begoniaceae |
+|   |   |
+| Blanfordia | Blanfordiaceae |
+|   |   |
+| Canna | Cannaceae |
+|   |   |
+| Androcymbium | Colchicaceae |
+| Baeometra | Colchicaceae |
+| Bulbocodium | Colchicaceae |
+| Burchardia | Colchicaceae |
+| Camptorrhiza | Colchicaceae |
+| Colchicum | Colchicaceae |
+| Gloriosa | Colchicaceae |
+| Hexacyrtis | Colchicaceae |
+| Iphigenia | Colchicaceae |
+| Littonia | Colchicaceae |
+| Merendera | Colchicaceae |
+| Neodregea | Colchicaceae |
+| Onixotis | Colchicaceae |
+| Ornithoglossum | Colchicaceae |
+| Sandersonia | Colchicaceae |
+| Wurmbea | Colchicaceae |
+|   |   |
+| Cyanastrum | Cyanastraceae |
+|   |   |
+| Eriospermum | Eriospermaceae |
+|   |   |
+| Albuca | Hyacinthaceae |
+| Alrawia | Hyacinthaceae |
+| Amphisiphon | Hyacinthaceae |
+| Androsiphon | Hyacinthaceae |
+| Bellevalia | Hyacinthaceae |
+| Bowiea | Hyacinthaceae |
+| Brimeura | Hyacinthaceae |
+| Camassia | Hyacinthaceae |
+| Chionodoxa | Hyacinthaceae |
+| Chlorogalum | Hyacinthaceae |
+| Daubenya | Hyacinthaceae |
+| Dipcadi | Hyacinthaceae |
+| Drimia | Hyacinthaceae |
+| Drimiopsis | Hyacinthaceae |
+| Eucomis | Hyacinthaceae |
+| Fortunatia | Hyacinthaceae |
+| Galtonia | Hyacinthaceae |
+| Hastingsia | Hyacinthaceae |
+| Hesperocallis | Hyacinthaceae |
+| Hyacinthella | Hyacinthaceae |
+| Hyacinthoides | Hyacinthaceae |
+| Hyacinthus | Hyacinthaceae |
+| Lachenalia | Hyacinthaceae |
+| Ledebouria | Hyacinthaceae |
+| Leopoldia | Hyacinthaceae |
+| Litanthus | Hyacinthaceae |
+| Massonia | Hyacinthaceae |
+| Muscari | Hyacinthaceae |
+| Muscarimia | Hyacinthaceae |
+| Neopatersonia | Hyacinthaceae |
+| Ornithogalum | Hyacinthaceae |
+| Polyxena | Hyacinthaceae |
+| Pseudogaltonia | Hyacinthaceae |
+| Pseudomuscari | Hyacinthaceae |
+| Puschkinia | Hyacinthaceae |
+| Rhadamanthus | Hyacinthaceae |
+| Rhodocodon | Hyacinthaceae |
+| Schizobasis | Hyacinthaceae |
+| Schoenolirion | Hyacinthaceae |
+| Scilla | Hyacinthaceae |
+| Sypharissa | Hyacinthaceae |
+| Thuranthos | Hyacinthaceae |
+| Urginea | Hyacinthaceae |
+| Veltheimia | Hyacinthaceae |
+| Whiteheadia | Hyacinthaceae |
+|   |   |
+| Curculigo | Hypoxidaceae |
+| Empodium | Hypoxidaceae |
+| Hypoxidia | Hypocidaceae |
+| Hypoxis | Hypoxidaceae |
+| Molineria | Hypoxidaceae |
+| Pauridia | Hypoxidaceae |
+| Rhodohypoxis | Hypoxidaceae |
+| Saniella | Hypoxidaceae |
+| Spiloxene | Hypoxidaceae |
+|   |   |
+| Ainea | Iridaceae |
+| Alophia | Iridaceae |
+| Anapalina | Iridaceae |
+| Anomatheca | Iridaceae |
+| Antholyza | Iridaceae |
+| Aristea | Iridaceae |
+| Babiana | Iridaceae |
+| Barnardiella | Iridaceae |
+| Belamcanda | Iridaceae |
+| Bobartia | Iridaceae |
+| Calydorea | Iridaceae |
+| Cardenanthus | Iridaceae |
+| Chasmanthe | Iridaceae |
+| Cipura | Iridaceae |
+| Cobana | Iridaceae |
+| Crocosmia | Iridaceae |
+| Crocus | Iridaceae |
+| Cypella | Iridaceae |
+| Devia | Iridaceae |
+| Dierama | Iridaceae |
+| Dietes | Iridaceae |
+| Diplarrhena | Iridaceae |
+| Duthiastrum | Iridaceae |
+| Eleutherine | Iridaceae |
+| Ennealophus | Iridaceae |
+| Eurynotia | Iridaceae |
+| Ferraria | Iridaceae |
+| Fosteria | Iridaceae |
+| Galaxia | Iridaceae |
+| Geissorhiza | Iridaceae |
+| Gelasine | Iridaceae |
+| Geosiris | Iridaceae |
+| Gladiolus | Iridaceae |
+| Gynandriris | Iridaceae |
+| Herbertia | Iridaceae |
+| Hermodactylus | Iridaceae |
+| Hesperantha | Iridaceae |
+| Hesperoxiphion | Iridaceae |
+| Hexaglottis | Iridaceae |
+| Homeria | Iridaceae |
+| Iris excl. I.germanica, I.kaempferi, I.ensata, I.pumila, I.foetidissima, I.laevigata, I.sibirica, I.japonica (incl. I.Chinensis), I.chryso- | Iridaceae |
+| graphes, I.halophila (I.spuria ssp halophila) en I.spuria |   |
+| Isophysis | Iridaceae |
+| Ixia | Iridaceae |
+| Kelissa | Iridaceae |
+| Klattia | Iridaceae |
+| Lapeirousia | Iridaceae |
+| Larentia | Iridaceae |
+| Lethia | Iridaceae |
+| Libertia | Iridaceae |
+| Mastigostyla | Iridaceae |
+| Melasphaerula | Iridaceae |
+| Micranthus | Iridaceae |
+| Moraea | Iridaceae |
+| Nemastylis | Iridaceae |
+| Neomarica | Iridaceae |
+| Nivenia | Iridaceae |
+| Olsynium | Iridaceae |
+| Onira | Iridaceae |
+| Orthrosanthus | Iridaceae |
+| Pardanthopsis | Iridaceae |
+| Patersonia | Iridaceae |
+| Phalocallis | Iridaceae |
+| Pillansia | Iridaceae |
+| Pseudotrimezia | Iridaceae |
+| Radinosiphon | Iridaceae |
+| Rheome | Iridaceae |
+| Rigidella | Iridaceae |
+| Roggeveldia | Iridaceae |
+| Romulea | Iridaceae |
+| Savannosiphon | Iridaceae |
+| Schizostylis | Iridaceae |
+| Sessilanthera | Iridaceae |
+| Sessilistigma | Iridaceae |
+| Solenomelus | Iridaceae |
+| Sparaxis | Iridaceae |
+| Sphenostigma | Iridaceae |
+| Syringodea | Iridaceae |
+| Tapeinia | Iridaceae |
+| Thereianthus | Iridaceae |
+| Tigridia | Iridaceae |
+| Trimezia | Iridaceae |
+| Tritonia | Iridaceae |
+| Tritoniopsis | Iridaceae |
+| Watsonia | Iridaceae |
+| Witsenia | Iridaceae |
+| Zygotritonia | Iridaceae |
+|   |   |
+| Ixiolirion | Ixioliriaceae |
+|   |   |
+| Calochortus | Liliaceae |
+| Cardiocrinum | Liliaceae |
+| Erythronium | Liliaceae |
+| Fritillaria | Liliaceae |
+| Gagea | Liliaceae |
+| Korolkowia | Liliaceae |
+| Lilium | Liliaceae |
+| Lloydia | Liliaceae |
+| Nomocharis | Liliaceae |
+| Notholirion | Liliaceae |
+| Tulipa | Liliaceae |
+|   |   |
+| Zigadenus | Melanthiaceae |
+|   |   |
+| Mirabilis | Nyctaginaceae |
+|   |   |
+| Oxalis | Oxalidaceae |
+|   |   |
+| Cyclamen excl. C. persicum cultivars | Primulaceae |
+|   |   |
+| Anemone apennina | Ranunculaceae |
+| A. blanda | Ranunculaceae |
+| A. coronaria | Ranunculaceae |
+| A. cylindrica | Ranunculaceae |
+| A. flaccida | Ranunculaceae |
+| A. fulgens | Ranunculaceae |
+| A. ranunculoides | Ranunculaceae |
+| A. trifolia | Ranunculaceae |
+| Eranthis | Ranunculaceae |
+| Ranunculus ficaria | Ranunculaceae |
+| R. asiaticus | Ranunculaceae |
+| R. millefoliatus | Ranunculaceae |
+|   |   |
+| Conanthera | Tecophilaeaceae |
+| Cyanella | Tecophilaeaceae |
+| Odontostomum | Tecophilaeaceae |
+| Tecophilaea | Tecophilaeaceae |
+| Walleria | Tecophilaeaceae |
+| Zephyra | Tecophilaeaceae |
+|   |   |
+| Abolboda | Xyridaceae |
+| Achlyphila | Xyridaceae |
+| Aratitiyopea | Xyridaceae |
+| Orectanthe | Xyridaceae |
+| Xyris | Xyridaceae |
+|   |   |
+| Aframomum | Zingiberaceae |
+| Alpinia | Zingiberaceae |
+| Amomum | Zingiberaceae |
+| Aulotandra | Zingiberaceae |
+| Boesenbergia | Zingiberaceae |
+| Burbidgea | Zingiberaceae |
+| Camptandra | Zingiberaceae |
+| Caulokaempferia | Zingiberaceae |
+| Cautleya | Zingiberaceae |
+| Curcuma | Zingiberaceae |
+| Curcumorpha | Zingiberaceae |
+| Cyphostigma | Zingiberaceae |
+| Elettaria | Zingiberaceae |
+| Elettariopsis | Zingiberaceae |
+| Etlingera | Zingiberaceae |
+| Gagnepainia | Zingiberaceae |
+| Geocharis | Zingiberaceae |
+| Geostachys | Zingiberaceae |
+| Globba | Zingiberaceae |
+| Haniffia | Zingiberaceae |
+| Haplochorema | Zingiberaceae |
+| Hedychium | Zingiberaceae |
+| Hemiorchis | Zingiberaceae |
+| Hitchenia | Zingiberaceae |
+| Hornstedtia | Zingiberaceae |
+| Kaempferia | Zingiberaceae |
+| Leptosolena | Zingiberaceae |
+| Mantisia | Zingiberaceae |
+| Nanochilus | Zingiberaceae |
+| Paracautleya | Zingiberaceae |
+| Parakeampferia | Zingiberaceae |
+| Plagiostachys | Zingiberaceae |
+| Pleuranthodium | Zingiberaceae |
+| Pommereschea | Zingiberaceae |
+| Pyrgophyllum | Zingiberaceae |
+| Renealmia | Zingiberaceae |
+| Rhynchanthus | Zingiberaceae |
+| Riedelia | Zingiberaceae |
+| Roscoea | Zingiberaceae |
+| Scaphochlamys | Zingiberaceae |
+| Siliquamomum | Zingiberaceae |
+| Siphonochilus | Zingiberaceae |
+| Stadiochilus | Zingiberaceae |
+| Stahlianthus | Zingiberaceae |
+| Vanoverberghia | Zingiberaceae |
+| Zingiber | Zingiberaceae |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 7b
+
+Dit onderdeel is nog niet inwerking getreden
+
+### Hoofdstuk 2. Het in de handel brengen van groenten en fruit
+
+### Hoofdstuk 4. Het in de handel brengen van landbouwproducten en levensmiddelen met een beschermde geografische aanduiding, oorsprongsbenaming en een bescherming als een gegarandeerde traditionele specialiteit
+
+### Hoofdstuk 5. Zuigelingenvoeding bestemd voor derde landen
+
+### Hoofdstuk 7. Toezichthouders
+
+### Hoofdstuk 8. Overige bepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage III. als bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=8a&z=2011-07-02&g=2010-12-25) van de Landbouwkwaliteitsregeling 2007
 
 Producten voor de reiniging en de ontsmetting van gebouwen en installaties voor de plantaardige productie:
 
