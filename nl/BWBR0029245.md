@@ -4,7 +4,7 @@ identifier: "BWBR0029245"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-04-18"
-last_updated: "2010-11-06"
+last_updated: "2010-12-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029245"
 soort: "ministeriele-regeling"
@@ -118,7 +118,7 @@ Indien reeds door de Europese Commissie subsidie op grond van de EERP is verstre
 
 ##### Artikel 7
 
-1. Een aanvraag om subsidie wordt uiterlijk 9 februari 2011 ingediend met gebruikmaking van een formulier dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&bijlage=1&z=2010-12-25&g=2010-11-06) bij deze regeling is gevoegd.
+1. Een aanvraag om subsidie wordt uiterlijk 9 februari 2011 ingediend met gebruikmaking van een formulier dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&bijlage=1&z=2010-12-25&g=2010-12-25) bij deze regeling is gevoegd.
 
 2. De aanvraag wordt in de Engelse taal gedaan.
 
@@ -148,7 +148,7 @@ Indien aanvragers van subsidie samenwerken in een samenwerkingsverband, dienen z
 
 ##### Artikel 10
 
-1. De minister dient de aanvragen waarop op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&paragraaf=2&artikel=9&z=2010-12-25&g=2010-11-06) niet afwijzend is beslist, op basis van artikel 5, derde lid, van het NER-besluit in bij de Europese Investeringsbank.
+1. De minister dient de aanvragen waarop op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&paragraaf=2&artikel=9&z=2010-12-25&g=2010-12-25) niet afwijzend is beslist, op basis van artikel 5, derde lid, van het NER-besluit in bij de Europese Investeringsbank.
 
 2. De minister beslist afwijzend op een aanvraag om subsidie indien een aanvraag als bedoeld in het eerste lid, op grond van een toekenningsbesluit niet voor financiering uit hoofde van het NER-besluit in aanmerking komt.
 
@@ -180,7 +180,7 @@ De minister kan bij de beschikking tot subsidieverlening bepalen dat ambtshalve 
 
 1. De subsidieontvanger dient zijn aanvraag om subsidievaststelling in uiterlijk dertien weken na het tijdstip waarop de activiteiten moeten zijn voltooid.
 
-2. De aanvraag wordt ingediend met gebruikmaking van het formulier dat als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&bijlage=3&z=2010-12-25&g=2010-11-06) bij de regeling is gevoegd.
+2. De aanvraag wordt ingediend met gebruikmaking van het formulier dat als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&bijlage=3&z=2010-12-25&g=2010-12-25) bij de regeling is gevoegd.
 
 3. De aanvraag gaat, overeenkomstig in het formulier is vermeld, vergezeld van de in het formulier aangegeven bescheiden.
 
@@ -216,7 +216,7 @@ Indien reeds door de Europese Commissie subsidie op grond van de EERP is verstre
 
 ##### Artikel 23
 
-1. Een aanvraag om subsidie wordt uiterlijk 9 februari 2011 ingediend met gebruikmaking van een formulier dat als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&bijlage=3&z=2010-12-25&g=2010-11-06) bij deze regeling is gevoegd.
+1. Een aanvraag om subsidie wordt uiterlijk 9 februari 2011 ingediend met gebruikmaking van een formulier dat als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&bijlage=3&z=2010-12-25&g=2010-12-25) bij deze regeling is gevoegd.
 
 2. De aanvraag wordt in de Engelse taal gedaan.
 
@@ -256,11 +256,11 @@ Indien de aanvragers van subsidie samenwerken in een samenwerkingsverband, diene
 
 2. Voor de rangschikking wegen de in het eerste lid vermelde cirteria even zwaar.
 
-3. De vijf hoogst gerangschikte aanvragen worden door de minister op grond van [artike 27](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&paragraaf=3&artikel=27&z=2010-12-25&g=2010-11-06) ingediend.
+3. De vijf hoogst gerangschikte aanvragen worden door de minister op grond van [artike 27](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&paragraaf=3&artikel=27&z=2010-12-25&g=2010-12-25) ingediend.
 
 ##### Artikel 27
 
-1. De minister dient de aanvragen waarop op grond van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&paragraaf=3&artikel=25&z=2010-12-25&g=2010-11-06) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&paragraaf=3&artikel=26&z=2010-12-25&g=2010-11-06) niet afwijzend is beslist, op basis van artikel 5, derde lid, van het NER-besluit in bij de Europese Investeringsbank.
+1. De minister dient de aanvragen waarop op grond van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&paragraaf=3&artikel=25&z=2010-12-25&g=2010-12-25) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&paragraaf=3&artikel=26&z=2010-12-25&g=2010-12-25) niet afwijzend is beslist, op basis van artikel 5, derde lid, van het NER-besluit in bij de Europese Investeringsbank.
 
 2. De minister beslist afwijzend op een aanvraag om subsidie indien een aanvraag als bedoeld in het eerste lid, op grond van een toekenningsbesluit niet voor financiering uit hoofde van het NER-besluit in aanmerking komt.
 
@@ -292,7 +292,7 @@ De minister kan bij de beschikking tot subsidieverlening bepalen dat ambtshalve 
 
 1. De subsidieontvanger dient zijn aanvraag om subsidievaststelling in uiterlijk dertien weken na het tijdstip waarop de activiteiten moeten zijn voltooid.
 
-2. De aanvraag wordt ingediend met gebruikmaking van het formulier dat als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&bijlage=3&z=2010-12-25&g=2010-11-06) bij de regeling is gevoegd.
+2. De aanvraag wordt ingediend met gebruikmaking van het formulier dat als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&bijlage=3&z=2010-12-25&g=2010-12-25) bij de regeling is gevoegd.
 
 3. De aanvraag gaat, overeenkomstig in het formulier is vermeld, vergezeld van de in het formulier aangegeven bescheiden.
 
@@ -306,11 +306,11 @@ Deze regeling treedt in werking met ingang van de dag na de dagtekening van de S
 
 Deze regeling wordt aangehaald als: Subsidieregeling NER 300.
 
-## Bijlage 1. als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&paragraaf=2&artikel=7&z=2010-12-25&g=2010-11-06), van de Subsidieregeling NER 300
+## Bijlage 1. als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&paragraaf=2&artikel=7&z=2010-12-25&g=2010-12-25), van de Subsidieregeling NER 300
 
-## Bijlage 2. als bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&paragraaf=3&artikel=23&z=2010-12-25&g=2010-11-06), van de Subsidieregeling NER300
+## Bijlage 2. als bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&paragraaf=3&artikel=23&z=2010-12-25&g=2010-12-25), van de Subsidieregeling NER300
 
-## Bijlage 3. als bedoeld in [artikelen 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&paragraaf=2&artikel=17&z=2010-12-25&g=2010-11-06), en [34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&paragraaf=3&artikel=34&z=2010-12-25&g=2010-11-06), van de Subsidieregeling NER 300
+## Bijlage 3. als bedoeld in [artikelen 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&paragraaf=2&artikel=17&z=2010-12-25&g=2010-12-25), en [34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&paragraaf=3&artikel=34&z=2010-12-25&g=2010-12-25), van de Subsidieregeling NER 300
 
 ## Controleprotocol aangaande het geven van aanwijzingen over de reikwijdte en intensiteit van de accountantscontrole van EL&I subsidies
 
