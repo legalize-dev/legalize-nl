@@ -4,7 +4,7 @@ identifier: "BWBR0029211"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2011-01-01"
-last_updated: "2010-10-10"
+last_updated: "2010-12-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029211"
 soort: "wet-BES"
@@ -43,8 +43,6 @@ Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 Alzo Wij in overweging genomen hebben, dat met de eilandgebieden Bonaire, Sint Eustatius en Saba is overeengekomen dat zij een staatsrechtelijke positie krijgen binnen het Nederlandse staatsbestel en het in verband hiermee wenselijk is wetten en de Nederlands-Antilliaanse regelingen, die ingevolge de [Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063) als wet van toepassing blijven in de openbare lichamen Bonaire, Sint Eustatius en Saba, die nog niet zijn meegenomen in de [Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028129), aan te passen;
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Werkt terug tot en met 00:00 uur in Bonaire, Sint Eustatius en Saba en tot en met 06:00 uur in het Europese deel van Nederland.
 
 ##### Artikel I
 
