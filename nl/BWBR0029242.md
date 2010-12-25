@@ -4,7 +4,7 @@ identifier: "BWBR0029242"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-12-25"
-last_updated: "2010-01-01"
+last_updated: "2010-12-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029242"
 soort: "ministeriele-regeling"
@@ -59,7 +59,7 @@ Besluit:
 
 - iii. een ondernemer die haar bedrijf maakt van het ter beschikking verkrijgen van opvorderbare gelden van professionele marktpartijen of binnen besloten kring, en van het voor eigen rekening verrichten van kredietuitzettingen die volgens haar statuten in Nederland haar zetel heeft en die deel uitmaakt van de groep waartoe die ondernemer behoort; of
 
-- iv. een multilaterale instelling die wordt genoemd in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0029242&bijlage=1&z=2010-12-25&g=2010-01-01) bij deze regeling;
+- iv. een multilaterale instelling die wordt genoemd in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0029242&bijlage=1&z=2010-12-25&g=2010-12-25) bij deze regeling;
 
 - f. **uitvoerder:** uitvoerder als bedoeld in [artikel 1 van Regeling uitvoering EKI](https://wetten.overheid.nl/jci1.3:c:BWBR0027082&artikel=1);
 
@@ -69,7 +69,7 @@ Besluit:
 
 - i. **opbrengst:** rente, dividend, royalty’s en andere gelden die door de onderneming in het investeringsland ter beschikking van de verzekerde zijn gesteld, anders dan als aflossing van een lening of als terugbetaling van een investering.
 
-2. Deze regeling is niet van toepassing op een ondernemer of onderneming, bedoeld in [artikel 1, eerste lid, onderdeel e onder ii of iii](https://wetten.overheid.nl/jci1.3:c:BWBR0029242&artikel=1&z=2010-12-25&g=2010-01-01), voor zover die behoort tot een groep waarvan de rechtspersoon die, alleen of samen met een andere groepsmaatschappij, aan het hoofd staat van die groep volgens zijn statuten buiten Nederland zijn zetel heeft.
+2. Deze regeling is niet van toepassing op een ondernemer of onderneming, bedoeld in [artikel 1, eerste lid, onderdeel e onder ii of iii](https://wetten.overheid.nl/jci1.3:c:BWBR0029242&artikel=1&z=2010-12-25&g=2010-12-25), voor zover die behoort tot een groep waarvan de rechtspersoon die, alleen of samen met een andere groepsmaatschappij, aan het hoofd staat van die groep volgens zijn statuten buiten Nederland zijn zetel heeft.
 
 3. Deze regeling is niet van toepassing op een ondernemer die geen economische activiteiten verricht van industriële of commerciële aard, bestaande in het aanbieden vangoederen of diensten op de markt en die behoort tot een groep waarvan de rechtspersoon die, alleen of samen met een andere groepsmaatschappij, aan het hoofd staat van die groep volgens zijn statuten buiten Nederland zijn zetel heeft.
 
@@ -149,9 +149,9 @@ De Staat sluit in ieder geval geen verzekering, indien:
 
 4. Deze regeling wordt aangehaald als: **Regeling investeringsverzekeringen**.
 
-## Bijlage 1. Lijst van multilaterale instellingen als bedoeld in [artikel 1e, sub iv](https://wetten.overheid.nl/jci1.3:c:BWBR0029242&artikel=1&z=2010-12-25&g=2010-01-01)
+## Bijlage 1. Lijst van multilaterale instellingen als bedoeld in [artikel 1e, sub iv](https://wetten.overheid.nl/jci1.3:c:BWBR0029242&artikel=1&z=2010-12-25&g=2010-12-25)
 
-In [artikel 1e, sub iv](https://wetten.overheid.nl/jci1.3:c:BWBR0029242&artikel=1&z=2010-12-25&g=2010-01-01) van de Regeling investeringsverzekeringen, wordt bepaald dat een geldgever een multilaterale instelling kan betreffen. De volgende multilaterale instellingen komen hiervoor in aanmerking:
+In [artikel 1e, sub iv](https://wetten.overheid.nl/jci1.3:c:BWBR0029242&artikel=1&z=2010-12-25&g=2010-12-25) van de Regeling investeringsverzekeringen, wordt bepaald dat een geldgever een multilaterale instelling kan betreffen. De volgende multilaterale instellingen komen hiervoor in aanmerking:
 
 Asian Development Bank
 
