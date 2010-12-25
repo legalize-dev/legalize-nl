@@ -4,7 +4,7 @@ identifier: "BWBR0027153"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-12-25"
-last_updated: "2010-02-09"
+last_updated: "2010-12-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027153"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 1. Als periode in 2010 na afloop waarvan de aanvragen om subsidie krachtens de [Subsidieregeling Wet op het Waddenfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0022174) die in die periode zijn ontvangen, worden behandeld, wordt vastgesteld: 22 maart 2010 tot en met 29 april 2010.
 
-2. Het subsidieplafond voor het verlenen van subsidies op aanvragen als bedoeld in het eerste lid, ontvangen in de in dat lid genoemde periode, wordt vastgesteld op € 33.000.000.
+2. Het subsidieplafond voor het verlenen van subsidies op aanvragen als bedoeld in het eerste lid, ontvangen in de in dat lid genoemde periode, wordt vastgesteld op € 36.800.000.
 
 3. Van het bedrag, genoemd in het tweede lid, wordt € 1.000.000 gereserveerd voor aanvragen waarvan de subsidiabele kosten minder bedragen dan € 200.000.
 
