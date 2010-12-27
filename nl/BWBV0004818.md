@@ -4,7 +4,7 @@ identifier: "BWBV0004818"
 country: "nl"
 rank: "verdrag"
 publication_date: "2010-12-27"
-last_updated: "2000-06-01"
+last_updated: "2010-12-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004818"
 soort: "verdrag"
@@ -38,9 +38,9 @@ Voor de toepassing van dit Verdrag, tenzij uitdrukkelijk anders is bepaald, word
 
 - i. „bureau”: de instantie van een Verdragsluitende Partij die belast is met de verlening van octrooien of met andere aangelegenheden die vallen onder dit Verdrag;
 
-- ii. „aanvraag”: een aanvraag tot verlening van een octrooi, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=3&z=2000-06-01&g=2000-06-01);
+- ii. „aanvraag”: een aanvraag tot verlening van een octrooi, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=3&z=2010-12-27&g=2010-12-27);
 
-- iii. „octrooi”: een octrooi als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=3&z=2000-06-01&g=2000-06-01);
+- iii. „octrooi”: een octrooi als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=3&z=2010-12-27&g=2010-12-27);
 
 - iv. „persoon”: een natuurlijke persoon alsmede een rechtspersoon;
 
@@ -84,7 +84,7 @@ Voor de toepassing van dit Verdrag, tenzij uitdrukkelijk anders is bepaald, word
 
 ##### Artikel 2. Algemene beginselen
 
-1. [Gunstiger vereisten] Het staat een Verdragsluitende Partij vrij eisen te stellen die, vanuit het standpunt van de aanvragers en eigenaren, gunstiger zijn dan de in dit Verdrag en het Reglement van Uitvoering bedoelde eisen, anders dan [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2000-06-01&g=2000-06-01).
+1. [Gunstiger vereisten] Het staat een Verdragsluitende Partij vrij eisen te stellen die, vanuit het standpunt van de aanvragers en eigenaren, gunstiger zijn dan de in dit Verdrag en het Reglement van Uitvoering bedoelde eisen, anders dan [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2010-12-27&g=2010-12-27).
 
 2. [Geen beperking van materieel octrooirecht] Geen enkele bepaling uit dit Verdrag of het Reglement van Uitvoering is bedoeld om te worden uitgelegd als beperking van de vrijheid van een Verdragsluitende Partij de door haar gewenste vereisten ingevolge het toepasselijke materiële recht inzake octrooien op te leggen.
 
@@ -176,7 +176,7 @@ Geen enkele bepaling in dit Verdrag en het Reglement van Uitvoering beperkt de v
 
 - a. Een Verdragsluitende Partij kan verlangen dat de inhoud van een aanvraag die overeenkomt met de inhoud van een verzoek inzake een internationale aanvraag ingevolge het [Verdrag tot samenwerking inzake octrooien](https://wetten.overheid.nl/jci1.3:c:BWBV0004680) wordt gepresenteerd op een door die Verdragsluitende Partij voorgeschreven aanvraagformulier. Een Verdragsluitende Partij kan tevens verlangen dat de eventuele verdere inhoud toegestaan ingevolge het eerste lid, onder ii, of voorgeschreven door het Reglement van Uitvoering uit hoofde van het eerste lid, onder iii, wordt opgenomen in dat aanvraagformulier.
 
-- b. Onverminderd letter a en behoudens [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2000-06-01&g=2000-06-01), aanvaardt een Verdragsluitende Partij de presentatie van de inhoud bedoeld in letter a op een aanvraagformulier als genoemd in het Reglement van Uitvoering.
+- b. Onverminderd letter a en behoudens [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2010-12-27&g=2010-12-27), aanvaardt een Verdragsluitende Partij de presentatie van de inhoud bedoeld in letter a op een aanvraagformulier als genoemd in het Reglement van Uitvoering.
 
 3. [Vertaling] Een Verdragsluitende Partij kan een vertaling verlangen van elk deel van de aanvraag dat niet in een door haar bureau aanvaarde taal is gesteld. Een Verdragsluitende Partij kan ook van de delen van de aanvraag, als voorgeschreven door het Reglement van Uitvoering, die zijn gesteld in een door het bureau aanvaarde taal, een vertaling in een andere door dat bureau aanvaarde taal verlangen.
 
@@ -190,9 +190,9 @@ Geen enkele bepaling in dit Verdrag en het Reglement van Uitvoering beperkt de v
 
 8. [Niet voldoen aan vereisten]
 
-- a. Indien binnen de in het Reglement van Uitvoering voorgeschreven termijn niet wordt voldaan aan een of meer door de Verdragsluitende Partij uit hoofde van het eerste tot en met zesde lid gehanteerde vereisten, kan de Verdragsluitende Partij, behoudens letter b, en de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2000-06-01&g=2000-06-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=10&z=2000-06-01&g=2000-06-01), in haar wetgeving voorziene sancties opleggen.
+- a. Indien binnen de in het Reglement van Uitvoering voorgeschreven termijn niet wordt voldaan aan een of meer door de Verdragsluitende Partij uit hoofde van het eerste tot en met zesde lid gehanteerde vereisten, kan de Verdragsluitende Partij, behoudens letter b, en de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2010-12-27&g=2010-12-27) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=10&z=2010-12-27&g=2010-12-27), in haar wetgeving voorziene sancties opleggen.
 
-- b. Indien binnen de in het Reglement van Uitvoering voorgeschreven termijn niet wordt voldaan aan een door de Verdragsluitende Partij ingevolge het eerste, vijfde of zesde lid gehanteerd vereiste ten aanzien van een beroep op voorrang, kan het beroep op voorrang, onder voorbehoud van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=13&z=2000-06-01&g=2000-06-01), geacht worden niet te bestaan. Behoudens [artikel 5, zevende lid, letter b](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2000-06-01&g=2000-06-01), mogen geen andere sancties worden opgelegd.
+- b. Indien binnen de in het Reglement van Uitvoering voorgeschreven termijn niet wordt voldaan aan een door de Verdragsluitende Partij ingevolge het eerste, vijfde of zesde lid gehanteerd vereiste ten aanzien van een beroep op voorrang, kan het beroep op voorrang, onder voorbehoud van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=13&z=2010-12-27&g=2010-12-27), geacht worden niet te bestaan. Behoudens [artikel 5, zevende lid, letter b](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2010-12-27&g=2010-12-27), mogen geen andere sancties worden opgelegd.
 
 ##### Artikel 7. Vertegenwoordiging
 
@@ -234,7 +234,7 @@ Geen enkele bepaling in dit Verdrag en het Reglement van Uitvoering beperkt de v
 
 1. [Vorm en wijze van verzending van mededelingen]
 
-- a. Behalve voor de vaststelling van een datum van indiening ingevolge [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2000-06-01&g=2000-06-01), en behoudens [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2000-06-01&g=2000-06-01), worden in het Reglement van Uitvoering, behoudens de letters b tot en met d, de vereisten genoemd die een Verdragsluitende Partij mag hanteren ten aanzien van de vorm en wijze van verzending van mededelingen.
+- a. Behalve voor de vaststelling van een datum van indiening ingevolge [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2010-12-27&g=2010-12-27), en behoudens [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27), worden in het Reglement van Uitvoering, behoudens de letters b tot en met d, de vereisten genoemd die een Verdragsluitende Partij mag hanteren ten aanzien van de vorm en wijze van verzending van mededelingen.
 
 - b. Geen enkele Verdragsluitende Partij is verplicht de indiening van mededelingen anders dan op papier, te aanvaarden.
 
@@ -244,7 +244,7 @@ Geen enkele bepaling in dit Verdrag en het Reglement van Uitvoering beperkt de v
 
 2. [Taal van de mededelingen] Tenzij in dit Verdrag of het Reglement van Uitvoering anders wordt bepaald, kan een Verdragsluitende Partij verlangen dat een mededeling wordt gesteld in een door het bureau aanvaarde taal.
 
-3. [Internationale standaardformulieren] Onverminderd het eerste lid, letter a, en behoudens het eerste lid, letter b, en [artikel 6, tweede lid, letter b](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2000-06-01&g=2000-06-01), aanvaardt een Verdragsluitende Partij de presentatie van de inhoud van een mededeling op een formulier dat overeenkomt met een internationaal standaardformulier ten aanzien van mededelingen voor zover het Reglement van Uitvoering daarin voorziet.
+3. [Internationale standaardformulieren] Onverminderd het eerste lid, letter a, en behoudens het eerste lid, letter b, en [artikel 6, tweede lid, letter b](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27), aanvaardt een Verdragsluitende Partij de presentatie van de inhoud van een mededeling op een formulier dat overeenkomt met een internationaal standaardformulier ten aanzien van mededelingen voor zover het Reglement van Uitvoering daarin voorziet.
 
 4. [Ondertekening van de mededelingen]
 
@@ -266,19 +266,19 @@ Geen enkele bepaling in dit Verdrag en het Reglement van Uitvoering beperkt de v
 
 7. [Kennisgeving] Wanneer niet wordt voldaan aan een of meer van de door de Verdragsluitende Partij ingevolge het eerste tot en met het zesde lid gehanteerde vereisten ten aanzien van mededelingen, geeft het bureau de aanvrager, eigenaar of andere belanghebbende hiervan kennis, waarbij hem de gelegenheid wordt geboden te voldoen aan een dergelijk vereiste en commentaar te leveren, binnen de in het Reglement van Uitvoering voorgeschreven termijn.
 
-8. [Niet voldoen aan vereisten] Wanneer niet wordt voldaan aan een van de door de Verdragsluitende Partij ingevolge het eerste tot en met het zesde lid gehanteerde vereisten binnen de in het Reglement van Uitvoering voorgeschreven termijn, kan de Verdragsluitende Partij, onverminderd de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2000-06-01&g=2000-06-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=10&z=2000-06-01&g=2000-06-01), en onder voorbehoud van in het Reglement van Uitvoering voorgeschreven uitzonderingen, de in haar wetgeving voorziene sanctie opleggen.
+8. [Niet voldoen aan vereisten] Wanneer niet wordt voldaan aan een van de door de Verdragsluitende Partij ingevolge het eerste tot en met het zesde lid gehanteerde vereisten binnen de in het Reglement van Uitvoering voorgeschreven termijn, kan de Verdragsluitende Partij, onverminderd de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2010-12-27&g=2010-12-27) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=10&z=2010-12-27&g=2010-12-27), en onder voorbehoud van in het Reglement van Uitvoering voorgeschreven uitzonderingen, de in haar wetgeving voorziene sanctie opleggen.
 
 ##### Artikel 9. Kennisgevingen
 
-1. [Afdoende kennisgeving] Elke kennisgeving uit hoofde van dit Verdrag of van het Reglement van Uitvoering dat door het bureau aan een correspondentieadres of een gekozen woonplaats zoals bedoeld in [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2000-06-01&g=2000-06-01), of aan enig in het Reglement van Uitvoering bedoeld overig adres wordt gezonden ten behoeve van de onderhavige bepaling, en die voldoet aan de bepalingen ten aanzien van die kennisgeving, vormt een afdoende kennisgeving voor de toepassing van dit Verdrag en van het Reglement van Uitvoering.
+1. [Afdoende kennisgeving] Elke kennisgeving uit hoofde van dit Verdrag of van het Reglement van Uitvoering dat door het bureau aan een correspondentieadres of een gekozen woonplaats zoals bedoeld in [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2010-12-27&g=2010-12-27), of aan enig in het Reglement van Uitvoering bedoeld overig adres wordt gezonden ten behoeve van de onderhavige bepaling, en die voldoet aan de bepalingen ten aanzien van die kennisgeving, vormt een afdoende kennisgeving voor de toepassing van dit Verdrag en van het Reglement van Uitvoering.
 
 2. [Verzuim contactgegevens in te dienen] Niets in dit Verdrag en in het Reglement van Uitvoering verplicht een Verdragsluitende Partij een kennisgeving te richten aan een aanvrager, eigenaar of andere belanghebbende, indien de contactgegevens van die aanvraagr, eigenaar of andere belanghebbende niet bij het bureau zijn ingediend.
 
-3. [Verzuim kennisgeving te doen] Onverminderd [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=10&z=2000-06-01&g=2000-06-01), ontslaat, wanneer een bureau een aanvrager, eigenaar of andere belanghebbende geen kennisgeving doet van een verzuim ten aanzien van enig vereiste uit hoofde van dit Verdrag of van het Reglement van Uitvoering, deze achterwege gelaten kennisgeving de aanvrager, eigenaar of andere belanghebbende niet van de verplichting aan dat vereiste te voldoen.
+3. [Verzuim kennisgeving te doen] Onverminderd [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=10&z=2010-12-27&g=2010-12-27), ontslaat, wanneer een bureau een aanvrager, eigenaar of andere belanghebbende geen kennisgeving doet van een verzuim ten aanzien van enig vereiste uit hoofde van dit Verdrag of van het Reglement van Uitvoering, deze achterwege gelaten kennisgeving de aanvrager, eigenaar of andere belanghebbende niet van de verplichting aan dat vereiste te voldoen.
 
 ##### Artikel 10. Geldigheid van het octrooi; intrekking
 
-1. [Geldigheid van het octrooi niet aangetast wanneer niet wordt voldaan aan bepaalde vormvereisten] Wanneer niet wordt voldaan aan een of meerdere van de in [artikel 6, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2000-06-01&g=2000-06-01), en [artikel 8, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2000-06-01&g=2000-06-01), bedoelde vormvereisten met betrekking tot een aanvraag, kan dit geen grond zijn voor intrekking of ongeldigverklaring van een octrooi, hetzij geheel of gedeeltelijk, tenzij het niet voldoen aan het vormvereiste uit een opzettelijk frauduleus oogmerk voortkomt.
+1. [Geldigheid van het octrooi niet aangetast wanneer niet wordt voldaan aan bepaalde vormvereisten] Wanneer niet wordt voldaan aan een of meerdere van de in [artikel 6, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27), en [artikel 8, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2010-12-27&g=2010-12-27), bedoelde vormvereisten met betrekking tot een aanvraag, kan dit geen grond zijn voor intrekking of ongeldigverklaring van een octrooi, hetzij geheel of gedeeltelijk, tenzij het niet voldoen aan het vormvereiste uit een opzettelijk frauduleus oogmerk voortkomt.
 
 2. [Gelegenheid tot het leveren van commentaar, wijzigingen of verbeteringen ingeval van een voorgenomen intrekking of ongeldigverklaring] Een octrooi mag niet, geheel of ten dele, worden ingetrokken of ongeldig worden verklaard zonder dat de eigenaar in de gelegenheid wordt gesteld binnen een redelijke termijn commentaar te leveren op de beoogde intrekking of ongeldigverklaring, en wettelijk toegestane wijzigingen en verbeteringen aan te brengen.
 
@@ -338,7 +338,7 @@ Geen enkele bepaling in dit Verdrag en het Reglement van Uitvoering beperkt de v
 
 2. [Verlate indiening van de vervolgaanvraag]
 
-- a. Rekening houdend met [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=15&z=2000-06-01&g=2000-06-01), zorgt een Verdragsluitende Partij ervoor dat, wanneer een aanvraag (de „vervolgaanvraag”) waarin een beroep wordt gedaan of gedaan zou kunnen zijn op de voorrang van een eerdere aanvraag, een datum van indiening heeft die later valt dan de datum waarop de voorrangstermijn is verstreken, maar binnen de in het Reglement van Uitvoering voorgeschreven termijn, het bureau het recht van voorrang herstelt, indien:
+- a. Rekening houdend met [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=15&z=2010-12-27&g=2010-12-27), zorgt een Verdragsluitende Partij ervoor dat, wanneer een aanvraag (de „vervolgaanvraag”) waarin een beroep wordt gedaan of gedaan zou kunnen zijn op de voorrang van een eerdere aanvraag, een datum van indiening heeft die later valt dan de datum waarop de voorrangstermijn is verstreken, maar binnen de in het Reglement van Uitvoering voorgeschreven termijn, het bureau het recht van voorrang herstelt, indien:
 
 - i. in overeenstemming met de in het Reglement van Uitvoering voorgeschreven vereisten daartoe een verzoekschrift tot het bureau is gericht;
 
@@ -348,11 +348,11 @@ Geen enkele bepaling in dit Verdrag en het Reglement van Uitvoering beperkt de v
 
 - iv. het bureau vaststelt dat het verzuim om de vervolgaanvraag binnen de voorrangstermijn in te dienen is ontstaan, ondanks betrachting van de in de omstandigheden vereiste zorg, of, ter keuze van de Verdragsluitende Partij, dat het niet in acht nemen van de termijn onopzettelijk was.
 
-3. [Verzuim een afschrift van een eerdere aanvraag in te dienen] Een Verdragsluitende Partij zorgt ervoor dat, wanneer een afschrift van een eerdere ingevolge [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2000-06-01&g=2000-06-01), vereiste aanvraag niet binnen de in het Reglement van Uitvoering ingevolge artikel 6 voorgeschreven termijn bij het bureau is ingediend, het bureau het recht van voorrang herstelt, indien:
+3. [Verzuim een afschrift van een eerdere aanvraag in te dienen] Een Verdragsluitende Partij zorgt ervoor dat, wanneer een afschrift van een eerdere ingevolge [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27), vereiste aanvraag niet binnen de in het Reglement van Uitvoering ingevolge artikel 6 voorgeschreven termijn bij het bureau is ingediend, het bureau het recht van voorrang herstelt, indien:
 
 - i. in overeenstemming met de in het Reglement van Uitvoering voorgeschreven vereisten daartoe een verzoekschrift tot het bureau wordt gericht;
 
-- ii. het verzoekschrift is ingediend binnen de in het Reglement van Uitvoering, ingevolge [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2000-06-01&g=2000-06-01), voorgeschreven termijn voor het indienen van het afschrift van de eerdere aanvraag;
+- ii. het verzoekschrift is ingediend binnen de in het Reglement van Uitvoering, ingevolge [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27), voorgeschreven termijn voor het indienen van het afschrift van de eerdere aanvraag;
 
 - iii. het bureau vaststelt dat het verzoek om het te verstrekken afschrift binnen de in het Reglement van Uitvoering voorgeschreven termijn is ingediend bij het bureau waarbij de eerdere aanvraag is ingediend; en
 
@@ -386,7 +386,7 @@ Geen enkele bepaling in dit Verdrag en het Reglement van Uitvoering beperkt de v
 
 - iv. verbetering van een fout.
 
-- c. Het Reglement van Uitvoering voorziet eveneens in het opstellen, door de Algemene Vergadering, met de hulp van het Internationaal Bureau, van internationale standaardformulieren, en in het opstellen van een aanvraagformulier voor de toepassing van [artikel 6, tweede lid, letter b](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2000-06-01&g=2000-06-01).
+- c. Het Reglement van Uitvoering voorziet eveneens in het opstellen, door de Algemene Vergadering, met de hulp van het Internationaal Bureau, van internationale standaardformulieren, en in het opstellen van een aanvraagformulier voor de toepassing van [artikel 6, tweede lid, letter b](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27).
 
 2. [Wijziging van het Reglement van Uitvoering] Behoudens het derde lid is voor elke wijziging van het Reglement van Uitvoering drie vierde van de uitgebrachte stemmen vereist.
 
@@ -428,13 +428,13 @@ Geen enkele bepaling in dit Verdrag en het Reglement van Uitvoering beperkt de v
 
 - i. neemt vraagstukken in behandeling betreffende de instandhouding en de ontwikkeling van dit Verdrag en de toepassing en werking van dit Verdrag;
 
-- ii. stelt met de hulp van het Internationaal Bureau internationale standaardformulieren op, alsmede de aanvraagformulieren bedoeld in [artikel 14, eerste lid, letter c](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=14&z=2000-06-01&g=2000-06-01);
+- ii. stelt met de hulp van het Internationaal Bureau internationale standaardformulieren op, alsmede de aanvraagformulieren bedoeld in [artikel 14, eerste lid, letter c](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=14&z=2010-12-27&g=2010-12-27);
 
 - iii. wijzigt het Reglement van Uitvoering;
 
 - iv. stelt de voorwaarden vast voor de datum vanaf welke het in punt ii bedoelde internationale standaardformulier en het aanvraagformulier kunnen worden gebruikt, en de datum van vankrachtwording van elke in punt iii bedoelde wijziging;
 
-- v. beslist, ingevolge [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=16&z=2000-06-01&g=2000-06-01), of een herziening, aanpassing of wijziging van het [Verdrag tot samenwerking inzake octrooien](https://wetten.overheid.nl/jci1.3:c:BWBV0004680) van toepassing is ten behoeve van dit Verdrag en het Reglement van Uitvoering;
+- v. beslist, ingevolge [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=16&z=2010-12-27&g=2010-12-27), of een herziening, aanpassing of wijziging van het [Verdrag tot samenwerking inzake octrooien](https://wetten.overheid.nl/jci1.3:c:BWBV0004680) van toepassing is ten behoeve van dit Verdrag en het Reglement van Uitvoering;
 
 - vi. kwijt zich van alle overige nuttige functies in het kader van dit Verdrag.
 
@@ -456,7 +456,7 @@ Geen enkele bepaling in dit Verdrag en het Reglement van Uitvoering beperkt de v
 
 5. [Meerderheid]
 
-- a. Onverminderd het bepaalde in [artikel 14, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=14&z=2000-06-01&g=2000-06-01), [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=16&z=2000-06-01&g=2000-06-01), en [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=19&z=2000-06-01&g=2000-06-01), worden de besluiten van de Algemene Vergadering genomen met een meerderheid van twee derde van de uitgebrachte stemmen.
+- a. Onverminderd het bepaalde in [artikel 14, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=14&z=2010-12-27&g=2010-12-27), [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=16&z=2010-12-27&g=2010-12-27), en [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=19&z=2010-12-27&g=2010-12-27), worden de besluiten van de Algemene Vergadering genomen met een meerderheid van twee derde van de uitgebrachte stemmen.
 
 - b. Bij de vaststelling of de vereiste meerderheid is bereikt, worden uitsluitend daadwerkelijk uitgebrachte stemmen in acht genomen. Onthouding geldt niet als stem.
 
@@ -494,11 +494,11 @@ Geen enkele bepaling in dit Verdrag en het Reglement van Uitvoering beperkt de v
 
 1. [Herziening van het Verdrag] Onverminderd het tweede lid, kan dit Verdrag worden herzien door middel van een conferentie van de Verdragsluitende Partijen. De Algemene Vergadering besluit tot bijeenroeping van een herzieningsconferentie.
 
-2. [Herziening of wijziging van sommige bepalingen van het Verdrag] [Artikel 17, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=17&z=2000-06-01&g=2000-06-01), kunnen worden gewijzigd hetzij door middel van een herzieningsconferentie, hetzij door de Algemene Vergadering overeenkomstig de bepalingen van het derde lid.
+2. [Herziening of wijziging van sommige bepalingen van het Verdrag] [Artikel 17, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=17&z=2010-12-27&g=2010-12-27), kunnen worden gewijzigd hetzij door middel van een herzieningsconferentie, hetzij door de Algemene Vergadering overeenkomstig de bepalingen van het derde lid.
 
 3. [Wijziging van sommige bepalingen door de Algemene Vergadering]
 
-- a. Voorstellen tot wijziging van [artikel 17, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=17&z=2000-06-01&g=2000-06-01), door de Algemene Vergadering kunnen door elke Verdragsluitende Partij of door de Directeur-Generaal worden gedaan. Deze voorstellen worden ten minste zes maanden voordat zij aan de Algemene Vergadering ter bestudering worden voorgelegd, door de Directeur-Generaal aan de Verdragsluitende Partijen medegedeeld.
+- a. Voorstellen tot wijziging van [artikel 17, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=17&z=2010-12-27&g=2010-12-27), door de Algemene Vergadering kunnen door elke Verdragsluitende Partij of door de Directeur-Generaal worden gedaan. Deze voorstellen worden ten minste zes maanden voordat zij aan de Algemene Vergadering ter bestudering worden voorgelegd, door de Directeur-Generaal aan de Verdragsluitende Partijen medegedeeld.
 
 - b. Voor de aanneming van elke wijziging van de onder a bedoelde bepalingen is een meerderheid van drie vierde van de uitgebrachte stemmen vereist.
 
@@ -540,13 +540,13 @@ Onverminderd het bepaalde in het derde lid, wordt een dergelijke verklaring afge
 
 ##### Artikel 22. Toepassing van het Verdrag op bestaande aanvragen en octrooien
 
-1. [Beginsel] Onverminderd het bepaalde in het tweede lid, past een Verdragsluitende Partij de bepalingen van dit Verdrag en het Reglement van Uitvoering, met uitzondering van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2000-06-01&g=2000-06-01) en [6, eerste en tweede lid,](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2000-06-01&g=2000-06-01) en de met deze artikelen samenhangende bepalingen van het Reglement, toe op lopende aanvragen, en op van kracht zijnde octrooien, op de datum waarop dit Verdrag de desbetreffende Verdragsluitende Partij ingevolge [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=21&z=2000-06-01&g=2000-06-01) bindt.
+1. [Beginsel] Onverminderd het bepaalde in het tweede lid, past een Verdragsluitende Partij de bepalingen van dit Verdrag en het Reglement van Uitvoering, met uitzondering van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2010-12-27&g=2010-12-27) en [6, eerste en tweede lid,](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27) en de met deze artikelen samenhangende bepalingen van het Reglement, toe op lopende aanvragen, en op van kracht zijnde octrooien, op de datum waarop dit Verdrag de desbetreffende Verdragsluitende Partij ingevolge [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=21&z=2010-12-27&g=2010-12-27) bindt.
 
-2. [Procedures] Geen enkele Verdragsluitende Partij is verplicht de bepalingen van dit Verdrag en het Reglement van Uitvoering toe te passen op enige procedure in een rechtszaak ten aanzien van in het eerste lid bedoelde aanvragen en octrooien, indien een dergelijke procedure is aangevangen voor de datum waarop dit Verdrag die Verdragsluitende Partij ingevolge [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=21&z=2000-06-01&g=2000-06-01) bindt.
+2. [Procedures] Geen enkele Verdragsluitende Partij is verplicht de bepalingen van dit Verdrag en het Reglement van Uitvoering toe te passen op enige procedure in een rechtszaak ten aanzien van in het eerste lid bedoelde aanvragen en octrooien, indien een dergelijke procedure is aangevangen voor de datum waarop dit Verdrag die Verdragsluitende Partij ingevolge [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=21&z=2010-12-27&g=2010-12-27) bindt.
 
 ##### Artikel 23. Voorbehouden
 
-1. [Voorbehoud] Een Staat of intergouvernementele organisatie kan door middel van een voorbehoud verklaren dat de bepalingen van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2000-06-01&g=2000-06-01), niet van toepassing zijn op een vereiste dat betrekking heeft op de eenheid van uitvinding en dat, uit hoofde van het [Verdrag tot samenwerking inzake octrooien](https://wetten.overheid.nl/jci1.3:c:BWBV0004680), op een internationale aanvraag van toepassing is.
+1. [Voorbehoud] Een Staat of intergouvernementele organisatie kan door middel van een voorbehoud verklaren dat de bepalingen van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27), niet van toepassing zijn op een vereiste dat betrekking heeft op de eenheid van uitvinding en dat, uit hoofde van het [Verdrag tot samenwerking inzake octrooien](https://wetten.overheid.nl/jci1.3:c:BWBV0004680), op een internationale aanvraag van toepassing is.
 
 2. [Modaliteiten] Elk voorbehoud ingevolge het eerste lid wordt gemaakt in een verklaring bij de akte van bekrachtiging van of toetreding tot dit Verdrag van de Staat of intergouvernementele organisatie die het voorbehoud maakt.
 
@@ -566,13 +566,13 @@ Onverminderd het bepaalde in het derde lid, wordt een dergelijke verklaring afge
 
 - a. Dit Verdrag wordt ondertekend in een enkel exemplaar in de Engelse, de Arabische, de Chinese, de Franse, de Russische en de Spaanse taal, zijnde alle teksten gelijkelijk authentiek, met uitsluiting van elke andere taal.
 
-2. [Officiële teksten] Een officiële tekst in een andere dan de in het eerste lid bedoelde talen wordt vastgesteld door de Directeur-Generaal, na raadpleging van de betrokken partijen. Voor de toepassing van dit lid wordt onder betrokken partij verstaan een Staat die Partij is bij het Verdrag, of in aanmerking komt om Partij te worden bij het Verdrag ingevolge [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=20&z=2000-06-01&g=2000-06-01), van wie de officiële taal of een van de officiële talen in het geding is, en de Europese Octrooiorganisatie, het Euraziatische Octrooibureau en de Regionale Organisatie voor de Industriële Eigendom in Afrika en elke andere intergouvernementele organisatie die Partij is bij het Verdrag, of Partij kan worden bij het Verdrag, indien één van haar officiële talen in het geding is.
+2. [Officiële teksten] Een officiële tekst in een andere dan de in het eerste lid bedoelde talen wordt vastgesteld door de Directeur-Generaal, na raadpleging van de betrokken partijen. Voor de toepassing van dit lid wordt onder betrokken partij verstaan een Staat die Partij is bij het Verdrag, of in aanmerking komt om Partij te worden bij het Verdrag ingevolge [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=20&z=2010-12-27&g=2010-12-27), van wie de officiële taal of een van de officiële talen in het geding is, en de Europese Octrooiorganisatie, het Euraziatische Octrooibureau en de Regionale Organisatie voor de Industriële Eigendom in Afrika en elke andere intergouvernementele organisatie die Partij is bij het Verdrag, of Partij kan worden bij het Verdrag, indien één van haar officiële talen in het geding is.
 
 3. [Doorslaggevend karakter van authentieke teksten] In geval van verschillen van mening met betrekking tot de interpretatie van authentieke en officiële teksten, zijn de authentieke teksten doorslaggevend.
 
 ##### Artikel 26. Ondertekening van het Verdrag
 
-Dit Verdrag blijft gedurende een jaar na de aanneming ervan op de zetel van de Organisatie openstaan ter ondertekening door een Staat die in aanmerking komt om ingevolge [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=20&z=2000-06-01&g=2000-06-01), Partij te worden bij het Verdrag, en door de Europese Octrooiorganisatie, het Euraziatische Octrooibureau en de Regionale Organisatie voor de Industriële Eigendom in Afrika.
+Dit Verdrag blijft gedurende een jaar na de aanneming ervan op de zetel van de Organisatie openstaan ter ondertekening door een Staat die in aanmerking komt om ingevolge [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=20&z=2010-12-27&g=2010-12-27), Partij te worden bij het Verdrag, en door de Europese Octrooiorganisatie, het Euraziatische Octrooibureau en de Regionale Organisatie voor de Industriële Eigendom in Afrika.
 
 ##### Artikel 27. Depositaris; registratie
 
@@ -588,21 +588,21 @@ Dit Verdrag blijft gedurende een jaar na de aanneming ervan op de zetel van de O
 
 - b. In dit Reglement van Uitvoering verwijst het woord „artikel” naar het desbetreffende artikel van het Verdrag.
 
-2. [In het Verdrag omschreven definities] De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=1&z=2000-06-01&g=2000-06-01) voor de toepassing van het Verdrag omschreven definities hebben dezelfde betekenis voor de toepassing van het Reglement van Uitvoering.
+2. [In het Verdrag omschreven definities] De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=1&z=2010-12-27&g=2010-12-27) voor de toepassing van het Verdrag omschreven definities hebben dezelfde betekenis voor de toepassing van het Reglement van Uitvoering.
 
-##### Regel 2. Details met betrekking tot de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2000-06-01&g=2000-06-01) bedoelde datum van indiening
+##### Regel 2. Details met betrekking tot de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2010-12-27&g=2010-12-27) bedoelde datum van indiening
 
-1. [Termijn ingevolge [artikel 5, derde lid en vierde lid, letter b](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2000-06-01&g=2000-06-01)] Onverminderd het tweede lid, bedragen de termijnen bedoeld in artikel 5, derde lid en vierde lid, letter b, niet minder dan twee maanden, te rekenen vanaf de datum van de in artikel 5, derde lid, bedoelde kennisgeving.
+1. [Termijn ingevolge [artikel 5, derde lid en vierde lid, letter b](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2010-12-27&g=2010-12-27)] Onverminderd het tweede lid, bedragen de termijnen bedoeld in artikel 5, derde lid en vierde lid, letter b, niet minder dan twee maanden, te rekenen vanaf de datum van de in artikel 5, derde lid, bedoelde kennisgeving.
 
-2. [Uitzondering op de termijn ingevolge [artikel 5, vierde lid, letter b](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2000-06-01&g=2000-06-01)] Wanneer geen kennisgeving ingevolge artikel 5, derde lid, is gedaan omdat geen gegevens zijn ingediend die het bureau in staat stellen met de aanvrager in contact te treden, bedraagt de in artikel 5, vierde lid, letter b, bedoelde termijn ten minste twee maanden, te rekenen vanaf de datum waarop een of meerdere in artikel 5, eerste lid, letter a, bedoelde onderdelen voor het eerst door het bureau zijn ontvangen.
+2. [Uitzondering op de termijn ingevolge [artikel 5, vierde lid, letter b](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2010-12-27&g=2010-12-27)] Wanneer geen kennisgeving ingevolge artikel 5, derde lid, is gedaan omdat geen gegevens zijn ingediend die het bureau in staat stellen met de aanvrager in contact te treden, bedraagt de in artikel 5, vierde lid, letter b, bedoelde termijn ten minste twee maanden, te rekenen vanaf de datum waarop een of meerdere in artikel 5, eerste lid, letter a, bedoelde onderdelen voor het eerst door het bureau zijn ontvangen.
 
-3. [Termijnen ingevolge [artikel 5, zesde lid, letters a en b](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2000-06-01&g=2000-06-01)] De in artikel 5, zesde lid, letters a en b bedoelde termijnen bedragen:
+3. [Termijnen ingevolge [artikel 5, zesde lid, letters a en b](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2010-12-27&g=2010-12-27)] De in artikel 5, zesde lid, letters a en b bedoelde termijnen bedragen:
 
-- i. wanneer een kennisgeving ingevolge [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2000-06-01&g=2000-06-01), is gedaan, ten minste twee maanden, te rekenen vanaf de datum van kennisgeving;
+- i. wanneer een kennisgeving ingevolge [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2010-12-27&g=2010-12-27), is gedaan, ten minste twee maanden, te rekenen vanaf de datum van kennisgeving;
 
-- ii. wanneer geen kennisgeving is gedaan, ten minste twee maanden, te rekenen vanaf de datum waarop een of meerdere in [artikel 5, eerste lid, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2000-06-01&g=2000-06-01), bedoelde onderdelen voor het eerst door het bureau zijn ontvangen.
+- ii. wanneer geen kennisgeving is gedaan, ten minste twee maanden, te rekenen vanaf de datum waarop een of meerdere in [artikel 5, eerste lid, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2010-12-27&g=2010-12-27), bedoelde onderdelen voor het eerst door het bureau zijn ontvangen.
 
-4. [Vereisten ingevolge [artikel 5, zesde lid, letter b](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2000-06-01&g=2000-06-01)] Onverminderd Regel 4, punt 3, kan elke Verdragsluitende Partij verlangen dat, ten behoeve van de vaststelling van de datum van indiening ingevolge artikel 5, zesde lid, letter b:
+4. [Vereisten ingevolge [artikel 5, zesde lid, letter b](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2010-12-27&g=2010-12-27)] Onverminderd Regel 4, punt 3, kan elke Verdragsluitende Partij verlangen dat, ten behoeve van de vaststelling van de datum van indiening ingevolge artikel 5, zesde lid, letter b:
 
 - i. een afschrift van een eerdere aanvraag wordt ingediend binnen de ingevolge punt 3 toepasselijke termijn;
 
@@ -612,23 +612,23 @@ Dit Verdrag blijft gedurende een jaar na de aanneming ervan op de zetel van de O
 
 - iv. het ontbrekende gedeelte van de beschrijving of de ontbrekende tekening volledig in de eerdere aanvraag is opgenomen;
 
-- v. de aanvraag, op de datum waarop een of meerdere in [artikel 5, eerste lid, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2000-06-01&g=2000-06-01), bedoelde onderdelen voor het eerst door het bureau werden ontvangen, een aanduiding bevatte dat de inhoud van de eerdere aanvraag door middel van een verwijzing hierin was opgenomen;
+- v. de aanvraag, op de datum waarop een of meerdere in [artikel 5, eerste lid, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2010-12-27&g=2010-12-27), bedoelde onderdelen voor het eerst door het bureau werden ontvangen, een aanduiding bevatte dat de inhoud van de eerdere aanvraag door middel van een verwijzing hierin was opgenomen;
 
 - vi. een aanduiding wordt ingediend, binnen de ingevolge punt 3 geldende termijn, van de plaats waar, in de onder iii bedoelde eerdere aanvraag of vertaling, het ontbrekende gedeelte van de beschrijving of de ontbrekende tekening is opgenomen.
 
-5. [Vereisten ingevolge [artikel 5, zevende lid, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2000-06-01&g=2000-06-01)]
+5. [Vereisten ingevolge [artikel 5, zevende lid, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2010-12-27&g=2010-12-27)]
 
-- a. In de in [artikel 5, zevende lid, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2000-06-01&g=2000-06-01), bedoelde verwijzing naar de eerder ingediende aanvraag wordt vermeld dat, ten behoeve van de datum van indiening, de beschrijving en de tekeningen worden vervangen door de verwijzing naar de eerder ingediende aanvraag; in de verwijzing wordt eveneens het nummer van die aanvraag vermeld, alsmede het bureau waarbij de aanvraag is ingediend. Een Verdragsluitende Partij kan verlangen dat in de verwijzing tevens de datum van indiening van de eerder ingediende aanvraag wordt vermeld.
+- a. In de in [artikel 5, zevende lid, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2010-12-27&g=2010-12-27), bedoelde verwijzing naar de eerder ingediende aanvraag wordt vermeld dat, ten behoeve van de datum van indiening, de beschrijving en de tekeningen worden vervangen door de verwijzing naar de eerder ingediende aanvraag; in de verwijzing wordt eveneens het nummer van die aanvraag vermeld, alsmede het bureau waarbij de aanvraag is ingediend. Een Verdragsluitende Partij kan verlangen dat in de verwijzing tevens de datum van indiening van de eerder ingediende aanvraag wordt vermeld.
 
 - b. Onverminderd Regel 4, punt 3, kan een Verdragsluitende Partij verlangen dat:
 
-- i. een afschrift van de eerder ingediende aanvraag en, wanneer de eerder ingediende aanvraag niet is gesteld in een door het bureau aanvaarde taal, een vertaling van die eerder ingediende aanvraag, bij het bureau wordt ingediend binnen een termijn die ten minste twee maanden bedraagt, te rekenen vanaf de datum waarop de aanvraag met daarin de in [artikel 5, zevende lid, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2000-06-01&g=2000-06-01), bedoelde verwijzing door het bureau is ontvangen;
+- i. een afschrift van de eerder ingediende aanvraag en, wanneer de eerder ingediende aanvraag niet is gesteld in een door het bureau aanvaarde taal, een vertaling van die eerder ingediende aanvraag, bij het bureau wordt ingediend binnen een termijn die ten minste twee maanden bedraagt, te rekenen vanaf de datum waarop de aanvraag met daarin de in [artikel 5, zevende lid, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2010-12-27&g=2010-12-27), bedoelde verwijzing door het bureau is ontvangen;
 
-- ii. een gewaarmerkt afschrift van de eerder ingediende aanvraag bij het bureau wordt ingediend binnen een termijn die ten minste vier maanden bedraagt, te rekenen vanaf de datum van ontvangst van de aanvraag met daarin de in [artikel 5, zevende lid, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2000-06-01&g=2000-06-01), bedoelde verwijzing.
+- ii. een gewaarmerkt afschrift van de eerder ingediende aanvraag bij het bureau wordt ingediend binnen een termijn die ten minste vier maanden bedraagt, te rekenen vanaf de datum van ontvangst van de aanvraag met daarin de in [artikel 5, zevende lid, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2010-12-27&g=2010-12-27), bedoelde verwijzing.
 
-- c. Een Verdragsluitende Partij kan verlangen dat de in [artikel 5, zevende lid, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2000-06-01&g=2000-06-01), bedoelde verwijzing een eerder ingediende aanvraag vermeldt die door de aanvrager, diens rechtsvoorganger of diens rechtsopvolger is ingediend.
+- c. Een Verdragsluitende Partij kan verlangen dat de in [artikel 5, zevende lid, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2010-12-27&g=2010-12-27), bedoelde verwijzing een eerder ingediende aanvraag vermeldt die door de aanvrager, diens rechtsvoorganger of diens rechtsopvolger is ingediend.
 
-6. [Uitzonderingen ingevolge [artikel 5, achtste lid, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2000-06-01&g=2000-06-01)] De in artikel 5, achtste lid, onder ii, bedoelde typen aanvragen zijn:
+6. [Uitzonderingen ingevolge [artikel 5, achtste lid, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2010-12-27&g=2010-12-27)] De in artikel 5, achtste lid, onder ii, bedoelde typen aanvragen zijn:
 
 - i. afgesplitste aanvragen;
 
@@ -636,9 +636,9 @@ Dit Verdrag blijft gedurende een jaar na de aanneming ervan op de zetel van de O
 
 - iii. aanvragen door nieuwe aanvragers ten aanzien van wie het recht op een uitvinding die het voorwerp vormde van een eerdere aanvraag, is erkend.
 
-##### Regel 3. Details betreffende de toepassing ingevolge [artikel 6, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2000-06-01&g=2000-06-01)
+##### Regel 3. Details betreffende de toepassing ingevolge [artikel 6, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27)
 
-1. [Verdere vereisten ingevolge [artikel 6, eerste lid, onder iii](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2000-06-01&g=2000-06-01)]
+1. [Verdere vereisten ingevolge [artikel 6, eerste lid, onder iii](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27)]
 
 - a. Een Verdragsluitende Partij kan verlangen dat een aanvraagr die wenst dat een aanvraag wordt behandeld als een afgesplitste aanvraag ingevolge Regel 2, punt 6, onder i, vermeldt:
 
@@ -652,7 +652,7 @@ Dit Verdrag blijft gedurende een jaar na de aanneming ervan op de zetel van de O
 
 - ii. het nummer en de datum van indiening van de eerdere aanvraag.
 
-2. [Aanvraagformulier ingevolge [artikel 6, tweede lid, letter b](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2000-06-01&g=2000-06-01)] Een Verdragsluitende Partij aanvaardt de presentatie van de in artikel 6, tweede lid, letter a, bedoelde inhoud:
+2. [Aanvraagformulier ingevolge [artikel 6, tweede lid, letter b](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27)] Een Verdragsluitende Partij aanvaardt de presentatie van de in artikel 6, tweede lid, letter a, bedoelde inhoud:
 
 - i. op een aanvraagformulier, indien dat formulier overeenkomt met het aanvraagformulier van het [Verdrag tot samenwerking inzake octrooien](https://wetten.overheid.nl/jci1.3:c:BWBV0004680), met eventuele wijzigingen ingevolge Regel 20, punt 2.
 
@@ -660,11 +660,11 @@ Dit Verdrag blijft gedurende een jaar na de aanneming ervan op de zetel van de O
 
 - iii. op een aanvraagformulier van het [Verdrag tot samenwerking inzake octrooien](https://wetten.overheid.nl/jci1.3:c:BWBV0004680) met een aanduiding dat de aanvrager wenst dat de aanvraag wordt behandeld als een nationale of regionale aanvraag, indien een dergelijk formulier ingevolge het Verdrag tot samenwerking inzake octrooien beschikbaar is.
 
-3. [Vereisten ingevolge [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2000-06-01&g=2000-06-01)] Een Verdragsluitende Partij kan, ingevolge artikel 6, derde lid, een vertaling verlangen van de titel, de vorderingen en het uittreksel van een aanvraag gesteld in een door het bureau aanvaarde taal, naar andere door dat bureau aanvaarde talen.
+3. [Vereisten ingevolge [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27)] Een Verdragsluitende Partij kan, ingevolge artikel 6, derde lid, een vertaling verlangen van de titel, de vorderingen en het uittreksel van een aanvraag gesteld in een door het bureau aanvaarde taal, naar andere door dat bureau aanvaarde talen.
 
-##### Regel 4. Beschikbaarheid van een eerdere aanvraag ingevolge [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2000-06-01&g=2000-06-01), en regel 2, punt 4, of van een eerder ingediende aanvraag ingevolge Regel 2, punt 5, letter b
+##### Regel 4. Beschikbaarheid van een eerdere aanvraag ingevolge [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27), en regel 2, punt 4, of van een eerder ingediende aanvraag ingevolge Regel 2, punt 5, letter b
 
-1. [Afschrift van een eerdere aanvraag ingevolge [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2000-06-01&g=2000-06-01)] Onverminderd het derde lid, kan een Verdragsluitende Partij verlangen dat een afschrift van de eerdere in artikel 6, vijfde lid, bedoelde aanvraag bij het bureau wordt ingediend binnen een termijn die ten minste 16 maanden bedraagt, te rekenen vanaf de datum van die eerdere aanvraag of, wanneer sprake is van meer dan één dergelijke eerdere aanvraag, te rekenen vanaf de eerste datum van indiening van die eerdere aanvragen.
+1. [Afschrift van een eerdere aanvraag ingevolge [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27)] Onverminderd het derde lid, kan een Verdragsluitende Partij verlangen dat een afschrift van de eerdere in artikel 6, vijfde lid, bedoelde aanvraag bij het bureau wordt ingediend binnen een termijn die ten minste 16 maanden bedraagt, te rekenen vanaf de datum van die eerdere aanvraag of, wanneer sprake is van meer dan één dergelijke eerdere aanvraag, te rekenen vanaf de eerste datum van indiening van die eerdere aanvragen.
 
 2. [Waarmerking] Onverminderd punt 3, kan een Verdragsluitende Partij verlangen dat het in punt 1 bedoelde afschrift en de datum van indiening van de eerdere aanvraag als juist worden gewaarmerkt door het bureau waarbij de eerdere aanvraag is ingediend.
 
@@ -672,33 +672,33 @@ Dit Verdrag blijft gedurende een jaar na de aanneming ervan op de zetel van de O
 
 4. [Vertaling] Wanneer de eerdere aanvraag niet is gesteld in een door het bureau aanvaarde taal en de geldigheid van het beroep op voorrang relevant is voor de vaststelling of octrooi kan worden verleend voor de betrokken uitvinding, kan de Verdragsluitende Partij van de aanvrager verlangen dat, op verzoek van het bureau of van de bevoegde autoriteit, een vertaling van de in punt 1 bedoelde eerdere aanvraag wordt ingediend door de aanvraagr binnen een termijn van ten minste twee maanden, te rekenen vanaf de datum van dat verzoek, en ten minste binnen de termijn die ingevolge dat punt mogelijk van toepassing is.
 
-##### Regel 5. Bewijs ingevolge [artikel 6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2000-06-01&g=2000-06-01), en [artikel 8, vierde lid, letter c](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2000-06-01&g=2000-06-01), en Regel 7, punt 4, Regel 15, punt 4, Regel 16, punt 6, Regel 17, punt 6, en Regel 18, punt 4
+##### Regel 5. Bewijs ingevolge [artikel 6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27), en [artikel 8, vierde lid, letter c](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2010-12-27&g=2010-12-27), en Regel 7, punt 4, Regel 15, punt 4, Regel 16, punt 6, Regel 17, punt 6, en Regel 18, punt 4
 
-Wanneer het bureau de aanvrager, eigenaar of andere persoon ervan kennis geeft dat ingevolge [artikel 6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2000-06-01&g=2000-06-01), of [artikel 8, vierde lid, letter c](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2000-06-01&g=2000-06-01), of Regel 7, punt 4, Regel 15, punt 4, Regel 16, punt 6, Regel 17, punt 6, of Regel 18, punt 4, bewijs vereist is, wordt in de kennisgeving de reden vermeld waarom het bureau twijfelt aan de waarheid van de aangelegenheid, de aanduiding of de handtekening, of de juistheid van de vertaling, naar gelang hetgeen het geval is.
+Wanneer het bureau de aanvrager, eigenaar of andere persoon ervan kennis geeft dat ingevolge [artikel 6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27), of [artikel 8, vierde lid, letter c](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2010-12-27&g=2010-12-27), of Regel 7, punt 4, Regel 15, punt 4, Regel 16, punt 6, Regel 17, punt 6, of Regel 18, punt 4, bewijs vereist is, wordt in de kennisgeving de reden vermeld waarom het bureau twijfelt aan de waarheid van de aangelegenheid, de aanduiding of de handtekening, of de juistheid van de vertaling, naar gelang hetgeen het geval is.
 
-##### Regel 6. Termijnen betreffende de aanvraag ingevolge [artikel 6, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2000-06-01&g=2000-06-01)
+##### Regel 6. Termijnen betreffende de aanvraag ingevolge [artikel 6, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27)
 
-1. [Termijnen ingevolge [artikel 6, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2000-06-01&g=2000-06-01)] Onverminderd punten 2 en 3, bedragen de in artikel 6, zevende en achtste lid bedoelde termijnen ten minste twee maanden, te rekenen vanaf de datum van de in artikel 6, zevende lid, bedoelde kennisgeving.
+1. [Termijnen ingevolge [artikel 6, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27)] Onverminderd punten 2 en 3, bedragen de in artikel 6, zevende en achtste lid bedoelde termijnen ten minste twee maanden, te rekenen vanaf de datum van de in artikel 6, zevende lid, bedoelde kennisgeving.
 
-2. [Uitzondering op de termijn ingevolge [artikel 6, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2000-06-01&g=2000-06-01)] Onverminderd punt 3 bedraagt de in artikel 6, achtste lid bedoelde termijn, wanneer een kennisgeving ingevolge artikel 6, zevende lid, niet is gedaan omdat geen gegevens zijn ingediend die het bureau in staat stellen in contact te treden met de aanvrager, ten minste drie maanden, te rekenen vanaf de datum waarop een of meerdere van de in [artikel 5, eerste lid, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2000-06-01&g=2000-06-01), bedoelde onderdelen voor het eerst door het bureau zijn ontvangen.
+2. [Uitzondering op de termijn ingevolge [artikel 6, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27)] Onverminderd punt 3 bedraagt de in artikel 6, achtste lid bedoelde termijn, wanneer een kennisgeving ingevolge artikel 6, zevende lid, niet is gedaan omdat geen gegevens zijn ingediend die het bureau in staat stellen in contact te treden met de aanvrager, ten minste drie maanden, te rekenen vanaf de datum waarop een of meerdere van de in [artikel 5, eerste lid, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2010-12-27&g=2010-12-27), bedoelde onderdelen voor het eerst door het bureau zijn ontvangen.
 
-3. [Termijnen ingevolge [artikel 6, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2000-06-01&g=2000-06-01), betreffende de betaling van aanvraagtaks in overeenstemming met het [Verdrag tot samenwerking inzake octrooien](https://wetten.overheid.nl/jci1.3:c:BWBV0004680)] Wanneer ingevolge artikel 6, vierde lid, te betalen taksen ten aanzien van de indiening van de aanvraag niet worden betaald, kan een Verdragsluitende Partij, ingevolge artikel 6, zevende en achtste lid, termijnen voor betaling vaststellen, ook voor late betaling, die hetzelfde zijn als die welke van toepassing zijn ingevolge het [Verdrag tot samenwerking inzake octrooien](https://wetten.overheid.nl/jci1.3:c:BWBV0004680) met betrekking tot de basistaks-component van de internationale taks.
+3. [Termijnen ingevolge [artikel 6, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27), betreffende de betaling van aanvraagtaks in overeenstemming met het [Verdrag tot samenwerking inzake octrooien](https://wetten.overheid.nl/jci1.3:c:BWBV0004680)] Wanneer ingevolge artikel 6, vierde lid, te betalen taksen ten aanzien van de indiening van de aanvraag niet worden betaald, kan een Verdragsluitende Partij, ingevolge artikel 6, zevende en achtste lid, termijnen voor betaling vaststellen, ook voor late betaling, die hetzelfde zijn als die welke van toepassing zijn ingevolge het [Verdrag tot samenwerking inzake octrooien](https://wetten.overheid.nl/jci1.3:c:BWBV0004680) met betrekking tot de basistaks-component van de internationale taks.
 
-##### Regel 7. Details inzake machtiging ingevolge [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=7&z=2000-06-01&g=2000-06-01)
+##### Regel 7. Details inzake machtiging ingevolge [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=7&z=2010-12-27&g=2010-12-27)
 
-1. [Andere procedures ingevolge [artikel 7, tweede lid, letter a, onder iii](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=7&z=2000-06-01&g=2000-06-01)] De in artikel 7, tweede lid, letter a, iii, bedoelde andere procedures waarvoor een Verdragsluitende Partij niet de benoeming van een gemachtigde kan verlangen, zijn:
+1. [Andere procedures ingevolge [artikel 7, tweede lid, letter a, onder iii](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=7&z=2010-12-27&g=2010-12-27)] De in artikel 7, tweede lid, letter a, iii, bedoelde andere procedures waarvoor een Verdragsluitende Partij niet de benoeming van een gemachtigde kan verlangen, zijn:
 
 - i. de indiening van een afschrift van een eerdere aanvraag ingevolge Regel 2, punt 4;
 
 - ii. de indiening van een afschrift van een eerder ingediende aanvraag ingevolge Regel 2, punt 5, letter b.
 
-2. [Benoeming van een gemachtigde ingevolge [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=7&z=2000-06-01&g=2000-06-01)]
+2. [Benoeming van een gemachtigde ingevolge [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=7&z=2010-12-27&g=2010-12-27)]
 
 - a. Een Verdragsluitende Partij aanvaardt dat de benoeming van een gemachtigde aan het bureau wordt medegedeeld in:
 
 - i. een aparte mededeling (hierna te noemen een „volmacht”), ondertekend door de aanvrager, eigenaar of andere belanghebbende en waarin de naam en het adres van de vertegenwoordiger zijn vermeld; of, ter keuze van de aanvrager,
 
-- ii. het in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2000-06-01&g=2000-06-01), bedoelde aanvraagformulier, dat door de aanvrager wordt ondertekend.
+- ii. het in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27), bedoelde aanvraagformulier, dat door de aanvrager wordt ondertekend.
 
 - b. Een enkele volmacht volstaat, zelfs wanneer deze betrekking heeft op meer dan een aanvraag of octrooi van dezelfde persoon, of één of meer aanvragen en één of meer octrooien van dezelfde persoon, mits alle betrokken aanvragen en octrooien in de enkele volmacht zijn vermeld. Een enkele volmacht volstaat eveneens, zelfs wanneer deze, onder voorbehoud van de door de benoemde persoon aangegeven uitzonderingen, betrekking heeft op alle bestaande en toekomstige aanvragen of octrooien van die persoon. Het bureau kan verlangen dat, wanneer deze enkele volmacht op papier of op een andere door het bureau toegestane wijze is ingediend, hiervan een apart afschrift wordt ingediend voor elke aanvraag en elk octrooi waarop de volmacht betrekking heeft.
 
@@ -706,17 +706,17 @@ Wanneer het bureau de aanvrager, eigenaar of andere persoon ervan kennis geeft d
 
 4. [Bewijs] Een Verdragsluitende Partij kan alleen verlangen dat bij het bureau bewijs wordt ingediend wanneer het bureau redelijke grond voor twijfel heeft omtrent de waarheid van een aanduiding in één van de mededelingen zoals bedoeld in punt 2, letter a.
 
-5. [Termijnen ingevolge [artikel 7, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=7&z=2000-06-01&g=2000-06-01)] Onverminderd punt 6 bedragen de in artikel 7, vijfde en zesde lid, bedoelde termijnen ten minste twee maanden, te rekenen vanaf de datum van de in artikel 7, vijfde lid, bedoelde kennisgeving.
+5. [Termijnen ingevolge [artikel 7, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=7&z=2010-12-27&g=2010-12-27)] Onverminderd punt 6 bedragen de in artikel 7, vijfde en zesde lid, bedoelde termijnen ten minste twee maanden, te rekenen vanaf de datum van de in artikel 7, vijfde lid, bedoelde kennisgeving.
 
-6. [Uitzondering op de in [artikel 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=7&z=2000-06-01&g=2000-06-01), bedoelde termijn] Wanneer een in artikel 7, vijfde lid, bedoelde kennisgeving niet is gedaan omdat gegevens die het bureau in staat stellen in contact te treden met de aanvrager, de eigenaar of een andere belanghebbende niet zijn ingediend, bedraagt de in artikel 7, zesde lid, bedoelde termijn ten minste drie maanden, te rekenen vanaf de datum van aanvang van de in artikel 7, vijfde lid, bedoelde procedure.
+6. [Uitzondering op de in [artikel 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=7&z=2010-12-27&g=2010-12-27), bedoelde termijn] Wanneer een in artikel 7, vijfde lid, bedoelde kennisgeving niet is gedaan omdat gegevens die het bureau in staat stellen in contact te treden met de aanvrager, de eigenaar of een andere belanghebbende niet zijn ingediend, bedraagt de in artikel 7, zesde lid, bedoelde termijn ten minste drie maanden, te rekenen vanaf de datum van aanvang van de in artikel 7, vijfde lid, bedoelde procedure.
 
-##### Regel 8. Indiening van mededelingen ingevolge [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2000-06-01&g=2000-06-01)
+##### Regel 8. Indiening van mededelingen ingevolge [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2010-12-27&g=2010-12-27)
 
 1. [Op papier ingediende mededelingen]
 
-- a. Onverminderd de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2000-06-01&g=2000-06-01), en [8, eerste lid, letter d](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2000-06-01&g=2000-06-01), kan een Verdragsluitende Partij na 2 juni 2005 de indiening van mededelingen op papier uitsluiten of kan zij de indiening van mededelingen op papier blijven toestaan. Tot die datum staan alle Verdragsluitende Partijen de indiening van mededelingen op papier toe.
+- a. Onverminderd de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2010-12-27&g=2010-12-27), en [8, eerste lid, letter d](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2010-12-27&g=2010-12-27), kan een Verdragsluitende Partij na 2 juni 2005 de indiening van mededelingen op papier uitsluiten of kan zij de indiening van mededelingen op papier blijven toestaan. Tot die datum staan alle Verdragsluitende Partijen de indiening van mededelingen op papier toe.
 
-- b. Onverminderd [artikel 8, derde lid en letter c](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2000-06-01&g=2000-06-01), kan een Verdragsluitende Partij vereisten voorschrijven met betrekking tot de vorm van mededelingen op papier.
+- b. Onverminderd [artikel 8, derde lid en letter c](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2010-12-27&g=2010-12-27), kan een Verdragsluitende Partij vereisten voorschrijven met betrekking tot de vorm van mededelingen op papier.
 
 - c. Wanneer een Verdragsluitende Partij indiening van mededelingen op papier toestaat, staat het bureau de indiening van mededelingen op papier toe in overeenstemming met de vereisten ingevolge het [Verdrag tot samenwerking inzake octrooien](https://wetten.overheid.nl/jci1.3:c:BWBV0004680) met betrekking tot de vorm van mededelingen op papier.
 
@@ -726,7 +726,7 @@ Wanneer het bureau de aanvrager, eigenaar of andere persoon ervan kennis geeft d
 
 - a. Wanneer een Verdragsluitende Partij de indiening van mededelingen bij haar bureau in een bepaalde taal in elektronische vorm of door middel van elektronische media toestaat, met inbegrip van de indiening van mededelingen via telegraaf, telex, fax of een soortgelijk medium, en vereisten op die Verdragsluitende Partij van toepassing zijn ingevolge het [Verdrag tot samenwerking inzake octrooien](https://wetten.overheid.nl/jci1.3:c:BWBV0004680) met betrekking tot in elektronische vorm of door middel van elektronische media in die taal ingediende mededelingen, staat het bureau de indiening van de mededelingen in elektronische vorm of door middel van elektronische media in de genoemde taal toe, in overeenstemming met die vereisten.
 
-- b. Een Verdragsluitende Partij die indiening van mededelingen bij haar bureau in elektronische vorm of door middel van elektronische media toestaat, geeft het Internationaal Bureau kennis van de vereisten uit hoofde van haar toepasselijke wetgeving met betrekking tot een dergelijke indiening. Dergelijke kennisgevingen worden door het Internationaal Bureau openbaar gemaakt in de taal waarin zij zijn gesteld en in de talen waarin de authentieke en officiële verdragsteksten ingevolge [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=25&z=2000-06-01&g=2000-06-01) zijn gesteld.
+- b. Een Verdragsluitende Partij die indiening van mededelingen bij haar bureau in elektronische vorm of door middel van elektronische media toestaat, geeft het Internationaal Bureau kennis van de vereisten uit hoofde van haar toepasselijke wetgeving met betrekking tot een dergelijke indiening. Dergelijke kennisgevingen worden door het Internationaal Bureau openbaar gemaakt in de taal waarin zij zijn gesteld en in de talen waarin de authentieke en officiële verdragsteksten ingevolge [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=25&z=2010-12-27&g=2010-12-27) zijn gesteld.
 
 - c. Wanneer een Verdragsluitende Partij, ingevolge letter a, indiening van mededelingen via telegraaf, telex, fax of een soortgelijk medium toestaat, kan zij verlangen dat het origineel van een document dat door middel van dergelijke media is verzonden, vergezeld van een brief waarin die eerdere verzending wordt vermeld, op papier bij het bureau wordt ingediend binnen een termijn van ten minste een maand, te rekenen vanaf de datum van de verzending.
 
@@ -736,7 +736,7 @@ Wanneer het bureau de aanvrager, eigenaar of andere persoon ervan kennis geeft d
 
 - b. Punt 2, letter b, is, mutatis mutandis, van toepassing op afschriften, in elektronische vorm of door middel van elektronische media, van op papier ingediende mededelingen.
 
-##### Regel 9. Details betreffende de handtekening ingevolge [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2000-06-01&g=2000-06-01)
+##### Regel 9. Details betreffende de handtekening ingevolge [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2010-12-27&g=2010-12-27)
 
 1. [Vermeldingen die de handtekening vergezellen] Een Verdragsluitende Partij kan verlangen dat de handtekening van een natuurlijke persoon die ondertekent, vergezeld gaat van:
 
@@ -764,11 +764,11 @@ Wanneer het bureau de aanvrager, eigenaar of andere persoon ervan kennis geeft d
 
 - c. Regel 8, punt 2, letter b, is mutatis mutandis van toepassing.
 
-6. [Uitzondering op de waarmerking van de handtekening ingevolge [artikel 8, vierde lid, letter b](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2000-06-01&g=2000-06-01)] Een Verdragsluitende Partij kan verlangen dat handtekeningen bedoeld in punt 5 worden bevestigd door middel van een door die Verdragsluitende Partij aangegeven procedure voor de waarmerking van handtekeningen in elektronische vorm.
+6. [Uitzondering op de waarmerking van de handtekening ingevolge [artikel 8, vierde lid, letter b](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2010-12-27&g=2010-12-27)] Een Verdragsluitende Partij kan verlangen dat handtekeningen bedoeld in punt 5 worden bevestigd door middel van een door die Verdragsluitende Partij aangegeven procedure voor de waarmerking van handtekeningen in elektronische vorm.
 
-##### Regel 10. Details betreffende vermeldingen ingevolge [artikel 8, vijfde, zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2000-06-01&g=2000-06-01)
+##### Regel 10. Details betreffende vermeldingen ingevolge [artikel 8, vijfde, zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2010-12-27&g=2010-12-27)
 
-1. [Vermeldingen ingevolge [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2000-06-01&g=2000-06-01)]
+1. [Vermeldingen ingevolge [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2010-12-27&g=2010-12-27)]
 
 - a. Een Verdragsluitende Partij kan verlangen dat in een mededeling wordt vermeld:
 
@@ -786,25 +786,25 @@ Wanneer het bureau de aanvrager, eigenaar of andere persoon ervan kennis geeft d
 
 - iii. wanneer de gemachtigde bij het bureau geregistreerd is, het nummer of een andere aanduiding waaronder hij is geregistreerd.
 
-2. [Correspondentieadres en gekozen woonplaats] Een Verdragsluitende Partij kan verlangen dat het correspondentieadres bedoeld in [artikel 8, zesde lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2000-06-01&g=2000-06-01), en de gekozen woonplaats bedoeld in artikel 8, zesde lid, onder ii, zijn gelegen op een door die Verdragsluitende Partij voorgeschreven grondgebied.
+2. [Correspondentieadres en gekozen woonplaats] Een Verdragsluitende Partij kan verlangen dat het correspondentieadres bedoeld in [artikel 8, zesde lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2010-12-27&g=2010-12-27), en de gekozen woonplaats bedoeld in artikel 8, zesde lid, onder ii, zijn gelegen op een door die Verdragsluitende Partij voorgeschreven grondgebied.
 
-3. [Adres ingeval geen gemachtigde is gesteld] Wanneer geen gemachtigde is gesteld en een aanvrager, eigenaar of andere belanghebbende als zijn adres een adres op een ingevolge punt 2 door de Verdragsluitende Partij voorgeschreven grondgebied heeft opgegeven, beschouwt die Verdragsluitende Partij dat adres als het in [artikel 8, zesde lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2000-06-01&g=2000-06-01), bedoelde correspondentieadres of als de in artikel 8, zesde lid, onder ii, bedoelde gekozen woonplaats, zoals verlangd door de Verdragsluitende Partij, tenzij die aanvrager, eigenaar of andere belanghebbende ingevolge artikel 8, zesde lid, uitdrukkelijk een ander adres vermeldt.
+3. [Adres ingeval geen gemachtigde is gesteld] Wanneer geen gemachtigde is gesteld en een aanvrager, eigenaar of andere belanghebbende als zijn adres een adres op een ingevolge punt 2 door de Verdragsluitende Partij voorgeschreven grondgebied heeft opgegeven, beschouwt die Verdragsluitende Partij dat adres als het in [artikel 8, zesde lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2010-12-27&g=2010-12-27), bedoelde correspondentieadres of als de in artikel 8, zesde lid, onder ii, bedoelde gekozen woonplaats, zoals verlangd door de Verdragsluitende Partij, tenzij die aanvrager, eigenaar of andere belanghebbende ingevolge artikel 8, zesde lid, uitdrukkelijk een ander adres vermeldt.
 
-4. [Adres ingeval een gemachtigde is gesteld] Wanneer een gemachtigde is gesteld, beschouwt de Verdragsluitende Partij het adres van die gemachtigde als het in [artikel 8, zesde lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2000-06-01&g=2000-06-01), bedoelde correspondentieadres of als de in artikel 8, zesde lid, onder ii, bedoelde gekozen woonplaats, zoals verlangd door de Verdragsluitende Partij, tenzij die aanvrager, eigenaar of andere belanghebbende ingevolge artikel 8, zesde lid, uitdrukkelijk een ander adres vermeldt.
+4. [Adres ingeval een gemachtigde is gesteld] Wanneer een gemachtigde is gesteld, beschouwt de Verdragsluitende Partij het adres van die gemachtigde als het in [artikel 8, zesde lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2010-12-27&g=2010-12-27), bedoelde correspondentieadres of als de in artikel 8, zesde lid, onder ii, bedoelde gekozen woonplaats, zoals verlangd door de Verdragsluitende Partij, tenzij die aanvrager, eigenaar of andere belanghebbende ingevolge artikel 8, zesde lid, uitdrukkelijk een ander adres vermeldt.
 
-5. [Sancties in verband met niet-naleving van de vereisten ingevolge [artikel 8, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2000-06-01&g=2000-06-01)] Geen enkele Verdragsluitende Partij kan een aanvraag weigeren omdat niet is voldaan aan een vereiste met betrekking tot het opgeven van een registratienummer of andere aanduiding ingevolge punt 1, a, onder iii, en letter b, onder iii.
+5. [Sancties in verband met niet-naleving van de vereisten ingevolge [artikel 8, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2010-12-27&g=2010-12-27)] Geen enkele Verdragsluitende Partij kan een aanvraag weigeren omdat niet is voldaan aan een vereiste met betrekking tot het opgeven van een registratienummer of andere aanduiding ingevolge punt 1, a, onder iii, en letter b, onder iii.
 
-##### Regel 11. Termijnen betreffende mededelingen ingevolge [artikel 8, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2000-06-01&g=2000-06-01)
+##### Regel 11. Termijnen betreffende mededelingen ingevolge [artikel 8, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2010-12-27&g=2010-12-27)
 
-1. [Termijnen ingevolge [artikel 8, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2000-06-01&g=2000-06-01)] Onverminderd punt 2, bedragen de in artikel 8, zevende en achtste lid, bedoelde termijnen ten minste twee maanden, te rekenen vanaf de datum van de in artikel 8, zevende lid, bedoelde kennisgeving.
+1. [Termijnen ingevolge [artikel 8, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2010-12-27&g=2010-12-27)] Onverminderd punt 2, bedragen de in artikel 8, zevende en achtste lid, bedoelde termijnen ten minste twee maanden, te rekenen vanaf de datum van de in artikel 8, zevende lid, bedoelde kennisgeving.
 
-2. [Uitzondering op de termijn ingevolge [artikel 8, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2000-06-01&g=2000-06-01)] Wanneer een kennisgeving ingevolge artikel 8, zevende lid, niet is gedaan omdat aanwijzingen die het bureau in staat stellen in contact te treden met de aanvrager, eigenaar of andere belanghebbende niet zijn verschaft, bedraagt de in artikel 8, achtste lid, bedoelde termijn ten minste drie maanden, te rekenen vanaf de datum waarop de in artikel 8, zevende lid, bedoelde mededeling door het bureau is ontvangen.
+2. [Uitzondering op de termijn ingevolge [artikel 8, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2010-12-27&g=2010-12-27)] Wanneer een kennisgeving ingevolge artikel 8, zevende lid, niet is gedaan omdat aanwijzingen die het bureau in staat stellen in contact te treden met de aanvrager, eigenaar of andere belanghebbende niet zijn verschaft, bedraagt de in artikel 8, achtste lid, bedoelde termijn ten minste drie maanden, te rekenen vanaf de datum waarop de in artikel 8, zevende lid, bedoelde mededeling door het bureau is ontvangen.
 
-##### Regel 12. Details betreffende uitstel ten aanzien van termijnen ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=11&z=2000-06-01&g=2000-06-01)
+##### Regel 12. Details betreffende uitstel ten aanzien van termijnen ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=11&z=2010-12-27&g=2010-12-27)
 
-1. [Vereisten ingevolge [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=11&z=2000-06-01&g=2000-06-01)]
+1. [Vereisten ingevolge [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=11&z=2010-12-27&g=2010-12-27)]
 
-- a. Een Verdragsluitende Partij kan verlangen dat een in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=11&z=2000-06-01&g=2000-06-01), bedoeld verzoekschrift:
+- a. Een Verdragsluitende Partij kan verlangen dat een in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=11&z=2010-12-27&g=2010-12-27), bedoeld verzoekschrift:
 
 - i. wordt ondertekend door de aanvrager of eigenaar;
 
@@ -812,81 +812,81 @@ Wanneer het bureau de aanvrager, eigenaar of andere persoon ervan kennis geeft d
 
 - b. Wanneer een verzoek om verlenging van een termijn is ingediend na het verstrijken van de termijn, kan een Verdragsluitende Partij verlangen dat wordt voldaan aan alle vereisten ten aanzien waarvan de termijn voor de desbetreffende handeling van toepassing was, op het tijdstip waarop het verzoekschrift wordt ingediend.
 
-2. [Tijdvak en termijn ingevolge [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=11&z=2000-06-01&g=2000-06-01)]
+2. [Tijdvak en termijn ingevolge [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=11&z=2010-12-27&g=2010-12-27)]
 
-- a. Het tijdvak van de verlenging van een termijn bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=11&z=2000-06-01&g=2000-06-01), bedraagt ten minste twee maanden, te rekenen vanaf de datum van het verstrijken van de onverlengde termijn.
+- a. Het tijdvak van de verlenging van een termijn bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=11&z=2010-12-27&g=2010-12-27), bedraagt ten minste twee maanden, te rekenen vanaf de datum van het verstrijken van de onverlengde termijn.
 
-- b. De termijn bedoeld in [artikel 11, eerste lid, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=11&z=2000-06-01&g=2000-06-01), verstrijkt niet eerder dan na twee maanden, te rekenen vanaf de datum van het verstrijken van de oorspronkelijke termijn.
+- b. De termijn bedoeld in [artikel 11, eerste lid, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=11&z=2010-12-27&g=2010-12-27), verstrijkt niet eerder dan na twee maanden, te rekenen vanaf de datum van het verstrijken van de oorspronkelijke termijn.
 
-3. [Vereisten ingevolge [artikel 11, tweede lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=11&z=2000-06-01&g=2000-06-01)] Een Verdragsluitende Partij kan verlangen dat het in artikel 11, tweede lid, bedoelde verzoekschrift:
+3. [Vereisten ingevolge [artikel 11, tweede lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=11&z=2010-12-27&g=2010-12-27)] Een Verdragsluitende Partij kan verlangen dat het in artikel 11, tweede lid, bedoelde verzoekschrift:
 
 - i. wordt ondertekend door de aanvrager of eigenaar;
 
 - ii. een vermelding bevat dat om uitstel wordt verzocht omdat een termijn niet in acht is genomen, en aangeeft welke termijn het betreft.
 
-4. [Termijn voor de indiening van een verzoek ingevolge [artikel 11, tweede lid, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=11&z=2000-06-01&g=2000-06-01)] De in artikel 11, tweede lid, onder ii, bedoelde termijn verstrijkt niet eerder dan twee maanden na een kennisgeving door het bureau dat de aanvrager of eigenaar de door het bureau vastgestelde termijn niet in acht heeft genomen.
+4. [Termijn voor de indiening van een verzoek ingevolge [artikel 11, tweede lid, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=11&z=2010-12-27&g=2010-12-27)] De in artikel 11, tweede lid, onder ii, bedoelde termijn verstrijkt niet eerder dan twee maanden na een kennisgeving door het bureau dat de aanvrager of eigenaar de door het bureau vastgestelde termijn niet in acht heeft genomen.
 
-5. [Uitzonderingen ingevolge [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=11&z=2000-06-01&g=2000-06-01)]
+5. [Uitzonderingen ingevolge [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=11&z=2010-12-27&g=2010-12-27)]
 
-- a. Van geen enkele Verdragsluitende Partij wordt ingevolge [artikel 11, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=11&z=2000-06-01&g=2000-06-01), verlangd dat zij:
+- a. Van geen enkele Verdragsluitende Partij wordt ingevolge [artikel 11, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=11&z=2010-12-27&g=2010-12-27), verlangd dat zij:
 
-- i. een tweede, of elk verdere uitstel verleent ten aanzien van een termijn waarvoor ingevolge [artikel 11, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=11&z=2000-06-01&g=2000-06-01), reeds uitstel is verleend;
+- i. een tweede, of elk verdere uitstel verleent ten aanzien van een termijn waarvoor ingevolge [artikel 11, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=11&z=2010-12-27&g=2010-12-27), reeds uitstel is verleend;
 
-- ii. uitstel verleent voor de indiening van een verzoekschrift om uitstel ingevolge [artikel 11, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=11&z=2000-06-01&g=2000-06-01), of een verzoekschrift om herstel van rechten ingevolge [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=12&z=2000-06-01&g=2000-06-01);
+- ii. uitstel verleent voor de indiening van een verzoekschrift om uitstel ingevolge [artikel 11, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=11&z=2010-12-27&g=2010-12-27), of een verzoekschrift om herstel van rechten ingevolge [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=12&z=2010-12-27&g=2010-12-27);
 
 - iii. uitstel verleent ten aanzien van een termijn voor de betaling van onderhoudstaksen;
 
-- iv. uitstel verleent ten aanzien van een termijn bedoeld in [artikel 13, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=13&z=2000-06-01&g=2000-06-01);
+- iv. uitstel verleent ten aanzien van een termijn bedoeld in [artikel 13, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=13&z=2010-12-27&g=2010-12-27);
 
 - v. uitstel verleent ten aanzien van een termijn voor het verrichten van een handeling voor een raad van beroep of een ander in het kader van het bureau ingesteld toetsingsorgaan;
 
 - vi. uitstel verleent ten aanzien van een termijn voor het verrichten van een handeling in een procedure inter partes.
 
-- b. Van geen enkele Verdragsluitende Partij die een maximumtermijn voorziet voor het voldoen aan alle vereisten van een procedure voor het bureau, wordt verlangd dat zij ingevolge [artikel 11, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=11&z=2000-06-01&g=2000-06-01), uitstel verleent ten aanzien van een termijn voor een handeling in die procedure ten aanzien van die vereisten na het verstrijken van die maximumtermijn.
+- b. Van geen enkele Verdragsluitende Partij die een maximumtermijn voorziet voor het voldoen aan alle vereisten van een procedure voor het bureau, wordt verlangd dat zij ingevolge [artikel 11, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=11&z=2010-12-27&g=2010-12-27), uitstel verleent ten aanzien van een termijn voor een handeling in die procedure ten aanzien van die vereisten na het verstrijken van die maximumtermijn.
 
-##### Regel 13. Details betreffende het herstel van rechten nadat het bureau ingevolge [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=12&z=2000-06-01&g=2000-06-01) heeft vastgesteld dat de nodige zorg is betracht of dat het verzuim onopzettelijk was
+##### Regel 13. Details betreffende het herstel van rechten nadat het bureau ingevolge [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=12&z=2010-12-27&g=2010-12-27) heeft vastgesteld dat de nodige zorg is betracht of dat het verzuim onopzettelijk was
 
-1. [Vereisten ingevolge [artikel 12, eerste lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=12&z=2000-06-01&g=2000-06-01)] Een Verdragsluitende Partij kan verlangen dat een in artikel 12, eerste lid, onder i, bedoeld verzoekschrift wordt ondertekend door de aanvrager of eigenaar.
+1. [Vereisten ingevolge [artikel 12, eerste lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=12&z=2010-12-27&g=2010-12-27)] Een Verdragsluitende Partij kan verlangen dat een in artikel 12, eerste lid, onder i, bedoeld verzoekschrift wordt ondertekend door de aanvrager of eigenaar.
 
-2. [Termijn ingevolge [artikel 12, eerste lid, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=12&z=2000-06-01&g=2000-06-01)] De termijn voor het indienen van een verzoekschrift, en voor het voldoen aan de vereisten, ingevolge artikel 12, eerste lid, ii, is die van de volgende termijnen welke het eerst verstrijkt:
+2. [Termijn ingevolge [artikel 12, eerste lid, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=12&z=2010-12-27&g=2010-12-27)] De termijn voor het indienen van een verzoekschrift, en voor het voldoen aan de vereisten, ingevolge artikel 12, eerste lid, ii, is die van de volgende termijnen welke het eerst verstrijkt:
 
 - i. ten minste twee maanden, te rekenen vanaf de datum waarop de oorzaak van het niet in acht nemen van de termijn voor het verrichten van de desbetreffende handeling is weggenomen;
 
 - ii. ten minste twaalf maanden, te rekenen vanaf de datum van het verstrijken van de termijn voor de desbetreffende handeling, of, wanneer een verzoekschrift betrekking heeft op niet-betaling van een onderhoudstaks, ten minste twaalf maanden, te rekenen vanaf de datum vanaf het verstrijken van de in [artikel 5bis in het Verdrag van Parijs](https://wetten.overheid.nl/jci1.3:c:BWBV0004120&artikel=5bis) bedoelde termijn van uitstel.
 
-3. [Uitzonderingen ingevolge [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=12&z=2000-06-01&g=2000-06-01)] De in artikel 12, tweede lid, bedoelde uitzonderingen betreffen de gevallen waarin een termijn niet in acht wordt genomen:
+3. [Uitzonderingen ingevolge [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=12&z=2010-12-27&g=2010-12-27)] De in artikel 12, tweede lid, bedoelde uitzonderingen betreffen de gevallen waarin een termijn niet in acht wordt genomen:
 
 - i. voor het verrichten van een handeling voor een raad van beroep of een ander toetsingsorgaan dat in het kader van het bureau wordt ingesteld;
 
-- ii. voor het indienen van een verzoekschrift tot uitstel ingevolge [artikel 11, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=11&z=2000-06-01&g=2000-06-01), of een verzoekschrift om herstel van rechten ingevolge [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=12&z=2000-06-01&g=2000-06-01);
+- ii. voor het indienen van een verzoekschrift tot uitstel ingevolge [artikel 11, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=11&z=2010-12-27&g=2010-12-27), of een verzoekschrift om herstel van rechten ingevolge [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=12&z=2010-12-27&g=2010-12-27);
 
-- iii. bedoeld in [artikel 13, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=13&z=2000-06-01&g=2000-06-01);
+- iii. bedoeld in [artikel 13, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=13&z=2010-12-27&g=2010-12-27);
 
 - iv. voor het verrichten van een handeling in een procedure inter partes.
 
-##### Regel 14. Details betreffende een verbetering of toevoeging van een beroep op voorrang en herstel van het recht van voorrang, ingevolge [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=13&z=2000-06-01&g=2000-06-01)
+##### Regel 14. Details betreffende een verbetering of toevoeging van een beroep op voorrang en herstel van het recht van voorrang, ingevolge [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=13&z=2010-12-27&g=2010-12-27)
 
-1. [Uitzondering ingevolge [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=13&z=2000-06-01&g=2000-06-01)] Geen enkele Verdragsluitende Partij is verplicht te voorzien in de verbetering of toevoeging van een beroep op voorrang ingevolge artikel 13, eerste lid, wanneer het in artikel 13, eerste lid, onder i, bedoelde verzoekschrift wordt ontvangen nadat de aanvrager een verzoekschrift heeft ingediend voor vroegtijdige publicatie of versnelde behandeling, tenzij dat verzoekschrift voor vroegtijdige publicatie of voor versnelde behandeling wordt ingetrokken voordat de technische voorbereidingen voor publicatie van de aanvraag zijn voltooid.
+1. [Uitzondering ingevolge [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=13&z=2010-12-27&g=2010-12-27)] Geen enkele Verdragsluitende Partij is verplicht te voorzien in de verbetering of toevoeging van een beroep op voorrang ingevolge artikel 13, eerste lid, wanneer het in artikel 13, eerste lid, onder i, bedoelde verzoekschrift wordt ontvangen nadat de aanvrager een verzoekschrift heeft ingediend voor vroegtijdige publicatie of versnelde behandeling, tenzij dat verzoekschrift voor vroegtijdige publicatie of voor versnelde behandeling wordt ingetrokken voordat de technische voorbereidingen voor publicatie van de aanvraag zijn voltooid.
 
-2. [Vereisten ingevolge [artikel 13, eerste lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=13&z=2000-06-01&g=2000-06-01)] Een Verdragsluitende Partij kan verlangen dat een in artikel 13, eerste lid, onder i, bedoeld verzoekschrift wordt ondertekend door de aanvraagr.
+2. [Vereisten ingevolge [artikel 13, eerste lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=13&z=2010-12-27&g=2010-12-27)] Een Verdragsluitende Partij kan verlangen dat een in artikel 13, eerste lid, onder i, bedoeld verzoekschrift wordt ondertekend door de aanvraagr.
 
-3. [Termijn ingevolge [artikel 13, eerste lid, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=13&z=2000-06-01&g=2000-06-01)] De in artikel 13, eerste lid, onder ii, bedoelde termijn is niet korter dan de termijn die ingevolge het [Verdrag tot samenwerking inzake octrooien](https://wetten.overheid.nl/jci1.3:c:BWBV0004680) van toepassing is op een internationale aanvraag voor de indiening van een beroep op voorrang na de indiening van een internationale aanvraag.
+3. [Termijn ingevolge [artikel 13, eerste lid, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=13&z=2010-12-27&g=2010-12-27)] De in artikel 13, eerste lid, onder ii, bedoelde termijn is niet korter dan de termijn die ingevolge het [Verdrag tot samenwerking inzake octrooien](https://wetten.overheid.nl/jci1.3:c:BWBV0004680) van toepassing is op een internationale aanvraag voor de indiening van een beroep op voorrang na de indiening van een internationale aanvraag.
 
-4. [Termijnen ingevolge [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=13&z=2000-06-01&g=2000-06-01)]
+4. [Termijnen ingevolge [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=13&z=2010-12-27&g=2010-12-27)]
 
-- a. De in de aanhef van [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=13&z=2000-06-01&g=2000-06-01), bedoelde termijn verstrijkt na ten minste twee maanden, te rekenen vanaf de datum waarop de voorrangstermijn is verstreken.
+- a. De in de aanhef van [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=13&z=2010-12-27&g=2010-12-27), bedoelde termijn verstrijkt na ten minste twee maanden, te rekenen vanaf de datum waarop de voorrangstermijn is verstreken.
 
-- b. De in [artikel 13, tweede lid, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=13&z=2000-06-01&g=2000-06-01), bedoelde termijn is de ingevolge letter a gehanteerde termijn of de tijd die nodig is voor het voltooien van de technische voorbereidingen van de publicatie van de volgende aanvraag, al naargelang welke eerder verstrijkt.
+- b. De in [artikel 13, tweede lid, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=13&z=2010-12-27&g=2010-12-27), bedoelde termijn is de ingevolge letter a gehanteerde termijn of de tijd die nodig is voor het voltooien van de technische voorbereidingen van de publicatie van de volgende aanvraag, al naargelang welke eerder verstrijkt.
 
-5. [Vereisten ingevolge [artikel 13, tweede lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=13&z=2000-06-01&g=2000-06-01)] Een Verdragsluitende Partij kan verlangen dat een in artikel 13, tweede lid, onder i, bedoeld verzoekschrift:
+5. [Vereisten ingevolge [artikel 13, tweede lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=13&z=2010-12-27&g=2010-12-27)] Een Verdragsluitende Partij kan verlangen dat een in artikel 13, tweede lid, onder i, bedoeld verzoekschrift:
 
 - i. wordt ondertekend door de aanvrager; en
 
 - ii. wanneer in de aanvraag geen beroep op voorrang van de eerdere aanvraag wordt gedaan, vergezeld gaat van het beroep op voorrang.
 
-6. [Vereisten ingevolge [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=13&z=2000-06-01&g=2000-06-01)]
+6. [Vereisten ingevolge [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=13&z=2010-12-27&g=2010-12-27)]
 
-- a. Een Verdragsluitende Partij kan verlangen dat een in [artikel 13, derde lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=13&z=2000-06-01&g=2000-06-01), bedoeld verzoekschrift:
+- a. Een Verdragsluitende Partij kan verlangen dat een in [artikel 13, derde lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=13&z=2010-12-27&g=2010-12-27), bedoeld verzoekschrift:
 
 - i. wordt ondertekend door de aanvrager; en
 
@@ -894,11 +894,11 @@ Wanneer het bureau de aanvrager, eigenaar of andere persoon ervan kennis geeft d
 
 - b. Een Verdragsluitende Partij kan verlangen dat:
 
-- i. een verklaring of ander bewijs ter ondersteuning van het in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=13&z=2000-06-01&g=2000-06-01), bedoelde verzoekschrift binnen een door het bureau vastgestelde termijn bij het bureau wordt overgelegd;
+- i. een verklaring of ander bewijs ter ondersteuning van het in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=13&z=2010-12-27&g=2010-12-27), bedoelde verzoekschrift binnen een door het bureau vastgestelde termijn bij het bureau wordt overgelegd;
 
-- ii. het afschrift van de in [artikel 13, derde lid, onder iv](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=13&z=2000-06-01&g=2000-06-01), bedoelde eerdere aanvraag bij het bureau wordt overgelegd binnen een termijn die ten minste een maand bedraagt, te rekenen vanaf de datum waarop het bureau waarbij de eerdere aanvraag is ingediend, de aanvrager dat afschrift verstrekt.
+- ii. het afschrift van de in [artikel 13, derde lid, onder iv](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=13&z=2010-12-27&g=2010-12-27), bedoelde eerdere aanvraag bij het bureau wordt overgelegd binnen een termijn die ten minste een maand bedraagt, te rekenen vanaf de datum waarop het bureau waarbij de eerdere aanvraag is ingediend, de aanvrager dat afschrift verstrekt.
 
-7. [Termijn ingevolge [artikel 13, derde lid, onder iii](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=13&z=2000-06-01&g=2000-06-01)] De in artikel 13, derde lid, onder iii, bedoelde termijn verstrijkt twee maanden voor het verstrijken van de in de regel 4, punt 1, voorgeschreven termijn.
+7. [Termijn ingevolge [artikel 13, derde lid, onder iii](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=13&z=2010-12-27&g=2010-12-27)] De in artikel 13, derde lid, onder iii, bedoelde termijn verstrijkt twee maanden voor het verstrijken van de in de regel 4, punt 1, voorgeschreven termijn.
 
 ##### Regel 15. Verzoekschrift tot inschrijving van een wijziging van naam of adres
 
@@ -1108,7 +1108,7 @@ Wanneer het bureau de aanvrager, eigenaar of andere persoon ervan kennis geeft d
 
 ##### Regel 20. Opstelling van internationale standaardformulieren
 
-1. [Internationale standaardformulieren] De Algemene Vergadering stelt ingevolge [artikel 14, eerste lid, letter c](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=14&z=2000-06-01&g=2000-06-01), internationale standaardformulieren op in elk van de in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=25&z=2000-06-01&g=2000-06-01), bedoelde talen, ten aanzien van:
+1. [Internationale standaardformulieren] De Algemene Vergadering stelt ingevolge [artikel 14, eerste lid, letter c](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=14&z=2010-12-27&g=2010-12-27), internationale standaardformulieren op in elk van de in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=25&z=2010-12-27&g=2010-12-27), bedoelde talen, ten aanzien van:
 
 - i. een volmacht;
 
@@ -1132,17 +1132,17 @@ Wanneer het bureau de aanvrager, eigenaar of andere persoon ervan kennis geeft d
 
 - ii. de in punt 2 bedoelde wijzigingen van het aanvraagformulier van het [Verdrag tot samenwerking inzake octrooien](https://wetten.overheid.nl/jci1.3:c:BWBV0004680).
 
-##### Regel 21. Vereiste van unanimiteit ingevolge [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=14&z=2000-06-01&g=2000-06-01)
+##### Regel 21. Vereiste van unanimiteit ingevolge [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=14&z=2010-12-27&g=2010-12-27)
 
 Voor de opstelling of wijziging van de volgende Regels is unanimiteit vereist:
 
-- i. regels opgesteld ingevolge [artikel 5, eerste lid, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2000-06-01&g=2000-06-01);
+- i. regels opgesteld ingevolge [artikel 5, eerste lid, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2010-12-27&g=2010-12-27);
 
-- ii. regels opgesteld ingevolge [artikel 6, eerste lid, onder iii](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2000-06-01&g=2000-06-01);
+- ii. regels opgesteld ingevolge [artikel 6, eerste lid, onder iii](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27);
 
-- iii. regels opgesteld ingevolge [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2000-06-01&g=2000-06-01);
+- iii. regels opgesteld ingevolge [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27);
 
-- iv. regels opgesteld ingevolge [artikel 7, tweede lid, letter a, onder iii](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=7&z=2000-06-01&g=2000-06-01);
+- iv. regels opgesteld ingevolge [artikel 7, tweede lid, letter a, onder iii](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=7&z=2010-12-27&g=2010-12-27);
 
 - v. Regel 8, punt 1, letter a;
 
