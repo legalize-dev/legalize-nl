@@ -4,7 +4,7 @@ identifier: "BWBR0029298"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2025-01-01"
-last_updated: "2010-10-10"
+last_updated: "2010-12-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029298"
 soort: "ministeriele-regeling-BES"
@@ -75,7 +75,7 @@ Besluit:
 
 ##### Artikel 4
 
-1. De aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42), van de aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van investeringen in bedrijfsmiddelen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029298&hoofdstuk=3&artikel=3&z=2010-12-30&g=2010-10-10) vindt plaats binnen een termijn van drie maanden. Deze termijn vangt aan:
+1. De aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42), van de aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van investeringen in bedrijfsmiddelen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029298&hoofdstuk=3&artikel=3&z=2010-12-30&g=2010-12-30) vindt plaats binnen een termijn van drie maanden. Deze termijn vangt aan:
 
 - a. met betrekking tot verplichtingen: bij het aangaan van de verplichtingen;
 
@@ -89,21 +89,21 @@ De aanmelding van de aangegane verplichtingen en de gemaakte voortbrengingskoste
 
 ##### Artikel 6
 
-1. De aanmelding van investeringen in bedrijfsmiddelen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029298&hoofdstuk=3&artikel=3&z=2010-12-30&g=2010-10-10) wordt aangemerkt als een verzoek om een verklaring van de Minister van Economische Zaken, Landbouw en Innovatie als bedoeld in [artikel 3.42, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42).
+1. De aanmelding van investeringen in bedrijfsmiddelen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029298&hoofdstuk=3&artikel=3&z=2010-12-30&g=2010-12-30) wordt aangemerkt als een verzoek om een verklaring van de Minister van Economische Zaken, Landbouw en Innovatie als bedoeld in [artikel 3.42, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42).
 
 2. De verklaring van de Minister van Economische Zaken, Landbouw en Innovatie, bedoeld in het eerste lid, vermeldt in welke aangewezen bedrijfsmiddelen of onderdelen is geïnvesteerd alsmede het bedrag van de uitgaven terzake.
 
 3. De belastingplichtige legt ten behoeve van het verstrekken van een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken, Landbouw en Innovatie daarom verzoekt, een berekening van de energiebesparing over.
 
-4. De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken, Landbouw en Innovatie daarom verzoekt, een kopie van de afgegeven bouwvergunning of omgevingsvergunning over indien [artikel 3, eerste lid, onderdeel b respectievelijk onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0029298&hoofdstuk=3&artikel=3&z=2010-12-30&g=2010-10-10), van toepassing is.
+4. De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken, Landbouw en Innovatie daarom verzoekt, een kopie van de afgegeven bouwvergunning of omgevingsvergunning over indien [artikel 3, eerste lid, onderdeel b respectievelijk onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0029298&hoofdstuk=3&artikel=3&z=2010-12-30&g=2010-12-30), van toepassing is.
 
-5. De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken, Landbouw en Innovatie daarom verzoekt, een kopie van de afgegeven milieuvergunning, omgevingsvergunning of vergelijkbare vergunning over indien [artikel 3, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0029298&hoofdstuk=3&artikel=3&z=2010-12-30&g=2010-10-10), van toepassing is.
+5. De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken, Landbouw en Innovatie daarom verzoekt, een kopie van de afgegeven milieuvergunning, omgevingsvergunning of vergelijkbare vergunning over indien [artikel 3, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0029298&hoofdstuk=3&artikel=3&z=2010-12-30&g=2010-12-30), van toepassing is.
 
-6. De Minister van Economische Zaken, Landbouw en Innovatie neemt een verzoek om een verklaring niet in behandeling indien niet is voldaan aan [artikel 3, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0029298&hoofdstuk=3&artikel=3&z=2010-12-30&g=2010-10-10).
+6. De Minister van Economische Zaken, Landbouw en Innovatie neemt een verzoek om een verklaring niet in behandeling indien niet is voldaan aan [artikel 3, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0029298&hoofdstuk=3&artikel=3&z=2010-12-30&g=2010-12-30).
 
 ##### Artikel 7
 
-1. De Minister van Economische Zaken, Landbouw en Innovatie kan de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0029298&hoofdstuk=3&artikel=6&z=2010-12-30&g=2010-10-10) bedoelde verklaring wijzigen of intrekken indien de door of namens belastingplichtige verstrekte gegevens of bescheiden zodanig onjuist of onvolledig zijn geweest dat op het verzoek een andere beslissing zou zijn genomen indien bij de beoordeling daarvan de juiste of volledige gegevens bekend zouden zijn geweest. Onjuistheid of onvolledigheid van gegevens of bescheiden die de Minister van Economische Zaken, Landbouw en Innovatie bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond opleveren voor wijziging of intrekking van een verklaring.
+1. De Minister van Economische Zaken, Landbouw en Innovatie kan de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0029298&hoofdstuk=3&artikel=6&z=2010-12-30&g=2010-12-30) bedoelde verklaring wijzigen of intrekken indien de door of namens belastingplichtige verstrekte gegevens of bescheiden zodanig onjuist of onvolledig zijn geweest dat op het verzoek een andere beslissing zou zijn genomen indien bij de beoordeling daarvan de juiste of volledige gegevens bekend zouden zijn geweest. Onjuistheid of onvolledigheid van gegevens of bescheiden die de Minister van Economische Zaken, Landbouw en Innovatie bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond opleveren voor wijziging of intrekking van een verklaring.
 
 2. De bevoegdheid tot het intrekken of wijzigen van een verklaring op grond van het eerste lid vervalt door verloop van vijf jaren na de dagtekening van de verklaring.
 
@@ -119,7 +119,7 @@ De aanmelding van de aangegane verplichtingen en de gemaakte voortbrengingskoste
 
 ##### Artikel 9
 
-1. De aanmelding, bedoeld in [artikel 3.42a, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a), van de aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van investeringen in bedrijfsmiddelen als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0029298&hoofdstuk=6&artikel=12&z=2010-12-30&g=2010-10-10) vindt plaats binnen een termijn van drie maanden. Deze termijn vangt aan:
+1. De aanmelding, bedoeld in [artikel 3.42a, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a), van de aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van investeringen in bedrijfsmiddelen als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0029298&hoofdstuk=6&artikel=12&z=2010-12-30&g=2010-12-30) vindt plaats binnen een termijn van drie maanden. Deze termijn vangt aan:
 
 - a. met betrekking tot verplichtingen: bij het aangaan van de verplichtingen;
 
