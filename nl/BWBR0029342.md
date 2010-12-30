@@ -4,7 +4,7 @@ identifier: "BWBR0029342"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2010-11-17"
+last_updated: "2010-12-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029342"
 soort: "wet"
@@ -61,7 +61,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
 ##### Artikel IV
 
