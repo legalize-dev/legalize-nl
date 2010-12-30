@@ -4,7 +4,7 @@ identifier: "BWBR0026914"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-05-04"
-last_updated: "2010-12-17"
+last_updated: "2010-12-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026914"
 soort: "ministeriele-regeling"
@@ -57,7 +57,7 @@ Besluit:
 | 1.3 | Subsidieregeling starten, groeien en overdragen van ondernemingen (groeifaciliteit) | 3.2 |   | 01-01 t/m 31-12 | 170.000.000 |
 | 1.4 | vervallen. |   |   |   |   |
 | 1.5 | vervallen. |   |   |   |   |
-| 1.6 | Subsidieregeling starten, groeien en overdragen van ondernemingen (seed capital technostarters) | 4.3 |   | 01-01 t/m 31-03 05-08 t/m 30-09 | 12.000.000 10.000.000 |
+| 1.6 | Subsidieregeling starten, groeien en overdragen van ondernemingen (seed capital technostarters) | 4.3 |   | 01-01 t/m 31-03 05-08 t/m 30-09 | 12.000.000 11.789.000 |
 | 1.7 | Subsidieregeling Starten, groeien en overdragen van ondernemingen (Valorisatieprogramma) | 5.2 |   | 1-6 t/m 31-12 | € 25.000.000 |
 | 1.8 | Subsidieregeling starten, groeien en overdragen van ondernemingen (ondernemerschapsonderwijsprojecten) | 6.2 |   |   |   |
 | 1.9 | Vervallen |   |   |   |   |
