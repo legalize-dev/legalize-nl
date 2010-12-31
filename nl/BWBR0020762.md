@@ -4,7 +4,7 @@ identifier: "BWBR0020762"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-06-01"
-last_updated: "2010-10-10"
+last_updated: "2010-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020762"
 soort: "AMvB"
@@ -84,7 +84,7 @@ Hebben goedgevonden en verstaan:
 
 - p. NOx-Code: de Technische Code inzake de beheersing van de emissie van stikstofoxiden door scheepsdieselmotoren (**Technical Code on Control of Emission of Nitrogen Oxides from Marine Diesel Engines**, Trb. 2005, 30), aangenomen als bijlage bij resolutie 2 bij het Protocol van 1997 tot wijziging van het Verdrag ter voorkoming van verontreiniging door schepen, 1973, zoals gewijzigd bij het Protocol van 1978, met Bijlage (Trb. 1999, 169).
 
-2. Voor de toepassing van de op grond van dit besluit toepasselijke verdragen en Codes wordt in dit besluit en de daarop berustende bepalingen, tenzij bij of krachtens dit besluit anders is bepaald, verstaan onder Administratie: de inspecteur-generaal.
+2. Voor de toepassing van de op grond van dit besluit toepasselijke verdragen en Codes wordt in dit besluit en de daarop berustende bepalingen, tenzij bij of krachtens dit besluit anders is bepaald, verstaan onder Administratie: Onze Minister.
 
 ##### Artikel 2. Aanwijzing schadelijke stoffen
 
@@ -124,7 +124,7 @@ Als een ander verdrag als bedoeld in de [artikelen 8, eerste en derde lid](https
 
 3. Het tweede lid is van overeenkomstige toepassing op de in dat lid bedoelde schepen:
 
-- a. waarvoor een certificaat als bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=12&z=2010-10-10&g=2010-10-10), benodigd is, of
+- a. waarvoor een certificaat als bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=12&z=2010-12-31&g=2010-12-31), benodigd is, of
 
 - b. die geen reizen maken naar havens buitengaats binnen de rechtsmacht van andere partijen bij het Verdrag.
 
@@ -156,17 +156,19 @@ Aan boord van elk schip dat zich in het Antarctisch gebied bevindt zijn één of
 
 ##### Artikel 8. Nadere eisen
 
-1. Bij regeling van Onze Minister kunnen eisen worden vastgesteld waaraan schepen in verband met een krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=15&z=2010-10-10&g=2010-10-10) vereist certificaat moeten voldoen.
+1. Bij regeling van Onze Minister kunnen eisen worden vastgesteld waaraan schepen in verband met een krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=15&z=2010-12-31&g=2010-12-31) vereist certificaat moeten voldoen.
 
-2. Bij regeling van Onze Minister kunnen voor schepen aanvullende eisen worden vastgesteld, alsmede nadere regels met betrekking tot de in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=5&z=2010-10-10&g=2010-10-10) bedoelde eisen.
+2. Bij regeling van Onze Minister kunnen voor schepen aanvullende eisen worden vastgesteld, alsmede nadere regels met betrekking tot de in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=5&z=2010-12-31&g=2010-12-31) bedoelde eisen.
 
 ##### Artikel 9. Gelijkwaardige voorzieningen
 
-De inspecteur-generaal kan, met inachtneming van hetgeen dienaangaande in het desbetreffende verdrag of de desbetreffende Code is bepaald, afwijking toestaan van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=5&z=2010-10-10&g=2010-10-10) bedoelde eisen en de in [artikel 31, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=4&artikel=31&z=2010-10-10&g=2010-10-10), bedoelde eisen en voorschriften waaronder de in deze artikelleden bedoelde handelingen mogen worden verricht, indien aan boord van het schip een voorziening wordt getroffen die naar zijn oordeel ten minste gelijkwaardig is aan de in het voorschrift waarvan wordt afgeweken, geëiste voorziening.
+1. Onze Minister kan, met inachtneming van hetgeen dienaangaande in het desbetreffende verdrag of de desbetreffende Code is bepaald, afwijking toestaan van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=5&z=2010-12-31&g=2010-12-31) bedoelde eisen en de in [artikel 31, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=4&artikel=31&z=2010-12-31&g=2010-12-31), bedoelde eisen en voorschriften waaronder de in deze artikelleden bedoelde handelingen mogen worden verricht, indien aan boord van het schip een voorziening wordt getroffen die naar zijn oordeel ten minste gelijkwaardig is aan de in het voorschrift waarvan wordt afgeweken, geëiste voorziening.
+
+2. Dit lid is nog niet in werking getreden.
 
 ##### Artikel 10. Ontheffingen
 
-Van een ontheffing als bedoeld in [artikel 35, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=35) van de in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=5&z=2010-10-10&g=2010-10-10) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=6&z=2010-10-10&g=2010-10-10) bedoelde eisen wordt, indien deze wordt verleend voor een schip waaraan een certificaat wordt afgegeven als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=12&z=2010-10-10&g=2010-10-10), aantekening gemaakt op het certificaat.
+Van een ontheffing als bedoeld in [artikel 35, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=35) van de in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=5&z=2010-12-31&g=2010-12-31) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=6&z=2010-12-31&g=2010-12-31) bedoelde eisen wordt, indien deze wordt verleend voor een schip waaraan een certificaat wordt afgegeven als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=12&z=2010-12-31&g=2010-12-31), aantekening gemaakt op het certificaat.
 
 ##### Artikel 11. Toelating van uitrusting
 
@@ -178,9 +180,9 @@ Bij regeling van Onze Minister kunnen regels worden gesteld betreffende de voorw
 
 ##### Artikel 12. Certificaten op grond van het MARPOL-verdrag
 
-1. Voor een olietankschip van 150 GT of meer of een schip geen olietankschip zijnde, van 400 GT of meer, waarvan na onderzoek is gebleken dat het voldoet aan de eisen, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=5&z=2010-10-10&g=2010-10-10), en de met dat artikellid samenhangende eisen, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=8&z=2010-10-10&g=2010-10-10), wordt een Internationaal certificaat van voorkoming van verontreiniging door olie als bedoeld in voorschrift 7 van Bijlage I van het Verdrag afgegeven.
+1. Voor een olietankschip van 150 GT of meer of een schip geen olietankschip zijnde, van 400 GT of meer, waarvan na onderzoek is gebleken dat het voldoet aan de eisen, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=5&z=2010-12-31&g=2010-12-31), en de met dat artikellid samenhangende eisen, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=8&z=2010-12-31&g=2010-12-31), wordt een Internationaal certificaat van voorkoming van verontreiniging door olie als bedoeld in voorschrift 7 van Bijlage I van het Verdrag afgegeven.
 
-2. Voor een schip bestemd of gebruikt voor het vervoer van schadelijke vloeistoffen in bulk, waarvan na onderzoek is gebleken dat het voldoet aan de eisen, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=5&z=2010-10-10&g=2010-10-10), en de met dat artikellid samenhangende eisen, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=8&z=2010-10-10&g=2010-10-10), wordt, al naar gelang de categorie waartoe het schip behoort, een van de volgende certificaten afgegeven:
+2. Voor een schip bestemd of gebruikt voor het vervoer van schadelijke vloeistoffen in bulk, waarvan na onderzoek is gebleken dat het voldoet aan de eisen, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=5&z=2010-12-31&g=2010-12-31), en de met dat artikellid samenhangende eisen, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=8&z=2010-12-31&g=2010-12-31), wordt, al naar gelang de categorie waartoe het schip behoort, een van de volgende certificaten afgegeven:
 
 - a. voor chemicaliëntankschepen gebouwd op of na 1 juli 1986: een certificaat van geschiktheid voor het vervoer van gevaarlijke chemicaliën in bulk, behorende bij de IBC-Code;
 
@@ -188,37 +190,37 @@ Bij regeling van Onze Minister kunnen regels worden gesteld betreffende de voorw
 
 - c. voor schepen die schadelijke vloeistoffen in bulk vervoeren en niet behoren tot de in de onderdelen a en b genoemde categorieën: een Internationaal certificaat van voorkoming van verontreiniging voor het vervoer van schadelijke vloeistoffen in bulk als bedoeld in voorschrift 9 van Bijlage II van het Verdrag.
 
-3. Voor schepen als bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=5&z=2010-10-10&g=2010-10-10), waarvan na onderzoek is gebleken dat ze voldoen aan de eisen, bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=5&z=2010-10-10&g=2010-10-10), en de met dat artikellid samenhangende eisen, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=8&z=2010-10-10&g=2010-10-10), wordt een Internationaal certificaat van voorkoming van verontreiniging door sanitair afval als bedoeld in voorschrift 5 van Bijlage IV van het Verdrag afgegeven.
+3. Voor schepen als bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=5&z=2010-12-31&g=2010-12-31), waarvan na onderzoek is gebleken dat ze voldoen aan de eisen, bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=5&z=2010-12-31&g=2010-12-31), en de met dat artikellid samenhangende eisen, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=8&z=2010-12-31&g=2010-12-31), wordt een Internationaal certificaat van voorkoming van verontreiniging door sanitair afval als bedoeld in voorschrift 5 van Bijlage IV van het Verdrag afgegeven.
 
-4. Voor een schip van 400 GT of meer, waarvan na onderzoek is gebleken dat het voldoet aan de eisen, bedoeld in [artikel 5, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=5&z=2010-10-10&g=2010-10-10), en de met dat artikellid samenhangende eisen, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=8&z=2010-10-10&g=2010-10-10), wordt een Internationaal certificaat betreffende voorkoming van luchtverontreiniging als bedoeld in voorschrift 6 van Bijlage VI van het Verdrag afgegeven.
+4. Voor een schip van 400 GT of meer, waarvan na onderzoek is gebleken dat het voldoet aan de eisen, bedoeld in [artikel 5, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=5&z=2010-12-31&g=2010-12-31), en de met dat artikellid samenhangende eisen, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=8&z=2010-12-31&g=2010-12-31), wordt een Internationaal certificaat betreffende voorkoming van luchtverontreiniging als bedoeld in voorschrift 6 van Bijlage VI van het Verdrag afgegeven.
 
 5. Voor schepen met een of meer dieselmotoren waarop voorschrift 13 van Bijlage VI van het Verdrag van toepassing is, wordt overeenkomstig de NOx-Code voor elk van die motoren een Internationaal certificaat betreffende voorkoming van luchtverontreiniging door motoren, behorende bij die Code, afgegeven.
 
 ##### Artikel 13. Certificaten op grond van het AFS-verdrag
 
-1. Voor een schip van 400 GT of meer, waarvan na onderzoek is gebleken dat het voldoet aan de eisen, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=7&z=2010-10-10&g=2010-10-10) en de met dat artikellid samenhangende eisen, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=8&z=2010-10-10&g=2010-10-10), wordt een Internationaal certificaat betreffende het aangroeiwerende verfsysteem als bedoeld in voorschrift 1.1. van Bijlage 4 van het AFS-verdrag afgegeven.
+1. Voor een schip van 400 GT of meer, waarvan na onderzoek is gebleken dat het voldoet aan de eisen, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=7&z=2010-12-31&g=2010-12-31) en de met dat artikellid samenhangende eisen, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=8&z=2010-12-31&g=2010-12-31), wordt een Internationaal certificaat betreffende het aangroeiwerende verfsysteem als bedoeld in voorschrift 1.1. van Bijlage 4 van het AFS-verdrag afgegeven.
 
 2. Het eerste lid is niet van toepassing op drijvende platforms, drijvende opslageenheden en drijvende productie-, opslag-, en overslageenheden.
 
 ##### Artikel 14. Bij certificaten behorende rapporten, aanhangsels e.d.
 
-De in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=12&z=2010-10-10&g=2010-10-10) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=13&z=2010-10-10&g=2010-10-10) bedoelde certificaten gaan vergezeld van de bij die certificaten behorende rapporten, aanhangsels en overzichten, alsmede van de in de desbetreffende verdragen of Codes voorgeschreven gegevens met betrekking tot schip of lading.
+De in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=12&z=2010-12-31&g=2010-12-31) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=13&z=2010-12-31&g=2010-12-31) bedoelde certificaten gaan vergezeld van de bij die certificaten behorende rapporten, aanhangsels en overzichten, alsmede van de in de desbetreffende verdragen of Codes voorgeschreven gegevens met betrekking tot schip of lading.
 
 ##### Artikel 15. Overige certificaten en verklaringen
 
-1. Bij regeling van Onze Minister kan worden bepaald dat voor bepaalde schepen, waarvan na onderzoek is gebleken dat ze voldoen aan de op die schepen van toepassing zijnde eisen, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=8&z=2010-10-10&g=2010-10-10), een bijzonder certificaat wordt afgegeven.
+1. Bij regeling van Onze Minister kan worden bepaald dat voor bepaalde schepen, waarvan na onderzoek is gebleken dat ze voldoen aan de op die schepen van toepassing zijnde eisen, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=8&z=2010-12-31&g=2010-12-31), een bijzonder certificaat wordt afgegeven.
 
-2. Bij regeling van Onze Minister kan worden bepaald dat voor bepaalde schepen waarop de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=12&z=2010-10-10&g=2010-10-10) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=13&z=2010-10-10&g=2010-10-10) niet van toepassing zijn, waarvan na onderzoek is gebleken dat ze voldoen aan de op die schepen van toepassing zijnde eisen, bedoeld in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=5&z=2010-10-10&g=2010-10-10) en de met die artikelen samenhangende eisen, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=8&z=2010-10-10&g=2010-10-10), op verzoek van de reder een verklaring kan worden afgegeven.
+2. Bij regeling van Onze Minister kan worden bepaald dat voor bepaalde schepen waarop de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=12&z=2010-12-31&g=2010-12-31) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=13&z=2010-12-31&g=2010-12-31) niet van toepassing zijn, waarvan na onderzoek is gebleken dat ze voldoen aan de op die schepen van toepassing zijnde eisen, bedoeld in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=5&z=2010-12-31&g=2010-12-31) en de met die artikelen samenhangende eisen, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=8&z=2010-12-31&g=2010-12-31), op verzoek van de reder een verklaring kan worden afgegeven.
 
 #### § 2. Onderzoeken
 
 ##### Artikel 16. Onderzoeken in verband met MARPOL-certificaten
 
-1. Schepen worden ter verkrijging van een in [artikel 12, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=12&z=2010-10-10&g=2010-10-10), genoemd certificaat en tijdens de geldigheidsduur van dat certificaat onderworpen aan de volgende in het Verdrag voorgeschreven onderzoeken:
+1. Schepen worden ter verkrijging van een in [artikel 12, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=12&z=2010-12-31&g=2010-12-31), genoemd certificaat en tijdens de geldigheidsduur van dat certificaat onderworpen aan de volgende in het Verdrag voorgeschreven onderzoeken:
 
 - a. in verband met het Internationaal certificaat van voorkoming van verontreiniging door olie: de in Bijlage I van het Verdrag voorgeschreven onderzoeken;
 
-- b. in verband met een certificaat als bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=12&z=2010-10-10&g=2010-10-10): de in Bijlage II van het Verdrag voorgeschreven onderzoeken;
+- b. in verband met een certificaat als bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=12&z=2010-12-31&g=2010-12-31): de in Bijlage II van het Verdrag voorgeschreven onderzoeken;
 
 - c. in verband met het Internationaal certificaat van voorkoming van verontreiniging door sanitair afval: de in Bijlage IV van het Verdrag voorgeschreven onderzoeken;
 
@@ -232,49 +234,49 @@ Ter verkrijging van een Internationaal certificaat betreffende het aangroeiweren
 
 ##### Artikel 18. Tijdstippen van onderzoek
 
-De in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=2&artikel=16&z=2010-10-10&g=2010-10-10) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=2&artikel=17&z=2010-10-10&g=2010-10-10) bedoelde onderzoeken vinden plaats op de in de desbetreffende verdragen en Codes voorgeschreven tijdstippen, met dien verstande dat het hernieuwde onderzoek waaraan een schip in verband met de vernieuwing van een certificaat wordt onderworpen, steeds plaatsvindt in de laatste drie maanden van de geldigheidsduur van het desbetreffende certificaat.
+De in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=2&artikel=16&z=2010-12-31&g=2010-12-31) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=2&artikel=17&z=2010-12-31&g=2010-12-31) bedoelde onderzoeken vinden plaats op de in de desbetreffende verdragen en Codes voorgeschreven tijdstippen, met dien verstande dat het hernieuwde onderzoek waaraan een schip in verband met de vernieuwing van een certificaat wordt onderworpen, steeds plaatsvindt in de laatste drie maanden van de geldigheidsduur van het desbetreffende certificaat.
 
 ##### Artikel 19. Aantekening van onderzoeken
 
-Van de onderzoeken waaraan een schip ingevolge de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=2&artikel=16&z=2010-10-10&g=2010-10-10) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=2&artikel=17&z=2010-10-10&g=2010-10-10) tijdens de geldigheidsduur van een certificaat wordt onderworpen, wordt door degene die het onderzoek heeft verricht, aantekening geplaatst op het certificaat.
+Van de onderzoeken waaraan een schip ingevolge de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=2&artikel=16&z=2010-12-31&g=2010-12-31) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=2&artikel=17&z=2010-12-31&g=2010-12-31) tijdens de geldigheidsduur van een certificaat wordt onderworpen, wordt door degene die het onderzoek heeft verricht, aantekening geplaatst op het certificaat.
 
 ##### Artikel 20. Overige onderzoeken
 
 1. Bij regeling van Onze Minister kunnen regels worden gesteld met betrekking tot:
 
-- a. de onderzoeken waaraan schepen in verband met een certificaat als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=15&z=2010-10-10&g=2010-10-10), worden onderworpen;
+- a. de onderzoeken waaraan schepen in verband met een certificaat als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=15&z=2010-12-31&g=2010-12-31), worden onderworpen;
 
-- b. de onderzoeken waaraan schepen worden onderworpen waarop de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=12&z=2010-10-10&g=2010-10-10) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=13&z=2010-10-10&g=2010-10-10) niet van toepassing zijn.
+- b. de onderzoeken waaraan schepen worden onderworpen waarop de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=12&z=2010-12-31&g=2010-12-31) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=13&z=2010-12-31&g=2010-12-31) niet van toepassing zijn.
 
-2. Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de onderzoeken waaraan schepen ter verkrijging van de certificaten, bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=2&artikel=16&z=2010-10-10&g=2010-10-10) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=2&artikel=17&z=2010-10-10&g=2010-10-10), en tijdens de geldigheidsduur daarvan worden onderworpen.
+2. Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de onderzoeken waaraan schepen ter verkrijging van de certificaten, bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=2&artikel=16&z=2010-12-31&g=2010-12-31) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=2&artikel=17&z=2010-12-31&g=2010-12-31), en tijdens de geldigheidsduur daarvan worden onderworpen.
 
 ##### Artikel 21. Bevoegdheid aangewezen natuurlijke personen of rechtspersonen
 
-Een ingevolge [artikel 8, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=8), aangewezen natuurlijke persoon of rechtspersoon is, indien bij een onderzoek als bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=2&artikel=16&z=2010-10-10&g=2010-10-10) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=2&artikel=17&z=2010-10-10&g=2010-10-10) gebreken aan het schip of zijn uitrusting worden geconstateerd, bevoegd om herstel van deze gebreken te vorderen.
+Een ingevolge [artikel 8, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=8), aangewezen natuurlijke persoon of rechtspersoon is, indien bij een onderzoek als bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=2&artikel=16&z=2010-12-31&g=2010-12-31) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=2&artikel=17&z=2010-12-31&g=2010-12-31) gebreken aan het schip of zijn uitrusting worden geconstateerd, bevoegd om herstel van deze gebreken te vorderen.
 
 ##### Artikel 22. Handhaving toestand na onderzoek
 
-Nadat een bij of krachtens dit besluit voorgeschreven onderzoek, met uitzondering van het onderzoek, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=2&artikel=17&z=2010-10-10&g=2010-10-10), is voltooid, wordt de toestand van het schip en zijn uitrusting gehandhaafd in overeenstemming met de bij of krachtens dit besluit gestelde regels. In deze toestand wordt geen verandering aangebracht zonder voorafgaande toestemming van de inspecteur-generaal of van de ingevolge [artikel 8, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=8), aangewezen natuurlijke persoon of rechtspersoon die het onderzoek heeft uitgevoerd.
+Nadat een bij of krachtens dit besluit voorgeschreven onderzoek, met uitzondering van het onderzoek, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=2&artikel=17&z=2010-12-31&g=2010-12-31), is voltooid, wordt de toestand van het schip en zijn uitrusting gehandhaafd in overeenstemming met de bij of krachtens dit besluit gestelde regels. In deze toestand wordt geen verandering aangebracht zonder voorafgaande toestemming van Onze Minister of van de ingevolge [artikel 8, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=8), aangewezen natuurlijke persoon of rechtspersoon die het onderzoek heeft uitgevoerd.
 
 #### § 3. Geldigheid van certificaten
 
 ##### Artikel 23. Geldigheidsduur van certificaten
 
-1. De in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=12&z=2010-10-10&g=2010-10-10) genoemde certificaten hebben een geldigheidsduur van vijf jaren, met uitzondering van het Internationaal certificaat betreffende voorkoming van luchtverontreiniging door motoren, dat geldig is gedurende de volledige levensduur van de motor.
+1. De in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=12&z=2010-12-31&g=2010-12-31) genoemde certificaten hebben een geldigheidsduur van vijf jaren, met uitzondering van het Internationaal certificaat betreffende voorkoming van luchtverontreiniging door motoren, dat geldig is gedurende de volledige levensduur van de motor.
 
 2. Het Internationaal certificaat betreffende het aangroeiwerende verfsysteem is, behoudens het bepaalde in [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=9), onbeperkt geldig.
 
-3. De inspecteur-generaal kan certificaten afgeven met een kortere geldigheidsduur dan in het eerste lid bepaald, indien nog niet alle onderzoeken naar zijn genoegen zijn voltooid, of indien hij nog niet over alle door hem gevraagde gegevens over het schip beschikt.
+3. Onze Minister kan certificaten afgeven met een kortere geldigheidsduur dan in het eerste lid bepaald, indien nog niet alle onderzoeken naar zijn genoegen zijn voltooid, of indien hij nog niet over alle door hem gevraagde gegevens over het schip beschikt.
 
 ##### Artikel 24. Vernieuwing van certificaten
 
-Na voltooiing van een hernieuwd onderzoek in verband met de vernieuwing van een certificaat is het nieuwe certificaat, in afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=3&artikel=23&z=2010-10-10&g=2010-10-10), geldig vanaf de datum van voltooiing van het desbetreffende onderzoek tot een datum niet later dan vijf jaren na de vervaldatum van het bestaande certificaat.
+Na voltooiing van een hernieuwd onderzoek in verband met de vernieuwing van een certificaat is het nieuwe certificaat, in afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=3&artikel=23&z=2010-12-31&g=2010-12-31), geldig vanaf de datum van voltooiing van het desbetreffende onderzoek tot een datum niet later dan vijf jaren na de vervaldatum van het bestaande certificaat.
 
 ##### Artikel 25. Bijzondere verlengingen van de geldigheidsduur
 
-1. Indien een schip zich op het tijdstip waarop een certificaat zijn geldigheid verliest, niet in een haven bevindt waar een hernieuwd onderzoek kan plaatsvinden, kan de inspecteur-generaal de geldigheidsduur van het certificaat met ten hoogste drie maanden verlengen teneinde het schip in staat te stellen zijn reis naar de haven waar het zal worden onderzocht, te voltooien. Het schip verlaat die haven vervolgens niet zonder nieuw certificaat.
+1. Indien een schip zich op het tijdstip waarop een certificaat zijn geldigheid verliest, niet in een haven bevindt waar een hernieuwd onderzoek kan plaatsvinden, kan Onze Minister de geldigheidsduur van het certificaat met ten hoogste drie maanden verlengen teneinde het schip in staat te stellen zijn reis naar de haven waar het zal worden onderzocht, te voltooien. Het schip verlaat die haven vervolgens niet zonder nieuw certificaat.
 
-2. De inspecteur-generaal kan de geldigheidsduur van een certificaat dat is afgegeven ten behoeve van een schip dat korte reizen maakt, met ten hoogste een maand verlengen.
+2. Onze Minister kan de geldigheidsduur van een certificaat dat is afgegeven ten behoeve van een schip dat korte reizen maakt, met ten hoogste een maand verlengen.
 
 3. In een geval als bedoeld in het eerste of tweede lid wordt na de voltooiing van het hernieuwde onderzoek de geldigheidsduur van het nieuwe certificaat bepaald aan de hand van de oorspronkelijke vervaldatum van het bestaande certificaat.
 
@@ -282,7 +284,7 @@ Na voltooiing van een hernieuwd onderzoek in verband met de vernieuwing van een 
 
 ##### Artikel 26. Nadere regels
 
-Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de geldigheidsduur van het certificaat en de verklaring, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=15&z=2010-10-10&g=2010-10-10), en kunnen nadere regels worden gesteld met betrekking tot de geldigheidsduur van het in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=12&z=2010-10-10&g=2010-10-10), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=13&z=2010-10-10&g=2010-10-10) en [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=13a&z=2010-10-10&g=2010-10-10) bedoelde certificaat.
+Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de geldigheidsduur van het certificaat en de verklaring, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=15&z=2010-12-31&g=2010-12-31), en kunnen nadere regels worden gesteld met betrekking tot de geldigheidsduur van het in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=12&z=2010-12-31&g=2010-12-31), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=13&z=2010-12-31&g=2010-12-31) en [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=13a&z=2010-12-31&g=2010-12-31) bedoelde certificaat.
 
 ##### Artikel 27. Verval en intrekking van certificaten
 
@@ -290,19 +292,19 @@ Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekkin
 
 2. Indien een schip door zijn eigenaar wordt onttrokken aan een bijzondere bestemming die het had ten tijde van de afgifte van de voor dat schip benodigde certificaten, doch zijn algemene bestemming als schip behoudt, vervallen de in verband met die bijzondere bestemming afgegeven certificaten.
 
-3. De inspecteur-generaal kan een certificaat intrekken:
+3. Onze Minister kan een certificaat intrekken:
 
 - 1°. wanneer het schip schade van betekenis heeft opgelopen en de herstelling daarvan niet naar behoren is geschied, of
 
-- 2°. wanneer uit een onderzoek van de bevoegde ambtenaar van de divisie Scheepvaart is gebleken dat het schip niet zonder gevaar voor verontreiniging van het mariene milieu de haven kan verlaten.
+- 2°. wanneer uit een onderzoek van de ambtenaar van de Inspectie Verkeer en Waterstaat is gebleken dat het schip niet zonder gevaar voor verontreiniging van het mariene milieu de haven kan verlaten.
 
-4. Een vervallen of ingetrokken certificaat wordt door de eigenaar zo spoedig mogelijk aan de inspecteur-generaal ingezonden door tussenkomst van ambtenaren van de divisie Scheepvaart, de ambtenaren met de in- of uitklaring belast, dan wel de Nederlandse diplomatieke of consulaire ambtenaren.
+4. Een vervallen of ingetrokken certificaat wordt door de eigenaar zo spoedig mogelijk aan Onze Minister ingezonden door tussenkomst van ambtenaren van de Inspectie Verkeer en Waterstaat, de ambtenaren met de in- of uitklaring belast, dan wel de Nederlandse diplomatieke of consulaire ambtenaren.
 
 5. Voor een ingezonden certificaat wordt desverlangd een bewijs van ontvangst afgegeven.
 
 ##### Artikel 28. Herstel van vervallen certificaten
 
-De inspecteur-generaal kan de geldigheid van een certificaat dat ingevolge [artikel 9, eerste lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=9) is vervallen, herstellen, indien naar zijn mening bij een inspectie voldoende is gebleken dat het schip voldoet aan de desbetreffende eisen.
+Onze Minister kan de geldigheid van een certificaat dat ingevolge [artikel 9, eerste lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=9) is vervallen, herstellen, indien naar zijn mening bij een inspectie voldoende is gebleken dat het schip voldoet aan de desbetreffende eisen.
 
 ### Hoofdstuk 4. Lozing en overige gedragingen
 
@@ -324,15 +326,13 @@ Het lozen van lens- of ballastwater of andere restanten of mengsels die alleen s
 
 3. Het is verboden vanaf een schip schadelijke stoffen in verpakte vorm te lozen, anders dan met inachtneming van de Bijlage III van het Verdrag gegeven voorschriften. Dit verbod is ook van toepassing op lege, niet gereinigde verpakkingen die eerder zijn gebruikt voor het vervoer van schadelijke stoffen in verpakte vorm, tenzij toereikende maatregelen zijn getroffen die verzekeren dat geen restanten zijn achtergebleven die schade kunnen toebrengen aan het mariene milieu.
 
-4. Het is verboden vanaf een schip als bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=5&z=2010-10-10&g=2010-10-10), sanitair afval in zee te lozen anders dan met inachtneming van de in Bijlage IV van het Verdrag gegeven voorschriften.
+4. Het is verboden vanaf een schip als bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=5&z=2010-12-31&g=2010-12-31), sanitair afval in zee te lozen anders dan met inachtneming van de in Bijlage IV van het Verdrag gegeven voorschriften.
 
 5. Het is verboden vanaf een schip vuilnis als bedoeld in voorschrift 1 van Bijlage V van het Verdrag in zee te lozen, anders dan met inachtneming van de in die Bijlage gegeven voorschriften, met dien verstande dat:
 
 - a. in het gebied van de Oostzee, het Golfgebied, het gebied van de Noordzee, bedoeld in voorschrift 5 van die Bijlage, en in het Antarctisch gebied voorschrift 5 van die Bijlage van toepassing is;
 
 - b. in de overige bijzondere gebieden, bedoeld in voorschrift 5 van die Bijlage, voorschrift 3 van die Bijlage van toepassing is, en in deze gebieden voorschrift 5 van die Bijlage van toepassing wordt op een nader bij besluit van Onze Minister vast te stellen tijdstip, dat wordt bekendgemaakt in de Staatscourant.
-
-6. Voor de toepassing van de op grond van dit artikel toepasselijke voorschriften van het Verdrag wordt verstaan onder Administratie: Onze Minister.
 
 ##### Artikel 30. Verboden lozingen onder het Antarctica-verdrag
 
@@ -354,7 +354,7 @@ Het lozen van lens- of ballastwater of andere restanten of mengsels die alleen s
 
 ##### Artikel 32. Nadere regels
 
-1. Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de in de [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=4&artikel=29&z=2010-10-10&g=2010-10-10), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=4&artikel=30&z=2010-10-10&g=2010-10-10) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=4&artikel=31&z=2010-10-10&g=2010-10-10) bedoelde verboden, voorschriften en eisen.
+1. Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de in de [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=4&artikel=29&z=2010-12-31&g=2010-12-31), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=4&artikel=30&z=2010-12-31&g=2010-12-31) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=4&artikel=31&z=2010-12-31&g=2010-12-31) bedoelde verboden, voorschriften en eisen.
 
 2. De krachtens het eerste lid gestelde regels kunnen ook van toepassing worden verklaard op buitenlandse schepen gedurende de tijd dat deze zich bevinden op de Nederlandse binnenwateren.
 
@@ -378,7 +378,7 @@ De kapitein draagt er zorg voor dat aan boord van een schip de in Bijlage I, V e
 
 1. De kapitein van een schip dat een haven aandoet die is aangewezen krachtens [artikel 6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=6) geeft restanten van schadelijke vloeistoffen af bij een havenontvangstvoorziening voorzover afgifte daarvan verplicht is ingevolge de in Bijlage II van het Verdrag gegeven voorschriften.
 
-2. De afgifte van restanten van schadelijke stoffen als bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=1&artikel=2&z=2010-10-10&g=2010-10-10), en restanten van schadelijke vloeistoffen bij een houder van een havenontvangstvoorziening geschiedt uitsluitend met inachtneming van de in Bijlage I en II van het Verdrag gegeven voorschriften.
+2. De afgifte van restanten van schadelijke stoffen als bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=1&artikel=2&z=2010-12-31&g=2010-12-31), en restanten van schadelijke vloeistoffen bij een houder van een havenontvangstvoorziening geschiedt uitsluitend met inachtneming van de in Bijlage I en II van het Verdrag gegeven voorschriften.
 
 3. Als stoffen of uitrusting die deze stoffen bevat als bedoeld in [artikel 12e, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=12e) worden aangewezen stoffen die de ozonlaag aantasten als bedoeld in voorschrift 2 van Bijlage VI van het Verdrag en uitrusting die deze stoffen bevat.
 
@@ -388,7 +388,7 @@ De kapitein draagt er zorg voor dat aan boord van een schip de in Bijlage I, V e
 
 2. De kapitein van een olietankschip van 150 GT of meer draagt er tevens zorg voor dat aan boord het oliejournaal deel II, bedoeld in voorschrift 36 van Bijlage I van het Verdrag, wordt bijgehouden met inachtneming van hetgeen dienaangaande in die Bijlage is bepaald.
 
-3. De kapitein van een schip bestemd of gebruikt voor het vervoer van schadelijke vloeistoffen in bulk of van een schip als bedoeld in [artikel 5, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=5&z=2010-10-10&g=2010-10-10), draagt er zorg voor dat aan boord het ladingjournaal, bedoeld in voorschrift 15 van Bijlage II van het Verdrag, wordt bijgehouden met inachtneming van hetgeen dienaangaande in die Bijlage is bepaald.
+3. De kapitein van een schip bestemd of gebruikt voor het vervoer van schadelijke vloeistoffen in bulk of van een schip als bedoeld in [artikel 5, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=5&z=2010-12-31&g=2010-12-31), draagt er zorg voor dat aan boord het ladingjournaal, bedoeld in voorschrift 15 van Bijlage II van het Verdrag, wordt bijgehouden met inachtneming van hetgeen dienaangaande in die Bijlage is bepaald.
 
 4. De kapitein van een schip dat zich in het Antarctisch gebied bevindt draagt er zorg voor dat elke lozing van sanitair afval in een sanitair-afvaljournaal dan wel in het vuilnisjournaal, bedoeld in voorschrift 9 van Bijlage V van het Verdrag, wordt bijgehouden met inachtneming van hetgeen dienaangaande met betrekking tot vuilnis in die Bijlage is bepaald.
 
@@ -402,17 +402,17 @@ draagt er zorg voor dat aan boord het vuilnisjournaal, bedoeld in voorschrift 9 
 
 6. De kapitein van een schip dat verschillende soorten brandstofolie gebruikt teneinde te voldoen aan voorschrift 14 van Bijlage VI van het Verdrag draagt er zorg voor dat aan boord een journaal wordt bijgehouden met inachtneming van hetgeen dienaangaande in dat voorschrift is bepaald.
 
-7. De inspecteur-generaal maakt aantekeningen in het ladingjournaal overeenkomstig de in Bijlage II van het Verdrag gegeven voorschriften.
+7. Onze Minister maakt aantekeningen in het ladingjournaal overeenkomstig de in Bijlage II van het Verdrag gegeven voorschriften.
 
 ##### Artikel 37. Wijze van handelen bij schade
 
-1. Indien een schip schade heeft opgelopen of zich een gebeurtenis heeft voorgedaan waardoor het vermoeden rijst dat schade of een gebrek is ontstaan waardoor het schip een gevaar kan vormen voor het milieu, licht de kapitein zo spoedig mogelijk de inspecteur-generaal in. Voorts licht hij, indien het schip zich in een haven buiten Nederland bevindt, de ter plaatse bevoegde autoriteiten in.
+1. Indien een schip schade heeft opgelopen of zich een gebeurtenis heeft voorgedaan waardoor het vermoeden rijst dat schade of een gebrek is ontstaan waardoor het schip een gevaar kan vormen voor het milieu, licht de kapitein zo spoedig mogelijk Onze Minister in. Voorts licht hij, indien het schip zich in een haven buiten Nederland bevindt, de ter plaatse bevoegde autoriteiten in.
 
-2. Indien het schip zich in een haven bevindt, mag de reis niet worden voortgezet, voordat de kapitein van de inspecteur-generaal een verklaring heeft ontvangen, inhoudende dat eventuele herstellingen naar behoren zijn geschied of dat de reis zonder gevaar voor het milieu kan worden voortgezet, voorzover de ter plaatse bevoegde autoriteiten zich niet tegen voortzetting van de reis verzetten.
+2. Indien het schip zich in een haven bevindt, mag de reis niet worden voortgezet, voordat de kapitein van Onze Minister een verklaring heeft ontvangen, inhoudende dat eventuele herstellingen naar behoren zijn geschied of dat de reis zonder gevaar voor het milieu kan worden voortgezet, voorzover de ter plaatse bevoegde autoriteiten zich niet tegen voortzetting van de reis verzetten.
 
 ##### Artikel 38. Nadere regels
 
-1. Bij regeling van onze minister kunnen voor het vervoer van schadelijke stoffen, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=5&artikel=33&z=2010-10-10&g=2010-10-10), aanvullende voorschriften worden vastgesteld, alsmede nadere regels met betrekking tot de in de [artikelen 33 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=5&artikel=33&z=2010-10-10&g=2010-10-10) bedoelde voorschriften en verplichtingen.
+1. Bij regeling van onze minister kunnen voor het vervoer van schadelijke stoffen, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=5&artikel=33&z=2010-12-31&g=2010-12-31), aanvullende voorschriften worden vastgesteld, alsmede nadere regels met betrekking tot de in de [artikelen 33 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=5&artikel=33&z=2010-12-31&g=2010-12-31) bedoelde voorschriften en verplichtingen.
 
 2. De krachtens het eerste lid gestelde regels kunnen ook van toepassing worden verklaard op buitenlandse schepen gedurende de tijd dat deze zich bevinden op de Nederlandse binnenwateren.
 
@@ -420,7 +420,7 @@ draagt er zorg voor dat aan boord het vuilnisjournaal, bedoeld in voorschrift 9 
 
 ##### Artikel 39. Losplaatsvoorzieningen
 
-1. De beheerders van losplaatsen gelegen in havens, die krachtens [artikel 6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=6) zijn aangewezen, waar schepen schadelijke vloeistoffen lossen, treffen zodanige voorzieningen dat dergelijke schepen hun ladingtanks geheel kunnen leeglossen met inachtneming van de in Bijlage II van het Verdrag gegeven voorschriften en de krachtens [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=5&artikel=38&z=2010-10-10&g=2010-10-10) gegeven nadere regels met betrekking tot die voorschriften.
+1. De beheerders van losplaatsen gelegen in havens, die krachtens [artikel 6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=6) zijn aangewezen, waar schepen schadelijke vloeistoffen lossen, treffen zodanige voorzieningen dat dergelijke schepen hun ladingtanks geheel kunnen leeglossen met inachtneming van de in Bijlage II van het Verdrag gegeven voorschriften en de krachtens [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=5&artikel=38&z=2010-12-31&g=2010-12-31) gegeven nadere regels met betrekking tot die voorschriften.
 
 2. Bij losplaatsen als bedoeld in het eerste lid worden voorzieningen getroffen om te voorkomen dat de inhoud van slangen of leidingen van de walinstallatie, welke gebruikt zijn voor het lossen van schadelijke vloeistoffen, terugstroomt in het schip.
 
@@ -428,7 +428,7 @@ draagt er zorg voor dat aan boord het vuilnisjournaal, bedoeld in voorschrift 9 
 
 ##### Artikel 40. Nadere regels
 
-Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=6&artikel=39&z=2010-10-10&g=2010-10-10) bedoelde voorschriften en verplichtingen.
+Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=6&artikel=39&z=2010-12-31&g=2010-12-31) bedoelde voorschriften en verplichtingen.
 
 ### Hoofdstuk 7. Slotbepalingen
 
@@ -450,15 +450,15 @@ Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekkin
 
 ##### Artikel 43. Overgangsbepalingen
 
-1. Voor een schip, waarvoor op grond van het [Besluit voorkoming verontreiniging door met schepen in bulk vervoerde schadelijke vloeistoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0004306) een certificaat is afgegeven waarvan de geldigheid eindigt op 1 januari 2007 of later, geeft de inspecteur-generaal een certificaat als bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=12&z=2010-10-10&g=2010-10-10), af met een vervaldatum die gelijk is aan de vervaldatum van het op grond van voornoemd Besluit afgegeven certificaat.
+1. Voor een schip, waarvoor op grond van het [Besluit voorkoming verontreiniging door met schepen in bulk vervoerde schadelijke vloeistoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0004306) een certificaat is afgegeven waarvan de geldigheid eindigt op 1 januari 2007 of later, geeft Onze Minister een certificaat als bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=12&z=2010-12-31&g=2010-12-31), af met een vervaldatum die gelijk is aan de vervaldatum van het op grond van voornoemd Besluit afgegeven certificaat.
 
-2. Voor schepen als bedoeld in [artikel 5, vierde lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=5&z=2010-10-10&g=2010-10-10), worden de certificaten, bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=12&z=2010-10-10&g=2010-10-10), afgegeven met ingang van 28 september 2008.
+2. Voor schepen als bedoeld in [artikel 5, vierde lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=5&z=2010-12-31&g=2010-12-31), worden de certificaten, bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=12&z=2010-12-31&g=2010-12-31), afgegeven met ingang van 28 september 2008.
 
-3. Voor schepen van 400 GT of meer, gebouwd voor 19 mei 2005, worden de certificaten, bedoeld in [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=12&z=2010-10-10&g=2010-10-10), afgegeven uiterlijk bij de eerstvolgende, geplande droogzetting na inwerkingtreding van dit besluit, maar in geen geval later dan 19 mei 2008.
+3. Voor schepen van 400 GT of meer, gebouwd voor 19 mei 2005, worden de certificaten, bedoeld in [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=12&z=2010-12-31&g=2010-12-31), afgegeven uiterlijk bij de eerstvolgende, geplande droogzetting na inwerkingtreding van dit besluit, maar in geen geval later dan 19 mei 2008.
 
-4. Voor schepen die voldoen aan de eisen van Bijlage 1 van het AFS-verdrag voor de datum waarop die eisen in werking treden, worden de certificaten, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=13&z=2010-10-10&g=2010-10-10), afgegeven uiterlijk twee jaar na de inwerkingtreding van die eisen.
+4. Voor schepen die voldoen aan de eisen van Bijlage 1 van het AFS-verdrag voor de datum waarop die eisen in werking treden, worden de certificaten, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=3&paragraaf=1&artikel=13&z=2010-12-31&g=2010-12-31), afgegeven uiterlijk twee jaar na de inwerkingtreding van die eisen.
 
-5. Het verbod, bedoeld in [artikel 29, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=4&artikel=29&z=2010-10-10&g=2010-10-10), geldt voor schepen als bedoeld in [artikel 5, vierde lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=5&z=2010-10-10&g=2010-10-10), met ingang van 28 september 2008.
+5. Het verbod, bedoeld in [artikel 29, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=4&artikel=29&z=2010-12-31&g=2010-12-31), geldt voor schepen als bedoeld in [artikel 5, vierde lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=5&z=2010-12-31&g=2010-12-31), met ingang van 28 september 2008.
 
 6. Voor schepen, gebouwd voor 18 juli 1982, waarvan de bruto-inhoud is vastgesteld overeenkomstig het op 10 juni 1947 te Oslo totstandgekomen Verdrag nopens een eenvormig stelsel voor de meting van zeeschepen (Stb. 1949, J 370; Trb. 1955, 52), wordt voor de toepassing van dit besluit de eenheid bruto-registerton gelijkgesteld met de eenheid GT.
 
@@ -520,9 +520,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 1. Het is verboden met een schip ballastwater of sediment uit ballastwater in te nemen of te lozen, tenzij:
 
-- a. deze inname of lozing in overeenstemming is met het bepaalde in de bijlage bij het Ballastwaterverdrag, de krachtens [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=8&z=2010-10-10&g=2010-10-10) gestelde voorschriften, of op grond van [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=9&z=2010-10-10&g=2010-10-10) toegestane afwijkingen van de bijlage bij het Ballastwaterverdrag;
+- a. deze inname of lozing in overeenstemming is met het bepaalde in de bijlage bij het Ballastwaterverdrag, de krachtens [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=8&z=2010-12-31&g=2010-12-31) gestelde voorschriften, of op grond van [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=9&z=2010-12-31&g=2010-12-31) toegestane afwijkingen van de bijlage bij het Ballastwaterverdrag;
 
-- b. deze inname of lozing in overeenstemming is met de krachtens [artikel 38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=5&artikel=38&z=2010-10-10&g=2010-10-10), gestelde voorschriften;
+- b. deze inname of lozing in overeenstemming is met de krachtens [artikel 38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=5&artikel=38&z=2010-12-31&g=2010-12-31), gestelde voorschriften;
 
 - c. deze inname of lozing plaatsvindt om ballastwater te wisselen in een krachtens artikel 33a, tweede lid, aangewezen gebied, in overeenstemming met de krachtens dat artikel gestelde voorschriften, of
 
@@ -540,7 +540,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 36a
 
-De kapitein van een schip waarop de in [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=7a&z=2010-10-10&g=2010-10-10) bedoelde eisen van toepassing zijn, houdt een ballastwaterjournaal bij overeenkomstig het bepaalde in voorschrift B-2 van de bijlage bij het Ballastwaterverdrag.
+De kapitein van een schip waarop de in [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&hoofdstuk=2&artikel=7a&z=2010-12-31&g=2010-12-31) bedoelde eisen van toepassing zijn, houdt een ballastwaterjournaal bij overeenkomstig het bepaalde in voorschrift B-2 van de bijlage bij het Ballastwaterverdrag.
 
 ### Hoofdstuk 6. Losplaatsvoorzieningen
 
