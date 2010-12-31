@@ -4,7 +4,7 @@ identifier: "BWBR0027607"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-03-24"
-last_updated: "2010-05-04"
+last_updated: "2010-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027607"
 soort: "ministeriele-regeling"
@@ -59,7 +59,7 @@ De havenmeester van Rotterdam, werkzaam bij Havenbedrijf Rotterdam N.V. verschaf
 
 ##### Artikel 4
 
-De ondertekening van documenten op grond van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027607&artikel=1&z=2010-05-04&g=2010-05-04) van dit besluit luidt:
+De ondertekening van documenten op grond van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027607&artikel=1&z=2010-05-04&g=2010-12-31) van dit besluit luidt:
 
 ‘De Minister van Verkeer en Waterstaat,
 
