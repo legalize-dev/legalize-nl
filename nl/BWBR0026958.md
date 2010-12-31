@@ -4,7 +4,7 @@ identifier: "BWBR0026958"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2010-07-17"
+last_updated: "2010-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026958"
 soort: "wet"
@@ -94,17 +94,15 @@ Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
 ##### Artikel XIII
 
-Wijzigt het Belastingplan 2009.
+Vervallen
 
 ##### Artikel XIV
 
-Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
+Vervallen
 
 ##### Artikel XV
 
-1. [Artikel 16a, eerste en tweede lid, van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16a) is van overeenkomstige toepassing op de verlagingen van het belastingbedrag in de [artikelen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9a) en [9ba van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9ba) ingevolge de [artikelen XII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=XII&z=2010-07-17&g=2010-07-17) en [XIII, onderdeel A, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=XIII&z=2010-07-17&g=2010-07-17).
-
-2. De [artikelen XII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=XII&z=2010-07-17&g=2010-07-17) en [XIII, onderdeel A, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=XIII&z=2010-07-17&g=2010-07-17), vinden geen toepassing ten aanzien van personenauto’s die vóór 1 januari 2010 respectievelijk 1 januari 2011 voor het eerst in gebruik zijn genomen.
+Vervallen
 
 ##### Artikel XVI
 
@@ -186,11 +184,11 @@ Wijzigt de Mijnbouwwet.
 
 ##### Artikel XXXIII
 
-De wijziging ingevolge [artikel I, onderdeel N](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=I&z=2010-07-17&g=2010-07-17), van [artikel 3.111, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111) is niet van toepassing op gevallen waarin het genereren van inkomen uit sparen en beleggen uit de woning reeds is aangevangen vóór 1 januari 2010, tenzij de belastingplichtige akkoord gaat met bij ministeriële regeling te stellen voorwaarden.
+De wijziging ingevolge [artikel I, onderdeel N](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=I&z=2010-12-31&g=2010-12-31), van [artikel 3.111, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111) is niet van toepassing op gevallen waarin het genereren van inkomen uit sparen en beleggen uit de woning reeds is aangevangen vóór 1 januari 2010, tenzij de belastingplichtige akkoord gaat met bij ministeriële regeling te stellen voorwaarden.
 
 ##### Artikel XXXIV
 
-De in [artikel I, onderdeel P](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=I&z=2010-07-17&g=2010-07-17), opgenomen wijzigingen van [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3) zijn van overeenkomstige toepassing op bezittingen en verplichtingen die voortvloeien uit de heffing van het recht van successie op grond van de bepalingen in de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) zoals deze wet luidde vóór 1 januari 2010.
+De in [artikel I, onderdeel P](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=I&z=2010-12-31&g=2010-12-31), opgenomen wijzigingen van [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3) zijn van overeenkomstige toepassing op bezittingen en verplichtingen die voortvloeien uit de heffing van het recht van successie op grond van de bepalingen in de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) zoals deze wet luidde vóór 1 januari 2010.
 
 ##### Artikel XXXV
 
@@ -212,25 +210,25 @@ Ingeval de samenloop van wetten die in 2009 in het Staatsblad zijn of worden gep
 
 1. Deze wet treedt in werking met ingang van 1 januari 2010, met dien verstande dat:
 
-- a. [artikel I, onderdelen B, C, H, S, T, U, V en X](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=I&z=2010-07-17&g=2010-07-17), eerst toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2010 is toegepast;
+- a. [artikel I, onderdelen B, C, H, S, T, U, V en X](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=I&z=2010-12-31&g=2010-12-31), eerst toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2010 is toegepast;
 
-- b. [artikel III, onderdelen D, E, G en H](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=III&z=2010-07-17&g=2010-07-17), eerst toepassing vindt nadat [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22d) bij het begin van het kalenderjaar 2010 is toegepast;
+- b. [artikel III, onderdelen D, E, G en H](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=III&z=2010-12-31&g=2010-12-31), eerst toepassing vindt nadat [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22d) bij het begin van het kalenderjaar 2010 is toegepast;
 
-- c. de wijzigingen ingevolge [artikel VII, onderdelen D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=VII&z=2010-07-17&g=2010-07-17), terugwerken tot en met 1 januari 2009 en slechts toepassing vinden met betrekking tot verliezen van jaren die zijn aangevangen op of na 1 januari 2009;
+- c. de wijzigingen ingevolge [artikel VII, onderdelen D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=VII&z=2010-12-31&g=2010-12-31), terugwerken tot en met 1 januari 2009 en slechts toepassing vinden met betrekking tot verliezen van jaren die zijn aangevangen op of na 1 januari 2009;
 
-- d. de wijziging ingevolge [artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=IX&z=2010-07-17&g=2010-07-17) toepassing vindt met betrekking tot verliezen van jaren die zijn aangevangen op of na 1 januari 2011;
+- d. de wijziging ingevolge [artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=IX&z=2010-12-31&g=2010-12-31) toepassing vindt met betrekking tot verliezen van jaren die zijn aangevangen op of na 1 januari 2011;
 
-- e. de wijzigingen ingevolge [artikel XXV, onderdelen C, D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=XXV&z=2010-07-17&g=2010-07-17), voor het eerst toepassing vinden met betrekking tot verzuimen die zijn begaan op of na 1 januari 2010;
+- e. de wijzigingen ingevolge [artikel XXV, onderdelen C, D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=XXV&z=2010-12-31&g=2010-12-31), voor het eerst toepassing vinden met betrekking tot verzuimen die zijn begaan op of na 1 januari 2010;
 
-- f. het in [artikel XXV, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=XXV&z=2010-07-17&g=2010-07-17), opgenomen [artikel 67ca van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67ca) geen toepassing vindt met betrekking tot verzuimen begaan vóór 1 januari 2010, indien ter zake een strafvervolging is ingesteld en het onderzoek ter terechtzitting een aanvang heeft genomen;
+- f. het in [artikel XXV, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=XXV&z=2010-12-31&g=2010-12-31), opgenomen [artikel 67ca van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67ca) geen toepassing vindt met betrekking tot verzuimen begaan vóór 1 januari 2010, indien ter zake een strafvervolging is ingesteld en het onderzoek ter terechtzitting een aanvang heeft genomen;
 
-- g. de wijziging ingevolge [artikel XXVI, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=XXVI&z=2010-07-17&g=2010-07-17), voor het eerst toepassing vindt met betrekking tot verzuimen die zijn begaan op of na 1 januari 2011.
+- g. de wijziging ingevolge [artikel XXVI, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=XXVI&z=2010-12-31&g=2010-12-31), voor het eerst toepassing vindt met betrekking tot verzuimen die zijn begaan op of na 1 januari 2011.
 
-2. In afwijking van het eerste lid treedt [artikel I, onderdelen F en G](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=I&z=2010-07-17&g=2010-07-17), in werking op een bij koninklijk besluit te bepalen tijdstip waarbij terugwerkende kracht kan worden verleend tot en met 1 januari 2010.
+2. In afwijking van het eerste lid treedt [artikel I, onderdelen F en G](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=I&z=2010-12-31&g=2010-12-31), in werking op een bij koninklijk besluit te bepalen tijdstip waarbij terugwerkende kracht kan worden verleend tot en met 1 januari 2010.
 
-3. [Artikel I, onderdeel O](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=I&z=2010-07-17&g=2010-07-17), werkt terug tot en met 30 december 2009.
+3. [Artikel I, onderdeel O](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=I&z=2010-12-31&g=2010-12-31), werkt terug tot en met 30 december 2009.
 
-4. In afwijking van het eerste lid treedt [artikel XIXA](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=XIXa&z=2010-07-17&g=2010-07-17) in werking op een bij koninklijk besluit te bepalen tijdstip waarbij terugwerkende kracht kan worden verleend tot en met 1 januari 2010.
+4. In afwijking van het eerste lid treedt [artikel XIXA](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=XIXa&z=2010-12-31&g=2010-12-31) in werking op een bij koninklijk besluit te bepalen tijdstip waarbij terugwerkende kracht kan worden verleend tot en met 1 januari 2010.
 
 ##### Artikel XL
 
