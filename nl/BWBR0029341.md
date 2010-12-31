@@ -4,7 +4,7 @@ identifier: "BWBR0029341"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2010-10-01"
+last_updated: "2010-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029341"
 soort: "wet"
@@ -162,11 +162,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXIV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Belastingplan 2009.
 
 ##### Artikel XXV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Belastingplan 2010.
 
 ##### Artikel XXVI
 
