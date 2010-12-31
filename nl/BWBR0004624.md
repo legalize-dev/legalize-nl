@@ -4,7 +4,7 @@ identifier: "BWBR0004624"
 country: "nl"
 rank: "amvb"
 publication_date: "2010-12-31"
-last_updated: "2009-07-01"
+last_updated: "2010-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004624"
 soort: "AMvB"
@@ -86,7 +86,7 @@ Hebben goedgevonden en verstaan:
 
 - 3°. voldoen aan de door de Internationale Maritieme Organisatie opgestelde "Voorschriften voor dynamisch gedragen vaartuigen" (Code of Safety for Dynamically Supported Craft - Res. A.373(X) -), ten bewijze waarvan de vereiste geldige certificaten, afgegeven door of namens de bevoegde autoriteiten van het land van registratie, aan boord dienen te zijn;
 
-- d. schepen waarvoor op grond van [artikel 2 bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=2bis) juncto [artikel 2, eerste lid, onder **g**, van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=2) een schriftelijke verklaring is afgegeven door de inspecteur-generaal van de Inspectie Verkeer en Waterstaat;
+- d. schepen waarvoor op grond van [artikel 2 bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=2bis) juncto [artikel 2, eerste lid, onder **g**, van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=2) een vergunning is afgegeven;
 
 - e. schepen, varende van zee naar België of in tegengestelde richting;
 
@@ -108,7 +108,7 @@ Vervallen
 
 ##### Artikel 5
 
-Bij de aanvraag om een vergunning als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004624&paragraaf=2&artikel=3&z=2009-07-01&g=2009-07-01), dienen door de aanvrager de volgende gegevens te worden overgelegd:
+Bij de aanvraag om een vergunning als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004624&paragraaf=2&artikel=3&z=2010-12-31&g=2010-12-31), dienen door de aanvrager de volgende gegevens te worden overgelegd:
 
 - a. de vermelding van naam en adres van de aanvrager;
 
@@ -134,7 +134,7 @@ Een vergunning en een ontheffing kunnen worden gewijzigd of ingetrokken. [artike
 
 ##### Artikel 8
 
-Met betrekking tot luchtkussenvoertuigen die bij het in werking treden van dit besluit reeds vervaardigd en in Nederland aanwezig waren, dan wel die behoren tot een type dat bij het in werking treden van dit besluit reeds in Nederland in produktie was genomen, geldt [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004624&paragraaf=2&artikel=3&z=2009-07-01&g=2009-07-01) met ingang van een jaar na de datum van inwerkingtreding van dit besluit.
+Met betrekking tot luchtkussenvoertuigen die bij het in werking treden van dit besluit reeds vervaardigd en in Nederland aanwezig waren, dan wel die behoren tot een type dat bij het in werking treden van dit besluit reeds in Nederland in produktie was genomen, geldt [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004624&paragraaf=2&artikel=3&z=2010-12-31&g=2010-12-31) met ingang van een jaar na de datum van inwerkingtreding van dit besluit.
 
 ##### Artikel 9
 
