@@ -4,7 +4,7 @@ identifier: "BWBR0029324"
 country: "nl"
 rank: "wet"
 publication_date: "2011-07-01"
-last_updated: "2010-09-15"
+last_updated: "2010-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029324"
 soort: "wet"
@@ -54,7 +54,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
-Wijzigt de Wet op de loonbelasting 1964.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IIIA
 
@@ -62,31 +62,31 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V
 
-Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI
 
-Wijzigt de Successiewet 1956.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VII
 
-Wijzigt de Natuurschoonwet 1928.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIII
 
-Wijzigt de Wet op de omzetbelasting 1968.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX
 
-Wijzigt de Wet op de accijns.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel X
 
-Wijzigt de Wet op belastingen van rechtsverkeer.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XA
 
@@ -98,7 +98,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XC
 
-Wijzigt de Wet belastingen op milieugrondslag.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XI
 
@@ -106,15 +106,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XII
 
-Wijzigt de Algemene wet inzake rijksbelastingen.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIII
 
-Wijzigt de Invorderingswet 1990.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIIIA
 
-Wijzigt de Algemene wet inkomensafhankelijke regelingen.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIV
 
@@ -130,7 +130,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVB
 
-Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVI
 
@@ -138,7 +138,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Belastingplan 2008.
 
 ##### Artikel XVIII
 
@@ -146,15 +146,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIX
 
-Wijzigt de Wijzigingswet Successiewet 1956, enz. (vereenvoudiging bedrijfsopvolgingsregeling en herziening tariefstructuur, alsmede introductie van een regeling voor afgezonderd particulier vermogen).
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XX
 
-Wijzigt het Belastingplan 2010.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXI
 
-Wijzigt de Overige fiscale maatregelen 2010.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXII
 
@@ -166,11 +166,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXIV
 
-[Artikel 3.119a, vijfde lid, onderdeel c, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119a), zoals dit luidde op 31 december 2009, blijft van toepassing op eigenwoningreserves als bedoeld in artikel 3.119a, vierde lid, van de Wet inkomstenbelasting 2001 die als gevolg van de toepassing van artikel 3.119a, tweede lid, van die wet, zoals dit luidde op 31 december 2009, of als gevolg van de toepassing van [artikel XXVIB van de Fiscale vereenvoudigingswet 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=XXVIb), zijn blijven bestaan.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXIVA
 
-De termijn van vier jaar, genoemd in [artikel 32, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=32), wordt voor in de kalenderjaren 2006 tot en met 2009 op de voet van een spaarloonregeling als bedoeld in die bepaling gespaard loon vervangen door een termijn die eindigt op 15 september 2010.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXV
 
