@@ -93,25 +93,3 @@ Deze regeling treedt in werking met ingang van 31 december 2010. Indien de Staat
 Deze regeling wordt aangehaald als: Regeling aanwijzing toezichthoudende ambtenaren Inspectie Verkeer en Waterstaat op het domein scheepvaart.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-Deze regeling – voor zover die berustte op de [Zeevaartbemanningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0009124) – berust op [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=49), en [artikel 55, onderdeel b, van de Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=55).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2b
-
-Deze regeling – voor zover die berustte op de [Wet scheepsuitrusting](https://wetten.overheid.nl/jci1.3:c:BWBR0011301) – berust mede op [artikel 16 van de Wet scheepsuitrusting 2016](543459).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2c
-
-Dit onderdeel is nog niet inwerking getreden
-
-##### Artikel 2c*
-
-Dit besluit berust mede op [artikel 8a.3, eerste lid, van de Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&artikel=8a.3).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
