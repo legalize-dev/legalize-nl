@@ -4,7 +4,7 @@ identifier: "BWBR0017136"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-06-01"
-last_updated: "2007-01-02"
+last_updated: "2010-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017136"
 soort: "AMvB"
@@ -134,17 +134,17 @@ Op de voorbereiding van het havenafvalplan is [afdeling 3.4 van de Algemene wet 
 
 1. Indien naar het oordeel van de kapitein havenontvangstvoorzieningen ontoereikend zijn, kan hij of zijn vertegenwoordiger dit aan de desbetreffende havenbeheerder melden.
 
-2. De havenbeheerder registreert de melding, voorziet deze van de datum van ontvangst en zendt een afschrift van de melding aan de inspecteur-generaal.
+2. De havenbeheerder registreert de melding, voorziet deze van de datum van ontvangst en zendt een afschrift van de melding aan Onze Minister.
 
 3. De beheerder stelt de kapitein of zijn vertegenwoordiger schriftelijk en gemotiveerd in kennis van de bevindingen van het onderzoek naar aanleiding van de melding, alsmede van de eventuele conclusies die hij daaraan verbindt.
 
-4. De beheerder doet de inspecteur-generaal een afschrift toekomen van het geschrift, bedoeld in het derde lid.
+4. De beheerder doet Onze Minister een afschrift toekomen van het geschrift, bedoeld in het derde lid.
 
 5. Bij regeling van Onze Minister wordt een formulier vastgesteld waarmee de melding, bedoeld in het eerste lid, wordt gedaan.
 
-6. Meldingen over de vermeende ontoereikendheid van in Nederland aanwezige havenontvangstvoorzieningen die vanwege het secretariaat van de Internationale Maritieme Organisatie aan Nederland worden doorgeleid worden in ontvangst genomen door de inspecteur-generaal. De inspecteur-generaal voorziet de melding van de datum van ontvangst en zendt een afschrift van de melding aan de havenbeheerder. De havenbeheerder zendt de inspecteur-generaal een schriftelijke en gemotiveerde reactie op deze melding. De inspecteur-generaal draagt zorg voor de verzending van een afschrift van deze reactie aan het secretariaat van de Internationale Maritieme Organisatie.
+6. Meldingen over de vermeende ontoereikendheid van in Nederland aanwezige havenontvangstvoorzieningen die vanwege het secretariaat van de Internationale Maritieme Organisatie aan Nederland worden doorgeleid worden in ontvangst genomen door Onze Minister. Onze Minister voorziet de melding van de datum van ontvangst en zendt een afschrift van de melding aan de havenbeheerder. De havenbeheerder zendt Onze Minister een schriftelijke en gemotiveerde reactie op deze melding. Onze Minister draagt zorg voor de verzending van een afschrift van deze reactie aan het secretariaat van de Internationale Maritieme Organisatie.
 
-7. De inspecteur-generaal is belast met het verzenden van de afschriften, bedoeld in artikel 12, eerste lid, onder f, van de richtlijn.
+7. Onze Minister is belast met het verzenden van de afschriften, bedoeld in artikel 12, eerste lid, onder f, van de richtlijn.
 
 #### § 5. Indirecte financiering pleziervaartuigen en vissersvaartuigen
 
