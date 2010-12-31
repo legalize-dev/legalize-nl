@@ -4,7 +4,7 @@ identifier: "BWBR0002741"
 country: "nl"
 rank: "amvb"
 publication_date: "2010-12-31"
-last_updated: "2007-11-23"
+last_updated: "2010-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002741"
 soort: "AMvB"
@@ -62,7 +62,7 @@ Als dagboek mag alleen een deugdelijk uitgevoerd boek van stevig papier worden g
 
 - c. een model voor een dagboek voor zeevissers- en kustvissersschepen.
 
-2. In de dagboeken mogen afwijkingen van het vastgestelde model worden aangebracht, mits dientengevolge de aard van het boek naar het oordeel van de inspecteur-generaal van de Inspectie Verkeer en Waterstaat niet te veel verandert.
+2. In de dagboeken mogen afwijkingen van het vastgestelde model worden aangebracht, mits dientengevolge de aard van het boek naar het oordeel van Onze Minister van Verkeer en Waterstaat niet te veel verandert.
 
 ##### Artikel 4
 
