@@ -4,7 +4,7 @@ identifier: "BWBR0017718"
 country: "nl"
 rank: "wet"
 publication_date: "2010-12-31"
-last_updated: "2009-07-01"
+last_updated: "2010-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017718"
 soort: "wet"
@@ -42,6 +42,8 @@ Alzo Wij in overweging genomen hebben, dat het, gelet op [richtlijn nr. 2001/96/
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
+De datum van inwerkingtreding is vastgesteld onder toepassing van artikel 16 van de Tijdelijke referendumwet.
+
 ### Hoofdstuk 1. Inleidende bepalingen
 
 ##### Artikel 1
@@ -74,17 +76,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - j. ISO: Internationale Organisatie voor Standaardisatie;
 
-- k. laad- of losplan: het plan, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=2&paragraaf=2&artikel=9&z=2009-07-01&g=2009-07-01);
+- k. laad- of losplan: het plan, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=2&paragraaf=2&artikel=9&z=2010-12-31&g=2010-12-31);
 
-- l. toezichthouder: degene die, tenzij anders is bepaald, krachtens [artikel 15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=3&artikel=15&z=2009-07-01&g=2009-07-01), is aangewezen, voorzover hij een taak uitoefent waarmee hij is belast;
+- l. toezichthouder: degene die, tenzij anders is bepaald, krachtens [artikel 15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=3&artikel=15&z=2010-12-31&g=2010-12-31), is aangewezen, voorzover hij een taak uitoefent waarmee hij is belast;
 
 - m. klassenbureau: rechtspersoon die gemachtigd is om namens de vlaggenstaat onderzoeken te verrichten ten behoeve van de certificering van een schip;
 
 - n. inspecteur-generaal: inspecteur-generaal van de Inspectie Verkeer en Waterstaat;
 
-- o. divisie Scheepvaart: divisie Scheepvaart van de Inspectie Verkeer en Waterstaat;
-
-- p. ambtenaar van de divisie Scheepvaart: een door de inspecteur-generaal aangewezen ambtenaar van de divisie Scheepvaart.
+- o. ambtenaren van de Inspectie Verkeer en Waterstaat: de door Onze Minister aangewezen ambtenaren van de Inspectie Verkeer en Waterstaat.
 
 2. In deze wet en de daarop berustende bepalingen wordt, tenzij daarin anders is bepaald, onder graan mede verstaan: tarwe, mais, haver, rogge, gerst, rijst, peulvruchten, zaden en hun bewerkte vormen, waarvan het gedrag gelijk is aan dat van graan in onbewerkte staat.
 
@@ -186,23 +186,23 @@ Het laad- of losplan en eventuele naderhand overeengekomen wijzigingen worden do
 
 ##### Artikel 13
 
-De terminalvertegenwoordiger stelt de toezichthouder, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=3&artikel=15&z=2009-07-01&g=2009-07-01), en de kapitein terstond in kennis van door hem aan boord van een bulkschip vastgestelde tekortkomingen waardoor de veiligheid van het laden of lossen van vaste bulklading in gevaar kan komen.
+De terminalvertegenwoordiger stelt de toezichthouder, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=3&artikel=15&z=2010-12-31&g=2010-12-31), en de kapitein terstond in kennis van door hem aan boord van een bulkschip vastgestelde tekortkomingen waardoor de veiligheid van het laden of lossen van vaste bulklading in gevaar kan komen.
 
 ##### Artikel 14
 
 1. Wanneer de structuur of de uitrusting van het bulkschip tijdens het laden of lossen wordt beschadigd, wordt deze schade door de terminalvertegenwoordiger aan de kapitein gemeld en zo nodig gerepareerd.
 
-2. Wanneer de schade, bedoeld in het eerste lid, voor de stevigheid van de constructie, voor de waterdichtheid van de romp of voor de essentiële technische installaties van het bulkschip nadelige gevolgen kan hebben, worden de bevoegde autoriteiten van de desbetreffende vlaggenstaat of het betrokken klassenbureau, en de toezichthouder, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=3&artikel=15&z=2009-07-01&g=2009-07-01), daarvan door de kapitein of de terminalvertegenwoordiger op de hoogte gebracht.
+2. Wanneer de schade, bedoeld in het eerste lid, voor de stevigheid van de constructie, voor de waterdichtheid van de romp of voor de essentiële technische installaties van het bulkschip nadelige gevolgen kan hebben, worden de bevoegde autoriteiten van de desbetreffende vlaggenstaat of het betrokken klassenbureau, en de toezichthouder, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=3&artikel=15&z=2010-12-31&g=2010-12-31), daarvan door de kapitein of de terminalvertegenwoordiger op de hoogte gebracht.
 
 3. Zodra de terminalvertegenwoordiger of de kapitein aan de ingevolge het tweede lid op hem rustende verplichting heeft voldaan, is die verplichting voor de ander opgeheven.
 
-4. De toezichthouder, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=3&artikel=15&z=2009-07-01&g=2009-07-01), beslist of de schade, bedoeld in het tweede lid, onverwijld moet worden gerepareerd, waarbij hij rekening houdt met het eventuele advies van de bevoegde autoriteiten van de vlaggenstaat of het betrokken klassenbureau, en met dat van de kapitein.
+4. De toezichthouder, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=3&artikel=15&z=2010-12-31&g=2010-12-31), beslist of de schade, bedoeld in het tweede lid, onverwijld moet worden gerepareerd, waarbij hij rekening houdt met het eventuele advies van de bevoegde autoriteiten van de vlaggenstaat of het betrokken klassenbureau, en met dat van de kapitein.
 
 ### Hoofdstuk 3. Toezicht
 
 ##### Artikel 15
 
-1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de ambtenaren van de divisie Scheepvaart.
+1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de ambtenaren van de Inspectie Verkeer en Waterstaat.
 
 2. Met het toezicht op de naleving, bedoeld in het eerste lid, zijn tevens belast de bij besluit van Onze Minister voor bepaalde taken aangewezen ambtenaren van andere diensttakken. Indien de aanwijzing ambtenaren betreft, ressorterende onder een ander ministerie dan dat van Onze Minister, wordt het desbetreffende besluit genomen in overeenstemming met Onze Minister wie het mede aangaat.
 
@@ -216,7 +216,7 @@ De terminalvertegenwoordiger stelt de toezichthouder, bedoeld in [artikel 15, ee
 
 1. De toezichthouder zet het laden of lossen van vaste bulklading stop indien hij duidelijke aanwijzingen heeft dat de veiligheid van het bulkschip of de bemanning door de laad- of loshandelingen in gevaar zou worden gebracht.
 
-2. De toezichthouder kan het laden of lossen van vaste bulklading stopzetten ter handhaving van het verbod, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=4&artikel=19&z=2009-07-01&g=2009-07-01), een verbod als bedoeld in [artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=6&artikel=24&z=2009-07-01&g=2009-07-01), of indien een aanwijzing als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=6&artikel=22&z=2009-07-01&g=2009-07-01) niet wordt opgevolgd.
+2. De toezichthouder kan het laden of lossen van vaste bulklading stopzetten ter handhaving van het verbod, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=4&artikel=19&z=2010-12-31&g=2010-12-31), een verbod als bedoeld in [artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=6&artikel=24&z=2010-12-31&g=2010-12-31), of indien een aanwijzing als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=6&artikel=22&z=2010-12-31&g=2010-12-31) niet wordt opgevolgd.
 
 3. De toezichthouder heft de stopzetting van het laden of lossen op grond van het eerste lid op indien de veiligheid van het bulkschip of de bemanning door de laad- of loshandelingen niet meer in gevaar zal worden gebracht.
 
@@ -224,7 +224,7 @@ De terminalvertegenwoordiger stelt de toezichthouder, bedoeld in [artikel 15, ee
 
 ##### Artikel 17
 
-1. De toezichthouder, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=3&artikel=15&z=2009-07-01&g=2009-07-01), kan een bulkschip aanhouden, indien schade die tijdens het laden of lossen van vaste bulklading is ontstaan de veiligheid van het bulkschip of de bemanning in gevaar zou kunnen brengen.
+1. De toezichthouder, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=3&artikel=15&z=2010-12-31&g=2010-12-31), kan een bulkschip aanhouden, indien schade die tijdens het laden of lossen van vaste bulklading is ontstaan de veiligheid van het bulkschip of de bemanning in gevaar zou kunnen brengen.
 
 2. De toezichthouder heft de aanhouding op indien de schade zodanig is gerepareerd dat de veiligheid van het bulkschip of de bemanning niet meer in gevaar zal worden gebracht.
 
@@ -242,7 +242,7 @@ De terminalvertegenwoordiger stelt de toezichthouder, bedoeld in [artikel 15, ee
 
 ##### Artikel 19
 
-1. Het is de terminalexploitant verboden om bulkschepen in zijn terminal te laden of te lossen zonder aan de bij of krachtens de [artikelen 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=2&paragraaf=1&artikel=3&z=2009-07-01&g=2009-07-01) op hem rustende verplichtingen te voldoen.
+1. Het is de terminalexploitant verboden om bulkschepen in zijn terminal te laden of te lossen zonder aan de bij of krachtens de [artikelen 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=2&paragraaf=1&artikel=3&z=2010-12-31&g=2010-12-31) op hem rustende verplichtingen te voldoen.
 
 2. Indien het laden of lossen is stopgezet, is het de kapitein, de terminalvertegenwoordiger en -exploitant verboden om het laden of lossen voort te zetten, dan wel het laden of lossen, zolang de stopzetting niet is opgeheven, te hervatten.
 
@@ -264,17 +264,17 @@ De terminalvertegenwoordiger stelt de toezichthouder, bedoeld in [artikel 15, ee
 
 ##### Artikel 21
 
-1. Onze Minister verleent op aanvraag voor ten hoogste twaalf maanden ontheffing van de verplichting, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=2&paragraaf=1&artikel=5&z=2009-07-01&g=2009-07-01) ten behoeve van een terminal die na 5 februari 2005 in werking wordt genomen, indien de terminalexploitant voldoende heeft aangetoond voornemens te zijn in die terminal een kwaliteitszorgsysteem als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=2&paragraaf=1&artikel=5&z=2009-07-01&g=2009-07-01), in te voeren.
+1. Onze Minister verleent op aanvraag voor ten hoogste twaalf maanden ontheffing van de verplichting, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=2&paragraaf=1&artikel=5&z=2010-12-31&g=2010-12-31) ten behoeve van een terminal die na 5 februari 2005 in werking wordt genomen, indien de terminalexploitant voldoende heeft aangetoond voornemens te zijn in die terminal een kwaliteitszorgsysteem als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=2&paragraaf=1&artikel=5&z=2010-12-31&g=2010-12-31), in te voeren.
 
 2. In aanvulling op [artikel 4.2, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:2) kunnen bij ministeriële regeling regels worden gesteld met betrekking tot de aanvraagprocedure.
 
 ##### Artikel 22
 
-De toezichthouder, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=3&artikel=15&z=2009-07-01&g=2009-07-01), kan een aanwijzing geven aan de terminalvertegenwoordiger en de kapitein over de toepassing van de [artikelen 9 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=2&paragraaf=2&artikel=9&z=2009-07-01&g=2009-07-01).
+De toezichthouder, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=3&artikel=15&z=2010-12-31&g=2010-12-31), kan een aanwijzing geven aan de terminalvertegenwoordiger en de kapitein over de toepassing van de [artikelen 9 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=2&paragraaf=2&artikel=9&z=2010-12-31&g=2010-12-31).
 
 ##### Artikel 23
 
-1. De kosten die samenhangen met de behandeling van de aanvraag en de afgifte van de ontheffing, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=6&artikel=21&z=2009-07-01&g=2009-07-01), of een ontheffing als bedoeld in [artikel 24, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=6&artikel=24&z=2009-07-01&g=2009-07-01), alsmede duplicaten en gewaarmerkte afschriften van een ontheffing, worden ten laste gebracht van de aanvrager van de ontheffing.
+1. De kosten die samenhangen met de behandeling van de aanvraag en de afgifte van de ontheffing, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=6&artikel=21&z=2010-12-31&g=2010-12-31), of een ontheffing als bedoeld in [artikel 24, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=6&artikel=24&z=2010-12-31&g=2010-12-31), alsmede duplicaten en gewaarmerkte afschriften van een ontheffing, worden ten laste gebracht van de aanvrager van de ontheffing.
 
 2. De tarieven ter vergoeding van de kosten worden bij ministeriële regeling vastgesteld.
 
@@ -304,7 +304,7 @@ Een wijziging van het SOLAS-verdrag gaat voor de toepassing van deze wet gelden 
 
 ##### Artikel 26
 
-Aan [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=2&paragraaf=1&artikel=5&z=2009-07-01&g=2009-07-01), wordt:
+Aan [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&hoofdstuk=2&paragraaf=1&artikel=5&z=2010-12-31&g=2010-12-31), wordt:
 
 - a. wat betreft de ontwikkeling en toepassing van het kwaliteitszorgsysteem uiterlijk met ingang van 5 februari 2005 voldaan;
 
