@@ -4,7 +4,7 @@ identifier: "BWBR0002668"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-01"
-last_updated: "2010-11-16"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002668"
 soort: "AMvB"
@@ -167,11 +167,11 @@ Het bij of krachtens de [artikelen 1, derde lid](https://wetten.overheid.nl/jci1
 
 - j. in gevallen, waarin een met toepassing van het tweede lid aangewezen land als eerste bij de verzending is betrokken: de door de bevoegde autoriteit van dat land afgegeven certificaten van goedkeuring van verzending, bedoeld in 5.1.5.3.1(c) en 5.1.5.3.1(b) van [bijlage 1 bij de VSG](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1);
 
-- k. naam en adres van degene, die de verzekering of andere financiële zekerheid, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=1&paragraaf=1&artikel=4&z=2010-11-16&g=2010-11-16), zal verstrekken;
+- k. naam en adres van degene, die de verzekering of andere financiële zekerheid, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=1&paragraaf=1&artikel=4&z=2011-01-01&g=2011-01-01), zal verstrekken;
 
 - l. in voorkomend geval een nauwkeurige aanduiding van de plaats of de plaatsen, waar opslag van de betrokken splijtstoffen in verband met het vervoer zal plaatsvinden;
 
-- m. indien een vergunning wordt aangevraagd voor een handeling die overeenkomstig de krachtens [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=I&artikel=1b&z=2010-11-16&g=2010-11-16), in samenhang met [artikel 4, tweede lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=4), geldende regeling als gerechtvaardigd is bekendgemaakt, een verwijzing naar die bekendmaking;
+- m. indien een vergunning wordt aangevraagd voor een handeling die overeenkomstig de krachtens [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=I&artikel=1b&z=2011-01-01&g=2011-01-01), in samenhang met [artikel 4, tweede lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=4), geldende regeling als gerechtvaardigd is bekendgemaakt, een verwijzing naar die bekendmaking;
 
 - n. een opgave van alle handelingen en werkzaamheden met splijtstoffen, ertsen, radioactieve stoffen en toestellen binnen de locatie die meldingsplichtig of vergunningplichtig zijn krachtens dit besluit, het [Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702) of het [Besluit kerninstallaties, splijtstoffen en ertsen](https://wetten.overheid.nl/jci1.3:c:BWBR0002667).
 
@@ -179,31 +179,19 @@ Het bij of krachtens de [artikelen 1, derde lid](https://wetten.overheid.nl/jci1
 
 Uitsluitend aangewezen kunnen worden landen die naar het oordeel van Onze voornoemde Ministers toepassing geven aan de ter zake door de Internationale Atoomorganisatie gedane aanbevelingen.
 
-3. Indien een vergunning wordt aangevraagd voor een handeling die niet of als niet-gerechtvaardigd is bekendgemaakt overeenkomstig de krachtens [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=I&artikel=1b&z=2010-11-16&g=2010-11-16), in samenhang met [artikel 4, tweede lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=4) geldende regeling, omvat de aanvraag om een vergunning tevens een verzoek om rechtvaardiging van die handeling. De aanvraag om de vergunning bevat dan tevens de gegevens met betrekking tot de economische, sociale en andere voordelen van de betrokken handeling en met betrekking tot de gezondheidsschade die erdoor kan worden toegebracht, die nodig zijn met het oog op de beoordeling van de gerechtvaardigdheid van de handeling.
+3. Indien een vergunning wordt aangevraagd voor een handeling die niet of als niet-gerechtvaardigd is bekendgemaakt overeenkomstig de krachtens [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=I&artikel=1b&z=2011-01-01&g=2011-01-01), in samenhang met [artikel 4, tweede lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=4) geldende regeling, omvat de aanvraag om een vergunning tevens een verzoek om rechtvaardiging van die handeling. De aanvraag om de vergunning bevat dan tevens de gegevens met betrekking tot de economische, sociale en andere voordelen van de betrokken handeling en met betrekking tot de gezondheidsschade die erdoor kan worden toegebracht, die nodig zijn met het oog op de beoordeling van de gerechtvaardigdheid van de handeling.
 
 ##### Artikel 4
 
 1. Aan een vergunning voor het vervoeren van plutonium of verrijkt uranium bevattende splijtstoffen of voor het voorhanden hebben van genoemde stoffen bij opslag in verband met het vervoer wordt met het oog op het zeker stellen van de betaling van de vergoeding, aan derden toekomende voor schade, hun toegebracht, het voorschrift verbonden, dat het vervoer over, of het voorhanden hebben binnen Nederlands grondgebied slechts mag geschieden, indien degene, die voor schade als bedoeld in een bijzondere wettelijke regeling van de aansprakelijkheid op het gebied van de kernenergie, veroorzaakt tijdens het vervoer of de opslag van de splijtstoffen, aansprakelijk kan zijn, ter dekking van die aansprakelijkheid beschikt over een verzekering of andere financiële zekerheid als in die wettelijke regeling bedoeld of over een door Onze Minister van Financiën goedgekeurde verzekering of andere financiële zekerheid, welke niet meer behoeft te bedragen dan € 195 125 492,92.
 
-2. Het vervoeren van plutonium of verrijkt uranium bevattende splijtstoffen over, en het voorhanden hebben van genoemde stoffen bij opslag in verband met het vervoer binnen Nederlands grondgebied, waarvoor ingevolge dit besluit het in [artikel 15, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=4&paragraaf=2&artikel=15&z=2010-11-16&g=2010-11-16), van de wet vervatte verbod niet geldt, mogen slechts geschieden, indien degene, die voor schade als bedoeld in een bijzondere wettelijke regeling van de aansprakelijkheid op het gebied van de kernenergie, veroorzaakt tijdens het vervoer of de opslag van de splijtstoffen, aansprakelijk kan zijn, ter dekking van die aansprakelijkheid beschikt over een verzekering of andere financiële zekerheid als in die bijzondere wettelijke regeling bedoeld of over een door Onze Minister van Financiën goedgekeurde verzekering of andere financiële zekerheid, welke niet meer behoeft te bedragen dan € 195 125 492,92.
+2. Het vervoeren van plutonium of verrijkt uranium bevattende splijtstoffen over, en het voorhanden hebben van genoemde stoffen bij opslag in verband met het vervoer binnen Nederlands grondgebied, waarvoor ingevolge dit besluit het in [artikel 15, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=4&paragraaf=2&artikel=15&z=2011-01-01&g=2011-01-01), van de wet vervatte verbod niet geldt, mogen slechts geschieden, indien degene, die voor schade als bedoeld in een bijzondere wettelijke regeling van de aansprakelijkheid op het gebied van de kernenergie, veroorzaakt tijdens het vervoer of de opslag van de splijtstoffen, aansprakelijk kan zijn, ter dekking van die aansprakelijkheid beschikt over een verzekering of andere financiële zekerheid als in die bijzondere wettelijke regeling bedoeld of over een door Onze Minister van Financiën goedgekeurde verzekering of andere financiële zekerheid, welke niet meer behoeft te bedragen dan € 195 125 492,92.
 
 3. Het eerste en tweede lid gelden niet voor het vervoeren en het voorhanden hebben van de daargenoemde stoffen van een verrijkingsgraad of in hoeveelheden, waarop de daarbedoelde wettelijke regeling niet van toepassing is.
 
 ##### Artikel 4a
 
-Aan een vergunning voor het vervoeren en het voorhanden hebben bij opslag in verband met het vervoer van splijtstoffen worden voorschriften verbonden als bedoeld in bijlage I bij het Verdrag inzake fysieke beveiliging van kernmateriaal (Trb. 1981, 7), indien het betreft:
-
-- a. onbestraald plutonium in hoeveelheden van meer dan 15 gram, tenzij het gehalte aan plutonium-238 meer bedraagt dan 80%;
-
-- b. onbestraald uranium, verrijkt tot 20% uranium-235 of meer, in hoeveelheden van meer dan 15 gram;
-
-- c. onbestraald uranium, verrijkt tot 10% uranium-235, maar tot minder dan 20%, in hoeveelheden van meer dan 1 kilogram;
-
-- d. onbestraald uranium, verrijkt tot boven het natuurlijk gehalte, maar tot minder dan 10% uranium-235, in hoeveelheden van meer dan 10 kilogram;
-
-- e. onbestraald uranium-233 in hoeveelheden van meer dan 15 gram;
-
-- f. bestraalde splijtstoffen.
+Vervallen
 
 ##### Artikel 4b
 
@@ -213,7 +201,7 @@ Met betrekking tot het vervoer van splijtstoffen of ertsen over de spoorweg, ove
 
 ##### Artikel 5
 
-1. Het in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=III&paragraaf=2&artikel=29&z=2010-11-16&g=2010-11-16), van de wet vervatte verbod zonder vergunning radioactieve stoffen te vervoeren of voorhanden te hebben geldt voor het vervoeren en het voorhanden hebben bij opslag in verband met het vervoer van stoffen in colli van het type B(M) als bedoeld in hoofdstuk 6.4 van [bijlage 1 bij de VSG](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1), tenzij het model van het collo voldoet aan de eisen met betrekking tot type B(M) zonder voortdurende druknivellering, gesteld in 6.4.9.1 en 6.4.7.5 van [bijlage 1 bij de VSG](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1), en
+1. Het in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=III&paragraaf=2&artikel=29&z=2011-01-01&g=2011-01-01), van de wet vervatte verbod zonder vergunning radioactieve stoffen te vervoeren of voorhanden te hebben geldt voor het vervoeren en het voorhanden hebben bij opslag in verband met het vervoer van stoffen in colli van het type B(M) als bedoeld in hoofdstuk 6.4 van [bijlage 1 bij de VSG](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1), tenzij het model van het collo voldoet aan de eisen met betrekking tot type B(M) zonder voortdurende druknivellering, gesteld in 6.4.9.1 en 6.4.7.5 van [bijlage 1 bij de VSG](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1), en
 
 - a. de activiteit van de radioactieve stoffen niet meer bedraagt dan aangegeven in 5.1.5.2.2 van [bijlage 1 bij de VSG](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1), dan wel
 
@@ -229,17 +217,17 @@ Met betrekking tot het vervoer van splijtstoffen of ertsen over de spoorweg, ove
 
 De aanvraag om een vergunning voor het vervoeren van radioactieve stoffen en voor het voorhanden hebben van genoemde stoffen bij opslag in verband met het vervoer bevat de volgende gegevens:
 
-- a. de gegevens, bedoeld in [artikel 3, eerste lid, onder a tot en met g en l tot en met n, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=1&paragraaf=1&artikel=3&z=2010-11-16&g=2010-11-16), met dien verstande dat telkens in plaats van «splijtstoffen» wordt gelezen: «radioactieve stoffen» en in plaats van «handeling»: «handeling of werkzaamheid»;
+- a. de gegevens, bedoeld in [artikel 3, eerste lid, onder a tot en met g en l tot en met n, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=1&paragraaf=1&artikel=3&z=2011-01-01&g=2011-01-01), met dien verstande dat telkens in plaats van «splijtstoffen» wordt gelezen: «radioactieve stoffen» en in plaats van «handeling»: «handeling of werkzaamheid»;
 
-- b. in een geval als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=1&paragraaf=2&artikel=5&z=2010-11-16&g=2010-11-16):
+- b. in een geval als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=1&paragraaf=2&artikel=5&z=2011-01-01&g=2011-01-01):
 
-- 1°. een afschrift van certificaten van goedkeuring of erkenning van het model van de te vervoeren colli als bedoeld in 5.1.5.3.1 van [bijlage 1 bij de VSG](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1), afgegeven door Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Sociale Zaken en Werkgelegenheid dan wel door de bevoegde autoriteit van een ander, met overeenkomstige toepassing van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=1&paragraaf=1&artikel=3&z=2010-11-16&g=2010-11-16), aangewezen land,
+- 1°. een afschrift van certificaten van goedkeuring of erkenning van het model van de te vervoeren colli als bedoeld in 5.1.5.3.1 van [bijlage 1 bij de VSG](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1), afgegeven door Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Sociale Zaken en Werkgelegenheid dan wel door de bevoegde autoriteit van een ander, met overeenkomstige toepassing van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=1&paragraaf=1&artikel=3&z=2011-01-01&g=2011-01-01), aangewezen land,
 
 - 2°. de gegevens, bedoeld in 6.4.23.2(c) van [bijlage 1 bij de VSG](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1);
 
-- c. in een geval als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=1&paragraaf=2&artikel=5&z=2010-11-16&g=2010-11-16): de gegevens, bedoeld in 6.4.23.3 van [bijlage 1 bij de VSG](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1);
+- c. in een geval als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=1&paragraaf=2&artikel=5&z=2011-01-01&g=2011-01-01): de gegevens, bedoeld in 6.4.23.3 van [bijlage 1 bij de VSG](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1);
 
-- d. in gevallen, waarin een met overeenkomstige toepassing van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=1&paragraaf=1&artikel=3&z=2010-11-16&g=2010-11-16), aangewezen land als eerste bij de verzending is betrokken: de door de bevoegde autoriteiten van dat land afgegeven certificaten van goedkeuring van de verzending, bedoeld in 5.1.5.3.1(c) en 5.1.5.3.1(b) van [bijlage 1 bij de VSG](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1).
+- d. in gevallen, waarin een met overeenkomstige toepassing van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=1&paragraaf=1&artikel=3&z=2011-01-01&g=2011-01-01), aangewezen land als eerste bij de verzending is betrokken: de door de bevoegde autoriteiten van dat land afgegeven certificaten van goedkeuring van de verzending, bedoeld in 5.1.5.3.1(c) en 5.1.5.3.1(b) van [bijlage 1 bij de VSG](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1).
 
 ##### Artikel 6a
 
@@ -283,9 +271,9 @@ Met betrekking tot het vervoer van radioactieve stoffen over de spoorweg, over l
 
 ##### Artikel 9
 
-1. Aan een vergunning voor het vervoeren van radioactieve stoffen over de spoorweg of voor het voorhanden hebben van genoemde stoffen bij opslag in verband met zodanig vervoer worden ter voorkoming van schade voorschriften verbonden als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=7&z=2010-11-16&g=2010-11-16).
+1. Aan een vergunning voor het vervoeren van radioactieve stoffen over de spoorweg of voor het voorhanden hebben van genoemde stoffen bij opslag in verband met zodanig vervoer worden ter voorkoming van schade voorschriften verbonden als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=7&z=2011-01-01&g=2011-01-01).
 
-2. Tot de in het eerste lid bedoelde voorschriften kunnen behoren voorschriften als bedoeld in [artikel 7, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=7&z=2010-11-16&g=2010-11-16).
+2. Tot de in het eerste lid bedoelde voorschriften kunnen behoren voorschriften als bedoeld in [artikel 7, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=7&z=2011-01-01&g=2011-01-01).
 
 ##### Artikel 10
 
@@ -293,7 +281,7 @@ Met betrekking tot het vervoer van radioactieve stoffen over de spoorweg, over l
 
 2. Bij het voorhanden hebben van radioactieve stoffen bij opslag in verband met het vervoer over de spoorweg dienen, onverminderd de bepalingen, welke terzake gelden ingevolge het eerste lid, eerste volzin, zodanige maatregelen te worden genomen, dat schade, zo veel als redelijkerwijs mogelijk is, wordt voorkomen. Daarbij moet worden voldaan aan nadere eisen, gesteld door een door Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer aangewezen instantie.
 
-3. Ten aanzien van de in het eerste lid, eerste volzin, bedoelde bepalingen is [artikel 8, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=8&z=2010-11-16&g=2010-11-16), van overeenkomstige toepassing.
+3. Ten aanzien van de in het eerste lid, eerste volzin, bedoelde bepalingen is [artikel 8, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=8&z=2011-01-01&g=2011-01-01), van overeenkomstige toepassing.
 
 ### Afdeling 3. Vervoer over land, anders dan over de spoorweg
 
@@ -301,15 +289,15 @@ Met betrekking tot het vervoer van radioactieve stoffen over de spoorweg, over l
 
 ##### Artikel 11
 
-Ten aanzien van het vervoeren van splijtstoffen of ertsen over land, anders dan over de spoorweg, en het voorhanden hebben van genoemde stoffen bij opslag in verband met zodanig vervoer zijn de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=7&z=2010-11-16&g=2010-11-16) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=8&z=2010-11-16&g=2010-11-16) van overeenkomstige toepassing, met dien verstande dat in plaats van «VSG» telkens wordt gelezen: VLG.
+Ten aanzien van het vervoeren van splijtstoffen of ertsen over land, anders dan over de spoorweg, en het voorhanden hebben van genoemde stoffen bij opslag in verband met zodanig vervoer zijn de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=7&z=2011-01-01&g=2011-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=8&z=2011-01-01&g=2011-01-01) van overeenkomstige toepassing, met dien verstande dat in plaats van «VSG» telkens wordt gelezen: VLG.
 
 #### § 2. Radioactieve stoffen
 
 ##### Artikel 12
 
-1. Ten aanzien van het vervoeren van radioactieve stoffen over land, anders dan over de spoorweg, en het voorhanden hebben van genoemde stoffen bij opslag in verband met zodanig vervoer zijn de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=2&artikel=9&z=2010-11-16&g=2010-11-16) en [10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=2&artikel=10&z=2010-11-16&g=2010-11-16), van overeenkomstige toepassing, met dien verstande dat in plaats van «VSG» wordt gelezen: VLG.
+1. Ten aanzien van het vervoeren van radioactieve stoffen over land, anders dan over de spoorweg, en het voorhanden hebben van genoemde stoffen bij opslag in verband met zodanig vervoer zijn de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=2&artikel=9&z=2011-01-01&g=2011-01-01) en [10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=2&artikel=10&z=2011-01-01&g=2011-01-01), van overeenkomstige toepassing, met dien verstande dat in plaats van «VSG» wordt gelezen: VLG.
 
-2. Ten aanzien van de krachtens het eerste lid van toepassing zijnde bepalingen is [artikel 8, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=8&z=2010-11-16&g=2010-11-16), van overeenkomstige toepassing.
+2. Ten aanzien van de krachtens het eerste lid van toepassing zijnde bepalingen is [artikel 8, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=8&z=2011-01-01&g=2011-01-01), van overeenkomstige toepassing.
 
 ### Afdeling 4. Vervoer te water
 
@@ -317,11 +305,11 @@ Ten aanzien van het vervoeren van splijtstoffen of ertsen over land, anders dan 
 
 ##### Artikel 13
 
-Het in [artikel 15, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=4&paragraaf=2&artikel=15&z=2010-11-16&g=2010-11-16), van de wet vervatte verbod geldt niet voor het vervoeren van splijtstoffen over de Nederlandse territoriale zee of over niet-Nederlandse wateren.
+Het in [artikel 15, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=4&paragraaf=2&artikel=15&z=2011-01-01&g=2011-01-01), van de wet vervatte verbod geldt niet voor het vervoeren van splijtstoffen over de Nederlandse territoriale zee of over niet-Nederlandse wateren.
 
 ##### Artikel 14
 
-1. Ten aanzien van het vervoeren van splijtstoffen of ertsen naar en van zee of over zee zijn de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=7&z=2010-11-16&g=2010-11-16) en [8, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=8&z=2010-11-16&g=2010-11-16), van overeenkomstige toepassing met dien verstande dat:
+1. Ten aanzien van het vervoeren van splijtstoffen of ertsen naar en van zee of over zee zijn de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=7&z=2011-01-01&g=2011-01-01) en [8, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=8&z=2011-01-01&g=2011-01-01), van overeenkomstige toepassing met dien verstande dat:
 
 - a. telkens in plaats van "VSG" wordt gelezen: de International Maritime Dangerous Goods Code, bedoeld in hoofdstuk VII, deel A-1, van het op 1 november 1974 te Londen totstandgekomen Verdrag voor de beveiliging van mensenlevens op zee (Trb. 1976, 157) en de bij dat verdrag behorende bindende protocollen, aanhangsels en bijlagen;
 
@@ -331,25 +319,25 @@ Het in [artikel 15, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002668
 
 - 1°. hetzij door Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,
 
-- 2°. hetzij door de bevoegde autoriteit van een ander land, dat met overeenkomstige toepassing van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=1&paragraaf=1&artikel=3&z=2010-11-16&g=2010-11-16), is aangewezen en dat bij het vervoer betrokken is of waar het model is ontworpen;
+- 2°. hetzij door de bevoegde autoriteit van een ander land, dat met overeenkomstige toepassing van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=1&paragraaf=1&artikel=3&z=2011-01-01&g=2011-01-01), is aangewezen en dat bij het vervoer betrokken is of waar het model is ontworpen;
 
-- d. voor vervoer als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=4&paragraaf=1&artikel=13&z=2010-11-16&g=2010-11-16) met een schip onder Nederlandse vlag het bepaalde met betrekking tot de goedkeuring van de zending door de voor Nederland bevoegde autoriteit niet geldt;
+- d. voor vervoer als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=4&paragraaf=1&artikel=13&z=2011-01-01&g=2011-01-01) met een schip onder Nederlandse vlag het bepaalde met betrekking tot de goedkeuring van de zending door de voor Nederland bevoegde autoriteit niet geldt;
 
-- e. voor vervoer als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=4&paragraaf=1&artikel=13&z=2010-11-16&g=2010-11-16) met een schip onder vreemde vlag het bepaalde met betrekking tot de goedkeuring van de zending en van het model van de verpakking door de voor Nederland bevoegde autoriteit niet geldt.
+- e. voor vervoer als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=4&paragraaf=1&artikel=13&z=2011-01-01&g=2011-01-01) met een schip onder vreemde vlag het bepaalde met betrekking tot de goedkeuring van de zending en van het model van de verpakking door de voor Nederland bevoegde autoriteit niet geldt.
 
-2. Ten aanzien van het vervoeren van splijtstoffen of ertsen over de binnenwateren, anders dan van en naar zee, en het voorhanden hebben van genoemde stoffen bij opslag in verband met zodanig vervoer zijn de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=7&z=2010-11-16&g=2010-11-16) en [8, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=8&z=2010-11-16&g=2010-11-16), van overeenkomstige toepassing, met dien verstande, dat telkens in plaats van "VSG" wordt gelezen: VBG.
+2. Ten aanzien van het vervoeren van splijtstoffen of ertsen over de binnenwateren, anders dan van en naar zee, en het voorhanden hebben van genoemde stoffen bij opslag in verband met zodanig vervoer zijn de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=7&z=2011-01-01&g=2011-01-01) en [8, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=8&z=2011-01-01&g=2011-01-01), van overeenkomstige toepassing, met dien verstande, dat telkens in plaats van "VSG" wordt gelezen: VBG.
 
 #### § 1. Splijtstoffen en ertsen
 
 ##### Artikel 15
 
-Het in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=III&paragraaf=2&artikel=29&z=2010-11-16&g=2010-11-16), van de wet vervatte verbod zonder vergunning van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer radioactieve stoffen te vervoeren geldt, in afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=1&paragraaf=2&artikel=5&z=2010-11-16&g=2010-11-16), niet voor het vervoeren van radioactieve stoffen over de Nederlandse territoriale zee of over niet-Nederlandse wateren.
+Het in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=III&paragraaf=2&artikel=29&z=2011-01-01&g=2011-01-01), van de wet vervatte verbod zonder vergunning van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer radioactieve stoffen te vervoeren geldt, in afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=1&paragraaf=2&artikel=5&z=2011-01-01&g=2011-01-01), niet voor het vervoeren van radioactieve stoffen over de Nederlandse territoriale zee of over niet-Nederlandse wateren.
 
 ##### Artikel 16
 
-1. Ten aanzien van het vervoeren van radioactieve stoffen naar en van zee of over zee zijn de [artikelen 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=8&z=2010-11-16&g=2010-11-16), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=2&artikel=9&z=2010-11-16&g=2010-11-16) en [10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=2&artikel=10&z=2010-11-16&g=2010-11-16), van overeenkomstige toepassing met dien verstande dat:
+1. Ten aanzien van het vervoeren van radioactieve stoffen naar en van zee of over zee zijn de [artikelen 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=8&z=2011-01-01&g=2011-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=2&artikel=9&z=2011-01-01&g=2011-01-01) en [10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=2&artikel=10&z=2011-01-01&g=2011-01-01), van overeenkomstige toepassing met dien verstande dat:
 
-- a. in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=2&artikel=10&z=2010-11-16&g=2010-11-16), in plaats van "VSG" wordt gelezen: de International Maritime Dangerous Goods Code, bedoeld in hoofdstuk VII, deel A-1, van het op 1 november 1974 te Londen totstandgekomen Verdrag voor de beveiliging van mensenlevens op zee (Trb. 1976, 158) en de bij dat verdrag behorende bindende protocollen, aanhangsels en bijlagen;
+- a. in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=2&artikel=10&z=2011-01-01&g=2011-01-01), in plaats van "VSG" wordt gelezen: de International Maritime Dangerous Goods Code, bedoeld in hoofdstuk VII, deel A-1, van het op 1 november 1974 te Londen totstandgekomen Verdrag voor de beveiliging van mensenlevens op zee (Trb. 1976, 158) en de bij dat verdrag behorende bindende protocollen, aanhangsels en bijlagen;
 
 - b. voor de toepassing van de International Maritime Dangerous Goods Code voor Nederland als bevoegde autoriteit wordt aangemerkt Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
 
@@ -357,13 +345,13 @@ Het in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&
 
 - 1°. hetzij door Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,
 
-- 2°. hetzij door de bevoegde autoriteit van een ander land, dat met overeenkomstige toepassing van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=1&paragraaf=1&artikel=3&z=2010-11-16&g=2010-11-16), is aangewezen en dat bij het vervoer betrokken is of waar het model is ontworpen;
+- 2°. hetzij door de bevoegde autoriteit van een ander land, dat met overeenkomstige toepassing van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=1&paragraaf=1&artikel=3&z=2011-01-01&g=2011-01-01), is aangewezen en dat bij het vervoer betrokken is of waar het model is ontworpen;
 
-- d. voor vervoer als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=4&paragraaf=2&artikel=15&z=2010-11-16&g=2010-11-16) met een schip onder Nederlandse vlag het bepaalde met betrekking tot de goedkeuring van de zending door de voor Nederland bevoegde autoriteit niet geldt;
+- d. voor vervoer als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=4&paragraaf=2&artikel=15&z=2011-01-01&g=2011-01-01) met een schip onder Nederlandse vlag het bepaalde met betrekking tot de goedkeuring van de zending door de voor Nederland bevoegde autoriteit niet geldt;
 
-- e. voor vervoer als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=4&paragraaf=2&artikel=15&z=2010-11-16&g=2010-11-16) met een schip onder vreemde vlag het bepaalde met betrekking tot de goedkeuring van de zending en van het model van de verpakking door de voor Nederland bevoegde autoriteit niet geldt.
+- e. voor vervoer als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=4&paragraaf=2&artikel=15&z=2011-01-01&g=2011-01-01) met een schip onder vreemde vlag het bepaalde met betrekking tot de goedkeuring van de zending en van het model van de verpakking door de voor Nederland bevoegde autoriteit niet geldt.
 
-2. Ten aanzien van het vervoeren van radioactieve stoffen over de binnenwateren, anders dan van en naar zee, en het voorhanden hebben van genoemde stoffen bij opslag in verband met zodanig vervoer zijn de [artikelen 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=8&z=2010-11-16&g=2010-11-16), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=2&artikel=9&z=2010-11-16&g=2010-11-16) en [10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=2&artikel=10&z=2010-11-16&g=2010-11-16), van overeenkomstige toepassing met dien verstande dat in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=2&artikel=10&z=2010-11-16&g=2010-11-16), in plaats van "VSG" wordt gelezen: VBG.
+2. Ten aanzien van het vervoeren van radioactieve stoffen over de binnenwateren, anders dan van en naar zee, en het voorhanden hebben van genoemde stoffen bij opslag in verband met zodanig vervoer zijn de [artikelen 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=8&z=2011-01-01&g=2011-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=2&artikel=9&z=2011-01-01&g=2011-01-01) en [10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=2&artikel=10&z=2011-01-01&g=2011-01-01), van overeenkomstige toepassing met dien verstande dat in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=2&artikel=10&z=2011-01-01&g=2011-01-01), in plaats van "VSG" wordt gelezen: VBG.
 
 ### Afdeling 5. Vervoer in een luchtvaartuig
 
@@ -371,17 +359,17 @@ Het in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&
 
 ##### Artikel 17
 
-Het in [artikel 15, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=4&paragraaf=2&artikel=15&z=2010-11-16&g=2010-11-16), van de wet vervatte verbod geldt niet voor het vervoeren van splijtstoffen in een luchtvaartuig, waarbij geen landing op Nederlands grondgebied plaatsvindt.
+Het in [artikel 15, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=4&paragraaf=2&artikel=15&z=2011-01-01&g=2011-01-01), van de wet vervatte verbod geldt niet voor het vervoeren van splijtstoffen in een luchtvaartuig, waarbij geen landing op Nederlands grondgebied plaatsvindt.
 
 ##### Artikel 18
 
-1. Aan een vergunning voor het vervoeren van splijtstoffen in een luchtvaartuig of voor het voorhanden hebben van genoemde stoffen bij opslag in verband met zodanig vervoer worden ter voorkoming van schade voorschriften verbonden als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=7&z=2010-11-16&g=2010-11-16).
+1. Aan een vergunning voor het vervoeren van splijtstoffen in een luchtvaartuig of voor het voorhanden hebben van genoemde stoffen bij opslag in verband met zodanig vervoer worden ter voorkoming van schade voorschriften verbonden als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=7&z=2011-01-01&g=2011-01-01).
 
 2. Tot de in het eerste lid bedoelde voorschriften kunnen behoren:
 
 - a. het voorschrift dat bijlage 18 (annex 18) van het op 7 december 1944 te Chicago tot stand gekomen verdrag inzake de internationale burgerlijke luchtvaart (**Stb.** 1947, H 165) en de daarbij behorende technische voorschriften (Technical Instructions for the safe transport of dangerous goods by air), in acht dienen te worden genomen, met dien verstande dat voor de toepassing van die regels voor Nederland als bevoegde autoriteit wordt aangemerkt Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
 
-- b. voorschriften als bedoeld in [artikel 7, tweede lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=7&z=2010-11-16&g=2010-11-16).
+- b. voorschriften als bedoeld in [artikel 7, tweede lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=7&z=2011-01-01&g=2011-01-01).
 
 ##### Artikel 19
 
@@ -393,17 +381,17 @@ Het in [artikel 15, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002668
 
 - c. voor vervoer als bedoeld in artikel 17 in een niet-Nederlands luchtvaartuig het bepaalde met betrekking tot de goedkeuring van een zending of van het model van de verpakking door de voor Nederland bevoegde autoriteit niet geldt.
 
-2. Ten aanzien van de in het eerste lid bedoelde bepalingen is [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=8&z=2010-11-16&g=2010-11-16), van overeenkomstige toepassing.
+2. Ten aanzien van de in het eerste lid bedoelde bepalingen is [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=8&z=2011-01-01&g=2011-01-01), van overeenkomstige toepassing.
 
 #### § 1. Splijtstoffen en ertsen
 
 ##### Artikel 20
 
-Het in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=III&paragraaf=2&artikel=29&z=2010-11-16&g=2010-11-16), van de wet vervatte verbod zonder vergunning van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer radioactieve stoffen te vervoeren geldt, in afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=1&paragraaf=2&artikel=5&z=2010-11-16&g=2010-11-16), niet voor het vervoeren van radioactieve stoffen in een luchtvaartuig, waarbij geen landing op Nederlands grondgebied plaatsvindt.
+Het in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=III&paragraaf=2&artikel=29&z=2011-01-01&g=2011-01-01), van de wet vervatte verbod zonder vergunning van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer radioactieve stoffen te vervoeren geldt, in afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=1&paragraaf=2&artikel=5&z=2011-01-01&g=2011-01-01), niet voor het vervoeren van radioactieve stoffen in een luchtvaartuig, waarbij geen landing op Nederlands grondgebied plaatsvindt.
 
 ##### Artikel 21
 
-Aan een vergunning voor het vervoeren van radioactieve stoffen in een luchtvaartuig of voor het voorhanden hebben van genoemde stoffen bij opslag in verband met zodanig vervoer worden ter voorkoming van schade voorschriften verbonden als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=7&z=2010-11-16&g=2010-11-16).
+Aan een vergunning voor het vervoeren van radioactieve stoffen in een luchtvaartuig of voor het voorhanden hebben van genoemde stoffen bij opslag in verband met zodanig vervoer worden ter voorkoming van schade voorschriften verbonden als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=7&z=2011-01-01&g=2011-01-01).
 
 ##### Artikel 22
 
@@ -411,11 +399,11 @@ Aan een vergunning voor het vervoeren van radioactieve stoffen in een luchtvaart
 
 - a. voor de toepassing van die regels voor Nederland als bevoegde autoriteit wordt aangemerkt Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
 
-- b. voor vervoer als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=5&paragraaf=2&artikel=20&z=2010-11-16&g=2010-11-16) in een Nederlands luchtvaartuig het bepaalde met betrekking tot de goedkeuring van een zending door de voor Nederland bevoegde autoriteit niet geldt;
+- b. voor vervoer als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=5&paragraaf=2&artikel=20&z=2011-01-01&g=2011-01-01) in een Nederlands luchtvaartuig het bepaalde met betrekking tot de goedkeuring van een zending door de voor Nederland bevoegde autoriteit niet geldt;
 
-- c. voor vervoer als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=5&paragraaf=2&artikel=20&z=2010-11-16&g=2010-11-16) in een niet-Nederlands luchtvaartuig het bepaalde met betrekking tot de goedkeuring van een zending of van het model van de verpakking door de voor Nederland bevoegde autoriteit niet geldt.
+- c. voor vervoer als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=5&paragraaf=2&artikel=20&z=2011-01-01&g=2011-01-01) in een niet-Nederlands luchtvaartuig het bepaalde met betrekking tot de goedkeuring van een zending of van het model van de verpakking door de voor Nederland bevoegde autoriteit niet geldt.
 
-2. Ten aanzien van de in het eerste lid bedoelde bepalingen is [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=8&z=2010-11-16&g=2010-11-16), van overeenkomstige toepassing.
+2. Ten aanzien van de in het eerste lid bedoelde bepalingen is [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=8&z=2011-01-01&g=2011-01-01), van overeenkomstige toepassing.
 
 ### Hoofdstuk III. Het binnen of buiten Nederlands grondgebied brengen en doen brengen
 
@@ -455,9 +443,9 @@ Aan een vergunning voor het vervoeren van radioactieve stoffen in een luchtvaart
 
 - h. de plaats, waar de splijtstoffen binnen, onderscheidenlijk buiten Nederlands grondgebied zullen worden gebracht;
 
-- i. indien een vergunning wordt aangevraagd voor een handeling die overeenkomstig de krachtens [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=I&artikel=1b&z=2010-11-16&g=2010-11-16), in samenhang met [artikel 4, tweede lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=4), geldende regeling als gerechtvaardigd is bekendgemaakt, een verwijzing naar die bekendmaking.
+- i. indien een vergunning wordt aangevraagd voor een handeling die overeenkomstig de krachtens [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=I&artikel=1b&z=2011-01-01&g=2011-01-01), in samenhang met [artikel 4, tweede lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=4), geldende regeling als gerechtvaardigd is bekendgemaakt, een verwijzing naar die bekendmaking.
 
-2. Indien een vergunning wordt aangevraagd voor een handeling die niet of als niet-gerechtvaardigd is bekendgemaakt overeenkomstig de krachtens [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=I&artikel=1b&z=2010-11-16&g=2010-11-16), in samenhang met [artikel 4, tweede lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=4) geldende regeling, omvat de aanvraag om een vergunning tevens een verzoek om rechtvaardiging van die handeling. De aanvraag om de vergunning bevat dan tevens de gegevens met betrekking tot de economische, sociale en andere voordelen van de betrokken handeling en met betrekking tot de gezondheidsschade die erdoor kan worden toegebracht, die nodig zijn met het oog op de beoordeling van de gerechtvaardigdheid van de handeling.
+2. Indien een vergunning wordt aangevraagd voor een handeling die niet of als niet-gerechtvaardigd is bekendgemaakt overeenkomstig de krachtens [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=I&artikel=1b&z=2011-01-01&g=2011-01-01), in samenhang met [artikel 4, tweede lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=4) geldende regeling, omvat de aanvraag om een vergunning tevens een verzoek om rechtvaardiging van die handeling. De aanvraag om de vergunning bevat dan tevens de gegevens met betrekking tot de economische, sociale en andere voordelen van de betrokken handeling en met betrekking tot de gezondheidsschade die erdoor kan worden toegebracht, die nodig zijn met het oog op de beoordeling van de gerechtvaardigdheid van de handeling.
 
 ##### Artikel 25
 
@@ -478,20 +466,6 @@ Aan een vergunning voor het vervoeren van radioactieve stoffen in een luchtvaart
 - c. het voorschrift, dat de houder van de vergunning de vergunning of een gewaarmerkt afschrift daarvan ter beschikking moet stellen aan degene, die de splijtstoffen binnen of buiten Nederlands grondgebied brengt;
 
 - d. het voorschrift, dat de houder van de vergunning er voor dient zorg te dragen, dat aan de voor het betrokken vervoer geldende voorschriften met betrekking tot de verpakking en de daarop aan te brengen opschriften en gevaarsetiketten wordt voldaan.
-
-3. Aan een vergunning voor het binnen of buiten Nederlands grondgebied brengen of doen brengen van splijtstoffen worden voorschriften verbonden als bedoeld in bijlage I bij het Verdrag inzake fysieke beveiliging van kernmateriaal (Trb. 1981, 7), indien het betreft:
-
-- a. onbestraald plutonium in hoeveelheden van meer dan 15 gram, tenzij het gehalte aan plutonium-238 meer bedraagt dan 80%;
-
-- b. onbestraald uranium, verrijkt tot 20% uranium-235 of meer, in hoeveelheden van meer dan 15 gram;
-
-- c. onbestraald uranium, verrijkt tot 10% uranium-235, maar tot minder dan 20%, in hoeveelheden van meer dan 1 kilogram;
-
-- d. onbestraald uranium, verrijkt tot boven het natuurlijk gehalte, maar tot minder dan 10% uranium-235, in hoeveelheden van meer dan 10 kilogram;
-
-- e. onbestraald uranium-233 in hoeveelheden van meer dan 15 gram;
-
-- f. bestraalde splijtstoffen.
 
 ##### Artikel 26
 
@@ -529,11 +503,11 @@ waaraan bij de productie en fabricage opzettelijk radioactieve stoffen zijn toeg
 
 ##### Artikel 28
 
-De aanvraag om een vergunning voor het binnen of buiten Nederlands grondgebied brengen of doen brengen van radioactieve stoffen als bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=III&paragraaf=2&artikel=27&z=2010-11-16&g=2010-11-16), bevat de volgende gegevens:
+De aanvraag om een vergunning voor het binnen of buiten Nederlands grondgebied brengen of doen brengen van radioactieve stoffen als bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=III&paragraaf=2&artikel=27&z=2011-01-01&g=2011-01-01), bevat de volgende gegevens:
 
-- a. de gegevens, bedoeld in [artikel 24, eerste lid, onder a, b en e tot en met i, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=III&paragraaf=1&artikel=24&z=2010-11-16&g=2010-11-16), met dien verstande dat in plaats van «splijtstoffen» telkens wordt gelezen: «radioactieve stoffen» en in plaats van «handeling» wordt gelezen: «handeling of werkzaamheid»;
+- a. de gegevens, bedoeld in [artikel 24, eerste lid, onder a, b en e tot en met i, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=III&paragraaf=1&artikel=24&z=2011-01-01&g=2011-01-01), met dien verstande dat in plaats van «splijtstoffen» telkens wordt gelezen: «radioactieve stoffen» en in plaats van «handeling» wordt gelezen: «handeling of werkzaamheid»;
 
-- b. een opgave en verklaring als bedoeld in [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=1&paragraaf=1&artikel=3&z=2010-11-16&g=2010-11-16), met dien verstande, dat in plaats van "splijtstoffen", telkens wordt gelezen: "radioactieve stoffen";
+- b. een opgave en verklaring als bedoeld in [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=1&paragraaf=1&artikel=3&z=2011-01-01&g=2011-01-01), met dien verstande, dat in plaats van "splijtstoffen", telkens wordt gelezen: "radioactieve stoffen";
 
 - c. de hoeveelheid radioactieve stoffen, waarop de aanvraag betrekking heeft, zo mogelijk onder vermelding van symbool, massagetal en energietoestand van de betrokken nucliden, van de maximale activiteit van de stoffen en van de chemische en fysische toestand en de vorm, waarin deze zich bevinden;
 
@@ -581,7 +555,7 @@ meldt dit tenminste drie weken voordat die handeling of werkzaamheid plaatsvindt
 
 - a. voor bij ministeriële regeling aangewezen handelingen en werkzaamheden die een beperkt risico van blootstelling van mensen tot gevolg hebben, of
 
-- b. indien [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=III&paragraaf=2&artikel=27&z=2010-11-16&g=2010-11-16), van toepassing is.
+- b. indien [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=III&paragraaf=2&artikel=27&z=2011-01-01&g=2011-01-01), van toepassing is.
 
 ### Hoofdstuk IV. Inrichtingen, waarin splijtstoffen worden opgeslagen in verband met het vervoer
 
@@ -603,7 +577,7 @@ Onze Ministers van Economische Zaken, van Sociale Zaken en Volksgezondheid en va
 
 Geen vergunning krachtens dit besluit wordt verleend indien:
 
-- a. niet aan de krachtens [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=I&artikel=1b&z=2010-11-16&g=2010-11-16) in samenhang met de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=6) en [48 van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=48) geldende voorwaarden betreffende rechtvaardiging, optimalisatie en dosislimieten is voldaan;
+- a. niet aan de krachtens [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=I&artikel=1b&z=2011-01-01&g=2011-01-01) in samenhang met de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=6) en [48 van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=48) geldende voorwaarden betreffende rechtvaardiging, optimalisatie en dosislimieten is voldaan;
 
 - b. voor een lid van de bevolking dat zich buiten de locatie bevindt, als gevolg van de handeling of werkzaamheid waarvoor de vergunning is aangevraagd en ten gevolge van andere handelingen en werkzaamheden binnen en buiten deze locatie, een van de volgende doses wordt overschreden:
 
@@ -611,7 +585,7 @@ Geen vergunning krachtens dit besluit wordt verleend indien:
 
 - 2º. een equivalente dosis van 50 mSv in een kalenderjaar voor de huid gemiddeld over enig huidoppervlak van 1 cm2;
 
-- c. de handeling of werkzaamheid waarvoor de vergunning is aangevraagd, behoort tot een categorie die overeenkomstig de krachtens [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=I&artikel=1b&z=2010-11-16&g=2010-11-16) in samenhang met de in [artikel 4, tweede lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=4) geldende regeling als gerechtvaardigd is bekendgemaakt, maar het specifieke karakter van deze handeling of werkzaamheid op grond van [artikel 4, eerste lid, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=4) niet gerechtvaardigd is.
+- c. de handeling of werkzaamheid waarvoor de vergunning is aangevraagd, behoort tot een categorie die overeenkomstig de krachtens [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=I&artikel=1b&z=2011-01-01&g=2011-01-01) in samenhang met de in [artikel 4, tweede lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=4) geldende regeling als gerechtvaardigd is bekendgemaakt, maar het specifieke karakter van deze handeling of werkzaamheid op grond van [artikel 4, eerste lid, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=4) niet gerechtvaardigd is.
 
 ### Hoofdstuk II. Het vervoeren en het voorhanden hebben bij opslag in verband met het vervoer
 
@@ -631,7 +605,7 @@ Geen vergunning krachtens dit besluit wordt verleend indien:
 
 - b. de activiteitsconcentratie van die stof lager is dan de in tabel 2.2.7.7.2.1 van [bijlage 1 bij het VSG](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1) vermelde waarde voor de activiteitsconcentratie voor vrijgestelde stoffen, of
 
-- c. [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=1&paragraaf=2&artikel=5&z=2010-11-16&g=2010-11-16) van toepassing is.
+- c. [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=1&paragraaf=2&artikel=5&z=2011-01-01&g=2011-01-01) van toepassing is.
 
 3. De in het eerste lid bedoelde verplichting geldt niet voor het vervoeren of het voorhanden hebben bij de opslag in verband met dat vervoer van een natuurlijke bron, voorzover deze niet is of wordt bewerkt met het oog op zijn radioactieve eigenschappen, indien:
 
@@ -639,7 +613,7 @@ Geen vergunning krachtens dit besluit wordt verleend indien:
 
 - b. de activiteitsconcentratie van de betrokken natuurlijke bron lager is dan tienmaal de in tabel 2.2.7.7.2.1 van [bijlage 1 bij het VSG](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1) vermelde waarde voor de activiteitsconcentratie voor vrijgestelde stoffen, of
 
-- c. [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=1&paragraaf=2&artikel=5&z=2010-11-16&g=2010-11-16) van toepassing is.
+- c. [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=1&paragraaf=2&artikel=5&z=2011-01-01&g=2011-01-01) van toepassing is.
 
 4. Het bij en krachtens [artikel 25, derde, vierde, zevende en achtste lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=25) bepaalde is van overeenkomstige toepassing.
 
@@ -691,7 +665,7 @@ Geen vergunning krachtens dit besluit wordt verleend indien:
 
 ##### Artikel 32a
 
-1. De melding, bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=III&paragraaf=2&artikel=32&z=2010-11-16&g=2010-11-16), bevat in ieder geval:
+1. De melding, bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=III&paragraaf=2&artikel=32&z=2011-01-01&g=2011-01-01), bevat in ieder geval:
 
 - a. de naam en het adres van degene die de melding doet, van de afzender van de radioactieve stof of de open bron en van de ontvanger daarvan;
 
@@ -703,9 +677,9 @@ Geen vergunning krachtens dit besluit wordt verleend indien:
 
 - e. de vermoedelijke data waarop de handelingen en werkzaamheden plaatsvinden;
 
-- f. indien een melding wordt gedaan voor een handeling of werkzaamheid die overeenkomstig de krachtens [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=I&artikel=1b&z=2010-11-16&g=2010-11-16), in samenhang met [artikel 4, tweede lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=4), geldende regeling als gerechtvaardigd is bekendgemaakt, een verwijzing naar die bekendmaking.
+- f. indien een melding wordt gedaan voor een handeling of werkzaamheid die overeenkomstig de krachtens [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=I&artikel=1b&z=2011-01-01&g=2011-01-01), in samenhang met [artikel 4, tweede lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=4), geldende regeling als gerechtvaardigd is bekendgemaakt, een verwijzing naar die bekendmaking.
 
-2. Indien een melding wordt gedaan voor een handeling of werkzaamheid die niet of als niet-gerechtvaardigd is bekendgemaakt overeenkomstig de krachtens [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=I&artikel=1b&z=2010-11-16&g=2010-11-16), in samenhang met [artikel 4, tweede lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=4) geldende regeling, omvat de melding tevens een verzoek om rechtvaardiging van die handeling of werkzaamheid. De melding bevat dan tevens de gegevens met betrekking tot de economische, sociale en andere voordelen van de betrokken handeling of werkzaamheid en met betrekking tot de gezondheidsschade die erdoor kan worden toegebracht, die nodig zijn met het oog op de beoordeling van de gerechtvaardigdheid van de handeling of werkzaamheid.
+2. Indien een melding wordt gedaan voor een handeling of werkzaamheid die niet of als niet-gerechtvaardigd is bekendgemaakt overeenkomstig de krachtens [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=I&artikel=1b&z=2011-01-01&g=2011-01-01), in samenhang met [artikel 4, tweede lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=4) geldende regeling, omvat de melding tevens een verzoek om rechtvaardiging van die handeling of werkzaamheid. De melding bevat dan tevens de gegevens met betrekking tot de economische, sociale en andere voordelen van de betrokken handeling of werkzaamheid en met betrekking tot de gezondheidsschade die erdoor kan worden toegebracht, die nodig zijn met het oog op de beoordeling van de gerechtvaardigdheid van de handeling of werkzaamheid.
 
 3. Degene die de melding heeft gedaan, meldt wijzigingen van de in het eerste lid genoemde gegevens ten minste drie werkdagen voordat de handelingen of werkzaamheden plaatsvinden, waarop ze betrekking hebben, aan Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en een door hem aan te wijzen instantie.
 
@@ -717,7 +691,7 @@ Onze Ministers van Economische Zaken, van Sociale Zaken en Volksgezondheid en va
 
 ##### Artikel 1d
 
-Dit onderdeel is nog niet inwerking getreden
+Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer kan regels stellen ten aanzien van de beveiliging van het vervoer, de opslag in verband met het vervoer en het binnen of buiten Nederlands grondgebied brengen of doen brengen van de in [artikel 22 van het Besluit kerninstallaties, splijtstoffen en ertsen bedoelde splijtstoffen en ertsen](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=22) en de in [artikel 20ca van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=20ca) bedoelde radioactieve stoffen.
 
 ### Hoofdstuk II. Het vervoeren en het voorhanden hebben bij opslag in verband met het vervoer
 
