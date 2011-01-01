@@ -4,7 +4,7 @@ identifier: "BWBR0028535"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2022-01-01"
-last_updated: "2010-10-10"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028535"
 soort: "AMvB-BES"
@@ -37,30 +37,24 @@ entry_into_force: "2010-10-10"
 
 ##### Artikel 1
 
-De door de Sociale Verzekeringsbank verlangde inlichtingen bedoeld in artikel 12, tweede lid, van de Landsverordening Ongevallenverzekering (P.B. 1966, no. 14) omvatten onder andere:
+1. De door Onze Minister verlangde inlichtingen, bedoeld in de [artikelen 12, tweede lid, van de Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=12) en de [Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=12) omvatten ten minste:
 
-- a. de aan- en afmelding van de werknemer (in de zin van genoemde landsverordening) bij de aanvang, respektievelijk bij het einde, van de arbeid;
+- a. de naam en de voornamen van de werknemer, het identiteitsnummer, het geslacht, het beroep of de functie;
 
-- b. het loon, alsmede de wijziging en de datum van ingang van de wijziging in het loon van de werknemer;
+- b. de datum van indiensttreding van de werknemer;
 
-- c. de naam van de werkgever, de naam van het bedrijf of de instelling, de werkgeverscode, het adres en het telefoonnummer van het bedrijf, de naam van de vorige werkgever, de aanvang en het einde van de arbeid bij het vorige werkgever;
+- c. de hoogte van het van toepassing zijnde uurloon, weekloon, dan wel maandloon per de datum waarop de werknemer als gevolg van ziekte of ongeval niet langer in staat is de hem opgedragen werkzaamheden te verrichten, de laatste wijziging van het loon en de datum van ingang van de laatste wijziging in het loon van de werknemer;
 
-- d. de naam en de voornamen van de werknemer, het identiteitsnummer, de burgerlijke staat, het geslacht, het beroep of de funktie;
+- d. het aantal werkdagen en werkuren per week van de werknemer; en
 
-De onder a, b, c, en d genoemde gegevens worden aan de Sociale Verzekeringsbank verstrekt op formulieren hiervoor door haar ter beschikking gesteld, de zogenaamde verzamelloonstaten en mutatieformulieren.
+- e. de naam van de werkgever, de naam van het bedrijf of de instelling, het door de inspecteur der belastingen verstrekte identificatienummer van de werkgever, het adres, het telefoonnummer van het bedrijf en het emailadres van de werkgever.
+
+2. De in het eerste lid vermelde gegevens worden uiterlijk binnen twee weken na de melding van de ziekte of het ongeval aan Onze Minister verstrekt door middel van de formulieren, die hiervoor door Onze Minister ter beschikking worden gesteld en, voor zover het betreft het loon van de werknemer, voorzien van schriftelijke bewijsstukken.
 
 ##### Artikel 2
 
-1. De indiening bij de Sociale Verzekeringsbank van de ingevulde verzamelloonstaat geschiedt uiterlijk op 1 februari, volgende op het jaar waarop de inlichtingen betrekking hebben.
-
-2. Het ingevulde mutatieformulier wordt ingediend:
-
-- a. bij de aanmelding van de werknemer, uiterlijk twee werkdagen na de aanvang van de werkzaamheden;
-
-- b. bij de afmelding van de werknemer, uiterlijk twee werkdagen na het einde van de werkzaamheden;
-
-- c. ingeval van een wijziging in het loon van de werknemer, vóór de 15de van de maand volgende op die waarin de wijziging plaatsvond.
+Dit besluit berust op [artikel 12, vierde lid, van de Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=12) en [artikel 12, vierde lid, van de Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=12).
 
 ##### Artikel 3
 
-Dit landsbesluit treedt in werking met ingang van de dag na die van zijn afkondiging en werkt terug tot en met 1 januari 1987.
+Dit besluit wordt aangehaald als: Besluit inlichtingenverplichtingen werknemersverzekeringen BES.
