@@ -4,7 +4,7 @@ identifier: "BWBR0010054"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-15"
-last_updated: "2010-04-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010054"
 soort: "ministeriele-regeling"
@@ -43,29 +43,29 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder:
 
-a. Minister: Minister van Verkeer en Waterstaat; b. bevoegde autoriteit: 1°. Minister, 2°. een in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=3&z=2010-04-01&g=2010-04-01) bij deze regeling erkende instantie, of 3°. een met toepassing van de [Regeling erkende instanties vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0026901) erkende instantie; c. richtlijn nr. 2008/68/EG: richtlijn nr. 2008/68/EG van het Europees Parlement en de Raad van de Europese Unie van 24 september 2008 betreffende het vervoer van gevaarlijke goederen over land (PbEU L 260); d. [richtlijn nr. 95/50/EG](31995L0050): [richtlijn nr. 95/50/EG](31995L0050) van de Raad van de Europese Unie van 6 oktober 1996 betreffende uniforme procedures voor de controle op het vervoer van gevaarlijke goederen over de weg (PbEG L249).
+a. Minister: Minister van Infrastructuur en Milieu; b. bevoegde autoriteit: 1°. Minister, 2°. een in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=3&z=2011-01-01&g=2011-01-01) bij deze regeling erkende instantie, of 3°. een met toepassing van de [Regeling erkende instanties vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0026901) erkende instantie; c. richtlijn nr. 2008/68/EG: richtlijn nr. 2008/68/EG van het Europees Parlement en de Raad van de Europese Unie van 24 september 2008 betreffende het vervoer van gevaarlijke goederen over land (PbEU L 260); d. [richtlijn nr. 95/50/EG](31995L0050): [richtlijn nr. 95/50/EG](31995L0050) van de Raad van de Europese Unie van 6 oktober 1996 betreffende uniforme procedures voor de controle op het vervoer van gevaarlijke goederen over de weg (PbEG L249).
 
-2. De in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2010-04-01&g=2010-04-01) opgenomen begripsbepalingen zijn van toepassing op de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=2&z=2010-04-01&g=2010-04-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=3&z=2010-04-01&g=2010-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=4&z=2010-04-01&g=2010-04-01) voorzover daarin niet anders is bepaald.
+2. De in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2011-01-01&g=2011-01-01) opgenomen begripsbepalingen zijn van toepassing op de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=2&z=2011-01-01&g=2011-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=3&z=2011-01-01&g=2011-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=4&z=2011-01-01&g=2011-01-01) voorzover daarin niet anders is bepaald.
 
 ##### Artikel 2
 
 Bij deze regeling behoren vier bijlagen:
 
-- a. [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2010-04-01&g=2010-04-01): voorschriften betreffende het vervoer van gevaarlijke stoffen over land, zijnde de Nederlandse vertaling van de bijlagen A en B van het ADR en de daarbij behorende aanhangsels;
+- a. [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2011-01-01&g=2011-01-01): voorschriften betreffende het vervoer van gevaarlijke stoffen over land, zijnde de Nederlandse vertaling van de bijlagen A en B van het ADR en de daarbij behorende aanhangsels;
 
-- b. [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=2&z=2010-04-01&g=2010-04-01): voorschriften in afwijking van of in aanvulling op [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2010-04-01&g=2010-04-01);
+- b. [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=2&z=2011-01-01&g=2011-01-01): voorschriften in afwijking van of in aanvulling op [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2011-01-01&g=2011-01-01);
 
-- c. [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=3&z=2010-04-01&g=2010-04-01): erkende instanties, bedoeld in [artikel 1, eerste lid, onderdeel b, 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&artikel=1&z=2010-04-01&g=2010-04-01);
+- c. [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=3&z=2011-01-01&g=2011-01-01): erkende instanties, bedoeld in [artikel 1, eerste lid, onderdeel b, 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&artikel=1&z=2011-01-01&g=2011-01-01);
 
-- d. [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=4&z=2010-04-01&g=2010-04-01): rijkskeuringsvoorschriften betreffende het vervoer over land van gevaarlijke stoffen.
+- d. [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=4&z=2011-01-01&g=2011-01-01): rijkskeuringsvoorschriften betreffende het vervoer over land van gevaarlijke stoffen.
 
 ##### Artikel 3
 
-Met voorwaardelijk tot het vervoer over land toegelaten gevaarlijke stoffen als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2010-04-01&g=2010-04-01) mogen de handelingen, bedoeld in [artikel 2 van het Besluit vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0008080&artikel=2), worden verricht, mits de in deze regeling gestelde voorschriften in acht worden genomen.
+Met voorwaardelijk tot het vervoer over land toegelaten gevaarlijke stoffen als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2011-01-01&g=2011-01-01) mogen de handelingen, bedoeld in [artikel 2 van het Besluit vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0008080&artikel=2), worden verricht, mits de in deze regeling gestelde voorschriften in acht worden genomen.
 
 ##### Artikel 4
 
-1. De door de bevoegde autoriteiten op basis van randnummer 1.5.1.1 van de ADR overeengekomen tijdelijke afwijkingen worden in de vorm van een multilaterale overeenkomst aan de bevoegde autoriteiten van de andere lidstaten van de Europese Unie voorgelegd door de bevoegde autoriteit die het initiatief tot de overeenkomst neemt. Van dergelijke afwijkingen doet de Minister mededeling aan de Commissie van de Europese Gemeenschappen.
+1. De door de bevoegde autoriteiten op basis van randnummer 1.5.1.1 van de ADR overeengekomen tijdelijke afwijkingen worden in de vorm van een multilaterale overeenkomst aan de bevoegde autoriteiten van de andere lidstaten van de Europese Unie voorgelegd door de bevoegde autoriteit die het initiatief tot de overeenkomst neemt. Van dergelijke afwijkingen doet de Minister mededeling aan de Europese Commissie.
 
 2. De afwijkingen, bedoeld in het eerste lid, worden verleend zonder onderscheid naar nationaliteit of vestigingsplaats van de verzender, de vervoerder of de ontvanger, hebben een looptijd van ten hoogste vijf jaar en zijn niet hernieuwbaar.
 
@@ -83,7 +83,7 @@ Deze regeling wordt aangehaald als: [Regeling vervoer over land van gevaarlijke 
 
 ## Bijlage 1
 
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
+Ligt ter inzage bij het Ministerie van Infrastructuur en Milieu.
 
 ### Hoofdstuk I. Bepalingen voor uitsluitend binnenlands vervoer
 
@@ -863,7 +863,7 @@ a. BZK: 1º. Minister van Binnenlandse Zaken en Koninkrijksrelaties, 2º. ten aa
 
 ## Bijlage 4. als bedoeld in artikel 2, onderdeel d, van de Regeling vervoer over land van gevaarlijke stoffen
 
-Het laden of lossen van ontplofbare stoffen en voorwerpen van klasse 1 in hoeveelheden die per transporteenheid groter zijn dan de vrijgestelde hoeveelheden van randnummer 1.1.3.6 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2010-04-01&g=2010-04-01) alsmede vuurwerk met de UN-nummers 0336 en 0337 met een totale netto explosieve massa van meer dan 20 kilogram geschiedt onder toezicht van een ter zake deskundige.
+Het laden of lossen van ontplofbare stoffen en voorwerpen van klasse 1 in hoeveelheden die per transporteenheid groter zijn dan de vrijgestelde hoeveelheden van randnummer 1.1.3.6 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2011-01-01&g=2011-01-01) alsmede vuurwerk met de UN-nummers 0336 en 0337 met een totale netto explosieve massa van meer dan 20 kilogram geschiedt onder toezicht van een ter zake deskundige.
 
 ### **Artikel 6. Weersomstandigheden**
 
@@ -1278,7 +1278,7 @@ Indien voor de constructie van de tank, voor de ommanteling of voor uitrustingsd
 
 is deze kunststof vlamdovend uitgevoerd, waaraan geacht wordt te zijn voldaan indien monsters zijn beproefd in overeenstemming met ISO-norm 3759:1989
 
-### **Artikel 5**
+### **Artikel 4**
 
 ##### Artikel 29. tanks overeenkomstig rn. 6.10, scharnierende
 
@@ -1721,7 +1721,7 @@ Indien het voertuig is ingericht voor het vervoer van brandbare vloeistoffen met
 
 3. Bij voertuigen van de categorie FL is aan het einde van de uitlaatleiding een vonkenvanger aangebracht.
 
-### § 2. Hulpmotor (Verbrandingsmotor)
+### **Artikel 6**
 
 ##### Artikel 59. rn. 9.2.4.3 tot en met 9 2.4.5
 
@@ -1831,13 +1831,13 @@ Bij voertuigen bestemd voor het vervoer van brandbare vloeistoffen met een vlamp
 
 3. De bedieningsinrichting van de hoofdschakelaar aan de buitenzijde van het voertuig is uitgevoerd in een duidelijk opvallende of contrasterende kleur.
 
-### Hoofdstuk X. Laadruimte EX/II-voertuigen
+### **Artikel 8**
 
 ##### Artikel 64. rn.9.3.3 afsluitbaarheid
 
 Aan het vereiste in rn. 9.3.3 dat in de wanden van de laadruimte van gesloten voertuigen van type EX/II geen ramen mogen zijn aangebracht is voldaan indien aanwezige ramen zodanig door middel van tralies of een rooster zijn beschermd dat ongeautoriseerde toegang tot de laadruimte daarmee wordt verhinderd.
 
-### **Artikel 5 rn. 6.8.2.4.4**
+### **Artikel 9**
 
 ##### Artikel 65. rn.. 6.8.2.5.1 en 6.8.3.5.1 tank-identificatieplaat
 
@@ -1877,7 +1877,7 @@ Het in rn. 6.8.2.5.1 en 6.8.3.5.10 bedoelde waarmerk van de deskundige die de be
 
 2. In afwijking van het bepaalde in artikel 67 is het voor de buitenzijde voorgeschreven opschrift met een letterhoogte van ten minste 10 mm uitgevoerd.
 
-### **Artikel 6**
+### **Artikel 11 rn. 6.8.2.1.14 onder (a), lagedruk-tanks**
 
 ### **§ 1. Beoordelingsnormen/Codes**
 
@@ -1907,13 +1907,13 @@ Indien tijdens de nieuwbouw of de wijziging afwijkingen van een in beginsel goed
 
 Aan de daartoe door de directeur aangewezen inspecteurs wordt tijdens de bouw of het wijzigen van een voertuig te allen tijde gelegenheid gegeven daarbij tegenwoordig te zijn en worden alle gewenste inlichtingen verstrekt en alle medewerking verleend.
 
-### Artikel 7
+### **Artikel 13**
 
 ##### Artikel 75
 
 Bij de in artikel 69 bedoelde ontwerpgegevens is een volledig ingevuld volgens een door de directeur vastgesteld model gevoegd of een begeleidend schrijven met vermelding van naam, adres, postcode en plaats van vestiging van de ondernemer, het correspondentieadres en een korte omschrijving van de aard van de aanvraag.
 
-### **Artikel 5 rn. 6.8.2.4.4**
+### **Artikel 14 rn. 6.8.2.1.18 en 6.8.2.1.19 dikte slingerschot**
 
 ##### Artikel 76
 
@@ -2095,7 +2095,7 @@ Bij het ontwerp worden per voertuig ten minste de volgende berekeningen overgele
 
 - 9º. bij de berekening van de tank wordt de verzwakking door mangaten en eventuele andere openingen in de tankwand alsmede compensatie in de vorm van mangathalzen, flenzen en dergelijke mede in rekening gebracht.
 
-### **Artikel 6**
+### **Artikel 16 scharnierende eindbodem**
 
 ##### Artikel 79
 
@@ -2113,7 +2113,7 @@ De ingevolge artikel 69 over te leggen gegevens betreffen voor een trekker de vo
 
 - f. voor de klassen 1 en 5.1, identificatienummer 2015: een verklaring, geautoriseerd door een door de directeur aangewezen onafhankelijk deskundige, waaruit blijkt dat de bestuurderscabine van het voertuig voldoet aan het bepaalde in rn. 9.2.4.2 met betrekking tot de brandbestendigheid.
 
-### Artikel 8. rn. 6.8.2.1.4
+### **Artikel 17 rn. 6.10 explosiebestendige tank**
 
 ##### Artikel 80
 
@@ -2191,7 +2191,7 @@ Indien de in artikel 82 bedoelde over te leggen bescheiden door de directeur akk
 
 ### **Artikel 12 klasse 2**
 
-### Artikel 13. klassen 3, 4.1 5.1, 6.1, 6.2, 8 en 9, vloeistoffen
+### **Artikel 19**
 
 ##### Artikel 85
 
@@ -2281,7 +2281,7 @@ Voor zover geen inwendige inspectie of proefpersing van de tank is vereist, beho
 
 Indien bij een keuring of beproeving gebreken worden vastgesteld van zodanige aard dat niet tot goedkeuring kan worden overgegaan, wordt aan de ondernemer een opgave verstrekt van de gebreken die tot de weigering van de goedkeuring hebben geleid en wordt het voertuig, nadat de nodige voorzieningen zijn getroffen, voor herkeuring aangeboden.
 
-### **Artikel 17 rn. 6.10 explosiebestendige tank**
+### **Artikel 22**
 
 ##### Artikel 97. rn. 6.8.2.4.1 hydraulische proefpersing /rn.
 
@@ -2365,7 +2365,7 @@ Uiterlijk bij de aanvang van de keuring worden de volgende bescheiden overgelegd
 
 - 2. aan de buitenzijde, met inbegrip van eventuele holle ruimten tussen de compartimenten, geheel droog.
 
-### **Artikel 15 scharnierende tank**
+### **Artikel 25 tanks overeenkomstig rn. 6.10, scharnierende bodem**
 
 ##### Artikel 104
 
@@ -2387,7 +2387,7 @@ Indien de resultaten van het inwendige onderzoek van de tank daartoe aanleiding 
 
 3. Indien de beproeving per compartiment plaats vindt aansluitend aan de in het eerste lid bedoelde beproeving, behoeven de aan het te beproeven compartiment grenzende compartimenten niet te zijn geledigd
 
-### **Artikel 17 rn. 6.10 explosiebestendige tank**
+### **Artikel 27 rn. 6.8.2.2.2 opening voor schoonmaakdoeleinden**
 
 ##### Artikel 108
 
@@ -2457,7 +2457,7 @@ De Rijkskeuringsvoorschriften betreffende het vervoer over land van gevaarlijke 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlage 1, die ter inzage wordt gelegd bij het Directoraat-Generaal Goederenvervoer van het Ministerie van Verkeer en Waterstaat, Nieuwe Uitleg 1 te Den Haag.
 
-## Bijlage 2. , bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&artikel=2&z=2010-04-01&g=2010-04-01), van de Regeling vervoer over land van gevaarlijke stoffen
+## Bijlage 2. , bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&artikel=2&z=2011-01-01&g=2011-01-01), van de Regeling vervoer over land van gevaarlijke stoffen
 
 ### Aanvullende Voorschriften
 
@@ -2916,7 +2916,7 @@ Indien een bevoegde instantie van een andere lidstaat van de Europese Unie de Mi
 
 ## Bijlage 4. als bedoeld in artikel 2, onderdeel d, van de Regeling vervoer over land van gevaarlijke stoffen
 
-Voor wat betreft het duurremsysteem is randnummer 9.2.3.1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2010-04-01&g=2010-04-01) (retarder) niet van toepassing op motorvoertuigen gebouwd vóór 1 januari 1997.
+Voor wat betreft het duurremsysteem is randnummer 9.2.3.1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2011-01-01&g=2011-01-01) (retarder) niet van toepassing op motorvoertuigen gebouwd vóór 1 januari 1997.
 
 ### **9.7.5.1. N Stabiliteit**
 
@@ -3090,7 +3090,7 @@ Bij radiografisch lasonderzoek geldt ten aanzien van de omvang daarvan:
 
 ### Hoofdstuk XII. Goedkeuringsprocedures
 
-### **Artikel 5 rn. 6.8.2.4.4**
+### **Artikel 10**
 
 ### **Artikel 6**
 
@@ -3100,7 +3100,7 @@ Bij radiografisch lasonderzoek geldt ten aanzien van de omvang daarvan:
 
 ### Hoofdstuk XIII. Keuringen en beproevingen
 
-### **Artikel 9 rn. 6.8.2.1.23**
+### **Artikel 15 scharnierende tank**
 
 ### **Artikel 14 rn. 6.8.2.1.18 en 6.8.2.1.19 dikte slingerschot**
 
@@ -3126,7 +3126,7 @@ De N-bepalingen in dit hoofdstuk:
 
 ### **1.5.1.1. N Multilaterale overeenkomsten**
 
-1. Niet-grensoverschrijdend vervoer mag plaatsvinden overeenkomstig multilaterale overeenkomsten als bedoeld in randnummer 1.5.1.1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2010-04-01&g=2010-04-01), die door Nederland zijn ondertekend.
+1. Niet-grensoverschrijdend vervoer mag plaatsvinden overeenkomstig multilaterale overeenkomsten als bedoeld in randnummer 1.5.1.1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2011-01-01&g=2011-01-01), die door Nederland zijn ondertekend.
 
 ### **1.5.1.1. N Multilaterale overeenkomsten**
 
@@ -3138,7 +3138,7 @@ De opschriften en kenmerkingen op colli, containers, tanks en voertuigen, dan we
 
 Het is toegestaan dat in het vervoerdocument de voorgeschreven aanduidingen uitsluitend zijn gesteld in de Nederlandse taal.
 
-In Nederland geregistreerde tankwagens, bestemd voor het vervoer van propaan, butaan en mengsels daarvan, zijn voorzien van een noodstopvoorziening die is aangesloten op het bedieningssysteem van de veiligheidsinrichting, bedoeld in randnummer 6.8.3.2.3 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2010-04-01&g=2010-04-01), en op het aandrijfsysteem van de pomp. Het bedienen van de noodstopvoorziening heeft tot direct gevolg dat de veiligheidsinrichtingen gesloten worden en de pomp gestopt wordt. De bedieningsorganen van de noodstopvoorziening zijn zowel aangebracht in de bedieningskast(en) als bij de linkervoorzijde als bij de rechterachterzijde van de tank.
+In Nederland geregistreerde tankwagens, bestemd voor het vervoer van propaan, butaan en mengsels daarvan, zijn voorzien van een noodstopvoorziening die is aangesloten op het bedieningssysteem van de veiligheidsinrichting, bedoeld in randnummer 6.8.3.2.3 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2011-01-01&g=2011-01-01), en op het aandrijfsysteem van de pomp. Het bedienen van de noodstopvoorziening heeft tot direct gevolg dat de veiligheidsinrichtingen gesloten worden en de pomp gestopt wordt. De bedieningsorganen van de noodstopvoorziening zijn zowel aangebracht in de bedieningskast(en) als bij de linkervoorzijde als bij de rechterachterzijde van de tank.
 
 In Nederland geregistreerde tankwagens, bestemd voor het vervoer van propaan, butaan en mengsels daarvan, zijn voorzien van een noodstopvoorziening die is aangesloten op het bedieningssysteem van de veiligheidsinrichting, bedoeld in randnummer 6.8.3.2.3 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2008-10-08&g=2008-10-08), en op het aandrijfsysteem van de pomp. Het bedienen van de noodstopvoorziening heeft tot direct gevolg dat de veiligheidsinrichtingen gesloten worden en de pomp gestopt wordt. De bedieningsorganen van de noodstopvoorziening zijn zowel aangebracht in de bedieningskast(en) als bij de linkervoorzijde als bij de rechterachterzijde van de tank.
 
@@ -3146,7 +3146,7 @@ In Nederland geregistreerde tankwagens, bestemd voor het vervoer van propaan, bu
 
 ### **7.5.7.5/8.3.3 Openen van colli**
 
-In afwijking van randnummers 7.5.7.5/8.3.3 van [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2010-04-01&g=2010-04-01), mag de chauffeur of de bijrijder:
+In afwijking van randnummers 7.5.7.5/8.3.3 van [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2011-01-01&g=2011-01-01), mag de chauffeur of de bijrijder:
 
 ### **7.5.7.5/8.3.3 Openen van colli**
 
@@ -3166,7 +3166,7 @@ Voor wat betreft het duurremsysteem is randnummer 9.2.3.1 van [bijlage 1](https:
 
 In afwijking van de tweede volzin van randnummer 9.7.5.1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2008-10-08&g=2008-10-08), behoeft bij in Nederland geregistreerde gelede voertuigen voor wat betreft de druk van de assen van de beladen oplegger, slechts te worden voldaan aan [artikel 3.3.9 van het Voertuigreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006746&artikel=3.3.9).
 
-1. Dit hoofdstuk is van toepassing op elk vervoer van gevaarlijke stoffen op Nederlands grondgebied en is gebaseerd op de randnummers 1.9.2, 1.9.3 en 1.9.4 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2010-04-01&g=2010-04-01).
+1. Dit hoofdstuk is van toepassing op elk vervoer van gevaarlijke stoffen op Nederlands grondgebied en:
 
 ### **Artikel 1. Toepassingsbereik**
 
@@ -3188,7 +3188,7 @@ Het vervoer van de stoffen die in tabel 3 zijn opgenomen, is routeplichtig als b
 
 ### **Artikel 5. Laden en lossen**
 
-2. Het is niet toegestaan gevaarlijke stoffen te vervoeren in tanks, losgestort of in colli, in hoeveelheden die per transporteenheid groter zijn dan de voorwaardelijk vrijgestelde hoeveelheden bedoeld in randnummer 1.1.3.6 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2010-04-01&g=2010-04-01) en vuurwerk met de UN-nummers 0336 en 0337 met een totale netto explosieve massa van meer dan 20 kilogram:
+2. Het is niet toegestaan gevaarlijke stoffen te vervoeren in tanks, losgestort of in colli, in hoeveelheden die per transporteenheid groter zijn dan de voorwaardelijk vrijgestelde hoeveelheden bedoeld in randnummer 1.1.3.6 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2011-01-01&g=2011-01-01) en vuurwerk met de UN-nummers 0336 en 0337 met een totale netto explosieve massa van meer dan 20 kilogram:
 
 3. De Minister kan ontheffing verlenen van het in het tweede lid vermelde verbod bij glad wegdek, indien:
 
@@ -3196,9 +3196,9 @@ Het vervoer van de stoffen die in tabel 3 zijn opgenomen, is routeplichtig als b
 
 ### **Artikel 7. Zout veer**
 
-2. Tabel 5 vermeldt de stoffen, wijze van vervoer en hoeveelheden waarvan het vervoer verboden is met een zout veer.
+2. Tabel 2 vermeldt de stoffen, wijze van vervoer en hoeveelheden waarvan het vervoer verboden is met een zout veer.
 
-3. Het vervoer van andere gevaarlijke stoffen dan vermeld in tabel 5, is slechts toegestaan indien het betreft:
+3. Het vervoer van andere gevaarlijke stoffen dan vermeld in tabel 2, is slechts toegestaan indien het betreft:
 
 4. Op een gesloten rijdek van een zout veer wordt geen transporteenheid geplaatst die beladen is met stoffen van klasse 3 met verpakkingsgroep I en II.
 
@@ -3206,7 +3206,7 @@ Het vervoer van de stoffen die in tabel 3 zijn opgenomen, is routeplichtig als b
 
 6. De bestuurder of bijrijder van een transporteenheid met gevaarlijke stoffen blijft tijdens de vaart bij zijn voertuig.
 
-7. De bestuurder van een transporteenheid beladen met andere gevaarlijke stoffen dan die zijn vermeld in tabel 5, verstrekt, alvorens een zout veer op te rijden, aan de schipper dan wel aan een daartoe aangewezen personeelslid van de waldienst de benodigde informatie omtrent aard en de hoeveelheid van de vervoerde gevaarlijke stoffen.
+7. De bestuurder van een transporteenheid beladen met andere gevaarlijke stoffen dan die zijn vermeld in tabel 2, verstrekt, alvorens een zout veer op te rijden, aan de schipper dan wel aan een daartoe aangewezen personeelslid van de waldienst de benodigde informatie omtrent aard en de hoeveelheid van de vervoerde gevaarlijke stoffen.
 
 8. Rederijen kunnen aanvullende of beperkende maatregelen treffen.
 
@@ -3292,25 +3292,25 @@ In deze bijlage wordt verwezen naar onderstaande Europese normen die betrekking 
 
 EN 50 020:1992: Stroomkringen met weerstand zonder cadmium, zink, magnesium of aluminium;
 
-EN 287-1:1997: Het kwalificeren van lassers – Smeltlassen – Deel 1: Staal;
+EN 10204:2004: Producten van metaal – Soorten keuringsdocumenten;
 
-EN ISO 9606-2: Het kwalificeren van lassers – Smeltlassen – Deel 2: Aluminium en Aluminiumlegeringen;
+IEC 529:1993: Degrees of protection provided by enclosures of electrical equipment (IP Code);
 
 ## Bijlage 4. als bedoeld in [artikel 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&artikel=2&z=2006-06-15&g=2006-06-15), van de Regeling vervoer over land van gevaarlijke stoffen
 
 EN 473:1993: Kwalificatie en certificatie van personeel voor niet-destructief onderzoek. Algemene principes;
 
-EN 10204:2004: Producten van metaal – Soorten keuringsdocumenten;
+3. Met de krachtens deze regeling tot het vervoer toegelaten voertuigen, tanks en tankcontainers worden gelijkgesteld voertuigen die aan gelijkwaardige eisen voldoen en die tot het vervoer zijn toegelaten in een andere lidstaat van de Europese Unie dan wel in een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
 
-### Artikel 1
+### **Artikel 4**
 
-EN 30042:1994 (ISO 10042:1992): Booglasverbindingen in aluminium en lasbare aluminiumlegeringen – Richtlijn voor het vaststellen van kwaliteitsniveaus voor onvolkomenheden;
+2. Van de tanks genoemd in het eerste lid, onderdeel c, wordt een door genoemde instantie afgegeven certificaat overgelegd, waarin is aangegeven dat de tank aan de desbetreffende voorschriften van de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2011-01-01&g=2011-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=2&z=2011-01-01&g=2011-01-01) voldoet.
 
 EN 13082:2001: Tanks voor het transport van gevaarlijke stoffen – Bedieningsapparatuur voor tanks – Dampafsluiter;
 
-EN 13094:2004: Tanks voor het transport van gevaarlijke stoffen – Metalen tanks met een bedrijfsdruk tot 0.5 bar – Ontwerp en constructie;
+1. Wanneer schade aan een voertuig, tank of tankcontainer is ontstaan en een veilig vervoer van gevaarlijke stoffen daardoor niet langer is gewaarborgd, geeft de eigenaar of houder hiervan onverwijld schriftelijk kennis. Indien dit een voertuig betreft wordt de melding gericht aan het keuringsstation van VT waaronder de ondernemer ressorteert. In het geval van schade aan de tank van het voertuig of (tank)containers wordt de melding gericht aan de afdeling IKS van VT.
 
-EN 13308:2002: Tanks voor het transport van gevaarlijke goederen – Uitrusting voor tanks – Niet drukvereffenende bodemafsluiter;
+2. Indien herstellingen zijn verricht van schade waarvan vooraf geen melding is gemaakt en tengevolge waarvan, naar het oordeel van de directeur, onvoldoende inzicht in de deugdelijkheid van het voertuig of van belangrijke onderdelen is ontstaan, kan de goedkeuring aan het voertuig worden onthouden.
 
 EN 13316:2002: Tanks voor het transport van gevaarlijke goederen – Uitrusting van tanks – Drukvereffenende bodemafsluiter;
 
@@ -3318,23 +3318,23 @@ EN 14595: 2003: Tanks voor het transport van gevaarlijke goederen – Onderhouds
 
 IEC 529:1993: Degrees of protection provided by enclosures of electrical equipment (IP Code);
 
-IEC 60079 – 11:1999: Electrical apparatus for explosive gas atmospheres – part 11: intrinsic safety ‘i’.
+1. Bij tanks wordt ter vaststelling van de wanddikte, de eventuele bescherming, de ondersteuning en de bevestiging aan het chassis, uitgegaan van de waarden zoals vastgelegd in Europese Normen die betrekking hebben op het desbetreffende materiaal.
 
-IEC 529:1993: Degrees of protection provided by enclosures of electrical equipment (IP Code);
+2. Van het materiaal voor de romp, de eind- en tussenbodems en de mangathalzen wordt, overeenkomstig de norm EN 10204, een zogenaamd ‘3.1’ keuringsrapport overgelegd. Van mangathalzen voor tanks behoeft geen attest te worden overgelegd, indien deze zijn vervaardigd uit zacht staal of bij tanks overeenkomstig rn. 6.8.2.1.14, onder a) indien de wanddikte van de mangathals ten minste 2 maal de vereiste minimumwanddikte van de tankromp bedraagt.
 
-1. Voertuigen, tanks en tankcontainers voor het vervoer van gevaarlijke stoffen zijn uitsluitend tot het vervoer toegelaten indien zij zijn onderworpen aan een door of namens de directeur verrichte technische keuring, waarbij is gebleken dat is voldaan aan:
+3. Op alle delen van het materiaal bedoeld in het tweede lid is het chargenummer, vermeld in het bijbehorende attest, aangegeven. Dit nummer is door de materiaalfabrikant aangebracht of, bij versneden platen, op een door de directeur te bepalen wijze overgestempeld.
 
-2. De directeur kan voertuigen waarvan de technische inrichting en uitrusting niet voldoen aan deze bijlage goedkeuren, indien de technische inrichting en uitrusting van de voertuigen naar het oordeel van de directeur een gelijkwaardige veiligheid bieden.
+4. Onder gespecificeerde minimumwaarden volgens de materiaalnormen voor austenitische staalsoorten welke ingevolge rn. 6.8.2.1.16 mogen worden overschreden, worden uitsluitend verstaan de rekgrens (Re) en de treksterkte (Rm).
 
 3. Met de krachtens deze regeling tot het vervoer toegelaten voertuigen, tanks en tankcontainers worden gelijkgesteld voertuigen die aan gelijkwaardige eisen voldoen en die tot het vervoer zijn toegelaten in een andere lidstaat van de Europese Unie dan wel in een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
 
-2. De directeur kan voertuigen waarvan de technische inrichting en uitrusting niet voldoen aan deze bijlage goedkeuren, indien de technische inrichting en uitrusting van de voertuigen naar het oordeel van de directeur een gelijkwaardige veiligheid bieden.
+Vervallen.
 
 1. Deze bijlage is niet van toepassing op:
 
 ### **Artikel 4**
 
-1. Wanneer schade aan een voertuig, tank of tankcontainer is ontstaan en een veilig vervoer van gevaarlijke stoffen daardoor niet langer is gewaarborgd, geeft de eigenaar of houder hiervan onverwijld schriftelijk kennis. Indien dit een voertuig betreft wordt de melding gericht aan het keuringsstation van VT waaronder de ondernemer ressorteert. In het geval van schade aan de tank van het voertuig of (tank)containers wordt de melding gericht aan de afdeling IKS van VT.
+Vervallen.
 
 2. Indien herstellingen zijn verricht van schade waarvan vooraf geen melding is gemaakt en tengevolge waarvan, naar het oordeel van de directeur, onvoldoende inzicht in de deugdelijkheid van het voertuig of van belangrijke onderdelen is ontstaan, kan de goedkeuring aan het voertuig worden onthouden.
 
@@ -3342,37 +3342,37 @@ IEC 529:1993: Degrees of protection provided by enclosures of electrical equipme
 
 2. Indien herstellingen zijn verricht van schade waarvan vooraf geen melding is gemaakt en tengevolge waarvan, naar het oordeel van de directeur, onvoldoende inzicht in de deugdelijkheid van het voertuig of van belangrijke onderdelen is ontstaan, kan de goedkeuring aan het voertuig worden onthouden.
 
-1. Bij tanks wordt ter vaststelling van de wanddikte, de eventuele bescherming, de ondersteuning en de bevestiging aan het chassis, uitgegaan van de waarden zoals vastgelegd in Europese Normen die betrekking hebben op het desbetreffende materiaal.
+1. Tanks die niet zijn ontworpen en ingericht om te laden of te lossen onder overdruk en waarvan de waterinhoud van elk tankcompartiment, ongeacht het aantal slingerschotten, ten hoogste 15.000 liter bedraagt, worden geacht de in rn. 6.8.2.1.2 genoemde, op de bodem(s) uitgeoefende kracht ter grootte van 2 maal de massa van de lading te kunnen opnemen.
 
-2. Van het materiaal voor de romp, de eind- en tussenbodems en de mangathalzen wordt, overeenkomstig de norm EN 10204, een zogenaamd ‘3.1’ keuringsrapport overgelegd. Van mangathalzen voor tanks behoeft geen attest te worden overgelegd, indien deze zijn vervaardigd uit zacht staal of bij tanks overeenkomstig rn. 6.8.2.1.14, onder a) indien de wanddikte van de mangathals ten minste 2 maal de vereiste minimumwanddikte van de tankromp bedraagt.
+2. Bij een compartimentinhoud groter dan 15000 liter wordt van de belaste bodem(s) door middel van beproeving dan wel berekening aangetoond dat deze de onder (a) genoemde kracht kan (kunnen) opnemen.
 
 ### **Artikel 3**
 
-### **Artikel 7 rn. 6.8.2.1.4/6.8.2.7**
+### **Artikel 12**
 
-Tot 1 januari 2009 worden de volgende berekeningscodes door de directeur erkend:
+Vervallen.
 
-### **Artikel 8 rn. 6.8.2.1.6**
+### **§ 3 Constructie**
 
-2. Radiografisch lasonderzoek wordt uitgevoerd en gerapporteerd volgens EN 1435. De techniek van het onderzoek volgens klasse B.
-
-3. De resultaten van het radiografisch lasonderzoek worden beoordeeld aan de hand van één van de volgende criteria:
-
-4. Het in het tweede lid bedoelde beoordelingsrapport is gewaarmerkt door een deskundige van een voor dit onderwerp geaccrediteerde instantie of door de directeur erkende instantie, die in aanmerking komt voor aanwijzing indien deze is gecertificeerd en de deskundige is gekwalificeerd overeenkomstig de norm EN 473:1993.
+Vervallen.
 
 3. De resultaten van het radiografisch lasonderzoek worden beoordeeld aan de hand van één van de volgende criteria:
 
-Bij radiografisch lasonderzoek geldt ten aanzien van de omvang daarvan, dat:
+Indien een tank is voorzien van scheidingswanden of slingerschotten die met contraringen aan de tankwand zijn bevestigd alsmede van afdichtingsplaten ter plaatse van doorstroomopeningen, bezitten deze een dikte die ten minste gelijk is aan de wanddikte overeenkomstig rn. 6.8.2.1.19.
 
-Van mangathalzen voor tanks, anders dan bedoeld in artikel 6, behoeft geen attest te worden overgelegd, indien deze zijn vervaardigd uit zacht staal of bij tanks overeenkomstig rn. 6.8.2.1.14, onder a) indien de wanddikte van de mangathals ten minste 2 maal de vereiste minimumwanddikte van de tankromp bedraagt.
+3. De resultaten van het radiografisch lasonderzoek worden beoordeeld aan de hand van één van de volgende criteria:
 
-een certificaat overeenkomstig EN 287 of EN ISO 9606 voor het betreffende lasproces en materiaal wordt overgelegd.
+1. Met uitzondering van tanks overeenkomstig rn. 6.8.2.1.14 onder (a) mogen tanks scharnierend zijn bevestigd indien de constructie en de gehele inrichting daarop zijn afgestemd.
+
+2. In dit geval zijn zodanige voorzieningen aangebracht dat:
+
+Tanks bestemd voor het vervoer van vloeistoffen die niet zijn ontworpen overeenkomstig rn. 6.10 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2011-01-01&g=2011-01-01) zijn niet met een scharnierende eindbodem uitgerust.
 
 ### **§ 2 Dimensionering**
 
-2. De lasmethodekwalificatie is overeenkomstig EN 288 of voldoet aan de voorschriften daaromtrent in de voor het ontwerp van de tanks toegepaste code.
+2. In afwijking van het eerste lid is tevens voldaan aan de eis van explosiebestendigheid indien het prototype van de tank wordt onderworpen aan een hydraulische proefpersing onder een druk van 1,3 maal de berekeningsdruk van 970 kPa (9,7 bar) (absoluut) en, behoudens plastische vervorming, daartegen bestand blijkt.
 
-### **§ 2 Dimensionering**
+### **Artikel 18 binnenbekleding**
 
 ### **Artikel 11 rn. 6.8.2.1.14 onder (a), lagedruk-tanks**
 
@@ -3384,35 +3384,35 @@ een certificaat overeenkomstig EN 287 of EN ISO 9606 voor het betreffende laspro
 
 ### **Artikel 12 klasse 2**
 
+### **§ 4 Bescherming**
+
+### **Artikel 20 rn. 9.7.6 stootbalk algemeen**
+
 ### **§ 3 Constructie**
 
-### **Artikel 13 lasverbindingen**
-
-### **§ 3 Constructie**
-
-2. Het eerste lid is niet van toepassing op lasnaden van versterkingsringen, dubbelplaten en dergelijke die lasnaden in de tankwand kruisen.
+2. Indien de in de [Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798) genoemde beschermingsinrichting tegen klemrijden is aangebracht op ten minste 10 cm achter de achterzijde van de tank of achter de tank aangebrachte apparatuur, kan deze tevens worden aangemerkt als de stootbalk overeenkomstig randnummer 9.7.6.
 
 ### **§ 2 Dimensionering**
 
-Tanks bestemd voor het vervoer van vloeistoffen die niet zijn ontworpen overeenkomstig rn. 6.10 van de bijlagen 1 en 2 mogen niet met een scharnierende eindbodem zijn uitgerust .
+5. Indien de tank:
 
 ### **Artikel 15 scharnierende tank**
 
-### **Artikel 16 scharnierende eindbodem**
+### **Artikel 21**
 
 ### Artikel 21. bovenlossing
 
 3. Van tanks vervaardigd uit glasvezelversterkte kunststof mag de waterinhoud ten hoogste 10.000 liter bedragen.
 
-### **Artikel 17 rn. 6.10 explosiebestendige tank**
+### **Artikel 23 rn. 6.8.4 TE 19 appendages aan de onderzijde**
 
 ### **Artikel 18 binnenbekleding**
 
 ### **§ 3 Constructie**
 
-### **Artikel 18 binnenbekleding**
+### **Artikel 24**
 
-4. Naast het bepaalde in het eerste lid, wordt bij tanks vervaardigd van aluminiumlegeringen de mate van bestendigheid van het tankmateriaal tegen de te vervoeren stoffen aangetoond, waaraan in elk geval is voldaan indien op basis van algemene bestendigheidlijsten, zoals van de fabrikant van het tankmateriaal, wordt aangetoond dat aantasting van de aluminiumlegering door de te vervoeren stof slechts in beperkte mate is te verwachten.
+is deze kunststof vlamdovend uitgevoerd, waaraan geacht wordt te zijn voldaan indien monsters zijn beproefd in overeenstemming met ISO-norm 3795:1989
 
 3. Van het, in het eerste en tweede lid genoemde, toe te passen bekledingsmateriaal, wordt ter beoordeling door de directeur de compatibiliteit met het tankmateriaal, zoals de hechtingseigenschappen, aangetoond.
 
@@ -3420,7 +3420,7 @@ Tanks bestemd voor het vervoer van vloeistoffen die niet zijn ontworpen overeenk
 
 ### **Artikel 20 rn. 9.7.6 stootbalk algemeen**
 
-### **§ 4 Bescherming**
+### **Artikel 26**
 
 ### **Artikel 20 rn. 9.7.6 stootbalk algemeen**
 
@@ -3436,85 +3436,23 @@ Tanks bestemd voor het vervoer van vloeistoffen die niet zijn ontworpen overeenk
 
 ### **Artikel 21 bescherming tegen beschadiging bij botsingen of kantelen**
 
-1. Uitwendig tegen de zijkant, de voorbodem en de achterbodem van tanks aangebrachte uitrustingsdelen zijn zodanig bevestigd of beschermd dat geen gevaar bestaat dat de tank tengevolge van op de betreffende uitrustingsdelen uitgeoefende krachten wordt beschadigd.
+2. Bij toepassing van de combinatie van een veiligheidsventiel en een breekplaat:
 
-### **Artikel 21 bescherming tegen beschadiging bij botsingen of kantelen**
+### **Artikel 29**
 
-1. Uitwendig tegen de zijkant, de voorbodem en de achterbodem van tanks aangebrachte uitrustingsdelen zijn zodanig bevestigd of beschermd dat geen gevaar bestaat dat de tank tengevolge van op de betreffende uitrustingsdelen uitgeoefende krachten wordt beschadigd.
+Vervallen.
 
-### **Artikel 19 rn. 6.8.2.2.4 mangaten**
+### **Artikel 30 rn. 6.10.3.8 onder b, pomp-/afzuiginrichting**
 
-1. In het geval van beschermende kappen zoals morsbakken, mag de lengte van de morsbak een uitwendige lengte hebben van maximaal 1500 mm.
+Bij toepassing van pomp-/compressoreenheden waarin, gezien hun constructie, vonkvorming zou kunnen plaatsvinden, wordt geacht te zijn voldaan aan het bepaalde in rn. 6.10.3.8 onder b, indien ten minste één der volgende maatregelen is getroffen:
 
-### **§ 4 Bescherming**
+### **Artikel 31 rn. 6.8.2.2.2 bedieningsinrichting van de bodemkleppen**
 
-3. In het geval van verzonken aangebrachte uitrusting zoals bedoeld in artikel 6.13.2.3 van EN 13094:2004 behoeft de ring niet de contour van de tank te volgen.
-
-### **Artikel 23 rn. 6.8.4 TE 19 appendages aan de onderzijde**
-
-### Artikel 40
-
-### **Artikel 23 rn. 6.8.4 TE 19 appendages aan de onderzijde**
-
-### **Artikel 24**
-
-Indien voor de constructie van de tank, voor de ommanteling of voor tankuitrustingsdelen, kunststof als materiaal is gekozen en het voertuig is ontworpen voor het vervoer van:
-
-### **Artikel 24**
-
-Indien voor de constructie van de tank, voor de ommanteling of voor tankuitrustingsdelen, kunststof als materiaal is gekozen en het voertuig is ontworpen voor het vervoer van:
-
-### **Artikel 25 tanks overeenkomstig rn. 6.10, scharnierende bodem**
-
-1. Scharnieren van tankbodems zijn nastelbaar uitgevoerd.
-
-### **Artikel 25 tanks overeenkomstig rn. 6.10, scharnierende bodem**
-
-### **Artikel 26 rn. 6.8.2.2.4 tubelures, doorvoerleidingen**
-
-### Artikel 45. mangatdeksels
-
-a. bij een inwendige doorsnede van ten hoogste 50 mm:
-
-### Artikel 47. materiaalaanduiding
-
-### **Artikel 23 rn. 6.8.4 TE 19 appendages aan de onderzijde**
-
-### **Artikel 23 rn. 6.8.4 TE 19 appendages aan de onderzijde**
-
-2. Tubelures die aan de buitenzijde van de tank zijn aangebracht, zijn zo kort mogelijk uitgevoerd.
-
-### **Artikel 24**
-
-### **Artikel 27 rn. 6.8.2.2.2 opening voor schoonmaakdoeleinden**
-
-### Artikel 50. steunpoten
-
-### **Artikel 28 rn. 6.8.2.1.14, onder b tot en met d en 6.8.2.2.6 overdrukventiel**
-
-### **§ 5 Uitrusting**
-
-### **Artikel 28 rn. 6.8.2.1.14, onder b tot en met d en 6.8.2.2.6 overdrukventiel**
-
-### **Artikel 29 rn. 4.3.4.1.1 en 6.8.2.2.6, bescherming tegen vlaminslag**
-
-### **Artikel 26 rn. 6.8.2.2.4 tubelures, doorvoerleidingen**
-
-1. Van tubelures in de tankwand ter bevestiging van uitrustingsdelen en van doorvoerbuizen door de tank komt de wanddikte ten minste overeen met de hierna te noemen waarden:
-
-### Artikel 54. rn.. 9.2.4.3 tot en met 9.2.4.5,
-
-### **Artikel 31 rn. 6.8.2.2.2 bedieningsinrichting van de bodemkleppen en rechtstreeks op de tank aangebrachte afsluiters**
-
-### Artikel 55. rn.. 9.2.4.4 en 9.3.5
+In aanvulling op rn. 6.8.2.2.2 wordt de stand of sluitrichting van de inwendige afsluiters herkenbaar geacht indien bepaalde voorafgaande aan het wegrijden noodzakelijke handelingen, zoals het sluiten van een meterkastluik, het uitschakelen van de p.t.o. of de parkeerremrichting, slechts mogelijk zijn indien de inwendige afsluiters gesloten zijn of indien deze handeling of handelingen het sluiten tot gevolg hebben.
 
 ### **Artikel 32 ventilatieopeningen in appendageruimten**
 
-### **Artikel 27 rn. 6.8.2.2.2 opening voor schoonmaakdoeleinden**
-
-### **Hoofdstuk III Tankuitrustingsdelen**
-
-Indien de laad- en losinrichtingen zijn aangebracht in gesloten ruimten, zijn deze ruimten voorzien van ventilatieopeningen. Deze ventilatieopeningen zijn in de bodem of zo laag mogelijk in de zijwanden aangebracht en omvatten een gezamenlijk oppervlak van ten minste 20 mm2 per liter inhoud van de te ventileren ruimte.
+### Artikel 40
 
 ### **Hoofdstuk III Tankuitrustingsdelen**
 
@@ -3522,15 +3460,77 @@ Indien de laad- en losinrichtingen zijn aangebracht in gesloten ruimten, zijn de
 
 1. De hierna genoemde uitrustingsdelen zijn, voor zover zij zijn voorgeschreven of aanwezig zijn, door de directeur goedgekeurd. Op verzoek van de fabrikant of de officiële vertegenwoordiger in Nederland kan een typegoedkeuring worden aangevraagd, overeenkomstig de artikelen 70 tot en met 73:
 
-### Artikel 60. rn. 9.2.2.2.1 zekeringen
+### **Artikel 24**
+
+Indien voor de constructie van de tank, voor de ommanteling of voor tankuitrustingsdelen, kunststof als materiaal is gekozen en het voertuig is ontworpen voor het vervoer van:
+
+### **Artikel 25 tanks overeenkomstig rn. 6.10, scharnierende bodem**
+
+2. De inrichtingen voor tanks voldoen aan:
+
+### **Artikel 35 overdrukventielen**
+
+### **Artikel 26 rn. 6.8.2.2.4 tubelures, doorvoerleidingen**
+
+### **Artikel 36 bodemafsluiters**
+
+De bodemafsluiters voor tanks:
+
+### **Artikel 37 eindafsluiters**
+
+### **Artikel 23 rn. 6.8.4 TE 19 appendages aan de onderzijde**
+
+### **Artikel 38 mangatdeksels**
+
+Scharnierende mangatdeksels met een werkdruk boven de 0,5 bar zijn voorzien van tenminste 4 knevelbouten met oog of vleugelmoeren.
+
+### **Artikel 39 identificatiekenmerken**
+
+### **Artikel 27 rn. 6.8.2.2.2 opening voor schoonmaakdoeleinden**
+
+### Artikel 50. steunpoten
+
+### **Artikel 28 rn. 6.8.2.1.14, onder b tot en met d en 6.8.2.2.6 overdrukventiel**
+
+### **Artikel 40 materiaalaanduiding**
+
+### **Artikel 28 rn. 6.8.2.1.14, onder b tot en met d en 6.8.2.2.6 overdrukventiel**
+
+### **Artikel 41**
+
+### **Artikel 26 rn. 6.8.2.2.4 tubelures, doorvoerleidingen**
+
+1. Van tubelures in de tankwand ter bevestiging van uitrustingsdelen en van doorvoerbuizen door de tank komt de wanddikte ten minste overeen met de hierna te noemen waarden:
+
+### **Artikel 42 één-assige aanhangwagens**
+
+### **Artikel 31 rn. 6.8.2.2.2 bedieningsinrichting van de bodemkleppen en rechtstreeks op de tank aangebrachte afsluiters**
+
+### **Artikel 43 steunpoten**
+
+### **Artikel 32 ventilatieopeningen in appendageruimten**
+
+### **Artikel 27 rn. 6.8.2.2.2 opening voor schoonmaakdoeleinden**
+
+### **Artikel 44 rn. 9.7.3 tankbevestiging**
+
+1. Afneembare tanks zijn met ten minste vier bouten M16 van kwaliteit 8.8 of met ten minste gelijkwaardige bevestigingsmiddelen, zoals zelfborgende twist-locks, aan de tankbevestigingspunten van het voertuig vastgezet.
+
+### **Hoofdstuk III Tankuitrustingsdelen**
+
+### **Artikel 45 rn. 9.7.5.2 Kantelstabiliteit**
+
+Indien het voldoen aan de eisen voor kantelstabiliteit wordt aangetoond op basis van een berekening dienen de basisgegevens waarmee dit systeem werkt te zijn gevalideerd door praktijktesten. Indien validatie niet afdoende aangetoond wordt vereist de directeur nader onderzoek.
+
+### **Hoofdstuk V Motor en uitlaatleiding rn. 9.2.4.4, 9.2.4.5 en 9.3.5**
 
 2. De voorschriften van de normen EN 13082 (dampafsluiter) en EN 14595(druk- en vacuumontluchting) zijn van toepassing op ontluchtingsinrichtingen als bedoeld in artikel 33, eerste lid, onderdeel a, gebruikt op tanks met een maximale werkdruk van 0,5 bar en het vervoer van vloeibare aardolieproducten en andere gevaarlijk stoffen van klasse 3 met een dampdruk van ten hoogste 1,1 bar en benzine zonder giftige and corrosieve subclassificatie.
 
-### **Artikel 29 rn. 4.3.4.1.1 en 6.8.2.2.6, bescherming tegen vlaminslag**
+### **Artikel 46 rn. 9.2.4.3 tot en met 9.2.4.5**
 
-2. De voorschriften van de normen EN 13082 (dampafsluiter) en EN 14595(druk- en vacuumontluchting) zijn van toepassing op ontluchtingsinrichtingen als bedoeld in artikel 33, eerste lid, onderdeel a, gebruikt op tanks met een maximale werkdruk van 0,5 bar en het vervoer van vloeibare aardolieproducten en andere gevaarlijk stoffen van klasse 3 met een dampdruk van ten hoogste 1,1 bar en benzine zonder giftige and corrosieve subclassificatie.
+Indien het voertuig is uitgevoerd als FL-voertuig of is uitgevoerd als EX/II of EX/III voertuig wordt ten aanzien van de motor die het voertuig voortbeweegt, voldaan aan de artikelen 47 tot en met 49.
 
-### **Artikel 30 rn. 6.10.3.8 onder b, pomp-/afzuiginrichting**
+### **Artikel 47 rn. 9.2.4.4 en 9.3.5**
 
 ### **Artikel 36 bodemafsluiters**
 
@@ -3554,13 +3554,13 @@ De uitvoering van de in genoemd randnummer voorgeschreven identificatieplaat vol
 
 ### Artikel 68
 
-### **Artikel 40 materiaalaanduiding**
+### **Artikel 50 verticaal gerichte uitlaat**
 
-Indien van een bepaald type appendage, afhankelijk van de toepassing, onderdelen van verschillende materialen zijn toegepast, is het feitelijk toegepaste materiaal op het appendage, of in de typecodering aangegeven.
+1. Een verticaal gerichte uitlaatleiding is voor alle categorieën (FL, EX/II, EX/III, OX en AT) toegestaan indien:
 
 ### **Artikel 41 verzegeling**
 
-1. Druk-instelbare ontluchtingsinrichtingen, beluchtinginrichtingen, al dan niet gecombineerd, alsmede afblaasventielen zijn van een gewaarmerkte verzegeling voorzien, welke aan de volgende voorschriften voldoet:
+3. Bij voertuigen van de categorie FL is aan het einde van de uitlaatleiding een vonkenvanger aangebracht.
 
 ### **Artikel 41 verzegeling**
 
@@ -3572,9 +3572,9 @@ Indien van een bepaald type appendage, afhankelijk van de toepassing, onderdelen
 
 Eindafsluiters als bedoeld in artikel 33, eerste lid, onderdeel d:
 
-### **Artikel 38 mangatdeksels**
+### **Artikel 52 rn. 9.2.2.2.1 zekeringen**
 
-2. Indien een oplegger niet is voorzien van parkeersteunen, is deze zodanig ingericht dat losse ondersteuningen kunnen worden geplaatst teneinde bij onderhoudswerkzaamheden en bij de periodieke keuring de ledige oplegger af te koppelen.
+1. Het van fabriekswege tot de standaarduitrusting van een voertuig behorende zekeringenbestand wordt als voldoende aangemerkt, indien ten minste aan het onderstaande is voldaan:
 
 ### **Artikel 44 rn. 9.7.3 tankbevestiging**
 
@@ -3582,21 +3582,21 @@ Eindafsluiters als bedoeld in artikel 33, eerste lid, onderdeel d:
 
 ### **Artikel 44 rn. 9.7.3 tankbevestiging**
 
-### **Artikel 45 rn. 9.7.5.2 Kantelstabiliteit**
+### **Artikel 54 rn. 9.7.8.1 tot en met 9.7.8.3**
 
-Indien het voldoen aan de eisen voor kantelstabiliteit wordt aangetoond op basis van een berekening dienen de basisgegevens waarmee dit systeem werkt te zijn gevalideerd door praktijktesten. Indien validatie niet afdoende aangetoond wordt vereist de directeur nader onderzoek.
+Bij een FL-voertuig is het aanbrengen van elektrische apparatuur in gesloten ruimten waarin tevens leidingen en pompen ten behoeve van de lading aanwezig zijn, toegestaan indien:
 
-### **Hoofdstuk V Motor en uitlaatleiding rn. 9.2.4.4, 9.2.4.5 en 9.3.5**
+### ****Artikel 55 rn. 9.2.2.3 hoofdschakelaar****
 
 ### **§1. Motor voor aandrijving van het voertuig**
 
-1. Druk-instelbare ontluchtingsinrichtingen, beluchtinginrichtingen, al dan niet gecombineerd, alsmede afblaasventielen zijn van een gewaarmerkte verzegeling voorzien, welke aan de volgende voorschriften voldoet:
+2. Indien een voertuig is uitgerust met extra accu’s ten behoeve van hulpapparatuur, voldoen deze aan de volgende voorschriften:
 
 ### **§1. Motor voor aandrijving van het voertuig**
 
 De ontwerpaanvraag bevat de volgende tekeningen in tweevoud (indien van toepassing):
 
-### **Artikel 42 één-assige aanhangwagens**
+### **Artikel 56 rn. 6.8.2.5.1 en 6.8.3.5.1 tank-identificatieplaat**
 
 ### **Artikel 47 rn. 9.2.4.4 en 9.3.5**
 
@@ -3612,57 +3612,57 @@ De ontwerpaanvraag bevat de volgende tekeningen in tweevoud (indien van toepassi
 
 ### **Artikel 49 rn. 9.2.4.5 en 9.3.6**
 
-3. Bij een trekker voor het voortbewegen van een oplegger is in elk geval voldaan aan het tweede lid, indien:
+3. Bij vervoer van vloeibaar gemaakte gassen worden de op het voertuig aan te brengen opschriften aangevuld met het hoogst toelaatbare vulpercentage.
 
 ### **Hoofdstuk V Motor en uitlaatleiding rn. 9.2.4.4, 9.2.4.5 en 9.3.5**
 
-### **Hoofdstuk V Motor en uitlaatleiding rn. 9.2.4.4, 9.2.4.5 en 9.3.5**
+### **Artikel 59**
 
-4. Bij een voertuigchassis voor het vervoer van (tank-)containers wordt geacht te zijn voldaan aan het tweede lid, indien:
+Vervallen.
 
-### **Artikel 46 rn. 9.2.4.3 tot en met 9.2.4.5**
-
-2. Bij voertuigen van de categorieën FL, EX/II, EX/III en OX, waarbij de afstand van de uitlaatleiding ten opzichte van de ladingtank minder dan 50 cm bedraagt, is deze voorzien van een warmtewerende ommanteling.
-
-### **Artikel 47 rn. 9.2.4.4 en 9.3.5**
+### **Hoofdstuk VIII Goedkeuringsprocedures**
 
 2. Bij voertuigen van de categorieën FL, EX/II, EX/III en OX, waarbij de afstand van de uitlaatleiding ten opzichte van de ladingtank minder dan 50 cm bedraagt, is deze voorzien van een warmtewerende ommanteling.
+
+### **Artikel 60**
+
+1. Alvorens tot keuring van een nieuw of gewijzigd voertuig of voertuigdeel wordt overgegaan, zijn ontwerpgegevens van de constructie bij IKS overgelegd en akkoord bevonden;
 
 ### **Artikel 51 rn. 9.2.4.3 tot en met 9 2.4.5**
 
-Bij voertuigen welke zijn bestemd voor het vervoer van brandbare vloeistoffen met een vlampunt van 60°C of lager, met uitzondering van dieselbrandstof overeenkomstig de norm EN 590:2004, gasolie en huisbrandolie(licht) – identificatienummer 1202 – met een vlampunt zoals gespecificeerd in de norm EN 590:2004, of van brandbare stoffen van klasse 2 zoals gedefinieerd in rn. 2.2.2.1.1 mag een verbrandingsmotor als hulpmotor zijn aangebracht die de apparatuur aandrijft, mits aan de volgende voorschriften is voldaan:
+3. Bij ontwerptekeningen, respectievelijk berekeningen inzake een wijziging, wordt deze wijziging zo volledig mogelijk omschreven.
 
 ### **Hoofdstuk VI Elektrische installatie**
 
 ### **Artikel 52 rn. 9.2.2.2.1 zekeringen**
 
-### **Hoofdstuk VI Elektrische installatie**
+### **Artikel 61**
 
-2. Naast het bepaalde in rn. 9.2.2.2.1 zijn uitgezonderd van de verplichting om te zijn gezekerd: standaardschakelingen ten behoeve van in de cabine aangebrachte relais, controlelampen en de elektromotor van een bogieliftinstallatie (ashefinrichting);
+Aan de daartoe door de directeur aangewezen inspecteurs wordt tijdens de bouw of het wijzigen van een voertuig te allen tijde gelegenheid gegeven daarbij tegenwoordig te zijn en worden alle gewenste inlichtingen verstrekt en alle medewerking verleend.
 
-### **Artikel 53**
+### **§ 2. Ontwerpbeoordeling voertuigen met uitzondering van trekkers en dragende motorvoertuigen, opleggers en aanhangwagens voor containers met een inhoud van meer dan 3000 liter**
 
 1. Het gedeelte van de elektrische installatie dat achter de bestuurderscabine is gelegen, voldoet, onverminderd het bepaalde in artikel 52, aan de volgende voorschriften:
 
 ### **Artikel 54 rn. 9.7.8.1 tot en met 9.7.8.3**
 
-Bij voertuigen bestemd voor het vervoer van brandbare vloeistoffen met een vlampunt van 60°C of lager (met uitzondering van dieselolie, gasolie en lichte stookolie – identificatienummer 1202 – met een vlampunt zoals gespecificeerd in de norm EN 590:2004) of van brandbare stoffen van klasse 2 zoals gedefinieerd in rn. 2.2.2.1.1 is het aanbrengen van elektrische apparatuur in gesloten ruimten waarin tevens vul- en aftapleidingen, vloeistofpompen en dergelijke ten behoeve van de lading aanwezig zijn, toegestaan indien:
+2. Voor voertuigen die moeten voldoen aan rn 9.7.5.2 van de ADR wordt aangegeven op welke wijze voldaan wordt.
 
 ### ****Artikel 55 rn. 9.2.2.3 hoofdschakelaar****
 
 1. Indien zo dicht mogelijk bij de aansluiting op de accu’s een voorziening is aangebracht waardoor de stroomsterkte in het te beveiligen circuit een waarde van 1 A bij 30 V (6 A bij 15 V) niet kan overschrijden overeenkomstig figuur A.2.2 - stroomkringen met weerstand van IEC 60079-11 of EN 50 020, is het aangetoond dat delen van de elektrische installatie welke na het openen van de hoofdschakelaar onder spanning blijven, explosieveilig zijn.
 
-### ****Artikel 55 rn. 9.2.2.3 hoofdschakelaar****
+### **Artikel 63**
 
-3. indien een bediening van de hoofdschakelaar aan de buitenzijde van het voertuig is aangebracht, is deze uitgevoerd in een duidelijk opvallende of contrasterende kleur.
+De ontwerpaanvraag bevat de volgende tekeningen in tweevoud (indien van toepassing):
 
-### **Hoofdstuk VII Merktekens**
+### **Artikel 64**
 
-3. indien een bediening van de hoofdschakelaar aan de buitenzijde van het voertuig is aangebracht, is deze uitgevoerd in een duidelijk opvallende of contrasterende kleur.
+Alle tekeningen:
 
-### **Hoofdstuk VII Merktekens**
+### **Artikel 65**
 
-Bij de keuring wordt nagegaan of het te keuren object:
+1. Overzichtstekeningen geven aan voor wat betreft het complete voertuig:
 
 ### **Artikel 52 rn. 9.2.2.2.1 zekeringen**
 
@@ -3674,69 +3674,7 @@ Bij de keuring wordt nagegaan of het te keuren object:
 
 ### **Artikel 58 rn. 6.8.2.5.2, 6.8.3.5.6, 6.8.3.5.11 en 6.8.3.5.12**
 
-### **Artikel 54 rn. 9.7.8.1 tot en met 9.7.8.3**
-
-### ****Artikel 55 rn. 9.2.2.3 hoofdschakelaar****
-
-3. Bij vervoer van vloeibaar gemaakte gassen worden de op het voertuig aan te brengen opschriften aangevuld met het hoogst toelaatbare vulpercentage.
-
-### Artikel 96
-
-### **Artikel 59 rn. 9.2.2.3.2**
-
-### **Hoofdstuk VIII Goedkeuringsprocedures**
-
-2. In afwijking van het bepaalde in artikel 58 is het voor de buitenzijde voorgeschreven opschrift met een letterhoogte van ten minste 10 mm uitgevoerd.
-
-### **Artikel 60**
-
-1. Alvorens tot keuring van een nieuw of gewijzigd voertuig of voertuigdeel wordt overgegaan, zijn ontwerpgegevens van de constructie bij IKS overgelegd en akkoord bevonden;
-
-2. De overgelegde gegevens worden getoetst aan de VLG;
-
-### Artikel 100
-
-4. Indien tijdens de nieuwbouw of de wijziging afwijkingen van een in beginsel goedgekeurde tekening wenselijk worden geacht, wordt dit aan de directeur ter goedkeuring voorgedragen.
-
-### **Artikel 58 rn. 6.8.2.5.2, 6.8.3.5.6, 6.8.3.5.11 en 6.8.3.5.12**
-
-### **Artikel 61**
-
-### Artikel 101. rn. 6.8.2.4.3 dichtheidsproef
-
-3. Bij vervoer van vloeibaar gemaakte gassen worden de op het voertuig aan te brengen opschriften aangevuld met het hoogst toelaatbare vulpercentage.
-
-### **Artikel 62**
-
-### **§ 2. Ontwerpbeoordeling voertuigen met uitzondering van trekkers en dragende motorvoertuigen, opleggers en aanhangwagens voor containers met een inhoud van meer dan 3000 liter**
-
-### **Artikel 62**
-
-3. Voor voertuigen die moeten voldoen aan rn. 9.2.3.1 van de ADR voor wat betreft een antiblokkeer systeem of een duurreminstallatie wordt een aanvraagformulier overgelegd zoals genoemd in artikel 69.
-
-### **§ 2.1 Tekeningen (Algemeen)**
-
-3. Voor voertuigen die moeten voldoen aan rn. 9.2.3.1 van de ADR voor wat betreft een antiblokkeer systeem of een duurreminstallatie wordt een aanvraagformulier overgelegd zoals genoemd in artikel 69.
-
-### **§ 2.1 Tekeningen (Algemeen)**
-
-1. Alvorens tot keuring van een nieuw of gewijzigd voertuig of voertuigdeel wordt overgegaan, zijn ontwerpgegevens van de constructie bij IKS overgelegd en akkoord bevonden;
-
-### Artikel 106
-
-### **Artikel 65**
-
-### Artikel 107
-
-2. Alle tekeningen bij voertuigen met vaste of afneembare tanks geven ten minste aan:
-
-### **Artikel 66**
-
-Alle tanktekeningen geven aan voor wat betreft de tank:
-
-### **Artikel 67**
-
-In aanvulling op artikel 66 geven de tanktekeningen tevens aan:
+### **§ 2.2. Berekeningen**
 
 ### **Artikel 68**
 
@@ -3746,13 +3684,13 @@ Bij het ontwerp worden per voertuig ten minste de volgende berekeningen overgele
 
 ### **Artikel 69**
 
-1. Ingevolge artikel 60, eerste lid, wordt een aanvraagformulier volgens een door de directeur vastgesteld model overgelegd.
+### **Hoofdstuk VIII Goedkeuringsprocedures**
 
-### **Artikel 69**
+2. Op het aanvraagformulier wordt door de fabrikant van het voertuig of zijn officiële vertegenwoordiger in Nederland verklaard aan welke ADR typegoedkeuring het voertuig voldoet. Tevens wordt verklaard dat het ABS en indien van toepassing de duurreminstallatie voldoen aan de eisen zoals vastgesteld in het ADR.
 
-1. Ingevolge artikel 60, eerste lid, wordt een aanvraagformulier volgens een door de directeur vastgesteld model overgelegd.
+### **§ 4. Typegoedkeuring uitrustingsdelen**
 
-### **Artikel 70**
+1. Alvorens tot keuring van een nieuw of gewijzigd voertuig of voertuigdeel wordt overgegaan, zijn ontwerpgegevens van de constructie bij IKS overgelegd en akkoord bevonden;
 
 Typegoedkeuring voor de in artikel 33 genoemde uitrustingsdelen wordt uitsluitend verleend aan de fabrikant van de appendages of aan de officiële vertegenwoordiging daarvan in Nederland.
 
@@ -3762,7 +3700,69 @@ De aanvraag ter verkrijging van een typegoedkeuring gaat vergezeld van de volgen
 
 ### **Artikel 72**
 
-De in artikel 71, onderdelen b, c en e, bedoelde bescheiden worden door de fabrikant van de appendages verstrekt.
+### **Artikel 61**
+
+### **Artikel 73**
+
+Indien de in artikel 71 bedoelde over te leggen bescheiden door de directeur akkoord zijn bevonden wordt een proefexemplaar van het appendage, dat van de vereiste merk- en typeaanduiding(en) is voorzien, ter beoordeling overgelegd.
+
+### **Hoofdstuk IX Keuringen en beproevingen**
+
+### **§ 1. Algemeen**
+
+### **Artikel 74**
+
+Naast het overige dat in de VLG is voorgeschreven, wordt een voertuig onderscheidenlijk tank voor een keuring respectievelijk beproeving aangeboden:
+
+### **Artikel 75**
+
+1. Een nieuw gebouwd of gewijzigd voertuig voor het vervoer van gevaarlijke stoffen wordt niet in dienst gesteld dan na goedkeuring door of namens de directeur.
+
+### **§ 2.1 Tekeningen (Algemeen)**
+
+3. De keuringsdatum wordt vastgesteld nadat de ontwerpgegevens zijn goedgekeurd door de directeur.
+
+### Artikel 106
+
+### **Artikel 76**
+
+### Artikel 107
+
+2. Alle tekeningen bij voertuigen met vaste of afneembare tanks geven ten minste aan:
+
+### **Artikel 66**
+
+2. Bij keuringen en beproevingen bevinden de voertuigen en in het bijzonder de tanks met bijbehorende appendages, zich in een in- en uitwendig afdoende gereinigde staat.
+
+### **Artikel 78**
+
+Voor zover geen inwendige inspectie of proefpersing van de tank is vereist, behoeft de tank niet inwendig te worden gereinigd bij de keuring van:
+
+### **Artikel 68**
+
+2. In deze verklaring is tevens vermeldt welke stof, aangegeven door naam, klasse en rn., als laatste werd vervoerd voorafgaand aan het tijdstip van keuring onderscheidenlijk beproeving.
+
+### **Artikel 80**
+
+### **Artikel 69**
+
+2. Onmiddellijk voor de inwendige inspectie van de tank wordt een door een gasdeskundige als bedoeld in [artikel 3.5h van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.5h) opgemaakt veiligheids- en gezondheidsverklaring overgelegd. Deze veiligheids- en gezondheidsverklaring wordt opgesteld overeenkomstig het in bijlage IX van de [Arbeidsomstandighedenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008498) vastgesteld modellen.
+
+### **Artikel 69**
+
+4. Het in het tweede lid genoemde certificaat behoeft niet te worden overgelegd, indien:
+
+### **Artikel 81**
+
+Indien bij een keuring of beproeving gebreken worden vastgesteld van zodanige aard dat niet tot goedkeuring kan worden overgegaan, wordt aan de ondernemer een opgave verstrekt van de gebreken die tot de weigering van de goedkeuring hebben geleid en wordt het voertuig, nadat de nodige voorzieningen zijn getroffen, voor herkeuring aangeboden.
+
+### **§ 2. Beproevingen (Algemeen)**
+
+De aanvraag ter verkrijging van een typegoedkeuring gaat vergezeld van de volgende bescheiden:
+
+### **Artikel 72**
+
+2. In afwijking van het eerste lid kan de directeur toestaan dat bedoelde beproevingen worden verricht onder toezicht van een door hem aan te wijzen deskundige, in dat geval wordt een door genoemde deskundige gewaarmerkt certificaat overgelegd, waarin is vermeld:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlage 1, die ter inzage wordt gelegd bij het Directoraat-Generaal Goederenvervoer van het Ministerie van Verkeer en Waterstaat, Nieuwe Uitleg 1 te Den Haag.
 
@@ -3770,9 +3770,9 @@ In afwijking van de tweede volzin van randnummer 9.7.5.1 van [bijlage 1](https:/
 
 ### **Artikel 1. Toepassingsbereik**
 
-2. Dit hoofdstuk is, behoudens artikel 3, eerste lid, onderdeel c, niet van toepassing op het vervoer dat plaatsvindt overeenkomstig de randnummers 1.1.3 en 3.4.6 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2010-04-01&g=2010-04-01).
+2. Dit hoofdstuk is niet van toepassing op het vervoer dat plaatsvindt overeenkomstig de randnummers 1.1.3 en hoofdstuk 3.4 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2011-01-01&g=2011-01-01).
 
-Het vervoer van de stoffen die in tabel 3 zijn opgenomen, is routeplichtig als bedoeld in [artikel 12, eerste lid, van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=12).
+Het vervoer van de stoffen die in tabel 1 zijn opgenomen, is routeplichtig als bedoeld in [artikel 12, eerste lid, van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=12).
 
 ### **Artikel 6. Weersomstandigheden**
 
@@ -3784,19 +3784,19 @@ Bij het kruisen van een binnenwater zijn op het vervoer van voertuigen op schepe
 
 ### **Artikel 10. Toelating van voertuigen, tankcontainers en kleine mobiele tanks**
 
-8. Tot 1 januari 2014 is dit artikel van overeenkomstige toepassing op in Nederland in gebruik zijnde kleine mobiele tanks waaronder worden verstaan vaste tanks met een inhoud van ten hoogste 1 m3, bestemd voor het vervoer van dieselolie, gasolie of lichte stookolie.
+De werkgever bewaart de dossiers, bedoeld in randnummers 1.3.3 en 1.10.2.4 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2011-01-01&g=2011-01-01) gedurende de arbeidsrelatie met de werknemer, die de opleiding heeft genoten.
 
 De Inspecteur-Generaal van de Inspectie Verkeer en Waterstaat legt jaarlijks in november aan de Minister ter goedkeuring voor een plan inzake het in het volgende jaar te houden toezicht op de naleving op het vervoer van gevaarlijke stoffen over de weg, bedoeld in artikel 2.
 
-### **Artikel 2**
+### **Artikel 1**
 
 ### **Artikel 3**
 
-1. De plaats waar het toezicht op de naleving, bedoeld in artikel 1, wordt gehouden, wordt zodanig gekozen, dat het mogelijk is de voertuigen die in overtreding zijn, opnieuw met de voorschriften in overeenstemming te brengen of deze voertuigen zo nodig ter plaatse of elders een doorrijverbod op te leggen, zonder dat de veiligheid daardoor in gevaar wordt gebracht.
+2. Wanneer het toezicht is uitgevoerd, ontvangt de bestuurder van het betrokken voertuig een verklaring van de verrichte controle, welke verklaring zoveel mogelijk luidt conform de controlelijst, bedoeld in bijlage I van [richtlijn nr. 95/50/EG](31995L0050).
 
 ### **Artikel 4**
 
-Indien bij het toezicht op de naleving als bedoeld in artikel 1 dan wel anderszins blijkt van naar het oordeel van de Minister of van de Inspecteur-Generaal van de Inspectie Verkeer en Waterstaat, ernstige of herhaalde overtredingen die een gevaar voor de veiligheid van het vervoer van gevaarlijke stoffen opleveren en die zijn begaan met een in een andere lidstaat van de Europese Unie ingeschreven voertuig of gevestigde onderneming, doet de Inspecteur-Generaal van de Inspectie Verkeer en Waterstaat of de Minister daarvan onverwijld mededeling aan de bevoegde instantie van de desbetreffende lidstaat.
+2. Indien het toezicht op de naleving in de onderneming wordt gehouden en overtredingen zijn vastgesteld overeenkomstig bijlage II van [richtlijn nr. 95/50/EG](31995L0050), wordt het betrokken vervoer voor het verlaten van de onderneming in overeenstemming gebracht met de voorschriften, dan wel worden andere naar het oordeel van de Minister gepaste maatregelen genomen.
 
 ### **Artikel 6**
 
@@ -3812,29 +3812,29 @@ Rijkskeuringsvoorschriften betreffende het vervoer over land van gevaarlijke sto
 
 Deze bijlage behoort bij de regeling tot wijziging van de Regeling vervoer over land van gevaarlijke stoffen in verband met de omzetting van de Regeling Rijkskeuringsvoorschriften betreffende het vervoer over land van gevaarlijke stoffen in bijlage 4 bij de Regeling vervoer over land van gevaarlijke stoffen.
 
-EN 288-2:1992: Het beschrijven en kwalificeren van lasprocedures voor metallische materialen – Deel 2: Lasmethodebeschrijving voor het booglassen;
+IEC 60079–11:1999: Electrical apparatus for explosive gas atmospheres – part 11: intrinsic safety ‘i’.
 
 ## Bijlage 4. , bedoeld in [artikel 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&artikel=2&z=2008-02-20&g=2008-02-20), van de Regeling vervoer over land van gevaarlijke stoffen
 
-EN ISO 6947:1997: Lassen – Lasposities – Definities van hellings- en rotatiehoeken;
+2. De directeur kan voertuigen, tanks en tankcontainers waarvan de technische inrichting en uitrusting niet voldoen aan deze bijlage goedkeuren, indien de technische inrichting en uitrusting van de voertuigen, tanks en tankcontainers naar het oordeel van de directeur een gelijkwaardige veiligheid bieden.
 
 ### Hoofdstuk I. Begripsbepalingen
 
-EN 25817:1992 (ISO 5817:1992): Booglasverbindingen in staal – Richtlijn voor het vaststellen van kwaliteitsniveaus voor onvolkomenheden;
+1. Deze bijlage is niet van toepassing op:
 
-### **Artikel 1 Begripsbepalingen**
+### **Artikel 5 rn. 6.8.2.4.4**
 
-2. Van de tanks genoemd in het eerste lid, onderdeel c, wordt een door genoemde instantie afgegeven certificaat overgelegd, waarin is aangegeven dat de tank aan de desbetreffende voorschriften van de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2010-04-01&g=2010-04-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=2&z=2010-04-01&g=2010-04-01) voldoet.
+Vervallen.
 
 1. Deze bijlage is niet van toepassing op:
 
 ### Hoofdstuk III. Algemeen
 
-1. Wanneer schade aan een voertuig, tank of tankcontainer is ontstaan en een veilig vervoer van gevaarlijke stoffen daardoor niet langer is gewaarborgd, geeft de eigenaar of houder hiervan onverwijld schriftelijk kennis. Indien dit een voertuig betreft wordt de melding gericht aan het keuringsstation van VT waaronder de ondernemer ressorteert. In het geval van schade aan de tank van het voertuig of (tank)containers wordt de melding gericht aan de afdeling IKS van VT.
+Vervallen.
 
-3. Op alle delen van het materiaal bedoeld in het tweede lid is het chargenummer, vermeld in het bijbehorende attest, aangegeven. Dit nummer is door de materiaalfabrikant aangebracht of, bij versneden platen, op een door de directeur te bepalen wijze overgestempeld.
+rn. 6.9
 
-4. Onder gespecificeerde minimumwaarden volgens de materiaalnormen voor austenitische staalsoorten welke ingevolge rn. 6.8.2.1.16 mogen worden overschreden, worden uitsluitend verstaan de rekgrens (Re) en de treksterkte (Rm).
+3. Van tanks vervaardigd uit glasvezelversterkte kunststof mag de waterinhoud ten hoogste 10.000 liter bedragen.
 
 1. Het kwaliteitsniveau van de lassen dient te voldoen aan:
 
@@ -3842,49 +3842,49 @@ EN 25817:1992 (ISO 5817:1992): Booglasverbindingen in staal – Richtlijn voor h
 
 1. Een lasser wordt als gediplomeerd in de zin van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2010-04-01&g=2010-04-01) beschouwd indien
 
-een certificaat overeenkomstig EN 287 of EN ISO 9606 voor het betreffende lasproces en materiaal wordt overgelegd.
+1. Voor de constructie van een explosiebestendige tank zijn de volgende criteria van toepassing:
 
-2. Bij een compartimentinhoud groter dan 15000 liter wordt van de belaste bodem(s) door middel van beproeving dan wel berekening aangetoond dat deze de onder (a) genoemde kracht kan (kunnen) opnemen.
+1. Bij elke metalen tank waarvan het tankmateriaal tegen aantasting door de te vervoeren stof dan wel stoffen wordt beschermd door middel van een binnenbekleding, is door de fabrikant van de binnenbekleding een verklaring overgelegd waarin is aangegeven dat deze binnenbekleding voldoende bestand is tegen de stof dan wel stoffen waarvoor de tank is ontworpen. In deze verklaring zijn de benaming van elke stof, het UN-nummer en de desbetreffende klasse, alsmede het fabricagenummer van de tank vermeld.
 
 1. Bij tanks voor het vervoer van een vloeibaar gemaakt gas van klasse 2 is voor het bepalen van de maximaal toelaatbare tankinhoud het vastgestelde maximumvulgewicht bij de maximumvullingsgraad maatgevend.
 
 ### **Artikel 13 lasverbindingen**
 
-Indien een tank is voorzien van scheidingswanden of slingerschotten die met contraringen aan de tankwand zijn bevestigd alsmede van afdichtingsplaten ter plaatse van doorstroomopeningen, bezitten deze een dikte die ten minste gelijk is aan de wanddikte overeenkomstig rn. 6.8.2.1.19.
+4. Indien de tank niet is voorzien van de in rn. 6.8.2.2.2 genoemde eindafsluiter aan het einde van elke vul- en losleiding, bedraagt het weerstandsmoment tegen buiging van de stootbalk om de zwakste doorsnede ten minste 30 cm3.
 
 ### **Artikel 15 scharnierende tank**
 
-2. In dit geval zijn zodanige voorzieningen aangebracht dat:
+6. (stootbalk bij tanks met isolerende bekleding) Bij tanks voorzien van een uitwendige isolerende bekleding wordt de achterzijde van de binnentank als het meest naar achteren gelegen deel van de tankwand aangemerkt. De achterzijde van de stootbalk behoeft niet meer dan 50 mm achter de bekledingsbodem te zijn gelegen (gemeten in rijklare toestand van het voertuig), mits de dikte van de isolatie ten minste 50 mm bedraagt.
 
 2. In afwijking van het eerste lid is tevens voldaan aan de eis van explosiebestendigheid indien het prototype van de tank wordt onderworpen aan een hydraulische proefpersing onder een druk van 1,3 maal de berekeningsdruk van 970 kPa (9,7 bar) (absoluut) en, behoudens plastische vervorming, daartegen bestand blijkt.
 
-### **Artikel 19 rn. 6.8.2.2.4 mangaten**
+### **§ 5 Uitrusting**
 
 Bij tanks die niet zijn uitgerust met een scharnierende achterbodem bedraagt de inwendige doorsnede van mangaten ten minste 500 mm.
 
-1. Met uitzondering van tanks overeenkomstig rn. 6.8.2.1.14 onder (a) mogen tanks scharnierend zijn bevestigd indien de constructie en de gehele inrichting daarop zijn afgestemd.
-
-5. Indien de tank:
-
-### **Artikel 18 binnenbekleding**
-
-1. Ter bepaling van de in rn. 6.8.4 TE 19 voorgeschreven maat van 200 mm worden als meest uitstekende deel van de tank uitsluitend de tankwand, ononderbroken versterkingsringen of langsbalken ter bescherming van de tank aangemerkt.
-
-### Artikel 41. rn.. 6.8.2.2.6 ontluchtingsinrichtingen overeenkomstig
-
 1. Scharnieren van tankbodems zijn nastelbaar uitgevoerd.
-
-### **Artikel 26 rn. 6.8.2.2.4 tubelures, doorvoerleidingen**
-
-2. Tubelures die aan de buitenzijde van de tank zijn aangebracht, zijn zo kort mogelijk uitgevoerd.
-
-### **Artikel 27 rn. 6.8.2.2.2 opening voor schoonmaakdoeleinden**
 
 2. De opening is uitsluitend uitgevoerd als blokflens, welke rechtstreeks in de tankwand is gelast.
 
-### **Artikel 30 rn. 6.10.3.8 onder b, pomp-/afzuiginrichting**
+### **Artikel 28 rn. 6.8.2.1.14, onder b tot en met d en 6.8.2.2.6 overdrukventiel**
 
-a. bij een inwendige doorsnede van ten hoogste 50 mm:
+Indien de laad- en losinrichtingen zijn aangebracht in gesloten ruimten, zijn deze ruimten voorzien van ventilatieopeningen. Deze ventilatieopeningen zijn in de bodem of zo laag mogelijk in de zijwanden aangebracht en omvatten een gezamenlijk oppervlak van ten minste 20 mm2 per liter inhoud van de te ventileren ruimte.
+
+### Artikel 41. rn.. 6.8.2.2.6 ontluchtingsinrichtingen overeenkomstig
+
+Overdrukventielen als bedoeld in artikel 33, eerste lid, onderdeel b:
+
+### **Artikel 26 rn. 6.8.2.2.4 tubelures, doorvoerleidingen**
+
+Eindafsluiters als bedoeld in artikel 33, eerste lid, onderdeel d:
+
+### **Artikel 27 rn. 6.8.2.2.2 opening voor schoonmaakdoeleinden**
+
+1. Tenzij in de betreffende appendagenormen anders wordt bepaald dienen uitrustingsdelen te zijn voorzien van de volgende, duidelijk en duurzaam aangebrachte kenmerken:
+
+### **Hoofdstuk IV Chassis**
+
+Eén-assige en meerassige middenasaanhangwagens zijn uitsluitend toegestaan voor het vervoer van vaste (poeder- of korrelvormige) stoffen.
 
 ### **Artikel 33**
 
@@ -3892,31 +3892,7 @@ a. bij een inwendige doorsnede van ten hoogste 50 mm:
 
 ### **Artikel 34 rn. 6.8.2.2.6 ontluchtingsinrichtingen**
 
-Bij toepassing van pomp-/compressoreenheden waarin, gezien hun constructie, vonkvorming zou kunnen plaatsvinden, wordt geacht te zijn voldaan aan het bepaalde in rn. 6.10.3.8 onder b, indien ten minste één der volgende maatregelen is getroffen:
-
-### **Artikel 36 bodemafsluiters**
-
-Eindafsluiters als bedoeld in artikel 33, eerste lid, onderdeel d:
-
-### **Artikel 38 mangatdeksels**
-
-1. De hierna genoemde uitrustingsdelen zijn, voor zover zij zijn voorgeschreven of aanwezig zijn, door de directeur goedgekeurd. Op verzoek van de fabrikant of de officiële vertegenwoordiger in Nederland kan een typegoedkeuring worden aangevraagd, overeenkomstig de artikelen 70 tot en met 73:
-
-### **Artikel 35 overdrukventielen**
-
-### **Artikel 42 één-assige aanhangwagens**
-
-Eén-assige en meerassige middenasaanhangwagens zijn uitsluitend toegestaan voor het vervoer van vaste (poeder- of korrelvormige) stoffen.
-
-1. Afneembare tanks zijn met ten minste vier bouten M16 van kwaliteit 8.8 of met ten minste gelijkwaardige bevestigingsmiddelen, zoals zelfborgende twist-locks, aan de tankbevestigingspunten van het voertuig vastgezet.
-
-### **Artikel 40 materiaalaanduiding**
-
-Indien het voldoen aan de eisen voor kantelstabiliteit wordt aangetoond op basis van een berekening dienen de basisgegevens waarmee dit systeem werkt te zijn gevalideerd door praktijktesten. Indien validatie niet afdoende aangetoond wordt vereist de directeur nader onderzoek.
-
-### **Artikel 46 rn. 9.2.4.3 tot en met 9.2.4.5**
-
-2. Aan het bepaalde in het eerste lid, onderdeel a, is bij een trekker voor een oplegger in elk geval voldaan, indien genoemde delen zich op niet meer dan 20 cm achter de achterwand van de bestuurderscabine bevinden.
+1. Aan het bepaalde in rn. 9.2.4.4 en 9.3.5 wordt geacht te zijn voldaan indien:
 
 ### **Artikel 48 rn. 9.2.4.5 en 9.3.6**
 
@@ -3926,13 +3902,37 @@ Indien het voldoen aan de eisen voor kantelstabiliteit wordt aangetoond op basis
 
 2. De uitlaatleiding behoeft niet van een (aanvullende) warmtewerende afscherming te worden voorzien indien:
 
+### **Artikel 35 overdrukventielen**
+
+### **Artikel 51 rn. 9.2.4.3 tot en met 9 2.4.5**
+
+Bij een FL-voertuig mag een verbrandingsmotor als hulpmotor zijn aangebracht die de apparatuur aandrijft, mits aan de volgende voorschriften is voldaan:
+
+1. Afneembare tanks zijn met ten minste vier bouten M16 van kwaliteit 8.8 of met ten minste gelijkwaardige bevestigingsmiddelen, zoals zelfborgende twist-locks, aan de tankbevestigingspunten van het voertuig vastgezet.
+
+### **Artikel 40 materiaalaanduiding**
+
+1. Indien zo dicht mogelijk bij de aansluiting op de accu’s een voorziening is aangebracht waardoor de stroomsterkte in het te beveiligen circuit een waarde van 1 A bij 30 V (6 A bij 15 V) niet kan overschrijden overeenkomstig figuur A.2.2 - stroomkringen met weerstand van IEC 60079-11 of EN 50 020, is het aangetoond dat delen van de elektrische installatie welke na het openen van de hoofdschakelaar onder spanning blijven, explosieveilig zijn.
+
+### **Artikel 46 rn. 9.2.4.3 tot en met 9.2.4.5**
+
+De uitvoering van de in genoemd randnummer voorgeschreven identificatieplaat voldoet aan de navolgende voorschriften:
+
+### **Artikel 57 rn 6.8.2.5.1 en 6.8.3.5.10 waarmerk**
+
+2. Het in het eerste lid bedoelde waarmerk, zoals gebruikt tot 1 januari 2005, blijft van kracht gedurende de termijn dat de desbetreffende keuring geldig is.
+
+### **Artikel 58 rn. 6.8.2.5.2, 6.8.3.5.6, 6.8.3.5.11 en 6.8.3.5.12**
+
+2. De opschriften zijn van buitenaf duidelijk leesbaar aangegeven.
+
 ### **Artikel 45 rn. 9.7.5.2 Kantelstabiliteit**
 
 5. In verband met de aansluiting van een uitlaatgasafzuiginrichting behoeft het aan de uitmonding grenzende deel van de uitlaatleiding over een lengte van ten hoogste 10 cm niet te zijn afgeschermd.
 
 ### **Artikel 50 verticaal gerichte uitlaat**
 
-Bij voertuigen welke zijn bestemd voor het vervoer van brandbare vloeistoffen met een vlampunt van 60°C of lager, met uitzondering van dieselbrandstof overeenkomstig de norm EN 590:2004, gasolie en huisbrandolie(licht) – identificatienummer 1202 – met een vlampunt zoals gespecificeerd in de norm EN 590:2004, of van brandbare stoffen van klasse 2 zoals gedefinieerd in rn. 2.2.2.1.1 mag een verbrandingsmotor als hulpmotor zijn aangebracht die de apparatuur aandrijft, mits aan de volgende voorschriften is voldaan:
+5. De directeur deelt de goedkeuring van het ontwerp, waaraan voorschriften kunnen worden verbonden, schriftelijk mede aan de ondernemer;
 
 ### **Artikel 52 rn. 9.2.2.2.1 zekeringen**
 
@@ -3948,7 +3948,7 @@ Bij voertuigen welke zijn bestemd voor het vervoer van brandbare vloeistoffen me
 
 3. Bij ontwerptekeningen, respectievelijk berekeningen inzake een wijziging, wordt deze wijziging zo volledig mogelijk omschreven.
 
-4. Indien tijdens de nieuwbouw of de wijziging afwijkingen van een in beginsel goedgekeurde tekening wenselijk worden geacht, wordt dit aan de directeur ter goedkeuring voorgedragen.
+De in artikel 71, onderdelen b, c en e, bedoelde bescheiden worden door de fabrikant van de appendages verstrekt.
 
 ### **§ 2. Ontwerpbeoordeling voertuigen met uitzondering van trekkers en dragende motorvoertuigen, opleggers en aanhangwagens voor containers met een inhoud van meer dan 3000 liter**
 
@@ -3958,19 +3958,19 @@ Bij voertuigen welke zijn bestemd voor het vervoer van brandbare vloeistoffen me
 
 3. Bij ontwerptekeningen, respectievelijk berekeningen inzake een wijziging, wordt deze wijziging zo volledig mogelijk omschreven.
 
-### **Artikel 65**
+### **Artikel 77**
 
-### **§ 2.2. Berekeningen**
+### **Artikel 79**
 
-In aanvulling op artikel 66 geven de tanktekeningen tevens aan:
+1. Bij keuringen, onderscheidenlijk beproevingen zonder inwendige inspectie van de tank wordt het bepaalde onder artikel 77, tweede lid, bevestigd in een door de eigenaar, dan wel houder van het voertuig opgestelde verklaring, welke onmiddellijk vóór de keuring onderscheidenlijk beproeving aan de keurende inspecteur wordt afgegeven.
 
-Bij het ontwerp worden per voertuig ten minste de volgende berekeningen overgelegd:
+1. Voorafgaand aan een inwendige inspectie is de tank inwendig gereinigd.
 
 ### **§ 3. Beoordeling van een aanvraag voor goedkeuring van een trekker of een dragend motorvoertuig of getrokken voertuig voor containers met een inhoud groter dan 3000 liter**
 
-### **Artikel 73**
+### **Artikel 83**
 
-Indien de in artikel 71 bedoelde over te leggen bescheiden door de directeur akkoord zijn bevonden wordt een proefexemplaar van het appendage, dat van de vereiste merk- en typeaanduiding(en) is voorzien, ter beoordeling overgelegd.
+Ten aanzien van tanks waarop rn. 6.8.2.1.14 onder a) van toepassing is, die zijn verdeeld in compartimenten en die zijn gebouwd overeenkomstig voorschriften die golden voor 1 januari 1990 behoeven de compartimenten geen afzonderlijke beproeving van de in rn. 6.8.2.1.14 onder a) bedoelde druk.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlage 1, die ter inzage wordt gelegd bij het Directoraat-Generaal Goederenvervoer van het Ministerie van Verkeer en Waterstaat, Nieuwe Uitleg 1 te Den Haag.
 
@@ -3988,35 +3988,35 @@ EN 14595: 2003: Tanks voor het transport van gevaarlijke goederen – Onderhouds
 
 1. Tanks die niet zijn ontworpen en ingericht om te laden of te lossen onder overdruk en waarvan de waterinhoud van elk tankcompartiment, ongeacht het aantal slingerschotten, ten hoogste 15.000 liter bedraagt, worden geacht de in rn. 6.8.2.1.2 genoemde, op de bodem(s) uitgeoefende kracht ter grootte van 2 maal de massa van de lading te kunnen opnemen.
 
-rn. 6.9
-
-3. Van tanks vervaardigd uit glasvezelversterkte kunststof mag de waterinhoud ten hoogste 10.000 liter bedragen.
-
-rn. 6.9
-
-1. Kruisende lasnaden in de tankwand zijn niet toegestaan. Ter voorkoming hiervan zijn de volgende constructiewijze of werkwijze toegestaan:
-
-1. Kruisende lasnaden in de tankwand zijn niet toegestaan. Ter voorkoming hiervan zijn de volgende constructiewijze of werkwijze toegestaan:
-
-1. Met uitzondering van tanks overeenkomstig rn. 6.8.2.1.14 onder (a) mogen tanks scharnierend zijn bevestigd indien de constructie en de gehele inrichting daarop zijn afgestemd.
-
-1. Met uitzondering van tanks overeenkomstig rn. 6.8.2.1.14 onder (a) mogen tanks scharnierend zijn bevestigd indien de constructie en de gehele inrichting daarop zijn afgestemd.
-
-Tanks bestemd voor het vervoer van vloeistoffen die niet zijn ontworpen overeenkomstig rn. 6.10 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2010-04-01&g=2010-04-01) zijn niet met een scharnierende eindbodem uitgerust.
-
-1. Voor de constructie van een explosiebestendige tank zijn de volgende criteria van toepassing:
-
 2. Indien de binnenbekleding uitsluitend is aangebracht om de zuiverheid van de lading te waarborgen, is de bestendigheid van het tankmateriaal tegen de te vervoeren stoffen maatgevend.
 
 3. Van het, in het eerste en tweede lid genoemde, toe te passen bekledingsmateriaal, wordt ter beoordeling door de directeur de compatibiliteit met het tankmateriaal, zoals de hechtingseigenschappen, aangetoond.
 
-Bij tanks die niet zijn uitgerust met een scharnierende achterbodem bedraagt de inwendige doorsnede van mangaten ten minste 500 mm.
+4. Naast het bepaalde in het eerste lid, wordt bij tanks vervaardigd van aluminiumlegeringen de mate van bestendigheid van het tankmateriaal tegen de te vervoeren stoffen aangetoond, waaraan in elk geval is voldaan indien op basis van algemene bestendigheidlijsten, zoals van de fabrikant van het tankmateriaal, wordt aangetoond dat aantasting van de aluminiumlegering door de te vervoeren stof slechts in beperkte mate is te verwachten.
 
-2. Indien de in de [Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798) genoemde beschermingsinrichting tegen klemrijden is aangebracht op ten minste 10 cm achter de achterzijde van de tank of achter de tank aangebrachte apparatuur, kan deze tevens worden aangemerkt als de stootbalk overeenkomstig randnummer 9.7.6.
+1. Van de stootbalk bedraagt het weerstandsmoment tegen buiging om de zwakste doorsnede ten minste 20 cm3.
 
-4. Indien de tank niet is voorzien van de in rn. 6.8.2.2.2 genoemde eindafsluiter aan het einde van elke vul- en losleiding, bedraagt het weerstandsmoment tegen buiging van de stootbalk om de zwakste doorsnede ten minste 30 cm3.
+3. (apparatuurkast) Indien de tank aan de achterzijde is beschermd door een constructie, zoals een apparatuurkast waarvan de sterkte ten minste gelijkwaardig is aan die van genoemde stootbalk, is voldaan aan het gestelde in rn. 9.7.6. De constructie alsmede de bevestiging hiervan aan het voertuig is van dien aard, dat de bij een ongeval op de kast uitgeoefende krachten zodanig op het voertuigchassis worden overgebracht, dat beschadiging van de tank wordt voorkomen.
 
 mag de stootbalk aan de betreffende achterbodem zijn bevestigd mits de stootbalk ten minste 10 cm achter het achterste punt van elke vul- en losleiding is gelegen.
+
+1. Met uitzondering van tanks overeenkomstig rn. 6.8.2.1.14 onder (a) mogen tanks scharnierend zijn bevestigd indien de constructie en de gehele inrichting daarop zijn afgestemd.
+
+Vervallen.
+
+Vervallen.
+
+2. Indien de binnenbekleding uitsluitend is aangebracht om de zuiverheid van de lading te waarborgen, is de bestendigheid van het tankmateriaal tegen de te vervoeren stoffen maatgevend.
+
+Indien voor de constructie van de tank, voor de ommanteling of voor tankuitrustingsdelen, kunststof als materiaal is gekozen en het voertuig is ontworpen voor het vervoer van:
+
+2. Knevels ten behoeve van de sluiting van de tankbodem voldoen aan de volgende voorschriften:
+
+Vervallen.
+
+1. De doorlaatopening bedraagt ten hoogste 100 mm.
+
+1. Tanks welke onder overdruk kunnen worden gelost, zijn in de overdruklosinstallatie voorzien van een overdrukventiel, welke :
 
 2. Bij tanks die beschermd worden door een isolerende laag van steen- of glaswol met een dikte van 100 mm en een buitenwand van 0,8 mm austenitisch staal mag de buitenbodem uitgevoerd worden in glasvezelversterkte kunststof met een wanddikte van ten minste 3 mm.
 
@@ -4032,11 +4032,11 @@ De uitrustingsdelen boven op de tank dienen te worden beschermd met een construc
 
 1. Ter bepaling van de in rn. 6.8.4 TE 19 voorgeschreven maat van 200 mm worden als meest uitstekende deel van de tank uitsluitend de tankwand, ononderbroken versterkingsringen of langsbalken ter bescherming van de tank aangemerkt.
 
-is deze kunststof vlamdovend uitgevoerd, waaraan geacht wordt te zijn voldaan indien monsters zijn beproefd in overeenstemming met ISO-norm 3759:1989
+2. In geval de in de randnummer 6.8.2.6 opgenomen normen niet op de uitvoering van de uitrustingsdelen, bedoeld in het eerste lid van toepassing zijn, voldoet die uitvoering aan de artikelen 34 tot en met 37, 39 en 40.
 
-### **§ 5 Uitrusting**
+### **Artikel 34 rn. 6.8.2.2.6 ontluchtingsinrichtingen**
 
-is deze kunststof vlamdovend uitgevoerd, waaraan geacht wordt te zijn voldaan indien monsters zijn beproefd in overeenstemming met ISO-norm 3759:1989
+1. Ontluchtingsinrichtingen zijn uitgevoerd als:
 
 1. Van tubelures in de tankwand ter bevestiging van uitrustingsdelen en van doorvoerbuizen door de tank komt de wanddikte ten minste overeen met de hierna te noemen waarden:
 
@@ -4044,9 +4044,9 @@ b. bij een inwendige doorsnede van meer dan 50 mm:
 
 3. Indien een uitwendige leiding vast op een afsluiter op de tank is aangesloten, zijn beschermende voorzieningen getroffen om te voorkomen dat tengevolge van een ongeval, hierop uitgeoefende krachten tot ondichtheid van de tank leiden.
 
-3. De opening is uitsluitend door middel van een blindflens afgesloten.
+2. Indien de in het eerste lid bedoelde kenmerken niet van fabriekswege op de appendages aanwezig zijn, worden deze alsnog door de fabrikant of de importeur aangebracht, rechtstreeks of op een corrosiebestendig plaatje, hetwelk op duurzame wijze, bij voorbeeld door middel van lassen of klinken op het appendage wordt bevestigd.
 
-2. Bij toepassing van de combinatie van een veiligheidsventiel en een breekplaat:
+Indien van een bepaald type appendage, afhankelijk van de toepassing, onderdelen van verschillende materialen zijn toegepast, is het feitelijk toegepaste materiaal op het appendage, of in de typecodering aangegeven.
 
 1. Tanks welke onder overdruk kunnen worden gelost, zijn in de overdruklosinstallatie voorzien van een overdrukventiel, welke :
 
@@ -4054,15 +4054,15 @@ Bij toepassing van pomp-/compressoreenheden waarin, gezien hun constructie, vonk
 
 Naast het bepaalde in rn. 6.8.2.2.2 wordt eveneens geacht aan de controleerbaarheid van de stand (open of dicht) te zijn voldaan, indien bepaalde voor het wegrijden noodzakelijke handelingen zoals het sluiten van een meterkastluik, het uitschakelen van de p.t.o. of de parkeerreminrichting ofwel slechts mogelijk zijn indien bedoelde appendages zijn gesloten, dan wel het sluiten van bedoelde appendages tot gevolg hebben.
 
-2. Tubelures die aan de buitenzijde van de tank zijn aangebracht, zijn zo kort mogelijk uitgevoerd.
+1. Opleggers zijn voorzien van in hoogte verstelbare parkeersteunen (steunpoten) die het mogelijk maken de oplegger te ondersteunen indien deze wordt afgekoppeld van de trekker, waarbij de bevestiging en de toegepaste hefinrichting van de parkeersteunen:
 
 1. De doorlaatopening bedraagt ten hoogste 100 mm.
 
-1. De hierna genoemde uitrustingsdelen zijn, voor zover zij zijn voorgeschreven of aanwezig zijn, door de directeur goedgekeurd. Op verzoek van de fabrikant of de officiële vertegenwoordiger in Nederland kan een typegoedkeuring worden aangevraagd, overeenkomstig de artikelen 70 tot en met 73:
+2. De tankbevestigingspunten zijn met behulp van een profielconstructie deugdelijk met het voertuigchassis verbonden.
 
 1. Ontluchtingsinrichtingen zijn uitgevoerd als:
 
-### **Artikel 34 rn. 6.8.2.2.6 ontluchtingsinrichtingen**
+### **§1. Motor voor aandrijving van het voertuig**
 
 3. De inrichtingen voor tanks, anders dan bedoeld in het tweede lid voldoen aan:
 
@@ -4070,59 +4070,59 @@ Naast het bepaalde in rn. 6.8.2.2.2 wordt eveneens geacht aan de controleerbaarh
 
 Overdrukventielen als bedoeld in artikel 33, eerste lid, onderdeel b:
 
-1. De voorschriften van de normen EN 13308 en EN 13316 zijn van toepassing op bodemafsluiters als bedoeld in artikel 33, eerste lid, onderdeel c, gebruikt op tanks met een maximale werkdruk van 0,5 bar en het vervoer van vloeibare aardolieproducten en andere gevaarlijk stoffen van klasse 3 met een dampdruk van ten hoogste 1,1 bar en benzine, zonder giftige en corrosieve subclassificatie.
-
-1. De voorschriften van de normen EN 13308 en EN 13316 zijn van toepassing op bodemafsluiters als bedoeld in artikel 33, eerste lid, onderdeel c, gebruikt op tanks met een maximale werkdruk van 0,5 bar en het vervoer van vloeibare aardolieproducten en andere gevaarlijk stoffen van klasse 3 met een dampdruk van ten hoogste 1,1 bar en benzine, zonder giftige en corrosieve subclassificatie.
-
-Scharnierende mangatdeksels met een werkdruk boven de 0,5 bar zijn voorzien van tenminste 4 knevelbouten met oog of vleugelmoeren.
-
-2. Indien de in het eerste lid bedoelde kenmerken niet van fabriekswege op de appendages aanwezig zijn, worden deze alsnog door de fabrikant of de importeur aangebracht, rechtstreeks of op een corrosiebestendig plaatje, hetwelk op duurzame wijze, bij voorbeeld door middel van lassen of klinken op het appendage wordt bevestigd.
-
-3. De identificatiekenmerken op de appendages worden op een zodanige plaats aangebracht dat deze leesbaar zijn, indien de appendages zijn gemonteerd.
-
-2. Indien de in het eerste lid bedoelde kenmerken niet van fabriekswege op de appendages aanwezig zijn, worden deze alsnog door de fabrikant of de importeur aangebracht, rechtstreeks of op een corrosiebestendig plaatje, hetwelk op duurzame wijze, bij voorbeeld door middel van lassen of klinken op het appendage wordt bevestigd.
-
-Overdrukventielen als bedoeld in artikel 33, eerste lid, onderdeel b:
-
-### **Artikel 36 bodemafsluiters**
-
-2. Indien de verzegeling, bedoeld in het eerste lid, onder a, onderdeel 1°, namens de directeur wordt aangebracht door een gebruiker, geschiedt dit onder de volgende voorwaarden:
-
-### **Artikel 43 steunpoten**
-
-1. Opleggers zijn voorzien van in hoogte verstelbare parkeersteunen (steunpoten) die het mogelijk maken de oplegger te ondersteunen indien deze wordt afgekoppeld van de trekker, waarbij de bevestiging en de toegepaste hefinrichting van de parkeersteunen:
-
-### **Artikel 43 steunpoten**
-
-1. Opleggers zijn voorzien van in hoogte verstelbare parkeersteunen (steunpoten) die het mogelijk maken de oplegger te ondersteunen indien deze wordt afgekoppeld van de trekker, waarbij de bevestiging en de toegepaste hefinrichting van de parkeersteunen:
-
-2. De tankbevestigingspunten zijn met behulp van een profielconstructie deugdelijk met het voertuigchassis verbonden.
-
-### **Artikel 47 rn. 9.2.4.4 en 9.3.5**
-
-1. Aan het bepaalde in rn. 9.2.4.4 en 9.3.5 wordt geacht te zijn voldaan indien:
+2. Aan het bepaalde in het eerste lid, onderdeel a, is bij een trekker voor een oplegger in elk geval voldaan, indien genoemde delen zich op niet meer dan 20 cm achter de achterwand van de bestuurderscabine bevinden.
 
 1. De uitmonding van de uitlaatleiding is niet onder of in de nabijheid van vul- en aftapaansluitingen, apparatuurkasten en dergelijke gelegen.
 
 1. Aan het bepaalde in rn.’s 9.2.4.5 en 9.3.6 is voldaan indien een afscherming is aangebracht die ten minste even doeltreffend is als een afscherming met de onderstaande kenmerken:
 
+4. Bij een voertuigchassis voor het vervoer van (tank-)containers wordt geacht te zijn voldaan aan het tweede lid, indien:
+
+5. In verband met de aansluiting van een uitlaatgasafzuiginrichting behoeft het aan de uitmonding grenzende deel van de uitlaatleiding over een lengte van ten hoogste 10 cm niet te zijn afgeschermd.
+
+2. Indien de in het eerste lid bedoelde kenmerken niet van fabriekswege op de appendages aanwezig zijn, worden deze alsnog door de fabrikant of de importeur aangebracht, rechtstreeks of op een corrosiebestendig plaatje, hetwelk op duurzame wijze, bij voorbeeld door middel van lassen of klinken op het appendage wordt bevestigd.
+
+2. Bij voertuigen van de categorieën FL, EX/II, EX/III en OX, waarbij de afstand van de uitlaatleiding ten opzichte van de ladingtank minder dan 50 cm bedraagt, is deze voorzien van een warmtewerende ommanteling.
+
+### **Artikel 36 bodemafsluiters**
+
+4. Het derde lid is niet van toepassing op voertuigen die zijn uitgerust met een uitlaatgasnabehandelingssysteem, voor zover het voertuigen betreft die minimaal voldoen aan de emissiegrenswaarden als opgenomen in de rijen B1, B2 of C van tabel 1 van bijlage 1 van richtlijn nr. 2005/55/EG van het Europees Parlement en de Raad van 28 september 2005 inzake de onderlinge aanpassing van de wetgevingen van de lidstaten met betrekking tot maatregelen tegen de emissie van verontreinigende gassen en deeltjes door voertuigmotoren met compressieontsteking en de emissie van verontreinigende gassen door op aardgas of vloeibaar petroleumgas lopende voertuigmotoren met elektrische ontsteking (PbEU L 275) of als opgenomen in bijlage 1 van verordening (EU) nr. 595/2009 van het Europees Parlement en de Raad betreffende de typegoedkeuring van motorvoertuigen en motoren met betrekking tot emissies van zware bedrijfsvoertuigen (Euro VI) en de toegang tot reparatie- en onderhoudsinformatie (PbEU L 188).
+
+### **Hoofdstuk VI Elektrische installatie**
+
+1. Opleggers zijn voorzien van in hoogte verstelbare parkeersteunen (steunpoten) die het mogelijk maken de oplegger te ondersteunen indien deze wordt afgekoppeld van de trekker, waarbij de bevestiging en de toegepaste hefinrichting van de parkeersteunen:
+
+### **Artikel 43 steunpoten**
+
+2. Naast het bepaalde in rn. 9.2.2.2.1 zijn uitgezonderd van de verplichting om te zijn gezekerd: standaardschakelingen ten behoeve van in de cabine aangebrachte relais, controlelampen en de elektromotor van een bogieliftinstallatie (ashefinrichting);
+
+1. Het gedeelte van de elektrische installatie dat achter de bestuurderscabine is gelegen, voldoet, onverminderd het bepaalde in artikel 52, aan de volgende voorschriften:
+
+### **Hoofdstuk VII Merktekens**
+
+1. Aan het bepaalde in rn. 9.2.4.4 en 9.3.5 wordt geacht te zijn voldaan indien:
+
+1. Het in rn. 6.8.2.5.1 en 6.8.3.5.10 bedoelde waarmerk van de deskundige die de beproeving heeft uitgevoerd, is vastgesteld als slagstempel overeenkomstig het in aanhangsel 1 bij deze bijlage weergegeven model.
+
+1. Voor de in de VLG voorgeschreven opschriften bedraagt de letterhoogte voor:
+
 1. Een verticaal gerichte uitlaatleiding is voor alle categorieën (FL, EX/II, EX/III, OX en AT) toegestaan indien:
 
-### **Artikel 50 verticaal gerichte uitlaat**
+### **§ 1. Ontwerpbeoordeling (Algemeen)**
 
 3. Bij voertuigen van de categorie FL is aan het einde van de uitlaatleiding een vonkenvanger aangebracht.
 
-1. De uitmonding van de uitlaatleiding is niet onder of in de nabijheid van vul- en aftapaansluitingen, apparatuurkasten en dergelijke gelegen.
+4. Indien tijdens de nieuwbouw of de wijziging afwijkingen van een in beginsel goedgekeurde tekening wenselijk worden geacht, wordt dit aan de directeur ter goedkeuring voorgedragen.
 
 1. Het van fabriekswege tot de standaarduitrusting van een voertuig behorende zekeringenbestand wordt als voldoende aangemerkt, indien ten minste aan het onderstaande is voldaan:
 
 1. Het van fabriekswege tot de standaarduitrusting van een voertuig behorende zekeringenbestand wordt als voldoende aangemerkt, indien ten minste aan het onderstaande is voldaan:
 
-4. Bij een voertuigchassis voor het vervoer van (tank-)containers wordt geacht te zijn voldaan aan het tweede lid, indien:
+1. Bij de in artikel 60, eerste lid, bedoelde ontwerpgegevens is een volledig ingevuld, volgens een door de directeur vastgesteld model, aanvraagformulier gevoegd of een begeleidend schrijven met vermelding van naam, adres, postcode en plaats van vestiging van de ondernemer, het correspondentieadres en een korte omschrijving van de aard van de aanvraag.
 
 ### **Artikel 50 verticaal gerichte uitlaat**
 
-1. Een verticaal gerichte uitlaatleiding is voor alle categorieën (FL, EX/II, EX/III, OX en AT) toegestaan indien:
+3. Voor voertuigen die moeten voldoen aan rn. 9.2.3.1 van de ADR voor wat betreft een antiblokkeer systeem of een duurreminstallatie wordt een aanvraagformulier overgelegd zoals genoemd in artikel 69.
 
 2. Indien een voertuig is uitgerust met extra accu’s ten behoeve van hulpapparatuur, voldoen deze aan de volgende voorschriften:
 
@@ -4130,13 +4130,13 @@ Overdrukventielen als bedoeld in artikel 33, eerste lid, onderdeel b:
 
 ### **Artikel 57 rn 6.8.2.5.1 en 6.8.3.5.10 waarmerk**
 
-1. Het in rn. 6.8.2.5.1 en 6.8.3.5.10 bedoelde waarmerk van de deskundige die de beproeving heeft uitgevoerd, is vastgesteld als slagstempel overeenkomstig het in aanhangsel 1 bij deze bijlage weergegeven model.
+2. Alle tekeningen bij voertuigen met vaste of afneembare tanks geven ten minste aan:
 
 1. Bij het bedieningsmechanisme van de hoofdschakelaar is het opschrift ‘hoofdschakelaar’ in een duidelijk opvallende uitvoering of een naar het oordeel van de directeur duidelijk herkenbaar symbool aangebracht. Bij de in de cabine geplaatste schakelaar behoeft geen opschrift te worden aangebracht indien naar het oordeel van de directeur deze schakelaar op andere wijze voldoende herkenbaar is.
 
 De uitvoering van de in genoemd randnummer voorgeschreven identificatieplaat voldoet aan de navolgende voorschriften:
 
-### **§ 1. Ontwerpbeoordeling (Algemeen)**
+### **Artikel 70**
 
 ### **Artikel 58 rn. 6.8.2.5.2, 6.8.3.5.6, 6.8.3.5.11 en 6.8.3.5.12**
 
@@ -4148,13 +4148,13 @@ Aan de daartoe door de directeur aangewezen inspecteurs wordt tijdens de bouw of
 
 ### **Artikel 63**
 
-De ontwerpaanvraag bevat de volgende tekeningen in tweevoud (indien van toepassing):
+2. De keuringen en beproevingen worden slechts verricht na ontvangst van een schriftelijke orderbevestiging.
 
-Alle tekeningen:
+4. In geval van verhindering is daarvan voor de keuringsdatum kennis gegeven aan de directeur.
 
-1. Overzichtstekeningen geven aan voor wat betreft het complete voertuig:
+Bij de keuring wordt nagegaan of het te keuren object:
 
-1. Overzichtstekeningen geven aan voor wat betreft het complete voertuig:
+1. Bij keuringen en beproevingen staat voldoende geschoold personeel en gereedschap ter beschikking, opdat eventuele verrichtingen als hydraulische proefpersingen, dichtheidsbeproevingen, wanddiktemetingen, demontage van onderdelen, remproeven en dergelijke, een vlot verloop kunnen hebben.
 
 ### **§ 2. Ontwerpbeoordeling voertuigen met uitzondering van trekkers en dragende motorvoertuigen, opleggers en aanhangwagens voor containers met een inhoud van meer dan 3000 liter**
 
@@ -4162,7 +4162,7 @@ Alle tekeningen:
 
 ### **§ 2.2. Berekeningen**
 
-2. Op het aanvraagformulier wordt door de fabrikant van het voertuig of zijn officiële vertegenwoordiger in Nederland verklaard aan welke ADR typegoedkeuring het voertuig voldoet. Tevens wordt verklaard dat het ABS en indien van toepassing de duurreminstallatie voldoen aan de eisen zoals vastgesteld in het ADR.
+3. Indien de fabrikant van de tank of de werkplaats waar de tank wordt geïnspecteerd ten minste is gecertificeerd voor een kwaliteitsborgingssysteem volgens de norm ISO 9001:2000, kan de directeur onder nader bekend te maken voorschriften en beperkingen toestaan dat het certificaat, bedoeld in het tweede lid, door de eigen gekwalificeerde deskundige wordt opgesteld en gewaarmerkt.
 
 ### **§ 4. Typegoedkeuring uitrustingsdelen**
 
@@ -4176,13 +4176,13 @@ Bij het ontwerp worden per voertuig ten minste de volgende berekeningen overgele
 
 ### **Artikel 74**
 
-Naast het overige dat in de VLG is voorgeschreven, wordt een voertuig onderscheidenlijk tank voor een keuring respectievelijk beproeving aangeboden:
+2. Bij een beproevingsdruk van ten hoogste 50 kPa (0,5 bar) mag lucht of een ander gas als beproevingsmedium worden toegepast, voor zover dat in geen enkel opzicht gevaar oplevert.
 
 1. Ingevolge artikel 60, eerste lid, wordt een aanvraagformulier volgens een door de directeur vastgesteld model overgelegd.
 
 ### **§ 4. Typegoedkeuring uitrustingsdelen**
 
-### **Artikel 75**
+### **§ 3. Fabricageonderzoek rn. 6.8.2.4.1**
 
 3. De keuringsdatum wordt vastgesteld nadat de ontwerpgegevens zijn goedgekeurd door de directeur.
 
@@ -4192,15 +4192,15 @@ Naast het overige dat in de VLG is voorgeschreven, wordt een voertuig onderschei
 
 ### **Artikel 72**
 
-De in artikel 71, onderdelen b, c en e, bedoelde bescheiden worden door de fabrikant van de appendages verstrekt.
+2. Bij de proefpersing is de tank:
 
-### **Artikel 73**
+### **§ 4. Periodiek inspectie en beproeving rn. 6.8.2.4.2**
 
 2. Bij keuringen en beproevingen bevinden de voertuigen en in het bijzonder de tanks met bijbehorende appendages, zich in een in- en uitwendig afdoende gereinigde staat.
 
 ### **Artikel 78**
 
-### **Hoofdstuk IX Keuringen en beproevingen**
+### **Artikel 89**
 
 ### **Artikel 79**
 
@@ -4208,9 +4208,9 @@ De in artikel 71, onderdelen b, c en e, bedoelde bescheiden worden door de fabri
 
 ### **Artikel 79**
 
-1. Bij keuringen, onderscheidenlijk beproevingen zonder inwendige inspectie van de tank wordt het bepaalde onder artikel 77, tweede lid, bevestigd in een door de eigenaar, dan wel houder van het voertuig opgestelde verklaring, welke onmiddellijk vóór de keuring onderscheidenlijk beproeving aan de keurende inspecteur wordt afgegeven.
+2. Per compartiment wordt de hydraulische proefpersing verricht bij een druk gelijk aan 1,3 maal de op de stempelplaat aangegeven werkdruk.
 
-1. Voorafgaand aan een inwendige inspectie is de tank inwendig gereinigd.
+3. Indien de beproeving per compartiment plaats vindt aansluitend aan de in het eerste lid bedoelde beproeving, behoeven de aan het te beproeven compartiment grenzende compartimenten niet te zijn geledigd.
 
 2. Onmiddellijk voor de inwendige inspectie van de tank wordt een certificaat overgelegd waaruit blijkt dat de veiligheid van degene die de tank inwendig inspecteert, is gegarandeerd. In het certificaat is ten minste aangegeven:
 
@@ -4224,39 +4224,39 @@ De in artikel 71, onderdelen b, c en e, bedoelde bescheiden worden door de fabri
 
 Indien bij een keuring of beproeving gebreken worden vastgesteld van zodanige aard dat niet tot goedkeuring kan worden overgegaan, wordt aan de ondernemer een opgave verstrekt van de gebreken die tot de weigering van de goedkeuring hebben geleid en wordt het voertuig, nadat de nodige voorzieningen zijn getroffen, voor herkeuring aangeboden.
 
-1. Bij keuringen en beproevingen staat voldoende geschoold personeel en gereedschap ter beschikking, opdat eventuele verrichtingen als hydraulische proefpersingen, dichtheidsbeproevingen, wanddiktemetingen, demontage van onderdelen, remproeven en dergelijke, een vlot verloop kunnen hebben.
+Bij de periodieke keuring wordt nagegaan of het voertuig:
+
+### **Artikel 94**
+
+1. Indien ten behoeve van de periodieke keuring het inwendig reinigen van de tank niet, of slechts met zeer grote moeite mogelijk is, kan ontheffing daarvan worden aangevraagd bij IKS.
 
 ### **Artikel 82 rn. 6.8.2.4.1 hydraulische proefpersing /rn.**
 
-1. Hydraulische proefpersingen en dichtheidsproeven worden onder toezicht van IKS verricht.
+3. Het oorspronkelijk verstrekte keuringsdocument wordt daarbij vervangen door een exemplaar waarop uitsluitend die stoffen zijn vermeld, welke aanleiding gaven tot het aanvragen van de ontheffing.
 
-### **Artikel 82 rn. 6.8.2.4.1 hydraulische proefpersing /rn.**
+4. Indien de eigenaar of houder van het voertuig niet langer van de ontheffing gebruik wenst te maken, wordt het voertuig bij het keuringsstation van VT aangeboden waar dit is geregistreerd ter controle van die aspecten, die tengevolge van bedoelde ontheffing bij de voorgaande periodieke keuring achterwege zijn gebleven; eerst daarna kan het voertuig wederom worden goedgekeurd voor de stoffen die op het oorspronkelijke keuringsdocument waren vermeld.
 
-1. Hydraulische proefpersingen en dichtheidsproeven worden onder toezicht van IKS verricht.
-
-Bij tanks overeenkomstig rn. 6.8.2.1.14 onder (a), die zijn verdeeld in compartimenten en die zijn gebouwd volgens de met ingang van 1 januari 1990 geldende voorschriften, wordt de proefpersing van elk compartiment verricht bij een druk gelijk aan die van de gehele tank.
-
-### **Artikel 84**
+### **§6. Keuring na belangrijke herstelling ongeval**
 
 1. De bij de proefpersing toegepaste druk bedraagt in elk geval ten minste 25 kPa (0,25 bar).
 
-Indien de proefpersing met vloeistof als medium wordt verricht, wordt genoemde druk gemeten boven in de tank.
+Bij een schademelding ingevolge artikel 5, zijn tevens de volgende voorschriften van toepassing:
 
 2. Bij een beproevingsdruk van ten hoogste 50 kPa (0,5 bar) mag lucht of een ander gas als beproevingsmedium worden toegepast, voor zover dat in geen enkel opzicht gevaar oplevert.
 
 Indien de proefpersing met vloeistof als medium wordt verricht, wordt genoemde druk gemeten boven in de tank.
 
-1. De in rn. 6.8.2.4.3 bedoelde inwendige druk van ten minste 20 kPa (0,2) bar, wordt bij beproeving met vloeistof als medium, gemeten boven in de tank.
+Deze bijlage is van toepassing op voertuigen, tanks, tankcontainers en hun uitrusting, die zijn vervaardigd overeenkomstig de VLG.
 
-### **Artikel 85 rn. 6.8.2.4.1 hydraulische proefpersing / rn. 6.8.2.4.3 dichtheidsproef**
+### **Artikel 97**
 
-1. De in rn. 6.8.2.4.3 bedoelde inwendige druk van ten minste 20 kPa (0,2) bar, wordt bij beproeving met vloeistof als medium, gemeten boven in de tank.
+1. De voorschriften van bijlage 4 zoals die luidden ten tijde van de toelating van een voertuig of die tank of tankcontainer blijven op dat voertuig respectievelijk die tank of tankcontainer van toepassing.
 
 ### **Artikel 86**
 
 ### **§ 3. Fabricageonderzoek rn. 6.8.2.4.1**
 
-1. Hydraulische proefpersingen en dichtheidsproeven worden onder toezicht van IKS verricht.
+4. De Rijkskeuringsvoorschriften betreffende het vervoer over land van gevaarlijke stoffen 1978 zoals die luidden ten tijde van de toelating van een voertuig of die tank of tankcontainer blijven op dat voertuig respectievelijk die tank of tankcontainer van toepassing.
 
 1. Bij de proefpersing worden alle noodzakelijke inspecties verricht om vast te stellen dat:
 
@@ -4364,17 +4364,17 @@ Indien voor het betrokken vervoer ontheffing is verleend ingevolge [artikel 9 va
 
 ### **8.2.1. N Speciale opleiding van de bestuurder**
 
-Het bepaalde in randnummer 8.2.1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2010-04-01&g=2010-04-01) is niet van toepassing op bestuurders van:
+Het bepaalde in randnummer 8.2.1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2011-01-01&g=2011-01-01) is niet van toepassing op bestuurders van:
 
 ### **9.2.3.1. N Reminrichting**
 
-In afwijking van de tweede volzin van randnummer 9.7.5.1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2010-04-01&g=2010-04-01), behoeft bij in Nederland geregistreerde gelede voertuigen voor wat betreft de druk van de assen van de beladen oplegger, slechts te worden voldaan aan de daaromtrent in de [Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798) gestelde eisen.
+In afwijking van de tweede volzin van randnummer 9.7.5.1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2011-01-01&g=2011-01-01), behoeft bij in Nederland geregistreerde gelede voertuigen voor wat betreft de druk van de assen van de beladen oplegger, slechts te worden voldaan aan de daaromtrent in de [Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798) gestelde eisen.
 
-Het is verboden met een tankwagen, afneembare tank, batterijwagen, tankcontainer, transporttank, MEGC of bulkcontainer gevaarlijke stoffen als bedoeld in randnummer 1.2.1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2010-04-01&g=2010-04-01) te laden of te lossen elders dan:
+Het is verboden met een tankwagen, afneembare tank, batterijwagen, tankcontainer, transporttank, MEGC of bulkcontainer gevaarlijke stoffen als bedoeld in randnummer 1.2.1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2011-01-01&g=2011-01-01) te laden of te lossen elders dan:
 
 1. Indien het zicht door weersomstandigheden zoals mist, sneeuw en regen minder is dan 200 meter, is het niet toegestaan:
 
-Afgekoppelde aanhangwagens en opleggers zijn voorzien van de etikettering en kenmerking die ingevolge randnummers 5.3.1 en 5.3.2 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2010-04-01&g=2010-04-01) zijn voorgeschreven als zijnde aan een trekkend voertuig gekoppeld.
+Afgekoppelde aanhangwagens en opleggers zijn voorzien van de etikettering en kenmerking die ingevolge randnummers 5.3.1 en 5.3.2 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2011-01-01&g=2011-01-01) zijn voorgeschreven als zijnde aan een trekkend voertuig gekoppeld.
 
 1. De volgende voertuigen en tankcontainers kunnen overeenkomstig hun bestemming worden gebruikt, indien zij zijn goedgekeurd door de Dienst Wegverkeer:
 
@@ -4382,15 +4382,15 @@ Afgekoppelde aanhangwagens en opleggers zijn voorzien van de etikettering en ken
 
 ### **Artikel 10. Toelating van voertuigen en tankcontainers**
 
+Indien bij het toezicht op de naleving als bedoeld in artikel 1 dan wel anderszins blijkt van naar het oordeel van de Minister of van de Inspecteur-Generaal van de Inspectie Verkeer en Waterstaat, ernstige of herhaalde overtredingen die een gevaar voor de veiligheid van het vervoer van gevaarlijke stoffen opleveren en die zijn begaan met een in een andere lidstaat van de Europese Unie ingeschreven voertuig of gevestigde onderneming, doet de Inspecteur-Generaal van de Inspectie Verkeer en Waterstaat of de Minister daarvan onverwijld mededeling aan de bevoegde instantie van de desbetreffende lidstaat.
+
+### **Artikel 5**
+
 Indien een bevoegde instantie van een andere lidstaat van de Europese Unie de Minister mededeling doet van het vermoeden van ernstige of herhaalde overtredingen die een gevaar voor de veiligheid van het vervoer van gevaarlijke stoffen opleveren en die zijn begaan met een in Nederland ingeschreven voertuig of in Nederland gevestigde onderneming, vergezeld van het verzoek tegen de overtreder passende maatregelen te treffen, doet de Minister aan die instantie mededeling van de genomen maatregelen.
 
 ### **Artikel 6**
 
 Indien een bevoegde instantie van een andere lidstaat van de Europese Unie de Minister mededeling doet van het vermoeden van ernstige of herhaalde overtredingen, die tijdens het toezicht op de naleving door het ontbreken van de noodzakelijke voorzieningen niet kunnen worden aangetoond, verleent de Minister de desbetreffende bevoegde instantie de nodige bijstand en doet mededeling van de resultaten van het daartoe in de betrokken onderneming uitgevoerde toezicht op de naleving.
-
-### **Artikel 6**
-
-Erkende Instanties
 
 Erkende Instanties
 
@@ -4402,21 +4402,21 @@ Erkende Instanties
 
 ### **Artikel 2 Europese Normen**
 
-EN 571-1:1997: Niet-destructief onderzoek – Penetrantonderzoek – Deel 1: Algemene beginselen;
+1. Voertuigen, tanks en tankcontainers voor het vervoer van gevaarlijke stoffen zijn uitsluitend tot het vervoer toegelaten indien zij zijn onderworpen aan een door of namens de directeur verrichte technische keuring, waarbij is gebleken dat is voldaan aan:
 
 ## Bijlage 4. , bedoeld in [artikel 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&artikel=2&z=2008-10-08&g=2008-10-08), van de Regeling vervoer over land van gevaarlijke stoffen
 
 ### **Artikel 2 Europese Normen**
 
-2. Indien de tank is bestemd voor het vervoer van meer dan één gas zal het maximumvulgewicht van de lichtste gassoort bepalend zijn.
+Vervallen.
 
 2. Indien de tank is bestemd voor het vervoer van meer dan één gas zal het maximumvulgewicht van de lichtste gassoort bepalend zijn.
 
-1. Voor de constructie van een explosiebestendige tank zijn de volgende criteria van toepassing:
+1. Ter bepaling van de in rn. 6.8.4 TE 19 voorgeschreven maat van 200 mm worden als meest uitstekende deel van de tank uitsluitend de tankwand, ononderbroken versterkingsringen of langsbalken ter bescherming van de tank aangemerkt.
 
 1. Van de stootbalk bedraagt het weerstandsmoment tegen buiging om de zwakste doorsnede ten minste 20 cm3.
 
-mag de stootbalk aan de betreffende achterbodem zijn bevestigd mits de stootbalk ten minste 10 cm achter het achterste punt van elke vul- en losleiding is gelegen.
+3. De opening is uitsluitend door middel van een blindflens afgesloten.
 
 ### **Artikel 20 rn. 9.7.6 stootbalk algemeen**
 
@@ -4424,21 +4424,21 @@ mag de stootbalk aan de betreffende achterbodem zijn bevestigd mits de stootbalk
 
 1. De doorlaatopening bedraagt ten hoogste 100 mm.
 
-2. De opening is uitsluitend uitgevoerd als blokflens, welke rechtstreeks in de tankwand is gelast.
+3. De identificatiekenmerken op de appendages worden op een zodanige plaats aangebracht dat deze leesbaar zijn, indien de appendages zijn gemonteerd.
 
-Beveiligingsinrichtingen van de tank tegen over- en onderdruk met een openingsdruk (verschildruk) van niet meer dan 50 kPa (0,5 bar) zijn bij het vervoer van brandbare stoffen met een vlampunt van ten hoogste 60°C, ongeacht de gevarenklasse, voorzien van de in rn. 4.3.4.1.1, onder deel 4 (veiligheidskleppen/inrichtingen) genoemde bescherming tegen vlaminslag.
+Vervallen.
 
-Indien de laad- en losinrichtingen zijn aangebracht in gesloten ruimten, zijn deze ruimten voorzien van ventilatieopeningen. Deze ventilatieopeningen zijn in de bodem of zo laag mogelijk in de zijwanden aangebracht en omvatten een gezamenlijk oppervlak van ten minste 20 mm2 per liter inhoud van de te ventileren ruimte.
+2. Indien een oplegger niet is voorzien van parkeersteunen, is deze zodanig ingericht dat losse ondersteuningen kunnen worden geplaatst teneinde bij onderhoudswerkzaamheden en bij de periodieke keuring de ledige oplegger af te koppelen.
 
-1. Tenzij in de betreffende appendagenormen anders wordt bepaald dienen uitrustingsdelen te zijn voorzien van de volgende, duidelijk en duurzaam aangebrachte kenmerken:
+3. Bij een trekker voor het voortbewegen van een oplegger is in elk geval voldaan aan het tweede lid, indien:
 
 Indien van een bepaald type appendage, afhankelijk van de toepassing, onderdelen van verschillende materialen zijn toegepast, is het feitelijk toegepaste materiaal op het appendage, of in de typecodering aangegeven.
 
-Indien het voertuig is ingericht voor het vervoer van brandbare vloeistoffen met een vlampunt van 60°C of lager, van brandbare stoffen van klasse 2 zoals gedefinieerd in rn. 2.2.2.1.1 (FL voertuig) dan wel is uitgevoerd als EX/II of EX/III voertuig, is ten aanzien van de motor die het voertuig voortbeweegt aan de artikelen 47 tot en met 49 te voldoen.
+3. indien een bediening van de hoofdschakelaar aan de buitenzijde van het voertuig is aangebracht, is deze uitgevoerd in een duidelijk opvallende of contrasterende kleur.
 
-4. Bij een voertuigchassis voor het vervoer van (tank-)containers wordt geacht te zijn voldaan aan het tweede lid, indien:
+4. De voorgeschreven opschriften zijn op een goed waarneembare plaats aangebracht.
 
-3. Bij voertuigen van de categorie FL is aan het einde van de uitlaatleiding een vonkenvanger aangebracht.
+2. De overgelegde gegevens worden getoetst aan de VLG;
 
 ### **§ 2. Hulpmotor (Verbrandingsmotor)**
 
@@ -4446,15 +4446,15 @@ Indien het voertuig is ingericht voor het vervoer van brandbare vloeistoffen met
 
 De uitvoering van de in genoemd randnummer voorgeschreven identificatieplaat voldoet aan de navolgende voorschriften:
 
-1. Het in rn. 6.8.2.5.1 en 6.8.3.5.10 bedoelde waarmerk van de deskundige die de beproeving heeft uitgevoerd, is vastgesteld als slagstempel overeenkomstig het in aanhangsel 1 bij deze bijlage weergegeven model.
+Alle tanktekeningen geven aan voor wat betreft de tank:
 
-### **Artikel 53**
+### **Artikel 67**
 
-2. De opschriften zijn van buitenaf duidelijk leesbaar aangegeven.
+In aanvulling op artikel 66 geven de tanktekeningen tevens aan:
 
 4. De voorgeschreven opschriften zijn op een goed waarneembare plaats aangebracht.
 
-1. Bij het bedieningsmechanisme van de hoofdschakelaar is het opschrift ‘hoofdschakelaar’ in een duidelijk opvallende uitvoering of een naar het oordeel van de directeur duidelijk herkenbaar symbool aangebracht. Bij de in de cabine geplaatste schakelaar behoeft geen opschrift te worden aangebracht indien naar het oordeel van de directeur deze schakelaar op andere wijze voldoende herkenbaar is.
+1. Ingevolge artikel 60, eerste lid, wordt een aanvraagformulier volgens een door de directeur vastgesteld model overgelegd.
 
 Aan de daartoe door de directeur aangewezen inspecteurs wordt tijdens de bouw of het wijzigen van een voertuig te allen tijde gelegenheid gegeven daarbij tegenwoordig te zijn en worden alle gewenste inlichtingen verstrekt en alle medewerking verleend.
 
@@ -4462,73 +4462,73 @@ Aan de daartoe door de directeur aangewezen inspecteurs wordt tijdens de bouw of
 
 2. Alle tekeningen bij voertuigen met vaste of afneembare tanks geven ten minste aan:
 
-### **Artikel 66**
+### **Artikel 82 rn. 6.8.2.4.1 hydraulische proefpersing**
 
-Alle tanktekeningen geven aan voor wat betreft de tank:
+1. Hydraulische proefpersingen en dichtheidsproeven worden onder toezicht van IKS verricht.
 
 ### **Artikel 67**
 
 In aanvulling op artikel 66 geven de tanktekeningen tevens aan:
 
-### **Hoofdstuk IX Keuringen en beproevingen**
+### **Artikel 84**
 
-Indien de in artikel 71 bedoelde over te leggen bescheiden door de directeur akkoord zijn bevonden wordt een proefexemplaar van het appendage, dat van de vereiste merk- en typeaanduiding(en) is voorzien, ter beoordeling overgelegd.
+1. De bij de proefpersing toegepaste druk bedraagt in elk geval ten minste 25 kPa (0,25 bar).
 
 ### **§ 1. Algemeen**
 
-1. Een nieuw gebouwd of gewijzigd voertuig voor het vervoer van gevaarlijke stoffen wordt niet in dienst gesteld dan na goedkeuring door of namens de directeur.
+Vervallen.
 
-### **Artikel 70**
+### **Artikel 86**
 
-4. In geval van verhindering is daarvan voor de keuringsdatum kennis gegeven aan de directeur.
+Uiterlijk bij de aanvang van de keuring worden de volgende bescheiden overgelegd:
 
-### **Artikel 76**
+### **Artikel 87 proefpersing**
 
-Bij de keuring wordt nagegaan of het te keuren object:
-
-### **Artikel 77**
-
-1. Bij keuringen en beproevingen staat voldoende geschoold personeel en gereedschap ter beschikking, opdat eventuele verrichtingen als hydraulische proefpersingen, dichtheidsbeproevingen, wanddiktemetingen, demontage van onderdelen, remproeven en dergelijke, een vlot verloop kunnen hebben.
+1. Bij de proefpersing worden alle noodzakelijke inspecties verricht om vast te stellen dat:
 
 ### **Artikel 77**
 
 1. Bij keuringen en beproevingen staat voldoende geschoold personeel en gereedschap ter beschikking, opdat eventuele verrichtingen als hydraulische proefpersingen, dichtheidsbeproevingen, wanddiktemetingen, demontage van onderdelen, remproeven en dergelijke, een vlot verloop kunnen hebben.
 
-### **Artikel 74**
+### **Artikel 88**
 
-2. In deze verklaring is tevens vermeldt welke stof, aangegeven door naam, klasse en rn., als laatste werd vervoerd voorafgaand aan het tijdstip van keuring onderscheidenlijk beproeving.
+Voor de periodieke inspectie en beproeving wordt de tank van een tankvoertuig en een tankcontainer bij IKS voor keuring aangeboden.
+
+### **Artikel 90**
+
+1. De hydraulische proefpersing wordt bij de tank als geheel verricht bij de beproevingsdruk, zoals vermeld op de tank-identificatieplaat (stempelplaat).
 
 ### **Artikel 80**
 
-4. Indien de fabrikant van de tank of de werkplaats waar de tank wordt geïnspecteerd ten minste is gecertificeerd voor een kwaliteitsborgingssysteem volgens de norm ISO 9001:2000, kan de directeur onder nader bekend te maken voorschriften en beperkingen toestaan dat het certificaat, bedoeld in het tweede lid, door de eigen gekwalificeerde deskundige wordt opgesteld en gewaarmerkt.
+Vervallen.
 
-### **Artikel 76**
+### **Artikel 92**
 
-4. Indien de fabrikant van de tank of de werkplaats waar de tank wordt geïnspecteerd ten minste is gecertificeerd voor een kwaliteitsborgingssysteem volgens de norm ISO 9001:2000, kan de directeur onder nader bekend te maken voorschriften en beperkingen toestaan dat het certificaat, bedoeld in het tweede lid, door de eigen gekwalificeerde deskundige wordt opgesteld en gewaarmerkt.
+Vervallen.
 
-### **Artikel 77**
+### **Artikel 93**
 
 Indien bij een keuring of beproeving gebreken worden vastgesteld van zodanige aard dat niet tot goedkeuring kan worden overgegaan, wordt aan de ondernemer een opgave verstrekt van de gebreken die tot de weigering van de goedkeuring hebben geleid en wordt het voertuig, nadat de nodige voorzieningen zijn getroffen, voor herkeuring aangeboden.
 
 ### **§ 2. Beproevingen (Algemeen)**
 
-2. In afwijking van het eerste lid kan de directeur toestaan dat bedoelde beproevingen worden verricht onder toezicht van een door hem aan te wijzen deskundige, in dat geval wordt een door genoemde deskundige gewaarmerkt certificaat overgelegd, waarin is vermeld:
+2. Wanneer de gevraagde ontheffing wordt verleend, zal de tank op door de directeur vast te stellen termijnen aan vervangende en aanvullende beproevingen worden onderworpen. Het voertuig wordt voor deze vervangende en aanvullende beproevingen aangeboden bij IKS.
 
 ### **Artikel 83**
 
 2. In deze verklaring is tevens vermeldt welke stof, aangegeven door naam, klasse en rn., als laatste werd vervoerd voorafgaand aan het tijdstip van keuring onderscheidenlijk beproeving.
 
-### **Artikel 80**
+### **Artikel 95 rn. 6.8.2.4.4**
 
 2. Indien de tank is voorzien van een ontluchtings- en veiligheidsinrichting die voorkomt dat de inhoud uit de tank ontsnapt, wordt de dichtheidsproef verricht bij een inwendige druk welke ten minste gelijk is aan de openingsdruk van deze voorziening.
 
 ### **§ 3. Fabricageonderzoek rn. 6.8.2.4.1**
 
-2. Indien de tank is voorzien van een ontluchtings- en veiligheidsinrichting die voorkomt dat de inhoud uit de tank ontsnapt, wordt de dichtheidsproef verricht bij een inwendige druk welke ten minste gelijk is aan de openingsdruk van deze voorziening.
+2. De Regeling Rijkskeuringsvoorschriften betreffende het vervoer over land van gevaarlijke stoffen 1990, zoals die luidde ten tijde van de toelating van een voertuig of die tank of tankcontainer blijven op dat voertuig respectievelijk die tank of tankcontainer van toepassing.
 
 ### **Artikel 87 proefpersing**
 
-2. Bij de proefpersing is de tank:
+Het in het waarmerk opgenomen nummer ‘01’ kan variëren afhankelijk van degene die de keuring uitvoert.
 
 ### **§ 4. Periodiek inspectie en beproeving rn. 6.8.2.4.2**
 
@@ -4616,11 +4616,11 @@ Dit openen is uitsluitend toegestaan voor het direct afleveren van genoemde stof
 
 ### **Artikel 9. Kenmerking en etikettering der voertuigen**
 
-1. Het toezicht op de naleving waarvoor met inachtneming van artikel 1 een plan wordt opgesteld:
+De Inspecteur-Generaal van de Inspectie Verkeer en Waterstaat legt jaarlijks in november aan de Minister ter goedkeuring voor een plan inzake het in het volgende jaar te houden toezicht op de naleving op het vervoer van gevaarlijke stoffen over de weg, bedoeld in artikel 2.
 
 ### **Artikel 3**
 
-## Bijlage 3. als bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&artikel=2&z=2009-05-01&g=2009-05-01), van de Regeling vervoer over land van gevaarlijke stoffen
+## Bijlage 3. als bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&artikel=2&z=2011-01-01&g=2011-01-01), van de Regeling vervoer over land van gevaarlijke stoffen
 
 ### Artikel 2
 
@@ -4632,7 +4632,7 @@ Dit openen is uitsluitend toegestaan voor het direct afleveren van genoemde stof
 
 ### **Artikel 10 rn. 6.8.2.1.23 lasbekwaamheid**
 
-1. Bij elke metalen tank waarvan het tankmateriaal tegen aantasting door de te vervoeren stof dan wel stoffen wordt beschermd door middel van een binnenbekleding, is door de fabrikant van de binnenbekleding een verklaring overgelegd waarin is aangegeven dat deze binnenbekleding voldoende bestand is tegen de stof dan wel stoffen waarvoor de tank is ontworpen. In deze verklaring zijn de benaming van elke stof, het UN-nummer en de desbetreffende klasse, alsmede het fabricagenummer van de tank vermeld.
+2. Indien de plaatsing van een beschermend profiel is voorgeschreven, is deze uitgevoerd als beugel die aan de volgende voorschriften voldoet:
 
 2. In het geval van rolbeugels hoeft de weerstandsmoment tegen buigen van het profiel van de rolbeugel niet groter te zijn dan 30 cm3.
 
@@ -4642,7 +4642,7 @@ Dit openen is uitsluitend toegestaan voor het direct afleveren van genoemde stof
 
 2. Indien een voertuig is uitgerust met extra accu’s ten behoeve van hulpapparatuur, voldoen deze aan de volgende voorschriften:
 
-### **Artikel 57 rn 6.8.2.5.1 en 6.8.3.5.10 waarmerk**
+### **Artikel 66**
 
 2. Voor voertuigen die moeten voldoen aan rn 9.7.5.2 van de ADR wordt aangegeven op welke wijze voldaan wordt.
 
@@ -4650,11 +4650,11 @@ Dit openen is uitsluitend toegestaan voor het direct afleveren van genoemde stof
 
 ### **§ 4. Typegoedkeuring uitrustingsdelen**
 
-### **Artikel 75**
+### **Artikel 85**
 
 Voor zover geen inwendige inspectie of proefpersing van de tank is vereist, behoeft de tank niet inwendig te worden gereinigd bij de keuring van:
 
-### **Artikel 80**
+### **§5. Periodieke keuring voertuig**
 
 ### **§ 2. Beproevingen (Algemeen)**
 
@@ -4674,29 +4674,55 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ### **Artikel 8. Pont**
 
-### **Hoofdstuk III. Implementatie van richtlijn nr. 95/50/EG betreffende uniforme procedures voor de controle op het vervoer van gevaarlijke goederen over de weg**
+### **Artikel 11. 1.3.3 en 1.10.2.4 Bewaartermijn opleidingsdossiers**
 
 ## Bijlage 3. als bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&artikel=2&z=2010-04-01&g=2010-04-01), van de Regeling vervoer over land van gevaarlijke stoffen
 
-## Bijlage 4. , bedoeld in [artikel 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&artikel=2&z=2010-04-01&g=2010-04-01), van de Regeling vervoer over land van gevaarlijke stoffen
+## Bijlage 4. , bedoeld in [artikel 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&artikel=2&z=2011-01-01&g=2011-01-01), van de Regeling vervoer over land van gevaarlijke stoffen
 
 ### **Artikel 4**
 
-### **§ 1. Beoordelingsnormen/Codes**
+### **§ 2 Dimensionering**
 
-### **Hoofdstuk IV Chassis**
+### **§ 2. Hulpmotor (Verbrandingsmotor)**
 
 ### **§ 2. Hulpmotor (Verbrandingsmotor)**
 
 2. De keuringen en beproevingen worden slechts verricht na ontvangst van een schriftelijke orderbevestiging.
 
-### **Artikel 85 rn. 6.8.2.4.1 hydraulische proefpersing / rn. 6.8.2.4.3 dichtheidsproef**
+### **Artikel 96**
 
-Uiterlijk bij de aanvang van de keuring worden de volgende bescheiden overgelegd:
+3. De Rijkskeuringsvoorschriften betreffende het vervoer over land van gevaarlijke stoffen 1985 zoals die luidden ten tijde van de toelating van een voertuig of die tank of tankcontainer blijven op dat voertuig respectievelijk die tank of tankcontainer van toepassing.
 
 ### **§6. Keuring na belangrijke herstelling ongeval**
 
 ### **Artikel 95 rn. 6.8.2.4.4**
+
+### **Aanhangsel 1 als bedoeld in artikel 57, bijlage 4, Regeling vervoer over land van gevaarlijke stoffen: waarmerk**
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlage 1, die ter inzage wordt gelegd bij het Directoraat-Generaal Goederenvervoer van het Ministerie van Verkeer en Waterstaat, Nieuwe Uitleg 1 te Den Haag.
+
+### **Artikel 3**
+
+### **Hoofdstuk II Tanks**
+
+### **§ 1. Beoordelingsnormen/Codes**
+
+### **Artikel 7**
+
+### **Artikel 53**
+
+### **Artikel 62**
+
+### **§ 2.1 Tekeningen (Algemeen)**
+
+Indien de proefpersing met vloeistof als medium wordt verricht, wordt genoemde druk gemeten boven in de tank.
+
+Indien de resultaten van het inwendige onderzoek van de tank daartoe aanleiding geven en in elk geval met tussenliggende perioden van ten hoogste 12 jaar, wordt tevens een onderzoek naar de tankondersteuning ingesteld, waartoe de eventueel aanwezige tankommanteling wordt verwijderd voor zover dit met het oog op het onderzoek naar het oordeel van de directeur noodzakelijk wordt geacht.
+
+### **Artikel 91**
+
+### **Hoofdstuk X Overgangs- en slotbepalingen**
 
 ### **Aanhangsel 1 als bedoeld in artikel 57, bijlage 4, Regeling vervoer over land van gevaarlijke stoffen: waarmerk**
 
