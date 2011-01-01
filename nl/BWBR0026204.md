@@ -4,7 +4,7 @@ identifier: "BWBR0026204"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-18"
-last_updated: "2010-01-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026204"
 soort: "AMvB"
@@ -64,7 +64,7 @@ In dit besluit wordt verstaan onder basisbedrag: basisbedrag als bedoeld in [art
 
 ##### Artikel 3
 
-De door de toezichthouder met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2010-01-01&g=2010-01-01) vast te stellen bestuurlijke boete wordt verdubbeld indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding.
+De door de toezichthouder met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2011-01-01&g=2011-01-01) vast te stellen bestuurlijke boete wordt verdubbeld indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding.
 
 ##### Artikel 4
 
@@ -629,6 +629,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 23c, tweede lid | 2 |
 | 23d | 2 |
 | 23e, tweede lid | 2 |
+| 23f | 2 |
 | 24 | 2 |
 | 24a, eerste en tweede lid | 2 |
 | 24b, eerste en tweede lid | 2 |
@@ -758,6 +759,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 35e, eerste tot en met derde lid | 2 |
 | 35g, eerste lid | 2 |
 | 35h | 2 |
+| 35i | 2 |
 | 37 | 3 |
 | 38, eerste en tweede lid | 2 |
 | 38, derde lid | 1 |
@@ -774,6 +776,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 49a, eerste en tweede lid | 2 |
 | 49b | 2 |
 | 50, eerste tot en met derde lid | 2 |
+| 50a | 2 |
 | 51, eerste en tweede lid | 2 |
 | 51a, eerste tot en met zesde lid | 2 |
 | 51a, zevende lid | 3 |
@@ -823,6 +826,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 84 | 3 |
 | 85 | 2 |
 | 86, eerste en tweede lid | 2 |
+| 86a | 2 |
 | 88, eerste en tweede lid | 2 |
 | 89, eerste tot en met derde lid | 2 |
 | 90 | 1 |
@@ -1201,6 +1205,18 @@ Dit besluit wordt aangehaald als: Besluit bestuurlijke boetes financiële sector
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 10a
+
+Dit onderdeel is nog niet inwerking getreden
+
+#### § 3. Wijziging andere besluiten
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 12a
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 12b
 
 Dit onderdeel is nog niet inwerking getreden
 
