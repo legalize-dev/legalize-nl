@@ -4,7 +4,7 @@ identifier: "BWBR0006853"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-05-13"
-last_updated: "2010-10-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006853"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 3. Het diner wordt verstrekt als de ambtenaar tussen 17:00 uur en 20:00 uur vanwege overwerk niet thuis kan eten.
 
-4. Indien verstrekking van een lunch of diner door het bevoegd gezag niet mogelijk is, heeft de ambtenaar, onverminderd het tweede en derde lid, aanspraak op een vergoeding op basis van de werkelijk gemaakte kosten van ten hoogste € 12,94 voor de lunch en ten hoogste € 19,57 voor het diner. De ambtenaar legt van de gemaakte kosten bewijsstukken over.
+4. Indien verstrekking van een lunch of diner door het bevoegd gezag niet mogelijk is, heeft de ambtenaar, onverminderd het tweede en derde lid, aanspraak op een vergoeding op basis van de werkelijk gemaakte kosten van ten hoogste € 13,22 voor de lunch en ten hoogste € 20,00 voor het diner. De ambtenaar legt van de gemaakte kosten bewijsstukken over.
 
 ##### Artikel 3
 
