@@ -4,7 +4,7 @@ identifier: "BWBR0007137"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2010-02-27"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007137"
 soort: "ministeriele-regeling"
@@ -52,15 +52,15 @@ Besluit:
 
 ##### Artikel 2
 
-1. Het bedrag verschuldigd voor iedere afgifte van het olieboekje bedraagt € 27,25, exclusief BTW.
+1. Het bedrag verschuldigd voor iedere afgifte van het olieboekje bedraagt € 34,06, exclusief BTW.
 
-2. Het bedrag voor de autorisatie en registratie van een buiten Nederland verkregen olie-afgifteboekje bedraagt € 17,91, exclusief BTW.
+2. Het bedrag voor de autorisatie en registratie van een buiten Nederland verkregen olie-afgifteboekje bedraagt € 22,39, exclusief BTW.
 
-3. Voor het wijzigen van een olie-afgifteboekje is een tarief verschuldigd van € 8,21, exclusief BTW.
+3. Voor het wijzigen van een olie-afgifteboekje is een tarief verschuldigd van € 10,26, exclusief BTW.
 
 ##### Artikel 3
 
-1. Voor een olie-afgifteboekje dat geheel of ten dele onleesbaar is dan wel verloren is geraakt of teniet gegaan wordt tegen betaling van het in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007137&artikel=2&z=2010-02-27&g=2010-02-27), genoemde tarief een vervangend exemplaar afgegeven.
+1. Voor een olie-afgifteboekje dat geheel of ten dele onleesbaar is dan wel verloren is geraakt of teniet gegaan wordt tegen betaling van het in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007137&artikel=2&z=2011-01-01&g=2011-01-01), genoemde tarief een vervangend exemplaar afgegeven.
 
 2. Het vervangend exemplaar treedt in plaats van het eerder afgegeven olie-afgifteboekje en wordt niet eerder afgegeven dan nadat het geheel of ten dele onleesbaar geworden exemplaar, waarvoor het wordt afgegeven is ingeleverd.
 
