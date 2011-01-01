@@ -4,7 +4,7 @@ identifier: "BWBR0007780"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2010-03-18"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007780"
 soort: "ministeriele-regeling"
@@ -82,7 +82,7 @@ Vervallen
 
 ##### Artikel 3
 
-Voor de toepassing van [artikel 5, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=5) blijft het aanmerken van het kwartaal als loontijdvak op de voet van [artikel 64, eerste lid, van de Uitvoeringsregeling loonbelasting 2001](onbekend) achterwege.
+Voor de toepassing van [artikel 5, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=5) blijft het aanmerken van het kwartaal als loontijdvak op de voet van [artikel 6.3, eerste lid, van de Uitvoeringsregeling loonbelasting 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&artikel=6.3) achterwege.
 
 ##### Artikel 4
 
@@ -102,17 +102,17 @@ Ingeval de vermindering op de voet van [artikel 6, derde lid, van de wet](https:
 
 1. Ingeval het loon niet per tijdseenheid wordt berekend, is bij de bepaling van de vermindering op de voet van [artikel 6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=6), [artikel 1, eerste lid, onderdeel c, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=1) niet van toepassing op dat loon. In dat geval vindt die vermindering, in afwijking van [artikel 6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=6), inkomensevenredig plaats aan de hand van de verhouding van het in het loontijdvak ten minste op nihil te stellen genoten loon van de werknemer en het bedrag dat per kalenderjaar beloopt
 
-| Indien hij de leeftijd heeft bereikt van | Doch niet de leeftijd van |   |
+| Indien hij de leeftijd heeft bereikt van | doch niet de leeftijd van |   |
 | --- | --- | --- |
-| 15 jaren | 16 jaren | € 5425 |
-| 16 jaren | 17 jaren | € 6238 |
-| 17 jaren | 18 jaren | € 7143 |
-| 18 jaren | 19 jaren | € 8228 |
-| 19 jaren | 20 jaren | € 9494 |
-| 20 jaren | 21 jaren | € 11121 |
-| 21 jaren | 22 jaren | € 13110 |
-| 22 jaren | 23 jaren | € 15370 |
-| 23 jaren |   | € 18082 |
+| 15 jaren | 16 jaren: | € 5 524 |
+| 16 jaren | 17 jaren: | € 6 353 |
+| 17 jaren | 18 jaren: | € 7 274 |
+| 18 jaren | 19 jaren: | € 8 378 |
+| 19 jaren | 20 jaren: | € 9 667 |
+| 20 jaren | 21 jaren: | € 11 324 |
+| 21 jaren | 22 jaren: | € 13 349 |
+| 22 jaren | 23 jaren: | € 15 651 |
+| 23 jaren |   | € 18 418 |
 
 2. Ingeval het eerste lid toepassing vindt administreert de inhoudingsplichtige per werknemer en per tijdvak waarover de vermindering wordt toegepast de in het eerste lid, tweede volzin, bedoelde verhouding.
 
@@ -150,113 +150,137 @@ Vervallen
 
 ##### Artikel 11c
 
-Als bedrijfssectoren, bedoeld in artikel 14, eerste lid, onderdeel d, van de wet worden aangewezen, onder vermelding van de desbetreffende code of codes in de Standaard Bedrijfsindeling uit 1993 van het Centraal Bureau voor de Statistiek:
+Als bedrijfssectoren als bedoeld in [artikel 14, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14) worden aangewezen, onder vermelding van de desbetreffende code in de Standaard Bedrijfsindeling uit 2008 van het Centraal Bureau voor de Statistiek:
 
-- a. landbouw, jacht en dienstverlening ten behoeve van landbouw en jacht (A 01);
+- a. landbouw, jacht en dienstverlening voor de landbouw en jacht (A 01);
 
-- b. bosbouw en dienstverlening ten behoeve van bosbouw (A 02);
+- b. bosbouw, exploitatie van bossen en dienstverlening voor de bosbouw (A 02);
 
-- c. visserij, kweken van vis en schaaldieren (B 05)
+- c. visserij en kweken van vis en schaaldieren (A 03);
 
-- d. turfwinning (CA 10);
+- d. winning van aardolie en aardgas (B 06);
 
-- e. aardolie- en aardgaswinning en dienstverlening ten behoeve van de aardolie- en aardgaswinning (CA 11);
+- e. winning van delfstoffen met uitzondering van olie en gas (B 08);
 
-- f. winning van zand, grind, klei, zout en dergelijke (CB 14);
+- f. dienstverlening voor de winning van aardolie en aardgas (B 09.1);
 
-- g. vervaardiging van voedingsmiddelen en dranken (DA 15);
+- g. vervaardiging van voedingsmiddelen (C 10);
 
-- h. verwerking van tabak (DA 16);
+- h. vervaardiging van dranken (C 11);
 
-- i. vervaardiging van textiel (DB 17);
+- i. vervaardiging van tabaksproducten (C 12);
 
-- j. vervaardiging van kleding; bereiden en verven van bont (DB 18);
+- j. vervaardiging van textiel (C 13);
 
-- k. vervaardiging van leer en lederwaren, met uitzondering van kleding (DC 19);
+- k. vervaardiging van kleding (C 14);
 
-- l. houtindustrie en vervaardiging van artikelen van hout, kurk, riet en vlechtwerk, met uitzondering van meubels (DD 20);
+- l. vervaardiging van leer, lederwaren en schoenen (C 15);
 
-- m. vervaardiging van papier, karton en papier- en kartonwaren (DE 21);
+- m. primaire houtbewerking en vervaardiging van artikelen van hout, kurk, riet en vlechtwerk met uitzondering van meubels (C16);
 
-- n. uitgeverijen, drukkerijen en reproductie van opgenomen media (DE 22);
+- n. vervaardiging van papier, karton en papier- en kartonwaren (C 17);
 
-- o. aardolie- en steenkolenwerkende industrie; bewerking van splijt- en kweekstoffen (DF 23);
+- o. drukkerijen, reproductie van opgenomen media (C 18);
 
-- p. vervaardiging van chemische producten (DG 24);
+- p. vervaardiging van cokesovenproducten en aardolieverwerking (C 19);
 
-- q. vervaardiging van producten van rubber en kunststof (DH 25);
+- q. vervaardiging van chemische producten (C 20);
 
-- r. vervaardiging van glas, aardewerk, cement-kalk en gipsprodukten (DI 26);
+- r. vervaardiging van farmaceutische grondstoffen en producten (C 21);
 
-- s. vervaardiging van metalen in primaire vorm (DJ 27);
+- s. vervaardiging van producten van rubber en kunststof (C 22);
 
-- t. vervaardiging van producten van metaal, met uitzondering van machines en transportmiddelen (DJ 28);
+- t. vervaardiging van overige niet-metaalhoudende minerale producten (C 23);
 
-- u. vervaardiging van machines en apparaten (DK 29);
+- u. vervaardiging van metalen in primaire vorm (C 24);
 
-- v. vervaardiging van kantoormachines en computers (DL 30);
+- v. vervaardiging van producten van metaal met uitzondering van machines en apparaten (C 25);
 
-- w. vervaardiging van overige elektrische machines, apparaten en benodigdheden (DL 31);
+- w. vervaardiging van computers en van elektronische en optische apparatuur (C 26);
 
-- x. vervaardiging van audio, video- en telecommunicatie-apparatuur en -benodigd-heden (DL 32);
+- x. vervaardiging van elektrische apparatuur (C 27);
 
-- y. vervaardigen van medische apparaten en instrumenten, orthopedische artikelen en dergelijke, precisie- en optische instrumenten en uurwerken (DL 33);
+- y. vervaardiging van overige machines en apparaten (C 28);
 
-- z. vervaardiging van auto&prime;s, aanhangwagens en opleggers (DM 34);
+- z. vervaardiging van auto’s, aanhangwagens en opleggers (C 29);
 
-- aa. vervaardiging van transportmiddelen, met uitzondering van auto&prime;s, aanhangwagens en opleggers (DM 35);
+- aa. vervaardiging van overige transportmiddelen (C 30);
 
-- bb. vervaardiging van meubels; vervaardiging van overige goederen niet eerder genoemd (DN 36);
+- bb. vervaardiging van meubels (C 31);
 
-- cc. voorbereiding tot recycling (DN 37);
+- cc. vervaardiging van overige goederen (C 32);
 
-- dd. productie van distributie van elektriciteit, aardgas, stoom en warm water (E 40);
+- dd. reparatie en installatie van machines en apparaten (C33);
 
-- ee. winning en distributie van water (E 41);
+- ee. productie en distributie van en handel in elektriciteit, aardgas, stoom en gekoelde lucht (D 35);
 
-- ff. bouwnijverheid (F 45);
+- ff. winning en distributie van water (E 36);
 
-- gg. handel in en reparatie van auto’s en motorfietsen; benzineservicestations (G 50);
+- gg. voorbereiding tot recycling (E 38.3);
 
-- hh. groothandel en handelsbemiddeling (niet in auto&prime;s en motorfietsen) (G 51);
+- hh. bouwnijverheid (F);
 
-- ii. detailhandel en reparatie ten behoeve van particulieren met uitzondering van auto&prime;s, motorfietsen en motorbrandstoffen (G 52);
+- ii. handel in en reparatie van auto’s, motorfietsen en aanhangers (G 45);
 
-- jj. logies-, maaltijden- en drankenverstrekking (H 55);
+- jj. groothandel en handelsbemiddeling met uitzondering van auto’s en motorfietsen (G 46);
 
-- kk. vervoer over land (I 60);
+- kk. detailhandel met uitzondering van auto’s (G 47);
 
-- ll. vervoer over water (I 61);
+- ll. vervoer over land (H49);
 
-- mm. vervoer door de lucht (I 62);
+- mm. vervoer over water (H 50);
 
-- nn. dienstverlening ten behoeve van het vervoer (I 63);
+- nn. luchtvaart (H 51);
 
-- oo. post en telecommunicatie (I 64);
+- oo. opslag en dienstverlening voor vervoer (H 52);
 
-- pp. financiële instellingen, met uitzondering van verzekeringswezen en pensioenfondsen (J 65);
+- pp. post en koeriers (H 53);
 
-- qq. verzekeringswezen en pensioenfondsen, met uitzondering van verplichte sociale verzekeringen (J 66);
+- qq. logies-, maaltijd- en drankverstrekking (I);
 
-- rr. activiteiten ten behoeve van of verwant aan financiële instellingen (J 67);
+- rr. uitgeverijen (J 58.1);
 
-- ss. verhuur en handel in onroerend goed (K 70);
+- ss. maken en uitgeven van geluidsopnamen (J 59.2);
 
-- tt. verhuur van transportmiddelen, machines en werktuigen zonder bedienend personeel en van overige roerende goederen (K 71);
+- tt. telecommunicatie (J 61);
 
-- uu. computerservice- en informatietechnologiebureaus en dergelijke (K 72);
+- uu. dienstverlenende activiteiten op het gebied van informatietechnologie (J 62);
 
-- vv. speur- en ontwikkelingswerk (K 73);
+- vv. dienstverlenende activiteiten op het gebied van informatie (J 63);
 
-- ww. rechtskundige dienstverlening, accountants, boekhoudbureaus, belastingconsulenten, markt- en opinie-onderzoekbureaus, economische adviesbureaus en holdings (K741);
+- ww. financiële instellingen met uitzondering van verzekeringen en pensioenfondsen (K 64);
 
-- xx. architecten-, ingenieurs- en overige technische ontwerp-, teken- en adviesbureaus (K742);
+- xx. verzekeringen en pensioenfondsen met uitzondering van verplichte sociale verzekeringen (K 65);
 
-- yy. gezondheidszorg (N 85.1) met uitzondering van medisch behandelingsondersteunend onderzoek (N 85.15.3);
+- yy. overige financiële dienstverlening (K 66);
 
-- zz. welzijnszorg waarbij huisvesting wordt geboden (N 85.31) met uitzondering van opvanghuizen (N 85.31.6);
+- zz. verhuur van en handel in onroerend goed (L);
 
-- aaa. thuiszorg (N 85.32.6).
+- aaa. rechtskundige dienstverlening, accountancy, belastingadvisering en administratie (M 69);
+
+- bbb. holdings met uitzondering van financiële en concerndiensten binnen eigen concern (M 70.1);
+
+- ccc. advisering op het gebied van management en bedrijfsvoering (M 70.2);
+
+- ddd. architecten, ingenieurs en technisch ontwerp en advies (M 71.1);
+
+- eee. speur- en ontwikkelingswerk (M 72);
+
+- fff. markt- en opinieonderzoeksbureaus (M 73.2);
+
+- ggg. verhuur en lease van auto’s, consumentenartikelen, machines en overige roerende goederen (N 77);
+
+- hhh. reisbemiddeling, reisorganisatie, toeristische informatie en reserveringsbureaus (N 79);
+
+- iii. landschapsverzorging (N 81.3);
+
+- jjj. gezondheidszorg (Q 86) met uitzondering van medische laboratoria, trombosediensten en overig behandelingsondersteunend onderzoek (Q 86.92.4);
+
+- kkk. verpleging, verzorging en begeleiding met overnachting (Q 87);
+
+- lll. thuiszorg (Q 88.10.1);
+
+- mmm. reparatie van computers en consumentenartikelen (S 95).
 
 ##### Artikel 11d
 
@@ -288,7 +312,7 @@ Zolang de inhoudingsplichtige nog niet beschikt over een door alle betrokken par
 
 - a. het aantal studiepunten dat de student in het kader van het praktijkdeel van de opleiding bij de desbetreffende werkgever verwerft;
 
-- b. de periode of perioden waarop de overeenkomst betrekking heeft, welke ten minste 6 maanden praktijk voor ten minste 32 uur per week beslaat, dan wel ten minste twee keer 4 maanden praktijk voor ten minste 32 uur per week;
+- b. de periode of perioden waarop de overeenkomst betrekking heeft, welke ten minste 6 maanden praktijk dan wel ten minste twee keer 4 maanden praktijk beslaat;
 
 - c. de wijze van begeleiding van de werknemer, naar aard en omvang, door hogeschool en werkgever;
 
@@ -484,15 +508,7 @@ De verklaring, bedoeld in [artikel 14, eerste lid, onderdeel h, van de wet](http
 
 ##### Artikel 12cc
 
-1. Voor de toepassing van [artikel 14, eerste lid, onderdeel i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14) worden als opleidingen aangewezen opleidingen die zijn opgenomen in het register, bedoeld in [artikel 6.4.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.4.1), of in het register, bedoeld in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13).
-
-2. Voor de toepassing van [artikel 14, eerste lid, onderdeel i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14) wordt per werknemer in de loonadministratie vastgelegd:
-
-- a. een bewijs van het opleidingsniveau waarover de werknemer bij aanvang van de opleiding beschikt;
-
-- b. het bewijs van inschrijving dat ten minste bevat de naam van de instelling waar de werknemer de opleiding aanvangt, alsmede de naam van de opleiding en de duur hiervan.
-
-3. De inschrijving, bedoeld in het tweede lid, onderdeel b, ziet op deelname aan ten minste een kwart van de gehele opleiding.
+Vervallen
 
 ### Hoofdstuk V. Afdrachtvermindering kinderopvang
 
