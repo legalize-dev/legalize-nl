@@ -4,7 +4,7 @@ identifier: "BWBR0008878"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-06-23"
-last_updated: "2002-01-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008878"
 soort: "ministeriele-regeling"
@@ -45,7 +45,7 @@ Deze regeling verstaat onder:
 
 ##### Artikel 2
 
-1. Op verzoek van de belastingplichtige wordt het belastbare bedrag berekend in een andere geldeenheid dan de euro indien de belastingplichtige de jaarrekening over het jaar dat aanvangt met het overgangstijdstip op de voet van [artikel 362, zevende lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=362) in die andere geldeenheid opstelt.
+1. Op verzoek van de belastingplichtige wordt het belastbare bedrag berekend in een andere geldeenheid dan de euro indien de belastingplichtige de jaarrekening over het jaar dat aanvangt met het overgangstijdstip op de voet van [artikel 362, zevende lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=362) in die andere geldeenheid opstelt. Indien artikel 362, zevende lid, van Boek 2 van het Burgerlijk Wetboek niet op de belastingplichtige van toepassing is, is de eerste volzin van overeenkomstige toepassing indien de belastingplichtige de jaarrekening opstelt in een andere geldeenheid en dit wordt gerechtvaardigd door de werkzaamheid van de belastingplichtige of de internationale vertakking van zijn groep.
 
 2. Bij inwilliging van het verzoek geldt zulks met ingang van het jaar volgend op het jaar waarin het verzoek is gedaan en tot wederopzegging door de belastingplichtige, met dien verstande dat bij inwilliging van een verzoek dat wordt gedaan in het jaar waarin de belastingplicht een aanvang neemt, zulks geldt met ingang van het tijdstip waarop de belastingplicht een aanvang neemt.
 
@@ -65,7 +65,7 @@ Deze regeling verstaat onder:
 
 5. Voorzover bedragen van een jaar na het overgangstijdstip of na het teruggangstijdstip van belang zijn voor het bepalen van het belastbare bedrag van een jaar voor dat tijdstip geschiedt de omrekening van deze bedragen naar de euro onderscheidenlijk de andere geldeenheid tegen de gemiddelde koers van de andere geldeenheid onderscheidenlijk de euro over het eerstbedoelde jaar.
 
-6. De omrekening van de bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672) dan wel bij of krachtens de Wet op de inkomstenbelasting 1964 vastgestelde bedragen in euro's die van belang zijn voor het bepalen van het belastbare bedrag van een jaar in de andere geldeenheid, geschiedt tegen de gemiddelde koers van de andere geldeenheid over het desbetreffende jaar.
+6. De omrekening van de bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672) dan wel bij of krachtens de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) vastgestelde bedragen in euro's die van belang zijn voor het bepalen van het belastbare bedrag van een jaar in de andere geldeenheid, geschiedt tegen de gemiddelde koers van de andere geldeenheid over het desbetreffende jaar.
 
 ##### Artikel 4
 
@@ -73,7 +73,7 @@ De verschuldigde vennootschapsbelasting wordt berekend in euro's. Voor deze bere
 
 ##### Artikel 5
 
-Bij inwilliging van een voor 1 januari 1998 ingediend verzoek als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008878&artikel=2&z=2002-01-01&g=2002-01-01), wordt in afwijking in zoverre van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008878&artikel=2&z=2002-01-01&g=2002-01-01), het belastbare bedrag met ingang van het jaar dat aanvangt op of na 1 januari 1997 in de andere geldeenheid berekend, mits de belastingplichtige dit verzoekt.
+Vervallen
 
 ##### Artikel 6
 
