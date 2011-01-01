@@ -4,7 +4,7 @@ identifier: "BWBR0029375"
 country: "nl"
 rank: "amvb"
 publication_date: "2011-02-24"
-last_updated: "2010-10-10"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029375"
 soort: "AMvB"
@@ -56,7 +56,7 @@ Wijzigt het Uitvoeringsbesluit loonbelasting 1965.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit vennootschapsbelasting 1971.
 
 ##### Artikel IV
 
@@ -72,39 +72,47 @@ Wijzigt het Besluit winstbepaling en reserves verzekeraars 2001.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit Successiewet 1956.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit omzetbelasting 1968.
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+Voor de toepassing van [artikel 7, tweede lid, van het Uitvoeringsbesluit omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=7) wordt:
+
+- a. een ondernemer die was genoemd in [bijlage B, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&bijlage=B), zoals dat onderdeel luidde op 31 december 2005;
+
+- b. een ondernemer aan wie schriftelijk te kennen is gegeven dat het voornemen bestaat om te bevorderen dat de ondernemer zal worden opgenomen in [bijlage B, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&bijlage=B), zoals dat onderdeel luidde op 31 december 2005;
+
+- c. een ondernemer die erkend is op grond van [bijlage B, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&bijlage=B), zoals dat onderdeel luidde op 31 december 2010;
+
+aangemerkt als een instelling die door de inspecteur is erkend als een instelling van sociale of culturele aard. Hierbij blijven de voorwaarden en beperkingen van kracht die met betrekking tot het verlenen van de vrijstelling zijn gesteld.
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Algemeen douanebesluit.
 
 ##### Artikel XI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit belasting van personenauto’s en motorrijwielen 1992.
 
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit motorrijtuigenbelasting 1994.
 
 ##### Artikel XIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit accijns.
 
 ##### Artikel XIV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten.
 
 ##### Artikel XV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit belastingen op milieugrondslag.
 
 ##### Artikel XVI
 
@@ -120,6 +128,24 @@ Wijzigt het Besluit voorkoming dubbele belasting 2001.
 
 ##### Artikel XIX
 
-Dit onderdeel is nog niet inwerking getreden
+1. Dit besluit treedt in werking met ingang van 1 januari 2011, met dien verstande dat:
+
+- a. [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0029375&artikel=I&z=2011-01-01&g=2011-01-01), terugwerkt tot en met 1 januari 2002;
+
+- b. [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0029375&artikel=VI&z=2011-01-01&g=2011-01-01) terugwerkt tot en met 1 januari 2002 en voor het eerst toepassing vindt met betrekking tot jaren die aanvangen op of na 1 januari 2002;
+
+- c. [artikel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0029375&artikel=XVIII&z=2011-01-01&g=2011-01-01) terugwerkt tot en met 1 januari 2010 en:
+
+- 1°. met betrekking tot de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353), met uitzondering van [artikel XVIII, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0029375&artikel=XVIII&z=2011-01-01&g=2011-01-01), en artikel XVIII, onderdeel J, voor het eerst toepassing vindt voor belastingjaren die aanvangen op of na 1 januari 2010;
+
+- 2°. met betrekking tot de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) voor het eerst toepassing vindt voor belastbare feiten die zich hebben voorgedaan op of na 1 januari 2010.
+
+- d. [artikel XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0029375&artikel=XVII&z=2011-01-01&g=2011-01-01) terugwerkt tot en met 1 mei 2010;
+
+- e. de [artikelen I, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0029375&artikel=I&z=2011-01-01&g=2011-01-01), [II, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0029375&artikel=II&z=2011-01-01&g=2011-01-01), en [XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0029375&artikel=XVI&z=2011-01-01&g=2011-01-01) terugwerken tot en met 10 oktober 2010;
+
+- f. [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0029375&artikel=III&z=2011-01-01&g=2011-01-01) voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2012.
+
+2. In afwijking van het eerste lid treden de [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0029375&artikel=IV&z=2011-01-01&g=2011-01-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0029375&artikel=V&z=2011-01-01&g=2011-01-01) in werking met ingang van de dag die is gelegen acht weken na de datum van uitgifte van het Staatsblad waarin het besluit is geplaatst en werken die artikelen terug tot en met 1 januari 2010.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
