@@ -4,7 +4,7 @@ identifier: "BWBR0028434"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2019-01-01"
-last_updated: "2010-10-10"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028434"
 soort: "wet-BES"
@@ -47,11 +47,11 @@ entry_into_force: "2010-10-10"
 
 - c. **eilandsraad:** eilandsraad van het openbaar lichaam Bonaire, Sint Eustatius of Saba;
 
-- d. **commissie:** de commissie, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=3&z=2010-10-10&g=2010-10-10);
+- d. **commissie:** de commissie, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=3&z=2011-01-01&g=2011-01-01);
 
-- e. **beheersinstantie:** de instantie bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=5&z=2010-10-10&g=2010-10-10);
+- e. **beheersinstantie:** de instantie bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=5&z=2011-01-01&g=2011-01-01);
 
-- f. **wetenschappelijke autoriteit:** autoriteit, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=6&z=2010-10-10&g=2010-10-10)
+- f. **wetenschappelijke autoriteit:** autoriteit, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=6&z=2011-01-01&g=2011-01-01)
 
 - g. **inheemse fauna en flora:** de op de openbare lichamen Bonaire, Sint Eustatius en Saba of in de wateren van de genoemde openbare lichamen van nature voorkomende dieren en planten;
 
@@ -149,9 +149,9 @@ Onze minister is bevoegd tot het verstrekken van vergunningen en certificaten kr
 
 - 3. het geven van advies als bedoeld in artikel VIII, vierde lid, onderdeel c, van het CITES-verdrag;
 
-- 4. het desgevraagd adviseren van de Minister, het bestuurscollege, de beheersinstantie alsmede de ambtenaren, bedoeld in de [artikelen 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=5&artikel=16&z=2010-10-10&g=2010-10-10), en [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=5&artikel=18&z=2010-10-10&g=2010-10-10), over:
+- 4. het desgevraagd adviseren van de Minister, het bestuurscollege, de beheersinstantie alsmede de ambtenaren, bedoeld in de [artikelen 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=5&artikel=16&z=2011-01-01&g=2011-01-01), en [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=5&artikel=18&z=2011-01-01&g=2011-01-01), over:
 
-- a. de identificatie van specimens als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=7&z=2010-10-10&g=2010-10-10), of soorten als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=8&z=2010-10-10&g=2010-10-10); en
+- a. de identificatie van specimens als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=7&z=2011-01-01&g=2011-01-01), of soorten als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=8&z=2011-01-01&g=2011-01-01); en
 
 - b. alle andere aangelegenheden betrekking hebbende op het natuurbeheer en de natuurbescherming die hem om advies worden voorgelegd.
 
@@ -159,7 +159,7 @@ Onze minister is bevoegd tot het verstrekken van vergunningen en certificaten kr
 
 ##### Artikel 7
 
-In de[artikelen 7A](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=7a&z=2010-10-10&g=2010-10-10), [7B](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=7b&z=2010-10-10&g=2010-10-10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=11&z=2010-10-10&g=2010-10-10), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=15&z=2010-10-10&g=2010-10-10) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=6&paragraaf=3&artikel=35&z=2010-10-10&g=2010-10-10), alsmede de daarop berustende bepaling wordt verstaan onder:
+In de[artikelen 7A](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=7a&z=2011-01-01&g=2011-01-01), [7B](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=7b&z=2011-01-01&g=2011-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=11&z=2011-01-01&g=2011-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=15&z=2011-01-01&g=2011-01-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=6&paragraaf=3&artikel=35&z=2011-01-01&g=2011-01-01), alsmede de daarop berustende bepaling wordt verstaan onder:
 
 - a. **specimen:** specimen als bedoeld in artikel I, onderdeel b, van het CITES-verdrag;
 
@@ -185,7 +185,7 @@ In de[artikelen 7A](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II
 
 ##### Artikel 7b
 
-1. Bij handel als bedoeld in [artikel 7A, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=7a&z=2010-10-10&g=2010-10-10), moeten de krachtens de bepalingen van de artikelen III, IV en V van het CITES-verdrag verstrekte vergunningen en certificaten in overeenstemming zijn met de bepalingen van artikel VI van dit verdrag.
+1. Bij handel als bedoeld in [artikel 7A, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=7a&z=2011-01-01&g=2011-01-01), moeten de krachtens de bepalingen van de artikelen III, IV en V van het CITES-verdrag verstrekte vergunningen en certificaten in overeenstemming zijn met de bepalingen van artikel VI van dit verdrag.
 
 2. Vergunningen of certificaten kunnen worden ingetrokken, indien:
 
@@ -199,7 +199,7 @@ In de[artikelen 7A](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II
 
 ##### Artikel 8
 
-In de [artikelen 8A](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=8a&z=2010-10-10&g=2010-10-10), [8B](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=8b&z=2010-10-10&g=2010-10-10), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=10&z=2010-10-10&g=2010-10-10), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=13&z=2010-10-10&g=2010-10-10) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=15&z=2010-10-10&g=2010-10-10), alsmede de daarop berustende bepalingen wordt verstaan onder:
+In de [artikelen 8A](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=8a&z=2011-01-01&g=2011-01-01), [8B](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=8b&z=2011-01-01&g=2011-01-01), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=10&z=2011-01-01&g=2011-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=13&z=2011-01-01&g=2011-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=15&z=2011-01-01&g=2011-01-01), alsmede de daarop berustende bepalingen wordt verstaan onder:
 
 - a. **uitstervende soorten:** soorten als bedoeld in artikel 1, onderdeel f, van het SPAW-protocol;
 
@@ -221,7 +221,7 @@ In de [artikelen 8A](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=I
 
 - a. de planten- of diersoorten, opgenomen in Bijlage III van het SPAW-protocol, met inachtneming van het bepaalde in artikel 11, onderdeel c, van dat protocol; en
 
-- b. andere aangelegenheden ter uitvoering van het SPAW-protocol, onverminderd het bepaalde in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=13&z=2010-10-10&g=2010-10-10), jo. [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=15&z=2010-10-10&g=2010-10-10), van deze wet.
+- b. andere aangelegenheden ter uitvoering van het SPAW-protocol, onverminderd het bepaalde in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=13&z=2011-01-01&g=2011-01-01), jo. [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=15&z=2011-01-01&g=2011-01-01), van deze wet.
 
 ##### Artikel 8b
 
@@ -229,17 +229,17 @@ Bij ministeriële regeling kunnen ten aanzien van de verboden, bedoeld in artike
 
 ##### Artikel 8c
 
-1. Onverminderd het bepaalde in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=15&z=2010-10-10&g=2010-10-10), van deze wet kunnen bij of krachtens algemene maatregel van bestuur regels worden gegeven ter uitvoering van het Verdrag van Ramsar, de Bonn-conventie, het Biodiversiteitsverdrag en het Zeeschildpaddenverdrag.
+1. Onverminderd het bepaalde in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=15&z=2011-01-01&g=2011-01-01), van deze wet kunnen bij of krachtens algemene maatregel van bestuur regels worden gegeven ter uitvoering van het Verdrag van Ramsar, de Bonn-conventie, het Biodiversiteitsverdrag en het Zeeschildpaddenverdrag.
 
-2. Bij of krachtens algemene maatregel van bestuur als bedoeld in het eerste lid kan worden bepaald dat de eilandsraad zorgdraagt voor aangelegenheden vermeld in de in het eerste lid bedoelde verdragen onder opneming van een voorziening, bedoeld in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=15&z=2010-10-10&g=2010-10-10), van deze wet.
+2. Bij of krachtens algemene maatregel van bestuur als bedoeld in het eerste lid kan worden bepaald dat de eilandsraad zorgdraagt voor aangelegenheden vermeld in de in het eerste lid bedoelde verdragen onder opneming van een voorziening, bedoeld in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=15&z=2011-01-01&g=2011-01-01), van deze wet.
 
 ##### Artikel 8d
 
-1. Buiten de territoriale wateren, doch binnen de visserijzone, bedoeld in artikel 1 van de Visserijlandsverordening (P.B. 1991, no. 74), heeft de Minister’ dezelfde taken en bevoegdheden als die, welke voor de openbare lichamen Bonaire, Sint Eustatius of Saba zijn vastgesteld in de [artikelen 10 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=10&z=2010-10-10&g=2010-10-10).
+1. Buiten de territoriale wateren, doch binnen de exclusieve economische zone, heeft Onze Minister’ dezelfde taken en bevoegdheden als die, welke voor de openbare lichamen Bonaire, Sint Eustatius of Saba zijn vastgesteld in de [artikelen 10 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=10&z=2011-01-01&g=2011-01-01).
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen aanvullende beheersregels worden vastgesteld ter behoud van de natuur en het milieu van het gebied, bedoeld in het eerste lid.
 
-3. In de visserijzone, bedoeld in het eerste lid, of in exclusieve economische zone kunnen beschermde gebieden worden ingesteld.
+3. Indien Onze minister in de uitoefening van de taken en bevoegdheden, bedoeld in het eerste lid, beperkingen of verboden aan de vaart oplegt, doet zij dit in overeenstemming met Onze minister van Verkeer en Waterstaat.
 
 ### Hoofdstuk III. Taken en bevoegdheden van de openbare lichamen Bonaire, Sint Eustatius en Saba
 
@@ -251,7 +251,7 @@ Bij ministeriële regeling kunnen ten aanzien van de verboden, bedoeld in artike
 
 3. Het natuurplan bevat in ieder geval:
 
-- a. de uitgangspunten van het natuurbeleid van het desbetreffende openbare lichaam voor de planperiode, met inachtneming van de verplichtingen die voortvloeien uit internationale verdragen op het gebied van het natuurbeheer en bescherming alsmede uit het natuurbeleidsplan, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=2&z=2010-10-10&g=2010-10-10);
+- a. de uitgangspunten van het natuurbeleid van het desbetreffende openbare lichaam voor de planperiode, met inachtneming van de verplichtingen die voortvloeien uit internationale verdragen op het gebied van het natuurbeheer en bescherming alsmede uit het natuurbeleidsplan, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=2&z=2011-01-01&g=2011-01-01);
 
 - b. een overzicht van de actiepunten die in de planperiode zullen worden verwezenlijkt, alsmede de termijn waarbinnen dit zal plaatsvinden.
 
@@ -375,7 +375,7 @@ De Minister en het bestuurscollege, voor zover het betreft overtreding van voors
 
 3. Indien de kosten geheel of gedeeltelijk niet ten laste van de overtreder zullen worden gebracht, wordt zulks in de beschikking vermeld.
 
-4. Onder de kosten, bedoeld in het eerste lid, worden begrepen de kosten verbonden aan de voorbereiding van bestuursdwang, voor zover deze kosten zijn gemaakt na het tijdstip waarop de termijn, bedoeld in [artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=6&paragraaf=1&artikel=21&z=2010-10-10&g=2010-10-10), is verstreken.
+4. Onder de kosten, bedoeld in het eerste lid, worden begrepen de kosten verbonden aan de voorbereiding van bestuursdwang, voor zover deze kosten zijn gemaakt na het tijdstip waarop de termijn, bedoeld in [artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=6&paragraaf=1&artikel=21&z=2011-01-01&g=2011-01-01), is verstreken.
 
 5. De kosten zijn ook verschuldigd indien de bestuursdwang door opheffing van de onwettige situatie niet of niet volledig is uitgevoerd.
 
@@ -395,7 +395,7 @@ De kosten verbonden aan de toepassing van bestuursdwang, zijn bevoorrecht op de 
 
 ##### Artikel 25
 
-Om aan een besluit tot toepassing van bestuursdwang uitvoering te geven, zijn de [artikelen 16, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=5&artikel=16&z=2010-10-10&g=2010-10-10) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=5&artikel=17&z=2010-10-10&g=2010-10-10) van overeenkomstige toepassing op door de Minister of het bestuurscollege, voor zover het betreft overtreding van voorschriften van de openbare lichamen, aan te wijzen personen.
+Om aan een besluit tot toepassing van bestuursdwang uitvoering te geven, zijn de [artikelen 16, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=5&artikel=16&z=2011-01-01&g=2011-01-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=5&artikel=17&z=2011-01-01&g=2011-01-01) van overeenkomstige toepassing op door de Minister of het bestuurscollege, voor zover het betreft overtreding van voorschriften van de openbare lichamen, aan te wijzen personen.
 
 ##### Artikel 26
 
@@ -435,7 +435,7 @@ De Minister of het bestuurscollege, voor zover het betreft overtreding van voors
 
 1. Verbeurde dwangsommen komen toe aan de Staat der Nederlanden of het desbetreffende openbare lichaam.
 
-2. De Minister en het desbetreffende bestuurscollege kunnen bij dwangbevel het verschuldigde bedrag, verhoogd met de op de invordering vallende kosten, invorderen. [Artikel 22, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=6&paragraaf=1&artikel=22&z=2010-10-10&g=2010-10-10), zijn van overeenkomstige toepassing.
+2. De Minister en het desbetreffende bestuurscollege kunnen bij dwangbevel het verschuldigde bedrag, verhoogd met de op de invordering vallende kosten, invorderen. [Artikel 22, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=6&paragraaf=1&artikel=22&z=2011-01-01&g=2011-01-01), zijn van overeenkomstige toepassing.
 
 ##### Artikel 31
 
@@ -453,15 +453,15 @@ De Minister of het bestuurscollege, voor zover het betreft overtreding van voors
 
 ##### Artikel 33
 
-1. Handelen in strijd met de voorschriften gegeven bij of krachtens de [artikelen 7A](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=7a&z=2010-10-10&g=2010-10-10), [7B](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=7b&z=2010-10-10&g=2010-10-10), [8A](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=8a&z=2010-10-10&g=2010-10-10), [8B](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=8b&z=2010-10-10&g=2010-10-10) en [8C](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=8c&z=2010-10-10&g=2010-10-10) of krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=15&z=2010-10-10&g=2010-10-10), en overtreding van de verboden gegeven bij of krachtens de artikelen 7A, 7B, 8A, 8B en 8C of krachtens artikel 15, wordt, voor zover opzettelijk begaan, gestraft met hetzij gevangenisstraf van ten hoogste vier jaren, hetzij geldboete van ten hoogste de zesde categorie van het Wetboek van Strafrecht BES, hetzij beide straffen.
+1. Handelen in strijd met de voorschriften gegeven bij of krachtens de [artikelen 7A](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=7a&z=2011-01-01&g=2011-01-01), [7B](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=7b&z=2011-01-01&g=2011-01-01), [8A](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=8a&z=2011-01-01&g=2011-01-01), [8B](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=8b&z=2011-01-01&g=2011-01-01), [8C](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=8c&z=2011-01-01&g=2011-01-01) en [8D, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=8d&z=2011-01-01&g=2011-01-01), of krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=15&z=2011-01-01&g=2011-01-01), en overtreding van de verboden gegeven bij of krachtens de artikelen 7A, 7B, 8A, 8B, 8C en 8D, eerste en tweede lid, of krachtens artikel 15, wordt, voor zover opzettelijk begaan, gestraft met hetzij gevangenisstraf van ten hoogste vier jaren, hetzij geldboete van ten hoogste de zesde categorie van het [Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570), hetzij beide straffen.
 
-2. Handelen in strijd met de voorschriften gegeven bij of krachtens de artikelen [7A](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=7a&z=2010-10-10&g=2010-10-10), [7B](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=7b&z=2010-10-10&g=2010-10-10), [8A](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=8a&z=2010-10-10&g=2010-10-10), [8B](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=8b&z=2010-10-10&g=2010-10-10) en [8C](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=8c&z=2010-10-10&g=2010-10-10) of krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=15&z=2010-10-10&g=2010-10-10), en overtreding van de verboden gegeven bij of krachtens de artikel 7A, 7B, 8A, 8B en 8C of krachtens artikel 15, wordt, voor zover niet opzettelijk begaan, gestraft met hetzij gevangenisstraf van ten hoogste een jaar, hetzij geldboete van ten hoogste de vijfde categorie van het Wetboek van Strafrecht BES, hetzij beide straffen.
+2. Handelen in strijd met de voorschriften gegeven bij of krachtens de [artikelen 7A](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=7a&z=2011-01-01&g=2011-01-01), [7B](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=7b&z=2011-01-01&g=2011-01-01), [8A](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=8a&z=2011-01-01&g=2011-01-01), [8B](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=8b&z=2011-01-01&g=2011-01-01), [8C](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=8c&z=2011-01-01&g=2011-01-01) en [8D, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=8d&z=2011-01-01&g=2011-01-01), of krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=15&z=2011-01-01&g=2011-01-01), en overtreding van de verboden gegeven bij of krachtens de artikelen 7A, 7B, 8A, 8B, 8C en 8D, eerste en tweede lid, of krachtens artikel 15, wordt, voor zover niet opzettelijk begaan, gestraft met hetzij gevangenisstraf van ten hoogste een jaar, hetzij geldboete van ten hoogste de vijfde categorie van het [Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570), hetzij beide straffen.
 
-3. Handelen in strijd met de bij de [artikelen 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=5&artikel=17&z=2010-10-10&g=2010-10-10), en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=5&artikel=19&z=2010-10-10&g=2010-10-10) gegeven voorschriften wordt gestraft met hetzij hechtenis van ten hoogste zes maanden, hetzij een geldboete van de vierde categorie van het Wetboek van Strafrecht BES, hetzij beide straffen.
+3. Handelen in strijd met de bij de [artikelen 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=5&artikel=17&z=2011-01-01&g=2011-01-01), en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=5&artikel=19&z=2011-01-01&g=2011-01-01) gegeven voorschriften wordt gestraft met hetzij hechtenis van ten hoogste zes maanden, hetzij een geldboete van de vierde categorie van het [Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570), hetzij beide straffen.
 
 ##### Artikel 34
 
-De in [artikel 33, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=6&paragraaf=3&artikel=33&z=2010-10-10&g=2010-10-10), strafbaar gestelde feiten zijn misdrijven; de overige in dit artikel strafbaar gestelde feiten zijn overtredingen.
+De in [artikel 33, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=6&paragraaf=3&artikel=33&z=2011-01-01&g=2011-01-01), strafbaar gestelde feiten zijn misdrijven; de overige in dit artikel strafbaar gestelde feiten zijn overtredingen.
 
 ##### Artikel 35
 
@@ -479,17 +479,17 @@ De in [artikel 33, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 7. Verbeurd verklaarde of aan het verkeer onttrokken dode specimens worden op kosten van de eigenaar, de vervoerder, de importeur of diens gemachtigde vernietigd. In bijzondere gevallen kan de Minister afwijken van de eerste volzin, mits verzekerd is, dat het desbetreffende goed nimmer in het economisch verkeer kan komen.
 
-8. Ten aanzien van hetgeen krachtens het vierde, vijfde, zesde of zevende lid, verschuldigd is, zijn de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=6&paragraaf=1&artikel=22&z=2010-10-10&g=2010-10-10) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=6&paragraaf=1&artikel=23&z=2010-10-10&g=2010-10-10) van overeenkomstige toepassing.
+8. Ten aanzien van hetgeen krachtens het vierde, vijfde, zesde of zevende lid, verschuldigd is, zijn de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=6&paragraaf=1&artikel=22&z=2011-01-01&g=2011-01-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=6&paragraaf=1&artikel=23&z=2011-01-01&g=2011-01-01) van overeenkomstige toepassing.
 
 ### Hoofdstuk 7. Beroep
 
-### Hoofdstuk 8. Overgangs- en slotbepalingen
+### Hoofdstuk 7. Beroep
 
 ##### Artikel 38
 
-1. Het natuurbeleidsplan, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=2&z=2010-10-10&g=2010-10-10), wordt voor de eerste keer vastgesteld uiterlijk één jaar na het in werking treden van deze wet.
+1. Het natuurbeleidsplan, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=2&z=2011-01-01&g=2011-01-01), wordt voor de eerste keer vastgesteld uiterlijk één jaar na het in werking treden van deze wet.
 
-2. Het natuurplan, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=9&z=2010-10-10&g=2010-10-10), wordt voor de eerste keer vastgesteld uiterlijk twee jaren na het in werking treden van deze wet.
+2. Het natuurplan, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=9&z=2011-01-01&g=2011-01-01), wordt voor de eerste keer vastgesteld uiterlijk twee jaren na het in werking treden van deze wet.
 
 3. Indien het bestuurscollege nalaat binnen de in het tweede lid genoemde termijn het natuurplan vast te stellen, stelt de gezaghebber dit vast.
 
@@ -509,9 +509,9 @@ De in [artikel 33, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 ##### Artikel 40
 
-1. De verboden in [artikel 8a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=8a&z=2010-10-10&g=2010-10-10), of krachtens het derde lid, onderdeel a, gelden niet voor het onder zich hebben van soorten, opgenomen in de Bijlagen I en II van het SPAW-protocol die men onder zich had op het tijdstip van inwerkingtreding van de Landsverordening grondslagen natuurbeheer en -bescherming.
+1. De verboden in [artikel 8a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=8a&z=2011-01-01&g=2011-01-01), of krachtens het derde lid, onderdeel a, gelden niet voor het onder zich hebben van soorten, opgenomen in de Bijlagen I en II van het SPAW-protocol die men onder zich had op het tijdstip van inwerkingtreding van de Landsverordening grondslagen natuurbeheer en -bescherming.
 
-2. Het bepaalde in het eerste lid is slechts van toepassing in geval soorten, opgenomen in Bijlage I van het CITES-verdrag en in de Bijlagen I en II van het SPAW-protocol binnen zes maanden na inwerkingtreding van de Landsverordening grondslagen natuurbeheer en -bescherming zijn geregistreerd in het register, bedoeld in [artikel 5, tweede lid, onderdeel b, subonderdeel 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=5&z=2010-10-10&g=2010-10-10).
+2. Het bepaalde in het eerste lid is slechts van toepassing in geval soorten, opgenomen in Bijlage I van het CITES-verdrag en in de Bijlagen I en II van het SPAW-protocol binnen zes maanden na inwerkingtreding van de Landsverordening grondslagen natuurbeheer en -bescherming zijn geregistreerd in het register, bedoeld in [artikel 5, tweede lid, onderdeel b, subonderdeel 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=5&z=2011-01-01&g=2011-01-01).
 
 ##### Artikel 41
 
