@@ -4,7 +4,7 @@ identifier: "BWBR0008508"
 country: "nl"
 rank: "wet"
 publication_date: "2017-12-16"
-last_updated: "2005-04-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008508"
 soort: "wet"
@@ -56,7 +56,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - c. een communautaire onderneming: een onderneming, die sinds twee jaar in ten minste twee lid-staten elk gemiddeld ten minste 150 werknemers en in de lid-staten samen gemiddeld ten minste 1000 werknemers heeft, tenzij zij behoort tot een communautaire groep;
 
-- d. een communautaire groep: het geheel van ondernemingen bestaande uit een moederonderneming als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=1&artikel=2&z=2005-04-01&g=2005-04-01) en de onderneming of ondernemingen waarover zij de zeggenschap uitoefent en waarvan:
+- d. een communautaire groep: het geheel van ondernemingen bestaande uit een moederonderneming als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=1&artikel=2&z=2011-01-01&g=2011-01-01) en de onderneming of ondernemingen waarover zij de zeggenschap uitoefent en waarvan:
 
 - 1°. ten minste twee ondernemingen in verschillende lid-staten zijn gevestigd en
 
@@ -64,7 +64,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - 3°. alle ondernemingen tezamen sinds twee jaar gemiddeld ten minste 1000 werknemers in de lid-staten hebben;
 
-- e. hoofdbestuur: in het geval van een communautaire onderneming: het bestuur van deze onderneming; in het geval van een communautaire groep: het bestuur van de moederonderneming, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=1&artikel=2&z=2005-04-01&g=2005-04-01).
+- e. hoofdbestuur: in het geval van een communautaire onderneming: het bestuur van deze onderneming; in het geval van een communautaire groep: het bestuur van de moederonderneming, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=1&artikel=2&z=2011-01-01&g=2011-01-01).
 
 2. Indien een communautaire onderneming haar woonplaats of zetel buiten de lid-staten heeft, wordt als hoofdbestuur aangemerkt:
 
@@ -72,7 +72,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - b. degene of degenen die zijn belast met de feitelijke leiding van de vestiging die het grootste aantal werknemers heeft in één lid-staat.
 
-3. Indien de moederonderneming, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=1&artikel=2&z=2005-04-01&g=2005-04-01), haar woonplaats of zetel buiten de lid-staten heeft, kan zij als haar vertegenwoordiger aanwijzen het bestuur van een groepsonderneming met woonplaats of zetel binnen de lid-staten. Bij gebreke van zulk een aanwijzing wordt het bestuur van de groepsonderneming met woonplaats of zetel binnen de lid-staten die het grootste aantal werknemers heeft in één lid-staat, als zodanig aangemerkt.
+3. Indien de moederonderneming, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=1&artikel=2&z=2011-01-01&g=2011-01-01), haar woonplaats of zetel buiten de lid-staten heeft, kan zij als haar vertegenwoordiger aanwijzen het bestuur van een groepsonderneming met woonplaats of zetel binnen de lid-staten. Bij gebreke van zulk een aanwijzing wordt het bestuur van de groepsonderneming met woonplaats of zetel binnen de lid-staten die het grootste aantal werknemers heeft in één lid-staat, als zodanig aangemerkt.
 
 4. Handelen of nalaten door het hoofdbestuur, bedoeld in het eerste lid, onderdeel **e** onderscheidenlijk het derde lid, wordt toegerekend aan de natuurlijke persoon of rechtspersoon, die de communautaire onderneming of de moederonderneming onderscheidenlijk de in het derde lid bedoelde groepsonderneming in stand houdt.
 
@@ -96,15 +96,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 4. Voor de toepassing van het eerste lid worden stemrechten, verbonden aan verpande aandelen, toegerekend aan de pandhouder, indien hij mag bepalen hoe de rechten worden uitgeoefend. Zijn de aandelen evenwel verpand voor een lening die de pandhouder heeft verstrekt in de gewone uitoefening van zijn bedrijf, dan worden de stemrechten hem slechts toegerekend, indien hij deze in eigen belang heeft uitgeoefend.
 
-5. Geen moederonderneming is een onderneming als bedoeld in [artikel 3, vijfde lid, onder **a.** of **c.**](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=1&artikel=3&z=2005-04-01&g=2005-04-01) van [Verordening (EEG) 4064/89](31989R4064) van de Raad van 21 december 1989 betreffende de controle op concentraties van ondernemingen (**PbEG** L 395).
+5. Geen moederonderneming is een onderneming als bedoeld in [artikel 3, vijfde lid, onder **a.** of **c.**](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=1&artikel=3&z=2011-01-01&g=2011-01-01) van [Verordening (EEG) 4064/89](31989R4064) van de Raad van 21 december 1989 betreffende de controle op concentraties van ondernemingen (**PbEG** L 395).
 
-6. Het recht dat op een onderneming van toepassing is, bepaalt of die onderneming een moederonderneming is als bedoeld in het eerste lid. Indien dat recht niet het recht van een lid-staat is, wordt dat bepaald door het recht dat van toepassing is op de groepsonderneming, waarvan het bestuur de moederonderneming vertegenwoordigt krachtens [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=1&artikel=1&z=2005-04-01&g=2005-04-01).
+6. Het recht dat op een onderneming van toepassing is, bepaalt of die onderneming een moederonderneming is als bedoeld in het eerste lid. Indien dat recht niet het recht van een lid-staat is, wordt dat bepaald door het recht dat van toepassing is op de groepsonderneming, waarvan het bestuur de moederonderneming vertegenwoordigt krachtens [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=1&artikel=1&z=2011-01-01&g=2011-01-01).
 
 7. Indien meer ondernemingen van een groep aan een of meer criteria van het eerste lid voldoen,
 
-- a. wordt de onderneming die voldoet aan het criterium [onder a)](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=1&artikel=2&z=2005-04-01&g=2005-04-01) aangemerkt als moederonderneming, waarbij het benoemingsrecht met betrekking tot het leidinggevend orgaan voorrang heeft;
+- a. wordt de onderneming die voldoet aan het criterium, bedoeld in het eerste lid, onderdeel a aangemerkt als moederonderneming, waarbij het benoemingsrecht met betrekking tot het leidinggevend orgaan voorrang heeft;
 
-- b. heeft, indien toepassing van [onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=1&artikel=2&z=2005-04-01&g=2005-04-01) niet leidt tot aanmerking van één onderneming als moederonderneming, het criterium [onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=1&artikel=2&z=2005-04-01&g=2005-04-01)) voorrang boven dat [onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=1&artikel=2&z=2005-04-01&g=2005-04-01));
+- b. heeft, indien toepassing van onderdeel a niet leidt tot aanmerking van één onderneming als moederonderneming, het criterium, bedoeld in het eerste lid, onderdeel b, voorrang boven dat, bedoeld in het eerste lid, onderdeel c;
 
 een en ander onverminderd het bewijs dat een andere onderneming een overheersende invloed kan uitoefenen.
 
@@ -112,7 +112,7 @@ een en ander onverminderd het bewijs dat een andere onderneming een overheersend
 
 1. In deze wet wordt, voor zover het in Nederland werkzame personen betreft, onder werknemer verstaan: degene die krachtens een arbeidsovereenkomst werkzaam is in de communautaire onderneming of de communautaire groep, en voor zover het in de overige lid-staten werkzame personen betreft: hetgeen het recht van die lid-staat daaronder verstaat.
 
-2. Voor de toepassing van de [artikelen 4, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=1&artikel=4&z=2005-04-01&g=2005-04-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=1&artikel=7&z=2005-04-01&g=2005-04-01), [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=8&z=2005-04-01&g=2005-04-01), [11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=11&z=2005-04-01&g=2005-04-01), en [19, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=3&artikel=19&z=2005-04-01&g=2005-04-01), wordt onder vertegenwoordigers van werknemers verstaan: hetgeen daaronder wordt verstaan krachtens het recht van de lid-staat waarin die werknemers werkzaam zijn; voor Nederland zijn dat ondernemingsraden.
+2. Voor de toepassing van de [artikelen 4, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=1&artikel=4&z=2011-01-01&g=2011-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=1&artikel=7&z=2011-01-01&g=2011-01-01), [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=8&z=2011-01-01&g=2011-01-01), [11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=11&z=2011-01-01&g=2011-01-01), en [19, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=3&artikel=19&z=2011-01-01&g=2011-01-01), wordt onder vertegenwoordigers van werknemers verstaan: hetgeen daaronder wordt verstaan krachtens het recht van de lid-staat waarin die werknemers werkzaam zijn; voor Nederland zijn dat ondernemingsraden.
 
 ##### Artikel 4
 
@@ -124,7 +124,7 @@ een en ander onverminderd het bewijs dat een andere onderneming een overheersend
 
 4. Zij zijn verplicht tot geheimhouding van alle zaken- en bedrijfsgeheimen die zij in hun hoedanigheid vernemen, alsmede van alle aangelegenheden ten aanzien waarvan hun geheimhouding is opgelegd of waarvan zij, in verband met opgelegde geheimhouding, het vertrouwelijke karakter moeten begrijpen. Deze verplichting geldt ook voor personen die een functie als bedoeld in het eerste lid vervullen zonder werknemer te zijn.
 
-5. De verplichting tot geheimhouding geldt niet tegenover hem die wordt benaderd voor overleg of als deskundige als bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=12&z=2005-04-01&g=2005-04-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=3&artikel=20&z=2005-04-01&g=2005-04-01), mits het hoofdbestuur of degene die de geheimhouding heeft opgelegd, vooraf daarvoor toestemming heeft gegeven en de betrokken persoon schriftelijk heeft verklaard dat hij zich ten aanzien van de betrokken aangelegenheid tot geheimhouding verplicht. In dat geval is ten aanzien van de bedoelde persoon de geheimhoudingsplicht van toepassing.
+5. De verplichting tot geheimhouding geldt niet tegenover hem die wordt benaderd voor overleg of als deskundige als bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=12&z=2011-01-01&g=2011-01-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=3&artikel=20&z=2011-01-01&g=2011-01-01), mits het hoofdbestuur of degene die de geheimhouding heeft opgelegd, vooraf daarvoor toestemming heeft gegeven en de betrokken persoon schriftelijk heeft verklaard dat hij zich ten aanzien van de betrokken aangelegenheid tot geheimhouding verplicht. In dat geval is ten aanzien van de bedoelde persoon de geheimhoudingsplicht van toepassing.
 
 6. De plicht tot geheimhouding vervalt niet door beëindiging van de in het eerste lid bedoelde functie, noch door beëindiging van de werkzaamheden van de betrokkene in de onderneming.
 
@@ -136,13 +136,13 @@ een en ander onverminderd het bewijs dat een andere onderneming een overheersend
 
 ##### Artikel 5
 
-1. Iedere belanghebbende kan de ondernemingskamer van het gerechtshof te Amsterdam verzoeken te bepalen dat gevolg dient te worden gegeven aan hetgeen is bepaald bij deze wet, met uitzondering van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=1&artikel=4&z=2005-04-01&g=2005-04-01), voor zo ver het tweede lid niet anders bepaalt, of bij een overeenkomst als bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=11&z=2005-04-01&g=2005-04-01) of [24](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=4&artikel=24&z=2005-04-01&g=2005-04-01). Een bijzondere onderhandelingsgroep of de leden daarvan en een Europese ondernemingsraad, ingesteld krachtens deze wet, kunnen niet in de proceskosten van deze procedure worden veroordeeld.
+1. Iedere belanghebbende kan de ondernemingskamer van het gerechtshof te Amsterdam verzoeken te bepalen dat gevolg dient te worden gegeven aan hetgeen is bepaald bij deze wet, met uitzondering van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=1&artikel=4&z=2011-01-01&g=2011-01-01), voor zo ver het tweede lid niet anders bepaalt, of bij een overeenkomst als bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=11&z=2011-01-01&g=2011-01-01) of [24](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=4&artikel=24&z=2011-01-01&g=2011-01-01). Een bijzondere onderhandelingsgroep of de leden daarvan en een Europese ondernemingsraad, ingesteld krachtens deze wet, kunnen niet in de proceskosten van deze procedure worden veroordeeld.
 
 2. De bijzondere onderhandelingsgroep of de leden daarvan en een Europese ondernemingsraad kunnen aan de ondernemingskamer van het gerechtshof te Amsterdam verzoeken om:
 
-- a. krachtens [artikel 4, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=1&artikel=4&z=2005-04-01&g=2005-04-01), [11, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=11&z=2005-04-01&g=2005-04-01) of [19, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=3&artikel=19&z=2005-04-01&g=2005-04-01), opgelegde geheimhouding op te heffen op de grond dat degene die de geheimhouding heeft opgelegd bij afweging van de betrokken belangen niet in redelijkheid tot het opleggen van geheimhouding had kunnen besluiten;
+- a. krachtens [artikel 4, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=1&artikel=4&z=2011-01-01&g=2011-01-01), [11, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=11&z=2011-01-01&g=2011-01-01) of [19, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=3&artikel=19&z=2011-01-01&g=2011-01-01), opgelegde geheimhouding op te heffen op de grond dat degene die de geheimhouding heeft opgelegd bij afweging van de betrokken belangen niet in redelijkheid tot het opleggen van geheimhouding had kunnen besluiten;
 
-- b. degene die informatie heeft geweigerd krachtens [artikel 11, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=11&z=2005-04-01&g=2005-04-01), of [19, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=3&artikel=19&z=2005-04-01&g=2005-04-01), te verplichten tot het verstrekken van informatie op de grond dat deze bij afweging van de betrokken belangen niet in redelijkheid tot het weigeren van informatie had kunnen besluiten.
+- b. degene die informatie heeft geweigerd krachtens [artikel 11, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=11&z=2011-01-01&g=2011-01-01), of [19, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=3&artikel=19&z=2011-01-01&g=2011-01-01), te verplichten tot het verstrekken van informatie op de grond dat deze bij afweging van de betrokken belangen niet in redelijkheid tot het weigeren van informatie had kunnen besluiten.
 
 ### Hoofdstuk 2. Informatieverstrekking en raadpleging van werknemers in Nederlandse communautaire ondernemingen en groepen
 
@@ -152,7 +152,7 @@ een en ander onverminderd het bewijs dat een andere onderneming een overheersend
 
 1. Dit hoofdstuk is van toepassing op een communautaire onderneming en een moederonderneming met woonplaats of zetel in Nederland.
 
-2. Ingeval een communautaire onderneming of moederonderneming haar woonplaats of zetel buiten de lid-staten heeft, is dit hoofdstuk van toepassing, indien de in [artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=1&artikel=1&z=2005-04-01&g=2005-04-01), bedoelde vestiging onderscheidenlijk groepsonderneming woonplaats of zetel heeft in Nederland.
+2. Ingeval een communautaire onderneming of moederonderneming haar woonplaats of zetel buiten de lid-staten heeft, is dit hoofdstuk van toepassing, indien de in [artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=1&artikel=1&z=2011-01-01&g=2011-01-01), bedoelde vestiging onderscheidenlijk groepsonderneming woonplaats of zetel heeft in Nederland.
 
 ##### Artikel 7
 
@@ -162,11 +162,11 @@ De communautaire onderneming of de moederonderneming is verplicht op verzoek van
 
 ##### Artikel 8
 
-1. Het hoofdbestuur kan een bijzondere onderhandelingsgroep oprichten teneinde daarmee in onderhandeling te treden over een overeenkomst tot instelling van een Europese ondernemingsraad, al dan niet overeenkomstig [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=3&z=2005-04-01&g=2005-04-01), of tot een regeling waarbij op een andere wijze wordt voorzien in het verstrekken van inlichtingen aan en het raadplegen van werknemers of hun vertegenwoordigers over grensoverschrijdende aangelegenheden.
+1. Het hoofdbestuur kan een bijzondere onderhandelingsgroep oprichten teneinde daarmee in onderhandeling te treden over een overeenkomst tot instelling van een Europese ondernemingsraad, al dan niet overeenkomstig [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=3&z=2011-01-01&g=2011-01-01), of tot een regeling waarbij op een andere wijze wordt voorzien in het verstrekken van inlichtingen aan en het raadplegen van werknemers of hun vertegenwoordigers over grensoverschrijdende aangelegenheden.
 
 2. Het hoofdbestuur is verplicht tot instelling van een bijzondere onderhandelingsgroep als bedoeld in het eerste lid, indien van ten minste 100 werknemers of hun vertegenwoordigers afkomstig uit tenminste twee ondernemingen of vestigingen in ten minste twee verschillende lid-staten een schriftelijk verzoek daartoe is ontvangen. Indien een verzoek daartoe is ontvangen door een tot de communautaire onderneming of groep behorende vestiging of onderneming, draagt het hoofdbestuur er zorg voor dat het verzoek onverwijld naar hem wordt doorgezonden en dat van de doorzending mededeling wordt gedaan aan de verzoekers.
 
-3. De in het tweede lid bedoelde verplichting geldt, indien de bijzondere onderhandelingsgroep een besluit heeft genomen als bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=11&z=2005-04-01&g=2005-04-01), niet gedurende twee jaar na het nemen van dat besluit, tenzij het hoofdbestuur en de bijzondere onderhandelingsgroep anders zijn overeengekomen.
+3. De in het tweede lid bedoelde verplichting geldt, indien de bijzondere onderhandelingsgroep een besluit heeft genomen als bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=11&z=2011-01-01&g=2011-01-01), niet gedurende twee jaar na het nemen van dat besluit, tenzij het hoofdbestuur en de bijzondere onderhandelingsgroep anders zijn overeengekomen.
 
 ##### Artikel 9
 
@@ -174,7 +174,7 @@ De communautaire onderneming of de moederonderneming is verplicht op verzoek van
 
 2. Elk lid wordt gekozen of aangewezen overeenkomstig het recht van de lid-staat waarin hij werkzaam is.
 
-3. De zetelverdeling wordt in overeenstemming gehouden met het eerste lid; indien dat er toe leidt dat het aantal aanvullende leden voor een lid-staat wijzigt zonder dat met betrekking tot de bezetting van die zetels een nieuwe verkiezing of aanwijzing heeft plaatsgevonden, hebben de voor die lid-staat zitting hebbende leden voor de toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=13&z=2005-04-01&g=2005-04-01) samen zoveel stemmen als overeenkomt met het aantal zetels dat voor die lid-staat krachtens het eerste lid is vastgesteld.
+3. De zetelverdeling wordt in overeenstemming gehouden met het eerste lid; indien dat er toe leidt dat het aantal aanvullende leden voor een lid-staat wijzigt zonder dat met betrekking tot de bezetting van die zetels een nieuwe verkiezing of aanwijzing heeft plaatsgevonden, hebben de voor die lid-staat zitting hebbende leden voor de toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=13&z=2011-01-01&g=2011-01-01) samen zoveel stemmen als overeenkomt met het aantal zetels dat voor die lid-staat krachtens het eerste lid is vastgesteld.
 
 ##### Artikel 10
 
@@ -194,9 +194,9 @@ De communautaire onderneming of de moederonderneming is verplicht op verzoek van
 
 ##### Artikel 11
 
-1. Na de oprichting van de bijzondere onderhandelingsgroep belegt het hoofdbestuur met deze een vergadering teneinde te onderhandelen over een overeenkomst als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=8&z=2005-04-01&g=2005-04-01). Het stelt de groep in de gelegenheid om bijeen te komen voordat deze vergadering plaatsvindt.
+1. Na de oprichting van de bijzondere onderhandelingsgroep belegt het hoofdbestuur met deze een vergadering teneinde te onderhandelen over een overeenkomst als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=8&z=2011-01-01&g=2011-01-01). Het stelt de groep in de gelegenheid om bijeen te komen voordat deze vergadering plaatsvindt.
 
-2. Zolang een overeenkomst als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=8&z=2005-04-01&g=2005-04-01), niet tot stand is gekomen, kan de bijzondere onderhandelingsgroep besluiten om geen onderhandelingen aan te gaan, dan wel reeds lopende onderhandelingen af te breken.
+2. Zolang een overeenkomst als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=8&z=2011-01-01&g=2011-01-01), niet tot stand is gekomen, kan de bijzondere onderhandelingsgroep besluiten om geen onderhandelingen aan te gaan, dan wel reeds lopende onderhandelingen af te breken.
 
 3. Indien het hoofdbestuur en de bijzondere onderhandelingsgroep overeenkomen een Europese ondernemingsraad in te stellen, dan wordt bij overeenkomst tevens het reglement van de raad vastgesteld. Tenzij het hoofdbestuur en de bijzondere onderhandelingsgroep anders overeenkomen, regelt het reglement tenminste de volgende aangelegenheden:
 
@@ -218,7 +218,7 @@ De communautaire onderneming of de moederonderneming is verplicht op verzoek van
 
 - b. hoe de werknemers of hun vertegenwoordigers worden ingelicht en geraadpleegd over grensoverschrijdende aangelegenheden die belangrijke gevolgen voor de werknemers hebben;
 
-- c. de wijze waarop de werknemers of hun vertegenwoordigers over de in [onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=11&z=2005-04-01&g=2005-04-01) bedoelde aangelegenheden kunnen vergaderen;
+- c. de wijze waarop de werknemers of hun vertegenwoordigers over de in [onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=11&z=2011-01-01&g=2011-01-01) bedoelde aangelegenheden kunnen vergaderen;
 
 - d. de financiële en materiële middelen die voor de uitvoering van de procedure ter beschikking worden gesteld.
 
@@ -238,15 +238,15 @@ De communautaire onderneming of de moederonderneming is verplicht op verzoek van
 
 ##### Artikel 13
 
-1. Ieder lid van de bijzondere onderhandelingsgroep heeft, onverminderd [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=9&z=2005-04-01&g=2005-04-01), één stem. De bijzondere onderhandelingsgroep besluit bij volstrekte meerderheid van het aantal uitgebrachte stemmen.
+1. Ieder lid van de bijzondere onderhandelingsgroep heeft, onverminderd [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=9&z=2011-01-01&g=2011-01-01), één stem. De bijzondere onderhandelingsgroep besluit bij volstrekte meerderheid van het aantal uitgebrachte stemmen.
 
-2. Een besluit als bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=11&z=2005-04-01&g=2005-04-01), behoeft een meerderheid van twee derden van het aantal uitgebrachte stemmen.
+2. Een besluit als bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=11&z=2011-01-01&g=2011-01-01), behoeft een meerderheid van twee derden van het aantal uitgebrachte stemmen.
 
-3. Een besluit tot het aangaan van een overeenkomst als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=11&z=2005-04-01&g=2005-04-01), behoeft tenminste zoveel stemmen als overeenkomt met de meerderheid van het aantal stemmen dat kan worden uitgebracht wanneer de bijzondere onderhandelingsgroep voltallig vergadert.
+3. Een besluit tot het aangaan van een overeenkomst als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=11&z=2011-01-01&g=2011-01-01), behoeft tenminste zoveel stemmen als overeenkomt met de meerderheid van het aantal stemmen dat kan worden uitgebracht wanneer de bijzondere onderhandelingsgroep voltallig vergadert.
 
 ##### Artikel 14
 
-Het hoofdbestuur draagt er zorg voor dat binnen de communautaire onderneming of groep de samenstelling van de bijzondere onderhandelingsgroep alsmede het tijdstip waarop een vergadering als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=11&z=2005-04-01&g=2005-04-01) zal worden gehouden, wordt bekendgemaakt.
+Het hoofdbestuur draagt er zorg voor dat binnen de communautaire onderneming of groep de samenstelling van de bijzondere onderhandelingsgroep alsmede het tijdstip waarop een vergadering als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=11&z=2011-01-01&g=2011-01-01) zal worden gehouden, wordt bekendgemaakt.
 
 #### Paragraaf 3. Subsidiaire bepalingen over informatieverstrekking en raadpleging buiten overeenkomst
 
@@ -254,9 +254,9 @@ Het hoofdbestuur draagt er zorg voor dat binnen de communautaire onderneming of 
 
 Het hoofdbestuur is verplicht overeenkomstig deze paragraaf een Europese ondernemingsraad in te stellen indien:
 
-- a. het hoofdbestuur er blijk van heeft gegeven niet binnen zes maanden na de ontvangst van een verzoek als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=8&z=2005-04-01&g=2005-04-01), te zullen onderhandelen met een bijzondere onderhandelingsgroep;
+- a. het hoofdbestuur er blijk van heeft gegeven niet binnen zes maanden na de ontvangst van een verzoek als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=8&z=2011-01-01&g=2011-01-01), te zullen onderhandelen met een bijzondere onderhandelingsgroep;
 
-- b. het hoofdbestuur en de bijzondere onderhandelingsgroep geen overeenkomst als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=11&z=2005-04-01&g=2005-04-01), hebben gesloten binnen drie jaar na de ontvangst van een verzoek als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=8&z=2005-04-01&g=2005-04-01), dan wel, indien het hoofdbestuur de bijzondere onderhandelingsgroep eigener beweging heeft ingesteld, binnen drie jaar na de datum van de instelling, tenzij een besluit als bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=11&z=2005-04-01&g=2005-04-01), van kracht is.
+- b. het hoofdbestuur en de bijzondere onderhandelingsgroep geen overeenkomst als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=11&z=2011-01-01&g=2011-01-01), hebben gesloten binnen drie jaar na de ontvangst van een verzoek als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=8&z=2011-01-01&g=2011-01-01), dan wel, indien het hoofdbestuur de bijzondere onderhandelingsgroep eigener beweging heeft ingesteld, binnen drie jaar na de datum van de instelling, tenzij een besluit als bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=11&z=2011-01-01&g=2011-01-01), van kracht is.
 
 ##### Artikel 16
 
@@ -270,7 +270,7 @@ Het hoofdbestuur is verplicht overeenkomstig deze paragraaf een Europese onderne
 
 ##### Artikel 17
 
-1. Met betrekking tot de Nederlandse vestigingen en ondernemingen worden de leden van de Europese ondernemingsraad aangewezen of verkozen, dan wel wordt hun aanwijzing ingetrokken, overeenkomstig [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=10&z=2005-04-01&g=2005-04-01), met dien verstande dat die leden zitting hebben voor de duur van vier jaren.
+1. Met betrekking tot de Nederlandse vestigingen en ondernemingen worden de leden van de Europese ondernemingsraad aangewezen of verkozen, dan wel wordt hun aanwijzing ingetrokken, overeenkomstig [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=10&z=2011-01-01&g=2011-01-01), met dien verstande dat die leden zitting hebben voor de duur van vier jaren.
 
 2. Alleen werknemers van de communautaire onderneming of groep kunnen als lid worden aangewezen of verkozen. Het lidmaatschap eindigt van rechtswege wanneer het lid ophoudt werknemer te zijn. Personen die behoren tot het varend personeel in de koopvaardij, kunnen niet als lid worden aangewezen of verkozen.
 
@@ -310,37 +310,37 @@ Het hoofdbestuur is verplicht overeenkomstig deze paragraaf een Europese onderne
 
 ##### Artikel 21
 
-1. Uiterlijk vier jaar na zijn instelling besluit de Europese ondernemingsraad, al dan niet op voorstel van het hoofdbestuur, of het wenselijk is met het hoofdbestuur in onderhandeling te treden over het sluiten van een overeenkomst als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=11&z=2005-04-01&g=2005-04-01).
+1. Uiterlijk vier jaar na zijn instelling besluit de Europese ondernemingsraad, al dan niet op voorstel van het hoofdbestuur, of het wenselijk is met het hoofdbestuur in onderhandeling te treden over het sluiten van een overeenkomst als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=11&z=2011-01-01&g=2011-01-01).
 
-2. De [artikelen 11, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=11&z=2005-04-01&g=2005-04-01), en [13, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=13&z=2005-04-01&g=2005-04-01), zijn van overeenkomstige toepassing, met dien verstande dat de Europese ondernemingsraad hierbij in de plaats treedt van de bijzondere onderhandelingsgroep.
+2. De [artikelen 11, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=11&z=2011-01-01&g=2011-01-01), en [13, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=13&z=2011-01-01&g=2011-01-01), zijn van overeenkomstige toepassing, met dien verstande dat de Europese ondernemingsraad hierbij in de plaats treedt van de bijzondere onderhandelingsgroep.
 
 ##### Artikel 22
 
-Het hoofdbestuur draagt er zorg voor dat binnen de communautaire onderneming of groep de samenstelling van de Europese ondernemingsraad alsmede het tijdstip waarop een vergadering als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=3&artikel=19&z=2005-04-01&g=2005-04-01) zal worden gehouden, wordt bekendgemaakt.
+Het hoofdbestuur draagt er zorg voor dat binnen de communautaire onderneming of groep de samenstelling van de Europese ondernemingsraad alsmede het tijdstip waarop een vergadering als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=3&artikel=19&z=2011-01-01&g=2011-01-01) zal worden gehouden, wordt bekendgemaakt.
 
 ### Hoofdstuk 3. Informatieverstrekking en raadpleging van werknemers in niet-Nederlandse communautaire ondernemingen en groepen
 
 ##### Artikel 23
 
-Indien ter uitvoering van de richtlijn in een andere lid-staat dan Nederland bij een communautaire onderneming of groep een bijzondere onderhandelingsgroep dan wel een Europese ondernemingsraad als bedoeld in de bijlage bij de richtlijn wordt ingesteld, zijn op de Nederlandse vestigingen of ondernemingen van die communautaire onderneming of groep de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=10&z=2005-04-01&g=2005-04-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=3&artikel=17&z=2005-04-01&g=2005-04-01) van overeenkomstige toepassing.
+Indien ter uitvoering van de richtlijn in een andere lid-staat dan Nederland bij een communautaire onderneming of groep een bijzondere onderhandelingsgroep dan wel een Europese ondernemingsraad als bedoeld in de bijlage bij de richtlijn wordt ingesteld, zijn op de Nederlandse vestigingen of ondernemingen van die communautaire onderneming of groep de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=10&z=2011-01-01&g=2011-01-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=3&artikel=17&z=2011-01-01&g=2011-01-01) van overeenkomstige toepassing.
 
 ### Hoofdstuk 4. Slotbepalingen
 
 ##### Artikel 24
 
-1. Deze wet is, behoudens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=1&artikel=5&z=2005-04-01&g=2005-04-01), niet van toepassing ten aanzien van een communautaire onderneming of groep die op het tijdstip van inwerkingtreding van deze wet partij is bij een of meer in werking getreden overeenkomsten, die voorzien in een regeling terzake van informatieverstrekking aan en raadpleging van de werknemers over grensoverschrijdende aangelegenheden, en gesloten zijn met een werknemersvertegenwoordiging die de communautaire onderneming of groep redelijkerwijs representatief mocht achten voor de werknemers uit de betrokken lid-staten.
+1. Deze wet is, behoudens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=1&artikel=5&z=2011-01-01&g=2011-01-01), niet van toepassing ten aanzien van een communautaire onderneming of groep die op het tijdstip van inwerkingtreding van deze wet partij is bij een of meer in werking getreden overeenkomsten, die voorzien in een regeling terzake van informatieverstrekking aan en raadpleging van de werknemers over grensoverschrijdende aangelegenheden, en gesloten zijn met een werknemersvertegenwoordiging die de communautaire onderneming of groep redelijkerwijs representatief mocht achten voor de werknemers uit de betrokken lid-staten.
 
 2. Indien deze overeenkomsten niet inhouden of binnen vijf jaar na inwerkingtreding van deze wet gaan inhouden, dat werknemers of hun vertegenwoordigers van ondernemingen of vestigingen, die na het sluiten van de overeenkomsten tot de communautaire onderneming of groep zijn gaan behoren, binnen die termijn worden betrokken bij de vernieuwing of aanpassing daarvan dan wel worden vertegenwoordigd in de afgesproken procedure van informatie en raadpleging, wordt deze wet na die termijn op de betrokken communautaire onderneming of groep van toepassing.
 
-3. [Artikel 11, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=11&z=2005-04-01&g=2005-04-01), is van overeenkomstige toepassing.
+3. [Artikel 11, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=11&z=2011-01-01&g=2011-01-01), is van overeenkomstige toepassing.
 
 4. Dit artikel is van overeenkomstige toepassing op een communautaire onderneming of groep, die met ingang van 15 december 1999 onder de werking van deze wet zou komen te vallen uitsluitend als gevolg van het gaan gelden van de richtlijn voor het Verenigd Koninkrijk, maar die op die datum partij is bij een of meer in werking getreden overeenkomsten als bedoeld in het eerste lid.
 
 ##### Artikel 25
 
-1. Voor de toepassing van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=9&z=2005-04-01&g=2005-04-01) behoeft slechts rekening te worden gehouden met die lid-staten, waar de communautaire onderneming of groep werknemers heeft en waarvan de wetgeving ter uitvoering van de richtlijn in werking is getreden.
+1. Voor de toepassing van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=9&z=2011-01-01&g=2011-01-01) behoeft slechts rekening te worden gehouden met die lid-staten, waar de communautaire onderneming of groep werknemers heeft en waarvan de wetgeving ter uitvoering van de richtlijn in werking is getreden.
 
-2. Indien een overeenkomst als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=11&z=2005-04-01&g=2005-04-01) niet een bepaling bevat, dat werknemers of hun vertegenwoordigers van ondernemingen of vestigingen van de communautaire onderneming of groep in lid-staten, waarmee overeenkomstig het eerste lid geen rekening is gehouden bij de samenstelling van de bijzondere onderhandelingsgroep, binnen twee jaar na de inwerkingtreding van de wetgeving van die lid-staat ter uitvoering van de richtlijn worden betrokken bij de vernieuwing of aanpassing van die overeenkomst dan wel binnen die termijn worden vertegenwoordigd in de Europese ondernemingsraad of bij de andere procedure van inlichting en raadpleging, wordt die overeenkomst herzien met inachtneming van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=9&z=2005-04-01&g=2005-04-01).
+2. Indien een overeenkomst als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=11&z=2011-01-01&g=2011-01-01) niet een bepaling bevat, dat werknemers of hun vertegenwoordigers van ondernemingen of vestigingen van de communautaire onderneming of groep in lid-staten, waarmee overeenkomstig het eerste lid geen rekening is gehouden bij de samenstelling van de bijzondere onderhandelingsgroep, binnen twee jaar na de inwerkingtreding van de wetgeving van die lid-staat ter uitvoering van de richtlijn worden betrokken bij de vernieuwing of aanpassing van die overeenkomst dan wel binnen die termijn worden vertegenwoordigd in de Europese ondernemingsraad of bij de andere procedure van inlichting en raadpleging, wordt die overeenkomst herzien met inachtneming van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&hoofdstuk=2&paragraaf=2&artikel=9&z=2011-01-01&g=2011-01-01).
 
 ##### Artikel 26
 
