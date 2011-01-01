@@ -4,7 +4,7 @@ identifier: "BWBR0029211"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2011-01-01"
-last_updated: "2010-12-25"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029211"
 soort: "wet-BES"
@@ -46,7 +46,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Burgerlijk Wetboek BES Boek 1.
 
 ##### Artikel II
 
@@ -54,10 +54,12 @@ Wijzigt de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+2. In afwijking van het eerste lid treedt [artikel II, onderdeel A0](https://wetten.overheid.nl/jci1.3:c:BWBR0029211&artikel=II&z=2011-01-01&g=2011-01-01), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 10 oktober 2010 om 00:00 uur in Bonaire, Sint Eustatius en Saba en om 06:00 uur in het Europese deel van Nederland.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Tweede Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba – A.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
