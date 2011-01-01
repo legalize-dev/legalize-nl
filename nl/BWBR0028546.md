@@ -4,7 +4,7 @@ identifier: "BWBR0028546"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2020-01-01"
-last_updated: "2010-10-10"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028546"
 soort: "AMvB-BES"
@@ -35,97 +35,102 @@ entry_into_force: "2011-01-01"
 ---
 # Besluit aanwijzing gevaarlijke stoffen, beroepsziektes en letsels Wet ongevallenverzekering BES
 
-##### Artikel 1
+##### Artikel 1. Bepaling van gevaarlijke stoffen
 
-1. Als ongeval in de zin van de Landsverordening Ongevallenverzekering (P.B. 1966, no. 14) worden aangemerkt de volgende ziekten:
+1. Als gevaarlijke stoffen, bedoeld in [artikel 1, onderdeel c, onder 4°, van de Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=1) worden de stoffen aangemerkt, die worden genoemd in kolom 1 van de tabel, vermeld in het tweede lid, mits daartoe grotere hoeveelheden van deze stoffen voorradig zijn of gebruikt worden dan de hoeveelheden, die in kolom 2 van de tabel, vermeld in het tweede lid, zijn aangegeven.
 
-- a. aandoeningen door: wanneer deze zich openbaren bij arbeiders van werkgevers, die werkzaamheden doen verrichten, waarbij met de hierboven genoemde stoffen wordt omgegaan;
+2. Onder de in het eerste lid bedoelde gevaarlijke stoffen en hoeveelheden worden verstaan:
 
-- 1°. lood of loodhoudende stoffen
+| Kolom 1 | Kolom 2 (in kilogrammen) |
+| --- | --- |
+| 1°. Buskruit niet in patronen. | 1.00 |
+| 2°. Buskruit in patronen. | 1.00 |
+| 3°. Mengsels van een of meer salpetersoorten met brandbare stoffen, zoals aanwezig zijn in vuurwerken: picrinezuur; mengsels van chroomzure of permangaanzure zouten met magnesium- of aluminiumpoeder, zoals worden gebruikt voor het voortbrengen van bliksemlicht voor fotografische doeleinden; mengsels van ammoniak, kali- of natrolsalpeter, permangaanzure of chroomzure zouten met nitroderivaten van een van de koolwaterstoffen van de aromatische reeks of met zwavel, pek, olie, paraffine, vet, lak of een andere brandbare, maar niet ontplofbare stof. | 2.00 |
+| 4°. Springgelatine, dynamiet en andere niet vloeibare mengsels van nitroglycerine en niet ontplofbare stoffen. | 1.00 |
+| 5°. Kalium- en ammoniumpicraat, ontplofbare mengsels van kaliumchloraat met andere stoffen, nitroglycerine, schietkatoen, collodiumwol en schiethout. | 0.050 |
+| 6°. Knalkwik, al of niet aanwezig in slagkwik of detonatorpijpjes of andere voorwerpen, indien niet in hetzelfde vertrek aanwezig met één of meer van de hiervoor vermelde ontplofbare stoffen. | 0.010 |
+| 7°. Knalkwik, al of niet aanwezig in slagkwik of detonatorpijpjes of andere voorwerpen, indien aanwezig in hetzelfde vertrek met één of meer van de onder 1° tot en met 5° vermelde ontplofbare stoffen. | 0.0002 |
+| 8°. Vloeibaar acetyleen. | 0.010 |
+| 9°. Vloeibaar chloormethyl. | 0.100 |
+| 10°.Vloeistoffen, die bij aanraking met een vlam onmiddellijk zelf vlam vatten en zich met water niet in alle verhoudingen laten vermengen zoals zwavelether, collodium, azijnether, zwavelkoolstof, petroleumether, gasoline, benzine, nafta, ligroïne, petroleum, met een vlampunt beneden 21 graden Celsius in het toestel van Abel, benzol, toluol en andere mengsels of bereidingen, waarin deze stoffen in zodanige hoeveelheid voorkomen, dat het vlampunt dier mengsels beneden 21 graden Celsius is in het toestel van Abel. | 3.00 |
+| 11°. Aceton | 3.00 |
+| 12°. Wijngeest, spiritus of ethylalcohol, houtgeest of methylalcohol en mengsels van deze stoffen onderling, evenals mengsels, waarin die stoffen voorkomen, wanneer het gehalte vijf en zeventig (75) volumepercenten alcohol te boven gaat. | 25.00 |
 
-- 2°. kwik of kwikhoudende stoffen
+##### Artikel 2. Ziekten, die aangemerkt worden als ongeval
 
-- 3°. fosfor of zijn verbindingen
+1. Als ongeval als bedoeld in [artikel 1, onderdeel f, van de Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=1) wordt tevens aangemerkt het lijden aan de volgende ziekten:
 
-- 4°. arsenicum of zijn verbindingen
+- a. aandoeningen als gevolg van: indien deze aandoeningen zich openbaren bij werknemers, die werkzaamheden verrichten, waarbij met de hierboven genoemde stoffen wordt omgegaan;
 
-- 5°. benzol of zijn homologen
+- 1°. lood of loodhoudende stoffen,
 
-- 6°. nitro- en amidoverbindingen van benzol of zijn homologen
+- 2°. kwik of kwikhoudende stoffen,
 
-- 7°. halogeenderivaten van koolwaterstoffen
+- 3°. fosfor of zijn verbindingen,
 
-- 8°. chroom verbindingen
+- 4°. arsenicum of zijn verbindingen,
 
-- 9°. mangaan verbindingen
+- 5°. benzol of zijn homologen,
 
-- 10°. nicotine of nicotinehoudende stoffen
+- 6°. nitro- en amidoverbindingen van benzol of zijn homologen,
 
-- 11°. cement
+- 7°. halogeenderivaten van koolwaterstoffen,
 
-- 12°. kunstmeststoffen en middelen tot bestrijding van de verwekkers van plantenziekten, van onkruiden en van schadelijk gedierte
+- 8°. chroomverbindingen,
 
-- 13°. kininestof
+- 9°. mangaanverbindingen,
 
-- b. huidaandoeningen door teer, bitumen, roet, pek, mineraal-oliën, paraffine of door verbindingen, producten of overblijfsels van die stoffen, wanneer deze zich openbaren bij arbeiders van een werkgever, die werkzaamheden doet verrichten, waarbij met genoemde stoffen of met verbindingen, producten of overblijfsels van die stoffen wordt omgegaan;
+- 10°. nicotine of nicotinehoudende stoffen,
 
-- c. bakkerseczeem, wanneer dit zich openbaart bij arbeiders van een werkgever, die werkzaamheden doet verrichten tot vervaardiging van bakkerijen banketbakkerij-producten of -grondstoffen of puddingpoeder;
+- 11°. cement,
 
-- d. aandoeningen door koolmonoxyde of kooldioxyde, wanneer deze zich openbaren bij arbeiders van een werkgever, die werkzaamheden doet verrichten, waarbij zich koolmonoxyde of kooldioxyde in schadelijke hoeveelheden kan ontwikkelen;
+- 12°. kunstmeststoffen en middelen tot bestrijding van de verwekkers van plantenziekten, van onkruiden en van schadelijk gedierte, of
 
-- e. pathologische aandoeningen door radium en andere radio-actieve stoffen of x-stralen, wanneer deze zich openbaren bij arbeiders van een werk gever, die werkzaamheden doet verrichten waarbij arbeiders aan de werking van radium, andere radio-actieve stoffen of x-stralen zijn of kunnen zijn blootgesteld;
+- 13°. kininestof,
 
-- f. miltvuur, trichophytie, sarcoptesschurft en ziekte van Bang, wanneer dit zich openbaart bij arbeiders van een werkgever, die werkzaamheden doet verrichten, waarbij wordt omgegaan met aan miltvuur, trichophytie, sarcoptesschurft of aan de besmettelijke abortus Bang lijdende dieren of met van die dieren afkomstige delen of met goederen besmet door die dieren of delen van die dieren;
+- b. huidaandoeningen door teer, bitumen, roet, pek, mineraaloliën, paraffine of door verbindingen, producten of overblijfsels van die stoffen, indien deze zich openbaren bij werknemers, die werkzaamheden verrichten, waarbij met genoemde stoffen of met verbindingen, producten of overblijfsels van die stoffen wordt omgegaan;
 
-- g. mijnwormziekte, wanneer deze zich openbaart bij arbeiders van een werkgever die werkzaamheden doet verrichten in mijnen of in steenfabrieken;
+- c. bakkerseczeem, indien dit zich openbaart bij werknemers, die werkzaamheden verrichten tot vervaardiging van bakkerij- en banketbakkerijproducten of grondstoffen of puddingpoeder;
 
-- h. silicose en asbestose, beide met of zonder longtuberculose, voorzover die silicose of asbestose oorzaak is van de ongeschiktheid tot werken of van de dood, wanneer zij zich openbaart bij arbeiders van een werkgever, die werkzaamheden doet verrichten, waarbij de arbeiders aan de schadelijke inwerking van kwarts (siliciumdioxyde) houdende stof of van asbeststof zijn blootgesteld;
+- d. aandoeningen door koolmonoxide of kooldioxide, indien deze zich openbaren bij arbeiders van een werkgever, die werkzaamheden doet verrichten, waarbij zich koolmonoxide of kooldioxide in schadelijke hoeveelheden kan ontwikkelen;
 
-- i. tuberculose, wanneer deze zich openbaart bij arbeiders van een werkgever, die werkzaamheden doet verrichten, verbonden aan:
+- e. pathologische aandoeningen door radium en andere radio-actieve stoffen of x-stralen, indien deze zich openbaren bij werknemers, die werkzaamheden verrichten waarbij deze werknemers aan de werking van radium, andere radio-actieve stoffen of x-stralen zijn of kunnen zijn blootgesteld;
 
-- 1°. wijkverpleging
+- f. miltvuur, trichophytie, sarcoptesschurft en ziekte van Bang, indien dit zich openbaart bij arbeiders van een werkgever, die werkzaamheden doet verrichten, waarbij wordt omgegaan met aan miltvuur, trichophytie, sarcoptesschurft of aan de besmettelijke abortus Bang lijdende dieren of met van die dieren afkomstige delen of met goederen besmet door die dieren of delen van die dieren;
 
-- 2°. houden en exploiteren van ziekenhuizen
+- g. mijnwormziekte, indien deze zich openbaart bij werknemers, die werkzaamheden doet verrichten in mijnen of in steenfabrieken;
 
-- 3°. nazorg inrichtingen
+- h. silicose en asbestose, beide met of zonder longtuberculose, voor zover die silicose of asbestose oorzaak is van de ongeschiktheid tot werken of van de dood, indien deze zich openbaart bij werknemers, die werkzaamheden verrichten, waarbij de werknemer aan de schadelijke inwerking van kwarts (siliciumdioxyde) houdende stof of van asbeststof wordt blootgesteld;
 
-- 4°. klinieken en poliklinieken
+- i. tuberculose, indien deze zich openbaart bij werknemers, die werkzaamheden verrichten, verbonden aan:
 
-- 5°. medische consultatie- en keuringsbureaus
+- 1°. wijkverpleging,
 
-- 6°. verpleeginrichtingen
+- 2°. het houden en exploiteren van ziekenhuizen,
 
-- 7°. bacteriologische laboratoria;
+- 3°. nazorg inrichtingen,
 
-- j. caissonziekte, wanneer deze zich openbaart bij arbeiders na het verrichten van werkzaamheden onder grotere dan de atmosferische luchtdruk.
+- 4°. klinieken en poliklinieken,
 
-2. Indien een ziekte als bedoeld in het voorgaande lid eerst na beëindiging van de dienstbetrekking zich bij de arbeider openbaart wordt zij, tenzij het tegendeel blijkt, geacht verband te houden met die dienstbetrekking, indien de vroegere werkgever van die arbeider ten tijde van het bestaan van diens dienstbetrekking werkzaamheden deed verrichten als bij die ziekte is aangegeven en mits die ziekte zich heeft geopenbaard:
+- 5°. medische consultatie- en keuringsbureaus,
 
-- a. voor wat de ziekten betreft vermeld in het voorgaande lid onder a 1° tot en met 12°, onder b, d, e en h binnen 12 maanden;
+- 6°. verpleeginrichtingen, of
 
-- b. voor wat de ziekten betreft vermeld in het voorgaande lid onder a 13°, c en g binnen 6 maanden;
+- 7°. bacteriologische laboratoria; en
 
-- c. voor wat de ziekten betreft vermeld in het voor gaande lid onder f en i binnen 3 maanden.
+- j. caissonziekte, indien deze zich openbaart bij werknemers na het verrichten van werkzaamheden onder grotere dan de atmosferische luchtdruk.
 
-##### Artikel 2
+2. Indien een ziekte als bedoeld in het eerste lid zich na de beëindiging van de dienstbetrekking bij de werknemer openbaart, wordt deze ziekte, tenzij het tegendeel blijkt, geacht verband te houden met die dienstbetrekking, indien de vroegere werkgever van de werknemer tijdens diens dienstbetrekking werkzaamheden deed verrichten als in het eerste lid bij die ziekte is aangegeven en mits die ziekte zich heeft geopenbaard:
 
-Als ongeval in de zin van de Landsverordening Ongevallenverzekering (P.B. 1966, no. 14) worden aangemerkt de volgende lichamelijke letsels:
+- a. voor wat betreft de ziekten, bedoeld in het eerste lid, onderdelen a, onder 1° tot en met 12°, b, d, e en h: binnen twaalf maanden;
 
-- a. peesschede ontsteking;
+- b. voor wat betreft de ziekten, bedoeld in het eerste lid, onderdelen a, onder 13°, c en g: binnen zes maanden;
 
-- b. hitteberoerte;
-
-- c. warmte- en koubevanging;
-
-- d. zonnesteek;
-
-- e. blaar;
-
-- f. andere soortgelijke lichamelijke letsels.
+- c. voor wat betreft de ziekten, bedoeld in het eerste lid, onderdelen f en i: binnen drie maanden.
 
 ##### Artikel 3
 
-Dit landsbesluit dat kan worden aangehaald als «Landsbesluit Beroepsziekten», treedt in werking met ingang van 1 januari 1967.
+Vervallen
 
 ##### Artikel 4. Lichamelijke letsels, die aangemerkt worden als ongeval
 
