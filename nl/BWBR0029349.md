@@ -4,7 +4,7 @@ identifier: "BWBR0029349"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-04-01"
-last_updated: "2010-10-10"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029349"
 soort: "ministeriele-regeling"
@@ -57,8 +57,6 @@ Wijzigt de Uitvoeringsregeling inkomstenbelasting 2001.
 
 Wijzigt de Uitvoeringsregeling willekeurige afschrijving 2001.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III
 
 Wijzigt de Uitvoeringsregeling loonbelasting 2001.
@@ -67,73 +65,49 @@ Wijzigt de Uitvoeringsregeling loonbelasting 2001.
 
 Wijzigt de Uitvoeringsregeling loonbelasting 2011.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel V
 
 Wijzigt de Uitvoeringsregeling afdrachtvermindering.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI
 
 Wijzigt de Uitvoeringsbeschikking vennootschapsbelasting 1971.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VII
 
 Wijzigt de Regeling functionele valuta.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIII
 
 Wijzigt de Uitvoeringsbeschikking dividendbelasting 1965.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IX
 
 Wijzigt de Uitvoeringsregeling schenk- en erfbelasting.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel X
 
 Wijzigt de Uitvoeringsbeschikking Registratiewet 1970.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XI
 
 Wijzigt de Uitvoeringsbeschikking omzetbelasting 1968.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XII
 
 Wijzigt de Uitvoeringsregeling belasting van personenauto's en motorrijwielen 1992.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIII
 
 Wijzigt de Uitvoeringsregeling motorrijtuigenbelasting 1994.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIV
 
 Wijzigt de Uitvoeringsregeling belasting zware motorrijtuigen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XV
 
 Wijzigt de Algemene douaneregeling.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVI
 
@@ -145,31 +119,21 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Uitvoeringsregeling accijns.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVIII
 
 Wijzigt de Uitvoeringsregeling belastingen op milieugrondslag.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIX
 
 Wijzigt de Uitvoeringsregeling verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XX
 
 Wijzigt de Regeling vrijstelling overdrachtsbelasting stedelijke herstructurering.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXI
 
 Wijzigt de Regeling vrijstelling overdrachtsbelasting voor investeringen in stedelijke herstructurering.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXII
 
@@ -177,25 +141,19 @@ Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
 
 ##### Artikel XXIII
 
-Dit onderdeel is nog niet inwerking getreden
+Op subsidieaanvragen die zijn ingediend onder toepassing van het [Besluit borgstelling MKB-kredieten 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0009052) blijft [artikel 43c, eerste lid, onderdeel d, onder 1°, van de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&artikel=43c), zoals dat luidde op 31 december 2008, van toepassing.
 
 ##### Artikel XXIV
 
 Wijzigt de Uitvoeringsregeling Belastingdienst 2003.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXV
 
 Wijzigt de Uitvoeringsregeling Invorderingswet 1990.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXVI
 
 Wijzigt de Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXVII
 
@@ -211,64 +169,66 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Uitvoeringsregeling investeringsaftrek Aruba, Curaçao, Sint Maarten en de BES eilanden 2010.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXX
 
 Wijzigt de Regeling groenprojecten buitenland 2002.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXI
 
 Wijzigt de Aanwijzing als werkgever en uitzondering verzekeringsplicht werknemersverzekeringen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXII
 
 Wijzigt de Regeling Wfsv.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXIII
 
 Wijzigt de Kaderregeling subsidies duurzaamheid verkeer en waterstaat.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXIV
 
 Wijzigt de Tijdelijke subsidieregeling innovatie binnenvaart.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXV
 
 Wijzigt de Tijdelijke subsidieregeling maritieme innovatie.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXVI
 
 Wijzigt de Tijdelijke subsidieregeling Wereldwijd Werken met Water.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXVII
 
 Wijzigt de Levensloopregeling rijkspersoneel.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXVIII
 
 Wijzigt de IKAP-regeling rijkspersoneel.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXIX
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze regeling treedt in werking met ingang van 1 januari 2011, met dien verstande dat:
+
+- a. de [artikelen I, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=I&z=2011-01-01&g=2011-01-01), en [XXII, onderdeel G, onder 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=XXII&z=2011-01-01&g=2011-01-01), terugwerken tot en met 1 januari 2009;
+
+- b. [artikel I, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=I&z=2011-01-01&g=2011-01-01), terugwerkt tot en met 1 januari 2010;
+
+- c. [artikel I, onderdeel H, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=I&z=2011-01-01&g=2011-01-01), terugwerkt tot en met 30 maart 2010;
+
+- d. de [artikelen I, onderdelen F, K en O](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=I&z=2011-01-01&g=2011-01-01), [III, onderdelen A en C](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=III&z=2011-01-01&g=2011-01-01), [XXII, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=XXII&z=2011-01-01&g=2011-01-01), en [XXVII, terugwerken tot en met 10 oktober 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=XXVII&z=2011-01-01&g=2011-01-01);
+
+- e. [artikel III, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=III&z=2011-01-01&g=2011-01-01), terugwerkt tot en met 31 december 2010;
+
+- f. [artikel XXVI, onderdelen A, B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=XXVI&z=2011-01-01&g=2011-01-01), voor het eerst toepassing vindt met betrekking tot beschikkingen waarvan de dagtekening ligt na 31 december 2010;
+
+- g. [artikel IV, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=IV&z=2011-01-01&g=2011-01-01), voor het eerst toepassing vindt met betrekking tot uitkeringen die op of na 1 januari 2011 zijn ingegaan.
+
+2. In afwijking van het eerste lid treden de [artikelen XV, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=XV&z=2011-01-01&g=2011-01-01), [XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=XVI&z=2011-01-01&g=2011-01-01) en [XVII, onderdeel R](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=XVII&z=2011-01-01&g=2011-01-01), in werking met ingang van 1 maart 2011.
+
+3. In afwijking van het eerste lid treedt [artikel XXVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=XXVIII&z=2011-01-01&g=2011-01-01) in werking met ingang van 1 april 2011.
+
+4. In afwijking van het eerste lid treedt [artikel XI, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=XI&z=2011-01-01&g=2011-01-01), in werking met ingang van 1 april 2012.
+
+5. In afwijking van het eerste lid treedt [artikel XVII, onderdelen A en Q](https://wetten.overheid.nl/jci1.3:c:BWBR0029349&artikel=XVII&z=2011-01-01&g=2011-01-01), in werking op hetzelfde tijdstip als waarop [artikel XIV, onderdeel B, van Overige fiscale maatregelen 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029342&artikel=XIV) in werking treedt.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
