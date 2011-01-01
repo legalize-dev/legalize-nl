@@ -4,7 +4,7 @@ identifier: "BWBR0013604"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2022-05-26"
-last_updated: "2010-10-10"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013604"
 soort: "rijksKB"
@@ -56,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 - b. verzoeker: vreemdeling die op grond van de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738) verzoekt om verlening van het Nederlanderschap;
 
-- c. de naturalisatietoets: de toets, genoemd in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=2&z=2010-10-10&g=2010-10-10);
+- c. de naturalisatietoets: de toets, genoemd in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=2&z=2011-01-01&g=2011-01-01);
 
 - d. openbaar lichaam: de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
@@ -86,7 +86,7 @@ In dit besluit wordt verstaan onder:
 
 - a. hij valt onder de [Wet van 9 september 1976 (Stb. 1976, 468) betreffende de positie van Molukkers](https://wetten.overheid.nl/jci1.3:c:BWBR0003052);
 
-- b. hij, na onderwijs te hebben gevolgd in de Nederlandse taal, dan wel – indien de verzoeker in een openbaar lichaam, Aruba, Curaçao of Sint Maarten hoofdverblijf heeft – in de taal die op het eiland van hoofdverblijf naast het Nederlands gangbaar is, in het bezit is gesteld van een op wettelijke basis uitgereikt diploma of getuigschrift van afronding van een opleiding van wetenschappelijk onderwijs, hoger onderwijs, algemeen voortgezet onderwijs, beroepsonderwijs of leerlingwezen;
+- b. hij, na onderwijs te hebben gevolgd in de Nederlandse taal, dan wel – indien de verzoeker in een openbaar lichaam, Aruba, Curaçao of Sint Maarten hoofdverblijf heeft – in de taal die op het eiland van hoofdverblijf naast het Nederlands gangbaar is, in het bezit is gesteld van een op wettelijke basis uitgereikt diploma of getuigschrift van afronding van een opleiding van wetenschappelijk onderwijs, hoger onderwijs, algemeen voortgezet onderwijs, beroepsonderwijs of leerlingwezen. De verzoeker, bedoeld in de voorgaande zin, die in de taal die op het eiland van hoofdverblijf naast het Nederlands gangbaar is onderwijs heeft gevolgd, toont tevens aan dat hij in een vak Nederlandse taal is onderwezen en voor dat vak een voldoende heeft behaald;
 
 - c. hij in het bezit is van een diploma staatsexamen Nederlands als Tweede taal, programma I dan wel programma II als bedoeld in [artikel 7.3.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1);
 
