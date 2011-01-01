@@ -4,7 +4,7 @@ identifier: "BWBR0027093"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-27"
-last_updated: "2010-01-22"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027093"
 soort: "ministeriele-regeling"
@@ -50,37 +50,37 @@ De indexering van de onkostenvergoeding wordt met terugwerkende kracht tot en me
 
 ##### Artikel 3
 
-1. Het bedrag van de onkostenvergoeding voor het jaar 2003 wordt met 2,25% verhoogd en vastgesteld op het in bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&bijlage=1&z=2010-01-22&g=2010-01-22) genoemd bedrag.
+1. Het bedrag van de onkostenvergoeding voor het jaar 2003 wordt met 2,25% verhoogd en vastgesteld op het in bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&bijlage=1&z=2010-01-22&g=2011-01-01) genoemd bedrag.
 
-2. Het bedrag van de onkostenvergoeding voor het jaar 2004 wordt met 1,25% verhoogd en vastgesteld op het in bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&bijlage=2&z=2010-01-22&g=2010-01-22) genoemd bedrag.
+2. Het bedrag van de onkostenvergoeding voor het jaar 2004 wordt met 1,25% verhoogd en vastgesteld op het in bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&bijlage=2&z=2010-01-22&g=2011-01-01) genoemd bedrag.
 
-3. Het bedrag van de onkostenvergoeding voor het jaar 2005 wordt met 0,75% verhoogd en vastgesteld op het in bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&bijlage=3&z=2010-01-22&g=2010-01-22) genoemd bedrag
+3. Het bedrag van de onkostenvergoeding voor het jaar 2005 wordt met 0,75% verhoogd en vastgesteld op het in bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&bijlage=3&z=2010-01-22&g=2011-01-01) genoemd bedrag
 
-4. Het bedrag van de onkostenvergoeding voor het jaar 2006 wordt met 1,25% verhoogd en vastgesteld op het in bij deze regeling behorende [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&bijlage=4&z=2010-01-22&g=2010-01-22) genoemd bedrag.
+4. Het bedrag van de onkostenvergoeding voor het jaar 2006 wordt met 1,25% verhoogd en vastgesteld op het in bij deze regeling behorende [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&bijlage=4&z=2010-01-22&g=2011-01-01) genoemd bedrag.
 
-5. Het bedrag van de onkostenvergoeding voor het jaar 2007 wordt met 1,25% verhoogd en vastgesteld op het in bij deze regeling behorende [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&bijlage=5&z=2010-01-22&g=2010-01-22) genoemd bedrag.
+5. Het bedrag van de onkostenvergoeding voor het jaar 2007 wordt met 1,25% verhoogd en vastgesteld op het in bij deze regeling behorende [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&bijlage=5&z=2010-01-22&g=2011-01-01) genoemd bedrag.
 
-6. Het bedrag van de onkostenvergoeding voor het jaar 2008 wordt met 2,50% verhoogd en vastgesteld op het in bij deze regeling behorende [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&bijlage=6&z=2010-01-22&g=2010-01-22) genoemd bedrag.
+6. Het bedrag van de onkostenvergoeding voor het jaar 2008 wordt met 2,50% verhoogd en vastgesteld op het in bij deze regeling behorende [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&bijlage=6&z=2010-01-22&g=2011-01-01) genoemd bedrag.
 
-7. Het bedrag van de onkostenvergoeding voor het jaar 2009 wordt met 2,20% verhoogd en vastgesteld op het in bij deze regeling behorende [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&bijlage=7&z=2010-01-22&g=2010-01-22) genoemd bedrag.
+7. Het bedrag van de onkostenvergoeding voor het jaar 2009 wordt met 2,20% verhoogd en vastgesteld op het in bij deze regeling behorende [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&bijlage=7&z=2010-01-22&g=2011-01-01) genoemd bedrag.
 
 ##### Artikel 4
 
 De artikelen in deze regeling treden in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat:
 
-- a. [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&artikel=3&z=2010-01-22&g=2010-01-22), terugwerkt tot en met 1 januari 2003;
+- a. [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&artikel=3&z=2010-01-22&g=2011-01-01), terugwerkt tot en met 1 januari 2003;
 
-- b. [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&artikel=3&z=2010-01-22&g=2010-01-22), terugwerkt tot en met 1 januari 2004;
+- b. [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&artikel=3&z=2010-01-22&g=2011-01-01), terugwerkt tot en met 1 januari 2004;
 
-- c. [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&artikel=3&z=2010-01-22&g=2010-01-22), terugwerkt tot en met 1 januari 2005;
+- c. [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&artikel=3&z=2010-01-22&g=2011-01-01), terugwerkt tot en met 1 januari 2005;
 
-- d. [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&artikel=3&z=2010-01-22&g=2010-01-22), terugwerkt tot en met 1 januari 2006;
+- d. [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&artikel=3&z=2010-01-22&g=2011-01-01), terugwerkt tot en met 1 januari 2006;
 
-- e. [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&artikel=3&z=2010-01-22&g=2010-01-22), terugwerkt tot en met 1 januari 2007;
+- e. [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&artikel=3&z=2010-01-22&g=2011-01-01), terugwerkt tot en met 1 januari 2007;
 
-- f. [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&artikel=3&z=2010-01-22&g=2010-01-22), terugwerkt tot en met 1 januari 2008;
+- f. [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&artikel=3&z=2010-01-22&g=2011-01-01), terugwerkt tot en met 1 januari 2008;
 
-- g. [artikel 3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&artikel=3&z=2010-01-22&g=2010-01-22), terugwerkt tot en met 1 januari 2009.
+- g. [artikel 3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&artikel=3&z=2010-01-22&g=2011-01-01), terugwerkt tot en met 1 januari 2009.
 
 ##### Artikel 5
 
