@@ -4,7 +4,7 @@ identifier: "BWBR0011354"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2010-10-10"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011354"
 soort: "wet"
@@ -348,7 +348,7 @@ U. Aangewezen periodieke uitkeringen en verstrekkingen. Uitkeringen ingevolge [a
 
 - a. onder onderhoudsverplichtingen die op grond van afdeling 6.2 in aanmerking zijn genomen mede begrepen periodieke uitkeringen en verstrekkingen die op grond van artikel 45, eerste lid, onderdelen c, d of e, van de Wet op de inkomstenbelasting 1964 en afkoopsommen die op grond van onderdeel h van dat artikel in aanmerking zijn genomen;
 
-- b. onder verliezen die op grond van afdeling 6.3 in aanmerking zijn genomen mede begrepen verliezen die op grond van artikel 45, eerste lid, onderdeel i, van de Wet op de inkomstenbelasting 1964 in aanmerking zijn genomen;
+- b. vervallen;
 
 - c. onder uitgaven voor monumentenpanden die op grond van afdeling 6.8 in aanmerking zijn genomen mede begrepen kosten, lasten en afschrijvingen die op grond van artikel 35 of artikel 42a, zevende lid, van de Wet op de inkomstenbelasting 1964 in aanmerking zijn genomen.
 
@@ -548,17 +548,15 @@ AKb. Aanvang termijn bestaande schulden eigen woning. De termijn van op 31 decem
 
 - 1. Tot de bezittingen, bedoeld in [artikel 5.3, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3) behoren niet rechten op kapitaalsuitkeringen uit op 14 september 1999 bestaande levensverzekeringen tot een gezamenlijk bedrag van maximaal € 123 428.
 
-- 2. Voor een belastingplichtige met een partner in de zin van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) wordt op gezamenlijk verzoek van de belastingplichtige en zijn partner het maximale bedrag van de vrijstelling van de belastingplichtige ingevolge het eerste lid verhoogd met het bedrag van de vrijstelling van de partner ingevolge het eerste lid en wordt de vrijstelling van de partner verminderd tot nihil. Het verzoek wordt gedaan bij de aangifte van de belastingplichtige. Op het verzoek kan niet worden teruggekomen.
+- 2. Indien de belastingplichtige het gehele kalenderjaar dezelfde partner in de zin van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) heeft of voor de toepassing van [artikel 2.17 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.17) geacht wordt te hebben gehad, wordt het in het eerste lid genoemde bedrag voor de belastingplichtige en zijn partner gezamenlijk op € 246 856 gesteld.
 
-- 3. Het tweede lid is uitsluitend van toepassing indien de belastingplichtige het gehele kalenderjaar dezelfde partner heeft of voor de toepassing van [artikel 2.17 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.17) geacht wordt te hebben gehad.
-
-- 4. Het eerste lid is alleen van toepassing indien na 13 september 1999:
+- 3. Het eerste lid is alleen van toepassing indien na 13 september 1999:
 
 - a. het verzekerd kapitaal niet is verhoogd en
 
 - b. de looptijd van de levensverzekering niet is verlengd.
 
-- 5. Het eerste lid is met ingang van 14 september 2029 niet meer van toepassing.
+- 4. Het eerste lid is met ingang van 14 september 2029 niet meer van toepassing.
 
 - 1. Indien ingevolge onderdeel AM, tweede lid, een op 31 december 1991 bestaande levensverzekering waarbij een kapitaal is verzekerd als bedoeld in onderdeel AL, eerste lid, tweede volzin, aanhef en onderdeel c, en waarvan het verzekerde kapitaal nadien niet is verhoogd wordt aangemerkt als kapitaalverzekering eigen woning, wordt bij de gerechtigde tot de uitkering het op grond van [artikel 3.118 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.118) bepaalde bedrag verhoogd met de waarde in het economische verkeer van de verzekering op het moment dat deze als kapitaalverzekering eigen woning wordt aangemerkt.
 
@@ -768,9 +766,9 @@ Voor de plaatsing in het Staatsblad brengt Onze Minister van Financiën de in de
 
 ##### Artikel II. Inwerkingtreding
 
-1. Deze wet en de [Wet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) treden in werking met ingang van 1 januari 2001 met uitzondering van [Hoofdstuk 2, artikel I, onderdeel AF, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2011-01-01&g=2010-10-10), dat in werking treedt op 31 december 2000.
+1. Deze wet en de [Wet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) treden in werking met ingang van 1 januari 2001 met uitzondering van [Hoofdstuk 2, artikel I, onderdeel AF, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2012-01-01&g=2011-01-01), dat in werking treedt op 31 december 2000.
 
-2. In afwijking van het eerste lid, treedt [hoofdstuk 2, artikel 1, onderdelen Dc en Dd](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2011-01-01&g=2010-10-10), in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht kan hebben tot 1 januari 2001.
+2. In afwijking van het eerste lid, treedt [hoofdstuk 2, artikel 1, onderdelen Dc en Dd](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2012-01-01&g=2011-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht kan hebben tot 1 januari 2001.
 
 3. Deze wet wordt aangehaald als: Invoeringswet Wet inkomstenbelasting 2001.
 
