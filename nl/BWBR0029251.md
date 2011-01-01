@@ -4,7 +4,7 @@ identifier: "BWBR0029251"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-03-30"
-last_updated: "2010-12-25"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029251"
 soort: "ministeriele-regeling"
@@ -74,23 +74,23 @@ Het dagelijks bestuur van een medeoverheid zendt de informatie, bedoeld in [arti
 
 ##### Artikel 3
 
-De rapportage, bedoeld in [artikel 5, vierde lid, van het Besluit accountantscontrole decentrale overheden](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&artikel=5), wordt ingericht overeenkomstig de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&bijlage=1&z=2010-12-25&g=2010-12-25).
+De rapportage, bedoeld in [artikel 5, vierde lid, van het Besluit accountantscontrole decentrale overheden](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&artikel=5), wordt ingericht overeenkomstig de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&bijlage=1&z=2010-12-25&g=2011-01-01).
 
 ##### Artikel 4
 
-De in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=2&z=2010-12-25&g=2010-12-25) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=3&z=2010-12-25&g=2010-12-25) bedoelde informatie wordt elektronisch aangeleverd, overeenkomstig de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&bijlage=2&z=2010-12-25&g=2010-12-25).
+De in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=2&z=2010-12-25&g=2011-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=3&z=2010-12-25&g=2011-01-01) bedoelde informatie wordt elektronisch aangeleverd, overeenkomstig de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&bijlage=2&z=2010-12-25&g=2011-01-01).
 
 #### § 3. Mededeling vanwege de minister
 
 ##### Artikel 5
 
-De minister deelt aan het dagelijks bestuur van de desbetreffende medeoverheid mede of de verstrekte informatie naar zijn oordeel voldoet aan de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=2&z=2010-12-25&g=2010-12-25).
+De minister deelt aan het dagelijks bestuur van de desbetreffende medeoverheid mede of de verstrekte informatie naar zijn oordeel voldoet aan de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=2&z=2010-12-25&g=2011-01-01).
 
 #### § 4. Herziening
 
 ##### Artikel 6
 
-Indien het dagelijks bestuur van een medeoverheid de informatie herziet na de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=3&artikel=5&z=2010-12-25&g=2010-12-25) bedoelde mededeling dat de verstrekte informatie naar het oordeel van de minister voldoet aan de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=2&z=2010-12-25&g=2010-12-25), verstrekt het bij de herziening opnieuw de informatie overeenkomstig de artikelen 2 tot en met 4, met dien verstande dat in de aanbiedingsbrief wordt vermeld waarom de informatie is herzien en welke wijzigingen zijn aangebracht op de eerder verstrekte informatie.
+Indien het dagelijks bestuur van een medeoverheid de informatie herziet na de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=3&artikel=5&z=2010-12-25&g=2011-01-01) bedoelde mededeling dat de verstrekte informatie naar het oordeel van de minister voldoet aan de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=2&z=2010-12-25&g=2011-01-01), verstrekt het bij de herziening opnieuw de informatie overeenkomstig de artikelen 2 tot en met 4, met dien verstande dat in de aanbiedingsbrief wordt vermeld waarom de informatie is herzien en welke wijzigingen zijn aangebracht op de eerder verstrekte informatie.
 
 #### § 5. Slotbepalingen
 
