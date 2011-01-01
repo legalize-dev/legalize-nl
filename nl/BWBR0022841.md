@@ -4,7 +4,7 @@ identifier: "BWBR0022841"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2010-07-29"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022841"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 - h. netwerk palliatieve zorg: netwerk ten behoeve van de versterking van de onderlinge samenwerking tussen de bij de palliatieve terminale zorg betrokken organisaties en personen;
 
-- i. netwerkregio: de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2010-07-29&g=2010-07-29) bij de desbetreffende instelling genoemde gemeenten;
+- i. netwerkregio: de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2011-01-01&g=2011-01-01) bij de desbetreffende instelling genoemde gemeenten;
 
 - j. betaalde coördinatie: coördinatie van de inzet van vrijwilligers die palliatieve terminale zorg in de thuissituatie verlenen, door een persoon in dienstverband met de instelling.
 
@@ -130,9 +130,9 @@ De Minister kan jaarlijks op aanvraag een instellingssubsidie verstrekken voor h
 
 1. De instellingssubsidie wordt berekend door:
 
-- a. € 12.100.000 zodanig te verdelen onder de instellingen waaraan de instellingssubsidie wordt verstrekt dat elke instelling per cliënt hetzelfde percentage van het desbetreffende maximumbedrag, genoemd in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.1&artikel=6&z=2010-07-29&g=2010-07-29), voor de exploitatiecomponent ontvangt;
+- a. € 12.100.000 zodanig te verdelen onder de instellingen waaraan de instellingssubsidie wordt verstrekt dat elke instelling per cliënt hetzelfde percentage van het desbetreffende maximumbedrag, genoemd in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.1&artikel=6&z=2011-01-01&g=2011-01-01), voor de exploitatiecomponent ontvangt;
 
-- b. € 2.000.000 zodanig te verdelen onder de instellingen waaraan de instellingssubsidie wordt verstrekt dat elke instelling per cliënt hetzelfde percentage van het desbetreffende maximumbedrag, genoemd in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.1&artikel=6&z=2010-07-29&g=2010-07-29), voor de huisvestingscomponent ontvangt;
+- b. € 2.000.000 zodanig te verdelen onder de instellingen waaraan de instellingssubsidie wordt verstrekt dat elke instelling per cliënt hetzelfde percentage van het desbetreffende maximumbedrag, genoemd in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.1&artikel=6&z=2011-01-01&g=2011-01-01), voor de huisvestingscomponent ontvangt;
 
 2. Bij de berekening van de instellingssubsidie wordt het aantal cliënten van de instelling bepaald door het gemiddeld aantal cliënten per jaar in de referentieperiode.
 
@@ -174,7 +174,7 @@ Vervallen
 
 ##### Artikel 15
 
-1. De aanvraag vermeldt het totaal aantal personen waaraan in de referentieperiode door de instelling palliatieve terminale zorg thuis, palliatieve terminale zorg in een bijna-thuis-huis of palliatieve terminale zorg in een high care hospice is verleend. Een verzoek tot verhoging van het in de aanvraag vermelde aantal personen dat na afloop van de termijn, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=14&z=2010-07-29&g=2010-07-29), wordt ontvangen, blijft buiten behandeling.
+1. De aanvraag vermeldt het totaal aantal personen waaraan in de referentieperiode door de instelling palliatieve terminale zorg thuis, palliatieve terminale zorg in een bijna-thuis-huis of palliatieve terminale zorg in een high care hospice is verleend. Een verzoek tot verhoging van het in de aanvraag vermelde aantal personen dat na afloop van de termijn, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=14&z=2011-01-01&g=2011-01-01), wordt ontvangen, blijft buiten behandeling.
 
 2. Voor de aanvraag wordt een door de Minister vastgesteld formulier gebruikt.
 
@@ -208,7 +208,7 @@ De ontvanger van een instellingssubsidie voor palliatieve terminale zorg voert e
 
 ##### Artikel 21
 
-De Minister kan jaarlijks aan een in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2010-07-29&g=2010-07-29) genoemde instelling op aanvraag een instellingssubsidie verstrekken voor de coördinatie van een netwerk palliatieve zorg.
+De Minister kan jaarlijks aan een in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2011-01-01&g=2011-01-01) genoemde instelling op aanvraag een instellingssubsidie verstrekken voor de coördinatie van een netwerk palliatieve zorg.
 
 ##### Artikel 22
 
@@ -218,9 +218,9 @@ Instellingssubsidies voor een netwerk palliatieve zorg van minder dan € 20.000
 
 1. De instellingssubsidie voor een netwerk palliatieve zorg bestaat uit een door de Minister te bepalen bedrag voor overeenkomstig een door de Minister goedgekeurd activiteitenplan uitgevoerde activiteiten.
 
-2. In afwijking van het eerste lid bestaat een instellingssubsidie als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=3&artikel=22&z=2010-07-29&g=2010-07-29) uit een bij de subsidievaststelling te bepalen bedrag voor overeenkomstig een door de Minister goedgekeurd activiteitenplan uit te voeren activiteiten.
+2. In afwijking van het eerste lid bestaat een instellingssubsidie als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=3&artikel=22&z=2011-01-01&g=2011-01-01) uit een bij de subsidievaststelling te bepalen bedrag voor overeenkomstig een door de Minister goedgekeurd activiteitenplan uit te voeren activiteiten.
 
-3. De instellingssubsidie bedraagt ten hoogste het in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2010-07-29&g=2010-07-29) bij de desbetreffende instelling en het desbetreffende jaar genoemde bedrag.
+3. De instellingssubsidie bedraagt ten hoogste het in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2011-01-01&g=2011-01-01) bij de desbetreffende instelling en het desbetreffende jaar genoemde bedrag.
 
 4. De Minister kan het bedrag van de instellingssubsidie voor een netwerk palliatieve zorg bijstellen in geval van een wijziging van de netwerkregio.
 
@@ -240,11 +240,11 @@ De [artikelen 33 tot en met 38](https://wetten.overheid.nl/jci1.3:c:BWBR0019947&
 
 ##### Artikel 27
 
-1. In afwijking van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=3&artikel=26&z=2010-07-29&g=2010-07-29) zijn de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0019947&artikel=34), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0019947&artikel=42), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0019947&artikel=43) en [44 van de Subsidieregeling VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019947&artikel=44) alsmede de [artikelen 4:64](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:64), [4:68](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:68), [4:70](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:70), [4:74 tot en met 4:80 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:74) niet van toepassing op een instellingssubsidie als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=3&artikel=22&z=2010-07-29&g=2010-07-29).
+1. In afwijking van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=3&artikel=26&z=2011-01-01&g=2011-01-01) zijn de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0019947&artikel=34), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0019947&artikel=42), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0019947&artikel=43) en [44 van de Subsidieregeling VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019947&artikel=44) alsmede de [artikelen 4:64](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:64), [4:68](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:68), [4:70](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:70), [4:74 tot en met 4:80 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:74) niet van toepassing op een instellingssubsidie als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=3&artikel=22&z=2011-01-01&g=2011-01-01).
 
-2. De Minister betaalt een instellingssubsidie als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=3&artikel=22&z=2010-07-29&g=2010-07-29) als volgt: in januari 8%, februari 8%, maart 8%, april 7%, mei 16%, juni 7%, juli 8%, augustus 8%, september 7%, oktober 8%, november 8% en december 7% van het voor het desbetreffende boekjaar verleende subsidiebedrag.
+2. De Minister betaalt een instellingssubsidie als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=3&artikel=22&z=2011-01-01&g=2011-01-01) als volgt: in januari 8%, februari 8%, maart 8%, april 7%, mei 16%, juni 7%, juli 8%, augustus 8%, september 7%, oktober 8%, november 8% en december 7% van het voor het desbetreffende boekjaar verleende subsidiebedrag.
 
-3. De ontvanger van een instellingssubsidie als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=3&artikel=22&z=2010-07-29&g=2010-07-29) legt na afloop van het boekjaar waarvoor instellingssubsidie was verstrekt, een verklaring over waaruit kan worden afgeleid dat de activiteiten waarvoor instellingssubsidie was verstrekt, zijn uitgevoerd.
+3. De ontvanger van een instellingssubsidie als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=3&artikel=22&z=2011-01-01&g=2011-01-01) legt na afloop van het boekjaar waarvoor instellingssubsidie was verstrekt, een verklaring over waaruit kan worden afgeleid dat de activiteiten waarvoor instellingssubsidie was verstrekt, zijn uitgevoerd.
 
 4. Voor de verklaring, bedoeld in het derde lid, wordt een door de Minister vastgesteld formulier gebruikt.
 
@@ -252,7 +252,7 @@ De [artikelen 33 tot en met 38](https://wetten.overheid.nl/jci1.3:c:BWBR0019947&
 
 De ontvanger van de instellingssubsidie voor een netwerk palliatieve zorg draagt er zorg voor dat:
 
-- a. de coördinatie alle gemeenten omvat, vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2010-07-29&g=2010-07-29) in de netwerkregio van de desbetreffende instelling;
+- a. de coördinatie alle gemeenten omvat, vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2011-01-01&g=2011-01-01) in de netwerkregio van de desbetreffende instelling;
 
 - b. aan een netwerk palliatieve zorg de instellingen en personen deelnemen die beroepsmatig betrokken zijn bij het verlenen van palliatieve zorg in de netwerkregio;
 
@@ -496,98 +496,81 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### Paragraaf 4. Overgangs- en slotbepalingen
 
-## Bijlage 1. : Instellingssubsidies Netwerken Palliatieve Zorg
+## Bijlage 1. : netwerken palliatieve zorg
 
-| Netwerk | Organisatie | Gemeenten in de netwerkregio | 2008 | 2009 | 2010 en volgende jaren |
-| --- | --- | --- | --- | --- | --- |
-| Almere | Stichting Zorggroep Almere | Almere | € 44.200 | € 36.527 | – |
-| Almere | Stichting Transmuraal Zorgnetwerk Almere | Almere | – | – | € 36.527 |
-| Amstelland & Meerlanden | Stichting Bureau Lindenhoek | Aalsmeer, Amstelveen, Haarlemmermeer, Ouder-Amstel, Uithoorn. | € 56.981 | € 56.981 | € 56.981 |
-| Amsterdam-Diemen | Stichting Palliatieve Zorg Amsterdam | Amsterdam, Diemen. | € 135.000 | € 153.900 | € 154.806 |
-| Arnhem | Stichting Netwerk Palliatieve Zorg regio Arnhem | Arnhem, Doesburg (voor ½), Lingewaard, Overbetuwe, Renkum (voor ½), Rheden en Rozendaal (Gld.) | € 59.996 | € 59.996 | € 59.996 |
-| De Liemers | Stichting Netwerk Palliatieve Zorg regio Arnhem | Duiven, Montferland (voor ½), Rijnwaarden, Westervoort en Zevenaar | € 19.250 | € 20.515 | € 20.515 |
-| Delft Westland Oostland | Reinier de Graaf Groep Transmuraal Zorgbureau | Delft, Lansingerland, Pijnacker-Nootdorp, Westland, Midden-Delfland (voor ¾). | € 60.184 | € 60.184 | € 60.184 |
-| Drechtzorg | Stichting Het Spectrum | Alblasserdam, Dordrecht, Hardinxveld-Giessendam, Hendrik-Ido-Ambacht, Nieuw-Lekkerland, Papendrecht, Ridderkerk, Sliedrecht, Zwijndrecht. | € 58.025 | € 66.149 | € 67.316 |
-| Drenthe / Assen | Stichting Thuiszorg Icare | Aa en Hunze, Assen, Noordenveld en Tynaarlo | € 30.915 | € 30.915 | € 30.915 |
-| Drenthe / Emmen | Stichting Thuiszorg Icare | Borger-Odoorn, Coevorden en Emmen | € 34.558 | € 34.558 | € 34.558 |
-| Drenthe / Hoogeveen | Stichting Thuiszorg Icare | De Wolden (voor 2/3), Hoogeveen en Midden-Drenthe | € 20.929 | € 20.929 | € 20.929 |
-| Drenthe / Meppel-Steenwijkerland | Stichting Thuiszorg Icare | De Wolden (voor 1/3), Meppel, Steenwijkerland en Westerveld | € 20.466 | € 20.466 | € 20.466 |
-| Eemland | Stichting Amant, wonen, zorg en dienstverlening | Amersfoort, Baarn, Barneveld (voor ¼), Bunschoten, Eemnes, Leusden, Nijkerk (voor ½), Soest en Woudenberg | € 59.883 | – | – |
-| Eemland | Stichting Beweging 3.0 | Amersfoort, Baarn, Barneveld (voor ¼), Bunschoten, Eemnes, Leusden, Nijkerk (voor ½), Soest en Woudenberg | – | € 59.883 | € 59.883 |
-| Enschede-Haaksbergen en Noordoost Twente | Livio, Zorg aan huis | Dinkelland, Enschede, Haaksbergen, Losser en Oldenzaal | € 52.247 | € 52.247 | € 52.247 |
-| Friesland Noordoost | Zorgkantoor Friesland | Ameland, Dantumadeel, Dongeradeel, Ferwerderadiel, Kollumerland c.a., Schiermonnikoog en Tytsjerksteradiel (voor 1/3) | € 16.459 | – | – |
-| Friesland Noordoost | FAB Dienstverlening B.V. | Ameland, Dantumadeel, Dongeradeel, Ferwerderadiel, Kollumerland c.a., Schiermonnikoog en Tytsjerksteradiel (voor 1/3) | – | € 16.459 | € 16.459 |
-| Friesland Noordwest | Zorgkantoor Friesland | Boarnsterhim, Franekeradeel, Harlingen, het Bildt, Leeuwarden, Leeuwarderadeel, Menaldumadeel, Terschelling, Tytsjerksteradiel (voor 1/3) en Vlieland | € 40.277 | – | – |
-| Friesland Noordwest | FAB Dienstverlening B.V. | Boarnsterhim, Franekeradeel, Harlingen, het Bildt, Leeuwarden, Leeuwarderadeel, Menaldumadeel, Terschelling, Tytsjerksteradiel (voor 1/3) en Vlieland | – | € 40.277 | € 40.277 |
-| Friesland Zuid | Zorgkantoor Friesland | Heerenveen, Lemsterland (voor ½), Skarsterlân (voor ½), Weststellingwerf. | € 17.871 | – | – |
-| Friesland Zuid | FAB Dienstverlening B.V. | Heerenveen, Lemsterland (voor ½), Skarsterlân (voor ½), Weststellingwerf | – | € 17.871 | € 17.871 |
-| Friesland Zuidoost | Zorgkantoor Friesland | Achtkarspelen, Ooststellingwerf, Opsterland, Smallingerland, Tytsjerksteradiel (voor 1/3) | € 30.219 | – | – |
-| Friesland Zuidoost | FAB Dienstverlening B.V. | Achtkarspelen, Ooststellingwerf, Opsterland, Smallingerland, Tytsjerksteradiel (voor 1/3) | – | € 30.219 | € 30.219 |
-| Friesland Zuidwest | Zorgkantoor Friesland | Bolsward, Gaasterlân-Sleat, Lemsterland (voor ½), Littenseradiel, Nijefurd, Skarsterlân (voor ½), Sneek, Wûnseradiel en Wymbritseradiel | € 24.832 | – | – |
-| Friesland Zuidwest | FAB Dienstverlening B.V. | Bolsward, Gaasterlân-Sleat, Lemsterland (voor ½), Littenseradiel, Nijefurd, Skarsterlân (voor ½), Sneek, Wûnseradiel en Wymbritseradiel | – | € 24.832 | € 24.832 |
-| Gelderse Vallei | Stichting Kruiswerk West-Veluwe | Barneveld (voor ¾), Ede, Renswoude, Renkum (voor ½), Rhenen, Scherpenzeel, Utrechtse Heuvelrug (voor 1/7), Veenendaal en Wageningen | € 54.825 | € 60.150 | € 60.150 |
-| Goeree Overflakkee en omliggende eilanden | Stichting palliatieve zorg te Dirksland | Dirksland, Goedereede, Middelharnis en Oostflakkee | € 12.000 | € 12.000 | € 12.000 |
-| Gooi en Vechtstreek | Stichting Ketenzorg en Innovatie | Blaricum, Bussum, Hilversum, Huizen, Laren, Muiden, Naarden, Weesp, Wijdemeren. | € 48.848 | € 48.848 | € 48.848 |
-| Gorinchem | Stichting Het Spectrum | Giessenlanden, Gorinchem, Graafstroom, Leerdam, Liesveld, Lingewaal (voor ½) en Zederik. | € 21.702 | € 21.702 | € 21.782 |
-| Groningen Centraal | FAB Dienstverlening B.V. | Groningen, Grootegast, Haren, Hoogezand-Sappemeer, Leek, Marum, Winsum (voor ½), Zuidhorn | € 60.908 | € 60.908 | € 60.908 |
-| Groningen Noord | FAB Dienstverlening B.V. | Appingedam, Bedum, De Marne, Delfzijl, Eemsmond, Loppersum, Slochteren, Ten Boer en Winsum (voor ½) | € 23.848 | € 23.848 | € 23.848 |
-| Groningen Oost | FAB Dienstverlening B.V. | Bellingwedde, Menterwolde, Pekela (voor ½), Reiderland, Scheemda, Veendam (voor ½) en Winschoten | € 16.631 | € 16.631 | € 16.631 |
-| Groningen Zuid | FAB Dienstverlening B.V. | Pekela (voor ½), Veendam (voor ½), Stadskanaal en Vlagtwedde | € 14.422 | € 14.422 | € 14.422 |
-| Haaglanden | Stichting Transmurale Zorg Den Haag en omstreken | Den Haag, Leischendam-Voorburg, Rijswijk, Wassenaar en Zoetermeer | € 148.884 | € 148.884 | € 148.884 |
-| Hardenberg en omgeving | Stichting Saxenburg Groep | Hardenberg, Ommen | € 15.226 | € 15.226 | € 15.226 |
-| ’s Hertogenbosch / Bommelerwaard | Stichting ROSE Noordoost Brabant | Boxtel, Haaren (voor ½), s-Hertogenbosch, Heusden (voor ½) Maasdriel, Schijndel, Sint-Michielsgestel, Vught en Zaltbommel. | € 74.037 | € 64.557 | € 64.557 |
-| Heuvelland | Stichting Groenekruis Domicura | Eijsden, Gulpen-Wittem, Maastricht, Margraten, Meerssen, Vaals en Valkenburg aan de Geul | € 41.577 | € 41.577 | € 41.577 |
-| Hoekse Waard | Stichting palliatieve zorg te Dirksland | Binnenmaas, Cromstrijen, Korendijk, Oud-Beijerland en Strijen | € 20.964 | € 17.288 | € 17.288 |
-| IJssel-Vecht | Stichting Regionaal Zorgnetwerk Zwolle en omgeving | Dalfsen (voor ½), Hattem, Kampen, Olst – Wijhe (voor 4/9), Raalte (voor 1/3), Staphorst, Zwartewaterland en Zwolle. | € 49.837 | € 49.837 | € 49.837 |
-| Kop van Noord-Holland | Stichting Zorg Ondersteuning Noord-Holland Noord | Anna Paulowna, Den Helder, Harenkarspel, Niedorp, Schagen, Texel, Wieringen, Wieringermeer en Zijpe. | € 33.465 | € 33.465 | € 33.465 |
-| Land van Cuyk & Noord Limburg | Stichting Pantein | Bergen (L.) (voor ½), Boxmeer, Cuijk, Gennep, Grave (voor ½), Mill en Sint Hubert, Mook en Middelaar (voor ½) en Sint Anthonis. | € 22.171 | € 22.171 | € 22.171 |
-| Midden-Brabant | Stichting Zorgnetwerk Midden-Brabant | Dongen (voor ½), Gilze en Rijen, Goirle, Haaren (voor 1/2), Heusden (voor 1/2) Hilvarenbeek, Loon op Zand, Oisterwijk, Tilburg en Waalwijk. | € 80.590 | € 80.590 | € 80.590 |
-| Midden- en Zuid-Kennemerland | Stichting Bureau Lindenhoek | Bennebroek, Beverwijk, Bloemendaal, Castricum, Haarlem, Haarlemmerliede c.a., Heemskerk, Heemstede, Uitgeest, Velsen en Zandvoort. | € 82.001 | € 82.001 | € 82.001 |
-| Midden-Holland | Stichting Transmuraal Netwerk Midden-Holland | Bergambacht, Bodegraven, Boskoop, Gouda, Krimpen aan den IJssel, Moordrecht, Nederlek, Nieuwerkerk aan den IJssel, Ouderkerk, Reeuwijk, Schoonhoven, Vlist, Waddinxveen, Woerden (voor 1/3) en Zevenhuizen-Moerkappelle | € 57.223 | € 57.223 | – |
-| Midden-Holland | Stichting Transmuraal Netwerk Midden-Holland | Bergambacht, Bodegraven, Boskoop, Gouda, Krimpen aan den IJssel (voor ½), Moordrecht, Nederlek, Nieuwerkerk aan den IJssel, Ouderkerk, Reeuwijk, Schoonhoven, Vlist, Waddinxveen, Woerden (voor 1/3) en Zevenhuizen-Moerkappelle | – | – | € 54.276 |
-| Midden-Twente | Stichting Carint Reggeland Groep | Borne, Hengelo (O) en Hof van Twente. | € 27.677 | € 27.677 | € 27.677 |
-| Nieuwe Waterweg Noord | Stichting Argos Zorggroep | Maassluis, Midden-Delfland (voor ¼), Schiedam en Vlaardingen | € 36.860 | € 36.417 | € 36.860 |
-| Noord- en Oost-Flevoland | MCC Flevoland | Dronten, Lelystad, Noordoostpolder, Urk en Zeewolde (voor 1/2). | € 37.077 | € 37.077 | € 37.077 |
-| Noord-Kennemerland | Stichting Zorg Ondersteuning Noord-Holland Noord | Alkmaar, Bergen (NH.), Graft-De Rijp, Heerhugowaard, Heiloo, Langedijk en Schermer. | € 47.435 | € 47.435 | € 47.435 |
-| Noord-Limburg | Stichting Viecuri, Medisch Centrum voor Noord-Limburg | Arcen en Velden, Beesel, Bergen (L.) (voor ½), Helden, Horst aan de Maas, Kessel, Maasbree, Meerlo-Wanssum, Meijel, Sevenum, Venlo en Venray. | € 49.876 | € 49.876 | € 49.876 |
-| Noordwest Utrecht | Stichting Zuwe Zorg | Abcoude, Breukelen, De Ronde Venen, Loenen, Maarssen, Montfoort, Oudewater en Woerden (voor 2/3). | € 32.482 | € 32.482 | € 32.482 |
-| Noordwest Veluwe | Stichting Palliatieve Zorg Veluwe | Elburg, Ermelo, Harderwijk, Nijkerk (voor ½) Nunspeet, Oldebroek, Putten en Zeewolde (voor ½). | € 38.827 | € 38.827 | € 38.827 |
-| Noordwest Twente | Stichting Meulenbeltzorg | Almelo, Hellendoorn, Rijssen-Holten (voor ¾), Tubbergen, Twenterand en Wierden. | € 43.044 | € 43.044 | € 43.044 |
-| Oost-Achterhoek | Stichting Netwerk Palliatieve Terminale Zorg Achterhoek-Oost | Aalten (voor ½), Berkelland, Oost Gelre, Oude IJsselstreek (voor ½) en Winterswijk. | € 27.888 | € 27.888 | € 27.888 |
-| Oost-Veluwe | Stichting Zorgcombinatie Beekbergen | Apeldoorn, Epe, Heerde en Voorst (voor ½) | € 44.078 | € 44.078 | – |
-| Oost-Veluwe | Stichting Zorggroep Apeldoorn en omstreken | Apeldoorn, Epe, Heerde en Voorst (voor ½) | – | – | € 44.078 |
-| Oostelijk Zuid-Limburg | Stichting Cicero Zorggroep | Brunssum, Heerlen, Kerkrade, Landgraaf, Nuth, Onderbanken, Simpelveld en Voerendaal. | € 51.718 | € 51.718 | € 51.718 |
-| Oosterschelderegio | Stichting voor Regionale Zorgverlening | Borsele, Goes, Kapelle, Noord-Beveland, Reimerswaal en Schouwen-Duiveland | € 26.952 | € 26.952 | € 26.952 |
-| Oss - Uden - Veghel | Stichting ROSE Noordoost Brabant | Bernheze, Boekel, Grave (voor ½), Landerd, Lith, Maasdonk, Oss, Sint-Oedenrode, Uden en Veghel. | € 63.750 | € 50.284 | € 50.284 |
-| Rivierengebied | Stichting Gezondheidszorg Rivierenland | Buren, Culemborg, Geldermalsen, Lingewaal (voor 1/2), Neder-Betuwe, Neerijnen, Tiel en West Maas en Waal (voor ½). | € 34.115 | € 34.115 | € 34.115 |
-| Roermond | Stichting Land Van Gelre en Gulick | Echt-Susteren, Leudal (voor 4/5), Maasgouw, Roerdalen en Roermond | € 32.927 | – | – |
-| Roermond | Zorggroep Noord- en Midden-Limburg | Echt-Susteren, Leudal (voor 4/5), Maasgouw, Roerdalen en Roermond | – | € 32.927 | € 32.927 |
-| Roosendaal - Bergen op Zoom - Tholen | Ziekenhuis Lievensberg | Bergen op Zoom, Halderberge, Roosendaal, Rucphen, Steenbergen, Woensdrecht en Tholen | € 53.417 | € 53.417 | € 53.417 |
-| Rotterdam | Thuiszorg Rotterdam B.V. | Albrandswaard, Barendrecht, Capelle aan den IJssel en Rotterdam | € 144.152 | – | – |
-| Rotterdam | Stichting Zorggroep Rijnmond | Albrandswaard, Barendrecht, Capelle aan den IJssel en Rotterdam | € 144.152 | € 144.152 | – |
-| Rotterdam | Stichting Zorggroep Rijnmond | Albrandswaard, Barendrecht, Capelle aan den IJssel,Krimpen aan den IJssel (voor ½) en Rotterdam | – | – | € 147.099 |
-| Salland | Stichting Carinova Leiboomgroep | Dalfsen (voor ½), Deventer, Olst – Wijhe (voor 5/9), Raalte (voor 2/3) en Rijssen-Holten (voor ¼). | € 30.997 | € 30.997 | € 30.997 |
-| Stadsgewest Breda | Annevillegroep | Aalburg, Alpen-Chaam, Baarle-Nassau, Breda, Dongen (voor ½), Drimmelen, Etten-Leur, Geertruidenberg, Moerdijk, Oosterhout Werkendam, Woudrichem en Zundert. | € 91.062 | € 91.062 | € 91.062 |
-| Utrecht Stad | Stichting Quarijn | Utrecht | € 58.226 | € 58.226 | – |
-| Utrecht Stad | Stichting Rhijnhuysen Utrecht | Utrecht |   |   | € 58.226. |
-| Utrecht-Zuid | Stichting Zuwe Zorg | Houten, IJsselstein, Lopik, Nieuwegein en Vianen. | € 35.253 | € 35.253 | € 35.253 |
-| Voorne-Putten Rozenburg | Stichting palliatieve zorg te Dirksland | Bernisse, Brielle, Hellevoetsluis, Rozenburg, Spijkenisse en Westvoorne. | € 41.354 | € 34.102 | € 34.102 |
-| Walcheren | Stichting Zorgstroom | Middelburg, Veere en Vlissingen | € 23.064 | € 23.064 | € 23.064 |
-| Weert | Stichting Land van Horne & Zorgketen Land van Weert | Cranendonck (voor ½), Leudal (voor 1/5), Nederweert en Weert. | € 16.414 | € 16.414 | € 16.414 |
-| West-Achterhoek | Stichting Slingeland Ziekenhuis | Aalten (voor ½), Bronckhorst (voor ½), Doesburg (voor ½), Doetinchem, Montferland (voor ½) en Oude IJsselstreek (voor ½). | € 26.705 | € 26.705 | € 26.705 |
-| West-Friesland | Stichting West-Friese Zorggroep Omring | Andijk, Drechterland, Enkhuizen, Hoorn, Koggenland, Medemblik, Opmeer, Stede Broec, Wervershoof en Zeevang (voor ½) | € 41.028 | € 41.028 | – |
-| West-Friesland | Stichting Zorg Ondersteuning Noord-Holland Noord | Andijk, Drechterland, Enkhuizen, Hoorn, Koggenland, Medemblik, Opmeer, Stede Broec, Wervershoof en Zeevang (voor ½) | – | – | € 41.028 |
-| Westelijke Mijnstreek | Thuiszorg Westelijke Mijnstreek | Beek, Schinnen, Sittard-Geleen en Stein | € 30.837 | – | – |
-| Westelijke Mijnstreek | Orbis Medisch en Zorg-concern | Beek, Schinnen, Sittard-Geleen en Stein | – | € 30.837 | € 30.837 |
-| Zaanstreek Waterland | Stichting Evean Zorg | Beemster, Edam-Volendam, Landsmeer, Oostzaan, Purmerend, Waterland, Wormerland, Zaanstad en Zeevang (voor ½) | € 62.998 | € 62.998 | – |
-| Zaanstreek Waterland | Stichting Netwerk Palliatieve Zorg Zaanstreek Waterland | Beemster, Edam-Volendam, Landsmeer, Oostzaan, Purmerend, Waterland, Wormerland, Zaanstad en Zeevang (voor ½) | – | – | € 62.998 |
-| Zeeuws Vlaanderen | Stichting ZorgSaam Zeeuws-Vlaanderen | Hulst, Sluis en Terneuzen. | € 21.725 | € 21.725 | € 21.725 |
-| Zuid-Gelderland | Stichting Integraal Kankercentrum Oost | Beuningen, Druten, Groesbeek, Heumen, Millingen aan de Rijn, Mook en Middelaar (voor ½) Nijmegen, Ubbergen, West Maas en Waal (voor ½) en Wijchen. | € 62.121 | € 62.121 | € 62.121 |
-| Zuid-Holland Noord | Stichting Thuiszorg Groot Rijnland | Alkemade, Alphen aan den Rijn, Hillegom, Jacobswoude, Katwijk, Leiden, Leiderdorp, Lisse, Nieuwkoop, Noordwijk, Noordwijkerhout, Oegstgeest, Rijnwoude, Teylingen, Voorschoten en Zoeterwoude | € 93.000 | – | – |
-| Zuid-Holland Noord | Stichting Activite | Alkemade, Alphen aan den Rijn, Hillegom, Jacobswoude, Katwijk, Leiden, Leiderdorp, Lisse, Nieuwkoop, Noordwijk, Noordwijkerhout, Oegstgeest, Rijnwoude, Teylingen, Voorschoten en Zoeterwoude | – | € 104.426 | € 104.426 |
-| Zuidoost Brabant | Stichting Kwaliteit en Ontwikkeling Huisartsenzorg | Asten, Bergeijk, Best, Bladel, Cranendonck (voor ½), Deurne, Eersel, Eindhoven, Geldrop-Mierlo, Gemert-Bakel, Heeze-Leende, Helmond, Laarbeek, Nuenen c.a., Oirschot, Reusel-De Mierden, Someren, Son en Breugel, Valkenswaard, Veldhoven en Waalre. | € 144.958 | € 144.958 | € 144.958 |
-| Zuidoost Utrecht | Stichting Quarijn | Bunnik, De Bilt, Utrechtse Heuvelrug (voor 6/7), Wijk bij Duurstede en Zeist | € 36.691 | € 36.691 | – |
-| Zuidoost Utrecht | Stichting Rhijnhuysen Utrecht | Bunnik, De Bilt, Utrechtse Heuvelrug (voor 6/7), Wijk bij Duurstede en Zeist | – | – | € 36.691 |
-| Zutphen | Stichting Sensire De Berkel | Bronckhorst (voor 1/2), Brummen, Lochem, Zutphen, Voorst (voor 1/2) | € 26.518 | € 26.518 | € 26.518 |
+| Netwerk | Organisatie | Gemeenten in de netwerkregio | 2010 | 2011 en volgende jaren |
+| --- | --- | --- | --- | --- |
+| Almere | Stichting Transmuraal Zorgnetwerk Almere | Almere | € 36.527 | € 36.527 |
+| Amstelland & Meerlanden | Stichting Bureau Lindenhoek | Aalsmeer, Amstelveen, Haarlemmermeer, Ouder-Amstel, Uithoorn | € 56.981 | € 56.981 |
+| Amsterdam-Diemen | Stichting Netwerk Palliatieve Zorg Amsterdam-Diemen | Amsterdam, Diemen | € 154.806 | € 154.806 |
+| Arnhem | Stichting Netwerk Palliatieve Zorg regio Arnhem | Arnhem, Doesburg (voor ½), Lingewaard, Overbetuwe, Renkum (voor ½), Rheden en Rozendaal (Gld.) | € 59.996 | € 59.996 |
+| De Liemers | Stichting Netwerk Palliatieve Zorg regio Arnhem | Duiven, Montferland (voor ½), Rijnwaarden, Westervoort en Zevenaar | € 20.515 | € 20.515 |
+| Delft Westland Oostland | Reinier de Graaf Groep Transmuraal Zorgbureau | Delft, Lansingerland, Pijnacker-Nootdorp, Westland, Midden-Delfland (voor ¾) | € 60.184 | € 60.184 |
+| Drechtzorg | Stichting Het Spectrum | Alblasserdam, Dordrecht, Hardinxveld-Giessendam, Hendrik-Ido-Ambacht, Nieuw-Lekkerland, Papendrecht, Ridderkerk, Sliedrecht, Zwijndrecht | € 67.316 | € 67.316 |
+| Drenthe / Assen | Stichting Thuiszorg Icare | Aa en Hunze, Assen, Noordenveld en Tynaarlo | € 30.915 | € 30.915 |
+| Drenthe / Emmen | Stichting Thuiszorg Icare | Borger-Odoorn, Coevorden en Emmen | € 34.558 | € 34.558 |
+| Drenthe / Hoogeveen | Stichting Thuiszorg Icare | De Wolden (voor 2/3), Hoogeveen en Midden-Drenthe | € 20.929 | € 20.929 |
+| Drenthe / Meppel-Steenwijkerland | Stichting Thuiszorg Icare | De Wolden (voor 1/3), Meppel, Steenwijkerland en Westerveld | € 20.466 | € 20.466 |
+| Eemland | Stichting Beweging 3.0 | Amersfoort, Baarn, Barneveld (voor ¼), Bunschoten, Eemnes, Leusden, Nijkerk (voor ½), Soest en Woudenberg | € 59.883 | € 59.883 |
+| Enschede-Haaksbergen en Noordoost Twente | Livio, Zorg aan huis | Dinkelland, Enschede, Haaksbergen, Losser en Oldenzaal | € 52.247 | € 52.247 |
+| Friesland Noordoost | FAB Dienstverlening B.V. | Ameland, Dantumadeel, Dongeradeel, Ferwerderadiel, Kollumerland c.a., Schiermonnikoog en Tytsjerksteradiel (voor 1/3) | € 16.459 | € 16.459 |
+| Friesland Noordwest | FAB Dienstverlening B.V. | Boarnsterhim, Franekeradeel, Harlingen, het Bildt,Leeuwarden, Leeuwarderadeel, Menaldumadeel, Terschelling, Tytsjerksteradiel (voor 1/3) en Vlieland | € 40.277 | € 40.277 |
+| Friesland Zuid | FAB Dienstverlening B.V. | Heerenveen, Lemsterland (voor ½), Skarsterlân (voor ½), Weststellingwerf | € 17.871 | € 17.871 |
+| Friesland Zuidoost | FAB Dienstverlening B.V. | Achtkarspelen, Ooststellingwerf, Opsterland, Smallingerland, Tytsjerksteradiel (voor 1/3) | € 30.219 | € 30.219 |
+| Friesland Zuidwest | FAB Dienstverlening B.V. | Bolsward, Gaasterlân-Sleat, Lemsterland (voor ½), Littenseradiel, Nijefurd, Skarsterlân (voor ½), Sneek, Wûnseradiel en Wymbritseradiel | € 24.832 | € 24.832 |
+| Gelderse Vallei | Stichting Kruiswerk West-Veluwe | Barneveld (voor ¾), Ede, Renswoude, Renkum (voor ½), Rhenen, Scherpenzeel, Utrechtse Heuvelrug (voor 1/7), Veenendaal en Wageningen | € 60.150 | € 60.150 |
+| Goeree Overflakkee en omliggende eilanden | Stichting palliatieve zorg te Dirksland | Dirksland, Goedereede, Middelharnis en Oostflakkee | € 12.000 | € 12.000 |
+| Gooi en Vechtstreek | Stichting Ketenzorg en Innovatie | Blaricum, Bussum, Hilversum, Huizen, Laren, Muiden, Naarden, Weesp, Wijdemeren | € 48.848 | € 48.848 |
+| Gorinchem | Stichting Het Spectrum | Giessenlanden, Gorinchem, Graafstroom, Leerdam, Liesveld, Lingewaal (voor ½) en Zederik | € 21.782 | € 21.782 |
+| Groningen Centraal | FAB Dienstverlening B.V. | Groningen, Grootegast, Haren, Hoogezand-Sappemeer, Leek, Marum, Winsum (voor ½), Zuidhorn | € 60.908 | € 60.908 |
+| Groningen Noord | FAB Dienstverlening B.V. | Appingedam, Bedum, De Marne, Delfzijl, Eemsmond, Loppersum, Slochteren, Ten Boer en Winsum (voor ½) | € 23.848 | € 23.848 |
+| Groningen Oost | FAB Dienstverlening B.V. | Bellingwedde, Menterwolde, Pekela (voor ½), Reiderland, Scheemda, Veendam (voor ½) en Winschoten | € 16.631 | € 16.631 |
+| Groningen Zuid | FAB Dienstverlening B.V. | Pekela (voor ½), Veendam (voor ½), Stadskanaal en Vlagtwedde | € 14.422 | € 14.422 |
+| Haaglanden | Stichting Transmurale Zorg Den Haag en omstreken | Den Haag, Leischendam-Voorburg, Rijswijk, Wassenaar en Zoetermeer | € 148.884 | € 148.884 |
+| Hardenberg en omgeving | Stichting Saxenburg Groep | Hardenberg, Ommen | € 15.226 | € 15.226 |
+| ’s Hertogenbosch / Bommelerwaard | Stichting ROSE Noordoost Brabant | Boxtel, Haaren (voor ½), s-Hertogenbosch, Heusden (voor ½) Maasdriel, Schijndel, Sint-Michielsgestel, Vught en Zaltbommel | € 64.557 | € 64.557 |
+| Heuvelland | Stichting Groenekruis Domicura | Eijsden, Gulpen-Wittem, Maastricht, Margraten, Meerssen, Vaals en Valkenburg aan de Geul | € 41.577 | € 41.577 |
+| Hoekse Waard | Stichting palliatieve zorg te Dirksland | Binnenmaas, Cromstrijen, Korendijk, Oud-Beijerland en Strijen | € 17.288 | € 17.288 |
+| IJssel-Vecht | Stichting Regionaal Zorgnetwerk Zwolle en omgeving | Dalfsen (voor ½), Hattem, Kampen, Olst - Wijhe (voor 4/9), Raalte (voor 1/3), Staphorst, Zwartewaterland en Zwolle | € 49.837 | € 49.837 |
+| Kop van Noord-Holland | Stichting Zorg Ondersteuning Noord-Holland Noord | Anna Paulowna, Den Helder, Harenkarspel, Niedorp, Schagen, Texel, Wieringen, Wieringermeer en Zijpe | € 33.465 | € 33.465 |
+| Land van Cuyk & Noord Limburg | Stichting Pantein | Bergen (L.) (voor ½), Boxmeer, Cuijk, Gennep, Grave (voor ½), Mill en Sint Hubert, Mook en Middelaar (voor ½) en Sint Anthonis | € 22.171 | € 22.171 |
+| Midden-Brabant | Stichting Zorgnetwerk Midden-Brabant | Dongen (voor ½), Gilze en Rijen, Goirle, Haaren (voor 1/2), Heusden (voor 1/2) Hilvarenbeek, Loon op Zand, Oisterwijk, Tilburg en Waalwijk | € 80.590 | € 80.590 |
+| Midden- en Noord Zeeland | Stichting Zorgstroom | Borsele, Goes, Kapelle, Noord-Beveland, Middelburg Reimerswaal en Schouwen-Duiveland, Veere en Vlissingen | - | € 50.016 |
+| Midden- en Zuid-Kennemerland | Stichting Bureau Lindenhoek | Bennebroek, Beverwijk, Bloemendaal, Castricum, Haarlem, Haarlemmerliede c.a., Heemskerk, Heemstede, Uitgeest, Velsen en Zandvoort | € 82.001 | € 82.001 |
+| Midden-Holland | Stichting Transmuraal Netwerk Midden-Holland | Bergambacht, Bodegraven, Boskoop, Gouda, Krimpen aan den IJssel (voor ½), Moordrecht, Nederlek, Nieuwerkerk aan den IJssel, Ouderkerk, Reeuwijk, Schoonhoven, Vlist, Waddinxveen, Woerden (voor 1/3) en Zevenhuizen-Moerkapelle | € 54.276 | € 54.276 |
+| Midden-Twente | Stichting Carint Reggeland Groep | Borne, Hengelo (O) en Hof van Twente | € 27.677 | € 27.677 |
+| Nieuwe Waterweg Noord | Stichting Argos Zorggroep | Maassluis, Midden-Delfland (voor ¼), Schiedam en Vlaardingen | € 36.860 | € 36.860 |
+| Noord- en Oost-Flevoland | MCC Flevoland | Dronten, Lelystad, Noordoostpolder, Urk en Zeewolde (voor 1/2) | € 37.077 | € 37.077 |
+| Noord-Kennemerland | Stichting Zorg Ondersteuning Noord-Holland Noord | Alkmaar, Bergen (NH.), Graft-De Rijp, Heerhugowaard, Heiloo, Langedijk en Schermer | € 47.435 | € 47.435 |
+| Noord-Limburg | Stichting Viecuri, Medisch Centrum voor Noord-Limburg | Arcen en Velden, Beesel, Bergen (L.) (voor ½), Helden, Horst aan de Maas, Kessel, Maasbree, Meerlo-Wanssum, Meijel, Sevenum, Venlo en Venray | € 49.876 | € 49.876 |
+| Noordwest Utrecht | Stichting Zuwe Zorg | Abcoude, Breukelen, De Ronde Venen, Loenen, Maarssen, Montfoort, Oudewater en Woerden (voor 2/3) | € 32.482 | € 32.482 |
+| Noordwest Veluwe | Stichting Palliatieve Zorg Veluwe | Elburg, Ermelo, Harderwijk, Nijkerk (voor ½) Nunspeet, Oldebroek, Putten en Zeewolde (voor ½) | € 38.827 | € 38.827 |
+| Noordwest Twente | Stichting Meulenbeltzorg | Almelo, Hellendoorn, Rijssen-Holten (voor ¾), Tubbergen, Twenterand en Wierden | € 43.044 | € 43.044 |
+| Oost-Achterhoek | Stichting Netwerk Palliatieve Terminale Zorg Achterhoek-Oost | Aalten (voor ½), Berkelland, Oost Gelre, Oude IJsselstreek (voor ½) en Winterswijk | € 27.888 | € 27.888 |
+| Oost-Veluwe | Stichting Zorggroep Apeldoorn en omstreken | Apeldoorn, Epe, Heerde en Voorst (voor ½) | € 44.078 | € 44.078 |
+| Oostelijk Zuid-Limburg | Stichting Cicero Zorggroep | Brunssum, Heerlen, Kerkrade, Landgraaf, Nuth, Onderbanken, Simpelveld en Voerendaal | € 51.718 | € 51.718 |
+| Oosterschelderegio | Stichting voor Regionale Zorgverlening | Borsele, Goes, Kapelle, Noord-Beveland, Reimerswaal en Schouwen-Duiveland | € 26.952 | - |
+| Oss - Uden - Veghel | Stichting ROSE Noordoost Brabant | Bernheze, Boekel, Grave (voor ½), Landerd, Lith, Maasdonk, Oss, Sint-Oedenrode, Uden en Veghel | € 50.284 | € 50.284 |
+| Rivierengebied | Stichting Gezondheidszorg Rivierenland | Buren, Culemborg, Geldermalsen, Lingewaal (voor 1/2), Neder-Betuwe, Neerijnen, Tiel en West Maas en Waal (voor ½) | € 34.115 | € 34.115 |
+| Roermond | Zorggroep Noord- en Midden-Limburg | Echt-Susteren, Leudal (voor 4/5), Maasgouw, Roerdalen en Roermond | € 32.927 | € 32.927 |
+| Roosendaal - Bergen op Zoom - Tholen | Ziekenhuis Lievensberg | Bergen op Zoom, Halderberge, Roosendaal, Rucphen, Steenbergen, Woensdrecht en Tholen | € 53.417 | € 53.417 |
+| Rotterdam | Stichting Zorggroep Rijnmond | Albrandswaard, Barendrecht, Capelle aan den IJssel, Krimpen aan den IJssel (voor ½) en Rotterdam | € 147.099 | € 147.099 |
+| Salland | Stichting Carinova Leiboomgroep | Dalfsen (voor ½), Deventer, Olst - Wijhe (voor 5/9), Raalte (voor 2/3) en Rijssen-Holten (voor ¼) | € 30.997 | € 30.997 |
+| Stadsgewest Breda | Annevillegroep | Aalburg, Alpen-Chaam, Baarle-Nassau, Breda, Dongen (voor ½), Drimmelen, Etten-Leur, Geertruidenberg, Moerdijk, Oosterhout Werkendam, Woudrichem en Zundert | € 91.062 | € 91.062 |
+| Utrecht Stad | Stichting Rhijnhuysen Utrecht | Utrecht | € 58.226 | € 58.226 |
+| Utrecht-Zuid | Stichting Zuwe Zorg | Houten, IJsselstein, Lopik, Nieuwegein en Vianen | € 35.253 | € 35.253 |
+| Voorne-Putten Rozenburg | Stichting palliatieve zorg te Dirksland | Bernisse, Brielle, Hellevoetsluis, Rozenburg, Spijkenisse en Westvoorne | € 34.102 | € 34.102 |
+| Walcheren | Stichting Zorgstroom | Middelburg, Veere en Vlissingen | € 23.064 | - |
+| Weert | Stichting Land van Horne & Zorgketen Land van Weert | Cranendonck (voor ½), Leudal (voor 1/5), Nederweert en Weert | € 16.414 | € 16.414 |
+| West-Achterhoek | Stichting Slingeland Ziekenhuis | Aalten (voor ½), Bronckhorst (voor ½), Doesburg (voor ½), Doetinchem, Montferland (voor ½) en Oude IJsselstreek (voor ½) | € 26.705 | € 26.705 |
+| West-Friesland | Stichting Zorg Ondersteuning Noord-Holland Noord | Andijk, Drechterland, Enkhuizen, Hoorn, Koggenland, Medemblik, Opmeer, Stede Broec, Wervershoof en Zeevang (voor ½) | € 41.028 | € 41.028 |
+| Westelijke Mijnstreek | Orbis Medisch en Zorg-concern | Beek, Schinnen, Sittard-Geleen en Stein | € 30.837 | € 30.837 |
+| Zaanstreek Waterland | Stichting Netwerk Palliatieve Zorg Zaanstreek Waterland | Beemster, Edam-Volendam, Landsmeer, Oostzaan, Purmerend, Waterland, Wormerland, Zaanstad en Zeevang (voor ½) | € 62.998 | € 62.998 |
+| Zeeuws Vlaanderen | Stichting ZorgSaam Zeeuws-Vlaanderen | Hulst, Sluis en Terneuzen | € 21.725 | € 21.725 |
+| Zuid-Gelderland | Stichting Integraal Kankercentrum Oost | Beuningen, Druten, Groesbeek, Heumen, Millingen aan de Rijn, Mook en Middelaar (voor ½) Nijmegen, Ubbergen, West Maas en Waal (voor ½) en Wijchen | € 62.121 | € 62.121 |
+| Zuid-Holland Noord | Stichting Activite | Alkemade, Alphen aan den Rijn, Hillegom, Jacobswoude, Katwijk, Leiden, Leiderdorp, Lisse, Nieuwkoop, Noordwijk, Noordwijkerhout, Oegstgeest, Rijnwoude, Teylingen, Voorschoten en Zoeterwoude | € 104.426 | € 104.426 |
+| Zuidoost Brabant | Stichting Kwaliteit en Ontwikkeling Huisartsenzorg | Asten, Bergeijk, Best, Bladel, Cranendonck (voor ½), Deurne, Eersel, Eindhoven, Geldrop-Mierlo, Gemert-Bakel, Heeze-Leende, Helmond, Laarbeek, Nuenen c.a., Oirschot, Reusel-De Mierden, Someren, Son en Breugel, Valkenswaard, Veldhoven en Waalre | € 144.958 | € 144.958 |
+| Zuidoost Utrecht | Stichting Rhijnhuysen Utrecht | Bunnik, De Bilt, Utrechtse Heuvelrug (voor 6/7), Wijk bij Duurstede en Zeist | € 36.691 | € 36.691 |
+| Zutphen | Stichting Sensire De Berkel | Bronckhorst (voor 1/2), Brummen, Lochem, Zutphen, Voorst (voor 1/2) | € 26.518 | € 26.518 |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
