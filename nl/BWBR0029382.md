@@ -4,7 +4,7 @@ identifier: "BWBR0029382"
 country: "nl"
 rank: "amvb"
 publication_date: "2011-01-01"
-last_updated: "2007-01-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029382"
 soort: "AMvB"
@@ -52,46 +52,54 @@ Wijzigt het Besluit rechtspositie rechterlijke ambtenaren.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit rechtspositie leden gerechtsbesturen en Raad voor de rechtspraak.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit opleiding rechterlijke ambtenaren.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Kostuum- en titulatuurbesluit rechterlijke organisatie.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Beroepsreglement.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit rechtspositie leden met rechtspraak belast en gerechtsauditeurs CRvB en CBb.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit samenstelling en werkwijze toetsingscommissie uittreding zittende magistratuur.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Regelen omtrent onverenigbaarheid van het lidmaatschap van de SER met enige andere werkzaamheden.
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Wijzigingsbesluit Algemene wet bestuursrecht, enz. (indexering griffierechten bestuursrechtelijke wetten 2011.)
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de rechtsbijstand.
 
 ##### Artikel XI
 
-Dit onderdeel is nog niet inwerking getreden
+Degenen die op de dag voorafgaand aan de inwerkingtreding van dit besluit als directeur bedrijfsvoering bij de rechtbank te Groningen, Leeuwarden en Zutphen zijn aangesteld, blijven in het genot van het bij salarisschaal 16 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) behorende bedrag voor zolang zij zijn benoemd als directeur bedrijfsvoering bij die rechtbank.
 
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt terug als volgt:
+
+- a. wat artikel I, onderdeel C, betreft: tot en met 1 januari 2007;
+
+- b. wat artikel I, onderdeel D, betreft: tot en met 1 augustus 2007;
+
+- c. wat artikel I, onderdeel E, betreft: tot en met 1 april 2008;
+
+- d. wat artikel I, onderdeel F, betreft: tot en met 1 april 2009.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
