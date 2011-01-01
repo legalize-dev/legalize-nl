@@ -4,7 +4,7 @@ identifier: "BWBR0027113"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2010-01-26"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027113"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **minister:** de Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het onderwijs op het gebied van de landbouw en de natuurlijke omgeving, de Minister van Landbouw, Natuur en Voedselkwaliteit;
+- a. **minister:** de Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het onderwijs op het gebied van de landbouw en de natuurlijke omgeving, de Minister van Economische Zaken, Landbouw en Innovatie;
 
 - b. **wet:** [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399);
 
@@ -58,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 - f. **vestiging:** een hoofdvestiging, nevenvestiging of tijdelijke nevenvestiging van een school, zoals bedoeld in [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=16) en [65, derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=65) en waarvoor leerlingen worden geteld ten behoeve van de bekostiging, op grond van [artikel 14a, eerste lid, van het Bekostigingsbesluit W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0005672&artikel=14a);
 
-- g. **Randstadregio’s:** verzameling van gemeenten op peildatum 1 januari 2009 als opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&bijlage=1&z=2010-01-26&g=2010-01-26) bij deze regeling;
+- g. **Randstadregio’s:** verzameling van gemeenten op peildatum 1 januari 2009 als opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&bijlage=1&z=2011-01-01&g=2011-01-01) bij deze regeling;
 
 - h. **leraren:** in [artikel 84, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=84) genoemde personeelscategorie;
 
@@ -74,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Doelomschrijving
 
-1. De minister verstrekt in 2010 aanvullende personele bekostiging ter versterking van de functiemix binnen de Randstadregio’s door het verhogen van het aandeel leraren in voltijdequivalenten in bezoldigingsschaal LC.
+1. De minister verstrekt in 2011 aanvullende personele bekostiging ter versterking van de functiemix binnen de Randstadregio’s door het verhogen van het aandeel leraren in voltijdequivalenten in bezoldigingsschaal LC.
 
 2. De aanvullende personele bekostiging wordt verstrekt op grond van de volgende aandachtspunten:
 
@@ -86,17 +86,17 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Aanvullende personele bekostiging
 
-Deze aanvullende bekostiging wordt slechts verstrekt aan bevoegde gezagsorganen met één of meer scholen en/of vestigingen in de Randstadregio’s, die voldaan hebben aan de verplichte leveringen van personeelsgegevens over het afgelopen jaar zoals bedoeld in [artikel 1 onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&hoofdstuk=1&artikel=1&z=2010-01-26&g=2010-01-26).
+Deze aanvullende bekostiging wordt slechts verstrekt aan bevoegde gezagsorganen met één of meer scholen en/of vestigingen in de Randstadregio’s, die voldaan hebben aan de verplichte leveringen van personeelsgegevens over het afgelopen jaar zoals bedoeld in [artikel 1 onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&hoofdstuk=1&artikel=1&z=2011-01-01&g=2011-01-01).
 
 ##### Artikel 4. Berekening aanvullende personele bekostiging
 
-1. Voor deze aanvullende bekostiging is in 2010 in totaal een bedrag van € 52,2 miljoen beschikbaar.
+1. Voor deze aanvullende bekostiging is in 2011 in totaal een bedrag van € 52,2 miljoen beschikbaar.
 
-2. De verstrekking van de aanvullende personele bekostiging, als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&hoofdstuk=2&artikel=4&z=2010-01-26&g=2010-01-26), vindt plaats per kalenderjaar.
+2. De verstrekking van de aanvullende personele bekostiging vindt plaats per kalenderjaar.
 
-3. De aanvullende personele bekostiging, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&hoofdstuk=2&artikel=4&z=2010-01-26&g=2010-01-26), wordt over de daarvoor in aanmerking komende bevoegde gezagsorganen, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&hoofdstuk=2&artikel=3&z=2010-01-26&g=2010-01-26), verdeeld naar rato van het budget dat zij in de lumpsumbekostiging aan personele bekostiging ontvangen voor leraren op scholen of vestigingen in de Randstadregio’s (conform [artikel 84](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=84) en [85 van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=85)). De omvang van dit budget wordt bepaald op basis van het aandeel leerlingen dat les ontvangt op vestigingen binnen de Randstadregio’s ten opzichte van het totaal aantal leerlingen op een school.
+3. De aanvullende personele bekostiging wordt over de daarvoor in aanmerking komende bevoegde gezagsorganen verdeeld naar rato van het budget dat zij, met inachtneming van de artikelen [84](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=84) en [85 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=85), in de lumpsumbekostiging aan personele bekostiging ontvangen voor leraren op scholen of vestigingen in de Randstadregio’s. De omvang van dit budget wordt bepaald op basis van het aandeel leerlingen dat les ontvangt op vestigingen binnen de Randstadregio’s ten opzichte van het totaal aantal leerlingen op een school.
 
-4. De aanvullende bekostiging van een in aanmerking komende school voor het jaar 2010 wordt berekend op grond van de volgende formule:
+4. De aanvullende bekostiging van een in aanmerking komende school voor het jaar 2011 wordt berekend op grond van de volgende formule:
 
 Xi=A * (Bi * LLri/ LLi) / Σ(Bi * LLri/ LLi).
 
@@ -104,13 +104,13 @@ De definitie van de verschillende componenten uit deze formule is als volgt:
 
 - a. Xi = de aanvullende personele bekostiging voor een individuele school;
 
-- b. A = het in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&hoofdstuk=2&artikel=4&z=2010-01-26&g=2010-01-26) genoemde totaalbudget voor de aanvullende bekostiging van deze regeling;
+- b. A = het in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&hoofdstuk=2&artikel=4&z=2011-01-01&g=2011-01-01) genoemde totaalbudget voor de aanvullende bekostiging van deze regeling;
 
-- c. Bi = reguliere personele bekostiging voor leraren van school i in het kalenderjaar 2010 als bedoeld in [artikel 8 van het Formatiebesluit W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0005446&artikel=8);
+- c. Bi = reguliere personele bekostiging voor leraren van school i in het kalenderjaar 2011 als bedoeld in [artikel 8 van het Formatiebesluit W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0005446&artikel=8);
 
-- d. LLri = de op de teldatum 1/10/2009 bekostigde leerlingen op de in de Randstadregio’s gelegen vestiging(en) van school i, uitgaande van voorlopige leerlingaantallen;
+- d. LLri = de op de teldatum 1 oktober 2010 bekostigde leerlingen op de in de Randstadregio’s gelegen vestiging(en) van school i, uitgaande van voorlopige leerlingaantallen;
 
-- e. LLi = de op de teldatum 1/10/2009 bekostigde leerlingen van school i, uitgaande van voorlopige leerlingaantallen;
+- e. LLi = de op de teldatum 1 oktober 2010 bekostigde leerlingen van school i, uitgaande van voorlopige leerlingaantallen;
 
 - f. Σ(Bi * LLri/ LLi) = de integrale som van het product Bi * LLri/ LLi voor het totaal van alle voor deze regeling in aanmerking komende scholen.
 
@@ -120,11 +120,11 @@ De betaling van de aanvullende bekostiging vindt plaats volgens het gebruikelijk
 
 ### 3. Verantwoording
 
-##### Artikel 6. Verantwoording
+##### Artikel 6. Besteding en verantwoording
 
 1. De aanvullende bekostiging wordt verstrekt ter dekking van de uitgaven die zijn verbonden aan het in de regeling omschreven doel. Terugvordering van de eventueel niet-bestede middelen of overschotten vindt niet plaats.
 
-2. De verantwoording van de subsidie geschiedt in de jaarverslaggeving, bedoeld in de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132). De verklaring van de accountant bij de jaarrekening omvat tevens een oordeel over de rechtmatige besteding van de aanvullende bekostiging.
+2. De verantwoording van de aanvullende bekostiging geschiedt in de jaarverslaggeving, bedoeld in de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132). De verklaring van de accountant bij de jaarrekening omvat tevens een oordeel over de rechtmatige besteding van de aanvullende bekostiging.
 
 ##### Artikel 7. Informatieplicht
 
