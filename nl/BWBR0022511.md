@@ -4,7 +4,7 @@ identifier: "BWBR0022511"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-07-12"
-last_updated: "2009-01-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022511"
 soort: "AMvB"
@@ -64,9 +64,9 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De [artikelen 3 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=1&artikel=3&z=2009-01-01&g=2009-01-01), [12 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2009-01-01&g=2009-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=3&paragraaf=3.1&artikel=19&z=2009-01-01&g=2009-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=3&paragraaf=3.2&artikel=21&z=2009-01-01&g=2009-01-01) en [23 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=3&paragraaf=3.3&artikel=23&z=2009-01-01&g=2009-01-01) zijn van toepassing op openbare biedingen op effecten terzake waarvan de Autoriteit Financiële Markten op grond van [artikel 5:74, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:74), het biedingsbericht kan goedkeuren.
+1. De [artikelen 3 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=1&artikel=3&z=2011-01-01&g=2011-01-01), [12 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2011-01-01&g=2011-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=3&paragraaf=3.1&artikel=19&z=2011-01-01&g=2011-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=3&paragraaf=3.2&artikel=21&z=2011-01-01&g=2011-01-01) en [23 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=3&paragraaf=3.3&artikel=23&z=2011-01-01&g=2011-01-01) zijn van toepassing op openbare biedingen op effecten terzake waarvan de Autoriteit Financiële Markten op grond van [artikel 5:74, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:74), het biedingsbericht kan goedkeuren.
 
-2. De [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=3&paragraaf=3.1&artikel=18&z=2009-01-01&g=2009-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=3&paragraaf=3.2&artikel=20&z=2009-01-01&g=2009-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=3&paragraaf=3.3&artikel=22&z=2009-01-01&g=2009-01-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=4&artikel=27&z=2009-01-01&g=2009-01-01) zijn van toepassing op openbare biedingen op effecten van een doelvennootschap die zetel heeft in Nederland welke zijn toegelaten tot de handel op een gereglementeerde markt in Nederland of in een andere lidstaat.
+2. De [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=3&paragraaf=3.1&artikel=18&z=2011-01-01&g=2011-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=3&paragraaf=3.2&artikel=20&z=2011-01-01&g=2011-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=3&paragraaf=3.3&artikel=22&z=2011-01-01&g=2011-01-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=4&artikel=27&z=2011-01-01&g=2011-01-01) zijn van toepassing op openbare biedingen op effecten van een doelvennootschap die zetel heeft in Nederland welke zijn toegelaten tot de handel op een gereglementeerde markt in Nederland of in een andere lidstaat.
 
 ##### Artikel 3
 
@@ -82,7 +82,7 @@ In dit besluit wordt verstaan onder:
 
 3. Een bieder van wie geen door hem uitgegeven of aangeboden financiële instrumenten met zijn instemming zijn toegelaten tot de handel op een gereglementeerde markt in Nederland, doet een openbare mededeling over informatie als bedoeld in [artikel 5:53, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:53) voor zover die rechtstreeks op hem betrekking heeft of verband houdt met het voorgenomen, aangekondigde of uitgebrachte openbaar bod.
 
-4. Ter zake van het uitstellen van de openbaarmaking van informatie als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2009-01-01&g=2009-01-01), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2009-01-01&g=2009-01-01), [7, eerste, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2009-01-01&g=2009-01-01), [10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2009-01-01&g=2009-01-01), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=2&paragraaf=2.4&artikel=15&z=2009-01-01&g=2009-01-01) of [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=2&paragraaf=2.5&artikel=17&z=2009-01-01&g=2009-01-01), bestaat geen rechtmatig belang als bedoeld in [artikel 5:25i, derde lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25i).
+4. Ter zake van het uitstellen van de openbaarmaking van informatie als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2011-01-01&g=2011-01-01), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2011-01-01&g=2011-01-01), [7, eerste, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2011-01-01&g=2011-01-01), [10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2011-01-01&g=2011-01-01), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=2&paragraaf=2.4&artikel=15&z=2011-01-01&g=2011-01-01) of [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=2&paragraaf=2.5&artikel=17&z=2011-01-01&g=2011-01-01), bestaat geen rechtmatig belang als bedoeld in [artikel 5:25i, derde lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25i).
 
 ### Hoofdstuk 2. Algemene bepalingen omtrent openbare biedingen
 
@@ -116,7 +116,7 @@ is in ieder geval voor de toepassing van dit lid concrete informatie openbaar ge
 
 1. Indien de voorgenomen prijs of ruilverhouding of, in geval van een partieel bod of een tenderbod, het voorgenomen percentage of aantal van de effecten tot de verkrijging waarvan het openbaar bod strekt, na aankondiging definitief is vastgesteld of gewijzigd, doen de bieder en de doelvennootschap, ieder voor zover het hem of haar aangaat, een openbare mededeling hierover, onder vermelding van deze prijs of ruilverhouding of dit percentage of aantal.
 
-2. Indien door een doelvennootschap na aankondiging van een openbaar bod effecten worden uitgegeven of rechten tot het nemen of verkrijgen van door de doelvennootschap uit te geven effecten worden toegekend, doet de doelvennootschap een openbare mededeling hierover, onder vermelding van de naam van degene die de bedoelde effecten of rechten verwerft, voorzover deze naam bij haar bekend is, het nominale bedrag daarvan en de prijs of uitgiftekoers. De eerste volzin is van toepassing tot en met het tijdstip waarop overeenkomstig [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=2&paragraaf=2.5&artikel=16&z=2009-01-01&g=2009-01-01) een openbare mededeling wordt gedaan over de gestanddoening of de niet-gestanddoening van het openbaar bod, dan wel waarop overeenkomstig [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2009-01-01&g=2009-01-01), een openbare mededeling wordt gedaan over het niet indienen van een aanvraag tot goedkeuring van het biedingsbericht.
+2. Indien door een doelvennootschap na aankondiging van een openbaar bod effecten worden uitgegeven of rechten tot het nemen of verkrijgen van door de doelvennootschap uit te geven effecten worden toegekend, doet de doelvennootschap een openbare mededeling hierover, onder vermelding van de naam van degene die de bedoelde effecten of rechten verwerft, voorzover deze naam bij haar bekend is, het nominale bedrag daarvan en de prijs of uitgiftekoers. De eerste volzin is van toepassing tot en met het tijdstip waarop overeenkomstig [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=2&paragraaf=2.5&artikel=16&z=2011-01-01&g=2011-01-01) een openbare mededeling wordt gedaan over de gestanddoening of de niet-gestanddoening van het openbaar bod, dan wel waarop overeenkomstig [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2011-01-01&g=2011-01-01), een openbare mededeling wordt gedaan over het niet indienen van een aanvraag tot goedkeuring van het biedingsbericht.
 
 ##### Artikel 7
 
@@ -140,17 +140,17 @@ is in ieder geval voor de toepassing van dit lid concrete informatie openbaar ge
 
 1. De Autoriteit Financiële Markten keurt het biedingsbericht goed, indien in het biedingsbericht alle gegevens zijn opgenomen die voor een redelijk geïnformeerde en zorgvuldig handelende persoon van belang zijn voor het vormen van een verantwoord oordeel over het openbaar bod, waaronder:
 
-- a. in geval van een volledig bod, de gegevens, bedoeld in de [bijlagen A](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&bijlage=A&z=2009-01-01&g=2009-01-01) en [B](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&bijlage=B&z=2009-01-01&g=2009-01-01);
+- a. in geval van een volledig bod, de gegevens, bedoeld in de [bijlagen A](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&bijlage=A&z=2011-01-01&g=2011-01-01) en [B](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&bijlage=B&z=2011-01-01&g=2011-01-01);
 
-- b. in geval van een partieel bod, de gegevens, bedoeld in de [bijlagen A](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&bijlage=A&z=2009-01-01&g=2009-01-01) en [C](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&bijlage=C&z=2009-01-01&g=2009-01-01);
+- b. in geval van een partieel bod, de gegevens, bedoeld in de [bijlagen A](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&bijlage=A&z=2011-01-01&g=2011-01-01) en [C](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&bijlage=C&z=2011-01-01&g=2011-01-01);
 
-- c. in geval van een tenderbod, de gegevens, bedoeld in de [bijlagen A](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&bijlage=A&z=2009-01-01&g=2009-01-01) en [D](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&bijlage=D&z=2009-01-01&g=2009-01-01); of
+- c. in geval van een tenderbod, de gegevens, bedoeld in de [bijlagen A](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&bijlage=A&z=2011-01-01&g=2011-01-01) en [D](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&bijlage=D&z=2011-01-01&g=2011-01-01); of
 
-- d. in geval van een verplicht bod, de gegevens, bedoeld in de [bijlagen A](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&bijlage=A&z=2009-01-01&g=2009-01-01) en [E](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&bijlage=E&z=2009-01-01&g=2009-01-01); en
+- d. in geval van een verplicht bod, de gegevens, bedoeld in de [bijlagen A](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&bijlage=A&z=2011-01-01&g=2011-01-01) en [E](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&bijlage=E&z=2011-01-01&g=2011-01-01); en
 
 de gegevens niet met elkaar in strijd zijn of in tegenspraak zijn met andere bij de Autoriteit Financiële Markten aanwezige informatie omtrent de doelvennootschap of de bieder, en in een voor een redelijk geïnformeerde en zorgvuldig handelende persoon begrijpelijke vorm worden gepresenteerd.
 
-2. Indien een bod uitsluitend of mede strekt tot overneming van effecten in ruil voor door de bieder of door een andere vennootschap dan de bieder uitgegeven effecten, keurt de Autoriteit Financiële Markten het biedingsbericht goed, indien het naast de toepasselijke gegevens, bedoeld in het eerste lid, de in [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&bijlage=F&z=2009-01-01&g=2009-01-01) opgenomen gegevens bevat en de gegevens niet met elkaar in strijd zijn of in tegenspraak zijn met andere bij de Autoriteit Financiële Markten aanwezige informatie omtrent de doelvennootschap of de bieder en worden gepresenteerd in een vorm die voor een redelijk geïnformeerde en zorgvuldig handelende persoon begrijpelijk is.
+2. Indien een bod uitsluitend of mede strekt tot overneming van effecten in ruil voor door de bieder of door een andere vennootschap dan de bieder uitgegeven effecten, keurt de Autoriteit Financiële Markten het biedingsbericht goed, indien het naast de toepasselijke gegevens, bedoeld in het eerste lid, de in [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&bijlage=F&z=2011-01-01&g=2011-01-01) opgenomen gegevens bevat en de gegevens niet met elkaar in strijd zijn of in tegenspraak zijn met andere bij de Autoriteit Financiële Markten aanwezige informatie omtrent de doelvennootschap of de bieder en worden gepresenteerd in een vorm die voor een redelijk geïnformeerde en zorgvuldig handelende persoon begrijpelijk is.
 
 ##### Artikel 9
 
@@ -186,7 +186,7 @@ de gegevens niet met elkaar in strijd zijn of in tegenspraak zijn met andere bij
 
 2. Terzake van een openbaar bod als bedoeld in het eerste lid kan de Autoriteit Financiële Markten de bieder door het geven van een aanwijzing verplichten aanvullende informatie in het biedingsbericht of in een aanvullend document op te nemen, indien die informatie specifiek is voor de Nederlandse financiële markten en betrekking heeft op de formaliteiten die moeten worden vervuld om het openbaar bod te aanvaarden of om de tegenprestatie te ontvangen die bij de gestanddoening van het openbaar bod verschuldigd is, dan wel betrekking heeft op voorschriften van belastingrecht die van toepassing zullen zijn op de tegenprestatie die aan de houders van effecten wordt geboden. De Autoriteit Financiële Markten besluit hiertoe uiterlijk vijf werkdagen na ontvangst van het biedingsbericht.
 
-3. Indien het biedingsbericht, bedoeld in het eerste lid, is opgesteld in een andere dan de Nederlandse of de Engelse taal kan de Autoriteit Financiële Markten de bieder door het geven van een aanwijzing verplichten een Nederlandse vertaling algemeen verkrijgbaar te stellen overeenkomstig het bepaalde in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2009-01-01&g=2009-01-01). Indien het biedingsbericht is opgesteld in de Engelse taal kan de Autoriteit Financiële Markten de bieder door het geven van een aanwijzing verplichten een Nederlandse samenvatting, die ten minste een verwijzing bevat naar het onderliggende biedingsbericht en de gegevens bedoeld in de onderdelen 4, 5, 6, 9, en 10 van paragraaf 1 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&bijlage=A&z=2009-01-01&g=2009-01-01). De vertaling wordt algemeen verkrijgbaar gesteld overeenkomstig [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2009-01-01&g=2009-01-01).
+3. Indien het biedingsbericht, bedoeld in het eerste lid, is opgesteld in een andere dan de Nederlandse of de Engelse taal kan de Autoriteit Financiële Markten de bieder door het geven van een aanwijzing verplichten een Nederlandse vertaling algemeen verkrijgbaar te stellen overeenkomstig het bepaalde in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2011-01-01&g=2011-01-01). Indien het biedingsbericht is opgesteld in de Engelse taal kan de Autoriteit Financiële Markten de bieder door het geven van een aanwijzing verplichten een Nederlandse samenvatting, die ten minste een verwijzing bevat naar het onderliggende biedingsbericht en de gegevens bedoeld in de onderdelen 4, 5, 6, 9, en 10 van paragraaf 1 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&bijlage=A&z=2011-01-01&g=2011-01-01). De vertaling wordt algemeen verkrijgbaar gesteld overeenkomstig [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2011-01-01&g=2011-01-01).
 
 ##### Artikel 12
 
@@ -198,7 +198,7 @@ de gegevens niet met elkaar in strijd zijn of in tegenspraak zijn met andere bij
 
 ##### Artikel 13
 
-1. Tussen het tijdstip waarop het openbaar bod is uitgebracht en het tijdstip waarop een openbare mededeling is gedaan omtrent de gestanddoening, doen de bieder en de doelvennootschap, met betrekking tot de door henzelf verrichte transacties, met uitzondering van in regelmatig verkeer op de markten in financiële instrumenten verrichte transacties, een openbare mededeling over transacties in de effecten waarop het openbaar bod betrekking heeft of of de effecten die in ruil worden aangeboden, dan wel van met betrekking tot die transacties gesloten overeenkomsten. In de melding wordt mededeling gedaan van de hoeveelheid en categorie of klasse van deze effecten, de daarvoor geldende voorwaarden, waaronder de prijs of ruilverhouding, en de omvang van de bestaande onderlinge rechtstreekse of middellijke kapitaaldeelnemingen.
+1. Tussen het tijdstip waarop het openbaar bod is uitgebracht en het tijdstip waarop een openbare mededeling is gedaan omtrent de gestanddoening, doen de bieder en de doelvennootschap, met betrekking tot de door henzelf verrichte transacties, met uitzondering van in regelmatig verkeer op de markten in financiële instrumenten verrichte transacties, een openbare mededeling over transacties in de effecten waarop het openbaar bod betrekking heeft of de effecten die in ruil worden aangeboden, dan wel van met betrekking tot die transacties gesloten overeenkomsten. In de melding wordt mededeling gedaan van de hoeveelheid en categorie of klasse van deze effecten, de daarvoor geldende voorwaarden, waaronder de prijs of ruilverhouding, en de omvang van de bestaande onderlinge rechtstreekse of middellijke kapitaaldeelnemingen.
 
 2. De openbare mededeling, bedoeld in het eerste lid, wordt telkens onverwijld gedaan nadat de betrokken transactie is verricht onderscheidenlijk de overeenkomst tot stand is gekomen, met dien verstande dat ten hoogste één keer per dag een openbare mededeling behoeft te worden gedaan. Het op de hoogte stellen van de Autoriteit Financiële Markten, overeenkomstig [artikel 5:25m, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25m), kan achterwege blijven, indien de bieder of de doelvennootschap een door hem verrichte transactie in effecten reeds heeft gemeld overeenkomstig [artikel 5:38](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:38), [5:40](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:40) of [5:60, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:60).
 
@@ -254,7 +254,7 @@ de gegevens niet met elkaar in strijd zijn of in tegenspraak zijn met andere bij
 
 2. De in het eerste lid, onder b, bedoelde termijn vangt aan op de eerste werkdag volgend op die van de openbare mededeling, bedoeld in de aanhef van het eerste lid, en is niet langer dan twee weken.
 
-3. Vanaf het tijdstip waarop de openbare mededeling over de gestanddoening wordt gedaan tot en met het tijdstip waarop de in het eerste lid, onder b, bedoelde termijn eindigt is [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=2&paragraaf=2.3&artikel=13&z=2009-01-01&g=2009-01-01) van overeenkomstige toepassing.
+3. Vanaf het tijdstip waarop de openbare mededeling over de gestanddoening wordt gedaan tot en met het tijdstip waarop de in het eerste lid, onder b, bedoelde termijn eindigt is [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=2&paragraaf=2.3&artikel=13&z=2011-01-01&g=2011-01-01) van overeenkomstige toepassing.
 
 4. De bieder doet uiterlijk op de derde werkdag na het einde van de in het eerste lid, onder b, bedoelde termijn een openbare mededeling over het aantal en het percentage van de effecten dat aangeboden is binnen deze termijn en het totale aantal en het totale percentage van de effecten dat in zijn bezit is.
 
@@ -266,7 +266,7 @@ de gegevens niet met elkaar in strijd zijn of in tegenspraak zijn met andere bij
 
 1. De doelvennootschap met zetel in Nederland waarop een volledig bod is uitgebracht roept haar aandeelhouders op voor een na de openbare mededeling van de verkrijgbaarstelling van het biedingsbericht en ten minste zes werkdagen voor het einde van de aanmeldingstermijn te houden algemene vergadering van aandeelhouders ter bespreking van het uitgebrachte openbaar bod.
 
-2. De doelvennootschap stelt uiterlijk vier werkdagen voor de in het eerste lid bedoelde vergadering een bericht voor haar aandeelhouders algemeen verkrijgbaar dat ten minste de in [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&bijlage=G&z=2009-01-01&g=2009-01-01) bedoelde informatie inhoudt.
+2. De doelvennootschap stelt uiterlijk vier werkdagen voor de in het eerste lid bedoelde vergadering een bericht voor haar aandeelhouders algemeen verkrijgbaar dat ten minste de in [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&bijlage=G&z=2011-01-01&g=2011-01-01) bedoelde informatie inhoudt.
 
 3. Over de algemeenverkrijgbaarstelling van het bericht, bedoeld in het tweede lid, doet de doelvennootschap een openbare mededeling.
 
@@ -274,29 +274,29 @@ de gegevens niet met elkaar in strijd zijn of in tegenspraak zijn met andere bij
 
 ##### Artikel 19
 
-De bieder betaalt, indien hij het volledig bod gestand doet, steeds voor alle ingevolge dat volledig bod aangemelde effecten de hoogste prijs die op grond van het biedingsbericht, al dan niet verhoogd op grond van [artikel 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=2&paragraaf=2.4&artikel=15&z=2009-01-01&g=2009-01-01), is geboden of op grond van een transactie als bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2009-01-01&g=2009-01-01), of [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=2&paragraaf=2.3&artikel=13&z=2009-01-01&g=2009-01-01), met uitzondering van in regelmatig verkeer op markten in financiële instrumenten tot stand gekomen transacties, is betaald.
+De bieder betaalt, indien hij het volledig bod gestand doet, steeds voor alle ingevolge dat volledig bod aangemelde effecten de hoogste prijs die op grond van het biedingsbericht, al dan niet verhoogd op grond van [artikel 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=2&paragraaf=2.4&artikel=15&z=2011-01-01&g=2011-01-01), is geboden of op grond van een transactie als bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2011-01-01&g=2011-01-01), of [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=2&paragraaf=2.3&artikel=13&z=2011-01-01&g=2011-01-01), met uitzondering van in regelmatig verkeer op markten in financiële instrumenten tot stand gekomen transacties, is betaald.
 
 #### § 3.2. Een partieel bod
 
 ##### Artikel 20
 
-1. De doelvennootschap met zetel in Nederland waarop een partieel bod is uitgebracht stelt uiterlijk vier werkdagen voor het einde van de aanmeldingstermijn een bericht voor haar aandeelhouders verkrijgbaar dat ten minste de in [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&bijlage=G&z=2009-01-01&g=2009-01-01) bedoelde informatie inhoudt.
+1. De doelvennootschap met zetel in Nederland waarop een partieel bod is uitgebracht stelt uiterlijk vier werkdagen voor het einde van de aanmeldingstermijn een bericht voor haar aandeelhouders verkrijgbaar dat ten minste de in [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&bijlage=G&z=2011-01-01&g=2011-01-01) bedoelde informatie inhoudt.
 
-2. [Artikel 18, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=3&paragraaf=3.1&artikel=18&z=2009-01-01&g=2009-01-01), is van overeenkomstige toepassing.
+2. [Artikel 18, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=3&paragraaf=3.1&artikel=18&z=2011-01-01&g=2011-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 21
 
 1. Indien de bieder na verkrijging van de naar aanleiding van het partieel bod aangeboden effecten direct of indirect ten minste over 30 procent van de stemrechten in de algemene vergadering van aandeelhouders van de doelvennootschap zal beschikken, doet hij zijn partieel bod gestand met hantering van een non-discriminatoire systematiek, waarbij ten hoogste 30 procent minus één stem van de stemrechten kan worden verkregen. Bij ministeriële regeling kunnen regels worden gesteld omtrent de systematiek van gestanddoening.
 
-2. [Artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=3&paragraaf=3.1&artikel=19&z=2009-01-01&g=2009-01-01) is van overeenkomstige toepassing.
+2. [Artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=3&paragraaf=3.1&artikel=19&z=2011-01-01&g=2011-01-01) is van overeenkomstige toepassing.
 
 #### § 3.3. Een tenderbod
 
 ##### Artikel 22
 
-1. De doelvennootschap met zetel in Nederland waarop een tenderbod is uitgebracht stelt, uiterlijk vier werkdagen voor het einde van de aanmeldingstermijn een bericht voor haar aandeelhouders verkrijgbaar dat ten minste de in [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&bijlage=G&z=2009-01-01&g=2009-01-01) bedoelde informatie inhoudt.
+1. De doelvennootschap met zetel in Nederland waarop een tenderbod is uitgebracht stelt, uiterlijk vier werkdagen voor het einde van de aanmeldingstermijn een bericht voor haar aandeelhouders verkrijgbaar dat ten minste de in [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&bijlage=G&z=2011-01-01&g=2011-01-01) bedoelde informatie inhoudt.
 
-2. [Artikel 18, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=3&paragraaf=3.1&artikel=18&z=2009-01-01&g=2009-01-01), is van overeenkomstige toepassing.
+2. [Artikel 18, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=3&paragraaf=3.1&artikel=18&z=2011-01-01&g=2011-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 23
 
@@ -314,7 +314,7 @@ De bieder stelt de gestanddoening van een verplicht bod niet afhankelijk van voo
 
 ##### Artikel 25
 
-1. Indien na de aankondiging van het verplicht bod en voor het einde van de aanmeldingstermijn, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=2&paragraaf=2.4&artikel=14&z=2009-01-01&g=2009-01-01), of, voor zover van toepassing, voor het einde van de verlengde aanmeldingstermijn, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=2&paragraaf=2.4&artikel=15&z=2009-01-01&g=2009-01-01), door de bieder of de personen waarmee deze in onderling overleg handelt effecten worden verkregen voor een hogere prijs dan de billijke prijs, bedoeld in [artikel 5:80a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:80a), verhoogt de bieder de prijs tot ten minste de hoogste prijs die is betaald voor de aldus verworven effecten.
+1. Indien na de aankondiging van het verplicht bod en voor het einde van de aanmeldingstermijn, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=2&paragraaf=2.4&artikel=14&z=2011-01-01&g=2011-01-01), of, voor zover van toepassing, voor het einde van de verlengde aanmeldingstermijn, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=2&paragraaf=2.4&artikel=15&z=2011-01-01&g=2011-01-01), door de bieder of de personen waarmee deze in onderling overleg handelt effecten worden verkregen voor een hogere prijs dan de billijke prijs, bedoeld in [artikel 5:80a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:80a), verhoogt de bieder de prijs tot ten minste de hoogste prijs die is betaald voor de aldus verworven effecten.
 
 2. Indien de bieder in de periode van een jaar voorafgaand aan de aankondiging van het verplichte bod geen effecten heeft verworven van dezelfde categorie of klasse als waarop het verplicht bod betrekking heeft, is de billijke prijs gelijk aan de prijs van de gemiddelde beurskoers van die effecten op de markten in financiële instrumenten waarop de effecten in die periode toegelaten waren tot de handel.
 
@@ -330,7 +330,7 @@ De bieder stelt de gestanddoening van een verplicht bod niet afhankelijk van voo
 
 2. De billijke prijs kan uitsluitend in effecten luiden, indien het een categorie of klasse van effecten betreft die liquide is en tot de handel op een gereglementeerde markt is toegelaten.
 
-3. De billijke prijs luidt in elk geval ook in geld indien de bieder, alleen of gezamenlijk met de personen waarmee deze in onderling overleg handelt, gedurende de in [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=3&paragraaf=3.4&artikel=25&z=2009-01-01&g=2009-01-01), bedoelde periode, tegen contante betaling effecten waaraan vijf procent of meer van de stemrechten in de algemene vergadering van de doelvennootschap is verbonden, heeft verkregen.
+3. De billijke prijs luidt in elk geval ook in geld indien de bieder, alleen of gezamenlijk met de personen waarmee deze in onderling overleg handelt, gedurende de in [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=3&paragraaf=3.4&artikel=25&z=2011-01-01&g=2011-01-01), bedoelde periode, tegen contante betaling effecten waaraan vijf procent of meer van de stemrechten in de algemene vergadering van de doelvennootschap is verbonden, heeft verkregen.
 
 ### Hoofdstuk 4. Informatieverstrekking aan werknemers of vertegenwoordigers daarvan
 
@@ -338,7 +338,7 @@ De bieder stelt de gestanddoening van een verplicht bod niet afhankelijk van voo
 
 1. De doelvennootschap met zetel in Nederland stelt onverwijld na de algemeenverkrijgbaarstelling van het biedingsbericht de vertegenwoordigers van haar werknemers of, bij ontstentenis van die vertegenwoordigers, de werknemers zelf van het openbaar bod in kennis, onder gelijktijdige terbeschikkingstelling van het biedingsbericht.
 
-2. Een bericht als bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=3&paragraaf=3.1&artikel=18&z=2009-01-01&g=2009-01-01), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=3&paragraaf=3.2&artikel=20&z=2009-01-01&g=2009-01-01) of [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=3&paragraaf=3.3&artikel=22&z=2009-01-01&g=2009-01-01), wordt gelijktijdig met het algemeen verkrijgbaar stellen ervan verstrekt aan de vertegenwoordigers van de werknemers van de doelvennootschap of, bij ontstentenis van zodanige vertegenwoordigers, aan de werknemers van de doelvennootschap zelf.
+2. Een bericht als bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=3&paragraaf=3.1&artikel=18&z=2011-01-01&g=2011-01-01), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=3&paragraaf=3.2&artikel=20&z=2011-01-01&g=2011-01-01) of [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=3&paragraaf=3.3&artikel=22&z=2011-01-01&g=2011-01-01), wordt gelijktijdig met het algemeen verkrijgbaar stellen ervan verstrekt aan de vertegenwoordigers van de werknemers van de doelvennootschap of, bij ontstentenis van zodanige vertegenwoordigers, aan de werknemers van de doelvennootschap zelf.
 
 ### Hoofdstuk 5. Wijzigingen van andere besluiten
 
@@ -368,7 +368,7 @@ Wijzigt het Besluit artikel 10 overnamerichtlijn.
 
 ##### Artikel 33
 
-De bedragen, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=5&artikel=28&z=2009-01-01&g=2009-01-01) worden in afwijking van [artikel 9 van het Besluit bekostiging financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0007708&artikel=9) in het jaar 2007 vastgesteld binnen vier weken na inwerkingtreding van dit besluit.
+De bedragen, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=5&artikel=28&z=2011-01-01&g=2011-01-01) worden in afwijking van [artikel 9 van het Besluit bekostiging financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0007708&artikel=9) in het jaar 2007 vastgesteld binnen vier weken na inwerkingtreding van dit besluit.
 
 ##### Artikel 34
 
@@ -394,11 +394,11 @@ Dit besluit wordt aangehaald als: Besluit openbare biedingen Wft.
 
 3. De verklaring dat aan alle rechthebbenden van dezelfde categorie of klasse effecten hetzelfde openbaar bod wordt gedaan.
 
-4. De aanmeldingstermijn en de wijze waarop rechthebbenden hun effecten kunnen aanbieden alsmede de vermelding dat de aanmeldingstermijn kan worden verlengd in overeenstemming met [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=2&paragraaf=2.4&artikel=15&z=2009-01-01&g=2009-01-01).
+4. De aanmeldingstermijn en de wijze waarop rechthebbenden hun effecten kunnen aanbieden alsmede de vermelding dat de aanmeldingstermijn kan worden verlengd in overeenstemming met [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=2&paragraaf=2.4&artikel=15&z=2011-01-01&g=2011-01-01).
 
 5. Een regeling met betrekking tot de levering en betaling van aangeboden effecten, alsmede welke instelling optreedt als betaal- en wisselkantoor.
 
-6. Een mededeling over de wijze van financiering van het openbaar bod waarbij, voor zover van toepassing, de op grond van [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2009-01-01&g=2009-01-01), verstrekte informatie omtrent de vergoeding wordt beschreven of naar die informatie wordt verwezen.
+6. Een mededeling over de wijze van financiering van het openbaar bod waarbij, voor zover van toepassing, de op grond van [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2011-01-01&g=2011-01-01), verstrekte informatie omtrent de vergoeding wordt beschreven of naar die informatie wordt verwezen.
 
 7. De aan het bod ten grondslag liggende motieven en de voornemens met betrekking tot het voortzetten van de activiteiten en de plaats van vestiging van de doelvennootschap en, voor zover beïnvloed door het openbaar bod, van de bieder. Indien dat mogelijk is voor de bieder worden deze voornemens voorzien van een cijfermatige onderbouwing, welke in het bijzonder betrekking hebben op de financiële vooruitzichten van voortzetting van die activiteiten.
 
