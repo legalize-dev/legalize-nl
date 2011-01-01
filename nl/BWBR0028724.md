@@ -4,7 +4,7 @@ identifier: "BWBR0028724"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2013-07-01"
-last_updated: "2010-10-10"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028724"
 soort: "wet-BES"
@@ -37,11 +37,11 @@ entry_into_force: "2010-10-10"
 
 ##### Artikel 1
 
-In deze landsverordening wordt verstaan:
+In deze wet wordt verstaan:
 
-- –. onder werkgever, ieder natuurlijk of rechtspersoon, die anderen in dienst heeft. Voor de toepassing van deze verordening worden de Nederlandse Antillen en de eilandgebieden, zoomede de Nederlandsche Regeering en de burgerlijke en/of militaire autoriteiten van geallieerde mogendheden als werkgever in den zin van dit artikel aangemerkt en wordt voor zooveel betreft den werkgever, die in een eilandgebied arbeiders in dienst heeft, doch elders woont of gevestigd is, diens vertegenwoordiger of agent in het eilandgebied als werkgever beschouwd;
+- –. onder **werkgever**, ieder natuurlijk of rechtspersoon, die anderen in dienst heeft. Voor de toepassing van deze wet worden de openbare lichamen Bonaire, Sint Eustatius en Saba, als ook de Nederlandse regering als werkgever in de zin van dit artikel aangemerkt en wordt voor de werkgever, die in de openbare lichamen Bonaire, Sint Eustatius en Saba arbeiders in dienst heeft, doch elders woont of gevestigd is, diens vertegenwoordiger of agent in de openbare lichamen Bonaire, Sint Eustatius en Saba als werkgever beschouwd;
 
-- –. onder arbeider, ieder die in dienst van den werkgever tegen loon werkzaam is. Voor de toepassing van deze verordening worden, hoewel zij geen loon ontvangen, als arbeider beschouwd: volontairs, leerlingen en dergelijke personen, die in verband met hun opleiding nog geen loon ontvangen.
+- –. onder arbeider, ieder die in dienst van den werkgever tegen loon werkzaam is. Voor de toepassing van deze wet worden, hoewel zij geen loon ontvangen, als arbeider beschouwd: volontairs, leerlingen en dergelijke personen, die in verband met hun opleiding nog geen loon ontvangen.
 
 - –. Niet als arbeider worden beschouwd:
 
@@ -61,33 +61,33 @@ In deze landsverordening wordt verstaan:
 
 - –. onder arbeid, alle werkzaamheden, verricht in dienst van den werkgever;
 
-- –. onder loon, elke uitkeering, welke de arbeider als vergoeding voor zijn arbeid van den werkgever ontvangt, uitgezonderd overwerk- en premiegelden; indien het loon geheel of gedeeltelijk bestaat in huisvesting, verstrekkingen in natura of wel in beide, wordt de geldswaarde geschat; als loon volgens deze verordening gelden tevens alle ontvangsten in geld van derden, welke verband houden met ten behoeve van den werkgever verrichten arbeid.
+- –. onder loon, elke uitkeering, welke de arbeider als vergoeding voor zijn arbeid van den werkgever ontvangt, uitgezonderd overwerk- en premiegelden; indien het loon geheel of gedeeltelijk bestaat in huisvesting, verstrekkingen in natura of wel in beide, wordt de geldswaarde geschat; als loon volgens deze wet gelden tevens alle ontvangsten in geld van derden, welke verband houden met ten behoeve van den werkgever verrichten arbeid.
 
 ##### Artikel 2
 
-1. De bepalingen dezer verordening zijn ook van toepassing:
+1. De bepalingen van deze wet zijn ook van toepassing:
 
-- a. op den werkgever, die in een eilandgebied gevestigd is, ten aanzien van den arbeider, dien hij buiten het eilandgebied bezigt, zoo deze Nederlander of Nederlandsch onderdaan is en zijn woonplaats in de Nederlandse Antillen heeft;
+- a. op de werkgever, die in het openbaar lichaam Bonaire, Sint Eustatius of Saba gevestigd is, ten aanzien van de arbeider, die hij buiten de openbare lichamen Bonaire, Sint Eustatius en Saba te werk stelt, indien deze Nederlander is en zijn woonplaats in de openbare lichamen Bonaire, Sint Eustatius en Saba heeft;
 
-- b. op den onder a bedoelden arbeider.
+- b. op de onder a bedoelde arbeider.
 
-2. De bepalingen dezer verordening zijn niet van toepassing:
+2. De bepalingen van deze wet zijn niet van toepassing:
 
-- a. op den werkgever, die buiten een eilandgebied gevestigd is, ten aanzien van den arbeider, dien hij in het eilandgebied bezigt, zoo deze geen Nederlander of Nederlandsch onderdaan is en zijn woonplaats buiten de Nederlandse Antillen heeft;
+- a. op de werkgever, die niet in de openbare lichamen Bonaire, Sint Eustatius of Saba gevestigd is, ten aanzien van de arbeider, die hij in de openbare lichamen Bonaire, Sint Eustatius en Saba te werk stelt, indien deze geen Nederlander is en zijn woonplaats niet in de openbare lichamen Bonaire, Sint Eustatius en Saba heeft;
 
-- b. op den onder a bedoelden arbeider.
+- b. op de onder a bedoelde arbeider.
 
-3. Voor arbeiders, zijnde Nederlander of Nederlandsch onderdaan, die zich buitenslands bevinden, kan de Gouverneur bij Besluit afwijkende voorschriften geven.
+3. Voor arbeiders, zijnde Nederlander, die zich niet in de openbare lichamen Bonaire, Sint Eustatius en Saba bevinden, kunnen bij algemene maatregel van bestuur andere voorschriften worden gegeven.
 
 ##### Artikel 3
 
-1. De arbeider is behoudens vrijstelling zoals bedoeld in lid 6 van dit artikel, verplicht een werkboekje te hebben, hetwelk hem wordt uitgereikt vanwege het bestuurscollege.
+1. De arbeider is behoudens vrijstelling als bedoeld in het zesde lid van dit artikel, verplicht een werkboekje te hebben, hetwelk hem wordt uitgereikt vanwege het bestuurscollege.
 
-2. Bij eilandsbesluit, houdende algemene maatregelen, wordt alles geregeld wat de vorm en de uitgifte van het werkboekje betreft, alsmede de prijs ervan.
+2. Bij eilandsbesluit, houdende algemene maatregelen wordt alles geregeld wat de vorm en de uitgifte van het werkboekje betreft, alsmede de prijs ervan.
 
 3. Het werkboekje vermeldt de namen, de voornamen, den geboortedatum, de plaats van geboorte, het geslacht, de woonplaats, de nationaliteit, den burgerlijken staat, het aantal kinderen tot wie hij in familierechtelijke betrekking staat, welke te zijnen laste zijn en het beroep of ambacht van den arbeider. Indien de geboortedatum of de nationaliteit niet vaststaat, wordt zulks in het werkboekje aangeteekend.
 
-4. Het werkboekje, hetwelk binnen twee maal vier en twintig uren, nadat de dienstbetrekking een aanvang heeft genomen, aan den werkgever overhandigd moet worden, blijft tot op het tijdstip, in [artikel 8, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028724&artikel=8&z=2010-10-10&g=2010-10-10) bepaald, onder berusting van den werkgever. De houder van het werkboekje moet dit op aanvrage van de controleerende ambtenaren onmiddellijk ter inzage toonen.
+4. Het werkboekje, hetwelk binnen twee maal vier en twintig uren, nadat de dienstbetrekking een aanvang heeft genomen, aan den werkgever overhandigd moet worden, blijft tot op het tijdstip, in [artikel 8, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028724&artikel=8&z=2011-01-01&g=2011-01-01) bepaald, onder berusting van den werkgever. De houder van het werkboekje moet dit op aanvrage van de controleerende ambtenaren onmiddellijk ter inzage toonen.
 
 5. Bij verlies of in ongereede raken van het werkboekje kan een nieuw boekje worden uitgereikt. Indien aan den arbeider een of meer werkboekjes reeds werden uitgereikt, moet het nieuwe daarvan melding maken.
 
@@ -103,11 +103,11 @@ In deze landsverordening wordt verstaan:
 
 ##### Artikel 5
 
-Van iedere wijziging in de persoonlijke gegevens, zooals bedoeld in [artikel 3, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028724&artikel=3&z=2010-10-10&g=2010-10-10), wordt door of namens den arbeider binnen tien dagen, nadat die wijziging heeft plaats gevonden, aangifte gedaan bij de autoriteit, die hem het werkboekje heeft uitgereikt.
+Van iedere wijziging in de persoonlijke gegevens, zooals bedoeld in [artikel 3, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028724&artikel=3&z=2011-01-01&g=2011-01-01), wordt door of namens den arbeider binnen tien dagen, nadat die wijziging heeft plaats gevonden, aangifte gedaan bij de autoriteit, die hem het werkboekje heeft uitgereikt.
 
 ##### Artikel 6
 
-1. Het is den werkgever verboden een arbeider in zijn dienst te hebben, die niet voldoet aan het gestelde in [artikel 3, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028724&artikel=3&z=2010-10-10&g=2010-10-10), dezer verordening.
+1. Het is den werkgever verboden een arbeider in zijn dienst te hebben, die niet voldoet aan het gestelde in [artikel 3, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028724&artikel=3&z=2011-01-01&g=2011-01-01), dezer wet.
 
 2. De werkgever is verplicht binnen acht maal vier en twintig uren, nadat hij een arbeider in zijn dienst heeft genomen, hiervan melding te maken in het werkboekje van den arbeider. Deze verplichting bestaat niet, indien de dienstverhouding minder dan zes achtereenvolgende dagen (Zon- en feestdagen niet medegerekend) heeft geduurd. Indien de werkgever den dag van indiensttreding heeft ingeschreven, moet hij ook den dag van uitdiensttreding inschrijven. Onder feestdagen worden ten deze verstaan de Nieuwjaarsdag, Goede Vrijdag, Christelijke tweede Paaschdag, Hemelvaartsdag, Christelijke tweede Pinksterdag, Verjaardag der Koningin en de beide Kerstdagen.
 
@@ -131,15 +131,15 @@ Het is den werkgever verboden anders dan de dagteekening der indienst- en der ui
 
 1. De werkgever is voorts verplicht:
 
-- a. een arbeidsregister aan te houden, dat voldoet aan de bij landsbesluit, houdende algemene maatregelen te geven voorschriften;
+- a. een arbeidsregister aan te houden, dat voldoet aan de bij ministeriële regeling te geven voorschriften;
 
 - b. den daartoe bevoegd verklaarden ambtenaar te allen tijde inzage van het arbeidsregister te geven;
 
 - c. op verzoek van of vanwege het bestuurscollege binnen een door laatstgenoemde te stellen termijn, een uittreksel van het register in een door dezen gewenschten vorm te verstrekken.
 
-- d. het bestuurscollege of de door dit college aangewezen ambtenaar binnen twee maal 24 uren in kennis te stellen van het aangaan of verbreken van een dienstbetrekking met een arbeider. De aangifte geschiedt op een wijze, nader bij eilandsbesluit houdende algemene maatregelen2 te regelen;
+- d. het bestuurscollege of de door dit college aangewezen ambtenaar binnen twee maal 24 uren in kennis te stellen van het aangaan of verbreken van een dienstbetrekking met een arbeider. De aangifte geschiedt op een wijze, nader bij eilandsbesluit houdende algemene maatregelen te regelen;
 
-- e. het bestuurscollege of de door dit college aangewezen ambtenaar maandelijks vóór den vijftienden van de wijzigingen in het loon van de arbeiders over de voorafgaande maand in kennis te stellen op een wijze, nader bij eilandsbesluit houdende algemene maatregelen te regelen.
+- e. het bestuurscollege of de door dit college aangewezen ambtenaar maandelijks vóór de vijftiende van de wijzigingen in het loon van de arbeiders over de voorafgaande maand in kennis te stellen op een wijze, nader bij eilandsbesluit houdende algemene maatregelen te regelen.
 
 2. Het in sub 1a bedoelde register vermeldt de namen, de voornamen, den geboortedatum, de plaats van geboorte, de woonplaats, de nationaliteit, het geslacht, den burgerlijken staat, het aantal kinderen tot wie hij in familierechtelijke betrekking staat, welke te zijnen laste zijn, het beroep, ambacht of de functie van alle in zijn dienst zijnde arbeiders, de met hen overeengekomen loonsbedragen, alsmede den datum van indiensttreding en na beëindiging der dienstbetrekking den datum van uitdiensttreding dezer arbeiders, echter met uitzondering van arbeiders, die huiselijke diensten verrichten.
 
@@ -149,7 +149,7 @@ Het is den werkgever verboden anders dan de dagteekening der indienst- en der ui
 
 ##### Artikel 9a
 
-1. Met het toezicht op de naleving van het bij of krachtens deze landsverordening bepaalde zijn belast de daartoe bij landsbesluit aangewezen personen. Een zodanige aanwijzing wordt bekendgemaakt in de Curaçaosche Courant.
+1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de daartoe bij besluit van Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen personen.
 
 2. De krachtens het eerste lid aangewezen personen zijn, uitsluitend voor zover dat voor de vervulling van hun taak redelijkerwijze noodzakelijk is, bevoegd:
 
@@ -161,7 +161,7 @@ Het is den werkgever verboden anders dan de dagteekening der indienst- en der ui
 
 3. Zo nodig, wordt de toegang tot een plaats als bedoeld in het tweede lid, onderdeel c, verschaft met behulp van de sterke arm.
 
-4. Bij landsbesluit, houdende algemene maatregelen, kunnen regels worden gesteld met betrekking tot de wijze van taakuitoefening van de krachtens het eerste lid aangewezen personen.
+4. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze van taakuitoefening van de krachtens het eerste lid aangewezen personen.
 
 5. Een ieder is verplicht aan de krachtens het eerste lid aangewezen personen alle medewerking te verlenen die op grond van het tweede lid wordt gevorderd.
 
@@ -169,7 +169,7 @@ Het is den werkgever verboden anders dan de dagteekening der indienst- en der ui
 
 ##### Artikel 10
 
-Niet naleving van een van de voorschriften dezer landsverordening of van de voorschriften door het bestuurscollege uit te vaardigen krachtens de [artikelen 2, lid 3 en 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028724&artikel=2&z=2010-10-10&g=2010-10-10), leden 1a, d en e, wordt gestraft met hechtenis van ten hoogste een maand of geldboete van ten hoogste tweehonderd gulden.
+Niet naleving van een van de voorschriften van deze wet of van de voorschriften door het bestuurscollege uit te vaardigen krachtens de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028724&artikel=2&z=2011-01-01&g=2011-01-01), en [9, leden 1a, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0028724&artikel=9&z=2011-01-01&g=2011-01-01), wordt gestraft met hechtenis van ten hoogste een maand of een geldboete van de eerste categorie.
 
 ##### Artikel 11
 
@@ -181,13 +181,13 @@ Niet naleving van een van de voorschriften dezer landsverordening of van de voor
 
 ##### Artikel 13
 
-De bij deze landsverordening strafbaar gestelde feiten worden als overtredingen beschouwd.
+De bij deze wet strafbaar gestelde feiten worden als overtredingen beschouwd.
 
 ## Slotbepalingen
 
 ##### Artikel 14
 
-Deze landsverordening kan aangehaald worden als «Landsverordening tot inschrijving van arbeidskrachten» onder bijvoeging van het jaartal van het publicatieblad waarin zij geplaatst is.
+Deze wet wordt aangehaald als: Wet tot inschrijving van arbeidskrachten 1945 BES.
 
 ##### Artikel 15
 
