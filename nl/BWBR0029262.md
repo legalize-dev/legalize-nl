@@ -849,21 +849,3 @@ Van ruwe en van gedeeltelijk tot verbruik bereide tabak die wordt vervoerd moet 
 2. Dit besluit wordt aangehaald als: Uitvoeringsbesluit Douane- en Accijnswet BES.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 3.7a
-
-1. Teruggaaf van accijns voor accijnsgoederen die verloren zijn gegaan door niet te voorziene omstandigheden of overmacht, wordt verleend indien de goederen tot een bedrijfsvoorraad behoren en de belanghebbende onverwijld nadat is geconstateerd dat de accijnsgoederen zijn verloren gegaan, daarvan melding doet bij de inspecteur.
-
-2. De soort, de hoeveelheid en de voor de berekening van de teruggaaf van belang zijnde samenstelling van de accijnsgoederen die zijn verloren gegaan, alsmede het tijdstip waarop en de oorzaak waardoor de accijnsgoederen verloren zijn gegaan, dienen door de belanghebbende te worden aangetoond.
-
-##### Artikel 3.7b
-
-Voor de toepassing van de teruggaaf voor onder ambtelijk toezicht vernietigde accijnsgoederen is [artikel 3.7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029262&hoofdstuk=3&artikel=3.7a&z=2025-01-01&g=2025-01-01), van overeenkomstige toepassing.
-
-##### Artikel 3.7c
-
-Teruggaaf van accijns voor accijnsgoederen die zijn gebracht binnen een accijnsgoederenplaats die voor dat soort accijnsgoed als zodanig is aangewezen, wordt verleend aan de vergunninghouder van de accijnsgoederenplaats waarnaar de goederen zijn overgebracht indien uit de administratie blijkt dat de goederen in zijn accijnsgoederenplaats zijn opgenomen.
-
-### Hoofdstuk 4. Slotbepaling
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
