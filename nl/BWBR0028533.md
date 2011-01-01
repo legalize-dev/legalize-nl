@@ -4,7 +4,7 @@ identifier: "BWBR0028533"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2022-07-01"
-last_updated: "2010-10-10"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028533"
 soort: "AMvB-BES"
@@ -35,39 +35,51 @@ entry_into_force: "2011-01-01"
 ---
 # Besluit uitbreiding en beperking kring verzekerden volksverzekeringen BES
 
-##### Artikel 1
+##### Artikel 1. Uitbreiding kring verzekerden
 
-Als verzekerde in de zin van de Landsverordening Algemene Ouderdomsverzekering (P.B. 1960, no. 83) wordt aangemerkt, mits de betrokkene de leeftijd van 15 jaar, doch nog niet die van 60 jaar heeft bereikt en niet reeds ingevolge het eerste lid van artikel 5 van die landsverordening verzekerd is:
+De volgende personen, die de leeftijd van vijftien jaar, doch nog niet die van 27 jaar hebben bereikt en die niet op grond van [artikel 5, eerste lid, van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=5) zijn verzekerd, zijn verzekerd op grond van de [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459):
 
-- a. het buiten de Nederlandse Antillen wonende kind, voor hetwelk degene, die voldoet aan de in artikel 5, eerste lid onder c van de Landsverordening Algemene Ouderdomsverzekering (P.B. 1960, no. 83) gestelde voorwaarden, aanspraak heeft op kinderaftrek ingevolge de Landsverordening op de inkomstenbelasting 1943;
+- a. het buiten de openbare lichamen Bonaire, Sint Eustatius of Saba wonende kind, voor wie degene, die voldoet aan [artikel 5, eerste lid, onderdeel c, van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=5), recht heeft op kindertoeslag op grond van de [Wet inkomstenbelasting BES](onbekend);
 
-- b. het buiten de Nederlandse Antillen wonende kind, voor hetwelk een ingezetene aanspraak op kinderaftrek heeft ingevolge de Landsverordening op de inkomstenbelasting 1943.
+- b. het buiten de openbare lichamen Bonaire, Sint Eustatius of Saba wonende kind, voor wie een ingezetene van de openbare lichamen Bonaire, Sint Eustatius of Saba recht heeft op kindertoeslag op grond van de [Wet inkomstenbelasting BES](onbekend).
 
-##### Artikel 2
+##### Artikel 2. Beperking kring verzekerden
 
-Niet wordt als verzekerde in de zin van de Landsverordening Algemene Ouderdomsverzekering (P.B. 1960, no. 83) aangemerkt:
+Niet verzekerd op grond van de [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459) is:
 
-- a. de ingezetene, die buiten de Nederlandse Antillen in dienstbetrekking arbeid verricht en terzake van die arbeid krachtens een in het land, waar hij werkt, geldende wettelijke regeling inzake geldelijke gevolgen van ouderdom verzekerd is;
+- a. de ingezetene, die buiten de openbare lichamen Bonaire, Sint Eustatius of Saba in dienstbetrekking arbeid verricht en ten aanzien van die arbeid op grond van een een in het land, waar hij werkt, geldende wettelijke regeling voor de geldelijke gevolgen van ouderdom is verzekerd;
 
-- b. degene, die niet geacht kan worden blijvend binnen de Nederlandse Antillen te wonen en die terzake van binnen de Nederlandse Antillen verrichte arbeid wedde of loon geniet ten laste van door de Minister van Arbeid en Sociale Zaken aan te wijzen internationale organisaties;
+- b. degene, die niet geacht kan worden blijvend binnen de openbare lichamen Bonaire, Sint Eustatius of Saba te wonen en die voor binnen de openbare lichamen Bonaire, Sint Eustatius of Saba verrichte arbeid wedde of loon geniet ten laste van bij ministeriële regeling aan te wijzen internationale organisaties;
 
-- c. degene, die niet geacht kan worden blijvend binnen de Nederlandse Antillen te wonen en die verzekerd is krachtens een buitenlandse wettelijke regeling inzake geldelijke gevolgen van ouderdom, in de gevallen door de Minister van Sociale Zaken aan te wijzen
+- c. degene, voor wie bij ministeriële regeling is bepaald dat hij niet geacht kan worden blijvend binnen de openbare lichamen Bonaire, Sint Eustatius of Saba te wonen en die is verzekerd op grond van een buiten de openbare lichamen Bonaire, Sint Eustatius of Saba geldende wettelijke regeling voor de geldelijke gevolgen van ouderdom;
 
-- d. het eigen, het aangehuwde of het pleegkind van degene, die ingevolge artikel 5 tweede lid van de Landsverordening Algemene Ouderdomsverzekering (P.B. 1960, no. 83) of ingevolge het in dit artikel onder b en c bepaalde niet verzekerd is, mits het kind binnen de Nederlandse Antillen geen bedrijf of beroep uitoefent, nóch aan de inkomstenbelasting is onderworpen;
+- d. het eigen, het aangehuwde of het pleegkind van degene, die op grond van [artikel 5, tweede lid, van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=5) of op grond van onderdeel b of c niet is verzekerd, mits het kind binnen de openbare lichamen Bonaire, Sint Eustatius of Saba geen bedrijf of beroep uitoefent, noch inkomstenbelasting op grond van de [Wet inkomstenbelasting BES](onbekend) is verschuldigd;
 
-- e. degene, die buiten de Nederlandse Antillen woont en in de regel slechts gedurende korte tijd wordt geëngageerd om binnen de Nederlandse Antillen op te treden:
+- e. degene, die buiten de openbare lichamen Bonaire, Sint Eustatius of Saba woont en gewoonlijk slechts gedurende korte tijd wordt geëngageerd om binnen de openbare lichamen Bonaire, Sint Eustatius of Saba te werken als:
 
-- 1. als leider of lid van een orkest, als solist, gastdirigent, voordrachtkunstenaar, goochelaar of anderszins als musicus of artiest;
+- 1°. leider of lid van een orkest, als solist, gastdirigent, voordrachtskunstenaar, goochelaar of anderszins als musicus of artiest;
 
-- 2. als wielrenner, worstelaar, bokser of in het algemeen tot het als beroep uitoefenen van een tak van sport.
+- 2°. wielrenner, worstelaar, bokser of in het algemeen tot het als beroep uitoefenen van een tak van sport.
 
-##### Artikel 3
+- f. de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-[vervallen]
+##### Artikel 3. Gelijkstelling met Nederlanders
 
-##### Artikel 4
+Voor de toepassing van [artikel 42 van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=42) worden, zolang zij binnen de openbare lichamen Bonaire, Sint Eustatius of Saba wonen, met Nederlanders gelijkgesteld niet-Nederlanders, die na het bereiken van de leeftijd van twintig jaar gedurende ten minste vijftien jaar, al dan niet onafgebroken,in Aruba, Curaçao, Sint Maarten, of de openbare lichamen Bonaire, Sint Eustatius of Saba hebben gewoond, mits zij gedurende de vijf jaar voorafgaand aan het bereiken van de leeftijd van 65 jaar onafgebroken binnen de openbare lichamen Bonaire, Sint Eustatius of Saba hebben gewoond.
 
-Dit landsbesluit treedt in werking met ingang van de dag, waarop artikel 5 der Landsverordening Algemene Ouderdomsverzekering (P.B. 1960, no. 83) in werking treedt.
+##### Artikel 4. Gelijkstelling met wonen binnen de openbare lichamen Bonaire, Sint Eustatius en Saba
+
+Voor toepassing van de [artikelen 40](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=40) en [41 van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=41) wordt met het wonen binnen de openbare lichamen Bonaire, Sint Eustatius of Saba gelijkgesteld:
+
+- a. het wonen in het voormalige Nederlands-Indië;
+
+- b. het wonen in Indonesië, voor zover dit heeft plaats gevonden voor 27 september 1949 en voor zover de betrokkene Indonesië heeft verlaten vóór 28 december 1964;
+
+- c. het wonen in Indonesië van een gehuwde of gehuwd geweest zijnde vrouw, die zelf niet, doch wier echtgenoot of gewezen echtgenoot, wel op 27 december 1949 in Indonesië woonde, gedurende de tijd, dat zij dezelfde woonplaats had als haar echtgenoot of gewezen echtgenoot vóórdat deze vrouw na 27 december 1949 Indonesië voor de eerste maal niet meer in Indonesië woonde, mits zij Indonesië vóór 28 december 1964 heeft verlaten;
+
+- d. het wonen buiten Aruba, Curaçao, Sint Maarten, of de openbare lichamen Bonaire, Sint Eustatius of Saba gedurende de tijd dat de betrokkene als Nederlander voor buiten Aruba, Curaçao, Sint Maarten, of de openbare lichamen Bonaire, Sint Eustatius of Saba verrichte arbeid wedde of loon genoot ten laste van Aruba, Curaçao, Sint Maarten, of de openbare lichamen Bonaire, Sint Eustatius of Saba, terwijl hij niet geacht kon worden blijvend buiten Aruba, Curaçao, Sint Maarten, of de openbare lichamen Bonaire, Sint Eustatius of Saba te wonen;
+
+- e. het wonen buiten Aruba, Curaçao, Sint Maarten, of de openbare lichamen Bonaire, Sint Eustatius of Saba van de gehuwde of gehuwd geweest zijnde vrouw gedurende de tijd, dat haar echtgenoot aan in onderdeel d gestelde voorwaarden voldeed en zij dezelfde woonplaats als haar echtgenoot, dan wel gewezen echtgenoot had, evenals het wonen buiten Aruba, Curaçao, Sint Maarten, of de openbare lichamen Bonaire, Sint Eustatius of Saba van de vrouw, wier overleden echtgenoot op de dag van zijn overlijden aan de in onderdeel d gestelde voorwaarden voldeed, gedurende zes maanden of een door Onze Minister te bepalen langere termijn na de dag van overlijden.
 
 #### § 1. Uitbreiding en beperking kring van verzekerden [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459)
 
@@ -118,11 +130,3 @@ Dit besluit berust op de [artikelen 5, derde en vierde lid](https://wetten.overh
 ##### Artikel 9. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit uitbreiding en beperking kring verzekerden volksverzekeringen BES.
-
-##### Artikel 1a. Uitbreiding kring verzekerden bij studeren in het Europese deel van Nederland
-
-Verzekerd op grond van de [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459) blijft de persoon die uitsluitend om studieredenen in Nederland woont en direct daaraan voorafgaand woonde in de openbare lichamen Bonaire, Sint Eustatius of Saba, zolang die persoon niet in Nederland werkt.
-
-#### § 2. Uitbreiding en beperking kring van verzekerden [Wet algemene weduwen en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387)
-
-#### § 3. Slotbepalingen
