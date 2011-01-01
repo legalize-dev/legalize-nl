@@ -139,13 +139,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2011.
 Deze regeling wordt aangehaald als: Regeling volksverzekeringen BES.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a. Aanvulling wettelijke grondslag
-
-Deze regeling berust mede op [artikel 8, tweede lid, van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=8).
-
-#### § 2. Beperking kring verzekerden algemene ouderdomsverzekering en algemene weduwen- en wezenverzekering
-
-#### § 3. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
