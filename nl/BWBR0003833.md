@@ -4,7 +4,7 @@ identifier: "BWBR0003833"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-04-01"
-last_updated: "2007-02-21"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003833"
 soort: "AMvB"
@@ -52,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 **wet**: [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420);
 
-**school**: een basisschool als bedoeld in de [titels B](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&z=2007-02-21&g=2007-02-21) en [C van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&z=2007-02-21&g=2007-02-21), tenzij het tegendeel blijkt;
+**school**: een basisschool als bedoeld in de [titels B](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&z=2011-01-01&g=2011-01-01) en [C van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&z=2011-01-01&g=2011-01-01), tenzij het tegendeel blijkt;
 
 **schooljaar**: het tijdvak van 1 augustus tot en met 31 juli daaraanvolgend voor zover in dit besluit niet anders is bepaald.
 
@@ -70,7 +70,7 @@ leerling met een niet-Nederlandse culturele achtergrond: leerling:
 
 ##### Artikel A 2. Afwijking van bepalingen en van overeenkomstige toepassing zijnde bepalingen van de WPO
 
-1. [Artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=4) is niet van toepassing op een school als bedoeld in dit besluit. [Artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=2) is niet van toepassing op de school, bedoeld in [titel C van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&z=2007-02-21&g=2007-02-21).
+1. [Artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=4) is niet van toepassing op een school als bedoeld in dit besluit. [Artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=2) is niet van toepassing op de school, bedoeld in [titel C van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&z=2011-01-01&g=2011-01-01).
 
 2. De [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=8), [10 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=10), behoudens de in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=13) bedoelde algemene maatregel van bestuur, [29 tot en met 37](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=29), [38a](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=38a), [40 tot en met 46](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=40), [50 tot en met 64](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=50), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=66), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=67), [123, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=123), [126 tot en met 131](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=126), [138](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=138), [163a](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=163a), [164](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=164), [171 tot en met 176j](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=171), [177](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=177), [178](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=178), [178a tot en met 178e](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=178a)[182 tot en met 184a](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=182), [186](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=186) en [187 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=187) zijn van overeenkomstige toepassing. Voorts zijn het [Kaderbesluit rechtspositie PO](https://wetten.overheid.nl/jci1.3:c:BWBR0020315) en het [Besluit vernieuwde kerndoelen WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0018844) van overeenkomstige toepassing.
 
@@ -136,7 +136,7 @@ Vervallen
 
 ##### Artikel B 10. Toelatingsleeftijd, duur onderwijs
 
-1. Om als leerling tot een school voor kinderen als bedoeld in [artikel B 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=2&artikel=B_2&z=2007-02-21&g=2007-02-21) te worden toegelaten, moet het kind de leeftijd van 4 jaar hebben bereikt.
+1. Om als leerling tot een school voor kinderen als bedoeld in [artikel B 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=2&artikel=B_2&z=2011-01-01&g=2011-01-01) te worden toegelaten, moet het kind de leeftijd van 4 jaar hebben bereikt.
 
 2. De leerlingen verlaten de school, bedoeld in het eerste lid, in elk geval na afloop van het schooljaar waarin zij de leeftijd van 14 jaar hebben bereikt.
 
@@ -230,7 +230,7 @@ De kosten van materiële instandhouding die voor vergoeding uit 's Rijks kas in 
 
 De bekostiging, bedoeld in onderdeel **a**, is redelijkerwijs voldoende voor het leiden en beheren van de school, voor het geven van onderwijs aan de school en voor de overige werkzaamheden die verband houden met het onderwijs aan de school.
 
-2. Onze Minister kan op verzoek van het bevoegd gezag op grond van bijzondere omstandigheden meer bekostiging toekennen aan een school dan op grond van het eerste lid juncto de [artikelen B 16b tot en met B 16l](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4A&artikel=B_16b&z=2007-02-21&g=2007-02-21) wordt vastgesteld.
+2. Onze Minister kan op verzoek van het bevoegd gezag op grond van bijzondere omstandigheden meer bekostiging toekennen aan een school dan op grond van het eerste lid juncto de [artikelen B 16b tot en met B 16l](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4A&artikel=B_16b&z=2011-01-01&g=2011-01-01) wordt vastgesteld.
 
 ##### Artikel B 16b. Vaststelling bekostiging personeel
 
@@ -304,7 +304,7 @@ Het Rijk vergoedt aan het bevoegd gezag van een bijzondere school de kosten van 
 
 ##### Artikel B 18. Bekostiging voor de materiële voorzieningen ten behoeve van de instandhouding
 
-1. Bij ministeriële regeling per school een bedrag per formatieplaats, zoals bedoeld in [artikel B 16b](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4A&artikel=B_16b&z=2007-02-21&g=2007-02-21), vastgesteld voor de bekostiging van materiële voorzieningen ten behoeve van de instandhouding.
+1. Bij ministeriële regeling per school een bedrag per formatieplaats, zoals bedoeld in [artikel B 16b](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4A&artikel=B_16b&z=2011-01-01&g=2011-01-01), vastgesteld voor de bekostiging van materiële voorzieningen ten behoeve van de instandhouding.
 
 2. [Artikel 113, vierde tot en met zesde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=113) zijn van overeenkomstige toepassing.
 
@@ -314,7 +314,7 @@ Vervallen
 
 ##### Artikel B 20. Vaststelling bekostiging en latere wijziging bekostiging
 
-1. Onze Minister stelt jaarlijks uiterlijk op 15 april, de bekostigingsbedragen, bedoeld in de [artikelen B 16b](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4A&artikel=B_16b&z=2007-02-21&g=2007-02-21) en [B 16g](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4A&artikel=B_16g&z=2007-02-21&g=2007-02-21) vast. De bedragen hebben betrekking op een schooljaar.
+1. Onze Minister stelt jaarlijks uiterlijk op 15 april, de bekostigingsbedragen, bedoeld in de [artikelen B 16b](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4A&artikel=B_16b&z=2011-01-01&g=2011-01-01) en [B 16g](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=B&afdeling=6&paragraaf=4A&artikel=B_16g&z=2011-01-01&g=2011-01-01) vast. De bedragen hebben betrekking op een schooljaar.
 
 2. De in het eerste lid bedoelde bekostigingsbedragen kunnen gedurende het schooljaar door Onze Minister worden gewijzigd wegens algemene salarismaatregelen of wegens andere al dan niet uit de rijksbegroting voortvloeiende maatregelen.
 
@@ -357,6 +357,8 @@ De betaling van de bekostigingsbedragen voor personeelskosten vindt maandelijks 
 1. Het onderwijs aan varende kinderen is het onderwijs bestemd voor kinderen van 3,5 tot omstreeks 7 jaar die aan boord wonen bij hun ouders, die het schippersbedrijf uitoefenen.
 
 2. De inspecteur kan toestemming verlenen dat andere kinderen dan bedoeld in het eerste lid, van wie de ouders een trekkend bestaan leiden, tot het onderwijs aan varende kinderen worden toegelaten.
+
+3. [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) is van toepassing op het verzoek om toestemming, bedoeld in het tweede lid.
 
 ##### Artikel C 2a. Onderwijs in allochtone levende talen
 
@@ -430,7 +432,7 @@ Vervallen
 
 2. Voor de bekostiging van personeel wordt tevens per leerling een bedrag toegekend welk bedrag de uitkomst is van 0,0545 formatieplaats vermenigvuldigd met een bij ministeriële regeling vast te stellen bedrag.
 
-3. Bij de toepassing van het tweede lid wordt uitgegaan van het aantal leerlingen, bedoeld in [artikel C 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=2&artikel=C_2&z=2007-02-21&g=2007-02-21), dat op 1 oktober van het voorafgaande schooljaar, aan de school voor varende kinderen is ingeschreven. Het bevoegd gezag van de school voor varende kinderen zendt de telling van het aantal leerlingen voor 15 oktober van het desbetreffende jaar aan Onze Minister.
+3. Bij de toepassing van het tweede lid wordt uitgegaan van het aantal leerlingen, bedoeld in [artikel C 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=2&artikel=C_2&z=2011-01-01&g=2011-01-01), dat op 1 oktober van het voorafgaande schooljaar, aan de school voor varende kinderen is ingeschreven. Het bevoegd gezag van de school voor varende kinderen zendt de telling van het aantal leerlingen voor 15 oktober van het desbetreffende jaar aan Onze Minister.
 
 ##### Artikel C 12
 
@@ -442,7 +444,7 @@ Vervallen
 
 1. Het Rijk bekostigt ten behoeve van elk kalenderjaar de uitgaven voor voorzieningen in de huisvesting en voor de materiële instandhouding.
 
-2. De bekostiging van voorzieningen in de huisvesting en voor de materiële instandhouding ten behoeve van een kalenderjaar, bestaat uit een vast bedrag, verhoogd met een bedrag voor elke leerling, bedoeld in [artikel C 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=4&paragraaf=2&artikel=C_11&z=2007-02-21&g=2007-02-21).
+2. De bekostiging van voorzieningen in de huisvesting en voor de materiële instandhouding ten behoeve van een kalenderjaar, bestaat uit een vast bedrag, verhoogd met een bedrag voor elke leerling, bedoeld in [artikel C 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=4&paragraaf=2&artikel=C_11&z=2011-01-01&g=2011-01-01).
 
 3. De bekostiging, bedoeld in het tweede lid, wordt jaarlijks aangepast overeenkomstig de prijsmutatie van de netto materiële consumptie, zoals opgenomen in de Macro Economische Verkenning, die naar verwachting zal optreden tussen het prijsniveau in het kalenderjaar waarvoor de bekostiging wordt vastgesteld en het prijsniveau in het daaraan voorafgaande jaar.
 
@@ -611,7 +613,7 @@ Vervallen
 
 ##### Artikel C 16. Vaststelling bekostiging en latere wijziging bekostiging
 
-1. Onze Minister stelt jaarlijks uiterlijk op 15 april, de bekostigingsbedragen, bedoeld in [artikel C 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=4&paragraaf=2&artikel=C_11&z=2007-02-21&g=2007-02-21) vast. De bedragen hebben betrekking op een schooljaar.
+1. Onze Minister stelt jaarlijks uiterlijk op 15 april, de bekostigingsbedragen, bedoeld in [artikel C 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=4&paragraaf=2&artikel=C_11&z=2011-01-01&g=2011-01-01) vast. De bedragen hebben betrekking op een schooljaar.
 
 2. De in het eerste lid bedoelde bekostigingsbedragen kunnen door Onze Minister worden gewijzigd wegens algemene salarismaatregelen of wegens andere al dan niet uit de rijksbegroting voortvloeiende maatregelen.
 
@@ -1287,11 +1289,11 @@ Vervallen
 
 De [artikelen 140 tot en met 147 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=140) zijn van overeenkomstige toepassing, met dien verstande dat:
 
-- a. in [artikel 142, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=142), «nevenvestiging» wordt gelezen als: vestiging, bedoeld in [artikel C 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=1&artikel=C_1&z=2007-02-21&g=2007-02-21), van het Besluit trekkende bevolking WPO;
+- a. in [artikel 142, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=142), «nevenvestiging» wordt gelezen als: vestiging, bedoeld in [artikel C 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=1&artikel=C_1&z=2011-01-01&g=2011-01-01), van het Besluit trekkende bevolking WPO;
 
-- b. in [artikel 144, eerste lid onder d1e](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=144), «[artikel 137, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=137)» wordt gelezen als: [artikel C 16, eerste lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=4&paragraaf=3&artikel=C_16&z=2007-02-21&g=2007-02-21), van het Besluit trekkende bevolking WPO, en
+- b. in [artikel 144, eerste lid onder d1e](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=144), «[artikel 137, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=137)» wordt gelezen als: [artikel C 16, eerste lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=4&paragraaf=3&artikel=C_16&z=2011-01-01&g=2011-01-01), van het Besluit trekkende bevolking WPO, en
 
-- c. in [artikel 144, eerste lid onder d2e](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=144), «[artikel 137, eerste lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=137)» wordt gelezen als: [artikel C 16, eerste lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=4&paragraaf=3&artikel=C_16&z=2007-02-21&g=2007-02-21), van het Besluit trekkende bevolking WPO.
+- c. in [artikel 144, eerste lid onder d2e](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=144), «[artikel 137, eerste lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=137)» wordt gelezen als: [artikel C 16, eerste lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&titeldeel=C&afdeling=4&paragraaf=3&artikel=C_16&z=2011-01-01&g=2011-01-01), van het Besluit trekkende bevolking WPO.
 
 #### Paragraaf 4. Beëindiging van de bekostiging
 
