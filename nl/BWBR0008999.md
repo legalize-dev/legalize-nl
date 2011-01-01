@@ -4,7 +4,7 @@ identifier: "BWBR0008999"
 country: "nl"
 rank: "wet"
 publication_date: "2025-09-17"
-last_updated: "2010-12-31"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008999"
 soort: "wet"
@@ -76,63 +76,67 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - 10°. een bij algemene maatregel van bestuur aan te wijzen ander verdrag of Nederland bindend besluit van een volkenrechtelijke organisatie inzake de veiligheid van schepen, voorkoming van verontreiniging door schepen of leef- en werkomstandigheden aan boord van schepen, of een daarbij behorend Nederland bindend protocol, bindende bijlage of bindend aanhangsel;
 
-- c. richtlijn: de [richtlijn nr. 95/21/EG](31995L0021) van de Raad van de Europese Unie van 19 juni 1995 betreffende de naleving, met betrekking tot de schepen die gebruik maken van havens in de Gemeenschap en varen in de onder de jurisdictie van de lid-staten vallende wateren, van internationale normen op het gebied van de veiligheid van schepen, voorkoming van verontreiniging en leef- en werkomstandigheden aan boord (havenstaatcontrole)(**PbEG** L 157);
+- c. richtlijn: richtlijn nr. 2009/16/EG van het Europees Parlement en de Raad van de Europese Unie van 23 april 2009 betreffende havenstaatcontrole (PbEU L 131);
 
-- d. haven: een anker- of ligplaats onder Nederlandse jurisdictie voor schepen, al of niet in zee;
+- d. haven: een anker- of ligplaats voor schepen, al of niet in zee, onder jurisdictie van een haven die, tenzij anders bepaald, in Nederland ligt;
 
-- e. inspectie: een bezoek aan boord van een schip om de geldigheid van de relevante certificaten en andere documenten, alsmede de toestand van het schip, de uitrusting, de bemanning en de leef- en werkomstandigheden aan boord te controleren;
+- e. inspectie: een bezoek aan boord van een schip teneinde na te gaan of wordt voldaan aan de geldende verdragen en voorschriften waarbij ten minste de in artikel 13, eerste lid, van de richtlijn vermelde controles worden uitgevoerd;
 
-- f. nadere inspectie: een inspectie waarbij tevens het schip, de uitrusting of de bemanning, geheel of gedeeltelijk, worden onderworpen aan een grondig onderzoek dat de constructie van het schip, de uitrusting, de bemanningssamenstelling, de leef- en werkomstandigheden en de naleving van de operationele voorschriften aan boord omvat;
+- f. meer gedetailleerde inspectie: inspectie waarbij het schip, de uitrusting en de bemanning, geheel of, voor zover van toepassing, gedeeltelijk onder de in artikel 13, derde lid, van de richtlijn beschreven omstandigheden worden onderworpen aan een grondig onderzoek, dat de constructie van het schip, de uitrusting, de personeelssterkte, de leef- en werkomstandigheden en de naleving van de operationele voorschriften aan boord omvat;
 
-- g. exploitant: de eigenaar, rompbevrachter of ieder ander die de zeggenschap heeft over het gebruik van het schip;
+- g. uitgebreide inspectie: een inspectie die ten minste de in bijlage VII van de richtlijn opgesomde onderdelen omvat en in voorkomend geval tevens een meer gedetailleerde inspectie kan omvatten indien daarvoor gegronde redenen als bedoeld in artikel 13, derde lid, van de richtlijn zijn;
 
-- h. uitvaren: het verlaten van een aan de buitenzijde van de lijn, bedoeld in [artikel 1, eerste lid, onder a, van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=1), gelegen anker- of ligplaats onder Nederlandse jurisdictie, of het in de richting van de zee overschrijden van deze lijn;
+- h. exploitant: de eigenaar, rompbevrachter of ieder ander die de zeggenschap heeft over het gebruik van het schip;
 
-- i. aanhouding: het verbod voor de kapitein van een schip om met dat schip uit te varen;
+- i. uitvaren: het verlaten van een aan de buitenzijde van de lijn, bedoeld in [artikel 1, eerste lid, onder a, van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=1), gelegen anker- of ligplaats onder Nederlandse jurisdictie, of het in de richting van de zee overschrijden van deze lijn;
 
-- j. stopzetting van een activiteit: het verbod voor de exploitant of de kapitein van een schip om een activiteit voort te zetten;
+- j. aanhouding: het verbod voor de kapitein van een schip om met dat schip uit te varen;
 
-- k. de ambtenaren van de Inspectie Verkeer en Waterstaat: de door Onze Minister aangewezen ambtenaren van de Inspectie Verkeer en Waterstaat.
+- k. stopzetting van een activiteit: het verbod voor de exploitant of de kapitein van een schip om een activiteit voort te zetten;
 
-- l. havenbeheerder: degene die ingevolge de krachtens [artikel 4, eerste lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=4), gestelde regels, dan wel door het bevoegd gezag, bedoeld in [artikel 2 van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=2), van de desbetreffende scheepvaartweg, is belast met de uitoefening van de bij of krachtens de [Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364) verleende bevoegdheden ten aanzien van de deelname aan het scheepvaartverkeer in een haven of op een scheepvaartweg die toegang geeft tot een haven;
+- l. de ambtenaren van de Inspectie Verkeer en Waterstaat: de door Onze Minister aangewezen ambtenaren van de Inspectie Verkeer en Waterstaat.
 
-- m. MOU: het op 26 januari 1982 te Parijs tot stand gekomen Memorandum van overeenstemming inzake toezicht op schepen door de havenstaat (**Trb**. 1996, 248).
+- m. havenbeheerder: degene die ingevolge de krachtens [artikel 4, eerste lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=4), gestelde regels, dan wel door het bevoegd gezag, bedoeld in [artikel 2 van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=2), van de desbetreffende scheepvaartweg, is belast met de uitoefening van de bij of krachtens de [Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364) verleende bevoegdheden ten aanzien van de deelname aan het scheepvaartverkeer in een haven of op een scheepvaartweg die toegang geeft tot een haven;
+
+- n. MOU: het op 26 januari 1982 te Parijs tot stand gekomen Memorandum van overeenstemming inzake toezicht op schepen door de havenstaat (**Trb**. 1996, 248);
+
+- o. schip/havenraakvlak: de interactie die plaatsvindt wanneer een schip rechtstreeks en onmiddellijk betrokken is bij handelingen die gepaard gaan met de verplaatsing van personen of goederen, dan wel de verlening van havendiensten aan of vanuit het schip;
+
+- p. klacht: informatie of rapport ingediend door een persoon of organisatie die een legitiem belang heeft bij de veiligheid van een schip, met inbegrip van de veiligheids- en gezondheidsrisico’s voor de bemanning, leef- en werkomstandigheden aan boord en de voorkoming van verontreiniging;
+
+- q. inspectiedatabank: het informatiesysteem dat bijdraagt tot de uitvoering van de regeling inzake het havenstaatcontrolestelsel in de Europese Unie en betreffende de gegevens van inspecties uitgevoerd in de Europese Gemeenschap en in bij het MOU aangesloten havenstaten.
 
 #### § 2. Reikwijdte
 
 ##### Artikel 2
 
-1. Het bij of krachtens deze wet bepaalde is van toepassing op een schip dat niet gerechtigd is de Nederlandse vlag te voeren, en dat zich, met uitzondering van de situaties, bedoeld in de artikelen 11 en 12, tweede lid, in een haven bevindt.
+1. Het bij of krachtens deze wet bepaalde is van toepassing op een schip dat niet gerechtigd is op grond van Nederlandse rechtsregels de vlag van het Koninkrijk te voeren, en dat, met uitzondering van de situaties, bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11&z=2011-01-01&g=2011-01-01), [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11a&z=2011-01-01&g=2011-01-01) en [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=V&artikel=12&z=2011-01-01&g=2011-01-01), een haven aandoet om een interactie schip/havenraakvlak te verrichten.
 
 2. Het bij of krachtens deze wet bepaalde is niet van toepassing op oorlogsschepen, marinehulpschepen of andere schepen die in gebruik zijn voor de uitvoering van de militaire taak, houten schepen van primitieve bouw en voor andere dan handelsdoeleinden gebruikte overheidsschepen en pleziervaartuigen.
 
-### HOOFDSTUK II. INSPECTIE EN NADERE INSPECTIE
+### Hoofdstuk II. Inspectie, meer gedetailleerde inspectie en uitgebreide inspectie
 
 ##### Artikel 3
 
-1. Een ambtenaar van de Inspectie Verkeer en Waterstaat kan een schip ten behoeve waarvan ingevolge een of meer van de verdragen een certificaat of ander document is vereist, aan een inspectie onderwerpen.
+1. Een ambtenaar van de Inspectie Verkeer en Waterstaat kan een schip ten behoeve waarvan ingevolge een of meer van de verdragen een certificaat of ander document is vereist, aan een inspectie of uitgebreide inspectie onderwerpen.
 
-2. Indien het schip niet is voorzien van een geldig ingevolge een of meer van de verdragen vereist certificaat of ander document of indien er gegronde redenen zijn om aan te nemen dat de toestand van het schip, de uitrusting, de bemanning of de leef- en werkomstandigheden aan boord niet in overeenstemming zijn met de gegevens van het desbetreffende vereiste certificaat of document, of met de voorschriften van een of meer van de verdragen, onderwerpt een ambtenaar van de Inspectie Verkeer en Waterstaat het schip aan een nadere inspectie.
+2. Indien het schip niet is voorzien van een geldig ingevolge een of meer van de verdragen vereist certificaat of ander document of indien er gegronde redenen zijn om aan te nemen dat de toestand van het schip, de uitrusting, de bemanning of de leef- en werkomstandigheden aan boord niet in overeenstemming zijn met de gegevens van het desbetreffende vereiste certificaat of document, of met de voorschriften van een of meer van de verdragen, onderwerpt een ambtenaar van de Inspectie Verkeer en Waterstaat het schip aan een meer gedetailleerde inspectie.
 
-3. Na een inspectie of een nadere inspectie overhandigt de ambtenaar van de Inspectie Verkeer en Waterstaat een rapport aan de kapitein van het schip dat gegevens bevat betreffende:
+3. Na een inspectie, een meer gedetailleerde inspectie of een uitgebreide inspectie overhandigt de ambtenaar van de Inspectie Verkeer en Waterstaat in kopie een rapport aan de kapitein van het schip dat gegevens bevat betreffende:
 
-- a. de resultaten van de inspectie of de nadere inspectie,
+- a. de resultaten van de inspectie, de meer gedetailleerde inspectie of de uitgebreide inspectie,
 
-- b. de door de ambtenaar van de Inspectie Verkeer en Waterstaat genomen besluiten,
+- b. de door de ambtenaar van de Inspectie Verkeer en Waterstaat genomen besluiten, en
 
-- c. de door de kapitein of de exploitant van het schip te treffen maatregelen, en
-
-- d. de mogelijkheid van de publicatie, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=VIII&artikel=28&z=2010-12-31&g=2010-12-31).
-
-4. Het derde lid, onder **d**, is niet van toepassing op vissersvaartuigen.
+- c. de door de kapitein of de exploitant van het schip te treffen maatregelen.
 
 ##### Artikel 4
 
-Voorzover [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=3&z=2010-12-31&g=2010-12-31) niet van toepassing is, kan een ambtenaar van de Inspectie Verkeer en Waterstaat een schip ten behoeve waarvan ingevolge een of meer van de verdragen geen certificaat of ander document is vereist, of een schip dat de vlag voert van een staat die geen partij is bij een of meer van de verdragen, onderwerpen aan een controle, teneinde op een zoveel mogelijk overeenkomstige wijze als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=3&z=2010-12-31&g=2010-12-31) na te gaan of de toestand van het schip, de uitrusting, de leden van de bemanning, of de leef- en werkomstandigheden aan boord van het schip geen gevaar vormen voor de veiligheid, de gezondheid of de verontreiniging van het mariene milieu.
+Voorzover [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=3&z=2011-01-01&g=2011-01-01) niet van toepassing is, kan een ambtenaar van de Inspectie Verkeer en Waterstaat een schip ten behoeve waarvan ingevolge een of meer van de verdragen geen certificaat of ander document is vereist, of een schip dat de vlag voert van een staat die geen partij is bij een of meer van de verdragen, onderwerpen aan een controle, teneinde op een zoveel mogelijk overeenkomstige wijze als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=3&z=2011-01-01&g=2011-01-01) na te gaan of de toestand van het schip, de uitrusting, de leden van de bemanning, of de leef- en werkomstandigheden aan boord van het schip geen gevaar vormen voor de veiligheid, de gezondheid of de verontreiniging van het mariene milieu.
 
 ##### Artikel 5
 
-1. Bij ministeriële regeling worden met inachtneming van de richtlijn regels gesteld over de te stellen minimumeisen, waaraan de ambtenaren, bedoeld in [artikel 1, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=I&paragraaf=1&artikel=1&z=2010-12-31&g=2010-12-31), moeten voldoen en over de wijze waarop die ambtenaren hun taak ingevolge deze wet uitoefenen.
+1. Bij ministeriële regeling worden met inachtneming van de richtlijn regels gesteld over de te stellen minimumeisen, waaraan de ambtenaren, bedoeld in [artikel 1, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=I&paragraaf=1&artikel=1&z=2011-01-01&g=2011-01-01), moeten voldoen en over de wijze waarop die ambtenaren hun taak ingevolge deze wet uitoefenen.
 
 2. In de regeling worden ten minste regels gesteld betreffende:
 
@@ -142,31 +146,33 @@ Voorzover [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=
 
 - c. categorieën van een inspectie uit te zonderen schepen,
 
-- d. tijdstippen waarop en periodes waarbinnen een inspectie of een nadere inspectie plaatsvindt,
+- d. tijdstippen waarop en periodes waarbinnen een inspectie, een meer gedetailleerde of een uitgebreide inspectie plaatsvindt,
 
-- e. gegronde redenen voor een nadere inspectie,
+- e. omstandigheden waarin een inspectie kan worden uitgesteld,
 
-- f. te controleren certificaten en andere documenten,
+- f. gegronde redenen voor een meer gedetailleerde inspectie,
 
-- g. de te stellen eisen aan het rapport, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=3&z=2010-12-31&g=2010-12-31),
+- g. te controleren certificaten en andere documenten,
 
-- h. de in acht te nemen procedures en richtsnoeren bij een inspectie, een nadere inspectie en een controle als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=4&z=2010-12-31&g=2010-12-31).
+- h. de te stellen eisen aan het rapport, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=3&z=2011-01-01&g=2011-01-01),
+
+- i. de in acht te nemen procedures en richtsnoeren bij een inspectie, een meer gedetailleerde inspectie, een uitgebreide inspectie en een controle als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=4&z=2011-01-01&g=2011-01-01).
 
 3. In de regeling kan worden bepaald dat deze geheel of gedeeltelijk niet van toepassing is op vissersvaartuigen.
 
-### HOOFDSTUK III. MAATREGELEN VOLGEND OP INSPECTIE, NADERE INSPECTIE OF CONTROLE
+### Hoofdstuk III. Maatregelen volgend op inspectie, meer gedetailleerde inspectie, uitgebreide inspectie of controle
 
 ##### Artikel 6
 
-Een ambtenaar van de Inspectie Verkeer en Waterstaat zet een activiteit stop indien bij een inspectie, een nadere inspectie of een controle als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=4&z=2010-12-31&g=2010-12-31), tekortkomingen zijn geconstateerd die afzonderlijk of gezamenlijk maken dat voortzetting van deze activiteit duidelijk gevaarlijk is voor de veiligheid of de gezondheid dan wel schadelijk is voor het mariene milieu.
+Een ambtenaar van de Inspectie Verkeer en Waterstaat zet een activiteit stop indien bij een inspectie, een meer gedetailleerde inspectie, een uitgebreide inspectie of een controle als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=4&z=2011-01-01&g=2011-01-01), tekortkomingen zijn geconstateerd die afzonderlijk of gezamenlijk maken dat voortzetting van deze activiteit duidelijk gevaarlijk is voor de veiligheid of de gezondheid dan wel schadelijk is voor het mariene milieu.
 
 ##### Artikel 7
 
 1. Een ambtenaar van de Inspectie Verkeer en Waterstaat houdt een schip aan:
 
-- a. indien wordt voldaan aan een of meer van de criteria die ingevolge bijlage VI van de richtlijn tot de aanhouding van een schip kunnen leiden;
+- a. indien wordt voldaan aan een of meer van de criteria die ingevolge bijlage X van de richtlijn tot de aanhouding van een schip kunnen leiden;
 
-- b. indien het door het in artikel 1, onderdeel b, onder 5°, genoemde verdrag voor het schip voorgeschreven geldige veiligheidsmanagementcertificaat (**safety management certificate**) of het ingevolge dat verdrag voorgeschreven afschrift van het geldige conformiteitsdocument (**document of compliance**) voor de bedrijfsvoering van de organisatie, aan boord van het schip ontbreekt;
+- b. indien het niet is uitgerust met een functionerend reisgegevens-recordersysteem, terwijl het gebruik daarvan voor dat schip verplicht is op grond van richtlijn 2002/59/EG van het Europees Parlement en de Raad van de Europese Unie van 27 juni 2002 betreffende de invoering van een communautair monitoring- en informatiesysteem voor der zeescheepvaart en tot intrekking van richtlijn 93/75/EEG van de Raad (PbEG L 208);
 
 - c. indien de kapitein of de bemanning niet voldoet aan operationele voorschriften, bedoeld in een of meer van de verdragen;
 
@@ -174,15 +180,15 @@ Een ambtenaar van de Inspectie Verkeer en Waterstaat zet een activiteit stop ind
 
 - e. indien de ambtenaar wordt belemmerd in de uitoefening van zijn taak.
 
-2. In afwijking van het eerste lid, onderdeel a, zijn voor de aanhouding van een vissersvaartuig niet van toepassing de bij ministeriële regeling aan te geven onderdelen van bijlage VI van de richtlijn, die ingevolge de verdragen niet op vissersvaartuigen kunnen worden toegepast.
+2. In afwijking van het eerste lid, onderdeel a, zijn voor de aanhouding van een vissersvaartuig niet van toepassing de bij ministeriële regeling aan te geven onderdelen van bijlage X van de richtlijn, die ingevolge de verdragen niet op vissersvaartuigen kunnen worden toegepast.
 
-3. Het eerste lid, onder **b** en **c**, is niet van toepassing op de aanhouding van vissersvaartuigen, met dien verstande dat onbekendheid met operationele voorschriften als bedoeld onder c een aanhoudingsgrond voor vissersvaartuigen kan vormen, voorzover de verdragen dat toestaan.
+3. Het eerste lid, onder c, is niet van toepassing op de aanhouding van vissersvaartuigen, met dien verstande dat onbekendheid met operationele voorschriften een aanhoudingsgrond voor vissersvaartuigen kan vormen, voorzover de verdragen dat toestaan.
 
-4. Het eerste en tweede lid zijn van overeenkomstige toepassing op een schip als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=4&z=2010-12-31&g=2010-12-31).
+4. Het eerste en tweede lid zijn van overeenkomstige toepassing op een schip als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=4&z=2011-01-01&g=2011-01-01).
 
 ##### Artikel 7a
 
-[Afdeling 5.3.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=5.3.1) is niet van toepassing op de in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=6&z=2010-12-31&g=2010-12-31) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=7&z=2010-12-31&g=2010-12-31) bedoelde bevoegdheid.
+[Afdeling 5.3.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=5.3.1) is niet van toepassing op de in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=6&z=2011-01-01&g=2011-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=7&z=2011-01-01&g=2011-01-01) bedoelde bevoegdheid.
 
 ##### Artikel 8
 
@@ -194,9 +200,13 @@ Een ambtenaar van de Inspectie Verkeer en Waterstaat zet een activiteit stop ind
 
 ##### Artikel 9
 
-1. Indien een aangehouden schip niet in de haven van aanhouding kan worden gerepareerd, mag het schip naar de dichtstbijzijnde door de kapitein en de ambtenaar van de Inspectie Verkeer en Waterstaat gekozen geschikte reparatiewerf vertrekken. Indien de reparatiewerf zich buiten Nederland bevindt, geschiedt dit onder door de ambtenaar van de Inspectie Verkeer en Waterstaat gestelde en goedgekeurde voorwaarden die betrekking hebben op de reis naar de reparatiewerf.
+1. Indien een aangehouden schip niet in de haven van aanhouding kan worden gerepareerd of indien het gebrek, bedoeld in [artikel 7, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=7&z=2011-01-01&g=2011-01-01), niet zonder meer in de haven van aanhouding kan worden verholpen, kan de ambtenaar van de Inspectie Verkeer en Waterstaat het schip toestaan naar de dichtstbijzijnde door de kapitein en de ambtenaar van de Inspectie Verkeer en Waterstaat gekozen geschikte reparatiewerf te vertrekken. Indien de reparatiewerf zich buiten Nederland bevindt, geschiedt dit onder door de bevoegde autoriteit van de vlaggenstaat vastgestelde en door de ambtenaar van de Inspectie Verkeer en Waterstaat goedgekeurde voorwaarden.
 
-2. Indien de reparatiewerf, bedoeld in het eerste lid, zich buiten Nederland bevindt, stelt de ambtenaar van de Inspectie Verkeer en Waterstaat de bevoegde instantie van de staat waar de reparatiewerf zich bevindt en de administratie van de desbetreffende vlaggenstaat, of de consul, of bij zijn afwezigheid, de dichtstbijzijnde diplomatieke vertegenwoordiger in overeenstemming met bijlage 2 van het MOU in kennis van de voorwaarden, bedoeld in het eerste lid.
+2. Indien de reparatiewerf, bedoeld in het eerste lid, zich buiten Nederland bevindt, stelt de ambtenaar van de Inspectie Verkeer en Waterstaat de bevoegde instantie van de staat waar de reparatiewerf zich bevindt en de administratie van de desbetreffende vlaggenstaat, of de consul, of bij zijn afwezigheid de dichtstbijzijnde diplomatieke vertegenwoordiger alsmede de aangewezen inspecteurs of de erkende organisaties die verantwoordelijk zijn voor de afgifte van de klassecertificaten of de wettelijk voorgeschreven certificaten die overeenkomstig de verdragen worden afgegeven, in kennis van de voorwaarden, bedoeld in het eerste lid.
+
+3. Indien het gebrek, bedoeld in [artikel 7, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=7&z=2011-01-01&g=2011-01-01), niet zonder meer in de haven van aanhouding kan worden verholpen, kan de ambtenaar in plaats van het schip op grond van het eerste lid toe te staan naar de dichtstbijzijnde reparatiewerf te vertrekken, verlangen dat dit gebrek wordt verholpen binnen een termijn van ten hoogste dertig dagen.
+
+4. Om havencongestie te voorkomen kan de ambtenaar van de Inspectie Verkeer en Waterstaat op verzoek van de havenbeheerder toestemming verlenen om een aangehouden schip naar een ander deel van de haven te verplaatsen indien dat op een veilige manier kan gebeuren.
 
 ##### Artikel 10
 
@@ -204,47 +214,47 @@ Een ambtenaar van de Inspectie Verkeer en Waterstaat zet een activiteit stop ind
 
 2. Een ambtenaar van de Inspectie Verkeer en Waterstaat heft de aanhouding op indien:
 
-- a. de redenen, genoemd in [artikel 7, eerste lid, onder a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=7&z=2010-12-31&g=2010-12-31), niet van toepassing zijn, of het schip onder voorwaarden als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=9&z=2010-12-31&g=2010-12-31), mag vertrekken; en
+- a. de redenen, genoemd in [artikel 7, eerste lid, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=7&z=2011-01-01&g=2011-01-01), niet van toepassing zijn, of het schip onder voorwaarden als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=9&z=2011-01-01&g=2011-01-01), mag vertrekken; en
 
-- b. de exploitant de vergoeding voor de kosten, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=V&artikel=14&z=2010-12-31&g=2010-12-31), heeft voldaan of ten genoegen van Onze Minister voldoende zekerheid heeft gesteld voor de vergoeding voor deze kosten.
+- b. de exploitant de vergoeding voor de kosten, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=V&artikel=14&z=2011-01-01&g=2011-01-01), heeft voldaan of ten genoegen van Onze Minister voldoende zekerheid heeft gesteld voor de vergoeding voor deze kosten.
 
-3. Een ambtenaar van de Inspectie Verkeer en Waterstaat kan de aanhouding, gegrond op [artikel 7, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=7&z=2010-12-31&g=2010-12-31), opheffen, indien:
+3. In afwijking van [artikel 3:41 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:41) geschiedt de bekendmaking van het besluit dat strekt tot opheffing van de stopzetting van een activiteit of de aanhouding door uitreiking van dit besluit aan de kapitein.
 
-- a. er geen andere redenen aanwezig zijn op grond waarvan het schip kan worden aangehouden; en
+4. Op het besluit dat strekt tot opheffing van de stopzetting van een activiteit of de aanhouding, is [artikel 8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=8&z=2011-01-01&g=2011-01-01), van overeenkomstige toepassing.
 
-- b. de voortzetting van de aanhouding tot congestie in de haven van aanhouding zou leiden.
-
-4. In afwijking van [artikel 3:41 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:41) geschiedt de bekendmaking van het besluit dat strekt tot opheffing van de stopzetting van een activiteit of de aanhouding door uitreiking van dit besluit aan de kapitein.
-
-5. Op het besluit dat strekt tot opheffing van de stopzetting van een activiteit of de aanhouding, is [artikel 8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=8&z=2010-12-31&g=2010-12-31), van overeenkomstige toepassing.
-
-### HOOFDSTUK IV. VERPLICHTINGEN HAVENBEHEERDER
+### Hoofdstuk IV. Weigering van toegang tot een haven
 
 ##### Artikel 11
 
-1. De havenbeheerder weigert in overeenstemming met Onze Minister een schip, met uitzondering van een vissersvaartuig, waarvoor toestemming is verleend om naar een reparatiewerf te vertrekken, de toegang tot de haven, met uitzondering van anker- of ligplaatsen in zee, indien dat schip vanuit een andere haven is uitgevaren of vanuit een andere bij het MOU aangesloten havenstaat naar zee is vertrokken:
+1. De havenbeheerder weigert de toegang tot de haven van elk schip, dat:
 
-- a. zonder dat voldaan is aan de gestelde voorwaarden voor de reis; of
+- a. vaart onder de vlag van een staat met een aanhoudingsgraad die onder de zwarte lijst valt die overeenkomstig het MOU op basis van in de inspectiedatabank geregistreerde informatie is vastgesteld en zoals jaarlijks door de Europese Commissie wordt bekendgemaakt, en dat meer dan twee keer is aangehouden of waarvan de inzet meer dan twee keer is belet in de voorafgaande 36 maanden in een haven van een lidstaat of een staat die het MOU heeft ondertekend, of
 
-- b. zonder zich te begeven naar de gekozen dichtstbijzijnde reparatiewerf.
+- b. vaart onder de vlag van een staat met een aanhoudingsgraad die onder de grijze lijst valt die overeenkomstig het MOU op basis van in de inspectiedatabank geregistreerde informatie is vastgesteld en jaarlijks door de Europese Commissie wordt bekendgemaakt, en dat meer dan twee keer is aangehouden of waarvan de inzet meer dan twee keer is belet in de voorafgaande 24 maanden in een haven van een lidstaat of een staat die het MOU heeft ondertekend.
 
-2. De havenbeheerder weigert in overeenstemming met Onze Minister een schip waarvan de aanhouding is opgeheven ingevolge [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=10&z=2010-12-31&g=2010-12-31), dan wel waarvan de aanhouding in een andere bij het MOU aangesloten havenstaat om dezelfde reden is opgeheven, de toegang tot de haven, met uitzondering van anker- of ligplaatsen in zee.
+2. De weigering van toegang, bedoeld in het eerste lid, geldt zodra een schip de haven van een lidstaat heeft verlaten waar het voor een derde keer is aangehouden en waar een besluit is bekendgemaakt aan de kapitein van het schip, de verantwoordelijke rederij en de vlaggenstaat, waarin wordt meegedeeld dat het schip de toegang tot alle havens van de lidstaten zal worden geweigerd.
 
-3. De havenbeheerder bevestigt een weigering als bedoeld in het eerste of tweede lid zo spoedig mogelijk schriftelijk.
+3. De havenbeheerder van een haven weigert een schip de toegang tot zijn haven in geval van een aanhouding van dit schip in een haven van een lidstaat nadat een schip reeds tweemaal een weigering van toegang heeft opgelegd gekregen.
 
-4. In een situatie als bedoeld in het eerste of tweede lid, laat de havenbeheerder in overeenstemming met Onze Minister het schip toe in de haven op het moment dat de kapitein of de exploitant heeft aangetoond dat het schip aan de voorschriften van de verdragen voldoet.
+4. De havenbeheerder weigert een schip permanent de toegang tot een haven indien:
 
-5. In afwijking van het eerste of tweede lid, kan de havenbeheerder in overeenstemming met Onze Minister het schip in de haven toelaten in geval van overmacht, prevalerende veiligheidsredenen of om het gevaar van vervuiling te beperken of te minimaliseren of tekortkomingen te verhelpen, mits de kapitein of de exploitant afdoende maatregelen voor een veilige binnenkomst heeft genomen.
+- a. een schip 24 maanden na de uitvaardiging van de weigering van toegang als bedoeld in [artikel 11a, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11a&z=2011-01-01&g=2011-01-01), niet voldoet aan de voorwaarden, bedoeld in artikel 11a, vierde lid, of
+
+- b. een schip is aangehouden in een haven in een lidstaat en deze aanhouding volgt op een derde weigering van toegang.
+
+5. In afwijking van het bepaalde in het eerste tot en met derde lid, kan de havenbeheerder in overeenstemming met Onze Minister een schip toestaan zich naar een haven te begeven ten behoeve van het uitvoeren van een hernieuwde inspectie van het schip als bedoel in bijlage VIII van de richtlijn.
 
 ### Hoofdstuk V. Verplichtingen en verboden kapitein, exploitant, betrokken ambtenaren en registerloodsen
 
 ##### Artikel 12
 
-1. De kapitein en de exploitant van een schip zijn verplicht te voldoen aan de voorwaarden, bedoeld in [artikel 9, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=9&z=2010-12-31&g=2010-12-31).
+1. De kapitein en de exploitant van een schip zijn verplicht te voldoen aan de voorwaarden, bedoeld in [artikel 9, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=9&z=2011-01-01&g=2011-01-01).
 
 2. Zolang een schip de toegang tot een haven wordt geweigerd, is het de kapitein verboden het schip die haven te doen binnenvaren.
 
 3. De kapitein van een aangehouden schip is verplicht dat schip na de aanhouding ligplaats te doen nemen op een door een ambtenaar van de Inspectie Verkeer en Waterstaat in overeenstemming met de havenbeheerder aan te wijzen plaats.
+
+4. Indien het de kapitein van een schip op grond van [artikel 11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11&z=2011-01-01&g=2011-01-01), is toegestaan een schip de haven binnen te varen, is het de kapitein en de exploitant verboden ladinghandelingen uit te voeren totdat het besluit, bedoeld in artikel 11, tweede lid, is ingetrokken.
 
 ##### Artikel 13
 
@@ -258,9 +268,15 @@ Een ambtenaar van de Inspectie Verkeer en Waterstaat zet een activiteit stop ind
 
 ##### Artikel 14
 
-1. Indien een schip, met uitzondering van een vissersvaartuig, is aangehouden, betaalt de exploitant van dat schip aan Onze Minister een vergoeding voor de kosten van de inspectie, de nadere inspectie of de controle, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=4&z=2010-12-31&g=2010-12-31), die tot de aanhouding heeft geleid, en van de inspectie, de nadere inspectie of de controle, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=4&z=2010-12-31&g=2010-12-31), die tot de opheffing daarvan heeft geleid.
+1. Indien een schip, met uitzondering van een vissersvaartuig, is aangehouden, betaalt de exploitant van dat schip aan de inspecteur-generaal een vergoeding:
 
-2. Indien een schip dat de toegang tot de haven is geweigerd, aan een inspectie wordt onderworpen alvorens het schip op grond van [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11&z=2010-12-31&g=2010-12-31), kan worden toegelaten, betaalt de exploitant van dat schip aan Onze Minister een vergoeding voor de kosten van deze inspectie.
+- a. voor alle kosten van de inspectie, de meer gedetailleerde inspectie, de uitgebreide inspectie of de controle, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=4&z=2011-01-01&g=2011-01-01), die tot de aanhouding heeft geleid,
+
+- b. voor alle kosten van de inspectie, de meer gedetailleerde inspectie, de uitgebreide inspectie of de controle, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=4&z=2011-01-01&g=2011-01-01), die tot de opheffing daarvan heeft geleid, en
+
+- c. voor alle kosten in verband met de aanhouding in de haven.
+
+2. Indien een schip dat de toegang tot de haven is geweigerd, aan een inspectie wordt onderworpen alvorens het besluit, bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11&z=2011-01-01&g=2011-01-01), wordt ingetrokken dan wel het schip op grond van [artikel 11b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11b&z=2011-01-01&g=2011-01-01), kan worden toegelaten, betaalt de exploitant van dat schip aan Onze Minister een vergoeding voor de kosten van deze inspectie.
 
 3. Bij ministeriële regeling worden de tarieven vastgesteld voor de vergoedingen, bedoeld in het eerste en het tweede lid.
 
@@ -268,23 +284,23 @@ Een ambtenaar van de Inspectie Verkeer en Waterstaat zet een activiteit stop ind
 
 ##### Artikel 15
 
-1. Onze Minister kan voor bepaalde door hem aan te wijzen taken verband houdende met de inspectie, de nadere inspectie of de controle, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=4&z=2010-12-31&g=2010-12-31), ambtenaren van andere diensttakken ter beschikking stellen van de Inspectie Verkeer en Waterstaat. Indien de terbeschikkingstelling ambtenaren betreft ressorterende onder een ander ministerie dan dat van Onze Minister, wordt het desbetreffende besluit genomen in overeenstemming met de minister van het andere ministerie.
+1. Onze Minister kan voor bepaalde door hem aan te wijzen taken verband houdende met de inspectie, de meer gedetailleerde inspectie, de uitgebreide inspectie of de controle, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=4&z=2011-01-01&g=2011-01-01), ambtenaren van andere diensttakken ter beschikking stellen van de Inspectie Verkeer en Waterstaat. Indien de terbeschikkingstelling ambtenaren betreft ressorterende onder een ander ministerie dan dat van Onze Minister, wordt het desbetreffende besluit genomen in overeenstemming met de minister van het andere ministerie.
 
 2. Van het besluit, bedoeld in het eerste lid, wordt mededeling gedaan in de **Staatscourant**.
 
 ##### Artikel 16
 
-Met het toezicht op de naleving van de [hoofdstukken IV](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&z=2010-12-31&g=2010-12-31) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=V&z=2010-12-31&g=2010-12-31) zijn belast de ambtenaren van de Inspectie Verkeer en Waterstaat.
+Met het toezicht op de naleving van de [hoofdstukken IV](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&z=2011-01-01&g=2011-01-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=V&z=2011-01-01&g=2011-01-01) zijn belast de ambtenaren van de Inspectie Verkeer en Waterstaat.
 
 ##### Artikel 17
 
-1. De [artikelen 5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12), [5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13) en [5:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15) tot en met [5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), zijn van overeenkomstige toepassing op een ambtenaar van de Inspectie Verkeer en Waterstaat bij de uitoefening van taken, verband houdende met de inspectie, de nadere inspectie of de controle, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=4&z=2010-12-31&g=2010-12-31), en op een ter beschikking gestelde ambtenaar als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=VI&artikel=15&z=2010-12-31&g=2010-12-31).
+1. De [artikelen 5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12), [5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13) en [5:15 tot en met 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), zijn van overeenkomstige toepassing op een ambtenaar van de Inspectie Verkeer en Waterstaat bij de uitoefening van taken, verband houdende met de inspectie, de meer gedetailleerde inspectie, de uitgebreide inspectie of de controle, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=4&z=2011-01-01&g=2011-01-01), en op een ter beschikking gestelde ambtenaar als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=VI&artikel=15&z=2011-01-01&g=2011-01-01).
 
-2. Een ambtenaar van de Inspectie Verkeer en Waterstaat draagt, voorzover nodig in afwijking van [artikel 5:12, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12), een legitimatiebewijs bij zich, overeenkomstig het model, bedoeld in artikel 12, vierde lid, van de richtlijn.
+2. Een ambtenaar van de Inspectie Verkeer en Waterstaat draagt, voorzover nodig in afwijking van [artikel 5:12, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12), een legitimatiebewijs bij zich, overeenkomstig het model, bedoeld in artikel 22, vierde lid, van de richtlijn.
 
 ##### Artikel 18
 
-Een ambtenaar van de Inspectie Verkeer en Waterstaat en een ter beschikking gestelde ambtenaar als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=VI&artikel=15&z=2010-12-31&g=2010-12-31), zijn bevoegd, met medeneming van de benodigde apparatuur, woongedeelten van schepen binnen te treden zonder toestemming van de bewoner.
+Een ambtenaar van de Inspectie Verkeer en Waterstaat en een ter beschikking gestelde ambtenaar als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=VI&artikel=15&z=2011-01-01&g=2011-01-01), zijn bevoegd, met medeneming van de benodigde apparatuur, woongedeelten van schepen binnen te treden zonder toestemming van de bewoner.
 
 ##### Artikel 19
 
@@ -324,21 +340,21 @@ Vervallen
 
 3. Indien het beroepschrift telegrafisch of per telex wordt ingediend, kan de ondertekening, in afwijking van [artikel 6:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:5), achterwege blijven.
 
-4. Indien onverwijlde spoed, gelet op de betrokken belangen, dat vereist, kan Onze Minister bepalen dat het beroep de werking schorst van het besluit waartegen het is gericht, met uitzondering van het besluit dat strekt tot de aanhouding van een schip.
+4. Indien onverwijlde spoed, gelet op de betrokken belangen, dat vereist, kan Onze Minister bepalen dat het beroep de werking schorst van het besluit waartegen het is gericht, met uitzondering van het besluit dat strekt tot de aanhouding of de weigering van toegang van een schip.
 
 ##### Artikel 27
 
 De exploitant die zich bij beroep bij de rechtbank beroept op een onnodige aanhouding of onnodig oponthoud, draagt de bewijslast daarvan.
 
-### HOOFDSTUK VII. BEROEP
+### Hoofdstuk VII. Beroep en klachten
 
 ##### Artikel 28
 
-Onze Minister draagt er zorg voor dat ten minste elke maand de gegevens, bedoeld in bijlage VIII, deel I, van de richtlijn, worden gepubliceerd betreffende schepen, met uitzondering van vissersvaartuigen, die de voorgaande maand zijn aangehouden in, of die onderworpen zijn aan een weigering van toegang tot een haven.
+Vervallen
 
 ##### Artikel 29
 
-Bij ministeriële regeling worden ter uitvoering van de [hoofdstukken II tot en met V](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&z=2010-12-31&g=2010-12-31) en met inachtneming van de artikelen 9, 9bis, 11 en 13 van de richtlijn regels gesteld inzake de instanties andere dan genoemd in de [hoofdstukken II tot en met V](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&z=2010-12-31&g=2010-12-31):
+Bij ministeriële regeling worden ter uitvoering van de [hoofdstukken II tot en met V](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&z=2011-01-01&g=2011-01-01) en met inachtneming van de artikelen 19, 21 en 23, eerste en tweede lid, van de richtlijn regels gesteld inzake de instanties:
 
 - a. met wie en op welke wijze een ambtenaar van de Inspectie Verkeer en Waterstaat overleg moet voeren, dan wel door wie en op welke wijze met hem overleg moet worden gevoerd; of
 
@@ -352,15 +368,15 @@ Ter uitvoering van internationale afspraken of besluiten van volkenrechtelijke o
 
 ##### Artikel 31
 
-1. Een wijziging van bijlage VI van de richtlijn, van het model, bedoeld in artikel 12, vierde lid, van de richtlijn, in de publicatiegegevens, bedoeld in bijlage VIII, van de richtlijn, of van de artikelen 9, 9bis, 11 en 13 van de richtlijn, gaat voor de toepassing van de artikelen 7, eerste lid, onder a, en tweede lid, 17, tweede lid, 28 en 29 gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
+1. Een wijziging van bijlage X van de richtlijn, van het model bedoeld in artikel 22, vierde lid, van de richtlijn of van de artikelen 19, 21 en 23, eerste en tweede lid, van de richtlijn, gaat voor de toepassing van de [artikelen 7, eerste lid, onder a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=7&z=2011-01-01&g=2011-01-01), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=VI&artikel=17&z=2011-01-01&g=2011-01-01), en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=VIII&artikel=29&z=2011-01-01&g=2011-01-01) gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
-2. Een wijziging van de verdragen gaat voor de toepassing van de artikelen 3, 4, 7, eerste lid, onder c, en derde lid, en 11, vierde lid, gelden met ingang van de dag waarop de betrokken wijziging door Nederland is aanvaard en internationaal in werking is getreden.
+2. Een wijziging van de verdragen gaat voor de toepassing van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=3&z=2011-01-01&g=2011-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=4&z=2011-01-01&g=2011-01-01), [7, eerste lid, onder c, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=7&z=2011-01-01&g=2011-01-01), en [artikel 11a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11a&z=2011-01-01&g=2011-01-01), gelden met ingang van de dag waarop de betrokken wijziging door Nederland is aanvaard en internationaal in werking is getreden.
 
-3. Een wijziging van bijlage 2 van het MOU gaat voor de toepassing van artikel 9, tweede lid, gelden met ingang van de dag waarop de wijziging in werking treedt.
+3. Een wijziging van bijlage 2 van het MOU gaat voor de toepassing van [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=9&z=2011-01-01&g=2011-01-01), gelden met ingang van de dag waarop de wijziging in werking treedt.
 
 ##### Artikel 32
 
-De eerste publicatie, bedoeld in artikel 28, eerste lid, na inwerkingtreding van deze wet, kan betrekking hebben op een gedeelte van een kwartaal.
+Vervallen
 
 ### Hoofdstuk IX. Uitvoering en implementatie internationale voorschriften
 
@@ -400,15 +416,47 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 11a
 
-Dit onderdeel is nog niet inwerking getreden
+1. Onze Minister neemt een besluit als bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11&z=2011-01-01&g=2011-01-01), indien:
+
+- a. de derde aanhouding, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11&z=2011-01-01&g=2011-01-01), plaatsvindt in een haven,
+
+- b. de aanhouding, bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11&z=2011-01-01&g=2011-01-01), plaatsvindt in een haven, of
+
+- c. de aanhouding, bedoeld in [artikel 11, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11&z=2011-01-01&g=2011-01-01), plaatsvindt in een haven, waarbij tevens wordt meegedeeld dat de weigering van toegang van het schip tot alle havens van de lidstaten permanent is.
+
+2. Onze Minister trekt het besluit, bedoeld in het eerste lid, aanhef en onder a, in indien een periode van drie maanden is verstreken na de bekendmaking van dit besluit en wordt voldaan aan de punten 3 tot en met 9 van bijlage VIII van de richtlijn.
+
+3. Bij een tweede weigering van toegang bedraagt de periode, bedoeld in het tweede lid, twaalf maanden.
+
+4. Onze Minister trekt het besluit, bedoeld in het eerste lid, aanhef en onder b in na het verstrijken van een periode van 24 maanden, indien binnen deze periode:
+
+- a. het schip vaart onder de vlag van een staat met een aanhoudingsgraad die niet onder de in het eerste lid bedoelde zwarte of grijze lijst valt,
+
+- b. de wettelijk voorgeschreven certificaten en de classificatiecertificaten van het schip zijn afgegeven door een organisatie of organisaties die is, onderscheidenlijk zijn, erkend op grond van verordening (EG) nr. 391/2009 van het Europees Parlement en de Raad van de Europese Unie van 23 april 2009 inzake gemeenschappelijke voorschriften en normen voor met de inspectie en controle van schepen belaste organisaties (PbEU L 131),
+
+- c. het schip wordt geëxploiteerd door een rederij die goed presteert als bedoeld in bijlage I, deel I.1, van de richtlijn, en
+
+- d. aan de voorwaarden van bijlage VIII, punten 3 tot en met 9 van de richtlijn, is voldaan.
+
+5. Onze Minister maakt het besluit, bedoeld in het eerste lid, bekend aan de kapitein van het schip, de verantwoordelijke rederij en de vlaggenstaat en doet een afschrift toekomen aan de in punt 2 van bijlage VIII van de richtlijn genoemde organisaties.
+
+6. Onze Minister stelt de in punten 10 en 11 van bijlage VIII van de richtlijn genoemde organisaties schriftelijk in kennis van het in het tweede en vierde lid bedoelde besluit.
 
 ##### Artikel 11b
 
-Dit onderdeel is nog niet inwerking getreden
+1. De havenbeheerder weigert een schip, met uitzondering van een vissersvaartuig, waarvoor toestemming is verleend om naar een reparatiewerf te vertrekken, de toegang tot de haven, indien dat schip vanuit een haven van een lidstaat is uitgevaren of vanuit een andere bij het MOU aangesloten havenstaat naar zee is vertrokken:
+
+- a. zonder dat voldaan is aan de gestelde voorwaarden voor de reis, of
+
+- b. zonder zich te begeven naar de gekozen dichtstbijzijnde reparatiewerf.
+
+2. De havenbeheerder bevestigt een weigering als bedoeld in het eerste lid zo spoedig mogelijk schriftelijk.
+
+3. In een situatie als bedoeld in het eerste lid laat de havenbeheerder het schip toe in de haven op het moment dat de kapitein of exploitant naar het oordeel van de bevoegde autoriteit van de lidstaat waar de tekortkoming aan het schip is geconstateerd, heeft aangetoond dat het schip aan de voorschriften van de verdragen voldoet.
 
 ##### Artikel 11c
 
-Dit onderdeel is nog niet inwerking getreden
+In afwijking van het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11&z=2011-01-01&g=2011-01-01) en [11b](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11b&z=2011-01-01&g=2011-01-01) kan de havenbeheerder in overeenstemming met Onze Minister een schip in de haven toelaten in geval van overmacht, prevalerende veiligheidsredenen of om het gevaar van vervuiling te beperken of te minimaliseren of tekortkomingen te verhelpen, mits de kapitein of de exploitant naar het oordeel van de havenbeheerder afdoende maatregelen voor een veilige binnenkomst heeft genomen.
 
 ### Hoofdstuk V. Verplichtingen en verboden kapitein, exploitant, betrokken ambtenaren en registerloodsen
 
@@ -416,7 +464,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 26a
 
-Dit onderdeel is nog niet inwerking getreden
+1. Onze Minister draagt zorg voor de behandeling van alle klachten die worden ingediend.
+
+2. Bij ministeriële regeling worden regels gesteld met betrekking tot de behandeling van klachten als bedoeld in het eerste lid.
 
 ### Hoofdstuk VIII. Overige bepalingen
 
