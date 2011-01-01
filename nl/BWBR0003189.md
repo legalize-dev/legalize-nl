@@ -4,7 +4,7 @@ identifier: "BWBR0003189"
 country: "nl"
 rank: "amvb"
 publication_date: "2011-01-01"
-last_updated: "1993-06-02"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003189"
 soort: "AMvB"
@@ -76,7 +76,7 @@ Tot de in [artikel 1, tweede lid, van de Wet buitengewoon pensioen 1940-1945](ht
 
 ##### Artikel 3
 
-De Pensioen- en Uitkeringsraad, genoemd in [artikel 2 van de Wet op de Pensioen- en Uitkeringsraad](https://wetten.overheid.nl/jci1.3:c:BWBR0004806&artikel=2) (**Stb.** 1990, 324) kan met personen, die behoren tot de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003189&artikel=2&z=1993-06-02&g=1993-06-02) omschreven categorieën, gelijkstellen degenen, wier omstandigheden tijdens de oorlogsjaren 1940-1945 een zodanige overeenkomst vertonen met die van personen behorende tot eerder bedoelde categorieën, dat het niet van toepassing verklaren van dit besluit een klaarblijkelijke hardheid zou zijn.
+De Pensioen- en Uitkeringsraad, bedoeld in [artikel 3 van de Wet uitvoering wetten voor verzetsdeelnemers en oorlogsgetroffenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=3) kan met personen, die behoren tot de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003189&artikel=2&z=2011-01-01&g=2011-01-01) omschreven categorieën, gelijkstellen degenen, wier omstandigheden tijdens de oorlogsjaren 1940-1945 een zodanige overeenkomst vertonen met die van personen behorende tot eerder bedoelde categorieën, dat het niet van toepassing verklaren van dit besluit een klaarblijkelijke hardheid zou zijn.
 
 ##### Artikel 4
 
