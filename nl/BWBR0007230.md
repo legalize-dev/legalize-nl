@@ -4,7 +4,7 @@ identifier: "BWBR0007230"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2010-01-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007230"
 soort: "AMvB"
@@ -74,7 +74,7 @@ Hebben goedgevonden en verstaan:
 
 2. De kosten van de waardering komen ten laste van de afnemers.
 
-3. De waterschappen betalen aan het Rijk jaarlijks een vergoeding van € 22 409 788 voor het aandeel van de waterschappen in de kosten van de waardering. Dit bedrag wordt bij het begin van het kalenderjaar bij regeling van Onze Minister aangepast vanwege een verwachte prijsmutatie en een volumeopslag. De verwachte prijsmutatie is daarbij het percentage zoals dat door het Centraal planbureau in het Centraal Economisch Plan is gepubliceerd als «prijsmutatie netto materiële overheidsconsumptie» voor het kalenderjaar. De volumeopslag wordt gesteld op 0,9 procent.
+3. De waterschappen betalen aan het Rijk jaarlijks een vergoeding van € 22 970 033 voor het aandeel van de waterschappen in de kosten van de waardering. Dit bedrag wordt bij het begin van het kalenderjaar bij regeling van Onze Minister aangepast vanwege een verwachte prijsmutatie en een volumeopslag. De verwachte prijsmutatie is daarbij het percentage zoals dat door het Centraal planbureau in het Centraal Economisch Plan is gepubliceerd als «prijsmutatie netto materiële overheidsconsumptie» voor het kalenderjaar. De volumeopslag wordt gesteld op 0,9 procent.
 
 4. Ingeval het in het derde lid genoemde bedrag hoger is dan € 21 810 013, wordt het verschil toegevoegd aan de algemene middelen van het Rijk.
 
@@ -82,11 +82,11 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 3
 
-Onder de kosten van de Waarderingskamer, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2010-01-01&g=2010-01-01), worden verstaan de kosten verbonden aan de uitoefening van toezicht op de waardering, de kosten verbonden aan de uitoefening van toezicht op de uitvoering van de basisregistratie waarde onroerende zaken (basisregistratie WOZ), de kosten verbonden aan de geschillenbeslechting, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=4&artikel=11&z=2010-01-01&g=2010-01-01) van de wet, de kosten verbonden aan advisering van de Waarderingskamer door derden, alsmede de huisvestings- en personele kosten.
+Onder de kosten van de Waarderingskamer, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2011-01-01&g=2011-01-01), worden verstaan de kosten verbonden aan de uitoefening van toezicht op de waardering, de kosten verbonden aan de uitoefening van toezicht op de uitvoering van de basisregistratie waarde onroerende zaken (basisregistratie WOZ), de kosten verbonden aan de geschillenbeslechting, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=4&artikel=11&z=2011-01-01&g=2011-01-01) van de wet, de kosten verbonden aan advisering van de Waarderingskamer door derden, alsmede de huisvestings- en personele kosten.
 
 ##### Artikel 4
 
-Onder de kosten van de waardering, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2010-01-01&g=2010-01-01), worden verstaan de kosten verbonden aan:
+Onder de kosten van de waardering, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2011-01-01&g=2011-01-01), worden verstaan de kosten verbonden aan:
 
 - 1°. het verrichten van algemene werkzaamheden ten behoeve van de waardebepaling;
 
@@ -104,11 +104,11 @@ Vervallen
 
 ##### Artikel 5
 
-1. De kosten van de Waarderingskamer worden aan de hand van de door haar vastgestelde begroting als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=5&artikel=12&z=2010-01-01&g=2010-01-01) van de wet, in januari van het jaar waarop zij betrekking hebben, in voorlopige rekening gebracht aan de afnemers.
+1. De kosten van de Waarderingskamer worden aan de hand van de door haar vastgestelde begroting als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=5&artikel=12&z=2011-01-01&g=2011-01-01) van de wet, in januari van het jaar waarop zij betrekking hebben, in voorlopige rekening gebracht aan de afnemers.
 
 2. De afnemers voldoen hun aandeel in de begrote kosten binnen vier weken.
 
-3. Na de goedkeuring door Onze Minister van het verslag van de Waarderingskamer als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=5&artikel=13&z=2010-01-01&g=2010-01-01) van de wet, vindt de definitieve kostenverrekening plaats.
+3. Na de goedkeuring door Onze Minister van het verslag van de Waarderingskamer als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=5&artikel=13&z=2011-01-01&g=2011-01-01) van de wet, vindt de definitieve kostenverrekening plaats.
 
 ##### Artikel 6
 
@@ -128,7 +128,7 @@ Vervallen
 
 ##### Artikel 8
 
-1. Het college van burgemeester en wethouders levert de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=3&artikel=7&z=2010-01-01&g=2010-01-01) bedoelde gegevens aan de afnemers.
+1. Het college van burgemeester en wethouders levert de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=3&artikel=7&z=2011-01-01&g=2011-01-01) bedoelde gegevens aan de afnemers.
 
 2. De levering van gegevens aan de afnemers vindt plaats:
 
