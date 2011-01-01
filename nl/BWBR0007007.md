@@ -4,7 +4,7 @@ identifier: "BWBR0007007"
 country: "nl"
 rank: "amvb"
 publication_date: "2011-01-01"
-last_updated: "2009-07-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007007"
 soort: "AMvB"
@@ -46,7 +46,11 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder gepensioneerde: een persoon als bedoeld in de artikelen 31**e**, eerste lid, onder **a**, **b** en **c**, van de [Wet buitengewoon pensioen 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032), 28**e**, eerste lid, onder **a**, **b** en **c**, van de [Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035) en 35**a**, eerste lid, onder **a**, **b** en **c**, van de [Wet buitengewoon pensioen Indisch verzet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968).
+In dit besluit wordt verstaan onder:
+
+- a. de gepensioneerde: een persoon als bedoeld in de [artikelen 31e, eerste lid, onder a, b en c, van de Wet buitengewoon pensioen 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=31e), [28e, eerste lid, onder a, b en c, van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=28e) en [35a, eerste lid, onder a, b en c, van de Wet buitengewoon pensioen Indisch verzet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&artikel=35a);
+
+- b. de Sociale verzekeringsbank: de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6).
 
 ##### Artikel 2
 
@@ -64,13 +68,13 @@ In dit besluit wordt verstaan onder gepensioneerde: een persoon als bedoeld in d
 
 - e. inkomsten, verbonden aan de toekenning van een onderscheiding;
 
-- f. de van de Raad ontvangen wettelijke rente op de garantietoeslag, en
+- f. de van de Sociale verzekeringsbank ontvangen wettelijke rente op de garantietoeslag, en
 
 - g. negatieve vermogensinkomsten.
 
 ##### Artikel 3
 
-De voor de vaststelling van het maandinkomen in aanmerking te nemen inkomsten van buiten Nederland woonachtige gepensioneerden worden door de Raad overeenkomstig het bepaalde in dit besluit vastgesteld op grond van de door de Nederlandse Consul in het land van inwoning van de gepensioneerde door tussenkomst van Onze Minister van Buitenlandse Zaken te verstrekken gegevens. Indien de gepensioneerde woonachtig is in de Nederlandse Antillen of Aruba, worden de gegevens verstrekt door de hoogste Nederlandse Autoriteit in die Rijksdelen door tussenkomst van Onze Minister voor Nederlands-Antilliaanse en Arubaanse Zaken.
+De voor de vaststelling van het maandinkomen in aanmerking te nemen inkomsten van buiten Nederland woonachtige gepensioneerden worden door de Sociale verzekeringsbank overeenkomstig het bepaalde in dit besluit vastgesteld op grond van de door de Nederlandse Consul in het land van inwoning van de gepensioneerde door tussenkomst van Onze Minister van Buitenlandse Zaken te verstrekken gegevens. Indien de gepensioneerde woonachtig is in Aruba, Curaçao of Sint-Maarten, worden de gegevens verstrekt door de hoogste Nederlandse Autoriteit ter plaatse.
 
 ##### Artikel 4
 
