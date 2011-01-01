@@ -4,7 +4,7 @@ identifier: "BWBR0025870"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2009-06-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025870"
 soort: "ministeriele-regeling"
@@ -50,13 +50,11 @@ In deze regeling wordt verstaan onder:
 
 - c. **donatie:** met inachtneming van de [Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066) bij leven een orgaan laten verwijderen ten behoeve van implantatie bij een bepaalde persoon;
 
-- d.
+- d. voorbereiding van een donatie:
 
-- 1°. afname van bloedmonsters van de donor voor medisch vooronderzoek teneinde te bepalen of het orgaan van de donor geschikt kan zijn voor de ontvanger;
+- 1°. medewerking aan onderzoek om nader te bepalen of de donor tot donatie in staat is en of het orgaan geschikt is voor donatie;
 
-- 2°. medewerking aan medische vervolgonderzoeken om nader te bepalen of het orgaan geschikt is voor de ontvanger en of de donor tot donatie in staat is;
-
-- 3°. eventuele behandeling van de donor die medisch noodzakelijk is voor de donatie;
+- 2°. eventuele behandeling van de donor die medisch noodzakelijk is voor donatie;
 
 - e. **uitvoering van een donatie:** opname van de donor in het ziekenhuis ten behoeve van de operatieve verwijdering van het orgaan van de donor;
 
@@ -98,7 +96,11 @@ De subsidie wordt uitsluitend verstrekt ten behoeve van een donatie die ingevolg
 
 - 3°. de kosten van de donor voor medisch noodzakelijke zorg die aan de donor op schriftelijke medische indicatie is verleend en die niet valt onder de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) of de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614);
 
-- d. de kosten van buitenlandse reizen per openbaar vervoer, per vliegtuig of per boot die de donor en één andere door de donor aangewezen persoon maken in het kader van de voorbereiding van, de uitvoering van en het herstel na een donatie, berekend op basis van maximaal de laagste klasse van het desbetreffende vervoermiddel;
+- d. de kosten van buitenlandse reizen, met inbegrip van reizen naar en van Nederland, die de donor en één andere door de donor aangewezen persoon maken in het kader van de voorbereiding van, de uitvoering van en het herstel na een donatie:
+
+- 1°. bij reizen per openbaar vervoer, vliegtuig of boot: berekend op basis van de overgelegde vervoersbewijzen tot maximaal de laagste klasse van het desbetreffende vervoermiddel;
+
+- 2°. bij andere middelen van vervoer: berekend op basis van de laagste klasse van openbaar vervoer;
 
 - e. een eenmalig bedrag ten behoeve van de binnenlandse reiskosten en de verblijfkosten van de door de donor aangewezen persoon gedurende de uitvoering van de donatie te bepalen volgens de onderstaande tabel:
 
@@ -114,7 +116,17 @@ De subsidie wordt uitsluitend verstrekt ten behoeve van een donatie die ingevolg
 
 - g. uitsluitend in geval de donatie buiten het woonland van de donor wordt uitgevoerd een bedrag van € 8 per etmaal dat de donor in het kader van de voorbereiding van of het herstel na de donatie, tot uiterlijk 13 weken, dan wel 26 weken in geval van een leverdonatie, na de datum van ontslag van de donor uit het ziekenhuis waar de donatie is uitgevoerd, buiten een zorginstelling verblijft in het land waar de donatie wordt uitgevoerd, vermeerderd met een eenmalig bedrag van € 250 indien de donor woonachtig is buiten Europa;
 
-- h. ten behoeve van overige kosten een eenmalig bedrag van € 160 in geval van nierdonatie, € 180 in geval van leverdonatie of € 100 in geval donatie niet heeft plaatsgevonden maar wel is gestart met de uitvoering van een donatie.
+- h. ten behoeve van overige kosten een eenmalig bedrag van € 160 in geval van nierdonatie, € 180 in geval van leverdonatie of € 100 in geval donatie niet heeft plaatsgevonden maar wel is gestart met de uitvoering van een donatie;
+
+- i. uitsluitend in het geval de voorbereiding van de donatie is aangevangen en de ontvanger van het te doneren orgaan niet meer bepaald wordt: een eenmalig bedrag ten behoeve van de binnenlandse reiskosten en de verblijfkosten van de donor voor de voorbereiding van de donatie te bepalen volgens onderstaande tabel:
+
+| afstand woning donor tot ziekenhuis waar de voorbereiding van de donatie plaatsvindt | per keer dat de donor naar het ziekenhuis is gereisd |
+| --- | --- |
+| 0 tot 10 km | € 5 |
+| 10 tot 50 km | € 20 |
+| 50 tot 100 km | € 32 |
+| 100 tot 150 km | € 42 |
+| 150 km of meer | € 48 |
 
 2. De kosten, bedoeld in het eerste lid, onderdelen a, b, c, d en f, komen uitsluitend voor subsidie in aanmerking voor zover de donor die kosten noodzakelijkerwijs heeft gemaakt als rechtstreeks gevolg van de voorbereiding van, de uitvoering van of het herstel na een donatie in de periode die eindigt uiterlijk 13 weken, dan wel 26 weken in geval van een leverdonatie, na de datum van ontslag van de donor uit het ziekenhuis waar de donatie is uitgevoerd en voor zover de donor niet enige andere bijdrage in die kosten heeft ontvangen, heeft kunnen ontvangen of kan ontvangen.
 
@@ -158,7 +170,7 @@ De minister kan indien bijzondere omstandigheden daartoe aanleiding geven, artik
 
 ##### Artikel 9
 
-Een verzoek om een onkostenvergoeding dat bij de Nierstichting is ingediend voor de inwerkingtreding van deze regeling en dat nog niet is afgehandeld door de Nierstichting, wordt behandeld als een aanvraag in de zin van deze regeling.
+Deze regeling wordt uitgevoerd door de Nederlandse Transplantatie Stichting.
 
 ##### Artikel 10
 
