@@ -4,7 +4,7 @@ identifier: "BWBR0002507"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2006-01-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002507"
 soort: "wet"
@@ -100,7 +100,7 @@ Vervallen
 
 In deze afdeling wordt verstaan onder:
 
-- a. pensioen: een pensioen als bedoeld in [artikel 1, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Eerste&artikel=1&z=2006-01-01&g=2006-01-01), met inbegrip van de daarop verleende toeslagen;
+- a. pensioen: een pensioen als bedoeld in [artikel 1, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Eerste&artikel=1&z=2006-01-01&g=2011-01-01), met inbegrip van de daarop verleende toeslagen;
 
 - b. ander pensioen: een pensioen, als bedoeld in artikel 16, tweede lid jo. vierde lid, van het pensioenreglement.
 
@@ -120,7 +120,7 @@ Voor de toepassing van de bepalingen van deze afdeling geldt het volgende.
 
 - a. Een pensioen wordt geacht te zijn berekend naar 8/5 maal de pensioendiensttijd, die voor de berekening van het pensioen in aanmerking is genomen, tot een maximum van veertig jaren.
 
-- b. Indien in een pensioen een invaliditeitstoeslag, als bedoeld in de Tweede Afdeling is begrepen, wordt het pensioen geacht te zijn berekend naar 8/5 maal een met de som van pensioen en invaliditeitstoeslag overeenkomende pensioendiensttijd, tot een maximum van veertig jaren. De voorgaande volzin vindt overeenkomstige toepassing ten aanzien van weduwen- en wezenpensioenen, waarop krachtens [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Derde&artikel=6&z=2006-01-01&g=2006-01-01), of [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Derde&artikel=6&z=2006-01-01&g=2006-01-01), een toeslag is verleend.
+- b. Indien in een pensioen een invaliditeitstoeslag, als bedoeld in de Tweede Afdeling is begrepen, wordt het pensioen geacht te zijn berekend naar 8/5 maal een met de som van pensioen en invaliditeitstoeslag overeenkomende pensioendiensttijd, tot een maximum van veertig jaren. De voorgaande volzin vindt overeenkomstige toepassing ten aanzien van weduwen- en wezenpensioenen, waarop krachtens [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Derde&artikel=6&z=2006-01-01&g=2011-01-01), of [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Derde&artikel=6&z=2006-01-01&g=2011-01-01), een toeslag is verleend.
 
 - c. Een vol algemeen ouderdomspensioen wordt geacht betrekking te hebben op het tijdvak, liggende tussen de tijdstippen, waarop de rechthebbende op een eigen pensioen, dan wel degene aan wiens overlijden het recht op pensioen wordt ontleend, de leeftijd van 15 jaren heeft bereikt en die van 65 jaren heeft of zou hebben bereikt. Buiten beschouwing wordt gelaten dat deel van vorenbedoeld tijdvak waarop betrekking heeft of geacht kan worden betrekking te hebben het bedrag van het algemeen ouderdomspensioen waarop aanspraak is verkregen door vrijwillige premiebetaling op grond van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221).
 
@@ -150,7 +150,7 @@ Voor de toepassing van de bepalingen van deze afdeling geldt het volgende.
 
 ##### Artikel 12
 
-1. Indien het bedrag, dat tot grondslag heeft gestrekt voor de berekening van het eigen pensioen, dan wel, indien het pensioen is afgeleid van een eigen pensioen, het bedrag dat tot grondslag heeft gestrekt voor de berekening van dat eigen pensioen, vermeerderd met een percentage gelijk aan het percentage van de op dat pensioen bij of krachtens deze wet toegekende aanpassingstoeslag, lager is dan 7/66 maal het normbedrag bedoeld in het tweede lid, wordt het met toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Vierde&hoofdstuk=Tweede&artikel=11&z=2006-01-01&g=2006-01-01) berekende bedrag van de beperking vermenigvuldigd met een breuk, waarvan de teller het eerstbedoelde vermeerderde bedrag is en de noemer 7/66 maal het normbedrag. De uitkomst van deze vermenigvuldiging vormt in dat geval het bedrag van de beperking van het pensioen.
+1. Indien het bedrag, dat tot grondslag heeft gestrekt voor de berekening van het eigen pensioen, dan wel, indien het pensioen is afgeleid van een eigen pensioen, het bedrag dat tot grondslag heeft gestrekt voor de berekening van dat eigen pensioen, vermeerderd met een percentage gelijk aan het percentage van de op dat pensioen bij of krachtens deze wet toegekende aanpassingstoeslag, lager is dan 7/66 maal het normbedrag bedoeld in het tweede lid, wordt het met toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Vierde&hoofdstuk=Tweede&artikel=11&z=2006-01-01&g=2011-01-01) berekende bedrag van de beperking vermenigvuldigd met een breuk, waarvan de teller het eerstbedoelde vermeerderde bedrag is en de noemer 7/66 maal het normbedrag. De uitkomst van deze vermenigvuldiging vormt in dat geval het bedrag van de beperking van het pensioen.
 
 2. Het normbedrag is het bedrag, bedoeld in [artikel J 12 van de Algemene burgerlijke pensioenwet](onbekend), zoals die luidde op 31 december 1995, welk bedrag met ingang van 1 januari 1996 bij ministeriële regeling wordt aangepast overeenkomstig de aanpassing van de pensioenen voor overheidswerknemers in de zin van [artikel 2 van de Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=2) die werkzaam zijn geweest in de sector Rijk.
 
@@ -174,11 +174,11 @@ Vervallen
 
 1. Op schriftelijk verzoek van degene, die aantoont, dat uit hoofde van zijn aanspraak op algemeen ouderdomspensioen mede een vermindering plaats vindt van een andere pensioenuitkering, wordt, voor zover de tijdvakken, gedurende welke wordt geacht te zijn vervuld de diensttijd, waarnaar het pensioen en de andere pensioenuitkering worden geacht te zijn berekend, samenvallen, het bedrag van die vermindering voor zoveel mogelijk in mindering gebracht op het bedrag van de beperking van het pensioen, zulks met ingang van de dag waarop bedoelde omstandigheid is opgetreden, doch niet vroeger dan een jaar voor de eerste dag van de maand, waarin het desbetreffende verzoek werd ingediend.
 
-2. Ten aanzien van de vaststelling van het tijdvak, gedurende hetwelk wordt geacht te zijn vervuld diensttijd, terzake waarvan een andere pensioenuitkering is toegekend, is het bepaalde in [artikel 10 onder **f**](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Vierde&hoofdstuk=Eerste&artikel=10&z=2006-01-01&g=2006-01-01) van overeenkomstige toepassing. Indien een pensioenuitkering niet of niet uitsluitend is berekend naar diensttijd, wordt deze geacht te zijn berekend naar een diensttijd, die zich verhoudt tot veertig jaren, zoals het bedrag van die pensioenuitkering zich verhoudt tot het bedrag van die uitkering, indien het zou zijn berekend naar een diensttijd van 40 jaren.
+2. Ten aanzien van de vaststelling van het tijdvak, gedurende hetwelk wordt geacht te zijn vervuld diensttijd, terzake waarvan een andere pensioenuitkering is toegekend, is het bepaalde in [artikel 10 onder **f**](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Vierde&hoofdstuk=Eerste&artikel=10&z=2006-01-01&g=2011-01-01) van overeenkomstige toepassing. Indien een pensioenuitkering niet of niet uitsluitend is berekend naar diensttijd, wordt deze geacht te zijn berekend naar een diensttijd, die zich verhoudt tot veertig jaren, zoals het bedrag van die pensioenuitkering zich verhoudt tot het bedrag van die uitkering, indien het zou zijn berekend naar een diensttijd van 40 jaren.
 
 3. Bij toepassing van het eerste lid wordt, ingeval aanspraak bestaat of wordt geacht te bestaan op meer dan een pensioen, het bedrag van de in dat lid bedoelde vermindering op de overeenkomstig de voorgaande artikelen berekende beperkingen dier pensioenen in mindering gebracht naar verhouding van de bedragen dier beperkingen.
 
-4. Indien de beperking van het pensioen reeds is verminderd krachtens het bepaalde in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Vierde&hoofdstuk=Tweede&artikel=12&z=2006-01-01&g=2006-01-01), vindt het eerste lid slechts toepassing voor zover zulks nodig is om te voorkomen, dat de som van evenbedoelde beperking en de vermindering, bedoeld in het eerste lid, zou overschrijden het bedrag van de beperking, indien [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Vierde&hoofdstuk=Tweede&artikel=12&z=2006-01-01&g=2006-01-01) geen toepassing zou hebben gevonden. De voorgaande volzin is van overeenkomstige toepassing in het geval bedoeld in het derde lid.
+4. Indien de beperking van het pensioen reeds is verminderd krachtens het bepaalde in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Vierde&hoofdstuk=Tweede&artikel=12&z=2006-01-01&g=2011-01-01), vindt het eerste lid slechts toepassing voor zover zulks nodig is om te voorkomen, dat de som van evenbedoelde beperking en de vermindering, bedoeld in het eerste lid, zou overschrijden het bedrag van de beperking, indien [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Vierde&hoofdstuk=Tweede&artikel=12&z=2006-01-01&g=2011-01-01) geen toepassing zou hebben gevonden. De voorgaande volzin is van overeenkomstige toepassing in het geval bedoeld in het derde lid.
 
 5. Indien de som van het bedrag, waarmee de uitbetaling van een pensioen ingevolge deze wet zou dienen te worden beperkt en het bedrag van de vermindering van een andere pensioenuitkering een bedrag gelijk aan 80 percent van het volle algemeen ouderdomspensioen zou overschrijden, wordt van deze overschrijding een deel in mindering gebracht op het bedrag van de beperking en wel in de verhouding waarin de diensttijd, waarnaar het pensioen wordt geacht te zijn berekend, staat tot het totaal van de diensttijden.
 
@@ -196,13 +196,13 @@ Het wezenpensioen, waarop twee of meer volle wezen aanspraak hebben, wordt, indi
 
 2. Indien aanspraak bestaat op een algemene nabestaandenuitkering op grond van [artikel 14, eerste lid, onderdeel a, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=14) of een algemene halfwezenuitkering op grond van [artikel 22, eerste lid, onderdeel a, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=22), doch geen van de in evengenoemde bepalingen bedoelde kinderen recht heeft op een wezenpensioen, wordt de beperking berekend naar de algemene nabestaandenuitkering onderscheidenlijk de algemene halfwezenuitkering die geldt voor degenen op wie [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=17), onderscheidenlijk [artikel 25, eerste lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=25) toepassing vindt.
 
-3. Het bepaalde in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Vierde&hoofdstuk=Tweede&artikel=12&z=2006-01-01&g=2006-01-01) is van overeenkomstige toepassing.
+3. Het bepaalde in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Vierde&hoofdstuk=Tweede&artikel=12&z=2006-01-01&g=2011-01-01) is van overeenkomstige toepassing.
 
 4. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kan nadere regels stellen met betrekking tot de in de vorige leden bedoelde beperking te hanteren bedragen.
 
 ##### Artikel 18
 
-Indien aanspraak bestaat op een weduwenpensioen of een wezenpensioen en tevens aanspraak bestaat op een ander pensioen of op een andere pensioenuitkering vindt het bepaalde in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Vierde&hoofdstuk=Tweede&artikel=14&z=2006-01-01&g=2006-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Vierde&hoofdstuk=Tweede&artikel=15&z=2006-01-01&g=2006-01-01) overeenkomstige toepassing.
+Indien aanspraak bestaat op een weduwenpensioen of een wezenpensioen en tevens aanspraak bestaat op een ander pensioen of op een andere pensioenuitkering vindt het bepaalde in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Vierde&hoofdstuk=Tweede&artikel=14&z=2006-01-01&g=2011-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Vierde&hoofdstuk=Tweede&artikel=15&z=2006-01-01&g=2011-01-01) overeenkomstige toepassing.
 
 ##### Artikel 19
 
@@ -236,7 +236,7 @@ Op schriftelijk verzoek van de weduwe, die aantoont, dat een rente of uitkering,
 
 ##### Artikel 19c
 
-1. Indien ter zake van het overlijden van een gepensioneerde recht op een weduwepensioen als bedoeld in deze regeling ontstaat, heeft de weduwe die op 1 januari 1998 de leeftijd van 55 jaar heeft bereikt in afwijking van [artikel 19b](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Vierde&hoofdstuk=Derde&artikel=19b&z=2006-01-01&g=2006-01-01) recht op een toeslag voor de tijd die bij de berekening van het pensioen in aanmerking is genomen. Dit recht bestaat indien en voor zolang recht bestaat op een nabestaandenuitkering krachtens de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), die krachtens [artikel 67, derde of negende lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=67) vanaf 1 januari 1998 wordt verminderd wegens de omstandigheid dat de weduwe vanaf een tijdstip voor 1 juli 1996 met dezelfde persoon ononderbroken ongehuwd samenwoont.
+1. Indien ter zake van het overlijden van een gepensioneerde recht op een weduwepensioen als bedoeld in deze regeling ontstaat, heeft de weduwe die op 1 januari 1998 de leeftijd van 55 jaar heeft bereikt in afwijking van [artikel 19b](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Vierde&hoofdstuk=Derde&artikel=19b&z=2006-01-01&g=2011-01-01) recht op een toeslag voor de tijd die bij de berekening van het pensioen in aanmerking is genomen. Dit recht bestaat indien en voor zolang recht bestaat op een nabestaandenuitkering krachtens de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), die krachtens [artikel 67, derde of negende lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=67) vanaf 1 januari 1998 wordt verminderd wegens de omstandigheid dat de weduwe vanaf een tijdstip voor 1 juli 1996 met dezelfde persoon ononderbroken ongehuwd samenwoont.
 
 2. De toeslag, bedoeld in het eerste lid, bedraagt per pensioentellend jaar 2,5% van het verschil tussen 75 % van de krachtens de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=14) en [30 van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=30) vastgestelde nabestaandenuitkering en de krachtens [artikel 67, derde of negende lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=67) verminderde nabestaandenuitkering. De toeslag bedraagt niet meer dan 75% van de krachtens de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=14) en [30 van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=30) vastgestelde nabestaandenuitkering. De toeslag wordt vanaf 1 januari 1998 vastgesteld met inachtneming van de bedragen vanaf die datum en wordt vervolgens telkens nader vastgesteld aan de hand van de ontwikkelingen van de bedragen van de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795).
 
@@ -248,11 +248,11 @@ Op schriftelijk verzoek van de weduwe, die aantoont, dat een rente of uitkering,
 
 - c. met ingang van de eerste dag van de maand waarin de vermindering van de nabestaandenuitkering, bedoeld in het eerste lid, ongedaan wordt gemaakt.
 
-4. Het [derde en vijfde lid van artikel 19b](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Vierde&hoofdstuk=Derde&artikel=19b&z=2006-01-01&g=2006-01-01) zijn van overeenkomstige toepassing.
+4. Het [derde en vijfde lid van artikel 19b](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Vierde&hoofdstuk=Derde&artikel=19b&z=2006-01-01&g=2011-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 19d
 
-Bij gelijktijdige aanspraak op meerdere pensioenen of uitkeringen waarop een naar aard en strekking soortgelijke toeslag wordt verleend als bedoeld in de [artikelen 19b](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Vierde&hoofdstuk=Derde&artikel=19b&z=2006-01-01&g=2006-01-01) en [19c](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Vierde&hoofdstuk=Derde&artikel=19c&z=2006-01-01&g=2006-01-01), wordt de in die artikelen bedoelde toeslag zodanig verminderd, dat het totaal van de toeslagen gelijk is aan de maximaal op grond van genoemde artikelen toe te kennen toeslag.
+Bij gelijktijdige aanspraak op meerdere pensioenen of uitkeringen waarop een naar aard en strekking soortgelijke toeslag wordt verleend als bedoeld in de [artikelen 19b](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Vierde&hoofdstuk=Derde&artikel=19b&z=2006-01-01&g=2011-01-01) en [19c](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Vierde&hoofdstuk=Derde&artikel=19c&z=2006-01-01&g=2011-01-01), wordt de in die artikelen bedoelde toeslag zodanig verminderd, dat het totaal van de toeslagen gelijk is aan de maximaal op grond van genoemde artikelen toe te kennen toeslag.
 
 ### hoofdstuk Vierde. Uitvoeringsbepalingen
 
@@ -348,6 +348,6 @@ Deze wet kan worden aangehaald als: Wet aanpassing pensioenvoorzieningen Bijstan
 
 1. Deze wet treedt in werking met ingang van de tweede dag na die van uitgifte van het **Staatsblad** waarin zij wordt geplaatst en werkt, behoudens het bepaalde in het volgende lid, terug tot 1 januari 1963.
 
-2. [Artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Vijfde&artikel=28&z=2006-01-01&g=2006-01-01) werkt terug tot 1 oktober 1962; de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Derde&artikel=7&z=2006-01-01&g=2006-01-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Vijfde&artikel=29&z=2006-01-01&g=2006-01-01) werken terug tot 1 januari 1964.
+2. [Artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Vijfde&artikel=28&z=2006-01-01&g=2011-01-01) werkt terug tot 1 oktober 1962; de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Derde&artikel=7&z=2006-01-01&g=2011-01-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Vijfde&artikel=29&z=2006-01-01&g=2011-01-01) werken terug tot 1 januari 1964.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
