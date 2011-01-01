@@ -4,7 +4,7 @@ identifier: "BWBR0031021"
 country: "nl"
 rank: "wet"
 publication_date: "2015-06-30"
-last_updated: "2010-05-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031021"
 soort: "wet"
@@ -46,7 +46,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel Ia
 
@@ -54,7 +54,7 @@ Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel III
 
@@ -66,7 +66,7 @@ Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Successiewet 1956.
 
 ##### Artikel VI
 
@@ -110,7 +110,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Belastingwet BES.
 
 ##### Artikel XV
 
@@ -118,7 +118,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting BES.
 
 ##### Artikel XVII
 
@@ -126,7 +126,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet loonbelasting BES.
 
 ##### Artikel XIX
 
