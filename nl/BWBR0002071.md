@@ -4,7 +4,7 @@ identifier: "BWBR0002071"
 country: "nl"
 rank: "amvb"
 publication_date: "2011-01-01"
-last_updated: "1994-06-24"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002071"
 soort: "AMvB"
@@ -50,15 +50,17 @@ In dit besluit wordt verstaan onder:
 
 de wet: de [Wet buitengewoon pensioen 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032) (**Stb.** 1986, 575);
 
-de Raad: de Pensioen- en Uitkeringsraad, genoemd in [artikel 2 van de Wet op de Pensioen- en Uitkeringsraad](https://wetten.overheid.nl/jci1.3:c:BWBR0004806&artikel=2) (**Stb.** 1990, 324);
+de Raad: de Pensioen- en Uitkeringsraad, bedoeld in [artikel 3 van de Wet uitvoering wetten voor verzetsdeelnemers en oorlogsgetroffenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=3);
 
-pensioen: buitengewoon pensioen te verlenen krachtens de wet;
+de Sociale verzekeringsbank: de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6);
 
-deelnemer: de deelnemer aan het verzet in de zin van artikel 1, eerste lid, van de wet, alsmede degene die behoort tot een van de categorieën van personen, bedoeld in artikel 1, tweede lid, der wet;
+pensioen: buitengewoon pensioen te verlenen krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002032);
 
-gewezen echtgenote: de vrouw, bedoeld in artikel 14, tweede lid, van de wet;
+deelnemer: de deelnemer aan het verzet in de zin van [artikel 1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=1), alsmede degene die behoort tot een van de categorieën van personen, bedoeld in artikel 1, tweede lid, der wet;
 
-gewezen echtgenoot: de man, bedoeld in artikel 14, vierde lid, eerste volzin, onder **b**, van de wet.
+gewezen echtgenote: de vrouw, bedoeld in [artikel 14, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=14);
+
+gewezen echtgenoot: de man, bedoeld in [artikel 14, vierde lid, eerste volzin, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=14).
 
 ##### Artikel 2
 
@@ -96,7 +98,7 @@ Vervallen
 
 Bij een aanvrage om pensioen ten behoeve van de wettige kinderen, bedoeld in artikel 15, eerste lid, onder **a**, en tweede lid, der wet worden bovendien overgelegd:
 
-- 1. de in [artikel 4, onder 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002071&artikel=4&z=1994-06-24&g=1994-06-24), vermelde stukken, voorzover die niet reeds zijn overgelegd ingevolge het bepaalde in dat artikel;
+- 1. de in [artikel 4, onder 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002071&artikel=4&z=2011-01-01&g=2011-01-01), vermelde stukken, voorzover die niet reeds zijn overgelegd ingevolge het bepaalde in dat artikel;
 
 - 2. extracten uit het geboortenregister betreffende die kinderen;
 
@@ -118,7 +120,7 @@ Bij een aanvrage om toekenning van pensioen aan natuurlijke kinderen als bedoeld
 
 Bij een aanvrage om pensioen ten behoeve van een ouderloos kleinkind als bedoeld in artikel 15, eerste lid, onder **e**, der wet worden bovendien overgelegd:
 
-- 1. de in [artikel 7, onder 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002071&artikel=7&z=1994-06-24&g=1994-06-24), vermelde stukken;
+- 1. de in [artikel 7, onder 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002071&artikel=7&z=2011-01-01&g=2011-01-01), vermelde stukken;
 
 - 2. een extract uit het geboortenregister betreffende de vader of de moeder die afstamt van de deelnemer;
 
@@ -128,7 +130,7 @@ Bij een aanvrage om pensioen ten behoeve van een ouderloos kleinkind als bedoeld
 
 Bij een aanvrage om pensioen van ouders, grootouders of schoonouders als bedoeld in artikel 15, eerste lid, onder **d** en **f**, der wet worden bovendien overgelegd:
 
-- 1. de in [artikel 7, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002071&artikel=7&z=1994-06-24&g=1994-06-24), vermelde stukken;
+- 1. de in [artikel 7, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002071&artikel=7&z=2011-01-01&g=2011-01-01), vermelde stukken;
 
 - 2. extracten uit het geboortenregister betreffende elk der ouders, grootouders of schoonouders;
 
@@ -142,7 +144,7 @@ Bij een aanvrage om pensioen van ouders, grootouders of schoonouders als bedoeld
 
 ##### Artikel 10
 
-De vergoedingen aan personen, die voor de Raad, op diens uitnodiging, zijn verschenen voor het geven van inlichtingen komen ten laste van het Rijk; zij wordt gedeclareerd bij de Raad.
+De vergoedingen aan personen, die voor de Raad of de Sociale verzekeringsbank, op diens uitnodiging, zijn verschenen voor het geven van inlichtingen komen ten laste van het Rijk; zij worden gedeclareerd bij de Sociale verzekeringsbank.
 
 ##### Artikel 10a
 
