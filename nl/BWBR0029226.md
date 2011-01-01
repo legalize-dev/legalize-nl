@@ -4,7 +4,7 @@ identifier: "BWBR0029226"
 country: "nl"
 rank: "wet"
 publication_date: "2011-01-01"
-last_updated: "2010-04-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029226"
 soort: "wet"
@@ -57,7 +57,7 @@ Wijzigt de Algemene Ouderdomswet.
 
 ##### Artikel IV. Wijziging van de [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Pensioenwet.
 
 ##### Artikel V. Wijziging van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)
 
@@ -65,19 +65,19 @@ Wijzigt de Toeslagenwet.
 
 ##### Artikel VI. Wijziging van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Werkloosheidswet.
 
 ##### Artikel VIa. Wijziging van de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet arbeid en zorg.
 
 ##### Artikel VII. Wijziging van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.
 
 ##### Artikel VIII. Wijziging van de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet financiering sociale verzekeringen.
 
 ##### Artikel IX. Wijziging van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163)
 
@@ -97,31 +97,31 @@ Wijzigt de Wet investeren in jongeren.
 
 ##### Artikel XIII. Wijziging van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
 
 ##### Artikel XIV. Wijziging van de [Wet participatiebudget](https://wetten.overheid.nl/jci1.3:c:BWBR0025039)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet participatiebudget.
 
 ##### Artikel XV. Wijziging van de [Wet privatisering FVP](https://wetten.overheid.nl/jci1.3:c:BWBR0009756)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet privatisering FVP.
 
 ##### Artikel XVI. Wijziging van de [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet sociale werkvoorziening.
 
 ##### Artikel XVII. Wijziging van de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
 
 ##### Artikel XVIII. Wijziging van de [Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet verplichte beroepspensioenregeling.
 
 ##### Artikel XIX. Wijziging van de [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet werk en arbeidsondersteuning jonggehandicapten.
 
 ##### Artikel XX. Wijziging van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
 
@@ -133,7 +133,7 @@ Wijzigt de Wet werk en inkomen kunstenaars.
 
 ##### Artikel XXII. Wijziging van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
 
 ##### Artikel XXIII. Wijziging van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
 
@@ -141,14 +141,14 @@ Wijzigt de Ziektewet.
 
 ##### Artikel XXIIIa. Wijziging van de [Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op het onderwijstoezicht.
 
 ##### Artikel XXIV. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, en kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 ##### Artikel XXV. Citeertitel
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Verzamelwet SZW 2011.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
