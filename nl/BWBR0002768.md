@@ -4,7 +4,7 @@ identifier: "BWBR0002768"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-02-06"
-last_updated: "2010-11-16"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002768"
 soort: "AMvB"
@@ -46,7 +46,13 @@ Hebben goedgevonden en verstaan:
 
 1. Dit besluit geldt ten aanzien van:
 
-- a. gegevens, hulpmiddelen en materialen voor de vrijmaking van kernenergie en voor de opslag, vervaardiging, bewerking of verwerking van splijtstoffen, voor zover deze gegevens, hulpmiddelen en materialen, hetzij rechtstreeks van Onze in het tweede lid genoemde Ministers, hetzij met instemming van deze Ministers, onder verplichting tot geheimhouding zijn verkregen, dan wel door Onze in het tweede lid genoemde Ministers zijn aangewezen;
+- a. gegevens, hulpmiddelen en materialen voor: zover deze gegevens, hulpmiddelen en materialen hetzij rechtstreeks van Onze in het tweede lid genoemde Ministers, hetzij met instemming van deze Ministers, onder verplichting tot geheimhouding zijn verkregen, dan wel door Onze in het tweede lid genoemde Ministers zijn aangewezen;
+
+- 1°. de vrijmaking van kernenergie,
+
+- 2°. de opslag, vervaardiging, bewerking of verwerking van splijtstoffen en
+
+- 3°. de beveiliging van de in [artikel 22 van het Besluit kerninstallaties, splijtstoffen en ertsen](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=22) bedoelde splijtstoffen en ertsen, de in [artikel 20ca van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=20ca) bedoelde radioactieve stoffen en inrichtingen als bedoeld in [artikel 15, onder b, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15),
 
 - b. met behulp van zodanige gegevens, hulpmiddelen en materialen verrichte onderzoekingen en toegepaste werkmethoden, voor zover deze onderzoekingen en werkmethoden door Onze in het tweede lid genoemde Ministers zijn aangewezen.
 
@@ -96,7 +102,7 @@ Hebben goedgevonden en verstaan:
 
 - c. een aan de betrokken onderneming of instelling verbonden functionaris wordt aangewezen, speciaal belast met het treffen van maatregelen ter verzekering van de geheimhouding en met het toezicht op de naleving daarvan.
 
-4. In het tweede en derde lid wordt onder Onze Ministers verstaan Onze Ministers, van wie of met wier instemming de betrokken gegevens, hulpmiddelen of materialen onder verplichting tot geheimhouding zijn verkregen, dan wel Onze Ministers, die de betrokken gegevens, hulpmiddelen, materialen, onderzoekingen of werkmethoden op grond van [artikel 1, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0002768&artikel=1&z=2010-11-16&g=2010-11-16), hebben aangewezen.
+4. In het tweede en derde lid wordt onder Onze Ministers verstaan Onze Ministers, van wie of met wier instemming de betrokken gegevens, hulpmiddelen of materialen onder verplichting tot geheimhouding zijn verkregen, dan wel Onze Ministers, die de betrokken gegevens, hulpmiddelen, materialen, onderzoekingen of werkmethoden op grond van [artikel 1, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0002768&artikel=1&z=2011-01-01&g=2011-01-01), hebben aangewezen.
 
 ##### Artikel 3
 
