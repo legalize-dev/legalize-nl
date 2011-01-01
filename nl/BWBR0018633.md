@@ -4,7 +4,7 @@ identifier: "BWBR0018633"
 country: "nl"
 rank: "amvb"
 publication_date: "2011-01-01"
-last_updated: "2009-07-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018633"
 soort: "AMvB"
@@ -53,55 +53,55 @@ Hebben goedgevonden en verstaan:
 
 - a. de wet: de [Wet Centraal Orgaan opvang asielzoekers](https://wetten.overheid.nl/jci1.3:c:BWBR0006685);
 
-- b. opvangvermogen: het geheel van bij het orgaan beschikbare voorzieningen geschikt voor de opvang van asielzoekers en andere categorieën vreemdelingen als bedoeld in [artikel 3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=3);
+- b. opvangvermogen: het geheel van bij het COA beschikbare voorzieningen geschikt voor de opvang van asielzoekers en andere categorieën vreemdelingen als bedoeld in [artikel 3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=3);
 
-- c. product: door het orgaan leverbare, aan de opvang van asielzoekers en andere categorieën vreemdelingen als bedoeld in [artikel 3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=3) gerelateerde en in overeenstemming met Onze Minister gedefinieerde, voorziening;
+- c. product: door het COA leverbare, aan de opvang van asielzoekers en andere categorieën vreemdelingen als bedoeld in [artikel 3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=3) gerelateerde en in overeenstemming met Onze Minister gedefinieerde, voorziening;
 
-- d. project: eenmalig of tijdelijk door het orgaan te leveren voorziening of geheel van voorzieningen;
+- d. project: eenmalig of tijdelijk door het COA te leveren opvangvoorziening, dienst of geheel van opvangvoorzieningen en diensten;
 
 - e. subsidie: subsidie als bedoeld in [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=16).
 
-2. Het in dit besluit bepaalde is van overeenkomstige toepassing op door Onze Minister op grond van [artikel 3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=3) aan het orgaan opgedragen taken met betrekking tot andere categorieën vreemdelingen.
+2. Het in dit besluit bepaalde is van overeenkomstige toepassing op door Onze Minister op grond van [artikel 3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=3) aan het COA opgedragen taken met betrekking tot andere categorieën vreemdelingen.
 
 ### Hoofdstuk II. Raming
 
 ##### Artikel 2
 
-1. Onze Minister doet vóór 1 juni van het jaar voorafgaand aan het kalenderjaar aan het orgaan een raming voor het desbetreffende kalenderjaar toekomen van de bezetting en behoefte aan producten en projecten. Indien deze raming bijstelling behoeft meldt Onze Minister dit schriftelijk aan het orgaan.
+1. Onze Minister doet vóór 1 juni van het jaar voorafgaand aan het kalenderjaar aan het COA een raming voor het desbetreffende kalenderjaar toekomen van de bezetting en behoefte aan producten en projecten. Indien deze raming bijstelling behoeft meldt Onze Minister dit schriftelijk aan het COA.
 
-2. De raming, bedoeld in het eerste lid, wordt door het orgaan als uitgangspunt gehanteerd bij de opstelling van het activiteitenplan. De aanvraag van de subsidie wordt, vergezeld van het activiteitenplan, vóór 1 augustus voorafgaand aan het kalenderjaar door het orgaan ingediend.
+2. De raming, bedoeld in het eerste lid, wordt door het COA als uitgangspunt gehanteerd bij de opstelling van het activiteitenplan. De aanvraag van de subsidie wordt, vergezeld van het activiteitenplan, vóór 1 september voorafgaand aan het kalenderjaar door het COA ingediend.
 
 ### Hoofdstuk III. Subsidieverlening
 
 ##### Artikel 3
 
-1. Onze Minister beslist vóór 1 oktober voorafgaand aan het kalenderjaar omtrent de aanvraag van de subsidie en doet het orgaan een beschikking tot subsidieverlening toekomen.
+1. Onze Minister beslist vóór 1 november voorafgaand aan het kalenderjaar omtrent de aanvraag van de subsidie en doet het COA een beschikking tot subsidieverlening toekomen.
 
 2. In de beschikking tot subsidieverlening wordt in ieder geval opgenomen het aantal af te nemen eenheden per product, de hoogte van het voorschot en de wijze waarop zal worden bevoorschot.
 
 ##### Artikel 4
 
-De aan het orgaan toe te kennen subsidie bestaat uit een bedrag voor de door het orgaan in het betreffende boekjaar te leveren producten.
+De aan het COA toe te kennen subsidie bestaat uit een bedrag voor de door het COA in het betreffende boekjaar te leveren producten.
 
 ##### Artikel 5
 
 1. De subsidie voor de producten wordt bepaald op basis van het bedrag dat ontstaat door vermenigvuldiging van het aantal af te nemen producten met de voor het desbetreffende product vastgestelde kostprijs.
 
-2. De prijs van een product wordt vastgesteld aan de hand van de door Onze Minister na overleg met het orgaan vastgestelde kostprijssystematiek.
+2. De prijs van een product wordt vastgesteld aan de hand van de door Onze Minister na overleg met het COA vastgestelde kostprijssystematiek.
 
 ##### Artikel 6
 
-Onze Minister kan, naast de subsidie bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=III&artikel=4&z=2009-07-01&g=2009-07-01), het orgaan een subsidie verstrekken en kan, in aanvulling op de verplichtingen genoemd in [hoofdstuk VI](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=VI&z=2009-07-01&g=2009-07-01), in verband daarmee verplichtingen opleggen:
+Onze Minister kan, naast de subsidie bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=III&artikel=4&z=2011-01-01&g=2011-01-01), het COA een subsidie verstrekken en kan, in aanvulling op de verplichtingen genoemd in [hoofdstuk VI](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=VI&z=2011-01-01&g=2011-01-01), in verband daarmee verplichtingen opleggen:
 
 - a. voor de uitvoering van projecten;
 
-- b. ter vergoeding van de door het orgaan te maken kosten als gevolg van toename of afname van de behoefte aan opvangvermogen overeenkomstig de door Onze Minister na overleg met het orgaan vastgestelde groei- en krimpsystematiek;
+- b. ter vergoeding van de door het COA te maken kosten als gevolg van toename of afname van de behoefte aan opvangvermogen overeenkomstig de door Onze Minister na overleg met het COA vastgestelde groei- en krimpsystematiek;
 
-- c. ter vergoeding van de door het orgaan ingevolge [artikel 3, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=3) aan gemeenten betaalde bijdragen en ingevolge [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=4) bij of krachtens algemene maatregel van bestuur aan gemeenten verstrekte uitkeringen;
+- c. ter vergoeding van de door het COA ingevolge [artikel 3, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=3) aan gemeenten betaalde bijdragen en ingevolge [artikel 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=6) bij of krachtens algemene maatregel van bestuur aan gemeenten verstrekte uitkeringen;
 
-- d. ter vergoeding van de door het orgaan verstrekte uitkeringen aan asielzoekers en andere categorieën vreemdelingen als bedoeld in [artikel 3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=3);
+- d. ter vergoeding van de door het COA verstrekte uitkeringen aan asielzoekers en andere categorieën vreemdelingen als bedoeld in [artikel 3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=3);
 
-- e. voor de aanvulling van de egalisatiereserve overeenkomstig de door Onze Minister na overleg met het orgaan vastgestelde vermogenssystematiek;
+- e. voor de aanvulling van de egalisatiereserve overeenkomstig de door Onze Minister na overleg met het COA vastgestelde vermogenssystematiek;
 
 - f. voor overige uitgaven.
 
@@ -109,77 +109,73 @@ Onze Minister kan, naast de subsidie bedoeld in [artikel 4](https://wetten.overh
 
 ##### Artikel 7
 
-1. Indien de beschikking, bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=III&artikel=3&z=2009-07-01&g=2009-07-01), bijstelling behoeft meldt Onze Minister dit schriftelijk aan het orgaan.
+1. Indien de beschikking, bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=III&artikel=3&z=2011-01-01&g=2011-01-01), bijstelling behoeft meldt Onze Minister dit schriftelijk aan het COA.
 
-2. Het orgaan reageert door middel van een aanvullende aanvraag tot subsidie uiterlijk 8 weken na ontvangst van de in het eerste lid bedoelde mededeling van Onze Minister.
+2. Het COA reageert door middel van een aanvullende aanvraag tot subsidie uiterlijk 8 weken na ontvangst van de in het eerste lid bedoelde mededeling van Onze Minister.
 
 3. Beslissing door Onze Minister op de in het tweede lid bedoelde aanvullende aanvraag geschiedt uiterlijk 8 weken na ontvangst.
 
-4. De wijziging wordt vastgesteld aan de hand van de door Onze Minister na overleg met het orgaan vastgestelde wijzigingssystematiek.
+4. De wijziging wordt vastgesteld aan de hand van de door Onze Minister na overleg met het COA vastgestelde wijzigingssystematiek.
 
 ### Hoofdstuk V. Subsidievaststelling
 
 ##### Artikel 8
 
-Onze Minister beslist binnen dertien weken na ontvangst van de bescheiden, bedoeld in de [artikelen 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=15), en [18, eerste en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=18) op de aanvraag tot subsidievaststelling.
+Onze Minister beslist binnen dertien weken na ontvangst van de bescheiden, bedoeld in de [artikelen 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=15), en [19, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=19) en [34 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34) op de aanvraag tot subsidievaststelling.
 
 ##### Artikel 9
 
-De vaststelling van de subsidie geschiedt overeenkomstig de door Onze Minister na overleg met het orgaan vastgestelde afrekensystematiek.
+De vaststelling van de subsidie geschiedt overeenkomstig de door Onze Minister na overleg met het COA vastgestelde afrekensystematiek.
 
 ##### Artikel 10
 
-Eenmaal in de drie jaar worden de in de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=III&artikel=5&z=2009-07-01&g=2009-07-01), [6, onderdelen b en e](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=III&artikel=6&z=2009-07-01&g=2009-07-01), [7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=IV&artikel=7&z=2009-07-01&g=2009-07-01), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=V&artikel=9&z=2009-07-01&g=2009-07-01) genoemde systematieken geëvalueerd door Onze Minister in overleg met het orgaan.
+Eenmaal in de drie jaar worden de in de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=III&artikel=5&z=2011-01-01&g=2011-01-01), [6, onderdelen b en e](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=III&artikel=6&z=2011-01-01&g=2011-01-01), [7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=IV&artikel=7&z=2011-01-01&g=2011-01-01), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=V&artikel=9&z=2011-01-01&g=2011-01-01) genoemde systematieken geëvalueerd door Onze Minister in overleg met het COA.
 
 ### Hoofdstuk VI. Aan de subsidie verbonden verplichtingen
 
 ##### Artikel 11
 
-Het vermogen, met inbegrip van de inkomsten daaruit, wordt slechts aangewend voor de taken die het orgaan ingevolge [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=3) zijn opgedragen.
+Het vermogen, met inbegrip van de inkomsten daaruit, wordt slechts aangewend voor de taken die het COA ingevolge [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=3) zijn opgedragen.
 
 ##### Artikel 12
 
-1. Het orgaan doet zo spoedig mogelijk schriftelijk mededeling aan Onze Minister van omstandigheden die van belang kunnen zijn voor een beslissing tot wijziging, intrekken of vaststelling van de subsidie. Daarbij worden de relevante stukken overgelegd.
+1. Het COA doet zo spoedig mogelijk schriftelijk mededeling aan Onze Minister van omstandigheden die van belang kunnen zijn voor een beslissing tot wijziging, intrekken of vaststelling van de subsidie. Daarbij worden de relevante stukken overgelegd.
 
-2. Op door Onze Minister te bepalen tijdstippen verstrekt het orgaan aan Onze Minister een exploitatieoverzicht.
+2. Op door Onze Minister te bepalen tijdstippen verstrekt het COA aan Onze Minister een exploitatieoverzicht.
 
 ##### Artikel 13
 
-1. Voor de in [artikel 4:71, eerste lid, onder a en f, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:71) genoemde gevallen, is toestemming van Onze Minister vereist.
-
-2. Het orgaan kan uitsluitend lenen bij Onze Minister van Financiën.
+Het COA kan uitsluitend lenen bij Onze Minister van Financiën.
 
 ##### Artikel 14
 
-Het orgaan vormt een egalisatiereserve. De minimale en maximale omvang van de egalisatiereserve wordt voorafgaand aan het boekjaar door Onze Minister vastgesteld door toepassing van de door Onze Minister na overleg met het orgaan overeengekomen vermogenssystematiek.
+De minimale en maximale omvang van de egalisatiereserve wordt voorafgaand aan het boekjaar door Onze Minister vastgesteld door toepassing van de door Onze Minister na overleg met het COA overeengekomen vermogenssystematiek.
 
 ##### Artikel 15
 
-1. Indien de inkomsten hoger zijn dan geraamd, wordt zonodig de egalisatiereserve aangevuld tot het niveau van de ingevolge [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=VI&artikel=14&z=2009-07-01&g=2009-07-01) vastgestelde minimale omvang.
+1. De aanvulling van de egalisatiereserve, bedoeld in [artikel 33, tweede lid, van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=33), geschiedt tot het niveau van de ingevolge [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=VI&artikel=14&z=2011-01-01&g=2011-01-01) vastgestelde minimale omvang.
 
-2. Indien na aanvulling van de egalisatiereserve, bedoeld in het eerste lid, een overschot resteert, kan het orgaan een op grond van de vermogenssystematiek vastgesteld percentage daarvan voor vooraf door Onze Minister goed te keuren aanvragen aanwenden. Deze aanvragen houden verband met de taken die het orgaan ingevolge [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=3) zijn opgedragen.
+2. Indien na aanvulling van de egalisatiereserve, bedoeld in het eerste lid, een overschot resteert, kan het COA een op grond van de vermogenssystematiek vastgesteld percentage daarvan voor vooraf door Onze Minister goed te keuren aanvragen aanwenden. Deze aanvragen houden verband met de taken die het COA ingevolge [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=3) zijn opgedragen.
 
-3. Met het na aftrek van het in het tweede lid bedoelde percentage resterende overschot, wordt zonodig de egalisatiereserve aangevuld tot het niveau van de ingevolge [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=VI&artikel=14&z=2009-07-01&g=2009-07-01) vastgestelde maximale omvang.
+3. Met het na aftrek van het in het tweede lid bedoelde percentage resterende overschot, wordt zonodig de egalisatiereserve aangevuld tot het niveau van de ingevolge [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=VI&artikel=14&z=2011-01-01&g=2011-01-01) vastgestelde maximale omvang.
 
 ### Hoofdstuk VII. Algemene-, overgangs- en slotbepalingen
 
 ##### Artikel 16
 
-Het orgaan werkt mee aan door of namens Onze Minister ingestelde onderzoeken die erop zijn gericht Onze Minister inlichtingen te verschaffen ten behoeve van zijn beleid.
+Vervallen
 
 ##### Artikel 17
 
-Onze Minister kan op verzoek van het orgaan bepalingen van dit besluit buiten toepassing laten of daarvan afwijken voorzover strikte toepassing leidt tot onbillijkheid van overwegende aard.
+Onze Minister kan op verzoek van het COA bepalingen van dit besluit buiten toepassing laten of daarvan afwijken voorzover strikte toepassing leidt tot onbillijkheid van overwegende aard.
 
 ##### Artikel 18
 
-1. Dit besluit treedt in werking met ingang van de dag na plaatsing in het Staatsblad en werkt terug tot en met 1 mei 2004.
-
-2. Op de subsidieverstrekking aan het orgaan in het jaar 2004 blijft het [Subsidiebesluit Centraal Orgaan opvang asielzoekers](https://wetten.overheid.nl/jci1.3:c:BWBR0006850) van toepassing.
+Dit besluit treedt in werking met ingang van de dag na plaatsing in het Staatsblad en werkt terug tot en met 1 mei 2004.
 
 ##### Artikel 19
 
-Het [Subsidiebesluit Centraal Orgaan opvang asielzoekers](https://wetten.overheid.nl/jci1.3:c:BWBR0006850) wordt ingetrokken.
+Dit besluit berust op [artikel 18 van de Wet Centraal Orgaan opvang asielzoekers](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=18).
 
 ##### Artikel 20
 
