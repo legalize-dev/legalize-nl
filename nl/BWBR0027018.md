@@ -4,7 +4,7 @@ identifier: "BWBR0027018"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2010-01-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027018"
 soort: "ministeriele-regeling"
@@ -43,17 +43,13 @@ Besluit:
 
 ##### Artikel 1. Reikwijdte en definitie
 
-1. Deze regeling geeft uitvoering aan de [artikelen 1a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=1a), [16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=16), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=17), [32, eerste lid, onder 8°, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=32), [33, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33), [35b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35b), [35c, vijfde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35c), [35d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35d), [35e, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35e), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=73) en [75, eerste lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=75).
+1. Deze regeling geeft uitvoering aan de [artikelen 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=16), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=17), [32, eerste lid, onder 8°, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=32), [33, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33), [35b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35b), [35c, vijfde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35c), [35d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35d), [35e, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35e), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=73) en [75, eerste lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=75).
 
 2. Deze regeling verstaat onder wet: [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226).
 
 ##### Artikel 2. Uitbreiding partnerbegrip
 
-Van een eindiging van de gezamenlijke huishouding tegen de wil van de betrokkenen in de zin van [artikel 1a, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=1a) is sprake bij:
-
-- a. opname in een verpleeghuis ten gevolge van dwingende medische redenen;
-
-- b. opname in een verzorgingshuis ten gevolge van dwingende medische redenen of ouderdom.
+Vervallen
 
 ##### Artikel 3. Toerekening afgezonderd particulier vermogen
 
@@ -65,15 +61,19 @@ Van een eindiging van de gezamenlijke huishouding tegen de wil van de betrokkene
 
 Als mogendheid als bedoeld in [artikel 32, eerste lid, onder 8°, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=32) wordt aangewezen elke mogendheid waarmee in de relatie met Nederland voor de heffing van inkomstenbelasting, vennootschapsbelasting, schenk- en erfbelasting zonder beperkingen of voorbehouden de uitwisseling is geregeld van gegevens, inlichtingen en gegevensdragers.
 
-##### Artikel 5. Schenking ter zake van de verwerving van een eigen woning
+##### Artikel 5. Schenking ter zake van een eigen woning
 
-Een vrijstelling als bedoeld in [artikel 33, onder 5°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33) voor een schenking ter zake van de verwerving van een eigen woning, wordt slechts verleend indien:
+Een vrijstelling als bedoeld in [artikel 33, onder 5° en 6°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33) voor een schenking ter zake van de verwerving van een eigen woning als bedoeld in [artikel 3.111, eerste of derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111), ter zake van de kosten voor verbetering of onderhoud van die woning, ter zake van de afkoop van rechten van erfpacht, opstal of beklemming met betrekking tot die woning dan wel voor de aflossing van een eigenwoningschuld als bedoeld in [artikel 3.119a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119a), wordt slechts verleend indien:
 
-- a. de schenking is gedaan onder de opschortende voorwaarde dat de begunstigde een eigen woning heeft verworven als bedoeld in [artikel 3.111 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111);
+- a. de schenking is gedaan:
 
-- b. van de schenking een notariële akte is opgemaakt, waarin is opgenomen dat het geschonken bedrag bestemd is voor de verwerving van een eigen woning als bedoeld in onderdeel a, en
+- 1°. onder de opschortende voorwaarde dat de begunstigde een eigen woning heeft verworven als bedoeld in [artikel 3.111, eerste of derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111), een recht van erfpacht, opstal of beklemming met betrekking tot die woning heeft afgekocht dan wel een eigenwoningschuld als bedoeld in [artikel 3.119a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119a), of een deel daarvan, heeft afgelost, of
 
-- c. desgevraagd met schriftelijke bescheiden wordt aangetoond dat het bedrag van de schenking daadwerkelijk door de schenker is betaald en door de begunstigde is aangewend voor de verwerving van de in onderdeel a bedoelde woning.
+- 2°. onder de ontbindende voorwaarde dat de schenking vervalt voor zover het geschonken bedrag niet in het jaar van de schenking of in de twee daarop volgende kalenderjaren is besteed aan verbetering of onderhoud van een eigen woning als bedoeld in [artikel 3.111, eerste of derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111) van de begunstigde;
+
+- b. van de schenking een notariële akte is opgemaakt, waarin is opgenomen dat het geschonken bedrag bestemd is voor een van de doeleinden, genoemd in onderdeel a, en
+
+- c. desgevraagd met schriftelijke bescheiden wordt aangetoond dat het bedrag van de schenking daadwerkelijk door de schenker is betaald en door de begunstigde is aangewend voor een van de doeleinden, genoemd in onderdeel a.
 
 ##### Artikel 6. Schenking voor de betaling van kosten van een studie of de opleiding voor een beroep
 
