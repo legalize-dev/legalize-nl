@@ -4,7 +4,7 @@ identifier: "BWBR0022543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-14"
-last_updated: "2010-12-25"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022543"
 soort: "ministeriele-regeling"
@@ -64,9 +64,9 @@ Indien de Stichting Skal constateert dat de bepalingen van verordening (EG) 834/
 
 ##### Artikel 4
 
-1. Het aantal grootvee-eenheden, bedoeld in artikel 15 van verordening (EG) 889/2008, wordt vastgesteld door 170 kg stikstof per jaar per hectare te delen door de omvang van de mestproductie per dier van de desbetreffende diercategorie per jaar uitgedrukt in kilogrammen stikstof, zoals opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=I&z=2010-12-25&g=2010-12-25) bij deze regeling.
+1. Het aantal grootvee-eenheden, bedoeld in artikel 15 van verordening (EG) 889/2008, wordt vastgesteld door 170 kg stikstof per jaar per hectare te delen door de omvang van de mestproductie per dier van de desbetreffende diercategorie per jaar uitgedrukt in kilogrammen stikstof, zoals opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=I&z=2011-01-01&g=2011-01-01) bij deze regeling.
 
-2. Ingeval de desbetreffende diercategorie in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=I&z=2010-12-25&g=2010-12-25) ontbreekt, is [bijlage D van de Uitvoeringsregeling Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=D) van toepassing.
+2. Ingeval de desbetreffende diercategorie in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=I&z=2011-01-01&g=2011-01-01) ontbreekt, is [bijlage D van de Uitvoeringsregeling Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=D) van toepassing.
 
 ##### Artikel 5
 
@@ -212,7 +212,7 @@ Volledige zuigelingenvoeding en opvolgzuigelingenvoeding worden slechts uit Nede
 
 ##### Artikel 23
 
-Onder bloembollen wordt verstaan: bollen, knollen, wortelstokken en andere voor vermeerdering of bloemproductie bestemde plantendelen van de in de [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=II&z=2010-12-25&g=2010-12-25) bij deze regeling onder I genoemde gewassen, voor zover zij behoren tot de daarachter onder II vermelde botanische families, geslachten of soorten.
+Onder bloembollen wordt verstaan: bollen, knollen, wortelstokken en andere voor vermeerdering of bloemproductie bestemde plantendelen van de in de [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=II&z=2011-01-01&g=2011-01-01) bij deze regeling onder I genoemde gewassen, voor zover zij behoren tot de daarachter onder II vermelde botanische families, geslachten of soorten.
 
 ##### Artikel 24
 
@@ -972,9 +972,9 @@ De periode waarin uitlopen leeg moeten blijven als bedoeld in bijlage I, onderde
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage I. als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=7&z=2010-12-25&g=2010-12-25) van de Landbouwkwaliteitsregeling 2007
+## Bijlage I. als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=4&z=2011-01-01&g=2011-01-01) van de Landbouwkwaliteitsregeling 2007
 
-**Omvang van de mestproductie voor de onderscheiden diercategorieën, uitgedrukt in kilogrammen stikstof per dier per jaar als bedoeld in artikel 7**
+**Omvang van de mestproductie voor de onderscheiden diercategorieën, uitgedrukt in kilogrammen stikstof per dier per jaar als bedoeld in artikel 4**
 
 | Diersoorten | Onderscheiden categorieën dieren binnen de diersoorten | Omvang mestproductie per dier van de onderscheiden diercategorieën per jaar, uitgedrukt in kilogrammen stikstof |
 | --- | --- | --- |
@@ -1036,8 +1036,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 | V Schapen | – Fokschapen, inclusief de lammeren tot ca. 25 kg (alle ooien die ten minste éénmaal hebben gelammerd) | 10,3 |
 |   | – Overige schapen (alle lammeren zwaarder dan 25 kg, alle fokrammen en overhouders) | 9,3 |
 |   |   |   |
-| VI Geiten | – Melkgeiten, inclusief lammeren tot ca. 10 kg (alle geiten die ten minste éénmaal hebben gelammerd) | 7,3 |
-|   | – Overige geiten (geitelammeren en opfokgeiten zwaarder dan ca. 10 kg en bokken) | 5,2 |
+| VI Geiten | – Melkgeiten, inclusief lammeren tot ca. 10 kg (alle geiten die ten minste éénmaal hebben gelammerd) | 5,8 |
+|   | – Overige geiten (geitelammeren en opfokgeiten zwaarder dan ca. 10 kg en bokken) | 3,1 |
 |   |   |   |
 | VII Eenden | – Ouderdieren van vleeseenden (opfok- en legeenden) | 0,50 |
 |   | – Vleeseenden (eenden die worden gehouden voor de slacht) | 0,39 |
@@ -1079,7 +1079,7 @@ Bij het in de handel brengen van of het maken van reclame voor diervoeders voor 
 
 ### Hoofdstuk 8. Overige bepalingen
 
-## Bijlage II. als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=6&artikel=23&z=2010-12-25&g=2010-12-25) van de Landbouwkwaliteitsregeling 2007
+## Bijlage II. als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=6&artikel=23&z=2011-01-01&g=2011-01-01) van de Landbouwkwaliteitsregeling 2007
 
 | I | II |
 | --- | --- |
@@ -1478,7 +1478,7 @@ Bij het in de handel brengen van of het maken van reclame voor diervoeders voor 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage III. als bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=8a&z=2010-12-25&g=2010-12-25) van de Landbouwkwaliteitsregeling 2007
+## Bijlage III. als bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=8a&z=2011-01-01&g=2011-01-01) van de Landbouwkwaliteitsregeling 2007
 
 Producten voor de reiniging en de ontsmetting van gebouwen en installaties voor de plantaardige productie:
 
@@ -1504,7 +1504,7 @@ Producten voor de reiniging en de ontsmetting van gebouwen en installaties voor 
 | Fluorverbindingen | Alleen voor de reiniging van glas in lege kassen |
 | Middelen die door de Plantenziektekundige Dienst zijn verplicht voor de reiniging van productielocaties in geval van besmetting met quarantaineorganismen |   |
 
-## Bijlage II. als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=6&artikel=23&z=2011-07-02&g=2010-12-25) van de Landbouwkwaliteitsregeling 2007
+## Bijlage II. als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=6&artikel=23&z=2011-07-02&g=2011-01-01) van de Landbouwkwaliteitsregeling 2007
 
 | I | II |
 | --- | --- |
@@ -1905,7 +1905,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 7b
 
-Dit onderdeel is nog niet inwerking getreden
+In bedrijven met ten hoogste tien runderen is het aanbinden van deze dieren toegestaan indien ze niet in aan hun gedrag aangepaste groepen kunnen worden gehouden en indien voldaan is aan de voorwaarden, bedoeld in artikel 39 van verordening (EG) 889/2008.
 
 ### Hoofdstuk 2. Het in de handel brengen van groenten en fruit
 
@@ -1919,7 +1919,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage III. als bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=8a&z=2011-07-02&g=2010-12-25) van de Landbouwkwaliteitsregeling 2007
+## Bijlage III. als bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=8a&z=2011-07-02&g=2011-01-01) van de Landbouwkwaliteitsregeling 2007
 
 Producten voor de reiniging en de ontsmetting van gebouwen en installaties voor de plantaardige productie:
 
