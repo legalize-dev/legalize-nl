@@ -4,7 +4,7 @@ identifier: "BWBR0002037"
 country: "nl"
 rank: "amvb"
 publication_date: "2011-01-01"
-last_updated: "1992-05-09"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002037"
 soort: "AMvB"
@@ -50,7 +50,7 @@ In dit besluit wordt verstaan onder:
 
 Onze Minister: Onze Minister van Welzijn, Volksgezondheid en Cultuur;
 
-de Raad: de Pensioen- en Uitkeringsraad, genoemd in [artikel 2 van de Wet op de Pensioen- en Uitkeringsraad](https://wetten.overheid.nl/jci1.3:c:BWBR0004806&artikel=2) (**Stb.** 1990, 324);
+de Sociale verzekeringsbank: de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6);
 
 de gepensioneerde: degene, aan wie pensioen is verleend krachtens de [Wet buitengewoon pensioen 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032) (**Stb.** 1986, 575);
 
@@ -58,31 +58,31 @@ pensioen: het buitengewoon pensioen, verleend ingevolge de [Wet buitengewoon pen
 
 ##### Artikel 2
 
-1. In de eerste helft van elke maand zendt de Raad aan de Stichting 1940 -1945 een opgave van de over die maand uit te betalen pensioensbedragen.
+1. In de eerste helft van elke maand zendt de Sociale verzekeringsbank aan de Stichting 1940 -1945 een opgave van de over die maand uit te betalen pensioensbedragen.
 
 2. De Stichting 1940 -1945 draagt er zorg voor, dat deze pensioensbedragen zo spoedig mogelijk, doch uiterlijk vóór het einde van de betrokken maand aan of ten behoeve van de rechthebbenden worden betaalbaar gesteld.
 
 ##### Artikel 3
 
-De Stichting 1940-1945 zendt uiterlijk binnen twee maanden na de maand, waarop de in de eerste zin van het vorig artikel bedoelde opgave betrekking heeft, aan de Raad de stukken, waaruit, ten genoegen van de Raad dient te blijken, dat de rechthebbenden het pensioen hebben ontvangen en daarvoor kwijting hebben gegeven.
+De Stichting 1940-1945 zendt uiterlijk binnen twee maanden na de maand, waarop de in de eerste zin van het vorig artikel bedoelde opgave betrekking heeft, aan de Sociale verzekeringsbank de stukken, waaruit, ten genoegen van de Sociale verzekeringsbank dient te blijken, dat de rechthebbenden het pensioen hebben ontvangen en daarvoor kwijting hebben gegeven.
 
 ##### Artikel 4
 
-De voor de betaling van pensioenen benodigde gelden worden op verzoek van de Raad aan een door deze aan te wijzen comptabele bij voorschot uit 's Rijks schatkist verstrekt.
+De voor de betaling van pensioenen benodigde gelden worden op verzoek van de Sociale verzekeringsbank aan een door deze aan te wijzen comptabele bij voorschot uit 's Rijks schatkist verstrekt.
 
-De Raad draagt door het verlenen van voorschotten zorg, dat de Stichting 1940-1945 tijdig beschikt over voor de betaling toereikende gelden.
+De Sociale verzekeringsbank draagt door het verlenen van voorschotten zorg, dat de Stichting 1940-1945 tijdig beschikt over voor de betaling toereikende gelden.
 
 Volgens door Onze Minister na overleg met Onze Minister van Financiën, vast te stellen voorschriften worden de verstrekte voorschotten verrekend.
 
 ##### Artikel 5
 
-1. Indien de gepensionneerde hiertoe schriftelijk aan de Raad de wens te kennen geeft, kan het pensioen in afwijking van het bepaalde in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002037&artikel=2&z=1992-05-09&g=1992-05-09), gehoord de Stichting 1940-1945, door de Raad betaalbaar worden gesteld.
+1. Indien de gepensioneerde hiertoe schriftelijk aan de Sociale verzekeringsbank de wens te kennen geeft, kan het pensioen in afwijking van het bepaalde in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002037&artikel=2&z=2011-01-01&g=2011-01-01), gehoord de Stichting 1940-1945, door de Sociale verzekeringsbank betaalbaar worden gesteld.
 
-2. Voorts wordt het pensioen door de Raad betaalbaar gesteld, indien de gepensionneerde buiten het Rijk in Europa woonachtig is, tenzij de gepensionneerde schriftelijk aan de Raad de wens te kennen geeft het pensioen door bemiddeling van de Stichting 1940-1945 te ontvangen. In laatstgenoemd geval is het bepaalde in de voorafgaande artikelen van toepassing.
+2. Voorts wordt het pensioen door de Sociale verzekeringsbank betaalbaar gesteld, indien de gepensioneerde buiten het Rijk in Europa woonachtig is, tenzij de gepensioneerde schriftelijk aan de Sociale verzekeringsbank de wens te kennen geeft het pensioen door bemiddeling van de Stichting 1940-1945 te ontvangen. In laatstgenoemd geval is het bepaalde in de voorafgaande artikelen van toepassing.
 
 ##### Artikel 6
 
-De controle op het in leven zijn van de gepensioneerde en op de verdere omstandigheden, die het betaalbaar stellen van de pensioenen kunnen beïnvloeden, geschiedt op een wijze door de Raad te bepalen.
+De controle op het in leven zijn van de gepensioneerde en op de verdere omstandigheden, die het betaalbaar stellen van de pensioenen kunnen beïnvloeden, geschiedt op een wijze door de Sociale verzekeringsbank te bepalen.
 
 ##### Artikel 7
 
