@@ -4,7 +4,7 @@ identifier: "BWBR0028306"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2019-01-01"
-last_updated: "2010-10-10"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028306"
 soort: "wet-BES"
@@ -67,7 +67,7 @@ Onverminderd de bepalingen van het gemene recht, kan een geslachtsnaam als merk 
 
 ##### Artikel 7
 
-1. Onverminderd de in het Verdrag van Parijs tot Bescherming van de industriële eigendom of de Overeenkomst van Madrid betreffende de internationale inschrijving van merken vastgestelde rechten van voorrang dan wel het recht van voorrang voortvloeiend uit het Verdrag tot oprichting van de Wereldhandelsorganisatie (Trb. 1994, 235), wordt het uitsluitend recht op een merk verkregen door het eerste depot, verricht bij Onze Minister of voortvloeiend uit een inschrijving bij het Internationaal Bureau voor de bescherming van de industriële eigendom, hetgeen wordt aangeduid als internationaal depot.
+1. Onverminderd de in het Verdrag van Parijs tot bescherming van de industriële eigendom van 20 maart 1883 of de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 14 april 1891 vastgestelde rechten van voorrang dan wel het recht van voorrang voortvloeiend uit het Overeenkomst inzake de handelsaspecten van de Intellectuele Eigendom van 15 april 1994; bijlage IC bij de Overeenkomst tot oprichting van de Wereldhandelsorganisatie, wordt het uitsluitend recht op een merk verkregen door het eerste depot, verricht bij Onze Minister of voortvloeiend uit een inschrijving bij het Internationaal Bureau voor de bescherming van de industriële eigendom, hetgeen wordt aangeduid als internationaal depot.
 
 2. Bij de beoordeling van de rangorde van het depot wordt rekening gehouden met de op het tijdstip van het depot bestaande en ten tijde van het geding gehandhaafde rechten op:
 
@@ -75,27 +75,27 @@ Onverminderd de bepalingen van het gemene recht, kan een geslachtsnaam als merk 
 
 - b. gelijke of overeenstemmende, voor dezelfde of soortgelijke waren of diensten gedeponeerde merken, indien de mogelijkheid bestaat dat bij het publiek een associatie wordt gewekt tussen de merken, waarbij geldt dat ook soortgelijkheid tussen diensten en waren kan bestaan;
 
-- c. overeenstemmende, voor niet-soortgelijke waren of diensten gedeponeerde merken, die bekendheid in Bonaire, Sint Eustatius of Saba genieten, indien door het gebruik, zonder geldige reden, van het jongere merk ongerechtvaardigd voordeel kan worden getrokken uit of afbreuk kan worden gedaan aan het onderscheidend vermogen of de reputatie van het oudere merk.
+- c. overeenstemmende, voor niet-soortgelijke waren of diensten gedeponeerde merken, die bekendheid op Bonaire, Sint Eustatius of Saba genieten, indien door het gebruik, zonder geldige reden, van het jongere merk ongerechtvaardigd voordeel kan worden getrokken uit of afbreuk kan worden gedaan aan het onderscheidend vermogen of de reputatie van het oudere merk.
 
 ##### Artikel 8
 
-Binnen de in de artikelen 11, 12, eerste lid, en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=25&z=2010-10-10&g=2010-10-10) gestelde grenzen wordt geen recht op een merk verkregen door:
+Er wordt geen recht op een merk verkregen door:
 
-- a. het depot van een merk dat, ongeacht het gebruik dat ervan wordt gemaakt, in strijd is met de goede zeden of de openbare orde of ten aanzien waarvan artikel 6ter van het Verdrag van Parijs in weigering of nietigverklaring voorziet;
+- a. het depot van een merk dat, ongeacht het gebruik dat ervan wordt gemaakt, in strijd is met de goede zeden of de openbare orde of ten aanzien waarvan artikel 6ter van het Verdrag van Parijs tot bescherming van de industriële eigendom van 20 maart 1883 in weigering of nietigverklaring voorziet;
 
 - b. het depot dat wordt verricht voor waren of diensten voor welke het gebruik van het merk tot misleiding van het publiek zou kunnen leiden;
 
 - c. het depot van een merk dat overeenstemt met een voor soortgelijke waren of diensten gedeponeerd collectief merk waaraan een recht was verbonden dat is vervallen in de loop van de drie jaren voorafgaande aan het depot;
 
-- d. het depot van een merk dat overeenstemt met een door een derde voor soortgelijke waren of diensten gedeponeerd individueel merk, waaraan een recht was verbonden, dat in de loop van de twee jaren voorafgaande aan het depot vervallen is door het verstrijken van de geldigheidsduur van de inschrijving, tenzij die derde heeft toegestemd of overeenkomstig [artikel 9, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=9&z=2010-10-10&g=2010-10-10), geen gebruik van dit merk is gemaakt;
+- d. het depot van een merk dat overeenstemt met een door een derde voor soortgelijke waren of diensten gedeponeerd individueel merk, waaraan een recht was verbonden, dat in de loop van de twee jaren voorafgaande aan het depot vervallen is door het verstrijken van de geldigheidsduur van de inschrijving, tenzij die derde heeft toegestemd of overeenkomstig [artikel 9, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=9&z=2011-01-01&g=2011-01-01), geen gebruik van dit merk is gemaakt;
 
-- e. het depot van een merk dat verwarring kan stichten met een algemeen bekend merk in de zin van artikel 6bis van het Verdrag van Parijs dat toebehoort aan een derde die zijn toestemming niet heeft verleend;
+- e. het depot van een merk dat verwarring kan stichten met een algemeen bekend merk in de zin van artikel 6bis van het Verdrag van Parijs tot bescherming van de industriële eigendom van 20 maart 1883 dat toebehoort aan een derde die zijn toestemming niet heeft verleend;
 
 - f. het te kwader trouw verrichte depot, onder andere:
 
-- 1°. het depot dat wordt verricht terwijl de deposant weet of behoort te weten, dat een derde binnen de laatste drie jaren in Bonaire, Sint Eustatius of Saba een overeenstemmend merk voor soortgelijke waren of diensten te goeder trouw en op normale wijze heeft gebruikt, en die derde zijn toestemming niet heeft verleend;
+- 1°. het depot dat wordt verricht terwijl de deposant weet of behoort te weten, dat een derde binnen de laatste drie jaren op Bonaire, Sint Eustatius of Saba een overeenstemmend merk voor soortgelijke waren of diensten te goeder trouw en op normale wijze heeft gebruikt, en die derde zijn toestemming niet heeft verleend;
 
-- 2°. het depot dat wordt verricht terwijl de deposant op grond van zijn rechtstreekse betrekking tot een derde weet, dat die derde binnen de laatste drie jaren buiten Bonaire, Sint Eustatius of Saba een overeenstemmend merk voor soortgelijke waren of diensten te goeder trouw en op normale wijze heeft gebruikt, tenzij die derde zijn toestemming heeft verleend, of bedoelde wetenschap eerst is verkregen nadat de deposant een begin had gemaakt met het gebruik van het merk in Bonaire, Sint Eustatius of Saba;
+- 2°. het depot dat wordt verricht terwijl de deposant op grond van zijn rechtstreekse betrekking tot een derde weet, dat die derde binnen de laatste drie jaren buiten Bonaire, Sint Eustatius of Saba een overeenstemmend merk voor soortgelijke waren of diensten te goeder trouw en op normale wijze heeft gebruikt, tenzij die derde zijn toestemming heeft verleend, of bedoelde wetenschap eerst is verkregen nadat de deposant een begin had gemaakt met het gebruik van het merk op Bonaire, Sint Eustatius of Saba;
 
 - g. het depot van merken voor wijnen die geografische aanduidingen ter benoeming van wijnen bevatten dan wel uit zulke aanduidingen bestaan, of het depot van merken voor spiritualiën die geografische aanduidingen ter benoeming van spiritualiën bevatten dan wel uit zulke aanduidingen bestaan, met betrekking tot wijnen of spiritualiën die niet deze geografische oorsprong hebben, tenzij dit depot te goeder trouw is gedaan voordat:
 
@@ -109,11 +109,11 @@ Binnen de in de artikelen 11, 12, eerste lid, en [25](https://wetten.overheid.nl
 
 - a. door de vrijwillige doorhaling of het verstrijken van de geldigheidsduur van de inschrijving van het depot;
 
-- b. door de doorhaling of het verstrijken van de geldigheidsduur van de internationale inschrijving of door afstand van de bescherming in Bonaire, Sint Eustatius en Saba, of overeenkomstig het in artikel 6 van de Overeenkomst van Madrid bepaalde, door het feit dat het merk geen wettelijke bescherming meer geniet in het land van oorsprong.
+- b. door de doorhaling of het verstrijken van de geldigheidsduur van de internationale inschrijving of door afstand van de bescherming op Bonaire, Sint Eustatius en Saba, of overeenkomstig het in artikel 6 van de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 14 april 1891 bepaalde, door het feit dat het merk geen wettelijke bescherming meer geniet in het land van oorsprong.
 
-2. Het recht op het merk wordt, binnen de in [artikel 25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=25&z=2010-10-10&g=2010-10-10), gestelde grenzen, vervallen verklaard:
+2. Het recht op het merk wordt, binnen de in [artikel 25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=25&z=2011-01-01&g=2011-01-01), gestelde grenzen, vervallen verklaard:
 
-- a. voorzover gedurende een ononderbroken tijdvak van vijf jaren zonder geldige reden, geen normaal gebruik van het merk is gemaakt in Bonaire, Sint Eustatius of Saba voor de waren of diensten waarvoor het merk is ingeschreven; in een geding kan de rechter de merkhouder geheel of gedeeltelijk met het bewijs van het gebruik belasten;
+- a. voorzover gedurende een ononderbroken tijdvak van vijf jaren zonder geldige reden, geen normaal gebruik van het merk is gemaakt op Bonaire, Sint Eustatius of Saba voor de waren of diensten waarvoor het merk is ingeschreven; in een geding kan de rechter de merkhouder geheel of gedeeltelijk met het bewijs van het gebruik belasten;
 
 - b. voorzover het merk, na op regelmatige wijze te zijn verkregen, door toedoen of nalaten van de merkhouder in het normale taalgebruik de gebruikelijke benaming van een waar is geworden;
 
@@ -135,17 +135,17 @@ Binnen de in de artikelen 11, 12, eerste lid, en [25](https://wetten.overheid.nl
 
 4. Het depot vervalt, indien niet binnen de gestelde termijn voldaan is aan de bepalingen van algemene maatregel van bestuur.
 
-5. Onze Minister maakt de akte van depot op met vermelding van het tijdstip waarop dit werd verricht, schrijft deze akte, onverminderd het bepaalde bij [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=18&z=2010-10-10&g=2010-10-10) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=19&z=2010-10-10&g=2010-10-10) onverwijld in het register in voor de door deposant vermelde waren of diensten en verstrekt een bewijs van inschrijving aan de merkhouder.
+5. Onze Minister maakt de akte van depot op met vermelding van het tijdstip waarop dit werd verricht, schrijft deze akte, onverminderd het bepaalde bij [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=18&z=2011-01-01&g=2011-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=19&z=2011-01-01&g=2011-01-01) onverwijld in het register in voor de door deposant vermelde waren of diensten en verstrekt een bewijs van inschrijving aan de merkhouder.
 
 6. De wettelijke datum van inschrijving is die van het depot.
 
 7. In voorkomende gevallen vermeldt de inschrijving de datum en de grondslag van het ingeroepen recht van voorrang.
 
-8. Het op artikel 4 van het Verdrag van Parijs of op de Overeenkomst inzake handelsaspecten van de intellectuele eigendom (het TRIPs-Verdrag) gegronde beroep op voorrang wordt gedaan bij het depot of bij een bijzondere verklaring af te leggen bij Onze Minister, in de maand volgende op het depot, met inachtneming van de vormvereisten en tegen betaling van de bij of krachtens algemene maatregel van bestuur, bepaalde rechten. Het ontbreken van een dergelijk beroep doet het recht op voorrang vervallen.
+8. Het op artikel 4 van het Verdrag van Parijs tot bescherming van de industriële eigendom van 20 maart 1883 of op de Overeenkomst inzake de handelsaspecten van de Intellectuele Eigendom van 15 april 1994; bijlage IC bij de Overeenkomst tot oprichting van de Wereldhandelsorganisatie gegronde beroep op voorrang wordt gedaan bij het depot of bij een bijzondere verklaring af te leggen bij Onze Minister, in de maand volgende op het depot, met inachtneming van de vormvereisten en tegen betaling van de bij of krachtens algemene maatregel van bestuur, bepaalde rechten. Het ontbreken van een dergelijk beroep doet het recht op voorrang vervallen.
 
 ##### Artikel 18
 
-De internationale depots geschieden volgens de bepalingen van de Overeenkomst van Madrid van 14 april 1891 (Trb. 1969, 143 en 1970, 186) en het Protocol van 27 juni 1989 (Trb. 1990, 44) bij de Overeenkomst van Madrid. De nationale rechten, bedoeld in artikel 8, eerste lid, van de Overeenkomst van Madrid en het Protocol bij de Overeenkomst van Madrid, alsmede de rechten bedoeld onder artikel 8, zevende lid, onderdeel a, van het Protocol bij de Overeenkomst van Madrid, worden bij of krachtens algemene maatregel van bestuur, bepaald.
+De internationale depots geschieden volgens de bepalingen van de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 14 april 1891 en het Protocol van 27 juni 1989 (Trb. 1990, 44) bij de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 14 april 1891. De nationale rechten, bedoeld in artikel 8, eerste lid, van de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 14 april 1891 en het Protocol bij de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 14 april 1891, alsmede de rechten bedoeld onder artikel 8, zevende lid, onderdeel a, van het Protocol bij de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 14 april 1891, worden bij of krachtens algemene maatregel van bestuur, bepaald.
 
 ##### Artikel 19
 
@@ -179,17 +179,59 @@ Onze Minister schrijft de internationale depots in ten aanzien waarvan is verzoc
 
 4. De overdracht of andere overgang of de licentie kan niet aan derden worden tegengeworpen dan na inschrijving van het depot van een uittreksel der akte, waaruit van die overgang of die licentie blijkt, of van een daarop betrekking hebbende, door de betrokken partijen ondertekende verklaring, mits dit depot is verricht met inachtneming van de gestelde vormvereisten en tegen betaling van de rechten, bepaald bij of krachtens algemene maatregel van bestuur. Het in de vorige volzin bepaalde is van overeenkomstige toepassing op pandrechten en beslagen.
 
-5. De licentiehouder is bevoegd in een door de merkhouder ingestelde vordering als bedoeld in [artikel 23, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=23&z=2010-10-10&g=2010-10-10), tussen te komen om rechtstreeks door hem geleden schade vergoed te krijgen of zich een evenredig deel van de door de gedaagde genoten winst te doen toewijzen. Een zelfstandige vordering als bedoeld in de vorige volzin kan de licentiehouder slechts instellen, indien hij de bevoegdheid daartoe van de merkhouder heeft bedongen.
+5. De licentiehouder is bevoegd in een door de merkhouder ingestelde vordering als bedoeld in [artikel 23, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=23&z=2011-01-01&g=2011-01-01), tussen te komen om rechtstreeks door hem geleden schade vergoed te krijgen of zich een evenredig deel van de door de gedaagde genoten winst te doen toewijzen. Een zelfstandige vordering als bedoeld in de vorige volzin kan de licentiehouder slechts instellen, indien hij de bevoegdheid daartoe van de merkhouder heeft bedongen.
 
 ##### Artikel 22
 
-1. Niemand kan, welke vordering hij ook instelt, in rechte bescherming inroepen voor een teken, dat als merk beschouwd wordt in de zin van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=5&z=2010-10-10&g=2010-10-10), tenzij hij het op regelmatige wijze heeft gedeponeerd en zo nodig de inschrijving ervan heeft doen vernieuwen. De niet-ontvankelijkheid kan ambtshalve door de rechter worden uitgesproken. Zij wordt opgeheven door depot of vernieuwing tijdens het geding. In geen geval kan schadevergoeding worden toegekend voor aan het depot voorafgaande feiten.
+1. Niemand kan, welke vordering hij ook instelt, in rechte bescherming inroepen voor een teken, dat als merk beschouwd wordt in de zin van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=5&z=2011-01-01&g=2011-01-01), tenzij hij het op regelmatige wijze heeft gedeponeerd en zo nodig de inschrijving ervan heeft doen vernieuwen. De niet-ontvankelijkheid kan ambtshalve door de rechter worden uitgesproken. Zij wordt opgeheven door depot of vernieuwing tijdens het geding. In geen geval kan schadevergoeding worden toegekend voor aan het depot voorafgaande feiten.
 
-2. De bepalingen van deze wet laten onverlet het recht van gebruiker van een teken, dat niet als merk wordt beschouwd in de zin van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=5&z=2010-10-10&g=2010-10-10), om de bepalingen van het gemene recht in te roepen voor zover dit toestaat zich te verzetten tegen onrechtmatig gebruik van dit teken.
+2. De bepalingen van deze wet laten onverlet het recht van gebruiker van een teken, dat niet als merk wordt beschouwd in de zin van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=5&z=2011-01-01&g=2011-01-01), om de bepalingen van het gemene recht in te roepen voor zover dit toestaat zich te verzetten tegen onrechtmatig gebruik van dit teken.
 
 ##### Artikel 23
 
-Dit onderdeel is nog niet inwerking getreden
+1. Onverminderd de toepassing van het gemene recht betreffende de aansprakelijkheid uit onrechtmatige daad kan de merkhouder zich op grond van zijn uitsluitend recht verzetten tegen:
+
+- a. elk gebruik, dat in het economisch verkeer van het merk wordt gemaakt voor de waren of diensten waarvoor het merk is ingeschreven;
+
+- b. elk gebruik, dat in het economisch verkeer van het merk of een overeenstemmend teken wordt gemaakt voor de waren of diensten waarvoor het merk is ingeschreven of voor soortgelijke waren of diensten, indien daardoor de mogelijkheid bestaat dat bij het publiek een associatie wordt gewekt tussen het teken en het merk;
+
+- c. elk gebruik, dat zonder geldige reden in het economisch verkeer van een op Bonaire, Sint Eustatius of Saba bekend merk of een overeenstemmend teken wordt gemaakt voor waren of diensten, die niet soortgelijk zijn aan die waarvoor het merk is ingeschreven, indien door dat gebruik ongerechtvaardigd voordeel kan worden getrokken uit of afbreuk kan worden gedaan aan het onderscheidend vermogen of de reputatie van het merk;
+
+- d. elk gebruik dat zonder geldige reden in het economisch verkeer van een merk of een overeenstemmend teken wordt gemaakt anders dan ter onderscheiding van waren of diensten, indien door dat gebruik ongerechtvaardigd voordeel kan worden getrokken uit of afbreuk kan worden gedaan aan het onderscheidend vermogen of de reputatie van het merk.
+
+2. Voor de toepassing van het eerste lid wordt onder gebruik van een merk of een overeenstemmend teken met name verstaan:
+
+- a. het aanbrengen van het teken op de waren of op hun verpakking;
+
+- b. het aanbieden, in de handel brengen of daartoe in voorraad hebben van waren onder het teken;
+
+- c. het in- en uitvoeren van waren onder het teken; behalve wanneer het betreft invoer met de kennelijke bestemming van wederuitvoer;
+
+- d. het gebruik van het teken in stukken voor zakelijk gebruik en in de reclame.
+
+3. Onder dezelfde voorwaarden als in het eerste lid bedoeld kan de merkhouder schadevergoeding eisen voor elke schade, die hij door het gebruik als bedoeld in het eerste lid lijdt.
+
+4. Naast of in plaats van een vordering tot schadevergoeding, kan de merkhouder een vordering instellen tot het afdragen van ten gevolge van dit gebruik genoten winst alsmede tot het afleggen van rekening en verantwoording dienaangaande; indien de rechter van oordeel is dat dit gebruik niet te kwader trouw is of dat de omstandigheden van het geval tot zulk een veroordeling geen aanleiding geven, wijst hij de vordering af.
+
+5. De merkhouder kan de vordering tot schadevergoeding of het afdragen van winst namens licentiehouder instellen, onverminderd de aan deze laatste in [artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=21&z=2011-01-01&g=2011-01-01), toegekende bevoegdheid.
+
+6. Voor zover er sprake is van een eerlijk gebruik in nijverheid en handel, omvat het uitsluitend recht niet het recht zich te verzetten tegen het gebruik in het economisch verkeer door een derde:
+
+- a. van diens naam en adres;
+
+- b. van aanduidingen inzake soort, kwaliteit, hoeveelheid, bestemming, waarde, geografische herkomst, tijdstip van vervaardiging van de waren of diensten of andere kenmerken daarvan;
+
+- c. van het merk, wanneer dit nodig is om de bestemming van een waar of een dienst, met name als accessoire of onderdeel, aan te geven.
+
+7. Het uitsluitend recht op een merk omvat niet het recht zich te verzetten tegen het gebruik, in het economisch verkeer, van een overeenstemmend teken, dat zijn bescherming ontleent aan een ouder recht van slechts plaatselijke betekenis, indien en voor zover dat recht erkend is ingevolge het gemene recht.
+
+8. Het uitsluitend recht omvat niet het recht zich te verzetten tegen het gebruik van het merk voor waren, die onder het merk door de houder of met diens toestemming in het verkeer zijn gebracht, tenzij er voor de houder gegronde redenen zijn zich te verzetten tegen verdere verhandeling van de waren, met name wanneer de toestand van de waren, nadat zij in het verkeer zijn gebracht, gewijzigd of verslechterd is.
+
+9. Indien een merk in verschillende Staten aan verschillende merkhouders toebehoort, kan de merkhouder op Bonaire, Sint Eustatius of Saba zich niet verzetten tegen de invoer van waren die hetzelfde merk of een overeenstemmend teken dragen en die uit een andere Staat afkomstig zijn, noch schadevergoeding eisen voor deze invoer, wanneer het merk in die andere Staat door de merkhouder of met zijn goedkeuring is aangebracht, of wanneer tussen beide merkhouders ten aanzien van de exploitatie van de desbetreffende waren een band van economische aard bestaat.
+
+10. Met de administratieve, voor de inschrijving van de merken toegepaste rangschikking in klassen wordt geen rekening gehouden bij de beoordeling van de soortgelijkheid van de waren of diensten.
+
+11. Het uitsluitend recht op een merk, luidende in de Nederlandse of Engelse taal strekt zich van rechtswege uit over zijn vertaling in een andere van deze talen. De beoordeling van de overeenstemming voortvloeiende uit vertaling in één of meer vreemde talen geschiedt door de rechter.
 
 ##### Artikel 24
 
@@ -207,23 +249,25 @@ Dit onderdeel is nog niet inwerking getreden
 
 1. Iedere belanghebbende, met inbegrip van het Openbaar Ministerie, kan de nietigheid inroepen:
 
-- a. van het depot van een teken dat niet beantwoordt aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=5&z=2010-10-10&g=2010-10-10) gegeven omschrijving van het merk, met name wanneer het ieder onderscheidend vermogen in de zin van artikel 6quinquies B, onderdeel 2, van het Verdrag van Parijs mist;
+- a. van het depot van een teken dat niet beantwoordt aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=5&z=2011-01-01&g=2011-01-01) gegeven omschrijving van het merk, met name wanneer het ieder onderscheidend vermogen in de zin van artikel 6quinquies B, onderdeel 2, van het Verdrag van Parijs tot bescherming van de industriële eigendom van 20 maart 1883 mist;
 
-- b. van het depot waardoor krachtens [artikel 8, onderdelen a, b en g](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=8&z=2010-10-10&g=2010-10-10), geen merkrecht wordt verkregen;
+- b. van het depot waardoor krachtens [artikel 8, onderdelen a, b en g](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=8&z=2011-01-01&g=2011-01-01), geen merkrecht wordt verkregen;
 
-- c. van het depot waardoor krachtens [artikel 8, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=8&z=2010-10-10&g=2010-10-10), geen merkrecht wordt verkregen, op voorwaarde dat de nietigheid wordt ingeroepen binnen een termijn van vijf jaren, te rekenen van de datum van het depot.
+- c. van het depot waardoor krachtens [artikel 8, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=8&z=2011-01-01&g=2011-01-01), geen merkrecht wordt verkregen, op voorwaarde dat de nietigheid wordt ingeroepen binnen een termijn van vijf jaren, te rekenen van de datum van het depot.
 
 2. Het aanhangig maken van het geding door het Openbaar Ministerie schorst ieder ander op dezelfde grondslag ingesteld geding.
 
-3. Wanneer de houder van de eerdere inschrijving of de in [artikel 8, onderdelen d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=8&z=2010-10-10&g=2010-10-10), bedoelde derde aan het geding deelneemt, kan iedere belanghebbende de nietigheid inroepen:
+3. Wanneer de houder van de eerdere inschrijving of de in [artikel 8, onderdelen d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=8&z=2011-01-01&g=2011-01-01), bedoelde derde aan het geding deelneemt, kan iedere belanghebbende de nietigheid inroepen:
 
-- a. van het depot dat in rangorde na het depot van een overeenstemmend merk komt, overeenkomstig het bepaalde in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=7&z=2010-10-10&g=2010-10-10);
+- a. van het depot dat in rangorde na het depot van een overeenstemmend merk komt, overeenkomstig het bepaalde in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=7&z=2011-01-01&g=2011-01-01);
 
-- b. van het depot waardoor krachtens [artikel 8, onderdelen d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=8&z=2010-10-10&g=2010-10-10), geen merkrecht wordt verkregen; de nietigheid op grond van de in artikel 8, onderdeel d, genoemde bepaling moet worden ingeroepen binnen een termijn van drie jaren, te rekenen van de datum waarop de geldigheidsduur der eerdere inschrijving verstrijkt, de nietigheid op grond van de in artikel 8, onderdelen e en f, genoemde bepalingen binnen een termijn van vijf jaren, te rekenen van de datum van het depot.
+- b. van het depot waardoor krachtens [artikel 8, onderdelen d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=8&z=2011-01-01&g=2011-01-01), geen merkrecht wordt verkregen;
 
-4. Iedere belanghebbende kan het verval van het merkrecht inroepen in de gevallen vermeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=9&z=2010-10-10&g=2010-10-10). Het verval van een merkrecht op grond van artikel 9, tweede lid, onderdeel a, kan niet meer worden ingeroepen, wanneer het merk in de periode tussen het verstrijken van de periode van vijf jaren en de instelling van de vordering tot vervallenverklaring voor het eerst of opnieuw is gebruikt. Begin van gebruik of hernieuwd gebruik binnen drie maanden voorafgaand aan de instelling van de vordering tot vervallenverklaring wordt echter niet in aanmerking genomen, indien de voorbereiding van het begin van gebruik of van hernieuwd gebruik pas wordt getroffen nadat de merkhouder er kennis van heeft genomen dat een vordering tot vervallenverklaring zou kunnen worden ingesteld.
+- c. de nietigheid op grond van de in [artikel 8, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=8&z=2011-01-01&g=2011-01-01), genoemde bepaling moet worden ingeroepen binnen een termijn van drie jaren, te rekenen van de datum waarop de geldigheidsduur der eerdere inschrijving verstrijkt, de nietigheid op grond van de in artikel 8, onderdelen e en f, genoemde bepalingen binnen een termijn van vijf jaren, te rekenen van de datum van het depot.
 
-5. De houder van het merkrecht ten aanzien waarvan het verval ingevolge het vierde lid niet meer kan worden ingeroepen, kan niet overeenkomstig het in derde lid bepaalde de nietigheid inroepen van een depot, dat is verricht tijdens de periode waarin het oudere merkrecht vervallen kon worden verklaard op grond van [artikel 9, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=9&z=2010-10-10&g=2010-10-10), noch zich ingevolge [artikel 23 eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=23&z=2010-10-10&g=2010-10-10), verzetten tegen gebruik van het aldus gedeponeerde merk.
+4. Iedere belanghebbende kan het verval van het merkrecht inroepen in de gevallen vermeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=9&z=2011-01-01&g=2011-01-01). Het verval van een merkrecht op grond van artikel 9, tweede lid, onderdeel a, kan niet meer worden ingeroepen, wanneer het merk in de periode tussen het verstrijken van de periode van vijf jaren en de instelling van de vordering tot vervallenverklaring voor het eerst of opnieuw is gebruikt. Begin van gebruik of hernieuwd gebruik binnen drie maanden voorafgaand aan de instelling van de vordering tot vervallenverklaring wordt echter niet in aanmerking genomen, indien de voorbereiding van het begin van gebruik of van hernieuwd gebruik pas wordt getroffen nadat de merkhouder er kennis van heeft genomen dat een vordering tot vervallenverklaring zou kunnen worden ingesteld.
+
+5. De houder van het merkrecht ten aanzien waarvan het verval ingevolge het vierde lid niet meer kan worden ingeroepen, kan niet overeenkomstig het in derde lid bepaalde de nietigheid inroepen van een depot, dat is verricht tijdens de periode waarin het oudere merkrecht vervallen kon worden verklaard op grond van [artikel 9, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=9&z=2011-01-01&g=2011-01-01), noch zich ingevolge [artikel 23 eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=23&z=2011-01-01&g=2011-01-01), verzetten tegen gebruik van het aldus gedeponeerde merk.
 
 6. Alleen de rechter is bevoegd uitspraak te doen in de gedingen, welke op deze wet zijn gegrond; hij beveelt ambtshalve de doorhaling van de inschrijving van de nietigverklaarde depots, evenals van de depots waardoor de vervallen verklaarde rechten zijn verkregen.
 
@@ -233,13 +277,13 @@ Dit onderdeel is nog niet inwerking getreden
 
 - b. behoudens bewijs van het tegendeel en het bepaalde bij de onderdelen c en d wordt hij, die van een merk het eerst inschrijving heeft verzocht, geacht de eerste gebruiker van dat merk te zijn,
 
-- c. hij die van een merk inschrijving heeft verzocht binnen zes maanden na de dag, waarop hij het in een der tot het Verdrag van Parijs tot Bescherming van de industriële eigendom toegetreden staten regelmatig voor de eerste maal heeft gedeponeerd, wordt geacht van dat merk reeds bij de aanvang van die termijn in Aruba, Curaçao, Sint Maarten, Bonaire, Sint Eustatius en Saba gebruik te hebben gemaakt, en
+- c. hij die van een merk inschrijving heeft verzocht binnen zes maanden na de dag, waarop hij het in een der tot het Verdrag van Parijs tot bescherming van de industriële eigendom van 20 maart 1883 toegetreden staten regelmatig voor de eerste maal heeft gedeponeerd, wordt geacht van dat merk reeds bij de aanvang van die termijn in Aruba, Curaçao, Sint Maarten, Bonaire, Sint Eustatius en Saba gebruik te hebben gemaakt, en
 
-- d. hij, die van een merk, waaronder zijn fabrieks- of handelswaren zijn tentoongesteld op een officiële of officieel erkende internationale tentoonstelling, op het grondgebied van een der tot het Verdrag van Parijs tot Bescherming van de industriële eigendom toegetreden staten gehouden, overeenkomstig [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=10&z=2010-10-10&g=2010-10-10) inschrijving heeft verzocht binnen zes maanden na de dag waarop die tentoonstelling is geopend, wordt geacht van dat merk reeds in Aruba, Curaçao, Sint Maarten, Bonaire, Sint Eustatius en Saba gebruik te hebben gemaakt op de dag, waarop ter onderscheiding van zijn waren ter tentoonstelling aanwezig was; tot bewijs van de dag dier aanwezigheid kan Onze Minister de overlegging vorderen van een gewaarmerkte verklaring van het bestuur der tentoonstelling of, te zijner keuze, van andere bevoegde zijde afkomstig.
+- d. hij, die van een merk, waaronder zijn fabrieks- of handelswaren zijn tentoongesteld op een officiële of officieel erkende internationale tentoonstelling, op het grondgebied van een der tot het Verdrag van Parijs tot bescherming van de industriële eigendom van 20 maart 1883 toegetreden staten gehouden, overeenkomstig [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=10&z=2011-01-01&g=2011-01-01) inschrijving heeft verzocht binnen zes maanden na de dag waarop die tentoonstelling is geopend, wordt geacht van dat merk reeds in Aruba, Curaçao, Sint Maarten, Bonaire, Sint Eustatius en Saba gebruik te hebben gemaakt op de dag, waarop ter onderscheiding van zijn waren ter tentoonstelling aanwezig was; tot bewijs van de dag dier aanwezigheid kan Onze Minister de overlegging vorderen van een gewaarmerkte verklaring van het bestuur der tentoonstelling of, te zijner keuze, van andere bevoegde zijde afkomstig.
 
 ##### Artikel 26
 
-1. De houder van het uitsluitend recht op een merk, die het gebruik van een later gedeponeerd merk heeft gedoogd gedurende vijf opeenvolgende jaren, kan niet meer op grond van zijn oudere recht de nietigheid van het latere depot inroepen ingevolge [artikel 25, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=25&z=2010-10-10&g=2010-10-10), noch zich verzetten tegen het gebruik van het later gedeponeerde merk ingevolge [artikel 23, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=23&z=2010-10-10&g=2010-10-10), met betrekking tot de waren en diensten waarvoor dat merk is gebruikt, tenzij het te kwader trouw gedeponeerd is.
+1. De houder van het uitsluitend recht op een merk, die het gebruik van een later gedeponeerd merk heeft gedoogd gedurende vijf opeenvolgende jaren, kan niet meer op grond van zijn oudere recht de nietigheid van het latere depot inroepen ingevolge [artikel 25, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=25&z=2011-01-01&g=2011-01-01), noch zich verzetten tegen het gebruik van het later gedeponeerde merk ingevolge [artikel 23, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=23&z=2011-01-01&g=2011-01-01), met betrekking tot de waren en diensten waarvoor dat merk is gebruikt, tenzij het te kwader trouw gedeponeerd is.
 
 2. Het gedogen van het gebruik van een later gedeponeerd merk als bedoeld in het eerste lid geeft de houder van het later gedeponeerde merk niet het recht zich te verzetten tegen het gebruik van het eerder gedeponeerde merk.
 
@@ -261,13 +305,13 @@ De houder van de inschrijving van een depot kan te allen tijde doorhaling van zi
 
 - a. het aanbrengen van wijzigingen in de inschrijvingen, op verzoek van de houder, of op grond van rechterlijke beslissingen;
 
-- b. het op enigerlei wijze publiceren van de inschrijvingen en de vernieuwingen van de depots en alle andere vermeldingen voorgeschreven bij of krachtens algemene maatregel van bestuur;
+- b. het op enigerlei wijze publiceren van de inschrijvingen en de vernieuwingen van de depots, en alle andere vermeldingen voorgeschreven bij of krachtens algemene maatregel van bestuur;
 
 - c. het verstrekken op verzoek aan iedere belanghebbende van schriftelijke inlichtingen, alsmede van afschriften of uittreksels uit het register.
 
 2. Bij of krachtens algemene maatregel van bestuur worden het bedrag van de rechten, te innen voor de in het eerste lid van dit artikel bedoelde verrichtingen en van de afschriften en uittreksels bepaald.
 
-3. Het in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=10&z=2010-10-10&g=2010-10-10) bedoelde register kan kosteloos worden geraadpleegd.
+3. Het in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=10&z=2011-01-01&g=2011-01-01) bedoelde register kan kosteloos worden geraadpleegd.
 
 ### Hoofdstuk III. Collectieve Merken
 
@@ -295,11 +339,11 @@ Het uitsluitend recht op een collectief merk wordt slechts verkregen, indien het
 
 ##### Artikel 34
 
-[Artikel 8, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=8&z=2010-10-10&g=2010-10-10), is niet van toepassing op het depot van een collectief merk, dat door de vroegere houder van de inschrijving van een overeenstemmend collectief merk of door zijn rechtverkrijgenden wordt verricht.
+[Artikel 8, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=8&z=2011-01-01&g=2011-01-01), is niet van toepassing op het depot van een collectief merk, dat door de vroegere houder van de inschrijving van een overeenstemmend collectief merk of door zijn rechtverkrijgenden wordt verricht.
 
 ##### Artikel 35
 
-Onverminderd de toepassing van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=10&z=2010-10-10&g=2010-10-10) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=19&z=2010-10-10&g=2010-10-10) mag Onze Minister het depot van een collectief merk niet inschrijven, indien het bij dat merk behorende reglement op het gebruik en het toezicht niet volgens de in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=III&artikel=32&z=2010-10-10&g=2010-10-10) gestelde voorwaarden is gedeponeerd.
+Onverminderd de toepassing van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=10&z=2011-01-01&g=2011-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=19&z=2011-01-01&g=2011-01-01) mag Onze Minister het depot van een collectief merk niet inschrijven, indien het bij dat merk behorende reglement op het gebruik en het toezicht niet volgens de in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=III&artikel=32&z=2011-01-01&g=2011-01-01) gestelde voorwaarden is gedeponeerd.
 
 ##### Artikel 36
 
@@ -317,39 +361,39 @@ Onverminderd de toepassing van [artikel 10](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel 38
 
-1. Onverminderd het bij [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=25&z=2010-10-10&g=2010-10-10) bepaalde, kan iedere belanghebbende, met inbegrip van het Openbaar Ministerie, het verval inroepen van het recht op een collectief merk, indien de houder het merk gebruikt in strijd met de bepaling van [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=III&artikel=30&z=2010-10-10&g=2010-10-10), of instemt met een gebruik in strijd met de bepalingen van het reglement op het gebruik en het toezicht, dan wel zodanig gebruik gedoogt.
+1. Onverminderd het bij [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=25&z=2011-01-01&g=2011-01-01) bepaalde, kan iedere belanghebbende, met inbegrip van het Openbaar Ministerie, het verval inroepen van het recht op een collectief merk, indien de houder het merk gebruikt in strijd met de bepaling van [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=III&artikel=30&z=2011-01-01&g=2011-01-01), of instemt met een gebruik in strijd met de bepalingen van het reglement op het gebruik en het toezicht, dan wel zodanig gebruik gedoogt.
 
-2. Het Openbaar Ministerie kan de nietigheid inroepen van het depot van een collectief merk wanneer het reglement op het gebruik en het toezicht in strijd is met de openbare orde, of wanneer het niet in overeenstemming is met de bepalingen van [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=III&artikel=33&z=2010-10-10&g=2010-10-10). Het Openbaar Ministerie kan eveneens de nietigheid inroepen van de wijzigingen van het reglement op het gebruik en het toezicht, indien deze in strijd zijn met de openbare orde of met de bepalingen van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=III&artikel=30&z=2010-10-10&g=2010-10-10) of indien deze tot verzwakking van de door het reglement aan het publiek gegeven waarborgen leiden.
+2. Het Openbaar Ministerie kan de nietigheid inroepen van het depot van een collectief merk wanneer het reglement op het gebruik en het toezicht in strijd is met de openbare orde, of wanneer het niet in overeenstemming is met de bepalingen van [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=III&artikel=33&z=2011-01-01&g=2011-01-01). Het Openbaar Ministerie kan eveneens de nietigheid inroepen van de wijzigingen van het reglement op het gebruik en het toezicht, indien deze in strijd zijn met de openbare orde of met de bepalingen van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=III&artikel=30&z=2011-01-01&g=2011-01-01) of indien deze tot verzwakking van de door het reglement aan het publiek gegeven waarborgen leiden.
 
 ##### Artikel 39
 
-De collectieve merken, die zijn vervallen, nietigverklaard of doorgehaald, evenals die, ten aanzien waarvan vernieuwing niet is geschied en een herstel als bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=III&artikel=34&z=2010-10-10&g=2010-10-10) is uitgebleven, mogen gedurende de drie jaren die volgen op de datum van de inschrijving van het verval, de nietigverklaring, de doorhaling of het verstrijken van de geldigheidsduur van de niet vernieuwde inschrijving, onder geen beding worden gebruikt, behalve door degene die zich op een ouder recht op een individueel, overeenstemmend merk kan beroepen.
+De collectieve merken, die zijn vervallen, nietigverklaard of doorgehaald, evenals die, ten aanzien waarvan vernieuwing niet is geschied en een herstel als bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=III&artikel=34&z=2011-01-01&g=2011-01-01) is uitgebleven, mogen gedurende de drie jaren die volgen op de datum van de inschrijving van het verval, de nietigverklaring, de doorhaling of het verstrijken van de geldigheidsduur van de niet vernieuwde inschrijving, onder geen beding worden gebruikt, behalve door degene die zich op een ouder recht op een individueel, overeenstemmend merk kan beroepen.
 
 ### Hoofdstuk IV. Aanvullende bepalingen inzake internationaal merkenrecht
 
 ##### Artikel 40
 
-De bepalingen van deze wet inzake internationale depots verricht ingevolge de Overeenkomst van Madrid zijn van overeenkomstige toepassing op internationale depots verricht ingevolge het Protocol van 28 juni 1989 bij de Overeenkomst van Madrid.
+De bepalingen van deze wet inzake internationale depots verricht ingevolge de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 14 april 1891 zijn van overeenkomstige toepassing op internationale depots verricht ingevolge het Protocol van 28 juni 1989 bij de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 14 april 1891.
 
 ##### Artikel 41
 
-Ingezetenen van Bonaire, Sint Eustatius of Saba, alsmede onderdanen van landen welke geen deel uitmaken van de door het Verdrag van Parijs tot bescherming van de industriële eigendom van 20 maart 1883 (Trb. 1969, 144) opgerichte Unie, die woonplaats hebben in Bonaire, Sint Eustatius of Saba of aldaar een daadwerkelijke en wezenlijke nijverheids- of handelsonderneming hebben, kunnen ingevolge deze wet, voor dit gehele gebied, de toepassing te hunnen voordele inroepen van de bepalingen van het voornoemde Verdrag en van de Overeenkomst van Madrid.
+Ingezetenen van Bonaire, Sint Eustatius of Saba, alsmede onderdanen van landen welke geen deel uitmaken van de door het Verdrag van Parijs tot bescherming van de industriële eigendom van 20 maart 1883 (Trb. 1969, 144) opgerichte Unie, die woonplaats hebben op Bonaire, Sint Eustatius of Saba of aldaar een daadwerkelijke en wezenlijke nijverheids- of handelsonderneming hebben, kunnen ingevolge deze wet, voor dit gehele gebied, de toepassing te hunnen voordele inroepen van de bepalingen van het voornoemde Verdrag en van de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 14 april 1891.
 
 ### Hoofdstuk V. Overgangsbepalingen
 
 ##### Artikel 42
 
-Onverminderd het bepaalde in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=V&artikel=43&z=2010-10-10&g=2010-10-10) worden de mede in Bonaire, Sint Eustatius en Saba voor de datum van inwerkingtreding van deze wet op grond van de Merkenlandsverordening 1995 verkregen en op die datum niet vervallen uitsluitende rechten op (waren)merken gehandhaafd. De beoordeling van de rangorde van deze verkregen rechten geschiedt met inachtneming van het vóór het in werking treden van deze wet geldende recht.
+Onverminderd het bepaalde in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=V&artikel=43&z=2011-01-01&g=2011-01-01) worden de mede op Bonaire, Sint Eustatius en Saba voor de datum van inwerkingtreding van deze wet op grond van de Merkenlandsverordening 1995 verkregen en op die datum niet vervallen uitsluitende rechten op (waren)merken gehandhaafd. De beoordeling van de rangorde van deze verkregen rechten geschiedt met inachtneming van het vóór het in werking treden van deze wet geldende recht.
 
 ##### Artikel 43
 
 1. Het verkregen recht op een merk eindigt, met terugwerkende kracht tot en met de datum van het in werking treden van deze wet, indien niet bij het verstrijken van een termijn van één jaar te rekenen met ingang van die datum, een bevestigend depot van dat merk is verricht met inachtneming van de vereisten, bepaald bij algemene maatregel van bestuur. De inschrijving van dit depot vermeldt het beroep op een verkregen recht en wat ter zake is opgegeven. Dit bevestigend depot treedt in de plaats van het depot van het merk dat is verricht onder het vóór het in werking treden van deze wet geldende recht. Indien evenwel de deposant beroep doet op een verkregen recht, terwijl hij weet of behoort te weten, dat dit recht niet bestaat, geldt het depot als te kwader trouw verricht.
 
-2. Het op een collectief merk verkregen recht eindigt voorts met terugwerkende kracht tot en met de datum van het in werking treden van deze wet, indien bij het in het eerste lid bedoelde bevestigende depot geen reglement op het gebruik en toezicht is overgelegd. De [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=25&z=2010-10-10&g=2010-10-10), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=III&artikel=33&z=2010-10-10&g=2010-10-10) en [38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=III&artikel=38&z=2010-10-10&g=2010-10-10), zijn van toepassing.
+2. Het op een collectief merk verkregen recht eindigt voorts met terugwerkende kracht tot en met de datum van het in werking treden van deze wet, indien bij het in het eerste lid bedoelde bevestigende depot geen reglement op het gebruik en toezicht is overgelegd. De [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=25&z=2011-01-01&g=2011-01-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=III&artikel=33&z=2011-01-01&g=2011-01-01) en [38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=III&artikel=38&z=2011-01-01&g=2011-01-01), zijn van toepassing.
 
-3. Op depots als bedoeld in het eerste en tweede lid is [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=10&z=2010-10-10&g=2010-10-10) van toepassing.
+3. Op depots als bedoeld in het eerste en tweede lid is [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=10&z=2011-01-01&g=2011-01-01) van toepassing.
 
-4. In afwijking van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=20&z=2010-10-10&g=2010-10-10) hebben alle in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=V&artikel=42&z=2010-10-10&g=2010-10-10) bedoelde bevestigende depots, die overeenkomstig deze wet zijn verricht tussen 10 oktober 2010 en 10 oktober 2011, een geldigheidsduur van één tot tien jaren. Deze verstrijkt in de maand en op de dag van het bevestigende depot, in het jaar waarvan het jaartal hetzelfde cijfer der eenheden bevat als het jaar, waarin het oudste verkregen recht, waarop beroep wordt gedaan, is ontstaan. De eerste vernieuwing van de inschrijving van deze depots kan op het tijdstip van het bevestigingsdepot gevraagd worden voor de duur van de termijn, genoemd in artikel 20, derde lid, en tegen betaling van de rechten, bepaald bij of krachtens algemene maatregel van bestuur.
+4. In afwijking van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=II&artikel=20&z=2011-01-01&g=2011-01-01) hebben alle in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&hoofdstuk=V&artikel=42&z=2011-01-01&g=2011-01-01) bedoelde bevestigende depots, die overeenkomstig deze wet zijn verricht tussen 10 oktober 2010 en 10 oktober 2011, een geldigheidsduur van één tot tien jaren. Deze verstrijkt in de maand en op de dag van het bevestigende depot, in het jaar waarvan het jaartal hetzelfde cijfer der eenheden bevat als het jaar, waarin het oudste verkregen recht, waarop beroep wordt gedaan, is ontstaan. De eerste vernieuwing van de inschrijving van deze depots kan op het tijdstip van het bevestigingsdepot gevraagd worden voor de duur van de termijn, genoemd in artikel 20, derde lid, en tegen betaling van de rechten, bepaald bij of krachtens algemene maatregel van bestuur.
 
 ##### Artikel 44
 
@@ -367,11 +411,11 @@ Bij ministeriële regeling wordt een voorziening getroffen omtrent het inschrijv
 
 ##### Artikel 47
 
-De bepalingen van deze wet doen geen afbreuk aan bepalingen van het Verdrag van Parijs, de Overeenkomst van Madrid en de bepalingen van in Bonaire, Sint Eustatius en Saba geldend recht, waaruit een verbod om een merk te gebruiken voortvloeit.
+De bepalingen van deze wet doen geen afbreuk aan bepalingen van het Verdrag van Parijs tot bescherming van de industriële eigendom van 20 maart 1883, de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 14 april 1891 en de bepalingen van op Bonaire, Sint Eustatius en Saba geldend recht, waaruit een verbod om een merk te gebruiken voortvloeit.
 
 ##### Artikel 48
 
-De Merkenwet (P.B. 1961, no. 191) wordt ingetrokken.
+Vervallen
 
 ##### Artikel 49
 
