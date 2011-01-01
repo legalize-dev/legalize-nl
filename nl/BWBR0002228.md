@@ -4,7 +4,7 @@ identifier: "BWBR0002228"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-01-01"
-last_updated: "2010-11-26"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002228"
 soort: "AMvB"
@@ -184,7 +184,7 @@ Zij die de Centrale Raad van Beroep als griffier bijstaan, dragen hetzelfde cost
 
 ##### Artikel 31
 
-De president roept, zo dikwijls hij zulks nodig acht, de Centrale Raad van Beroep in algemene vergadering bijeen. Zoveel mogelijk wonen alle coördinerende vice-presidenten, vice-presidenten en raadsheren de vergadering bij.
+De president roept, zo dikwijls hij zulks nodig acht, de Centrale Raad van Beroep in algemene vergadering bijeen. Zoveel mogelijk wonen alle senior raadsheren en raadsheren de vergadering bij.
 
 ##### Artikel 31a
 
