@@ -4,7 +4,7 @@ identifier: "BWBR0007311"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2010-01-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007311"
 soort: "AMvB"
@@ -240,19 +240,11 @@ Vrijstelling van belasting voor motorrijtuigen die uitsluitend worden gebruikt v
 
 ##### Artikel 14
 
-1. Vrijstelling van belasting voor motorrijtuigen die uitsluitend worden gebruikt door de politie en als zodanig uiterlijk herkenbaar zijn, wordt verleend indien:
+1. Vrijstelling van belasting voor motorrijtuigen die uitsluitend worden gebruikt door de politie wordt verleend indien:
 
-- a. het motorrijtuig is geregistreerd op naam van een politie-instantie;
+- a. het motorrijtuig is geregistreerd op naam van een politie-instantie; en
 
-- b. het motorrijtuig is voorzien van:
-
-- -. een tweetonige hoorn;
-
-- -. een duidelijk zichtbaar blauw zwaai- of knipperlicht; en
-
-- -. ten minste aan weerszijden één of meer duidelijk zichtbare afbeeldingen van het politielogo, bedoeld in de Regeling politielogo; en
-
-- c. het motorrijtuig uitsluitend wordt gebruikt door politie-ambtenaren voor de uitoefening van hun politietaak.
+- b. het motorrijtuig uitsluitend wordt gebruikt door politie-ambtenaren voor de uitoefening van hun politietaak.
 
 2. Vrijstelling van belasting voor motorrijtuigen die uitsluitend worden gebruikt door de brandweer en als zodanig uiterlijk herkenbaar zijn wordt verleend indien:
 
@@ -268,7 +260,7 @@ Vrijstelling van belasting voor motorrijtuigen die uitsluitend worden gebruikt v
 
 - c. het motorrijtuig uitsluitend wordt gebruikt door brandweerlieden voor de uitoefening van hun brandweertaak.
 
-3. Onder brandweer-instantie wordt mede begrepen een bedrijf dat beschikt over een eigen bedrijfsbrandweer.
+3. Onder brandweer-instantie wordt mede begrepen een aangewezen inrichting als bedoeld in het [Besluit bedrijfsbrandweren](https://wetten.overheid.nl/jci1.3:c:BWBR0004694).
 
 ##### Artikel 15
 
@@ -348,13 +340,13 @@ Vrijstelling van belasting voor motorrijtuigen die zijn geregistreerd in het bui
 
 - b. het motorrijtuig blijkens een kilometerregistratie voor ten minste 50% zakelijk buiten Nederland wordt gebruikt; het zakelijk gebruik buiten Nederland wordt per kalenderjaar bepaald, waarbij de afstand die wordt overbrugd van de woonplaats naar de in het buitenland gelegen werkplaats en omgekeerd buiten beschouwing blijft; en
 
-- c. de houder niet een werknemer is als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=25&z=2010-01-01&g=2010-01-01).
+- c. de houder niet een werknemer is als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=25&z=2011-01-01&g=2011-01-01).
 
 ##### Artikel 27
 
-1. De vrijstellingen, bedoeld in de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=8&z=2010-01-01&g=2010-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=13&z=2010-01-01&g=2010-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=14&z=2010-01-01&g=2010-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=17&z=2010-01-01&g=2010-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=19&z=2010-01-01&g=2010-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=21&z=2010-01-01&g=2010-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=23&z=2010-01-01&g=2010-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=25&z=2010-01-01&g=2010-01-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=26&z=2010-01-01&g=2010-01-01), worden op verzoek verleend. De vrijstelling, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=12&z=2010-01-01&g=2010-01-01), wordt voor vrachtauto’s en autobussen op verzoek verleend.
+1. De vrijstellingen, bedoeld in de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=8&z=2011-01-01&g=2011-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=13&z=2011-01-01&g=2011-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=14&z=2011-01-01&g=2011-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=17&z=2011-01-01&g=2011-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=19&z=2011-01-01&g=2011-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=21&z=2011-01-01&g=2011-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=23&z=2011-01-01&g=2011-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=25&z=2011-01-01&g=2011-01-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=26&z=2011-01-01&g=2011-01-01), worden op verzoek verleend. De vrijstelling, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=12&z=2011-01-01&g=2011-01-01), wordt voor vrachtauto’s en autobussen op verzoek verleend.
 
-2. Ingeval voor een motorrijtuig een verzoek wordt ingediend om vrijstelling van de belasting van personenauto’s en motorrijwielen ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2) of [artikel 3 van het Uitvoeringsbesluit belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=3), geldt dit verzoek mede als verzoek om toepassing van de vrijstelling ingevolge [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=25&z=2010-01-01&g=2010-01-01) onderscheidenlijk [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=26&z=2010-01-01&g=2010-01-01) van dit besluit.
+2. Ingeval voor een motorrijtuig een verzoek wordt ingediend om vrijstelling van de belasting van personenauto’s en motorrijwielen ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2) of [artikel 3 van het Uitvoeringsbesluit belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=3), geldt dit verzoek mede als verzoek om toepassing van de vrijstelling ingevolge [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=25&z=2011-01-01&g=2011-01-01) onderscheidenlijk [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=26&z=2011-01-01&g=2011-01-01) van dit besluit.
 
 3. Het verzoek wordt bij de inspecteur ingediend vóór de aanvang van het tijdvak, onderscheidenlijk van het gebruik van de weg in Nederland met het motorrijtuig.
 
@@ -384,23 +376,25 @@ Vrijstelling van belasting voor motorrijtuigen die zijn geregistreerd in het bui
 
 ##### Artikel 29
 
-Vrijstelling van belasting voor motorrijtuigen waarvan de houder niet in Nederland woont of is gevestigd en die zijn ingeschreven in één van de in de bijlage bij dit besluit genoemde landen als toebehorende aan een in dat land wonende of gevestigde houder wordt verleend, met inachtneming van de bij het desbetreffende land vermelde aanwijzingen.
+1. Met inachtneming van het beginsel van wederkerigheid wordt, in aansluiting aan de desbetreffende bepalingen in de wetgeving van een ander land of in een regeling van internationaal recht, vrijstelling van belasting verleend voor motorrijtuigen die zijn ingeschreven in een ander land en waarvan de houder niet in Nederland woont of is gevestigd.
+
+2. Onze Minister houdt een lijst bij van de in het eerste lid bedoelde vrijstellingen en de daarbij geldende voorwaarden en beperkingen en draagt zorg voor de bekendmaking van deze lijst.
 
 ### Hoofdstuk V. Overgangsbepalingen
 
 ##### Artikel 30
 
-1. Voor motorrijtuigen waarvoor tot 1 april 1995 een vrijstelling van belasting gold op grond van [artikel 9 van de Wet op de motorrijtuigenbelasting 1966](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&artikel=9), en waarvoor op grond van de artikelen 71 tot en met 73 van de wet aanspraak op een vrijstelling kan worden gemaakt, geldt in afwijking van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=27&z=2010-01-01&g=2010-01-01) dat:
+1. Voor motorrijtuigen waarvoor tot 1 april 1995 een vrijstelling van belasting gold op grond van [artikel 9 van de Wet op de motorrijtuigenbelasting 1966](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&artikel=9), en waarvoor op grond van de artikelen 71 tot en met 73 van de wet aanspraak op een vrijstelling kan worden gemaakt, geldt in afwijking van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=27&z=2011-01-01&g=2011-01-01) dat:
 
 - a. indien de vrijstelling onder de voorwaarde van een vergunning van de inspecteur is verleend, het verzoek om vrijstelling wordt ingediend vóór de datum waarop de vergunning afloopt, dan wel, indien de vergunning voor onbepaalde tijd is afgegeven, vóór 1 juli 1995;
 
-- b. indien de vrijstelling niet onder de voorwaarde van een vergunning is verleend, de verklaringen, bedoeld in [artikel 27, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=27&z=2010-01-01&g=2010-01-01), worden overgelegd vóór 1 juli 1995.
+- b. indien de vrijstelling niet onder de voorwaarde van een vergunning is verleend, de verklaringen, bedoeld in [artikel 27, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=27&z=2011-01-01&g=2011-01-01), worden overgelegd vóór 1 juli 1995.
 
 2. In de in het eerste lid genoemde gevallen wordt de vrijstelling geacht te zijn verleend op grond van de wet tot de in het eerste lid genoemde tijdstippen.
 
 ##### Artikel 31
 
-1. Het Uitvoeringsbesluit motorrijtuigenbelasting 1966 wordt ingetrokken, met dien verstande dat het van toepassing blijft voor de gevallen bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=V&artikel=30&z=2010-01-01&g=2010-01-01).
+1. Het Uitvoeringsbesluit motorrijtuigenbelasting 1966 wordt ingetrokken, met dien verstande dat het van toepassing blijft voor de gevallen bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=V&artikel=30&z=2011-01-01&g=2011-01-01).
 
 2. Het Besluit tot vrijstelling van motorrijtuigenbelasting voor buitenlanders wordt ingetrokken.
 
@@ -662,52 +656,6 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ## Bijlage
 
-| Land waar de houder woont of is gevestigd | Omschrijving van de motorrijtuigen waarvoor de vrijstelling geldt | Duur van de vrijstelling |
-| --- | --- | --- |
-| **A. Lid-staten van de Europese Unie** |   |   |
-| België | alle motorrijtuigen | onbeperkte duur |
-| Duitsland | a. motorrijtuigen, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | al dan niet ononderbroken duur van ten hoogste zeven maanden per tijdvak van twaalf maanden |
-|   | b. motorrijtuigen, andere dan bedoeld onder onderdeel a | ten hoogste veertien dagen |
-| Denemarken | a. motorrijtuigen, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | al dan niet ononderbroken duur van ten hoogste zeven maanden per tijdvak van twaalf maanden |
-|   | b. motorrijtuigen, andere dan bedoeld onder onderdeel a | ten hoogste drie maanden |
-| Frankrijk | alle motorrijtuigen | ten hoogste twaalf maanden |
-| Griekenland | a. motorrijtuigen, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | al dan niet ononderbroken duur van ten hoogste zeven maanden per tijdvak van twaalf maanden |
-|   | b. motorrijtuigen, andere dan bedoeld onder onderdeel a | onbeperkte duur |
-| Ierland | a. motorrijtuigen, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | al dan niet ononderbroken duur van ten hoogste zeven maanden per tijdvak van twaalf maanden |
-|   | b. motorrijtuigen, niet ingericht voor personenvervoer | onbeperkte duur |
-| Italië | a. motorrijtuigen, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | al dan niet ononderbroken duur van ten hoogste zeven maanden per tijdvak van twaalf maanden |
-|   | b. motorrijtuigen, andere dan bedoeld onder onderdeel a | onbeperkte duur |
-| Luxemburg | alle motorrijtuigen | onbeperkte duur |
-| Portugal | alle motorrijtuigen, met uitzondering van die, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | onbeperkte duur |
-| Spanje | motorrijtuigen, ingericht voor personenvervoer | ten hoogste twaalf maanden |
-| Verenigd Koninkrijk | a. motorrijtuigen, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | al dan niet ononderbroken duur van ten hoogste zeven maanden per tijdvak van twaalf maanden |
-|   | b. motorrijtuigen, andere dan bedoeld onder onderdeel a | onbeperkte duur |
-| Alle lid-staten | motorrijtuigen, ingericht voor personenvervoer en niet dienende tot het vervoer van personen of goederen tegen betaling | regelmatig gebruik van de weg in Nederland van de verblijfplaats buiten Nederland naar de arbeidsplaats en terug |
-| **B. Overige landen** |   |   |
-| Aruba | alle motorrijtuigen | onbeperkte duur |
-| Bulgarije | alle motorrijtuigen, met uitzondering van die, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | onbeperkte duur |
-| Canada | motorrijtuigen, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | ten hoogste twaalf maanden |
-| Cyprus | motorrijtuigen, niet ingericht voor personenvervoer | onbeperkte duur |
-| Finland | alle motorrijtuigen, met uitzondering van die, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | onbeperkte duur |
-| Hongarije | a. motorrijtuigen, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | ten hoogste 60 dagen per kalenderjaar |
-|   | b. motorrijtuigen, niet ingericht voor personenvervoer | onbeperkte duur |
-| Israël | motorrijtuigen, niet ingericht voor personenvervoer | onbeperkte duur |
-| Japan | motorrijtuigen, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | ten hoogste drie maanden |
-| Joegoslavië | a. motorrijtuigen, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | onbeperkte duur |
-|   | b. motorrijtuigen, andere dan bedoeld onder onderdeel a | vrijstelling onder voorwaarde dat een geldig legitimatiebewijs wordt overgelegd |
-| Liechtenstein | alle motorrijtuigen | ten hoogste drie maanden |
-| Nederlandse Antillen | alle motorrijtuigen | onbeperkte duur |
-| Noorwegen | alle motorrijtuigen, met uitzondering van die welke niet zijn ingericht voor personenvervoer en worden voortbewogen of zijn ingericht om te worden voortbewogen door een kracht welke niet uitsluitend wordt ontleend aan benzine | ten hoogste twaalf maanden |
-| Oostenrijk | alle motorrijtuigen | onbeperkte duur |
-| Polen | alle motorrijtuigen met uitzondering van die gebezigd voor doorgaand transport en van die, ingericht voor personenvervoer en niet dienende tot het vervoer van personen tegen betaling | onbeperkte duur |
-| Roemenië | motorrijtuigen, niet ingericht voor personenvervoer | onbeperkte duur |
-| Suriname | alle motorrijtuigen | ten hoogste twaalf maanden |
-| Tsjechoslowakije | alle motorrijtuigen | onbeperkte duur |
-| Turkije | motorrijtuigen, niet ingericht voor personenvervoer | onbeperkte duur |
-| Unie van Socialistische Sovjetrepublieken | alle motorrijtuigen | onbeperkte duur |
-| Unie van Zuid-Afrika | alle motorrijtuigen | ten hoogste twaalf maanden |
-| Verenigde Staten van Amerika | alle motorrijtuigen | ten hoogste twaalf maanden |
-| Zweden | alle motorrijtuigen | ten hoogste twaalf maanden |
-| Zwitserland | alle motorrijtuigen | ten hoogste drie maanden |
+Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
