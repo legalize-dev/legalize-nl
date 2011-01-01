@@ -4,7 +4,7 @@ identifier: "BWBR0020326"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2009-01-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020326"
 soort: "AMvB"
@@ -68,7 +68,11 @@ Als zorg in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078)
 
 1. De [artikelen 50 tot en met 56 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50) zijn niet van toepassing op:
 
-- a. farmaceutische hulp, anders dan de terhandstelling van UR-geneesmiddelen als bedoeld in [artikel 1, eerste lid, onder s, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1) of waarop de Wet inzake bloedtransfusie van toepassing is;
+- a. farmaceutische zorg:
+
+- 1°. anders dan advies of begeleiding ten behoeve van medicatiebeoordeling en verantwoord gebruik van UR-geneesmiddelen als bedoeld in [artikel 1, eerste lid, onder s, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1) of de terhandstelling van die geneesmiddelen,
+
+- 2°. waarop de Wet inzake bloedtransfusie van toepassing is;
 
 - b. zorg waarvoor door het College voor zorgverzekeringen op grond van een regeling als bedoeld in [artikel 44 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=44) of [artikel 68 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=68) subsidie wordt verleend;
 
@@ -110,15 +114,15 @@ Als zorg in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078)
 
 1. De [artikelen 50 tot en met 56 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50) zijn niet van toepassing op zorg verleend onder eigen verantwoordelijkheid door verpleegkundigen en verzorgenden in de individuele gezondheidszorg.
 
-2. De [artikelen 50 tot en met 56 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50) zijn wel van toepassing indien de zorg, verleend onder eigen verantwoordelijkheid door verpleegkundigen en verzorgenden in de individuele gezondheidszorg, zorg als omschreven in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=6) en [7 van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=7).
+2. De [artikelen 50 tot en met 56 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50) zijn wel van toepassing indien de zorg, verleend onder eigen verantwoordelijkheid door verpleegkundigen en verzorgenden in de individuele gezondheidszorg, zorg is als omschreven in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=5) en [6 van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=6).
 
 ##### Artikel 6
 
-Dit besluit treedt in werking op het tijdstip waarop de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) in werking treedt.
+De artikelen [23 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=23), [34 tot en met 39](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=34), en [45 tot en met 59 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=45) zijn niet van toepassing op forensische zorg als bedoeld in [artikel 2 van het Interimbesluit forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0029333&artikel=2).
 
 ##### Artikel 7
 
-Dit besluit wordt aangehaald als: Besluit uitbreiding en beperking werkingssfeer WMG.
+Dit besluit treedt in werking op het tijdstip waarop de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) in werking treedt.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
