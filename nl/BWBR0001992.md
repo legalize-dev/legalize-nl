@@ -4,7 +4,7 @@ identifier: "BWBR0001992"
 country: "nl"
 rank: "kb"
 publication_date: "2011-01-01"
-last_updated: "1998-01-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001992"
 soort: "KB"
@@ -48,9 +48,9 @@ Hebben goedgevonden en verstaan:
 
 Als organisaties, voor welke het verbod van het eerste lid van artikel 1 der Wet op de weerkorpsen niet geldt, worden toegelaten:
 
-- a. de organisatie, bekend als "Bijzondere Vrijwillige Landstorm", zijnde de organisatie van hen, die hetzij als dienstplichtigen, hetzij op grond van een vrijwillige verbintenis, hetzij als behoorende tot het reserve-personeel, deel uitmaken van het verlofspersoneel der Koninklijke landmacht en zich beschikbaar stellen om na verkregen machtiging van Onze Minister van Defensie - ter handhaving of herstel van de openbare orde en rust - vrijwillig in werkelijken dienst te komen, mits deze organisatie voldoet aan de bepalingen van [§ II](https://wetten.overheid.nl/jci1.3:c:BWBR0001992&paragraaf=II&z=1998-01-01&g=1998-01-01) van dit besluit;
+- a. de organisatie, bekend als "Bijzondere Vrijwillige Landstorm", zijnde de organisatie van hen, die hetzij als dienstplichtigen, hetzij op grond van een vrijwillige verbintenis, hetzij als behoorende tot het reserve-personeel, deel uitmaken van het verlofspersoneel der Koninklijke landmacht en zich beschikbaar stellen om na verkregen machtiging van Onze Minister van Defensie - ter handhaving of herstel van de openbare orde en rust - vrijwillig in werkelijken dienst te komen, mits deze organisatie voldoet aan de bepalingen van [§ II](https://wetten.overheid.nl/jci1.3:c:BWBR0001992&paragraaf=II&z=2011-01-01&g=2011-01-01) van dit besluit;
 
-- b. de organisaties, bekend als "Vrijwillige Burgerwachten", zoolang zij als zoodanig op den voet van het bepaalde in [§ III](https://wetten.overheid.nl/jci1.3:c:BWBR0001992&paragraaf=III&z=1998-01-01&g=1998-01-01) van dit besluit door Onzen Minister van Binnenlandsche Zaken zijn erkend;
+- b. de organisaties, bekend als "Vrijwillige Burgerwachten", zoolang zij als zoodanig op den voet van het bepaalde in [§ III](https://wetten.overheid.nl/jci1.3:c:BWBR0001992&paragraaf=III&z=2011-01-01&g=2011-01-01) van dit besluit door Onzen Minister van Binnenlandsche Zaken zijn erkend;
 
 - c. weerbaarheidsvereenigingen en schietvereenigingen, zoolang zij op den voet van het bepaalde in § IV van dit besluit door Onzen Minister van Defensie zijn erkend.
 
@@ -86,7 +86,7 @@ De Bijzondere Vrijwillige Landstorm en elk zijner onderdeelen geven aan Onzen Mi
 
 - b. dat van het lidmaatschap der organisatie zijn uitgesloten zij, die van revolutionnaire gezindheid zijn.
 
-2. Onverminderd het bepaalde in het vorig lid behooren hetzij in de statuten, hetzij in de in het [eerste lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001992&paragraaf=III&artikel=4&z=1998-01-01&g=1998-01-01) bedoelde reglementen bepalingen voor te komen omtrent:
+2. Onverminderd het bepaalde in het vorig lid behooren hetzij in de statuten, hetzij in de in het [eerste lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001992&paragraaf=III&artikel=4&z=2011-01-01&g=2011-01-01) bedoelde reglementen bepalingen voor te komen omtrent:
 
 - a. de verwezenlijking van het doel, alsmede de samenstelling en de inrichting van het korps, de rangen en het beheer;
 
@@ -146,7 +146,7 @@ Weerbaarheidsvereenigingen en schietvereenigingen zijn verplicht hare werkzaamhe
 
 ##### Artikel 13
 
-Eene weerbaarheidsvereeniging of schietvereeniging treedt, behoudens het bepaalde in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0001992&paragraaf=IV&artikel=15&z=1998-01-01&g=1998-01-01), slechts op in onderling verband, voor zoover dit voor het houden van hare oefeningen noodig is.
+Eene weerbaarheidsvereeniging of schietvereeniging treedt, behoudens het bepaalde in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0001992&paragraaf=IV&artikel=15&z=2011-01-01&g=2011-01-01), slechts op in onderling verband, voor zoover dit voor het houden van hare oefeningen noodig is.
 
 ##### Artikel 14
 
@@ -154,11 +154,11 @@ Het is aan eene weerbaarheidsvereeniging en aan eene schietvereeniging verboden 
 
 ##### Artikel 15
 
-Onze Minister van Defensie is bevoegd om in bijzondere gevallen eene weerbaarheidsvereeniging of schietvereeniging te vergunnen in onderling verband op te treden tot het verrichten van of deelnemen aan eerbetoon.
+Onze Minister van Defensie is bevoegd om in bijzondere gevallen eene weerbaarheidsvereeniging of schietvereeniging te vergunnen in onderling verband op te treden tot het verrichten van of deelnemen aan eerbetoon. Onze Minister van Defensie besluit binnen acht weken na ontvangst van de aanvraag. [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) is van toepassing op de aanvraag om de vergunning.
 
 ##### Artikel 16
 
-Uniformkleeding en onderscheidingsteekenen worden niet gedragen of gevoerd dan met de toestemming van Onzen Minister van Defensie.
+Uniformkleeding en onderscheidingsteekenen worden niet gedragen of gevoerd dan met de toestemming van Onzen Minister van Defensie. Onze Minister van Defensie besluit binnen acht weken na ontvangst van de aanvraag. [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) is van toepassing op het verzoek om toestemming.
 
 #### § V. Slotbepaling
 
