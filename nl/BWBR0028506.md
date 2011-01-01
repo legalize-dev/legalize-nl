@@ -4,7 +4,7 @@ identifier: "BWBR0028506"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2022-08-01"
-last_updated: "2010-10-10"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028506"
 soort: "wet-BES"
@@ -54,15 +54,15 @@ In deze wet wordt verstaan onder:
 
 - **sociale vormingsplicht:** de verplichting van iedere jongere tot het volgen van een kanstraject in geval hij niet beschikt over een beroepskwalificatie niveau 1;
 
-- **raamplan kanstrajecten:** een plan als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=5&artikel=9&z=2010-10-10&g=2010-10-10);
+- **raamplan kanstrajecten:** een plan als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=5&artikel=9&z=2010-10-10&g=2011-01-01);
 
-- **kanstraject:** een traject als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=6&artikel=10&z=2010-10-10&g=2010-10-10);
+- **kanstraject:** een traject als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=6&artikel=10&z=2010-10-10&g=2011-01-01);
 
 - **beroepskwalificatie niveau 1:** het niveau van een assistent-beroepsbeoefenaar, die in staat is onder begeleiding routinematige arbeid uit te voeren, welk niveau overeenkomt met het diploma assistent opleiding of een diploma voorbereidend secundair beroepsonderwijs (vsbo).
 
 - **oproepingsinstantie:** de met de uitvoering van deze wet belaste dienst of afdeling van een openbaar lichaam, die is belast met de oproeping;
 
-- **uitvoerende instantie:** een instantie die een raamplan kanstrajecten opstelt, de kanstrajecten en de daarmee samenhangende begeleiding verzorgt en krachtens [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=12&artikel=26&z=2010-10-10&g=2010-10-10) een bijdrage van het bestuurscollege van het desbetreffende openbaar lichaam hiervoor ontvangt;
+- **uitvoerende instantie:** een instantie die een raamplan kanstrajecten opstelt, de kanstrajecten en de daarmee samenhangende begeleiding verzorgt en krachtens [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=12&artikel=26&z=2010-10-10&g=2011-01-01) een bijdrage van het bestuurscollege van het desbetreffende openbaar lichaam hiervoor ontvangt;
 
 - **Inspecteur:** Inspecteur, bedoeld in de [Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800).
 
@@ -108,15 +108,15 @@ Onze Minister verleent op verzoek van de jongere ontheffing van het volgen van e
 
 ##### Artikel 6
 
-1. Een aanvraag tot vrijstelling of ontheffing als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=3&artikel=4&z=2010-10-10&g=2010-10-10) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=3&artikel=5&z=2010-10-10&g=2010-10-10) wordt ingediend bij de oproepingsinstantie door middel van een formulier waarvan het model door Onze Minister wordt vastgesteld.
+1. Een aanvraag tot vrijstelling of ontheffing als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=3&artikel=4&z=2010-10-10&g=2011-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=3&artikel=5&z=2010-10-10&g=2011-01-01) wordt ingediend bij de oproepingsinstantie door middel van een formulier waarvan het model door Onze Minister wordt vastgesteld.
 
 2. De jongere verschaft bij de aanvraag de gegevens en bescheiden die voor de beslissing op de aanvraag nodig zijn en waarover hij redelijkerwijs de beschikking kan krijgen.
 
-3. Onze Minister vermeldt in zijn besluit tot ontheffing de duur van de ontheffing. De duur van een ontheffing bedraagt per keer ten hoogste een jaar. Ontheffing wegens vervulling van de werkelijke dienst, bedoeld in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=3&artikel=5&z=2010-10-10&g=2010-10-10), wordt verleend voor zolang de betrokken jongere de werkelijke dienst vervult.
+3. Onze Minister vermeldt in zijn besluit tot ontheffing de duur van de ontheffing. De duur van een ontheffing bedraagt per keer ten hoogste een jaar. Ontheffing wegens vervulling van de werkelijke dienst, bedoeld in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=3&artikel=5&z=2010-10-10&g=2011-01-01), wordt verleend voor zolang de betrokken jongere de werkelijke dienst vervult.
 
 4. Op een aanvraag tot vrijstelling of ontheffing wordt beslist binnen dertig dagen na indiening. Indien binnen deze termijn geen beslissing is genomen, wordt de aanvraag geacht te zijn ingewilligd en wordt aan de aanvrager op diens verzoek een besluit van die strekking afgegeven of toegezonden.
 
-5. Zolang niet op de aanvraag tot vrijstelling of ontheffing, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=3&artikel=5&z=2010-10-10&g=2010-10-10), is beslist, is de verplichting tot het volgen van een kanstraject als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=6&artikel=10&z=2010-10-10&g=2010-10-10) opgeschort.
+5. Zolang niet op de aanvraag tot vrijstelling of ontheffing, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=3&artikel=5&z=2010-10-10&g=2011-01-01), is beslist, is de verplichting tot het volgen van een kanstraject als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=6&artikel=10&z=2010-10-10&g=2011-01-01) opgeschort.
 
 6. Een ontheffing kan onder voorwaarden en beperkingen worden verleend.
 
@@ -140,17 +140,17 @@ Onze Minister verleent op verzoek van de jongere ontheffing van het volgen van e
 
 - c. aanvragen voor ontheffing en de verstrekte ontheffingen alsmede de duur daarvan;
 
-- d. uitgegane uitnodigingen voor een educatieve intake als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=2&artikel=2&z=2010-10-10&g=2010-10-10), en de resultaten daarvan;
+- d. uitgegane uitnodigingen voor een educatieve intake als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=2&artikel=2&z=2010-10-10&g=2011-01-01), en de resultaten daarvan;
 
 - e. het kanstraject, de daarvan deel uitmakende modules die de jongere moet volgen en de wijzigingen daarin;
 
 - f. de door de deelnemer met succes afgeronde modules;
 
-- g. het behalen van het in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=6&artikel=12&z=2010-10-10&g=2010-10-10) bedoelde certificaat;
+- g. het behalen van het in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=6&artikel=12&z=2010-10-10&g=2011-01-01) bedoelde certificaat;
 
-- h. de ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=2&artikel=3&z=2010-10-10&g=2010-10-10) geregistreerde gegevens;
+- h. de ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=2&artikel=3&z=2010-10-10&g=2011-01-01) geregistreerde gegevens;
 
-- i. gegevens omtrent de toepassing van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=9&artikel=19&z=2010-10-10&g=2010-10-10) op de jongere.
+- i. gegevens omtrent de toepassing van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=9&artikel=19&z=2010-10-10&g=2011-01-01) op de jongere.
 
 6. De gegevens, bedoeld in het vijfde lid, worden in het persoonsbestand van de onder-scheiden jongeren opgenomen.
 
@@ -224,7 +224,7 @@ Onze Minister verleent op verzoek van de jongere ontheffing van het volgen van e
 
 ##### Artikel 10
 
-1. Op grond van de resultaten van de educatieve intake, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=2&artikel=3&z=2010-10-10&g=2010-10-10), stelt de uitvoerende instantie een op zijn individuele situatie afgestemd kanstraject voor de jongere vast.
+1. Op grond van de resultaten van de educatieve intake, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=2&artikel=3&z=2010-10-10&g=2011-01-01), stelt de uitvoerende instantie een op zijn individuele situatie afgestemd kanstraject voor de jongere vast.
 
 2. Het kanstraject bestaat uit een of meerdere modulen die samengesteld zijn met het oog op:
 
@@ -242,7 +242,7 @@ Onze Minister verleent op verzoek van de jongere ontheffing van het volgen van e
 
 3. Het kanstraject heeft een totale duur van ten minste zes maanden en ten hoogste twee jaar.
 
-4. Het kanstraject kan worden gewijzigd op grond van wijzigingen in de gegevens zoals die op het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=2&artikel=2&z=2010-10-10&g=2010-10-10) bedoelde aanmeldingsformulier door de jongere zijn verstrekt.
+4. Het kanstraject kan worden gewijzigd op grond van wijzigingen in de gegevens zoals die op het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=2&artikel=2&z=2010-10-10&g=2011-01-01) bedoelde aanmeldingsformulier door de jongere zijn verstrekt.
 
 ##### Artikel 11
 
@@ -264,7 +264,7 @@ Een ieder die betrokken is bij de uitvoering van deze wet en daarbij de beschikk
 
 ##### Artikel 19
 
-1. Ter zake van gedragingen in strijd met [artikel 2, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=2&artikel=2&z=2010-10-10&g=2010-10-10), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=2&artikel=3&z=2010-10-10&g=2010-10-10), of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=6&artikel=11&z=2010-10-10&g=2010-10-10) kan het bestuurscollege aan de jongere een administratieve boete opleggen.
+1. Ter zake van gedragingen in strijd met [artikel 2, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=2&artikel=2&z=2010-10-10&g=2011-01-01), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=2&artikel=3&z=2010-10-10&g=2011-01-01), of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=6&artikel=11&z=2010-10-10&g=2011-01-01) kan het bestuurscollege aan de jongere een administratieve boete opleggen.
 
 2. De hoogte van de boete wordt afgestemd op de ernst van het feit, de omstandigheden waarin de jongere verkeert en de mate van verwijtbaarheid.
 
@@ -294,7 +294,7 @@ in geval van het herhaald plegen van het feit, bedoeld in het eerste lid: tenmin
 
 ##### Artikel 21
 
-1. Hij, die zich gedraagt in strijd met de [artikelen 2, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=2&artikel=2&z=2010-10-10&g=2010-10-10), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=2&artikel=3&z=2010-10-10&g=2010-10-10), of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=6&artikel=11&z=2010-10-10&g=2010-10-10) wordt gestraft:
+1. Hij, die zich gedraagt in strijd met de [artikelen 2, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=2&artikel=2&z=2010-10-10&g=2011-01-01), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=2&artikel=3&z=2010-10-10&g=2011-01-01), of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=6&artikel=11&z=2010-10-10&g=2011-01-01) wordt gestraft:
 
 - a. indien het feit voor de eerste keer wordt gepleegd: met hechtenis van ten hoogste 10 dagen, een geldboete van ten hoogste USD 560 of met beide straffen.
 
@@ -302,11 +302,11 @@ in geval van het herhaald plegen van het feit, bedoeld in het eerste lid: tenmin
 
 2. De in het eerste lid strafbaar gesteld feiten zijn overtredingen.
 
-3. Strafrechtelijke vervolging ter zake van een in het eerste lid genoemd strafbaar feit is niet mogelijk zolang geen toepassing is gegeven aan het bepaalde in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=9&artikel=19&z=2010-10-10&g=2010-10-10).
+3. Strafrechtelijke vervolging ter zake van een in het eerste lid genoemd strafbaar feit is niet mogelijk zolang geen toepassing is gegeven aan het bepaalde in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=9&artikel=19&z=2010-10-10&g=2011-01-01).
 
 ##### Artikel 22
 
-1. Hij, die zich gedraagt in strijd met [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=7&artikel=13&z=2010-10-10&g=2010-10-10) wordt gestraft met:
+1. Hij, die zich gedraagt in strijd met [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=7&artikel=13&z=2010-10-10&g=2011-01-01) wordt gestraft met:
 
 - a. indien hij het feit opzettelijk heeft gepleegd: hechtenis van ten hoogste zes maanden, een geldboete van ten hoogste USD 8.400 of met beide straffen.
 
@@ -328,7 +328,7 @@ Hij die op andere wijze dan door het valselijk opmaken of vervalsen van een gesc
 
 ##### Artikel 25
 
-1. Een jongere die deelneemt aan een kanstraject als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=6&artikel=10&z=2010-10-10&g=2010-10-10), komt in aanmerking voor een tegemoetkoming in de noodzakelijk te maken onkosten voor vervoer, kleding en schoeisel, verzorging, en een ziektekostenverzekering, van gemiddeld USD 280 per maand en voor kinderopvang maximaal USD 56 per maand. Daartoe dient hij een aanvraag in bij de oproepingsinstantie, met gebruikmaking van het formulier volgens het model dat door Onze Minister wordt vastgesteld.
+1. Een jongere die deelneemt aan een kanstraject als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=6&artikel=10&z=2010-10-10&g=2011-01-01), komt in aanmerking voor een tegemoetkoming in de noodzakelijk te maken onkosten voor vervoer, kleding en schoeisel, verzorging, en een ziektekostenverzekering, van gemiddeld USD 280 per maand en voor kinderopvang maximaal USD 56 per maand. Daartoe dient hij een aanvraag in bij de oproepingsinstantie, met gebruikmaking van het formulier volgens het model dat door Onze Minister wordt vastgesteld.
 
 2. De oproepingsinstantie neemt binnen 4 weken een besluit en stelt de jongere daarvan schriftelijk op de hoogte.
 
@@ -336,7 +336,7 @@ Hij die op andere wijze dan door het valselijk opmaken of vervalsen van een gesc
 
 4. Bij algemene maatregel van bestuur kan op verzoek van het bestuurscollege van een openbaar lichaam voor het betreffende openbaar lichaam een hoger bedrag dan dat genoemd in het eerste lid, worden vastgesteld.
 
-### Hoofdstuk 12. Bekostiging raamplan kanstrajecten
+### Hoofdstuk 10. Strafbepalingen
 
 ##### Artikel 26
 
@@ -352,7 +352,7 @@ Hij die op andere wijze dan door het valselijk opmaken of vervalsen van een gesc
 
 6. De eilandsraad stelt de aanvrager in kennis van zijn met redenen omkleed besluit. Bij inwilliging van de aanvraag vermeldt het besluit in ieder geval de datum waarop de eilandsraad voornemens is de bekostiging uit de openbare kas te doen ingaan.
 
-7. Het bestuurscollege sluit met de uitvoerende instantie een overeenkomst voor de bekostiging overeenkomstig [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=12&artikel=27&z=2010-10-10&g=2010-10-10).
+7. Het bestuurscollege sluit met de uitvoerende instantie een overeenkomst voor de bekostiging overeenkomstig [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=12&artikel=27&z=2010-10-10&g=2011-01-01).
 
 ##### Artikel 27
 
@@ -362,15 +362,15 @@ Hij die op andere wijze dan door het valselijk opmaken of vervalsen van een gesc
 
 - b. een normbedrag per jongere.
 
-2. Het overzicht, bedoeld in het eerste lid, onderdeel a, wordt maandelijks door de uitvoerende instanties verstrekt aan de beheerder van het jongerenregister, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=4&artikel=8&z=2010-10-10&g=2010-10-10).
+2. Het overzicht, bedoeld in het eerste lid, onderdeel a, wordt maandelijks door de uitvoerende instanties verstrekt aan de beheerder van het jongerenregister, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=4&artikel=8&z=2010-10-10&g=2011-01-01).
 
 3. De uitvoerende instantie ontvangt bij de aanvang van de uitvoering van het raamplan kanstrajecten per deelnemer 50% van het normbedrag en wanneer de deelnemer aan het kanstraject voor meer dan 80% heeft deelgenomen nog eens 30%. Indien de deelnemer het kanstraject met succes afrondt, ontvangt de uitvoerende instantie de resterende 20%.
 
 ##### Artikel 28
 
-1. Bij een met redenen omklede aanvraag, met inachtneming van de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=12&artikel=26&z=2010-10-10&g=2010-10-10) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=12&artikel=27&z=2010-10-10&g=2010-10-10), verzoekt het betrokken bestuurscollege Onze Minister het ingevolge artikel 27, eerste lid, ten laste van het Rijk komende deel in de kosten en kostenvergoedingen ten laste te brengen van ’s Rijks kas. Bij beschikking wordt binnen één maand na de datum van ontvangst omtrent deze aanvraag beslist.
+1. Bij een met redenen omklede aanvraag, met inachtneming van de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=12&artikel=26&z=2010-10-10&g=2011-01-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=12&artikel=27&z=2010-10-10&g=2011-01-01), verzoekt het betrokken bestuurscollege Onze Minister het ingevolge artikel 27, eerste lid, ten laste van het Rijk komende deel in de kosten en kostenvergoedingen ten laste te brengen van ’s Rijks kas. Bij beschikking wordt binnen één maand na de datum van ontvangst omtrent deze aanvraag beslist.
 
-2. Indien een openbaar lichaam kan aantonen dat het niet in staat is het in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=12&artikel=26&z=2010-10-10&g=2010-10-10), genoemde, ten laste van hem komende deel in de kosten en onkostenvergoedingen geheel of gedeeltelijk te dragen, kan het betrokken bestuurscollege bij een met redenen omklede aanvraag Onze Minister verzoeken dat deel geheel of gedeeltelijk ten laste te brengen van ’s Rijks kas.
+2. Indien een openbaar lichaam kan aantonen dat het niet in staat is het in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=12&artikel=26&z=2010-10-10&g=2011-01-01), genoemde, ten laste van hem komende deel in de kosten en onkostenvergoedingen geheel of gedeeltelijk te dragen, kan het betrokken bestuurscollege bij een met redenen omklede aanvraag Onze Minister verzoeken dat deel geheel of gedeeltelijk ten laste te brengen van ’s Rijks kas.
 
 ##### Artikel 29
 
@@ -418,7 +418,7 @@ Onze Minister kan de vastgestelde rijksbijdrage aan een openbaar lichaam binnen 
 
 ##### Artikel 33
 
-1. Bij het geheel of gedeeltelijk intrekken van de bijdrage op grond van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=12&artikel=32&z=2010-10-10&g=2010-10-10) besluit Onze Minister tot:
+1. Bij het geheel of gedeeltelijk intrekken van de bijdrage op grond van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=12&artikel=32&z=2010-10-10&g=2011-01-01) besluit Onze Minister tot:
 
 - a. het onmiddellijk terugvorderen van de middelen bij het desbetreffende openbaar lichaam, of
 
