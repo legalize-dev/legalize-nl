@@ -4,7 +4,7 @@ identifier: "BWBR0002473"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2010-10-10"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002473"
 soort: "AMvB"
@@ -46,17 +46,17 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. De zelfstandige binnenschipper is gehouden woonplaats te kiezen binnen het Rijk, tenzij hij:
+1. De zelfstandige binnenschipper is gehouden woonplaats te kiezen in Nederland, tenzij hij:
 
-- a. binnen het Rijk een vaste woonplaats heeft;
+- a. in Nederland een vaste woonplaats heeft;
 
-- b. niet binnen het Rijk woont en niet als binnenschipper een binnenlandse onderneming drijft.
+- b. niet in Nederland woont en niet als binnenschipper een binnenlandse onderneming drijft.
 
-2. Het lid van de bemanning van een binnenschip - daaronder begrepen de niet-zelfstandige binnenschipper - is bevoegd, en op vordering van de inspecteur gehouden, woonplaats te kiezen binnen het Rijk. Indien hij geen woonplaats heeft gekozen, wordt hij geacht woonplaats te hebben op de vaste woonplaats of de gekozen woonplaats van zijn inhoudingsplichtige. Het vorenstaande geldt niet indien:
+2. Het lid van de bemanning van een binnenschip - daaronder begrepen de niet-zelfstandige binnenschipper - is bevoegd, en op vordering van de inspecteur gehouden, woonplaats te kiezen in Nederland. Indien hij geen woonplaats heeft gekozen, wordt hij geacht woonplaats te hebben op de vaste woonplaats of de gekozen woonplaats van zijn inhoudingsplichtige. Het vorenstaande geldt niet indien:
 
-- a. hij binnen het Rijk een vaste woonplaats heeft;
+- a. hij in Nederland een vaste woonplaats heeft;
 
-- b. hij niet binnen het Rijk woont en niet als binnenschipper binnen het Rijk een dienstbetrekking vervult.
+- b. hij niet in Nederland woont en niet als binnenschipper in Nederland een dienstbetrekking vervult.
 
 3. De stukken betreffende de heffing en de invordering van belasting kunnen worden gezonden en betekend aan de gekozen woonplaats.
 
@@ -64,9 +64,9 @@ Hebben goedgevonden en verstaan:
 
 1. De keuze van de woonplaats of een wijziging van de keuze wordt schriftelijk gedaan bij de inspecteur.
 
-2. Hij die ingevolge [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002473&artikel=1&z=2009-01-01&g=2010-10-10), verplicht is woonplaats te kiezen, doet dit binnen acht weken na de aanvang van zijn werkzaamheden. Woont hij niet binnen het Rijk, dan doet hij de keuze binnen een week nadat hij het drijven van een binnenlandse onderneming heeft aangevangen.
+2. Hij die ingevolge [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002473&artikel=1&z=2011-01-01&g=2011-01-01), verplicht is woonplaats te kiezen, doet dit binnen acht weken na de aanvang van zijn werkzaamheden. Woont hij niet in Nederland, dan doet hij de keuze binnen een week nadat hij het drijven van een binnenlandse onderneming heeft aangevangen.
 
-3. Hij die ingevolge [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002473&artikel=1&z=2009-01-01&g=2010-10-10), verplicht is woonplaats te kiezen, doet dit binnen een door de inspecteur te bepalen termijn.
+3. Hij die ingevolge [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002473&artikel=1&z=2011-01-01&g=2011-01-01), verplicht is woonplaats te kiezen, doet dit binnen een door de inspecteur te bepalen termijn.
 
 ##### Artikel 3
 
@@ -74,11 +74,11 @@ Degene die verplicht is woonplaats te kiezen, is desgevraagd gehouden de in de [
 
 ##### Artikel 4
 
-Het niet voldoen aan een verplichting bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002473&artikel=1&z=2009-01-01&g=2010-10-10) tot en met [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002473&artikel=3&z=2009-01-01&g=2010-10-10) is een strafbaar feit.
+Het niet voldoen aan een verplichting bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002473&artikel=1&z=2011-01-01&g=2011-01-01) tot en met [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002473&artikel=3&z=2011-01-01&g=2011-01-01) is een strafbaar feit.
 
 ##### Artikel 5
 
-Hij die bij de inwerkingtreding van dit besluit ingevolge [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002473&artikel=1&z=2009-01-01&g=2010-10-10), gehouden wordt woonplaats te kiezen, doet dit binnen twee maanden na de inwerkingtreding van dit besluit.
+Hij die bij de inwerkingtreding van dit besluit ingevolge [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002473&artikel=1&z=2011-01-01&g=2011-01-01), gehouden wordt woonplaats te kiezen, doet dit binnen twee maanden na de inwerkingtreding van dit besluit.
 
 ##### Artikel 6
 
