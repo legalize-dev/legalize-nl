@@ -4,7 +4,7 @@ identifier: "BWBR0007578"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2010-10-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007578"
 soort: "AMvB"
@@ -58,15 +58,17 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder sportmoto
 
 Het is verboden een sportmotor te gebruiken:
 
-- a. die het krachtens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007578&artikel=4&z=2010-10-01&g=2010-10-01), vastgestelde geluiddrukniveau overschrijdt, of
+- a. die het krachtens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007578&artikel=4&z=2011-01-01&g=2011-01-01), vastgestelde geluiddrukniveau overschrijdt, of
 
 - b. anders dan in een inrichting die behoort tot categorie 19.1, onder **g**, aanhef, en 2°, van [bijlage I, onder C, bij het Besluit omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0027464&bijlage=I), en het bevoegd gezag voor die inrichting een omgevingsvergunning heeft verleend.
 
 ##### Artikel 3
 
-1. Van het in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007578&artikel=2&z=2010-10-01&g=2010-10-01), gestelde verbod kan het bevoegd gezag, bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007578&artikel=2&z=2010-10-01&g=2010-10-01), ontheffing verlenen voor het gebruik van sportmotoren tijdens een in de ontheffing aangegeven evenement dat plaatsvindt in een inrichting als bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007578&artikel=2&z=2010-10-01&g=2010-10-01).
+1. Van het in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007578&artikel=2&z=2011-01-01&g=2011-01-01), gestelde verbod kan het bevoegd gezag, bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007578&artikel=2&z=2011-01-01&g=2011-01-01), ontheffing verlenen voor het gebruik van sportmotoren tijdens een in de ontheffing aangegeven evenement dat plaatsvindt in een inrichting als bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007578&artikel=2&z=2011-01-01&g=2011-01-01).
 
-2. Van het in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007578&artikel=2&z=2010-10-01&g=2010-10-01), gestelde verbod kunnen gedeputeerde staten van de provincie waarin het evenement in hoofdzaak zal plaatsvinden ontheffing verlenen voor het gebruik van sportmotoren tijdens een in de ontheffing aangegeven evenement.
+2. Van het in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007578&artikel=2&z=2011-01-01&g=2011-01-01), gestelde verbod kunnen gedeputeerde staten van de provincie waarin het evenement in hoofdzaak zal plaatsvinden ontheffing verlenen voor het gebruik van sportmotoren tijdens een in de ontheffing aangegeven evenement.
+
+3. [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) is van toepassing op de aanvraag om een ontheffing als bedoeld in het eerste of tweede lid.
 
 ##### Artikel 4
 
@@ -78,7 +80,7 @@ Het is verboden een sportmotor te gebruiken:
 
 ##### Artikel 5
 
-Indien een sportmotor behoort tot een type dat voor het tijdstip van inwerkingtreding van dit besluit in produktie is genomen, geldt [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007578&artikel=2&z=2010-10-01&g=2010-10-01) voor die sportmotor eerst met ingang van een jaar na dat tijdstip.
+Indien een sportmotor behoort tot een type dat voor het tijdstip van inwerkingtreding van dit besluit in produktie is genomen, geldt [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007578&artikel=2&z=2011-01-01&g=2011-01-01) voor die sportmotor eerst met ingang van een jaar na dat tijdstip.
 
 ##### Artikel 6
 
