@@ -4,7 +4,7 @@ identifier: "BWBR0002036"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-10-06"
-last_updated: "1998-06-19"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002036"
 soort: "AMvB"
@@ -50,13 +50,15 @@ In dit besluit wordt verstaan onder:
 
 de wet: de [Wet buitengewoon pensioen 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032) (**Stb.** 1986, 575);
 
-de Raad: de Pensioen- en Uitkeringsraad, genoemd in [artikel 2 van de Wet op de Pensioen- en Uitkeringsraad](https://wetten.overheid.nl/jci1.3:c:BWBR0004806&artikel=2) (**Stb.** 1990, 324).
+de Raad: de Pensioen- en Uitkeringsraad, bedoeld in [artikel 3 van de Wet uitvoering wetten voor verzetsdeelnemers en oorlogsgetroffenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=3);
+
+de Sociale verzekeringsbank: de Sociale verzekeringsbank, genoemd in [artikel 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=6).
 
 ##### Artikel 2
 
-1. Het geneeskundig onderzoek, bedoeld in artikel 13 der wet, geschiedt door een geneeskundig adviseur, door de Raad aan te wijzen, of diens plaatsvervanger. Indien de Raad zulks nodig oordeelt of de belanghebbende daartoe het verzoek doet, geschiedt het geneeskundig onderzoek door één of twee artsen, daartoe door de Raad aan te wijzen uit een door hem in overleg met de Stichting 1940-1945 samengestelde lijst van artsen. Indien de verblijfplaats van de te onderzoeken persoon buiten Nederland is gelegen, kan de Raad artsen aanwijzen, die niet voorkomen op genoemde lijst.
+1. Het geneeskundig onderzoek, bedoeld in [artikel 13 der wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=13), geschiedt door een geneeskundig adviseur, door de Raad of de Sociale verzekeringsbank aan te wijzen, of diens plaatsvervanger.
 
-2. Op verzoek van de belanghebbende wijst de Raad bovendien een andere, door de belanghebbende gekozen arts aan, die het onderzoek bijwoont of de in het eerste lid bedoelde artsen schriftelijk van advies dient.
+2. Op verzoek van de belanghebbende wijst de Raad of de Sociale verzekeringsbank bovendien een andere, door de belanghebbende gekozen arts aan, die het onderzoek bijwoont of de in het eerste lid bedoelde artsen schriftelijk van advies dient.
 
 3. Bij de aanvrage om pensioen voegt de belanghebbende een omschrijving van de omstandigheden, waaronder de verwonding of verminking, of de ziekten of gebreken, naar zijn mening zijn ontstaan, alsmede van de nadelige gevolgen, welke hij daarvan ondervindt, zo mogelijk gestaafd door bewijsstukken.
 
@@ -66,7 +68,7 @@ Vervallen
 
 ##### Artikel 4
 
-1. De artsen brengen zo spoedig mogelijk een met redenen omkleed rapport uit aan de Raad op een daartoe door de Raad vastgesteld formulier, waarin ten minste worden gevraagd:
+1. De artsen brengen zo spoedig mogelijk een met redenen omkleed rapport uit aan de Raad of de Sociale verzekeringsbank, ten minste houdende:
 
 - a. een nauwkeurige omschrijving van de bij de onderzochte waargenomen verwonding, verminking, ziekten of gebreken, alsmede van de daardoor veroorzaakte stoornissen en bezwaren;
 
@@ -82,25 +84,25 @@ Vervallen
 
 ##### Artikel 5
 
-1. Het invaliditeitspercentage, bedoeld in [artikel 4, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002036&artikel=4&z=1998-06-19&g=1998-06-19), wordt bepaald in verband met het beroep, dat belanghebbende vóór het intreden van zijn invaliditeit laatstelijk heeft vervuld (beroepsinvaliditeit) en met de algemene invaliditeit, met dien verstande, dat bij verschil het hoogste percentage wordt aangehouden.
+1. Het invaliditeitspercentage, bedoeld in [artikel 4, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002036&artikel=4&z=2011-01-01&g=2011-01-01), wordt bepaald in verband met het beroep, dat belanghebbende vóór het intreden van zijn invaliditeit laatstelijk heeft vervuld (beroepsinvaliditeit) en met de algemene invaliditeit, met dien verstande, dat bij verschil het hoogste percentage wordt aangehouden.
 
 2. Na omscholing tot een nieuw beroep, wordt, indien dit voor belanghebbende voordeliger is, de invaliditeit bepaald naar het nieuwe beroep.
 
 ##### Artikel 6
 
-1. De Raad is bevoegd over het rapport van de artsen een rapport van één of meer andere deskundigen te vragen. Wijkt het gevoelen van deze deskundigen af van dat van de artsen, over wier rapport zij werden gehoord, dan wordt van het gevoelen van de deskundigen geen gebruik gemaakt dan nadat de artsen tegenover de Raad hun gevoelen nader schriftelijk hebben kunnen verdedigen.
+1. De Raad of de Sociale verzekeringsbank is bevoegd over het rapport van de artsen een rapport van één of meer andere deskundigen te vragen. Wijkt het gevoelen van deze deskundigen af van dat van de artsen, over wier rapport zij werden gehoord, dan wordt van het gevoelen van de deskundigen geen gebruik gemaakt dan nadat de artsen tegenover de Raad of de Sociale verzekeringsbank hun gevoelen nader schriftelijk hebben kunnen verdedigen.
 
-2. De Raad is mede bevoegd de belanghebbende nogmaals geneeskundig te doen onderzoeken of hem voor de tijd van ten hoogste dertien weken in een inrichting ter observatie te doen opnemen.
+2. De Raad of de Sociale verzekeringsbank is mede bevoegd de belanghebbende nogmaals geneeskundig te doen onderzoeken of hem voor de tijd van ten hoogste dertien weken in een inrichting ter observatie te doen opnemen.
 
 ##### Artikel 7
 
-1. De vergoeding voor de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002036&artikel=2&z=1998-06-19&g=1998-06-19), bedoelde arts wordt door de Raad vastgesteld.
+1. De vergoeding voor de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002036&artikel=2&z=2011-01-01&g=2011-01-01), bedoelde arts wordt door de Sociale verzekeringsbank vastgesteld.
 
-2. Alle kosten van geneeskundige onderzoekingen, inbegrepen de kosten van de door de belanghebbende gekozen arts, en van rapporten, evenals die verbonden aan een observatie, alsmede de, naar het oordeel van de Raad, noodzakelijke reiskosten van de belanghebbende en die van de voor zijn reis benodigde begeleiding naar en van de plaats, waar het geneeskundig onderzoek plaats vindt, komen ten laste van het Rijk; zij worden gedeclareerd bij de Raad.
+2. Alle kosten van geneeskundige onderzoekingen, inbegrepen de kosten van de door de belanghebbende gekozen arts, en van rapporten, evenals die verbonden aan een observatie, alsmede de, naar het oordeel van de Sociale verzekeringsbank, noodzakelijke reiskosten van de belanghebbende en die van de voor zijn reis benodigde begeleiding naar en van de plaats, waar het geneeskundig onderzoek plaats vindt, komen ten laste van het Rijk; zij worden gedeclareerd bij de Sociale verzekeringsbank.
 
-3. Ook komen ten laste van het Rijk kosten verbonden aan verpleging in een inrichting of aan genees- en/of heelkundige behandeling, indien die verpleging of behandeling is geschied op verzoek van de Raad, omdat de Raad is gebleken, dat die verpleging of behandeling kans biedt, hetzij op algeheel herstel of op duurzame vermindering der invaliditeit, hetzij op het voorkomen van invaliditeit of van stijging van bestaande invaliditeit, in het laatste geval ook wanneer de bestaande invaliditeit minder dan 10 procent bedraagt. Deze kosten worden eveneens gedeclareerd bij de Raad.
+3. Ook komen ten laste van het Rijk kosten verbonden aan verpleging in een inrichting of aan genees- en/of heelkundige behandeling, indien die verpleging of behandeling is geschied op verzoek van de Raad of de Sociale verzekeringsbank, omdat de Raad of de Sociale verzekeringsbank is gebleken, dat die verpleging of behandeling kans biedt, hetzij op algeheel herstel of op duurzame vermindering der invaliditeit, hetzij op het voorkomen van invaliditeit of van stijging van bestaande invaliditeit, in het laatste geval ook wanneer de bestaande invaliditeit minder dan 10 procent bedraagt. Deze kosten worden eveneens gedeclareerd bij de Sociale verzekeringsbank.
 
-4. Indien de belanghebbende tengevolge van een geneeskundig onderzoek, van een observatie of van een in het derde lid bedoelde maatregel inkomsten derft, wordt hem een vergoeding gegeven. Deze vergoeding wordt, gehoord de belanghebbende, door de Raad ten laste van het Rijk vastgesteld.
+4. Indien de belanghebbende tengevolge van een geneeskundig onderzoek, van een observatie of van een in het derde lid bedoelde maatregel inkomsten derft, wordt hem een vergoeding gegeven. Deze vergoeding wordt, gehoord de belanghebbende, door de Sociale verzekeringsbank ten laste van het Rijk vastgesteld.
 
 ##### Artikel 8
 
