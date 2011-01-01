@@ -4,7 +4,7 @@ identifier: "BWBR0008846"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-07-01"
-last_updated: "2004-09-23"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008846"
 soort: "AMvB"
@@ -54,11 +54,13 @@ In dit besluit wordt verstaan onder «wet»: de [Wet op de beroepen in de indivi
 
 ##### Artikel 2
 
-Om in het krachtens artikel 3 van de wet ingestelde register van artsen te kunnen worden ingeschreven, is vereist het bezit van een door een universiteit als bedoeld in [hoofdstuk 7 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7) uitgereikt getuigschrift waaruit blijkt dat de betrokkene met goed gevolg het examen heeft afgelegd ter afsluiting van een opleiding tot arts die voldoet aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008846&artikel=3&z=2004-09-23&g=2004-09-23) van dit besluit.
+Om in het krachtens artikel 3 van de wet ingestelde register van artsen te kunnen worden ingeschreven, is vereist het bezit van een door een universiteit als bedoeld in [hoofdstuk 7 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7) uitgereikt getuigschrift waaruit blijkt dat de betrokkene met goed gevolg het examen heeft afgelegd ter afsluiting van een opleiding tot arts die voldoet aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008846&artikel=3&z=2011-01-01&g=2011-01-01) van dit besluit.
 
 ##### Artikel 3
 
-De opleiding tot arts is erop gericht dat de betrokkene de kennis, het inzicht en de vaardigheden verwerft op het niveau van de algemene eindtermen, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008846&bijlage=1&z=2004-09-23&g=2004-09-23) bij dit besluit, in samenhang met de lijst van problemen, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008846&bijlage=2&z=2004-09-23&g=2004-09-23) bij dit besluit.
+1. De opleiding tot arts is er op gericht dat de betrokkene de competenties verwerft, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008846&bijlage=1&z=2011-01-01&g=2011-01-01) bij dit besluit, op de daarbij aangegeven niveaus en in samenhang met de lijst van vraagstukken rondom gezondheid en ziekte, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008846&bijlage=2&z=2011-01-01&g=2011-01-01) bij dit besluit.
+
+2. De opleiding tot arts bestaat uit ten minste 5500 uren theoretisch en praktisch onderwijs.
 
 ##### Artikel 4
 
@@ -68,11 +70,11 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Dit besluit wordt aangehaald als: Besluit opleidingseisen arts.
 
-## Bijlage 1. bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008846&artikel=3&z=2004-09-23&g=2004-09-23) van het Besluit opleidingseisen arts
+## Bijlage 1. bij het Besluit opleidingseisen arts
 
-### 1. ALGEMENE EINDTERMEN
+### Competenties
 
-### **KENNIS, VAARDIGHEDEN EN PROFESSIONEEL GEDRAG:**
+### 1. **Medisch deskundige**
 
 ### **MEDISCHE ASPECTEN**
 
@@ -102,41 +104,41 @@ Het aanvullende onderzoek:
 
 De arts is in staat:
 
-### 1.8. Beleid
+### Lijst van vraagstukken rondom gezondheid en ziekte
 
-### **1.7. Probleemanalyse II**
+### **Klachten van de patiënt**
 
 De arts is in staat:
 
 – het in overleg met de patiënt kiezen uit (en weet hebben van) de verschillende beleidsmogelijkheden, op basis van hulpvraag van de patiënt en de bevindingen van het diagnostisch proces. Bij deze keus wordt rekening gehouden met het verwachte effect vergeleken met het natuurlijk beloop, patiëntgebonden factoren (zoals leeftijd, voorkeur en wensen van de patiënt, persoonlijke en gezinsomstandigheden, therapie-trouw), mogelijke neveneffecten, complicaties, de continuïteit van de zorg, eventuele co-morbiditeit en kosten.
 
-### **Beleidsplan**
+### 3. **Pijn**
 
 De arts is in staat:
 
-### **Beleidsplan «op maat»**
+### 5. **Afscheiding**
 
 bij alle vormen van therapie:
 
-### 1.8.2.2
+### **Bevindingen bij lichamelijk onderzoek**
 
 De arts beschikt over kennis met betrekking tot:
 
-### **therapeutisch gesprek**
+### **Zorgvraagstukken**
 
 De arts is in staat:
 
-### **adviseren, voorlichten**
+### 2. **Vroege opsporing**
 
 De arts is in staat:
 
-### **farmacotherapie**
+### 4. **Gevolgen van chronisch ziek zijn**
 
 De arts is in staat:
 
 De arts beschikt over kennis met betrekking tot:
 
-### **acute hulpverlening**
+### 7. **Afwijkende zorgconsumptie**
 
 De arts is in staat:
 
@@ -224,35 +226,35 @@ Globale kennis van de financiële aspecten van de gezondheidszorg:
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-### **1.1. De mens als somatisch, psychisch en sociaal wezen**
+### 2. Communicator
 
-De arts beschikt over kennis en inzicht met betrekking tot:
+De juist afgestudeerde arts heeft de bekwaamheid:
 
-### **1.2. Probleemherkenning en -omschrijving**
+### 3. Samenwerker
 
-De arts is in staat:
+De juist afgestudeerde arts heeft de bekwaamheid:
 
-### **1.3. Anamnese**
+### 4. Organisator
 
-De arts is in staat:
+De juist afgestudeerde arts heeft de bekwaamheid
 
-### **1.4. Lichamelijk onderzoek**
+### 5. Gezondheidsbevorderaar
 
-De arts is in staat:
+De juist afgestudeerde arts heeft de bekwaamheid:
 
-### **1.5. Probleemanalyse I**
+### 6. Academicus
 
-De arts is in staat:
+De juist afgestudeerde arts heeft de bekwaamheid:
 
-### **1.6. Aanvullend onderzoek**
+### 7. Beroepsbeoefenaar
 
-De arts geeft blijk van:
+De juist afgestudeerde arts heeft de bekwaamheid:
 
 De arts beschikt over kennis met betrekking tot:
 
-### **1.8. Beleid**
+### 2. **Veranderde kleur**
 
-### **bij alle vormen van beleid/behandeling**
+### 6. **Gestoorde functie**
 
 De arts is in staat:
 
@@ -373,5 +375,25 @@ De arts beschikt over kennis en inzicht op hoofdlijnen met betrekking tot:
 ### 15. Sociaal-psychologische problemen (relevant voor het medisch handelen)
 
 ### 16. Problemen ten gevolge van medisch handelen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+De juist afgestudeerde arts heeft de bekwaamheid:
+
+## Bijlage 2. bij het Besluit opleidingseisen arts
+
+### 1. **Algemeen**
+
+### 4. **Zwellingen**
+
+### **Bevindingen bij aanvullend onderzoek**
+
+### 1. **Preventie**
+
+### 3. **Acute en intensieve zorg**
+
+### 5. **Vraagstukken in specifieke levensfasen**
+
+### 6. **Sociale context**
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
