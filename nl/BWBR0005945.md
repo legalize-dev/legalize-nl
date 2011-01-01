@@ -4,7 +4,7 @@ identifier: "BWBR0005945"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-01"
-last_updated: "1998-01-23"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005945"
 soort: "ministeriele-regeling"
@@ -65,7 +65,7 @@ Extractiemiddelen bevatten per kg niet meer dan 1 mg arseen of 1 mg lood.
 
 ##### Artikel 4
 
-1. Bij het verhandelen van de in [artikel 2, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0005945&artikel=2&z=1998-01-23&g=1998-01-23), bedoelde extractiemiddelen, worden op de verpakking, de recipiënt of het etiket duidelijk leesbaar en onuitwisbaar de volgende aanduidingen, onderscheidenlijk vermeldingen gebezigd:
+1. Bij het verhandelen van de in [artikel 2, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0005945&artikel=2&z=2011-01-01&g=2011-01-01), bedoelde extractiemiddelen, worden op de verpakking, de recipiënt of het etiket duidelijk leesbaar en onuitwisbaar de volgende aanduidingen, onderscheidenlijk vermeldingen gebezigd:
 
 - a. de desbetreffende aanduiding, bedoeld in de bijlage;
 
@@ -95,7 +95,7 @@ Deze regeling wordt aangehaald als: Warenwetregeling Extractiemiddelen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage. Extractiemiddelen die mogen worden gebruikt bij de bereiding van grondstoffen, eet- of drinkwaren, of bestanddelen daarvan, zoals bedoeld in artikel 2, eerste lid, onder c
+## Bijlage. Extractiemiddelen die mogen worden gebruikt bij de bereiding van grondstoffen, eet- of drinkwaren, of bestanddelen daarvan, zoals bedoeld in [artikel 2, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005945&artikel=2&z=2011-01-01&g=2011-01-01)
 
 | Deel I |
 | --- |
@@ -120,6 +120,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 | Dichloormethaan | Verwijdering van cafeïne of van prikkelende en bittere stoffen uit koffie en thee | 2 mg/kg koffie of 5 mg/kg thee |
 | methanol | geschikt voor alle gebruik | 10 mg/kg |
 | 2-propanol | geschikt voor alle gebruik | 10 mg/kg |
+| Dimethylether | Bereiding van ontvette dierlijke eiwitproducten | 0,009 mg/kg in het ontvette eiwitproduct |
 
 1 Onder hexaan wordt verstaan een commercieel produkt dat hoofdzakelijk bestaat uit acyclische verzadigde koolwaterstoffen met zes koolstofatomen en dat tussen 64°C en 70°C destilleert. Gecombineerd gebruik van hexaan en ethylmethylketon is verboden.
 
@@ -129,7 +130,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 | --- | --- |
 | Aanduiding | Maximale restgehalten in levensmiddelen ten gevolge van het gebruik van extractiemiddelen bij de bereiding van aroma's uit natuurlijke aromatische stoffen |
 | Diëthylether | 2 mg/kg |
-| Hexaan1 | 1 mg/kg |
+| Hexaan 1 | 1 mg/kg |
 | Methylacetaat | 1 mg/kg |
 | 1-Butanol | 1 mg/kg |
 | 2-Butanol | 1 mg/kg |
@@ -137,6 +138,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 | Dichloormethaan | 0,02 mg/kg |
 | 1-propanol | 1 mg/kg |
 | cyclohexaan | 1 mg/kg |
-| 1,1,1,2-tetrafluorethaan | 0,02 mg/kg. |
+| 1,1,1,2-tetrafluorethaan | 0,02 mg/kg |
+| Methanol | 1,5 mg/kg |
+| 2-Propanol | 1 mg/kg |
 
 1 Gecombineerd gebruik van hexaan en ethylmethylketon is verboden.
