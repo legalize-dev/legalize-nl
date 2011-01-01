@@ -4,7 +4,7 @@ identifier: "BWBR0026828"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2011-01-01"
-last_updated: "2009-12-15"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026828"
 soort: "beleidsregel"
@@ -42,7 +42,7 @@ Besluit:
 
 Dat de kamers bij de inschrijving van een **limited liability partnership** geen gebruik maken van de bevoegdheid op grond van [artikel 5, tweede lid, van het Handelsregisterbesluit 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&artikel=5), om de inschrijving te weigeren op de grond dat niet alle vennoten opgegeven zijn indien ten minste de volgende vennoten of partners wel opgegeven worden:
 
-De kamers van koophandel passen deze beleidsregel toe met ingang met ingang van de dag na de datum waarop deze beleidsregel in de Staatscourant is geplaatst.
+Deze beleidsregel berust op [artikel 21, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21).
 
 Deze beleidsregel zal met toelichting in de Staatscourant worden geplaatst.
 
