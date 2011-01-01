@@ -4,7 +4,7 @@ identifier: "BWBR0026977"
 country: "nl"
 rank: "wet"
 publication_date: "2011-01-01"
-last_updated: "2010-07-04"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026977"
 soort: "wet"
@@ -54,7 +54,7 @@ Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel IIa
 
-Wijzigt de Wet inkomstenbelasting 2001.
+Vervallen
 
 ##### Artikel III
 
@@ -66,7 +66,7 @@ Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel IVa
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+Vervallen
 
 ##### Artikel V
 
@@ -154,31 +154,33 @@ Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel XXa
 
-De [artikelen 2.7, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.7), [5.16, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.16), [5.18b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.18b) en [8.22 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.22), zoals deze bepalingen luidden op 31 december van het vierde kalenderjaar dat volgt op het kalenderjaar waarin deze bepalingen bij koninklijk besluit als bedoeld in [artikel XXI, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=XXI&z=2010-07-04&g=2010-07-04), zijn gewijzigd onderscheidenlijk in werking zijn getreden, blijven van toepassing op aandelen die uiterlijk op 31 december van dat vierde kalenderjaar zijn verworven.
+Vervallen
 
 ##### Artikel XXI
 
 1. Deze wet treedt in werking met ingang van 1 januari 2010.
 
-2. De wijzigingen ingevolge [artikel I, onderdelen E, J, K, T, Y en Z](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=I&z=2010-07-04&g=2010-07-04), [artikel IV, onderdelen A, G en H, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=IV&z=2010-07-04&g=2010-07-04), en [artikel XVI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=XVI&z=2010-07-04&g=2010-07-04), vinden voor het eerst toepassing ten aanzien van belastingaanslagen of voor bezwaar vatbare beschikkingen die zijn vastgesteld of genomen na 31 december 2009.
+2. De wijzigingen ingevolge [artikel I, onderdelen E, J, K, T, Y en Z](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=I&z=2011-01-01&g=2011-01-01), [artikel IV, onderdelen A, G en H, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=IV&z=2011-01-01&g=2011-01-01), en [artikel XVI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=XVI&z=2011-01-01&g=2011-01-01), vinden voor het eerst toepassing ten aanzien van belastingaanslagen of voor bezwaar vatbare beschikkingen die zijn vastgesteld of genomen na 31 december 2009.
 
-3. [Artikel III, onderdelen C, F, G en H](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=III&z=2010-07-04&g=2010-07-04), werkt terug tot en met 15 september 2009.
+3. [Artikel III, onderdelen C, F, G en H](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=III&z=2011-01-01&g=2011-01-01), werkt terug tot en met 15 september 2009.
 
-4. [Artikel IV, onderdeel 0A, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=IV&z=2010-07-04&g=2010-07-04), werkt terug tot en met het tijdstip waarop zonder deze wijziging van de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672)[artikel 2, zevende lid, eerste volzin, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=2) van toepassing zou zijn geworden op het in dat onderdeel genoemde lichaam en [artikel IV, onderdeel 0A, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=IV&z=2010-07-04&g=2010-07-04), werkt terug tot en met het tijdstip waarop artikel 2, eerste lid, onderdeel a, van de Wet op de vennootschapsbelasting 1969 van toepassing is geworden op het in het vervallen onderdeel n van het zevende lid van dat artikel genoemde lichaam.
+4. [Artikel IV, onderdeel 0A, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=IV&z=2011-01-01&g=2011-01-01), werkt terug tot en met het tijdstip waarop zonder deze wijziging van de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672)[artikel 2, zevende lid, eerste volzin, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=2) van toepassing zou zijn geworden op het in dat onderdeel genoemde lichaam en [artikel IV, onderdeel 0A, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=IV&z=2011-01-01&g=2011-01-01), werkt terug tot en met het tijdstip waarop artikel 2, eerste lid, onderdeel a, van de Wet op de vennootschapsbelasting 1969 van toepassing is geworden op het in het vervallen onderdeel n van het zevende lid van dat artikel genoemde lichaam.
 
-5. In afwijking van het eerste lid treedt [artikel XII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=XII&z=2010-07-04&g=2010-07-04), in werking met ingang van 1 april 2010.
+5. In afwijking van het eerste lid treedt [artikel XII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=XII&z=2011-01-01&g=2011-01-01), in werking met ingang van 1 april 2010.
 
-6. [Artikel XIIB](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=XIIb&z=2010-07-04&g=2010-07-04) werkt terug tot en met 1 januari 2008.
+6. [Artikel XIIB](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=XIIb&z=2011-01-01&g=2011-01-01) werkt terug tot en met 1 januari 2008.
 
-7. [Artikel XV, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=XV&z=2010-07-04&g=2010-07-04), werkt terug tot en met 1 augustus 2008.
+7. [Artikel XV, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=XV&z=2011-01-01&g=2011-01-01), werkt terug tot en met 1 augustus 2008.
 
-8. In afwijking van het eerste lid treden [artikel I, onderdelen Abis, Ya, Yb, EEa, EEb en EEc](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=I&z=2010-07-04&g=2010-07-04), [artikel IV, onderdeel Ga](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=IV&z=2010-07-04&g=2010-07-04), en [artikel XVII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=XVII&z=2010-07-04&g=2010-07-04), in werking op een bij koninklijk besluit te bepalen tijdstip.
+8. In afwijking van het eerste lid treedt [artikel XVII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=XVII&z=2011-01-01&g=2011-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-9. [Artikel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=XVIII&z=2010-07-04&g=2010-07-04) werkt terug tot en met 1 januari 2009.
+9. [Artikel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=XVIII&z=2011-01-01&g=2011-01-01) werkt terug tot en met 1 januari 2009.
 
-10. [Artikel XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=XIX&z=2010-07-04&g=2010-07-04) werkt terug tot en met 31 december 2009.
+10. [Artikel XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=XIX&z=2011-01-01&g=2011-01-01) werkt terug tot en met 31 december 2009.
 
-11. Met betrekking tot uitstel van betaling, voor 1 januari 2010 verleend op grond van [artikel 25, negende lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) ter zake van een vervreemding waarbij de aandelen of winstbewijzen zijn geschonken, blijft artikel 25, negende lid, van de Invorderingswet 1990, zoals die bepaling op 31 december 2009 luidde, van toepassing.
+11. Met betrekking tot gevallen waarin een overdracht van tot een aanmerkelijk belang behorende aandelen of winstbewijzen uiterlijk op 31 december 2009 krachtens schenking heeft plaatsgevonden, blijven [artikel 25, negende lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25), zoals die bepaling op 31 december 2009 luidde, en de daarop berustende bepalingen van toepassing.
+
+12. [Artikel XIII, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=XIII&z=2011-01-01&g=2011-01-01), werkt terug tot en met 1 april 2008.
 
 ##### Artikel XXII
 
