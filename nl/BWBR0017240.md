@@ -4,7 +4,7 @@ identifier: "BWBR0017240"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-07-28"
-last_updated: "2009-10-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017240"
 soort: "AMvB"
@@ -100,7 +100,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. de mogelijkheid, dat de aanvrager met de aanpassingen in staat is regelmatig arbeid in de sociale werkvoorziening of begeleid werken te verrichten;
 
-- e. de indeling in een arbeidshandicapcategorie als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=4&z=2009-10-01&g=2009-10-01);
+- e. de indeling in een arbeidshandicapcategorie als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=4&z=2011-01-01&g=2011-01-01);
 
 - f. de mogelijkheid, dat de aanvrager een advies voor begeleid werken kan worden gegeven.
 
@@ -152,7 +152,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Onverminderd het eerste lid vraagt het college van de gemeente waar de geïndiceerde woont op verzoek van of namens de geïndiceerde een herindicatie aan bij het Uitvoeringsinstituut werknemersverzekeringen op een eerder tijdstip dan bedoeld in het eerste lid. Het tweede lid is van toepassing.
 
-5. De [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=2&z=2009-10-01&g=2009-10-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=3&z=2009-10-01&g=2009-10-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=4&z=2009-10-01&g=2009-10-01) en[5, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=5&z=2009-10-01&g=2009-10-01), zijn op een aanvraag tot herindicatie van overeenkomstige toepassing.
+5. De [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=2&z=2011-01-01&g=2011-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=3&z=2011-01-01&g=2011-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=4&z=2011-01-01&g=2011-01-01) en[5, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=5&z=2011-01-01&g=2011-01-01), zijn op een aanvraag tot herindicatie van overeenkomstige toepassing.
 
 6. Het Uitvoeringsinstituut werknemersverzekeringen betrekt bij een besluit over de herindicatie de op grond van het tweede lid van het college verkregen gegevens.
 
@@ -224,7 +224,7 @@ Vervallen
 
 ##### Artikel 15. Arbeidsjaren
 
-Bij de bepaling van het aantal gerealiseerde arbeidsjaren, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=9) en [10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=10) en [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=18&z=2009-10-01&g=2009-10-01), wordt:
+Bij de bepaling van het aantal gerealiseerde arbeidsjaren, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=9) en [10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=10) en [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=18&z=2011-01-01&g=2011-01-01), wordt:
 
 - a. onder het vervullen van een dienstbetrekking niet verstaan de situatie dat de werknemer niet werkt tenzij hij loon geniet op grond van [artikel 628](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=628), [629](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) of [639 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=639);
 
@@ -242,9 +242,9 @@ Bij de bepaling van het aantal gerealiseerde arbeidsjaren, bedoeld in de [artike
 
 waarbij:
 
-A staat voor het aantal geïndiceerde inwoners van de gemeente dat een dienstbetrekking heeft of op de wachtlijst staat op 31 december van het jaar T-2 volgens de bijlage, bedoeld in [artikel 13, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=13) zoals die bijlage luidt op 1 september van het jaar T-1;
+A staat voor het aantal geïndiceerde inwoners van de gemeente dat een dienstbetrekking heeft of op de wachtlijst staat op 31 december van het jaar T-2 volgens de bijlage, bedoeld in [artikel 13, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=13), en volgens de verantwoordingsinformatie, bedoeld in [artikel 1, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=1), zoals die bijlage en verantwoordingsinformatie luiden op 15 augustus van het jaar T-1;
 
-B staat voor het aantal geïndiceerde inwoners van alle gemeenten samen dat een dienstbetrekking heeft of op de wachtlijst staat op 31 december van het jaar T-2 volgens het totaal van de bijlagen, bedoeld in [artikel 13, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=13) zoals die bijlagen luiden op 1 september van het jaar T-1;
+B staat voor het aantal geïndiceerde inwoners van alle gemeenten samen dat een dienstbetrekking heeft of op de wachtlijst staat op 31 december van het jaar T-2 volgens het totaal van de bijlagen, bedoeld in [artikel 13, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=13) en van de verantwoordingsinformatie, bedoeld in [artikel 1, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=1), zoals die bijlagen en verantwoordingsinformatie luiden op 15 augustus van het jaar T-1;
 
 C staat voor het bij wet vast te stellen minimumaantal arbeidsjaren voor alle gemeenten samen voor het jaar T;
 
@@ -256,7 +256,7 @@ D staat voor het bij ministeriële regeling vastgestelde totaal aantal arbeidsja
 
 4. Bij de berekening van de factoren A en B wordt de persoon die op 31 december 1997 een dienstbetrekking heeft op grond van de Wet Sociale Werkvoorziening als geïndiceerde aangemerkt zolang de dienstbetrekking voortduurt, tenzij bij herindicatie is vastgesteld dat hij niet tot de doelgroep behoort.
 
-5. Indien de bijlage, bedoeld in [artikel 13, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=1) niet is ontvangen voor 1 september van het jaar T-1 of niet is voorzien van een goedkeurende verklaring van de accountant wordt, bij de berekening van de factoren A en B in het eerste lid, het aantal geïndiceerde inwoners van de desbetreffende gemeente dat een dienstbetrekking heeft of op de wachtlijst staat op 31 december van het jaar T-2 op nihil gesteld.
+5. Indien de bijlage, bedoeld in [artikel 13, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=1) niet is ontvangen voor 15 augustus van het jaar T-1 wordt, bij de berekening van de factoren A en B in het eerste lid, het aantal geïndiceerde inwoners van de desbetreffende gemeente dat een dienstbetrekking heeft of op de wachtlijst staat op 31 december van het jaar T-2 op nihil gesteld.
 
 6. Het minimumaantal arbeidsjaren voor het jaar T wordt vastgesteld op honderdsten nauwkeurig waarbij vijfduizendste of meer naar boven wordt afgerond op een honderdste en bedraagt een bij ministeriële regeling bepaald percentage van het voor de desbetreffende gemeente vastgestelde minimumaantal arbeidsjaren voor het jaar T-1.
 
@@ -274,9 +274,9 @@ D staat voor het bij ministeriële regeling vastgestelde totaal aantal arbeidsja
 
 waarbij:
 
-E staat voor het op grond van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2009-10-01&g=2009-10-01) berekende minimumaantal arbeidsjaren voor de gemeente voor het jaar T;
+E staat voor het op grond van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2011-01-01&g=2011-01-01) berekende minimumaantal arbeidsjaren voor de gemeente voor het jaar T;
 
-F staat voor het na toepassing van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2009-10-01&g=2009-10-01) vastgestelde minimumaantal arbeidsjaren voor alle gemeenten samen voor het jaar T;
+F staat voor het na toepassing van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2011-01-01&g=2011-01-01) vastgestelde minimumaantal arbeidsjaren voor alle gemeenten samen voor het jaar T;
 
 G staat voor het voor het jaar T bij wet vast te stellen totale bedrag dat beschikbaar is voor de uitkeringen, bedoeld in [artikel 8, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=8);
 
@@ -352,9 +352,9 @@ Vervallen
 
 ##### Artikel 28. Overgangsrecht voorrangsgarantie
 
-1. In afwijking van [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=9&z=2009-10-01&g=2009-10-01), wordt een persoon die op 31 december 1997 werkzaam was met toepassing van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=11) en [12 van de Regeling samenloop arbeidsongeschikheidsuitkering met inkomsten uit arbeid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=12) en de Regeling vergoeding persoonlijke ondersteuning gehandicapte werknemers, zoals deze regelingen luidde tot die datum en die na die datum deze arbeidsovereenkomst in het kader van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) heeft voortgezet, op zijn verzoek, door het college op de wachtlijst geplaatst op de volgorde van de datum waarop hij tot genoemde regelingen was toegelaten en krijgt hij bij voorrang begeleid werken aangeboden, indien hij onvrijwillig werkloos wordt.
+1. In afwijking van [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=9&z=2011-01-01&g=2011-01-01), wordt een persoon die op 31 december 1997 werkzaam was met toepassing van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=11) en [12 van de Regeling samenloop arbeidsongeschikheidsuitkering met inkomsten uit arbeid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=12) en de Regeling vergoeding persoonlijke ondersteuning gehandicapte werknemers, zoals deze regelingen luidde tot die datum en die na die datum deze arbeidsovereenkomst in het kader van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) heeft voortgezet, op zijn verzoek, door het college op de wachtlijst geplaatst op de volgorde van de datum waarop hij tot genoemde regelingen was toegelaten en krijgt hij bij voorrang begeleid werken aangeboden, indien hij onvrijwillig werkloos wordt.
 
-2. In afwijking van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=9&z=2009-10-01&g=2009-10-01), wordt een persoon die op 31 december 1997 een dienstbetrekking heeft krachtens de Wet Sociale Werkvoorziening (Stb. 1967, 687) zoals die luidde tot die datum en die na die datum deze dienstbetrekking heeft voortgezet, op zijn verzoek, door het college wederom op de wachtlijst geplaatst op de volgorde van de datum waarop hij tot de personenkring van de Wet Sociale Werkvoorziening (Stb. 1967, 687) was toegelaten en krijgt hij bij voorrang een dienstbetrekking aangeboden, indien hij in aansluiting op zijn dienstbetrekking arbeid gaat verrichten buiten het kader van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) en vervolgens binnen drie jaar onvrijwillig werkloos wordt. Daarbij wordt zijn nieuwe dienstbetrekking aangemerkt als een voortzetting van zijn eerdere dienstbetrekking in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903).
+2. In afwijking van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=9&z=2011-01-01&g=2011-01-01), wordt een persoon die op 31 december 1997 een dienstbetrekking heeft krachtens de Wet Sociale Werkvoorziening (Stb. 1967, 687) zoals die luidde tot die datum en die na die datum deze dienstbetrekking heeft voortgezet, op zijn verzoek, door het college wederom op de wachtlijst geplaatst op de volgorde van de datum waarop hij tot de personenkring van de Wet Sociale Werkvoorziening (Stb. 1967, 687) was toegelaten en krijgt hij bij voorrang een dienstbetrekking aangeboden, indien hij in aansluiting op zijn dienstbetrekking arbeid gaat verrichten buiten het kader van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) en vervolgens binnen drie jaar onvrijwillig werkloos wordt. Daarbij wordt zijn nieuwe dienstbetrekking aangemerkt als een voortzetting van zijn eerdere dienstbetrekking in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903).
 
 ##### Artikel 29. Overgangsrecht financiële indeling oude populatie
 
@@ -382,7 +382,7 @@ Dit besluit wordt aangehaald als: Besluit uitvoering sociale werkvoorziening en 
 
 ### TOELICHTING
 
-### Beslisschema behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=3&z=2009-10-01&g=2009-10-01) van het Besluit uitvoering sociale werkvoorziening en begeleid werken
+### Beslisschema behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=3&z=2011-01-01&g=2011-01-01) van het Besluit uitvoering sociale werkvoorziening en begeleid werken
 
 Het werken met beslisschema’s in het kader van de indicatiestelling [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) is een goed functionerende methode sinds de invoering van de [Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903). CWI neemt deze methode van de gemeenten over. Van de gelegenheid is gebruik gemaakt de voorheen bestaande beslistabellen «behoren tot de doelgroep», «indeling in arbeidshandicapcategorie» en «geïndiceerd voor begeleid werken» te incorporeren. De belistabel «geïndiceerd voor scholing» is vervallen nu dat geen onderdeel meer uitmaakt van het advies dat CWI bij de indicatiestelling afgeeft.
 
@@ -474,7 +474,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 30a. Overgangsartikel voor het jaar 2008
 
-1. Voor de toepassing van [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2009-10-01&g=2009-10-01), voor het jaar 2008 staat bij de berekening van de factoren A en B:
+1. Voor de toepassing van [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2011-01-01&g=2011-01-01), voor het jaar 2008 staat bij de berekening van de factoren A en B:
 
 A voor het aantal geïndiceerde inwoners van de gemeente dat een dienstbetrekking dan wel een arbeidsovereenkomst heeft of op de wachtlijst staat op 31 december 2006 volgens de op verzoek van Onze Minister verstrekte inlichtingen dienaangaande zoals deze luiden op 10 december 2007;
 
@@ -482,29 +482,29 @@ B voor het aantal geïndiceerde inwoners van alle gemeenten samen dat een dienst
 
 2. Indien de inlichtingen, bedoeld in het eerste lid, niet uiterlijk op 10 december 2007 in het bezit zijn gesteld van Onze Minister of niet zijn voorzien van een goedkeurende verklaring van de accountant, wordt bij de toepassing van het eerste lid voor de desbetreffende gemeente voor «31 december 2006» gelezen: 31 december 2005.
 
-3. Voor de toepassing van [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2009-10-01&g=2009-10-01), voor het jaar 2008 wordt voor «een bij ministeriële regeling bepaald percentage van het voor de desbetreffende gemeente vastgestelde minimumaantal arbeidsjaren voor het jaar T-1» gelezen: 97,5 procent van het aantal voor de inwoners van de desbetreffende gemeente op 30 juni 2007 gerealiseerde dienstbetrekkingen en arbeidsovereenkomsten als bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2) en [3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3), zoals die luidde op die datum, uitgedrukt in standaardeenheden, volgens de op verzoek van Onze Minister verstrekte inlichtingen dienaangaande, zoals deze luiden op 10 december 2007.
+3. Voor de toepassing van [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2011-01-01&g=2011-01-01), voor het jaar 2008 wordt voor «een bij ministeriële regeling bepaald percentage van het voor de desbetreffende gemeente vastgestelde minimumaantal arbeidsjaren voor het jaar T-1» gelezen: 97,5 procent van het aantal voor de inwoners van de desbetreffende gemeente op 30 juni 2007 gerealiseerde dienstbetrekkingen en arbeidsovereenkomsten als bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2) en [3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3), zoals die luidde op die datum, uitgedrukt in standaardeenheden, volgens de op verzoek van Onze Minister verstrekte inlichtingen dienaangaande, zoals deze luiden op 10 december 2007.
 
-4. Indien de inlichtingen, bedoeld in het derde lid, niet uiterlijk op 10 december 2007 in het bezit zijn gesteld van Onze Minister of niet zijn voorzien van een goedkeurende verklaring van de accountant, zijn het derde lid en [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2009-10-01&g=2009-10-01), voor de desbetreffende gemeente niet van toepassing.
+4. Indien de inlichtingen, bedoeld in het derde lid, niet uiterlijk op 10 december 2007 in het bezit zijn gesteld van Onze Minister of niet zijn voorzien van een goedkeurende verklaring van de accountant, zijn het derde lid en [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2011-01-01&g=2011-01-01), voor de desbetreffende gemeente niet van toepassing.
 
-5. Indien het op grond van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2009-10-01&g=2009-10-01) in samenhang met de eerste vier leden van dit artikel vastgestelde minimumaantal arbeidsjaren voor een gemeente voor het jaar 2008 minder bedraagt dan hetgeen het geval zou zijn indien factor D, bedoeld in [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2009-10-01&g=2009-10-01), nihil zou bedragen en het derde lid en [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2009-10-01&g=2009-10-01), niet van toepassing zouden zijn, wordt het minimumaantal arbeidsjaren van de desbetreffende gemeente opgehoogd met:
+5. Indien het op grond van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2011-01-01&g=2011-01-01) in samenhang met de eerste vier leden van dit artikel vastgestelde minimumaantal arbeidsjaren voor een gemeente voor het jaar 2008 minder bedraagt dan hetgeen het geval zou zijn indien factor D, bedoeld in [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2011-01-01&g=2011-01-01), nihil zou bedragen en het derde lid en [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2011-01-01&g=2011-01-01), niet van toepassing zouden zijn, wordt het minimumaantal arbeidsjaren van de desbetreffende gemeente opgehoogd met:
 
 (K-L) / M x 986,71
 
 waarbij:
 
-K staat voor het voor de desbetreffende gemeente voor het jaar 2008 vast te stellen aantal arbeidsjaren indien factor D, bedoeld in het eerste lid, nihil zou bedragen en het derde lid en [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2009-10-01&g=2009-10-01), niet van toepassing zouden zijn;
+K staat voor het voor de desbetreffende gemeente voor het jaar 2008 vast te stellen aantal arbeidsjaren indien factor D, bedoeld in het eerste lid, nihil zou bedragen en het derde lid en [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2011-01-01&g=2011-01-01), niet van toepassing zouden zijn;
 
-L staat voor het op grond van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2009-10-01&g=2009-10-01) in samenhang met de eerste vier leden van dit artikel vastgestelde minimumaantal arbeidsjaren voor de desbetreffende gemeente voor het jaar 2008;
+L staat voor het op grond van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2011-01-01&g=2011-01-01) in samenhang met de eerste vier leden van dit artikel vastgestelde minimumaantal arbeidsjaren voor de desbetreffende gemeente voor het jaar 2008;
 
 M staat voor (K-L) voor alle desbetreffende gemeenten samen.
 
-6. Indien het vijfde lid van toepassing is wordt de uitkering aan het college, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=17&z=2009-10-01&g=2009-10-01), verhoogd met:
+6. Indien het vijfde lid van toepassing is wordt de uitkering aan het college, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=17&z=2011-01-01&g=2011-01-01), verhoogd met:
 
 (K-L) / M x € 25 miljoen.
 
 ##### Artikel 30b. Overgangsartikel voor het jaar 2009
 
-Voor de toepassing van [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2009-10-01&g=2009-10-01), voor het jaar 2009 staat bij de berekening van de factoren A en B:
+Voor de toepassing van [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2011-01-01&g=2011-01-01), voor het jaar 2009 staat bij de berekening van de factoren A en B:
 
 A voor het aantal geïndiceerde inwoners van de gemeente dat een dienstbetrekking dan wel een arbeidsovereenkomst heeft of op de wachtlijst staat en beschikbaar is om een dienstbetrekking als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=2), of [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=7) te aanvaarden op 31 december 2007 volgens de bijlage, bedoeld in [artikel 13, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=13) zoals die bijlage luidt op 1 september 2008;
 
