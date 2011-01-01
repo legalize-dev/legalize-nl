@@ -133,11 +133,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XII
 
 Dit onderdeel is nog niet inwerking getreden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo wij in overweging genomen hebben, dat het voor het jaar 2013 wenselijk is fiscale maatregelen te treffen in het kader van vereenvoudiging, constructie- en fraudebestrijding, de woningmarkt, inkomensbeleid en het verbeteren van de overheidsfinanciën;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
