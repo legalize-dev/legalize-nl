@@ -4,7 +4,7 @@ identifier: "BWBR0025921"
 country: "nl"
 rank: "wet"
 publication_date: "2017-09-01"
-last_updated: "2010-11-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025921"
 soort: "wet"
@@ -76,7 +76,7 @@ Heeft de verweerder geen bekende woonplaats of bekend werkelijk verblijf in Nede
 
 1. Op de voortzetting van een procedure na indiening van een verweerschrift, als bedoeld in artikel 17 van de verordening, is [artikel 69 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=69) van overeenkomstige toepassing. De procedure is aanhangig vanaf de dag van indiening van het verzoek tot uitvaardiging van een Europees betalingsbevel.
 
-2. Ongeacht of de verweerder in de voortgezette procedure verschijnt, geldt een vonnis in de voortgezette procedure als een vonnis op tegenspraak en moet hoger beroep tegen een eindbeschikking in de voortgezette procedure door de eiser en de verweerder worden ingesteld binnen drie maanden, te rekenen vanaf de dag van de uitspraak. In zijn bevel inzake de voortzetting wijst de rechter de verweerder op de in de vorige zin bedoelde rechtsgevolgen. De verweerder die niet in de voortgezette procedure verschijnt, krijgt de uitspraak toegezonden per gewone post.
+2. Ongeacht of de verweerder in de voortgezette procedure verschijnt en of hij het griffierecht tijdig heeft voldaan, geldt een vonnis in de voortgezette procedure als een vonnis op tegenspraak en moet hoger beroep tegen een eindbeschikking in de voortgezette procedure door de eiser en de verweerder worden ingesteld binnen drie maanden, te rekenen vanaf de dag van de uitspraak. In zijn bevel inzake de voortzetting neemt de rechter de mededeling, bedoeld in [artikel 111, tweede lid, onderdeel k, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=111) op en wijst hij de verweerder op de in de vorige zin bedoelde rechtsgevolgen. De verweerder die niet in de voortgezette procedure verschijnt, krijgt de uitspraak toegezonden per gewone post.
 
 ##### Artikel 7
 
