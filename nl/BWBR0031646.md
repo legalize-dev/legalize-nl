@@ -4,7 +4,7 @@ identifier: "BWBR0031646"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-06-15"
-last_updated: "2010-01-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031646"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Wijzigt de Regeling tegemoetkoming chronisch zieken en gehandicapten.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de De Regeling zorgverzekering.
 
 ##### Artikel III
 
