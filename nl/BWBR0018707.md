@@ -4,7 +4,7 @@ identifier: "BWBR0018707"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-02-13"
-last_updated: "2010-01-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018707"
 soort: "AMvB"
@@ -56,9 +56,9 @@ Hebben goedgevonden en verstaan:
 
 - b. Hulp- en informatiepunt: een rechtspersoon die belanghebbenden hulp biedt bij het aanvragen van een tegemoetkoming en belanghebbenden informeert over een tegemoetkoming en waarmee de Belastingdienst/Toeslagen een overeenkomst als bedoeld in [artikel 14, tweede lid, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=14) heeft gesloten;
 
-- c. verordening (EEG) nr. 1408/71: verordening (EEG) nr. 1408/71 van de Raad van de Europese Gemeenschappen van 14 juni 1971 betreffende de toepassing van de sociale zekerheidsregelingen op werknemers en zelfstandigen, alsmede op hun gezinsleden, die zich binnen de Gemeenschap verplaatsen (PbEG L 149);
+- c. Verordening (EG) nr. 883/2004: verordening (EG) nr. 883/2004 van het Europees Parlement en de Raad van 29 april 2004 betreffende de coördinatie van de socialezekerheidsstelsels (PbEU L 166);
 
-- d. verordening (EEG) nr. 574/72: verordening (EEG) nr. 574/72 van de Raad van de Europese Gemeenschappen van 21 maart 1972 tot vaststelling van de wijze van toepassing van verordening (EEG) nr. 1408/71 betreffende de toepassing van de sociale zekerheidsregelingen op werknemers en zelfstandigen, alsmede op hun gezinsleden, die zich binnen de Gemeenschap verplaatsen (PbEG L 74).
+- d. Verordening (EG) nr. 987/2009: verordening (EG) nr. 987/2009 van het Europees Parlement en de Raad van 16 september 2009 tot vaststelling van de wijze van toepassing van verordening (EG) nr. 883/2004 betreffende de coördinatie van de socialezekerheidsstelsels (PbEU L 284).
 
 ##### Artikel 2. Gegevensverstrekking aan Hulp- en informatiepunten
 
@@ -108,6 +108,6 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. Bij regeling van Onze Minister in overeenstemming met Onze Minister voor Jeugd en Gezin worden regels gesteld met betrekking tot de samenloop van tegemoetkomingen op grond van de [Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751) met naar aard en strekking daarmee overeenkomende tegemoetkomingen op grond van een regeling van een volkenrechtelijke organisatie als bedoeld in de [artikelen 3, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=3), of [14, tweede lid, van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=14).
 
-3. Bij regeling van Onze Minister in overeenstemming met Onze Minister voor Jeugd en Gezin en de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, worden regels gesteld met betrekking tot de berekeningswijze van tegemoetkomingen op grond van een inkomensafhankelijke regeling in situaties waarin een of meer Nederlandse gezinsbijslagen als bedoeld in artikel 1, onder u), i), van verordening (EEG) nr. 1408/71 met toepassing van die verordening en verordening (EEG) nr. 574/72 worden uitbetaald in de vorm van een aanvulling op een of meer in dat artikel bedoelde gezinsbijslagen van een andere lidstaat.
+3. Bij regeling van Onze Minister in overeenstemming met Onze Minister voor Jeugd en Gezin en de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, worden regels gesteld met betrekking tot de berekeningswijze van tegemoetkomingen op grond van een inkomensafhankelijke regeling in situaties waarin een of meer Nederlandse gezinsbijslagen als bedoeld in artikel 1, onder z) van verordening (EG) nr. 883/2004 met toepassing van artikel 68 van die verordening en verordening (EG) nr. 987/2009 worden uitbetaald in de vorm van een aanvulling op een of meer gezinsbijslagen van een andere lidstaat.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
