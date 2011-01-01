@@ -4,7 +4,7 @@ identifier: "BWBR0003109"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2007-11-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003109"
 soort: "wet"
@@ -46,15 +46,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder:
+In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-"Onze Minister": Onze Minister van Financiën;
+- **aangesloten instelling:** rechtspersoon die als zodanig door het centraal instituut is toegelaten;
 
-"het centraal instituut": een als zodanig door Onze Minister aangewezen rechtspersoon;
+- **centraal instituut:** als zodanig door Onze Minister aangewezen rechtspersoon;
 
-"een aangesloten instelling": degene die als zodanig door het centraal instituut is toegelaten;
+- **effect:** financieel instrument als bedoeld in onderdeel a, b of c van de definitie van financieel instrument in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) en een ander financieel instrument waarvan het centraal instituut heeft bepaald dat het tot een girodepot kan behoren;
 
-"effecten": de effecten ten aanzien waarvan het centraal instituut heeft bepaald dat zij tot een verzameldepot en een girodepot in de zin van de wet kunnen behoren.
+- **intermediair:** aangesloten instelling, beleggingsonderneming of bank in de zin van [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) waaraan het op grond van die wet is toegestaan beleggingsdiensten te verlenen respectievelijk het bedrijf van bank uit te oefenen en die in Nederland ten name van cliënten rekeningen in effecten administreert;
+
+- **Onze Minister:** Onze Minister van Financiën;
+
+- **verzamelbewijs:** document waarin effecten aan toonder van één soort zijn belichaamd die tot een verzameldepot of een girodepot behoren.
 
 ##### Artikel 2
 
@@ -66,11 +70,13 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 4. Onze Minister kan nadere regels vaststellen betreffende dit toezicht. Deze regels worden bekend gemaakt in de Nederlandse Staatscourant.
 
-5. Wijziging van de statuten van het centraal instituut behoeft de voorafgaande schriftelijke goedkeuring van Onze Minister.
+5. De toezichthouder brengt de kosten van de werkzaamheden die hij verricht in verband met de uitvoering van zijn taak op grond van deze wet in rekening bij het centraal instituut. De kosten worden gebaseerd op de begroting. [Artikel 1:30 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:30) is van overeenkomstige toepassing.
+
+6. Wijziging van de statuten van het centraal instituut behoeft de voorafgaande instemming van Onze Minister.
 
 ##### Artikel 3
 
-1. Onze Minister kan op voordracht van de toezichthouder besluiten van organen van het centraal instituut vernietigen wegens strijd met de statuten, met de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=1&artikel=4&z=2007-11-01&g=2007-11-01) bedoelde regels of met de eisen van een behoorlijk giraal effectenverkeer.
+1. Onze Minister kan op voordracht van de toezichthouder besluiten van organen van het centraal instituut vernietigen wegens strijd met de statuten, met de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=1&artikel=4&z=2011-01-01&g=2011-01-01) bedoelde regels of met de eisen van een behoorlijk giraal effectenverkeer.
 
 2. Een voordracht tot vernietiging moet worden gedaan binnen tien dagen na die waarop de toezichthouder van het besluit heeft kennis gekregen. Hangende de beslissing op de voordracht is het besluit geschorst.
 
@@ -80,11 +86,11 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 ##### Artikel 4
 
-Het centraal instituut stelt regels vast betreffende de toelating als aangesloten instelling en betreffende de intrekking van zodanige toelating. Deze regels behoeven de goedkeuring van Onze Minister en worden bekend gemaakt in de Nederlandse Staatscourant.
+Het centraal instituut stelt regels vast betreffende de toelating als aangesloten instelling en betreffende de intrekking van zodanige toelating. Deze regels behoeven de instemming van Onze Minister waarna het centraal instituut van deze regels mededeling doet in de Staatscourant.
 
 ##### Artikel 5
 
-Degene wiens verzoek tot toelating als aangesloten instelling is afgewezen of degene wiens toelating als aangesloten instelling is ingetrokken, kan daartegen in beroep komen bij Onze Minister.
+Vervallen
 
 ##### Artikel 6
 
@@ -92,17 +98,23 @@ Vervallen
 
 ##### Artikel 7
 
-1. De werking van het besluit tot intrekking van de toelating als aangesloten instelling wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.
-
-2. Nadat de intrekking onherroepelijk is geworden, behoudt de aangesloten instelling haar hoedanigheid, voor zover dit nodig is voor de afwikkeling van de verzameldepots die op het tijdstip waarop de beslissing onherroepelijk is geworden, reeds bestonden.
+Indien een vergunning van een beleggingsonderneming als bedoeld in de definitie van intermediair is ingetrokken geldt deze wet alsof de beleggingsonderneming nog intermediair in de zin van deze wet is voor zover dit nodig is voor de afwikkeling van de verzameldepots die op het tijdstip van de intrekking reeds bestonden.
 
 ##### Artikel 8
 
-Het centraal instituut bepaalt welke effecten voor de toepassing van deze wet als effecten van eenzelfde soort zullen worden beschouwd.
+1. Effecten aan toonder behoren per soort slechts tot een verzameldepot of een girodepot indien zij:
+
+- a. door middel van een verzamelbewijs in bewaring worden gegeven bij een intermediair onderscheidenlijk het centraal instituut; of
+
+- b. ten name van een intermediair worden bewaard door een instelling in het buitenland waaraan het op grond van het op die instelling van toepassing zijnde recht is toegestaan ten name van cliënten rekeningen in effecten te administreren onderscheidenlijk ten name van het centraal instituut worden bewaard door een zodanige instelling in het buitenland.
+
+2. In afwijking van het eerste lid behoren effecten aan toonder die anders dan door middel van een verzamelbewijs in bewaring worden gegeven bij een intermediair eveneens tot een verzameldepot uiterlijk tot 1 januari 2013.
+
+3. In afwijking van de voorgaande leden zullen indien een buitenlands recht van toepassing is op effecten die behoren tot een verzameldepot niet voorziet in de mogelijkheid van omzetting, de effecten blijven behoren tot het desbetreffende verzameldepot.
 
 ##### Artikel 8a
 
-Tot een verzameldepot en een girodepot kunnen niet behoren effecten op naam waarvan de overdraagbaarheid bij de statuten respectievelijk de voorwaarden van uitgifte is beperkt of uitgesloten, tenzij deze zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
+Tot een verzameldepot en een girodepot kunnen niet behoren effecten op naam voor de levering waarvan een notariële akte is voorgeschreven en waarvan tevens de overdraagbaarheid bij de statuten respectievelijk de voorwaarden van uitgifte is beperkt of uitgesloten, tenzij deze zijn toegelaten tot de handel op een gereglementeerde markt of een multilaterale handelsfaciliteit als bedoeld in artikel 1:1 van de Wet op het financieel toezicht als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
 
 ### Hoofdstuk 2. Verzameldepot
 
@@ -110,7 +122,7 @@ Tot een verzameldepot en een girodepot kunnen niet behoren effecten op naam waar
 
 ##### Artikel 9
 
-1. Alleen een aangesloten instelling kan een verzameldepot in de zin van deze wet houden.
+1. Alleen een intermediair kan een verzameldepot in de zin van deze wet houden.
 
 2. Ten aanzien van iedere soort effecten bestaat een afzonderlijk verzameldepot.
 
@@ -118,173 +130,165 @@ Tot een verzameldepot en een girodepot kunnen niet behoren effecten op naam waar
 
 Tot een verzameldepot behoren:
 
-- a. alle effecten van de betreffende soort die onder de instelling berusten, voor de instelling worden bewaard of aan de instelling zijn geleverd, met uitzondering van effecten aan toonder ten aanzien waarvan de instelling tot afzonderlijke bewaring verplicht is;
+- a. alle effecten van de betreffende soort die onder de intermediair berusten, voor de intermediair worden bewaard of aan de intermediair zijn geleverd, met uitzondering van effecten aan toonder ten aanzien waarvan de intermediair tot afzonderlijke bewaring verplicht is;
 
-- b. het ten name van de instelling staande aandeel in het verzameldepot van effecten van de betreffende soort bij een andere instelling;
+- b. het ten name van de intermediair staande aandeel in het verzameldepot van effecten van de betreffende soort bij een andere intermediair;
 
-- c. het ten name van de instelling staande aandeel in het in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3&z=2007-11-01&g=2007-11-01) bedoelde girodepot van effecten van de betreffende soort;
+- c. het ten name van de aangesloten instelling staande aandeel in het in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3&z=2011-01-01&g=2011-01-01) bedoelde girodepot van effecten van de betreffende soort;
 
-- d. in het geval dat effecten als bedoeld onder **a** verloren zijn gegaan, de rechten daaruit of de daarvoor in de plaats getreden vorderingen tot vergoeding, alsmede hetgeen uit hoofde daarvan is ontvangen;
+- d. het ten name van de intermediair staande tegoed terzake van effecten van de betreffende soort, die berusten onder of bewaard worden voor instellingen in het buitenland;
 
-- e. alle overige goederen die geacht moeten worden in de plaats te zijn getreden van onder **a** bedoelde effecten of van een onder **b** en **c** bedoeld aandeel.
+- e. in het geval dat effecten als bedoeld onder a verloren zijn gegaan, de rechten daaruit of de daarvoor in de plaats getreden vorderingen tot vergoeding, alsmede hetgeen uit hoofde daarvan is ontvangen;
+
+- f. alle overige goederen die geacht moeten worden in de plaats te zijn getreden van onder a bedoelde effecten, van een onder b of c bedoeld aandeel of van een onder d bedoeld tegoed.
 
 ##### Artikel 11
 
-1. De instelling is belast met het beheer van het verzameldepot.
+1. De intermediair is belast met het beheer van het verzameldepot.
 
-2. Zij kan tegenover derden de rechten van degenen aan wie het verzameldepot toebehoort, uitoefenen, indien dit voor een goed beheer dienstig kan zijn.
+2. Hij kan tegenover derden de rechten van degenen aan wie het verzameldepot toebehoort, uitoefenen, indien dit voor een goed beheer dienstig kan zijn.
 
-3. Het tweede lid is niet van toepassing op het recht tot bijeenroeping van een vergadering van aandeelhouders of houders van andere effecten, tot het bijwonen van en het woordvoeren in een zodanige vergadering, tot het uitoefenen van stemrecht en tot het doen instellen van een onderzoek naar het beleid en de gang van zaken van een rechtspersoon, als bedoeld in [artikel 345 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=345).
+3. Het tweede lid is niet van toepassing op het recht tot bijeenroeping van een vergadering van aandeelhouders of houders van andere effecten, tot het bijwonen van en het woordvoeren in een zodanige vergadering, tot het uitoefenen van stemrecht en tot het doen instellen van een onderzoek naar het beleid en de gang van zaken van een rechtspersoon als bedoeld in [artikel 345 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=345).
+
+4. De intermediair is bevoegd tot een door hem gehouden verzameldepot behorende toonderstukken, te vervangen door een door de instelling die de effecten heeft uitgegeven terzake van die effecten af te geven verzamelbewijs. Op het verzamelbewijs wordt, indien van toepassing, vermeld dat de intermediair door een aantekening op het verzamelbewijs te plaatsen dit mede betrekking kan doen hebben op andere effecten van dezelfde soort, en kan bewerkstelligen dat het verzamelbewijs niet langer betrekking heeft op een of meer effecten waarop het voorafgaand aan de plaatsing van de aantekening betrekking had.
+
+5. De intermediair is bevoegd effecten aan toonder als bedoeld in het vierde lid op naam te doen stellen.
+
+6. De intermediair oefent de in het vierde en vijfde lid genoemde bevoegdheden uitsluitend uit met instemming van de instelling die de effecten heeft uitgegeven.
 
 ##### Artikel 12
 
-1. Bewaargeving van effecten aan toonder bij een aangesloten instelling of levering van effecten op naam aan een aangesloten instelling ter opname in het verzameldepot heeft tot gevolg dat degene aan wie de effecten toebehoorden op het tijdstip waarop zij door de instelling ter bewaring in ontvangst zijn genomen dan wel aan de instelling zijn geleverd, alsdan in het verzameldepot gerechtigd wordt als deelgenoot gezamenlijk met hen die daarin op dat tijdstip reeds gerechtigd waren. Voor zover de effecten bezwaard waren met een beperkt recht, komt dit op zijn aandeel te rusten.
+1. Bewaargeving van effecten aan toonder aan een intermediair of levering van effecten op naam aan een intermediair ter opname in het verzameldepot heeft tot gevolg dat degene aan wie de effecten toebehoorden op het tijdstip waarop zij door de intermediair ter bewaring in ontvangst zijn genomen dan wel aan de intermediair zijn geleverd, alsdan in het verzameldepot gerechtigd wordt als deelgenoot gezamenlijk met hen die daarin op dat tijdstip reeds gerechtigd waren. Voor zover de effecten bezwaard waren met een beperkt recht, komt dit op zijn aandeel te rusten.
 
-2. Het aandeel wordt berekend naar evenredigheid van de hoeveelheid van de in bewaring gegeven of geleverde effecten.
+2. Levering van effecten door de instelling die de effecten heeft uitgegeven aan eenintermediairter opname van die effecten in een verzameldepot, heeft tot gevolg dat degene ten gunste van wie de effecten worden uitgegeven in het verzameldepot gerechtigd wordt als deelgenoot,gezamenlijk met hen die daarin op dat tijdstip reeds gerechtigd waren.
 
-3. Tenzij de instelling die de effecten heeft uitgegeven uitlevering van de effecten onmogelijk heeft gemaakt, levert de aangesloten instelling aan degene die de effecten in bewaring heeft gegeven of heeft geleverd op diens verzoek uit het verzameldepot effecten van dezelfde soort uit tot een hoeveelheid die overeenkomt met hetgeen door deze in bewaring is gegeven onderscheidenlijk is geleverd.
+3. Het aandeel wordt berekend naar evenredigheid van de hoeveelheid van de in bewaring gegeven of geleverde effecten.
 
-4. De vorige leden zijn ten aanzien van effecten aan toonder niet van toepassing indien de instelling zich tot afzonderlijke bewaring heeft verplicht.
+4. De vorige leden zijn ten aanzien van effecten aan toonder niet van toepassing indien de intermediair zich tot afzonderlijke bewaring heeft verplicht.
 
 ##### Artikel 13
 
-Indien effecten aan toonder uit anderen hoofde dan bewaargeving aan een aangesloten instelling worden toevertrouwd, zijn de bepalingen betreffende de in het eerste lid van het vorige artikel bedoelde bewaargeving van overeenkomstige toepassing, tenzij de rechtsverhouding meebrengt dat de aangesloten instelling tot afzonderlijke bewaring verplicht is.
+Indien effecten aan toonder uit anderen hoofde dan bewaargeving aan een intermediair worden toevertrouwd, zijn de bepalingen betreffende de in het eerste lid van het vorige artikel bedoelde bewaargeving van overeenkomstige toepassing, tenzij de rechtsverhouding meebrengt dat de intermediair tot afzonderlijke bewaring verplicht is.
 
 ##### Artikel 14
 
-1. Verkrijging van effecten door een aangesloten instelling uit hoofde van een levering door een beschikkingsonbevoegde heeft tot gevolg dat degene aan wie de effecten toebehoorden op het tijdstip waarop zij aan de instelling zijn geleverd, alsdan in het verzameldepot gerechtigd wordt als deelgenoot gezamenlijk met hen die daarop op dat tijdstip reeds gerechtigd waren. Voor zover de effecten bezwaard waren met een beperkt recht, komt dit op zijn aandeel te rusten.
+1. Verkrijging van effecten door een intermediair uit hoofde van een levering door een beschikkingsonbevoegde heeft tot gevolg dat degene aan wie de effecten toebehoorden op het tijdstip waarop zij aan de intermediair zijn geleverd, alsdan in het verzameldepot gerechtigd wordt als deelgenoot gezamenlijk met hen die daarop op dat tijdstip reeds gerechtigd waren. Voor zover de effecten bezwaard waren met een beperkt recht, komt dit op zijn aandeel te rusten.
 
-2. Indien de effecten aan toonder luiden en de instelling de effecten te goeder trouw verkregen heeft, is het eerste lid niet van toepassing en is de overdracht van de effecten aan de instelling geldig.
+2. Indien de effecten aan toonder luiden en de intermediair de effecten te goeder trouw verkregen heeft, is het eerste lid niet van toepassing en is de overdracht van de effecten aan de intermediair geldig.
 
-3. Indien de effecten op naam luiden is het eerste lid niet van toepassing en is de overdracht van de effecten aan de instelling geldig indien de instelling de effecten te goeder trouw heeft verkregen en de onbevoegdheid voortvloeit uit de ongeldigheid van een vroegere overdracht die niet het gevolg was van onbevoegdheid van de toenmalige overdrager.
+3. Indien de effecten op naam luiden is het eerste lid niet van toepassing en is de overdracht van de effecten aan de intermediair geldig indien de intermediair de effecten te goeder trouw heeft verkregen en de onbevoegdheid voortvloeit uit de ongeldigheid van een vroegere overdracht die niet het gevolg was van onbevoegdheid van de toenmalige overdrager.
 
 ##### Artikel 15
 
-De instelling draagt desgewenst zorg dat de deelgenoten het aan de effecten verbonden stemrecht, ieder tot de hoeveelheid waarvoor hij in de aanwezige effecten deelgenoot is, kunnen uitoefenen.
+De intermediair draagt desgewenst zorg dat de deelgenoten het aan de effecten verbonden stemrecht, ieder tot de hoeveelheid waarvoor hij in de aanwezige effecten deelgenoot is, kunnen uitoefenen.
 
 ## Titel 2. Vervreemding en bezwaring
 
 ##### Artikel 16
 
-1. Behoort een verzameldepot toe aan twee of meer deelgenoten, dan kan ieder over zijn aandeel daarin beschikken. Hij kan ook beschikken over een gedeelte van zijn aandeel, voor zover daardoor geen aandelen ontstaan die niet overeenkomen met een of meer effecten.
+1. Behoort een verzameldepot toe aan twee of meer deelgenoten, dan kan ieder over zijn aandeel daarin beschikken. Een deelgenoot kan met instemming van de intermediair ook beschikken over een gedeelte van zijn aandeel, met dien verstande dat uitoefening van aan het aandeel verbonden stemrechten niet mogelijk is voor zover zijn aandeel niet overeenkomt met een of meer effecten.
 
 2. Een deelgenoot kan niet beschikken over zijn aandeel in een tot een verzameldepot behorend goed afzonderlijk.
 
 ##### Artikel 17
 
-Levering van een aandeel in een verzameldepot geschiedt door bijschrijving op naam van de verkrijger in het daartoe bestemde deel van de administratie van de aangesloten instelling.
+Levering van een aandeel in een verzameldepot geschiedt door bijschrijving op naam van de verkrijger in het daartoe bestemde deel van de administratie van de intermediair.
 
 ##### Artikel 18
 
-Voor zover een bijschrijving van effecten geschiedt tot een grotere hoeveelheid dan waarover de aangesloten instelling bevoegd was te beschikken, maakt zij de verkrijger geen deelgenoot in het verzameldepot. Was de verkrijger te goeder trouw op het tijdstip dat hij van de bijschrijving kennis kreeg, dan wordt hij niettemin deelgenoot naar evenredigheid van de bijgeschreven hoeveelheid.
+Voor zover een bijschrijving van effecten geschiedt tot een grotere hoeveelheid dan waarover de intermediair bevoegd was te beschikken, maakt hij de verkrijger geen deelgenoot in het verzameldepot. Was de verkrijger te goeder trouw op het tijdstip dat hij van de bijschrijving kennis kreeg, dan wordt hij niettemin deelgenoot naar evenredigheid van de bijgeschreven hoeveelheid.
 
 ##### Artikel 19
 
-1. Een overdracht van een aandeel aan de aangesloten instelling is ondanks onbevoegdheid van de vervreemder geldig, indien de instelling te goeder trouw was op het tijdstip van de bijschrijving op haar naam.
+1. Een overdracht van een aandeel aan de intermediair is ondanks onbevoegdheid van de vervreemder geldig, indien de intermediair te goeder trouw was op het tijdstip van de bijschrijving op zijn naam.
 
-2. Een overdracht van een aandeel aan een ander dan de aangesloten instelling in opdracht van de in het vorige lid bedoelde vervreemder is geldig, indien de verkrijger te goeder trouw was op het tijdstip dat hij van de bijschrijving kennis kreeg.
+2. Een overdracht van een aandeel aan een ander dan de intermediair in opdracht van de in het vorige lid bedoelde vervreemder is geldig, indien de verkrijger te goeder trouw was op het tijdstip dat hij van de bijschrijving kennis kreeg.
 
 ##### Artikel 20
 
-1. Vestiging van een pandrecht op een aandeel in een verzameldepot ten behoeve van een ander dan de aangesloten instelling geschiedt door bijschrijving ten name van de pandhouder in de administratie van de instelling.
+1. Vestiging van een pandrecht op een aandeel in een verzameldepot ten behoeve van een ander dan de intermediair geschiedt door bijschrijving ten name van de pandhouder in de administratie van de intermediair.
 
 2. Ondanks onbevoegdheid van de pandgever is de vestiging van het pandrecht geldig, indien de pandhouder op het tijdstip dat hij van de bijschrijving kennis kreeg, te goeder trouw was.
 
 ##### Artikel 21
 
-1. Vestiging van een pandrecht op een aandeel in een verzameldepot ten behoeve van de aangesloten instelling geschiedt door overeenkomst tussen de pandgever en de instelling.
+1. Vestiging van een pandrecht op een aandeel in een verzameldepot ten behoeve van de intermediair geschiedt door overeenkomst tussen de pandgever en de instelling.
 
 2. Ondanks de onbevoegdheid van de pandgever is de vestiging van het pandrecht geldig, indien de pandhouder op het tijdstip van het ontstaan te goeder trouw was.
 
 ##### Artikel 22
 
-1. Onverminderd het bepaalde in [artikel 54 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=54), is de pandhouder in geval van verzuim van de schuldenaar bevoegd:
-
-- a. indien de instelling die de effecten heeft uitgegeven uitlevering van de effecten mogelijk heeft gemaakt, uitlevering te vorderen, onverminderd het bepaalde in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=31&z=2007-11-01&g=2007-11-01), teneinde de uitgeleverde effecten overeenkomstig de bij de uitoefening van pandrecht op de betreffende soort effecten toepasselijke wettelijke bepalingen te doen verkopen en leveren; of
-
-- b. effecten van de betreffende soort en hoeveelheid op voormelde wijze te doen verkopen en vervolgens te doen leveren door middel van bijschrijving als in deze wet bedoeld.
-
-2. De aangesloten instelling doet bij uitlevering aan de pandhouder mededeling van andere op de effecten gevestigde pandrechten, de op de effecten rustende beslagen en rechten van vruchtgebruik.
-
-3. Bij uitlevering overeenkomstig het eerste lid, onder a, is de pandhouder bevoegd namens de deelgenoot de voor uitlevering benodigde handelingen te verrichten.
+Onverminderd het bepaalde in [artikel 54 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=54), is de pandhouder in geval van verzuim van de schuldenaar bevoegd effecten van de desbetreffende soort en hoeveelheid, overeenkomstig de op de uitoefening van pandrecht op de betreffende soort effecten toepasselijke wettelijke bepalingen, te doen verkopen en vervolgens het daarmee corresponderende aandeel in het verzameldepot te doen leveren door bijschrijving als in deze wet bedoeld.
 
 ##### Artikel 23
 
-Vestiging van een vruchtgebruik op een aandeel in een verzameldepot geschiedt door bijschrijving ten name van de vruchtgebruiker in de administratie van de aangesloten instelling.
+Vestiging van een vruchtgebruik op een aandeel in een verzameldepot geschiedt door bijschrijving ten name van de vruchtgebruiker in de administratie van de intermediair.
 
 ##### Artikel 24
 
-1. Indien onder een aangesloten instelling executoriaal derdenbeslag is gelegd op het aandeel van een deelgenoot in een verzameldepot, is de beslaglegger bevoegd:
-
-- a. indien de instelling die de effecten heeft uitgegeven uitlevering van de effecten mogelijk heeft gemaakt, uitlevering te vorderen, onverminderd het bepaalde in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=31&z=2007-11-01&g=2007-11-01), teneinde de uitgeleverde effecten overeenkomstig de bij de executie van een beslag op de betreffende effecten toepasselijke wettelijke bepalingen te doen verkopen en leveren; of
-
-- b. effecten van de betreffende soort en hoeveelheid op voormelde wijze te doen verkopen en vervolgens te doen leveren door bijschrijving als in deze wet bedoeld.
-
-2. De aangesloten instelling doet bij uitlevering aan de beslaglegger mededeling van andere op de effecten rustende beslagen, de op de effecten gevestigde pandrechten en rechten van vruchtgebruik.
-
-3. Bij uitlevering overeenkomstig het eerste lid, onder a, is de beslaglegger bevoegd namens de deelgenoot de voor uitlevering benodigde handelingen te verrichten.
+Indien onder een intermediair executoriaal derdenbeslag is gelegd op het aandeel van een deelgenoot in een verzameldepot, is de beslaglegger bevoegd effecten van de desbetreffende soort en hoeveelheid, overeenkomstig de op de executie van een beslag op de betreffende effecten toepasselijke wettelijke bepalingen, te doen verkopen en vervolgens het daarmee corresponderende aandeel in het verzameldepot te doen leveren door bijschrijving als in deze wet bedoeld.
 
 ##### Artikel 25
 
-1. Een aangesloten instelling is verplicht van een door haar verrichte bijschrijving terstond een kennisgeving te zenden aan degene op wiens naam de bijschrijving heeft plaatsgevonden.
-
-2. Van het voorgaande lid kan niet bij overeenkomst worden afgeweken.
-
-3. Van de in het eerste lid bedoelde verplichting kan ten aanzien van bepaalde soorten effecten vrijstelling worden verleend door of namens Onze Minister.
+Vervallen
 
 ## Titel 3. Uitlevering en verdeling
 
 ##### Artikel 26
 
-1. Tenzij de instelling die de effecten heeft uitgegeven uitlevering van de effecten onmogelijk heeft gemaakt, heeft een deelgenoot recht op uitlevering van de hoeveelheid effecten waarvoor hij deelgenoot is.
+1. Voor zover uitlevering op grond van het derde lid en het vierde lid mogelijk is, heeft een deelgenoot recht op uitlevering van de hoeveelheid effecten waarvoor hij deelgenoot is. Uitlevering van een gedeelte van een effect is niet mogelijk.
 
-2. De instelling die de effecten heeft uitgegeven kan bepalen dat uitlevering niet langer mogelijk is. Zij doet hiervan mededeling aan het centraal instituut.
+2. Is het verzameldepot niet toereikend om aan iedere deelgenoot de in het eerste lid bedoelde hoeveelheid effecten uit te leveren, dan levert de intermediair aan een deelgenoot slechts zoveel effecten uit als in verband met de rechten van de andere deelgenoten mogelijk is.
 
-3. Het besluit van de instelling die de effecten heeft uitgegeven kan tegenover een deelgenoot niet eerder worden ingeroepen dan zes maanden na publicatie van het besluit in ten minste één landelijk verspreid dagblad.
+3. Effecten worden uit een verzameldepot slechts uitgeleverd:
 
-4. Is het verzameldepot niet toereikend om aan iedere deelgenoot de hoeveelheid effecten waarvoor hij deelgenoot is, uit te leveren, dan mag de instelling aan een deelgenoot slechts zoveel effecten uitleveren als in verband met de rechten van de andere deelgenoten mogelijk is.
+- a. ter opname in een depot van een buitenlandse instelling met een functie vergelijkbaar met die van het centraal instituut; of
+
+- b. ter opname in een verzameldepot van een andere intermediair of, indien de instelling die de effecten heeft uitgegeven daarmee heeft ingestemd, een depot van een cliënt van een instelling als bedoeld onder a, indien alle effecten van de desbetreffende soort worden uitgeleverd.
+
+4. In afwijking van het derde lid worden effecten op verzoek van een deelgenoot uit een verzameldepot uitgeleverd indien de uitlevering noodzakelijk is voor de deelgenoot om een aan de effecten verbonden recht uit te kunnen oefenen. De effecten worden onverwijld teruggeleverd ter opname in het verzameldepot zodra het niet langer noodzakelijk is voor de betreffende deelgenoot de effecten in eigen naam te houden voor het uitoefenen van het hiervoor bedoelde recht.
 
 ##### Artikel 27
 
-1. De verdeling van een verzameldepot dat niet toereikend is om aan iedere deelgenoot de hoeveelheid effecten, waarvoor hij deelgenoot is, uit te leveren, geschiedt overeenkomstig de volgende regels.
+1. De verdeling van een verzameldepot dat niet toereikend is om aan iedere deelgenoot de hoeveelheid effecten, waarvoor hij deelgenoot is, te leveren, geschiedt overeenkomstig de volgende regels.
 
-2. Aan ieder der deelgenoten worden naar evenredigheid van zijn aandeel zoveel effecten uitgeleverd als in verband met de rechten van de andere deelgenoten mogelijk is. Blijft een hoeveelheid effecten over die voor een zodanige verdeling te klein is, dan worden zij, tenzij de deelgenoten anders overeenkomen, verkocht op een gereglementeerde markt of een multilaterale handelsfaciliteit, als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) en wordt de opbrengst onder de deelgenoten naar evenredigheid van ieders aandeel verdeeld.
+2. Aan ieder der deelgenoten worden naar evenredigheid van zijn aandeel zoveel effecten geleverd als in verband met de rechten van de andere deelgenoten mogelijk is. Blijft een hoeveelheid effecten over die voor een zodanige verdeling te klein is, dan worden zij, tenzij de deelgenoten anders overeenkomen en voor zover mogelijk, verkocht op een gereglementeerde markt of een multilaterale handelsfaciliteit, als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) en wordt de opbrengst onder de deelgenoten naar evenredigheid van ieders aandeel verdeeld.
 
 3. Andere tot het verzameldepot behorende goederen worden op de daartoe meest geschikte wijze te gelde gemaakt en de opbrengst wordt onder de deelgenoten naar evenredigheid van ieders aandeel verdeeld.
 
 ##### Artikel 28
 
-1. Indien de instelling die het verzameldepot houdt, zelf deelgenoot is, wordt haar bij toepassing van het voorgaande artikel slechts toegedeeld hetgeen overblijft, nadat de andere deelgenoten zoveel hebben ontvangen, dat zij niets meer uit hoofde van hun aandeel hebben te vorderen.
+1. Indien de intermediair die het verzameldepot houdt, zelf deelgenoot is, wordt hem bij toepassing van het voorgaande artikel slechts toegedeeld hetgeen overblijft, nadat de andere deelgenoten zoveel hebben ontvangen, dat zij niets meer uit hoofde van hun aandeel hebben te vorderen.
 
-2. Het eerste lid geldt niet, indien de instelling bewijst dat het tekort is ontstaan door omstandigheden die haar niet kunnen worden toegerekend.
+2. Het eerste lid geldt niet, indien de intermediair bewijst dat het tekort is ontstaan door omstandigheden die hem niet kunnen worden toegerekend.
 
 ##### Artikel 29
 
-Levert de instelling aan een deelgenoot meer effecten uit dan waartoe zij ingevolge de drie voorgaande artikelen bevoegd is, dan kan het teveel uitgeleverde door de instelling worden teruggevorderd, tenzij de deelgenoot op het tijdstip van de uitlevering te goeder trouw was.
+Levert de intermediair aan een deelgenoot meer effecten uit dan waartoe hij ingevolge de drie voorgaande artikelen bevoegd is, dan kan het teveel uitgeleverde door de intermediair worden teruggevorderd, tenzij de deelgenoot op het tijdstip van de uitlevering te goeder trouw was.
 
 ##### Artikel 30
 
-1. De instelling is tot uitlevering bevoegd zonder medewerking van de andere deelgenoten.
+1. De intermediair is tot uitlevering bevoegd zonder medewerking van de andere deelgenoten.
 
 2. Uitlevering van effecten aan toonder geschiedt door terbeschikkingstelling van de effecten aan de deelgenoot. Uitlevering van effecten op naam geschiedt door levering ter uitlevering uit het verzameldepot.
 
 ##### Artikel 31
 
-1. Bij de uitlevering van effecten uit hoofde van een aandeel waarop een beperkt recht of, ingeval van uitlevering aan een pandhouder of beslaglegger overeenkomstig [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=22&z=2007-11-01&g=2007-11-01) of [24](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=24&z=2007-11-01&g=2007-11-01), beslag rust, komt dit beperkte recht of beslag mede op uitgeleverde effecten te rusten.
+1. Voor zover uitlevering op grond van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=26&z=2011-01-01&g=2011-01-01) mogelijk is, komt bij de uitlevering van effecten uit hoofde van een aandeel waarop een beperkt recht of beslag rust dit beperkte recht of beslag mede op de uitgeleverde effecten te rusten.
 
-2. Het eerste lid is bij uitkeringen als bedoeld in [artikel 27, tweede lid, tweede zin, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2007-11-01&g=2007-11-01) van overeenkomstige toepassing.
+2. Het eerste lid is bij uitkering als bedoeld in [artikel 27, tweede lid, tweede volzin en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2011-01-01&g=2011-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 32
 
-Degene die overeenkomstig [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=1&artikel=12&z=2007-11-01&g=2007-11-01), een hoeveelheid effecten in bewaring heeft gegeven of heeft geleverd maar daarvoor geen deelgenoot is, wordt vermoed bevoegd te zijn de rechten van de deelgenoot uit de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=1&artikel=15&z=2007-11-01&g=2007-11-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=26&z=2007-11-01&g=2007-11-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2007-11-01&g=2007-11-01) uit te oefenen.
+Degene die overeenkomstig [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=1&artikel=12&z=2011-01-01&g=2011-01-01), een hoeveelheid effecten in bewaring heeft gegeven of heeft geleverd maar daarvoor geen deelgenoot is, wordt vermoed bevoegd te zijn de rechten van de deelgenoot uit de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=1&artikel=15&z=2011-01-01&g=2011-01-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=26&z=2011-01-01&g=2011-01-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2011-01-01&g=2011-01-01) uit te oefenen.
 
 ## Titel 4. Faillissement
 
 ##### Artikel 33
 
-1. In geval van faillissement van de aangesloten instelling is de curator belast met het beheer van het verzameldepot. Hij brengt het verzameldepot tot verdeling met inachtneming van de bepalingen van deze wet. Indien het bedrijf van de gefailleerde instelling overeenkomstig [artikel 98 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=98) wordt voortgezet, is de curator bevoegd tot verdeling van het verzameldepot over te gaan.
+1. In geval van faillissement van de intermediair is de curator belast met het beheer van het verzameldepot. Hij brengt het verzameldepot tot verdeling met inachtneming van de bepalingen van deze wet. Indien het bedrijf van de gefailleerde instelling overeenkomstig [artikel 98 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=98) wordt voortgezet, is de curator bevoegd tot verdeling van het verzameldepot over te gaan.
 
-2. Het eerste lid is van overeenkomstige toepassing ingeval de schuldsaneringsregeling natuurlijke personen ten aanzien van de aangesloten instelling van toepassing is, met dien verstande dat in de plaats van [artikel 98 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=98) wordt gelezen [artikel 311 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=311).
+2. Het eerste lid is van overeenkomstige toepassing ingeval de schuldsaneringsregeling natuurlijke personen ten aanzien van de intermediair van toepassing is, met dien verstande dat in de plaats van [artikel 98 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=98) wordt gelezen [artikel 311 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=311).
 
 ### Hoofdstuk 3. Girodepot
 
@@ -292,11 +296,15 @@ Degene die overeenkomstig [artikel 12, eerste lid](https://wetten.overheid.nl/jc
 
 ##### Artikel 34
 
-1. Alleen het centraal instituut kan een girodepot in de zin van deze wet houden.
+1. Alleen het centraal instituut kan girodepots in de zin van deze wet houden.
 
-2. Ten aanzien van iedere soort effecten bestaat een afzonderlijk girodepot.
+2. Het centraal instituut bepaalt welke effecten tot een girodepot kunnen behoren.
 
-3. De aangesloten instelling is bevoegd tot bewaargeving of levering ter opname in het girodepot van tot een verzameldepot behorende effecten aan het centraal instituut zonder de medewerking van de andere deelgenoten.
+3. Het centraal instituut bepaalt welke effecten die tot een girodepot kunnen behoren, voor de toepassing van deze wet als effecten van dezelfde soort worden beschouwd.
+
+4. Ten aanzien van iedere soort effecten die tot een girodepot kunnen behoren bestaat een afzonderlijk girodepot.
+
+5. Een aangesloten instelling is bevoegd tot bewaargeving of levering ter opname in het girodepot van tot een verzameldepot behorende effecten aan het centraal instituut zonder de medewerking van de andere deelgenoten.
 
 ##### Artikel 35
 
@@ -312,49 +320,45 @@ Tot een girodepot behoren:
 
 ##### Artikel 36
 
-1. Het centraal instituut is belast met het beheer van het girodepot.
+1. Het centraal instituut is belast met het beheer van de girodepots.
 
-2. Het centraal instituut kan tegenover derden de rechten van degenen aan wie het girodepot toebehoort, uitoefenen, indien dit voor een goed beheer dienstig kan zijn.
+2. Het centraal instituut kan tegenover derden de rechten van degenen aan wie een girodepot toebehoort, uitoefenen, indien dit voor een goed beheer dienstig kan zijn.
 
 3. Het tweede lid is niet van toepassing op het recht tot bijeenroeping van een vergadering van aandeelhouders of houders van andere effecten, tot het bijwonen van en het woord voeren in een zodanige vergadering, tot het uitoefenen van stemrecht en tot het doen instellen van een onderzoek naar het beleid en de gang van zaken van een rechtspersoon, als bedoeld in [artikel 345 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=345).
 
-4. Het centraal instituut is bevoegd een of meerdere toonderstukken ter zake van een of meer effecten aan toonder die tot een girodepot behoren te vervangen door een of meer door de instelling die de effecten heeft uitgegeven terzake van die effecten aan het centraal instituut af te geven vervangende toonderstukken. Het centraal instituut kan toestaan dat in de tekst van aldus door haar te verkrijgen toonderstukken een regeling is opgenomen als bedoeld in het vijfde lid.
+4. Het centraal instituut is bevoegd effecten aan toonder die tot een girodepot behoren te vervangen door een verzamelbewijs. Het centraal instituut kan bepalen dat in de tekst van een aldus door hem te verkrijgen verzamelbewijs een regeling is opgenomen als bedoeld in het vijfde lid.
 
-5. Indien in de tekst van een toonderstuk ter zake van een of meer effecten aan toonder die tot het girodepot behoren een daartoe strekkende regeling is opgenomen, kan het centraal instituut door een aantekening op het stuk te plaatsen dit mede betrekking doen hebben op een of meer andere effecten van dezelfde soort, dan wel bewerkstelligen dat het stuk niet langer betrekking heeft op een of meer van de effecten waarop het voorafgaand aan de plaatsing van de aantekening betrekking had.
+5. Indien in de tekst van een verzamelbewijs dat tot een girodepot behoort een daartoe strekkende regeling is opgenomen, kan het centraal instituut door een aantekening op het stuk te plaatsen dit mede betrekking doen hebben op een of meer andere effecten van dezelfde soort, dan wel bewerkstelligen dat het stuk niet langer betrekking heeft op een of meer van de effecten waarop het voorafgaand aan de plaatsing van de aantekening betrekking had.
 
 6. Het centraal instituut is bevoegd tot een girodepot behorende effecten die aan toonder luiden, op naam te doen stellen.
 
-7. Indien de instelling die de effecten heeft uitgegeven uitlevering van de effecten niet mogelijk heeft gemaakt of heeft bepaald dat uitlevering niet langer mogelijk is, is zij gehouden na afloop van de periode bedoeld in [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=26&z=2007-11-01&g=2007-11-01), voorzover van toepassing:
-
-- a. tot vervanging van toonderstukken als bedoeld in het vierde lid door toonderstukken die een regeling bevatten als bedoeld in het vijfde lid, dan wel;
-
-- b. medewerking te verlenen aan het op naam stellen van de effecten voorzover zij aan toonder luiden; zulks ter keuze van de instelling die de effecten heeft uitgegeven.
+7. Het centraal instituut oefent de in het vierde tot en met zesde lid genoemde bevoegdheden uitsluitend uit met instemming van de instelling die de effecten heeft uitgegeven.
 
 ##### Artikel 37
 
-1. Alleen een aangesloten instelling kan effecten in bewaring hebben bij of leveren aan het centraal instituut.
+1. Alleen een aangesloten instelling kan effecten in bewaring hebben of aanhouden bij het centraal instituut.
 
 2. De rechten jegens het centraal instituut worden door de aangesloten instelling op eigen naam uitgeoefend voor hen aan wie de effecten toebehoren.
 
 ##### Artikel 38
 
-1. Zij aan wie de in bewaring gegeven effecten aan toonder of ter opname in het girodepot geleverde effecten op naam toebehoorden op het tijdstip waarop zij door het centraal instituut ter bewaring in ontvangst zijn genomen dan wel aan het centraal instituut zijn geleverd, worden vanaf dat tijdstip in het girodepot gerechtigd als deelgenoten, gezamenlijk met hen die in dat girodepot op het tijdstip van de bewaargeving of levering reeds gerechtigd waren.
+1. Zij aan wie de in bewaring gegeven effecten aan toonder of ter opname in een girodepot geleverde effecten op naam toebehoorden op het tijdstip waarop zij door het centraal instituut ter bewaring in ontvangst zijn genomen dan wel aan het centraal instituut zijn geleverd, worden vanaf dat tijdstip in het girodepot gerechtigd als deelgenoten, gezamenlijk met hen die in dat girodepot op het tijdstip van de bewaargeving of levering reeds gerechtigd waren.
 
-2. Het aandeel in het girodepot staat op naam van de aangesloten instelling.
+2. Levering van effecten door de instelling die de effecten heeft uitgegeven aan het centraal instituut ter opname van die effecten in een girodepot, heeft tot gevolg dat de aangesloten instelling ten gunste van wie de effecten worden bijgeschreven, alsdan in het girodepot gerechtigd wordt als deelgenoot, gezamenlijk met hen die daarinop dat tijdstip reeds gerechtigd waren. De effecten makenvanaf het moment van opname in het girodepot deel uit van de verzameldepots van de desbetreffende aangesloten instellingen.
 
-3. Het aandeel wordt berekend naar evenredigheid van de hoeveelheid van de door de aangesloten instelling ingebrachte effecten.
+3. Het aandeel in een girodepot staat op naam van de aangesloten instelling.
 
-4. Tenzij de instelling die de effecten heeft uitgegeven uitlevering van de effecten onmogelijk heeft gemaakt, levert het centraal instituut aan de aangesloten instelling op diens verzoek uit het girodepot effecten van dezelfde soort uit tot een hoeveelheid die overeenkomt met hetgeen door deze in bewaring is gegeven of is geleverd.
+4. Het aandeel wordt berekend naar evenredigheid van de hoeveelheid van de door de aangesloten instelling ingebrachte of geleverde effecten, dan wel door de instelling die de effecten heeft uitgegeven overeenkomstig het tweede lid geleverde effecten.
 
 ##### Artikel 39
 
-Het centraal instituut draagt zorg dat de aangesloten instellingen kunnen voldoen aan hun in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=1&artikel=15&z=2007-11-01&g=2007-11-01) bedoelde verplichting ten aanzien van het aan de effecten verbonden stemrecht.
+Het centraal instituut draagt zorg dat de aangesloten instellingen kunnen voldoen aan hun in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=1&artikel=15&z=2011-01-01&g=2011-01-01) bedoelde verplichting ten aanzien van het aan de effecten verbonden stemrecht.
 
 ## Titel 2. Vervreemding en bezwaring
 
 ##### Artikel 40
 
-1. Het ten name van een aangesloten instelling staande aandeel in een girodepot is overdraagbaar. Ook een gedeelte van zodanig aandeel is overdraagbaar, voor zover daardoor geen aandelen ontstaan die niet overeenkomen met een of meer effecten.
+1. Het ten name van een aangesloten instelling staande aandeel in een girodepot is overdraagbaar. Een gedeelte van zodanig aandeel is eveneens overdraagbaar.
 
 2. Het aandeel in een tot een girodepot behorend goed afzonderlijk is niet overdraagbaar.
 
@@ -368,29 +372,37 @@ Het centraal instituut draagt zorg dat de aangesloten instellingen kunnen voldoe
 
 1. Vestiging van een pandrecht ten behoeve van een andere aangesloten instelling op een aandeel in een girodepot geschiedt door bijschrijving ten name van de andere instelling in de administratie van het centraal instituut.
 
-2. [Artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=20&z=2007-11-01&g=2007-11-01), en [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=22&z=2007-11-01&g=2007-11-01) zijn van overeenkomstige toepassing.
+2. [Artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=20&z=2011-01-01&g=2011-01-01), en [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=22&z=2011-01-01&g=2011-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 43
 
-1. Het centraal instituut is verplicht van een door hem verrichte bijschrijving terstond een kennisgeving te zenden aan de instelling op wier naam de bijschrijving heeft plaatsgevonden.
+1. Het centraal instituut is verplicht van een door hem verrichte bijschrijving terstond een kennisgeving te zenden aan de aangesloten instelling op wier naam de bijschrijving heeft plaatsgevonden.
 
 2. Van het voorgaande lid kan niet bij overeenkomst worden afgeweken.
 
 ##### Artikel 44
 
-Derden-beslag onder het centraal instituut op een ten name van een instelling staand aandeel in een girodepot is niet toegelaten.
+Beslag onder het centraal instituut op een ten name van een aangesloten instelling staand aandeel in een girodepot is niet toegelaten.
 
 ## Titel 3. Uitlevering en verdeling
 
 ##### Artikel 45
 
-1. Indien de instelling die de effecten heeft uitgegeven uitlevering van de effecten mogelijk heeft gemaakt, heeft een aangesloten instelling recht op uitlevering van de haar toekomende hoeveelheid effecten.
+1. Voor zover uitlevering op grond van het derde lid en het vierde lid mogelijk is, heeft een aangesloten instelling recht op uitlevering van de haar toekomende hoeveelheid effecten. Uitlevering van een gedeelte van een effect is niet mogelijk.
 
-2. Is het girodepot niet toereikend om aan iedere instelling de in het vorige lid bedoelde hoeveelheid effecten uit te leveren, dan mag het centraal instituut aan een instelling slechts zoveel effecten uitleveren als in verband met de rechten van de andere instellingen mogelijk is.
+2. Is het girodepot niet toereikend om aan iedere aangesloten instelling de in het eerste lid bedoelde hoeveelheid effecten uit te leveren, dan levert het centraal instituut aan een aangesloten instelling slechts zoveel effecten uit als in verband met de rechten van de andere aangesloten instellingen mogelijk is.
+
+3. Effecten worden uit een girodepot slechts uitgeleverd:
+
+- a. ter opname in een depot van een buitenlandse instelling met een functie vergelijkbaar met die van het centraal instituut; of
+
+- b. ter opname in een verzameldepot van een andere intermediair of indien de instelling die de effecten heeft uitgegeven daarmee heeft ingestemd, een depot van een cliënt van een instelling als bedoeld onder a, indien alle effecten van de desbetreffende soort worden uitgeleverd.
+
+4. In afwijking van het derde lid worden effecten op verzoek van een aangesloten instelling uit een girodepot uitgeleverd indien de uitlevering noodzakelijk is voor de deelgenoot om een aan de effecten verbonden recht uit te kunnen oefenen. De effecten worden onverwijld teruggeleverd ter opname in het verzameldepot zodra het niet langer noodzakelijk is voor de betreffende deelgenoot de effecten in eigen naam te houden voor het uitoefenen van het hiervoor bedoelde recht.
 
 ##### Artikel 46
 
-De verdeling van een girodepot dat niet toereikend is om aan iedere instelling de haar toekomende hoeveelheid effecten uit te leveren, geschiedt door overeenkomstige toepassing van [artikel 27, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2007-11-01&g=2007-11-01).
+De verdeling van een girodepot dat niet toereikend is om aan iedere instelling de haar toekomende hoeveelheid effecten uit te leveren, geschiedt door overeenkomstige toepassing van [artikel 27, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2011-01-01&g=2011-01-01).
 
 ##### Artikel 47
 
@@ -404,26 +416,70 @@ Het centraal instituut is tot uitlevering bevoegd zonder medewerking van de ande
 
 1. Bij uitlevering van effecten uit hoofde van een aandeel waarop een pandrecht rust, komt dit pandrecht mede op de uitgeleverde effecten te rusten.
 
-2. Het eerste lid is bij uitkeringen als bedoeld in [artikel 27, tweede lid, tweede zin, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2007-11-01&g=2007-11-01) van overeenkomstige toepassing.
+2. Het eerste lid is bij uitkeringen als bedoeld in [artikel 27, tweede lid, tweede zin, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2011-01-01&g=2011-01-01) van overeenkomstige toepassing.
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
 ##### Artikel 50
 
-1. Indien het centraal instituut overeenkomstig [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=1&artikel=1&z=2007-11-01&g=2007-11-01) ten aanzien van effecten van een bepaalde soort heeft bepaald dat zij bij hem in bewaring kunnen worden gegeven, en zodanige effecten op dat tijdstip worden bewaard door een effectenbewaarbedrijf, is dit bevoegd deze effecten aan de bewaargever uit te leveren door ze namens hem in bewaring te geven bij de met het effectenbewaarbedrijf verbonden aangesloten instelling. Deze bevoegdheid bestaat niet, indien de effecten afzonderlijk voor de bewaargever werden bewaard.
-
-2. Beperkte rechten die rusten op de vordering van de bewaargever op het effectenbewaarbedrijf tot uitlevering van niet-afzonderlijk voor de bewaargever bewaarde effecten, komen te rusten op de overeenkomstig het eerste lid uitgeleverde effecten. Is op een zodanige vordering beslag gelegd, dan is het effectenbewaarbedrijf niet bevoegd tot uitlevering van effecten overeenkomstig het eerste lid.
-
-3. In dit artikel wordt onder een effectenbewaarbedrijf verstaan een naamloze vennootschap die krachtens haar statuten uitsluitend ten doel heeft de bewaring van effecten en wier aandelen worden gehouden door de Stichting Administratiekantoor VABEF te Amsterdam.
+Vervallen
 
 ##### Artikel 50a
 
-In het geval dat aandelen op naam zijn geleverd aan een aangesloten instelling of aan het centraal instituut, kan in het register als bedoeld in [artikel 85 eerste lid van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=85) de naam en het adres van de aangesloten instelling onderscheidenlijk centraal instituut worden opgenomen, met vermelding van de datum waarop die aandelen zijn gaan behoren tot een verzameldepot onderscheidenlijk girodepot, de datum van de erkenning of betekening, alsmede van het op ieder aandeel gestorte bedrag.
+Vervallen
 
 ##### Artikel 51
 
 1. Deze wet treedt in werking op een door Ons te bepalen tijdstip.
 
 2. Zij kan worden aangehaald als "Wet giraal effectenverkeer".
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 8b
+
+Indien effecten op naam zijn geleverd aan een intermediair of aan het centraal instituut, kan in het desbetreffende register van de uitgevende instelling, de naam en het adres van de intermediair onderscheidenlijk het centraal instituut worden opgenomen, met vermelding van de datum waarop die aandelen zijn gaan behoren tot het verzameldepot onderscheidenlijk girodepot, de datum van de erkenning of betekening, alsmede van het op ieder aandeel gestorte bedrag.
+
+### Hoofdstuk 2. Verzameldepot
+
+## Titel 1. Algemeen
+
+## Titel 2. Vervreemding en bezwaring
+
+## Titel 3. Uitlevering en verdeling
+
+## Titel 4. Faillissement
+
+### Hoofdstuk 3. Girodepot
+
+## Titel 1. Algemeen
+
+## Titel 2. Vervreemding en bezwaring
+
+## Titel 3. Uitlevering en verdeling
+
+### Hoofdstuk 4. Overgangs- en slotbepalingen
+
+##### Artikel 50b
+
+1. Indien ten aanzien vaneffecten een verzameldepot kan bestaan, en zodanige effecten op dat tijdstip worden bewaard door een bewaarbedrijf, is dit bewaarbedrijf bevoegd deze effecten aan de bewaargever uit te leveren door ze namens hem in bewaring te geven aan de met het bewaarbedrijf verbonden intermediair.
+
+2. Beperkte rechten die rusten op de vordering van de bewaargever op hetbewaarbedrijf tot uitlevering van niet afzonderlijk voor de bewaargever bewaarde effecten, komen te rusten op de overeenkomstig het eerste lid uitgeleverde effecten. Is op een zodanige vordering beslag gelegd, dan is het bewaarbedrijf niet bevoegd tot uitlevering van effecten overeenkomstig het eerste lid.
+
+3. In dit artikel wordt onder een bewaarbedrijf verstaan een rechtspersoon die krachtens haar statuten uitsluitend of hoofdzakelijk ten doel heeft de bewaring van financiële instrumenten als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
+
+##### Artikel 50c
+
+In afwijking van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=26&z=2011-01-01&g=2011-01-01) of [45](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3&titeldeel=3&artikel=45&z=2011-01-01&g=2011-01-01) kunnen effecten tot uiterlijk zes maanden na het tijdstip van inwerkingtreding van deze bepaling worden uitgeleverd aan een deelgenoot onderscheidenlijk een aangesloten instelling, met inachtneming van het op het tijdstip voorafgaande aan de inwerkingtreding van deze wet met betrekking tot uitlevering bepaalde.
+
+##### Artikel 50d
+
+1. Indien effecten aan toonder behoren tot een verzameldepot of een girodepot, maar niet zijn belichaamd in een verzamelbewijs, kunnen de met deze effecten corresponderende aandelen in een verzameldepot of girodepot vanaf 1 januari 2013 niet meer worden geleverd op grond van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=17&z=2011-01-01&g=2011-01-01) of [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3&titeldeel=2&artikel=41&z=2011-01-01&g=2011-01-01).
+
+2. Een instelling die effecten aan toonder heeft uitgegeven die zijnopgenomen in een verzameldepot of een girodepot zet deze effecten voor 1 januari 2013 om in een verzamelbewijs of in effecten op naam.
+
+3. Indien de voorwaarden waaronder effecten aan toonder zijn uitgegeven niet voorzien in de mogelijkheid die effecten om te zetten in verzamelbewijzen of een procedure om de voorwaarden aan te passen, kan de uitgevende instelling van die effecten eenzijdig de voorwaarden wijzigen om een omzetting als bedoeld in het tweede lid mogelijk te maken.
+
+4. Indien een buitenlands recht dat op effecten van toepassing is niet voorziet in de mogelijkheid van omzetting, zullen de effecten in afwijking van het eerste lid wel geleverd kunnen worden op grond van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=17&z=2011-01-01&g=2011-01-01) of [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3&titeldeel=2&artikel=41&z=2011-01-01&g=2011-01-01).
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
