@@ -4,7 +4,7 @@ identifier: "BWBR0012262"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-01-01"
-last_updated: "2002-01-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012262"
 soort: "AMvB"
@@ -54,9 +54,9 @@ In dit besluit wordt verstaan onder commissie: de toetsingscommissie uittreding 
 
 1. De commissie bestaat uit:
 
-- a. een voorzitter en een plaatsvervangend voorzitter, niet zijnde rechterlijk ambtenaar, met rechtspraak belast lid van de Centrale Raad van Beroep dan wel het College van Beroep voor het bedrijfsleven, bij een van deze gerechten benoemd gerechtsauditeur of griffier, rechterlijk ambtenaar in opleiding, of ambtenaar bij het Ministerie van Justitie of een instelling, dienst of bedrijf dat onder dat ministerie ressorteert;
+- a. een voorzitter en een plaatsvervangend voorzitter, niet zijnde rechterlijk ambtenaar, met rechtspraak belast lid van de Centrale Raad van Beroep dan wel het College van Beroep voor het bedrijfsleven, bij een van deze gerechten benoemd senior-gerechtsauditeur, gerechtsauditeur of griffier, rechterlijk ambtenaar in opleiding, of ambtenaar bij het Ministerie van Justitie of een instelling, dienst of bedrijf dat onder dat ministerie ressorteert;
 
-- b. een lid en een plaatsvervangend lid, aan te wijzen door de Nederlandse Vereniging van Rechtspraak uit de kring van met rechtspraak belaste leden van de tot de rechterlijke macht behorende gerechten, de Centrale Raad van Beroep en het College van Beroep voor het bedrijfsleven en de bij deze gerechten benoemde gerechtsauditeurs en griffiers; en
+- b. een lid en een plaatsvervangend lid, aan te wijzen door de Nederlandse Vereniging van Rechtspraak uit de kring van met rechtspraak belaste leden van de tot de rechterlijke macht behorende gerechten, de Centrale Raad van Beroep en het College van Beroep voor het bedrijfsleven en de bij deze gerechten benoemde senior-gerechtsauditeurs, gerechtsauditeurs en griffiers; en
 
 - c. een lid en een plaatsvervangend lid, zijnde ambtenaar bij het Ministerie van Justitie.
 
@@ -70,13 +70,13 @@ In dit besluit wordt verstaan onder commissie: de toetsingscommissie uittreding 
 
 1. Aan de voorzitter, de plaatsvervangend voorzitter, een lid of een plaatsvervangend lid wordt door Onze Minister van Justitie ontslag verleend op eigen verzoek.
 
-2. Indien de voorzitter, de plaatsvervangend voorzitter, een lid of een plaatsvervangend lid de ingevolge [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012262&artikel=2&z=2002-01-01&g=2002-01-01), vereiste hoedanigheid verliest, wordt door Onze Minister van Justitie aan hem ontslag verleend.
+2. Indien de voorzitter, de plaatsvervangend voorzitter, een lid of een plaatsvervangend lid de ingevolge [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012262&artikel=2&z=2011-01-01&g=2011-01-01), vereiste hoedanigheid verliest, wordt door Onze Minister van Justitie aan hem ontslag verleend.
 
-3. Degene die in de plaats van degene aan wie ontslag als bedoeld in het eerste of tweede lid wordt verleend, wordt benoemd tot voorzitter, plaatsvervangend voorzitter, lid of plaatsvervangend lid, wordt in afwijking van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012262&artikel=2&z=2002-01-01&g=2002-01-01), benoemd voor de periode gedurende welke zijn voorganger, gerekend vanaf de datum van zijn ontslag, nog benoemd zou zijn geweest.
+3. Degene die in de plaats van degene aan wie ontslag als bedoeld in het eerste of tweede lid wordt verleend, wordt benoemd tot voorzitter, plaatsvervangend voorzitter, lid of plaatsvervangend lid, wordt in afwijking van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012262&artikel=2&z=2011-01-01&g=2011-01-01), benoemd voor de periode gedurende welke zijn voorganger, gerekend vanaf de datum van zijn ontslag, nog benoemd zou zijn geweest.
 
 ##### Artikel 4
 
-Het secretariaat van de commissie wordt verzorgd door ambtenaren bij het Ministerie van Justitie die niet lid of plaatsvervangend lid, bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012262&artikel=2&z=2002-01-01&g=2002-01-01), zijn.
+Het secretariaat van de commissie wordt verzorgd door ambtenaren bij het Ministerie van Justitie die niet lid of plaatsvervangend lid, bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012262&artikel=2&z=2011-01-01&g=2011-01-01), zijn.
 
 ##### Artikel 5
 
@@ -84,9 +84,9 @@ Het secretariaat van de commissie wordt verzorgd door ambtenaren bij het Ministe
 
 - a. de voorzitter of de plaatsvervangend voorzitter;
 
-- b. een lid of een plaatsvervangend lid als bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012262&artikel=2&z=2002-01-01&g=2002-01-01); en
+- b. een lid of een plaatsvervangend lid als bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012262&artikel=2&z=2011-01-01&g=2011-01-01); en
 
-- c. een lid of een plaatsvervangend lid als bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012262&artikel=2&z=2002-01-01&g=2002-01-01).
+- c. een lid of een plaatsvervangend lid als bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012262&artikel=2&z=2011-01-01&g=2011-01-01).
 
 2. De commissie kan degene op wiens verzoek om ontslag de adviesaanvraag betrekking heeft, vragen om zijn verzoek toe te lichten.
 
@@ -106,7 +106,7 @@ Het secretariaat van de commissie wordt verzorgd door ambtenaren bij het Ministe
 
 2. Onze Minister van Justitie kan de termijn, genoemd in het eerste lid, op verzoek van de commissie met twee weken verlengen.
 
-3. De commissie stelt aan Onze Minister van Justitie schriftelijk verkregen inlichtingen als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012262&artikel=5&z=2002-01-01&g=2002-01-01), en schriftelijke verslagen als bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012262&artikel=5&z=2002-01-01&g=2002-01-01), ter beschikking.
+3. De commissie stelt aan Onze Minister van Justitie schriftelijk verkregen inlichtingen als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012262&artikel=5&z=2011-01-01&g=2011-01-01), en schriftelijke verslagen als bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012262&artikel=5&z=2011-01-01&g=2011-01-01), ter beschikking.
 
 ##### Artikel 8
 
