@@ -4,7 +4,7 @@ identifier: "BWBR0002786"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2008-01-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002786"
 soort: "AMvB"
@@ -84,7 +84,7 @@ Een in [artikel 5, eerste lid, onderdeel d, van de wet](https://wetten.overheid.
 
 ##### Artikel 7a
 
-Een lichaam dat voldoet aan de voorwaarden gesteld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002786&artikel=5&z=2008-01-01&g=2008-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002786&artikel=6&z=2008-01-01&g=2008-01-01) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002786&artikel=7&z=2008-01-01&g=2008-01-01) is in afwijking van de genoemde artikelen niet van de belasting vrijgesteld, indien het lichaam dit bij het indienen van de aangifte over het jaar verzoekt.
+Een lichaam dat voldoet aan de voorwaarden gesteld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002786&artikel=5&z=2011-01-01&g=2011-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002786&artikel=6&z=2011-01-01&g=2011-01-01) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002786&artikel=7&z=2011-01-01&g=2011-01-01) is in afwijking van de genoemde artikelen niet van de belasting vrijgesteld, indien het lichaam dit bij het indienen van de aangifte over het jaar verzoekt.
 
 ##### Artikel 7aa
 
@@ -114,7 +114,7 @@ Ingeval een belastingplichtige bij het begin van het boekjaar dat aanvangt op of
 
 ##### Artikel 7c
 
-Ten aanzien van binnenlandse belastingplichtigen wier winst wordt bepaald over een niet met het kalenderjaar samenvallend boekjaar gelden de bedragen die ingevolge [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van een kalenderjaar de in de artikelen [3.41](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.41), [3.42](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) en [3.47 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.47) vermelde bedragen vervangen, voor het eerst met betrekking tot het boekjaar dat met of in het kalenderjaar aanvangt.
+Ten aanzien van belastingplichtigen wier winst wordt bepaald over een niet met het kalenderjaar samenvallend boekjaar gelden de bedragen die ingevolge [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van een kalenderjaar de in de artikelen [3.41](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.41), [3.42](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) en [3.47 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.47) vermelde bedragen vervangen, voor het eerst met betrekking tot het boekjaar dat met of in het kalenderjaar aanvangt.
 
 ##### Artikel 8
 
