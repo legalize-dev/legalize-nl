@@ -4,7 +4,7 @@ identifier: "BWBR0007385"
 country: "nl"
 rank: "amvb"
 publication_date: "2011-01-01"
-last_updated: "1995-05-24"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007385"
 soort: "AMvB"
@@ -62,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 1. De vergoeding en de tegemoetkoming gaan in op de eerste dag van de maand waarin de aanvraag daartoe is ingediend.
 
-2. Indien de aanvraag om een vergoeding van of een tegemoetkoming in de kosten van een voorziening is ingediend nadat de desbetreffende kosten zijn gemaakt, kan de Raad, indien hij rekening houdende met alle omstandigheden een dergelijke afwijking in een individueel geval noodzakelijk acht, de vergoeding of de tegemoetkoming toekennen met ingang van het tijdstip waarop de kosten zijn gemaakt of in rekening zijn gebracht.
+2. Indien de aanvraag om een vergoeding van of een tegemoetkoming in de kosten van een voorziening is ingediend nadat de desbetreffende kosten zijn gemaakt, kan de Raad of de Sociale verzekeringsbank, indien hij rekening houdende met alle omstandigheden een dergelijke afwijking in een individueel geval noodzakelijk acht, de vergoeding of de tegemoetkoming toekennen met ingang van het tijdstip waarop de kosten zijn gemaakt of in rekening zijn gebracht.
 
 3. Voor een toekenning als bedoeld in het tweede lid komen uitsluitend aanvragen in aanmerking die zijn ingediend voor het einde van het kalenderjaar volgende op dat waarin de kosten door de belanghebbende zijn gemaakt of hem in rekening zijn gebracht.
 
