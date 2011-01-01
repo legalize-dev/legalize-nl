@@ -4,7 +4,7 @@ identifier: "BWBR0002801"
 country: "nl"
 rank: "amvb"
 publication_date: "2011-01-01"
-last_updated: "2002-01-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002801"
 soort: "AMvB"
@@ -52,9 +52,9 @@ de wet: de [Wet buitengewoon pensioen 1940-1945](https://wetten.overheid.nl/jci1
 
 Onze Minister: Onze Minister van Welzijn, Volksgezondheid en Cultuur;
 
-de Raad: de Pensioen- en Uitkeringsraad, genoemd in [artikel 2 van de Wet op de Pensioen- en Uitkeringsraad](https://wetten.overheid.nl/jci1.3:c:BWBR0004806&artikel=2) (**Stb.** 1990, 324);
+de Sociale verzekeringsbank: de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6);
 
-de belanghebbende: de deelnemer aan het verzet in de zin van artikel 1, eerste lid, van de wet, alsmede degene die behoort tot een van de categorieën van personen, bedoeld in artikel 1, tweede lid, van de wet.
+de belanghebbende: de deelnemer aan het verzet in de zin van [artikel 1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=1), alsmede degene die behoort tot een van de categorieën van personen, bedoeld in artikel 1, tweede lid, van de wet.
 
 ##### Artikel 2
 
@@ -62,7 +62,7 @@ De behandeling en verpleging als bedoeld in artikel 11**a** der wet, omvat naast
 
 ##### Artikel 3
 
-1. De kosten van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002801&artikel=2&z=2002-01-01&g=2002-01-01) bedoelde behandeling en verpleging worden slechts vergoed, indien en voor zover de belanghebbende niet op grond van andere voorschriften of krachtens overeenkomst op volledige of gedeeltelijke vergoeding van die kosten aanspraak kan maken. Daarbij wordt de in het derde lid bedoelde vaste vergoeding niet in aanmerking genomen.
+1. De kosten van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002801&artikel=2&z=2011-01-01&g=2011-01-01) bedoelde behandeling en verpleging worden slechts vergoed, indien en voor zover de belanghebbende niet op grond van andere voorschriften of krachtens overeenkomst op volledige of gedeeltelijke vergoeding van die kosten aanspraak kan maken. Daarbij wordt de in het derde lid bedoelde vaste vergoeding niet in aanmerking genomen.
 
 2. Behoudens de in het derde lid bedoelde vaste vergoeding wordt de vergoeding voor behandeling en verpleging verleend volgens door Onze Minister te stellen regelen.
 
@@ -74,7 +74,7 @@ Vervallen
 
 ##### Artikel 5
 
-De Raad kan toezicht uitoefenen op de behandeling en verpleging, voor welke de belanghebbende ingevolge [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002801&artikel=3&z=2002-01-01&g=2002-01-01), recht op vergoeding doet gelden. Hij wijst daartoe artsen of een geneeskundig lichaam aan.
+Vervallen
 
 ##### Artikel 6
 
