@@ -4,7 +4,7 @@ identifier: "BWBR0030864"
 country: "nl"
 rank: "wet"
 publication_date: "2012-01-01"
-last_updated: "2006-01-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030864"
 soort: "wet"
@@ -53,7 +53,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III. [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene Ouderdomswet.
 
 ##### Artikel IV. [Arbeidsgeschillenwet 1946 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028178)
 
@@ -133,7 +133,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXI. [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet werk en bijstand.
 
 ##### Artikel XXIa. Wijziging van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) na inwerkingtreding [Wet interbestuurlijk toezicht gemeentelijke inkomens- en werkvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0030548)
 
