@@ -4,7 +4,7 @@ identifier: "BWBR0005812"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2010-01-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005812"
 soort: "ministeriele-regeling"
@@ -122,7 +122,7 @@ Een plaats waar geen alcoholvrije dranken worden vervaardigd, kan uitsluitend al
 
 ##### Artikel 10
 
-In afwijking van het in artikel 14, tweede lid, van de wet van overeenkomstige toepassing verklaarde [artikel 40, tweede lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=40) kunnen als inrichting in aanmerking komen plaatsen van waaruit alcoholvrije dranken, pruimtabak of snuiftabak worden geleverd met vrijstelling van belasting als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=IV&afdeling=1&artikel=19&z=2010-01-01&g=2010-01-01).
+In afwijking van het in artikel 14, tweede lid, van de wet van overeenkomstige toepassing verklaarde [artikel 40, tweede lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=40) kunnen als inrichting in aanmerking komen plaatsen van waaruit alcoholvrije dranken, pruimtabak of snuiftabak worden geleverd met vrijstelling van belasting als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=IV&afdeling=1&artikel=19&z=2011-01-01&g=2011-01-01).
 
 ##### Artikel 11
 
@@ -186,7 +186,7 @@ In afwijking van het in artikel 14, tweede lid, van de wet van overeenkomstige t
 
 3. Indien zekerheid wordt gesteld ter verkrijging van uitstel van betaling als bedoeld in het in artikel 35, tweede lid, van de wet van overeenkomstige toepassing verklaarde [artikel 76, tweede lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=76) van het bedrag aan belasting dat aangevraagde belastingzegels vertegenwoordigen, is het belastingbelang gelijk aan het bedrag waarvoor gemiddeld uitstel van betaling wordt verleend.
 
-4. Indien op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=III&afdeling=2&artikel=13&z=2010-01-01&g=2010-01-01) toestemming is verleend voor het doen van één aangifte voor twee of meer inrichtingen worden de afzonderlijke zekerheidstellingen voor de desbetreffende inrichtingen vervangen door één zekerheid die voor die inrichtingen te zamen van toepassing is. Het hierbij in acht te nemen belastingbelang wordt gevormd door het totale belastingbelang dat op basis van het tweede lid en het derde lid voor de desbetreffende inrichtingen is vastgesteld.
+4. Indien op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=III&afdeling=2&artikel=13&z=2011-01-01&g=2011-01-01) toestemming is verleend voor het doen van één aangifte voor twee of meer inrichtingen worden de afzonderlijke zekerheidstellingen voor de desbetreffende inrichtingen vervangen door één zekerheid die voor die inrichtingen te zamen van toepassing is. Het hierbij in acht te nemen belastingbelang wordt gevormd door het totale belastingbelang dat op basis van het tweede lid en het derde lid voor de desbetreffende inrichtingen is vastgesteld.
 
 5. De zekerheid bedraagt ten minste 5 percent en ten hoogste 100 percent van het belastingbelang met een maximum van € 2.250.000.
 
@@ -280,7 +280,7 @@ In afwijking van het in artikel 14, tweede lid, van de wet van overeenkomstige t
 
 - b. ingeval de na afloop van het onderzoek, de controle of de smaaktest resterende alcoholvrije dranken, pruimtabak of snuiftabak worden overgebracht naar een derde land: een afschrift van de ingevolge de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:1), gedane aangifte ten uitvoer waaruit blijkt dat de goederen hun bestemming hebben bereikt;
 
-- c. ingeval de na afloop van het onderzoek, de controle of de smaaktest resterende alcoholvrije dranken, pruimtabak of snuiftabak worden overgebracht naar een andere lid-staat: een afschrift van het bescheid als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=I&afdeling=2&artikel=4&z=2010-01-01&g=2010-01-01).
+- c. ingeval de na afloop van het onderzoek, de controle of de smaaktest resterende alcoholvrije dranken, pruimtabak of snuiftabak worden overgebracht naar een andere lid-staat: een afschrift van het bescheid als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=I&afdeling=2&artikel=4&z=2011-01-01&g=2011-01-01).
 
 - d. ingeval de na afloop van het onderzoek, de controle of de smaaktest resterende alcoholvrije dranken, pruimtabak of snuiftabak worden vernietigd onder ambtelijk toezicht een afschrift van de ter zake opgemaakte ambtelijke verklaring.
 
@@ -298,7 +298,7 @@ In afwijking van het in artikel 14, tweede lid, van de wet van overeenkomstige t
 
 ##### Artikel 20
 
-1. Een verzoek om teruggaaf van belasting als bedoeld in [artikel 32 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=32) dient te worden ingediend binnen drie maanden nadat:
+1. Een verzoek om teruggaaf van belasting als bedoeld in [artikel 32 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=32) dient te worden ingediend uiterlijk drie maanden na afloop van het kalenderkwartaal waarin:
 
 - de in [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=28) bedoelde vruchte- of groentesappen zijn vervaardigd;
 
@@ -352,9 +352,9 @@ In afwijking van het in artikel 14, tweede lid, van de wet van overeenkomstige t
 
 ##### Artikel 21
 
-1. Een verzoek om teruggaaf van belasting als bedoeld in artikel 33, eerste lid, onderdelen a en b, van de wet voor alcoholvrije dranken, pruimtabak of snuiftabak die zijn verloren gegaan of onder ambtelijk toezicht zijn vernietigd dient binnen één maand na de dag van het verloren gaan of van de vernietiging te worden ingediend bij de inspecteur onder wie de belanghebbende ressorteert.
+1. Een verzoek om teruggaaf van belasting als bedoeld in [artikel 33, eerste lid, onderdelen a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=33), voor alcoholvrije dranken, pruimtabak of snuiftabak, die zijn verloren gegaan of onder ambtelijk toezicht zijn vernietigd, wordt ingediend uiterlijk drie maanden na afloop van het kalenderkwartaal waarin de alcoholvrije dranken, pruimtabak of snuiftabak zijn verloren gegaan of onder ambtelijk toezicht zijn vernietigd.
 
-2. Het verzoek dient de volgende gegevens te bevatten:
+2. In de administratie van degene die verzoekt om teruggaaf van belasting zijn de volgende gegevens opgenomen:
 
 - a. de soort en de hoeveelheid van de goederen of de andere voor de vaststelling van het bedrag van de teruggaaf van belang zijnde gegevens;
 
@@ -366,7 +366,7 @@ In afwijking van het in artikel 14, tweede lid, van de wet van overeenkomstige t
 
 ##### Artikel 22
 
-Een verzoek om teruggaaf van belasting als bedoeld in [artikel 33, eerste lid, onderdelen c en e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=33) voor alcoholvrije dranken, pruimtabak of snuiftabak dient binnen drie maanden nadat de goederen hun bestemming hebben bereikt te worden ingediend bij de inspecteur onder wie belanghebbende ressorteert.
+Een verzoek om teruggaaf van belasting als bedoeld in [artikel 33, eerste lid, onderdelen c en e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=33) wordt ingediend uiterlijk drie maanden na afloop van het kalenderkwartaal waarin de alcoholvrije dranken, pruimtabak of snuiftabak hun bestemming hebben bereikt.
 
 ### Hoofdstuk V. Bijzondere bepalingen
 
@@ -398,7 +398,7 @@ Pruimtabak of snuiftabak die door reizigers voor eigen gebruik als bagage wordt 
 
 1. De belastingzegels worden verkrijgbaar gesteld in hoeveelheden van één of meer vellen.
 
-2. Van de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=27&z=2010-01-01&g=2010-01-01) vermelde lint- en sluitzegels zijn twee vellen met een verschillend aantal zegels verkrijgbaar. Het aantal zegels per vel wordt vastgesteld door de G4S Value Services BV na overleg met de desbetreffende organisaties van de tabaksbranche.
+2. Van de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=27&z=2011-01-01&g=2011-01-01) vermelde lint- en sluitzegels zijn twee vellen met een verschillend aantal zegels verkrijgbaar. Het aantal zegels per vel wordt vastgesteld door de G4S Value Services BV na overleg met de desbetreffende organisaties van de tabaksbranche.
 
 ##### Artikel 27
 
@@ -408,9 +408,9 @@ Pruimtabak of snuiftabak die door reizigers voor eigen gebruik als bagage wordt 
 
 ##### Artikel 28
 
-1. Lintzegels bestemd om te worden aangebracht op verpakkingen bevatten vier vakken met rechte hoeken. De twee vakken in het midden zijn bestemd voor de vermelding van de nettomassa en de soort van het tabaksprodukt, van de kleinhandelsprijs en van de naam van degene die de accijnszegels heeft aangevraagd, welke naam in het rechter middenvak wordt vermeld. De in [artikel 28a](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=28a&z=2010-01-01&g=2010-01-01) bedoelde aanduidingen worden opgenomen in de twee opengebleven vakken onder vermelding van het in dat artikel bedoelde besluit.
+1. Lintzegels bestemd om te worden aangebracht op verpakkingen bevatten vier vakken met rechte hoeken. De twee vakken in het midden zijn bestemd voor de vermelding van de nettomassa en de soort van het tabaksprodukt, van de kleinhandelsprijs en van de naam van degene die de accijnszegels heeft aangevraagd, welke naam in het rechter middenvak wordt vermeld. De in [artikel 28a](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=28a&z=2011-01-01&g=2011-01-01) bedoelde aanduidingen worden opgenomen in de twee opengebleven vakken onder vermelding van het in dat artikel bedoelde besluit.
 
-2. De sluitzegels bevatten geen open vakken. De nettomassa en de soort van het tabaksprodukt, alsmede de kleinhandelsprijs worden over het beeld van de zegels heen gedrukt links van de zegelbeeld. De naam van degene die de accijnszegels heeft aangevraagd, wordt opgenomen rechts van het zegelbeeld. De in [artikel 28a](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=28a&z=2010-01-01&g=2010-01-01) bedoelde aanduidingen worden opgenomen boven en onder het zegelbeeld onder vermelding van het in dat artikel bedoelde besluit.
+2. De sluitzegels bevatten geen open vakken. De nettomassa en de soort van het tabaksprodukt, alsmede de kleinhandelsprijs worden over het beeld van de zegels heen gedrukt links van de zegelbeeld. De naam van degene die de accijnszegels heeft aangevraagd, wordt opgenomen rechts van het zegelbeeld. De in [artikel 28a](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=28a&z=2011-01-01&g=2011-01-01) bedoelde aanduidingen worden opgenomen boven en onder het zegelbeeld onder vermelding van het in dat artikel bedoelde besluit.
 
 ##### Artikel 28a
 
@@ -420,7 +420,7 @@ Op de lintzegels en op de sluitzegels mogen op de daarvoor aangewezen plaats aan
 
 1. De inspecteur kan op verzoek van degene die de belastingzegels heeft aangevraagd, toestaan dat op de belastingzegel in plaats van de naam een fabrieks- of handelsmerk of een door het Ministerie van Financiën vastgesteld nummer wordt vermeld.
 
-2. De zegels worden afgeleverd zonder vermelding van de in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=28&z=2010-01-01&g=2010-01-01) bedoelde naam of van het in het eerste lid van dit artikel bedoelde fabrieks- of handelsmerk of nummer. Een van deze vermeldingen moet door degene die de belastingzegels heeft aangevraagd op duidelijke en onuitwisbare wijze worden aangebracht op de daarvoor aangewezen plaats op de zegels.
+2. De zegels worden afgeleverd zonder vermelding van de in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=28&z=2011-01-01&g=2011-01-01) bedoelde naam of van het in het eerste lid van dit artikel bedoelde fabrieks- of handelsmerk of nummer. Een van deze vermeldingen moet door degene die de belastingzegels heeft aangevraagd op duidelijke en onuitwisbare wijze worden aangebracht op de daarvoor aangewezen plaats op de zegels.
 
 3. Door degene die de accijnszegels heeft aangevraagd mag een code worden aangebracht, bestaande uit letters dan wel uit een nummer voorafgegaan door een letter. Deze code dient te worden vermeld op de sluitzegels rechts van het zegelbeeld en op de lintzegels in het rechter middenvak.
 
@@ -440,7 +440,7 @@ Sluitzegels mogen worden gebruikt voor plastic zakken (zogenoemde pouch-verpakki
 
 1. De belastingzegels moeten met kleefstof geheel op de verpakking worden bevestigd en wel zodanig dat de verpakking op de voor opening bestemde plaats of plaatsen niet kan worden geopend zonder dat de belastingzegels worden gescheurd of doorgesneden.
 
-2. De belastingzegels moeten op de verpakking zodanig worden aangebracht dat de op de zegels voorkomende vermeldingen van de hoeveelheid en de soort van het tabaksprodukt, van de kleinhandelsprijs en van de naam van degene die de belastingzegels heeft aangevraagd dan wel het fabrieks- of handelsmerk of het nummer als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=29&z=2010-01-01&g=2010-01-01), duidelijk leesbaar blijven, ook indien de verpakking op de daarvoor bestemde plaats of plaatsen is geopend.
+2. De belastingzegels moeten op de verpakking zodanig worden aangebracht dat de op de zegels voorkomende vermeldingen van de hoeveelheid en de soort van het tabaksprodukt, van de kleinhandelsprijs en van de naam van degene die de belastingzegels heeft aangevraagd dan wel het fabrieks- of handelsmerk of het nummer als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=29&z=2011-01-01&g=2011-01-01), duidelijk leesbaar blijven, ook indien de verpakking op de daarvoor bestemde plaats of plaatsen is geopend.
 
 3. Indien lintzegels voor bepaalde verpakkingen te lang zijn, is inkorting van die zegels geoorloofd tot aan de monogrammen. Indien nog verdere inkorting nodig is, mogen het linkermonogram en het onmiddellijk daarnaast liggende vak tot aan het beeld van de linkerleeuw eveneens worden afgesneden.
 
@@ -452,7 +452,7 @@ Het voor herhaald gebruik ongeschikt maken van een belastingzegel dient te gesch
 
 1. De verpakking van pruimtabak of snuiftabak moet de inhoud geheel omgeven en zonder beschadiging niet anders kunnen worden geopend dan op één of ten hoogste twee daarvoor bestemde en duidelijk herkenbare plaatsen. Het materiaal van de verpakking op de plaats waar de belastingzegel wordt bevestigd, dient zodanig te zijn dat een duurzame bevestiging wordt verkregen.
 
-2. Op de verpakking moeten de soort en de hoeveelheid van de pruimtabak of de snuiftabak worden vermeld, het merk waaronder de pruimtabak of de snuiftabak in de handel wordt gebracht en, ter keuze van degene die de belastingzegels heeft aangevraagd, zijn naam dan wel het fabrieks- of handelsmerk of het nummer als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=29&z=2010-01-01&g=2010-01-01).
+2. Op de verpakking moeten de soort en de hoeveelheid van de pruimtabak of de snuiftabak worden vermeld, het merk waaronder de pruimtabak of de snuiftabak in de handel wordt gebracht en, ter keuze van degene die de belastingzegels heeft aangevraagd, zijn naam dan wel het fabrieks- of handelsmerk of het nummer als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=29&z=2011-01-01&g=2011-01-01).
 
 3. De verpakking mag geen andere voorwerpen bevatten dan pruimtabak of snuiftabak. Evenmin mag de verpakking zodanig van aard en vorm zijn, dat daarmee tevens een later gebruik voor andere doeleinden wordt beoogd.
 
@@ -462,7 +462,7 @@ De verpakking van pruimtabak of snuiftabak waarop belastingzegels worden aangebr
 
 ##### Artikel 36
 
-Pruimtabak en snuiftabak, die binnen Nederland worden gebracht in verpakkingen waarvan de nettomassa afwijkt van hetgeen in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=35&z=2010-01-01&g=2010-01-01) is bepaald, mogen worden voorzien van zegels, mits de voldoening van de belasting plaats heeft naar de op 5 g afgeronde nettomassa, die de werkelijke massa het meest nabij komt en zegels worden gebruikt waarop de nettomassa niet is vermeld doch waarop voor de massa wordt verwezen naar de op de verpakking vermelde nettomassa. In het vak van de belastingzegel wordt alsdan in verticale stand het aantal grammen massa vermeld waarnaar de voldoening van de belasting heeft plaatsgevonden.
+Pruimtabak en snuiftabak, die binnen Nederland worden gebracht in verpakkingen waarvan de nettomassa afwijkt van hetgeen in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=35&z=2011-01-01&g=2011-01-01) is bepaald, mogen worden voorzien van zegels, mits de voldoening van de belasting plaats heeft naar de op 5 g afgeronde nettomassa, die de werkelijke massa het meest nabij komt en zegels worden gebruikt waarop de nettomassa niet is vermeld doch waarop voor de massa wordt verwezen naar de op de verpakking vermelde nettomassa. In het vak van de belastingzegel wordt alsdan in verticale stand het aantal grammen massa vermeld waarnaar de voldoening van de belasting heeft plaatsgevonden.
 
 ##### Artikel 37
 
@@ -486,15 +486,9 @@ Pruimtabak en snuiftabak, die binnen Nederland worden gebracht in verpakkingen w
 
 - c. onder ambtelijk toezicht zijn vernietigd.
 
-2. Het verzoek dient te bevatten de opgaaf van de soort en de hoeveelheid van de belastingzegels en het bedrag aan belasting dat zij vertegenwoordigen.
+2. In de administratie van degene die de belastingzegels heeft aangevraagd worden alle benodigde bescheiden ter staving van het verzoek om teruggaaf opgenomen zoals een ambtelijk relaas van vernietiging of een door G4S Value Services BV verstrekt verrekenbewijs.
 
-3. Het verzoek wordt ingediend:
-
-- a. gelijktijdig met het terugzenden van de belastingzegels;
-
-- b. binnen een maand na het tijdstip van het verloren gaan; of
-
-- c. gelijktijdig met het verzoek tot het onder ambtelijk toezicht vernietigen.
+3. Het verzoek om teruggaaf van belasting wordt ingediend uiterlijk drie maanden na afloop van het kalenderkwartaal waarin de belastingzegels zijn teruggezonden, zijn verloren gegaan of onder ambtelijk toezicht zijn vernietigd.
 
 4. Degene die de belastingzegels heeft aangevraagd, doet van het verloren gaan van de belastingzegel onverwijld mededeling aan de inspecteur onder wie de plaats ressorteert waar de zegels zijn verloren gegaan onder opgaaf van het tijdstip, de plaats en de oorzaak van het verloren gaan.
 
@@ -504,7 +498,7 @@ Pruimtabak en snuiftabak, die binnen Nederland worden gebracht in verpakkingen w
 
 ##### Artikel 40
 
-Tegen overlegging van de in [artikel 39, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=39&z=2010-01-01&g=2010-01-01), bedoelde beschikking aan de inspecteur door wiens bemiddeling de belastingzegels zijn aangevraagd, wordt indien door degene die de belastingzegels heeft aangevraagd op de voet van het in [artikel 35, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=35) van overeenkomstige toepassing verklaarde [artikel 76 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=76) uitstel van betaling geniet, het in de beschikking vermelde bedrag aan belasting, voor zover mogelijk, verrekend met de openstaande bedragen, te beginnen met de jongste post: in andere gevallen geschiedt de teruggaaf door uitbetaling door de ontvanger.
+Tegen overlegging van de in [artikel 39, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=39&z=2011-01-01&g=2011-01-01), bedoelde beschikking aan de inspecteur door wiens bemiddeling de belastingzegels zijn aangevraagd, wordt indien door degene die de belastingzegels heeft aangevraagd op de voet van het in [artikel 35, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=35) van overeenkomstige toepassing verklaarde [artikel 76 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=76) uitstel van betaling geniet, het in de beschikking vermelde bedrag aan belasting, voor zover mogelijk, verrekend met de openstaande bedragen, te beginnen met de jongste post: in andere gevallen geschiedt de teruggaaf door uitbetaling door de ontvanger.
 
 ### Afdeling 2. Controlebepalingen
 
@@ -542,7 +536,13 @@ Tegen overlegging van de in [artikel 39, vijfde lid](https://wetten.overheid.nl/
 
 ##### Artikel 42
 
-Bij een onderzoek genomen monsters worden onderzocht in het Laboratorium van de Belastingdienst.
+Een op grond van [artikel 36 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=36) gevorderd monster wordt:
+
+- a. genomen onder toezicht van de inspecteur of een door hem aangewezen ambtenaar;
+
+- b. zodanig verpakt, dat de identiteit van het monster is gewaarborgd; en
+
+- c. onderzocht in of in opdracht van het Laboratorium van de Belastingdienst met gebruikmaking van internationaal erkende onderzoeksmethoden.
 
 ### Afdeling 3. Overige bepalingen
 
@@ -566,9 +566,9 @@ In afwijking van het in [artikel 40 van de wet](https://wetten.overheid.nl/jci1.
 
 Strafbare feiten zijn:
 
-- a. het overtreden van het in [artikel 29, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=29&z=2010-01-01&g=2010-01-01), bedoelde verbod;
+- a. het overtreden van het in [artikel 29, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=29&z=2011-01-01&g=2011-01-01), bedoelde verbod;
 
-- b. het niet voldoen aan een in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=32&z=2010-01-01&g=2010-01-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=33&z=2010-01-01&g=2010-01-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=35&z=2010-01-01&g=2010-01-01) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=36&z=2010-01-01&g=2010-01-01) opgelegde verplichting.
+- b. het niet voldoen aan een in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=32&z=2011-01-01&g=2011-01-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=33&z=2011-01-01&g=2011-01-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=35&z=2011-01-01&g=2011-01-01) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=V&afdeling=1&artikel=36&z=2011-01-01&g=2011-01-01) opgelegde verplichting.
 
 ### Hoofdstuk VIII. Slotbepalingen
 
@@ -580,7 +580,7 @@ Strafbare feiten zijn:
 
 ## Bijlage
 
-| **Gehalte aan vruchtesap of vruchtenmoes als bedoeld in artikel 6** | **Minimumgehalte aan sap en eventueel aan vruchtenmoes, uitgedrukt in gewichtspercenten van het eindprodukt** |
+| **Gehalte aan vruchtesap of vruchtenmoes, bedoeld in artikel 6** | **Minimumgehalte aan sap en eventueel aan vruchtenmoes, uitgedrukt in gewichtspercenten van het eindprodukt** |
 | --- | --- |
 | **1. Vruchten met zuur sap dat onbewerkt niet geschikt is voor menselijke consumptie** |   |
 | passievruchten (Passiflora edulis) | 25 |
