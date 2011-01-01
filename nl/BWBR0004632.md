@@ -4,7 +4,7 @@ identifier: "BWBR0004632"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-08-01"
-last_updated: "2010-10-10"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004632"
 soort: "AMvB"
@@ -70,7 +70,7 @@ Burgemeester en wethouders ontlenen aan de gemeentelijke basisadministratie pers
 
 ##### Artikel D 1a
 
-1. Ten aanzien van personen die werkelijke woonplaats in de gemeente hebben, niet zijnde personen als bedoeld in [artikel D 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=D&artikel=D_1&z=2010-10-10&g=2010-10-10), en die als kiesgerechtigd in de gemeentelijke administratie worden opgenomen, registreren burgemeester en wethouders de volgende gegevens:
+1. Ten aanzien van personen die werkelijke woonplaats in de gemeente hebben, niet zijnde personen als bedoeld in [artikel D 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=D&artikel=D_1&z=2011-01-01&g=2011-01-01), en die als kiesgerechtigd in de gemeentelijke administratie worden opgenomen, registreren burgemeester en wethouders de volgende gegevens:
 
 - a. de geslachtsnaam;
 
@@ -236,7 +236,7 @@ Nadat de laatste tot de stemming toegelaten kiezer heeft gestemd, wordt de sleuf
 
 ##### Artikel J 9
 
-Indien met toepassing van [artikel J 6 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=J_6) tegelijk met de stemming in het stemlokaal een of meer andere stemmingen plaatsvinden, gelden de [artikelen J 10 tot en met J 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=2&artikel=J_9&z=2010-10-10&g=2010-10-10).
+Indien met toepassing van [artikel J 6 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=J_6) tegelijk met de stemming in het stemlokaal een of meer andere stemmingen plaatsvinden, gelden de [artikelen J 10 tot en met J 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=2&artikel=J_9&z=2011-01-01&g=2011-01-01).
 
 ##### Artikel J 10
 
@@ -404,7 +404,7 @@ Vervallen
 
 ##### Artikel J 28
 
-Indien de stemopneming is geschorst voordat de stembus zou worden geopend, is [artikel J 27, tweede lid en derde lid, aanhef en onder a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=4&artikel=J_27&z=2010-10-10&g=2010-10-10), van overeenkomstige toepassing.
+Indien de stemopneming is geschorst voordat de stembus zou worden geopend, is [artikel J 27, tweede lid en derde lid, aanhef en onder a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=4&artikel=J_27&z=2011-01-01&g=2011-01-01), van overeenkomstige toepassing.
 
 ##### Artikel J 29
 
@@ -420,11 +420,11 @@ Onmiddellijk na de ondertekening van het proces-verbaal wordt dit met de stembus
 
 ##### Artikel J 32
 
-De burgemeester stelt tijdig voor de aanvang van de hervatte zitting de hem ingevolge [artikel J 31](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=4&artikel=J_31&z=2010-10-10&g=2010-10-10) overgegeven stembus, verzegelde pakken en verzegelde enveloppe ter beschikking van het stembureau.
+De burgemeester stelt tijdig voor de aanvang van de hervatte zitting de hem ingevolge [artikel J 31](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=4&artikel=J_31&z=2011-01-01&g=2011-01-01) overgegeven stembus, verzegelde pakken en verzegelde enveloppe ter beschikking van het stembureau.
 
 ##### Artikel J 33
 
-1. In geval van een schorsing als bedoeld in [artikel J 27](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=4&artikel=J_27&z=2010-10-10&g=2010-10-10) opent het stembureau tijdig voor de aanvang van de hervatte stemming de verzegelde pakken en de verzegelde enveloppe en stelt het het aantal biljetten opnieuw vast. Voor deze stemming wordt een andere stembus gebezigd.
+1. In geval van een schorsing als bedoeld in [artikel J 27](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=4&artikel=J_27&z=2011-01-01&g=2011-01-01) opent het stembureau tijdig voor de aanvang van de hervatte stemming de verzegelde pakken en de verzegelde enveloppe en stelt het het aantal biljetten opnieuw vast. Voor deze stemming wordt een andere stembus gebezigd.
 
 2. De hervatte stemming duurt tot eenentwintig uur.
 
@@ -432,11 +432,11 @@ De burgemeester stelt tijdig voor de aanvang van de hervatte zitting de hem inge
 
 ##### Artikel J 34
 
-In geval van een schorsing als bedoeld in [artikel J 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=4&artikel=J_28&z=2010-10-10&g=2010-10-10) opent het stembureau na de aanvang van de hervatte zitting de verzegelde pakken en verzegelde enveloppe en begint het opnieuw met de stemopneming.
+In geval van een schorsing als bedoeld in [artikel J 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=4&artikel=J_28&z=2011-01-01&g=2011-01-01) opent het stembureau na de aanvang van de hervatte zitting de verzegelde pakken en verzegelde enveloppe en begint het opnieuw met de stemopneming.
 
 ##### Artikel J 35
 
-In geval van een schorsing als bedoeld in [artikel J 29](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=4&artikel=J_29&z=2010-10-10&g=2010-10-10) opent het stembureau na de aanvang van de hervatte zitting de verzegelde enveloppe en de stembus en zet het de stemopneming voort.
+In geval van een schorsing als bedoeld in [artikel J 29](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=4&artikel=J_29&z=2011-01-01&g=2011-01-01) opent het stembureau na de aanvang van de hervatte zitting de verzegelde enveloppe en de stembus en zet het de stemopneming voort.
 
 #### § 5. Waarnemers bij de verkiezingen
 
@@ -446,11 +446,11 @@ In geval van een schorsing als bedoeld in [artikel J 29](https://wetten.overheid
 
 2. Een aankondiging als bedoeld in het eerste lid bevat ten minste de volgende informatie:
 
-- a. de termijn, bedoeld in [artikel J 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=5&artikel=J_37&z=2010-10-10&g=2010-10-10), voor het aanmelden van personen, en de verdere procedure die gevolgd moet worden om personen in aanmerking te laten komen als waarnemer;
+- a. de termijn, bedoeld in [artikel J 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=5&artikel=J_37&z=2011-01-01&g=2011-01-01), voor het aanmelden van personen, en de verdere procedure die gevolgd moet worden om personen in aanmerking te laten komen als waarnemer;
 
-- b. de bij de aanmelding te vermelden gegevens, genoemd in [artikel J 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=5&artikel=J_37&z=2010-10-10&g=2010-10-10);
+- b. de bij de aanmelding te vermelden gegevens, genoemd in [artikel J 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=5&artikel=J_37&z=2011-01-01&g=2011-01-01);
 
-- c. de verplichting, bedoeld in [artikel J 37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=5&artikel=J_37&z=2010-10-10&g=2010-10-10), tot overlegging van een afschrift van een geldig paspoort.
+- c. de verplichting, bedoeld in [artikel J 37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=5&artikel=J_37&z=2011-01-01&g=2011-01-01), tot overlegging van een afschrift van een geldig paspoort.
 
 ##### Artikel J 37
 
@@ -492,7 +492,7 @@ De stukken, bedoeld in [artikel M 6, eerste lid, van de Kieswet](https://wetten.
 
 ##### Artikel M 2
 
-Indien burgemeester en wethouders van 's-Gravenhage gebruik hebben gemaakt van hun bevoegdheid, bedoeld in [artikel M 9, tweede lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=M_9), gelden ten aanzien van de extra zittingen van de briefstembureaus voorafgaande aan de dag van de stemming de [artikelen M 3 tot en met M 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=M&artikel=M_3&z=2010-10-10&g=2010-10-10).
+Indien burgemeester en wethouders van 's-Gravenhage gebruik hebben gemaakt van hun bevoegdheid, bedoeld in [artikel M 9, tweede lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=M_9), gelden ten aanzien van de extra zittingen van de briefstembureaus voorafgaande aan de dag van de stemming de [artikelen M 3 tot en met M 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=M&artikel=M_3&z=2011-01-01&g=2011-01-01).
 
 ##### Artikel M 3
 
@@ -534,7 +534,7 @@ Ten minste twee weken vóór de eerste zitting brengen burgemeester en wethouder
 
 ##### Artikel M 7
 
-1. De burgemeester van 's-Gravenhage of een door deze aan te wijzen ambtenaar stelt tijdig voor de aanvang van de stemopneming bedoeld in [artikel N 16a, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=N_16a) de aan hem ingevolge [artikel M 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=M&artikel=M_6&z=2010-10-10&g=2010-10-10), overgedragen stembussen, verzegelde enveloppen en verzoekschriften waarvan de handtekening nog niet vergeleken is, ter beschikking aan de voorzitter van het briefstembureau.
+1. De burgemeester van 's-Gravenhage of een door deze aan te wijzen ambtenaar stelt tijdig voor de aanvang van de stemopneming bedoeld in [artikel N 16a, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=N_16a) de aan hem ingevolge [artikel M 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=M&artikel=M_6&z=2011-01-01&g=2011-01-01), overgedragen stembussen, verzegelde enveloppen en verzoekschriften waarvan de handtekening nog niet vergeleken is, ter beschikking aan de voorzitter van het briefstembureau.
 
 2. Tijdig voor de aanvang van de stemopneming opent het stembureau de verzegelde enveloppen, waarna het vervolgens de stembussen opent.
 
@@ -578,7 +578,7 @@ Vervallen
 
 ##### Artikel N 9
 
-Indien met toepassing van [artikel N 16a van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=N_16a) de briefstembureaus te 's-Gravenhage op de dag van stemming aanvangen met de stemopneming, gelden ten aanzien van de schorsing en hervatting hiervan de[artikelen N 10 tot en met N 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=N&paragraaf=2&artikel=N_10&z=2010-10-10&g=2010-10-10).
+Indien met toepassing van [artikel N 16a van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=N_16a) de briefstembureaus te 's-Gravenhage op de dag van stemming aanvangen met de stemopneming, gelden ten aanzien van de schorsing en hervatting hiervan de[artikelen N 10 tot en met N 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=N&paragraaf=2&artikel=N_10&z=2011-01-01&g=2011-01-01).
 
 ##### Artikel N 10
 
@@ -592,7 +592,7 @@ Onmiddellijk na de ondertekening van het proces-verbaal, wordt dit tezamen met d
 
 ##### Artikel N 12
 
-Zodra de handelingen, bedoeld in de [artikelen M 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=M_10) en [M 11 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=M_11), ten aanzien van alle tijdig binnengekomen retourenveloppen zijn beëindigd, stelt de burgemeester de hem ingevolge [artikel M 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=M&artikel=M_6&z=2010-10-10&g=2010-10-10) overhandigde verzegelde pakken en processen-verbaal van de extra zittingen en het hem ingevolge [artikel N 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=N&paragraaf=2&artikel=N_11&z=2010-10-10&g=2010-10-10) overhandigde proces-verbaal van de stemopneming en de verzegelde pakken met stembiljetten ter beschikking van het stembureau.
+Zodra de handelingen, bedoeld in de [artikelen M 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=M_10) en [M 11 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=M_11), ten aanzien van alle tijdig binnengekomen retourenveloppen zijn beëindigd, stelt de burgemeester de hem ingevolge [artikel M 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=M&artikel=M_6&z=2011-01-01&g=2011-01-01) overhandigde verzegelde pakken en processen-verbaal van de extra zittingen en het hem ingevolge [artikel N 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=N&paragraaf=2&artikel=N_11&z=2011-01-01&g=2011-01-01) overhandigde proces-verbaal van de stemopneming en de verzegelde pakken met stembiljetten ter beschikking van het stembureau.
 
 ##### Artikel N 13
 
@@ -618,7 +618,7 @@ Indien het centraal stembureau ingevolge het bepaalde in [artikel P 21, tweede l
 
 ##### Artikel R 1
 
-De formulieren voor de kandidatenlijsten, bedoeld in [artikel R 1, tweede lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=R_1), en voor de verklaringen, bedoeld in de [artikelen R 7, derde lid, en R 8, vierde lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=R_7), zijn gedurende drie weken vóór en op de dag van de kandidaatstelling verkrijgbaar ter provinciale griffie.
+De formulieren voor de kandidatenlijsten, bedoeld in [artikel R 1, derde lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=R_1), en voor de verklaringen, bedoeld in de [artikelen R 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=R_2), [R 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=R_7), en [R 8, vierde lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=R_8), zijn gedurende drie weken vóór en op de dag van de kandidaatstelling verkrijgbaar bij het centraal stembureau.
 
 ##### Artikel R 2
 
@@ -636,7 +636,7 @@ Achter de voorletters of, indien vermeld, de roepnaam, mag ter aanduiding van he
 
 ##### Artikel Y 1
 
-Ten aanzien van de verkiezing van de leden van het Europese Parlement zijn, voor zover deze afdeling niet anders bepaalt, de bij [afdeling II](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&z=2010-10-10&g=2010-10-10) van dit besluit gestelde bepalingen inzake de verkiezing van de leden van de Tweede Kamer van overeenkomstige toepassing.
+Ten aanzien van de verkiezing van de leden van het Europese Parlement zijn, voor zover deze afdeling niet anders bepaalt, de bij [afdeling II](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&z=2011-01-01&g=2011-01-01) van dit besluit gestelde bepalingen inzake de verkiezing van de leden van de Tweede Kamer van overeenkomstige toepassing.
 
 ##### Artikel Y 1a
 
@@ -644,7 +644,7 @@ De formulieren voor het verzoek, bedoeld in [artikel Y 32, eerste lid, van de Ki
 
 ##### Artikel Y 2
 
-De formulieren voor de kandidatenlijsten en de verklaringen, bedoeld in [artikel H 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=H&artikel=H_1&z=2010-10-10&g=2010-10-10), zijn gedurende drie weken vóór en op de dag van de kandidaatstelling mede verkrijgbaar bij het centraal stembureau voor de verkiezing van de leden van het Europese Parlement.
+De formulieren voor de kandidatenlijsten en de verklaringen, bedoeld in [artikel H 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=H&artikel=H_1&z=2011-01-01&g=2011-01-01), zijn gedurende drie weken vóór en op de dag van de kandidaatstelling mede verkrijgbaar bij het centraal stembureau voor de verkiezing van de leden van het Europese Parlement.
 
 ##### Artikel Y 3
 
@@ -760,19 +760,19 @@ De waarborgsom, bedoeld in [artikel Ya 17](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel Ya 4
 
-1. Afschriften van de processen-verbaal van de in de [artikelen I 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=I_1) en [I 4 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=I_4) bedoelde zittingen, bedoeld in [artikel I 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=I&artikel=I_1&z=2010-10-10&g=2010-10-10), eerste lid, worden, indien het betreft de verkiezing van de leden van de Tweede Kamer, tevens ter inzage gelegd op het bestuurskantoor in Sint Eustatius en Saba. De voorzitter van het hoofdstembureau van kieskring 20 (Bonaire) draagt er zorg voor dat de processen-verbaal daartoe langs elektronische weg ter kennis worden gebracht van de gezaghebbers van Sint Eustatius en Saba.
+1. Afschriften van de processen-verbaal van de in de [artikelen I 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=I_1) en [I 4 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=I_4) bedoelde zittingen, bedoeld in [artikel I 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=I&artikel=I_1&z=2011-01-01&g=2011-01-01), eerste lid, worden, indien het betreft de verkiezing van de leden van de Tweede Kamer, tevens ter inzage gelegd op het bestuurskantoor in Sint Eustatius en Saba. De voorzitter van het hoofdstembureau van kieskring 20 (Bonaire) draagt er zorg voor dat de processen-verbaal daartoe langs elektronische weg ter kennis worden gebracht van de gezaghebbers van Sint Eustatius en Saba.
 
 2. Een afschrift van het proces-verbaal van de in [artikel I 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=I_12) van de Kieswet bedoelde zitting, bedoeld in [artikel I 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=I_1), wordt, indien het betreft de verkiezing van de leden van de Tweede Kamer, tevens ter inzage gelegd op het bestuurskantoor in Bonaire, Sint Eustatius en Saba. De voorzitter van het centraal stembureau draagt er zorg voor dat het proces-verbaal daartoe langs elektronische weg ter kennis wordt gebracht van de gezaghebbers van Bonaire, Sint Eustatius en Saba.
 
-3. Afschriften van de processen-verbaal van de in de [artikelen I 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=I_1), [I 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=I_4) en [I 12 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=I_12) bedoelde zittingen, bedoeld in [artikel I 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=I&artikel=I_1&z=2010-10-10&g=2010-10-10) in samenhang met [artikel Y 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=IV&hoofdstuk=Y&artikel=Y_1&z=2010-10-10&g=2010-10-10), worden, indien het betreft de verkiezing van de leden van het Europees Parlement, tevens ter inzage gelegd op het bestuurskantoor in Bonaire, Sint Eustatius en Saba. De voorzitter van het centraal stembureau draagt er zorg voor dat de processen-verbaal daartoe langs elektronische weg ter kennis worden gebracht van de gezaghebbers van Bonaire, Sint Eustatius en Saba.
+3. Afschriften van de processen-verbaal van de in de [artikelen I 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=I_1), [I 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=I_4) en [I 12 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=I_12) bedoelde zittingen, bedoeld in [artikel I 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=I&artikel=I_1&z=2011-01-01&g=2011-01-01) in samenhang met [artikel Y 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=IV&hoofdstuk=Y&artikel=Y_1&z=2011-01-01&g=2011-01-01), worden, indien het betreft de verkiezing van de leden van het Europees Parlement, tevens ter inzage gelegd op het bestuurskantoor in Bonaire, Sint Eustatius en Saba. De voorzitter van het centraal stembureau draagt er zorg voor dat de processen-verbaal daartoe langs elektronische weg ter kennis worden gebracht van de gezaghebbers van Bonaire, Sint Eustatius en Saba.
 
 ##### Artikel Ya 5
 
-Indien het betreft de verkiezing van de leden van de Tweede Kamer, geschiedt de kennisgeving als bedoeld in [artikel I 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=I&artikel=I_2&z=2010-10-10&g=2010-10-10), tevens in één of meer dag- of nieuwsbladen die verspreid worden in Sint Eustatius en Saba.
+Indien het betreft de verkiezing van de leden van de Tweede Kamer, geschiedt de kennisgeving als bedoeld in [artikel I 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=I&artikel=I_2&z=2011-01-01&g=2011-01-01), tevens in één of meer dag- of nieuwsbladen die verspreid worden in Sint Eustatius en Saba.
 
 ##### Artikel Ya 6
 
-[Artikel Y 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=IV&hoofdstuk=Y&artikel=Y_1a&z=2010-10-10&g=2010-10-10) is niet van toepassing.
+[Artikel Y 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=IV&hoofdstuk=Y&artikel=Y_1a&z=2011-01-01&g=2011-01-01) is niet van toepassing.
 
 ### Afdeling V. Slot- en overgangsbepalingen
 
