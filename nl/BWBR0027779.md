@@ -4,7 +4,7 @@ identifier: "BWBR0027779"
 country: "nl"
 rank: "wet"
 publication_date: "2011-01-01"
-last_updated: "2010-07-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027779"
 soort: "wet"
@@ -69,9 +69,7 @@ Wijzigt de Wet inburgering.
 
 ##### Artikel VII. Eenmalige aanpassing normen en percentage
 
-1. Onze Minister kan de normen en het percentage, genoemd in de [onderdelen H en J van artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0027779&artikel=I&z=2010-07-01&g=2010-07-01) van deze wet eenmalig aanpassen na de datum van inwerkingtreding van deze wet.
-
-2. Dit artikel vervalt zes maanden na zijn inwerkingtreding.
+Vervallen
 
 ##### Artikel VIII. [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
 
@@ -89,8 +87,8 @@ Wijzigt de Wet tegemoetkoming chronisch zieken en gehandicapten.
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. [Artikel I, onderdelen D, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027779&artikel=I&z=2010-07-01&g=2010-07-01), voor wat betreft de verwijzing naar [artikel 33, tweede en derde lid, en O, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026054&artikel=33), werken terug tot en met 1 oktober 2009.
+2. [Artikel I, onderdelen D, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027779&artikel=I&z=2011-01-01&g=2011-01-01), voor wat betreft de verwijzing naar [artikel 33, tweede en derde lid, en O, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026054&artikel=33), werken terug tot en met 1 oktober 2009.
 
-3. De [artikelen VIIIa, onderdelen B, D, E en F](https://wetten.overheid.nl/jci1.3:c:BWBR0027779&artikel=VIIIa&z=2010-07-01&g=2010-07-01), en [VIIIb](https://wetten.overheid.nl/jci1.3:c:BWBR0027779&artikel=VIIIb&z=2010-07-01&g=2010-07-01) werken terug tot en met 1 januari 2010.
+3. De [artikelen VIIIa, onderdelen B, D, E en F](https://wetten.overheid.nl/jci1.3:c:BWBR0027779&artikel=VIIIa&z=2011-01-01&g=2011-01-01), en [VIIIb](https://wetten.overheid.nl/jci1.3:c:BWBR0027779&artikel=VIIIb&z=2011-01-01&g=2011-01-01) werken terug tot en met 1 januari 2010.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
