@@ -4,7 +4,7 @@ identifier: "BWBR0024262"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2008-07-26"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024262"
 soort: "ministeriele-regeling"
@@ -42,9 +42,9 @@ Besluit:
 
 ##### Artikel 1
 
-1. Als normen bedoeld in [artikel 3, tweede lid, van het Warenwetbesluit kinderbedden en -boxen](https://wetten.overheid.nl/jci1.3:c:BWBR0004710&artikel=3) worden aangewezen de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0024262&bijlage=I&z=2008-07-26&g=2008-07-26) bij deze regeling vermelde normen.
+1. Als normen bedoeld in [artikel 3, tweede lid, van het Warenwetbesluit kinderbedden en -boxen](https://wetten.overheid.nl/jci1.3:c:BWBR0004710&artikel=3) worden aangewezen de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0024262&bijlage=I&z=2011-01-01&g=2011-01-01) bij deze regeling vermelde normen.
 
-2. Als nadere eisen voor kinderbedden en -boxen die in de kinderopvang worden gebruikt en voor te gebruiken methoden van onderzoek worden aangewezen de in de [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0024262&bijlage=II&z=2008-07-26&g=2008-07-26) bij deze regeling opgenomen eisen.
+2. Als nadere eisen voor kinderbedden en -boxen die in de kinderopvang worden gebruikt en voor te gebruiken methoden van onderzoek worden aangewezen de in de [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0024262&bijlage=II&z=2011-01-01&g=2011-01-01) bij deze regeling opgenomen eisen.
 
 ##### Artikel 2
 
@@ -60,7 +60,7 @@ Kinderbedden en -boxen die in de kinderopvang in gebruik zijn op het tijdstip va
 
 Deze regeling treedt in werking op de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-## Bijlage I. Bij de Warenwetregeling nadere eisen kinderbedden en -boxen kinderopvang
+## Bijlage I. bij de Warenwetregeling nadere eisen kinderbedden en -boxen kinderopvang
 
 ### **Normen voor kinderbedden en -boxen**
 
