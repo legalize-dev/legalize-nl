@@ -4,7 +4,7 @@ identifier: "BWBR0031040"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-01-01"
-last_updated: "2010-05-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031040"
 soort: "ministeriele-regeling"
@@ -66,8 +66,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel IV
 
 Wijzigt de Uitvoeringsregeling loonbelasting 2011.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V
 
@@ -151,8 +149,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XX
 
 Wijzigt de Uitvoeringsregeling Belastingdienst 2003.
@@ -194,8 +190,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXVII
 
 Wijzigt de Uitvoeringsregeling Belastingwet BES.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXVIII
 
