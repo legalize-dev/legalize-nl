@@ -4,7 +4,7 @@ identifier: "BWBR0034091"
 country: "nl"
 rank: "wet"
 publication_date: "2022-01-01"
-last_updated: "2009-01-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034091"
 soort: "wet"
@@ -148,7 +148,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXVI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Douane- en Accijnswet BES.
 
 ##### Artikel XXVII
 
