@@ -4,7 +4,7 @@ identifier: "BWBR0022751"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2010-01-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022751"
 soort: "wet"
@@ -66,13 +66,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - a. indien de ouder aanspraak heeft voor één kind : € 1011,–;
 
-- b. indien de ouder aanspraak heeft voor twee kinderen: € 1322,–;
+- b. indien de ouder aanspraak heeft voor twee kinderen: € 1322,– per 1 januari 2011: € 1466,–;
 
-- c. indien de ouder aanspraak heeft voor drie kinderen: € 1505,–;
+- c. indien de ouder aanspraak heeft voor drie kinderen: € 1505,– per 1 januari 2011: € 1826,–;
 
-- d. indien de ouder aanspraak heeft voor vier kinderen: € 1611,–;
+- d. indien de ouder aanspraak heeft voor vier kinderen: € 1611,– per 1 januari 2011: € 2110,–;
 
-- e. indien de ouder aanspraak heeft voor meer dan vier kinderen: € 1611,–, verhoogd met zoveel maal € 51,– als het aantal kinderen meer bedraagt dan vier.
+- e. indien de ouder aanspraak heeft voor meer dan vier kinderen: € 1611,–per 1 januari 2011: € 2110,–, verhoogd met zoveel maal € 51,– per 1 januari 2011: € 189,–als het aantal kinderen meer bedraagt dan vier.
 
 3. Een ouder heeft aanspraak op een verhoging van het kindgebonden budget in een berekeningsjaar voor een kind met ingang van de kalendermaand na de maand waarin dat kind de leeftijd van 12 jaar heeft bereikt.
 
@@ -90,11 +90,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 3. Wijziging bedragen
 
-1. Bij het begin van het kalenderjaar worden de bedragen, genoemd in de [artikelen 2, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2009-12-23&g=2010-01-01) en het bedrag van het gezamenlijke toetsingsinkomen, bedoeld in [artikel 2, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2009-12-23&g=2010-01-01) bij ministeriële regeling gewijzigd overeenkomstig de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2).
+1. Bij het begin van het kalenderjaar worden de bedragen, genoemd in de [artikelen 2, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2011-01-01&g=2011-01-01) en het bedrag van het gezamenlijke toetsingsinkomen, bedoeld in [artikel 2, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2011-01-01&g=2011-01-01) bij ministeriële regeling gewijzigd overeenkomstig de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2).
 
 2. Indien er aanleiding is om de bedragen, bedoeld in het eerste lid, te verhogen op een andere wijze dan op grond van het eerste lid, worden de bedragen vastgesteld bij algemene maatregel van bestuur.
 
-3. De overeenkomstig het eerste en tweede lid aangepaste bedragen treden in de plaats van de bedragen, genoemd in [artikel 2, tweede, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2009-12-23&g=2010-01-01).
+3. De overeenkomstig het eerste en tweede lid aangepaste bedragen treden in de plaats van de bedragen, genoemd in [artikel 2, tweede, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2011-01-01&g=2011-01-01).
 
 4. Indien een verhoging als bedoeld in het tweede lid wordt toegepast, vindt deze verhoging plaats nadat het eerste lid toepassing heeft gevonden.
 
@@ -122,15 +122,15 @@ Degene bij wie in het jaar 2006 bij de vaststelling van de verschuldigde inkomst
 
 ##### Artikel 6a. Overgangsbepaling integratie [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438)
 
-1. De bedragen, genoemd in [artikel 2, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2009-12-23&g=2010-01-01), en het bedrag van het gezamenlijk toetsingsinkomen, bedoeld in [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2009-12-23&g=2010-01-01), worden voor het berekeningsjaar 2009 aangepast overeenkomstig de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2).
+1. De bedragen, genoemd in [artikel 2, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2011-01-01&g=2011-01-01), en het bedrag van het gezamenlijk toetsingsinkomen, bedoeld in [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2011-01-01&g=2011-01-01), worden voor het berekeningsjaar 2009 aangepast overeenkomstig de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2).
 
-2. De overeenkomstig het eerste lid voor het berekeningsjaar 2009 aangepaste bedragen treden in de plaats van de bedragen, genoemd in [artikel 2, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2009-12-23&g=2010-01-01).
+2. De overeenkomstig het eerste lid voor het berekeningsjaar 2009 aangepaste bedragen treden in de plaats van de bedragen, genoemd in [artikel 2, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2011-01-01&g=2011-01-01).
 
-3. De verhoging van het kindgebonden budget, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2009-12-23&g=2010-01-01), heeft betrekking op berekeningsjaren vanaf het jaar 2010.
+3. De verhoging van het kindgebonden budget, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2011-01-01&g=2011-01-01), heeft betrekking op berekeningsjaren vanaf het jaar 2010.
 
 ##### Artikel 7. Niet-indexeren bedragen in berekeningsjaren 2010 en 2011
 
-Bij het begin van het jaar 2010 en 2011 worden de bedragen, genoemd in [artikel 2, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2009-12-23&g=2010-01-01), en het bedrag van het gezamenlijke toetsingsinkomen, bedoeld in artikel 2, vierde, vijfde en zesde lid, voor de berekeningsjaren 2010 en 2011 niet gewijzigd overeenkomstig [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=3&z=2009-12-23&g=2010-01-01).
+Bij het begin van het jaar 2010 en 2011 worden de bedragen, genoemd in [artikel 2, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2011-01-01&g=2011-01-01), en het bedrag van het gezamenlijke toetsingsinkomen, bedoeld in artikel 2, vierde, vijfde en zesde lid, voor de berekeningsjaren 2010 en 2011 niet gewijzigd overeenkomstig [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=3&z=2011-01-01&g=2011-01-01).
 
 ##### Artikel 8. Wijziging van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
 
