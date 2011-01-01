@@ -4,7 +4,7 @@ identifier: "BWBR0015252"
 country: "nl"
 rank: "wet"
 publication_date: "2020-01-01"
-last_updated: "2010-10-10"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015252"
 soort: "wet"
@@ -74,7 +74,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - f. gedwongen zwangerschap: de onrechtmatige gevangenschap van een vrouw die onder dwang zwanger is gemaakt, met de opzet de etnische samenstelling van een bevolking te beïnvloeden of andere ernstige schendingen van internationaal recht te plegen;
 
-- g. apartheid: onmenselijke handelingen van een vergelijkbare aard als de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=4&z=2010-10-10&g=2010-10-10), bedoelde handelingen, gepleegd in het kader van een geïnstitutionaliseerd regime van systematische onderdrukking en overheersing door een groep van een bepaald ras van een of meer groepen van een ander ras en begaan met de opzet dat regime in stand te houden.
+- g. apartheid: onmenselijke handelingen van een vergelijkbare aard als de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=4&z=2011-01-01&g=2011-01-01), bedoelde handelingen, gepleegd in het kader van een geïnstitutionaliseerd regime van systematische onderdrukking en overheersing door een groep van een bepaald ras van een of meer groepen van een ander ras en begaan met de opzet dat regime in stand te houden.
 
 2. De uitdrukking ambtenaar heeft in deze wet dezelfde betekenis als in het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854), met dien verstande dat voor de toepassing van de Nederlandse strafwet onder ambtenaar mede wordt begrepen degene die ten dienste van een vreemde staat een openbaar ambt bekleedt.
 
@@ -134,7 +134,7 @@ wordt als schuldig aan genocide gestraft met levenslange gevangenisstraf of tijd
 
 - h. vervolging van een identificeerbare groep of collectiviteit op politieke gronden, omdat deze tot een bepaald ras of een bepaalde nationaliteit behoort, op etnische, culturele of godsdienstige gronden, op grond van geslacht of op andere gronden die universeel zijn erkend als ontoelaatbaar krachtens internationaal recht, in verband met een in dit lid bedoelde handeling of enig ander misdrijf omschreven in deze wet;
 
-- i. gedwongen verdwijning van personen;
+- i. gedwongen verdwijning van een persoon;
 
 - j. apartheid;
 
@@ -148,7 +148,7 @@ wordt als schuldig aan genocide gestraft met levenslange gevangenisstraf of tijd
 
 - c. vervolging: het opzettelijk en in ernstige mate ontnemen van fundamentele rechten in strijd met het internationaal recht op grond van de identiteit van de groep of collectiviteit;
 
-- d. gedwongen verdwijning van personen: het arresteren, gevangen houden of afvoeren van personen door of met de machtiging, ondersteuning of bewilliging van een staat of politieke organisatie, gevolgd door een weigering een dergelijke vrijheidsontneming te erkennen of informatie te verstrekken over het lot of de verblijfplaats van die personen, met de opzet hen langdurig buiten de bescherming van de wet te plaatsen.
+- d. gedwongen verdwijning van een persoon: het arresteren, gevangen houden, afvoeren of elke andere vorm van vrijheidsontneming van een persoon door of met de machtiging, ondersteuning of bewilliging van een staat of politieke organisatie, gevolgd door een weigering een dergelijke vrijheidsontneming te erkennen of informatie te verstrekken over het lot of de verblijfplaats van die persoon of door verhulling van dat lot of die verblijfplaats, waardoor deze buiten de bescherming van de wet wordt geplaatst.
 
 3. Onder «uitroeiing» wordt in dit artikel mede verstaan: het opzettelijk opleggen van levensomstandigheden, onder andere de onthouding van toegang tot voedsel en geneesmiddelen, gericht op de vernietiging van een deel van een bevolking.
 
@@ -360,11 +360,11 @@ wordt gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste der
 
 wordt gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie.
 
-4. [Artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=5&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing op een feit als bedoeld in het derde lid.
+4. [Artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=5&z=2011-01-01&g=2011-01-01), is van overeenkomstige toepassing op een feit als bedoeld in het derde lid.
 
 ##### Artikel 7
 
-1. Hij die zich in het geval van een internationaal of niet-internationaal gewapend conflict schuldig maakt aan een schending van de wetten en gebruiken van de oorlog anders dan bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=5&z=2010-10-10&g=2010-10-10) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=6&z=2010-10-10&g=2010-10-10) wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
+1. Hij die zich in het geval van een internationaal of niet-internationaal gewapend conflict schuldig maakt aan een schending van de wetten en gebruiken van de oorlog anders dan bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=5&z=2011-01-01&g=2011-01-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=6&z=2011-01-01&g=2011-01-01) wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
 
 2. Gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie wordt opgelegd:
 
@@ -376,7 +376,7 @@ wordt gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete v
 
 - d. indien een feit als bedoeld in het eerste lid inhoudt een stad of plaats plunderen, ook wanneer deze bij een aanval wordt ingenomen.
 
-3. [Artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=5&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing op een feit als bedoeld in het eerste lid.
+3. [Artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=5&z=2011-01-01&g=2011-01-01), is van overeenkomstige toepassing op een feit als bedoeld in het eerste lid.
 
 ##### Artikel 8
 
@@ -392,13 +392,13 @@ wordt gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete v
 
 ##### Artikel 9
 
-1. Met gelijke straf als gesteld op de in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&z=2010-10-10&g=2010-10-10) bedoelde feiten wordt gestraft de meerdere die:
+1. Met gelijke straf als gesteld op de in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&z=2011-01-01&g=2011-01-01) bedoelde feiten wordt gestraft de meerdere die:
 
 - a. opzettelijk toelaat dat een aan hem ondergeschikte een zodanig feit begaat;
 
 - b. opzettelijk nalaat maatregelen te nemen, voor zover die nodig zijn en van hem kunnen worden gevergd, indien een aan hem ondergeschikte een zodanig feit heeft gepleegd of voornemens is te plegen.
 
-2. Met een straf van ten hoogste twee derde van het maximum van de hoofdstraffen, gesteld op de in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&z=2010-10-10&g=2010-10-10) bedoelde feiten, wordt gestraft hij die door zijn schuld verzuimt maatregelen te nemen, voor zover die nodig zijn en van hem kunnen worden gevergd, indien een aan hem ondergeschikte, naar hij redelijkerwijs moet vermoeden, een zodanig feit heeft gepleegd of voornemens is te plegen.
+2. Met een straf van ten hoogste twee derde van het maximum van de hoofdstraffen, gesteld op de in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&z=2011-01-01&g=2011-01-01) bedoelde feiten, wordt gestraft hij die door zijn schuld verzuimt maatregelen te nemen, voor zover die nodig zijn en van hem kunnen worden gevergd, indien een aan hem ondergeschikte, naar hij redelijkerwijs moet vermoeden, een zodanig feit heeft gepleegd of voornemens is te plegen.
 
 3. Indien in het geval bedoeld in het tweede lid op het feit levenslange gevangenisstraf is gesteld, wordt gevangenisstraf opgelegd van ten hoogste vijftien jaren.
 
@@ -414,7 +414,7 @@ De in deze wet strafbaar gestelde feiten zijn misdrijven.
 
 2. De ondergeschikte die een in deze wet omschreven misdrijf begaat ter uitvoering van een bevel van een meerdere is niet strafbaar, indien het bevel door de ondergeschikte te goeder trouw als bevoegd gegeven werd beschouwd en de nakoming daarvan binnen de kring van zijn ondergeschiktheid was gelegen.
 
-3. Voor de toepassing van het tweede lid wordt een bevel tot het plegen van genocide of een misdrijf tegen de menselijkheid geacht kennelijk onbevoegd gegeven te zijn.
+3. Voor de toepassing van het tweede lid wordt een bevel tot het plegen van genocide, een misdrijf tegen de menselijkheid of gedwongen verdwijning van een persoon geacht kennelijk onbevoegd gegeven te zijn.
 
 ##### Artikel 12
 
@@ -422,7 +422,7 @@ De misdrijven, omschreven in deze wet, worden voor de toepassing van de [Uitleve
 
 ##### Artikel 13
 
-Ten aanzien van de in deze wet omschreven misdrijven – met uitzondering van de feiten, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=7&z=2010-10-10&g=2010-10-10), en, voor zover met die feiten verband houdend, de feiten, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=3&artikel=9&z=2010-10-10&g=2010-10-10) – verjaart het recht tot strafvordering niet. De [artikelen 76](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=76) en [77d, derde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77d) zijn op die misdrijven niet van toepassing.
+Ten aanzien van de in deze wet omschreven misdrijven – met uitzondering van de feiten, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=7&z=2011-01-01&g=2011-01-01), en, voor zover met die feiten verband houdend, de feiten, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=3&artikel=9&z=2011-01-01&g=2011-01-01) – verjaart het recht tot strafvordering niet. De [artikelen 76](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=76) en [77d, derde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77d) zijn op die misdrijven niet van toepassing.
 
 ##### Artikel 14
 
@@ -466,11 +466,11 @@ De [Uitvoeringswet folteringverdrag](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 ##### Artikel 21
 
-1. Wanneer op het tijdstip van inwerkingtreding van deze wet ter zake van genocide, foltering of een misdrijf dat overeenkomt met een misdrijf als omschreven in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=5&z=2010-10-10&g=2010-10-10), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=6&z=2010-10-10&g=2010-10-10)[of 7 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=7&z=2010-10-10&g=2010-10-10), overeenkomstig het oude recht reeds vervolging is ingesteld bij een andere rechter dan bedoeld in [artikel 15 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=4&artikel=15&z=2010-10-10&g=2010-10-10), wordt de zaak bij dezelfde rechter voortgezet.
+1. Wanneer op het tijdstip van inwerkingtreding van deze wet ter zake van genocide, foltering of een misdrijf dat overeenkomt met een misdrijf als omschreven in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=5&z=2011-01-01&g=2011-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=6&z=2011-01-01&g=2011-01-01)[of 7 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=7&z=2011-01-01&g=2011-01-01), overeenkomstig het oude recht reeds vervolging is ingesteld bij een andere rechter dan bedoeld in [artikel 15 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=4&artikel=15&z=2011-01-01&g=2011-01-01), wordt de zaak bij dezelfde rechter voortgezet.
 
-2. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=4&artikel=13&z=2010-10-10&g=2010-10-10) is mede van toepassing op feiten, strafbaar gesteld in de [Uitvoeringswet folteringverdrag](https://wetten.overheid.nl/jci1.3:c:BWBR0004409) en gepleegd voor het tijdstip van inwerkingtreding van deze wet, tenzij het feit op dat tijdstip reeds is verjaard.
+2. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=4&artikel=13&z=2011-01-01&g=2011-01-01) is mede van toepassing op feiten, strafbaar gesteld in de [Uitvoeringswet folteringverdrag](https://wetten.overheid.nl/jci1.3:c:BWBR0004409) en gepleegd voor het tijdstip van inwerkingtreding van deze wet, tenzij het feit op dat tijdstip reeds is verjaard.
 
-3. [Artikel 16g](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=4a&artikel=16g&z=2010-10-10&g=2010-10-10) is mede van toepassing op feiten, ter uitvoering van het Verdrag tegen foltering en andere wrede, onmenselijke of onterende behandeling of bestraffing ( **Trb.** 1985, 69) strafbaar gesteld op grond van de Nederlands-Antilliaanse strafwet en gepleegd voor het tijdstip van transitie bedoeld in [artikel 1, onder a, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=1), tenzij het feit op dat tijdstip reeds is verjaard.
+3. [Artikel 16g](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=4a&artikel=16g&z=2011-01-01&g=2011-01-01) is mede van toepassing op feiten, ter uitvoering van het Verdrag tegen foltering en andere wrede, onmenselijke of onterende behandeling of bestraffing ( **Trb.** 1985, 69) strafbaar gesteld op grond van de Nederlands-Antilliaanse strafwet en gepleegd voor het tijdstip van transitie bedoeld in [artikel 1, onder a, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=1), tenzij het feit op dat tijdstip reeds is verjaard.
 
 ##### Artikel 22
 
@@ -488,27 +488,53 @@ Onverminderd de overige artikelen van deze paragraaf is deze wet mede van toepas
 
 ##### Artikel 16b
 
-In afwijking van [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=1&artikel=1&z=2010-10-10&g=2010-10-10), heeft de uitdrukking ambtenaar in deze wet dezelfde betekenis als in het Wetboek van Strafrecht BES, met dien verstande dat voor de toepassing van het Wetboek van Strafrecht BES onder ambtenaar mede wordt begrepen degene die ten dienste van een vreemde staat een openbaar ambt bekleedt.
+In afwijking van [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=1&artikel=1&z=2011-01-01&g=2011-01-01), heeft de uitdrukking ambtenaar in deze wet dezelfde betekenis als in het Wetboek van Strafrecht BES, met dien verstande dat voor de toepassing van het Wetboek van Strafrecht BES onder ambtenaar mede wordt begrepen degene die ten dienste van een vreemde staat een openbaar ambt bekleedt.
 
 ##### Artikel 16c
 
-In afwijking van [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=1&artikel=1&z=2010-10-10&g=2010-10-10), hebben de uitdrukkingen samenspanning en zwaar lichamelijk letsel in deze wet dezelfde betekenis als in het Wetboek van Strafrecht BES.
+In afwijking van [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=1&artikel=1&z=2011-01-01&g=2011-01-01), hebben de uitdrukkingen samenspanning en zwaar lichamelijk letsel in deze wet dezelfde betekenis als in het Wetboek van Strafrecht BES.
 
 ##### Artikel 16d
 
-Voor de toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=8&z=2010-10-10&g=2010-10-10) wordt onder de middelen waarvan in het tweede lid, onder a en b, wordt gesproken, verstaan de middelen, bedoeld in artikel 49, eerste lid, onder 2°, van het Wetboek van Strafrecht BES.
+Voor de toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=8&z=2011-01-01&g=2011-01-01) wordt onder de middelen waarvan in het tweede lid, onder a en b, wordt gesproken, verstaan de middelen, bedoeld in artikel 49, eerste lid, onder 2°, van het Wetboek van Strafrecht BES.
 
 ##### Artikel 16e
 
-In [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=4&artikel=13&z=2010-10-10&g=2010-10-10) wordt in plaats van de tweede volzin gelezen: Artikel 78 van het Wetboek van Strafrecht BES is op die misdrijven niet van toepassing.
+In [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=4&artikel=13&z=2011-01-01&g=2011-01-01) wordt in plaats van de tweede volzin gelezen: Artikel 78 van het Wetboek van Strafrecht BES is op die misdrijven niet van toepassing.
 
 ##### Artikel 16f
 
-Voor de toepassing van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=4&artikel=14&z=2010-10-10&g=2010-10-10) wordt in plaats van «het in [artikel 28 vermelde recht, eerste lid, onder 3°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=28) vermelde recht» gelezen: het recht, bedoeld in artikel 32, van het Wetboek van Strafrecht BES.
+Voor de toepassing van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=4&artikel=14&z=2011-01-01&g=2011-01-01) wordt in plaats van «het in [artikel 28 vermelde recht, eerste lid, onder 3°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=28) vermelde recht» gelezen: het recht, bedoeld in artikel 32, van het Wetboek van Strafrecht BES.
 
 ##### Artikel 16g
 
-In afwijking van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=4&artikel=15&z=2010-10-10&g=2010-10-10) neemt het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba kennis van de misdrijven omschreven in deze wet, voor zover het feit is begaan binnen het rechtsgebied van Bonaire, Sint Eustatius en Saba, en behoudens de bevoegdheid van de rechter, aangewezen bij de [Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789). De behandeling vindt plaats door een meervoudige kamer, bestaande uit een lid van het Gemeenschappelijk Hof en twee rechters in de rechtbank te ’s-Gravenhage.
+In afwijking van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=4&artikel=15&z=2011-01-01&g=2011-01-01) neemt het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba kennis van de misdrijven omschreven in deze wet, voor zover het feit is begaan binnen het rechtsgebied van Bonaire, Sint Eustatius en Saba, en behoudens de bevoegdheid van de rechter, aangewezen bij de [Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789). De behandeling vindt plaats door een meervoudige kamer, bestaande uit een lid van het Gemeenschappelijk Hof en twee rechters in de rechtbank te ’s-Gravenhage.
+
+#### § 5. Wijziging van andere wetten
+
+#### § 6. Slotbepalingen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 8a
+
+1. Hij die zich schuldig maakt aan gedwongen verdwijning van een persoon, bedoeld in [artikel 4, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=4&z=2011-01-01&g=2011-01-01), wordt gestraft met een gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie.
+
+2. Indien een feit als bedoeld in het eerste lid:
+
+- a. de dood of zwaar lichamelijk letsel van de persoon ten gevolge heeft dan wel verkrachting inhoudt;
+
+- b. geweldpleging in vereniging tegen een persoon dan wel geweldpleging tegen een zieke of gewonde inhoudt;
+
+- c. een zwangere vrouw, een minderjarige, een persoon met een handicap of een ander bijzonder kwetsbaar persoon betreft;
+
+- d. een groep van personen betreft, wordt de schuldige gestraft met levenslange gevangenisstraf of tijdelijke gevangenisstraf van ten hoogste dertig jaren of geldboete van de zesde categorie.
+
+#### § 3. Uitbreiding van de strafbaarheid
+
+#### § 4. Algemene bepalingen van strafrecht en strafprocesrecht
+
+#### § 4a. Bonaire, Sint Eustatius en Saba
 
 #### § 5. Wijziging van andere wetten
 
