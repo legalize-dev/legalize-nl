@@ -4,7 +4,7 @@ identifier: "BWBR0032208"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2010-01-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032208"
 soort: "wet"
@@ -46,7 +46,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel II
 
@@ -106,7 +106,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet loonbelasting BES.
 
 ##### Artikel XIVa
 
