@@ -4,7 +4,7 @@ identifier: "BWBR0031765"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-27"
-last_updated: "2010-01-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031765"
 soort: "ministeriele-regeling"
@@ -54,15 +54,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 4
 
-1. Het bedrag van de algemene onkostenvergoeding voor het jaar 2008 wordt met 2,5% verhoogd en vastgesteld op het in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&bijlage=1&z=2012-07-11&g=2010-01-01) genoemd bedrag.
+1. Het bedrag van de algemene onkostenvergoeding voor het jaar 2008 wordt met 2,5% verhoogd en vastgesteld op het in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&bijlage=1&z=2012-07-11&g=2011-01-01) genoemd bedrag.
 
-2. Het bedrag van de algemene onkostenvergoeding voor het jaar 2009 wordt met 2,2% verhoogd en vastgesteld op het in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&bijlage=2&z=2012-07-11&g=2010-01-01) genoemd bedrag.
+2. Het bedrag van de algemene onkostenvergoeding voor het jaar 2009 wordt met 2,2% verhoogd en vastgesteld op het in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&bijlage=2&z=2012-07-11&g=2011-01-01) genoemd bedrag.
 
-3. Het bedrag van de algemene onkostenvergoeding voor het jaar 2010 wordt met 0,9% verhoogd en vastgesteld op het in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&bijlage=3&z=2012-07-11&g=2010-01-01) genoemd bedrag.
+3. Het bedrag van de algemene onkostenvergoeding voor het jaar 2010 wordt met 0,9% verhoogd en vastgesteld op het in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&bijlage=3&z=2012-07-11&g=2011-01-01) genoemd bedrag.
 
-4. Het bedrag van de algemene onkostenvergoeding voor het jaar 2011 wordt met 1,1% verhoogd en vastgesteld op het in de bij deze regeling behorende [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&bijlage=4&z=2012-07-11&g=2010-01-01) genoemd bedrag.
+4. Het bedrag van de algemene onkostenvergoeding voor het jaar 2011 wordt met 1,1% verhoogd en vastgesteld op het in de bij deze regeling behorende [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&bijlage=4&z=2012-07-11&g=2011-01-01) genoemd bedrag.
 
-5. Het bedrag van de algemene onkostenvergoeding voor het jaar 2012 wordt met 2,2% verhoogd en vastgesteld op het in de bij deze regeling behorende [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&bijlage=5&z=2012-07-11&g=2010-01-01) genoemd bedrag.
+5. Het bedrag van de algemene onkostenvergoeding voor het jaar 2012 wordt met 2,2% verhoogd en vastgesteld op het in de bij deze regeling behorende [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&bijlage=5&z=2012-07-11&g=2011-01-01) genoemd bedrag.
 
 6. De bedragen van de algemene onkostenvergoeding worden afgerond naar de eerstvolgende euro.
 
@@ -108,7 +108,7 @@ bij de Regeling indexering algemene onkostenvergoeding rechterlijke ambtenaren (
 
 ## Bijlage 4. Algemene onkostenvergoeding voor het jaar 2011
 
-Dit onderdeel is nog niet inwerking getreden
+bij de Regeling indexering algemene onkostenvergoeding rechterlijke ambtenaren ([artikel 7, vijfde lid, van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=7)).
 
 ## Bijlage 5. Algemene onkostenvergoeding voor het jaar 2012
 
