@@ -4,7 +4,7 @@ identifier: "BWBR0002052"
 country: "nl"
 rank: "amvb"
 publication_date: "2011-01-01"
-last_updated: "2002-01-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002052"
 soort: "AMvB"
@@ -54,27 +54,29 @@ Onze Minister: Onze Minister van Welzijn, Volksgezondheid en Cultuur;
 
 de zeeman: de zeeman, bedoeld in [artikel 1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=1);
 
-de Raad: de Pensioen- en Uitkeringsraad, genoemd in [artikel 2 van de Wet op de Pensioen- en Uitkeringsraad](https://wetten.overheid.nl/jci1.3:c:BWBR0004806&artikel=2) (**Stb.** 1990, 324).
+de Raad: de Pensioen- en Uitkeringsraad, bedoeld in [artikel 3 van de Wet uitvoering wetten voor verzetsdeelnemers en oorlogsgetroffenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=3);
+
+de Sociale verzekeringsbank: de Sociale verzekeringsbank, genoemd in [artikel 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=6).
 
 ### Hoofdstuk II. Van het geneeskundig onderzoek
 
 ##### Artikel 2
 
-1. Het geneeskundig onderzoek, bedoeld in [artikel 13 der wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=13), geschiedt door een geneeskundig adviseur, door de Raad aan te wijzen, of diens plaatsvervanger. Indien de Raad zulks nodig oordeelt of de zeeman daartoe het verzoek doet, geschiedt het geneeskundig onderzoek door één of twee artsen, daartoe door de Raad aan te wijzen uit een door hem in overleg met de Stichting 1940-1945 samengestelde lijst van artsen. Indien de verblijfplaats van de te onderzoeken persoon buiten Nederland is gelegen, kan de Raad artsen aanwijzen, die niet voorkomen op genoemde lijst.
+1. Het geneeskundig onderzoek, bedoeld in [artikel 13 der wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=13), geschiedt door een geneeskundig adviseur, door de Raad of de Sociale verzekeringsbank aan te wijzen, of diens plaatsvervanger.
 
-2. Op verzoek van de zeeman wijst de Raad bovendien een andere, door de zeeman gekozen arts aan, die het onderzoek bijwoont of de in het eerste lid bedoelde artsen schriftelijk van advies dient.
+2. Op verzoek van de zeeman wijst de Raad of de Sociale verzekeringsbank bovendien een andere, door de zeeman gekozen arts aan, die het onderzoek bijwoont of de in het eerste lid bedoelde artsen schriftelijk van advies dient.
 
 3. Bij de aanvrage om pensioen voegt de zeeman een omschrijving van de omstandigheden, waaronder de verwonding of verminking, of de ziekten of gebreken, naar zijn mening zijn ontstaan, alsmede van de nadelige gevolgen, welke hij daarvan ondervindt, zo mogelijk gestaafd door bewijsstukken.
 
 ##### Artikel 3
 
-Indien de artsen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002052&hoofdstuk=II&artikel=2&z=2002-01-01&g=2002-01-01), dit voor het uitbrengen van hun rapport nodig achten, is de Raad bevoegd de zeeman voor de tijd van ten hoogste dertien weken in een inrichting ter observatie te doen opnemen.
+Indien de artsen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002052&hoofdstuk=II&artikel=2&z=2011-01-01&g=2011-01-01), dit voor het uitbrengen van hun rapport nodig achten, is de Raad of de Sociale verzekeringsbank bevoegd de zeeman voor de tijd van ten hoogste dertien weken in een inrichting ter observatie te doen opnemen.
 
 ##### Artikel 4
 
-1. De artsen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002052&hoofdstuk=II&artikel=2&z=2002-01-01&g=2002-01-01), brengen zo spoedig mogelijk aan de Raad een met redenen omkleed rapport uit op een daartoe door de Raad vast te stellen formulier.
+1. De artsen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002052&hoofdstuk=II&artikel=2&z=2011-01-01&g=2011-01-01), brengen zo spoedig mogelijk aan de Raad of de Sociale verzekeringsbank een met redenen omkleed rapport uit.
 
-2. Indien het rapport een eerste onderzoek betreft, worden in dat formulier tenminste gevraagd:
+2. Indien het rapport een eerste onderzoek betreft, worden in dat rapport tenminste gevraagd:
 
 - a. een nauwkeurige omschrijving van de waargenomen of uit het onderzoek gebleken verwonding, verminking, ziekten of gebreken;
 
@@ -88,7 +90,7 @@ Indien de artsen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/
 
 - f. medische beoordeling van de omstandigheden, welke op de arbeidsongeschiktheid van invloed zijn.
 
-3. Indien het rapport een onderzoek betreft, verband houdende met vernieuwing of wijziging van buitengewoon pensioen, worden in dat formulier tenminste gevraagd:
+3. Indien het rapport een onderzoek betreft, verband houdende met vernieuwing of wijziging van buitengewoon pensioen, worden in dat rapport tenminste gevraagd:
 
 - a. omstandige mededelingen omtrent de verdere ontwikkeling van de bij het eerste onderzoek waargenomen of gebleken verwonding, verminking, ziekten of gebreken;
 
@@ -102,15 +104,15 @@ Indien de artsen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/
 
 ##### Artikel 5
 
-1. In gevallen, waarin daartoe aanleiding bestaat kan de Raad over het rapport van de artsen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002052&hoofdstuk=II&artikel=2&z=2002-01-01&g=2002-01-01), een rapport van een of meer deskundigen vragen en de zeeman daartoe nogmaals geneeskundig doen onderzoeken of hem voor de tijd van ten hoogste dertien weken in een inrichting ter observatie doen opnemen. Wijkt het gevoelen van deze deskundige of deskundigen af van dat van de artsen, over wier rapport zij werden gehoord, dan wordt het rapport van die deskundige of deskundigen ter kennis gebracht van de artsen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002052&hoofdstuk=II&artikel=2&z=2002-01-01&g=2002-01-01), die de Raad van hun gevoelen nader schriftelijk doen blijken.
+1. In gevallen, waarin daartoe aanleiding bestaat kan de Raad of de Sociale verzekeringsbank over het rapport van de artsen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002052&hoofdstuk=II&artikel=2&z=2011-01-01&g=2011-01-01), een rapport van een of meer deskundigen vragen en de zeeman daartoe nogmaals geneeskundig doen onderzoeken of hem voor de tijd van ten hoogste dertien weken in een inrichting ter observatie doen opnemen. Wijkt het gevoelen van deze deskundige of deskundigen af van dat van de artsen, over wier rapport zij werden gehoord, dan wordt het rapport van die deskundige of deskundigen ter kennis gebracht van de artsen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002052&hoofdstuk=II&artikel=2&z=2011-01-01&g=2011-01-01), die de Raad of de Sociale verzekeringsbank van hun gevoelen nader schriftelijk doen blijken.
 
-2. De Raad is bevoegd bij zijn ingevolge [artikel 22, eerste lid, der wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=22) te nemen beslissing af te wijken van de conclusie, neergelegd in het rapport van de artsen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002052&hoofdstuk=II&artikel=2&z=2002-01-01&g=2002-01-01), en in dat van de deskundige of deskundigen, bedoeld in het eerste lid.
+2. De Raad of de Sociale verzekeringsbank is bevoegd bij zijn ingevolge [artikel 22, eerste lid, der wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=22) te nemen beslissing af te wijken van de conclusie, neergelegd in het rapport van de artsen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002052&hoofdstuk=II&artikel=2&z=2011-01-01&g=2011-01-01), en in dat van de deskundige of deskundigen, bedoeld in het eerste lid.
 
 ##### Artikel 6
 
-1. Voorzover het onderzoek, ingesteld naar het ontstaan, de aard en de gevolgen van verwonding, verminking, ziekten of gebreken, aanleiding zou kunnen geven tot toekenning aan de zeeman van een buitengewoon pensioen, dan wel tot vernieuwing of wijziging van zijn buitengewoon pensioen, wordt door de arts of de artsen, bedoeld in [artikel 2, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002052&hoofdstuk=II&artikel=2&z=2002-01-01&g=2002-01-01) aan de Raad een met redenen omkleed rapport uitgebracht op een door de Raad vast te stellen formulier.
+1. Voorzover het onderzoek, ingesteld naar het ontstaan, de aard en de gevolgen van verwonding, verminking, ziekten of gebreken, aanleiding zou kunnen geven tot toekenning aan de zeeman van een buitengewoon pensioen, dan wel tot vernieuwing of wijziging van zijn buitengewoon pensioen, wordt door de arts of de artsen, bedoeld in [artikel 2, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002052&hoofdstuk=II&artikel=2&z=2011-01-01&g=2011-01-01) aan de Raad of de Sociale verzekeringsbank een met redenen omkleed rapport uitgebracht.
 
-2. Indien het rapport een eerste onderzoek betreft, wordt in dat formulier tenminste een uitspraak gevraagd omtrent:
+2. Indien het rapport een eerste onderzoek betreft, wordt in dat rapport tenminste een uitspraak gevraagd omtrent:
 
 - a. het al dan niet bestaan van arbeidsongeschiktheid, zomede een korte omschrijving van de overwegingen, welke tot die uitspraak hebben geleid;
 
@@ -120,7 +122,7 @@ Indien de artsen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/
 
 - d. de mogelijkheid van toekomstige verandering van het percentage der arbeidsongeschiktheid en van het vermoedelijke tijdstip der verandering.
 
-3. Indien het rapport een onderzoek betreft, verband houdende met vernieuwing of wijziging van buitengewoon pensioen, wordt in dat formulier tenminste gevraagd een uitspraak omtrent:
+3. Indien het rapport een onderzoek betreft, verband houdende met vernieuwing of wijziging van buitengewoon pensioen, wordt in dat rapport tenminste gevraagd een uitspraak omtrent:
 
 - a. het al dan niet bestaan van arbeidsongeschiktheid, zomede een korte omschrijving van de overwegingen, welke tot die uitspraak hebben geleid;
 
@@ -138,11 +140,11 @@ Indien de artsen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/
 
 ##### Artikel 7
 
-1. De vergoeding voor de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002052&hoofdstuk=II&artikel=2&z=2002-01-01&g=2002-01-01), bedoelde arts wordt door de Raad vastgesteld.
+1. De vergoeding voor de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002052&hoofdstuk=II&artikel=2&z=2011-01-01&g=2011-01-01), bedoelde arts wordt door de Sociale verzekeringsbank vastgesteld.
 
-2. Alle kosten van geneeskundige onderzoekingen, inbegrepen de kosten van de door de belanghebbende gekozen arts, en van rapporten, evenals die verbonden aan een observatie, alsmede de, naar het oordeel van de Raad, noodzakelijke reiskosten van de belanghebbende en die van de voor zijn reis benodigde begeleiding naar en van de plaats, waar het geneeskundig onderzoek plaats vindt, komen ten laste van het Rijk; zij worden gedeclareerd bij de Raad.
+2. Alle kosten van geneeskundige onderzoekingen, inbegrepen de kosten van de door de belanghebbende gekozen arts, en van rapporten, evenals die verbonden aan een observatie, alsmede de, naar het oordeel van de Sociale verzekeringsbank, noodzakelijke reiskosten van de belanghebbende en die van de voor zijn reis benodigde begeleiding naar en van de plaats, waar het geneeskundig onderzoek plaats vindt, komen ten laste van het Rijk; zij worden gedeclareerd bij de Sociale verzekeringsbank.
 
-3. Indien de zeeman tengevolge van een geneeskundig onderzoek en/of van een observatie inkomsten derft, wordt hem een vergoeding gegeven. Deze vergoeding wordt, gehoord de zeeman, door de Raad ten laste van het Rijk vastgesteld.
+3. Indien de zeeman tengevolge van een geneeskundig onderzoek en/of van een observatie inkomsten derft, wordt hem een vergoeding gegeven. Deze vergoeding wordt, gehoord de zeeman, door de Sociale verzekeringsbank ten laste van het Rijk vastgesteld.
 
 ### Hoofdstuk IV. Van de geneeskundige behandeling en verpleging
 
@@ -152,7 +154,7 @@ De geneeskundige behandeling en verpleging, als bedoeld in [artikel 3, zesde lid
 
 ##### Artikel 9
 
-1. De kosten van de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002052&hoofdstuk=IV&artikel=8&z=2002-01-01&g=2002-01-01) bedoelde behandeling en verpleging worden slechts vergoed, indien en voor zover de zeeman niet op grond van andere voorschriften of krachtens overeenkomst op volledige of gedeeltelijke vergoeding van die kosten aanspraak kan maken. Daarbij wordt de in het derde lid bedoelde vaste vergoeding niet in aanmerking genomen.
+1. De kosten van de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002052&hoofdstuk=IV&artikel=8&z=2011-01-01&g=2011-01-01) bedoelde behandeling en verpleging worden slechts vergoed, indien en voor zover de zeeman niet op grond van andere voorschriften of krachtens overeenkomst op volledige of gedeeltelijke vergoeding van die kosten aanspraak kan maken. Daarbij wordt de in het derde lid bedoelde vaste vergoeding niet in aanmerking genomen.
 
 2. Behoudens de in het derde lid bedoelde vaste vergoeding wordt de vergoeding voor behandeling en verpleging verleend volgens door Onze Minister te stellen regelen.
 
@@ -164,6 +166,6 @@ Vervallen
 
 ##### Artikel 11
 
-De Raad kan toezicht uitoefenen op de behandeling en verpleging, voor welke de zeeman ingevolge [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002052&hoofdstuk=IV&artikel=9&z=2002-01-01&g=2002-01-01), recht op vergoeding doet gelden. Hij wijst daartoe artsen of een geneeskundig lichaam aan.
+Vervallen
 
 Onze Minister van Verkeer en Waterstaat is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.
