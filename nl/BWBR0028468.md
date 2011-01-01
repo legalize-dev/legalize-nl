@@ -4,7 +4,7 @@ identifier: "BWBR0028468"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2011-10-09"
-last_updated: "2010-10-10"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028468"
 soort: "wet-BES"
@@ -105,11 +105,11 @@ Voor zover in deze wet niet anders is of wordt bepaald geschiedt de uitvoering d
 
 ##### Artikel 9
 
-1. De Gezaghebbers der onderscheiden eilandgebieden zijn gehouden de Nederlanders die overeenkomstig het bepaalde in het [vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=II&artikel=8&z=2010-10-10&g=2010-10-10) ingeschreven behoren te worden, in te schrijven of te doen inschrijven in een dienstplichtregister, waarvan het model door Onze Minister wordt vastgesteld.
+1. De Gezaghebbers der onderscheiden eilandgebieden zijn gehouden de Nederlanders die overeenkomstig het bepaalde in het [vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=II&artikel=8&z=2010-10-10&g=2011-01-01) ingeschreven behoren te worden, in te schrijven of te doen inschrijven in een dienstplichtregister, waarvan het model door Onze Minister wordt vastgesteld.
 
-2. De Nederlanders bedoeld in het eerste lid van het [vorige artikel onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=II&artikel=8&z=2010-10-10&g=2010-10-10) zijn verplicht zich aan te melden voor inschrijving in het dienstplichtregister zodra zij in de daar bedoelde omstandigheden komen te verkeren. De aanmelding kan geschieden door tussenkomst van een daartoe schriftelijk gemachtigde. Zij geschiedt door de wettelijke vertegenwoordiger, indien de aanmeldingsplichtige minderjarig is of onder curatele is gesteld.
+2. De Nederlanders bedoeld in het eerste lid van het [vorige artikel onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=II&artikel=8&z=2010-10-10&g=2011-01-01) zijn verplicht zich aan te melden voor inschrijving in het dienstplichtregister zodra zij in de daar bedoelde omstandigheden komen te verkeren. De aanmelding kan geschieden door tussenkomst van een daartoe schriftelijk gemachtigde. Zij geschiedt door de wettelijke vertegenwoordiger, indien de aanmeldingsplichtige minderjarig is of onder curatele is gesteld.
 
-3. Door of vanwege de Gezaghebbers der onderscheiden eilandgebieden wordt jaarlijks in de maand januari bij Onze Minister ingediend een opgave, bevattende naam, geboortedatum, geboorteplaats en beroep van de personen, die in het afgelopen jaar in het dienstplichtregister zijn ingeschreven, alsmede van de personen, die overeenkomstig het bepaalde in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=II&artikel=10&z=2010-10-10&g=2010-10-10) daaruit zijn afgeschreven.
+3. Door of vanwege de Gezaghebbers der onderscheiden eilandgebieden wordt jaarlijks in de maand januari bij Onze Minister ingediend een opgave, bevattende naam, geboortedatum, geboorteplaats en beroep van de personen, die in het afgelopen jaar in het dienstplichtregister zijn ingeschreven, alsmede van de personen, die overeenkomstig het bepaalde in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=II&artikel=10&z=2010-10-10&g=2011-01-01) daaruit zijn afgeschreven.
 
 4. De in het vorige lid genoemde organen zijn gehouden van alle wijzigingen betreffende inschrijvingen en afschrijvingen onverwijld aantekening in het dienstplichtregister te doen.
 
@@ -121,7 +121,7 @@ Nederlanders worden uit het dienstplichtregister afgeschreven:
 
 - a. bij overlijden;
 
-- b. bij het bereiken van het vijfenveertigste levensjaar, behoudens het geval bedoeld in [artikel 35 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=IX&artikel=35&z=2010-10-10&g=2010-10-10);
+- b. bij het bereiken van het vijfenveertigste levensjaar, behoudens het geval bedoeld in [artikel 35 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=IX&artikel=35&z=2010-10-10&g=2011-01-01);
 
 - c. bij verlies van het Nederlanderschap;
 
@@ -133,7 +133,7 @@ Nederlanders worden uit het dienstplichtregister afgeschreven:
 
 - g. bij blijvende uitsluiting;
 
-- h. bij ontslag uit de werkelijke dienst ingevolge het bepaalde in de [artikelen 35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=IX&artikel=35&z=2010-10-10&g=2010-10-10), en 36a tweede lid [bedoeld zal zijn: de artikelen 35, tweede lid, en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=IX&artikel=36&z=2010-10-10&g=2010-10-10)].
+- h. bij ontslag uit de werkelijke dienst ingevolge het bepaalde in de [artikelen 35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=IX&artikel=35&z=2010-10-10&g=2011-01-01), en 36a tweede lid [bedoeld zal zijn: de artikelen 35, tweede lid, en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=IX&artikel=36&z=2010-10-10&g=2011-01-01)].
 
 ### Hoofdstuk III. Keuring
 
@@ -231,7 +231,7 @@ Vrijstelling wegens persoonlijke onmisbaarheid kan door Onze Minister worden ver
 
 ##### Artikel 18
 
-Vrijstelling om de reden, genoemd in [artikel 15 lid 1 onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=IV&artikel=15&z=2010-10-10&g=2010-10-10), wordt met inachtneming van bij algemene maatregel van bestuur vast te stellen regelen verleend.
+Vrijstelling om de reden, genoemd in [artikel 15 lid 1 onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=IV&artikel=15&z=2010-10-10&g=2011-01-01), wordt met inachtneming van bij algemene maatregel van bestuur vast te stellen regelen verleend.
 
 ##### Artikel 19
 
@@ -247,13 +247,13 @@ Vrijstelling van dienst wegens broederdienst wordt verleend aan de ingeschrevene
 
 1. Onze Minister sluit van de militaire dienst uit degene, die:
 
-- a. onverminderd het bepaalde in [artikel 30, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=VII&artikel=30&z=2010-10-10&g=2010-10-10), in verzekerde bewaring is gesteld, hechtenis of gevangenisstraf ondergaat: voor de duur daarvan;
+- a. onverminderd het bepaalde in [artikel 30, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=VII&artikel=30&z=2010-10-10&g=2011-01-01), in verzekerde bewaring is gesteld, hechtenis of gevangenisstraf ondergaat: voor de duur daarvan;
 
 - b. bij rechterlijke uitspraak in het Koninkrijk is veroordeeld tot een of meer straffen, zwaarder of te zamen zwaarder dan een gevangenisstraf van 6 maanden;
 
 - c. bij rechterlijke uitspraak is ontzet uit het recht om bij de gewapende macht te dienen.
 
-2. Onverminderd het bepaalde in het eerste lid, kan van de dienst worden uitgesloten degene die bij rechterlijk uitspraak is veroordeeld terzake van misdrijven als bedoeld in [artikel 133, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=III&artikel=133&z=2010-10-10&g=2010-10-10), alsmede in de [artikelen 109](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=109) en [139 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=139).
+2. Onverminderd het bepaalde in het eerste lid, kan van de dienst worden uitgesloten degene die bij rechterlijk uitspraak is veroordeeld terzake van misdrijven als bedoeld in [artikel 133, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=III&artikel=133&z=2010-10-10&g=2011-01-01), alsmede in de [artikelen 109](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=109) en [139 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=139).
 
 3. Voor de toepassing van het eerste lid wordt degene, die gratie is verleend, geacht slechts te zijn veroordeeld tot de straf, welke krachtens de gratie op hem blijft rusten of komt te rusten.
 
@@ -287,7 +287,7 @@ Vrijstelling van dienst wegens broederdienst wordt verleend aan de ingeschrevene
 
 - c. in geval van oorlog, oorlogsgevaar of andere buitengewone omstandigheden;
 
-- d. in de gevallen bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=VII&artikel=30&z=2010-10-10&g=2010-10-10).
+- d. in de gevallen bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=VII&artikel=30&z=2010-10-10&g=2011-01-01).
 
 2. De externe dienstplichtige is verplicht tot het vervullen van werkelijke dienst in de gevallen, vermeld in het eerste lid onder b, c en d.
 
@@ -301,7 +301,7 @@ Vrijstelling van dienst wegens broederdienst wordt verleend aan de ingeschrevene
 
 2. Het in het eerste lid bedoelde besluit wordt bekendgemaakt door plaatsing in de Staatscourant.
 
-3. Degenen, die onder de werking van de Schutterijlandsverordening 1940 (P.B. 1940, no. 81), zoals gewijzigd, aan hun dienstplicht hebben voldaan, kunnen slechts worden opgeroepen voor herhalingsoefeningen of ingeval van oorlog, oorlogsgevaar of andere buitengewone omstandigheden overeenkomstig het bepaalde in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=VII&artikel=29&z=2010-10-10&g=2010-10-10). De oproeping geschiedt met inachtneming van de militaire rang welke laatstelijk werd bekleed.
+3. Degenen, die onder de werking van de Schutterijlandsverordening 1940 (P.B. 1940, no. 81), zoals gewijzigd, aan hun dienstplicht hebben voldaan, kunnen slechts worden opgeroepen voor herhalingsoefeningen of ingeval van oorlog, oorlogsgevaar of andere buitengewone omstandigheden overeenkomstig het bepaalde in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=VII&artikel=29&z=2010-10-10&g=2011-01-01). De oproeping geschiedt met inachtneming van de militaire rang welke laatstelijk werd bekleed.
 
 ##### Artikel 26
 
@@ -379,17 +379,17 @@ De dienstplichtige met groot verlof is verplicht om aan door Onze Minister aan t
 
 - f. wegens een in kracht van gewijsde gegaan vonnis dat is gewezen in verband met een feit van zodanige aard, dat, mede gelet op het algemeen gedrag van de militair, diens ontslag in het belang van de dienst noodzakelijk is.
 
-3. Afschrijving uit het dienstplichtregister, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=II&artikel=10&z=2010-10-10&g=2010-10-10) geldt als ontslag uit de dienst.
+3. Afschrijving uit het dienstplichtregister, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=II&artikel=10&z=2010-10-10&g=2011-01-01) geldt als ontslag uit de dienst.
 
 4. In geval van oorlog of oorlogsgevaar of ingeval bedreiging of verstoring van de inwendige orde en rust kan leiden tot wezenlijke aantasting van belangen van het Koninkrijk, kan van het tweede lid worden afgeweken.
 
 ##### Artikel 36
 
-1. Ontslag van een vrijwillig nadienende dienstplichtige om een van de redenen, genoemd in [artikel 35, tweede lid, onderdelen b, c, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=IX&artikel=35&z=2010-10-10&g=2010-10-10), wordt eerst verleend nadat terzake het advies is ingewonnen van een door de Regionaal Bevelhebber ingestelde commissie van onderzoek. Bij ontslag op grond van artikel 35, tweede lid, onderdeel c, geldt het bij of krachtens dit lid bepaalde alleen voor de langdurig vrijwillig nadienende dienstplichtige.
+1. Ontslag van een vrijwillig nadienende dienstplichtige om een van de redenen, genoemd in [artikel 35, tweede lid, onderdelen b, c, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=IX&artikel=35&z=2010-10-10&g=2011-01-01), wordt eerst verleend nadat terzake het advies is ingewonnen van een door de Regionaal Bevelhebber ingestelde commissie van onderzoek. Bij ontslag op grond van artikel 35, tweede lid, onderdeel c, geldt het bij of krachtens dit lid bepaalde alleen voor de langdurig vrijwillig nadienende dienstplichtige.
 
 2. De commissie van onderzoek, bedoeld in het eerste lid, voorziet in de mogelijkheid voor de dienstplichtige die het onderzoek geldt: kennis te nemen van op de zaak betrekking hebbende stukken, zich te doen bijstaan door een raadsman, gehoord te worden en zijn standpunt naar voren te brengen.
 
-3. Ontslag van een langdurig vrijwillig nadienende dienstplichtige om de reden, genoemd in [artikel 35, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=IX&artikel=35&z=2010-10-10&g=2010-10-10), kan slechts plaatsvinden indien naar het oordeel van de Regionaal Bevelhebber na een zorgvuldig onderzoek niet mogelijk gebleken is de militair binnen het krijgsmachtdeel waar hij werkzaam is, een andere, passende, functie toe te wijzen, dan wel indien hij een zodanige functie weigert te aanvaarden. In het onderzoek wordt de mogelijkheid tot bij- of omscholing van de militair betrokken.
+3. Ontslag van een langdurig vrijwillig nadienende dienstplichtige om de reden, genoemd in [artikel 35, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=IX&artikel=35&z=2010-10-10&g=2011-01-01), kan slechts plaatsvinden indien naar het oordeel van de Regionaal Bevelhebber na een zorgvuldig onderzoek niet mogelijk gebleken is de militair binnen het krijgsmachtdeel waar hij werkzaam is, een andere, passende, functie toe te wijzen, dan wel indien hij een zodanige functie weigert te aanvaarden. In het onderzoek wordt de mogelijkheid tot bij- of omscholing van de militair betrokken.
 
 ## Titel II. Rechtstoestand
 
@@ -405,9 +405,9 @@ De dienstplichtige met groot verlof is verplicht om aan door Onze Minister aan t
 
 - c. Regionaal Bevelhebber: de door Onze Minister van Defensie aangewezen commandant der Zeemacht in het Caraibisch gebied;
 
-- d. dienstplichtige: hij die dienstplichtige is in de zin van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=I&artikel=1&z=2010-10-10&g=2010-10-10), met uitzondering van hem op wie de Militaire ambtenarenwet 1931 (Stb. 519) van toepassing is;
+- d. dienstplichtige: hij die dienstplichtige is in de zin van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=I&artikel=1&z=2010-10-10&g=2011-01-01), met uitzondering van hem op wie de Militaire ambtenarenwet 1931 (Stb. 519) van toepassing is;
 
-- e. vrijwillig nadienende dienstplichtige: de dienstplichtige aan wie op grond van [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=VII&artikel=27&z=2010-10-10&g=2010-10-10), is vergund in werkelijke dienst te blijven of te komen;
+- e. vrijwillig nadienende dienstplichtige: de dienstplichtige aan wie op grond van [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=VII&artikel=27&z=2010-10-10&g=2011-01-01), is vergund in werkelijke dienst te blijven of te komen;
 
 - f. tijd van oorlog: oorlog, oorlogsgevaar, alsmede andere buitengewone omstandigheden waarin dienstplichtigen buitengewoon in werkelijke dienst zijn;
 
@@ -443,7 +443,7 @@ De dienstplichtige met groot verlof is verplicht om aan door Onze Minister aan t
 
 1. Aan de aanwijzing op verzoek van de dienstplichtige voor het volgen van een opleiding als bedoeld in het tweede lid van het vorige artikel kunnen, indien hiervoor naar het oordeel van de Regionaal Bevelhebber aanleiding bestaat, door Onze Minister bepaalde voorwaarden worden verbonden, welke hieruit kunnen bestaan, dat aan de dienstplichtige de verplichting wordt opgelegd:
 
-- a. voor de aanvang van de opleiding een verzoek in te dienen hem – met toepassing van [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=VII&artikel=27&z=2010-10-10&g=2010-10-10) – te vergunnen om een door Onze Minister te bepalen tijdsduur in werkelijke dienst door te brengen;
+- a. voor de aanvang van de opleiding een verzoek in te dienen hem – met toepassing van [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=VII&artikel=27&z=2010-10-10&g=2011-01-01) – te vergunnen om een door Onze Minister te bepalen tijdsduur in werkelijke dienst door te brengen;
 
 - b. indien de vergunning, bedoeld onder a, is verleend, gedurende de tijd waarop die vergunning betrekking heeft, in werkelijke dienst te blijven.
 
@@ -451,7 +451,7 @@ De dienstplichtige met groot verlof is verplicht om aan door Onze Minister aan t
 
 ##### Artikel 41
 
-1. Een dienstplichtige die is aangewezen voor het volgen van een opleiding als bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=2&artikel=39&z=2010-10-10&g=2010-10-10), kan daarvan op voordracht van de Regionaal Bevelhebber, door Onze Minister worden ontheven, indien hij niet voldoet aan de bij die opleiding gestelde eisen of indien ontheffing in het belang van de dienst of van de dienstplichtige om andere redenen noodzakelijk is.
+1. Een dienstplichtige die is aangewezen voor het volgen van een opleiding als bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=2&artikel=39&z=2010-10-10&g=2011-01-01), kan daarvan op voordracht van de Regionaal Bevelhebber, door Onze Minister worden ontheven, indien hij niet voldoet aan de bij die opleiding gestelde eisen of indien ontheffing in het belang van de dienst of van de dienstplichtige om andere redenen noodzakelijk is.
 
 2. Wanneer is besloten een dienstplichtige van een opleiding te ontheffen wordt hem dit door Onze Minister, met vermelding van de reden, onverwijld schriftelijk medegedeeld.
 
@@ -465,7 +465,7 @@ De dienstplichtige met groot verlof is verplicht om aan door Onze Minister aan t
 
 ##### Artikel 43
 
-1. Aan de aanwijzing op verzoek voor het volgen van een opleiding als bedoeld in [artikel 39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=2&artikel=39&z=2010-10-10&g=2010-10-10), kan de verplichting worden verbonden tot gehele of gedeeltelijke terugbetaling van hetgeen aan of ten behoeve van de dienstplichtige tijdens of in verband met de opleiding is betaald indien hij wegens omstandigheden die naar het oordeel van de Minster zijn ontstaan door eigen wil of toedoen:
+1. Aan de aanwijzing op verzoek voor het volgen van een opleiding als bedoeld in [artikel 39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=2&artikel=39&z=2010-10-10&g=2011-01-01), kan de verplichting worden verbonden tot gehele of gedeeltelijke terugbetaling van hetgeen aan of ten behoeve van de dienstplichtige tijdens of in verband met de opleiding is betaald indien hij wegens omstandigheden die naar het oordeel van de Minster zijn ontstaan door eigen wil of toedoen:
 
 - a. wordt ontheven van de opleiding;
 
@@ -485,11 +485,11 @@ De dienstplichtige met groot verlof is verplicht om aan door Onze Minister aan t
 
 2. Voor benoeming tot officier en voor bevordering, behoudens bevordering in klasse, is bovendien vereist dat de dienstplichtige in werkelijke dienst blijk* heeft gegeven gezag te kunnen uitoefenen of de aanleg daartoe te bezitten.
 
-3. Benoeming tot officier en bevordering, behoudens bevordering in klasse of buitengewone bevordering als bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=3&paragraaf=1&artikel=50&z=2010-10-10&g=2010-10-10), vinden slechts plaats voor zover in de desbetreffende rang een vacature bestaat.
+3. Benoeming tot officier en bevordering, behoudens bevordering in klasse of buitengewone bevordering als bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=3&paragraaf=1&artikel=50&z=2010-10-10&g=2011-01-01), vinden slechts plaats voor zover in de desbetreffende rang een vacature bestaat.
 
 ##### Artikel 45
 
-1. De dienstplichtige in werkelijke dienst, die een opleiding volgt voor een bepaalde rang kan, in afwijking van de [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=3&paragraaf=3&artikel=58&z=2010-10-10&g=2010-10-10) en [60](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=3&paragraaf=4&artikel=60&z=2010-10-10&g=2010-10-10) tijdens die opleiding op door de Regionaal Bevelhebber te bepalen tijdstippen worden bevorderd tot een klasse of tot een rang, lager dan die waarvoor hij wordt opgeleid.
+1. De dienstplichtige in werkelijke dienst, die een opleiding volgt voor een bepaalde rang kan, in afwijking van de [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=3&paragraaf=3&artikel=58&z=2010-10-10&g=2011-01-01) en [60](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=3&paragraaf=4&artikel=60&z=2010-10-10&g=2011-01-01) tijdens die opleiding op door de Regionaal Bevelhebber te bepalen tijdstippen worden bevorderd tot een klasse of tot een rang, lager dan die waarvoor hij wordt opgeleid.
 
 2. Nadat de in het vorige lid bedoelde dienstplichtige een opleiding voor een rang met gunstige uitslag heeft voltooid, wordt hij, indien hij overigens voldoet aan de in dit hoofdstuk gestelde eisen, op een door de Regionaal Bevelhebber te bepalen tijdstip bevorderd tot die rang.
 
@@ -501,7 +501,7 @@ De dienstplichtige met groot verlof is verplicht om aan door Onze Minister aan t
 
 3. Onze Minister kan met betrekking tot de datum naar orde waarvan dienstplichtigen als in het eerste lid bedoeld in de ranglijst worden vermeld, voor die dienstplichtigen in gunstige zin afwijken van het in dat lid bepaalde ten aanzien van diegene die aanvankelijk voor bevordering is voorbijgegaan wegens:
 
-- a. het verkeren in de omstandigheden, genoemd in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=3&paragraaf=1&artikel=52&z=2010-10-10&g=2010-10-10);
+- a. het verkeren in de omstandigheden, genoemd in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=3&paragraaf=1&artikel=52&z=2010-10-10&g=2011-01-01);
 
 - b. het verkregen in de omstandigheid dat hij om redenen van dienstbelang dan wel wegens een ziekte of een gebrek, verband houdende met de uitoefening van de dienst, niet heeft kunnen voldoen aan een of meer voor bevordering gestelde eisen, doch alleen indien het voorbijgaan voor bevordering uitsluitend aan die omstandigheid te wijten was;
 
@@ -537,11 +537,11 @@ Aan de dienstplichtige in werkelijke dienst kan in het kader van een opleiding e
 
 ##### Artikel 51
 
-1. De dienstplichtige, die wegens een omstandigheid als bedoeld in [artikel 46, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=3&paragraaf=1&artikel=46&z=2010-10-10&g=2010-10-10), niet heeft kunnen voldoen aan een of meer voor bevordering gestelde eisen en uitsluitend op grond daarvan voor bevordering is voorbijgegaan, wordt bevorderd met ingang van de dag waarop hij aan alle eisen voor bevordering heeft voldaan, ook al mocht op die dag in de nieuwe rang geen vacature bestaan.
+1. De dienstplichtige, die wegens een omstandigheid als bedoeld in [artikel 46, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=3&paragraaf=1&artikel=46&z=2010-10-10&g=2011-01-01), niet heeft kunnen voldoen aan een of meer voor bevordering gestelde eisen en uitsluitend op grond daarvan voor bevordering is voorbijgegaan, wordt bevorderd met ingang van de dag waarop hij aan alle eisen voor bevordering heeft voldaan, ook al mocht op die dag in de nieuwe rang geen vacature bestaan.
 
 2. In een geval als bedoeld in het vorige lid, wordt de dienstplichtige tijdelijk bevorderd tot de naasthogere rang voor de tijd die redelijkerwijs nodig is om aan de in het vorige lid bedoelde eisen voor bevordering alsnog te voldoen.
 
-Het bepaalde in het vierde en vijfde lid van [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=3&paragraaf=1&artikel=48&z=2010-10-10&g=2010-10-10) is van overeenkomstige toepassing.
+Het bepaalde in het vierde en vijfde lid van [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=3&paragraaf=1&artikel=48&z=2010-10-10&g=2011-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 52
 
@@ -607,11 +607,11 @@ Bevordering tot de rang van sergeant, sergeant-majoor en adjudant onderofficier 
 
 ##### Artikel 59
 
-1. De dienstplichtige die het is vergund om op grond van [artikel 27, 3de lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=VII&artikel=27&z=2010-10-10&g=2010-10-10) tenminste 1 jaar langer in werkelijke dienst te blijven of te komen legt bij bevordering tot de rang van korporaal de eed of belofte af.
+1. De dienstplichtige die het is vergund om op grond van [artikel 27, 3de lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=VII&artikel=27&z=2010-10-10&g=2011-01-01) tenminste 1 jaar langer in werkelijke dienst te blijven of te komen legt bij bevordering tot de rang van korporaal de eed of belofte af.
 
 2. De eed of belofte wordt zo spoedig mogelijk na bevordering tot de rang van korporaal afgelegd.
 
-3. Het gestelde in [artikel 55, 3de lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=3&paragraaf=2&artikel=55&z=2010-10-10&g=2010-10-10) is van overeenkomstige toepassing.
+3. Het gestelde in [artikel 55, 3de lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=3&paragraaf=2&artikel=55&z=2010-10-10&g=2011-01-01) is van overeenkomstige toepassing.
 
 #### § 4. Manschappen
 
@@ -697,7 +697,7 @@ De vrijwillig nadienende dienstplichtige wordt voor zover betreft de regeling va
 
 ##### Artikel 71
 
-1. Op de dienstplichtige in werkelijke dienst, alsmede op de niet in werkelijke dienst verblijvende dienstplichtige en de gewezen dienstplichtige, die lijden aan een ziekte of een gebrek verband houdende met de uitoefening van de dienst, zijn de regelen betreffende aanspraken en verplichtingen in verband met de gezondheidszorg gegeven bij of krachtens hoofdstuk 7 van het Reglement rechtstoestand dienstplichtigen van overeenkomstige toepassing, echter met uitzondering van het bepaalde bij of krachtens [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=5&artikel=66&z=2010-10-10&g=2010-10-10).
+1. Op de dienstplichtige in werkelijke dienst, alsmede op de niet in werkelijke dienst verblijvende dienstplichtige en de gewezen dienstplichtige, die lijden aan een ziekte of een gebrek verband houdende met de uitoefening van de dienst, zijn de regelen betreffende aanspraken en verplichtingen in verband met de gezondheidszorg gegeven bij of krachtens hoofdstuk 7 van het Reglement rechtstoestand dienstplichtigen van overeenkomstige toepassing, echter met uitzondering van het bepaalde bij of krachtens [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=5&artikel=66&z=2010-10-10&g=2011-01-01).
 
 2. De in het eerste lid bedoelde regelen zijn ook van toepassing, wanneer de dienstplichtige in werkelijke dienst zich anders dan om redenen van dienst buiten Aruba, Curaçao of Sint Maarten of buiten de openbare lichamen Bonaire, Sint Eustatius en Saba bevindt.
 
@@ -831,15 +831,15 @@ hebben aanspraak op vergoeding van gederfde netto-inkomsten over de tijd die zij
 
 ##### Artikel 85a
 
-Het geneeskundig onderzoek tot het vaststellen van blijvende ongeschiktheid als bedoeld in [artikel 35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=IX&artikel=35&z=2010-10-10&g=2010-10-10), geschiedt door de geneeskundige commissie, bedoeld in artikel 14, derde lid, onderdeel a, van de Pensioenwet ambtenaren BES, en in andere gevallen door een of meer geneeskundigen, aan te wijzen door Onze Minister. De nadere regels, bedoeld in het vierde lid van het laatstgenoemde artikel, zijn van toepassing.
+Het geneeskundig onderzoek tot het vaststellen van blijvende ongeschiktheid als bedoeld in [artikel 35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=IX&artikel=35&z=2010-10-10&g=2011-01-01), geschiedt door de geneeskundige commissie, bedoeld in artikel 14, derde lid, onderdeel a, van de Pensioenwet ambtenaren BES, en in andere gevallen door een of meer geneeskundigen, aan te wijzen door Onze Minister. De nadere regels, bedoeld in het vierde lid van het laatstgenoemde artikel, zijn van toepassing.
 
 ##### Artikel 86
 
 1. Onverminderd het tweede lid, zijn op de gewezen dienstplichtige, wiens dienstverband is geëindigd tijdens arbeidsongeschiktheid uit hoofde van een ziekte of gebrek, de bepalingen van [artikel 45A van de Wet materieel ambtenarenrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=45A) van overeenkomstige toepassing, met dien verstande dat hij in zoverre als gewezen ambtenaar in de zin van die wet wordt aangemerkt.
 
-2. De arbeidsongeschiktheid dient te blijken uit een verklaring van de geneeskundige commissie dan wel de geneeskundige of geneeskundigen, bedoeld in [artikel 85a](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=11&artikel=85a&z=2010-10-10&g=2010-10-10), overeenkomstig de in dat artikel gemaakte onderscheidingen.
+2. De arbeidsongeschiktheid dient te blijken uit een verklaring van de geneeskundige commissie dan wel de geneeskundige of geneeskundigen, bedoeld in [artikel 85a](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=11&artikel=85a&z=2010-10-10&g=2011-01-01), overeenkomstig de in dat artikel gemaakte onderscheidingen.
 
-3. Het tweede lid van [artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=11&artikel=85&z=2010-10-10&g=2010-10-10) is van overeenkomstige toepassing.
+3. Het tweede lid van [artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=11&artikel=85&z=2010-10-10&g=2011-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 87
 
@@ -973,7 +973,7 @@ Een proces-verbaal als in dit lid bedoeld kan ook ambtshalve worden opgemaakt.
 
 ##### Artikel 104
 
-1. Onverminderd [artikelen 103, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=12&artikel=103&z=2010-10-10&g=2010-10-10), is de dienstplichtige in werkelijke dienst verplicht Onze Minister onverwijld kennis te geven van elk ongeval dat hem is overkomen, indien:
+1. Onverminderd [artikelen 103, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=12&artikel=103&z=2010-10-10&g=2011-01-01), is de dienstplichtige in werkelijke dienst verplicht Onze Minister onverwijld kennis te geven van elk ongeval dat hem is overkomen, indien:
 
 - a. bij dat ongeval een derde is betrokken en
 
@@ -1029,19 +1029,19 @@ Het is de dienstplichtige in werkelijke dienst verboden bij een eenheid of onder
 
 1. De commissie behandelt haar aangelegenheden onmiddellijk nadat deze – voldoende tijdig – haar zijn toegezonden. Onze Minister wijst voor de behandeling van elke aangelegenheid de ambtenaren aan, die Onze Minister hierbij zullen vertegenwoordigen en brengt dit ter kennis van de voorzitter, die in overleg met deze ambtenaren de vergadering van de commissie belegt.
 
-2. Onverminderd het bepaalde in [artikel 108, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=13&artikel=108&z=2010-10-10&g=2010-10-10), kan op verzoek van de in dat artikel bedoelde vertegenwoordigers de commissie in voorlopige besprekingen met hen treden of aan hen inlichtingen verschaffen.
+2. Onverminderd het bepaalde in [artikel 108, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=13&artikel=108&z=2010-10-10&g=2011-01-01), kan op verzoek van de in dat artikel bedoelde vertegenwoordigers de commissie in voorlopige besprekingen met hen treden of aan hen inlichtingen verschaffen.
 
 ##### Artikel 112
 
-De commissie is gerechtigd Onze Minister voorstellen te doen van onderwerpen van bespreking in de zin van dit hoofdstuk, welke voorstellen op de voet van het bepaalde in [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=13&artikel=108&z=2010-10-10&g=2010-10-10) aan de commissie kunnen worden voorgelegd.
+De commissie is gerechtigd Onze Minister voorstellen te doen van onderwerpen van bespreking in de zin van dit hoofdstuk, welke voorstellen op de voet van het bepaalde in [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=13&artikel=108&z=2010-10-10&g=2011-01-01) aan de commissie kunnen worden voorgelegd.
 
 ##### Artikel 113
 
-Behoudens het bepaalde in [artikel 111, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=13&artikel=111&z=2010-10-10&g=2010-10-10) vergadert de commissie op plaats, dag en uur, door de voorzitter te bepalen.
+Behoudens het bepaalde in [artikel 111, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=13&artikel=111&z=2010-10-10&g=2011-01-01) vergadert de commissie op plaats, dag en uur, door de voorzitter te bepalen.
 
 ##### Artikel 114
 
-1. In overleg met de in [artikel 109, tweede lid of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=13&artikel=109&z=2010-10-10&g=2010-10-10), bedoelde autoriteiten kan de commissie een reglement van orde vaststellen.
+1. In overleg met de in [artikel 109, tweede lid of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=13&artikel=109&z=2010-10-10&g=2011-01-01), bedoelde autoriteiten kan de commissie een reglement van orde vaststellen.
 
 2. De voorzitter doet de secretaris een advies opstellen, bevattende de gevoelens der meerderheid van het in de vergaderingen verhandelde, welk advies met de stukken wordt teruggezonden.
 
@@ -1049,7 +1049,7 @@ Behoudens het bepaalde in [artikel 111, tweede lid](https://wetten.overheid.nl/j
 
 4. Indien de stemmen over een voorstel staken, wordt hetgeen voor en tegen het voorstel is aangevoerd ter kennis van Onze Minister gebracht.
 
-5. Indien een meer of meer leden zulks verlangen, wordt in een advies melding gemaakt van de uitgebrachte stemmen met opgave van aantallen leden die de verenigingen van militairen blijkens de in [artikel 110, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=13&artikel=110&z=2010-10-10&g=2010-10-10), bedoelde kennisgeving onder de dienstplichtigen, waarvoor de commissie is ingesteld, hebben.
+5. Indien een meer of meer leden zulks verlangen, wordt in een advies melding gemaakt van de uitgebrachte stemmen met opgave van aantallen leden die de verenigingen van militairen blijkens de in [artikel 110, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=13&artikel=110&z=2010-10-10&g=2011-01-01), bedoelde kennisgeving onder de dienstplichtigen, waarvoor de commissie is ingesteld, hebben.
 
 6. De adviezen worden zoveel mogelijk uitgebracht binnen de tijd in het verzoek om advies bepaald.
 
@@ -1093,7 +1093,7 @@ De voorzitter doet de secretaris bovendien een verslag opmaken, behelzende ene b
 
 ##### Artikel 116a
 
-Tegen een besluit als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=IX&artikel=35&z=2010-10-10&g=2010-10-10), kan door de vrijwillig nadienende dienstplichtige beroep worden ingesteld bij het Gerecht in Ambtenarenzaken. De Regeling ambtenarenrechtspraak 1951 (P.B. 1951, 134) is van toepassing.
+Tegen een besluit als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=IX&artikel=35&z=2010-10-10&g=2011-01-01), kan door de vrijwillig nadienende dienstplichtige beroep worden ingesteld bij het Gerecht in Ambtenarenzaken. De Regeling ambtenarenrechtspraak 1951 (P.B. 1951, 134) is van toepassing.
 
 ##### Artikel 116b
 
@@ -1151,11 +1151,11 @@ Beklag is niet mogelijk tegen een op beklag genomen beslissing alsmede niet tege
 
 ##### Artikel 117
 
-De op het tijdstip van inwerkingtreding van de landsverordening waarbij [titel II](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&z=2010-10-10&g=2010-10-10) is ingevoerd, vrijwillig nadienende dienstplichtige, aan wie op dat tijdstip of daarna op grond van [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=IX&artikel=35&z=2010-10-10&g=2010-10-10) ontslag uit de dienst is verleend, heeft met ingang van de dag waarop dit ontslag ingaat recht op een maandelijkse overbruggingsuitkering, bij of krachtens de algemene maatregel van bestuur, bedoeld in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=7&artikel=68&z=2010-10-10&g=2010-10-10), te regelen.
+De op het tijdstip van inwerkingtreding van de landsverordening waarbij [titel II](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&z=2010-10-10&g=2011-01-01) is ingevoerd, vrijwillig nadienende dienstplichtige, aan wie op dat tijdstip of daarna op grond van [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=IX&artikel=35&z=2010-10-10&g=2011-01-01) ontslag uit de dienst is verleend, heeft met ingang van de dag waarop dit ontslag ingaat recht op een maandelijkse overbruggingsuitkering, bij of krachtens de algemene maatregel van bestuur, bedoeld in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=7&artikel=68&z=2010-10-10&g=2011-01-01), te regelen.
 
 ##### Artikel 118
 
-De termijn gedurende welke een uitkering op grond van het [vorig artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=15&paragraaf=1&artikel=117&z=2010-10-10&g=2010-10-10) wordt toegekend bedraagt maximaal 120 maanden.
+De termijn gedurende welke een uitkering op grond van het [vorig artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=15&paragraaf=1&artikel=117&z=2010-10-10&g=2011-01-01) wordt toegekend bedraagt maximaal 120 maanden.
 
 ##### Artikel 119
 
@@ -1169,7 +1169,7 @@ Het bedrag van de uitkering is gedurende 12 maanden gelijk aan 90% van de laatst
 
 ##### Artikel 121
 
-Wanneer de belanghebbende op de dag voorafgaande aan het ontslag in het genot is van een suppletie op zijn bezoldiging wordt voor de toepassing van deze overbruggingsuitkering, de laatstgenoten bezoldiging verhoogd met de suppletie, als bedoeld in [artikel 130](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=15&paragraaf=3&artikel=130&z=2010-10-10&g=2010-10-10) met dien verstande dat het bedrag van de uitkering omvat gedurende de eerste 12 maanden 90% van de suppletie, gedurende de daarop volgende 12 maanden 80% van die suppletie en gedurende de daarop volgende 36 maanden 70% van die suppletie.
+Wanneer de belanghebbende op de dag voorafgaande aan het ontslag in het genot is van een suppletie op zijn bezoldiging wordt voor de toepassing van deze overbruggingsuitkering, de laatstgenoten bezoldiging verhoogd met de suppletie, als bedoeld in [artikel 130](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=15&paragraaf=3&artikel=130&z=2010-10-10&g=2011-01-01) met dien verstande dat het bedrag van de uitkering omvat gedurende de eerste 12 maanden 90% van de suppletie, gedurende de daarop volgende 12 maanden 80% van die suppletie en gedurende de daarop volgende 36 maanden 70% van die suppletie.
 
 ##### Artikel 122
 
@@ -1185,7 +1185,7 @@ Indien de belanghebbende tijdens de duur van de uitkering overlijdt eindigt de u
 
 1. De belanghebbende heeft gedurende de tijd waarover hem een overbruggingsuitkering betaalbaar wordt gesteld, aanspraak op kindertoelage en vakantieuitkering op de voet van de regelingen, welke voor hem zouden gelden indien hij nog in werkelijke dienst zou zijn.
 
-2. Voor de berekening van de grootte van de kindertoelage en de vakantieuitkering geldt de laatstgenoten bezoldiging als genoemd in [artikel 120](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=15&paragraaf=1&artikel=120&z=2010-10-10&g=2010-10-10).
+2. Voor de berekening van de grootte van de kindertoelage en de vakantieuitkering geldt de laatstgenoten bezoldiging als genoemd in [artikel 120](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=15&paragraaf=1&artikel=120&z=2010-10-10&g=2011-01-01).
 
 ##### Artikel 125
 
@@ -1193,7 +1193,7 @@ De belanghebbende heeft gedurende de tijd, waarover hem een overbruggingsuitkeri
 
 ##### Artikel 126
 
-Zo spoedig mogelijk na het overlijden van de belanghebbende, aan wie ten tijde van het overlijden een overbruggingsuitkering betaalbaar is gesteld, wordt overeenkomstig het bepaalde in [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=11&artikel=87&z=2010-10-10&g=2010-10-10), een bedrag uitbetaald gelijk aan bedoelde betaalbaar gestelde uitkering vermeerderd met kindertoelage en vakantieuitkering als bedoeld in [artikel 124](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=15&paragraaf=1&artikel=124&z=2010-10-10&g=2010-10-10), over een tijdvak van drie maanden.
+Zo spoedig mogelijk na het overlijden van de belanghebbende, aan wie ten tijde van het overlijden een overbruggingsuitkering betaalbaar is gesteld, wordt overeenkomstig het bepaalde in [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=11&artikel=87&z=2010-10-10&g=2011-01-01), een bedrag uitbetaald gelijk aan bedoelde betaalbaar gestelde uitkering vermeerderd met kindertoelage en vakantieuitkering als bedoeld in [artikel 124](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=15&paragraaf=1&artikel=124&z=2010-10-10&g=2011-01-01), over een tijdvak van drie maanden.
 
 ##### Artikel 127
 
@@ -1213,21 +1213,21 @@ Voor de vrijwillig nadienende dienstplichtige, die op de dag voorafgaand aan die
 
 ##### Artikel 130
 
-1. Aan de vrijwillig nadienende dienstplichtige, die op het tijdstip van inwerkingtreding van de landsverordening waarbij [titel II](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&z=2010-10-10&g=2010-10-10) is ingevoegd, in werkelijke dienst is, zal gedurende de tijd, dat door hem onafgebroken werkelijke dienst wordt verricht, ingeval en voorzover zijn netto Nederlandse militaire inkomsten op de dag, voorafgaande aan dat tijdstip van inwerkingtreding meer bedragen dan de netto bezoldiging, die hij krachtens de voor hem geldende bezoldigingsregeling geniet, het verschil tussen de eerst- en laatstbedoelde inkomsten worden aangevuld, echter met dien verstande, dat bij de toepassing van dit artikellid de eerstbedoelde inkomsten de algemene salarismaatregelen volgen, die voor het Nederlands rijksoverheidspersoneel worden getroffen.
+1. Aan de vrijwillig nadienende dienstplichtige, die op het tijdstip van inwerkingtreding van de landsverordening waarbij [titel II](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&z=2010-10-10&g=2011-01-01) is ingevoegd, in werkelijke dienst is, zal gedurende de tijd, dat door hem onafgebroken werkelijke dienst wordt verricht, ingeval en voorzover zijn netto Nederlandse militaire inkomsten op de dag, voorafgaande aan dat tijdstip van inwerkingtreding meer bedragen dan de netto bezoldiging, die hij krachtens de voor hem geldende bezoldigingsregeling geniet, het verschil tussen de eerst- en laatstbedoelde inkomsten worden aangevuld, echter met dien verstande, dat bij de toepassing van dit artikellid de eerstbedoelde inkomsten de algemene salarismaatregelen volgen, die voor het Nederlands rijksoverheidspersoneel worden getroffen.
 
 2. Bij de bepaling van de in het vorige lid bedoelde suppletie bljven de premie AOV/AWW* en de pensioenbijdrage buiten beschouwing, voorzover deze voor rekening van de belanghebbende komen.
 
-3. De vrijwillig nadienende dienstplichtige, die op het tijdstip van inwerkingtreding van de landsverordening waarbij [titel II](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&z=2010-10-10&g=2010-10-10) in deze landsverordening is ingevoegd, in werkelijke dienst is, behoudt de aanspraak op de vakantie-uitkering, die voor hem bestond op de dag, voorafgaande aan dat tijdstip van inwerkingtreding, indien en voorzover hij geen vakantie-uitkering uit hoofde van hetgeen is bepaald in [artikel 68, tweede lid van titel II](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=7&artikel=68&z=2010-10-10&g=2010-10-10) van deze landsverordening geniet, doch uiterlijk tot het tijdstip van zijn ontslag als dienstplichtige.
+3. De vrijwillig nadienende dienstplichtige, die op het tijdstip van inwerkingtreding van de landsverordening waarbij [titel II](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&z=2010-10-10&g=2011-01-01) in deze landsverordening is ingevoegd, in werkelijke dienst is, behoudt de aanspraak op de vakantie-uitkering, die voor hem bestond op de dag, voorafgaande aan dat tijdstip van inwerkingtreding, indien en voorzover hij geen vakantie-uitkering uit hoofde van hetgeen is bepaald in [artikel 68, tweede lid van titel II](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&hoofdstuk=7&artikel=68&z=2010-10-10&g=2011-01-01) van deze landsverordening geniet, doch uiterlijk tot het tijdstip van zijn ontslag als dienstplichtige.
 
 ##### Artikel 131
 
-De dienstplichtige die op het tijdstip van inwerkingtreding van de landsverordening waarbij [titel II](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&z=2010-10-10&g=2010-10-10) in deze landsverordening is ingevoegd, in werkelijke dienst is, blijft gedurende de tijd dat hij als zodanig werkelijke dienst verricht, aanspraak houden op de bezoldiging waarop hij aanspraak had op de dag voorafgaande aan dat tijdstip van inwerkingtreding.
+De dienstplichtige die op het tijdstip van inwerkingtreding van de landsverordening waarbij [titel II](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&z=2010-10-10&g=2011-01-01) in deze landsverordening is ingevoegd, in werkelijke dienst is, blijft gedurende de tijd dat hij als zodanig werkelijke dienst verricht, aanspraak houden op de bezoldiging waarop hij aanspraak had op de dag voorafgaande aan dat tijdstip van inwerkingtreding.
 
 ## Titel III. Straf- en Slotbepalingen
 
 ##### Artikel 132
 
-1. Met hechtenis van ten hoogste veertien dagen of geldboete van ten hoogste honderdvijftig gulden wordt gestraft, hij die niet voldoet aan een ingevolge [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=I&artikel=5&z=2010-10-10&g=2010-10-10), [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=II&artikel=9&z=2010-10-10&g=2010-10-10), [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=III&artikel=11&z=2010-10-10&g=2010-10-10) en [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=VIII&artikel=33&z=2010-10-10&g=2010-10-10) op hem rustende verplichting.
+1. Met hechtenis van ten hoogste veertien dagen of geldboete van ten hoogste honderdvijftig gulden wordt gestraft, hij die niet voldoet aan een ingevolge [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=I&artikel=5&z=2010-10-10&g=2011-01-01), [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=II&artikel=9&z=2010-10-10&g=2011-01-01), [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=III&artikel=11&z=2010-10-10&g=2011-01-01) en [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=VIII&artikel=33&z=2010-10-10&g=2011-01-01) op hem rustende verplichting.
 
 2. Met gevangenisstraf van ten hoogste twee maanden of geldboete van ten hoogste zeshonderd gulden wordt gestraft hij, die opzettelijk een der in het eerste lid bedoelde feiten pleegt.
 
@@ -1237,13 +1237,13 @@ De dienstplichtige die op het tijdstip van inwerkingtreding van de landsverorden
 
 - a. hij, die ingevolge deze wet voor de werkelijke dienst heeft moeten opkomen en niet verschijnt op de tijd en de plaats, voor zijn verschijning bepaald, tenzij blijkt, dat voor zijn niet verschijning een geldige reden bestond;
 
-- b. hij, die niet voldoet aan de ingevolge [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=VI&artikel=23&z=2010-10-10&g=2010-10-10), op hem rustende verplichting.
+- b. hij, die niet voldoet aan de ingevolge [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=VI&artikel=23&z=2010-10-10&g=2011-01-01), op hem rustende verplichting.
 
 2. Met gevangenisstraf van ten hoogste twee maanden of geldboete van ten hoogste drieduizend gulden wordt gestraft hij, die opzettelijk een der in het eerste lid bedoelde feiten pleegt.
 
 ##### Artikel 134
 
-De feiten bij deze wet strafbaar gesteld, worden als overtreding aangemerkt met uitzondering van die strafbaar gesteld bij de [artikelen 132, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=III&artikel=132&z=2010-10-10&g=2010-10-10), en [133, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=III&artikel=133&z=2010-10-10&g=2010-10-10), die als misdrijven worden aangemerkt.
+De feiten bij deze wet strafbaar gesteld, worden als overtreding aangemerkt met uitzondering van die strafbaar gesteld bij de [artikelen 132, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=III&artikel=132&z=2010-10-10&g=2011-01-01), en [133, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=III&artikel=133&z=2010-10-10&g=2011-01-01), die als misdrijven worden aangemerkt.
 
 ##### Artikel 134a
 
