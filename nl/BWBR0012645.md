@@ -4,7 +4,7 @@ identifier: "BWBR0012645"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-06-27"
-last_updated: "2010-04-28"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012645"
 soort: "AMvB"
@@ -68,9 +68,9 @@ De vreemdeling die tegemoetkoming op grond van [hoofdstuk 3 van de wet](https://
 
 ##### Artikel 3. Nationaliteit voor [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4) en [5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5)
 
-1. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=2&z=2010-04-28&g=2010-04-28) is van overeenkomstige toepassing op de vreemdeling die tegemoetkoming op grond van de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4) of [5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5) aanvraagt, met dien verstande dat de verblijfsvergunning, bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=2&z=2010-04-28&g=2010-04-28), verleend is onder de beperking:
+1. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=2&z=2011-01-01&g=2011-01-01) is van overeenkomstige toepassing op de vreemdeling die tegemoetkoming op grond van de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4) of [5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5) aanvraagt, met dien verstande dat de verblijfsvergunning, bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=2&z=2011-01-01&g=2011-01-01), verleend is onder de beperking:
 
-- a. verband houdend met gezinshereniging of gezinsvorming als bedoeld in [artikel 15 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=15) met een Nederlander of met een vreemdeling als bedoeld in [artikel 2, onderdelen a, b, c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=2&z=2010-04-28&g=2010-04-28), of hiermee verband houdend voortgezet verblijf,
+- a. verband houdend met gezinshereniging of gezinsvorming als bedoeld in [artikel 15 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=15) met een Nederlander of met een vreemdeling als bedoeld in [artikel 2, onderdelen a, b, c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=2&z=2011-01-01&g=2011-01-01), of hiermee verband houdend voortgezet verblijf,
 
 - b. verblijf als alleenstaande minderjarige vreemdeling of hiermee verband houdend voortgezet verblijf,
 
@@ -90,7 +90,7 @@ De vreemdeling die tegemoetkoming op grond van [hoofdstuk 3 van de wet](https://
 
 - b. [hoofdstuk 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5) en ten behoeve van wie of aan wie een tegemoetkoming is verstrekt op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3) of [4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4) of aan wie studiefinanciering is verstrekt ingevolge de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453), of
 
-- c. [hoofdstuk 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5) en houder is van een verblijfsvergunning, bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=2&z=2010-04-28&g=2010-04-28), die verleend is onder de beperking verrichten van arbeid.
+- c. [hoofdstuk 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5) en houder is van een verblijfsvergunning, bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=2&z=2011-01-01&g=2011-01-01), die verleend is onder de beperking verrichten van arbeid.
 
 ##### Artikel 4. Verstrekken van inlichtingen
 
@@ -106,7 +106,7 @@ De vreemdeling die tegemoetkoming op grond van [hoofdstuk 3 van de wet](https://
 
 ### Hoofdstuk 2. Overgangsrecht
 
-##### Artikel 6. Overgangsbepaling [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=2&z=2010-04-28&g=2010-04-28) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=3&z=2010-04-28&g=2010-04-28)
+##### Artikel 6. Overgangsbepaling [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=2&z=2011-01-01&g=2011-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=3&z=2011-01-01&g=2011-01-01)
 
 Degenen die op 31 juli 2001 op grond van het [Besluit tegemoetkoming studiekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0008149) rechtmatig tegemoetkoming ontvingen, voldoen aan de nationaliteitseis, bedoeld in [artikel 2.2, eerste lid, aanhef en onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.2).
 
@@ -165,6 +165,16 @@ die niet het duurzaam verblijfsrecht, bedoeld in artikel 16 van richtlijn 2004/3
 4. De tegemoetkoming wordt toegekend in één bedrag per schooljaar. Indien de aanspraak gedurende een schooljaar ontstaat bestaat de aanspraak uit ééntwaalfde van het bedrag per schooljaar maal het aantal resterende maanden van dat schooljaar.
 
 ### Hoofdstuk 2. Overgangsrecht
+
+### Hoofdstuk 3. Wijzigingen in andere besluiten
+
+### Hoofdstuk 4. Slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 6a. Tijdelijke afwijking [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=5&z=2011-01-01&g=2011-01-01)
+
+[Artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=5&z=2011-01-01&g=2011-01-01), is niet van toepassing in de kalenderjaren 2011 en 2012.
 
 ### Hoofdstuk 3. Wijzigingen in andere besluiten
 
