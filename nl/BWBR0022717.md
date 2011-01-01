@@ -4,7 +4,7 @@ identifier: "BWBR0022717"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2010-07-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022717"
 soort: "AMvB"
@@ -50,7 +50,7 @@ entry_into_force: "2007-10-31"
 
 ##### Artikel 44
 
-1. Voor het deelnemen aan een zitting en het bijwonen van een vergadering van de grondkamer wordt aan de plaatsvervangende voorzitter, de leden, de plaatsvervangende leden en de plaatsvervangende secretaris een vergoeding toegekend van € 67,– per uur per 1 januari 2010: € 72,-.
+1. Voor het deelnemen aan een zitting en het bijwonen van een vergadering van de grondkamer wordt aan de plaatsvervangende voorzitter, de leden, de plaatsvervangende leden en de plaatsvervangende secretaris een vergoeding toegekend van € 67,– per 1 januari 2011: € 73,– per uur.
 
 2. De in het vorige lid bedoelde vergoedingen worden evenwel niet toegekend, indien de daar genoemde personen bij het Rijk of als rechterlijk ambtenaar een bezoldigd ambt bekleden, voor zover Onze Minister van Landbouw, Natuur en Voedselkwaliteit niet anders bepaalt.
 
@@ -60,9 +60,9 @@ entry_into_force: "2007-10-31"
 
 ##### Artikel 45
 
-1. Voor het deelnemen aan een zitting en het bijwonen van een vergadering van de Centrale Grondkamer wordt aan de leden en de plaatsvervangende leden een vergoeding toegekend van € 79,– per 1 januari 2010: € 84,- per uur.
+1. Voor het deelnemen aan een zitting en het bijwonen van een vergadering van de Centrale Grondkamer wordt aan de leden en de plaatsvervangende leden een vergoeding toegekend van € 79,– per 1 januari 2011: € 85,– per uur.
 
-2. Voor het deelnemen aan een zitting en het bijwonen van een vergadering van de Centrale Grondkamer wordt aan de plaatsvervangende griffier een vergoeding toegekend van € 67,– per 1 januari 2010: € 72,- per uur.
+2. Voor het deelnemen aan een zitting en het bijwonen van een vergadering van de Centrale Grondkamer wordt aan de plaatsvervangende griffier een vergoeding toegekend van € 67,– per 1 januari 2011: € 73,– per uur.
 
 3. De in de vorige leden bedoelde vergoedingen worden evenwel niet toegekend indien de aldaar genoemde personen bij het Rijk of als rechterlijk ambtenaar een bezoldigd ambt bekleden, voor zover Onze Minister van Landbouw, Natuur en Voedselkwaliteit niet anders bepaalt.
 
@@ -70,15 +70,15 @@ entry_into_force: "2007-10-31"
 
 ##### Artikel 46
 
-1. Voor het deelnemen aan een bezichtiging ter plaatse wordt aan de leden en de plaatsvervangende leden van de grondkamer een vergoeding van € 67,– per 1 januari 2010: € 72,- per uur toegekend.
+1. Voor het deelnemen aan een bezichtiging ter plaatse wordt aan de leden en de plaatsvervangende leden van de grondkamer een vergoeding van € 67,– per 1 januari 2011: € 73,- per uur toegekend.
 
-2. Voor het deelnemen aan een bezichtiging ter plaatse wordt een vergoeding van € 79,– per 1 januari 2010: € 84,- per uur toegekend aan de leden en de plaatsvervangende leden van de Centrale Grondkamer, behalve als zij als rechterlijk ambtenaar een bezoldigd ambt bekleden.
+2. Voor het deelnemen aan een bezichtiging ter plaatse wordt een vergoeding van € 79,– per 1 januari 2011: € 85,- per uur toegekend aan de leden en de plaatsvervangende leden van de Centrale Grondkamer, behalve als zij als rechterlijk ambtenaar een bezoldigd ambt bekleden.
 
 3. Bij de berekening van het totale aantal uren waarover een vergoeding volgens de voorgaande leden wordt toegekend, vindt afronding naar boven plaats tot een half uur.
 
 ##### Artikel 47
 
-Indien geen bezichtiging als bedoeld in [artikel 46, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=46&z=2010-07-01&g=2010-07-01), plaatsvindt, wordt een vergoeding toegekend van € 2,27 per afgehandeld dossier aan de leden en de plaatsvervangende leden van de grondkamer en de leden en de plaatsvervangende leden van de Centrale Grondkamer, behalve als zij als rechterlijk ambtenaar een bezoldigd ambt bekleden.
+Indien geen bezichtiging als bedoeld in [artikel 46, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=46&z=2011-01-01&g=2011-01-01), plaatsvindt, wordt een vergoeding toegekend van € 2,27 per afgehandeld dossier aan de leden en de plaatsvervangende leden van de grondkamer en de leden en de plaatsvervangende leden van de Centrale Grondkamer, behalve als zij als rechterlijk ambtenaar een bezoldigd ambt bekleden.
 
 ##### Artikel 48
 
@@ -86,17 +86,17 @@ De leden en plaatsvervangende leden van de Centrale Grondkamer die als rechterli
 
 ##### Artikel 49
 
-1. De declaraties van de vergoedingen, bedoeld in de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=44&z=2010-07-01&g=2010-07-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=45&z=2010-07-01&g=2010-07-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=46&z=2010-07-01&g=2010-07-01), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=47&z=2010-07-01&g=2010-07-01) en [48](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=48&z=2010-07-01&g=2010-07-01), worden maandelijks ingediend bij de grondkamer of de Centrale Grondkamer.
+1. De declaraties van de vergoedingen, bedoeld in de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=44&z=2011-01-01&g=2011-01-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=45&z=2011-01-01&g=2011-01-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=46&z=2011-01-01&g=2011-01-01), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=47&z=2011-01-01&g=2011-01-01) en [48](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=48&z=2011-01-01&g=2011-01-01), worden maandelijks ingediend bij de grondkamer of de Centrale Grondkamer.
 
-2. De declaraties van de vergoedingen, bedoeld in de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=44&z=2010-07-01&g=2010-07-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=45&z=2010-07-01&g=2010-07-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=46&z=2010-07-01&g=2010-07-01) en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=47&z=2010-07-01&g=2010-07-01), vermelden de dagen, waarop de in deze artikelen genoemde werkzaamheden zijn verricht en bevatten een verklaring van de voorzitter, dat de declarant de opgegeven werkzaamheden heeft verricht gedurende de daarbij opgegeven tijdsduur.
+2. De declaraties van de vergoedingen, bedoeld in de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=44&z=2011-01-01&g=2011-01-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=45&z=2011-01-01&g=2011-01-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=46&z=2011-01-01&g=2011-01-01) en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=47&z=2011-01-01&g=2011-01-01), vermelden de dagen, waarop de in deze artikelen genoemde werkzaamheden zijn verricht en bevatten een verklaring van de voorzitter, dat de declarant de opgegeven werkzaamheden heeft verricht gedurende de daarbij opgegeven tijdsduur.
 
-3. De declaraties van de vergoedingen, bedoeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=48&z=2010-07-01&g=2010-07-01), worden voorzien van een verklaring van de voorzitter, dat de gemaakte reizen noodzakelijk waren voor de in de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=44&z=2010-07-01&g=2010-07-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=45&z=2010-07-01&g=2010-07-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=46&z=2010-07-01&g=2010-07-01) en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=47&z=2010-07-01&g=2010-07-01) genoemde werkzaamheden.
+3. De declaraties van de vergoedingen, bedoeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=48&z=2011-01-01&g=2011-01-01), worden voorzien van een verklaring van de voorzitter, dat de gemaakte reizen noodzakelijk waren voor de in de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=44&z=2011-01-01&g=2011-01-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=45&z=2011-01-01&g=2011-01-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=46&z=2011-01-01&g=2011-01-01) en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=47&z=2011-01-01&g=2011-01-01) genoemde werkzaamheden.
 
 4. De in de vorige leden bedoelde verklaringen kunnen ook worden afgegeven door de secretaris of de griffier, indien deze daartoe door de grondkamer onderscheidenlijk de Centrale Grondkamer zijn gemachtigd.
 
 ##### Artikel 49a
 
-1. De vergoedingen, bedoeld in de artikelen de [artikelen 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=44&z=2010-07-01&g=2010-07-01), [45, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=45&z=2010-07-01&g=2010-07-01), en [46, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=46&z=2010-07-01&g=2010-07-01), worden jaarlijks per 1 januari aangepast aan de mate waarin het prijspeil in de periode van 1 juli in het voorafgaande jaar tot en met 1 juli van het daaraan voorafgaande jaar gemiddeld is gestegen volgens de Consumentenprijsindex voor alle huishoudens zoals gepubliceerd door het Centraal Bureau voor de Statistiek. De bedragen worden afgerond op hele euro’s.
+1. De vergoedingen, bedoeld in de artikelen de [artikelen 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=44&z=2011-01-01&g=2011-01-01), [45, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=45&z=2011-01-01&g=2011-01-01), en [46, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=4&artikel=46&z=2011-01-01&g=2011-01-01), worden jaarlijks per 1 januari aangepast aan de mate waarin het prijspeil in de periode van 1 juli in het voorafgaande jaar tot en met 1 juli van het daaraan voorafgaande jaar gemiddeld is gestegen volgens de Consumentenprijsindex voor alle huishoudens zoals gepubliceerd door het Centraal Bureau voor de Statistiek. De bedragen worden afgerond op hele euro’s.
 
 2. Onze Minister van Landbouw, Natuur en Voedselkwaliteit maakt de aanpassing, bedoeld in het eerste lid, uiterlijk 1 oktober van het voorgaande jaar bekend in de Staatscourant.
 
@@ -158,11 +158,11 @@ De hoogst toelaatbare vergoeding is die welke de grondkamer voor elk geval afzon
 
 ##### Artikel 3
 
-De hoogst toelaatbare vergoeding voor een verplichting als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=1&artikel=4&z=2010-07-01&g=2010-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=1&artikel=5&z=2010-07-01&g=2010-07-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=1&artikel=6&z=2010-07-01&g=2010-07-01) is de uitkomst van de vermenigvuldiging van de in de onderscheiden artikelen bij die verplichting aangegeven factor, met de voor elk geval afzonderlijk van toepassing zijnde hoogst toelaatbare pachtprijs van het land zonder woningen of andere opstallen, vastgesteld volgens het [Pachtprijzenbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022448).
+De hoogst toelaatbare vergoeding voor een verplichting als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=1&artikel=4&z=2011-01-01&g=2011-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=1&artikel=5&z=2011-01-01&g=2011-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=1&artikel=6&z=2011-01-01&g=2011-01-01) is de uitkomst van de vermenigvuldiging van de in de onderscheiden artikelen bij die verplichting aangegeven factor, met de voor elk geval afzonderlijk van toepassing zijnde hoogst toelaatbare pachtprijs van het land zonder woningen of andere opstallen, vastgesteld volgens het [Pachtprijzenbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022448).
 
 ##### Artikel 4
 
-De factor, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=1&artikel=3&z=2010-07-01&g=2010-07-01), bedraagt voor de navolgende in een pachtovereenkomst op te nemen verplichtingen ter zake van een beperking van de mestgift:
+De factor, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=1&artikel=3&z=2011-01-01&g=2011-01-01), bedraagt voor de navolgende in een pachtovereenkomst op te nemen verplichtingen ter zake van een beperking van de mestgift:
 
 | (Mestgift) Bemestingsniveau (per ha/jaar) | Factor |
 | --- | --- |
@@ -174,7 +174,7 @@ De factor, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR002271
 
 ##### Artikel 5
 
-De factor, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=1&artikel=3&z=2010-07-01&g=2010-07-01), bedraagt voor de navolgende in een pachtovereenkomst op te nemen verplichtingen ter zake van het uitstellen van de eerste maai- en weidedatum:
+De factor, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=1&artikel=3&z=2011-01-01&g=2011-01-01), bedraagt voor de navolgende in een pachtovereenkomst op te nemen verplichtingen ter zake van het uitstellen van de eerste maai- en weidedatum:
 
 | Eerste maai- en weidedatum | Factor |
 | --- | --- |
@@ -184,11 +184,11 @@ De factor, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR002271
 
 ##### Artikel 6
 
-Voor één of meer overige in een pachtovereenkomst op te nemen verplichtingen waarin niet is voorzien in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=1&artikel=4&z=2010-07-01&g=2010-07-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=1&artikel=5&z=2010-07-01&g=2010-07-01) bedraagt de factor, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=1&artikel=3&z=2010-07-01&g=2010-07-01), in totaal 0,23.
+Voor één of meer overige in een pachtovereenkomst op te nemen verplichtingen waarin niet is voorzien in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=1&artikel=4&z=2011-01-01&g=2011-01-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=1&artikel=5&z=2011-01-01&g=2011-01-01) bedraagt de factor, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=1&artikel=3&z=2011-01-01&g=2011-01-01), in totaal 0,23.
 
 ##### Artikel 7
 
-In geval van opname in een pachtovereenkomst van meerdere verplichtingen als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=1&artikel=4&z=2010-07-01&g=2010-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=1&artikel=5&z=2010-07-01&g=2010-07-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=1&artikel=6&z=2010-07-01&g=2010-07-01), geldt de hoogste van de in die artikelen bij deze verplichtingen aangegeven factoren als de factor, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=1&artikel=3&z=2010-07-01&g=2010-07-01).
+In geval van opname in een pachtovereenkomst van meerdere verplichtingen als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=1&artikel=4&z=2011-01-01&g=2011-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=1&artikel=5&z=2011-01-01&g=2011-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=1&artikel=6&z=2011-01-01&g=2011-01-01), geldt de hoogste van de in die artikelen bij deze verplichtingen aangegeven factoren als de factor, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=1&artikel=3&z=2011-01-01&g=2011-01-01).
 
 #### Paragraaf 1. Rechtsgebied grondkamers
 
@@ -230,33 +230,33 @@ De grondkamers hebben als standplaats Deventer.
 
 - c. herziening van de tegenprestatie,
 
-wordt een recht geheven van 5% van de jaarlijkse door de grondkamer goedgekeurde, gewijzigde of herziene tegenprestatie, met een minimum van € 89,– per 1 januari 2010: € 91,-en een maximum van € 380,– per 1 januari 2010: € 389,-.
+wordt een recht geheven van 5% van de jaarlijkse door de grondkamer goedgekeurde, gewijzigde of herziene tegenprestatie, met een minimum van € 89,– per 1 januari 2011: € 92,– en een maximum van € 380,– per 1 januari 2011: € 392,–.
 
 2. Onder «tegenprestatie» wordt in het eerste lid verstaan de tegenprestatie, bedoeld in [artikel 333 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=333).
 
 ##### Artikel 13
 
-Indien binnen twee maanden nadat een ontwerp-pachtovereenkomst of een ontwerp-overeenkomst tot wijziging van een pachtovereenkomst is goedgekeurd een overeenkomst wordt ingezonden, die gelijk is aan de reeds goedgekeurde ontwerp-overeenkomst, wordt voor de behandeling van een verzoek tot goedkeuring daarvan een recht geheven van € 89,– per 1 januari 2010: € 91,-.
+Indien binnen twee maanden nadat een ontwerp-pachtovereenkomst of een ontwerp-overeenkomst tot wijziging van een pachtovereenkomst is goedgekeurd een overeenkomst wordt ingezonden, die gelijk is aan de reeds goedgekeurde ontwerp-overeenkomst, wordt voor de behandeling van een verzoek tot goedkeuring daarvan een recht geheven van € 89,– per 1 januari 2011: € 92,–.
 
 ##### Artikel 14
 
-In geval van toetsing van een pachtovereenkomst of van een overeenkomst tot wijziging van een pachtovereenkomst op grond van [artikel 321, vierde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=321), is [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=2&artikel=12&z=2010-07-01&g=2010-07-01) van overeenkomstige toepassing, met dien verstande, dat het recht verschuldigd is door degene, die de schriftelijke vastlegging, bedoeld in [artikel 317, tweede lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=317), heeft gevorderd.
+In geval van toetsing van een pachtovereenkomst of van een overeenkomst tot wijziging van een pachtovereenkomst op grond van [artikel 321, vierde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=321), is [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=2&artikel=12&z=2011-01-01&g=2011-01-01) van overeenkomstige toepassing, met dien verstande, dat het recht verschuldigd is door degene, die de schriftelijke vastlegging, bedoeld in [artikel 317, tweede lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=317), heeft gevorderd.
 
 ##### Artikel 15
 
-Voor de behandeling van een verzoek als bedoeld in [artikel 379, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=379) wordt een recht geheven van € 579,– per 1 januari 2010: € 592,-.
+Voor de behandeling van een verzoek als bedoeld in [artikel 379, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=379) wordt een recht geheven van € 579,– per 1 januari 2011: € 597,–.
 
 ##### Artikel 16
 
-Voor de behandeling van een aanvraag voor een machtiging als bedoeld in de [artikelen 348, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=348), en [354, derde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=354), van verzoeken als bedoeld in de [artikelen 380, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=380), en [381, tweede lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=381), alsmede van een verzoek tot goedkeuring als bedoeld in [artikel 399e van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=399e) wordt een recht geheven van € 133,– per 1 januari 2010: € 136,-.
+Voor de behandeling van een aanvraag voor een machtiging als bedoeld in de [artikelen 348, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=348), en [354, derde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=354), van verzoeken als bedoeld in de [artikelen 380, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=380), en [381, tweede lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=381), alsmede van een verzoek tot goedkeuring als bedoeld in [artikel 399e van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=399e) wordt een recht geheven van € 133,– per 1 januari 2011: € 137,–.
 
 ##### Artikel 17
 
-Voor de behandeling van een verzoek tot goedkeuring van een overeenkomst tot beëindiging van een pachtovereenkomst als bedoeld in [artikel 323 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=323) wordt een recht geheven van € 89,– per 1 januari 2010: € 91,-.
+Voor de behandeling van een verzoek tot goedkeuring van een overeenkomst tot beëindiging van een pachtovereenkomst als bedoeld in [artikel 323 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=323) wordt een recht geheven van € 89,– per 1 januari 2011: € 92,–.
 
 ##### Artikel 18
 
-Voor de behandeling van niet in deze paragraaf genoemde verzoeken wordt een recht geheven van € 89,– per 1 januari 2010: € 91.-.
+Voor de behandeling van niet in deze paragraaf genoemde verzoeken wordt een recht geheven van € 89,– per 1 januari 2011: € 92,–.
 
 ##### Artikel 19
 
@@ -264,7 +264,7 @@ Worden met betrekking tot dezelfde pachtovereenkomst verscheidene verzoeken geli
 
 ##### Artikel 20
 
-1. Voor het instellen van beroep bij de Centrale Grondkamer wordt een recht geheven van € 100,– per 1 januari 2010: € 102,-.
+1. Voor het instellen van beroep bij de Centrale Grondkamer wordt een recht geheven van € 100,– per 1 januari 2011: € 103,–.
 
 2. Voor het instellen van beroep bij de Centrale Grondkamer op grond van [artikel 40 van de Uitvoeringswet grondkamers](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&artikel=40) wordt geen recht geheven.
 
@@ -304,7 +304,7 @@ Zo waarlijk helpe mij God Almachtig!/Dat verklaar en beloof ik!».
 
 ##### Artikel 24
 
-1. Bij het gerechtshof te Arnhem en bij iedere rechtbank houdt de griffier een register bij, waarin deze de koninklijke besluiten inschrijft, die de benoeming van de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=3&artikel=22&z=2010-07-01&g=2010-07-01) bedoelde ambtenaren bevatten, die voor zijn college tot het afleggen van de eed of belofte zijn toegelaten, met daarbij de akten van de door hen afgelegde eden en beloften.
+1. Bij het gerechtshof te Arnhem en bij iedere rechtbank houdt de griffier een register bij, waarin deze de koninklijke besluiten inschrijft, die de benoeming van de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=3&artikel=22&z=2011-01-01&g=2011-01-01) bedoelde ambtenaren bevatten, die voor zijn college tot het afleggen van de eed of belofte zijn toegelaten, met daarbij de akten van de door hen afgelegde eden en beloften.
 
 2. Iedere ambtenaar, bedoeld in het eerste lid, ontvangt kosteloos een uittreksel uit het register, die de akte van de door hem afgelegde eed of belofte bevat.
 
@@ -430,13 +430,13 @@ De voorzitter, de leden en de secretaris van de grondkamer alsmede de voorzitter
 
 ##### Artikel 51
 
-1. Het bestuur van het gerecht waarbij de personen, bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=3&paragraaf=1&artikel=50&z=2010-07-01&g=2010-07-01), zijn benoemd, houdt een register bij waarin de koninklijke besluiten betreffende de benoeming van deze personen en de ondertekende formulieren, bedoeld in [artikel 50, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=3&paragraaf=1&artikel=50&z=2010-07-01&g=2010-07-01), worden bewaard.
+1. Het bestuur van het gerecht waarbij de personen, bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=3&paragraaf=1&artikel=50&z=2011-01-01&g=2011-01-01), zijn benoemd, houdt een register bij waarin de koninklijke besluiten betreffende de benoeming van deze personen en de ondertekende formulieren, bedoeld in [artikel 50, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=3&paragraaf=1&artikel=50&z=2011-01-01&g=2011-01-01), worden bewaard.
 
-2. Een uittreksel uit dat register, inclusief het ondertekende formulier, bedoeld in [artikel 50, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=3&paragraaf=1&artikel=50&z=2010-07-01&g=2010-07-01), wordt aan de personen, bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=3&paragraaf=1&artikel=50&z=2010-07-01&g=2010-07-01), uitgereikt.
+2. Een uittreksel uit dat register, inclusief het ondertekende formulier, bedoeld in [artikel 50, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=3&paragraaf=1&artikel=50&z=2011-01-01&g=2011-01-01), wordt aan de personen, bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=3&paragraaf=1&artikel=50&z=2011-01-01&g=2011-01-01), uitgereikt.
 
 ##### Artikel 52
 
-De installatie van de personen, bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=3&paragraaf=1&artikel=50&z=2010-07-01&g=2010-07-01), geschiedt door middel van het op de terechtzitting voorlezen van het formulier, bedoeld in [artikel 48a, vijfde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=48a).
+De installatie van de personen, bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=3&paragraaf=1&artikel=50&z=2011-01-01&g=2011-01-01), geschiedt door middel van het op de terechtzitting voorlezen van het formulier, bedoeld in [artikel 48a, vijfde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=48a).
 
 #### Paragraaf 2. Vergoedingen deskundige leden van de pachtkamers
 
@@ -488,7 +488,7 @@ Ingetrokken worden:
 
 ##### Artikel 63
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met dien verstande dat [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=4&artikel=61&z=2010-07-01&g=2010-07-01) terugwerkt tot en met 1 september 2007.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met dien verstande dat [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=4&artikel=61&z=2011-01-01&g=2011-01-01) terugwerkt tot en met 1 september 2007.
 
 ##### Artikel 64
 
@@ -510,7 +510,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 21a
 
-1. De rechten, bedoeld in de [artikelen 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=2&artikel=12&z=2010-07-01&g=2010-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=2&artikel=13&z=2010-07-01&g=2010-07-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=2&artikel=14&z=2010-07-01&g=2010-07-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=2&artikel=15&z=2010-07-01&g=2010-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=2&artikel=16&z=2010-07-01&g=2010-07-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=2&artikel=17&z=2010-07-01&g=2010-07-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=2&artikel=18&z=2010-07-01&g=2010-07-01) en [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=2&artikel=20&z=2010-07-01&g=2010-07-01), worden jaarlijks per 1 januari aangepast aan de mate waarin het prijspeil in de periode van 1 juli in het voorafgaande jaar tot en met 1 juli van het daaraan voorafgaande jaar gemiddeld is gestegen volgens de Consumentenprijsindex voor alle huishoudens zoals gepubliceerd door het Centraal Bureau voor de Statistiek. De bedragen worden afgerond op hele euro’s.
+1. De rechten, bedoeld in de [artikelen 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=2&artikel=12&z=2011-01-01&g=2011-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=2&artikel=13&z=2011-01-01&g=2011-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=2&artikel=14&z=2011-01-01&g=2011-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=2&artikel=15&z=2011-01-01&g=2011-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=2&artikel=16&z=2011-01-01&g=2011-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=2&artikel=17&z=2011-01-01&g=2011-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=2&artikel=18&z=2011-01-01&g=2011-01-01) en [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022717&hoofdstuk=2&paragraaf=2&artikel=20&z=2011-01-01&g=2011-01-01), worden jaarlijks per 1 januari aangepast aan de mate waarin het prijspeil in de periode van 1 juli in het voorafgaande jaar tot en met 1 juli van het daaraan voorafgaande jaar gemiddeld is gestegen volgens de Consumentenprijsindex voor alle huishoudens zoals gepubliceerd door het Centraal Bureau voor de Statistiek. De bedragen worden afgerond op hele euro’s.
 
 2. Onze Minister van Landbouw, Natuur en Voedselkwaliteit maakt de aanpassing, bedoeld in het eerste lid, uiterlijk 1 oktober van het voorgaande jaar bekend in de Staatscourant.
 
