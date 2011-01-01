@@ -4,7 +4,7 @@ identifier: "BWBR0006957"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-01-01"
-last_updated: "2009-12-17"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006957"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ In deze regeling wordt verstaan onder:
 
 - a. de Minister: de Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. de Pensioen- en Uitkeringsraad: de Pensioen- en Uitkeringsraad, bedoeld in de [Wet op de Pensioen- en Uitkeringsraad](https://wetten.overheid.nl/jci1.3:c:BWBR0004806);
+- b. de Sociale verzekeringsbank: de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6);
 
 - c. een hulpverlener: een psychotherapeut, een psychiater of een klinisch psycholoog;
 
@@ -52,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-De Pensioen- en Uitkeringsraad verstrekt een vergoeding in de kosten van een behandeling, indien:
+De Sociale verzekeringsbank verstrekt een vergoeding in de kosten van een behandeling, indien:
 
 - a. de aanvrager is verzekerd als bedoeld in [artikel 2, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=2);
 
@@ -74,21 +74,21 @@ Aan deze regeling kan geen aanspraak worden ontleend door degene aan wie op gron
 
 ##### Artikel 3
 
-Voor de beoordeling of voldaan is aan de in [artikel 2, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0006957&artikel=2&z=2009-12-17&g=2009-12-17), genoemde voorwaarden alsmede omtrent de vaststelling van de geïndiceerde duur van de behandeling vraagt de Pensioen- en Uitkeringsraad een schriftelijk advies aan de psychiater of psychotherapeut/niet-psychiater, werkzaam bij de Centrale Vereniging Joodse Geestelijke Gezondheidszorg dan wel het Centrum '45, die tevens verbonden is aan het samenwerkingsverband Aanspreekpunt Na-oorlogse Generatie.
+Voor de beoordeling of voldaan is aan de in [artikel 2, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0006957&artikel=2&z=2011-01-01&g=2011-01-01), genoemde voorwaarden alsmede omtrent de vaststelling van de geïndiceerde duur van de behandeling vraagt de Sociale verzekeringsbank een schriftelijk advies aan de psychiater of psychotherapeut/niet-psychiater, werkzaam bij de Centrale Vereniging Joodse Geestelijke Gezondheidszorg dan wel het Centrum '45, die tevens verbonden is aan het samenwerkingsverband Aanspreekpunt Na-oorlogse Generatie.
 
 ##### Artikel 4
 
-De vergoeding, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006957&artikel=2&z=2009-12-17&g=2009-12-17), wordt verleend voor de duur van de Diagnose Behandeling Combinatie die op de behandeling betrekking heeft.
+De vergoeding, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006957&artikel=2&z=2011-01-01&g=2011-01-01), wordt verleend voor de duur van de Diagnose Behandeling Combinatie die op de behandeling betrekking heeft.
 
 ##### Artikel 5
 
-1. De vergoeding, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006957&artikel=2&z=2009-12-17&g=2009-12-17), bedraagt ten hoogste het op grond van [artikel 37 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=37) vastgestelde tarief, verminderd met de vergoeding van de zorgverzekeraar.
+1. De vergoeding, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006957&artikel=2&z=2011-01-01&g=2011-01-01), bedraagt ten hoogste het op grond van [artikel 37 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=37) vastgestelde tarief, verminderd met de vergoeding van de zorgverzekeraar.
 
-2. De vergoeding wordt betaalbaar gesteld op grond van een door de aanvrager bij de Pensioen- en Uitkeringsraad in te dienen declaratie.
+2. De vergoeding wordt betaalbaar gesteld op grond van een door de aanvrager bij de Sociale verzekeringsbank in te dienen declaratie.
 
 ##### Artikel 6
 
-De Pensioen- en Uitkeringsraad zendt de Minister een afschrift van de door hem genomen beschikking.
+De Sociale verzekeringsbank zendt de Minister een afschrift van de door hem genomen beschikking.
 
 ##### Artikel 7
 
