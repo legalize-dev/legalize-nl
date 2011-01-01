@@ -4,7 +4,7 @@ identifier: "BWBR0025278"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2010-12-04"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025278"
 soort: "AMvB"
@@ -76,9 +76,9 @@ Aan de vice-president van de Raad van State, de president van de Algemene Rekenk
 
 2. Ten behoeve van het woon-werkverkeer van de president en de overige leden in gewone dienst van de Algemene Rekenkamer, de Nationale ombudsman en de substituut-ombudsmannen worden de noodzakelijke faciliteiten ter beschikking gesteld. Indien aan deze functionarissen voor dienstreizen en woon-werkverkeer een dienstauto ter beschikking wordt gesteld, zijn het derde tot en met zesde lid van toepassing.
 
-3. De prijs per kilometer van de dienstauto, bedoeld in het eerste lid, bedraagt niet meer dan € 0,57 exclusief BTW, berekend op de grondslag van een gebruiksduur van twee jaar en 60.000 gereden kilometers per jaar. In geval van een dienstauto die wordt afgenomen overeenkomstig de door het Rijk gesloten raamovereenkomst betreffende innovatieve milieuauto’s of die vóór 1 september 2009 wordt afgenomen overeenkomstig de door het Rijk gesloten raamovereenkomst betreffende auto’s die voldoen aan verordening (EG) nr. 715/2007 van het Europees Parlement en de Raad van 20 juni 2007 betreffende de typegoedkeuring van motorvoertuigen met betrekking tot emissies van lichte personen- en bedrijfsvoertuigen (Euro 5 en Euro 6) en de toegang tot reparatie- en onderhoudsinformatie (PbEG L 171) bedraagt de prijs per kilometer van de dienstauto niet meer dan € 0,65 exclusief BTW, berekend op de grondslag van een gebruiksduur van twee jaar en 60.000 gereden kilometers per jaar.
+3. De prijs per kilometer van de dienstauto, bedoeld in het eerste lid, bedraagt niet meer dan € 0,58 exclusief BTW, berekend op de grondslag van een gebruiksduur van twee jaar en 60.000 gereden kilometers per jaar.
 
-4. De in het derde lid genoemde bedragen worden jaarlijks bij ministeriële regeling gewijzigd voor zover de gemiddelde prijsindexcijfers autolease over de laatste vier kwartalen, zoals per 1 januari van elk jaar door het Centraal Bureau voor de Statistiek gepubliceerd, daartoe aanleiding geven.
+4. Het bedrag, genoemd in het derde lid, wordt per 1 januari van elk jaar bij ministeriële regeling gewijzigd overeenkomstig de procentuele wijziging van het prijsindexcijfer jaargemiddelde operationele autolease inclusief brandstof, zoals door het Centraal Bureau voor de Statistiek gepubliceerd, over het tweede kalenderjaar voorafgaand aan genoemde datum ten opzichte van hetzelfde indexcijfer over het jaar daaraan voorafgaand.
 
 5. De prijs per kilometer wordt berekend aan de hand van de formule
 
@@ -130,7 +130,7 @@ m = jaarkilometrage.
 
 7. De vice-president van de Raad van State ontvangt een maandelijkse vergoeding voor de door hem verschuldigde loonbelasting over het gebruik van de dienstauto, bedoeld in het eerste lid. De vergoeding wordt berekend aan de hand van de formule
 
-CAT x P/100 x T/100 x 100/(100–T)
+CAT x P/100 x T/100
 
 M = ––––––––––––––––––––––––––––––––
 
@@ -146,6 +146,12 @@ P = het toepasselijke percentage, genoemd in [artikel 13bis, eerste lid, van de 
 
 T = het hoogste van de in de tarieftabel van [artikel 20a, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20a) opgenomen percentages.
 
+8. Aangewezen als een eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31) wordt:
+
+- a. de maandelijkse vergoeding, bedoeld in het eerste lid;
+
+- b. het tot het belastbare loon in de zin van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) van de vice-president van de Raad van State behorend voordeel ter zake van de dienstauto toerekenbaar aan buitengewone beveiligingsmaatregelen.
+
 ##### Artikel 5
 
 Aan de vice-president van de Raad van State, de president van de Algemene Rekenkamer, de Nationale ombudsman, de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State en de leden van de Raad van State en de staatsraden, de overige leden in gewone dienst van de Algemene Rekenkamer en de substituut-ombudsmannen worden de overige voorzieningen ter beschikking gesteld die noodzakelijk zijn voor het vervullen van hun ambt.
@@ -156,13 +162,15 @@ Aan de vice-president van de Raad van State, de president van de Algemene Rekenk
 
 2. De maandelijkse vergoeding, bedoeld in het eerste lid, bedraagt
 
-- a. voor de vice-president van de Raad van State, de president van de Algemene Rekenkamer en de Nationale ombudsman € 656,14;
+- a. voor de vice-president van de Raad van State, de president van de Algemene Rekenkamer en de Nationale ombudsman € 319,99;
 
-- b. voor de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State en de leden van de Raad van State, de overige leden in gewone dienst van de Algemene Rekenkamer en de substituut-ombudsmannen € 546,08.
+- b. voor de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State en de leden van de Raad van State, de overige leden in gewone dienst van de Algemene Rekenkamer en de substituut-ombudsmannen € 266,31.
 
 3. De staatsraden ontvangen voor de kosten die aan de vervulling van het ambt zijn verbonden en die voor eigen rekening komen een zodanig deel van het bedrag, bedoeld in het tweede lid, onderdeel b, als overeenkomt met de vastgestelde omvang van de te vervullen taak.
 
-4. De in het tweede lid genoemde bedragen worden per 1 januari van elk jaar bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex, geldend voor de maand september van het voorafgaande jaar.
+4. De maandelijkse vergoeding, bedoeld in het eerste lid, wordt aangewezen als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31).
+
+5. De in het tweede lid genoemde bedragen worden per 1 januari van elk jaar bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex, geldend voor de maand september van het voorafgaande jaar.
 
 ##### Artikel 7
 
@@ -198,9 +206,9 @@ De volgende besluiten worden ingetrokken:
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met dien verstande dat:
 
-- a. [artikel 4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025278&artikel=4&z=2010-12-04&g=2010-12-04), terugwerkt tot en met 1 januari 2005;
+- a. [artikel 4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025278&artikel=4&z=2011-01-01&g=2011-01-01), terugwerkt tot en met 1 januari 2005;
 
-- b. [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025278&artikel=4&z=2010-12-04&g=2010-12-04), terugwerkt tot en met 1 oktober 2007.
+- b. [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025278&artikel=4&z=2011-01-01&g=2011-01-01), terugwerkt tot en met 1 oktober 2007.
 
 ##### Artikel 13
 
@@ -210,10 +218,16 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 3a
 
-Dit onderdeel is nog niet inwerking getreden
+De vice-president van de Raad van State en de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State, de leden van de Raad van State en de staatsraden, de president en de overige leden in gewone dienst van de Algemene Rekenkamer, de Nationale ombudsman en de substituut-ombudsmannen hebben recht op de vergoeding van gemaakte kosten voor verlies, diefstal of beschadiging van voor de dienstreis meegenomen noodzakelijke bagage tot ten hoogste het bedrag vastgesteld op grond van [artikel 13, tweede lid, van het Reisbesluit buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006842&artikel=13).
 
 ##### Artikel 11a
 
-Dit onderdeel is nog niet inwerking getreden
+Bij toepassing van [artikel 39c van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=39c):
+
+- a. wordt de vergoeding, bedoeld in [artikel 8, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025278&artikel=8&z=2011-01-01&g=2011-01-01), vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van [artikel 2.10 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.10);
+
+- b. blijven de [artikelen 4, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025278&artikel=4&z=2011-01-01&g=2011-01-01), en [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025278&artikel=6&z=2011-01-01&g=2011-01-01), buiten toepassing;
+
+- c. worden de bedragen, genoemd in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025278&artikel=6&z=2011-01-01&g=2011-01-01), vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van [artikel 2.10 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.10).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
