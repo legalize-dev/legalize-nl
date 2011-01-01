@@ -4,7 +4,7 @@ identifier: "BWBR0002517"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-01"
-last_updated: "2010-03-18"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002517"
 soort: "ministeriele-regeling"
@@ -43,7 +43,7 @@ Deze regeling geeft uitvoering aan de [artikelen 4, tweede lid](https://wetten.o
 
 ##### Artikel 1a
 
-Voor de toepassing van de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4), en [10, tweede lid, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10) worden van de staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte aangewezen: IJsland en Noorwegen.
+Voor de toepassing van de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4), en [10, tweede lid, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10) worden van de staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte aangewezen: IJsland, Noorwegen en Liechtenstein.
 
 ##### Artikel 1aa
 
@@ -77,9 +77,9 @@ Voor de toepassing van de [artikelen 4, tweede lid](https://wetten.overheid.nl/j
 
 ##### Artikel 1b
 
-De in [artikel 9, eerste lid, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=9) bedoelde nota – hierna te noemen: dividendnota – houdt in:
+De in [artikel 9, eerste lid, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=9) bedoelde dividendnota houdt in:
 
-- a. de naam en het adres van degene die de nota uitreikt;
+- a. de naam en het adres van degene die de dividendnota uitreikt;
 
 - b. de naam en het adres van de rechthebbende;
 
@@ -87,23 +87,15 @@ De in [artikel 9, eerste lid, van de Wet op de dividendbelasting 1965](https://w
 
 - d. de omschrijving en het bedrag van de opbrengst;
 
-- e. de ingehouden belasting over de totale in de nota begrepen opbrengst.
+- e. de ingehouden belasting over de totale in de dividendnota begrepen opbrengst.
 
 ##### Artikel 2
 
-Ingeval degene die ingevolge [artikel 9 van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=9) gehouden is een dividendnota uit te reiken, tevens de rechthebbende is, vervaardigt hij een dividendnota voor zich zelf.
+Vervallen
 
 ##### Artikel 3
 
-1. Degene die ingevolge [artikel 9 van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=9) gehouden is dividendnota's uit te reiken, moet:
-
-- a. de dividendnota's doorlopend nummeren, al dan niet in series;
-
-- b. de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002517&artikel=2&z=2010-03-18&g=2010-03-18) bedoelde nota's afzonderlijk doorlopend nummeren;
-
-- c. dubbelen van de dividendnota's vervaardigen en gedurende vijf jaren op serie en nummer bewaren.
-
-2. Van de in het eerste lid genoemde verplichtingen kan door de minister gehele of gedeeltelijke ontheffing worden verleend.
+Vervallen
 
 ##### Artikel 4
 
