@@ -4,7 +4,7 @@ identifier: "BWBR0028016"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2026-01-01"
-last_updated: "2010-10-10"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028016"
 soort: "AMvB-BES"
@@ -50,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **bezoldiging:** het bedrag per maand waarop de Rijksvertegenwoordiger op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2010-10-10&g=2010-10-10), van dit besluit aanspraak kan maken.
+- **bezoldiging:** het bedrag per maand waarop de Rijksvertegenwoordiger op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2010-10-10&g=2011-01-01), van dit besluit aanspraak kan maken.
 
 ##### Artikel 2. Bezoldiging en vergoeding voor ambtskosten
 
@@ -68,13 +68,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3. Vakantie-uitkering en eindejaarsuitkering
 
-Naast de bezoldiging, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2010-10-10&g=2010-10-10), ontvangt de Rijksvertegenwoordiger op de voet van de regeling voor het personeel in de sector Rijk een vakantie-uitkering en een eindejaarsuitkering.
+Naast de bezoldiging, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2010-10-10&g=2011-01-01), ontvangt de Rijksvertegenwoordiger op de voet van de regeling voor het personeel in de sector Rijk een vakantie-uitkering en een eindejaarsuitkering.
 
 ##### Artikel 4. Vergoeding bij waarneming
 
-1. De waarnemend Rijksvertegenwoordiger die krachtens [artikel 200 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=200) als zodanig optreedt, geniet gedurende de waarnemingsperiode per maand een beloning van twintig procent van de bezoldiging, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2010-10-10&g=2010-10-10). De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=3&z=2010-10-10&g=2010-10-10) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=7&z=2010-10-10&g=2010-10-10) zijn van overeenkomstige toepassing.
+1. De waarnemend Rijksvertegenwoordiger die krachtens [artikel 200 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=200) als zodanig optreedt, geniet gedurende de waarnemingsperiode per maand een beloning van twintig procent van de bezoldiging, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2010-10-10&g=2011-01-01). De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=3&z=2010-10-10&g=2011-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=7&z=2010-10-10&g=2011-01-01) zijn van overeenkomstige toepassing.
 
-2. Bij aantoonbare inkomstenderving als gevolg van de waarneming kan het bedrag van de beloning door Onze Minister worden verhoogd, echter tot maximaal de bezoldiging, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2010-10-10&g=2010-10-10).
+2. Bij aantoonbare inkomstenderving als gevolg van de waarneming kan het bedrag van de beloning door Onze Minister worden verhoogd, echter tot maximaal de bezoldiging, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2010-10-10&g=2011-01-01).
 
 ##### Artikel 5. Vergoeding tijdens sollicitatieprocedure
 
@@ -120,7 +120,7 @@ Indien de Rijksvertegenwoordiger langer dan acht dagen wegens ziekte of om ander
 
 ##### Artikel 10. Voorzieningen in verband met ziekte
 
-In het geval van ziekte van de Rijksvertegenwoordiger, behoudt hij het recht op een bezoldiging als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2010-10-10&g=2010-10-10).
+In het geval van ziekte van de Rijksvertegenwoordiger, behoudt hij het recht op een bezoldiging als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2010-10-10&g=2011-01-01).
 
 ##### Artikel 11. Buitengewoon verlof
 
@@ -183,5 +183,19 @@ Dit besluit treedt in werking op het tijdstip waarop de [Wet openbare lichamen B
 ##### Artikel 19
 
 Dit besluit wordt aangehaald als: Rechtspositiebesluit Rijksvertegenwoordiger BES.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 2a
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 8a
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 16a
+
+Dit onderdeel is nog niet inwerking getreden
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
