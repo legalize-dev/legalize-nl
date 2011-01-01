@@ -4,7 +4,7 @@ identifier: "BWBR0002503"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-12-23"
-last_updated: "2006-10-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002503"
 soort: "AMvB"
@@ -74,9 +74,9 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Behoudens het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=6&z=2006-10-01&g=2006-10-01) moet de bestuurder van een gehandicaptenvoertuig bij zich hebben:
+1. Behoudens het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=6&z=2011-01-01&g=2011-01-01) moet de bestuurder van een gehandicaptenvoertuig bij zich hebben:
 
-- a. een geldige verzekeringsplaat, welke op de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=3&z=2006-10-01&g=2006-10-01), voorgeschreven wijze op het gehandicaptenvoertuig is bevestigd en welke behoort bij de verzekering bedoeld onder b; alsmede
+- a. een geldige verzekeringsplaat, welke op de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=3&z=2011-01-01&g=2011-01-01), voorgeschreven wijze op het gehandicaptenvoertuig is bevestigd en welke behoort bij de verzekering bedoeld onder b; alsmede
 
 - b. een document waaruit blijkt dat met betrekking tot het door hem bestuurde gehandicaptenvoertuig een verzekering overeenkomstig de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002415) van kracht is.
 
@@ -84,7 +84,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Als verzekeringsplaat, bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=2&z=2006-10-01&g=2006-10-01), geldt een vierkante plaat van 80 * 80 mm met afgeronde hoeken, waarop letters en cijfers zijn vermeld als in dit artikel omschreven.
+1. Als verzekeringsplaat, bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=2&z=2011-01-01&g=2011-01-01), geldt een vierkante plaat van 80 * 80 mm met afgeronde hoeken, waarop letters en cijfers zijn vermeld als in dit artikel omschreven.
 
 2. De verzekeringsplaat wordt bevestigd op het achterspatbord in verticale of nagenoeg verticale stand en in de breedterichting van het gehandicaptenvoertuig, op zodanige wijze dat de letters zich boven de cijfers bevinden en de letters en cijfers goed zichtbaar zijn. Indien het gehandicaptenvoertuig meer achterwielen heeft, behoeft slechts één verzekeringsplaat op één der achterspatborden te worden aangebracht. Indien het gehandicaptenvoertuig is voorzien van een bak of opbouw mag de verzekeringsplaat in plaats van op het achterspatbord ook worden bevestigd op de achterzijde van de bak of opbouw, zoveel mogelijk aan de uiterste linkerzijde daarvan.
 
@@ -106,7 +106,7 @@ Onder kleur wordt voor de toepassing van dit lid mede verstaan zwart. Onze Minis
 
 ##### Artikel 4
 
-1. In het document, bedoeld in [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=2&z=2006-10-01&g=2006-10-01), worden ten tenminste de volgende gegevens vermeld:
+1. In het document, bedoeld in [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=2&z=2011-01-01&g=2011-01-01), worden ten tenminste de volgende gegevens vermeld:
 
 - a. naam en adres van de verzekeraar;
 
@@ -138,7 +138,7 @@ Onder kleur wordt voor de toepassing van dit lid mede verstaan zwart. Onze Minis
 
 ##### Artikel 5
 
-1. Behoudens het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=6&z=2006-10-01&g=2006-10-01) of ontheffing door Onze Minister moet de bestuurder van een motorrijtuig, dat geen kenteken als bedoeld in [artikel 36, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) behoeft en dat geen gehandicaptenvoertuig is, een document bij zich hebben, waaruit blijkt, dat met betrekking tot het door hem bestuurde motorrijtuig een verzekering overeenkomstig de wet van kracht is.
+1. Behoudens het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=6&z=2011-01-01&g=2011-01-01) of ontheffing door Onze Minister moet de bestuurder van een motorrijtuig, dat geen kenteken als bedoeld in [artikel 36, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) behoeft en dat geen gehandicaptenvoertuig is, een document bij zich hebben, waaruit blijkt, dat met betrekking tot het door hem bestuurde motorrijtuig een verzekering overeenkomstig de wet van kracht is.
 
 2. Het document, bedoeld in het eerste lid, wordt verstrekt door de verzekeraar. In dit document moeten tenminste de volgende gegevens zijn vermeld:
 
@@ -166,9 +166,15 @@ Onder kleur wordt voor de toepassing van dit lid mede verstaan zwart. Onze Minis
 
 - d. het motorrijtuig wordt gebruikt hetzij voor het verrichten van een proefrit ter controle van de goede werking of ten behoeve van de verkoop van het motorrijtuig, hetzij in verband met een zodanige proefrit, met de in- of uitvoer of met de aflevering van het motorrijtuig.
 
+7. De bestuurder van een bromfiets als bedoeld in [artikel 1, eerste lid, onderdeel e, subonderdeel d, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1) heeft tevens een geldige verzekeringsplaat bij zich, welke op de in het achtste lid voorgeschreven wijze op de bromfiets is bevestigd en welke behoort bij de verzekering bedoeld in het eerste lid.
+
+8. De verzekeringsplaat wordt bevestigd op de achterzijde van de bromfiets, op zodanige wijze dat de letters zich boven de cijfers bevinden en de letters en cijfers goed zichtbaar zijn. [Artikel 3, eerste en derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=3&z=2011-01-01&g=2011-01-01), is van overeenkomstige toepassing.
+
+9. De verzekeringsplaat wordt verstrekt door de verzekeraar.
+
 ##### Artikel 5a
 
-1. Onze Minister kan op verzoek aan fabrikanten van of handelaren in gehandicaptenvoertuigen of andere niet-kentekenplichtige motorrijtuigen één of meer fabrikanten- of handelaarsbewijzen W.A.M. (gehandicaptenvoertuigen) of één of meer fabrikanten- of handelaarsbewijzen W.A.M. (andere niet-kentekenplichtige motorrijtuigen dan gehandicaptenvoertuigen) afgeven voor motorrijtuigen, die deel uitmaken van de fabrieks- of handelsvoorraad van verzoeker, en ten behoeve van het gebruik van de betrokken motorrijtuigen als omschreven in [artikel 4, zesde lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=4&z=2006-10-01&g=2006-10-01), onderscheidenlijk in [artikel 5, zesde lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=5&z=2006-10-01&g=2006-10-01). Een dergelijk bewijs, waarvan het model door Onze Minister wordt vastgesteld, is ten hoogste vijf jaren geldig.
+1. Onze Minister kan op verzoek aan fabrikanten van of handelaren in gehandicaptenvoertuigen of andere niet-kentekenplichtige motorrijtuigen één of meer fabrikanten- of handelaarsbewijzen W.A.M. (gehandicaptenvoertuigen) of één of meer fabrikanten- of handelaarsbewijzen W.A.M. (andere niet-kentekenplichtige motorrijtuigen dan gehandicaptenvoertuigen) afgeven voor motorrijtuigen, die deel uitmaken van de fabrieks- of handelsvoorraad van verzoeker, en ten behoeve van het gebruik van de betrokken motorrijtuigen als omschreven in [artikel 4, zesde lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=4&z=2011-01-01&g=2011-01-01), onderscheidenlijk in [artikel 5, zesde lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=5&z=2011-01-01&g=2011-01-01). Een dergelijk bewijs, waarvan het model door Onze Minister wordt vastgesteld, is ten hoogste vijf jaren geldig.
 
 2. Bij het in het eerste lid genoemde verzoek moet worden overgelegd een uittreksel van het handelsregister van de Kamer van Koophandel en Fabrieken, waar het bedrijf is ingeschreven, dat ten hoogste voor één jaar vóór de indiening van het verzoek is afgegeven. Het in de voorgaande volzin bepaalde is niet van toepassing op revalidatiecentra welke zich bezighouden met de vervaardiging van gehandicaptenvoertuigen, die uitsluitend voor proefritten worden gebezigd.
 
@@ -194,25 +200,35 @@ hetzij een bewijs, waaruit blijkt, dat met betrekking tot dat motorrijtuig een v
 
 1. Wanneer aan de bestuurder van een gehandicaptenvoertuig, welke aan de Staat toebehoort, dan wel aan de bezitter of de in [artikel 2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=2) bedoelde houder van een gehandicaptenvoertuig, die is vrijgesteld van de verplichting tot het sluiten van een verzekering, een vrijstellingsplaat is uitgereikt, moet deze plaat op het gehandicaptenvoertuig worden bevestigd op dezelfde wijze als is voorgeschreven ten aanzien van de verzekeringsplaten.
 
-2. De vrijstellingsplaat kan worden gebezigd met ingang van de eerste januari van het kalenderjaar, dat erop staat vermeld. De geldigheidsduur van de plaat eindigt op 30 april van het daarop volgende jaar te 24.00 uur.
+2. Wanneer aan de bestuurder van een bromfiets als bedoeld in [artikel 1, eerste lid, onderdeel e, subonderdeel d, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1), welke aan de Staat toebehoort, dan wel aan de bezitter of de in [artikel 2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=2) bedoelde houder van een bromfiets als bedoeld in artikel 1, eerste lid, onderdeel e, subonderdeel d, van de Wegenverkeerswet 1994, die is vrijgesteld van de verplichting tot het sluiten van een verzekering, een vrijstellingsplaat is uitgereikt, wordt deze plaat op de bromfiets bevestigd op dezelfde wijze als is voorgeschreven ten aanzien van de verzekeringsplaten.
+
+3. De vrijstellingsplaat kan worden gebezigd met ingang van de eerste januari van het kalenderjaar, dat erop staat vermeld. De geldigheidsduur van de plaat eindigt op 30 april van het daarop volgende jaar te 24.00 uur.
 
 #### § 5. Strafbepalingen
 
 ##### Artikel 9
 
-1. Het is verboden om als bezitter dan wel als houder in de zin van [artikel 2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=2), een gehandicaptenvoertuig, waarop ingevolge [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&z=2006-10-01&g=2006-10-01) een verzekeringsplaat moet zijn bevestigd, op een weg te doen rijden of te laten staan of toe te laten dat daarmee op een weg wordt gereden of gestaan, of buiten een weg met zodanig gehandicaptenvoertuig deel te nemen of toe te laten dat daarmee wordt deelgenomen aan het verkeer op een terrein zonder dat een geldige verzekeringsplaat op de voorgeschreven wijze op het gehandicaptenvoertuig is bevestigd of indien de letters en cijfers van de verzekeringsplaat niet goed zichtbaar zijn. Het voorgaande is niet van toepassing jegens de bezitter en de houder op wie de verplichting tot verzekering niet rust.
+1. Het is verboden om als bezitter dan wel als houder in de zin van [artikel 2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=2), een gehandicaptenvoertuig, waarop ingevolge [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&z=2011-01-01&g=2011-01-01) een verzekeringsplaat moet zijn bevestigd, op een weg te doen rijden of te laten staan of toe te laten dat daarmee op een weg wordt gereden of gestaan, of buiten een weg met zodanig gehandicaptenvoertuig deel te nemen of toe te laten dat daarmee wordt deelgenomen aan het verkeer op een terrein zonder dat een geldige verzekeringsplaat op de voorgeschreven wijze op het gehandicaptenvoertuig is bevestigd of indien de letters en cijfers van de verzekeringsplaat niet goed zichtbaar zijn. Het voorgaande is niet van toepassing jegens de bezitter en de houder op wie de verplichting tot verzekering niet rust.
 
-2. Het is verboden om als bestuurder met een gehandicaptenvoertuig, waarop ingevolge het bepaalde in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&z=2006-10-01&g=2006-10-01) een verzekeringsplaat moet zijn bevestigd, op een weg te rijden of te staan of buiten een weg met zodanig gehandicaptenvoertuig deel te nemen aan het verkeer op een terrein zonder dat een geldige verzekeringsplaat op de voorgeschreven wijze op het gehandicaptenvoertuig is bevestigd of indien de letters en cijfers van de verzekeringsplaat niet goed zichtbaar zijn.
+2. Het is verboden om als bestuurder met een gehandicaptenvoertuig, waarop ingevolge het bepaalde in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&z=2011-01-01&g=2011-01-01) een verzekeringsplaat moet zijn bevestigd, op een weg te rijden of te staan of buiten een weg met zodanig gehandicaptenvoertuig deel te nemen aan het verkeer op een terrein zonder dat een geldige verzekeringsplaat op de voorgeschreven wijze op het gehandicaptenvoertuig is bevestigd of indien de letters en cijfers van de verzekeringsplaat niet goed zichtbaar zijn.
+
+3. Het is verboden om als bezitter dan wel als houder in de zin van [artikel 2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=2), een bromfiets als bedoeld in [artikel 1, eerste lid, onderdeel e, subonderdeel d, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1), waarop ingevolge [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&z=2011-01-01&g=2011-01-01) een verzekeringsplaat moet zijn bevestigd, op een weg te doen rijden of te laten staan of toe te laten dat daarmee op een weg wordt gereden of gestaan, of buiten een weg met zodanige bromfiets deel te nemen of toe te laten dat daarmee wordt deelgenomen aan het verkeer op een terrein zonder dat een geldige verzekeringsplaat op de voorgeschreven wijze op de bromfiets is bevestigd of indien de letters en cijfers van de verzekeringsplaat niet goed zichtbaar zijn. Het voorgaande is niet van toepassing jegens de bezitter en de houder op wie de verplichting tot verzekering niet rust.
+
+4. Het is verboden om als bestuurder met een bromfiets als bedoeld in [artikel 1, eerste lid, onderdeel e, subonderdeel d, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1), waarop ingevolge het bepaalde in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&z=2011-01-01&g=2011-01-01) een verzekeringsplaat moet zijn bevestigd, op een weg te rijden of te staan of buiten een weg met zodanige bromfiets deel te nemen aan het verkeer op een terrein zonder dat een geldige verzekeringsplaat op de voorgeschreven wijze op de bromfiets is bevestigd of indien de letters en cijfers van de verzekeringsplaat niet goed zichtbaar zijn.
 
 ##### Artikel 10
 
-1. Het is verboden om als bezitter dan wel als houder in de zin van [artikel 2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=2), een gehandicaptenvoertuig, waarop ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=4&artikel=8&z=2006-10-01&g=2006-10-01) een vrijstellingsplaat moet zijn bevestigd, op een weg te doen rijden of te laten staan of toe te laten dat daarmee op een weg wordt gereden of gestaan, of buiten een weg met een zodanig gehandicaptenvoertuig deel te nemen of toe te laten dat daarmee wordt deelgenomen aan het verkeer op een terrein zonder dat een geldige vrijstellingsplaat op de voorgeschreven wijze op het gehandicaptenvoertuig is bevestigd of indien de letters en cijfers van de vrijstellingsplaat niet goed zichtbaar zijn. Het voorgaande is niet van toepassing jegens de bezitter van het gehandicaptenvoertuig, indien de houder van het gehandicaptenvoertuig een houder is als bedoeld in [artikel 2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=2).
+1. Het is verboden om als bezitter dan wel als houder in de zin van [artikel 2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=2), een gehandicaptenvoertuig, waarop ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=4&artikel=8&z=2011-01-01&g=2011-01-01) een vrijstellingsplaat moet zijn bevestigd, op een weg te doen rijden of te laten staan of toe te laten dat daarmee op een weg wordt gereden of gestaan, of buiten een weg met een zodanig gehandicaptenvoertuig deel te nemen of toe te laten dat daarmee wordt deelgenomen aan het verkeer op een terrein zonder dat een geldige vrijstellingsplaat op de voorgeschreven wijze op het gehandicaptenvoertuig is bevestigd of indien de letters en cijfers van de vrijstellingsplaat niet goed zichtbaar zijn. Het voorgaande is niet van toepassing jegens de bezitter van het gehandicaptenvoertuig, indien de houder van het gehandicaptenvoertuig een houder is als bedoeld in [artikel 2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=2).
 
-2. Het is verboden om als bestuurder met een gehandicaptenvoertuig, waarop ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=4&artikel=8&z=2006-10-01&g=2006-10-01) een vrijstellingsplaat moet zijn bevestigd, op een weg te rijden of te staan of buiten een weg met zodanig gehandicaptenvoertuig deel te nemen aan het verkeer op een terrein zonder dat een geldige vrijstellingsplaat op de voorgeschreven wijze op het gehandicaptenvoertuig is bevestigd of indien de letters en cijfers van de vrijstellingsplaat niet goed zichtbaar zijn.
+2. Het is verboden om als bestuurder met een gehandicaptenvoertuig, waarop ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=4&artikel=8&z=2011-01-01&g=2011-01-01) een vrijstellingsplaat moet zijn bevestigd, op een weg te rijden of te staan of buiten een weg met zodanig gehandicaptenvoertuig deel te nemen aan het verkeer op een terrein zonder dat een geldige vrijstellingsplaat op de voorgeschreven wijze op het gehandicaptenvoertuig is bevestigd of indien de letters en cijfers van de vrijstellingsplaat niet goed zichtbaar zijn.
+
+3. Het is verboden om als bezitter dan wel als houder in de zin van [artikel 2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=2), een bromfiets als bedoeld in [artikel 1, eerste lid, onderdeel e, subonderdeel d, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1), waarop ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=4&artikel=8&z=2011-01-01&g=2011-01-01) een vrijstellingsplaat moet zijn bevestigd, op een weg te doen rijden of te laten staan of toe te laten dat daarmee op een weg wordt gereden of gestaan, of buiten een weg met een zodanige bromfiets deel te nemen of toe te laten dat daarmee wordt deelgenomen aan het verkeer op een terrein zonder dat een geldige vrijstellingsplaat op de voorgeschreven wijze op de bromfiets is bevestigd of indien de letters en cijfers van de vrijstellingsplaat niet goed zichtbaar zijn. Het voorgaande is niet van toepassing jegens de bezitter van de bromfiets als bedoeld in artikel 1, eerste lid, onderdeel e, subonderdeel d, van de Wegenverkeerswet 1994, indien de houder van de bromfiets een houder is als bedoeld in artikel 2, tweede lid, van de wet.
+
+4. Het is verboden om als bestuurder met een bromfiets als bedoeld in [artikel 1, eerste lid, onderdeel e, subonderdeel d, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1), waarop ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=4&artikel=8&z=2011-01-01&g=2011-01-01) een vrijstellingsplaat moet zijn bevestigd, op een weg te rijden of te staan of buiten een weg met zodanige bromfiets deel te nemen aan het verkeer op een terrein zonder dat een geldige vrijstellingsplaat op de voorgeschreven wijze op de bromfiets is bevestigd of indien de letters en cijfers van de vrijstellingsplaat niet goed zichtbaar zijn.
 
 ##### Artikel 10a
 
-Overtreding van het bepaalde in de [artikelen 5**a**, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=5a&z=2006-10-01&g=2006-10-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=5&artikel=9&z=2006-10-01&g=2006-10-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=5&artikel=10&z=2006-10-01&g=2006-10-01) is een strafbaar feit.
+Overtreding van het bepaalde in de [artikelen 5**a**, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=5a&z=2011-01-01&g=2011-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=5&artikel=9&z=2011-01-01&g=2011-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=5&artikel=10&z=2011-01-01&g=2011-01-01) is een strafbaar feit.
 
 #### § 6. Slotbepalingen
 
@@ -222,6 +238,6 @@ Ons besluit van 14 december 1964, **Stb.** 493, wordt ingetrokken.
 
 ##### Artikel 12
 
-Dit besluit treedt in werking met ingang van 1 maart 1966, met uitzondering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=5&z=2006-10-01&g=2006-10-01), het [vierde en vijfde lid van artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=5&z=2006-10-01&g=2006-10-01), het [vierde lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=5&z=2006-10-01&g=2006-10-01) en het [vierde lid van artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=5&z=2006-10-01&g=2006-10-01), welke in werking treden met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad**, waarin het besluit wordt geplaatst.
+Dit besluit treedt in werking met ingang van 1 maart 1966, met uitzondering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=5&z=2011-01-01&g=2011-01-01), het [vierde en vijfde lid van artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=5&z=2011-01-01&g=2011-01-01), het [vierde lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=5&z=2011-01-01&g=2011-01-01) en het [vierde lid van artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002503&paragraaf=2&artikel=5&z=2011-01-01&g=2011-01-01), welke in werking treden met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad**, waarin het besluit wordt geplaatst.
 
 Onze Ministers van Verkeer en Waterstaat en van Justitie zijn belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
