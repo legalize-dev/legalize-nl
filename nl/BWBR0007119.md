@@ -4,7 +4,7 @@ identifier: "BWBR0007119"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2010-10-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007119"
 soort: "wet"
@@ -64,9 +64,9 @@ In deze wet wordt verstaan onder:
 
 - –. Onze Minister: Onze Minister van Financiën;
 
-- –. terugmelding: melding als bedoeld in [artikel 37f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=VI&artikel=37f&z=2010-10-01&g=2010-10-01);
+- –. terugmelding: melding als bedoeld in [artikel 37f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=VI&artikel=37f&z=2011-01-01&g=2011-01-01);
 
-- –. waardegegeven: op de voet van [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&z=2010-10-01&g=2010-10-01) van deze wet vastgestelde waarde van een onroerende zaak;
+- –. waardegegeven: op de voet van [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&z=2011-01-01&g=2011-01-01) van deze wet vastgestelde waarde van een onroerende zaak;
 
 - –. de wet: de Wet waardering onroerende zaken.
 
@@ -86,6 +86,8 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld betreffend
 
 4. De Waarderingskamer geeft voorts uitvoering aan hetgeen haar overigens bij of krachtens de wet is opgedragen.
 
+5. De [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495), met uitzondering van [artikel 9 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=9), is van toepassing op de Waarderingskamer.
+
 ##### Artikel 5
 
 1. De Waarderingskamer bestaat uit elf leden, waaronder de voorzitter, die worden benoemd door Onze Minister.
@@ -97,8 +99,6 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld betreffend
 4. De leden van de Waarderingskamer worden benoemd voor ten hoogste vier jaren. Na afloop van deze termijn kunnen zij worden herbenoemd.
 
 5. Degene die tot lid is benoemd ter vervulling van een tussentijds opengevallen plaats, treedt af op het ogenblik waarop degene in wiens plaats hij is benoemd, had moeten aftreden. Hij kan worden herbenoemd.
-
-6. De leden kunnen te allen tijde op eigen verzoek door Onze Minister worden ontslagen. Onze Minister kan hen, gehoord de Waarderingskamer, schorsen of ontslaan.
 
 ##### Artikel 6
 
@@ -116,21 +116,19 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld betreffend
 
 1. De Waarderingskamer heeft een secretariaat onder leiding van een secretaris, die door Onze Minister, op voordracht van de Waarderingskamer, wordt benoemd, geschorst en ontslagen.
 
-2. Benoeming, schorsing en ontslag van het personeel van het secretariaat geschieden door de Waarderingskamer.
+2. Het secretariaat staat de Waarderingskamer in haar werkzaamheden bij.
 
-3. Het secretariaat staat de Waarderingskamer in haar werkzaamheden bij.
+3. De secretaris en het personeel van het secretariaat zijn niet tevens lid of adviserend lid van de Waarderingskamer.
 
-4. De secretaris en het personeel van het secretariaat zijn niet tevens lid of adviserend lid van de Waarderingskamer.
-
-5. De secretaris is voor de uitoefening van zijn taak uitsluitend verantwoording schuldig aan de Waarderingskamer.
+4. De secretaris is voor de uitoefening van zijn taak uitsluitend verantwoording schuldig aan de Waarderingskamer.
 
 ##### Artikel 9
 
 1. Het personeel van het secretariaat van de Waarderingskamer, de secretaris daaronder begrepen, is ambtenaar in de zin van de [Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947).
 
-2. De Waarderingskamer stelt bij reglement de regeling van de rechtstoestand van het personeel vast.
+2. In afwijking van [artikel 15 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=15) stelt de Waarderingskamer bij reglement de regeling van de rechtstoestand van het personeel vast.
 
-3. Onverminderd hetgeen reeds bij of krachtens de [Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947) is geregeld, geeft het reglement bedoeld in het tweede lid van dit artikel in ieder geval voorschriften betreffende de volgende onderwerpen:
+3. Onverminderd hetgeen reeds bij of krachtens de [Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947) is geregeld, geeft het reglement, bedoeld in het tweede lid, in ieder geval voorschriften betreffende de volgende onderwerpen:
 
 - a. aanstelling;
 
@@ -162,13 +160,13 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld betreffend
 
 - o. de wijze waarop met de daarvoor in aanmerking komende vakorganisaties van overheidspersoneel overleg wordt gepleegd over aangelegenheden van algemeen belang voor de rechtstoestand en de bezoldiging van het personeel van het secretariaat;
 
-- p. een geschillenregeling met betrekking tot [de onder **l**](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=II&artikel=9&z=2010-10-01&g=2010-10-01) en [**o**](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=II&artikel=9&z=2010-10-01&g=2010-10-01) genoemde onderwerpen.
+- p. een geschillenregeling met betrekking tot de onder l en o genoemde onderwerpen.
 
 4. [Artikel 126 van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=126) is van overeenkomstige toepassing.
 
 ##### Artikel 10
 
-De Waarderingskamer stelt regels vast met betrekking tot haar werkwijze, tot die van het secretariaat, alsmede tot die van haar commissies. Tevens stelt de Waarderingskamer regels op met betrekking tot de wijze waarop overleg wordt gevoerd met de colleges en de afnemers of met hun vertegenwoordigers omtrent aangelegenheden ter zake waarvan naar haar oordeel overleg gewenst is, alsmede omtrent aangelegenheden ter zake waarvan de deelnemers aan het overleg de Waarderingskamer te kennen hebben gegeven overleg te willen voeren.
+De Waarderingskamer stelt een bestuursreglement vast, waarin in ieder geval regels worden opgenomen met betrekking tot de werkwijze van haar commissies, met betrekking tot de wijze waarop overleg wordt gevoerd met de colleges en de afnemers of met hun vertegenwoordigers omtrent aangelegenheden ter zake waarvan naar haar oordeel overleg gewenst is, alsmede omtrent aangelegenheden ter zake waarvan de deelnemers aan het overleg de Waarderingskamer te kennen hebben gegeven overleg te willen voeren.
 
 ##### Artikel 11
 
@@ -182,15 +180,15 @@ De Waarderingskamer stelt regels vast met betrekking tot haar werkwijze, tot die
 
 ##### Artikel 12
 
-De Waarderingskamer stelt jaarlijks voor 1 december een begroting vast voor het daarop volgende kalenderjaar.
+Vervallen
 
 ##### Artikel 13
 
-De Waarderingskamer brengt uiterlijk op 1 mei aan Onze Minister verslag uit over haar werkzaamheden en haar financieel beleid in het voorafgaande kalenderjaar, voorzien van een verklaring omtrent de getrouwheid daarvan van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). Het financieel beleid en beheer behoeven de goedkeuring van Onze Minister. Het verslag wordt door de zorg van Onze Minister openbaar gemaakt.
+Vervallen
 
 ##### Artikel 14
 
-Onze Minister kan de Waarderingskamer algemene aanwijzingen geven met betrekking tot de uitoefening van haar taak.
+Vervallen
 
 ##### Artikel 15
 
@@ -234,7 +232,7 @@ Voor de toepassing van de wet wordt als één onroerende zaak aangemerkt:
 
 5. In afwijking in zoverre van het tweede lid wordt de waarde van een gebouwd eigendom dat tot woning dient en deel uitmaakt van een op de voet van de [Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0001939) aangewezen landgoed dat voldoet aan de in [artikel 220d, eerste lid, onderdeel d, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=220d) bedoelde voorwaarden bepaald met inachtneming van een vooronderstelde verplichting om het gedurende een tijdvak van 25 jaren als zodanig in stand te houden en geen opgaand hout te vellen anders dan volgens de regels van normaal bosbeheer noodzakelijk of gebruikelijk is. Gebouwde eigendommen die dienstbaar zijn aan de woning worden geacht deel uit te maken van die woning.
 
-6. Met betrekking tot een onroerende zaak als bedoeld in [artikel 16, aanhef en onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=III&artikel=16&z=2010-10-01&g=2010-10-01), wordt de waarde gesteld op een evenredig deel van de waarde die dient te worden toegekend aan de gehele onroerende zaak.
+6. Met betrekking tot een onroerende zaak als bedoeld in [artikel 16, aanhef en onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=III&artikel=16&z=2011-01-01&g=2011-01-01), wordt de waarde gesteld op een evenredig deel van de waarde die dient te worden toegekend aan de gehele onroerende zaak.
 
 ##### Artikel 18
 
@@ -260,7 +258,7 @@ Vervallen
 
 ##### Artikel 20
 
-1. De in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2010-10-01&g=2010-10-01), bedoelde ambtenaar van de gemeente waarin de onroerende zaak is gelegen, bepaalt de waarde van die onroerende zaak.
+1. De in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2011-01-01&g=2011-01-01), bedoelde ambtenaar van de gemeente waarin de onroerende zaak is gelegen, bepaalt de waarde van die onroerende zaak.
 
 2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld voor de onderbouwing en de uitvoering van de waardebepaling.
 
@@ -274,7 +272,7 @@ De Waarderingskamer kan het college een aanbeveling doen omtrent de uitvoering v
 
 ##### Artikel 22
 
-1. De in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2010-10-01&g=2010-10-01), bedoelde ambtenaar van de gemeente waarin de onroerende zaak is gelegen, stelt de waarde van de onroerende zaak vast bij een voor bezwaar vatbare beschikking.
+1. De in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2011-01-01&g=2011-01-01), bedoelde ambtenaar van de gemeente waarin de onroerende zaak is gelegen, stelt de waarde van de onroerende zaak vast bij een voor bezwaar vatbare beschikking.
 
 2. De bij de beschikking vastgestelde waarde geldt voor een kalenderjaar.
 
@@ -312,7 +310,7 @@ Tegelijkertijd met of zo spoedig mogelijk na de bekendmaking wordt van de beschi
 
 5. Voor de toepassing van het derde lid, onderdeel **b**, wordt:
 
-- a. gebruik door de leden van een huishouden aangemerkt als gebruik door een door de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2010-10-01&g=2010-10-01), bedoelde gemeenteambtenaar aan te wijzen lid van dat huishouden;
+- a. gebruik door de leden van een huishouden aangemerkt als gebruik door een door de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2011-01-01&g=2011-01-01), bedoelde gemeenteambtenaar aan te wijzen lid van dat huishouden;
 
 - b. gebruik door degene aan wie een deel van een onroerende zaak in gebruik is gegeven, aangemerkt als gebruik door degene die dat deel in gebruik heeft gegeven;
 
@@ -322,7 +320,7 @@ Tegelijkertijd met of zo spoedig mogelijk na de bekendmaking wordt van de beschi
 
 7. Bij of krachtens algemene maatregel van bestuur kunnen met betrekking tot de in het derde lid, slotzin, bedoelde mededeling nadere regels worden gesteld.
 
-8. Indien aan een belanghebbende ingevolge het derde lid, aanhef en onderdelen **a** en **b**, twee of meer beschikkingen als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=22&z=2010-10-01&g=2010-10-01), moeten worden gezonden, kunnen deze beschikkingen worden verenigd in één geschrift.
+8. Indien aan een belanghebbende ingevolge het derde lid, aanhef en onderdelen **a** en **b**, twee of meer beschikkingen als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=22&z=2011-01-01&g=2011-01-01), moeten worden gezonden, kunnen deze beschikkingen worden verenigd in één geschrift.
 
 9. Indien ten aanzien van degene aan wie ingevolge het derde lid de bekendmaking van de beschikking dient te geschieden een aanslag onroerende-zaakbelastingen als bedoeld in [artikel 220 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=220) wordt vastgesteld waarbij als heffingsmaatstaf geldt de bij de beschikking vastgestelde waarde van de onroerende zaak, geschiedt in afwijking van de vorige leden de bekendmaking van de beschikking in één geschrift met het aanslagbiljet onroerende-zaakbelastingen. Het niet naleven van de eerste volzin brengt geen nietigheid van de beschikking mee.
 
@@ -332,75 +330,75 @@ Vervallen
 
 ##### Artikel 26
 
-1. Indien in de loop van het kalenderjaar waarvoor de waarde van een onroerende zaak is vastgesteld een ander dan degene te wiens aanzien een beschikking houdende de vaststelling van de waarde van die zaak is genomen, de hoedanigheid verkrijgt van degene, bedoeld in [artikel 24, derde lid, onderdeel a of onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=24&z=2010-10-01&g=2010-10-01),:
+1. Indien in de loop van het kalenderjaar waarvoor de waarde van een onroerende zaak is vastgesteld een ander dan degene te wiens aanzien een beschikking houdende de vaststelling van de waarde van die zaak is genomen, de hoedanigheid verkrijgt van degene, bedoeld in [artikel 24, derde lid, onderdeel a of onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=24&z=2011-01-01&g=2011-01-01),:
 
-- a. neemt de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2010-10-01&g=2010-10-01), bedoelde gemeenteambtenaar ten aanzien van die ander binnen acht weken na een daartoe gedaan verzoek een voor bezwaar vatbare beschikking als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=22&z=2010-10-01&g=2010-10-01), of [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=27&z=2010-10-01&g=2010-10-01);
+- a. neemt de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2011-01-01&g=2011-01-01), bedoelde gemeenteambtenaar ten aanzien van die ander binnen acht weken na een daartoe gedaan verzoek een voor bezwaar vatbare beschikking als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=22&z=2011-01-01&g=2011-01-01), of [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=27&z=2011-01-01&g=2011-01-01);
 
-- b. kan de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2010-10-01&g=2010-10-01), bedoelde gemeenteambtenaar ten aanzien van die ander eigener beweging een voor bezwaar vatbare beschikking nemen als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=22&z=2010-10-01&g=2010-10-01), of [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=27&z=2010-10-01&g=2010-10-01).
+- b. kan de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2011-01-01&g=2011-01-01), bedoelde gemeenteambtenaar ten aanzien van die ander eigener beweging een voor bezwaar vatbare beschikking nemen als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=22&z=2011-01-01&g=2011-01-01), of [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=27&z=2011-01-01&g=2011-01-01).
 
-2. De beschikking treedt, vanaf het tijdstip waarop die ander de in het eerste lid bedoelde hoedanigheid heeft verkregen, in de plaats van de in [de artikelen 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=22&z=2010-10-01&g=2010-10-01), of [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=27&z=2010-10-01&g=2010-10-01), bedoelde beschikking.
+2. De beschikking treedt, vanaf het tijdstip waarop die ander de in het eerste lid bedoelde hoedanigheid heeft verkregen, in de plaats van de in [de artikelen 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=22&z=2011-01-01&g=2011-01-01), of [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=27&z=2011-01-01&g=2011-01-01), bedoelde beschikking.
 
-3. De beschikking bevat in ieder geval de in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=23&z=2010-10-01&g=2010-10-01) bedoelde gegevens, alsmede een vermelding van het in het tweede lid bedoelde tijdstip.
+3. De beschikking bevat in ieder geval de in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=23&z=2011-01-01&g=2011-01-01) bedoelde gegevens, alsmede een vermelding van het in het tweede lid bedoelde tijdstip.
 
-4. [Artikel 24, derde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=24&z=2010-10-01&g=2010-10-01), is van overeenkomstige toepassing.
+4. [Artikel 24, derde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=24&z=2011-01-01&g=2011-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 27
 
-1. Indien enig feit grond oplevert voor het vermoeden dat de waarde te laag is vastgesteld, kan de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2010-10-01&g=2010-10-01), bedoelde gemeenteambtenaar de in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=22&z=2010-10-01&g=2010-10-01), of [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=26&z=2010-10-01&g=2010-10-01), bedoelde beschikking herzien bij een voor bezwaar vatbare beschikking. Een feit dat de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2010-10-01&g=2010-10-01), bedoelde gemeenteambtenaar bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond voor herziening opleveren.
+1. Indien enig feit grond oplevert voor het vermoeden dat de waarde te laag is vastgesteld, kan de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2011-01-01&g=2011-01-01), bedoelde gemeenteambtenaar de in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=22&z=2011-01-01&g=2011-01-01), of [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=26&z=2011-01-01&g=2011-01-01), bedoelde beschikking herzien bij een voor bezwaar vatbare beschikking. Een feit dat de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2011-01-01&g=2011-01-01), bedoelde gemeenteambtenaar bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond voor herziening opleveren.
 
-2. De bevoegdheid tot herziening vervalt door verloop van vijf jaren na de vaststelling van de in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=22&z=2010-10-01&g=2010-10-01), of [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=26&z=2010-10-01&g=2010-10-01), bedoelde beschikking.
+2. De bevoegdheid tot herziening vervalt door verloop van vijf jaren na de vaststelling van de in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=22&z=2011-01-01&g=2011-01-01), of [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=26&z=2011-01-01&g=2011-01-01), bedoelde beschikking.
 
-3. [Artikel 24, derde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=24&z=2010-10-01&g=2010-10-01), is van overeenkomstige toepassing.
+3. [Artikel 24, derde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=24&z=2011-01-01&g=2011-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 28
 
-1. Ten aanzien van degene die aannemelijk maakt met betrekking tot de heffing van belasting te zijnen aanzien belang te hebben bij de vastgestelde waarde van een onroerende zaak ingevolge de [artikelen 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=22&z=2010-10-01&g=2010-10-01), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=26&z=2010-10-01&g=2010-10-01), dan wel [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=27&z=2010-10-01&g=2010-10-01), en aan wie niet op de voet van de [artikelen 24, derde tot en met zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=24&z=2010-10-01&g=2010-10-01), [26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=26&z=2010-10-01&g=2010-10-01), dan wel [27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=27&z=2010-10-01&g=2010-10-01), de beschikking ter zake is toegezonden, neemt de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2010-10-01&g=2010-10-01), bedoelde gemeenteambtenaar binnen acht weken na een daartoe gedaan verzoek een voor bezwaar vatbare beschikking als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=22&z=2010-10-01&g=2010-10-01), [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=26&z=2010-10-01&g=2010-10-01), dan wel [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=27&z=2010-10-01&g=2010-10-01).
+1. Ten aanzien van degene die aannemelijk maakt met betrekking tot de heffing van belasting te zijnen aanzien belang te hebben bij de vastgestelde waarde van een onroerende zaak ingevolge de [artikelen 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=22&z=2011-01-01&g=2011-01-01), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=26&z=2011-01-01&g=2011-01-01), dan wel [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=27&z=2011-01-01&g=2011-01-01), en aan wie niet op de voet van de [artikelen 24, derde tot en met zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=24&z=2011-01-01&g=2011-01-01), [26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=26&z=2011-01-01&g=2011-01-01), dan wel [27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=27&z=2011-01-01&g=2011-01-01), de beschikking ter zake is toegezonden, neemt de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2011-01-01&g=2011-01-01), bedoelde gemeenteambtenaar binnen acht weken na een daartoe gedaan verzoek een voor bezwaar vatbare beschikking als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=22&z=2011-01-01&g=2011-01-01), [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=26&z=2011-01-01&g=2011-01-01), dan wel [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=27&z=2011-01-01&g=2011-01-01).
 
-2. De ingevolge het eerste lid genomen beschikking treedt in de plaats van de in de [artikelen 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=22&z=2010-10-01&g=2010-10-01), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=26&z=2010-10-01&g=2010-10-01), dan wel [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=27&z=2010-10-01&g=2010-10-01), bedoelde beschikking met ingang van het in het eerste lid bedoelde verzoek aan te geven tijdstip, met dien verstande dat dit tijdstip niet eerder kan zijn gelegen dan bij het begin van het kalenderjaar voorafgaande aan het jaar waarin dat verzoek is gedaan.
+2. De ingevolge het eerste lid genomen beschikking treedt in de plaats van de in de [artikelen 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=22&z=2011-01-01&g=2011-01-01), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=26&z=2011-01-01&g=2011-01-01), dan wel [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=27&z=2011-01-01&g=2011-01-01), bedoelde beschikking met ingang van het in het eerste lid bedoelde verzoek aan te geven tijdstip, met dien verstande dat dit tijdstip niet eerder kan zijn gelegen dan bij het begin van het kalenderjaar voorafgaande aan het jaar waarin dat verzoek is gedaan.
 
-3. De beschikking bevat de in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=23&z=2010-10-01&g=2010-10-01) bedoelde gegevens, alsmede een vermelding van het in het tweede lid bedoelde tijdstip.
+3. De beschikking bevat de in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=23&z=2011-01-01&g=2011-01-01) bedoelde gegevens, alsmede een vermelding van het in het tweede lid bedoelde tijdstip.
 
 4. De bekendmaking van de beschikking geschiedt door toezending aan degene te wiens aanzien zij is genomen.
 
 ##### Artikel 29
 
-1. Indien bij de uitspraak op een bezwaarschrift dan wel bij een ambtshalve door de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2010-10-01&g=2010-10-01), bedoelde gemeenteambtenaar genomen besluit met betrekking tot een op de voet van [dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&z=2010-10-01&g=2010-10-01) genomen beschikking:
+1. Indien bij de uitspraak op een bezwaarschrift dan wel bij een ambtshalve door de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2011-01-01&g=2011-01-01), bedoelde gemeenteambtenaar genomen besluit met betrekking tot een op de voet van [dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&z=2011-01-01&g=2011-01-01) genomen beschikking:
 
 - a. die beschikking wordt vernietigd;
 
-- b. de bij die beschikking vastgestelde waarde wordt verminderd, geschiedt de bekendmaking daarvan aan de belanghebbenden die het aangaat en de mededeling daarvan aan de afnemers met overeenkomstige toepassing van [artikel 24, derde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=24&z=2010-10-01&g=2010-10-01), en met inachtneming van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=28&z=2010-10-01&g=2010-10-01); mededeling van de uitspraak op een bezwaarschrift aan de afnemers geschiedt eerst indien deze onherroepelijk vaststaat.
+- b. de bij die beschikking vastgestelde waarde wordt verminderd, geschiedt de bekendmaking daarvan aan de belanghebbenden die het aangaat en de mededeling daarvan aan de afnemers met overeenkomstige toepassing van [artikel 24, derde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=24&z=2011-01-01&g=2011-01-01), en met inachtneming van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=28&z=2011-01-01&g=2011-01-01); mededeling van de uitspraak op een bezwaarschrift aan de afnemers geschiedt eerst indien deze onherroepelijk vaststaat.
 
-2. Indien de in het eerste lid bedoelde vernietiging of vermindering plaatsvindt krachtens onherroepelijke rechterlijke uitspraak, doet de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2010-10-01&g=2010-10-01), bedoelde gemeenteambtenaar daarvan mededeling aan de belanghebbenden die het aangaat met overeenkomstige toepassing van [artikel 24, derde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=24&z=2010-10-01&g=2010-10-01), en met inachtneming van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=28&z=2010-10-01&g=2010-10-01).
+2. Indien de in het eerste lid bedoelde vernietiging of vermindering plaatsvindt krachtens onherroepelijke rechterlijke uitspraak, doet de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2011-01-01&g=2011-01-01), bedoelde gemeenteambtenaar daarvan mededeling aan de belanghebbenden die het aangaat met overeenkomstige toepassing van [artikel 24, derde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=24&z=2011-01-01&g=2011-01-01), en met inachtneming van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=28&z=2011-01-01&g=2011-01-01).
 
-3. Tegelijkertijd met of zo spoedig mogelijk na de mededeling aan de belanghebbenden die het aangaat, bedoeld in het tweede lid, wordt mededeling gedaan aan de afnemers met overeenkomstige toepassing van [artikel 24, derde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=24&z=2010-10-01&g=2010-10-01).
+3. Tegelijkertijd met of zo spoedig mogelijk na de mededeling aan de belanghebbenden die het aangaat, bedoeld in het tweede lid, wordt mededeling gedaan aan de afnemers met overeenkomstige toepassing van [artikel 24, derde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=24&z=2011-01-01&g=2011-01-01).
 
 ### Hoofdstuk V. Bezwaar en beroep, bevoegdheden, verplichtingen en strafbepalingen
 
 ##### Artikel 30
 
-1. Met betrekking tot de waardebepaling en de waardevaststelling ingevolge de [hoofdstukken III](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=III&z=2010-10-01&g=2010-10-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=V&z=2010-10-01&g=2010-10-01) zijn de [artikelen 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=1), [5, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5), [22j tot en met 30](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=23), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=47), [49 tot en met 51](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=49), [53a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=53a), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=54) en [56 tot en met 60 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=56) van overeenkomstige toepassing. Met betrekking tot natuurlijke personen die een bedrijf of zelfstandig een beroep uitoefenen, alsmede lichamen, is voorts [artikel 52, vierde en vijfde lid, en - voor zoveel het betreft het bewaren van gegevensdragers - zesde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52) van overeenkomstige toepassing.
+1. Met betrekking tot de waardebepaling en de waardevaststelling ingevolge de [hoofdstukken III](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=III&z=2011-01-01&g=2011-01-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=V&z=2011-01-01&g=2011-01-01) zijn de [artikelen 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=1), [5, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5), [22j tot en met 30](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=23), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=47), [49 tot en met 51](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=49), [53a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=53a), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=54) en [56 tot en met 60 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=56) van overeenkomstige toepassing. Met betrekking tot natuurlijke personen die een bedrijf of zelfstandig een beroep uitoefenen, alsmede lichamen, is voorts [artikel 52, vierde en vijfde lid, en - voor zoveel het betreft het bewaren van gegevensdragers - zesde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52) van overeenkomstige toepassing.
 
-2. Een bezwaarschrift tegen een beschikking die is bekendgemaakt en verenigd in één geschrift met een aanslag onroerende-zaakbelastingen, zoals bedoeld in [artikel 24, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=24&z=2010-10-01&g=2010-10-01), wordt geacht mede te zijn gericht tegen die aanslag, tenzij uit het bezwaarschrift het tegendeel blijkt.
+2. Een bezwaarschrift tegen een beschikking die is bekendgemaakt en verenigd in één geschrift met een aanslag onroerende-zaakbelastingen, zoals bedoeld in [artikel 24, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=24&z=2011-01-01&g=2011-01-01), wordt geacht mede te zijn gericht tegen die aanslag, tenzij uit het bezwaarschrift het tegendeel blijkt.
 
-3. Een bezwaarschrift tegen een aanslag onroerende-zaakbelastingen die is bekendgemaakt en verenigd in één geschrift met een in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=22&z=2010-10-01&g=2010-10-01), bedoelde beschikking, zoals bedoeld in [artikel 24, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=24&z=2010-10-01&g=2010-10-01), wordt geacht mede te zijn gericht tegen die beschikking, tenzij uit het bezwaarschrift het tegendeel blijkt.
+3. Een bezwaarschrift tegen een aanslag onroerende-zaakbelastingen die is bekendgemaakt en verenigd in één geschrift met een in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=22&z=2011-01-01&g=2011-01-01), bedoelde beschikking, zoals bedoeld in [artikel 24, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&artikel=24&z=2011-01-01&g=2011-01-01), wordt geacht mede te zijn gericht tegen die beschikking, tenzij uit het bezwaarschrift het tegendeel blijkt.
 
-4. Indien de in het tweede of derde lid bedoelde fictie toepassing vindt, treedt de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2010-10-01&g=2010-10-01), bedoelde gemeenteambtenaar in de plaats van de in [artikel 231, tweede lid, onderdeel b, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=231) bedoelde gemeenteambtenaar wat betreft de aanslag onroerende-zaakbelastingen. In afwijking in zoverre van het eerste lid in samenhang met [artikel 25, vierde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=25), vervat deze gemeenteambtenaar de uitspraak op het bezwaar tegen de in het tweede of derde lid bedoelde beschikking en de uitspraak op het bezwaar tegen de in het tweede of derde lid bedoelde aanslag onroerende-zaakbelastingen in één geschrift.
+4. Indien de in het tweede of derde lid bedoelde fictie toepassing vindt, treedt de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2011-01-01&g=2011-01-01), bedoelde gemeenteambtenaar in de plaats van de in [artikel 231, tweede lid, onderdeel b, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=231) bedoelde gemeenteambtenaar wat betreft de aanslag onroerende-zaakbelastingen. In afwijking in zoverre van het eerste lid in samenhang met [artikel 25, vierde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=25), vervat deze gemeenteambtenaar de uitspraak op het bezwaar tegen de in het tweede of derde lid bedoelde beschikking en de uitspraak op het bezwaar tegen de in het tweede of derde lid bedoelde aanslag onroerende-zaakbelastingen in één geschrift.
 
-5. De bevoegdheden en verplichtingen die ingevolge de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) gelden met betrekking tot de inspecteur, gelden daarbij voor het college en de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2010-10-01&g=2010-10-01), bedoelde gemeenteambtenaar. De verplichtingen die krachtens [artikel 56 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=56) gelden jegens iedere door Onze Minister aangewezen andere ambtenaar van de rijksbelastingdienst, gelden daarbij jegens door het college aangewezen personen. Voor zover dit redelijkerwijs van belang kan worden geacht voor de uitvoering van de wet, gelden vorenbedoelde bevoegdheden en verplichtingen ook buiten de gemeente.
+5. De bevoegdheden en verplichtingen die ingevolge de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) gelden met betrekking tot de inspecteur, gelden daarbij voor het college en de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2011-01-01&g=2011-01-01), bedoelde gemeenteambtenaar. De verplichtingen die krachtens [artikel 56 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=56) gelden jegens iedere door Onze Minister aangewezen andere ambtenaar van de rijksbelastingdienst, gelden daarbij jegens door het college aangewezen personen. Voor zover dit redelijkerwijs van belang kan worden geacht voor de uitvoering van de wet, gelden vorenbedoelde bevoegdheden en verplichtingen ook buiten de gemeente.
 
 6. Voor de overeenkomstige toepassing van [artikel 25a van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=25a) treedt de raad in de plaats van de Tweede Kamer der Staten-Generaal of de Tweede Kamer. Voor de overeenkomstige toepassing van [artikel 28, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=28) treedt het college in de plaats van Onze Minister.
 
-7. De colleges van twee of meer gemeenten kunnen bepalen dat een daartoe aangewezen ambtenaar van één van die gemeenten voor de uitvoering van een of meer bepalingen van de wet wordt aangewezen als de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2010-10-01&g=2010-10-01), bedoelde gemeenteambtenaar van die gemeenten.
+7. De colleges van twee of meer gemeenten kunnen bepalen dat een daartoe aangewezen ambtenaar van één van die gemeenten voor de uitvoering van een of meer bepalingen van de wet wordt aangewezen als de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2011-01-01&g=2011-01-01), bedoelde gemeenteambtenaar van die gemeenten.
 
-8. Op een bezwaarschrift dat niet is ingediend in de laatste zes weken van een kalenderjaar, doet de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2010-10-01&g=2010-10-01), bedoelde gemeenteambtenaar, in afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10), uitspraak in het kalenderjaar waarin het bezwaarschrift is ontvangen.
+8. Op een bezwaarschrift dat niet is ingediend in de laatste zes weken van een kalenderjaar, doet de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2011-01-01&g=2011-01-01), bedoelde gemeenteambtenaar, in afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10), uitspraak in het kalenderjaar waarin het bezwaarschrift is ontvangen.
 
 ##### Artikel 31
 
-1. Met betrekking tot de toepassing van [de hoofdstukken III](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=III&z=2010-10-01&g=2010-10-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&z=2010-10-01&g=2010-10-01) kunnen bij algemene maatregel van bestuur:
+1. Met betrekking tot de toepassing van [de hoofdstukken III](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=III&z=2011-01-01&g=2011-01-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV&z=2011-01-01&g=2011-01-01) kunnen bij algemene maatregel van bestuur:
 
 - a. regels worden gesteld waarbij de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=48), [52, eerste, tweede en derde lid, en - voor zoveel het betreft de inrichting en het voeren van de administratie - zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52), [53, eerste en vierde lid](onbekend), en [55 van de Algemene wet inzake rijksbelastingen](onbekend) geheel of gedeeltelijk van toepassing worden verklaard, dan wel
 
-- b. regels worden gesteld die overeenkomen met die in de in [onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=V&artikel=31&z=2010-10-01&g=2010-10-01) genoemde artikelen.
+- b. regels worden gesteld die overeenkomen met die in de in [onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=V&artikel=31&z=2011-01-01&g=2011-01-01) genoemde artikelen.
 
 2. De in het eerste lid bedoelde regels bevatten in elk geval een omschrijving van degene op wie de verplichting rust, alsmede ten behoeve waarvan de verplichting geldt. Voorts vermelden deze regels naar gelang de aard van de verplichting een omschrijving van de aard van de te verstrekken gegevens en inlichtingen, van de aard van de gegevens welke uit de administratie dienen te blijken of van het doel waarvoor het voor raadpleging beschikbaar stellen van gegevensdragers kan geschieden.
 
@@ -440,7 +438,7 @@ De bij de wet strafbaar gestelde feiten waarop gevangenisstraf is gesteld, zijn 
 
 ##### Artikel 37
 
-De [artikelen 73](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=73), [77](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=77), [78](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=78), [80](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=80), [eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=V&artikel=37&z=2010-10-01&g=2010-10-01), [81](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=81), [83](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=83), [85](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=85) en [88 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=88) zijn van overeenkomstige toepassing.
+De [artikelen 73](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=73), [77](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=77), [78](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=78), [80](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=80), [eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=V&artikel=37&z=2011-01-01&g=2011-01-01), [81](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=81), [83](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=83), [85](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=85) en [88 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=88) zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk VI. Gegevensbeheer
 
@@ -456,9 +454,9 @@ Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met
 
 ##### Artikel 40
 
-1. Op verzoek kan het waardegegeven van een bepaalde onroerende zaak door de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2010-10-01&g=2010-10-01), bedoelde gemeenteambtenaar worden verstrekt aan een ieder die kan aantonen uit hoofde van de belastingheffing te zijnen aanzien een gerechtvaardigd belang te hebben bij de verkrijging daarvan.
+1. Op verzoek kan het waardegegeven van een bepaalde onroerende zaak door de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2011-01-01&g=2011-01-01), bedoelde gemeenteambtenaar worden verstrekt aan een ieder die kan aantonen uit hoofde van de belastingheffing te zijnen aanzien een gerechtvaardigd belang te hebben bij de verkrijging daarvan.
 
-2. De in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2010-10-01&g=2010-10-01), bedoelde gemeenteambtenaar verstrekt uitsluitend aan degene te wiens aanzien een beschikking is genomen, op verzoek een afschrift van de gegevens die ten grondslag liggen aan de vastgestelde waarde.
+2. De in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2011-01-01&g=2011-01-01), bedoelde gemeenteambtenaar verstrekt uitsluitend aan degene te wiens aanzien een beschikking is genomen, op verzoek een afschrift van de gegevens die ten grondslag liggen aan de vastgestelde waarde.
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de vergoeding die in rekening kan worden gebracht ter zake van de verstrekking van een waardegegeven aan derden.
 
@@ -498,7 +496,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Bij een op de voet van dit hoofdstuk bij beschikking vastgestelde waarde van een onroerende zaak van
 
-| meer dan | maar niet meer dan | wordt die waarde geacht juist te zijn, indien de waarde, bedoeld in [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=III&z=2010-10-01&g=2010-10-01), daarvan niet meer dan het in kolom III vermelde percentage afwijkt of indien dat meer is, niet meer dan het in kolom IV vermelde bedrag daarvan afwijkt, een en ander mits de afwijking niet meer bedraagt dan € 100 000 van de bij die beschikking vastgestelde waarde | wordt die waarde geacht juist te zijn, indien de waarde, bedoeld in [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=III&z=2010-10-01&g=2010-10-01), daarvan niet meer dan het in kolom III vermelde percentage afwijkt of indien dat meer is, niet meer dan het in kolom IV vermelde bedrag daarvan afwijkt, een en ander mits de afwijking niet meer bedraagt dan € 100 000 van de bij die beschikking vastgestelde waarde |
+| meer dan | maar niet meer dan | wordt die waarde geacht juist te zijn, indien de waarde, bedoeld in [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=III&z=2011-01-01&g=2011-01-01), daarvan niet meer dan het in kolom III vermelde percentage afwijkt of indien dat meer is, niet meer dan het in kolom IV vermelde bedrag daarvan afwijkt, een en ander mits de afwijking niet meer bedraagt dan € 100 000 van de bij die beschikking vastgestelde waarde | wordt die waarde geacht juist te zijn, indien de waarde, bedoeld in [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=III&z=2011-01-01&g=2011-01-01), daarvan niet meer dan het in kolom III vermelde percentage afwijkt of indien dat meer is, niet meer dan het in kolom IV vermelde bedrag daarvan afwijkt, een en ander mits de afwijking niet meer bedraagt dan € 100 000 van de bij die beschikking vastgestelde waarde |
 | --- | --- | --- | --- |
 | I | II | III | IV |
 | – | € 200 000 | 5% | – |
@@ -534,7 +532,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 1. Het college verstrekt een waardegegeven met bijbehorende temporele en meta-kenmerken aan de afnemer die het waardegegeven gebruikt voor de heffing van belastingen.
 
-2. Een waardegegeven waarbij op grond van [artikel 37g](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=VI&artikel=37g&z=2010-10-01&g=2010-10-01) de aantekening «in onderzoek» is geplaatst, wordt uitsluitend verstrekt onder mededeling van die aantekening.
+2. Een waardegegeven waarbij op grond van [artikel 37g](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=VI&artikel=37g&z=2011-01-01&g=2011-01-01) de aantekening «in onderzoek» is geplaatst, wordt uitsluitend verstrekt onder mededeling van die aantekening.
 
 3. Het college deelt, na verwijdering van de aantekening «in onderzoek», aan een afnemer die het desbetreffende waardegegeven voorafgaand aan de verwijdering van de aantekening verstrekt heeft gekregen en gebruikt voor de heffing van belastingen, mee dat de aantekening is verwijderd en of het gegeven is gewijzigd.
 
@@ -558,11 +556,11 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 37e
 
-Voor zover [artikel 37d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=VI&artikel=37d&z=2010-10-01&g=2010-10-01), van toepassing is, hoeft degene aan wie door een afnemer om een waardegegeven wordt gevraagd dat gegeven niet te verstrekken.
+Voor zover [artikel 37d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=VI&artikel=37d&z=2011-01-01&g=2011-01-01), van toepassing is, hoeft degene aan wie door een afnemer om een waardegegeven wordt gevraagd dat gegeven niet te verstrekken.
 
 ##### Artikel 37f
 
-1. In aanvulling in zoverre op [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=V&artikel=32&z=2010-10-01&g=2010-10-01) meldt een afnemer die gerede twijfel heeft over de juistheid van een authentiek gegeven dat hij verstrekt heeft gekregen uit de basisregistratie WOZ dit aan het college, onder opgaaf van redenen.
+1. In aanvulling in zoverre op [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=V&artikel=32&z=2011-01-01&g=2011-01-01) meldt een afnemer die gerede twijfel heeft over de juistheid van een authentiek gegeven dat hij verstrekt heeft gekregen uit de basisregistratie WOZ dit aan het college, onder opgaaf van redenen.
 
 2. Voor zover een terugmelding betrekking heeft op een authentiek gegeven dat is overgenomen uit een andere basisregistratie, zendt het college die melding onverwijld door aan de beheerder van die andere basisregistratie en doet daarvan mededeling aan de afnemer die de terugmelding heeft gedaan.
 
@@ -612,7 +610,7 @@ Bij algemene maatregel van bestuur worden bestuursorganen aangewezen die bevoegd
 
 ##### Artikel 40a
 
-1. Op verzoek kan het waardegegeven van een bepaalde onroerende zaak die in hoofdzaak tot woning dient door de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2010-10-01&g=2010-10-01), bedoelde gemeenteambtenaar worden verstrekt aan bij algemene maatregel van bestuur aan te wijzen derden die bevoegd zijn tot het gebruik van een waardegegeven ten behoeve van de bij die maatregel aan te wijzen doeleinden.
+1. Op verzoek kan het waardegegeven van een bepaalde onroerende zaak die in hoofdzaak tot woning dient door de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=I&artikel=1&z=2011-01-01&g=2011-01-01), bedoelde gemeenteambtenaar worden verstrekt aan bij algemene maatregel van bestuur aan te wijzen derden die bevoegd zijn tot het gebruik van een waardegegeven ten behoeve van de bij die maatregel aan te wijzen doeleinden.
 
 2. De bij de in het eerste lid bedoelde algemene maatregel van bestuur aangewezen derde gebruikt een waardegegeven uitsluitend bij de uitoefening van de op grond van de bij die algemene maatregel van bestuur verleende bevoegdheid tot gebruik van dit gegeven.
 
