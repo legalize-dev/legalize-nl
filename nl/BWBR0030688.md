@@ -4,7 +4,7 @@ identifier: "BWBR0030688"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2010-01-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030688"
 soort: "wet"
@@ -58,7 +58,7 @@ Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel V
 
@@ -70,7 +70,7 @@ Wijzigt de Successiewet 1956.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de omzetbelasting 1968.
 
 ##### Artikel VIII
 
@@ -98,7 +98,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet inzake rijksbelastingen.
 
 ##### Artikel XV
 
@@ -134,7 +134,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Douane- en Accijnswet BES.
 
 ##### Artikel XXIV
 
