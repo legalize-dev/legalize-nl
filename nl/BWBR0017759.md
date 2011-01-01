@@ -4,7 +4,7 @@ identifier: "BWBR0017759"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-01-01"
-last_updated: "2007-02-25"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017759"
 soort: "ministeriele-regeling"
@@ -94,17 +94,25 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - a. Aruba;
 
-- b. de Britse Maagdeneilanden;
+- b. Curaçao;
 
-- c. het Eiland Man;
+- c. Sint Maarten;
 
-- d. Guernsey;
+- d. Bonaire;
 
-- e. Jersey;
+- e. Sint Eustatius;
 
-- f. Montserrat;
+- f. Saba;
 
-- g. de Nederlandse Antillen.
+- g. de Britse Maagdeneilanden;
+
+- h. het Eiland Man;
+
+- i. Guernsey;
+
+- j. Jersey;
+
+- k. Montserrat.
 
 2. Voor de toepassing van [artikel 4b, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=4b) wordt voorts met een lidstaat gelijkgesteld:
 
