@@ -4,7 +4,7 @@ identifier: "BWBR0033599"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2010-01-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033599"
 soort: "wet"
@@ -87,7 +87,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VII. [Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet algemene weduwen- en wezenverzekering BES.
 
 ##### Artikel VIIa. [Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616)
 
