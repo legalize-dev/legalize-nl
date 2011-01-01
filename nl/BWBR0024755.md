@@ -4,7 +4,7 @@ identifier: "BWBR0024755"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-07-08"
-last_updated: "2008-11-29"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024755"
 soort: "ministeriele-regeling"
@@ -82,11 +82,9 @@ In deze regeling wordt verstaan onder:
 
 - e. cijferlijsten en beoordelingen van studieresultaten, praktijkperiode of stages van de aanvrager;
 
-- f. indien in het land van herkomst een door een overheidsorgaan of een organisatie van beoefenaren van het desbetreffende beroep ingesteld register in stand wordt gehouden een bewijs van inschrijving in dat register, dat niet ouder is dan drie maanden;
+- f. een document niet ouder dan drie maanden, waaruit blijkt dat ten aanzien van de aanvrager geen maatregel berustend op een in het buitenland gegeven rechterlijke, tuchtrechtelijke of bestuursrechtelijke beslissing van kracht is, op grond waarvan de rechten tot de uitoefening van het betrokken beroep in het land waar de beslissing is gegeven, geheel of gedeeltelijk, tijdelijk of blijvend is verloren;
 
-- g. een document niet ouder dan drie maanden, waaruit blijkt dat ten aanzien van de aanvrager geen maatregel berustend op een in het buitenland gegeven rechterlijke, tuchtrechtelijke of bestuursrechtelijke beslissing van kracht is, op grond waarvan de rechten tot de uitoefening van het betrokken beroep in het land waar de beslissing is gegeven, geheel of gedeeltelijk, tijdelijk of blijvend is verloren;
-
-- h. indien de aanvrager houder is van een getuigschrift afgegeven in een ander land dan de betrokken staat, een verklaring waaruit blijkt:
+- g. indien de aanvrager houder is van een getuigschrift afgegeven in een ander land dan de betrokken staat, een verklaring waaruit blijkt:
 
 - –. dat het getuigschrift door het daarvoor bevoegd gezag van de betrokken staat is erkend;
 
@@ -94,7 +92,7 @@ In deze regeling wordt verstaan onder:
 
 - –. voor zover de verklaring betrekking heeft op een beroep dat valt onder titel III van hoofdstuk III van de richtlijn dat bij de eerste erkenning rekening is gehouden met de in genoemd hoofdstuk van de richtlijn bedoelde minimum opleidingseisen;
 
-- i. bewijsstukken van eventuele beroepservaring en aanvullend onderwijs.
+- h. bewijsstukken van eventuele beroepservaring en aanvullend onderwijs.
 
 3. De bescheiden bedoeld in het tweede lid, onderdeel c, tot en met onderdeel i, zijn gesteld in het Nederlands, Engels, Frans of Duits, dan wel door een beëdigd vertaler in een van deze talen vertaald. Fotokopieën van deze bescheiden zijn gewaarmerkt.
 
@@ -148,7 +146,7 @@ Indien een erkenning van beroepskwalificaties wordt aangevraagd voor het beroep 
 
 psychotherapeut.
 
-2. In aanvulling op de documenten genoemd in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024755&artikel=5&z=2008-11-29&g=2008-11-29), verstrekt de dienstverrichter voor de controle de documenten, genoemd in [artikel 2, tweede lid, onderdeel d, e en i](https://wetten.overheid.nl/jci1.3:c:BWBR0024755&artikel=2&z=2008-11-29&g=2008-11-29).
+2. In aanvulling op de documenten genoemd in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024755&artikel=5&z=2011-01-01&g=2011-01-01), verstrekt de dienstverrichter voor de controle de documenten, genoemd in [artikel 2, tweede lid, onderdeel d, e en i](https://wetten.overheid.nl/jci1.3:c:BWBR0024755&artikel=2&z=2011-01-01&g=2011-01-01).
 
 3. Teneinde te kunnen beoordelen of de situatie, genoemd in [artikel 27, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27) zich voordoet, wint de minister advies in van de commissie.
 
