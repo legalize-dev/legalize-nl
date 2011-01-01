@@ -4,7 +4,7 @@ identifier: "BWBV0001441"
 country: "nl"
 rank: "verdrag"
 publication_date: "2026-01-01"
-last_updated: "1996-09-09"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001441"
 soort: "verdrag"
@@ -345,69 +345,89 @@ De verzamelreservoirs moeten aan boord zó opgeslagen worden dat daaruit lekkend
 
 ### HOOFDSTUK III. ORGANISATIE EN FINANCIERING VAN DE VERWIJDERING VAN OLIE- EN VETHOUDEND SCHEEPSBEDRIJFSAFVAL
 
-##### Artikel 3.01. Heffing van de verwijderingsbijdrage
+##### Artikel 3.01. Begripsbepalingen
 
-1. De verwijderingsbijdrage bedraagt in het eerste jaar 7,5 ECU per 1000 l verkochte gasolie.
+In dit hoofdstuk wordt verstaan onder:
 
-2. De verwijderingsbijdrage wordt betaald door middel van zegels die bij een nationaal instituut zijn aangeschaft. De zegels worden door het internationale verevenings- en coördinatieorgaan uitgegeven.
+- a. „exploitant van het schip” de natuurlijke of rechtspersoon die opkomt voor de lopende uitgaven in verband met de exploitatie van het schip en met name voor de aanschaf van de gebruikte brandstof, en bij ontstentenis, de eigenaar van het schip;
 
-3. De schipper geeft bij het bunkeren een met de te betrekken hoeveelheid gasolie overeenkomende hoeveelheid zegels aan het bunkerbedrijf af.
-
-4. Het bunkerbedrijf maakt bij elke levering van gasolie het aantal zegels ongeldig dat overeenkomt met de waarde van de met de geleverde hoeveelheid gasolie overeenkomende verwijderingsbijdrage.
-
-5. De bunkerbedrijven moeten elk kwartaal de, tegen overlegging van zegels, geleverde hoeveelheid gasolie melden aan het nationale instituut of de op grond van nationale regelgeving bevoegde autoriteiten.
-
-6. De bijzonderheden van de procedure worden, na afstemming in het internationale verevenings- en coördinatieorgaan, op nationaal niveau vastgesteld.
+- b. „SPE-CDNI”, elektronische betalingssysteem, dat rekeningen (ECO-rekening), magnetische kaarten (ECO-kaart) en mobiele elektronische terminals omvat.
 
 ##### Artikel 3.02. Nationaal instituut
 
-Het nationale instituut heft de verwijderingsbijdrage en legt aan het internationale verevenings- en coördinatieorgaan voorstellen voor ter vaststelling van het vereiste nationale net van ontvangstinrichtingen. Het instituut heeft voorts in het bijzonder de taak, op internationaal eenvormige wijze, regelmatig de hoeveelheden verwijderd olie- en vethoudend scheepsbedrijfsafval, alsmede het totaal van de geheven verwijderingsbijdragen te registreren. Het nationale instituut of de op grond van nationale regelgeving bevoegde autoriteit ziet toe op de verwijderingskosten. Het nationale instituut is vertegenwoordigd in het internationale verevenings- en coördinatieorgaan en dient met name de door dit orgaan vastgestelde voorlopige en deﬁnitieve vereveningsbedragen op het daartoe vastgestelde tijdstip aan de andere nationale instituten af te dragen.
+Het nationale instituut heft de verwijderingsbijdrage en legt aan het internationale verevenings- en coördinatieorgaan voorstellen voor ter vaststelling van het vereiste nationale net van ontvangstinrichtingen. Het instituut heeft voorts in het bijzonder de taak, op internationaal eenvormige wijze, regelmatig de hoeveelheden verwijderd olie- en vethoudend scheepsbedrijfsafval, alsmede het totaal van de geheven verwijderingsbijdragen te registreren. Het nationale instituut of de bevoegde autoriteit ziet toe op de verwijderingskosten. Het nationale instituut is vertegenwoordigd in het internationale verevenings- en coördinatieorgaan en dient met name de door dit orgaan vastgestelde voorlopige en definitieve vereveningsbedragen op het daartoe vastgestelde tijdstip aan de andere nationale instituten af te dragen.
 
-##### Artikel 3.03. Controle van de hefﬁng van de verwijderingsbijdrage en van de kosten van inname en verwijdering
+##### Artikel 3.03. Heffing van de verwijderingsbijdrage
 
-1. Bij iedere afname van gasolie dient door het bunkerbedrijf een bunkerverklaring te worden opgemaakt. Deze verklaring moet ten minste de volgende gegevens bevatten: de naam van het schip, ofﬁcieel scheepsnummer of een andere vermelding ter identiﬁcatie van het schip, naam van de schipper, betrokken/geleverde hoeveelheid gasolie, waarde van de afgegeven/ontvangen zegels, plaats en datum, handtekeningen van de schipper en het bunkerbedrijf.
+1. De verwijderingsbijdrage bedraagt 7,5 euro (te vermeerderen met BTW) per 1000 l geleverde gasolie. De berekening van het bedrag moet worden gebaseerd op het volume van de gasolie bij 15 °C.
 
-De schipper ontvangt een afschrift dat hij ten minste zes maanden aan boord moet bewaren. Een ander afschrift blijft bij het bunkerbedrijf, die het overeenkomende aantal zegels onlosmakelijk moet bijvoegen en ongeldig maken.
+2. De exploitant van het schip is de verwijderingsbijdrage verschuldigd.
 
-2. De overeenstemming tussen de door de schepen betrokken hoeveelheden gasolie en de waarde van de afgegeven zegels wordt door het nationale instituut of door de op grond van nationale regelgeving bevoegde autoriteiten gecontroleerd aan de hand van de door de bunkerbedrijven over te leggen afschriften van de bunkerverklaringen.
+3. De verwijderingsbijdrage wordt bij het bunkeren voldaan. Het bedrag van de afgedragen verwijderingsbijdrage moet evenredig zijn met de geleverde hoeveelheid gasolie.
 
-3. De op grond van nationale regelgeving bevoegde autoriteit kan aan boord van de schepen de betaling van de verwijderingsbijdrage alsmede de hoeveelheden verwijderde olie- en vethoudende scheepsbedrijfsafval controleren door vergelijking van de in de daartoe geëigende scheepsdocumenten aangetekende reizen met de in de bunkerverklaring vermelde gegevens.
+4. De betaling van de verwijderingsbijdrage wordt door middel van het SPE-CDNI verricht. Het SPE-CDNI wordt geëxploiteerd door de nationale instituten.
 
-4. Het nationale instituut of de op grond van nationale regelgeving bevoegde autoriteit kan bij de ontvangstinrichtingen de gegevens met betrekking tot de verwijderde hoeveelheden, alsmede de kosten van verwijdering aan de hand van daartoe geëigende documenten controleren.
+5. De procedure voor de betaling van de verwijderingsbijdrage door middel van het SPE-CDNI is gebaseerd op het principe van de storting van een passend bedrag door de exploitant van het schip of diens vertegenwoordiger bij een nationaal instituut, waarmee de in de toekomst verschuldigde verwijderingsbijdragen worden verrekend en voorziet in:
 
-5. De details van de procedure worden, na afstemming in het internationale verevenings- en coördinatieorgaan, op nationaal niveau vastgesteld.
+- a). het openen op verzoek van de exploitant van het schip of diens vertegenwoordiger van een ECO-rekening bij het nationaal instituut van zijn keuze;
+
+- b). de afgifte door dit nationaal instituut van één of meer ECO-kaarten die toegang verlenen tot de betrokken ECO-rekening voor het betalen van de verwijderingsbijdrage;
+
+- c). de overmaking van een passend bedrag op de bankrekening van het nationaal instituut door de exploitant van het schip of zijn vertegenwoordiger ter opwaardering van de betreffende ECO-rekening en bestemd voor de betaling van de verwijderingsbijdragen;
+
+- d). de afboeking van de verwijderingsbijdrage van de betreffende ECO-rekening door middel van de ECO-kaart en de afhandeling van de transactie met een mobiele elektronische terminal door het bunkerbedrijf. Hiertoe verstrekt de schipper tijdens het bunkeren de ECO-kaart aan het bunkerbedrijf.
+
+6. In afwijking van bovenstaand lid vier, wordt voor de betaling van de verwijderingsbijdrage door de exploitant van het schip in de volgende bijzondere gevallen gebruik gemaakt van een schriftelijke procedure:
+
+- a). het SPE-CDNI is niet voorhanden of buiten werking;
+
+- b). de schipper kan geen ECO-kaart overleggen of de overgelegde ECO-kaart is niet geldig;
+
+- c). het saldo op de betreffende ECO-rekening is niet toereikend.
+
+7. Het bunkerbedrijf stelt het nationale instituut van het land waarin de bunkering heeft plaatsgevonden de voor de betaling van de verwijderingsbijdrage noodzakelijke informatie betreffende de transacties in de in bovenstaand lid zes bedoelde gevallen binnen de termijn van zeven kalenderdagen ter beschikking. Het nationale instituut onderneemt de voor de inning van de verschuldigde verwijderingsbijdrage noodzakelijke stappen. In het voorkomende geval kan de inning overgedragen worden aan een van de andere nationale instituten.
+
+8. Voor de transacties in de onder letter b) en c) van bovenstaand lid zes genoemde gevallen, is de exploitant van het schip het nationale instituut van het land waarin de bunkering heeft plaatsgevonden administratiekosten verschuldigd; de hoogte van deze administratiekosten wordt voor alle Verdragspartijen uniform door het internationaal verevenings- en coördinatieorgaan bepaald.
+
+9. Een nationaal instituut kan in die gevallen, waarbij de onverkorte toepassing van de in de leden 4 en 5 bedoelde procedure uit oogpunt van doelmatigheid zijns inziens niet geëigend is, individuele afwijkende regelingen treffen met betrekking tot de levering van gasolie en het voldoen van de overeenkomstige verwijderingsbijdrage. Deze afwijkende regelingen, die aan het internationale verevenings- en coördinatieorgaan bekend gemaakt moeten worden, dienen met de overige bepalingen van dit hoofdstuk overeen te stemmen.
+
+10. De bijzonderheden betreffende de toepassing van de in dit artikel genoemde procedures worden na afstemming in het internationale verevenings- en coördinatieorgaan op nationaal niveau vastgesteld.
 
 ### HOOFDSTUK IV. INTERNATIONALE FINANCIËLE VEREVENING
 
 ##### Artikel 4.01. Internationaal verevenings- en coördinatieorgaan
 
-Het internationale verevenings- en coördinatieorgaan komt eenmaal per jaar in het laatste kwartaal bijeen, om te besluiten over de ﬁnanciële verevening van het voorafgaande jaar en, in voorkomend geval, de Conferentie der Verdragsluitende Partijen een voorstel te doen tot wijziging van de hoogte van de verwijderingsbijdrage dan wel tot een eventueel noodzakelijke aanpassing van het aanwezige net van ontvangstinrichtingen, met inachtneming van de behoeften van de scheepvaart en de economische doelmatigheid van de afvalverwijdering. Het kan op elk moment bijeenkomen indien de vertegenwoordigers van twee nationale instituten daarom verzoeken.
+1. Het internationale verevenings- en coördinatieorgaan komt eenmaal per jaar in het laatste kwartaal bijeen, om te besluiten over de financiële verevening van het voorafgaande jaar en, in voorkomend geval, de Conferentie der Verdragsluitende Partijen een voorstel te doen tot wijziging van de hoogte van de verwijderingsbijdrage dan wel tot een eventueel noodzakelijke aanpassing van het aanwezige net van ontvangstinrichtingen, met inachtneming van de behoeften van de scheepvaart en de economische doelmatigheid van de afvalverwijdering. Het kan op elk moment op voorstel van het secretariaat of indien de vertegenwoordigers van twee nationale instituten daarom verzoeken, bijeenkomen.
+
+2. Het internationale verevenings- en coördinatieorgaan legt eenvormige procedures en modaliteiten voor de voorlopige en jaarlijkse verevening vast.
+
+3. Alle financiële transacties met betrekking tot de verwijderingsbijdrage geschieden in euro.
 
 ##### Artikel 4.02. Voorlopige financiële verevening
 
-1. De nationale instituten melden het internationale verevenings- en coördinatieorgaan, volgens een eenvormig model, elk kwartaal, in ieder geval uiterlijk 31 maart, 30 juni, 30 september en 31 december:
+1. De nationale instituten melden het secretariaat van het internationale verevenings- en coördinatieorgaan per kwartaal, te weten op 1 februari, 1 mei, 1 augustus en 1 november:
 
-- a). de in het voorafgaande kwartaal ingenomen en verwijderde hoeveelheden olie- en vethoudend afval;
+- a). de gedurende het kwartaal ingenomen en verwijderde hoeveelheden olie- en vethoudend afval;
 
-- b). de totale inname- en verwijderingskosten voor de onder a aangegeven hoeveelheden;
+- b). de totale inname- en verwijderingskosten voor de onder a) aangegeven hoeveelheden;
 
-- c). de in het voorafgaande kwartaal aan de schepen afgegeven hoeveelheden gasolie;
+- c). de aan de vaartuigen die vallen onder de betaling van een verwijderingsbijdrage geleverde hoeveelheden gasolie;
 
-- d). het bedrag van de in het voorafgaande kwartaal geïnde verwijderingsbijdragen;
+- d). de som van de geïnde verwijderingsbijdragen;
 
-- e). de ﬁnanciële consequenties van de in artikel 6, eerste lid, vijfde zin, van dit Verdrag bedoelde maatregelen.
+- e). de financiële consequenties van de in [artikel 6, eerste lid, vijfde zin, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&artikel=6&z=2011-01-01&g=2011-01-01) bedoelde maatregelen.
 
-De omrekening van de valuta’s geschiedt aan de hand van de op de genoemde peildata geldende wisselkoersen.
+De modaliteiten van deze procedure worden door het internationale verevenings- en coördinatieorgaan vastgesteld.
 
-2. Het internationale verevenings- en coördinatieorgaan stelt, op grond van de ingevolge het eerste lid gedane mededelingen en de vereveningsprocedure, bedoeld in artikel 4.04, de voorlopige bedragen van de kwartaalverevening vast en deelt deze binnen vier weken na ontvangst van de mededelingen aan de nationale instituten mede.
+2. Het internationale verevenings- en coördinatieorgaan stelt voor elk afgelopen kwartaal op grond van de ingevolge het eerste lid verstrekte cijfers en de vereveningsprocedure, bedoeld in [artikel 4.04](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=A&hoofdstuk=IV&artikel=4.04&z=2011-01-01&g=2011-01-01), de voorlopige bedragen van de kwartaalverevening vast en legt deze binnen een termijn van twee weken na ontvangst van alle in het eerste lid genoemde mededelingen aan de nationale instituten voor.
 
 3. De nationale instituten die in het kader van de kwartaalverevening een betaling moeten verrichten, zijn verplicht dit bedrag binnen vier weken na ontvangst van de betalingsvordering te voldoen aan de nationale instituten die recht hebben op de betaling.
 
-##### Artikel 4.03. Jaarlijkse ﬁnanciële verevening
+##### Artikel 4.03. Jaarlijkse financiële verevening
 
-1. De nationale instituten leggen hun jaarrekening met betrekking tot het voorafgaande jaar uiterlijk op 1 augustus van het lopende jaar aan het internationale verevenings- en coördinatieorgaan voor. Het internationale verevenings- en coördinatieorgaan stelt op zijn gewone vergadering de ﬁnanciële verevening voor het voorafgaande jaar vast.
+1. De nationale instituten leggen hun jaarrekening met betrekking tot het voorafgaande jaar, uiterlijk op 15 oktober van het lopende jaar aan het secretariaat van het internationale verevenings- en coördinatieorgaan voor. Het internationale verevenings- en coördinatieorgaan stelt op zijn gewone vergadering de financiële verevening voor het voorafgaande jaar vast.
 
-2. De nationale instituten zijn verplicht de vereveningsbetalingen op grond van de deﬁnitieve ﬁnanciële verevening voor het voorafgaande jaar overeenkomstig artikel 4.02, derde lid, te verrichten. De omrekening van de valuta’s geschiedt aan de hand van de op 31 december van het voorafgaande jaar geldende wisselkoersen.
+2. De nationale instituten zijn verplicht de vereveningsbetalingen op grond van de definitieve financiële verevening voor het voorafgaande jaar overeenkomstig [artikel 4.02, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=A&hoofdstuk=IV&artikel=4.02&z=2011-01-01&g=2011-01-01), te verrichten.
 
 ##### Artikel 4.04. Procedure van ﬁnanciële verevening
 
@@ -661,6 +681,46 @@ De Verdragsluitende Staten kunnen voor schepen als bedoeld in artikel 9.01, derd
 1. De exploitant van de ontvangstinrichting dient zeker te stellen dat het in artikel 9.01, eerste lid, genoemde afval gescheiden afgegeven kan worden.
 
 2. De exploitant van de ontvangstinrichting geeft de schipper overeenkomstig de nationale voorschriften een verklaring inzake de afgifte van slops.
+
+TEN BLIJKE waarvan de hiertoe naar behoren gemachtigde ondertekenaars dit Verdrag hebben ondertekend,
+
+GEDAAN te Straatsburg, op 9 september 1996.
+
+##### Artikel 3.04. Controle van de heffing van de verwijderingsbijdrage en van de kosten van inname en verwijdering
+
+1. Bij iedere afname van gasolie dient door het bunkerbedrijf een bunkerverklaring te worden opgemaakt. Deze verklaring moet ten minste de volgende gegevens bevatten: de naam van het schip, het uniek Europese scheepsidentificatienummer of een andere vermelding ter identificatie van het schip, naam van de exploitant van het schip of van de schipper, betrokken/geleverde hoeveelheid gasolie (in liter bij 15 °C, naar beneden of naar boven afgerond op de hele liter), plaats en datum, handtekeningen van de schipper en het bunkerbedrijf.
+
+2. Het transactiebewijs met betrekking tot de verwijderingsbijdrage dat door het SPE-CDNI wordt afgegeven, moet aan deze bunkerverklaring worden gehecht. De schipper ontvangt een afschrift van beide voornoemde documenten die hij ten minste twaalf maanden aan boord moet bewaren. Een ander afschrift van beide moet ten minste twaalf maanden bij het bunkerbedrijf worden bewaard.
+
+3. In het geval de schriftelijke procedure conform [artikel 3.03, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=A&hoofdstuk=III&artikel=3.03&z=2011-01-01&g=2011-01-01) wordt toegepast, vermeldt het bunkerbedrijf op de betreffende bunkerverklaring dat de exploitant van het schip de verwijderingsbijdrage niet heeft voldaan.
+
+4. De overeenstemming tussen de door de schepen betrokken hoeveelheden gasolie en de hoogte van de betaalde verwijderingsbijdragen wordt door het nationale instituut of de bevoegde autoriteit gecontroleerd aan de hand van de door de bunkerbedrijven te overleggen afschriften van de bunkerverklaringen.
+
+5. De bevoegde autoriteit kan aan boord van de vaartuigen de betaling van de verwijderingsbijdrage, alsmede de hoeveelheden afgegeven olie- en vethoudend scheepsbedrijfsafval controleren, in het bijzonder door de aantekeningen over de afgelegde reizen in de daartoe vereiste boorddocumenten met de op de bunkerverklaring vermelde gegevens te vergelijken.
+
+6. Het nationale instituut of de bevoegde autoriteit kan bij de ontvangstinrichtingen de gegevens over de verwijderde hoeveelheden, alsmede de kosten van de verwijdering aan de hand van daartoe geschikte documenten controleren.
+
+7. Het nationale instituut of de bevoegde autoriteit kan bij het bunkerbedrijf de opgave controleren van de hoeveelheid gasolie die geleverd is aan schepen die verplicht zijn de verwijderingsbijdrage te voldoen.
+
+8. De bijzonderheden van de in dit artikel genoemde procedures worden na afstemming in het internationale verevenings- en coördinatieorgaan op nationaal niveau vastgesteld.
+
+### HOOFDSTUK IV. INTERNATIONALE FINANCIËLE VEREVENING
+
+## DEEL B. VERZAMELING, AFGIFTE EN INNAME VAN AFVAL VAN DE LADING
+
+### HOOFDSTUK V. ALGEMENE BEPALINGEN
+
+### HOOFDSTUK VI. VERPLICHTINGEN VAN DE SCHIPPER
+
+### HOOFDSTUK VII. VERPLICHTINGEN VAN DE VERVOERDER, DE VERLADER, DE LADINGONTVANGER EN DE EXPLOITANT VAN DE OVERSLAGINSTALLATIE
+
+## DEEL C. VERZAMELING, AFGIFTE EN INNAME VAN OVERIG SCHEEPSBEDRIJFSAFVAL
+
+### HOOFDSTUK VIII. ALGEMENE BEPALINGEN
+
+### HOOFDSTUK IX. VERPLICHTINGEN VAN DE SCHIPPER
+
+### HOOFDSTUK X. VERPLICHTINGEN VAN DE EXPLOITANT VAN DE ONTVANGSTINRICHTING
 
 TEN BLIJKE waarvan de hiertoe naar behoren gemachtigde ondertekenaars dit Verdrag hebben ondertekend,
 
