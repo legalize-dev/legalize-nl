@@ -4,7 +4,7 @@ identifier: "BWBR0006951"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-01"
-last_updated: "2010-02-10"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006951"
 soort: "AMvB"
@@ -63,11 +63,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - f. **bedrijfsvoorraad deel I B**: deel I B van een kentekenbewijs van een bij ministeriële regeling vastgesteld model, afgegeven aan een erkend bedrijf, ten behoeve van de voertuigen die in bedrijfsvoorraad zijn opgenomen;
 
-- g. **bedrijfsvoorraadpas**: pas als bedoeld in [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=48&z=2010-02-10&g=2010-02-10);
+- g. **bedrijfsvoorraadpas**: pas als bedoeld in [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=48&z=2011-01-01&g=2011-01-01);
 
-- h. **handelaarskenteken**: kenteken als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=2&artikel=3&z=2010-02-10&g=2010-02-10);
+- h. **handelaarskenteken**: kenteken als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=2&artikel=3&z=2011-01-01&g=2011-01-01);
 
-- i. **vrijwaringsbewijs** : bewijs van een bij ministeriële regeling vastgesteld model, blijkens welk aan de verplichtingen van [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=26&z=2010-02-10&g=2010-02-10), [27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=27&z=2010-02-10&g=2010-02-10), [27, achtste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=27&z=2010-02-10&g=2010-02-10), [28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=28&z=2010-02-10&g=2010-02-10), [28a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=28a&z=2010-02-10&g=2010-02-10), of [29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=29&z=2010-02-10&g=2010-02-10), is voldaan;
+- i. **vrijwaringsbewijs** : bewijs van een bij ministeriële regeling vastgesteld model, blijkens welk aan de verplichtingen van [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=26&z=2011-01-01&g=2011-01-01), [27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=27&z=2011-01-01&g=2011-01-01), [27, achtste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=27&z=2011-01-01&g=2011-01-01), [28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=28&z=2011-01-01&g=2011-01-01), [28a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=28a&z=2011-01-01&g=2011-01-01), of [29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=29&z=2011-01-01&g=2011-01-01), is voldaan;
 
 - j. **betrokkene**: betrokkene als bedoeld in [artikel 1, onderdeel f, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=1).
 
@@ -81,7 +81,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3. Handelaarskentekens
 
-Aan een erkend bedrijf of aan een natuurlijke persoon of rechtspersoon als bedoeld in [artikel 42, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=5&artikel=42&z=2010-02-10&g=2010-02-10), kan, mits wordt voldaan aan [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=5&z=2010-02-10&g=2010-02-10), voor de in [artikel 37, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37) bedoelde voertuigen een kenteken worden opgegeven bevattende:
+Aan een erkend bedrijf of aan een natuurlijke persoon of rechtspersoon als bedoeld in [artikel 42, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=5&artikel=42&z=2011-01-01&g=2011-01-01), kan, mits wordt voldaan aan [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=5&z=2011-01-01&g=2011-01-01), voor de in [artikel 37, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37) bedoelde voertuigen een kenteken worden opgegeven bevattende:
 
 - a. voor wat betreft motorrijtuigen, met uitzondering van bromfietsen, de lettergroep HA, HF of FH en twee groepen van twee cijfers;
 
@@ -105,7 +105,7 @@ Aan een erkend bedrijf of aan een natuurlijke persoon of rechtspersoon als bedoe
 
 5. Kentekens, bevattende twee groepen van drie letters en cijfers of een combinatie daarvan worden slechts opgegeven voor voertuigen, die naar het oordeel van de Dienst Wegverkeer technisch in goede staat zijn, en die:
 
-- a. overeenkomstig de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=31&z=2010-02-10&g=2010-02-10), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=32&z=2010-02-10&g=2010-02-10) of [33](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=33&z=2010-02-10&g=2010-02-10) voorgoed buiten Nederland worden gebracht, of
+- a. overeenkomstig de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=31&z=2011-01-01&g=2011-01-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=32&z=2011-01-01&g=2011-01-01) of [33](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=33&z=2011-01-01&g=2011-01-01) voorgoed buiten Nederland worden gebracht, of
 
 - b. niet in Nederland zijn geregistreerd en binnen of buiten Nederland worden gebracht.
 
@@ -173,7 +173,7 @@ Aan een erkend bedrijf of aan een natuurlijke persoon of rechtspersoon als bedoe
 
 1. Als authentieke gegevens of categorieën daarvan als bedoeld in [artikel 42a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=42a) worden aangewezen gegevens omtrent:
 
-- a. afgifte van een kentekenbewijs, bedoeld in [artikel 6, onderdelen f en u](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=6&z=2010-02-10&g=2010-02-10);
+- a. afgifte van een kentekenbewijs, bedoeld in [artikel 6, onderdelen f en u](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=6&z=2011-01-01&g=2011-01-01);
 
 - b. een natuurlijk persoon of rechtspersoon aan wie een erkenning als bedoeld in [artikel 62, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=62) is verleend;
 
@@ -227,13 +227,13 @@ De Dienst Wegverkeer bepaalt de wijze waarop:
 
 1. Aan de volgende personen en instanties kunnen gevoelige gegevens worden verstrekt:
 
-- a. door Onze Minister of, in geval van verstrekking van gegevens omtrent de aangifte van diefstal of verduistering van een voertuig, door Onze Minister en Onze Minister van Justitie gezamenlijk dan wel, in geval van verstrekking van gegevens omtrent de verplichtingen, bedoeld in [artikel 19a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=19a&z=2010-02-10&g=2010-02-10), respectievelijk onderdeel b, door Onze Minister en Onze Minister van Financiën, respectievelijk Onze Minister en Onze Minister van Justitie, gezamenlijk aangewezen beroepsbeoefenaren of categorieën van beroepsbeoefenaren;
+- a. door Onze Minister of, in geval van verstrekking van gegevens omtrent de aangifte van diefstal of verduistering van een voertuig, door Onze Minister en Onze Minister van Justitie gezamenlijk dan wel, in geval van verstrekking van gegevens omtrent de verplichtingen, bedoeld in [artikel 19a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=19a&z=2011-01-01&g=2011-01-01), respectievelijk onderdeel b, door Onze Minister en Onze Minister van Financiën, respectievelijk Onze Minister en Onze Minister van Justitie, gezamenlijk aangewezen beroepsbeoefenaren of categorieën van beroepsbeoefenaren;
 
 - b. door Onze Minister of, in geval van verstrekking van gegevens omtrent de aangifte van diefstal of verduistering van een voertuig, door Onze Minister en Onze Minister van Justitie gezamenlijk aangewezen informatieproviders, en
 
 - c. belanghebbenden, niet zijnde personen en instanties als bedoeld in de onderdelen a en b.
 
-2. Onverminderd de [artikelen 11 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=11&z=2010-02-10&g=2010-02-10) kunnen met betrekking tot gevoelige gegevens als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=7&z=2010-02-10&g=2010-02-10), bij ministeriële regeling nadere regels worden gesteld die betrekking hebben op:
+2. Onverminderd de [artikelen 11 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=11&z=2011-01-01&g=2011-01-01) kunnen met betrekking tot gevoelige gegevens als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=7&z=2011-01-01&g=2011-01-01), bij ministeriële regeling nadere regels worden gesteld die betrekking hebben op:
 
 - a. de personen en instanties, bedoeld in het eerste lid, aan wie wordt verstrekt;
 
@@ -251,39 +251,39 @@ De Dienst Wegverkeer bepaalt de wijze waarop:
 
 2. Indien de aanvrager persoonlijk bij de Dienst Wegverkeer verschijnt teneinde een aanvraag tot het verstrekken van gegevens in te dienen, legitimeert deze zich ten genoege van deze dienst.
 
-3. Het eerste en tweede lid zijn niet van toepassing indien de aanvraag wordt ingediend door belanghebbenden als bedoeld in [artikel 9, eerste lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=9&z=2010-02-10&g=2010-02-10), mits overeenkomstig het door de Dienst Wegverkeer bepaalde, is vastgesteld dat de aanvrager tot één van de genoemde categorieën behoort en voldoende zekerheid is verkregen omtrent diens identiteit.
+3. Het eerste en tweede lid zijn niet van toepassing indien de aanvraag wordt ingediend door belanghebbenden als bedoeld in [artikel 9, eerste lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=9&z=2011-01-01&g=2011-01-01), mits overeenkomstig het door de Dienst Wegverkeer bepaalde, is vastgesteld dat de aanvrager tot één van de genoemde categorieën behoort en voldoende zekerheid is verkregen omtrent diens identiteit.
 
 4. In afwijking van het eerste tot en met derde lid hoeft bij de aanvraag van niet-gevoelige gegevens geen reden voor de aanvraag te worden opgegeven noch is vaststelling van de identiteit van de aanvrager noodzakelijk.
 
-##### Artikel 11. Verstrekking van persoonsgegevens aan belanghebbenden als bedoeld in [artikel 9, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=9&z=2010-02-10&g=2010-02-10)
+##### Artikel 11. Verstrekking van persoonsgegevens aan belanghebbenden als bedoeld in [artikel 9, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=9&z=2011-01-01&g=2011-01-01)
 
-1. Nadat een belanghebbende als bedoeld in [artikel 9, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=9&z=2010-02-10&g=2010-02-10), een verzoek om verstrekking van persoonsgegevens heeft ingediend, vraagt de Dienst Wegverkeer aan betrokkene toestemming voor de verstrekking van deze gegevens. Deze dienst geeft daarbij aan voor welke doeleinden de verstrekking is verzocht.
+1. Nadat een belanghebbende als bedoeld in [artikel 9, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=9&z=2011-01-01&g=2011-01-01), een verzoek om verstrekking van persoonsgegevens heeft ingediend, vraagt de Dienst Wegverkeer aan betrokkene toestemming voor de verstrekking van deze gegevens. Deze dienst geeft daarbij aan voor welke doeleinden de verstrekking is verzocht.
 
-2. Het vragen van toestemming blijft achterwege indien uit het kentekenregister blijkt dat betrokkene zijn toestemming aan elke verstrekking aan belanghebbenden als bedoeld in [artikel 9, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=9&z=2010-02-10&g=2010-02-10), heeft onthouden, dan wel indien het voertuig waarop de aanvraag betrekking heeft, blijkens door de Dienst Wegverkeer aangewezen bescheiden is betrokken bij een verkeersongeval waarbij aan de aanvrager schade is toegebracht.
+2. Het vragen van toestemming blijft achterwege indien uit het kentekenregister blijkt dat betrokkene zijn toestemming aan elke verstrekking aan belanghebbenden als bedoeld in [artikel 9, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=9&z=2011-01-01&g=2011-01-01), heeft onthouden, dan wel indien het voertuig waarop de aanvraag betrekking heeft, blijkens door de Dienst Wegverkeer aangewezen bescheiden is betrokken bij een verkeersongeval waarbij aan de aanvrager schade is toegebracht.
 
-3. Aan belanghebbenden als bedoeld in [artikel 9, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=9&z=2010-02-10&g=2010-02-10), worden persoonsgegevens niet verstrekt indien betrokkene zijn toestemming daaraan onthoudt, dan wel zijn toestemming aan elke verstrekking aan desbetreffende belanghebbenden heeft onthouden.
+3. Aan belanghebbenden als bedoeld in [artikel 9, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=9&z=2011-01-01&g=2011-01-01), worden persoonsgegevens niet verstrekt indien betrokkene zijn toestemming daaraan onthoudt, dan wel zijn toestemming aan elke verstrekking aan desbetreffende belanghebbenden heeft onthouden.
 
-4. In afwijking van het derde lid worden aan belanghebbenden als bedoeld in [artikel 9, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=9&z=2010-02-10&g=2010-02-10), de gevraagde gegevens zonder toestemming van betrokkene verstrekt, indien het voertuig waarop de aanvraag betrekking heeft, blijkens door de Dienst Wegverkeer aangewezen bescheiden, is betrokken bij een verkeersongeval waarbij aan de aanvrager schade is toegebracht.
+4. In afwijking van het derde lid worden aan belanghebbenden als bedoeld in [artikel 9, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=9&z=2011-01-01&g=2011-01-01), de gevraagde gegevens zonder toestemming van betrokkene verstrekt, indien het voertuig waarop de aanvraag betrekking heeft, blijkens door de Dienst Wegverkeer aangewezen bescheiden, is betrokken bij een verkeersongeval waarbij aan de aanvrager schade is toegebracht.
 
 5. In afwijking van het eerste lid blijft het vragen van toestemming achterwege indien het een aanvraag betreft door degene die als eigenaar van het desbetreffende voertuig in het kentekenregister staat geregistreerd tot verstrekking van persoonsgegevens met betrekking tot de houder aan wie het kentekenbewijs is afgegeven.
 
 ##### Artikel 12. Verstrekking van gevoelige gegevens aan beroepsbeoefenaren
 
-Aan beroepsbeoefenaren of categorieën van beroepsbeoefenaren als bedoeld in [artikel 9, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=9&z=2010-02-10&g=2010-02-10), worden de gevraagde gegevens verstrekt, voor zover zij deze gegevens beroepshalve nodig hebben voor het realiseren van rechten en plichten met betrekking tot het desbetreffende voertuig die voor de aanvrager of diens cliënt bestaan of kunnen ontstaan, voortvloeiend uit wettelijk voorschrift of uit overeenkomst, een en ander voor zover bij de aanwijzing, bedoeld in [artikel 9, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=9&z=2010-02-10&g=2010-02-10), is bepaald.
+Aan beroepsbeoefenaren of categorieën van beroepsbeoefenaren als bedoeld in [artikel 9, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=9&z=2011-01-01&g=2011-01-01), worden de gevraagde gegevens verstrekt, voor zover zij deze gegevens beroepshalve nodig hebben voor het realiseren van rechten en plichten met betrekking tot het desbetreffende voertuig die voor de aanvrager of diens cliënt bestaan of kunnen ontstaan, voortvloeiend uit wettelijk voorschrift of uit overeenkomst, een en ander voor zover bij de aanwijzing, bedoeld in [artikel 9, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=9&z=2011-01-01&g=2011-01-01), is bepaald.
 
 ##### Artikel 13. Verstrekking van gevoelige gegevens aan geregistreerde rechtspersonen en bedrijven
 
 1. Aan rechtspersonen kunnen gevoelige gegevens worden verstrekt met betrekking tot de motorrijtuigen en aanhangwagens ten aanzien waarvan de desbetreffende rechtspersoon als eigenaar dan wel houder in het kentekenregister staat geregistreerd.
 
-2. In aanvulling op het eerste lid kunnen aan degene die in het kentekenregister staat geregistreerd als eigenaar van een voertuig waarvan het kentekenbewijs is afgegeven aan een houder, gevoelige gegevens als bedoeld in [artikel 7, tweede lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=7&z=2010-02-10&g=2010-02-10), die betrekking hebben op de houder of diens voertuig worden verstrekt.
+2. In aanvulling op het eerste lid kunnen aan degene die in het kentekenregister staat geregistreerd als eigenaar van een voertuig waarvan het kentekenbewijs is afgegeven aan een houder, gevoelige gegevens als bedoeld in [artikel 7, tweede lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=7&z=2011-01-01&g=2011-01-01), die betrekking hebben op de houder of diens voertuig worden verstrekt.
 
 ##### Artikel 14. Verstrekking van gevoelige gegevens aan informatieproviders
 
-1. Aan informatieproviders bedoeld in [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=9&z=2010-02-10&g=2010-02-10), kunnen op aanvraag bij ministeriële regeling bepaalde gevoelige gegevens worden verstrekt in overeenstemming met de aanwijzing als bedoeld in [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=9&z=2010-02-10&g=2010-02-10). De verstrekking van gevoelige gegevens vindt slechts plaats ten behoeve van:
+1. Aan informatieproviders bedoeld in [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=9&z=2011-01-01&g=2011-01-01), kunnen op aanvraag bij ministeriële regeling bepaalde gevoelige gegevens worden verstrekt in overeenstemming met de aanwijzing als bedoeld in [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=9&z=2011-01-01&g=2011-01-01). De verstrekking van gevoelige gegevens vindt slechts plaats ten behoeve van:
 
 - a. statistische doeleinden;
 
-- b. bij de aanwijzing als bedoeld in [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=9&z=2010-02-10&g=2010-02-10), aangewezen voertuiginformatiesystemen ten behoeve van de voertuigbranche, of
+- b. bij de aanwijzing als bedoeld in [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=9&z=2011-01-01&g=2011-01-01), aangewezen voertuiginformatiesystemen ten behoeve van de voertuigbranche, of
 
 - c. andere bij ministeriële regeling te bepalen doeleinden.
 
@@ -291,11 +291,11 @@ Aan beroepsbeoefenaren of categorieën van beroepsbeoefenaren als bedoeld in [ar
 
 ##### Artikel 15. Gebruik van gevoelige gegevens
 
-De personen en instanties als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=9&z=2010-02-10&g=2010-02-10), mogen de aan hen verstrekte gevoelige gegevens slechts gebruiken voor de doeleinden waarvoor zij zijn verstrekt.
+De personen en instanties als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=9&z=2011-01-01&g=2011-01-01), mogen de aan hen verstrekte gevoelige gegevens slechts gebruiken voor de doeleinden waarvoor zij zijn verstrekt.
 
 ##### Artikel 16. Beperking aan verstrekking en gebruik van gevoelige gegevens
 
-Op verzoek van betrokkene wordt in het kentekenregister geregistreerd dat hij zijn toestemming onthoudt aan de verstrekking van op hem betrekking hebbende gevoelige gegevens aan belanghebbenden als bedoeld in [artikel 9, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=9&z=2010-02-10&g=2010-02-10).
+Op verzoek van betrokkene wordt in het kentekenregister geregistreerd dat hij zijn toestemming onthoudt aan de verstrekking van op hem betrekking hebbende gevoelige gegevens aan belanghebbenden als bedoeld in [artikel 9, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=3&artikel=9&z=2011-01-01&g=2011-01-01).
 
 ### Hoofdstuk 4. Kentekenbewijzen
 
@@ -309,7 +309,7 @@ Op verzoek van betrokkene wordt in het kentekenregister geregistreerd dat hij zi
 
 - a. de lettergroep AA, CD, CDJ dan wel de lettergroep BN, GN, of GV en twee groepen van twee cijfers, of
 
-- b. een kenteken opgegeven voor voertuigen als bedoeld in [artikel 4, vijfde lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=2&artikel=4&z=2010-02-10&g=2010-02-10),
+- b. een kenteken opgegeven voor voertuigen als bedoeld in [artikel 4, vijfde lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=2&artikel=4&z=2011-01-01&g=2011-01-01),
 
 bestaat uit een deel IA en IB.
 
@@ -317,7 +317,7 @@ bestaat uit een deel IA en IB.
 
 - a. de enkele letter A, E, H, K, L, N, P, S, T, V, W, X of Z en twee groepen van twee cijfers, of
 
-- b. een kenteken opgegeven voor voertuigen als bedoeld in [artikel 4, vijfde lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=2&artikel=4&z=2010-02-10&g=2010-02-10),
+- b. een kenteken opgegeven voor voertuigen als bedoeld in [artikel 4, vijfde lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=2&artikel=4&z=2011-01-01&g=2011-01-01),
 
 bestaat uit een deel I.
 
@@ -333,13 +333,13 @@ bestaat uit een deel I.
 
 1. Indien een wijziging in de constructie van een voertuig als bedoeld in [artikel 99 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=99) wordt goedgekeurd door de Dienst Wegverkeer of de wijziging is aangebracht door een ingevolge [artikel 101 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=101) erkende natuurlijke persoon of rechtspersoon, wordt, voor zover afgifte van een nieuw deel I A van het kentekenbewijs wegens wijziging van de op het bewijs vermelde gegevens noodzakelijk is, voor deel I dan wel deel I A van het kentekenbewijs een ontvangstbewijs uitgereikt van een door de Dienst Wegverkeer vastgesteld model. Het ontvangstbewijs treedt voor het deel IA van het kentekenbewijs in de plaats zolang geen nieuw deel IA is afgegeven. Indien afgifte van een nieuw deel I A van het kentekenbewijs niet noodzakelijk is, maar wel wijziging van de in het kentekenregister omtrent het voertuig opgenomen gegevens noodzakelijk is, dan doet de erkende natuurlijke persoon of rechtspersoon daarvan mededeling aan de Dienst Wegverkeer. De aanvraag van een goedkeuring als bedoeld in [artikel 99, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=99), wordt aangemerkt als aanvraag van een nieuw deel I A van het kentekenbewijs. Indien de aanvrager bij de aanvraag een deel I van een kentekenbewijs overlegt dat is afgegeven voor 31 mei 2004, geeft de Dienst Wegverkeer een kentekenbewijs af dat bestaat uit een deel I A en B en een deel II.
 
-2. Het ingevolge [artikel 34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=34&z=2010-02-10&g=2010-02-10), [38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=38&z=2010-02-10&g=2010-02-10), of [39, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=39&z=2010-02-10&g=2010-02-10), afgegeven ontvangstbewijs treedt voor de toepassing van de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=26&z=2010-02-10&g=2010-02-10), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=27&z=2010-02-10&g=2010-02-10) en [31 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=31&z=2010-02-10&g=2010-02-10) in de plaats van het deel I A van het kentekenbewijs.
+2. Het ingevolge [artikel 34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=34&z=2011-01-01&g=2011-01-01), [38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=38&z=2011-01-01&g=2011-01-01), of [39, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=39&z=2011-01-01&g=2011-01-01), afgegeven ontvangstbewijs treedt voor de toepassing van de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=26&z=2011-01-01&g=2011-01-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=27&z=2011-01-01&g=2011-01-01) en [31 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=31&z=2011-01-01&g=2011-01-01) in de plaats van het deel I A van het kentekenbewijs.
 
 ##### Artikel 19. Uitzonderingen aanvraageisen
 
-1. Het in [artikel 48, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=48) bedoelde vereiste dat een natuurlijke persoon of een rechtspersoon die een kentekenbewijs aanvraagt, in Nederland woonachtig, respectievelijk gevestigd moet zijn, is niet van toepassing op kentekenbewijzen, bevattende een kenteken als bedoeld in [artikel 4, eerste tot en met derde en vijfde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=2&artikel=4&z=2010-02-10&g=2010-02-10).
+1. Het in [artikel 48, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=48) bedoelde vereiste dat een natuurlijke persoon of een rechtspersoon die een kentekenbewijs aanvraagt, in Nederland woonachtig, respectievelijk gevestigd moet zijn, is niet van toepassing op kentekenbewijzen, bevattende een kenteken als bedoeld in [artikel 4, eerste tot en met derde en vijfde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=2&artikel=4&z=2011-01-01&g=2011-01-01).
 
-2. Het in [artikel 50, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=50) bedoelde vereiste, dat de aanvrager van een kentekenbewijs persoonlijk dient te verschijnen bij een bij ministeriële regeling aan te wijzen instantie, geldt niet voor de aanvraag van kentekenbewijzen, bevattende een kenteken als bedoeld in [artikel 4, eerste tot en met derde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=2&artikel=4&z=2010-02-10&g=2010-02-10).
+2. Het in [artikel 50, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=50) bedoelde vereiste, dat de aanvrager van een kentekenbewijs persoonlijk dient te verschijnen bij een bij ministeriële regeling aan te wijzen instantie, geldt niet voor de aanvraag van kentekenbewijzen, bevattende een kenteken als bedoeld in [artikel 4, eerste tot en met derde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=2&artikel=4&z=2011-01-01&g=2011-01-01).
 
 ##### Artikel 19a. Weigering afgifte kentekenbewijs
 
@@ -359,9 +359,9 @@ bestaat uit een deel I.
 
 3. Een kentekenbewijs, bevattende de lettergroep BN of GN en twee groepen van twee cijfers heeft een geldigheidsduur van ten hoogste twaalf maanden.
 
-4. Een kentekenbewijs als bedoeld in [artikel 17, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=17&z=2010-02-10&g=2010-02-10), heeft een geldigheidsduur van ten hoogste drie maanden.
+4. Een kentekenbewijs als bedoeld in [artikel 17, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=17&z=2011-01-01&g=2011-01-01), heeft een geldigheidsduur van ten hoogste drie maanden.
 
-5. Een kentekenbewijs, bevattende een kenteken als bedoeld in [artikel 4, vijfde lid, aanhef en onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=2&artikel=4&z=2010-02-10&g=2010-02-10), heeft een geldigheidsduur van twee weken.
+5. Een kentekenbewijs, bevattende een kenteken als bedoeld in [artikel 4, vijfde lid, aanhef en onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=2&artikel=4&z=2011-01-01&g=2011-01-01), heeft een geldigheidsduur van twee weken.
 
 6. Een kentekenbewijs, bevattende de enkele letter A, E, H, K, L, N, P, S, T, V, W of X en twee groepen van twee cijfers heeft een geldigheidsduur van één dag.
 
@@ -383,29 +383,29 @@ Vervallen
 
 - b. met een voertuig van 15 jaar of ouder waarvoor dat kentekenbewijs is afgegeven, op de weg worden gereden indien er naar het oordeel van Onze Minister van Financiën sprake is van een bijzondere gelegenheid en wordt voldaan aan de in het kader daarvan door die minister gestelde voorschriften en beperkingen.
 
-2. Wanneer het kentekenbewijs is ingevorderd overeenkomstig [artikel 60 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=60), mag op de dag waarop het voertuig als gevolg van [artikel 39, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=39&z=2010-02-10&g=2010-02-10), aan de aldaar bedoelde ambtenaren moet worden getoond, met dat voertuig via de kortste route naar en van de plaats van onderzoek worden gereden.
+2. Wanneer het kentekenbewijs is ingevorderd overeenkomstig [artikel 60 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=60), mag op de dag waarop het voertuig als gevolg van [artikel 39, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=39&z=2011-01-01&g=2011-01-01), aan de aldaar bedoelde ambtenaren moet worden getoond, met dat voertuig via de kortste route naar en van de plaats van onderzoek worden gereden.
 
-3. Wanneer het kentekenbewijs ongeldig is verklaard voor het rijden over de weg overeenkomstig [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=38&z=2010-02-10&g=2010-02-10), mag op de dag waarop het voertuig waarvoor dat kentekenbewijs is afgegeven naar aanleiding van een aanvraag van een keuring als bedoeld in [artikel 99](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=99) of [artikel 106 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=106) aan een zodanige keuring wordt onderworpen, met dat voertuig via de kortste route naar en van de plaats van keuring worden gereden.
+3. Wanneer het kentekenbewijs ongeldig is verklaard voor het rijden over de weg overeenkomstig [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=38&z=2011-01-01&g=2011-01-01), mag op de dag waarop het voertuig waarvoor dat kentekenbewijs is afgegeven naar aanleiding van een aanvraag van een keuring als bedoeld in [artikel 99](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=99) of [artikel 106 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=106) aan een zodanige keuring wordt onderworpen, met dat voertuig via de kortste route naar en van de plaats van keuring worden gereden.
 
 ##### Artikel 24. Staan met ongeldig of ingevorderd kentekenbewijs
 
-Een voertuig mag op de weg staan, wanneer het voor dat voertuig afgegeven kentekenbewijs ongeldig is verklaard voor het rijden over de weg overeenkomstig [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=38&z=2010-02-10&g=2010-02-10), dan wel is ingevorderd overeenkomstig [artikel 60 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=60).
+Een voertuig mag op de weg staan, wanneer het voor dat voertuig afgegeven kentekenbewijs ongeldig is verklaard voor het rijden over de weg overeenkomstig [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=38&z=2011-01-01&g=2011-01-01), dan wel is ingevorderd overeenkomstig [artikel 60 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=60).
 
 ##### Artikel 25. Eerste afgifte van een tweedelig kentekenbewijs
 
 1. De eigenaar of houder van een voertuig waarvoor de eerste afgifte van een tweedelig kentekenbewijs wordt gevraagd, stelt het voertuig voor een onderzoek ter beschikking bij de Dienst Wegverkeer en vraagt bij deze dienst onder overlegging van een bij ministeriële regeling aangewezen legitimatiebewijs, een kentekenbewijs aan.
 
-2. De eigenaar of houder van een voertuig waarvoor de eerste afgifte van een tweedelig kentekenbewijs wordt gevraagd en waarvoor reeds een nog niet tenaamgesteld kentekenbewijs is afgegeven krachtens [artikel 46, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=46&z=2010-02-10&g=2010-02-10), vraagt dit tweedelig kentekenbewijs aan bij de Dienst Wegverkeer onder overlegging van het deel I A, het deel II en het in het eerste lid bedoelde legitimatiebewijs.
+2. De eigenaar of houder van een voertuig waarvoor de eerste afgifte van een tweedelig kentekenbewijs wordt gevraagd en waarvoor reeds een nog niet tenaamgesteld kentekenbewijs is afgegeven krachtens [artikel 46, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=46&z=2011-01-01&g=2011-01-01), vraagt dit tweedelig kentekenbewijs aan bij de Dienst Wegverkeer onder overlegging van het deel I A, het deel II en het in het eerste lid bedoelde legitimatiebewijs.
 
 3. De Dienst Wegverkeer geeft aan degene die aan de verplichtingen in het eerste of tweede lid heeft voldaan, een kentekenbewijs, respectievelijk een deel I B af.
 
-4. Indien de aanvraag wordt gedaan door een erkend bedrijf dat geen gebruik maakt van de bevoegdheid, bedoeld in [artikel 46, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=46&z=2010-02-10&g=2010-02-10), geeft de Dienst Wegverkeer in plaats van een deel I B een formulier af met gegevens die verband houden met de opname in bedrijfsvoorraad.
+4. Indien de aanvraag wordt gedaan door een erkend bedrijf dat geen gebruik maakt van de bevoegdheid, bedoeld in [artikel 46, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=46&z=2011-01-01&g=2011-01-01), geeft de Dienst Wegverkeer in plaats van een deel I B een formulier af met gegevens die verband houden met de opname in bedrijfsvoorraad.
 
 5. Ingeval een formulier als bedoeld in het vierde lid is afgegeven, is het erkende bedrijf verplicht een bedrijfsvoorraad deel I B met de op dat formulier vermelde gegevens in te vullen.
 
 6. In afwijking van het derde en vierde lid houdt de Dienst Wegverkeer de beslissing op de aanvraag, bedoeld in het eerste en tweede lid, aan indien daartoe naar het oordeel van deze dienst aanleiding bestaat. In dat geval wendt de aanvrager zich tot de Dienst Wegverkeer.
 
-7. Het [eerste en het derde tot en met zesde lid van artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=25&z=2010-02-10&g=2010-02-10) zijn van overeenkomstige toepassing indien een tweedelig kentekenbewijs wordt aangevraagd voor een voertuig waarvoor door de Dienst Wegverkeer reeds eerder een tweedelig of driedelig kentekenbewijs is afgegeven en blijkens het kentekenregister:
+7. Het [eerste en het derde tot en met zesde lid van artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=25&z=2011-01-01&g=2011-01-01) zijn van overeenkomstige toepassing indien een tweedelig kentekenbewijs wordt aangevraagd voor een voertuig waarvoor door de Dienst Wegverkeer reeds eerder een tweedelig of driedelig kentekenbewijs is afgegeven en blijkens het kentekenregister:
 
 - a. dat voertuig voorgoed buiten gebruik is gesteld,
 
@@ -417,7 +417,7 @@ Een voertuig mag op de weg staan, wanneer het voor dat voertuig afgegeven kentek
 
 ##### Artikel 25a
 
-1. Indien de aanvraag, bedoeld in [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=25&z=2010-02-10&g=2010-02-10), wordt gedaan met betrekking tot een voertuig in bedrijfsvoorraad van een erkend bedrijf dat gebruik maakt van de bevoegdheid, bedoeld in [artikel 46, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=46&z=2010-02-10&g=2010-02-10), kan de aanvraag, gericht tot de Dienst Wegverkeer, bij dat bedrijf worden ingediend. In afwijking van [artikel 25, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=25&z=2010-02-10&g=2010-02-10), is dit artikel van toepassing.
+1. Indien de aanvraag, bedoeld in [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=25&z=2011-01-01&g=2011-01-01), wordt gedaan met betrekking tot een voertuig in bedrijfsvoorraad van een erkend bedrijf dat gebruik maakt van de bevoegdheid, bedoeld in [artikel 46, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=46&z=2011-01-01&g=2011-01-01), kan de aanvraag, gericht tot de Dienst Wegverkeer, bij dat bedrijf worden ingediend. In afwijking van [artikel 25, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=25&z=2011-01-01&g=2011-01-01), is dit artikel van toepassing.
 
 2. Indien de aanvraag wordt gedaan door een natuurlijke persoon overlegt deze in persoon aan het erkende bedrijf ter legitimatie een rijbewijs, alsmede een verklaring waaruit duidelijk het verzoek tot tenaamstelling blijkt en het kenteken van het voertuig dat wordt overgedragen, en welke overigens voldoet aan bij ministeriële regeling als bedoeld in [artikel 50, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=50), gestelde voorschriften.
 
@@ -467,7 +467,7 @@ Een voertuig mag op de weg staan, wanneer het voor dat voertuig afgegeven kentek
 
 ##### Artikel 27. Wijziging van de tenaamstelling: overdracht ten behoeve van een bedrijfsvoorraad
 
-1. In geval van overdracht ten behoeve van een bedrijfsvoorraad, van een voertuig waarvoor een tweedelig kentekenbewijs is afgegeven, zijn in afwijking van [artikel 26, het tweede tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=26&z=2010-02-10&g=2010-02-10) van toepassing.
+1. In geval van overdracht ten behoeve van een bedrijfsvoorraad, van een voertuig waarvoor een tweedelig kentekenbewijs is afgegeven, zijn in afwijking van [artikel 26, het tweede tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=26&z=2011-01-01&g=2011-01-01) van toepassing.
 
 2. Degene aan wie een tweedelig kentekenbewijs is afgegeven of degene die na diens overlijden eigenaar of houder van het voertuig is geworden, is verplicht:
 
@@ -491,7 +491,7 @@ Een voertuig mag op de weg staan, wanneer het voor dat voertuig afgegeven kentek
 
 7. De Dienst Wegverkeer houdt de beslissing op het verzoek, bedoeld in het derde lid, aan indien daartoe naar het oordeel van deze dienst aanleiding bestaat. In dat geval wendt de aanvrager zich tot de Dienst Wegverkeer.
 
-8. In afwijking van het derde en vijfde lid, is een erkend bedrijf, indien dit gebruik maakt van de bevoegdheid, bedoeld in [artikel 46, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=46&z=2010-02-10&g=2010-02-10), verplicht:
+8. In afwijking van het derde en vijfde lid, is een erkend bedrijf, indien dit gebruik maakt van de bevoegdheid, bedoeld in [artikel 46, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=46&z=2011-01-01&g=2011-01-01), verplicht:
 
 - a. de overdracht van het voertuig ten behoeve van diens bedrijfsvoorraad terstond na de overdracht te melden aan de Dienst Wegverkeer;
 
@@ -511,7 +511,7 @@ Een voertuig mag op de weg staan, wanneer het voor dat voertuig afgegeven kentek
 
 ##### Artikel 28. Wijziging van de tenaamstelling: overdracht van een voertuig uit bedrijfsvoorraad
 
-1. Indien een voertuig waarvoor een tweedelig kentekenbewijs is afgegeven, ophoudt te behoren tot de bedrijfsvoorraad van een erkend bedrijf, is [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=26&z=2010-02-10&g=2010-02-10) of, in geval van overdracht ten behoeve van een bedrijfsvoorraad, [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=27&z=2010-02-10&g=2010-02-10) van overeenkomstige toepassing, met dien verstande dat het bedrijfsvoorraad deel I B in de plaats treedt van het gewone deel I B.
+1. Indien een voertuig waarvoor een tweedelig kentekenbewijs is afgegeven, ophoudt te behoren tot de bedrijfsvoorraad van een erkend bedrijf, is [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=26&z=2011-01-01&g=2011-01-01) of, in geval van overdracht ten behoeve van een bedrijfsvoorraad, [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=27&z=2011-01-01&g=2011-01-01) van overeenkomstige toepassing, met dien verstande dat het bedrijfsvoorraad deel I B in de plaats treedt van het gewone deel I B.
 
 2. Indien een voertuig ophoudt te behoren tot de bedrijfsvoorraad van een erkend bedrijf en dit bedrijf het voertuig tot eigen gebruik bestemt, vraagt het bedrijf binnen een week een nieuw deel I B aan bij de Dienst Wegverkeer, onder overlegging van het bedrijfsvoorraad deel I B, het deel II en een bij ministeriële regeling aangewezen legitimatiebewijs.
 
@@ -519,7 +519,7 @@ Een voertuig mag op de weg staan, wanneer het voor dat voertuig afgegeven kentek
 
 ##### Artikel 28a
 
-1. In geval van overdracht van een voertuig dat ophoudt te behoren tot de bedrijfsvoorraad van een erkend bedrijf dat gebruik maakt van de bevoegdheid, bedoeld in [artikel 46, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=46&z=2010-02-10&g=2010-02-10), kan, in afwijking van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=28&z=2010-02-10&g=2010-02-10), een aanvraag van een nieuw deel I B, gericht aan de Dienst Wegverkeer, bij dat bedrijf worden ingediend. In afwijking van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=28&z=2010-02-10&g=2010-02-10) is dit artikel van toepassing.
+1. In geval van overdracht van een voertuig dat ophoudt te behoren tot de bedrijfsvoorraad van een erkend bedrijf dat gebruik maakt van de bevoegdheid, bedoeld in [artikel 46, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=46&z=2011-01-01&g=2011-01-01), kan, in afwijking van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=28&z=2011-01-01&g=2011-01-01), een aanvraag van een nieuw deel I B, gericht aan de Dienst Wegverkeer, bij dat bedrijf worden ingediend. In afwijking van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=28&z=2011-01-01&g=2011-01-01) is dit artikel van toepassing.
 
 2. Indien de aanvraag wordt gedaan door een natuurlijke persoon overlegt deze in persoon aan het erkende bedrijf een rijbewijs, alsmede een verklaring waaruit duidelijk het verzoek tot tenaamstelling blijkt en het kenteken van het voertuig dat wordt overgedragen, en welke overigens voldoet aan bij ministeriële regeling als bedoeld in [artikel 50, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=50), gestelde voorschriften.
 
@@ -547,13 +547,13 @@ Een voertuig mag op de weg staan, wanneer het voor dat voertuig afgegeven kentek
 
 ##### Artikel 29. Wijziging van de tenaamstelling: overlijden van een kentekenhouder
 
-1. In afwijking van de [artikelen 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=26&z=2010-02-10&g=2010-02-10), en [27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=27&z=2010-02-10&g=2010-02-10), is, in geval van overlijden van degene aan wie een tweedelig kentekenbewijs is afgegeven, degene die als erfgenaam eigenaar of houder van het voertuig is geworden, verplicht binnen vijf weken nadat hij eigenaar of houder is geworden bij de Dienst Wegverkeer om afgifte van een nieuw deel I B te verzoeken onder overlegging van het deel I B of het bedrijfsvoorraad deel I B, het deel II en een bij ministeriële regeling aangewezen legitimatiebewijs.
+1. In afwijking van de [artikelen 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=26&z=2011-01-01&g=2011-01-01), en [27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=27&z=2011-01-01&g=2011-01-01), is, in geval van overlijden van degene aan wie een tweedelig kentekenbewijs is afgegeven, degene die als erfgenaam eigenaar of houder van het voertuig is geworden, verplicht binnen vijf weken nadat hij eigenaar of houder is geworden bij de Dienst Wegverkeer om afgifte van een nieuw deel I B te verzoeken onder overlegging van het deel I B of het bedrijfsvoorraad deel I B, het deel II en een bij ministeriële regeling aangewezen legitimatiebewijs.
 
 2. De Dienst Wegverkeer geeft aan degene die aan de verplichting van het eerste lid heeft voldaan, zowel een vrijwaringsbewijs als een nieuw deel I B af.
 
 ##### Artikel 30. Wijziging van de tenaamstelling: bijzondere procedure
 
-1. De Dienst Wegverkeer kan voor een voertuig een tweedelig kentekenbewijs afgeven zonder dat aan de in de [artikelen 26 tot en met 29](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=26&z=2010-02-10&g=2010-02-10) bedoelde verplichtingen is voldaan, indien de aanvraag voor het kentekenbewijs wordt ingediend door een natuurlijke persoon of een rechtspersoon die verklaart eigenaar of houder van het voertuig te zijn en indien naar het oordeel van de Dienst Wegverkeer aannemelijk is gemaakt dat niet aan bedoelde verplichtingen kan worden voldaan.
+1. De Dienst Wegverkeer kan voor een voertuig een tweedelig kentekenbewijs afgeven zonder dat aan de in de [artikelen 26 tot en met 29](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=26&z=2011-01-01&g=2011-01-01) bedoelde verplichtingen is voldaan, indien de aanvraag voor het kentekenbewijs wordt ingediend door een natuurlijke persoon of een rechtspersoon die verklaart eigenaar of houder van het voertuig te zijn en indien naar het oordeel van de Dienst Wegverkeer aannemelijk is gemaakt dat niet aan bedoelde verplichtingen kan worden voldaan.
 
 2. De Dienst Wegverkeer kan in verband met het bepaalde in het eerste lid verlangen dat de aanvrager van het kentekenbewijs het voertuig toont, een bij ministeriële regeling aangewezen legitimatiebewijs overlegt en een of meer delen of bladzijden van het kentekenbewijs inlevert.
 
@@ -573,11 +573,11 @@ Een voertuig mag op de weg staan, wanneer het voor dat voertuig afgegeven kentek
 
 5. Degene die het deel I A onder zich heeft gehouden, is verplicht dit terstond af te geven aan degene van wie hij het in het vierde lid bedoelde deel van de verklaring heeft verkregen.
 
-6. In geval van overdracht van een tot de bedrijfsvoorraad van een erkend bedrijf behorend voertuig waarvoor een tweedelig kentekenbewijs is afgegeven aan een in het buitenland woonachtige natuurlijke persoon of een in het buitenland gevestigde rechtspersoon, zonder dat het erkende bedrijf gebruik maakt van de bevoegdheid, bedoeld in [artikel 46, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=46&z=2010-02-10&g=2010-02-10), is het eerste tot en met vijfde lid van overeenkomstige toepassing, met dien verstande dat het bedrijfsvoorraad deel I B in de plaats treedt van het deel I B.
+6. In geval van overdracht van een tot de bedrijfsvoorraad van een erkend bedrijf behorend voertuig waarvoor een tweedelig kentekenbewijs is afgegeven aan een in het buitenland woonachtige natuurlijke persoon of een in het buitenland gevestigde rechtspersoon, zonder dat het erkende bedrijf gebruik maakt van de bevoegdheid, bedoeld in [artikel 46, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=46&z=2011-01-01&g=2011-01-01), is het eerste tot en met vijfde lid van overeenkomstige toepassing, met dien verstande dat het bedrijfsvoorraad deel I B in de plaats treedt van het deel I B.
 
 ##### Artikel 32. Verval van de tenaamstelling: overdracht van een voertuig uit bedrijfsvoorraad aan een in het buitenland woonachtig of gevestigd persoon
 
-1. In afwijking van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=31&z=2010-02-10&g=2010-02-10), is, ingeval het erkende bedrijf gebruik maakt van de bevoegdheid, bedoeld in [artikel 46, tweede lid, onderdeel c, het tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=46&z=2010-02-10&g=2010-02-10) van toepassing.
+1. In afwijking van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=31&z=2011-01-01&g=2011-01-01), is, ingeval het erkende bedrijf gebruik maakt van de bevoegdheid, bedoeld in [artikel 46, tweede lid, onderdeel c, het tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=46&z=2011-01-01&g=2011-01-01) van toepassing.
 
 2. Degene die eigenaar of houder van het voertuig is geworden, is verplicht terstond bij het erkende bedrijf een bij ministeriële regeling aangewezen legitimatiebewijs alsmede een ingevulde en ondertekende verklaring van een bij ministeriële regeling vastgesteld model in drievoud over te leggen.
 
@@ -601,7 +601,7 @@ Een voertuig mag op de weg staan, wanneer het voor dat voertuig afgegeven kentek
 
 3. Ingeval een erkend bedrijf een tot zijn bedrijfsvoorraad behorend voertuig voorgoed buiten Nederland brengt, is het eerste en tweede lid van overeenkomstige toepassing, met dien verstande dat het bedrijfsvoorraad deel I B in de plaats treedt van het deel I B.
 
-4. In afwijking van het eerste tot en met derde lid, is, ingeval het erkende bedrijf gebruik maakt van de bevoegdheid, bedoeld in [artikel 46, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=46&z=2010-02-10&g=2010-02-10), het erkende bedrijf verplicht het voorgoed buiten Nederland brengen van het voertuig te melden overeenkomstig het krachtens [artikel 62, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=62) bepaalde.
+4. In afwijking van het eerste tot en met derde lid, is, ingeval het erkende bedrijf gebruik maakt van de bevoegdheid, bedoeld in [artikel 46, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=46&z=2011-01-01&g=2011-01-01), het erkende bedrijf verplicht het voorgoed buiten Nederland brengen van het voertuig te melden overeenkomstig het krachtens [artikel 62, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=62) bepaalde.
 
 ##### Artikel 34. Aanvraag en afgifte nieuw deel I A
 
@@ -609,7 +609,7 @@ Een voertuig mag op de weg staan, wanneer het voor dat voertuig afgegeven kentek
 
 2. Indien het kentekenbewijs is ingevorderd ingevolge [artikel 60 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=60), geeft de Dienst Wegverkeer op verzoek een nieuw deel I A af. Degene aan wie het kentekenbewijs is afgegeven of degene die na diens overlijden eigenaar of houder van het voertuig is geworden, dient hiertoe bij de Dienst Wegverkeer onder overlegging van het bij de invordering afgegeven ontvangstbewijs een aanvraag in. De Dienst Wegverkeer geeft niet eerder een nieuw deel I A af dan nadat het voertuig is goedgekeurd overeenkomstig [artikel 105 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=105).
 
-3. De Dienst Wegverkeer geeft in geval van wijziging in de constructie als bedoeld in [artikel 98 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=98) een nieuw deel I A af nadat de wijziging is goedgekeurd ingevolge [artikel 98 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=98). Deze dienst kan daarbij verlangen dat het in [artikel 18, eerst lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=18&z=2010-02-10&g=2010-02-10), bedoelde ontvangstbewijs wordt overgelegd.
+3. De Dienst Wegverkeer geeft in geval van wijziging in de constructie als bedoeld in [artikel 98 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=98) een nieuw deel I A af nadat de wijziging is goedgekeurd ingevolge [artikel 98 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=98). Deze dienst kan daarbij verlangen dat het in [artikel 18, eerst lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=18&z=2011-01-01&g=2011-01-01), bedoelde ontvangstbewijs wordt overgelegd.
 
 4. De Dienst Wegverkeer geeft voor een deel I A dat wordt ingeleverd bij een door Onze Minister aangewezen instantie in verband met een wijziging aan het voertuig die niet behoeft te worden goedgekeurd ingevolge [artikel 98 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=98), een ontvangstbewijs af.
 
@@ -629,7 +629,7 @@ Een voertuig mag op de weg staan, wanneer het voor dat voertuig afgegeven kentek
 
 3. Indien een kentekenbewijs is afgegeven aan de houder van een voertuig en deze een vervangend kentekenbewijs dan wel deel of bladzijde daarvan aanvraagt, kan de Dienst Wegverkeer in door deze dienst te bepalen gevallen verlangen dat de eigenaar voor de afgifte van het vervangend kentekenbewijs dan wel deel of bladzijde daarvan, toestemming verleent. In deze gevallen kan de Dienst Wegverkeer bepalen dat het vervangende kentekenbewijs dan wel deel of bladzijde daarvan naar de eigenaar of een door deze aangewezen persoon wordt gezonden.
 
-4. De aanvraag bedoeld in het eerste lid heeft geen betrekking op een kentekenbewijs dan wel deel of bladzijde daarvan als bedoeld in [artikel 17, derde lid, tweede gedachtestreepje, en vierde lid, tweede gedachtestreepje](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=17&z=2010-02-10&g=2010-02-10).
+4. De aanvraag bedoeld in het eerste lid heeft geen betrekking op een kentekenbewijs dan wel deel of bladzijde daarvan als bedoeld in [artikel 17, derde lid, tweede gedachtestreepje, en vierde lid, tweede gedachtestreepje](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=17&z=2011-01-01&g=2011-01-01).
 
 ##### Artikel 37. Ongeldigverklaring en inlevering
 
@@ -653,13 +653,13 @@ Een voertuig mag op de weg staan, wanneer het voor dat voertuig afgegeven kentek
 
 - g. het voertuig is gaan behoren tot een der ingevolge [artikel 37 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37) van de kentekenplicht uitgezonderde categorieën van voertuigen,
 
-- h. sprake is van de situatie als bedoeld in [artikel 40, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=40&z=2010-02-10&g=2010-02-10), dan wel,
+- h. sprake is van de situatie als bedoeld in [artikel 40, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=40&z=2011-01-01&g=2011-01-01), dan wel,
 
 - i. degene aan wie dat bewijs is afgegeven, niet langer in Nederland woonachtig of gevestigd is.
 
-4. In het geval, bedoeld in het derde lid, onderdeel **a**, verklaart de Dienst Wegverkeer het kentekenbewijs ongeldig, mits het voorgoed buiten gebruik stellen van het voertuig overeenkomstig het bepaalde krachtens [artikel 62, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=62) wordt gemeld door een erkend bedrijf dat gebruik maakt van de bevoegdheid, bedoeld in [artikel 46, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=46&z=2010-02-10&g=2010-02-10).
+4. In het geval, bedoeld in het derde lid, onderdeel **a**, verklaart de Dienst Wegverkeer het kentekenbewijs ongeldig, mits het voorgoed buiten gebruik stellen van het voertuig overeenkomstig het bepaalde krachtens [artikel 62, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=62) wordt gemeld door een erkend bedrijf dat gebruik maakt van de bevoegdheid, bedoeld in [artikel 46, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=46&z=2011-01-01&g=2011-01-01).
 
-5. In afwijking van het vierde lid verklaart de Dienst Wegverkeer een kentekenbewijs ongeldig indien de melding geschiedt door een ander dan een erkend bedrijf dat de bevoegdheid, bedoeld in [artikel 46, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=46&z=2010-02-10&g=2010-02-10), heeft verkregen, mits de melding betrekking heeft op een voertuig dat behoort tot een bij ministeriële regeling aangewezen categorie van voertuigen en wordt voldaan aan nadere bij ministeriële regeling vastgestelde voorwaarden.
+5. In afwijking van het vierde lid verklaart de Dienst Wegverkeer een kentekenbewijs ongeldig indien de melding geschiedt door een ander dan een erkend bedrijf dat de bevoegdheid, bedoeld in [artikel 46, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=46&z=2011-01-01&g=2011-01-01), heeft verkregen, mits de melding betrekking heeft op een voertuig dat behoort tot een bij ministeriële regeling aangewezen categorie van voertuigen en wordt voldaan aan nadere bij ministeriële regeling vastgestelde voorwaarden.
 
 6. In het geval, bedoeld in het derde lid, onderdeel **c**, verklaart de Dienst Wegverkeer het kentekenbewijs ongeldig mits ten aanzien van de bestemming van het voertuig wordt voldaan aan nadere bij ministeriële regeling vastgestelde voorwaarden.
 
@@ -701,25 +701,25 @@ Een voertuig mag op de weg staan, wanneer het voor dat voertuig afgegeven kentek
 
 1. De tenaamstelling in het register vervalt zodra:
 
-- a. krachtens [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=26&z=2010-02-10&g=2010-02-10), een vrijwaringsbewijs en een nieuw deel I B zijn afgegeven;
+- a. krachtens [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=26&z=2011-01-01&g=2011-01-01), een vrijwaringsbewijs en een nieuw deel I B zijn afgegeven;
 
-- b. krachtens [artikel 27, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=27&z=2010-02-10&g=2010-02-10), een formulier is afgegeven;
+- b. krachtens [artikel 27, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=27&z=2011-01-01&g=2011-01-01), een formulier is afgegeven;
 
-- c. de gegevens als bedoeld in [artikel 27, achtste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=27&z=2010-02-10&g=2010-02-10), aan het erkende bedrijf ter beschikking zijn gesteld;
+- c. de gegevens als bedoeld in [artikel 27, achtste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=27&z=2011-01-01&g=2011-01-01), aan het erkende bedrijf ter beschikking zijn gesteld;
 
-- d. krachtens [artikel 28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=28&z=2010-02-10&g=2010-02-10), of [artikel 28a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=28a&z=2010-02-10&g=2010-02-10), een vrijwaringsbewijs en een nieuw deel I B zijn afgegeven;
+- d. krachtens [artikel 28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=28&z=2011-01-01&g=2011-01-01), of [artikel 28a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=28a&z=2011-01-01&g=2011-01-01), een vrijwaringsbewijs en een nieuw deel I B zijn afgegeven;
 
-- e. krachtens [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=29&z=2010-02-10&g=2010-02-10), een vrijwaringsbewijs en een nieuw deel I B zijn afgegeven;
+- e. krachtens [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=29&z=2011-01-01&g=2011-01-01), een vrijwaringsbewijs en een nieuw deel I B zijn afgegeven;
 
-- f. krachtens [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=30&z=2010-02-10&g=2010-02-10) een kentekenbewijs is afgegeven;
+- f. krachtens [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=30&z=2011-01-01&g=2011-01-01) een kentekenbewijs is afgegeven;
 
-- g. krachtens de [artikelen 31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=31&z=2010-02-10&g=2010-02-10), [32, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=32&z=2010-02-10&g=2010-02-10), of [33, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=33&z=2010-02-10&g=2010-02-10), op het kentekenbewijs een aantekening is geplaatst;
+- g. krachtens de [artikelen 31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=31&z=2011-01-01&g=2011-01-01), [32, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=32&z=2011-01-01&g=2011-01-01), of [33, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=33&z=2011-01-01&g=2011-01-01), op het kentekenbewijs een aantekening is geplaatst;
 
-- h. de Dienst Wegverkeer het kentekenbewijs ongeldig heeft verklaard ingevolge [artikel 37, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=37&z=2010-02-10&g=2010-02-10);
+- h. de Dienst Wegverkeer het kentekenbewijs ongeldig heeft verklaard ingevolge [artikel 37, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=37&z=2011-01-01&g=2011-01-01);
 
-- i. de Dienst Wegverkeer het handelaarskentekenbewijs ongeldig heeft verklaard ingevolge [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=5&artikel=45&z=2010-02-10&g=2010-02-10);
+- i. de Dienst Wegverkeer het handelaarskentekenbewijs ongeldig heeft verklaard ingevolge [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=5&artikel=45&z=2011-01-01&g=2011-01-01);
 
-- j. een erkend bedrijf een melding als bedoeld in [artikel 46, tweede lid, onderdeel c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=46&z=2010-02-10&g=2010-02-10), heeft gedaan;
+- j. een erkend bedrijf een melding als bedoeld in [artikel 46, tweede lid, onderdeel c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=46&z=2011-01-01&g=2011-01-01), heeft gedaan;
 
 - k. de Dienst Wegverkeer een certificaat van vernietiging, als bedoeld in artikel 5, derde lid, van [richtlijn nr. 2000/53/EG](32000L0053) van het Europees Parlement en de Raad van de Europese Unie van 18 september 2000 betreffende autowrakken (PbEG L 269), heeft ontvangen dat door een daartoe bevoegde verwerker, zoals bedoeld in deze richtlijn, in een andere lidstaat van de Europese Gemeenschappen is afgegeven;
 
@@ -731,7 +731,7 @@ Een voertuig mag op de weg staan, wanneer het voor dat voertuig afgegeven kentek
 
 ##### Artikel 41. Basis handelaarskentekenbewijzen
 
-Voor voertuigen als bedoeld in [artikel 37, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37), geldt het vereiste dat een kenteken voor een bepaald voertuig dient te zijn opgegeven niet, mits dat voertuig een kenteken voert als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=2&artikel=3&z=2010-02-10&g=2010-02-10), dat behoort bij een ingevolge [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=5&artikel=42&z=2010-02-10&g=2010-02-10) afgegeven handelaarskentekenbewijs waarvan gebruik wordt gemaakt overeenkomstig de in dit hoofdstuk bedoelde voorschriften.
+Voor voertuigen als bedoeld in [artikel 37, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37), geldt het vereiste dat een kenteken voor een bepaald voertuig dient te zijn opgegeven niet, mits dat voertuig een kenteken voert als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=2&artikel=3&z=2011-01-01&g=2011-01-01), dat behoort bij een ingevolge [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=5&artikel=42&z=2011-01-01&g=2011-01-01) afgegeven handelaarskentekenbewijs waarvan gebruik wordt gemaakt overeenkomstig de in dit hoofdstuk bedoelde voorschriften.
 
 ##### Artikel 42. Aanvraag
 
@@ -747,7 +747,7 @@ Voor voertuigen als bedoeld in [artikel 37, derde lid, van de wet](https://wette
 
 ##### Artikel 43. Weigering afgifte
 
-Onverminderd [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=5&artikel=42&z=2010-02-10&g=2010-02-10) wordt de afgifte van handelaarskentekenbewijzen geweigerd indien een of meer aan de aanvrager afgegeven handelaarskentekenbewijzen op grond van [artikel 45, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=5&artikel=45&z=2010-02-10&g=2010-02-10), ongeldig zijn verklaard binnen een direct aan de datum van indiening van de aanvraag voorafgaande periode van zes maanden.
+Onverminderd [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=5&artikel=42&z=2011-01-01&g=2011-01-01) wordt de afgifte van handelaarskentekenbewijzen geweigerd indien een of meer aan de aanvrager afgegeven handelaarskentekenbewijzen op grond van [artikel 45, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=5&artikel=45&z=2011-01-01&g=2011-01-01), ongeldig zijn verklaard binnen een direct aan de datum van indiening van de aanvraag voorafgaande periode van zes maanden.
 
 ##### Artikel 44. Gebruik
 
@@ -769,7 +769,7 @@ Onverminderd [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofds
 
 - b. aangifte heeft gedaan van het onvrijwillig verlies van het handelaarskentekenbewijs,
 
-- c. niet langer voldoet aan [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=5&artikel=42&z=2010-02-10&g=2010-02-10), dan wel
+- c. niet langer voldoet aan [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=5&artikel=42&z=2011-01-01&g=2011-01-01), dan wel
 
 - d. handelt in strijd met het bepaalde:
 
@@ -793,7 +793,7 @@ Onverminderd [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofds
 
 - b. de bevoegdheid tot het aanvragen van nog niet tenaamgestelde kentekenbewijzen,
 
-- c. de bevoegdheid tot het versneld melden dat tot de bedrijfsvoorraad behorende voertuigen voorgoed buiten Nederland worden gebracht, alsmede het verstrekken van kentekenbewijzen die een kenteken bevatten als bedoeld in [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=2&artikel=4&z=2010-02-10&g=2010-02-10),
+- c. de bevoegdheid tot het versneld melden dat tot de bedrijfsvoorraad behorende voertuigen voorgoed buiten Nederland worden gebracht, alsmede het verstrekken van kentekenbewijzen die een kenteken bevatten als bedoeld in [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=2&artikel=4&z=2011-01-01&g=2011-01-01),
 
 - d. de bevoegdheid tot het melden dat tot de bedrijfsvoorraad behorende voertuigen voorgoed buiten gebruik worden gesteld, alsmede het verstrekken van een certificaat van vernietiging, als bedoeld in artikel 5, derde lid, van [richtlijn nr. 2000/53/EG](32000L0053) van het Europees Parlement en de Raad van de Europese Unie van 18 september 2000 betreffende autowrakken (PbEG L 269), met dien verstande dat de melding alleen wordt gedaan nadat het certificaat van vernietiging is verstrekt, en
 
@@ -859,9 +859,9 @@ Onverminderd [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofds
 
 Een schorsing eindigt niet door gebruik van de weg indien:
 
-- a. het voertuig waarvan de geldigheid van het kentekenbewijs is geschorst een kenteken voert als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=2&artikel=3&z=2010-02-10&g=2010-02-10), dat behoort bij een ingevolge [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=5&artikel=42&z=2010-02-10&g=2010-02-10) afgegeven handelaarskentekenbewijs dat voldoet aan [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=5&z=2010-02-10&g=2010-02-10) en waarvan gebruik wordt gemaakt overeenkomstig de in dat hoofdstuk bedoelde voorschriften, dan wel
+- a. het voertuig waarvan de geldigheid van het kentekenbewijs is geschorst een kenteken voert als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=2&artikel=3&z=2011-01-01&g=2011-01-01), dat behoort bij een ingevolge [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=5&artikel=42&z=2011-01-01&g=2011-01-01) afgegeven handelaarskentekenbewijs dat voldoet aan [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=5&z=2011-01-01&g=2011-01-01) en waarvan gebruik wordt gemaakt overeenkomstig de in dat hoofdstuk bedoelde voorschriften, dan wel
 
-- b. [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=23&z=2010-02-10&g=2010-02-10), van toepassing is.
+- b. [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=23&z=2011-01-01&g=2011-01-01), van toepassing is.
 
 ### Hoofdstuk 7. Schorsing
 
@@ -869,63 +869,63 @@ Een schorsing eindigt niet door gebruik van de weg indien:
 
 Overtreding van de artikelen
 
-- -. [5, eerste en derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=2&artikel=5&z=2010-02-10&g=2010-02-10),
+- -. [5, eerste en derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=2&artikel=5&z=2011-01-01&g=2011-01-01),
 
-- -. [26, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=26&z=2010-02-10&g=2010-02-10),
+- -. [26, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=26&z=2011-01-01&g=2011-01-01),
 
-- -. [26, eerste lid, onderdeel b , vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=26&z=2010-02-10&g=2010-02-10) jo [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=18&z=2010-02-10&g=2010-02-10),
+- -. [26, eerste lid, onderdeel b , vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=26&z=2011-01-01&g=2011-01-01) jo [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=18&z=2011-01-01&g=2011-01-01),
 
-- -. [27, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=27&z=2010-02-10&g=2010-02-10),
+- -. [27, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=27&z=2011-01-01&g=2011-01-01),
 
-- -. [27, tweede lid, onderdeel b , of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=27&z=2010-02-10&g=2010-02-10) jo [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=18&z=2010-02-10&g=2010-02-10),
+- -. [27, tweede lid, onderdeel b , of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=27&z=2011-01-01&g=2011-01-01) jo [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=18&z=2011-01-01&g=2011-01-01),
 
-- -. [28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=28&z=2010-02-10&g=2010-02-10) jo [artikel 26, eerste, tweede, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=26&z=2010-02-10&g=2010-02-10),
+- -. [28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=28&z=2011-01-01&g=2011-01-01) jo [artikel 26, eerste, tweede, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=26&z=2011-01-01&g=2011-01-01),
 
-- -. [28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=28&z=2010-02-10&g=2010-02-10) jo [artikel 27, tweede of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=27&z=2010-02-10&g=2010-02-10),
+- -. [28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=28&z=2011-01-01&g=2011-01-01) jo [artikel 27, tweede of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=27&z=2011-01-01&g=2011-01-01),
 
-- -. [28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=28&z=2010-02-10&g=2010-02-10),
+- -. [28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=28&z=2011-01-01&g=2011-01-01),
 
-- -. [29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=29&z=2010-02-10&g=2010-02-10),
+- -. [29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=29&z=2011-01-01&g=2011-01-01),
 
-- -. [31, eerste, tweede, vierde en vijfde lid en zesde jo eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=31&z=2010-02-10&g=2010-02-10),
+- -. [31, eerste, tweede, vierde en vijfde lid en zesde jo eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=31&z=2011-01-01&g=2011-01-01),
 
-- -. [31, eerste lid, onderdeel b , vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=31&z=2010-02-10&g=2010-02-10) jo [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=18&z=2010-02-10&g=2010-02-10),
+- -. [31, eerste lid, onderdeel b , vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=31&z=2011-01-01&g=2011-01-01) jo [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=18&z=2011-01-01&g=2011-01-01),
 
-- -. [31, zesde lid jo eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=31&z=2010-02-10&g=2010-02-10) jo [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=18&z=2010-02-10&g=2010-02-10),
+- -. [31, zesde lid jo eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=31&z=2011-01-01&g=2011-01-01) jo [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=18&z=2011-01-01&g=2011-01-01),
 
-- -. [32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=32&z=2010-02-10&g=2010-02-10),
+- -. [32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=32&z=2011-01-01&g=2011-01-01),
 
-- -. [33, eerste lid en derde jo eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=33&z=2010-02-10&g=2010-02-10),
+- -. [33, eerste lid en derde jo eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=33&z=2011-01-01&g=2011-01-01),
 
-- -. [34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=34&z=2010-02-10&g=2010-02-10),
+- -. [34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=34&z=2011-01-01&g=2011-01-01),
 
-- -. [39, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=39&z=2010-02-10&g=2010-02-10),
+- -. [39, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=39&z=2011-01-01&g=2011-01-01),
 
-- -. [44](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=5&artikel=44&z=2010-02-10&g=2010-02-10),
+- -. [44](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=5&artikel=44&z=2011-01-01&g=2011-01-01),
 
-- -. [45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=5&artikel=45&z=2010-02-10&g=2010-02-10),
+- -. [45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=5&artikel=45&z=2011-01-01&g=2011-01-01),
 
-- -. [49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=49&z=2010-02-10&g=2010-02-10),
+- -. [49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=49&z=2011-01-01&g=2011-01-01),
 
-- -. [54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9&artikel=54&z=2010-02-10&g=2010-02-10),
+- -. [54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9&artikel=54&z=2011-01-01&g=2011-01-01),
 
-- -. [58b, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58b&z=2010-02-10&g=2010-02-10),
+- -. [58b, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58b&z=2011-01-01&g=2011-01-01),
 
-- -. [58b, eerste lid, onderdeel b, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58b&z=2010-02-10&g=2010-02-10) j° [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=18&z=2010-02-10&g=2010-02-10),
+- -. [58b, eerste lid, onderdeel b, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58b&z=2011-01-01&g=2011-01-01) j° [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=18&z=2011-01-01&g=2011-01-01),
 
-- -. [58c, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58c&z=2010-02-10&g=2010-02-10),
+- -. [58c, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58c&z=2011-01-01&g=2011-01-01),
 
-- -. [58c, tweede lid, onderdeel b, of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58c&z=2010-02-10&g=2010-02-10) j° [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=18&z=2010-02-10&g=2010-02-10),
+- -. [58c, tweede lid, onderdeel b, of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58c&z=2011-01-01&g=2011-01-01) j° [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=18&z=2011-01-01&g=2011-01-01),
 
-- -. [58d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58d&z=2010-02-10&g=2010-02-10) j° [artikel 26, eerste, tweede, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=26&z=2010-02-10&g=2010-02-10),
+- -. [58d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58d&z=2011-01-01&g=2011-01-01) j° [artikel 26, eerste, tweede, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=26&z=2011-01-01&g=2011-01-01),
 
-- -. [58d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58d&z=2010-02-10&g=2010-02-10) j° [artikel 27, tweede of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=27&z=2010-02-10&g=2010-02-10),
+- -. [58d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58d&z=2011-01-01&g=2011-01-01) j° [artikel 27, tweede of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=27&z=2011-01-01&g=2011-01-01),
 
-- -. [58d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58d&z=2010-02-10&g=2010-02-10),
+- -. [58d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58d&z=2011-01-01&g=2011-01-01),
 
-- -. [58f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58f&z=2010-02-10&g=2010-02-10), en
+- -. [58f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58f&z=2011-01-01&g=2011-01-01), en
 
-- -. [58h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58h&z=2010-02-10&g=2010-02-10) is een strafbaar feit.
+- -. [58h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58h&z=2011-01-01&g=2011-01-01) is een strafbaar feit.
 
 ### Hoofdstuk 7. Schorsing
 
@@ -937,7 +937,7 @@ Overtreding van de artikelen
 
 ##### Artikel 55
 
-1. De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002938&artikel=5), [7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002938&artikel=7), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0002938&artikel=14), eerste lid, [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002938&artikel=15), eerste lid en [16 van het Reglement kentekenregistratie](https://wetten.overheid.nl/jci1.3:c:BWBR0002938&artikel=16), zoals deze bepalingen luidden vóór het tijdstip waarop zij op grond van [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=10&artikel=59&z=2010-02-10&g=2010-02-10) zijn ingetrokken, blijven voor wat betreft het in die bepalingen bepaalde ten aanzien van registratiebewijzen en aanvullingsbladen van kracht tot een bij ministeriële regeling vastgesteld tijdstip. Tot dat tijdstip kan de Dienst Wegverkeer tevens een voorlopig registratiebewijs afgeven van een bij ministeriële regeling vastgesteld model.
+1. De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002938&artikel=5), [7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002938&artikel=7), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0002938&artikel=14), eerste lid, [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002938&artikel=15), eerste lid en [16 van het Reglement kentekenregistratie](https://wetten.overheid.nl/jci1.3:c:BWBR0002938&artikel=16), zoals deze bepalingen luidden vóór het tijdstip waarop zij op grond van [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=10&artikel=59&z=2011-01-01&g=2011-01-01) zijn ingetrokken, blijven voor wat betreft het in die bepalingen bepaalde ten aanzien van registratiebewijzen en aanvullingsbladen van kracht tot een bij ministeriële regeling vastgesteld tijdstip. Tot dat tijdstip kan de Dienst Wegverkeer tevens een voorlopig registratiebewijs afgeven van een bij ministeriële regeling vastgesteld model.
 
 2. Voor de toepassing van [artikel 5 van het Reglement kentekenregistratie](https://wetten.overheid.nl/jci1.3:c:BWBR0002938&artikel=5) wordt met een kentekenbewijs gelijkgesteld een kentekenbewijs, afgegeven op basis van de wet.
 
@@ -947,9 +947,9 @@ Vervallen
 
 ##### Artikel 57
 
-1. De [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002938&artikel=17) en [23 van het Reglement kentekenregistratie](https://wetten.overheid.nl/jci1.3:c:BWBR0002938&artikel=23), zoals deze artikelen luidden vóór het tijdstip waarop zij op grond van [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=10&artikel=59&z=2010-02-10&g=2010-02-10) zijn ingetrokken, blijven van kracht ten aanzien van op basis van de Wegenverkeerswet afgegeven kentekenbewijzen die vóór bedoeld tijdstip met toepassing van genoemde [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=17&z=2010-02-10&g=2010-02-10) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=23&z=2010-02-10&g=2010-02-10) ongeldig zijn verklaard en moeten worden ingeleverd, indien op eerderbedoeld tijdstip die inlevering nog niet heeft plaatsgevonden.
+1. De [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002938&artikel=17) en [23 van het Reglement kentekenregistratie](https://wetten.overheid.nl/jci1.3:c:BWBR0002938&artikel=23), zoals deze artikelen luidden vóór het tijdstip waarop zij op grond van [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=10&artikel=59&z=2011-01-01&g=2011-01-01) zijn ingetrokken, blijven van kracht ten aanzien van op basis van de Wegenverkeerswet afgegeven kentekenbewijzen die vóór bedoeld tijdstip met toepassing van genoemde [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=17&z=2011-01-01&g=2011-01-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=23&z=2011-01-01&g=2011-01-01) ongeldig zijn verklaard en moeten worden ingeleverd, indien op eerderbedoeld tijdstip die inlevering nog niet heeft plaatsgevonden.
 
-2. Op basis van de Wegenverkeerswet afgegeven kentekenbewijzen die nog niet op grond van [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9&artikel=54&z=2010-02-10&g=2010-02-10), zijn vervangen, worden voor de toepassing van de [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=37&z=2010-02-10&g=2010-02-10) en [45](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=5&artikel=45&z=2010-02-10&g=2010-02-10) gelijkgesteld met kentekenbewijzen, afgegeven op basis van de wet.
+2. Op basis van de Wegenverkeerswet afgegeven kentekenbewijzen die nog niet op grond van [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9&artikel=54&z=2011-01-01&g=2011-01-01), zijn vervangen, worden voor de toepassing van de [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=37&z=2011-01-01&g=2011-01-01) en [45](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=5&artikel=45&z=2011-01-01&g=2011-01-01) gelijkgesteld met kentekenbewijzen, afgegeven op basis van de wet.
 
 ##### Artikel 58
 
@@ -973,7 +973,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 40a
 
-Een wijziging van [richtlijn nr. 2000/53/EG](32000L0053) van het Europees Parlement en de Raad van de Europese Unie van 18 september 2000 betreffende autowrakken (PbEG L 269) gaat voor de toepassing van [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=40&z=2010-02-10&g=2010-02-10) en [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=46&z=2010-02-10&g=2010-02-10) gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
+Een wijziging van [richtlijn nr. 2000/53/EG](32000L0053) van het Europees Parlement en de Raad van de Europese Unie van 18 september 2000 betreffende autowrakken (PbEG L 269) gaat voor de toepassing van [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=40&z=2011-01-01&g=2011-01-01) en [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=46&z=2011-01-01&g=2011-01-01) gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
 ### Hoofdstuk 5. Handelaarskentekenbewijzen
 
@@ -1011,7 +1011,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 58a
 
-In afwijking van de [artikelen 26 tot en met 30](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=26&z=2010-02-10&g=2010-02-10) en [34](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=34&z=2010-02-10&g=2010-02-10) zijn op driedelige kentekenbewijzen alsmede op kentekenbewijzen die bestaan uit een deel I dat is afgegeven voor 31 mei 2004, een deel I B en een overschrijvingsbewijs, de [artikelen 58b tot en met 58h](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58b&z=2010-02-10&g=2010-02-10) van toepassing.
+In afwijking van de [artikelen 26 tot en met 30](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=26&z=2011-01-01&g=2011-01-01) en [34](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=34&z=2011-01-01&g=2011-01-01) zijn op driedelige kentekenbewijzen alsmede op kentekenbewijzen die bestaan uit een deel I dat is afgegeven voor 31 mei 2004, een deel I B en een overschrijvingsbewijs, de [artikelen 58b tot en met 58h](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58b&z=2011-01-01&g=2011-01-01) van toepassing.
 
 ##### Artikel 58b. Wijziging van de tenaamstelling: overdracht tussen particulieren
 
@@ -1033,7 +1033,7 @@ In afwijking van de [artikelen 26 tot en met 30](https://wetten.overheid.nl/jci1
 
 ##### Artikel 58c. Wijziging van de tenaamstelling: overdracht ten behoeve van een bedrijfsvoorraad
 
-1. In geval van overdracht ten behoeve van een bedrijfsvoorraad, van een voertuig waarvoor een kentekenbewijs als bedoeld in [artikel 58a](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58a&z=2010-02-10&g=2010-02-10) is afgegeven, zijn in afwijking van [artikel 58b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58b&z=2010-02-10&g=2010-02-10), het tweede tot en met achtste lid van toepassing.
+1. In geval van overdracht ten behoeve van een bedrijfsvoorraad, van een voertuig waarvoor een kentekenbewijs als bedoeld in [artikel 58a](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58a&z=2011-01-01&g=2011-01-01) is afgegeven, zijn in afwijking van [artikel 58b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58b&z=2011-01-01&g=2011-01-01), het tweede tot en met achtste lid van toepassing.
 
 2. Degene aan wie een driedelig kentekenbewijs is afgegeven of degene die na diens overlijden eigenaar of houder van het voertuig is geworden, is verplicht:
 
@@ -1055,7 +1055,7 @@ In afwijking van de [artikelen 26 tot en met 30](https://wetten.overheid.nl/jci1
 
 6. Degene die het deel I, bedoeld in het tweede lid, onderdeel b, onder zich heeft gehouden, is verplicht dit terstond af te geven aan het erkende bedrijf van wie hij het vrijwaringsbewijs en het oude deel II of I B heeft verkregen.
 
-7. In afwijking van het derde en vijfde lid, is een erkend bedrijf, indien dit gebruik maakt van de bevoegdheid, bedoeld in [artikel 46, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=46&z=2010-02-10&g=2010-02-10), verplicht:
+7. In afwijking van het derde en vijfde lid, is een erkend bedrijf, indien dit gebruik maakt van de bevoegdheid, bedoeld in [artikel 46, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=46&z=2011-01-01&g=2011-01-01), verplicht:
 
 - a. de overdracht van het voertuig ten behoeve van diens bedrijfsvoorraad terstond na de overdracht te melden aan de Dienst Wegverkeer;
 
@@ -1065,7 +1065,7 @@ In afwijking van de [artikelen 26 tot en met 30](https://wetten.overheid.nl/jci1
 
 - d. het bedrijfsvoorraad deel I B onder zich te houden.
 
-8. Het tweede en het zesde lid zijn niet van toepassing indien een of meer delen van het kentekenbewijs verloren zijn geraakt of teniet zijn gegaan en het erkende bedrijf bij de in het achtste lid, onderdeel a, bedoelde melding tevens meldt dat het voertuig voorgoed buiten gebruik wordt gesteld, mits degene aan wie het kentekenbewijs als bedoeld in [artikel 58a](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58a&z=2010-02-10&g=2010-02-10) is afgegeven of degene die na diens overlijden eigenaar of houder van het voertuig is geworden:
+8. Het tweede en het zesde lid zijn niet van toepassing indien een of meer delen van het kentekenbewijs verloren zijn geraakt of teniet zijn gegaan en het erkende bedrijf bij de in het achtste lid, onderdeel a, bedoelde melding tevens meldt dat het voertuig voorgoed buiten gebruik wordt gesteld, mits degene aan wie het kentekenbewijs als bedoeld in [artikel 58a](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58a&z=2011-01-01&g=2011-01-01) is afgegeven of degene die na diens overlijden eigenaar of houder van het voertuig is geworden:
 
 - a. aan het erkende bedrijf terstond de niet verloren geraakte of teniet gegane delen van het kentekenbewijs overdraagt,
 
@@ -1083,7 +1083,7 @@ In afwijking van de [artikelen 26 tot en met 30](https://wetten.overheid.nl/jci1
 
 ##### Artikel 58e
 
-1. In geval van overdracht van een voertuig dat ophoudt te behoren tot de bedrijfsvoorraad van een erkend bedrijf dat gebruik maakt van de bevoegdheid, bedoeld in [artikel 46, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=46&z=2010-02-10&g=2010-02-10), kan, in afwijking van [artikel 58d](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58d&z=2010-02-10&g=2010-02-10), een aanvraag van een nieuw deel I B, gericht aan de Dienst Wegverkeer, bij dat bedrijf worden ingediend. In afwijking van [artikel 58d](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58d&z=2010-02-10&g=2010-02-10) is dit artikel van toepassing.
+1. In geval van overdracht van een voertuig dat ophoudt te behoren tot de bedrijfsvoorraad van een erkend bedrijf dat gebruik maakt van de bevoegdheid, bedoeld in [artikel 46, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=6&artikel=46&z=2011-01-01&g=2011-01-01), kan, in afwijking van [artikel 58d](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58d&z=2011-01-01&g=2011-01-01), een aanvraag van een nieuw deel I B, gericht aan de Dienst Wegverkeer, bij dat bedrijf worden ingediend. In afwijking van [artikel 58d](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58d&z=2011-01-01&g=2011-01-01) is dit artikel van toepassing.
 
 2. Indien de aanvraag wordt gedaan door een natuurlijke persoon overlegt deze in persoon aan het erkende bedrijf een rijbewijs, alsmede een verklaring waaruit duidelijk het verzoek tot tenaamstelling blijkt en het kenteken van het voertuig dat wordt overgedragen, en welke overigens voldoet aan bij ministeriële regeling als bedoeld in [artikel 50, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=50), gestelde voorschriften.
 
@@ -1117,17 +1117,17 @@ In afwijking van de [artikelen 26 tot en met 30](https://wetten.overheid.nl/jci1
 
 ##### Artikel 58g. Wijziging van de tenaamstelling: bijzondere procedure
 
-1. De Dienst Wegverkeer kan voor een voertuig een tweedelig kentekenbewijs afgeven zonder dat aan de in de [artikelen 58b tot en met 58f](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58b&z=2010-02-10&g=2010-02-10) bedoelde verplichtingen is voldaan, indien de aanvraag voor het kentekenbewijs wordt ingediend door een natuurlijke persoon of een rechtspersoon die verklaart eigenaar of houder van het voertuig te zijn en indien naar het oordeel van de Dienst Wegverkeer aannemelijk is gemaakt dat niet aan bedoelde verplichtingen kan worden voldaan.
+1. De Dienst Wegverkeer kan voor een voertuig een tweedelig kentekenbewijs afgeven zonder dat aan de in de [artikelen 58b tot en met 58f](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58b&z=2011-01-01&g=2011-01-01) bedoelde verplichtingen is voldaan, indien de aanvraag voor het kentekenbewijs wordt ingediend door een natuurlijke persoon of een rechtspersoon die verklaart eigenaar of houder van het voertuig te zijn en indien naar het oordeel van de Dienst Wegverkeer aannemelijk is gemaakt dat niet aan bedoelde verplichtingen kan worden voldaan.
 
 2. De Dienst Wegverkeer kan in verband met het bepaalde in het eerste lid verlangen dat de aanvrager van het kentekenbewijs het voertuig toont, een bij ministeriële regeling aangewezen legitimatiebewijs overlegt en een of meer delen van het kentekenbewijs inlevert.
 
 ##### Artikel 58h. Aanvraag en afgifte nieuw kentekenbewijs
 
-1. Indien het voertuig waarvoor een kentekenbewijs als bedoeld in [artikel 58a](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58a&z=2010-02-10&g=2010-02-10) is afgegeven niet meer overeenstemt met de gegevens op het deel I, vraagt degene aan wie het kentekenbewijs is afgegeven of degene die na diens overlijden eigenaar of houder van het voertuig is geworden, onverwijld bij de Dienst Wegverkeer onder overlegging van het kentekenbewijs een nieuw kentekenbewijs aan.
+1. Indien het voertuig waarvoor een kentekenbewijs als bedoeld in [artikel 58a](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=9A&artikel=58a&z=2011-01-01&g=2011-01-01) is afgegeven niet meer overeenstemt met de gegevens op het deel I, vraagt degene aan wie het kentekenbewijs is afgegeven of degene die na diens overlijden eigenaar of houder van het voertuig is geworden, onverwijld bij de Dienst Wegverkeer onder overlegging van het kentekenbewijs een nieuw kentekenbewijs aan.
 
 2. Indien het kentekenbewijs is ingevorderd ingevolge [artikel 60 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=60), geeft de Dienst Wegverkeer op verzoek een nieuw kentekenbewijs af. Degene aan wie het kentekenbewijs is afgegeven of degene die na diens overlijden eigenaar of houder van het voertuig is geworden, dient hiertoe bij de Dienst Wegverkeer onder overlegging van het bij de invordering afgegeven ontvangstbewijs een aanvraag in. De Dienst Wegverkeer geeft niet eerder een nieuw kentekenbewijs af dan nadat het voertuig is goedgekeurd overeenkomstig [artikel 105 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=105).
 
-3. De Dienst Wegverkeer geeft in geval van wijziging in de constructie als bedoeld in [artikel 98 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=98) een nieuw kentekenbewijs af nadat de wijziging is goedgekeurd ingevolge [artikel 98 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=98). Deze dienst kan daarbij verlangen dat het in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=18&z=2010-02-10&g=2010-02-10), bedoelde ontvangstbewijs wordt overgelegd.
+3. De Dienst Wegverkeer geeft in geval van wijziging in de constructie als bedoeld in [artikel 98 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=98) een nieuw kentekenbewijs af nadat de wijziging is goedgekeurd ingevolge [artikel 98 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=98). Deze dienst kan daarbij verlangen dat het in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=18&z=2011-01-01&g=2011-01-01), bedoelde ontvangstbewijs wordt overgelegd.
 
 4. De Dienst Wegverkeer geeft voor een kentekenbewijs dat wordt ingeleverd bij een door Onze Minister aangewezen instantie in verband met een wijziging aan het voertuig die niet behoeft te worden goedgekeurd ingevolge [artikel 98 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=98), een ontvangstbewijs af.
 
@@ -1185,11 +1185,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Als categorieën bromfietsen, bedoeld in [artikel 37, eerste lid, onderdeel a, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37) waarop [artikel 36 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) niet van toepassing is, worden, voor zover deze voertuigen voldoen aan de begripsomschrijving van bromfiets in [artikel 1, eerste lid, onder e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1), vastgesteld:
 
-- a. motorrijtuigen met een door de constructie bepaalde maximumsnelheid van ten hoogste 6 km/h;
+- a. bromfietsen als bedoeld in [artikel 1, eerste lid, onderdeel e, subonderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1);
 
-- b. motorrijtuigen die bestemd zijn om door een voetganger te worden meegevoerd, en
+- b. motorrijtuigen met een door de constructie bepaalde maximumsnelheid van ten hoogste 6 km/h;
 
-- c. motorrijtuigen met drie symmetrisch geplaatste wielen, waarvan een wiel aan de voorzijde en twee wielen aan de achterzijde, die voornamelijk zijn ontworpen voor gebruik buiten de wegen en voor vrijetijdsbesteding.
+- c. motorrijtuigen die bestemd zijn om door een voetganger te worden meegevoerd, en
+
+- d. motorrijtuigen met drie symmetrisch geplaatste wielen, waarvan een wiel aan de voorzijde en twee wielen aan de achterzijde, die voornamelijk zijn ontworpen voor gebruik buiten de wegen en voor vrijetijdsbesteding.
 
 ### Hoofdstuk 3. Registratie van kentekens
 
@@ -1205,11 +1207,11 @@ Als categorieën bromfietsen, bedoeld in [artikel 37, eerste lid, onderdeel a, o
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-##### Artikel 24a. Afgifte van een kentekenbewijs als bedoel in [artikel 4, vijfde lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=2&artikel=4&z=2010-02-10&g=2010-02-10)
+##### Artikel 24a. Afgifte van een kentekenbewijs als bedoel in [artikel 4, vijfde lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=2&artikel=4&z=2011-01-01&g=2011-01-01)
 
-1. De eigenaar of houder van een voertuig waarvoor de afgifte van een kentekenbewijs als bedoeld in [artikel 17, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=17&z=2010-02-10&g=2010-02-10), wordt gevraagd, stelt het voertuig voor een onderzoek ter beschikking van de Dienst Wegverkeer en vraagt bij deze dienst onder overlegging van een bij ministeriële regeling aangewezen legitimatiebewijs, een kentekenbewijs aan.
+1. De eigenaar of houder van een voertuig waarvoor de afgifte van een kentekenbewijs als bedoeld in [artikel 17, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=17&z=2011-01-01&g=2011-01-01), wordt gevraagd, stelt het voertuig voor een onderzoek ter beschikking van de Dienst Wegverkeer en vraagt bij deze dienst onder overlegging van een bij ministeriële regeling aangewezen legitimatiebewijs, een kentekenbewijs aan.
 
-2. Bij ministeriële regeling kan worden bepaald dat een kentekenbewijs als bedoeld in [artikel 17, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=17&z=2010-02-10&g=2010-02-10), niet binnen een bij die regeling te bepalen periode meerdere keren voor hetzelfde voertuig wordt afgegeven.
+2. Bij ministeriële regeling kan worden bepaald dat een kentekenbewijs als bedoeld in [artikel 17, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=4&artikel=17&z=2011-01-01&g=2011-01-01), niet binnen een bij die regeling te bepalen periode meerdere keren voor hetzelfde voertuig wordt afgegeven.
 
 ### Hoofdstuk 9A. Overgangsbepalingen in verband met de implementatie van [richtlijn nr. 1999/37/eg](31999L0037)
 
@@ -1233,9 +1235,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Indien het een aanvraag inzake een driedelig kentekenbewijs, dan wel een kentekenbewijs bestaande uit een voor 31 mei 2004 afgegeven deel I, een deel I B en een overschrijvingsbewijs betreft geldt:
 
-- a. in afwijking van de [artikelen 50, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=7&artikel=50&z=2010-02-10&g=2010-02-10), en [51, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=7&artikel=51&z=2010-02-10&g=2010-02-10), dat het deel II dan wel deel I B van het betrokken kentekenbewijs, het overschrijvingsbewijs en een bij ministeriële regeling aangewezen legitimatiebewijs worden overgelegd.
+- a. in afwijking van de [artikelen 50, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=7&artikel=50&z=2011-01-01&g=2011-01-01), en [51, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=7&artikel=51&z=2011-01-01&g=2011-01-01), dat het deel II dan wel deel I B van het betrokken kentekenbewijs, het overschrijvingsbewijs en een bij ministeriële regeling aangewezen legitimatiebewijs worden overgelegd.
 
-- b. in afwijking van de [artikelen 50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=7&artikel=50&z=2010-02-10&g=2010-02-10), en [51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=7&artikel=51&z=2010-02-10&g=2010-02-10), dat de aanvrager, na ontvangst van het nieuwe deel I B van het betrokken kentekenbewijs, het ongeldig geworden deel II dan wel deel I B van het kentekenbewijs vernietigt.
+- b. in afwijking van de [artikelen 50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=7&artikel=50&z=2011-01-01&g=2011-01-01), en [51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&hoofdstuk=7&artikel=51&z=2011-01-01&g=2011-01-01), dat de aanvrager, na ontvangst van het nieuwe deel I B van het betrokken kentekenbewijs, het ongeldig geworden deel II dan wel deel I B van het kentekenbewijs vernietigt.
 
 ### Hoofdstuk 9A. Overgangsbepalingen in verband met de implementatie van [richtlijn nr. 1999/37/eg](31999L0037)
 
