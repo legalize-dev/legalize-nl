@@ -4,7 +4,7 @@ identifier: "BWBR0004084"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-01-01"
-last_updated: "2009-01-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004084"
 soort: "ministeriele-regeling"
@@ -67,11 +67,11 @@ Als werkgever van de topsporter die op grond van het in overeenstemming met Onze
 
 ##### Artikel 2
 
-Voor de toepassing van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004084&artikel=1&z=2009-01-01&g=2009-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0004084&artikel=2&z=2009-01-01&g=2009-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004084&artikel=5&z=2009-01-01&g=2009-01-01) van het koninklijk besluit van 24 december 1986, Stb. 1986, 655 wordt buiten beschouwing gelaten de arbeidsverhouding van de persoon, die niet bij wijze van beroep als auteur of redactiemedewerker voor een uitgever werkzaam is.
+Voor de toepassing van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004084&artikel=1&z=2011-01-01&g=2011-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0004084&artikel=2&z=2011-01-01&g=2011-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004084&artikel=5&z=2011-01-01&g=2011-01-01) van het koninklijk besluit van 24 december 1986, Stb. 1986, 655 wordt buiten beschouwing gelaten de arbeidsverhouding van de persoon, die niet bij wijze van beroep als auteur of redactiemedewerker voor een uitgever werkzaam is.
 
 ##### Artikel 3
 
-Voor de toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004084&artikel=5&z=2009-01-01&g=2009-01-01) van het koninklijk besluit van 24 december 1986, Stb. 1986, 655, wordt buiten beschouwing gelaten de arbeidsverhouding van de persoon die
+Voor de toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004084&artikel=5&z=2011-01-01&g=2011-01-01) van het koninklijk besluit van 24 december 1986, Stb. 1986, 655, wordt buiten beschouwing gelaten de arbeidsverhouding van de persoon die
 
 - a. als bestuurder van een vereniging of stichting dan wel als commissaris van een vennootschap voor die vereniging, stichting, onderscheidenlijk vennootschap, werkzaam is, of
 
@@ -79,13 +79,13 @@ Voor de toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR00040
 
 ##### Artikel 4
 
-1. [Artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004084&artikel=3&z=2009-01-01&g=2009-01-01), van het koninklijk besluit van 24 december 1986, Stb. 1986, 655 vindt geen toepassing ten aanzien van de persoon die:
+1. [Artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004084&artikel=3&z=2011-01-01&g=2011-01-01), van het koninklijk besluit van 24 december 1986, Stb. 1986, 655 vindt geen toepassing ten aanzien van de persoon die:
 
 - a. doorgaans op minder dan drie dagen per week werkzaam is voor een natuurlijk persoon ten behoeve van diens persoonlijke aangelegenheden, tenzij loon wordt verstrekt door degene, door wiens tussenkomst de arbeid wordt verricht;
 
 - b. bij wijze van arbeidstherapie werkzaam is.
 
-2. [Artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004084&artikel=3&z=2009-01-01&g=2009-01-01), van het koninklijk besluit van 24 december 1986, Stb. 1986, 655 vindt, voor zover de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) betreft, geen toepassing ten aanzien van de persoon die:
+2. [Artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004084&artikel=3&z=2011-01-01&g=2011-01-01), van het koninklijk besluit van 24 december 1986, Stb. 1986, 655 vindt, voor zover de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) betreft, geen toepassing ten aanzien van de persoon die:
 
 - a. door tussenkomst of mede door tussenkomst van een supranationale, internationale of buitenlandse organisatie of instelling als stagiaire werkzaam is, indien hij buiten Nederland woont;
 
@@ -101,7 +101,7 @@ Voor de toepassing van de artikelen 1, 2 en 3 van het besluit van 24 december 19
 
 1. Het besluit van 26 februari 1981, nr. 50861 (Stcrt. 1981, 42), wordt ingetrokken.
 
-2. Een verklaring afgegeven op grond van [artikel 1, eerste lid, onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0004084&artikel=1&z=2009-01-01&g=2009-01-01), van het in het eerste lid genoemde besluit, waarin begrepen een verklaring die op grond van artikel 5, tweede lid, van dat besluit als zodanig kan worden aangemerkt, wordt aangemerkt als een verklaring als bedoeld in artikel 1, tweede lid, onderdeel a, van dit besluit.
+2. Een verklaring afgegeven op grond van [artikel 1, eerste lid, onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0004084&artikel=1&z=2011-01-01&g=2011-01-01), van het in het eerste lid genoemde besluit, waarin begrepen een verklaring die op grond van artikel 5, tweede lid, van dat besluit als zodanig kan worden aangemerkt, wordt aangemerkt als een verklaring als bedoeld in artikel 1, tweede lid, onderdeel a, van dit besluit.
 
 ##### Artikel 7
 
@@ -231,7 +231,7 @@ Indien zich na het tot stand komen van een koppeling tussen VO en een gastouder 
 
 ##### Artikel 5a
 
-Voor de toepassing van [artikel 5a, eerste lid, van het koninklijk besluit van 24 december 1986](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=5a) (Stb. 655) wordt de arbeidsverhouding van degene die als sekswerker persoonlijk arbeid verricht niet als dienstbetrekking beschouwd indien aan de voorwaarden, bedoeld in [artikel 2b, van de Uitvoeringsregeling loonbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=2b), wordt voldaan.
+Voor de toepassing van [artikel 5a, eerste lid, van het koninklijk besluit van 24 december 1986](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=5a) (Stb. 655) wordt de arbeidsverhouding van degene die als sekswerker persoonlijk arbeid verricht niet als dienstbetrekking beschouwd indien aan de voorwaarden, bedoeld in [artikel 2.2 van de Uitvoeringsregeling loonbelasting 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&artikel=2.2), wordt voldaan.
 
 ##### Artikel 5b
 
