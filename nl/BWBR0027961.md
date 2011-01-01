@@ -4,7 +4,7 @@ identifier: "BWBR0027961"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2010-08-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027961"
 soort: "AMvB"
@@ -52,7 +52,7 @@ Voor voorschoolse educatie gelden ten minste de in dit besluit opgenomen basisvo
 
 ##### Artikel 2. Basisvoorwaarden voor omvang voorschoolse educatie
 
-Voorschoolse educatie omvat per week ten minste vier dagdelen van ten minste 2,5 uur of per week ten minste 10 uur aan activiteiten gericht op het stimuleren van de ontwikkelingsdomeinen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=5&z=2010-08-01&g=2010-08-01).
+Voorschoolse educatie omvat per week ten minste vier dagdelen van ten minste 2,5 uur of per week ten minste 10 uur aan activiteiten gericht op het stimuleren van de ontwikkelingsdomeinen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=5&z=2011-01-01&g=2011-01-01).
 
 ##### Artikel 3. Basisvoorwaarden voor aantal beroepskrachten en groepsgrootte
 
@@ -84,23 +84,17 @@ Voorschoolse educatie vindt plaats in een kindercentrum of peuterspeelzaal.
 
 ##### Artikel 7. Tijdelijke specifieke uitkering aan gemeenten, die geen deel uitmaken van het Grotestedenbeleid, bestemd voor de bestrijding van onderwijsachterstanden
 
-1. Indien de som van de schoolgewichten, bedoeld in [artikel 27 van het Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=27), zoals dat luidde op 31 juli 2006, van de hoofdvestigingen en nevenvestigingen van basisscholen voor zover deze zich bevinden op het grondgebied van een gemeente, gebaseerd op de leerlingenaantallen op 1 oktober 2004, 11 of meer bedraagt, wordt aan gemeenten, die in de periode van 1 januari tot 1 augustus 2010 een specifieke uitkering ontvingenop grond van [artikel 3 van het Besluit vaststelling doelstelling en bekostiging onderwijsachterstandenbeleid 2006–2010](https://wetten.overheid.nl/jci1.3:c:BWBR0020346&artikel=3), zoals dat luidde op 31 juli 2008, een specifieke uitkering toegekend voor de bestrijding van onderwijsachterstanden. Deze uitkering wordt voor de periode 1 augustus tot en met 31 december 2010 vastgesteld. De uitkering wordt berekend door de schoolgewichten bij elkaar op te tellen en de uitkomst te vermenigvuldigen met een bij ministeriële regeling vast te stellen bedrag.
-
-2. De gemeente besteedt de specifieke uitkering, bedoeld in het eerste lid, aan voorschoolse educatie en de activiteiten als bedoeld in [artikel 165 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=165), om onderwijsachterstanden te bestrijden, met dien verstande dat maximaal 15% van de verstrekte specifieke uitkering kan worden besteed aan coördinerende of overige activiteiten die zijn gerelateerd aan het onderwijsachterstandenbeleid.
-
-3. Indien de gemeente voorschoolse educatie aanbiedt besteedt de gemeente de specifieke uitkering, bedoeld in het eerste lid, in ieder geval aan het vaststellen van een eigen bijdrage van ouders in de kosten van opvang van kinderen als bedoeld in [artikel 167, eerste lid, onderdeel a, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=167), die voorschoolse educatie volgen in peuterspeelzalen, die overeenkomt met of lager is dan de eigen bijdrage die ouders betalen voor de opvang van kinderen in de zin van de [Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) indien een maximale kinderopvangtoeslag op grond van het [Besluit kinderopvangtoeslag en tegemoetkomingen in kosten kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017321) wordt ontvangen.
-
-4. Dit artikel vervalt met ingang van 1 januari 2011.
+Vervallen
 
 ##### Artikel 8. Overgangsrecht
 
 1. Eerst twaalf maanden na inwerkingtreding van dit besluit is:
 
-- a. [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=2&z=2010-08-01&g=2010-08-01) van toepassing ten aanzien van voorschoolse educatie in gemeenten, die op het moment van inwerkingtreding van dit besluit geen decentralisatie-uitkering als bedoeld in [artikel 5, tweede lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=5) ontvingen voor voorschoolse educatie;
+- a. [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=2&z=2011-01-01&g=2011-01-01) van toepassing ten aanzien van voorschoolse educatie in gemeenten, die op het moment van inwerkingtreding van dit besluit geen decentralisatie-uitkering als bedoeld in [artikel 5, tweede lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=5) ontvingen voor voorschoolse educatie;
 
-- b. [artikel 4, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=4&z=2010-08-01&g=2010-08-01), van toepassing ten aanzien van beroepskrachten voorschoolse educatie, die op het moment van inwerkingtreding van dit besluit reeds belast zijn met voorschoolse educatie en op dat moment niet voldoen aan de voorwaarden, bedoeld in artikel 4, eerste tot en met derde lid;
+- b. [artikel 4, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=4&z=2011-01-01&g=2011-01-01), van toepassing ten aanzien van beroepskrachten voorschoolse educatie, die op het moment van inwerkingtreding van dit besluit reeds belast zijn met voorschoolse educatie en op dat moment niet voldoen aan de voorwaarden, bedoeld in artikel 4, eerste tot en met derde lid;
 
-- c. [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=5&z=2010-08-01&g=2010-08-01) van toepassing.
+- c. [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=5&z=2011-01-01&g=2011-01-01) van toepassing.
 
 2. Het eerste lid, onderdelen b en c, geldt niet ten aanzien van voorschoolse educatie in de gemeenten Amsterdam, Den Haag, Rotterdam en Utrecht.
 
