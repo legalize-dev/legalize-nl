@@ -4,7 +4,7 @@ identifier: "BWBR0021067"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-28"
-last_updated: "2010-07-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021067"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - a. de naturalisatietoets: de toets, genoemd in [artikel 2, tweede lid van het Besluit naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=2);
 
-- b. verzoeker: de meerderjarige vreemdeling die, woonachtig in Nederland of buiten het Koninkrijk, op grond van de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738) verzoekt om verlening van het Nederlanderschap;
+- b. verzoeker: de meerderjarige vreemdeling die, woonachtig in het Europese deel van Nederland of buiten het Koninkrijk, op grond van de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738) verzoekt om verlening van het Nederlanderschap;
 
 - c. de burgemeester: de burgemeester door wie het verzoek om naturalisatie in ontvangst wordt genomen;
 
@@ -122,13 +122,17 @@ Om tot vrijstelling te kunnen leiden, dient de verklaring de volgende gegevens t
 
 7. Van het afleggen van het praktijkdeel, bedoeld in [artikel 3.7 van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.7) alsmede van het elektronisch praktijkexamen en de toets gesproken Nederlands, bedoeld in [artikel 3.9, eerste lid, onderdelen a en b, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.9), is vrijgesteld de verzoeker die beschikt over één van de volgende certificaten van het Certificaat Nederlands als Vreemde Taal:
 
-- a. Certificaat Profiel Maatschappelijke Taalvaardigheid (ERK-niveau B1),
+- a. Certificaat Profiel Toeristische en Informele Taalvaardigheid (ERK-niveau A2);
 
-- b. Certificaat Profiel Professionele Taalvaardigheid (ERK-niveau B2),
+- b. Certificaat Profiel Taalvaardigheid Praktische Beroepen (ERK-niveau A2);
 
-- c. Certificaat Profiel Taalvaardigheid Hoger Onderwijs (ERK-niveau B2), of
+- c. Certificaat Profiel Maatschappelijke Taalvaardigheid (ERK-niveau B1),
 
-- d. Certificaat Profiel Academische Taalvaardigheid (ERK-niveau C1).
+- d. Certificaat Profiel Professionele Taalvaardigheid (ERK-niveau B2),
+
+- e. Certificaat Profiel Taalvaardigheid Hoger Onderwijs (ERK-niveau B2), of
+
+- f. Certificaat Profiel Academische Taalvaardigheid (ERK-niveau C1).
 
 #### § 4. Belemmeringen
 
@@ -152,7 +156,7 @@ Om tot vrijstelling te kunnen leiden, dient de verklaring de volgende gegevens t
 
 4. De in het derde lid bedoelde kosten bedragen € 287.
 
-5. Het bedrag wordt jaarlijks per 1 januari gewijzigd met een percentage, dat overeenkomt met het procentuele verschil tussen het indexcijfer en de CAO-lonen per maand, inclusief bijzondere uitkeringen, van volwassenen, zoals dat wordt berekend door het Centraal Bureau voor de Statistiek naar de stand op 30 september van enig jaar en, al dan niet voorlopig, wordt bekend gemaakt door het Centraal Bureau voor de Statistiek en het overeenkomstige indexcijfer in het voorafgaande jaar.
+5. Het bedrag wordt jaarlijks per 1 januari gewijzigd met een percentage, dat overeenkomt met het procentuele verschil tussen het indexcijfer en de CAO-lonen per maand, inclusief bijzondere uitkeringen, van volwassenen, zoals dat wordt berekend door het Centraal Bureau voor de Statistiek naar de stand op 30 juni van enig jaar en, al dan niet voorlopig, wordt bekend gemaakt door het Centraal Bureau voor de Statistiek en het overeenkomstige indexcijfer in het voorafgaande jaar.
 
 6. Het wijzigingspercentage wordt afgerond op tienden van een procent. Daarbij vindt, indien van het in het vijfde lid bedoelde procentuele verschil het tweede of een volgende cijfer achter de komma vijf of hoger bedraagt, voor wat betreft die cijfers afronding naar boven plaats.
 
