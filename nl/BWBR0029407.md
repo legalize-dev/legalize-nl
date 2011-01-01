@@ -4,7 +4,7 @@ identifier: "BWBR0029407"
 country: "nl"
 rank: "amvb"
 publication_date: "2011-01-12"
-last_updated: "2010-02-27"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029407"
 soort: "AMvB"
@@ -56,19 +56,19 @@ Wijzigt het Rechtspositiebesluit burgemeesters.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Rechtspositiebesluit gedeputeerden.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Rechtspositiebesluit wethouders.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Rechtspositiebesluit staten- en commissieleden.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Rechtspositiebesluit raads- en commissieleden.
 
 ##### Artikel VII
 
@@ -76,7 +76,7 @@ Wijzigt het Waterschapsbesluit.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Rechtspositiebesluit Rijksvertegenwoordiger BES.
 
 ##### Artikel IX
 
