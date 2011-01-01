@@ -4,7 +4,7 @@ identifier: "BWBR0027116"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-11-02"
-last_updated: "2010-01-27"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027116"
 soort: "ministeriele-regeling"
@@ -56,72 +56,20 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Regeling registratieformulier antidiscriminatievoorzieningen.
 
-## Bijlage
+## Bijlage. , behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027116&artikel=1&z=2011-01-01&g=2011-01-01) van de Regeling registratieformulier antidiscriminatievoorzieningen
 
-| Gemeente waar de antidiscriminatievoorziening werkzaam is: | Gemeente waar de antidiscriminatievoorziening werkzaam is: |
-| --- | --- |
-| Totaal aantal geregistreerde klachten antidiscriminatievoorziening in het afgelopen jaar: |   |
-|   |   |
-| **Per wettelijke grond** |   |
-| – Ras |   |
-| – Nationaliteit |   |
-| – Godsdienst |   |
-| – Levensovertuiging |   |
-| – Leeftijd |   |
-| – Seksuele gerichtheid |   |
-| – Handicap / chronische ziekte |   |
-| – Arbeidsduur |   |
-| – Arbeidscontract vast/tijdelijk |   |
-| – Burgerlijke staat |   |
-| – Geslacht |   |
-| – Politieke gezindheid |   |
-| – Overige (niet-wettelijke) gronden |   |
-| – Onbekend |   |
-|   |   |
-| **Per maatschappelijk terrein** |   |
-| – Arbeidsmarkt |   |
-| – Buurt/Wijk |   |
-| – Collectieve voorzieningen |   |
-| – Commerciële dienstverlening |   |
-| – Horeca/amusement |   |
-| – Huisvesting |   |
-| – Internet |   |
-| – Media en reclame |   |
-| – Onderwijs |   |
-| – Politie/OM/Vreemdelingendienst |   |
-| – Justitie/Justitiële inrichtingen |   |
-| – Privésfeer |   |
-| – Publieke / politieke opinie |   |
-| – Sport / recreatie |   |
-| – Openbare ruimte / publiek domein |   |
-| – Overig |   |
-| – Onbekend |   |
-|   |   |
-| **Per aard van de klacht** |   |
-| – Omstreden behandeling |   |
-| – Vijandige bejegening |   |
-| – Bedreiging |   |
-| – Mishandeling |   |
-| – Gewelddadige groepsconfrontatie |   |
-| – Vernieling |   |
-| – Doelbekladding |   |
-| – Brandstichting |   |
-| – Overige gewelddadige uitingen |   |
-| – Overig |   |
-| – Onbekend |   |
-|   |   |
-| **Per wijze van klachtbehandeling** |   |
-| – Registratie |   |
-| – Informatieverstrekking |   |
-| – Advies |   |
-| – Bemiddeling |   |
-| – Bijstaan in procedures |   |
-| – Doorverwijzing naar politie |   |
-| – Overig |   |
-|   |   |
-| **Plaats voorval** |   |
-| – Onderhavige gemeente |   |
-| – Andere gemeente |   |
-| – Landelijk |   |
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### 1. Totaal aantal klachten
+
+### 2. Discriminatiegrond1Het totale aantal in deze tabel kan afwijken van het totaal aantal klachten. Een klacht kan namelijk over discriminatie op meerdere gronden gaan, waardoor er verschil ontstaan tussen de twee totalen.
+
+### 3. Maatschappelijk terrein
+
+### 4. Aard
+
+### 5. Klachtbehandeling2Per klacht kunnen meerdere wijzen van klachtbehandeling worden toegepast en geregistreerd. Daarbij kan de wijze van klachtbehandeling niet of niet volledig ingevuld zijn voor de op het moment van rapportage nog lopende klachten. Het totale aantal geregistreerde werkwijzen van klachtbehandeling kan om die redenen dan ook afwijken het totale aantal klachten.
+
+¹ De werkwijze ‘registratie’ betekent dat de klachtbehandeling heeft bestaan uit het registreren van de klacht of melding en uit het geven van een korte reactie (telefonisch of per e-mail).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
