@@ -4,7 +4,7 @@ identifier: "BWBR0030122"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-01-01"
-last_updated: "2010-12-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030122"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling inkomstenbelasting 2001.
 
 ##### Artikel II
 
@@ -52,11 +52,11 @@ Wijzigt de Uitvoeringsregeling willekeurige afschrijving 2001.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling loonbelasting 2011.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling werknemersspaarregelingen en winstdelingsregelingen.
 
 ##### Artikel V
 
@@ -100,15 +100,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling Belastingdienst 2003.
 
 ##### Artikel XVI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsbeschikking Registratiewet 1970.
 
 ##### Artikel XVII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling Wob Financiën.
 
 ##### Artikel XVIII
 
