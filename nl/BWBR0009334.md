@@ -4,7 +4,7 @@ identifier: "BWBR0009334"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-09-18"
-last_updated: "2010-10-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009334"
 soort: "AMvB"
@@ -82,7 +82,7 @@ Voor elk type draagbaar blustoestel met bijbehorende vulling is een afzonderlijk
 
 ##### Artikel 4
 
-1. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=2&z=2010-10-01&g=2010-10-01) is het toegestaan met een machtiging van Onze Minister draagbare blustoestellen met bijbehorende vullingen in te voeren, indien de draagbare blustoestellen uitsluitend:
+1. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=2&z=2011-01-01&g=2011-01-01) is het toegestaan draagbare blustoestellen met bijbehorende vullingen in te voeren, indien de draagbare blustoestellen uitsluitend:
 
 - a. zijn bestemd voor experimentele doeleinden,
 
@@ -92,15 +92,15 @@ Voor elk type draagbaar blustoestel met bijbehorende vulling is een afzonderlijk
 
 - d. tijdelijk in Nederland verblijven zonder dat het oogmerk aanwezig is deze met het oog op gebruik in Nederland te verhandelen.
 
-2. Bij de aanvraag voor een machtiging worden overgelegd:
+2. Degene die de draagbare blustoestellen als bedoeld in het eerste lid invoert, meldt dit ten minste vier weken ervoor aan Onze Minister.
+
+3. Bij de melding worden overgelegd:
 
 - a. een aanduiding van het type draagbare blustoestel met bijbehorende vulling;
 
 - b. het adres van de fabrikant van het draagbare blustoestel en van de fabrikant van de vulling;
 
 - c. een vermelding van de reden van invoer.
-
-3. Onze Minister beslist binnen twee weken na de ontvangst van de aanvraag over de afgifte van een machtiging.
 
 ##### Artikel 5
 
@@ -172,7 +172,7 @@ De invoer van draagbare blustoestellen met bijbehorende vullingen kan geschieden
 
 1. Op aanvraag van de houder wijzigt Onze Minister een bewijs.
 
-2. [De artikelen 6, eerste lid, onder b tot en met f, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=6&z=2010-10-01&g=2010-10-01), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=7&z=2010-10-01&g=2010-10-01), en [8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=8&z=2010-10-01&g=2010-10-01), zijn van overeenkomstige toepassing.
+2. [De artikelen 6, eerste lid, onder b tot en met f, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=6&z=2011-01-01&g=2011-01-01), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=7&z=2011-01-01&g=2011-01-01), en [8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=8&z=2011-01-01&g=2011-01-01), zijn van overeenkomstige toepassing.
 
 3. Het bewijs, bedoeld in het eerste lid, omvat een door Onze Minister gewaarmerkt exemplaar van de bij de wijzigingsaanvraag overgelegde technische beschrijving en constructietekening van het gewijzigde onderdeel of de gewijzigde onderdelen van het draagbare blustoestel.
 
@@ -188,7 +188,7 @@ De invoer van draagbare blustoestellen met bijbehorende vullingen kan geschieden
 
 ##### Artikel 11
 
-De wijziging, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=9&z=2010-10-01&g=2010-10-01), en de overschrijving, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=10&z=2010-10-01&g=2010-10-01), brengen geen verandering in de termijn waarvoor het bewijs is verleend.
+De wijziging, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=9&z=2011-01-01&g=2011-01-01), en de overschrijving, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=10&z=2011-01-01&g=2011-01-01), brengen geen verandering in de termijn waarvoor het bewijs is verleend.
 
 #### § 3. Dwang- en strafbepalingen
 
@@ -198,7 +198,7 @@ De wijziging, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 - a. de houder niet overeenkomstig het bewijs draagbare blustoestellen met bijbehorende vullingen met het oog op gebruik in Nederland vervaardigt, invoert of verhandelt;
 
-- b. de houder niet voldoet aan [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=8&z=2010-10-01&g=2010-10-01).
+- b. de houder niet voldoet aan [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=8&z=2011-01-01&g=2011-01-01).
 
 2. Onze Minister doet van de intrekking mededeling in de Nederlandse Staatscourant.
 
@@ -208,9 +208,9 @@ Als strafbare feiten, bedoeld in [artikel 64, derde lid, van de Wet veiligheidsr
 
 - a. het zonder bewijs met het oog op gebruik in Nederland vervaardigen, invoeren of verhandelen van draagbare blustoestellen met bijbehorende vullingen;
 
-- b. het zonder machtiging als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=4&z=2010-10-01&g=2010-10-01), invoeren van draagbare blustoestellen met bijbehorende vullingen;
+- b. het invoeren van draagbare blustoestellen met bijbehorende vullingen als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=4&z=2011-01-01&g=2011-01-01), zonder melding ervan aan Onze Minister;
 
-- c. het met het oog op gebruik in Nederland vervaardigen, invoeren of verhandelen van draagbare blustoestellen met bijbehorende vullingen die niet zijn voorzien van de opschriften, bedoeld in [artikel 8, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=8&z=2010-10-01&g=2010-10-01).
+- c. het met het oog op gebruik in Nederland vervaardigen, invoeren of verhandelen van draagbare blustoestellen met bijbehorende vullingen die niet zijn voorzien van de opschriften, bedoeld in [artikel 8, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=8&z=2011-01-01&g=2011-01-01).
 
 #### § 4. Overgangs- en slotbepalingen
 
@@ -262,7 +262,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2a
 
-Het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=2&z=2010-10-01&g=2010-10-01), geldt niet voor draagbare blustoestellen voor zover deze bestemd zijn voor plaatsing aan boord van schepen waarop [richtlijn nr. 96/98/EG](31996L0098) van de Raad van de Europese Unie van 20 december 1996 inzake uitrusting van zeeschepen (PbEG 1997, L 46) van toepassing is en zijn voorzien van het merk van overeenstemming, weergegeven in bijlage D van die richtlijn.
+Het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=2&z=2011-01-01&g=2011-01-01), geldt niet voor draagbare blustoestellen voor zover deze bestemd zijn voor plaatsing aan boord van schepen waarop [richtlijn nr. 96/98/EG](31996L0098) van de Raad van de Europese Unie van 20 december 1996 inzake uitrusting van zeeschepen (PbEG 1997, L 46) van toepassing is en zijn voorzien van het merk van overeenstemming, weergegeven in bijlage D van die richtlijn.
 
 #### § 3. Dwang- en strafbepalingen
 
@@ -290,7 +290,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Dit besluit berust op [artikel 30, eerste lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=30).
 
-## Bijlage. behorende bij [artikel 8, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=8&z=2010-10-01&g=2010-10-01), van het Besluit draagbare blustoestellen 1997
+## Bijlage. behorende bij [artikel 8, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=8&z=2011-01-01&g=2011-01-01), van het Besluit draagbare blustoestellen 1997
 
 Het rijkskeurmerk is ingericht naar het volgende model:
 
