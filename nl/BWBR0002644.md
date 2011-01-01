@@ -4,7 +4,7 @@ identifier: "BWBR0002644"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2010-01-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002644"
 soort: "AMvB"
@@ -44,7 +44,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Het recht, genoemd in [artikel 2, eerste lid, van de Wet rechten burgerlijke stand](https://wetten.overheid.nl/jci1.3:c:BWBR0001851&artikel=2) bedraagt voor de onder a, b en d genoemde stukken EUR 10 per 1 januari 2010: € 11,30en voor de onder c genoemde stukken EUR 18,40 per 1 januari 2010: € 20,40.
+1. Het recht, genoemd in [artikel 2, eerste lid, van de Wet rechten burgerlijke stand](https://wetten.overheid.nl/jci1.3:c:BWBR0001851&artikel=2) bedraagt voor de onder a, b en d genoemde stukken EUR 10 per 1 januari 2011: € 11,50en voor de onder c genoemde stukken EUR 18,40 per 1 januari 2011: € 20,70.
 
 2. Jaarlijks worden de bedragen, bedoeld in het eerste lid, aangepast overeenkomstig de procentuele wijziging die de consumentenprijsindex over de maand april van het lopende kalenderjaar heeft ondergaan ten opzichte van dit prijsindexcijfer over de maand april van het daaraan voorafgaande jaar. De uitkomst van die berekening wordt naar boven afgerond op 10 eurocent. Het aldus berekende bedrag wordt door de Minister van Binnenlandse Zaken en Koninkrijksrelaties vóór 1 september in de Staatscourant bekend gemaakt en geldt voor het daarop volgende kalenderjaar.
 
