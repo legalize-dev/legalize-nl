@@ -4,7 +4,7 @@ identifier: "BWBR0029217"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-01-01"
-last_updated: "2010-12-24"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029217"
 soort: "ministeriele-regeling"
@@ -52,12 +52,16 @@ Wijzigt de Regeling innovatiebox beroepsonderwijs 2006 tot en met 2009.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+1. De [Kaderregeling technocentra 2006 tot en met 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0019613) wordt ingetrokken.
+
+2. Voor zover er ter zake nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze overeenkomstig de regeling, genoemd in het eerste lid, plaats.
+
+3. Bestaande aanspraken en verplichtingen bij, op grond of in het kader van de regeling, genoemd in het eerste lid, blijven in stand.
 
 ##### Artikel IV
 
-1. Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0029217&artikel=III&z=2010-12-24&g=2010-12-24).
+1. Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0029217&artikel=III&z=2011-01-01&g=2011-01-01).
 
-2. [Artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0029217&artikel=III&z=2010-12-24&g=2010-12-24) treedt in werking met ingang van 1 januari 2011.
+2. [Artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0029217&artikel=III&z=2011-01-01&g=2011-01-01) treedt in werking met ingang van 1 januari 2011.
 
 Deze regeling zal met de toelichting in de Staatscourant worden gepubliceerd.
