@@ -4,7 +4,7 @@ identifier: "BWBR0028402"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2024-11-26"
-last_updated: "2010-09-24"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028402"
 soort: "beleidsregel"
@@ -92,7 +92,7 @@ Deze beleidsregel heeft betrekking op:
 
 - a. de aanvrager is een rechtspersoon met volledige rechtsbevoegdheid;
 
-- b. het accreditatieorgaan heeft met betrekking tot de opleiding waarop de aanvraag betrekking heeft, een positief besluit als bedoeld in [artikel 5a.8, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5a.8) genomen;
+- b. het accreditatieorgaan heeft met betrekking tot de opleiding waarop de aanvraag betrekking heeft, een positief besluit als bedoeld in [artikel 5a.10a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5a.10a) genomen;
 
 - c. de aanvrager heeft ten tijde van de aanvraag het volledige curriculum van de opleiding waarop de aanvraag betrekking heeft, ten minste één maal recent in Nederland verzorgd op de wijze, bedoeld in het derde lid, en
 
@@ -118,9 +118,9 @@ Deze beleidsregel heeft betrekking op:
 
 1. Voor een beslissing op de aanvraag zijn in ieder geval de volgende gegevens en bescheiden nodig:
 
-- a. een document waarin onderbouwd wordt uiteengezet dat wordt voldaan aan de eisen en voorwaarden van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028402&paragraaf=3&artikel=3&z=2010-09-24&g=2010-09-24);
+- a. een document waarin onderbouwd wordt uiteengezet dat wordt voldaan aan de eisen en voorwaarden van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028402&paragraaf=3&artikel=3&z=2011-01-01&g=2011-01-01);
 
-- b. indien vereist op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028402&paragraaf=3&artikel=3&z=2010-09-24&g=2010-09-24), een positief besluit als bedoeld in [artikel 5a.8, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5a.8);
+- b. indien vereist op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028402&paragraaf=3&artikel=3&z=2011-01-01&g=2011-01-01), een positief besluit als bedoeld in [artikel 5a.10a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5a.10a);
 
 - c. de notariële oprichtingsakte van de rechtspersoon;
 
@@ -176,7 +176,7 @@ Onder ‘de nodige inlichtingen’, bedoeld in [artikel 1.12, derde lid, eerste 
 
 ##### Artikel 8
 
-1. Ten aanzien van aanvragen die na 1 september 2010 bij de minister worden ingediend en zijn voorzien van een op het ‘Protocol aanwijzingsprocedure, toelichting op de werkwijze’ gebaseerd positief oordeel van het accreditatieorgaan, beoordeelt de minister de voorwaarde bedoeld in [artikel 3, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028402&paragraaf=3&artikel=3&z=2010-09-24&g=2010-09-24), met in achtneming van genoemd protocol.
+1. Ten aanzien van aanvragen die na 1 september 2010 bij de minister worden ingediend en zijn voorzien van een op het ‘Protocol aanwijzingsprocedure, toelichting op de werkwijze’ gebaseerd positief oordeel van het accreditatieorgaan, beoordeelt de minister de voorwaarde bedoeld in [artikel 3, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028402&paragraaf=3&artikel=3&z=2011-01-01&g=2011-01-01), met in achtneming van genoemd protocol.
 
 2. Indien de minister een positief besluit neemt ten aanzien van een aanvraag als bedoeld in het eerste lid, wordt de toestemming verleend onder de beperking dat binnen een bij dat besluit te bepalen termijn ten behoeve van nadere advisering van de minister door de inspectie zal worden onderzocht of voor dat deel van het curriculum dat eerder nog niet werd verzorgd wordt voldaan aan de eisen ten aanzien van de kwaliteitszorg, de registratie, het onderwijs en de examens, alsmede de vooropleidingseisen.
 
