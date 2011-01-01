@@ -4,7 +4,7 @@ identifier: "BWBR0010115"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-14"
-last_updated: "2010-04-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010115"
 soort: "ministeriele-regeling"
@@ -43,49 +43,39 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder:
 
-a. Minister: Minister van Verkeer en Waterstaat; b. bevoegde autoriteit: 1°. Minister, 2°. een in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=4&z=2010-04-01&g=2010-04-01) bij deze regeling erkende instantie, of 3°. een met toepassing van de [Regeling erkende instanties vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0026901) erkende instantie; c. ADN: Accord Européen relatif au Transport International des Marchandises Dangereuses par voie de Navigation (ADN); d. Aktewateren: de Rijn, inbegrepen de Waal en de Lek; e. binnenwateren: Nederlandse binnenwateren, niet zijnde Aktewateren.
+a. Minister: Minister van Infrastructuur en Milieu; b. bevoegde autoriteit: 1°. Minister, 2°. een in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=4&z=2011-01-01&g=2011-01-01) bij deze regeling erkende instantie, of 3°. een met toepassing van de [Regeling erkende instanties vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0026901) erkende instantie; c. ADN: Accord Européen relatif au Transport International des Marchandises Dangereuses par voie de Navigation (ADN).
 
-2. De in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2010-04-01&g=2010-04-01) opgenomen begripsbepalingen zijn van toepassing op de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=2&z=2010-04-01&g=2010-04-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=3&z=2010-04-01&g=2010-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=4&z=2010-04-01&g=2010-04-01), voor zover die bijlagen betrekking hebben op de Aktewateren en voor zover daarin niet anders is bepaald.
-
-3. De in [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1a&z=2010-04-01&g=2010-04-01) opgenomen begripsbepalingen zijn van toepassing op de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=2&z=2010-04-01&g=2010-04-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=3&z=2010-04-01&g=2010-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=4&z=2010-04-01&g=2010-04-01), voor zover die bijlagen betrekking hebben op de binnenwateren en voor zover daarin niet anders is bepaald.
+2. De in [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1a&z=2011-01-01&g=2011-01-01) opgenomen begripsbepalingen zijn van toepassing op de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=2&z=2011-01-01&g=2011-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=3&z=2011-01-01&g=2011-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=4&z=2011-01-01&g=2011-01-01), voor zover daarin niet anders is bepaald.
 
 ##### Artikel 2
 
 1. Bij deze regeling behoren de volgende bijlagen:
 
-- a. [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2010-04-01&g=2010-04-01): voorschriften betreffende het vervoer van gevaarlijke stoffen over de Aktewateren, zijnde de Nederlandse vertaling van het ADNR en de daarvan deel uitmakende bijlagen;
+- a. [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1a&z=2011-01-01&g=2011-01-01): voorschriften betreffende het vervoer van gevaarlijke stoffen over de binnenwateren, zijnde de Nederlandse vertaling van het ADN en de daarvan deel uitmakende bijlagen;
 
-- b. [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1a&z=2010-04-01&g=2010-04-01): voorschriften betreffende het vervoer van gevaarlijke stoffen over de binnenwateren, zijnde de Nederlandse vertaling van het ADN en de daarvan deel uitmakende bijlagen;
+- b. [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=2&z=2011-01-01&g=2011-01-01): Regeling vervoer gevaarlijke stoffen met zeeschepen;
 
-- c. [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=2&z=2010-04-01&g=2010-04-01): Regeling vervoer gevaarlijke stoffen met zeeschepen;
+- c. [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=3&z=2011-01-01&g=2011-01-01): voorschriften in aanvulling op [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1a&z=2011-01-01&g=2011-01-01);
 
-- d. [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=3&z=2010-04-01&g=2010-04-01): voorschriften in afwijking van of in aanvulling op de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2010-04-01&g=2010-04-01) en [1a](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1a&z=2010-04-01&g=2010-04-01);
+- d. [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=4&z=2011-01-01&g=2011-01-01): erkende instanties, bedoeld in [artikel 1, eerste lid, onderdeel b, 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&artikel=1&z=2011-01-01&g=2011-01-01).
 
-- e. [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=4&z=2010-04-01&g=2010-04-01): erkende instanties, bedoeld in [artikel 1, eerste lid, onderdeel b, 2o](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&artikel=1&z=2010-04-01&g=2010-04-01).
+2. [Bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1a&z=2011-01-01&g=2011-01-01) is van toepassing op de binnenwateren, voor zover [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=2&z=2011-01-01&g=2011-01-01) niet van toepassing is.
 
-2. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2010-04-01&g=2010-04-01) is van toepassing op de Aktewateren, voor zover [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=2&z=2010-04-01&g=2010-04-01) niet van toepassing is.
-
-3. [Bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1a&z=2010-04-01&g=2010-04-01) is van toepassing op de binnenwateren, voor zover [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=2&z=2010-04-01&g=2010-04-01) niet van toepassing is.
-
-4. De [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2010-04-01&g=2010-04-01), [1a](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1a&z=2010-04-01&g=2010-04-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=2&z=2010-04-01&g=2010-04-01) zijn niet van toepassing op handelingen, genoemd in [artikel 3.3.2, eerste lid, van het Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=3.3.2).
+3. De [bijlagen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1a&z=2011-01-01&g=2011-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=2&z=2011-01-01&g=2011-01-01) zijn niet van toepassing op handelingen, genoemd in [artikel 3B.1, eerste lid, van het Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=3B.1).
 
 ##### Artikel 3
 
-1. Met voorwaardelijk tot het vervoer over de Aktewateren toegelaten gevaarlijke stoffen als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2010-04-01&g=2010-04-01) mogen de handelingen, bedoeld in [artikel 2 van het Besluit vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0008080&artikel=2), worden verricht, mits de in deze regeling gestelde voorschriften in acht worden genomen.
-
-2. Met voorwaardelijk tot het vervoer over de binnenwateren toegelaten gevaarlijke stoffen als bedoeld in [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1a&z=2010-04-01&g=2010-04-01) mogen de handelingen, bedoeld in [artikel 2 van het Besluit vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0008080&artikel=2), worden verricht, mits de in deze regeling gestelde voorschriften in acht worden genomen.
+Met voorwaardelijk tot het vervoer over de binnenwateren toegelaten gevaarlijke stoffen als bedoeld in [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1a&z=2011-01-01&g=2011-01-01) mogen de handelingen, bedoeld in [artikel 2 van het Besluit vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0008080&artikel=2), worden verricht, mits de in deze regeling gestelde voorschriften in acht worden genomen.
 
 ##### Artikel 4
 
-Indien de Minister ingevolge artikel 3, eerste lid, van het ADNR, tijdelijke voorschriften vaststelt, gelden deze voorschriften eveneens voor de overige Nederlandse binnenwateren.
+Vervallen
 
 ##### Artikel 5
 
-1. Met de in de bij deze regeling behorende [bijlagen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=3&z=2010-04-01&g=2010-04-01) vastgestelde technische normen of technische eisen worden gelijkgesteld daaraan gelijkwaardige technische normen of technische eisen, vastgesteld door of vanwege een andere lid-staat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
+1. Met de in de bij deze regeling behorende [bijlagen 1a tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=3&z=2011-01-01&g=2011-01-01) vastgestelde technische normen of technische eisen worden gelijkgesteld daaraan gelijkwaardige technische normen of technische eisen, vastgesteld door of vanwege een andere lid-staat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
 
-2. Met de in de bij deze regeling behorende [bijlagen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=3&z=2010-04-01&g=2010-04-01) geëiste typegoedkeuringen worden gelijkgesteld daaraan gelijkwaardige typegoedkeuringen, geëist door of vanwege een andere lid-staat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
-
-3. Het eerste en tweede lid zijn niet van toepassing met betrekking tot de Rijn, de Waal en de Lek.
+2. Met de in de bij deze regeling behorende [bijlagen 1a tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=3&z=2011-01-01&g=2011-01-01) geëiste typegoedkeuringen worden gelijkgesteld daaraan gelijkwaardige typegoedkeuringen, geëist door of vanwege een andere lid-staat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
 
 ##### Artikel 6
 
@@ -101,11 +91,11 @@ Deze regeling wordt aangehaald als: Regeling vervoer over de binnenwateren van g
 
 ## Bijlage 1
 
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat te Den Haag.
+Vervallen
 
 ## Bijlage 1a
 
-Ligt ter inzage bij het het Ministerie van Verkeer en Waterstaat te Den Haag.
+Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat te Den Haag.
 
 ## Bijlage 2. Regeling vervoer gevaarlijke stoffen met zeeschepen
 
@@ -300,11 +290,11 @@ Bij het uitoefenen van zijn bevoegdheden als bedoeld in artikel 1 van deze bijla
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen 1 en 2, die ter inzage worden gelegd bij het Directoraat-Generaal Goederenvervoer van het Ministerie van Verkeer en Waterstaat, Nieuwe Uitleg 1 te Den Haag.
 
-## Bijlage 3. bedoeld in [artikel 2, eerste lid, onderdeel c, van de Regeling vervoer over de binnenwateren van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&artikel=2&z=2010-04-01&g=2010-04-01)
+## Bijlage 3. bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&artikel=2&z=2011-01-01&g=2011-01-01), van de Regeling vervoer over de binnenwateren van gevaarlijke stoffen
 
-##### Artikel 1. Toepasbaarheid
+##### Artikel 1
 
-De bepalingen van deze bijlage zijn van toepassing op elk vervoer van gevaarlijke stoffen over de Aktewateren en de binnenwateren en hebben voorrang boven de bepalingen van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1&z=2010-04-01&g=2010-04-01) respectievelijk [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1a&z=2010-04-01&g=2010-04-01).
+De bepalingen van deze bijlage zijn van toepassing op vervoer van gevaarlijke stoffen over de binnenwateren en hebben voorrang boven de bepalingen van [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1a&z=2011-01-01&g=2011-01-01).
 
 ##### Artikel 2
 
@@ -336,10 +326,60 @@ De randnummers 7.1.5.1.1 en 7.1.5.1.2. van [bijlage 1](https://wetten.overheid.n
 
 Bevoegde autoriteiten in bijlage 1 bij het Protocol bij het ADNR zijn op basis van:
 
-### Artikel 2
+### Erkende instanties
 
 ### Artikel 3
 
-### Artikel 4
+### Artikel 2
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen 1 en 2, die ter inzage worden gelegd bij het Directoraat-Generaal Goederenvervoer van het Ministerie van Verkeer en Waterstaat, Nieuwe Uitleg 1 te Den Haag.
+
+##### Artikel 1a. Multilaterale overeenkomsten
+
+1. Niet-grensoverschrijdend vervoer mag plaatsvinden overeenkomstig multilaterale overeenkomsten als bedoeld in randnummer 1.5.1.1 van [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1a&z=2011-01-01&g=2011-01-01), die door Nederland zijn ondertekend.
+
+2. Bij het vervoer dat voldoet aan de in het eerste lid bedoelde multilaterale overeenkomsten worden de voorschriften met betrekking tot het vervoer in acht genomen die in deze overeenkomst zijn opgenomen.
+
+##### Artikel 2
+
+In aanvulling op randnummer 7.2.4.25.5 van [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1a&z=2011-01-01&g=2011-01-01) vindt het bij het laden naar buiten treden van de gas/luchtmengsels van de stoffen aan de walzijde op een zodanige locatie ten opzichte van het schip plaats en wordt zo uitgevoerd, dat geen gevaar of schade kan ontstaan voor de schepen en de bemanning ervan. De opening naar de atmosfeer is voorzien van een inrichting die vlaminslag voorkomt.
+
+##### Artikel 3. **Routering**
+
+1. Het is verboden stofnummer 9000, Ammoniak, watervrij, sterk gekoeld, Klasse 2, 3TC, of brandbare gassen van de Klasse 2 te vervoeren met tankschepen langs Dordrecht, Zwijndrecht of Papendrecht, anders dan over de Dordtse Kil.
+
+2. Het eerste lid is niet van toepassing op:
+
+- a. tankschepen die minder dan 25 ton vervoeren;
+
+- b. tankschepen die volledig voldoen aan randnummer 9.3.1.11.2 van het ADN conform het Certificaat van Goedkeuring, of
+
+- c. vervoer uitsluitend tussen de Volkeraksluizen en Amsterdam, mits het betrokken schip zich ten minste één uur voor het opvaren van de Oude Maas meldt bij de Regionale Verkeerscentrale Dordrecht.
+
+##### Artikel 4. [Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628)
+
+Op het vervoer van gevaarlijke stoffen op de Westerschelde en haar mondingen, op het Kanaal van Gent naar Terneuzen en in de buitenvoorhavens te Terneuzen, op de Eems en op de Dollard zijn de voorschriften bij of krachtens de [artikelen 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=3.14), [3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=3.21), [3.32](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=3.32), [4.04](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=4.04) en [6.28, negende en tiende lid van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=6.28) van overeenkomstige toepassing.
+
+##### Artikel 5. Beperkingen vervoer met duwstellen rn. 7.1.5.1.1 en 7.1.5.1.2
+
+1. Duwstellen, waarvan de afmetingen 195 • 24 meter overschrijden, mogen geen tankschepen bevatten, die gevaarlijke goederen vervoeren of niet ontgast zijn.
+
+2. Stoffen of voorwerpen, bedoeld in randnummer 7.1.5.1.2 van [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1a&z=2011-01-01&g=2011-01-01) mogen slechts dan met duwstellen of gekoppelde samenstellen worden vervoerd indien de afmetingen ervan niet groter zijn dan 195 • 24 meter. Tijdelijk voorspan is echter toegestaan.
+
+##### Artikel 6. Bewaartermijn opleidingsdossiers
+
+De werkgever bewaart de dossiers, bedoeld in randnummers 1.3.3 en 1.10.2.4 van [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1a&z=2011-01-01&g=2011-01-01) gedurende de arbeidsrelatie met de werknemer, die de opleiding heeft genoten.
+
+##### Artikel 7. Vervoerdocument
+
+In geval het vervoer van gevaarlijke stoffen uitsluitend binnen Nederland plaatsvindt, is het toegestaan dat de voorgeschreven aanduidingen van het in randnummer 5.4.1.4 van [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1a&z=2011-01-01&g=2011-01-01) bedoelde vervoerdocument uitsluitend zijn gesteld in de Nederlandse taal.
+
+## Bijlage 4. als bedoeld in [artikel 2, onderdeel d,](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&artikel=2&z=2011-01-01&g=2011-01-01) van de Regeling vervoer over de binnenwateren van gevaarlijke stoffen
+
+### Artikel 1
+
+In de onderstaande tabel zijn de erkende instanties opgenomen met betrekking tot de uitvoering van de voorschriften in de vermelde randnummers van [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1a&z=2011-01-01&g=2011-01-01) voor zover bedoelde handelingen worden uitgevoerd door Nederlandse instanties.
+
+### Artikel 3
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen 1 en 2, die ter inzage worden gelegd bij het Directoraat-Generaal Goederenvervoer van het Ministerie van Verkeer en Waterstaat, Nieuwe Uitleg 1 te Den Haag.
