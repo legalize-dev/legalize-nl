@@ -4,7 +4,7 @@ identifier: "BWBR0012022"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-04-01"
-last_updated: "2008-07-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012022"
 soort: "AMvB"
@@ -56,9 +56,9 @@ Hebben goedgevonden en verstaan:
 
 - b. betrokkene: de ambtenaar, bedoeld in [artikel 1, eerste lid, onderdeel i, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1), die als gevolg van ontslag verleend op grond van de [artikelen 89, eerste tot en met het vierde lid en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=89), [90, eerste en derde tot en met elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=90), [91, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=91), [92](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=92), of [94, eerste lid, onderdelen e, f of g, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=94) werkloos is geworden in de zin van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045);
 
-- c. aanvullende uitkering: de aanvullende uitkering bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=2&z=2008-07-01&g=2008-07-01);
+- c. aanvullende uitkering: de aanvullende uitkering bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=2&z=2011-01-01&g=2011-01-01);
 
-- d. aansluitende uitkering: de aansluitende uitkering bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=3&z=2008-07-01&g=2008-07-01);
+- d. aansluitende uitkering: de aansluitende uitkering bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=3&z=2011-01-01&g=2011-01-01);
 
 - e. bovenwettelijke uitkering: de aanvullende en aansluitende uitkering gezamenlijk;
 
@@ -96,7 +96,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2. Bovenwettelijke uitkering en berekeningswijze van de duur
 
-1. Met ingang van de dag waarop het ontslag ingaat heeft de betrokkene recht op een bovenwettelijke uitkering, zoals neergelegd in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=2&z=2008-07-01&g=2008-07-01) en [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=3&z=2008-07-01&g=2008-07-01) van dit besluit.
+1. Met ingang van de dag waarop het ontslag ingaat heeft de betrokkene recht op een bovenwettelijke uitkering, zoals neergelegd in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=2&z=2011-01-01&g=2011-01-01) en [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=3&z=2011-01-01&g=2011-01-01) van dit besluit.
 
 2. De maximale duur van de uitkering is drie maanden, vermeerderd voor de betrokkene, die op de dag waarop het ontslag ingaat:
 
@@ -106,7 +106,7 @@ Hebben goedgevonden en verstaan:
 
 - c. 60 jaar of ouder is: met een duur gelijk aan 78% van de diensttijd.
 
-3. Indien uitgaande van het moment van ontslag de maximale duur van de uitkering, berekend op grond van het tweede lid, langer is dan de duur van de WW-uitkering, wordt het verschil in duur tot een maximum van twee jaar in mindering gebracht op de maximale duur.
+3. Indien uitgaande van het moment van ontslag de maximale duur van de uitkering, berekend op grond van het tweede lid, langer is dan de duur van de WW-uitkering, wordt het verschil in duur tot een maximum van twee jaar in mindering gebracht op de maximale duur. Vervolgens wordt voor elk jaar dat de diensttijd langer is dan achttien jaar de duur verminderd met een maand tot een maximum van 22 maanden.
 
 4. De duur van de uitkering van de betrokkene die ten tijde van het ontslag 57,5 jaar of ouder is en een diensttijd, voor zover geldig voor pensioen, van ten minste tien jaar heeft volbracht, wordt na afloop van de termijn die op basis van het tweede en derde lid is toegekend, verlengd tot de eerste dag van de kalendermaand volgend op die waarin hij de leeftijd van 65 jaar heeft bereikt.
 
@@ -116,31 +116,31 @@ Hebben goedgevonden en verstaan:
 
 1. De betrokkene heeft gedurende de periode dat recht bestaat op een WW-uitkering, recht op een aanvullende uitkering, met dien verstande dat het recht op een aanvullende uitkering niet eerder ingaat dan de dag waarop het ontslag in werking treedt.
 
-2. Op de aanvullende uitkering zijn de [artikelen 22 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=22), [36 tot en met 40](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=36), [47, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=47), [75](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=75), [76](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=76) en [78 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=78) van overeenkomstige toepassing.
+2. Op de aanvullende uitkering zijn de [artikelen 22 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=22), [36 tot en met 40](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=36), [47, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=47), [75](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=75), [76](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=76), [76a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=76a), [77a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=77a) en [78 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=78) van overeenkomstige toepassing.
 
-3. De [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=34) en [35 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=35) zijn slechts van overeenkomstige toepassing op de aanvullende uitkering indien de hoogte van de in mindering te brengen inkomsten de uitkering krachtens de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) overstijgen.
+3. De [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=34), [35a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=35a) en [35aa van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=35aa) zijn slechts van overeenkomstige toepassing op de aanvullende uitkering indien de hoogte van de in mindering te brengen inkomsten de uitkering krachtens de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) overstijgen.
 
 ##### Artikel 4. Hoogte van de aanvullende uitkering
 
-1. Indien de duur van de bovenwettelijke uitkering, berekend op basis van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2008-07-01&g=2008-07-01), ten minste gelijk is aan de duur van de WW-uitkering, berekend op basis van de artikelen [42](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=42) of [52g van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=52g), wordt de WW-uitkering gedurende de eerste twaalf maanden tot 80%, gedurende de daaropvolgende zes maanden tot 75% en vervolgens tot 70% van het voor de betrokkene geldende dagloon aangevuld.
+1. Indien de duur van de bovenwettelijke uitkering, berekend op basis van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2011-01-01&g=2011-01-01), ten minste gelijk is aan de duur van de WW-uitkering, berekend op basis van de artikelen [42](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=42) of [52g van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=52g), wordt de WW-uitkering gedurende de eerste twee maanden tot 85%, gedurende de daaropvolgende tien maanden tot 80%, gedurende de daaropvolgende zes maanden tot 75% en vervolgens tot 70% van het voor de betrokkene geldende dagloon aangevuld.
 
-2. Indien de duur van de bovenwettelijke uitkering, berekend op basis van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2008-07-01&g=2008-07-01), korter is dan de duur van de WW-uitkering, berekend op basis van de artikelen [42](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=42) of [52g van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=52g), wordt de uitkering, bedoeld in de artikelen [42](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=42) of [52g van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=52g), gedurende de eerste twaalf maanden tot 80%, gedurende de daarop volgende zes maanden tot 75% en vervolgens tot 70% aangevuld.
+2. Indien de duur van de bovenwettelijke uitkering, berekend op basis van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2011-01-01&g=2011-01-01), korter is dan de duur van de WW-uitkering, berekend op basis van de artikelen [42](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=42) of [52g van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=52g), wordt de uitkering, bedoeld in de artikelen [42](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=42) of [52g van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=52g), gedurende de eerste twee maanden tot 85%, gedurende de daaropvolgende tien maanden tot 80%, gedurende de daarop volgende zes maanden tot 75% en vervolgens tot 70% aangevuld.
 
 3. Voor de toepassing van dit artikel wordt de WW-uitkering steeds geacht door de betrokkene onverminderd te zijn genoten.
 
 ##### Artikel 5. Aanvullende uitkering bij ziekte
 
-1. Indien de betrokkene gedurende de periode dat hij recht heeft op een WW-uitkering wegens ziekte verhinderd is arbeid te verrichten en deswege een ZW-uitkering geniet, wordt de ZW-uitkering aangevuld tot de percentages van het dagloon, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=2&artikel=4&z=2008-07-01&g=2008-07-01), met inachtneming van de daaraan voorafgaande termijn waarover de betrokkene recht op een aanvullende uitkering op grond van dit besluit heeft gehad.
+1. Indien de betrokkene gedurende de periode dat hij recht heeft op een WW-uitkering wegens ziekte verhinderd is arbeid te verrichten en deswege een ZW-uitkering geniet, wordt de ZW-uitkering aangevuld tot de percentages van het dagloon, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=2&artikel=4&z=2011-01-01&g=2011-01-01), met inachtneming van de daaraan voorafgaande termijn waarover de betrokkene recht op een aanvullende uitkering op grond van dit besluit heeft gehad.
 
-2. Indien het recht op de WW-uitkering na afloop van de periode waarin de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) op de betrokkene van toepassing is geweest, herleeft, telt zowel de termijn waarover de betrokkene voorafgaand aan deze periode recht heeft gehad op een WW-uitkering als de termijn waarin de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) op hem van toepassing is geweest, mee voor het vaststellen van de hoogte van de aanvullende uitkering, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=2&artikel=4&z=2008-07-01&g=2008-07-01).
+2. Indien het recht op de WW-uitkering na afloop van de periode waarin de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) op de betrokkene van toepassing is geweest, herleeft, telt zowel de termijn waarover de betrokkene voorafgaand aan deze periode recht heeft gehad op een WW-uitkering als de termijn waarin de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) op hem van toepassing is geweest, mee voor het vaststellen van de hoogte van de aanvullende uitkering, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=2&artikel=4&z=2011-01-01&g=2011-01-01).
 
 3. Voor de toepassing van dit artikel worden de WW-uitkering en de ZW-uitkering steeds geacht onverminderd door de betrokkene te zijn genoten.
 
 ##### Artikel 6. Overlijdensuitkering
 
-1. Zo spoedig mogelijk na het overlijden van de betrokkene wordt de uitkering, bedoeld in [artikel 35 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=35), aangevuld tot 100% van het voor de betrokkene geldende dagloon over drie maanden.
+1. Zo spoedig mogelijk na het overlijden van de betrokkene wordt de uitkering, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=35) of [36 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=36), aangevuld tot 100% van het voor de betrokkene geldende dagloon over drie maanden.
 
-2. Voor de toepassing van het eerste lid wordt de uitkering krachtens de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) steeds geacht onverminderd door de betrokkene te zijn genoten.
+2. Voor de toepassing van het eerste lid wordt de betrokkene geacht steeds onverminderd ziekengeld te hebben genoten.
 
 ##### Artikel 7. Verplichting of sanctie
 
@@ -150,11 +150,11 @@ Indien ten aanzien van de WW-uitkering of de ZW-uitkering een verplichting of ee
 
 ##### Artikel 8. Het recht op aansluitende uitkering
 
-1. Indien op het moment van ontslag de duur van de uitkering berekend op basis van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2008-07-01&g=2008-07-01), langer is dan de duur van de uitkering berekend op basis van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), heeft de betrokkene die het einde van de uitkeringsduur krachtens de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) heeft bereikt, met ingang van dat moment recht op een aansluitende uitkering.
+1. Indien op het moment van ontslag de duur van de uitkering berekend op basis van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2011-01-01&g=2011-01-01), langer is dan de duur van de uitkering berekend op basis van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), heeft de betrokkene die het einde van de uitkeringsduur krachtens de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) heeft bereikt, met ingang van dat moment recht op een aansluitende uitkering.
 
-2. Het eerste lid vindt uitzondering, indien de betrokkene gedurende de periode van werkloosheid recht heeft gehad op een aanvullende uitkering bij ziekte op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=2&artikel=5&z=2008-07-01&g=2008-07-01).
+2. Het eerste lid vindt uitzondering, indien de betrokkene gedurende de periode van werkloosheid recht heeft gehad op een aanvullende uitkering bij ziekte op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=2&artikel=5&z=2011-01-01&g=2011-01-01).
 
-3. Op de aansluitende uitkering zijn de [artikelen 19 tot en met 40](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=19), [47, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=47), [75](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=75), [76](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=76) en [78 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=78) van overeenkomstige toepassing.
+3. Op de aansluitende uitkering zijn de [artikelen 19 tot en met 40](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=19), [47, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=47), [75](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=75), [76](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=76), [76a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=76a), [77a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=77a) en [78 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=78) van overeenkomstige toepassing.
 
 4. Het recht op aansluitende uitkering eindigt na ommekomst van de duur van de aansluitende uitkering, maar uiterlijk op de eerste dag van de kalendermaand volgend op die waarin de betrokkene de leeftijd van 65 jaar heeft bereikt.
 
@@ -162,11 +162,15 @@ Indien ten aanzien van de WW-uitkering of de ZW-uitkering een verplichting of ee
 
 ##### Artikel 9. Hoogte van de aansluitende uitkering
 
-1. De aansluitende uitkering bedraagt tot uiterlijk twaalf maanden na de dag waarop het ontslag ingaat 80%, gedurende de daaropvolgende zes maanden 75% en vervolgens 70% van het voor hem geldende dagloon. Gedurende de verlenging, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2008-07-01&g=2008-07-01), is de uitkering gelijk aan 70% van het dagloon.
+1. De aansluitende uitkering bedraagt tot uiterlijk twee maanden na de dag waarop het ontslag ingaat 85%, gedurende de daaropvolgende tien maanden 80%, gedurende de daaropvolgende zes maanden 75% en vervolgens 70% van het voor betrokkene geldende dagloon. Gedurende de verlenging, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2011-01-01&g=2011-01-01), is de uitkering gelijk aan 70% van het dagloon.
 
-2. Bij de toepassing van het eerste lid wordt rekening gehouden met de termijn waarin de betrokkene reeds recht heeft gehad op aanvullende uitkering.
+2. Gedurende de verlenging, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2011-01-01&g=2011-01-01), is de uitkering gelijk aan 70% van het voor betrokkene geldende dagloon.
 
-3. Ten aanzien van de hoogte van de aansluitende uitkering zijn de [artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=45) en [47, tweede en derde lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=47) van toepassing.
+3. In afwijking van het tweede lid is de uitkering van de betrokkene, bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2011-01-01&g=2011-01-01), gelijk aan 50% van het voor betrokkene geldende dagloon vanaf het moment dat hij de leeftijd van 63 jaar en twee maanden heeft bereikt. De uitkering is in ieder geval gelijk aan het minimumloon in evenredigheid met de betrekkingsomvang van betrokkene op het moment van het ontslag.
+
+4. Bij de toepassing van het eerste lid wordt rekening gehouden met de termijn waarin de betrokkene reeds recht heeft gehad op aanvullende uitkering.
+
+5. Ten aanzien van de hoogte van de aansluitende uitkering is [artikel 47, tweede en derde lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=47) van overeenkomstige toepassing.
 
 ##### Artikel 10. Overlijdensuitkering
 
@@ -198,7 +202,7 @@ Indien ten aanzien van de WW-uitkering of de ZW-uitkering een verplichting of ee
 
 2. De betrokkene die onmiddellijk aansluitend aan zijn ontslag een nieuwe dienstbetrekking heeft aanvaard en die werkloos is geworden in de zin van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), heeft op zijn aanvraag recht op een bovenwettelijke uitkering krachtens dit besluit voor zover een recht op een WW-uitkering zou zijn ontstaan op het moment van ontslagverlening en voor zover een recht op WW-uitkering bestaat op het moment van werkloos worden, met ingang van de eerste dag waarop recht op WW-uitkering is ontstaan.
 
-3. De betrokkene die binnen twee jaar nadat hem wegens privatisering van zijn dienstonderdeel ontslag uit de politiedienst is verleend, wordt ontslagen als gevolg van de opheffing van zijn betrekking bij de privaatrechtelijke organisatie of als gevolg van overtolligheid van personeel door verandering of inkrimping van die organisatie, en op die grond recht heeft op een WW-uitkering, heeft op zijn aanvraag recht op een bovenwettelijke uitkering. De duur en de hoogte van de bovenwettelijke uitkering zijn gelijk aan de duur en de hoogte van de bovenwettelijke uitkering waarop de betrokkene op de ingangsdatum van zijn privatiseringsontslag recht zou hebben gehad, met dien verstande dat in afwijking van [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2008-07-01&g=2008-07-01), het recht op de bovenwettelijke uitkering ingaat op het moment van het ontslag bij de privaatrechtelijke organisatie.
+3. De betrokkene die binnen twee jaar nadat hem wegens privatisering van zijn dienstonderdeel ontslag uit de politiedienst is verleend, wordt ontslagen als gevolg van de opheffing van zijn betrekking bij de privaatrechtelijke organisatie of als gevolg van overtolligheid van personeel door verandering of inkrimping van die organisatie, en op die grond recht heeft op een WW-uitkering, heeft op zijn aanvraag recht op een bovenwettelijke uitkering. De duur en de hoogte van de bovenwettelijke uitkering zijn gelijk aan de duur en de hoogte van de bovenwettelijke uitkering waarop de betrokkene op de ingangsdatum van zijn privatiseringsontslag recht zou hebben gehad, met dien verstande dat in afwijking van [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2011-01-01&g=2011-01-01), het recht op de bovenwettelijke uitkering ingaat op het moment van het ontslag bij de privaatrechtelijke organisatie.
 
 4. De duur en hoogte van de bovenwettelijke uitkering als bedoeld in het eerste en tweede lid zijn gelijk aan de resterende duur en de daarbij behorende hoogte van de uitkering waarop de betrokkene op grond van dit besluit recht zou hebben gehad, indien hij voor het ontslag als betrokkene onafgebroken werkloos zou zijn geweest.
 
@@ -206,7 +210,7 @@ Indien ten aanzien van de WW-uitkering of de ZW-uitkering een verplichting of ee
 
 ##### Artikel 14. Loonaanvulling
 
-1. De betrokkene van wie het recht op uitkering geheel of gedeeltelijk is beëindigd wegens het aanvaarden van een nieuwe dienstbetrekking, ontvangt op zijn aanvraag gedurende de op basis van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2008-07-01&g=2008-07-01) voor hem vastgestelde uitkeringsduur voor zover deze nog niet is verstreken, een loonaanvulling, indien het dagloon in de nieuwe betrekking minder bedraagt dan het dagloon uit de betrekking waaruit hij werkloos is geworden.
+1. De betrokkene van wie het recht op uitkering geheel of gedeeltelijk is beëindigd wegens het aanvaarden van een nieuwe dienstbetrekking, ontvangt op zijn aanvraag gedurende de op basis van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2011-01-01&g=2011-01-01) voor hem vastgestelde uitkeringsduur voor zover deze nog niet is verstreken, een loonaanvulling, indien het dagloon in de nieuwe betrekking minder bedraagt dan het dagloon uit de betrekking waaruit hij werkloos is geworden.
 
 2. De loonaanvulling eindigt:
 
@@ -290,18 +294,42 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 26a
 
-Indien de betrokkene van wie de eerste werkloosheidsdag is gelegen voor 1 januari 2005 uitsluitend als gevolg van de Wet van 19 december 2003 tot wijziging van de Werkloosheidswet in verband met afschaffing van de vervolguitkering (Stb. 546) geen aanspraak meer heeft op een vervolguitkering ingevolge de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), en de voor hem met toepassing van [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=3&artikel=8&z=2008-07-01&g=2008-07-01), vastgestelde duur van de aansluitende uitkering korter is dan de duur van de afgeschafte vervolguitkering krachtens de [Werkloosheidwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), wordt in afwijking van [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=3&artikel=8&z=2008-07-01&g=2008-07-01), de duur van de aansluitende uitkering gesteld op de duur van die afgeschafte vervolguitkering.
+Indien de betrokkene van wie de eerste werkloosheidsdag is gelegen voor 1 januari 2005 uitsluitend als gevolg van de Wet van 19 december 2003 tot wijziging van de Werkloosheidswet in verband met afschaffing van de vervolguitkering (Stb. 546) geen aanspraak meer heeft op een vervolguitkering ingevolge de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), en de voor hem met toepassing van [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=3&artikel=8&z=2011-01-01&g=2011-01-01), vastgestelde duur van de aansluitende uitkering korter is dan de duur van de afgeschafte vervolguitkering krachtens de [Werkloosheidwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), wordt in afwijking van [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=3&artikel=8&z=2011-01-01&g=2011-01-01), de duur van de aansluitende uitkering gesteld op de duur van die afgeschafte vervolguitkering.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 26b
 
-De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2008-07-01&g=2008-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=3&artikel=8&z=2008-07-01&g=2008-07-01) van dit besluit zoals deze luidden op 31 december 2004 blijven van toepassing op de betrokkene van wie de eerste werkloosheidsdag is gelegen voor 1 januari 2005.
+De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2011-01-01&g=2011-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=3&artikel=8&z=2011-01-01&g=2011-01-01) van dit besluit zoals deze luidden op 31 december 2004 blijven van toepassing op de betrokkene van wie de eerste werkloosheidsdag is gelegen voor 1 januari 2005.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 26ca
 
 Voor de ambtenaar die voor 1 januari 2006 recht had op een arbeidsongeschiktheidsuitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), blijft het Besluit bovenwettelijke werkloosheidsuitkering politie gelden, zoals dat luidde op 28 december 2005.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 9a
+
+1. In afwijking van [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=3&artikel=8&z=2011-01-01&g=2011-01-01), zijn de [artikelen 20, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=20), [35a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=35a) en [35aa van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=35aa) niet van overeenkomstige toepassing op de betrokkene, op wie [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=3&artikel=9&z=2011-01-01&g=2011-01-01) van toepassing is.
+
+2. De inkomsten die de betrokkene, op wie [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=3&artikel=9&z=2011-01-01&g=2011-01-01), van toepassing is, geniet of gaat genieten uit of in verband met arbeid of bedrijf, worden in mindering gebracht op de uitkering.
+
+3. De in het tweede lid bedoelde vermindering is gelijk aan het bedrag waarmee de onverminderde uitkering van 50% van het voor hem geldende dagloon, vermeerderd met het totaalbedrag van de inkomsten, het voor hem geldende dagloon te boven gaat.
+
+4. Inkomsten als bedoeld in het tweede lid, die geacht worden op één maand betrekking te hebben of geacht kunnen worden te hebben, worden in mindering gebracht op de uitkering over die maand.
+
+### Hoofdstuk 4. Overige bepalingen
+
+### Hoofdstuk 5. Wijziging van andere besluiten
+
+### Hoofdstuk 6. Overgangs- en slotbepalingen
+
+##### Artikel 26c
+
+De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=1&artikel=2&z=2011-01-01&g=2011-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=2&artikel=4&z=2011-01-01&g=2011-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&hoofdstuk=3&artikel=9&z=2011-01-01&g=2011-01-01) van dit besluit zoals deze luidden op 31 december 2010, blijven van toepassing op de betrokkene van wie de eerste werkloosheidsdag is gelegen voor 1 januari 2011.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
