@@ -4,7 +4,7 @@ identifier: "BWBR0028486"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2025-01-01"
-last_updated: "2010-10-10"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028486"
 soort: "wet-BES"
@@ -61,13 +61,17 @@ Voor de toepassing van deze wet en de uitvoering daarvan te geven voorschriften 
 
 - f. **verpakte geneesmiddelen:** de geneesmiddelen bedoeld onder 3° en die bedoeld onder d, 4°. voor zover deze zich bevinden in een verpakking of voorwerp, en kennelijk bestemd zijn om in die verpakking of in dat voorwerp aan de verbruiker te worden afgeleverd;
 
-- g. **uitoefening der artsenijbereidkunde:**
+- g. uitoefening der artsenijbereidkunde:
 
-- 1°. het bereiden van geneesmiddelen;
+- 1°. bereiden: geheel of gedeeltelijk vervaardigen van geneesmiddelen dan wel het verpakken of etiketteren daarvan;
 
-- 2°. Het afleveren van geneesmiddelen; hieronder wordt niet verstaan het aanwenden van geneesmiddelen door een geneeskundige, tandheelkundige of vroedvrouw bij een patiënt, in die gevallen waarin de hulp van de geneeskundige, tandheelkundige of vroedvrouw daartoe de nodige mocht zijn, mits deze geneesmiddelen door een apotheker aan de geneeskundige, tandheelkundige of vrouwvrouw zijn verstrekt;
+- 2°. in voorraad hebben; hieronder wordt niet verstaan het door geneeskundigen, tandheelkundigen, verloskundigen, mondhygiënisten of optometristen onder zich hebben van terhandgestelde geneesmiddelen alsmede het bewaren van terhandgestelde geneesmiddelen door de patiënt voor wie het geneesmiddel is bestemd;
 
-- h. **apotheek:** het lokaal dat of bij de elkaar behorende lokalen en bewaarplaatsen welke door een apotheker of een geneeskundige als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=35&z=2010-10-10&g=2010-10-10) wordt of worden gebruikt voor of in verband met de uitoefening van de artsenijbereidkunde.
+- 3°. afleveren: anders dan door terhandstelling of uitvoer leveren van geneesmiddelen;
+
+- 4°. terhandstellen: rechtstreeks verstrekken of doen bezorgen van een geneesmiddel aan de patiënt voor wie het geneesmiddel is bestemd, dan wel aan geneeskundigen, tandheelkundigen, verloskundigen, mondhygiënisten of optometristen die geneesmiddelen onder zich hebben ten behoeve van toediening aan hun patiënten; hieronder wordt niet verstaan het aanwenden van terhandgestelde geneesmiddelen door een geneeskundige, tandheelkundige, verloskundige, mondhygiënist of optometrist bij een patiënt;
+
+- h. **apotheek:** het lokaal dat of bij de elkaar behorende lokalen en bewaarplaatsen welke door een apotheker of een geneeskundige als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=35&z=2011-01-01&g=2011-01-01) wordt of worden gebruikt voor of in verband met de uitoefening van de artsenijbereidkunde.
 
 - i. **recept:** de schriftelijke aanwijzing nopens de bereiding of de aflevering van een geneesmiddel, afgegeven door een geneeskundige, een tandheelkundige of een vroedvrouw ten behoeve van een of meer met name genoemde dan wel met cijfers of letters aangeduide personen;
 
@@ -77,11 +81,13 @@ Voor de toepassing van deze wet en de uitvoering daarvan te geven voorschriften 
 
 1. Onze Minister wijst zelfstandigen aan, welke zowel als geneesmiddel als voor ander dan geneeskundig doel plegen te worden gebruikt en die onder de voorwaarden, die Onze Minister stelt, niet worden geacht te zijn geneesmiddel.
 
-2. Onze Minister wijst geneesmiddelen aan, welke anderen dan de in het [eerste lid van artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=II&artikel=3&z=2010-10-10&g=2010-10-10) bedoelde personen ter aflevering in voorraad mogen hebben en afleveren.
+2. Onze Minister wijst geneesmiddelen aan, welke anderen dan de in het [eerste lid van artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=II&artikel=3&z=2011-01-01&g=2011-01-01) bedoelde personen ter aflevering in voorraad mogen hebben, mogen afleveren en mogen terhandstellen.
 
-3. Indien andere dan de in het [eerste lid van artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=II&artikel=3&z=2010-10-10&g=2010-10-10) bedoelde personen geneesmiddelen, aangewezen krachtens de vorige leden, ter aflevering in voorraad hebben of afleveren, worden zij niet geacht de artsenijbereidkunde uit te oefenen.
+3. Indien andere dan de in het [eerste lid van artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=II&artikel=3&z=2011-01-01&g=2011-01-01) bedoelde personen geneesmiddelen, aangewezen krachtens de vorige leden, ter aflevering in voorraad hebben of afleveren, worden zij niet geacht de artsenijbereidkunde uit te oefenen.
 
 4. Het afleveren van geneesmiddelen op recept wordt steeds geacht te zijn uitoefening van de artsenijbereidkunde.
+
+5. Aan geneeskundigen, tandheelkundigen, verloskundigen, mondhygiënisten of optometristen worden geneesmiddelen slechts ter hand gesteld na ontvangst van een daartoe strekkend schriftelijk verzoek. Het verzoek vermeldt de naam, het adres en de hoedanigheid van de verzoeker alsmede de naam en de hoeveelheid van het geneesmiddel.
 
 ### Hoofdstuk II. Het uitoefenen der artsenijbereidkunde
 
@@ -91,23 +97,23 @@ Voor de toepassing van deze wet en de uitvoering daarvan te geven voorschriften 
 
 - a. apothekers
 
-- b. geneeskundigen, voor zoveel hun dat is toegestaan krachtens [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=35&z=2010-10-10&g=2010-10-10);
+- b. geneeskundigen, voor zoveel hun dat is toegestaan krachtens [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=35&z=2011-01-01&g=2011-01-01);
 
-- c. apothekers-assistenten, gedurende de uitoefening hunner werkzaamheden in een apotheek, mits onder toezicht van een apotheker of van een geneeskundige als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=35&z=2010-10-10&g=2010-10-10).
+- c. apothekers-assistenten, gedurende de uitoefening hunner werkzaamheden in een apotheek, mits onder toezicht van een apotheker of van een geneeskundige als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=35&z=2011-01-01&g=2011-01-01).
 
-- d. andere personen, rechtspersonen daaronder begrepen, aan wie daartoe door Onze Minister vergunning is verleend. Onze Minister kan aan de vergunning voorwaarden verbinden, de vergunning weigeren of deze intrekken, indien het belang der volksgezondheid zulks vordert. De vergunning of intrekking is met redenen omkleed. De vergunning strekt, hetzij tot afleveren, hetzij tot het bereiden en afleveren in het groot van geneesmiddelen. Onder afleveren in het groot wordt mede verstaan het uitvoeren en doorvoeren van geneesmiddelen. De vergunninghouder mag niet over de toonbank verkopen nog open winkel houden.
+- d. andere personen, rechtspersonen daaronder begrepen, aan wie daartoe door Onze Minister vergunning is verleend. Onze Minister kan aan de vergunning voorwaarden verbinden, de vergunning weigeren of deze intrekken, indien het belang der volksgezondheid zulks vordert. De vergunning of intrekking is met redenen omkleed. De vergunning strekt bereiden, invoeren, in voorraad hebben, verkopen, afleveren, of verhandelen, dan wel een combinatie van deze in het groot van geneesmiddelen. Onder afleveren in het groot wordt mede verstaan het uitvoeren en doorvoeren van geneesmiddelen. De vergunninghouder mag niet over de toonbank verkopen nog open winkel houden.
 
-2. Onze Minister kan aan personen, die niet bevoegd zijn tot uitoefening van de artsenijbereidkunde, vergunning verlenen tot het afleveren van bepaalde bij die vergunning aan te wijzen verpakte geneesmiddelen. Onze Minister kan aan de vergunning voorwaarden verbinden, de vergunning weigeren of deze intrekken, indien het belang van de volksgezondheid zulks vordert.
+2. Onze Minister kan aan personen, die niet bevoegd zijn tot uitoefening van de artsenijbereidkunde, vergunning verlenen tot het in voorraad hebben, afleveren, terhandstellen dan wel een combinatie van het in voorraad hebben, afleveren of terhandstellen van bepaalde bij die vergunning aan te wijzen verpakte geneesmiddelen. Onze Minister kan aan de vergunning voorwaarden verbinden, de vergunning weigeren of deze intrekken, indien het belang van de volksgezondheid zulks vordert.
 
-3. Aan personen, die niet bevoegd zijn tot uitoefening van artsenijbereidkunde, is het bereiden of het afleveren van geneesmiddelen verboden, met uitzondering van het afleveren van de zelfstandigheden aangewezen krachtens het eerste of van de geneesmiddelen aangewezen krachtens het [tweede lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=I&artikel=2&z=2010-10-10&g=2010-10-10) en het afleveren van verpakte geneesmiddelen krachtens een vergunning als bedoeld in het tweede lid.
+3. Aan personen, die niet bevoegd zijn tot uitoefening van artsenijbereidkunde, is het bereiden, het in voorraad hebben, het afleveren of terhandstellen van geneesmiddelen verboden, met uitzondering van het in voorraad hebben, afleveren of terhandstellen van de zelfstandigheden aangewezen krachtens het eerste of van de geneesmiddelen aangewezen krachtens het [tweede lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=I&artikel=2&z=2011-01-01&g=2011-01-01) en het in voorraad hebben, afleveren of terhandstellen van verpakte geneesmiddelen krachtens een vergunning als bedoeld in het tweede lid.
 
 4. [vervallen]
 
 ##### Artikel 3a
 
-1. Voor een vergunning, als bedoeld in [artikel 3, eerste lid, onderdeel d, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=II&artikel=3&z=2010-10-10&g=2010-10-10), wordt jaarlijks een vergoeding geheven overeenkomstig regelen bij algemene maatregel van bestuur, vast te stellen.
+1. Voor een vergunning, als bedoeld in [artikel 3, eerste lid, onderdeel d, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=II&artikel=3&z=2011-01-01&g=2011-01-01), wordt jaarlijks een vergoeding geheven overeenkomstig regelen bij algemene maatregel van bestuur, vast te stellen.
 
-2. Onverminderd het bepaalde in [artikel 3, eerste lid, onderdeel d, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=II&artikel=3&z=2010-10-10&g=2010-10-10), kan Onze Minister een vergunning intrekken:
+2. Onverminderd het bepaalde in [artikel 3, eerste lid, onderdeel d, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=II&artikel=3&z=2011-01-01&g=2011-01-01), kan Onze Minister een vergunning intrekken:
 
 - a. indien naar het oordeel van Onze Minister het algemeen belang zulks vordert;
 
@@ -125,35 +131,21 @@ Voor de toepassing van deze wet en de uitvoering daarvan te geven voorschriften 
 
 ##### Artikel 5
 
-1. Er is een commissie, belast met 1e beoordeling van verpakte geneesmiddelen, waarvan de leden en de secretaris bij algemene maatregel van bestuur worden benoemd en ontslagen. Bij algemene maatregel van bestuur worden nadere voorschriften gegeven voor de samenstelling en de werkwijze van de commissie, alsmede voor de vergoeding welke door de leden en de secretaris ter zake van hun werkzaamheden kan worden genoten. De leden en de secretaris van de commissie zijn verplicht tot geheimhouding van hetgeen hun bij het verrichten van hun taak is bekend geworden omtrent de samenstelling of de bereiding van of de handel in verpakte geneesmiddelen.
+1. Het is verboden verpakte geneesmiddelen welke niet staan in het register, bedoeld in [artikel 53 van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=53), te bereiden, in voorraad te hebben, te verkopen, af te leveren, ter hand te stellen, in te voeren, of te verhandelen.
 
-2. De commissie houdt een register bij van verpakte geneesmiddelen. Op verzoek van belanghebbenden neemt de commissie in dit register de verpakte geneesmiddelen op, die:
+2. Het in het eerste lid vervatte verbod geldt niet voor:
 
-- a. naar redelijkerwijze mag worden aangenomen, de aangeprezen werking bezitten.
+- a. door onze Minister aan te wijzen verpakte geneesmiddelen;
 
-- b. niet schadelijk zijn voor de gezondheid bij gebruik overeenkomstig het voorschrift op of gevoegd bij de verpakking.
+- b. het bereiden, in voorraad hebben, afleveren of terhandstellen van zich nog in het stadium van proefneming bevindende verpakte geneesmiddelen welke niet staan in het register, bedoeld in [artikel 53 van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=53);
 
-- c. voldoen aan de voorschriften bij algemene maatregel van bestuur, ter uitvoering van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=III&artikel=6&z=2010-10-10&g=2010-10-10) gegeven.
+- c. de invoer van verpakte geneesmiddelen welke niet staan in het register, bedoeld in [artikel 53 van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=53), en het in voorraad hebben, de aflevering en de ter hand stelling van deze geneesmiddelen in de bij algemene maatregel van bestuur aangegeven gevallen, een en ander indien is voldaan aan de bij algemene maatregel van bestuur gestelde voorschriften.
 
-De inschrijving wordt niet geweigerd of doorgehaald dan nadat de belanghebbende is gehoord of behoorlijk is opgeroepen. Van de beslissingen van de commissie staat voor de belanghebbende beroep open op Onze Minister volgens bij algemene maatregel van bestuur te stellen regelen.
-
-3. Indien het belang der volksgezondheid zulks vordert, is Onze Minister bevoegd:
-
-- a. de inschrijving van een verpakt geneesmiddel voor een termijn van ten hoogste vier maanden te schorsen; deze termijn kan tweemaal met een gelijke termijn door Onze Minister worden verlengd;
-
-- b. ten aanzien van een geregistreerd verpakt geneesmiddel te bepalen, dat het gedurende een bij zijn beschikking aan te wijzen tijdvak van ten hoogste twaalf maanden niet mag worden afgeleverd dan met inachtneming van bij die beschikking gestelde voorwaarden.
-
-4. Het is verboden ongeregistreerde verpakte geneesmiddelen, dan wel geregistreerde verpakte geneesmiddelen, waarvan de inschrijving is geschorst, te bereiden, te verkopen, af te leveren, in te voeren, te verhandelen of ter aflevering in voorraad te hebben, of de voorwaarden te overtreden, bedoeld in lid 3 onder b.
-
-5. Het in het vierde lid vervatte verbod geldt niet voor:
-
-- a. het bereiden, het afleveren of het ter aflevering in voorraad hebben van zich nog in het stadium van proefneming bevindende ongeregistreerde verpakte geneesmiddelen.
-
-- b. de invoer van ongeregistreerde verpakte geneesmiddelen en de aflevering van deze geneesmiddelen in de bij algemene maatregel van bestuur, aangegeven gevallen, een en ander indien is voldaan aan de bij dit landsbesluit gestelde voorschriften.
+3. Indien het belang van de volksgezondheid zulks vordert, is onze Minister bevoegd ten aanzien van een geneesmiddel, welk staat in het register, bedoeld in [artikel 53 van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=53), te bepalen, dat gedurende een bij zijn beschikking aan te wijzen tijdvak van ten hoogste twaalf maanden niet mag worden afgeleverd of terhandgesteld dan met inachtneming van bij die beschikking gestelde voorwaarden.
 
 ##### Artikel 6
 
-Bij algemene maatregel van bestuur kunnen regelen worden vastgesteld nopens de registratie, de schorsing, de bereiding, het verkopen, de aflevering, de invoer, de handel en het ter aflevering in voorraad hebben van verpakte geneesmiddelen, voorts de aanprijzing, de verpakking en door de belanghebbenden vergoeding voor onderzoek, registratie dan wel wijziging van de bij de registratie overgelegde gegevens. Bij algemene maatregel van bestuur, kan, in het belang van de volksgezondheid, bepaald worden dat een of meer van die voorschriften niet van toepassing zullen zijn op een verpakt geneesmiddel, of wel van toepassing zullen zijn op enige zelfstandigheid.
+Bij algemene maatregel van bestuur kunnen regels worden vastgesteld nopens de bereiding, het in voorraad hebben, het verkopen, het afleveren, de ter hand stelling, de invoer, de handel en het ter aflevering in voorraad hebben, de aanprijzing en de verpakking van verpakte geneesmiddelen. Bij algemene maatregel van bestuur, kan, in het belang van de volksgezondheid bepaald worden dat een of meer van die voorschriften niet van toepassing zullen zijn op een verpakt geneesmiddel, of wel van toepassing zullen zijn op enige zelfstandigheid.
 
 ### Hoofdstuk IV. De apotheker
 
@@ -211,7 +203,7 @@ De apotheker is verplicht, zodra hij ophoudt de artsenijbereidkunde uit te oefen
 
 ##### Artikel 12
 
-De apotheker mag de artsenijbereidkunde slechts in één apotheek uitoefenen, behoudens in de gevallen bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=6&artikel=24&z=2010-10-10&g=2010-10-10) en het tweede lid laatste zin van [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IX&artikel=44&z=2010-10-10&g=2010-10-10).
+De apotheker mag de artsenijbereidkunde slechts in één apotheek uitoefenen, behoudens in de gevallen bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=6&artikel=24&z=2011-01-01&g=2011-01-01) en het tweede lid laatste zin van [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IX&artikel=44&z=2011-01-01&g=2011-01-01).
 
 ##### Artikel 13
 
@@ -227,17 +219,19 @@ Indien in een apotheek meer dan één apotheker de artsenijbereidkunde uitoefent
 
 Het is de apotheker verboden, met een geneeskundige, tandheelkundige of vroedvrouw rechtstreeks of zijdelings enige overeenkomst betreffende het leveren van geneesmiddelen aan derden aan te gaan, waardoor voor hen, die het gebruik der geneesmiddelen voorschrijft, deze bereidt of deze aflevert, rechtstreeks of zijdelings geldelijk of in geld waardeerbaar belang bij de levering zou bestaan.
 
-#### § 3. De aflevering van geneesmiddelen
+#### § 3. De terhandstelling van geneesmiddelen
 
 ##### Artikel 16
 
-1. De apotheker levert geneesmiddelen af op recept of op enig ander verzoek met inachtneming van het bepaalde bij het [tweede lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=II&artikel=4&z=2010-10-10&g=2010-10-10).
+1. De apotheker stelt geneesmiddelen terhand op recept of op enig ander verzoek met inachtneming van het bepaalde bij het [tweede lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=II&artikel=4&z=2011-01-01&g=2011-01-01).
 
-2. Bij algemene maatregel van bestuur, kunnen geneesmiddelen worden aangewezen, welke niet anders dan op recept mogen worden afgeleverd.
+2. De geneesmiddelen welke als UR-geneesmiddelen staan vermeld in de lijst, bedoeld in [artikel 60 van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=60), mogen niet anders dan op recept worden afgeleverd.
+
+3. Een apotheker die in een apotheek werkt, is bevoegd in spoedgevallen geneesmiddelen, bedoeld in het tweede lid van dit artikel, ter hand te stellen zonder dat een recept wordt overgelegd, indien hij zich voldoende zekerheid heeft verschaft dat gevaar voor misbruik niet kan ontstaan.
 
 ##### Artikel 17
 
-1. De apotheker levert op recept geen geneesmiddelen af dan nauwkeurig volgens het recept en van deugdelijke bestanddelen bereid.
+1. De apotheker stelt op recept geen geneesmiddelen terhand dan nauwkeurig volgens het recept en van deugdelijke bestanddelen bereid.
 
 2. Vermoedt hij in een recept een wellicht schadelijke vergissing, dan geeft hij daarvan terstond mondeling of schriftelijk kennis aan degene die het recept voorschreef. Hij gaat niet tot aflevering over voordat hij zekerheid heeft gekregen,
 
@@ -245,7 +239,7 @@ Het is de apotheker verboden, met een geneeskundige, tandheelkundige of vroedvro
 
 ##### Artikel 18
 
-1. De apotheker zorgt, dat aan of op elk voorwerp waarin hij een geneesmiddel op recept aflevert, een papier gehecht is, waarop de naam van degene te wiens behoeve het is voorgeschreven is vermeld, dan wel diens initialen of een cijfer ter vervanging daarvan, alsmede de wijze van gebruik, de dag der aflevering en zijn naam.
+1. De apotheker zorgt, dat aan of op elk voorwerp waarin hij een geneesmiddel op recept terhandstelt, een papier gehecht is, waarop de naam van degene te wiens behoeve het is voorgeschreven is vermeld, dan wel diens initialen of een cijfer ter vervanging daarvan, alsmede de wijze van gebruik, de dag der aflevering en zijn naam.
 
 2. De aanduidingen in het eerste lid bedoeld worden bij geneesmiddelen tot inwendig gebruik op ongekleurd, bij die tot uitwendig gebruik op gekleurd papier gesteld.
 
@@ -275,17 +269,17 @@ Het is de apotheker verboden, met een geneeskundige, tandheelkundige of vroedvro
 
 ##### Artikel 21
 
-1. De apotheker geeft, wanneer dit door een der in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=4&artikel=20&z=2010-10-10&g=2010-10-10) genoemde personen verlangd wordt, een gespecificeerde rekening der geleverde geneesmiddelen.
+1. De apotheker geeft, wanneer dit door een der in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=4&artikel=20&z=2011-01-01&g=2011-01-01) genoemde personen verlangd wordt, een gespecificeerde rekening der geleverde geneesmiddelen.
 
 2. Hij is bevoegd aan op openbaar gezag ingestelde lichamen, naamloze vennootschappen, wederkerige verzekerings- of waarborgmaatschappijen, coöperatieve of andere rechtspersoonlijkheid bezittende verenigingen of aan stichtingen, voor welker rekening aan verzekerden, leden of anderen, geneesmiddelen worden verstrekt, een gespecificeerde rekening der voor haar rekening geleverde geneesmiddelen en des gewenst de recepten ter inzage over te leggen of afschriften der recepten te geven.
 
-3. De bestuurders van en de verdere personen werkzaam aan de in het voorgaande lid bedoelde lichamen, vennootschappen, maatschappijen, verenigingen, of stichtingen, mogen de gespecificeerde rekening en de afschriften der recepten aan niemand ter inzage, noch afschrift daarvan geven, dan aan de in het eerste lid van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=4&artikel=20&z=2010-10-10&g=2010-10-10) genoemde personen.
+3. De bestuurders van en de verdere personen werkzaam aan de in het voorgaande lid bedoelde lichamen, vennootschappen, maatschappijen, verenigingen, of stichtingen, mogen de gespecificeerde rekening en de afschriften der recepten aan niemand ter inzage, noch afschrift daarvan geven, dan aan de in het eerste lid van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=4&artikel=20&z=2011-01-01&g=2011-01-01) genoemde personen.
 
 #### § 5. De aflevering van giftige zelfstandigheden
 
 ##### Artikel 22
 
-1. De apotheker levert geen giftige zelfstandigheden af dan op voorschrift van een geneeskundige, tandheelkundige of vroedvrouw of aan apothekers aan geneeskundigen als in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=35&z=2010-10-10&g=2010-10-10) bedoeld, of op schriftelijke en ondertekende aanvraag, met opgave van het doel waartoe de giftige zelfstandigheden dienen moeten, aan andere, doch bij hem bekende personen.
+1. De apotheker levert geen giftige zelfstandigheden af dan op voorschrift van een geneeskundige, tandheelkundige of vroedvrouw of aan apothekers aan geneeskundigen als in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=35&z=2011-01-01&g=2011-01-01) bedoeld, of op schriftelijke en ondertekende aanvraag, met opgave van het doel waartoe de giftige zelfstandigheden dienen moeten, aan andere, doch bij hem bekende personen.
 
 2. De giftige zelfstandigheid, niet door een geneeskundige, tandheelkundige of vroedvrouw voorgeschreven, wordt afgeleverd in een verzegeld voorwerp, waarop nevens de naam, het woord «vergift» duidelijk staat aangegeven.
 
@@ -297,13 +291,13 @@ Het is de apotheker verboden, met een geneeskundige, tandheelkundige of vroedvro
 
 2. Deze bepaling is niet toepasselijk op de aflevering op voorschrift van een geneeskundige, tandheelkundige of vroedvrouw. Hij liasseert de in het vorige artikel bedoelde schriftelijke aanvragen afgescheiden van de voorschriften der geneeskundigen, tandheelkundigen en vroedvrouwen en bewaart die gedurende tenminste twintig jaren.
 
-3. Het [tweede lid van artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=4&artikel=19&z=2010-10-10&g=2010-10-10), zomede het [derde lid van artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=5&artikel=22&z=2010-10-10&g=2010-10-10) zijn van overeenkomstige toepassing.
+3. Het [tweede lid van artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=4&artikel=19&z=2011-01-01&g=2011-01-01), zomede het [derde lid van artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=5&artikel=22&z=2011-01-01&g=2011-01-01) zijn van overeenkomstige toepassing.
 
 #### § 6. De waarneming
 
 ##### Artikel 24
 
-1. Indien een apotheker door ziekte of tijdelijke afwezigheid verhinderd is de artsenijbereidkunde in zijn apotheek uit te oefenen, dan wel de inschrijving volgens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=1&artikel=9&z=2010-10-10&g=2010-10-10) is vervallen of ingetrokken, kan de Inspecteur aan een andere apotheker op dienst verzoek toestaan de artsenijbereidkunde in die apotheek als waarnemende apotheker uit te oefenen. De Inspecteur kan aan deze toestemming voorwaarden verbinden.
+1. Indien een apotheker door ziekte of tijdelijke afwezigheid verhinderd is de artsenijbereidkunde in zijn apotheek uit te oefenen, dan wel de inschrijving volgens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=1&artikel=9&z=2011-01-01&g=2011-01-01) is vervallen of ingetrokken, kan de Inspecteur aan een andere apotheker op dienst verzoek toestaan de artsenijbereidkunde in die apotheek als waarnemende apotheker uit te oefenen. De Inspecteur kan aan deze toestemming voorwaarden verbinden.
 
 2. Gedurende de waarneming heeft de waarnemende apotheker alle bevoegdheden en verplichtingen, welke de apotheker ingevolge deze wet of de ter uitvoering daarvan te geven voorschriften heeft.
 
@@ -317,7 +311,7 @@ Het is de apotheker verboden, met een geneeskundige, tandheelkundige of vroedvro
 
 ##### Artikel 25
 
-1. De apotheker kan zich doen bijstaan door een of meer apothekers-assistenten, die onverminderd het bepaalde in het [eerste lid van artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=I&artikel=1&z=2010-10-10&g=2010-10-10) verantwoordelijk zijn voor hetgeen door hen in de uitoefening van hun beroep wordt gedaan of nagelaten.
+1. De apotheker kan zich doen bijstaan door een of meer apothekers-assistenten, die onverminderd het bepaalde in het [eerste lid van artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=I&artikel=1&z=2011-01-01&g=2011-01-01) verantwoordelijk zijn voor hetgeen door hen in de uitoefening van hun beroep wordt gedaan of nagelaten.
 
 2. Hij, die de hoedanigheid van apothekers-assistent bezit, mag van zijn bevoegdheid tot uitoefening van de artsenijbereidkunde geen gebruik maken, voordat hij op zijn verzoek door de Inspecteur in het register der apothekers-assistenten, die de artsenijbereidkunde uitoefenen, is ingeschreven.
 
@@ -325,7 +319,7 @@ Het is de apotheker verboden, met een geneeskundige, tandheelkundige of vroedvro
 
 4. Wanneer een apothekers-assistent in een apotheek aangenomen of daaruit ontslagen is, geeft de apotheker daarvan terstond kennis aan de Inspecteur.
 
-5. Het bepaalde in de [artikelen 7 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=1&artikel=7&z=2010-10-10&g=2010-10-10) en [9 lid l onder a. en c](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=1&artikel=9&z=2010-10-10&g=2010-10-10). is van overeenkomstige toepassing.
+5. Het bepaalde in de [artikelen 7 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=1&artikel=7&z=2011-01-01&g=2011-01-01) en [9 lid l onder a. en c](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=1&artikel=9&z=2011-01-01&g=2011-01-01). is van overeenkomstige toepassing.
 
 ##### Artikel 26
 
@@ -351,9 +345,9 @@ Het is de apotheker verboden, met een geneeskundige, tandheelkundige of vroedvro
 
 ##### Artikel 26b
 
-1. In het belang van een goede uitvoering van [artikel 26a](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VI&artikel=26a&z=2010-10-10&g=2010-10-10) kunnen door Onze Minister nadere regelen worden gegeven.
+1. In het belang van een goede uitvoering van [artikel 26a](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VI&artikel=26a&z=2011-01-01&g=2011-01-01) kunnen door Onze Minister nadere regelen worden gegeven.
 
-2. [Artikel 26a](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VI&artikel=26a&z=2010-10-10&g=2010-10-10) is niet van toepassing op apotheken in ziekenhuizen als bedoeld in [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IX&artikel=44&z=2010-10-10&g=2010-10-10).
+2. [Artikel 26a](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VI&artikel=26a&z=2011-01-01&g=2011-01-01) is niet van toepassing op apotheken in ziekenhuizen als bedoeld in [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IX&artikel=44&z=2011-01-01&g=2011-01-01).
 
 ##### Artikel 27
 
@@ -371,11 +365,11 @@ Het is de apotheker verboden, met een geneeskundige, tandheelkundige of vroedvro
 
 3. Het is verboden buiten het in het eerste lid bedoelde openings- en sluitingsuur een apotheek voor het publiek geopend te hebben.
 
-4. Het in [artikel 27 leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VI&artikel=27&z=2010-10-10&g=2010-10-10) en in de vorige leden van dit artikel gestelde is niet van toepassing op de apotheken in ziekenhuizen en poliklinieken van ondernemingen ondergebracht.
+4. Het in [artikel 27 leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VI&artikel=27&z=2011-01-01&g=2011-01-01) en in de vorige leden van dit artikel gestelde is niet van toepassing op de apotheken in ziekenhuizen en poliklinieken van ondernemingen ondergebracht.
 
 ##### Artikel 29
 
-Onverminderd de bepaling van het [tweede lid van artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=II&artikel=3&z=2010-10-10&g=2010-10-10) mogen in een apotheek slechts werkzaamheden, die geacht kunnen worden betrekking te hebben op de uitoefening van de artsenijbereidkunde of op wetenschappelijke onderzoekingen, worden verricht.
+Onverminderd de bepaling van het [tweede lid van artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=II&artikel=3&z=2011-01-01&g=2011-01-01) mogen in een apotheek slechts werkzaamheden, die geacht kunnen worden betrekking te hebben op de uitoefening van de artsenijbereidkunde of op wetenschappelijke onderzoekingen, worden verricht.
 
 ##### Artikel 30
 
@@ -411,7 +405,7 @@ Giftige zelfstandigheden vermeld op een bij algemene maatregel van bestuur vast 
 
 ##### Artikel 33
 
-1. Indien een apotheek wordt verkocht is de verkoper verplicht zorg te dragen, dat de verkoop van de in de apotheek aanwezige voorraad geneesmiddelen en giftige zelfstandigheden alleen geschiedt aan een apotheker of een geneeskundige als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=35&z=2010-10-10&g=2010-10-10) of aan de houder ener vergunning als bedoeld in [artikel 3 onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=II&artikel=3&z=2010-10-10&g=2010-10-10).
+1. Indien een apotheek wordt verkocht is de verkoper verplicht zorg te dragen, dat de verkoop van de in de apotheek aanwezige voorraad geneesmiddelen en giftige zelfstandigheden alleen geschiedt aan een apotheker of een geneeskundige als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=35&z=2011-01-01&g=2011-01-01) of aan de houder ener vergunning als bedoeld in [artikel 3 onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=II&artikel=3&z=2011-01-01&g=2011-01-01).
 
 2. Bij openbare verkoop draagt de openbare ambtenaar te wiens overstaan de verkoping heeft mede zorg voor de naleving van het in het vorige lid bepaalde.
 
@@ -419,7 +413,7 @@ Giftige zelfstandigheden vermeld op een bij algemene maatregel van bestuur vast 
 
 ##### Artikel 34
 
-De uitoefening van de artsenijbereidkunde is aan geneeskundigen die tevens de hoedanigheid van apotheker bezien, verboden zolang zij de geneeskundige praktijk uitoefenen, behoudens het bepaalde in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=35&z=2010-10-10&g=2010-10-10).
+De uitoefening van de artsenijbereidkunde is aan geneeskundigen die tevens de hoedanigheid van apotheker bezien, verboden zolang zij de geneeskundige praktijk uitoefenen, behoudens het bepaalde in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=35&z=2011-01-01&g=2011-01-01).
 
 ##### Artikel 35
 
@@ -433,19 +427,19 @@ De uitoefening van de artsenijbereidkunde is aan geneeskundigen die tevens de ho
 
 5. Onze Minister kan de bevoegdheid tot het uitoefenen van de artsenijbereidkunde eveneens verlenen aan officieren van gezondheid, ten behoeve van de tot hun geneeskundige praktijk behorende militairen en hun gezinnen, en voor zover zij de artsenijbereidkunde uitsluitend uitoefenen, in een militaire apotheek.
 
-6. [Artikel 26a](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VI&artikel=26a&z=2010-10-10&g=2010-10-10) is van overeenkomstige toepassing.
+6. [Artikel 26a](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VI&artikel=26a&z=2011-01-01&g=2011-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 36
 
-1. De in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=35&z=2010-10-10&g=2010-10-10) bedoelde geneeskundigen leveren geen geneesmiddelen af dan na in een daartoe bestemd register aantekening te hebben gehouden van de naam of samenstelling van het geneesmiddel, met vermelding van de dag waarop en van. de persoon ten behoeve van wie de aflevering is gedaan.
+1. De in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=35&z=2011-01-01&g=2011-01-01) bedoelde geneeskundigen stellen geen geneesmiddelen ter hand dan na in een daartoe bestemd register aantekening te hebben gehouden van de naam of samenstelling van het geneesmiddel, met vermelding van de dag waarop en van. de persoon ten behoeve van wie de aflevering is gedaan.
 
-2. Zij bewaren het in het vorige lid bedoelde register gedurende tenminste vijf jaren. Wanneer zij de in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=35&z=2010-10-10&g=2010-10-10) bedoelde bevoegdheid niet langer bezitten, dragen zij dit register over aan de Inspecteur.
+2. Zij bewaren het in het vorige lid bedoelde register gedurende tenminste vijf jaren. Wanneer zij de in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=35&z=2011-01-01&g=2011-01-01) bedoelde bevoegdheid niet langer bezitten, dragen zij dit register over aan de Inspecteur.
 
 3. Overigens zijn op hen de bij of krachtens deze wet voor apothekers geldende bepalingen, voor zover deze voor hen geen uitdrukkelijke afwijking inhouden, van overeenkomstige toepassing.
 
 ##### Artikel 37
 
-1. De in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=35&z=2010-10-10&g=2010-10-10) bedoelde geneeskundigen moeten, behalve nauwkeurige maten, gewichten en balansen, de geneesmiddelen en giftige zelfstandigheden, vermeld op een voor hen bij algemene maatregel van bestuur, vastgestelde lijst, voorradig houden, zomede een exemplaar van de laatste uitgave van de Nederlandse Farmacopee.
+1. De in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=35&z=2011-01-01&g=2011-01-01) bedoelde geneeskundigen moeten, behalve nauwkeurige maten, gewichten en balansen, de geneesmiddelen en giftige zelfstandigheden, vermeld op een voor hen bij algemene maatregel van bestuur, vastgestelde lijst, voorradig houden, zomede een exemplaar van de laatste uitgave van de Nederlandse Farmacopee.
 
 2. De in het vorige lid bedoelde algemene maategel van bestuur houdt tevens voorschriften in betreffende de wijze van bewaring der geneesmiddelen en giftige zelfstandigheden.
 
@@ -459,11 +453,11 @@ De uitoefening van de artsenijbereidkunde is aan geneeskundigen die tevens de ho
 
 ##### Artikel 38
 
-De in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=35&z=2010-10-10&g=2010-10-10) bedoelde geneeskundigen kunnen zich doen bijstaan door een of meer apothekers-assistenten. [Artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=V&artikel=25&z=2010-10-10&g=2010-10-10) is alsdan van overeenkomstige toepassing.
+De in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=35&z=2011-01-01&g=2011-01-01) bedoelde geneeskundigen kunnen zich doen bijstaan door een of meer apothekers-assistenten. [Artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=V&artikel=25&z=2011-01-01&g=2011-01-01) is alsdan van overeenkomstige toepassing.
 
 ##### Artikel 39
 
-Indien de praktijk van een geneeskundige, aan wie de bevoegdheid tot uitoefening van de artsenijbereidkunde ingevolge [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=35&z=2010-10-10&g=2010-10-10) is verleend, door een andere geneeskundige wordt waargenomen, gaan tijdens de waarneming de bevoegdheden en verplichtingen, welke de eerstgenoemde geneeskundige ingevolge deze wet heeft, over op degene die zijn praktijk waarneemt.
+Indien de praktijk van een geneeskundige, aan wie de bevoegdheid tot uitoefening van de artsenijbereidkunde ingevolge [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=35&z=2011-01-01&g=2011-01-01) is verleend, door een andere geneeskundige wordt waargenomen, gaan tijdens de waarneming de bevoegdheden en verplichtingen, welke de eerstgenoemde geneeskundige ingevolge deze wet heeft, over op degene die zijn praktijk waarneemt.
 
 ### Hoofdstuk VIII. De uitoefening van de artsenijbereidkunde aan boord van schepen
 
@@ -489,17 +483,17 @@ De geneeskundige, die zich als zodanig voor de dienst op een van de openbare lic
 
 ##### Artikel 43
 
-1. Aan het bestuur van een ziekenhuis kan, op een daartoe tot de Inspecteur gericht verzoek, door de Inspecteur, al of niet onder door hem te bepalen voorwaarden, vergunning worden verleend tot het in voorraad hebben en uitsluitend aan de verpleegden verstrekken van geneesmiddelen. Daarnaast kan een vergunning door de Inspecteur, al dan niet onder het stellen van voorwaarden, worden verleend tot het bereiden van geneesmiddelen, mits zulks geschiedt onder toezicht van een apotheker.
+1. Aan het bestuur van een ziekenhuis kan, op een daartoe tot de Inspecteur gericht verzoek, door de Inspecteur, al of niet onder door hem te bepalen voorwaarden, vergunning worden verleend tot het in voorraad hebben en verstrekken van geneesmiddelen. Daarnaast kan een vergunning door de Inspecteur, al dan niet onder het stellen van voorwaarden, worden verleend tot het bereiden van geneesmiddelen, mits zulks geschiedt onder toezicht van een apotheker.
 
-2. Het bepaalde in het eerste lid, eerste volzin is van overeenkomstige toepassing met betrekking tot poliklinieken van ondernemingen, met dien verstande dat het in voorraad hebben en verstrekken van geneesmiddelen slechts zal zijn toegestaan ten behoeve van personen, die vanwege de betrokken ondernemingen in de polikliniek geneeskundig worden behandeld.
+2. Het bepaalde in het eerste lid, eerste volzin is van overeenkomstige toepassing met betrekking tot poliklinieken van ondernemingen.
 
 3. Voor een vergunning als bedoeld in het eerste lid, eerste volzin, wordt jaarlijks een vergoeding geheven overeenkomstig regelen bij algemene maatregel van bestuur, vast te stellen.
 
 ##### Artikel 44
 
-1. Onze Minister kan als verplichting voorschreven dat de geneesmiddelenvoorziening van ieder ziekenhuis, dat een door hem te bepalen, grootte te boven gaat, zal plaats vinden door een apotheker, die de artsenijbereidkunde uitsluitend uitoefent ten behoeve van de verpleegden van dat ziekenhuis in een daartoe door Onze Minister goedgekeurde in het ziekenhuis onder gebrachte apotheek.
+1. Onze Minister kan als verplichting voorschrijven dat de geneesmiddelenvoorziening van ieder ziekenhuis, dat een door hem te bepalen, grootte te boven gaat, zal plaats vinden door een apotheker, die de artsenijbereidkunde uitsluitend uitoefent ten behoeve van de verpleegden van dat ziekenhuis in een daartoe door Onze Minister goedgekeurde in het ziekenhuis onder gebrachte apotheek.
 
-2. Onze Minister kan voor een bepaald ziekenhuis, al dan niet onder het stellen van voorwaarden, ontheffing verlenen van de verplichting, in het eerste lid bedoeld. Bij die ontheffing kan tevens worden afgeweken van de bepaling van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=2&artikel=12&z=2010-10-10&g=2010-10-10).
+2. Onze Minister kan voor een bepaald ziekenhuis, al dan niet onder het stellen van voorwaarden, ontheffing verlenen van de verplichting, in het eerste lid bedoeld. Bij die ontheffing kan tevens worden afgeweken van de bepaling van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=2&artikel=12&z=2011-01-01&g=2011-01-01).
 
 ### Hoofdstuk X. Het toezicht
 
@@ -535,11 +529,11 @@ De geneeskundige, die zich als zodanig voor de dienst op een van de openbare lic
 
 ##### Artikel 47
 
-Indien aan de in [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=X&artikel=45&z=2010-10-10&g=2010-10-10), bedoelde personen blijkt dat niet is of wordt voldaan aan het bij of krachtens deze wet bepaalde, doen zij daarvan mededeling aan de betrokkene en stellen zij, onverminderd de bevoegdheid tot voorlopige inbeslagneming als bedoeld in artikel 45, tweede lid, onderdeel f, een termijn waarbinnen daaraan alsnog moet zijn voldaan.
+Indien aan de in [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=X&artikel=45&z=2011-01-01&g=2011-01-01), bedoelde personen blijkt dat niet is of wordt voldaan aan het bij of krachtens deze wet bepaalde, doen zij daarvan mededeling aan de betrokkene en stellen zij, onverminderd de bevoegdheid tot voorlopige inbeslagneming als bedoeld in artikel 45, tweede lid, onderdeel f, een termijn waarbinnen daaraan alsnog moet zijn voldaan.
 
 ##### Artikel 48
 
-1. De Inspecteur is bevoegd apothekers en krachtens [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=35&z=2010-10-10&g=2010-10-10) tot uitoefening van de artsenijbereidkunde bevoegde geneeskundigen aanwijzingen te geven ter verbetering van de inrichting en de toestand van de apotheek en van de wijze waarop daarin de artsenijbereidkunde wordt uitgeoefend.
+1. De Inspecteur is bevoegd apothekers en krachtens [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=35&z=2011-01-01&g=2011-01-01) tot uitoefening van de artsenijbereidkunde bevoegde geneeskundigen aanwijzingen te geven ter verbetering van de inrichting en de toestand van de apotheek en van de wijze waarop daarin de artsenijbereidkunde wordt uitgeoefend.
 
 2. De Inspecteur geeft de in het eerste lid bedoelde aanwijzingen schriftelijk, waarbij hij een termijn bepaalt, binnen welke aan de aanwijzing gevolg moet zijn gegeven.
 
@@ -549,27 +543,27 @@ Indien aan de in [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 48a
 
-Het bepaalde in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=2&artikel=14&z=2010-10-10&g=2010-10-10), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=2&artikel=15&z=2010-10-10&g=2010-10-10), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=X&artikel=47&z=2010-10-10&g=2010-10-10) en [48](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=X&artikel=48&z=2010-10-10&g=2010-10-10) is van overeenkomstige toepassing ten aanzien van de eigenaar van een apotheek.
+Het bepaalde in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=2&artikel=14&z=2011-01-01&g=2011-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=2&artikel=15&z=2011-01-01&g=2011-01-01), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=X&artikel=47&z=2011-01-01&g=2011-01-01) en [48](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=X&artikel=48&z=2011-01-01&g=2011-01-01) is van overeenkomstige toepassing ten aanzien van de eigenaar van een apotheek.
 
 ##### Artikel 48b
 
-Het is de eigenaar, bedoeld in [artikel 48a](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=Xa&artikel=48a&z=2010-10-10&g=2010-10-10), verboden te handelen of handelingen na te laten in strijd met het bij of krachtens deze wet bepaalde.
+Het is de eigenaar, bedoeld in [artikel 48a](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=Xa&artikel=48a&z=2011-01-01&g=2011-01-01), verboden te handelen of handelingen na te laten in strijd met het bij of krachtens deze wet bepaalde.
 
 ##### Artikel 48c
 
-Het is de eigenaar, bedoeld in [artikel 48a](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=Xa&artikel=48a&z=2010-10-10&g=2010-10-10), voorts verboden in strijd met het bepaalde bij of krachtens deze wet te doen handelen of handelingen te doen nalaten dan wel zodanige beletselen op te werpen dat anderen de aan hen bij of krachtens deze wet opgelegde verplichtingen niet kunnen nakomen.
+Het is de eigenaar, bedoeld in [artikel 48a](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=Xa&artikel=48a&z=2011-01-01&g=2011-01-01), voorts verboden in strijd met het bepaalde bij of krachtens deze wet te doen handelen of handelingen te doen nalaten dan wel zodanige beletselen op te werpen dat anderen de aan hen bij of krachtens deze wet opgelegde verplichtingen niet kunnen nakomen.
 
 ##### Artikel 49
 
 1. Met hechtenis van ten hoogste zes maanden of geldboete van ten hoogste de tweede categorie wordt gestraft hij, die:
 
-- a. de in [artikel 3,eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=II&artikel=3&z=2010-10-10&g=2010-10-10) bedoelde bevoegdheid overschrijdt;
+- a. de in [artikel 3,eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=II&artikel=3&z=2011-01-01&g=2011-01-01) bedoelde bevoegdheid overschrijdt;
 
-- b. een der [artikelen 3 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=II&artikel=3&z=2010-10-10&g=2010-10-10), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=II&artikel=4&z=2010-10-10&g=2010-10-10), [5 eerste lid laatste volzin en het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=III&artikel=5&z=2010-10-10&g=2010-10-10), [7 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=1&artikel=7&z=2010-10-10&g=2010-10-10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=1&artikel=11&z=2010-10-10&g=2010-10-10), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=2&artikel=12&z=2010-10-10&g=2010-10-10), [14 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=2&artikel=14&z=2010-10-10&g=2010-10-10), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=2&artikel=15&z=2010-10-10&g=2010-10-10), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=3&artikel=16&z=2010-10-10&g=2010-10-10), [17 eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=3&artikel=17&z=2010-10-10&g=2010-10-10)[18](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=3&artikel=18&z=2010-10-10&g=2010-10-10), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=4&artikel=19&z=2010-10-10&g=2010-10-10), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=4&artikel=20&z=2010-10-10&g=2010-10-10), [21 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=4&artikel=21&z=2010-10-10&g=2010-10-10)[22](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=5&artikel=22&z=2010-10-10&g=2010-10-10), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=5&artikel=23&z=2010-10-10&g=2010-10-10), [25 tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=V&artikel=25&z=2010-10-10&g=2010-10-10), [26a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VI&artikel=26a&z=2010-10-10&g=2010-10-10), [27 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VI&artikel=27&z=2010-10-10&g=2010-10-10), [28 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VI&artikel=28&z=2010-10-10&g=2010-10-10), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VI&artikel=29&z=2010-10-10&g=2010-10-10), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VI&artikel=30&z=2010-10-10&g=2010-10-10), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VI&artikel=31&z=2010-10-10&g=2010-10-10), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VI&artikel=32&z=2010-10-10&g=2010-10-10), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VI&artikel=33&z=2010-10-10&g=2010-10-10), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=34&z=2010-10-10&g=2010-10-10)[35 vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=35&z=2010-10-10&g=2010-10-10), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=36&z=2010-10-10&g=2010-10-10), [37 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=37&z=2010-10-10&g=2010-10-10), [38 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=38&z=2010-10-10&g=2010-10-10), [41 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VIII&artikel=41&z=2010-10-10&g=2010-10-10)[42](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VIII&artikel=42&z=2010-10-10&g=2010-10-10), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=X&artikel=47&z=2010-10-10&g=2010-10-10), [48a](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=Xa&artikel=48a&z=2010-10-10&g=2010-10-10), [48b](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=Xa&artikel=48b&z=2010-10-10&g=2010-10-10), [48c](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=Xa&artikel=48c&z=2010-10-10&g=2010-10-10) en [51](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=XII&artikel=51&z=2010-10-10&g=2010-10-10) overtreedt;
+- b. een der [artikelen 3 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=II&artikel=3&z=2011-01-01&g=2011-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=II&artikel=4&z=2011-01-01&g=2011-01-01), [5 eerste lid laatste volzin en het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=III&artikel=5&z=2011-01-01&g=2011-01-01), [7 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=1&artikel=7&z=2011-01-01&g=2011-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=1&artikel=11&z=2011-01-01&g=2011-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=2&artikel=12&z=2011-01-01&g=2011-01-01), [14 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=2&artikel=14&z=2011-01-01&g=2011-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=2&artikel=15&z=2011-01-01&g=2011-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=3&artikel=16&z=2011-01-01&g=2011-01-01), [17 eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=3&artikel=17&z=2011-01-01&g=2011-01-01)[18](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=3&artikel=18&z=2011-01-01&g=2011-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=4&artikel=19&z=2011-01-01&g=2011-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=4&artikel=20&z=2011-01-01&g=2011-01-01), [21 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=4&artikel=21&z=2011-01-01&g=2011-01-01)[22](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=5&artikel=22&z=2011-01-01&g=2011-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=5&artikel=23&z=2011-01-01&g=2011-01-01), [25 tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=V&artikel=25&z=2011-01-01&g=2011-01-01), [26a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VI&artikel=26a&z=2011-01-01&g=2011-01-01), [27 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VI&artikel=27&z=2011-01-01&g=2011-01-01), [28 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VI&artikel=28&z=2011-01-01&g=2011-01-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VI&artikel=29&z=2011-01-01&g=2011-01-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VI&artikel=30&z=2011-01-01&g=2011-01-01), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VI&artikel=31&z=2011-01-01&g=2011-01-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VI&artikel=32&z=2011-01-01&g=2011-01-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VI&artikel=33&z=2011-01-01&g=2011-01-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=34&z=2011-01-01&g=2011-01-01)[35 vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=35&z=2011-01-01&g=2011-01-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=36&z=2011-01-01&g=2011-01-01), [37 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=37&z=2011-01-01&g=2011-01-01), [38 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=38&z=2011-01-01&g=2011-01-01), [41 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VIII&artikel=41&z=2011-01-01&g=2011-01-01)[42](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VIII&artikel=42&z=2011-01-01&g=2011-01-01), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=X&artikel=47&z=2011-01-01&g=2011-01-01), [48a](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=Xa&artikel=48a&z=2011-01-01&g=2011-01-01), [48b](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=Xa&artikel=48b&z=2011-01-01&g=2011-01-01), [48c](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=Xa&artikel=48c&z=2011-01-01&g=2011-01-01) en [51](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=XII&artikel=51&z=2011-01-01&g=2011-01-01) overtreedt;
 
-- c. voorschriften, uitgevaardigd op grond van [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=III&artikel=6&z=2010-10-10&g=2010-10-10), [26 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=V&artikel=26&z=2010-10-10&g=2010-10-10), [27 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VI&artikel=27&z=2010-10-10&g=2010-10-10), [37 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=37&z=2010-10-10&g=2010-10-10) of [44 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IX&artikel=44&z=2010-10-10&g=2010-10-10), overtreedt;
+- c. voorschriften, uitgevaardigd op grond van [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=III&artikel=6&z=2011-01-01&g=2011-01-01), [26 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=V&artikel=26&z=2011-01-01&g=2011-01-01), [27 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VI&artikel=27&z=2011-01-01&g=2011-01-01), [37 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=37&z=2011-01-01&g=2011-01-01) of [44 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IX&artikel=44&z=2011-01-01&g=2011-01-01), overtreedt;
 
-- d. geen gevolg geeft aan een aanwijzing, bedoeld in [artikel 48 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=X&artikel=48&z=2010-10-10&g=2010-10-10);
+- d. geen gevolg geeft aan een aanwijzing, bedoeld in [artikel 48 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=X&artikel=48&z=2011-01-01&g=2011-01-01);
 
 - e. niet voldoet aan de voorwaarden, verbonden aan een vergunning krachtens deze wet verleend.
 
@@ -605,7 +599,7 @@ Het is de eigenaar, bedoeld in [artikel 48a](https://wetten.overheid.nl/jci1.3:c
 
 ##### Artikel 56
 
-De besluiten van de Gouverneur van de 25ste juli 1906 (P.B. 1906, No. 33) en van de 25ste juli 1906 (P.B. 1906, no. 34) ter uitvoering van respectievelijk artikel 5 en artikel 8 van de Verordening van de 30ste oktober 1873 (P.B. 1874, No. 6), regelende de uitoefening van de artsenijmengkunst in de Nederlandse Antillen, zoals gewijzigd, blijven van kracht totdat zij zijn vervangen door de landsbesluiten, houdende algemene maatregelen, bedoeld in de [artikelen 30, lid 1 sub d](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VI&artikel=30&z=2010-10-10&g=2010-10-10) en [32, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VI&artikel=32&z=2010-10-10&g=2010-10-10).
+De besluiten van de Gouverneur van de 25ste juli 1906 (P.B. 1906, No. 33) en van de 25ste juli 1906 (P.B. 1906, no. 34) ter uitvoering van respectievelijk artikel 5 en artikel 8 van de Verordening van de 30ste oktober 1873 (P.B. 1874, No. 6), regelende de uitoefening van de artsenijmengkunst in de Nederlandse Antillen, zoals gewijzigd, blijven van kracht totdat zij zijn vervangen door de landsbesluiten, houdende algemene maatregelen, bedoeld in de [artikelen 30, lid 1 sub d](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VI&artikel=30&z=2011-01-01&g=2011-01-01) en [32, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VI&artikel=32&z=2011-01-01&g=2011-01-01).
 
 ##### Artikel 57
 
