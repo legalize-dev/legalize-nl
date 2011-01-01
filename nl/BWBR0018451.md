@@ -4,7 +4,7 @@ identifier: "BWBR0018451"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2009-11-27"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018451"
 soort: "wet"
@@ -59,7 +59,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - f. drempelinkomen: 108% van het twaalfvoud van het voor de maand januari van het berekeningsjaar geldende in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) bedoelde bedrag per maand, verminderd met het werknemersaandeel in de premie, bedoeld in [artikel 25, tweede lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=25) en vermeerderd met de vergoeding ingevolge [artikel 46, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=46) over dat loon;
 
-- g. de standaardpremie: het op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=4&z=2009-11-27&g=2009-11-27) vastgestelde bedrag;
+- g. de standaardpremie: het op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=4&z=2011-01-01&g=2011-01-01) vastgestelde bedrag;
 
 - h. de normpremie: de aan de hand van het drempelinkomen en het toetsingsinkomen van de verzekerde berekende premie voor een zorgverzekering in het berekeningsjaar.
 
@@ -71,7 +71,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. De normpremie bedraagt een percentage van het drempelinkomen in het berekeningsjaar, vermeerderd met een percentage van het toetsingsinkomen van de verzekerde in dat jaar voorzover dat toetsingsinkomen het drempelinkomen te boven gaat. Voor een verzekerde met een partner wordt daarbij het gezamenlijke toetsingsinkomen in aanmerking genomen.
 
-3. De percentages worden voor verzekerden met een partner vastgesteld op 5% van het drempelinkomen, vermeerderd met 5% van het toetsingsinkomen voor zover dat boven het drempelinkomen uitgaat en voor een verzekerde zonder partner op 2,7% van het drempelinkomen, vermeerderd met 5% van het toetsingsinkomen voor zover dat boven het drempelinkomen uitgaat. Deze percentages kunnen bij algemene maatregel van bestuur worden gewijzigd.
+3. De percentages worden voor verzekerden met een partner vastgesteld op 5,015% van het drempelinkomen, vermeerderd met 5,03% van het toetsingsinkomen voor zover dat boven het drempelinkomen uitgaat en voor een verzekerde zonder partner op 2,715% van het drempelinkomen, vermeerderd met 5,03% van het toetsingsinkomen voor zover dat boven het drempelinkomen uitgaat. Deze percentages kunnen bij algemene maatregel van bestuur worden gewijzigd.
 
 4. In afwijking van het eerste lid bedraagt de aanspraak op een zorgtoeslag voor een verzekerde met een partner die geen verzekerde is, vijftig procent van het op grond van het eerste lid berekende bedrag.
 
@@ -85,7 +85,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 3
 
-1. De standaardpremie voor een persoon als bedoeld in [artikel 69 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69) is, in afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=4&z=2009-11-27&g=2009-11-27), gelijk aan het met toepassing van dat artikel bepaalde bedrag, vermenigvuldigd met het getal dat wordt berekend uit de verhouding tussen de gemiddelde uitgaven voor zorg voor een persoon ten laste van de sociale zorgverzekeringen in het woonland van deze persoon, en de gemiddelde uitgaven voor zorg voor een persoon ten laste van de sociale zorgverzekeringen in Nederland.
+1. De standaardpremie voor een persoon als bedoeld in [artikel 69 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69) is, in afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=4&z=2011-01-01&g=2011-01-01), gelijk aan het met toepassing van dat artikel bepaalde bedrag, vermenigvuldigd met het getal dat wordt berekend uit de verhouding tussen de gemiddelde uitgaven voor zorg voor een persoon ten laste van de sociale zorgverzekeringen in het woonland van deze persoon, en de gemiddelde uitgaven voor zorg voor een persoon ten laste van de sociale zorgverzekeringen in Nederland.
 
 2. Bij ministeriële regeling wordt jaarlijks uiterlijk in november per land het in het eerste lid bedoelde verhoudingsgetal vastgesteld.
 
