@@ -4,7 +4,7 @@ identifier: "BWBR0028659"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2011-01-01"
-last_updated: "2010-10-10"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028659"
 soort: "AMvB-BES"
@@ -45,6 +45,8 @@ De Raad van State gehoord (advies van 25 februari 2010 en 28 april 2010);
 Gezien het nader rapport van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 21 september 2010, nr. 0000611982;
 
 Hebben goedgevonden en verstaan:
+
+Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van Nederland.
 
 ### Hoofdstuk 1. Minister van algemene zaken
 
@@ -592,27 +594,27 @@ Wijzigt het Stuwadoorsbesluit BES.
 
 ##### Artikel 11.17
 
-Dit onderdeel is nog niet inwerking getreden
+Het **Besluit betaalbaarstelling door andere organen volksverzekeringen BES** vervalt.
 
 ##### Artikel 11.18
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit aanwijzing gevaarlijke stoffen, beroepsziekten en letsels Wet ongevallenverzekering BES.
 
 ##### Artikel 11.19
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit intrekking, schorsing en opschorting Wet algemene ouderdomsverzekering BES.
 
 ##### Artikel 11.20
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit inlichtingenverplichtingen werknemersverzekeringen BES.
 
 ##### Artikel 11.21
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit meldingsvereisten werknemersverzekeringen BES.
 
 ##### Artikel 11.22
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen BES.
 
 ### Hoofdstuk 12. Minister van Verkeer en Waterstaat
 
