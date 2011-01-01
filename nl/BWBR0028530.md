@@ -4,7 +4,7 @@ identifier: "BWBR0028530"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2011-01-01"
-last_updated: "2010-10-10"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028530"
 soort: "AMvB-BES"
@@ -35,15 +35,15 @@ entry_into_force: "2011-01-01"
 ---
 # Besluit meldingsvereisten werknemersverzekeringen BES
 
-##### Artikel 1
+##### Artikel 1. Meldingsvereisten bij ziekte of ongeval
 
-1. De werkgever is verplicht formulieren in voorraad te hebben voor het melden van een ongeval of ziekte als bedoeld in de Landsverordening Ongevallenverzekering (P.B. 1966, no. 14) respectievelijk de Landsverordening Ziekteverzekering (P.B. 1966, no. 15).
+1. Een werkgever is verplicht formulieren in voorraad te hebben voor de melding van een ongeval of van ziekte in het kader van de [Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497) of de [Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728).
 
-2. Na melding van een ongeval of een ziekte als bedoeld in het eerste lid is de werkgever verplicht onverwijld een volledig ingevuld en ondertekend formulier aan de werknemer, ook in geval deze bedlegerig is, te doen toekomen.
+2. Na de melding van een ongeval of van ziekte is de werkgever verplicht onverwijld een afschrift van een volledig ingevuld en ondertekend formulier aan de werknemer te doen toekomen, ook indien deze bedlegerig is.
 
-##### Artikel 2
+##### Artikel 2. Wettelijke grondslag
 
-Dit landsbesluit treedt in werking met ingang van de dag na die zijner afkondiging.
+Dit besluit berust op [artikel 13 van de Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=13) en [artikel 13 van de Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=13).
 
 ##### Artikel 3. Citeertitel
 
