@@ -4,7 +4,7 @@ identifier: "BWBR0011470"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2010-07-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011470"
 soort: "wet"
@@ -75,7 +75,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - l. concessie: recht om met uitsluiting van anderen openbaar vervoer te verrichten in een bepaald gebied gedurende een bepaald tijdvak;
 
-- m. concessieverlener: het tot verlening van een concessie bevoegde gezag, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=20&z=2010-07-01&g=2010-07-01);
+- m. concessieverlener: het tot verlening van een concessie bevoegde gezag, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=20&z=2011-01-01&g=2011-01-01);
 
 - n. concessiehouder: vergunninghoudende vervoerder aan wie een concessie is verleend;
 
@@ -99,7 +99,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ten behoeve van experimenten met openbaar vervoer voor een periode van ten hoogste zes jaar. Daarbij kan worden afgeweken van de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=1&artikel=19&z=2010-07-01&g=2010-07-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=20&z=2010-07-01&g=2010-07-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=24&z=2010-07-01&g=2010-07-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=3&artikel=30&z=2010-07-01&g=2010-07-01), [51](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=2&artikel=51&z=2010-07-01&g=2010-07-01), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=2&artikel=52&z=2010-07-01&g=2010-07-01), en [61](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=4&artikel=61&z=2010-07-01&g=2010-07-01).
+1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ten behoeve van experimenten met openbaar vervoer voor een periode van ten hoogste zes jaar. Daarbij kan worden afgeweken van de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=1&artikel=19&z=2011-01-01&g=2011-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=20&z=2011-01-01&g=2011-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=24&z=2011-01-01&g=2011-01-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=3&artikel=30&z=2011-01-01&g=2011-01-01), [51](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=2&artikel=51&z=2011-01-01&g=2011-01-01), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=2&artikel=52&z=2011-01-01&g=2011-01-01), en [61](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=4&artikel=61&z=2011-01-01&g=2011-01-01).
 
 2. De voordracht voor een algemene maatregel van bestuur waarbij wordt afgeweken van deze wet wordt niet eerder gedaan dan vier weken nadat het ontwerp daarvoor aan beide kamers der Staten-Generaal is overgelegd.
 
@@ -121,13 +121,13 @@ Onze Minister beslist op een aanvraag voor een vergunning.
 
 ##### Artikel 6
 
-1. Een vergunning als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=I&paragraaf=3&artikel=4&z=2010-07-01&g=2010-07-01), wordt verleend voor een periode van vijf jaar.
+1. Een vergunning als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=I&paragraaf=3&artikel=4&z=2011-01-01&g=2011-01-01), wordt verleend voor een periode van vijf jaar.
 
-2. Een vergunning als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=I&paragraaf=3&artikel=4&z=2010-07-01&g=2010-07-01), wordt verleend voor onbepaalde tijd.
+2. Een vergunning als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=I&paragraaf=3&artikel=4&z=2011-01-01&g=2011-01-01), wordt verleend voor onbepaalde tijd.
 
 3. Een vergunning kan worden geweigerd, gewijzigd, geschorst of ingetrokken. Een vergunning wordt geschorst voor bepaalde tijd.
 
-4. Een vergunning wordt steeds geweigerd, indien binnen een periode van twee jaar direct voorafgaande aan de datum van indiening van een aanvraag voor een vergunning een eerder aan de aanvrager verleende vergunning is ingetrokken op grond van [artikel 99, onderdeel a, of onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VII&paragraaf=2&artikel=99&z=2010-07-01&g=2010-07-01), voor zover het betreft de eis van betrouwbaarheid.
+4. Een vergunning wordt steeds geweigerd, indien binnen een periode van twee jaar direct voorafgaande aan de datum van indiening van een aanvraag voor een vergunning een eerder aan de aanvrager verleende vergunning is ingetrokken op grond van [artikel 99, onderdeel a, of onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VII&paragraaf=2&artikel=99&z=2011-01-01&g=2011-01-01), voor zover het betreft de eis van betrouwbaarheid.
 
 5. De vergunning kan worden geweigerd in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
 
@@ -205,7 +205,7 @@ Vervallen
 
 - b. de beperkingen waaronder een ontheffing is verleend en de aan een ontheffing verbonden voorschriften.
 
-2. Het is de houder van een vergunning verboden een vergunningbewijs al dan niet tegen betaling ter beschikking te stellen van een derde ten behoeve van het verrichten van vervoer, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=I&paragraaf=3&artikel=4&z=2010-07-01&g=2010-07-01).
+2. Het is de houder van een vergunning verboden een vergunningbewijs al dan niet tegen betaling ter beschikking te stellen van een derde ten behoeve van het verrichten van vervoer, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=I&paragraaf=3&artikel=4&z=2011-01-01&g=2011-01-01).
 
 3. Het tweede lid is van overeenkomstige toepassing op degene aan wie door de houder van een vergunning een vergunningbewijs ter beschikking is gesteld.
 
@@ -245,17 +245,11 @@ De raad van bestuur van de mededingingsautoriteit verricht taken ter uitvoering 
 
 ##### Artikel 16
 
-1. In afwijking van [artikel 5d, eerste lid, van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=5d) kan Onze Minister beleidsregels vaststellen met betrekking tot de uitoefening van de in deze wet aan de raad van bestuur van de mededingingsautoriteit toegekende bevoegdheden.
-
-2. Indien beleidsregels als bedoeld in het eerste lid betrekking hebben op de interpretatie van mededingingsbegrippen, stelt Onze Minister die regels vast in overeenstemming met Onze Minister van Economische Zaken.
-
-3. De bekendmaking van de beleidsregels geschiedt door plaatsing in de Staatscourant.
+Indien door Onze Minister vast te stellen beleidsregels betrekking hebben op de interpretatie van mededingingsbegrippen stelt Onze Minister die beleidsregels vast in overeenstemming met Onze Minister van Economische Zaken.
 
 ##### Artikel 17
 
-1. De raad van bestuur van de mededingingsautoriteit stelt jaarlijks vóór 1 juli een verslag op van zijn werkzaamheden op grond van deze wet in het afgelopen kalenderjaar. Het verslag beschrijft de taakuitoefening en het gevoerde beleid. Het verslag wordt aan Onze Minister en aan Onze Minister van Economische Zaken gezonden en algemeen verkrijgbaar gesteld.
-
-2. Onze Minister brengt het verslag, vergezeld van zijn bevindingen daaromtrent, voor 1 september daarop volgend ter kennis van de beide kamers der Staten-Generaal.
+Vervallen
 
 ##### Artikel 18
 
@@ -269,7 +263,7 @@ Gegevens of inlichtingen omtrent een onderneming, die in verband met enige werkz
 
 1. Het is verboden openbaar vervoer te verrichten zonder daartoe verleende concessie.
 
-2. Indien op grond van [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=42&z=2010-07-01&g=2010-07-01) of [43](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=43&z=2010-07-01&g=2010-07-01) een concessie is opgehouden te bestaan, kan maximaal één jaar openbaar vervoer worden verricht zonder concessie volgens bij ministeriële regeling nader te stellen regels.
+2. Indien op grond van [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=42&z=2011-01-01&g=2011-01-01) of [43](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=43&z=2011-01-01&g=2011-01-01) een concessie is opgehouden te bestaan, kan maximaal één jaar openbaar vervoer worden verricht zonder concessie volgens bij ministeriële regeling nader te stellen regels.
 
 3. Het eerste lid geldt niet ten aanzien van vervoer per trein verricht door internationale samenwerkingsverbanden als bedoeld in [richtlijn 91/440/EEG](31991L0440) van de Raad van de Europese Gemeenschappen van 29 juli 1991 betreffende de ontwikkeling van de spoorwegen in de Gemeenschap (PbEG L 237) voor zover de in artikel 10 van die richtlijn bedoelde diensten worden verricht.
 
@@ -285,11 +279,11 @@ Gegevens of inlichtingen omtrent een onderneming, die in verband met enige werkz
 
 ##### Artikel 21
 
-Gedeputeerde staten dragen zorg voor de coördinatie en afstemming van het openbaar vervoer in de provincie, met uitzondering van de plusregio’s, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=20&z=2010-07-01&g=2010-07-01).
+Gedeputeerde staten dragen zorg voor de coördinatie en afstemming van het openbaar vervoer in de provincie, met uitzondering van de plusregio’s, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=20&z=2011-01-01&g=2011-01-01).
 
 ##### Artikel 22
 
-De concessieverleners, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=20&z=2010-07-01&g=2010-07-01), zijn bevoegd subsidies te verstrekken voor het in een concessie omschreven openbaar vervoer.
+De concessieverleners, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=20&z=2011-01-01&g=2011-01-01), zijn bevoegd subsidies te verstrekken voor het in een concessie omschreven openbaar vervoer.
 
 ##### Artikel 23
 
@@ -301,9 +295,9 @@ De concessieverleners, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3
 
 2. Het eerste lid, onderdeel b, is van overeenkomstige toepassing op de burgemeester en de commissaris van de Koning.
 
-3. Het eerste lid, onderdeel a, is niet van toepassing ten aanzien van een bestuurder of commissaris bij een vervoerder als bedoeld in [artikel 69, eerste of zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=6&artikel=69&z=2010-07-01&g=2010-07-01) bij verlening van concessies waaraan geen procedure van aanbesteding vooraf is gegaan.
+3. Het eerste lid, onderdeel a, is niet van toepassing ten aanzien van een bestuurder of commissaris bij een vervoerder als bedoeld in [artikel 69, eerste of zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=6&artikel=69&z=2011-01-01&g=2011-01-01) bij verlening van concessies waaraan geen procedure van aanbesteding vooraf is gegaan.
 
-4. Het eerste lid geldt niet ten aanzien van het verlenen van concessies voor openbaar vervoer per trein op grond van [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=20&z=2010-07-01&g=2010-07-01).
+4. Het eerste lid geldt niet ten aanzien van het verlenen van concessies voor openbaar vervoer per trein op grond van [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=20&z=2011-01-01&g=2011-01-01).
 
 ##### Artikel 24
 
@@ -337,9 +331,9 @@ De concessieverleners, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3
 
 ##### Artikel 26
 
-1. Voordat een concessie wordt verleend of gewijzigd, pleegt de concessieverlener, bedoeld in [artikel 20, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=20&z=2010-07-01&g=2010-07-01), overleg met de concessieverleners die bevoegd zijn tot het verlenen van concessies in aangrenzende gebieden. Het overleg voorziet in ieder geval in afspraken inzake de afstemming van het openbaar vervoer tussen aangrenzende concessiegebieden.
+1. Voordat een concessie wordt verleend of gewijzigd, pleegt de concessieverlener, bedoeld in [artikel 20, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=20&z=2011-01-01&g=2011-01-01), overleg met de concessieverleners die bevoegd zijn tot het verlenen van concessies in aangrenzende gebieden. Het overleg voorziet in ieder geval in afspraken inzake de afstemming van het openbaar vervoer tussen aangrenzende concessiegebieden.
 
-2. Het eerste lid is van overeenkomstige toepassing op een concessie als bedoeld in [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=25&z=2010-07-01&g=2010-07-01).
+2. Het eerste lid is van overeenkomstige toepassing op een concessie als bedoeld in [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=25&z=2011-01-01&g=2011-01-01).
 
 3. Onze Minister kan, indien de in het eerste lid bedoelde afstemming onvoldoende gestalte krijgt, aan de betrokken concessieverleners een aanwijzing geven ter waarborging van die afstemming.
 
@@ -357,11 +351,11 @@ De concessieverleners, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3
 
 ##### Artikel 28
 
-De concessieverlener informeert ten minste eenmaal per jaar de consumentenorganisaties, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=27&z=2010-07-01&g=2010-07-01), over de resultaten van bij algemene maatregel van bestuur te omschrijven maatregelen die door hem zijn genomen en die de belangen van de reiziger raken.
+De concessieverlener informeert ten minste eenmaal per jaar de consumentenorganisaties, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=27&z=2011-01-01&g=2011-01-01), over de resultaten van bij algemene maatregel van bestuur te omschrijven maatregelen die door hem zijn genomen en die de belangen van de reiziger raken.
 
 ##### Artikel 29
 
-1. De concessieverlener kan een ontheffing verlenen van het verbod, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=1&artikel=19&z=2010-07-01&g=2010-07-01), aan een vervoerder die openbaar vervoer anders dan openbaar vervoer per trein, wil verrichten in een gebied waarvoor hem geen concessie is verleend.
+1. De concessieverlener kan een ontheffing verlenen van het verbod, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=1&artikel=19&z=2011-01-01&g=2011-01-01), aan een vervoerder die openbaar vervoer anders dan openbaar vervoer per trein, wil verrichten in een gebied waarvoor hem geen concessie is verleend.
 
 2. De concessieverlener kan de ontheffing wijzigen of intrekken.
 
@@ -381,7 +375,7 @@ De concessieverlener informeert ten minste eenmaal per jaar de consumentenorgani
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de erkenning van een of meer instellingen die elektronische nationale vervoerbewijzen uitgeven, exploiteren of beheren, alsmede over de voorschriften waaraan dergelijke instellingen moeten voldoen.
 
-4. De houder van een concessie, verleend door een concessieverlener als bedoeld in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=20&z=2010-07-01&g=2010-07-01), is verplicht reizigers te vervoeren die daartoe beschikken over een voor het concessiegebied geldig nationaal vervoerbewijs tegen het daarbij behorende tarief.
+4. De houder van een concessie, verleend door een concessieverlener als bedoeld in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=20&z=2011-01-01&g=2011-01-01), is verplicht reizigers te vervoeren die daartoe beschikken over een voor het concessiegebied geldig nationaal vervoerbewijs tegen het daarbij behorende tarief.
 
 ##### Artikel 31
 
@@ -403,7 +397,7 @@ De concessieverlener informeert ten minste eenmaal per jaar de consumentenorgani
 
 2. Aan een concessie worden in ieder geval voorschriften verbonden ten aanzien van:
 
-- a. de onderwerpen waarover en de consumentenorganisaties waaraan de concessiehouder advies vraagt als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=3&artikel=31&z=2010-07-01&g=2010-07-01);
+- a. de onderwerpen waarover en de consumentenorganisaties waaraan de concessiehouder advies vraagt als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=3&artikel=31&z=2011-01-01&g=2011-01-01);
 
 - b. de onderwerpen waarover en de wijze waarop de concessiehouder de consumentenorganisaties, bedoeld in onderdeel a, informeert;
 
@@ -453,41 +447,41 @@ Een ieder die enig recht kan doen gelden op bij algemene maatregel van bestuur t
 
 1. Voor de toepassing van deze paragraaf wordt onder overgang van een concessie verstaan: het geheel of gedeeltelijk eindigen van een concessie gevolgd door het ingaan van geheel of gedeeltelijk dezelfde concessie als gevolg van verlening van deze concessie aan een andere vervoerder.
 
-2. De [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=37&z=2010-07-01&g=2010-07-01) en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=38&z=2010-07-01&g=2010-07-01) zijn van toepassing op de overgang van een concessie, tenzij iets anders voortvloeit uit een overeenkomst tussen de voormalige concessiehouder, de nieuwe concessiehouder en de belanghebbende verenigingen van werknemers als bedoeld in [artikel 3, vierde lid, van de Wet melding collectief ontslag](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&artikel=3), welke overeenkomst is tot stand gekomen binnen een maand na het besluit tot verlening van een concessie als bedoeld in het eerste lid.
+2. De [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=37&z=2011-01-01&g=2011-01-01) en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=38&z=2011-01-01&g=2011-01-01) zijn van toepassing op de overgang van een concessie, tenzij iets anders voortvloeit uit een overeenkomst tussen de voormalige concessiehouder, de nieuwe concessiehouder en de belanghebbende verenigingen van werknemers als bedoeld in [artikel 3, vierde lid, van de Wet melding collectief ontslag](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&artikel=3), welke overeenkomst is tot stand gekomen binnen een maand na het besluit tot verlening van een concessie als bedoeld in het eerste lid.
 
 ##### Artikel 37
 
-1. Onverminderd het bepaalde in de [artikelen 662](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=662) en [663 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=663) gaan door de overgang van een concessie van rechtswege over op de nieuwe concessiehouder de rechten en verplichtingen, omschreven in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=38&z=2010-07-01&g=2010-07-01), die op dat tijdstip voor de voormalige concessiehouder voortvloeien uit de privaatrechtelijke of publiekrechtelijke arbeidsverhouding tussen hem en:
+1. Onverminderd het bepaalde in de [artikelen 662](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=662) en [663 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=663) gaan door de overgang van een concessie van rechtswege over op de nieuwe concessiehouder de rechten en verplichtingen, omschreven in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=38&z=2011-01-01&g=2011-01-01), die op dat tijdstip voor de voormalige concessiehouder voortvloeien uit de privaatrechtelijke of publiekrechtelijke arbeidsverhouding tussen hem en:
 
 - a. een direct ten behoeve van de verrichting van het openbaar vervoer waarvoor de concessie werd verleend, werkzame persoon, en
 
 - b. een indirect ten behoeve van de verrichting van het openbaar vervoer waarvoor de concessie werd verleend, werkzame persoon, met inachtneming van het tweede lid.
 
-2. Tenzij bij de in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=36&z=2010-07-01&g=2010-07-01), bedoelde concessieverlening aan de andere vervoerder anders is bepaald, geschiedt de vaststelling van het aantal personen als bedoeld in het eerste lid, onderdeel b, op basis van de verhouding tussen de verminderde omzet ten gevolge van de overgang van de concessie en de totale omzet van de voormalige concessiehouder ten aanzien van het openbaar vervoer, berekend over het laatst afgesloten boekjaar voorafgaand aan het jaar waarin de concessieovergang plaatsvindt. [Artikel 10a van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=10a) is van toepassing.
+2. Tenzij bij de in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=36&z=2011-01-01&g=2011-01-01), bedoelde concessieverlening aan de andere vervoerder anders is bepaald, geschiedt de vaststelling van het aantal personen als bedoeld in het eerste lid, onderdeel b, op basis van de verhouding tussen de verminderde omzet ten gevolge van de overgang van de concessie en de totale omzet van de voormalige concessiehouder ten aanzien van het openbaar vervoer, berekend over het laatst afgesloten boekjaar voorafgaand aan het jaar waarin de concessieovergang plaatsvindt. [Artikel 10a van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=10a) is van toepassing.
 
-3. De concessieverlener oefent zijn in het tweede lid neergelegde afwijkingsbevoegdheid slechts uit, indien hij voorafgaand aan de toepassing van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=27&z=2010-07-01&g=2010-07-01) dan wel [artikel 44, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=1&artikel=44&z=2010-07-01&g=2010-07-01), ter zake een beleidsregel heeft vastgesteld.
+3. De concessieverlener oefent zijn in het tweede lid neergelegde afwijkingsbevoegdheid slechts uit, indien hij voorafgaand aan de toepassing van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=27&z=2011-01-01&g=2011-01-01) dan wel [artikel 44, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=1&artikel=44&z=2011-01-01&g=2011-01-01), ter zake een beleidsregel heeft vastgesteld.
 
-4. Indien toepassing van het eerste lid leidt tot overgang van een arbeidsplaats die niet herleidbaar is tot een individu, gaan naar de nieuwe concessiehouder over de rechten en verplichtingen, omschreven in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=38&z=2010-07-01&g=2010-07-01), die op dat tijdstip voor de voormalige concessiehouder voortvloeien uit de privaatrechtelijke of publiekrechtelijke arbeidsverhouding tussen hem en de persoon die, ware er sprake van een beëindiging van de arbeidsverhouding waarop het [Buitengewoon Besluit Arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014) van toepassing is wegens bedrijfseconomische redenen, waarbij die arbeidsplaatsen zouden komen te vervallen, voor ontslag in aanmerking zou komen met inachtneming van de daarvoor geldende regels.
+4. Indien toepassing van het eerste lid leidt tot overgang van een arbeidsplaats die niet herleidbaar is tot een individu, gaan naar de nieuwe concessiehouder over de rechten en verplichtingen, omschreven in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=38&z=2011-01-01&g=2011-01-01), die op dat tijdstip voor de voormalige concessiehouder voortvloeien uit de privaatrechtelijke of publiekrechtelijke arbeidsverhouding tussen hem en de persoon die, ware er sprake van een beëindiging van de arbeidsverhouding waarop het [Buitengewoon Besluit Arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014) van toepassing is wegens bedrijfseconomische redenen, waarbij die arbeidsplaatsen zouden komen te vervallen, voor ontslag in aanmerking zou komen met inachtneming van de daarvoor geldende regels.
 
 5. De voormalige concessiehouder is gedurende een jaar na de overgang naast de nieuwe concessiehouder hoofdelijk verbonden voor de nakoming van de verplichtingen uit de arbeidsverhouding die zijn ontstaan voor dat tijdstip.
 
 ##### Artikel 38
 
-1. Indien de voormalige concessiehouder geen vervoerder is als bedoeld in [artikel 69, eerste of zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=6&artikel=69&z=2010-07-01&g=2010-07-01):
+1. Indien de voormalige concessiehouder geen vervoerder is als bedoeld in [artikel 69, eerste of zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=6&artikel=69&z=2011-01-01&g=2011-01-01):
 
 - a. zijn op de overgang van een concessie de [artikelen 14a, eerste, tweede en vierde lid, van de Wet op de collectieve arbeidsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBR0001937&artikel=14a) en [2a van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2a) van overeenkomstige toepassing en
 
-- b. gaan door de overgang van de concessie de rechten en verplichtingen welke op het tijdstip van overgang van concessie voor de voormalige concessiehouder ten aanzien van een persoon als bedoeld in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=37&z=2010-07-01&g=2010-07-01), voortvloeien uit bedrijfsregelingen, van rechtswege over op de nieuwe concessiehouder.
+- b. gaan door de overgang van de concessie de rechten en verplichtingen welke op het tijdstip van overgang van concessie voor de voormalige concessiehouder ten aanzien van een persoon als bedoeld in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=37&z=2011-01-01&g=2011-01-01), voortvloeien uit bedrijfsregelingen, van rechtswege over op de nieuwe concessiehouder.
 
-2. Indien de voormalige concessiehouder een vervoerder is als bedoeld in [artikel 69, eerste of zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=6&artikel=69&z=2010-07-01&g=2010-07-01), handhaaft de nieuwe concessiehouder na de overgang van een concessie ten aanzien van een persoon als bedoeld in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=37&z=2010-07-01&g=2010-07-01), een samenstel van rechten en verplichtingen gelijkwaardig aan die welke voor het tijdstip van de overgang voor de voormalige concessiehouder uit de privaatrechtelijke of publiekrechtelijke arbeidsverhouding tussen de voormalige concessiehouder en die persoon voortvloeiden, voor zover deze rechten en verplichtingen voortvloeiden uit collectieve regelingen inzake arbeidsvoorwaarden.
+2. Indien de voormalige concessiehouder een vervoerder is als bedoeld in [artikel 69, eerste of zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=6&artikel=69&z=2011-01-01&g=2011-01-01), handhaaft de nieuwe concessiehouder na de overgang van een concessie ten aanzien van een persoon als bedoeld in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=37&z=2011-01-01&g=2011-01-01), een samenstel van rechten en verplichtingen gelijkwaardig aan die welke voor het tijdstip van de overgang voor de voormalige concessiehouder uit de privaatrechtelijke of publiekrechtelijke arbeidsverhouding tussen de voormalige concessiehouder en die persoon voortvloeiden, voor zover deze rechten en verplichtingen voortvloeiden uit collectieve regelingen inzake arbeidsvoorwaarden.
 
 3. Op het eindigen van de rechten en verplichtingen, bedoeld in het tweede lid, zijn de [artikelen 14a, tweede en vierde lid, van de Wet op de collectieve arbeidsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBR0001937&artikel=14a) en [2a, tweede en derde lid, van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2a) van overeenkomstige toepassing.
 
-4. De [artikelen 662](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=662) en [663 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=663) zijn van overeenkomstige toepassing, indien de voormalige concessiehouder een vervoerbedrijf is als bedoeld in [artikel 64, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=5&artikel=64&z=2010-07-01&g=2010-07-01).
+4. De [artikelen 662](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=662) en [663 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=663) zijn van overeenkomstige toepassing, indien de voormalige concessiehouder een vervoerbedrijf is als bedoeld in [artikel 64, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=5&artikel=64&z=2011-01-01&g=2011-01-01).
 
 ##### Artikel 39
 
-1. Op verzoek van de concessieverlener verstrekt de concessiehouder binnen de bij verzoek te bepalen termijn aan de concessieverlener ten behoeve van het programma van eisen een openbare schriftelijke opgave van de rechten en verplichtingen, bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=38&z=2010-07-01&g=2010-07-01), met betrekking tot de ten behoeve van het verrichte openbaar vervoer werkzame personen, met inbegrip van een gemotiveerde toelichting van de wijze waarop de loonkosten zijn samengesteld, alsmede van de samenstelling en het aantal van het met toepassing van [artikel 37, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=37&z=2010-07-01&g=2010-07-01), voor overgang in aanmerking komend personeel.
+1. Op verzoek van de concessieverlener verstrekt de concessiehouder binnen de bij verzoek te bepalen termijn aan de concessieverlener ten behoeve van het programma van eisen een openbare schriftelijke opgave van de rechten en verplichtingen, bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=38&z=2011-01-01&g=2011-01-01), met betrekking tot de ten behoeve van het verrichte openbaar vervoer werkzame personen, met inbegrip van een gemotiveerde toelichting van de wijze waarop de loonkosten zijn samengesteld, alsmede van de samenstelling en het aantal van het met toepassing van [artikel 37, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=37&z=2011-01-01&g=2011-01-01), voor overgang in aanmerking komend personeel.
 
 2. De in het eerste lid bedoelde opgave geschiedt naar de toestand op het tijdstip van de opgave en naar de te verwachten toestand op het tijdstip van het eindigen van de concessie. De opgave gaat vergezeld van een verklaring van één of meer onafhankelijke deskundigen, dat de opgave is opgesteld overeenkomstig het eerste lid.
 
@@ -495,17 +489,17 @@ Een ieder die enig recht kan doen gelden op bij algemene maatregel van bestuur t
 
 ##### Artikel 40
 
-Binnen een maand na het besluit tot verlening van een concessie treden de voormalige en de nieuwe concessiehouder met elkaar en met de belanghebbende verenigingen van werknemers als bedoeld in [artikel 3, vierde lid, van de Wet melding collectief ontslag](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&artikel=3), in overleg teneinde een goede uitvoering van de [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=37&z=2010-07-01&g=2010-07-01) en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=38&z=2010-07-01&g=2010-07-01) dan wel van de overeenkomst, bedoeld in [artikel 36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=36&z=2010-07-01&g=2010-07-01), te bevorderen.
+Binnen een maand na het besluit tot verlening van een concessie treden de voormalige en de nieuwe concessiehouder met elkaar en met de belanghebbende verenigingen van werknemers als bedoeld in [artikel 3, vierde lid, van de Wet melding collectief ontslag](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&artikel=3), in overleg teneinde een goede uitvoering van de [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=37&z=2011-01-01&g=2011-01-01) en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=38&z=2011-01-01&g=2011-01-01) dan wel van de overeenkomst, bedoeld in [artikel 36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=36&z=2011-01-01&g=2011-01-01), te bevorderen.
 
 ##### Artikel 41
 
-1. Een concessiehouder kan een concessie, die is verleend door een concessieverlener als bedoeld in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=20&z=2010-07-01&g=2010-07-01), geheel of gedeeltelijk overdragen aan een andere vervoerder, indien deze voldoet aan de eisen, die bij of krachtens deze wet aan de concessiehouder zijn gesteld.
+1. Een concessiehouder kan een concessie, die is verleend door een concessieverlener als bedoeld in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=20&z=2011-01-01&g=2011-01-01), geheel of gedeeltelijk overdragen aan een andere vervoerder, indien deze voldoet aan de eisen, die bij of krachtens deze wet aan de concessiehouder zijn gesteld.
 
 2. De andere vervoerder, bedoeld in het eerste lid, is jegens de concessieverlener verplicht tot naleving van de ingevolge deze wet op de concessiehouder rustende verplichtingen.
 
 3. De concessiehouder kan de concessie niet overdragen dan na schriftelijke toestemming van de concessieverlener.
 
-4. Toestemming voor overdracht van een concessie die is verleend na aanbesteding wordt onthouden, indien de andere vervoerder niet beschikt over een verklaring van geen bezwaar inzake de desbetreffende concessie. De [artikelen 52 tot en met 56, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=2&artikel=52&z=2010-07-01&g=2010-07-01), en[57 tot en met 60](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=3&artikel=57&z=2010-07-01&g=2010-07-01) zijn van overeenkomstige toepassing.
+4. Toestemming voor overdracht van een concessie die is verleend na aanbesteding wordt onthouden, indien de andere vervoerder niet beschikt over een verklaring van geen bezwaar inzake de desbetreffende concessie. De [artikelen 52 tot en met 56, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=2&artikel=52&z=2011-01-01&g=2011-01-01), en[57 tot en met 60](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=3&artikel=57&z=2011-01-01&g=2011-01-01) zijn van overeenkomstige toepassing.
 
 5. Toestemming als bedoeld in het derde lid kan voorts slechts worden onthouden, indien redelijkerwijs te verwachten is dat de vervoerder de bij of krachtens deze wet gestelde verplichtingen niet of onvoldoende in acht zal nemen.
 
@@ -513,7 +507,7 @@ Binnen een maand na het besluit tot verlening van een concessie treden de voorma
 
 ##### Artikel 42
 
-Onverminderd [artikel 61, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=4&artikel=61&z=2010-07-01&g=2010-07-01) vervalt een concessie van rechtswege:
+Onverminderd [artikel 61, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=4&artikel=61&z=2011-01-01&g=2011-01-01) vervalt een concessie van rechtswege:
 
 - a. op het moment dat de vergunning van de concessiehouder van rechtswege is vervallen;
 
@@ -547,11 +541,11 @@ Onverminderd [artikel 61, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 - e. de te benutten infrastructurele voorzieningen.
 
-3. Voordat het programma van eisen wordt vastgesteld, vraagt de concessieverlener overeenkomstig [artikel 27, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=27&z=2010-07-01&g=2010-07-01), ter zake advies aan consumentenorganisaties die voldoen aan bij algemene maatregel van bestuur gestelde voorwaarden. Bij de verlening van de desbetreffende concessie is [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=27&z=2010-07-01&g=2010-07-01) niet van toepassing.
+3. Voordat het programma van eisen wordt vastgesteld, vraagt de concessieverlener overeenkomstig [artikel 27, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=27&z=2011-01-01&g=2011-01-01), ter zake advies aan consumentenorganisaties die voldoen aan bij algemene maatregel van bestuur gestelde voorwaarden. Bij de verlening van de desbetreffende concessie is [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=27&z=2011-01-01&g=2011-01-01) niet van toepassing.
 
 ##### Artikel 45
 
-Overleg als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=26&z=2010-07-01&g=2010-07-01) over het verlenen van een concessie vindt in geval van aanbesteding plaats voordat een concessieverlener het programma van eisen vaststelt.
+Overleg als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=26&z=2011-01-01&g=2011-01-01) over het verlenen van een concessie vindt in geval van aanbesteding plaats voordat een concessieverlener het programma van eisen vaststelt.
 
 ##### Artikel 46
 
@@ -569,7 +563,7 @@ Het tijdvak waarvoor een concessie is verleend kan eenmaal door de concessieverl
 
 ##### Artikel 48
 
-Van deelname aan een aanbesteding van een concessie is uitgesloten een instelling, dienst of bedrijf, waarover het openbaar lichaam waarvan een bestuursorgaan als bedoeld in [artikel 20, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=20&z=2010-07-01&g=2010-07-01), bevoegd is tot verlening van de concessie, op grond van feitelijke of juridische omstandigheden een beslissende invloed uit kan oefenen op de activiteiten van die vervoerder.
+Van deelname aan een aanbesteding van een concessie is uitgesloten een instelling, dienst of bedrijf, waarover het openbaar lichaam waarvan een bestuursorgaan als bedoeld in [artikel 20, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=20&z=2011-01-01&g=2011-01-01), bevoegd is tot verlening van de concessie, op grond van feitelijke of juridische omstandigheden een beslissende invloed uit kan oefenen op de activiteiten van die vervoerder.
 
 ##### Artikel 49
 
@@ -595,7 +589,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 54
 
-Onverminderd [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=2&artikel=53&z=2010-07-01&g=2010-07-01) wordt een verklaring van geen bezwaar geweigerd aan:
+Onverminderd [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=2&artikel=53&z=2011-01-01&g=2011-01-01) wordt een verklaring van geen bezwaar geweigerd aan:
 
 - a. een vervoerder die gevestigd is in een andere lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, voor zover de wederkerigheid van de toegang tot de desbetreffende markt voor personenvervoer voor vervoerders die in Nederland zijn gevestigd niet gewaarborgd is;
 
@@ -609,7 +603,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 56
 
-1. De raad van bestuur van de mededingingsautoriteit geeft op aanvraag een verklaring van geen bezwaar af, indien de aanvrager voldoet aan de in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=2&artikel=53&z=2010-07-01&g=2010-07-01) gestelde eisen en er geen omstandigheden aanwezig zijn als bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=2&artikel=54&z=2010-07-01&g=2010-07-01).
+1. De raad van bestuur van de mededingingsautoriteit geeft op aanvraag een verklaring van geen bezwaar af, indien de aanvrager voldoet aan de in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=2&artikel=53&z=2011-01-01&g=2011-01-01) gestelde eisen en er geen omstandigheden aanwezig zijn als bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=2&artikel=54&z=2011-01-01&g=2011-01-01).
 
 2. Een aanvraag om een verklaring van geen bezwaar kan niet eerder worden ingediend dan nadat de kennisgeving van de aanbesteding van de desbetreffende concessie is gepubliceerd.
 
@@ -643,7 +637,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 - 2°. een samenvoeging van meerdere vervoersvormen in één concessie;
 
-- b. onverminderd [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=I&paragraaf=2&artikel=3&z=2010-07-01&g=2010-07-01), de concessie betrekking heeft op openbaar vervoer dat een vernieuwende technologie of vervoersconcept bevat dat niet tot stand komt indien de concessie zou worden aanbesteed.
+- b. onverminderd [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=I&paragraaf=2&artikel=3&z=2011-01-01&g=2011-01-01), de concessie betrekking heeft op openbaar vervoer dat een vernieuwende technologie of vervoersconcept bevat dat niet tot stand komt indien de concessie zou worden aanbesteed.
 
 3. Een ontheffing kan onder beperkingen worden verleend en aan de ontheffing kunnen voorschriften worden verbonden.
 
@@ -653,25 +647,25 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 62
 
-1. Concessies als bedoeld in [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=20&z=2010-07-01&g=2010-07-01), worden slechts verleend nadat daartoe een aanbesteding is gehouden.
+1. Concessies als bedoeld in [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=20&z=2011-01-01&g=2011-01-01), worden slechts verleend nadat daartoe een aanbesteding is gehouden.
 
 2. In bij of krachtens algemene maatregel van bestuur omschreven gevallen kan het eerste lid buiten toepassing worden gelaten.
 
 ##### Artikel 63
 
-1. Onze Minister kan de raad van bestuur van de mededingingsautoriteit verzoeken een rapportage uit te brengen inzake de effecten voor de mededinging op de Nederlandse markt voor openbaar vervoer of een deel daarvan, van een op een aanvraag als bedoeld in [artikel 61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=4&artikel=61&z=2010-07-01&g=2010-07-01) te nemen besluit.
+1. Onze Minister kan de raad van bestuur van de mededingingsautoriteit verzoeken een rapportage uit te brengen inzake de effecten voor de mededinging op de Nederlandse markt voor openbaar vervoer of een deel daarvan, van een op een aanvraag als bedoeld in [artikel 61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=4&artikel=61&z=2011-01-01&g=2011-01-01) te nemen besluit.
 
 2. De rapportage is niet eerder openbaar dan nadat Onze Minister een besluit over de aanvraag heeft genomen.
 
 3. De rapportage wordt meegezonden met de beslissing op de aanvraag.
 
-#### § 5. De gemeentelijke vervoerbedrijven
+#### § 3. De procedure tot afgifte van de verklaring van geen bezwaar
 
 ##### Artikel 64
 
-1. Onze Minister is bevoegd een concessie als bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=20&z=2010-07-01&g=2010-07-01), te verlenen zonder dat daartoe de procedure van de [paragrafen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=1&z=2010-07-01&g=2010-07-01) van dit hoofdstuk wordt toegepast.
+1. Onze Minister is bevoegd een concessie als bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=20&z=2011-01-01&g=2011-01-01), te verlenen zonder dat daartoe de procedure van de [paragrafen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=1&z=2011-01-01&g=2011-01-01) van dit hoofdstuk wordt toegepast.
 
-2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de wijze waarop een concessie door Onze Minister wordt verleend, indien daartoe niet de procedure van de [paragrafen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=1&z=2010-07-01&g=2010-07-01) van dit hoofdstuk wordt toegepast.
+2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de wijze waarop een concessie door Onze Minister wordt verleend, indien daartoe niet de procedure van de [paragrafen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=1&z=2011-01-01&g=2011-01-01) van dit hoofdstuk wordt toegepast.
 
 3. Bij of krachtens de algemene maatregel van bestuur, bedoeld in het tweede lid, kunnen onder meer regels worden gesteld over:
 
@@ -717,7 +711,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 1. Dit artikel is van toepassing op de verlening van de eerste concessie voor het hoofdrailnet na de inwerkingtreding van de [Concessiewet personenvervoer per trein](https://wetten.overheid.nl/jci1.3:c:BWBR0015008).
 
-2. Onze Minister verleent de in het eerste lid bedoelde concessie aan de N.V. Nederlandse Spoorwegen of aan een bij koninklijk besluit te bepalen onderdeel van de N.V. Nederlandse Spoorwegen zonder dat daartoe de procedure van de [paragrafen 1 tot en met 3 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=1&z=2010-07-01&g=2010-07-01) of artikel 69c wordt toegepast. Deze concessie vangt aan op een bij koninklijk besluit te bepalen datum en eindigt op 1 januari 2015.
+2. Onze Minister verleent de in het eerste lid bedoelde concessie aan de N.V. Nederlandse Spoorwegen of aan een bij koninklijk besluit te bepalen onderdeel van de N.V. Nederlandse Spoorwegen zonder dat daartoe de procedure van de [paragrafen 1 tot en met 3 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=1&z=2011-01-01&g=2011-01-01) of artikel 69c wordt toegepast. Deze concessie vangt aan op een bij koninklijk besluit te bepalen datum en eindigt op 1 januari 2015.
 
 3. Onze Minister kan van het tweede lid afwijken; alsdan wordt artikel 69c toegepast.
 
@@ -731,7 +725,7 @@ Door vernummering vervallen.
 
 - a. openbaar vervoer;
 
-- b. vervoer waarop bij algemene maatregel van bestuur als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=I&paragraaf=2&artikel=2&z=2010-07-01&g=2010-07-01), dit artikel van toepassing is verklaard; of,
+- b. vervoer waarop bij algemene maatregel van bestuur als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=I&paragraaf=2&artikel=2&z=2011-01-01&g=2011-01-01), dit artikel van toepassing is verklaard; of,
 
 - c. werkzaamheden die rechtstreeks samenhangen met het verrichten van het in onderdeel a en b bedoelde vervoer.
 
@@ -771,7 +765,7 @@ Door vernummering vervallen.
 
 Een gemeentelijk vervoerbedrijf bewaart de in onderdeel b bedoelde gegevens gedurende vijf jaar, te rekenen vanaf het einde van het boekjaar waarop de gegevens betrekking hebben.
 
-6. Dit artikel is niet van toepassing ten aanzien van een gemeentelijk vervoerbedrijf als bedoeld in het eerste lid zodra het openbaar vervoer, bedoeld in [artikel 53, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=2&artikel=53&z=2010-07-01&g=2010-07-01), voor ten minste een gedeelte dat naar omzet berekend ten minste twee derde beloopt, wordt verricht krachtens een concessie welke is verleend na een procedure van aanbesteding.
+6. Dit artikel is niet van toepassing ten aanzien van een gemeentelijk vervoerbedrijf als bedoeld in het eerste lid zodra het openbaar vervoer, bedoeld in [artikel 53, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=2&artikel=53&z=2011-01-01&g=2011-01-01), voor ten minste een gedeelte dat naar omzet berekend ten minste twee derde beloopt, wordt verricht krachtens een concessie welke is verleend na een procedure van aanbesteding.
 
 7. Dit artikel is van overeenkomstige toepassing op:
 
@@ -805,7 +799,7 @@ Een ieder is verplicht de aanwijzingen betreffende de orde, rust, veiligheid of 
 
 - a. hetgeen onder verstoring van orde, rust, veiligheid of een goede bedrijfsgang wordt verstaan;
 
-- b. de wijze waarop de in [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=IV&artikel=73&z=2010-07-01&g=2010-07-01) bedoelde aanwijzingen onder meer kunnen worden gegeven.
+- b. de wijze waarop de in [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=IV&artikel=73&z=2011-01-01&g=2011-01-01) bedoelde aanwijzingen onder meer kunnen worden gegeven.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen voorts regels worden gesteld over onder meer:
 
@@ -879,7 +873,7 @@ Vervallen
 
 ##### Artikel 85
 
-Het is verboden taxivervoer te verrichten in strijd met de krachtens [artikel 84](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VI&paragraaf=2&artikel=84&z=2010-07-01&g=2010-07-01) gestelde regels.
+Het is verboden taxivervoer te verrichten in strijd met de krachtens [artikel 84](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VI&paragraaf=2&artikel=84&z=2011-01-01&g=2011-01-01) gestelde regels.
 
 ##### Artikel 86
 
@@ -897,13 +891,13 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld bet
 
 ##### Artikel 87
 
-1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister aangewezen personen en, voor zover het betreft het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=1&artikel=19&z=2010-07-01&g=2010-07-01) en [30 tot en met 40](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=3&artikel=30&z=2010-07-01&g=2010-07-01), de bij besluit van de bestuursorganen, bedoeld in [artikel 20, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=20&z=2010-07-01&g=2010-07-01), aangewezen personen.
+1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister aangewezen personen en, voor zover het betreft het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=1&artikel=19&z=2011-01-01&g=2011-01-01) en [30 tot en met 40](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=3&artikel=30&z=2011-01-01&g=2011-01-01), de bij besluit van de bestuursorganen, bedoeld in [artikel 20, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=20&z=2011-01-01&g=2011-01-01), aangewezen personen.
 
 2. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn voorts belast de in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) bedoelde ambtenaren en de met betrekking tot deze wet krachtens [artikel 17, eerste lid, onder 2°, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17) aangewezen ambtenaren.
 
-3. Onverminderd het bepaalde in het eerste en tweede lid zijn met het toezicht op de naleving van het bij of krachtens de [artikelen 70 tot en met 74](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=IV&artikel=70&z=2010-07-01&g=2010-07-01) bepaalde mede belast personen die daartoe door de vervoerder zijn aangewezen.
+3. Onverminderd het bepaalde in het eerste en tweede lid zijn met het toezicht op de naleving van het bij of krachtens de [artikelen 70 tot en met 74](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=IV&artikel=70&z=2011-01-01&g=2011-01-01) bepaalde mede belast personen die daartoe door de vervoerder zijn aangewezen.
 
-4. Met het toezicht op de naleving van het bepaalde in [artikel 69, eerste, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=6&artikel=69&z=2010-07-01&g=2010-07-01), zijn belast de bij besluit van de raad van bestuur van de mededingingsautoriteit aangewezen ambtenaren van de Nederlandse Mededingingsautoriteit.
+4. Met het toezicht op de naleving van het bepaalde in [artikel 69, eerste, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=6&artikel=69&z=2011-01-01&g=2011-01-01), zijn belast de bij besluit van de raad van bestuur van de mededingingsautoriteit aangewezen ambtenaren van de Nederlandse Mededingingsautoriteit.
 
 5. Van een besluit als bedoeld in het eerste lid of vierde lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
@@ -911,7 +905,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld bet
 
 1. Onze Minister kan met betrekking tot het toezicht op de naleving beleidsregels vaststellen.
 
-2. Beleidsregels die betrekking hebben op het toezicht door ambtenaren als bedoeld in [artikel 87, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VII&paragraaf=1&artikel=87&z=2010-07-01&g=2010-07-01), worden vastgesteld in overeenstemming met Onze Minister van Economische Zaken.
+2. Beleidsregels die betrekking hebben op het toezicht door ambtenaren als bedoeld in [artikel 87, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VII&paragraaf=1&artikel=87&z=2011-01-01&g=2011-01-01), worden vastgesteld in overeenstemming met Onze Minister van Economische Zaken.
 
 ##### Artikel 89
 
@@ -923,17 +917,17 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld bet
 
 ##### Artikel 90
 
-De in [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VII&paragraaf=1&artikel=87&z=2010-07-01&g=2010-07-01) bedoelde ambtenaren en personen beschikken niet over de bevoegdheden, bedoeld in [artikel 5:18 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18).
+De in [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VII&paragraaf=1&artikel=87&z=2011-01-01&g=2011-01-01) bedoelde ambtenaren en personen beschikken niet over de bevoegdheden, bedoeld in [artikel 5:18 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18).
 
 ##### Artikel 91
 
-De [artikelen 5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12), [5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13), [5:15 tot en met 5:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), [5:19](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19) en [5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) zijn van overeenkomstige toepassing ten aanzien van de in [artikel 89](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VII&paragraaf=1&artikel=89&z=2010-07-01&g=2010-07-01) bedoelde ambtenaren en personen.
+De [artikelen 5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12), [5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13), [5:15 tot en met 5:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), [5:19](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19) en [5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) zijn van overeenkomstige toepassing ten aanzien van de in [artikel 89](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VII&paragraaf=1&artikel=89&z=2011-01-01&g=2011-01-01) bedoelde ambtenaren en personen.
 
 ##### Artikel 92
 
-De reiziger die de leeftijd van veertien jaar nog niet heeft bereikt, is verplicht op de eerste vordering van de [artikelen 87](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VII&paragraaf=1&artikel=87&z=2010-07-01&g=2010-07-01) en [89](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VII&paragraaf=1&artikel=89&z=2010-07-01&g=2010-07-01) bedoelde ambtenaren en personen die hebben vastgesteld dat de reiziger heeft gehandeld in strijd met de [artikelen 70](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=IV&artikel=70&z=2010-07-01&g=2010-07-01) of [71](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=IV&artikel=71&z=2010-07-01&g=2010-07-01), een identiteitsbewijs als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) ter inzage aan te bieden.
+De reiziger die de leeftijd van veertien jaar nog niet heeft bereikt, is verplicht op de eerste vordering van de [artikelen 87](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VII&paragraaf=1&artikel=87&z=2011-01-01&g=2011-01-01) en [89](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VII&paragraaf=1&artikel=89&z=2011-01-01&g=2011-01-01) bedoelde ambtenaren en personen die hebben vastgesteld dat de reiziger heeft gehandeld in strijd met de [artikelen 70](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=IV&artikel=70&z=2011-01-01&g=2011-01-01) of [71](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=IV&artikel=71&z=2011-01-01&g=2011-01-01), een identiteitsbewijs als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) ter inzage aan te bieden.
 
-#### § 2. Dwang- en strafbepalingen
+#### § 2. Taxivervoer
 
 ##### Artikel 93
 
@@ -941,7 +935,7 @@ Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter hand
 
 ##### Artikel 94
 
-1. Ingeval van overtreding van [artikel 69, eerste, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=6&artikel=69&z=2010-07-01&g=2010-07-01), kan de raad van bestuur van de mededingingsautoriteit de rechtspersoon aan wie het gemeentelijk vervoerbedrijf toebehoort dan wel de desbetreffende concessiehouder, een last onder dwangsom opleggen.
+1. Ingeval van overtreding van [artikel 69, eerste, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=6&artikel=69&z=2011-01-01&g=2011-01-01), kan de raad van bestuur van de mededingingsautoriteit de rechtspersoon aan wie het gemeentelijk vervoerbedrijf toebehoort dan wel de desbetreffende concessiehouder, een last onder dwangsom opleggen.
 
 2. Aan een last kunnen voorschriften worden verbonden inzake het verstrekken van gegevens aan de raad van bestuur van de mededingingsautoriteit.
 
@@ -949,9 +943,9 @@ Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter hand
 
 ##### Artikel 95
 
-1. De raad van bestuur van de mededingingsautoriteit deelt zijn voornemen een beschikking te geven als bedoeld in [artikel 94, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VII&paragraaf=2&artikel=94&z=2010-07-01&g=2010-07-01), schriftelijk en met redenen omkleed mee aan belanghebbenden.
+1. De raad van bestuur van de mededingingsautoriteit deelt zijn voornemen een beschikking te geven als bedoeld in [artikel 94, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VII&paragraaf=2&artikel=94&z=2011-01-01&g=2011-01-01), schriftelijk en met redenen omkleed mee aan belanghebbenden.
 
-2. In afwijking van [afdeling 4.1.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.1.2) stelt de raad van bestuur van de mededingingsautoriteit, alvorens te besluiten omtrent toepassing van [artikel 94, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VII&paragraaf=2&artikel=94&z=2010-07-01&g=2010-07-01), belanghebbenden in de gelegenheid schriftelijk of mondeling hun zienswijze kenbaar te maken.
+2. In afwijking van [afdeling 4.1.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.1.2) stelt de raad van bestuur van de mededingingsautoriteit, alvorens te besluiten omtrent toepassing van [artikel 94, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VII&paragraaf=2&artikel=94&z=2011-01-01&g=2011-01-01), belanghebbenden in de gelegenheid schriftelijk of mondeling hun zienswijze kenbaar te maken.
 
 ##### Artikel 96
 
@@ -961,13 +955,13 @@ Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter hand
 
 ##### Artikel 97
 
-Indien naar het oordeel van de in de [artikelen 87](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VII&paragraaf=1&artikel=87&z=2010-07-01&g=2010-07-01) of [89](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VII&paragraaf=1&artikel=89&z=2010-07-01&g=2010-07-01) bedoelde ambtenaren en personen in onvoldoende mate medewerking wordt verleend bij de uitvoering van de hun opgedragen taak, treffen zij zo nodig met behulp van de sterke arm de nodige maatregelen.
+Indien naar het oordeel van de in de [artikelen 87](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VII&paragraaf=1&artikel=87&z=2011-01-01&g=2011-01-01) of [89](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VII&paragraaf=1&artikel=89&z=2011-01-01&g=2011-01-01) bedoelde ambtenaren en personen in onvoldoende mate medewerking wordt verleend bij de uitvoering van de hun opgedragen taak, treffen zij zo nodig met behulp van de sterke arm de nodige maatregelen.
 
 ##### Artikel 98
 
-1. Indien de reiziger handelt in strijd met de [artikelen 70 tot en met 74](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=IV&artikel=70&z=2010-07-01&g=2010-07-01) zijn de in de [artikelen 87 en 89](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VII&paragraaf=1&artikel=87&z=2010-07-01&g=2010-07-01) bedoelde ambtenaren en personen bevoegd zijn vervoerbewijs in te trekken en hem zo nodig met behulp van de sterke arm het gebruik van het openbaar vervoer te ontzeggen.
+1. Indien de reiziger handelt in strijd met de [artikelen 70 tot en met 74](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=IV&artikel=70&z=2011-01-01&g=2011-01-01) zijn de in de [artikelen 87 en 89](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VII&paragraaf=1&artikel=87&z=2011-01-01&g=2011-01-01) bedoelde ambtenaren en personen bevoegd zijn vervoerbewijs in te trekken en hem zo nodig met behulp van de sterke arm het gebruik van het openbaar vervoer te ontzeggen.
 
-2. De in de [artikelen 87](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VII&paragraaf=1&artikel=87&z=2010-07-01&g=2010-07-01) en [89](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VII&paragraaf=1&artikel=89&z=2010-07-01&g=2010-07-01) bedoelde ambtenaren en personen zijn bevoegd bij vermoeden van een ten aanzien van handbagage gepleegde overtreding van het in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=IV&artikel=72&z=2010-07-01&g=2010-07-01) bepaalde, zich in tegenwoordigheid van de reiziger van aard en inhoud daarvan te overtuigen en onbevoegd meegenomen handbagage uit de vervoermiddelen te weren of verwijderen.
+2. De in de [artikelen 87](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VII&paragraaf=1&artikel=87&z=2011-01-01&g=2011-01-01) en [89](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VII&paragraaf=1&artikel=89&z=2011-01-01&g=2011-01-01) bedoelde ambtenaren en personen zijn bevoegd bij vermoeden van een ten aanzien van handbagage gepleegde overtreding van het in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=IV&artikel=72&z=2011-01-01&g=2011-01-01) bepaalde, zich in tegenwoordigheid van de reiziger van aard en inhoud daarvan te overtuigen en onbevoegd meegenomen handbagage uit de vervoermiddelen te weren of verwijderen.
 
 ##### Artikel 99
 
@@ -975,7 +969,7 @@ Indien naar het oordeel van de in de [artikelen 87](https://wetten.overheid.nl/j
 
 - a. indien is gehandeld in strijd met het bij of krachtens deze wet bepaalde;
 
-- b. indien niet langer wordt voldaan aan een van de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=I&paragraaf=3&artikel=9&z=2010-07-01&g=2010-07-01), bedoelde eisen, tenzij een ontheffing als bedoeld in het tweede lid van dat artikel is verleend;
+- b. indien niet langer wordt voldaan aan een van de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=I&paragraaf=3&artikel=9&z=2011-01-01&g=2011-01-01), bedoelde eisen, tenzij een ontheffing als bedoeld in het tweede lid van dat artikel is verleend;
 
 - c. in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
 
@@ -983,23 +977,23 @@ Indien naar het oordeel van de in de [artikelen 87](https://wetten.overheid.nl/j
 
 ##### Artikel 100
 
-1. Onverminderd [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=43&z=2010-07-01&g=2010-07-01), kan een concessie worden ingetrokken, indien aan de concessiehouder ter zake van overtreding van het bepaalde bij of krachtens deze wet een sanctie is opgelegd. [Artikel 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=43&z=2010-07-01&g=2010-07-01), is van toepassing.
+1. Onverminderd [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=43&z=2011-01-01&g=2011-01-01), kan een concessie worden ingetrokken, indien aan de concessiehouder ter zake van overtreding van het bepaalde bij of krachtens deze wet een sanctie is opgelegd. [Artikel 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=43&z=2011-01-01&g=2011-01-01), is van toepassing.
 
-2. De concessieverlener kan een ontheffing als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=29&z=2010-07-01&g=2010-07-01) intrekken, indien de vervoerder in strijd handelt met het bij of krachtens deze wet ten aanzien van de vervoerder bepaalde dan wel met de ontheffing of de aan de ontheffing verbonden beperkingen of voorschriften.
+2. De concessieverlener kan een ontheffing als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=29&z=2011-01-01&g=2011-01-01) intrekken, indien de vervoerder in strijd handelt met het bij of krachtens deze wet ten aanzien van de vervoerder bepaalde dan wel met de ontheffing of de aan de ontheffing verbonden beperkingen of voorschriften.
 
 ##### Artikel 101
 
-1. Niet naleving van de [artikelen 70 tot en met 73](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=IV&artikel=70&z=2010-07-01&g=2010-07-01), alsmede – voor zover aangeduid als strafbare feiten – het bepaalde krachtens de [artikelen 74, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=IV&artikel=74&z=2010-07-01&g=2010-07-01), en [104, aanhef en onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=1&artikel=104&z=2010-07-01&g=2010-07-01), is een overtreding en wordt gestraft met een hechtenis van ten hoogste twee maanden of een geldboete van de tweede categorie.
+1. Niet naleving van de [artikelen 70 tot en met 73](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=IV&artikel=70&z=2011-01-01&g=2011-01-01), alsmede – voor zover aangeduid als strafbare feiten – het bepaalde krachtens de [artikelen 74, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=IV&artikel=74&z=2011-01-01&g=2011-01-01), en [104, aanhef en onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=1&artikel=104&z=2011-01-01&g=2011-01-01), is een overtreding en wordt gestraft met een hechtenis van ten hoogste twee maanden of een geldboete van de tweede categorie.
 
-2. Indien de reiziger ten aanzien van wie door een ambtenaar of persoon, bedoeld in de [artikelen 87](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VII&paragraaf=1&artikel=87&z=2010-07-01&g=2010-07-01) en [89](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VII&paragraaf=1&artikel=89&z=2010-07-01&g=2010-07-01), is vastgesteld dat hij in strijd handelt met de [artikelen 70](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=IV&artikel=70&z=2010-07-01&g=2010-07-01) of [71](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=IV&artikel=71&z=2010-07-01&g=2010-07-01), niet voldoet aan de verplichting, bedoeld in [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VII&paragraaf=1&artikel=92&z=2010-07-01&g=2010-07-01), worden de in het eerste lid bedoelde straffen verhoogd tot een hechtenis van ten hoogste vier maanden, onderscheidenlijk een geldboete van de derde categorie.
+2. Indien de reiziger ten aanzien van wie door een ambtenaar of persoon, bedoeld in de [artikelen 87](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VII&paragraaf=1&artikel=87&z=2011-01-01&g=2011-01-01) en [89](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VII&paragraaf=1&artikel=89&z=2011-01-01&g=2011-01-01), is vastgesteld dat hij in strijd handelt met de [artikelen 70](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=IV&artikel=70&z=2011-01-01&g=2011-01-01) of [71](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=IV&artikel=71&z=2011-01-01&g=2011-01-01), niet voldoet aan de verplichting, bedoeld in [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VII&paragraaf=1&artikel=92&z=2011-01-01&g=2011-01-01), worden de in het eerste lid bedoelde straffen verhoogd tot een hechtenis van ten hoogste vier maanden, onderscheidenlijk een geldboete van de derde categorie.
 
 ##### Artikel 102
 
-Bij algemene maatregel van bestuur kan worden bepaald dat het recht tot strafvordering wegens overtreding van de [artikelen 70](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=IV&artikel=70&z=2010-07-01&g=2010-07-01) of [71](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=IV&artikel=71&z=2010-07-01&g=2010-07-01) vervalt door voldoening op een daarbij aan te geven wijze van een bij of krachtens die maatregel vast te stellen geldsom aan de vervoerder.
+Bij algemene maatregel van bestuur kan worden bepaald dat het recht tot strafvordering wegens overtreding van de [artikelen 70](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=IV&artikel=70&z=2011-01-01&g=2011-01-01) of [71](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=IV&artikel=71&z=2011-01-01&g=2011-01-01) vervalt door voldoening op een daarbij aan te geven wijze van een bij of krachtens die maatregel vast te stellen geldsom aan de vervoerder.
 
 ##### Artikel 103
 
-Overtreding van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=I&paragraaf=3&artikel=4&z=2010-07-01&g=2010-07-01) en [11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=I&paragraaf=3&artikel=11&z=2010-07-01&g=2010-07-01), zijn misdrijven.
+Overtreding van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=I&paragraaf=3&artikel=4&z=2011-01-01&g=2011-01-01) en [11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=I&paragraaf=3&artikel=11&z=2011-01-01&g=2011-01-01), zijn misdrijven.
 
 ### Hoofdstuk VIII. Overige bepalingen
 
@@ -1025,7 +1019,7 @@ Overtreding van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011470
 
 1. Tegen een op grond van deze wet genomen besluit kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.
 
-2. In afwijking van het eerste lid is voor beroepen tegen besluiten op grond van de [artikelen 56, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=3&artikel=56&z=2010-07-01&g=2010-07-01), [59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=3&artikel=59&z=2010-07-01&g=2010-07-01), [94, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VII&paragraaf=2&artikel=94&z=2010-07-01&g=2010-07-01), en [96, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VII&paragraaf=2&artikel=96&z=2010-07-01&g=2010-07-01), de rechtbank te Rotterdam bevoegd.
+2. In afwijking van het eerste lid is voor beroepen tegen besluiten op grond van de [artikelen 56, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=3&artikel=56&z=2011-01-01&g=2011-01-01), [59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=3&artikel=59&z=2011-01-01&g=2011-01-01), [94, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VII&paragraaf=2&artikel=94&z=2011-01-01&g=2011-01-01), en [96, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VII&paragraaf=2&artikel=96&z=2011-01-01&g=2011-01-01), de rechtbank te Rotterdam bevoegd.
 
 ##### Artikel 106
 
@@ -1055,9 +1049,9 @@ De voordracht voor een eerste vaststelling van een algemene maatregel van bestuu
 
 ##### Artikel 109
 
-1. Tot het moment van inwerkingtreding van de [artikelen 15 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=I&paragraaf=5&artikel=15&z=2010-07-01&g=2010-07-01) en [51 tot en met 60](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=2&artikel=51&z=2010-07-01&g=2010-07-01) wordt van deelname aan aanbesteding van een concessie voor openbaar vervoer per bus respectievelijk per metro of tram uitgesloten:
+1. Tot het moment van inwerkingtreding van de [artikelen 15 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=I&paragraaf=5&artikel=15&z=2011-01-01&g=2011-01-01) en [51 tot en met 60](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=2&artikel=51&z=2011-01-01&g=2011-01-01) wordt van deelname aan aanbesteding van een concessie voor openbaar vervoer per bus respectievelijk per metro of tram uitgesloten:
 
-- a. een vervoerder als bedoeld in [artikel 69, eerste of zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=6&artikel=69&z=2010-07-01&g=2010-07-01), alsmede een vervoerder waarvan een gemeentelijk vervoerbedrijf als bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=6&artikel=69&z=2010-07-01&g=2010-07-01), een of meer aandelen in het geplaatst kapitaal bezit, voor zolang het openbaar vervoer per bus respectievelijk per metro of tram, dat op de dag van inwerkingtreding van deze wet door het vervoerbedrijf werd verricht, niet of niet in voldoende mate is aanbesteed;
+- a. een vervoerder als bedoeld in [artikel 69, eerste of zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=6&artikel=69&z=2011-01-01&g=2011-01-01), alsmede een vervoerder waarvan een gemeentelijk vervoerbedrijf als bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=6&artikel=69&z=2011-01-01&g=2011-01-01), een of meer aandelen in het geplaatst kapitaal bezit, voor zolang het openbaar vervoer per bus respectievelijk per metro of tram, dat op de dag van inwerkingtreding van deze wet door het vervoerbedrijf werd verricht, niet of niet in voldoende mate is aanbesteed;
 
 - b. een vervoerder die is gevestigd in een andere lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, voorzover de wederkerigheid van de toegang tot de desbetreffende markt voor personenvervoer voor vervoerders die in Nederland zijn gevestigd niet gewaarborgd is;
 
@@ -1069,13 +1063,13 @@ De voordracht voor een eerste vaststelling van een algemene maatregel van bestuu
 
 ##### Artikel 110
 
-Bij ministeriële regeling kan worden bepaald dat [artikel 53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=2&artikel=53&z=2010-07-01&g=2010-07-01), buiten toepassing blijft. Na het tot stand komen van die regeling wordt zo spoedig mogelijk maar uiterlijk binnen acht weken een voorstel van wet tot goedkeuring van de ministeriële regeling aan de Tweede Kamer der Staten-Generaal gezonden. Indien het voorstel wordt ingetrokken of indien een van de beide kamers der Staten-Generaal besluit het voorstel niet aan te nemen, wordt de ministeriële regeling onverwijld ingetrokken. Wordt het voorstel tot wet verheven, dan wordt de ministeriële regeling ingetrokken op het tijdstip van inwerkingtreding van die wet.
+Bij ministeriële regeling kan worden bepaald dat [artikel 53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=2&artikel=53&z=2011-01-01&g=2011-01-01), buiten toepassing blijft. Na het tot stand komen van die regeling wordt zo spoedig mogelijk maar uiterlijk binnen acht weken een voorstel van wet tot goedkeuring van de ministeriële regeling aan de Tweede Kamer der Staten-Generaal gezonden. Indien het voorstel wordt ingetrokken of indien een van de beide kamers der Staten-Generaal besluit het voorstel niet aan te nemen, wordt de ministeriële regeling onverwijld ingetrokken. Wordt het voorstel tot wet verheven, dan wordt de ministeriële regeling ingetrokken op het tijdstip van inwerkingtreding van die wet.
 
 #### § 2. Overgangsbepalingen
 
 ##### Artikel 111
 
-1. Een jaar na inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2010-07-01&g=2010-07-01) vervallen de overeenkomsten ter uitvoering van de artikelen 12 en 17 van de Wet personenvervoer, zoals die artikelen luidden voor de inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2010-07-01&g=2010-07-01), die bestaan tussen een overheid die op grond van de Wet personenvervoer bevoegd was tot het vaststellen van dienstregelingen en een vervoerder.
+1. Een jaar na inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2011-01-01&g=2011-01-01) vervallen de overeenkomsten ter uitvoering van de artikelen 12 en 17 van de Wet personenvervoer, zoals die artikelen luidden voor de inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2011-01-01&g=2011-01-01), die bestaan tussen een overheid die op grond van de Wet personenvervoer bevoegd was tot het vaststellen van dienstregelingen en een vervoerder.
 
 2. De overheid, bedoeld in het eerste lid, kan de overeenkomst op een eerder tijdstip beëindigen ten behoeve van het verlenen van een concessie aan de vervoerder, bedoeld in het eerste lid, dan wel een andere vervoerder.
 
@@ -1085,7 +1079,7 @@ Vervallen
 
 ##### Artikel 113
 
-Een vergunning voor het verrichten van taxivervoer die voor de datum van inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2010-07-01&g=2010-07-01) is verleend ingevolge artikel 57 van de Wet personenvervoer, zoals dit artikel luidde voor de datum van inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2010-07-01&g=2010-07-01), geldt, onverminderd mogelijke wijziging, schorsing, intrekking of het van rechtswege vervallen, met ingang van de datum van inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2010-07-01&g=2010-07-01), als een vergunning verleend ingevolge [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=I&paragraaf=3&artikel=4&z=2010-07-01&g=2010-07-01).
+Een vergunning voor het verrichten van taxivervoer die voor de datum van inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2011-01-01&g=2011-01-01) is verleend ingevolge artikel 57 van de Wet personenvervoer, zoals dit artikel luidde voor de datum van inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2011-01-01&g=2011-01-01), geldt, onverminderd mogelijke wijziging, schorsing, intrekking of het van rechtswege vervallen, met ingang van de datum van inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2011-01-01&g=2011-01-01), als een vergunning verleend ingevolge [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=I&paragraaf=3&artikel=4&z=2011-01-01&g=2011-01-01).
 
 ##### Artikel 114
 
@@ -1093,15 +1087,15 @@ Vervallen
 
 ##### Artikel 115
 
-Een aanvraag voor een vergunning voor het verrichten van taxivervoer die voor de datum van inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2010-07-01&g=2010-07-01) is ingediend ingevolge artikel 57 van de Wet personenvervoer, zoals dit artikel luidde voor de datum van inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2010-07-01&g=2010-07-01), en waarop op de datum van de inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2010-07-01&g=2010-07-01) nog geen beslissing is genomen, geldt met ingang van die datum als een aanvraag voor een vergunning voor het verrichten van taxivervoer ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=I&paragraaf=3&artikel=5&z=2010-07-01&g=2010-07-01).
+Een aanvraag voor een vergunning voor het verrichten van taxivervoer die voor de datum van inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2011-01-01&g=2011-01-01) is ingediend ingevolge artikel 57 van de Wet personenvervoer, zoals dit artikel luidde voor de datum van inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2011-01-01&g=2011-01-01), en waarop op de datum van de inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2011-01-01&g=2011-01-01) nog geen beslissing is genomen, geldt met ingang van die datum als een aanvraag voor een vergunning voor het verrichten van taxivervoer ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=I&paragraaf=3&artikel=5&z=2011-01-01&g=2011-01-01).
 
 ##### Artikel 116
 
-1. Een ontheffing van de eis van vakbekwaamheid die voor 1 januari 1988 is verleend op grond van artikel 56a, eerste lid, van de Wet Autovervoer Personen, en die met ingang van die dag is aangemerkt als een ontheffing als bedoeld in artikel 9, tweede lid, van de Wet personenvervoer, geldt met ingang van de dag van inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2010-07-01&g=2010-07-01) als een ontheffing als bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=I&paragraaf=3&artikel=9&z=2010-07-01&g=2010-07-01).
+1. Een ontheffing van de eis van vakbekwaamheid die voor 1 januari 1988 is verleend op grond van artikel 56a, eerste lid, van de Wet Autovervoer Personen, en die met ingang van die dag is aangemerkt als een ontheffing als bedoeld in artikel 9, tweede lid, van de Wet personenvervoer, geldt met ingang van de dag van inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2011-01-01&g=2011-01-01) als een ontheffing als bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=I&paragraaf=3&artikel=9&z=2011-01-01&g=2011-01-01).
 
-2. Degene die op grond van artikel 68 van de Wet Autovervoer Personen werd geacht te voldoen aan de eis van vakbekwaamheid, bedoeld in artikel 56a, eerste lid, van die wet, en op grond van artikel 105 van de Wet personenvervoer werd geacht te voldoen aan de eis van vakbekwaamheid, bedoeld in artikel 9, eerste lid, van die wet, voldoet aan de eis van vakbekwaamheid, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=I&paragraaf=3&artikel=9&z=2010-07-01&g=2010-07-01).
+2. Degene die op grond van artikel 68 van de Wet Autovervoer Personen werd geacht te voldoen aan de eis van vakbekwaamheid, bedoeld in artikel 56a, eerste lid, van die wet, en op grond van artikel 105 van de Wet personenvervoer werd geacht te voldoen aan de eis van vakbekwaamheid, bedoeld in artikel 9, eerste lid, van die wet, voldoet aan de eis van vakbekwaamheid, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=I&paragraaf=3&artikel=9&z=2011-01-01&g=2011-01-01).
 
-3. Een ontheffing van de eis van vakbekwaamheid die is verleend op grond van artikel 9, tweede lid, van de Wet personenvervoer, geldt met ingang van de dag van inwerkingtreding van [artikel 113](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=2&artikel=113&z=2010-07-01&g=2010-07-01) als een ontheffing als bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=I&paragraaf=3&artikel=9&z=2010-07-01&g=2010-07-01).
+3. Een ontheffing van de eis van vakbekwaamheid die is verleend op grond van artikel 9, tweede lid, van de Wet personenvervoer, geldt met ingang van de dag van inwerkingtreding van [artikel 113](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=2&artikel=113&z=2011-01-01&g=2011-01-01) als een ontheffing als bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=I&paragraaf=3&artikel=9&z=2011-01-01&g=2011-01-01).
 
 ##### Artikel 117
 
@@ -1109,15 +1103,15 @@ Vervallen
 
 ##### Artikel 118
 
-1. Een dienstregeling voor het lokaal of interlokaal openbaar vervoer zoals deze gold op de dag voor de inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2010-07-01&g=2010-07-01), blijft geldig tot uiterlijk een jaar na die dag. Het recht inzake de vaststelling, wijziging en uitvoering van de dienstregeling zoals dat gold op de dag voor de inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2010-07-01&g=2010-07-01) blijft van toepassing.
+1. Een dienstregeling voor het lokaal of interlokaal openbaar vervoer zoals deze gold op de dag voor de inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2011-01-01&g=2011-01-01), blijft geldig tot uiterlijk een jaar na die dag. Het recht inzake de vaststelling, wijziging en uitvoering van de dienstregeling zoals dat gold op de dag voor de inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2011-01-01&g=2011-01-01) blijft van toepassing.
 
-2. Een dienstregeling waarvoor op grond van de Wet personenvervoer door de vervoerder een voorstel is ingediend, en waarop door het ingevolge die wet tot vaststellen bevoegde bestuursorgaan op de dag van inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2010-07-01&g=2010-07-01) nog niet is beslist, wordt voor een tijdvak van ten hoogste zes maanden vastgesteld volgens het recht zoals dat gold voor die dag. Het recht inzake de vaststelling, wijziging en uitvoering van de dienstregeling zoals dat gold op de dag voor de inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2010-07-01&g=2010-07-01) blijft van toepassing.
+2. Een dienstregeling waarvoor op grond van de Wet personenvervoer door de vervoerder een voorstel is ingediend, en waarop door het ingevolge die wet tot vaststellen bevoegde bestuursorgaan op de dag van inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2011-01-01&g=2011-01-01) nog niet is beslist, wordt voor een tijdvak van ten hoogste zes maanden vastgesteld volgens het recht zoals dat gold voor die dag. Het recht inzake de vaststelling, wijziging en uitvoering van de dienstregeling zoals dat gold op de dag voor de inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2011-01-01&g=2011-01-01) blijft van toepassing.
 
-3. [Artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=1&artikel=19&z=2010-07-01&g=2010-07-01) is niet van toepassing op het verrichten van openbaar vervoer op grond van een dienstregeling die is vastgesteld overeenkomstig het eerste of tweede lid.
+3. [Artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=1&artikel=19&z=2011-01-01&g=2011-01-01) is niet van toepassing op het verrichten van openbaar vervoer op grond van een dienstregeling die is vastgesteld overeenkomstig het eerste of tweede lid.
 
-4. De [artikelen 30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=3&artikel=30&z=2010-07-01&g=2010-07-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=1&artikel=46&z=2010-07-01&g=2010-07-01) en [78](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=V&artikel=78&z=2010-07-01&g=2010-07-01) zijn van overeenkomstige toepassing op het verrichten van openbaar vervoer op grond van een dienstregeling die is vastgesteld overeenkomstig het eerste of tweede lid. Artikel 19 is niet van toepassing op het verrichten van openbaar vervoer op grond van een dienstregeling die is vastgesteld overeenkomstig het eerste of tweede lid.
+4. De [artikelen 30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=3&artikel=30&z=2011-01-01&g=2011-01-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=1&artikel=46&z=2011-01-01&g=2011-01-01) en [78](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=V&artikel=78&z=2011-01-01&g=2011-01-01) zijn van overeenkomstige toepassing op het verrichten van openbaar vervoer op grond van een dienstregeling die is vastgesteld overeenkomstig het eerste of tweede lid. Artikel 19 is niet van toepassing op het verrichten van openbaar vervoer op grond van een dienstregeling die is vastgesteld overeenkomstig het eerste of tweede lid.
 
-5. De [artikelen 36 tot en met 40](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=36&z=2010-07-01&g=2010-07-01) zijn van overeenkomstige toepassing op het eindigen van het verrichten van openbaar vervoer op grond van een dienstregeling als bedoeld in het eerste of tweede lid, voor zover deze beëindiging wordt gevolgd door het ingaan van een concessie, verleend aan een andere vervoerder, voor het verrichten van een geheel of gedeeltelijk dezelfde voorziening van openbaar vervoer als dat werd verricht op grond van die dienstregeling.
+5. De [artikelen 36 tot en met 40](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=36&z=2011-01-01&g=2011-01-01) zijn van overeenkomstige toepassing op het eindigen van het verrichten van openbaar vervoer op grond van een dienstregeling als bedoeld in het eerste of tweede lid, voor zover deze beëindiging wordt gevolgd door het ingaan van een concessie, verleend aan een andere vervoerder, voor het verrichten van een geheel of gedeeltelijk dezelfde voorziening van openbaar vervoer als dat werd verricht op grond van die dienstregeling.
 
 ##### Artikel 119
 
@@ -1125,13 +1119,13 @@ Vervallen
 
 ##### Artikel 120
 
-1. Een besluit tot aanwijzing van een gemeente als bedoeld in artikel 39 van de Wet personenvervoer zoals dit luidde voor de inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2010-07-01&g=2010-07-01) behoudt zijn geldigheid tot het moment waarop Onze Minister het besluit intrekt.
+1. Een besluit tot aanwijzing van een gemeente als bedoeld in artikel 39 van de Wet personenvervoer zoals dit luidde voor de inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2011-01-01&g=2011-01-01) behoudt zijn geldigheid tot het moment waarop Onze Minister het besluit intrekt.
 
 2. Bij ministeriële regeling kunnen regels worden gesteld over de wijze waarop Onze Minister toepassing geeft aan de bevoegdheid tot intrekken van een besluit als bedoeld in het eerste lid.
 
 ##### Artikel 121
 
-1. Indien een plusregio als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=20&z=2010-07-01&g=2010-07-01) wordt opgeheven, zijn de colleges van burgemeester en wethouders van de gemeenten die de plusregio vormden, bevoegd tot het verlenen, wijzigen of intrekken van concessies voor openbaar vervoer ten behoeve van die gemeenten, voor zover zij daartoe door Onze Minister zijn aangewezen.
+1. Indien een plusregio als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=20&z=2011-01-01&g=2011-01-01) wordt opgeheven, zijn de colleges van burgemeester en wethouders van de gemeenten die de plusregio vormden, bevoegd tot het verlenen, wijzigen of intrekken van concessies voor openbaar vervoer ten behoeve van die gemeenten, voor zover zij daartoe door Onze Minister zijn aangewezen.
 
 2. Een aanwijzing als bedoeld in het eerste lid wordt gedaan indien Onze Minister dit doelmatig acht.
 
@@ -1141,19 +1135,19 @@ Vervallen
 
 ##### Artikel 122
 
-Keuringsbewijzen, duplicaten van keuringsbewijzen en andere bewijzen die zijn afgegeven op basis van artikel 69 van de Wet personenvervoer zoals dit artikel luidde voor de inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2010-07-01&g=2010-07-01) behouden hun geldigheid voor de duur van de termijn waarvoor zij zijn afgegeven.
+Keuringsbewijzen, duplicaten van keuringsbewijzen en andere bewijzen die zijn afgegeven op basis van artikel 69 van de Wet personenvervoer zoals dit artikel luidde voor de inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2011-01-01&g=2011-01-01) behouden hun geldigheid voor de duur van de termijn waarvoor zij zijn afgegeven.
 
 ##### Artikel 123
 
-1. Ten aanzien van de mogelijkheid om bezwaar te maken of beroep in te stellen tegen een besluit dat voor de dag van inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2010-07-01&g=2010-07-01) is bekendgemaakt, blijft het recht zoals het gold voor die dag van toepassing.
+1. Ten aanzien van de mogelijkheid om bezwaar te maken of beroep in te stellen tegen een besluit dat voor de dag van inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2011-01-01&g=2011-01-01) is bekendgemaakt, blijft het recht zoals het gold voor die dag van toepassing.
 
-2. Ten aanzien van een bezwaar- of beroepschrift dat voor de dag van inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2010-07-01&g=2010-07-01) is ingediend en voor zover daarop bij de inwerkingtreding van deze wet nog niet is beslist, blijft het recht zoals het gold voor die dag van toepassing.
+2. Ten aanzien van een bezwaar- of beroepschrift dat voor de dag van inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2011-01-01&g=2011-01-01) is ingediend en voor zover daarop bij de inwerkingtreding van deze wet nog niet is beslist, blijft het recht zoals het gold voor die dag van toepassing.
 
-3. Ten aanzien van een bezwaar- of beroepschrift dat op of na de dag van inwerkingtreding van deze wet is ingediend en dat is gericht tegen een besluit waartegen voor die dag eveneens bezwaar is gemaakt of beroep is ingesteld, blijft het recht zoals het gold voor de dag van inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2010-07-01&g=2010-07-01) van toepassing.
+3. Ten aanzien van een bezwaar- of beroepschrift dat op of na de dag van inwerkingtreding van deze wet is ingediend en dat is gericht tegen een besluit waartegen voor die dag eveneens bezwaar is gemaakt of beroep is ingesteld, blijft het recht zoals het gold voor de dag van inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2011-01-01&g=2011-01-01) van toepassing.
 
 ##### Artikel 124
 
-In afwijking van [artikel 123](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=2&artikel=123&z=2010-07-01&g=2010-07-01) wordt een bezwaar- of beroepschrift, gericht tegen een besluit omtrent het verrichten van taxivervoer, dat op of na 1 januari 2000 op grond van de Wet personenvervoer is ingediend en voor zover daarop bij de inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2010-07-01&g=2010-07-01) nog niet is beslist, afgehandeld volgens deze wet.
+In afwijking van [artikel 123](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=2&artikel=123&z=2011-01-01&g=2011-01-01) wordt een bezwaar- of beroepschrift, gericht tegen een besluit omtrent het verrichten van taxivervoer, dat op of na 1 januari 2000 op grond van de Wet personenvervoer is ingediend en voor zover daarop bij de inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2011-01-01&g=2011-01-01) nog niet is beslist, afgehandeld volgens deze wet.
 
 #### § 2. Overgangsbepalingen
 
@@ -1229,11 +1223,11 @@ Wijzigt de Wet op de omzetbelasting 1968.
 
 ##### Artikel 142
 
-Na de inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2010-07-01&g=2010-07-01) berust de Regeling maximumtarief en bekendmaking tarieven taxivervoer, op [artikel 84](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VI&paragraaf=2&artikel=84&z=2010-07-01&g=2010-07-01) van deze wet.
+Na de inwerkingtreding van [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=3&artikel=127&z=2011-01-01&g=2011-01-01) berust de Regeling maximumtarief en bekendmaking tarieven taxivervoer, op [artikel 84](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VI&paragraaf=2&artikel=84&z=2011-01-01&g=2011-01-01) van deze wet.
 
 ##### Artikel 143
 
-Indien naar het oordeel van Onze Minister redenen aanwezig zijn voor de inwerkingtreding van de [artikelen 15 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=I&paragraaf=5&artikel=15&z=2010-07-01&g=2010-07-01) en [51 tot en met 60](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=2&artikel=51&z=2010-07-01&g=2010-07-01), mede gelet op de naar zijn oordeel uit het in [artikel 108, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=1&artikel=108&z=2010-07-01&g=2010-07-01), bedoelde onderzoek gebleken ontwikkelingen ter zake van de concurrentieverhoudingen op de Nederlandse markt voor openbaar vervoer en het met een of beide kamers der Staten-Generaal ter zake gevoerd overleg, wordt een ontwerp van een koninklijk besluit tot inwerkingtreding van die artikelen zo spoedig mogelijk aan beide kamers der Staten-Generaal overgelegd.
+Indien naar het oordeel van Onze Minister redenen aanwezig zijn voor de inwerkingtreding van de [artikelen 15 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=I&paragraaf=5&artikel=15&z=2011-01-01&g=2011-01-01) en [51 tot en met 60](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=2&artikel=51&z=2011-01-01&g=2011-01-01), mede gelet op de naar zijn oordeel uit het in [artikel 108, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=VIII&paragraaf=1&artikel=108&z=2011-01-01&g=2011-01-01), bedoelde onderzoek gebleken ontwikkelingen ter zake van de concurrentieverhoudingen op de Nederlandse markt voor openbaar vervoer en het met een of beide kamers der Staten-Generaal ter zake gevoerd overleg, wordt een ontwerp van een koninklijk besluit tot inwerkingtreding van die artikelen zo spoedig mogelijk aan beide kamers der Staten-Generaal overgelegd.
 
 ##### Artikel 144
 
@@ -1259,7 +1253,7 @@ Deze paragraaf is van toepassing op openbaar vervoer, anders dan per trein, en b
 
 1. Voordat een concessie voor openbaar vervoer per trein over de hoofdspoorweginfrastructuur wordt verleend, vraagt Onze Minister advies aan de betrokken beheerder, bedoeld in [artikel 1 van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=1).
 
-2. [Artikel 27, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=27&z=2010-07-01&g=2010-07-01), is van overeenkomstige toepassing.
+2. [Artikel 27, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=2&artikel=27&z=2011-01-01&g=2011-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 29a
 
@@ -1269,7 +1263,7 @@ Een besluit tot verlening of wijziging van een concessie zonder dat daartoe een 
 
 ##### Artikel 32a
 
-Onverminderd [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=3&artikel=32&z=2010-07-01&g=2010-07-01) bevat een concessie voor openbaar vervoer voorschriften tot regeling van de integratie van vervoerbewijzen in het openbaar vervoer.
+Onverminderd [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=3&artikel=32&z=2011-01-01&g=2011-01-01) bevat een concessie voor openbaar vervoer voorschriften tot regeling van de integratie van vervoerbewijzen in het openbaar vervoer.
 
 ##### Artikel 32b
 
@@ -1287,39 +1281,39 @@ Een concessie voor openbaar vervoer per trein kan het voorschrift bevatten dat d
 
 - b. een methode waarmee de waarde op het moment van overgang van de concessie wordt bepaald van de rechten en verplichtingen, bedoeld in het eerste lid, zodanig dat op evenwichtige wijze wordt recht gedaan aan de belangen van zowel de voormalige als de nieuwe concessiehouder.
 
-3. Op verzoek van de concessieverlener verstrekt de concessiehouder met het oog op de verlening van een concessie binnen de bij het verzoek te bepalen termijn een gemotiveerde schatting van de waarde van de rechten en verplichtingen die worden overgedragen of gevestigd, volgens de methode, bedoeld in het tweede lid, onderdeel b. [Artikel 39, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=39&z=2010-07-01&g=2010-07-01), is van overeenkomstige toepassing.
+3. Op verzoek van de concessieverlener verstrekt de concessiehouder met het oog op de verlening van een concessie binnen de bij het verzoek te bepalen termijn een gemotiveerde schatting van de waarde van de rechten en verplichtingen die worden overgedragen of gevestigd, volgens de methode, bedoeld in het tweede lid, onderdeel b. [Artikel 39, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=39&z=2011-01-01&g=2011-01-01), is van overeenkomstige toepassing.
 
-4. De concessieverlener stelt ten behoeve van de voormalige concessiehouder de betaling van de waarde van de rechten en verplichtingen, bedoeld in [artikel 43b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=43b&z=2010-07-01&g=2010-07-01), zeker.
+4. De concessieverlener stelt ten behoeve van de voormalige concessiehouder de betaling van de waarde van de rechten en verplichtingen, bedoeld in [artikel 43b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=43b&z=2011-01-01&g=2011-01-01), zeker.
 
 5. De concessieverlener stelt ten behoeve van de nieuwe concessiehouder de ongestoorde uitoefening van gebruiksrechten van productiemiddelen zeker, voor zover de voormalige concessiehouder rechten of verplichtingen ten aanzien van die productiemiddelen heeft behouden.
 
 6. Het verlenen van een concessie voor openbaar vervoer per trein aan de nieuwe concessiehouder kan door de concessieverlener afhankelijk worden gesteld van een bankgarantie of een andere zekerheid:
 
-- a. ten behoeve van de voormalige concessiehouder voor de betaling van de waarde van de rechten en verplichtingen, bedoeld in [artikel 43b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=43b&z=2010-07-01&g=2010-07-01), of
+- a. ten behoeve van de voormalige concessiehouder voor de betaling van de waarde van de rechten en verplichtingen, bedoeld in [artikel 43b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=43b&z=2011-01-01&g=2011-01-01), of
 
 - b. ten behoeve van de opvolgende concessiehouder voor de ongestoorde uitoefening van gebruiksrechten van productiemiddelen, voor zover de nieuwe concessiehouder rechten of verplichtingen ten aanzien van die productiemiddelen zal behouden.
 
 ##### Artikel 43b
 
-1. De overdracht en vestiging van rechten en verplichtingen ten aanzien van de productiemiddelen ingevolge [artikel 43a](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=43a&z=2010-07-01&g=2010-07-01) vindt plaats op het tijdstip van overgang van de concessie.
+1. De overdracht en vestiging van rechten en verplichtingen ten aanzien van de productiemiddelen ingevolge [artikel 43a](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=43a&z=2011-01-01&g=2011-01-01) vindt plaats op het tijdstip van overgang van de concessie.
 
 2. De nieuwe concessiehouder is de voormalige concessiehouder de waarde verschuldigd van de overgedragen en gevestigde rechten verminderd met de waarde van de overgedragen en gevestigde verplichtingen overeenkomstig hetgeen ter zake in de voormalige concessie is bepaald.
 
-3. Onverminderd [artikel 43a](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=43a&z=2010-07-01&g=2010-07-01) verschaft de voormalige concessiehouder voor zover hij daartoe rechtens bevoegd is, de nieuwe concessiehouder op het tijdstip van overgang van de concessie de feitelijke macht over de over te dragen en te vestigen rechten en verplichtingen.
+3. Onverminderd [artikel 43a](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=43a&z=2011-01-01&g=2011-01-01) verschaft de voormalige concessiehouder voor zover hij daartoe rechtens bevoegd is, de nieuwe concessiehouder op het tijdstip van overgang van de concessie de feitelijke macht over de over te dragen en te vestigen rechten en verplichtingen.
 
 4. De nieuwe concessiehouder is gehouden aan de overdracht en vestiging mee te werken.
 
 5. De kosten van de overdracht en vestiging zijn voor rekening van de nieuwe concessiehouder.
 
-6. Indien als gevolg van de overdracht van rechten en verplichtingen sprake is van overgang van een onderneming waarop [titel 10, afdeling 8, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&afdeling=8) van toepassing is en dientengevolge rechten en verplichtingen ten aanzien van personen als bedoeld in [artikel 32b](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=3&artikel=32b&z=2010-07-01&g=2010-07-01) overgaan op de nieuwe concessiehouder, is de voormalige concessiehouder jegens de nieuwe concessiehouder ter zake gehouden hem de kosten te vergoeden die gemaakt zijn om de desbetreffende arbeidsovereenkomst te beëindigen. Daarenboven is de voormalige concessiehouder jegens de nieuwe concessiehouder per geval een direct opeisbare geldsom verschuldigd van € 100 000.
+6. Indien als gevolg van de overdracht van rechten en verplichtingen sprake is van overgang van een onderneming waarop [titel 10, afdeling 8, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&afdeling=8) van toepassing is en dientengevolge rechten en verplichtingen ten aanzien van personen als bedoeld in [artikel 32b](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=3&artikel=32b&z=2011-01-01&g=2011-01-01) overgaan op de nieuwe concessiehouder, is de voormalige concessiehouder jegens de nieuwe concessiehouder ter zake gehouden hem de kosten te vergoeden die gemaakt zijn om de desbetreffende arbeidsovereenkomst te beëindigen. Daarenboven is de voormalige concessiehouder jegens de nieuwe concessiehouder per geval een direct opeisbare geldsom verschuldigd van € 100 000.
 
 7. In afwijking van het vierde lid is de nieuwe concessiehouder niet gehouden aan de overdracht van materieel mee te werken, indien het de eerste aanbesteding van een concessie voor regionaal openbaar vervoer op een gedecentraliseerde lijn betreft na de inwerkingtreding van dit artikel.
 
 ##### Artikel 43c
 
-1. Aan een concessie kunnen nadere voorschriften worden verbonden ten aanzien van de toepassing van de [artikelen 43a](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=43a&z=2010-07-01&g=2010-07-01) en [43b](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=43b&z=2010-07-01&g=2010-07-01).
+1. Aan een concessie kunnen nadere voorschriften worden verbonden ten aanzien van de toepassing van de [artikelen 43a](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=43a&z=2011-01-01&g=2011-01-01) en [43b](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=43b&z=2011-01-01&g=2011-01-01).
 
-2. In een concessie voor openbaar vervoer per trein kan de toepasselijkheid van [artikel 43a](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=43a&z=2010-07-01&g=2010-07-01) worden uitgesloten.
+2. In een concessie voor openbaar vervoer per trein kan de toepasselijkheid van [artikel 43a](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II&paragraaf=4&artikel=43a&z=2011-01-01&g=2011-01-01) worden uitgesloten.
 
 ### Hoofdstuk III. Bepalingen inzake de aanbesteding en verlening van concessies
 
@@ -1343,7 +1337,7 @@ Een concessie voor openbaar vervoer per trein kan het voorschrift bevatten dat d
 
 #### § 1. Internationaal vervoer
 
-#### § 2. Taxivervoer
+#### § 1. Internationaal vervoer
 
 ### Hoofdstuk VI. Internationaal vervoer en taxivervoer
 
@@ -1359,7 +1353,7 @@ Een concessie voor openbaar vervoer per trein kan het voorschrift bevatten dat d
 
 ##### Artikel 121a
 
-[Artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=2&artikel=51&z=2010-07-01&g=2010-07-01) is niet van toepassing op openbaar vervoer dat wordt verricht op grond van een concessie die is verleend na aanbesteding, indien de aanbesteding heeft plaatsgevonden voor de inwerkingtreding van [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=2&artikel=51&z=2010-07-01&g=2010-07-01).
+[Artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=2&artikel=51&z=2011-01-01&g=2011-01-01) is niet van toepassing op openbaar vervoer dat wordt verricht op grond van een concessie die is verleend na aanbesteding, indien de aanbesteding heeft plaatsgevonden voor de inwerkingtreding van [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=2&artikel=51&z=2011-01-01&g=2011-01-01).
 
 #### § 3. Wijziging van andere wetten
 
@@ -1369,7 +1363,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### § 6. Bepalingen inzake marktactiviteiten van gemeentelijke vervoerbedrijven en houders van langdurige concessies
 
-#### § 7. Bijzondere bepalingen inzake door Onze Minister te verlenen concessies
+#### § 6. Bepalingen inzake marktactiviteiten van gemeentelijke vervoerbedrijven en houders van langdurige concessies
 
 ##### Artikel 69a
 
@@ -1479,7 +1473,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### § 4. De aanbestedingsplicht
 
-#### § 5. De gemeentelijke vervoerbedrijven
+#### § 5. Bijzondere bepalingen inzake door Onze Minister te verlenen concessies
 
 #### § 6. Bepalingen inzake marktactiviteiten van gemeentelijke vervoerbedrijven en houders van langdurige concessies
 
@@ -1487,7 +1481,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Hoofdstuk V. De rijksbijdrage voor exploitatie van openbaar vervoer
 
-#### § 2. Taxivervoer
+#### § 1. Toezicht en opsporing
 
 ### Hoofdstuk VII. Handhaving
 
@@ -1517,9 +1511,81 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### § 1. Internationaal vervoer
 
+#### § 1. Internationaal vervoer
+
+### Hoofdstuk VII. Handhaving
+
+#### § 2. Dwang- en strafbepalingen
+
+### Hoofdstuk VIII. Overige bepalingen
+
+#### § 1. Bepalingen van verschillende aard
+
+#### § 2. Overgangsbepalingen
+
+#### § 3. Wijziging van andere wetten
+
+#### § 4. Slotbepalingen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 19a
+
+Dit onderdeel is nog niet inwerking getreden
+
+#### § 2. Concessieverlening
+
+#### § 3. Uitvoering van een concessie
+
+#### § 4. Overgang, beëindiging en overdracht van een concessie
+
+### Hoofdstuk III. Bepalingen inzake de aanbesteding en verlening van concessies
+
+#### § 1. Algemene bepalingen inzake aanbesteding van concessies
+
+#### § 2. De verklaring van geen bezwaar
+
+#### § 4. De aanbestedingsplicht
+
+### Hoofdstuk IV. Bepalingen voor de reiziger
+
+### Hoofdstuk V. De rijksbijdrage voor exploitatie van openbaar vervoer
+
+### Hoofdstuk VI. Internationaal vervoer en taxivervoer
+
 #### § 2. Taxivervoer
 
 ### Hoofdstuk VII. Handhaving
+
+#### § 2. Dwang- en strafbepalingen
+
+### Hoofdstuk VIII. Overige bepalingen
+
+#### § 1. Bepalingen van verschillende aard
+
+#### § 2. Overgangsbepalingen
+
+#### § 3. Wijziging van andere wetten
+
+#### § 4. Slotbepalingen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 66a
+
+1. Voorafgaand aan de verlening van een concessie voor het hoofdrailnet, stelt Onze Minister een programma van eisen vast als bedoeld in [artikel 44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=III&paragraaf=1&artikel=44&z=2012-06-06&g=2011-01-01).
+
+2. Voordat Onze Minister het programma van eisen vaststelt, legt hij dit programma voor aan de Tweede Kamer der Staten-Generaal.
+
+### Hoofdstuk IV. Bepalingen voor de reiziger
+
+### Hoofdstuk V. De rijksbijdrage voor exploitatie van openbaar vervoer
+
+### Hoofdstuk VI. Internationaal vervoer en taxivervoer
+
+### Hoofdstuk VII. Handhaving
+
+#### § 1. Toezicht en opsporing
 
 #### § 2. Dwang- en strafbepalingen
 
