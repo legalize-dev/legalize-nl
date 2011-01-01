@@ -4,7 +4,7 @@ identifier: "BWBR0025024"
 country: "nl"
 rank: "wet"
 publication_date: "2012-01-01"
-last_updated: "2010-01-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025024"
 soort: "wet"
@@ -106,21 +106,21 @@ Wijzigt de Wet studiefinanciering 2000.
 
 ##### Artikel XVI
 
-Indien het voorstel van wet van de leden Wolfsen en Luchtenveld tot aanvulling van de Algemene wet bestuursrecht met doeltreffendere rechtsmiddelen tegen niet tijdig beslissen door bestuursorganen (Wet dwangsom en beroep bij niet tijdig beslissen) (Kamerstukken 29 934) kracht van wet verkrijgt en in werking treedt, vindt paragraaf 4.1.3.2 (Dwangsom bij niet tijdig beslissen) van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) tot 1 januari 2011 geen toepassing bij beschikkingen ingevolge de [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472) en beslissingen op bezwaar tegen zodanige beschikkingen.
+[Paragraaf 4.1.3.2. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.2) vindt voor het eerst toepassing met betrekking tot ingevolge de [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472) te nemen of genomen beschikkingen met betrekking tot het berekeningsjaar 2012.
 
 ##### Artikel XVII
 
 1. Deze wet treedt in werking met ingang van 1 januari 2009.
 
-2. In afwijking van het eerste lid werkt [artikel VII, onderdeel 0A](https://wetten.overheid.nl/jci1.3:c:BWBR0025024&artikel=VII&z=2010-01-01&g=2010-01-01), terug tot en met het tijdstip waarop zonder deze wijziging van de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672)[artikel 2, zevende lid, eerste volzin, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=2) van toepassing zou zijn geworden op de in dat onderdeel, onder 2, genoemde lichamen.
+2. In afwijking van het eerste lid werkt [artikel VII, onderdeel 0A](https://wetten.overheid.nl/jci1.3:c:BWBR0025024&artikel=VII&z=2011-01-01&g=2011-01-01), terug tot en met het tijdstip waarop zonder deze wijziging van de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672)[artikel 2, zevende lid, eerste volzin, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=2) van toepassing zou zijn geworden op de in dat onderdeel, onder 2, genoemde lichamen.
 
-3. In afwijking van het eerste lid treedt [artikel VII, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0025024&artikel=VII&z=2010-01-01&g=2010-01-01), in werking op het tijdstip waarop het [besluit van 23 juni 2008, houdende wijziging van het Besluit Centraal Fonds voor de Volkshuisvesting (subsidie aan toegelaten instellingen voor de wijkenaanpak) en van het Besluit beheer sociale-huursector](https://wetten.overheid.nl/jci1.3:c:BWBR0024065) (Stb. 239) in werking treedt op grond van [artikel V, eerste volzin, van het eerstgenoemde besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024065&artikel=V), en werkt – indien die inwerkingtreding is gelegen vóór 1 januari 2009 – terug tot en met het tijdstip van die inwerkingtreding.
+3. In afwijking van het eerste lid treedt [artikel VII, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0025024&artikel=VII&z=2011-01-01&g=2011-01-01), in werking op het tijdstip waarop het [besluit van 23 juni 2008, houdende wijziging van het Besluit Centraal Fonds voor de Volkshuisvesting (subsidie aan toegelaten instellingen voor de wijkenaanpak) en van het Besluit beheer sociale-huursector](https://wetten.overheid.nl/jci1.3:c:BWBR0024065) (Stb. 239) in werking treedt op grond van [artikel V, eerste volzin, van het eerstgenoemde besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024065&artikel=V), en werkt – indien die inwerkingtreding is gelegen vóór 1 januari 2009 – terug tot en met het tijdstip van die inwerkingtreding.
 
-4. In afwijking van het eerste lid treden de [artikelen XI](https://wetten.overheid.nl/jci1.3:c:BWBR0025024&artikel=XI&z=2010-01-01&g=2010-01-01) en [XII](https://wetten.overheid.nl/jci1.3:c:BWBR0025024&artikel=XII&z=2010-01-01&g=2010-01-01) in werking met ingang van 31 december 2008.
+4. In afwijking van het eerste lid treden de [artikelen XI](https://wetten.overheid.nl/jci1.3:c:BWBR0025024&artikel=XI&z=2011-01-01&g=2011-01-01) en [XII](https://wetten.overheid.nl/jci1.3:c:BWBR0025024&artikel=XII&z=2011-01-01&g=2011-01-01) in werking met ingang van 31 december 2008.
 
-5. In afwijking van het eerste lid treden [artikel XIII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0025024&artikel=XIII&z=2010-01-01&g=2010-01-01), en [artikel XIV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0025024&artikel=XIV&z=2010-01-01&g=2010-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip.
+5. In afwijking van het eerste lid treden [artikel XIII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0025024&artikel=XIII&z=2011-01-01&g=2011-01-01), en [artikel XIV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0025024&artikel=XIV&z=2011-01-01&g=2011-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-6. In afwijking van het eerste lid treedt [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025024&artikel=IV&z=2010-01-01&g=2010-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip. De voordracht voor het koninklijk besluit, bedoeld in de eerste volzin, wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd. De voordracht wordt niet gedaan indien binnen die vier weken door of namens een der kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers om overleg over het ontwerp wordt gevraagd en dit overleg niet tot instemming leidt.
+6. In afwijking van het eerste lid treedt [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025024&artikel=IV&z=2011-01-01&g=2011-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip. De voordracht voor het koninklijk besluit, bedoeld in de eerste volzin, wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd. De voordracht wordt niet gedaan indien binnen die vier weken door of namens een der kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers om overleg over het ontwerp wordt gevraagd en dit overleg niet tot instemming leidt.
 
 ##### Artikel XVIII
 
