@@ -4,7 +4,7 @@ identifier: "BWBR0025277"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2010-07-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025277"
 soort: "AMvB"
@@ -64,47 +64,47 @@ In dit besluit wordt verstaan onder:
 
 1. De eigen bijdrage, die een natuurlijk persoon verschuldigd is voor de verlening van rechtsbijstand op basis van een toevoeging, bedraagt in gevallen waarin uitsluitend zijn inkomen of vermogen in aanmerking wordt genomen:
 
-- a. € 98,– per 1 januari 2010: € 100., indien het inkomen niet hoger is dan € 16 800,– per 1 januari 2010: € 17.200.;
+- a. € 98,– per 1 januari 2011: € 101., indien het inkomen niet hoger is dan € 16 800,– per 1 januari 2011: € 17.300.;
 
-- b. € 154,– per 1 januari 2010: € 158., indien het inkomen meer dan € 16 800,– per 1 januari 2010: € 17.200. en ten hoogste € 17 300,– per 1 januari 2010: € 17.700. bedraagt;
+- b. € 154,– per 1 januari 2011: € 159., indien het inkomen meer dan € 16 800,– per 1 januari 2011: € 17.300. en ten hoogste € 17 300,– per 1 januari 2011: € 17.900. bedraagt;
 
-- c. € 265,– per 1 januari 2010: € 272., indien het inkomen meer dan € 17 300,– per 1 januari 2010: € 17.700. en ten hoogste € 18 200,– per 1 januari 2010: € 18.700. bedraagt;
+- c. € 265,– per 1 januari 2011: € 274., indien het inkomen meer dan € 17 300,– per 1 januari 2011: € 17.900. en ten hoogste € 18 200,– per 1 januari 2011: € 18.900. bedraagt;
 
-- d. € 466,– per 1 januari 2010: € 478., indien het inkomen meer dan € 18 200,– per 1 januari 2010: € 18.700. en ten hoogste € 20 000,– per 1 januari 2010: € 20.500. bedraagt; en
+- d. € 466,– per 1 januari 2011: € 482., indien het inkomen meer dan € 18 200,– per 1 januari 2011: € 18.900. en ten hoogste € 20 000,– per 1 januari 2011: € 20.700. bedraagt; en
 
-- e. € 732,– per 1 januari 2010: € 750., indien het inkomen meer dan € 20 000,– per 1 januari 2010: € 20.500. en ten hoogste € 23 800,– per 1 januari 2010: € 24.400. bedraagt.
+- e. € 732,– per 1 januari 2011: € 757., indien het inkomen meer dan € 20 000,– per 1 januari 2011: € 20.700. en ten hoogste € 23 800,– per 1 januari 2011: € 24.600. bedraagt.
 
 2. De eigen bijdrage, die een natuurlijk persoon verschuldigd is voor de verlening van rechtsbijstand op basis van een toevoeging, bedraagt in andere gevallen:
 
-- a. € 98,– per 1 januari 2010: € 100., indien het inkomen niet hoger is dan € 23 400,– per 1 januari 2010: € 24.000.;
+- a. € 98,– per 1 januari 2011: € 101., indien het inkomen niet hoger is dan € 23 400,– per 1 januari 2011: € 24.200.;
 
-- b. € 154,– per 1 januari 2010: € 158., indien het inkomen meer dan € 23 400,– per 1 januari 2010: € 24.000. en ten hoogste € 24 200,– per 1 januari 2010: € 24.800. bedraagt;
+- b. € 154,– per 1 januari 2011: € 159., indien het inkomen meer dan € 23 400,– per 1 januari 2011: € 24.200. en ten hoogste € 24 200,– per 1 januari 2011: € 25.000. bedraagt;
 
-- c. € 265,– per 1 januari 2010: € 272., indien het inkomen meer dan € 24 200,– per 1 januari 2010: € 24.800. en ten hoogste € 25 500,– per 1 januari 2010: € 26.100. bedraagt;
+- c. € 265,– per 1 januari 2011: € 274., indien het inkomen meer dan € 24 200,– per 1 januari 2011: € 25.000. en ten hoogste € 25 500,– per 1 januari 2011: € 26.300. bedraagt;
 
-- d. € 466,– per 1 januari 2010: € 478., indien het inkomen meer dan € 25 500,– per 1 januari 2010: € 26.100. en ten hoogste € 28 300,– per 1 januari 2010: € 29.000. bedraagt; en
+- d. € 466,– per 1 januari 2011: € 482., indien het inkomen meer dan € 25 500,– per 1 januari 2011: € 26.300. en ten hoogste € 28 300,– per 1 januari 2011: € 29.300. bedraagt; en
 
-- e. € 732,– per 1 januari 2010: € 750., indien het inkomen meer dan € 28 300,– per 1 januari 2010: € 29.000. en ten hoogste € 33 600,– per 1 januari 2010: € 34.400. bedraagt.
+- e. € 732,– per 1 januari 2011: € 757., indien het inkomen meer dan € 28 300,– per 1 januari 2011: € 29.300. en ten hoogste € 33 600,– per 1 januari 2011: € 34.700. bedraagt.
 
 3. In afwijking van het eerste onderscheidenlijk tweede lid bedraagt de eigen bijdrage, die een natuurlijk persoon verschuldigd is voor de verlening van rechtsbijstand bestaande uit het geven van eenvoudig rechtskundig advies, in gevallen waarin uitsluitend zijn inkomen of vermogen in aanmerking wordt genomen onderscheidenlijk in andere gevallen:
 
-- a. € 39,– per 1 januari 2010: € 40., indien het inkomen ten hoogste € 17 300,– per 1 januari 2010: € 17.700. onderscheidenlijk ten hoogste € 24 200,– per 1 januari 2010: € 24.800. bedraagt; en
+- a. € 39,– per 1 januari 2011: € 40., indien het inkomen ten hoogste € 17 300,– per 1 januari 2011: € 17.900. onderscheidenlijk ten hoogste € 24 200,– per 1 januari 2011: € 25.000. bedraagt; en
 
-- b. € 72,– per 1 januari 2010: € 74., indien het inkomen meer dan € 17 300,– per 1 januari 2010: € 17.700. en ten hoogste € 23 800,– per 1 januari 2010: € 24.400. onderscheidenlijk meer dan € 24 200,– per 1 januari 2010: € 24.800. en ten hoogste € 33 600,– per 1 januari 2010: € 34.400. bedraagt.
+- b. € 72,– per 1 januari 2011: € 75., indien het inkomen meer dan € 17 300,– per 1 januari 2011: € 17.900. en ten hoogste € 23 800,– per 1 januari 2011: € 24.600. onderscheidenlijk meer dan € 24 200,– per 1 januari 2011: € 25.000. en ten hoogste € 33 600,– per 1 januari 2011: € 34.700. bedraagt.
 
 4. Indien een natuurlijk persoon blijkens een betalingsbewijs de eigen bijdrage, bedoeld in het derde lid, heeft voldaan, wordt deze in mindering gebracht op de eigen bijdrage die hij in geval van een wijziging van de toevoeging als bedoeld in [artikel 24a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=24a) overeenkomstig het eerste of tweede lid voor de verlening van rechtsbijstand op basis van een toevoeging is verschuldigd.
 
-5. De eigen bijdrage, die een rechtspersoon verschuldigd is voor de verlening van rechtsbijstand op basis van een toevoeging, bedraagt € 732,– per 1 januari 2010: € 750..
+5. De eigen bijdrage, die een rechtspersoon verschuldigd is voor de verlening van rechtsbijstand op basis van een toevoeging, bedraagt € 732,– per 1 januari 2011: € 757..
 
 ##### Artikel 3
 
-1. De inkomensgrenzen, bedoeld in [artikel 2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&hoofdstuk=2&artikel=2&z=2010-07-01&g=2010-07-01), alsmede de hoogten van de eigen bijdragen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&hoofdstuk=2&artikel=2&z=2010-07-01&g=2010-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&hoofdstuk=2&artikel=4&z=2010-07-01&g=2010-07-01), worden jaarlijks met ingang van 1 januari aangepast met het percentage waarmee het indexcijfer van de lonen op 31 oktober van het voorafgaande jaar afwijkt van het overeenkomstige indexcijfer op 31 oktober in het daaraan voorafgaande jaar, met dien verstande dat de aan te passen inkomensgrenzen worden afgerond op het naastliggende veelvoud van € 100,– en de aan te passen hoogten van de eigen bijdragen worden afgerond op het naastliggende veelvoud van € 1,–. [Artikel 1 van het Besluit omschrijving indexcijfer](https://wetten.overheid.nl/jci1.3:c:BWBR0009721&artikel=1) is van overeenkomstige toepassing.
+1. De inkomensgrenzen, bedoeld in [artikel 2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&hoofdstuk=2&artikel=2&z=2011-01-01&g=2011-01-01), alsmede de hoogten van de eigen bijdragen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&hoofdstuk=2&artikel=2&z=2011-01-01&g=2011-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&hoofdstuk=2&artikel=4&z=2011-01-01&g=2011-01-01), worden jaarlijks met ingang van 1 januari aangepast met het percentage waarmee het indexcijfer van de lonen op 31 oktober van het voorafgaande jaar afwijkt van het overeenkomstige indexcijfer op 31 oktober in het daaraan voorafgaande jaar, met dien verstande dat de aan te passen inkomensgrenzen worden afgerond op het naastliggende veelvoud van € 100,– en de aan te passen hoogten van de eigen bijdragen worden afgerond op het naastliggende veelvoud van € 1,–. [Artikel 1 van het Besluit omschrijving indexcijfer](https://wetten.overheid.nl/jci1.3:c:BWBR0009721&artikel=1) is van overeenkomstige toepassing.
 
 2. Onze Minister maakt jaarlijks de geïndexeerde bedragen, bedoeld in het eerste lid, bekend door publicatie in de Staatscourant.
 
 ##### Artikel 4
 
-In afwijking van [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&hoofdstuk=2&artikel=2&z=2010-07-01&g=2010-07-01), bedraagt de eigen bijdrage, die een natuurlijk persoon verschuldigd is voor de verlening van rechtsbijstand op basis van een toevoeging, € 98,– per 1 januari 2010: € 100., indien het gaat om de verlening van rechtsbijstand:
+In afwijking van [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&hoofdstuk=2&artikel=2&z=2011-01-01&g=2011-01-01), bedraagt de eigen bijdrage, die een natuurlijk persoon verschuldigd is voor de verlening van rechtsbijstand op basis van een toevoeging, € 98,– per 1 januari 2011: € 101., indien het gaat om de verlening van rechtsbijstand:
 
 - a. in hoger beroep tegen de afwijzing van het verzoek om toepassing van de schuldsaneringsregeling, bedoeld in [artikel 292 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=292);
 
@@ -128,7 +128,7 @@ In afwijking van [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jc
 
 ##### Artikel 5
 
-1. Indien binnen zes maanden na verlening van een toevoeging ten behoeve van rechtsbijstand aan een natuurlijk persoon, onder oplegging van een eigen bijdrage als bedoeld in [artikel 2, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&hoofdstuk=2&artikel=2&z=2010-07-01&g=2010-07-01), of [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&hoofdstuk=2&artikel=4&z=2010-07-01&g=2010-07-01), een of meer toevoegingen ten behoeve van rechtsbijstand worden verleend aan dezelfde persoon of aan degene met wie hij een gezamenlijke huishouding voerde op het moment van verlening van eerstgenoemde toevoeging, bedraagt de eigen bijdrage bij de eerstvolgende en de twee daaropvolgende toevoegingen ten behoeve van rechtsbijstand binnen genoemde termijn van zes maanden, vijftig procent van de eerst opgelegde eigen bijdrage.
+1. Indien binnen zes maanden na verlening van een toevoeging ten behoeve van rechtsbijstand aan een natuurlijk persoon, onder oplegging van een eigen bijdrage als bedoeld in [artikel 2, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&hoofdstuk=2&artikel=2&z=2011-01-01&g=2011-01-01), of [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&hoofdstuk=2&artikel=4&z=2011-01-01&g=2011-01-01), een of meer toevoegingen ten behoeve van rechtsbijstand worden verleend aan dezelfde persoon of aan degene met wie hij een gezamenlijke huishouding voerde op het moment van verlening van eerstgenoemde toevoeging, bedraagt de eigen bijdrage bij de eerstvolgende en de twee daaropvolgende toevoegingen ten behoeve van rechtsbijstand binnen genoemde termijn van zes maanden, vijftig procent van de eerst opgelegde eigen bijdrage.
 
 2. Voor de toepasselijkheid van het eerste lid wordt met toevoegingen waarbij geen eigen bijdrage wordt opgelegd geen rekening gehouden. Met toevoegingen die zijn verleend aan degene die met de natuurlijk persoon een gezamenlijke huishouding voert, wordt voor de toepasselijkheid van het eerste lid alleen rekening gehouden, indien deze persoon hierom verzoekt en het een zaak betreft waarin geen onderling tegenstrijdige belangen aan de orde zijn.
 
