@@ -4,7 +4,7 @@ identifier: "BWBR0028491"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2026-04-10"
-last_updated: "2010-10-10"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028491"
 soort: "AMvB-BES"
@@ -161,7 +161,7 @@ De gratificatie, bedoeld in [artikel 75 van de wet](https://wetten.overheid.nl/j
 
 3. De beslissing op het bezwaar is een beschikking als bedoeld in artikel 3, eerste lid, van de Wet ambtenarenrechtspraak BES. Indien met deze beslissing niet of niet geheel aan het bezwaar van de ambtenaar wordt tegemoetgekomen, wordt hem in de mededeling, bedoeld in het voorgaande lid, tevens medegedeeld dat hij bij het gerecht in ambtenarenzaken in beroep kan komen en de termijn waarbinnen dit dient te geschieden.
 
-### Hoofdstuk VII. Overgangs- en slotbepalingen
+### Hoofdstuk VI. Administratief beroep
 
 ##### Artikel 13
 
@@ -228,11 +228,3 @@ Aan de ambtenaar, die in januari 2011 in dienst was van de staat, wordt een eenm
 ### Hoofdstuk V. Ambtswoningen
 
 ### Hoofdstuk VII. Overgangs- en slotbepalingen
-
-##### Artikel 19
-
-Vervallen
-
-##### Artikel 20
-
-Vervallen
