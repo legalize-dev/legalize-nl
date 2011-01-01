@@ -4,7 +4,7 @@ identifier: "BWBR0028987"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-12-31"
-last_updated: "2010-11-26"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028987"
 soort: "AMvB"
@@ -70,15 +70,15 @@ Op de leden met rechtspraak belast van de Centrale Raad van Beroep onderscheiden
 
 ##### Artikel 2
 
-Op de gerechtsauditeurs bij de Centrale Raad van Beroep onderscheidenlijk het College van Beroep voor het bedrijfsleven is het krachtens de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) bij algemene maatregel van bestuur bepaalde, voor zover betrekking hebbend op gerechtsauditeurs, met uitzondering van de [artikelen 2g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=2g), [2i, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=2i), [34b, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=34b), [36c, eerste lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=36c), en [36m, eerste lid, onderdeel b, van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=36m), van overeenkomstige toepassing, met dien verstande dat:
+Op de senior-gerechtsauditeurs en gerechtsauditeurs bij de Centrale Raad van Beroep onderscheidenlijk het College van Beroep voor het bedrijfsleven is het krachtens de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) bij algemene maatregel van bestuur bepaalde, voor zover betrekking hebbend op senior-gerechtsauditeurs en gerechtsauditeurs, met uitzondering van de [artikelen 2g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=2g), [2i, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=2i), [34b, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=34b), [36c, eerste lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=36c), en [36m, eerste lid, onderdeel b, van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=36m), van overeenkomstige toepassing, met dien verstande dat:
 
 - a. het bestuur van de Centrale Raad van Beroep onderscheidenlijk het College van Beroep voor het bedrijfsleven wordt aangemerkt als hun functionele autoriteit;
 
 - b. de eed of belofte wordt afgelegd ten overstaan van een enkelvoudige of meervoudige kamer van de Centrale Raad van Beroep onderscheidenlijk het College van Beroep voor het bedrijfsleven en niet wordt afgenomen op requisitoir van het openbaar ministerie of de procureur-generaal bij de Hoge Raad;
 
-- c. het formulier volgens welke de eed of belofte wordt afgelegd na het afleggen hiervan wordt ondertekend door de gerechtsauditeur alsmede het lid met rechtspraak belast dat zitting heeft in de enkelvoudige kamer, bedoeld in onderdeel b, dan wel voorzitter is van de meervoudige kamer, bedoeld in onderdeel b;
+- c. het formulier volgens welke de eed of belofte wordt afgelegd na het afleggen hiervan wordt ondertekend door de senior-gerechtsauditeur en gerechtsauditeur alsmede het lid met rechtspraak belast dat zitting heeft in de enkelvoudige kamer, bedoeld in onderdeel b, dan wel voorzitter is van de meervoudige kamer, bedoeld in onderdeel b;
 
-- d. het bestuur van de Centrale Raad van Beroep onderscheidenlijk het College van Beroep voor het bedrijfsleven een register bijhoudt waarin de besluiten betreffende de benoeming van de daar beëdigde gerechtsauditeurs en de formulieren betreffende de door die gerechtsauditeurs afgelegde eed of belofte worden bewaard;
+- d. het bestuur van de Centrale Raad van Beroep onderscheidenlijk het College van Beroep voor het bedrijfsleven een register bijhoudt waarin de besluiten betreffende de benoeming van de daar beëdigde senior-gerechtsauditeurs en gerechtsauditeurs en de formulieren betreffende de door die senior-gerechtsauditeurs en gerechtsauditeurs afgelegde eed of belofte worden bewaard;
 
 - e. zij voor de overeenkomstige toepassing van de [artikelen 2e, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=2e), en [3 van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=3) worden gelijkgesteld met rechterlijke ambtenaren van wie het een benoeming in een bij een gerechtshof of rechtbank te vervullen ambt betreft;
 
@@ -88,7 +88,7 @@ Op de gerechtsauditeurs bij de Centrale Raad van Beroep onderscheidenlijk het Co
 
 ##### Artikel 3
 
-Bij regeling van Onze Minister van Veiligheid en Justitie worden regels gesteld met betrekking tot de overeenkomstige toepassing van het krachtens de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) bij ministeriële regeling bepaalde ten aanzien van de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028987&artikel=1&z=2010-11-26&g=2010-11-26) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0028987&artikel=2&z=2010-11-26&g=2010-11-26) bedoelde leden met rechtspraak belast en gerechtsauditeurs.
+Bij regeling van Onze Minister van Veiligheid en Justitie worden regels gesteld met betrekking tot de overeenkomstige toepassing van het krachtens de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) bij ministeriële regeling bepaalde ten aanzien van de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028987&artikel=1&z=2011-01-01&g=2011-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0028987&artikel=2&z=2011-01-01&g=2011-01-01) bedoelde leden met rechtspraak belast en senior-gerechtsauditeurs en gerechtsauditeurs.
 
 ##### Artikel 4
 
