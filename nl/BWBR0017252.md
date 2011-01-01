@@ -4,7 +4,7 @@ identifier: "BWBR0017252"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-01"
-last_updated: "2010-10-14"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017252"
 soort: "ministeriele-regeling"
@@ -72,7 +72,7 @@ Het vast te stellen bedrag, bedoeld in de [artikelen 1.24, eerste tot en met der
 
 ##### Artikel 4. Voorkoming samenloop toeslag
 
-Indien de ouder of zijn partner gedurende een berekeningsjaar een persoon is als bedoeld in [artikel 1.6, eerste lid, onder c, e of f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.6), terwijl de ander een persoon is als bedoeld in [artikel 1.6, eerste lid, onder h of i van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.6), wordt het bedrag, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=2&artikel=3&z=2010-10-14&g=2010-10-14), uitsluitend uitbetaald aan de ouder die een persoon is als bedoeld in [artikel 1.6, eerste lid, onder h of i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.6).
+Indien de ouder of zijn partner gedurende een berekeningsjaar een persoon is als bedoeld in [artikel 1.6, eerste lid, onder c, e of f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.6), terwijl de ander een persoon is als bedoeld in [artikel 1.6, eerste lid, onder h of i van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.6), wordt het bedrag, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=2&artikel=3&z=2011-01-01&g=2011-01-01), uitsluitend uitbetaald aan de ouder die een persoon is als bedoeld in [artikel 1.6, eerste lid, onder h of i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.6).
 
 #### Paragraaf 3. Regels inzake registratie van voorzieningen
 
@@ -186,7 +186,7 @@ Voor de toepassing van [artikel 3, eerste lid, onderdeel a, van het Besluit desk
 
 3. Het verslag dat het college ingevolge [artikel 1.67, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.67) aan de gemeenteraad en de Minister zendt, staat tevens ten dienste van de Inspectie voor het Onderwijs.
 
-4. Een verslag wordt ingericht overeenkomstig het als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&bijlage=3&z=2010-10-14&g=2010-10-14) bij deze regeling opgenomen model.
+4. Een verslag wordt ingericht overeenkomstig het als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&bijlage=3&z=2011-01-01&g=2011-01-01) bij deze regeling opgenomen model.
 
 #### Paragraaf 7. Kinderopvang buiten Nederland
 
@@ -208,19 +208,19 @@ Vervallen
 
 ##### Artikel 15. Kinderopvang in Duitsland
 
-1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2010-10-14&g=2010-10-14), in Duitsland wordt gerekend een kindercentrum, waarbij de houder beschikt over een geldige exploitatievergunning.
+1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-01-01&g=2011-01-01), in Duitsland wordt gerekend een kindercentrum, waarbij de houder beschikt over een geldige exploitatievergunning.
 
-2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2010-10-14&g=2010-10-14), wordt gerekend een geldige exploitatievergunning verleend door het Jugendamt.
+2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-01-01&g=2011-01-01), wordt gerekend een geldige exploitatievergunning verleend door het Jugendamt.
 
 ##### Artikel 16. Wijzigingen in centraal register
 
-De minister kan wijzigingen in het centrale register, bedoeld in [artikel 1.48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48), aanbrengen, indien is gebleken dat de ten aanzien van een kinderopvangvoorziening opgenomen gegevens, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2010-10-14&g=2010-10-14), niet overeenstemmen met de werkelijke situatie.
+De minister kan wijzigingen in het centrale register, bedoeld in [artikel 1.48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48), aanbrengen, indien is gebleken dat de ten aanzien van een kinderopvangvoorziening opgenomen gegevens, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-01-01&g=2011-01-01), niet overeenstemmen met de werkelijke situatie.
 
 #### Paragraaf 5a. Bepalingen voor gastouderbureaus
 
 ##### Artikel 17. Overgangsbepaling met betrekking tot gemeentelijk verslag
 
-De verplichting van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=6&artikel=12&z=2010-10-14&g=2010-10-14) geldt voor het eerst over het kalenderjaar volgend op het kalenderjaar waarop dat artikel in werking is getreden.
+De verplichting van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=6&artikel=12&z=2011-01-01&g=2011-01-01) geldt voor het eerst over het kalenderjaar volgend op het kalenderjaar waarop dat artikel in werking is getreden.
 
 ##### Artikel 18. Tijdstip van inwerkingtreding
 
@@ -240,25 +240,23 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 15a. Kinderopvang in Zwitserland, kanton Genève en kanton Zürich
 
-1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2010-10-14&g=2010-10-14), in Zwitserland, kanton Genève, wordt gerekend een erkende gastouder (‘maman de jour’).
+1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-01-01&g=2011-01-01), in Zwitserland, kanton Genève, wordt gerekend een erkende gastouder (‘maman de jour’).
 
-2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2010-10-14&g=2010-10-14), wordt gerekend een geldige erkenning van de Republique et canton de Genève, verleend door het Département de l’instruction publique, office de la jeunesse.
+2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-01-01&g=2011-01-01), wordt gerekend een geldige erkenning van de Republique et canton de Genève, verleend door het Département de l’instruction publique, office de la jeunesse.
 
-3. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2010-10-14&g=2010-10-14), in Zwitserland, kanton Zürich, wordt gerekend een erkend kindercentrum.
+3. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-01-01&g=2011-01-01), in Zwitserland, kanton Zürich, wordt gerekend een erkend kindercentrum.
 
-4. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2010-10-14&g=2010-10-14), wordt gerekend een geldige erkenning van de overheid, daartoe gerechtigd op grond van de ‘Richtlinien über die Bewilligung von Kinderkrippen’.
+4. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-01-01&g=2011-01-01), wordt gerekend een geldige erkenning van de overheid, daartoe gerechtigd op grond van de ‘Richtlinien über die Bewilligung von Kinderkrippen’.
 
 ##### Artikel 15b. Kinderopvang in de Verenigde Staten, stad New York
 
-1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2010-10-14&g=2010-10-14), in de Verenigde Staten van Amerika, stad New York, wordt gerekend een erkend kindercentrum.
-
-2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2010-10-14&g=2010-10-14), wordt gerekend een geldige erkenning verleend door de City of New York.
+Vervallen
 
 ##### Artikel 15c. Kinderopvang in Oostenrijk, stad Wenen
 
-1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2010-10-14&g=2010-10-14), in Oostenrijk, stad Wenen, wordt gerekend een erkend kindercentrum.
+1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-01-01&g=2011-01-01), in Oostenrijk, stad Wenen, wordt gerekend een erkend kindercentrum.
 
-2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2010-10-14&g=2010-10-14), wordt gerekend:
+2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-01-01&g=2011-01-01), wordt gerekend:
 
 - a. een geldige erkenning verleend door de gemeente Wenen op grond van het Wiener Tagesbetreuungsgesetz en de Wiener Tagesbetreuungsverordnung, of
 
@@ -274,55 +272,55 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 15d. Kinderopvang in het Verenigd Koninkrijk/Engeland
 
-1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2010-10-14&g=2010-10-14), in het Verenigd Koninkrijk wordt gerekend:
+1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-01-01&g=2011-01-01), in het Verenigd Koninkrijk wordt gerekend:
 
 - a. een erkend kindercentrum: full day care, crèches, out of school care;
 
 - b. geregistreerde gastouders (registered childminders).
 
-2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2010-10-14&g=2010-10-14), wordt gerekend een document van registratie en inspectie verleend door Ofsted (Office for Standards in Education).
+2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-01-01&g=2011-01-01), wordt gerekend een document van registratie en inspectie verleend door Ofsted (Office for Standards in Education).
 
 ##### Artikel 15e. Kinderopvang in het Verenigd Koninkrijk/Schotland
 
-1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2010-10-14&g=2010-10-14), in Schotland wordt gerekend een erkend kindercentrum (full day care).
+1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-01-01&g=2011-01-01), in Schotland wordt gerekend een erkend kindercentrum (full day care).
 
-2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2010-10-14&g=2010-10-14), wordt gerekend een geldige erkenning verleend door de Scottish Commission for the Regulation of Care.
+2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-01-01&g=2011-01-01), wordt gerekend een geldige erkenning verleend door de Scottish Commission for the Regulation of Care.
 
 ##### Artikel 15f. Kinderopvang in het Verenigd Koninkrijk/Noord Ierland
 
-1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2010-10-14&g=2010-10-14), in Noord Ierland wordt gerekend een erkend kindercentrum (full day care).
+1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-01-01&g=2011-01-01), in Noord Ierland wordt gerekend een erkend kindercentrum (full day care).
 
-2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2010-10-14&g=2010-10-14), wordt gerekend een geldig Certificate of Registration.
+2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-01-01&g=2011-01-01), wordt gerekend een geldig Certificate of Registration.
 
 ##### Artikel 15g. Kinderopvang in Ierland
 
-1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2010-10-14&g=2010-10-14), in Ierland wordt gerekend een erkend kindercentrum (full day care).
+1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-01-01&g=2011-01-01), in Ierland wordt gerekend een erkend kindercentrum (full day care).
 
-2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2010-10-14&g=2010-10-14), wordt gerekend een registratie door de Health Services Executive.
+2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-01-01&g=2011-01-01), wordt gerekend een registratie door de Health Services Executive.
 
 ##### Artikel 15h. Kinderopvang in Frankrijk/stad Parijs
 
-1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2010-10-14&g=2010-10-14), in Frankrijk, stad Parijs, wordt gerekend een erkend kindercentrum (etablissement d’accueil d’enfants).
+1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-01-01&g=2011-01-01), in Frankrijk, stad Parijs, wordt gerekend een erkend kindercentrum (etablissement d’accueil d’enfants).
 
-2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2010-10-14&g=2010-10-14), wordt gerekend een registratie door L’action sociale, de l’enfance et de la santé.
+2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-01-01&g=2011-01-01), wordt gerekend een registratie door L’action sociale, de l’enfance et de la santé.
 
 ##### Artikel 15i. Kinderopvang in Spanje/Catalonië
 
-1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2010-10-14&g=2010-10-14), in Spanje/Catalonië wordt gerekend een erkend kindercentrum.
+1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-01-01&g=2011-01-01), in Spanje/Catalonië wordt gerekend een erkend kindercentrum.
 
-2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2010-10-14&g=2010-10-14), wordt gerekend een erkenning door de regionale overheid.
+2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-01-01&g=2011-01-01), wordt gerekend een erkenning door de regionale overheid.
 
 ##### Artikel 15j. Kinderopvang in Portugal
 
-1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2010-10-14&g=2010-10-14), in Portugal wordt gerekend een erkend kindercentrum (crèche, educação pre-escolar).
+1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-01-01&g=2011-01-01), in Portugal wordt gerekend een erkend kindercentrum (crèche, educação pre-escolar).
 
-2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2010-10-14&g=2010-10-14), wordt gerekend een vergunning verstrekt door de Centro Regional de Segurança Social.
+2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-01-01&g=2011-01-01), wordt gerekend een vergunning verstrekt door de Centro Regional de Segurança Social.
 
 ##### Artikel 15k. Kinderopvang verbonden aan internationale scholen
 
-1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2010-10-14&g=2010-10-14), verbonden aan internationale scholen wordt gerekend een door Council of International Schools erkend kindercentrum.
+1. Tot een kinderopvangvoorziening als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-01-01&g=2011-01-01), verbonden aan internationale scholen wordt gerekend een door Council of International Schools erkend kindercentrum.
 
-2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2010-10-14&g=2010-10-14), wordt gerekend een bewijs van accreditatie afgegeven door Council of International Schools.
+2. Tot een bewijsstuk als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=13&z=2011-01-01&g=2011-01-01), wordt gerekend een bewijs van accreditatie afgegeven door Council of International Schools.
 
 #### Paragraaf 7a. Aanwijzing van gelijkgestelde buitenlandse kinderopvangvoorzieningen
 
@@ -334,21 +332,25 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 16a. Kinderopvang in België (Vlaanderen en Brussel)
 
-Als buiten Nederland gevestigde kindercentra of gastouderbureaus die worden gelijkgesteld met geregistreerde kindercentra of gastouderbureaus als bedoeld in [artikel 1.48a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48a) worden aangewezen in België (Vlaanderen en Brussel):
+1. Als buiten Nederland gevestigde kindercentra of voorzieningen voor gastouderopvang, die worden gelijkgesteld met geregistreerde kindercentra of voorzieningen voor gastouderopvang, als bedoeld in [artikel 1.48a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48a) worden aangewezen in België (Vlaanderen en Brussel):
 
 - a. kinderdagverblijven,
 
 - b. minicrèches,
 
-- c. initiatieven voor buitenschoolse opvang, en
+- c. initiatieven voor buitenschoolse opvang,
 
-- d. opvanggezinnen, aangesloten bij een dienst voor opvanggezinnen,
+- d. Onthaalouders, aangesloten bij een erkende dienst voor onthaalouders, en
+
+- e. Zelfstandige onthaalouders,
 
 die in het bezit zijn van een geldige erkenning of geldig attest van toezicht verleend door Kind & Gezin.
 
+2. Onthaalouders, bedoeld in het eerste lid, onderdeel d, dienen eveneens in het bezit te zijn van een contract tussen de dienst voor onthaalouders en de onthaalouder.
+
 ##### Artikel 16b. Kinderopvang in België (Wallonië en Brussel)
 
-Als buiten Nederland gevestigde kindercentra of gastouderbureaus die worden gelijkgesteld met geregistreerde kindercentra of gastouderbureaus als bedoeld in [artikel 1.48a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48a) worden aangewezen in België (Wallonië en Brussel):
+Als buiten Nederland gevestigde kindercentra of voorzieningen voor gastouderopvang die worden gelijkgesteld met geregistreerde kindercentra of voorzieningen voor gastouderopvang als bedoeld in [artikel 1.48a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48a) worden aangewezen in België (Wallonië en Brussel):
 
 - a. crèches,
 
@@ -364,15 +366,13 @@ die in het bezit zijn van een geldige erkenning (attestation de qualité) verlee
 
 ##### Artikel 16c. Kinderopvang in Duitsland (Nordrhein-Westfalen)
 
-Als buiten Nederland gevestigde kindercentra of gastouderbureaus die worden gelijkgesteld met geregistreerde kindercentra of gastouderbureaus als bedoeld in [artikel 1.48a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48a) worden aangewezen in Duitsland (Nordrhein-Westfalen):
+Als buiten Nederland gevestigde kindercentra die worden gelijkgesteld met geregistreerde kindercentra als bedoeld in [artikel 1.48a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48a), worden aangewezen in Duitsland (Nordrhein-Westfalen):
 
 - a. Krippen;
 
 - b. Kindergärten;
 
-- c. Horte;
-
-- d. Kindertagespflegen,
+- c. Horte,
 
 die in het bezit zijn van een geldige exploitatievergunning (Betriebserlaubnis), verleend door het Landesjugendamt.
 
@@ -538,9 +538,9 @@ Voor de toepassing van [artikel 3, eerste lid, onderdeel c, van het Besluit desk
 
 Als opleiding, bedoeld in [artikel 4, eerste lid, onderdeel a, van het Besluit basisvoorwaarden kwaliteit voorschoolse educatie](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=4), op tenminste het niveau, bedoeld in[artikel 7.2.2, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2), worden aangewezen:
 
-- a. voor de beroepskracht voorschoolse educatie in een kindercentrum: de beroepsopleidingen, genoemd in de [artikelen 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10a&z=2010-10-14&g=2010-10-14) en [10b](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10b&z=2010-10-14&g=2010-10-14);
+- a. voor de beroepskracht voorschoolse educatie in een kindercentrum: de beroepsopleidingen, genoemd in de [artikelen 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10a&z=2011-01-01&g=2011-01-01) en [10b](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10b&z=2011-01-01&g=2011-01-01);
 
-- b. voor de beroepskracht voorschoolse educatie in een peuterspeelzaal: de beroepsopleidingen, genoemd in [artikel 10a, onderdeel a, b, d, f, g, n, o, p, s, t, v, x, hh, ii, kk, mm, nn, pp of ss](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10a&z=2010-10-14&g=2010-10-14), en de beroepsopleidingen, genoemd in [artikel 10b, onderdelen a, i, k, l, y, g of h](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10b&z=2010-10-14&g=2010-10-14), alsmede:
+- b. voor de beroepskracht voorschoolse educatie in een peuterspeelzaal: de beroepsopleidingen, genoemd in [artikel 10a, onderdeel a, b, d, f, g, n, o, p, s, t, v, x, hh, ii, kk, mm, nn, pp of ss](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10a&z=2011-01-01&g=2011-01-01), en de beroepsopleidingen, genoemd in [artikel 10b, onderdelen a, i, k, l, y, g of h](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10b&z=2011-01-01&g=2011-01-01), alsmede:
 
 - a. Branche Ervaren Peuterspeelzaalleidster (BEP),
 
@@ -616,11 +616,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 9a. Formulier
 
-Het formulier, bedoeld in [artikel 4 van het Besluit registratie kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0026966&artikel=4) wordt, onderscheiden naar categorie voorziening en voor eerste inschrijvingen en wijzigingen, vastgesteld overeenkomstig de bij dit besluit gevoegde [bijlagen 1a tot en met 1g](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&bijlage=1a&z=2010-10-14&g=2010-10-14).
+Het formulier, bedoeld in [artikel 4 van het Besluit registratie kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0026966&artikel=4) wordt, onderscheiden naar categorie voorziening en voor eerste inschrijvingen en wijzigingen, vastgesteld overeenkomstig de bij dit besluit gevoegde [bijlagen 1a tot en met 1g](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&bijlage=1a&z=2011-01-01&g=2011-01-01).
 
 ##### Artikel 9b. Systeembeschrijving
 
-De systeembeschrijving, bedoeld in [artikel 6, derde lid, van het Besluit registratie kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0026966&artikel=6), wordt vastgesteld overeenkomstig de bij dit besluit gevoegde [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&bijlage=2&z=2010-10-14&g=2010-10-14).
+De systeembeschrijving, bedoeld in [artikel 6, derde lid, van het Besluit registratie kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0026966&artikel=6), wordt vastgesteld overeenkomstig de bij dit besluit gevoegde [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&bijlage=2&z=2011-01-01&g=2011-01-01).
 
 ##### Artikel 9c. Taken van de Dienst Uitvoering Onderwijs
 
@@ -650,13 +650,13 @@ De systeembeschrijving, bedoeld in [artikel 6, derde lid, van het Besluit regist
 
 ## Bijlage 1b
 
+## Bijlage 1a
+
 ## Bijlage 1b
 
 ## Bijlage 1c
 
 ## Bijlage 1d
-
-## Bijlage 1e
 
 ### Projectstartarchitectuur Landelijk Register Kinderopvang
 
@@ -668,11 +668,11 @@ Deze ProjectStartArchitectuur (PSA) bevat een eerste opzet voor de architectuur 
 
 De PSA beschrijft de bedrijfsarchitectuur op hoofdlijnen om een gemeenschappelijk referentiekader te kunnen bepalen, waaraan in de verschillende architectuuraspecten gerefereerd wordt. Beschrijvingen van processen, conversie en organisatorische consequentie als gevolg van de [Wet Kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) [2] blijven op hoofdlijnen, maar zullen onder verantwoordelijkheid van een ander deelprogramma/Implementatie worden uitgewerkt. Het beheer zal op hoofdlijnen worden beschreven, maar wordt in een ander deelprogramma Beheer nader uitgewerkt.
 
-### 1. Inleiding
+### Documenthistorie
 
 De PSA beschrijft de bedrijfsarchitectuur op hoofdlijnen om een gemeenschappelijk referentiekader te kunnen bepalen, waaraan in de verschillende architectuuraspecten gerefereerd wordt. Beschrijvingen van processen, conversie en organisatorische consequentie als gevolg van de [Wet Kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) [2] blijven op hoofdlijnen, maar zullen onder verantwoordelijkheid van een ander deelprogramma/Implementatie worden uitgewerkt. Het beheer zal op hoofdlijnen worden beschreven, maar wordt in een ander deelprogramma Beheer nader uitgewerkt.
 
-De PSA beschrijft de bedrijfsarchitectuur op hoofdlijnen om een gemeenschappelijk referentiekader te kunnen bepalen, waaraan in de verschillende architectuuraspecten gerefereerd wordt. Beschrijvingen van processen, conversie en organisatorische consequentie als gevolg van de [Wet Kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) [2] blijven op hoofdlijnen, maar zullen onder verantwoordelijkheid van een ander deelprogramma/Implementatie worden uitgewerkt. Het beheer zal op hoofdlijnen worden beschreven, maar wordt in een ander deelprogramma Beheer nader uitgewerkt.
+Deze ProjectStartArchitectuur (PSA) bevat een eerste opzet voor de architectuur voor een Landelijk Register Kinderopvang. De opzet van het document is gebaseerd op de Nederlandse Overheid Referentie Architectuur (NORA).
 
 De doelgroep voor deze PSA is divers:
 
@@ -680,9 +680,9 @@ Enerzijds is het een document dat (gefaseerd) de kaders voor de tussen- en de ei
 
 ### 1.2. Scope van dit document
 
-Anderzijds is het ook een document dat dient voor afstemming met de architecten van de betrokken partijen als GGD'en, gemeenten en OCW. Deze architecten zijn dus onderdeel van de doelgroep.
+Enerzijds is het een document dat (gefaseerd) de kaders voor de tussen- en de eindoplossing beschrijft als ingangsdocument voor functioneel, technisch en database-ontwerp. Hiermee zijn de functioneel en technisch en ontwerpers/lead developers/DBA's doelgroep van dit document.
 
-Tenslotte moet het document, juist door zijn kaderstellende karakter, ook een belangrijke rol spelen bij het borgen van de kwaliteit van het project. Hiermee is het ook onderwerp van review door Project Assurance, die dus onderdeel uitmaken van de doelgroep.
+Anderzijds is het ook een document dat dient voor afstemming met de architecten van de betrokken partijen als GGD'en, gemeenten en OCW. Deze architecten zijn dus onderdeel van de doelgroep.
 
 Dit document is een PSA en werkt het ‘negen + twee’-vlakmodel van de NORA uit . Voor een gedetailleerde toelichting wordt verwezen naar het NORA 2.0 rapport.
 
@@ -690,23 +690,23 @@ Het geheel aan voorzieningen (systeemcomponenten) dat het totale werkveld van de
 
 ### 1.3. Leeswijzer
 
-**Voorliggende PSA beschrijft de kaders voor het eerste deel van de ICT-ondersteuning, zoals deze per 1 januari 2010 nodig is om te voldoen aan de wet.**
+Het geheel aan voorzieningen (systeemcomponenten) dat het totale werkveld van de uitvoering van de [Wet Kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) op termijn zal ondersteunen, is van dusdanige omvang en complexiteit, dat voor een gefaseerde aanpak is gekozen. In het PID ‘Landelijk Register Kinderopvang’ v1.1 [1] is een volledige beschrijving gegeven van het geheel aan voorzieningen.
 
-Op dat moment zal in elk geval een voorziening gerealiseerd zijn, waarmee de **registratie van kinderopvang** ondersteund kan worden en gedragen wordt door direct betrokkenen, het Landelijk Register (LR). Ook zullen er voorzieningen zijn voor het publiek en relevante overheidspartijen om **toegang tot informatie** over kinderopvang te krijgen.
+**Voorliggende PSA beschrijft de kaders voor het eerste deel van de ICT-ondersteuning, zoals deze per 1 januari 2010 nodig is om te voldoen aan de wet.**
 
 Dit architectuurdocument gebruikt de volgende hoofdstukindeling:
 
 In hoofdstuk 2 wordt de achtergrond van het programma en de oplossing geschetst.
 
-In hoofdstuk 2 wordt de achtergrond van het programma en de oplossing geschetst.
+Dit architectuurdocument gebruikt de volgende hoofdstukindeling:
 
-Hoofdstuk 3 bevat een eerste opdeling in processen en onderkende componenten.
+In hoofdstuk 2 wordt de achtergrond van het programma en de oplossing geschetst.
 
 ### 1.4. Relatie met de andere architectuurdocumenten
 
-Specifieke aandachtspunten en eisen betreffende beveiliging en beheer zijn te vinden in respectievelijk hoofdstuk 7 en 8.
+In de hoofdstukken 4, 5 en 6 worden conform NORA de Bedrijfs-, Informatie- en Technische Architectuur uitgewerkt.
 
-Tenslotte zijn in bijlage A de gebruikte uitgangsdocumenten en in bijlage B de relevante NORA-definities opgenomen en bijlage C bevat een korte uitleg van de gebruikte UML-termen.
+Specifieke aandachtspunten en eisen betreffende beveiliging en beheer zijn te vinden in respectievelijk hoofdstuk 7 en 8.
 
 In dit deel van het project wordt een aantal andere architecturen toegepast als kaderstellend:
 
@@ -714,7 +714,7 @@ Daarnaast zijn er in het aandachtsgebied Kinderopvang een aantal andere referent
 
 ### 1.5. Relatie met andere documenten op lager niveau
 
-MARTHE is nog niet relevant aangezien het als architectuur iets zegt over de processen Toezicht houden en Handhaven en deze zijn beide voor deze PSA-versie nog buiten scope.
+Daarnaast zijn er in het aandachtsgebied Kinderopvang een aantal andere referentiearchitecturen bekend, maar waarvan is vastgesteld, dat deze **in deze eerste fase tot 1-1-2010 niet van toepassing zijn**. Te denken valt aan GEMMA, de gemeentelijke Model Archtitectuur en de Model Architectuur voor Rijkstoezichts- en Handhavingseenheden (MARTHE) [4].
 
 ### 1.5. Relatie met andere documenten op lager niveau
 
@@ -732,7 +732,7 @@ Het programma Landelijk Register Kinderopvang is een breed programma dat uiteind
 
 ### 2.2.1. Probleem
 
-Deze PSA beschrijft zoals reeds vermeld is het eerste deel van de uiteindelijke bijdrage die het ICT-gedeelte van het programma gaat leveren per 1 januari 2010 aan het bereiken van het eindresultaat. In nieuwe opleveringen van deze PSA zal de uiteindelijke oplossing integraal worden beschreven.
+Het programma bestaat, om dit brede doel te realiseren, uit een aantal deelprojecten zoals Implementatie, Beheer en ICT. Het is evident dat er een nauwe relatie is tussen de verschillende deelprojecten.
 
 Reden voor de introductie van deze nieuwe wet is meerledig:
 
@@ -740,9 +740,9 @@ Het probleem dat dit programma dient op te lossen is heel eenvoudig: het onderst
 
 ### 2.2.1. Probleem
 
-Reden voor de introductie van deze nieuwe wet is meerledig:
+Het probleem dat dit programma dient op te lossen is heel eenvoudig: het ondersteunen bij de implementatie van de nieuwe [Wet Kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017).
 
-Daarnaast geldt dat:
+Reden voor de introductie van deze nieuwe wet is meerledig:
 
 Om de bovengenoemde problemen op te lossen is een integrale aanpak nodig, zowel ICT als administratieve organisatie hebben een rol te spelen in de oplossing.
 
@@ -750,15 +750,15 @@ ICT-technisch worden de volgende deel-resultaten onderkend:
 
 ### 2.3. Projectaanpak
 
-Daarnaast moeten de volgende doelstellingen meegenomen worden:
+ICT-technisch worden de volgende deel-resultaten onderkend:
 
-Voorliggende PSA richt zich op de eerste iteratie van de totale oplossing, het inrichten van een Landelijk Register en de mogelijkheden (portalen) voor Publiek en Overheden om het register te ontsluiten. (voornoemde punten 1 en 2)
+Daarnaast moeten de volgende doelstellingen meegenomen worden:
 
 ### 2.3. Projectaanpak
 
 In een latere fase ook:
 
-In een latere fase ook:
+Op basis van de in bovenstaande paragraaf benoemde problemen die opgelost moeten worden en de prioriteit die ligt op het realiseren van een kwalitatief hoogwaardig register volgt de volgende volgorde van op te leveren resultaten:
 
 Zoals hierboven al benoemd is de kern van het op te leveren complex van ICT-voorzieningen het **register** zelf en de andere benoemde voorzieningen ten behoeve van de ontsluiting van de registergegevens.
 
@@ -766,7 +766,7 @@ In deze context ziet de omgeving als volgt uit:
 
 ### 3. Scope en uitgangspunten
 
-Hoe ziet de omgeving er per 1-1-2010 uit?
+In deze context ziet de omgeving als volgt uit:
 
 ### 3. Scope en uitgangspunten
 
@@ -780,7 +780,7 @@ Vooruitlopend op een meer gedetailleerde uitwerking in de verschillende hoofdstu
 
 ### 3.1.1. Processcope ondersteuning
 
-De ICT-ondersteuning voor processen die plaatsvinden binnen de gemeenten (zoals het behandelen van aanvragen voor registratie, het verstrekken van beschikkingen) vallen buiten de scope van dit project.
+Vooruitlopend op een meer gedetailleerde uitwerking in de verschillende hoofdstukken over de bedrijfs-, informatie en technische architectuur (resp. hoofdstuk 4, 5 en 6) wordt in deze iteratie een drietal systeemcomponenten gerealiseerd, die in vervolgfasen verder geïntegreerd zullen worden met de overige benodigde componenten.
 
 ### 3.1.1. Processcope ondersteuning
 
@@ -808,7 +808,7 @@ NB: De referentiearchitectuur Onderwijs bevat een interpretatie van de NORA prin
 
 ### 4. Bedrijfsarchitectuur
 
-DE NORA-TEKSTEN ZIJN LETTERLIJK OVERGENOMEN
+NB: De referentiearchitectuur Onderwijs bevat een interpretatie van de NORA principes die in beginsel van toepassing zijn op deze PSA, zij het dat in de eerste oplevering zoals nu voorziening is per 1-1-2010 niet aan alle principes kan worden voldaan. De reden is dat een deel buiten verantwoordelijkheid van het ICT-project valt, voorts wordt er nu nog geen integrale oplossing wordt gerealiseerd, slechts alleen het Landelijk Register onderdeel. Voor inhoudelijke vertaling van de principes van OCW, wordt verwezen naar het document ‘Referentiearchitectuur Onderwijs’ d.d. 29 september 2008 van B. Gaakeer.
 
 ### 4. Bedrijfsarchitectuur
 
@@ -820,9 +820,9 @@ In het aandachtsgebied van de [Wet Kinderopvang](https://wetten.overheid.nl/jci1
 
 ### 4.1. Inleiding
 
-In het aandachtsgebied zijn vier processen te onderkennen:
+In het aandachtsgebied van de [Wet Kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017), participeren een aantal verschillende organisaties. Elke organisatie heeft wettelijk vastgestelde taken in de uitvoering van de Wet KO. Door de onderlinge samenwerking tussen overheidsorganisaties, kunnen **diensten** worden geleverd aan het publiek en **services** tussen de onderlinge overheden. Om de taken adequaat uit te kunnen voeren en de diensten te kunnen verlenen, wordt gebruik gemaakt van ICT-voorzieningen. Welke overheidsorganisaties betrokken zijn, welke diensten en services geleverd worden en welke processen ervoor nodig zijn, wordt in de verschillende paragrafen van dit hoofdstuk toegelicht.
 
-**NB: de focus van de eerste fase ligt op de processen Registreren en Gebruiken. Gebruiken kent als belanghebbenden publiek, GGD, Belastingdienst, IvhO en OCW.**
+In het aandachtsgebied zijn vier processen te onderkennen:
 
 In hoofdstuk 3 zijn de fundamentele principes van de NORA behandeld. De relevante **afgeleide** principes worden in deze paragraaf nader toegelicht. Per principe wordt een toelichting gegeven op de wijze waarop deze PSA het principe interpreteert.
 
@@ -830,9 +830,9 @@ Het overzicht bevat per (deel)principe de status:
 
 ### 4.3. Organisatie
 
-De ‘P-code’ refereert aan het fundamenteel principe waar het deelprincipe uit afgeleid is. (§ 3.3)
+Het overzicht bevat per (deel)principe de status:
 
-DE NORA-TEKSTEN ZIJN LETTERLIJK OVERGENOMEN UIT VERSIE 2.0
+De ‘P-code’ refereert aan het fundamenteel principe waar het deelprincipe uit afgeleid is. (§ 3.3)
 
 Bij de uitvoering van de [Wet Kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) zijn de volgende organisaties betrokken:
 
@@ -840,33 +840,33 @@ Daarnaast zijn er belanghebbenden die een relevante rol vervullen binnen het aan
 
 ### 4.4. Processen
 
-Vertegenwoordigers namens de GGD'en en Gemeenten gedurende PSA-fase.
+Daarnaast zijn er belanghebbenden die een relevante rol vervullen binnen het aandachtsgebied hetzij in uitvoerende zin, hetzij in afnemende zin.
 
-In een latere fase volgen volgende actoren en/of betrokkenen:
+Vertegenwoordigers namens de GGD'en en Gemeenten gedurende PSA-fase.
 
 Bij de uitvoering van de [Wet Kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) worden processen uitgevoerd door verschillende organisaties die uiteindelijk het doel van de wet moeten gaan realiseren:
 
 **het verbeteren van toezicht op kinderopvang, misbruik en oneigenlijk gebruik van geld en middelen terug te dringen en het stelsel van de Wet kinderopvang toegankelijk en beheersbaar te houden.**
 
-**het verbeteren van toezicht op kinderopvang, misbruik en oneigenlijk gebruik van geld en middelen terug te dringen en het stelsel van de Wet kinderopvang toegankelijk en beheersbaar te houden.**
+Bij de uitvoering van de [Wet Kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) worden processen uitgevoerd door verschillende organisaties die uiteindelijk het doel van de wet moeten gaan realiseren:
 
 ### 4.4.1. Positionering ten opzicht van NORA paradigma
+
+Om de benodigde voorzieningen voor ondersteuning van de processen goed te kunnen ondersteunen zijn de hoofdprocessen opgeknipt in deelprocessen:
 
 Verantwoordelijk voor de uitvoering:
 
-NB: de processen worden op hoofdlijnen en inrichtingsonafhankelijk beschreven, omdat elke gemeente de uitvoering van de wettelijke taken anders kan inrichten. Het project Implementatie zal de procedures en processen nader uitwerken.
-
 ### 4.4.1. Positionering ten opzicht van NORA paradigma
 
 De voor deze PSA relevante ketenprocessen ‘**Registreren nieuwe kinderopvang**’ en ‘**Wijzigen registratie kinderopvang**’ worden verder uitgewerkt.
 
-De voor deze PSA relevante ketenprocessen ‘**Registreren nieuwe kinderopvang**’ en ‘**Wijzigen registratie kinderopvang**’ worden verder uitgewerkt.
+De NORA hanteert een paradigma om de hiërarchie van procestypen te duiden. De voornoemde procesplaat is te matchen met de NORA-definities, zoals uitgewerkt in onderstaande tabel.
 
 ### 4.4.2. Ketenproces Registreren nieuwe kinderopvang
 
 **Mate van ICT-ondersteuning:** alleen het registreren van de kinderopvang in het Landelijk Register wordt in deze eerste fase van het ICT-project LR-GIR KO ondersteund door ICT. De registratie van inspectierapportages door de GGD wordt door bestaande middelen ondersteund. Het aanvraagproces bij de gemeente wordt niet door ICT vanuit het project LR-GIR KO ondersteund.
 
-**Mate van ICT-ondersteuning:** alleen het registreren van de kinderopvang in het Landelijk Register wordt in deze eerste fase van het ICT-project LR-GIR KO ondersteund door ICT. De registratie van inspectierapportages door de GGD wordt door bestaande middelen ondersteund. Het aanvraagproces bij de gemeente wordt niet door ICT vanuit het project LR-GIR KO ondersteund.
+De gemeente ontvangt een aanvraag voor registratie van een kinderopvang in het LR. De aanvraag wordt door de gemeente in behandeling genomen. Na een administratieve toets wordt een opdracht verstrekt aan de GGD voor inspectie. De GGD voert een kwalitatieve toets uit op de documenten en inspecteert afhankelijk van het toetsingskader en de soort kinderopvang de opvanglocatie. Het resultaat van het inspectieproces wordt vastgelegd in een inspectierapport en vergezeld door een advies naar de gemeente gestuurd. De gemeente neemt een besluit en registreert de kinderopvang **definitief** in het Landelijk Register als aan de eisen is voldaan of wijst de aanvraag af. De registratie en de inspectieresultaten worden vervolgens toegankelijk gemaakt voor het publiek.
 
 De **bedrijfsprocessen** zijn een decompositie van de ketenprocessen.
 
@@ -874,13 +874,15 @@ De meeste gemeenten hebben hun handhavingsbeleid vastgelegd. Daarmee is bepaalt 
 
 ### 4.4.2.2. ICT-ondersteuning functies tbv Registreren
 
-Bedrijfsfuncties zijn dus inrichtingsonafhankelijke beschrijvingen van de bijdragen die betrokkenen leveren.
+De meeste gemeenten hebben hun handhavingsbeleid vastgelegd. Daarmee is bepaalt elke gemeente, binnen de kaders van de wet, **hoe** de uitvoering van het beleid plaatsvindt. **Wat** er gedaan moet worden voor de uitvoering staat in de wetgeving vast. Een wijze om het wat te beschrijven is het toepassen van bedrijfsfuncties in plaats van processen.
 
-In de bedrijfsprocessen worden de volgende **functies** uitgevoerd:
+Bedrijfsfuncties zijn dus inrichtingsonafhankelijke beschrijvingen van de bijdragen die betrokkenen leveren.
 
 Het systeemcomplex ondersteunt de volgende functies:
 
 **LRK is het totale -systeemcomplex.**
+
+Het systeemcomplex ondersteunt de volgende functies:
 
 **LRK is het totale -systeemcomplex.**
 
@@ -898,27 +900,25 @@ Het systeemcomplex ondersteunt de volgende functies:
 
 **houder is het geheel aan handelingen van de houder van een KO.**
 
-**In de cellen achter de deelfuncties staan CRUD-tekens dit houdt in:**
-
 ### 4.4.3. Ketenproces Wijzigen registratie kinderopvang
 
-Uit bovenstaande functionele decompositie is af te leiden op welke wijze het Landelijk Register en de verschillende portalen de volgende functies ondersteunen.
+**C= creatie, R = raadplegen, U = updaten (muteren)van gegevens en D = delete (verwijderen).**
 
-De overige functies in het overzicht worden niet door ICT van het project LR-GIR KO ondersteunt, maar worden door de gemeente met procedures uitgevoerd of door gemeentelijke systemen.
+Uit bovenstaande functionele decompositie is af te leiden op welke wijze het Landelijk Register en de verschillende portalen de volgende functies ondersteunen.
 
 Er zijn verschillende aanleidingen om mutaties in het register door te voeren:
 
 ### 4.4.3. Ketenproces Wijzigen registratie kinderopvang
 
-De gemeente behandelt de gemelde wijzigingen en neemt een besluit om vervolgens een handhavingsproces op te starten en/of om direct wijzigingen in te voeren in het Landelijk Register, als de wijzigingen gevolgen hebben voor de geregistreerde gegevens. Afhankelijk van de aard van de gegevens die wijzen, kan een nieuwe inspectie nodig zijn.
+Er zijn verschillende aanleidingen om mutaties in het register door te voeren:
 
-Mate van ICT-ondersteuning: het raadplegen van gegevens uit het LR wordt ondersteund. Daarnaast komt er voor geautoriseerde gebruikers bij of namens de gemeenten functionaliteit om gegevens te muteren in het LR.
+De gemeente behandelt de gemelde wijzigingen en neemt een besluit om vervolgens een handhavingsproces op te starten en/of om direct wijzigingen in te voeren in het Landelijk Register, als de wijzigingen gevolgen hebben voor de geregistreerde gegevens. Afhankelijk van de aard van de gegevens die wijzen, kan een nieuwe inspectie nodig zijn.
 
 ### 4.4.3.1. Procesdecompositie binnen ketenproces Wijzigen registratie kinderopvang
 
 ### 4.4.4. Functionele decompositie Inspecteren, Handhaven en Gebruiken
 
-Dit ketenproces is eruit gelicht, omdat het grootste deel van het ketenproces niet ondersteund wordt door het LR, maar wel het uiteindelijke resultaat vastlegt.
+Alleen het resultaat van het besluiten wordt vastgelegd in het LR.
 
 De eerste oplevering zal voor het publiek, de GGD, de BD en de IvhO functionaliteiten opleveren voor het raadplegen van gegevens uit het LR. De gegevens die getoond mogen worden is vastgelegd in de Wet.
 
@@ -926,9 +926,9 @@ Functionele decompositie voor Inspecteren en Handhaven volgen in een vervolgfase
 
 ### 4.4.4. Functionele decompositie Inspecteren, Handhaven en Gebruiken
 
-De eerste oplevering zal voor het publiek, de GGD, de BD en de IvhO functionaliteiten opleveren voor het raadplegen van gegevens uit het LR. De gegevens die getoond mogen worden is vastgelegd in de Wet.
+Functionele decompositie voor Inspecteren en Handhaven volgen in een vervolgfase na deze PSA deel 1.
 
-Het kunnen raadplegen van de gegevens over kinderopvang door het Publiek (incl. de kinderopvang, vraagouders) is tevens wettelijke bepaald.
+De eerste oplevering zal voor het publiek, de GGD, de BD en de IvhO functionaliteiten opleveren voor het raadplegen van gegevens uit het LR. De gegevens die getoond mogen worden is vastgelegd in de Wet.
 
 ### 4.5. Diensten en services
 
@@ -956,13 +956,13 @@ In de overeenstemming met de scope van deze versie van het PSA heeft informatiea
 
 Deze componenten worden als afzonderlijke ICT producten beschouwd die samen moeten werken om benodigde functionaliteit te kunnen leveren aan de eindgebruikers.
 
-Deze componenten worden als afzonderlijke ICT producten beschouwd die samen moeten werken om benodigde functionaliteit te kunnen leveren aan de eindgebruikers.
+In de overeenstemming met de scope van deze versie van het PSA heeft informatiearchitectuur betrekking op de volgende componenten van de totale oplossing:
 
-Aangezien de expliciete splitsing van het systeemcomplex in afzonderlijk op te leveren componenten, wordt als uitgangspunt voor de architectuur de service-geörienteerde benadering gekozen (SGA). Vanuit de oogpunt van service-oriëntatie, beschouwen wij het Landelijke Register als een goed afgebakende systeem die ontsloten wordt via een set van services. Wij noemen ze de Register Services. Zowel de Overheidsportaal als Publieksportaal maken gebruik van deze services.
+Deze componenten worden als afzonderlijke ICT producten beschouwd die samen moeten werken om benodigde functionaliteit te kunnen leveren aan de eindgebruikers.
 
 ### 5.2. Architectuurplaat
 
-De onderstaand tabel geeft aan de doelgroepen die gebruik kunnen maken van de services van Overheidsportaal waarop ze afzonderlijk geautoriseerd moeten worden
+In de eerste oplevering van het systeemcomplex (1-1-2010) wordt een beperkte set aan services aangeboden. Als uitgangspunt geldt dat in de hoofdstuk 4.4.4 beschreven functies die betrekking hebben op het LR ondersteund worden. Op gebruik van deze functies is een autorisatiemodel van toepassing. Het autorisatiemodel moet door de Overheidsportaal ondersteund worden. Daarnaast wordt die informatie uit het Landelijk Register die als openbaar wordt beschouwd, via een openbare website aangeboden aan alle belangstellenden. Dit vindt plaats via het Publieksportaal.
 
 ### 5.2. Architectuurplaat
 
@@ -988,7 +988,7 @@ Onderstaande figuur geeft de middellange termijn visie aan op de samenhang van d
 
 In deze paragraaf zijn de globale gegevensmodel van het Landelijke Register behandeld, de objectdefinities en de wijze waarop omgegaan moet worden met historische gegevens. Bij het opstellen van het model zijn wetsteksten als uitgangspunt gebruikt.
 
-### 5.3.2.2. Gegevens
+### 5.3.2.1. Applicaties
 
 In deze paragraaf zijn de globale gegevensmodel van het Landelijke Register behandeld, de objectdefinities en de wijze waarop omgegaan moet worden met historische gegevens. Bij het opstellen van het model zijn wetsteksten als uitgangspunt gebruikt.
 
@@ -1024,13 +1024,15 @@ Het aspect historie speelt nadrukkelijke rol in de levenscyclus van de gegevens 
 
 ### 5.4.4.1. Wettelijke eisen
 
-Belastingdienst stelt nog bredere pakken aan eisen m.b.t.’tijdreizen’ en bewaren van oorspronkelijke waarden van gegevens bij de mutaties, te weten:
+Het aspect historie speelt nadrukkelijke rol in de levenscyclus van de gegevens in het LR. In de AMvB is expliciet vastgelegd dat de datum waarop wijziging van gegevens plaats vindt vermeld dient ter worden. Nota van toelichting voegt daarbij dat actuele gegevens in te zien zijn in het register en dat ’oude’ gegevens gedurende periode van 7 jaar worden bewaard (paragraaf 4.2.Inrichting van het register kinderopvang).
 
-Aangezien het Register de primaire bron van de gegevens m.b.t. gecertificeerde kinderopvang instellingen is voor meerdere overheidsinstellingen en dat ze deze gegevens nodig hebben voor de uitvoering van hun wettelijke taken, moet de inhoud van het register voldoen aan de vraag.
+Belastingdienst stelt nog bredere pakken aan eisen m.b.t.’tijdreizen’ en bewaren van oorspronkelijke waarden van gegevens bij de mutaties, te weten:
 
 Als basis voor de invulling van project-specifieke principes voor zijn principes uit de raportage 'Architectuur van het Stelsel, november 2006' gebruikt.
 
 Rapportage spreekt van de volgende twee tijdslijnen m.b.t. attribuutwaarden van objecten in registraties:
+
+Als basis voor de invulling van project-specifieke principes voor zijn principes uit de raportage 'Architectuur van het Stelsel, november 2006' gebruikt.
 
 Rapportage spreekt van de volgende twee tijdslijnen m.b.t. attribuutwaarden van objecten in registraties:
 
@@ -1040,11 +1042,9 @@ In het LR worden allerlei gegevens vastgelegd die betrekking hebben op organisat
 
 Datums van mutaties van gegevens in het LR hebben betrekking op de administratieproces. Moment van opname of wijziging van gegevens in het LR kan van belang zijn voor het bepalen van rechtsgeldigheid van besluiten die op basis van gegeven in het LR zijn genomen.
 
-Datums van geldigheid van gegevens hebben betrekking op de aangehouden werkelijkheid. Het LR is immers de rechtsgeldige bron van gegevens voor het bepalen van recht op toeslag. Geldigheid van bepaalde gegevens kan van invloed zijn op recht op toeslag. Dit is niet hetzelfde als geldigheid van besluit over toekennen van toeslag. Een dergelijk besluit kan genomen zijn op basis van gegevens die op het moment van het nemen van het besluit geldig waren. Zo'n besluit is dus rechtsgeldig tot stand gekomen. Als gegevens op een latere tijdstip niet meer geldig blijken zijn, moet zo'n besluit mogelijk herzien worden op basis van de nieuwe gegevens die op een latere tijdstip bekend zijn geworden. Het oude besluit is niet meer geldig en er komt een nieuw besluit dat betrekking heeft op een periode in het verleden.
-
 ### 5.5. Berichten
 
-**Richtlijnen voor de aangehouden werkelijkheid:**
+Op basis van deze beschouwing kan de vastgesteld worden over de inrichting van het LR:
 
 ### 5.5. Berichten
 
@@ -1058,13 +1058,15 @@ Het beschrijft daarnaast onderbouwd de keuzes die op basis van deze kaders gemaa
 
 ### 6.1. Architectuureisen
 
-Bij het schrijven van dit hoofdstuk is rekening gehouden met alle voorradige informatie, de fasering die in de vorige hoofdstukken is gehanteerd is hier losgelaten om een zo compleet mogelijk beeld te schetsen.
+Het beschrijft daarnaast onderbouwd de keuzes die op basis van deze kaders gemaakt zijn en de eventuele aanvullende aannames die nodig waren.
 
-Helaas is het beeld nog niet volledig, dus in een volgende fase kan dit hoofdstuk eventueel nog aangepast worden. Ook uit de nog uit te voeren risicoanalyse kunnen nog nieuwe eisen komen die verwerkt moeten worden.
+Bij het schrijven van dit hoofdstuk is rekening gehouden met alle voorradige informatie, de fasering die in de vorige hoofdstukken is gehanteerd is hier losgelaten om een zo compleet mogelijk beeld te schetsen.
 
 De eisen waarop de keuze voor onderliggende techniek gebaseerd zijn komen uit een aantal aandachtsgebieden, namelijk overheidsbeleid (zowel centraal als OCW-specifiek), non-functional requirements, beveiligingsbeleid en beheer.
 
 De eisen vanuit beheer en beveiligingsbeleid zijn te vinden in respectievelijk hoofdstuk 7 en 8, de impact ervan op techniek en infrastructuur is wel meegenomen.
+
+De eisen waarop de keuze voor onderliggende techniek gebaseerd zijn komen uit een aantal aandachtsgebieden, namelijk overheidsbeleid (zowel centraal als OCW-specifiek), non-functional requirements, beveiligingsbeleid en beheer.
 
 De eisen vanuit beheer en beveiligingsbeleid zijn te vinden in respectievelijk hoofdstuk 7 en 8, de impact ervan op techniek en infrastructuur is wel meegenomen.
 
@@ -1076,13 +1078,11 @@ Deze zijn voor het systeem-complex nog niet in detail bekend, voor zover bekend 
 
 Voor de huidige GIR-KO geldt de volgende non-functional requirements, uit eisen-documenten en de bestaande SNO:
 
-Deze eisen zijn in de uitgangsdocumentatie van het Publieksportaal [6] bijna één-op-één overgenomen, hoewel dit qua aantallen concurrent gebruikers een lage schatting lijkt. In plaats daarvan worden de volgende aannames betreffende non-functional gedaan:
-
 ### 6.2. Applicatie en database
 
 ### 6.2.1. Applicatie-gerelateerd
 
-Resultante eisen op basis van deze aannames:
+Aannames over gebruikersaantallen en gegevensomvang:
 
 Deze keuze betekent dat hardware en besturingssysteem 'vrij' zijn, JEE wordt op alle normale hardware en besturingssysteem ondersteund en is voor bedrijfskritische web-applicaties de open source marktstandaard.
 
@@ -1090,7 +1090,7 @@ De belangrijkste keuze is het gebruik van JEE 1.5 [Java Enterprise Edition] als 
 
 ### 6.2.1. Applicatie-gerelateerd
 
-Deze keuze betekent dat hardware en besturingssysteem 'vrij' zijn, JEE wordt op alle normale hardware en besturingssysteem ondersteund en is voor bedrijfskritische web-applicaties de open source marktstandaard.
+De belangrijkste keuze is het gebruik van JEE 1.5 [Java Enterprise Edition] als platform voor het ontwikkelen van de componenten waar het systeemcomplex uit is opgebouwd.
 
 ### 6.2.1.1. Webrichtlijnen
 
@@ -1104,29 +1104,31 @@ Voor het Landelijk Register zelf geldt dat gegeven
 
 ### 6.3. Middleware
 
-Dit omdat Oracle een bewezen en marktconforme oplossing is, ook voor deze volumes, grootte en complexiteit, waarvoor in ruime mate kennis in de markt aanwezig is. Ook kan
+Voor het Landelijk Register zelf geldt dat gegeven
 
-Voor de andere onderkende en nog te onderkennen componenten worden geen afwijkingen van open source marktstandaarden voorzien.
+Dit omdat Oracle een bewezen en marktconforme oplossing is, ook voor deze volumes, grootte en complexiteit, waarvoor in ruime mate kennis in de markt aanwezig is. Ook kan
 
 De niet-bulk communicatie met externe systemen verloopt via webservices conform NORA.
 
 De interne communicatie tussen de verschillende componenten loopt via services. Voor de in deze eerste fase op te leveren interne services is nog geen noodzaak om deze als webservice extern te ontsluiten.
 
+De niet-bulk communicatie met externe systemen verloopt via webservices conform NORA.
+
 De interne communicatie tussen de verschillende componenten loopt via services. Voor de in deze eerste fase op te leveren interne services is nog geen noodzaak om deze als webservice extern te ontsluiten.
 
 Over bulk-communicatie met de Belastingdienst moet nog bepaald worden hoe dit gebeurt, via FTP, fysiek medium of via webservices met attachments.
 
-Voor de mogelijk op te leveren directe koppelingen naar gemeente-systemen of aansluiting op GBA wordt zo mogelijk gebruik gemaakt van de GEMMA-infrastructuur, GEMNET.
-
 ### 6.4. Platformen
 
-Om een juiste werking van het systeemcomplex te kunnen garanderen, moet de servicebus zijn verantwoordelijkheden kunnen invullen. Hiervoor moet de servicebus voldoen aan de volgende kwaliteitseisen:
+Gegeven het feit dat alle communicatie tussen de externe systemen en de componenten via webservices loopt is gebruik van een servicebus een vereiste. Vanuit eenvoud is het handig om gebruik te maken van binnen ICTU bekende technologie.
 
-De OSB 2.0-standaarden moeten gebruikt worden, voor de koppelvlakken met de gemeente wordt rekening gehouden met de StUF-standaarden.
+Om een juiste werking van het systeemcomplex te kunnen garanderen, moet de servicebus zijn verantwoordelijkheden kunnen invullen. Hiervoor moet de servicebus voldoen aan de volgende kwaliteitseisen:
 
 Deze paragraaf beschrijft de uitgangspunten betreffende platformen.
 
 Let op, er wordt niet de volledige inrichtingsplaat beschreven, slechts de kaders worden benoemd. De daadwerkelijke inrichting hoort thuis in het Deployment Document horende bij de verschillende implementaties.
+
+Deze paragraaf beschrijft de uitgangspunten betreffende platformen.
 
 Let op, er wordt niet de volledige inrichtingsplaat beschreven, slechts de kaders worden benoemd. De daadwerkelijke inrichting hoort thuis in het Deployment Document horende bij de verschillende implementaties.
 
@@ -1134,11 +1136,9 @@ De eisen zullen beschreven worden onderverdeeld in de volgende categorieën:
 
 **Hardware en Operating Systeem:**
 
-Transparant vanwege het gebruik van Java.
-
 ### 6.5. Netwerkarchitectuur
 
-De eisen die gesteld moeten worden betreffende infrastructurele software zijn:
+Standaard wordt gebruik gemaakt van Linux, tenzij de software de op deze hardware moet gaan draaien een ander operating systeem vereist. Op basis van de niet-functionele eisen op het gebied van prestaties en performance wordt de sizing van de hardware uitgevoerd. Virtualisatie moet ondersteund worden.
 
 ### 6.5. Netwerkarchitectuur
 
@@ -1154,7 +1154,7 @@ Op basis van de functionele en niet/functionele eisen die aan het Landelijk Regi
 
 ### 7. Beheer
 
-De inhoud van dit hoofdstuk is gebaseerd op deze set van eisen en is nog niet afgestemd met de (nog niet bekende) toekomstige beheerpartij. In deze paragraaf wordt uitgegaan van één toekomstige beheerpartij.
+Op basis van de functionele en niet/functionele eisen die aan het Landelijk Register-complex gesteld worden is een eerste set aan eisen ten behoeve van beheer af te leiden.
 
 ### 7.1. Eisen
 
@@ -1170,13 +1170,13 @@ De volgende beveiligingsspecifieke kaders en standaarden zijn gebruikt bij het o
 
 Voor de rijksoverheid is het Voorschrift Informatiebeveiliging Rijksdienst 2007 (VIR 2007) leidend. Hierin wordt aangegeven (artikel 4) dat ‘het lijnmanagement is verantwoordelijk voor de beveiliging van zijn informatiesystemen’.
 
-Voor de rijksoverheid is het Voorschrift Informatiebeveiliging Rijksdienst 2007 (VIR 2007) leidend. Hierin wordt aangegeven (artikel 4) dat ‘het lijnmanagement is verantwoordelijk voor de beveiliging van zijn informatiesystemen’.
+De volgende beveiligingsspecifieke kaders en standaarden zijn gebruikt bij het opstellen van dit hoofdstuk in de PSA. De standaard-architectuurkaders als NORA zijn natuurlijk ook meegenomen.
 
 ### 8.1.1. Typering van informatie: WBP-classificatie
 
-Het Vir-bi is bedoeld als extra aanvulling op het VIR ten behoeve van interdepartementale uitwisseling van kwetsbare informatie.
+Met betrekking tot informatiebeveiliging ‘Stelt [het lijnmanagement] op basis van een expliciete risico afweging de betrouwbaarheidseisen voor zijn informatiesystemen vast’.
 
-Elektronische dienstverlening moet de vertrouwelijkheid van persoonlijke data garanderen, inclusief maatregelen die het mogelijk maken om aan te geven of data voor andere doeleinden mogen worden gebruikt dan waarvoor zij zijn verstrekt. Er moet worden vastgesteld welk type persoonlijke gegevens (volgens WBP) in de generieke voorziening worden verwerkt en vastgelegd.
+Het Vir-bi is bedoeld als extra aanvulling op het VIR ten behoeve van interdepartementale uitwisseling van kwetsbare informatie.
 
 ### 8.1.1. Typering van informatie: WBP-classificatie
 
@@ -1216,7 +1216,7 @@ Vooruitlopend op deze uitwerking zijn de volgende eisen te hanteren:
 
 ### 8.4. Te nemen algemene beveiligingsmaatregelen
 
-Deze eisen moeten in het beveiligingsplan nader uitgewerkt worden.
+Vooruitlopend op deze uitwerking zijn de volgende eisen te hanteren:
 
 ### 8.4. Te nemen algemene beveiligingsmaatregelen
 
@@ -1238,7 +1238,7 @@ Hieronder een beknopte samenvatting van de belangrijkste begrippen uit de object
 
 Hieronder een beknopte samenvatting van de belangrijkste begrippen uit de objectoriëntatie met de bijbehorende UML-notatie. Voor een uitvoerige beschrijving van notatie en betekenis wordt verwezen naar de UML Notification Guide.
 
-### Documenthistorie
+### Procesmodel LRK-applicatie
 
 Dit document beschrijft het globaal functioneel procesmodel. Het is onderdeel van het globaal functioneel ontwerp (GFO) van het Landelijk Register Kinderopvang.
 
@@ -1276,7 +1276,7 @@ In de PSA Landelijk Register Kinderopvang wordt gesproken over LRK-systeemcomple
 
 ### 2.1. Overview LRK-systeemcomplex
 
-Hierbij is een drietal systeemcomponenten onderkend:
+In de PSA Landelijk Register Kinderopvang wordt gesproken over LRK-systeemcomplex per 01-01-2010. Het voorliggende document is een nadere concretisering van het LRK-systeemcomplex uit de Informatie-architectuur (hoofdstuk 5).
 
 ### 2.2. Functionele decompositie
 
@@ -1292,35 +1292,35 @@ De aanvrager stelt een aanvraag op voor registratie in het Landelijk Register Ki
 
 Indien uit de eerste globale analyse blijkt dat de aanvraag volledig genoeg is voor verdere behandeling worden de gegevens van de aanvraag vastgelegd in het LR. Daarbij wordt een kenmerk aangebracht waaruit af te leiden is dat het om een aanvraag gaat en nog geen definitieve inschrijving. Bij de (voorlopige) registratie kunnen zich situaties voordoen, waarbij verwerking in het LR niet mogelijk is. Daarmee wordt het registratieproces beëindigd.
 
-Indien uit de eerste globale analyse blijkt dat de aanvraag volledig genoeg is voor verdere behandeling worden de gegevens van de aanvraag vastgelegd in het LR. Daarbij wordt een kenmerk aangebracht waaruit af te leiden is dat het om een aanvraag gaat en nog geen definitieve inschrijving. Bij de (voorlopige) registratie kunnen zich situaties voordoen, waarbij verwerking in het LR niet mogelijk is. Daarmee wordt het registratieproces beëindigd.
+De aanvrager stelt een aanvraag op voor registratie in het Landelijk Register Kinderopvang en dient de aanvraag in bij de gemeente. De gemeente (Gegevensverwerker Gemeente) neemt de aanvraag in behandeling en stelt vast of de aanvraag volledig is. Indien deze niet volledig is, wordt de aanvraag niet in behandeling genomen.
 
 ### 2.3.1.1. Vastleggen ontvangen aanvraag voor registratie
 
-De gemeente legt het inspectierapport vast in het Landelijk Register en bepaald of de OKO definitief mag worden ingeschreven. Als de gemeente besluit niet tot inschrijving over te gaan, wordt in het Landelijk Register bij de voorlopige gegevens van de OKO vastgelegd dat er geen definitieve inschrijving heeft plaatsgevonden. Als de gemeente besluit tot definitieve inschrijving, dan wordt bij de OKO in het Landelijk Register vastgelegd dat per datum X de formele inschrijving heeft plaatsgevonden. Het Landelijk Register genereert dan een definitief inschrijvingsnummer. De gemeente verstrekt dat inschrijvingsnummer aan de aanvrager.
+Na een **succesvolle, voorlopige** registratie wordt de GGD (Medewerker Keten) op de hoogte gebracht van een nieuwe (voorlopige) inschrijving. Binnen 8 weken moet de GGD de inspectie uitvoeren. Na de uitvoering van de inspectie wordt een inspectierapport en advies opgesteld door de GGD en verstrekt aan de aanvrager. Indien deze aanleiding ziet voor verweer, kan de aanvrager een zienswijze opstellen. Indien geen bevinding is aangetroffen, geeft de aanvrager daarmee aan akkoord te gaan met het inspectierapport. De GGD stelt een uiteindelijk inspectierapport op en stuurt het naar de aanvrager en de gemeente waar de OKO gevestigd wordt.
 
-Voor de registratie van de kinderopvang worden de volgende functies nader uitgewerkt:
+De gemeente legt het inspectierapport vast in het Landelijk Register en bepaald of de OKO definitief mag worden ingeschreven. Als de gemeente besluit niet tot inschrijving over te gaan, wordt in het Landelijk Register bij de voorlopige gegevens van de OKO vastgelegd dat er geen definitieve inschrijving heeft plaatsgevonden. Als de gemeente besluit tot definitieve inschrijving, dan wordt bij de OKO in het Landelijk Register vastgelegd dat per datum X de formele inschrijving heeft plaatsgevonden. Het Landelijk Register genereert dan een definitief inschrijvingsnummer. De gemeente verstrekt dat inschrijvingsnummer aan de aanvrager.
 
 Het administratieve proces begint met het registreren van de gegevens van een aanvraag in het landelijk register.
 
 ### 2.3.1.1. Vastleggen ontvangen aanvraag voor registratie
 
-Ten behoeve van het registreren dient een gebruiker van het LR te beschikken over voldoende autorisaties om in het systeem te mogen muteren. De Gegevensverwerker Gemeente moet derhalve inloggen in het Overheidsportaal. Na een succesvolle inlogprocedure kan de gebruiker er voor kiezen om een (nieuwe) aanvraag vast te leggen. Daarbij worden eerst de gegevens van de te registreren OKO geregistreerd. Na een succesvolle registratie van de OKO, wordt de houder van de OKO geregistreerd. In die gevallen waarin de houder van de Voorziening voor Gastouderopvang (VGO) een niet-natuurlijk persoon is, worden ook de gegevens van de gastouder apart vastgelegd. Als registratie niet mogelijk blijkt, zal procedureel onderzocht moeten worden wat er mogelijk niet klopt. Op dat moment zal het proces herhaald worden of worden stopgezet.
+Het administratieve proces begint met het registreren van de gegevens van een aanvraag in het landelijk register.
 
-Als de registratie correct is uitgevoerd wordt de voorlopige registratie van de OKO afgerond.
+Ten behoeve van het registreren dient een gebruiker van het LR te beschikken over voldoende autorisaties om in het systeem te mogen muteren. De Gegevensverwerker Gemeente moet derhalve inloggen in het Overheidsportaal. Na een succesvolle inlogprocedure kan de gebruiker er voor kiezen om een (nieuwe) aanvraag vast te leggen. Daarbij worden eerst de gegevens van de te registreren OKO geregistreerd. Na een succesvolle registratie van de OKO, wordt de houder van de OKO geregistreerd. In die gevallen waarin de houder van de Voorziening voor Gastouderopvang (VGO) een niet-natuurlijk persoon is, worden ook de gegevens van de gastouder apart vastgelegd. Als registratie niet mogelijk blijkt, zal procedureel onderzocht moeten worden wat er mogelijk niet klopt. Op dat moment zal het proces herhaald worden of worden stopgezet.
 
 ### 2.3.1.1.1. Inloggen gegevensverwerker Gemeente
 
 De gebruiker (Gegevensverwerker gemeente) voert inloggegevens in op een scherm van het overheidsportaal. Het ‘systeem’ gaat kijken of de gegevens bekend zijn en of toegang verleend mag worden. Indien dit niet kan, wordt de gebruiker hiervan op de hoogte gebracht. Indien de gegevens bekend zijn, wordt een code gegenereerd en verzonden naar de gebruiker. De gebruiker voert de inlogcode in in het juiste onderdeel van het overheidsportaal. Het ‘systeem’ stelt vast welke autorisaties behoren bij de gebruiker en bevestigd aan de gebruiker dat de inlogprocedure succesvol is afgerond.
 
-De gebruiker (Gegevensverwerker gemeente) voert inloggegevens in op een scherm van het overheidsportaal. Het ‘systeem’ gaat kijken of de gegevens bekend zijn en of toegang verleend mag worden. Indien dit niet kan, wordt de gebruiker hiervan op de hoogte gebracht. Indien de gegevens bekend zijn, wordt een code gegenereerd en verzonden naar de gebruiker. De gebruiker voert de inlogcode in in het juiste onderdeel van het overheidsportaal. Het ‘systeem’ stelt vast welke autorisaties behoren bij de gebruiker en bevestigd aan de gebruiker dat de inlogprocedure succesvol is afgerond.
+Ten behoeve van het verkrijgen van toegang tot het overheidsportaal moet de gebruiker geïdentificeerd worden en wordt de juiste autorisatie toegekend door het systeem.
 
 Voor de registratie van een nieuwe kinderopvang worden de volgende stappen doorlopen.
 
 ### 2.3.1.1.2. Vastleggen voorlopige gegevens van nieuwe OKO
 
-De geautoriseerde gebruiker (Gegevensverwerker gemeente) kiest een soort opvang die geregistreerd moet worden. De gegevens uit de aanvraag van de OKO worden ingevoerd in het invoergedeelte van het overheidsportaal. Nadat de gegevens van de OKO ingevoerd zijn, voert het systeem controles uit. Indien verwerking niet mogelijk is, maakt het systeem hier melding van. De bevinding kan bijvoorbeeld zijn het ontbreken van invoer in bepaalde verplichte velden, signalering van reeds bestaand gegevens, het reeds bestaan van een OKO met dezelfde gegevens of afwijkende gegevens. De gebruiker stelt de behandelwijze vast. Hij kan besluiten onderzoek in te stellen en breekt het registratieproces af. De gegevens worden door het systeem vervolgens verwijderd. De gebruiker krijgt een melding dat de gegevens verwijderd worden.
+Voor de registratie van een nieuwe kinderopvang worden de volgende stappen doorlopen.
 
-De gebruiker kan besluiten de gegevens te wijzigen die reeds aanwezig zijn, als hij daarvoor geautoriseerd is en zeker is dat de gegevens uit de aanvraag juist zijn. Vervolgens worden de gegevens verwerkt door het systeem. De gebruiker krijgt de mogelijkheid om te bevestigen dat de registratie goed is. Het systeem bevestigd de correcte verwerking. De gebruiker kan de registratie vervolgen.
+De geautoriseerde gebruiker (Gegevensverwerker gemeente) kiest een soort opvang die geregistreerd moet worden. De gegevens uit de aanvraag van de OKO worden ingevoerd in het invoergedeelte van het overheidsportaal. Nadat de gegevens van de OKO ingevoerd zijn, voert het systeem controles uit. Indien verwerking niet mogelijk is, maakt het systeem hier melding van. De bevinding kan bijvoorbeeld zijn het ontbreken van invoer in bepaalde verplichte velden, signalering van reeds bestaand gegevens, het reeds bestaan van een OKO met dezelfde gegevens of afwijkende gegevens. De gebruiker stelt de behandelwijze vast. Hij kan besluiten onderzoek in te stellen en breekt het registratieproces af. De gegevens worden door het systeem vervolgens verwijderd. De gebruiker krijgt een melding dat de gegevens verwijderd worden.
 
 De gegevens van de OKO zijn ingevoerd. Bij elke OKO moet een een houder worden vastgelegd. Ook de Voorziening van GastouderOpvang (VGO) heeft een houder. Dit zal in de meeste gevallen dezelfde natuurlijke persoon (mens) zijn als de gastouder, maar een persoon kan er volgens de wet ook voor kiezen om te communiceren met de overheid als een onderneming, dus via het KvK-nummer. De wetgever heeft bepaald dat te allen tijde de gastouder die actief is op de VGO bekend moet zijn. Derhalve wordt onderscheid gemaakt tussen de Niet-natuurlijke persoon als houder van een VGO en de gastouder zelf. In alle gevallen moet dus de gastouder worden vastgelegd die de daadwerkelijke uitvoering van de VGO verzorgd.
 
@@ -1328,17 +1328,17 @@ De gebruiker voert gegevens van de houder van een OKO in. Het systeem controleer
 
 ### 2.3.1.2. Vastleggen inspectierapport
 
-Indien blijkt dat de ingevoerde gegevens over de Natuurlijke persoon of Niet-Natuurlijke persoon afwijken van de gegevens die reeds in het LR voorkomen, moet vastgesteld worden welke actie ondernomen moet worden. Indien het authentieke gegevens uit de basisregistraties betreft, moet conform de desbetreffende wetgeving van het GBA en NHR een terugmelding worden gedaan via de daarvoor beschikbare voorzieningen en wordt het registratie proces beëindigd. De reeds ingevoerd (OKO) gegevens worden door het systeem verwijderd. Een eventueel gecorrigeerde aanvraag wordt opnieuw ingevoerd.
+De gebruiker voert gegevens van de houder van een OKO in. Het systeem controleert of de houder (natuurlijke of niet-natuurlijke persoon) reeds in het register aanwezig is. Indien dit niet het geval is, voert de gebruiker de resterende nieuwe gegevens van de houder. Indien blijkt uit de aanvraag dat de houder van een VGO niet de gastouder zelf is maar een Niet-natuurlijk persoon, dan moeten ook de gegevens van een gastouder ingevoerd worden. Nadat de gegevens zijn ingevoerd worden deze door het systeem gecontroleerd. Indien de invoer correct is bevonden wordt dat door het systeem gemeld.
 
-Indien het geen authentieke gegevens betreft, kan de gebruiker (mits geautoriseerd) de afwijkende gegevens in te voeren. Daarbij geeft de gebruiker aan welke soort wijziging het op de gegevens betreft (typefout of wijziging van gegevens).
+Indien blijkt dat de ingevoerde gegevens over de Natuurlijke persoon of Niet-Natuurlijke persoon afwijken van de gegevens die reeds in het LR voorkomen, moet vastgesteld worden welke actie ondernomen moet worden. Indien het authentieke gegevens uit de basisregistraties betreft, moet conform de desbetreffende wetgeving van het GBA en NHR een terugmelding worden gedaan via de daarvoor beschikbare voorzieningen en wordt het registratie proces beëindigd. De reeds ingevoerd (OKO) gegevens worden door het systeem verwijderd. Een eventueel gecorrigeerde aanvraag wordt opnieuw ingevoerd.
 
 De gemeente ontvangt elektronisch of op papier het inspectierapport van de GGD. Dit kan zijn opgesteld naar aanleiding van een inspectie van een nieuwe inschrijving of betrekking hebben op een reguliere (jaarlijkse) inspectie. De inspectierapporten worden zo nodig binnen de gemeente gedigitaliseerd.
 
 ### 2.3.1.2. Vastleggen inspectierapport
 
-De gemeente ontvangt een inspectierapport en advies van de GGD (medewerker keten). Het openbaar maken van de inspectierapporten is een verantwoordelijkheid van de GGD. In principe moeten alle rapporten openbaar worden. De GGD kan afwijken van deze regeling en besluiten dat een rapport niet openbaar mag. Daarnaast beoordeelt de gemeente of het inspectierapport gepubliceerd kan worden. Indien er bevindingen zijn, wordt de GGD daarvan op de hoogte gebracht.
+De gemeente ontvangt elektronisch of op papier het inspectierapport van de GGD. Dit kan zijn opgesteld naar aanleiding van een inspectie van een nieuwe inschrijving of betrekking hebben op een reguliere (jaarlijkse) inspectie. De inspectierapporten worden zo nodig binnen de gemeente gedigitaliseerd.
 
-De (ingelogde) gebruiker (gegevensverwerker gemeente) voert zoekgegevens in in het Overheidsportaal om de OKO te vinden, waarop het inspectierapport betrekking heeft. Het ‘systeem’ zoekt de bijbehorende OKO gegevens op en toont deze aan de gebruiker. De gebruiker legt enkele kenmerken van het document vast en koppelt het elektronische inspectierapportdocument aan de OKO. Het systeem legt het inspectierapport bij de OKO vast. Indien de verwerking niet correct is verlopen, kan de gebruiker het nogmaals proberen. Als de verwerking succesvol is afgerond, den is deze processtap afgerond.
+De gemeente ontvangt een inspectierapport en advies van de GGD (medewerker keten). Het openbaar maken van de inspectierapporten is een verantwoordelijkheid van de GGD. In principe moeten alle rapporten openbaar worden. De GGD kan afwijken van deze regeling en besluiten dat een rapport niet openbaar mag. Daarnaast beoordeelt de gemeente of het inspectierapport gepubliceerd kan worden. Indien er bevindingen zijn, wordt de GGD daarvan op de hoogte gebracht.
 
 Het definitief inschrijven van een OKO is een handeling van de gegevensverwerker gemeente die rechtsgeldige gevolgen kan hebben voor de geregistreerde of gebruikers van de ‘subjecten’ dus de OKO's, die eraan refereren in bijvoorbeeld de aanvragen voor toeslagen.
 
@@ -1346,29 +1346,29 @@ Daarom wordt de gebruiker door het systeem zo goed mogelijk ondersteund bij het 
 
 ### 2.3.1.4. Afronden registratie
 
-Op basis van een advies van de GGD neemt de gemeente het besluit om een organisatie voor kinderopvang op te nemen in het Landelijk Register. De registratie van de aanvraag voor registratie is reeds in het Landelijk Register aanwezig. De gebruiker selecteert de status ‘ingeschreven’ bij de OKO. Daarbij worden de kenmerken van de geldigheid van het besluit vastgelegd. Het systeem voert controles uit op volledigheid, consistentie e.d. De verwerkte gegevens worden nogmaals getoond aan de gebruiker. De gebruiker bevestigt de gegevens of past deze aan. Nadat de bevestiging heeft plaatsgevonden, verwerkt het systeem de gegevens en wordt een definitief inschrijvingsnummer gegenereerd. Het inschrijvingsnummer wordt getoond door het systeem aan de gebruiker. Hiermee is de registratie afgerond.
+Daarom wordt de gebruiker door het systeem zo goed mogelijk ondersteund bij het volledig invoeren van de benodigde gegevens over een organisatie voor kinderopvang, zoals in de wet- en regelgeving is bepaald.
 
-Er volgt na de inschrijving nog een communicatiestap richting de houder. De gemeente verstrekt het inschrijvingsnummer (= het unieke LRK-ID) aan de aanvrager middels een beschikking. De datum dagtekening van de beschikking is de datum aanvang exploitatie (= datum status is ingeschreven). Vanaf die datum bestaat er dus recht op een toeslag. Dit is een AO stap voor de gemeenten die niet door het LRK wordt ondersteunt.
+Op basis van een advies van de GGD neemt de gemeente het besluit om een organisatie voor kinderopvang op te nemen in het Landelijk Register. De registratie van de aanvraag voor registratie is reeds in het Landelijk Register aanwezig. De gebruiker selecteert de status ‘ingeschreven’ bij de OKO. Daarbij worden de kenmerken van de geldigheid van het besluit vastgelegd. Het systeem voert controles uit op volledigheid, consistentie e.d. De verwerkte gegevens worden nogmaals getoond aan de gebruiker. De gebruiker bevestigt de gegevens of past deze aan. Nadat de bevestiging heeft plaatsgevonden, verwerkt het systeem de gegevens en wordt een definitief inschrijvingsnummer gegenereerd. Het inschrijvingsnummer wordt getoond door het systeem aan de gebruiker. Hiermee is de registratie afgerond.
 
 Indien besloten wordt dat naar aanleiding van een negatief advies van de GGD of om andere redenen er geen inschrijving mogelijk is, worden de gegevens niet verwijderd uit het LR, maar wordt de aanvraag wel vastgelegd, maar dan met de status niet-ingeschreven. Dit is relevant om bijvoorbeeld misbruik of onterechte aanvragen snel te kunnen traceren én om zicht te houden op de werkdruk van zowel gemeente als GGD.
 
 ### 2.3.1.4. Afronden registratie
 
-De gebruiker (gegevensverwerker gemeente) besluit de aanvraag van een OKO niet te honoreren en zoekt de geregistreerde aanvraag op in het systeem met behulp van identificerende kenmerken. Het systeem toont de gevonden resultaten. De gebruiker selecteert de juiste voorlopig geregistreerde OKO. De status van de OKO wordt aangepast, zodanig dat afgeleid kan worden dat er geen definitieve inschrijving plaatsvindt. Naast de status aanpassing legt de gebruiker een motivatie vast. Het systeem vraagt om een bevestiging, nadat de gebruiker de invoer heeft gedaan. Vervolgens is de registratie bijgewerkt en heeft er geen definitieve inschrijving van de aanvraag plaatsgevonden.
+Indien besloten wordt dat naar aanleiding van een negatief advies van de GGD of om andere redenen er geen inschrijving mogelijk is, worden de gegevens niet verwijderd uit het LR, maar wordt de aanvraag wel vastgelegd, maar dan met de status niet-ingeschreven. Dit is relevant om bijvoorbeeld misbruik of onterechte aanvragen snel te kunnen traceren én om zicht te houden op de werkdruk van zowel gemeente als GGD.
 
-De afwijzing van het verzoek tot inschrijving wordt gecommuniceerd met de aanvrager. Dit is een AO stap voor de gemeenten die niet door het LRK wordt ondersteunt.
+De gebruiker (gegevensverwerker gemeente) besluit de aanvraag van een OKO niet te honoreren en zoekt de geregistreerde aanvraag op in het systeem met behulp van identificerende kenmerken. Het systeem toont de gevonden resultaten. De gebruiker selecteert de juiste voorlopig geregistreerde OKO. De status van de OKO wordt aangepast, zodanig dat afgeleid kan worden dat er geen definitieve inschrijving plaatsvindt. Naast de status aanpassing legt de gebruiker een motivatie vast. Het systeem vraagt om een bevestiging, nadat de gebruiker de invoer heeft gedaan. Vervolgens is de registratie bijgewerkt en heeft er geen definitieve inschrijving van de aanvraag plaatsgevonden.
 
 ### 2.3.2. Verwerken van wijzigingen
 
 De gebruiker (gegevensverwerker gemeente) moet ingelogd zijn om veranderingen door te kunnen voeren. Na het inloggen voert de gebruiker zoekgegevens in om de OKO of houder te kunnen vinden om wijzigingen te kunnen verwerken. Aan de hand van de zoekcriteria zoekt het systeem de mogelijke OKO's op en toont deze aan de gebruiker. De gebruiker selecteert de juiste OKO of houder en voert de wijzigingen in. Daarbij wordt door de gebruiker aangegeven welk type wijziging het is, een correctie van een typefout of een verandering van de gegevens van een OKO of houder. Na invoer gaat het systeem de gewijzigde gegevens verwerken en stelt vast of de wijzigingen toegestaan zijn. Indien deze niet toegestaan zijn, wordt daarvan een melding getoond aan de gebruiker. Indien de wijziging is toegestaan worden de gewijzigde gegevens getoond aan de gebruiker. De gebruiker controleert de gegevens en besluit of hij klaar is of dat er nog meer gewijzigd moet worden. Als er geen wijzigingen meer verwerkt moeten worden, wordt het registratie-proces beëindigd.
 
-De gebruiker (gegevensverwerker gemeente) moet ingelogd zijn om veranderingen door te kunnen voeren. Na het inloggen voert de gebruiker zoekgegevens in om de OKO of houder te kunnen vinden om wijzigingen te kunnen verwerken. Aan de hand van de zoekcriteria zoekt het systeem de mogelijke OKO's op en toont deze aan de gebruiker. De gebruiker selecteert de juiste OKO of houder en voert de wijzigingen in. Daarbij wordt door de gebruiker aangegeven welk type wijziging het is, een correctie van een typefout of een verandering van de gegevens van een OKO of houder. Na invoer gaat het systeem de gewijzigde gegevens verwerken en stelt vast of de wijzigingen toegestaan zijn. Indien deze niet toegestaan zijn, wordt daarvan een melding getoond aan de gebruiker. Indien de wijziging is toegestaan worden de gewijzigde gegevens getoond aan de gebruiker. De gebruiker controleert de gegevens en besluit of hij klaar is of dat er nog meer gewijzigd moet worden. Als er geen wijzigingen meer verwerkt moeten worden, wordt het registratie-proces beëindigd.
+Op basis van meldingen van de houders van OKO's, bevindingen tijdens inspecties of via andere kanalen kunnen wijzigingen gemeld worden bij de gemeenten.
 
 ### 2.3.3. Raadplegen via publieksportaal
 
 De anonieme gebruiker heeft het publieksportaal van het LRK gevonden op internet. Hij voert een aantal zoekcriteria in. Het systeem zoekt aan de hand van de criteria alle OKO's op die voldoen aan de criteria. De gebruiker kan één van de zoekresultaten selecteren. Het systeem haalt de detailinformatie van de betreffende OKO op. Deze detailgegevens worden getoond. De gebruiker kan besluiten om te zoeken in de tijd of om de inspectierapporten te raadplegen. Het systeem opent op verzoek van de gebruiker het inspectierapport. De gebruiker kan besluiten om de raadpleging te stoppen of om een ander zoekresultaat te selecteren.
 
-De anonieme gebruiker heeft het publieksportaal van het LRK gevonden op internet. Hij voert een aantal zoekcriteria in. Het systeem zoekt aan de hand van de criteria alle OKO's op die voldoen aan de criteria. De gebruiker kan één van de zoekresultaten selecteren. Het systeem haalt de detailinformatie van de betreffende OKO op. Deze detailgegevens worden getoond. De gebruiker kan besluiten om te zoeken in de tijd of om de inspectierapporten te raadplegen. Het systeem opent op verzoek van de gebruiker het inspectierapport. De gebruiker kan besluiten om de raadpleging te stoppen of om een ander zoekresultaat te selecteren.
+Een anonieme gebruiker (publiek of overheidspersoneel met beperkte benodigde functionaliteit) kan OKO's raadplegen via het publieksportaal.
 
 ### 2.3.4. Raakvlakken met Interactiemodel
 
@@ -1384,7 +1384,7 @@ De volgende use cases maken gebruik van het Publieksportaal:
 
 De volgende use cases maken gebruik van het Publieksportaal:
 
-De volgende use cases maken gebruik van het Publieksportaal:
+Het publieksportaal is de systeemcomponent die ter beschikking wordt gesteld aan anonieme gebruikers (van het internet) om gegevens over organisaties voor kinderopvang te bekijken.
 
 ### 3.1.2. Overheidsportaal
 
@@ -1416,9 +1416,9 @@ Het betreft dan het creëren, raadplegen en wijzigen van gegevens in het registe
 
 ### 4.2. Module Publieksportaal
 
-Via de publieksportaal worden opdrachten voor raadplegen en zoeken ontvangen. Via het overheidsportaal kan naast raadplegen en zoeken ook de opdracht om te creëren en wijzigen.
+Het betreft dan het creëren, raadplegen en wijzigen van gegevens in het register, maar ook het genereren van overzichten.
 
-De Beheermodule kan bepaalde (gegevens)tabellen aanpassen en queries uitvoeren op de administratie van het landelijk register.
+Via de publieksportaal worden opdrachten voor raadplegen en zoeken ontvangen. Via het overheidsportaal kan naast raadplegen en zoeken ook de opdracht om te creëren en wijzigen.
 
 De module Publieksportaal is de presentatie laag voor de ‘anonieme gebruiker’ en bevat services om via internet informatie te ontsluiten uit het Landelijk register. De module stelt schermen samen, afhankelijk van de actie die door de gebruiker is uitgevoerd.
 
@@ -1426,27 +1426,27 @@ Het publieksportaal wordt opgenomen in een website van OCW die ook algemene info
 
 ### 4.3. Module Overheidsportaal
 
-Schermen in het publieksportaal:
+Het publieksportaal wordt opgenomen in een website van OCW die ook algemene informatie bevat over de relevante wet- en regelgeving of verwijzingen naar bronnen en actuele informatie.
 
-De gegevens die getoond worden op het Publieksportaal voldoen aan de WBP. Het portaal volgt deze wetgeving.
+Schermen in het publieksportaal:
 
 De module Overheidsportaal vormt de presentatielaag voor de geautoriseerde gebruiker (Gegevensverwerker gemeente, medewerker keten) en bevat services die toegang verschaffen tot het Landelijk register.
 
 De module stelt schermen samen, afhankelijk van de actie die de gebruiker uitgevoerd heeft of kiest om uit te gaan voeren.
 
-De module stelt schermen samen, afhankelijk van de actie die de gebruiker uitgevoerd heeft of kiest om uit te gaan voeren.
+De module Overheidsportaal vormt de presentatielaag voor de geautoriseerde gebruiker (Gegevensverwerker gemeente, medewerker keten) en bevat services die toegang verschaffen tot het Landelijk register.
 
 ### 4.4. Module Natuurlijke personen
 
-Het overheidsportaal regelt de controle op wijzigingen door de toepassing van business rules. Bepaalde mutaties op de gegevens in het landelijk register mogen niet zonder meer worden doorgevoerd.
+Schermen in het overheidsportaal:
 
-Afhankelijk van de vragende module en autorisaties van de gebruiker worden gegevens over personen getoond.
+Het overheidsportaal regelt de controle op wijzigingen door de toepassing van business rules. Bepaalde mutaties op de gegevens in het landelijk register mogen niet zonder meer worden doorgevoerd.
 
 Deze module behelst alle services die noodzakelijk zijn om persoonsgegevens van **natuurlijke personen** te bewerken. De gegevens maken onderdeel uit van het landelijk register, maar worden op termijn mogelijk extern ‘opgehaald’, op het moment dat de koppeling met de centrale voorziening van de Gemeentelijke BasisAdministratie Verstrekkingen (GBA-V) een feit is.
 
 ### 4.4. Module Natuurlijke personen
 
-Afhankelijk van de vragende module (overheidsportaal of publieksportaal) mogen gegevens geleverd worden.
+Deze module behelst alle services die noodzakelijk zijn om persoonsgegevens van **natuurlijke personen** te bewerken. De gegevens maken onderdeel uit van het landelijk register, maar worden op termijn mogelijk extern ‘opgehaald’, op het moment dat de koppeling met de centrale voorziening van de Gemeentelijke BasisAdministratie Verstrekkingen (GBA-V) een feit is.
 
 ### 4.5. Module Niet-natuurlijke personen
 
@@ -1458,9 +1458,9 @@ Deze module behelst alle services die noodzakelijk zijn om adresgegevens te behe
 
 ### 4.6. Module Adressen
 
-Er wordt onderscheid gemaakt tussen binnenlandse en buitenlandse adressen. Daarnaast wordt vastgelegd in het LR wat het gebruiksdoel van het adres is, bijvoorbeeld:
+Deze module behelst alle services die noodzakelijk zijn om adresgegevens te beheren. De adresgegevens worden op termijn doorgeleverd door koppelingen met de NHR en GBA.
 
-In de business rules van deze module wordt geregeld welke adressen gewijzigd mogen worden door de gebruiker, zonder dat dit consequenties heeft voor de inschrijving van de OKO.
+Er wordt onderscheid gemaakt tussen binnenlandse en buitenlandse adressen. Daarnaast wordt vastgelegd in het LR wat het gebruiksdoel van het adres is, bijvoorbeeld:
 
 De gebruikers van het Overheidsportaal moeten geïdentificeerd kunnen worden. Deze module Gebruikers behelst alle services die noodzakelijk zijn voor het registeren en beheren van gebruikers.
 
@@ -1468,45 +1468,45 @@ Een gebruiker is ‘iedereen die mens is en feitelijk communiceert met het syste
 
 ### 4.8. Module Authenticatie
 
-Er zijn verschillende Actoren:
+Een gebruiker is ‘iedereen die mens is en feitelijk communiceert met het systeem’ in een bepaalde rol. Een Actor is een rol die interacteert met het systeem. De rol kan door een persoon of door een ander systeem worden vervuld. Per rol wordt bepaald welke rechten de gebruiker heeft om handelingen te verrichten met het systeem. De rechten hebben betrekking op toegang tot schermen, buttons (functies) of velden op het scherm.
 
-De gebruikers worden centraal opgevoerd en beheerd. Er worden gegevens ten behoeve van authenticatie vastgelegd zoals wachtwoord, telefoonnummer, emailadres. Daarnaast wordt geregistreerd aan welk autorisatieprofiel de gebruiker is gekoppeld.
+Er zijn verschillende Actoren:
 
 Ten behoeve van het eenduidig vaststellen van de gebruiker, wordt de gebruiker die zich aanmeldt bij het Overheidsportaal in de gelegenheid gesteld, een aantal authenticatiegegevens in te voeren. Vervolgens gaat deze module vaststellen op basis van de geregistreerde gebruikersgegevens of de gebruiker daadwerkelijk toegang mag krijgen tot het overheidsportaal en welke bijbehorende rechten (autorisaties) er bij het gebruikersprofiel behoren.
 
 ### 4.8. Module Authenticatie
 
-Tevens wordt het aantal foutieve aanmeldpogingen bijgehouden om een gebruiker eventueel te blokkeren.
+Ten behoeve van het eenduidig vaststellen van de gebruiker, wordt de gebruiker die zich aanmeldt bij het Overheidsportaal in de gelegenheid gesteld, een aantal authenticatiegegevens in te voeren. Vervolgens gaat deze module vaststellen op basis van de geregistreerde gebruikersgegevens of de gebruiker daadwerkelijk toegang mag krijgen tot het overheidsportaal en welke bijbehorende rechten (autorisaties) er bij het gebruikersprofiel behoren.
 
-Van de succesvolle authenticatie en het starten van een gebruikerssessie wordt in het systeem een registratie gemaakt.
+Tevens wordt het aantal foutieve aanmeldpogingen bijgehouden om een gebruiker eventueel te blokkeren.
 
 Deze module gaat over de behandeling van documenten. In de eerste oplevering van het LRK worden alleen de GGD-inspectierapporten per OKO opgeslagen.
 
 ### 4.9. Module Documenten
 
-**Er wordt geen relatie gelegd naar document management systemen.**
+Deze module gaat over de behandeling van documenten. In de eerste oplevering van het LRK worden alleen de GGD-inspectierapporten per OKO opgeslagen.
 
-Het inspectierapport wordt in PDF-format opgenomen in het LR en enkele metagegevens van het inspectierapport worden geregistreerd. De documenten worden volgtijdelijk getoond via het publieks- en overheids- portaal.
+**Er wordt geen relatie gelegd naar document management systemen.**
 
 ### 4.10. Module Management informatie
 
 De module biedt de mogelijkheid om de overzichten af te drukken. Omdat deze module vanuit verschillende browsers wordt aangeroepen, wordt voor het afdrukken een opdracht vanuit de module verstrekt aan de lokale browser.
 
-De module biedt de mogelijkheid om de overzichten af te drukken. Omdat deze module vanuit verschillende browsers wordt aangeroepen, wordt voor het afdrukken een opdracht vanuit de module verstrekt aan de lokale browser.
+Ten behoeve van het bieden van management informatie wordt, voor de eerste oplevering in 01-01-2010 een beperkt aantal (vooraf gedefinieerde) overzichten ontwikkeld. Deze module biedt de gebruiker de mogelijkheid om één of meer criteria te selecteren waarmee overzichten gegenereerd kunnen worden.
 
 Van alle wijzigingen wordt in de administratie een historie bijgehouden. Indien de gebruiker over voldoende rechten beschikt kan deze de audit trail raadplegen.
 
 ### 4.11. Module Audit trail/tijdreizen
 
-De gebruiker kan door deze module een keuze maken om de historie van de gegevens van een OKO te ontsluiten. Daarbij kan gekozen worden om de stand van de ‘administratie’ op een bepaald moment te raadplegen of om te zoeken binnen een bepaalde periode.
+Van alle wijzigingen wordt in de administratie een historie bijgehouden. Indien de gebruiker over voldoende rechten beschikt kan deze de audit trail raadplegen.
 
-Naast de historie wordt bij iedere handeling door een geïdentificeerde gebruiker geregistreerd welke handelingen er met het LR worden uitgevoerd.
+De gebruiker kan door deze module een keuze maken om de historie van de gegevens van een OKO te ontsluiten. Daarbij kan gekozen worden om de stand van de ‘administratie’ op een bepaald moment te raadplegen of om te zoeken binnen een bepaalde periode.
 
 Het landelijk register maakt gebruik van stamtabellen. Dit zijn tabellen waaraan gerefereerd wordt in de gegevens van een OKO, zoals gemeenten, landen etc.
 
 ### 4.12. Module Beheer
 
-Deze gegevens zijn ook aan veranderingen onderhevig. Deze module biedt de mogelijkheid om deze gegevens te onderhouden.
+Het landelijk register maakt gebruik van stamtabellen. Dit zijn tabellen waaraan gerefereerd wordt in de gegevens van een OKO, zoals gemeenten, landen etc.
 
 ### 4.13. Module Help
 
@@ -1536,13 +1536,13 @@ De handelingen worden ook in de audit trail vastgelegd.
 
 ### Interactie Ontwerp
 
-### Interactie Ontwerp
+### A. Referenties
 
 Dit document beschrijft het Interactiemodel en is onderdeel van Functioneel Ontwerp (FO). Het Interactiemodel is een algemene (conceptuele) beschrijving van de gebruikersinterface en is een verdere uitdieping van, en tekstuele toelichting op, het Globaal Prototype (GP).
 
 Het volledige functioneel ontwerp wordt opgebouwd in twee stappen. Het Globale Functionele Ontwerp (GFO) is een eerste opzet van het functionele ontwerp en zal uiteindelijk dienen als input voor het Detail Functioneel Ontwerp (DFO).
 
-### 1.1. Doel van dit document
+### 1. Inleiding en achtergrond
 
 Het volledige functioneel ontwerp wordt opgebouwd in twee stappen. Het Globale Functionele Ontwerp (GFO) is een eerste opzet van het functionele ontwerp en zal uiteindelijk dienen als input voor het Detail Functioneel Ontwerp (DFO).
 
@@ -1560,7 +1560,7 @@ Het GFO beschrijft op globaal niveau alle gewenste systeemfuncties. In het DFO k
 
 Het GFO beschrijft op globaal niveau alle gewenste systeemfuncties. In het DFO kan besloten worden om in het GFO omschreven functionaliteit niet of slechts voor een gedeelte te realiseren (dit geldt ook voor het GP: het kan besloten worden aspecten van de user interface zoals weergegeven in het globaal prototype uiteindelijk niet te realiseren).
 
-Het GFO beschrijft op globaal niveau alle gewenste systeemfuncties. In het DFO kan besloten worden om in het GFO omschreven functionaliteit niet of slechts voor een gedeelte te realiseren (dit geldt ook voor het GP: het kan besloten worden aspecten van de user interface zoals weergegeven in het globaal prototype uiteindelijk niet te realiseren).
+Dit document is opgesplitst in een aantal hoofdstukken:
 
 Het volledige functioneel ontwerp wordt opgebouwd in twee stappen. Eerst wordt het Globaal functioneel ontwerp (GFO) opgesteld. Dit bestaat uit een procesmodel (dat de functionele applicatiestructuur beschrijft), een datamodel en het interactie-ontwerp (dit document), evenals een prototype. Het Detail functioneel ontwerp (DFO) bevat de uitwerking van hetgeen in het GFO op hoofdlijnen is vastgesteld.
 
@@ -1568,9 +1568,9 @@ Het functioneel ontwerp baseert zich primair op de project start architectuur (P
 
 ### 1.6. Openstaande punten
 
-Dit document is opgesteld met gebruikmaking van:
+Het functioneel ontwerp baseert zich primair op de project start architectuur (PSA), en op de functionele requirements, beschreven in de geprioriteerde requirements list (PRL). Het functioneel ontwerp vormt samen met prototype en technisch ontwerp (SAD) de basis voor realisatie.
 
-Het Interactiemodel is, als onderdeel van het GFO, opgesteld in nauwe samenhang met het Procesmodel en het Datamodel.
+Dit document is opgesteld met gebruikmaking van:
 
 ### 1.6. Openstaande punten
 
@@ -1582,23 +1582,23 @@ Deze zaken verdienen extra aandacht bij uitwerking in het DFO.
 
 Het Landelijk Register Kinderopvang is op te delen in drie onderdelen:
 
-### 2.1. Inleiding
+### 2. Basisstructuur
 
 Het Landelijk Register Kinderopvang is op te delen in drie onderdelen:
 
-Het Landelijk Register Kinderopvang is op te delen in drie onderdelen:
+In de volgende paragrafen zal de basisstructuur van de LRK-applicatie nader worden beschreven.
 
 ### 2.2. Overheidsportaal
 
 Het Overheidsportaal bestaat uit de volgende 'hoofdschermen'. Hiermee wordt de navigatiestructuur aangegeven. Daarnaast worden per hoofdscherm een aantal aanvullende schermen onderscheiden. Deze zijn niet in onderstaand overzicht opgenomen.
 
-Het Overheidsportaal bestaat uit de volgende 'hoofdschermen'. Hiermee wordt de navigatiestructuur aangegeven. Daarnaast worden per hoofdscherm een aantal aanvullende schermen onderscheiden. Deze zijn niet in onderstaand overzicht opgenomen.
+Het Overheidsportaal is het portaal dat gebruikt wordt door bevoegde functionarissen om de gegevens van organisaties van kinderopvang te registreren (invoeren, wijzigen) en te gebruiken (raadplegen).
 
 Het Publieksportaal is het portaal dat ter beschikking wordt gesteld aan anonieme gebruikers (via het internet) om gegevens over organisaties voor kinderopvang te bekijken. Dit beperkt zich tot die gegevens die wettelijk gezien geregistreerd moeten worden en verstrekt mogen worden, en die de anonieme gebruiker inzicht geeft in het al of niet geregistreerd zijn van een organisatie voor kinderopvang. Procesinformatie behoort expliciet niet tot de gegevens die getoond worden.
 
 ### 2.3. Publieksportaal
 
-Het publieksportaal wordt gepositioneerd als een zelfstandige website en vormt géén onderdeel van een of meer andere website(s).
+Het Publieksportaal is het portaal dat ter beschikking wordt gesteld aan anonieme gebruikers (via het internet) om gegevens over organisaties voor kinderopvang te bekijken. Dit beperkt zich tot die gegevens die wettelijk gezien geregistreerd moeten worden en verstrekt mogen worden, en die de anonieme gebruiker inzicht geeft in het al of niet geregistreerd zijn van een organisatie voor kinderopvang. Procesinformatie behoort expliciet niet tot de gegevens die getoond worden.
 
 ### 2.4. Beheerinterface
 
@@ -1620,11 +1620,11 @@ De structuur die wordt gehanteerd is gebaseerd op de Overheidscommunicatie Nieuw
 
 ### 3.3.1. Primaire navigatie
 
-De schermen kennen de volgende algemene opbouw.
+Deze richtlijnen zijn gepubliceerd op de website van het ministerie van OCW (zie Externe bronverwijzing 1).
 
 Het menu bestaat slechts uit deze twee lagen. Meer complexe, samengestelde mutaties worden verzorgd door een 'wizard' (stappenplan). Daaronder vallen alle aanvragen die een mutatie betreffen en mogelijk een beperkt aantal mutaties in het beheerdeel.
 
-### 3.3.1. Primaire navigatie
+### 3.3. Navigatiestructuur
 
 Het menu bestaat slechts uit deze twee lagen. Meer complexe, samengestelde mutaties worden verzorgd door een 'wizard' (stappenplan). Daaronder vallen alle aanvragen die een mutatie betreffen en mogelijk een beperkt aantal mutaties in het beheerdeel.
 
@@ -1642,7 +1642,7 @@ Er wordt onderscheid gemaakt naar twee soorten help.
 
 ### 3.4. Helpfuncties
 
-Enerzijds is er een 'vaste' set help-pagina's, te benaderen met de link rechtsboven op iedere pagina (zie schermopbouw). Deze help bevat een submenu maar is niet context-gevoelig. De tekst van de help bevat géén koppelingen. Er is geen zoekmogelijkheid in de helptekst. De help bevat geen documenten en géén links naar externe sites/pagina's.
+Er wordt onderscheid gemaakt naar twee soorten help.
 
 ### 3.5. Printen van informatie
 
@@ -1654,33 +1654,33 @@ Autorisatie gebeurt op basis van het gebruikersprofiel waarmee de eindgebruiker 
 
 Er wordt géén gebruik gemaakt van tijdelijke rechten (profiel heeft rol gedurende een bepaalde periode en/of rol heeft recht gedurende een bepaalde periode), context-afhankelijke rechten (idem, afhankelijk van context), inhoud-afhankelijke rechten (idem, afhankelijk van inhoud van bepaalde (andere) gegevens in de database, zoals waarde van een status) of toegekende/overdraagbare rechten (gebruiker a verleent machtiging tot uitvoeren van taken aan gebruiker b).
 
-Er wordt géén gebruik gemaakt van tijdelijke rechten (profiel heeft rol gedurende een bepaalde periode en/of rol heeft recht gedurende een bepaalde periode), context-afhankelijke rechten (idem, afhankelijk van context), inhoud-afhankelijke rechten (idem, afhankelijk van inhoud van bepaalde (andere) gegevens in de database, zoals waarde van een status) of toegekende/overdraagbare rechten (gebruiker a verleent machtiging tot uitvoeren van taken aan gebruiker b).
+Autorisatie gebeurt op basis van het gebruikersprofiel waarmee de eindgebruiker zich heeft aangemeld. Een profiel is gerelateerd aan een of meer rollen. Iedere rol bevat een of meer rechten (set van schermen, toegang tot gegevens en acties).
 
-In tegenstelling tot voorgaande wordt expliciet wel rekening gehouden met de gemeente behorende bij het profiel. Alle gegevens in de database zijn 'eigendom' van een bepaalde gemeente of worden centraal beheerd.
+Er wordt géén gebruik gemaakt van tijdelijke rechten (profiel heeft rol gedurende een bepaalde periode en/of rol heeft recht gedurende een bepaalde periode), context-afhankelijke rechten (idem, afhankelijk van context), inhoud-afhankelijke rechten (idem, afhankelijk van inhoud van bepaalde (andere) gegevens in de database, zoals waarde van een status) of toegekende/overdraagbare rechten (gebruiker a verleent machtiging tot uitvoeren van taken aan gebruiker b).
 
 ### 3.7. Authenticatie
 
-Autorisatie heeft alleen betrekking op de interface-modules Overheidsportaal en Beheer.
+Een aantal profielen wordt gebruikt voor 'shared services', deze hebben rechten op de gegevens van meer dan een (maar niet alle) gemeenten. Een aantal profielen wordt gebruikt voor 'data entry', deze hebben rechten op de gegevens van alle gemeenten.
 
-Alle geregistreerde gebruikers mogen alle gegevens inzien. Het muteren is gebonden aan bovenstaande autorisaties. Details worden uitgewerkt in het DFO.
+Autorisatie heeft alleen betrekking op de interface-modules Overheidsportaal en Beheer.
 
 De anonieme gebruiker van het Publieksportaal hoeft zich niet te authenticeren.
 
 In het informatie beveiligingsplan zijn de gegevens die via het Overheidsportaal ontsloten worden, geclassificeerd als ‘confidentieel’, WBP risicoklasse II. Dit betekend dat deze gegevens slechts toegankelijk mogen zijn voor een gedefinieerde groep personen (bijv. bepaalde afdelingen of bepaalde functies). Ten aanzien van de te nemen maatregelen wordt géén onderscheid gemaakt naar het raadplegen van gegevens en het muteren van gegevens.
 
-In het informatie beveiligingsplan zijn de gegevens die via het Overheidsportaal ontsloten worden, geclassificeerd als ‘confidentieel’, WBP risicoklasse II. Dit betekend dat deze gegevens slechts toegankelijk mogen zijn voor een gedefinieerde groep personen (bijv. bepaalde afdelingen of bepaalde functies). Ten aanzien van de te nemen maatregelen wordt géén onderscheid gemaakt naar het raadplegen van gegevens en het muteren van gegevens.
+De anonieme gebruiker van het Publieksportaal hoeft zich niet te authenticeren.
 
 ### 3.8. Fout- en andere meldingen
 
-Per authenticatie transactie wordt een TAN code gegenereerd en per email aan de medewerker toegezonden. De medewerkers die mutatierechten moeten krijgen op de gegevens die ontsloten worden via het Overheidsportaal zijn (per 01-01-2010) alleen gemeenteambtenaren. Deze worden verondersteld allen te beschikken over een (zakelijk/overheids) email-adres.
+Voor authenticatie wordt een combinatie gebruikt van een persoonlijk gebruikersnaam/wachtwoord, een systeemcertificaat (PKI Overheid), en een zogeheten TAN code. Dit is een code die door een component van de LR applicatie wordt gegenereerd per authenticatie transactie en wordt toegezonden aan de medewerker die zichzelf wil authenticeren. Doordat het alleen de betreffende medewerker is die deze code kan ontvangen is daarmee de authenticiteit gewaarborgd.
 
-Ook de beheerders (gebruikers van de Beheerinterface) authenticeren zich op bovenbeschreven wijze.
+Per authenticatie transactie wordt een TAN code gegenereerd en per email aan de medewerker toegezonden. De medewerkers die mutatierechten moeten krijgen op de gegevens die ontsloten worden via het Overheidsportaal zijn (per 01-01-2010) alleen gemeenteambtenaren. Deze worden verondersteld allen te beschikken over een (zakelijk/overheids) email-adres.
 
 Meldingen worden getoond op twee manieren. Indien een keuze van de gebruiker afgedwongen moet worden wordt er een popup getoond waarin de keuze wordt uitgelegd en de gebruiker zijn keuze kan maken. Als het niet noodzakelijk is dat de gebruiker de keuze maakt, dan wordt de melding op de betreffende pagina getoond, op een vaste positie, direct onder de paginatitel.
 
 ### 3.8. Fout- en andere meldingen
 
-De eindgebruiker heeft geen 'log' van meldingen. Met het tonen van meldingen zal rekening gehouden worden met de afspraken die daarvoor al zijn vastgelegd in de Huisstijl (zie schermopbouw).
+Meldingen worden getoond op twee manieren. Indien een keuze van de gebruiker afgedwongen moet worden wordt er een popup getoond waarin de keuze wordt uitgelegd en de gebruiker zijn keuze kan maken. Als het niet noodzakelijk is dat de gebruiker de keuze maakt, dan wordt de melding op de betreffende pagina getoond, op een vaste positie, direct onder de paginatitel.
 
 ### 3.9. Gebruik van stamtabellen
 
@@ -1696,7 +1696,7 @@ Voor het Overheidsportaal en de Beheerinterface gelden de Webrichtlijnen als een
 
 ### 4.1. Rollen
 
-Voor het Overheidsportaal en de Beheerinterface gelden de Webrichtlijnen als een 'best effort'.
+Het Publieksportaal zal zoveel mogelijk dienen te voldoen aan de Webrichtlijnen. Voor de oplevering op 1 januari 2010 zal het portaal in ieder geval voldoen aan de automatische toetsing (47 van de 125 richtlijnen). Dit betreft met name het voldoen aan de W3C-normen. Meer informatie Externe bronverwijzing 2.
 
 ### 4.1. Rollen
 
@@ -1712,7 +1712,7 @@ In dit scherm kan de gebruiker inloggen door zijn gebruikersnaam en wachtwoord e
 
 ### 5.1. Inloggen/uitloggen
 
-Als voor de eerste maal wordt ingelogd (of voor de eerste maal na het resetten van het wachtwoord), wordt de gebruiker verplicht zijn wachtwoord te wijzigen.
+In dit scherm kan de gebruiker inloggen door zijn gebruikersnaam en wachtwoord en een (per e-mail toegestuurde) TAN-code op te geven. Als de combinatie van gebruikersnaam, wachtwoord en TAN-code onjuist is, wordt een foutmelding gegeven.
 
 ### 5.2. Wachtwoord vergeten
 
@@ -1728,19 +1728,19 @@ Wanneer meerdere zoektermen worden opgegeven dan worden in het resultaatscherm (
 
 Wanneer meerdere zoektermen worden opgegeven dan worden in het resultaatscherm (zie ) alleen de gegevens getoond die voldoen aan alle opgegeven criteria (‘AND-search’).
 
-Wanneer meerdere zoektermen worden opgegeven dan worden in het resultaatscherm (zie ) alleen de gegevens getoond die voldoen aan alle opgegeven criteria (‘AND-search’).
+Het zoekgedeelte van de pagina bestaat uit:
 
 Op basis van de zoekactie van de gebruiker worden de resultaten getoond in een lijst. Als de zoekactie geen resultaten oplevert, dan wordt een melding getoond.
 
 Indien er sprake is van meer dan 20 zoekresultaten, dan worden de zoekresultaten over meerdere pagina's verdeeld. De gebruiker kan door deze pagina's heen bladeren.
 
-Indien er sprake is van meer dan 20 zoekresultaten, dan worden de zoekresultaten over meerdere pagina's verdeeld. De gebruiker kan door deze pagina's heen bladeren.
+Op basis van de zoekactie van de gebruiker worden de resultaten getoond in een lijst. Als de zoekactie geen resultaten oplevert, dan wordt een melding getoond.
 
 ### 5.5. Tonen gegevens Houder
 
-De naam is aanklikbaar en verwijst naar het detailscherm. Een gebruiker met voldoende rechten heeft een optie om direct naar het wijzigscherm te gaan.
+De resultatenlijst toont de belangrijkste gegevens van een OKO of een Houder. De gegevens van een OKO en een Houder die worden getoond kunnen verschillen.
 
-In het scherm is het mogelijk om een nieuwe zoekactie te doen. De zoekcriteria die al eerder zijn opgegeven, zijn vooraf ingevuld.
+De naam is aanklikbaar en verwijst naar het detailscherm. Een gebruiker met voldoende rechten heeft een optie om direct naar het wijzigscherm te gaan.
 
 ### 5.5. Tonen gegevens Houder
 
@@ -1796,7 +1796,7 @@ Bij het registeren van gegevens in het Landelijk Register wordt altijd de OKO al
 
 Bij het registeren van gegevens in het Landelijk Register wordt altijd de OKO als uitgangspunt genomen. Gedurende dit registratieproces worden ook de overige gegevens (zoals gegevens van de Houder, Gastouderbureaus, etc.) aangevuld. Deze detailstappen worden apart beschreven.
 
-Bij het registeren van gegevens in het Landelijk Register wordt altijd de OKO als uitgangspunt genomen. Gedurende dit registratieproces worden ook de overige gegevens (zoals gegevens van de Houder, Gastouderbureaus, etc.) aangevuld. Deze detailstappen worden apart beschreven.
+Via dit scherm kan een OKO worden geregistreerd door middel van het doorlopen van een wizard.
 
 ### 5.7.1. Start registreren OKO
 
@@ -1814,21 +1814,21 @@ De gebruiker heeft de volgende mogelijkheden:
 
 ### 5.7.2.2. Invoeren detailgegevens
 
-Het toewijzen van een Houder staat in detail beschreven in paragraaf 5.8.
+De gebruiker heeft de volgende mogelijkheden:
 
-Het resultaat van deze stap is een gekoppelde Houder. In een apart scherm wordt de keuze van de Houder bevestigd. Het is nu nog mogelijk om een andere Houder te kiezen. Is er geen Houder gekoppeld dan kan het proces niet verder gaan.
+Het toewijzen van een Houder staat in detail beschreven in paragraaf 5.8.
 
 ### 5.7.2.2. Invoeren detailgegevens
 
 Het registreren staat in detail beschreven in paragraaf 5.9.
 
-Het registreren staat in detail beschreven in paragraaf 5.9.
+Via deze stap heeft de gebruiker de mogelijkheid om detailgegevens van het kindercentrum of gastouderbureau in te voeren, zoals naam en adresgegevens. Bij het registeren controleert het systeem of het adres van de OKO binnen de eigen gemeente valt.
 
 Op dit scherm krijgt de gegevens een samenvatting te zien van de zojuist ingevoerde gegevens en wordt om een bevestiging gevraagd.
 
 ### 5.7.2.3. Controleren ingevoerde gegevens
 
-Op dit punt in het proces wordt ook het unieke inschrijvingsnummer aangemaakt.
+Op dit scherm krijgt de gegevens een samenvatting te zien van de zojuist ingevoerde gegevens en wordt om een bevestiging gevraagd.
 
 ### 5.7.3. Registreren VGO
 
@@ -1840,9 +1840,9 @@ Om een VGO te kunnen registeren dient de gebruiker eerst een GOB toe te wijzen. 
 
 ### 5.7.3.1. Toewijzen Gastouderbureau
 
-Het toewijzen van een GOB staat in detail beschreven in paragraaf 5.7.2.1.
+Om een VGO te kunnen registeren dient de gebruiker eerst een GOB toe te wijzen. De gebruiker heeft de volgende mogelijkheden:
 
-Het resultaat van deze stap is een gekoppelde GOB. In een apart scherm wordt de keuze van de GOB bevestigd. Het is nu nog mogelijk om een andere GOB te kiezen. Is er geen GOB gekoppeld dan kan het proces niet verder gaan.
+Het toewijzen van een GOB staat in detail beschreven in paragraaf 5.7.2.1.
 
 In deze stap kan de gebruiker een Gastouder of een Houder toewijzen.
 
@@ -1850,37 +1850,37 @@ Allereerst geeft de gebruiker aan of de gastouder communiceert als NP of als NNP
 
 ### 5.7.3.3. Invoeren detailgegevens
 
-De gebruiker heeft de volgende mogelijkheden:
+Allereerst geeft de gebruiker aan of de gastouder communiceert als NP of als NNP. Vervolgens zal in het register worden gecontroleerd of de gastouder al bestaat.
 
-Het toewijzen van een Houder staat in detail beschreven in paragraaf 5.8.
+De gebruiker heeft de volgende mogelijkheden:
 
 ### 5.7.3.3. Invoeren detailgegevens
 
 Eventueel kan de gebruiker aangeven dat de gegevens van de Gastouder gelijk zijn aan die van de VGO.
 
-Eventueel kan de gebruiker aangeven dat de gegevens van de Gastouder gelijk zijn aan die van de VGO.
+Via deze stap heeft de gebruiker de mogelijkheid om detailgegevens van de VGO in te voeren, zoals naam, aantal kindplaatsen en adresgegevens.
 
 De controle van gegevens bij de VGO bestaat uit twee gedeelten.
 
 Allereerst krijgt de gebruiker een samenvatting te zien van de ingevoerde gegevens van de Gastouder en de VGO en wordt om een bevestiging gevraagd.
 
-Allereerst krijgt de gebruiker een samenvatting te zien van de ingevoerde gegevens van de Gastouder en de VGO en wordt om een bevestiging gevraagd.
+De controle van gegevens bij de VGO bestaat uit twee gedeelten.
 
-Op het tweede scherm krijgt de gebruiker de gebruiker alle details te zien omtrent de zojuist ingevoerde gegevens. Dit betreft gegevens over het GOB, de Houder, de VGO en de Gastouder.
+Allereerst krijgt de gebruiker een samenvatting te zien van de ingevoerde gegevens van de Gastouder en de VGO en wordt om een bevestiging gevraagd.
 
 ### 5.8. Detailstap: toewijzen Houder
 
-De status van de organisatie wordt automatisch op 'Aangemeld' gezet.
+Op dit punt in het proces wordt ook het unieke inschrijvingsnummer aangemaakt en getoond.
 
-De gebruiker krijgt vervolgens de keuze om nog een VGO te registreren onder hetzelfde GOB of een nieuwe VGO te registeren onder een andere GOB.
+De status van de organisatie wordt automatisch op 'Aangemeld' gezet.
 
 Bij het registeren van een OKO dient ook altijd een Houder te worden toegewezen. Op basis van het type OKO dient een onderscheid gemaakt te worden tussen de toewijzing van een:
 
 ### 5.8. Detailstap: toewijzen Houder
 
-Het toewijzen van een Houder geschiedt altijd aan de hand van de volgende stappen:
+Bij het registeren van een OKO dient ook altijd een Houder te worden toegewezen. Op basis van het type OKO dient een onderscheid gemaakt te worden tussen de toewijzing van een:
 
-Indien de persoon nog niet is geregistreerd dan zal worden gevraagd om de gegevens van de NP of de NNP in te voeren.
+Het toewijzen van een Houder geschiedt altijd aan de hand van de volgende stappen:
 
 ### 5.8.1. Registreren Natuurlijk Persoon
 
@@ -1900,13 +1900,13 @@ Het registratieproces doorloopt de volgende stappen:
 
 Het registratieproces doorloopt de volgende stappen:
 
-Het registratieproces doorloopt de volgende stappen:
+Indien een Gastouder nog niet bekend is in het register dan dient deze te worden geregistreerd. De Gastouder is altijd een Natuurlijk Persoon.
 
 ### 5.11. Detailstap: registreren adresgegevens
 
 Het type adresgegevens dat noodzakelijk is kan per module verschillen. In het DFO zal nader worden uitgewerkt welke adresgegevens van toepassing zijn per situatie.
 
-Het type adresgegevens dat noodzakelijk is kan per module verschillen. In het DFO zal nader worden uitgewerkt welke adresgegevens van toepassing zijn per situatie.
+Het opslaan van adresgegevens is een deelproces dat op meerdere plaatsen binnen de applicatie plaatsvindt. Er wordt een onderscheid gemaakt tussen het registeren van de volgende typen adresgegevens:
 
 ### 5.12. Wijzigen van gegevens
 
@@ -1966,21 +1966,21 @@ Periodes van bemiddeling van één VGO bij verschillende GOBs mogen elkaar wel o
 
 Periodes van bemiddeling van één VGO bij verschillende GOBs mogen elkaar wel overlappen; een VGO mag gelijktijdig bemiddeld worden door meerdere GOBs.
 
-Periodes van bemiddeling van één VGO bij verschillende GOBs mogen elkaar wel overlappen; een VGO mag gelijktijdig bemiddeld worden door meerdere GOBs.
+Periodes van bemiddeling van één VGO bij één GOB mogen elkaar niet overlappen.
 
 Via dit scherm kunnen de Gemeenten, de GGD's en de Inspectie van het Onderwijs rapportages uitdraaien over een vooraf gedefinieerde set aan gegevens. Ad-hoc informatie-overzichten zullen door de beheerorganisatie geleverd worden.
 
 ### 5.13. Rapportages
 
-De volgende standaard overzichten kunnen worden geproduceerd:
+Via dit scherm kunnen de Gemeenten, de GGD's en de Inspectie van het Onderwijs rapportages uitdraaien over een vooraf gedefinieerde set aan gegevens. Ad-hoc informatie-overzichten zullen door de beheerorganisatie geleverd worden.
 
-Aanvullend hierop is het gewenst het aantal actieve houders te tellen.
+De volgende standaard overzichten kunnen worden geproduceerd:
 
 Via het Publieksportaal kunnen de gegevens van het Landelijk Register door het publiekworden geraadpleegd. Het is niet mogelijk om gegevens te wijzigen. Het Publieksportaal is voor elke anonieme gebruiker (het publiek) toegankelijk.
 
 ### 6. Publieksportaal
 
-De raadpleegfunctionaliteit van het Publieksportaal zal grotendeels hetzelfde zijn opgebouwd als de raadpleegfunctionaliteit van het Overheidsportaal. Het Publieksportaal zal echter (veel) minder gegevens tonen.
+Via het Publieksportaal kunnen de gegevens van het Landelijk Register door het publiekworden geraadpleegd. Het is niet mogelijk om gegevens te wijzigen. Het Publieksportaal is voor elke anonieme gebruiker (het publiek) toegankelijk.
 
 ### 7. Beheerfunctionaliteit
 
@@ -2030,7 +2030,7 @@ Via dit scherm kan de beheerder gegevens van een gebruiker (bijvoorbeeld naam, g
 
 ### 7.3.2. Wijzigen gebruiker
 
-Het is niet mogelijk om via de gebruikersinterface een gebruiker te verwijderen.
+Via dit scherm kan de beheerder gegevens van een gebruiker (bijvoorbeeld naam, gebruikersnaam, wachtwoord, e-mailadres) wijzigen.
 
 ### 7.3.3. Beheren autorisaties gebruiker
 
@@ -2046,11 +2046,11 @@ De beheerder heeft de mogelijkheid om een nieuwe gebruiker aan te maken. Via een
 
 Het GFO is géén levend document. Het wordt na de fase 'globaal functioneel ontwerp' bevroren. Wijzigingen op het datamodel worden gedocumenteerd in het DFO datamodel.
 
-### 1. Inleiding
+### Documenthistorie
 
 Het GFO is géén levend document. Het wordt na de fase 'globaal functioneel ontwerp' bevroren. Wijzigingen op het datamodel worden gedocumenteerd in het DFO datamodel.
 
-Het GFO is géén levend document. Het wordt na de fase 'globaal functioneel ontwerp' bevroren. Wijzigingen op het datamodel worden gedocumenteerd in het DFO datamodel.
+Dit document beschrijft het globaal functioneel datamodel. Het is onderdeel van het het globaal functioneel ontwerp (GFO) van het Landelijk Register Kinderopvang.
 
 ### 1.1. Doel
 
@@ -2082,6 +2082,8 @@ Kindercentrum (kinderdagverblijf of buitenschoolse opvang), gastouderbureau of v
 
 Periode van rechtsgeldige inschrijving. Er kunnen meerdere perioden per OKO worden vastgelegd.
 
+Kindercentrum (kinderdagverblijf of buitenschoolse opvang), gastouderbureau of voorziening voor gastouderopvang.
+
 Periode van rechtsgeldige inschrijving. Er kunnen meerdere perioden per OKO worden vastgelegd.
 
 De status van een OKO.
@@ -2094,9 +2096,9 @@ Contactgegevens van de OKO. Deze worden niet vastgelegd per periode; alleen de a
 
 Is een soort OKO.
 
-Is een type KC.
-
 Is een soort OKO.
+
+Is een type KC.
 
 Is een soort OKO.
 
@@ -2112,11 +2114,9 @@ Nadere gegevens omtrent de geboden opvang.
 
 De rechtspersoon of natuurlijke persoon van 18 jaar of ouder die een kindercentrum, een voorziening voor gastouderopvang of een gastouderbureauexploiteert.
 
-De natuurlijke persoon van 18 jaar of ouder die een kindercentrum, een voorziening voor gastouderopvang of een gastouderbureauexploiteert.
-
 ### 2.2. Overheids Portaal
 
-De rechtspersoon die een kindercentrum, een voorziening voor gastouderopvang of een gastouderbureauexploiteert.
+Is een houder. Heeft aanvullende kenmerken:
 
 ### 2.2. Overheids Portaal
 
@@ -2138,23 +2138,25 @@ Aanduiding van een locatie (verblijfsobject, standplaats, ligplaats of postadres
 
 Is een adres, in Nederland.
 
+Aanduiding van een locatie (verblijfsobject, standplaats, ligplaats of postadres).
+
+Is een adres, in Nederland, van een postbus of antwoordnummer.
+
 Is een adres, in Nederland.
 
 Is een adres, in Nederland, van een postbus of antwoordnummer.
 
-Is een adres, in Nederland, van een postbus of antwoordnummer.
+### 2.7. Gebruikers en autorisaties
 
 Is een postadres.
 
-### 2.7. Gebruikers en autorisaties
-
 Is een adres, niet in Nederland.
-
-Van contactgegevens wordt geen mutatiehistorie vastgelegd!
 
 Medewerker van een van de overheidsorganisaties die gebruik maken van het overheidsportaal. Ook de medewerkers van de beheerorganisatie worden hierin opgenomen.
 
 Koppeling van een medewerker aan een of meer rollen (en vice versa).
+
+Medewerker van een van de overheidsorganisaties die gebruik maken van het overheidsportaal. Ook de medewerkers van de beheerorganisatie worden hierin opgenomen.
 
 Koppeling van een medewerker aan een of meer rollen (en vice versa).
 
@@ -2170,11 +2172,9 @@ Heeft aanvullende kenmerken:
 
 Is een medewerker, van een bepaalde gemeente.
 
-Heeft aanvullende kenmerken:
-
 ### 2.8. Authenticatie
 
-Is een medewerker, van de Belastingdienst.
+Is een medewerker, van de Inspectie van het Onderwijs.
 
 ### 2.8. Authenticatie
 
@@ -2186,7 +2186,7 @@ Op dit moment nog slechts voorzien in één document, het inspectierapport.
 
 ### 2.9. Documenten
 
-Indien wordt vastgesteld dat het noodzakelijk is meerdere (type) documenten op te slaan (uitbreiding scope), zal het model aangepast moeten worden.
+Op dit moment nog slechts voorzien in één document, het inspectierapport.
 
 ### 2.10. Management informatie
 
@@ -2198,17 +2198,19 @@ Audit trail wordt gebruikt voor 3 zaken. Logging van mutaties (die weer gebruikt
 
 Tijd-assen van aangebrachte wijzigingen.
 
-Tijd-assen van aangebrachte wijzigingen.
+Audit trail wordt gebruikt voor 3 zaken. Logging van mutaties (die weer gebruikt worden voor tijdreizen), logging van gebeurtenissen (bv. aanmelden door gebruiker) en logging van 'raadplegingen'. De tweede is slechts voor zover gemodelleerd als nu functioneel onderkend is. De logging van raadplegingen is (nog) niet gemodelleerd.
 
 ### 2.12. Beheer
 
-Is een logging; van het aanmelden door een gebruiker, of een poging daartoe.
+Registratie van een gebeurtenis (event).
 
-Hiermee worden **niet** de eventuele authenticatie-pogingen van niet bekende gebruikers geregistreerd.
+Is een logging; van het aanmelden door een gebruiker, of een poging daartoe.
 
 Definieert alle mogelijke postcodes en postcode/huisnummer combinaties.
 
 Legt relatie tussen postcode/huisnummer en straatnaam.
+
+Definieert alle mogelijke postcodes en postcode/huisnummer combinaties.
 
 Legt relatie tussen postcode/huisnummer en straatnaam.
 
@@ -2220,11 +2222,9 @@ Legt relatie tussen woonplaats en gemeente.
 
 Definieert alle mogelijke gemeenten.
 
-Definieert alle mogelijke landen.
-
 ### 2.13. Help
 
-Gemeentelijke gezondheidsdienst. Voert namens de gemeente taken uit in de openbare gezondheidszorg, waaronder KO inspecties.
+Is een Gemeente. Heeft aanvullende kenmerken:
 
 ## Bijlage 3
 
@@ -2240,7 +2240,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. Dit artikel vervalt met ingang van 1 januari 2012.
 
-## Bijlage 1f
+## Bijlage 1e
 
 ### Documenthistorie
 
@@ -2248,23 +2248,23 @@ Deze ProjectStartArchitectuur (PSA) bevat een eerste opzet voor de architectuur 
 
 ### 1. Inleiding
 
-Enerzijds is het een document dat (gefaseerd) de kaders voor de tussen- en de eindoplossing beschrijft als ingangsdocument voor functioneel, technisch en database-ontwerp. Hiermee zijn de functioneel en technisch en ontwerpers/lead developers/DBA's doelgroep van dit document.
+De doelgroep voor deze PSA is divers:
 
 ### 1.2. Scope van dit document
 
-Het geheel aan voorzieningen (systeemcomponenten) dat het totale werkveld van de uitvoering van de [Wet Kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) op termijn zal ondersteunen, is van dusdanige omvang en complexiteit, dat voor een gefaseerde aanpak is gekozen. In het PID ‘Landelijk Register Kinderopvang’ v1.1 [1] is een volledige beschrijving gegeven van het geheel aan voorzieningen.
+Dit document is een PSA en werkt het ‘negen + twee’-vlakmodel van de NORA uit . Voor een gedetailleerde toelichting wordt verwezen naar het NORA 2.0 rapport.
 
 ### 1.3. Leeswijzer
 
-In de hoofdstukken 4, 5 en 6 worden conform NORA de Bedrijfs-, Informatie- en Technische Architectuur uitgewerkt.
+Hoofdstuk 3 bevat een eerste opdeling in processen en onderkende componenten.
 
 ### 1.4. Relatie met de andere architectuurdocumenten
 
-Daarnaast zijn er in het aandachtsgebied Kinderopvang een aantal andere referentiearchitecturen bekend, maar waarvan is vastgesteld, dat deze **in deze eerste fase tot 1-1-2010 niet van toepassing zijn**. Te denken valt aan GEMMA, de gemeentelijke Model Archtitectuur en de Model Architectuur voor Rijkstoezichts- en Handhavingseenheden (MARTHE) [4].
+In dit deel van het project wordt een aantal andere architecturen toegepast als kaderstellend:
 
 ### 1.5. Relatie met andere documenten op lager niveau
 
-GEMMA is nog buiten beschouwing aangezien de scope van deze PSA alleen het Landelijk Register en de ontsluiting ervan via portalen betreft en niet de ontsluiting via berichten. Ook zijn de processen niet relevant aangezien deze onder het deel-project Implementatie en niet ICT vallen. Wel is het onderdeel RSGB meegenomen in de beschrijving van het gegevensmodel.
+MARTHE is nog niet relevant aangezien het als architectuur iets zegt over de processen Toezicht houden en Handhaven en deze zijn beide voor deze PSA-versie nog buiten scope.
 
 ### 2. Achtergrond
 
@@ -2276,7 +2276,7 @@ Reden voor de introductie van deze nieuwe wet is meerledig:
 
 ### 2.2.2. Oplossing
 
-ICT-technisch worden de volgende deel-resultaten onderkend:
+Om de bovengenoemde problemen op te lossen is een integrale aanpak nodig, zowel ICT als administratieve organisatie hebben een rol te spelen in de oplossing.
 
 ### 2.3. Projectaanpak
 
@@ -2284,19 +2284,19 @@ Op basis van de in bovenstaande paragraaf benoemde problemen die opgelost moeten
 
 ### 2.3. Projectaanpak
 
-In deze context ziet de omgeving als volgt uit:
+Zoals hierboven al benoemd is de kern van het op te leveren complex van ICT-voorzieningen het **register** zelf en de andere benoemde voorzieningen ten behoeve van de ontsluiting van de registergegevens.
 
 ### 3. Scope en uitgangspunten
 
-NB: In hoofdstuk 4 wordt nader gegaan op de taken en verantwoordelijkheden van de verschillende relevante actoren in de omgeving van het Landelijk Register.
+Hoe ziet de omgeving er per 1-1-2010 uit?
 
 ### 3. Scope en uitgangspunten
 
-Vooruitlopend op een meer gedetailleerde uitwerking in de verschillende hoofdstukken over de bedrijfs-, informatie en technische architectuur (resp. hoofdstuk 4, 5 en 6) wordt in deze iteratie een drietal systeemcomponenten gerealiseerd, die in vervolgfasen verder geïntegreerd zullen worden met de overige benodigde componenten.
+De scope van de eerste iteratie van het project heeft gevolgen voor de mate waaraan aan de verschillende referentiearchitecturen wordt voldaan.
 
 ### 3.1.1. Processcope ondersteuning
 
-Deze PSA beschrijft de volgende voorzieningen:
+De ICT-ondersteuning voor processen die plaatsvinden binnen de gemeenten (zoals het behandelen van aanvragen voor registratie, het verstrekken van beschikkingen) vallen buiten de scope van dit project.
 
 ### 3.1.1. Processcope ondersteuning
 
@@ -2308,15 +2308,15 @@ In deze fase zijn nog geen externe systemen in scope.
 
 ### 3.1.3. Externe systemen
 
-Deze zijn nog niet in scope als externe systemen, de definities zijn al wel meegenomen in het conceptueel gegevensmodel. Op termijn wordt een systeemkoppeling met de landelijke registers GBA en NHR wel voorzien.
+In deze fase zijn nog geen externe systemen in scope.
 
 ### 3.2. Uitgangspunten algemeen en ontwerpbeslissingen
 
-NB: De referentiearchitectuur Onderwijs bevat een interpretatie van de NORA principes die in beginsel van toepassing zijn op deze PSA, zij het dat in de eerste oplevering zoals nu voorziening is per 1-1-2010 niet aan alle principes kan worden voldaan. De reden is dat een deel buiten verantwoordelijkheid van het ICT-project valt, voorts wordt er nu nog geen integrale oplossing wordt gerealiseerd, slechts alleen het Landelijk Register onderdeel. Voor inhoudelijke vertaling van de principes van OCW, wordt verwezen naar het document ‘Referentiearchitectuur Onderwijs’ d.d. 29 september 2008 van B. Gaakeer.
+De overheid is voornemens de interoperabiliteit tussen overheidsinstellingen te verbeteren. Daarvoor worden in toenemende maten standaarden benoemd en afspraken gemaakt over de wijze waarop met elkaar gecommuniceerd gaat worden. De NORA is daarvan een uitvloeisel. Om toe te lichten op welke wijze dit ICT-project de NORA principes interpreteert worden de 20 fundamentele principes genoemd en vertaald naar de projectarchitectuur.
 
 ### 4. Bedrijfsarchitectuur
 
-Verder wordt gebruikt gemaakt van de volgende standaarden:
+DE NORA-TEKSTEN ZIJN LETTERLIJK OVERGENOMEN
 
 ### 4. Bedrijfsarchitectuur
 
@@ -2324,15 +2324,15 @@ In het aandachtsgebied zijn vier processen te onderkennen:
 
 ### 4.2. Architectuureisen
 
-Het overzicht bevat per (deel)principe de status:
+In hoofdstuk 3 zijn de fundamentele principes van de NORA behandeld. De relevante **afgeleide** principes worden in deze paragraaf nader toegelicht. Per principe wordt een toelichting gegeven op de wijze waarop deze PSA het principe interpreteert.
 
 ### 4.3. Organisatie
 
-Daarnaast zijn er belanghebbenden die een relevante rol vervullen binnen het aandachtsgebied hetzij in uitvoerende zin, hetzij in afnemende zin.
+Bij de uitvoering van de [Wet Kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) zijn de volgende organisaties betrokken:
 
 ### 4.4. Processen
 
-Om de benodigde voorzieningen voor ondersteuning van de processen goed te kunnen ondersteunen zijn de hoofdprocessen opgeknipt in deelprocessen:
+**het verbeteren van toezicht op kinderopvang, misbruik en oneigenlijk gebruik van geld en middelen terug te dringen en het stelsel van de Wet kinderopvang toegankelijk en beheersbaar te houden.**
 
 ### 4.4.1. Positionering ten opzicht van NORA paradigma
 
@@ -2344,11 +2344,11 @@ De gemeente ontvangt een aanvraag voor registratie van een kinderopvang in het L
 
 ### 4.4.2. Ketenproces Registreren nieuwe kinderopvang
 
-De meeste gemeenten hebben hun handhavingsbeleid vastgelegd. Daarmee is bepaalt elke gemeente, binnen de kaders van de wet, **hoe** de uitvoering van het beleid plaatsvindt. **Wat** er gedaan moet worden voor de uitvoering staat in de wetgeving vast. Een wijze om het wat te beschrijven is het toepassen van bedrijfsfuncties in plaats van processen.
+De **bedrijfsprocessen** zijn een decompositie van de ketenprocessen.
 
 ### 4.4.2.2. ICT-ondersteuning functies tbv Registreren
 
-**C= creatie, R = raadplegen, U = updaten (muteren)van gegevens en D = delete (verwijderen).**
+**In de cellen achter de deelfuncties staan CRUD-tekens dit houdt in:**
 
 ### 4.4.3. Ketenproces Wijzigen registratie kinderopvang
 
@@ -2368,7 +2368,7 @@ Deze paragraaf beschrijft welke diensten en services de Gemeenschappelijke Inspe
 
 ### 4.5. Diensten en services
 
-Voor de relevante definities van deze termen wordt verwezen naar NORA (zie Bijlage B).
+Deze paragraaf beschrijft welke diensten en services de Gemeenschappelijke Inspectieruimte biedt. In de NORA wordt met een DIENST bedoelt het resultaat of effect van een afgeronde inspanning die de overheid op basis van wettelijke taken levert en waarmee in een behoefte van een burger of bedrijf wordt voorzien. Een service is vrij vertaald een interne dienst, ofwel tussen overheidsorganisaties.
 
 ### 4.5.1. Diensten
 
@@ -2384,11 +2384,11 @@ Bij de eerste oplevering wordt alleen gebruik gemaakt van standaard tabellen. Ve
 
 ### 5. Informatiearchitectuur
 
-In de eerste oplevering van het systeemcomplex (1-1-2010) wordt een beperkte set aan services aangeboden. Als uitgangspunt geldt dat in de hoofdstuk 4.4.4 beschreven functies die betrekking hebben op het LR ondersteund worden. Op gebruik van deze functies is een autorisatiemodel van toepassing. Het autorisatiemodel moet door de Overheidsportaal ondersteund worden. Daarnaast wordt die informatie uit het Landelijk Register die als openbaar wordt beschouwd, via een openbare website aangeboden aan alle belangstellenden. Dit vindt plaats via het Publieksportaal.
+Aangezien de expliciete splitsing van het systeemcomplex in afzonderlijk op te leveren componenten, wordt als uitgangspunt voor de architectuur de service-geörienteerde benadering gekozen (SGA). Vanuit de oogpunt van service-oriëntatie, beschouwen wij het Landelijke Register als een goed afgebakende systeem die ontsloten wordt via een set van services. Wij noemen ze de Register Services. Zowel de Overheidsportaal als Publieksportaal maken gebruik van deze services.
 
 ### 5.2. Architectuurplaat
 
-Het aantal afzonderlijke gebruikersaccounts per doelgroep wordt nader bepaald.
+De onderstaand tabel geeft aan de doelgroepen die gebruik kunnen maken van de services van Overheidsportaal waarop ze afzonderlijk geautoriseerd moeten worden
 
 ### 5.2. Architectuurplaat
 
@@ -2396,25 +2396,25 @@ Onderstaande afbeelding geeft de beoogde situatie weer per 1-1-2010. In deze sit
 
 ### 5.3. Architectuureisen
 
-Onderstaande figuur geeft de middellange termijn visie aan op de samenhang van de informatievoorzieningen binnen sector Onderwijs:’
+Referentiearchitectuur Onderwijs bevat aantal generieke principes die van invloed zijn op de positionering van door het project op te leveren ICT informatievoorzieningen binnen de e-overheid en op de keuzes van functionele scope van de afzonderlijke componenten van het systeemcomplex.
 
-### 5.3.2.1. Applicaties
+### 5.3.2. Relevante NORA principes
 
 In deze paragraaf zijn de globale gegevensmodel van het Landelijke Register behandeld, de objectdefinities en de wijze waarop omgegaan moet worden met historische gegevens. Bij het opstellen van het model zijn wetsteksten als uitgangspunt gebruikt.
 
-### 5.4. Gegevens
+### 5.3.2.2. Gegevens
 
 In onderstaand overzicht zijn alle relevante ontwerpbeslissingen die betrekking hebben op het gegevensmodel vastgelegd.
 
 ### 5.4.1. Ontwerpbeslissingen gegevensmodel
 
-Ontwerpbeslissingen die betrekking hebben op de individuele objecten in het model, zijn bij de objectbeschrijvingen opgenomen.
+In onderstaand overzicht zijn alle relevante ontwerpbeslissingen die betrekking hebben op het gegevensmodel vastgelegd.
 
 ### 5.4.3. Objectdefinities
 
 Het logisch gegevensmodel is opgesteld in UML notatie. UML is een industrie standaard en is zeer geschikt voor de software ontwikkeling. In Bijlage C is een toelichting gegeven op gebruik van UML.
 
-### 5.4.3.1. Abstracties
+### 5.4.3. Objectdefinities
 
 Aantal objecten in het model zijn abstracties die zorgen voor de semantische consistentie van het model en aansluiting op de Semantische kern van het Stelsel van Basisregistraties. Ze kunnen ook worden gedefinieerd zijn verzamelbegrippen die gebruikt worden om gemeenschappelijke kenmerken en gedrag van concrete objecten uit de werkelijkheid aan te duiden.
 
@@ -2428,19 +2428,19 @@ Belastingdienst stelt nog bredere pakken aan eisen m.b.t.’tijdreizen’ en bew
 
 ### 5.4.4.2. Basis principes
 
-Op basis van deze beschouwing kan de vastgesteld worden over de inrichting van het LR:
+Datums van geldigheid van gegevens hebben betrekking op de aangehouden werkelijkheid. Het LR is immers de rechtsgeldige bron van gegevens voor het bepalen van recht op toeslag. Geldigheid van bepaalde gegevens kan van invloed zijn op recht op toeslag. Dit is niet hetzelfde als geldigheid van besluit over toekennen van toeslag. Een dergelijk besluit kan genomen zijn op basis van gegevens die op het moment van het nemen van het besluit geldig waren. Zo'n besluit is dus rechtsgeldig tot stand gekomen. Als gegevens op een latere tijdstip niet meer geldig blijken zijn, moet zo'n besluit mogelijk herzien worden op basis van de nieuwe gegevens die op een latere tijdstip bekend zijn geworden. Het oude besluit is niet meer geldig en er komt een nieuw besluit dat betrekking heeft op een periode in het verleden.
 
 ### 5.5. Berichten
 
-**Richtlijnen voor de adminstratieproces:**
+**Richtlijnen voor de aangehouden werkelijkheid:**
 
 ### 5.5. Berichten
 
-Het beschrijft daarnaast onderbouwd de keuzes die op basis van deze kaders gemaakt zijn en de eventuele aanvullende aannames die nodig waren.
+Dit hoofdstuk beschrijft de eisen en kaders die gebruikt worden bij de ontwikkeling van het systeemcomplex Landelijk Register Kinderopvang.
 
 ### 6.1. Architectuureisen
 
-Er zijn geen eisen bekend over het Overheidsportaal, als eerste aanname zijn de eisen die aan GIR-KO gesteld zijn overgenomen met een kleine verduidelijking betreffende het beschikbaarheidspercentage:
+Deze eisen zijn in de uitgangsdocumentatie van het Publieksportaal [6] bijna één-op-één overgenomen, hoewel dit qua aantallen concurrent gebruikers een lage schatting lijkt. In plaats daarvan worden de volgende aannames betreffende non-functional gedaan:
 
 ### 6.2. Applicatie en database
 
@@ -2448,23 +2448,23 @@ Deze keuze betekent dat hardware en besturingssysteem 'vrij' zijn, JEE wordt op 
 
 ### 6.2.1.1. Webrichtlijnen
 
-Het gebruik van de bovengenoemde marktstandaarden garandeert welhaast de beschikbaarheid van kwalitatief hoogwaardige ontwikkelaars en bekendheid bij mogelijk ontvangende beheerpartijen.
+Deze keuze betekent dat hardware en besturingssysteem 'vrij' zijn, JEE wordt op alle normale hardware en besturingssysteem ondersteund en is voor bedrijfskritische web-applicaties de open source marktstandaard.
 
 ### 6.2.1.1. Webrichtlijnen
 
-Voor het Landelijk Register zelf geldt dat gegeven
+Voor de opslag van gegevens die binnen het systeemcomplex zelf wordt gebruik gemaakt van een relationele database.
 
 ### 6.3. Middleware
 
-Gegeven het feit dat alle communicatie tussen de externe systemen en de componenten via webservices loopt is gebruik van een servicebus een vereiste. Vanuit eenvoud is het handig om gebruik te maken van binnen ICTU bekende technologie.
+Voor de mogelijk op te leveren directe koppelingen naar gemeente-systemen of aansluiting op GBA wordt zo mogelijk gebruik gemaakt van de GEMMA-infrastructuur, GEMNET.
 
 ### 6.4. Platformen
 
-Standaard wordt gebruik gemaakt van Linux, tenzij de software de op deze hardware moet gaan draaien een ander operating systeem vereist. Op basis van de niet-functionele eisen op het gebied van prestaties en performance wordt de sizing van de hardware uitgevoerd. Virtualisatie moet ondersteund worden.
+Transparant vanwege het gebruik van Java.
 
 ### 6.5. Netwerkarchitectuur
 
-Nadere detaillering vindt plaats in de nog op te leveren documenten Systeem Architectuur Definitie [5] en/of het Deployment Document [16].
+De eisen die gesteld moeten worden betreffende infrastructurele software zijn:
 
 ### 6.5. Netwerkarchitectuur
 
@@ -2476,7 +2476,7 @@ De inhoud van dit hoofdstuk is gebaseerd op deze set van eisen en is nog niet af
 
 ### 7.1. Eisen
 
-In dit hoofdstuk zal gebruik gemaakt worden van de volgende aannames:
+De inhoud van dit hoofdstuk is gebaseerd op deze set van eisen en is nog niet afgestemd met de (nog niet bekende) toekomstige beheerpartij. In deze paragraaf wordt uitgegaan van één toekomstige beheerpartij.
 
 ### 7.1. Eisen
 
@@ -2484,7 +2484,7 @@ Ten behoeve van de uitvoering van de taken zoals hierboven verondersteld worden 
 
 ### 8. Beveiliging
 
-Met betrekking tot informatiebeveiliging ‘Stelt [het lijnmanagement] op basis van een expliciete risico afweging de betrouwbaarheidseisen voor zijn informatiesystemen vast’.
+Voor de rijksoverheid is het Voorschrift Informatiebeveiliging Rijksdienst 2007 (VIR 2007) leidend. Hierin wordt aangegeven (artikel 4) dat ‘het lijnmanagement is verantwoordelijk voor de beveiliging van zijn informatiesystemen’.
 
 ### 8.1.1. Typering van informatie: WBP-classificatie
 
@@ -2492,7 +2492,7 @@ De typering van de persoonsgegevens bepaalt met name welke beveiligingsmechanism
 
 ### 8.1.1. Typering van informatie: WBP-classificatie
 
-Voor het Landelijk Register Kinderopvang en het Overheidsportaal wordt WBP Risicoklasse II ondersteund. Voor de andere onderdelen van het systeemcomplex moet op basis van de eigen gegevens van die onderdelen een nadere inschatting gemaakt worden, rekening houdende met de koppelvlakken tussen die onderdelen en het Landelijk Register.
+De typering van de persoonsgegevens bepaalt met name welke beveiligingsmechanismen van toepassing zijn voor verwerking door de Landelijk Register Kinderopvang. Elke daar aan verbonden risicoklasse stelt zijn eigen voorwaarden aan de te overwegen beveiligingsmaatregelen.
 
 ### 8.1.2. Functies van informatiebeveiliging
 
@@ -2500,7 +2500,7 @@ De informatiebeveiligingsfuncties kunnen worden ingevuld door één of een combi
 
 ### 8.1.3. Beveiligingsmechanismen
 
-De mechanismen vormen een balans tussen maatregelen die preventief, detectief en correctief van aard zijn.
+De informatiebeveiligingsfuncties kunnen worden ingevuld door één of een combinatie van beveiligingsmechanismen. Beveiligingsmechanismen zijn bijvoorbeeld cryptografie, rollen en toegangsrechten, authenticatie van gebruiker, invoervalidatie, foutafhandeling, machine of proces, regels en richtlijnen, procedure, back-up en restore. Elk mechanisme wordt ingevuld met een combinatie van fysiek, organisatie, procedure, functie en techniek.
 
 ### 8.2. Aandachtspunten per component
 
@@ -2516,17 +2516,17 @@ De belangrijkste taak van het Overheidsportaal is fungeren als beheer-interface 
 
 ### 8.2.3. Publieksportaal
 
-Vooruitlopend op deze uitwerking zijn de volgende eisen te hanteren:
+De beveiligingseisen zijn uit te werken in het nog te schrijven beveiligingsplan, dat geschreven wordt op basis van de daarvoor uit te voeren risicoanalyse.
 
 ### 8.4. Te nemen algemene beveiligingsmaatregelen
 
-Wanneer de eisen aan het systeem zodanig zijn dat de risicoanalyse uitwijst dat er sprake is van gegevensverwerking volgens WBP classificatie 3 dan heeft dit een groot aantal extra maatregelen tot gevolg. Een dergelijke opschaling van de classificatie is zeer ingrijpend voor de architectuur.
+Deze eisen moeten in het beveiligingsplan nader uitgewerkt worden.
 
 ### A. Referenties
 
 De opvolgende stappen moeten in kader van het ICT-project en de projecten Implementatie of Beheer genomen worden om het hele scala van beveiliging af te dekken:
 
-### B. NORA-definities
+### A. Referenties
 
 UML is een grafische modelleertaal die zijn oorsprong vindt in de objectoriëntatie. Belangrijke begrippen uit de objectoriëntatie, zoals klasse en overerving, worden in UML aanschouwelijk gemaakt in het **klassediagram**.
 
@@ -2534,13 +2534,13 @@ UML is een grafische modelleertaal die zijn oorsprong vindt in de objectoriënta
 
 Dit document beschrijft het globaal functioneel procesmodel. Het is onderdeel van het globaal functioneel ontwerp (GFO) van het Landelijk Register Kinderopvang.
 
-### 1. Beschrijving LRK-applicatie
+### Documenthistorie
 
 Het globaal functioneel procesmodel beschrijft de relatie tussen use-cases en modules die nodig worden geacht voor ondersteuning van de gewenste functionaliteit.
 
 ### 1.1. Doel
 
-Het globaal functioneel procesmodel bevat niet een volledige en gedetailleerde beschrijving, maar beschrijft slechts op hoofdlijnen de inhoud van de modules. In het globaal functioneel datamodel is aangegeven welke gegevens per module gebruikt en bewerkt worden.
+Het globaal functioneel procesmodel beschrijft de relatie tussen use-cases en modules die nodig worden geacht voor ondersteuning van de gewenste functionaliteit.
 
 ### 1.2. Doelgroep
 
@@ -2552,7 +2552,7 @@ Het volledige functioneel ontwerp wordt opgebouwd in twee stappen. Eerst wordt h
 
 ### 1.4. Relaties met andere documenten
 
-Het functioneel ontwerp baseert zich primair op de project start architectuur (PSA), en op de functionele requirements, beschreven in de geprioriteerde requirements list (PRL). Het functioneel ontwerp vormt samen met prototype en technisch ontwerp (SAD) de basis voor realisatie.
+Het volledige functioneel ontwerp wordt opgebouwd in twee stappen. Eerst wordt het Globaal functioneel ontwerp (GFO) opgesteld. Dit bestaat uit een procesmodel (dit document), een datamodel en het interactie-ontwerp, evenals een prototype. Het Detail functioneel ontwerp (DFO) bevat de uitwerking van hetgeen in het GFO op hoofdlijnen is vastgesteld.
 
 ### 1.5. Leeswijzer
 
@@ -2564,7 +2564,7 @@ Hierbij is een drietal systeemcomponenten onderkend:
 
 ### 2.2. Functionele decompositie
 
-Daarnaast wordt een systeemcomponent onderkend ten behoeve van het beheer.
+Hierbij is een drietal systeemcomponenten onderkend:
 
 ### 2.2. Functionele decompositie
 
@@ -2572,7 +2572,7 @@ In de PSA is een functionele decompositie opgenomen van de processen in het werk
 
 ### 2.3. Procesflows
 
-Na een **succesvolle, voorlopige** registratie wordt de GGD (Medewerker Keten) op de hoogte gebracht van een nieuwe (voorlopige) inschrijving. Binnen 8 weken moet de GGD de inspectie uitvoeren. Na de uitvoering van de inspectie wordt een inspectierapport en advies opgesteld door de GGD en verstrekt aan de aanvrager. Indien deze aanleiding ziet voor verweer, kan de aanvrager een zienswijze opstellen. Indien geen bevinding is aangetroffen, geeft de aanvrager daarmee aan akkoord te gaan met het inspectierapport. De GGD stelt een uiteindelijk inspectierapport op en stuurt het naar de aanvrager en de gemeente waar de OKO gevestigd wordt.
+Indien uit de eerste globale analyse blijkt dat de aanvraag volledig genoeg is voor verdere behandeling worden de gegevens van de aanvraag vastgelegd in het LR. Daarbij wordt een kenmerk aangebracht waaruit af te leiden is dat het om een aanvraag gaat en nog geen definitieve inschrijving. Bij de (voorlopige) registratie kunnen zich situaties voordoen, waarbij verwerking in het LR niet mogelijk is. Daarmee wordt het registratieproces beëindigd.
 
 ### 2.3.1.1. Vastleggen ontvangen aanvraag voor registratie
 
@@ -2588,7 +2588,7 @@ De geautoriseerde gebruiker (Gegevensverwerker gemeente) kiest een soort opvang 
 
 ### 2.3.1.1.3. Invoeren gegevens houder (gastouder)
 
-De gebruiker voert gegevens van de houder van een OKO in. Het systeem controleert of de houder (natuurlijke of niet-natuurlijke persoon) reeds in het register aanwezig is. Indien dit niet het geval is, voert de gebruiker de resterende nieuwe gegevens van de houder. Indien blijkt uit de aanvraag dat de houder van een VGO niet de gastouder zelf is maar een Niet-natuurlijk persoon, dan moeten ook de gegevens van een gastouder ingevoerd worden. Nadat de gegevens zijn ingevoerd worden deze door het systeem gecontroleerd. Indien de invoer correct is bevonden wordt dat door het systeem gemeld.
+De gegevens van de OKO zijn ingevoerd. Bij elke OKO moet een een houder worden vastgelegd. Ook de Voorziening van GastouderOpvang (VGO) heeft een houder. Dit zal in de meeste gevallen dezelfde natuurlijke persoon (mens) zijn als de gastouder, maar een persoon kan er volgens de wet ook voor kiezen om te communiceren met de overheid als een onderneming, dus via het KvK-nummer. De wetgever heeft bepaald dat te allen tijde de gastouder die actief is op de VGO bekend moet zijn. Derhalve wordt onderscheid gemaakt tussen de Niet-natuurlijke persoon als houder van een VGO en de gastouder zelf. In alle gevallen moet dus de gastouder worden vastgelegd die de daadwerkelijke uitvoering van de VGO verzorgd.
 
 ### 2.3.1.2. Vastleggen inspectierapport
 
@@ -2596,7 +2596,7 @@ De gemeente ontvangt een inspectierapport en advies van de GGD (medewerker keten
 
 ### 2.3.1.3. Vastleggen definitieve inschrijving van OKO in LRK
 
-Daarom wordt de gebruiker door het systeem zo goed mogelijk ondersteund bij het volledig invoeren van de benodigde gegevens over een organisatie voor kinderopvang, zoals in de wet- en regelgeving is bepaald.
+Het definitief inschrijven van een OKO is een handeling van de gegevensverwerker gemeente die rechtsgeldige gevolgen kan hebben voor de geregistreerde of gebruikers van de ‘subjecten’ dus de OKO's, die eraan refereren in bijvoorbeeld de aanvragen voor toeslagen.
 
 ### 2.3.1.4. Afronden registratie
 
@@ -2616,7 +2616,7 @@ In het Interactiemodel dat onderdeel is van het Globaal Functioneel ontwerp word
 
 ### 2.3.4. Raakvlakken met Interactiemodel
 
-In onderstaande tabel is een inventarisatie opgenomen van de mens-machine-interacties per processtap zoals beschreven in het voorliggende procesmodel.
+In het Interactiemodel dat onderdeel is van het Globaal Functioneel ontwerp wordt een algemene conceptuele beschrijving gegeven van de gebruikersinterface. Het beschrijft de wijze waarop de mens-machine-interactie plaatsvindt.
 
 ### 3. Overview use cases
 
@@ -2628,7 +2628,7 @@ Het overheidsportaal is de systeemcomponent dat gebruikt wordt door bevoegde fun
 
 ### 3.1.2. Overheidsportaal
 
-De volgende use cases maken gebruik van het Overheidsportaal:
+Het overheidsportaal is de systeemcomponent dat gebruikt wordt door bevoegde functionarissen om de gegevens van organisaties van kinderopvang te registreren en te gebruiken.
 
 ### 3.1.3. Landelijk register services
 
@@ -2640,19 +2640,19 @@ Een module is een op zichzelf staande, identificeerbare groep functies, die als 
 
 ### 3.3. Relatie use-cases en modules
 
-De use cases gebruiken de verschillende modules.
+Een module is een op zichzelf staande, identificeerbare groep functies, die als geheel een bepaalde doel hebben.
 
 ### 4. Modules LRK-applicatie
 
-Het betreft dan het creëren, raadplegen en wijzigen van gegevens in het register, maar ook het genereren van overzichten.
+De module Landelijk register bevat de services die nodig zijn om de aangeleverde input te kunnen verwerken en de gevraagde output te kunnen leveren.
 
 ### 4.2. Module Publieksportaal
 
-Het publieksportaal wordt opgenomen in een website van OCW die ook algemene informatie bevat over de relevante wet- en regelgeving of verwijzingen naar bronnen en actuele informatie.
+De module Publieksportaal is de presentatie laag voor de ‘anonieme gebruiker’ en bevat services om via internet informatie te ontsluiten uit het Landelijk register. De module stelt schermen samen, afhankelijk van de actie die door de gebruiker is uitgevoerd.
 
 ### 4.3. Module Overheidsportaal
 
-Schermen in het overheidsportaal:
+De module stelt schermen samen, afhankelijk van de actie die de gebruiker uitgevoerd heeft of kiest om uit te gaan voeren.
 
 ### 4.4. Module Natuurlijke personen
 
@@ -2660,7 +2660,7 @@ Afhankelijk van de vragende module (overheidsportaal of publieksportaal) mogen g
 
 ### 4.5. Module Niet-natuurlijke personen
 
-In welke mate deze module zal wijzigen na de koppeling met de GBA is nu nog niet bekend.
+Afhankelijk van de vragende module (overheidsportaal of publieksportaal) mogen gegevens geleverd worden.
 
 ### 4.5. Module Niet-natuurlijke personen
 
@@ -2668,7 +2668,7 @@ Er wordt onderscheid gemaakt tussen binnenlandse en buitenlandse adressen. Daarn
 
 ### 4.7. Module Gebruikers
 
-Een gebruiker is ‘iedereen die mens is en feitelijk communiceert met het systeem’ in een bepaalde rol. Een Actor is een rol die interacteert met het systeem. De rol kan door een persoon of door een ander systeem worden vervuld. Per rol wordt bepaald welke rechten de gebruiker heeft om handelingen te verrichten met het systeem. De rechten hebben betrekking op toegang tot schermen, buttons (functies) of velden op het scherm.
+De gebruikers van het Overheidsportaal moeten geïdentificeerd kunnen worden. Deze module Gebruikers behelst alle services die noodzakelijk zijn voor het registeren en beheren van gebruikers.
 
 ### 4.8. Module Authenticatie
 
@@ -2692,13 +2692,13 @@ Deze gegevens zijn ook aan veranderingen onderhevig. Deze module biedt de mogeli
 
 ### 4.13. Module Help
 
-Daarnaast zijn er gegevens die per gemeente worden beheerd zoals contactgegevens van de gemeenten en de GGD.
+Deze gegevens zijn ook aan veranderingen onderhevig. Deze module biedt de mogelijkheid om deze gegevens te onderhouden.
 
 ### 5. High level collaboration diagram
 
 Deze module biedt de mogelijkheid om informatie over de toepassing van het publieksportaal of overheidsportaal te presenteren.
 
-### 5.1. Primaire proces
+### 5. High level collaboration diagram
 
 Voor drie Actoren is het collaboration diagram weergegeven in onderstaande afbeelding. Daarin wordt op hoofdlijnen aangegeven hoe de modules samenwerken om de volgende actoren te ondersteunen:
 
@@ -2710,13 +2710,13 @@ De Actoren **Gegevensverwerker Gemeente en Medewerker Keten** hebben verschillen
 
 De geautoriseerde gebruiker (Functioneel beheerder, Gegevensverwerker Gemeente) is verantwoordelijk voor het onderhouden van de gegevens over de GGD en de Gemeente. Daarnaast is de functioneel beheerder geautoriseerd om overzichten te genereren, waarvoor geen standaard rapportage functionaliteiten ontwikkeld zijn.
 
-### Documenthistorie
+### Interactie Ontwerp
 
 Dit document beschrijft het Interactiemodel en is onderdeel van Functioneel Ontwerp (FO). Het Interactiemodel is een algemene (conceptuele) beschrijving van de gebruikersinterface en is een verdere uitdieping van, en tekstuele toelichting op, het Globaal Prototype (GP).
 
 ### 1.1. Doel van dit document
 
-Het volledige functioneel ontwerp wordt opgebouwd in twee stappen. Het Globale Functionele Ontwerp (GFO) is een eerste opzet van het functionele ontwerp en zal uiteindelijk dienen als input voor het Detail Functioneel Ontwerp (DFO).
+Dit document beschrijft het Interactiemodel en is onderdeel van Functioneel Ontwerp (FO). Het Interactiemodel is een algemene (conceptuele) beschrijving van de gebruikersinterface en is een verdere uitdieping van, en tekstuele toelichting op, het Globaal Prototype (GP).
 
 ### 1.2. Doelgroep
 
@@ -2728,7 +2728,7 @@ Dit document is opgesplitst in een aantal hoofdstukken:
 
 ### 1.4. Leeswijzer
 
-Het functioneel ontwerp baseert zich primair op de project start architectuur (PSA), en op de functionele requirements, beschreven in de geprioriteerde requirements list (PRL). Het functioneel ontwerp vormt samen met prototype en technisch ontwerp (SAD) de basis voor realisatie.
+Het volledige functioneel ontwerp wordt opgebouwd in twee stappen. Eerst wordt het Globaal functioneel ontwerp (GFO) opgesteld. Dit bestaat uit een procesmodel (dat de functionele applicatiestructuur beschrijft), een datamodel en het interactie-ontwerp (dit document), evenals een prototype. Het Detail functioneel ontwerp (DFO) bevat de uitwerking van hetgeen in het GFO op hoofdlijnen is vastgesteld.
 
 ### 1.6. Openstaande punten
 
@@ -2748,7 +2748,7 @@ Het publieksportaal wordt gepositioneerd als een zelfstandige website en vormt g
 
 ### 2.4. Beheerinterface
 
-Het Publieksportaal bestaat uit de volgende 'hoofdschermen':
+Het publieksportaal wordt gepositioneerd als een zelfstandige website en vormt géén onderdeel van een of meer andere website(s).
 
 ### 2.4. Beheerinterface
 
@@ -2768,7 +2768,7 @@ De primaire navigatie bestaat uit een persistent hoofdmenu, getoond in het vaste
 
 ### 3.3.1. Primaire navigatie
 
-Het menu bestaat slechts uit deze twee lagen. Meer complexe, samengestelde mutaties worden verzorgd door een 'wizard' (stappenplan). Daaronder vallen alle aanvragen die een mutatie betreffen en mogelijk een beperkt aantal mutaties in het beheerdeel.
+De primaire navigatie bestaat uit een persistent hoofdmenu, getoond in het vaste deel boven aan de pagina (zie schermopbouw), daar waar nodig aangevuld met een submenu per onderdeel, getoond aan de linker zijde (zie schermopbouw).
 
 ### 3.3.2. Secundaire navigatie
 
@@ -2780,15 +2780,15 @@ Enerzijds is er een 'vaste' set help-pagina's, te benaderen met de link rechtsbo
 
 ### 3.5. Printen van informatie
 
-Anderzijds zijn er korte stukjes toelichting die getoond worden bij formulieren of bij het tonen van detailgegevens. Deze hebben betrekking op een locale scope, zoals de uitleg van een bepaalde term. Deze worden opgenomen in de rechterkolom (zie schermopbouw).
+Enerzijds is er een 'vaste' set help-pagina's, te benaderen met de link rechtsboven op iedere pagina (zie schermopbouw). Deze help bevat een submenu maar is niet context-gevoelig. De tekst van de help bevat géén koppelingen. Er is geen zoekmogelijkheid in de helptekst. De help bevat geen documenten en géén links naar externe sites/pagina's.
 
 ### 3.5. Printen van informatie
 
-Een aantal profielen wordt gebruikt voor 'shared services', deze hebben rechten op de gegevens van meer dan een (maar niet alle) gemeenten. Een aantal profielen wordt gebruikt voor 'data entry', deze hebben rechten op de gegevens van alle gemeenten.
+In tegenstelling tot voorgaande wordt expliciet wel rekening gehouden met de gemeente behorende bij het profiel. Alle gegevens in de database zijn 'eigendom' van een bepaalde gemeente of worden centraal beheerd.
 
 ### 3.7. Authenticatie
 
-Voor authenticatie wordt een combinatie gebruikt van een persoonlijk gebruikersnaam/wachtwoord, een systeemcertificaat (PKI Overheid), en een zogeheten TAN code. Dit is een code die door een component van de LR applicatie wordt gegenereerd per authenticatie transactie en wordt toegezonden aan de medewerker die zichzelf wil authenticeren. Doordat het alleen de betreffende medewerker is die deze code kan ontvangen is daarmee de authenticiteit gewaarborgd.
+In het informatie beveiligingsplan zijn de gegevens die via het Overheidsportaal ontsloten worden, geclassificeerd als ‘confidentieel’, WBP risicoklasse II. Dit betekend dat deze gegevens slechts toegankelijk mogen zijn voor een gedefinieerde groep personen (bijv. bepaalde afdelingen of bepaalde functies). Ten aanzien van de te nemen maatregelen wordt géén onderscheid gemaakt naar het raadplegen van gegevens en het muteren van gegevens.
 
 ### 3.8. Fout- en andere meldingen
 
@@ -2796,7 +2796,7 @@ De eindgebruiker heeft geen 'log' van meldingen. Met het tonen van meldingen zal
 
 ### 3.9. Gebruik van stamtabellen
 
-Indien het resultaat van een zoekopdracht geen items bevat die aan de criteria voldoen, is dat geen foutmelding maar het resultaat van die zoekopdracht en wordt als zodanig gepresenteerd.
+De eindgebruiker heeft geen 'log' van meldingen. Met het tonen van meldingen zal rekening gehouden worden met de afspraken die daarvoor al zijn vastgelegd in de Huisstijl (zie schermopbouw).
 
 ### 3.9. Gebruik van stamtabellen
 
@@ -2810,7 +2810,7 @@ Het Publieksportaal zal zoveel mogelijk dienen te voldoen aan de Webrichtlijnen.
 
 Voor het Overheidsportaal en de Beheerinterface gelden de Webrichtlijnen als een 'best effort'.
 
-### 4.1. Rollen
+### 4. Gebruikers
 
 In dit hoofdstuk worden de verschillende typen gebruikers en de bijbehorende autorisaties per portaal omschreven.
 
@@ -2820,7 +2820,7 @@ Als voor de eerste maal wordt ingelogd (of voor de eerste maal na het resetten v
 
 ### 5.2. Wachtwoord vergeten
 
-Na een succesvolle inlog komt de gebruiker terecht op het scherm 'Startpagina' (5.3).
+Als voor de eerste maal wordt ingelogd (of voor de eerste maal na het resetten van het wachtwoord), wordt de gebruiker verplicht zijn wachtwoord te wijzigen.
 
 ### 5.2. Wachtwoord vergeten
 
@@ -2832,7 +2832,7 @@ Het zoekgedeelte van de pagina bestaat uit:
 
 ### 5.3.1. Zoeken
 
-De resultatenlijst toont de belangrijkste gegevens van een OKO of een Houder. De gegevens van een OKO en een Houder die worden getoond kunnen verschillen.
+Indien er sprake is van meer dan 20 zoekresultaten, dan worden de zoekresultaten over meerdere pagina's verdeeld. De gebruiker kan door deze pagina's heen bladeren.
 
 ### 5.5. Tonen gegevens Houder
 
@@ -2840,7 +2840,7 @@ Dit scherm toont de actuele detailgegevens van de Houder. Het scherm is op te sp
 
 ### 5.5. Tonen gegevens Houder
 
-Vanuit de details van een Houder is het mogelijk om weer terug te keren naar het zoekresultaat. Per onderdeel heeft de gebruiker daarnaast de mogelijkheid om de gegevens te wijzigen.
+Dit scherm toont de actuele detailgegevens van de Houder. Het scherm is op te splitsen in 4 onderdelen:
 
 ### 5.5.1. Kerngegevens
 
@@ -2860,7 +2860,7 @@ Dit scherm toont de detailgegevens van een OKO. Het scherm is op te splitsen in 
 
 ### 5.6. Tonen gegevens OKO
 
-Vanuit de details van een OKO is het mogelijk om weer terug te keren naar het zoekresultaat. Per onderdeel heeft de gebruiker daarnaast de mogelijkheid om de gegevens te wijzigen.
+Dit scherm toont de detailgegevens van een OKO. Het scherm is op te splitsen in 4 onderdelen:
 
 ### 5.6.1. Kerngegevens
 
@@ -2876,7 +2876,7 @@ In dit deel van het scherm worden de bij de OKO behorende inspectierapporten get
 
 ### 5.6.4. Tonen inspectierapporten
 
-Voor 2010 zal de GGD voor de VGO’s een inspectiebrief (in Word) opstellen. Deze is voor het register equivalent met een inspectierapport.
+In dit deel van het scherm worden de bij de OKO behorende inspectierapporten getoond. Het inspectierapport is een PDF-bestand dat de gebruiker kan downloaden. Standaard worden de laatste 10 inspectierapporten getoond. Op een apart scherm kan de gebruiker de complete historie van de inspectierapporten inzien.
 
 ### 5.6.5. (Link naar) historische gegevens
 
@@ -2888,11 +2888,11 @@ Voor het registreren van OKO's worden drie afzonderlijke wizards gebruikt:
 
 ### 5.7.1. Start registreren OKO
 
-In de eerste stap van de wizard dient de gebruiker het type aanmelding te selecteren (KDV, BSO, GOB of VGO). De procedures voor het registeren van een Kindercentrum (KDV en BSO) zijn hetzelfde, voor het registeren van een GOB en een VGO wijken deze af.
+Voor het registreren van OKO's worden drie afzonderlijke wizards gebruikt:
 
 ### 5.7.2. Registeren Kindercentrum en Gastouderbureau
 
-De gebruiker heeft de volgende mogelijkheden:
+In deze stap kan de gebruiker een Houder toewijzen. De Houder kan een Natuurlijk of een Niet Natuurlijk Persoon zijn.
 
 ### 5.7.2.2. Invoeren detailgegevens
 
@@ -2904,7 +2904,7 @@ Op dit punt in het proces wordt ook het unieke inschrijvingsnummer aangemaakt.
 
 ### 5.7.3. Registreren VGO
 
-De status van de organisatie wordt automatisch op 'Aangemeld' gezet.
+Op dit punt in het proces wordt ook het unieke inschrijvingsnummer aangemaakt.
 
 ### 5.7.3. Registreren VGO
 
@@ -2912,7 +2912,7 @@ Het toewijzen van een GOB staat in detail beschreven in paragraaf 5.7.2.1.
 
 ### 5.7.3.2. Toewijzen Gastouder of Houder VGO
 
-Allereerst geeft de gebruiker aan of de gastouder communiceert als NP of als NNP. Vervolgens zal in het register worden gecontroleerd of de gastouder al bestaat.
+In deze stap kan de gebruiker een Gastouder of een Houder toewijzen.
 
 ### 5.7.3.3. Invoeren detailgegevens
 
@@ -2920,7 +2920,7 @@ Via deze stap heeft de gebruiker de mogelijkheid om detailgegevens van de VGO in
 
 ### 5.7.3.3. Invoeren detailgegevens
 
-Op dit punt in het proces wordt ook het unieke inschrijvingsnummer aangemaakt en getoond.
+Op het tweede scherm krijgt de gebruiker de gebruiker alle details te zien omtrent de zojuist ingevoerde gegevens. Dit betreft gegevens over het GOB, de Houder, de VGO en de Gastouder.
 
 ### 5.8. Detailstap: toewijzen Houder
 
@@ -2932,7 +2932,7 @@ Indien een Natuurlijk Persoon nog niet is geregistreerd, dan dient deze eerst te
 
 ### 5.8.1. Registreren Natuurlijk Persoon
 
-Personen zonder BSN/Sofinummer kunnen niet in het register worden geregistreerd. Een NP kan wel een buitenlands adres hebben.
+Indien een Natuurlijk Persoon nog niet is geregistreerd, dan dient deze eerst te worden aangemaakt. In dit scherm dienen dient de gebruikers de gegevens van een natuurlijk persoon in te voeren.
 
 ### 5.8.2. Registreren Niet Natuurlijk Persoon
 
@@ -2952,7 +2952,7 @@ In de volgende paragrafen staat het wijzigen van gegevens door daartoe bevoegde 
 
 ### 5.12. Wijzigen van gegevens
 
-Bij het wijzigen van gegevens dient de gebruiker altijd aan te geven of de wijziging een administratieve wijziging betreft (bijvoorbeeld het herstellen van een tikfout) of dat de wijziging gevolgen heeft voor de inspectie (bijvoorbeeld het wijzigen van het aantal kindplaatsen).
+In de volgende paragrafen staat het wijzigen van gegevens door daartoe bevoegde gebruikers beschreven.
 
 ### 5.12.1. Wijzigen Kindercentrum en Gastouderbureau
 
@@ -2964,7 +2964,7 @@ Het is mogelijk om adresgegevens te wijzigen. Het wijzigen van de locatiegegeven
 
 ### 5.12.1.2. Wijzigen adresgegevens
 
-De opvanglocatie van een OKO is een feitelijk adres, in Nederland (plaatje niet juist).
+Het is mogelijk om adresgegevens te wijzigen. Het wijzigen van de locatiegegevens (feitelijk adres) kan gevolgen hebben voor de inspectie. De gebruiker wordt hiervan via een melding op de hoogte gesteld.
 
 ### 5.12.1.3. Wijzigen betrokken Houder
 
@@ -2972,7 +2972,7 @@ In het detailscherm kunnen de gegevens per onderdeel gewijzigd worden. Het wijzi
 
 ### 5.12.2. Wijzigen Houder
 
-Het wijzigen van de relatie met de gerelateerde OKO's gebeurt in het wijzigscherm van de OKO.
+In het detailscherm kunnen de gegevens per onderdeel gewijzigd worden. Het wijzigen is opgedeeld in twee delen die hieronder verder worden uitgewerkt:
 
 ### 5.12.2.1. Wijzigen kerngegevens
 
@@ -3008,7 +3008,7 @@ De raadpleegfunctionaliteit van het Publieksportaal zal grotendeels hetzelfde zi
 
 ### 7. Beheerfunctionaliteit
 
-Dit hoofdstuk wordt niet verder uitgewerkt in het GFO.
+De raadpleegfunctionaliteit van het Publieksportaal zal grotendeels hetzelfde zijn opgebouwd als de raadpleegfunctionaliteit van het Overheidsportaal. Het Publieksportaal zal echter (veel) minder gegevens tonen.
 
 ### 7. Beheerfunctionaliteit
 
@@ -3024,13 +3024,13 @@ Via dit scherm kan de beheerder gegevens van een gemeente (bijvoorbeeld gemeente
 
 ### 7.1.2. Wijzigen gegevens gemeente
 
-Het is niet mogelijk om via de gebruikersinterface een gemeente te verwijderen.
+Via dit scherm kan de beheerder gegevens van een gemeente (bijvoorbeeld gemeentenaam, URL, adres, telefoonnummer; koppeling met GGD) wijzigen.
 
 ### 7.2. Onderhouden gegevens GGD
 
 De beheerder heeft de mogelijkheid om een nieuwe gemeente aan te maken. Via een invulscherm krijgt de beheerder de mogelijkheid om een nieuwe gemeente in te voeren.
 
-### 7.2.1. Tonen lijst GGD's
+### 7.2. Onderhouden gegevens GGD
 
 De beheerder kan de GGD selecteren uit een lijst en de details van deze GGD vervolgens wijzigen.
 
@@ -3042,13 +3042,13 @@ Via dit scherm kan de beheerder gegevens van een GGD wijzigen.
 
 De beheerder heeft de mogelijkheid om een nieuwe GGD aan te maken. Via een invulscherm krijgt de beheerder de mogelijkheid om een nieuwe GGD in te voeren.
 
-### 7.3.1. Zoeken gebruikers
+### 7.3. Beheren gebruikers
 
 Het is niet mogelijk om via de gebruikersinterface een gebruiker te verwijderen.
 
 ### 7.3.3. Beheren autorisaties gebruiker
 
-Via dit scherm is het mogelijk om door te klikken naar 'beheren autorisaties gebruiker'.
+Het is niet mogelijk om via de gebruikersinterface een gebruiker te verwijderen.
 
 ### 7.3.3. Beheren autorisaties gebruiker
 
@@ -3064,7 +3064,7 @@ Het globaal functioneel datamodel beschrijft de gegevens die nodig worden geacht
 
 ### 1.1. Doel
 
-Het globaal functioneel datamodel bevat niet een volledige, gedetailleerde beschrijving inclusief alle attributen en constraints. Deze worden pas definitief vastgesteld in het detail FO. Het beschrijft slechts de gegevensstructuur van de in de functionele applicatiestructuur onderkende deelverzamelingen (per module, zie procesmodel).
+Het globaal functioneel datamodel beschrijft de gegevens die nodig worden geacht voor ondersteuning van de gewenste functionaliteit.
 
 ### 1.2. Doelgroep
 
@@ -3076,15 +3076,15 @@ Het volledige functioneel ontwerp wordt opgebouwd in twee stappen. Eerst wordt h
 
 ### 1.4. Relaties met andere documenten
 
-Het functioneel ontwerp baseert zich primair op de project start architectuur (PSA), en op de functionele requirements, beschreven in de geprioriteerde requirements list (PRL). Het functioneel ontwerp vormt samen met prototype en technisch ontwerp (SAD) de basis voor realisatie.
+Het volledige functioneel ontwerp wordt opgebouwd in twee stappen. Eerst wordt het Globaal functioneel ontwerp (GFO) opgesteld. Dit bestaat uit een procesmodel (dat de functionele applicatiestructuur beschrijft), een datamodel (dit document) en het interactie-ontwerp, evenals een prototype. Het Detail functioneel ontwerp (DFO) bevat de uitwerking van hetgeen in het GFO op hoofdlijnen is vastgesteld.
 
 ### 2. Classes
 
-Is een houder. Heeft aanvullende kenmerken:
+De natuurlijke persoon van 18 jaar of ouder die een kindercentrum, een voorziening voor gastouderopvang of een gastouderbureauexploiteert.
 
 ### 2.2. Overheids Portaal
 
-Is een houder. Heeft aanvullende kenmerken:
+De rechtspersoon die een kindercentrum, een voorziening voor gastouderopvang of een gastouderbureauexploiteert.
 
 ### 2.2. Overheids Portaal
 
@@ -3100,11 +3100,11 @@ Is een adres, niet in Nederland.
 
 ### 2.7. Gebruikers en autorisaties
 
-Is een medewerker, van de Inspectie van het Onderwijs.
+Heeft aanvullende kenmerken:
 
 ### 2.8. Authenticatie
 
-Is een medewerker, van de organisatie die het (centrale) beheer uitvoert.
+Is een medewerker, van de Belastingdienst.
 
 ### 2.8. Authenticatie
 
@@ -3112,19 +3112,19 @@ Indien wordt vastgesteld dat het noodzakelijk is meerdere (type) documenten op t
 
 ### 2.10. Management informatie
 
-Document dat wordt opgeleverd bij inspectie van een OKO.
+Indien wordt vastgesteld dat het noodzakelijk is meerdere (type) documenten op te slaan (uitbreiding scope), zal het model aangepast moeten worden.
 
 ### 2.10. Management informatie
 
-Registratie van een gebeurtenis (event).
+Tijd-assen van aangebrachte wijzigingen.
 
 ### 2.12. Beheer
 
-Is een Gemeente. Heeft aanvullende kenmerken:
+Definieert alle mogelijke landen.
 
 ### 2.13. Help
 
-Contactgegevens van een GGD.
+Gemeentelijke gezondheidsdienst. Voert namens de gemeente taken uit in de openbare gezondheidszorg, waaronder KO inspecties.
 
 ## Bijlage 3
 
@@ -3162,11 +3162,11 @@ Voor de toepassing van [artikel 4 van het Besluit deskundigheidseisen gastouders
 
 Deze regeling berust mede op [artikel 4, eerste lid, van het Besluit basisvoorwaarden kwaliteit voorschoolse educatie](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=4).
 
+## Bijlage 1f
+
 ## Bijlage 1g
 
-## Bijlage 2
-
-### Documenthistorie
+### Projectstartarchitectuur Landelijk Register Kinderopvang
 
 ### 1.1. Doelgroep
 
@@ -3178,15 +3178,15 @@ Deze regeling berust mede op [artikel 4, eerste lid, van het Besluit basisvoorwa
 
 Dit document heeft ook een relatie met een aantal documenten die verdergaan op basis van de inhoud. Het gaat hier om de volgende documenten:
 
+### 1.6. Woordenlijst
+
 ### 2. Achtergrond
 
-### 2.1. Programmacontext
-
-Het programma bestaat, om dit brede doel te realiseren, uit een aantal deelprojecten zoals Implementatie, Beheer en ICT. Het is evident dat er een nauwe relatie is tussen de verschillende deelprojecten.
+Het programma Landelijk Register Kinderopvang is een breed programma dat uiteindelijk de volledige ondersteuning van de nieuwe [wet Kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) gaat opleveren.
 
 ### 2.2.1. Probleem
 
-### 2.2.1. Probleem
+### 2.2. Probleem en oplossing
 
 ### 2.2.2. Oplossing
 
@@ -3214,19 +3214,19 @@ Dit ketenproces is eruit gelicht, omdat het grootste deel van het ketenproces ni
 
 ### 4.4.4. Functionele decompositie Inspecteren, Handhaven en Gebruiken
 
-### 4.4.4. Functionele decompositie Inspecteren, Handhaven en Gebruiken
+### 4.4.3.2. Procesdecompositie binnen ketenproces Wijzigen registratie kinderopvang
 
 ### 5.1. Architectuuropzet
 
 ### 5.3.1. Relevante principes Referentiearchitectuur Onderwijs
 
+Onderstaande figuur geeft de middellange termijn visie aan op de samenhang van de informatievoorzieningen binnen sector Onderwijs:’
+
 Op dit moment is Kinderopvang niet expliciet benoemd in de architectuur. Om die reden is positioneren van het systeemcomplex in de architectuur van het sector niet eenvoudig. Er kan wel gebruik worden gemaakt van aantal principes die betrekking hebben op de beschreven diensten die Portalen (Portaal Burger en Portaal Instelling) uit de geciteerde architectuurplaat bieden.
 
-In de onderstaand tabel zijn relevante principes uit Architectuur van Onderwijs en hun vertaling naar principes voor het project aangegeven
-
 ### 5.4.4.1. Wettelijke eisen
 
-### 5.4.4.1. Wettelijke eisen
+### 5.4.4. Historie en tijdslijnen
 
 ### 5.4.4.2. Basis principes
 
@@ -3234,11 +3234,11 @@ In de onderstaand tabel zijn relevante principes uit Architectuur van Onderwijs 
 
 ### 6.1. Architectuureisen
 
-Aannames over gebruikersaantallen en gegevensomvang:
+Er zijn geen eisen bekend over het Overheidsportaal, als eerste aanname zijn de eisen die aan GIR-KO gesteld zijn overgenomen met een kleine verduidelijking betreffende het beschikbaarheidspercentage:
 
 ### 6.2.1. Applicatie-gerelateerd
 
-### 6.2.1. Applicatie-gerelateerd
+### 6.2. Applicatie en database
 
 ### 6.2.2. Database-gerelateerd
 
@@ -3254,7 +3254,7 @@ Aannames over gebruikersaantallen en gegevensomvang:
 
 Hieronder een beknopte samenvatting van de belangrijkste begrippen uit de objectoriëntatie met de bijbehorende UML-notatie. Voor een uitvoerige beschrijving van notatie en betekenis wordt verwezen naar de UML Notification Guide.
 
-Hieronder een beknopte samenvatting van de belangrijkste begrippen uit de objectoriëntatie met de bijbehorende UML-notatie. Voor een uitvoerige beschrijving van notatie en betekenis wordt verwezen naar de UML Notification Guide.
+UML is een grafische modelleertaal die zijn oorsprong vindt in de objectoriëntatie. Belangrijke begrippen uit de objectoriëntatie, zoals klasse en overerving, worden in UML aanschouwelijk gemaakt in het **klassediagram**.
 
 ### 2.1. Overview LRK-systeemcomplex
 
@@ -3294,23 +3294,23 @@ Hieronder een beknopte samenvatting van de belangrijkste begrippen uit de object
 
 De handelingen worden ook in de audit trail vastgelegd.
 
-De handelingen worden ook in de audit trail vastgelegd.
+De geautoriseerde gebruiker (Functioneel beheerder, Gegevensverwerker Gemeente) is verantwoordelijk voor het onderhouden van de gegevens over de GGD en de Gemeente. Daarnaast is de functioneel beheerder geautoriseerd om overzichten te genereren, waarvoor geen standaard rapportage functionaliteiten ontwikkeld zijn.
 
-### 1. Inleiding en achtergrond
+### Documenthistorie
 
 ### 1.5. Relatie met andere documenten
 
 Deze zaken verdienen extra aandacht bij uitwerking in het DFO.
 
-Deze zaken verdienen extra aandacht bij uitwerking in het DFO.
+In dit document zijn de volgende zaken nog niet of slechts gedeeltelijk uitgewerkt:
 
-### 2. Basisstructuur
+### 1.7. Externe bronverwijzing
 
 ### 2.3. Publieksportaal
 
 ### 3.2. Schermopbouw
 
-Deze richtlijnen zijn gepubliceerd op de website van het ministerie van OCW (zie Externe bronverwijzing 1).
+De structuur die wordt gehanteerd is gebaseerd op de Overheidscommunicatie Nieuwe Stijl (ONS) en zal de richtlijnen en uitgangspunten daarvan zoveel mogelijk volgen. Dit geldt zowel voor het Overheidsportaal als het Publieksportaal.
 
 ### 3.3.1. Primaire navigatie
 
@@ -3348,15 +3348,15 @@ Voor het Overheidsportaal en de Beheerinterface gelden de Webrichtlijnen als een
 
 De beheerder heeft de mogelijkheid om een nieuwe gebruiker aan te maken. Via een invulscherm krijgt de beheerder de mogelijkheid om een nieuwe gebruiker in te voeren. Na het invoeren van de gebruiker is het verplicht ook een autorisatieniveau te kiezen (7.3.3).
 
-### Documenthistorie
+### Functioneel Datamodel
 
 ### 2.1. Register
 
-### 2.1. Register
+### 2. Classes
 
 ### 2.6. Adressen
 
-### 2.6. Adressen
+### 2.5. Niet-Natuurlijke Personen
 
 ### 2.7. Gebruikers en autorisaties
 
@@ -3721,3 +3721,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 ### 2.12. Beheer
 
 ### 2.13. Help
+
+##### Artikel 16d. Gastouderopvang in Duitsland
+
+Als buiten Nederland gevestigde voorzieningen voor gastouderopvang die worden gelijkgesteld met geregistreerde voorzieningen voor gastouderopvang als bedoeld in [artikel 1.48a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48a) worden aangewezen in Duitsland een Tagesmutter of Tagesvater die in het bezit is van een Pflegeerlaubnis verleend door het Jugendamt van een lokale of regionale overheid.
+
+#### Paragraaf 8. Overgangs- en slotbepalingen
