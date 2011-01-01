@@ -4,7 +4,7 @@ identifier: "BWBR0002784"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2010-01-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002784"
 soort: "ministeriele-regeling"
@@ -45,7 +45,7 @@ Besluit:
 
 ##### Artikel 2
 
-De ingevolge [artikel 9, eerste lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=9) te bepalen redelijke rente voor de in [artikel 2, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0002784&artikel=2&z=2010-01-01&g=2010-01-01), bedoelde ondernemingen van publiekrechtelijke rechtspersonen bedraagt 4,5 percent.
+De ingevolge [artikel 9, eerste lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=9) te bepalen redelijke rente voor de in [artikel 2, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0002784&artikel=2&z=2011-01-01&g=2011-01-01), bedoelde ondernemingen van publiekrechtelijke rechtspersonen bedraagt 4,5 percent.
 
 ##### Artikel 2a
 
@@ -137,7 +137,7 @@ Vervallen
 
 ##### Artikel 2c
 
-Voor de toepassing van de [artikelen 14a, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14a), [14b, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14b) en [23c, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=23c) worden van de staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte aangewezen: IJsland en Noorwegen.
+Voor de toepassing van de [artikelen 14a, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14a), [14b, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14b) en [23c, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=23c) worden van de staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte aangewezen: IJsland, Noorwegen en Liechtenstein.
 
 ##### Artikel 2bis
 
