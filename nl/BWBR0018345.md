@@ -4,7 +4,7 @@ identifier: "BWBR0018345"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-01-01"
-last_updated: "2005-01-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018345"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ Besluit:
 
 - c. toegelaten instelling: een instelling als bedoeld in [artikel 70, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=70);
 
-- d. fonds: een in Nederland gevestigde landelijk werkende toegelaten instelling als bedoeld in [artikel 70, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=70), die geen winstoogmerk heeft, die hoofdzakelijk tot doel heeft de aankoop van woningen van toegelaten instellingen die daadwerkelijk uitvoering geven aan stedelijke herstructurering en de verkoop van deze woningen aan natuurlijke personen, en die als zodanig is aangewezen door de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
+- d. fonds: een in Nederland gevestigde landelijk werkende toegelaten instelling als bedoeld in [artikel 70, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=70), die geen winstoogmerk heeft, die hoofdzakelijk tot doel heeft de aankoop van woningen van toegelaten instellingen die daadwerkelijk uitvoering geven aan stedelijke herstructurering en de verkoop van deze woningen aan natuurlijke personen, en die als zodanig is aangewezen door de Minister van Infrastructuur en Milieu;
 
 - e. investeren: de feitelijke besteding door de toegelaten instelling van middelen ten behoeve van de stedelijke herstructurering in een herstructureringsgebied.
 
