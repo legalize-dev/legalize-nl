@@ -4,7 +4,7 @@ identifier: "BWBR0012096"
 country: "nl"
 rank: "amvb"
 publication_date: "2011-01-01"
-last_updated: "2002-01-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012096"
 soort: "AMvB"
@@ -116,7 +116,7 @@ Levensverzekeraars, natura-uitvaartverzekeraars en schadeverzekeraars kunnen een
 
 2. De egalisatiereserve bedraagt bij een schadeverzekeraar ten hoogste 22,5 percent van de op het jaar betrekking hebbende premies. Daarbij blijven premies, voorzover zij betrekking hebben op atoomverzekeringen, buiten aanmerking.
 
-3. Voor de toepassing van het eerste lid worden de bedragen van de op de voet van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=5&z=2001-01-01&g=2002-01-01) ten laste van de winst te brengen rentestandkortingen in de jaren volgend op het jaar waarin de kortingen zijn verleend op de premiereserve in mindering gebracht.
+3. Voor de toepassing van het eerste lid worden de bedragen van de op de voet van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=5&z=2011-01-01&g=2011-01-01) ten laste van de winst te brengen rentestandkortingen in de jaren volgend op het jaar waarin de kortingen zijn verleend op de premiereserve in mindering gebracht.
 
 ##### Artikel 9. Maximale jaarlijkse toevoeging egalisatiereserve
 
@@ -124,29 +124,29 @@ Levensverzekeraars, natura-uitvaartverzekeraars en schadeverzekeraars kunnen een
 
 - a. voor:
 
-- 1°. een levensverzekeraar en een natura-uitvaartverzekeraar: vier percent van het in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=8&z=2001-01-01&g=2002-01-01), gestelde maximum;
+- 1°. een levensverzekeraar en een natura-uitvaartverzekeraar: vier percent van het in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=8&z=2011-01-01&g=2011-01-01), gestelde maximum;
 
-- 2°. een schadeverzekeraar: zes percent van het in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=8&z=2001-01-01&g=2002-01-01), gestelde maximum;
+- 2°. een schadeverzekeraar: zes percent van het in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=8&z=2011-01-01&g=2011-01-01), gestelde maximum;
 
-- b. 22,5 percent van de voor opneming in de reserve beschikbare over het jaar genoten winst, berekend zonder toepassing van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=10&z=2001-01-01&g=2002-01-01);
+- b. 22,5 percent van de voor opneming in de reserve beschikbare over het jaar genoten winst, berekend zonder toepassing van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=10&z=2011-01-01&g=2011-01-01);
 
-- c. het belastbare bedrag of het belastbare binnenlandse bedrag, berekend zonder toevoeging en zonder de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=10&z=2001-01-01&g=2002-01-01) bedoelde extra-toevoeging aan de reserve.
+- c. het belastbare bedrag of het belastbare binnenlandse bedrag, berekend zonder toevoeging en zonder de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=10&z=2011-01-01&g=2011-01-01) bedoelde extra-toevoeging aan de reserve.
 
 2. De in het eerste lid, onderdeel b, bedoelde 22,5 percent wordt voor een schadeverzekeraar verhoogd tot 33,75 percent, voorzover toevoeging aan de reserve deze niet doet uitgaan boven tien percent van de op het jaar betrekking hebbende premies.
 
 ##### Artikel 10. Extra toevoeging
 
-1. Tot het bedrag waarmede ingevolge [artikel 11, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=11&z=2001-01-01&g=2002-01-01), de egalisatiereserve is verminderd, kan een extra toevoeging aan de reserve plaatsvinden. Deze toevoeging bedraagt in een jaar ten hoogste:
+1. Tot het bedrag waarmede ingevolge [artikel 11, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=11&z=2011-01-01&g=2011-01-01), de egalisatiereserve is verminderd, kan een extra toevoeging aan de reserve plaatsvinden. Deze toevoeging bedraagt in een jaar ten hoogste:
 
 - a. de som van:
 
-- 1°. het bedrag waarmede het maximum, berekend op de voet van [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=9&z=2001-01-01&g=2002-01-01), het op de voet van dat artikel, eerste lid, onderdeel a, berekende maximum overtreft; en
+- 1°. het bedrag waarmede het maximum, berekend op de voet van [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=9&z=2011-01-01&g=2011-01-01), het op de voet van dat artikel, eerste lid, onderdeel a, berekende maximum overtreft; en
 
-- 2°. het in het jaar berekende voordelige saldo van winsten en verliezen met betrekking tot de waarde van de beleggingen tot ten hoogste het bedrag dat gelijk is aan de helft van het maximum, berekend op de voet van [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=9&z=2001-01-01&g=2002-01-01);
+- 2°. het in het jaar berekende voordelige saldo van winsten en verliezen met betrekking tot de waarde van de beleggingen tot ten hoogste het bedrag dat gelijk is aan de helft van het maximum, berekend op de voet van [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=9&z=2011-01-01&g=2011-01-01);
 
 - b. het belastbare bedrag of het belastbare binnenlandse bedrag, berekend zonder extra toevoeging aan de reserve.
 
-2. Voor een schadeverzekeraar is met betrekking tot het in het eerste lid, onderdeel a, onder 1°, eerstbedoelde maximum, [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=9&z=2001-01-01&g=2002-01-01), van toepassing.
+2. Voor een schadeverzekeraar is met betrekking tot het in het eerste lid, onderdeel a, onder 1°, eerstbedoelde maximum, [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=9&z=2011-01-01&g=2011-01-01), van toepassing.
 
 ##### Artikel 11. Onttrekkingen aan de egalisatiereserve
 
@@ -156,13 +156,13 @@ Levensverzekeraars, natura-uitvaartverzekeraars en schadeverzekeraars kunnen een
 
 - 1°. een levensverzekeraar en een natura-uitvaartverzekeraar: een bedrag gelijk aan dat waarmede de premiereserve in het jaar toeneemt als gevolg van een herziening van de voor de berekening van de premiereserve gebruikte grondslagen;
 
-- 2°. een schadeverzekeraar: een bedrag gelijk aan het negatieve technische resultaat van een branchegroep tot ten hoogste het bedrag dat op grond van de premies van tot die branchegroep behorende verzekeringen begrepen kan zijn in het op de voet van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=8&z=2001-01-01&g=2002-01-01), te berekenen maximum van de reserve;
+- 2°. een schadeverzekeraar: een bedrag gelijk aan het negatieve technische resultaat van een branchegroep tot ten hoogste het bedrag dat op grond van de premies van tot die branchegroep behorende verzekeringen begrepen kan zijn in het op de voet van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=8&z=2011-01-01&g=2011-01-01), te berekenen maximum van de reserve;
 
 - b. een bedrag gelijk aan het in het jaar berekende nadelige saldo van winsten en verliezen met betrekking tot de waarde van de beleggingen; bij de berekening van dit saldo blijven buiten aanmerking winsten en verliezen welke voortvloeien uit een wezenlijke vermindering van de bedrijfsuitoefening;
 
 - c. een bedrag gelijk aan de negatieve uitkomst waartoe de berekening van de belastbare winst of van het binnenlandse inkomen na toepassing van de onderdelen a en b, zou leiden.
 
-2. Toevoeging aan de winst ingevolge het eerste lid, onderdelen a en b, blijft beperkt tot het bedrag van de reserve vóór toepassing van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=9&z=2001-01-01&g=2002-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=10&z=2001-01-01&g=2002-01-01).
+2. Toevoeging aan de winst ingevolge het eerste lid, onderdelen a en b, blijft beperkt tot het bedrag van de reserve vóór toepassing van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=9&z=2011-01-01&g=2011-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=10&z=2011-01-01&g=2011-01-01).
 
 3. Overtreft bij het einde van een jaar de reserve het vermogen, verminderd met het gestorte kapitaal en met de overige toelaatbare reserves, dan wordt het meerdere aan de winst van het jaar toegevoegd. Voor het bepalen van het vermogen worden mede als schulden aangemerkt de bij het bepalen van de winst niet in aftrek komende uitdelingen en daarmede gelijkgestelde betalingen die na het einde van het jaar plaatsvinden, doch betrekking hebben op het jaar of daaraan voorafgaande jaren.
 
@@ -192,9 +192,9 @@ De calamiteitenreserve bedraagt ten hoogste het bij het einde van het jaar verze
 
 - a. de helft van het positieve technische resultaat van atoomverzekeringen;
 
-- b. de voor opneming in de reserve beschikbare over het jaar genoten winst, berekend zonder toepassing van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=9&z=2001-01-01&g=2002-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=10&z=2001-01-01&g=2002-01-01);
+- b. de voor opneming in de reserve beschikbare over het jaar genoten winst, berekend zonder toepassing van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=9&z=2011-01-01&g=2011-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=10&z=2011-01-01&g=2011-01-01);
 
-- c. het belastbare bedrag of het belastbare binnenlandse bedrag, berekend zonder toevoeging aan de reserve en zonder de in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=9&z=2001-01-01&g=2002-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=10&z=2001-01-01&g=2002-01-01) bedoelde toevoegingen aan de egalisatiereserve.
+- c. het belastbare bedrag of het belastbare binnenlandse bedrag, berekend zonder toevoeging aan de reserve en zonder de in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=9&z=2011-01-01&g=2011-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=10&z=2011-01-01&g=2011-01-01) bedoelde toevoegingen aan de egalisatiereserve.
 
 2. Als technisch resultaat van atoomverzekeringen wordt aangemerkt het verschil tussen de op het jaar betrekking hebbende premies – na aftrek van de daarover verschuldigde provisies – en de op het jaar betrekking hebbende schaden.
 
@@ -206,7 +206,7 @@ De calamiteitenreserve bedraagt ten hoogste het bij het einde van het jaar verze
 
 - b. een bedrag gelijk aan de negatieve uitkomst waartoe de berekening van de belastbare winst of van het binnenlandse inkomen na toepassing van onderdeel a, en na toevoeging van de egalisatiereserve, zou leiden.
 
-2. Overtreft bij het einde van een jaar de reserve het vermogen, verminderd met het gestorte kapitaal en met de overige toelaatbare reserves, voor wat de egalisatiereserve betreft na toepassing van [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=11&z=2001-01-01&g=2002-01-01), dan wordt het meerdere aan de winst van het jaar toegevoegd. Voor het bepalen van het vermogen vindt [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=11&z=2001-01-01&g=2002-01-01), laatste volzin, overeenkomstige toepassing.
+2. Overtreft bij het einde van een jaar de reserve het vermogen, verminderd met het gestorte kapitaal en met de overige toelaatbare reserves, voor wat de egalisatiereserve betreft na toepassing van [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=11&z=2011-01-01&g=2011-01-01), dan wordt het meerdere aan de winst van het jaar toegevoegd. Voor het bepalen van het vermogen vindt [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=11&z=2011-01-01&g=2011-01-01), laatste volzin, overeenkomstige toepassing.
 
 ##### Artikel 16. Negatief technische resultaat van atoomverzekeringen
 
@@ -214,39 +214,39 @@ Voorzover het negatieve technische resultaat van atoomverzekeringen de calamitei
 
 ##### Artikel 17. Belastingpercentage
 
-Voor de berekening van de voor opneming in de egalisatiereserve en in de calamiteitenreserve beschikbare over het jaar genoten winst wordt de belasting gesteld op 35 percent van het belastbare bedrag of het belastbare binnenlandse bedrag.
+Voor de berekening van de voor opneming in de egalisatiereserve en in de calamiteitenreserve beschikbare over het jaar genoten winst wordt de belasting gesteld op H percent van het belastbare bedrag of het belastbare binnenlandse bedrag. Daarbij staat H voor het percentage van het hoogste tarief, bedoeld in [artikel 22 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=22), geldend voor het jaar waarin de winst is genoten.
 
 ##### Artikel 18. Storm- en hagelschade
 
 1. Ingeval een schadeverzekeraar uitsluitend of nagenoeg uitsluitend stormschade of hagelschade verzekert, wordt in afwijking in zoverre van:
 
-- a. [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=8&z=2001-01-01&g=2002-01-01), het maximum van de egalisatiereserve gesteld op 120 percent van de op het jaar betrekking hebbende premies;
+- a. [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=8&z=2011-01-01&g=2011-01-01), het maximum van de egalisatiereserve gesteld op 120 percent van de op het jaar betrekking hebbende premies;
 
-- b. [artikel 9, eerste lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=9&z=2001-01-01&g=2002-01-01), het aldaar bedoelde maximum van de jaarlijkse toevoeging aan de egalisatiereserve gesteld op vijfentwintig percent van het in onderdeel a aan de reserve gestelde maximum;
+- b. [artikel 9, eerste lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=9&z=2011-01-01&g=2011-01-01), het aldaar bedoelde maximum van de jaarlijkse toevoeging aan de egalisatiereserve gesteld op vijfentwintig percent van het in onderdeel a aan de reserve gestelde maximum;
 
-- c. [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=9&z=2001-01-01&g=2002-01-01), het aldaar bedoelde maximum van de jaarlijkse toevoeging aan de egalisatiereserve, behoudens voor de toepassing van [artikel 10, eerste lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=10&z=2001-01-01&g=2002-01-01), gesteld op 45 percent van de voor opneming in de reserve beschikbare over het jaar genoten winst, berekend zonder toepassing van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=10&z=2001-01-01&g=2002-01-01).
+- c. [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=9&z=2011-01-01&g=2011-01-01), het aldaar bedoelde maximum van de jaarlijkse toevoeging aan de egalisatiereserve, behoudens voor de toepassing van [artikel 10, eerste lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=10&z=2011-01-01&g=2011-01-01), gesteld op 45 percent van de voor opneming in de reserve beschikbare over het jaar genoten winst, berekend zonder toepassing van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=10&z=2011-01-01&g=2011-01-01).
 
 2. Ingeval een schadeverzekeraar uitsluitend of nagenoeg uitsluitend kredietschade verzekert, wordt in afwijking in zoverre van:
 
-- a. [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=8&z=2001-01-01&g=2002-01-01), het maximum van de egalisatiereserve gesteld op 134 percent van het gemiddelde van de tijdens de vijf voorgaande boekjaren jaarlijks geboekte premies, verminderd met de voorziening voor te betalen schaden of voor te betalen uitkeringen bedoeld in [artikel 4, eerste lid, van het Besluit technische voorzieningen verzekeringsbedrijf 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006732&artikel=4);
+- a. [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=8&z=2011-01-01&g=2011-01-01), het maximum van de egalisatiereserve gesteld op 134 percent van het gemiddelde van de tijdens de vijf voorgaande boekjaren jaarlijks geboekte premies, verminderd met de voorziening voor te betalen schaden of voor te betalen uitkeringen bedoeld in [artikel 4, eerste lid, van het Besluit technische voorzieningen verzekeringsbedrijf 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006732&artikel=4);
 
-- b. [artikel 9, eerste lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=9&z=2001-01-01&g=2002-01-01), het aldaar bedoelde maximum van de jaarlijkse toevoeging aan de egalisatiereserve gesteld op 25 percent van het in onderdeel a aan de reserve gestelde maximum;
+- b. [artikel 9, eerste lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=9&z=2011-01-01&g=2011-01-01), het aldaar bedoelde maximum van de jaarlijkse toevoeging aan de egalisatiereserve gesteld op 25 percent van het in onderdeel a aan de reserve gestelde maximum;
 
-- c. [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=9&z=2001-01-01&g=2002-01-01), het aldaar bedoelde maximum van de jaarlijkse toevoeging aan de egalisatiereserve behoudens voor de toepassing van [artikel 10, eerste lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=10&z=2001-01-01&g=2002-01-01), gesteld op 75 percent van de voor opneming in de reserve beschikbare over het jaar genoten winst, berekend zonder toepassing van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=10&z=2001-01-01&g=2002-01-01).
+- c. [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=9&z=2011-01-01&g=2011-01-01), het aldaar bedoelde maximum van de jaarlijkse toevoeging aan de egalisatiereserve behoudens voor de toepassing van [artikel 10, eerste lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=10&z=2011-01-01&g=2011-01-01), gesteld op 75 percent van de voor opneming in de reserve beschikbare over het jaar genoten winst, berekend zonder toepassing van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=10&z=2011-01-01&g=2011-01-01).
 
-3. Ingeval een schadeverzekeraar uitsluitend of nagenoeg uitsluitend molestschade verzekert, is [artikel 9, eerste lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=9&z=2001-01-01&g=2002-01-01), niet van toepassing en wordt in afwijking van:
+3. Ingeval een schadeverzekeraar uitsluitend of nagenoeg uitsluitend molestschade verzekert, is [artikel 9, eerste lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=9&z=2011-01-01&g=2011-01-01), niet van toepassing en wordt in afwijking van:
 
-- a. [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=8&z=2001-01-01&g=2002-01-01), het maximum van de egalisatiereserve gesteld op het bij het einde van het jaar verzekerde bedrag;
+- a. [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=8&z=2011-01-01&g=2011-01-01), het maximum van de egalisatiereserve gesteld op het bij het einde van het jaar verzekerde bedrag;
 
-- b. [artikel 11, eerste lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=11&z=2001-01-01&g=2002-01-01), de aldaar bedoelde toevoeging aan de winst gesteld op het negatieve technische resultaat van molestverzekeringen, zijnde het bedrag waarmede de op het jaar betrekking hebbende schaden dat van de op het jaar betrekking hebbende premies – na aftrek van de daarover verschuldigde provisies – overtreft.
+- b. [artikel 11, eerste lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=11&z=2011-01-01&g=2011-01-01), de aldaar bedoelde toevoeging aan de winst gesteld op het negatieve technische resultaat van molestverzekeringen, zijnde het bedrag waarmede de op het jaar betrekking hebbende schaden dat van de op het jaar betrekking hebbende premies – na aftrek van de daarover verschuldigde provisies – overtreft.
 
 ##### Artikel 19. Fiscale eenheid
 
-Ingeval [artikel 15 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15) toepassing vindt ten aanzien van twee of meer vennootschappen die niet allen hetzij levensverzekeraar, hetzij natura-uitvaartverzekeraar, hetzij schadeverzekeraar zijn, vinden de in dit besluit – met uitzondering van [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=9&z=2001-01-01&g=2002-01-01), [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=10&z=2001-01-01&g=2002-01-01), en [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=18&z=2001-01-01&g=2002-01-01) – gegeven voorschriften, voorzover zij niet reeds van toepassing zijn, overeenkomstige toepassing met dien verstande dat, in afwijking in zoverre van:
+Ingeval [artikel 15 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15) toepassing vindt ten aanzien van twee of meer vennootschappen die niet allen hetzij levensverzekeraar, hetzij natura-uitvaartverzekeraar, hetzij schadeverzekeraar zijn, vinden de in dit besluit – met uitzondering van [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=9&z=2011-01-01&g=2011-01-01), [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=10&z=2011-01-01&g=2011-01-01), en [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=18&z=2011-01-01&g=2011-01-01) – gegeven voorschriften, voorzover zij niet reeds van toepassing zijn, overeenkomstige toepassing met dien verstande dat, in afwijking in zoverre van:
 
-- a. [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=8&z=2001-01-01&g=2002-01-01), het maximum van de egalisatiereserve wordt gesteld op de som van de in dat artikel gestelde maxima voor onderscheidenlijk een levensverzekeraar, een natura-uitvaartverzekeraar en een schadeverzekeraar;
+- a. [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=8&z=2011-01-01&g=2011-01-01), het maximum van de egalisatiereserve wordt gesteld op de som van de in dat artikel gestelde maxima voor onderscheidenlijk een levensverzekeraar, een natura-uitvaartverzekeraar en een schadeverzekeraar;
 
-- b. [artikel 9, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=9&z=2001-01-01&g=2002-01-01), het aldaar bedoelde maximum van de jaarlijkse toevoeging aan de egalisatiereserve wordt gesteld op de som van de onder die onderdeel gestelde maxima voor onderscheidenlijk een levensverzekeraar, een natura-uitvaartverzekeraar en een schadeverzekeraar.
+- b. [artikel 9, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=9&z=2011-01-01&g=2011-01-01), het aldaar bedoelde maximum van de jaarlijkse toevoeging aan de egalisatiereserve wordt gesteld op de som van de onder die onderdeel gestelde maxima voor onderscheidenlijk een levensverzekeraar, een natura-uitvaartverzekeraar en een schadeverzekeraar.
 
 ##### Artikel 20. Intrekking Besluit reserves verzekeraars
 
