@@ -4,7 +4,7 @@ identifier: "BWBR0025962"
 country: "nl"
 rank: "wet"
 publication_date: "2012-10-01"
-last_updated: "2010-04-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025962"
 soort: "wet"
@@ -57,11 +57,11 @@ Wijzigt de Algemene wet inzake rijksbelastingen.
 
 ##### Artikel IIIA
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Beginselenwet justitiële jeugdinrichtingen.
 
 ##### Artikel IIIB
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Beginselenwet verpleging ter beschikking gestelden.
 
 ##### Artikel IV
 
@@ -73,7 +73,7 @@ Wijzigt de Invorderingswet 1990.
 
 ##### Artikel VA
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Penitentiaire beginselenwet.
 
 ##### Artikel VI
 
@@ -89,7 +89,7 @@ Wijzigt de Luchtvaartwet.
 
 ##### Artikel IX
 
-[Artikel I onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0025962&artikel=I&z=2010-04-01&g=2010-04-01) en [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025962&artikel=IV&z=2010-04-01&g=2010-04-01) zijn van toepassing op strafbare feiten die zijn gepleegd voor de datum van inwerkingtreding van deze wet.
+[Artikel I onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0025962&artikel=I&z=2011-01-01&g=2011-01-01) en [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025962&artikel=IV&z=2011-01-01&g=2011-01-01) zijn van toepassing op strafbare feiten die zijn gepleegd voor de datum van inwerkingtreding van deze wet.
 
 ##### Artikel X
 
