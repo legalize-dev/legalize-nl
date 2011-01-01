@@ -4,7 +4,7 @@ identifier: "BWBR0024461"
 country: "nl"
 rank: "amvb"
 publication_date: "2011-01-01"
-last_updated: "2008-09-12"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024461"
 soort: "AMvB"
@@ -52,9 +52,9 @@ Met betrekking tot een aanvraag als bedoeld in [artikel 3, eerste lid](https://w
 
 ##### Artikel III
 
-1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van [artikel I, onderdelen J, K, L en M](https://wetten.overheid.nl/jci1.3:c:BWBR0024461&artikel=I&z=2008-09-12&g=2008-09-12), welke onderdelen in werking treden met ingang van 1 januari 2011.
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van [artikel I, onderdelen J, K, L en M](https://wetten.overheid.nl/jci1.3:c:BWBR0024461&artikel=I&z=2011-01-01&g=2011-01-01), welke onderdelen in werking treden met ingang van 1 januari 2011.
 
-2. De [artikelen I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0024461&artikel=I&z=2008-09-12&g=2008-09-12), en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0024461&artikel=II&z=2008-09-12&g=2008-09-12) werken terug tot en met 1 januari 2008.
+2. De [artikelen I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0024461&artikel=I&z=2011-01-01&g=2011-01-01), en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0024461&artikel=II&z=2011-01-01&g=2011-01-01) werken terug tot en met 1 januari 2008.
 
 ##### Artikel IV
 
