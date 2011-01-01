@@ -50,27 +50,3 @@ Met betrekking tot de termijn van zes maanden zoals genoemd in onderdeel ii) keu
 ### 2. Ingetrokken regeling
 
 ### 3. Inwerkingtreding
-
-De staatssecretaris van Financiën heeft het volgende besloten.
-
-**Dit besluit is een actualisering van het besluit van 1 juli 2009, nr. CPP2009/1120M. De tijdelijke uitbreiding van de termijn van zes maanden naar twaalf maanden wordt verlengd tot en met 31 december 2013.**
-
-### 1. Algemeen
-
-In artikel 27, paragraaf 2, van het Nederlands-Belgische belastingverdrag van 5 juni 2001 (Trb. 2001, 136) is de bijzondere compensatieregeling opgenomen. Deze compensatieregeling is van toepassing op inwoners van Nederland die op 31 december 2002 in België werkzaam waren als grensarbeider in de zin van artikel 15, paragraaf 3, van het belastingverdrag van 19 oktober 1970 (Trb. 1970, 192). De bijzondere compensatieregeling eindigt als overgangsregeling zodra de netto inkomensachteruitgang als omschreven in paragraaf 3 van artikel 27 in enig jaar nihil bedraagt of als de grensarbeider van dienstbetrekking verandert.
-
-### Goedkeuring
-
-Ik keur goed dat in de volgende situaties de bijzondere compensatieregeling kan worden voortgezet of weer toepassing kan vinden:
-
-Met betrekking tot de termijn van zes maanden zoals genoemd in onderdeel ii) keur ik goed dat deze vanwege de huidige economische situatie tijdelijk wordt uitgebreid tot twaalf maanden. Deze tijdelijke uitbreiding tot twaalf maanden geldt voor grensarbeiders die in de periode 1 september 2008 tot en met 31 december 2013 onvrijwillig en volledig werkloos zijn geworden. Voor grensarbeiders die in de periode van 1 januari 2014 tot en met 30 juni 2014 werkloos zijn geworden, geldt in dit kader 31 december 2014 als uiterste termijn om een nieuwe dienstbetrekking te aanvaarden. Voor het einde van de tijdelijke uitbreiding van de termijn zal opnieuw worden getoetst of tot verlenging besloten wordt.
-
-### 2. Ingetrokken regeling
-
-Het [besluit van 1 juli 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0026148), nr. CPP2009/1120M is ingetrokken met ingang van de inwerkingtreding van dit besluit.
-
-### 3. Inwerkingtreding
-
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. De goedkeuring met betrekking tot de tijdelijke uitbreiding van de termijn van zes naar twaalf maanden van onderdeel ii) werkt terug tot en met 1 januari 2011.
-
-Dit besluit wordt in de Staatscourant gepubliceerd.
