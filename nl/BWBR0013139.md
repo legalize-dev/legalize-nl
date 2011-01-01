@@ -4,7 +4,7 @@ identifier: "BWBR0013139"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2002-01-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013139"
 soort: "ministeriele-regeling"
@@ -50,13 +50,13 @@ In deze regeling wordt verstaan onder:
 
 Uitkeringen die na 31 december 2001 worden toegekend, dan wel met toepassing van artikel 42 van de AOR met ingang van een voor deze datum gelegen tijdstip worden herzien, worden als volgt berekend:
 
-- a. voor de periode tot 1 januari 2002 wordt de uitkering berekend overeenkomstig de [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013139&artikel=2&z=2002-01-01&g=2002-01-01) van de tot 1 januari 2002 geldende Algemene bij- en toeslagbeschikking AOR;
+- a. voor de periode tot 1 januari 2002 wordt de uitkering berekend overeenkomstig de [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013139&artikel=2&z=2002-01-01&g=2011-01-01) van de tot 1 januari 2002 geldende Algemene bij- en toeslagbeschikking AOR;
 
-- b. voor de periode vanaf 1 januari 2002 wordt de uitkering berekend door het overeenkomstig de onder a genoemde artikelen voor betrokkene berekende bedrag per 31 december 2001, op de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013139&artikel=2&z=2002-01-01&g=2002-01-01), aangegeven wijze vast te stellen en aan te passen overeenkomstig [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013139&artikel=2&z=2002-01-01&g=2002-01-01).
+- b. voor de periode vanaf 1 januari 2002 wordt de uitkering berekend door het overeenkomstig de onder a genoemde artikelen voor betrokkene berekende bedrag per 31 december 2001, op de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013139&artikel=2&z=2002-01-01&g=2011-01-01), aangegeven wijze vast te stellen en aan te passen overeenkomstig [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013139&artikel=2&z=2002-01-01&g=2011-01-01).
 
 ##### Artikel 4
 
-De met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013139&artikel=2&z=2002-01-01&g=2002-01-01) of [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013139&artikel=3&z=2002-01-01&g=2002-01-01) berekende uitkering wordt verminderd met de krachtens artikel 21 van de AOR voor aftrek vatbare inkomsten.
+De met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013139&artikel=2&z=2002-01-01&g=2011-01-01) of [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013139&artikel=3&z=2002-01-01&g=2011-01-01) berekende uitkering wordt verminderd met de krachtens artikel 21 van de AOR voor aftrek vatbare inkomsten.
 
 ##### Artikel 5
 
