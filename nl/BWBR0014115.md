@@ -4,7 +4,7 @@ identifier: "BWBR0014115"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-01"
-last_updated: "2003-01-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014115"
 soort: "AMvB"
@@ -52,67 +52,129 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder:
-
-- a. Centraal register opleidingen hoger onderwijs: het register, genoemd in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13);
-
-- b. instelling: een instelling als bedoeld in [artikel 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8) dan wel aangewezen krachtens [artikel 1.11 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.11);
-
-- c. studiepunt: 40 uren studie;
-
-- d. hoofdfase: de laatste 126 studiepunten.
+In dit besluit wordt verstaan onder Centraal register opleidingen hoger onderwijs: het register, bedoeld in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13).
 
 #### § 2. Titel
 
 ##### Artikel 2
 
-Het recht tot het voeren van de titel van huidtherapeut is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor huidtherapie die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014115&paragraaf=3&artikel=3&z=2003-01-01&g=2003-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0014115&paragraaf=3&artikel=4&z=2003-01-01&g=2003-01-01).
+Het recht tot het voeren van de titel van huidtherapeut is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor huidtherapie die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014115&paragraaf=3&artikel=3&z=2011-01-01&g=2011-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0014115&paragraaf=3&artikel=4&z=2011-01-01&g=2011-01-01).
 
 #### § 3. Opleiding
 
 ##### Artikel 3
 
-Een opleiding als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014115&paragraaf=2&artikel=2&z=2003-01-01&g=2003-01-01) omvat ten minste de volgende onderdelen:
+1. Een opleiding voor huidtherapie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014115&paragraaf=2&artikel=2&z=2011-01-01&g=2011-01-01) omvat zowel theoretisch als praktisch onderwijs, dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de huidtherapeutische beroepsuitoefening die betrekking hebben op het gebied van deskundigheid, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014115&paragraaf=4&artikel=5&z=2011-01-01&g=2011-01-01):
 
-- a. het centrale vakgebied huidtherapie, omvattende ten minste:
+- a. diagnostiek en behandeling;
 
-- 1°. onderzoeken en behandelen van de patiënt in het kader van het gebied van deskundigheid, omschreven in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014115&paragraaf=4&artikel=5&z=2003-01-01&g=2003-01-01);
+- b. communicatie en samenwerking;
 
-- 2°. theorie en praktijk van de huidtherapie;
+- c. preventie en gezondheidsvoorlichting;
 
-- b. de beroepsvoorbereidende periode in het werkveld;
+- d. kwaliteitszorg en innovatie;
 
-- c. het medische vakgebied, waaronder anatomie, fysiologie, pathologie, dermatologie, flebologie, lymfologie, oncologie, neurologie, radiologie, plastische chirurgie, gynaecologie, transseksualiteit, farmacologie, anesthesiologie en hygiëne;
+- e. praktijk- en bedrijfsvoering;
 
-- d. vakken op het gebied van de gedragswetenschappen, waaronder psychologie, gesprekstechnieken, voorlichting en didactiek;
+- f. beroepsontwikkeling;
 
-- e. ondersteunende vakken, waaronder organisatie van de gezondheidszorg, gezondheidsrecht, beroepsoriëntatie en praktijkvoering, ethiek met betrekking tot het beroep van huidtherapeut, methoden en technieken van wetenschappelijk onderzoek alsmede kwaliteitszorg.
+2. Het praktische onderwijs omvat ten minste stages in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014115&paragraaf=4&artikel=5&z=2011-01-01&g=2011-01-01), onder toezicht van een huidtherapeut.
 
 ##### Artikel 4
 
-1. De in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0014115&paragraaf=3&artikel=3&z=2003-01-01&g=2003-01-01), bedoelde beroepsvoorbereidende periode omvat het in het werkveld toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid van de huidtherapeut zoals omschreven in [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0014115&paragraaf=4&artikel=5&z=2003-01-01&g=2003-01-01).
+1. Het aspect diagnostiek en behandeling is zo ingericht dat betrokkene in staat is om in het kader van dat aspect, volgens de vigerende beroeps- en gezondheidszorgstandaarden, op methodische wijze de volgende interventies voor te bereiden, uit te voeren, te evalueren, bij te stellen en af te ronden:
 
-2. De beroepsvoorbereidende periode vindt plaats onder begeleiding van een daartoe door de instelling aangewezen docent en wordt doorgebracht onder toezicht van een arts of huidtherapeut.
+- a. het in het kader van het huidtherapeutische onderzoek bij de patiënt afnemen van een anamnese;
 
-3. De beroepsvoorbereidende periode omvat ten minste 30 studiepunten die behaald worden in de tweede helft van de hoofdfase en is gelijkelijk verdeeld over twee verschillende instellingen van gezondheidszorg of afdelingen daarvan.
+- b. het stellen van een huidtherapeutische diagnose;
+
+- c. het zo nodig verwijzen naar de arts die de patiënt behandelt;
+
+- d. het opstellen van een behandelplan of advies;
+
+- e. het toepassen van huidtherapeutische behandelingen die aandoeningen van de huid en de onderhuidse weefsels opheffen, verminderen dan wel compenseren;
+
+- f. het aanmeten en verstrekken van medische hulpmiddelen en prothesen alsmede adviseren met betrekking tot het gebruik daarvan;
+
+- g. het met behulp van ICT vastleggen van de aan de patiënt te bieden zorg;
+
+- h. het met andere zorgverleners waarborgen van effectieve en efficiënte huidtherapeutische zorg.
+
+2. Het aspect communicatie en samenwerking is zo ingericht dat betrokkene in staat is om:
+
+- a. effectief te communiceren met de patiënt en, in daarvoor in aanmerking komende gevallen, met diens naaste betrekkingen;
+
+- b. een functionele samenwerkingsrelatie met de patiënt aan te gaan, te onderhouden en af te ronden;
+
+- c. in het kader van formele relaties intern en extern te communiceren met andere beroepsbeoefenaren in de gezondheidszorg of instanties in de gezondheidszorg;
+
+- d. met andere beroepsbeoefenaren in de gezondheidszorg in en buiten de organisatie professioneel samen te werken.
+
+3. Het aspect preventie en gezondheidsvoorlichting is zo ingericht dat betrokkene in staat is om:
+
+- a. preventieve maatregelen te treffen voor het handhaven of het bevorderen van de gezondheid van de huid;
+
+- b. in het kader van preventie voorlichting te geven aan de patiënt ter zake van gedrag dat de gezondheid van de huid bevordert;
+
+- c. in het kader van therapietrouw en gedragsverandering de patiënt tijdens de behandeling op methodische wijze voor te lichten.
+
+4. Het aspect kwaliteitszorg en innovatie is zo ingericht dat betrokkene in staat is om:
+
+- a. de eigen zorg- en dienstverlening op effectiviteit en efficiëntie te analyseren, daaraan conclusies te verbinden en deze zo nodig planmatig te verbeteren;
+
+- b. aan de patiënt verantwoording af te leggen over effectiviteit en efficiëntie van het eigen professionele handelen;
+
+- c. een bijdrage te leveren aan de kwaliteit van de zorg- en dienstverlening binnen de organisatie waarvoor de betrokkene werkt en in dat kader de zorg- en dienstverlening op effectiviteit en efficiëntie te analyseren en daaraan conclusies te verbinden;
+
+- d. algemeen maatschappelijke en beroepsspecifieke innovaties te integreren in het eigen professionele handelen.
+
+5. Het aspect praktijk- en bedrijfsvoering is zo ingericht dat betrokkene in staat is om:
+
+- a. vanuit een zorgperspectief een bijdrage te leveren aan het zorgbeleid, de praktijkvoering en het beheer van de organisatie waarvoor de betrokkene werkt;
+
+- b. al dan niet met anderen tot een effectieve, efficiënte en hygiënische praktijk- en bedrijfsvoering te komen met behulp van ICT;
+
+- c. effectief leergedrag bij stagiaires en nieuwe collega’s te stimuleren, zodat beginnende huidtherapeuten op professionele wijze bijdragen aan het realiseren van de doelstellingen van de organisatie waarvoor zij werken.
+
+6. Het aspect beroepsontwikkeling is zo ingericht, dat betrokkene in staat is om:
+
+- a. het beroep uit te oefenen overeenkomstig de geldende professionele richtlijnen, de stand van de wetenschap en de geldende waarden en opvattingen die patiëntenorganisaties hebben ten aanzien van huidtherapeutische zorg;
+
+- b. ethische vraagstukken die zich voordoen bij de huidtherapeutische handelingen te onderkennen en te hanteren;
+
+- c. te handelen vanuit een juist begrip van wettelijke regelingen en andere regelingen betreffende de huidtherapeutische beroepsuitoefening;
+
+- d. te handelen vanuit een juist inzicht in de epidemiologie van huidziekten en de behoefte aan huidtherapeutische zorg van de bevolking als geheel en de mogelijkheden om zodanige zorg te bieden;
+
+- e. prioriteiten te stellen voor het verlenen van huidtherapeutische zorg in overeenstemming met de behandelingsnoodzaak en de eigen vraag naar huidzorg van de patiënt;
+
+- f. te handelen vanuit een juist inzicht in de structuur en financiering van de gezondheidszorg gericht op de huidtherapeutische zorg;
+
+- g. op een wetenschappelijke en effectieve manier informatie te verwerven, te verwerken en toe te passen in het beroepsmatige handelen;
+
+- h. te reflecteren op het eigen beroepsmatige handelen en dit op basis hiervan verder te ontwikkelen;
+
+- i. de eigen professionaliteit voortdurend te ontwikkelen op basis van nieuwe situaties in de samenleving of het beroepsdomein;
+
+- j. anderen te begeleiden in hun beroepsontwikkeling;
+
+- k. bij te dragen aan de ontwikkeling van de professie.
 
 #### § 4. Deskundigheid
 
 ##### Artikel 5
 
-1. Tot het gebied van deskundigheid van de huidtherapeut wordt gerekend:
+Tot het gebied van deskundigheid van de huidtherapeut wordt gerekend:
 
-- a. het op verwijzing van een arts:
+- a. het herkennen van risicofactoren en symptomen bij de patiënt die wijzen op de mogelijke aanwezigheid van een aandoening waarvoor deskundigheid van een arts gewenst of noodzakelijk is en bij constatering daarvan verwijzen naar een arts;
 
-- 1°. onderzoeken en beoordelen van een patiënt met een stoornis, beperking of handicap van de huid, ten gevolge van een pathologisch trauma of congenitale afwijking, en op basis van de verkregen gegevens opstellen van een behandelplan;
+- b. het onderzoeken van een patiënt met een stoornis, beperking of handicap van de huid, ten gevolge van een pathologisch trauma of congenitale afwijking, en op basis van de verkregen gegevens opstellen van een behandelplan;
 
-- 2°. behandelen van de patiënt met als doel het opheffen, verminderen of compenseren van een stoornis, beperking of handicap van de huid, het optimaliseren van de huidfuncties alsmede het geven van advies en instructie;
+- c. het behandelen van de patiënt met als doel het opheffen, verminderen of compenseren van een stoornis, beperking of handicap van de huid, het optimaliseren van de huidfuncties alsmede het geven van advies en instructie;
 
-- 3°. aanmeten en verstrekken van medische hulpmiddelen en prothesen alsmede adviseren met betrekking tot het gebruik daarvan;
+- d. het aanmeten en verstrekken van medische hulpmiddelen en prothesen alsmede adviseren met betrekking tot het gebruik daarvan;
 
-- b. het geven van advies en voorlichting.
-
-2. De verwijzing, bedoeld in het eerste lid, onder a, geschiedt schriftelijk, is gedateerd en ondertekend door de betrokken arts en bevat ten minste de door deze, voor het door de huidtherapeut onderzoeken en behandelen van de patiënt, relevant geachte diagnostische gegevens.
+- e. het geven van advies en voorlichting aan een patiënt.
 
 #### § 5. Slotbepalingen
 
