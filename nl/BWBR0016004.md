@@ -4,7 +4,7 @@ identifier: "BWBR0016004"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-10-27"
-last_updated: "2009-12-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016004"
 soort: "ministeriele-regeling"
@@ -62,13 +62,13 @@ Besluit:
 
 ##### Artikel 3. In mindering brengen
 
-1. Op het aantal dagen, bedoeld in [artikel 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016004&artikel=2&z=2009-12-01&g=2009-12-01), wordt in mindering gebracht:
+1. Op het aantal dagen, bedoeld in [artikel 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016004&artikel=2&z=2009-12-01&g=2011-01-01), wordt in mindering gebracht:
 
 - a. vijf maal het aantal hele weken voor de eerste werkloosheidsdag in het desbetreffende kalenderjaar, gedeeld door 13;
 
 - b. het aantal dagen waarop de werknemer in het desbetreffende kalenderjaar vakantie heeft genoten met behoud van zijn recht op uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), met uitzondering van vakantiedagen die tevens nationale of christelijke feestdagen zijn.
 
-2. Op het aantal dagen, bedoeld in [artikel 2, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016004&artikel=2&z=2009-12-01&g=2009-12-01), wordt in mindering gebracht:
+2. Op het aantal dagen, bedoeld in [artikel 2, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016004&artikel=2&z=2009-12-01&g=2011-01-01), wordt in mindering gebracht:
 
 - a. vijf maal het aantal hele weken voor de eerste dag waarop recht op een uitkering op grond van de [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394) bestond in het desbetreffende kalenderjaar, gedeeld door 13;
 
@@ -80,7 +80,7 @@ Het aantal dagen, berekend volgens de voorgaande artikelen, wordt rekenkundig op
 
 ##### Artikel 5. Overgangsbepaling
 
-De werknemer die op 31 december 2003 op grond van artikel 2, tweede lid, van de regeling van de Minister van Sociale Zaken en Werkgelegenheid van 23 januari 1992, nr. 92342 (Stcrt. 19), per kalenderjaar gedurende 13 weken vakantie kon genieten met behoud van zijn recht op uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) kan, in afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016004&artikel=2&z=2009-12-01&g=2009-12-01), in 2004 gedurende maximaal 65 dagen vakantie genieten met behoud van zijn recht op uitkering op grond van de Werkloosheidswet, voorzover hij voor de datum van inwerkingtreding van deze regeling verplichtingen daartoe is aangegaan.
+De werknemer die op 31 december 2003 op grond van artikel 2, tweede lid, van de regeling van de Minister van Sociale Zaken en Werkgelegenheid van 23 januari 1992, nr. 92342 (Stcrt. 19), per kalenderjaar gedurende 13 weken vakantie kon genieten met behoud van zijn recht op uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) kan, in afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016004&artikel=2&z=2009-12-01&g=2011-01-01), in 2004 gedurende maximaal 65 dagen vakantie genieten met behoud van zijn recht op uitkering op grond van de Werkloosheidswet, voorzover hij voor de datum van inwerkingtreding van deze regeling verplichtingen daartoe is aangegaan.
 
 ##### Artikel 6. Intrekking
 
