@@ -4,7 +4,7 @@ identifier: "BWBR0007159"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2010-03-18"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007159"
 soort: "ministeriele-regeling"
@@ -293,7 +293,19 @@ De verklaring, bedoeld in [artikel 6c, eerste en derde lid, van het besluit](htt
 
 ##### Artikel 8
 
-Voor de toepassing van [artikel 28, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=28) worden aangewezen residuen afkomstig van vertical technology (VERTEC) voor het reinigen van zuiveringsslib, regeneratiezandstof dat vrijkomt bij het stralen van voorwerpen of bij het vervaardigen van zandvormen in het productieproces van aluminium- en ijzergieterijen, anorganische residuen van de destillatie of ontwatering van verontreinigd boorgruis, residuen van zuivering in een afvalwaterbehandelingsinstallatie van afvalwater afkomstig van de rookgasontzwaveling van een kolengestookte elektriciteitscentrale en residuen afkomstig van installaties voor het verbranden van specifiek ziekenhuisafval.
+Voor de toepassing van [artikel 28, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=28) worden aangewezen:
+
+- a. residuen afkomstig van vertical technology (VERTEC) voor het reinigen van zuiveringsslib;
+
+- b. regeneratiezandstof dat vrijkomt bij het stralen van voorwerpen of bij het vervaardigen van zandvormen in het productieproces van aluminium- en ijzergieterijen;
+
+- c. anorganische residuen van de destillatie of ontwatering van verontreinigd boorgruis;
+
+- d. residuen van zuivering in een afvalwaterbehandelingsinstallatie van afvalwater afkomstig van de rookgasontzwaveling van een kolengestookte elektriciteitscentrale;
+
+- e. residuen afkomstig van installaties voor het verbranden van specifiek ziekenhuisafval, en
+
+- f. poreuze perliteresiduen, poreuze vermiculiteresiduen, perlitestof en vermiculitestof afkomstig van de thermische en mechanische bewerking van het gesteente perlite en het mineraal vermiculite.
 
 ### Hoofdstuk IVa. Energiebelasting
 
@@ -703,7 +715,7 @@ Berekeningen voor de toepassing van [artikel 47, eerste lid, onderdeel p, van de
 
 ##### Artikel 17
 
-Op de administratie van de fiscaal vertegenwoordiger, bedoeld in [artikel 54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), is [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=28&z=2010-03-18&g=2010-03-18) van overeenkomstige toepassing.
+Op de administratie van de fiscaal vertegenwoordiger, bedoeld in [artikel 54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), is [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=28&z=2011-01-01&g=2011-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 18
 
@@ -873,7 +885,7 @@ Vervallen
 
 - e. het netto elektrisch rendement van de installatie.
 
-2. De administratie van een installatie waarin zuivere biomassa wordt verwerkt op een wijze als bedoeld in het eerste lid, dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de toepassing van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=14&z=2010-03-18&g=2010-03-18) van belang zijnde bedrijfshandelingen.
+2. De administratie van een installatie waarin zuivere biomassa wordt verwerkt op een wijze als bedoeld in het eerste lid, dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de toepassing van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=14&z=2011-01-01&g=2011-01-01) van belang zijnde bedrijfshandelingen.
 
 3. De administratie van een installatie waarin biomassa zodanig wordt verwerkt dat daaruit stortgas, rioolwaterzuiveringsgas of biogas wordt gewonnen, dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze alle gegevens zijn opgenomen welke van belang zijn voor de jaarlijkse vaststelling van de door de installatie gewonnen en aan het distributienet geleverde hoeveelheid stortgas, rioolwaterzuiveringsgas, of biogas.
 
@@ -881,11 +893,11 @@ Vervallen
 
 ##### Artikel 30
 
-(gereserveerd)
+Vervallen
 
 ##### Artikel 31
 
-(gereserveerd)
+Vervallen
 
 ### Hoofdstuk VIII. Verpakkingenbelasting
 
