@@ -4,7 +4,7 @@ identifier: "BWBR0012095"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2010-01-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012095"
 soort: "AMvB"
@@ -58,9 +58,9 @@ Hebben goedgevonden en verstaan:
 
 - c. vennootschapsbelasting
 
-- d. recht van successie
+- d. erfbelasting
 
-- e. recht van schenking
+- e. schenkbelasting
 
 - f. kansspelbelasting.
 
@@ -86,7 +86,9 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 3. Uitbreiding begrip Mogendheid
 
-In dit besluit wordt onder Mogendheid mede verstaan: een bestuurlijke eenheid.
+1. In dit besluit wordt onder Mogendheid mede verstaan: een bestuurlijke eenheid.
+
+2. Voor de toepassing van dit besluit en de daarop berustende bepalingen worden de landen van het Koninkrijk der Nederlanden aangemerkt als afzonderlijke Mogendheden.
 
 ##### Artikel 4. Gebied van een andere Mogendheid
 
@@ -112,7 +114,7 @@ In dit besluit wordt:
 
 ##### Artikel 6. Ontwikkelingsland
 
-In dit besluit wordt onder ontwikkelingsland verstaan: een door Onze Minister in overeenstemming met Onze Minister zonder Portefeuille, belast met de zorg voor de aangelegenheden betreffende de Ontwikkelingssamenwerking, bij ministeriële regeling als zodanig aangewezen land.
+In dit besluit wordt onder ontwikkelingsland verstaan: een door Onze Minister in overeenstemming met Onze Minister van Buitenlandse Zaken bij ministeriële regeling als zodanig aangewezen land.
 
 ### Hoofdstuk 2. Inkomstenbelasting
 
@@ -154,13 +156,15 @@ Een binnenlandse belastingplichtige is vrijgesteld van de inkomstenbelasting die
 
 6. In afwijking in zoverre van het eerste lid behoren door een belastingplichtige verkregen voordelen en inkomsten uit het door de belastingplichtige of een ander als artiest of sportbeoefenaar verrichten van persoonlijke werkzaamheden binnen het gebied van de andere Mogendheid, niet tot het buitenlandse inkomen uit werk en woning uit die Mogendheid.
 
-7. Indien de belastingplichtige de onderneming van een vennootschap waarvan hij aandelen of winstbewijzen houdt, in het kader van de ontbinding van die vennootschap met toepassing van [artikel 14c van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14c), voortzet of mede voortzet, wordt op het tijdstip van voortzetting mede als winst uit buitenlandse onderneming uit een Mogendheid aangemerkt 24/46 deel van het aan het aandeel van de belastingplichtige in de vennootschap toe te rekenen deel van het volgens [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=34&z=2009-01-01&g=2010-01-01) vastgestelde bedrag aan winst uit buitenlandse onderneming uit die Mogendheid van de vennootschap na toepassing van genoemd [artikel 14c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14c). De vorige volzin vindt overeenkomstige toepassing bij volgens [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=35&z=2009-01-01&g=2010-01-01) vastgestelde bedragen aan negatieve buitenlandse winst van de vennootschap.
+7. Indien de belastingplichtige de onderneming van een vennootschap waarvan hij aandelen of winstbewijzen houdt, in het kader van de ontbinding van die vennootschap met toepassing van [artikel 14c van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14c), voortzet of mede voortzet, wordt op het tijdstip van voortzetting mede als winst uit buitenlandse onderneming uit een Mogendheid aangemerkt 24/46 deel van het aan het aandeel van de belastingplichtige in de vennootschap toe te rekenen deel van het volgens [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=34&z=2011-01-01&g=2011-01-01) vastgestelde bedrag aan winst uit buitenlandse onderneming uit die Mogendheid van de vennootschap na toepassing van genoemd [artikel 14c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14c). De vorige volzin vindt overeenkomstige toepassing bij volgens [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=35&z=2011-01-01&g=2011-01-01) vastgestelde bedragen aan negatieve buitenlandse winst van de vennootschap.
 
 8. In afwijking in zoverre van het eerste lid wordt tot het buitenlandse inkomen uit werk en woning uit een andere Mogendheid niet gerekend, het door een belastingplichtige genoten belastbare loon ter zake van een dienstbetrekking uitgeoefend aan boord van een zee- of luchtvaartuig in het internationale verkeer dat wordt geëxploiteerd door een onderneming waarvan de werkelijke leiding is gevestigd in een andere Mogendheid.
 
+9. Bij ministeriële regeling kunnen nadere regels worden gesteld over de toedeling van de ondernemersaftrek, bedoeld in [artikel 3.74 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.74), aan de winst uit buitenlandse onderneming.
+
 ##### Artikel 10. Vermindering belasting bij buitenlands inkomen uit werk en woning
 
-1. De in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=8&z=2009-01-01&g=2010-01-01) bedoelde vrijstelling voor buitenlands inkomen uit werk en woning wordt voor elke Mogendheid waaruit de belastingplichtige zodanig inkomen geniet afzonderlijk toegepast door een vermindering te verlenen op de verschuldigde inkomstenbelasting.
+1. De in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=8&z=2011-01-01&g=2011-01-01) bedoelde vrijstelling voor buitenlands inkomen uit werk en woning wordt voor elke Mogendheid waaruit de belastingplichtige zodanig inkomen geniet afzonderlijk toegepast door een vermindering te verlenen op de verschuldigde inkomstenbelasting.
 
 2. De in het eerste lid bedoelde vermindering is gelijk aan het bedrag dat tot de belasting die zonder de toepassing van dit besluit volgens de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) over het belastbare inkomen uit werk en woning verschuldigd zou zijn, in dezelfde verhouding staat als het buitenlands inkomen uit werk en woning uit een Mogendheid staat tot het noemerinkomen.
 
@@ -172,15 +176,15 @@ Een binnenlandse belastingplichtige is vrijgesteld van de inkomstenbelasting die
 
 6. In afwijking van het vijfde lid wordt het noemerinkomen per Mogendheid vermeerderd met de op het inkomen uit werk en woning in het jaar in mindering gebrachte uitgaven voor inkomensvoorzieningen en persoonsgebonden aftrek voorzover deze bij de belastingheffing in die Mogendheid in aanmerking zijn genomen.
 
-7. In afwijking van het vijfde lid, wordt, indien het inkomen van een belastingplichtige hoofdzakelijk uit een Mogendheid afkomstig is en die Mogendheid bij de belastingheffing van het inkomen de persoonlijke- en gezinssituatie van de belastingplichtige volledig in aanmerking neemt, of op grond van het Verdrag tot oprichting van de Europese Gemeenschap gehouden is deze volledig in aanmerking te nemen, het noemerinkomen, ook voor de bepaling van de vermindering wegens buitenlands inkomen uit andere Mogendheden, vermeerderd met de op het inkomen uit werk en woning in het jaar in mindering gebrachte uitgaven voor inkomensvoorzieningen en persoonsgebonden aftrek. De vorige volzin is van overeenkomstige toepassing met betrekking tot een Mogendheid, niet zijnde een lidstaat van de Europese Unie, die als zij een zodanige lidstaat zou zijn, gehouden zou zijn om op grond van het Verdrag tot oprichting van de Europese Gemeenschap de persoonlijke- en gezinssituatie volledig in aanmerking te nemen.
+7. In afwijking van het vijfde lid, wordt, indien het inkomen van een belastingplichtige hoofdzakelijk uit een Mogendheid afkomstig is en die Mogendheid bij de belastingheffing van het inkomen de persoonlijke- en gezinssituatie van de belastingplichtige volledig in aanmerking neemt, of op grond van het Verdrag betreffende de werking van de Europese Unie gehouden is deze volledig in aanmerking te nemen, het noemerinkomen, ook voor de bepaling van de vermindering wegens buitenlands inkomen uit andere Mogendheden, vermeerderd met de op het inkomen uit werk en woning in het jaar in mindering gebrachte uitgaven voor inkomensvoorzieningen en persoonsgebonden aftrek. De vorige volzin is van overeenkomstige toepassing met betrekking tot een Mogendheid, niet zijnde een lidstaat van de Europese Unie, die als zij een zodanige lidstaat zou zijn, gehouden zou zijn om op grond van het Verdrag betreffende de werking van de Europese Unie de persoonlijke- en gezinssituatie volledig in aanmerking te nemen.
 
 ##### Artikel 11. Doorschuifregeling
 
-1. Een bedrag aan in een jaar vrij te stellen buitenlands inkomen uit werk en woning – per Mogendheid berekend met inachtneming van de verrekening volgens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=12&z=2009-01-01&g=2010-01-01) – dat door de toepassing van [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=10&z=2009-01-01&g=2010-01-01), niet leidt tot een vermindering van belasting over dat jaar, wordt overgebracht naar het volgend jaar. Deze overbrenging vindt alleen plaats indien het naar het volgend jaar over te brengen buitenlands inkomen uit werk en woning door de inspecteur is vastgesteld bij voor bezwaar vatbare beschikking.
+1. Een bedrag aan in een jaar vrij te stellen buitenlands inkomen uit werk en woning – per Mogendheid berekend met inachtneming van de verrekening volgens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=12&z=2011-01-01&g=2011-01-01) – dat door de toepassing van [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=10&z=2011-01-01&g=2011-01-01), niet leidt tot een vermindering van belasting over dat jaar, wordt overgebracht naar het volgend jaar. Deze overbrenging vindt alleen plaats indien het naar het volgend jaar over te brengen buitenlands inkomen uit werk en woning door de inspecteur is vastgesteld bij voor bezwaar vatbare beschikking.
 
-2. In het jaar waarnaar de overbrenging plaatsvindt, wordt voor de berekening van de vermindering van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=10&z=2009-01-01&g=2010-01-01) het buitenlands inkomen uit werk en woning verhoogd met het over te brengen bedrag aan buitenlands inkomen uit werk en woning. Het noemerinkomen wordt niet verhoogd.
+2. In het jaar waarnaar de overbrenging plaatsvindt, wordt voor de berekening van de vermindering van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=10&z=2011-01-01&g=2011-01-01) het buitenlands inkomen uit werk en woning verhoogd met het over te brengen bedrag aan buitenlands inkomen uit werk en woning. Het noemerinkomen wordt niet verhoogd.
 
-3. Bij ministeriële regeling worden nadere regels gesteld over de toedeling van het vrij te stellen buitenlands inkomen uit werk en woning per Mogendheid aan de te verlenen vermindering volgens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=10&z=2009-01-01&g=2010-01-01) en de overbrenging van buitenlands inkomen uit werk en woning naar een volgend jaar van het eerste lid.
+3. Bij ministeriële regeling worden nadere regels gesteld over de toedeling van het vrij te stellen buitenlands inkomen uit werk en woning per Mogendheid aan de te verlenen vermindering volgens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=10&z=2011-01-01&g=2011-01-01) en de overbrenging van buitenlands inkomen uit werk en woning naar een volgend jaar van het eerste lid.
 
 4. Indien een binnenlandse belastingplichtige beloningen geniet als bedoeld in een compensatieregeling voor grensarbeiders in een andere regeling ter voorkoming van dubbele belasting, zijn het eerste en tweede lid niet van toepassing.
 
@@ -188,7 +192,7 @@ Een binnenlandse belastingplichtige is vrijgesteld van de inkomstenbelasting die
 
 ##### Artikel 12. Inhaalregeling
 
-Indien het buitenlands inkomen uit werk en woning uit een Mogendheid – berekend met inachtneming van de overbrenging per Mogendheid volgens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=11&z=2009-01-01&g=2010-01-01) – negatief is, wordt het voor de toepassing van de vermindering van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=10&z=2009-01-01&g=2010-01-01) aangemerkt als negatief bestanddeel van het buitenlandse inkomen uit werk en woning van het volgend jaar uit die Mogendheid. De inspecteur stelt het naar het volgend jaar over te brengen negatieve buitenlands inkomen uit werk en woning vast bij voor bezwaar vatbare beschikking.
+Indien het buitenlands inkomen uit werk en woning uit een Mogendheid – berekend met inachtneming van de overbrenging per Mogendheid volgens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=11&z=2011-01-01&g=2011-01-01) – negatief is, wordt het voor de toepassing van de vermindering van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=10&z=2011-01-01&g=2011-01-01) aangemerkt als negatief bestanddeel van het buitenlandse inkomen uit werk en woning van het volgend jaar uit die Mogendheid. De inspecteur stelt het naar het volgend jaar over te brengen negatieve buitenlands inkomen uit werk en woning vast bij voor bezwaar vatbare beschikking.
 
 #### Paragraaf 2. Verrekening
 
@@ -202,13 +206,13 @@ Indien het buitenlands inkomen uit werk en woning uit een Mogendheid – bereken
 
 - b. het bedrag dat tot de belasting die in het desbetreffende jaar zonder de toepassing van dit besluit volgens de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) over het belastbare inkomen uit werk en woning verschuldigd zou zijn, in dezelfde verhouding staat als het bedrag van de in dat jaar volgens het eerste lid in aanmerking te nemen voordelen en inkomsten, verminderd met de daarmee verband houdende kosten, staat tot het noemerinkomen.
 
-3. [Artikel 10, vierde, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=10&z=2009-01-01&g=2010-01-01), is van overeenkomstige toepassing.
+3. [Artikel 10, vierde, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=10&z=2011-01-01&g=2011-01-01), is van overeenkomstige toepassing.
 
-4. De vermindering volgens dit artikel bedraagt, met inachtneming van de verminderingen volgens andere regelen ter voorkoming van dubbele belasting en volgens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=10&z=2009-01-01&g=2010-01-01), ten hoogste het bedrag aan berekende belasting over het belastbare inkomen uit werk en woning.
+4. De vermindering volgens dit artikel bedraagt, met inachtneming van de verminderingen volgens andere regelen ter voorkoming van dubbele belasting en volgens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=10&z=2011-01-01&g=2011-01-01), ten hoogste het bedrag aan berekende belasting over het belastbare inkomen uit werk en woning.
 
 ##### Artikel 14. Voortwenteling niet verrekende belasting artiesten en sporters
 
-1. Het bedrag van de in een jaar vanwege andere Mogendheden geheven belasting, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=13&z=2009-01-01&g=2010-01-01), dat door de toepassing van het [tweede lid, onderdeel b, of het vierde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=13&z=2009-01-01&g=2010-01-01), niet leidt tot een vermindering van inkomstenbelasting over dat jaar, wordt aangemerkt als vanwege andere Mogendheden geheven belasting van het daaropvolgende jaar. Deze voortwenteling vindt alleen plaats indien het naar het volgend jaar over te brengen bedrag door de inspecteur is vastgesteld bij voor bezwaar vatbare beschikking.
+1. Het bedrag van de in een jaar vanwege andere Mogendheden geheven belasting, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=13&z=2011-01-01&g=2011-01-01), dat door de toepassing van het [tweede lid, onderdeel b, of het vierde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=13&z=2011-01-01&g=2011-01-01), niet leidt tot een vermindering van inkomstenbelasting over dat jaar, wordt aangemerkt als vanwege andere Mogendheden geheven belasting van het daaropvolgende jaar. Deze voortwenteling vindt alleen plaats indien het naar het volgend jaar over te brengen bedrag door de inspecteur is vastgesteld bij voor bezwaar vatbare beschikking.
 
 2. Indien een binnenlandse belastingplichtige beloningen geniet als bedoeld in een compensatieregeling voor grensarbeiders in een andere regeling ter voorkoming van dubbele belasting, is het eerste lid niet van toepassing.
 
@@ -216,7 +220,7 @@ Indien het buitenlands inkomen uit werk en woning uit een Mogendheid – bereken
 
 ##### Artikel 15. Verrekening buitenlandse belasting op dividenden, interest en royalty's
 
-1. Aan een binnenlandse belastingplichtige wordt, ter verrekening van vanwege een andere Mogendheid geheven belasting, een vermindering van inkomstenbelasting verleend voor in het inkomen uit werk en woning, maar niet in enig in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=9&z=2009-01-01&g=2010-01-01) bedoeld buitenlands inkomen uit werk en woning, begrepen dividenden, interest en royalty's, indien:
+1. Aan een binnenlandse belastingplichtige wordt, ter verrekening van vanwege een andere Mogendheid geheven belasting, een vermindering van inkomstenbelasting verleend voor in het inkomen uit werk en woning, maar niet in enig in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=9&z=2011-01-01&g=2011-01-01) bedoeld buitenlands inkomen uit werk en woning, begrepen dividenden, interest en royalty's, indien:
 
 - a. de vennootschap die de dividenden uitdeelt of de schuldenaar van de rente en royalty's in een ontwikkelingsland is gevestigd of woont, en
 
@@ -232,13 +236,13 @@ Indien het buitenlands inkomen uit werk en woning uit een Mogendheid – bereken
 
 4. Bij de toepassing van het tweede lid, onderdeel b, worden dividenden en interest verminderd met de daarmee verband houdende kosten, en worden royalty's verminderd met de daarop rechtstreeks drukkende kosten.
 
-5. [Artikel 10, vierde, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=10&z=2009-01-01&g=2010-01-01), is van overeenkomstige toepassing.
+5. [Artikel 10, vierde, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=10&z=2011-01-01&g=2011-01-01), is van overeenkomstige toepassing.
 
-6. De vermindering volgens dit artikel bedraagt, met inachtneming van de verminderingen volgens andere regelen ter voorkoming van dubbele belasting en volgens de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=10&z=2009-01-01&g=2010-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=13&z=2009-01-01&g=2010-01-01) en [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=13a&z=2009-01-01&g=2010-01-01), ten hoogste het bedrag aan berekende belasting over het belastbare inkomen uit werk en woning.
+6. De vermindering volgens dit artikel bedraagt, met inachtneming van de verminderingen volgens andere regelen ter voorkoming van dubbele belasting en volgens de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=10&z=2011-01-01&g=2011-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=13&z=2011-01-01&g=2011-01-01) en [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=13a&z=2011-01-01&g=2011-01-01), ten hoogste het bedrag aan berekende belasting over het belastbare inkomen uit werk en woning.
 
 ##### Artikel 16. Uiteindelijk gerechtigde
 
-1. Bij de toepassing van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=15&z=2009-01-01&g=2010-01-01) wordt geen vermindering verleend indien de belastingplichtige niet de uiteindelijk gerechtigde is tot de dividenden, interest of royalty's waarop door een andere Mogendheid belasting is geheven. Niet als uiteindelijk gerechtigde wordt beschouwd de belastingplichtige die in samenhang met de ontvangen opbrengst een tegenprestatie heeft verricht als onderdeel van een samenstel van transacties waarbij aannemelijk is dat:
+1. Bij de toepassing van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=15&z=2011-01-01&g=2011-01-01) wordt geen vermindering verleend indien de belastingplichtige niet de uiteindelijk gerechtigde is tot de dividenden, interest of royalty's waarop door een andere Mogendheid belasting is geheven. Niet als uiteindelijk gerechtigde wordt beschouwd de belastingplichtige die in samenhang met de ontvangen opbrengst een tegenprestatie heeft verricht als onderdeel van een samenstel van transacties waarbij aannemelijk is dat:
 
 - a. de opbrengst geheel of gedeeltelijk direct of indirect ten goede is gekomen aan een natuurlijk persoon of rechtspersoon die in mindere mate gerechtigd is tot vermindering van Nederlandse belasting dan de belastingplichtige die de tegenprestatie heeft verricht; en
 
@@ -252,11 +256,11 @@ Indien het buitenlands inkomen uit werk en woning uit een Mogendheid – bereken
 
 ##### Artikel 17. Voortwenteling niet verrekende belasting dividenden, interest en royalty's
 
-Het bedrag van de in een jaar vanwege andere Mogendheden geheven belasting, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=15&z=2009-01-01&g=2010-01-01), dat door de toepassing van het tweede lid, onderdeel b, of het vijfde lid, van dat artikel niet leidt tot een vermindering van inkomstenbelasting over dat jaar, wordt aangemerkt als vanwege andere Mogendheden geheven belasting van het daaropvolgende jaar. Deze voortwenteling vindt alleen plaats indien het naar het volgend jaar over te brengen bedrag door de inspecteur is vastgesteld bij voor bezwaar vatbare beschikking.
+Het bedrag van de in een jaar vanwege andere Mogendheden geheven belasting, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=15&z=2011-01-01&g=2011-01-01), dat door de toepassing van het tweede lid, onderdeel b, of het vijfde lid, van dat artikel niet leidt tot een vermindering van inkomstenbelasting over dat jaar, wordt aangemerkt als vanwege andere Mogendheden geheven belasting van het daaropvolgende jaar. Deze voortwenteling vindt alleen plaats indien het naar het volgend jaar over te brengen bedrag door de inspecteur is vastgesteld bij voor bezwaar vatbare beschikking.
 
 ##### Artikel 18. Kostenaftrek
 
-Op schriftelijk verzoek van de belastingplichtige blijft [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=15&z=2009-01-01&g=2010-01-01) buiten toepassing voor de in een jaar genoten dividenden, interest en royalty's, bedoeld in dat artikel en voor de daarover vanwege ontwikkelingslanden geheven belasting.
+Op schriftelijk verzoek van de belastingplichtige blijft [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=15&z=2011-01-01&g=2011-01-01) buiten toepassing voor de in een jaar genoten dividenden, interest en royalty's, bedoeld in dat artikel en voor de daarover vanwege ontwikkelingslanden geheven belasting.
 
 ### Afdeling 3. Inkomen uit aanmerkelijk belang
 
@@ -274,21 +278,21 @@ Op schriftelijk verzoek van de belastingplichtige blijft [artikel 15](https://we
 
 - b. het bedrag dat tot de belasting die in het desbetreffende jaar zonder de toepassing van dit besluit volgens de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) over het belastbare inkomen uit aanmerkelijk belang verschuldigd zou zijn, in dezelfde verhouding staat als het bedrag van de in dat jaar volgens het eerste lid in aanmerking te nemen dividenden staat tot het noemerinkomen.
 
-3. [Artikel 15, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=15&z=2009-01-01&g=2010-01-01), en [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=16&z=2009-01-01&g=2010-01-01) vinden overeenkomstige toepassing.
+3. [Artikel 15, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=15&z=2011-01-01&g=2011-01-01), en [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=16&z=2011-01-01&g=2011-01-01) vinden overeenkomstige toepassing.
 
 4. Onder de belasting die zonder de toepassing van dit besluit volgens de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) verschuldigd zou zijn over het belastbare inkomen uit aanmerkelijk belang wordt verstaan: de over het kalenderjaar berekende belasting op het belastbare inkomen uit aanmerkelijk belang, bedoeld in [artikel 2.7, eerste lid, aanhef en onderdeel b, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.7).
 
 5. Onder noemerinkomen wordt verstaan: het belastbare inkomen uit aanmerkelijk belang.
 
-6. In afwijking van het vijfde lid, wordt, indien het inkomen van een belastingplichtige hoofdzakelijk uit een Mogendheid afkomstig is en die Mogendheid bij de belastingheffing van het inkomen de persoonlijke- en gezinssituatie van de belastingplichtige volledig in aanmerking neemt, of op grond van het Verdrag tot oprichting van de Europese Gemeenschap gehouden is de persoonlijke- en gezinssituatie volledig in aanmerking te nemen, het noemerinkomen vermeerderd met de op het inkomen uit aanmerkelijk belang in het jaar in mindering gebrachte persoonsgebonden aftrek. De vorige volzin is van overeenkomstige toepassing met betrekking tot een Mogendheid, niet zijnde een lidstaat van de Europese Unie, die als zij een zodanige lidstaat zou zijn, gehouden zou zijn om op grond van het Verdrag tot oprichting van de Europese Gemeenschap de persoonlijke- en gezinssituatie volledig in aanmerking te nemen.
+6. In afwijking van het vijfde lid, wordt, indien het inkomen van een belastingplichtige hoofdzakelijk uit een Mogendheid afkomstig is en die Mogendheid bij de belastingheffing van het inkomen de persoonlijke- en gezinssituatie van de belastingplichtige volledig in aanmerking neemt, of op grond van het Verdrag betreffende de werking van de Europese Unie gehouden is de persoonlijke- en gezinssituatie volledig in aanmerking te nemen, het noemerinkomen vermeerderd met de op het inkomen uit aanmerkelijk belang in het jaar in mindering gebrachte persoonsgebonden aftrek. De vorige volzin is van overeenkomstige toepassing met betrekking tot een Mogendheid, niet zijnde een lidstaat van de Europese Unie, die als zij een zodanige lidstaat zou zijn, gehouden zou zijn om op grond van het Verdrag betreffende de werking van de Europese Unie de persoonlijke- en gezinssituatie volledig in aanmerking te nemen.
 
 ##### Artikel 20. Voortwenteling niet verrekende belasting
 
-Het bedrag van de in een jaar vanwege andere Mogendheden geheven belasting als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=3&artikel=19&z=2009-01-01&g=2010-01-01) dat door de toepassing van het tweede lid, onderdeel b, niet leidt tot een vermindering van inkomstenbelasting over dat jaar, wordt aangemerkt als vanwege andere Mogendheden geheven belasting van het daaropvolgende jaar. Deze voortwenteling vindt alleen plaats indien het naar het volgend jaar over te brengen bedrag door de inspecteur is vastgesteld bij voor bezwaar vatbare beschikking.
+Het bedrag van de in een jaar vanwege andere Mogendheden geheven belasting, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=3&artikel=19&z=2011-01-01&g=2011-01-01), dat door de toepassing van het tweede lid, onderdeel b, van dat artikel niet leidt tot een vermindering van inkomstenbelasting over dat jaar, wordt aangemerkt als vanwege andere Mogendheden geheven belasting van het daaropvolgende jaar. Deze voortwenteling vindt alleen plaats indien het naar het volgend jaar over te brengen bedrag door de inspecteur is vastgesteld bij voor bezwaar vatbare beschikking.
 
 ##### Artikel 21. Kostenaftrek
 
-Op schriftelijk verzoek van de belastingplichtige blijft [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=3&artikel=19&z=2009-01-01&g=2010-01-01) buiten toepassing voor de in een jaar genoten dividenden als bedoeld in dat artikel en voor de daarover vanwege ontwikkelingslanden geheven belasting.
+Op schriftelijk verzoek van de belastingplichtige blijft [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=3&artikel=19&z=2011-01-01&g=2011-01-01) buiten toepassing voor de in een jaar genoten dividenden als bedoeld in dat artikel en voor de daarover vanwege ontwikkelingslanden geheven belasting.
 
 ### Afdeling 4. Inkomen uit sparen en beleggen
 
@@ -302,7 +306,7 @@ Een binnenlandse belastingplichtige is vrijgesteld van de inkomstenbelasting die
 
 1. Het buitenlandse voordeel uit sparen en beleggen bestaat uit het gezamenlijke bedrag van hetgeen de belastingplichtige als bestanddeel van het voordeel uit sparen en beleggen geniet als voordeel uit de rendementsgrondslag in het buitenland.
 
-2. De rendementsgrondslag in het buitenland is de waarde van de bezittingen in het buitenland verminderd met de waarde van de schulden in verband met die bezittingen. Bezittingen in het buitenland zijn:
+2. De rendementsgrondslag in het buitenland is de waarde aan het begin van het kalenderjaar (peildatum) van de bezittingen in het buitenland verminderd met de waarde op de peildatum van de schulden in verband met die bezittingen. Bezittingen in het buitenland zijn:
 
 - a. binnen het gebied van een andere Mogendheid gelegen onroerende zaken;
 
@@ -310,25 +314,23 @@ Een binnenlandse belastingplichtige is vrijgesteld van de inkomstenbelasting die
 
 - c. rechten op aandelen in de winst van een onderneming waarvan de leiding binnen het gebied van een andere Mogendheid is gelegen, voorzover zij niet voortkomen uit effectenbezit of dienstbetrekking.
 
-Tot de schulden die in verband staan met de bezittingen in het buitenland behoren ook de met die bezittingen in verband staande schulden die met inachtneming van [artikel 2.17 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.17) bij de bepaling van het inkomen uit sparen en beleggen van de partner van de belastingplichtige in aanmerking zijn genomen.
-
 3. Bezittingen als bedoeld in het tweede lid behoren alleen tot de rendementsgrondslag in het buitenland voorzover de daaruit genoten opbrengsten zijn onderworpen aan een belasting naar het inkomen die vanwege de andere Mogendheid waarin de bezittingen zijn gelegen, wordt geheven.
+
+4. Indien de in het tweede lid genoemde bezittingen en schulden niet het gehele jaar tot de rendementsgrondslag van de belastingplichtige behoren, wordt de naar tijdsgelang herleide waarde op de peildatum hiervan voor de vaststelling van de rendementsgrondslag in het buitenland in aanmerking genomen, waarbij gedeelten van kalendermaanden als volle maand worden beschouwd. Behoort de zaak, het recht of de schuld op de peildatum niet tot de rendementsgrondslag, dan wordt voor de toepassing van de eerste volzin uitgegaan van de waarde op het tijdstip waarop de zaak, het recht of de schuld tot de rendementsgrondslag gaat behoren.
 
 ##### Artikel 24. Vermindering belasting bij buitenlands voordeel uit sparen en beleggen
 
-1. De in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=4&paragraaf=1&artikel=22&z=2009-01-01&g=2010-01-01) bedoelde vrijstelling voor buitenlands voordeel uit sparen en beleggen wordt toegepast door een vermindering te verlenen op de verschuldigde inkomstenbelasting.
+1. De in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=4&paragraaf=1&artikel=22&z=2011-01-01&g=2011-01-01) bedoelde vrijstelling voor buitenlands voordeel uit sparen en beleggen wordt toegepast door een vermindering te verlenen op de verschuldigde inkomstenbelasting.
 
-2. De in het eerste lid bedoelde vermindering is gelijk aan het bedrag dat tot de belasting die zonder de toepassing van dit besluit volgens de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) over het belastbare inkomen uit sparen en beleggen verschuldigd zou zijn, in dezelfde verhouding staat als het forfaitair rendement, bedoeld in [artikel 5.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2), van het gemiddelde van de rendementsgrondslag in het buitenland aan het begin van het jaar (begindatum) en aan het einde van het jaar (einddatum) staat tot het noemerinkomen. De vermindering kan, met inachtneming van de verminderingen volgens andere regelen ter voorkoming van dubbele belasting, niet meer bedragen dan de belasting die zonder de toepassing van dit besluit volgens de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) over het belastbare inkomen uit sparen en beleggen verschuldigd zou zijn.
+2. De in het eerste lid bedoelde vermindering is gelijk aan het bedrag dat tot de belasting die zonder de toepassing van dit besluit volgens de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) over het belastbare inkomen uit sparen en beleggen verschuldigd zou zijn, in dezelfde verhouding staat als het forfaitair rendement, bedoeld in [artikel 5.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2), van de rendementsgrondslag in het buitenland staat tot het noemerinkomen. De vermindering kan, met inachtneming van de verminderingen volgens andere regelen ter voorkoming van dubbele belasting, niet meer bedragen dan de belasting die zonder de toepassing van dit besluit volgens de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) over het belastbare inkomen uit sparen en beleggen verschuldigd zou zijn.
 
-3. Indien de belastingplichtige niet het gehele jaar binnenlands belastingplichtige is, wordt de naar tijdsgelang herleide waarde van de rendementsgrondslag in het buitenland over de periode dat hij in Nederland woonde in aanmerking genomen. Gedeelten van kalendermaanden worden hierbij verwaarloosd. Als noemerinkomen geldt de som van het naar tijdsgelang herleide noemerinkomen over de periode dat de belastingplichtige in Nederland woonde en het naar tijdsgelang herleide belastbare inkomen uit sparen en beleggen in Nederland over de periode dat hij niet in Nederland woonde. De derde volzin vindt geen toepassing bij de belastingplichtige die volgens [artikel 2.5 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.5) kiest voor toepassing van de regels van die [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) voor binnenlandse belastingplichtigen.
+3. Indien de belastingplichtige niet het gehele jaar binnenlands belastingplichtige is, wordt voor de in het tweede lid bedoelde vermindering het naar tijdsgelang herleide forfaitaire rendement, bedoeld in [artikel 5.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2), van de rendementsgrondslag in het buitenland over de periode dat hij in Nederland woonde in aanmerking genomen. Gedeelten van kalendermaanden worden hierbij verwaarloosd. Als noemerinkomen geldt de som van het naar tijdsgelang herleide noemerinkomen over de periode dat de belastingplichtige in Nederland woonde en het naar tijdsgelang herleide belastbare inkomen uit sparen en beleggen in Nederland over de periode dat hij niet in Nederland woonde. De derde volzin vindt geen toepassing bij de belastingplichtige die volgens [artikel 2.5 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.5) kiest voor toepassing van de regels van die [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) voor binnenlandse belastingplichtigen.
 
-4. Indien de in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=4&paragraaf=1&artikel=23&z=2009-01-01&g=2010-01-01), genoemde zaken, rechten en schulden niet het gehele jaar tot de rendementsgrondslag van de belastingplichtige behoren, wordt zowel op de begindatum als op de einddatum de naar tijdsgelang herleide waarde hiervan als rendementsgrondslag in het buitenland in aanmerking genomen, waarbij gedeelten van kalendermaanden als volle maand worden beschouwd. Behoort de zaak, het recht of de schuld op de begindatum of de einddatum tot de rendementsgrondslag van de belastingplichtige dan wordt de waarde op dat tijdstip als basis genomen voor de toepassing van de eerste volzin. Behoort de zaak, het recht of de schuld op geen van die tijdstippen tot de rendementsgrondslag van de belastingplichtige, dan wordt uitgegaan van de waarde op het tijdstip waarop de zaak, het recht of de schuld niet meer tot de rendementsgrondslag behoort.
+4. Onder de belasting die zonder de toepassing van dit besluit volgens de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) verschuldigd zou zijn over het belastbare inkomen uit sparen en beleggen wordt verstaan: de over het kalenderjaar berekende belasting op het belastbare inkomen uit sparen en beleggen, bedoeld in [artikel 2.7, eerste lid, aanhef en onderdeel c, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.7).
 
-5. Onder de belasting die zonder de toepassing van dit besluit volgens de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) verschuldigd zou zijn over het belastbare inkomen uit sparen en beleggen wordt verstaan: de over het kalenderjaar berekende belasting op het belastbare inkomen uit sparen en beleggen, bedoeld in [artikel 2.7, eerste lid, aanhef en onderdeel c, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.7).
+5. Onder noemerinkomen wordt verstaan het belastbare inkomen uit sparen en beleggen.
 
-6. Onder noemerinkomen wordt verstaan het belastbare inkomen uit sparen en beleggen.
-
-7. In afwijking van het zesde lid, wordt, indien het inkomen van een belastingplichtige hoofdzakelijk uit een Mogendheid afkomstig is en die Mogendheid bij de belastingheffing van het inkomen de persoonlijke- en gezinssituatie van de belastingplichtige volledig in aanmerking neemt, of op grond van het Verdrag tot oprichting van de Europese Gemeenschap gehouden is de persoonlijke- en gezinssituatie volledig in aanmerking te nemen, het noemerinkomen vermeerderd met de op het belastbaar inkomen uit sparen en beleggen in het jaar in mindering gebrachte persoonsgebonden aftrek, alsmede met het forfaitair rendement, bedoeld in [artikel 5.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2), van het in aanmerking genomen heffingvrije vermogen. De vorige volzin is van overeenkomstige toepassing met betrekking tot een Mogendheid, niet zijnde een lidstaat van de Europese Unie, die als zij een zodanige lidstaat zou zijn, gehouden zou zijn om op grond van het Verdrag tot oprichting van de Europese Gemeenschap de persoonlijke- en gezinssituatie volledig in aanmerking te nemen.
+6. In afwijking van het zesde lid, wordt, indien het inkomen van een belastingplichtige hoofdzakelijk uit een Mogendheid afkomstig is en die Mogendheid bij de belastingheffing van het inkomen de persoonlijke- en gezinssituatie van de belastingplichtige volledig in aanmerking neemt, of op grond van het Verdrag betreffende de werking van de Europese Unie gehouden is de persoonlijke- en gezinssituatie volledig in aanmerking te nemen, het noemerinkomen vermeerderd met de op het belastbaar inkomen uit sparen en beleggen in het jaar in mindering gebrachte persoonsgebonden aftrek, alsmede met het forfaitair rendement, bedoeld in [artikel 5.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2), van het in aanmerking genomen heffingvrije vermogen. De vorige volzin is van overeenkomstige toepassing met betrekking tot een Mogendheid, niet zijnde een lidstaat van de Europese Unie, die als zij een zodanige lidstaat zou zijn, gehouden zou zijn om op grond van het Verdrag betreffende de werking van de Europese Unie de persoonlijke- en gezinssituatie volledig in aanmerking te nemen.
 
 #### Paragraaf 2. Verrekening
 
@@ -344,27 +346,27 @@ Tot de schulden die in verband staan met de bezittingen in het buitenland behore
 
 2. Het bedrag van de in het eerste lid bedoelde vermindering is gelijk aan het bedrag van de in het desbetreffende jaar vanwege andere Mogendheden geheven belasting. De belasting die vanwege andere Mogendheden is geheven over dividenden, interest en royalty's wordt tot geen hoger bedrag in aanmerking genomen dan tot 15% van de desbetreffende dividenden, interest en royalty's.
 
-3. [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=16&z=2009-01-01&g=2010-01-01) is van overeenkomstige toepassing.
+3. [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=16&z=2011-01-01&g=2011-01-01) is van overeenkomstige toepassing.
 
-4. De vermindering volgens dit artikel bedraagt, met inachtneming van de verminderingen volgens andere regelen ter voorkoming van dubbele belasting en volgens [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=4&paragraaf=1&artikel=24&z=2009-01-01&g=2010-01-01), ten hoogste het bedrag aan berekende belasting op het belastbaar inkomen uit sparen en beleggen.
+4. De vermindering volgens dit artikel bedraagt, met inachtneming van de verminderingen volgens andere regelen ter voorkoming van dubbele belasting en volgens [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=4&paragraaf=1&artikel=24&z=2011-01-01&g=2011-01-01), ten hoogste het bedrag aan berekende belasting op het belastbaar inkomen uit sparen en beleggen.
 
 ##### Artikel 25a. Voortwenteling niet verrekende belasting
 
-Het bedrag van de in een jaar vanwege andere Mogendheden geheven belasting, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=4&paragraaf=2&artikel=25&z=2009-01-01&g=2010-01-01), dat door de toepassing van het vierde lid van dat artikel niet leidt tot een vermindering van inkomstenbelasting over dat jaar, wordt aangemerkt als vanwege andere Mogendheden geheven belasting van het daaropvolgende jaar. Deze voortwenteling vindt alleen plaats indien het naar het volgend jaar over te brengen bedrag door de inspecteur is vastgesteld bij voor bezwaar vatbare beschikking.
+Het bedrag van de in een jaar vanwege andere Mogendheden geheven belasting, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=4&paragraaf=2&artikel=25&z=2011-01-01&g=2011-01-01), dat door de toepassing van het vierde lid van dat artikel niet leidt tot een vermindering van inkomstenbelasting over dat jaar, wordt aangemerkt als vanwege andere Mogendheden geheven belasting van het daaropvolgende jaar. Deze voortwenteling vindt alleen plaats indien het naar het volgend jaar over te brengen bedrag door de inspecteur is vastgesteld bij voor bezwaar vatbare beschikking.
 
 ### Afdeling 5. Formele en overige bepalingen
 
 ##### Artikel 26. Beschikkingen doorschuifregeling
 
-1. De inspecteur stelt het bedrag van het volgens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=11&z=2009-01-01&g=2010-01-01) naar een volgend jaar over te brengen buitenlands inkomen uit werk en woning per Mogendheid en het bedrag van het volgens [artikel 24a](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=4&paragraaf=1&artikel=24a&z=2009-01-01&g=2010-01-01) naar een volgend jaar over te brengen buitenlands voordeel uit sparen en beleggen vast bij voor bezwaar vatbare beschikking. Deze vaststelling gebeurt gelijktijdig met het vaststellen van de aanslag over dat jaar. Het bedrag van het naar het volgend jaar over te brengen buitenlands inkomen uit werk en woning en het bedrag van het naar het volgend jaar over te brengen buitenlands voordeel uit sparen en beleggen worden op het aanslagbiljet afzonderlijk vermeld.
+1. De inspecteur stelt het bedrag van het volgens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=11&z=2011-01-01&g=2011-01-01) naar een volgend jaar over te brengen buitenlands inkomen uit werk en woning per Mogendheid en het bedrag van het volgens [artikel 24a](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=4&paragraaf=1&artikel=24a&z=2011-01-01&g=2011-01-01) of [artikel 24b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=4&paragraaf=1&artikel=24b&z=2011-01-01&g=2011-01-01), naar een volgend jaar over te brengen buitenlands voordeel uit sparen en beleggen vast bij voor bezwaar vatbare beschikking. Deze vaststelling gebeurt gelijktijdig met het vaststellen van de aanslag over dat jaar. Het bedrag van het naar het volgend jaar over te brengen buitenlands inkomen uit werk en woning en het bedrag van het naar het volgend jaar over te brengen buitenlands voordeel uit sparen en beleggen worden op het aanslagbiljet afzonderlijk vermeld.
 
 2. Rechtsmiddelen tegen een beschikking als bedoeld in het eerste lid kunnen uitsluitend betrekking hebben op:
 
 - a. de grootte van het over te brengen bedrag aan buitenlands inkomen uit werk en woning en van het over te brengen bedrag aan buitenlands voordeel uit sparen en beleggen, voorzover niet eerder vastgesteld, en
 
-- b. de toepassing van de ministeriële regeling, bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=11&z=2009-01-01&g=2010-01-01).
+- b. de toepassing van de ministeriële regeling, bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=11&z=2011-01-01&g=2011-01-01).
 
-3. Het bedrag aan buitenlands inkomen uit werk en woning dat volgens [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=11&z=2009-01-01&g=2010-01-01), naar het volgend jaar wordt overgebracht en het bedrag aan buitenlands voordeel uit sparen en beleggen dat volgens [artikel 24a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=4&paragraaf=1&artikel=24a&z=2009-01-01&g=2010-01-01), naar het volgend jaar wordt overgebracht, kunnen worden herzien of alsnog worden vastgesteld, indien:
+3. Het bedrag aan buitenlands inkomen uit werk en woning dat volgens [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=11&z=2011-01-01&g=2011-01-01), naar het volgend jaar wordt overgebracht en het bedrag aan buitenlands voordeel uit sparen en beleggen dat volgens [artikel 24a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=4&paragraaf=1&artikel=24a&z=2011-01-01&g=2011-01-01), of [artikel 24b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=4&paragraaf=1&artikel=24b&z=2011-01-01&g=2011-01-01), naar het volgend jaar wordt overgebracht, kunnen worden herzien of alsnog worden vastgesteld, indien:
 
 - a. een aanslag wordt verminderd wegens de verrekening van verliezen uit andere jaren;
 
@@ -376,31 +378,31 @@ Het bedrag van de in een jaar vanwege andere Mogendheden geheven belasting, bedo
 
 - e. enig feit grond oplevert voor het vermoeden dat het bedrag van het over te brengen buitenlands voordeel uit sparen en beleggen te hoog is vastgesteld, waarbij de herziening alleen kan plaatsvinden voor in de beschikking opgenomen buitenlands voordeel uit sparen en beleggen dat is genoten in een van de twaalf voorafgaande jaren.
 
-4. In afwijking in zoverre van [artikel 11, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=11&z=2009-01-01&g=2010-01-01), onderscheidenlijk [artikel 24a, eerste lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=4&paragraaf=1&artikel=24a&z=2009-01-01&g=2010-01-01), wordt, indien het derde lid toepassing vindt, het herziene of het alsnog vastgestelde bedrag aan buitenlands inkomen uit werk en woning, onderscheidenlijk het herziene of het alsnog vastgestelde bedrag aan buitenlands voordeel uit sparen en beleggen dat naar het volgend jaar wordt overgebracht, in het volgend jaar in aanmerking genomen zonder dat dit bedrag vooraf door de inspecteur bij voor bezwaar vatbare beschikking is vastgesteld. De vorige volzin vindt overeenkomstige toepassing voorzover de herziening gevolgen heeft voor bedragen die worden overgebracht naar jaren waarvoor al een aanslag is vastgesteld.
+4. In afwijking in zoverre van [artikel 11, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=11&z=2011-01-01&g=2011-01-01), onderscheidenlijk de [artikelen 24a, eerste lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=4&paragraaf=1&artikel=24a&z=2011-01-01&g=2011-01-01), en [24b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=4&paragraaf=1&artikel=24b&z=2011-01-01&g=2011-01-01), wordt, indien het derde lid toepassing vindt, het herziene of het alsnog vastgestelde bedrag aan buitenlands inkomen uit werk en woning, onderscheidenlijk het herziene of het alsnog vastgestelde bedrag aan buitenlands voordeel uit sparen en beleggen dat naar het volgend jaar wordt overgebracht, in het volgend jaar in aanmerking genomen zonder dat dit bedrag vooraf door de inspecteur bij voor bezwaar vatbare beschikking is vastgesteld. De vorige volzin vindt overeenkomstige toepassing voorzover de herziening gevolgen heeft voor bedragen die worden overgebracht naar jaren waarvoor al een aanslag is vastgesteld.
 
 ##### Artikel 27. Beschikkingen inhaalregeling
 
-1. De inspecteur stelt het bedrag van het volgens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=12&z=2009-01-01&g=2010-01-01) naar een volgend jaar over te brengen negatieve buitenlands inkomen uit werk en woning per Mogendheid vast bij voor bezwaar vatbare beschikking.
+1. De inspecteur stelt het bedrag van het volgens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=12&z=2011-01-01&g=2011-01-01) naar een volgend jaar over te brengen negatieve buitenlands inkomen uit werk en woning per Mogendheid vast bij voor bezwaar vatbare beschikking.
 
-2. [Artikel 26, eerste lid, tweede en derde volzin, tweede lid, derde lid en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=5&artikel=26&z=2009-01-01&g=2010-01-01) is van overeenkomstige toepassing.
+2. [Artikel 26, eerste lid, tweede en derde volzin, tweede lid, derde lid en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=5&artikel=26&z=2011-01-01&g=2011-01-01) is van overeenkomstige toepassing.
 
 3. Indien het negatieve buitenlands inkomen uit werk en woning niet bij voor bezwaar vatbare beschikking is vastgesteld, wordt het bedrag in het volgende jaar toch in aanmerking genomen als negatief bestanddeel van het buitenlands inkomen uit werk en woning. Het bedrag wordt niet meer in aanmerking genomen indien de termijn waarbinnen de inspecteur bevoegd is om een aanslag vast te stellen over het eerste jaar waarin een lager naar het volgend jaar over te brengen bedrag aan negatief buitenlands inkomen uit werk en woning bij voor bezwaar vatbare beschikking had moeten worden vastgesteld, met meer dan twee jaar is overschreden.
 
 ##### Artikel 28. Beschikkingen verrekening
 
-1. De inspecteur stelt de volgens de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=14&z=2009-01-01&g=2010-01-01), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=14a&z=2009-01-01&g=2010-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=17&z=2009-01-01&g=2010-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=3&artikel=20&z=2009-01-01&g=2010-01-01) en [25a](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=4&paragraaf=2&artikel=25a&z=2009-01-01&g=2010-01-01) over te brengen bedragen aan vanwege andere Mogendheden geheven belasting per artikel vast bij voor bezwaar vatbare beschikking.
+1. De inspecteur stelt de volgens de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=14&z=2011-01-01&g=2011-01-01), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=14a&z=2011-01-01&g=2011-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=17&z=2011-01-01&g=2011-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=3&artikel=20&z=2011-01-01&g=2011-01-01), [21a](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=3&artikel=21a&z=2011-01-01&g=2011-01-01), [25a](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=4&paragraaf=2&artikel=25a&z=2011-01-01&g=2011-01-01) en [25b](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=4&paragraaf=2&artikel=25b&z=2011-01-01&g=2011-01-01) over te brengen bedragen aan vanwege andere Mogendheden geheven belasting per artikel vast bij voor bezwaar vatbare beschikking.
 
-2. [Artikel 26, eerste lid, tweede en derde volzin, tweede lid, derde lid en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=5&artikel=26&z=2009-01-01&g=2010-01-01), is van overeenkomstige toepassing.
+2. [Artikel 26, eerste lid, tweede en derde volzin, tweede lid, derde lid en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=5&artikel=26&z=2011-01-01&g=2011-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 29. Emigratie en terugkeer
 
-Ingeval de belastingplichtige in een jaar anders dan door overlijden ophoudt binnenlands belastingplichtige te zijn, en binnen een termijn van acht jaren na afloop van dit jaar wederom binnenlands belastingplichtige wordt, worden de over het jaar voorafgaande aan het jaar waarin de binnenlandse belastingplicht is geëindigd volgens de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=5&artikel=26&z=2009-01-01&g=2010-01-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=5&artikel=27&z=2009-01-01&g=2010-01-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=5&artikel=28&z=2009-01-01&g=2010-01-01) vastgestelde bedragen aan over te brengen buitenlands inkomen uit werk en woning, negatief buitenlands inkomen uit werk en woning en vanwege andere Mogendheden geheven belasting, aangemerkt als bedragen die in het jaar voorafgaande aan het opnieuw binnenlands belastingplichtig worden, zijn vastgesteld.
+Ingeval de belastingplichtige in een jaar anders dan door overlijden ophoudt binnenlands belastingplichtige te zijn, en binnen een termijn van acht jaren na afloop van dit jaar wederom binnenlands belastingplichtige wordt, worden de over het jaar voorafgaande aan het jaar waarin de binnenlandse belastingplicht is geëindigd volgens de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=5&artikel=26&z=2011-01-01&g=2011-01-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=5&artikel=27&z=2011-01-01&g=2011-01-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=5&artikel=28&z=2011-01-01&g=2011-01-01) vastgestelde bedragen aan over te brengen buitenlands inkomen uit werk en woning, negatief buitenlands inkomen uit werk en woning en vanwege andere Mogendheden geheven belasting, aangemerkt als bedragen die in het jaar voorafgaande aan het opnieuw binnenlands belastingplichtig worden, zijn vastgesteld.
 
 ### Hoofdstuk III. Loonbelasting
 
 ##### Artikel 30. Vrijstelling van loonbelasting
 
-Een in Nederland wonende werknemer is vrijgesteld van de loonbelasting die betrekking heeft op door hem genoten loon waarop [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=9&z=2009-01-01&g=2010-01-01), van toepassing is, en dat is onderworpen aan een belasting naar het inkomen die vanwege de andere Mogendheid als in dat artikel bedoeld wordt geheven.
+Een in Nederland wonende werknemer is vrijgesteld van de loonbelasting die betrekking heeft op door hem genoten loon waarop [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=9&z=2011-01-01&g=2011-01-01), van toepassing is, en dat is onderworpen aan een belasting naar het inkomen die vanwege de andere Mogendheid als in dat artikel bedoeld wordt geheven.
 
 ### Hoofdstuk IV. Vennootschapsbelasting
 
@@ -424,7 +426,7 @@ Een binnenlandse belastingplichtige is vrijgesteld van de vennootschapsbelasting
 
 - d. werkzaamheden die gedurende een aaneengesloten periode van ten minste 30 dagen in, op of boven het winningsgebied van de andere Mogendheid worden verricht.
 
-3. [Artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=9&z=2009-01-01&g=2010-01-01), is van overeenkomstige toepassing.
+3. [Artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=9&z=2011-01-01&g=2011-01-01), is van overeenkomstige toepassing.
 
 4. Het winningsgebied van de andere Mogendheid bestaat uit de territoriale zee van de andere Mogendheid alsmede het buiten de territoriale zee gelegen deel van de zeebodem en de ondergrond daarvan, voorzover de andere Mogendheid daar op grond van het internationale recht rechten mag uitoefenen op het gebied van de exploratie en exploitatie van natuurlijke rijkdommen.
 
@@ -436,7 +438,7 @@ Een binnenlandse belastingplichtige is vrijgesteld van de vennootschapsbelasting
 
 ##### Artikel 33. Vermindering belasting bij buitenlandse winst
 
-1. De in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=31&z=2009-01-01&g=2010-01-01) bedoelde vrijstelling voor buitenlandse winst wordt voor elke Mogendheid waarin de belastingplichtige zodanige winst behaalt afzonderlijk toegepast door een vermindering te verlenen op de verschuldigde vennootschapsbelasting.
+1. De in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=31&z=2011-01-01&g=2011-01-01) bedoelde vrijstelling voor buitenlandse winst wordt voor elke Mogendheid waarin de belastingplichtige zodanige winst behaalt afzonderlijk toegepast door een vermindering te verlenen op de verschuldigde vennootschapsbelasting.
 
 2. De in het eerste lid bedoelde vermindering is gelijk aan het bedrag dat tot de belasting die zonder de toepassing van dit besluit volgens de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672) verschuldigd zou zijn, in dezelfde verhouding staat als de buitenlandse winst uit een Mogendheid staat tot noemerwinst.
 
@@ -446,15 +448,15 @@ Een binnenlandse belastingplichtige is vrijgesteld van de vennootschapsbelasting
 
 ##### Artikel 34. Doorschuifregeling
 
-1. Voorzover het gezamenlijke bedrag aan vrij te stellen buitenlandse winst – per Mogendheid berekend met inachtneming van de verrekening volgens [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=35&z=2009-01-01&g=2010-01-01) – groter is dan de noemerwinst, wordt het overgebracht naar het volgend jaar. Deze overbrenging vindt alleen plaats indien de naar het volgend jaar over te brengen buitenlandse winst door de inspecteur is vastgesteld bij voor bezwaar vatbare beschikking.
+1. Voorzover het gezamenlijke bedrag aan vrij te stellen buitenlandse winst – per Mogendheid berekend met inachtneming van de verrekening volgens [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=35&z=2011-01-01&g=2011-01-01) – groter is dan de noemerwinst, wordt het overgebracht naar het volgend jaar. Deze overbrenging vindt alleen plaats indien de naar het volgend jaar over te brengen buitenlandse winst door de inspecteur is vastgesteld bij voor bezwaar vatbare beschikking.
 
-2. In het jaar waarnaar de overbrenging plaatsvindt, wordt voor de berekening van de vermindering van [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=33&z=2009-01-01&g=2010-01-01) de buitenlandse winst verhoogd met het over te brengen bedrag aan buitenlandse winst. De noemerwinst wordt niet verhoogd.
+2. In het jaar waarnaar de overbrenging plaatsvindt, wordt voor de berekening van de vermindering van [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=33&z=2011-01-01&g=2011-01-01) de buitenlandse winst verhoogd met het over te brengen bedrag aan buitenlandse winst. De noemerwinst wordt niet verhoogd.
 
-3. Bij ministeriële regeling worden nadere regels gesteld over de toedeling van de vrij te stellen buitenlandse winst per Mogendheid aan de te verlenen vermindering volgens [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=33&z=2009-01-01&g=2010-01-01) en de overbrenging van buitenlandse winst naar een volgend jaar van het eerste lid.
+3. Bij ministeriële regeling worden nadere regels gesteld over de toedeling van de vrij te stellen buitenlandse winst per Mogendheid aan de te verlenen vermindering volgens [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=33&z=2011-01-01&g=2011-01-01) en de overbrenging van buitenlandse winst naar een volgend jaar van het eerste lid.
 
 ##### Artikel 35. Inhaalregeling
 
-1. Indien de buitenlandse winst uit een Mogendheid – berekend met inachtneming van de overbrenging per Mogendheid volgens [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=34&z=2009-01-01&g=2010-01-01) – negatief is, wordt deze voor de toepassing van de vermindering van [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=33&z=2009-01-01&g=2010-01-01) aangemerkt als negatief bestanddeel van de buitenlandse winst van het volgend jaar uit die Mogendheid. De inspecteur stelt de naar het volgend jaar over te brengen negatieve buitenlandse winst vast bij voor bezwaar vatbare beschikking.
+1. Indien de buitenlandse winst uit een Mogendheid – berekend met inachtneming van de overbrenging per Mogendheid volgens [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=34&z=2011-01-01&g=2011-01-01) – negatief is, wordt deze voor de toepassing van de vermindering van [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=33&z=2011-01-01&g=2011-01-01) aangemerkt als negatief bestanddeel van de buitenlandse winst van het volgend jaar uit die Mogendheid. De inspecteur stelt de naar het volgend jaar over te brengen negatieve buitenlandse winst vast bij voor bezwaar vatbare beschikking.
 
 2. Het eerste lid vindt geen toepassing voorzover:
 
@@ -466,7 +468,7 @@ Een binnenlandse belastingplichtige is vrijgesteld van de vennootschapsbelasting
 
 ##### Artikel 36. Verrekening buitenlandse belasting op dividenden, interest en royalty's
 
-1. Aan een binnenlandse belastingplichtige wordt, ter verrekening van vanwege een andere Mogendheid geheven belasting, een vermindering van vennootschapsbelasting verleend voor in de winst, maar niet in enige in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=32&z=2009-01-01&g=2010-01-01) bedoelde buitenlandse winst, begrepen dividenden, interest en royalty's, indien:
+1. Aan een binnenlandse belastingplichtige wordt, ter verrekening van vanwege een andere Mogendheid geheven belasting, een vermindering van vennootschapsbelasting verleend voor in de winst, maar niet in enige in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=32&z=2011-01-01&g=2011-01-01) bedoelde buitenlandse winst, begrepen dividenden, interest en royalty's, indien:
 
 - a. de vennootschap die de dividenden uitdeelt of de schuldenaar van de rente en royalty's in een ontwikkelingsland woont of gevestigd is, en
 
@@ -482,41 +484,41 @@ Een binnenlandse belastingplichtige is vrijgesteld van de vennootschapsbelasting
 
 4. Bij de toepassing van het tweede lid, onderdeel b, worden dividenden en interest verminderd met de daarmee verband houdende kosten, en worden royalty's verminderd met de daarop rechtstreeks drukkende kosten. Tot de kosten, bedoeld in de eerste volzin, behoren ook de kosten die een met de belastingplichtige verbonden lichaam als bedoeld in [artikel 10a, vierde lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10a) of een met de belastingplichtige verbonden natuurlijk persoon als bedoeld in [artikel 10a, vijfde lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10a), heeft gemaakt en die bij het bepalen van de in Nederland belastbare winst of het in Nederland belastbare inkomen van dat verbonden lichaam of van die natuurlijke persoon in aftrek zijn gekomen.
 
-5. [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=16&z=2009-01-01&g=2010-01-01) en [artikel 33, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=33&z=2009-01-01&g=2010-01-01), zijn van overeenkomstige toepassing.
+5. [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=16&z=2011-01-01&g=2011-01-01) en [artikel 33, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=33&z=2011-01-01&g=2011-01-01), zijn van overeenkomstige toepassing.
 
-6. De vermindering volgens dit artikel bedraagt, met inachtneming van de verminderingen volgens andere regelen ter voorkoming van dubbele belasting en volgens [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=33&z=2009-01-01&g=2010-01-01), ten hoogste het bedrag aan belasting dat volgens de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672) verschuldigd is.
+6. De vermindering volgens dit artikel bedraagt, met inachtneming van de verminderingen volgens andere regelen ter voorkoming van dubbele belasting en volgens [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=33&z=2011-01-01&g=2011-01-01), ten hoogste het bedrag aan belasting dat volgens de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672) verschuldigd is.
 
 ##### Artikel 37. Voortwenteling niet verrekende belasting dividenden, interest en royalty’s
 
-Het bedrag van de in een jaar vanwege andere Mogendheden geheven belasting als bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=36&z=2009-01-01&g=2010-01-01) en [artikel 36a](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=36a&z=2009-01-01&g=2010-01-01) dat door de toepassing van [artikel 36, tweede lid, onderdeel b, of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=36&z=2009-01-01&g=2010-01-01), onderscheidenlijk door de toepassing van [artikel 36a, tweede lid, onderdeel b, of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=36a&z=2009-01-01&g=2010-01-01), niet leidt tot een vermindering van vennootschapsbelasting over dat jaar, wordt aangemerkt als vanwege andere Mogendheden geheven belasting van het daaropvolgende jaar. Deze voortwenteling vindt alleen plaats indien het naar het volgende jaar over te brengen bedrag door de inspecteur is vastgesteld bij voor bezwaar vatbare beschikking.
+Het bedrag van de in een jaar vanwege andere Mogendheden geheven belasting als bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=36&z=2011-01-01&g=2011-01-01) en [artikel 36a](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=36a&z=2011-01-01&g=2011-01-01) dat door de toepassing van [artikel 36, tweede lid, onderdeel b, of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=36&z=2011-01-01&g=2011-01-01), onderscheidenlijk door de toepassing van [artikel 36a, tweede lid, onderdeel b, of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=36a&z=2011-01-01&g=2011-01-01), niet leidt tot een vermindering van vennootschapsbelasting over dat jaar, wordt aangemerkt als vanwege andere Mogendheden geheven belasting van het daaropvolgende jaar. Deze voortwenteling vindt alleen plaats indien het naar het volgende jaar over te brengen bedrag door de inspecteur is vastgesteld bij voor bezwaar vatbare beschikking.
 
 ##### Artikel 38. Kostenaftrek
 
-Op schriftelijk verzoek van de belastingplichtige blijft [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=36&z=2009-01-01&g=2010-01-01) buiten toepassing voor de in een jaar genoten dividenden, interest en royalty's als bedoeld in dat artikel en voor de daarover vanwege ontwikkelingslanden geheven belasting.
+Op schriftelijk verzoek van de belastingplichtige blijft [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=36&z=2011-01-01&g=2011-01-01) buiten toepassing voor de in een jaar genoten dividenden, interest en royalty's als bedoeld in dat artikel en voor de daarover vanwege ontwikkelingslanden geheven belasting.
 
 ##### Artikel 39. Verrekening buitenlandse belasting bij passieve winst uit buitenlandse onderneming
 
-1. Aan een binnenlandse belastingplichtige wordt, ter verrekening van vanwege een andere Mogendheid geheven belasting, een vermindering van vennootschapsbelasting verleend voor door hem behaalde passieve winst uit buitenlandse onderneming als bedoeld in [artikel 32, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=32&z=2009-01-01&g=2010-01-01), indien deze winst is onderworpen aan een belasting naar de winst die vanwege een andere Mogendheid wordt geheven.
+1. Aan een binnenlandse belastingplichtige wordt, ter verrekening van vanwege een andere Mogendheid geheven belasting, een vermindering van vennootschapsbelasting verleend voor door hem behaalde passieve winst uit buitenlandse onderneming als bedoeld in [artikel 32, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=32&z=2011-01-01&g=2011-01-01), indien deze winst is onderworpen aan een belasting naar de winst die vanwege een andere Mogendheid wordt geheven.
 
 2. Het bedrag van de in het eerste lid bedoelde vermindering is het laagste van de volgende bedragen:
 
-- a. 50% van het in de tabel in [artikel 22 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=22) genoemde hoogste percentage maal het, met inachtneming van de overbrenging volgens [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=41&z=2009-01-01&g=2010-01-01) berekende, positieve gezamenlijke bedrag van de in het eerste lid bedoelde winst uit buitenlandse onderneming;
+- a. 50% van het in de tabel in [artikel 22 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=22) genoemde hoogste percentage maal het, met inachtneming van de overbrenging volgens [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=41&z=2011-01-01&g=2011-01-01) berekende, positieve gezamenlijke bedrag van de in het eerste lid bedoelde winst uit buitenlandse onderneming;
 
 - b. het bedrag dat tot de belasting die in het desbetreffende jaar zonder de toepassing van dit besluit volgens de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672) verschuldigd zou zijn, in dezelfde verhouding staat als het gezamenlijke bedrag van de in dat jaar volgens het eerste lid in aanmerking te nemen winst uit buitenlandse onderneming, staat tot de noemerwinst.
 
-3. Op verzoek van de belastingplichtige wordt het volgens het tweede lid, onderdeel a, te bepalen bedrag gesteld op het bedrag van de in het desbetreffende jaar vanwege andere Mogendheden geheven belasting. In een jaar waarnaar een negatief bedrag als bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=41&z=2009-01-01&g=2010-01-01) is overgebracht, wordt van de in de vorige volzin bedoelde belasting niet meer in aanmerking genomen dan het bedrag dat tot die belasting in dezelfde verhouding staat als het in het tweede lid bedoelde gezamenlijke bedrag – berekend met inachtneming van de overbrenging volgens [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=41&z=2009-01-01&g=2010-01-01) – staat tot dat gezamenlijke bedrag berekend zonder toepassing van de overbrenging volgens [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=41&z=2009-01-01&g=2010-01-01), vermeerderd met het volgens [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=40&z=2009-01-01&g=2010-01-01) naar dat jaar overgebrachte bedrag van vanwege andere Mogendheden geheven belasting.
+3. Op verzoek van de belastingplichtige wordt het volgens het tweede lid, onderdeel a, te bepalen bedrag gesteld op het bedrag van de in het desbetreffende jaar vanwege andere Mogendheden geheven belasting. In een jaar waarnaar een negatief bedrag als bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=41&z=2011-01-01&g=2011-01-01) is overgebracht, wordt van de in de vorige volzin bedoelde belasting niet meer in aanmerking genomen dan het bedrag dat tot die belasting in dezelfde verhouding staat als het in het tweede lid bedoelde gezamenlijke bedrag – berekend met inachtneming van de overbrenging volgens [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=41&z=2011-01-01&g=2011-01-01) – staat tot dat gezamenlijke bedrag berekend zonder toepassing van de overbrenging volgens [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=41&z=2011-01-01&g=2011-01-01), vermeerderd met het volgens [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=40&z=2011-01-01&g=2011-01-01) naar dat jaar overgebrachte bedrag van vanwege andere Mogendheden geheven belasting.
 
-4. [Artikel 33, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=33&z=2009-01-01&g=2010-01-01), is van overeenkomstige toepassing.
+4. [Artikel 33, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=33&z=2011-01-01&g=2011-01-01), is van overeenkomstige toepassing.
 
-5. De vermindering volgens dit artikel bedraagt, met inachtneming van de verminderingen volgens andere regelen ter voorkoming van dubbele belasting en volgens de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=33&z=2009-01-01&g=2010-01-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=36&z=2009-01-01&g=2010-01-01) en [36a](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=36a&z=2009-01-01&g=2010-01-01), ten hoogste het bedrag aan verschuldigde vennootschapsbelasting.
+5. De vermindering volgens dit artikel bedraagt, met inachtneming van de verminderingen volgens andere regelen ter voorkoming van dubbele belasting en volgens de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=33&z=2011-01-01&g=2011-01-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=36&z=2011-01-01&g=2011-01-01) en [36a](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=36a&z=2011-01-01&g=2011-01-01), ten hoogste het bedrag aan verschuldigde vennootschapsbelasting.
 
 ##### Artikel 40. Voortwenteling niet verrekende belasting bij passieve winst uit buitenlandse onderneming
 
-Voorzover het volgens [artikel 39, tweede lid, onderdeel a, of het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=39&z=2009-01-01&g=2010-01-01), berekende bedrag door de toepassing van het tweede lid, onderdeel b, of het vijfde lid niet leidt tot een vermindering van vennootschapsbelasting over dat jaar, wordt dit bedrag overgebracht naar het volgende jaar en in dat jaar bij de berekening van de vermindering in aanmerking genomen. Deze overbrenging vindt alleen plaats indien het naar het volgend jaar over te brengen bedrag door de inspecteur is vastgesteld bij voor bezwaar vatbare beschikking.
+Voorzover het volgens [artikel 39, tweede lid, onderdeel a, of het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=39&z=2011-01-01&g=2011-01-01), berekende bedrag door de toepassing van het tweede lid, onderdeel b, of het vijfde lid niet leidt tot een vermindering van vennootschapsbelasting over dat jaar, wordt dit bedrag overgebracht naar het volgende jaar en in dat jaar bij de berekening van de vermindering in aanmerking genomen. Deze overbrenging vindt alleen plaats indien het naar het volgend jaar over te brengen bedrag door de inspecteur is vastgesteld bij voor bezwaar vatbare beschikking.
 
 ##### Artikel 41. Inhaal negatieve bedragen
 
-1. Indien het gezamenlijke bedrag bedoeld in [artikel 39, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=39&z=2009-01-01&g=2010-01-01), negatief is, wordt dit bedrag overgebracht naar het volgend jaar en bij de berekening van het gezamenlijke bedrag van dat jaar als negatief bedrag in aanmerking genomen. De inspecteur stelt het naar het volgend jaar over te brengen bedrag vast bij voor bezwaar vatbare beschikking.
+1. Indien het gezamenlijke bedrag bedoeld in [artikel 39, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=39&z=2011-01-01&g=2011-01-01), negatief is, wordt dit bedrag overgebracht naar het volgend jaar en bij de berekening van het gezamenlijke bedrag van dat jaar als negatief bedrag in aanmerking genomen. De inspecteur stelt het naar het volgend jaar over te brengen bedrag vast bij voor bezwaar vatbare beschikking.
 
 2. Het eerste lid vindt geen toepassing voorzover:
 
@@ -528,15 +530,15 @@ Voorzover het volgens [artikel 39, tweede lid, onderdeel a, of het derde lid](ht
 
 ##### Artikel 42. Beschikkingen doorschuifregeling
 
-1. De inspecteur stelt het bedrag van de volgens [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=34&z=2009-01-01&g=2010-01-01) naar een volgend jaar over te brengen buitenlandse winst per mogendheid vast bij voor bezwaar vatbare beschikking. Deze vaststelling gebeurt gelijktijdig met het vaststellen van de aanslag over dat jaar. Het bedrag van de naar het volgend jaar over te brengen buitenlandse winst wordt op het aanslagbiljet afzonderlijk vermeld.
+1. De inspecteur stelt het bedrag van de volgens [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=34&z=2011-01-01&g=2011-01-01) naar een volgend jaar over te brengen buitenlandse winst per mogendheid vast bij voor bezwaar vatbare beschikking. Deze vaststelling gebeurt gelijktijdig met het vaststellen van de aanslag over dat jaar. Het bedrag van de naar het volgend jaar over te brengen buitenlandse winst wordt op het aanslagbiljet afzonderlijk vermeld.
 
 2. Rechtsmiddelen tegen een beschikking als bedoeld in het eerste lid kunnen uitsluitend betrekking hebben op:
 
 - a. de grootte van het over te brengen bedrag aan buitenlandse winst voorzover dat niet eerder is vastgesteld, en
 
-- b. de toepassing van de ministeriële regeling, bedoeld in [artikel 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=34&z=2009-01-01&g=2010-01-01).
+- b. de toepassing van de ministeriële regeling, bedoeld in [artikel 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=34&z=2011-01-01&g=2011-01-01).
 
-3. Het bedrag aan buitenlandse winst dat volgens [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=34&z=2009-01-01&g=2010-01-01), naar het volgend jaar wordt overgebracht, kan worden herzien of alsnog worden vastgesteld, indien:
+3. Het bedrag aan buitenlandse winst dat volgens [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=34&z=2011-01-01&g=2011-01-01), naar het volgend jaar wordt overgebracht, kan worden herzien of alsnog worden vastgesteld, indien:
 
 - a. een aanslag wordt verminderd wegens de verrekening van verliezen uit andere jaren;
 
@@ -546,35 +548,35 @@ Voorzover het volgens [artikel 39, tweede lid, onderdeel a, of het derde lid](ht
 
 - d. enig feit grond oplevert voor het vermoeden dat het bedrag van de over te brengen buitenlandse winst te hoog is vastgesteld, waarbij de herziening alleen kan plaatsvinden voor in de beschikking opgenomen buitenlandse winst die is genoten in een van de twaalf voorafgaande jaren.
 
-4. In afwijking in zoverre van [artikel 34, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=34&z=2009-01-01&g=2010-01-01), wordt, indien het derde lid toepassing vindt, het herziene of het alsnog vastgestelde bedrag aan buitenlandse winst dat naar het volgend jaar wordt overgebracht, in het volgend jaar in aanmerking genomen zonder dat dit bedrag vooraf door de inspecteur bij voor bezwaar vatbare beschikking is vastgesteld. De vorige volzin vindt overeenkomstige toepassing voorzover de herziening gevolgen heeft voor bedragen die worden overgebracht naar jaren waarvoor al een aanslag is vastgesteld.
+4. In afwijking in zoverre van [artikel 34, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=34&z=2011-01-01&g=2011-01-01), wordt, indien het derde lid toepassing vindt, het herziene of het alsnog vastgestelde bedrag aan buitenlandse winst dat naar het volgend jaar wordt overgebracht, in het volgend jaar in aanmerking genomen zonder dat dit bedrag vooraf door de inspecteur bij voor bezwaar vatbare beschikking is vastgesteld. De vorige volzin vindt overeenkomstige toepassing voorzover de herziening gevolgen heeft voor bedragen die worden overgebracht naar jaren waarvoor al een aanslag is vastgesteld.
 
 ##### Artikel 43. Beschikkingen inhaalregeling en inhaal negatieve bedragen
 
-1. De inspecteur stelt het bedrag van de volgens [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=35&z=2009-01-01&g=2010-01-01) naar een volgend jaar over te brengen negatieve buitenlandse winst per Mogendheid vast bij voor bezwaar vatbare beschikking.
+1. De inspecteur stelt het bedrag van de volgens [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=35&z=2011-01-01&g=2011-01-01) naar een volgend jaar over te brengen negatieve buitenlandse winst per Mogendheid vast bij voor bezwaar vatbare beschikking.
 
-2. De inspecteur stelt het volgens [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=41&z=2009-01-01&g=2010-01-01) naar een volgend jaar over te brengen negatieve gezamenlijke bedrag aan buitenlandse winst als bedoeld in [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=39&z=2009-01-01&g=2010-01-01), vast bij voor bezwaar vatbare beschikking.
+2. De inspecteur stelt het volgens [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=41&z=2011-01-01&g=2011-01-01) naar een volgend jaar over te brengen negatieve gezamenlijke bedrag aan buitenlandse winst als bedoeld in [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=39&z=2011-01-01&g=2011-01-01), vast bij voor bezwaar vatbare beschikking.
 
-3. [Artikel 42, eerste lid, tweede en derde volzin, tweede lid, derde lid en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=3&artikel=42&z=2009-01-01&g=2010-01-01) is van overeenkomstige toepassing.
+3. [Artikel 42, eerste lid, tweede en derde volzin, tweede lid, derde lid en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=3&artikel=42&z=2011-01-01&g=2011-01-01) is van overeenkomstige toepassing.
 
 4. Indien de negatieve buitenlandse winst niet bij voor bezwaar vatbare beschikking is vastgesteld, wordt het bedrag in het volgende jaar toch in aanmerking genomen als negatief bestanddeel van de buitenlandse winst. Het bedrag wordt niet meer in aanmerking genomen indien de termijn waarbinnen de inspecteur bevoegd is om een aanslag vast te stellen over het eerste jaar waarin een lager naar het volgend jaar over te brengen bedrag aan negatieve buitenlandse winst bij voor bezwaar vatbare beschikking had moeten worden vastgesteld, met meer dan twee jaar is overschreden. De vorige volzin vindt overeenkomstige toepassing voor het volgens het tweede lid vastgestelde bedrag.
 
 ##### Artikel 44. Beschikkingen verrekening
 
-1. De inspecteur stelt het volgens [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=37&z=2009-01-01&g=2010-01-01) over te brengen bedrag aan vanwege andere Mogendheden geheven belasting vast bij voor bezwaar vatbare beschikking.
+1. De inspecteur stelt het volgens [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=37&z=2011-01-01&g=2011-01-01) over te brengen bedrag aan vanwege andere Mogendheden geheven belasting vast bij voor bezwaar vatbare beschikking.
 
-2. De inspecteur stelt het volgens [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=40&z=2009-01-01&g=2010-01-01) over te brengen bedrag aan belasting vast bij voor bezwaar vatbare beschikking.
+2. De inspecteur stelt het volgens [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=40&z=2011-01-01&g=2011-01-01) over te brengen bedrag aan belasting vast bij voor bezwaar vatbare beschikking.
 
-3. [Artikel 42, eerste lid, tweede en derde volzin, tweede lid, derde lid en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=3&artikel=42&z=2009-01-01&g=2010-01-01), is van overeenkomstige toepassing.
+3. [Artikel 42, eerste lid, tweede en derde volzin, tweede lid, derde lid en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=3&artikel=42&z=2011-01-01&g=2011-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 45. Emigratie en terugkeer
 
-Ingeval de belastingplichtige in een jaar anders dan door liquidatie ophoudt binnenlands belastingplichtige te zijn, en binnen een termijn van acht jaren na afloop van dit jaar wederom binnenlands belastingplichtige wordt, worden de over het jaar voorafgaande aan het jaar waarin de binnenlandse belastingplicht is geëindigd volgens de [artikelen 42](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=3&artikel=42&z=2009-01-01&g=2010-01-01), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=3&artikel=43&z=2009-01-01&g=2010-01-01) en [44](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=3&artikel=44&z=2009-01-01&g=2010-01-01) vastgestelde bedragen aan over te brengen buitenlandse winst, negatieve buitenlandse winst en vanwege andere Mogendheden geheven belasting, aangemerkt als bedragen die in het jaar voorafgaande aan het opnieuw binnenlands belastingplichtig worden, zijn vastgesteld.
+Ingeval de belastingplichtige in een jaar anders dan door liquidatie ophoudt binnenlands belastingplichtige te zijn, en binnen een termijn van acht jaren na afloop van dit jaar wederom binnenlands belastingplichtige wordt, worden de over het jaar voorafgaande aan het jaar waarin de binnenlandse belastingplicht is geëindigd volgens de [artikelen 42](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=3&artikel=42&z=2011-01-01&g=2011-01-01), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=3&artikel=43&z=2011-01-01&g=2011-01-01) en [44](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=3&artikel=44&z=2011-01-01&g=2011-01-01) vastgestelde bedragen aan over te brengen buitenlandse winst, negatieve buitenlandse winst en vanwege andere Mogendheden geheven belasting, aangemerkt als bedragen die in het jaar voorafgaande aan het opnieuw binnenlands belastingplichtig worden, zijn vastgesteld.
 
 ##### Artikel 46. Wijziging gerechtigdheid tot lichaam
 
-1. Indien aannemelijk is dat in vergelijking met het begin van het oudste jaar waarvan een naar het volgend jaar over te brengen bedrag aan buitenlandse winst als bedoeld in artikel 34 in een later jaar nog niet volledig tot een vermindering heeft geleid, het uiteindelijke belang in de belastingplichtige in belangrijke mate is gewijzigd, wordt met ingang van het jaar waarin de wijziging heeft plaatsgevonden, het over te brengen bedrag aan buitenlandse winst van het daaraan voorafgaande jaar niet meer bij de berekening van de vermindering als bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=33&z=2009-01-01&g=2010-01-01) in aanmerking genomen.
+1. Indien aannemelijk is dat in vergelijking met het begin van het oudste jaar waarvan een naar het volgend jaar over te brengen bedrag aan buitenlandse winst als bedoeld in artikel 34 in een later jaar nog niet volledig tot een vermindering heeft geleid, het uiteindelijke belang in de belastingplichtige in belangrijke mate is gewijzigd, wordt met ingang van het jaar waarin de wijziging heeft plaatsgevonden, het over te brengen bedrag aan buitenlandse winst van het daaraan voorafgaande jaar niet meer bij de berekening van de vermindering als bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=33&z=2011-01-01&g=2011-01-01) in aanmerking genomen.
 
-2. Het eerste lid vindt overeenkomstige toepassing met betrekking tot naar een volgend jaar over te brengen bedragen aan vanwege andere Mogendheden geheven belasting als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=37&z=2009-01-01&g=2010-01-01) en over te brengen bedragen aan belasting als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=40&z=2009-01-01&g=2010-01-01).
+2. Het eerste lid vindt overeenkomstige toepassing met betrekking tot naar een volgend jaar over te brengen bedragen aan vanwege andere Mogendheden geheven belasting als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=37&z=2011-01-01&g=2011-01-01) en over te brengen bedragen aan belasting als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=40&z=2011-01-01&g=2011-01-01).
 
 3. [Artikel 20a, tweede, derde, vierde, vijfde, zesde, zevende, achtste, tiende, elfde en twaalfde lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=20a) is van overeenkomstige toepassing.
 
@@ -582,23 +584,23 @@ Ingeval de belastingplichtige in een jaar anders dan door liquidatie ophoudt bin
 
 ### Hoofdstuk V. Recht van successie en recht van schenking
 
-##### Artikel 47. Vermindering recht van successie bij in Nederland wonende erflater
+##### Artikel 47. Vermindering erfbelasting bij in Nederland wonende erflater
 
-1. Bij een verkrijging krachtens erfrecht door het overlijden van iemand die ten tijde van dat overlijden in Nederland woonde, wordt ter verrekening van vanwege een andere Mogendheid geheven belasting een vermindering verleend van het recht van successie voor de in de verkrijging begrepen bezittingen behorende tot een door hem gedreven buitenlandse onderneming als bedoeld in [artikel 9, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=9&z=2009-01-01&g=2010-01-01), en voor de in de verkrijging begrepen onroerende zaken die binnen het gebied van een andere Mogendheid zijn gelegen en rechten waaraan deze zijn onderworpen, voorzover de verkrijging van vorenbedoelde bezittingen aan een gelijksoortige belasting is onderworpen die vanwege een andere Mogendheid als daar bedoeld wordt geheven. Deze bepaling geldt niet bij een verkrijging krachtens erfrecht door het overlijden van iemand die op grond van [artikel 1, vierde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=1), of [artikel 3, eerste lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=3) geacht wordt ten tijde van het overlijden in Nederland te hebben gewoond.
+1. Bij een verkrijging krachtens erfrecht door het overlijden van iemand die ten tijde van dat overlijden in Nederland woonde, wordt ter verrekening van vanwege een andere Mogendheid geheven belasting een vermindering verleend van de erfbelasting voor de in de verkrijging begrepen bezittingen behorende tot een door hem gedreven buitenlandse onderneming als bedoeld in [artikel 9, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=9&z=2011-01-01&g=2011-01-01), en voor de in de verkrijging begrepen onroerende zaken die binnen het gebied van een andere Mogendheid zijn gelegen en rechten waaraan deze zijn onderworpen, voorzover de verkrijging van vorenbedoelde bezittingen aan een gelijksoortige belasting is onderworpen die vanwege een andere Mogendheid als daar bedoeld wordt geheven. Deze bepaling geldt niet bij een verkrijging krachtens erfrecht door het overlijden van iemand die op grond van [artikel 3, eerste lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=3) geacht wordt ten tijde van het overlijden in Nederland te hebben gewoond.
 
 2. Het bedrag van de in het eerste lid bedoelde vermindering is het laagste van de volgende bedragen:
 
 - a. het bedrag van de vanwege de andere Mogendheid geheven belasting;
 
-- b. het bedrag dat tot het recht van successie dat volgens de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) verschuldigd zou zijn zonder toepassing van dit besluit, in dezelfde verhouding staat als de gezamenlijke waarde van de in de verkrijging begrepen, in het eerste lid bedoelde, bezittingen in de andere Mogendheid staat tot de waarde van alle verkregen bezittingen.
+- b. het bedrag dat tot de erfbelasting die volgens de [Successiewet 1956](onbekend) verschuldigd zou zijn zonder toepassing van dit besluit, in dezelfde verhouding staat als de gezamenlijke waarde van de in de verkrijging begrepen, in het eerste lid bedoelde, bezittingen in de andere Mogendheid staat tot de waarde van alle verkregen bezittingen.
 
 3. Voor de toepassing van het tweede lid wordt:
 
 - a. de waarde van de in het eerste lid bedoelde bezittingen verminderd met de waarde van de schulden in verband met die bezittingen;
 
-- b. de waarde van alle verkregen bezittingen verminderd met de waarde van alle schulden die op grond van de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) in aftrek komen en verminderd met de vrijstellingen, bedoeld in [artikel 32 van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=32), voorzover belastingplichtige daarvoor in aanmerking komt.
+- b. de waarde van alle verkregen bezittingen verminderd met de waarde van alle schulden die op grond van de [Successiewet 1956](onbekend) in aftrek komen en verminderd met de vrijstellingen, bedoeld in [artikel 32 van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=32), voorzover belastingplichtige daarvoor in aanmerking komt.
 
-4. De vermindering volgens dit artikel bedraagt ten hoogste het bedrag aan recht van successie dat volgens de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) verschuldigd zou zijn zonder de toepassing van dit besluit.
+4. De vermindering volgens dit artikel bedraagt ten hoogste het bedrag aan erfbelasting dat volgens de [Successiewet 1956](onbekend) verschuldigd zou zijn zonder de toepassing van dit besluit.
 
 5. Met onroerende zaken als bedoeld in het eerste lid worden gelijkgesteld:
 
@@ -606,39 +608,49 @@ Ingeval de belastingplichtige in een jaar anders dan door liquidatie ophoudt bin
 
 - b. aandelen in lichamen en lidmaatschapsrechten als bedoeld in [artikel 4 van de Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=4), welke onroerende zaken en in dit artikel daarmee gelijkgestelde goederen binnen het gebied van een andere Mogendheid vertegenwoordigen. De waarde van de aandelen en lidmaatschapsrechten is gelijk aan de waarde van de onroerende zaken en daarmee gelijkgestelde goederen die door de aandelen en lidmaatschapsrechten middellijk of onmiddellijk worden vertegenwoordigd, verminderd met de waarde van de schulden in verband met die zaken en goederen.
 
-##### Artikel 48. Vermindering recht van successie bij fictief in Nederland wonende erflater
+6. Indien [artikel 12, eerste lid, tweede volzin, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=12) van toepassing is op een schenking en deze toepassing tot dubbele belasting leidt, wordt voor de toepassing van dit artikel de vanwege een andere Mogendheid geheven belasting ter zake van die schenking geacht gelijksoortig te zijn aan de erfbelasting.
 
-1. Bij een verkrijging krachtens erfrecht door het overlijden van iemand die op grond van artikel 1, vierde lid, eerste volzin, of [artikel 3, eerste lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=3) geacht wordt ten tijde van het overlijden in Nederland te hebben gewoond, wordt ter verrekening van vanwege een andere Mogendheid geheven belasting, een vermindering van het recht van successie verleend voor in die verkrijging begrepen bezittingen, voorzover ter zake van de verkrijging van die bezittingen vanwege een andere Mogendheid, waarin de erflater ten tijde van het overlijden zijn daadwerkelijke woonplaats had, een gelijksoortige belasting is geheven. Voorts wordt een vermindering van het recht van successie verleend voor in die verkrijging begrepen bezittingen, behorende tot een door hem gedreven buitenlandse onderneming als bedoeld in [artikel 9, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=9&z=2009-01-01&g=2010-01-01), en op in de verkrijging begrepen onroerende zaken als bedoeld in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=V&artikel=47&z=2009-01-01&g=2010-01-01) die binnen het gebied van een andere Mogendheid zijn gelegen en rechten waaraan deze zijn onderworpen, voorzover de verkrijging van vorenbedoelde bezittingen aan een gelijksoortige belasting is onderworpen die vanwege een andere Mogendheid als daar bedoeld wordt geheven. Deze bepaling is niet van toepassing ten aanzien van die bezittingen over de verkrijging waarvan op de voet van [artikel 5 van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=5) recht van overgang zou zijn verschuldigd, indien [artikel 1, vierde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=1), of [artikel 3, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=3) niet van toepassing zou zijn.
+7. Indien [artikel 16 van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=16) van toepassing is op de aldaar bedoelde bezittingen en schulden en deze toepassing tot dubbele belasting leidt met betrekking tot die bezittingen en schulden, wordt voor de toepassing van dit artikel de vanwege een andere Mogendheid geheven, vervangende erfbelasting ter zake van die bezittingen en schulden toegerekend aan de erfgenamen van de erflater op basis van dezelfde verdeling als die in artikel 16 van de Successiewet 1956 en geacht gelijksoortig te zijn aan de erfbelasting.
+
+##### Artikel 48. Vermindering erfbelasting bij fictief in Nederland wonende erflater
+
+1. Bij een verkrijging krachtens erfrecht door het overlijden van iemand die op grond van [artikel 3, eerste lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=3) geacht wordt ten tijde van het overlijden in Nederland te hebben gewoond, wordt ter verrekening van vanwege een andere Mogendheid geheven belasting, een vermindering van de erfbelasting verleend voor in die verkrijging begrepen bezittingen, voorzover ter zake van de verkrijging van die bezittingen vanwege een andere Mogendheid, waarin de erflater ten tijde van het overlijden zijn daadwerkelijke woonplaats had, een gelijksoortige belasting is geheven. Voorts wordt een vermindering van de erfbelasting verleend voor in die verkrijging begrepen bezittingen, behorende tot een door hem gedreven buitenlandse onderneming als bedoeld in [artikel 9, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=9&z=2011-01-01&g=2011-01-01), en voor in de verkrijging begrepen onroerende zaken als bedoeld in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=V&artikel=47&z=2011-01-01&g=2011-01-01) die binnen het gebied van een andere Mogendheid zijn gelegen en rechten waaraan deze zijn onderworpen, voorzover de verkrijging van vorenbedoelde bezittingen aan een gelijksoortige belasting is onderworpen die vanwege een andere Mogendheid als daar bedoeld wordt geheven.
 
 2. Het bedrag van de in het eerste lid bedoelde vermindering is het laagste van de volgende bedragen:
 
 - a. het bedrag van de vanwege de andere Mogendheid geheven belasting;
 
-- b. het bedrag dat tot het recht van successie dat volgens de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) verschuldigd zou zijn zonder toepassing van dit besluit, in dezelfde verhouding staat als de gezamenlijke waarde van de in de verkrijging begrepen, in het eerste lid van dit artikel bedoelde, bezittingen staat tot de waarde van alle verkregen bezittingen.
+- b. het bedrag dat tot de erfbelasting die volgens de [Successiewet 1956](onbekend) verschuldigd zou zijn zonder toepassing van dit besluit, in dezelfde verhouding staat als de gezamenlijke waarde van de in de verkrijging begrepen, in het eerste lid van dit artikel bedoelde, bezittingen staat tot de waarde van alle verkregen bezittingen.
 
 3. Voor de toepassing van het tweede lid wordt:
 
-- a. de waarde van de in het eerste lid bedoelde bezittingen verminderd met de waarde van alle schulden, behoudens de waarde van de schulden in verband met de bezittingen, bedoeld in [artikel 5, derde lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=5).
+- a. de waarde van de in het eerste lid bedoelde bezittingen verminderd met de waarde van alle schulden;
 
 - b. de waarde van alle verkregen bezittingen verminderd met de waarde van alle verkregen schulden en verminderd met de vrijstellingen, bedoeld in [artikel 32 van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=32), voorzover belastingplichtige daarvoor in aanmerking komt.
 
-4. De vermindering volgens dit artikel bedraagt ten hoogste het bedrag aan recht van successie dat volgens de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) verschuldigd zou zijn zonder de toepassing van dit besluit.
+4. De vermindering volgens dit artikel bedraagt ten hoogste het bedrag aan erfbelasting dat volgens de [Successiewet 1956](onbekend) verschuldigd zou zijn zonder de toepassing van dit besluit.
+
+5. Indien [artikel 12, eerste lid, tweede volzin, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=12) van toepassing is op een schenking en deze toepassing tot dubbele belasting leidt, wordt voor de toepassing van dit artikel de vanwege een andere Mogendheid geheven belasting ter zake van die schenking geacht gelijksoortig te zijn aan de erfbelasting.
+
+6. Indien [artikel 16 van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=16) van toepassing is op de aldaar bedoelde bezittingen en schulden en deze toepassing tot dubbele belasting leidt met betrekking tot die bezittingen en schulden, wordt voor de toepassing van dit artikel de vanwege een andere Mogendheid geheven, vervangende erfbelasting ter zake van die bezittingen en schulden toegerekend aan de erfgenamen van de erflater op basis van dezelfde verdeling als die in artikel 16 van de Successiewet 1956 en geacht gelijksoortig te zijn aan de erfbelasting.
 
 ##### Artikel 49. Buitenlandse gelijksoortige belasting als boedelschuld
 
-Indien een verkrijging van een erflater die ten tijde van het overlijden in Nederland woonde, bezittingen omvat welke zich binnen het gebied van een andere Mogendheid bevinden en niet op grond van de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=V&artikel=47&z=2009-01-01&g=2010-01-01) en [48](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=V&artikel=48&z=2009-01-01&g=2010-01-01) aanspraak bestaat op een vermindering ter voorkoming van dubbele belasting, wordt bij het bepalen van de waarde van die verkrijging een vanwege die andere Mogendheid over deze bezittingen geheven gelijksoortige belasting in mindering gebracht op die verkrijging.
+Indien een verkrijging van een erflater die ten tijde van het overlijden in Nederland woonde, bezittingen omvat welke zich binnen het gebied van een andere Mogendheid bevinden en niet op grond van de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=V&artikel=47&z=2011-01-01&g=2011-01-01) en [48](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=V&artikel=48&z=2011-01-01&g=2011-01-01) aanspraak bestaat op een vermindering ter voorkoming van dubbele belasting, wordt bij het bepalen van de waarde van die verkrijging een vanwege die andere Mogendheid over deze bezittingen geheven gelijksoortige belasting in mindering gebracht op die verkrijging.
 
 ##### Artikel 50. Vermindering per verkrijger
 
-De verminderingen bedoeld in de [artikelen 47 tot en met 49](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=V&artikel=47&z=2009-01-01&g=2010-01-01) worden per verkrijger berekend.
+De verminderingen bedoeld in de [artikelen 47 tot en met 49](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=V&artikel=47&z=2011-01-01&g=2011-01-01) worden per verkrijger berekend.
 
-##### Artikel 51. Schenkingsrecht
+##### Artikel 51. Schenkbelasting
 
-1. De [artikelen 47 tot en met 50](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=V&artikel=47&z=2009-01-01&g=2010-01-01) vinden overeenkomstige toepassing met betrekking tot het recht van schenking.
+1. De [artikelen 47 tot en met 50](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=V&artikel=47&z=2011-01-01&g=2011-01-01) vinden overeenkomstige toepassing met betrekking tot de schenkbelasting, met dien verstande dat:
 
-2. [Artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=V&artikel=48&z=2009-01-01&g=2010-01-01) is van overeenkomstige toepassing op schenkingen door een schenker die op grond van [artikel 1, vierde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=1), of [artikel 3, tweede lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=3) geacht wordt ten tijde van de schenking in Nederland te hebben gewoond.
+- a. voor de overeenkomstige toepassing van [artikel 47, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=V&artikel=47&z=2011-01-01&g=2011-01-01), en [artikel 48, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=V&artikel=48&z=2011-01-01&g=2011-01-01), de waarde van alle verkregen bezittingen tevens wordt verminderd met de vrijstellingen, bedoeld in [artikel 33 van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33);
 
-3. Voor de overeenkomstige toepassing van [artikel 47, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=V&artikel=47&z=2009-01-01&g=2010-01-01), en [artikel 48, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=V&artikel=48&z=2009-01-01&g=2010-01-01), wordt de waarde van alle verkregen bezittingen tevens verminderd met de vrijstellingen, bedoeld in [artikel 33 van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33), voorzover belastingplichtige daarvoor in aanmerking komt.
+- b. [artikel 47, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=V&artikel=47&z=2011-01-01&g=2011-01-01), en [artikel 48, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=V&artikel=48&z=2011-01-01&g=2011-01-01), van overeenkomstige toepassing zijn, indien [artikel 17 van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=17) van toepassing is.
+
+2. [Artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=V&artikel=48&z=2011-01-01&g=2011-01-01) is van overeenkomstige toepassing op schenkingen door een schenker die op grond van [artikel 3, tweede lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=3) geacht wordt ten tijde van de schenking in Nederland te hebben gewoond.
 
 ### Hoofdstuk VI. Kansspelbelasting
 
@@ -652,31 +664,31 @@ De verminderingen bedoeld in de [artikelen 47 tot en met 49](https://wetten.over
 
 ##### Artikel 53. Overgangsbepaling doorschuifregeling inkomstenbelasting
 
-1. Een volgens artikel 3, derde lid, van het Besluit voorkoming dubbele belasting 1989, zoals dat luidde op 31 december 2000, naar een volgend jaar over te brengen bedrag aan buitenlands onzuiver inkomen van het jaar 2000 wordt voor de toepassing van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=10&z=2009-01-01&g=2010-01-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=11&z=2009-01-01&g=2010-01-01) aangemerkt als een naar het jaar 2001 over te brengen bedrag aan buitenlands inkomen uit werk en woning.
+1. Een volgens artikel 3, derde lid, van het Besluit voorkoming dubbele belasting 1989, zoals dat luidde op 31 december 2000, naar een volgend jaar over te brengen bedrag aan buitenlands onzuiver inkomen van het jaar 2000 wordt voor de toepassing van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=10&z=2011-01-01&g=2011-01-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=11&z=2011-01-01&g=2011-01-01) aangemerkt als een naar het jaar 2001 over te brengen bedrag aan buitenlands inkomen uit werk en woning.
 
 2. Het eerste lid vindt alleen toepassing indien het over te brengen buitenlands onzuiver inkomen door de inspecteur volgens artikel 3a van het Besluit voorkoming dubbele belasting 1989, zoals dat luidde op 31 december 2000, is vastgesteld bij voor bezwaar vatbare beschikking.
 
 ##### Artikel 54. Overgangsbepaling inhaalregeling inkomstenbelasting
 
-1. Een volgens artikel 3, vierde lid, van het Besluit voorkoming dubbele belasting 1989, zoals dat luidde op 31 december 2000, naar een volgend jaar over te brengen bedrag aan negatief buitenlands onzuiver inkomen van het jaar 2000 wordt voor de toepassing van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=10&z=2009-01-01&g=2010-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=11&z=2009-01-01&g=2010-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=12&z=2009-01-01&g=2010-01-01) aangemerkt als een naar het jaar 2001 over te brengen bedrag aan negatief buitenlands inkomen uit werk en woning.
+1. Een volgens artikel 3, vierde lid, van het Besluit voorkoming dubbele belasting 1989, zoals dat luidde op 31 december 2000, naar een volgend jaar over te brengen bedrag aan negatief buitenlands onzuiver inkomen van het jaar 2000 wordt voor de toepassing van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=10&z=2011-01-01&g=2011-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=11&z=2011-01-01&g=2011-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=12&z=2011-01-01&g=2011-01-01) aangemerkt als een naar het jaar 2001 over te brengen bedrag aan negatief buitenlands inkomen uit werk en woning.
 
 2. Het eerste lid vindt alleen toepassing indien het over te brengen negatieve buitenlands onzuiver inkomen door de inspecteur volgens artikel 3a van het Besluit voorkoming dubbele belasting 1989, zoals dat luidde op 31 december 2000, is vastgesteld bij voor bezwaar vatbare beschikking. Het vijfde lid, tweede en derde volzin, van genoemd artikel 3a vinden hierbij overeenkomstige toepassing.
 
 ##### Artikel 55. Overgangsbepaling voortwenteling buitenlandse bronbelasting inkomstenbelasting
 
-1. Een volgens artikel 5, vierde lid, van het Besluit voorkoming dubbele belasting 1989, zoals dat luidde op 31 december 2000, naar een volgend jaar over te brengen bedrag aan vanwege andere Mogendheden geheven belasting van het jaar 2000 wordt voor de toepassing van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=4&paragraaf=2&artikel=25&z=2009-01-01&g=2010-01-01) aangemerkt als vanwege andere Mogendheden geheven belasting van het jaar 2001.
+1. Een volgens artikel 5, vierde lid, van het Besluit voorkoming dubbele belasting 1989, zoals dat luidde op 31 december 2000, naar een volgend jaar over te brengen bedrag aan vanwege andere Mogendheden geheven belasting van het jaar 2000 wordt voor de toepassing van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=4&paragraaf=2&artikel=25&z=2011-01-01&g=2011-01-01) aangemerkt als vanwege andere Mogendheden geheven belasting van het jaar 2001.
 
 2. Het eerste lid vindt alleen toepassing indien het over te brengen bedrag aan belasting door de inspecteur volgens artikel 3a van het Besluit voorkoming dubbele belasting 1989, zoals dat luidde op 31 december 2000, is vastgesteld bij voor bezwaar vatbare beschikking.
 
 ##### Artikel 56. Overgangsregeling bijzonder tarief
 
-1. Indien op of na 1 januari 2001 een onder het inkomen uit werk en woning vallend inkomensbestanddeel wordt belast tegen een bijzonder tarief, vindt bij de bepaling van de vermindering ter voorkoming van dubbele belasting volgens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=10&z=2009-01-01&g=2010-01-01) in het desbetreffende jaar artikel 3, tweede lid, van het Besluit voorkoming dubbele belasting 1989, zoals dat luidde op 31 december 2000, overeenkomstige toepassing.
+1. Indien op of na 1 januari 2001 een onder het inkomen uit werk en woning vallend inkomensbestanddeel wordt belast tegen een bijzonder tarief, vindt bij de bepaling van de vermindering ter voorkoming van dubbele belasting volgens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=10&z=2011-01-01&g=2011-01-01) in het desbetreffende jaar artikel 3, tweede lid, van het Besluit voorkoming dubbele belasting 1989, zoals dat luidde op 31 december 2000, overeenkomstige toepassing.
 
 2. Bij ministeriële regeling kunnen per groep van gevallen nadere regels worden gesteld voor de toepassing van het eerste lid.
 
 ##### Artikel 57. Overgangsregeling vennootschapsbelasting; wijziging gerechtigdheid tot lichaam
 
-1. Voor de toepassing van [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=3&artikel=46&z=2009-01-01&g=2010-01-01) blijft een wijziging van het uiteindelijke belang in de belastingplichtige die voor 1 januari 2001 heeft plaatsgevonden buiten aanmerking, mits
+1. Voor de toepassing van [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=3&artikel=46&z=2011-01-01&g=2011-01-01) blijft een wijziging van het uiteindelijke belang in de belastingplichtige die voor 1 januari 2001 heeft plaatsgevonden buiten aanmerking, mits
 
 - a. artikel 10, achtste lid, van het Besluit voorkoming dubbele belasting 1989, zoals dat luidde op 31 december 2000, indien dit zou zijn blijven gelden op de belastingplichtige niet van toepassing zou zijn,
 
@@ -700,7 +712,7 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld over de wijze waa
 
 2. Voor de heffing van de vennootschapsbelasting vindt dit besluit voor het eerst toepassing met ingang van het jaar dat met of in 2001 aanvangt.
 
-3. Voor de heffing van het recht van successie en het recht van schenking vindt dit besluit toepassing, indien het overlijden, de schenking of de in [artikel 45, derde lid, tweede zin, of de in artikel 53, eerste lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=45) bedoelde gebeurtenis plaatsvindt op of na het tijdstip van de inwerkingtreding van dit besluit, zomede indien op of na dat tijdstip krachtens schenking wordt verkregen ten gevolge van de vervulling van een voorwaarde.
+3. Voor de heffing van de schenk- en erfbelasting vindt dit besluit toepassing, indien het overlijden, de schenking of de in [artikel 45, derde lid, tweede zin, of de in artikel 53, eerste lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=45) bedoelde gebeurtenis plaatsvindt op of na het tijdstip van de inwerkingtreding van dit besluit, zomede indien op of na dat tijdstip krachtens schenking wordt verkregen ten gevolge van de vervulling van een voorwaarde.
 
 ##### Artikel 61. Citeertitel
 
@@ -708,9 +720,9 @@ Dit besluit wordt aangehaald als: Besluit voorkoming dubbele belasting 2001.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-##### Artikel 36a. Verrekening buitenlandse belasting op royalty’s. Octrooibox.
+##### Artikel 36a. Verrekening buitenlandse belasting op royalty’s. Innovatiebox.
 
-1. In afwijking in zoverre van [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=36&z=2009-01-01&g=2010-01-01), wordt aan een binnenlandse belastingplichtige, ter verrekening van vanwege een andere Mogendheid geheven belasting, een vermindering van vennootschapsbelasting verleend voor royalty’s waarop [artikel 12b van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=12b) van toepassing is, indien:
+1. In afwijking in zoverre van [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=36&z=2011-01-01&g=2011-01-01), wordt aan een binnenlandse belastingplichtige, ter verrekening van vanwege een andere Mogendheid geheven belasting, een vermindering van vennootschapsbelasting verleend voor royalty’s waarop [artikel 12b van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=12b) van toepassing is, indien:
 
 - a. de schuldenaar van de royalty’s in een ontwikkelingsland woont of gevestigd is, en
 
@@ -720,19 +732,19 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - a. het bedrag van de in het desbetreffende jaar vanwege andere Mogendheden geheven belasting;
 
-- b. het bedrag dat tot de belasting die in het desbetreffende jaar zonder de toepassing van dit besluit volgens de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672) verschuldigd zou zijn, in dezelfde verhouding staat als 10/H deel van het bedrag van de in dat jaar volgens het eerste lid in aanmerking te nemen voordelen staat tot de noemerwinst. Daarbij staat H voor het percentage van het hoogste tarief, bedoeld in [artikel 22 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=22), geldend voor het jaar waarin het voordeel is genoten.
+- b. het bedrag dat tot de belasting die in het desbetreffende jaar zonder de toepassing van dit besluit volgens de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672) verschuldigd zou zijn, in dezelfde verhouding staat als 5/H deel van het bedrag van de in dat jaar volgens het eerste lid in aanmerking te nemen voordelen staat tot de noemerwinst. Daarbij staat H voor het percentage van het hoogste tarief, bedoeld in [artikel 22 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=22), geldend voor het jaar waarin het voordeel is genoten.
 
 3. Bij de toepassing van het tweede lid, onderdeel b, worden royalty’s verminderd met de daarop rechtstreeks drukkende kosten.
 
-4. [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=16&z=2009-01-01&g=2010-01-01) en [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=33&z=2009-01-01&g=2010-01-01), vierde lid, zijn van overeenkomstige toepassing.
+4. [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=16&z=2011-01-01&g=2011-01-01) en [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=33&z=2011-01-01&g=2011-01-01), vierde lid, zijn van overeenkomstige toepassing.
 
-5. De vermindering volgens dit artikel bedraagt, met inachtneming van de vermindering volgens andere regelen ter voorkoming van dubbele belasting en volgens de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=33&z=2009-01-01&g=2010-01-01) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=36&z=2009-01-01&g=2010-01-01), ten hoogste het bedrag aan verschuldigde vennootschapsbelasting.
+5. De vermindering volgens dit artikel bedraagt, met inachtneming van de vermindering volgens andere regelen ter voorkoming van dubbele belasting en volgens de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=1&artikel=33&z=2011-01-01&g=2011-01-01) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=IV&afdeling=2&artikel=36&z=2011-01-01&g=2011-01-01), ten hoogste het bedrag aan verschuldigde vennootschapsbelasting.
 
 ### Afdeling 3. Formele en overige bepalingen
 
 ### Hoofdstuk V. Recht van successie en recht van schenking
 
-### Hoofdstuk V. Recht van successie en recht van schenking
+### Hoofdstuk V. Schenk- en erfbelasting
 
 ### Hoofdstuk VII. Overgangs- en slotbepalingen
 
@@ -748,15 +760,15 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - b. het bedrag dat tot de belasting die in het desbetreffende jaar zonder de toepassing van dit besluit volgens de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) over het belastbare inkomen uit werk en woning verschuldigd zou zijn, in dezelfde verhouding staat als het bedrag van de in dat jaar volgens het eerste lid in aanmerking te nemen loon, staat tot het noemerinkomen.
 
-3. [Artikel 10, vierde, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=10&z=2009-01-01&g=2010-01-01), is van overeenkomstige toepassing.
+3. [Artikel 10, vierde, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=10&z=2011-01-01&g=2011-01-01), is van overeenkomstige toepassing.
 
-4. De vermindering volgens dit artikel bedraagt, met inachtneming van de verminderingen volgens andere regelen ter voorkoming van dubbele belasting en volgens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=10&z=2009-01-01&g=2010-01-01), ten hoogste het bedrag aan berekende belasting over het belastbare inkomen uit werk en woning.
+4. De vermindering volgens dit artikel bedraagt, met inachtneming van de verminderingen volgens andere regelen ter voorkoming van dubbele belasting en volgens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=10&z=2011-01-01&g=2011-01-01), ten hoogste het bedrag aan berekende belasting over het belastbare inkomen uit werk en woning.
 
 ##### Artikel 14a. Voortwenteling niet verrekende belasting bij bemanningsleden van zee- of luchtvaartuigen in het internationale verkeer
 
-1. Het bedrag van de in een jaar vanwege andere Mogendheden geheven belasting, bedoeld in [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=13a&z=2009-01-01&g=2010-01-01), dat door de toepassing van het [tweede lid, onderdeel b, of het vierde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=13a&z=2009-01-01&g=2010-01-01), niet leidt tot een vermindering van inkomstenbelasting over dat jaar, wordt aangemerkt als vanwege andere Mogendheden geheven belasting van het daaropvolgende jaar. Deze voortwenteling vindt alleen plaats indien het naar het volgend jaar over te brengen bedrag door de inspecteur is vastgesteld bij voor bezwaar vatbare beschikking.
+1. Het bedrag van de in een jaar vanwege andere Mogendheden geheven belasting, bedoeld in [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=13a&z=2011-01-01&g=2011-01-01), dat door de toepassing van het [tweede lid, onderdeel b, of het vierde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=13a&z=2011-01-01&g=2011-01-01), niet leidt tot een vermindering van inkomstenbelasting over dat jaar, wordt aangemerkt als vanwege andere Mogendheden geheven belasting van het daaropvolgende jaar. Deze voortwenteling vindt alleen plaats indien het naar het volgend jaar over te brengen bedrag door de inspecteur is vastgesteld bij voor bezwaar vatbare beschikking.
 
-2. [Artikel 14, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=14&z=2009-01-01&g=2010-01-01), is van overeenkomstige toepassing.
+2. [Artikel 14, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=14&z=2011-01-01&g=2011-01-01), is van overeenkomstige toepassing.
 
 ### Afdeling 3. Inkomen uit aanmerkelijk belang
 
@@ -766,9 +778,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 24a. Doorschuifregeling
 
-1. Een bedrag aan in een jaar vrij te stellen buitenlands voordeel uit sparen en beleggen dat als gevolg van het in aanmerking nemen van de persoonsgebonden aftrek en de toepassing van [artikel 24, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=4&paragraaf=1&artikel=24&z=2009-01-01&g=2010-01-01), niet leidt tot een vermindering van belasting over dat jaar, wordt overgebracht naar het volgend jaar. Deze overbrenging bedraagt niet meer dan het bedrag van de persoonsgebonden aftrek waarmee het voordeel uit sparen en beleggen is verminderd. De overbrenging vindt alleen plaats indien het naar het volgend jaar over te brengen buitenlands voordeel uit sparen en beleggen door de inspecteur is vastgesteld bij voor bezwaar vatbare beschikking.
+1. Een bedrag aan in een jaar vrij te stellen buitenlands voordeel uit sparen en beleggen dat als gevolg van het in aanmerking nemen van de persoonsgebonden aftrek en de toepassing van [artikel 24, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=4&paragraaf=1&artikel=24&z=2011-01-01&g=2011-01-01), niet leidt tot een vermindering van belasting over dat jaar, wordt overgebracht naar het volgend jaar. Deze overbrenging bedraagt niet meer dan het bedrag van de persoonsgebonden aftrek waarmee het voordeel uit sparen en beleggen is verminderd. De overbrenging vindt alleen plaats indien het naar het volgend jaar over te brengen buitenlands voordeel uit sparen en beleggen door de inspecteur is vastgesteld bij voor bezwaar vatbare beschikking.
 
-2. In het jaar waarnaar de overbrenging plaatsvindt, wordt voor de berekening van de vermindering van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=4&paragraaf=1&artikel=24&z=2009-01-01&g=2010-01-01) het buitenlands voordeel uit sparen en beleggen verhoogd met het over te brengen bedrag aan buitenlands voordeel uit sparen en beleggen. Het noemerinkomen wordt niet verhoogd.
+2. In het jaar waarnaar de overbrenging plaatsvindt, wordt voor de berekening van de vermindering van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=4&paragraaf=1&artikel=24&z=2011-01-01&g=2011-01-01) het buitenlands voordeel uit sparen en beleggen verhoogd met het over te brengen bedrag aan buitenlands voordeel uit sparen en beleggen. Het noemerinkomen wordt niet verhoogd.
 
 #### Paragraaf 2. Verrekening
 
@@ -794,13 +806,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 21a. Verrekening buitenlandse belasting op dividenden in geval van afgezonderd particulier vermogen
 
-1. Aan een binnenlandse belastingplichtige wordt, in afwijking in zoverre van [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=3&artikel=19&z=2011-01-01&g=2010-01-01), ter verrekening van vanwege een andere Mogendheid geheven belasting, voorts een vermindering van inkomstenbelasting verleend voor in het inkomen uit aanmerkelijk belang begrepen dividenden uit die andere Mogendheid, indien:
+1. Aan een binnenlandse belastingplichtige wordt, in afwijking in zoverre van [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=3&artikel=19&z=2011-01-01&g=2011-01-01), ter verrekening van vanwege een andere Mogendheid geheven belasting, voorts een vermindering van inkomstenbelasting verleend voor in het inkomen uit aanmerkelijk belang begrepen dividenden uit die andere Mogendheid, indien:
 
 - a. die dividenden worden geacht bij hem op te komen op grond van [artikel 2.14a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14a), en
 
 - b. die dividenden zijn onderworpen aan een belasting naar het inkomen, die vanwege die andere Mogendheid, al dan niet aan de bron, bij die binnenlandse belastingplichtige zelf of bij het desbetreffende afgezonderde particuliere vermogen wordt geheven.
 
-2. [Artikel 19, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=3&artikel=19&z=2011-01-01&g=2010-01-01), en de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=3&artikel=20&z=2011-01-01&g=2010-01-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=3&artikel=21&z=2011-01-01&g=2010-01-01) zijn van overeenkomstige toepassing.
+2. [Artikel 19, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=3&artikel=19&z=2011-01-01&g=2011-01-01), en de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=3&artikel=20&z=2011-01-01&g=2011-01-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=3&artikel=21&z=2011-01-01&g=2011-01-01) zijn van overeenkomstige toepassing.
 
 ### Afdeling 4. Inkomen uit sparen en beleggen
 
@@ -808,25 +820,25 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 24b. Vermindering belasting bij buitenlands voordeel uit sparen en beleggen in geval van afgezonderd particulier vermogen
 
-1. De in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=4&paragraaf=1&artikel=22&z=2011-01-01&g=2010-01-01) bedoelde vrijstelling voor buitenlands voordeel uit sparen en beleggen in de zin van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=4&paragraaf=1&artikel=23&z=2011-01-01&g=2010-01-01) wordt, in afwijking in zoverre van artikel 22, voorts toegepast door een vermindering te verlenen op de verschuldigde inkomstenbelasting, indien:
+1. De in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=4&paragraaf=1&artikel=22&z=2011-01-01&g=2011-01-01) bedoelde vrijstelling voor buitenlands voordeel uit sparen en beleggen in de zin van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=4&paragraaf=1&artikel=23&z=2011-01-01&g=2011-01-01) wordt, in afwijking in zoverre van artikel 22, voorts toegepast door een vermindering te verlenen op de verschuldigde inkomstenbelasting, indien:
 
 - a. dat buitenlandse voordeel wordt geacht bij de binnenlandse belastingplichtige op te komen op grond van [artikel 2.14a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14a), en
 
 - b. dat buitenlandse voordeel is onderworpen aan een belasting naar het inkomen, die vanwege een andere Mogendheid, al dan niet aan de bron, bij die binnenlandse belastingplichtige zelf of bij het desbetreffende afgezonderde particuliere vermogen wordt geheven.
 
-2. [Artikel 24, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=4&paragraaf=1&artikel=24&z=2011-01-01&g=2010-01-01), en [artikel 24a](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=4&paragraaf=1&artikel=24a&z=2011-01-01&g=2010-01-01) zijn van overeenkomstige toepassing.
+2. [Artikel 24, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=4&paragraaf=1&artikel=24&z=2011-01-01&g=2011-01-01), en [artikel 24a](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=4&paragraaf=1&artikel=24a&z=2011-01-01&g=2011-01-01) zijn van overeenkomstige toepassing.
 
 #### Paragraaf 2. Verrekening
 
 ##### Artikel 25b. Verrekening buitenlandse belasting op dividenden, interest en royalty’s in geval van afgezonderd particulier vermogen
 
-1. Aan een binnenlandse belastingplichtige wordt, in afwijking in zoverre van [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=4&paragraaf=2&artikel=25&z=2011-01-01&g=2010-01-01), ter verrekening van vanwege een andere Mogendheid geheven belasting, voorts een vermindering van inkomstenbelasting verleend voor buitenlandsedividenden, interest en royalty’s, indien:
+1. Aan een binnenlandse belastingplichtige wordt, in afwijking in zoverre van [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=4&paragraaf=2&artikel=25&z=2011-01-01&g=2011-01-01), ter verrekening van vanwege een andere Mogendheid geheven belasting, voorts een vermindering van inkomstenbelasting verleend voor buitenlandsedividenden, interest en royalty’s, indien:
 
 - a. die dividenden, interest en royalty’s worden geacht bij hem op te komen op grond van [artikel 2.14a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14a), en
 
 - b. die dividenden, interest en royalty’s zijn onderworpen aan een belasting naar het inkomen, die vanwege die andere Mogendheid, al dan niet aan de bron, bij die binnenlandse belastingplichtige zelf of bij het desbetreffende afgezonderde particuliere vermogen wordt geheven.
 
-2. [Artikel 25, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=4&paragraaf=2&artikel=25&z=2011-01-01&g=2010-01-01), en [artikel 25a](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=4&paragraaf=2&artikel=25a&z=2011-01-01&g=2010-01-01) zijn van overeenkomstige toepassing.
+2. [Artikel 25, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=4&paragraaf=2&artikel=25&z=2011-01-01&g=2011-01-01), en [artikel 25a](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&hoofdstuk=2&afdeling=4&paragraaf=2&artikel=25a&z=2011-01-01&g=2011-01-01) zijn van overeenkomstige toepassing.
 
 ### Afdeling 5. Formele en overige bepalingen
 
