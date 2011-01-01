@@ -235,33 +235,3 @@ Het [Organisatie-, mandaat en volmachtbesluit directie Communicatie 2009](https:
 2. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Communicatie 2011.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
-
-##### Artikel 14
-
-Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Communicatie 2011.
-
-Deze regeling zal in de Staatscourant worden geplaatst.
-
-##### Artikel 7
-
-De coördinator van de afdeling Stafbureau is in de dagelijkse aansturing verantwoordelijk voor:
-
-- a. het adviseren en ondersteunen van de leiding bij het managen van de organisatie van de directie Communicatie op het gebied van personeel, informatie, organisatie, financiële administratie en huisvesting;
-
-- b. het bezien van de directiebrede consequenties;
-
-- c. het directiebreed leveren van de geïntegreerde managementinformatie op het gebied van personeel, informatie, organisatie, financiële administratie en huisvesting;
-
-- d. het adviseren over en het monitoren van de organisatorische, financiële en personele consequenties van de interdepartementale ontwikkelingen in Voorlichtingsraad-verband.
-
-#### § 3. Bevoegdheden
-
-#### § 4. Slotbepalingen
-
-Deze regeling zal in de Staatscourant worden geplaatst.
-
-##### Artikel 15
-
-Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Communicatie 2011.
-
-#### § 4. Slotbepalingen
