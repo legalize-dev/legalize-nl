@@ -4,7 +4,7 @@ identifier: "BWBR0013753"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2010-12-04"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013753"
 soort: "AMvB"
@@ -86,9 +86,9 @@ In dit besluit wordt verstaan onder:
 
 - a. huur van een parkeerplaats, voor zover deze onderdeel uitmaakt van de ter beschikking gestelde verblijfsvoorziening;
 
-- b. beveiliging als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=4&z=2010-12-04&g=2010-12-04);
+- b. beveiliging als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=4&z=2011-01-01&g=2011-01-01);
 
-- c. informatie- en communicatievoorzieningen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=5&z=2010-12-04&g=2010-12-04);
+- c. informatie- en communicatievoorzieningen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=5&z=2011-01-01&g=2011-01-01);
 
 - d. gemeentelijke belastingen als bedoeld in [hoofdstuk XV van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&hoofdstuk=XV) en waterschapsbelastingen als bedoeld in [artikel 123, eerste lid, onderdeel a, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=123);
 
@@ -102,7 +102,9 @@ In dit besluit wordt verstaan onder:
 
 - i. schoonmaak.
 
-3. Onze Minister kan nadere regels stellen ter uitvoering van het eerste lid.
+3. Een verstrekking als bedoeld in het eerste of tweede lid of een vergoeding als bedoeld in het tweede lid wordt in aanmerking genomen als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31).
+
+4. Onze Minister kan nadere regels stellen ter uitvoering van het eerste lid.
 
 ##### Artikel 4
 
@@ -110,7 +112,7 @@ In dit besluit wordt verstaan onder:
 
 2. Indien dit om veiligheidsredenen noodzakelijk wordt geoordeeld, wordt aan ministers en staatssecretarissen een gemeubileerde verblijfsvoorziening ter beschikking gesteld.
 
-3. [Artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=3&z=2010-12-04&g=2010-12-04), is van overeenkomstige toepassing.
+3. [Artikel 3, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=3&z=2011-01-01&g=2011-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 5
 
@@ -124,9 +126,9 @@ In het geval van binnenlandse en buitenlandse dienstreizen worden de noodzakelij
 
 1. Ministers en staatssecretarissen hebben voor de duur van de vervulling van hun ambt een dienstauto met chauffeur ter beschikking.
 
-2. De prijs per kilometer van de dienstauto bedraagt niet meer dan € 0,57 exclusief BTW, berekend op de grondslag van een gebruiksduur van twee jaar en 60.000 gereden kilometers per jaar. In geval van een dienstauto die wordt afgenomen overeenkomstig de door het Rijk gesloten raamovereenkomst betreffende innovatieve milieuauto's of die vóór 1 september 2009 wordt afgenomen overeenkomstig de door het Rijk gesloten raamovereenkomst betreffende auto's die voldoen aan verordening (EG) nr. 715/2007 van het Europees Parlement en de Raad van 20 juni 2007 betreffende de typegoedkeuring van motorvoertuigen met betrekking tot emissies van lichte personen- en bedrijfsvoertuigen (Euro 5 en Euro 6) en de toegang tot reparatie- en onderhoudsinformatie (PbEG L 171) bedraagt de prijs per kilometer van de dienstauto niet meer dan € 0,65 exclusief BTW, berekend op de grondslag van een gebruiksduur van twee jaar en 60.000 gereden kilometers per jaar.
+2. De prijs per kilometer van de dienstauto bedraagt niet meer dan € 0,58 exclusief BTW, berekend op de grondslag van een gebruiksduur van twee jaar en 60.000 gereden kilometers per jaar.
 
-3. De in het tweede lid genoemde bedragen worden jaarlijks bij ministeriële regeling gewijzigd voor zover de gemiddelde prijsindexcijfers autolease over de laatste vier kwartalen, zoals per 1 januari van elk jaar door het Centraal Bureau voor de Statistiek gepubliceerd, daartoe aanleiding geven.
+3. Het bedrag, genoemd in het tweede lid, wordt per 1 januari van elk jaar bij ministeriële regeling gewijzigd overeenkomstig de procentuele wijziging van het prijsindexcijfer jaargemiddelde operationele autolease inclusief brandstof, zoals door het Centraal Bureau voor de Statistiek gepubliceerd, over het tweede kalenderjaar voorafgaand aan genoemde datum ten opzichte van hetzelfde indexcijfer over het jaar daaraan voorafgaand.
 
 4. De prijs per kilometer wordt berekend aan de hand van de formule
 
@@ -178,9 +180,9 @@ m = jaarkilometrage.
 
 ##### Artikel 8
 
-Ministers en staatssecretarissen ontvangen een maandelijkse vergoeding voor de door hen verschuldigde loonbelasting over het gebruik van de dienstauto. De vergoeding wordt berekend aan de hand van de formule
+1. Ministers en staatssecretarissen ontvangen een maandelijkse vergoeding voor de door hen verschuldigde loonbelasting over het gebruik van de dienstauto. De vergoeding wordt berekend aan de hand van de formule
 
-CAT x P/100 x T/100 x 100/(100-T)
+CAT x P/100 x T/100
 
 M = ----------------------------------
 
@@ -196,6 +198,12 @@ P = het toepasselijke percentage, genoemd in [artikel 13bis, eerste lid, van de 
 
 T = het hoogste van de in de tarieftabel van [artikel 20a, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20a) opgenomen percentages.
 
+2. Aangewezen als een eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31) wordt:
+
+- a. de maandelijkse vergoeding, bedoeld in het eerste lid;
+
+- b. het tot het belastbare loon in de zin van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) van de minister of staatssecretaris behorend voordeel ter zake van de dienstauto toerekenbaar aan buitengewone beveiligingsmaatregelen.
+
 ##### Artikel 9
 
 Aan ministers en staatssecretarissen worden de overige voorzieningen ter beschikking gesteld die noodzakelijk zijn voor het vervullen van hun ambt.
@@ -206,15 +214,17 @@ Aan ministers en staatssecretarissen worden de overige voorzieningen ter beschik
 
 2. De maandelijkse vergoeding, bedoeld in het eerste lid, bedraagt
 
-- a. voor Onze Minister-President, Minister van Algemene Zaken € 1312,31;
+- a. voor Onze Minister-President, Minister van Algemene Zaken € 639,99;
 
-- b. voor Onze Minister van Buitenlandse Zaken € 1312,31;
+- b. voor Onze Minister van Buitenlandse Zaken € 639,99;
 
-- c. voor een andere Minister € 656,14;
+- c. voor een andere Minister € 319,99;
 
-- d. voor een Staatssecretaris € 546,08.
+- d. voor een Staatssecretaris € 266,31.
 
-3. De in het tweede lid genoemde bedragen worden per 1 januari van elk jaar bij ministeriële regeling gewijzigd voor zover de consumentenprijsindex, geldend voor de maand september van het voorafgaande jaar, daartoe aanleiding geeft.
+3. De maandelijkse vergoeding, bedoeld in het eerste lid, wordt aangewezen als een eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31).
+
+4. De in het tweede lid genoemde bedragen worden per 1 januari van elk jaar bij ministeriële regeling gewijzigd voor zover de consumentenprijsindex, geldend voor de maand september van het voorafgaande jaar, daartoe aanleiding geeft.
 
 ##### Artikel 11
 
@@ -248,10 +258,16 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 6a
 
-Dit onderdeel is nog niet inwerking getreden
+Ministers en staatssecretarissen hebben recht op de vergoeding van gemaakte kosten voor verlies, diefstal of beschadiging van voor de dienstreis meegenomen noodzakelijke bagage tot ten hoogste het bedrag vastgesteld op grond van [artikel 13, tweede lid, van het Reisbesluit buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006842&artikel=13).
 
 ##### Artikel 15a
 
-Dit onderdeel is nog niet inwerking getreden
+Bij toepassing van [artikel 39c van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=39c):
+
+- a. wordt de vergoeding, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=8&z=2011-01-01&g=2011-01-01), vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van [artikel 2.10 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.10);
+
+- b. blijven de [artikelen 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=3&z=2011-01-01&g=2011-01-01), [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=8&z=2011-01-01&g=2011-01-01), en [10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=10&z=2011-01-01&g=2011-01-01), buiten toepassing; en
+
+- c. worden de bedragen, genoemd in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=10&z=2011-01-01&g=2011-01-01), vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van [artikel 2.10 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.10).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
