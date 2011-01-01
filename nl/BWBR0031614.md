@@ -4,7 +4,7 @@ identifier: "BWBR0031614"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2009-07-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031614"
 soort: "wet"
@@ -44,7 +44,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet personenvervoer 2000.
 
 ##### Artikel III
 
