@@ -4,7 +4,7 @@ identifier: "BWBR0004490"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-02-01"
-last_updated: "2009-12-23"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004490"
 soort: "AMvB"
@@ -50,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 - a. de wet: de [Wet buitengewoon pensioen Indisch verzet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968) (**Stb.** 1986, 360);
 
-- b. de Raad: de Pensioen- en Uitkeringsraad, genoemd in [artikel 2 van de Wet op de Pensioen- en Uitkeringsraad](https://wetten.overheid.nl/jci1.3:c:BWBR0004806&artikel=2) (**Stb.** 1990, 324);
+- b. de Sociale verzekeringsbank: de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6);
 
 - c. de gepensioneerde: degene, aan wie krachtens de wet een buitengewoon pensioen is toegekend.
 
@@ -108,7 +108,7 @@ Voor de verrekening met het buitengewoon pensioen worden niet in aanmerking geno
 
 - f. inkomsten, verbonden aan de toekenning van een koninklijke onderscheiding;
 
-- g. de van de Raad krachtens [artikel 4:98 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:98) ontvangen wettelijke rente;
+- g. de van de Sociale verzekeringsbank krachtens [artikel 4:98 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:98) ontvangen wettelijke rente;
 
 - h. de tegemoetkoming, bedoeld in [artikel 29a van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=29a) en [artikel 33b van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=33b).
 
@@ -122,11 +122,11 @@ Vervallen
 
 ##### Artikel 8
 
-Indien een gepensioneerde inkomsten geniet of gaat genieten, die ingevolge dit besluit voor verrekening met het buitengewoon pensioen in aanmerking komen, doet hij terstond mededeling aan de Raad van de aard van die inkomsten en het daarmede gemoeide bedrag.
+Indien een gepensioneerde inkomsten geniet of gaat genieten, die ingevolge dit besluit voor verrekening met het buitengewoon pensioen in aanmerking komen, doet hij terstond mededeling aan de Sociale verzekeringsbank van de aard van die inkomsten en het daarmede gemoeide bedrag.
 
 ##### Artikel 9
 
-Met de controle op de in de artikelen 16 en 23 van de wet bedoelde inkomsten zijn in het bijzonder belast de inspecteurs der belastingen. Zij ontvangen van de Raad opgave van de gepensioneerden die in hun ambtsgebied woonachtig zijn en handelen overigens naar de door Onze Minister van Financiën te geven aanwijzingen.
+Met de controle op de in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&artikel=16) en [23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&artikel=23) bedoelde inkomsten zijn in het bijzonder belast de inspecteurs der belastingen. Zij ontvangen van de Sociale verzekeringsbank opgave van de gepensioneerden die in hun ambtsgebied woonachtig zijn en handelen overigens naar de door Onze Minister van Financiën te geven aanwijzingen.
 
 ##### Artikel 10
 
@@ -142,11 +142,11 @@ Vervallen
 
 ##### Artikel 13
 
-1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst en werkt met uitzondering van de [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=1&z=2009-12-23&g=2009-12-23), en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=4&z=2009-12-23&g=2009-12-23) terug tot en met 1 januari 1983.
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst en werkt met uitzondering van de [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=1&z=2011-01-01&g=2011-01-01), en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=4&z=2011-01-01&g=2011-01-01) terug tot en met 1 januari 1983.
 
-2. [Artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=1&z=2009-12-23&g=2009-12-23), werkt terug tot en met 1 januari 1987.
+2. [Artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=1&z=2011-01-01&g=2011-01-01), werkt terug tot en met 1 januari 1987.
 
-3. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=4&z=2009-12-23&g=2009-12-23) werkt terug tot en met 1 april 1988.
+3. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=4&z=2011-01-01&g=2011-01-01) werkt terug tot en met 1 april 1988.
 
 ##### Artikel 14
 
