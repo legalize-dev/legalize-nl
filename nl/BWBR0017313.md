@@ -4,7 +4,7 @@ identifier: "BWBR0017313"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2009-12-02"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017313"
 soort: "ministeriele-regeling"
@@ -36,7 +36,7 @@ entry_into_force: "2013-06-20"
 ---
 # Regeling van 13 oktober 2004, nr. SAS2004098785, houdende regels met betrekking tot de afgifte, de ontvangst en het vervoer van bedrijfsafvalstoffen en gevaarlijke afvalstoffen (Regeling melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen)
 
-Gelet op [artikel 10.50 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.50) voorzover het [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=5&z=2009-12-02&g=2009-12-02) betreft, [artikel 24, derde lid, van de Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=24) voorzover het [artikel 3, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=3&z=2009-12-02&g=2009-12-02), betreft, en de [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=2), [3, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=3), [6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=6), en [12, eerste en derde lid, van het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=12);
+Gelet op [artikel 10.50 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.50) voorzover het [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=5&z=2011-01-01&g=2011-01-01) betreft, [artikel 24, derde lid, van de Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=24) voorzover het [artikel 3, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=3&z=2011-01-01&g=2011-01-01), betreft, en de [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=2), [3, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=3), [6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=6), en [12, eerste en derde lid, van het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=12);
 
 Besluit:
 
@@ -94,7 +94,7 @@ Treedt in werking op het tijdstip waarop het Besluit melden bedrijfsafvalstoffen
 
 1. Degene die een melding als bedoeld in [artikel 10.40, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.40) doet, meldt daarbij tevens het bedrijfsnummer van zijn bedrijf en van degene van wie de afvalstoffen afkomstig zijn, en, indien van toepassing, van degene die de afvalstoffen heeft vervoerd of ingezameld en van degene die tot het vervoer van de afvalstoffen opdracht heeft gegeven.
 
-2. Meldingen als bedoeld in de [artikelen 10.40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.40), en [10.38, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.38) die langs elektronische weg worden gedaan, zijn in overeenstemming met een door de meldingsinstantie op te stellen reglement dat is goedgekeurd door de minister. De minister maakt het goedkeuringsbesluit bekend in de Staatscourant.
+2. Meldingen als bedoeld in de [artikelen 10.40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.40), en [10.38, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.38) zijn in overeenstemming met een door de meldingsinstantie op te stellen reglement dat is goedgekeurd door de minister. De minister maakt het goedkeuringsbesluit bekend in de Staatscourant.
 
 3. Voor de schriftelijke melding van de ingevolge [artikel 10.40, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.40) en [artikel 3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=3) te melden gegevens wordt gebruik gemaakt van het in de bijlage in onderdeel B, onder 1, opgenomen formulier.
 
@@ -102,31 +102,31 @@ Treedt in werking op het tijdstip waarop het Besluit melden bedrijfsafvalstoffen
 
 5. Voor de schriftelijke melding van de ingevolge [artikel 10.38, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.38) en [artikel 6 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=6) te melden gegevens wordt gebruik gemaakt van het in de bijlage in onderdeel B, onder 3, opgenomen formulier.
 
+6. De meldingsinstantie kan meldgegevens wijzigen of verwijderen overeenkomstig het reglement. De meldingsinstantie stelt degene die deze meldgegevens heeft gemeld, daarvan op de hoogte met vermelding van de reden.
+
 ##### Artikel 4
 
 Als categorieën van afvalstoffen als bedoeld in [artikel 3, derde lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=3) worden aangewezen:
 
 - a. de volgende categorieën van bedrijfsafvalstoffen en gevaarlijke afvalstoffen:
 
-- 1°. Batterijen en accu’s als bedoeld in [artikel 1, onderdelen a en b, van de Regeling beheer batterijen en accu’s 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&artikel=1);
+- 1°. batterijen en accu’s als bedoeld in [artikel 1, onder a en b van het Besluit beheer batterijen en accu’s 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024491&artikel=1);
 
-- 2°. autobanden als bedoeld in [artikel 1, onder c, van het Besluit beheer autobanden](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&artikel=1);
+- 2°. autobanden als bedoeld in [artikel 1, onder b, van het Besluit beheer autobanden](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&artikel=1);
 
 - 3°. producten als bedoeld in [artikel 1, eerste lid, onder b, van de Regeling beheer elektrische en elektronische apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0017053&artikel=1);
 
 - 4°. autowrakken als bedoeld in [artikel 1, onder b, van het Besluit beheer autowrakken](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&artikel=1);
 
-- 5°. verpakkingen als bedoeld in [artikel 1, onder b, van de Regeling verpakking en verpakkingsafval](https://wetten.overheid.nl/jci1.3:c:BWBR0008775&artikel=1);
+- 5°. verpakkingen als bedoeld in [artikel 1, onder a, van het Besluit beheer verpakkingen en papier en karton](https://wetten.overheid.nl/jci1.3:c:BWBR0018139&artikel=1);
 
-- b. de categorieën van bedrijfsafvalstoffen die zijn genoemd in onderdeel A van de bijlage.
+- b. de categorieën van bedrijfsafvalstoffen die zijn genoemd in onderdeel A van de bijlage;
+
+- c. scheepsafvalstoffen als bedoeld in [artikel 1, onder d, van het Besluit inzamelen afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&artikel=1).
 
 ##### Artikel 5
 
-1. De in [artikel 10.38, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.38) gestelde verplichting geldt niet voor de afgifte van afvalstoffen die behoren tot een categorie als bedoeld in [artikel 4, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=4&z=2009-12-02&g=2009-12-02).
-
-2. De in de [artikelen 10.38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.38), en [10.40, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.40) gestelde verplichtingen gelden in afwijking van de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=2), en [5, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=5) niet voor de categorieën van gevallen waarin de afgifte geschiedt aan een persoon die een inrichting drijft voor het opslaan, overslaan of bewerken van afvalstoffen die behoren tot een in [artikel 4, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=4&z=2009-12-02&g=2009-12-02), bedoelde categorie.
-
-3. In gevallen als bedoeld in het tweede lid is [artikel 2, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=2) van overeenkomstige toepassing.
+De in [artikel 10.38, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.38) gestelde verplichting geldt niet voor de afgifte van afvalstoffen die behoren tot een categorie als bedoeld in [artikel 4, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=4&z=2011-01-01&g=2011-01-01).
 
 ##### Artikel 6
 
@@ -134,15 +134,9 @@ Als categorieën van afvalstoffen als bedoeld in [artikel 3, derde lid, onder b,
 
 2. In afwijking van het eerste lid wordt voor de begeleidingsbrief gebruik gemaakt van het formulier dat is opgenomen in de bijlage in onderdeel C, onder 2, indien een schip zich ontdoet van afvalstoffen die aan boord van dat schip zijn ontstaan.
 
-3. In afwijking van het eerste lid behoeft bij het vervoer van de volgende categorieën van afvalstoffen geen gebruik te worden gemaakt van het in dat lid bedoelde formulier:
+3. In het geval van route-inzameling vermeldt de inzamelaar op de begeleidingsbrief of op een bijlage bij de begeleidingsbrief de naam en het adres van de personen bij wie met gebruikmaking van die brief afvalstoffen zijn ingezameld.
 
-- a. afvalstoffen die behoren tot een categorie als bedoeld in [artikel 4, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=4&z=2009-12-02&g=2009-12-02);
-
-- b. bedrijfsafvalstoffen of gevaarlijke afvalstoffen die worden afgegeven bij de ontvangst van vergelijkbare stoffen, preparaten of andere producten, niet zijnde afvalstoffen.
-
-4. In het geval van route-inzameling vermeldt de inzamelaar op de begeleidingsbrief of op een bijlage bij de begeleidingsbrief de naam en het adres van de personen bij wie met gebruikmaking van die brief afvalstoffen zijn ingezameld.
-
-5. In het geval van meerdere transporten van uitsluitend bouwstoffen, grond of baggerspecie als bedoeld in het [Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929) afkomstig van één locatie naar één bestemming kan worden volstaan met één begeleidingsbrief per werkweek, waarbij in de vrije ruimte van of in een bijlage bij de begeleidingsbrief het aantal en de tijdstippen van de transporten zijn vastgelegd.
+4. In het geval van meer transporten van dezelfde soort bedrijfsafvalstoffen met eenzelfde samenstelling afkomstig van één locatie naar één bestemming in hetzelfde transportmiddel kan worden volstaan met één begeleidingsbrief per werkweek, waarbij in de vrije ruimte van of in een bijlage bij die brief het aantal en de tijdstippen van de transporten zijn vastgelegd.
 
 ##### Artikel 7
 
@@ -174,6 +168,8 @@ Uit hoofdstuk 17.01: beton, stenen, tegels en keramische producten:
 
 Uit hoofdstuk 02.01: afval van landbouw, tuinbouw, etc.:
 
+Uit hoofdstuk 02.01: afval van landbouw, tuinbouw, etc.:
+
 Uit hoofdstuk 03.01: afval van de houtverwerking en de productie van panelen en meubelen:
 
 Uit hoofdstuk 03.03: afval van de productie en verwerking van pulp, papier en karton:
@@ -184,17 +180,15 @@ Uit hoofdstuk 10.11: afval van de fabricage van glas en glasproducten:
 
 Uit hoofdstuk 12.01: afval van de machinale bewerking en de fysische en mechanische oppervlaktebehandeling van metalen en kunststoffen:
 
+Uit hoofdstuk 16.01:afgedankte voertuigen van verschillende soorten vervoer (met inbegrip van niet voor de weg bestemde machines) en afval van de sloop van afgedankte voertuigen en het onderhoud van voertuigen (exclusief 13, 14, 16 06 en 16 08):
+
 Uit hoofdstuk 17.01: beton, stenen, tegels en keramische producten:
 
 Uit hoofdstuk 17.02: hout, glas en kunststof (uit bouw- en sloopafval):
 
+Uit hoofdstuk 17.03: bitumineuze mengsels, koolteer en met teer behandelde producten:
+
 Uit hoofdstuk 17.04: metaal (inclusief legeringen) (uit bouw- en sloopafval):
-
-Uit hoofdstuk 17.06: isolatiematerialen en asbesthoudend bouwmateriaal:
-
-Uit hoofdstuk 17.08: gipshoudend bouwmateriaal:
-
-Uit hoofdstuk 17.09: overig bouw- en sloopafval:
 
 ### B. Meldingsformulieren als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=3&z=2005-01-01&g=2005-01-01)
 
@@ -204,13 +198,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 6a
 
-Deze regeling berust, voor zover het [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=3&z=2009-12-02&g=2009-12-02) betreft, op [artikel 9.2.2.1, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1).
+Deze regeling berust, voor zover het [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=3&z=2011-01-01&g=2011-01-01) betreft, op [artikel 9.2.2.1, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1).
 
 ## Bijlage, behorende bij de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=3&z=2008-09-26&g=2008-09-26), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=4&z=2008-09-26&g=2008-09-26) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=6&z=2008-09-26&g=2008-09-26)
 
 ### A. Aangewezen categorieën van bedrijfsafvalstoffen als bedoeld in [artikel 4, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=4&z=2008-09-26&g=2008-09-26), zoals deze zijn omschreven in de afvalstoffenlijst, bedoeld in [artikel 1, eerste lid, van de Regeling Europese afvalstoffenlijst](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=1)
 
-Uit hoofdstuk 18.01: afval van verloskundige zorg en de diagnose, behandeling of preventie van ziektes bij de mens:
+Uit hoofdstuk 17.05: grond (met inbegrip van afgegraven grond van verontreinigde locaties), stenen en baggerspecie:
 
 ### C. Begeleidingsbrieven als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=6&z=2008-09-26&g=2008-09-26)
 
@@ -272,29 +266,33 @@ De lijst met erkende personen en instellingen, bedoeld in [artikel 12b, vierde l
 
 ### A. Aangewezen categorieën van bedrijfsafvalstoffen als bedoeld in [artikel 4, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=4&z=2009-12-02&g=2009-12-02), zoals deze zijn omschreven in de afvalstoffenlijst, bedoeld in [artikel 1, eerste lid, van de Regeling Europese afvalstoffenlijst](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=1)
 
+Uit hoofdstuk 17.06: isolatiematerialen en asbesthoudend bouwmateriaal:
+
+Uit hoofdstuk 17.08: gipshoudend bouwmateriaal:
+
+Uit hoofdstuk 17.09: overig bouw- en sloopafval:
+
+Uit hoofdstuk 18.01: afval van verloskundige zorg en de diagnose, behandeling of preventie van ziektes bij de mens:
+
 Uit hoofdstuk 18.02: afval van onderzoek en de diagnose, behandeling of preventie van ziektes bij dieren
-
-Uit hoofdstuk 19.01: afval van de verbranding of pyrolyse van afval:
-
-Uit hoofdstuk 19.10: afval van de shredding van metaalhoudend afval:
-
-Uit hoofdstuk 19.12: afval van niet elders genoemde mechanische afvalverwerking (bv. sorteren, breken, verdichten, palletiseren):
 
 Uit hoofdstuk 20.01: gescheiden ingezamelde fracties (van stedelijk afval (huishoudelijk afval en soortgelijk bedrijfsafval, industrieel afval en afval van instellingen) inclusief gescheiden ingezamelde fracties):
 
 Uit hoofdstuk 20.02: tuin- en plantsoenafval (inclusief afval van begraafplaatsen):
 
-Uit hoofdstuk 20.03: overig stedelijk afval
-
 ### B. Meldingsformulieren als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=3&z=2009-12-02&g=2009-12-02)
 
 ### C. Begeleidingsbrieven als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=6&z=2009-12-02&g=2009-12-02)
 
+### B. Meldingsformulieren als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=3&z=2011-01-01&g=2011-01-01)
+
+### C. Begeleidingsbrieven als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=6&z=2011-01-01&g=2011-01-01)
+
 ### D. Categorieën van afvalstoffen waarvan het uitlooggedrag en de samenstelling algemeen bekend zijn
 
-### E. Formulieren als bedoeld in [artikel 6h](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=6h&z=2009-12-02&g=2009-12-02)
+¹ of het registratienummer bij een Kamer van Koophandel in een andere lidstaat van de Europese Unie, dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt.
 
-### 1. Formulier voor het aanvragen van een erkenning als bedoeld in [artikel 12c, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=12c)
+¹ Indien de betreffende VOG al bij een aanvraag van een andere instelling is ingediend (en nog geldig is), geeft u dan, behalve de datum van de VOG, ook aan bij welke aanvraag de VOG aan SenterNovem is overgelegd. In plaats van een VOG kan ook een verklaring van een andere lidstaat omtrent het gedrag die voldoet aan [artikel 12f, eerste lid, van het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=12f) worden overgelegd.
 
 ¹ of het registratienummer bij een Kamer van Koophandel in een andere lidstaat van de Europese Unie, dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt.
 
@@ -312,17 +310,17 @@ SenterNovem
 
 Directie Milieu en Leefomgeving, Taakveld Bodem+
 
-Postbus 93144
-
-2509 AC Den Haag
-
 ### Wat kunt u verwachten?
 
-Binnen enkele dagen na ontvangst van uw aanvraag, krijgt u een ontvangstbevestiging toegestuurd. Gecontroleerd wordt of uw aanvraag volledig en duidelijk is ingevuld. Vervolgens wordt beoordeeld of uw aanvraag voldoet aan de vooraarden van de Regeling melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen. Het kan zijn dat SenterNovem contact met u opneemt met het verzoek een en ander nader toe te lichten of aan te vullen.
+2509 AC Den Haag
 
 ¹ of de handelsnaam zoals vermeld op de inschrijving bij een Kamer van Koophandel in een andere lidstaat van de Europese Unie, dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt.
 
 ### 2. Formulier voor het aanvragen van een wijziging van een erkenning als bedoeld in [artikel 12e, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=12e)
+
+¹ of de handelsnaam zoals vermeld op de inschrijving bij een Kamer van Koophandel in een andere lidstaat van de Europese Unie, dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt.
+
+¹ Indien de betreffende VOG al bij een aanvraag van een andere instelling is ingediend (en nog geldig is), geeft u dan ,behalve de datum van de VOG, ook aan bij welke aanvraag de VOG aan SenterNovem is overgelegd. In plaats van een VOG kan ook een verklaring van een andere lidstaat omtrent het gedrag die voldoet aan [artikel 12f, eerste lid, van het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=12f) worden overgelegd.
 
 ¹ of het registratienummer bij een Kamer van Koophandel in een andere lidstaat van de Europese Unie, dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt.
 
@@ -340,17 +338,17 @@ SenterNovem
 
 Directie Milieu en Leefomgeving, Taakveld Bodem+
 
-Postbus 93144
-
-2509 AC Den Haag
-
 ### Wat kunt u verwachten?
 
-Binnen enkele dagen na ontvangst van uw wijziging, krijgt u een ontvangstbevestiging toegestuurd. Gecontroleerd wordt of uw wijziging volledig en duidelijk is ingevuld. Vervolgens wordt beoordeeld of uw wijziging voldoet aan de voorwaarden van de Regeling melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen. Het kan zijn dat SenterNovem contact met u opneemt met het verzoek een en ander nader toe te lichten of aan te vullen.
+2509 AC Den Haag
 
 ¹ of de handelsnaam zoals vermeld op de inschrijving bij een Kamer van Koophandel in een andere lidstaat van de Europese Unie, dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt.
 
 ### 3. Formulier voor het melden van een faillissement of surseance van betaling als bedoeld in [artikel 12i van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=12i)
+
+¹ of de handelsnaam zoals vermeld op de inschrijving bij een Kamer van Koophandel in een andere lidstaat van de Europese Unie, dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt.
+
+Stuur de aanvraag met alle verplichte bijlagen naar:
 
 ¹ of het registratienummer bij een Kamer van Koophandel in een andere lidstaat van de Europese Unie, dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt.
 
@@ -360,7 +358,7 @@ SenterNovem
 
 Directie Milieu en Leefomgeving, Taakveld Bodem+
 
-Postbus 93144
+### Wat kunt u verwachten?
 
 2509 AC Den Haag
 
@@ -368,7 +366,7 @@ Postbus 93144
 
 Binnen enkele dagen na ontvangst van uw aanvraag, krijgt u een ontvangstbevestiging toegestuurd. Gecontroleerd wordt of uw melding volledig en duidelijk is ingevuld. Het kan zijn dat SenterNovem contact met u opneemt met het verzoek een en ander nader toe te lichten of aan te vullen.
 
-### 4. Formulier voor het melden van een schorsing of intrekking van een certificaat voor de monsterneming als bedoeld in [artikel 12j van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=12j)
+SenterNovem
 
 Stuur de aanvraag met alle verplichte bijlagen naar:
 
@@ -376,9 +374,55 @@ SenterNovem
 
 Directie Milieu en Leefomgeving, Taakveld Bodem+
 
-Postbus 93144
+### Wat kunt u verwachten?
 
 2509 AC Den Haag
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 5a
+
+Als inrichtingen als bedoeld in [artikel 5, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=5) worden aangewezen inrichtingen die afvalstoffen opnieuw bewerken tot:
+
+- a. asfalt;
+
+- b. beton;
+
+- c. ruw staal.
+
+## Bijlage. , behorende bij de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=3&z=2011-01-01&g=2011-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=4&z=2011-01-01&g=2011-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=6&z=2011-01-01&g=2011-01-01), [6f](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=6f&z=2011-01-01&g=2011-01-01) en [6h](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=6h&z=2011-01-01&g=2011-01-01)
+
+### A. Aangewezen categorieën van bedrijfsafvalstoffen als bedoeld in [artikel 4, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=4&z=2011-01-01&g=2011-01-01), zoals deze zijn omschreven in de afvalstoffenlijst, bedoeld in [artikel 1, eerste lid, van de Regeling Europese afvalstoffenlijst](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=1)
+
+Uit hoofdstuk 20.03: overig stedelijk afval
+
+1 Zie de integrale tekst van de afvalstoffenlijst (Stcrt. 2002, 76).
+
+### E. Formulieren als bedoeld in [artikel 6h](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=6h&z=2011-01-01&g=2011-01-01)
+
+### 1. Formulier voor het aanvragen van een erkenning als bedoeld in [artikel 12c, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=12c)
+
+Postbus 93144
+
+### Wat kunt u verwachten?
+
+Binnen enkele dagen na ontvangst van uw aanvraag, krijgt u een ontvangstbevestiging toegestuurd. Gecontroleerd wordt of uw aanvraag volledig en duidelijk is ingevuld. Vervolgens wordt beoordeeld of uw aanvraag voldoet aan de vooraarden van de Regeling melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen. Het kan zijn dat SenterNovem contact met u opneemt met het verzoek een en ander nader toe te lichten of aan te vullen.
+
+### 2. Formulier voor het aanvragen van een wijziging van een erkenning als bedoeld in [artikel 12e, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=12e)
+
+Postbus 93144
+
+### Wat kunt u verwachten?
+
+Binnen enkele dagen na ontvangst van uw wijziging, krijgt u een ontvangstbevestiging toegestuurd. Gecontroleerd wordt of uw wijziging volledig en duidelijk is ingevuld. Vervolgens wordt beoordeeld of uw wijziging voldoet aan de voorwaarden van de Regeling melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen. Het kan zijn dat SenterNovem contact met u opneemt met het verzoek een en ander nader toe te lichten of aan te vullen.
+
+### 3. Formulier voor het melden van een faillissement of surseance van betaling als bedoeld in [artikel 12i van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=12i)
+
+Postbus 93144
+
+### 4. Formulier voor het melden van een schorsing of intrekking van een certificaat voor de monsterneming als bedoeld in [artikel 12j van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=12j)
+
+Postbus 93144
 
 ### Wat kunt u verwachten?
 
