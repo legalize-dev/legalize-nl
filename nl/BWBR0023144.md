@@ -4,7 +4,7 @@ identifier: "BWBR0023144"
 country: "nl"
 rank: "wet"
 publication_date: "2011-01-01"
-last_updated: "2010-12-31"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023144"
 soort: "wet"
@@ -120,11 +120,11 @@ Vervallen
 
 ##### Artikel XIX
 
-1. [Artikel 16a, eerste en tweede lid, van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16a) is van overeenkomstige toepassing op de wijzigingen ingevolge [artikel XVIII, onderdelen B tot en met F](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=XVIII&z=2010-12-31&g=2010-12-31).
+1. [Artikel 16a, eerste en tweede lid, van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16a) is van overeenkomstige toepassing op de wijzigingen ingevolge [artikel XVIII, onderdelen B tot en met F](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=XVIII&z=2011-01-01&g=2011-01-01).
 
-2. [Artikel XVIII, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=XVIII&z=2010-12-31&g=2010-12-31), vindt geen toepassing ten aanzien van personenauto’s die vóór 1 februari 2008 voor het eerst in gebruik zijn genomen.
+2. [Artikel XVIII, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=XVIII&z=2011-01-01&g=2011-01-01), vindt geen toepassing ten aanzien van personenauto’s die vóór 1 februari 2008 voor het eerst in gebruik zijn genomen.
 
-3. [Artikel XVIII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=XVIII&z=2010-12-31&g=2010-12-31), vindt geen toepassing ten aanzien van personenauto’s die vóór 1 april 2008 voor het eerst in gebruik zijn genomen.
+3. [Artikel XVIII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=XVIII&z=2011-01-01&g=2011-01-01), vindt geen toepassing ten aanzien van personenauto’s die vóór 1 april 2008 voor het eerst in gebruik zijn genomen.
 
 ##### Artikel XX
 
@@ -174,9 +174,9 @@ Wijzigt deze wet.
 
 ##### Artikel XXIXa
 
-1. Met betrekking tot de in [artikel XXII, onderdeel A, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=XXII&z=2010-12-31&g=2010-12-31), opgenomen verhoging van de accijns kan, in afwijking in zoverre van [artikel 84a, vijfde lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=84a) de aangifte achterwege blijven, indien de te heffen accijns over de hoeveelheid minerale oliën, die bij het ingaan van de verhoging van de accijns voorhanden is, niet meer bedraagt dan € 91.
+1. Met betrekking tot de in [artikel XXII, onderdeel A, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=XXII&z=2011-01-01&g=2011-01-01), opgenomen verhoging van de accijns kan, in afwijking in zoverre van [artikel 84a, vijfde lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=84a) de aangifte achterwege blijven, indien de te heffen accijns over de hoeveelheid minerale oliën, die bij het ingaan van de verhoging van de accijns voorhanden is, niet meer bedraagt dan € 91.
 
-2. [Artikel 84a van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=84a) vindt geen toepassing op de in [artikel XXII, onderdeel A, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=XXII&z=2010-12-31&g=2010-12-31), opgenomen verhoging van de accijns.
+2. [Artikel 84a van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=84a) vindt geen toepassing op de in [artikel XXII, onderdeel A, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=XXII&z=2011-01-01&g=2011-01-01), opgenomen verhoging van de accijns.
 
 ##### Artikel XXIXb
 
@@ -196,25 +196,25 @@ Ingeval de samenloop van wetten die in 2007 in het Staatsblad zijn of worden gep
 
 ##### Artikel XXXI
 
-1. Deze wet treedt in werking met ingang van 1 januari 2008, met dien verstande dat de [artikelen I, onderdelen A, en F tot en met K](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=I&z=2010-12-31&g=2010-12-31), en [VI, onderdelen B, C, D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=VI&z=2010-12-31&g=2010-12-31), eerst toepassing vinden nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2008 is toegepast.
+1. Deze wet treedt in werking met ingang van 1 januari 2008, met dien verstande dat de [artikelen I, onderdelen A, en F tot en met K](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=I&z=2011-01-01&g=2011-01-01), en [VI, onderdelen B, C, D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=VI&z=2011-01-01&g=2011-01-01), eerst toepassing vinden nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2008 is toegepast.
 
 2. Vervallen.
 
-3. In afwijking van het eerste lid werkt [artikel I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=I&z=2010-12-31&g=2010-12-31), terug tot en met 1 januari 2007.
+3. In afwijking van het eerste lid werkt [artikel I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=I&z=2011-01-01&g=2011-01-01), terug tot en met 1 januari 2007.
 
-4. In afwijking van het eerste lid werkt [artikel XXIXD](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=XXIXd&z=2010-12-31&g=2010-12-31) terug tot en met 31 december 2007.
+4. In afwijking van het eerste lid werkt [artikel XXIXD](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=XXIXd&z=2011-01-01&g=2011-01-01) terug tot en met 31 december 2007.
 
-5. In afwijking van het eerste lid treedt [artikel XVIII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=XVIII&z=2010-12-31&g=2010-12-31), in werking op 1 april 2008.
+5. In afwijking van het eerste lid treedt [artikel XVIII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=XVIII&z=2011-01-01&g=2011-01-01), in werking op 1 april 2008.
 
-6. In afwijking van het eerste lid treden de [artikelen XVIII, onderdelen 0A, A, B, D, E, en F](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=XVIII&z=2010-12-31&g=2010-12-31), [XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=XIX&z=2010-12-31&g=2010-12-31) en [XX, onderdelen A en C tot en met H](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=XX&z=2010-12-31&g=2010-12-31), in werking met ingang van 1 februari 2008.
+6. In afwijking van het eerste lid treden de [artikelen XVIII, onderdelen 0A, A, B, D, E, en F](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=XVIII&z=2011-01-01&g=2011-01-01), [XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=XIX&z=2011-01-01&g=2011-01-01) en [XX, onderdelen A en C tot en met H](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=XX&z=2011-01-01&g=2011-01-01), in werking met ingang van 1 februari 2008.
 
 7. Vervallen.
 
-8. In afwijking van het eerste lid treedt [artikel XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=XXII&z=2010-12-31&g=2010-12-31) in werking met ingang van 1 juli 2008.
+8. In afwijking van het eerste lid treedt [artikel XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=XXII&z=2011-01-01&g=2011-01-01) in werking met ingang van 1 juli 2008.
 
-9. In afwijking van het eerste lid treden de [artikelen XI, onderdelen EA, FA en FB](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=XI&z=2010-12-31&g=2010-12-31) en [XX, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=XX&z=2010-12-31&g=2010-12-31), in werking op een bij koninklijk besluit te bepalen tijdstip.
+9. In afwijking van het eerste lid treden de artikelen en [XX, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=XX&z=2011-01-01&g=2011-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-10. Bij het begin van het kalenderjaar 2009 worden in afwijking van [artikel 10.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.3) zoals dat komt te luiden na de wijzigingen ingevolge [artikel II, onderdeel O](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=II&z=2010-12-31&g=2010-12-31), de in het tweede lid van dat [artikel 10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.3) aangeduide bedragen niet vervangen door andere bedragen.
+10. Bij het begin van het kalenderjaar 2009 worden in afwijking van [artikel 10.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.3) zoals dat komt te luiden na de wijzigingen ingevolge [artikel II, onderdeel O](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=II&z=2011-01-01&g=2011-01-01), de in het tweede lid van dat [artikel 10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.3) aangeduide bedragen niet vervangen door andere bedragen.
 
 ##### Artikel XXXII
 
