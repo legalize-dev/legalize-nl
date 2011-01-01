@@ -4,7 +4,7 @@ identifier: "BWBR0007308"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2005-07-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007308"
 soort: "ministeriele-regeling"
@@ -195,7 +195,7 @@ Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de b
 
 4. De inspecteur wijst de aanvraag af indien:
 
-- een vermindering van belasting als bedoeld in [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=28) geldt of een bijzonder tarief als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=29) en [artikel 30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=30);
+- een vermindering van belasting als bedoeld in [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=28) geldt;
 
 - hij een eerder aan de aanvrager verleende vergunning heeft ingetrokken en er sedertdien minder dan een jaar is verstreken.
 
