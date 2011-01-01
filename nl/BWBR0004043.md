@@ -4,7 +4,7 @@ identifier: "BWBR0004043"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2010-01-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004043"
 soort: "wet"
@@ -49,7 +49,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - b. Uitvoeringsinstituut werknemersverzekeringen: het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
 
-- c. Toeslagenfonds: het fonds, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=IV&artikel=31&z=2010-01-01&g=2010-01-01);
+- c. Toeslagenfonds: het fonds, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=IV&artikel=31&z=2011-01-01&g=2011-01-01);
 
 - d. loondervingsuitkering: een uitkering krachtens de verplichte verzekering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), alsmede een uitkering of inkomensvoorziening op grond van de [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), op grond van [hoofdstuk 3, afdeling 2, paragraaf 1, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&paragraaf=1) aan de werknemer of de gelijkgestelde, bedoeld in [artikel 3:6, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:6), de [Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822) en de [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394);
 
@@ -57,11 +57,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - f. minimumloon:
 
-- 1°. voor de persoon, bedoeld in [artikel 2, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=1&artikel=2&z=2010-01-01&g=2010-01-01), het minimumloon per maand, bedoeld in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) (Stb. 1968, 657), gedeeld door 21,75, en
+- 1°. voor de persoon, bedoeld in [artikel 2, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=1&artikel=2&z=2011-01-01&g=2011-01-01), het minimumloon per maand, bedoeld in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) (Stb. 1968, 657), gedeeld door 21,75, en
 
-- 2°. voor de persoon, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=1&artikel=2&z=2010-01-01&g=2010-01-01), het voor zijn leeftijd geldende minimumloon per maand, bedoeld in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) in verbinding met [artikel 8, derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8), gedeeld door 21,75;
+- 2°. voor de persoon, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=1&artikel=2&z=2011-01-01&g=2011-01-01), het voor zijn leeftijd geldende minimumloon per maand, bedoeld in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) in verbinding met [artikel 8, derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8), gedeeld door 21,75;
 
-- g. vervolgdagloon: het vervolgdagloon, bedoeld in [artikel 21b van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=21b).
+- g. vervolgdagloon: het vervolgdagloon, bedoeld in [artikel 21b van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=21b);
+
+- h. vrijheidsstraf of vrijheidsbenemende maatregel: een bij onherroepelijk geworden vonnis opgelegde vrijheidsstraf of vrijheidsbenemende maatregel als bedoeld in het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854).
 
 2. Voor de toepassing van deze wet en de daarop berustende bepalingen wordt gelijkgesteld met:
 
@@ -113,15 +115,15 @@ Vervallen
 
 - a. recht heeft op loondervingsuitkering, en
 
-- b. per dag een inkomen heeft dat lager is dan € 59,80per 1 januari 2010: € 64,72.
+- b. per dag een inkomen heeft dat lager is dan € 59,80per 1 januari 2011: € 65,49.
 
 2. Recht op toeslag heeft een ongehuwde, die:
 
 - a. recht heeft op loondervingsuitkering;
 
-- b. een kind heeft jonger dan 18 jaar, dat niet als eigen kind, aangehuwd kind of pleegkind tot het huishouden van een ander behoort en voor wie hij op grond van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) kinderbijslag ontvangt dan wel zal ontvangen, en
+- b. een kind heeft jonger dan 18 jaar, dat niet als eigen kind, aangehuwd kind of pleegkind tot het huishouden van een ander behoort en voor wie aan hem op grond van [artikel 18 van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=18) kinderbijslag wordt betaald, zal worden betaald of zou worden betaald indien [artikel 7, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7) niet van toepassing zou zijn, en
 
-- c. per dag een inkomen heeft dat lager is dan € 54,61per 1 januari 2010: € 61,31.
+- c. per dag een inkomen heeft dat lager is dan € 54,61per 1 januari 2011: € 61,98.
 
 3. Behoudens het vierde lid heeft voorts recht op toeslag een ongehuwde, die:
 
@@ -129,21 +131,21 @@ Vervallen
 
 - b. per dag een inkomen heeft dat lager is dan:
 
-- 1°. indien hij 23 jaar of ouder is: € 46,12per 1 januari 2010: € 49,25;
+- 1°. indien hij 23 jaar of ouder is: € 46,12per 1 januari 2011: € 49,79;
 
-- 2°. indien hij 22 jaar is: € 35,29per 1 januari 2010: € 38,45;
+- 2°. indien hij 22 jaar is: € 35,29per 1 januari 2011: € 39,01;
 
-- 3°. indien hij 21 jaar is: € 29,64per 1 januari 2010: € 32,40;
+- 3°. indien hij 21 jaar is: € 29,64per 1 januari 2011: € 32,81;
 
-- 4°. indien hij 20 jaar is: € 24,76per 1 januari 2010: € 27,05;
+- 4°. indien hij 20 jaar is: € 24,76per 1 januari 2011: € 27,43;
 
-- 5°. indien hij 19 jaar is: € 21,14per 1 januari 2010: € 22,74;
+- 5°. indien hij 19 jaar is: € 21,14per 1 januari 2011: € 23,00;
 
-- 6°. indien hij 18 jaar is: € 19,06per 1 januari 2010: € 19,49.
+- 6°. indien hij 18 jaar is: € 19,06per 1 januari 2011: € 19,72.
 
 4. Geen recht op toeslag heeft de in het derde lid bedoelde ongehuwde, die de leeftijd van 21 jaar nog niet heeft bereikt en behoort tot het huishouden van zijn ouders of pleegouders.
 
-5. Zolang een gehuwde of ongehuwde geen recht heeft op een loondervingsuitkering omdat hem rechtens zijn vrijheid is ontnomen, heeft hij geen recht op toeslag.
+5. Zolang een gehuwde of ongehuwde geen recht heeft op een loondervingsuitkering omdat hem rechtens zijn vrijheid is ontnomen of omdat hij zich onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel, heeft hij geen recht op toeslag.
 
 6. Zolang een gehuwde of ongehuwde de leeftijd van 18 jaar nog niet heeft bereikt, heeft hij geen recht op toeslag.
 
@@ -157,9 +159,9 @@ Geen recht op toeslag heeft de persoon die onbetaald verlof geniet als bedoeld i
 
 ##### Artikel 4a
 
-1. Geen recht op toeslag heeft de persoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=1&artikel=2&z=2010-01-01&g=2010-01-01), gedurende de periode dat hij niet in Nederland woont.
+1. Geen recht op toeslag heeft de persoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=1&artikel=2&z=2011-01-01&g=2011-01-01), gedurende de periode dat hij niet in Nederland woont.
 
-2. De persoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=1&artikel=2&z=2010-01-01&g=2010-01-01), die op grond van het eerste lid geen recht heeft op toeslag, heeft vanaf de dag dat hij in Nederland woont recht op toeslag, indien hij aan de voorwaarden, bedoeld in [artikel 2, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=1&artikel=2&z=2010-01-01&g=2010-01-01), voldoet.
+2. De persoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=1&artikel=2&z=2011-01-01&g=2011-01-01), die op grond van het eerste lid geen recht heeft op toeslag, heeft vanaf de dag dat hij in Nederland woont recht op toeslag, indien hij aan de voorwaarden, bedoeld in [artikel 2, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=1&artikel=2&z=2011-01-01&g=2011-01-01), voldoet.
 
 ##### Artikel 5
 
@@ -175,15 +177,15 @@ Geen recht op toeslag heeft de persoon die onbetaald verlof geniet als bedoeld i
 
 1. Als inkomen wordt aangemerkt:
 
-- a. voor een gehuwde: de som van het inkomen uit of in verband met arbeid in het bedrijfs- en beroepsleven van hemzelf en van zijn echtgenoot;
+- a. voor een gehuwde: de som van het inkomen uit arbeid of overig inkomen van hemzelf en van zijn echtgenoot;
 
-- b. voor een ongehuwde: zijn inkomen uit of in verband met arbeid in het bedrijfs- en beroepsleven.
+- b. voor een ongehuwde: zijn inkomen uit arbeid of overig inkomen.
 
-2. Bij algemene maatregel van bestuur worden nadere en zonodig afwijkende regels gesteld met betrekking tot het inkomen, bedoeld in het eerste lid. Daarbij kunnen tevens nadere regels worden gesteld met betrekking tot de vaststelling van het inkomen, bedoeld in het eerste lid, alsmede de periode waarop die vaststelling betrekking heeft.
+2. Bij algemene maatregel van bestuur wordt bepaald wat onder inkomen uit arbeid of overig inkomen als bedoeld in het eerste lid wordt verstaan. Daarbij kan tevens worden bepaald dat nader te bepalen inkomen dat gedeeltelijk, niet, of niet langer wordt genoten als gevolg van gewijzigde omstandigheden of enig handelen of nalaten van betrokkene in aanmerking wordt genomen alsof het wel volledig wordt genoten.
 
 ##### Artikel 7
 
-1. In afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=1&artikel=6&z=2010-01-01&g=2010-01-01) wordt gedurende een periode van ten hoogste twee jaren van het inkomen uit arbeid buiten aanmerking gelaten:
+1. In afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=1&artikel=6&z=2011-01-01&g=2011-01-01) wordt gedurende een periode van ten hoogste twee jaren van het inkomen uit arbeid buiten aanmerking gelaten:
 
 - a. een bedrag gelijk aan 5% van het minimumloon; alsmede
 
@@ -199,15 +201,15 @@ Geen recht op toeslag heeft de persoon die onbetaald verlof geniet als bedoeld i
 
 ##### Artikel 8
 
-1. Voor de persoon, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=1&artikel=2&z=2010-01-01&g=2010-01-01), is de toeslag gelijk aan het verschil tussen € 59,80per 1 januari 2010: € 64,72 en het inkomen per dag.
+1. Voor de persoon, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=1&artikel=2&z=2011-01-01&g=2011-01-01), is de toeslag gelijk aan het verschil tussen € 59,80per 1 januari 2011: € 65,49 en het inkomen per dag.
 
-2. Voor de persoon, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=1&artikel=2&z=2010-01-01&g=2010-01-01), is de toeslag gelijk aan het verschil tussen € 54,61per 1 januari 2010: € 61,31 en het inkomen per dag.
+2. Voor de persoon, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=1&artikel=2&z=2011-01-01&g=2011-01-01), is de toeslag gelijk aan het verschil tussen € 54,61per 1 januari 2011: € 61,98 en het inkomen per dag.
 
-3. Voor de persoon, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=1&artikel=2&z=2010-01-01&g=2010-01-01), is de toeslag gelijk aan het verschil tussen het in [artikel 2, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=1&artikel=2&z=2010-01-01&g=2010-01-01), bij de leeftijd van die persoon genoemd bedrag en het inkomen per dag.
+3. Voor de persoon, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=1&artikel=2&z=2011-01-01&g=2011-01-01), is de toeslag gelijk aan het verschil tussen het in [artikel 2, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=1&artikel=2&z=2011-01-01&g=2011-01-01), bij de leeftijd van die persoon genoemd bedrag en het inkomen per dag.
 
 ##### Artikel 9
 
-1. De in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=1&artikel=2&z=2010-01-01&g=2010-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=2&artikel=8&z=2010-01-01&g=2010-01-01) genoemde bedragen worden gewijzigd overeenkomstig de wijze en met ingang van de dag waarop de bedragen, genoemd in [hoofdstuk 3 van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3), worden gewijzigd. De herziene bedragen treden voor de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=1&artikel=2&z=2010-01-01&g=2010-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=2&artikel=8&z=2010-01-01&g=2010-01-01) genoemde bedragen in de plaats.
+1. De in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=1&artikel=2&z=2011-01-01&g=2011-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=2&artikel=8&z=2011-01-01&g=2011-01-01) genoemde bedragen worden gewijzigd overeenkomstig de wijze en met ingang van de dag waarop de bedragen, genoemd in [hoofdstuk 3 van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3), worden gewijzigd. De herziene bedragen treden voor de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=1&artikel=2&z=2011-01-01&g=2011-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=2&artikel=8&z=2011-01-01&g=2011-01-01) genoemde bedragen in de plaats.
 
 2. Van de herziene bedragen, bedoeld in het eerste lid, wordt door Onze Minister mededeling gedaan in de Staatscourant.
 
@@ -221,7 +223,7 @@ Geen recht op toeslag heeft de persoon die onbetaald verlof geniet als bedoeld i
 
 3. Indien het percentage van de vakantiebijslag, bedoeld in [artikel 15, eerste lid, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=15) wordt gewijzigd, wordt dit gewijzigde percentage in aanmerking genomen over het bedrag van de toeslag waarop recht bestaat over de periode aanvangende met de dag waarop die wijziging ingaat. Het gewijzigde percentage treedt in de plaats van het in het eerste lid genoemde percentage.
 
-4. Het bepaalde bij of krachtens [de artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=12&z=2010-01-01&g=2010-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=13&z=2010-01-01&g=2010-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=14&z=2010-01-01&g=2010-01-01), [15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=15&z=2010-01-01&g=2010-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=18&z=2010-01-01&g=2010-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=20&z=2010-01-01&g=2010-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=21&z=2010-01-01&g=2010-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=22&z=2010-01-01&g=2010-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=23&z=2010-01-01&g=2010-01-01), [23a](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=23a&z=2010-01-01&g=2010-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=25&z=2010-01-01&g=2010-01-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=III&artikel=27&z=2010-01-01&g=2010-01-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=IV&artikel=29&z=2010-01-01&g=2010-01-01) vindt overeenkomstige toepassing ten aanzien van de vakantie-uitkering.
+4. Het bepaalde bij of krachtens [de artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=12&z=2011-01-01&g=2011-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=13&z=2011-01-01&g=2011-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=14&z=2011-01-01&g=2011-01-01), [15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=15&z=2011-01-01&g=2011-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=18&z=2011-01-01&g=2011-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=20&z=2011-01-01&g=2011-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=21&z=2011-01-01&g=2011-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=22&z=2011-01-01&g=2011-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=23&z=2011-01-01&g=2011-01-01), [23a](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=23a&z=2011-01-01&g=2011-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=25&z=2011-01-01&g=2011-01-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=III&artikel=27&z=2011-01-01&g=2011-01-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=IV&artikel=29&z=2011-01-01&g=2011-01-01) vindt overeenkomstige toepassing ten aanzien van de vakantie-uitkering.
 
 #### § 3. De vakantie-uitkering
 
@@ -243,45 +245,47 @@ Geen recht op toeslag heeft de persoon die onbetaald verlof geniet als bedoeld i
 
 6. De vakantie-uitkering wordt betaald zonder dat dit bij beschikking is vastgesteld.
 
+7. Het recht op toeslag kan niet worden vastgesteld over perioden gelegen voor één jaar voorafgaande aan de dag waarop de aanvraag om toeslag werd ingediend. Het Uitvoeringsinstituut werknemersverzekeringen is bevoegd in bijzondere gevallen af te wijken van de vorige zin.
+
 ##### Artikel 11a
 
 1. Onverminderd het elders in deze wet bepaalde terzake van herziening of intrekking van een besluit tot toekenning van toeslag en terzake van weigering van toeslag, herziet het Uitvoeringsinstituut werknemersverzekeringen een dergelijk besluit of trekt zij dat in:
 
-- a. indien het niet of niet behoorlijk nakomen van een verplichting op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=12&z=2010-01-01&g=2010-01-01) of 13 heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van toeslag;
+- a. indien het niet of niet behoorlijk nakomen van een verplichting op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=12&z=2011-01-01&g=2011-01-01) of 13 heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van toeslag;
 
 - b. indien anderszins de toeslag ten onrechte of tot een te hoog bedrag is verleend;
 
-- c. indien het niet of niet behoorlijk nakomen van een verplichting op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=12&z=2010-01-01&g=2010-01-01) of 13 ertoe leidt dat niet kan worden vastgesteld of nog recht op toeslag bestaat.
+- c. indien het niet of niet behoorlijk nakomen van een verplichting op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=12&z=2011-01-01&g=2011-01-01) of 13 ertoe leidt dat niet kan worden vastgesteld of nog recht op toeslag bestaat.
 
 2. Indien daarvoor dringende redenen aanwezig zijn kan het Uitvoeringsinstituut werknemersverzekeringen besluiten geheel of gedeeltelijk van herziening of intrekking af te zien.
 
 ##### Artikel 12
 
-Degene die aanspraak maakt op toeslag, zijn echtgenoot, of zijn wettelijke vertegenwoordiger, alsmede de instelling aan welke ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=22&z=2010-01-01&g=2010-01-01) toeslag wordt uitbetaald, zijn verplicht aan het Uitvoeringsinstituut werknemersverzekeringen op zijn verzoek of onverwijld uit eigen beweging alle feiten en omstandigheden mee te delen waarvan hem of haar redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op het recht op toeslag, de hoogte van de toeslag, het geldend maken van het recht op toeslag of op het bedrag van de toeslag dat wordt betaald. Deze verplichting geldt niet indien die feiten en omstandigheden door het Uitvoeringsinstituut werknemersverzekeringen kunnen worden vastgesteld op grond van bij wettelijk voorschrift als authentiek aangemerkte gegevens of kunnen worden verkregen uit bij ministeriële regeling aan te wijzen administraties. Bij ministeriële regeling wordt bepaald voor welke gegevens de tweede zin van toepassing is.
+Degene die aanspraak maakt op toeslag, zijn echtgenoot, of zijn wettelijke vertegenwoordiger, alsmede de instelling aan welke ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=22&z=2011-01-01&g=2011-01-01) toeslag wordt uitbetaald, zijn verplicht aan het Uitvoeringsinstituut werknemersverzekeringen op zijn verzoek of onverwijld uit eigen beweging alle feiten en omstandigheden mee te delen waarvan hem of haar redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op het recht op toeslag, de hoogte van de toeslag, het geldend maken van het recht op toeslag of op het bedrag van de toeslag dat wordt betaald. Deze verplichting geldt niet indien die feiten en omstandigheden door het Uitvoeringsinstituut werknemersverzekeringen kunnen worden vastgesteld op grond van bij wettelijk voorschrift als authentiek aangemerkte gegevens of kunnen worden verkregen uit bij ministeriële regeling aan te wijzen administraties. Bij ministeriële regeling wordt bepaald voor welke gegevens de tweede zin van toepassing is.
 
 ##### Artikel 13
 
-Degene die aanspraak maakt op toeslag, zijn echtgenoot, of zijn wettelijke vertegenwoordiger, alsmede de instelling aan welke ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=22&z=2010-01-01&g=2010-01-01) toeslag wordt uitbetaald, zijn verplicht de voorschriften op te volgen, die het Uitvoeringsinstituut werknemersverzekeringen ten behoeve van een doelmatige controle stelt.
+Degene die aanspraak maakt op toeslag, zijn echtgenoot, of zijn wettelijke vertegenwoordiger, alsmede de instelling aan welke ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=22&z=2011-01-01&g=2011-01-01) toeslag wordt uitbetaald, zijn verplicht de voorschriften op te volgen, die het Uitvoeringsinstituut werknemersverzekeringen ten behoeve van een doelmatige controle stelt.
 
 ##### Artikel 14
 
-1. Het Uitvoeringsinstituut werknemersverzekeringen weigert de toeslag tijdelijk of blijvend, geheel of gedeeltelijk ter zake van het niet of niet behoorlijk nakomen door degene die aanspraak maakt op een toeslag, zijn echtgenoot, of zijn wettelijke vertegenwoordiger van een verplichting als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=13&z=2010-01-01&g=2010-01-01) of [artikel 55, tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=55), dan wel ter zake van het niet binnen de door het Uitvoeringsinstituut werknemersverzekeringen, onderscheidenlijk de Centrale organisatie werk en inkomen daarvoor vastgestelde termijn nakomen door genoemde personen van een verplichting als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=12&z=2010-01-01&g=2010-01-01), of in de [artikelen 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=28), en [29, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=29).
+1. Het Uitvoeringsinstituut werknemersverzekeringen weigert de toeslag tijdelijk of blijvend, geheel of gedeeltelijk ter zake van het niet of niet behoorlijk nakomen door degene die aanspraak maakt op een toeslag, zijn echtgenoot, of zijn wettelijke vertegenwoordiger van een verplichting als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=13&z=2011-01-01&g=2011-01-01) of [artikel 55, tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=55), dan wel ter zake van het niet binnen de door het Uitvoeringsinstituut werknemersverzekeringen daarvoor vastgestelde termijn nakomen door genoemde personen van een verplichting als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=12&z=2011-01-01&g=2011-01-01).
 
 2. Een maatregel als bedoeld in het eerste lid wordt afgestemd op de ernst van de gedraging en de mate waarin de belanghebbende de gedraging verweten kan worden. Van het opleggen van een maatregel wordt in elk geval afgezien, indien elke vorm van verwijtbaarheid ontbreekt.
 
-3. Het Uitvoeringsinstituut werknemersverzekeringen kan afzien van het opleggen van een maatregel als bedoeld in het eerste lid en volstaan met het geven van een schriftelijke waarschuwing ter zake van het niet of niet tijdig nakomen van een verplichting als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=12&z=2010-01-01&g=2010-01-01), of de [artikelen 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=28), en [29, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=29) indien dit niet heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van toeslag, tenzij het niet tijdig nakomen van de verplichting plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan degene die aanspraak maakt op toeslag, zijn echtgenoot of zijn wettelijk vertegenwoordiger een zodanige waarschuwing is gegeven.
+3. Het Uitvoeringsinstituut werknemersverzekeringen kan afzien van het opleggen van een maatregel als bedoeld in het eerste lid en volstaan met het geven van een schriftelijke waarschuwing ter zake van het niet of niet tijdig nakomen van een verplichting als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=12&z=2011-01-01&g=2011-01-01), indien dit niet heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van toeslag, tenzij het niet tijdig nakomen van de verplichting plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan degene die aanspraak maakt op toeslag, zijn echtgenoot of zijn wettelijk vertegenwoordiger een zodanige waarschuwing is gegeven.
 
 4. Het Uitvoeringsinstituut werknemersverzekeringen kan afzien van het opleggen van een maatregel indien daarvoor dringende redenen aanwezig zijn.
 
-5. Het opleggen van een maatregel blijft achterwege indien voor dezelfde gedraging een bestuurlijke boete als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=14a&z=2010-01-01&g=2010-01-01) wordt opgelegd.
+5. Het opleggen van een maatregel blijft achterwege indien voor dezelfde gedraging een bestuurlijke boete als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=14a&z=2011-01-01&g=2011-01-01) wordt opgelegd.
 
 6. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot het eerste en tweede lid.
 
 ##### Artikel 14a
 
-1. Het Uitvoeringsinstituut werknemersverzekeringen legt een bestuurlijke boete op van ten hoogste € 2 269 ter zake van het niet of niet behoorlijk nakomen door degene die aanspraak maakt op een toeslag, zijn echtgenoot, of zijn wettelijke vertegenwoordiger van een verplichting als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=12&z=2010-01-01&g=2010-01-01) of in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=28), of [29, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=29).
+1. Het Uitvoeringsinstituut werknemersverzekeringen legt een bestuurlijke boete op van ten hoogste € 2 269 ter zake van het niet of niet behoorlijk nakomen door degene die aanspraak maakt op een toeslag, zijn echtgenoot, of zijn wettelijke vertegenwoordiger van een verplichting als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=12&z=2011-01-01&g=2011-01-01).
 
-2. Het Uitvoeringsinstituut werknemersverzekeringen kan afzien van het opleggen van een bestuurlijke boete als bedoeld in het eerste lid en volstaan met het geven van een schriftelijke waarschuwing ter zake van het niet of niet behoorlijk nakomen van een verplichting als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=12&z=2010-01-01&g=2010-01-01) indien dit niet heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van toeslag, tenzij het niet of niet behoorlijk nakomen van de verplichting plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan degene die aanspraak maakt op toeslag, zijn echtgenoot, of zijn wettelijk vertegenwoordiger, een zodanige waarschuwing is gegeven.
+2. Het Uitvoeringsinstituut werknemersverzekeringen kan afzien van het opleggen van een bestuurlijke boete als bedoeld in het eerste lid en volstaan met het geven van een schriftelijke waarschuwing ter zake van het niet of niet behoorlijk nakomen van een verplichting als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=12&z=2011-01-01&g=2011-01-01) indien dit niet heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van toeslag, tenzij het niet of niet behoorlijk nakomen van de verplichting plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan degene die aanspraak maakt op toeslag, zijn echtgenoot, of zijn wettelijk vertegenwoordiger, een zodanige waarschuwing is gegeven.
 
 3. Het Uitvoeringsinstituut werknemersverzekeringen kan afzien van het opleggen van een bestuurlijke boete indien daarvoor dringende redenen aanwezig zijn.
 
@@ -317,7 +321,7 @@ In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](https://wetten
 
 3. De in [artikel 479g van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=479g) aan de raad voor de kinderbescherming toegekende bevoegdheid komt gelijkelijk toe aan het Uitvoeringsinstituut werknemersverzekeringen. Indien het Uitvoeringsinstituut werknemersverzekeringen gebruik maakt van deze bevoegdheid, geschiedt de bekendmaking van het dwangbevel, in afwijking van [artikel 4:123, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:123), door middel van toezending per post aan degene aan wie de boete is opgelegd.
 
-4. Zolang degene die aanspraak maakt op een toeslag, zijn echtgenoot, of zijn wettelijke vertegenwoordiger zijn verplichting, bedoeld in [artikel 14a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=14a&z=2010-01-01&g=2010-01-01), niet of niet behoorlijk nakomt:
+4. Zolang degene die aanspraak maakt op een toeslag, zijn echtgenoot, of zijn wettelijke vertegenwoordiger zijn verplichting, bedoeld in [artikel 14a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=14a&z=2011-01-01&g=2011-01-01), niet of niet behoorlijk nakomt:
 
 - a. is het Uitvoeringsinstituut werknemersverzekeringen in afwijking van [artikel 4.93, vierde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:93) bevoegd tot verrekening van de bestuurlijke boete voor zover beslag op de vordering van de schuldeiser nietig zou zijn;
 
@@ -337,11 +341,11 @@ In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](https://wetten
 
 5. Onverminderd het eerste tot en met vierde lid vindt betaling plaats:
 
-- a. binnen zes weken na indiening van de aanvraag indien [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=11&z=2010-01-01&g=2010-01-01), van toepassing is;
+- a. binnen zes weken na indiening van de aanvraag indien [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=11&z=2011-01-01&g=2011-01-01), van toepassing is;
 
-- b. bij de eerstvolgende betaling van de toeslag nadat wijziging van het minimumloon heeft plaatsgevonden of tegelijk met de eerstvolgende gewijzigde loondervingsuitkering indien [artikel 11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=11&z=2010-01-01&g=2010-01-01), van toepassing is;
+- b. bij de eerstvolgende betaling van de toeslag nadat wijziging van het minimumloon heeft plaatsgevonden of tegelijk met de eerstvolgende gewijzigde loondervingsuitkering indien [artikel 11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=11&z=2011-01-01&g=2011-01-01), van toepassing is;
 
-- c. tegelijk met de betaling van de vakantie-uitkering op de loondervingsuitkering indien [artikel 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=11&z=2010-01-01&g=2010-01-01), van toepassing is.
+- c. tegelijk met de betaling van de vakantie-uitkering op de loondervingsuitkering indien [artikel 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=11&z=2011-01-01&g=2011-01-01), van toepassing is.
 
 6. Het Uitvoeringsinstituut werknemersverzekeringen schort de betaling van de toeslag op of schorst de betaling, indien het op grond van duidelijke aanwijzingen van oordeel is of het gegronde vermoeden heeft, dat:
 
@@ -349,7 +353,7 @@ In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](https://wetten
 
 - b. recht op een lagere toeslag bestaat, of
 
-- c. degene die aanspraak maakt op toeslag, zijn echtgenoot dan wel de persoon aan wie of de instelling aan welke ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=22&z=2010-01-01&g=2010-01-01) toeslag wordt uitbetaald, een verplichting als bedoeld in [de artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=12&z=2010-01-01&g=2010-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=13&z=2010-01-01&g=2010-01-01) niet is nagekomen.
+- c. degene die aanspraak maakt op toeslag, zijn echtgenoot dan wel de persoon aan wie of de instelling aan welke ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=22&z=2011-01-01&g=2011-01-01) toeslag wordt uitbetaald, een verplichting als bedoeld in [de artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=12&z=2011-01-01&g=2011-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=13&z=2011-01-01&g=2011-01-01) niet is nagekomen.
 
 ##### Artikel 15a
 
@@ -381,11 +385,11 @@ Voor zover bij of krachtens deze wet niet anders is bepaald, wordt een voorschot
 
 De toeslag die niet in ontvangst is genomen of is ingevorderd binnen drie maanden na de dag van betaalbaarstelling, wordt niet meer betaald.
 
-Het Uitvoeringsinstituut werknemersverzekeringen is bevoegd in bijzondere gevallen ten gunste van de toeslaggerechtigde af te wijken van de in [de eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=18&z=2010-01-01&g=2010-01-01) genoemde drie maanden.
+Het Uitvoeringsinstituut werknemersverzekeringen is bevoegd in bijzondere gevallen ten gunste van de toeslaggerechtigde af te wijken van de in [de eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=18&z=2011-01-01&g=2011-01-01) genoemde drie maanden.
 
 ##### Artikel 19
 
-1. Het Uitvoeringsinstituut werknemersverzekeringen betaalt de vakantie-uitkering, voor zover niet reeds eerder betaald, jaarlijks in de maand mei over de aan die maand voorafgaande twaalf maanden.
+1. Het Uitvoeringsinstituut werknemersverzekeringen betaalt de vakantie-uitkering, voor zover niet reeds eerder betaald, jaarlijks in de maand mei over de aan die maand voorafgaande maanden.
 
 2. Het Uitvoeringsinstituut werknemersverzekeringen betaalt de vakantie-uitkering, voor zoveel mogelijk, samen met de vakantie-uitkering over de loondervingsuitkering in één bedrag.
 
@@ -393,7 +397,7 @@ Het Uitvoeringsinstituut werknemersverzekeringen is bevoegd in bijzondere gevall
 
 ##### Artikel 20
 
-1. De toeslag die als gevolg van een besluit als bedoeld in [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=11a&z=2010-01-01&g=2010-01-01) of 14 onverschuldigd is betaald, alsmede hetgeen anderszins onverschuldigd is betaald, wordt door het Uitvoeringsinstituut werknemersverzekeringen teruggevorderd.
+1. De toeslag die als gevolg van een besluit als bedoeld in [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=11a&z=2011-01-01&g=2011-01-01) of 14 onverschuldigd is betaald, alsmede hetgeen anderszins onverschuldigd is betaald, wordt door het Uitvoeringsinstituut werknemersverzekeringen teruggevorderd.
 
 2. In afwijking van het eerste lid kan het Uitvoeringsinstituut werknemersverzekeringen besluiten van terugvordering of van verdere terugvordering af te zien, indien degene van wie wordt teruggevorderd:
 
@@ -409,7 +413,7 @@ Het Uitvoeringsinstituut werknemersverzekeringen is bevoegd in bijzondere gevall
 
 - a. het gemiddeld inkomen van de belanghebbende in die periode de beslagvrije voet bedoeld in de artikelen [475c](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475c) en [475d van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475d) niet te boven is gegaan; en
 
-- b. de terugvordering niet het gevolg is van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=12&z=2010-01-01&g=2010-01-01).
+- b. de terugvordering niet het gevolg is van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=12&z=2011-01-01&g=2011-01-01).
 
 4. Indien daarvoor dringende redenen aanwezig zijn kan het Uitvoeringsinstituut werknemersverzekeringen besluiten geheel of gedeeltelijk van terugvordering af te zien.
 
@@ -419,21 +423,21 @@ Het Uitvoeringsinstituut werknemersverzekeringen is bevoegd in bijzondere gevall
 
 ##### Artikel 20a
 
-1. Het Uitvoeringsinstituut werknemersverzekeringen kan de onverschuldigd betaalde toeslag, bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=20&z=2010-01-01&g=2010-01-01), invorderen bij dwangbevel.
+1. Het Uitvoeringsinstituut werknemersverzekeringen kan de onverschuldigd betaalde toeslag, bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=20&z=2011-01-01&g=2011-01-01), invorderen bij dwangbevel.
 
-2. [Artikel 14g](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=14g&z=2010-01-01&g=2010-01-01) is van overeenkomstige toepassing, met dien verstande dat indien het gemiddeld inkomen van de belanghebbende gedurende drie jaar de beslagvrije voet bedoeld in de [artikelen 475c](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475c) en [475d van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475d) niet te boven is gegaan, het Uitvoeringsinstituut werknemersverzekeringen de aflossingsbedragen lager vaststelt.
+2. [Artikel 14g](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=14g&z=2011-01-01&g=2011-01-01) is van overeenkomstige toepassing, met dien verstande dat indien het gemiddeld inkomen van de belanghebbende gedurende drie jaar de beslagvrije voet bedoeld in de [artikelen 475c](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475c) en [475d van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475d) niet te boven is gegaan, het Uitvoeringsinstituut werknemersverzekeringen de aflossingsbedragen lager vaststelt.
 
 ##### Artikel 20b
 
-1. Bij ministeriële regeling kunnen met betrekking tot [artikel 20, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=20&z=2010-01-01&g=2010-01-01), nadere regels worden gesteld.
+1. Bij ministeriële regeling kunnen met betrekking tot [artikel 20, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=20&z=2011-01-01&g=2011-01-01), nadere regels worden gesteld.
 
 2. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze van tenuitvoerlegging van de beschikking waarbij is vastgesteld dat onverschuldigd is betaald.
 
 ##### Artikel 21
 
-1. In afwijking van [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=20&z=2010-01-01&g=2010-01-01), kan het Uitvoeringsinstituut werknemersverzekeringen, op verzoek van degene die aanspraak maakt op de toeslag, zijn echtgenoot of zijn wettelijke vertegenwoordiger, alsmede de instelling aan welke ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=22&z=2010-01-01&g=2010-01-01) toeslag wordt uitbetaald, besluiten gedeeltelijk van terugvordering of gedeeltelijk van verdere terugvordering af te zien bij medewerking aan een schuldregeling, indien:
+1. In afwijking van [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=20&z=2011-01-01&g=2011-01-01), kan het Uitvoeringsinstituut werknemersverzekeringen, op verzoek van degene die aanspraak maakt op de toeslag, zijn echtgenoot of zijn wettelijke vertegenwoordiger, alsmede de instelling aan welke ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=22&z=2011-01-01&g=2011-01-01) toeslag wordt uitbetaald, besluiten gedeeltelijk van terugvordering of gedeeltelijk van verdere terugvordering af te zien bij medewerking aan een schuldregeling, indien:
 
-- a. redelijkerwijs te voorzien is dat degene die aanspraak maakt op de toeslag, zijn echtgenoot of zijn wettelijke vertegenwoordiger, alsmede de instelling aan welke ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=22&z=2010-01-01&g=2010-01-01) toeslag wordt uitbetaald, niet zal kunnen voortgaan met het betalen van zijn schulden of indien hij in de toestand verkeert dat hij heeft opgehouden te betalen;
+- a. redelijkerwijs te voorzien is dat degene die aanspraak maakt op de toeslag, zijn echtgenoot of zijn wettelijke vertegenwoordiger, alsmede de instelling aan welke ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=22&z=2011-01-01&g=2011-01-01) toeslag wordt uitbetaald, niet zal kunnen voortgaan met het betalen van zijn schulden of indien hij in de toestand verkeert dat hij heeft opgehouden te betalen;
 
 - b. redelijkerwijs te voorzien is dat een schuldregeling met betrekking tot alle vorderingen, behoudens de in het tweede lid bedoelde vorderingen, van de overige schuldeisers zonder een zodanig besluit niet tot stand zal komen;
 
@@ -445,13 +449,13 @@ Het Uitvoeringsinstituut werknemersverzekeringen is bevoegd in bijzondere gevall
 
 - f. uitdeling in het kader van de schuldregeling plaatsvindt overeenkomstig [artikel 349 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=349).
 
-2. Het eerste lid is niet van toepassing indien een vordering is ontstaan door het niet nakomen door degene die aanspraak maakt op de toeslag, zijn echtgenoot of zijn wettelijke vertegenwoordiger, alsmede de instelling aan welke ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=22&z=2010-01-01&g=2010-01-01) toeslag wordt uitbetaald, van de verplichting, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=12&z=2010-01-01&g=2010-01-01), en hiervoor een boete als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=14a&z=2010-01-01&g=2010-01-01) is opgelegd, dan wel met betrekking tot het niet naleven van die verplichting aangifte is gedaan op grond van het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854).
+2. Het eerste lid is niet van toepassing indien een vordering is ontstaan door het niet nakomen door degene die aanspraak maakt op de toeslag, zijn echtgenoot of zijn wettelijke vertegenwoordiger, alsmede de instelling aan welke ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=22&z=2011-01-01&g=2011-01-01) toeslag wordt uitbetaald, van de verplichting, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=12&z=2011-01-01&g=2011-01-01), en hiervoor een boete als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=14a&z=2011-01-01&g=2011-01-01) is opgelegd, dan wel met betrekking tot het niet naleven van die verplichting aangifte is gedaan op grond van het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854).
 
-3. Het besluit tot het afzien van terugvordering of van verdere terugvordering wordt ingetrokken of ten nadele van degene die aanspraak maakt op de toeslag, zijn echtgenoot of zijn wettelijke vertegenwoordiger, alsmede de instelling aan welke ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=22&z=2010-01-01&g=2010-01-01) toeslag wordt uitbetaald, degene van wie wordt teruggevorderd gewijzigd indien:
+3. Het besluit tot het afzien van terugvordering of van verdere terugvordering wordt ingetrokken of ten nadele van degene die aanspraak maakt op de toeslag, zijn echtgenoot of zijn wettelijke vertegenwoordiger, alsmede de instelling aan welke ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=22&z=2011-01-01&g=2011-01-01) toeslag wordt uitbetaald, degene van wie wordt teruggevorderd gewijzigd indien:
 
 - a. niet binnen twaalf maanden nadat dat besluit is bekendgemaakt, een schuldregeling tot stand is gekomen die voldoet aan de eisen, bedoeld in het eerste lid;
 
-- b. degene die aanspraak maakt op de toeslag, zijn echtgenoot of zijn wettelijke vertegenwoordiger, alsmede de instelling aan welke ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=22&z=2010-01-01&g=2010-01-01) toeslag wordt uitbetaald, zijn schuld aan het Uitvoeringsinstituut werknemersverzekeringen niet overeenkomstig de schuldregeling voldoet; of
+- b. degene die aanspraak maakt op de toeslag, zijn echtgenoot of zijn wettelijke vertegenwoordiger, alsmede de instelling aan welke ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=22&z=2011-01-01&g=2011-01-01) toeslag wordt uitbetaald, zijn schuld aan het Uitvoeringsinstituut werknemersverzekeringen niet overeenkomstig de schuldregeling voldoet; of
 
 - c. onjuiste of onvolledige gegevens zijn verstrekt en de verstrekking van juiste of volledige gegevens tot een ander besluit zou hebben geleid.
 
@@ -467,17 +471,17 @@ Indien het Uitvoeringsinstituut werknemersverzekeringen op grond van een wetteli
 
 - a. aan de langstlevende van de echtgenoten;
 
-- b. bij ontstentenis van de in onderdeel **a** bedoelde persoon, aan de minderjarige kinderen tot wie de overledene in familierechtelijke betrekking stond;
+- b. bij ontstentenis van de in onderdeel a bedoelde persoon, aan de minderjarige kinderen tot wie de overledene in familierechtelijke betrekking stond;
 
-- c. bij ontstentenis van de in de onderdelen **a** en **b** bedoelde personen, aan degene ten aanzien van wie de overledene grotendeels in de kosten van het bestaan voorzag en met wie hij in gezinsverband leefde.
+- c. bij ontstentenis van de in de onderdelen a en b bedoelde personen, aan degene met wie de overledene in gezinsverband leefde.
 
-2. Met de toeslaggerechtigde, wordt voor de toepassing van dit artikel gelijkgesteld, degene wiens overlijden heeft plaats gevonden in de maand waarin hij de leeftijd van 65 jaar zou hebben bereikt doch voor het bereiken van deze leeftijd is overleden, en die recht op een toeslag zou hebben gehad indien [artikel 29, negende lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29), [artikel 43, onderdeel f, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=43), [artikel 49, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=49), [artikel 19, eerste lid, onderdeel a, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=19), [artikel 2:11, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:11), of [artikel 3:19, eerste lid, onderdeel a, van de Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:19) over de dag van zijn overlijden niet van toepassing zou zijn geweest.
+2. Met de toeslaggerechtigde, wordt voor de toepassing van dit artikel gelijkgesteld, degene wiens overlijden heeft plaats gevonden in de maand waarin hij de leeftijd van 65 jaar zou hebben bereikt doch voor het bereiken van deze leeftijd is overleden, en die recht op een toeslag zou hebben gehad indien [artikel 29, vierde lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29), [artikel 43, onderdeel f, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=43), [artikel 49, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=49), [artikel 19, eerste lid, onderdeel a, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=19), [artikel 2:11, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:11), of [artikel 3:19, eerste lid, onderdeel a, van de Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:19) over de dag van zijn overlijden niet van toepassing zou zijn geweest.
 
 3. De overlijdensuitkering is gelijk aan het bedrag van de toeslag over één maand, doch niet over de zaterdagen en zondagen, berekend naar de hoogte van die toeslag op de dag of laatstelijk voor de dag van overlijden van de toeslaggerechtigde.
 
 4. Voor de toepassing van het tweede lid, wordt ervan uitgegaan dat aan de verzekerde een toeslag was toegekend.
 
-5. De overlijdensuitkering wordt op verzoek aan de rechthebbende of rechthebbenden genoemd in het eerste lid, door het Uitvoeringsinstituut werknemersverzekeringen uitbetaald.
+5. De overlijdensuitkering wordt ambtshalve of op verzoek aan de rechthebbende of rechthebbenden genoemd in het eerste lid, door het Uitvoeringsinstituut werknemersverzekeringen uitbetaald.
 
 6. De overlijdensuitkering wordt in een bedrag ineens uitbetaald.
 
@@ -505,7 +509,7 @@ Vervallen
 
 ##### Artikel 26
 
-In de middelen tot dekking van de uitgaven ten laste van het Toeslagenfonds wordt voorzien door het Rijk, alsmede door de met toepassing van [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=14a&z=2010-01-01&g=2010-01-01) verkregen bestuurlijke boeten.
+In de middelen tot dekking van de uitgaven ten laste van het Toeslagenfonds wordt voorzien door het Rijk, alsmede door de met toepassing van [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=4&artikel=14a&z=2011-01-01&g=2011-01-01) verkregen bestuurlijke boeten.
 
 ##### Artikel 27
 
@@ -557,17 +561,13 @@ Vervallen
 
 2. Indien een beschikking als bedoeld in het eerste lid niet binnen de toepasselijke termijn kan worden gegeven, wordt dit schriftelijk aan de aanvrager medegedeeld onder vermelding van een zo kort mogelijke termijn waarbinnen de beschikking wel tegemoet kan worden gezien.
 
-3. Indien in verband met het geven van een beschikking als bedoeld in het eerste lid informatie is gevraagd aan een persoon of instantie buiten Nederland en om die reden de beschikking niet binnen de toepasselijke termijn gegeven kan worden, wordt die termijn verlengd met ten hoogste zes maanden en wordt de aanvrager van deze verlenging schriftelijk in kennis gesteld.
-
 ##### Artikel 37
 
-1. Onverminderd [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=V&artikel=36&z=2010-01-01&g=2010-01-01), worden de beschikkingen op grond van deze wet en de daarop berustende bepalingen gegeven binnen een redelijke termijn na ontvangst van de aanvraag.
+1. Onverminderd [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=V&artikel=36&z=2011-01-01&g=2011-01-01), worden de beschikkingen op grond van deze wet en de daarop berustende bepalingen gegeven binnen een redelijke termijn na ontvangst van de aanvraag.
 
 2. De redelijke termijn is in ieder geval verstreken wanneer binnen acht weken na ontvangst van de aanvraag geen beschikking is gegeven, noch een kennisgeving als bedoeld in het derde of vierde lid is gedaan.
 
 3. Indien een beschikking niet binnen de termijn van acht weken kan worden gegeven, wordt die termijn met een redelijke termijn verlengd en wordt de aanvrager daarvan schriftelijk in kennis gesteld.
-
-4. Indien in verband met het geven van een beschikking als bedoeld in het eerste lid informatie is gevraagd aan een persoon of instantie buiten Nederland en om die reden de beschikking niet binnen acht weken gegeven kan worden, wordt die termijn verlengd met ten hoogste zes maanden en wordt de aanvrager van deze verlenging schriftelijk in kennis gesteld.
 
 ##### Artikel 38
 
@@ -577,7 +577,7 @@ Vervallen
 
 ##### Artikel 39
 
-1. Tegen uitspraken van de Centrale Raad van Beroep kan ieder der partijen beroep in cassatie instellen ter zake van schending of verkeerde toepassing van [artikel 1, derde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=I&artikel=1&z=2010-01-01&g=2010-01-01), en de daarop berustende bepalingen.
+1. Tegen uitspraken van de Centrale Raad van Beroep kan ieder der partijen beroep in cassatie instellen ter zake van schending of verkeerde toepassing van [artikel 1, derde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=I&artikel=1&z=2011-01-01&g=2011-01-01), en de daarop berustende bepalingen.
 
 2. Op dit beroep zijn de voorschriften betreffende het beroep in cassatie tegen uitspraken van de gerechtshoven inzake beroepen in belastingzaken van overeenkomstige toepassing, waarbij de Centrale Raad van Beroep de plaats inneemt van een gerechtshof.
 
@@ -597,7 +597,7 @@ Vervallen
 
 ##### Artikel 43
 
-De in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=VI&artikel=40&z=2010-01-01&g=2010-01-01) bedoelde strafbare feiten zijn overtredingen.
+De in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=VI&artikel=40&z=2011-01-01&g=2011-01-01) bedoelde strafbare feiten zijn overtredingen.
 
 ##### Artikel 43a
 
@@ -621,7 +621,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst, en dat al
 
 ##### Artikel 44
 
-Op de persoon die op de dag voorafgaand aan de inwerkingtreding van [artikel 1.10, onderdeel C, van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=1.10) recht had op een toeslag op grond van deze wet blijft tenzij het recht op de uitkering eindigt, [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=2&artikel=8&z=2010-01-01&g=2010-01-01), zoals dat luidde op die dag van toepassing tot een bij ministeriële regeling bepaald tijdstip dat voor verschillende groepen personen verschillend kan worden vastgesteld.
+Op de persoon die op de dag voorafgaand aan de inwerkingtreding van [artikel 1.10, onderdeel C, van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=1.10) recht had op een toeslag op grond van deze wet blijft tenzij het recht op de uitkering eindigt, [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=2&artikel=8&z=2011-01-01&g=2011-01-01), zoals dat luidde op die dag van toepassing tot een bij ministeriële regeling bepaald tijdstip dat voor verschillende groepen personen verschillend kan worden vastgesteld.
 
 ##### Artikel 44
 
@@ -651,11 +651,11 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst, en dat al
 
 1. De toeslag bedraagt niet meer dan het verschil tussen het dagloon, vervolgdagloon of de grondslag waarnaar de loondervingsuitkering is berekend, en de loondervingsuitkering, voor:
 
-- a. de persoon, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=1&artikel=2&z=2010-01-01&g=2010-01-01), indien het dagloon, vervolgdagloon of de grondslag waarnaar de loondervingsuitkering is berekend, lager is dan het minimumloon;
+- a. de persoon, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=1&artikel=2&z=2011-01-01&g=2011-01-01), indien het dagloon, vervolgdagloon of de grondslag waarnaar de loondervingsuitkering is berekend, lager is dan het minimumloon;
 
-- b. de persoon, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=1&artikel=2&z=2010-01-01&g=2010-01-01), indien het dagloon, vervolgdagloon of de grondslag waarnaar de loondervingsuitkering is berekend, lager is dan 90% van het minimumloon;
+- b. de persoon, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=1&artikel=2&z=2011-01-01&g=2011-01-01), indien het dagloon, vervolgdagloon of de grondslag waarnaar de loondervingsuitkering is berekend, lager is dan 90% van het minimumloon;
 
-- c. de persoon, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=1&artikel=2&z=2010-01-01&g=2010-01-01), indien het dagloon, vervolgdagloon of de grondslag waarnaar de loondervingsuitkering is berekend, lager is dan 70% van het minimumloon.
+- c. de persoon, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=1&artikel=2&z=2011-01-01&g=2011-01-01), indien het dagloon, vervolgdagloon of de grondslag waarnaar de loondervingsuitkering is berekend, lager is dan 70% van het minimumloon.
 
 2. Voor de toepassing van het eerste lid wordt de in het dagloon, vervolgdagloon of grondslag waarnaar de loondervingsuitkering is berekend, begrepen vakantiebijslag niet in aanmerking genomen.
 
@@ -699,11 +699,11 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst, en dat al
 
 1. Voor de toepassing van dit artikel wordt onder verordening verstaan: Verordening (EG) nr. 647/2005 van het Europees Parlement en de Raad van 13 april 2005 tot wijziging van Verordening (EEG) nr. 1408/71 van de Raad betreffende de toepassing van de socialezekerheidsregelingen op werknemers en zelfstandigen, alsmede op hun gezinsleden, die zich binnen de Gemeenschap verplaatsen, en van Verordening (EEG) nr. 574/72 van de Raad tot vaststelling van de wijze van toepassing van Verordening (EEG) nr. 1408/71 (PbEU (L 117).
 
-2. Aan de persoon, bedoeld in [artikel 2, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=1&artikel=2&z=2010-01-01&g=2010-01-01), die:
+2. Aan de persoon, bedoeld in [artikel 2, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=1&artikel=2&z=2011-01-01&g=2011-01-01), die:
 
 - a. op de dag voor de inwerkingtreding van de verordening recht op toeslag heeft op grond van artikel 10, eerste lid, van Verordening (EEG) nr. 1408/71 van de Raad van de Europese gemeenschappen van 14 juni 1971 betreffende de toepassing van de socialezekerheidsregelingen op werknemers en zelfstandigen, alsmede op hun gezinsleden, die zich binnen de gemeenschap verplaatsen (PbEG L 149); en
 
-- b. niet in Nederland woont maar wel in een andere lidstaat van de Europese Unie, in een land aangesloten bij de Europese Economische Ruimte dan wel in Zwitserland, wordt in afwijking van [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=1&artikel=4a&z=2010-01-01&g=2010-01-01):
+- b. niet in Nederland woont maar wel in een andere lidstaat van de Europese Unie, in een land aangesloten bij de Europese Economische Ruimte dan wel in Zwitserland, wordt in afwijking van [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=1&artikel=4a&z=2011-01-01&g=2011-01-01):
 
 - 1°. vanaf de datum van inwerkingtreding van de verordening tot en met een jaar na het tijdstip van inwerkingtreding van de wet waarbij dit artikel in deze wet is ingevoegd het bedrag uitbetaald waarop recht zou bestaan indien betrokkene in Nederland zou wonen;
 
@@ -715,7 +715,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst, en dat al
 
 ##### Artikel 21a
 
-Een vordering van het Uitvoeringsinstituut werknemersverzekeringen als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=20&z=2010-01-01&g=2010-01-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=21&z=2010-01-01&g=2010-01-01) van deze wet is bevoorrecht en volgt onmiddellijk na de vorderingen uit [artikel 288 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=288).
+Een vordering van het Uitvoeringsinstituut werknemersverzekeringen als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=20&z=2011-01-01&g=2011-01-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=5&artikel=21&z=2011-01-01&g=2011-01-01) van deze wet is bevoorrecht en volgt onmiddellijk na de vorderingen uit [artikel 288 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=288).
 
 ### Hoofdstuk III. Financiering
 
@@ -751,6 +751,6 @@ Geen recht op toeslag heeft de persoon die inkomensondersteuning als bedoeld in 
 
 ##### Artikel 44c
 
-[Artikel 1, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=I&artikel=1&z=2010-01-01&g=2010-01-01), is niet van toepassing indien voor de inwerkingtreding van deze artikelleden op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=1&artikel=2&z=2010-01-01&g=2010-01-01) recht bestaat op toeslag omdat de ongehuwde toeslaggerechtigde wegens een gezamenlijke huishouding met een meerderjarig aangehuwd kind of een meerderjarig voormalig pleegkind is aangemerkt als gehuwd, voor zolang dit recht op toeslag bestaat, tenzij toepassing van de genoemde artikelleden leidt tot een hogere toeslag.
+[Artikel 1, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=I&artikel=1&z=2011-01-01&g=2011-01-01), is niet van toepassing indien voor de inwerkingtreding van deze artikelleden op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II&paragraaf=1&artikel=2&z=2011-01-01&g=2011-01-01) recht bestaat op toeslag omdat de ongehuwde toeslaggerechtigde wegens een gezamenlijke huishouding met een meerderjarig aangehuwd kind of een meerderjarig voormalig pleegkind is aangemerkt als gehuwd, voor zolang dit recht op toeslag bestaat, tenzij toepassing van de genoemde artikelleden leidt tot een hogere toeslag.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
