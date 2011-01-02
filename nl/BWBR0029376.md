@@ -4,7 +4,7 @@ identifier: "BWBR0029376"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-04-01"
-last_updated: "2010-09-30"
+last_updated: "2011-01-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029376"
 soort: "ministeriele-regeling"
@@ -92,15 +92,15 @@ In afwijking van hetgeen daarover in [artikel 3.10 van de Regeling zorgverzekeri
 
 - 3. Van de kostencomponent van niet-onderhandelbare dbc-tarieven in algemene en academische ziekenhuizen, alsmede van het Oogziekenhuis, merkt het College zorgverzekeringen een door hem per ziekenhuis vast te stellen percentage aan als vaste kosten van ziekenhuisverpleging.
 
-- 4. Het percentage per ziekenhuis, bedoeld in het derde lid, is gelijk aan 100 minus het percentage, bedoeld in [artikel IV, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029376&artikel=IV&z=2011-01-02&g=2010-09-30).
+- 4. Het percentage per ziekenhuis, bedoeld in het derde lid, is gelijk aan 100 minus het percentage, bedoeld in [artikel IV, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029376&artikel=IV&z=2011-01-02&g=2011-01-02).
 
 - 5. Van de kostencomponent van de kosten van dbc’s, geleverd door instellingen die meedoen aan experimenten in de zin van de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078), die niet vallen onder de reguliere onderhandelbare dbc’s, merkt het College zorgverzekeringen een door hem per ziekenhuis vast te stellen percentage aan als vaste kosten van ziekenhuisverpleging.
 
-- 6. Het percentage per instelling, bedoeld in het vijfde lid, is gelijke aan 100 minus het percentage, bedoeld in [artikel IV, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029376&artikel=IV&z=2011-01-02&g=2010-09-30).
+- 6. Het percentage per instelling, bedoeld in het vijfde lid, is gelijke aan 100 minus het percentage, bedoeld in [artikel IV, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029376&artikel=IV&z=2011-01-02&g=2011-01-02).
 
 - 7. Het College zorgverzekeringen merkt de kostencomponent van de vaste bedragen ter verrekening van de in 2007 gerealiseerde opbrengsresultaten voor een door hem per instelling voor medisch specialistische zorg vast te stellen percentage aan als vaste kosten van ziekenhuisverpleging.
 
-- 8. Het percentage per instelling, bedoeld in het zevende lid, is gelijk aan 100 minus het percentage, bedoeld in [artikel IV, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029376&artikel=IV&z=2011-01-02&g=2010-09-30).
+- 8. Het percentage per instelling, bedoeld in het zevende lid, is gelijk aan 100 minus het percentage, bedoeld in [artikel IV, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029376&artikel=IV&z=2011-01-02&g=2011-01-02).
 
 - 9. Het College zorgverzekeringen merkt 25 procent van de kostencomponent van de niet-onderhandelbare dbc-tarieven van instellingen dan wel zorgverleners die niet genoemd zijn in het derde lid aan als vaste kosten van ziekenhuisverpleging.
 
@@ -150,15 +150,15 @@ In afwijking van hetgeen daarover in [artikel 3.10 van de Regeling zorgverzekeri
 
 - 2. Van de kostencomponent van de niet-onderhandelbare dbc-tarieven in algemene en academische ziekenhuizen, alsmede van het Oogziekenhuis, merkt het College zorgverzekeringen een door hem per ziekenhuis vast te stellen percentage aan als vaste kosten van ziekenhuisverpleging.
 
-- 3. Het percentage per ziekenhuis, bedoeld in het tweede lid, is gelijk aan 100 minus het percentage, bedoeld in [artikel VI, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029376&artikel=VI&z=2011-01-02&g=2010-09-30).
+- 3. Het percentage per ziekenhuis, bedoeld in het tweede lid, is gelijk aan 100 minus het percentage, bedoeld in [artikel VI, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029376&artikel=VI&z=2011-01-02&g=2011-01-02).
 
 - 4. Van de kostencomponent van de kosten van dbc’s, geleverd door instellingen die meedoen aan experimenten in de zin van de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078), die niet vallen onder de reguliere onderhandelbare dbc’s, merkt het College zorgverzekeringen een door hem per ziekenhuis vast te stellen percentage aan als vaste kosten van ziekenhuisverpleging.
 
-- 5. Het percentage per instelling, bedoeld in het vierde lid, is gelijke aan 100 minus het percentage, bedoeld in [artikel VI, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029376&artikel=VI&z=2011-01-02&g=2010-09-30).
+- 5. Het percentage per instelling, bedoeld in het vierde lid, is gelijke aan 100 minus het percentage, bedoeld in [artikel VI, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029376&artikel=VI&z=2011-01-02&g=2011-01-02).
 
 - 6. Het College zorgverzekeringen merkt de kostencomponent van de vaste bedragen ter verrekening van de in 2008 gerealiseerde opbrengsresultaten voor een door hem per instelling voor medisch specialistische zorg vast te stellen percentage aan als vaste kosten van ziekenhuisverpleging.
 
-- 7. Het percentage per instelling, bedoeld in het zesde lid, is gelijk aan 100 minus het percentage, bedoeld in [artikel VI, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029376&artikel=VI&z=2011-01-02&g=2010-09-30).
+- 7. Het percentage per instelling, bedoeld in het zesde lid, is gelijk aan 100 minus het percentage, bedoeld in [artikel VI, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029376&artikel=VI&z=2011-01-02&g=2011-01-02).
 
 - 8. Het College zorgverzekeringen merkt 25 procent van de kostencomponent van de niet-onderhandelbare dbc-tarieven van instellingen dan wel zorgverleners die niet genoemd zijn in het tweede lid aan als vaste kosten van ziekenhuisverpleging.
 
@@ -220,7 +220,7 @@ In afwijking van hetgeen daarover in [artikel 3.15 van de Regeling zorgverzekeri
 
 ##### Artikel X
 
-In afwijking van hetgeen daarover in [artikel 3.16 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.16) zoals dat met betrekking tot het jaar 2009 gold, was geregeld, wordt het antwoord op de vraag of daar bedoelde nacalculatie dient plaats te vinden niet mede bepaald aan de hand van toepassing van het tiende lid van [artikel 3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.15), maar aan de hand van toepassing van het [elfde lid van artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0029376&artikel=IX&z=2011-01-02&g=2010-09-30).
+In afwijking van hetgeen daarover in [artikel 3.16 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.16) zoals dat met betrekking tot het jaar 2009 gold, was geregeld, wordt het antwoord op de vraag of daar bedoelde nacalculatie dient plaats te vinden niet mede bepaald aan de hand van toepassing van het tiende lid van [artikel 3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.15), maar aan de hand van toepassing van het [elfde lid van artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0029376&artikel=IX&z=2011-01-02&g=2011-01-02).
 
 ##### Artikel XI
 
@@ -232,15 +232,15 @@ In afwijking van hetgeen daarover in [artikel 3.17 van de Regeling zorgverzekeri
 
 - 3. Van de kostencomponent van niet-onderhandelbare dbc-tarieven in algemene en academische ziekenhuizen, alsmede van het Oogziekenhuis, merkt het College zorgverzekeringen een door hem per ziekenhuis vast te stellen percentage aan als vaste kosten van ziekenhuisverpleging.
 
-- 4. Het percentage per ziekenhuis, bedoeld in het derde lid, is gelijk aan 100 minus het percentage, bedoeld in [artikel IX, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029376&artikel=IX&z=2011-01-02&g=2010-09-30).
+- 4. Het percentage per ziekenhuis, bedoeld in het derde lid, is gelijk aan 100 minus het percentage, bedoeld in [artikel IX, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029376&artikel=IX&z=2011-01-02&g=2011-01-02).
 
 - 5. Van de kostencomponent van de kosten van dbc’s, geleverd door instellingen die meedoen aan experimenten in de zin van de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) en die niet zijn bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.1) zoals dat met betrekking tot 2009 gold, merkt het College zorgverzekeringen een door hem per ziekenhuis vast te stellen percentage aan als vaste kosten van ziekenhuisverpleging.
 
-- 6. Het percentage per instelling, bedoeld in het vijfde lid, is gelijk aan 100 minus het percentage, bedoeld in [artikel IX, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029376&artikel=IX&z=2011-01-02&g=2010-09-30).
+- 6. Het percentage per instelling, bedoeld in het vijfde lid, is gelijk aan 100 minus het percentage, bedoeld in [artikel IX, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029376&artikel=IX&z=2011-01-02&g=2011-01-02).
 
 - 7. Het College zorgverzekeringen merkt de kostencomponent van de vaste bedragen ter verrekening van de opbrengsresultaten in 2009 voor een door hem per instelling voor medisch specialistische zorg vast te stellen percentage aan als vaste kosten van ziekenhuisverpleging.
 
-- 8. Het percentage per instelling, bedoeld in het zevende lid, is gelijk aan 100 minus het percentage, bedoeld in [artikel IX, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029376&artikel=IX&z=2011-01-02&g=2010-09-30).
+- 8. Het percentage per instelling, bedoeld in het zevende lid, is gelijk aan 100 minus het percentage, bedoeld in [artikel IX, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029376&artikel=IX&z=2011-01-02&g=2011-01-02).
 
 - 9. Het College zorgverzekeringen merkt 25 procent van de kostencomponent van niet-onderhandelbare dbc-tarieven van instellingen, dan wel zorgverleners, die niet bedoeld zijn in het derde of vijfde lid, aan als vaste kosten van ziekenhuisverpleging.
 
@@ -274,7 +274,7 @@ Wijzigt de Wijzigingsregeling Regeling zorgverzekering (vereveningsbijdrage zorg
 
 ##### Artikel XIV
 
-[Hoofdstuk 3 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=3), zoals dat na toepassing van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0029376&artikel=I&z=2011-01-02&g=2010-09-30) juncto [XV, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029376&artikel=XV&z=2011-01-02&g=2010-09-30), luidde op de dag voor de inwerkingtreding van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0029376&artikel=II&z=2011-01-02&g=2010-09-30), blijft van toepassing voor de vaststelling van de voor zorgverzekeraars geldende vereveningsbijdragen over 2010.
+[Hoofdstuk 3 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=3), zoals dat na toepassing van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0029376&artikel=I&z=2011-01-02&g=2011-01-02) juncto [XV, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029376&artikel=XV&z=2011-01-02&g=2011-01-02), luidde op de dag voor de inwerkingtreding van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0029376&artikel=II&z=2011-01-02&g=2011-01-02), blijft van toepassing voor de vaststelling van de voor zorgverzekeraars geldende vereveningsbijdragen over 2010.
 
 ##### Artikel XV
 
@@ -282,6 +282,6 @@ Wijzigt de Wijzigingsregeling Regeling zorgverzekering (vereveningsbijdrage zorg
 
 2. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 28 september 2010 werkt deze regeling terug tot en met 30 september 2010.
 
-3. [Artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0029376&artikel=I&z=2011-01-02&g=2010-09-30) werkt terug tot en met 1 januari 2010.
+3. [Artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0029376&artikel=I&z=2011-01-02&g=2011-01-02) werkt terug tot en met 1 januari 2010.
 
 Deze Regeling zal met de toelichting in de Staatscourant worden geplaatst.
