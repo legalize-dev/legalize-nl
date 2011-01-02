@@ -4,7 +4,7 @@ identifier: "BWBR0029688"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2011-11-11"
-last_updated: "2011-01-01"
+last_updated: "2011-01-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029688"
 soort: "ministeriele-regeling-BES"
@@ -64,13 +64,13 @@ Het bedrag, bedoeld in [artikel 97, derde lid, onder c, van de wet](onbekend) wo
 
 ##### Artikel 4. Aanvullende bekostiging: het overgangsbudget
 
-1. Het bevoegd gezag ontvangt voor een school aanvullende bekostiging indien de som van de bedragen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029688&artikel=2&z=2011-03-08&g=2011-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0029688&artikel=3&z=2011-03-08&g=2011-01-01), voor de school minder bedraagt dan de uitgaven voor de materiële instandhouding van het jaar 2009 van die school zoals deze naar het oordeel van de minister worden vastgesteld.
+1. Het bevoegd gezag ontvangt voor een school aanvullende bekostiging indien de som van de bedragen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029688&artikel=2&z=2011-03-08&g=2011-01-02) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0029688&artikel=3&z=2011-03-08&g=2011-01-02), voor de school minder bedraagt dan de uitgaven voor de materiële instandhouding van het jaar 2009 van die school zoals deze naar het oordeel van de minister worden vastgesteld.
 
-2. De aanvullende bekostiging bedraagt het verschil tussen de materiële uitgaven van het jaar 2009 van de school zoals deze naar het oordeel van de minister zijn vastgesteld en de voor de school op grond van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029688&artikel=2&z=2011-03-08&g=2011-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0029688&artikel=3&z=2011-03-08&g=2011-01-01) berekende aanvullende bekostiging.
+2. De aanvullende bekostiging bedraagt het verschil tussen de materiële uitgaven van het jaar 2009 van de school zoals deze naar het oordeel van de minister zijn vastgesteld en de voor de school op grond van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029688&artikel=2&z=2011-03-08&g=2011-01-02) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0029688&artikel=3&z=2011-03-08&g=2011-01-02) berekende aanvullende bekostiging.
 
 ##### Artikel 5. Aanvullende bekostiging: verhoging met 5%
 
-De bijzondere bekostiging bedraagt 5% van de bekostiging, berekend met in achtneming van de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029688&artikel=2&z=2011-03-08&g=2011-01-01).
+De bijzondere bekostiging bedraagt 5% van de bekostiging, berekend met in achtneming van de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029688&artikel=2&z=2011-03-08&g=2011-01-02).
 
 ##### Artikel 6. Inwerkingtreding
 
@@ -79,5 +79,33 @@ De regeling treedt in werking met ingang van de dag na de dagtekening van de Sta
 ##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling vaststelling bedragen materiële instandhouding primair onderwijs BES 2011.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 5a. Aanvullende bekostiging in verband met afschrijving eerste inrichting
+
+1. Het bevoegd gezag van een school ontvangt aanvullende bekostiging voor de afschrijving van de eerste inrichting.
+
+2. De aanvullende bekostiging is als volgt opgebouwd:
+
+- a. een vast bedrag per school van USD 59,106.77;
+
+- b. vermeerderd met een bedrag per leerling van USD 930.45;
+
+- c. vermeerderd meteen bedrag van USD 79,184.72 voor het onderwijs in lichamelijke opvoeding;
+
+- d. verminderd met de kosten voor (remediërend) lesmateriaal dat het bevoegd gezag in 2009 en 2010 heeft ontvangen.
+
+3. In verband met de bijzondere leerlingpopulatie van de Skol Watapana te Bonaire is, in afwijking van het tweede lid, de aanvullende bekostiging aan het bevoegd gezag van deze school als volgt opgebouwd:
+
+- a. een vast bedrag per school van USD 125,403.35;
+
+- b. vermeerderd met een bedrag per leerling van USD 962.61;
+
+- c. vermeerderd meteen bedrag van USD 79,184.72 voor het onderwijs in lichamelijke opvoeding;
+
+- d. verminderd met de kosten voor (remediërend) lesmateriaal dat het bevoegd gezag in 2009 en 2010 heeft ontvangen.
+
+4. De aanvullende bekostiging bedoeld in dit artikel wordt in november 2011 in één termijn betaald.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
