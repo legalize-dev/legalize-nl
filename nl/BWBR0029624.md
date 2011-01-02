@@ -4,7 +4,7 @@ identifier: "BWBR0029624"
 country: "nl"
 rank: "zbo"
 publication_date: "2012-10-03"
-last_updated: "2010-10-04"
+last_updated: "2011-01-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029624"
 soort: "zbo"
@@ -172,9 +172,9 @@ Wanneer van een verzekerde geen Nederlandse postcode bekend is – ondanks inspa
 
 - c. Het college hanteert een drempel van meer dan 180 standaarddagdoseringen. Beneden deze drempel kent het college geen FKG aan een verzekerde toe.
 
-- d. Het college koppelt de opgave onder a met behulp van het gepseudonimiseerde burgerservicenummer aan het persoonskenmerkenbestand 2010 en bepaalt op basis hiervan en met behulp van de drempel onder c per verzekerde in welke FKG klasse en FKG GGZ klasse de verzekerde valt. Aan de verzekerde koppelt het college een zwaarte van 1 voor de betreffende klasse, met inachtneming van het bepaalde met betrekking tot de samenloop van FKG’s, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=I&artikel=5&z=2011-02-20&g=2010-10-04). Het college zet verzekerden die in het persoonskenmerkenbestand 2010 voor het eerst voorkomen per FKG op de gemiddelde prevalentie van de overige verzekerden in het persoonskenmerkenbestand naar risicoklasse naar leeftijd en geslacht.
+- d. Het college koppelt de opgave onder a met behulp van het gepseudonimiseerde burgerservicenummer aan het persoonskenmerkenbestand 2010 en bepaalt op basis hiervan en met behulp van de drempel onder c per verzekerde in welke FKG klasse en FKG GGZ klasse de verzekerde valt. Aan de verzekerde koppelt het college een zwaarte van 1 voor de betreffende klasse, met inachtneming van het bepaalde met betrekking tot de samenloop van FKG’s, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=I&artikel=5&z=2011-02-20&g=2011-01-02). Het college zet verzekerden die in het persoonskenmerkenbestand 2010 voor het eerst voorkomen per FKG op de gemiddelde prevalentie van de overige verzekerden in het persoonskenmerkenbestand naar risicoklasse naar leeftijd en geslacht.
 
-- e. Vervolgens past het college per verzekerde per FKG 2011 en per FKG GGZ 2011 een ophoogfactor toe voor de geraamde prevalentieontwikkeling, zoals weergegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=1&z=2011-02-20&g=2010-10-04) van deze beleidsregels. Het college vermenigvuldigt de zwaarte, bepaald onder d, met de prevalentieontwikkeling en berekent de uiteindelijke zwaarte voor de verzekerde voor de betreffende klasse.
+- e. Vervolgens past het college per verzekerde per FKG 2011 en per FKG GGZ 2011 een ophoogfactor toe voor de geraamde prevalentieontwikkeling, zoals weergegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=1&z=2011-02-20&g=2011-01-02) van deze beleidsregels. Het college vermenigvuldigt de zwaarte, bepaald onder d, met de prevalentieontwikkeling en berekent de uiteindelijke zwaarte voor de verzekerde voor de betreffende klasse.
 
 - f. Als een verzekerde niet in een FKG 1 t/m 23 2011 valt, deelt het college deze verzekerde per zorgverzekeraar in bij FKG 0 geen FKG. Als een verzekerde niet in de FKG GGZ 1 valt, deelt het college deze verzekerde per zorgverzekeraar in bij FKG GGZ 0 geen FKG GGZ.
 
@@ -194,7 +194,7 @@ Wanneer van een verzekerde geen Nederlandse postcode bekend is – ondanks inspa
 
 13. Het college bepaalt per zorgverzekeraar het geraamde aantal verzekerden voor de normatieve eigen risico opbrengst als volgt:
 
-- a. Het college bepaalt per zorgverzekeraar op basis van het persoonskenmerkenbestand 2010, het elfde lid en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=I&artikel=5&z=2011-02-20&g=2010-10-04), het geraamde aantal verzekerden van 18 jaar en ouder 2011 met een FKG 1 tot en met 23 2011.
+- a. Het college bepaalt per zorgverzekeraar op basis van het persoonskenmerkenbestand 2010, het elfde lid en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=I&artikel=5&z=2011-02-20&g=2011-01-02), het geraamde aantal verzekerden van 18 jaar en ouder 2011 met een FKG 1 tot en met 23 2011.
 
 - b. Het college bepaalt het aantal verzekerden per zorgverzekeraar van 18 jaar en ouder zonder een FKG 1 tot en met 23 2011. Per voornoemde verzekerde bepaalt het college op basis van het achtste en het elfde lid welke zwaarte deze verzekerde heeft voor de risicoklasse naar leeftijd en geslacht, aard van het inkomenklasse en regioklasse.
 
@@ -204,17 +204,17 @@ Wanneer van een verzekerde geen Nederlandse postcode bekend is – ondanks inspa
 
 1. Voor de verdeling van het macro-deelbedrag kosten van B-dbc’s hanteert het college de volgende gewichten als uitgangspunten:
 
-- a. de gewichten kosten van B-dbc’s per verzekerde per risicoklasse 2011 naar leeftijd en geslacht, genoemd in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=3&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- a. de gewichten kosten van B-dbc’s per verzekerde per risicoklasse 2011 naar leeftijd en geslacht, genoemd in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=3&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- b. de gewichten kosten van B-dbc’s per verzekerde per FKG 0 tot en met 23 2011, genoemd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=4&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- b. de gewichten kosten van B-dbc’s per verzekerde per FKG 0 tot en met 23 2011, genoemd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=4&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- c. de gewichten kosten van B-dbc’s per verzekerde per DKG 0 tot en met 13 2011, genoemd in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=5&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- c. de gewichten kosten van B-dbc’s per verzekerde per DKG 0 tot en met 13 2011, genoemd in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=5&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- d. de gewichten kosten van B-dbc’s per verzekerde per aard van het inkomenklasse 2011, genoemd in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=6&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- d. de gewichten kosten van B-dbc’s per verzekerde per aard van het inkomenklasse 2011, genoemd in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=6&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- e. de gewichten kosten van B-dbc’s per verzekerde per regioklasse 2011, genoemd in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=7&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- e. de gewichten kosten van B-dbc’s per verzekerde per regioklasse 2011, genoemd in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=7&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- f. de gewichten kosten van B-dbc’s per verzekerde per sociaal economische statusklasse 2011, genoemd in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=8&z=2011-02-20&g=2010-10-04) van deze beleidsregels.
+- f. de gewichten kosten van B-dbc’s per verzekerde per sociaal economische statusklasse 2011, genoemd in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=8&z=2011-02-20&g=2011-01-02) van deze beleidsregels.
 
 2. Het college vermenigvuldigt de gewichten kosten van B-dbc’s per verzekerde per risicoklasse naar leeftijd en geslacht 2011 per overeenkomstige risicoklasse met het per zorgverzekeraar geraamde aantal verzekerden per risicoklasse naar leeftijd en geslacht 2011. De uitkomsten worden per zorgverzekeraar gesommeerd.
 
@@ -236,17 +236,17 @@ De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het result
 
 1. Voor de verdeling van het macro-deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp hanteert het college de volgende gewichten als uitgangspunten:
 
-- a. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per risicoklasse 2011 naar leeftijd en geslacht, genoemd in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=9&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- a. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per risicoklasse 2011 naar leeftijd en geslacht, genoemd in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=9&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- b. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per FKG 0 tot en met 23 2011, genoemd in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=10&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- b. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per FKG 0 tot en met 23 2011, genoemd in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=10&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- c. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per DKG 0 tot en met 13 2011, genoemd in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=11&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- c. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per DKG 0 tot en met 13 2011, genoemd in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=11&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- d. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per aard van het inkomenklasse 2011, genoemd in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=12&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- d. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per aard van het inkomenklasse 2011, genoemd in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=12&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- e. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per regioklasse 2011, genoemd in [bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=13&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- e. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per regioklasse 2011, genoemd in [bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=13&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- f. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per sociaal economische statusklasse 2011, genoemd in [bijlage 14](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=14&z=2011-02-20&g=2010-10-04) van deze beleidsregels.
+- f. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per sociaal economische statusklasse 2011, genoemd in [bijlage 14](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=14&z=2011-02-20&g=2011-01-02) van deze beleidsregels.
 
 2. Het college vermenigvuldigt de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per risicoklasse naar leeftijd en geslacht 2011 per overeenkomstige risicoklasse met het per zorgverzekeraar geraamde aantal verzekerden per risicoklasse naar leeftijd en geslacht 2011. De uitkomsten worden per zorgverzekeraar gesommeerd.
 
@@ -284,23 +284,23 @@ De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het result
 
 1. Voor de verdeling van het macro-deelbedrag geneeskundige geestelijke gezondheidszorg hanteert het college als uitgangspunten:
 
-- a. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per risicoklasse 2011 naar leeftijd en geslacht, genoemd in [bijlage 15](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=15&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- a. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per risicoklasse 2011 naar leeftijd en geslacht, genoemd in [bijlage 15](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=15&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- b. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde naar FKG GGZ 2011, genoemd in [bijlage 16](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=16&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- b. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde naar FKG GGZ 2011, genoemd in [bijlage 16](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=16&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- c. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per aard van het inkomenklasse 2011, genoemd in [bijlage 17](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=17&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- c. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per aard van het inkomenklasse 2011, genoemd in [bijlage 17](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=17&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- d. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per GGZ-regioklasse 2011, genoemd in [bijlage 18](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=18&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- d. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per GGZ-regioklasse 2011, genoemd in [bijlage 18](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=18&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- e. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per sociaal economische statusklasse 2011, genoemd in [bijlage 19](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=19&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- e. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per sociaal economische statusklasse 2011, genoemd in [bijlage 19](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=19&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- f. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per éénpersoonsadresklasse 2011, genoemd in [bijlage 20](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=20&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- f. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per éénpersoonsadresklasse 2011, genoemd in [bijlage 20](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=20&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- g. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per geneeskundige GGZ kosten lage drempelklasse, genoemd in [bijlage 21](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=21&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- g. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per geneeskundige GGZ kosten lage drempelklasse, genoemd in [bijlage 21](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=21&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- h. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per geneeskundige GGZ kosten hoge drempelklasse, genoemd in [bijlage 22](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=22&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- h. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per geneeskundige GGZ kosten hoge drempelklasse, genoemd in [bijlage 22](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=22&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- i. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per jonger dan 18 jaarklasse, genoemd in [bijlage 23](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=23&z=2011-02-20&g=2010-10-04) van deze beleidsregels.
+- i. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per jonger dan 18 jaarklasse, genoemd in [bijlage 23](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=23&z=2011-02-20&g=2011-01-02) van deze beleidsregels.
 
 2. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per risicoklasse 2011 naar leeftijd en geslacht worden per overeenkomstige risicoklasse vermenigvuldigd met het per zorgverzekeraar geraamde aantal verzekerden van 18 jaar en ouder per risicoklasse naar leeftijd en geslacht 2011. De uitkomsten worden per zorgverzekeraar gesommeerd.
 
@@ -326,17 +326,17 @@ De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het result
 
 1. Voor de verdeling van het macro-deelbedrag kosten van overige prestaties hanteert het college als uitgangspunten:
 
-- a. De gewichten kosten van overige prestaties per verzekerde per risicoklasse 2011 naar leeftijd en geslacht, genoemd in [bijlage 24](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=24&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- a. De gewichten kosten van overige prestaties per verzekerde per risicoklasse 2011 naar leeftijd en geslacht, genoemd in [bijlage 24](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=24&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- b. De gewichten kosten van overige prestaties per verzekerde per FKG 0 tot en met 23 2011, genoemd in [bijlage 25](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=25&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- b. De gewichten kosten van overige prestaties per verzekerde per FKG 0 tot en met 23 2011, genoemd in [bijlage 25](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=25&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- c. De gewichten kosten van overige prestaties per verzekerde per DKG 0 tot en met 13 2011, genoemd in [bijlage 26](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=26&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- c. De gewichten kosten van overige prestaties per verzekerde per DKG 0 tot en met 13 2011, genoemd in [bijlage 26](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=26&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- d. De gewichten kosten van overige prestaties per verzekerde per aard van het inkomenklasse 2011, genoemd in [bijlage 27](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=27&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- d. De gewichten kosten van overige prestaties per verzekerde per aard van het inkomenklasse 2011, genoemd in [bijlage 27](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=27&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- e. De gewichten kosten van overige prestaties per verzekerde per regioklasse 2011, genoemd in [bijlage 28](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=28&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- e. De gewichten kosten van overige prestaties per verzekerde per regioklasse 2011, genoemd in [bijlage 28](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=28&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- f. De gewichten kosten van overige prestaties per verzekerde per sociaal economische statusklasse 2011, genoemd in [bijlage 29](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=29&z=2011-02-20&g=2010-10-04) van deze beleidsregels.
+- f. De gewichten kosten van overige prestaties per verzekerde per sociaal economische statusklasse 2011, genoemd in [bijlage 29](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=29&z=2011-02-20&g=2011-01-02) van deze beleidsregels.
 
 2. De gewichten kosten van de overige prestaties per verzekerde per risicoklasse naar leeftijd en geslacht 2011 worden per overeenkomstige risicoklasse vermenigvuldigd met het per zorgverzekeraar geraamde aantal verzekerden per risicoklasse naar leeftijd en geslacht 2011. De uitkomsten worden per zorgverzekeraar gesommeerd.
 
@@ -356,19 +356,19 @@ De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het result
 
 1. Voor de raming van de normatieve eigen risico opbrengst voor verzekerden zonder een FKG 1 tot en met 23 2011 hanteert het college als uitgangspunten:
 
-- a. de gewichten eigen risico opbrengst per verzekerde per risicoklasse naar leeftijd en geslacht 2011, genoemd in [bijlage 30](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=30&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- a. de gewichten eigen risico opbrengst per verzekerde per risicoklasse naar leeftijd en geslacht 2011, genoemd in [bijlage 30](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=30&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- b. de gewichten eigen risico opbrengst per verzekerde per aard van het inkomenklasse 2011, genoemd in [bijlage 31](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=31&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- b. de gewichten eigen risico opbrengst per verzekerde per aard van het inkomenklasse 2011, genoemd in [bijlage 31](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=31&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- c. de gewichten eigen risico opbrengst per verzekerde per regioklasse 2011, genoemd in [bijlage 32](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=32&z=2011-02-20&g=2010-10-04) van deze beleidsregels.
+- c. de gewichten eigen risico opbrengst per verzekerde per regioklasse 2011, genoemd in [bijlage 32](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=32&z=2011-02-20&g=2011-01-02) van deze beleidsregels.
 
-2. De gewichten eigen risico opbrengst per verzekerde per risicoklasse 2011 naar leeftijd en geslacht worden per overeenkomstige risicoklasse vermenigvuldigd met het per zorgverzekeraar geraamde aantal verzekerden van 18 jaar en ouder zonder een FKG 1 tot en met 23, zoals bepaald in [artikel 7, dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=7&z=2011-02-20&g=2010-10-04). De uitkomsten worden per risicoklasse 2011 per zorgverzekeraar gesommeerd.
+2. De gewichten eigen risico opbrengst per verzekerde per risicoklasse 2011 naar leeftijd en geslacht worden per overeenkomstige risicoklasse vermenigvuldigd met het per zorgverzekeraar geraamde aantal verzekerden van 18 jaar en ouder zonder een FKG 1 tot en met 23, zoals bepaald in [artikel 7, dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=7&z=2011-02-20&g=2011-01-02). De uitkomsten worden per risicoklasse 2011 per zorgverzekeraar gesommeerd.
 
-3. De gewichten eigen risico opbrengst per verzekerde per aard van het inkomenklasse 2011 worden per overeenkomstige aard van het inkomenklasse vermenigvuldigd met het per zorgverzekeraar geraamde aantal verzekerden van 18 jaar en ouder per aard van het inkomenklasse 2011, zoals bepaald in [artikel 7, dertiende lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=7&z=2011-02-20&g=2010-10-04). De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het tweede lid.
+3. De gewichten eigen risico opbrengst per verzekerde per aard van het inkomenklasse 2011 worden per overeenkomstige aard van het inkomenklasse vermenigvuldigd met het per zorgverzekeraar geraamde aantal verzekerden van 18 jaar en ouder per aard van het inkomenklasse 2011, zoals bepaald in [artikel 7, dertiende lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=7&z=2011-02-20&g=2011-01-02). De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het tweede lid.
 
-4. De gewichten eigen risico opbrengst per verzekerde per regioklasse 2011 worden per overeenkomstige regioklasse vermenigvuldigd met het per zorgverzekeraar geraamde aantal verzekerden van 18 jaar en ouder per regioklasse 2011, zoals bepaald in [artikel 7, dertiende lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=7&z=2011-02-20&g=2010-10-04). De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het derde lid. Het college vermindert de uitkomst met 0,08366 procent vanwege de geraamde gederfde inkomsten voor verzekerden van 18 jaar en ouder, voor wie als gevolg van de toepasselijkheid van [artikel 24 Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) geen nominale premies worden ontvangen.
+4. De gewichten eigen risico opbrengst per verzekerde per regioklasse 2011 worden per overeenkomstige regioklasse vermenigvuldigd met het per zorgverzekeraar geraamde aantal verzekerden van 18 jaar en ouder per regioklasse 2011, zoals bepaald in [artikel 7, dertiende lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=7&z=2011-02-20&g=2011-01-02). De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het derde lid. Het college vermindert de uitkomst met 0,08366 procent vanwege de geraamde gederfde inkomsten voor verzekerden van 18 jaar en ouder, voor wie als gevolg van de toepasselijkheid van [artikel 24 Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) geen nominale premies worden ontvangen.
 
-5. Het college berekent de geraamde normatieve eigen risico opbrengst 2011 voor verzekerden met een FKG 1 tot en met 23 2011 per zorgverzekeraar door het aantal verzekerden van 18 jaar en ouder met een FKG 1 tot en met 23 2011, bepaald in [artikel 7, dertiende lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=7&z=2011-02-20&g=2010-10-04), te vermenigvuldigen met een bedrag van EUR 170 per verzekerde. Het college vermindert de uitkomst met 0,08366 procent van de uitkomst vanwege de geraamde gederfde inkomsten voor verzekerden van 18 jaar en ouder, voor wie als gevolg van de toepasselijkheid van [artikel 24 Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) geen nominale premies worden ontvangen.
+5. Het college berekent de geraamde normatieve eigen risico opbrengst 2011 voor verzekerden met een FKG 1 tot en met 23 2011 per zorgverzekeraar door het aantal verzekerden van 18 jaar en ouder met een FKG 1 tot en met 23 2011, bepaald in [artikel 7, dertiende lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=7&z=2011-02-20&g=2011-01-02), te vermenigvuldigen met een bedrag van EUR 170 per verzekerde. Het college vermindert de uitkomst met 0,08366 procent van de uitkomst vanwege de geraamde gederfde inkomsten voor verzekerden van 18 jaar en ouder, voor wie als gevolg van de toepasselijkheid van [artikel 24 Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) geen nominale premies worden ontvangen.
 
 6. De totale raming van de normatieve eigen risico opbrengst per zorgverzekeraar is de som van het resultaat van het vierde en het vijfde lid.
 
@@ -394,9 +394,9 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2011 besl
 
 1. Het college herberekent de toekenning van de vereveningsbijdrage op basis van de werkelijke verzekerdenaantallen 2011 volgens de opgaven van de zorgverzekeraars aan het college op 4 maart 2011.
 
-2. Het college bepaalt de herberekening van de toegekende vereveningsbijdrage 2011 als volgt: het college deelt het totaal aantal verzekerden uit de opgaven in het eerste lid door het totaal aantal verzekerden, zoals bepaald op grond van [artikel 7, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=7&z=2011-02-20&g=2010-10-04) en vermenigvuldigt het verkregen aantal met de bijdrage 2011 zoals toegekend op grond van [artikel 14, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=14&z=2011-02-20&g=2010-10-04).
+2. Het college bepaalt de herberekening van de toegekende vereveningsbijdrage 2011 als volgt: het college deelt het totaal aantal verzekerden uit de opgaven in het eerste lid door het totaal aantal verzekerden, zoals bepaald op grond van [artikel 7, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=7&z=2011-02-20&g=2011-01-02) en vermenigvuldigt het verkregen aantal met de bijdrage 2011 zoals toegekend op grond van [artikel 14, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=14&z=2011-02-20&g=2011-01-02).
 
-3. Het college herziet de op grond van [artikel 14, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=14&z=2011-02-20&g=2010-10-04), toegekende vereveningsbijdrage 2011overeenkomstig de herberekening uit het tweede lid.
+3. Het college herziet de op grond van [artikel 14, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=14&z=2011-02-20&g=2011-01-02), toegekende vereveningsbijdrage 2011overeenkomstig de herberekening uit het tweede lid.
 
 ### Hoofdstuk III. De eerste voorlopige vaststelling van de vereveningsbijdrage aan een zorgverzekeraar
 
@@ -444,7 +444,7 @@ De zorgverzekeraars leveren het uitstroombestand 2011 op 1 juli 2012 bij het col
 
 - d. Het college koppelt de opgave onder a met behulp van het gepseudonimiseerde burgerservicenummer aan het persoonskenmerkenbestand 2011 en het uitstroombestand 2011 en bepaalt op basis hiervan en met behulp van de drempel onder c per verzekerde in welke FKG klasse en FKG GGZ klasse de verzekerde valt.
 
-- e. Op basis van het onder d bepaalde stelt het college het aantal verzekerden 2010 per FKG 2011 met inachtneming van het bepaalde met betrekking tot de samenloop van FKG’s, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=I&artikel=5&z=2011-02-20&g=2010-10-04) vast. Het college wijst verzekerden 2010 in 2011 per FKG 2011, zoals bepaald onder d, toe aan een zorgverzekeraar met behulp van een koppeling op basis van het gepseudonimiseerde burgerservicenummer, het persoonskenmerkenbestand 2011 en het uitstroombestand 2011.
+- e. Op basis van het onder d bepaalde stelt het college het aantal verzekerden 2010 per FKG 2011 met inachtneming van het bepaalde met betrekking tot de samenloop van FKG’s, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=I&artikel=5&z=2011-02-20&g=2011-01-02) vast. Het college wijst verzekerden 2010 in 2011 per FKG 2011, zoals bepaald onder d, toe aan een zorgverzekeraar met behulp van een koppeling op basis van het gepseudonimiseerde burgerservicenummer, het persoonskenmerkenbestand 2011 en het uitstroombestand 2011.
 
 - f. Het college bepaalt voor verzekerden die in 2011 in het buitenland wonen het gewicht op 45% van het gewicht voor FKG 0 geen FKG.
 
@@ -454,7 +454,7 @@ De zorgverzekeraars leveren het uitstroombestand 2011 op 1 juli 2012 bij het col
 
 11. Voor de voorlopige vaststelling van de bijdrage aan een zorgverzekeraar bepaalt het college het aantal verzekerden per DKG 2011 per zorgverzekeraar als volgt:
 
-- a. Uitgangspunt is de opgave van de zorgverzekeraar per 1 juni 2012 van de declaraties van alle dbc’s die in 2010 geopend zijn. Op basis daarvan bepaalt het college het aantal verzekerden per DKG 2011 volgens de indeling in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=I&artikel=5&z=2011-02-20&g=2010-10-04).
+- a. Uitgangspunt is de opgave van de zorgverzekeraar per 1 juni 2012 van de declaraties van alle dbc’s die in 2010 geopend zijn. Op basis daarvan bepaalt het college het aantal verzekerden per DKG 2011 volgens de indeling in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=I&artikel=5&z=2011-02-20&g=2011-01-02).
 
 - b. Het college wijst verzekerden 2010 in 2011 per DKG 2011, zoals bepaald onder a, toe aan een zorgverzekeraar met behulp van een koppeling op basis van het gepseudonimiseerde burgerservicenummer, het persoonskenmerkenbestand 2011 en het uitstroombestand 2011.
 
@@ -474,7 +474,7 @@ De zorgverzekeraars leveren het uitstroombestand 2011 op 1 juli 2012 bij het col
 
 1. Het college bepaalt op basis van de opgave jaarstaat 2011 per 1 juni 2012 per zorgverzekeraar en voor het totaal van de zorgverzekeraars de kosten van B-dbc’s 2011, met inachtneming van de [artikelen 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.11) en [3.12 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.12).
 
-2. Het college herberekent op basis van de uitkomsten verkregen na toepassing van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2010-10-04) het normatieve bedrag kosten van B-dbc’s 2011 voor het totaal van alle verzekerden 2011 van alle zorgverzekeraars op de wijze zoals beschreven in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=8&z=2011-02-20&g=2010-10-04).
+2. Het college herberekent op basis van de uitkomsten verkregen na toepassing van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2011-01-02) het normatieve bedrag kosten van B-dbc’s 2011 voor het totaal van alle verzekerden 2011 van alle zorgverzekeraars op de wijze zoals beschreven in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=8&z=2011-02-20&g=2011-01-02).
 
 3. Het college berekent de schalingsfactor kosten van B-dbc’s 2011 door de kosten van B-dbc’s 2011, bepaald in het eerste lid, te sommeren over alle verzekeraars en deze te delen door het in het tweede lid herberekende normatieve bedrag kosten van B-dbc’s voor het totaal van alle verzekerden 2011 van alle zorgverzekeraars.
 
@@ -482,15 +482,15 @@ De zorgverzekeraars leveren het uitstroombestand 2011 op 1 juli 2012 bij het col
 
 5. Het college vermenigvuldigt de in het vierde lid herberekende gewichten kosten van B-dbc’s per verzekerde per risicoklasse naar leeftijd en geslacht 2011 met de aantallen verzekerden per overeenkomstige risicoklasse 2011 per zorgverzekeraar. Het college sommeert de uitkomsten per zorgverzekeraar.
 
-6. De in het vierde lid herberekende gewichten kosten van B-dbc’s per verzekerde per FKG 2011 worden per overeenkomstige FKG vermenigvuldigd met het aantal verzekerden 2011 zoals berekend in [artikel 17, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2010-10-04), per FKG 2011 per zorgverzekeraar. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het vijfde lid.
+6. De in het vierde lid herberekende gewichten kosten van B-dbc’s per verzekerde per FKG 2011 worden per overeenkomstige FKG vermenigvuldigd met het aantal verzekerden 2011 zoals berekend in [artikel 17, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2011-01-02), per FKG 2011 per zorgverzekeraar. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het vijfde lid.
 
-7. De in het vierde lid herberekende gewichten kosten van B-dbc’s per verzekerde per DKG 2011 worden per overeenkomstige DKG vermenigvuldigd met het aantal verzekerden 2011 zoals berekend in [artikel 17, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2010-10-04), per DKG 2011 per zorgverzekeraar. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het zesde lid.
+7. De in het vierde lid herberekende gewichten kosten van B-dbc’s per verzekerde per DKG 2011 worden per overeenkomstige DKG vermenigvuldigd met het aantal verzekerden 2011 zoals berekend in [artikel 17, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2011-01-02), per DKG 2011 per zorgverzekeraar. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het zesde lid.
 
-8. De in het vierde lid herberekende gewichten kosten van B-dbc’s per verzekerde per aard van het inkomenklasse 2011 worden per overeenkomstige aard van het inkomenklasse vermenigvuldigd met het aantal verzekerden 2011 per aard van het inkomenklasse 2011 per zorgverzekeraar, zoals berekend in [artikel 17, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2010-10-04). De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het zevende lid.
+8. De in het vierde lid herberekende gewichten kosten van B-dbc’s per verzekerde per aard van het inkomenklasse 2011 worden per overeenkomstige aard van het inkomenklasse vermenigvuldigd met het aantal verzekerden 2011 per aard van het inkomenklasse 2011 per zorgverzekeraar, zoals berekend in [artikel 17, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2011-01-02). De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het zevende lid.
 
-9. De in het vierde lid herberekende gewichten kosten van B-dbc’s per verzekerde per regioklasse 2011 worden per overeenkomstige regioklasse vermenigvuldigd met het aantal verzekerden per regioklasse 2011 per zorgverzekeraar, zoals berekend in [artikel 17, dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2010-10-04). De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het achtste lid.
+9. De in het vierde lid herberekende gewichten kosten van B-dbc’s per verzekerde per regioklasse 2011 worden per overeenkomstige regioklasse vermenigvuldigd met het aantal verzekerden per regioklasse 2011 per zorgverzekeraar, zoals berekend in [artikel 17, dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2011-01-02). De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het achtste lid.
 
-10. De in het vierde lid herberekende gewichten kosten van B-dbc’s per verzekerde per sociaal economische statusklasse 2011 worden per overeenkomstige sociaal economische statusklasse vermenigvuldigd met het aantal verzekerden per sociaal economische statusklasse 2011 per zorgverzekeraar, zoals berekend in [artikel 17, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2010-10-04). De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het negende lid.
+10. De in het vierde lid herberekende gewichten kosten van B-dbc’s per verzekerde per sociaal economische statusklasse 2011 worden per overeenkomstige sociaal economische statusklasse vermenigvuldigd met het aantal verzekerden per sociaal economische statusklasse 2011 per zorgverzekeraar, zoals berekend in [artikel 17, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2011-01-02). De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het negende lid.
 
 11. Het resultaat van het tiende lid wordt aangeduid als het voorlopige herberekende deelbedrag kosten van B-dbc’s 2011.
 
@@ -500,23 +500,23 @@ De zorgverzekeraars leveren het uitstroombestand 2011 op 1 juli 2012 bij het col
 
 1. Het college bepaalt op basis van de opgave jaarstaat 2011 per 1 juni 2012 per zorgverzekeraar en voor het totaal van de zorgverzekeraars de variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2011 met inachtneming van de [artikelen 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.11), [3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.12) en [3.15 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.15).
 
-2. Het college herberekent op basis van de uitkomsten verkregen na toepassing van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2010-10-04) het normatieve bedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2011 voor het totaal van alle verzekerden 2011 van alle zorgverzekeraars op de wijze zoals beschreven in artikel 9.
+2. Het college herberekent op basis van de uitkomsten verkregen na toepassing van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2011-01-02) het normatieve bedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2011 voor het totaal van alle verzekerden 2011 van alle zorgverzekeraars op de wijze zoals beschreven in artikel 9.
 
 3. Het college berekent de schalingsfactor variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2011 door de variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2011, bepaald in het eerste lid, te sommeren over alle verzekeraars en deze te delen door het in het tweede lid herberekende normatieve bedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp voor het totaal van alle verzekerden 2011 van alle zorgverzekeraars.
 
-4. Het college herberekent alle gewichten uit [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=9&z=2011-02-20&g=2010-10-04), door deze te vermenigvuldigen met de schalingsfactor variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2011 en deze uitkomsten vervolgens af te ronden op twee decimalen.
+4. Het college herberekent alle gewichten uit [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=9&z=2011-02-20&g=2011-01-02), door deze te vermenigvuldigen met de schalingsfactor variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2011 en deze uitkomsten vervolgens af te ronden op twee decimalen.
 
 5. Het college vermenigvuldigt de in het vierde lid herberekende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per risicoklasse naar leeftijd en geslacht 2011 met de aantallen verzekerden per overeenkomstige risicoklasse 2011 per zorgverzekeraar. Het college sommeert de uitkomsten per zorgverzekeraar.
 
-6. De in het vierde lid herberekende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per FKG 2011 worden per overeenkomstige FKG vermenigvuldigd met het aantal verzekerden 2011 zoals berekend in [artikel 17, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2010-10-04), per FKG 2011 per zorgverzekeraar. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het vijfde lid.
+6. De in het vierde lid herberekende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per FKG 2011 worden per overeenkomstige FKG vermenigvuldigd met het aantal verzekerden 2011 zoals berekend in [artikel 17, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2011-01-02), per FKG 2011 per zorgverzekeraar. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het vijfde lid.
 
-7. De in het vierde lid herberekende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per DKG 2011 worden per overeenkomstige DKG vermenigvuldigd met het aantal verzekerden 2011 zoals berekend in [artikel 17, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2010-10-04), per DKG 2011 per zorgverzekeraar. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het zesde lid.
+7. De in het vierde lid herberekende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per DKG 2011 worden per overeenkomstige DKG vermenigvuldigd met het aantal verzekerden 2011 zoals berekend in [artikel 17, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2011-01-02), per DKG 2011 per zorgverzekeraar. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het zesde lid.
 
-8. De in het vierde lid herberekende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per aard van het inkomenklasse 2011 worden per overeenkomstige aard van het inkomenklasse vermenigvuldigd met het aantal verzekerden 2011 per aard van het inkomenklasse 2011 per zorgverzekeraar, zoals berekend in [artikel 17, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2010-10-04). De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het zevende lid.
+8. De in het vierde lid herberekende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per aard van het inkomenklasse 2011 worden per overeenkomstige aard van het inkomenklasse vermenigvuldigd met het aantal verzekerden 2011 per aard van het inkomenklasse 2011 per zorgverzekeraar, zoals berekend in [artikel 17, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2011-01-02). De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het zevende lid.
 
-9. De in het vierde lid herberekende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per regioklasse 2011 worden per overeenkomstige regioklasse vermenigvuldigd met het aantal verzekerden per regioklasse 2011 per zorgverzekeraar, zoals berekend in [artikel 17, dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2010-10-04). De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het achtste lid.
+9. De in het vierde lid herberekende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per regioklasse 2011 worden per overeenkomstige regioklasse vermenigvuldigd met het aantal verzekerden per regioklasse 2011 per zorgverzekeraar, zoals berekend in [artikel 17, dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2011-01-02). De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het achtste lid.
 
-10. De in het vierde lid herberekende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde bij sociaal economische statusklasse 2011 worden per overeenkomstige sociaal economische statusklasse vermenigvuldigd met het aantal verzekerden per sociaal economische statusklasse 2011 per zorgverzekeraar, zoals berekend in [artikel 17, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2010-10-04). De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het negende lid.
+10. De in het vierde lid herberekende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde bij sociaal economische statusklasse 2011 worden per overeenkomstige sociaal economische statusklasse vermenigvuldigd met het aantal verzekerden per sociaal economische statusklasse 2011 per zorgverzekeraar, zoals berekend in [artikel 17, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2011-01-02). De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het negende lid.
 
 11. Het college calculeert per zorgverzekeraar 30 procent na op het verschil tussen de variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp, verkregen in het eerste lid en het resultaat van het tiende lid.
 
@@ -532,7 +532,7 @@ De zorgverzekeraars leveren het uitstroombestand 2011 op 1 juli 2012 bij het col
 
 - a. De vaste kosten van ziekenhuisverpleging 2010 worden per zorgverzekeraar gedeeld door het aantal verzekerden 2010. Het resultaat is het bedrag vaste kosten van ziekenhuisverpleging per verzekerde 2010.
 
-- b. Het in onderdeel a berekende bedrag vaste kosten van ziekenhuisverpleging per verzekerde 2010 wordt vermenigvuldigd met het totaal aantal verzekerden 2011 per zorgverzekeraar, vastgesteld met toepassing van [artikel 17, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2010-10-04). Het resultaat is het deelbedrag vaste kosten van ziekenhuisverpleging 2011.
+- b. Het in onderdeel a berekende bedrag vaste kosten van ziekenhuisverpleging per verzekerde 2010 wordt vermenigvuldigd met het totaal aantal verzekerden 2011 per zorgverzekeraar, vastgesteld met toepassing van [artikel 17, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2011-01-02). Het resultaat is het deelbedrag vaste kosten van ziekenhuisverpleging 2011.
 
 3. Het college calculeert per zorgverzekeraar 100 procent na op het verschil tussen de vaste kosten van ziekenhuisverpleging 2011, verkregen in het eerste lid, en het deelbedrag vaste kosten van ziekenhuisverpleging, verkregen in het tweede lid.
 
@@ -548,29 +548,29 @@ De zorgverzekeraars leveren het uitstroombestand 2011 op 1 juli 2012 bij het col
 
 4. Het college berekent het gewicht kosten van geneeskundige GGZ voor verzekerden van 18 jaar en ouder per verzekerde voor de risicoklasse GGZ kosten hoge drempelklasse 2011 0 door het totaal aantal verzekerden per GGZ kosten hoge drempelklasse 1 te vermenigvuldigen met het overeenkomstige gewicht en het resultaat vervolgens te delen door het geraamde totaal aantal verzekerden GGZ kosten hoge drempelklasse 2011 0. De uitkomst van de vorige volzin rondt het college af op 2 decimalen en voorziet het college van een negatief teken.
 
-5. Het college herberekent op basis van de uitkomsten verkregen na toepassing van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2010-10-04) het normatieve bedrag kosten van geneeskundige geestelijke gezondheidszorg 2011 voor de verzekerden van 18 jaar en ouder 2011 van alle zorgverzekeraars op de wijze zoals beschreven in [artikel 11, eerste tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=11&z=2011-02-20&g=2010-10-04).
+5. Het college herberekent op basis van de uitkomsten verkregen na toepassing van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2011-01-02) het normatieve bedrag kosten van geneeskundige geestelijke gezondheidszorg 2011 voor de verzekerden van 18 jaar en ouder 2011 van alle zorgverzekeraars op de wijze zoals beschreven in [artikel 11, eerste tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=11&z=2011-02-20&g=2011-01-02).
 
 6. Het college berekent de schalingsfactor kosten van geneeskundige geestelijke gezondheidszorg 2011 voor verzekerden van 18 jaar en ouder 2011 door de kosten van geneeskundige geestelijke gezondheidszorg 2011, bepaald in het eerste lid, te sommeren over alle zorgverzekeraars en deze te delen door het in het vijfde lid herberekende normatieve bedrag kosten van geneeskundige geestelijke gezondheidszorg 2011 voor het totaal van alle verzekerden 2011 van alle zorgverzekeraars.
 
-7. Het college herberekent alle gewichten uit [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=11&z=2011-02-20&g=2010-10-04) door deze te vermenigvuldigen met de schalingsfactor kosten van geneeskundige geestelijke gezondheidszorg 2011, en deze uitkomsten vervolgens af te ronden op twee decimalen.
+7. Het college herberekent alle gewichten uit [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=11&z=2011-02-20&g=2011-01-02) door deze te vermenigvuldigen met de schalingsfactor kosten van geneeskundige geestelijke gezondheidszorg 2011, en deze uitkomsten vervolgens af te ronden op twee decimalen.
 
-8. Het college vermenigvuldigt de in het zevende lid herberekende gewichten kosten van geneeskundige geestelijke gezondheidszorg 2011 per verzekerde per risicoklasse naar leeftijd en geslacht 2011 met de aantallen verzekerden van 18 jaar en ouder per overeenkomstige risicoklasse 2011 zoals berekend in [artikel 17, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2010-10-04), per risicoklasse naar leeftijd en geslacht per zorgverzekeraar. Het college sommeert de uitkomsten per zorgverzekeraar.
+8. Het college vermenigvuldigt de in het zevende lid herberekende gewichten kosten van geneeskundige geestelijke gezondheidszorg 2011 per verzekerde per risicoklasse naar leeftijd en geslacht 2011 met de aantallen verzekerden van 18 jaar en ouder per overeenkomstige risicoklasse 2011 zoals berekend in [artikel 17, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2011-01-02), per risicoklasse naar leeftijd en geslacht per zorgverzekeraar. Het college sommeert de uitkomsten per zorgverzekeraar.
 
-9. De in het zevende lid herberekende gewichten kosten van geneeskundige geestelijke gezondheidszorg 2011 per verzekerde per FKG GGZ 2011 worden per overeenkomstige FKG vermenigvuldigd met het aantal verzekerden van 18 jaar en ouder 2011 zoals berekend in [artikel 17, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2010-10-04), per FKG GGZ 2011 per zorgverzekeraar. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het achtste lid.
+9. De in het zevende lid herberekende gewichten kosten van geneeskundige geestelijke gezondheidszorg 2011 per verzekerde per FKG GGZ 2011 worden per overeenkomstige FKG vermenigvuldigd met het aantal verzekerden van 18 jaar en ouder 2011 zoals berekend in [artikel 17, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2011-01-02), per FKG GGZ 2011 per zorgverzekeraar. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het achtste lid.
 
-10. De in het zevende lid herberekende gewichten kosten van geneeskundige geestelijke gezondheidszorg 2011 per verzekerde per aard van het inkomenklasse 2011 worden per overeenkomstige aard van het inkomenklasse vermenigvuldigd met het aantal verzekerden van 18 jaar en ouder 2011 per aard van het inkomenklasse 2011 per zorgverzekeraar, zoals berekend in [artikel 17, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2010-10-04). De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het negende lid.
+10. De in het zevende lid herberekende gewichten kosten van geneeskundige geestelijke gezondheidszorg 2011 per verzekerde per aard van het inkomenklasse 2011 worden per overeenkomstige aard van het inkomenklasse vermenigvuldigd met het aantal verzekerden van 18 jaar en ouder 2011 per aard van het inkomenklasse 2011 per zorgverzekeraar, zoals berekend in [artikel 17, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2011-01-02). De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het negende lid.
 
-11. De in het zevende lid herberekende gewichten kosten van geneeskundige geestelijke gezondheidszorg 2011 per verzekerde per GGZ regioklasse 2011 worden per overeenkomstige GGZ regioklasse vermenigvuldigd met het aantal verzekerden van 18 jaar en ouder per GGZ regioklasse 2011 per zorgverzekeraar, zoals berekend in [artikel 17, dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2010-10-04). De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het tiende lid.
+11. De in het zevende lid herberekende gewichten kosten van geneeskundige geestelijke gezondheidszorg 2011 per verzekerde per GGZ regioklasse 2011 worden per overeenkomstige GGZ regioklasse vermenigvuldigd met het aantal verzekerden van 18 jaar en ouder per GGZ regioklasse 2011 per zorgverzekeraar, zoals berekend in [artikel 17, dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2011-01-02). De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het tiende lid.
 
-12. De in het zevende lid herberekende gewichten kosten van geneeskundige geestelijke gezondheidszorg 2011 per verzekerde bij sociaal economische statusklasse 2011 worden per overeenkomstige sociaal economische statusklasse vermenigvuldigd met het aantal verzekerden van 18 jaar en ouder per sociaal economische statusklasse 2011 per zorgverzekeraar, zoals berekend in [artikel 17, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2010-10-04). De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het elfde lid.
+12. De in het zevende lid herberekende gewichten kosten van geneeskundige geestelijke gezondheidszorg 2011 per verzekerde bij sociaal economische statusklasse 2011 worden per overeenkomstige sociaal economische statusklasse vermenigvuldigd met het aantal verzekerden van 18 jaar en ouder per sociaal economische statusklasse 2011 per zorgverzekeraar, zoals berekend in [artikel 17, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2011-01-02). De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het elfde lid.
 
-13. De in het zevende lid herberekende gewichten kosten van geneeskundige geestelijke gezondheidszorg 2011 per verzekerde per éénpersoonsadresklasse 2011 worden per overeenkomstige éénpersoonsadresklasse vermenigvuldigd met het aantal verzekerden van 18 jaar en ouder per éénpersoonsadresklasse 2011 per zorgverzekeraar, zoals berekend in [artikel 17, dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2010-10-04). De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het twaalfde lid.
+13. De in het zevende lid herberekende gewichten kosten van geneeskundige geestelijke gezondheidszorg 2011 per verzekerde per éénpersoonsadresklasse 2011 worden per overeenkomstige éénpersoonsadresklasse vermenigvuldigd met het aantal verzekerden van 18 jaar en ouder per éénpersoonsadresklasse 2011 per zorgverzekeraar, zoals berekend in [artikel 17, dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2011-01-02). De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het twaalfde lid.
 
-14. De in het zevende lid herberekende gewichten kosten van geneeskundige geestelijke gezondheidszorg 2011 per verzekerde per risicoklasse GGZ-kosten lage drempelklasse worden per overeenkomstige risicoklasse GGZ-kosten lage drempelklasse vermenigvuldigd met het aantal verzekerden van 18 jaar en ouder per risicoklasse GGZ-kosten lage drempelklasse 2011 per zorgverzekeraar, zoals berekend in [artikel 17, veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2010-10-04). De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het dertiende lid.
+14. De in het zevende lid herberekende gewichten kosten van geneeskundige geestelijke gezondheidszorg 2011 per verzekerde per risicoklasse GGZ-kosten lage drempelklasse worden per overeenkomstige risicoklasse GGZ-kosten lage drempelklasse vermenigvuldigd met het aantal verzekerden van 18 jaar en ouder per risicoklasse GGZ-kosten lage drempelklasse 2011 per zorgverzekeraar, zoals berekend in [artikel 17, veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2011-01-02). De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het dertiende lid.
 
-15. De in het zevende lid herberekende gewichten kosten van geneeskundige geestelijke gezondheidszorg 2011 per verzekerde per risicoklasse GGZ-kosten hoge drempelklasse 2011 worden per overeenkomstige risicoklasse GGZ-kosten hoge drempelklasse vermenigvuldigd met het aantal verzekerden van 18 jaar en ouder per risicoklasse GGZ-kosten hoge drempelklasse 2011 per zorgverzekeraar, zoals berekend in [artikel 17, veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2010-10-04). De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het veertiende lid.
+15. De in het zevende lid herberekende gewichten kosten van geneeskundige geestelijke gezondheidszorg 2011 per verzekerde per risicoklasse GGZ-kosten hoge drempelklasse 2011 worden per overeenkomstige risicoklasse GGZ-kosten hoge drempelklasse vermenigvuldigd met het aantal verzekerden van 18 jaar en ouder per risicoklasse GGZ-kosten hoge drempelklasse 2011 per zorgverzekeraar, zoals berekend in [artikel 17, veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2011-01-02). De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het veertiende lid.
 
-16. Het college herberekent op basis van de uitkomsten verkregen na toepassing van artikel 17 het normatieve bedrag kosten van geneeskundige geestelijke gezondheidszorg 2011 voor de verzekerden jonger dan 18 jaar 2011 van alle zorgverzekeraars op de wijze zoals beschreven in [artikel 11, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=11&z=2011-02-20&g=2010-10-04).
+16. Het college herberekent op basis van de uitkomsten verkregen na toepassing van artikel 17 het normatieve bedrag kosten van geneeskundige geestelijke gezondheidszorg 2011 voor de verzekerden jonger dan 18 jaar 2011 van alle zorgverzekeraars op de wijze zoals beschreven in [artikel 11, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=11&z=2011-02-20&g=2011-01-02).
 
 17. Het college berekent de schalingsfactor kosten van geneeskundige geestelijke gezondheidszorg 2011 voor verzekerden jonger dan 18 jaar 2011 door de kosten van geneeskundige geestelijke gezondheidszorg 2011, bepaald in het tweede lid, te sommeren over alle zorgverzekeraars en deze te delen door het in het zestiende lid herberekende normatieve bedrag kosten van geneeskundige geestelijke gezondheidszorg 2011 van alle zorgverzekeraars.
 
@@ -588,33 +588,33 @@ De zorgverzekeraars leveren het uitstroombestand 2011 op 1 juli 2012 bij het col
 
 1. Het college bepaalt op basis van de opgave jaarstaat 2011 per 1 juli 2012 de kosten van overige prestaties 2011 met inachtneming van de [artikelen 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.11) en [3.12 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.12).
 
-2. Het college berekent het normatieve bedrag kosten van overige prestaties 2011 voor het totaal van alle verzekerden 2011 van alle zorgverzekeraars op de wijze zoals beschreven in [artikel 12, eerste tot en met het zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=12&z=2011-02-20&g=2010-10-04).
+2. Het college berekent het normatieve bedrag kosten van overige prestaties 2011 voor het totaal van alle verzekerden 2011 van alle zorgverzekeraars op de wijze zoals beschreven in [artikel 12, eerste tot en met het zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=12&z=2011-02-20&g=2011-01-02).
 
-3. Het college herberekent op basis van de uitkomsten verkregen na toepassing van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2010-10-04) de schalingsfactor kosten van overige prestaties 2011 door de som van de in het eerste lid bepaalde kosten van overige prestaties 2011 van alle zorgverzekeraars te delen door het in het tweede lid herberekende normatieve bedrag kosten van overige prestaties voor alle verzekerden 2011 van alle zorgverzekeraars.
+3. Het college herberekent op basis van de uitkomsten verkregen na toepassing van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2011-01-02) de schalingsfactor kosten van overige prestaties 2011 door de som van de in het eerste lid bepaalde kosten van overige prestaties 2011 van alle zorgverzekeraars te delen door het in het tweede lid herberekende normatieve bedrag kosten van overige prestaties voor alle verzekerden 2011 van alle zorgverzekeraars.
 
-4. Het college herberekent alle gewichten uit [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=12&z=2011-02-20&g=2010-10-04) door deze te vermenigvuldigen met de schalingsfactor kosten van overige prestaties 2011, en deze uitkomsten vervolgens af te ronden op twee decimalen.
+4. Het college herberekent alle gewichten uit [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=12&z=2011-02-20&g=2011-01-02) door deze te vermenigvuldigen met de schalingsfactor kosten van overige prestaties 2011, en deze uitkomsten vervolgens af te ronden op twee decimalen.
 
 5. De in het vierde lid herberekende gewichten kosten van overige prestaties per verzekerde 2011 naar leeftijd en geslacht worden per overeenkomstige risicoklasse vermenigvuldigd met het aantal verzekerden 2011 per risicoklasse per zorgverzekeraar. De uitkomsten worden per zorgverzekeraar gesommeerd.
 
-6. De in het vierde lid herberekende gewichten kosten van overige prestaties per verzekerde per FKG 2011 worden per overeenkomstige FKG vermenigvuldigd met het aantal verzekerden 2011 zoals berekend in [artikel 17, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2010-10-04), per FKG 2011 per zorgverzekeraar. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het vijfde lid.
+6. De in het vierde lid herberekende gewichten kosten van overige prestaties per verzekerde per FKG 2011 worden per overeenkomstige FKG vermenigvuldigd met het aantal verzekerden 2011 zoals berekend in [artikel 17, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2011-01-02), per FKG 2011 per zorgverzekeraar. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het vijfde lid.
 
-7. De in het vierde lid herberekende gewichten kosten van overige prestaties per verzekerde per DKG 2011 worden per overeenkomstige DKG vermenigvuldigd met het aantal verzekerden 2011 zoals berekend in [artikel 17, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2010-10-04), per DKG 2011 per zorgverzekeraar. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het zesde lid.
+7. De in het vierde lid herberekende gewichten kosten van overige prestaties per verzekerde per DKG 2011 worden per overeenkomstige DKG vermenigvuldigd met het aantal verzekerden 2011 zoals berekend in [artikel 17, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2011-01-02), per DKG 2011 per zorgverzekeraar. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het zesde lid.
 
-8. De in het vierde lid herberekende gewichten kosten van overige prestaties per verzekerde per aard van het inkomenklasse 2011, worden per overeenkomstige aard van het inkomenklasse vermenigvuldigd met het aantal verzekerden 2011 per aard van het inkomenklasse 2011 per zorgverzekeraar, zoals berekend in [artikel 17, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2010-10-04).
+8. De in het vierde lid herberekende gewichten kosten van overige prestaties per verzekerde per aard van het inkomenklasse 2011, worden per overeenkomstige aard van het inkomenklasse vermenigvuldigd met het aantal verzekerden 2011 per aard van het inkomenklasse 2011 per zorgverzekeraar, zoals berekend in [artikel 17, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2011-01-02).
 
 De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het zevende lid.
 
-9. De in het vierde lid herberekende gewichten kosten van overige prestaties per verzekerde per regioklasse 2011 worden per overeenkomstige regioklasse vermenigvuldigd met het aantal verzekerden 2011 per regioklasse 2011 per zorgverzekeraar, zoals berekend in [artikel 17, dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2010-10-04). De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het achtste lid.
+9. De in het vierde lid herberekende gewichten kosten van overige prestaties per verzekerde per regioklasse 2011 worden per overeenkomstige regioklasse vermenigvuldigd met het aantal verzekerden 2011 per regioklasse 2011 per zorgverzekeraar, zoals berekend in [artikel 17, dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2011-01-02). De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het achtste lid.
 
-10. De in het vierde lid herberekende gewichten kosten van overige prestaties per verzekerde bij sociaal economische statusklasse 2011 worden per overeenkomstige sociaal economische statusklasse vermenigvuldigd met het aantal verzekerden per sociaal economische statusklasse 2011 per zorgverzekeraar, zoals berekend in [artikel 17, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2010-10-04). De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het negende lid.
+10. De in het vierde lid herberekende gewichten kosten van overige prestaties per verzekerde bij sociaal economische statusklasse 2011 worden per overeenkomstige sociaal economische statusklasse vermenigvuldigd met het aantal verzekerden per sociaal economische statusklasse 2011 per zorgverzekeraar, zoals berekend in [artikel 17, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2011-01-02). De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het negende lid.
 
 11. Het resultaat van het tiende lid wordt aangeduid als het voorlopige herberekende deelbedrag kosten van overige prestaties 2011.
 
 ##### Artikel 23. De voorlopige herberekening van de opbrengst van het normatieve eigen risico 2011
 
-1. Uitgangspunt voor de herberekening van de opbrengst van het normatieve eigen risico zijn de opgaven, bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2010-10-04), van de verzekerdenaantallen van de zorgverzekeraar.
+1. Uitgangspunt voor de herberekening van de opbrengst van het normatieve eigen risico zijn de opgaven, bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2011-01-02), van de verzekerdenaantallen van de zorgverzekeraar.
 
-2. Het college herberekent op de wijze zoals beschreven in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=13&z=2011-02-20&g=2010-10-04) de normatieve eigen risico opbrengst 2011 op basis van de verzekerdenaantallen 2011 van 18 jaar en ouder zoals berekend in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2010-10-04).
+2. Het college herberekent op de wijze zoals beschreven in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=13&z=2011-02-20&g=2011-01-02) de normatieve eigen risico opbrengst 2011 op basis van de verzekerdenaantallen 2011 van 18 jaar en ouder zoals berekend in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2011-01-02).
 
 3. In afwijking van het tweede lid bepaalt het college de gederfde inkomsten voor verzekerden van 18 jaar en ouder voor wie als gevolg van de toepasselijkheid van [artikel 24 Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) geen nominale premies worden ontvangen, op basis van de opgave jaarstaat 2011 per 1 juli 2012.
 
@@ -624,7 +624,7 @@ De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het result
 
 2. Voor de toepassing van [artikel 3.20 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.20) berekent het college:
 
-- a. de som van het bedrag bepaald in [artikel 18, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=18&z=2011-02-20&g=2010-10-04) en het bedrag bepaald in [artikel 19, dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=19&z=2011-02-20&g=2010-10-04);
+- a. de som van het bedrag bepaald in [artikel 18, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=18&z=2011-02-20&g=2011-01-02) en het bedrag bepaald in [artikel 19, dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=19&z=2011-02-20&g=2011-01-02);
 
 - b. indien het in onderdeel a bepaalde bedrag groter is dan het aantal verzekerden van 18 jaar en ouder 2011 maal EUR 22,50, dan trekt het college 90 procent van het meerdere af van het normatieve bedrag 2011 uit als berekend onder a;
 
@@ -632,7 +632,7 @@ De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het result
 
 3. Voor de toepassing van [artikel 3.20 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.20) gebruikt het college:
 
-- a. het bedrag bepaald in [artikel 21, tweeëntwintigste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=21&z=2011-02-20&g=2010-10-04);
+- a. het bedrag bepaald in [artikel 21, tweeëntwintigste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=21&z=2011-02-20&g=2011-01-02);
 
 - b. indien het in onderdeel a bepaalde bedrag groter is dan het aantal verzekerden van 18 jaar en ouder 2011 maal EUR 7,50, dan trekt het college 100 procent van het meerdere af van het normatieve bedrag 2011 als berekend onder a;
 
@@ -644,7 +644,7 @@ De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het result
 
 6. Het college herberekent voorlopig de aanvulling op de bijdrage voor de uitkering in verband met uitvoeringskosten van verzekerden jonger dan 18 jaar door het aantal verzekerden jonger dan 18 jaar in 2011 te vermenigvuldigen met EUR 50.
 
-7. Het college herberekent de vereveningsbijdrage 2011 voorlopig door de som van het herberekende normatieve bedrag 2011 bedoeld in het eerste lid, met toepassing van het tweede en derde lid en de aanvulling voor uitvoeringskosten van verzekerden jonger dan 18 jaar bedoeld in het zesde lid te verminderen met de voorlopig herberekende normatieve eigen risico opbrengst bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=23&z=2011-02-20&g=2010-10-04) en de opbrengst van de nominale rekenpremie, bedoeld in het vijfde lid.
+7. Het college herberekent de vereveningsbijdrage 2011 voorlopig door de som van het herberekende normatieve bedrag 2011 bedoeld in het eerste lid, met toepassing van het tweede en derde lid en de aanvulling voor uitvoeringskosten van verzekerden jonger dan 18 jaar bedoeld in het zesde lid te verminderen met de voorlopig herberekende normatieve eigen risico opbrengst bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=23&z=2011-02-20&g=2011-01-02) en de opbrengst van de nominale rekenpremie, bedoeld in het vijfde lid.
 
 8. Het college stelt de vereveningsbijdrage 2011 in september 2012 voorlopig vast ter hoogte van de in het vorige lid berekende bijdrage.
 
@@ -656,7 +656,7 @@ Het college herberekent het normatieve bedrag voor de tweede keer voorlopig met 
 
 ##### Artikel 26. Bepaling van de verzekerdenaantallen 2011
 
-1. Het college betrekt de correcties die de Nederlandse Zorgautoriteit heeft toegepast, het uitstroombestand 2012 en de opgave door zorgverzekeraars per 1 november 2012 van verzekerden die vanwege bijzondere omstandigheden niet over een burgerservicenummer beschikken 2011 bij de verzekerdenaantallen zoals berekend op grond van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2010-10-04).
+1. Het college betrekt de correcties die de Nederlandse Zorgautoriteit heeft toegepast, het uitstroombestand 2012 en de opgave door zorgverzekeraars per 1 november 2012 van verzekerden die vanwege bijzondere omstandigheden niet over een burgerservicenummer beschikken 2011 bij de verzekerdenaantallen zoals berekend op grond van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2011-02-20&g=2011-01-02).
 
 2. Voor de sociaal economische statusklasse betrekt het college voor het inkomen de opgave van de Belastingdienst over 2011 bij de verzekerdenaantallen. Indien een verzekerde niet is opgenomen in de opgave voor 2011, maakt het college gebruik van de opgave voor 2010. Indien een verzekerde niet is opgenomen in de opgave voor 2010, maakt het college gebruik van de opgave voor 2009.
 
@@ -664,21 +664,21 @@ Het college herberekent het normatieve bedrag voor de tweede keer voorlopig met 
 
 1. Het college hanteert bij de tweede voorlopige herberekening van het deelbedrag kosten van B-dbc’s 2011 als uitgangspunten:
 
-- a. de gewichten kosten van B-dbc’s 2011 naar leeftijd en geslacht, zoals vermeld in [bijlage 33](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=33&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- a. de gewichten kosten van B-dbc’s 2011 naar leeftijd en geslacht, zoals vermeld in [bijlage 33](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=33&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- b. de gewichten kosten van B-dbc’s per verzekerde per FKG 0 tot en met 23 2011, zoals vermeld in [bijlage 34](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=34&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- b. de gewichten kosten van B-dbc’s per verzekerde per FKG 0 tot en met 23 2011, zoals vermeld in [bijlage 34](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=34&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- c. de gewichten variabele kosten van B-dbc’s per verzekerde per DKG 0 t/m 13 2011, zoals vermeld in [bijlage 35](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=35&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- c. de gewichten variabele kosten van B-dbc’s per verzekerde per DKG 0 t/m 13 2011, zoals vermeld in [bijlage 35](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=35&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- d. de gewichten kosten van B-dbc’s per verzekerde per aard van het inkomenklasse 2011, zoals vermeld in [bijlage 36](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=36&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- d. de gewichten kosten van B-dbc’s per verzekerde per aard van het inkomenklasse 2011, zoals vermeld in [bijlage 36](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=36&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- e. de gewichten kosten van B-dbc’s per verzekerde per regioklasse 2011, zoals vermeld in [bijlage 37](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=37&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- e. de gewichten kosten van B-dbc’s per verzekerde per regioklasse 2011, zoals vermeld in [bijlage 37](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=37&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- f. de gewichten kosten van B-dbc’s per verzekerde per sociaal economische statusklasse 2011, genoemd in [bijlage 38](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=38&z=2011-02-20&g=2010-10-04) van deze beleidsregels.
+- f. de gewichten kosten van B-dbc’s per verzekerde per sociaal economische statusklasse 2011, genoemd in [bijlage 38](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=38&z=2011-02-20&g=2011-01-02) van deze beleidsregels.
 
 2. Het college bepaalt de kosten van B-dbc’s 2011 met inachtneming van de [artikelen 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.11) en [3.12 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.12).
 
-3. Het college herberekent het deelbedrag kosten van B-dbc’s 2011 voor het totaal van alle verzekerden van alle zorgverzekeraars 2011 op de wijze zoals beschreven in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=8&z=2011-02-20&g=2010-10-04), gebruik makend van de gewichten uit het eerste lid.
+3. Het college herberekent het deelbedrag kosten van B-dbc’s 2011 voor het totaal van alle verzekerden van alle zorgverzekeraars 2011 op de wijze zoals beschreven in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=8&z=2011-02-20&g=2011-01-02), gebruik makend van de gewichten uit het eerste lid.
 
 4. Het college herberekent de schalingsfactor kosten van B-dbc’s 2011 door de som van de totale kosten van B-dbc’s 2011 van alle zorgverzekeraars, zoals bepaald in het tweede lid, te delen door het herberekende normatieve deelbedrag kosten van B-dbc’s voor het totaal van alle verzekerden 2011 van alle verzekeraars, zoals berekend in het derde lid.
 
@@ -706,21 +706,21 @@ Het college herberekent het normatieve bedrag voor de tweede keer voorlopig met 
 
 1. Het college hanteert bij de tweede voorlopige herberekening van het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2011 als uitgangspunten:
 
-- a. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per risicoklasse 2011 naar leeftijd en geslacht, zoals vermeld in [bijlage 39](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=39&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- a. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per risicoklasse 2011 naar leeftijd en geslacht, zoals vermeld in [bijlage 39](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=39&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- b. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per FKG 0 tot en met 23 2011, zoals vermeld in [bijlage 40](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=40&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- b. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per FKG 0 tot en met 23 2011, zoals vermeld in [bijlage 40](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=40&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- c. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per DKG 0 tot en met 13 2011, zoals vermeld in [bijlage 41](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=41&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- c. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per DKG 0 tot en met 13 2011, zoals vermeld in [bijlage 41](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=41&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- d. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per aard van het inkomenklasse 2011, zoals vermeld in [bijlage 42](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=42&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- d. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per aard van het inkomenklasse 2011, zoals vermeld in [bijlage 42](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=42&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- e. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per regioklasse 2011, zoals vermeld in [bijlage 43](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=43&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- e. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per regioklasse 2011, zoals vermeld in [bijlage 43](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=43&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- f. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per sociaal economische statusklasse 2011, genoemd in [bijlage 44](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=44&z=2011-02-20&g=2010-10-04) van deze beleidsregels.
+- f. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per sociaal economische statusklasse 2011, genoemd in [bijlage 44](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=44&z=2011-02-20&g=2011-01-02) van deze beleidsregels.
 
 2. Het college bepaalt de variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2011 met inachtneming van de [artikelen 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.11), [3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.12) en [3.15 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.15).
 
-3. Het college herberekent het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2011 voor het totaal van alle verzekerden van alle zorgverzekeraars 2011 op de wijze zoals beschreven in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=9&z=2011-02-20&g=2010-10-04), gebruikmakend van de gewichten uit het eerste lid.
+3. Het college herberekent het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2011 voor het totaal van alle verzekerden van alle zorgverzekeraars 2011 op de wijze zoals beschreven in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=9&z=2011-02-20&g=2011-01-02), gebruikmakend van de gewichten uit het eerste lid.
 
 4. Het college herberekent de schalingsfactor variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2011 door de som van de totale variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2011 van alle zorgverzekeraars, zoals bepaald in het tweede lid, te delen door het herberekende normatieve deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp voor het totaal van alle verzekerden 2011 van alle zorgverzekeraars, zoals berekend in het derde lid.
 
@@ -748,27 +748,27 @@ Het college herberekent het normatieve bedrag voor de tweede keer voorlopig met 
 
 ##### Artikel 29. De tweede voorlopige herberekening van het deelbedrag vaste kosten van ziekenhuisverpleging 2011
 
-Het college herberekent voor de tweede keer voorlopig het deelbedrag vaste kosten van ziekenhuisverpleging 2011 overeenkomstig [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=20&z=2011-02-20&g=2010-10-04), met inachtneming van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=IV&artikel=26&z=2011-02-20&g=2010-10-04).
+Het college herberekent voor de tweede keer voorlopig het deelbedrag vaste kosten van ziekenhuisverpleging 2011 overeenkomstig [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=20&z=2011-02-20&g=2011-01-02), met inachtneming van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=IV&artikel=26&z=2011-02-20&g=2011-01-02).
 
 ##### Artikel 30. De tweede voorlopige herberekening van het deelbedrag geneeskundige geestelijke gezondheidszorg 2011
 
 1. Voor de tweede voorlopige herberekening van het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg hanteert het college als uitgangspunten:
 
-- a. de gewichten kosten van geneeskundige geestelijke gezondheidszorg per verzekerde per risicoklasse 2011 naar leeftijd en geslacht, zoals vermeld in [bijlage 45](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=45&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- a. de gewichten kosten van geneeskundige geestelijke gezondheidszorg per verzekerde per risicoklasse 2011 naar leeftijd en geslacht, zoals vermeld in [bijlage 45](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=45&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- b. de gewichten kosten van geneeskundige geestelijke gezondheidszorg per verzekerde per FKG GGZ 2011, zoals vermeld in [bijlage 46](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=46&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- b. de gewichten kosten van geneeskundige geestelijke gezondheidszorg per verzekerde per FKG GGZ 2011, zoals vermeld in [bijlage 46](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=46&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- c. de gewichten kosten van geneeskundige geestelijke gezondheidszorg per verzekerde per aard van het inkomenklasse 2011, zoals vermeld in [bijlage 47](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=47&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- c. de gewichten kosten van geneeskundige geestelijke gezondheidszorg per verzekerde per aard van het inkomenklasse 2011, zoals vermeld in [bijlage 47](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=47&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- d. de gewichten kosten van geneeskundige geestelijke gezondheidszorg per verzekerde per GGZ regioklasse 2011, zoals vermeld in [bijlage 48](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=48&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- d. de gewichten kosten van geneeskundige geestelijke gezondheidszorg per verzekerde per GGZ regioklasse 2011, zoals vermeld in [bijlage 48](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=48&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- e. de gewichten kosten van geneeskundige geestelijke gezondheidszorg per verzekerde per sociaal economische statusklasse 2011, genoemd in [bijlage 49](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=49&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- e. de gewichten kosten van geneeskundige geestelijke gezondheidszorg per verzekerde per sociaal economische statusklasse 2011, genoemd in [bijlage 49](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=49&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- f. de gewichten kosten van geneeskundige geestelijke gezondheidszorg per verzekerde per éénpersoonsadresklasse 2011, genoemd in [bijlage 50](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=50&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- f. de gewichten kosten van geneeskundige geestelijke gezondheidszorg per verzekerde per éénpersoonsadresklasse 2011, genoemd in [bijlage 50](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=50&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- g. de gewichten kosten van geneeskundige geestelijke gezondheidszorg per verzekerde per GGZ-kosten lage drempelklasse 2011, genoemd in [bijlage 51](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=51&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- g. de gewichten kosten van geneeskundige geestelijke gezondheidszorg per verzekerde per GGZ-kosten lage drempelklasse 2011, genoemd in [bijlage 51](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=51&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- h. de gewichten kosten van geneeskundige geestelijke gezondheidszorg per verzekerde per GGZ-kosten hoge drempelklasse 2011, genoemd in [bijlage 52](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=52&z=2011-02-20&g=2010-10-04) van deze beleidsregels.
+- h. de gewichten kosten van geneeskundige geestelijke gezondheidszorg per verzekerde per GGZ-kosten hoge drempelklasse 2011, genoemd in [bijlage 52](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=52&z=2011-02-20&g=2011-01-02) van deze beleidsregels.
 
 2. Het college bepaalt de kosten van geneeskundige geestelijke gezondheidszorg 2011 voor verzekerden van 18 jaar en ouder met inachtneming van de [artikelen 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.11) en [3.12 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.12).
 
@@ -778,7 +778,7 @@ Het college herberekent voor de tweede keer voorlopig het deelbedrag vaste koste
 
 5. Het college berekent het gewicht kosten van geneeskundige GGZ voor verzekerden van 18 jaar en ouder per verzekerde voor de risicoklasse GGZ kosten hoge drempelklasse 2011 0 door het totaal aantal verzekerden per GGZ kosten hoge drempelklasse 1 te vermenigvuldigen met het overeenkomstige gewicht en het resultaat vervolgens te delen door het geraamde totaal aantal verzekerden GGZ kosten hoge drempelklasse 2011 0, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
 
-6. Het college herberekent het normatieve bedrag kosten van geneeskundige geestelijke gezondheidszorg 2011 voor de verzekerden van 18 jaar en ouder 2011 van alle zorgverzekeraars op de wijze zoals beschreven in het tweede tot en met negende lid van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=11&z=2011-02-20&g=2010-10-04), gebruik makend van de gewichten uit het eerste lid.
+6. Het college herberekent het normatieve bedrag kosten van geneeskundige geestelijke gezondheidszorg 2011 voor de verzekerden van 18 jaar en ouder 2011 van alle zorgverzekeraars op de wijze zoals beschreven in het tweede tot en met negende lid van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=11&z=2011-02-20&g=2011-01-02), gebruik makend van de gewichten uit het eerste lid.
 
 7. Het college herberekent de schalingsfactor kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden van 18 jaar en ouder 2011 door de som van de kosten van geneeskundige geestelijke gezondheidszorg 2011 van alle zorgverzekeraars, zoals bepaald in het tweede lid, te delen door het normatieve bedrag kosten van geneeskundige geestelijke gezondheidszorg 2011 voor de verzekerden van 18 jaar en ouder 2011 van alle zorgverzekeraars, als berekend in het zesde lid.
 
@@ -802,7 +802,7 @@ Het college herberekent voor de tweede keer voorlopig het deelbedrag vaste koste
 
 17. Het college past een hogekostencompensatie toe overeenkomstig [artikel 3.18 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.18) en verrekent dit met het resultaat van het zestiende lid.
 
-18. Het college herberekent het normatieve bedrag kosten van geneeskundige geestelijke gezondheidszorg 2011 voor de verzekerden jonger dan 18 jaar 2011 van alle zorgverzekeraars op de wijze zoals beschreven in [artikel 11, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=11&z=2011-02-20&g=2010-10-04).
+18. Het college herberekent het normatieve bedrag kosten van geneeskundige geestelijke gezondheidszorg 2011 voor de verzekerden jonger dan 18 jaar 2011 van alle zorgverzekeraars op de wijze zoals beschreven in [artikel 11, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=11&z=2011-02-20&g=2011-01-02).
 
 19. Het college herberekent de schalingsfactor kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan 18 jaar 2011 door de som van de kosten van geneeskundige geestelijke gezondheidszorg 2011 van alle zorgverzekeraars, zoals bepaald in het derde lid, te delen door het normatieve bedrag kosten van geneeskundige geestelijke gezondheidszorg 2011 voor de verzekerden jonger dan 18 jaar van alle zorgverzekeraars, als berekend in het achttiende lid.
 
@@ -820,21 +820,21 @@ Het college herberekent voor de tweede keer voorlopig het deelbedrag vaste koste
 
 1. Voor de tweede voorlopige herberekening van het deelbedrag kosten van overige prestaties hanteert het college als uitgangspunten:
 
-- a. de gewichten kosten van overige prestaties per verzekerde per risicoklasse 2011 naar leeftijd en geslacht, zoals vermeld in [bijlage 53](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=53&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- a. de gewichten kosten van overige prestaties per verzekerde per risicoklasse 2011 naar leeftijd en geslacht, zoals vermeld in [bijlage 53](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=53&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- b. de gewichten kosten van overige prestaties per verzekerde per FKG 2011, zoals vermeld in [bijlage 54](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=54&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- b. de gewichten kosten van overige prestaties per verzekerde per FKG 2011, zoals vermeld in [bijlage 54](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=54&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- c. de gewichten kosten van overige prestaties per verzekerde per DKG 2011, zoals vermeld in [bijlage 55](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=55&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- c. de gewichten kosten van overige prestaties per verzekerde per DKG 2011, zoals vermeld in [bijlage 55](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=55&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- d. de gewichten kosten van overige prestaties per verzekerde per aard van het inkomenklasse 2011, zoals vermeld in [bijlage 56](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=56&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- d. de gewichten kosten van overige prestaties per verzekerde per aard van het inkomenklasse 2011, zoals vermeld in [bijlage 56](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=56&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- e. de gewichten kosten van overige prestaties per verzekerde per regioklasse 2011, zoals vermeld in [bijlage 57](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=57&z=2011-02-20&g=2010-10-04) van deze beleidsregels;
+- e. de gewichten kosten van overige prestaties per verzekerde per regioklasse 2011, zoals vermeld in [bijlage 57](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=57&z=2011-02-20&g=2011-01-02) van deze beleidsregels;
 
-- f. de gewichten kosten van overige prestaties per verzekerde per sociaal economische statusklasse 2011, genoemd in [bijlage 58](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=58&z=2011-02-20&g=2010-10-04) van deze beleidsregels.
+- f. de gewichten kosten van overige prestaties per verzekerde per sociaal economische statusklasse 2011, genoemd in [bijlage 58](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&bijlage=58&z=2011-02-20&g=2011-01-02) van deze beleidsregels.
 
 2. Het college bepaalt de kosten van overige prestaties 2011 met inachtneming van de [artikelen 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.11) en [3.12 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.12).
 
-3. Het college herberekent het normatieve bedrag kosten van overige prestaties 2011 voor het totaal van alle verzekerden 2011 van alle zorgverzekeraars op de wijze zoals beschreven in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=12&z=2011-02-20&g=2010-10-04), gebruikmakend van de gewichten uit het eerste lid.
+3. Het college herberekent het normatieve bedrag kosten van overige prestaties 2011 voor het totaal van alle verzekerden 2011 van alle zorgverzekeraars op de wijze zoals beschreven in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=12&z=2011-02-20&g=2011-01-02), gebruikmakend van de gewichten uit het eerste lid.
 
 4. Het college herberekent de schalingsfactor kosten van overige prestaties 2011 door de som van de kosten van overige prestaties 2011 van alle zorgverzekeraars, zoals bepaald in het tweede lid, te delen door het normatieve bedrag kosten van overige prestaties 2011 voor het totaal van alle verzekerden 2011 van alle zorgverzekeraars, als berekend in het derde lid.
 
@@ -858,7 +858,7 @@ Het college herberekent voor de tweede keer voorlopig het deelbedrag vaste koste
 
 ##### Artikel 32. De tweede voorlopige herberekening van de normatieve eigen risico opbrengst 2011
 
-Het college herberekent voor de tweede keer voorlopig de normatieve eigen risico opbrengst 2011 overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=13&z=2011-02-20&g=2010-10-04) en [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=23&z=2011-02-20&g=2010-10-04), met inachtneming van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=IV&artikel=26&z=2011-02-20&g=2010-10-04).
+Het college herberekent voor de tweede keer voorlopig de normatieve eigen risico opbrengst 2011 overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=13&z=2011-02-20&g=2011-01-02) en [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=23&z=2011-02-20&g=2011-01-02), met inachtneming van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=IV&artikel=26&z=2011-02-20&g=2011-01-02).
 
 ##### Artikel 33. De tweede voorlopige herberekening van het normatieve bedrag 2011 en de tweede voorlopige herberekening en de vaststelling van de vereveningsbijdrage 2011
 
@@ -866,7 +866,7 @@ Het college herberekent voor de tweede keer voorlopig de normatieve eigen risico
 
 2. Voor de toepassing van [artikel 3.20 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.20) berekent het college:
 
-- a. de som van het bedrag bepaald in [artikel 27, veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=IV&artikel=27&z=2011-02-20&g=2010-10-04) en het bedrag bepaald in [artikel 28, vijftiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=IV&artikel=28&z=2011-02-20&g=2010-10-04);
+- a. de som van het bedrag bepaald in [artikel 27, veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=IV&artikel=27&z=2011-02-20&g=2011-01-02) en het bedrag bepaald in [artikel 28, vijftiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=IV&artikel=28&z=2011-02-20&g=2011-01-02);
 
 - b. indien het in onderdeel a bepaalde bedrag groter is dan het aantal verzekerden van 18 jaar en ouder 2011 maal EUR 22,50, dan trekt het college 90 procent van het meerdere af van het normatieve bedrag 2011 als berekend onder a;
 
@@ -874,7 +874,7 @@ Het college herberekent voor de tweede keer voorlopig de normatieve eigen risico
 
 3. Voor de toepassing van [artikel 3.20 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.20) gebruikt het college:
 
-- a. de uitkomst van [artikel 30, vierentwintigste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=IV&artikel=30&z=2011-02-20&g=2010-10-04);
+- a. de uitkomst van [artikel 30, vierentwintigste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=IV&artikel=30&z=2011-02-20&g=2011-01-02);
 
 - b. indien het in onderdeel a bepaalde bedrag groter is dan het aantal verzekerden van 18 jaar en ouder 2011 maal EUR 7,50, dan trekt het college 100 procent van het meerdere af van het normatieve bedrag 2011 als berekend onder a;
 
@@ -886,7 +886,7 @@ Het college herberekent voor de tweede keer voorlopig de normatieve eigen risico
 
 6. Het college berekent de tweede voorlopige aanvulling op de bijdrage voor de uitkering in verband met uitvoeringskosten van verzekerden jonger dan 18 jaar door het aantal verzekerden jonger dan 18 jaar 2011 te vermenigvuldigen met EUR 50.
 
-7. Het college berekent de vereveningsbijdrage 2011 voor de tweede keer voorlopig door de som van het tweede voorlopige normatieve bedrag 2011 bedoeld in het eerste lid, met toepassing van het tweede lid en de aanvulling voor uitvoeringskosten van verzekerden jonger dan 18 jaar bedoeld in [artikel 24, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=24&z=2011-02-20&g=2010-10-04), te verminderen met de tweede voorlopige normatieve eigen risico opbrengst bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=IV&artikel=32&z=2011-02-20&g=2010-10-04), en de opbrengst van de nominale rekenpremie, bedoeld in artikel 24, vijfde lid.
+7. Het college berekent de vereveningsbijdrage 2011 voor de tweede keer voorlopig door de som van het tweede voorlopige normatieve bedrag 2011 bedoeld in het eerste lid, met toepassing van het tweede lid en de aanvulling voor uitvoeringskosten van verzekerden jonger dan 18 jaar bedoeld in [artikel 24, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=24&z=2011-02-20&g=2011-01-02), te verminderen met de tweede voorlopige normatieve eigen risico opbrengst bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=IV&artikel=32&z=2011-02-20&g=2011-01-02), en de opbrengst van de nominale rekenpremie, bedoeld in artikel 24, vijfde lid.
 
 8. Het college stelt de vereveningsbijdrage 2011 voor de tweede keer voorlopig vast in september 2014 ter hoogte van de in het vorige lid berekende bijdrage.
 
@@ -898,31 +898,31 @@ Het college herberekent de vereveningsbijdrage definitief met inachtneming van d
 
 ##### Artikel 35. De definitieve herberekening van het deelbedrag kosten van B-dbc’s 2011
 
-Het college herberekent definitief het deelbedrag kosten van B-dbc’s 2011 overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=IV&artikel=27&z=2011-02-20&g=2010-10-04), met inachtneming van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=V&artikel=34&z=2011-02-20&g=2010-10-04).
+Het college herberekent definitief het deelbedrag kosten van B-dbc’s 2011 overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=IV&artikel=27&z=2011-02-20&g=2011-01-02), met inachtneming van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=V&artikel=34&z=2011-02-20&g=2011-01-02).
 
 ##### Artikel 36. De definitieve herberekening van het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2011
 
-Het college herberekent definitief het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2011overeenkomstig [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=IV&artikel=28&z=2011-02-20&g=2010-10-04), met inachtneming van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=V&artikel=34&z=2011-02-20&g=2010-10-04).
+Het college herberekent definitief het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2011overeenkomstig [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=IV&artikel=28&z=2011-02-20&g=2011-01-02), met inachtneming van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=V&artikel=34&z=2011-02-20&g=2011-01-02).
 
 ##### Artikel 37. De definitieve herberekening van het deelbedrag vaste kosten van ziekenhuisverpleging 2011
 
-Het college herberekent definitief het deelbedrag vaste kosten van ziekenhuisverpleging 2011 overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=IV&artikel=29&z=2011-02-20&g=2010-10-04), met inachtneming van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=V&artikel=34&z=2011-02-20&g=2010-10-04).
+Het college herberekent definitief het deelbedrag vaste kosten van ziekenhuisverpleging 2011 overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=IV&artikel=29&z=2011-02-20&g=2011-01-02), met inachtneming van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=V&artikel=34&z=2011-02-20&g=2011-01-02).
 
 ##### Artikel 38. De definitieve herberekening van het deelbedrag geneeskundige geestelijke gezondheidszorg 2011
 
-Het college herberekent definitief het deelbedrag geneeskundige geestelijke gezondheidszorg 2011 overeenkomstig [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=IV&artikel=30&z=2011-02-20&g=2010-10-04), met inachtneming van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=V&artikel=34&z=2011-02-20&g=2010-10-04).
+Het college herberekent definitief het deelbedrag geneeskundige geestelijke gezondheidszorg 2011 overeenkomstig [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=IV&artikel=30&z=2011-02-20&g=2011-01-02), met inachtneming van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=V&artikel=34&z=2011-02-20&g=2011-01-02).
 
 ##### Artikel 39. De definitieve herberekening van het deelbedrag kosten van overige prestaties 2011
 
-Het college herberekent definitief het deelbedrag geneeskundige geestelijke gezondheidszorg 2011 overeenkomstig [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=IV&artikel=31&z=2011-02-20&g=2010-10-04), met inachtneming van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=V&artikel=34&z=2011-02-20&g=2010-10-04).
+Het college herberekent definitief het deelbedrag geneeskundige geestelijke gezondheidszorg 2011 overeenkomstig [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=IV&artikel=31&z=2011-02-20&g=2011-01-02), met inachtneming van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=V&artikel=34&z=2011-02-20&g=2011-01-02).
 
 ##### Artikel 40. De definitieve herberekening van de normatieve eigen risico opbrengst 2011
 
-Het college herberekent definitief het deelbedrag normatieve eigen risico opbrengst overeenkomstig [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=IV&artikel=32&z=2011-02-20&g=2010-10-04), met inachtneming van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=V&artikel=34&z=2011-02-20&g=2010-10-04).
+Het college herberekent definitief het deelbedrag normatieve eigen risico opbrengst overeenkomstig [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=IV&artikel=32&z=2011-02-20&g=2011-01-02), met inachtneming van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=V&artikel=34&z=2011-02-20&g=2011-01-02).
 
 ##### Artikel 41. De definitieve herberekening van het normatieve bedrag 2011 en de definitieve herberekening en de vaststelling van de bijdrage 2011
 
-1. Het college herberekent definitief het normatieve bedrag 2011 overeenkomstig [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=IV&artikel=33&z=2011-02-20&g=2010-10-04), met inachtneming van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=V&artikel=34&z=2011-02-20&g=2010-10-04).
+1. Het college herberekent definitief het normatieve bedrag 2011 overeenkomstig [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=IV&artikel=33&z=2011-02-20&g=2011-01-02), met inachtneming van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=V&artikel=34&z=2011-02-20&g=2011-01-02).
 
 2. Het college stelt de bijdrage 2011 vast in april 2015 ter hoogte van de in het vorige lid definitief berekende bijdrage.
 
@@ -930,17 +930,17 @@ Het college herberekent definitief het deelbedrag normatieve eigen risico opbren
 
 ##### Artikel 42
 
-1. Bij gelegenheid van de vaststelling van de bijdrage 2011, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=V&artikel=41&z=2011-02-20&g=2010-10-04), stelt het college per zorgverzekeraar ook de uitkering 2011 vast voor de kosten die op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar het werkelijke bedrag door het college worden vergoed.
+1. Bij gelegenheid van de vaststelling van de bijdrage 2011, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=V&artikel=41&z=2011-02-20&g=2011-01-02), stelt het college per zorgverzekeraar ook de uitkering 2011 vast voor de kosten die op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar het werkelijke bedrag door het college worden vergoed.
 
-2. In afwachting van de vaststelling van de uitkering 2011 voor de kosten die op grond van de Zorgverzekeringswet naar het werkelijke bedrag door het college worden vergoed, stelt het college bij de voorlopige vaststelling van de bijdrage 2011, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=24&z=2011-02-20&g=2010-10-04), ook de voorlopige uitkering 2011 voor de kosten die op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar het werkelijke bedrag door het college worden vergoed, vast.
+2. In afwachting van de vaststelling van de uitkering 2011 voor de kosten die op grond van de Zorgverzekeringswet naar het werkelijke bedrag door het college worden vergoed, stelt het college bij de voorlopige vaststelling van de bijdrage 2011, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=24&z=2011-02-20&g=2011-01-02), ook de voorlopige uitkering 2011 voor de kosten die op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar het werkelijke bedrag door het college worden vergoed, vast.
 
-3. In afwachting van de vaststelling van de uitkering 2011 voor de kosten die op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar het werkelijke bedrag door het college worden vergoed, stelt het college bij de tweede voorlopige vaststelling van de bijdrage 2011, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=IV&artikel=33&z=2011-02-20&g=2010-10-04), ook de tweede voorlopige uitkering 2011 voor de kosten die op grond van de Zorgverzekeringswet naar het werkelijke bedrag door het college worden vergoed, vast.
+3. In afwachting van de vaststelling van de uitkering 2011 voor de kosten die op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar het werkelijke bedrag door het college worden vergoed, stelt het college bij de tweede voorlopige vaststelling van de bijdrage 2011, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=IV&artikel=33&z=2011-02-20&g=2011-01-02), ook de tweede voorlopige uitkering 2011 voor de kosten die op grond van de Zorgverzekeringswet naar het werkelijke bedrag door het college worden vergoed, vast.
 
 ### Hoofdstuk VII. De betalingen aan de zorgverzekeraars
 
 ##### Artikel 43
 
-1. Het college betaalt de zorgverzekeraars de vereveningsbijdrage, bedoeld in [artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=14&z=2011-02-20&g=2010-10-04), uit. Het college maakt bij de betaling onderscheid naar de volgende bestanddelen:
+1. Het college betaalt de zorgverzekeraars de vereveningsbijdrage, bedoeld in [artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=14&z=2011-02-20&g=2011-01-02), uit. Het college maakt bij de betaling onderscheid naar de volgende bestanddelen:
 
 - a. het deel van het normatieve bedrag 2011 dat betrekking heeft op het deelbedrag kosten van B-dbc’s, het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp en het deelbedrag vaste kosten van ziekenhuisverpleging 2011;
 
@@ -952,7 +952,7 @@ Het college herberekent definitief het deelbedrag normatieve eigen risico opbren
 
 - e. een aftrekpost voor de geraamde opbrengst van de nominale rekenpremie.
 
-2. Het college betaalt de zorgverzekeraars de uitkering in verband met uitvoeringskosten van verzekerden jonger dan 18 jaar, bedoeld in [artikel 14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=14&z=2011-02-20&g=2010-10-04), gelijktijdig met de betaling genoemd in het eerste lid uit.
+2. Het college betaalt de zorgverzekeraars de uitkering in verband met uitvoeringskosten van verzekerden jonger dan 18 jaar, bedoeld in [artikel 14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=14&z=2011-02-20&g=2011-01-02), gelijktijdig met de betaling genoemd in het eerste lid uit.
 
 3. Voor de betaling van de kosten, die op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar werkelijke kosten worden vergoed, kan het college ambtshalve een bedrag vaststellen, waarmee de betaling aan de zorgverzekeraars wordt verhoogd.
 
@@ -960,11 +960,11 @@ Het college herberekent definitief het deelbedrag normatieve eigen risico opbren
 
 ##### Artikel 44. Betaling
 
-1. Het college bepaalt de som van de bestanddelen genoemd in [artikel 43, eerste lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=VII&artikel=43&z=2011-02-20&g=2010-10-04) en de uitkering genoemd in artikel 43, tweede lid.
+1. Het college bepaalt de som van de bestanddelen genoemd in [artikel 43, eerste lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=VII&artikel=43&z=2011-02-20&g=2011-01-02) en de uitkering genoemd in artikel 43, tweede lid.
 
-2. Het college deelt het resultaat van [artikel 14, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=14&z=2011-02-20&g=2010-10-04), door het resultaat van het eerste lid.
+2. Het college deelt het resultaat van [artikel 14, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=14&z=2011-02-20&g=2011-01-02), door het resultaat van het eerste lid.
 
-3. Het college vermenigvuldigt ieder van de bestanddelen genoemd in [artikel 43, eerste lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=VII&artikel=43&z=2011-02-20&g=2010-10-04) en de uitkering bedoeld in artikel 43, tweede lid, met het percentage dat het resultaat is van het tweede lid.
+3. Het college vermenigvuldigt ieder van de bestanddelen genoemd in [artikel 43, eerste lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=VII&artikel=43&z=2011-02-20&g=2011-01-02) en de uitkering bedoeld in artikel 43, tweede lid, met het percentage dat het resultaat is van het tweede lid.
 
 4. De resultaten van het derde lid worden respectievelijk genoemd als volgt:
 
@@ -1006,13 +1006,13 @@ Het college herberekent definitief het deelbedrag normatieve eigen risico opbren
 
 ##### Artikel 45
 
-1. Bij de herberekening en herziening van de toegekende vereveningsbijdrage 2011 op grond van artikel 16 herziet het college de te betalen termijnen overeenkomstig [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=VII&artikel=44&z=2011-02-20&g=2010-10-04) voor de eerste keer. Het college verrekent het verschil tussen de reeds betaalde termijnen en de voor de eerste keer herziene termijnen.
+1. Bij de herberekening en herziening van de toegekende vereveningsbijdrage 2011 op grond van artikel 16 herziet het college de te betalen termijnen overeenkomstig [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=VII&artikel=44&z=2011-02-20&g=2011-01-02) voor de eerste keer. Het college verrekent het verschil tussen de reeds betaalde termijnen en de voor de eerste keer herziene termijnen.
 
-2. Bij gelegenheid van de voorlopige vaststelling van de bijdrage, op grond van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&z=2011-02-20&g=2010-10-04), herziet het college voor de tweede keer de te betalen termijnen overeenkomstig [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=VII&artikel=44&z=2011-02-20&g=2010-10-04). Het college verrekent het verschil tussen de reeds betaalde termijnen en de voor de tweede keer herziene termijnen.
+2. Bij gelegenheid van de voorlopige vaststelling van de bijdrage, op grond van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&z=2011-02-20&g=2011-01-02), herziet het college voor de tweede keer de te betalen termijnen overeenkomstig [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=VII&artikel=44&z=2011-02-20&g=2011-01-02). Het college verrekent het verschil tussen de reeds betaalde termijnen en de voor de tweede keer herziene termijnen.
 
-3. Bij gelegenheid van de tweede voorlopige vaststelling van de bijdrage, op grond van [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=IV&z=2011-02-20&g=2010-10-04), herziet het college de te betalen termijnen voor de derde keer overeenkomstig [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=VII&artikel=44&z=2011-02-20&g=2010-10-04). Het college verrekent het verschil tussen de reeds betaalde termijnen en de voor de derde maal herziene termijnen.
+3. Bij gelegenheid van de tweede voorlopige vaststelling van de bijdrage, op grond van [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=IV&z=2011-02-20&g=2011-01-02), herziet het college de te betalen termijnen voor de derde keer overeenkomstig [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=VII&artikel=44&z=2011-02-20&g=2011-01-02). Het college verrekent het verschil tussen de reeds betaalde termijnen en de voor de derde maal herziene termijnen.
 
-4. Bij gelegenheid van de definitieve vaststelling van de bijdrage, op grond van [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=V&z=2011-02-20&g=2010-10-04), stelt het college de te betalen termijnen definitief vast overeenkomstig [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=VII&artikel=44&z=2011-02-20&g=2010-10-04).
+4. Bij gelegenheid van de definitieve vaststelling van de bijdrage, op grond van [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=V&z=2011-02-20&g=2011-01-02), stelt het college de te betalen termijnen definitief vast overeenkomstig [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=VII&artikel=44&z=2011-02-20&g=2011-01-02).
 
 Het college verrekent het verschil tussen de reeds betaalde termijnen en de definitief te betalen termijnen.
 
@@ -1022,21 +1022,21 @@ Het college verrekent het verschil tussen de reeds betaalde termijnen en de defi
 
 ##### Artikel 46
 
-1. De zorgverzekeraar en het college zijn over en weer rente verschuldigd en hebben over en weer aanspraak op rente over de verschillen, bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=VII&artikel=45&z=2011-02-20&g=2010-10-04).
+1. De zorgverzekeraar en het college zijn over en weer rente verschuldigd en hebben over en weer aanspraak op rente over de verschillen, bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=VII&artikel=45&z=2011-02-20&g=2011-01-02).
 
 2. De rente, bedoeld in het eerste lid, wordt bij de voorlopige, tweede voorlopige en de definitieve vaststelling van de uitkering door het college verwerkt en zo mogelijk verrekend met andere betalingen die uit deze vaststellingen voortvloeien.
 
 ##### Artikel 47
 
-1. Bij de verrekening van verschillen, bedoeld in [artikel 45, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=VII&artikel=45&z=2011-02-20&g=2010-10-04), berekent het college rente over het verschil vanaf de datum waarop het verschil is ontstaan tot de datum waarop de verschillen worden verrekend.
+1. Bij de verrekening van verschillen, bedoeld in [artikel 45, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=VII&artikel=45&z=2011-02-20&g=2011-01-02), berekent het college rente over het verschil vanaf de datum waarop het verschil is ontstaan tot de datum waarop de verschillen worden verrekend.
 
-2. Bij de verrekening van de verschillen, bedoeld in [artikel 45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=VII&artikel=45&z=2011-02-20&g=2010-10-04), berekent het college rente vanaf de betaaldata, genoemd in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=VII&artikel=44&z=2011-02-20&g=2010-10-04) en artikel 45, eerste en tweede lid tot de datum van de voorlopige vaststelling van de bijdrage.
+2. Bij de verrekening van de verschillen, bedoeld in [artikel 45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=VII&artikel=45&z=2011-02-20&g=2011-01-02), berekent het college rente vanaf de betaaldata, genoemd in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=VII&artikel=44&z=2011-02-20&g=2011-01-02) en artikel 45, eerste en tweede lid tot de datum van de voorlopige vaststelling van de bijdrage.
 
-3. Bij de verrekening van de verschillen, bedoeld in [artikel 45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=VII&artikel=45&z=2011-02-20&g=2010-10-04), berekent het college rente vanaf de betaaldata, genoemd in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=VII&artikel=44&z=2011-02-20&g=2010-10-04) en artikel 45, eerste, tweede en derde lid tot de datum van de tweede voorlopige vaststelling van de bijdrage.
+3. Bij de verrekening van de verschillen, bedoeld in [artikel 45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=VII&artikel=45&z=2011-02-20&g=2011-01-02), berekent het college rente vanaf de betaaldata, genoemd in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=VII&artikel=44&z=2011-02-20&g=2011-01-02) en artikel 45, eerste, tweede en derde lid tot de datum van de tweede voorlopige vaststelling van de bijdrage.
 
-4. Bij de verrekening van de verschillen, bedoeld in [artikel 45, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=VII&artikel=45&z=2011-02-20&g=2010-10-04), berekent het college rente vanaf de betaaldata, genoemd in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=VII&artikel=44&z=2011-02-20&g=2010-10-04) en artikel 45 eerste, tweede, derde en vierde lid tot de datum van de definitieve vaststelling van de bijdrage.
+4. Bij de verrekening van de verschillen, bedoeld in [artikel 45, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=VII&artikel=45&z=2011-02-20&g=2011-01-02), berekent het college rente vanaf de betaaldata, genoemd in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=VII&artikel=44&z=2011-02-20&g=2011-01-02) en artikel 45 eerste, tweede, derde en vierde lid tot de datum van de definitieve vaststelling van de bijdrage.
 
-5. Voor een zorgverzekeraar waarvoor krachtens [artikel 45, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=VII&artikel=45&z=2011-02-20&g=2010-10-04), afwijkende betalingen hebben plaatsgevonden, kan het college bij de renteberekening afwijken van de vorige leden.
+5. Voor een zorgverzekeraar waarvoor krachtens [artikel 45, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=VII&artikel=45&z=2011-02-20&g=2011-01-02), afwijkende betalingen hebben plaatsgevonden, kan het college bij de renteberekening afwijken van de vorige leden.
 
 6. Voor het rentepercentage gaat het college uit van het gemiddelde van de maandrentes van het Euro Interbank Offered Rate (Euribortarief) voor driemaands termijngelden zonder onderpand over de periodes, bedoeld in het eerste, tweede, derde en vierde lid. Voor de laatste kalendermaand vóór de betaling gaat het college uit van de rente over de voorafgaande kalendermaand.
 
