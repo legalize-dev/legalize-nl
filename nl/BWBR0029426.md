@@ -4,7 +4,7 @@ identifier: "BWBR0029426"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2026-01-01"
-last_updated: "2011-01-01"
+last_updated: "2011-01-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029426"
 soort: "ministeriele-regeling-BES"
@@ -41,8 +41,6 @@ Handelende in overeenstemming met de Minister van Financiën;
 Gelet op de [artikelen 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=11) en [12, vijfde lid, van het Besluit houdende regels voor een zorgverzekering voor de bevolking van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=12);
 
 Besluit:
-
-Treedt in werking op het tijdstip waarop het Besluit zorgverzekering BES in werking treedt.
 
 ##### Artikel 1
 
