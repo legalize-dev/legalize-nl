@@ -4,7 +4,7 @@ identifier: "BWBR0028016"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2026-01-01"
-last_updated: "2011-01-01"
+last_updated: "2011-01-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028016"
 soort: "AMvB-BES"
@@ -50,13 +50,13 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **bezoldiging:** het bedrag per maand waarop de Rijksvertegenwoordiger op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2010-10-10&g=2011-01-01), van dit besluit aanspraak kan maken.
+- **bezoldiging:** het bedrag per maand waarop de Rijksvertegenwoordiger op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2011-01-12&g=2011-01-12), van dit besluit aanspraak kan maken.
 
 ##### Artikel 2. Bezoldiging en vergoeding voor ambtskosten
 
 1. De bezoldiging van de Rijksvertegenwoordiger bedraagt € 9098,26.
 
-2. De Rijksvertegenwoordiger ontvangt een vergoeding van zes procent van zijn bezoldiging per maand voor aan de uitoefening van het ambt verbonden kosten.
+2. De Rijksvertegenwoordiger ontvangt een vergoeding van 2,88% van zijn bezoldiging per maand voor aan de uitoefening van het ambt verbonden kosten.
 
 3. De aanspraak op de bezoldiging en op de vergoeding voor ambtskosten, bedoeld in het tweede lid, begint met ingang van de dag waarop de benoeming ingaat en eindigt met ingang van de dag waarop het ontslag ingaat of de dag, volgende op die van het overlijden.
 
@@ -68,13 +68,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3. Vakantie-uitkering en eindejaarsuitkering
 
-Naast de bezoldiging, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2010-10-10&g=2011-01-01), ontvangt de Rijksvertegenwoordiger op de voet van de regeling voor het personeel in de sector Rijk een vakantie-uitkering en een eindejaarsuitkering.
+Naast de bezoldiging, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2011-01-12&g=2011-01-12), ontvangt de Rijksvertegenwoordiger op de voet van de regeling voor het personeel in de sector Rijk een vakantie-uitkering en een eindejaarsuitkering.
 
 ##### Artikel 4. Vergoeding bij waarneming
 
-1. De waarnemend Rijksvertegenwoordiger die krachtens [artikel 200 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=200) als zodanig optreedt, geniet gedurende de waarnemingsperiode per maand een beloning van twintig procent van de bezoldiging, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2010-10-10&g=2011-01-01). De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=3&z=2010-10-10&g=2011-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=7&z=2010-10-10&g=2011-01-01) zijn van overeenkomstige toepassing.
+1. De waarnemend Rijksvertegenwoordiger die krachtens [artikel 200 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=200) als zodanig optreedt, geniet gedurende de waarnemingsperiode per maand een beloning van twintig procent van de bezoldiging, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2011-01-12&g=2011-01-12). De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=3&z=2011-01-12&g=2011-01-12) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=7&z=2011-01-12&g=2011-01-12) zijn van overeenkomstige toepassing.
 
-2. Bij aantoonbare inkomstenderving als gevolg van de waarneming kan het bedrag van de beloning door Onze Minister worden verhoogd, echter tot maximaal de bezoldiging, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2010-10-10&g=2011-01-01).
+2. Bij aantoonbare inkomstenderving als gevolg van de waarneming kan het bedrag van de beloning door Onze Minister worden verhoogd, echter tot maximaal de bezoldiging, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2011-01-12&g=2011-01-12).
 
 ##### Artikel 5. Vergoeding tijdens sollicitatieprocedure
 
@@ -120,7 +120,7 @@ Indien de Rijksvertegenwoordiger langer dan acht dagen wegens ziekte of om ander
 
 ##### Artikel 10. Voorzieningen in verband met ziekte
 
-In het geval van ziekte van de Rijksvertegenwoordiger, behoudt hij het recht op een bezoldiging als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2010-10-10&g=2011-01-01).
+In het geval van ziekte van de Rijksvertegenwoordiger, behoudt hij het recht op een bezoldiging als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2011-01-12&g=2011-01-12).
 
 ##### Artikel 11. Buitengewoon verlof
 
@@ -192,10 +192,18 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 8a
 
-Dit onderdeel is nog niet inwerking getreden
+Als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31) worden aangewezen:
+
+- a. de vergoeding voor aan het ambt verbonden kosten, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2011-01-12&g=2011-01-12);
+
+- b. de vergoedingen, bedoeld in [artikel 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=7&z=2011-01-12&g=2011-01-12), voor zover deze niet worden gerekend tot een vergoeding als bedoeld in [artikel 31a, tweede lid, onderdeelen a en b, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a).
 
 ##### Artikel 16a
 
-Dit onderdeel is nog niet inwerking getreden
+Bij toepassing van [artikel 39c van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=39c):
+
+- a. wordt in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2011-01-12&g=2011-01-12), voor «2,88%» gelezen: 6%;
+
+- b. blijft [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=8a&z=2011-01-12&g=2011-01-12) buiten toepassing.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
