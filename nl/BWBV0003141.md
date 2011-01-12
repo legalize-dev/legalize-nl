@@ -4,7 +4,7 @@ identifier: "BWBV0003141"
 country: "nl"
 rank: "verdrag"
 publication_date: "2011-01-12"
-last_updated: "2009-01-26"
+last_updated: "2011-01-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003141"
 soort: "verdrag"
@@ -136,7 +136,7 @@ B. Dergelijke staten en regionale intergouvernementele organisaties voor economi
 
 - 1. oorspronkelijke leden van het Agentschap na ondertekening van dit Statuut en nederlegging van een akte van bekrachtiging;
 
-- 2. overige leden van het Agentschap na nederlegging van een akte van toetreding nadat hun verzoek om lidmaatschap is goedgekeurd. Het lidmaatschap wordt als goedgekeurd beschouwd indien drie maanden nadat het verzoek naar de leden is verzonden geen bezwaar is aangetekend. In geval van bezwaar neemt de Vergadering een besluit over het verzoek in overeenstemming met [artikel IX, lid H, onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=IX&z=2009-01-26&g=2009-01-26).
+- 2. overige leden van het Agentschap na nederlegging van een akte van toetreding nadat hun verzoek om lidmaatschap is goedgekeurd. Het lidmaatschap wordt als goedgekeurd beschouwd indien drie maanden nadat het verzoek naar de leden is verzonden geen bezwaar is aangetekend. In geval van bezwaar neemt de Vergadering een besluit over het verzoek in overeenstemming met [artikel IX, lid H, onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=IX&z=2011-01-12&g=2011-01-12).
 
 C. In het geval van een regionale intergouvernementele organisatie voor economische integratie beslissen de organisatie en haar lidstaten over hun onderscheiden verantwoordelijkheden ten aanzien van de nakoming van hun verplichtingen uit hoofde van dit Statuut. De organisatie en haar lidstaten zijn niet gerechtigd gelijktijdig de uit dit Statuut voortvloeiende rechten, met inbegrip van stemrechten, uit te oefenen. In hun akten van bekrachtiging of toetreding geven de bovenbedoelde organisaties de reikwijdte van hun bevoegdheden ter zake van door dit Statuut geregelde aangelegenheden aan. Deze organisaties doen de regering die depositaris is tevens mededeling van iedere relevante verandering in de reikwijdte van hun bevoegdheden. Bij een stemming over aangelegenheden die binnen hun bevoegdheden liggen, stemmen de regionale intergouvernementele organisaties voor economische integratie met het aantal stemmen dat gelijk is aan het totaal van de stemmen dat is toegekend aan hun lidstaten die tevens lid van dit Agentschap zijn.
 
@@ -148,7 +148,7 @@ A. De Vergadering kan de status van waarnemer toekennen aan:
 
 - 2. ondertekenaars die het Statuut niet hebben bekrachtigd; en
 
-- 3. aanvragers van het lidmaatschap wier verzoek om lidmaatschap is goedgekeurd in overeenstemming met [artikel VI, lid B, onderdeel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=VI&z=2009-01-26&g=2009-01-26).
+- 3. aanvragers van het lidmaatschap wier verzoek om lidmaatschap is goedgekeurd in overeenstemming met [artikel VI, lid B, onderdeel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=VI&z=2011-01-12&g=2011-01-12).
 
 B. Waarnemers kunnen zonder stemrecht deelnemen aan de openbare zittingen van de Vergadering en haar hulporganen.
 
@@ -186,7 +186,7 @@ D. De zittingen van de Vergadering worden gehouden ter plaatse van de zetel van 
 
 E. Bij aanvang van elke gewone zitting kiest de Vergadering een voorzitter en de andere functionarissen die nodig kunnen zijn, rekening houdend met een billijke geografische vertegenwoordiging. Zij blijven in functie tot een nieuwe voorzitter en andere functionarissen worden gekozen tijdens de volgende gewone zitting. De Vergadering stelt haar reglement van orde vast in overeenstemming met dit Statuut.
 
-F. Met inachtneming van [artikel VI, lid C](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=VI&z=2009-01-26&g=2009-01-26), heeft elk lid van het Agentschap een stem in de Vergadering. De Vergadering neemt besluiten omtrent procedurele kwesties met een gewone meerderheid van de aanwezige leden die hun stem uitbrengen. Besluiten omtrent inhoudelijke aangelegenheden worden bij consensus genomen door de aanwezige leden. Indien geen consensus kan worden bereikt, wordt deze geacht te zijn bereikt indien ten hoogste twee leden bezwaar maken, tenzij in het Statuut anders is bepaald. Wanneer de vraag rijst of een aangelegenheid inhoudelijk is of niet, wordt deze als een inhoudelijke aangelegenheid behandeld, tenzij de Vergadering anders besluit bij consensus van de aanwezige leden. Indien geen consensus kan worden bereikt, wordt deze geacht te zijn bereikt indien ten hoogste twee leden bezwaar maken. Een meerderheid van de leden van het Agentschap vormt het quorum voor de Vergadering.
+F. Met inachtneming van [artikel VI, lid C](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=VI&z=2011-01-12&g=2011-01-12), heeft elk lid van het Agentschap een stem in de Vergadering. De Vergadering neemt besluiten omtrent procedurele kwesties met een gewone meerderheid van de aanwezige leden die hun stem uitbrengen. Besluiten omtrent inhoudelijke aangelegenheden worden bij consensus genomen door de aanwezige leden. Indien geen consensus kan worden bereikt, wordt deze geacht te zijn bereikt indien ten hoogste twee leden bezwaar maken, tenzij in het Statuut anders is bepaald. Wanneer de vraag rijst of een aangelegenheid inhoudelijk is of niet, wordt deze als een inhoudelijke aangelegenheid behandeld, tenzij de Vergadering anders besluit bij consensus van de aanwezige leden. Indien geen consensus kan worden bereikt, wordt deze geacht te zijn bereikt indien ten hoogste twee leden bezwaar maken. Een meerderheid van de leden van het Agentschap vormt het quorum voor de Vergadering.
 
 G. De Vergadering, bij consensus van de aanwezige leden:
 
@@ -200,7 +200,7 @@ G. De Vergadering, bij consensus van de aanwezige leden:
 
 - 5. beslist over de instelling van hulporganen en keurt hun mandaat goed; en
 
-- 6. beslist over toestemming om stemrecht uit te oefenen in overeenstemming met [artikel XVII, lid A](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=XVII&z=2009-01-26&g=2009-01-26).
+- 6. beslist over toestemming om stemrecht uit te oefenen in overeenstemming met [artikel XVII, lid A](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=XVII&z=2011-01-12&g=2011-01-12).
 
 H. De Vergadering, bij consensus van de aanwezige leden, die, indien geen consensus kan worden bereikt, geacht wordt te zijn bereikt indien ten hoogste twee leden bezwaar maken:
 
@@ -212,11 +212,11 @@ H. De Vergadering, bij consensus van de aanwezige leden, die, indien geen consen
 
 - 4. verleent goedkeuring aan het sluiten van overeenkomsten ter zake van vraagstukken, aangelegenheden of kwesties die binnen de reikwijdte van dit Statuut vallen; en
 
-- 5. beslist, in geval van onenigheid tussen haar leden, over aanvullende projecten in overeenstemming met [artikel V, lid B](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=V&z=2009-01-26&g=2009-01-26).
+- 5. beslist, in geval van onenigheid tussen haar leden, over aanvullende projecten in overeenstemming met [artikel V, lid B](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=V&z=2011-01-12&g=2011-01-12).
 
 I. De Vergadering stelt de zetel van het Agentschap vast en wijst de Directeur-Generaal van het Secretariaat (hierna te noemen „Directeur-Generaal”) aan bij consensus van de aanwezige leden, of, indien geen consensus kan worden bereikt, met een tweederdemeerderheid van de aanwezige leden die hun stem uitbrengen.
 
-J. Tijdens haar eerste zitting bestudeert de Vergadering en verleent zij goedkeuring aan, naar gelang wat van toepassing is, alle besluiten, conceptovereenkomsten, bepalingen en richtlijnen die door de Voorbereidende Commissie zijn opgesteld, in overeenstemming met de stemprocedures voor de desbetreffende kwestie zoals vervat in [artikel IX, leden F tot en met I](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=IX&z=2009-01-26&g=2009-01-26).
+J. Tijdens haar eerste zitting bestudeert de Vergadering en verleent zij goedkeuring aan, naar gelang wat van toepassing is, alle besluiten, conceptovereenkomsten, bepalingen en richtlijnen die door de Voorbereidende Commissie zijn opgesteld, in overeenstemming met de stemprocedures voor de desbetreffende kwestie zoals vervat in [artikel IX, leden F tot en met I](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=IX&z=2011-01-12&g=2011-01-12).
 
 ##### Artikel X. De Raad
 
@@ -238,7 +238,7 @@ F. De Raad:
 
 - 3. keurt de voorbereiding voor de zittingen van de Vergadering goed, met inbegrip van het opstellen van de conceptagenda;
 
-- 4. bestudeert het conceptjaarverslag inzake de werkzaamheden van het Agentschap en de overige verslagen die door het Secretariaat zijn opgesteld overeenkomstig [artikel XI, lid E, onderdeel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=XI&z=2009-01-26&g=2009-01-26), van dit Statuut en legt deze aan de Vergadering voor;
+- 4. bestudeert het conceptjaarverslag inzake de werkzaamheden van het Agentschap en de overige verslagen die door het Secretariaat zijn opgesteld overeenkomstig [artikel XI, lid E, onderdeel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=XI&z=2011-01-12&g=2011-01-12), van dit Statuut en legt deze aan de Vergadering voor;
 
 - 5. stelt andere verslagen op waar de Vergadering om kan verzoeken;
 
@@ -248,7 +248,7 @@ F. De Raad:
 
 - 8. heeft de bevoegdheid aangelegenheden ter bestudering aan de Vergadering voor te leggen; en
 
-- 9. richt, zo nodig, hulporganen op, in overeenstemming met [artikel VIII, lid B](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=VIII&z=2009-01-26&g=2009-01-26), en stelt het reglement van orde en de termijn ervan vast.
+- 9. richt, zo nodig, hulporganen op, in overeenstemming met [artikel VIII, lid B](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=VIII&z=2011-01-12&g=2011-01-12), en stelt het reglement van orde en de termijn ervan vast.
 
 ##### Artikel XI. Het Secretariaat
 
@@ -274,7 +274,7 @@ E. Het Secretariaat:
 
 - 5. vergemakkelijkt de communicatie tussen het Agentschap en zijn leden; en
 
-- 6. verspreidt het beleidsadvies na verstrekking daarvan onder de leden van het Agentschap in overeenstemming met [artikel IV, lid C, onderdeel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=IV&z=2009-01-26&g=2009-01-26), en legt de Vergadering en de Raad voorafgaand aan elk van hun zittingen een door hem opgesteld verslag inzake het beleidsadvies voor. Het verslag aan de Raad omvat tevens het voorgenomen beleidsadvies voor de tenuitvoerlegging van het jaarlijkse werkprogramma.
+- 6. verspreidt het beleidsadvies na verstrekking daarvan onder de leden van het Agentschap in overeenstemming met [artikel IV, lid C, onderdeel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=IV&z=2011-01-12&g=2011-01-12), en legt de Vergadering en de Raad voorafgaand aan elk van hun zittingen een door hem opgesteld verslag inzake het beleidsadvies voor. Het verslag aan de Raad omvat tevens het voorgenomen beleidsadvies voor de tenuitvoerlegging van het jaarlijkse werkprogramma.
 
 F. Bij de vervulling van hun werkzaamheden mogen de Directeur-Generaal en de overige leden van het personeel geen instructies vragen of ontvangen van enige regering of van enige andere bron buiten het Agentschap. Zij dienen zich te onthouden van handelingen die hun positie als internationale ambtenaren die alleen aan de Vergadering en de Raad verantwoording verschuldigd zijn zouden kunnen schaden. Elk lid verbindt zich ertoe het uitsluitend internationale karakter van de taken van de Directeur-Generaal en de overige leden van het personeel te eerbiedigen en niet te trachten hen te beïnvloeden bij de vervulling van deze taken.
 
@@ -288,7 +288,7 @@ A. De begroting van het Agentschap wordt gefinancierd door:
 
 - 3. overige mogelijke bronnen
 
-in overeenstemming met de financiële regels die door de Vergadering bij consensus dienen te worden aangenomen, zoals vervat in [artikel IX, lid G](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=IX&z=2009-01-26&g=2009-01-26), van dit Statuut. De financiële regels en de begroting waarborgen een solide financiële basis van het Agentschap en garanderen de doeltreffende en doelmatige tenuitvoerlegging van de werkzaamheden van het Agentschap, zoals vastgelegd in het werkprogramma. Met de verplichte bijdragen worden de kernactiviteiten en administratieve kosten gefinancierd.
+in overeenstemming met de financiële regels die door de Vergadering bij consensus dienen te worden aangenomen, zoals vervat in [artikel IX, lid G](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=IX&z=2011-01-12&g=2011-01-12), van dit Statuut. De financiële regels en de begroting waarborgen een solide financiële basis van het Agentschap en garanderen de doeltreffende en doelmatige tenuitvoerlegging van de werkzaamheden van het Agentschap, zoals vastgelegd in het werkprogramma. Met de verplichte bijdragen worden de kernactiviteiten en administratieve kosten gefinancierd.
 
 B. De ontwerpbegroting van het Agentschap wordt opgesteld door het Secretariaat en ter beoordeling voorgelegd aan de Raad. De Raad zendt de ontwerpbegroting ofwel naar de Vergadering met de aanbeveling deze goed te keuren ofwel terug naar het Secretariaat voor herziening en nieuwe indiening.
 
@@ -312,11 +312,11 @@ B. Wijzigingen treden voor alle leden in werking:
 
 - 1. wanneer zij door de Vergadering worden goedgekeurd na bestudering van door de Raad ingediende opmerkingen bij elke voorgestelde wijziging; en
 
-- 2. nadat alle leden hun instemming door de wijziging te worden gebonden kenbaar hebben gemaakt in overeenstemming met hun onderscheiden constitutionele procedures. leden kunnen hun instemming door dit Statuut te worden gebonden tot uitdrukking brengen door een dienovereenkomstige akte neder te leggen bij de in [artikel XX, lid A](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=XX&z=2009-01-26&g=2009-01-26), bedoelde depositaris.
+- 2. nadat alle leden hun instemming door de wijziging te worden gebonden kenbaar hebben gemaakt in overeenstemming met hun onderscheiden constitutionele procedures. leden kunnen hun instemming door dit Statuut te worden gebonden tot uitdrukking brengen door een dienovereenkomstige akte neder te leggen bij de in [artikel XX, lid A](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=XX&z=2011-01-12&g=2011-01-12), bedoelde depositaris.
 
-C. Elk lid kan zich te allen tijde na het verstrijken van een periode van vijf jaar na de datum van inwerkingtreding van dit Statuut in overeenstemming met [artikel XIX, lid D](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=XIX&z=2009-01-26&g=2009-01-26), terugtrekken uit het Agentschap door de in [artikel XX, lid A](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=XX&z=2009-01-26&g=2009-01-26), bedoelde depositaris daarvan schriftelijk kennis te geven. De depositaris stelt de Raad en alle leden onverwijld van deze terugtrekking in kennis.
+C. Elk lid kan zich te allen tijde na het verstrijken van een periode van vijf jaar na de datum van inwerkingtreding van dit Statuut in overeenstemming met [artikel XIX, lid D](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=XIX&z=2011-01-12&g=2011-01-12), terugtrekken uit het Agentschap door de in [artikel XX, lid A](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=XX&z=2011-01-12&g=2011-01-12), bedoelde depositaris daarvan schriftelijk kennis te geven. De depositaris stelt de Raad en alle leden onverwijld van deze terugtrekking in kennis.
 
-D. Een dergelijke terugtrekking wordt van kracht aan het eind van het jaar waarin deze kenbaar is gemaakt. De terugtrekking door een lid uit het Agentschap laat zijn contractuele verplichtingen uit hoofde van [artikel V, lid B](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=V&z=2009-01-26&g=2009-01-26), of zijn financiële verplichtingen voor het jaar waarin het zich terugtrekt onverlet.
+D. Een dergelijke terugtrekking wordt van kracht aan het eind van het jaar waarin deze kenbaar is gemaakt. De terugtrekking door een lid uit het Agentschap laat zijn contractuele verplichtingen uit hoofde van [artikel V, lid B](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=V&z=2011-01-12&g=2011-01-12), of zijn financiële verplichtingen voor het jaar waarin het zich terugtrekt onverlet.
 
 ##### Artikel XVI. Beslechting van geschillen
 
@@ -336,9 +336,9 @@ De zetel van het Agentschap wordt vastgesteld door de Vergadering tijdens haar e
 
 ##### Artikel XIX. Ondertekening, bekrachtiging, inwerkingtreding en toetreding
 
-A. Dit Statuut staat tijdens de Oprichtingsconferentie open voor ondertekening door alle staten die lid zijn van de Verenigde Naties en door de regionale intergouvernementele organisaties voor economische integratie zoals omschreven in [artikel VI, lid A](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=VI&z=2009-01-26&g=2009-01-26). Het Statuut blijft openstaan voor ondertekening tot aan de datum van inwerkingtreding ervan.
+A. Dit Statuut staat tijdens de Oprichtingsconferentie open voor ondertekening door alle staten die lid zijn van de Verenigde Naties en door de regionale intergouvernementele organisaties voor economische integratie zoals omschreven in [artikel VI, lid A](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=VI&z=2011-01-12&g=2011-01-12). Het Statuut blijft openstaan voor ondertekening tot aan de datum van inwerkingtreding ervan.
 
-B. Voor staten en regionale intergouvernementele organisaties voor economische integratie zoals omschreven in [artikel VI, lid A](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=VI&z=2009-01-26&g=2009-01-26), die dit Statuut niet hebben ondertekend, staat het Statuut open voor toetreding nadat hun lidmaatschap door de Vergadering is goedgekeurd in overeenstemming met [artikel VI, lid B, onderdeel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=VI&z=2009-01-26&g=2009-01-26).
+B. Voor staten en regionale intergouvernementele organisaties voor economische integratie zoals omschreven in [artikel VI, lid A](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=VI&z=2011-01-12&g=2011-01-12), die dit Statuut niet hebben ondertekend, staat het Statuut open voor toetreding nadat hun lidmaatschap door de Vergadering is goedgekeurd in overeenstemming met [artikel VI, lid B, onderdeel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=VI&z=2011-01-12&g=2011-01-12).
 
 C. Door de nederlegging van een akte van bekrachtiging of toetreding bij de depositaris wordt de instemming door dit Statuut te worden gebonden tot uitdrukking gebracht. Bekrachtiging van of toetreding tot dit Statuut wordt door de staten verricht in overeenstemming met hun onderscheiden constitutionele procedures.
 
@@ -356,13 +356,13 @@ B. Dit Statuut wordt door de regering die depositaris is geregistreerd in overee
 
 C. Dit Statuut, opgesteld in de Engelse taal, wordt nedergelegd in de archieven van de regering die depositaris is.
 
-D. Naar behoren gewaarmerkte afschriften van dit Statuut worden door de regering die depositaris is gezonden naar de regeringen van de staten en naar de bestuursorganen van de regionale intergouvernementele organisaties voor economische integratie die het Statuut ondertekend hebben of wier verzoek om lidmaatschap is goedgekeurd in overeenstemming met [artikel VI, lid B, onderdeel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=VI&z=2009-01-26&g=2009-01-26).
+D. Naar behoren gewaarmerkte afschriften van dit Statuut worden door de regering die depositaris is gezonden naar de regeringen van de staten en naar de bestuursorganen van de regionale intergouvernementele organisaties voor economische integratie die het Statuut ondertekend hebben of wier verzoek om lidmaatschap is goedgekeurd in overeenstemming met [artikel VI, lid B, onderdeel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=VI&z=2011-01-12&g=2011-01-12).
 
 E. De regering die depositaris is, stelt alle ondertekenaars van dit Statuut onverwijld in kennis van de datum van nederlegging van elke akte van bekrachtiging en de datum van inwerkingtreding van het Statuut.
 
 F. De regering die depositaris is, stelt alle ondertekenaars en leden onverwijld in kennis van de data waarop staten of regionale intergouvernementele organisaties voor economische integratie nadien lid worden van het Agentschap.
 
-G. De regering die depositaris is, zendt nieuwe verzoeken om lidmaatschap onverwijld naar alle leden van het Agentschap ter bestudering in overeenstemming met [artikel VI, lid B, onderdeel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=VI&z=2009-01-26&g=2009-01-26).
+G. De regering die depositaris is, zendt nieuwe verzoeken om lidmaatschap onverwijld naar alle leden van het Agentschap ter bestudering in overeenstemming met [artikel VI, lid B, onderdeel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=VI&z=2011-01-12&g=2011-01-12).
 
 IN WITNESS WHEREOF the undersigned, being duly authorised, have signed this Statute.
 
