@@ -4,7 +4,7 @@ identifier: "BWBR0029403"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-03-20"
-last_updated: "2005-01-01"
+last_updated: "2011-01-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029403"
 soort: "AMvB"
@@ -118,7 +118,7 @@ Onze Minister beslist binnen dertien weken op de aanvraag tot verlening van de e
 
 2. Nadat Onze Minister met de voorlopige begroting en het ontwerp heeft ingestemd, worden de bestektekeningen en de uitgewerkte begroting ingediend. De begroting geeft inzicht in de aard, omvang, baten en lasten in verband met het bouwproject.
 
-3. [Paragraaf 4.2.8.5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.2.8.5) en [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029403&hoofdstuk=4&artikel=10&z=2011-01-12&g=2005-01-01) zijn van toepassing op de subsidie voor een bouwproject.
+3. [Paragraaf 4.2.8.5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.2.8.5) en [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029403&hoofdstuk=4&artikel=10&z=2011-01-12&g=2011-01-12) zijn van toepassing op de subsidie voor een bouwproject.
 
 ### Hoofdstuk 4. Verplichtingen van de subsidieontvanger
 
