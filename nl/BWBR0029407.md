@@ -4,7 +4,7 @@ identifier: "BWBR0029407"
 country: "nl"
 rank: "amvb"
 publication_date: "2011-01-12"
-last_updated: "2011-01-01"
+last_updated: "2011-01-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029407"
 soort: "AMvB"
@@ -80,14 +80,20 @@ Wijzigt het Rechtspositiebesluit Rijksvertegenwoordiger BES.
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Rechtspositiebesluit commissarissen van de Koning, het Rechtspositiebesluit burgemeesters, het Rechtspositiebesluit gedeputeerden, het Rechtspositiebesluit wethouders, het Rechtspositiebesluit raads- en commissieleden, het het Waterschapsbesluit en het Rechtspositiebesluit Rijksvertegenwoordiger BES.
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+1. [Artikel I, onderdelen A, onder 2, B, D, E, F en R](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=I&z=2011-01-12&g=2011-01-12), [artikel II, onderdelen A, D, N, O, P en U](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=II&z=2011-01-12&g=2011-01-12), [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=III&z=2011-01-12&g=2011-01-12), [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=IV&z=2011-01-12&g=2011-01-12), [artikel V, onderdelen A, B, C, D, E, onder 1 en 2, en F](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=V&z=2011-01-12&g=2011-01-12), [artikel VI, onderdelen A, B, C, D, E, F, H en I](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=VI&z=2011-01-12&g=2011-01-12), [artikel VII, onderdelen A, B, C, E, F, M en N](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=VII&z=2011-01-12&g=2011-01-12), en [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=VIII&z=2011-01-12&g=2011-01-12) treden in werking met ingang van 1 januari 2011. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 1 januari 2011, treden de in de vorige zin genoemde artikelonderdelen in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst, en werken terug tot en met 1 januari 2011.
+
+2. [Artikel I, onderdelen A, onder 1 en 3, G, H, I, J, K, L, M, O, P en S](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=I&z=2011-01-12&g=2011-01-12), [artikel II, onderdelen B, C, E, G, H, I, J, K, L, Q, S, V en W](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=II&z=2011-01-12&g=2011-01-12), [artikel V, onderdeel E, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=V&z=2011-01-12&g=2011-01-12), [artikel VI, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=VI&z=2011-01-12&g=2011-01-12), [artikel VII, onderdelen D, G, H, I, L en O](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=VII&z=2011-01-12&g=2011-01-12), en [artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=IX&z=2011-01-12&g=2011-01-12) treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij worden geplaatst.
+
+3. [Artikel I, onderdelen N en Q](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=I&z=2011-01-12&g=2011-01-12), [artikel II, onderdelen F, R en T](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=II&z=2011-01-12&g=2011-01-12), en [artikel VII, onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=VII&z=2011-01-12&g=2011-01-12), treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij worden geplaatst en werken terug tot en met 27 februari 2010.
+
+4. [Artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=I&z=2011-01-12&g=2011-01-12), [artikel II, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=II&z=2011-01-12&g=2011-01-12), en [artikel VII, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=VII&z=2011-01-12&g=2011-01-12), treden in werking met ingang van 1 januari 2015.
 
 ##### Artikel XI
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit wordt aangehaald als: Besluit wijziging van de rechtspositiebesluiten decentrale politieke ambtsdragers 2010.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
