@@ -4,7 +4,7 @@ identifier: "BWBR0018707"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-02-13"
-last_updated: "2011-01-01"
+last_updated: "2011-01-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018707"
 soort: "AMvB"
@@ -86,7 +86,7 @@ Aan de Belastingdienst/Toeslagen worden desgevraagd door de hierna aangewezen na
 
 - b. voor zover het de toekenning van kinderopvangtoeslagen betreft:
 
-- 1°. **door het kindercentrum of het gastouderbureau:** de gegevens of inlichtingen over de gegevens, bedoeld in [artikel 11, eerste lid, onderdeel b, van de Regeling Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&artikel=11);
+- 1°. **door het kindercentrum of het gastouderbureau:** de gegevens of inlichtingen over de gegevens, bedoeld in [artikel 11, eerste lid, onderdeel b, van de Regeling Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&artikel=11);
 
 - 2°. **door de gastouder:** gegevens inzake het kinderopvangcontract, waaronder in elk geval begrepen de uurprijs voor de kinderopvang en het aantal kinderen en uren waarvoor kinderopvang wordt genoten;
 
