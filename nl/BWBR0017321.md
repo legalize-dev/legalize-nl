@@ -4,7 +4,7 @@ identifier: "BWBR0017321"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2011-01-01"
+last_updated: "2011-01-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017321"
 soort: "AMvB"
@@ -54,7 +54,7 @@ Geldt voor kalenderjaren die aanvangen op of na 1 januari 2005.
 
 In dit besluit wordt verstaan onder:
 
-- a. wet: [Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017);
+- a. wet: [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017);
 
 - b. dagopvang: kinderopvang, verzorgd door een kindercentrum voor kinderen tot de leeftijd waarop zij het basisonderwijs volgen;
 
@@ -62,9 +62,9 @@ In dit besluit wordt verstaan onder:
 
 - d. maximum uurprijs: de maximaal voor kinderopvangtoeslag en voor tegemoetkomingen van de gemeente of het Uitvoeringsinstituut werknemersverzekeringen in aanmerking komende prijs per zestig minuten geboden kinderopvang;
 
-- e. kosten van kinderopvang: het aantal uren kinderopvang per kind, vermenigvuldigd met de voor die kinderopvang te betalen prijs, met inachtneming van het bedrag, bedoeld in [artikel 7, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=7);
+- e. kosten van kinderopvang: het aantal uren kinderopvang per kind, vermenigvuldigd met de voor die kinderopvang te betalen prijs, met inachtneming van het bedrag, bedoeld in [artikel 1.7, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.7);
 
-- f. tegenwoordige arbeid: tegenwoordige arbeid als bedoeld in [artikel 6, eerste lid, onder a of b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=6).
+- f. tegenwoordige arbeid: tegenwoordige arbeid als bedoeld in [artikel 1.6, eerste lid, onder a of b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.6).
 
 ### Hoofdstuk 2. De kinderopvangtoeslag
 
@@ -98,7 +98,7 @@ De hoogte van de kinderopvangtoeslag wordt voor iedere kalendermaand afzonderlij
 
 ##### Artikel 5
 
-De maximum uurprijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=4&z=2011-01-01&g=2011-01-01), wordt jaarlijks aangepast overeenkomstig:
+De maximum uurprijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=4&z=2011-01-14&g=2011-01-14), wordt jaarlijks aangepast overeenkomstig:
 
 - a. 80% van de ontwikkeling van de loonvoet bedrijven en 20% van de consumentenprijsindex zoals deze voor het betrokken jaar, blijkens bekendmaking in het Centraal Economisch Plan in het voorafgaande jaar, is geraamd; en
 
@@ -106,17 +106,17 @@ De maximum uurprijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel 6
 
-Voor de berekening van de kinderopvangtoeslag is de verdeling van de toetsingsinkomens in inkomensgroepen vanaf het berekeningsjaar 2009 in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=I&z=2011-01-01&g=2011-01-01) opgenomen.
+Voor de berekening van de kinderopvangtoeslag is de verdeling van de toetsingsinkomens in inkomensgroepen vanaf het berekeningsjaar 2009 in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=I&z=2011-01-14&g=2011-01-14) opgenomen.
 
 ##### Artikel 7
 
-De bedragen van de toetsingsinkomens van de inkomensgroepen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2011-01-01&g=2011-01-01), worden aangepast overeenkomstig de ontwikkeling van de contractlonen, zoals deze voor het betrokken jaar, blijkens bekendmaking in het Centraal Economisch Plan in het voorafgaande jaar, is geraamd, waarbij onder ontwikkeling van de contractlonen wordt verstaan: het gemiddelde van de procentuele ontwikkeling van de contractlonen in de marktsector, de gepremieerde sector en de gesubsidieerde sector, en bij de overheid, zoals dit door het Centraal Planbureau wordt bekendgemaakt.
+De bedragen van de toetsingsinkomens van de inkomensgroepen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2011-01-14&g=2011-01-14), worden aangepast overeenkomstig de ontwikkeling van de contractlonen, zoals deze voor het betrokken jaar, blijkens bekendmaking in het Centraal Economisch Plan in het voorafgaande jaar, is geraamd, waarbij onder ontwikkeling van de contractlonen wordt verstaan: het gemiddelde van de procentuele ontwikkeling van de contractlonen in de marktsector, de gepremieerde sector en de gesubsidieerde sector, en bij de overheid, zoals dit door het Centraal Planbureau wordt bekendgemaakt.
 
 ##### Artikel 8
 
 1. De kinderopvangtoeslag wordt uitgedrukt in een percentage van de kosten van kinderopvang.
 
-2. De percentages, bedoeld in het eerste lid, worden vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=I&z=2011-01-01&g=2011-01-01).
+2. De percentages, bedoeld in het eerste lid, worden vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=I&z=2011-01-14&g=2011-01-14).
 
 #### Paragraaf 2. Specifieke berekeningsfactor bij kinderopvangtoeslag voor ouder zonder partner
 
@@ -164,7 +164,7 @@ Vervallen
 
 ##### Artikel 18
 
-1. Het Uitvoeringsinstituut werknemersverzekeringen geeft een beschikking tot verlening van de tegemoetkoming, bedoeld in [artikel 30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=30), binnen vier weken na ontvangst van de aanvraag.
+1. Het Uitvoeringsinstituut werknemersverzekeringen geeft een beschikking tot verlening van de tegemoetkoming, bedoeld in [artikel 1.30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.30), binnen vier weken na ontvangst van de aanvraag.
 
 2. Indien een beschikking als bedoeld in het eerste lid niet binnen de in dat lid genoemde termijn kan worden gegeven, kan het Uitvoeringsinstituut werknemersverzekeringen deze termijn met een door hem te bepalen redelijke termijn verlengen. Het Uitvoeringsinstituut werknemersverzekeringen stelt de ouder daarvan in kennis.
 
@@ -281,9 +281,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 22a
 
-[Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=7&z=2011-01-01&g=2011-01-01) is niet van toepassing voor de aanpassingen voor het jaar 2009.
+[Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=7&z=2011-01-14&g=2011-01-14) is niet van toepassing voor de aanpassingen voor het jaar 2009.
 
-## Bijlage I. , behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2011-01-01&g=2011-01-01) van het Besluit kinderopvangtoeslag en tegemoetkomingen in kosten kinderopvang
+## Bijlage I. , behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2011-01-14&g=2011-01-14) van het Besluit kinderopvangtoeslag en tegemoetkomingen in kosten kinderopvang
 
 | (Gezamenlijk) toetsingsinkomen | (Gezamenlijk) toetsingsinkomen | Tegemoetkoming Rijk als percentage van de kosten van kinderopvang | Tegemoetkoming Rijk als percentage van de kosten van kinderopvang |
 | --- | --- | --- | --- |
