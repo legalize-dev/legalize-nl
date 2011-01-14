@@ -4,7 +4,7 @@ identifier: "BWBR0004710"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2010-01-01"
+last_updated: "2011-01-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004710"
 soort: "AMvB"
@@ -56,7 +56,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. bodem: het horizontale onderdeel van een kinderbed of -box dat bestemd is om als lig-, zit- of stavlak te dienen;
 
-- d. kinderopvang: kinderopvang als bedoeld in [artikel 1, eerste lid, van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1).
+- d. kinderopvang: kinderopvang als bedoeld in [artikel 1.1, eerste lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.1).
 
 ##### Artikel 2
 
@@ -64,7 +64,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Het is verboden kinderbedden en -boxen te verhandelen anders dan met inachtneming van de voorschriften in of krachtens dit besluit gesteld met betrekking tot het bezigen van vermeldingen.
 
-3. Het is verboden kinderbedden en -boxen te gebruiken in het kader van kinderopvang, indien die bedden en boxen niet voldoen aan de eisen die op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004710&artikel=3&z=2010-01-01&g=2010-01-01) worden gesteld met betrekking tot kinderbedden en -boxen die tot doel hebben in het kader van kinderopvang te worden gebezigd.
+3. Het is verboden kinderbedden en -boxen te gebruiken in het kader van kinderopvang, indien die bedden en boxen niet voldoen aan de eisen die op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004710&artikel=3&z=2011-01-14&g=2011-01-14) worden gesteld met betrekking tot kinderbedden en -boxen die tot doel hebben in het kader van kinderopvang te worden gebezigd.
 
 ##### Artikel 3
 
@@ -98,7 +98,7 @@ Kinderbedden en -boxen moeten zijn vergezeld van waarschuwingen voor mogelijke g
 
 ##### Artikel 9
 
-Op verzoek van de belanghebbende worden door Onze Minister van Volksgezondheid, Welzijn en Sport normen die gelijkwaardig zijn aan het in het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004710&artikel=3&z=2010-01-01&g=2010-01-01) bepaalde, met het in dit artikel bepaalde gelijkgesteld.
+Op verzoek van de belanghebbende worden door Onze Minister van Volksgezondheid, Welzijn en Sport normen die gelijkwaardig zijn aan het in het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004710&artikel=3&z=2011-01-14&g=2011-01-14) bepaalde, met het in dit artikel bepaalde gelijkgesteld.
 
 ##### Artikel 10
 
