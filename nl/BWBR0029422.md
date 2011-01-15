@@ -4,7 +4,7 @@ identifier: "BWBR0029422"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2018-10-01"
-last_updated: "2010-10-10"
+last_updated: "2011-01-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029422"
 soort: "ministeriele-regeling-BES"
@@ -130,7 +130,7 @@ Het bevoegd gezag kan niet-ambtenaren die in zijn opdracht diensten verrichten v
 
 ##### Artikel 10
 
-De in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0029422&artikel=9&z=2011-01-15&g=2010-10-10) bedoelde vergoeding voor verblijfkosten wordt niet genoten door ambtenaren, voor wie door het bevoegd gezag is bepaald, dat alleen de werkelijk gedane uitgaven vergoed worden of een andere bijzondere regeling is getroffen.
+De in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0029422&artikel=9&z=2011-01-15&g=2011-01-15) bedoelde vergoeding voor verblijfkosten wordt niet genoten door ambtenaren, voor wie door het bevoegd gezag is bepaald, dat alleen de werkelijk gedane uitgaven vergoed worden of een andere bijzondere regeling is getroffen.
 
 ##### Artikel 11
 
