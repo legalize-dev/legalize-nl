@@ -4,7 +4,7 @@ identifier: "BWBV0002763"
 country: "nl"
 rank: "verdrag"
 publication_date: "2017-05-11"
-last_updated: "2009-10-03"
+last_updated: "2011-01-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0002763"
 soort: "verdrag"
@@ -71,7 +71,7 @@ Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
 - d. „document voor tijdelijke invoer”: het internationale, als douaneaangifte aanvaarde, douanedocument dat het mogelijk maakt goederen (met inbegrip van vervoermiddelen) te identificeren en dat een internationaal geldende waarborg inhoudt ter dekking van rechten en heffingen bij invoer;
 
-- e. „douane-unie of economische unie”: een unie opgericht door en samengesteld uit leden als bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=24&z=2009-10-03&g=2009-10-03), van deze Overeenkomst die bevoegd is haar eigen regelgeving aan te nemen die bindend is voor haar leden ten aanzien van aangelegenheden die door deze Overeenkomst worden beheerst, en die bevoegd is te besluiten, in overeenstemming met haar interne procedures, deze Overeenkomst te ondertekenen, te bekrachtigen of daartoe toe te treden;
+- e. „douane-unie of economische unie”: een unie opgericht door en samengesteld uit leden als bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=24&z=2011-01-16&g=2011-01-16), van deze Overeenkomst die bevoegd is haar eigen regelgeving aan te nemen die bindend is voor haar leden ten aanzien van aangelegenheden die door deze Overeenkomst worden beheerst, en die bevoegd is te besluiten, in overeenstemming met haar interne procedures, deze Overeenkomst te ondertekenen, te bekrachtigen of daartoe toe te treden;
 
 - f. „persoon”: een natuurlijke persoon of rechtspersoon, tenzij uit het zinsverband anders blijkt;
 
@@ -87,7 +87,7 @@ Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
 1. Elke Overeenkomstsluitende Partij verbindt zich ertoe de tijdelijke invoer toe te staan, in overeenstemming met de bepalingen van deze Overeenkomst, van de goederen (met inbegrip van vervoermiddelen) genoemd in de Bijlagen bij deze Overeenkomst.
 
-2. Onverminderd de bepalingen van [Bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=E&z=2009-10-03&g=2009-10-03) wordt de tijdelijke invoer toegestaan met algehele voorwaardelijke vrijstelling van rechten en heffingen bij invoer en zonder toepassing van invoerbeperkingen of -verboden van economische aard.
+2. Onverminderd de bepalingen van [Bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=E&z=2011-01-16&g=2011-01-16) wordt de tijdelijke invoer toegestaan met algehele voorwaardelijke vrijstelling van rechten en heffingen bij invoer en zonder toepassing van invoerbeperkingen of -verboden van economische aard.
 
 #### Structuur van de Bijlagen
 
@@ -117,7 +117,7 @@ Elke Bijlage bij deze Overeenkomst bestaat in principe uit:
 
 ##### Artikel 5. Documenten voor tijdelijke invoer
 
-Zonder afbreuk te doen aan de tijdelijke-invoerprocedure ingevolge de bepalingen van [Bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=E&z=2009-10-03&g=2009-10-03) aanvaardt elke Overeenkomstsluitende Partij, in plaats van haar nationale douanedocumenten en als waarborg voor de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=A&hoofdstuk=IV&artikel=8&z=2009-10-03&g=2009-10-03) van Bijlage A bedoelde bedragen, elk document voor tijdelijk invoer dat geldig is voor haar grondgebied en dat is afgegeven en wordt gebruikt in overeenstemming met de in die Bijlage vastgelegde voorwaarden voor goederen (met inbegrip van vervoermiddelen) die tijdelijk worden ingevoerd ingevolge de andere Bijlagen bij deze Overeenkomst die zij heeft aanvaard.
+Zonder afbreuk te doen aan de tijdelijke-invoerprocedure ingevolge de bepalingen van [Bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=E&z=2011-01-16&g=2011-01-16) aanvaardt elke Overeenkomstsluitende Partij, in plaats van haar nationale douanedocumenten en als waarborg voor de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=A&hoofdstuk=IV&artikel=8&z=2011-01-16&g=2011-01-16) van Bijlage A bedoelde bedragen, elk document voor tijdelijk invoer dat geldig is voor haar grondgebied en dat is afgegeven en wordt gebruikt in overeenstemming met de in die Bijlage vastgelegde voorwaarden voor goederen (met inbegrip van vervoermiddelen) die tijdelijk worden ingevoerd ingevolge de andere Bijlagen bij deze Overeenkomst die zij heeft aanvaard.
 
 #### Identificatie
 
@@ -241,21 +241,21 @@ De Overeenkomstsluitende Partijen doen elkaar, op verzoek en voor zover de natio
 
 1. Er wordt een Beheerscomité ingesteld dat toeziet op de uitvoering van deze Overeenkomst en dat alle maatregelen ter verzekering van een eenvormige uitlegging en toepassing daarvan, alsmede alle voorgestelde wijzigingen daarop, bestudeert. Het Beheerscomité besluit over de opneming van nieuwe Bijlagen bij deze Overeenkomst.
 
-2. De Overeenkomstsluitende Partijen zijn lid van het Beheerscomité. Het Comité kan besluiten dat de bevoegde administraties van leden, Staten of douanegebieden als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=24&z=2009-10-03&g=2009-10-03) van deze Overeenkomst die geen Overeenkomstsluitende Partij zijn, of vertegenwoordigers van internationale organisaties, de vergaderingen van het Comité, wat betreft kwesties die hun aangaan, als waarnemer kunnen bijwonen.
+2. De Overeenkomstsluitende Partijen zijn lid van het Beheerscomité. Het Comité kan besluiten dat de bevoegde administraties van leden, Staten of douanegebieden als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=24&z=2011-01-16&g=2011-01-16) van deze Overeenkomst die geen Overeenkomstsluitende Partij zijn, of vertegenwoordigers van internationale organisaties, de vergaderingen van het Comité, wat betreft kwesties die hun aangaan, als waarnemer kunnen bijwonen.
 
 3. De Raad verschaft het Comité secretariaatsdiensten.
 
 4. Het Comité kiest bij elke zitting een Voorzitter en een Vicevoorzitter.
 
-5. De bevoegde administraties van de Overeenkomstsluitende Partijen doen de Raad met redenen omklede voorstellen tot wijzigingen van deze Overeenkomst toekomen, alsook verzoeken tot plaatsing van vraagstukken op de agenda van de vergaderingen van het Comité. De Raad brengt deze onder de aandacht van de bevoegde administraties van de Overeenkomstsluitende Partijen en van de leden, Staten of douanegebieden als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=24&z=2009-10-03&g=2009-10-03) van deze Overeenkomst die geen Overeenkomstsluitende Partij zijn.
+5. De bevoegde administraties van de Overeenkomstsluitende Partijen doen de Raad met redenen omklede voorstellen tot wijzigingen van deze Overeenkomst toekomen, alsook verzoeken tot plaatsing van vraagstukken op de agenda van de vergaderingen van het Comité. De Raad brengt deze onder de aandacht van de bevoegde administraties van de Overeenkomstsluitende Partijen en van de leden, Staten of douanegebieden als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=24&z=2011-01-16&g=2011-01-16) van deze Overeenkomst die geen Overeenkomstsluitende Partij zijn.
 
-6. De Raad roept het Comité bijeen op een door het Comité vastgesteld tijdstip en tevens op verzoek van de bevoegde administraties van ten minste twee Overeenkomstsluitende Partijen. De Raad verspreidt ten minste zes weken voordat het Comité bijeenkomt de ontwerpagenda onder de bevoegde administraties van de Overeenkomstsluitende Partijen en van de leden, Staten of douanegebieden als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=24&z=2009-10-03&g=2009-10-03) van deze Overeenkomst die geen Overeenkomstsluitende Partij zijn.
+6. De Raad roept het Comité bijeen op een door het Comité vastgesteld tijdstip en tevens op verzoek van de bevoegde administraties van ten minste twee Overeenkomstsluitende Partijen. De Raad verspreidt ten minste zes weken voordat het Comité bijeenkomt de ontwerpagenda onder de bevoegde administraties van de Overeenkomstsluitende Partijen en van de leden, Staten of douanegebieden als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=24&z=2011-01-16&g=2011-01-16) van deze Overeenkomst die geen Overeenkomstsluitende Partij zijn.
 
-7. Op grond van het besluit van het Comité, genomen uit hoofde van de bepalingen van het tweede lid van dit artikel, nodigt de Raad de bevoegde administraties van de leden, Staten of douanegebieden als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=24&z=2009-10-03&g=2009-10-03) van deze Overeenkomst die geen Overeenkomstsluitende Partij zijn en de betrokken internationale organisaties uit om zich door waarnemers te doen vertegenwoordigen op de vergaderingen van het Comité.
+7. Op grond van het besluit van het Comité, genomen uit hoofde van de bepalingen van het tweede lid van dit artikel, nodigt de Raad de bevoegde administraties van de leden, Staten of douanegebieden als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=24&z=2011-01-16&g=2011-01-16) van deze Overeenkomst die geen Overeenkomstsluitende Partij zijn en de betrokken internationale organisaties uit om zich door waarnemers te doen vertegenwoordigen op de vergaderingen van het Comité.
 
 8. De voorstellen worden in stemming gebracht. Elke op de vergadering vertegenwoordigde Overeenkomstsluitende Partij heeft één stem. Andere voorstellen dan voorstellen tot wijzigingen van deze Overeenkomst worden door het Comité aangenomen met een meerderheid van de aanwezige leden die hun stem uitbrengen. Voorstellen tot wijzigingen van deze Overeenkomst worden aangenomen met een meerderheid van twee derde van de aanwezige leden die hun stem uitbrengen.
 
-9. Indien [artikel 24, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=24&z=2009-10-03&g=2009-10-03), van deze Overeenkomst van toepassing is, hebben douane-unies of economische unies die Partij zijn bij deze Overeenkomst bij stemming slechts een aantal stemmen dat gelijk is aan het totaal van de stemmen dat is toegekend aan hun leden die Partij zijn bij deze Overeenkomst.
+9. Indien [artikel 24, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=24&z=2011-01-16&g=2011-01-16), van deze Overeenkomst van toepassing is, hebben douane-unies of economische unies die Partij zijn bij deze Overeenkomst bij stemming slechts een aantal stemmen dat gelijk is aan het totaal van de stemmen dat is toegekend aan hun leden die Partij zijn bij deze Overeenkomst.
 
 10. Voor de sluiting van zijn vergadering neemt het Comité een verslag aan.
 
@@ -291,7 +291,7 @@ De Overeenkomstsluitende Partijen doen elkaar, op verzoek en voor zover de natio
 
 5. Overeenkomstsluitende Partijen die een nieuwe Bijlage aanvaarden die het Beheerscomité besluit op te nemen in deze Overeenkomst stellen de depositaris daarvan in kennis in overeenstemming met het vierde lid van dit artikel.
 
-6. Overeenkomstsluitende Partijen doen de depositaris mededeling van de toepassingsvoorwaarden of de benodigde informatie ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=III&artikel=8&z=2009-10-03&g=2009-10-03) en [artikel 24, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=24&z=2009-10-03&g=2009-10-03), van deze Overeenkomst, [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=A&hoofdstuk=II&artikel=2&z=2009-10-03&g=2009-10-03), van Bijlage A en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=E&hoofdstuk=III&artikel=4&z=2009-10-03&g=2009-10-03) van Bijlage E. Zij doen tevens mededeling van elke wijziging in de toepassing van deze bepalingen.
+6. Overeenkomstsluitende Partijen doen de depositaris mededeling van de toepassingsvoorwaarden of de benodigde informatie ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=III&artikel=8&z=2011-01-16&g=2011-01-16) en [artikel 24, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=24&z=2011-01-16&g=2011-01-16), van deze Overeenkomst, [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=A&hoofdstuk=II&artikel=2&z=2011-01-16&g=2011-01-16), van Bijlage A en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=E&hoofdstuk=III&artikel=4&z=2011-01-16&g=2011-01-16) van Bijlage E. Zij doen tevens mededeling van elke wijziging in de toepassing van deze bepalingen.
 
 7. Een douane-unie of economische unie kan in overeenstemming met het eerste, tweede en vierde lid van dit artikel Partij bij deze Overeenkomst worden. Bedoelde douane-unie of economische unie stelt de depositaris in kennis van haar bevoegdheid met betrekking tot aangelegenheden die door deze Overeenkomst worden beheerst. De douane-unie of economische unie die Partij is bij deze Overeenkomst oefent ten aanzien van de aangelegenheden die onder haar bevoegdheid vallen zelf de rechten uit en draagt de verantwoordelijkheden die deze Overeenkomst toekent aan haar leden die Partij zijn bij deze Overeenkomst. In dat geval zijn de leden niet gerechtigd deze rechten, met inbegrip van het stemrecht, afzonderlijk uit te oefenen.
 
@@ -305,7 +305,7 @@ De Overeenkomstsluitende Partijen doen elkaar, op verzoek en voor zover de natio
 
 - a. ontvangt en bewaart de oorspronkelijke teksten van deze Overeenkomst;
 
-- b. maakt voor eensluidend gewaarmerkte afschriften van de oorspronkelijke teksten van deze Overeenkomst op en doet deze toekomen aan de leden en de douane-unies of economische unies als bedoeld in [artikel 24, eerste en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=24&z=2009-10-03&g=2009-10-03), van deze Overeenkomst;
+- b. maakt voor eensluidend gewaarmerkte afschriften van de oorspronkelijke teksten van deze Overeenkomst op en doet deze toekomen aan de leden en de douane-unies of economische unies als bedoeld in [artikel 24, eerste en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=24&z=2011-01-16&g=2011-01-16), van deze Overeenkomst;
 
 - c. ontvangt alle ondertekeningen met of zonder voorbehoud van bekrachtiging, bekrachtigingen van of toetredingen tot deze Overeenkomst en ontvangt en bewaart alle akten, kennisgevingen en mededelingen die hiermede verband houden;
 
@@ -313,17 +313,17 @@ De Overeenkomstsluitende Partijen doen elkaar, op verzoek en voor zover de natio
 
 - e. stelt de Partijen bij deze Overeenkomst, de andere ondertekenaars, de leden van de Raad die geen Partij zijn bij deze Overeenkomst en de Secretaris-Generaal van de Verenigde Naties in kennis van:
 
-- –. ondertekeningen, bekrachtigingen, toetredingen en aanvaardingen van Bijlagen uit hoofde van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=24&z=2009-10-03&g=2009-10-03) van deze Overeenkomst;
+- –. ondertekeningen, bekrachtigingen, toetredingen en aanvaardingen van Bijlagen uit hoofde van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=24&z=2011-01-16&g=2011-01-16) van deze Overeenkomst;
 
 - –. nieuwe Bijlagen die het Beheerscomité besluit op te nemen in deze Overeenkomst;
 
-- –. de datum van inwerkingtreding van deze Overeenkomst en van elke Bijlage in overeenstemming met [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=26&z=2009-10-03&g=2009-10-03) van deze Overeenkomst;
+- –. de datum van inwerkingtreding van deze Overeenkomst en van elke Bijlage in overeenstemming met [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=26&z=2011-01-16&g=2011-01-16) van deze Overeenkomst;
 
-- –. kennisgevingen ontvangen in overeenstemming met de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=24&z=2009-10-03&g=2009-10-03), [29](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=29&z=2009-10-03&g=2009-10-03), [30](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=30&z=2009-10-03&g=2009-10-03) en [32](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=32&z=2009-10-03&g=2009-10-03) van deze Overeenkomst;
+- –. kennisgevingen ontvangen in overeenstemming met de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=24&z=2011-01-16&g=2011-01-16), [29](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=29&z=2011-01-16&g=2011-01-16), [30](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=30&z=2011-01-16&g=2011-01-16) en [32](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=32&z=2011-01-16&g=2011-01-16) van deze Overeenkomst;
 
-- –. opzeggingen overeenkomstig [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=31&z=2009-10-03&g=2009-10-03) van deze Overeenkomst; en
+- –. opzeggingen overeenkomstig [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=31&z=2011-01-16&g=2011-01-16) van deze Overeenkomst; en
 
-- –. wijzigingen die worden geacht te zijn aanvaard in overeenstemming met [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=32&z=2009-10-03&g=2009-10-03) van deze Overeenkomst en de datum van inwerkingtreding daarvan.
+- –. wijzigingen die worden geacht te zijn aanvaard in overeenstemming met [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=32&z=2011-01-16&g=2011-01-16) van deze Overeenkomst en de datum van inwerkingtreding daarvan.
 
 3. Indien er een verschil van mening ontstaat tussen een Overeenkomstsluitende Partij en de depositaris omtrent de verrichting van de taken van laatstgenoemde, brengt de depositaris of de desbetreffende Overeenkomstsluitende Partij het vraagstuk onder de aandacht van de andere Overeenkomstsluitende Partijen en de ondertekenaars en, indien van toepassing, van de Raad.
 
@@ -331,7 +331,7 @@ De Overeenkomstsluitende Partijen doen elkaar, op verzoek en voor zover de natio
 
 ##### Artikel 26. Inwerkingtreding
 
-1. Deze Overeenkomst treedt in werking drie maanden nadat vijf van de leden of douane-unies of economische unies als bedoeld in [artikel 24, eerste en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=24&z=2009-10-03&g=2009-10-03), van deze Overeenkomst deze zonder voorbehoud van bekrachtiging hebben ondertekend of hun akte van bekrachtiging of toetreding hebben nedergelegd.
+1. Deze Overeenkomst treedt in werking drie maanden nadat vijf van de leden of douane-unies of economische unies als bedoeld in [artikel 24, eerste en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=24&z=2011-01-16&g=2011-01-16), van deze Overeenkomst deze zonder voorbehoud van bekrachtiging hebben ondertekend of hun akte van bekrachtiging of toetreding hebben nedergelegd.
 
 2. Voor een Overeenkomstsluitende Partij die deze Overeenkomst zonder voorbehoud van bekrachtiging ondertekent, deze bekrachtigt of daartoe toetreedt nadat vijf leden of douane-unies of economische unies deze hebben ondertekend zonder voorbehoud van bekrachtiging of hun akte van bekrachtiging of toetreding hebben nedergelegd, treedt deze Overeenkomst in werking drie maanden nadat bedoelde Overeenkomstsluitende Partij heeft ondertekend zonder voorbehoud van bekrachtiging of haar akte van bekrachtiging of toetreding heeft nedergelegd.
 
@@ -369,25 +369,25 @@ Bij de inwerkingtreding van een Bijlage bij deze Overeenkomst die een afschaffin
 
 1. Elke Overeenkomstsluitende Partij kan ten tijde van de ondertekening van deze Overeenkomst zonder voorbehoud van bekrachtiging of bij de nederlegging van haar akte van bekrachtiging of toetreding, dan wel op enig tijdstip daarna, door middel van een kennisgeving aan de depositaris verklaren dat deze Overeenkomst mede van toepassing is op alle of enkele gebieden voor de internationale betrekkingen waarvan zij verantwoordelijk is. Bedoelde kennisgeving wordt van kracht drie maanden na de datum waarop de depositaris deze ontvangt. Deze Overeenkomst kan evenwel niet van toepassing zijn op de in de kennisgeving genoemde gebieden voordat zij voor de betrokken Overeenkomstsluitende Partij in werking is getreden.
 
-2. Elke Overeenkomstsluitende Partij die ingevolge het eerste lid van dit artikel te kennen heeft gegeven dat deze Overeenkomst mede van toepassing is op een gebied voor de internationale betrekkingen waarvan zij verantwoordelijk is, kan de depositaris, overeenkomstig de bepalingen van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=31&z=2009-10-03&g=2009-10-03) van deze Overeenkomst, mededelen dat het betrokken gebied deze Overeenkomst niet langer toepast.
+2. Elke Overeenkomstsluitende Partij die ingevolge het eerste lid van dit artikel te kennen heeft gegeven dat deze Overeenkomst mede van toepassing is op een gebied voor de internationale betrekkingen waarvan zij verantwoordelijk is, kan de depositaris, overeenkomstig de bepalingen van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=31&z=2011-01-16&g=2011-01-16) van deze Overeenkomst, mededelen dat het betrokken gebied deze Overeenkomst niet langer toepast.
 
 #### Opzegging
 
 ##### Artikel 31. Opzegging
 
-1. Deze Overeenkomst wordt voor onbepaalde tijd gesloten, doch kan te allen tijde na de datum van inwerkingtreding overeenkomstig [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=26&z=2009-10-03&g=2009-10-03) van deze Overeenkomst door elke Overeenkomstsluitende Partij worden opgezegd.
+1. Deze Overeenkomst wordt voor onbepaalde tijd gesloten, doch kan te allen tijde na de datum van inwerkingtreding overeenkomstig [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=26&z=2011-01-16&g=2011-01-16) van deze Overeenkomst door elke Overeenkomstsluitende Partij worden opgezegd.
 
 2. De opzegging wordt medegedeeld door een schriftelijke kennisgeving, die wordt nedergelegd bij de depositaris.
 
 3. De opzegging wordt van kracht zes maanden nadat de depositaris de kennisgeving van opzegging heeft ontvangen.
 
-4. De bepalingen van het tweede en derde lid van dit artikel zijn ook van toepassing op de Bijlagen bij deze Overeenkomst, met dien verstande dat elke Overeenkomstsluitende Partij te allen tijde na de datum van inwerkingtreding van de Bijlagen overeenkomstig [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=26&z=2009-10-03&g=2009-10-03) van deze Overeenkomst, haar aanvaarding van een of meer Bijlagen kan intrekken. Elke Overeenkomstsluitende Partij die haar aanvaarding van alle Bijlagen intrekt, wordt geacht deze Overeenkomst te hebben opgezegd. Bovendien wordt een Overeenkomstsluitende Partij die haar aanvaarding van [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=A&z=2009-10-03&g=2009-10-03) intrekt geacht deze Overeenkomst te hebben opgezegd, ook al blijft haar aanvaarding van de overige Bijlagen van kracht.
+4. De bepalingen van het tweede en derde lid van dit artikel zijn ook van toepassing op de Bijlagen bij deze Overeenkomst, met dien verstande dat elke Overeenkomstsluitende Partij te allen tijde na de datum van inwerkingtreding van de Bijlagen overeenkomstig [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=26&z=2011-01-16&g=2011-01-16) van deze Overeenkomst, haar aanvaarding van een of meer Bijlagen kan intrekken. Elke Overeenkomstsluitende Partij die haar aanvaarding van alle Bijlagen intrekt, wordt geacht deze Overeenkomst te hebben opgezegd. Bovendien wordt een Overeenkomstsluitende Partij die haar aanvaarding van [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=A&z=2011-01-16&g=2011-01-16) intrekt geacht deze Overeenkomst te hebben opgezegd, ook al blijft haar aanvaarding van de overige Bijlagen van kracht.
 
 #### Wijzigingsprocedure
 
 ##### Artikel 32. Wijzigingsprocedure
 
-1. Het Beheerscomité, bijeen in overeenstemming met [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=22&z=2009-10-03&g=2009-10-03) van deze Overeenkomst, kan wijzigingen van deze Overeenkomst en de Bijlagen daarbij aanbevelen.
+1. Het Beheerscomité, bijeen in overeenstemming met [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=22&z=2011-01-16&g=2011-01-16) van deze Overeenkomst, kan wijzigingen van deze Overeenkomst en de Bijlagen daarbij aanbevelen.
 
 2. De tekst van een aldus aanbevolen wijziging wordt door de depositaris medegedeeld aan alle Partijen bij deze Overeenkomst, aan de andere ondertekenaars en aan de leden van de Raad die geen Partij zijn bij deze Overeenkomst.
 
@@ -403,7 +403,7 @@ Bij de inwerkingtreding van een Bijlage bij deze Overeenkomst die een afschaffin
 
 1. Elke Overeenkomstsluitende Partij die deze Overeenkomst bekrachtigt, of daartoe toetreedt, wordt geacht alle wijzigingen daarvan te hebben aanvaard die van kracht zijn geworden op de datum van nederlegging van haar akte van bekrachtiging of toetreding.
 
-2. Elke Overeenkomstsluitende Partij die een Bijlage aanvaardt, wordt geacht alle wijzigingen van die Bijlage te hebben aanvaard die van kracht zijn geworden op de datum waarop zij aan de depositaris kennisgeeft van haar aanvaarding, tenzij zij een voorbehoud maakt uit hoofde van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=29&z=2009-10-03&g=2009-10-03) van deze Overeenkomst.
+2. Elke Overeenkomstsluitende Partij die een Bijlage aanvaardt, wordt geacht alle wijzigingen van die Bijlage te hebben aanvaard die van kracht zijn geworden op de datum waarop zij aan de depositaris kennisgeeft van haar aanvaarding, tenzij zij een voorbehoud maakt uit hoofde van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=29&z=2011-01-16&g=2011-01-16) van deze Overeenkomst.
 
 #### Registratie en authentieke teksten
 
@@ -1451,7 +1451,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - e. „internationale organisatie”: een organisatie waarbij nationale organisaties zijn aangesloten die gemachtigd zijn tot het stellen van waarborgen en het afgeven van documenten voor tijdelijke invoer;
 
-- f. „aansprakelijke organisatie”: een organisatie die door de douaneautoriteiten van een Overeenkomstsluitende Partij is toegelaten tot het stellen van waarborgen voor de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=A&hoofdstuk=IV&artikel=8&z=2009-10-03&g=2009-10-03) van deze Bijlage bedoelde bedragen op het grondgebied van die Overeenkomstsluitende Partij en die is aangesloten bij een waarborgketen;
+- f. „aansprakelijke organisatie”: een organisatie die door de douaneautoriteiten van een Overeenkomstsluitende Partij is toegelaten tot het stellen van waarborgen voor de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=A&hoofdstuk=IV&artikel=8&z=2011-01-16&g=2011-01-16) van deze Bijlage bedoelde bedragen op het grondgebied van die Overeenkomstsluitende Partij en die is aangesloten bij een waarborgketen;
 
 - g. „organisatie van afgifte”: een organisatie die door de douaneautoriteiten is toegelaten voor de afgifte van documenten voor tijdelijke invoer en die direct of indirect is aangesloten bij een waarborgketen;
 
@@ -1463,7 +1463,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 ##### Artikel 2. Werkingssfeer
 
-1. In overeenstemming met [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=III&artikel=5&z=2009-10-03&g=2009-10-03) van deze Overeenkomst aanvaardt elke Overeenkomstsluitende Partij, in plaats van haar nationale douanedocumenten en als waarborg voor de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=A&hoofdstuk=IV&artikel=8&z=2009-10-03&g=2009-10-03) van deze Bijlage bedoelde bedragen, elk document voor tijdelijke invoer dat geldig is voor haar grondgebied en dat is afgegeven en wordt gebruikt in overeenstemming met de in deze Bijlage vastgelegde voorwaarden voor goederen (met inbegrip van vervoermiddelen) die tijdelijk worden ingevoerd ingevolge de andere Bijlagen bij deze Overeenkomst die zij heeft aanvaard.
+1. In overeenstemming met [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=III&artikel=5&z=2011-01-16&g=2011-01-16) van deze Overeenkomst aanvaardt elke Overeenkomstsluitende Partij, in plaats van haar nationale douanedocumenten en als waarborg voor de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=A&hoofdstuk=IV&artikel=8&z=2011-01-16&g=2011-01-16) van deze Bijlage bedoelde bedragen, elk document voor tijdelijke invoer dat geldig is voor haar grondgebied en dat is afgegeven en wordt gebruikt in overeenstemming met de in deze Bijlage vastgelegde voorwaarden voor goederen (met inbegrip van vervoermiddelen) die tijdelijk worden ingevoerd ingevolge de andere Bijlagen bij deze Overeenkomst die zij heeft aanvaard.
 
 2. Elke Overeenkomstsluitende Partij kan ook documenten voor tijdelijke invoer, afgegeven en gebruikt onder dezelfde voorwaarden, aanvaarden voor tijdelijke-invoerregelingen krachtens haar nationale wetten en voorschriften.
 
@@ -1473,7 +1473,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Documenten voor tijdelijke invoer dienen overeen te komen met de in de Aanhangsels bij deze Bijlage weergegeven modellen: [Aanhangsel I](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=I&z=2009-10-03&g=2009-10-03) voor ATA-carnets, [Aanhangsel II](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=II&z=2009-10-03&g=2009-10-03) voor CPD-carnets.
+1. Documenten voor tijdelijke invoer dienen overeen te komen met de in de Aanhangsels bij deze Bijlage weergegeven modellen: [Aanhangsel I](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=I&z=2011-01-16&g=2011-01-16) voor ATA-carnets, [Aanhangsel II](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=II&z=2011-01-16&g=2011-01-16) voor CPD-carnets.
 
 2. De Aanhangsels bij deze Bijlage worden geacht daarvan een integrerend onderdeel uit te maken.
 
@@ -1513,7 +1513,7 @@ De termijn die wordt vastgesteld voor de wederuitvoer van goederen (met inbegrip
 
 ##### Artikel 8. Aansprakelijkheid
 
-1. Elke aansprakelijke organisatie verplicht zich ertoe aan de douaneautoriteiten van de Overeenkomstsluitende Partij op het grondgebied waarvan zij is gevestigd, het bedrag van de rechten en heffingen bij invoer en alle andere bedragen te betalen, met uitzondering van de in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=III&artikel=4&z=2009-10-03&g=2009-10-03), van deze Overeenkomst bedoelde bedragen, die verschuldigd zijn in geval van schending van de voorwaarden voor tijdelijke invoer of douanedoorvoer ten aanzien van goederen (met inbegrip van vervoermiddelen) die in dat gebied worden gebracht onder dekking van een document voor tijdelijke invoer afgegeven door een soortgelijke organisatie van afgifte. Zij is tezamen met de personen die bovengenoemde bedragen verschuldigd zijn, hoofdelijk aansprakelijk voor de betaling daarvan.
+1. Elke aansprakelijke organisatie verplicht zich ertoe aan de douaneautoriteiten van de Overeenkomstsluitende Partij op het grondgebied waarvan zij is gevestigd, het bedrag van de rechten en heffingen bij invoer en alle andere bedragen te betalen, met uitzondering van de in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=III&artikel=4&z=2011-01-16&g=2011-01-16), van deze Overeenkomst bedoelde bedragen, die verschuldigd zijn in geval van schending van de voorwaarden voor tijdelijke invoer of douanedoorvoer ten aanzien van goederen (met inbegrip van vervoermiddelen) die in dat gebied worden gebracht onder dekking van een document voor tijdelijke invoer afgegeven door een soortgelijke organisatie van afgifte. Zij is tezamen met de personen die bovengenoemde bedragen verschuldigd zijn, hoofdelijk aansprakelijk voor de betaling daarvan.
 
 2. **ATA-carnet:**
 
@@ -1539,7 +1539,7 @@ De douaneautoriteiten kunnen in geen geval van de aansprakelijke organisatie de 
 
 1. **ATA-carnet:**
 
-- a. De aansprakelijke organisatie heeft een termijn van zes maanden, te rekenen van de datum waarop de douaneautoriteiten de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=A&hoofdstuk=IV&artikel=8&z=2009-10-03&g=2009-10-03), van deze Bijlage bedoelde bedragen vorderen, om het bewijs te leveren van de wederuitvoer onder de in deze Bijlage vastgelegde voorwaarden, dan wel van enigerlei andere rechtmatige zuivering van het ATA-carnet.
+- a. De aansprakelijke organisatie heeft een termijn van zes maanden, te rekenen van de datum waarop de douaneautoriteiten de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=A&hoofdstuk=IV&artikel=8&z=2011-01-16&g=2011-01-16), van deze Bijlage bedoelde bedragen vorderen, om het bewijs te leveren van de wederuitvoer onder de in deze Bijlage vastgelegde voorwaarden, dan wel van enigerlei andere rechtmatige zuivering van het ATA-carnet.
 
 - b. Indien dit bewijs niet binnen de voorgeschreven termijn wordt geleverd, dient de aansprakelijke organisatie deze bedragen onverwijld als borgstelling te storten of voorlopig te betalen. Deze borgstelling of betaling wordt definitief na verloop van drie maanden, te rekenen van de datum van storting of betaling. Gedurende laatstbedoelde termijn kan de aansprakelijke organisatie het onder a bedoelde bewijs alsnog leveren, teneinde terugbetaling van de gestorte of betaalde bedragen te verkrijgen.
 
@@ -1567,7 +1567,7 @@ De douaneautoriteiten kunnen in geen geval van de aansprakelijke organisatie de 
 
 ##### Artikel 11
 
-De douaneautoriteiten behouden zich het recht voor in de gevallen bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=A&hoofdstuk=V&artikel=10&z=2009-10-03&g=2009-10-03), van deze Bijlage kosten voor regularisatie te heffen.
+De douaneautoriteiten behouden zich het recht voor in de gevallen bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=A&hoofdstuk=V&artikel=10&z=2011-01-16&g=2011-01-16), van deze Bijlage kosten voor regularisatie te heffen.
 
 ### HOOFDSTUK VI
 
@@ -1587,7 +1587,7 @@ Is een document voor tijdelijke invoer dat betrekking heeft op goederen (met inb
 
 ##### Artikel 15
 
-Wanneer [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=III&artikel=7&z=2009-10-03&g=2009-10-03), van deze Overeenkomst van toepassing is, stellen de douaneautoriteiten, voor zover mogelijk, de aansprakelijke organisatie die zich aansprakelijk heeft gesteld voor het document voor tijdelijke invoer voor de desbetreffende goederen (met inbegrip van vervoermiddelen) in kennis van de inbeslagnemingen of beslagleggingen waartoe zij zijn overgegaan of hebben doen overgaan en doen zij aan die organisatie mededeling van de maatregelen die zij voornemens zijn te treffen.
+Wanneer [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=III&artikel=7&z=2011-01-16&g=2011-01-16), van deze Overeenkomst van toepassing is, stellen de douaneautoriteiten, voor zover mogelijk, de aansprakelijke organisatie die zich aansprakelijk heeft gesteld voor het document voor tijdelijke invoer voor de desbetreffende goederen (met inbegrip van vervoermiddelen) in kennis van de inbeslagnemingen of beslagleggingen waartoe zij zijn overgegaan of hebben doen overgaan en doen zij aan die organisatie mededeling van de maatregelen die zij voornemens zijn te treffen.
 
 ##### Artikel 16
 
@@ -1599,13 +1599,13 @@ Documenten voor tijdelijke invoer of gedeelten daarvan die zijn afgegeven of zij
 
 ##### Artikel 18
 
-1. Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in overeenstemming met [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=29&z=2009-10-03&g=2009-10-03) van deze Overeenkomst, ten aanzien van de aanvaarding van ATA-carnets voor postverkeer.
+1. Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in overeenstemming met [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=29&z=2011-01-16&g=2011-01-16) van deze Overeenkomst, ten aanzien van de aanvaarding van ATA-carnets voor postverkeer.
 
 2. Enig ander voorbehoud bij deze Bijlage is niet toegestaan.
 
 ##### Artikel 19
 
-1. Bij de inwerkingtreding van deze Bijlage wordt, in overeenstemming met [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=27&z=2009-10-03&g=2009-10-03) van deze Overeenkomst, de Douaneovereenkomst inzake het carnet ATA voor de tijdelijke invoer van goederen, ondertekend te Brussel op 6 december 1961, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij die overeenkomst.
+1. Bij de inwerkingtreding van deze Bijlage wordt, in overeenstemming met [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=27&z=2011-01-16&g=2011-01-16) van deze Overeenkomst, de Douaneovereenkomst inzake het carnet ATA voor de tijdelijke invoer van goederen, ondertekend te Brussel op 6 december 1961, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij die overeenkomst.
 
 2. Niettegenstaande de bepalingen van het eerste lid van dit artikel worden ATA-carnets, afgegeven ingevolge de Douaneovereenkomst inzake het carnet ATA voor de tijdelijke invoer van goederen vóór de inwerkingtreding van deze Bijlage, aanvaard totdat de procedure waarvoor zij zijn afgegeven is voltooid.
 
@@ -1689,7 +1689,7 @@ met uitzondering van tentoonstellingen die voor particuliere doeleinden in winke
 
 ##### Artikel 2. Werkingssfeer
 
-1. Voor de volgende goederen wordt tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2009-10-03&g=2009-10-03) van deze Overeenkomst:
+1. Voor de volgende goederen wordt tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2011-01-16&g=2011-01-16) van deze Overeenkomst:
 
 - a. goederen bestemd om op een manifestatie te worden getoond of gedemonstreerd, met inbegrip van de uitrusting bedoeld in de Bijlagen bij de [Overeenkomst inzake de invoer van voorwerpen van opvoedkundige, wetenschappelijke of culturele aard](https://wetten.overheid.nl/jci1.3:c:BWBV0005577) van de UNESCO, ondertekend te New York op 22 november 1950 en het Protocol daarbij, ondertekend te Nairobi op 26 november 1976;
 
@@ -1727,7 +1727,7 @@ Tenzij de nationale wetgeving van het gebied van tijdelijke invoer zulks toestaa
 
 ##### Artikel 5
 
-1. Ingevolge [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=III&artikel=13&z=2009-10-03&g=2009-10-03) van deze Overeenkomst wordt aangifte voor het vrije verkeer toegestaan met vrijstelling van invoerrechten en -heffingen en zonder toepassing van invoerverboden of -beperkingen ten aanzien van de volgende goederen:
+1. Ingevolge [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=III&artikel=13&z=2011-01-16&g=2011-01-16) van deze Overeenkomst wordt aangifte voor het vrije verkeer toegestaan met vrijstelling van invoerrechten en -heffingen en zonder toepassing van invoerverboden of -beperkingen ten aanzien van de volgende goederen:
 
 - a. kleine monsters die kenmerkend zijn voor op een manifestatie tentoongestelde buitenlandse goederen, met inbegrip van monsters van levensmiddelen en dranken, die zijn ingevoerd in de vorm van monsters of op die manifestatie zijn vervaardigd van in bulk ingevoerde goederen, mits:
 
@@ -1767,7 +1767,7 @@ Producten die incidenteel tijdens de manifestatie uit tijdelijk ingevoerde goede
 
 ##### Artikel 8
 
-Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in overeenstemming met [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=29&z=2009-10-03&g=2009-10-03) van deze Overeenkomst, ten aanzien van de bepalingen van [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=B.2&hoofdstuk=III&artikel=5&z=2009-10-03&g=2009-10-03), van deze Bijlage.
+Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in overeenstemming met [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=29&z=2011-01-16&g=2011-01-16) van deze Overeenkomst, ten aanzien van de bepalingen van [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=B.2&hoofdstuk=III&artikel=5&z=2011-01-16&g=2011-01-16), van deze Bijlage.
 
 ##### Artikel 9
 
@@ -1783,7 +1783,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder „beroepsuitrusting”
 
 - 2. filmuitrusting benodigd door een persoon die zich naar het grondgebied van een ander land begeeft voor het maken van een of meer bepaalde films. Een lijst van voorbeelden van dergelijke uitrusting is opgenomen in Aanhangsel II bij deze Bijlage;
 
-- 3. al de andere uitrusting benodigd voor de uitoefening van het ambacht of beroep van een persoon die zich naar het grondgebied van een ander land begeeft om er een bepaald werk uit te voeren. Uitgezonderd is de uitrusting die is bestemd om te worden gebezigd voor de industriële vervaardiging of verpakking van goederen of, behalve bij handgereedschap, voor de exploitatie van natuurlijke rijkdommen, voor de constructie, reparatie of het onderhoud van gebouwen, of voor grondwerken of dergelijke werken. Een lijst van voorbeelden van dergelijke uitrusting is opgenomen in [Aanhangsel III](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=III&z=2009-10-03&g=2009-10-03) bij deze Bijlage;
+- 3. al de andere uitrusting benodigd voor de uitoefening van het ambacht of beroep van een persoon die zich naar het grondgebied van een ander land begeeft om er een bepaald werk uit te voeren. Uitgezonderd is de uitrusting die is bestemd om te worden gebezigd voor de industriële vervaardiging of verpakking van goederen of, behalve bij handgereedschap, voor de exploitatie van natuurlijke rijkdommen, voor de constructie, reparatie of het onderhoud van gebouwen, of voor grondwerken of dergelijke werken. Een lijst van voorbeelden van dergelijke uitrusting is opgenomen in [Aanhangsel III](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=III&z=2011-01-16&g=2011-01-16) bij deze Bijlage;
 
 - 4. hulpapparatuur voor de uitrusting genoemd in de punten 1, 2 en 3 van dit artikel en hun toebehoren.
 
@@ -1791,7 +1791,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder „beroepsuitrusting”
 
 ##### Artikel 2. Werkingssfeer
 
-Voor de volgende goederen wordt tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2009-10-03&g=2009-10-03) van deze Overeenkomst:
+Voor de volgende goederen wordt tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2011-01-16&g=2011-01-16) van deze Overeenkomst:
 
 - a. beroepsuitrusting;
 
@@ -1833,7 +1833,7 @@ De Aanhangsels bij deze Bijlage worden geacht een integrerend onderdeel daarvan 
 
 ##### Artikel 8
 
-Bij de inwerkingtreding van deze Bijlage wordt, in overeenstemming met [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=27&z=2009-10-03&g=2009-10-03) van deze Overeenkomst, de [Douaneovereenkomst inzake de tijdelijke invoer van beroepsmateriaal](https://wetten.overheid.nl/jci1.3:c:BWBV0004591), ondertekend te Brussel op 8 juni 1961, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij die overeenkomst.
+Bij de inwerkingtreding van deze Bijlage wordt, in overeenstemming met [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=27&z=2011-01-16&g=2011-01-16) van deze Overeenkomst, de [Douaneovereenkomst inzake de tijdelijke invoer van beroepsmateriaal](https://wetten.overheid.nl/jci1.3:c:BWBV0004591), ondertekend te Brussel op 8 juni 1961, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij die overeenkomst.
 
 ### HOOFDSTUK I
 
@@ -1871,7 +1871,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 ##### Artikel 2. Werkingssfeer
 
-Voor de volgende goederen die worden ingevoerd in verband met een handelsactiviteit wordt tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2009-10-03&g=2009-10-03) van deze Overeenkomst:
+Voor de volgende goederen die worden ingevoerd in verband met een handelsactiviteit wordt tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2011-01-16&g=2011-01-16) van deze Overeenkomst:
 
 - a. verpakkingsmiddelen die hetzij gevuld worden ingevoerd en leeg of gevuld weder zullen worden uitgevoerd, hetzij leeg worden ingevoerd of gevuld weder zullen worden uitgevoerd;
 
@@ -1933,11 +1933,11 @@ De termijn voor wederuitvoer van goederen ingevoerd in verband met een handelsac
 
 ##### Artikel 7
 
-Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in overeenstemming met [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=29&z=2009-10-03&g=2009-10-03) van deze Overeenkomst, ten aanzien van:
+Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in overeenstemming met [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=29&z=2011-01-16&g=2011-01-16) van deze Overeenkomst, ten aanzien van:
 
-- a. ten hoogste drie categorieën goederen genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=B.3&hoofdstuk=II&artikel=2&z=2009-10-03&g=2009-10-03);
+- a. ten hoogste drie categorieën goederen genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=B.3&hoofdstuk=II&artikel=2&z=2011-01-16&g=2011-01-16);
 
-- b. [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=B.3&hoofdstuk=III&artikel=5&z=2009-10-03&g=2009-10-03);
+- b. [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=B.3&hoofdstuk=III&artikel=5&z=2011-01-16&g=2011-01-16);
 
 van deze Bijlage.
 
@@ -1947,7 +1947,7 @@ De Aanhangsels bij deze Bijlage worden geacht een integrerend onderdeel daarvan 
 
 ##### Artikel 9
 
-Bij de inwerkingtreding van deze Bijlage worden, in overeenstemming met [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=27&z=2009-10-03&g=2009-10-03) van deze Overeenkomst, de volgende overeenkomsten en bepalingen beëindigd:
+Bij de inwerkingtreding van deze Bijlage worden, in overeenstemming met [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=27&z=2011-01-16&g=2011-01-16) van deze Overeenkomst, de volgende overeenkomsten en bepalingen beëindigd:
 
 - –. de [Europese Overeenkomst betreffende de douanebehandeling van laadborden gebruikt bij internationaal vervoer](https://wetten.overheid.nl/jci1.3:c:BWBV0005179), ondertekend te Genève op 9 december 1960;
 
@@ -1961,17 +1961,15 @@ en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overee
 
 ##### 1
 
-De volgende gegevens dienen duurzaam op containers te worden aangebracht op een geschikte en duidelijk zichtbare plaats:
+De volgende gegevens dienen duurzaam op containers te worden aangebracht op een geschikte en duidelijk zichtbare plaats in overeenstemming met de internationale norm ISO 6346:
 
-- a. de aanduiding van de eigenaar of de voornaamste exploitant;
+- a. de aanduiding van de eigenaar of de voornaamste exploitant en het unieke nummer en controlecijfer van de container zoals aangegeven in ISO 6346 en de bijlagen daarbij;
 
-- b. de herkenningstekenen en identificatienummers van de container, daaraan gegeven door de eigenaar of exploitant; en
-
-- c. het tarragewicht van de container, met inbegrip van de gehele vaste uitrusting.
+- b. het tarragewicht van de container, met inbegrip van de gehele vaste uitrusting.
 
 ##### 2
 
-Het land waartoe de container behoort kan ofwel voluit worden aangegeven, ofwel door middel van de ISO Alfa-2-landcode, als bedoeld in de internationale norm ISO 3166, dan wel door middel van het onderscheidingsteken dat in het internationale wegverkeer wordt gebruikt om het land aan te duiden waarin een voertuig is geregistreerd. Elk land kan het gebruik van zijn naam of onderscheidingsteken op de container regelen in zijn nationale wetgeving. De aanduiding van de eigenaar of exploitant kan geschieden door middel van diens volledige naam of door middel van een algemene bekende aanduiding, met uitzondering van symbolen als emblemen of vlaggen.
+Vervallen
 
 ##### 3
 
@@ -1983,7 +1981,7 @@ Teneinde te bewerkstelligen dat de herkenningstekenen en identificatienummers du
 
 ##### 4
 
-De vereisten betreffende het gebruik van kunststofband voor het merken van containers, genoemd onder [punt 3](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=II&artikel=3&z=2009-10-03&g=2009-10-03) van deze Bijlage, sluiten de mogelijkheid andere duurzame merkmethoden toe te passen niet uit.
+De vereisten betreffende het gebruik van kunststofband voor het merken van containers, genoemd onder [punt 3](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=II&artikel=3&z=2011-01-16&g=2011-01-16) van deze Bijlage, sluiten de mogelijkheid andere duurzame merkmethoden toe te passen niet uit.
 
 ### HOOFDSTUK I
 
@@ -2005,7 +2003,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder „goederen ingevoerd i
 
 ##### Artikel 2. Werkingssfeer
 
-Voor goederen die worden ingevoerd in verband met een vervaardigingsactiviteit wordt tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2009-10-03&g=2009-10-03) van deze Overeenkomst.
+Voor goederen die worden ingevoerd in verband met een vervaardigingsactiviteit wordt tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2011-01-16&g=2011-01-16) van deze Overeenkomst.
 
 ### HOOFDSTUK III
 
@@ -2015,13 +2013,13 @@ Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende facilite
 
 - a. moeten de goederen ingevoerd in verband met een productieactiviteit toebehoren aan een persoon gevestigd buiten het gebied van tijdelijke invoer en zijn bestemd voor een persoon gevestigd in dat gebied;
 
-- b. moet de gehele productie of een gedeelte daarvan, naargelang van de nationale wetgeving, die voorkomt uit het gebruik van de goederen ingevoerd in verband met een productieactiviteit als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=B.4&hoofdstuk=I&artikel=1&z=2009-10-03&g=2009-10-03), van deze Bijlage, worden uitgevoerd vanuit het gebied van tijdelijke invoer;
+- b. moet de gehele productie of een gedeelte daarvan, naargelang van de nationale wetgeving, die voorkomt uit het gebruik van de goederen ingevoerd in verband met een productieactiviteit als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=B.4&hoofdstuk=I&artikel=1&z=2011-01-16&g=2011-01-16), van deze Bijlage, worden uitgevoerd vanuit het gebied van tijdelijke invoer;
 
 - c. moeten de vervangende productiemiddelen tijdelijk en kosteloos ter beschikking worden gesteld van een persoon gevestigd in het gebied van tijdelijke invoer door of door bemiddeling van de leverancier van de productiemiddelen waarvan de levering is vertraagd of die moeten worden gerepareerd.
 
 ##### Artikel 4
 
-1. De termijn voor wederuitvoer van de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=B.4&hoofdstuk=I&artikel=1&z=2009-10-03&g=2009-10-03), van deze Bijlage bedoelde goederen bedraagt ten minste twaalf maanden te rekenen van de datum van tijdelijke invoer.
+1. De termijn voor wederuitvoer van de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=B.4&hoofdstuk=I&artikel=1&z=2011-01-16&g=2011-01-16), van deze Bijlage bedoelde goederen bedraagt ten minste twaalf maanden te rekenen van de datum van tijdelijke invoer.
 
 2. De termijn voor wederuitvoer van vervangende productiemiddelen bedraagt ten minste zes maanden te rekenen van de datum van tijdelijke invoer.
 
@@ -2041,7 +2039,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 ##### Artikel 2. Werkingssfeer
 
-Voor de volgende goederen wordt tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2009-10-03&g=2009-10-03) van deze Overeenkomst:
+Voor de volgende goederen wordt tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2011-01-16&g=2011-01-16) van deze Overeenkomst:
 
 - a. goederen ingevoerd uitsluitend ten behoeve van onderwijs, wetenschap of cultuur;
 
@@ -2067,7 +2065,7 @@ De termijn voor wederuitvoer van goederen ingevoerd ten behoeve van onderwijs, w
 
 ##### Artikel 6
 
-Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in overeenstemming met [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=29&z=2009-10-03&g=2009-10-03) van deze Overeenkomst, ten aanzien van de bepalingen van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=B.5&hoofdstuk=III&artikel=4&z=2009-10-03&g=2009-10-03) van deze Bijlage, voor zover deze betrekking hebben op wetenschappelijk materiaal en opvoedkundig materiaal.
+Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in overeenstemming met [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=29&z=2011-01-16&g=2011-01-16) van deze Overeenkomst, ten aanzien van de bepalingen van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=B.5&hoofdstuk=III&artikel=4&z=2011-01-16&g=2011-01-16) van deze Bijlage, voor zover deze betrekking hebben op wetenschappelijk materiaal en opvoedkundig materiaal.
 
 ##### Artikel 7
 
@@ -2075,7 +2073,7 @@ De Aanhangsels bij deze Bijlage worden geacht een integrerend onderdeel daarvan 
 
 ##### Artikel 8
 
-Bij de inwerkingtreding van deze Bijlage worden, in overeenstemming met [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=27&z=2009-10-03&g=2009-10-03) van deze Overeenkomst, de [Douaneovereenkomst inzake welzijnsgoederen voor zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBV0004263), ondertekend te Brussel op 1 december 1964, de [Douaneovereenkomst inzake de tijdelijke invoer van wetenschappelijk materiaal](https://wetten.overheid.nl/jci1.3:c:BWBV0004255), ondertekend te Brussel op 11 juni 1968, en de [Douaneovereenkomst inzake de tijdelijke invoer van pedagogisch materiaal](https://wetten.overheid.nl/jci1.3:c:BWBV0004259), ondertekend te Brussel op 8 juni 1970, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij die overeenkomsten.
+Bij de inwerkingtreding van deze Bijlage worden, in overeenstemming met [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=27&z=2011-01-16&g=2011-01-16) van deze Overeenkomst, de [Douaneovereenkomst inzake welzijnsgoederen voor zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBV0004263), ondertekend te Brussel op 1 december 1964, de [Douaneovereenkomst inzake de tijdelijke invoer van wetenschappelijk materiaal](https://wetten.overheid.nl/jci1.3:c:BWBV0004255), ondertekend te Brussel op 11 juni 1968, en de [Douaneovereenkomst inzake de tijdelijke invoer van pedagogisch materiaal](https://wetten.overheid.nl/jci1.3:c:BWBV0004259), ondertekend te Brussel op 8 juni 1970, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij die overeenkomsten.
 
 ### HOOFDSTUK I
 
@@ -2093,7 +2091,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 ##### Artikel 2. Werkingssfeer
 
-Voor persoonlijke goederen en goederen ingevoerd voor sportdoeleinden wordt tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2009-10-03&g=2009-10-03) van deze Overeenkomst.
+Voor persoonlijke goederen en goederen ingevoerd voor sportdoeleinden wordt tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2011-01-16&g=2011-01-16) van deze Overeenkomst.
 
 ### HOOFDSTUK III
 
@@ -2123,7 +2121,7 @@ De Aanhangsels bij deze Bijlage worden geacht een integrerend onderdeel daarvan 
 
 ##### Artikel 7
 
-Bij de inwerkingtreding van deze Bijlage worden, in overeenstemming met [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=27&z=2009-10-03&g=2009-10-03) van deze Overeenkomst, de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005182&artikel=2) en [5 van het Verdrag inzake douanefaciliteiten ten behoeve van het toeristenverkeer](https://wetten.overheid.nl/jci1.3:c:BWBV0005182&artikel=5), ondertekend te New York op 4 juni 1954, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij dat verdrag.
+Bij de inwerkingtreding van deze Bijlage worden, in overeenstemming met [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=27&z=2011-01-16&g=2011-01-16) van deze Overeenkomst, de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005182&artikel=2) en [5 van het Verdrag inzake douanefaciliteiten ten behoeve van het toeristenverkeer](https://wetten.overheid.nl/jci1.3:c:BWBV0005182&artikel=5), ondertekend te New York op 4 juni 1954, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij dat verdrag.
 
 ### HOOFDSTUK I
 
@@ -2137,7 +2135,7 @@ Goederen ingevoerd met als doel het publiek te bewegen tot het bezoeken van een 
 
 ##### Artikel 2. Werkingssfeer
 
-Met uitzondering van het in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=B.7&hoofdstuk=III&artikel=5&z=2009-10-03&g=2009-10-03) van deze Bijlage bedoelde materiaal, waarvoor onvoorwaardelijke invoer met vrijstelling van rechten en heffingen bij invoer wordt toegestaan, wordt voor toeristisch reclamemateriaal tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2009-10-03&g=2009-10-03) van deze Overeenkomst.
+Met uitzondering van het in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=B.7&hoofdstuk=III&artikel=5&z=2011-01-16&g=2011-01-16) van deze Bijlage bedoelde materiaal, waarvoor onvoorwaardelijke invoer met vrijstelling van rechten en heffingen bij invoer wordt toegestaan, wordt voor toeristisch reclamemateriaal tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2011-01-16&g=2011-01-16) van deze Overeenkomst.
 
 ### HOOFDSTUK III
 
@@ -2165,7 +2163,7 @@ Het Aanhangsel bij deze Bijlage wordt geacht een integrerend onderdeel daarvan u
 
 ##### Artikel 7
 
-Bij de inwerkingtreding van deze Bijlage wordt, in overeenstemming met [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=27&z=2009-10-03&g=2009-10-03) van deze Overeenkomst, het [Aanvullend Protocol bij het Verdrag inzake douanefaciliteiten ten behoeve van het toeristenverkeer, met betrekking tot de invoer van toeristische propagandabescheiden en toeristisch propagandamateriaal](https://wetten.overheid.nl/jci1.3:c:BWBV0005344), ondertekend te New York op 4 juni 1954, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij dat Protocol.
+Bij de inwerkingtreding van deze Bijlage wordt, in overeenstemming met [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=27&z=2011-01-16&g=2011-01-16) van deze Overeenkomst, het [Aanvullend Protocol bij het Verdrag inzake douanefaciliteiten ten behoeve van het toeristenverkeer, met betrekking tot de invoer van toeristische propagandabescheiden en toeristisch propagandamateriaal](https://wetten.overheid.nl/jci1.3:c:BWBV0005344), ondertekend te New York op 4 juni 1954, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij dat Protocol.
 
 ##### Artikel 1. Begripsomschrijvingen
 
@@ -2189,7 +2187,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 ##### Artikel 2. Werkingssfeer
 
-Voor goederen ingevoerd in het grensverkeer wordt tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2009-10-03&g=2009-10-03) van deze Overeenkomst.
+Voor goederen ingevoerd in het grensverkeer wordt tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2011-01-16&g=2011-01-16) van deze Overeenkomst.
 
 ### HOOFDSTUK III
 
@@ -2231,7 +2229,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 ##### Artikel 2. Werkingssfeer
 
-Voor goederen ingevoerd voor humanitaire doeleinden wordt tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2009-10-03&g=2009-10-03) van deze Overeenkomst.
+Voor goederen ingevoerd voor humanitaire doeleinden wordt tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2011-01-16&g=2011-01-16) van deze Overeenkomst.
 
 ### HOOFDSTUK III
 
@@ -2277,15 +2275,15 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 ##### Artikel 2. Werkingssfeer
 
-Tijdelijke invoer wordt toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2009-10-03&g=2009-10-03) van deze Overeenkomst voor:
+Tijdelijke invoer wordt toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2011-01-16&g=2011-01-16) van deze Overeenkomst voor:
 
 - a. vervoermiddelen voor commercieel gebruik of voor particulier gebruik;
 
-- b. reserveonderdelen en -uitrusting ingevoerd voor de reparatie van een vervoermiddel waarvoor reeds tijdelijke invoer is toegestaan. Vervangen onderdelen en uitrusting die niet weder worden uitgevoerd, zijn onderworpen aan rechten en heffingen bij invoer, tenzij zij een bestemming krijgen als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=III&artikel=14&z=2009-10-03&g=2009-10-03) van deze Overeenkomst.
+- b. reserveonderdelen en -uitrusting ingevoerd voor de reparatie van een vervoermiddel waarvoor reeds tijdelijke invoer is toegestaan. Vervangen onderdelen en uitrusting die niet weder worden uitgevoerd, zijn onderworpen aan rechten en heffingen bij invoer, tenzij zij een bestemming krijgen als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=III&artikel=14&z=2011-01-16&g=2011-01-16) van deze Overeenkomst.
 
 ##### Artikel 3
 
-Routineonderhoudswerkzaamheden en reparaties aan het vervoermiddel die noodzakelijk zijn geworden gedurende de reis naar of binnen het gebied van tijdelijke invoer en die worden uitgevoerd gedurende het tijdvak van tijdelijke invoer, worden niet geacht te leiden tot een verandering als bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=I&artikel=1&z=2009-10-03&g=2009-10-03), van deze Overeenkomst.
+Routineonderhoudswerkzaamheden en reparaties aan het vervoermiddel die noodzakelijk zijn geworden gedurende de reis naar of binnen het gebied van tijdelijke invoer en die worden uitgevoerd gedurende het tijdvak van tijdelijke invoer, worden niet geacht te leiden tot een verandering als bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=I&artikel=1&z=2011-01-16&g=2011-01-16), van deze Overeenkomst.
 
 ##### Artikel 4
 
@@ -2309,7 +2307,7 @@ Tijdelijke invoer van vervoermiddelen wordt toegestaan zonder dat een douanedocu
 
 ##### Artikel 7
 
-Niettegenstaande de bepalingen van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=C&hoofdstuk=III&artikel=5&z=2009-10-03&g=2009-10-03) van deze Bijlage:
+Niettegenstaande de bepalingen van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=C&hoofdstuk=III&artikel=5&z=2011-01-16&g=2011-01-16) van deze Bijlage:
 
 - a. mogen vervoermiddelen voor commercieel gebruik worden gebruikt door derden, zelfs indien dezen gevestigd of woonachtig zijn in het gebied van tijdelijke invoer, die daartoe naar behoren zijn gemachtigd door de personen aan wie tijdelijke invoer is toegestaan, en die namens hen optreden;
 
@@ -2333,19 +2331,19 @@ Elke Overeenkomstsluitende Partij heeft het recht de verlening van toestemming v
 
 ##### Artikel 10
 
-Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in overeenstemming met [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=29&z=2009-10-03&g=2009-10-03) van deze Overeenkomst, ten aanzien van:
+Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in overeenstemming met [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=29&z=2011-01-16&g=2011-01-16) van deze Overeenkomst, ten aanzien van:
 
-- a. [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2009-10-03&g=2009-10-03), voor zover het de tijdelijke invoer van gemotoriseerde wegvoertuigen en spoorwegmaterieel betreft;
+- a. [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2011-01-16&g=2011-01-16), voor zover het de tijdelijke invoer van gemotoriseerde wegvoertuigen en spoorwegmaterieel betreft;
 
-- b. [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=III&artikel=6&z=2009-10-03&g=2009-10-03), voor zover het gemotoriseerde wegvoertuigen voor commercieel gebruik en vervoermiddelen voor particulier gebruik betreft;
+- b. [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=III&artikel=6&z=2011-01-16&g=2011-01-16), voor zover het gemotoriseerde wegvoertuigen voor commercieel gebruik en vervoermiddelen voor particulier gebruik betreft;
 
-- c. [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=III&artikel=9&z=2009-10-03&g=2009-10-03);
+- c. [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=III&artikel=9&z=2011-01-16&g=2011-01-16);
 
 van deze Bijlage.
 
 ##### Artikel 11
 
-Bij de inwerkingtreding van deze Bijlage worden, in overeenstemming van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=27&z=2009-10-03&g=2009-10-03) van deze Overeenkomst, het [Douaneverdrag inzake de tijdelijke invoer van particuliere wegvoertuigen](https://wetten.overheid.nl/jci1.3:c:BWBV0005368), ondertekend te New York op 4 juni 1954, de [Douaneovereenkomst betreffende de tijdelijke invoer van voertuigen voor bedrijfsmatig vervoer langs de weg](https://wetten.overheid.nl/jci1.3:c:BWBV0005229), ondertekend te Genève op 18 mei 1956, en de [Douaneovereenkomst betreffende de tijdelijke invoer voor persoonlijk gebruik van pleziervaartuigen en van luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBV0005389), ondertekend te Genève op 18 mei 1956, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij dat verdrag en die overeenkomsten.
+Bij de inwerkingtreding van deze Bijlage worden, in overeenstemming van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=27&z=2011-01-16&g=2011-01-16) van deze Overeenkomst, het [Douaneverdrag inzake de tijdelijke invoer van particuliere wegvoertuigen](https://wetten.overheid.nl/jci1.3:c:BWBV0005368), ondertekend te New York op 4 juni 1954, de [Douaneovereenkomst betreffende de tijdelijke invoer van voertuigen voor bedrijfsmatig vervoer langs de weg](https://wetten.overheid.nl/jci1.3:c:BWBV0005229), ondertekend te Genève op 18 mei 1956, en de [Douaneovereenkomst betreffende de tijdelijke invoer voor persoonlijk gebruik van pleziervaartuigen en van luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBV0005389), ondertekend te Genève op 18 mei 1956, beëindigd en treedt deze Bijlage daarvoor in de plaats in de betrekkingen tussen de Overeenkomstsluitende Partijen die deze Bijlage hebben aanvaard en die Partij zijn bij dat verdrag en die overeenkomsten.
 
 ### HOOFDSTUK I
 
@@ -2365,7 +2363,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 ##### Artikel 2. Werkingssfeer
 
-Voor dieren ingevoerd voor de in het Aanhangsel bij deze Bijlage omschreven doeleinden wordt tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2009-10-03&g=2009-10-03) van deze Overeenkomst.
+Voor dieren ingevoerd voor de in het Aanhangsel bij deze Bijlage omschreven doeleinden wordt tijdelijke invoer toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2011-01-16&g=2011-01-16) van deze Overeenkomst.
 
 ### HOOFDSTUK III
 
@@ -2379,15 +2377,15 @@ Om in aanmerking te komen voor de uit hoofde van deze Bijlage verleende facilite
 
 ##### Artikel 4
 
-1. De tijdelijke invoer van de in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=D&hoofdstuk=III&artikel=3&z=2009-10-03&g=2009-10-03), van deze Bijlage bedoelde trekdieren en van dieren ingevoerd voor het weiden of verweiden op land gelegen in het grensgebied, wordt toegestaan zonder dat een douanedocument of zekerheid wordt verlangd.
+1. De tijdelijke invoer van de in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=D&hoofdstuk=III&artikel=3&z=2011-01-16&g=2011-01-16), van deze Bijlage bedoelde trekdieren en van dieren ingevoerd voor het weiden of verweiden op land gelegen in het grensgebied, wordt toegestaan zonder dat een douanedocument of zekerheid wordt verlangd.
 
 2. Elke Overeenkomstsluitende Partij mag het toestaan van tijdelijke invoer van de in het eerste lid van dit artikel bedoelde dieren afhankelijk stellen van de overlegging van een inventaris, tezamen met een schriftelijke toezegging met betrekking tot de wederuitvoer.
 
 ##### Artikel 5
 
-1. Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in overeenstemming met [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=29&z=2009-10-03&g=2009-10-03) van deze Overeenkomst, ten aanzien van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=D&hoofdstuk=III&artikel=4&z=2009-10-03&g=2009-10-03), van deze Bijlage.
+1. Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in overeenstemming met [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=29&z=2011-01-16&g=2011-01-16) van deze Overeenkomst, ten aanzien van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=D&hoofdstuk=III&artikel=4&z=2011-01-16&g=2011-01-16), van deze Bijlage.
 
-2. Elke Overeenkomstsluitende Partij heeft ook het recht een voorbehoud te maken, in overeenstemming met [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=29&z=2009-10-03&g=2009-10-03) van deze Overeenkomst, ten aanzien van de punten 12 en 13 in het Aanhangsel bij deze Bijlage.
+2. Elke Overeenkomstsluitende Partij heeft ook het recht een voorbehoud te maken, in overeenstemming met [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=V&artikel=29&z=2011-01-16&g=2011-01-16) van deze Overeenkomst, ten aanzien van de punten 12 en 13 in het Aanhangsel bij deze Bijlage.
 
 ##### Artikel 6
 
@@ -2411,7 +2409,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 ##### Artikel 2. Werkingssfeer
 
-Voor de in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=E&hoofdstuk=I&artikel=1&z=2009-10-03&g=2009-10-03), van deze Bijlage bedoelde goederen wordt tijdelijke invoer met gedeeltelijke vrijstelling toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2009-10-03&g=2009-10-03) van deze Overeenkomst.
+Voor de in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=E&hoofdstuk=I&artikel=1&z=2011-01-16&g=2011-01-16), van deze Bijlage bedoelde goederen wordt tijdelijke invoer met gedeeltelijke vrijstelling toegestaan in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=II&artikel=2&z=2011-01-16&g=2011-01-16) van deze Overeenkomst.
 
 ### HOOFDSTUK III
 
@@ -2435,15 +2433,15 @@ Het bedrag aan rechten en heffingen bij invoer dat in rekening wordt gebracht, m
 
 1. Het krachtens deze Bijlage aan de rechten en heffingen bij invoer verschuldigde bedrag wordt door de bevoegde autoriteiten geheven wanneer de regeling is gezuiverd.
 
-2. Wanneer, in overeenstemming met [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=III&artikel=13&z=2009-10-03&g=2009-10-03) van deze Overeenkomst, de tijdelijke-invoerregeling wordt afgesloten met inklaring voor binnenlands gebruik, wordt het reeds in rekening gebrachte bedrag aan eventuele rechten en heffingen bij invoer afgetrokken van het ten gevolge van de invoer in het vrije verkeer verschuldigde bedrag aan rechten en heffingen bij invoer.
+2. Wanneer, in overeenstemming met [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&hoofdstuk=III&artikel=13&z=2011-01-16&g=2011-01-16) van deze Overeenkomst, de tijdelijke-invoerregeling wordt afgesloten met inklaring voor binnenlands gebruik, wordt het reeds in rekening gebrachte bedrag aan eventuele rechten en heffingen bij invoer afgetrokken van het ten gevolge van de invoer in het vrije verkeer verschuldigde bedrag aan rechten en heffingen bij invoer.
 
 ##### Artikel 8
 
-Bij het vaststellen van de termijn voor wederuitvoer van goederen ingevoerd met gedeeltelijke vrijstelling moet rekening worden gehouden met de bepalingen van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=E&hoofdstuk=III&artikel=5&z=2009-10-03&g=2009-10-03) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=E&hoofdstuk=III&artikel=6&z=2009-10-03&g=2009-10-03) van deze Bijlage.
+Bij het vaststellen van de termijn voor wederuitvoer van goederen ingevoerd met gedeeltelijke vrijstelling moet rekening worden gehouden met de bepalingen van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=E&hoofdstuk=III&artikel=5&z=2011-01-16&g=2011-01-16) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=E&hoofdstuk=III&artikel=6&z=2011-01-16&g=2011-01-16) van deze Bijlage.
 
 ##### Artikel 9
 
-Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in overeenstemming met artikel 29 van deze Overeenkomst, ten aanzien van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=E&hoofdstuk=II&artikel=2&z=2009-10-03&g=2009-10-03) van deze Bijlage, voor zover het betrekking heeft op gedeeltelijke vrijstelling van heffingen bij invoer.
+Elke Overeenkomstsluitende Partij heeft het recht een voorbehoud te maken, in overeenstemming met artikel 29 van deze Overeenkomst, ten aanzien van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002763&bijlage=E&hoofdstuk=II&artikel=2&z=2011-01-16&g=2011-01-16) van deze Bijlage, voor zover het betrekking heeft op gedeeltelijke vrijstelling van heffingen bij invoer.
 
 IN WITNESS WHEREOF the undersigned, being duly authorized thereto, have signed this Convention.
 
