@@ -4,7 +4,7 @@ identifier: "BWBR0029264"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-12-21"
-last_updated: "2011-01-01"
+last_updated: "2011-01-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029264"
 soort: "ministeriele-regeling"
@@ -60,8 +60,7 @@ Besluit:
 | 1.6 | Subsidieregeling starten, groeien en overdragen van ondernemingen (ondernemerschapsonderwijsprojecten) | 6.2 |   | – | – |
 | 1.7 | Subsidieregeling starten, groeien en overdragen van ondernemingen (beroepsonderwijs in bedrijf) | 7.2 |   | – | – |
 | 1.8 | Subsidieregeling starten, groeien en overdragen van ondernemingen (borgstelling scheepsnieuwbouw) | 8.3 |   | 01-01 t/m 31-12 | 1.000.000.000 |
-| 1.9 | Subsidieregeling starten, groeien en overdragen van ondernemingen (veiligheid kleine bedrijven) | 9.3 |   | – | – |
-| 1.10 | Subsidieregeling starten, groeien en overdragen van ondernemingen (veiligheid kleine bedrijven) | 9.7 |   | – | – |
+| 1.9 | Subsidieregeling starten, groeien en overdragen van ondernemingen (veiligheid kleine bedrijven) | 9.3 |   | 01-02 t/m 01-12 | 3.000.000 |
 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855) |
 | 2.1 | Subsidieregeling innoveren (Eurostars-projecten) | 2.2 |   | 01-02 t/m 22-02 | 3.125.000 |
 | 2.2 | Subsidieregeling innoveren (innovatiekredieten) | 3.2 | Klinische ontwikkelingsprojecten | 01-01 t/m 31-12 | 15.500.000 |
@@ -185,6 +184,7 @@ Besluit:
 | 4 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) (LSH–projecten; ETB–samenwerkingsverbanden) | 4.2 |   | 01-10-2010 t/m 01-02-2011 | 3.000.000 |
 | 5 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) (IOP’s) | 3.2 | Maritiem (periode vooraanmelding) | 04-10-2010 t/m 29-10-2010 | – |
 |   | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) (IOP’s) | 3.2 | Maritiem (Offshore) | 31-01-2011 t/m 25-02-2011 | 1.075.000 |
+| 6 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902) (veiligheid kleine bedrijven) | 9.7 |   | 01-02-2011 t/m 01-06-2012 | 7.000.000 |
 
 ##### Artikel 3
 
