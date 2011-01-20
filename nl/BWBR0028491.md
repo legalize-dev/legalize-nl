@@ -4,7 +4,7 @@ identifier: "BWBR0028491"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2026-04-10"
-last_updated: "2011-01-01"
+last_updated: "2011-01-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028491"
 soort: "AMvB-BES"
@@ -66,6 +66,8 @@ In dit besluit wordt verstaan onder:
 2. Wanneer de bezoldiging of een toelage moet worden uitbetaald over een gedeelte van een kalendermaand, wordt het te betalen bedrag berekend door het voor een maand vastgesteld bedrag te vermenigvuldigen met het aantal dagen gedurende welke de betrokken ambtenaar in dienst is geweest en het produkt te delen door dertig.
 
 3. Van het bepaalde in het eerste en tweede lid kan worden afgeweken, ingeval daartoe naar het oordeel van het bevoegde gezag op grond van bijzondere omstandigheden aanleiding bestaat.
+
+4. De bezoldiging per uur bedraagt 1/170 deel van de bezoldiging per maand bij een volledige werktijd.
 
 ##### Artikel 2a
 
@@ -161,7 +163,7 @@ De gratificatie, bedoeld in [artikel 75 van de wet](https://wetten.overheid.nl/j
 
 3. De beslissing op het bezwaar is een beschikking als bedoeld in artikel 3, eerste lid, van de Wet ambtenarenrechtspraak BES. Indien met deze beslissing niet of niet geheel aan het bezwaar van de ambtenaar wordt tegemoetgekomen, wordt hem in de mededeling, bedoeld in het voorgaande lid, tevens medegedeeld dat hij bij het gerecht in ambtenarenzaken in beroep kan komen en de termijn waarbinnen dit dient te geschieden.
 
-### Hoofdstuk VI. Administratief beroep
+### Hoofdstuk VII. Overgangs- en slotbepalingen
 
 ##### Artikel 13
 
