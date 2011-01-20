@@ -4,7 +4,7 @@ identifier: "BWBR0012174"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-07-01"
-last_updated: "2007-08-01"
+last_updated: "2011-01-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012174"
 soort: "AMvB"
@@ -54,7 +54,9 @@ Hebben goedgevonden en verstaan:
 
 - b. kruidenpreparaat: een kruidensubstantie, al dan niet bewerkt, die bestemd is te worden gebruikt door de mens, daaronder begrepen kruidenextracten;
 
-- c. toxische pyrrolizidine-alkaloïden: esteralkaloïden die zijn afgeleid van necinediol (7-hydroxy-1-hydroxy-methylpyrrolizidine) met een 1,2-onverzadigde binding, inclusief de onderscheiden N-oxides.
+- c. toxische pyrrolizidine-alkaloïden: esteralkaloïden die zijn afgeleid van necinediol (7-hydroxy-1-hydroxy-methylpyrrolizidine) met een 1,2-onverzadigde binding, inclusief de onderscheiden N-oxides;
+
+- d. **verordening (EG) 1334/2008:** verordening (EG) nr. 1334/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 (PbEU L 354) inzake aroma’s en bepaalde voedselingrediënten met aromatiserende eigenschappen voor gebruik in levensmiddelen en tot wijziging van verordening (EG) nr. 1601/91 van de Raad, verordening nr. (EG)2232/96, verordening (EG) nr. 110/2008 en richtlijn 2000/13/EG.
 
 2. Dit besluit is niet van toepassing op:
 
@@ -66,7 +68,7 @@ Hebben goedgevonden en verstaan:
 
 - d. specerijen en kruiden als genoemd in het [Warenwetbesluit Specerijen en kruiden](https://wetten.overheid.nl/jci1.3:c:BWBR0009540);
 
-- e. aroma's als bedoeld in het [Warenwetbesluit Aroma's](https://wetten.overheid.nl/jci1.3:c:BWBR0005413).
+- e. aroma's als bedoeld in verordening (EG) 1334/2008.
 
 ##### Artikel 2
 
@@ -108,9 +110,9 @@ Kruidenpreparaten bevatten slechts kruidensubstanties in hoeveelheden die niet s
 
 2. In afwijking van het eerste lid treedt:
 
-- a. [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=6&z=2007-08-01&g=2007-08-01) in werking met ingang van 1 januari 2002;
+- a. [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=6&z=2011-01-20&g=2011-01-20) in werking met ingang van 1 januari 2002;
 
-- b. [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=5&z=2007-08-01&g=2007-08-01), in werking met ingang van 1 januari 2003.
+- b. [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=5&z=2011-01-20&g=2011-01-20), in werking met ingang van 1 januari 2003.
 
 ##### Artikel 8
 
@@ -118,7 +120,7 @@ Dit besluit wordt aangehaald als: Warenwetbesluit Kruidenpreparaten.
 
 ## Bijlage
 
-Deze bijlage behoort bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=4&z=2007-08-01&g=2007-08-01).
+Deze bijlage behoort bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=4&z=2011-01-20&g=2011-01-20).
 
 ### I. Ten minste de volgende plantensoorten worden geacht toxische pyrrolizidine-alkaloïden te bevatten.
 
