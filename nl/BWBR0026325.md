@@ -4,7 +4,7 @@ identifier: "BWBR0026325"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-07-01"
-last_updated: "2010-05-29"
+last_updated: "2011-01-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026325"
 soort: "AMvB"
@@ -72,11 +72,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Het is verboden te handelen in strijd met de artikelen 4, eerste, tweede en vijfde lid, 5, 15, 16, 17, 21, eerste lid, 22, eerste, tweede en derde lid, 23, 24, eerste lid, en 26, van [verordening (EG) 1333/2008](32008R1333).
 
-3. Dit lid is nog niet in werking getreden.
+3. Het is verboden te handelen in strijd met de artikelen 4, 5, 6, eerste en tweede lid, 7, 10, 14, eerste lid, 15, eerste lid, 16, 17 en 19, eerste tot en met derde lid, van verordening (EG) 1334/2008.
 
-4. Het is verboden te handelen in strijd met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=3&z=2010-05-29&g=2010-05-29).
+4. Het is verboden te handelen in strijd met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=3&z=2011-01-20&g=2011-01-20).
 
-5. Het is verboden te handelen in strijd met de krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=4&z=2010-05-29&g=2010-05-29) vastgestelde voorschriften.
+5. Het is verboden te handelen in strijd met de krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=4&z=2011-01-20&g=2011-01-20) vastgestelde voorschriften.
+
+6. Het is verboden te handelen in strijd met artikel 4, tweede lid, van verordening (EG) 2065/2003.
 
 ##### Artikel 3
 
@@ -86,17 +88,17 @@ De informatie, bedoeld in:
 
 - b. artikel 22 van [verordening (EG) 1333/2008](32008R1333); en
 
-- c. dit onderdeel is nog niet in werking getreden.
+- c. artikel 15 van verordening (EG) 1334/2008;
 
 wordt in ieder geval vermeld in de Engelse of de Nederlandse taal.
 
 ##### Artikel 4
 
-Bij regeling van Onze Minister worden nadere regels vastgesteld inzake [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=2&z=2010-05-29&g=2010-05-29), voor zover die noodzakelijk zijn voor de goede uitvoering van de bij of krachtens [verordeningen (EG) 1332/2008](32008R1332), [1333/2008](32008R1333) of [1334/2008](32008R1334) gestelde voorschriften.
+Bij regeling van Onze Minister worden nadere regels vastgesteld inzake [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=2&z=2011-01-20&g=2011-01-20), voor zover die noodzakelijk zijn voor de goede uitvoering van de bij of krachtens [verordeningen (EG) 1332/2008](32008R1332), [1333/2008](32008R1333) of [1334/2008](32008R1334) gestelde voorschriften.
 
 ##### Artikel 5
 
-Na de inwerkingtreding van dit besluit berusten de volgende regelingen op [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=4&z=2010-05-29&g=2010-05-29):
+Na de inwerkingtreding van dit besluit berusten de volgende regelingen op [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=4&z=2011-01-20&g=2011-01-20):
 
 - a. de [Warenwetregeling Gebruik van additieven met uitzondering van kleurstoffen en zoetstoffen in levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0008245);
 
@@ -118,8 +120,6 @@ Wijzigt het Warenwetbesluit Bereiding en behandeling van levensmiddelen.
 
 Wijzigt het Warenwetbesluit Cacao en chocolade.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 8
 
 Wijzigt het Warenwetbesluit Etikettering van levensmiddelen.
@@ -127,8 +127,6 @@ Wijzigt het Warenwetbesluit Etikettering van levensmiddelen.
 ##### Artikel 9
 
 Wijzigt het Warenwetbesluit Kruidenpreparaten.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 10
 
@@ -158,8 +156,6 @@ Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
 Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 17
 
 Ingetrokken worden:
@@ -170,7 +166,7 @@ Ingetrokken worden:
 
 ##### Artikel 18
 
-Dit onderdeel is nog niet inwerking getreden
+Het [Warenwetbesluit Aroma’s](https://wetten.overheid.nl/jci1.3:c:BWBR0005413) wordt ingetrokken.
 
 ##### Artikel 19
 
@@ -182,21 +178,21 @@ Wijzigt het Warenwetbesluit Gereserveerde aanduidingen.
 
 2. In afwijking van het eerste lid treden in werking met ingang van 20 januari 2011:
 
-- a. [artikel 2, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=2&z=2010-05-29&g=2010-05-29);
+- a. [artikel 2, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=2&z=2011-01-20&g=2011-01-20);
 
-- b. [artikel 3, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=3&z=2010-05-29&g=2010-05-29);
+- b. [artikel 3, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=3&z=2011-01-20&g=2011-01-20);
 
-- c. [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=7&z=2010-05-29&g=2010-05-29);
+- c. [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=7&z=2011-01-20&g=2011-01-20);
 
-- d. [artikel 8, onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=8&z=2010-05-29&g=2010-05-29);
+- d. [artikel 8, onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=8&z=2011-01-20&g=2011-01-20);
 
-- e. [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=9&z=2010-05-29&g=2010-05-29);
+- e. [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=9&z=2011-01-20&g=2011-01-20);
 
-- f. [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=16&z=2010-05-29&g=2010-05-29); en
+- f. [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=16&z=2011-01-20&g=2011-01-20); en
 
-- g. [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=18&z=2010-05-29&g=2010-05-29).
+- g. [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=18&z=2011-01-20&g=2011-01-20).
 
-3. In afwijking van het eerste lid treedt [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=19&z=2010-05-29&g=2010-05-29) in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
+3. In afwijking van het eerste lid treedt [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=19&z=2011-01-20&g=2011-01-20) in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
 
 ##### Artikel 21
 
