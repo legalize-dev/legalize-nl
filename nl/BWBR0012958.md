@@ -4,7 +4,7 @@ identifier: "BWBR0012958"
 country: "nl"
 rank: "amvb"
 publication_date: "2014-12-13"
-last_updated: "2004-07-12"
+last_updated: "2011-01-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012958"
 soort: "AMvB"
@@ -76,7 +76,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - l. **droge melkbestanddelen**: droge melkbestanddelen verkregen door gehele of gedeeltelijke dehydratie van volle, halfvolle of magere melk, room, geheel of gedeeltelijk gedehydrateerde room, boter of melkvet;
 
-- m. **suikers**: suikers, bedoeld in het Warenwetbesluit suikers, en andere suikers.
+- m. **suikers**: suikers, bedoeld in het Warenwetbesluit suikers, en andere suikers;
+
+- n. **verordening (EG) 1334/2008:** verordening (EG) nr. 1334/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 (PbEU L 354) inzake aroma’s en bepaalde voedselingrediënten met aromatiserende eigenschappen voor gebruik in levensmiddelen en tot wijziging van verordening (EG) nr. 1601/91 van de Raad, verordening nr. (EG)2232/96, verordening (EG) nr. 110/2008 en richtlijn 2000/13/EG.
 
 ##### Artikel 2
 
@@ -121,13 +123,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 | 5. Kokum gurgi | Garcinia indica |
 | 6. Mangopit | Mangifera indica |
 
-4. In afwijking van het eerste lid, onder a, mag kokosolie worden toegevoegd aan de krachtens [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=11&z=2004-07-12&g=2004-07-12), als **chocolade** aangeduide eet- of drinkwaar die wordt gebruikt voor de bereiding van consumptie-ijs en andere soortgelijke bevroren waren.
+4. In afwijking van het eerste lid, onder a, mag kokosolie worden toegevoegd aan de krachtens [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=11&z=2011-01-20&g=2011-01-20), als **chocolade** aangeduide eet- of drinkwaar die wordt gebruikt voor de bereiding van consumptie-ijs en andere soortgelijke bevroren waren.
 
 5. De toegevoegde hoeveelheid andere plantaardige vetten dan cacaoboter, bedoeld in het eerste lid, onder a, bedraagt ten hoogste 5% van het totale gewicht van de voor consumptie gerede waar, na aftrek van het totale gewicht van de daarin verwerkte andere eet- of drinkwaren, bedoeld in het eerste lid, onder b. Het minimumgehalte aan cacaoboter of het totaalgehalte aan droge cacaobestanddelen van de waar wordt daarbij niet verminderd.
 
 ##### Artikel 4
 
-In afwijking van [het Warenwetbesluit Aroma's](https://wetten.overheid.nl/jci1.3:c:BWBR0005413) mogen aan de eet- of drinkwaren, krachtens § 3 aangeduid als **cacaopoeder, cacao, mager cacaopoeder, magere cacao, sterk ontvet cacaopoeder, sterk ontvette cacao, chocoladepoeder, huishoudchocoladepoeder, gesuikerde huishoudcacao, gesuikerd huishoudcacaopoeder, chocolade, melkchocolade, huishoudmelkchocolade, witte chocolade, chocolate a la taza,** of als **chocolate familiar al la taza,** slechts aroma's worden toegevoegd waarmee de smaak van chocolade of melkvet niet wordt nagebootst.
+In afwijking van verordening (EG) 1334/2008 mogen aan de eet- of drinkwaren, krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&z=2011-01-20&g=2011-01-20) aangeduid als **cacaopoeder, cacao, mager cacaopoeder, magere cacao, sterk ontvet cacaopoeder, sterk ontvette cacao, chocoladepoeder, huishoudchocoladepoeder, gesuikerde huishoudcacao, gesuikerd huishoudcacaopoeder, chocolade, melkchocolade, huishoudmelkchocolade, witte chocolade, chocolate a la taza,** of als **chocolate familiar al la taza,** slechts aroma's worden toegevoegd waarmee de smaak van chocolade of melkvet niet wordt nagebootst.
 
 #### § 3. Etikettering
 
@@ -259,7 +261,7 @@ De aanduiding **witte chocolade** mag uitsluitend en moet worden gebezigd voor w
 
 De aanduiding **gevulde chocolade** of **chocolade met ...vulling** mag uitsluitend en moet worden gebezigd voor de gevulde waar waarvan:
 
-- a. het buitenste gedeelte bestaat uit één van de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=11&z=2004-07-12&g=2004-07-12), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=12&z=2004-07-12&g=2004-07-12), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=13&z=2004-07-12&g=2004-07-12) of [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=14&z=2004-07-12&g=2004-07-12) bedoelde waren;
+- a. het buitenste gedeelte bestaat uit één van de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=11&z=2011-01-20&g=2011-01-20), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=12&z=2011-01-20&g=2011-01-20), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=13&z=2011-01-20&g=2011-01-20) of [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=14&z=2011-01-20&g=2011-01-20) bedoelde waren;
 
 - b. het binnenste gedeelte niet bestaat uit banketbakkersproducten, gebak, biscuit of consumptie-ijs; en
 
@@ -287,7 +289,7 @@ De aanduiding **chocoladebonbon/praline** mag uitsluitend en moet worden gebezig
 
 - a. de waar, aangeduid als gevulde chocolade; of
 
-- b. een enkel chocolaatje of een combinatie dan wel mengsel van de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=11&z=2004-07-12&g=2004-07-12), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=12&z=2004-07-12&g=2004-07-12), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=13&z=2004-07-12&g=2004-07-12) of [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=14&z=2004-07-12&g=2004-07-12) bedoelde waren en andere eet- of drinkwaren, voor zover de chocolade ten minste 25% uitmaakt van het totale gewicht van de waar.
+- b. een enkel chocolaatje of een combinatie dan wel mengsel van de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=11&z=2011-01-20&g=2011-01-20), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=12&z=2011-01-20&g=2011-01-20), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=13&z=2011-01-20&g=2011-01-20) of [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=14&z=2011-01-20&g=2011-01-20) bedoelde waren en andere eet- of drinkwaren, voor zover de chocolade ten minste 25% uitmaakt van het totale gewicht van de waar.
 
 ##### Artikel 19
 
@@ -301,15 +303,15 @@ Bij een op de voet van deze paragraaf aangeduide waar die andere plantaardige ve
 
 Onverminderd[het Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310):
 
-- a. mogen de in deze paragraaf bedoelde aanduidingen onderdeel uitmaken van de aanduiding van andere eet- of drinkwaren die niet verward kunnen worden met de in [artikel 5 tot en met artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=5&z=2004-07-12&g=2004-07-12) bedoelde eetwaren;
+- a. mogen de in deze paragraaf bedoelde aanduidingen onderdeel uitmaken van de aanduiding van andere eet- of drinkwaren die niet verward kunnen worden met de in [artikel 5 tot en met artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=5&z=2011-01-20&g=2011-01-20) bedoelde eetwaren;
 
-- b. mag de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=11&z=2004-07-12&g=2004-07-12), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=12&z=2004-07-12&g=2004-07-12), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=13&z=2004-07-12&g=2004-07-12), [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=14&z=2004-07-12&g=2004-07-12), [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=15&z=2004-07-12&g=2004-07-12), of [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=18&z=2004-07-12&g=2004-07-12) bedoelde aanduiding worden vervangen door de aanduiding **chocoladeassortiment** of **assortiment gevulde chocolade** of een soortgelijke aanduiding, voor zover die waren als assortiment verhandeld worden;
+- b. mag de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=11&z=2011-01-20&g=2011-01-20), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=12&z=2011-01-20&g=2011-01-20), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=13&z=2011-01-20&g=2011-01-20), [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=14&z=2011-01-20&g=2011-01-20), [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=15&z=2011-01-20&g=2011-01-20), of [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=18&z=2011-01-20&g=2011-01-20) bedoelde aanduiding worden vervangen door de aanduiding **chocoladeassortiment** of **assortiment gevulde chocolade** of een soortgelijke aanduiding, voor zover die waren als assortiment verhandeld worden;
 
 - c. mag voor alle waren in een assortiment, bedoeld onder b, een gezamenlijke lijst van ingrediënten worden vermeld;
 
-- d. wordt bij een op de voet van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=8&z=2004-07-12&g=2004-07-12), [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=9&z=2004-07-12&g=2004-07-12), [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=11&z=2004-07-12&g=2004-07-12), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=12&z=2004-07-12&g=2004-07-12), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=13&z=2004-07-12&g=2004-07-12), [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=16&z=2004-07-12&g=2004-07-12), of [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=17&z=2004-07-12&g=2004-07-12) aangeduide waar het totale gehalte aan droge cacaobestanddelen aangegeven met de vermelding «ten minste ...% cacaobestanddelen»;
+- d. wordt bij een op de voet van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=8&z=2011-01-20&g=2011-01-20), [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=9&z=2011-01-20&g=2011-01-20), [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=11&z=2011-01-20&g=2011-01-20), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=12&z=2011-01-20&g=2011-01-20), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=13&z=2011-01-20&g=2011-01-20), [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=16&z=2011-01-20&g=2011-01-20), of [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=17&z=2011-01-20&g=2011-01-20) aangeduide waar het totale gehalte aan droge cacaobestanddelen aangegeven met de vermelding «ten minste ...% cacaobestanddelen»;
 
-- e. wordt bij een op de voet van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=7&z=2004-07-12&g=2004-07-12) of [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=10&z=2004-07-12&g=2004-07-12) aangeduide waar het gehalte aan cacaoboter vermeld;
+- e. wordt bij een op de voet van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=7&z=2011-01-20&g=2011-01-20) of [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=10&z=2011-01-20&g=2011-01-20) aangeduide waar het gehalte aan cacaoboter vermeld;
 
 - f. mag de aanduiding **chocolade**, **melkchocolade** en **chocoladecouverture** worden aangevuld met vermeldingen of aanduidingen betreffende kwaliteitscriteria, voorzover de desbetreffende waar:
 
@@ -323,7 +325,7 @@ Onverminderd[het Warenwetbesluit Etikettering van levensmiddelen](https://wetten
 
 ##### Artikel 21
 
-1. De in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&z=2004-07-12&g=2004-07-12) bedoelde minimumgehalten worden berekend na aftrek van het gewicht van de in [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=2&artikel=3&z=2004-07-12&g=2004-07-12), bedoelde andere eet- of drinkwaren, en van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=2&artikel=4&z=2004-07-12&g=2004-07-12) bedoelde aroma's, met dien verstande dat bij gevulde chocolade, chocolade met... vulling en bij chocoladebonbon/praline ook het gewicht van de vulling wordt afgetrokken.
+1. De in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&z=2011-01-20&g=2011-01-20) bedoelde minimumgehalten worden berekend na aftrek van het gewicht van de in [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=2&artikel=3&z=2011-01-20&g=2011-01-20), bedoelde andere eet- of drinkwaren, en van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=2&artikel=4&z=2011-01-20&g=2011-01-20) bedoelde aroma's, met dien verstande dat bij gevulde chocolade, chocolade met... vulling en bij chocoladebonbon/praline ook het gewicht van de vulling wordt afgetrokken.
 
 2. Het chocoladegehalte van **gevulde chocolade, chocolade met... vulling** en **chocoladebonbon/praline** wordt berekend ten opzichte van het totale gewicht van de voor consumptie gerede waar, inclusief de vulling.
 
