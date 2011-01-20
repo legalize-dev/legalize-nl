@@ -4,7 +4,7 @@ identifier: "BWBR0024993"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-01"
-last_updated: "2010-07-28"
+last_updated: "2011-01-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024993"
 soort: "ministeriele-regeling"
@@ -68,13 +68,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Aan de raad wordt mandaat en machtiging verleend ten aanzien van de aan de Minister toekomende bevoegdheden en handelingen betreffende de aangelegenheden, bedoeld in de [Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022704) en het [Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024896), met uitzondering van de bevoegdheden en handelingen, bedoeld in de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=2), [4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=4), [16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=16), [28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=28), en [34 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=34) en [artikelen 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&artikel=7), [9 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&artikel=9) en [12 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&artikel=12).
+1. Aan de raad wordt mandaat en machtiging verleend ten aanzien van de aan de Minister toekomende bevoegdheden en handelingen betreffende de aangelegenheden, bedoeld in de [Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022704) en het [Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024896), met uitzondering van de bevoegdheden en handelingen, bedoeld in de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=2), [4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=4), [16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=16), [28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=28), en [34 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=34) en [artikelen 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&artikel=7), [9 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&artikel=9) en [12 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&artikel=12). Aan de Raad wordt tevens mandaat verleend tot het vaststellen van beleidsregels met betrekking tot de hiervoor verleende bevoegdheden.
 
 2. Het krachtens het eerste lid verleende mandaat en de machtiging kunnen verder worden doorgegeven aan onder de raad ressorterende functionarissen.
 
 ##### Artikel 4
 
-1. Aan de raad wordt mandaat en machtiging verleend om bezwaar en beroep te behandelen als bedoeld in de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7) en [8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8) en klachten te behandelen als bedoeld in [titel 9.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=9.1).
+1. Aan de raad wordt mandaat en machtiging verleend om bezwaar en (hoger) beroep te behandelen als bedoeld in de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7) en [8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8) en de [Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367) en klachten te behandelen als bedoeld in [titel 9.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=9.1) en de Wet op de Raad van State.
 
 2. Het krachtens het eerste lid verleende mandaat en de machtiging kunnen verder worden doorgegeven aan onder de raad ressorterende functionarissen, waarbij niet wordt toegestaan dat functionarissen besluiten nemen in bezwaar of klachten behandelen over besluiten of gedragingen waarbij zij zelf betrokken zijn geweest.
 
