@@ -4,7 +4,7 @@ identifier: "BWBR0027146"
 country: "nl"
 rank: "zbo"
 publication_date: "2011-01-26"
-last_updated: "2010-12-13"
+last_updated: "2011-01-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027146"
 soort: "zbo"
@@ -36,6 +36,8 @@ gelet op [artikel 91, eerste lid, Wet financiering sociale verzekeringen](https:
 
 heeft in zijn vergadering van 21 december 2009 besloten:
 
+De datum van inwerkingtreding ligt voor de datum van uitgifte.
+
 #### § 1. Algemeen
 
 ##### Artikel 1
@@ -54,13 +56,13 @@ Het college keert het voorlopig vastgesteld en definitief vastgesteld beheerskos
 
 ##### Artikel 3
 
-1. Het college verdeelt in het jaar 2010 een totaal bedrag van 3,771 miljoen euro aan besteedbare middelen beheerskosten over de zorgverzekeraars.
+1. Het college verdeelt in het jaar 2010 een totaal bedrag van 3,785 miljoen euro aan besteedbare middelen beheerskosten over de zorgverzekeraars.
 
 2. Het college stelt in januari 2010 voor iedere zorgverzekeraar, anders dan in de hoedanigheid van verbindingskantoor, een voorlopig beheerskostenbudget vast ter bepaling van de middelen voor het kalenderjaar 2010 ten laste van het Algemeen Fonds Bijzondere Ziektekosten (AFBZ).
 
 ##### Artikel 4
 
-Het college verdeelt het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027146&paragraaf=2&artikel=3&z=2010-01-01&g=2010-12-13) genoemde totaalbedrag als volgt:
+Het college verdeelt het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027146&paragraaf=2&artikel=3&z=2011-01-26&g=2011-01-26) genoemde totaalbedrag als volgt:
 
 - a. een derde deel van het bedrag, welk deel betrekking heeft op de op verzekerden gerichte administratiedelen, verdeelt het college over de zorgverzekeraars op basis van het aantal bij hen ingeschreven verzekerden dat aanspraak kan maken op verstrekkingen en uitkeringen ingevolge de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614);
 
@@ -70,7 +72,7 @@ Het college verdeelt het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 ##### Artikel 5
 
-Voor de bepaling van het aantal in [artikel 4 onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0027146&paragraaf=2&artikel=4&z=2010-01-01&g=2010-12-13) bedoelde verzekerden gebruikt het college de opgaven van de zorgverzekeraars aan het college van de verzekerdenaantallen per 1 juli 2009.
+Voor de bepaling van het aantal in [artikel 4 onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0027146&paragraaf=2&artikel=4&z=2011-01-26&g=2011-01-26) bedoelde verzekerden gebruikt het college de opgaven van de zorgverzekeraars aan het college van de verzekerdenaantallen per 1 juli 2009.
 
 ##### Artikel 6
 
@@ -80,7 +82,7 @@ Voor een nieuwe zorgverzekeraar, die geen rechtsopvolger is van een of meer best
 
 ##### Artikel 7
 
-Na ommekomst van het budgetjaar stelt het college de budgetten, met toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027146&paragraaf=2&artikel=4&z=2010-01-01&g=2010-12-13), definitief vast. In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027146&paragraaf=2&artikel=5&z=2010-01-01&g=2010-12-13) gaat het college bij de definitieve vaststelling uit van de opgaven van de zorgverzekeraars aan het college van de verzekerdenaantallen per 1 juli 2010.
+Na ommekomst van het budgetjaar stelt het college de budgetten, met toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027146&paragraaf=2&artikel=4&z=2011-01-26&g=2011-01-26), definitief vast. In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027146&paragraaf=2&artikel=5&z=2011-01-26&g=2011-01-26) gaat het college bij de definitieve vaststelling uit van de opgaven van de zorgverzekeraars aan het college van de verzekerdenaantallen per 1 juli 2010.
 
 #### § 4. Slot
 
