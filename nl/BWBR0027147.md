@@ -4,7 +4,7 @@ identifier: "BWBR0027147"
 country: "nl"
 rank: "zbo"
 publication_date: "2011-01-26"
-last_updated: "2010-12-13"
+last_updated: "2011-01-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027147"
 soort: "zbo"
@@ -39,6 +39,8 @@ Gelet op [artikel 91, eerste lid, Wet financiering sociale verzekeringen](https:
 
 heeft in zijn vergadering van 21 december 2009 besloten:
 
+De datum van inwerkingtreding ligt voor de datum van uitgifte.
+
 #### § 1. Algemeen
 
 ##### Artikel 1
@@ -59,23 +61,23 @@ Het college keert het voorlopig vastgestelde, het nader vastgestelde en het defi
 
 ##### Artikel 3
 
-1. Het college verdeelt in het jaar 2010 een totaal bedrag van 155,900 miljoen euro aan besteedbare middelen beheerskosten over de verbindingskantoren.
+1. Het college verdeelt in het jaar 2010 een totaal bedrag van 159,117 miljoen euro aan besteedbare middelen beheerskosten over de verbindingskantoren.
 
 2. Het college stelt in januari 2010 voor ieder verbindingskantoor een voorlopig beheerskostenbudget vast ter bepaling van de besteedbare middelen voor de beheerskosten ten laste van het Algemeen Fonds Bijzondere Ziektekosten.
 
 ##### Artikel 4
 
-Het college verdeelt het in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027147&paragraaf=2&artikel=3&z=2010-01-01&g=2010-12-13), genoemde totaalbedrag als volgt:
+Het college verdeelt het in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027147&paragraaf=2&artikel=3&z=2011-01-26&g=2011-01-26), genoemde totaalbedrag als volgt:
 
-- a. een bedrag van 19,980 miljoen euro op basis van een bedrag van € 178,69 per budgethouder uitgaande van 111.813 budgethouders;
+- a. een bedrag van 22,429 miljoen euro op basis van een bedrag van € 178,69 per budgethouder uitgaande van 125.519 budgethouders;
 
 - b. een bedrag van 4,833 miljoen euro op basis van een gelijk bedrag per verbindingskantoor;
 
-- c. een bedrag van 0,255 miljoen euro voor een verbindingskantoor dat, volgens opgave van Zorgverzekeraars Nederland, coördinerende activiteiten verricht voor doventolkvoorzieningen.
+- c. een bedrag van 0,375 miljoen euro voor een verbindingskantoor dat, volgens opgave van Zorgverzekeraars Nederland, coördinerende activiteiten verricht voor doventolkvoorzieningen.
 
 ##### Artikel 5
 
-1. Het college verdeelt het na toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027147&paragraaf=2&artikel=4&z=2010-01-01&g=2010-12-13) resterende bedrag als volgt:
+1. Het college verdeelt het na toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027147&paragraaf=2&artikel=4&z=2011-01-26&g=2011-01-26) resterende bedrag als volgt:
 
 - a. 15% op basis van een vast bedrag per verbindingskantoor, vermeerderd met een zelfde bedrag per regio waarvoor het verbindingskantoor is aangewezen;
 
@@ -89,7 +91,7 @@ Het college verdeelt het in [artikel 3, eerste lid](https://wetten.overheid.nl/j
 
 ##### Artikel 6
 
-1. De resultaten van de berekeningen volgens de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027147&paragraaf=2&artikel=4&z=2010-01-01&g=2010-12-13) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0027147&paragraaf=2&artikel=5&z=2010-01-01&g=2010-12-13) herrekent het college per regio.
+1. De resultaten van de berekeningen volgens de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027147&paragraaf=2&artikel=4&z=2011-01-26&g=2011-01-26) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0027147&paragraaf=2&artikel=5&z=2011-01-26&g=2011-01-26) herrekent het college per regio.
 
 2. Ter verkrijging van het voorlopige budget voor beheerskosten AWBZ per verbindingskantoor sommeert het college het berekende bedrag per regio voor de regio’s waarvoor het verbindingskantoor is aangewezen.
 
@@ -99,9 +101,9 @@ Het college verdeelt het in [artikel 3, eerste lid](https://wetten.overheid.nl/j
 
 ##### Artikel 7
 
-1. Uiterlijk op de eerste werkdag van mei 2011 stelt het college het budget over het jaar 2010 met toepassing van de [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0027147&paragraaf=2&artikel=4&z=2010-01-01&g=2010-12-13) nader vast op basis van de werkelijke inwoneraantallen per 1 januari 2010 en de werkelijke aantallen budgethouders per 1 juli 2010 en, indien van toepassing, met inachtneming van de Nadere aanwijzing besteedbare middelen beheerskosten AWBZ 2010 van de Staatssecretaris voor Volksgezondheid, Welzijn en Sport. Voor de bepaling van het aantal inwoners baseert het college zich op de gegevens van het Centraal Bureau voor de statistiek.
+1. Uiterlijk op de eerste werkdag van mei 2011 stelt het college het budget over het jaar 2010 met toepassing van de [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0027147&paragraaf=2&artikel=4&z=2011-01-26&g=2011-01-26) nader vast op basis van de werkelijke inwoneraantallen per 1 januari 2010 en de werkelijke aantallen budgethouders per 1 juli 2010 en, indien van toepassing, met inachtneming van de Nadere aanwijzing besteedbare middelen beheerskosten AWBZ 2010 van de Staatssecretaris voor Volksgezondheid, Welzijn en Sport. Voor de bepaling van het aantal inwoners baseert het college zich op de gegevens van het Centraal Bureau voor de statistiek.
 
-2. Bij de nadere vaststelling, bedoeld in het eerste lid, controleert het college of het verbindingskantoor zich aan de voorwaarde genoemd in [artikel 5, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0027147&paragraaf=2&artikel=5&z=2010-01-01&g=2010-12-13) heeft gehouden en vermindert hij het budget met het vastgestelde bedrag voor die incidentele toevoeging indien dit niet het geval is.
+2. Bij de nadere vaststelling, bedoeld in het eerste lid, controleert het college of het verbindingskantoor zich aan de voorwaarde genoemd in [artikel 5, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0027147&paragraaf=2&artikel=5&z=2011-01-26&g=2011-01-26) heeft gehouden en vermindert hij het budget met het vastgestelde bedrag voor die incidentele toevoeging indien dit niet het geval is.
 
 3. Het college keert het nader vastgestelde beheerskostenbudget uit en brengt daarop in mindering de door het college uitgekeerde voorschotten.
 
