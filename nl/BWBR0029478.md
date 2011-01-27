@@ -64,13 +64,3 @@ Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders en autorite
 Dit besluit treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Dit besluit berust mede op [artikel 24, eerste lid, van de Wet drinkwater BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028180&artikel=24).
-
-##### Artikel 4a
-
-Met het toezicht op de naleving van de [Wet drinkwater BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028180) zijn belast en met de functie van inspecteur als bedoeld in [artikel 1, eerste lid, onderdeel d, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028180&artikel=1), zijn bekleed de ambtenaren van de Inspectie Leefomgeving en Transport.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
