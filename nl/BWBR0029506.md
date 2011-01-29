@@ -4,7 +4,7 @@ identifier: "BWBR0029506"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2011-01-29"
-last_updated: "2011-01-01"
+last_updated: "2011-01-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029506"
 soort: "ministeriele-regeling-BES"
@@ -44,7 +44,7 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **de adviescommissie:** de adviescommissie bezwaar en beroep BES, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029506&artikel=2&z=2011-01-29&g=2011-01-01);
+- a. **de adviescommissie:** de adviescommissie bezwaar en beroep BES, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029506&artikel=2&z=2011-01-29&g=2011-01-29);
 
 - b. **de minister:** de Minister van Sociale Zaken en Werkgelegenheid;
 
