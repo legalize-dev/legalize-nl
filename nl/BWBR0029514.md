@@ -87,9 +87,3 @@ Dit besluit wordt aangehaald als: Coördinatiebesluit organisatie en bedrijfsvoe
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
 Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 3a
-
-De benoeming en het ontslag van de Chief Information Officer van een ministerie geschiedt na overleg met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
-
-Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
