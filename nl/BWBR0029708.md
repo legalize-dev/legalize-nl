@@ -4,7 +4,7 @@ identifier: "BWBR0029708"
 country: "nl"
 rank: "zbo"
 publication_date: "2014-08-04"
-last_updated: "2010-01-16"
+last_updated: "2011-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029708"
 soort: "zbo"
@@ -74,9 +74,9 @@ In deze beschikking wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Aan de stichting wordt voor de duur van twee jaren, te rekenen van 16 januari 2010 tot en met 15 januari 2012 vergunning verleend tot het organiseren van sportprijsvragen, lotto en het cijferspel.
+1. Aan de stichting wordt voor de duur van vijf jaren, te rekenen van 16 januari 2010 tot en met 15 januari 2015 vergunning verleend tot het organiseren van sportprijsvragen, lotto en het cijferspel.
 
-2. Aan de in het eerste lid bedoelde vergunning worden de in [artikel 3 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0029708&artikel=3&z=2010-01-16&g=2010-01-16) vervatte voorschriften verbonden, die zonodig kunnen worden gewijzigd en aangevuld.
+2. Aan de in het eerste lid bedoelde vergunning worden de in [artikel 3 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0029708&artikel=3&z=2011-02-01&g=2011-02-01) vervatte voorschriften verbonden, die zonodig kunnen worden gewijzigd en aangevuld.
 
 ##### Artikel 3
 
@@ -178,19 +178,17 @@ In deze beschikking wordt verstaan onder:
 
 ##### Artikel 14
 
-1. De totale afdracht, bedoeld in [artikel 13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029708&artikel=13&z=2010-01-16&g=2010-01-16), wordt aangewend ter verwezenlijking van doeleinden van algemeen belang, gelegen op het terrein van de sport en lichamelijke vorming, alsmede van het maatschappelijk welzijn, de volksgezondheid en de cultuur.
+1. De totale afdracht, bedoeld in [artikel 13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029708&artikel=13&z=2011-02-01&g=2011-02-01), wordt aangewend ter verwezenlijking van doeleinden van algemeen belang, gelegen op het terrein van de sport en lichamelijke vorming, alsmede van het maatschappelijk welzijn, de volksgezondheid en de cultuur.
 
-2. Ten aanzien van 30 sportprijsvragen en 30 lotto’s komt per kalenderjaar de afdracht ten goede aan de Vereniging Nederlands Olympisch Comité*Nederlandse Sport Federatie te Arnhem, ten behoeve van het Olympisch Plan 2028.
-
-3. Ten aanzien van de overige sportprijsvragen en lotto’s komt van de afdracht:
+2. Ten aanzien van 370 sportprijsvragen en 370 lotto’s komt van de afdracht:
 
 - a. 26,5% ten goede aan de Stichting Aanwending Loterijgelden Nederland te ’s-Gravenhage;
 
 - b. 73,5% ten goede aan de Vereniging Nederlands Olympisch Comité*Nederlandse Sport Federatie te Arnhem.
 
-4. Voorafgaande aan het plaatsvinden van de sportprijsvragen en lotto's, bedoeld in het tweede lid, verdeelt de stichting die sportprijsvragen en lotto's over het kalenderjaar. De verdeling is kenbaar voorafgaand aan de verkoop van de deelnamebewijzen voor die sportprijsvragen en lotto's.
+3. Ten aanzien van de overige sportprijsvragen en lotto’s komt de afdracht ten goede aan de Vereniging Nederlands Olympisch Comité*Nederlandse Sport Federatie te Arnhem, ten behoeve van het Olympisch Plan 2028.
 
-5. Uiterlijk binnen drie maanden na afloop van het kalenderjaar voldoet de stichting de afdracht over dat kalenderjaar aan de in het tweede lid en derde lid genoemde instellingen. Daarvan doet de stichting verslag in de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0029708&artikel=16&z=2010-01-16&g=2010-01-16) bedoelde jaarrekening.
+4. Uiterlijk drie maanden na afloop van het kalenderjaar voldoet de stichting de afdracht over dat kalenderjaar aan de in het tweede en derde lid genoemde instellingen. Daarvan doet de stichting verslag in de [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0029708&artikel=16&z=2011-02-01&g=2011-02-01) bedoelde jaarrekening.
 
 ##### Artikel 15
 
@@ -208,7 +206,7 @@ De stichting zendt binnen één maand na het einde van elk kwartaal aan de minis
 
 ##### Artikel 17
 
-De kosten verbonden aan keuring, controle en onderzoek ingevolge de [artikelen 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029708&artikel=11&z=2010-01-16&g=2010-01-16), en [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029708&artikel=16&z=2010-01-16&g=2010-01-16), zijn voor rekening van de stichting.
+De kosten verbonden aan keuring, controle en onderzoek ingevolge de [artikelen 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029708&artikel=11&z=2011-02-01&g=2011-02-01), en [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029708&artikel=16&z=2011-02-01&g=2011-02-01), zijn voor rekening van de stichting.
 
 ##### Artikel 18
 
