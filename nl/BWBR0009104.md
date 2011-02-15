@@ -4,7 +4,7 @@ identifier: "BWBR0009104"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-01"
-last_updated: "2011-01-01"
+last_updated: "2011-02-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009104"
 soort: "ministeriele-regeling"
@@ -55,7 +55,7 @@ de volgende voorschriften vast te stellen ten aanzien van de toepassing, de plaa
 
 ##### Paragraaf 3. Tijdelijke toepassing van verkeerstekens
 
-5. Bij tijdelijke toepassing van verkeerstekens en onderborden, overeenkomstig het bepaalde in paragraaf 8 van het BABW, mag in spoedeisende gevallen van de voorschriften in de [hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&z=2011-01-01&g=2011-01-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=III&z=2011-01-01&g=2011-01-01) worden afgeweken. Dergelijke afwijkingen worden zo spoedig mogelijk gecorrigeerd.
+5. Bij tijdelijke toepassing van verkeerstekens en onderborden, overeenkomstig het bepaalde in paragraaf 8 van het BABW, mag in spoedeisende gevallen van de voorschriften in de [hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&z=2011-02-15&g=2011-02-15) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=III&z=2011-02-15&g=2011-02-15) worden afgeweken. Dergelijke afwijkingen worden zo spoedig mogelijk gecorrigeerd.
 
 ### Hoofdstuk II. Verkeersborden
 
@@ -157,7 +157,7 @@ Niet retroreflecterend behoeven te zijn:
 
 - –. elektronische signaleringsborden.
 
-18. Bewegwijzering ten behoeve van voetgangers mag in afwijking van het bepaalde in het [derde lid, eerste volzin, van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&paragraaf=4&z=2011-01-01&g=2011-01-01) van het BABW bestaan uit een rechthoekig bord, waarop de letters, cijfers of symbolen in een veld zijn geplaatst van andere kleur dan blauw.
+18. Bewegwijzering ten behoeve van voetgangers mag in afwijking van het bepaalde in het [derde lid, eerste volzin, van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&paragraaf=4&z=2011-02-15&g=2011-02-15) van het BABW bestaan uit een rechthoekig bord, waarop de letters, cijfers of symbolen in een veld zijn geplaatst van andere kleur dan blauw.
 
 ##### Paragraaf 4. Voorschriften voor de afzonderlijke borden
 
@@ -181,7 +181,7 @@ Niet retroreflecterend behoeven te zijn:
 
 - op autosnelwegen:
 
-- op wegvakken: 100, 90, 80, 70, 60, 50 km/h;
+- op wegvakken: 130, 120, 110, 100, 90, 80, 70, 60, 50 km/h;
 
 - op andere wegen buiten de bebouwde kom:
 
@@ -191,7 +191,7 @@ Niet retroreflecterend behoeven te zijn:
 
 - bij gevarenpunten: 60, 50 km/h.
 
-3. Binnen de bebouwde kom mag bord A1 worden geplaatst in afwijking van het bepaalde in [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&z=2011-01-01&g=2011-01-01), Paragraaf 1 onder punt 2, om zonodig te herinneren aan de algemene snelheidslimiet van 50 km/h.
+3. Binnen de bebouwde kom mag bord A1 worden geplaatst in afwijking van het bepaalde in [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&z=2011-02-15&g=2011-02-15), Paragraaf 1 onder punt 2, om zonodig te herinneren aan de algemene snelheidslimiet van 50 km/h.
 
 4. 30 km/h en 30 km/h-zone, 60 km/h en 60 km/h-zone
 
@@ -223,9 +223,9 @@ Bord A1 (30 km/h binnen en buiten de bebouwde kom en 60 km/h buiten de bebouwde 
 
 Indien de maximumsnelheden betrekking hebben op motorvoertuigen die een bepaald maximum toegestane totaalmassa te boven gaan wordt op het onderbord die massa vermeld in het aantal tonnen, aangegeven door cijfers met toevoeging van de letter t.
 
-Het bord wordt niet toegepast bij de overgang naar een lagere maximumsnelheid, of bij de toegang tot een woonerf.
+Het bord wordt niet toegepast bij de toegang tot een woonerf.
 
-Geen andere dan de volgende maximumsnelheden worden vastgesteld op wegvakken op autosnelwegen: 100, 90, 80, 70, 60, 50 km/h.
+Geen andere dan de volgende maximumsnelheden worden vastgesteld op wegvakken op autosnelwegen: 130, 120, 110, 100, 90, 80, 70, 60, 50 km/h.
 
 1. Dit bord wordt bij plaatsing boven de rijbaan aangebracht boven elke rijstrook. Het bord kan ook rechts van de weg worden geplaatst. In dit geval moet het bord bij een rijbaanbreedte van meer dan 5 m tevens ter linkerzijde worden geplaatst.
 
