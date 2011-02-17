@@ -4,7 +4,7 @@ identifier: "BWBR0028414"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2011-02-17"
-last_updated: "2010-10-10"
+last_updated: "2011-02-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028414"
 soort: "AMvB-BES"
@@ -49,19 +49,17 @@ Voor de toepassing van deze algemene maatregel van bestuur wordt verstaan onder 
 
 2. Reclame boodschappen voor sterke drank mogen slechts uitgezonden worden tussen 22.00 en 01.00 uur.
 
-3. In bijzondere gevallen kan Onze Minister bij beschikking ontheffing verlenen van het bepaalde in het vorige lid.
-
 ##### Artikel 3
 
 De tijdsduur van een reclame boodschap voor sterke drank mag nimmer de duur van 60 seconden overschrijden, terwijl tussen twee zodanige boodschappen tenminste 10 minuten moeten verlopen.
 
 ##### Artikel 4
 
-Aan bonafide maatschappelijke organisaties met een niet-commercieel doel die zich via de televisie tegen het gebruik van sterke drank wensen uit te spreken, zal desverzocht gelegenheid dienen te worden geboden hun mening terzake te doen kenbaar maken.
+Vervallen
 
 ##### Artikel 5
 
-1. Het bepaalde in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028414&artikel=2&z=2010-10-10&g=2010-10-10) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028414&artikel=3&z=2010-10-10&g=2010-10-10) geldt evenzeer voor het indirect aanprijzen van sterke drank.
+1. Het bepaalde in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028414&artikel=2&z=2011-02-17&g=2011-02-17) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028414&artikel=3&z=2011-02-17&g=2011-02-17) geldt evenzeer voor het indirect aanprijzen van sterke drank.
 
 2. Onder indirect aanprijzen van sterke drank wordt onder meer verstaan:
 
@@ -73,7 +71,7 @@ Aan bonafide maatschappelijke organisaties met een niet-commercieel doel die zic
 
 ##### Artikel 6
 
-Dit besluit berust op artikel 7, vijfde lid, van de Mediawet BES.
+Een ontheffing die is verleend op grond van artikel 2, derde lid, van het Landsbesluit houdende algemene maatregelen van de 24ste november 1972 ter uitvoering van artikel 5, lid 1, onder f, van de Televisie-landsverordening (P.B. 1971, no. 33) (P.B. 1972, no. 237) of op grond van het Besluit televisie- en radioreclame voor sterke drank BES, geldt tot en met een jaar na het tijdstip van inwerkingtreding van het [Mediabesluit BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029602).
 
 ##### Artikel 7
 
