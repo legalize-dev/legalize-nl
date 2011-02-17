@@ -4,7 +4,7 @@ identifier: "BWBR0027597"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-21"
-last_updated: "2010-11-17"
+last_updated: "2011-02-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027597"
 soort: "ministeriele-regeling"
@@ -140,7 +140,7 @@ In deze regeling wordt verstaan onder:
 
 1. Om in aanmerking te komen voor een jaarlijkse instellingssubsidie, dient de instelling uiterlijk dertien weken voor de aanvang van het betreffende kalenderjaar een subsidieaanvraag in.
 
-2. Om in aanmerking te komen voor een vierjaarlijkse instellingssubsidie, dient de instelling overeenkomstig de aanvraagtermijn in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&z=2010-11-17&g=2010-11-17) een subsidieaanvraag in.
+2. Om in aanmerking te komen voor een vierjaarlijkse instellingssubsidie, dient de instelling overeenkomstig de aanvraagtermijn in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3&z=2011-02-17&g=2011-02-17) een subsidieaanvraag in.
 
 3. De minister kan in bijzondere gevallen een te laat ingediende aanvraag voor een jaarlijkse instellingssubsidie in behandeling nemen.
 
@@ -266,9 +266,9 @@ De subsidieontvanger zorgt ervoor dat de werkzaamheden op een zodanige manier wo
 
 3. Voorts bevat het bestuursverslag een inzichtelijke kwalitatieve beschrijving in kort bestek van de verrichte activiteiten in het afgelopen jaar.
 
-4. Op het bestuursverslag is [artikel 2.28](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.28&z=2010-11-17&g=2010-11-17) van toepassing. Het bestuur van de subsidieontvanger ondertekent het bestuursverslag.
+4. Op het bestuursverslag is [artikel 2.28](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.28&z=2011-02-17&g=2011-02-17) van toepassing. Het bestuur van de subsidieontvanger ondertekent het bestuursverslag.
 
-5. Op de jaarrekening zijn de [artikelen 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.26&z=2010-11-17&g=2010-11-17), [2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.27&z=2010-11-17&g=2010-11-17) en [2.28](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.28&z=2010-11-17&g=2010-11-17) van toepassing.
+5. Op de jaarrekening zijn de [artikelen 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.26&z=2011-02-17&g=2011-02-17), [2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.27&z=2011-02-17&g=2011-02-17) en [2.28](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.28&z=2011-02-17&g=2011-02-17) van toepassing.
 
 ##### Artikel 2.16. Bestemmingsfonds OCW
 
@@ -298,7 +298,7 @@ De subsidieontvanger die aan derden goederen ter beschikking stelt of voor derde
 
 1. De subsidieontvanger werkt mee aan door of namens de minister ingestelde onderzoeken die erop zijn gericht de minister inlichtingen te verschaffen ten behoeve van de ontwikkeling van zijn beleid.
 
-2. Als bij de minister het vermoeden is gerezen dat [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.18&z=2010-11-17&g=2010-11-17) niet is nageleefd, spant de subsidieontvanger zich desgevraagd in de jaarrekening van de desbetreffende organisatie te overleggen.
+2. Als bij de minister het vermoeden is gerezen dat [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.18&z=2011-02-17&g=2011-02-17) niet is nageleefd, spant de subsidieontvanger zich desgevraagd in de jaarrekening van de desbetreffende organisatie te overleggen.
 
 ##### Artikel 2.21. Code
 
@@ -318,9 +318,9 @@ De subsidieontvanger die aan derden goederen ter beschikking stelt of voor derde
 
 1. De aanvraag tot vaststelling van de subsidie die € 125.000 of meer bedraagt, gaat vergezeld van een activiteitenverslag en een jaarrekening.
 
-2. In afwijking van het eerste lid gaat de aanvraag tot vaststelling van een vierjaarlijkse instellingssubsidie in plaats van een activiteitenverslag vergezeld van een bestuursverslag als bedoeld in [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.15&z=2010-11-17&g=2010-11-17). Het bestuursverslag geeft een toelichting op het vierde jaar van de subsidie.
+2. In afwijking van het eerste lid gaat de aanvraag tot vaststelling van een vierjaarlijkse instellingssubsidie in plaats van een activiteitenverslag vergezeld van een bestuursverslag als bedoeld in [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.15&z=2011-02-17&g=2011-02-17). Het bestuursverslag geeft een toelichting op het vierde jaar van de subsidie.
 
-3. Op het bestuursverslag is [artikel 2.15, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.15&z=2010-11-17&g=2010-11-17), van overeenkomstige toepassing.
+3. Op het bestuursverslag is [artikel 2.15, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.15&z=2011-02-17&g=2011-02-17), van overeenkomstige toepassing.
 
 ##### Artikel 2.24. Aanvraag voor vaststelling van subsidie onder € 125.000
 
@@ -348,23 +348,23 @@ Het activiteitenverslag beschrijft de aard, duur en omvang van de activiteiten w
 
 2. De jaarrekening van een ontvanger van vierjaarlijkse instellingssubsidie is tevens voorzien van een rapport van feitelijke bevindingen over de prestatieverantwoording.
 
-3. In de verklaring, bedoeld in het eerste lid, doet de accountant een uitspraak over de naleving van de subsidiebepalingen door de subsidieontvanger overeenkomstig de controleprotocollen opgenomen in de bij deze regeling gevoegde [bijlagen IIA](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&bijlage=IIa&z=2010-11-17&g=2010-11-17) onderscheidenlijk [IIB](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&bijlage=IIb&z=2010-11-17&g=2010-11-17) met gebruikmaking van de bij die bijlagen opgenomen modellen voor accountantsverklaringen.
+3. In de verklaring, bedoeld in het eerste lid, doet de accountant een uitspraak over de naleving van de subsidiebepalingen door de subsidieontvanger overeenkomstig de controleprotocollen opgenomen in de bij deze regeling gevoegde [bijlagen IIA](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&bijlage=IIa&z=2011-02-17&g=2011-02-17) onderscheidenlijk [IIB](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&bijlage=IIb&z=2011-02-17&g=2011-02-17) met gebruikmaking van de bij die bijlagen opgenomen modellen voor accountantsverklaringen.
 
 4. De verklaring, bedoeld in het eerste lid, heeft geen betrekking op een in de jaarrekening opgenomen prestatieverantwoording.
 
 ##### Artikel 2.28. Eisen aan de in te dienen documenten
 
-Het bestuursverslag, het activiteitenverslag en de jaarrekening, waaronder de prestatieverantwoording, voldoen aan de eisen, genoemd in de bij deze regeling gevoegde [bijlage IA](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&bijlage=Ia&z=2010-11-17&g=2010-11-17).
+Het bestuursverslag, het activiteitenverslag en de jaarrekening, waaronder de prestatieverantwoording, voldoen aan de eisen, genoemd in de bij deze regeling gevoegde [bijlage IA](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&bijlage=Ia&z=2011-02-17&g=2011-02-17).
 
 ##### Artikel 2.29. Vaststelling
 
 1. Na ontvangst van de aanvraag tot vaststelling van de subsidie stelt de minister de subsidie binnen 22 weken vast.
 
-2. Tegelijkertijd met de vaststelling van de subsidie neemt de minister een besluit over de besteding van het bedrag van het bestemmingsfonds OCW, bedoeld in [artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.16&z=2010-11-17&g=2010-11-17).
+2. Tegelijkertijd met de vaststelling van de subsidie neemt de minister een besluit over de besteding van het bedrag van het bestemmingsfonds OCW, bedoeld in [artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.16&z=2011-02-17&g=2011-02-17).
 
 ##### Artikel 2.30. Terugvordering
 
-1. Onverminderd [artikel 2.29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.29&z=2010-11-17&g=2010-11-17), is de subsidieontvanger na de subsidievaststelling verplicht een teveel aan ontvangen voorschot onverwijld terug te betalen, tenzij de minister tot verrekening op andere wijze heeft besloten.
+1. Onverminderd [artikel 2.29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.29&z=2011-02-17&g=2011-02-17), is de subsidieontvanger na de subsidievaststelling verplicht een teveel aan ontvangen voorschot onverwijld terug te betalen, tenzij de minister tot verrekening op andere wijze heeft besloten.
 
 2. Bij terugvordering van onverschuldigd betaalde subsidiebedragen of voorschotten is de subsidieontvanger verplicht de met de terugvordering verband houdende kosten te voldoen. Tevens kan de minister in dat geval de verschuldigde wettelijke rente vorderen.
 
@@ -376,17 +376,17 @@ Het bestuursverslag, het activiteitenverslag en de jaarrekening, waaronder de pr
 
 ##### Artikel 4.1. Toepassing
 
-[Paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.2&z=2010-11-17&g=2010-11-17) is niet van toepassing op de verstrekking van vierjaarlijkse instellingssubsidies aan aangewezen instellingen en fondsen.
+[Paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.2&z=2011-02-17&g=2011-02-17) is niet van toepassing op de verstrekking van vierjaarlijkse instellingssubsidies aan aangewezen instellingen en fondsen.
 
 ##### Artikel 4.2. Indiening van de begroting
 
 1. Aangewezen instellingen en fondsen dienen uiterlijk zes maanden voor aanvang van de subsidieperiode van vier kalenderjaren een begroting in.
 
-2. Op de begroting is [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.2&artikel=2.5&z=2010-11-17&g=2010-11-17) van overeenkomstige toepassing.
+2. Op de begroting is [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.2&artikel=2.5&z=2011-02-17&g=2011-02-17) van overeenkomstige toepassing.
 
 3. Indien de minister hier om verzoekt, verstrekt de aanvrager tevens een afschrift van de oprichtingsakte van de rechtspersoon dan wel van de statuten zoals deze laatstelijk zijn gewijzigd.
 
-4. [Artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.2&artikel=2.7&z=2010-11-17&g=2010-11-17) is van overeenkomstige toepassing op de aangewezen instellingen en fondsen bij de indiening van de begroting.
+4. [Artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.2&artikel=2.7&z=2011-02-17&g=2011-02-17) is van overeenkomstige toepassing op de aangewezen instellingen en fondsen bij de indiening van de begroting.
 
 #### § 4.2. Verplichtingen van de subsidieontvanger
 
@@ -408,7 +408,7 @@ Het bestuursverslag, het activiteitenverslag en de jaarrekening, waaronder de pr
 
 ##### Artikel 4.4. Eisen aan de in te dienen bescheiden voor fondsen
 
-In afwijking van [artikel 2.28](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.28&z=2010-11-17&g=2010-11-17) voldoen het bestuursverslag, de jaarrekening en de prestatieverantwoording van fondsen aan de eisen, genoemd in de bij deze regeling gevoegde [bijlage IB](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&bijlage=Ib&z=2010-11-17&g=2010-11-17).
+In afwijking van [artikel 2.28](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.28&z=2011-02-17&g=2011-02-17) voldoen het bestuursverslag, de jaarrekening en de prestatieverantwoording van fondsen aan de eisen, genoemd in de bij deze regeling gevoegde [bijlage IB](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&bijlage=Ib&z=2011-02-17&g=2011-02-17).
 
 ### Hoofdstuk 5. Algemene bepalingen voor verstrekking van projectsubsidies
 
@@ -430,7 +430,7 @@ De artikelen van dit hoofdstuk zijn van toepassing op de verstrekking van projec
 
 1. Een aanvraag gaat vergezeld van een activiteitenplan en een begroting.
 
-2. Op het activiteitenplan is [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.2&artikel=2.4&z=2010-11-17&g=2010-11-17) van overeenkomstige toepassing.
+2. Op het activiteitenplan is [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.2&artikel=2.4&z=2011-02-17&g=2011-02-17) van overeenkomstige toepassing.
 
 3. De begroting behelst een overzicht van de geraamde baten en lasten van de aanvrager, voor zover deze betrekking hebben op de activiteiten waarvoor subsidie wordt gevraagd.
 
@@ -438,9 +438,9 @@ De artikelen van dit hoofdstuk zijn van toepassing op de verstrekking van projec
 
 5. Indien de minister hierom verzoekt, verstrekt de aanvrager tevens een afschrift van de oprichtingsakte van de rechtspersoon dan wel van de statuten zoals deze laatstelijk zijn gewijzigd.
 
-6. [Artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.2&artikel=2.7&z=2010-11-17&g=2010-11-17) is van overeenkomstige toepassing.
+6. [Artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.2&artikel=2.7&z=2011-02-17&g=2011-02-17) is van overeenkomstige toepassing.
 
-7. In afwijking van het eerste lid gaat een subsidieaanvraag voor reeds verrichte activiteiten vergezeld van een verslag van de aard, duur en omvang van de gerealiseerde activiteiten en een jaarrekening of financieel verslag. Op de jaarrekening of het financieel verslag zijn de [artikelen 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.26&z=2010-11-17&g=2010-11-17), met uitzondering van het vierde lid, en [2.27, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.27&z=2010-11-17&g=2010-11-17), onderscheidenlijk [artikel 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.5&artikel=5.12&z=2010-11-17&g=2010-11-17) van overeenkomstige toepassing.
+7. In afwijking van het eerste lid gaat een subsidieaanvraag voor reeds verrichte activiteiten vergezeld van een verslag van de aard, duur en omvang van de gerealiseerde activiteiten en een jaarrekening of financieel verslag. Op de jaarrekening of het financieel verslag zijn de [artikelen 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.26&z=2011-02-17&g=2011-02-17), met uitzondering van het vierde lid, en [2.27, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.27&z=2011-02-17&g=2011-02-17), onderscheidenlijk [artikel 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.5&artikel=5.12&z=2011-02-17&g=2011-02-17) van overeenkomstige toepassing.
 
 #### § 5.3. Subsidieverlening
 
@@ -452,17 +452,17 @@ De artikelen van dit hoofdstuk zijn van toepassing op de verstrekking van projec
 
 3. Een beschikking tot subsidieverlening vermeldt de activiteiten waarvoor subsidie wordt verleend, het subsidiebedrag en de datum waarop de activiteiten uiterlijk zijn afgerond.
 
-4. Indien de minister op een aanvraag als bedoeld in [artikel 5.3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.2&artikel=5.3&z=2010-11-17&g=2010-11-17), beslist tot subsidieverstrekking, stelt hij de subsidie zonder voorafgaande verlening vast.
+4. Indien de minister op een aanvraag als bedoeld in [artikel 5.3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.2&artikel=5.3&z=2011-02-17&g=2011-02-17), beslist tot subsidieverstrekking, stelt hij de subsidie zonder voorafgaande verlening vast.
 
 5. In gevallen waarbij de minister besluit tot subsidieverstrekking zonder daarvoor een financiële of inhoudelijke verantwoording noodzakelijk te achten, kan hij, onverminderd het vierde lid, de subsidie zonder voorafgaande verlening vaststellen.
 
 ##### Artikel 5.5. Weigeringsgronden
 
-[Artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.3&artikel=2.9&z=2010-11-17&g=2010-11-17) is van overeenkomstige toepassing op de verstrekking van projectsubsidies.
+[Artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.3&artikel=2.9&z=2011-02-17&g=2011-02-17) is van overeenkomstige toepassing op de verstrekking van projectsubsidies.
 
 ##### Artikel 5.6. Voorschotten en betaling
 
-1. [Artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.3&artikel=2.10&z=2010-11-17&g=2010-11-17) is van overeenkomstige toepassing op de bevoorschotting van projectsubsidies.
+1. [Artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.3&artikel=2.10&z=2011-02-17&g=2011-02-17) is van overeenkomstige toepassing op de bevoorschotting van projectsubsidies.
 
 2. In afwijking van het eerste lid wordt een verleend subsidiebedrag dat minder dan € 25.000 bedraagt bij de subsidieverlening in één keer als voorschot betaald.
 
@@ -470,9 +470,9 @@ De artikelen van dit hoofdstuk zijn van toepassing op de verstrekking van projec
 
 ##### Artikel 5.7. Overeenkomstige verplichtingen
 
-1. De verplichtingen, bedoeld in de [artikelen 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.12&z=2010-11-17&g=2010-11-17), [2.13, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.13&z=2010-11-17&g=2010-11-17), [2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.14&z=2010-11-17&g=2010-11-17) en [2.17 tot en met 2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.17&z=2010-11-17&g=2010-11-17), zijn van overeenkomstige toepassing op de ontvanger van een verleende projectsubsidie die € 25.000 of meer bedraagt.
+1. De verplichtingen, bedoeld in de [artikelen 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.12&z=2011-02-17&g=2011-02-17), [2.13, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.13&z=2011-02-17&g=2011-02-17), [2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.14&z=2011-02-17&g=2011-02-17) en [2.17 tot en met 2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.17&z=2011-02-17&g=2011-02-17), zijn van overeenkomstige toepassing op de ontvanger van een verleende projectsubsidie die € 25.000 of meer bedraagt.
 
-2. De minister kan bij de verlening van een projectsubsidie die € 25.000 of meer bedraagt, [artikel 2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.21&z=2010-11-17&g=2010-11-17) toepassen.
+2. De minister kan bij de verlening van een projectsubsidie die € 25.000 of meer bedraagt, [artikel 2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.21&z=2011-02-17&g=2011-02-17) toepassen.
 
 ##### Artikel 5.8. Publicaties en auteursrecht
 
@@ -490,25 +490,25 @@ De artikelen van dit hoofdstuk zijn van toepassing op de verstrekking van projec
 
 3. De subsidieontvanger doet onverwijld een melding aan de minister, indien aannemelijk is dat:
 
-- a. de activiteiten waarvoor de subsidie is verleend, niet voor de datum, bedoeld in [artikel 5.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.3&artikel=5.4&z=2010-11-17&g=2010-11-17), zijn verricht; of
+- a. de activiteiten waarvoor de subsidie is verleend, niet voor de datum, bedoeld in [artikel 5.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.3&artikel=5.4&z=2011-02-17&g=2011-02-17), zijn verricht; of
 
-- b. voor de datum, bedoeld in [artikel 5.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.3&artikel=5.4&z=2010-11-17&g=2010-11-17), niet of niet geheel aan de aan de subsidie verbonden verplichtingen zal worden voldaan.
+- b. voor de datum, bedoeld in [artikel 5.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.3&artikel=5.4&z=2011-02-17&g=2011-02-17), niet of niet geheel aan de aan de subsidie verbonden verplichtingen zal worden voldaan.
 
 #### § 5.5. Subsidievaststelling
 
 ##### Artikel 5.10. Aanvraag
 
-1. De ontvanger van een subsidie die € 25.000 of meer bedraagt, dient binnen 13 weken na de datum, bedoeld in [artikel 5.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.3&artikel=5.4&z=2010-11-17&g=2010-11-17), een aanvraag tot vaststelling van de subsidie in.
+1. De ontvanger van een subsidie die € 25.000 of meer bedraagt, dient binnen 13 weken na de datum, bedoeld in [artikel 5.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.3&artikel=5.4&z=2011-02-17&g=2011-02-17), een aanvraag tot vaststelling van de subsidie in.
 
 2. In afwijking van het eerste lid kan de aanvraag tot vaststelling door een subsidieontvanger die tevens een jaarlijkse of vierjaarlijkse instellingssubsidie ontvangt, geschieden door verantwoording van de subsidie met de:
 
 - a. bescheiden die vergezeld gaan van de aanvraag tot vaststelling van de jaarlijkse instellingssubsidie of vierjaarlijkse instellingssubsidie, of
 
-- b. periodieke verslaglegging, bedoeld in [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.15&z=2010-11-17&g=2010-11-17),
+- b. periodieke verslaglegging, bedoeld in [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.15&z=2011-02-17&g=2011-02-17),
 
 voor zover de verantwoording van de subsidie daarin voldoende inzichtelijk is.
 
-3. Indien toepassing wordt gegeven aan het tweede lid en de activiteiten van de projectsubsidie zijn afgerond in het eerste, tweede of derde jaar van de subsidieperiode van de vierjaarlijkse instellingssubsidie, geschiedt de aanvraag tot vaststelling uiterlijk met de periodieke verslaglegging, bedoeld in [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.15&z=2010-11-17&g=2010-11-17), over het jaar waarin de activiteiten waarvoor de projectsubsidie is verleend, zijn afgerond.
+3. Indien toepassing wordt gegeven aan het tweede lid en de activiteiten van de projectsubsidie zijn afgerond in het eerste, tweede of derde jaar van de subsidieperiode van de vierjaarlijkse instellingssubsidie, geschiedt de aanvraag tot vaststelling uiterlijk met de periodieke verslaglegging, bedoeld in [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.15&z=2011-02-17&g=2011-02-17), over het jaar waarin de activiteiten waarvoor de projectsubsidie is verleend, zijn afgerond.
 
 4. In afwijking van het eerste lid en onverminderd het tweede en derde lid, kan de minister bij de subsidieverlening bepalen dat de ontvanger van een subsidie die twee of meer jaren bestrijkt, jaarlijks voor een in de beschikking tot verlening van de subsidie op te nemen datum een aanvraag tot vaststelling indient.
 
@@ -518,25 +518,25 @@ voor zover de verantwoording van de subsidie daarin voldoende inzichtelijk is.
 
 2. Indien de subsidie € 125.000 of meer bedraagt, gaat de aanvraag tot vaststelling van de subsidie tevens vergezeld van een jaarrekening of financieel verslag.
 
-3. Op het activiteitenverslag is [artikel 2.25](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.25&z=2010-11-17&g=2010-11-17) van overeenkomstige toepassing.
+3. Op het activiteitenverslag is [artikel 2.25](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.25&z=2011-02-17&g=2011-02-17) van overeenkomstige toepassing.
 
-4. Op het bestuursverslag is [artikel 2.15, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.15&z=2010-11-17&g=2010-11-17), van overeenkomstige toepassing.
+4. Op het bestuursverslag is [artikel 2.15, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.15&z=2011-02-17&g=2011-02-17), van overeenkomstige toepassing.
 
-5. Op de jaarrekening zijn de [artikelen 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.26&z=2010-11-17&g=2010-11-17), met uitzondering van het vierde lid, en [2.27, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.27&z=2010-11-17&g=2010-11-17), van overeenkomstige toepassing.
+5. Op de jaarrekening zijn de [artikelen 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.26&z=2011-02-17&g=2011-02-17), met uitzondering van het vierde lid, en [2.27, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.27&z=2011-02-17&g=2011-02-17), van overeenkomstige toepassing.
 
 ##### Artikel 5.12. Financieel verslag
 
 1. Het financieel verslag geeft een zodanig inzicht dat een verantwoord oordeel kan worden gevormd omtrent de besteding van de subsidie door de subsidieontvanger. Het financieel verslag sluit aan op de indeling van de begroting, die voorafgaand aan de subsidieverlening is overgelegd. Belangrijke verschillen tussen financieel verslag en begroting worden toegelicht.
 
-2. Op het financieel verslag is [artikel 2.27, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.27&z=2010-11-17&g=2010-11-17), van overeenkomstige toepassing.
+2. Op het financieel verslag is [artikel 2.27, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.27&z=2011-02-17&g=2011-02-17), van overeenkomstige toepassing.
 
 ##### Artikel 5.13. Vaststelling
 
 1. Na ontvangst van de aanvraag tot vaststelling van de subsidie stelt de minister de subsidie binnen 22 weken vast.
 
-2. Indien het verleende subsidiebedrag minder dan € 25.000 bedraagt, stelt de minister de subsidie binnen 22 weken na de datum, bedoeld in [artikel 5.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.3&artikel=5.4&z=2010-11-17&g=2010-11-17), ambtshalve vast.
+2. Indien het verleende subsidiebedrag minder dan € 25.000 bedraagt, stelt de minister de subsidie binnen 22 weken na de datum, bedoeld in [artikel 5.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.3&artikel=5.4&z=2011-02-17&g=2011-02-17), ambtshalve vast.
 
-3. Met betrekking tot terugvordering van onverschuldigd betaalde subsidiebedragen en voorschotten is [artikel 2.30](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.30&z=2010-11-17&g=2010-11-17) van overeenkomstige toepassing.
+3. Met betrekking tot terugvordering van onverschuldigd betaalde subsidiebedragen en voorschotten is [artikel 2.30](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.30&z=2011-02-17&g=2011-02-17) van overeenkomstige toepassing.
 
 ### Hoofdstuk 6. Overgangs- en slotbepalingen
 
@@ -552,7 +552,7 @@ De minister kan, gelet op het belang dat deze regeling beoogt te beschermen, art
 
 1. Aanvragen ingediend op grond van de [Regeling subsidies en uitkeringen cultuuruitingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007155) waar nog niet op is beslist op het tijdstip van inwerkingtreding van deze regeling worden beschouwd als aanvragen ingediend op grond van deze regeling.
 
-2. De bepalingen krachtens deze regeling die betrekking hebben op de vaststelling en de daarmee verbonden wettelijke verplichtingen zijn van toepassing op de subsidies verleend krachtens de [Regeling subsidies en uitkeringen cultuuruitingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007155), met dien verstande dat de minister binnen zes maanden beslist op de aanvraag tot vaststelling van een vierjaarlijkse instellingssubsidie die in 2008 is verleend. In afwijking van de [artikelen 2.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.15&z=2010-11-17&g=2010-11-17), en [5.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.5&artikel=5.10&z=2010-11-17&g=2010-11-17), bedraagt de termijn, genoemd in die artikelen, vier maanden voor subsidies die zijn verleend voor het tijdstip van inwerkingtreding van deze regeling. In afwijking van [artikel 2.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.22&z=2010-11-17&g=2010-11-17), dient de ontvanger van een subsidie die is verleend voor het tijdstip van inwerkingtreding van deze regeling binnen 4 maanden na afloop van de subsidieperiode een aanvraag tot vaststelling van de subsidie in.
+2. De bepalingen krachtens deze regeling die betrekking hebben op de vaststelling en de daarmee verbonden wettelijke verplichtingen zijn van toepassing op de subsidies verleend krachtens de [Regeling subsidies en uitkeringen cultuuruitingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007155), met dien verstande dat de minister binnen zes maanden beslist op de aanvraag tot vaststelling van een vierjaarlijkse instellingssubsidie die in 2008 is verleend. In afwijking van de [artikelen 2.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.15&z=2011-02-17&g=2011-02-17), en [5.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.5&artikel=5.10&z=2011-02-17&g=2011-02-17), bedraagt de termijn, genoemd in die artikelen, vier maanden voor subsidies die zijn verleend voor het tijdstip van inwerkingtreding van deze regeling. In afwijking van [artikel 2.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.22&z=2011-02-17&g=2011-02-17), dient de ontvanger van een subsidie die is verleend voor het tijdstip van inwerkingtreding van deze regeling binnen 4 maanden na afloop van de subsidieperiode een aanvraag tot vaststelling van de subsidie in.
 
 3. De bevoorschotting van besluiten genomen op grond van de [Regeling subsidies en uitkeringen cultuuruitingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007155), vindt plaats overeenkomstig die regeling.
 
@@ -568,7 +568,7 @@ De [Regeling subsidies en uitkeringen cultuuruitingen](https://wetten.overheid.n
 
 ##### Artikel 6.11. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 juli 2010, met uitzondering van [artikel 6.5, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=6&paragraaf=6.3&artikel=6.5&z=2010-11-17&g=2010-11-17), dat in werking treedt met ingang van de eerste dag na de datum van uitgifte van de Staatscourant waarin de regeling wordt geplaatst.
+Deze regeling treedt in werking met ingang van 1 juli 2010, met uitzondering van [artikel 6.5, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=6&paragraaf=6.3&artikel=6.5&z=2011-02-17&g=2011-02-17), dat in werking treedt met ingang van de eerste dag na de datum van uitgifte van de Staatscourant waarin de regeling wordt geplaatst.
 
 ##### Artikel 6.12. Citeertitel
 
@@ -618,7 +618,7 @@ Voorts bevat het bestuursverslag:
 
 De jaarlijkse verantwoording wordt conform [artikel 2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.27&z=2010-07-01&g=2010-07-01) van de Rsc door uw accountant voorzien van de volgende producten:
 
-De jaarlijkse verantwoording wordt conform [artikel 2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.27&z=2010-11-17&g=2010-11-17) van de Rsc door uw accountant voorzien van de volgende producten:
+De jaarlijkse verantwoording wordt conform [artikel 2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.27&z=2011-02-17&g=2011-02-17) van de Rsc door uw accountant voorzien van de volgende producten:
 
 ### Verantwoording voor instellingen met een jaarlijkse subsidie
 
@@ -640,7 +640,7 @@ Als het van OCW ontvangen jaarlijkse subsidiebedrag (exclusief eventuele project
 
 Voor het indienen van een aanvraag tot vaststelling van een projectsubsidie geldt in beginsel de termijn genoemd in het eerste lid van [artikel 5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.5&artikel=5.10&z=2010-07-01&g=2010-07-01) van de Rsc. Het tweede lid van dit artikel geeft u, als ontvanger van een jaarlijkse of vierjaarlijkse instellingssubsidie, echter de mogelijkheid in plaats daarvan uw aanvraag tot subsidievaststelling voor een projectsubsidie tegelijk in te dienen met de aanvraag tot vaststelling van de jaarlijkse instellingssubsidie of met de jaarlijkse verantwoording over uw vierjaarlijkse instellingssubsidie. U doet dit bij de verantwoording over het jaar waarin de activiteiten van het project, volgens de beschikking waarmee de projectsubsidie is verleend, uiterlijk worden afgerond.
 
-Voor het indienen van een aanvraag tot vaststelling van een projectsubsidie geldt in beginsel de termijn genoemd in het eerste lid van [artikel 5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.5&artikel=5.10&z=2010-11-17&g=2010-11-17) van de Rsc. Het tweede lid van dit artikel geeft u, als ontvanger van een jaarlijkse of vierjaarlijkse instellingssubsidie, echter de mogelijkheid in plaats daarvan uw aanvraag tot subsidievaststelling voor een projectsubsidie tegelijk in te dienen met de aanvraag tot vaststelling van de jaarlijkse instellingssubsidie of met de jaarlijkse verantwoording over uw vierjaarlijkse instellingssubsidie. U doet dit bij de verantwoording over het jaar waarin de activiteiten van het project, volgens de beschikking waarmee de projectsubsidie is verleend, uiterlijk worden afgerond.
+Voor het indienen van een aanvraag tot vaststelling van een projectsubsidie geldt in beginsel de termijn genoemd in het eerste lid van [artikel 5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.5&artikel=5.10&z=2011-02-17&g=2011-02-17) van de Rsc. Het tweede lid van dit artikel geeft u, als ontvanger van een jaarlijkse of vierjaarlijkse instellingssubsidie, echter de mogelijkheid in plaats daarvan uw aanvraag tot subsidievaststelling voor een projectsubsidie tegelijk in te dienen met de aanvraag tot vaststelling van de jaarlijkse instellingssubsidie of met de jaarlijkse verantwoording over uw vierjaarlijkse instellingssubsidie. U doet dit bij de verantwoording over het jaar waarin de activiteiten van het project, volgens de beschikking waarmee de projectsubsidie is verleend, uiterlijk worden afgerond.
 
 Aandachtspunten:
 
@@ -660,7 +660,7 @@ In beide gevallen geldt als voorwaarde dat de activiteiten van het project afzon
 
 U dient na afloop van het project een aanvraag tot subsidievaststelling in, voorzien van een eindverantwoording die bestaat uit een activiteitenverslag (zie hoofdstuk 3 bij **Jaarlijkse subsidie OCW vanaf € 125.000**) en een financieel verslag ([artikel 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.5&artikel=5.12&z=2010-07-01&g=2010-07-01) Rsc). Het financieel verslag:
 
-U dient na afloop van het project een aanvraag tot subsidievaststelling in, voorzien van een eindverantwoording die bestaat uit een activiteitenverslag (zie hoofdstuk 3 bij **Jaarlijkse subsidie OCW vanaf € 125.000**) en een financieel verslag ([artikel 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.5&artikel=5.12&z=2010-11-17&g=2010-11-17) Rsc). Het financieel verslag:
+U dient na afloop van het project een aanvraag tot subsidievaststelling in, voorzien van een eindverantwoording die bestaat uit een activiteitenverslag (zie hoofdstuk 3 bij **Jaarlijkse subsidie OCW vanaf € 125.000**) en een financieel verslag ([artikel 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.5&artikel=5.12&z=2011-02-17&g=2011-02-17) Rsc). Het financieel verslag:
 
 In plaats van de hiervoor genoemde wijze van verantwoorden is het ook toegestaan om de verantwoording over de projectsubsidie op te nemen in de jaarlijkse verantwoording over uw instellingssubsidie. Dat betekent het volgende:
 
@@ -674,7 +674,7 @@ U vindt de eerste vier documenten op de websites www.rijksoverheid.nl, www.cultu
 
 Krachtens [artikel 2.26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.26&z=2010-07-01&g=2010-07-01), van de Rsc, is [BW 2 Titel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) overeenkomstig van toepassing op deze verantwoording, met dien verstande dat de winst- en verliesrekening vervangen wordt door een exploitatierekening.
 
-Krachtens [artikel 2.26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.26&z=2010-11-17&g=2010-11-17), van de Rsc, is [BW 2 Titel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) overeenkomstig van toepassing op deze verantwoording, met dien verstande dat de winst- en verliesrekening vervangen wordt door een exploitatierekening.
+Krachtens [artikel 2.26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.26&z=2011-02-17&g=2011-02-17), van de Rsc, is [BW 2 Titel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) overeenkomstig van toepassing op deze verantwoording, met dien verstande dat de winst- en verliesrekening vervangen wordt door een exploitatierekening.
 
 ### Sica
 
@@ -826,13 +826,13 @@ Voorts bevat het bestuursverslag:
 
 De jaarlijkse verantwoording wordt conform [artikel 2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.27&z=2010-07-01&g=2010-07-01) van de Rsc door uw accountant voorzien van de volgende producten:
 
-De jaarlijkse verantwoording wordt conform [artikel 2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.27&z=2010-11-17&g=2010-11-17) van de Rsc door uw accountant voorzien van de volgende producten:
+De jaarlijkse verantwoording wordt conform [artikel 2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.27&z=2011-02-17&g=2011-02-17) van de Rsc door uw accountant voorzien van de volgende producten:
 
 ### Verantwoording projectsubsidie
 
 Voor het indienen van een aanvraag tot vaststelling van een projectsubsidie geldt in beginsel de termijn genoemd in het eerste lid van [artikel 5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.5&artikel=5.10&z=2010-07-01&g=2010-07-01) van de Rsc. Het tweede lid van dit artikel geeft u, als ontvanger van een vierjaarlijkse instellingssubsidie, echter de mogelijkheid in plaats daarvan uw aanvraag tot subsidievaststelling voor een projectsubsidie tegelijk in te dienen met de jaarlijkse verantwoording over uw vierjaarlijkse subsidie. U doet dit bij de verantwoording over het jaar waarin de activiteiten van het project, volgens de beschikking waarmee de projectsubsidie is verleend, uiterlijk worden afgerond.
 
-Voor het indienen van een aanvraag tot vaststelling van een projectsubsidie geldt in beginsel de termijn genoemd in het eerste lid van [artikel 5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.5&artikel=5.10&z=2010-11-17&g=2010-11-17) van de Rsc. Het tweede lid van dit artikel geeft u, als ontvanger van een vierjaarlijkse instellingssubsidie, echter de mogelijkheid in plaats daarvan uw aanvraag tot subsidievaststelling voor een projectsubsidie tegelijk in te dienen met de jaarlijkse verantwoording over uw vierjaarlijkse subsidie. U doet dit bij de verantwoording over het jaar waarin de activiteiten van het project, volgens de beschikking waarmee de projectsubsidie is verleend, uiterlijk worden afgerond.
+Voor het indienen van een aanvraag tot vaststelling van een projectsubsidie geldt in beginsel de termijn genoemd in het eerste lid van [artikel 5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.5&artikel=5.10&z=2011-02-17&g=2011-02-17) van de Rsc. Het tweede lid van dit artikel geeft u, als ontvanger van een vierjaarlijkse instellingssubsidie, echter de mogelijkheid in plaats daarvan uw aanvraag tot subsidievaststelling voor een projectsubsidie tegelijk in te dienen met de jaarlijkse verantwoording over uw vierjaarlijkse subsidie. U doet dit bij de verantwoording over het jaar waarin de activiteiten van het project, volgens de beschikking waarmee de projectsubsidie is verleend, uiterlijk worden afgerond.
 
 Aandachtspunten:
 
@@ -846,13 +846,13 @@ Als een projectsubsidie over de gehele looptijd € 25.000 of meer bedraagt, maa
 
 Het activiteitenverslag ([artikel 2.25](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.25&z=2010-07-01&g=2010-07-01) Rsc) is vormvrij en beschrijft de aard, duur en omvang van de activiteiten waarvoor subsidie werd verleend.
 
-Het activiteitenverslag ([artikel 2.25](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.25&z=2010-11-17&g=2010-11-17) Rsc) is vormvrij en beschrijft de aard, duur en omvang van de activiteiten waarvoor subsidie werd verleend.
+Het activiteitenverslag ([artikel 2.25](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.25&z=2011-02-17&g=2011-02-17) Rsc) is vormvrij en beschrijft de aard, duur en omvang van de activiteiten waarvoor subsidie werd verleend.
 
 ### Projectsubsidie vanaf € 125.000
 
 U dient na afloop van het project een aanvraag tot subsidievaststelling in, voorzien van een eindverantwoording die bestaat uit een activiteitenverslag (zie voor een toelichting op de inhoud van het activiteitenverslag de vorige paragraaf) en een financieel verslag ([artikel 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.5&artikel=5.12&z=2010-07-01&g=2010-07-01) Rsc). Het financieel verslag:
 
-U dient na afloop van het project een aanvraag tot subsidievaststelling in, voorzien van een eindverantwoording die bestaat uit een activiteitenverslag (zie voor een toelichting op de inhoud van het activiteitenverslag de vorige paragraaf) en een financieel verslag ([artikel 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.5&artikel=5.12&z=2010-11-17&g=2010-11-17) Rsc). Het financieel verslag:
+U dient na afloop van het project een aanvraag tot subsidievaststelling in, voorzien van een eindverantwoording die bestaat uit een activiteitenverslag (zie voor een toelichting op de inhoud van het activiteitenverslag de vorige paragraaf) en een financieel verslag ([artikel 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.5&artikel=5.12&z=2011-02-17&g=2011-02-17) Rsc). Het financieel verslag:
 
 In plaats van de hiervoor genoemde wijze van verantwoorden is het ook toegestaan om de verantwoording over de projectsubsidie op te nemen in de jaarlijkse verantwoording over uw instellingssubsidie. Dat betekent het volgende:
 
@@ -866,7 +866,7 @@ U vindt de eerste vier documenten op de websites www.rijksoverheid.nl, www.cultu
 
 Krachtens [artikel 2.26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.26&z=2010-07-01&g=2010-07-01), van de Rsc, is [BW 2 Titel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) overeenkomstig van toepassing op deze verantwoording, met dien verstande dat de winst- en verliesrekening vervangen wordt door een exploitatierekening.
 
-Krachtens [artikel 2.26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.26&z=2010-11-17&g=2010-11-17), van de Rsc, is [BW 2 Titel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) overeenkomstig van toepassing op deze verantwoording, met dien verstande dat de winst- en verliesrekening vervangen wordt door een exploitatierekening.
+Krachtens [artikel 2.26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.26&z=2011-02-17&g=2011-02-17), van de Rsc, is [BW 2 Titel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) overeenkomstig van toepassing op deze verantwoording, met dien verstande dat de winst- en verliesrekening vervangen wordt door een exploitatierekening.
 
 ### Modellen voor de verantwoording
 
@@ -1036,7 +1036,7 @@ Indien de accountant tekortkomingen constateert die de instelling niet herstelt,
 
 De accountant stelt vast dat de instelling een kostendekkende vergoeding in rekening brengt in de situaties als bedoeld in [artikel 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.19&z=2010-07-01&g=2010-07-01) van de Regeling op het specifiek cultuurbeleid .
 
-De accountant stelt vast dat de instelling een kostendekkende vergoeding in rekening brengt in de situaties als bedoeld in [artikel 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.19&z=2010-11-17&g=2010-11-17) van de Regeling op het specifiek cultuurbeleid .
+De accountant stelt vast dat de instelling een kostendekkende vergoeding in rekening brengt in de situaties als bedoeld in [artikel 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.19&z=2011-02-17&g=2011-02-17) van de Regeling op het specifiek cultuurbeleid .
 
 Indien de accountant tekortkomingen constateert die de instelling niet herstelt, neemt hij dit op in zijn rapport van bevindingen.
 
@@ -1044,7 +1044,7 @@ Indien de accountant tekortkomingen constateert die de instelling niet herstelt,
 
 De accountant stelt vast dat de instelling geen hoger bedrag betaalt aan een organisatie in de situaties als bedoeld in [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.18&z=2010-07-01&g=2010-07-01) van de Regeling op het specifiek cultuurbeleid. De accountant beoordeelt of de instelling toereikende procedures hanteert en een bestendige gedragslijn volgt om deze vergoedingen te bepalen. Indien de accountant tekortkomingen constateert die de instelling niet herstelt, neemt hij dit op in zijn rapport van bevindingen.
 
-De accountant stelt vast dat de instelling geen hoger bedrag betaalt aan een organisatie in de situaties als bedoeld in [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.18&z=2010-11-17&g=2010-11-17) van de Regeling op het specifiek cultuurbeleid. De accountant beoordeelt of de instelling toereikende procedures hanteert en een bestendige gedragslijn volgt om deze vergoedingen te bepalen. Indien de accountant tekortkomingen constateert die de instelling niet herstelt, neemt hij dit op in zijn rapport van bevindingen.
+De accountant stelt vast dat de instelling geen hoger bedrag betaalt aan een organisatie in de situaties als bedoeld in [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.18&z=2011-02-17&g=2011-02-17) van de Regeling op het specifiek cultuurbeleid. De accountant beoordeelt of de instelling toereikende procedures hanteert en een bestendige gedragslijn volgt om deze vergoedingen te bepalen. Indien de accountant tekortkomingen constateert die de instelling niet herstelt, neemt hij dit op in zijn rapport van bevindingen.
 
 Projectsubsidies vanaf € 125.000 worden bij voorkeur verantwoord in de jaarrekening. Indien in de subsidiebeschikking expliciete voorwaarden zijn gesteld aan de besteding van de subsidie is sprake van een geoormerkte subsidie. De accountant controleert de rechtmatigheid van de besteding van de geoormerkte subsidie. Voor de toepassing van de tabel in 2.1.3 geldt hier als omvangsbasis het totaalbedrag van de geoormerkte subsidies.
 
@@ -1080,7 +1080,7 @@ De accountant meldt zijn onderzoeksbevindingen in een rapport van feitelijke bev
 
 Aan: het bestuur van de Stichting .....
 
-### **Accountantsverklaring**
+### Controleverklaring van de onafhankelijke accountant
 
 **Afgegeven ten behoeve van het ministerie van Onderwijs, Cultuur en Wetenschap**
 
@@ -1096,33 +1096,33 @@ Het bestuur van de stichting is verantwoordelijk voor het opmaken van de jaarrek
 
 Onze verantwoordelijkheid is het geven van een oordeel over de jaarrekening op basis van onze controle. Wij hebben onze controle verricht in overeenstemming met Nederlands recht, waaronder het controleprotocol cultuursubsidies instellingen. Dienovereenkomstig zijn wij verplicht te voldoen aan de voor ons geldende gedragsnormen en zijn wij gehouden onze controle zodanig te plannen en uit te voeren dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening geen afwijkingen van materieel belang bevat. Een controle omvat het uitvoeren van werkzaamheden ter verkrijging van controle-informatie over de bedragen en de toelichtingen in de jaarrekening. De keuze van de uit te voeren werkzaamheden is afhankelijk van de professionele oordeelsvorming van de accountant, waaronder begrepen zijn beoordeling van de risico’s van afwijkingen van materieel belang als gevolg van fraude of fouten. In die beoordeling neemt de accountant in aanmerking het voor het opmaken van en getrouw weergeven in de jaarrekening van vermogen en resultaat, alsmede het voor de naleving van de betreffende wet- en regelgeving relevante interne beheersingssysteem, teneinde een verantwoorde keuze te kunnen maken van de controlewerkzaamheden die onder de gegeven omstandigheden adequaat zijn maar die niet tot doel hebben een oordeel te geven over de effectiviteit van het interne beheersingssysteem van de stichting. Tevens omvat een controle onder meer een evaluatie van de aanvaardbaarheid van de toegepaste grondslagen voor financiële verslaggeving en van de redelijkheid van schattingen die het bestuur van de stichting heeft gemaakt, alsmede een evaluatie van het algehele beeld van de jaarrekening.
 
-Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is als basis voor ons oordeel.
+Onze verantwoordelijkheid is het geven van een oordeel over de jaarrekening op basis van onze controle. Wij hebben onze controle verricht in overeenstemming met Nederlands recht, waaronder de Nederlandse controlestandaarden en het Controleprotocol Cultuursubsidies [Instellingen] [Fondsen]. Dit vereist dat wij voldoen aan voor ons geldende ethische voorschriften en dat wij onze controle zodanig plannen en uitvoeren dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening geen afwijkingen van materieel belang bevat.
 
 ### **Oordeel**
 
-Naar ons oordeel geeft de jaarrekening een getrouw beeld van de grootte en de samenstelling van het vermogen van Stichting ..... per 31 december 20xx en van het resultaat over 20xx in overeenstemming met het Handboek Verantwoording Cultuursubsidies Instellingen en voldoet aan de bepalingen van de subsidiebeschikking(en).
+Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is om een onderbouwing voor ons oordeel te bieden.
 
 Voorts zijn wij van oordeel dat de in deze jaarrekening verantwoorde baten, lasten en balansmutaties over 20xx voldoen aan de eisen van financiële rechtmatigheid. Dit houdt in dat deze bedragen in overeenstemming zijn met de in de relevante wet- en regelgeving opgenomen bepalingen, zoals die in de subsidiebeschikking en het controleprotocol cultuursubsidies instellingen zijn vermeld.
 
 ### **Verklaring betreffende andere wettelijke voorschriften en/of voorschriften van regelgevende instanties**
 
-Verder melden wij dat het bestuursverslag voor zover wij dat kunnen beoordelen, verenigbaar is met de jaarrekening **(alleen van toepassing bij vierjarige instellingssubsidies)**.
+Voorts zijn wij van oordeel dat de in deze jaarrekening verantwoorde baten, lasten en balansmutaties over <<jaartal>> voldoen aan de eisen van financiële rechtmatigheid. Dit houdt in dat deze bedragen in overeenstemming zijn met de in de relevante wet- en regelgeving opgenomen bepalingen, zoals die in de subsidiebeschikking en het Controleprotocol Cultuursubsidies [Instellingen] [Fondsen] zijn vermeld.
 
 **Voorts merken wij op dat niet is voldaan aan de wettelijke verplichting tot vermelding van de informatie over topinkomens (artikel 6 van de Wet openbaarmaking uit publieke middelen gefinancierde Topinkomens).***
 
-Plaats, datum
+Ingevolge [artikel 2:393 lid 5 onder e en f BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) vermelden wij dat ons geen tekortkomingen zijn gebleken naar aanleiding van het onderzoek of het bestuursverslag, voor zover wij dat kunnen beoordelen, overeenkomstig [Titel 9 Boek 2 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) en het Handboek Verantwoording Cultuursubsidies [Instellingen] [Fondsen] is opgesteld, en of de in [artikel 2:392 lid 1 onder b tot en met h BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=392) vereiste gegevens zijn toegevoegd.1De onder lid 1 genoemde punten b tot en met f zijn van toepassing op winst gerichte rechtspersonen.Tevens vermelden wij dat het bestuursverslag, voor zover wij dat kunnen beoordelen, verenigbaar is met de jaarrekening zoals vereist in [artikel 2:391 lid 4 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=391). **(alleen van toepassing bij vierjaarlijkse instellingssubsidie)**
 
-Naam accountantsorganisatie
+Verder melden wij dat het activiteitenverslag, voor zover wij dat kunnen beoordelen, verenigbaar is met het financieel verslag. **(alleen van toepassing bij jaarlijkse instellingssubsidie)**
 
-Naam externe accountant en ondertekening met die naam
+**Voorts merken wij op dat niet is voldaan aan de wettelijke verplichting tot vermelding van de informatie over topinkomens (artikel 6 van de Wet openbaarmaking uit publieke middelen gefinancierde Topinkomens).** **(alleen opnemen indien van toepassing)**
 
-* indien van toepassing
+<<Plaats>>, <<datum>>
 
 ### 5. Model accountantsverklaring bij het financieel verslag over een projectsubsidie
 
 Aan: **(naam opdrachtgever)**
 
-### **Accountantsverklaring**
+### Controleverklaring van de onafhankelijke accountant
 
 **Afgegeven ten behoeve van het ministerie van Onderwijs, Cultuur en Wetenschap**
 
@@ -1138,27 +1138,27 @@ Wij hebben het bijgevoegde financieel verslag over de besteding van de projectsu
 
 Onze verantwoordelijkheid is het geven van een oordeel over het financieel verslag op basis van onze controle. Wij hebben onze controle verricht in overeenstemming met Nederlands recht, waaronder het controleprotocol cultuursubsidies instellingen. Dienovereenkomstig zijn wij verplicht te voldoen aan de voor ons geldende gedragsnormen en zijn wij gehouden onze controle zodanig te plannen en uit te voeren dat een redelijke mate van zekerheid wordt verkregen dat het financieel verslag geen afwijkingen van materieel belang bevat. Een controle omvat het uitvoeren van werkzaamheden ter verkrijging van controle-informatie over de bedragen en de toelichtingen in het financieel verslag. De keuze van de uit te voeren werkzaamheden is afhankelijk van de professionele oordeelsvorming van de accountant, waaronder begrepen zijn beoordeling van de risico’s van afwijkingen van materieel belang als gevolg van fraude of fouten. In die beoordeling neemt de accountant in aanmerking het voor het opmaken van en getrouw weergeven in het financieel verslag van baten en lasten, alsmede het voor de naleving van de betreffende wet- en regelgeving relevante interne beheersingssysteem, teneinde een verantwoorde keuze te kunnen maken van de controlewerkzaamheden die onder de gegeven omstandigheden adequaat zijn maar die niet tot doel hebben een oordeel te geven over de effectiviteit van het interne beheersingssysteem van **(naam opdrachtgever)**. Tevens omvat een controle onder meer een evaluatie van de aanvaardbaarheid van de toegepaste grondslagen voor financiële verslaggeving en van de redelijkheid van schattingen die **(naam opdrachtgever)** heeft gemaakt, alsmede een evaluatie van het algehele beeld van het financieel verslag.
 
-Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is als basis voor ons oordeel.
+Onze verantwoordelijkheid is het geven van een oordeel over het financieel verslag op basis van onze controle. Wij hebben onze controle verricht in overeenstemming met Nederlands recht, waaronder de Nederlandse controlestandaarden en het Controleprotocol Cultuursubsidies [Instellingen] [Fondsen]. Dit vereist dat wij voldoen aan voor ons geldende ethische voorschriften en dat wij onze controle zodanig plannen en uitvoeren dat een redelijke mate van zekerheid wordt verkregen dat het financieel verslag geen afwijkingen van materieel belang bevat.
 
 ### **Oordeel**
 
-Naar ons oordeel geeft het financieel verslag een getrouw beeld van de baten en lasten van **(naam project)** in overeenstemming met het Handboek Verantwoording Cultuursubsidies Instellingen.
+Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is om een onderbouwing voor ons oordeel te bieden.
 
 Voorts zijn wij van oordeel dat de in dit financieel verslag verantwoorde baten en lasten voldoen aan de eisen van financiële rechtmatigheid. Dit houdt in dat deze bedragen in overeenstemming zijn met de in de relevante wet- en regelgeving opgenomen bepalingen, zoals die in de subsidiebeschikking en het controleprotocol cultuursubsidies instellingen zijn vermeld.
 
 ### **Verklaring betreffende andere wettelijke voorschriften en/of voorschriften van regelgevende instanties**
 
+Voorts zijn wij van oordeel dat de in dit financieel verslag verantwoorde baten en lasten over <jaartal> voldoen aan de eisen van financiële rechtmatigheid. Dit houdt in dat deze bedragen in overeenstemming zijn met de in de relevante wet- en regelgeving opgenomen bepalingen, zoals die in de subsidiebeschikking en het Controleprotocol Cultuursubsidies [Instellingen] [Fondsen] zijn vermeld.
+
+### Verklaring betreffende overige bij of krachtens de wet gestelde eisen
+
 Verder melden wij dat het activiteitenverslag, voor zover wij dat kunnen beoordelen, verenigbaar is met het financieel verslag.
-
-### **Overige aspecten- beperking in het gebruik (en verspreidingskring)**
-
-Het financieel verslag van **(naam opdrachtgever)** en onze verklaring daarbij zijn uitsluitend bedoeld voor **(naam opdrachtgever)** ter verantwoording aan het ministerie van Onderwijs, Cultuur en Wetenschap en kunnen derhalve niet voor andere doeleinden worden gebruikt.
 
 Plaats, datum
 
-Naam accountantsorganisatie
+Het financieel verslag van <<naam opdrachtgever>> en onze verklaring daarbij zijn uitsluitend bedoeld voor <<naam opdrachtgever>> ter verantwoording aan het ministerie van Onderwijs, Cultuur en Wetenschap en kunnen derhalve niet voor andere doeleinden worden gebruikt.
 
-Naam externe accountant en ondertekening met die naam
+<<Plaats>>, <<datum>>
 
 ## Bijlage IIb. , als bedoeld in [artikel 2.27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.27&z=2010-07-01&g=2010-07-01), van de regeling op het specifiek cultuurbeleid
 
@@ -1244,7 +1244,7 @@ De accountant stelt vast dat een aan het eind van een jaar nog niet besteed deel
 
 De accountant stelt vast dat het fonds een kostendekkende vergoeding in rekening brengt in de situaties als bedoeld in [artikel 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.19&z=2010-07-01&g=2010-07-01) van de Regeling op het specifiek cultuurbeleid .
 
-De accountant stelt vast dat het fonds een kostendekkende vergoeding in rekening brengt in de situaties als bedoeld in [artikel 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.19&z=2010-11-17&g=2010-11-17) van de Regeling op het specifiek cultuurbeleid .
+De accountant stelt vast dat het fonds een kostendekkende vergoeding in rekening brengt in de situaties als bedoeld in [artikel 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.19&z=2011-02-17&g=2011-02-17) van de Regeling op het specifiek cultuurbeleid .
 
 Indien de accountant tekortkomingen constateert die het fonds niet herstelt, neemt hij dit op in zijn rapport van bevindingen.
 
@@ -1260,7 +1260,7 @@ De accountant werkt deze toetspunten uit in de opzet en de uitvoering van zijn c
 
 De accountant stelt vast dat het fonds geen hoger bedrag betaalt aan een organisatie in de situaties als bedoeld in [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.18&z=2010-07-01&g=2010-07-01) van de Regeling op het specifiek cultuurbeleid. De accountant beoordeelt of het fonds toereikende procedures hanteert en een bestendige gedragslijn volgt om deze vergoedingen te bepalen. Indien de accountant tekortkomingen constateert die het fonds niet herstelt, neemt hij dit op in zijn rapport van bevindingen.
 
-De accountant stelt vast dat het fonds geen hoger bedrag betaalt aan een organisatie in de situaties als bedoeld in [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.18&z=2010-11-17&g=2010-11-17) van de Regeling op het specifiek cultuurbeleid. De accountant beoordeelt of het fonds toereikende procedures hanteert en een bestendige gedragslijn volgt om deze vergoedingen te bepalen. Indien de accountant tekortkomingen constateert die het fonds niet herstelt, neemt hij dit op in zijn rapport van bevindingen.
+De accountant stelt vast dat het fonds geen hoger bedrag betaalt aan een organisatie in de situaties als bedoeld in [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.18&z=2011-02-17&g=2011-02-17) van de Regeling op het specifiek cultuurbeleid. De accountant beoordeelt of het fonds toereikende procedures hanteert en een bestendige gedragslijn volgt om deze vergoedingen te bepalen. Indien de accountant tekortkomingen constateert die het fonds niet herstelt, neemt hij dit op in zijn rapport van bevindingen.
 
 Projectsubsidies vanaf € 125.000 worden bij voorkeur verantwoord in de jaarrekening. Indien in de subsidiebeschikking expliciete voorwaarden zijn gesteld aan de besteding van de subsidie is sprake van een geoormerkte subsidie. De accountant controleert de rechtmatigheid van de besteding van de geoormerkte subsidie. Voor de toepassing van de tabel in 2.1.3 geldt hier als omvangsbasis het totaalbedrag van de geoormerkte subsidies.
 
@@ -1296,7 +1296,7 @@ De accountant meldt zijn onderzoeksbevindingen in een rapport van feitelijke bev
 
 Aan: het bestuur van de Stichting .....
 
-### **Accountantsverklaring**
+### Controleverklaring van de onafhankelijke accountant
 
 **Afgegeven ten behoeve van het ministerie van Onderwijs, Cultuur en Wetenschap**
 
@@ -1312,33 +1312,33 @@ Het bestuur van de stichting is verantwoordelijk voor het opmaken van de jaarrek
 
 Onze verantwoordelijkheid is het geven van een oordeel over de jaarrekening op basis van onze controle. Wij hebben onze controle verricht in overeenstemming met Nederlands recht, waaronder het controleprotocol cultuursubsidies fondsen. Dienovereenkomstig zijn wij verplicht te voldoen aan de voor ons geldende gedragsnormen en zijn wij gehouden onze controle zodanig te plannen en uit te voeren dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening geen afwijkingen van materieel belang bevat. Een controle omvat het uitvoeren van werkzaamheden ter verkrijging van controle-informatie over de bedragen en de toelichtingen in de jaarrekening. De keuze van de uit te voeren werkzaamheden is afhankelijk van de professionele oordeelsvorming van de accountant, waaronder begrepen zijn beoordeling van de risico’s van afwijkingen van materieel belang als gevolg van fraude of fouten. In die beoordeling neemt de accountant in aanmerking het voor het opmaken van en getrouw weergeven in de jaarrekening van vermogen en resultaat, alsmede het voor de naleving van de betreffende wet- en regelgeving relevante interne beheersingssysteem, teneinde een verantwoorde keuze te kunnen maken van de controlewerkzaamheden die onder de gegeven omstandigheden adequaat zijn maar die niet tot doel hebben een oordeel te geven over de effectiviteit van het interne beheersingssysteem van de stichting. Tevens omvat een controle onder meer een evaluatie van de aanvaardbaarheid van de toegepaste grondslagen voor financiële verslaggeving en van de redelijkheid van schattingen die het bestuur van de stichting heeft gemaakt, alsmede een evaluatie van het algehele beeld van de jaarrekening.
 
-Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is als basis voor ons oordeel.
+Onze verantwoordelijkheid is het geven van een oordeel over de jaarrekening op basis van onze controle. Wij hebben onze controle verricht in overeenstemming met Nederlands recht, waaronder de Nederlandse controlestandaarden en het Controleprotocol Cultuursubsidies [Instellingen] [Fondsen]. Dit vereist dat wij voldoen aan voor ons geldende ethische voorschriften en dat wij onze controle zodanig plannen en uitvoeren dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening geen afwijkingen van materieel belang bevat.
 
 ### **Oordeel**
 
-Naar ons oordeel geeft de jaarrekening een getrouw beeld van de grootte en de samenstelling van het vermogen van Stichting ..... per 31 december 20xx en van het resultaat over 20xx inovereenstemming met het Handboek Verantwoording Cultuursubsidies Fondsen en voldoet aan de bepalingen van de subsidiebeschikking(en).
+Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is om een onderbouwing voor ons oordeel te bieden.
 
 Voorts zijn wij van oordeel dat de in deze jaarrekening verantwoorde baten, lasten en balansmutaties over 20xx voldoen aan de eisen van financiële rechtmatigheid. Dit houdt in dat deze bedragen in overeenstemming zijn met de in de relevante wet- en regelgeving opgenomen bepalingen, zoals die in de subsidiebeschikking en het controleprotocol cultuursubsidies fondsen zijn vermeld.
 
 ### **Verklaring betreffende andere wettelijke voorschriften en/of voorschriften van regelgevende instanties**
 
-Verder melden wij dat het bestuursverslag voor zover wij dat kunnen beoordelen, verenigbaar is met de jaarrekening.
+Voorts zijn wij van oordeel dat de in deze jaarrekening verantwoorde baten, lasten en balansmutaties over <<jaartal>> voldoen aan de eisen van financiële rechtmatigheid. Dit houdt in dat deze bedragen in overeenstemming zijn met de in de relevante wet- en regelgeving opgenomen bepalingen, zoals die in de subsidiebeschikking en het Controleprotocol Cultuursubsidies [Instellingen] [Fondsen] zijn vermeld.
 
 **Voorts merken wij op dat niet is voldaan aan de wettelijke verplichting tot vermelding van de informatie over topinkomens (artikel 6 van de Wet openbaarmaking uit publieke middelen gefinancierde Topinkomens).***
 
-Plaats, datum
+Ingevolge [artikel 2:393 lid 5 onder e en f BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) vermelden wij dat ons geen tekortkomingen zijn gebleken naar aanleiding van het onderzoek of het bestuursverslag, voor zover wij dat kunnen beoordelen, overeenkomstig [Titel 9 Boek 2 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) en het Handboek Verantwoording Cultuursubsidies [Instellingen] [Fondsen] is opgesteld, en of de in [artikel 2:392 lid 1 onder b tot en met h BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=392) vereiste gegevens zijn toegevoegd.1De onder lid 1 genoemde punten b tot en met f zijn van toepassing op winst gerichte rechtspersonen.Tevens vermelden wij dat het bestuursverslag, voor zover wij dat kunnen beoordelen, verenigbaar is met de jaarrekening zoals vereist in [artikel 2:391 lid 4 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=391). **(alleen van toepassing bij vierjaarlijkse instellingssubsidie)**
 
-Naam accountantsorganisatie
+Verder melden wij dat het activiteitenverslag, voor zover wij dat kunnen beoordelen, verenigbaar is met het financieel verslag. **(alleen van toepassing bij jaarlijkse instellingssubsidie)**
 
-Naam externe accountant en ondertekening met die naam
+**Voorts merken wij op dat niet is voldaan aan de wettelijke verplichting tot vermelding van de informatie over topinkomens (artikel 6 van de Wet openbaarmaking uit publieke middelen gefinancierde Topinkomens).** **(alleen opnemen indien van toepassing)**
 
-* indien van toepassing
+<<Plaats>>, <<datum>>
 
 ### 5. Model accountantsverklaring bij het financieel verslag over een projectsubsidie
 
 Aan: **(naam opdrachtgever)**
 
-### **Accountantsverklaring**
+### Controleverklaring van de onafhankelijke accountant
 
 **Afgegeven ten behoeve van het ministerie van Onderwijs, Cultuur en Wetenschap**
 
@@ -1354,43 +1354,43 @@ Wij hebben het bijgevoegde financieel verslag over de besteding van de projectsu
 
 Onze verantwoordelijkheid is het geven van een oordeel over het financieel verslag op basis van onze controle. Wij hebben onze controle verricht in overeenstemming met Nederlands recht, waaronder het controleprotocol cultuursubsidies fondsen. Dienovereenkomstig zijn wij verplicht te voldoen aan de voor ons geldende gedragsnormen en zijn wij gehouden onze controle zodanig te plannen en uit te voeren dat een redelijke mate van zekerheid wordt verkregen dat het financieel verslag geen afwijkingen van materieel belang bevat. Een controle omvat het uitvoeren van werkzaamheden ter verkrijging van controle-informatie over de bedragen en de toelichtingen in het financieel verslag. De keuze van de uit te voeren werkzaamheden is afhankelijk van de professionele oordeelsvorming van de accountant, waaronder begrepen zijn beoordeling van de risico’s van afwijkingen van materieel belang als gevolg van fraude of fouten. In die beoordeling neemt de accountant in aanmerking het voor het opmaken van en getrouw weergeven in het financieel verslag van baten en lasten, alsmede het voor de naleving van de betreffende wet- en regelgeving relevante interne beheersingssysteem, teneinde een verantwoorde keuze te kunnen maken van de controlewerkzaamheden die onder de gegeven omstandigheden adequaat zijn maar die niet tot doel hebben een oordeel te geven over de effectiviteit van het interne beheersingssysteem van **(naam opdrachtgever)**. Tevens omvat een controle onder meer een evaluatie van de aanvaardbaarheid van de toegepaste grondslagen voor financiële verslaggeving en van de redelijkheid van schattingen die **(naam opdrachtgever)** heeft gemaakt, alsmede een evaluatie van het algehele beeld van het financieel verslag.
 
-Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is als basis voor ons oordeel.
+Onze verantwoordelijkheid is het geven van een oordeel over het financieel verslag op basis van onze controle. Wij hebben onze controle verricht in overeenstemming met Nederlands recht, waaronder de Nederlandse controlestandaarden en het Controleprotocol Cultuursubsidies [Instellingen] [Fondsen]. Dit vereist dat wij voldoen aan voor ons geldende ethische voorschriften en dat wij onze controle zodanig plannen en uitvoeren dat een redelijke mate van zekerheid wordt verkregen dat het financieel verslag geen afwijkingen van materieel belang bevat.
 
 ### Oordeel
 
-Naar ons oordeel geeft het financieel verslag een getrouw beeld van de baten en lasten van **(naam project)** inovereenstemming met het Handboek Verantwoording Cultuursubsidies Fondsen.
+Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is om een onderbouwing voor ons oordeel te bieden.
 
 Voorts zijn wij van oordeel dat de in dit financieel verslag verantwoorde baten en lasten voldoen aan de eisen van financiële rechtmatigheid. Dit houdt in dat deze bedragen in overeenstemming zijn met de in de relevante wet- en regelgeving opgenomen bepalingen, zoals die in de subsidiebeschikking en het controleprotocol cultuursubsidies fondsen zijn vermeld.
 
 ### **Verklaring betreffende andere wettelijke voorschriften en/of voorschriften van regelgevende instanties**
 
+Voorts zijn wij van oordeel dat de in dit financieel verslag verantwoorde baten en lasten over <jaartal> voldoen aan de eisen van financiële rechtmatigheid. Dit houdt in dat deze bedragen in overeenstemming zijn met de in de relevante wet- en regelgeving opgenomen bepalingen, zoals die in de subsidiebeschikking en het Controleprotocol Cultuursubsidies [Instellingen] [Fondsen] zijn vermeld.
+
+### Verklaring betreffende overige bij of krachtens de wet gestelde eisen
+
 Verder melden wij dat het activiteitenverslag, voor zover wij dat kunnen beoordelen, verenigbaar is met het financieel verslag.
-
-### **Overige aspecten- beperking in het gebruik (en verspreidingskring)**
-
-Het financieel verslag van **(naam opdrachtgever)** en onze verklaring daarbij zijn uitsluitend bedoeld voor **(naam opdrachtgever)** ter verantwoording aan het ministerie van Onderwijs, Cultuur en Wetenschap en kunnen derhalve niet voor andere doeleinden worden gebruikt.
 
 Plaats, datum
 
-Naam accountantsorganisatie
+Het financieel verslag van <<naam opdrachtgever>> en onze verklaring daarbij zijn uitsluitend bedoeld voor <<naam opdrachtgever>> ter verantwoording aan het ministerie van Onderwijs, Cultuur en Wetenschap en kunnen derhalve niet voor andere doeleinden worden gebruikt.
 
-Naam externe accountant en ondertekening met die naam
+<<Plaats>>, <<datum>>
 
 Deze regeling zal met de bijlagen en toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 6.2a. Overgangsrecht vierjaarlijkse instellingssubsidies onder € 125.000
 
-1. Bij de periodieke verslaglegging, bedoeld in [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.15&z=2010-11-17&g=2010-11-17), kan de ontvanger van een vierjaarlijkse instellingssubsidie, waarvan het verleende subsidiebedrag minder dan € 125.000 bedraagt, in plaats van een jaarrekening een financieel verslag als bedoeld in [artikel 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.5&artikel=5.12&z=2010-11-17&g=2010-11-17) indienen.
+1. Bij de periodieke verslaglegging, bedoeld in [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.15&z=2011-02-17&g=2011-02-17), kan de ontvanger van een vierjaarlijkse instellingssubsidie, waarvan het verleende subsidiebedrag minder dan € 125.000 bedraagt, in plaats van een jaarrekening een financieel verslag als bedoeld in [artikel 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.5&artikel=5.12&z=2011-02-17&g=2011-02-17) indienen.
 
-2. In afwijking van [artikel 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.24&z=2010-11-17&g=2010-11-17) dient een ontvanger van een vierjaarlijkse instellingssubsidie, waarvan het verleende subsidiebedrag minder dan € 125.000 bedraagt, een jaarrekening als bedoeld in [artikel 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.26&z=2010-11-17&g=2010-11-17) of een financieel verslag als bedoeld in [artikel 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.5&artikel=5.12&z=2010-11-17&g=2010-11-17) in, alsmede een bestuursverslag als bedoeld in [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.15&z=2010-11-17&g=2010-11-17) dat betrekking heeft op het vierde jaar van de subsidie. Op het bestuursverslag is artikel 2.15, tweede tot en met vierde lid, van overeenkomstige toepassing.
+2. In afwijking van [artikel 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.24&z=2011-02-17&g=2011-02-17) dient een ontvanger van een vierjaarlijkse instellingssubsidie, waarvan het verleende subsidiebedrag minder dan € 125.000 bedraagt, een jaarrekening als bedoeld in [artikel 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.26&z=2011-02-17&g=2011-02-17) of een financieel verslag als bedoeld in [artikel 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=5&paragraaf=5.5&artikel=5.12&z=2011-02-17&g=2011-02-17) in, alsmede een bestuursverslag als bedoeld in [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.15&z=2011-02-17&g=2011-02-17) dat betrekking heeft op het vierde jaar van de subsidie. Op het bestuursverslag is artikel 2.15, tweede tot en met vierde lid, van overeenkomstige toepassing.
 
-3. [Artikel 2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.27&z=2010-11-17&g=2010-11-17) is niet van toepassing op een ontvanger van een vierjaarlijkse instellingssubsidie, waarvan het verleende subsidiebedrag minder dan € 125.000 bedraagt.
+3. [Artikel 2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.27&z=2011-02-17&g=2011-02-17) is niet van toepassing op een ontvanger van een vierjaarlijkse instellingssubsidie, waarvan het verleende subsidiebedrag minder dan € 125.000 bedraagt.
 
 #### § 6.3. Wijziging van andere regelingen
 
 #### § 6.4. Slotbepalingen
 
-## Bijlage Ia. , als bedoeld in [artikel 2.28](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.28&z=2010-11-17&g=2010-11-17) van de regeling op het specifiek cultuurbeleid
+## Bijlage Ia. , als bedoeld in [artikel 2.28](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.28&z=2011-02-17&g=2011-02-17) van de regeling op het specifiek cultuurbeleid
 
 ### Handboek verantwoording Cultuursubsidies Instellingen 2009–2012 (inclusief musea en sectorinstituten)
 
@@ -1414,7 +1414,7 @@ De jaarlijkse verantwoording voor vierjaarlijkse instellingssubsidies bestaat ui
 
 ### Jaarrekening
 
-De jaarrekening, als bedoeld in [artikel 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.26&z=2010-11-17&g=2010-11-17) van de Regeling op het specifiek cultuurbeleid (hierna: Rsc), omvat de volgende onderdelen:
+De jaarrekening, als bedoeld in [artikel 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.26&z=2011-02-17&g=2011-02-17) van de Regeling op het specifiek cultuurbeleid (hierna: Rsc), omvat de volgende onderdelen:
 
 ### Bestuursverslag
 
@@ -1422,7 +1422,7 @@ Voorts bevat het bestuursverslag:
 
 ### Accountantsproducten
 
-Bij de Rsc is in [bijlage IIA](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&bijlage=IIa&z=2010-11-17&g=2010-11-17) het Controleprotocol Cultuursubsidies Instellingen opgenomen. Onderdeel van dit protocol is het verplichte model voor de accountantsverklaring. Indien de accountant een rapport van bevindingen heeft opgesteld omtrent de naleving van de subsidiebepalingen, voegt u dat bij uw jaarverantwoording. Het rapport van feitelijke bevindingen bij de prestatieverantwoording dient altijd opgemaakt en bijgevoegd te worden. Op ontvangers van een vierjaarlijkse instellingssubsidie, waarvan het verleende bedrag minder dan € 125.000 bedraagt, is een ander regime van toepassing. Zie daarvoor [artikel 6.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=6&paragraaf=6.2&artikel=6.2a&z=2010-11-17&g=2010-11-17) van de Regeling op het specifiek cultuurbeleid.
+Bij de Rsc is in [bijlage IIA](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&bijlage=IIa&z=2011-02-17&g=2011-02-17) het Controleprotocol Cultuursubsidies Instellingen opgenomen. Onderdeel van dit protocol is het verplichte model voor de accountantsverklaring. Indien de accountant een rapport van bevindingen heeft opgesteld omtrent de naleving van de subsidiebepalingen, voegt u dat bij uw jaarverantwoording. Het rapport van feitelijke bevindingen bij de prestatieverantwoording dient altijd opgemaakt en bijgevoegd te worden. Op ontvangers van een vierjaarlijkse instellingssubsidie, waarvan het verleende bedrag minder dan € 125.000 bedraagt, is een ander regime van toepassing. Zie daarvoor [artikel 6.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=6&paragraaf=6.2&artikel=6.2a&z=2011-02-17&g=2011-02-17) van de Regeling op het specifiek cultuurbeleid.
 
 ### Verantwoording voor instellingen met een jaarlijkse subsidie
 
@@ -1454,7 +1454,7 @@ Een afzonderlijke accountantsverklaring bij het project is in dit geval niet nod
 
 ### Wetgeving en richtlijnen
 
-[Artikel 2.26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.26&z=2010-11-17&g=2010-11-17), van de Rsc, laat aan de minister ruimte om bepalingen van [BW 2 Titel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) of onderdelen daarvan buiten toepassing te verklaren op bepaalde instellingen of categorieën van instellingen. Op basis van deze bevoegdheid zijn de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=1), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=15) en [16 van Boek 2 Titel 9 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=16) niet van toepassing op de jaarlijkse verantwoording. [Afdeling 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=7) is van toepassing met dien verstande dat het jaarverslag bij vierjaarlijkse instellingssubsidies wordt vervangen door een bestuursverslag conform [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.15&z=2010-11-17&g=2010-11-17) van de Rsc.
+[Artikel 2.26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.26&z=2011-02-17&g=2011-02-17), van de Rsc, laat aan de minister ruimte om bepalingen van [BW 2 Titel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) of onderdelen daarvan buiten toepassing te verklaren op bepaalde instellingen of categorieën van instellingen. Op basis van deze bevoegdheid zijn de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=1), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=15) en [16 van Boek 2 Titel 9 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=16) niet van toepassing op de jaarlijkse verantwoording. [Afdeling 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=7) is van toepassing met dien verstande dat het jaarverslag bij vierjaarlijkse instellingssubsidies wordt vervangen door een bestuursverslag conform [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.15&z=2011-02-17&g=2011-02-17) van de Rsc.
 
 ### Algemeen
 
@@ -1524,7 +1524,7 @@ Volg bij de kwantitatieve verantwoording van uw activiteiten de indeling volgens
 
 Rapporteer de stand van zaken met betrekking tot de volgende onderwerpen uit het prestatieoverzicht: registratiegraad, registratiekwaliteit, collectieplan, veiligheidsplan en uw eigen prestatieafspraken.
 
-## Bijlage Ib. , als bedoeld in [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=4&paragraaf=4.3&artikel=4.4&z=2010-11-17&g=2010-11-17) van de Regeling op het specifiek cultuurbeleid
+## Bijlage Ib. , als bedoeld in [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=4&paragraaf=4.3&artikel=4.4&z=2011-02-17&g=2011-02-17) van de Regeling op het specifiek cultuurbeleid
 
 ### Handboek verantwoording cultuursubsidies fondsen 2009–2012
 
@@ -1548,7 +1548,7 @@ Als u naast de vierjaarlijkse instellingssubsidie een (of meer) projectsubsidie(
 
 ### De jaarrekening
 
-De jaarrekening, als bedoeld in [artikel 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.26&z=2010-11-17&g=2010-11-17) van de Regeling op het specifiek cultuurbeleid (hierna: Rsc), omvat de volgende onderdelen:
+De jaarrekening, als bedoeld in [artikel 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.26&z=2011-02-17&g=2011-02-17) van de Regeling op het specifiek cultuurbeleid (hierna: Rsc), omvat de volgende onderdelen:
 
 ### Bestuursverslag
 
@@ -1556,7 +1556,7 @@ Voorts bevat het bestuursverslag:
 
 ### Accountantsproducten
 
-Bij de Rsc is in [bijlage IIB](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&bijlage=IIb&z=2010-11-17&g=2010-11-17) het Controleprotocol Cultuursubsidies Fondsen opgenomen. Onderdeel van dit protocol is het verplichte model voor de accountantsverklaring. Indien de accountant een rapport van bevindingen heeft opgesteld omtrent de naleving van de subsidiebepalingen, voegt u dat bij uw jaarverantwoording. Het rapport van feitelijke bevindingen bij de prestatieverantwoording dient altijd opgemaakt en bijgevoegd te worden.
+Bij de Rsc is in [bijlage IIB](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&bijlage=IIb&z=2011-02-17&g=2011-02-17) het Controleprotocol Cultuursubsidies Fondsen opgenomen. Onderdeel van dit protocol is het verplichte model voor de accountantsverklaring. Indien de accountant een rapport van bevindingen heeft opgesteld omtrent de naleving van de subsidiebepalingen, voegt u dat bij uw jaarverantwoording. Het rapport van feitelijke bevindingen bij de prestatieverantwoording dient altijd opgemaakt en bijgevoegd te worden.
 
 ### Verantwoording projectsubsidie
 
@@ -1576,7 +1576,7 @@ Een afzonderlijke accountantsverklaring bij het project is in dit geval niet nod
 
 ### Wetgeving en richtlijnen
 
-[Artikel 2.26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.26&z=2010-11-17&g=2010-11-17), van de Rsc, laat aan de minister ruimte om bepalingen van [BW 2 Titel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) of onderdelen daarvan buiten toepassing te verklaren op bepaalde instellingen of categorieën van instellingen. Op basis van deze bevoegdheid zijn de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=1), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=15) en [16 van Boek 2 Titel 9 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=16) niet van toepassing op de jaarlijkse verantwoording. [Afdeling 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=7) is van toepassing met dien verstande dat het jaarverslag bij vierjaarlijkse instellingssubsidies wordt vervangen door een bestuursverslag conform [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.15&z=2010-11-17&g=2010-11-17) van de Rsc.
+[Artikel 2.26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.26&z=2011-02-17&g=2011-02-17), van de Rsc, laat aan de minister ruimte om bepalingen van [BW 2 Titel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) of onderdelen daarvan buiten toepassing te verklaren op bepaalde instellingen of categorieën van instellingen. Op basis van deze bevoegdheid zijn de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=1), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=15) en [16 van Boek 2 Titel 9 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=16) niet van toepassing op de jaarlijkse verantwoording. [Afdeling 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=7) is van toepassing met dien verstande dat het jaarverslag bij vierjaarlijkse instellingssubsidies wordt vervangen door een bestuursverslag conform [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.15&z=2011-02-17&g=2011-02-17) van de Rsc.
 
 ### Algemeen
 
@@ -1630,7 +1630,7 @@ Aandachtspunt:
 
 Hier verantwoordt u baten en lasten uit gewone bedrijfsuitoefening, maar die door hun aard, omvang of incidentele karakter apart moeten worden gepresenteerd en toegelicht (bijvoorbeeld boekwinst of -verlies bij afstoting van materiële vaste activa, vrijval van voorziening, lasten uit reorganisatie). Volg daarbij de actuele Richtlijnen van de Raad voor de Jaarverslaggeving (RJ 270).
 
-## Bijlage IIa. , als bedoeld in [artikel 2.27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.27&z=2010-11-17&g=2010-11-17), van de Regeling op het specifiek cultuurbeleid
+## Bijlage IIa. , als bedoeld in [artikel 2.27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.27&z=2011-02-17&g=2011-02-17), van de Regeling op het specifiek cultuurbeleid
 
 ### 1.1. Doelstelling
 
@@ -1658,7 +1658,7 @@ Deze procedureregeling beschrijft de maatregelen vanuit OCW in het geval uit een
 
 ### 2.1.1. De jaarlijkse verantwoording
 
-De jaarrekening omvat de balans en de exploitatierekening met de daarbij behorende toelichtingen, alsmede de prestatieverantwoording. Het bestuursverslag, de jaarrekening en het activiteitenverslag voldoen aan de eisen genoemd in [bijlage 1A](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&bijlage=Ia&z=2010-11-17&g=2010-11-17) bij de Regeling op het specifiek cultuurbeleid.
+De jaarrekening omvat de balans en de exploitatierekening met de daarbij behorende toelichtingen, alsmede de prestatieverantwoording. Het bestuursverslag, de jaarrekening en het activiteitenverslag voldoen aan de eisen genoemd in [bijlage 1A](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&bijlage=Ia&z=2011-02-17&g=2011-02-17) bij de Regeling op het specifiek cultuurbeleid.
 
 ### 2.1.2. Referentiekader
 
@@ -1682,7 +1682,7 @@ De accountant stelt integraal vast of de opgave van de instelling op grond van d
 
 ### 2.3. Het bestuursverslag
 
-De accountant stelt vast dat het bestuursverslag verenigbaar is met de jaarrekening en alle elementen bevat die zijn voorgeschreven in [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.15&z=2010-11-17&g=2010-11-17) van de Regeling op het specifiek cultuurbeleid en in hoofdstuk 2, onder ‘bestuursverslag’ van het Handboek Verantwoording Cultuursubsidies Instellingen 2009–2012. Als de accountant tekortkomingen constateert die de instelling niet herstelt, neemt hij dit op in zijn rapport van bevindingen.
+De accountant stelt vast dat het bestuursverslag verenigbaar is met de jaarrekening en alle elementen bevat die zijn voorgeschreven in [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.15&z=2011-02-17&g=2011-02-17) van de Regeling op het specifiek cultuurbeleid en in hoofdstuk 2, onder ‘bestuursverslag’ van het Handboek Verantwoording Cultuursubsidies Instellingen 2009–2012. Als de accountant tekortkomingen constateert die de instelling niet herstelt, neemt hij dit op in zijn rapport van bevindingen.
 
 ### Doelstelling
 
@@ -1696,57 +1696,57 @@ Het behoort niet tot de taak van de accountant om de prestatiegegevens opnieuw t
 
 De accountant meldt zijn onderzoeksbevindingen in een rapport van feitelijke bevindingen, als bedoeld in COS 4400.
 
-### 4. Model accountantsverklaring bij de jaarrekening over een (vier) jaarlijkse instellingssubsidie
+### 4. Model controleverklaring bij de jaarrekening over een (vier)jaarlijkse instellingssubsidie
 
 Aan: het bestuur van de Stichting .....
 
 ### **Accountantsverklaring**
 
-**Afgegeven ten behoeve van het ministerie van Onderwijs, Cultuur en Wetenschap**
+Aan: <<Naam opdrachtgever>>
 
-### **Verklaring betreffende de jaarrekening**
+### Verklaring betreffende de jaarrekening
 
-Wij hebben de in dit rapport op pagina ... tot en met pagina ... opgenomenjaarrekening 20xx van de Stichting ..... te ..... bestaande uit de balans per 31 december 20xx en de exploitatierekening over 20xx met de toelichting gecontroleerd.
+Wij hebben de in dit [verslag] [rapport] op pagina <<nummer>> tot en met pagina <<nummer>> opgenomenjaarrekening <<jaartal>> van <<naam entiteit>> te <<statutaire vestigingsplaats>> gecontroleerd. Deze jaarrekening bestaat uit de balans per 31 december <<jaartal>> en de exploitatierekening over <<jaartal>> met de toelichting, waarin zijn opgenomen een overzicht van de gehanteerde grondslagen voor financiële verslaggeving en andere toelichtingen.
 
-### **Verantwoordelijkheid van het bestuur**
+### Verantwoordelijkheid van het bestuur
 
-Het bestuur van de stichting is verantwoordelijk voor het opmaken van de jaarrekening die het vermogen en het resultaat getrouw dient weer te geven, alsmede voor het opstellen van het bestuursverslag **(alleen van toepassing bij vierjarige instellingssubsidies)** beide in overeenstemming met het Handboek Verantwoording Cultuursubsidies Instellingen.Tevens is het bestuur van de stichting verantwoordelijk voor de financiële rechtmatigheid van de in de jaarrekening verantwoorde baten, lasten en balansmutaties. Dit houdt in dat deze bedragen in overeenstemming dienen te zijn met de in de relevante wet- en regelgeving opgenomen bepalingen. Deze verantwoordelijkheden omvatten onder meer: het ontwerpen, invoeren en in stand houden van een intern beheersingssysteem relevant voor het opmaken van en getrouw weergeven in de jaarrekening van vermogen en resultaat, zodanig dat deze geen afwijkingen van materieel belang als gevolg van fraude of fouten bevat en voor de naleving van de relevante wet- en regelgeving, het kiezen en toepassen van aanvaardbare grondslagen voor financiële verslaggeving en het maken van schattingen die onder de gegeven omstandigheden redelijk zijn.
+Het bestuur van de <<entiteit>> is verantwoordelijk voor het opmaken van de jaarrekening die het vermogen en het resultaat getrouw dient weer te geven, alsmede voor het opstellen van het bestuursverslag **(alleen van toepassing bij een vierjaarlijkse instellingssubsidie)**, beide in overeenstemming met het Handboek Verantwoording Cultuursubsidies [Instellingen] [Fondsen]. Het bestuur is tevens verantwoordelijk voor de financiële rechtmatigheid van de in de jaarrekening verantwoorde baten, lasten en balansmutaties. Dit houdt in dat deze bedragen in overeenstemming dienen te zijn met de in de relevante wet- en regelgeving opgenomen bepalingen. Het bestuur is tenslotte verantwoordelijk voor een zodanige interne beheersing als het noodzakelijk acht om het opmaken van de jaarrekening en de naleving van de relevante wet- en regelgeving mogelijk te maken zonder afwijkingen van materieel belang als gevolg van fraude of fouten.
 
-### **Verantwoordelijkheid van de accountant**
+### Verantwoordelijkheid van de accountant
 
-Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is als basis voor ons oordeel.
+Een controle omvat het uitvoeren van werkzaamheden ter verkrijging van controle-informatie over de bedragen en de toelichtingen in de jaarrekening. De geselecteerde werkzaamheden zijn afhankelijk van de door de accountant toegepaste oordeelsvorming, met inbegrip van het inschatten van de risico’s dat de jaarrekening een afwijking van materieel belang bevat als gevolg van fraude of fouten. Bij het maken van deze risico-inschattingen neemt de accountant de interne beheersing in aanmerking die relevant is voor het opmaken van de jaarrekening en voor het getrouwe beeld daarvan alsmede voor de naleving van de relevante wet- en regelgeving, gericht op het opzetten van controlewerkzaamheden die passend zijn in de omstandigheden. Deze risico-inschattingen hebben echter niet tot doel een oordeel tot uitdrukking te brengen over de effectiviteit van de interne beheersing van de <<entiteit>>. Een controle omvat tevens het evalueren van de geschiktheid van de gebruikte grondslagen voor financiële verslaggeving en de gebruikte financiële rechtmatigheidcriteria en van de redelijkheid van de door het bestuur van de <<entiteit>> gemaakte schattingen, alsmede een evaluatie van het algehele beeld van de jaarrekening.
 
 ### **Oordeel**
 
-Voorts zijn wij van oordeel dat de in deze jaarrekening verantwoorde baten, lasten en balansmutaties over 20xx voldoen aan de eisen van financiële rechtmatigheid. Dit houdt in dat deze bedragen in overeenstemming zijn met de in de relevante wet- en regelgeving opgenomen bepalingen, zoals die in de subsidiebeschikking en het controleprotocol cultuursubsidies instellingen zijn vermeld.
+Naar ons oordeel geeft de jaarrekening een getrouw beeld van de grootte en de samenstelling van het vermogen van <<naam entiteit>> per 31 december <<jaartal>> en van het resultaat over <<jaartal>> inovereenstemming met het Handboek Verantwoording Cultuursubsidies [Instellingen] [Fondsen].
 
 ### **Verklaring betreffende andere wettelijke voorschriften en/of voorschriften van regelgevende instanties**
 
-* indien van toepassing
+<<Naam accountant>>
 
-### 5. Model accountantsverklaring bij het financieel verslag over een projectsubsidie
+### 5. Model controleverklaring bij het financieel verslag over een projectsubsidie
 
 Aan: **(naam opdrachtgever)**
 
 ### **Accountantsverklaring**
 
-**Afgegeven ten behoeve van het ministerie van Onderwijs, Cultuur en Wetenschap**
+Aan: <<Naam opdrachtgever>>
 
-### **Verklaring betreffende het financieel verslag**
+### Verklaring betreffende het financieel verslag
 
-Wij hebben het bijgevoegde financieel verslag over de besteding van de projectsubsidie voor **(naam project)** van **(naam opdrachtgever**) te (**statutaire vestigingsplaats**) over (**tijdvak**) gecontroleerd.
+Wij hebben het bijgevoegde financieel verslag over de besteding van de projectsubsidie voor <<naam project>> van <<naam opdrachtgever>> te <<statutaire vestigingsplaats>> over <<tijdvak>> gecontroleerd.
 
-### **Verantwoordelijkheid van de opdrachtgever**
+### Verantwoordelijkheid van de opdrachtgever
 
-**(Naam opdrachtgever)** is verantwoordelijk voor het opmaken van het financieel verslag dat de baten en lasten van het project getrouw dient weer te geven, alsmede voor het opstellen van het activiteitenverslag, beide in overeenstemming met het Handboek Verantwoording Cultuursubsidies Instellingen. Tevens is **(naam opdrachtgever**) verantwoordelijk voor de financiële rechtmatigheid van de in het financieel verslag verantwoorde baten en lasten. Dit houdt in dat deze bedragen in overeenstemming dienen te zijn met de in de relevante wet- en regelgeving opgenomen bepalingen. Deze verantwoordelijkheden omvatten onder meer: het ontwerpen, invoeren en in stand houden van een intern beheersingssysteem relevant voor het opmaken van en getrouw weergeven in het financieel verslag van baten en lasten, zodanig dat dit geen afwijkingen van materieel belang als gevolg van fraude of fouten bevat en voor de naleving van de relevante wet- en regelgeving, het kiezen en toepassen van aanvaardbare grondslagen voor financiële verslaggeving en het maken van schattingen die onder de gegeven omstandigheden redelijk zijn.
+<<Naam opdrachtgever>> is verantwoordelijk voor het opmaken van het financieel verslag dat de baten en lasten van het project getrouw dient weer te geven, alsmede voor het opstellen van het activiteitenverslag, beide in overeenstemming met het Handboek Verantwoording Cultuursubsidies [Instellingen] [Fondsen]. <<Naam opdrachtgever>> is tevens verantwoordelijk voor de financiële rechtmatigheid van de in het financieel verslag verantwoorde baten en lasten. Dit houdt in dat deze bedragen in overeenstemming dienen te zijn met de in de relevante wet- en regelgeving opgenomen bepalingen. <<Naam opdrachtgever>> is tenslotte verantwoordelijk voor een zodanige interne beheersing als het noodzakelijk acht om het opmaken van het financieel verslag en de naleving van de relevante wet- en regelgeving mogelijk te maken zonder afwijkingen van materieel belang als gevolg van fraude of fouten.
 
-### **Verantwoordelijkheid van de accountant**
+### Verantwoordelijkheid van de accountant
 
-Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is als basis voor ons oordeel.
+Een controle omvat het uitvoeren van werkzaamheden ter verkrijging van controle-informatie over de bedragen en de toelichtingen in het financieel verslag. De geselecteerde werkzaamheden zijn afhankelijk van de door de accountant toegepaste oordeelsvorming, met inbegrip van het inschatten van de risico’s dat het financieel verslag een afwijking van materieel belang bevat als gevolg van fraude of fouten. Bij het maken van deze risico-inschattingen neemt de accountant de interne beheersing in aanmerking die relevant is voor het opmaken van het financieel verslag en voor het getrouwe beeld daarvan alsmede voor de naleving van de relevante wet- en regelgeving, gericht op het opzetten van controlewerkzaamheden die passend zijn in de omstandigheden. Deze risico-inschattingen hebben echter niet tot doel een oordeel tot uitdrukking te brengen over de effectiviteit van de interne beheersing van <<Naam opdrachtgever>>. Een controle omvat tevens het evalueren van de geschiktheid van de gebruikte grondslagen voor financiële verslaggeving en de gebruikte financiële rechtmatigheidcriteria en van de redelijkheid van de door <<Naam opdrachtgever>> gemaakte schattingen, alsmede een evaluatie van het algehele beeld van het financieel verslag.
 
 ### **Oordeel**
 
-Voorts zijn wij van oordeel dat de in dit financieel verslag verantwoorde baten en lasten voldoen aan de eisen van financiële rechtmatigheid. Dit houdt in dat deze bedragen in overeenstemming zijn met de in de relevante wet- en regelgeving opgenomen bepalingen, zoals die in de subsidiebeschikking en het controleprotocol cultuursubsidies instellingen zijn vermeld.
+Naar ons oordeel geeft het financieel verslag een getrouw beeld van de baten en lasten van <<naam project>> inovereenstemming met het Handboek Verantwoording Cultuursubsidies [Instellingen] [Fondsen].
 
 ### **Verklaring betreffende andere wettelijke voorschriften en/of voorschriften van regelgevende instanties**
 
@@ -1754,9 +1754,9 @@ Verder melden wij dat het activiteitenverslag, voor zover wij dat kunnen beoorde
 
 ### **Overige aspecten- beperking in het gebruik (en verspreidingskring)**
 
-Naam externe accountant en ondertekening met die naam
+<<Naam accountant>>
 
-## Bijlage IIb. , als bedoeld in [artikel 2.27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.27&z=2010-11-17&g=2010-11-17), van de regeling op het specifiek cultuurbeleid
+## Bijlage IIb. , als bedoeld in [artikel 2.27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.5&artikel=2.27&z=2011-02-17&g=2011-02-17), van de regeling op het specifiek cultuurbeleid
 
 ### 1.1. Doelstelling
 
@@ -1784,7 +1784,7 @@ Deze procedureregeling beschrijft de maatregelen vanuit OCW in het geval uit een
 
 ### 2.1.1. De jaarlijkse verantwoording
 
-De jaarrekening omvat de balans en de exploitatierekening met de daarbij behorende toelichtingen, alsmede de prestatieverantwoording. Het bestuursverslag, de jaarrekening en het activiteitenverslag voldoen aan de eisen genoemd in [bijlage 1B](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&bijlage=Ib&z=2010-11-17&g=2010-11-17) bij de Regeling op het specifiek cultuurbeleid.
+De jaarrekening omvat de balans en de exploitatierekening met de daarbij behorende toelichtingen, alsmede de prestatieverantwoording. Het bestuursverslag, de jaarrekening en het activiteitenverslag voldoen aan de eisen genoemd in [bijlage 1B](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&bijlage=Ib&z=2011-02-17&g=2011-02-17) bij de Regeling op het specifiek cultuurbeleid.
 
 ### 2.1.2. Referentiekader
 
@@ -1808,7 +1808,7 @@ De accountant stelt integraal vast of de opgave van het fonds op grond van de [W
 
 ### 2.3. Het bestuursverslag
 
-De accountant stelt vast dat het bestuursverslag verenigbaar is met de jaarrekening en alle elementen bevat die zijn voorgeschreven in [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.15&z=2010-11-17&g=2010-11-17) van de Regeling op het specifiek cultuurbeleid en in hoofdstuk 2, onder ‘bestuursverslag’ van het Handboek Verantwoording Cultuursubsidies Fondsen 2009–2012. Als de accountant tekortkomingen constateert die het fonds niet herstelt, neemt hij dit op in zijn rapport van bevindingen.
+De accountant stelt vast dat het bestuursverslag verenigbaar is met de jaarrekening en alle elementen bevat die zijn voorgeschreven in [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=2&paragraaf=2.4&artikel=2.15&z=2011-02-17&g=2011-02-17) van de Regeling op het specifiek cultuurbeleid en in hoofdstuk 2, onder ‘bestuursverslag’ van het Handboek Verantwoording Cultuursubsidies Fondsen 2009–2012. Als de accountant tekortkomingen constateert die het fonds niet herstelt, neemt hij dit op in zijn rapport van bevindingen.
 
 ### Doelstelling
 
@@ -1822,57 +1822,57 @@ Het behoort niet tot de taak van de accountant om de prestatiegegevens opnieuw t
 
 De accountant meldt zijn onderzoeksbevindingen in een rapport van feitelijke bevindingen, als bedoeld in COS 4400.
 
-### 4. Model accountantsverklaring bij de jaarrekening over een vierjaarlijkse instellingssubsidie
+### 4. Model controleverklaring bij de jaarrekening over een (vier)jaarlijkse instellingssubsidie
 
 Aan: het bestuur van de Stichting .....
 
 ### **Accountantsverklaring**
 
-**Afgegeven ten behoeve van het ministerie van Onderwijs, Cultuur en Wetenschap**
+Aan: <<Naam opdrachtgever>>
 
-### **Verklaring betreffende de jaarrekening**
+### Verklaring betreffende de jaarrekening
 
-Wij hebben de in dit rapport op pagina ... tot en met pagina ... opgenomenjaarrekening 20xx van de Stichting ..... te ..... bestaande uit de balans per 31 december 20xx en de exploitatierekening over 20xx met de toelichting gecontroleerd.
+Wij hebben de in dit [verslag] [rapport] op pagina <<nummer>> tot en met pagina <<nummer>> opgenomenjaarrekening <<jaartal>> van <<naam entiteit>> te <<statutaire vestigingsplaats>> gecontroleerd. Deze jaarrekening bestaat uit de balans per 31 december <<jaartal>> en de exploitatierekening over <<jaartal>> met de toelichting, waarin zijn opgenomen een overzicht van de gehanteerde grondslagen voor financiële verslaggeving en andere toelichtingen.
 
-### **Verantwoordelijkheid van het bestuur**
+### Verantwoordelijkheid van het bestuur
 
-Het bestuur van de stichting is verantwoordelijk voor het opmaken van de jaarrekening die het vermogen en het resultaat getrouw dient weer te geven, alsmede voor het opstellen van het bestuursverslag beide in overeenstemming met het Handboek Verantwoording Cultuursubsidies Fondsen.Tevens is het bestuur van de stichting verantwoordelijk voor de financiële rechtmatigheid van de in de jaarrekening verantwoorde baten, lasten en balansmutaties. Dit houdt in dat deze bedragen in overeenstemming dienen te zijn met de in de relevante wet- en regelgeving opgenomen bepalingen. Deze verantwoordelijkheden omvatten onder meer: het ontwerpen, invoeren en in stand houden van een intern beheersingssysteem relevant voor het opmaken van en getrouw weergeven in de jaarrekening van vermogen en resultaat, zodanig dat deze geen afwijkingen van materieel belang als gevolg van fraude of fouten bevat en voor de naleving van de relevante wet- en regelgeving, het kiezen en toepassen van aanvaardbare grondslagen voor financiële verslaggeving en het maken van schattingen die onder de gegeven omstandigheden redelijk zijn.
+Het bestuur van de <<entiteit>> is verantwoordelijk voor het opmaken van de jaarrekening die het vermogen en het resultaat getrouw dient weer te geven, alsmede voor het opstellen van het bestuursverslag **(alleen van toepassing bij een vierjaarlijkse instellingssubsidie)**, beide in overeenstemming met het Handboek Verantwoording Cultuursubsidies [Instellingen] [Fondsen]. Het bestuur is tevens verantwoordelijk voor de financiële rechtmatigheid van de in de jaarrekening verantwoorde baten, lasten en balansmutaties. Dit houdt in dat deze bedragen in overeenstemming dienen te zijn met de in de relevante wet- en regelgeving opgenomen bepalingen. Het bestuur is tenslotte verantwoordelijk voor een zodanige interne beheersing als het noodzakelijk acht om het opmaken van de jaarrekening en de naleving van de relevante wet- en regelgeving mogelijk te maken zonder afwijkingen van materieel belang als gevolg van fraude of fouten.
 
-### **Verantwoordelijkheid van de accountant**
+### Verantwoordelijkheid van de accountant
 
-Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is als basis voor ons oordeel.
+Een controle omvat het uitvoeren van werkzaamheden ter verkrijging van controle-informatie over de bedragen en de toelichtingen in de jaarrekening. De geselecteerde werkzaamheden zijn afhankelijk van de door de accountant toegepaste oordeelsvorming, met inbegrip van het inschatten van de risico’s dat de jaarrekening een afwijking van materieel belang bevat als gevolg van fraude of fouten. Bij het maken van deze risico-inschattingen neemt de accountant de interne beheersing in aanmerking die relevant is voor het opmaken van de jaarrekening en voor het getrouwe beeld daarvan alsmede voor de naleving van de relevante wet- en regelgeving, gericht op het opzetten van controlewerkzaamheden die passend zijn in de omstandigheden. Deze risico-inschattingen hebben echter niet tot doel een oordeel tot uitdrukking te brengen over de effectiviteit van de interne beheersing van de <<entiteit>>. Een controle omvat tevens het evalueren van de geschiktheid van de gebruikte grondslagen voor financiële verslaggeving en de gebruikte financiële rechtmatigheidcriteria en van de redelijkheid van de door het bestuur van de <<entiteit>> gemaakte schattingen, alsmede een evaluatie van het algehele beeld van de jaarrekening.
 
 ### **Oordeel**
 
-Voorts zijn wij van oordeel dat de in deze jaarrekening verantwoorde baten, lasten en balansmutaties over 20xx voldoen aan de eisen van financiële rechtmatigheid. Dit houdt in dat deze bedragen in overeenstemming zijn met de in de relevante wet- en regelgeving opgenomen bepalingen, zoals die in de subsidiebeschikking en het controleprotocol cultuursubsidies fondsen zijn vermeld.
+Naar ons oordeel geeft de jaarrekening een getrouw beeld van de grootte en de samenstelling van het vermogen van <<naam entiteit>> per 31 december <<jaartal>> en van het resultaat over <<jaartal>> inovereenstemming met het Handboek Verantwoording Cultuursubsidies [Instellingen] [Fondsen].
 
 ### **Verklaring betreffende andere wettelijke voorschriften en/of voorschriften van regelgevende instanties**
 
-* indien van toepassing
+<<Naam accountant>>
 
-### 5. Model accountantsverklaring bij het financieel verslag over een projectsubsidie
+### 5. Model controleverklaring bij het financieel verslag over een projectsubsidie
 
 Aan: **(naam opdrachtgever)**
 
 ### **Accountantsverklaring**
 
-**Afgegeven ten behoeve van het ministerie van Onderwijs, Cultuur en Wetenschap**
+Aan: <<Naam opdrachtgever>>
 
-### **Verklaring betreffende het financieel verslag**
+### Verklaring betreffende het financieel verslag
 
-Wij hebben het bijgevoegde financieel verslag over de besteding van de projectsubsidie voor **(naam project)** van **(naam opdrachtgever**) te (**statutaire vestigingsplaats**) over (**tijdvak**) gecontroleerd.
+Wij hebben het bijgevoegde financieel verslag over de besteding van de projectsubsidie voor <<naam project>> van <<naam opdrachtgever>> te <<statutaire vestigingsplaats>> over <<tijdvak>> gecontroleerd.
 
-### **Verantwoordelijkheid van de opdrachtgever**
+### Verantwoordelijkheid van de opdrachtgever
 
-**(Naam opdrachtgever)** is verantwoordelijk voor het opmaken van het financieel verslag dat de baten en lasten van het project getrouw dient weer te geven, alsmede voor het opstellen van het activiteitenverslag, beide in overeenstemming met het Handboek Verantwoording Cultuursubsidies Fondsen. Tevens is **(naam opdrachtgever**) verantwoordelijk voor de financiële rechtmatigheid van de in het financieel verslag verantwoorde baten en lasten. Dit houdt in dat deze bedragen in overeenstemming dienen te zijn met de in de relevante wet- en regelgeving opgenomen bepalingen. Deze verantwoordelijkheden omvatten onder meer: het ontwerpen, invoeren en in stand houden van een intern beheersingssysteem relevant voor het opmaken van en getrouw weergeven in het financieel verslag van baten en lasten, zodanig dat dit geen afwijkingen van materieel belang als gevolg van fraude of fouten bevat en voor de naleving van de relevante wet- en regelgeving, het kiezen en toepassen van aanvaardbare grondslagen voor financiële verslaggeving en het maken van schattingen die onder de gegeven omstandigheden redelijk zijn.
+<<Naam opdrachtgever>> is verantwoordelijk voor het opmaken van het financieel verslag dat de baten en lasten van het project getrouw dient weer te geven, alsmede voor het opstellen van het activiteitenverslag, beide in overeenstemming met het Handboek Verantwoording Cultuursubsidies [Instellingen] [Fondsen]. <<Naam opdrachtgever>> is tevens verantwoordelijk voor de financiële rechtmatigheid van de in het financieel verslag verantwoorde baten en lasten. Dit houdt in dat deze bedragen in overeenstemming dienen te zijn met de in de relevante wet- en regelgeving opgenomen bepalingen. <<Naam opdrachtgever>> is tenslotte verantwoordelijk voor een zodanige interne beheersing als het noodzakelijk acht om het opmaken van het financieel verslag en de naleving van de relevante wet- en regelgeving mogelijk te maken zonder afwijkingen van materieel belang als gevolg van fraude of fouten.
 
-### **Verantwoordelijkheid van de accountant**
+### Verantwoordelijkheid van de accountant
 
-Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is als basis voor ons oordeel.
+Een controle omvat het uitvoeren van werkzaamheden ter verkrijging van controle-informatie over de bedragen en de toelichtingen in het financieel verslag. De geselecteerde werkzaamheden zijn afhankelijk van de door de accountant toegepaste oordeelsvorming, met inbegrip van het inschatten van de risico’s dat het financieel verslag een afwijking van materieel belang bevat als gevolg van fraude of fouten. Bij het maken van deze risico-inschattingen neemt de accountant de interne beheersing in aanmerking die relevant is voor het opmaken van het financieel verslag en voor het getrouwe beeld daarvan alsmede voor de naleving van de relevante wet- en regelgeving, gericht op het opzetten van controlewerkzaamheden die passend zijn in de omstandigheden. Deze risico-inschattingen hebben echter niet tot doel een oordeel tot uitdrukking te brengen over de effectiviteit van de interne beheersing van <<Naam opdrachtgever>>. Een controle omvat tevens het evalueren van de geschiktheid van de gebruikte grondslagen voor financiële verslaggeving en de gebruikte financiële rechtmatigheidcriteria en van de redelijkheid van de door <<Naam opdrachtgever>> gemaakte schattingen, alsmede een evaluatie van het algehele beeld van het financieel verslag.
 
 ### Oordeel
 
-Voorts zijn wij van oordeel dat de in dit financieel verslag verantwoorde baten en lasten voldoen aan de eisen van financiële rechtmatigheid. Dit houdt in dat deze bedragen in overeenstemming zijn met de in de relevante wet- en regelgeving opgenomen bepalingen, zoals die in de subsidiebeschikking en het controleprotocol cultuursubsidies fondsen zijn vermeld.
+Naar ons oordeel geeft het financieel verslag een getrouw beeld van de baten en lasten van <<naam project>> inovereenstemming met het Handboek Verantwoording Cultuursubsidies [Instellingen] [Fondsen].
 
 ### **Verklaring betreffende andere wettelijke voorschriften en/of voorschriften van regelgevende instanties**
 
@@ -1880,6 +1880,22 @@ Verder melden wij dat het activiteitenverslag, voor zover wij dat kunnen beoorde
 
 ### **Overige aspecten- beperking in het gebruik (en verspreidingskring)**
 
-Naam externe accountant en ondertekening met die naam
+<<Naam accountant>>
 
 Deze regeling zal met de bijlagen en toelichting in de Staatscourant worden geplaatst.
+
+### Oordeel
+
+### Verklaring betreffende overige bij of krachtens de wet gestelde eisen
+
+### Oordeel
+
+### Overige aangelegenheden
+
+### Oordeel
+
+### Verklaring betreffende overige bij of krachtens de wet gestelde eisen
+
+### Oordeel
+
+### Overige aangelegenheden
