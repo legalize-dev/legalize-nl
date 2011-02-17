@@ -4,7 +4,7 @@ identifier: "BWBR0028506"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2022-08-01"
-last_updated: "2011-01-01"
+last_updated: "2011-02-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028506"
 soort: "wet-BES"
@@ -38,163 +38,125 @@ entry_into_force: "2011-02-17"
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-##### Artikel 1
+##### Artikel 1. Begripsbepalingen
 
-In deze wet wordt verstaan onder:
+1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **Onze minister:** Onze minister van Onderwijs, Cultuur en Wetenschap;
+**deelnemer:** de jongere die aan het voor hem vastgesteld sociaal kanstraject deelneemt;
 
-- **jongere:** een ingezetene van de openbare lichamen Bonaire, Sint Eustatius of Saba die de leeftijd van 16 jaar heeft bereikt, maar nog niet de leeftijd van 25 jaar;
+**deelnemersregister:** het register, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=6&z=2011-02-17&g=2011-02-17), waarin de deelnemers staan ingeschreven;
 
-- **deelnemer:** de jongere die zich bij een uitvoerende instantie heeft ingeschreven voor het volgen van het voor hem vastgestelde kanstraject;
+**inspecteur**: de inspecteur van het onderwijs, bedoeld in de [Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800);.
 
-- **jongerenregister:** het geautomatiseerde bestand, waarin de jongeren en deelnemers aan de kanstrajecten staan ingeschreven;
+**jongere**: een ingezetene van het openbaar lichaam Bonaire, Sint Eustatius of Saba die de leeftijd van 18 jaar heeft bereikt, maar nog niet de leeftijd van 25 jaar;
 
-- **persoonsbestand:** de gegevens met betrekking tot een jongere, zoals opgenomen in het jongerenregister;
+**kanstrajecttoelage**: een toelage als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=11&z=2011-02-17&g=2011-02-17).
 
-- **sociale vormingsplicht:** de verplichting van iedere jongere tot het volgen van een kanstraject in geval hij niet beschikt over een beroepskwalificatie niveau 1;
+**Onze Minister**: Onze Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **raamplan kanstrajecten:** een plan als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=5&artikel=9&z=2010-10-10&g=2011-01-01);
+**openbaar lichaam:**het openbaar lichaam Bonaire, Sint Eustatius of Saba;
 
-- **kanstraject:** een traject als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=6&artikel=10&z=2010-10-10&g=2011-01-01);
+**persoonsbestand**: de gegevens met betrekking tot een jongere, zoals opgenomen in het deelnemersregister;
 
-- **beroepskwalificatie niveau 1:** het niveau van een assistent-beroepsbeoefenaar, die in staat is onder begeleiding routinematige arbeid uit te voeren, welk niveau overeenkomt met het diploma assistent opleiding of een diploma voorbereidend secundair beroepsonderwijs (vsbo).
+**projectbureau**: het bureau, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=5&z=2011-02-17&g=2011-02-17);
 
-- **oproepingsinstantie:** de met de uitvoering van deze wet belaste dienst of afdeling van een openbaar lichaam, die is belast met de oproeping;
+**raamplan sociale kanstrajecten**: een plan als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=8&z=2011-02-17&g=2011-02-17);
 
-- **uitvoerende instantie:** een instantie die een raamplan kanstrajecten opstelt, de kanstrajecten en de daarmee samenhangende begeleiding verzorgt en krachtens [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=12&artikel=26&z=2010-10-10&g=2011-01-01) een bijdrage van het bestuurscollege van het desbetreffende openbaar lichaam hiervoor ontvangt;
+**sociaal kanstraject:** een sociaal kanstraject als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=9&z=2011-02-17&g=2011-02-17);
 
-- **Inspecteur:** Inspecteur, bedoeld in de [Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800).
+**startkwalificatie WSKJ**: een diploma van een opleiding als bedoeld in [artikel 7.2.2, eerste lid onder a tot en met e, van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=7.2.2) of een diploma hoger algemeen voortgezet onderwijs of voorbereidend wetenschappelijk onderwijs als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=13) onderscheidenlijk [artikel 14 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=14);
+
+**uitvoeringsinstantie:** een privaatrechtelijke rechtspersoon met volledige rechtsbevoegdheid die wordt bekostigd voor de uitvoering van de taak, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=5&z=2011-02-17&g=2011-02-17);
+
+**voortijdige schoolverlater WSKJ:** degene die
+
+- a. het onderwijs aan de school waaraan hij is ingeschreven gedurende een aaneengesloten periode van ten minste een maand of een door het bevoegd gezag te bepalen kortere periode zonder geldige reden niet meer volgt, of
+
+- b. niet meer aan een school is ingeschreven en evenmin is ingeschreven aan een instelling als bedoeld in de [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395).
+
+2. Onder voortijdige schoolverlater wordt niet verstaan degene die beschikt over een startkwalificatie WSKJ.
 
 ### Hoofdstuk 2. Oproeping en melding
 
-##### Artikel 2
+##### Artikel 2. Doelgroep sociaal kanstraject
 
-1. Iedere jongere wordt binnen één maand na het bereiken van de leeftijd van 16 jaar opgeroepen door de oproepingsinstantie van het openbaar lichaam waar hij ingezetene is, om te laten bepalen of op hem de sociale vormingsplicht rust. De jongere meldt zich op het hem in de oproeping opgegeven tijdstip bij de oproepingsinstantie.
+Voor sociale kanstrajecten komen in aanmerking jongeren die:
 
-2. Scholen, instellingen, andere voorzieningen en ouders zijn verplicht aan de oproepings-instantie te melden van alle leerlingen die de school zonder diploma verlaten of verlaten hebben.
+- a. geen onderwijs volgen dat bekostigd wordt op grond van de [Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284) of de [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395), en
 
-##### Artikel 3
+- b. niet beschikken over een startkwalificatie WSKJ en geen betaalde arbeid verrichten
 
-1. De jongere op wie de sociale vormingsplicht rust, meldt zich op het hem in de oproeping opgegeven tijdstip bij de daarin opgegeven uitvoerende instantie voor een educatieve intake.
+##### Artikel 3. Uitnodiging
 
-De educatieve intake heeft tot doel te onderzoeken de mate waarin de jongere beschikt over de kennis en vaardigheden voor een beroepskwalificatie niveau 1.
+1. Een voortijdig schoolverlater WSKJ die niet op basis van de afspraken, bedoeld in [artikel 193, derde lid, van de Wet voortgezet onderwijs BES](onbekend) kan worden doorverwezen naar onderwijs of arbeidsmarkt, wordt door het bestuurscollege aangemeld bij het projectbureau.
+
+2. Het projectbureau nodigt de voortijdig schoolverlater WSKJ uit voor een educatieve intake.
+
+3. Onverminderd het eerste lid kan een jongere zich aanmelden voor een educatieve intake. De jongere die zich aanmeldt werkt mee aan een educatieve intake.
 
 ### Hoofdstuk 3. Vrijstelling en ontheffing van de sociale vormingsplicht
 
-##### Artikel 4
+##### Artikel 4. Educatieve intake; inschrijving; overeenkomst
 
-Onze Minister verleent de jongere vrijstelling van de sociale vormingsplicht indien:
+1. De educatieve intake heeft tot doel te onderzoeken of de jongere in aanmerking komt voor een sociaal kanstraject en, indien dit het geval is, over welke kennis en vaardigheden de jongere beschikt.
 
-- a. uit bij de aanvraag verschafte gegevens en bescheiden blijkt dat de jongere op grond van lichamelijke of geestelijke onbekwaamheid nooit in staat zal zijn aan enige krachtens deze wet voor hem geldende verplichting te voldoen, of
+2. Op basis van de kennis en vaardigheden wordt de jongere door de uitvoeringsinstantie een passend sociaal kanstraject aangeboden, dat zo mogelijk leidt tot instroom in het regulier onderwijs.
 
-- b. de jongere ten minste in het bezit is van een diploma beroepsvoorbereidend onderwijs b.v.o.) variant B of D, een diploma voorbereidend secundair beroepsonderwijs (v.s.b.o.) theoretisch kadergerichte leerweg of praktisch kadergerichte leerweg, middelbaar algemeen voortgezet onderwijs (m.a.v.o.), hoger algemeen voortgezet onderwijs (h.a.v.o.) voorbereidend wetenschappelijk onderwijs (v.w.o.) dan wel een diploma van een door Onze Minister aangewezen gelijkwaardige, erkende opleiding.
+3. De jongere die zich inschrijft voor het sociale kanstraject dat hem op basis van de educatieve intake wordt aangeboden legt bij zijn inschrijving zijn persoonsgegevens over.
 
-##### Artikel 5
+4. De jongere en de uitvoeringsinstantie sluiten bij inschrijving een overeenkomst waarin afspraken worden neergelegd over de inhoud van zijn sociale kanstraject en de deelname van de jongere daaraan.
 
-Onze Minister verleent op verzoek van de jongere ontheffing van het volgen van een kanstraject:
+##### Artikel 5. Projectbureau en uitvoeringsinstantie
 
-- a. wegens vervulling van de werkelijke dienst, bedoeld in [artikel 1 van de Dienstplichtwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&artikel=1);
+1. Elk openbaar lichaam houdt een projectbureau in stand dat tot taak heeft:
 
-- b. indien hij een opleiding volgt aan:
+- a. het uitvoeren van de educatieve intake,
 
-- 1°. een dagschool, avondschool of dag-avondschool voor voorbereidend wetenschappelijke onderwijs (v.w.o.), hoger algemeen voortgezet onderwijs (h.a.v.o.), of voorbereidend secundair beroepsonderwijs (v.s.b.o);
+- b. het beheren van het deelnemersregister,
 
-- 2°. een door Onze Minister aangewezen instelling;
+- c. het nemen van een beschikking op een aanvraag voor een kanstrajecttoelage als bedoeld in [artikel 11, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=11&z=2011-02-17&g=2011-02-17), en
 
-- c. indien hij op grond van lichamelijke of geestelijke onbekwaamheid tijdelijk niet in staat is aan enige bij deze wet gestelde verplichting te voldoen;
+- d. het houden van toezicht op de uitvoeringsinstantie.
 
-- d. indien hij wegens persoonlijke omstandigheden tijdelijk niet in staat is aan enige bij deze wet gestelde verplichting te voldoen.
+2. Elk openbaar lichaam bekostigt een uitvoeringsinstantie die tot taak heeft:
 
-##### Artikel 6
+- a. het vaststellen van het sociale kanstraject dat een jongere op basis van de educatieve intake wordt aangeboden,
 
-1. Een aanvraag tot vrijstelling of ontheffing als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=3&artikel=4&z=2010-10-10&g=2011-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=3&artikel=5&z=2010-10-10&g=2011-01-01) wordt ingediend bij de oproepingsinstantie door middel van een formulier waarvan het model door Onze Minister wordt vastgesteld.
+- b. het opstellen van een raamplan sociale kanstrajecten, en
 
-2. De jongere verschaft bij de aanvraag de gegevens en bescheiden die voor de beslissing op de aanvraag nodig zijn en waarover hij redelijkerwijs de beschikking kan krijgen.
+- c. het binnen het raam van de door de eilandsraad ter beschikking gestelde middelen uitvoeren of doen uitvoeren van een genoegzaam aanbod van sociale kanstrajecten en de daarmee samenhangende begeleiding.
 
-3. Onze Minister vermeldt in zijn besluit tot ontheffing de duur van de ontheffing. De duur van een ontheffing bedraagt per keer ten hoogste een jaar. Ontheffing wegens vervulling van de werkelijke dienst, bedoeld in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=3&artikel=5&z=2010-10-10&g=2011-01-01), wordt verleend voor zolang de betrokken jongere de werkelijke dienst vervult.
+3. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent het bepaalde in het eerste en tweede lid.
 
-4. Op een aanvraag tot vrijstelling of ontheffing wordt beslist binnen dertig dagen na indiening. Indien binnen deze termijn geen beslissing is genomen, wordt de aanvraag geacht te zijn ingewilligd en wordt aan de aanvrager op diens verzoek een besluit van die strekking afgegeven of toegezonden.
+##### Artikel 6. Deelnemersregister
 
-5. Zolang niet op de aanvraag tot vrijstelling of ontheffing, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=3&artikel=5&z=2010-10-10&g=2011-01-01), is beslist, is de verplichting tot het volgen van een kanstraject als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=6&artikel=10&z=2010-10-10&g=2011-01-01) opgeschort.
+1. Het projectbureau houdt een deelnemersregister bij met het oog op het begeleiden van de jongeren.
 
-6. Een ontheffing kan onder voorwaarden en beperkingen worden verleend.
+2. In het deelnemersregister worden uitsluitend vermeld:
+
+- a. de ingevolge [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=4&z=2011-02-17&g=2011-02-17), overgelegde persoonsgegevens,
+
+- b. de afspraken die ingevolge [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=4&z=2011-02-17&g=2011-02-17), bij de intake zijn gemaakt,
+
+- c. de van het sociale kanstraject deel uitmakende modules die de jongere volgt en de wijzigingen daarin,
+
+- d. de door de deelnemer met succes afgeronde modules,
+
+- e. het behalen van het in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=10&z=2011-02-17&g=2011-02-17) bedoelde certificaat of diploma, en
+
+- f. de doorverwijzing naar onderwijs of arbeidsmarkt.
+
+3. Elke jongere die een sociaal kanstraject volgt, wordt ingeschreven in het deelnemersregister.
 
 ### Hoofdstuk 4. Jongerenregister
 
-##### Artikel 7
+##### Artikel 7. Gebruik register
 
-1. In elk openbaar lichaam wordt een jongerenregister gehouden.
+De in het deelnemersregister opgenomen gegevens worden uitsluitend gebruikt voor de uitvoering en handhaving van deze wet en zijn als zodanig uitsluitend toegankelijk voor de uitvoeringsinstantie en de in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=20&z=2011-02-17&g=2011-02-17) bedoelde toezichthouders, voor zover deze gegevens redelijkerwijs noodzakelijk zijn voor de vervulling van hun taak.
 
-2. De beheerder van het jongerenregister is de oproepingsinstantie.
+##### Artikel 8. Raamplan sociale kanstrajecten
 
-3. Elke jongere die door de oproepingsinstantie wordt opgeroepen, wordt ingeschreven in het jongerenregister. Bij de melding dient de jongere zijn identiteitsbewijs of een ander geldig legitimatiebewijs te tonen.
-
-4. Het jongerenregister dient op verzoek van de jongere een afschrift te geven van de over hem geregistreerde gegevens.
-
-5. In het jongerenregister worden de volgende gegevens opgenomen:
-
-- a. bij oproeping en vrijstelling of ontheffing: alle gegevens conform een formulier, waarvan het model door Onze Minister wordt vastgesteld;
-
-- b. aanvragen voor vrijstelling alsmede de verstrekte vrijstelling alsmede de duur daarvan;
-
-- c. aanvragen voor ontheffing en de verstrekte ontheffingen alsmede de duur daarvan;
-
-- d. uitgegane uitnodigingen voor een educatieve intake als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=2&artikel=2&z=2010-10-10&g=2011-01-01), en de resultaten daarvan;
-
-- e. het kanstraject, de daarvan deel uitmakende modules die de jongere moet volgen en de wijzigingen daarin;
-
-- f. de door de deelnemer met succes afgeronde modules;
-
-- g. het behalen van het in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=6&artikel=12&z=2010-10-10&g=2011-01-01) bedoelde certificaat;
-
-- h. de ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=2&artikel=3&z=2010-10-10&g=2011-01-01) geregistreerde gegevens;
-
-- i. gegevens omtrent de toepassing van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=9&artikel=19&z=2010-10-10&g=2011-01-01) op de jongere.
-
-6. De gegevens, bedoeld in het vijfde lid, worden in het persoonsbestand van de onder-scheiden jongeren opgenomen.
-
-7. De bij de aanmelding verstrekte gegevens worden door de beheerder van het jongeren-register vergeleken met:
-
-- a. de gegevens van de leerlingenadministratie, ter vaststelling of de verstrekte gegevens met betrekking tot deelname aan het onderwijs juist zijn; en
-
-- b. de basisadministratie persoonsgegevens van het openbaar lichaam waar de jongere ingezetene is, ter vaststelling of alle in de basisadministratie opgenomen jongeren, zijn opgeroepen.
-
-8. Elk kwartaal wordt het jongerenregister door de beheerder van het register bijgewerkt door vergelijking met de gegevens van de leerlingenadministratie en de basisadministratie persoonsgegevens, bedoeld in het zevende lid, en door opgave van jongeren respectievelijk van uitvoerende instanties.
-
-##### Artikel 8
-
-1. De in het jongerenregister opgenomen gegevens worden uitsluitend gebruikt voor de uitvoering, handhaving en evaluatie van deze wet en zijn als zodanig uitsluitend toegankelijk voor de uitvoerende instantie en de in artikel 14 genoemde personen, voor zover deze gegevens redelijkerwijs noodzakelijk zijn voor de vervulling van hun taak.
-
-2. De beheerder van het jongerenregister draagt zorg voor de nodige voorzieningen van technische en organisatorische aard ter beveiliging van het register tegen verlies of aantasting van de gegevens en tegen onbevoegde kennisneming, wijziging of verstrekking daarvan.
-
-3. Onze Minister stelt voor het jongerenregister een reglement vast. Het reglement bevat in elk geval een duidelijke regeling van de volgende onderwerpen:
-
-- a. het doel van de registratie;
-
-- b. de categorieën van personen over wie gegevens in het register worden opgenomen;
-
-- c. de soorten van gegevens die in de registratie worden opgenomen, en de wijze waarop deze worden verkregen;
-
-- d. de gevallen waarin opgenomen gegevens worden verwijderd;
-
-- e. de categorieën van personen of instanties, waaraan gegevens uit de registratie worden verstrekt;
-
-- f. de rechtstreekse toegang tot de registratie;
-
-- g. de wijze waarop geregistreerde personen kennisneming en verbetering van de over hen opgenomen gegevens kunnen verkrijgen;
-
-- h. de wijze waarop geregistreerde personen mededeling van verstrekking van hen betreffende gegevens kunnen verkrijgen;
-
-- i. de hoofdlijnen van het beheer van de registratie.
-
-4. Het reglement alsmede wijziging en intrekking daarvan wordt in de Staatscourant bekendgemaakt en voor een ieder ter inzage gelegd bij de uitvoerende instantie.
-
-### Hoofdstuk 5. Vaststelling raamplan kanstrajecten
-
-##### Artikel 9
-
-1. De uitvoerende instantie stelt een raamplan kanstrajecten op. Het raamplan kanstrajecten omvat tenminste:
+1. De uitvoeringsinstantie stelt een raamplan sociale kanstrajecten op, dat ten minste omvat:
 
 - a. de vormings- en scholingsdoelen en de bijbehorende begin- en eindtermen;
 
@@ -214,17 +176,17 @@ Onze Minister verleent op verzoek van de jongere ontheffing van het volgen van e
 
 - i. de wijze waarop het bedrijfsleven betrokken is bij de inhoud van kanstrajecten in de vorm van leerwerktrajecten en bijdraagt met stage- of praktijkplaatsen;
 
-- j. de periode gedurende welke het raamplan kanstrajecten van kracht is.
+- j. de periode gedurende welke het raamplan sociale kanstrajecten van kracht is;
 
-2. Het raamplan kanstrajecten wordt voor goedkeuring aan het bestuurscollege voorgelegd.
+- k. een begroting van geraamde inkomsten en uitgaven, waarin ten minste worden opgenomen het aantal deelnemers, de aan hen te verstrekken kanstrajecttoelage en de zorg die bij het expertisecentrum onderwijszorg, bedoeld in [artikel 3.2. van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=3.2), wordt ingekocht.
 
-3. Op een aanvraag tot goedkeuring van een raamplan kanstrajecten neemt het bestuurscollege een beslissing binnen 60 dagen na indiening.
+2. Het bestuurscollege stelt het raamplan sociale kanstrajecten vast binnen 60 dagen nadat het uitvoeringsinstantie dat aan hem heeft voorgelegd.
 
-### Hoofdstuk 6. Kanstraject
+### Hoofdstuk 5. Vaststelling raamplan kanstrajecten
 
-##### Artikel 10
+##### Artikel 9. Sociaal kanstraject
 
-1. Op grond van de resultaten van de educatieve intake, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=2&artikel=3&z=2010-10-10&g=2011-01-01), stelt de uitvoerende instantie een op zijn individuele situatie afgestemd kanstraject voor de jongere vast.
+1. Op grond van de resultaten van de educatieve intake, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=4&z=2011-02-17&g=2011-02-17), stelt de uitvoeringsinstantie een op zijn individuele situatie afgestemd sociaal kanstraject voor de jongere vast.
 
 2. Het kanstraject bestaat uit een of meerdere modulen die samengesteld zijn met het oog op:
 
@@ -232,89 +194,89 @@ Onze Minister verleent op verzoek van de jongere ontheffing van het volgen van e
 
 - b. het leggen van een brede basis van algemene kennis en algemene en sociale vaardigheden;
 
-- c. het leggen van een basis voor de bereidheid tot voortdurende persoonlijke ontwikkeling en uitbreiding van beroepsvaardigheden («lifelong learning»);
+- c. het leggen van een basis voor de bereidheid tot voortdurende persoonlijke ontwikkeling en uitbreiding van beroepsvaardigheden;
 
-- d. het ontwikkelen van de nodige attitudes en vaardigheden om zich in een werkkring te kunnen handhaven («employability»);
+- d. het ontwikkelen van de nodige attitudes en vaardigheden om zich in een werkkring te kunnen handhaven;
 
-- e. het doen beschikken over een beroepskwalificatie niveau 1;
+- e. het verwerven van kennis van Papiaments of Engels, Nederlands, Spaans, rekenen, en het verwerven van computervaardigheden en praktische vaardigheden.
 
-- f. het aanbieden van een basispakket bestaande uit Papiamentu en/of Engels, Nederlands, Spaans en computervaardigheden.
+3. Het kanstraject heeft een totale duur van ten minste zes maanden en ten hoogste twee jaar. De periode van twee jaar kan op aanvraag bij het projectbureau worden verlengd met ten hoogste zes maanden.
 
-3. Het kanstraject heeft een totale duur van ten minste zes maanden en ten hoogste twee jaar.
+4. Het kanstraject kan worden gewijzigd in verband met wijzigingen in de omstandigheden waarin de jongere verkeert.
 
-4. Het kanstraject kan worden gewijzigd op grond van wijzigingen in de gegevens zoals die op het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=2&artikel=2&z=2010-10-10&g=2011-01-01) bedoelde aanmeldingsformulier door de jongere zijn verstrekt.
+### Hoofdstuk 6. Kanstraject
 
-##### Artikel 11
-
-De jongere is verplicht aanwezig en verleent zijn medewerking aan alle onderdelen van het voor hem vastgestelde kanstraject en de daarmee samenhangende begeleiding.
-
-##### Artikel 12
+##### Artikel 10. Getuigschrift
 
 Nadat de deelnemer alle modules van het voor hem vastgestelde dan wel gewijzigde kanstraject met succes heeft afgerond, ontvangt hij een certificaat of een diploma, afhankelijk van de aard van het traject.
 
+##### Artikel 11. Kanstrajecttoelage
+
+1. Een deelnemer komt in aanmerking voor een kanstrajecttoelage die bestaat uit:
+
+- a. een maandelijkse tegemoetkoming, en
+
+- b. een bijdrage in de kosten van kinderopvang indien hij de ouder is van een kind waarvan hij de verzorger is.
+
+2. Om in aanmerking te komen voor een kanstrajecttoelage dient de jongere een aanvraag in bij het projectbureau.
+
+3. Het projectbureau neemt binnen vier weken een besluit en stelt de deelnemer daarvan schriftelijk op de hoogte.
+
+4. Onverminderd de afspraken in de overeenkomst vervalt de aanspraak op de kanstrajecttoelage van de deelnemer die zonder geldige reden niet aan het sociaal kanstraject heeft deelgenomen gedurende een aaneengesloten periode van ten minste twee weken in ieder geval met ingang van de eerste dag van de maand volgend op de maand waarin het niet deelnemen zonder geldige reden aanving.
+
+5. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over:
+
+- a. de hoogte van de kanstrajecttoelage, onderscheiden in maandelijkse tegemoetkoming en de bijdrage voor de kinderopvang en
+
+- b. de procedure van aanvraag, intrekking, wijziging en terugvordering van de kanstrajecttoelage.
+
+6. In afwijking van het eerste lid komt een gedetineerde deelnemer niet in aanmerking voor een kanstrajecttoelage.
+
+##### Artikel 12. Handelingsplan
+
+1. De uitvoeringsinstantie stelt voor de aanvang van het sociaal kanstraject van de deelnemer met een specifieke zorgbehoefte een handelingsplan op.
+
+2. De uitvoeringsinstantie evalueert jaarlijks het handelingsplan met de deelnemer.
+
 ### Hoofdstuk 7. Geheimhoudingsplicht
 
-##### Artikel 13
+##### Artikel 13. Bekostiging sociale kanstrajecten
 
-Een ieder die betrokken is bij de uitvoering van deze wet en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan, behoudens voor zover enig wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak bij de uitvoering van deze wet de noodzaak tot bekendmaking voortvloeit.
+1. Het bestuurscollege bekostigt het projectbureau voor de uitvoering van zijn taken en de uitvoeringsinstantie voor de aan de uitvoering van de sociale kanstrajecten verbonden kosten.
+
+2. De kosten van een sociaal kanstraject bedragen niet meer dan een bij ministeriële regeling vast te stellen bedrag.
 
 ### Hoofdstuk 8
 
 ### Hoofdstuk 9. Administratieve boeten
 
-##### Artikel 19
+##### Artikel 19. Terugvordering of verrekening middelen
 
-1. Ter zake van gedragingen in strijd met [artikel 2, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=2&artikel=2&z=2010-10-10&g=2011-01-01), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=2&artikel=3&z=2010-10-10&g=2011-01-01), of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=6&artikel=11&z=2010-10-10&g=2011-01-01) kan het bestuurscollege aan de jongere een administratieve boete opleggen.
+1. Bij het geheel of gedeeltelijk intrekken van de bijzondere uitkering op grond van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=18&z=2011-02-17&g=2011-02-17) besluit Onze Minister tot:
 
-2. De hoogte van de boete wordt afgestemd op de ernst van het feit, de omstandigheden waarin de jongere verkeert en de mate van verwijtbaarheid.
+- a. het onmiddellijk terugvorderen van de middelen bij het desbetreffende openbaar lichaam, of
 
-3. De boete kan voorwaardelijk of onvoorwaardelijk worden opgelegd.
+- b. het verrekenen van de middelen met de bijzondere uitkering aan het desbetreffende openbaar lichaam van het daarop volgende jaar.
 
-4. Het opleggen van een voorwaardelijke boete geschiedt steeds onder de algemene voorwaarde dat de betrokkene zich voor het einde van de proeftijd, die op ten hoogste twee jaar gesteld kan worden, niet gedraagt op de in het eerste lid bedoelde wijze.
+2. Het openbaar lichaam is verplicht binnen vier weken na een besluit als bedoeld in het eerste lid, onderdeel a, over te gaan tot betaling. Indien betaling uitblijft, is het openbaar lichaam zonder aanmaning of rechterlijke tussenkomst wettelijke rente verschuldigd.
 
-5. Bij het opleggen van een voorwaardelijke boete kunnen voorts bijzondere voorwaarden worden gesteld, onder meer inzake het tijdstip van het zich alsnog melden bij de oproepingsinstantie of de uitvoerende instantie, het gedrag van betrokkene gedurende de proeftijd en storting door betrokkene van een waarborgsom.
+##### Artikel 20. Toezicht
 
-6. De bevoegdheid tot het opleggen van een boete vervalt een jaar nadat de overtreding is begaan.
+1. Met de uitoefening van het toezicht op de naleving van deze wet zijn belast de door Onze Minister aangewezen toezichthouders.
 
-7. De hoogte van de administratieve boete, bedoeld in het eerste lid, is:
+2. Met het toezicht op de kwaliteit van de aangeboden kanstrajecten is de inspecteur belast.
 
-indien het feit, bedoeld in het eerste lid, voor de eerste keer wordt gepleegd: tenminste USD 14 en ten hoogste USD 280;
-
-in geval van het herhaald plegen van het feit, bedoeld in het eerste lid: tenminste USD 56 en ten hoogste USD 1400.
-
-8. De administratieve boeten komen ten goede van de uitvoering van deze wet.
-
-##### Artikel 20
-
-1. Indien het bestuurscollege voornemens is een administratieve boete op te leggen, geeft hij daarvan kennis aan de jongere, onder vermelding van het feit terzake waarvan het voornemen bestaat en van de gronden waarop het voornemen berust.
-
-2. Voordat de boete wordt opgelegd, stelt het bestuurscollege de jongere in de gelegenheid om naar keuze schriftelijk of mondeling zijn zienswijze naar voren te brengen. Hij kan zich daarbij doen bijstaan door een raadspersoon.
+3. De [artikelen 5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12), [5:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), [5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16) en [5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) zijn van toepassing.
 
 ### Hoofdstuk 10. Strafbepalingen
 
-##### Artikel 21
+##### Artikel 21. Strafbepalingen
 
-1. Hij, die zich gedraagt in strijd met de [artikelen 2, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=2&artikel=2&z=2010-10-10&g=2011-01-01), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=2&artikel=3&z=2010-10-10&g=2011-01-01), of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=6&artikel=11&z=2010-10-10&g=2011-01-01) wordt gestraft:
+Hij die op grond van de bij of krachtens deze wet vastgestelde bepalingen gehouden is inlichtingen of gegevens te verstrekken en daarbij opzettelijk een valse opgave doet dan wel opzettelijk in strijd met bedoelde gehoudenheid iets verzwijgt wordt gestraft met hechtenis van ten hoogste zes maanden, een geldboete van de vierde categorie of met beide straffen. Het in de eerste volzin strafbaar gestelde feit is een misdrijf.
 
-- a. indien het feit voor de eerste keer wordt gepleegd: met hechtenis van ten hoogste 10 dagen, een geldboete van ten hoogste USD 560 of met beide straffen.
+##### Artikel 22. Citeertitel
 
-- b. in geval van het herhaald plegen van het feit, bedoeld in het eerste lid: met hechtenis van ten hoogste twee maanden, een geldboete van ten hoogste USD 2.800 of met beide straffen.
-
-2. De in het eerste lid strafbaar gesteld feiten zijn overtredingen.
-
-3. Strafrechtelijke vervolging ter zake van een in het eerste lid genoemd strafbaar feit is niet mogelijk zolang geen toepassing is gegeven aan het bepaalde in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=9&artikel=19&z=2010-10-10&g=2011-01-01).
-
-##### Artikel 22
-
-1. Hij, die zich gedraagt in strijd met [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=7&artikel=13&z=2010-10-10&g=2011-01-01) wordt gestraft met:
-
-- a. indien hij het feit opzettelijk heeft gepleegd: hechtenis van ten hoogste zes maanden, een geldboete van ten hoogste USD 8.400 of met beide straffen.
-
-- b. in de overige gevallen: een hechtenis van ten hoogste drie maanden, een geldboete van ten hoogste USD 4.200 of beide straffen.
-
-2. De in het eerste lid, onder a, strafbaar gestelde feiten zijn misdrijven. De in het eerste lid, onder b, strafbaar gestelde feiten zijn overtredingen.
-
-3. Geen vervolging wordt ingesteld dan op klachten van degene te wiens aanzien de geheimhouding geschonden is.
+Deze wet wordt aangehaald als: Wet sociale kanstrajecten jongeren BES.
 
 ##### Artikel 23
 
@@ -512,7 +474,7 @@ Het bestuurscollege kan de vastgestelde bijdrage binnen een periode van vijf jaa
 
 ##### Artikel 18. Intrekking of wijziging bijzondere uitkering door Onze Minister
 
-Onze Minister kan de vastgestelde bijzondere uitkering, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&hoofdstuk=7&artikel=17&z=2011-02-17&g=2011-01-01) aan een openbaar lichaam binnen een periode van vijf jaar, gerekend vanaf de dag waarop de kosten zijn vergoed, intrekken of ten nadele van een openbaar lichaam wijzigen:
+Onze Minister kan de vastgestelde bijzondere uitkering, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=17&z=2011-02-17&g=2011-02-17) aan een openbaar lichaam binnen een periode van vijf jaar, gerekend vanaf de dag waarop de kosten zijn vergoed, intrekken of ten nadele van een openbaar lichaam wijzigen:
 
 - a. op grond van feiten of omstandigheden waarvan Onze Minister bij de vaststelling van de vergoeding redelijkerwijs niet op de hoogte kon zijn en op grond waarvan de vergoeding lager zou zijn vastgesteld;
 
