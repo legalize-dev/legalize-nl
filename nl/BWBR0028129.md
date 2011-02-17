@@ -4,7 +4,7 @@ identifier: "BWBR0028129"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2020-08-01"
-last_updated: "2011-01-01"
+last_updated: "2011-02-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028129"
 soort: "wet-BES"
@@ -319,25 +319,25 @@ Wijzigt de Wet zeggenschap in ter beurze genoteerde vennootschappen BES.
 
 ##### Artikel 6.12
 
-Assurantiebemiddelaars die ten tijde van de inwerkingtreding van [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=6&paragraaf=2&artikel=6.2&z=2011-01-01&g=2011-01-01) waren ingeschreven in het register, bedoeld in artikel 4 van de Landsverordening Assurantiebemiddelingsbedrijf, worden, indien zij op dat moment kantoor hielden op Bonaire, Sint Eustatius of Saba, van rechtswege ingeschreven in het register, bedoeld in [artikel 4 van de Wet assurantiebemiddelingsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028566&artikel=4).
+Assurantiebemiddelaars die ten tijde van de inwerkingtreding van [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=6&paragraaf=2&artikel=6.2&z=2011-02-17&g=2011-02-17) waren ingeschreven in het register, bedoeld in artikel 4 van de Landsverordening Assurantiebemiddelingsbedrijf, worden, indien zij op dat moment kantoor hielden op Bonaire, Sint Eustatius of Saba, van rechtswege ingeschreven in het register, bedoeld in [artikel 4 van de Wet assurantiebemiddelingsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028566&artikel=4).
 
 ##### Artikel 6.13
 
-Een op het tijdstip van inwerkingtreding van [artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=6&paragraaf=2&artikel=6.3&z=2011-01-01&g=2011-01-01) van kracht zijnde inbewaringneming op grond van artikel 5 van de Landsverordening meldingsplicht grensoverschrijdende geldtransporten, blijft van kracht totdat zij overeenkomstig [artikel 5 van de Wet grensoverschrijdende geldtransporten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028165&artikel=5) is geëindigd. Als tijdstip waarop de termijn van inbewaringneming voor de toepassing van die wet is aangevangen, geldt het tijdstip waarop de inbewaringneming feitelijk is aangevangen.
+Een op het tijdstip van inwerkingtreding van [artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=6&paragraaf=2&artikel=6.3&z=2011-02-17&g=2011-02-17) van kracht zijnde inbewaringneming op grond van artikel 5 van de Landsverordening meldingsplicht grensoverschrijdende geldtransporten, blijft van kracht totdat zij overeenkomstig [artikel 5 van de Wet grensoverschrijdende geldtransporten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028165&artikel=5) is geëindigd. Als tijdstip waarop de termijn van inbewaringneming voor de toepassing van die wet is aangevangen, geldt het tijdstip waarop de inbewaringneming feitelijk is aangevangen.
 
 ##### Artikel 6.14
 
-[Artikel 7 van de Wet identificatie bij dienstverlening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028490&artikel=7) is van overeenkomstige toepassing op gegevens die voor inwerkingtreding van [artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=6&paragraaf=2&artikel=6.4&z=2011-01-01&g=2011-01-01) zijn vastgelegd ter voldoening aan artikel 6 van de Landsverordening identificatie bij financiële dienstverlening.
+[Artikel 7 van de Wet identificatie bij dienstverlening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028490&artikel=7) is van overeenkomstige toepassing op gegevens die voor inwerkingtreding van [artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=6&paragraaf=2&artikel=6.4&z=2011-02-17&g=2011-02-17) zijn vastgelegd ter voldoening aan artikel 6 van de Landsverordening identificatie bij financiële dienstverlening.
 
 ##### Artikel 6.15
 
-De Wet melding ongebruikelijke transacties BES is van overeenkomstige toepassing op ongebruikelijke transacties als bedoeld in artikel 11 van de Landsverordening melding ongebruikelijke transacties, ten aanzien waarvan ten tijde van de inwerkingtreding van [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=6&paragraaf=2&artikel=6.5&z=2011-01-01&g=2011-01-01) nog niet aan de in artikel 11 van die landsverordening bedoelde meldingsplicht is voldaan.
+De Wet melding ongebruikelijke transacties BES is van overeenkomstige toepassing op ongebruikelijke transacties als bedoeld in artikel 11 van de Landsverordening melding ongebruikelijke transacties, ten aanzien waarvan ten tijde van de inwerkingtreding van [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=6&paragraaf=2&artikel=6.5&z=2011-02-17&g=2011-02-17) nog niet aan de in artikel 11 van die landsverordening bedoelde meldingsplicht is voldaan.
 
 ##### Artikel 6.16
 
-1. Bij regeling van Onze Minister van Financiën kunnen met het oog op een goede invoering van de in de [artikelen 6.2 tot en met 6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=6&paragraaf=2&artikel=6.2&z=2011-01-01&g=2011-01-01) genoemde wetten aanvullende regels van overgangsrecht worden gesteld.
+1. Bij regeling van Onze Minister van Financiën kunnen met het oog op een goede invoering van de in de [artikelen 6.2 tot en met 6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=6&paragraaf=2&artikel=6.2&z=2011-02-17&g=2011-02-17) genoemde wetten aanvullende regels van overgangsrecht worden gesteld.
 
-2. Bij een regeling als bedoeld in het eerste lid kan worden bepaald dat [artikel 6, eerste lid, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=6) niet van toepassing is op beslissingen van de Bank van de Nederlandse Antillen die betrekking hebben op activiteiten die voorafgaande aan het van toepassing worden in de openbare lichamen Bonaire, Sint Eustatius en Saba van een in de [artikelen 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=6&paragraaf=2&artikel=6.2&z=2011-01-01&g=2011-01-01), [6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=6&paragraaf=2&artikel=6.3&z=2011-01-01&g=2011-01-01), [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=6&paragraaf=2&artikel=6.4&z=2011-01-01&g=2011-01-01) of [6.5 tot en met 6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=6&paragraaf=2&artikel=6.5&z=2011-01-01&g=2011-01-01) genoemde wet hoofdzakelijk of uitsluitend in of vanuit Curaçao of Sint Maarten plaatsvonden.
+2. Bij een regeling als bedoeld in het eerste lid kan worden bepaald dat [artikel 6, eerste lid, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=6) niet van toepassing is op beslissingen van de Bank van de Nederlandse Antillen die betrekking hebben op activiteiten die voorafgaande aan het van toepassing worden in de openbare lichamen Bonaire, Sint Eustatius en Saba van een in de [artikelen 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=6&paragraaf=2&artikel=6.2&z=2011-02-17&g=2011-02-17), [6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=6&paragraaf=2&artikel=6.3&z=2011-02-17&g=2011-02-17), [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=6&paragraaf=2&artikel=6.4&z=2011-02-17&g=2011-02-17) of [6.5 tot en met 6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=6&paragraaf=2&artikel=6.5&z=2011-02-17&g=2011-02-17) genoemde wet hoofdzakelijk of uitsluitend in of vanuit Curaçao of Sint Maarten plaatsvonden.
 
 ### Hoofdstuk 7. Minister voor Jeugd en Gezin
 
@@ -671,7 +671,7 @@ Wijzigt de Wet op de Onderwijsraad.
 
 ##### Artikel 10.5
 
-(vervallen)
+Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
 ##### Artikel 10.6
 
@@ -689,11 +689,11 @@ Wijzigt de Archiefwet BES.
 
 ##### Artikel 10.9
 
-(vervallen)
+Wijzigt de Leerplichtwet BES.
 
 ##### Artikel 10.10
 
-(vervallen)
+Wijzigt de Mediawet BES.
 
 ##### Artikel 10.11
 
@@ -701,23 +701,23 @@ Wijzigt de Monumentenwet BES.
 
 ##### Artikel 10.12
 
-(vervallen)
+Wijzigt de Wet educatie en beroepsonderwijs BES.
 
 ##### Artikel 10.13
 
-(vervallen)
+Wijzigt de Wet primair onderwijs BES.
 
 ##### Artikel 10.14
 
-(vervallen)
+Wijzigt de Wet sociale kanstrajecten jongeren BES.
 
 ##### Artikel 10.15
 
-(vervallen)
+Wijzigt de Wet studiefinanciering BES.
 
 ##### Artikel 10.16
 
-(vervallen)
+Wijzigt de Wet voortgezet onderwijs BES.
 
 ### Hoofdstuk 11. Minister van Sociale Zaken en Werkgelegenheid
 
@@ -937,7 +937,7 @@ Wijzigt de Wet op het Koninklijk Nederlands Meteorologisch Instituut.
 
 #### § 2. Aanpassingen van wetgeving van Nederlands-Antilliaanse oorsprong
 
-#### § 2.1. Scheepvaart
+#### § 1.5. Meteorologie
 
 ##### Artikel 12.12
 
@@ -999,7 +999,7 @@ Wijzigt de Algemene Wet Bijzondere Ziektekosten.
 
 Wijzigt de Gezondheidswet.
 
-#### § 2. Aanpassingen van wetgeving van Nederlands-Antilliaanse oorsprong
+#### § 1. Aanpassingen van Nederlandse wetgeving
 
 ##### Artikel 13.3
 
@@ -1073,11 +1073,11 @@ Wijzigt de Wet Huurcommissie-Regeling BES.
 
 ##### Artikel 16.1
 
-1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld waarbij aan de inwerkingtreding van artikelen of onderdelen daarvan uit [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=10&z=2011-02-17&g=2011-02-17) terugwerkende kracht kan worden verleend tot en met 1 januari 2011.
 
-2. De [artikelen 8.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=8&paragraaf=1&sub-paragraaf=1.2&artikel=8.6a&z=2011-01-01&g=2011-01-01), [8.64, onderdelen III0B, QQQQQA, AAAAAAC, AAAAAAE, AAAAAAF, WWWWWWWA](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=8&paragraaf=2&sub-paragraaf=2.3&artikel=8.64&z=2011-01-01&g=2011-01-01) en [13.2, onderdeel CA](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=13&paragraaf=1&artikel=13.2&z=2011-01-01&g=2011-01-01), treden in werking uiterlijk één jaar nadat één of meer artikelen van deze wet in werking zijn getreden.
+2. De [artikelen 8.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=8&paragraaf=1&sub-paragraaf=1.2&artikel=8.6a&z=2011-02-17&g=2011-02-17), [8.64, onderdelen III0B, QQQQQA, AAAAAAC, AAAAAAE, AAAAAAF, WWWWWWWA](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=8&paragraaf=2&sub-paragraaf=2.3&artikel=8.64&z=2011-02-17&g=2011-02-17) en [13.2, onderdeel CA](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=13&paragraaf=1&artikel=13.2&z=2011-02-17&g=2011-02-17), treden in werking uiterlijk één jaar nadat één of meer artikelen van deze wet in werking zijn getreden.
 
-3. De [artikelen 2.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=2&paragraaf=1&artikel=2.3a&z=2011-01-01&g=2011-01-01), [8.6b](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=8&paragraaf=1&sub-paragraaf=1.2&artikel=8.6b&z=2011-01-01&g=2011-01-01), [8.20, onderdelen Ca, DDa, DDb, EEa en FFa](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=8&paragraaf=2&sub-paragraaf=2.1&artikel=8.20&z=2011-01-01&g=2011-01-01), [8.64, onderdelen AAAAAAB, AAAAAAD en CCCCCCCA](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=8&paragraaf=2&sub-paragraaf=2.3&artikel=8.64&z=2011-01-01&g=2011-01-01), en [13.2, onderdeel CB](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=13&paragraaf=1&artikel=13.2&z=2011-01-01&g=2011-01-01), treden in werking uiterlijk twee jaar nadat één of meer artikelen van deze wet in werking zijn getreden.
+3. De [artikelen 2.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=2&paragraaf=1&artikel=2.3a&z=2011-02-17&g=2011-02-17), [8.6b](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=8&paragraaf=1&sub-paragraaf=1.2&artikel=8.6b&z=2011-02-17&g=2011-02-17), [8.20, onderdelen Ca, DDa, DDb, EEa en FFa](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=8&paragraaf=2&sub-paragraaf=2.1&artikel=8.20&z=2011-02-17&g=2011-02-17), [8.64, onderdelen AAAAAAB, AAAAAAD en CCCCCCCA](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=8&paragraaf=2&sub-paragraaf=2.3&artikel=8.64&z=2011-02-17&g=2011-02-17), en [13.2, onderdeel CB](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=13&paragraaf=1&artikel=13.2&z=2011-02-17&g=2011-02-17), treden in werking uiterlijk twee jaar nadat één of meer artikelen van deze wet in werking zijn getreden.
 
 ##### Artikel 16.2
 
@@ -1095,7 +1095,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - a. tijdstip van transitie: het tijdstip bedoeld in [artikel 1, onderdeel a, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=1);
 
-- b. het tijdstip van inwerkingtreding: het tijdstip waarop de [artikelen 11.18](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=11&paragraaf=2&artikel=11.18&z=2011-01-01&g=2011-01-01), [11.21](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=11&paragraaf=2&artikel=11.21&z=2011-01-01&g=2011-01-01), [11.22](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=11&paragraaf=2&artikel=11.22&z=2011-01-01&g=2011-01-01), [11.28](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=11&paragraaf=2&artikel=11.28&z=2011-01-01&g=2011-01-01) en [11.32](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=11&paragraaf=2&artikel=11.32&z=2011-01-01&g=2011-01-01) van de Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba in werking treden;
+- b. het tijdstip van inwerkingtreding: het tijdstip waarop de [artikelen 11.18](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=11&paragraaf=2&artikel=11.18&z=2011-02-17&g=2011-02-17), [11.21](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=11&paragraaf=2&artikel=11.21&z=2011-02-17&g=2011-02-17), [11.22](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=11&paragraaf=2&artikel=11.22&z=2011-02-17&g=2011-02-17), [11.28](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=11&paragraaf=2&artikel=11.28&z=2011-02-17&g=2011-02-17) en [11.32](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&hoofdstuk=11&paragraaf=2&artikel=11.32&z=2011-02-17&g=2011-02-17) van de Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba in werking treden;
 
 - c. overgangsperiode: de periode vanaf het tijdstip van transitie tot het tijdstip van inwerkingtreding.
 
@@ -1125,9 +1125,9 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### § 1.2. Luchtvaart
 
-#### § 1.3. Vervoer gevaarlijke stoffen
+#### § 1.2. Luchtvaart
 
-#### § 1.4. Waterbeleid
+#### § 1.3. Vervoer gevaarlijke stoffen
 
 #### § 1.5. Meteorologie
 
@@ -1150,6 +1150,60 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 #### § 2. Aanpassingen van wetgeving van Nederlands-Antilliaanse oorsprong
 
 ### Hoofdstuk 15. Minister voor Wonen, Wijken en Integratie
+
+#### § 2. Aanpassingen van wetgeving van Nederlands-Antilliaanse oorsprong
+
+### Hoofdstuk 16. Slotbepalingen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 10.2a
+
+Wijzigt de Wet College voor examens.
+
+##### Artikel 10.4a
+
+Wijzigt de Wet studiefinanciering 2000.
+
+#### § 2. Aanpassingen van wetgeving van Nederlands-Antilliaanse oorsprong
+
+### Hoofdstuk 11. Minister van Sociale Zaken en Werkgelegenheid
+
+#### § 1. Aanpassingen van Nederlandse wetgeving
+
+#### § 2. Aanpassingen van wetgeving van Nederlands-Antilliaanse oorsprong
+
+#### § 3. Actualisering bedragen op transitiedatum
+
+### Hoofdstuk 12. Minister van Verkeer en Waterstaat
+
+#### § 1. Aanpassing Nederlandse wetten
+
+#### § 1.1. Scheepvaart
+
+#### § 1.4. Waterbeleid
+
+#### § 2. Aanpassingen van wetgeving van Nederlands-Antilliaanse oorsprong
+
+#### § 2.1. Scheepvaart
+
+#### § 2.2. Luchtvaart
+
+#### § 2.3. Wegverkeer
+
+### Hoofdstuk 13. Minister van Volksgezondheid, Welzijn en Sport
+
+#### § 2. Aanpassingen van wetgeving van Nederlands-Antilliaanse oorsprong
+
+### Hoofdstuk 14. Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
+
+#### § 1. Aanpassingen van Nederlandse wetgeving
+
+#### § 2. Aanpassingen van wetgeving van Nederlands-Antilliaanse oorsprong
+
+### Hoofdstuk 15. Minister voor Wonen, Wijken en Integratie
+
+#### § 1. Aanpassingen van Nederlandse wetgeving
 
 #### § 2. Aanpassingen van wetgeving van Nederlands-Antilliaanse oorsprong
 
