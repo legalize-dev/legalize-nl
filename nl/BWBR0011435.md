@@ -4,7 +4,7 @@ identifier: "BWBR0011435"
 country: "nl"
 rank: "pbo"
 publication_date: "2011-02-17"
-last_updated: "2006-05-01"
+last_updated: "2011-02-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011435"
 soort: "pbo"
@@ -222,7 +222,7 @@ Toegestaan is tevens het gebruik van de naam of de namen van natuurlijke persone
 
 1. De notaris draagt zorg bij het naar buiten optreden voor een juiste en volledige presentatie van het kantoor.
 
-2. Indien sprake is van een samenwerkingsverband als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0011435&artikel=23&z=2006-05-01&g=2006-05-01) dan moet bij het naar buiten optreden blijken wie de deelnemens aan het samenwerkingsverband zijn, tenzij het een samenwerkingsverband betreft met een kandidaat-notaris.
+2. Indien sprake is van een samenwerkingsverband als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0011435&artikel=23&z=2011-02-17&g=2011-02-17) dan moet bij het naar buiten optreden blijken wie de deelnemens aan het samenwerkingsverband zijn, tenzij het een samenwerkingsverband betreft met een kandidaat-notaris.
 
 3. Wanneer een samenwerkingsverband bestaat tussen een notaris en een kandidaat-notaris dragen zij er bij hun optreden naar buiten zorg voor dat geen onzekerheid beslaat over ieders hoedanigheid.
 
@@ -238,31 +238,27 @@ De notaris die naar buiten optreedt als partijadviseur maakt jegens derden tijdi
 
 ##### Artikel 26
 
-De notaris dient er op toe te zien dat publiciteit die door of ten behoeve van hem wordt bedreven in overeenstemming is met de zorgvuldigheid die een behoorlijk notaris betaamt en geen inbreuk vormt op het streven in het notariaat naar een onderlinge verhouding die berust op welwillendheid en vertrouwen.
+Vervallen
 
 ##### Artikel 27
 
-Het is de notaris niet toegestaan publiciteit te bedrijven waarbij zijn diensten worden vergeleken met die van een of meer andere notarissen tenzij representatieve een verifieerbare elementen worden vergeleken en de publiciteit niet misleidend is.
+Vervallen
 
 ##### Artikel 28
 
-De notaris mag bij het bedrijven van publiciteit mogelijke opdrachtgevers, niet zijnde cliënten, niet rechtstreeks benaderen, behoudens voorzover dat schriftelijk geschiedt aan een groep geadresseerden.
+Vervallen
 
 ##### Artikel 29
 
-Het is de notaris niet toegestaan in publicaties tot uitdrukking te brengen dat hij over specialistische deskundigheid beschikt, tenzij de tot uitdrukking gebrachte deskundigheid op grond van door hem verworven kennis en ervaring aannemelijk is.
+Vervallen
 
 ##### Artikel 30
 
-1. De publiciteit van de notaris over zijn tarieven moet volledig, duidelijk en ondubbelzinnig zijn. Uit de publicatie moet blijken welke verschonen en eventuele andere kosten naast het tarief zijn verschuldigd.
-
-2. Het is niet toegestaan in publiciteit te volstaan met het vermelden van minimumprijzen.
-
-3. De notaris is gebonden aan de tarieven en voorwaarden die hij heeft gepubliceerd.
+Vervallen
 
 ##### Artikel 31
 
-Het is de notaris niet toegestaan in reclame melding te maken van door hem beklede functies waarin hij benoemd is door een rechterlijke instantie, functies in de rechterlijke macht of functies die hij bekleedt of bekleed heeft in een van de organen van de KNB.
+Vervallen
 
 #### Notaris en kandidaat-notaris
 
