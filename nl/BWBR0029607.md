@@ -100,9 +100,3 @@ Dit besluit treedt in werking met ingang van het tijdstip waarop [artikel 78, tw
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit voorzieningen in de huisvesting PO/VO BES.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 3a. Omhangbepaling
-
-Dit besluit berust mede op [artikel 11.62, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.62).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
