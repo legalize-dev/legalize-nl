@@ -4,7 +4,7 @@ identifier: "BWBV0005521"
 country: "nl"
 rank: "verdrag"
 publication_date: "2011-03-03"
-last_updated: "2009-08-10"
+last_updated: "2011-02-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005521"
 soort: "verdrag"
@@ -210,13 +210,13 @@ Sectie 7. **Wederinkoop door een lid van zijn valuta, door het Fonds gehouden**
 
 - (e). Een lid dient, in overeenstemming met het beleid dat het Fonds vaststelt met een meerderheid van zeventig procent van het totale stemmenaantal, het bezit van het Fonds aan zijn valuta terug te kopen, dat niet is verkregen als gevolg van aankopen en waarover ingevolge sectie 8 (b) (ii) van dit artikel provisies worden geheven.
 
-- (f). Een besluit waarbij wordt voorgeschreven dat krachtens een beleid ter zake van het gebruik van de algemene middelen van het Fonds,het tijdvak voor wederinkoop krachtens het bepaalde in letter (c) of (d) van deze sectie korter is dan dat wat geldt krachtens het beleid, is uitsluitend van toepassing op bezit dat is verkregen door het Fonds na de datum waarop het besluit van kracht is geworden.
+- (f). Een besluit waarbij wordt voorgeschreven dat krachtens een beleid ter zake van het gebruik van de algemene middelen van het Fonds, het tijdvak voor wederinkoop krachtens het bepaalde in letter (c) of (d) van deze sectie korter is dan dat wat geldt krachtens het beleid, is uitsluitend van toepassing op bezit dat is verkregen door het Fonds na de datum waarop het besluit van kracht is geworden.
 
-- (g). Het Fonds kan op verzoek van een lid de datum van nakoming van een verplichting tot wederinkoop uitstellen, maar niet langer dan het maximum tijdvak vermeld in letter (c) of (d) hierboven of zoals vastesteld krachtens het door het Fonds ingevolge letter (e) hierboven vastestelde beleid, tenzij het Fonds met een meerderheid van zeventig procent van het totale stemmenaantal, bepaalt dat een langer tijdvak voor wederinkoop, dat verenigbaar is met het tijdelijke gebruik van de algemene middelen van het Fonds, is gerechtvaardigd, omdat nakoming van de verplichting op de gestelde datum zou resulteren in uitzonderlijke moeilijkheden voor het lid.
+- (g). Het Fonds kan op verzoek van een lid de datum van nakoming van een verplichting tot wederinkoop uitstellen, maar niet langer dan het maximum tijdvak vermeld in letter (c) of (d) hierboven of zoals vastgesteld krachtens het door het Fonds ingevolge letter (e) hierboven vastgestelde beleid, tenzij het Fonds met een meerderheid van zeventig procent van het totale stemmenaantal, bepaalt dat een langer tijdvak voor wederinkoop, dat verenigbaar is met het tijdelijke gebruik van de algemene middelen van het Fonds, is gerechtvaardigd, omdat nakoming van de verplichting op de gestelde datum zou resulteren in uitzonderlijke moeilijkheden voor het lid.
 
 - (h). De beleidslijnen van het Fonds ingevolge sectie 3 (d) van dit artikel kunnen worden aangevuld met beleidslijnen krachtens welke het Fonds, na overleg met een lid, kan besluiten zijn bezit aan de valuta van het lid dat niet is teruggekocht in overeenstemming met deze sectie 7, ingevolge sectie 3 (b) van dit artikel te verkopen, onverminderd enigerlei maatregel die het Fonds zou zijn gemachtigd te nemen krachtens enige andere bepaling van deze Overeenkomst.
 
-- (i). Elke wederinkoop ingevolge deze sectie dient te worden verricht bijzondere trekkingsrechten of met de door het Fonds gespecificeerde valuta's van andere leden. Het Fonds stelt beleidslijnen en procedures vast ter zake van de door leden bij wederinkoop te gebruiken valuta's, waarbij rekening wordt gehouden met de in sectie 3 (d) van dit. artikel vervatte beginselen. Het bezit van het Fonds aan de valuta van een lid dat wordt gebruikt bij wederinkoop, mag door de wederinkoop niet hoger worden dan het niveau waarboven ingevolge sectie (8 (b) (ii) van t artikel provisies zouden worden geheven.
+- (i). Elke wederinkoop ingevolge deze sectie dient te worden verricht bijzondere trekkingsrechten of met de door het Fonds gespecificeerde valuta's van andere leden. Het Fonds stelt beleidslijnen en procedures vast ter zake van de door leden bij wederinkoop te gebruiken valuta's, waarbij rekening wordt gehouden met de in sectie 3 (d) van dit artikel vervatte beginselen. Het bezit van het Fonds aan de valuta van een lid dat wordt gebruikt bij wederinkoop, mag door de wederinkoop niet hoger worden dan het niveau waarboven ingevolge sectie (8 (b) (ii) van dit artikel provisies zouden worden geheven.
 
 - (j).
 
@@ -246,7 +246,7 @@ Sectie 8. **Provisies**
 
 - (d). Voor het bepalen van de hoogte van een provisie ingevolge letters (a) en (b) hierboven, die gelijk is voor alle leden, en ingevolge letter (c) hierboven, is een meerderheid van zeventig procent van het totale stemmenaantal vereist.
 
-- (e). Een lid betaalt alle provisies in bijzondere trekkingsrechten, met dien verstande dat in uitzonderlijke omstandigheden het Fonds een lid kan toestaan provisies te betalen in de door het Fonds gespecificeerde valuta's van andere leden, na overleg met deze leden of in zijn eigen valuta. Het bezit van het Fonds aan de valuta van een lid dient niet te n vermeerderd als gevolg van betalingen door andere leden krachtens deze bepaling tot boven het niveau waarboven ingevolge letter (b) (ii) van deze sectie provisies zouden worden geheven.
+- (e). Een lid betaalt alle provisies in bijzondere trekkingsrechten, met dien verstande dat in uitzonderlijke omstandigheden het Fonds een lid kan toestaan provisies te betalen in de door het Fonds gespecificeerde valuta's van andere leden, na overleg met deze leden of in zijn eigen valuta. Het bezit van het Fonds aan de valuta van een lid dient niet te worden vermeerderd als gevolg van betalingen door andere leden krachtens deze bepaling tot boven het niveau waarboven ingevolge letter (b) (ii) van deze sectie provisies zouden worden geheven.
 
 Sectie 9. **Remuneratie**
 
@@ -262,11 +262,11 @@ Sectie 9. **Remuneratie**
 
 - (c). Het Fonds kan met een meerderheid van zeventig procent van het totale stemmenaantal het laatste quotumpercentage dat ten behoeve van letter (a) hierboven voor ieder lid geldt, verhogen tot:
 
-- (i). een percentage dat niet meer beloopt.dan honderd procent en dat wordt vastgesteld voor ieder lid op basis van dezelfde criteria voor alle leden, of
+- (i). een percentage dat niet meer beloopt dan honderd procent en dat wordt vastgesteld voor ieder lid op basis van dezelfde criteria voor alle leden, of
 
 - (ii). honderd procent voor alle leden.
 
-- (d). De remuneratie wordt betaald in bijzondere trekkingsrechten, met ien verstande dat hetzij het Fonds, hetzij het lid kan besluiten dat de betaling aan het lid dient te worden verricht in zijn eigen valuta.
+- (d). De remuneratie wordt betaald in bijzondere trekkingsrechten, met dien verstande dat hetzij het Fonds, hetzij het lid kan besluiten dat de betaling aan het lid dient te worden verricht in zijn eigen valuta.
 
 Sectie 10. **Berekeningen**
 
@@ -296,19 +296,21 @@ Sectie 12. **Andere verrichtingen en transacties**
 
 - (f). Wanneer het Fonds ingevolge letter (c) hierboven goud verkoopt dat het in bezit heeft op de datum van de tweede wijziging van deze Overeenkomst, wordt een bedrag van de opbrengst, dat op het tijdstip van de verkoop gelijk is aan een bijzonder trekkingsrecht per 0,888.671 gram fijn goud, geboekt op de Algemene Middelenrekening en, tenzij het Fonds anders mocht beslissen ingevolge letter (g) hieronder, wordt elk overschot geboekt op de Bijzondere Aanwendingsrekening. De activa in de Bijzondere Aanwendingsrekening dienen gescheiden te worden gehouden van de andere rekeningen van de Algemene Afdeling en kunnen te allen tijde worden gebruikt: Besluiten om activa te gebruiken ingevolge (i) hierboven, worden genomen met een meerderheid van zeventig procent van het totale stemmenaantal en besluiten ingevolge (ii) en (iii) hierboven worden genomen met een meerderheid van vijfentachtig procent van het totale stemmenaantal.
 
-- (i). om overmakingen te verrichten op de Algemene Middelenrekeng voor onmiddellijk gebruik bij verrichtingen en transacties die zijn toegestaan door de bepalingen van deze Overeenkomst anders dan deze sectie;
+- (i). om overmakingen te verrichten op de Algemene Middelenrekening voor onmiddellijk gebruik bij verrichtingen en transacties die zijn toegestaan door de bepalingen van deze Overeenkomst anders dan deze sectie;
 
 - (ii). voor verrichtingen en transacties die niet worden toegestaan door andere bepalingen van deze Overeenkomst, maar die verenigbaar zijn met de doelstellingen van het Fonds. Krachtens het bepaalde in deze letter (f) (ii) kan op bijzondere voorwaarden betalingsbalanshulp beschikbaar worden gesteld aan ontwikkelingslanden in moeilijke omstandigheden die lid zijn, en tot dit doel houdt het Fonds rekening met het niveau van het inkomen per hoofd van de bevolking;
 
 - (iii). voor de distributie aan die ontwikkelingslanden die op 31 augustus 1975 lid waren, naar rato van hun quota op die datum, van het deel van de activa die het Fonds besluit te gebruiken ten behoeve van (ii) hierboven dat overeenkomt met het aandeel van de quota van deze leden op de datum van distributie in het totaal van de quota van alle leden op dezelfde datum, met dien verstande dat de distributie ingevolge deze bepaling aan een lid ten aanzien waarvan is verklaard dat het ingevolge sectie 5 van dit artikel onbevoegd is tot het gebruik van de algemene middelen van het Fonds, plaats vindt wanneer het wel bevoegd is, tenzij het Fonds besluit de distributie eerder te verrichten.
 
-- (g). Het Fonds kan met een meerderheid van vijfentachtig procent van het totale stemmenaantal besluiten een gedeelte van het in letter (f) hierboven bedoelde overschot over te maken op de Investeringsrekening ebruik ingevolge het bepaalde in artikel XII, sectie 6 (f).
+- (g). Het Fonds kan met een meerderheid van vijfentachtig procent van het totale stemmenaantal besluiten een gedeelte van het in letter (f) hierboven bedoelde overschot over te maken op de Investeringsrekening voor gebruik ingevolge het bepaalde in artikel XII, sectie 6 (f).
 
-- (h). In afwachting van het gebruik zoals aangegeven in letter (f) ierboven, kan het Fonds de valuta van een lid in de Bijzondere Aanwendingsrekening beleggen in verhandelbare obligaties van dat lid of in verhandelbare obligaties van internationale financiële organisaties. Het inkomen uit belegging en rente dat wordt ontvangen ingevolge letter (f) (ii) hierboven wordt geboekt op de Bijzondere Aanwendingsrekening. Geen enkele belegging mag worden gedaan zonder de instemming van het lid welks valuta wordt gebruikt om de belegging te doen. Het Fonds belegt uitsluitend in obligaties uitgedrukt in bijzondere trekkingsrechten of in de voor belegging gebruikte valuta.
+- (h). In afwachting van gebruik zoals aangegeven in letter (f) hierboven, kan het Fonds de valuta van een lid in de Bijzondere Aanwendingsrekening naar eigen inzicht gebruiken voor beleggingen, in overeenstemming met de door het Fonds, met een meerderheid van zeventig procent van het totale aantal stemmen, aangenomen voorschriften en regelingen. Het inkomen uit belegging en rente dat wordt ontvangen ingevolge letter (f) (ii) hierboven wordt geboekt op de Bijzondere Aanwendingsrekening.
 
-- (i). De Algemene Middelenrekening wordt van tijd tot tijd aangeverd ten behoeve van de administratiekosten van de Bijzondere Aanwendingsrekening, die worden betaald uit de Algemene Middelenrekening, en wel door overmakingen uit de Bijzondere Aanwendingsrekening op basis van een redelijke raming van zodanige kosten.
+- (i). De Algemene Middelenrekening wordt van tijd tot tijd aangezuiverd ten behoeve van de administratiekosten van de Bijzondere Aanwendingsrekening, die worden betaald uit de Algemene Middelenrekening, en wel door overmakingen uit de Bijzondere Aanwendingsrekening op basis van een redelijke raming van zodanige kosten.
 
 - (j). De Bijzondere Aanwendingsrekening wordt afgesloten in geval van liquidatie van het Fonds en kan vóór de liquidatie van het Fonds worden afgesloten bij besluit met een meerderheid van zeventig procent van het totale stemmenaantal. Na afsluiting van de rekening wegens liquidatie van het Fonds, worden alle eventuele activa op deze rekening uitgekeerd in overeenstemming met het bepaalde in schema K. Na afsluiting vóór de liquidatie van het Fonds, dienen alle eventuele activa op deze rekening te worden overgemaakt naar de Algemene Middelenrekening voor onmiddellijk gebruik bij verrichtingen en transacties. Het Fonds stelt met een meerderheid van zeventig procent van het totale stemmenaantal regels en voorschriften vast voor het beheer van de Bijzondere Aanwendingsrekening.
+
+- (k). Indien het Fonds uit hoofde van letter (c) hierboven goud verkoopt dat het heeft verworven na de datum van de tweede wijziging van deze Overeenkomst, wordt een bedrag van de opbrengst ter hoogte van de aankoopprijs van het goud overgemaakt op de Algemene Middelenrekening en wordt het eventuele restant overgemaakt op de Investeringsrekening, voor aanwending overeenkomstig de bepalingen van artikel XII, sectie 6, (f). Indien goud dat het Fonds na de datum van de tweede wijziging van deze Overeenkomst heeft verworven wordt verkocht na 7 april 2008 maar vóór de datum van inwerkingtreding van deze bepaling maakt het Fonds bij de inwerkingtreding van deze bepaling en onverminderd de limiet vermeld in artikel XII, sectie 6, (f) (ii) een bedrag van de Algemene Middelenrekening over op de Investeringsrekening ter hoogte van de opbrengst van deze verkoop, na aftrek van (i) de aankoopprijs van het verkochte goud, en (ii) het bedrag boven de aankoopprijs die eventueel vóór de datum van inwerkingtreding van deze bepaling kan zijn overgemaakt op de Investeringsrekening.
 
 ##### Artikel VI. Overmaking van kapitaal
 
@@ -552,7 +554,7 @@ Sectie 3. **College van Bewindvoerders**
 
 - (b). Het College van Bewindvoerders bestaat uit Bewindvoerders en wordt voorgezeten door de Directeur. Van de Bewindvoerders: Bij iedere regelmatige verkiezing van de Bewindvoerders kan de Raad van Bestuur met een meerderheid van vijfentachtig procent van het totale stemmenaantal het in (ii) hierboven genoemde aantal Bewindvoerders vergroten of verkleinen. Het in (ii) hierboven genoemde aantal Bewindvoerders wordt met één of twee verminderd, naar gelang van de omstandigheden, indien er Bewindvoerders worden benoemd ingevolge (c) hieronder, tenzij de Raad van Bestuur met een meerderheid van vijfentachtig procent van het totale stemmenaantal besluit dat deze vermindering de doeltreffende vervulling van de functies van het College van Bewindvoerders of van de Bewindvoerders zou belemmeren, dan wel een wenselijk evenwicht in het College van Bewindvoerders zou dreigen te verstoren.
 
-- (i). worden er vijf benoemd door de vijf leden met de grootste quota;en
+- (i). worden er vijf benoemd door de vijf leden met de grootste quota; en
 
 - (ii). worden er vijftien gekozen door de andere leden.
 
@@ -584,7 +586,7 @@ Sectie 3. **College van Bewindvoerders**
 
 Sectie 4. **Directeur en staf**
 
-- (a). Het College van Bewindvoerders wijst een Directeur aan die geen Bestuurder of Bewindvoerder is. De Directeur is voorzitter van het College van Bewindvoerders, maar heeft geen stem, behalve een beslisende stem in geval van staking van stemmen. Hij kan deelnemen aan de vergaderingen van de Raad van Bestuur, maar heeft in deze vergaderingen geen stemrecht. De Directeur treedt af wanneer het College van Bewindvoerders daartoe besluit.
+- (a). Het College van Bewindvoerders wijst een Directeur aan die geen Bestuurder of Bewindvoerder is. De Directeur is voorzitter van het College van Bewindvoerders, maar heeft geen stem, behalve een beslissende stem in geval van staking van stemmen. Hij kan deelnemen aan de vergaderingen van de Raad van Bestuur, maar heeft in deze vergaderingen geen stemrecht. De Directeur treedt af wanneer het College van Bewindvoerders daartoe besluit.
 
 - (b). De Directeur is het hoofd van de staf van het Fonds en leidt volgens de aanwijzingen van de Bewindvoerders de dagelijkse werkzaamheden van het Fonds. Onder het algemeen toezicht der Bewindvoerders is hij verantwoordelijk voor de organisatie, alsmede voor de benoeming en het ontslag van stafleden van het Fonds.
 
@@ -598,7 +600,7 @@ Sectie 5. **Stemrecht**
 
 - (b). Wanneer met betrekking tot het bepaalde in artikel V, sectie 4 of 5 stemming is vereist, wordt het aantal stemmen waarop ieder lid ingevolge letter (a) hierboven recht heeft, aangepast: met dien verstande dat noch de netto-aankopen, noch de netto-verkopen worden geacht op enig ogenblik een bedrag gelijk aan het quotum van het betrokken lid te overschrijden.
 
-- (i). door toevoeging van één stem voor ieder bedrag overeenkomende erhonderdduizend bijzondere trekkingsrechten van de netto-verkopen van zijn valuta uit de algemene middelen van het Fonds, tot de datum waarop wordt gestemd, of
+- (i). door toevoeging van één stem voor ieder bedrag overeenkomende met vierhonderdduizend bijzondere trekkingsrechten van de netto-verkopen van zijn valuta uit de algemene middelen van het Fonds, tot de datum waarop wordt gestemd, of
 
 - (ii). door vermindering met één stem voor ieder bedrag overeenkomende met vierhonderdduizend bijzondere trekkingsrechten van de netto-aankopen door een lid ingevolge artikel V, sectie 3 (b) en (f) tot de datum waarop wordt gestemd,
 
@@ -622,13 +624,13 @@ Sectie 6. **Reserves, uitkering van de netto-winst en investering**
 
 - (ii). Het Fonds kan besluiten een deel van de opbrengst van de verkoop van goud in overeenstemming met artikel V, sectie 12 (g) over te maken op de Investeringsrekening en het kan, met een meerderheid van zeventig procent van het totale stemmenaantal, besluiten valuta's die staan geboekt op de Algemene Middelenrekening voor onmiddellijke investering over te maken op de Investeringsrekening. Het bedrag van deze overmakingen mag niet meer belopen dan het totale bedrag van de algemene reserve en de bijzondere reserve op het tijdstip van het besluit.
 
-- (iii). Het Fonds kan de valuta van een lid, die geboekt staat op de Investeringsrekening beleggen in verhandelbare obligaties van dat lid of in verhandelbare obligaties van internationale financiële organisaties. Geen enkele belegging mag worden gedaan zonder de instemming van het lid welks valuta wordt gebruikt om de belegging te doen. Het Fonds belegt uitsluitend in obligaties uitgedrukt in bijzondere trekkingsrechten of in de voor de investering gebruikte valuta.
+- (iii). Het Fonds kan de valuta van een lid, die geboekt staat op de Investeringsrekening, naar eigen inzicht gebruiken voor beleggingen, in overeenstemming met de door het Fonds, met een meerderheid van zeventig procent van het totale aantal stemmen, aangenomen voorschriften en regelingen. De ingevolge deze bepaling aangenomen voorschriften en regelingen dienen verenigbaar te zijn met (vii), (viii) en (ix) hieronder.
 
 - (iv). De inkomsten uit investeringen kunnen worden belegd in overovereenstemming met het bepaalde in deze letter (f). Niet geïnvesteerde inkomsten worden geboekt op de Investeringsrekening of kunnen worden gebruikt ter bestrijding van de kosten van de leiding der zaken van het Fonds.
 
 - (v). Het Fonds kan de valuta van een lid in de Investeringsrekening gebruiken om de valuta's te verkrijgen die nodig zijn ter bestrijding van de kosten van de leiding der zaken van het Fonds.
 
-- (vi). De Investeringsrekening dient te worden afgesloten in geval van liquidatie van het Fonds en kan worden afgesloten, of het bedrag van de investering kan worden verminderd, vóór de liquidatie van het Fonds, bij besluit met een meerderheid van zeventig procent van het totale stemmenaantal. Het Fonds stelt met een meerderheid van zeventig procent van het totale stemmenaantal regels en voorschriften vast voor het beheer van de Investeringsrekening, die verenigbaar dienen te zijn met (vii), (viii) en (ix) hieronder.
+- (vi). De Investeringsrekening dient te worden afgesloten in het geval van liquidatie van het Fonds en kan worden afgesloten, of het bedrag van de investering kan worden verminderd, vóór de liquidatie van het Fonds, bij besluit met een meerderheid van zeventig procent van het totale aantal stemmen.
 
 - (vii). Na afsluiting van de Investeringsrekening wegens liquidatie van het Fonds worden alle eventuele activa in deze rekening uitgekeerd in overeenstemming met het bepaalde in schema K, met dien verstande dat een deel van deze activa, overeenstemmend met het percentage dat de ingevolge artikel V, sectie 12 (g) op deze rekening overgemaakte activa vormen van het totaal van de op deze rekening overgemaakte activa, wordt beschouwd als activa die geboekt staan op de Bijzondere Aanwendingsrekening en wordt uitgekeerd in overeenstemming met schema K, paragraaf 2 (a) (ii).
 
