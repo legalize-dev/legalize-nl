@@ -4,7 +4,7 @@ identifier: "BWBR0012681"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-08"
-last_updated: "2010-07-29"
+last_updated: "2011-02-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012681"
 soort: "ministeriele-regeling"
@@ -170,7 +170,9 @@ Als gespen behorende bij de Herinneringsmedaille Vredesoperaties worden ingestel
 
 - 2°. het International Military Advisory Team in Sudan, ‘IMAT’, voor zover deze deelname heeft plaatsgehad op en rondom het grondgebied van en in het luchtruim boven Sudan vanaf november 2005;
 
-- 3°. de operatie United States Security Coordinator Dayton ‘USSC Dayton’, voor zover deze heeft plaatsgehad in Ramallah, West Bank: MULTINATIONALE OPERATIES;
+- 3°. de operatie United States Security Coordinator Dayton ‘USSC Dayton’, voor zover deze heeft plaatsgehad in Ramallah, West Bank;
+
+- 4°. het Africa Contingency Operations Training and Assistance programma ‘ACOTA’, voor zover deelname heeft plaatsgehad in Afrika vanaf januari 2011: MULTINATIONALE OPERATIES;
 
 - hh. voor deelname aan SSR operaties van Nederland:
 
