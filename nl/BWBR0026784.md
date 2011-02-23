@@ -4,7 +4,7 @@ identifier: "BWBR0026784"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-01"
-last_updated: "2009-12-09"
+last_updated: "2011-02-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026784"
 soort: "wet"
@@ -174,9 +174,9 @@ Onze Minister is ambtshalve of op verzoek van een bevoegde autoriteit met een re
 
 - c. na faillietverklaring door hetzij opheffing van het faillissement wegens de toestand van de boedel, hetzij door insolventie.
 
-2. De rechtbank verklaart op verzoek van de vergadering, bedoeld in artikel 10, eerste lid, onderdeel a, van de verordening, de directeur of een belanghebbende, of en op welk tijdstip de EGTS is ontbonden in het geval volgens de overeenkomst het intreden van een gebeurtenis de ontbinding tot gevolg heeft die niet een besluit of een op ontbinding gerichte handeling is. De beschikking is voor een ieder bindend. De in kracht van gewijsde gegane uitspraak, inhoudende de verklaring, wordt door de zorg van de griffier ingeschreven in het register, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0026784&hoofdstuk=3&artikel=10&z=2009-12-09&g=2009-12-09), en toegezonden aan Onze Minister.
+2. De rechtbank verklaart op verzoek van de vergadering, bedoeld in artikel 10, eerste lid, onderdeel a, van de verordening, de directeur of een belanghebbende, of en op welk tijdstip de EGTS is ontbonden in het geval volgens de overeenkomst het intreden van een gebeurtenis de ontbinding tot gevolg heeft die niet een besluit of een op ontbinding gerichte handeling is. De beschikking is voor een ieder bindend. De in kracht van gewijsde gegane uitspraak, inhoudende de verklaring, wordt door de zorg van de griffier ingeschreven in het register, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0026784&hoofdstuk=3&artikel=11&z=2011-02-23&g=2011-02-23), en toegezonden aan Onze Minister.
 
-3. Aan Onze Minister en het register, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0026784&hoofdstuk=3&artikel=11&z=2009-12-09&g=2009-12-09), wordt van de ontbinding opgaaf gedaan:
+3. Aan Onze Minister en het register, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0026784&hoofdstuk=3&artikel=11&z=2011-02-23&g=2011-02-23), wordt van de ontbinding opgaaf gedaan:
 
 - a. in het geval, bedoeld in het eerste lid, onderdeel a, door de vereffenaar, indien deze er is en anders door de directeur;
 
