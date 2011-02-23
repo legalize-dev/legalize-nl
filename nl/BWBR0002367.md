@@ -4,7 +4,7 @@ identifier: "BWBR0002367"
 country: "nl"
 rank: "wet"
 publication_date: "2022-05-01"
-last_updated: "2011-01-01"
+last_updated: "2011-02-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002367"
 soort: "wet"
@@ -157,7 +157,7 @@ Slechts Nederlanders kunnen worden benoemd tot vice-president of tot lid.
 
 - b. het lidmaatschap van publiekrechtelijke colleges, waarvoor de keuze geschiedt bij krachtens wettelijk voorschrift uitgeschreven verkiezingen;
 
-- c. het ambt of beroep van advocaat, procureur, notaris, accountant, belastingconsulent of zaakwaarnemer;
+- c. het ambt of beroep van advocaat, notaris, accountant, belastingconsulent of zaakwaarnemer;
 
 - d. betrekkingen waarvan de uitoefening ongewenst is met het oog op een goede vervulling van hun ambt of op de handhaving van hun onpartijdigheid en onafhankelijkheid of van het vertrouwen daarin.
 
@@ -187,7 +187,7 @@ De vice-president wordt bij verhindering of ontstentenis vervangen door het ouds
 
 3. De staatsraden worden bij koninklijk besluit op voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties in overeenstemming met Onze Minister van Justitie voor het leven benoemd. Voor zover zij niet met rechtspraak worden belast, kunnen zij voor een bepaalde tijd van ten minste drie jaren worden benoemd. Vacatures worden in de Staatscourant gepubliceerd onder opgave van het profiel van de gezochte kandidaat of kandidaten. De Tweede Kamer der Staten-Generaal voert ten minste eenmaal per jaar overleg met de vice-president over de vacatures. Voor de benoeming doet de Raad een aanbeveling. De aanbeveling wordt gedaan gehoord de afdeling of afdelingen van de Raad waarvan de te benoemen staatsraad deel zal uitmaken.
 
-4. De [artikelen 2, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=2&z=2011-01-01&g=2011-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=3&z=2011-01-01&g=2011-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=4&z=2011-01-01&g=2011-01-01), [5, eerste lid, aanhef en onder d, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=5&z=2011-01-01&g=2011-01-01), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=6&z=2011-01-01&g=2011-01-01) zijn op hen van overeenkomstige toepassing.
+4. De [artikelen 2, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=2&z=2011-02-23&g=2011-02-23), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=3&z=2011-02-23&g=2011-02-23), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=4&z=2011-02-23&g=2011-02-23), [5, eerste lid, aanhef en onder d, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=5&z=2011-02-23&g=2011-02-23), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=6&z=2011-02-23&g=2011-02-23) zijn op hen van overeenkomstige toepassing.
 
 ##### Artikel 17
 
@@ -211,7 +211,7 @@ De vice-president wordt bij verhindering of ontstentenis vervangen door het ouds
 
 2. Een staatsraad in buitengewone dienst neemt slechts deel aan de werkzaamheden van de Raad of van een van zijn afdelingen, voorzover hij daartoe door de vice-president is opgeroepen.
 
-3. De [artikelen 2, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=2&z=2011-01-01&g=2011-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=3&z=2011-01-01&g=2011-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=4&z=2011-01-01&g=2011-01-01), [5, eerste lid, aanhef en onder d, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=5&z=2011-01-01&g=2011-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=6&z=2011-01-01&g=2011-01-01), [8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=2&artikel=8&z=2011-01-01&g=2011-01-01), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=2&artikel=9&z=2011-01-01&g=2011-01-01) zijn van overeenkomstige toepassing.
+3. De [artikelen 2, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=2&z=2011-02-23&g=2011-02-23), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=3&z=2011-02-23&g=2011-02-23), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=4&z=2011-02-23&g=2011-02-23), [5, eerste lid, aanhef en onder d, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=5&z=2011-02-23&g=2011-02-23), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=6&z=2011-02-23&g=2011-02-23), [8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=2&artikel=8&z=2011-02-23&g=2011-02-23), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=2&artikel=9&z=2011-02-23&g=2011-02-23) zijn van overeenkomstige toepassing.
 
 ##### Artikel 11
 
@@ -333,7 +333,7 @@ De Afdeling advisering adviseert Ons voorts indien zij dit nodig acht.
 
 ##### Artikel 22
 
-In de gevallen, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=II&afdeling=1&artikel=17&z=2011-01-01&g=2011-01-01), wordt de aangelegenheid hetzij door Ons, op voordracht van Onze Minister wie het aangaat, hetzij door Onze Minister krachtens koninklijke machtiging, ter overweging aanhangig gemaakt.
+In de gevallen, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=II&afdeling=1&artikel=17&z=2011-02-23&g=2011-02-23), wordt de aangelegenheid hetzij door Ons, op voordracht van Onze Minister wie het aangaat, hetzij door Onze Minister krachtens koninklijke machtiging, ter overweging aanhangig gemaakt.
 
 ##### Artikel 23
 
@@ -411,9 +411,9 @@ Van de koninklijke besluiten in aangelegenheden, waarover de Afdeling advisering
 
 - a. adviezen van de Afdeling advisering, door Ons gevraagd,
 
-- b. adviezen als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=II&afdeling=1&artikel=21&z=2011-01-01&g=2011-01-01),
+- b. adviezen als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=II&afdeling=1&artikel=21&z=2011-02-23&g=2011-02-23),
 
-- c. voorlichting in aangelegenheden van wetgeving en bestuur als bedoeld in [artikel 21a](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=II&afdeling=1&artikel=21a&z=2011-01-01&g=2011-01-01).
+- c. voorlichting in aangelegenheden van wetgeving en bestuur als bedoeld in [artikel 21a](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=II&afdeling=1&artikel=21a&z=2011-02-23&g=2011-02-23).
 
 2. Openbaarmaking van de adviezen, bedoeld in het eerste lid onder a, geschiedt tezamen met openbaarmaking van de aan de Afdeling advisering voorgelegde tekst en van het nader rapport aan Ons. Zij heeft plaats voor wat betreft
 
@@ -425,7 +425,7 @@ Van de koninklijke besluiten in aangelegenheden, waarover de Afdeling advisering
 
 - d. adviezen over algemene maatregelen van bestuur en andere koninklijke besluiten: gelijktijdig met de bekendmaking.
 
-3. Openbaarmaking van adviezen als bedoeld in het eerste lid, onder a, welke niet kan geschieden zoals voorzien in het tweede lid, alsmede openbaarmaking van adviezen als bedoeld in het eerste lid, onder b en van voorlichting in aangelegenheden van wetgeving en bestuur als bedoeld in het eerste lid, onder c, geschiedt uiterlijk binnen dertig dagen nadat is beslist op het advies, de voordracht of een ander voorstel van de Afdeling advisering onderscheidenlijk op de voorlichting in aangelegenheden van wetgeving en bestuur van die Afdeling. Daarbij worden mede openbaar gemaakt het nader rapport en, in voorkomend geval, de aan de Afdeling advisering voorgelegde tekst alsmede het koninklijk besluit, indien de openbaarmaking niet elders is geregeld. De openbaarmaking heeft plaats op de wijze, voorgeschreven in [artikel 9, eerste en tweede lid, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=9).
+3. Openbaarmaking van adviezen als bedoeld in het eerste lid, onder a, welke niet kan geschieden zoals voorzien in het tweede lid, alsmede openbaarmaking van adviezen als bedoeld in het eerste lid, onder b en van voorlichting in aangelegenheden van wetgeving en bestuur als bedoeld in het eerste lid, onder c, geschiedt uiterlijk binnen dertig dagen nadat is beslist op het advies, de voordracht of een ander voorstel van de Afdeling advisering onderscheidenlijk op de voorlichting in aangelegenheden van wetgeving en bestuur van die Afdeling. Daarbij worden, in voorkomend geval, mede openbaar gemaakt het nader rapport en de aan de Afdeling advisering voorgelegde tekst alsmede het koninklijk besluit, indien de openbaarmaking niet elders is geregeld. De openbaarmaking heeft plaats op de wijze, voorgeschreven in [artikel 9, eerste en tweede lid, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=9).
 
 4. Openbaarmaking blijft achterwege in de gevallen, bedoeld in [artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10).
 
@@ -435,7 +435,7 @@ Van de koninklijke besluiten in aangelegenheden, waarover de Afdeling advisering
 
 ##### Artikel 27
 
-1. De Tweede Kamer der Staten-Generaal en de Staten-Generaal in verenigde vergadering dragen zorg voor het openbaar maken van de adviezen van de Afdeling advisering, bedoeld in [artikel 18, eerste en tweede lid, onderscheidenlijk vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=II&afdeling=1&artikel=18&z=2011-01-01&g=2011-01-01), alsmede voor een schriftelijke reactie op deze adviezen.
+1. De Tweede Kamer der Staten-Generaal en de Staten-Generaal in verenigde vergadering dragen zorg voor het openbaar maken van de adviezen van de Afdeling advisering, bedoeld in [artikel 18, eerste en tweede lid, onderscheidenlijk vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=II&afdeling=1&artikel=18&z=2011-02-23&g=2011-02-23), alsmede voor een schriftelijke reactie op deze adviezen.
 
 2. Openbaarmaking van de adviezen geschiedt tezamen met openbaarmaking van de schriftelijke reactie.
 
@@ -541,7 +541,7 @@ Vervallen door vernummering.
 
 2. De meervoudige kamers bestaan uit drie leden, van wie een als voorzitter optreedt.
 
-3. Leden van de Afdeling bestuursrechtspraak die niet voldoen aan het vereiste, gesteld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=2&z=2011-01-01&g=2011-01-01), kunnen:
+3. Leden van de Afdeling bestuursrechtspraak die niet voldoen aan het vereiste, gesteld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=2&z=2011-02-23&g=2011-02-23), kunnen:
 
 - a. geen zitting hebben in een enkelvoudige kamer en
 
@@ -1029,15 +1029,15 @@ De staatsraden hebben bij de vervulling van hun taak de bevoegdheden van een lid
 
 - b. de leden, de staatsraden en de staatsraden in buitengewone dienst die in de Afdeling advisering zijn benoemd.
 
-3. De leden van het koninklijk huis, bedoeld in [artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=1&z=2011-01-01&g=2011-01-01), hebben zitting in de Afdeling advisering. Artikel 1, vierde lid, is van overeenkomstige toepassing.
+3. De leden van het koninklijk huis, bedoeld in [artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=1&z=2011-02-23&g=2011-02-23), hebben zitting in de Afdeling advisering. Artikel 1, vierde lid, is van overeenkomstige toepassing.
 
-4. De vice-president is voorzitter van de Afdeling advisering. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=7&z=2011-01-01&g=2011-01-01) is van overeenkomstige toepassing.
+4. De vice-president is voorzitter van de Afdeling advisering. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=7&z=2011-02-23&g=2011-02-23) is van overeenkomstige toepassing.
 
 ##### Artikel 21a
 
 1. De Afdeling advisering dient op verzoek Onze Ministers dan wel een van beide kamers der Staten-Generaal van voorlichting in aangelegenheden van wetgeving en bestuur.
 
-2. Indien voorlichting wordt gegeven aan een van beide kamers der Staten-Generaal, draagt deze kamer zorg voor de openbaarmaking, bedoeld in [artikel 26, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=II&afdeling=1&artikel=26&z=2011-01-01&g=2011-01-01).
+2. Indien voorlichting wordt gegeven aan een van beide kamers der Staten-Generaal, draagt deze kamer zorg voor de openbaarmaking, bedoeld in [artikel 26, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=II&afdeling=1&artikel=26&z=2011-02-23&g=2011-02-23).
 
 ### Afdeling 2. Overige bepalingen
 
@@ -1061,7 +1061,7 @@ De staatsraden hebben bij de vervulling van hun taak de bevoegdheden van een lid
 
 ##### Artikel 27c
 
-1. De vice-president regelt de werkzaamheden van de Afdeling advisering.
+1. De voorzitter regelt de werkzaamheden van de Afdeling advisering.
 
 2. De regeling wordt in de Staatscourant bekendgemaakt.
 
@@ -1073,7 +1073,7 @@ De staatsraden hebben bij de vervulling van hun taak de bevoegdheden van een lid
 
 - b. een ontwerp-besluit omtrent een geschil als bedoeld in [artikel 136 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=136), kan de Afdeling advisering belanghebbenden, getuigen, deskundigen en tolken oproepen om te worden gehoord.
 
-2. [Artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=III&afdeling=2&artikel=45&z=2011-01-01&g=2011-01-01) en de [artikelen 8:24](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:24), [8:25](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:25), [8:27 tot en met 8:29](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:27), [8:31 tot en met 8:36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:31), [8:39](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:39), [8:50](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:50) en [8:61 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:61) zijn van overeenkomstige toepassing.
+2. [Artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=III&afdeling=2&artikel=45&z=2011-02-23&g=2011-02-23) en de [artikelen 8:24](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:24), [8:25](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:25), [8:27 tot en met 8:29](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:27), [8:31 tot en met 8:36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:31), [8:39](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:39), [8:50](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:50) en [8:61 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:61) zijn van overeenkomstige toepassing.
 
 3. Een door Onze Minister wie het aangaat aangewezen ambtenaar kan bij de beraadslaging aanwezig zijn om inlichtingen te geven.
 
@@ -1091,13 +1091,13 @@ De vice-president, de leden, de staatsraden en de staatsraden in buitengewone di
 
 ##### Artikel 30a
 
-1. Bij koninklijk besluit op voordracht van Onze Minister van Justitie in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties wordt uit de leden van de afdeling bestuursrechtspraak die voldoen aan het vereiste, gesteld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=2&z=2011-01-01&g=2011-01-01), een voorzitter van de afdeling bestuursrechtspraak benoemd. Voor de benoeming doet de Raad een aanbeveling, de afdeling bestuursrechtspraak gehoord.
+1. Bij koninklijk besluit op voordracht van Onze Minister van Justitie in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties wordt uit de leden van de afdeling bestuursrechtspraak die voldoen aan het vereiste, gesteld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=2&z=2011-02-23&g=2011-02-23), een voorzitter van de afdeling bestuursrechtspraak benoemd. Voor de benoeming doet de Raad een aanbeveling, de afdeling bestuursrechtspraak gehoord.
 
 2. De benoeming geldt voor het leven. Zij kan slechts op verzoek van de voorzitter worden ingetrokken en vervalt in geval van ontslag als lid van de Raad.
 
-3. De voorzitter kan worden vervangen door een ander lid van de Afdeling bestuursrechtspraak dat voldoet aan het vereiste, gesteld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=2&z=2011-01-01&g=2011-01-01).
+3. De voorzitter kan worden vervangen door een ander lid van de Afdeling bestuursrechtspraak dat voldoet aan het vereiste, gesteld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=2&z=2011-02-23&g=2011-02-23).
 
-4. De voorzitter is lid van de raad van state, zo nodig in afwijking van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=1&z=2011-01-01&g=2011-01-01).
+4. De voorzitter is lid van de Raad van State, zo nodig in afwijking van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&afdeling=1&artikel=1&z=2011-02-23&g=2011-02-23).
 
 5. De voorzitter regelt de werkzaamheden van de Afdeling bestuursrechtspraak.
 
@@ -1153,9 +1153,9 @@ De Afdeling bestuursrechtspraak is belast met de berechting van de bij de wet aa
 
 ##### Artikel 52
 
-1. Van de verzoeker om een voorlopige voorziening wordt door de secretaris een griffierecht geheven. [Artikel 51, eerste lid, tweede en derde volzin, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=III&afdeling=3&artikel=51&z=2011-01-01&g=2011-01-01), is van overeenkomstige toepassing.
+1. Van de verzoeker om een voorlopige voorziening wordt door de secretaris een griffierecht geheven. [Artikel 51, eerste lid, tweede en derde volzin, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=III&afdeling=3&artikel=51&z=2011-02-23&g=2011-02-23), is van overeenkomstige toepassing.
 
-2. [Artikel 51, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=III&afdeling=3&artikel=51&z=2011-01-01&g=2011-01-01), is van overeenkomstige toepassing, met dien verstande dat de termijn binnen welke de bijschrijving of storting van het verschuldigde bedrag dient plaats te vinden, twee weken bedraagt. De voorzitter kan een kortere termijn stellen.
+2. [Artikel 51, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=III&afdeling=3&artikel=51&z=2011-02-23&g=2011-02-23), is van overeenkomstige toepassing, met dien verstande dat de termijn binnen welke de bijschrijving of storting van het verschuldigde bedrag dient plaats te vinden, twee weken bedraagt. De voorzitter kan een kortere termijn stellen.
 
 3. Indien het verzoek wordt ingetrokken omdat het bestuursorgaan, onderscheidenlijk de belanghebbende tot wie het bestreden besluit is gericht, aan de voorzitter schriftelijk heeft medegedeeld de uitvoering van het bestreden besluit hangende de procedure met betrekking tot de hoofdzaak op te schorten dan wel de gevraagde voorlopige maatregelen te zullen nemen, wordt het betaalde griffierecht door de secretaris terugbetaald. In de overige gevallen kan het bestuursorgaan, indien het verzoek wordt ingetrokken, het betaalde griffierecht geheel of gedeeltelijk vergoeden.
 
@@ -1187,7 +1187,7 @@ De Afdeling bestuursrechtspraak bevestigt de uitspraak van de rechtbank, hetzij 
 
 ##### Artikel 56
 
-In de gevallen, bedoeld in [artikel 55, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=III&afdeling=3&artikel=55&z=2011-01-01&g=2011-01-01), kan de Afdeling bestuursrechtspraak de zaak zonder terugwijzing afdoen, indien zij naar haar oordeel geen nadere behandeling door de rechtbank behoeft.
+In de gevallen, bedoeld in [artikel 55, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=III&afdeling=3&artikel=55&z=2011-02-23&g=2011-02-23), kan de Afdeling bestuursrechtspraak de zaak zonder terugwijzing afdoen, indien zij naar haar oordeel geen nadere behandeling door de rechtbank behoeft.
 
 ##### Artikel 57
 
