@@ -4,7 +4,7 @@ identifier: "BWBR0002077"
 country: "nl"
 rank: "wet"
 publication_date: "2011-02-23"
-last_updated: "2002-01-01"
+last_updated: "2011-02-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002077"
 soort: "wet"
@@ -46,19 +46,19 @@ Deze wet verstaat onder:
 
 - I. "Militairen":
 
-- a. personen, die - voor April 1942 in militaire dienst getreden bij het voormalige Koninklijk Nederlands Indonesisch Leger - op 27 December 1949 nog in militaire dienst waren bij dat Leger, voor zover zij Nederlander zijn en zolang zij deze status behouden, tenzij [artikel 7**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=7a&z=2002-01-01&g=2002-01-01) op hen van toepassing is, dan wel dispensatie is verleend als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=4&z=2002-01-01&g=2002-01-01);
+- a. personen, die - voor April 1942 in militaire dienst getreden bij het voormalige Koninklijk Nederlands Indonesisch Leger - op 27 December 1949 nog in militaire dienst waren bij dat Leger, voor zover zij Nederlander zijn en zolang zij deze status behouden, tenzij [artikel 7**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=7a&z=2011-02-23&g=2011-02-23) op hen van toepassing is, dan wel dispensatie is verleend als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=4&z=2011-02-23&g=2011-02-23);
 
-- b. personen, die - na Maart 1942 in militaire dienst getreden bij het voormalige Koninklijk Nederlands Indonesisch Leger - op 27 December 1949 nog in militaire dienst waren bij dat Leger, voor zover zij Nederlander zijn en zolang zij deze status behouden, tenzij [artikel 7**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=7a&z=2002-01-01&g=2002-01-01) op hen van toepassing is, dan wel dispensatie is verleend als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=4&z=2002-01-01&g=2002-01-01);
+- b. personen, die - na Maart 1942 in militaire dienst getreden bij het voormalige Koninklijk Nederlands Indonesisch Leger - op 27 December 1949 nog in militaire dienst waren bij dat Leger, voor zover zij Nederlander zijn en zolang zij deze status behouden, tenzij [artikel 7**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=7a&z=2011-02-23&g=2011-02-23) op hen van toepassing is, dan wel dispensatie is verleend als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=4&z=2011-02-23&g=2011-02-23);
 
 - c. overige personen, die op 27 December 1949 in militaire dienst waren bij het voormalige Koninklijk Nederlands Indonesisch Leger.
 
-- II. "Beroepsmilitairen": personen, die op 27 December 1949 in vaste militaire dienst waren bij het voormalige Koninklijk Nederlands Indonesisch Leger, voor zover zij Nederlander zijn en zolang zij deze status behouden, tenzij [artikel 7**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=7a&z=2002-01-01&g=2002-01-01) op hen van toepassing is, dan wel dispensatie is verleend als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=4&z=2002-01-01&g=2002-01-01).
+- II. "Beroepsmilitairen": personen, die op 27 December 1949 in vaste militaire dienst waren bij het voormalige Koninklijk Nederlands Indonesisch Leger, voor zover zij Nederlander zijn en zolang zij deze status behouden, tenzij [artikel 7**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=7a&z=2011-02-23&g=2011-02-23) op hen van toepassing is, dan wel dispensatie is verleend als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=4&z=2011-02-23&g=2011-02-23).
 
-- III. "Gewezen militairen": personen, die na 9 Mei 1940 en vóór 1 September 1945 uit de militaire dienst bij het voormalige Koninklijk Nederlands Indonesisch Leger zijn ontslagen wegens bij bevolen dienstverrichtingen bekomen letsel, dan wel in Maart 1942 in militaire dienst waren of na 1 Maart 1942 in militaire dienst zijn getreden bij het voormalige Koninklijk Nederlands Indonesisch Leger, na Augustus 1945 in overheidsdienst aan de wederopbouw van Indonesië daadwerkelijk hebben medegewerkt dan wel ter beslissing van de commissie daartoe wel bereid zijnde, buiten eigen schuld of toedoen daartoe verhinderd zijn geweest en na Augustus 1945 doch vóór 27 December 1949 uit de dienst zijn ontslagen, voor zover zij Nederlander zijn en zolang zij deze status behouden, tenzij [artikel 7**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=7a&z=2002-01-01&g=2002-01-01) op hen van toepassing is, dan wel dispensatie is verleend als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=4&z=2002-01-01&g=2002-01-01).
+- III. "Gewezen militairen": personen, die na 9 Mei 1940 en vóór 1 September 1945 uit de militaire dienst bij het voormalige Koninklijk Nederlands Indonesisch Leger zijn ontslagen wegens bij bevolen dienstverrichtingen bekomen letsel, dan wel in Maart 1942 in militaire dienst waren of na 1 Maart 1942 in militaire dienst zijn getreden bij het voormalige Koninklijk Nederlands Indonesisch Leger, na Augustus 1945 in overheidsdienst aan de wederopbouw van Indonesië daadwerkelijk hebben medegewerkt dan wel ter beslissing van de commissie daartoe wel bereid zijnde, buiten eigen schuld of toedoen daartoe verhinderd zijn geweest en na Augustus 1945 doch vóór 27 December 1949 uit de dienst zijn ontslagen, voor zover zij Nederlander zijn en zolang zij deze status behouden, tenzij [artikel 7**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=7a&z=2011-02-23&g=2011-02-23) op hen van toepassing is, dan wel dispensatie is verleend als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=4&z=2011-02-23&g=2011-02-23).
 
-- IV. "Nagelaten betrekkingen": betrekkingen van een overleden militair als bedoeld onder I**a**, een overleden beroepsmilitair, een overleden gewezen militair, zomede van een Nederlander, wiens overlijden valt of geacht wordt te vallen na Maart 1942, dan wel tussen 9 Mei 1940 en April 1942 het gevolg was van bevolen dienstverrichtingen en die op het tijdstip van overlijden in militaire dienst was bij het voormalige Koninklijk Nederlands Indonesisch Leger, een en ander voor zover zij op grond van dat overlijden gerechtigd zijn tot een uitkering van overheidswege en voor zover zij Nederlander zijn en zolang zij deze status behouden, tenzij [artikel 7**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=7a&z=2002-01-01&g=2002-01-01) op hen van toepassing is, dan wel dispensatie is verleend als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=4&z=2002-01-01&g=2002-01-01).
+- IV. "Nagelaten betrekkingen": betrekkingen van een overleden militair als bedoeld onder I**a**, een overleden beroepsmilitair, een overleden gewezen militair, zomede van een Nederlander, wiens overlijden valt of geacht wordt te vallen na Maart 1942, dan wel tussen 9 Mei 1940 en April 1942 het gevolg was van bevolen dienstverrichtingen en die op het tijdstip van overlijden in militaire dienst was bij het voormalige Koninklijk Nederlands Indonesisch Leger, een en ander voor zover zij op grond van dat overlijden gerechtigd zijn tot een uitkering van overheidswege en voor zover zij Nederlander zijn en zolang zij deze status behouden, tenzij [artikel 7**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=7a&z=2011-02-23&g=2011-02-23) op hen van toepassing is, dan wel dispensatie is verleend als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=4&z=2011-02-23&g=2011-02-23).
 
-- V. "De commissie": de bevoegde commissie als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=7&z=2002-01-01&g=2002-01-01).
+- V. "De commissie": de bevoegde commissie als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=7&z=2011-02-23&g=2011-02-23).
 
 - VI. "Onze Minister": Onze Minister, belast met de uitvoering van de Garantiewet Militairen K.N.I.L.
 
@@ -72,7 +72,7 @@ Deze wet verstaat onder:
 
 - a. aan de militairen: de voldoening van alle rechten en aanspraken, welke hun uit hoofde van de door hen na 26 December 1949 bij het voormalige Koninklijk Nederlands Indonesisch Leger verrichte dienst toekwamen volgens de op die datum geldende regelingen;
 
-- b. aan de militairen, behorende tot de in [artikel 1, onder I, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=1&z=2002-01-01&g=2002-01-01), bedoelde groep: bij ontslag overeenkomstig artikel 38 van de "Regelingen betreffende militaire aangelegenheden", II, Hoofdstuk V, gehecht aan de Overgangsovereenkomst, behorende bij de Mantelresolutie der Ronde Tafel Conferentie, de voldoening van alle rechten en aanspraken, welke zijn vervat in genoemd Hoofdstuk V;
+- b. aan de militairen, behorende tot de in [artikel 1, onder I, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=1&z=2011-02-23&g=2011-02-23), bedoelde groep: bij ontslag overeenkomstig artikel 38 van de "Regelingen betreffende militaire aangelegenheden", II, Hoofdstuk V, gehecht aan de Overgangsovereenkomst, behorende bij de Mantelresolutie der Ronde Tafel Conferentie, de voldoening van alle rechten en aanspraken, welke zijn vervat in genoemd Hoofdstuk V;
 
 - c. aan de gewezen militairen: de voldoening van alle rechten en aanspraken, welke hun op grond van het hun verleende ontslag uit de dienst bij het voormalige Koninklijk Nederlands Indonesisch Leger volgens de ten tijde van dat ontslag van kracht zijnde regelingen toekomen.
 
@@ -86,7 +86,7 @@ Onder gezinsleden worden voor de toepassing van dit lid verstaan de leden van ee
 
 ##### Artikel 3
 
-1. De beroepsmilitairen, die niet geplaatst kunnen of konden worden bij de Koninklijke Landmacht en dientengevolge voor of op 25 Juli 1950 wegens reorganisatie bij het voormalige Koninklijk Nederlands Indonesisch Leger werden ontslagen, kunnen - mits dit ontslag eervol is geweest - desverlangd in aanmerking komen voor toepassing van afvloeiingsvoorwaarden, gelijkluidend aan de afvloeiingsvoorwaarden voor overheidsdienaren in vaste dienst, opgenomen onder A in de bijlage bij de Overeenkomst inzake de positie van de Burgerlijke Overheidsdienaren in verband met de souvereiniteitsoverdracht, echter met aftrek van de inkomsten, welke zij genieten ingevolge de sociale voorzieningen als bedoeld in de regelingen, genoemd in [artikel 2, lid 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=2&z=2002-01-01&g=2002-01-01).
+1. De beroepsmilitairen, die niet geplaatst kunnen of konden worden bij de Koninklijke Landmacht en dientengevolge voor of op 25 Juli 1950 wegens reorganisatie bij het voormalige Koninklijk Nederlands Indonesisch Leger werden ontslagen, kunnen - mits dit ontslag eervol is geweest - desverlangd in aanmerking komen voor toepassing van afvloeiingsvoorwaarden, gelijkluidend aan de afvloeiingsvoorwaarden voor overheidsdienaren in vaste dienst, opgenomen onder A in de bijlage bij de Overeenkomst inzake de positie van de Burgerlijke Overheidsdienaren in verband met de souvereiniteitsoverdracht, echter met aftrek van de inkomsten, welke zij genieten ingevolge de sociale voorzieningen als bedoeld in de regelingen, genoemd in [artikel 2, lid 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=2&z=2011-02-23&g=2011-02-23).
 
 2. Bij toepassing van de in het vorige lid genoemde afvloeiingsvoorwaarden op beroepsmilitairen, die niet voor een diensttijdpensioen in aanmerking komen, worden zij in het genot gesteld van het volgens de betrekkelijke rangspensioenreglementen toe te kennen pensioen bij ontslag wegens ziels- of lichaamsgebreken, niet ontstaan in en door de dienst, vermeerderd met 1/9 gedeelte van het in die reglementen voor de betrokken rang gestelde normale pensioenbedrag, met dien verstande, dat hierdoor het maximum rangspensioen voor de betrokken rang niet wordt overschreden.
 
@@ -106,7 +106,7 @@ Onder gezinsleden worden voor de toepassing van dit lid verstaan de leden van ee
 
 ##### Artikel 3b
 
-In de gevallen, waarin in de op 26 December 1949 van kracht zijnde regelingen aan de Kroon of aan de Gouverneur-Generaal de bevoegdheid was voorbehouden om ter aanvulling of in afwijking van die regelingen beslissingen te nemen of bijzondere voorzieningen te treffen, worden deze bevoegdheden, behoudens het bepaalde in [artikel 3**a**, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=3a&z=2002-01-01&g=2002-01-01), voor de toepassing van deze wet uitgeoefend door Onze Minister in overeenstemming met Onze Minister van Financiën.
+In de gevallen, waarin in de op 26 December 1949 van kracht zijnde regelingen aan de Kroon of aan de Gouverneur-Generaal de bevoegdheid was voorbehouden om ter aanvulling of in afwijking van die regelingen beslissingen te nemen of bijzondere voorzieningen te treffen, worden deze bevoegdheden, behoudens het bepaalde in [artikel 3**a**, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=3a&z=2011-02-23&g=2011-02-23), voor de toepassing van deze wet uitgeoefend door Onze Minister in overeenstemming met Onze Minister van Financiën.
 
 ##### Artikel 3c
 
@@ -116,9 +116,9 @@ Op pensioen of onderstand bij wijze van pensioen wordt, indien bij de vaststelli
 
 1. De uitkeringen, waartoe het Rijk uit hoofde van of krachtens deze wet gehouden is, worden, voor zover niet op andere wijze bij de wet geregeld en behoudens het bepaalde in het derde lid, vastgesteld en toegekend door Onze Minister en naar boven afgerond tot het naastbijliggende veelvoud van één euro of één rupiah.
 
-2. Met inachtneming van het in [artikel 3**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=3a&z=2002-01-01&g=2002-01-01) bepaalde, zijn op de voet van de op 26 December 1949 van kracht zijnde regelingen over de in het eerste lid bedoelde uitkeringen bijdragen verschuldigd voor weduwenpensioenen en wezenonderstanden, indien de tot de uitkering gerechtigde voor zijn weduwe en wezen daarop recht heeft.
+2. Met inachtneming van het in [artikel 3**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=3a&z=2011-02-23&g=2011-02-23) bepaalde, zijn op de voet van de op 26 December 1949 van kracht zijnde regelingen over de in het eerste lid bedoelde uitkeringen bijdragen verschuldigd voor weduwenpensioenen en wezenonderstanden, indien de tot de uitkering gerechtigde voor zijn weduwe en wezen daarop recht heeft.
 
-3. De periodieke uitkeringen aan buiten het grondgebied van de Republiek Indonesië gevestigde weduwen en wezen, uit hoofde van of krachtens de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=2&z=2002-01-01&g=2002-01-01), van deze wet gegeven garantie, worden met inachtneming voor zover nodig van de door Onze Minister te geven aanwijzingen toegekend door de Raad van Beheer van de Pensioenstichting ten laste van die stichting.
+3. De periodieke uitkeringen aan buiten het grondgebied van de Republiek Indonesië gevestigde weduwen en wezen, uit hoofde van of krachtens de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=2&z=2011-02-23&g=2011-02-23), van deze wet gegeven garantie, worden met inachtneming voor zover nodig van de door Onze Minister te geven aanwijzingen toegekend door de Raad van Beheer van de Pensioenstichting ten laste van die stichting.
 
 ##### Artikel 3e
 
@@ -176,7 +176,7 @@ Ten aanzien van hen, voor wie rangspensioenreglementen gelden, zal door Ons naar
 
 3. Indien tengevolge van de in het vorige lid omschreven wijze van korting de som van het inkomen uit arbeid en van het wachtgeld, pensioen of onderstand per maand minder zou bedragen dan € 95,29 wordt het kortingsbedrag berekend door de som van het inkomen uit arbeid en van het wachtgeld, pensioen of de onderstand te verminderen met een bedrag van € 95,29 terwijl, indien deze som per maand € 95,29 of minder bedraagt, geen korting wordt toegepast.
 
-4. Van het bepaalde in het tweede en derde lid kan door Onze Minister ten gunste van bepaalde personen dan wel met betrekking tot bepaalde inkomsten of perioden, waarin deze worden verkregen, worden afgeweken, zonodig onder het stellen van voorwaarden.
+4. Onze Minister kan het bepaalde in artikel 6, eerste en tweede lid, buiten toepassing laten, of daarvan afwijken, zo nodig onder het stellen van voorwaarden, voor zover toepassing ervan zal leiden tot een onbillijkheid van overwegende aard, gelet op het belang van het bieden van waarborgen van het Rijk ten gunste van de betrokken militairen, beroepsmilitairen, gewezen militairen en hun nagelaten betrekkingen.
 
 5. Bij niet- of niet behoorlijke nakoming van de in het eerste lid bedoelde verplichtingen, alsmede indien de inkomsten zonder voldoende reden vrijwillig worden prijsgegeven of door eigen schuld verloren gaan, kan de commissie op daartoe van of vanwege Onze Minister ontvangen verzoek beslissen, dat de uitkering gerekend van een door haar te bepalen tijdstip geheel of gedeeltelijk, voor een bepaalde tijdsduur, dan wel blijvend, wordt gestaakt.
 
@@ -196,7 +196,7 @@ Ten aanzien van hen, voor wie rangspensioenreglementen gelden, zal door Ons naar
 
 2. Ambten of betrekkingen buiten het land, waarin betrokkene is gevestigd, behoeven niet te worden aanvaard.
 
-3. Het bepaalde in [artikel 6, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=6&z=2002-01-01&g=2002-01-01), is op een militair of gewezen militair bedoeld in het eerste lid, van overeenkomstige toepassing.
+3. Het bepaalde in [artikel 6, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=6&z=2011-02-23&g=2011-02-23), is op een militair of gewezen militair bedoeld in het eerste lid, van overeenkomstige toepassing.
 
 ##### Artikel 7
 
@@ -214,23 +214,23 @@ Ten aanzien van hen, voor wie rangspensioenreglementen gelden, zal door Ons naar
 
 ##### Artikel 7a
 
-1. Voor de toepassing van deze wet zullen Indonesische staatsburgers gewezen Nederlanders worden geacht hun Nederlanderschap te hebben behouden, met dien verstande, dat de [artikelen 3**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=3a&z=2002-01-01&g=2002-01-01) en [3**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=3b&z=2002-01-01&g=2002-01-01) voor hen niet van toepassing zijn en dat de garanties zich te hunnen aanzien niet uitstrekken tot het recht op vrije overtocht naar Nederland.
+1. Voor de toepassing van deze wet zullen Indonesische staatsburgers gewezen Nederlanders worden geacht hun Nederlanderschap te hebben behouden, met dien verstande, dat de [artikelen 3**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=3a&z=2011-02-23&g=2011-02-23) en [3**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=3b&z=2011-02-23&g=2011-02-23) voor hen niet van toepassing zijn en dat de garanties zich te hunnen aanzien niet uitstrekken tot het recht op vrije overtocht naar Nederland.
 
-2. Aan de weduwen en wezen van een overleden Indonesisch staatsburger gewezen Nederlander garandeert het Rijk de voldoening van alle rechten en aanspraken, welke hun op grond van dat overlijden ingevolge het bepaalde in het [tweede lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=2&z=2002-01-01&g=2002-01-01) zouden toekomen, indien de overledene Nederlander zou zijn gebleven, met uitzondering van het recht op vrije overtocht naar Nederland.
+2. Aan de weduwen en wezen van een overleden Indonesisch staatsburger gewezen Nederlander garandeert het Rijk de voldoening van alle rechten en aanspraken, welke hun op grond van dat overlijden ingevolge het bepaalde in het [tweede lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=2&z=2011-02-23&g=2011-02-23) zouden toekomen, indien de overledene Nederlander zou zijn gebleven, met uitzondering van het recht op vrije overtocht naar Nederland.
 
 3. In bijzondere gevallen kan, ter beslissing van de commissie, aan de in het vorige lid bedoelde personen, die, waren zij Nederlanders gebleven, uit hoofde van of krachtens deze wet recht op vrije overtocht naar Nederland zouden hebben, vrij vervoer naar Nederland op redelijke voorwaarden worden verleend.
 
 ##### Artikel 7b
 
-Voor gevallen, waarin deze wet, Hoofdstuk V van de in het eerste lid van [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=2&z=2002-01-01&g=2002-01-01), bedoelde regelingen dan wel de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=3&z=2002-01-01&g=2002-01-01) bedoelde afvloeiingsvoorwaarden niet of niet naar billijkheid voorzien, kunnen door Ons op voordracht van Onze Ministers ten behoeve van de militairen, gewezen militairen en nagelaten betrekkingen aanvullende garanties van het Rijk worden vastgesteld.
+Voor gevallen, waarin deze wet, Hoofdstuk V van de in het eerste lid van [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=2&z=2011-02-23&g=2011-02-23), bedoelde regelingen dan wel de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=3&z=2011-02-23&g=2011-02-23) bedoelde afvloeiingsvoorwaarden niet of niet naar billijkheid voorzien, kunnen door Ons op voordracht van Onze Ministers ten behoeve van de militairen, gewezen militairen en nagelaten betrekkingen aanvullende garanties van het Rijk worden vastgesteld.
 
 ##### Artikel 7c
 
-De garanties strekken zich niet uit over het recht op kindertoelage voor kinderen, voor wie aanspraak bestaat op kinderbijslag ingevolge de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368), de Kinderbijslagwet voor loontrekkenden, of de algemene maatregel van bestuur bedoeld in artikel 10 van laatstgenoemde wet, terwijl de kindertoelage voor die kinderen voor de berekening van de in het [tweede lid van artikel 3**c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=3c&z=2002-01-01&g=2002-01-01) bedoelde duurtetoeslag buiten aanmerking wordt gelaten.
+De garanties strekken zich niet uit over het recht op kindertoelage voor kinderen, voor wie aanspraak bestaat op kinderbijslag ingevolge de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368), de Kinderbijslagwet voor loontrekkenden, of de algemene maatregel van bestuur bedoeld in artikel 10 van laatstgenoemde wet, terwijl de kindertoelage voor die kinderen voor de berekening van de in het [tweede lid van artikel 3**c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=3c&z=2011-02-23&g=2011-02-23) bedoelde duurtetoeslag buiten aanmerking wordt gelaten.
 
 ##### Artikel 8
 
-1. Door Ons kunnen op voordracht van Onze Ministers overeenkomstige garanties als bij de voorgaande artikelen van deze wet zijn verleend, worden vastgesteld ten behoeve van andere Nederlanders, dan genoemd in [artikel 1, onder I of III](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=1&z=2002-01-01&g=2002-01-01), zomede in bijzondere gevallen ten behoeve van niet-Nederlanders, voor zover betrokkenen hebben gediend bij het voormalige Koninklijk Nederlands Indonesisch Leger.
+1. Door Ons kunnen op voordracht van Onze Ministers overeenkomstige garanties als bij de voorgaande artikelen van deze wet zijn verleend, worden vastgesteld ten behoeve van andere Nederlanders, dan genoemd in [artikel 1, onder I of III](https://wetten.overheid.nl/jci1.3:c:BWBR0002077&artikel=1&z=2011-02-23&g=2011-02-23), zomede in bijzondere gevallen ten behoeve van niet-Nederlanders, voor zover betrokkenen hebben gediend bij het voormalige Koninklijk Nederlands Indonesisch Leger.
 
 2. Aan de vaststelling van de in het vorige lid bedoelde garanties kunnen door Ons voorwaarden worden verbonden.
 
