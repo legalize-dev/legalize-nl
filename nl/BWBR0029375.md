@@ -4,7 +4,7 @@ identifier: "BWBR0029375"
 country: "nl"
 rank: "amvb"
 publication_date: "2011-02-24"
-last_updated: "2011-01-01"
+last_updated: "2011-02-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029375"
 soort: "AMvB"
@@ -130,22 +130,22 @@ Wijzigt het Besluit voorkoming dubbele belasting 2001.
 
 1. Dit besluit treedt in werking met ingang van 1 januari 2011, met dien verstande dat:
 
-- a. [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0029375&artikel=I&z=2011-01-01&g=2011-01-01), terugwerkt tot en met 1 januari 2002;
+- a. [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0029375&artikel=I&z=2011-02-24&g=2011-02-24), terugwerkt tot en met 1 januari 2002;
 
-- b. [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0029375&artikel=VI&z=2011-01-01&g=2011-01-01) terugwerkt tot en met 1 januari 2002 en voor het eerst toepassing vindt met betrekking tot jaren die aanvangen op of na 1 januari 2002;
+- b. [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0029375&artikel=VI&z=2011-02-24&g=2011-02-24) terugwerkt tot en met 1 januari 2002 en voor het eerst toepassing vindt met betrekking tot jaren die aanvangen op of na 1 januari 2002;
 
-- c. [artikel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0029375&artikel=XVIII&z=2011-01-01&g=2011-01-01) terugwerkt tot en met 1 januari 2010 en:
+- c. [artikel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0029375&artikel=XVIII&z=2011-02-24&g=2011-02-24) terugwerkt tot en met 1 januari 2010 en:
 
-- 1°. met betrekking tot de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353), met uitzondering van [artikel XVIII, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0029375&artikel=XVIII&z=2011-01-01&g=2011-01-01), en artikel XVIII, onderdeel J, voor het eerst toepassing vindt voor belastingjaren die aanvangen op of na 1 januari 2010;
+- 1°. met betrekking tot de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353), met uitzondering van [artikel XVIII, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0029375&artikel=XVIII&z=2011-02-24&g=2011-02-24), en artikel XVIII, onderdeel J, voor het eerst toepassing vindt voor belastingjaren die aanvangen op of na 1 januari 2010;
 
 - 2°. met betrekking tot de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) voor het eerst toepassing vindt voor belastbare feiten die zich hebben voorgedaan op of na 1 januari 2010.
 
-- d. [artikel XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0029375&artikel=XVII&z=2011-01-01&g=2011-01-01) terugwerkt tot en met 1 mei 2010;
+- d. [artikel XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0029375&artikel=XVII&z=2011-02-24&g=2011-02-24) terugwerkt tot en met 1 mei 2010;
 
-- e. de [artikelen I, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0029375&artikel=I&z=2011-01-01&g=2011-01-01), [II, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0029375&artikel=II&z=2011-01-01&g=2011-01-01), en [XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0029375&artikel=XVI&z=2011-01-01&g=2011-01-01) terugwerken tot en met 10 oktober 2010;
+- e. de [artikelen I, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0029375&artikel=I&z=2011-02-24&g=2011-02-24), [II, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0029375&artikel=II&z=2011-02-24&g=2011-02-24), en [XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0029375&artikel=XVI&z=2011-02-24&g=2011-02-24) terugwerken tot en met 10 oktober 2010;
 
-- f. [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0029375&artikel=III&z=2011-01-01&g=2011-01-01) voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2012.
+- f. [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0029375&artikel=III&z=2011-02-24&g=2011-02-24) voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2012.
 
-2. In afwijking van het eerste lid treden de [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0029375&artikel=IV&z=2011-01-01&g=2011-01-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0029375&artikel=V&z=2011-01-01&g=2011-01-01) in werking met ingang van de dag die is gelegen acht weken na de datum van uitgifte van het Staatsblad waarin het besluit is geplaatst en werken die artikelen terug tot en met 1 januari 2010.
+2. In afwijking van het eerste lid treden de [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0029375&artikel=IV&z=2011-02-24&g=2011-02-24) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0029375&artikel=V&z=2011-02-24&g=2011-02-24) in werking met ingang van de dag die is gelegen acht weken na de datum van uitgifte van het Staatsblad waarin het besluit is geplaatst en werken die artikelen terug tot en met 1 januari 2010.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
