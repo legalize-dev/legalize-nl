@@ -4,7 +4,7 @@ identifier: "BWBR0018714"
 country: "nl"
 rank: "amvb"
 publication_date: "2011-03-01"
-last_updated: "2005-12-20"
+last_updated: "2011-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018714"
 soort: "AMvB"
@@ -64,7 +64,7 @@ Een bewijs van bevoegdheid afgegeven vóór de inwerkingtreding van dit besluit 
 
 - b. treedt [artikel 24a](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=24a) in werking drie maanden na uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
 
-## Bijlage. behorende bij [artikel I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0018714&artikel=I&z=2005-12-20&g=2005-12-20) van het Besluit van 31 augustus 2005 tot wijziging van het Besluit bewijzen van bevoegdheid voor de luchtvaart
+## Bijlage. behorende bij [artikel I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0018714&artikel=I&z=2011-03-01&g=2011-03-01) van het Besluit van 31 augustus 2005 tot wijziging van het Besluit bewijzen van bevoegdheid voor de luchtvaart
 
 Wijzigt het Besluit bewijzen van bevoegdheid voor de luchtvaart.
 
