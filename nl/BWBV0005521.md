@@ -4,7 +4,7 @@ identifier: "BWBV0005521"
 country: "nl"
 rank: "verdrag"
 publication_date: "2011-03-03"
-last_updated: "2011-02-18"
+last_updated: "2011-03-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005521"
 soort: "verdrag"
@@ -562,7 +562,11 @@ Sectie 3. **College van Bewindvoerders**
 
 - (d). Verkiezingen van te kiezen Bewindvoerders vinden plaats met tussenpozen van twee jaar, in overeenstemming met het bepaalde in schema E, aangevuld met de voorschriften die het Fonds passend acht. Bij iedere regelmatige verkiezing van Bewindvoerders kan de Raad van Bestuur voorschriften uitvaardigen die wijzigingen aanbrengen in het stemmenaandeel dat nodig is voor het kiezen van Bewindvoerders ingevolge het bepaalde in schema E.
 
-- (e). Iedere Bewindvoerder benoemt een plaatsvervanger met volledige bevoegdheid voor hem op te treden wanneer hij niet aanwezig is. Wanneer de Bewindvoerders die hen benoemen, aanwezig zijn, kunnen de plaatsvervangers de vergaderingen bijwonen, doch zonder stemrecht.
+- (e). Iedere Bewindvoerder benoemt een plaatsvervanger met volledige bevoegdheid voor hem op te treden wanneer hij niet aanwezig is, met dien verstande dat de Raad van Bestuur voorschriften kan aannemen die een Bewindvoerder die door meer dan een omschreven aantal leden is gekozen in staat stellen twee plaatsvervangers te benoemen. Indien dergelijke voorschriften worden aangenomen, mogen zij slechts worden aangepast in het kader van de regelmatige verkiezing van Bewindvoerders en zullen zij van een Bewindvoerder die twee plaatsvervangers benoemt verlangen: Indien de Bewindvoerders aanwezig zijn, mogen hun plaatsvervangers vergaderingen bijwonen, doch zonder stemrecht.
+
+- (i). dat hij een plaatsvervanger benoemt die optreedt voor de Bewindvoerder wanneer deze niet aanwezig is en beide plaatsvervangers aanwezig zijn; en
+
+- (ii). dat hij de plaatsvervanger benoemt die bevoegdheden van de Bewindvoerder krachtens letter (f) hieronder uitoefent.
 
 - (f). Bewindvoerders blijven in functie totdat hun opvolgers zijn benoemd of gekozen. Indien de plaats van een gekozen Bewindvoerder meer dan negentig dagen voor het einde van zijn ambtsperiode openvalt, wordt voor het resterende deel van de ambtsperiode een andere Bewindvoerder gekozen door de leden die de vorige Bewindvoerder hebben gekozen. Voor verkiezing is een meerderheid van de uitgebrachte stemmen nodig. Zolang de functie onvervuld blijft, oefent de plaatsvervanger van de vorige Bewindvoerder zijn bevoegdheden uit, met uitzondering van het recht een plaatsvervanger te benoemen.
 
@@ -596,7 +600,11 @@ Sectie 4. **Directeur en staf**
 
 Sectie 5. **Stemrecht**
 
-- (a). Ieder lid heeft 250 stemmen, plus een extra stem voor ieder deel van zijn quotum dat gelijk is aan éénhonderdduizend bijzondere trekkingsrechten.
+- (a). Het totale aantal stemmen van elk lid is gelijk aan de som van zijn basisstemmen en zijn op het quotum gebaseerde stemmen.
+
+- (i). De basisstemmen van elk lid zijn gelijk aan het aantal stemmen dat voortvloeit uit de gelijke verdeling onder alle leden van 5,502 procent van het totale aantal stemmen van alle leden, met dien verstande dat er geen gedeelde basisstemmen zijn.
+
+- (ii). Het aantal op het quotum gebaseerde stemmen van elk lid is gelijk aan het aantal stemmen dat voortvloeit uit de toekenning van een stem per deel van zijn quotum dat gelijk is aan honderdduizend bijzondere trekkingsrechten.
 
 - (b). Wanneer met betrekking tot het bepaalde in artikel V, sectie 4 of 5 stemming is vereist, wordt het aantal stemmen waarop ieder lid ingevolge letter (a) hierboven recht heeft, aangepast: met dien verstande dat noch de netto-aankopen, noch de netto-verkopen worden geacht op enig ogenblik een bedrag gelijk aan het quotum van het betrokken lid te overschrijden.
 
