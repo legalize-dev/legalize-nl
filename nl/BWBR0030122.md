@@ -4,7 +4,7 @@ identifier: "BWBR0030122"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-01-01"
-last_updated: "2011-01-01"
+last_updated: "2011-03-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030122"
 soort: "ministeriele-regeling"
@@ -112,7 +112,7 @@ Wijzigt de Uitvoeringsregeling Wob Financiën.
 
 ##### Artikel XVIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wijzigingsregeling Uitvoeringsregeling Belastingdienst 2003, enz. (instelling Landelijk kantoor Belastingregio’s).
 
 ##### Artikel XIX
 
