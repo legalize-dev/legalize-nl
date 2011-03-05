@@ -4,7 +4,7 @@ identifier: "BWBR0022213"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2010-10-01"
+last_updated: "2011-03-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022213"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In deze regeling wordt verstaan onder:
 
 de Minister: de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
 
-financiële zekerheid: financiële zekerheid als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022213&artikel=2&z=2010-10-01&g=2010-10-01).
+financiële zekerheid: financiële zekerheid als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022213&artikel=2&z=2011-03-05&g=2011-03-05).
 
 ##### Artikel 2
 
@@ -60,9 +60,9 @@ Financiële zekerheid kan worden gesteld in de vorm van:
 
 1. De door of namens de kennisgever te stellen financiële zekerheid bedraagt € 450 per ton over te brengen afvalstoffen.
 
-2. In afwijking van het eerste lid bedraagt de door of namens de kennisgever te stellen financiële zekerheid voor de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022213&bijlage=I&z=2010-10-01&g=2010-10-01) bij deze regeling bedoelde afvalstoffen per ton over te brengen afvalstoffen het ingevolge [die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0022213&bijlage=I&z=2010-10-01&g=2010-10-01) voor die afvalstoffen geldende bedrag.
+2. In afwijking van het eerste lid bedraagt de door of namens de kennisgever te stellen financiële zekerheid voor de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022213&bijlage=I&z=2011-03-05&g=2011-03-05) bij deze regeling bedoelde afvalstoffen per ton over te brengen afvalstoffen het ingevolge [die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0022213&bijlage=I&z=2011-03-05&g=2011-03-05) voor die afvalstoffen geldende bedrag.
 
-3. Indien de kosten van nuttige toepassing of verwijdering, daaronder begrepen voorlopige handelingen, alsmede van opslag en vervoer van afvalstoffen, in belangrijke mate afwijken van het op grond van het eerste lid berekende bedrag, kan de Minister een hogere financiële zekerheid verlangen, dan wel genoegen nemen met een lagere financiële zekerheid. Bij de berekening van de kosten, bedoeld in de eerste volzin, gelden als kosten voor opslag en vervoer van afvalstoffen de bedragen, bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022213&bijlage=I&z=2010-10-01&g=2010-10-01) bij deze regeling.
+3. Indien de kosten van nuttige toepassing of verwijdering, daaronder begrepen voorlopige handelingen, alsmede van opslag en vervoer van afvalstoffen, in belangrijke mate afwijken van het op grond van het eerste lid berekende bedrag, kan de Minister een hogere financiële zekerheid verlangen, dan wel genoegen nemen met een lagere financiële zekerheid. Bij de berekening van de kosten, bedoeld in de eerste volzin, gelden als kosten voor opslag en vervoer van afvalstoffen de bedragen, bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022213&bijlage=I&z=2011-03-05&g=2011-03-05) bij deze regeling.
 
 4. Financiële zekerheid wordt gesteld ten behoeve van de Staat der Nederlanden.
 
@@ -118,13 +118,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. Met een verklaring omtrent het gedrag als bedoeld in het eerste lid, onder c, wordt gelijkgesteld een verklaring omtrent het gedrag afgegeven door een daartoe bevoegde instantie in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend verdrag dat Nederland bindt, op basis van onderzoekingen of documenten die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het beschermingsniveau dat met de nationale onderzoekingen of documenten wordt geboden, mits die verklaring niet ouder is dan twee maanden.
 
-3. Voor een aanvraag als bedoeld in het eerste lid wordt gebruikgemaakt van een formulier waarvan het model is opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022213&bijlage=II&z=2010-10-01&g=2010-10-01) bij deze regeling.
+3. Voor een aanvraag als bedoeld in het eerste lid wordt gebruikgemaakt van een formulier waarvan het model is opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022213&bijlage=II&z=2011-03-05&g=2011-03-05) bij deze regeling.
 
 4. Een besluit van de Minister, als bedoeld in het eerste lid, geldt gedurende een termijn van tien jaar of, indien binnen die termijn de vergunning, bedoeld in het eerste lid, onder a, vervalt, tot en met het einde van de termijn waarvoor de vergunning geldt.
 
 5. De Minister trekt een besluit als bedoeld in het eerste lid in indien niet meer wordt voldaan aan het eerste lid.
 
-## Bijlage I. , behorende bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022213&artikel=3&z=2010-10-01&g=2010-10-01), van de regeling eg-verordening overbrenging van afvalstoffen
+## Bijlage I. behorende bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022213&artikel=3&z=2011-03-05&g=2011-03-05), van de regeling EG-verordening overbrenging van afvalstoffen
 
 ### Afvalstoffen waarvoor een lagere financiële zekerheid hoeft te worden gesteld
 
@@ -138,7 +138,7 @@ Het waarborgbedrag voor de onderstaande afvalstoffen wordt bepaald door de optel
 
 2 Alleen van toepassing in geval van R2 (terugwinning van oplosmiddelen).
 
-## Bijlage II. , behorende bij [artikel 3a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022213&artikel=3a&z=2010-10-01&g=2010-10-01), van de regeling eg-verordening overbrenging van afvalstoffen
+## Bijlage II. behorende bij [artikel 3a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022213&artikel=3a&z=2011-03-05&g=2011-03-05), van de regeling EG-verordening overbrenging van afvalstoffen
 
 ### Aanvraagformulier VGI
 
