@@ -4,7 +4,7 @@ identifier: "BWBR0013546"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2010-10-01"
+last_updated: "2011-03-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013546"
 soort: "ministeriele-regeling"
@@ -51,17 +51,15 @@ Besluit:
 
 ##### Artikel 2
 
-Als afvalstoffen in de zin van [artikel 1.1, zesde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1), worden aangewezen de stoffen, preparaten of andere producten, genoemd in de afvalstoffenlijst.
+Als afvalstoffen in de zin van [artikel 1.1, zesde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1), worden aangewezen de stoffen, preparaten of voorwerpen, genoemd in de afvalstoffenlijst.
 
 ##### Artikel 3
 
-1. Als gevaarlijke afvalstoffen in de zin van [artikel 1.1, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1), worden in ieder geval aangewezen de afvalstoffen die in de afvalstoffenlijst met een asterisk worden aangeduid.
-
-2. Afvalstoffen die niet onder een in de lijst opgenomen categorie gerubriceerd kunnen worden, zijn gevaarlijke afvalstoffen indien deze een of meer eigenschappen als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=4&z=2010-10-01&g=2010-10-01) bezitten.
+Vervallen
 
 ##### Artikel 4
 
-1. Een afvalstof die in de afvalstoffenlijst is ingedeeld in complementaire categorieën wordt gerubriceerd onder de met een asterisk aangeduide categorie indien wordt vastgesteld dat de afvalstof een of meer eigenschappen bezit als bedoeld in bijlage III bij [richtlijn nr. 91/689/EEG](31991L0689) van de Raad van de Europese Gemeenschappen van 12 december 1991 betreffende gevaarlijke afvalstoffen (PbEG L 377).
+1. Een afvalstof die in de afvalstoffenlijst is ingedeeld in complementaire categorieën wordt gerubriceerd onder de met een asterisk aangeduide categorie indien wordt vastgesteld dat de afvalstof een of meer eigenschappen bezit als bedoeld in bijlage III bij de kaderrichtlijn afvalstoffen.
 
 2. Een afvalstof bezit de eigenschappen, bedoeld in de onderdelen H3 tot en met H8, H10 en H11 van de bijlage, bedoeld in het eerste lid, indien deze een of meer van de volgende eigenschappen bezit:
 
@@ -99,7 +97,7 @@ Als afvalstoffen in de zin van [artikel 1.1, zesde lid, van de Wet milieubeheer]
 
 ##### Artikel 5
 
-1. Bij het vaststellen of een afvalstof de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=4&z=2010-10-01&g=2010-10-01) bedoelde eigenschappen bezit, wordt het tweede tot en met het vierde lid in acht genomen.
+1. Bij het vaststellen of een afvalstof de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=4&z=2011-03-05&g=2011-03-05) bedoelde eigenschappen bezit, wordt het tweede tot en met het vierde lid in acht genomen.
 
 2. Afvalstoffen worden als volgt bemonsterd:
 
@@ -133,7 +131,7 @@ Als afvalstoffen in de zin van [artikel 1.1, zesde lid, van de Wet milieubeheer]
 
 ##### Artikel 6
 
-De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=4&z=2010-10-01&g=2010-10-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=5&z=2010-10-01&g=2010-10-01) zijn van overeenkomstige toepassing op de beoordeling, bedoeld in [artikel 1.1, tiende lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1).
+De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=4&z=2011-03-05&g=2011-03-05) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=5&z=2011-03-05&g=2011-03-05) zijn van overeenkomstige toepassing op de beoordeling, bedoeld in [artikel 1.1, tiende lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1).
 
 ##### Artikel 7
 
