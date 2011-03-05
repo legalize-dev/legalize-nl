@@ -4,7 +4,7 @@ identifier: "BWBR0024492"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2009-09-26"
+last_updated: "2011-03-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024492"
 soort: "ministeriele-regeling"
@@ -76,11 +76,11 @@ In deze regeling wordt verstaan onder:
 
 - l. afgedankte batterijen of accu’s: batterijen of accu’s die afvalstoffen zijn;
 
-- m. inzamelpercentage: het percentage dat wordt verkregen door het gewicht van de afgedankte draagbare batterijen en accu’s, die de producent op de markt heeft gebracht en overeenkomstig [artikel 5, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=5&z=2009-09-26&g=2009-09-26), in een bepaald kalenderjaar zijn ingezameld respectievelijk opgehaald, vermenigvuldigd met drie, te delen door het gewicht van alle draagbare batterijen en accu’s die die producent gedurende dat kalenderjaar en de twee voorgaande kalenderjaren op de markt heeft gebracht;
+- m. inzamelpercentage: het percentage dat wordt verkregen door het gewicht van de afgedankte draagbare batterijen en accu’s, die de producent op de markt heeft gebracht en overeenkomstig [artikel 5, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=5&z=2011-03-05&g=2011-03-05), in een bepaald kalenderjaar zijn ingezameld respectievelijk opgehaald, vermenigvuldigd met drie, te delen door het gewicht van alle draagbare batterijen en accu’s die die producent gedurende dat kalenderjaar en de twee voorgaande kalenderjaren op de markt heeft gebracht;
 
-- n. hergebruik als materiaal: na een be- of verwerking opnieuw gebruiken van materialen, hetzij voor het oorspronkelijke doel, hetzij voor een ander doel, daaronder niet begrepen de terugwinning van energie;
+- n. recycling als materiaal: na een verwerking opnieuw gebruiken van materialen, hetzij voor het oorspronkelijke doel, hetzij voor een ander doel, daaronder niet begrepen de terugwinning van energie;
 
-- o. verwerking: iedere activiteit die afgedankte batterijen en accu’s ondergaan nadat zij zijn overgedragen aan een inrichting voor het sorteren, het voorbereiden op hergebruik als materiaal of het voorbereiden op verwijdering;
+- o. verwerking: iedere activiteit die afgedankte batterijen en accu’s ondergaan nadat zij zijn overgedragen aan een inrichting voor het sorteren, het voorbereiden op recycling als materiaal of het voorbereiden op verwijdering;
 
 - p. [richtlijn 2006/66/EG](32006L0066): [richtlijn nr. 2006/66/EG](32006L0066) van het Europees Parlement en de Raad van de Europese Unie van 6 september 2006 inzake batterijen en accu’s, alsook afgedankte batterijen en accu’s en tot intrekking van [Richtlijn 91/157/EEG](31991L0157) (PbEU L 266).
 
@@ -128,7 +128,7 @@ aan een derde in de Europese Gemeenschap, met inbegrip van invoer in het douaneg
 
 4. Het eerste lid is niet van toepassing op batterijen en accu’s die voor 26 september 2008 in de Europese Gemeenschap, met inbegrip van invoer in het douanegebied van de Gemeenschap, aan een derde ter beschikking zijn gesteld.
 
-#### § 3. Inname, verwerking, hergebruik en overig afvalbeheer
+#### § 3. Inname, verwerking, recycling en overig afvalbeheer
 
 ##### Artikel 5
 
@@ -158,13 +158,13 @@ Dit onderdeel is nog niet inwerking getreden
 
 1. De producent draagt er zorg voor dat:
 
-- a. er een systeem is voor de verwerking en het hergebruik als materiaal van afgedankte batterijen en accu’s;
+- a. er een systeem is voor de verwerking en de recycling als materiaal van afgedankte batterijen en accu’s;
 
-- b. alle door hem op grond van [artikel 5, eerste, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=5&z=2009-09-26&g=2009-09-26), ingezamelde of teruggenomen batterijen of accu’s worden verwerkt en hergebruikt als materiaal;
+- b. alle door hem op grond van [artikel 5, eerste, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=5&z=2011-03-05&g=2011-03-05), ingezamelde of teruggenomen batterijen of accu’s worden verwerkt en gerecycled als materiaal;
 
-- c. de bij de distributeur overeenkomstig [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=5&z=2009-09-26&g=2009-09-26), opgehaalde draagbare batterijen of accu’s worden verwerkt en hergebruikt als materiaal;
+- c. de bij de distributeur overeenkomstig [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=5&z=2011-03-05&g=2011-03-05), opgehaalde draagbare batterijen of accu’s worden verwerkt en gerecycled als materiaal;
 
-- d. bij de verwerking of het hergebruik als materiaal de best beschikbare technieken ter bescherming van de gezondheid van de mens en het milieu worden gehanteerd;
+- d. bij de verwerking of de recycling als materiaal de best beschikbare technieken ter bescherming van de gezondheid van de mens en het milieu worden gehanteerd;
 
 - e. de verwerking geschiedt overeenkomstig bijlage III, deel A, bij richtlijn 2006/66/EG;
 
@@ -174,7 +174,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 8
 
-De producent draagt ervoor zorg dat zijn handelen ter uitvoering van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=5&z=2009-09-26&g=2009-09-26) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=7&z=2009-09-26&g=2009-09-26) geen handelsbelemmering of concurrentieverstoring veroorzaakt.
+De producent draagt ervoor zorg dat zijn handelen ter uitvoering van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=5&z=2011-03-05&g=2011-03-05) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=7&z=2011-03-05&g=2011-03-05) geen handelsbelemmering of concurrentieverstoring veroorzaakt.
 
 #### § 4. Markering
 
@@ -202,7 +202,7 @@ De producent draagt ervoor zorg dat zijn handelen ter uitvoering van de [artikel
 
 8. Het symbool, bedoeld in het eerste lid, het chemisch symbool, bedoeld in het vierde lid, en de capaciteit, bedoeld in het zevende lid, zijn goed zichtbaar, duidelijk leesbaar en onuitwisbaar aangebracht.
 
-9. Het eerste tot en met zesde lid en het achtste lid, voor zover het het chemische symbool betreft, zijn niet van toepassing op batterijen en accu’s die voor 26 september 2008 in de Europese Gemeenschap, met inbegrip van invoer in het douanegebied van de Gemeenschap, aan een derde ter beschikking zijn gesteld.
+9. Het eerste tot en met zesde lid en het achtste lid, voor zover het betreft het symbool, bedoeld in het eerste lid, en het chemisch symbool, zijn niet van toepassing op batterijen en accu’s die voor 26 september 2008 in de Europese Gemeenschap, met inbegrip van invoer in het douanegebied van de Gemeenschap, aan een derde ter beschikking zijn gesteld.
 
 10. Het zevende en het achtste lid, voor zover het de capaciteit betreft, zijn niet van toepassing op batterijen en accu’s die voor 26 september 2009 in de Europese Gemeenschap, met inbegrip van invoer in het douanegebied van de Gemeenschap, aan een derde ter beschikking zijn gesteld.
 
@@ -218,9 +218,9 @@ De producent draagt ervoor zorg dat zijn handelen ter uitvoering van de [artikel
 
 - c. het belang van gescheiden inzameling van batterijen en accu’s;
 
-- d. de wijze waarop de producent voldoet aan de verplichtingen, bedoeld in [artikel 5, eerste, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=5&z=2009-09-26&g=2009-09-26), en [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=7&z=2009-09-26&g=2009-09-26);
+- d. de wijze waarop de producent voldoet aan de verplichtingen, bedoeld in [artikel 5, eerste, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=5&z=2011-03-05&g=2011-03-05), en [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=7&z=2011-03-05&g=2011-03-05);
 
-- e. de betekenis van de symbolen, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=4&artikel=9&z=2009-09-26&g=2009-09-26).
+- e. de betekenis van de symbolen, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=4&artikel=9&z=2011-03-05&g=2011-03-05).
 
 2. De distributeur van draagbare batterijen of accu’s informeert de eindgebruiker over de mogelijkheid om afgedankte, draagbare batterijen of accu’s in te leveren op de plaats waar de batterijen of accu’s ter beschikking worden gesteld of in de nabijheid daarvan.
 
@@ -228,7 +228,7 @@ De producent draagt ervoor zorg dat zijn handelen ter uitvoering van de [artikel
 
 ##### Artikel 11
 
-1. De producent draagt zorg voor de financiering van alle kosten die verbonden zijn aan de uitvoering van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=5&z=2009-09-26&g=2009-09-26), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=7&z=2009-09-26&g=2009-09-26) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=5&artikel=10&z=2009-09-26&g=2009-09-26).
+1. De producent draagt zorg voor de financiering van alle kosten die verbonden zijn aan de uitvoering van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=5&z=2011-03-05&g=2011-03-05), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=7&z=2011-03-05&g=2011-03-05) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=5&artikel=10&z=2011-03-05&g=2011-03-05).
 
 2. In afwijking van het eerste lid draagt de producent, bedoeld in [artikel 1, eerste lid, onderdeel j, van de Regeling beheer elektrische en elektronische apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0017053&artikel=1), geen zorg voor de kosten voor een batterij of accu, ingebouwd in een apparaat, voor zover de producent voor die batterij of accu ter uitvoering van [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017053&artikel=11), of [artikel 12, eerste lid, van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0017053&artikel=12) zorg heeft gedragen voor de kosten verbonden aan die batterij of accu.
 
@@ -240,11 +240,11 @@ De producent draagt ervoor zorg dat zijn handelen ter uitvoering van de [artikel
 
 ##### Artikel 12
 
-De producent laat zich bij Onze Minister registreren. Hieraan is voldaan indien de producent een mededeling als bedoeld in [artikel 2, eerste lid, van het Besluit beheer batterijen en accu’s 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024491&artikel=2) bij Onze Minister heeft ingediend.
+De producent laat zich bij de Minister van Infrastructuur en Milieu registreren. Hieraan is voldaan indien de producent een mededeling als bedoeld in [artikel 2, eerste lid, van het Besluit beheer batterijen en accu’s 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024491&artikel=2) bij de Minister van Infrastructuur en Milieu heeft ingediend.
 
 ##### Artikel 13
 
-1. De fabrikant of producent zendt voor 1 augustus van het jaar volgend op het jaar waarin deze regeling in werking is getreden en vervolgens elk jaar voor 1 augustus aan Onze Minister een verslag over de uitvoering in het voorafgaande kalenderjaar van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=2&artikel=3&z=2009-09-26&g=2009-09-26), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=6&z=2009-09-26&g=2009-09-26), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=7&z=2009-09-26&g=2009-09-26), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=5&artikel=10&z=2009-09-26&g=2009-09-26) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=6&artikel=11&z=2009-09-26&g=2009-09-26) en over de hoeveelheid door hem op de markt gebrachte batterijen en accu’s.
+1. De fabrikant of producent zendt voor 1 augustus van het jaar volgend op het jaar waarin deze regeling in werking is getreden en vervolgens elk jaar voor 1 augustus aan de Minister van Infrastructuur en Milieu een verslag over de uitvoering in het voorafgaande kalenderjaar van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=2&artikel=3&z=2011-03-05&g=2011-03-05), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=6&z=2011-03-05&g=2011-03-05), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=7&z=2011-03-05&g=2011-03-05), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=5&artikel=10&z=2011-03-05&g=2011-03-05) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=6&artikel=11&z=2011-03-05&g=2011-03-05) en over de hoeveelheid door hem op de markt gebrachte batterijen en accu’s.
 
 2. De fabrikant of producent maakt bij het indienen van het verslag, bedoeld in het eerste lid, gebruik van het in de bijlage bij deze regeling opgenomen formulier.
 
@@ -278,21 +278,21 @@ Wijzigt deze regeling.
 
 2. In afwijking van het eerste lid:
 
-- a. treden de [artikelen 7, eerste lid, onderdelen a, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=7&z=2009-09-26&g=2009-09-26), en [9, zevende en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=4&artikel=9&z=2009-09-26&g=2009-09-26), in werking met ingang van 26 september 2009;
+- a. treden de [artikelen 7, eerste lid, onderdelen a, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=7&z=2011-03-05&g=2011-03-05), en [9, zevende en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=4&artikel=9&z=2011-03-05&g=2011-03-05), in werking met ingang van 26 september 2009;
 
-- b. treedt [artikel 7, eerste lid, onderdeel f, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=7&z=2009-09-26&g=2009-09-26), in werking met ingang van 26 september 2011;
+- b. treedt [artikel 7, eerste lid, onderdeel f, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=7&z=2011-03-05&g=2011-03-05), in werking met ingang van 26 september 2011;
 
-- c. treedt [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=6&z=2009-09-26&g=2009-09-26) in werking met ingang van 26 september 2012.
+- c. treedt [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=6&z=2011-03-05&g=2011-03-05) in werking met ingang van 26 september 2012.
 
 ##### Artikel 20
 
 Deze regeling wordt aangehaald als: Regeling beheer batterijen en accu’s 2008.
 
-## Bijlage. , behorende bij [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=7&artikel=13&z=2009-09-26&g=2009-09-26)
+## Bijlage. behorende bij [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=7&artikel=13&z=2011-03-05&g=2011-03-05)
 
 ### **Formulier verslaglegging**
 
-Op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=7&artikel=13&z=2009-09-26&g=2009-09-26) van de Regeling beheer batterijen en accu’s 2008 bent u verplicht om informatie te verstrekken over de resultaten van de uitvoering van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=2&artikel=3&z=2009-09-26&g=2009-09-26), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=6&z=2009-09-26&g=2009-09-26), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=7&z=2009-09-26&g=2009-09-26), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=5&artikel=10&z=2009-09-26&g=2009-09-26) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=6&artikel=11&z=2009-09-26&g=2009-09-26) alsmede over de hoeveelheid door u in Nederland op de markt gebrachte batterijen en accu’s in het betreffende jaar. Hiertoe is dit formulier opgesteld.
+Op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=7&artikel=13&z=2011-03-05&g=2011-03-05) van de Regeling beheer batterijen en accu’s 2008 bent u verplicht om informatie te verstrekken over de resultaten van de uitvoering van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=2&artikel=3&z=2011-03-05&g=2011-03-05), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=6&z=2011-03-05&g=2011-03-05), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=7&z=2011-03-05&g=2011-03-05), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=5&artikel=10&z=2011-03-05&g=2011-03-05) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=6&artikel=11&z=2011-03-05&g=2011-03-05) alsmede over de hoeveelheid door u in Nederland op de markt gebrachte batterijen en accu’s in het betreffende jaar. Hiertoe is dit formulier opgesteld.
 
 De in dit formulier gestelde vragen moeten zo volledig mogelijk worden beantwoord. U dient de in dit verslag opgenomen kwantitatieve gegevens te kunnen onderbouwen door middel van verifieerbare gegevens. Hierbij kan gedacht worden aan jaarverslagen van ondernemingen dan wel afvalverwerkers. Hiervoor kunnen bijlagen worden bijgevoegd ter ondersteuning van uw verslaglegging.
 
@@ -306,7 +306,7 @@ Het volledig ingevulde formulier dient verzonden te worden naar SenterNovem t.a.
 
 1a. Op welk jaar heeft dit verslag betrekking en op welke periode in dat jaar indien verslaglegging niet het hele jaar betreft?
 
-Toelichting: op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=7&artikel=13&z=2009-09-26&g=2009-09-26) van het regeling dient een fabrikant of producent verslag te doen over de uitvoering van de regeling in het voorafgaande kalenderjaar en over de hoeveelheid door hem op de markt gebrachte batterijen en accu’s. Het gaat bij deze vraag dus niet om het jaar waarin u verslag doet, maar het jaar waarover u verslag doet.
+Toelichting: op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=7&artikel=13&z=2011-03-05&g=2011-03-05) van het regeling dient een fabrikant of producent verslag te doen over de uitvoering van de regeling in het voorafgaande kalenderjaar en over de hoeveelheid door hem op de markt gebrachte batterijen en accu’s. Het gaat bij deze vraag dus niet om het jaar waarin u verslag doet, maar het jaar waarover u verslag doet.
 
 b. Wanneer de gegevens een gedeelte van het jaar betreffen, wat is hiervan de reden en wanneer zult u verslag uitbrengen over de ontbrekende periode?
 
@@ -334,7 +334,7 @@ b. Welke maatregelen heeft u genomen om de ontwikkeling en het op de markt breng
 
 c. Wat was het resultaat van de genomen maatregelen?
 
-Toelichting: deze vragen (a, b, c) dienen alleen te worden beantwoord door fabrikanten van batterijen of accu’s (u heeft vraag 4 met ja beantwoord) en hebben betrekking op gedurende het verslagjaar genomen maatregelen ([artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=2&artikel=3&z=2009-09-26&g=2009-09-26) van de regeling).
+Toelichting: deze vragen (a, b, c) dienen alleen te worden beantwoord door fabrikanten van batterijen of accu’s (u heeft vraag 4 met ja beantwoord) en hebben betrekking op gedurende het verslagjaar genomen maatregelen ([artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=2&artikel=3&z=2011-03-05&g=2011-03-05) van de regeling).
 
 ### **Hoeveelheden op de markt gebrachte batterijen en accu’s**
 
@@ -364,28 +364,28 @@ Toelichting: de in apparaten ingebouwde draagbare batterijen en accu’s dient u
 
 9. Welk inzamelpercentage heeft u in het verslagjaar bereikt?
 
-Toelichting: deze vraag heeft betrekking op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=6&z=2009-09-26&g=2009-09-26) van de regeling en dient uitsluitend beantwoord te worden m.b.t. draagbare batterijen en accu’s. De vraag moet voor het eerst beantwoord worden m.b.t. het verslagjaar 2012. Voor de berekening van het inzamelpercentage moet de methodiek zoals aangegeven in bijlage I bij de richtlijn worden gehanteerd. Dit houdt in: het inzamelpercentage in een bepaald jaar is gelijk aan driemaal de inzameling in het betreffende jaar, gedeeld door de verkoop in het betreffende jaar plus de verkoop in de twee daaraan voorafgaande jaren.
+Toelichting: deze vraag heeft betrekking op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=6&z=2011-03-05&g=2011-03-05) van de regeling en dient uitsluitend beantwoord te worden m.b.t. draagbare batterijen en accu’s. De vraag moet voor het eerst beantwoord worden m.b.t. het verslagjaar 2012. Voor de berekening van het inzamelpercentage moet de methodiek zoals aangegeven in bijlage I bij de richtlijn worden gehanteerd. Dit houdt in: het inzamelpercentage in een bepaald jaar is gelijk aan driemaal de inzameling in het betreffende jaar, gedeeld door de verkoop in het betreffende jaar plus de verkoop in de twee daaraan voorafgaande jaren.
 
-### **Hergebruik als materiaal**
+### **Recycling als materiaal**
 
-10. Geef aan welke percentages met betrekking tot het hergebruik als materiaal bij de verwerking van de ingezamelde of ingenomen batterijen en accu’s in het verslagjaar werden bereikt.
+10. Geef aan welke percentages met betrekking tot de recycling als materiaal bij de verwerking van de ingezamelde of ingenomen batterijen en accu’s in het verslagjaar werden bereikt.
 
-Toelichting: deze vraag heeft betrekking op [artikel 7, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=7&z=2009-09-26&g=2009-09-26), van de regeling (ten minste te behalen percentages met betrekking tot het hergebruik als materiaal). U moet de gegeven cijfers kunnen staven met bewijsmateriaal.
+Toelichting: deze vraag heeft betrekking op [artikel 7, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=7&z=2011-03-05&g=2011-03-05), van de regeling (ten minste te behalen percentages met betrekking tot de recycling als materiaal). U moet de gegeven cijfers kunnen staven met bewijsmateriaal.
 
 ### **Informatie**
 
 11a. Wat heeft u gedaan om de eindgebruikers van batterijen en accu’s te informeren over de mogelijke gezondheidseffecten en milieueffecten van de in de batterijen en accu’s gebruikte stoffen, het belang van gescheiden inzameling en het terugdringen van batterijen en accu’s in het restafval, en de betekenis van het symbool van de doorgekruiste klikobak?
 
-Toelichting: de vraag heeft betrekking alle typen batterijen en accu’s ([artikel 10, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=5&artikel=10&z=2009-09-26&g=2009-09-26), van de regeling).
+Toelichting: de vraag heeft betrekking alle typen batterijen en accu’s ([artikel 10, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=5&artikel=10&z=2011-03-05&g=2011-03-05), van de regeling).
 
 b. Wat heeft u gedaan om de eindgebruikers van batterijen en accu’s te informeren over de locatie van inzamel- en innamepunten voor afgedankte draagbare batterijen en accu’s en afgedankte autobatterijen en -accu’s?
 
-Toelichting: de vraag heeft uitsluitend betrekking op draagbare batterijen en accu’s en op autobatterijen en -accu’s ([artikel 10, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=5&artikel=10&z=2009-09-26&g=2009-09-26), van de regeling).
+Toelichting: de vraag heeft uitsluitend betrekking op draagbare batterijen en accu’s en op autobatterijen en -accu’s ([artikel 10, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=5&artikel=10&z=2011-03-05&g=2011-03-05), van de regeling).
 
 ### **Financiering**
 
 12. Hoe draagt u zorg voor de financiering van alle kosten die verbonden zijn aan de uitvoering van de voor u geldende verplichtingen?
 
-Toelichting: de vraag heeft betrekking op [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=6&artikel=11&z=2009-09-26&g=2009-09-26), van de regeling. Het gaat om de financiering van de in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=5&z=2009-09-26&g=2009-09-26), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=7&z=2009-09-26&g=2009-09-26) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=5&artikel=10&z=2009-09-26&g=2009-09-26) van de regeling genoemde verplichtingen (inname,verwerking, hergebruik en overig afvalbeheer, en informatie).
+Toelichting: de vraag heeft betrekking op [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=6&artikel=11&z=2011-03-05&g=2011-03-05), van de regeling. Het gaat om de financiering van de in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=5&z=2011-03-05&g=2011-03-05), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=3&artikel=7&z=2011-03-05&g=2011-03-05) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&paragraaf=5&artikel=10&z=2011-03-05&g=2011-03-05) van de regeling genoemde verplichtingen (inname,verwerking, recycling en overig afvalbeheer, en informatie).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
