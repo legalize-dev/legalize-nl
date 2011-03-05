@@ -4,7 +4,7 @@ identifier: "BWBR0029674"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2011-03-05"
-last_updated: "2011-01-01"
+last_updated: "2011-03-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029674"
 soort: "AMvB-BES"
@@ -47,8 +47,6 @@ Gezien het nader rapport van de Staatssecretaris van Financiën van 10 februari 
 Hebben goedgevonden en verstaan:
 
 Treedt in werking om 00:00 uur in de openbare lichamen Bonaire, Sint Eustatius en Saba en om 05:00 uur in het Europese deel van Nederland.
-
-Werkt terug tot 00:00 uur in de openbare lichamen Bonaire, Sint Eustatius en Saba en tot 05:00 uur in het Europese deel van Nederland.
 
 ### Hoofdstuk 1. Reikwijdte en definities
 
@@ -138,7 +136,7 @@ voor zover deze inkomensbestanddelen zijn onderworpen aan een belasting naar het
 
 ##### Artikel 8. Vermindering belasting bij buitenlands inkomen
 
-1. De in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=2&artikel=6&z=2011-03-05&g=2011-01-01) bedoelde vrijstelling voor buitenlands inkomen wordt voor elke Mogendheid waaruit de belastingplichtige zodanig inkomen geniet afzonderlijk toegepast door een vermindering te verlenen op de verschuldigde inkomstenbelasting.
+1. De in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=2&artikel=6&z=2011-03-05&g=2011-03-05) bedoelde vrijstelling voor buitenlands inkomen wordt voor elke Mogendheid waaruit de belastingplichtige zodanig inkomen geniet afzonderlijk toegepast door een vermindering te verlenen op de verschuldigde inkomstenbelasting.
 
 2. De in het eerste lid bedoelde vermindering is gelijk aan het bedrag dat tot de belasting die zonder de toepassing van dit besluit volgens de [Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281) verschuldigd zou zijn, in dezelfde verhouding staat als het buitenlands inkomen uit een Mogendheid staat tot het noemerinkomen.
 
@@ -150,21 +148,21 @@ voor zover deze inkomensbestanddelen zijn onderworpen aan een belasting naar het
 
 ##### Artikel 9. Doorschuifregeling
 
-1. Een bedrag aan in een jaar vrij te stellen buitenlands inkomen – per Mogendheid berekend met inachtneming van de verrekening volgens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=2&artikel=10&z=2011-03-05&g=2011-01-01) – dat door de toepassing van [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=2&artikel=8&z=2011-03-05&g=2011-01-01), niet leidt tot een vermindering van belasting over dat jaar, wordt overgebracht naar het volgend jaar. Deze overbrenging vindt alleen plaats indien het naar het volgend jaar over te brengen buitenlandse inkomen door de inspecteur is vastgesteld bij voor bezwaar vatbare beschikking.
+1. Een bedrag aan in een jaar vrij te stellen buitenlands inkomen – per Mogendheid berekend met inachtneming van de verrekening volgens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=2&artikel=10&z=2011-03-05&g=2011-03-05) – dat door de toepassing van [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=2&artikel=8&z=2011-03-05&g=2011-03-05), niet leidt tot een vermindering van belasting over dat jaar, wordt overgebracht naar het volgend jaar. Deze overbrenging vindt alleen plaats indien het naar het volgend jaar over te brengen buitenlandse inkomen door de inspecteur is vastgesteld bij voor bezwaar vatbare beschikking.
 
-2. In het jaar waarnaar de overbrenging plaatsvindt, wordt voor de berekening van de vermindering van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=2&artikel=8&z=2011-03-05&g=2011-01-01) het buitenlandse inkomen verhoogd met het over te brengen bedrag aan buitenlands inkomen. Het noemerinkomen wordt niet verhoogd.
+2. In het jaar waarnaar de overbrenging plaatsvindt, wordt voor de berekening van de vermindering van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=2&artikel=8&z=2011-03-05&g=2011-03-05) het buitenlandse inkomen verhoogd met het over te brengen bedrag aan buitenlands inkomen. Het noemerinkomen wordt niet verhoogd.
 
-3. Bij ministeriële regeling kunnen nadere regels worden gesteld over de toedeling van het vrij te stellen buitenlandse inkomen per Mogendheid aan de te verlenen vermindering volgens [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=2&artikel=8&z=2011-03-05&g=2011-01-01) en de overbrenging van buitenlands inkomen naar een volgend jaar van het eerste lid.
+3. Bij ministeriële regeling kunnen nadere regels worden gesteld over de toedeling van het vrij te stellen buitenlandse inkomen per Mogendheid aan de te verlenen vermindering volgens [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=2&artikel=8&z=2011-03-05&g=2011-03-05) en de overbrenging van buitenlands inkomen naar een volgend jaar van het eerste lid.
 
 ##### Artikel 10. Inhaalregeling
 
-Indien het buitenlandse inkomen uit een Mogendheid – berekend met inachtneming van de overbrenging per Mogendheid volgens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=2&artikel=9&z=2011-03-05&g=2011-01-01) – negatief is, wordt het voor de toepassing van de vermindering van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=2&artikel=8&z=2011-03-05&g=2011-01-01) aangemerkt als negatief buitenlands inkomen van het volgend jaar uit die Mogendheid. De inspecteur stelt het naar het volgend jaar over te brengen negatieve buitenlandse inkomen vast bij voor bezwaar vatbare beschikking.
+Indien het buitenlandse inkomen uit een Mogendheid – berekend met inachtneming van de overbrenging per Mogendheid volgens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=2&artikel=9&z=2011-03-05&g=2011-03-05) – negatief is, wordt het voor de toepassing van de vermindering van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=2&artikel=8&z=2011-03-05&g=2011-03-05) aangemerkt als negatief buitenlands inkomen van het volgend jaar uit die Mogendheid. De inspecteur stelt het naar het volgend jaar over te brengen negatieve buitenlandse inkomen vast bij voor bezwaar vatbare beschikking.
 
 ### Afdeling 3. Verrekening
 
 ##### Artikel 11. Verrekening buitenlandse belasting op dividenden, interest en royalty’s
 
-1. Aan een binnenlandse belastingplichtige wordt, ter verrekening van vanwege een andere Mogendheid geheven belasting naar het inkomen, een vermindering van inkomstenbelasting verleend voor in het inkomen, maar niet in enig in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=2&artikel=7&z=2011-03-05&g=2011-01-01) bedoeld buitenlands inkomen, begrepen dividenden, interest en royalty’s.
+1. Aan een binnenlandse belastingplichtige wordt, ter verrekening van vanwege een andere Mogendheid geheven belasting naar het inkomen, een vermindering van inkomstenbelasting verleend voor in het inkomen, maar niet in enig in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=2&artikel=7&z=2011-03-05&g=2011-03-05) bedoeld buitenlands inkomen, begrepen dividenden, interest en royalty’s.
 
 2. Het bedrag van de in het eerste lid bedoelde vermindering is het laagste van de volgende bedragen:
 
@@ -178,11 +176,11 @@ Indien het buitenlandse inkomen uit een Mogendheid – berekend met inachtneming
 
 5. Artikel 8, vierde en vijfde lid, is van overeenkomstige toepassing.
 
-6. De vermindering volgens dit artikel bedraagt, met inachtneming van de verminderingen volgens andere regelen ter voorkoming van dubbele belasting en volgens [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=2&artikel=8&z=2011-03-05&g=2011-01-01), ten hoogste het bedrag aan belasting over het inkomen dat zonder de toepassing van dit besluit volgens de [Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281) verschuldigd zou zijn.
+6. De vermindering volgens dit artikel bedraagt, met inachtneming van de verminderingen volgens andere regelen ter voorkoming van dubbele belasting en volgens [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=2&artikel=8&z=2011-03-05&g=2011-03-05), ten hoogste het bedrag aan belasting over het inkomen dat zonder de toepassing van dit besluit volgens de [Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281) verschuldigd zou zijn.
 
 ##### Artikel 12. Uiteindelijk gerechtigde
 
-1. Bij de toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=3&artikel=11&z=2011-03-05&g=2011-01-01) wordt geen vermindering verleend indien de belastingplichtige niet de uiteindelijk gerechtigde is tot de dividenden, interest of royalty’s waarop door een andere Mogendheid belasting naar het inkomen is geheven. Niet als uiteindelijk gerechtigde wordt beschouwd de belastingplichtige die in samenhang met de ontvangen opbrengst een tegenprestatie heeft verricht als onderdeel van een samenstel van transacties waarbij aannemelijk is dat:
+1. Bij de toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=3&artikel=11&z=2011-03-05&g=2011-03-05) wordt geen vermindering verleend indien de belastingplichtige niet de uiteindelijk gerechtigde is tot de dividenden, interest of royalty’s waarop door een andere Mogendheid belasting naar het inkomen is geheven. Niet als uiteindelijk gerechtigde wordt beschouwd de belastingplichtige die in samenhang met de ontvangen opbrengst een tegenprestatie heeft verricht als onderdeel van een samenstel van transacties waarbij aannemelijk is dat:
 
 - a. de opbrengst geheel of gedeeltelijk direct of indirect ten goede is gekomen aan een natuurlijk persoon of rechtspersoon die in mindere mate gerechtigd is tot vermindering van de op de BES eilanden verschuldigde belasting dan de belastingplichtige die de tegenprestatie heeft verricht, en
 
@@ -196,21 +194,21 @@ Indien het buitenlandse inkomen uit een Mogendheid – berekend met inachtneming
 
 ##### Artikel 13. Voortwenteling niet verrekende belasting dividenden, interest en royalty’s
 
-Het bedrag van de in een jaar vanwege andere Mogendheden geheven belasting, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=3&artikel=11&z=2011-03-05&g=2011-01-01), dat door de toepassing van het tweede lid, onderdeel b, of het vijfde lid, van dat artikel niet leidt tot een vermindering van inkomstenbelasting over dat jaar, wordt aangemerkt als vanwege andere Mogendheden geheven belasting van het daaropvolgende jaar. Deze voortwenteling vindt alleen plaats indien het naar het volgend jaar over te brengen bedrag door de inspecteur is vastgesteld bij voor bezwaar vatbare beschikking.
+Het bedrag van de in een jaar vanwege andere Mogendheden geheven belasting, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=3&artikel=11&z=2011-03-05&g=2011-03-05), dat door de toepassing van het tweede lid, onderdeel b, of het vijfde lid, van dat artikel niet leidt tot een vermindering van inkomstenbelasting over dat jaar, wordt aangemerkt als vanwege andere Mogendheden geheven belasting van het daaropvolgende jaar. Deze voortwenteling vindt alleen plaats indien het naar het volgend jaar over te brengen bedrag door de inspecteur is vastgesteld bij voor bezwaar vatbare beschikking.
 
 ### Afdeling 4. Formele en overige bepalingen
 
 ##### Artikel 14. Beschikkingen doorschuifregeling
 
-1. De inspecteur stelt het bedrag van het volgens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=2&artikel=9&z=2011-03-05&g=2011-01-01) naar een volgend jaar over te brengen buitenlandse inkomen per Mogendheid vast bij voor bezwaar vatbare beschikking. Deze vaststelling gebeurt gelijktijdig met het vaststellen van de aanslag over dat jaar. Het bedrag van het naar het volgend jaar over te brengen buitenlands inkomen wordt op het aanslagbiljet afzonderlijk vermeld.
+1. De inspecteur stelt het bedrag van het volgens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=2&artikel=9&z=2011-03-05&g=2011-03-05) naar een volgend jaar over te brengen buitenlandse inkomen per Mogendheid vast bij voor bezwaar vatbare beschikking. Deze vaststelling gebeurt gelijktijdig met het vaststellen van de aanslag over dat jaar. Het bedrag van het naar het volgend jaar over te brengen buitenlands inkomen wordt op het aanslagbiljet afzonderlijk vermeld.
 
 2. Rechtsmiddelen tegen een beschikking als bedoeld in het eerste lid kunnen uitsluitend betrekking hebben op:
 
 - a. de grootte van het over te brengen bedrag aan buitenlands inkomen, voor zover niet eerder vastgesteld, en
 
-- b. de toepassing van de ministeriële regeling, bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=2&artikel=9&z=2011-03-05&g=2011-01-01).
+- b. de toepassing van de ministeriële regeling, bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=2&artikel=9&z=2011-03-05&g=2011-03-05).
 
-3. Het bedrag aan buitenlands inkomen dat volgens [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=2&artikel=9&z=2011-03-05&g=2011-01-01), naar het volgend jaar wordt overgebracht, kan worden herzien of alsnog worden vastgesteld, indien:
+3. Het bedrag aan buitenlands inkomen dat volgens [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=2&artikel=9&z=2011-03-05&g=2011-03-05), naar het volgend jaar wordt overgebracht, kan worden herzien of alsnog worden vastgesteld, indien:
 
 - a. een aanslag wordt verminderd wegens de verrekening van verliezen uit andere jaren;
 
@@ -220,31 +218,31 @@ Het bedrag van de in een jaar vanwege andere Mogendheden geheven belasting, bedo
 
 - d. enig feit grond oplevert voor het vermoeden dat het bedrag van het over te brengen buitenlands inkomen te hoog is vastgesteld, waarbij de herziening alleen kan plaatsvinden voor in de beschikking opgenomen buitenlands inkomen dat is genoten in een van de twaalf voorafgaande jaren.
 
-4. In afwijking in zoverre van [artikel 9, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=2&artikel=9&z=2011-03-05&g=2011-01-01), wordt, indien het derde lid toepassing vindt, het herziene of het alsnog vastgestelde bedrag aan buitenlands inkomen dat naar het volgend jaar wordt overgebracht, in het volgend jaar in aanmerking genomen zonder dat dit bedrag vooraf door de inspecteur bij voor bezwaar vatbare beschikking is vastgesteld. De vorige volzin vindt overeenkomstige toepassing voor zover de herziening gevolgen heeft voor bedragen die worden overgebracht naar jaren waarvoor al een aanslag is vastgesteld.
+4. In afwijking in zoverre van [artikel 9, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=2&artikel=9&z=2011-03-05&g=2011-03-05), wordt, indien het derde lid toepassing vindt, het herziene of het alsnog vastgestelde bedrag aan buitenlands inkomen dat naar het volgend jaar wordt overgebracht, in het volgend jaar in aanmerking genomen zonder dat dit bedrag vooraf door de inspecteur bij voor bezwaar vatbare beschikking is vastgesteld. De vorige volzin vindt overeenkomstige toepassing voor zover de herziening gevolgen heeft voor bedragen die worden overgebracht naar jaren waarvoor al een aanslag is vastgesteld.
 
 ##### Artikel 15. Beschikkingen inhaalregeling
 
-1. De inspecteur stelt het bedrag van het volgens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=2&artikel=10&z=2011-03-05&g=2011-01-01) naar een volgend jaar over te brengen negatieve buitenlandse inkomen per Mogendheid vast bij voor bezwaar vatbare beschikking.
+1. De inspecteur stelt het bedrag van het volgens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=2&artikel=10&z=2011-03-05&g=2011-03-05) naar een volgend jaar over te brengen negatieve buitenlandse inkomen per Mogendheid vast bij voor bezwaar vatbare beschikking.
 
-2. [Artikel 14, eerste lid, tweede en derde volzin, tweede lid, derde lid en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=4&artikel=14&z=2011-03-05&g=2011-01-01), is van overeenkomstige toepassing.
+2. [Artikel 14, eerste lid, tweede en derde volzin, tweede lid, derde lid en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=4&artikel=14&z=2011-03-05&g=2011-03-05), is van overeenkomstige toepassing.
 
 3. Indien het negatieve buitenlands inkomen niet bij voor bezwaar vatbare beschikking is vastgesteld, wordt het bedrag in het volgende jaar toch in aanmerking genomen als negatief bestanddeel van het buitenlands inkomen. Het bedrag wordt niet meer in aanmerking genomen indien de termijn waarbinnen de inspecteur bevoegd is om een aanslag vast te stellen over het eerste jaar waarin een lager naar het volgend jaar over te brengen bedrag aan negatief buitenlands inkomen bij voor bezwaar vatbare beschikking had moeten worden vastgesteld, met meer dan twee jaar is overschreden.
 
 ##### Artikel 16. Beschikkingen verrekening
 
-1. De inspecteur stelt de volgens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=3&artikel=13&z=2011-03-05&g=2011-01-01) over te brengen bedragen aan vanwege andere Mogendheden geheven belasting vast bij voor bezwaar vatbare beschikking.
+1. De inspecteur stelt de volgens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=3&artikel=13&z=2011-03-05&g=2011-03-05) over te brengen bedragen aan vanwege andere Mogendheden geheven belasting vast bij voor bezwaar vatbare beschikking.
 
-2. [Artikel 14, eerste lid, tweede en derde volzin, tweede lid, derde lid en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=4&artikel=14&z=2011-03-05&g=2011-01-01), is van overeenkomstige toepassing.
+2. [Artikel 14, eerste lid, tweede en derde volzin, tweede lid, derde lid en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=4&artikel=14&z=2011-03-05&g=2011-03-05), is van overeenkomstige toepassing.
 
 ##### Artikel 17. Emigratie en terugkeer
 
-Ingeval de belastingplichtige in een jaar ophoudt binnenlands belastingplichtige te zijn, en binnen een termijn van acht jaren na afloop van dit jaar wederom binnenlands belastingplichtige wordt, worden de over het jaar voorafgaande aan het jaar waarin de binnenlandse belastingplicht is geëindigd volgens de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=4&artikel=14&z=2011-03-05&g=2011-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=4&artikel=15&z=2011-03-05&g=2011-01-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=4&artikel=16&z=2011-03-05&g=2011-01-01) vastgestelde bedragen aan over te brengen buitenlands inkomen, negatief buitenlands inkomen en vanwege andere Mogendheden geheven belasting, aangemerkt als bedragen die in het jaar voorafgaande aan het opnieuw binnenlands belastingplichtig worden, zijn vastgesteld.
+Ingeval de belastingplichtige in een jaar ophoudt binnenlands belastingplichtige te zijn, en binnen een termijn van acht jaren na afloop van dit jaar wederom binnenlands belastingplichtige wordt, worden de over het jaar voorafgaande aan het jaar waarin de binnenlandse belastingplicht is geëindigd volgens de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=4&artikel=14&z=2011-03-05&g=2011-03-05), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=4&artikel=15&z=2011-03-05&g=2011-03-05) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=4&artikel=16&z=2011-03-05&g=2011-03-05) vastgestelde bedragen aan over te brengen buitenlands inkomen, negatief buitenlands inkomen en vanwege andere Mogendheden geheven belasting, aangemerkt als bedragen die in het jaar voorafgaande aan het opnieuw binnenlands belastingplichtig worden, zijn vastgesteld.
 
 ### Hoofdstuk 3. Loonbelasting
 
 ##### Artikel 18. Vrijstelling van loonbelasting
 
-Een op de BES eilanden wonende werknemer is vrijgesteld van de loonbelasting die betrekking heeft op door hem genoten loon waarop [artikel 7, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=2&artikel=7&z=2011-03-05&g=2011-01-01), van toepassing is, en dat is onderworpen aan een belasting naar het inkomen die vanwege de andere Mogendheid, bedoeld in dat artikel, wordt geheven.
+Een op de BES eilanden wonende werknemer is vrijgesteld van de loonbelasting die betrekking heeft op door hem genoten loon waarop [artikel 7, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=2&artikel=7&z=2011-03-05&g=2011-03-05), van toepassing is, en dat is onderworpen aan een belasting naar het inkomen die vanwege de andere Mogendheid, bedoeld in dat artikel, wordt geheven.
 
 ### Hoofdstuk 4. Kansspelbelasting
 
