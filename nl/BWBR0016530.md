@@ -4,7 +4,7 @@ identifier: "BWBR0016530"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2009-07-01"
+last_updated: "2011-03-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016530"
 soort: "AMvB"
@@ -54,7 +54,7 @@ Hebben goedgevonden en verstaan:
 
 - a. beschikking nr. 2000/532/EG: beschikking nr. 2000/532/EG van de Commissie van de Europese Gemeenschappen van 3 mei 2000 tot vervanging van beschikking nr. 94/3/EG houdende vaststelling van een lijst van afvalstoffen overeenkomstig artikel 1, onder a), van [Richtlijn 75/442/EEG](31975L0442) van de Raad van de Europese Gemeenschappen betreffende afvalstoffen en Beschikking nr. 94/904/EG van de Raad van de Europese Unie tot vaststelling van een lijst van gevaarlijke afvalstoffen overeenkomstig artikel 1, lid 4, van [Richtlijn nr. 91/689/EEG](31991L0689) van de Raad van de Europese Gemeenschappen betreffende gevaarlijke afvalstoffen (PbEG L 226/3);
 
-- b. afgewerkte olie: smeer- of systeemolie die in de bijlage bij beschikking nr. 2000/532/EG wordt aangeduid met de afvalstoffencodes 13 01 01* tot en met 13 01 13*, 13 02 04* tot en met 13 02 08* en 13 03 01* tot en met 13 03 10*, op minerale of synthetische basis, die door vermenging met andere stoffen of op andere wijze onbruikbaar is geworden voor het doel waarvoor zij oorspronkelijk was bestemd;
+- b. afgewerkte olie: elke soort minerale of synthetische smeerolie die ongeschikt is geworden voor het gebruik waarvoor zij oorspronkelijk bestemd was, waaronder in ieder geval worden begrepen gebruikte olie van verbrandingsmotoren en versnellingsbakken, alsmede smeerolie, olie voor turbines en hydraulische oliën;
 
 - c. klein gevaarlijk afval: gevaarlijke afvalstoffen als bedoeld in een van de volgende categorieën waarvan de houder zich ontdoet door afgifte:
 
@@ -98,15 +98,15 @@ Bij regeling van Onze Minister wordt bepaald op welke wijze de aanvraag geschied
 
 ##### Artikel 4
 
-Een inzamelaar die staat vermeld op de lijst van inzamelaars, meldt een verandering van de gegevens, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=2&artikel=3&z=2009-07-01&g=2009-07-01), onverwijld aan de instantie op een door Onze Minister te bepalen wijze.
+Een inzamelaar die staat vermeld op de lijst van inzamelaars, meldt een verandering van de gegevens, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=2&artikel=3&z=2011-03-05&g=2011-03-05), onverwijld aan de instantie op een door Onze Minister te bepalen wijze.
 
 ##### Artikel 5
 
-De instantie legt de gegevens, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=2&artikel=3&z=2009-07-01&g=2009-07-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=2&artikel=4&z=2009-07-01&g=2009-07-01), gedurende vier weken voor een ieder ter inzage.
+De instantie legt de gegevens, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=2&artikel=3&z=2011-03-05&g=2011-03-05) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=2&artikel=4&z=2011-03-05&g=2011-03-05), gedurende vier weken voor een ieder ter inzage.
 
 ##### Artikel 6
 
-De inzamelaar heeft tijdens het inzamelen een gewaarmerkte kopie aanwezig van het certificaat waaruit blijkt dat hij op de lijst van inzamelaars staat vermeld.
+De inzamelaar heeft tijdens het inzamelen een gewaarmerkte kopie, zichtbaar ten behoeve van de handhaving, aanwezig van het certificaat waaruit blijkt dat hij op de lijst van inzamelaars staat vermeld.
 
 ##### Artikel 7
 
@@ -196,13 +196,13 @@ Een vergunning van Onze Minister is vereist voor het inzamelen van:
 
 1. Degene die op het tijdstip van inwerkingtreding van dit besluit bedrijfsafvalstoffen of gevaarlijke afvalstoffen inzamelt waarvoor een vergunning is vereist, maar waarvoor voor dat tijdstip geen vergunning was vereist, dient zo spoedig mogelijk doch uiterlijk binnen drie maanden na dat tijdstip een aanvraag om een vergunning in.
 
-2. Onze Minister verstrekt de aanvrager die een ontvankelijke aanvraag heeft ingediend per omgaand een bewijs van ontvangst van de aanvraag. Dit bewijs geldt als een vergunning als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=9&z=2009-07-01&g=2009-07-01) totdat op de aanvraag is beslist.
+2. Onze Minister verstrekt de aanvrager die een ontvankelijke aanvraag heeft ingediend per omgaand een bewijs van ontvangst van de aanvraag. Dit bewijs geldt als een vergunning als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=9&z=2011-03-05&g=2011-03-05) totdat op de aanvraag is beslist.
 
 ##### Artikel 14
 
-1. In afwijking van [artikel 11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=11&z=2009-07-01&g=2009-07-01), kan tot uiterlijk drie jaar na het tijdstip van inwerkingtreding van dit besluit worden volstaan met het verstrekken van de gegevens, bedoeld in [artikel 11, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=11&z=2009-07-01&g=2009-07-01), of [artikel 11, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=11&z=2009-07-01&g=2009-07-01).
+1. In afwijking van [artikel 11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=11&z=2011-03-05&g=2011-03-05), kan tot uiterlijk drie jaar na het tijdstip van inwerkingtreding van dit besluit worden volstaan met het verstrekken van de gegevens, bedoeld in [artikel 11, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=11&z=2011-03-05&g=2011-03-05), of [artikel 11, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=11&z=2011-03-05&g=2011-03-05).
 
-2. Indien toepassing wordt gegeven aan het eerste lid, verstrekt de aanvrager uiterlijk op het tijdstip, bedoeld in het eerste lid, de gegevens, bedoeld in [artikel 11, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=11&z=2009-07-01&g=2009-07-01), of [artikel 11, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=11&z=2009-07-01&g=2009-07-01).
+2. Indien toepassing wordt gegeven aan het eerste lid, verstrekt de aanvrager uiterlijk op het tijdstip, bedoeld in het eerste lid, de gegevens, bedoeld in [artikel 11, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=11&z=2011-03-05&g=2011-03-05), of [artikel 11, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=11&z=2011-03-05&g=2011-03-05).
 
 ##### Artikel 15
 
@@ -262,7 +262,7 @@ II. Afgewerkte olie behoort tot categorie II, indien:
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-## Bijlage. behorende bij de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=1&artikel=1&z=2009-07-01&g=2009-07-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=9&z=2009-07-01&g=2009-07-01) van het Besluit inzamelen afvalstoffen
+## Bijlage. behorende bij de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=1&artikel=1&z=2011-03-05&g=2011-03-05) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=9&z=2011-03-05&g=2011-03-05) van het Besluit inzamelen afvalstoffen
 
 ### Categorieën van afgewerkte olie
 
