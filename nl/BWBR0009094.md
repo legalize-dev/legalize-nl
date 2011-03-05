@@ -4,7 +4,7 @@ identifier: "BWBR0009094"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2010-10-01"
+last_updated: "2011-03-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009094"
 soort: "AMvB"
@@ -140,7 +140,7 @@ Hebben goedgevonden en verstaan:
 
 - 33. vloeibare afvalstoffen;
 
-- 34. afvalstoffen die ontplofbaar, corrosief, oxiderend, licht ontvlambaar of ontvlambaar zijn, zoals omschreven in bijlage III bij [richtlijn nr. 91/689/EEG](31991L0689) van de Raad van 12 december 1991 betreffende gevaarlijke afvalstoffen (PbEG L 377);
+- 34. afvalstoffen die ontplofbaar, corrosief, oxiderend, licht ontvlambaar of ontvlambaar zijn, zoals omschreven in bijlage III bij de kaderrichtlijn afvalstoffen;
 
 - 35. niet-geïdentificeerde of nieuwe chemische stoffen, die afkomstig zijn van onderzoek, ontwikkelingsactiviteiten of onderwijs en waarvan de effecten op de volksgezondheid of het milieu niet bekend zijn.
 
@@ -150,19 +150,19 @@ Hebben goedgevonden en verstaan:
 
 3. Een wijziging van de in het eerste lid, onderdeel 34, bedoelde bijlage gaat voor de toepassing van dat onderdeel gelden met ingang van de dag waarop aan de betreffende wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
-4. Het is verboden afvalstoffen te verdunnen of te vermengen om te voldoen aan de voorschriften, bedoeld in [artikel 11f, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=2&artikel=11f&z=2010-10-01&g=2010-10-01).
+4. Het is verboden afvalstoffen te verdunnen of te vermengen om te voldoen aan de voorschriften, bedoeld in [artikel 11f, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=2&artikel=11f&z=2011-03-05&g=2011-03-05).
 
 ##### Artikel 2
 
-Het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=1&z=2010-10-01&g=2010-10-01) gestelde verbod geldt niet met betrekking tot afvalstoffen, behorende tot de categorieën, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=1&z=2010-10-01&g=2010-10-01):
+Het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=1&z=2011-03-05&g=2011-03-05) gestelde verbod geldt niet met betrekking tot afvalstoffen, behorende tot de categorieën, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=1&z=2011-03-05&g=2011-03-05):
 
 - a. onder 8, voor zover het schoongespoelde verpakkingen van gewasbeschermingsmiddelen of biociden betreft;
 
-- b. onder 19, voor zover het niet herbruikbaar en niet verbrandbaar bouw- en sloopafval, onderscheidenlijk niet herbruikbare en niet verbrandbare residuen afkomstig van het bewerken van bouw- en sloopafval al bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=6&z=2010-10-01&g=2010-10-01) betreft;
+- b. onder 19, voor zover het niet herbruikbaar en niet verbrandbaar bouw- en sloopafval, onderscheidenlijk niet herbruikbare en niet verbrandbare residuen afkomstig van het bewerken van bouw- en sloopafval al bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=6&z=2011-03-05&g=2011-03-05) betreft;
 
 - c. onder 19, voor zover het bouw- of sloopafval betreft, dat is verontreinigd met asbest als bedoeld in het [Asbestverwijderingsbesluit 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0019316), en voldaan is aan de eisen van dat besluit;
 
-- d. onder 21, voor zover het niet reinigbaar straalgrit als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=7&z=2010-10-01&g=2010-10-01) betreft;
+- d. onder 21, voor zover het niet reinigbaar straalgrit als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=7&z=2011-03-05&g=2011-03-05) betreft;
 
 - e. onder 24, voor zover deze: worden aangeboden onder overlegging van een verklaring van Onze Minister, waaruit blijkt dat de grond niet reinigbaar is;
 
@@ -170,7 +170,7 @@ Het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&a
 
 ##### Artikel 3
 
-1. Het is verboden afvalstoffen, behorende tot de categorieën, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=1&z=2010-10-01&g=2010-10-01), op of in de bodem te brengen in inrichtingen als bedoeld in categorie 28.1, onder d, van [bijlage I, onder C, bij het Besluit omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0027464&bijlage=I), anders dan voor het opslaan.
+1. Het is verboden afvalstoffen, behorende tot de categorieën, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=1&z=2011-03-05&g=2011-03-05), op of in de bodem te brengen in inrichtingen als bedoeld in categorie 28.1, onder d, van [bijlage I, onder C, bij het Besluit omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0027464&bijlage=I), anders dan voor het opslaan.
 
 2. Het eerste lid is niet van toepassing op afvalstoffen, voorzover deze worden toegepast als bouwstof, grond of baggerspecie overeenkomstig het [Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929), behorende tot:
 
@@ -180,7 +180,7 @@ Het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&a
 
 ##### Artikel 4
 
-1. In afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=1&z=2010-10-01&g=2010-10-01) kan het bevoegd gezag bij het verlenen of wijzigen van een omgevingsvergunning voor een inrichting in de daaraan te verbinden voorschriften bepalen dat het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=1&z=2010-10-01&g=2010-10-01) gestelde verbod niet geldt met betrekking tot het storten van afvalstoffen, behorende tot een daarbij aangewezen, in dat artikel genoemde categorie, voor zover dat in het belang van een doelmatig beheer van afvalstoffen noodzakelijk is, in gevallen waarin naar het oordeel van het bevoegd gezag:
+1. In afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=1&z=2011-03-05&g=2011-03-05) kan het bevoegd gezag bij het verlenen of wijzigen van een omgevingsvergunning voor een inrichting in de daaraan te verbinden voorschriften bepalen dat het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=1&z=2011-03-05&g=2011-03-05) gestelde verbod niet geldt met betrekking tot het storten van afvalstoffen, behorende tot een daarbij aangewezen, in dat artikel genoemde categorie, voor zover dat in het belang van een doelmatig beheer van afvalstoffen noodzakelijk is, in gevallen waarin naar het oordeel van het bevoegd gezag:
 
 - a. een tijdelijke stagnatie optreedt in de afzetmogelijkheden van een produkt dat is verkregen door be- of verwerking van de betrokken afvalstoffen, terwijl daarvoor geen andere be- of verwerkingsmogelijkheid beschikbaar is, of
 
@@ -194,9 +194,9 @@ Het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&a
 
 4. Onze Minister wijst bij ministeriële regeling de gegevens aan, die het bevoegd gezag ten behoeve van het toepassen van het derde lid aan hem verstrekt. Onze Minister kan categorieën van gevallen aanwijzen, waarin het tweede en het derde lid niet van toepassing zijn.
 
-5. Het eerste lid geldt niet voor de categorieën van afvalstoffen, genoemd in [artikel 1, eerste lid, onder 6, 15, 33, 34 en 35](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=1&z=2010-10-01&g=2010-10-01).
+5. Het eerste lid geldt niet voor de categorieën van afvalstoffen, genoemd in [artikel 1, eerste lid, onder 6, 15, 33, 34 en 35](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=1&z=2011-03-05&g=2011-03-05).
 
-6. Het bevoegd gezag verbindt aan de vergunning geen voorschrift als bedoeld in het eerste lid, indien daardoor strijd zou ontstaan met het ingevolge [artikel 11f](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=2&artikel=11f&z=2010-10-01&g=2010-10-01) bepaalde.
+6. Het bevoegd gezag verbindt aan de vergunning geen voorschrift als bedoeld in het eerste lid, indien daardoor strijd zou ontstaan met het ingevolge [artikel 11f](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=2&artikel=11f&z=2011-03-05&g=2011-03-05) bepaalde.
 
 ##### Artikel 5
 
@@ -226,7 +226,7 @@ Wijzigt deze wet.
 
 ##### Artikel 11
 
-Voor een inrichting waarvoor een verbod als bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=1&z=2010-10-01&g=2010-10-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=3&z=2010-10-01&g=2010-10-01) gaat gelden en waarin onmiddellijk voorafgaand aan het tijdstip waarop dat verbod gaat gelden, handelingen plegen te worden verricht, als waarop dat verbod betrekking heeft, blijft dat verbod met betrekking tot die handelingen buiten toepassing gedurende 3 maanden na dat tijdstip.
+Voor een inrichting waarvoor een verbod als bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=1&z=2011-03-05&g=2011-03-05) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=3&z=2011-03-05&g=2011-03-05) gaat gelden en waarin onmiddellijk voorafgaand aan het tijdstip waarop dat verbod gaat gelden, handelingen plegen te worden verricht, als waarop dat verbod betrekking heeft, blijft dat verbod met betrekking tot die handelingen buiten toepassing gedurende 3 maanden na dat tijdstip.
 
 #### Paragraaf 2. Bepalingen met betrekking tot stortplaatsen
 
@@ -334,9 +334,9 @@ Vervallen
 
 ##### Artikel 14
 
-1. Dit besluit treedt in werking met ingang van de dag waarop vier weken zijn verstreken sedert de datum van uitgifte van het Staatsblad waarin het wordt geplaatst met uitzondering van [artikel 1, eerste lid, categorieën 11, 13, 17, 18, 23 en 25](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=1&z=2010-10-01&g=2010-10-01), [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=2&z=2010-10-01&g=2010-10-01), [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=6&z=2010-10-01&g=2010-10-01), en artikel 9; deze artikelen of onderdelen daarvan treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+1. Dit besluit treedt in werking met ingang van de dag waarop vier weken zijn verstreken sedert de datum van uitgifte van het Staatsblad waarin het wordt geplaatst met uitzondering van [artikel 1, eerste lid, categorieën 11, 13, 17, 18, 23 en 25](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=1&z=2011-03-05&g=2011-03-05), [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=2&z=2011-03-05&g=2011-03-05), [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=6&z=2011-03-05&g=2011-03-05), en artikel 9; deze artikelen of onderdelen daarvan treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. [Artikel 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=2&z=2010-10-01&g=2010-10-01), vervalt met ingang van een bij koninklijk besluit te bepalen tijdstip.
+2. [Artikel 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=2&z=2011-03-05&g=2011-03-05), vervalt met ingang van een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 15
 
@@ -420,13 +420,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - c. die blijkens de omschrijving die aan degene die de stortplaats drijft is verstrekt, in geval van:
 
-- 1°. een stortplaats als bedoeld in [artikel 11c, eerste lid, onder a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=2&artikel=11c&z=2010-10-01&g=2010-10-01): niet voldoen aan de bij of krachtens onderdeel 1 van de bijlage bij dit besluit gestelde voorschriften;
+- 1°. een stortplaats als bedoeld in [artikel 11c, eerste lid, onder a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=2&artikel=11c&z=2011-03-05&g=2011-03-05): niet voldoen aan de bij of krachtens onderdeel 1 van de bijlage bij dit besluit gestelde voorschriften;
 
-- 2°. een stortplaats als bedoeld in [artikel 11c, eerste lid, onder a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=2&artikel=11c&z=2010-10-01&g=2010-10-01): niet voldoen aan de bij of krachtens onderdeel 2 van de bijlage bij dit besluit gestelde voorschriften;
+- 2°. een stortplaats als bedoeld in [artikel 11c, eerste lid, onder a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=2&artikel=11c&z=2011-03-05&g=2011-03-05): niet voldoen aan de bij of krachtens onderdeel 2 van de bijlage bij dit besluit gestelde voorschriften;
 
-- 3°. een stortplaats als bedoeld in [artikel 11c, eerste lid, onder a, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=2&artikel=11c&z=2010-10-01&g=2010-10-01): niet voldoen aan de bij of krachtens onderdeel 3 van de bijlage bij dit besluit gestelde voorschriften;
+- 3°. een stortplaats als bedoeld in [artikel 11c, eerste lid, onder a, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=2&artikel=11c&z=2011-03-05&g=2011-03-05): niet voldoen aan de bij of krachtens onderdeel 3 van de bijlage bij dit besluit gestelde voorschriften;
 
-- 4°. een stortplaats als bedoeld in [artikel 11c, eerste lid, onder a, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=2&artikel=11c&z=2010-10-01&g=2010-10-01): niet voldoen aan de bij of krachtens onderdeel 4 van de bijlage bij dit besluit gestelde voorschriften.
+- 4°. een stortplaats als bedoeld in [artikel 11c, eerste lid, onder a, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=2&artikel=11c&z=2011-03-05&g=2011-03-05): niet voldoen aan de bij of krachtens onderdeel 4 van de bijlage bij dit besluit gestelde voorschriften.
 
 2. Het verbod, bedoeld in het eerste lid, aanhef en onder a, geldt niet ten aanzien van:
 
@@ -476,7 +476,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. Degene die een stortplaats drijft, verricht alvorens afvalstoffen te accepteren, achtereenvolgens de volgende handelingen:
 
-- a. hij controleert de volledigheid van de in de omschrijving, bedoeld in [artikel 11f, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=2&artikel=11f&z=2010-10-01&g=2010-10-01), opgenomen gegevens;
+- a. hij controleert de volledigheid van de in de omschrijving, bedoeld in [artikel 11f, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=2&artikel=11f&z=2011-03-05&g=2011-03-05), opgenomen gegevens;
 
 - b. hij onderwerpt de afvalstoffen aan een visuele inspectie.
 
@@ -492,7 +492,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. Degene die een stortplaats drijft, draagt er zorg voor dat ten minste eenmaal per jaar door middel van het nemen en analyseren van monsters wordt gecontroleerd of de regelmatige afvalstoffen die hij accepteert:
 
-- a. in overeenstemming zijn met de omschrijving, bedoeld in [artikel 11f, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=2&artikel=11f&z=2010-10-01&g=2010-10-01), en
+- a. in overeenstemming zijn met de omschrijving, bedoeld in [artikel 11f, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=2&artikel=11f&z=2011-03-05&g=2011-03-05), en
 
 - b. voldoen aan de ingevolge dat onderdeel van toepassing zijnde voorschriften.
 
@@ -522,7 +522,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. Voor de toepassing van dit artikel wordt onder radioactieve afvalstof, natuurlijke bron, activiteit en activiteitsconcentratie verstaan hetgeen daaronder wordt verstaan in [artikel 1, eerste lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=1).
 
-2. Dit besluit is met uitzondering van [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&z=2010-10-01&g=2010-10-01) van overeenkomstige toepassing op radioactieve afvalstoffen van natuurlijke bronnen van ioniserende straling, waarin:
+2. Dit besluit is met uitzondering van [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&z=2011-03-05&g=2011-03-05) van overeenkomstige toepassing op radioactieve afvalstoffen van natuurlijke bronnen van ioniserende straling, waarin:
 
 - a. de activiteit van de betrokken natuurlijke bronnen op enig moment gelijk is aan of hoger is dan de in [bijlage 1, tabel 1, bij het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&bijlage=1) vermelde waarde, en
 
@@ -530,11 +530,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. Voor zover ingevolge het tweede lid dit besluit van overeenkomstige toepassing is op de in dat lid bedoelde afvalstoffen, worden die afvalstoffen, in afwijking van [artikel 1.1, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1), voor de toepassing van dit besluit en de daarop berustende bepalingen mede aangemerkt als afvalstoffen in de zin van [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245).
 
-4. Het is verboden afvalstoffen als bedoeld in het tweede lid te vermengen met of te voegen bij een afvalstof waarvoor ingevolge [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&z=2010-10-01&g=2010-10-01) een stortverbod geldt, teneinde die afvalstof te storten.
+4. Het is verboden afvalstoffen als bedoeld in het tweede lid te vermengen met of te voegen bij een afvalstof waarvoor ingevolge [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&z=2011-03-05&g=2011-03-05) een stortverbod geldt, teneinde die afvalstof te storten.
 
 #### Paragraaf 4. Overgangs- en slotbepalingen
 
-## Bijlage. , behorend bij de [artikelen 11d](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=2&artikel=11d&z=2010-10-01&g=2010-10-01) en [11f, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=2&artikel=11f&z=2010-10-01&g=2010-10-01), van het Besluit stortplaatsen en stortverboden afvalstoffen
+## Bijlage. , behorend bij de [artikelen 11d](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=2&artikel=11d&z=2011-03-05&g=2011-03-05) en [11f, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=2&artikel=11f&z=2011-03-05&g=2011-03-05), van het Besluit stortplaatsen en stortverboden afvalstoffen
 
 ### Onderdeel 1. **Afvalstoffen op een stortplaats voor inerte afvalstoffen**
 
