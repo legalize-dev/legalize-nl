@@ -4,7 +4,7 @@ identifier: "BWBR0029687"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2011-03-08"
-last_updated: "2011-01-01"
+last_updated: "2011-03-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029687"
 soort: "ministeriele-regeling-BES"
@@ -42,8 +42,6 @@ Besluit:
 
 Treedt in werking in Bonaire, Sint Eustatius en Saba.
 
-Werkt terug in Bonaire, Sint Eustatius en Saba.
-
 ##### Artikel 1. Hoogte kanstrajecttoelage
 
 De hoogte van de kanstrajecttoelage wordt als volgt vastgesteld:
@@ -54,7 +52,7 @@ De hoogte van de kanstrajecttoelage wordt als volgt vastgesteld:
 
 ##### Artikel 2. Overgangsbepaling
 
-In afwijking van [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0029687&artikel=1&z=2011-03-08&g=2011-01-01), wordt voor een jongere die vóór 1 januari 2011 is gestart met een kanstraject op grond van artikel 10 van de Landsverordening sociale vormingsplicht of van de [Wet sociale kanstrajecten](https://wetten.overheid.nl/jci1.3:c:BWBR0028506) zoals deze is komen te luiden op 10 oktober 2010, de maandelijkse tegemoetkoming voor de resterende duur van zijn traject vastgesteld op USD 280 per maand.
+In afwijking van [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0029687&artikel=1&z=2011-03-08&g=2011-03-08), wordt voor een jongere die vóór 1 januari 2011 is gestart met een kanstraject op grond van artikel 10 van de Landsverordening sociale vormingsplicht of van de [Wet sociale kanstrajecten](https://wetten.overheid.nl/jci1.3:c:BWBR0028506) zoals deze is komen te luiden op 10 oktober 2010, de maandelijkse tegemoetkoming voor de resterende duur van zijn traject vastgesteld op USD 280 per maand.
 
 ##### Artikel 3
 
