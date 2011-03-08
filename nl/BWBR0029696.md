@@ -4,7 +4,7 @@ identifier: "BWBR0029696"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2021-10-01"
-last_updated: "2011-01-01"
+last_updated: "2011-03-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029696"
 soort: "AMvB-BES"
@@ -48,8 +48,6 @@ Hebben goedgevonden en verstaan:
 
 Treedt in werking in Bonaire, Sint Eustatius en Saba
 
-Heeft terugwerkende kracht in Bonaire, Sint Eustatius en Saba
-
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
@@ -76,9 +74,9 @@ In deze formule wordt verstaan onder:
 
 - **q2:** het aantal deeltijds deelnemers dat op 1 oktober van het tweede jaar voorafgaand aan het kalenderjaar waarop de rijksbijdrage betrekking heeft daadwerkelijk een beroepsopleiding volgt aan de desbetreffende instelling.
 
-2. Indien de aanspraken het beschikbare budget voor het beroepsonderwijs, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029696&artikel=2&z=2011-03-08&g=2011-01-01), overschrijden, wordt de rijksbijdrage voor de beroepsopleidingen per instelling naar evenredigheid verlaagd.
+2. Indien de aanspraken het beschikbare budget voor het beroepsonderwijs, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029696&artikel=2&z=2011-03-08&g=2011-03-08), overschrijden, wordt de rijksbijdrage voor de beroepsopleidingen per instelling naar evenredigheid verlaagd.
 
-3. Indien het beschikbare budget voor het beroepsonderwijs, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029696&artikel=2&z=2011-03-08&g=2011-01-01), hoger is dan de berekende rijksbijdrages voor de beroepsopleidingen per instelling gezamenlijk, kan de rijksbijdrage voor de beroepsopleidingen worden verhoogd.
+3. Indien het beschikbare budget voor het beroepsonderwijs, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029696&artikel=2&z=2011-03-08&g=2011-03-08), hoger is dan de berekende rijksbijdrages voor de beroepsopleidingen per instelling gezamenlijk, kan de rijksbijdrage voor de beroepsopleidingen worden verhoogd.
 
 4. De op grond van het eerste lid berekende rijksbijdrage kan worden aangepast in verband met uit de rijksbegroting voortvloeiende maatregelen.
 
@@ -96,7 +94,7 @@ Het bevoegd gezag levert jaarlijks voor 1 juli aan Onze Minister de door hem gev
 
 ##### Artikel 6. Bekostiging overgangsperiode
 
-In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029696&artikel=3&z=2011-03-08&g=2011-01-01) omvat tot een bij koninklijk besluit te bepalen tijdstip de rijksbijdrage een door Onze Minister vast te stellen bedrag.
+In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029696&artikel=3&z=2011-03-08&g=2011-03-08) omvat tot een bij koninklijk besluit te bepalen tijdstip de rijksbijdrage een door Onze Minister vast te stellen bedrag.
 
 ##### Artikel 7. Inwerkingtreding
 
