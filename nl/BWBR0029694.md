@@ -4,7 +4,7 @@ identifier: "BWBR0029694"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2011-03-08"
-last_updated: "2011-01-01"
+last_updated: "2011-03-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029694"
 soort: "AMvB-BES"
@@ -47,8 +47,6 @@ Gezien het nader rapport van Onze Minister van Onderwijs, Cultuur en Wetenschap 
 Hebben goedgevonden en verstaan:
 
 Treedt in werking in Bonaire, St. Eustatius en Saba.
-
-Werkt terug in Bonaire, St. Eustatius en Saba.
 
 ##### Artikel 1. Begripsbepalingen
 
@@ -96,7 +94,7 @@ Bij intrekking of wijziging van de kanstrajecttoelage ten nadele van de deelneme
 
 ##### Artikel 7. Overgangsbepaling verdeelmaatstaf
 
-Tot het tijdstip waarop de ministeriële regeling, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029694&artikel=2&z=2011-03-08&g=2011-01-01), in werking treedt, wordt het budget voor kanstrajecten over de openbare lichamen verdeeld naar rato van de bedragen die de onderscheiden eilanden in 2009 van het Land Nederlandse Antillen ontvingen voor de uitvoering van de sociale vormingsplicht.
+Tot het tijdstip waarop de ministeriële regeling, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029694&artikel=2&z=2011-03-08&g=2011-03-08), in werking treedt, wordt het budget voor kanstrajecten over de openbare lichamen verdeeld naar rato van de bedragen die de onderscheiden eilanden in 2009 van het Land Nederlandse Antillen ontvingen voor de uitvoering van de sociale vormingsplicht.
 
 ##### Artikel 8. Inwerkingtreding
 
