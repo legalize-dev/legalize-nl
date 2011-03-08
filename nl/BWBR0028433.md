@@ -4,7 +4,7 @@ identifier: "BWBR0028433"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2023-01-01"
-last_updated: "2011-02-17"
+last_updated: "2011-03-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028433"
 soort: "wet-BES"
@@ -81,7 +81,7 @@ Het verzorgen van een omroepdienst in het openbaar lichaam Bonaire, Sint Eustati
 
 ##### Artikel 3
 
-1. Een toestemming als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028433&paragraaf=2&artikel=2&z=2011-02-17&g=2011-02-17) wordt op aanvraag verleend en geldt voor tien jaar.
+1. Een toestemming als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028433&paragraaf=2&artikel=2&z=2011-03-08&g=2011-03-08) wordt op aanvraag verleend en geldt voor tien jaar.
 
 2. Een toestemming wordt slechts verleend aan een aanvrager aan wie een machtiging als bedoeld in [artikel 15 van de Wet op de telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=15) is verleend.
 
@@ -95,7 +95,7 @@ Het verzorgen van een omroepdienst in het openbaar lichaam Bonaire, Sint Eustati
 
 ##### Artikel 4
 
-1. Het Commissariaat kan een aanvraag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028433&paragraaf=2&artikel=3&z=2011-02-17&g=2011-02-17), afwijzen indien:
+1. Het Commissariaat kan een aanvraag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028433&paragraaf=2&artikel=3&z=2011-03-08&g=2011-03-08), afwijzen indien:
 
 - a. de gegevens die door de aanvrager bij de aanvraag zijn ingediend onjuist of onvolledig zijn; of
 
@@ -137,7 +137,7 @@ Een omroepinstelling verspreidt geen programma-aanbod dat de lichamelijke, geest
 
 ##### Artikel 8
 
-1. Programma-aanbod wordt alleen gesponsord als in het redactiestatuut, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028433&paragraaf=3&artikel=5&z=2011-02-17&g=2011-02-17), waarborgen zijn opgenomen voor de redactionele onafhankelijkheid van de werknemers die belast zijn met de verzorging en samenstelling van het programma-aanbod ten opzichte van de sponsors.
+1. Programma-aanbod wordt alleen gesponsord als in het redactiestatuut, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028433&paragraaf=3&artikel=5&z=2011-03-08&g=2011-03-08), waarborgen zijn opgenomen voor de redactionele onafhankelijkheid van de werknemers die belast zijn met de verzorging en samenstelling van het programma-aanbod ten opzichte van de sponsors.
 
 2. Programma-aanbod bestaande uit nieuws, actualiteiten of politieke informatie wordt niet gesponsord.
 
@@ -147,7 +147,9 @@ Een omroepinstelling verspreidt geen programma-aanbod dat de lichamelijke, geest
 
 ##### Artikel 9
 
-Een omroepinstelling stelt overeenkomstig het bepaalde bij of krachtens de [artikelen 10 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028433&paragraaf=4&artikel=10&z=2011-02-17&g=2011-02-17),zendtijd ter beschikking.
+1. Een omroepinstelling stelt overeenkomstig het bepaalde bij of krachtens de [artikelen 10 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028433&paragraaf=4&artikel=10&z=2011-03-08&g=2011-03-08),zendtijd ter beschikking.
+
+2. Op degene aan wie zendtijd ter beschikking is gesteld zijn de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028433&paragraaf=3&artikel=5&z=2011-03-08&g=2011-03-08), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0028433&paragraaf=3&artikel=6&z=2011-03-08&g=2011-03-08), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028433&paragraaf=3&artikel=7&z=2011-03-08&g=2011-03-08), en [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028433&paragraaf=3&artikel=8&z=2011-03-08&g=2011-03-08), van overeenkomstige toepassing.
 
 ##### Artikel 10
 
@@ -185,7 +187,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld op 
 
 1. Bij algemene maatregel van bestuur worden, op voordracht van Onze Minister-President, Minister van Algemene Zaken, na overleg met Onze Minister, regels gesteld op grond waarvan in geval van buitengewone omstandigheden zendtijd en de daarbij behorende faciliteiten zoals studio’s ter beschikking worden gesteld aan de bij of krachtens die algemene maatregel van bestuur aangewezen autoriteiten of personen.
 
-2. Onze Minister-President, Minister van Algemene Zaken, is bevoegd in de algemene noodtoestand, na overleg met Onze Minister, regels te stellen over de inhoud van radio- en televisieprogramma’s en het toezicht daarop, waarbij kan worden afgeweken van het bepaalde in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028433&paragraaf=5&artikel=14&z=2011-02-17&g=2011-02-17) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028433&paragraaf=5&artikel=15&z=2011-02-17&g=2011-02-17).
+2. Onze Minister-President, Minister van Algemene Zaken, is bevoegd in de algemene noodtoestand, na overleg met Onze Minister, regels te stellen over de inhoud van radio- en televisieprogramma’s en het toezicht daarop, waarbij kan worden afgeweken van het bepaalde in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028433&paragraaf=5&artikel=14&z=2011-03-08&g=2011-03-08) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028433&paragraaf=5&artikel=15&z=2011-03-08&g=2011-03-08).
 
 ##### Artikel 14
 
@@ -197,7 +199,7 @@ Een omroepinstelling, een politieke partij en de overheid bewaren opnamen van he
 
 1. Het Commissariaat is belast met de bestuursrechtelijke handhaving van het bepaalde bij of krachtens deze wet.
 
-2. Bij overtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028433&paragraaf=2&artikel=2&z=2011-02-17&g=2011-02-17) en de [artikelen 5 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028433&paragraaf=3&artikel=5&z=2011-02-17&g=2011-02-17) kan het Commissariaat aan de overtreder per overtreding een bestuurlijke geldboete opleggen van de vierde categorie.
+2. Bij overtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028433&paragraaf=2&artikel=2&z=2011-03-08&g=2011-03-08) en de [artikelen 5 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028433&paragraaf=3&artikel=5&z=2011-03-08&g=2011-03-08) kan het Commissariaat aan de overtreder per overtreding een bestuurlijke geldboete opleggen van de vierde categorie.
 
 #### § 5. Toezicht en opsporing
 
