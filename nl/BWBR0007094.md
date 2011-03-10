@@ -4,7 +4,7 @@ identifier: "BWBR0007094"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-12-12"
-last_updated: "2010-01-02"
+last_updated: "2011-03-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007094"
 soort: "ministeriele-regeling"
@@ -53,7 +53,7 @@ Besluit:
 
 - d. **kleine vrije ballon:** een ballon die niet is verbonden met het aardoppervlak en die op zeeniveau in de internationale standaard-atmosfeer in geheel gevulde toestand een diameter van ten hoogste 2 m of een inhoud van ten hoogste 4 m³ heeft, dan wel een samenstel van ballons waarvan de gezamenlijke diameter of inhoud deze waarden niet te boven gaan;
 
-- e. **speelgoedballon:** kleine vrije ballon, of samenstel van kleine vrije ballons, waarvan de hoogte of de breedte niet meer dan 75 cm bedraagt en die geen metalen voorwerpen of onderdelen bevat.
+- e. **sfeerballon:** kleine vrije ballon, of samenstel van kleine vrije ballons, waarvan de hoogte of de breedte niet meer dan 75 cm bedraagt en die geen metalen voorwerpen of onderdelen bevat.
 
 ##### Artikel 2. Kabelvliegers en kleine kabelballons
 
@@ -69,7 +69,7 @@ Een kabelvlieger of kleine kabelballon wordt niet gebruikt:
 
 ##### Artikel 3. Kleine vrije ballons
 
-1. Een kleine vrije ballon met uitzondering van een speelgoedballon, wordt niet gebruikt:
+1. Een kleine vrije ballon met uitzondering van een sfeerballon, wordt niet gebruikt:
 
 - a. anders dan voor gebruik ten behoeve van wetenschappelijk onderzoek, waaronder begrepen het gebruik voor meteorologische doeleinden;
 
@@ -89,17 +89,17 @@ Een kabelvlieger of kleine kabelballon wordt niet gebruikt:
 
 5. Degene die een kleine vrije ballon wil oplaten binnen een afstand van 3 km van een zweefvliegterrein stelt al het mogelijke in het werk om vooraf overleg met de gebruiker van dat zweefvliegterrein te voeren.
 
-##### Artikel 4. Speelgoedballons
+##### Artikel 4. Sfeerballons
 
-1. Indien 1000 speelgoedballons, of meer, nagenoeg gelijktijdig worden opgelaten is daarop [artikel 3, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007094&artikel=3&z=2010-01-02&g=2010-01-02) van toepassing.
+1. Indien 1000 sfeerballons, of meer, nagenoeg gelijktijdig worden opgelaten is daarop [artikel 3, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007094&artikel=3&z=2011-03-10&g=2011-03-10) van toepassing.
 
-2. Voorwerpen die door speelgoedballons worden meegevoerd worden voorzien van een valscherm dat de daalsnelheid beperkt tot maximaal 5 m/sec indien deze voorwerpen ieder afzonderlijk of gezamenlijk:
+2. Voorwerpen die door sfeerballons worden meegevoerd worden voorzien van een valscherm dat de daalsnelheid beperkt tot maximaal 5 m/sec indien deze voorwerpen ieder afzonderlijk of gezamenlijk:
 
 - a. een massa van 30 gram of meer hebben, of
 
 - b. een oppervlakte-dichtheid van 5 gr/cm2 of meer hebben.
 
-3. Speelgoedballons die (een) voorwerp(en) meevoeren met een (gezamenlijke) massa van 30 gram of meer of een oppervlakte dichtheid van 5 gr/cm² of meer wordt(en) voorzien van een valscherm dat de daalsnelheid beperkt tot maximaal 5m/sec.
+3. Sfeerballons die (een) voorwerp(en) meevoeren met een (gezamenlijke) massa van 30 gram of meer of een oppervlakte dichtheid van 5 gr/cm² of meer wordt(en) voorzien van een valscherm dat de daalsnelheid beperkt tot maximaal 5m/sec.
 
 ##### Artikel 5. Intrekking
 
