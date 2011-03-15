@@ -4,7 +4,7 @@ identifier: "BWBR0026276"
 country: "nl"
 rank: "wet"
 publication_date: "2011-09-01"
-last_updated: "2009-09-01"
+last_updated: "2011-03-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026276"
 soort: "wet"
@@ -73,11 +73,11 @@ Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940–1945.
 
 ##### Artikel VIII
 
-Na inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0026276&artikel=I&z=2009-09-01&g=2009-09-01) van deze wet berust het [Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492) mede op de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=19) en [21 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=21).
+Na inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0026276&artikel=I&z=2011-03-15&g=2011-03-15) van deze wet berust het [Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492) mede op de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=19) en [21 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=21).
 
 ##### Artikel IX
 
-1. Indien op de datum van inwerkingtreding van deze wet ten aanzien van een zorgverzekering volgens de administratie van een zorgverzekeraar reeds een premieschuld van twee of meer maanden bestaat, doet deze zorgverzekeraar, in afwijking van [artikel 18a, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18a) het in dat artikel bedoelde aanbod zo spoedig mogelijk, maar in ieder geval binnen twee maanden na inwerkingtreding van deze wet.
+1. Indien op de datum van inwerkingtreding van deze wet ten aanzien van een zorgverzekering volgens de administratie van een zorgverzekeraar reeds een premieschuld van twee of meer maanden bestaat, doet deze zorgverzekeraar, in afwijking van [artikel 18a, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18a) het in dat artikel bedoelde aanbod zo spoedig mogelijk.
 
 2. Indien de verzekeringnemer een ander heeft verzekerd en ten aanzien van diens verzekering een premie-achterstand als bedoeld in het eerste lid is ontstaan:
 
@@ -101,7 +101,7 @@ Na inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0026
 
 ##### Artikel X
 
-1. In afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10), beslist het College zorgverzekeringen op bezwaren tegen beschikkingen als bedoeld in de [artikelen 18e](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18e) of [18f van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18f) binnen twaalf weken, indien het bezwaarschrift is ontvangen binnen twee jaar na de datum van inwerkingtreding van deze wet.
+1. In afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10), beslist het College zorgverzekeringen op bezwaren tegen beschikkingen als bedoeld in de [artikelen 18f](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18f) of [18g van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18g) binnen twaalf weken, indien het bezwaarschrift is ontvangen binnen twee jaar na de datum van inwerkingtreding van deze wet.
 
 2. Dit artikel vervalt met ingang van het derde jaar na de datum van inwerkingtreding van deze wet, met dien verstande dat het van toepassing blijft ten aanzien van op dat tijdstip aanhangige bezwaren.
 
