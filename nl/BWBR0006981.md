@@ -4,7 +4,7 @@ identifier: "BWBR0006981"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-04-01"
-last_updated: "2010-03-02"
+last_updated: "2011-03-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006981"
 soort: "AMvB"
@@ -46,7 +46,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Voor de ambtenaren, bedoeld in [artikel 3, eerste lid, aanhef en onder **a**, en onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0006981&artikel=3&z=2006-02-22&g=2010-03-02) indien zij zijn belast met de opsporing van alle strafbare feiten, en tweede lid van de [Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299), gelden de volgende rangen:
+1. Voor de ambtenaren, bedoeld in [artikel 3, eerste lid, aanhef en onder **a**, en onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0006981&artikel=3&z=2011-03-17&g=2011-03-17) indien zij zijn belast met de opsporing van alle strafbare feiten, en tweede lid van de [Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299), gelden de volgende rangen:
 
 - a. hoofdcommissaris;
 
@@ -100,11 +100,11 @@ Onverminderd het bepaalde in [artikel 45 van het Besluit rechtspositie vrijwilli
 
 - b. surveillant van politie voor de vrijwillige ambtenaar van politie, aangesteld voor de uitvoering van de politietaak, die is belast met de werkzaamheden, bedoeld in [artikel 1, eerste en tweede lid, van het Besluit taken vrijwillige ambtenaren van politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006653&artikel=1), en
 
-- c. de rangen, bedoeld in [artikel 1, eerste lid, onderdeel b tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0006981&artikel=1&z=2006-02-22&g=2010-03-02), voor de vrijwillige ambtenaar van politie, aangesteld voor de uitvoering van de politietaak, die is belast met de werkzaamheden, bedoeld in [artikel 2 van het Besluit taken vrijwillige ambtenaren van politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006653&artikel=2).
+- c. de rangen, bedoeld in [artikel 1, eerste lid, onderdeel b tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0006981&artikel=1&z=2011-03-17&g=2011-03-17), voor de vrijwillige ambtenaar van politie, aangesteld voor de uitvoering van de politietaak, die is belast met de werkzaamheden, bedoeld in [artikel 2 van het Besluit taken vrijwillige ambtenaren van politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006653&artikel=2).
 
 ##### Artikel 3
 
-1. Voor de ambtenaar die op grond van de regeling van Onze Ministers van Justitie en van Binnenlandse Zaken van 6 november 1992, nummer PRP92/U683, houdende regels ter uitvoering van [artikel 3, vierde lid, van het Besluit sociaal beleidskader reorganisatie politiebestel](https://wetten.overheid.nl/jci1.3:c:BWBR0005607&artikel=3) (**Stcrt.** 1992, 216) in een regionaal korps of het Korps landelijke politiediensten negatief verticaal geplaatst is, heeft, indien hij daartoe de aanvraag heeft gedaan, gedurende vijf jaren na de inwerkingtreding van dit besluit de rang die is verbonden aan de functie waaraan dezelfde salarisschaal is verbonden als de salarisschaal die is opgenomen in bijlage I van het Bezoldigingsreglement politie 1958 en voor hem gold voor het tijdstip waarop de negatieve verticale plaatsing plaatsvond.
+1. De ambtenaar die in een reorganisatie als bedoeld in [artikel 55i Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55i), negatief verticaal geplaatst is, behoudt, indien hij daartoe een aanvraag heeft gedaan, de rang die is verbonden aan de functie waaraan dezelfde salarisschaal is verbonden als de salarisschaal die is opgenomen in [bijlage I van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=I) en die voor hem gold voor het tijdstip waarop de negatieve verticale plaatsing plaatsvond.
 
 2. Indien de ambtenaar, bedoeld in het eerste lid, na de termijn van vijf jaren niet in een functie is geplaatst waaraan dezelfde salarisschaal is verbonden als de salarisschaal die is opgenomen in bijlage I van het Bezoldigingsreglement politie 1958 en die voor hem gold voor het tijdstip waarop de negatieve verticale plaatsing plaatsvond, wordt, indien de ambtenaar daartoe de aanvraag heeft gedaan, de termijn van vijf jaren verlengd.
 
