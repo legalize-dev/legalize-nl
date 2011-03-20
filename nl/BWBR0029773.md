@@ -4,7 +4,7 @@ identifier: "BWBR0029773"
 country: "nl"
 rank: "pbo"
 publication_date: "2012-06-03"
-last_updated: "2011-01-01"
+last_updated: "2011-03-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029773"
 soort: "pbo"
@@ -100,7 +100,7 @@ In deze verordening en de daarop berustende bepalingen wordt verder verstaan ond
 
 ##### Artikel 5
 
-Indien en voor zover de ondernemer via bloemenveilingen boomkwekerijproducten heeft verhandeld in het kalenderjaar waarover de heffing wordt opgelegd, en door de veiling bedragen zijn ingehouden met toepassing van het bepaalde in de Verordening PT vakheffing aanbod bloemkwekerijproducten 2011 of de Verordening PT vakheffing handel bloemkwekerijproducten 2011, worden deze bedragen aangemerkt als voorschotten op de ingevolge [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029773&paragraaf=2&artikel=2&z=2011-03-20&g=2011-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0029773&paragraaf=3&artikel=3&z=2011-03-20&g=2011-01-01) verschuldigde heffing.
+Indien en voor zover de ondernemer via bloemenveilingen boomkwekerijproducten heeft verhandeld in het kalenderjaar waarover de heffing wordt opgelegd, en door de veiling bedragen zijn ingehouden met toepassing van het bepaalde in de Verordening PT vakheffing aanbod bloemkwekerijproducten 2011 of de Verordening PT vakheffing handel bloemkwekerijproducten 2011, worden deze bedragen aangemerkt als voorschotten op de ingevolge [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029773&paragraaf=2&artikel=2&z=2011-03-20&g=2011-03-20) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0029773&paragraaf=3&artikel=3&z=2011-03-20&g=2011-03-20) verschuldigde heffing.
 
 ##### Artikel 6
 
