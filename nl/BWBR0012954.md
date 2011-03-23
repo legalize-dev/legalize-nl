@@ -4,7 +4,7 @@ identifier: "BWBR0012954"
 country: "nl"
 rank: "kb"
 publication_date: "2025-11-19"
-last_updated: "2010-01-02"
+last_updated: "2011-03-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012954"
 soort: "KB"
@@ -42,6 +42,8 @@ Gelet op [artikel 3 van het Vacatiegeldenbesluit 1988 (Stb. 1988, 205)](https://
 
 Hebben goedgevonden en verstaan:
 
+Werkt terug tot en met 1 januari 2001.
+
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder de Commissie: de commissie van deskundigen als bedoeld in [artikel 7, tweede lid van de Wet op het Notarisambt 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=7).
@@ -52,11 +54,11 @@ De voorzitter en de leden van de Commissie ontvangen een vaste jaarlijkse vergoe
 
 ##### Artikel 3
 
-De vergoeding van de voorzitter wordt vastgesteld op € 5672,25 (f 12 500,–).
+De vergoeding van de voorzitter wordt vastgesteld op € 6663.
 
 ##### Artikel 4
 
-De vergoeding van de leden wordt vastgesteld op € 4537,80 (f 10 000,–).
+De vergoeding van de leden wordt vastgesteld op € 5330.
 
 ##### Artikel 5
 
@@ -64,11 +66,11 @@ De vergoeding van de plaatsvervangend leden wordt naar rato van deelname vastges
 
 ##### Artikel 6
 
-De voorzitter en de leden wordt, voor zover zij in 2000 deel uitmaakten van de commissie, eenmalig een bedrag van € 3630,24 (f 8000,–) toegekend voor het ontwikkelen en vaststellen van een beoordelingssysteem van de ondernemingsplannen van notarissen.
+Vervallen
 
 ##### Artikel 7
 
-Indien de voorzitter of een lid van de Commissie niet gedurende het hele jaar de functie van voorzitter of lid bekleedt, wordt de vergoeding, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012954&artikel=3&z=2002-02-15&g=2010-01-02), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012954&artikel=4&z=2002-02-15&g=2010-01-02) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012954&artikel=6&z=2002-02-15&g=2010-01-02), naar evenredigheid vastgesteld.
+Indien de voorzitter of een lid van de Commissie niet gedurende het hele jaar de functie van voorzitter of lid bekleedt, wordt de vergoeding, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012954&artikel=3&z=2011-03-23&g=2011-03-23) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012954&artikel=4&z=2011-03-23&g=2011-03-23) naar evenredigheid vastgesteld.
 
 ##### Artikel 8
 
