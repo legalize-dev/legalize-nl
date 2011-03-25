@@ -4,7 +4,7 @@ identifier: "BWBV0005045"
 country: "nl"
 rank: "verdrag"
 publication_date: "2026-02-21"
-last_updated: "2010-08-05"
+last_updated: "2011-03-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005045"
 soort: "verdrag"
@@ -76,9 +76,9 @@ b). De instemming van alle bij dit Verdrag partij zijnde Regeringen, waarvan een
 
 - -. de toekenning van gelijk stemrecht aan alle leden van de Raad van Bestuur;
 
-- -. de garantie van de aandeelhouders inzake de uitvoering van door de Maatschappij gesloten financieringsovereenkomsten (bepalingen, vervat in de artikelen 2, 3, 4, 9, 15, [18](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=18&z=2010-08-05&g=2010-08-05) en [27](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=27&z=2010-08-05&g=2010-08-05) van de hierbij gevoegde Statuten).
+- -. de garantie van de aandeelhouders inzake de uitvoering van door de Maatschappij gesloten financieringsovereenkomsten (bepalingen, vervat in de artikelen 2, 3, 4, 9, 15, [18](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=18&z=2011-03-25&g=2011-03-25) en [27](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=27&z=2011-03-25&g=2011-03-25) van de hierbij gevoegde Statuten).
 
-c). Voor wijziging in de Statuten met betrekking tot de vermeerdering of vermindering van het maatschappelijk kapitaal, het stemrecht der aandeelhouders, de samenstelling van de Raad van Bestuur en de winstverdeling (bepalingen, vervat in de artikelen 5, 15, [18](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=18&z=2010-08-05&g=2010-08-05) en [30](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=30&z=2010-08-05&g=2010-08-05) van de hierbij gevoegde Statuten), is de instemming van de Regering van de Staat van vestiging vereist.
+c). Voor wijziging in de Statuten met betrekking tot de vermeerdering of vermindering van het maatschappelijk kapitaal, het stemrecht der aandeelhouders, de samenstelling van de Raad van Bestuur en de winstverdeling (bepalingen, vervat in de artikelen 5, 15, [18](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=18&z=2011-03-25&g=2011-03-25) en [30](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=30&z=2011-03-25&g=2011-03-25) van de hierbij gevoegde Statuten), is de instemming van de Regering van de Staat van vestiging vereist.
 
 d). De Regering van de Staat van vestiging geeft onverwijld kennis aan de andere Regeringen van alle Statutenwijzigingen, waartoe door de Maatschappij is besloten. In de gevallen, voorzien in de leden **b)** en **c)** van dit artikel, treden deze wijzigingen, indien geen bezwaar is gemaakt door enige Regering wier instemming op grond van de genoemde leden is vereist, drie maanden na de datum van deze kennisgeving in werking. De op grond van dit lid gemaakte bezwaren worden ter kennis gebracht van de Regering van de Staat van vestiging, die daarvan mededeling doet aan de andere Regeringen.
 
@@ -104,7 +104,7 @@ b). Deze garantie is evenwel niet vereist, indien een zodanige spoorweg zelf dez
 
 ##### Artikel 6
 
-a). Besluiten van de Maatschappij met betrekking tot de oprichting van agentschappen of filialen zijn onderworpen aan de instemming van alle bij dit Verdrag partij zijnde Regeringen, waarvan een spoorweg aandeelhouder van de Maatschappij is. De in de [leden d) en e) van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=2&z=2010-08-05&g=2010-08-05) vervatte procedure is van overeenkomstige toepassing op de in dit lid bedoelde besluiten van de Maatschappij.
+a). Besluiten van de Maatschappij met betrekking tot de oprichting van agentschappen of filialen zijn onderworpen aan de instemming van alle bij dit Verdrag partij zijnde Regeringen, waarvan een spoorweg aandeelhouder van de Maatschappij is. De in de [leden d) en e) van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=2&z=2011-03-25&g=2011-03-25) vervatte procedure is van overeenkomstige toepassing op de in dit lid bedoelde besluiten van de Maatschappij.
 
 b). De Maatschappij brengt ieder jaar aan de bij dit Verdrag partij zijnde Regeringen, waarvan een spoorweg aandeelhouder van de Maatschappij is, verslag uit over de ontwikkeling van de Maatschappij en haar financiële positie. Deze Regeringen plegen overleg omtrent alle problemen van gemeenschappelijk belang, die uit de werkzaamheden van de Maatschappij kunnen voortvloeien, alsmede over de maatregelen, die met het oog daarop noodzakelijk blijken.
 
@@ -126,7 +126,7 @@ De bij dit Verdrag partij zijnde Regeringen nemen, in het kader van hun deviezen
 
 ##### Artikel 10
 
-Indien later zou blijken, dat de toepassing van wettelijke voorschriften in het land van vestiging of in het land van een andere bij dit Verdrag partij zijnde Regering aanleiding zou kunnen geven tot moeilijkheden bij het nastreven van het doel der Maatschappij, zal de betrokken Regering met de andere Regeringen, op verzoek van één hunner, in overleg treden ten einde deze moeilijkheden op te lossen in de geest van de bepalingen van dit Verdrag en van het in [artikel 7, lid c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7&z=2010-08-05&g=2010-08-05), bedoelde [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005298).
+Indien later zou blijken, dat de toepassing van wettelijke voorschriften in het land van vestiging of in het land van een andere bij dit Verdrag partij zijnde Regering aanleiding zou kunnen geven tot moeilijkheden bij het nastreven van het doel der Maatschappij, zal de betrokken Regering met de andere Regeringen, op verzoek van één hunner, in overleg treden ten einde deze moeilijkheden op te lossen in de geest van de bepalingen van dit Verdrag en van het in [artikel 7, lid c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7&z=2011-03-25&g=2011-03-25), bedoelde [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005298).
 
 ##### Artikel 11
 
@@ -134,7 +134,7 @@ a). Iedere Regering van een Europees land, die dit Verdrag niet heeft onderteken
 
 b). De toetreding van een Regering, die geen lid is van de Europese Conferentie van Ministers van Verkeer, zal evenwel eerst van kracht worden nadat de instemming van alle bij dit Verdrag partij zijnde Regeringen aan de Regering van Zwitserland ter kennis is gebracht.
 
-c). De toetreding tot dit Verdrag heeft toetreding tot het in [artikel 7, lid c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7&z=2010-08-05&g=2010-08-05), bedoelde [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005298) tot gevolg.
+c). De toetreding tot dit Verdrag heeft toetreding tot het in [artikel 7, lid c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7&z=2011-03-25&g=2011-03-25), bedoelde [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005298) tot gevolg.
 
 ##### Artikel 12
 
@@ -144,7 +144,7 @@ Dit Verdrag is gesloten voor de duur van de Maatschappij.
 
 a). Een bij dit Verdrag partij zijnde Regering, waarvan geen spoorweg aandeelhouder is of waarvan iedere spoorweg heeft opgehouden aandeelhouder te zijn van de Maatschappij, kan haar deelneming aan dit Verdrag beëindigen door met inachtneming van een opzeggingstermijn van drie maanden een desbetreffende mededeling tot de Regering van Zwitserland te richten. Indien de opzegging echter geschiedt door de Regering van de Staat van vestiging, eindigt haar deelneming aan dit Verdrag eerst nadat de zetel van de Maatschappij is verplaatst naar een andere Staat.
 
-b). De uittreding van een Regering overeenkomstig dit artikel tast de door deze Regering ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=5&z=2010-08-05&g=2010-08-05) op zich genomen verplichtingen niet aan, voor wat betreft de verbintenissen welke door haar spoorweg of spoorwegen werden aangegaan, toen deze aandeelhouder van de Maatschappij waren.
+b). De uittreding van een Regering overeenkomstig dit artikel tast de door deze Regering ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=5&z=2011-03-25&g=2011-03-25) op zich genomen verplichtingen niet aan, voor wat betreft de verbintenissen welke door haar spoorweg of spoorwegen werden aangegaan, toen deze aandeelhouder van de Maatschappij waren.
 
 ##### Artikel 14
 
@@ -152,7 +152,7 @@ Ieder geschil tussen de bij dit Verdrag partij zijnde Regeringen met betrekking 
 
 ##### Artikel 15
 
-a). Dit Verdrag treedt in werking één maand nadat de Regering van Zwitserland het Verdrag alsmede het in [artikel 7, lid c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7&z=2010-08-05&g=2010-08-05), bedoelde [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005298) zal hebben bekrachtigd en de aandelen welke toebehoren aan de spoorwegen van de Regeringen, die het Verdrag hebben ondertekend zonder voorbehoud van bekrachtiging dan wel het hebben ondertekend met voorbehoud van bekrachtiging en hun akte van bekrachtiging hebben nedergelegd, 80% van het maatschappelijk kapitaal vertegenwoordigen.
+a). Dit Verdrag treedt in werking één maand nadat de Regering van Zwitserland het Verdrag alsmede het in [artikel 7, lid c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7&z=2011-03-25&g=2011-03-25), bedoelde [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005298) zal hebben bekrachtigd en de aandelen welke toebehoren aan de spoorwegen van de Regeringen, die het Verdrag hebben ondertekend zonder voorbehoud van bekrachtiging dan wel het hebben ondertekend met voorbehoud van bekrachtiging en hun akte van bekrachtiging hebben nedergelegd, 80% van het maatschappelijk kapitaal vertegenwoordigen.
 
 b). Voor iedere ondertekenende Regering, die het later bekrachtigt, treedt het Verdrag in werking onmiddellijk na de nederlegging van de akte van bekrachtiging.
 
@@ -162,7 +162,7 @@ c). De akten van bekrachtiging worden neder gelegd bij de Regering van Zwitserla
 
 a). Niettegenstaande de bepalingen van het vorige artikel komen de ondertekenende Regeringen overeen dit Verdrag voorlopig toe te passen voor zover met hun grondwettelijke bepalingen verenigbaar is. Op het ogenblik van de ondertekening zal iedere Regering bekend maken op welke voorwaarden en in hoeverre zij dit Verdrag voorlopig zal toepassen.
 
-b). Voor alle Regeringen, die dit Verdrag met of zonder voorbehoud hebben ondertekend, zal dit artikel in werking treden, zodra de Regering van Zwitserland dit Verdrag alsmede het in [artikel 7, lid c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7&z=2010-08-05&g=2010-08-05), bedoelde [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005298) zal hebben bekrachtigd.
+b). Voor alle Regeringen, die dit Verdrag met of zonder voorbehoud hebben ondertekend, zal dit artikel in werking treden, zodra de Regering van Zwitserland dit Verdrag alsmede het in [artikel 7, lid c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7&z=2011-03-25&g=2011-03-25), bedoelde [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005298) zal hebben bekrachtigd.
 
 ##### Artikel 17
 
@@ -196,31 +196,31 @@ De vennootschap wordt opgericht voor de duur van vijftig jaar. Na het verstrijke
 
 Het maatschappelijk kapitaal van de vennootschap bedraagt 2.600.000.000 Zwitserse francs, waarvan een bedrag van 520.000.000 Zwitserse francs (20%) geplaatst is. Het is verdeeld in 260.000 aandelen met een nominale waarde van 10.000 Zwitserse francs.
 
-Na de zevende uitbreiding van het kapitaal (1997) en de overdracht van aandelen (2008) zijn de aandelen als volgt verdeeld:
+Na de zevende uitbreding van het kapitaal (1997) en de overdracht van aandelen (2007) zijn de aandelen als volgt verdeeld:
 
 | 58.760 | Deutsche Bahn AG |
 | --- | --- |
 | 58.760 | Société Nationale des Chemins de fer français |
-| 35’100 | Ferrovie dello Stato S.p.A. |
-| 25’480 | SNCB Holding |
-| 15’080 | NV Nederlandse Spoorwegen |
-| 13’572 | RENFE Operadora |
-| 13’000 | Chemins de fer fédéraux suisses |
-| 5’824 | Železnice Srbije |
-| 5’200 | Zweedse staatsspoorwegen |
-| 5’200 | Société Nationale des Chemins de fer luxembourgeois |
-| 5’200 | ÖBB Holding SA |
-| 5’200 | Portugese spoorwegen |
-| 5’200 | Griekse spoorwegen |
-| 2’600 | České dráhy, a.s. |
-| 1’820 | Hongaarse staatsspoorwegen NV |
-| 1’300 | Železnicná spoločnost’ Slovensko, a.s |
+| 35 100 | Ferrovie dello Stato S.p.A |
+| 25 480 | SNCB Holding |
+| 15 080 | NV Nederlandse Spoorwegen |
+| 13 572 | RENFE Operadora |
+| 13 000 | Chemins de fer fédéraux suisses |
+| 5824 | Železnice Srbije |
+| 5200 | Zweedse staatsspoorwegen |
+| 5200 | Société Nationale des Chemins de fer luxembourgeois |
+| 5200 | ÖBB Holding SA |
+| 5200 | CP-Comboios de Portugal, E.P.E |
+| 5200 | Griekse Spoorwegen |
+| 2600 | České dráhy, a.s. |
+| 1820 | Hongaarse staatsspoorwegen NV |
+| 1300 | Železničná spoločnost’ Slovensko, a.s. |
 | 520 | HŽ Putnički prijevoz d.o.o. |
 | 520 | Slovenske železnice d.o.o. |
 | 520 | Spoorwegen van Bosnië en Herzegovina |
-| 520 | Société Commerciale BDZ SA |
-| 208 | Javno pretprijatie Makedonski Železnici-Infrastruktura |
-| 156 | Željeznica Crne Gore a.d. |
+| 520 | Holding Balgarski Darzhavni Zheleznitsi EAD |
+| 208 | Javno pretprijatie Makedonski Železnični- Infrastruktura |
+| 156 | Željeznički Prevoz Crne Gore a.d. |
 | 104 | Turkse staatsspoorwegen |
 | 52 | Deense staatsspoorwegen |
 | 52 | Noorse staatsspoorwegen |
