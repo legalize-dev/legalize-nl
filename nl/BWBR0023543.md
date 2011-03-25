@@ -4,7 +4,7 @@ identifier: "BWBR0023543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-18"
-last_updated: "2011-01-01"
+last_updated: "2011-03-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023543"
 soort: "ministeriele-regeling"
@@ -186,7 +186,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 3. De directeuren zijn budgethouder voor de hun door de directeur-generaal toegewezen budgetten.
 
-4. Voor zover het betreft personele besluiten hebben de directeuren en direct-leidinggevenden mandaat onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2010-12-03&g=2011-01-01), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2010-12-03&g=2011-01-01), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2010-12-03&g=2011-01-01) en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2010-12-03&g=2011-01-01).
+4. Voor zover het betreft personele besluiten hebben de directeuren en direct-leidinggevenden mandaat onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2011-03-25&g=2011-03-25), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2011-03-25&g=2011-03-25), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2011-03-25&g=2011-03-25) en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2011-03-25&g=2011-03-25).
 
 5. Het verlenen van ondermandaat ten aanzien van de in lid 1 en lid 2 bedoelde bevoegdheden is, indien deze betrekking hebben op personele aangelegenheden, niet mogelijk.
 
@@ -234,13 +234,13 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - g. het vaststellen van de OCW-formatie en de verdeling van de personeelscapaciteit van de OCW-formatie,
 
-- h. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2010-12-03&g=2011-01-01),
+- h. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2011-03-25&g=2011-03-25),
 
 - i. het nemen van besluiten die voor alle ambtenaren van het Ministerie gelden
 
 - j. het openstellen van externe vacatures,
 
-- k. het bepalen van een standpunt inzake een gemeld vermoeden van een misstand,
+- k. de afwikkeling van een gemeld vermoeden van een misstand,
 
 - l. voorstellen tot verzelfstandiging van een organisatieonderdeel,
 
@@ -266,7 +266,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - c. vaststelling of wijziging van het organisatie- en capaciteitsplan van een onder hem ressorterend dienstonderdeel,
 
-- d. het treffen van disciplinaire straffen, met uitzondering van voorwaardelijk en onvoorwaardelijk strafontslag en onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2010-12-03&g=2011-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2010-12-03&g=2011-01-01) en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2010-12-03&g=2011-01-01),
+- d. het treffen van disciplinaire straffen, met uitzondering van voorwaardelijk en onvoorwaardelijk strafontslag en onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2011-03-25&g=2011-03-25), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2011-03-25&g=2011-03-25) en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2011-03-25&g=2011-03-25),
 
 - e. opstellen van het bestedingsplan voor zijn directoraat-generaal, inspectie of baten-lastendienst op basis van de bestedingsplannen van de onder hem ressorterende organisatieonderdelen,
 
@@ -278,13 +278,13 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 2. Voor het inhuren van externe professionals en uitzendkrachten door een directeur is voorafgaande goedkeuring van de directeur-generaal vereist voor zover het betreft bedragen boven € 60 per uur.
 
-3. De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaarschriften onverminderd [artikel 12, eerste lid, onderdelen o en p](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2010-12-03&g=2011-01-01).
+3. De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaarschriften onverminderd [artikel 12, eerste lid, onderdelen o en p](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2011-03-25&g=2011-03-25).
 
 4. Met uitzondering van de bevoegdheid bedoeld in lid 3 is ondermandaat van de bevoegdheden, bedoeld in dit artikel niet mogelijk.
 
 ##### Artikel 14. Voorbehouden aan de directeur-generaal DUO en de directeur CO
 
-1. De directeur-generaal DUO en de directeur Concernondersteuning zijn voor de onder hen ressorterende medewerkers gemandateerd met betrekking tot het nemen van personele besluiten, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2010-12-03&g=2011-01-01), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2010-12-03&g=2011-01-01) en [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2010-12-03&g=2011-01-01), voor zover het betreft:
+1. De directeur-generaal DUO en de directeur Concernondersteuning zijn voor de onder hen ressorterende medewerkers gemandateerd met betrekking tot het nemen van personele besluiten, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2011-03-25&g=2011-03-25), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2011-03-25&g=2011-03-25) en [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2011-03-25&g=2011-03-25), voor zover het betreft:
 
 - a. aanstellings- en benoemingsbesluiten en daaraan voorafgaande besluiten die daarop betrekking hebben,
 
@@ -294,7 +294,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - d. besluiten inhoudende erkenning van aansprakelijkheid ten aanzien van beroepsziekte, dienstongeval en beroepsincident en daaruit voortvloeiende besluiten met betrekking tot vergoeding van schade en besluiten met betrekking tot vergoedingen als bedoeld in de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=47), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=48), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=66), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=69) en [73 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=73).
 
-2. In afwijking van het bepaalde in [artikel 11 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=11&z=2010-12-03&g=2011-01-01) van dit besluit is ondermandaat van de in dit artikel opgenomen bevoegdheden mogelijk na instemming van de secretaris-generaal en de plaatsvervangend secretaris-generaal.
+2. In afwijking van het bepaalde in [artikel 11 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=11&z=2011-03-25&g=2011-03-25) van dit besluit is ondermandaat van de in dit artikel opgenomen bevoegdheden mogelijk na instemming van de secretaris-generaal en de plaatsvervangend secretaris-generaal.
 
 ##### Artikel 15. Afwezigheid of verhindering
 
@@ -320,9 +320,9 @@ handtekening van de gemandateerde,
 
 naam van de gemandateerde.
 
-2. De gemandateerde is gehouden in de ondertekening van stukken als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14a&z=2010-12-03&g=2011-01-01) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
+2. De gemandateerde is gehouden in de ondertekening van stukken als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14a&z=2011-03-25&g=2011-03-25) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
 
-**De minister van Onderwijs, Cultuur en Wetenschap en de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,**
+**De minister van Onderwijs, Cultuur en Wetenschap en de minister van Infrastructuur en Milieu,**
 
 **namens dezen, functie van de gemandateerde,**
 
@@ -728,9 +728,9 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 14a. Mandaatbesluit beschermde stads- en dorpsgezichten
 
-1. De directeur van de Rijksdienst voor het Cultureel Erfgoed is gemandateerd om, namens de secretaris-generaal, mede namens de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer besluiten te nemen als bedoeld in [artikel 1, eerste lid, aanhef en onder a en d, van het Mandaatbesluit beschermde stads- en dorpsgezichten](https://wetten.overheid.nl/jci1.3:c:BWBR0027565&artikel=1). Hij kan met betrekking tot dit mandaat ondermandaat verlenen aan één of meer onder hem ressorterende functionarissen.
+1. De directeur van de Rijksdienst voor het Cultureel Erfgoed is gemandateerd om, namens de secretaris-generaal, mede namens de Minister van Infrastructuur en Milieu besluiten te nemen als bedoeld in [artikel 1, eerste lid, aanhef en onder a en d, van het Mandaatbesluit beschermde stads- en dorpsgezichten](https://wetten.overheid.nl/jci1.3:c:BWBR0027565&artikel=1). Hij kan met betrekking tot dit mandaat ondermandaat verlenen aan één of meer onder hem ressorterende functionarissen.
 
-2. De directeur-generaal DUO is gemandateerd om, namens de secretaris-generaal, mede namens de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer besluiten te nemen als bedoeld in [artikel 1, eerste lid, aanhef en onder b en c, van het Mandaatbesluit beschermde stads- en dorpsgezichten](https://wetten.overheid.nl/jci1.3:c:BWBR0027565&artikel=1), tenzij dit op grond van het bepaalde in [artikel 12, eerste lid, aanhef en onder p](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2010-12-03&g=2011-01-01), is voorbehouden aan de secretaris-generaal. De directeur-generaal DUO kan met betrekking tot dit mandaat ondermandaat verlenen aan één of meer onder hem ressorterende functionarissen.
+2. De directeur-generaal DUO is gemandateerd om, namens de secretaris-generaal, mede namens de Minister van Infrastructuur en Milieu besluiten te nemen als bedoeld in [artikel 1, eerste lid, aanhef en onder b en c, van het Mandaatbesluit beschermde stads- en dorpsgezichten](https://wetten.overheid.nl/jci1.3:c:BWBR0027565&artikel=1), tenzij dit op grond van het bepaalde in [artikel 12, eerste lid, aanhef en onder p](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2011-03-25&g=2011-03-25), is voorbehouden aan de secretaris-generaal. De directeur-generaal DUO kan met betrekking tot dit mandaat ondermandaat verlenen aan één of meer onder hem ressorterende functionarissen.
 
 ## Bijlage. : Organisatie van het Ministerie van Onderwijs, Cultuur en Wetenschap
 
@@ -794,13 +794,11 @@ Het Ministerie bestaat uit de volgende dienstonderdelen:
 
 - b. Beleidsdirecties gericht op een thema:
 
-- 1e. Jeugd en Onderwijszorg
+- 1e. **Jeugd en Onderwijszorg**
 
-- 2e. Kinderopvang
+- 2e. **Leraren**
 
-- 3e. Leraren
-
-- 4e. Voortijdig Schoolverlaten (VSV)
+- 3e. **Voortijdig Schoolverlaten (VSV)**
 
 - c. Ondersteunend bureau voor de:
 
@@ -842,11 +840,9 @@ Het Ministerie bestaat uit de volgende dienstonderdelen:
 
 - 3e. Media, Letteren en Bibliotheken (MLB)
 
-- b. Beleidsdirecties ingericht als buitendienst:
+- b. Beleidsdirectie ingericht als buitendienst:
 
-- 1e. Instituut Collectie Nederland (ICN)
-
-- 2e. Rijksdienst voor het Cultureel Erfgoed (RCE)
+- **Rijksdienst voor het Cultureel Erfgoed (RCE)**
 
 - c. Baten-lastendienst:
 
@@ -936,11 +932,13 @@ DK is verantwoordelijk voor de beleidsontwikkeling op het terrein van kunsten.
 
 De directie MLB is verantwoordelijk voor de beleidsontwikkeling op het terrein van omroep, pers, nieuwe media, het boek en lezen (letteren, bibliotheken en leesbevordering). Doel is dat zoveel mogelijk burgers toegang hebben tot een onafhankelijk, gevarieerd en kwalitatief hoogstaand media- en informatieaanbod.
 
-Het ICN beheert op basis van het KB 21, 1984 de Rijkscollectie voor zover niet ondergebracht bij rijksmusea. Tevens is ICN (mede)verantwoordelijk voor de ontwikkeling en uitvoering van het beleid voor roerend cultureel erfgoed en fungeert het op dat terrein als kenniscentrum.
+De RCE voert, namens de minister, de [Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471) uit en fungeert als kenniscentrum voor de instandhouding van het archeologische, gebouwde en cultuurlandschappelijke erfgoed van Nederland. De dienst is (mede) verantwoordelijk voor de beleidsontwikkeling en het uitvoeren van het beleid met betrekking tot het cultureel erfgoed en fungeert als kennisinstituut voor de bescherming van waardevolle sporen van menselijke bewoning.
 
-De RCE voert, namens de minister, de [Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471) met uitzondering van de archeologische monumentenzorg, uit en fungeert als kenniscentrum voor de instandhouding van het gebouwde en cultuurlandschappelijke erfgoed van Nederland. De dienst is (mede) verantwoordelijk voor de beleidsontwikkeling en het uitvoeren van het beleid m.b.t. de monumentenzorg.
+De dienst draagt in opdracht van het Ministerie van Onderwijs, Cultuur en Wetenschap zorg voor de kunstcollectie van het Rijk voor zover niet ondergebracht bij rijksmusea en streeft ernaar deze optimaal toegankelijk te maken.
 
-Tevens voert de dienst namens de minister, de [Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471) uit voor zover het betreft de archeologische monumentenzorg. De dienst fungeert als kennisinstituut voor de bescherming van waardevolle sporen van menselijke bewoning en is (mede)verantwoordelijk voor de beleidsontwikkeling en de uitvoering van het beleid voor archeologische monumentenzorg.
+De dienst is (mede)verantwoordelijk voor de ontwikkeling en uitvoering van het beleid voor roerend cultureel erfgoed en fungeert op dat terrein als kenniscentrum.
+
+De dienst ontwikkelt en verspreidt kennis die het beheer en behoud van de erfgoedcollectie ondersteunt en verbetert en die de betekenis daarvan duidt en kenbaar maakt.
 
 DUO is de hoofduitvoerder van OCW en voert de volgende kerntaken uit:
 
