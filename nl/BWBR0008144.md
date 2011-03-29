@@ -4,7 +4,7 @@ identifier: "BWBR0008144"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2010-09-29"
+last_updated: "2011-03-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008144"
 soort: "ministeriele-regeling"
@@ -89,13 +89,15 @@ Aan de dienst worden de volgende taken opgedragen:
 
 - 2°. ingeval van door de Dienst Wegverkeer geconstateerd misbruik door de in onderdeel 1 bedoelde partijen of een door hen ingeschakelde derde van de in het kader van een eerdere terugroepactie verstrekte gegevens;
 
-- r. het ontwikkelen, in stand houden en beheren van een systeem voor de centrale registratie van parkeer- en verblijfsrechten gekoppeld aan individuele kentekens ten behoeve van gemeenten alsmede het ter beschikking stellen van informatie uit deze registratie aan daartoe gerechtigde partijen.
+- r. het ontwikkelen, in stand houden en beheren van een systeem voor de centrale registratie van parkeer- en verblijfsrechten gekoppeld aan individuele kentekens ten behoeve van gemeenten alsmede het ter beschikking stellen van informatie uit deze registratie aan daartoe gerechtigde partijen;
+
+- s. het bewaren van strafrechtelijk in beslag genomen rijbewijzen en kentekenbewijzen.
 
 ##### Artikel 3. Voorwaarden
 
-1. De dienst mag voor de in [artikel 2, onder a tot en met d, j, p en q](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2010-06-16&g=2010-09-29), bedoelde activiteiten prijzen in rekening brengen.
+1. De dienst mag voor de in [artikel 2, onder a tot en met d, j, en p tot en met r](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2011-03-29&g=2011-03-29), bedoelde activiteiten prijzen in rekening brengen.
 
-2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2010-06-16&g=2010-09-29) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
+2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2011-03-29&g=2011-03-29) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
 
 - a. de exploitatie mag niet ten koste gaan van de in artikel 4b, eerste en tweede lid, onderdeel a, bedoelde taken;
 
