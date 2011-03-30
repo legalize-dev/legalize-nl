@@ -4,7 +4,7 @@ identifier: "BWBR0008666"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-03-30"
-last_updated: "2000-11-01"
+last_updated: "2011-03-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008666"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Als instelling voor de registratie van snelle motorboten als bedoeld in [artikel
 
 ##### Artikel 2
 
-Voor het registratiebewijs als bedoeld in [artikel 8.01, eerste lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=8.01) wordt het in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008666&bijlage=1&z=2000-11-01&g=2000-11-01) bij deze regeling opgenomen model vastgesteld.
+Voor het registratiebewijs als bedoeld in [artikel 8.01, eerste lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=8.01) wordt de in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008666&bijlage=1&z=2011-03-30&g=2011-03-30) bij deze regeling opgenomen modellen vastgesteld.
 
 ##### Artikel 3
 
@@ -52,7 +52,7 @@ De geldigheid van registratiebewijzen, die zijn afgegeven vóór 1 maart 1995, v
 
 1. Een registratiebewijs afgegeven dan wel erkend door of vanwege het Bondsministerie voor Verkeer van de Bondsrepubliek Duitsland, een registratiebewijs afgegeven door of vanwege het Ministerie van Verkeer en Infrastructuur van het Koninkrijk België en een registratiebewijs afgegeven door of vanwege het Ministerie van Milieu en Transport van het Verenigd Koninkrijk wordt geacht te zijn afgegeven door een instelling als bedoeld in [artikel 8.01, eerste lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=8.01).
 
-2. Het in de Bondsrepubliek Duitsland afgegeven registratiebewijs met het bijbehorende registratieteken kan een letter of een lettercombinatie bevatten als vermeld in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008666&bijlage=2&z=2000-11-01&g=2000-11-01), [onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008666&bijlage=2&z=2000-11-01&g=2000-11-01).1, bij deze regeling, gevolgd door een combinatie van letters en en cijfers. Het registratiebewijs komt overeen met het model als opgenomen in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008666&bijlage=2&z=2000-11-01&g=2000-11-01), [onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008666&bijlage=2&z=2000-11-01&g=2000-11-01), bij deze regeling. Het door het Bondsministerie voor Verkeer van de Bondsrepubliek Duitsland erkende registratieteken kan een letter bevatten als vermeld in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008666&bijlage=2&z=2000-11-01&g=2000-11-01), [onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008666&bijlage=2&z=2000-11-01&g=2000-11-01).2, bij deze regeling, voorafgegaan door maximaal 5 cijfers.
+2. Het in de Bondsrepubliek Duitsland afgegeven registratiebewijs met het bijbehorende registratieteken kan een letter of een lettercombinatie bevatten als vermeld in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008666&bijlage=2&z=2011-03-30&g=2011-03-30), [onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008666&bijlage=2&z=2011-03-30&g=2011-03-30).1, bij deze regeling, gevolgd door een combinatie van letters en en cijfers. Het registratiebewijs komt overeen met het model als opgenomen in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008666&bijlage=2&z=2011-03-30&g=2011-03-30), [onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008666&bijlage=2&z=2011-03-30&g=2011-03-30), bij deze regeling. Het door het Bondsministerie voor Verkeer van de Bondsrepubliek Duitsland erkende registratieteken kan een letter bevatten als vermeld in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008666&bijlage=2&z=2011-03-30&g=2011-03-30), [onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008666&bijlage=2&z=2011-03-30&g=2011-03-30).2, bij deze regeling, voorafgegaan door maximaal 5 cijfers.
 
 3. Het in het Koninkrijk België afgegeven bijzonder identificatienummer bestaat uit de letter B gevolgd door vijf cijfers.
 
@@ -70,7 +70,15 @@ Deze regeling kan worden aangehaald als: Regeling registratie snelle motorboten 
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-## Bijlage 1
+## Bijlage 1. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008666&artikel=2&z=2011-03-30&g=2011-03-30) van de Regeling registratie snelle motorboten 1997
+
+(model voorzijde registratiebewijs snelle motorboot afgegeven tot en met 31 maart 2011)
+
+(model achterzijde registratiebewijs snelle motorboot afgegeven tot en met 31 maart 2011)
+
+(model voorzijde registratiebewijs snelle motorboot afgegeven met ingang van 1 april 2011)
+
+(model achterzijde registratiebewijs snelle motorboot afgegeven met ingang van 1 april 2011)
 
 ## Bijlage 2. bij de Regeling registratie snelle motorboten 1997
 
