@@ -4,7 +4,7 @@ identifier: "BWBR0029790"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-04-01"
-last_updated: "2010-10-14"
+last_updated: "2011-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029790"
 soort: "ministeriele-regeling"
@@ -40,7 +40,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. Er is een Ereteken voor Verdienste van het Ministerie van Buitenlandse Zaken, als omschreven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029790&bijlage=1&z=2011-04-01&g=2010-10-14) bij dit besluit.
+1. Er is een Ereteken voor Verdienste van het Ministerie van Buitenlandse Zaken, als omschreven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029790&bijlage=1&z=2011-04-01&g=2011-04-01) bij dit besluit.
 
 2. Het Ereteken kent twee graden:
 
@@ -54,7 +54,7 @@ Besluit:
 
 2. Het Ereteken kan ten hoogste eenmaal in zilver en eenmaal in goud aan dezelfde persoon worden toegekend.
 
-3. Bij de uitreiking van het Ereteken wordt een oorkonde overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029790&bijlage=2&z=2011-04-01&g=2010-10-14) dan wel [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029790&bijlage=3&z=2011-04-01&g=2010-10-14) bij dit besluit verstrekt.
+3. Bij de uitreiking van het Ereteken wordt een oorkonde overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029790&bijlage=2&z=2011-04-01&g=2011-04-01) dan wel [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029790&bijlage=3&z=2011-04-01&g=2011-04-01) bij dit besluit verstrekt.
 
 ##### Artikel 3
 
