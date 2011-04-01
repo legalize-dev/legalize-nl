@@ -4,7 +4,7 @@ identifier: "BWBR0029413"
 country: "nl"
 rank: "wet"
 publication_date: "2013-12-01"
-last_updated: "2011-03-01"
+last_updated: "2011-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029413"
 soort: "wet"
@@ -73,11 +73,13 @@ De [Invoeringswet Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Kieswet.
 
 ##### Artikel VIIIa
 
-Dit onderdeel is nog niet inwerking getreden
+1. Wijzigt deze wet.
+
+2. Wijzigt de Wijzigingswet Kieswet (aanpassing bepalingen verkiezing leden Eerste Kamer).
 
 ##### Artikel IX
 
@@ -163,7 +165,7 @@ Wijzigt de Uitvoeringswet EGTS-verordening.
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. [Artikel XXVI](https://wetten.overheid.nl/jci1.3:c:BWBR0029413&artikel=XXVI&z=2011-03-01&g=2011-03-01) werkt terug tot en met het tijdstip waarop [artikel 8 van de Wet ambulancezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0025304&artikel=8) in werking is getreden.
+2. [Artikel XXVI](https://wetten.overheid.nl/jci1.3:c:BWBR0029413&artikel=XXVI&z=2011-04-01&g=2011-04-01) werkt terug tot en met het tijdstip waarop [artikel 8 van de Wet ambulancezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0025304&artikel=8) in werking is getreden.
 
 ##### Artikel XXX
 
