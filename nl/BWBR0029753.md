@@ -1,0 +1,156 @@
+---
+title: "Aanwijzing toepassing opsporingsbevoegdheden en dwangmiddelen tegen advocaten"
+identifier: "BWBR0029753"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2011-04-01"
+last_updated: "2011-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029753"
+soort: "beleidsregel"
+stam_id: "11277183"
+version_id: "18469642"
+internal_id: "C25754171"
+label_id: "11251534"
+dtd_version: "2.0"
+original_entry_into_force: "2011-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029753/2011-04-01/0"
+intitule_bron: "Stcrt.2011-4981"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-03-07"
+intitule_published: "2011-03-23"
+intitule_in_force: "2011-03-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-4981"
+original_signed_date: "2011-03-07"
+original_published_date: "2011-03-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-4981"
+entry_into_force_date: "2011-04-01"
+jci_1_3: "jci1.3:c:BWBR0029753&z=2011-04-01&g=2011-04-01"
+jci_1_0: "1.0:c:BWBR0029753&g=2011-04-01"
+citeertitel_status: "redactioneel"
+signed_date: "2011-03-07"
+entry_into_force: "2011-04-01"
+---
+# Aanwijzing toepassing opsporingsbevoegdheden en dwangmiddelen tegen advocaten
+
+### Achtergrond
+
+De advocatuur behoort van oudsher tot de beperkte groep beroepsbeoefenaren die een beroep kan doen op het verschoningsrecht. Het verschoningsrecht beoogt de relatie tussen advocaat en cliënt te beschermen. Het verschoningsrecht dient echter niet alleen het belang van het individu. Het achterliggende grotere maatschappelijke belang van het verschoningsrecht beschermt ook het vertrouwen dat een ieder mag hebben, dat een advocaat niets zal behoeven te openbaren van hetgeen hem of haar functioneel bekend is geworden.
+
+Het verschoningsrecht voor advocaten stelt grenzen aan de reikwijdte van de strafrechtelijke waarheidsvinding. Dat is zowel het geval gedurende het voorbereidend onderzoek als tijdens het onderzoek ter zitting. In het algemeen zal het belang van de waarheidsvinding in strafzaken zelfs moeten wijken voor het door de geheimhoudingsplicht en het verschoningsrecht van de advocaat beschermde belang dat een burger vrijelijk met zijn advocaat kan communiceren.
+
+De wetgever heeft in het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) (Sv) op verschillende plaatsen het, onder meer aan de advocaat toekomende, verschoningsrecht gewaarborgd. Daarnaast volgen ook uit de jurisprudentie en uit beleidsregels bijzondere normen die het OM en de onder het gezag van het OM opererende opsporingsambtenaren in acht hebben te nemen wanneer bij de inzet van opsporingsbevoegdheden en dwangmiddelen het verschoningsrecht van een advocaat in beeld komt.
+
+Het feit dat het verschoningsrecht van de advocaat binnen onze rechtsorde een zo prominente plaats inneemt, betekent echter niet dat de advocaat daarom nooit in een opsporingsonderzoek betrokken zou kunnen worden. Een voorbeeld is de – overigens zeer zelden voorkomende – situatie dat een advocaat zijn beroep misbruikt voor het verlenen van juridische hand- en spandiensten aan een criminele organisatie. Dan is het niet zo dat alle mogelijke activiteiten en contacten van een advocaat worden afgedekt door zijn wettelijk verschoningsrecht.
+
+In ieder geval dient het OM steeds omzichtig te werk te gaan bij onderzoeken waarbij een advocaat als verdachte of als advocaat van een verdachte in beeld komt, opdat de geheimhoudingsplicht van die advocaat ten opzichte van zijn cliënten en diens verschoningsrecht gerespecteerd worden. In die uitzonderlijke gevallen waarin het verschoningsrecht voor de waarheidsvinding mag wijken, moet de inbreuk tot het noodzakelijke minimum beperkt blijven. Uiteraard brengt het maatschappelijk belang dat de advocatuur haar publieke rol vrijelijk kan uitoefenen al met zich mee dat reeds aan de beslissing om een advocaat als verdachte aan te merken een grondige afweging ten grondslag moet liggen.
+
+In het geval het noodzakelijk is dat een advocaat als verdachte moet worden aangemerkt is dit een gevoelige zaak en dient te worden gehandeld conform de Aanwijzing gevoelige zaken. Dit betekent dat de vervolging van de advocaat en de toepassing van dwangmiddelen slechts geschiedt na overleg met de parketleiding. De parketleiding informeert het College van procureurs-generaal over de zaak.
+
+Onderhavige aanwijzing is er op gericht te bevorderen dat het OM bij de toepassing van opsporingsbevoegdheden jegens advocaten steeds zorgvuldige afwegingen maakt en erop toe ziet dat de relevante voorschriften en procedures in acht worden genomen. Met name wordt aandacht geschonken aan de doorzoeking en inbeslagneming en aan het opnemen van telecommunicatie, omdat dat dwangmiddelen zijn die, zoals de praktijk heeft geleerd, in het bijzonder een hoge mate van zorgvuldigheid vergen wanneer ze tegen een advocaat worden toegepast. De hieronder geformuleerde uitgangspunten en suggesties zijn echter mutatis mutandis ook van toepassing op de inzet van andere dwangmiddelen, zoals stelselmatige observatie ([artikel 126g Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126g)).
+
+Buiten bespreking blijven die situaties waarin weliswaar dwangmiddelen jegens een advocaat kunnen worden toegepast, maar waarbij het verschoningsrecht normaal gesproken geen rol speelt, zoals bij verdenking van een geweldsmisdrijf in de privésfeer of van rijden onder invloed. Als het verschoningsrecht wel een rol speelt, is deze aanwijzing van toepassing.
+
+### Samenvatting
+
+Deze aanwijzing beschrijft de normen die het OM of de onder het gezag van het OM opererende opsporingsdiensten in acht hebben te nemen bij de toepassing van opsporingsbevoegdheden wanneer (mogelijk) het verschoningsrecht van advocaten in het geding is. In het bijzonder bespreekt de aanwijzing de doorzoeking en inbeslagneming en het opnemen van telecommunicatie bij verdachte advocaten. De bij de toepassing van die dwangmiddelen te doorlopen stappen zijn ter illustratie schematisch uitgewerkt in de twee bijlagen bij deze aanwijzing.
+
+### Het verschoningsrecht van advocaten
+
+Het verschoningsrecht in letterlijke zin is vastgelegd in [artikel 218 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=218): **‘Van het geven van getuigenis of van het beantwoorden van bepaalde vragen kunnen zich ook verschoonen zij die uit hoofde van hun stand, hun beroep of hun ambt tot geheimhouding verplicht zijn, doch alleen omtrent hetgeen waarvan de wetenschap aan hen als zoodanig is toevertrouwd.’** De advocaat behoort tot de groep van personen die uit hoofde van de aard van hun maatschappelijke functie verplicht zijn tot geheimhouding van al hetgeen hun in hun hoedanigheid wordt toevertrouwd, en aan wie in verband daarmede tevens het recht toekomt zich te dien aanzien ook ten overstaan van de rechter van het afleggen van getuigenis te verschonen.1Formulering ontleend aan HR 1 maart 1985, LJN AC9066, **NJ** 1986, 173.
+
+Omdat een louter op het onderzoek ter zitting toegespitst verschoningsrecht betrekkelijk eenvoudig illusoir gemaakt zou kunnen worden door de inzet van dwangmiddelen, geeft het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) op verschillende plaatsen een specifieke regeling die onder verwijzing naar [artikel 218 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=218) het verschoningsrecht beoogt te waarborgen. Een voorbeeld is [artikel 125l Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=125l) inzake het onderzoek in een geautomatiseerd werk van een persoon die zich op grond van artikel 218 Sv op een verschoningsrecht kan beroepen.
+
+Los van dergelijke specifieke wettelijke regelingen, wordt het verschoningsrecht algemene gelding toegedacht. De grondslag van het verschoningsrecht ingevolge [artikel 218 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=218) moet ‘worden gezocht in een in Nederland geldend algemeen rechtsbeginsel dat meebrengt dat bij zodanige vertrouwenspersonen [de professioneel verschoningsgerechtigden] het maatschappelijk belang dat de waarheid in rechte aan het licht komt, moet wijken voor het maatschappelijk belang dat een ieder zich vrijelijk en zonder vrees voor openbaarmaking van het besprokene om bijstand en advies tot hen moet kunnen wenden.’2HR 1 maart 1985, LJN AC9066, **NJ** 1986, 173.
+
+Het verschoningsrecht van advocaten strekt zich alleen uit tot de wetenschap die aan een advocaat in diens hoedanigheid van advocaat is toevertrouwd.3Bijvoorbeeld HR 24 januari 2006, LJN AU4666, **NJ** 2006, 109.Dat betekent dat niet alleen privécontacten van de advocaat buiten het verschoningsrecht vallen, maar ook diens zakelijke bezigheden anders dan als advocaat. Een advocaat heeft bijvoorbeeld geen verschoningsrecht voor zijn activiteiten als trustee, als commissaris van een bedrijf of als directeur van een vennootschap.4HR 29 maart 1994, LJN ZC9694, **NJ** 1994, 537.Het gaat wel om álle wetenschap dieaan de advocaat als zodanig is meegedeeld waarbij geen plaats is voor een onderscheid tussen vertrouwelijke en minder vertrouwelijke gegevens.5HR (civiel) 1 maart 1985, LJN AC9066, **NJ** 1986, 173 en HR (civiel) 18 december 1998, LJN ZC2808, **NJ** 2000, 341.
+
+Algemeen wordt aanvaard dat de plicht tot geheimhouding van de advocaat niet alleen geldt voor hemzelf, maar ook voor het op zijn kantoor werkzame personeel, dat een afgeleid verschoningsrecht toekomt. Deze uitbreiding is op praktische gronden geboden, omdat anders de plicht van de advocaat tot geheimhouding voor een belangrijk gedeelte illusoir zouden worden, gelet op de voor de advocaat bestaande noodzaak bedoelde personeelsleden bij zijn werkzaamheden te betrekken. Het afgeleide verschoningsrecht geldt niet alleen voor personeel van het eigen kantoor, zoals secretaresses of telefonistes, maar ook voor door de advocaat ingeschakelde deskundigen. Daarbij maakt het geen verschil of bedoelde gegevens aan deze deskundige mondeling dan wel schriftelijk door de advocaat zijn verstrekt. Of hij ten kantore van de advocaat kennis heeft genomen van de inhoud van bedoelde stukken dan wel deze stukken onder zich verkrijgt doordat de advocaat hem die ter hand stelt of laat stellen. Het afgeleide verschoningsrecht van de deskundige strekt zich ook uit tot de adviezen die hij aan de advocaat heeft uitgebracht op basis van de hem door de advocaat verstrekte vertrouwelijke gegevens.6Over het afgeleide verschoningsrecht bijvoorbeeld HR 29 maart 1994, LJN ZC9693, **NJ** 1994, 552 en HR 12 februari 2002, LJN AD4402, **NJ** 2002, 440.
+
+### Enkele uitgangspunten
+
+In de jurisprudentie komt een aantal algemene uitgangspunten naar voren, die het OM dient te respecteren bij beslissingen aangaande het gebruik van opsporingsbevoegdheden jegens advocaten.
+
+De toepassing van opsporingsbevoegdheden en dwangmiddelen tegen advocaten vergt een hoge mate van zorgvuldigheid. Daar komt bij dat door de vele in acht te nemen waarborgen het denkbaar is dat de aangewende opsporingsbevoegdheden minder resultaat opleveren dan wanneer deze worden aangewend in een situatie waarin geen verschoningsgerechtigden in beeld zijn. Dat betekent niet dat het OM nooit zou mogen overgaan tot het toepassen van dwangmiddelen jegens advocaten. Wel zal in die gevallen waarin het verschoningsrecht (mogelijk) in beeld is, zeer goed acht geslagen moeten worden op de eisen van proportionaliteit en subsidiariteit.
+
+### Interne procedure
+
+Onderzoeken naar mogelijke door advocaten in de context van hun beroepsuitoefening gepleegde strafbare feiten zijn per definitie gevoelige zaken en dienen te worden behandeld conform de Aanwijzing gevoelige zaken. Dat betekent dat de betrokken officier van justitie (al dan niet via zijn of haar teamhoofd) de parketleiding over de start en de voortgang van het onderzoek dient te informeren, opdat deze in staat wordt gesteld toezicht te houden op de behandeling van de zaak. Na het informeren van de rechercheofficier van justitie zal de parketleiding vooraf toestemming moeten geven voordat dwangmiddelen worden toegepast, die een inbreuk op het verschoningsrecht van een advocaat met zich mee kunnen brengen.
+
+Voorts informeert de parketleiding het College van procureurs-generaal.
+
+### Doorzoeking en inbeslagneming
+
+De bijzondere status van de advocaat als verschoningsgerechtigde bij de strafvorderlijke doorzoeking en inbeslagneming komt tot uitdrukking in de twee leden van [artikel 98 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=98)14Zie ook de regeling in de artikelen 126b t/m 126d Sv inzake de doorzoeking in het kader van het strafrechtelijk financieel onderzoek.:
+
+Een andere uitzondering die de wet voor verschoningsgerechtigden maakt, is dat hun kantoor of woning in beginsel niet door de officier van justitie ter inbeslagneming kan worden doorzocht. Alleen de rechter-commissaris kan het kantoor of de woning van een advocaat ter inbeslagneming (laten) doorzoeken ([artikel 96c lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=96c) en [artikel 110 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=110)). Alleen bij dringende noodzakelijkheid kan de officier van justitie ter inbeslagneming het kantoor of de woning van de advocaat zelf doorzoeken, maar in dat geval is nog altijd een machtiging van de rechter-commissaris vereist ([artikel 97 leden 1 en 2 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=97)) Dat betekent dat een deel van het hieronder besprokene formeel van belang is voor de rechter-commissaris. Dat laat echter onverlet dat de officier van justitie in adviserende en faciliterende zin een belangrijke rol kan spelen bij de uitvoering van de doorzoeking.
+
+### De vier fasen
+
+Bij de doorzoeking en inbeslagneming op het kantoor of in de woning, de schuur of het voertuig van een advocaat zijn vier fasen te onderscheiden.15Zie ook de bij deze aanwijzing gevoegde schematische weergave.
+
+### Ad 1. De voorbereiding
+
+De deken van de plaatselijke orde van advocaten wordt uitgenodigd om bij de doorzoeking op een advocatenkantoor aanwezig te zijn teneinde te bevorderen dat de regels met betrekking tot het verschoningsrecht van de advocaat in acht worden genomen. Omdat de aanwezigheid van de deken de zorgvuldigheid van de doorzoeking bevordert en eventuele geschillen ter plekke of achteraf kan helpen voorkomen, dient slechts een doorzoeking buiten de aanwezigheid van de deken plaats te vinden indien de situatie zo is dat de komst van de deken niet kan worden afgewacht. Indien mogelijk wordt de deken van tevoren geïnformeerd over het feit dat op de betreffende dag bij een (nader bekend te maken) advocaat in zijn arrondissement gezocht zal worden, teneinde de aanwezigheid van de deken (of diens vervanger) te bevorderen.
+
+Omdat een doorzoeking op een advocatenkantoor een grote mate van omzichtigheid vergt, is het zaak dat de uitvoerende opsporingsambtenaren vooraf goed worden geïnstrueerd. In dat verband is het belangrijk dat zo precies mogelijk (bijvoorbeeld aan de hand van dossiernummers) wordt aangegeven naar welke voorwerpen wordt gezocht. Men moet er rekening mee houden dat oudere stukken bij een derde ter archivering kunnen zijn opgeslagen.
+
+### Ad 2. De uitvoering van de doorzoeking
+
+Bij aanvang van de doorzoeking wordt de betrokken advocaat meegedeeld dat wordt gewerkt volgens de richtlijnen van deze Aanwijzing. Dit betekent dat vertrouwelijke stukken of andere gegevensdragers niet in beslag worden genomen indien zij vallen onder het verschoningsrecht van de advocaat. De doorzoeking moet zo geschieden dat de geheimhouding gewaarborgd is van gegevens met betrekking tot die cliënten van de advocaat die niets te maken hebben met het onderhavige strafrechtelijk onderzoek. Dat geldt evenzeer voor de cliënten van eventuele kantoorgenoten van de betrokken advocaat. Meer in het algemeen moet de doorzoeking zo gestalte krijgen dat de werkzaamheden op het betreffende advocatenkantoor zo min mogelijk hinder ondervinden.
+
+In de rechtspraak zijn de eisen geformuleerd dat **‘het zoeken gericht dient te geschieden, dat wil zeggen met mededeling vooraf van een duidelijke en concrete omschrijving van de aard van de gezochte bescheiden’** en **‘dat alleen mag worden gezocht op plaatsen ten aanzien waarvan sterke aanwijzingen of vermoedens bestaan dat zich aldaar bescheiden bevinden die voorwerpen van het strafbare feit zijn waarop het onderzoek betrekking heeft dan wel tot het begaan van dit feit hebben gediend of die de advocaat anders dan als advocaat onder zich heeft.’**16HR 20 juni 1988, LJN AD0367, **NJ** 1989, 213.
+
+Het enkele feit dat een doorzoeking plaatsvindt, kan het imago van de betrokken advocaat en/of zijn kantoor schaden. De actie dient daarom met zo min mogelijk publiek vertoon te worden uitgevoerd.
+
+### Ad 3. Beslissingen omtrent inbeslagneming
+
+[Artikel 98 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=98) spreekt van ‘brieven of andere geschriften’ die niet zonder meer in beslag kunnen worden genomen. Onder deze documenten vallen ook disks en overige gegevensdragers die op eenvoudige wijze leesbaar zijn te maken. Op alle andere voorwerpen is het bijzondere regime van artikel 98 Sv niet van toepassing.
+
+Met betrekking tot eventueel in beslag te nemen voorwerpen kunnen zich de volgende drie situaties voordoen.
+
+Voor al deze situaties geldt in het algemeen dat de bescherming van documenten die onder het verschoningsrecht van de advocaat vallen, is niet gekoppeld aan de plaats waar ze zich bevinden. Dat betekent dat de bijzondere waarborgen met betrekking tot het verschoningsrecht ook van toepassing zijn wanneer bij een doorzoeking bij een niet-advocaat, bijvoorbeeld diens cliënt, stukken worden aangetroffen die mogelijk onder het verschoningsrecht vallen.20Bijvoorbeeld HR 2 maart 2010, LJN BJ9262, **NJ** 2010, 144.Dat laatste geldt in ieder geval voor correspondentie gericht aan, of afkomstig van een advocaat, maar bijvoorbeeld ook voor documenten waarop in het kader van een zaak of in relatie tot de advocaat ‘vertrouwelijk’ of ‘persoonlijk’ staat vermeld.
+
+### Ad 4. Eventuele toetsing door de rechter
+
+Wanneer een document in beslag wordt genomen en de advocaat of de deken zich daarbij op het standpunt stelt dat zulks ten onrechte is omdat het onder het verschoningsrecht valt, verzoekt de officier van justitie de rechter-commissaris te verzoeken het document verzegeld te laten opbergen en de advocaat een termijn te stellen waarbinnen hij tegen de inbeslagneming kan opkomen. Aldus krijgt de advocaat de mogelijkheid om via de beklagprocedure op grond van [artikel 552a Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a) door de rechtbank te laten toetsen of inbeslagneming in casu geoorloofd is. Dat laat echter onverlet dat het OM de rechter-commissaris kan verzoeken van verzegeling af te zien, wanneer het opsporingsbelang vergt dat met spoed kennis wordt genomen van de inhoud van het document.
+
+Onder ‘spoed’ wordt in dit verband alléén het geval bedoeld dat de zaak geen uitstel kan lijden omdat anders het leven, veiligheid of de gezondheid van mensen ernstig kan worden geschaad of in gevaar kan worden gebracht
+
+### Opnemen gesprekken21Zie ook de bij deze aanwijzing gevoegde schematische weergave van dit hoofdstuk.en andere opsporingsbevoegdheden
+
+### Bescherming van gesprekken tussen advocaat en cliënt
+
+Verschillende bepalingen in het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) maken het mogelijk dat ten behoeve van de opsporing (tele)communicatie wordt opgenomen of dat gegevens met betrekking tot die communicatie worden vergaard. Het onderstaande richt zich primair op [artikel 126m Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126m) (met een technisch hulpmiddel opnemen van communicatie die plaatsvindt met gebruikmaking van de diensten van een aanbieder van een communicatiedienst), maar wat hieronder daarover wordt opgemerkt is mutatis mutandis ook van toepassing op de andere bijzondere opsporingsbevoegdheden uit [Boek I, Titels IVA](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=IVA) en [V, Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=V), zoals het opnemen van vertrouwelijke communicatie met een technisch hulpmiddel en stelselmatige observatie. Het belangrijke verschil tussen deze ‘heimelijke’ dwangmiddelen en de hiervoor besproken inbeslagneming is dat de verdachte advocaat geen weet heeft van de toepassing van het dwangmiddel en daarom niet in staat is om zelf op te komen voor zijn verschoningsrecht. Daarmee komt een grotere verantwoordelijkheid bij de officier van justitie te liggen.
+
+[Artikel 126m lid 1 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126m) biedt de officier van justitie de bevoegdheid om onder bepaalde omstandigheden te bevelen dat met een technisch hulpmiddel niet voor het publiek bestemde communicatie wordt opgenomen die plaatsvindt met gebruikmaking van de diensten van een aanbieder van een communicatiedienst. Het bevel kan slechts worden gegeven na schriftelijke machtiging, op verzoek van de officier van justitie te verlenen door de rechter-commissaris.
+
+Onder de hier bedoelde communicatie vallen onder meer (de met behulp van genoemde diensten gevoerde) telefoongesprekken. De wetgever heeft er voor gekozen advocaten niet stelselmatig van de toepassing van [artikel 126m Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126m) te vrijwaren. In theorie is het dus mogelijk dat in het kader van de opsporing een inkomend of uitgaand gesprek van een advocaat wordt opgenomen waarvan de inhoud in een proces-verbaal wordt vastgelegd, mits voldaan wordt aan de in artikel 126m lid 1 Sv neergelegde vereisten dat sprake is van **‘verdenking van een misdrijf als omschreven in artikel 67, eerste lid, dat gezien zijn aard of de samenhang met andere door de verdachte begane misdrijven een ernstige inbreuk op de rechtsorde oplevert’** en dat het onderzoek de toepassing van dit dwangmiddel dringend vordert.
+
+De wet biedt echter een tweeledige bescherming aan de communicatie tussen een advocaat en zijn cliënten. In de eerste plaats bepaalt [artikel 126aa lid 2, eerste volzin, Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126aa) dat processen-verbaal en opnames van mededelingen die onder het verschoningsrecht van de advocaat vallen, moeten worden vernietigd. Dit voorschrift strekt ertoe dat gegevens die als gevolg van de toepassing van – onder meer – [artikel 126m Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126m) zijn verkregen, onmiddellijk worden vernietigd indien zij vallen onder het verschoningsrecht als bedoeld in [artikel 218 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=218), zodat is verzekerd dat die gegevens geen deel uitmaken van de processtukken en dat daarop in het verdere verloop van het strafproces, dus ook in het eindonderzoek ter terechtzitting, geen acht wordt geslagen. Deze gegevens kunnen niet in het strafproces worden gebruikt.22HR 2 oktober 2007, LJN BA5632, **NJ** 2008, 374, HR 16 juni 2009, LJN BH2678, **NJ** 2009, 603 en HR 20 april 2010, LJN BK3369.In de tweede plaats mogen processen-verbaal of opnames die aan of door een advocaat gedane mededelingen bevatten, die niet onder het verschoningsrecht vallen, alleen dan aan de processtukken worden toegevoegd wanneer de rechter-commissaris daar een machtiging voor heeft gegeven ([artikel 126aa lid 2, laatste volzin, Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126aa)).
+
+Het [Besluit bewaren en vernietigen niet-gevoegde stukken](https://wetten.overheid.nl/jci1.3:c:BWBR0010975) (Stb. 1999, 548; hierna: het Besluit) geeft de in de tweede volzin van het tweede lid van [artikel 126aa Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126aa) genoemde nadere voorschriften. In aanvulling op het Besluit is ook de Instructie vernietiging geïntercepteerde gesprekken met geheimhouders voor de praktijk van belang.
+
+### Besluit nummerherkenning
+
+Per 1 juni 2011 is het [Besluit bewaren en vernietigen niet-gevoegde stukken](https://wetten.overheid.nl/jci1.3:c:BWBR0010975) met de invoering van een nieuw [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0010975&artikel=4a) gewijzigd. Deze wijziging strekt ertoe het Besluit aan te vullen met een regeling voor het vernietigen van mededelingen van geheimhouders bij de toepassing van de bevoegdheid tot het opnemen van communicatie. De aanpassing betreft het opnemen van communicatie die door middel van een telefoon of faxapparaat plaatsvindt, en waarbij de advocaat als geheimhouder betrokken is. De regeling houdt in dat indien de advocaat gebruik maakt van een telefoonnummer dat via de Orde van Advocaten overeenkomstig de regeling is aangemeld, dit nummer door middel van een geautomatiseerd systeem wordt herkend, waarna het opnemen van de communicatie onmiddellijk wordt beëindigd en mogelijk opgenomen communicatie direct wordt gewist.
+
+De regeling in het [Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010975) is echter niet uitputtend. Er worden geen nieuwe grenzen aan het verschoningsrecht van de advocaat gesteld. Het verschoningsrecht van de advocaat dient ook te worden geëerbiedigd in het geval hij door omstandigheden zich genoodzaakt ziet van een ander telefoonnummer gebruik te maken dan hij heeft aangemeld. Voor deze gesprekken geldt het uitgangspunt dat deze onder het verschoningsrecht vallen, tenzij reeds bij oppervlakkige kennisneming ervan blijkt dat dit niet het geval is. Dit betekent dat, gelet op [artikel 126aa, lid 2, eerste volzin Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126aa), ook in deze gevallen (waarbij het geautomatiseerd systeem het nummer niet heeft herkend) de opgenomen communicatie zonder nadere kennisneming zo spoedig mogelijk moet worden vernietigd (nadat door de officier van justitie een bevel tot vernietiging van dat gesprek is afgegeven).
+
+Dit is anders in het geval de advocaat als verdachte wordt aangemerkt en als gevolg daarvan de communicatie wordt opgenomen. Volgens [artikel 4 lid 1 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010975&artikel=4) moet **‘de opsporingsambtenaar die door de uitoefening van een van de bevoegdheden, genoemd in de titels IVa tot en met Vc van het Wetboek van Strafvordering, kennisneemt van mededelingen waarvan hij weet of redelijkerwijs kan vermoeden dat deze zijn gedaan door of aan een geheimhouder’**, daarvan de officier van justitie meteen in kennis stellen.23Zie de procedure beschreven onder punt 1-4 in de Instructie vernietiging geïntercepteerde gesprekken met geheimhouders.De officier van justitie moet vervolgens beslissen of het gesprek onder het verschoningsrecht valt van een advocaat die aan het gesprek deel heeft genomen. Om die beslissing te kunnen nemen moet de officier van justitie kennis kunnen nemen van (een deel) van de inhoud van de communicatie. Deze moet daarom door de opsporingsambtenaar zo ver worden uitgewerkt als noodzakelijk is om de officier van justitie in staat te stellen zijn wettelijke taak uit te voeren. Gelet op de ratio van de wet moet de communicatie niet verder worden uitgewerkt dan strikt noodzakelijk is.24Instructie vernietiging geïntercepteerde gesprekken met geheimhouders, toelichting bij punt 2 van het schema.Wanneer de officier van justitie op basis van het verwerkte deel niet in staat is zich een oordeel te vormen, kan hij bevelen dat de communicatie verder wordt uitgewerkt.
+
+Wanneer overwogen wordt om gesprekken van een verdachte advocaat op te nemen, spelen niet alleen de gebruikelijke afwegingen van rechtmatigheid, proportionaliteit en subsidiariteit een rol, maar moet men er tevens op voorhand rekening mee houden dat een zeer groot deel van de opnames vernietigd zal moeten worden en dat de bijbehorende procesbewaking de nodige extra capaciteit en zorgvuldigheid zal vergen. Mede daarom zal het slechts in zeer uitzonderlijke gevallen gepast zijn dat wordt overgegaan tot het opnemen van gesprekken van een verdachte advocaat.
+
+### Beoordeling van de opgenomen gesprekken
+
+Indien de officier van justitie vaststelt dat de betreffende mededelingen onder het verschoningsrecht van de advocaat vallen, moet hij op grond van [artikel 4 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010975&artikel=4) terstond de vernietiging van de processen-verbaal en de opnames bevelen, voor zover zij deze mededelingen behelzen. Dit bevel tot vernietiging moet schriftelijk worden gegeven. De vernietiging dient zo te geschieden dat de betreffende gegevens niet meer kenbaar zijn (zie [artikel 5 Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010975&artikel=5)).Van de vernietiging moet proces-verbaal worden opgemaakt, dat wordt gezonden aan de officier van justitie.(zie voor de interne verantwoordingsprocedure met betrekking tot de vernietiging de punten 6–13 van de Instructie vernietiging geïntercepteerde gesprekken met geheimhouders).
+
+NB. Er bestaat geen ruimte om de aldus verkregen informatie te gebruiken ten behoeve van de opsporing.
+
+Indien de mededelingen zijn gedaan door of aan een advocaat die als verdachte is aangemerkt, wint de officier van justitie het oordeel in van de deken omtrent de vraag of de mededelingen onder het verschoningsrecht van de advocaat vallen ([artikel 4, derde lid, Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010975&artikel=4)). Als de deken van oordeel is dat de mededelingen onder het verschoningsrecht vallen en de officier van justitie zich daarbij neerlegt, geeft de officier van justitie alsnog opdracht tot vernietiging. Wanneer de officier van justitie echter besluit af te wijken van het oordeel van de deken, wordt dit besluit met redenen omkleed (artikel 4, derde lid Besluit). In dat geval (en ook in het geval de deken met de officier van justitie van oordeel is dat het verschoningsrecht op de betrokken communicatie niet van toepassing is) worden het proces-verbaal en de onderliggende gegevensdragers bewaard conform de regeling van [artikel 126cc Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126cc) en de uitwerking daarvan in het [Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010975).
+
+## Bijlage 1
+
+## Bijlage 2
