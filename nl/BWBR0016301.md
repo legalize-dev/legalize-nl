@@ -4,7 +4,7 @@ identifier: "BWBR0016301"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2009-10-31"
+last_updated: "2011-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016301"
 soort: "ministeriele-regeling"
@@ -51,9 +51,9 @@ Besluit:
 
 - b. **BVG**: een krachtens [artikel 8 van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=8) door de minister aangewezen bijzonder luchtverkeersgebied;
 
-- c. **beoordelaar**: een door de Nederlandse Air Display Association aangewezen persoon, die bedreven is in het uitvoeren van kunstvluchten;
+- c. **beoordelaar**: een door de Koninklijke Nederlandse Vereniging voor Luchtvaart aangewezen persoon, die bedreven is in het uitvoeren van kunstvluchten;
 
-- d. **deelnemer**: een persoon die op basis van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=18&z=2009-10-31&g=2009-10-31), als deelnemer tot de luchtvaartvertoning is toegelaten;
+- d. **deelnemer**: een persoon die op basis van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=18&z=2011-04-01&g=2011-04-01), als deelnemer tot de luchtvaartvertoning is toegelaten;
 
 - e. **demonstratietoestel**: een luchtvaartuig dat onderdeel uitmaakt van de luchtvaartvertoning, onderverdeeld in de volgende categorieën:
 
@@ -117,7 +117,7 @@ Deze regeling is niet van toepassing op militaire deelnemers en militaire demons
 
 1. Indien bij een luchtvaartvertoning waarvoor door de minister de vergunning wordt verleend, militaire deelnemers of militaire demonstratietoestellen zijn betrokken, wordt de beslissing over de vergunning genomen in overeenstemming met de Minister van Defensie.
 
-2. Met uitzondering van de [artikelen 32 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=5&artikel=32&z=2009-10-31&g=2009-10-31), en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=7&artikel=39&z=2009-10-31&g=2009-10-31), is deze regeling niet van toepassing op een deelnemer aan een luchtvaartvertoning waarvoor door de Minister van Defensie de vergunning wordt verleend.
+2. Met uitzondering van de [artikelen 32 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=5&artikel=32&z=2011-04-01&g=2011-04-01), en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=7&artikel=39&z=2011-04-01&g=2011-04-01), is deze regeling niet van toepassing op een deelnemer aan een luchtvaartvertoning waarvoor door de Minister van Defensie de vergunning wordt verleend.
 
 #### § 2. Locatie van een luchtvaartvertoning
 
@@ -141,7 +141,9 @@ De minister kan een vergunning verlenen voor het houden van een luchtvaartverton
 
 - a. de grootte van het vertoninggebied, gerekend vanuit het centrum van en parallel aan de vertoninglijn alsmede gerekend vanaf de vertoninglijn richting de zijde van het gebied waar zich geen toeschouwers bevinden, wordt aan de hand van tabel 1 van de bijlage, behorend bij deze regeling, vastgelegd in de vergunning;
 
-- b. bij het bepalen van het vertoninggebied stelt de vertoningdirecteur vast of zich daarbinnen gronden bevinden die gebruikt worden ten behoeve van:
+- b. ingeval sprake is van een luchtvaartvertoning met publiekgebieden langs twee zijden van de vertoninglijn geldt bij de vaststelling van het vertoninggebied dat de breedte van de vertoninglijn ten minste vijftig meter bedraagt en aan het begin en aan het einde van de vertoninglijn een manoeuvreergebied wordt vastgesteld. De afmetingen van het kleinste van de twee manoeuvreergebieden bedragen ten minste de helft van de minimale afmetingen van het vertoninggebied, zoals deze zijn opgenomen in tabel 1 van de bijlage, behorend bij deze regeling;
+
+- c. bij het bepalen van het vertoninggebied stelt de vertoningdirecteur vast of zich daarbinnen gronden bevinden die gebruikt worden ten behoeve van:
 
 - 1°. luchthavens,
 
@@ -159,13 +161,13 @@ De minister kan een vergunning verlenen voor het houden van een luchtvaartverton
 
 - 8°. aaneengesloten bebouwing;
 
-- c. indien binnen het vertoninggebied gronden als bedoeld onder onderdeel b, dan wel obstakels met een verticale hoogte van ten minste 45 meter zijn gelegen, geeft de vertoningdirecteur aan welke maatregelen worden genomen met betrekking tot die gronden dan wel obstakels in verband met de veilige uitvoering van de luchtvaartvertoning.
+- d. indien binnen het vertoninggebied gronden als bedoeld onder onderdeel b, dan wel obstakels met een verticale hoogte van ten minste 45 meter zijn gelegen, geeft de vertoningdirecteur aan welke maatregelen worden genomen met betrekking tot die gronden dan wel obstakels in verband met de veilige uitvoering van de luchtvaartvertoning.
 
 2. Aan de vergunning, bedoeld in het eerste lid, worden in ieder geval de volgende voorwaarden verbonden:
 
 - a. op het vertoningterrein is een baan aanwezig die:
 
-- 1°. voldoet aan de afmetingen genoemd in tabel 1 van de bijlage, behorend bij deze regeling,
+- 1°. voldoet aan de afmetingen genoemd in tabel 1 van de bijlage, behorend bij deze regeling, met dien verstande dat de lengte van de baan wordt vastgesteld op de grootste voorgeschreven start- en landingsafstanden zoals deze worden bepaald met gebruikmaking van de gebruikshandboeken van de deelnemende demonstratietoestellen. Bij het vaststellen van de baanlengte kan de in de gebruikshandboeken genoemde headwind-component voor ten hoogste 50% worden meegenomen. Ingeval sprake is van een demonstratietoestel zonder gebruikshandboek, geldt de lengte zoals opgenomen in tabel 1 van de bijlage,
 
 - 2°. voldoende draagkracht bezit voor de te gebruiken demonstratietoestellen, en
 
@@ -189,7 +191,7 @@ De minister kan een vergunning verlenen voor het houden van een luchtvaartverton
 
 ##### Artikel 7
 
-1. De minister kan een vergunning verlenen voor het houden van een luchtvaartvertoning boven water- of landoppervlak, waarbij niet wordt gestart van en geland op het vertoningterrein, indien aan de voorwaarden, bedoeld in [artikel 6, eerste lid, onderdelen a tot en met c, en tweede lid, onderdelen e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=2&artikel=6&z=2009-10-31&g=2009-10-31), is voldaan.
+1. De minister kan een vergunning verlenen voor het houden van een luchtvaartvertoning boven water- of landoppervlak, waarbij niet wordt gestart van en geland op het vertoningterrein, indien aan de voorwaarden, bedoeld in [artikel 6, eerste lid, onderdelen a tot en met c, en tweede lid, onderdelen e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=2&artikel=6&z=2011-04-01&g=2011-04-01), is voldaan.
 
 2. In afwijking van het eerste lid, mag een watervliegtuig starten van en landen op het wateroppervlak.
 
@@ -199,7 +201,7 @@ De minister kan een vergunning verlenen voor het houden van een luchtvaartverton
 
 2. De houder van een krachtens het eerste lid verleende vergunning dient telkens ten minste één week vóór het houden van een luchtvaartvertoning de bescheiden, bedoeld in [artikel 158, eerste lid, onderdelen a en c, van de Regeling Toezicht Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&artikel=158) aan de minister te overleggen.
 
-3. [Artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=3&artikel=9&z=2009-10-31&g=2009-10-31), is niet van toepassing.
+3. [Artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=3&artikel=9&z=2011-04-01&g=2011-04-01), is niet van toepassing.
 
 #### § 3. Organisatie van een luchtvaartvertoning
 
@@ -209,9 +211,9 @@ De minister kan een vergunning verlenen voor het houden van een luchtvaartverton
 
 2. De vertoningdirecteur, bedoeld in het eerste lid, heeft de vereiste ervaring behorend bij de categorie waarin de desbetreffende luchtvaartvertoning overeenkomstig tabel 2 van de bijlage, behorend bij deze regeling, wordt ingedeeld.
 
-3. Indien de organisator een vertoningdirecteur aanwijst die bij eerdere luchtvaartvertoningen aantoonbaar in strijd heeft gehandeld met bepalingen van [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&z=2009-10-31&g=2009-10-31) die in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=7&artikel=39&z=2009-10-31&g=2009-10-31) als strafbaar feit zijn aangemerkt, kan de minister besluiten de aanvraag van een vergunning af te wijzen.
+3. Indien de organisator een vertoningdirecteur aanwijst die bij eerdere luchtvaartvertoningen aantoonbaar in strijd heeft gehandeld met bepalingen van [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&z=2011-04-01&g=2011-04-01) die in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=7&artikel=39&z=2011-04-01&g=2011-04-01) als strafbaar feit zijn aangemerkt, kan de minister besluiten de aanvraag van een vergunning af te wijzen.
 
-4. Indien de vertoningdirecteur gedurende drie kalenderjaren niet belast is met de leiding van een luchtvaartvertoning inde in tabel 2 van de bijlage, behorend bij deze regeling, vermelde hoogste categorie waarvoor hij de vereiste ervaring had, wordt hij één categorie lager ingedeeld.
+4. Indien de vertoningdirecteur gedurende drie kalenderjaren niet belast is met de leiding van een luchtvaartvertoning in de in tabel 2 van de bijlage, behorend bij deze regeling, vermelde hoogste categorie waarvoor hij de vereiste ervaring had, wordt hij één categorie lager ingedeeld.
 
 5. De vertoningdirecteur is niet tegelijkertijd deelnemer aan de luchtvaartvertoning waarvoor hij krachtens het eerste lid is aangewezen.
 
@@ -227,7 +229,7 @@ De organisator dient zich voor het houden van een luchtvaartvertoning te verzeke
 
 3. De veiligheidscommissie adviseert de vertoningdirecteur gevraagd en ongevraagd ten aanzien van veiligheidsaspecten bij de voorbereiding en uitvoering van een luchtvaartvertoning.
 
-4. Indien een veiligheidscommissie is ingesteld, wordt het verslag, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=29&z=2009-10-31&g=2009-10-31), mede ondertekend door de voorzitter van de veiligheidscommissie.
+4. Indien een veiligheidscommissie is ingesteld, wordt het verslag, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=29&z=2011-04-01&g=2011-04-01), mede ondertekend door de voorzitter van de veiligheidscommissie.
 
 #### § 4. Verplichtingen voor de vertoningdirecteur
 
@@ -249,7 +251,7 @@ De vertoningdirecteur houdt bij de vaststelling van publiekgebied, publieklijn, 
 
 De vertoningdirecteur draagt er zorg voor dat:
 
-- a. de publiekgebieden worden beperkt tot één zijde van het vertoningterrein en dat deze niet worden gelokaliseerd onder de in- en uitvliegsector van het vertoningterrein;
+- a. de publiekgebieden worden beperkt tot het aantal zijden van het vertoningterrein zoals in de vergunning is opgenomen en dat deze niet worden gelokaliseerd onder de in- en uitvliegsector van het vertoningterrein. In het geval van tweezijdig publiek is de positie van het vertoninggebied ten opzichte van de vertoninglijn zodanig dat de vertoninglijn de lange zijde van het vertoninggebied halveert;
 
 - b. voorafgaand en tijdens de vertoningvluchten doeltreffende afzettingen worden geplaatst om te voorkomen dat het publiek toegang krijgt tot het vertoningterrein;
 
@@ -279,7 +281,7 @@ De vertoningdirecteur draagt er zorg voor dat:
 
 - c. een doeltreffende geluidsinstallatie aanwezig is om het publiek toe te spreken;
 
-- d. indien een luchtvaartvertoning wordt gehouden ingevolge een vergunning op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=2&artikel=5&z=2009-10-31&g=2009-10-31) onderscheidenlijk [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=2&artikel=6&z=2009-10-31&g=2009-10-31), een luchtvaartgrondstation onderscheidenlijk een mobiel luchtvaartstation beschikbaar is voor de luchthaveninformatieverstrekker.
+- d. indien een luchtvaartvertoning wordt gehouden ingevolge een vergunning op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=2&artikel=5&z=2011-04-01&g=2011-04-01) onderscheidenlijk [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=2&artikel=6&z=2011-04-01&g=2011-04-01), een luchtvaartgrondstation onderscheidenlijk een mobiel luchtvaartstation beschikbaar is voor de luchthaveninformatieverstrekker.
 
 ##### Artikel 16
 
@@ -297,7 +299,7 @@ De vertoningdirecteur zorgt ervoor dat:
 
 ##### Artikel 18
 
-1. De vertoningdirecteur laat als deelnemer aan een luchtvaartvertoning slechts toe een persoon die beschikt over een geldige vertoninglicentie, afgegeven door de Nederlandse Air Display Association op basis van de eisen van tabel 3 van de bijlage, behorend bij deze regeling, of van een daarmee gelijk te stellen licentie, afgegeven door de bevoegde autoriteit van een Staat dan wel door een door die autoriteit erkende organisatie.
+1. De vertoningdirecteur laat als deelnemer aan een luchtvaartvertoning slechts toe een persoon die beschikt over een geldige vertoninglicentie, afgegeven door de Koninklijke Nederlandse Vereniging voor Luchtvaart op basis van de eisen van tabel 3 van de bijlage, behorend bij deze regeling, of van een daarmee gelijk te stellen licentie, afgegeven door de bevoegde autoriteit van een Staat dan wel door een door die autoriteit erkende organisatie.
 
 2. De vertoningdirecteur kan van een persoon ten aanzien van wie twijfel bestaat omtrent de nodige vaardigheid om zijn onderdeel op veilige wijze uit te voeren, eisen dat die persoon zijn onderdeel voorvliegt voor een beoordelaar.
 
@@ -339,7 +341,7 @@ De vertoningdirecteur zorgt ervoor dat uitsluitend:
 
 3. De vertoningdirecteur draagt er zorg voor dat op iedere dag van de luchtvaartvertoning ten behoeve van de uitvoering van de onderdelen onder zijn leiding een mondelinge instructie, onder meer bevattend de meest recente informatie, aan de deelnemers wordt gegeven. Tijdens deze mondelinge instructie worden ten minste besproken:
 
-- a. [paragraaf 5 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=5&z=2009-10-31&g=2009-10-31);
+- a. [paragraaf 5 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=5&z=2011-04-01&g=2011-04-01);
 
 - b. de plaatselijke vluchten;
 
@@ -359,7 +361,7 @@ De vertoningdirecteur zorgt ervoor dat uitsluitend:
 
 ##### Artikel 21
 
-1. De vertoningdirecteur laat vertoningvluchten plaatsvinden onder weersomstandigheden die gelijk aan of gunstiger zijn dan de minimum weersomstandigheden vermeld in tabel 4 van de bijlage, behorend bij deze regeling. Indien restrictievere eisen ten aanzien van weersomstandigheden zijn gesteld op grond van de luchtverkeersdienstverleningsklasse, vastgesteld ingevolge [artikel 18 van de Regeling luchtverkeersdienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=18), ter plaatseof in de aanwijzing van een BVG, dan gelden die in plaats van tabel 4 van de bijlage, behorend bij deze regeling.
+1. De vertoningdirecteur laat vertoningvluchten plaatsvinden onder weersomstandigheden die gelijk aan of gunstiger zijn dan de minimum weersomstandigheden vermeld in tabel 4 van de bijlage, behorend bij deze regeling. Indien restrictievere eisen ten aanzien van weersomstandigheden zijn gesteld op grond van de luchtverkeersdienstverleningsklasse, vastgesteld ingevolge [artikel 18 van de Regeling luchtverkeersdienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=18), ter plaatse of in de aanwijzing van een BVG, dan gelden die in plaats van tabel 4 van de bijlage, behorend bij deze regeling.
 
 2. De vertoningdirecteur draagt er zorg voor dat vooraf en tijdens de luchtvaartvertoning rekening wordt gehouden met meteorologische variabelen, waaronder in ieder geval windsnelheid en neerslag.
 
@@ -385,11 +387,11 @@ Indien met categorie A demonstratietoestellen langs- en kunstvluchten worden uit
 
 - d. per etmaal niet meer dan 70 van deze demonstratietoestellen opstijgen.
 
-2. In afwijking van [artikel 13, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=13&z=2009-10-31&g=2009-10-31), mogen bemanningleden en passagiers van deze demonstratietoestellen zich bevinden op het vertoningterrein.
+2. In afwijking van [artikel 13, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=13&z=2011-04-01&g=2011-04-01), mogen bemanningsleden en passagiers van deze demonstratietoestellen zich bevinden op het vertoningterrein.
 
 ##### Artikel 24
 
-1. Indien een onderdeel bestaat uit het valschermspringen of dit mede omvat, vindt dat onderdeel plaats in overeenstemming met de [Regeling valschermspringen](https://wetten.overheid.nl/jci1.3:c:BWBR0006346), met dien verstande dat de vertoningdirecteur ervoor zorg draagt dat:
+1. Indien een onderdeel bestaat uit het valschermspringen of dit mede omvat, vindt dat onderdeel plaats in overeenstemming met de [Regeling valschermspringen 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0027968), met dien verstande dat de vertoningdirecteur ervoor zorg draagt dat:
 
 - a. het landingsgebied niet dichter dan 15 meter bij de publieklijn ligt;
 
@@ -409,9 +411,7 @@ Indien met categorie A demonstratietoestellen langs- en kunstvluchten worden uit
 
 - c. zenders en frequenties correct worden gebruikt.
 
-4. Indien met zeilvliegtuigen vluchten worden uitgevoerd, draagt de vertoningdirecteur er zorg voor dat deze plaatsvinden in overeenstemming met de[Regeling zeilvliegen](https://wetten.overheid.nl/jci1.3:c:BWBR0006094).
-
-5. Indien kabelvliegers en kleine ballons worden opgelaten, draagt de vertoningdirecteur er zorg voor dat deze worden opgelaten in overeenstemming met de [Regeling kabelvliegers en kleine ballons](https://wetten.overheid.nl/jci1.3:c:BWBR0007094).
+4. Indien kabelvliegers en kleine ballons worden opgelaten, draagt de vertoningdirecteur er zorg voor dat deze worden opgelaten in overeenstemming met de [Regeling kabelvliegers en kleine ballons](https://wetten.overheid.nl/jci1.3:c:BWBR0007094).
 
 ##### Artikel 25
 
@@ -427,7 +427,7 @@ De vertoningdirecteur draagt er zorg voor dat:
 
 ##### Artikel 26
 
-De vertoningdirecteur draagt er zorg voor dat de deelnemer [paragraaf 5 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=5&z=2009-10-31&g=2009-10-31) in acht neemt.
+De vertoningdirecteur draagt er zorg voor dat de deelnemer [paragraaf 5 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=5&z=2011-04-01&g=2011-04-01) in acht neemt.
 
 ##### Artikel 27
 
@@ -445,9 +445,9 @@ De vertoningdirecteur brengt binnen dertig dagen na het houden van een luchtvaar
 
 ##### Artikel 30
 
-1. Een deelnemer voert geen vertoningvlucht uit, indien hij niet een mondelinge instructie als bedoeld in [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=20&z=2009-10-31&g=2009-10-31), heeft ontvangen.
+1. Een deelnemer voert geen vertoningvlucht uit, indien hij niet een mondelinge instructie als bedoeld in [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=20&z=2011-04-01&g=2011-04-01), heeft ontvangen.
 
-2. Een deelnemer die niet in staat is te voldoen aan het eerste lid, neemt voor de aanvang van de luchtvaartvertoning contact op met de vertoningdirecteur om de mondelinge instructie als bedoeld in [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=20&z=2009-10-31&g=2009-10-31), te ontvangen.
+2. Een deelnemer die niet in staat is te voldoen aan het eerste lid, neemt voor de aanvang van de luchtvaartvertoning contact op met de vertoningdirecteur om de mondelinge instructie als bedoeld in [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=20&z=2011-04-01&g=2011-04-01), te ontvangen.
 
 ##### Artikel 31
 
@@ -497,7 +497,7 @@ De deelnemer vliegt niet met het demonstratietoestel boven het publiekgebied, te
 
 - f. in een luchtverkeersdienstverleningsgebied klasse C tot en met G niet wordt gevlogen met een snelheid groter dan 250 knopen, tenzij in de vergunning dan wel bij de aanwijzing van een BVG een grotere snelheid is vastgesteld;
 
-- g. de minimum zichtweersomstandigheden zoals vastgesteld in tabel 4 van de bijlage, behorend bij deze regeling, in acht worden genomen, onverminderd het bepaalde in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=20&z=2009-10-31&g=2009-10-31).
+- g. de minimum zichtweersomstandigheden zoals vastgesteld in tabel 4 van de bijlage, behorend bij deze regeling, in acht worden genomen, onverminderd het bepaalde in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=20&z=2011-04-01&g=2011-04-01).
 
 2. Het eerste lid, onderdelen a en b, is niet van toepassing indien:
 
@@ -533,7 +533,7 @@ De luchthaveninformatieverstrekker geeft in het kader van de luchtvaartvertoning
 
 - b. het precieze tijdstip van vertrek van een vertoningvlucht in het kader van een onderdeel van het vertoningprogramma, alsmede de situatie in het vertoninggebied onmiddellijk voorafgaand aan de uitvoering van een onderdeel;
 
-- c. krachtens [artikel 19 onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=19&z=2009-10-31&g=2009-10-31), door de vertoningdirecteur aangebrachte wijzigingen in de vertrektijd van een vertoningvlucht in het kader van een onderdeel van het vertoningprogramma;
+- c. krachtens [artikel 19 onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=19&z=2011-04-01&g=2011-04-01), door de vertoningdirecteur aangebrachte wijzigingen in de vertrektijd van een vertoningvlucht in het kader van een onderdeel van het vertoningprogramma;
 
 - d. eventuele calamiteiten op de grond of in de lucht die voor een veilige uitvoering van een onderdeel van belang kunnen zijn;
 
@@ -543,7 +543,7 @@ De luchthaveninformatieverstrekker geeft in het kader van de luchtvaartvertoning
 
 ##### Artikel 39
 
-Overtreding van de [artikelen 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=3&artikel=9&z=2009-10-31&g=2009-10-31), [13, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=13&z=2009-10-31&g=2009-10-31), [16, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=16&z=2009-10-31&g=2009-10-31), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=17&z=2009-10-31&g=2009-10-31), [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=18&z=2009-10-31&g=2009-10-31), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=19&z=2009-10-31&g=2009-10-31), [20, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=20&z=2009-10-31&g=2009-10-31), [21 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=21&z=2009-10-31&g=2009-10-31), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=28&z=2009-10-31&g=2009-10-31) en [30 tot en met 38](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=5&artikel=30&z=2009-10-31&g=2009-10-31) wordt aangemerkt als een strafbaar feit.
+Overtreding van de [artikelen 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=3&artikel=9&z=2011-04-01&g=2011-04-01), [13, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=13&z=2011-04-01&g=2011-04-01), [16, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=16&z=2011-04-01&g=2011-04-01), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=17&z=2011-04-01&g=2011-04-01), [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=18&z=2011-04-01&g=2011-04-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=19&z=2011-04-01&g=2011-04-01), [20, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=20&z=2011-04-01&g=2011-04-01), [21 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=21&z=2011-04-01&g=2011-04-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=28&z=2011-04-01&g=2011-04-01) en [30 tot en met 38](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=5&artikel=30&z=2011-04-01&g=2011-04-01) wordt aangemerkt als een strafbaar feit.
 
 ##### Artikel 40
 
@@ -557,15 +557,15 @@ Deze regeling wordt aangehaald als: Regeling luchtvaartvertoningen.
 
 ### Tabel 1, behorend bij [artikel 6, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=2&artikel=6&z=2005-12-10&g=2005-12-10)
 
-### Tabel 1, behorend bij [artikel 6, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=2&artikel=6&z=2009-10-31&g=2009-10-31)
+### Tabel 1, behorend bij [artikel 6, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=2&artikel=6&z=2011-04-01&g=2011-04-01)
 
-### Tabel 2, behorend bij [artikel 9, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=3&artikel=9&z=2009-10-31&g=2009-10-31), en [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=6&artikel=37&z=2009-10-31&g=2009-10-31)
+### Tabel 2, behorend bij [artikel 9, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=3&artikel=9&z=2011-04-01&g=2011-04-01), en [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=6&artikel=37&z=2011-04-01&g=2011-04-01)
 
-### Tabel 3, behorend bij [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=18&z=2009-10-31&g=2009-10-31)
+### Tabel 3, behorend bij [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=18&z=2011-04-01&g=2011-04-01)
 
-### Tabel 4, behorend bij [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=21&z=2009-10-31&g=2009-10-31), en [artikel 34, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=5&artikel=34&z=2009-10-31&g=2009-10-31)
+### Tabel 4, behorend bij [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=21&z=2011-04-01&g=2011-04-01), en [artikel 34, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=5&artikel=34&z=2011-04-01&g=2011-04-01)
 
-### Tabel 5, behorend bij [artikel 22, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=22&z=2009-10-31&g=2009-10-31)
+### Tabel 5, behorend bij [artikel 22, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=22&z=2011-04-01&g=2011-04-01)
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -587,6 +587,6 @@ Deze regeling berust op [artikel 158, tweede lid, van de Regeling Toezicht Lucht
 
 ## Bijlage
 
-### Tabel 6, behorend bij [artikel 23, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=23&z=2009-10-31&g=2009-10-31), en [artikel 33, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=5&artikel=33&z=2009-10-31&g=2009-10-31)
+### Tabel 6, behorend bij [artikel 23, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=4&artikel=23&z=2011-04-01&g=2011-04-01), en [artikel 33, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&paragraaf=5&artikel=33&z=2011-04-01&g=2011-04-01)
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
