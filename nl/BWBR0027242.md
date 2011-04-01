@@ -4,7 +4,7 @@ identifier: "BWBR0027242"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2011-01-01"
+last_updated: "2011-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027242"
 soort: "ministeriele-regeling"
@@ -58,13 +58,11 @@ De Dienstenwet is van toepassing op de in de bijlage bij deze regeling opgenomen
 
 2. De Dienstenwet is van toepassing op de volgende vergunningen:
 
-- a. een projectbesluit als bedoeld in [artikel 1.1, eerste lid, onder f, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=1.1);
+- a. een omgevingsvergunning als bedoeld in [artikel 1.1 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=1.1) waarbij met toepassing van [artikel 2.12, eerste lid, onder a, onder 1° of 3°, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.12) van een bestemmingsplan of een beheersverordening wordt afgeweken;
 
-- b. een besluit op een aanvraag om een ontheffing van een bestemmingsplan als bedoeld in [artikel 3.6, eerste lid, onder c, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.6);
+- b. een ontheffing als bedoeld in [artikel 1.3, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.3);
 
-- c. een besluit op een aanvraag om een ontheffing van een beheersverordening als bedoeld in [artikel 3.38, vierde lid, van de Wet ruimtelijk ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.38);
-
-- d. een ontheffing als bedoeld in [artikel 1.3, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.3).
+- c. een omgevingsvergunning als bedoeld in [artikel 1.1 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=1.1) die betrekking heeft op een activiteit als bedoeld in [artikel 1.3a, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.3a).
 
 ##### Artikel 3
 
@@ -74,7 +72,7 @@ Deze regeling treedt in werking met ingang van 1 maart 2010.
 
 Deze regeling wordt aangehaald als: Regeling indicatieve vaststelling reikwijdte Dienstenwet.
 
-## Bijlage. , bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027242&artikel=1&z=2011-01-01&g=2011-01-01)
+## Bijlage. , bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027242&artikel=1&z=2011-04-01&g=2011-04-01)
 
 ### Hoofdstuk 1 – Vergunningstelsels en eisen van de Rijksoverheid
 
