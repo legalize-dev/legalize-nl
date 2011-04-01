@@ -4,7 +4,7 @@ identifier: "BWBV0003125"
 country: "nl"
 rank: "verdrag"
 publication_date: "2011-04-01"
-last_updated: "2001-11-08"
+last_updated: "2011-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003125"
 soort: "verdrag"
@@ -134,7 +134,7 @@ Onverminderd de bepalingen van [artikel 3 van het Verdrag](https://wetten.overhe
 
 - c. vast te stellen dat de getuige of deskundige instemt met het verhoor per telefoonconferentie.
 
-6. De aangezochte Partij kan haar instemming geheel of gedeeltelijk laten afhangen van de nakoming van het bepaalde in [artikel 9, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003125&hoofdstuk=II&artikel=9&z=2001-11-08&g=2001-11-08).
+6. De aangezochte Partij kan haar instemming geheel of gedeeltelijk laten afhangen van de nakoming van het bepaalde in [artikel 9, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003125&hoofdstuk=II&artikel=9&z=2011-04-01&g=2011-04-01).
 
 ##### Artikel 11. Toezending van gegevens op eigen initiatief
 
@@ -190,11 +190,11 @@ De bepalingen van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBV0001
 
 1. De bevoegde rechterlijke autoriteiten van een Partij kunnen gerechtelijke stukken en rechterlijke uitspraken rechtstreeks per post toezenden aan personen die zich op het grondgebied van een andere Partij bevinden.
 
-2. Bij gerechtelijke stukken en rechterlijke uitspraken wordt de mededeling gevoegd dat de geadresseerde bij de in het rapport vermelde autoriteit inlichtingen kan inwinnen over zijn of haar rechten en plichten met betrekking tot de uitreiking van stukken. De bepalingen van [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003125&hoofdstuk=II&artikel=15&z=2001-11-08&g=2001-11-08), zijn op dat rapport van toepassing.
+2. Bij gerechtelijke stukken en rechterlijke uitspraken wordt de mededeling gevoegd dat de geadresseerde bij de in het rapport vermelde autoriteit inlichtingen kan inwinnen over zijn of haar rechten en plichten met betrekking tot de uitreiking van stukken. De bepalingen van [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003125&hoofdstuk=II&artikel=15&z=2011-04-01&g=2011-04-01), zijn op dat rapport van toepassing.
 
 3. De bepalingen van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001009&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0001009&artikel=9) en [12 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001009&artikel=12) zijn van overeenkomstige toepassing op de uitreiking per post.
 
-4. De bepalingen van [artikel 15, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003125&hoofdstuk=II&artikel=15&z=2001-11-08&g=2001-11-08), zijn eveneens van toepassing op uitreiking per post.
+4. De bepalingen van [artikel 15, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003125&hoofdstuk=II&artikel=15&z=2011-04-01&g=2011-04-01), zijn eveneens van toepassing op uitreiking per post.
 
 ##### Artikel 17. Grensoverschrijdende observaties
 
@@ -334,11 +334,11 @@ Een verzoek om instelling van een gemeenschappelijk onderzoeksteam kan van elk v
 
 ##### Artikel 21. Strafrechtelijke aansprakelijkheid van ambtenaren
 
-Tijdens een optreden, bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBV0003125&hoofdstuk=II&artikel=17&z=2001-11-08&g=2001-11-08), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0003125&hoofdstuk=II&artikel=18&z=2001-11-08&g=2001-11-08), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0003125&hoofdstuk=II&artikel=19&z=2001-11-08&g=2001-11-08) of [20](https://wetten.overheid.nl/jci1.3:c:BWBV0003125&hoofdstuk=II&artikel=20&z=2001-11-08&g=2001-11-08), worden de ambtenaren uit een andere Partij dan de Partij waar het optreden plaatsvindt, met ambtenaren van laatstbedoelde Partij gelijkgesteld, voor wat betreft de strafbare feiten die tegen of door hen mochten worden begaan, tenzij door de betrokken Partijen anders wordt overeengekomen.
+Tijdens een optreden, bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBV0003125&hoofdstuk=II&artikel=17&z=2011-04-01&g=2011-04-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0003125&hoofdstuk=II&artikel=18&z=2011-04-01&g=2011-04-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0003125&hoofdstuk=II&artikel=19&z=2011-04-01&g=2011-04-01) of [20](https://wetten.overheid.nl/jci1.3:c:BWBV0003125&hoofdstuk=II&artikel=20&z=2011-04-01&g=2011-04-01), worden de ambtenaren uit een andere Partij dan de Partij waar het optreden plaatsvindt, met ambtenaren van laatstbedoelde Partij gelijkgesteld, voor wat betreft de strafbare feiten die tegen of door hen mochten worden begaan, tenzij door de betrokken Partijen anders wordt overeengekomen.
 
 ##### Artikel 22. Burgerrechtelijke aansprakelijkheid van ambtenaren
 
-1. Wanneer ambtenaren van een Partij overeenkomstig de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBV0003125&hoofdstuk=II&artikel=17&z=2001-11-08&g=2001-11-08), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0003125&hoofdstuk=II&artikel=18&z=2001-11-08&g=2001-11-08), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0003125&hoofdstuk=II&artikel=19&z=2001-11-08&g=2001-11-08) of [20](https://wetten.overheid.nl/jci1.3:c:BWBV0003125&hoofdstuk=II&artikel=20&z=2001-11-08&g=2001-11-08) in een andere Partij optreden, is de eerstgenoemde Partij overeenkomstig het recht van de Partij op het grondgebied waarvan zij optreden aansprakelijk voor de schade die zij aldaar tijdens hun optreden veroorzaken.
+1. Wanneer ambtenaren van een Partij overeenkomstig de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBV0003125&hoofdstuk=II&artikel=17&z=2011-04-01&g=2011-04-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0003125&hoofdstuk=II&artikel=18&z=2011-04-01&g=2011-04-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0003125&hoofdstuk=II&artikel=19&z=2011-04-01&g=2011-04-01) of [20](https://wetten.overheid.nl/jci1.3:c:BWBV0003125&hoofdstuk=II&artikel=20&z=2011-04-01&g=2011-04-01) in een andere Partij optreden, is de eerstgenoemde Partij overeenkomstig het recht van de Partij op het grondgebied waarvan zij optreden aansprakelijk voor de schade die zij aldaar tijdens hun optreden veroorzaken.
 
 2. De Partij op het grondgebied waarvan de in het eerste lid bedoelde schade wordt veroorzaakt, neemt op zich deze schade te vergoeden op de wijze waarop hij daartoe gehouden zou zijn,indien de schade haar eigen ambtenaren zou zijn toegebracht.
 
@@ -426,7 +426,7 @@ De Europese Commissie voor Strafrechtelijke Vraagstukken van de Raad van Europa 
 
 1. De voorbehouden door een Partij gemaakt ten aanzien van een bepaling van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001009) of van het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001027) daarbij, zijn eveneens van toepassing op dit Protocol, tenzij die Partij bij de ondertekening, of bij de nederlegging van haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding het tegendeel verklaart. Hetzelfde geldt voor een verklaring gedaan ten aanzien van of krachtens een bepaling van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001009) of van het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001027) daarbij.
 
-2. Iedere Staat kan bij de ondertekening, of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, verklaren dat hij zich het recht voorbehoudt een of meerdere van de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBV0003125&hoofdstuk=II&artikel=16&z=2001-11-08&g=2001-11-08), [17](https://wetten.overheid.nl/jci1.3:c:BWBV0003125&hoofdstuk=II&artikel=17&z=2001-11-08&g=2001-11-08), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0003125&hoofdstuk=II&artikel=18&z=2001-11-08&g=2001-11-08), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0003125&hoofdstuk=II&artikel=19&z=2001-11-08&g=2001-11-08) en [20](https://wetten.overheid.nl/jci1.3:c:BWBV0003125&hoofdstuk=II&artikel=20&z=2001-11-08&g=2001-11-08) geheel of gedeeltelijk niet te aanvaarden. Geen ander voorbehoud is toegestaan.
+2. Iedere Staat kan bij de ondertekening, of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, verklaren dat hij zich het recht voorbehoudt een of meerdere van de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBV0003125&hoofdstuk=II&artikel=16&z=2011-04-01&g=2011-04-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBV0003125&hoofdstuk=II&artikel=17&z=2011-04-01&g=2011-04-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0003125&hoofdstuk=II&artikel=18&z=2011-04-01&g=2011-04-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0003125&hoofdstuk=II&artikel=19&z=2011-04-01&g=2011-04-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBV0003125&hoofdstuk=II&artikel=20&z=2011-04-01&g=2011-04-01) geheel of gedeeltelijk niet te aanvaarden. Geen ander voorbehoud is toegestaan.
 
 3. Iedere Staat kan een voorbehoud dat hij heeft gemaakt overeenkomstig de voorgaande leden, geheel of gedeeltelijk intrekken door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte verklaring, die van kracht wordt op de datum van ontvangst daarvan.
 
@@ -448,7 +448,7 @@ De Secretaris-Generaal van de Raad van Europa geeft alle lidstaten van de Raad v
 
 - b. de nederlegging van iedere akte van bekrachtiging, aanvaarding, goedkeuring of toetreding;
 
-- c. iedere datum van inwerkingtreding van dit Protocol overeenkomstig de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBV0003125&hoofdstuk=III&artikel=30&z=2001-11-08&g=2001-11-08) en [31](https://wetten.overheid.nl/jci1.3:c:BWBV0003125&hoofdstuk=III&artikel=31&z=2001-11-08&g=2001-11-08);
+- c. iedere datum van inwerkingtreding van dit Protocol overeenkomstig de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBV0003125&hoofdstuk=III&artikel=30&z=2011-04-01&g=2011-04-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBV0003125&hoofdstuk=III&artikel=31&z=2011-04-01&g=2011-04-01);
 
 - d. iedere andere akte, verklaring, kennisgeving of mededeling die betrekking heeft op dit Protocol.
 
