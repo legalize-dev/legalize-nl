@@ -4,7 +4,7 @@ identifier: "BWBR0020371"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-05"
-last_updated: "2008-11-20"
+last_updated: "2011-04-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020371"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Besluit:
 
 1. Het is verboden te handelen in strijd met de artikelen 2 en 5 van [Verordening (EG) nr. 765/2006](32006R0765) van de Raad van de Europese Unie van 18 mei 2006 betreffende beperkende maatregelen tegen president Loekasjenko en bepaalde functionarissen van Belarus.
 
-2. Het verbod, bedoeld in het eerste lid, geldt niet in gevallen waarin de artikelen 3, eerste lid, of 4 van [Verordening (EG) nr. 765/2006](32006R0765) van toepassing zijn.
+2. Het verbod, bedoeld in het eerste lid, geldt niet in gevallen waarin de artikel 3, eerste en tweede lid, of artikel 4 van [Verordening (EG) nr. 765/2006](32006R0765) van toepassing zijn.
 
 ##### Artikel 2
 
