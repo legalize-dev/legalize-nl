@@ -4,7 +4,7 @@ identifier: "BWBR0029765"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-16"
-last_updated: "2011-03-30"
+last_updated: "2011-04-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029765"
 soort: "ministeriele-regeling"
@@ -50,7 +50,9 @@ Besluit:
 
 ##### Artikel 2
 
-De bevoegde autoriteit, bedoeld in de artikelen 4, eerste lid, 5, eerste lid, en 7 van [Verordening 101/2011](32011R0101) is de Minister van Financiën.
+1. De bevoegde autoriteit, bedoeld in de artikelen 4, eerste lid, 5, eerste lid, artikel 6, tweede lid, 7 en 9, eerste lid, van [Verordening 101/2011](32011R0101) is de Minister van Financiën voor zover het betreft de vrijgave of beschikbaarstelling van bevroren tegoeden.
+
+2. De bevoegde autoriteit, bedoeld in de artikelen 4, eerste lid, 5, eerste lid, en 7 van [Verordening 101/2011](32011R0101) is de Minister van Economische Zaken, Landbouw en Innovatie voor zover het betreft de vrijgave of beschikbaarstelling van economische middelen.
 
 ##### Artikel 3
 
