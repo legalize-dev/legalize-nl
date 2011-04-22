@@ -4,7 +4,7 @@ identifier: "BWBV0003065"
 country: "nl"
 rank: "verdrag"
 publication_date: "2011-04-22"
-last_updated: "2006-12-20"
+last_updated: "2011-04-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003065"
 soort: "verdrag"
@@ -68,7 +68,7 @@ Voor de toepassing van dit Verdrag wordt als „gedwongen verdwijning” aangeme
 
 ##### Artikel 3
 
-Elke Staat die Partij is neemt passende maatregelen om de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=2&z=2006-12-20&g=2006-12-20) omschreven handelingen van personen of groepen personen die optreden zonder de machtiging of steun van of bewilliging door de Staat te onderzoeken en de verantwoordelijken voor het gerecht te brengen.
+Elke Staat die Partij is neemt passende maatregelen om de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=2&z=2011-04-22&g=2011-04-22) omschreven handelingen van personen of groepen personen die optreden zonder de machtiging of steun van of bewilliging door de Staat te onderzoeken en de verantwoordelijken voor het gerecht te brengen.
 
 ##### Artikel 4
 
@@ -108,7 +108,7 @@ De wijdverbreide of systematische praktijk van gedwongen verdwijning vormt een m
 
 ##### Artikel 8
 
-Onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=5&z=2006-12-20&g=2006-12-20)
+Onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=5&z=2011-04-22&g=2011-04-22)
 
 - 1. Neemt een Staat die Partij is die ter zake van gedwongen verdwijningen verjaringstermijnen toepast de noodzakelijke maatregelen om te waarborgen dat de verjaringstermijnen bij strafrechtelijke procedures:
 
@@ -136,7 +136,7 @@ Onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&
 
 1. Na zich er door bestudering van de hem ter beschikking staande inlichtingen van te hebben vergewist dat de omstandigheden zulks vereisen, neemt de Staat die Partij is op wiens grondgebied een persoon aanwezig is die wordt verdacht van het plegen van het misdrijf van gedwongen verdwijning, hem of haar in hechtenis of treft hij de overige wettelijke maatregelen die noodzakelijk zijn om zijn of haar aanwezigheid te waarborgen. De hechtenis en andere wettelijke maatregelen geschieden zoals voorzien in de wetgeving van die Staat die Partij is, maar mogen niet langer voortduren dan noodzakelijk om de aanwezigheid van de persoon bij de strafrechtelijke, overleverings- of uitleveringsprocedures te waarborgen.
 
-2. Een Staat die Partij is die de in het eerste lid van dit artikel bedoelde maatregelen heeft genomen, stelt onverwijld een gerechtelijk vooronderzoek of opsporingsonderzoek in voor het vaststellen van de feiten. Hij stelt de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=9&z=2006-12-20&g=2006-12-20), bedoelde Staten die Partij zijn in kennis van de maatregelen die hij uit hoofde van het eerste lid van dit artikel heeft genomen, waaronder de hechtenis en de omstandigheden die deze rechtvaardigen en van de bevindingen uit het gerechtelijk vooronderzoek of het opsporingsonderzoek, en vermeldt daarbij of hij voornemens is zijn rechtsmacht uit te oefenen.
+2. Een Staat die Partij is die de in het eerste lid van dit artikel bedoelde maatregelen heeft genomen, stelt onverwijld een gerechtelijk vooronderzoek of opsporingsonderzoek in voor het vaststellen van de feiten. Hij stelt de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=9&z=2011-04-22&g=2011-04-22), bedoelde Staten die Partij zijn in kennis van de maatregelen die hij uit hoofde van het eerste lid van dit artikel heeft genomen, waaronder de hechtenis en de omstandigheden die deze rechtvaardigen en van de bevindingen uit het gerechtelijk vooronderzoek of het opsporingsonderzoek, en vermeldt daarbij of hij voornemens is zijn rechtsmacht uit te oefenen.
 
 3. Een persoon die uit hoofde van het eerste lid van dit artikel in hechtenis is genomen mag onverwijld contact opnemen met de dichtstbijzijnde bevoegde vertegenwoordiger van de Staat waarvan hij of zij onderdaan is, of, indien hij of zij staatloos is, met de vertegenwoordiger van de Staat waar hij of zij gewoonlijk verblijft.
 
@@ -144,7 +144,7 @@ Onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&
 
 1. De Staat die Partij is op het grondgebied waarvan een persoon die wordt verdacht van het plegen van het misdrijf van gedwongen verdwijning wordt aangetroffen, levert deze persoon over aan zijn bevoegde autoriteiten voor strafrechtelijke vervolging, indien hij deze persoon niet uitlevert of overlevert aan een andere Staat in overeenstemming met zijn internationale verplichtingen of hem of haar niet overlevert aan een internationaal straftribunaal waarvan hij de rechtsmacht heeft erkend.
 
-2. Deze autoriteiten nemen hun beslissing op dezelfde wijze als in het geval van elk misdrijf met een ernstig karakter krachtens de wetgeving van die Staat die Partij is. In de gevallen bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=9&z=2006-12-20&g=2006-12-20), mogen de normen voor het voor vervolging en veroordeling vereiste bewijs in geen geval minder stringent zijn dan die welke van toepassing zijn in de gevallen bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=9&z=2006-12-20&g=2006-12-20).
+2. Deze autoriteiten nemen hun beslissing op dezelfde wijze als in het geval van elk misdrijf met een ernstig karakter krachtens de wetgeving van die Staat die Partij is. In de gevallen bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=9&z=2011-04-22&g=2011-04-22), mogen de normen voor het voor vervolging en veroordeling vereiste bewijs in geen geval minder stringent zijn dan die welke van toepassing zijn in de gevallen bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=9&z=2011-04-22&g=2011-04-22).
 
 3. Eenieder tegen wie strafrechtelijke vervolging wordt ingesteld in verband met het misdrijf van gedwongen verdwijning wordt het recht op een eerlijke behandeling in alle fasen van de procedure verzekerd. Eenieder die terechtstaat wegens het misdrijf van gedwongen verdwijning krijgt een eerlijk proces voor een bevoegd, onafhankelijk en onpartijdig gerecht dat bij de wet is ingesteld.
 
@@ -234,7 +234,7 @@ De Staten die Partij zijn werken met elkaar samen en verlenen elkaar de ruimst m
 
 ##### Artikel 18
 
-1. Onder voorbehoud van het bepaalde in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=19&z=2006-12-20&g=2006-12-20) en [20](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=20&z=2006-12-20&g=2006-12-20) garandeert elke Staat die Partij is elke persoon die een rechtmatig belang heeft bij deze informatie, zoals familieleden van de persoon wiens vrijheid is ontnomen, hun vertegenwoordiger of raadsman, toegang tot ten minste de volgende inlichtingen:
+1. Onder voorbehoud van het bepaalde in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=19&z=2011-04-22&g=2011-04-22) en [20](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=20&z=2011-04-22&g=2011-04-22) garandeert elke Staat die Partij is elke persoon die een rechtmatig belang heeft bij deze informatie, zoals familieleden van de persoon wiens vrijheid is ontnomen, hun vertegenwoordiger of raadsman, toegang tot ten minste de volgende inlichtingen:
 
 - a. De autoriteit die de vrijheidsontneming heeft gelast;
 
@@ -260,9 +260,9 @@ De Staten die Partij zijn werken met elkaar samen en verlenen elkaar de ruimst m
 
 ##### Artikel 20
 
-1. Uitsluitend wanneer een persoon beschermd wordt door de wet en er gerechtelijk toezicht is op de vrijheidsontneming, mag het recht op inlichtingen bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=18&z=2006-12-20&g=2006-12-20) bij uitzondering worden beperkt, wanneer dat strikt noodzakelijk is en voorzien is in de wet, en indien de overdracht van de inlichtingen de privésfeer of veiligheid van de persoon nadelig zou beïnvloeden, een strafrechtelijk onderzoek zou belemmeren, of op vergelijkbare gronden in overeenstemming met het recht, met het toepasselijke internationale recht en met de doelstellingen van dit Verdrag. In geen geval mogen er ten aanzien van het recht op inlichtingen bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=18&z=2006-12-20&g=2006-12-20) beperkingen gelden die gedragingen vormen zoals omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=2&z=2006-12-20&g=2006-12-20) of in strijd zijn met [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=17&z=2006-12-20&g=2006-12-20).
+1. Uitsluitend wanneer een persoon beschermd wordt door de wet en er gerechtelijk toezicht is op de vrijheidsontneming, mag het recht op inlichtingen bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=18&z=2011-04-22&g=2011-04-22) bij uitzondering worden beperkt, wanneer dat strikt noodzakelijk is en voorzien is in de wet, en indien de overdracht van de inlichtingen de privésfeer of veiligheid van de persoon nadelig zou beïnvloeden, een strafrechtelijk onderzoek zou belemmeren, of op vergelijkbare gronden in overeenstemming met het recht, met het toepasselijke internationale recht en met de doelstellingen van dit Verdrag. In geen geval mogen er ten aanzien van het recht op inlichtingen bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=18&z=2011-04-22&g=2011-04-22) beperkingen gelden die gedragingen vormen zoals omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=2&z=2011-04-22&g=2011-04-22) of in strijd zijn met [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=17&z=2011-04-22&g=2011-04-22).
 
-2. Onverminderd de toetsing van de rechtmatigheid van de ontneming van de vrijheid van een persoon, garanderen de Staten die Partij zijn de personen bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=18&z=2006-12-20&g=2006-12-20), het recht op onverwijlde en daadwerkelijke rechtsmiddelen ten behoeve van het verkrijgen van de inlichtingen bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=18&z=2006-12-20&g=2006-12-20). Het recht op een rechtsmiddel mag onder geen enkele voorwaarde worden ingetrokken of beperkt.
+2. Onverminderd de toetsing van de rechtmatigheid van de ontneming van de vrijheid van een persoon, garanderen de Staten die Partij zijn de personen bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=18&z=2011-04-22&g=2011-04-22), het recht op onverwijlde en daadwerkelijke rechtsmiddelen ten behoeve van het verkrijgen van de inlichtingen bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=18&z=2011-04-22&g=2011-04-22). Het recht op een rechtsmiddel mag onder geen enkele voorwaarde worden ingetrokken of beperkt.
 
 ##### Artikel 21
 
@@ -270,9 +270,9 @@ Elke Staat die Partij is neemt de noodzakelijke maatregelen om te waarborgen dat
 
 ##### Artikel 22
 
-Onverminderd [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=6&z=2006-12-20&g=2006-12-20) neemt elke Staat die Partij is de noodzakelijke maatregelen teneinde de volgende gedragingen te voorkomen en er sancties voor op te leggen:
+Onverminderd [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=6&z=2011-04-22&g=2011-04-22) neemt elke Staat die Partij is de noodzakelijke maatregelen teneinde de volgende gedragingen te voorkomen en er sancties voor op te leggen:
 
-- a. Het vertragen of belemmeren van de rechtsmiddelen bedoeld in [artikel 17, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=17&z=2006-12-20&g=2006-12-20), en in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=20&z=2006-12-20&g=2006-12-20);
+- a. Het vertragen of belemmeren van de rechtsmiddelen bedoeld in [artikel 17, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=17&z=2011-04-22&g=2011-04-22), en in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=20&z=2011-04-22&g=2011-04-22);
 
 - b. Het nietnakomen van de verplichting om de ontneming van de vrijheid van een persoon te registreren of het registreren van inlichtingen waarvan de voor het officiële register verantwoordelijke functionaris wist of behoorde te weten dat deze onjuist was;
 
@@ -356,7 +356,7 @@ Onverminderd [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&
 
 ##### Artikel 27
 
-Niet eerder dan vier jaar en uiterlijk zes jaar na de inwerkingtreding van dit Verdrag vindt een conferentie van de Staten die Partij zijn plaats teneinde het functioneren van het Comité te evalueren en, in overeenstemming met de procedure omschreven in [artikel 44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=III&artikel=44&z=2006-12-20&g=2006-12-20), te beslissen of het opportuun is de monitoring van dit Verdrag, in overeenstemming met de taken omschreven in de artikelen 28 tot en met 36, over te dragen aan een ander orgaan – zonder mogelijkheden uit te sluiten.
+Niet eerder dan vier jaar en uiterlijk zes jaar na de inwerkingtreding van dit Verdrag vindt een conferentie van de Staten die Partij zijn plaats teneinde het functioneren van het Comité te evalueren en, in overeenstemming met de procedure omschreven in [artikel 44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=III&artikel=44&z=2011-04-22&g=2011-04-22), te beslissen of het opportuun is de monitoring van dit Verdrag, in overeenstemming met de taken omschreven in de artikelen 28 tot en met 36, over te dragen aan een ander orgaan – zonder mogelijkheden uit te sluiten.
 
 ##### Artikel 28
 
@@ -476,9 +476,9 @@ Dit Verdrag laat onverlet bepalingen die meer bijdragen aan de bescherming van e
 
 De Secretaris-Generaal van de Verenigde Naties stelt alle Staten die lid zijn van de Verenigde Naties en alle Staten die dit Verdrag hebben ondertekend of ertoe zijn toegetreden in kennis van het volgende:
 
-- a. Ondertekeningen, bekrachtigingen en toetredingen uit hoofde van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=III&artikel=38&z=2006-12-20&g=2006-12-20);
+- a. Ondertekeningen, bekrachtigingen en toetredingen uit hoofde van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=III&artikel=38&z=2011-04-22&g=2011-04-22);
 
-- b. De datum van inwerkingtreding van dit Verdrag uit hoofde van [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=III&artikel=39&z=2006-12-20&g=2006-12-20).
+- b. De datum van inwerkingtreding van dit Verdrag uit hoofde van [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=III&artikel=39&z=2011-04-22&g=2011-04-22).
 
 ##### Artikel 41
 
@@ -510,4 +510,4 @@ Dit Verdrag laat onverlet de bepalingen van het internationaal humanitair recht,
 
 1. Dit Verdrag, waarvan de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 
-2. De Secretaris-Generaal van de Verenigde Naties doet voor eensluidende gewaarmerkte afschriften van dit Verdrag toekomen aan alle Staten bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=III&artikel=38&z=2006-12-20&g=2006-12-20) van het Verdrag.
+2. De Secretaris-Generaal van de Verenigde Naties doet voor eensluidende gewaarmerkte afschriften van dit Verdrag toekomen aan alle Staten bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=III&artikel=38&z=2011-04-22&g=2011-04-22) van het Verdrag.
