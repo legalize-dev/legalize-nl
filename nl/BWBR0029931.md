@@ -4,7 +4,7 @@ identifier: "BWBR0029931"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-04-26"
-last_updated: "2011-04-01"
+last_updated: "2011-04-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029931"
 soort: "ministeriele-regeling"
@@ -71,7 +71,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Ondermandaat
 
-1. KPMG kan ten aanzien van het in het [vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0029931&artikel=2&z=2011-04-26&g=2011-04-01) genoemde bevoegdheden schriftelijk ondermandaat verlenen aan bij KPMG in dienst zijnde functionarissen.
+1. KPMG kan ten aanzien van het in het [vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0029931&artikel=2&z=2011-04-26&g=2011-04-26) genoemde bevoegdheden schriftelijk ondermandaat verlenen aan bij KPMG in dienst zijnde functionarissen.
 
 2. KPMG houdt een register bij van de namen van deze functionarissen, alsmede gegevens omtrent de inhoud van het ondermandaat.
 
