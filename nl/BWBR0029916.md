@@ -255,35 +255,3 @@ Reductie van de broeikasgasemissies = ([uitgangsnorm 2010] - gemiddelde broeikas
 De gemiddelde broeikasgasemissie gedurende de levenscyclus per eenheid energie gedurende de levenscyclus van geleverde brandstof en energie wordt in deze formule uitgedrukt in [g CO2eq/MJ]. De reductie van de broeikasgasemissies wordt berekend ten opzichte van de uitgangsnorm voor brandstof op basis van de broeikasgasemissies gedurende de levenscyclus per eenheid energie van fossiele brandstoffen in 2010. Deze waarde moet volgens de procedure zoals omschreven in artikel 7 bis, vijfde lid, van [richtlijn 98/70/EG](31998L0070) worden bepaald.
 
 Voor deze uitgangsnorm moet worden uitgegaan van een waarde van 86,6 g CO2eq.
-
-### Vereisten rapportage als bedoeld in [artikel 2.9, derde lid, van het Besluit brandstoffen luchtverontreiniging](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=2.9)
-
-### Toelichting
-
-### **Tabel 1 Geleverde brandstoffen**
-
-### **Tabel 2 Berekende broeikasgasemissiereductie van geleverde brandstof en energie**
-
-Voor elke soort fossiele brandstof of biobrandstof worden de totale broeikasgasemissie gedurende de levenscyclus (totale rbroeikasgasemissie x) en de totale hoeveelheid geleverde energie (totale hoeveelheid energie x) als volgt bepaald:
-
-Voor elektriciteit worden de totale broeikasgasemissie (totale broeikasgasemissie x) en de totale hoeveelheid geleverde energie (totale hoeveelheid energie x) als volgt bepaald:
-
-De gemiddelde broeikasgasemissie gedurende de levenscyclus per eenheid energie van de geleverde brandstof en energie kan worden beschouwd als het naar energie-inhoud gewogen gemiddelde van de totale broeikasgasemissie per eenheid energie van de verschillende soorten brandstoffen en energie, die door de registratieplichtige op de markt worden gebracht.
-
-##### Artikel 4a
-
-De hoeveelheid, bedoeld in [artikel 2.9a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=2.9a), is voor:
-
-- a. benzine, diesel, LPG, en gasolie voor mobiele machines: 50.000 liter;
-
-- b. CNG en LNG, bestemd voor wegvoertuigen: 50.000 Nm3.
-
-## Bijlage. bij [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029916&artikel=4&z=2013-06-05&g=2013-01-01), van de Regeling brandstoffen luchtverontreiniging
-
-### Vereisten rapportage als bedoeld in [artikel 2.9, derde lid, van het Besluit brandstoffen luchtverontreiniging](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=2.9)
-
-### Toelichting
-
-### **Tabel 1 Geleverde brandstoffen**
-
-### **Tabel 2 Berekende broeikasgasemissiereductie van geleverde brandstof en energie**
