@@ -4,7 +4,7 @@ identifier: "BWBR0014740"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-26"
-last_updated: "2009-03-27"
+last_updated: "2011-04-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014740"
 soort: "ministeriele-regeling"
@@ -76,7 +76,7 @@ In deze regeling wordt verstaan onder demografisch bereik: het demografisch bere
 
 2. Als frequentieruimte, bedoeld in het eerste lid, wordt aangewezen: de frequentieruimte in de kavel A9, bedoeld in tabel 2 van bijlage 1 van de Regeling aanvraag en vergelijkende toets vergunningen commerciële radio-omroep 2003.
 
-3. Voor de toepassing van het eerste lid worden als Europese producties aangemerkt muziekproducties die met overeenkomstige toepassing van de criteria van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=6&z=2009-03-27&g=2009-03-27) van de Europese richtlijn als Europese productie kunnen worden aangemerkt.
+3. Voor de toepassing van het eerste lid worden als Europese producties aangemerkt muziekproducties die met overeenkomstige toepassing van de criteria van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=6&z=2011-04-30&g=2011-04-30) van de Europese richtlijn als Europese productie kunnen worden aangemerkt.
 
 4. Bij de toepassing van het eerste lid, onderdelen b tot en met d, wordt de zendtijd besteed aan reclameboodschappen en nieuws buiten beschouwing gelaten.
 
@@ -90,7 +90,7 @@ In deze regeling wordt verstaan onder demografisch bereik: het demografisch bere
 
 - b. het radioprogramma tussen 07.00 uur en 19.00 uur ten minste 50 procent klassieke muziek, moderne klassieke muziek daaronder begrepen, of jazzmuziek bevat.
 
-2. Als frequentieruimte, bedoeld in het eerste lid, wordt aangewezen: de frequentie behorend bij kavel A8, bedoeld in de bijlage bij deze regeling.
+2. Als frequentieruimte als bedoeld in het eerste lid wordt aangewezen: de frequentieruimte behorend bij kavel A8, bedoeld in het [besluit van de Minister van Economische Zaken, Landbouw en Innovatie van 26 april 2011, nr. AT-EL&I/ 6614918, houdende de vaststelling van twee vergunningen voor landelijke commerciële radio-omroep (kavels A7 en A8) alsmede twee vergunningen voor digitale radio-omroep](onbekend) (Stcrt. 2011, 7602).
 
 3. Bij de toepassing van het eerste lid, onderdeel b, wordt de zendtijd besteed aan reclameboodschappen en nieuws buiten beschouwing gelaten.
 
@@ -154,13 +154,13 @@ In deze regeling wordt verstaan onder demografisch bereik: het demografisch bere
 
 ##### Artikel 8
 
-1. In afwijking van [artikel 6:24, eerste lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=6.24), mag voor de uitzending via de FM-band van radioprogramma's, andere dan bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7&z=2009-03-27&g=2009-03-27), van eenzelfde commerciële omroepinstelling meer dan één FM-frequentie of samenstel van FM-frequenties worden gebruikt, met dien verstande dat:
+1. In afwijking van [artikel 6:24, eerste lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=6.24), mag voor de uitzending via de FM-band van radioprogramma's, andere dan bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7&z=2011-04-30&g=2011-04-30), van eenzelfde commerciële omroepinstelling meer dan één FM-frequentie of samenstel van FM-frequenties worden gebruikt, met dien verstande dat:
 
-- a. niet meer of andere frequentieruimte in de FM-band wordt gebruikt dan de frequentieruimte van ten hoogste twee kavels, bedoeld in [artikel 2, eerste en tweede lid, van de Regeling aanvraag en vergelijkende toets vergunningen commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014741&artikel=2) en de bijlage bij deze regeling, voor zover het de kavels A7 en A8 betreft, en
+- a. niet meer of andere frequentieruimte in de FM-band wordt gebruikt dan de frequentieruimte van ten hoogste twee kavels, bedoeld in [artikel 2, eerste en tweede lid, van de Regeling aanvraag en vergelijkende toets vergunningen commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014741&artikel=2) en het [besluit van de Minister van Economische Zaken, Landbouw en Innovatie van .26 april 2011, nr. AT-EL&I/ 6614918, houdende de vaststelling van twee vergunningen voor landelijke commerciële radio-omroep (kavels A7 en A8) alsmede twee vergunningen voor digitale radio-omroep](onbekend) (Stcrt. 2011, 7602) voor zover het de kavels A7 en A8 betreft, voor zover het de kavels A7 en A8 betreft, en
 
-- b. één van de kavels, bedoeld in onderdeel a, frequentieruimte betreft waarop [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=2&z=2009-03-27&g=2009-03-27), [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=3&z=2009-03-27&g=2009-03-27), [artikel 4 eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=4&z=2009-03-27&g=2009-03-27), [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=5&z=2009-03-27&g=2009-03-27), of [artikel 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=6&z=2009-03-27&g=2009-03-27), van toepassing is.
+- b. één van de kavels, bedoeld in onderdeel a, frequentieruimte betreft waarop [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=2&z=2011-04-30&g=2011-04-30), [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=3&z=2011-04-30&g=2011-04-30), [artikel 4 eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=4&z=2011-04-30&g=2011-04-30), [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=5&z=2011-04-30&g=2011-04-30), of [artikel 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=6&z=2011-04-30&g=2011-04-30), van toepassing is.
 
-2. In afwijking van [artikel 82f, eerste lid, van de Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149&artikel=82f), mag voor de uitzending via de FM-band van radioprogramma's als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7&z=2009-03-27&g=2009-03-27), van eenzelfde commerciële omroepinstelling meer dan één FM-frequentie of samenstel van FM-frequenties, behorende tot de in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7&z=2009-03-27&g=2009-03-27), aangewezen frequentieruimte, worden gebruikt, mits
+2. In afwijking van [artikel 82f, eerste lid, van de Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149&artikel=82f), mag voor de uitzending via de FM-band van radioprogramma's als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7&z=2011-04-30&g=2011-04-30), van eenzelfde commerciële omroepinstelling meer dan één FM-frequentie of samenstel van FM-frequenties, behorende tot de in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7&z=2011-04-30&g=2011-04-30), aangewezen frequentieruimte, worden gebruikt, mits
 
 - a. het demografisch bereik van de desbetreffende FM-frequenties of samenstellen van FM-frequenties tezamen niet meer bedraagt dan 30 procent; en
 
@@ -176,44 +176,8 @@ Deze regeling wordt aangehaald als: Regeling aanwijzing en gebruik frequentierui
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage. behorend bij de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=4&z=2009-03-27&g=2009-03-27), en [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=8&z=2009-03-27&g=2009-03-27),
+## Bijlage. behorend bij de artikelen 4, tweede lid, en 8, eerste lid,
 
-| Opstelplaats | Frequentie |
-| --- | --- |
-| SMILDE | 87.6 MHz |
-| LELYSTAD | 87.7 MHz |
-| UTRECHT | 87.8 MHz |
-| DEN BOSCH | 87.9 MHz |
-| ALKMAAR | 88.1 MHz |
-| HILVERSUM | 88.1 MHz |
-| MAASTRICHT | 91.1 MHz |
-| TERNEUZEN | 93.0 MHz |
-| OOSTBURG | 93.3 MHz |
-| GILZE | 95.4 MHz |
-| AMSTERDAM | 103.6 MHz |
-| EMMEN | 103.8 MHz |
-| TJERKGAAST | 103.8 MHz |
-| ROTTERDAM | 103.8 MHz |
-| LICHTENVOORDE | 103.9 MHz |
-| HAARLEM | 104.0 MHz |
-| ARNHEM | 104.1 MHz |
-
-| Opstelplaats | Frequentie |
-| --- | --- |
-| VLISSINGEN | 88.8 MHz |
-| MAASTRICHT | 88.9 MHz |
-| BREDA | 89.7 MHz |
-| MIERLO | 89.7 MHz |
-| NIJMEGEN | 89.8 MHz |
-| GRONINGEN | 90.3 MHz |
-| DEN HAAG | 90.3 MHz |
-| HILVERSUM | 90.4 MHz |
-| HOORN | 90.4 MHz |
-| ROTTERDAM | 90.5 MHz |
-| SMILDE | 90.5 MHz |
-| ENSCHEDE | 90.7 MHz |
-| LOPIK | 90.7 MHz |
-| TERNEUZEN | 90.8 MHz |
-| ALPHEN | 90.9 MHz |
+Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
