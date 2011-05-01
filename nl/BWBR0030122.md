@@ -4,7 +4,7 @@ identifier: "BWBR0030122"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-01-01"
-last_updated: "2011-03-03"
+last_updated: "2011-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030122"
 soort: "ministeriele-regeling"
@@ -116,7 +116,7 @@ Wijzigt de Wijzigingsregeling Uitvoeringsregeling Belastingdienst 2003, enz. (in
 
 ##### Artikel XIX
 
-Dit onderdeel is nog niet inwerking getreden
+**Artikel III** van de [regeling van de Staatssecretaris van Financiën van 26 april 2011, nr. DB 2011/164M, tot wijziging van de Uitvoeringsregeling Belastingdienst 2003, de Algemene douaneregeling en de Uitvoeringsregeling Douane- en Accijnswet BES in verband met enkele aanpassingen van de organisatie en het besturingsmodel van de Belastingdienst](https://wetten.overheid.nl/jci1.3:c:BWBR0029914) (Stcrt. 2011, 7685) vindt mede toepassing voor de periode van 1 januari 2011 tot en met 2 maart 2011. Voorts vervalt **artikel IV** van de in de vorige volzin bedoelde regeling.
 
 ##### Artikel XX
 
