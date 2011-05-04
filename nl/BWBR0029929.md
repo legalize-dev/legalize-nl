@@ -95,9 +95,3 @@ Dit onderdeel is nog niet inwerking getreden
 Dit besluit wordt aangehaald als: Warenwetbesluit Lucky Bamboo.
 
 Lasten en bevelen dat dit besluit met de daarbij horende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 4a
-
-Met behandelde Lucky Bamboo als bedoeld in dit besluit wordt gelijkgesteld behandelde Lucky Bamboo die rechtmatig is gekweekt of in de handel is gebracht in een andere lidstaat van de Europese Unie of in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een tot een douane-unie strekkend Verdrag, dan wel rechtmatig is gekweekt in een staat die partij is bij een tot een vrijhandelszone strekkend Verdrag dat Nederland bindt, en die voldoet aan de eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
-
-Lasten en bevelen dat dit besluit met de daarbij horende nota van toelichting in het Staatsblad zal worden geplaatst.
