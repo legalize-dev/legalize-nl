@@ -4,7 +4,7 @@ identifier: "BWBR0025046"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2020-01-01"
-last_updated: "2010-09-03"
+last_updated: "2011-05-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025046"
 soort: "beleidsregel"
@@ -104,9 +104,9 @@ De hoogte van de dwangsom wordt bepaald met inachtneming van de volgende categor
 
 1. Na ten hoogste drie geringe overtredingen geeft de minister de vervoerder een schriftelijke waarschuwing waarbij wordt aangekondigd dat indien binnen 3 jaar opnieuw een soortgelijke geringe overtreding wordt begaan een last onder dwangsom zal worden opgelegd.
 
-2. Indien de vervoerder na een waarschuwing als bedoeld in het eerste lid binnen drie jaar opnieuw een soortgelijke geringe overtreding begaat legt de minister de vervoerder een last onder dwangsom op als bedoeld in [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=1&artikel=4&z=2010-09-03&g=2010-09-03).
+2. Indien de vervoerder na een waarschuwing als bedoeld in het eerste lid binnen drie jaar opnieuw een soortgelijke geringe overtreding begaat legt de minister de vervoerder een last onder dwangsom op als bedoeld in [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=1&artikel=4&z=2011-05-04&g=2011-05-04).
 
-3. Indien de vervoerder binnen drie jaar nadat de laatste dwangsom als bedoeld in het tweede lid is verbeurd opnieuw een soortgelijke geringe overtreding begaat legt de minister de vervoerder een last onder dwangsom op als bedoeld in [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=1&artikel=4&z=2010-09-03&g=2010-09-03).
+3. Indien de vervoerder binnen drie jaar nadat de laatste dwangsom als bedoeld in het tweede lid is verbeurd opnieuw een soortgelijke geringe overtreding begaat legt de minister de vervoerder een last onder dwangsom op als bedoeld in [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=1&artikel=4&z=2011-05-04&g=2011-05-04).
 
 4. Indien een vervoerder binnen drie jaar na het begaan van een overtreding waarvoor een dwangsom is opgelegd dan wel verbeurd overeenkomstig het tweede of derde lid een niet soortgelijke geringe overtreding begaat geeft de minister de vervoerder in afwijking van het eerste lid onmiddellijk een schriftelijke waarschuwing als bedoeld in het eerste lid.
 
@@ -114,13 +114,13 @@ De hoogte van de dwangsom wordt bepaald met inachtneming van de volgende categor
 
 1. Na constatering van een overtreding geeft de minister de vervoerder een eerste schriftelijke waarschuwing.
 
-2. Indien de vervoerder binnen drie jaar na een waarschuwing als bedoeld in het eerste lid opnieuw een overtreding begaat geeft de minister de vervoerder een tweede schriftelijke waarschuwing waarin wordt aangekondigd dat indien hij binnen drie jaar opnieuw een overtreding begaat een last onder dwangsom wordt opgelegd als bedoeld in [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=1&artikel=4&z=2010-09-03&g=2010-09-03).
+2. Indien de vervoerder binnen drie jaar na een waarschuwing als bedoeld in het eerste lid opnieuw een overtreding begaat geeft de minister de vervoerder een tweede schriftelijke waarschuwing waarin wordt aangekondigd dat indien hij binnen drie jaar opnieuw een overtreding begaat een last onder dwangsom wordt opgelegd als bedoeld in [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=1&artikel=4&z=2011-05-04&g=2011-05-04).
 
-3. Indien de vervoerder binnen drie jaar na een waarschuwing als bedoeld in het tweede lid een overtreding begaat legt de minister een last onder dwangsom op als bedoeld in [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=1&artikel=4&z=2010-09-03&g=2010-09-03).
+3. Indien de vervoerder binnen drie jaar na een waarschuwing als bedoeld in het tweede lid een overtreding begaat legt de minister een last onder dwangsom op als bedoeld in [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=1&artikel=4&z=2011-05-04&g=2011-05-04).
 
-4. Indien de vervoerder binnen drie jaar nadat de laatste dwangsom bedoeld in het derde lid is verbeurd een soortgelijke overtreding begaat legt de minister een last onder dwangsom op als bedoeld in [artikel 4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=1&artikel=4&z=2010-09-03&g=2010-09-03).
+4. Indien de vervoerder binnen drie jaar nadat de laatste dwangsom bedoeld in het derde lid is verbeurd een soortgelijke overtreding begaat legt de minister een last onder dwangsom op als bedoeld in [artikel 4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=1&artikel=4&z=2011-05-04&g=2011-05-04).
 
-5. Indien de vervoerder binnen drie jaar nadat de last onder last onder dwangsom bedoeld in het vierde lid is verbeurd een soortgelijke overtreding begaat schorst de minister de vergunning en kan hij een last onder dwangsom opleggen als bedoeld in [artikel 4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=1&artikel=4&z=2010-09-03&g=2010-09-03).
+5. Indien de vervoerder binnen drie jaar nadat de last onder last onder dwangsom bedoeld in het vierde lid is verbeurd een soortgelijke overtreding begaat schorst de minister de vergunning en kan hij een last onder dwangsom opleggen als bedoeld in [artikel 4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=1&artikel=4&z=2011-05-04&g=2011-05-04).
 
 6. In plaats van het opleggen of verbeuren van een dwangsom voor een overtreding als bedoeld in het derde of vierde lid kan de minister de vergunning van de vervoerder schorsen.
 
@@ -130,7 +130,7 @@ De hoogte van de dwangsom wordt bepaald met inachtneming van de volgende categor
 
 - a. de vergunning schorsen;
 
-- b. een last onder dwangsom opleggen als bedoeld in [artikel 4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=1&artikel=4&z=2010-09-03&g=2010-09-03), met een maximum bedrag waarboven geen dwangsom meer wordt verbeurd van 20.000 euro voor vervoerders welke over een vergunning beschikken, of
+- b. een last onder dwangsom opleggen als bedoeld in [artikel 4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=1&artikel=4&z=2011-05-04&g=2011-05-04), met een maximum bedrag waarboven geen dwangsom meer wordt verbeurd van 20.000 euro voor vervoerders welke over een vergunning beschikken, of
 
 - c. een bestuurlijke boete opleggen.
 
@@ -158,27 +158,27 @@ De hoogte van de dwangsom wordt bepaald met inachtneming van de volgende categor
 
 ##### Artikel 10. (verzamelcentra)
 
-1. Indien op een verzamelcentrum een geringe overtreding wordt begaan geeft de minister de exploitant van het verzamelcentrum schriftelijke waarschuwingen en legt hij de exploitant van het verzamelcentrum een last onder dwangsom op overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=2&artikel=5&z=2010-09-03&g=2010-09-03).
+1. Indien op een verzamelcentrum een geringe overtreding wordt begaan geeft de minister de exploitant van het verzamelcentrum schriftelijke waarschuwingen en legt hij de exploitant van het verzamelcentrum een last onder dwangsom op overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=2&artikel=5&z=2011-05-04&g=2011-05-04).
 
-2. Indien op een verzamelcentrum een overtreding wordt begaan waarschuwt de minister de exploitant van het verzamelcentrum en legt hij de exploitant van het verzamelcentrum een last onder dwangsom op overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=2&artikel=6&z=2010-09-03&g=2010-09-03).
+2. Indien op een verzamelcentrum een overtreding wordt begaan waarschuwt de minister de exploitant van het verzamelcentrum en legt hij de exploitant van het verzamelcentrum een last onder dwangsom op overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=2&artikel=6&z=2011-05-04&g=2011-05-04).
 
-3. Indien op het verzamelcentrum een ernstige overtreding wordt begaan legt de minister aan de exploitant van het verzamelcentrum een last onder dwangsom op als bedoeld in [artikel 4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=1&artikel=4&z=2010-09-03&g=2010-09-03).
+3. Indien op het verzamelcentrum een ernstige overtreding wordt begaan legt de minister aan de exploitant van het verzamelcentrum een last onder dwangsom op als bedoeld in [artikel 4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=1&artikel=4&z=2011-05-04&g=2011-05-04).
 
 ##### Artikel 11. (houders)
 
-1. Indien de houder een geringe overtreding begaat geeft de minister de houder schriftelijke waarschuwingen en legt de minister de houder een last onder dwangsom op overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=2&artikel=5&z=2010-09-03&g=2010-09-03).
+1. Indien de houder een geringe overtreding begaat geeft de minister de houder schriftelijke waarschuwingen en legt de minister de houder een last onder dwangsom op overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=2&artikel=5&z=2011-05-04&g=2011-05-04).
 
-2. Indien de houder een overtreding begaat waarschuwt de minister de houder en legt de minister de houder een last onder dwangsom op overeenkomstig de bepalingen van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=2&artikel=6&z=2010-09-03&g=2010-09-03).
+2. Indien de houder een overtreding begaat waarschuwt de minister de houder en legt de minister de houder een last onder dwangsom op overeenkomstig de bepalingen van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=2&artikel=6&z=2011-05-04&g=2011-05-04).
 
-3. Indien de houder een ernstige overtreding begaat legt de minister de houder een last onder dwangsom op als bedoeld in [artikel 4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=1&artikel=4&z=2010-09-03&g=2010-09-03).
+3. Indien de houder een ernstige overtreding begaat legt de minister de houder een last onder dwangsom op als bedoeld in [artikel 4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=1&artikel=4&z=2011-05-04&g=2011-05-04).
 
 ##### Artikel 12. (organisatoren)
 
-1. Indien een organisator een geringe overtreding begaat geeft de minister de organisator schriftelijke waarschuwingen en legt de minister de organisator een last onder dwangsom op overeenkomstig de bepalingen van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=2&artikel=5&z=2010-09-03&g=2010-09-03).
+1. Indien een organisator een geringe overtreding begaat geeft de minister de organisator schriftelijke waarschuwingen en legt de minister de organisator een last onder dwangsom op overeenkomstig de bepalingen van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=2&artikel=5&z=2011-05-04&g=2011-05-04).
 
-2. Indien een organisator een overtreding begaat geeft de minister de organisator schriftelijke waarschuwingen en legt de minister de organisator een last onder dwangsom op overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=2&artikel=6&z=2010-09-03&g=2010-09-03).
+2. Indien een organisator een overtreding begaat geeft de minister de organisator schriftelijke waarschuwingen en legt de minister de organisator een last onder dwangsom op overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=2&artikel=6&z=2011-05-04&g=2011-05-04).
 
-3. Indien de organisator een ernstige overtreding begaat legt de minister de organisator een last onder dwangsom op als bedoeld in [artikel 4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=1&artikel=4&z=2010-09-03&g=2010-09-03).
+3. Indien de organisator een ernstige overtreding begaat legt de minister de organisator een last onder dwangsom op als bedoeld in [artikel 4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=1&artikel=4&z=2011-05-04&g=2011-05-04).
 
 #### Paragraaf 4. Procedurele bepalingen
 
@@ -192,7 +192,7 @@ Een schorsing wordt opgeheven indien de vervoerder een ten genoegen van de minis
 
 ##### Artikel 15. (inhoud protocol)
 
-1. Een protocol, als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=4&artikel=14&z=2010-09-03&g=2010-09-03), bevat in ieder geval een beschrijving van:
+1. Een protocol, als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=4&artikel=14&z=2011-05-04&g=2011-05-04), bevat in ieder geval een beschrijving van:
 
 - a. de aard en de omstandigheden van de overtredingen;
 
@@ -274,13 +274,17 @@ Deze beleidsregels zullen met toelichting in de Staatscourant worden geplaatst.
 
 1. Als voldoende stahoogte als bedoeld in artikel 3, onderdeel g, van de transportverordening wordt beschouwd:
 
-- a. Voor runderen: ten minste 20 centimeter ruimte boven de kruin van het grootste dier;
+- a. Voor runderen, behoudens voor slachtrunderen ouder dan één jaar: ten minste 20 centimeter ruimte boven de kruin van het grootste dier;
 
-- b. Voor schapen en geiten: ten minste 20 centimeter ruimte boven de kruin van het grootste dier;
+- b. Voor slachtrunderen ouder dan één jaar: ten minste 25 centimeter boven de schofthoogte van het hoogste dier;
 
-- c. Voor varkens: ten minste 30 centimeter ruimte boven het hoogste punt van het grootste dier.
+- c. Voor schapen en geiten: ten minste 20 centimeter ruimte boven de kruin van het grootste dier;
+
+- d. Voor varkens: ten minste 30 centimeter ruimte boven het hoogste punt van het grootste dier.
 
 2. Indien het vervoermiddels is voorzien van een geforceerd ventilatiesysteem wordt in afwijking van het eerste lid, onderdeel c, 15 centimeter ruimte boven het hoogste punt van het grootste dier als voldoende stahoogte beschouwd.
+
+3. Voor de toepassing van deze beleidsregels wordt als maximum toegestane hoogte van bedrijfsauto’s de hoogte gehanteerd die bepaald is bij [artikel 5.3.6 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.3.6).
 
 ### Hoofdstuk III. Varkens
 
@@ -290,7 +294,7 @@ Deze beleidsregels zullen met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 4a. (verhouding met bestuurlijke boete)
 
-Indien voor een gedraging een bestuurlijke boete kan worden opgelegd, kan voor diezelfde gedraging worden afgeweken van het bepaalde in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=2&artikel=5&z=2010-09-03&g=2010-09-03), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=2&artikel=6&z=2010-09-03&g=2010-09-03), [7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=2&artikel=7&z=2010-09-03&g=2010-09-03), en [8 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=3&artikel=8&z=2010-09-03&g=2010-09-03).
+Indien voor een gedraging een bestuurlijke boete kan worden opgelegd, kan voor diezelfde gedraging worden afgeweken van het bepaalde in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=2&artikel=5&z=2011-05-04&g=2011-05-04), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=2&artikel=6&z=2011-05-04&g=2011-05-04), [7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=2&artikel=7&z=2011-05-04&g=2011-05-04), en [8 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0025046&hoofdstuk=II&paragraaf=3&artikel=8&z=2011-05-04&g=2011-05-04).
 
 #### Paragraaf 2. Vervoerders
 
