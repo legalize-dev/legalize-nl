@@ -4,7 +4,7 @@ identifier: "BWBR0029961"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2011-03-02"
+last_updated: "2011-05-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029961"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In de regeling wordt verstaan onder:
 
 - d. **Brvvp:** [Besluit reis-, verblijf-, en verhuiskosten politie](https://wetten.overheid.nl/jci1.3:c:BWBR0024064);
 
-- e. **bezwaaradviescommissie:** bezwaaradviescommissie als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=12&z=2011-05-14&g=2011-03-02), dan wel een bovenregionaal ingestelde bezwaaradviescommissie;
+- e. **bezwaaradviescommissie:** bezwaaradviescommissie als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=12&z=2011-05-14&g=2011-05-14), dan wel een bovenregionaal ingestelde bezwaaradviescommissie;
 
 - f. **functie:** functie waarin de ambtenaar direct voorafgaandaan de ingangsdatum van de reorganisatie is aangesteld;
 
@@ -60,7 +60,7 @@ In de regeling wordt verstaan onder:
 
 - h. **minister:** minister van Veiligheid en Justitie;
 
-- i. **pac:** plaatsingsadviescommissie als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=5&z=2011-05-14&g=2011-03-02) van deze regeling;
+- i. **pac:** plaatsingsadviescommissie als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=5&z=2011-05-14&g=2011-05-14) van deze regeling;
 
 - j. **passende functie:** een functie als bedoeld in [artikel 55o, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55o);
 
@@ -70,7 +70,7 @@ In de regeling wordt verstaan onder:
 
 - m. **reorganisatie:** reorganisatie als bedoeld in [artikel 55i, tweede en derde lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55i);
 
-- n. **reorganisatieplan:** een door een bevoegd gezag vastgesteld plan als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=4&z=2011-05-14&g=2011-03-02) van deze regeling;
+- n. **reorganisatieplan:** een door een bevoegd gezag vastgesteld plan als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=4&z=2011-05-14&g=2011-05-14) van deze regeling;
 
 - o. **sleutelfunctie:** een functie als bedoeld in [artikel 55jb, eerste lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55jb).
 
@@ -124,7 +124,7 @@ Het bevoegd gezag stelt een reorganisatieplan op, waarin in ieder geval wordt in
 
 3. Bij een voorgenomen reorganisatie die voor meer dan 20 ambtenaren wijziging van de rechtspositie tot gevolg heeft kan in bijzondere gevallen met instemming van de in [artikel 2 van het Besluit overleg en medezeggenschap politie 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&artikel=2) bedoelde Commissie voor georganiseerd overleg in politieambtenarenzaken, de minister besluiten dat het bevoegd gezag ontheven wordt van de verplichting tot het instellen van een pac.
 
-4. Bij ontheffing van de verplichting tot het instellen van een pac worden de taken van de pac, als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=7&z=2011-05-14&g=2011-03-02) van deze regeling,uitgevoerd door het bevoegd gezag.
+4. Bij ontheffing van de verplichting tot het instellen van een pac worden de taken van de pac, als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=7&z=2011-05-14&g=2011-05-14) van deze regeling,uitgevoerd door het bevoegd gezag.
 
 ##### Artikel 6. Leden pac
 
@@ -156,9 +156,9 @@ Het bevoegd gezag stelt een reorganisatieplan op, waarin in ieder geval wordt in
 
 - d. het schriftelijk vastleggen van het gesprek zoals bedoeld in de onderdelen b en c en het toezenden van een afschrift aan de ambtenaar:
 
-- e. het opstellen van een concept-personeelsplaatsingsplan als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=8&z=2011-05-14&g=2011-03-02), van deze regeling zo spoedig mogelijk na ontvangst van de opdracht daartoe van het bevoegd gezag;
+- e. het opstellen van een concept-personeelsplaatsingsplan als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=8&z=2011-05-14&g=2011-05-14), van deze regeling zo spoedig mogelijk na ontvangst van de opdracht daartoe van het bevoegd gezag;
 
-- f. het adviseren van het bevoegd gezag over de zienswijze van ambtenaren tegen een door het bevoegd gezag voorgenomen besluit tot plaatsing respectievelijk tot aanwijzing als herplaatsingskandidaat, als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=10&z=2011-05-14&g=2011-03-02), van deze regeling;
+- f. het adviseren van het bevoegd gezag over de zienswijze van ambtenaren tegen een door het bevoegd gezag voorgenomen besluit tot plaatsing respectievelijk tot aanwijzing als herplaatsingskandidaat, als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=10&z=2011-05-14&g=2011-05-14), van deze regeling;
 
 - g. het adviseren van het bevoegd gezag over de wijziging van het personeelsplaatsingsplan, indien de adviezen over de zienswijzen van de ambtenaren daartoe aanleiding geven.
 
@@ -166,7 +166,7 @@ Het bevoegd gezag stelt een reorganisatieplan op, waarin in ieder geval wordt in
 
 3. Het bevoegd gezag stelt de pac slechts die gegevens van de ambtenaar ter beschikking die van belang zijn voor een goede uitvoering van de taken van de pac en indien de betrokken ambtenaar daartoe het bevoegd gezag toestemming geeft.
 
-4. De pac brengt binnen zeven weken, nadat de voorgenomen besluiten, zoals bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=10&z=2011-05-14&g=2011-03-02) van deze regeling, zijn uitgereikt of verzonden, schriftelijk advies uit aan het bevoegd gezag over de zienswijzen.
+4. De pac brengt binnen zeven weken, nadat de voorgenomen besluiten, zoals bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=10&z=2011-05-14&g=2011-05-14) van deze regeling, zijn uitgereikt of verzonden, schriftelijk advies uit aan het bevoegd gezag over de zienswijzen.
 
 ##### Artikel 8. Concept-personeelsplaatsingsplan
 
@@ -214,11 +214,11 @@ Het bevoegd gezag stelt een reorganisatieplan op, waarin in ieder geval wordt in
 
 6. Als het concept-personeelsplaatsingsplan is vastgesteld op advies van een pac wordt de ambtenaar gehoord door de pac.
 
-7. Het bevoegd gezag stelt de ambtenaar schriftelijk en gemotiveerd in kennis van de uitkomst van de heroverweging op basis van de ingebrachte zienswijze door middel van een vervangend voorgenomen besluit of door opname van de uitkomst in het besluit tot plaatsing of tot aanwijzing als herplaatsingskandidaat als bedoeld [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=11&z=2011-05-14&g=2011-03-02), van deze regeling.
+7. Het bevoegd gezag stelt de ambtenaar schriftelijk en gemotiveerd in kennis van de uitkomst van de heroverweging op basis van de ingebrachte zienswijze door middel van een vervangend voorgenomen besluit of door opname van de uitkomst in het besluit tot plaatsing of tot aanwijzing als herplaatsingskandidaat als bedoeld [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=11&z=2011-05-14&g=2011-05-14), van deze regeling.
 
 ##### Artikel 11. Personeelsplaatsingsplan
 
-1. Het bevoegd gezag stelt het personeelsplaatsingsplan vast binnen vier weken, nadat de pac advies heeft uitgebracht over wijziging van het personeelsplaatsingsplan als bedoeld in [artikel 7, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=7&z=2011-05-14&g=2011-03-02), van deze regeling. Voordat het personeelsplaatsingsplan definitief wordt vastgesteld heeft het bevoegd gezag alle kenbaar gemaakte zienswijzen beoordeeld.
+1. Het bevoegd gezag stelt het personeelsplaatsingsplan vast binnen vier weken, nadat de pac advies heeft uitgebracht over wijziging van het personeelsplaatsingsplan als bedoeld in [artikel 7, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=7&z=2011-05-14&g=2011-05-14), van deze regeling. Voordat het personeelsplaatsingsplan definitief wordt vastgesteld heeft het bevoegd gezag alle kenbaar gemaakte zienswijzen beoordeeld.
 
 2. Na vaststelling van het personeelsplaatsingsplan, bedoeld in het eerste lid, stelt het bevoegd gezag de betrokken ambtenaren onverwijld in kennis van de daarop gebaseerde besluiten tot plaatsing dan wel tot aanwijzing als herplaatsingskandidaat.
 
