@@ -4,7 +4,7 @@ identifier: "BWBR0019074"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-03"
-last_updated: "2005-12-01"
+last_updated: "2011-05-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019074"
 soort: "ministeriele-regeling"
@@ -61,5 +61,15 @@ Deze regeling treedt in werking op 1 december 2005.
 ##### Artikel 5
 
 Deze regeling wordt aangehaald als: Warenwetregeling algemene productveiligheid.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3a
+
+De Voedsel en Waren Autoriteit wordt aangewezen:
+
+- a. als bevoegde autoriteit als bedoeld in de artikelen 4, 6 en 7 van verordening (EG) nr. 764/2008 van het Europees Parlement en de Raad van 9 juli 2008 tot vaststelling van procedures voor de toepassing van bepaalde nationale technische voorschriften op goederen die in een andere lidstaat rechtmatig in de handel zijn gebracht, en tot intrekking van Beschikking nr. 3052/95/EG (PbEU L 218);
+
+- b. als markttoezichtautoriteit en als autoriteit belast met de controle aan de buitengrenzen als bedoeld in Hoofdstuk III van verordening (EG) nr. 765/2008 van het Europees Parlement en de Raad van 9 juli 2008 tot vaststelling van de eisen inzake accreditatie en markttoezicht betreffende het verhandelen van producten en tot intrekking van Verordening (EEG) nr. 339/93 (PbEU L 218).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
