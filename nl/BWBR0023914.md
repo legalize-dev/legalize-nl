@@ -4,7 +4,7 @@ identifier: "BWBR0023914"
 country: "nl"
 rank: "zbo"
 publication_date: "2012-08-25"
-last_updated: "2009-02-20"
+last_updated: "2011-05-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023914"
 soort: "zbo"
@@ -75,7 +75,11 @@ In geval van een herindicatie bedoeld in artikel 11 lid 3 van de Wet Sociale Wer
 
 ##### Artikel 3. Geldigheidsduur (her)indicatie
 
-UWV stelt een geldigheidsduur op maat vast, afhankelijk van te verwachten veranderingen van de beperkingen van de aanvrager in de toekomst. Deze termijn is mede gebaseerd op (eerder) relevant onderzoek van arts, psycholoog en/of arbeidsdeskundige.
+1. UWV stelt een geldigheidsduur op maat vast, afhankelijk van de te verwachten veranderingen van de beperkingen van de aanvrager in de toekomst. De te verwachten veranderingen zijn mede gebaseerd op (eerder) relevant onderzoek van arts, psycholoog of arbeidsdeskundige.
+
+2. In afwijking van het eerste lid geldt een geldigheidsduur van twee jaar voor indicatiestellingen die op basis van een in de periode 15 mei 2011 tot en met 31 december 2011 door UWV ontvangen aanvraag voor het eerst worden afgegeven.
+
+3. In afwijking van het eerste lid geldt een geldigheidsduur van één jaar voor indicatiestellingen die op basis van een in de periode 1 januari 2012 tot en met 31 december 2012 door UWV ontvangen aanvraag voor het eerst worden afgegeven.
 
 ##### Artikel 4. Inwerkingtreding en citeertitel
 
