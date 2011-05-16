@@ -4,7 +4,7 @@ identifier: "BWBR0030081"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2011-05-16"
-last_updated: "2011-01-01"
+last_updated: "2011-05-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030081"
 soort: "ministeriele-regeling-BES"
@@ -72,25 +72,25 @@ Deze regeling is alleen van toepassing op de ambtenaar die is aangesteld in dien
 
 ##### Artikel 4
 
-1. De ambtenaar die op grond van [artikel 3, eerste lid, onder b, of tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0030081&artikel=3&z=2011-05-16&g=2011-01-01), een eenmalige toelage heeft ontvangen, is verplicht een periode van ten minste twaalf maanden aansluitend op de eerste periode van drie jaren dienstverband in dienst van de staat en werkzaam op Bonaire, Sint Eustatius of Saba te blijven.
+1. De ambtenaar die op grond van [artikel 3, eerste lid, onder b, of tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0030081&artikel=3&z=2011-05-16&g=2011-05-16), een eenmalige toelage heeft ontvangen, is verplicht een periode van ten minste twaalf maanden aansluitend op de eerste periode van drie jaren dienstverband in dienst van de staat en werkzaam op Bonaire, Sint Eustatius of Saba te blijven.
 
 2. Indien betrokkene de verplichting, bedoeld in het eerste lid, niet nakomt, is hij verplicht de toelage terug te betalen.
 
 ##### Artikel 5
 
-1. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030081&artikel=2&z=2011-05-16&g=2011-01-01), is deze regeling tevens van toepassing op degene die
+1. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030081&artikel=2&z=2011-05-16&g=2011-05-16), is deze regeling tevens van toepassing op degene die
 
 - a. tussen 1 januari 2009 en 10 oktober 2010 op arbeidsovereenkomst in dienst getreden is van de Nederlandse staat om werkzaam te zijn op Bonaire, Sint Eustatius of Saba en aansluitend met ingang van 10 oktober 2010 als ambtenaar in de zin van de [Wet materieel ambtenarenrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215) is aangesteld in dienst van de staat;
 
-- b. op het moment van zijn indiensttreding voldeed aan de voorwaarden, genoemd in [artikel 2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0030081&artikel=2&z=2011-05-16&g=2011-01-01); en
+- b. op het moment van zijn indiensttreding voldeed aan de voorwaarden, genoemd in [artikel 2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0030081&artikel=2&z=2011-05-16&g=2011-05-16); en
 
 - c. in verband met zijn indiensttreding naar Bonaire, Sint Eustatius of Saba is verhuisd.
 
-2. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030081&artikel=2&z=2011-05-16&g=2011-01-01), is deze regeling tevens van toepassing op degene die
+2. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030081&artikel=2&z=2011-05-16&g=2011-05-16), is deze regeling tevens van toepassing op degene die
 
 - a. tussen 1 januari 2009 en 10 oktober 2010 in dienst getreden is van het land de Nederlandse Antillen of van een van de eilandgebieden Bonaire, Sint Eustatius of Saba en aansluitend met ingang van 10 oktober 2010 als ambtenaar in de zin van de [Wet materieel ambtenarenrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215) is aangesteld in dienst van de staat;
 
-- b. op het moment van zijn indiensttreding voldeed aan de voorwaarden, genoemd in [artikel 2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0030081&artikel=2&z=2011-05-16&g=2011-01-01); en
+- b. op het moment van zijn indiensttreding voldeed aan de voorwaarden, genoemd in [artikel 2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0030081&artikel=2&z=2011-05-16&g=2011-05-16); en
 
 - c. in verband met zijn indiensttreding naar Bonaire, Sint Eustatius of Saba is verhuisd.
 
