@@ -4,7 +4,7 @@ identifier: "BWBR0029746"
 country: "nl"
 rank: "amvb"
 publication_date: "2014-03-01"
-last_updated: "2011-03-23"
+last_updated: "2011-05-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029746"
 soort: "AMvB"
@@ -110,7 +110,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 8
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
 ##### Artikel 9
 
