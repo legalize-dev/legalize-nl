@@ -4,7 +4,7 @@ identifier: "BWBR0024084"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2011-05-17"
-last_updated: "2008-07-01"
+last_updated: "2011-05-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024084"
 soort: "beleidsregel"
@@ -58,13 +58,13 @@ Ook aan een N.V., B.V., coöperatie en onderlinge waarborgmaatschappij, waarin a
 
 Aan een SE met een vestiging in Nederland, een SCE met een vestiging in Nederland, een E.E.S.V. met een vestiging in Nederland en een buitenlandse kapitaalvennootschap met een vestiging in Nederland behoort een onderneming toe aangezien, naar analogie van hetgeen onder de passage met betrekking tot de naamloze vennootschap is gesteld, vrijwel altijd sprake zal zijn van een voldoende zelfstandig optredende organisatorische eenheid van één of meer personen waarin door voldoende inbreng van arbeid of middelen, ten behoeve van derden diensten of goederen worden geleverd of werken tot stand worden gebracht met het oogmerk daarmee materieel voordeel te behalen.
 
-Voorafgaand aan de invoering van Titel 7.13 BW, wordt aan een VOF, CV of een openbare (en dus niet stille) maatschap die is gevestigd in Nederland geacht een onderneming toe te behoren.
+Voorafgaand aan de invoering van Titel 7.13 BW, wordt aan een VOF, CV of een openbare maatschap die is gevestigd in Nederland geacht een onderneming toe te behoren.
 
 Deze rechtsfiguren worden na invoering van Titel 7.13 BW een openbare vennootschap. Aan een openbare vennootschap behoort altijd een onderneming toe zoals ook beschreven in artikel 1 Hoofdstuk 3 van de Invoeringswet Titel 7.13 BW. De onderneming toebehorende aan een openbare vennootschap zonder rechtspersoonlijkheid is inschrijfplichtig indien deze in Nederland is gevestigd.
 
 Overige rechtsvormen waaraan een onderneming kan toebehoren zijn:
 
-Onderstaand toetsingskader dient ter beantwoording van de vraag of aan de bovengenoemde overige rechtsvormen een onderneming in de zin van de wet toebehoort of niet.
+Onderstaand toetsingskader dient ter beantwoording van de vraag of aan de bovengenoemde overige rechtsvormen een onderneming in de zin van de wet toebehoort of niet. Ook aan een stille maatschap, of na invoering van [Titel 7.13 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290) een stille vennootschap, kan een onderneming toebehoren indien de activiteiten van de maatschap in Nederland als zodanig kwalificeren. De maten, respectievelijk vennoten, maken aannemelijk dat de samenwerkingsvorm een stille maatschap betreft.
 
 1. Om na te gaan of sprake is van een onderneming worden allereerst de onder het hieronderstaande kopje ‘Toetsingscriteria’ onder A genoemde criteria gehanteerd. Deze criteria worden door de Belastingdienst gehanteerd bij het beoordelen of er sprake is van een ondernemer in de zin van de [Wet op de Omzetbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002629) (BTW). Als is voldaan aan deze criteria is doorgaans sprake van een onderneming in de zin van de wet, tenzij niet voldaan wordt aan de criteria van het eerste lid van [artikel 2 van het Handelsregisterbesluit 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&artikel=2).
 
