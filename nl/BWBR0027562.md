@@ -4,7 +4,7 @@ identifier: "BWBR0027562"
 country: "nl"
 rank: "pbo"
 publication_date: "2011-05-22"
-last_updated: "2010-03-14"
+last_updated: "2011-05-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027562"
 soort: "pbo"
@@ -91,7 +91,7 @@ Besluit:
 
 - b. de vragen, welke hem door of vanwege het productschap betreffende de administratie van en de werkzaamheden in zijn onderneming worden gesteld, prompt, volledig en naar waarheid te beantwoorden, zomede op eerste vordering de door of vanwege het productschap verlangde boeken, papieren en/of andere bescheiden tegen ontvangstbewijs in te leveren of in te zenden.
 
-- c. indien hij mondeling of schriftelijk – al dan niet op door of vanwege het productschap of enige andere instantie of instelling verstrekte formulieren of soortgelijke bescheiden – gegevens, inlichtingen, opgaven of andere mededelingen, waaruit voor hemzelf of voor een ander enig recht of enig voordeel ontstaat of voortvloeit, dan wel zou kunnen ontstaan of voortvloeien, aan het productschap of aan enig(e) door of vanwege het productschap aangewezen instantie, instelling of persoon verstrekt, zulks prompt, volledig en naar waarheid te doen.
+- c. indien hij mondeling of schriftelijk - al dan niet op door of vanwege het productschap of enige andere instantie of instelling verstrekte formulieren of soortgelijke bescheiden - gegevens, inlichtingen, opgaven of andere mededelingen aan het productschap of aan enig(e) door of vanwege het productschap aangewezen instantie, instelling of persoon dient te verstrekken, zulks prompt, volledig en naar waarheid te doen.
 
 - d. de schriftelijke kennisgevingen, hem door of vanwege het productschap toegezonden, blijkens welke hem enig recht of enige bevoegdheid wordt toegekend, ter plaatse waar het bedrijf wordt uitgeoefend te bewaren.
 
@@ -126,15 +126,15 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 3:2
 
-1. Een ondernemer retourneert het toegezonden aangifteformulier aan het productschap binnen 30 dagen na ontvangst ervan dan wel binnen de uiterste termijn van retourzending, naar waarheid ingevuld en ondertekend.
+1. Een ondernemer retourneert het toegezonden aangifteformulier aan het productschap binnen 30 dagen na ontvangst ervan dan wel binnen de uiterste termijn van retourzending naar waarheid ingevuld en ondertekend.
 
-2. Indien de gegevens als bedoeld in het eerste lid, niet, tijdig of niet volledig zijn verstrekt, dan wordt op de volgende wijze een ambtshalve schatting gemaakt: de gegevens van het daaraan voorafgaande jaar worden als uitgangspunt genomen, verhoogd of verlaagd met het trendmatig percentage geldig voor de desbetreffende sector. Bij het ontbreken van gegevens van het voorafgaande jaar worden andere beschikbare gegevens zoals arealen, veilinggegevens, gegevens van de Kamer van Koophandel, internet, etc. gebruikt om toch tot een reële schatting met bijbehorend trendmatig percentage te komen.
+2. Indien de gegevens als bedoeld in het eerste lid, niet, niet tijdig of niet volledig zijn verstrekt, dan:
 
-3. Indien geen ambtshalve schatting kan worden gemaakt, zal een afgewogen gemiddelde schatting in de desbetreffende sector worden gehanteerd en wordt de heffing verhoogd met € 40 administratiekosten.
+- a. worden voor het bepalen van de hoogte van de heffing, de gegevens van het daaraan voorafgaande jaar als uitgangspunt genomen, verhoogd of verlaagd met het trendmatig percentage geldig voor de desbetreffende sector. Bij het ontbreken van gegevens van het voorafgaande jaar worden andere beschikbare gegevens zoals arealen, veilinggegevens, gegevens van de Kamer van Koophandel, internet, etc. gebruikt om toch tot een reële schatting met bijbehorend trendmatig percentage te komen.
 
-4. Op basis van een schatting als bedoeld in de leden 2 of 3 wordt de ondernemer een ambtshalve heffing opgelegd.
+- b. wordt de heffing verhoogd met € 40 acrninistratiekosten.
 
-5. Wordt de ambtshalve heffing ingevolge het derde lid, met medewerking van de ondernemer, alsnog omgezet in een heffing op basis van een normale aangifte, dan blijft de € 40 aan administratiekosten verschuldigd.
+3. Wordt de ambtshalve schatting, met medewerking van de ondernemer, alsnog omgezet in een normale aangifte, dan blijft de € 40 aan administratiekosten verschuldigd.
 
 ##### Artikel 3:3
 
@@ -142,7 +142,7 @@ In deze paragraaf wordt verstaan onder:
 
 2. Deze boekencontrole wordt uitgevoerd door een functionaris van het productschap, die in het bezit is van een schriftelijke machtiging van de voorzitter.
 
-3. Indien bij de boekencontrole blijkt dat een onjuiste opgave is gedaan, en er een navordering of ambtshalve schatting plaatsvindt, kan de opgestelde nota worden verhoogd met een percentage al naar gelang het geval van maximaal 10.
+3. Indien bij de boekencontrole blijkt dat een onjuiste opgave is gedaan en er een navordering of ambtshalve schatting plaatsvindt, wordt rente in rekening gebracht. De rente wordt berekend over de periode vanaf de eerste dag van het kalenderjaar, volgend op de datum van de oorspronkelijke heffingsnota tot en met de laatste dag van de maand voorafgaand aan de maand waarin de boekencontrole plaatsvindt.
 
 4. De termijn waarover de boekencontrole zich uitstrekt is maximaal zeven jaar, waarbij niet meer dan de vijf meest recente aangiftejaren worden gecontroleerd.
 
@@ -164,7 +164,7 @@ In afwijking van het bepaalde in de voorgaande artikelen van deze paragraaf kan 
 
 ##### Artikel 3:6
 
-Aan de ondernemer, die niet of niet geheel binnen de in [artikel 3:4](https://wetten.overheid.nl/jci1.3:c:BWBR0027562&paragraaf=3&artikel=3:4&z=2010-03-14&g=2010-03-14) bedoelde termijn heeft betaald, worden de daaruit voortvloeiende extra kosten in rekening gebracht, alsmede de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling dient te zijn verricht.
+Aan de ondernemer, die niet of niet geheel binnen de in [artikel 3:4](https://wetten.overheid.nl/jci1.3:c:BWBR0027562&paragraaf=3&artikel=3:4&z=2011-05-22&g=2011-05-22) bedoelde termijn heeft betaald, worden de daaruit voortvloeiende extra kosten in rekening gebracht, alsmede de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling dient te zijn verricht.
 
 ##### Artikel 3:7
 
@@ -200,7 +200,7 @@ Het productschap zal toezicht uitoefenen op degene aan wie een subsidie dan wel 
 
 ##### Artikel 6:2
 
-1. Op overtreding van het bepaalde bij of krachtens [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027562&paragraaf=2&z=2010-03-14&g=2010-03-14) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0027562&paragraaf=3&z=2010-03-14&g=2010-03-14) worden tuchtrechtelijke maatregelen gesteld.
+1. Op overtreding van het bepaalde bij of krachtens [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027562&paragraaf=2&z=2011-05-22&g=2011-05-22) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0027562&paragraaf=3&z=2011-05-22&g=2011-05-22) worden tuchtrechtelijke maatregelen gesteld.
 
 2. Het bevoegde tuchtgerecht is het Tuchtgerecht Akkerbouw Productschappen.
 
