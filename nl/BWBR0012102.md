@@ -4,7 +4,7 @@ identifier: "BWBR0012102"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-09-14"
-last_updated: "2006-01-01"
+last_updated: "2011-05-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012102"
 soort: "ministeriele-regeling"
@@ -40,21 +40,27 @@ Besluit:
 
 ##### Artikel 1
 
-1. Het bevoegd gezag wijst functies van ambtenaren, aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie, aan als een functie waaraan opbouw voor het specifiek deel van het AFUP-opbouwreglement is verbonden, indien deze voldoen aan de volgende voorwaarden:
+1. Als functies, als bedoeld in [artikel 10, derde lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=10), worden door het bevoegd gezag aangewezen de functies die voldoen aan de volgende voorwaarden:
 
-- a. de salarisschaal waarin de ambtenaar is ingedeeld is niet hoger dan schaal 11 van [bijlage I van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=I);
+- a. de functie is niet hoger gewaardeerd dan schaal 11 van [bijlage I van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=I);
 
-- b. de aard van de aan de functie verbonden werkzaamheden is vergelijkbaar met die van een ambtenaar, aangesteld voor de uitvoering van de politietaak;
+- b. er is sprake van een functie waaraan risico's en ongemakken zijn verbonden, waarbij sprake is van twee of meer van de volgende omstandigheden:
 
-- c. er is sprake van een functie waaraan risico's en ongemakken zijn verbonden vergelijkbaar met die aan een functie van een ambtenaar, aangesteld voor de uitvoering van de politietaak en
+- –. voor het vervullen van de functie is fysieke inspanning en behendigheid vereist;
 
-- d. de ambtenaren in de functie werken volgens een dienstrooster dat in overwegende mate overeenkomt met de dienstroosters van ambtenaren, aangesteld voor de uitvoering van de politietaak.
+- –. er is kans op psychisch letsel uit eerstehandservaring door confrontatie met menselijk leed of schokkende gebeurtenissen door fysieke aanwezigheid bij, of horen of zien van die gebeurtenissen;
+
+- –. er is kans op het oplopen van letsel bij conflicten, bij aanhoudingen of in het verkeer;
+
+- –. er is sprake van psychische druk door het in luttele seconden moeten nemen van beslissingen in onoverzichtelijke of complexe situaties.
+
+- c. de ambtenaren in de functie werken volgens een in overwegende mate volcontinue dienstrooster of een dienstrooster met elke 16 weken ten minste 16 maal een consignatiedienst tussen 0.00 uur–06.00 uur.
 
 2. In bijzondere situaties kan het bevoegd gezag ervan afzien de in het eerste lid genoemde functies aan te wijzen.
 
 ##### Artikel 2
 
-Indien het bevoegd gezag een functie aanwijst conform het [eerste artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0012102&artikel=1&z=2001-01-01&g=2006-01-01), wordt dit binnen het regionale politiekorps kenbaar gemaakt.
+Indien het bevoegd gezag een functie aanwijst conform het [eerste artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0012102&artikel=1&z=2011-05-24&g=2011-05-24), wordt dit binnen het regionale politiekorps kenbaar gemaakt.
 
 ##### Artikel 3
 
