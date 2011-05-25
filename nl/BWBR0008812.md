@@ -4,7 +4,7 @@ identifier: "BWBR0008812"
 country: "nl"
 rank: "amvb"
 publication_date: "2011-05-25"
-last_updated: "1997-07-30"
+last_updated: "2011-05-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008812"
 soort: "AMvB"
@@ -58,29 +58,29 @@ In dit besluit wordt onder bevoegde autoriteit verstaan: degene aan wie op de de
 
 ##### Artikel 3
 
-[Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008812&artikel=2&z=1997-07-30&g=1997-07-30) is van overeenkomstige toepassing op degene die een schip voert dat zich niet krachtens [artikel 4, eerste of derde lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=4) moet melden, als door de bevoegde autoriteit aan degene die het schip voert om de verstrekking van statistische gegevens wordt verzocht.
+[Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008812&artikel=2&z=2011-05-25&g=2011-05-25) is van overeenkomstige toepassing op degene die een schip voert dat zich niet krachtens [artikel 4, eerste of derde lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=4) moet melden, als door de bevoegde autoriteit aan degene die het schip voert om de verstrekking van statistische gegevens wordt verzocht.
 
 ##### Artikel 4
 
-1. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008812&artikel=2&z=1997-07-30&g=1997-07-30) en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008812&artikel=3&z=1997-07-30&g=1997-07-30) bedoelde gegevens die worden verstrekt ten behoeve van statistische doeleinden, worden gemeld bij de bevoegde autoriteit.
+1. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008812&artikel=2&z=2011-05-25&g=2011-05-25) en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008812&artikel=3&z=2011-05-25&g=2011-05-25) bedoelde gegevens die worden verstrekt ten behoeve van statistische doeleinden, worden gemeld bij de bevoegde autoriteit.
 
-2. De in het eerste lid bedoelde autoriteit bewerkt de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008812&artikel=2&z=1997-07-30&g=1997-07-30), en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008812&artikel=3&z=1997-07-30&g=1997-07-30) bedoelde gegevens zodanig dat deze niet meer herleidbaar zijn tot een persoon of bedrijf.
+2. De in het eerste lid bedoelde autoriteit bewerkt de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008812&artikel=2&z=2011-05-25&g=2011-05-25), en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008812&artikel=3&z=2011-05-25&g=2011-05-25) bedoelde gegevens zodanig dat deze niet meer herleidbaar zijn tot een persoon of bedrijf.
 
-3. Aan het in het tweede lid gestelde behoeft niet te worden voldaan, indien de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008812&artikel=2&z=1997-07-30&g=1997-07-30), en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008812&artikel=3&z=1997-07-30&g=1997-07-30) bedoelde gegevens worden verstrekt aan het Centraal bureau voor de statistiek.
+3. Aan het in het tweede lid gestelde behoeft niet te worden voldaan, indien de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008812&artikel=2&z=2011-05-25&g=2011-05-25), en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008812&artikel=3&z=2011-05-25&g=2011-05-25) bedoelde gegevens worden verstrekt aan het Centraal bureau voor de statistiek.
 
 ##### Artikel 5
 
-1. Degene die een zeeschip voert als bedoeld in artikel 2, tweede lid, van [richtlijn nr. 95/64/EG](31995L0064) van de Raad van de Europese Unie van 8 december 1995 betreffende de statistiek van het zeevervoer van goederen en personen (**PbEG** L 320), draagt er zorg voor dat de gegevens bedoeld in artikel 3 van die richtlijn, die volgens opgave van het Centraal bureau voor de statistiek dienen te worden gemeld, aan het Centraal bureau voor de statistiek worden verstrekt.
+1. Degene die een zeeschip voert als bedoeld in artikel 2, tweede lid, van richtlijn nr. 2009/42/EG van het Europees Parlement en de Raad van 6 mei 2009 betreffende de statistiek van het zeevervoer van goederen en personen, draagt er zorg voor dat de gegevens bedoeld in artikel 3 van die richtlijn, die volgens opgave van het Centraal bureau voor de statistiek dienen te worden gemeld, aan het Centraal bureau voor de statistiek worden verstrekt.
 
 2. De verstrekking van statistische gegevens als bedoeld in het eerste lid, geschiedt in schriftelijke vorm of op een andere door het Centraal bureau voor de statistiek toegelaten wijze, binnen een door dat Centraal bureau aan te geven termijn.
 
 ##### Artikel 6
 
-Een wijziging van de richtlijn genoemd in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008812&artikel=5&z=1997-07-30&g=1997-07-30), gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
+Een wijziging van de richtlijn genoemd in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008812&artikel=5&z=2011-05-25&g=2011-05-25), gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
 ##### Artikel 7
 
-Overtreding van de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008812&artikel=2&z=1997-07-30&g=1997-07-30), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008812&artikel=3&z=1997-07-30&g=1997-07-30) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008812&artikel=5&z=1997-07-30&g=1997-07-30), is een strafbaar feit.
+Overtreding van de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008812&artikel=2&z=2011-05-25&g=2011-05-25), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008812&artikel=3&z=2011-05-25&g=2011-05-25) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008812&artikel=5&z=2011-05-25&g=2011-05-25), is een strafbaar feit.
 
 ##### Artikel 8
 
