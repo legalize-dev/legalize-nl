@@ -4,7 +4,7 @@ identifier: "BWBR0004644"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-01"
-last_updated: "2005-04-06"
+last_updated: "2011-05-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004644"
 soort: "AMvB"
@@ -52,11 +52,11 @@ Hebben goedgevonden en verstaan:
 
 - 1°. in volle zee;
 
-- 2°. in de Nederlandse territoriale zee waaronder begrepen de wateren zeewaarts van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004644&artikel=4&z=2005-04-06&g=2005-04-06) vastgestelde lijn;
+- 2°. in de Nederlandse territoriale zee waaronder begrepen de wateren zeewaarts van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004644&artikel=4&z=2011-05-25&g=2011-05-25) vastgestelde lijn;
 
 - 3°. op alle niet-Nederlandse wateren die met de volle zee in verbinding staan en bevaarbaar zijn voor zeegaande schepen;
 
-- b. alle andere schepen in de Nederlandse territoriale zee waaronder begrepen de wateren zeewaarts van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004644&artikel=4&z=2005-04-06&g=2005-04-06) vastgestelde lijn.
+- b. alle andere schepen in de Nederlandse territoriale zee waaronder begrepen de wateren zeewaarts van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004644&artikel=4&z=2011-05-25&g=2011-05-25) vastgestelde lijn.
 
 2. Het bepaalde in het eerste lid, aanhef en onder **a**, ten 2° en onder **b**, is niet van toepassing voor zover bij of krachtens de wet dan wel bij of krachtens een voor Nederland van kracht zijnd verdrag of besluit van een volkenrechtelijke organisatie afwijkende voorschriften zijn vastgesteld.
 
@@ -74,9 +74,41 @@ Voor de toepassing van dit besluit geldt de Nederlandse vertaling van de Interna
 
 ##### Artikel 4
 
-1. De in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004644&artikel=1&z=2005-04-06&g=2005-04-06), bedoelde lijn loopt langs de zuidwestelijke grens van de Eemsmonding zoals omschreven in het Eems-Dollardverdrag (**Trb.** 1960, 69) tot het punt waar zij wordt gesneden door de lijn die loopt van de Grote Kaap op Rottumeroog (53°32'.7 N, 06°34'.7 O) over de lichttoren op Schiermonnikoog (53°29'.2 N, 06°08'.9 O) naar de Oostkaap op Ameland (53°27'.8 N, 05°55'.8 O), vervolgens van de lichttoren op Ameland (53°27'.0 N, 05°37'.6 O) naar de Noordkaap op Terschelling (53°26'.6 N, 05°32'.8 O), voorts van de lichttoren Brandaris op Terschelling (53°21'.7 N, 05°12'.8 O) naar de lichttoren Vuurduin op Vlieland (53°17'.8 N, 05°03'.6 O), dan van paal 35 ZW op Vlieland (53°13'.3 N, 04°52'.2 O) naar de lichttoren Eierland op Texel (53°11'.0 N, 04°51'.4 O), vervolgens van paal Onrust Z op Texel (52°59'.6 N, 04°43'.7 O) naar de lichttoren Kijkduin bij Den Helder (52°57'.4 N, 04°43'.7 O), vandaar langs de Noord- en Zuidhollandse kustlijn en de kustlijn van de Maasvlakte, van Voorne, Goeree, Schouwen, Noord-Beveland en Walcheren - en van de dammen daartussen - tot het snijpunt van de kustlijn van Walcheren met de lijn over de kerktorens van Aagtekerke en Domburg, vandaar tot de positie 51°37'.0 N, 03°27'.2 O, vandaar tot de positie 51°35'.6 N, 03°23'.3 O, vandaar tot de positie 51°34'.0 N, 03°22'.2 O, vandaar tot de positie 51°24'.7 N, 03°17'.9 O, en vandaar naar grenspaal 369 op de grens tussen Nederland en België. De lijn loopt over de zeehoofden van de havens.
+De in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004644&artikel=1&z=2011-05-25&g=2011-05-25), bedoelde lijn is de langs de Nederlandse kust gaande lijn, die loopt van:
 
-2. De in het eerste lid beschreven lijn is aangegeven op de bij dit besluit gevoegde kaart.
+- –. het snijpunt van de breedtecirkel 53°26'.5 N met de Duitse kust ter plaatse van Upleward,
+
+- –. vandaar naar het punt met de coördinaten 53°26'.5 N en 006°55'.9 E,
+
+- –. vandaar naar een punt gelegen 25 meter westelijk van de kop van de strekdam van Borkum,
+
+- –. vandaar via de noordelijkste punten van Rottumeroog, Rottumerplaat en de zandplaat Simonszand, naar het oostelijkste punt van Schiermonnikoog, en voorts langs de noordelijke kust naar het westelijkste punt van Schiermonnikoog,
+
+- –. vandaar naar het noordelijkste punt van de zandplaat Het Rif,
+
+- –. vandaar naar het oostelijkste punt van Ameland en voorts langs de noordelijke kust naar het westelijkste punt van dit eiland,
+
+- –. vandaar naar het oostelijkste punt van Terschelling en voorts langs de noordelijke kustlijn naar het westelijkste punt van dit eiland,
+
+- –. vandaar naar het noordelijkste punt van Vlieland en voorts langs de noordelijke kust naar het westelijkste punt van dit eiland,
+
+- –. vandaar naar het noordelijkste punt van Texel en voorts langs de westelijke kust tot het snijpunt van de kustlijn en de lijn tussen het Loodsmansduin te Texel, met de coördinaten 53°01'.3 N en 004°43'.7 E, en het punt met de coördinaten 52°58'.4 N en 004°39'.4 E, op het eiland Noorderhaaks,
+
+- –. vandaar naar het punt met de coördinaten 52°58'.4 N en 004°39'.4 E,
+
+- –. vandaar naar de Noord-Hollandse kust ter hoogte van de vuurtoren Kijkduin bij Den Helder en voorts langs de kust van Noord- en Zuid-Holland, waarbinnen zijn begrepen de hoofden van IJmuiden, Scheveningen en Hoek van Holland, tot aan de Haringvlietdam,
+
+- –. vandaar langs de zeezijde van deze dam en de zeezijde van de buitenhaven van Stellendam, naar Goeree en voorts langs de westelijke kust hiervan naar de Brouwersdam,
+
+- –. vandaar langs de zeezijde van deze dam naar Schouwen en voorts langs de westelijke kust hiervan naar de afsluiting in de Oosterschelde,
+
+- –. vandaar langs de zeezijde van deze afsluiting, over de havenhoofden van de vluchthaven Neeltje Jans en de Noordland Buitenhaven, Roompotsluis, naar Noord-Beveland en voorts langs de kustlijn hiervan naar de Veersedam,
+
+- –. vandaar langs de zeezijde van deze dam naar Walcheren en voorts langs de kustlijn hiervan tot het snijpunt met de lijn over de kerktorens van Aagtekerke en Domburg tot de positie 51°36'.95 N en 003°27'.12 E, vandaar naar 51°35'.55 N en 003°23'.22 E, vandaar naar 51°33'.95 N en 003°22'.12 E, vandaar naar 51°26'.03 N en 003°18'.46 E en vandaar naar grenspaal 369 op de grens tussen Nederland en België.
+
+De kustlijn volgt tot het snijpunt met de lijn over de kerktorens van Aagtekerke en Domburg de laagwaterlijn (dieptelijn van 0 meter) zoals aangegeven op de grootschalige Nederlandse zeekaarten, uitgegeven vanwege de Minister van Defensie.
+
+De coördinaten zijn uitgedrukt in lengte en breedte volgens het World Geodetic System (WGS-84), in graden en minuten.
 
 ##### Artikel 5
 
@@ -88,7 +120,7 @@ Voor de toepassing van dit besluit geldt de Nederlandse vertaling van de Interna
 
 1. Het besluit van 4 augustus 1976 (**Stb.** 773), houdende vaststelling van Bepalingen ter voorkoming van aanvaringen op zee, 1972, wordt ingetrokken, met dien verstande dat de krachtens dat besluit bekend gemaakte verkeersscheidingsstelsels worden geacht te zijn bekend gemaakt krachtens dit besluit.
 
-2. Het besluit van 13 mei 1981 (**Stb.** 314), houdende vaststelling van de lijn bedoeld in [artikel 2, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0004644&artikel=2&z=2005-04-06&g=2005-04-06), ten 2° en onder **b**, van de Zeeaanvaringswet 1977 (**Stb.** 1979, 196), wordt ingetrokken.
+2. Het besluit van 13 mei 1981 (**Stb.** 314), houdende vaststelling van de lijn bedoeld in [artikel 2, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0004644&artikel=2&z=2011-05-25&g=2011-05-25), ten 2° en onder **b**, van de Zeeaanvaringswet 1977 (**Stb.** 1979, 196), wordt ingetrokken.
 
 ##### Artikel 7
 
@@ -96,6 +128,6 @@ Dit besluit treedt in werking met ingang van 19 november 1989.
 
 ## Bijlage
 
-ZAR - Gebied = Gebied waarop de Zeeaanvaringsbepalingen 1972 van toepassing zijn.
+Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
