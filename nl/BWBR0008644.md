@@ -4,7 +4,7 @@ identifier: "BWBR0008644"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2005-05-27"
+last_updated: "2011-05-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008644"
 soort: "ministeriele-regeling"
@@ -42,13 +42,13 @@ Besluit:
 
 Als bevoegde autoriteit bedoeld in het [Scheepvaartreglement territoriale zee](https://wetten.overheid.nl/jci1.3:c:BWBR0007914), wordt aangewezen:
 
-- 1. Met betrekking tot de [artikelen 5, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&artikel=6), [7, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&artikel=8), [12, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&artikel=12), en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&artikel=13), voor wat de in de Nederlandse territoriale zee gelegen ankerplaatsen, of laad- of losinrichtingen betreft, en met betrekking tot [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&artikel=5):
+- 1. Met betrekking tot de [artikelen 5, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&artikel=6), [7, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&artikel=7), [12, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&artikel=12), en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&artikel=13), voor wat de in de Nederlandse territoriale zee gelegen ankerplaatsen, of laad- of losinrichtingen betreft, en met betrekking tot [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&artikel=5):
 
 - a. voor het aanloopgebied Scheldemonden: de Rijkshavenmeester Westerschelde, bedoeld in [artikel 2, tweede lid, onderdeel a, van het Scheepvaartreglement Westerschelde 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0005393&artikel=2);
 
 - b. voor het aanloopgebied Rotterdam: de havenmeester van Rotterdam, werkzaam bij Havenbedrijf Rotterdam N.V.;
 
-- c. voor het aanloopgebied Scheveningen: de Stadsbeheermanager van het Stadsdeel Scheveningen van de Dienst Stadsbeheer van de gemeente Den Haag;
+- c. voor het aanloopgebied Scheveningen: het Hoofd Verkeerscentrale en Haven van de gemeente Den Haag;
 
 - d. voor het aanloopgebied IJmuiden: de hoofdingenieur-directeur in de directie Noord-Holland van het Directoraat-Generaal Rijkswaterstaat;
 
