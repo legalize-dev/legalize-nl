@@ -4,7 +4,7 @@ identifier: "BWBR0003627"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2008-04-01"
+last_updated: "2011-05-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003627"
 soort: "AMvB"
@@ -70,7 +70,41 @@ Vastgesteld wordt een reglement houdende bepalingen ter voorkoming van aanvaring
 
 - g. de zeewaarts van de in het tweede lid vermelde lijn gelegen wateren.
 
-2. De in het eerste lid bedoelde lijn loopt langs de zuidwestelijke grens van de Eemsmonding, zoals bedoeld in het Eems-Dollardverdrag (**Trb.** 1960, 69), tot het punt waar zij wordt gesneden door de lijn die loopt van de Grote Kaap op Rottummeroog (53°32'.7 N, 06°34'.7 O) over de lichttoren op Schiermonnikoog (53°29'.2 N, 06°08'.9 O) naar de Oostkaap op Ameland (53°27'.8 N, 05°55'.8 O) vervolgens van de lichttoren op Ameland (53°27'.0 N, 05°37'.6 O) naar de Noordkaap op Terschelling (53°26'.6 N, 05°32'.8 O), voorts van de lichttoren Brandaris op Terschelling (53°21'.7 N, 05°12'.8 O) naar de lichttoren Vuurduin op Vlieland (53°17'.8 N, 05°03'.6 O), dan van paal 35 ZW op Vlieland (53°13'.3 N, 04°52.2 O) naar lichttoren Eierland op Texel (53°11'.0 N, 04°51'.4 O), vervolgens van paal Onrust Z op Texel (52°59'.6 N, 04°43'.7 O) naar de lichttoren Kijkduin bij Den Helder (52°57'.4 N, 04°43'.7 O), vandaar langs de Noord- en Zuidhollandse kustlijn en de kustlijn van de Maasvlakte, Voorne, Goeree, Schouwen, Noord-Beveland en Walcheren - en van de dammen daartussen - tot het snijpunt van de kustlijn van Walcheren met de lijn over de kerktorens van Aagtekerke en Domburg, vandaar tot de positie 51°37'.0 N, 03°27'.2 O, vandaar tot de positie 51°35'.6 N, 03°23'.3 O, vandaar tot de positie 51°34'.0 N, 03°22'.2 O, vandaar tot de positie 51°24'.7 N, 03°17'.9 O, en vandaar naar de grenspaal 369 op de grens van Nederland en België. De lijn loopt over de zeehoofden van de havens.
+2. De in het eerste lid bedoelde lijn is de langs de Nederlandse kust gaande lijn, die loopt van:
+
+- –. het snijpunt van de breedtecirkel 53°26'.5 N met de Duitse kust ter plaatse van Upleward,
+
+- –. vandaar naar het punt met de coördinaten 53°26'.5 N en 006°55'.9 E,
+
+- –. vandaar naar een punt gelegen 25 meter westelijk van de kop van de strekdam van Borkum,
+
+- –. vandaar via de noordelijkste punten van Rottumeroog, Rottumerplaat en de zandplaat Simonszand, naar het oostelijkste punt van Schiermonnikoog, en voorts langs de noordelijke kust naar het westelijkste punt van Schiermonnikoog,
+
+- –. vandaar naar het noordelijkste punt van de zandplaat Het Rif,
+
+- –. vandaar naar het oostelijkste punt van Ameland en voorts langs de noordelijke kust naar het westelijkste punt van dit eiland,
+
+- –. vandaar naar het oostelijkste punt van Terschelling en voorts langs de noordelijke kustlijn naar het westelijkste punt van dit eiland,
+
+- –. vandaar naar het noordelijkste punt van Vlieland en voorts langs de noordelijke kust naar het westelijkste punt van dit eiland,
+
+- –. vandaar naar het noordelijkste punt van Texel en voorts langs de westelijke kust tot het snijpunt van de kustlijn en de lijn tussen het Loodsmansduin te Texel, met de coördinaten 53°01'.3 N en 004°43'.7 E, en het punt met de coördinaten 52°58'.4 N en 004°39'.4 E, op het eiland Noorderhaaks,
+
+- –. vandaar naar het punt met de coördinaten 52°58'.4 N en 004°39'.4 E,
+
+- –. vandaar naar de Noord-Hollandse kust ter hoogte van de vuurtoren Kijkduin bij Den Helder en voorts langs de kust van Noord- en Zuid-Holland, waarbinnen zijn begrepen de hoofden van IJmuiden, Scheveningen en Hoek van Holland, tot aan de Haringvlietdam,
+
+- –. vandaar langs de zeezijde van deze dam en de zeezijde van de buitenhaven van Stellendam, naar Goeree en voorts langs de westelijke kust hiervan naar de Brouwersdam,
+
+- –. vandaar langs de zeezijde van deze dam naar Schouwen en voorts langs de westelijke kust hiervan naar de afsluiting in de Oosterschelde,
+
+- –. vandaar langs de zeezijde van deze afsluiting, over de havenhoofden van de vluchthaven Neeltje Jans en de Noordland Buitenhaven, Roompotsluis, naar Noord-Beveland en voorts langs de kustlijn hiervan naar de Veersedam,
+
+- –. vandaar langs de zeezijde van deze dam naar Walcheren en voorts langs de westelijke kust hiervan naar de lichtopstand de Nolle, met de coördinaten 51°26'.9 N en 003°33'.1 E, bij Vlissingen,
+
+- –. vandaar naar de lichtopstand Nieuwe Sluis, met de coördinaten 51°24'.4 N en 003°31'.3 E, in Zeeuws-Vlaanderen en voorts langs de noordwestelijke kust hiervan naar het punt van grensovergang tussen Nederland en België.
+
+De coördinaten zijn uitgedrukt in lengte en breedte volgens het World Geodetic System (WGS)-84, in graden en minuten.
 
 3. In afwijking van het eerste lid gelden de [artikelen 1.01, onder A, 16°, 17° en 18°](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.01), [1.09, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.09), 8.01 tot en met 8.08, [9.04](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=9.04) en [9.05 van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=9.05) tevens op de Boven-Rijn, de Waal, het Pannerdensch Kanaal, de Neder-Rijn en de Lek, en op de daaraan gelegen havens, laad- en losplaatsen en recreatieplassen.
 
@@ -108,11 +142,11 @@ Vervallen
 
 ##### Artikel 7
 
-De besluiten, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003627&artikel=4&z=2008-04-01&g=2008-04-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003627&artikel=5&z=2008-04-01&g=2008-04-01) worden in de **Staatscourant** geplaatst.
+De besluiten, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003627&artikel=4&z=2011-05-25&g=2011-05-25) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003627&artikel=5&z=2011-05-25&g=2011-05-25) worden in de **Staatscourant** geplaatst.
 
 ##### Artikel 7a
 
-Overtreding van de bepalingen van het [Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628), met uitzondering van de [artikelen 1.01](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.01), [1.02, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.02), [1.03, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.03), [3.01, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=3.01), [3.01a](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=3.01a), [3.25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=3.25), [5.01, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=5.01), [5.02](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=5.02), [6.01](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=6.01), [6.28b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=6.28b), [6.29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=6.29), [8.04](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=8.04), [9.01](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=9.01), [10.01](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=10.01), [12.01](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=12.01), [12.02](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=12.02) en [12.03](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=12.03), dan wel overtreding van de aan ontheffingen verbonden voorschriften, met uitzondering van overtreding van de voorschriften verbonden aan een ontheffing als bedoeld in [artikel 10.07, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=10.07), vormt een strafbaar feit.
+Overtreding van de bepalingen van het [Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628), dan wel overtreding van de aan een aanwijzing van de bevoegde autoriteit verbonden voorwaarden, of de aan een vergunning, vrijstelling of ontheffing verbonden voorwaarden of voorschriften, met uitzondering van overtreding van de voorschriften verbonden aan een ontheffing als bedoeld in [artikel 10.07, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=10.07), is een strafbaar feit.
 
 ##### Artikel 8
 
