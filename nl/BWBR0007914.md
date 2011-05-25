@@ -4,7 +4,7 @@ identifier: "BWBR0007914"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2010-12-31"
+last_updated: "2011-05-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007914"
 soort: "AMvB"
@@ -56,7 +56,7 @@ Hebben goedgevonden en verstaan:
 
 2. Het eerste lid is, voor wat de uitzondering van de toepasselijkheid in het gemeentelijk ingedeelde deel van de territoriale zee betreft, niet van toepassing ten aanzien van:
 
-- a. de verkeerstekens die zijn opgenomen in de bij dit besluit behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&bijlage=2&z=2010-12-31&g=2010-12-31);
+- a. de verkeerstekens die zijn opgenomen in de bij dit besluit behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&bijlage=2&z=2011-05-25&g=2011-05-25);
 
 - b. een aanloopgebied.
 
@@ -80,9 +80,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. een sleepboot;
 
-- d. aanloopgebied: een gebied als omschreven in de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&bijlage=1&z=2010-12-31&g=2010-12-31);
+- d. aanloopgebied: een gebied als omschreven in de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&bijlage=1&z=2011-05-25&g=2011-05-25);
 
-- e. territoriale zee, behoudens de aanloopgebieden: de Nederlandse territoriale zee, behoudens de in de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&bijlage=1&z=2010-12-31&g=2010-12-31) omschreven aanloopgebieden;
+- e. territoriale zee, behoudens de aanloopgebieden: de Nederlandse territoriale zee, behoudens de in de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&bijlage=1&z=2011-05-25&g=2011-05-25) omschreven aanloopgebieden;
 
 - f. exploitant: de eigenaar, rompbevrachter of ieder ander die de zeggenschap heeft over het gebruik van een schip;
 
@@ -116,7 +116,7 @@ Ook bij het ontbreken van uitdrukkelijke voorschriften in dit besluit, worden al
 
 ##### Artikel 5
 
-1. Een zeeschip dat bepaalde gevaarlijke of schadelijke stoffen vervoert of een zeeschip met een bruto-tonnage als bedoeld in de [Meetbrievenwet 1981](https://wetten.overheid.nl/jci1.3:c:BWBR0003378) van 300 of meer, vaart geen in Nederland gelegen haven, ankerplaats, of een in de Nederlandse territoriale zee gelegen laad- of losinrichting binnen, voordat de kapitein, de exploitant of de agent aan de bevoegde autoriteit van de eerste bestemming in Nederland de bij ministeriële regeling vastgestelde gegevens heeft gemeld omtrent het schip, de positie, het tijdstip van aankomst en vertrek daarvan, de daarmee vervoerde lading, het aantal personen aan boord en de uit te voeren reis, op een bij die regeling bepaalde wijze.
+1. Een zeeschip dat bepaalde gevaarlijke of schadelijke stoffen vervoert of een zeeschip met een bruto-tonnage als bedoeld in de [Meetbrievenwet 1981](https://wetten.overheid.nl/jci1.3:c:BWBR0003378) van 300 of meer, doet geen in Nederland gelegen haven, ankerplaats, terminal of een in de Nederlandse territoriale zee gelegen laad- of losinrichting aan, voordat de kapitein, de exploitant of de agent aan de bevoegde autoriteit van de eerste bestemming in Nederland de bij ministeriële regeling vastgestelde gegevens heeft gemeld omtrent het schip, de positie, het tijdstip van aankomst en vertrek daarvan, de daarmee vervoerde lading, het aantal personen aan boord en de uit te voeren reis, op een bij die regeling bepaalde wijze.
 
 2. De in het eerste lid bedoelde melding geschiedt:
 
@@ -180,7 +180,9 @@ Van een schip wordt zo spoedig mogelijk aan de bevoegde autoriteit medegedeeld d
 
 ##### Artikel 8
 
-Dit onderdeel is nog niet inwerking getreden
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2010/748.
+
+Een schip gaat in een aanloopgebied niet voor anker, dan na daartoe van de bevoegde autoriteit toestemming te hebben verkregen.
 
 #### Voor anker gaan
 
@@ -232,7 +234,7 @@ Vervallen
 
 ##### Artikel 15
 
-De bij dit besluit behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&bijlage=2&z=2010-12-31&g=2010-12-31) vermeldt de verkeerstekens ter markering van het vaarwater of van obstakels daarin.
+De bij dit besluit behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&bijlage=2&z=2011-05-25&g=2011-05-25) vermeldt de verkeerstekens ter markering van het vaarwater of van obstakels daarin.
 
 #### Opvolgen van en rekening houden met verkeerstekens en bekendmakingen met dezelfde strekking als een verkeersteken
 
@@ -248,11 +250,7 @@ De bij dit besluit behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 17
 
-1. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de deelname aan het scheepvaartverkeer door:
-
-- a. schepen in de Eurogeul en de Maasgeul, met een diepgang van 174 decimeter (57 voet) of meer;
-
-- b. schepen in de IJgeul, met een diepgang van 137 decimeter (45 voet) of meer.
+1. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de deelname aan het scheepvaartverkeer door schepen in de Eurogeul, de Maasgeul en de IJgeul, die een in die regeling vastgestelde diepgang hebben.
 
 2. De in het eerste lid bedoelde regels kunnen slechts voorschriften inhouden aangaande:
 
@@ -276,15 +274,15 @@ In geval van gevaarlijke ijsgang kan de bevoegde autoriteit verlangen dat schepe
 
 ##### Artikel 19
 
-Aan een toestemming als bedoeld in de [artikelen 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=7&z=2010-12-31&g=2010-12-31), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=8&z=2010-12-31&g=2010-12-31), [12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=12&z=2010-12-31&g=2010-12-31), en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=13&z=2010-12-31&g=2010-12-31), kunnen voorschriften worden verbonden.
+Aan een toestemming als bedoeld in de [artikelen 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=7&z=2011-05-25&g=2011-05-25), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=8&z=2011-05-25&g=2011-05-25), [12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=12&z=2011-05-25&g=2011-05-25), en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=13&z=2011-05-25&g=2011-05-25), kunnen voorschriften worden verbonden.
 
 #### Paragraaf 6. Strafbepaling
 
 #### Strafbaarstelling
 
-##### Artikel 20
+##### Artikel 20. Strafbaarstelling
 
-Overtreding van de bij of krachtens de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=1&artikel=4&z=2010-12-31&g=2010-12-31), [5, eerste tot en met zesde lid en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=5&z=2010-12-31&g=2010-12-31), [5a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=5a&z=2010-12-31&g=2010-12-31), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=6&z=2010-12-31&g=2010-12-31), [7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=7&z=2010-12-31&g=2010-12-31), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=8&z=2010-12-31&g=2010-12-31), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=9&z=2010-12-31&g=2010-12-31), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=10&z=2010-12-31&g=2010-12-31), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=11&z=2010-12-31&g=2010-12-31), [12, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=12&z=2010-12-31&g=2010-12-31), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=13&z=2010-12-31&g=2010-12-31), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=4&artikel=16&z=2010-12-31&g=2010-12-31), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=5&artikel=17&z=2010-12-31&g=2010-12-31), en [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=5&artikel=18&z=2010-12-31&g=2010-12-31), gestelde regels, alsmede overtreding van de aan toestemming verbonden voorschriften, is een strafbaar feit.
+Overtreding van de bij of krachtens dit besluit vastgestelde regels, alsmede overtreding van de aan toestemming verbonden voorschriften, is een strafbaar feit.
 
 #### Paragraaf 7. Wijzigingen in andere besluiten
 
@@ -348,13 +346,13 @@ Het Besluit informatieverstrekking schepen met bepaalde stoffen wordt ingetrokke
 
 ##### Artikel 30
 
-Na inwerkingtreding van [artikel 22, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=22&z=2010-12-31&g=2010-12-31), van dit besluit, berust de bekendmaking aan de Scheepvaart Scheldemond «Marifoonblokindeling» van de Rijkshavenmeester Westerschelde van 4 november 1994, nr. Bass 134/94 (**Stcrt.** 216) op [artikel 51, eerste, en tweede lid, van het Scheepvaartreglement Westerschelde 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0005393&artikel=51).
+Na inwerkingtreding van [artikel 22, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=22&z=2011-05-25&g=2011-05-25), van dit besluit, berust de bekendmaking aan de Scheepvaart Scheldemond «Marifoonblokindeling» van de Rijkshavenmeester Westerschelde van 4 november 1994, nr. Bass 134/94 (**Stcrt.** 216) op [artikel 51, eerste, en tweede lid, van het Scheepvaartreglement Westerschelde 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0005393&artikel=51).
 
 #### Inwerkingtreding
 
 ##### Artikel 31
 
-De [artikelen 1 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=1&artikel=1&z=2010-12-31&g=2010-12-31), [artikel 23, onderdeel A, 2°, en onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=23&z=2010-12-31&g=2010-12-31), en de [artikelen 27 tot en met 29](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=8&artikel=27&z=2010-12-31&g=2010-12-31), treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. De [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=21&z=2010-12-31&g=2010-12-31), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=22&z=2010-12-31&g=2010-12-31), [23, onderdeel A, 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=23&z=2010-12-31&g=2010-12-31), en [24 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=24&z=2010-12-31&g=2010-12-31) treden in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin dit besluit wordt geplaatst.
+De [artikelen 1 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=1&artikel=1&z=2011-05-25&g=2011-05-25), [artikel 23, onderdeel A, 2°, en onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=23&z=2011-05-25&g=2011-05-25), en de [artikelen 27 tot en met 29](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=8&artikel=27&z=2011-05-25&g=2011-05-25), treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. De [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=21&z=2011-05-25&g=2011-05-25), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=22&z=2011-05-25&g=2011-05-25), [23, onderdeel A, 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=23&z=2011-05-25&g=2011-05-25), en [24 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=24&z=2011-05-25&g=2011-05-25) treden in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin dit besluit wordt geplaatst.
 
 #### Citeertitel
 
@@ -382,25 +380,23 @@ Met betrekking tot het Scheepvaartreglement territoriale zee, worden de navolgen
 
 Aan een toestemming als bedoeld in de [artikelen 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=7&z=2007-11-23&g=2007-11-23), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=8&z=2007-11-23&g=2007-11-23), [12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=12&z=2007-11-23&g=2007-11-23), en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=13&z=2007-11-23&g=2007-11-23), kunnen voorschriften worden verbonden.
 
-## Bijlage 1. behorend bij [artikel 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=1&artikel=2&z=2010-12-31&g=2010-12-31), van het Scheepvaartreglement territoriale zee
+## Bijlage 1. behorend bij [artikel 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=1&artikel=2&z=2011-05-25&g=2011-05-25)
 
 Met betrekking tot het Scheepvaartreglement territoriale zee, worden de navolgende aanloopgebieden onderscheiden:
 
-- a. het aanloopgebied **Eemsmonding**, gevormd door: het bij de Eemsmonding aansluitende gedeelte van de territoriale zee dat ligt binnen het gebied begrensd door een lijn die loopt van de positie 53°34'.7 NB, 06°21'.9 OL, naar 53°34'.9 NB, 06°13'.7 OL, vandaar naar 53°37'.1 NB, 06°19'.5 OL, vandaar naar 53°39'.0 NB, 06°27'.1 OL, en vandaar naar 53°37'.5 NB, 06°31'.2 OL;
+- a. het aanloopgebied **Eemsmonding**, gevormd door: het bij de Eemsmonding aansluitende gedeelte van de territoriale zee dat ligt binnen het gebied begrensd door een lijn die loopt van de positie 53°34’.6 N 006°21’.8 E, naar 53°34’.8 N 006°13’.6 E, vandaar naar 53°37’.0 N 006°19’.4 E, vandaar naar 53°38’.9 N 006°27’.0 E, en vandaar naar 53°37’.4 N 006°31’.1 E;
 
-- b. het aanloopgebied Brandaris, gevormd door: het zeegat van Terschelling vanaf de ton W. Drawa, de lichtboei SM, de lichtboei TG, de lichtboei Stolzenfels en het punt op de noordkust van Terschelling met de geografische coördinaten 53°23'.38 NB, 05°11'.38 OL;
+- b. het aanloopgebied **Brandaris**, gevormd door: het zeegat van Terschelling vanaf de boei Drawa W, de lichtboei ZS, de lichtboei TG, de lichtboei Stolzenfels en het punt op de noordkust van Terschelling met de geografische coördinaten 53°23’.3 N 005°11’.3 E;
 
-- c. het aanloopgebied Den Helder, gevormd door: het zeegebied vanaf lichtopstand «grote Kaap» (52°52'.9 NB, 04°42'.9 OL), lichtboei SG, lichtboei ZH, lichtboei MR, lichtboei NH, lichtboei MG en paal 15 op Texel (53°03'.8 NB, 04°43'.4 OL). Van dit gebied is dat gedeelte van de territoriale zee uitgezonderd, dat zich zeewaarts van de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=1&artikel=1&z=2010-12-31&g=2010-12-31), bedoelde lijn bevindt en dat gemeentelijk is ingedeeld, behoudens in het zeegat dat is gelegen tussen de kop van de provincie Noord-Holland en de zuidpunt van het eiland Texel;
+- c. het aanloopgebied **Den Helder**, gevormd door: het zeegebied vanaf lichtopstand «grote Kaap» (52°52’.9N 004°42’.9 E), lichtboei SG, lichtboei ZH, lichtboei MR, lichtboei NH, lichtboei MG en paal 15 op Texel (53°03’.7 N 004°43’.3 E). Van dit gebied is dat gedeelte van de territoriale zee uitgezonderd, dat zich zeewaarts van de in artikel 1, eerste lid, bedoelde lijn bevindt en dat gemeentelijk is ingedeeld, behoudens in het zeegat dat is gelegen tussen de kop van de provincie Noord-Holland en de zuidpunt van het eiland Texel;
 
-- d. het aanloopgebied **IJmuiden**, gevormd door: het gedeelte van de territoriale zee dat ligt binnen het gebied, begrensd door een lijn die loopt van de positie 52°28'.00 NB, 04°32'.18 OL (referentiepunt), naar positie 52°16'.36 NB, 04°26'.18 OL, vandaar in een zeewaarts gerichte boog met een straal van 12 zeemijlen gerekend vanuit het referentiepunt naar positie 52°39'.36. NB, 04°37'.00 OL;
+- d. het aanloopgebied **IJmuiden**, gevormd door: het gedeelte van de territoriale zee dat ligt binnen het gebied, begrensd door een lijn die loopt van de positie 52°27’.9 N 004°32’.1 E (referentiepunt), naar positie 52°16’.3 N 004°26’.1 E, vandaar in een zeewaarts gerichte boog met een straal van 12 zeemijlen gerekend vanuit het referentiepunt naar positie 52°39’.3 N 004°36’.9 E;
 
-- e. het aanloopgebied **Scheveningen**, gevormd door: het gebied, begrensd door een lijn die loopt van de positie 52°06'.2 NB, 04°15'.8 OL, naar 52°07'.7 NB, 04°17'.5 OL, vandaar naar 52°09'.4 NB, 04°14'.2 OL, vandaar naar 52°06'.5 NB, 04°10'.0 OL, en vandaar naar 52°04'.8 NB, 04°13'.4 OL, en vandaar naar 52°06'.2 NB, 04°15'.8 OL en het gebied, begrensd door een lijn die loopt van de positie 52°10'.00 NB, 04°13'.2 OL, naar 52°11'.7 NB, 04°15'.5 OL, vandaar naar 52°13'.0 NB, 04°13'.5 OL, en vandaar naar 52°11'.85 NB, 04°11'.75 OL;
+- e. het aanloopgebied **Scheveningen**, gevormd door: het gebied, begrensd door een lijn die loopt van de positie 52°06’.1 N 004°15’.7 E, naar 52°07’.6 N 004°17’.4 E, vandaar naar 52°09’.3 N 004°14’.1 E, vandaar naar 52°06’.4 N 004°09’.9 E, en vandaar naar 52°04’.7 N 004°13’.3 E, en vandaar naar 52°06’.1 N 004°15’.7 E en het gebied, begrensd door een lijn die loopt van de positie 52°09’.9 N 004°13’.1 E, naar 52°11’.6 N 004°15’.4 E, vandaar naar 52°12’.9 N 004°13’.4 E, en vandaar naar 52°11’.8 N 004°11’.7 E;
 
-- f. het aanloopgebied **Rotterdam**, gevormd door: het zeegebied in de aanloop van de Maasmond, ten noorden begrensd door de lijn vanuit de positie 100 m oostelijk van het havenlicht op de kop van de Noorderdam (51°59'.7 NB, 04°03'.0 OL) via de Indusbank-N boei (52°03'.0 NB, 04°03'.8 OL) naar de positie 52°10'.0 NB, 04°05'.3 OL en vandaar in de richting 280°, ten westen door de territoriale grens en ten zuiden door een lijn vanaf de positie 51°57'.7 NB, 04°00'.5 OL via lichteiland Goeree (51°55'.6 NB, 03°40'.2 OL) naar de territoriale grens;
+- f. het aanloopgebied **Rotterdam**, gevormd door: het zeegebied dat wordt begrensd door een lijn vanuit het havenlicht op de kop van de Noorderdam (51°59’.7 N 004°02’.8 E) via boei MN 3 (52°07’.0 N 004°00’.0 E), via boei MN 2 (52°07’.4 N 003°51’.4 E), via boei MNW 2 (52°07’.4 N 003°45’.0 E), via boei MNW 3-MW 6 (52°04’.8 N 003°41’.0 E), via boei MW 5 (51°57’.2 N 003°42’.0 E) naar 51°58’.0 N 003°56’.9 E en vervolgens naar boei MV-C (51°57’.8 N 003°56’.7 E), vandaar naar boei MV-B (51°56’.5 N 003°57’.2 E), vandaar naar boei MV-A (51°55’.5 N 003°57’.8 E) en dan naar 51°54’.9 N 003°59’.6 E;
 
-- g. het aanloopgebied **Scheldemonden**, gevormd door: het in de Nederlandse territoriale zee gelegen gebied ten zuiden van de lijn die loopt van de positie 51°48'.6 NB, 03°51'.6 OL, en vervolgens westwaarts tot aan de grens van de territoriale zee, uitgezonderd het gedeelte van dat gebied dat wordt gevormd door een lijn over de kerktorens van Aagtekerke en Domburg tot de positie 51°37'.0 N, 03°27'.2 O, vandaar naar 51°35'.6 N, 03°23'.3 O, vandaar naar 51°34'.0 N, 03°22'.2 O, vandaar naar 51°24'.7 N, 03°17'.9 O, en vandaar naar grenspaal 369. Van dit gebied is dat gedeelte van de territoriale zee uitgezonderd, dat zich zeewaarts van de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=1&artikel=1&z=2010-12-31&g=2010-12-31), bedoelde lijn bevindt en dat gemeentelijk is ingedeeld, behoudens in het zeegat dat toegang verschaft tot de Oosterschelde.
-
-Aan een toestemming als bedoeld in de [artikelen 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=7&z=2010-12-31&g=2010-12-31), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=8&z=2010-12-31&g=2010-12-31), [12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=12&z=2010-12-31&g=2010-12-31), en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=13&z=2010-12-31&g=2010-12-31), kunnen voorschriften worden verbonden.
+- g. het aanloopgebied **Scheldemonden**, gevormd door: het in de Nederlandse territoriale zee gelegen gebied ten zuiden van de lijn die loopt van de positie 51°48’.5 N 003°51’.5 E, en vervolgens westwaarts tot aan de grens van de territoriale zee, uitgezonderd het gedeelte van dat gebied dat wordt gevormd door een lijn over de kerktorens van Aagtekerke en Domburg tot de positie 51°36’.9 N 003°27’.1 E, vandaar naar 51°35’.5 N 003°23’.2 E, vandaar naar 51°33’.9 N 003°22’.1 E, vandaar naar 51°26’.0 N 003°18’.5 E, en vandaar naar grenspaal 369. Van dit gebied is dat gedeelte van de territoriale zee uitgezonderd, dat zich zeewaarts van de in artikel 1, eerste lid, bedoelde lijn bevindt en dat gemeentelijk is ingedeeld, behoudens in het zeegat dat toegang verschaft tot de Oosterschelde.
 
 ### 1. Algemeen
 
@@ -444,13 +440,13 @@ Laterale markeringen verschillen in de twee internationaal vastgestelde betonnin
 
 2.3.3 **Splitsing**
 
-2.3.3 **Splitsing**
+* Indien aanwezig.
 
 ### 2.4. Algemene regels voor laterale markeringen
 
-2.4.1 Indien de bakboords- of stuurboordsmarkeringen niet voldoen aan de stompe of spitse vorm, dienen zij, waar dit uitvoerbaar is, voorzien te zijn van een daartoe geëigend topteken.
+Wanneer een vaarwater zich splitst kan, varend in de betonningsrichting, als volgt een aanbevolen route worden aangegeven door een aangepaste bakboords- of stuurboordsmarkering.
 
-2.4.1 Indien de bakboords- of stuurboordsmarkeringen niet voldoen aan de stompe of spitse vorm, dienen zij, waar dit uitvoerbaar is, voorzien te zijn van een daartoe geëigend topteken.
+* Indien aanwezig.
 
 2.4.2 Cijfers of lettertekens
 
@@ -458,7 +454,7 @@ Laterale markeringen verschillen in de twee internationaal vastgestelde betonnin
 
 ### 3. Cardinale markeringen
 
-3.1.1 De vier kwadranten (Noord, Oost, Zuid en West) worden begrensd door de ware peilingslijnen NW–NE, NE–SE, SE–SW en SW–NW die vanuit het referentiepunt kunnen worden getrokken.
+Indien de markeringen, gelegen aan de zijkanten van een vaarwater of een route, worden genummerd of van (een) letter(s) voorzien, dient dit in de vastgestelde betonningsrichting te gebeuren.
 
 3.1.1 De vier kwadranten (Noord, Oost, Zuid en West) worden begrensd door de ware peilingslijnen NW–NE, NE–SE, SE–SW en SW–NW die vanuit het referentiepunt kunnen worden getrokken.
 
@@ -466,53 +462,53 @@ Laterale markeringen verschillen in de twee internationaal vastgestelde betonnin
 
 ### 3.2. Gebruik van cardinale markeringen
 
-Een cardinale markering kan b.v. worden gebruikt om:
+3.1.2 De cardinale markering wordt genoemd naar het kwadrant waarin deze is geplaatst.
 
 ### 3.3. Beschrijving van de cardinale betonning
 
 3.3.1 **Noord cardinale markering**
 
-3.3.1 **Noord cardinale markering**
+Een cardinale markering kan b.v. worden gebruikt om:
 
 3.3.2 **Oost cardinale markering**
 
-3.3.3 **Zuid cardinale markering**
+3.3.1 **Noord cardinale markering**
 
 ### 4. Markering ter aanduiding van een afzonderlijk gevaar
 
 ### 4. Markering ter aanduiding van een afzonderlijk gevaar
 
-Een markering ter aanduiding van een afzonderlijk gevaar is een markering die is geplaatst op of gemeerd aan of gelegd boven een afzonderlijk gevaar en waaromheen zich bevaarbaar water bevindt.
+3.3.4 **West cardinale markering**
 
 ### 4.2. Beschrijving van de betonning ter aanduiding van afzonderlijke gevaren
 
 ### 4.2. Beschrijving van de betonning ter aanduiding van afzonderlijke gevaren
 
-### 5. Markering ter aanduiding van veilig vaarwater
+### 4. Markering ter aanduiding van een afzonderlijk gevaar
 
 Een markering ter aanduiding van veilig vaarwater geeft aan dat zich rond de markering bevaarbaar water bevindt. Hieronder zijn begrepen de markeringen die het midden of het diepste deel van een vaarwater aanduiden. De markering kan eveneens dienen als alternatief voor een cardinale dan wel een laterale markering, waarmee een verkennings- of aanlooppositie wordt aangegeven.
 
 ### 5.2. Beschrijving van de betonning ter aanduiding van veilig vaarwater
 
-### 5.2. Beschrijving van de betonning ter aanduiding van veilig vaarwater
+### 4.2. Beschrijving van de betonning ter aanduiding van afzonderlijke gevaren
 
 ### 6. Markeringen met bijzondere betekenis
 
 Markeringen die niet in de eerste plaats bestemd zijn voor de navigatie, maar die een bepaald gebied of bepaalde zaak aanduiden, vermeld in de gebruikelijke nautische publikaties, b.v.:
 
-### 6.2 Beschrijving van de betonning met bijzondere betekenis
+### 5.1. Definitie van een markering ter aanduiding van veilig vaarwater
 
 ### 6.2 Beschrijving van de betonning met bijzondere betekenis
 
 Bijzondere markeringen anders dan genoemd in par. 6.1 en omschreven in par. 6.2 mogen worden uitgelegd door de verantwoordelijke autoriteit om in buitengewone omstandigheden te voorzien.
 
-Bijzondere markeringen anders dan genoemd in par. 6.1 en omschreven in par. 6.2 mogen worden uitgelegd door de verantwoordelijke autoriteit om in buitengewone omstandigheden te voorzien.
+* Indien aanwezig
 
-### 7. Nieuwe gevaren
+### 6. Markeringen met bijzondere betekenis
 
-### 7. Nieuwe gevaren
+### 6.1. Definitie van markeringen met bijzondere betekenis
 
-De term «nieuwe gevaren» wordt gebruikt voor recent ontdekte gevaren die nog niet in de nautische publikaties zijn opgenomen.
+Markeringen die niet in de eerste plaats bestemd zijn voor de navigatie, maar die een bepaald gebied of bepaalde zaak aanduiden, vermeld in de gebruikelijke nautische publikaties, b.v.:
 
 De term «nieuwe gevaren» wordt gebruikt voor recent ontdekte gevaren die nog niet in de nautische publikaties zijn opgenomen.
 
@@ -520,9 +516,9 @@ De term «nieuwe gevaren» wordt gebruikt voor recent ontdekte gevaren die nog n
 
 7.2.1 Nieuwe gevaren dienen overeenkomstig de voorgaande regels te worden gemarkeerd. Indien de verantwoordelijke autoriteit meent dat het nieuwe gevaar bijzonder ernstig is, dan dient tenminste één van de markeringen ten spoedigste in dubbele uitvoering te worden toegepast.
 
-7.2.1 Nieuwe gevaren dienen overeenkomstig de voorgaande regels te worden gemarkeerd. Indien de verantwoordelijke autoriteit meent dat het nieuwe gevaar bijzonder ernstig is, dan dient tenminste één van de markeringen ten spoedigste in dubbele uitvoering te worden toegepast.
+Bijzondere markeringen anders dan genoemd in par. 6.1 en omschreven in par. 6.2 mogen worden uitgelegd door de verantwoordelijke autoriteit om in buitengewone omstandigheden te voorzien.
 
-7.2.2 Elke voor dit doel gebruikte lichtboei dient te zijn uitgerust met een geschikt cardinaal of lateraal VQ of Q karakter.
+Deze aanvullende markering mag niet in strijd zijn met de navigatiebetonning en dient bekend te worden gesteld in de daarvoor bestemde nautische publikaties en zo spoedig mogelijk onder de aandacht gebracht te worden van de I.A.L.A. (International Association of Lighthouse Authorities).
 
 7.2.3 Van elke dubbel uitgevoerde markering dienen beide eenheden geheel gelijk aan elkaar te zijn.
 
@@ -564,7 +560,9 @@ Een wijziging van [richtlijn nr. 2002/59/EG](32002L0059) gaat voor de toepassing
 
 ##### Artikel 17a. Belading
 
-Dit onderdeel is nog niet inwerking getreden
+1. Een schip neemt niet deel aan de scheepvaart indien het zodanig is beladen, dat het inzinkt tot over het vlak door de onderkant van de inzinkingsmerken, dan wel indien het zodanig is beladen, dat het een geringer vrijboord heeft dan blijkens de afgegeven certificaten is toegestaan.
+
+2. Een schip neemt niet deel aan de scheepvaart indien door de wijze van belading de stabiliteit in gevaar wordt gebracht.
 
 #### Aan toestemming te verbinden voorschriften
 
@@ -620,39 +618,71 @@ Laterale markeringen verschillen in de twee internationaal vastgestelde betonnin
 
 ### 2.3. Beschrijving van de laterale betonning in Regio A
 
-Wanneer een vaarwater zich splitst kan, varend in de betonningsrichting, als volgt een aanbevolen route worden aangegeven door een aangepaste bakboords- of stuurboordsmarkering.
+2.3.3 **Splitsing**
 
 ### 2.4. Algemene regels voor laterale markeringen
 
-Indien de markeringen, gelegen aan de zijkanten van een vaarwater of een route, worden genummerd of van (een) letter(s) voorzien, dient dit in de vastgestelde betonningsrichting te gebeuren.
+2.4.1 Indien de bakboords- of stuurboordsmarkeringen niet voldoen aan de stompe of spitse vorm, dienen zij, waar dit uitvoerbaar is, voorzien te zijn van een daartoe geëigend topteken.
 
 ### 3.1. Definities van cardinale kwadranten en markeringen
+
+3.1.1 De vier kwadranten (Noord, Oost, Zuid en West) worden begrensd door de ware peilingslijnen NW–NE, NE–SE, SE–SW en SW–NW die vanuit het referentiepunt kunnen worden getrokken.
+
+### 3.2. Gebruik van cardinale markeringen
 
 3.1.3 De benaming van de cardinale markering duidt de zijde aan waarlangs gepasseerd moet worden.
 
 ### 3.2. Gebruik van cardinale markeringen
 
-Een cardinale markering kan b.v. worden gebruikt om:
+3.3.2 **Oost cardinale markering**
 
-### 3.3. Beschrijving van de cardinale betonning
+### 4.1. Definitie van een markering ter aanduiding van een afzonderlijk gevaar
 
-3.3.4 **West cardinale markering**
+**) Het uit twee kegels bestaande topteken is overdag het belangrijkste kenmerk van de cardinale markering en dient, waar dit uitvoerbaar is, altijd toegepast te worden en zo groot mogelijk te zijn, met een duidelijke ruimte tussen de beide kegels.
 
 ### 4.1. Definitie van een markering ter aanduiding van een afzonderlijk gevaar
 
 Een markering ter aanduiding van een afzonderlijk gevaar is een markering die is geplaatst op of gemeerd aan of gelegd boven een afzonderlijk gevaar en waaromheen zich bevaarbaar water bevindt.
 
-### 5.1. Definitie van een markering ter aanduiding van veilig vaarwater
-
-Een markering ter aanduiding van veilig vaarwater geeft aan dat zich rond de markering bevaarbaar water bevindt. Hieronder zijn begrepen de markeringen die het midden of het diepste deel van een vaarwater aanduiden. De markering kan eveneens dienen als alternatief voor een cardinale dan wel een laterale markering, waarmee een verkennings- of aanlooppositie wordt aangegeven.
-
-### 6.1. Definitie van markeringen met bijzondere betekenis
+### 5. Markering ter aanduiding van veilig vaarwater
 
 Markeringen die niet in de eerste plaats bestemd zijn voor de navigatie, maar die een bepaald gebied of bepaalde zaak aanduiden, vermeld in de gebruikelijke nautische publikaties, b.v.:
 
-### 6.3. Aanvullende bijzondere markeringen
+### 5.2. Beschrijving van de betonning ter aanduiding van veilig vaarwater
 
 Deze aanvullende markering mag niet in strijd zijn met de navigatiebetonning en dient bekend te worden gesteld in de daarvoor bestemde nautische publikaties en zo spoedig mogelijk onder de aandacht gebracht te worden van de I.A.L.A. (International Association of Lighthouse Authorities).
+
+### 7.1. Definitie van nieuwe gevaren
+
+* Indien aanwezig
+
+### 6.3. Aanvullende bijzondere markeringen
+
+De term «nieuwe gevaren» wordt gebruikt voor recent ontdekte gevaren die nog niet in de nautische publikaties zijn opgenomen.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+### 2.4. Algemene regels voor laterale markeringen
+
+2.4.2 Cijfers of lettertekens
+
+### 3. Cardinale markeringen
+
+### 3.1. Definities van cardinale kwadranten en markeringen
+
+### 3.3. Beschrijving van de cardinale betonning
+
+3.3.3 **Zuid cardinale markering**
+
+* Indien aanwezig
+
+**) Het uit twee bollen bestaande topteken is overdag het belangrijkste kenmerk van de markering ter aanduiding van een afzonderlijk gevaar en dient, waar dit uitvoerbaar is, altijd toegepast te worden en zo groot mogelijk te zijn, met een duidelijke ruimte tussen de twee bollen.
+
+Een markering ter aanduiding van veilig vaarwater geeft aan dat zich rond de markering bevaarbaar water bevindt. Hieronder zijn begrepen de markeringen die het midden of het diepste deel van een vaarwater aanduiden. De markering kan eveneens dienen als alternatief voor een cardinale dan wel een laterale markering, waarmee een verkennings- of aanlooppositie wordt aangegeven.
+
+### 6.2 Beschrijving van de betonning met bijzondere betekenis
+
+### 7. Nieuwe gevaren
 
 ### 7.1. Definitie van nieuwe gevaren
 
@@ -660,6 +690,22 @@ De term omvat, naast de natuurlijke gevaren zoals zandbanken en rotsformaties, o
 
 ### 7.2. Het markeren van nieuwe gevaren
 
+7.2.1 Nieuwe gevaren dienen overeenkomstig de voorgaande regels te worden gemarkeerd. Indien de verantwoordelijke autoriteit meent dat het nieuwe gevaar bijzonder ernstig is, dan dient tenminste één van de markeringen ten spoedigste in dubbele uitvoering te worden toegepast.
+
+7.2.2 Elke voor dit doel gebruikte lichtboei dient te zijn uitgerust met een geschikt cardinaal of lateraal VQ of Q karakter.
+
+7.2.3 Van elke dubbel uitgevoerde markering dienen beide eenheden geheel gelijk aan elkaar te zijn.
+
+7.2.4 Een markering van een nieuw gevaar kan worden uitgerust met een racon, voorzien van de morse code «D», die een signaal geeft op het radarscherm ter lengte van één zeemijl.
+
 7.2.5 De dubbele markering kan worden verwijderd indien de betrokken autoriteit van mening is dat de gegevens betreffende het nieuwe gevaar op voldoende wijze zijn bekendgesteld.
+
+### 8. Nood-Wrakboei
+
+De nood-wrakboei is bedoeld om direct bij een nieuw wrak te worden geplaatst en in positie te worden gehouden totdat de locatie van het wrak voldoende bekend is gesteld en de gebruikelijke cardinale betonning is geplaatst.
+
+Eén of meerdere nood-wrakboeien moeten zo dicht mogelijk bij het wrak worden geplaatst als uitvoerbaar is. De nood-wrakboeien moeten in positie blijven totdat:
+
+De nood-wrakboei heeft de volgende specificaties (zie bijgevoegde markering):
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
