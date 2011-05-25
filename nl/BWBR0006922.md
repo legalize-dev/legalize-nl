@@ -4,7 +4,7 @@ identifier: "BWBR0006922"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-10-23"
-last_updated: "2004-09-29"
+last_updated: "2011-05-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006922"
 soort: "AMvB"
@@ -53,7 +53,7 @@ Voor de Rijn in Nederland met inbegrip van de Waal en de Lek is van kracht het R
 
 ##### Artikel 2
 
-Onze Minister van Verkeer en Waterstaat bepaalt op welke gedeelten van de vaarweg het ligplaats nemen, ankeren of meren, bedoeld in het eerste lid, onderdeel **a**, van de artikelen 7.02, 7.03 en 7.04 van het Rijnvaartpolitiereglement 1995 niet is toegestaan.
+Vervallen
 
 ##### Artikel 3
 
