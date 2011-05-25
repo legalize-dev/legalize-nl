@@ -4,7 +4,7 @@ identifier: "BWBR0006309"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "1998-01-01"
+last_updated: "2011-05-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006309"
 soort: "AMvB"
@@ -139,7 +139,7 @@ Degene die de bevoegdheid uitoefent vanwege het bevoegd gezag geeft van het voor
 
 ##### Artikel 12
 
-In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006309&hoofdstuk=2&paragraaf=5&artikel=10&z=1998-01-01&g=1998-01-01) geschiedt de tijdelijke aanbrenging krachtens een verkeersbesluit indien de omstandigheden die tot de tijdelijke aanbrenging leiden van langere duur zijn dan dertien weken dan wel zich regelmatig voordoen. [Paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006309&hoofdstuk=2&paragraaf=4&z=1998-01-01&g=1998-01-01) is alsdan van toepassing.
+In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006309&hoofdstuk=2&paragraaf=5&artikel=10&z=2011-05-25&g=2011-05-25) geschiedt de tijdelijke aanbrenging krachtens een verkeersbesluit indien de omstandigheden die tot de tijdelijke aanbrenging leiden van langere duur zijn dan dertien weken dan wel zich regelmatig voordoen. [Paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006309&hoofdstuk=2&paragraaf=4&z=2011-05-25&g=2011-05-25) is alsdan van toepassing.
 
 #### § 6. Bekendmakingen met dezelfde strekking als een verkeersteken
 
@@ -187,9 +187,9 @@ In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006309&ho
 
 - -. punten bij het passeren waarvan een melding door de scheepvaart dient plaats te vinden.
 
-5. Met betrekking tot het derde lid is artikel 1.01, onderdelen **b**.1, **x**, **x**.1, en **ij**, van het Binnenvaartpolitiereglement van overeenkomstige toepassing.
+5. Met betrekking tot het derde lid is [artikel 1.01, onderdeel A, 15° tot en met 18°, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.01) van overeenkomstige toepassing.
 
-6. De[artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006309&hoofdstuk=2&paragraaf=2&artikel=4&z=1998-01-01&g=1998-01-01) en [10 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0006309&hoofdstuk=2&paragraaf=5&artikel=10&z=1998-01-01&g=1998-01-01) zijn van overeenkomstige toepassing op bekendmakingen met dezelfde strekking als een verkeersteken.
+6. De[artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006309&hoofdstuk=2&paragraaf=2&artikel=4&z=2011-05-25&g=2011-05-25) en [10 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0006309&hoofdstuk=2&paragraaf=5&artikel=10&z=2011-05-25&g=2011-05-25) zijn van overeenkomstige toepassing op bekendmakingen met dezelfde strekking als een verkeersteken.
 
 ### Hoofdstuk 3. Vrijstellingen
 
