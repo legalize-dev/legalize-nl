@@ -4,7 +4,7 @@ identifier: "BWBR0007588"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2010-12-31"
+last_updated: "2011-05-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007588"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 - b. de havens van Termunten, van Delfzijl, van Hefshuizen (Eemshaven) en van Scheveningen;
 
-- c. het Noordzeekanaal, met inbegrip van zijkanaal G tot aan de Zaansluizen, en het IJ;
+- c. het Noordzeekanaal, met inbegrip van zijkanaal G tot aan de Zaansluizen, het IJ en de vaarwegen ten westen van de Noordzeesluizen te IJmuiden;
 
 - d. het IJsselmeer, met inbegrip van het Markermeer en het IJmeer en met uitzondering van de Gouwzee;
 
@@ -80,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 3. Op de bij het eerste lid vermelde vaarwegen, respectievelijk op het Kanaal van Gent naar Terneuzen, met inbegrip van de buitenvoorhavens te Terneuzen, is de in dat lid, respectievelijk in [artikel 19, zesde lid, van het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=19), bedoelde radarinstallatie:
 
-- a. voor elk schip: een radarinstallatie van een type als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007588&artikel=2&z=2010-12-31&g=2010-12-31), of
+- a. voor elk schip: een radarinstallatie van een type als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007588&artikel=2&z=2011-05-25&g=2011-05-25), of
 
 - b. voor een zeeschip: een radarinstallatie van een type, dat door de Minister van Infrastructuur en Milieu is goedgekeurd:
 
@@ -88,7 +88,7 @@ In deze regeling wordt verstaan onder:
 
 - 2e. volgens de keuringseisen voor radarinstallaties, zoals vermeld in de door de Internationale Maritieme Organisatie aangenomen resoluties A.222 (VII) van 12 oktober 1971, A.278 (VIII) van 20 november 1973, A.422 (XI) van 14 januari 1980, A.477 (XII) van 19 november 1981 en A.574 (XIV) van 20 januari 1986.
 
-4. Op de in het eerste lid vermelde vaarwegen en op het Kanaal van Gent naar Terneuzen, met inbegrip van de buitenvoorhavens te Terneuzen, mogen zeeschepen in plaats van met een bochtaanwijzer zoals bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007588&artikel=2&z=2010-12-31&g=2010-12-31), zijn uitgerust met een ander daartoe bruikbaar middel.
+4. Op de in het eerste lid vermelde vaarwegen en op het Kanaal van Gent naar Terneuzen, met inbegrip van de buitenvoorhavens te Terneuzen, mogen zeeschepen in plaats van met een bochtaanwijzer zoals bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007588&artikel=2&z=2011-05-25&g=2011-05-25), zijn uitgerust met een ander daartoe bruikbaar middel.
 
 5. Met een zeeschip worden gelijkgesteld een reddingsvaartuig, een vissersschip en een klein schip dat niet wordt gebezigd voor het bedrijfsmatig vervoer van goederen of personen, zomede een door de Minister van Infrastructuur en Milieu aangewezen schip.
 
@@ -96,15 +96,15 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Veerponten
 
-1. Voor veerponten, die zijn ingericht om in twee richtingen te kunnen varen, geldt als keuringseis, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007588&artikel=2&z=2010-12-31&g=2010-12-31), dat de koerslijn zich voortdurend over de gehele diameter van het scherm van 000 - 180 graden aftekent. Voor deze veerponten is een middelpuntsverschuiving niet vereist.
+1. Voor veerponten, die zijn ingericht om in twee richtingen te kunnen varen, geldt als keuringseis, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007588&artikel=2&z=2011-05-25&g=2011-05-25), dat de koerslijn zich voortdurend over de gehele diameter van het scherm van 000 - 180 graden aftekent. Voor deze veerponten is een middelpuntsverschuiving niet vereist.
 
-2. Niet vrijvarende veerponten mogen zijn uitgerust met een radarinstallatie als bedoeld in [artikel 3, derde lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0007588&artikel=3&z=2010-12-31&g=2010-12-31).
+2. Niet vrijvarende veerponten mogen zijn uitgerust met een radarinstallatie als bedoeld in [artikel 3, derde lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0007588&artikel=3&z=2011-05-25&g=2011-05-25).
 
 ##### Artikel 5. Overgangstermijn
 
-1. Een radarinstallatie van een type, dat volgens de Beschikking vaartuigen met radar (Stcrt. 1980, 209) of het Besluit schepen met Marifoon en Radar (Stcrt. 1984, 75) is goedgekeurd, wordt met ingang van 1 januari 2000 niet meer in een schip ingebouwd en wordt, indien de goedkeuring geschiedde voor 1 januari 1990, geacht tot 1 januari 2010 te zijn goedgekeurd overeenkomstig de in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007588&artikel=2&z=2010-12-31&g=2010-12-31), van deze regeling bedoelde voorschriften.
+1. Een radarinstallatie van een type, dat volgens de Beschikking vaartuigen met radar (Stcrt. 1980, 209) of het Besluit schepen met Marifoon en Radar (Stcrt. 1984, 75) is goedgekeurd, wordt met ingang van 1 januari 2000 niet meer in een schip ingebouwd en wordt, indien de goedkeuring geschiedde voor 1 januari 1990, geacht tot 1 januari 2010 te zijn goedgekeurd overeenkomstig de in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007588&artikel=2&z=2011-05-25&g=2011-05-25), van deze regeling bedoelde voorschriften.
 
-2. Een bochtaanwijzer van een type, dat volgens de Beschikking vaartuigen met radar (Stcrt. 1980, 209) of het Besluit schepen met Marifoon en Radar (Stcrt. 1984, 75) is goedgekeurd, wordt met ingang van 1 januari 2000 niet meer in een schip ingebouwd en wordt, indien de goedkeuring geschiedde voor 1 januari 1990, geacht tot 1 januari 2010 te zijn goedgekeurd overeenkomstig de in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007588&artikel=2&z=2010-12-31&g=2010-12-31), van deze regeling bedoelde voorschriften.
+2. Een bochtaanwijzer van een type, dat volgens de Beschikking vaartuigen met radar (Stcrt. 1980, 209) of het Besluit schepen met Marifoon en Radar (Stcrt. 1984, 75) is goedgekeurd, wordt met ingang van 1 januari 2000 niet meer in een schip ingebouwd en wordt, indien de goedkeuring geschiedde voor 1 januari 1990, geacht tot 1 januari 2010 te zijn goedgekeurd overeenkomstig de in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007588&artikel=2&z=2011-05-25&g=2011-05-25), van deze regeling bedoelde voorschriften.
 
 ##### Artikel 6. Eenmansstuurstelling
 
