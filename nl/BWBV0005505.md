@@ -4,7 +4,7 @@ identifier: "BWBV0005505"
 country: "nl"
 rank: "verdrag"
 publication_date: "2012-08-08"
-last_updated: "1994-05-12"
+last_updated: "2011-05-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005505"
 soort: "verdrag"
@@ -123,17 +123,15 @@ Tenzij het zinsverband anders vereist, hebben in deze Overeenkomst en de Bijlage
 
 1. De door de aangewezen luchtvaartmaatschappij van de Overeenkomstsluitende Partijen in rekening te brengen tarieven voor vervoer tussen hun grondgebieden dienen de tarieven te zijn die zijn goedgekeurd door de luchtvaartautoriteiten van beide Overeenkomstsluitende Partijen, en dienen te zijn vastgesteld op een redelijk niveau, waarbij naar behoren rekening wordt gehouden met alle relevante factoren, waaronder begrepen de exploitatiekosten, een redelijke winst en de tarieven van de andere luchtvaartmaatschappijen die dezelfde route of een deel daarvan exploiteren.
 
-2. De in het eerste lid van dit artikel bedoelde tarieven worden, indien mogelijk, overeengekomen door de aangewezen luchtvaartmaatschappijen door middel van toepassing van de procedures van de Internationale Luchtvervoersvereniging („International Air Transport Association”) voor de vaststelling van tarieven. Wanneer zulks niet mogelijk is, worden de tarieven overeengekomen door de aangewezen luchtvaartmaatschappijen. In elk geval is voor de tarieven de goedkeuring van de luchtvaartautoriteiten van beide Overeenkomstsluitende Partijen vereist.
+2. Vervallen.
 
-3. Alle aldus overeengekomen tarieven worden ten minste vijfenveertig (45) dagen voor de voorgestelde datum van invoering ter goedkeuring voorgelegd aan de luchtvaartautoriteiten van beide Overeenkomstsluitende Partijen, tenzij de bedoelde autoriteiten overeenkomen deze termijn in bijzondere gevallen te bekorten.
+3. Vervallen.
 
-4. De tarieven kunnen uitdrukkelijk worden goedgekeurd of worden, indien geen van beide luchtvaartautoriteiten binnen dertig (30) dagen na de datum van voorlegging overeenkomstig het derde lid van dit artikel te kennen heeft gegeven de tarieven niet goed te keuren, geacht te zijn goedgekeurd.
+4. Vervallen.
 
-Ingeval de termijn van voorlegging wordt bekort, zoals bepaald in het derde lid van dit artikel, kunnen de luchtvaartautoriteiten overeenkomen dat de termijn waarbinnen kennisgeving van afkeuring moet geschieden, dienovereenkomstig wordt bekort.
+5. Vervallen.
 
-5. Indien een tarief niet kan worden overeengekomen overeenkomstig het tweede lid van dit artikel, of indien gedurende de overeenkomstig het vierde lid van dit artikel geldende termijn de ene luchtvaartautoriteit de andere luchtvaartautoriteit te kennen geeft dat zij een overeenkomstig de bepalingen van het tweede lid van dit artikel overeengekomen tarief niet goedkeurt, trachten de luchtvaartautoriteiten van beide Overeenkomstsluitende Partijen het tarief in onderlinge overeenstemming vast te stellen.
-
-6. Indien de luchtvaartautoriteiten geen overeenstemming kunnen bereiken omtrent een overeenkomstig het derde lid van dit artikel aan hen voorgelegd tarief, of omtrent de vaststelling van een tarief krachtens het vijfde lid van dit artikel, wordt het geschil geregeld overeenkomstig de bepalingen van artikel 17 van deze Overeenkomst.
+6. Vervallen.
 
 7. Overeenkomstig de bepalingen van dit artikel vastgestelde tarieven blijven van kracht totdat nieuwe tarieven zijn vastgesteld in overeenstemming met de bepalingen van dit artikel.
 
