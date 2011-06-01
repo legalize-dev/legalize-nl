@@ -4,7 +4,7 @@ identifier: "BWBR0029264"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-12-21"
-last_updated: "2011-05-10"
+last_updated: "2011-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029264"
 soort: "ministeriele-regeling"
@@ -126,7 +126,7 @@ Besluit:
 | 3.26 | Subsidieregeling sterktes in innovatie (civiele vliegtuigontwikkeling) | 10c.2 | Projecten, niet betrekking hebbend op industrieel onderzoek | – | – |
 |   | Subsidieregeling sterktes in innovatie (civiele vliegtuigontwikkeling) | 10c.2 | Projecten, betrekking hebbend op industrieel onderzoek | – | – |
 | 3.27 | Subsidieregeling sterktes in innovatie (technologische topinstituten) | 10d.2 |   | – | – |
-| 3.28 | Subsidieregeling sterktes in innovatie (innovatieve zeescheepsbouw) | 10e.2 |   | – | – |
+| 3.28 | Subsidieregeling sterktes in innovatie (innovatieve zeescheepsbouw) | 10e.2 |   | 15-06 t/m 31-10 | 4.200.000 |
 | 3.29 | Subsidieregeling sterktes in innovatie (prekwalificatie ESA-programma’s) | 10f.2 |   | 10-05 t/m 5-07 | 4.000.000 |
 | 3.30 | Subsidieregeling sterktes in innovatie (strategisch onderzoeksprogramma vliegtuigontwikkeling) | 10g.2 | Onderzoek op motorcomponenten | – | – |
 |   | Subsidieregeling sterktes in innovatie (strategisch onderzoeksprogramma vliegtuigontwikkeling) | 10g.2 | Thermoplasten en composieten, vezel–metaal laminaten, ontwerpmethodieken, toekomstige technologieën, vliegtuigsystemen | – | – |
