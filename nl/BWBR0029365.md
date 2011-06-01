@@ -4,7 +4,7 @@ identifier: "BWBR0029365"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-06-01"
-last_updated: "2011-04-01"
+last_updated: "2011-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029365"
 soort: "ministeriele-regeling"
@@ -50,11 +50,11 @@ Wijzigt de Regeling vaste vergoeding voorzitters Commissie voor bezwaarschriften
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Regeling behandeling bezwaarschriften OCW.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+De [Regeling vaste vergoeding voorzitters Commissie voor bezwaarschriften OCW](https://wetten.overheid.nl/jci1.3:c:BWBR0026035) wordt ingetrokken.
 
 ##### Artikel V
 
@@ -62,10 +62,10 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI
 
-1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met uitzondering van de [artikelen II tot en met IV](https://wetten.overheid.nl/jci1.3:c:BWBR0029365&artikel=II&z=2011-04-01&g=2011-04-01).
+1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met uitzondering van de [artikelen II tot en met IV](https://wetten.overheid.nl/jci1.3:c:BWBR0029365&artikel=II&z=2011-06-01&g=2011-06-01).
 
-2. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0029365&artikel=II&z=2011-04-01&g=2011-04-01) treedt in werking met ingang van 1 april 2011.
+2. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0029365&artikel=II&z=2011-06-01&g=2011-06-01) treedt in werking met ingang van 1 april 2011.
 
-3. De [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0029365&artikel=III&z=2011-04-01&g=2011-04-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0029365&artikel=IV&z=2011-04-01&g=2011-04-01) treden in werking met ingang van 1 juni 2011.
+3. De [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0029365&artikel=III&z=2011-06-01&g=2011-06-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0029365&artikel=IV&z=2011-06-01&g=2011-06-01) treden in werking met ingang van 1 juni 2011.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
