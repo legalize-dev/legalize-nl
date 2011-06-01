@@ -4,7 +4,7 @@ identifier: "BWBR0027867"
 country: "nl"
 rank: "wet"
 publication_date: "2011-12-01"
-last_updated: "2010-07-07"
+last_updated: "2011-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027867"
 soort: "wet"
@@ -74,7 +74,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt deze wet.
 
 ##### Artikel IX
 
