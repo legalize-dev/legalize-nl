@@ -4,7 +4,7 @@ identifier: "BWBR0004490"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-02-01"
-last_updated: "2011-01-01"
+last_updated: "2011-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004490"
 soort: "AMvB"
@@ -142,11 +142,11 @@ Vervallen
 
 ##### Artikel 13
 
-1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst en werkt met uitzondering van de [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=1&z=2011-01-01&g=2011-01-01), en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=4&z=2011-01-01&g=2011-01-01) terug tot en met 1 januari 1983.
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst en werkt met uitzondering van de [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=1&z=2011-01-01&g=2011-06-01), en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=4&z=2011-01-01&g=2011-06-01) terug tot en met 1 januari 1983.
 
-2. [Artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=1&z=2011-01-01&g=2011-01-01), werkt terug tot en met 1 januari 1987.
+2. [Artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=1&z=2011-01-01&g=2011-06-01), werkt terug tot en met 1 januari 1987.
 
-3. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=4&z=2011-01-01&g=2011-01-01) werkt terug tot en met 1 april 1988.
+3. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=4&z=2011-01-01&g=2011-06-01) werkt terug tot en met 1 april 1988.
 
 ##### Artikel 14
 
