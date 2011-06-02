@@ -4,7 +4,7 @@ identifier: "BWBR0026204"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-18"
-last_updated: "2011-01-01"
+last_updated: "2011-06-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026204"
 soort: "AMvB"
@@ -64,7 +64,7 @@ In dit besluit wordt verstaan onder basisbedrag: basisbedrag als bedoeld in [art
 
 ##### Artikel 3
 
-De door de toezichthouder met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2011-01-01&g=2011-01-01) vast te stellen bestuurlijke boete wordt verdubbeld indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding.
+De door de toezichthouder met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2011-06-02&g=2011-06-02) vast te stellen bestuurlijke boete wordt verdubbeld indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding.
 
 ##### Artikel 4
 
@@ -414,9 +414,10 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 4:29, vierde lid | 2 |
 | 4:30a, eerste tot en met derde lid | 2 |
 | 4:31, eerste lid | 2 |
-| 4:32, eerste lid | 2 |
-| 4:33, eerste tot en met derde lid | 2 |
+| 4:32, eerste en tweede lid | 2 |
+| artikel 4:33, eerste lid | 2 |
 | 4:34, eerste en tweede lid | 3 |
+| 4:35 | 3 |
 | 4:39 | 2 |
 | 4:40 | 2 |
 | 4:41 | 2 |
@@ -458,6 +459,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 4:72, eerste lid | 1 |
 | 4:73, eerste lid | 1 |
 | 4:74, eerste lid | 2 |
+| 4:74a | 3 |
 | 4:75, eerste lid | 2 |
 | 4:76, eerste lid | 2 |
 | 4:77, eerste en tweede lid | 2 |
@@ -781,7 +783,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 51a, eerste tot en met zesde lid | 2 |
 | 51a, zevende lid | 3 |
 | 52, eerste tot en met zevende lid |   |
-| 53, eerste tot en met dertiende lid | 2 |
+| 53, eerste tot en met negende en twaalfde en dertiende lid | 2 |
 | 55, eerste en derde lid | 2 |
 | 57, eerste en tweede lid | 2 |
 | 58, eerste tot en met derde lid | 2 |
@@ -802,7 +804,8 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 65, eerste en tweede lid | 2 |
 | 66, eerste tot en met derde lid | 2 |
 | 67, eerste en tweede lid | 2 |
-| 68, eerste tot en met derde lid | 2 |
+| 68, eerste en tweede lid | 2 |
+| 68a | 2 |
 | 69, eerste tot en met zevende lid | 2 |
 | 70, eerste tot en met zevende lid | 2 |
 | 71, eerste en tweede lid | 2 |
@@ -811,9 +814,9 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 73, eerste en tweede lid | 2 |
 | 74 | 2 |
 | 75 | 2 |
-| 77, eerste lid | 2 |
+| 77, eerste, vierde en vijfde lid | 2 |
 | 78, tweede en vierde lid | 2 |
-| 79, eerste en tweede lid | 2 |
+| 79, eerste tot en met vierde lid | 2 |
 | 80 | 2 |
 | 80a, eerste lid | 3 |
 | 80a, tweede en derde lid | 2 |
@@ -847,10 +850,14 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 105 | 1 |
 | 106 | 1 |
 | 110, eerste lid | 2 |
-| 112, eerste, derde en vierde lid | 2 |
+| artikel 112 | 2 |
+| 112a | 2 |
+| 112b | 2 |
+| 112c | 2 |
 | 113, eerste lid | 3 |
-| 114, eerste lid | 3 |
+| 114 | 3 |
 | 115, eerste lid | 3 |
+| 115a | 3 |
 | 116 | 2 |
 | 117 | 2 |
 | 118, eerste en tweede lid | 1 |
