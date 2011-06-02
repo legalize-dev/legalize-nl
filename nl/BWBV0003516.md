@@ -4,7 +4,7 @@ identifier: "BWBV0003516"
 country: "nl"
 rank: "verdrag"
 publication_date: "2011-06-02"
-last_updated: "2009-09-10"
+last_updated: "2011-06-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003516"
 soort: "verdrag"
@@ -78,15 +78,15 @@ Zijn de verdragsluitende partijen thans het volgende overeengekomen:
 
 ##### Artikel 4. Vermijden van dubbele belasting
 
-1. Indien een lichaam dat inwoner is van Zweden inkomen verkrijgt dat is toe te rekenen aan een vaste inrichting op Aruba en dat ingevolge de wetgeving van Aruba op Aruba mag worden belast, verleent Zweden – met inachtneming van de bepalingen van de wetgeving van Zweden inzake de verrekening van buitenlandse belasting (die van tijd tot tijd kunnen worden gewijzigd, waarbij het algemene beginsel ervan evenwel onverlet blijft) een aftrek van de belasting naar dat inkomen die gelijk is aan het bedrag van de ter zake van dat inkomen betaalde Arubaanse belasting. Onder de uitdrukking „betaalde Arubaanse belasting” wordt mede verstaan de Arubaanse belasting die zou moeten worden betaald, maar ingevolge een aan een termijn gebonden aftrek of vrijstelling van belasting uit hoofde van in de wetgeving van Aruba vervatte bepalingen ter bevordering van de economische ontwikkeling niet is betaald, voor zover deze aftrek of vrijstelling is verleend voor inkomen verkregen uit de activiteiten genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003516&artikel=5&z=2009-09-10&g=2009-09-10) en mits de activiteiten zijn verricht op Aruba.
+1. Indien een lichaam dat inwoner is van Zweden inkomen verkrijgt dat is toe te rekenen aan een vaste inrichting op Aruba en dat ingevolge de wetgeving van Aruba op Aruba mag worden belast, verleent Zweden – met inachtneming van de bepalingen van de wetgeving van Zweden inzake de verrekening van buitenlandse belasting (die van tijd tot tijd kunnen worden gewijzigd, waarbij het algemene beginsel ervan evenwel onverlet blijft) een aftrek van de belasting naar dat inkomen die gelijk is aan het bedrag van de ter zake van dat inkomen betaalde Arubaanse belasting. Onder de uitdrukking „betaalde Arubaanse belasting” wordt mede verstaan de Arubaanse belasting die zou moeten worden betaald, maar ingevolge een aan een termijn gebonden aftrek of vrijstelling van belasting uit hoofde van in de wetgeving van Aruba vervatte bepalingen ter bevordering van de economische ontwikkeling niet is betaald, voor zover deze aftrek of vrijstelling is verleend voor inkomen verkregen uit de activiteiten genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003516&artikel=5&z=2011-06-02&g=2011-06-02) en mits de activiteiten zijn verricht op Aruba.
 
-2. Indien een lichaam dat inwoner is van Zweden onmiddellijk aandelen bezit die honderd percent vertegenwoordigen van het aantal stemmen in een lichaam dat inwoner is van Aruba, stelt Zweden door het laatstgenoemde lichaam uitgekeerde dividenden vrij van belasting, voor zover de dividenden uit hoofde van het Zweedse recht zouden zijn vrijgesteld indien beide lichamen Zweeds zouden zijn geweest, mits de voordelen van het laatstgenoemde lichaam worden verkregen uit activiteiten genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003516&artikel=5&z=2009-09-10&g=2009-09-10) en mits de activiteiten zijn verricht op Aruba.
+2. Indien een lichaam dat inwoner is van Zweden onmiddellijk aandelen bezit die honderd percent vertegenwoordigen van het aantal stemmen in een lichaam dat inwoner is van Aruba, stelt Zweden door het laatstgenoemde lichaam uitgekeerde dividenden vrij van belasting, voor zover de dividenden uit hoofde van het Zweedse recht zouden zijn vrijgesteld indien beide lichamen Zweeds zouden zijn geweest, mits de voordelen van het laatstgenoemde lichaam worden verkregen uit activiteiten genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003516&artikel=5&z=2011-06-02&g=2011-06-02) en mits de activiteiten zijn verricht op Aruba.
 
 3. Het bepaalde in de tweede volzin van het eerste lid en van het tweede lid is uitsluitend van toepassing gedurende de eerste tien jaar waarin dit Verdrag van kracht is. Dit tijdvak kan in onderling overleg tussen de bevoegde autoriteiten worden verlengd.
 
 ##### Artikel 5. Activiteiten waarop dit Verdrag van toepassing is
 
-1. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003516&artikel=4&z=2009-09-10&g=2009-09-10) is van toepassing op de volgende activiteiten (met uitzondering van financiële activiteiten anders dan financiële activiteiten die rechtstreeks verband houden met de genoemde activiteiten en daaraan ondergeschikt zijn):
+1. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003516&artikel=4&z=2011-06-02&g=2011-06-02) is van toepassing op de volgende activiteiten (met uitzondering van financiële activiteiten anders dan financiële activiteiten die rechtstreeks verband houden met de genoemde activiteiten en daaraan ondergeschikt zijn):
 
 - a. industriële en productieactiviteiten, met inbegrip van assemblagewerkzaamheden;
 
