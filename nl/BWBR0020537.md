@@ -4,7 +4,7 @@ identifier: "BWBR0020537"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-25"
-last_updated: "2010-01-01"
+last_updated: "2011-06-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020537"
 soort: "ministeriele-regeling"
@@ -72,7 +72,7 @@ n: de looptijd, uitgedrukt in het aantal betalingstermijnen.
 
 ##### Artikel 5
 
-Voor overeenkomsten inzake consumptief krediet waarbij gedurende de looptijd de betalingstermijn wel, doch het termijnbedrag niet gelijk blijft, en waarop [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2010-01-01&g=2010-01-01), niet van toepassing is, wordt het effectief kredietvergoedingspercentage berekend als volgt:
+Voor overeenkomsten inzake consumptief krediet waarbij gedurende de looptijd de betalingstermijn wel, doch het termijnbedrag niet gelijk blijft, en waarop [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2010-01-01&g=2011-06-02), niet van toepassing is, wordt het effectief kredietvergoedingspercentage berekend als volgt:
 
 waarbij de waarde van **im** wordt berekend met de volgende formule:
 
@@ -94,7 +94,7 @@ Tt: het termijnbedrag met volgnummer t.
 
 ##### Artikel 6
 
-Voor overeenkomsten inzake consumptief krediet waarbij de betalingstermijn gedurende de looptijd niet gelijk blijft en waarop [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2010-01-01&g=2010-01-01), niet van toepassing is, wordt het effectief kredietvergoedingspercentage berekend als volgt:
+Voor overeenkomsten inzake consumptief krediet waarbij de betalingstermijn gedurende de looptijd niet gelijk blijft en waarop [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2010-01-01&g=2011-06-02), niet van toepassing is, wordt het effectief kredietvergoedingspercentage berekend als volgt:
 
 waarbij de waarde van **i** wordt berekend met de volgende formule:
 
@@ -116,7 +116,7 @@ tk: het tijdvak dat ligt tussen het tijdstip waarop de kredietsom ter beschikkin
 
 ##### Artikel 7
 
-In afwijking van de [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2010-01-01&g=2010-01-01) wordt bij overeenkomsten inzake consumptief krediet waarbij de kredietsom in bij het aangaan van de overeenkomst vastgestelde tranches ter beschikking wordt gesteld op bij het aangaan van de overeenkomst overeengekomen tijdstippen het effectief kredietvergoedingspercentage berekend als volgt:
+In afwijking van de [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2010-01-01&g=2011-06-02) wordt bij overeenkomsten inzake consumptief krediet waarbij de kredietsom in bij het aangaan van de overeenkomst vastgestelde tranches ter beschikking wordt gesteld op bij het aangaan van de overeenkomst overeengekomen tijdstippen het effectief kredietvergoedingspercentage berekend als volgt:
 
 waarbij de waarde van **i** wordt berekend met de volgende formule:
 
@@ -216,13 +216,13 @@ looptijd: theoretische looptijd.
 
 ##### Artikel 2
 
-1. Bij de in de [paragrafen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=2&paragraaf=2.2&z=2010-01-01&g=2010-01-01) en [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=2&paragraaf=2.3&z=2010-01-01&g=2010-01-01) geregelde berekeningen wordt ervan uitgegaan dat:
+1. Bij de in de [paragrafen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=2&paragraaf=2.2&z=2010-01-01&g=2011-06-02) en [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=2&paragraaf=2.3&z=2010-01-01&g=2011-06-02) geregelde berekeningen wordt ervan uitgegaan dat:
 
 - a. de overeenkomst inzake krediet overeenkomstig de bij het aangaan daarvan vastgestelde hoogte van de termijnbedragen en lengte en aantal van de betalingstermijnen wordt afgewikkeld; en
 
 - b. de kredietvergoeding gedurende de looptijd van de overeenkomst gelijk blijft, tenzij bij het aangaan van de overeenkomst is vastgesteld wanneer de kredietvergoeding zal wijzigen en wat de hoogte van de kredietvergoeding door die wijziging zal worden.
 
-2. Bij de in [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=2&paragraaf=2.2&z=2010-01-01&g=2010-01-01) geregelde berekeningen wordt er, voorzover het overeenkomsten inzake doorlopend krediet betreft, van uitgegaan dat:
+2. Bij de in [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=2&paragraaf=2.2&z=2010-01-01&g=2011-06-02) geregelde berekeningen wordt er, voorzover het overeenkomsten inzake doorlopend krediet betreft, van uitgegaan dat:
 
 - a. het uitstaand saldo op het tijdstip waarop door de aanbieder de geldsom ter beschikking wordt gesteld of met het verschaffen van het genot van de zaak of het verlenen van de dienst een aanvang wordt gemaakt, gelijk is aan de kredietlimiet; en
 
@@ -348,17 +348,17 @@ De dekking van de beroepsaansprakelijkheidsverzekering of de daarmee vergelijkba
 
 ##### Artikel 16
 
-Het model van de volmacht, bedoeld in [artikel 4:79, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79), wordt vastgesteld conform [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=A&z=2010-01-01&g=2010-01-01).
+Het model van de volmacht, bedoeld in [artikel 4:79, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79), wordt vastgesteld conform [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=A&z=2010-01-01&g=2011-06-02).
 
 ##### Artikel 17
 
-Het model van de ondervolmacht, bedoeld in [artikel 4:79, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79), wordt vastgesteld conform [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=B&z=2010-01-01&g=2010-01-01).
+Het model van de ondervolmacht, bedoeld in [artikel 4:79, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79), wordt vastgesteld conform [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=B&z=2010-01-01&g=2011-06-02).
 
 ##### Artikel 18
 
-1. Een volmacht of ondervolmacht, opgemaakt voor 1 januari 2006 overeenkomstig het voorafgaand aan die datum voorgeschreven model ingevolge de [Wet assurantiebemiddelingsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0004993), wordt geacht te zijn opgemaakt overeenkomstig het model, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2010-01-01&g=2010-01-01) onderscheidenlijk [17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2010-01-01&g=2010-01-01).
+1. Een volmacht of ondervolmacht, opgemaakt voor 1 januari 2006 overeenkomstig het voorafgaand aan die datum voorgeschreven model ingevolge de [Wet assurantiebemiddelingsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0004993), wordt geacht te zijn opgemaakt overeenkomstig het model, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2010-01-01&g=2011-06-02) onderscheidenlijk [17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2010-01-01&g=2011-06-02).
 
-2. Een volmacht of ondervolmacht, opgemaakt tussen 1 januari 2006 en 1 januari 2007 overeenkomstig het voorafgaand aan laatstgenoemde datum voorgeschreven model ingevolge het [Besluit financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0019283), wordt geacht te zijn opgemaakt overeenkomstig het model, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2010-01-01&g=2010-01-01) onderscheidenlijk [17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2010-01-01&g=2010-01-01).
+2. Een volmacht of ondervolmacht, opgemaakt tussen 1 januari 2006 en 1 januari 2007 overeenkomstig het voorafgaand aan laatstgenoemde datum voorgeschreven model ingevolge het [Besluit financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0019283), wordt geacht te zijn opgemaakt overeenkomstig het model, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2010-01-01&g=2011-06-02) onderscheidenlijk [17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2010-01-01&g=2011-06-02).
 
 ### Hoofdstuk 8. Houder van een gereglementeerde markt
 
@@ -502,7 +502,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. Een uitgevende bank gaat slechts over tot verdere uitgifte in het kader van een aanbiedingsprogramma van gedekte obligaties die zijn geregistreerd overeenkomstig [artikel 124b van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=124b) als zij heeft geconstateerd dat wordt voldaan aan de voor registratie gestelde voorschriften.
 
-2. Indien de totale nominale waarde van de gedekte obligaties uitstijgt boven de verhouding, bedoeld in [artikel 20a, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=9a&artikel=20a&z=2010-01-01&g=2010-01-01), ten opzichte van het geconsolideerde balanstotaal van de uitgevende bank, toont de uitgevende bank voordat verdere uitgifte plaatsvindt aan de Nederlandsche Bank aan dat sprake blijft van een gezonde verhouding als bedoeld in dat onderdeel.
+2. Indien de totale nominale waarde van de gedekte obligaties uitstijgt boven de verhouding, bedoeld in [artikel 20a, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=9a&artikel=20a&z=2010-01-01&g=2011-06-02), ten opzichte van het geconsolideerde balanstotaal van de uitgevende bank, toont de uitgevende bank voordat verdere uitgifte plaatsvindt aan de Nederlandsche Bank aan dat sprake blijft van een gezonde verhouding als bedoeld in dat onderdeel.
 
 ##### Artikel 20c
 
@@ -510,13 +510,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - a. toont ten minste een maal per kwartaal aan de Nederlandsche Bank aan dat de gedekte obligaties voldoen aan de voor registratie gestelde voorwaarden, door aan de Nederlandsche Bank rapportages over de activa te verstrekken en toe te lichten, en
 
-- b. toont ten minste jaarlijks aan de Nederlandsche Bank aan dat de bank voldoet aan het bepaalde in [artikel 20a, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=9a&artikel=20a&z=2010-01-01&g=2010-01-01).
+- b. toont ten minste jaarlijks aan de Nederlandsche Bank aan dat de bank voldoet aan het bepaalde in [artikel 20a, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=9a&artikel=20a&z=2010-01-01&g=2011-06-02).
 
 2. De uitgevende bank verstrekt aan de Nederlandsche Bank binnen zes maanden na afloop van het boekjaar de jaarrekening en het jaarverslag van de rechtspersoon waarnaar de activa overeenkomstig het [Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420) zijn overgegaan. De documenten zijn opgemaakt in overeenstemming met Titel 2 van Boek 9 van het Burgerlijk Wetboek, de internationale jaarrekeningstandaarden, dan wel volgens het recht van de staat waar de rechtspersoon haar zetel heeft. Indien de rechtspersoon haar zetel in Nederland heeft, vermeldt zij daarbij of de jaarrekening al dan niet is vastgesteld en goedgekeurd in overeenstemming met haar statuten of oprichtingsakte.
 
 3. De uitgevende bank doet onverwijld mededeling aan de Nederlandsche Bank indien gedurende de looptijd van de gedekte obligaties:
 
-- a. wijzigingen optreden ten opzichte van de gegevens en bescheiden waarop de juridische opinie bedoeld in [artikel 20a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=9a&artikel=20a&z=2010-01-01&g=2010-01-01), was gebaseerd of ten opzichte van de schriftelijke bescheiden, bedoeld in [artikel 20a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=9a&artikel=20a&z=2010-01-01&g=2010-01-01), die tot gevolg hebben dat de uitstaande gedekte obligaties niet meer voldoen of zullen voldoen aan de voor registratie gestelde voorschriften, of
+- a. wijzigingen optreden ten opzichte van de gegevens en bescheiden waarop de juridische opinie bedoeld in [artikel 20a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=9a&artikel=20a&z=2010-01-01&g=2011-06-02), was gebaseerd of ten opzichte van de schriftelijke bescheiden, bedoeld in [artikel 20a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=9a&artikel=20a&z=2010-01-01&g=2011-06-02), die tot gevolg hebben dat de uitstaande gedekte obligaties niet meer voldoen of zullen voldoen aan de voor registratie gestelde voorschriften, of
 
 - b. significante wijzigingen worden aangebracht in een aanbiedingsprogramma of in de voorwaarden met betrekking tot de gedekte obligaties.
 
@@ -568,7 +568,7 @@ Het minimumbedrag aan solvabiliteitsmarge van verzekeraars als bedoeld in [artik
 
 ### Hoofdstuk 12. Slotbepalingen
 
-## Bijlage A. behorend bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2010-01-01&g=2010-01-01)
+## Bijlage A. behorend bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2010-01-01&g=2011-06-02)
 
 ### **Volmacht**
 
@@ -582,13 +582,13 @@ Om in Nederland, in naam van de ondergetekende – binnen de perken van haar/zij
 
 ### **Paragraaf II**
 
-Deze volmacht houdt, behoudens via een ondervolmacht opgemaakt overeenkomstig [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=B&z=2010-01-01&g=2010-01-01) bij de Uitvoeringsregeling Wft, niet in de bevoegdheid van de gevolmachtigde om aan derden ondervolmacht te verlenen.
+Deze volmacht houdt, behoudens via een ondervolmacht opgemaakt overeenkomstig [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=B&z=2010-01-01&g=2011-06-02) bij de Uitvoeringsregeling Wft, niet in de bevoegdheid van de gevolmachtigde om aan derden ondervolmacht te verlenen.
 
 ### **Paragraaf III**
 
 ### **Toepasselijk recht**
 
-## Bijlage B. behorend bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2010-01-01&g=2010-01-01)
+## Bijlage B. behorend bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2010-01-01&g=2011-06-02)
 
 verklaart hierbij ondervolmacht te verlenen aan ….
 
