@@ -4,7 +4,7 @@ identifier: "BWBR0028246"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2019-01-01"
-last_updated: "2010-10-10"
+last_updated: "2011-06-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028246"
 soort: "wet-BES"
@@ -47,7 +47,9 @@ entry_into_force: "2010-10-10"
 
 - c. **Fonds:** het Internationaal Fonds voor vergoeding van schade door verontreiniging door olie, bedoeld in artikel 2 van het Verdrag;
 
-- d. **Aansprakelijkheidsverdrag 1992:** het op 27 november 1992 te Londen tot stand gekomen Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1992 (Trb. 1994, 229).
+- d. **Aansprakelijkheidsverdrag 1992:** het op 27 november 1992 te Londen tot stand gekomen Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1992 (Trb. 1994, 229);
+
+- e. **‘Aanvullend Fonds’**: het Internationaal Aanvullend Fonds voor de vergoeding van schade door verontreiniging door olie, bedoeld in artikel 2 van het op 16 mei 2003 te Londen tot stand gekomen Protocol bij het Internationaal Verdrag betreffende de instelling van een Internationaal Fonds voor vergoeding van schade door verontreiniging door olie, 1992 (Trb. 2004, 196).
 
 2. In het bepaalde bij of krachtens deze wet wordt onder schip, persoon, eigenaar, bijdragende olie, ton en garant verstaan hetgeen daaronder wordt verstaan in artikel 1 van het Verdrag.
 
@@ -105,13 +107,13 @@ Zonodig verschaffen zij zich de toegang tot een plaats als bedoeld in onderdeel 
 
 ##### Artikel 7
 
-1. Een ieder is verplicht aan de krachtens [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028246&hoofdstuk=3&artikel=6&z=2010-10-10&g=2010-10-10), aangewezen personen alle medewerking te verlenen, die redelijkerwijs voor de uitoefening van de hun bij dat artikel verleende bevoegdheden nodig is.
+1. Een ieder is verplicht aan de krachtens [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028246&hoofdstuk=3&artikel=6&z=2011-06-03&g=2011-06-03), aangewezen personen alle medewerking te verlenen, die redelijkerwijs voor de uitoefening van de hun bij dat artikel verleende bevoegdheden nodig is.
 
 2. Zij die uit hoofde van hun stand, beroep of ambt tot geheimhouding verplicht zijn, kunnen het verlenen van medewerking weigeren voor zover hun plicht tot geheimhouding zich daartoe uitstrekt.
 
 ##### Artikel 8
 
-Onverminderd [artikel 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028246&hoofdstuk=3&artikel=5&z=2010-10-10&g=2010-10-10), wordt informatie die is verkregen op grond van deze wet, voor zover deze betrekking heeft op bepaalde personen dan wel daaruit gevolgtrekkingen ten aanzien van bepaalde personen kunnen worden gemaakt, zonder toestemming van die personen niet verstrekt aan anderen dan degenen, die belast zijn met de uitvoering van één of meer bepalingen van deze wet.
+Onverminderd [artikel 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028246&hoofdstuk=3&artikel=5&z=2011-06-03&g=2011-06-03), wordt informatie die is verkregen op grond van deze wet, voor zover deze betrekking heeft op bepaalde personen dan wel daaruit gevolgtrekkingen ten aanzien van bepaalde personen kunnen worden gemaakt, zonder toestemming van die personen niet verstrekt aan anderen dan degenen, die belast zijn met de uitvoering van één of meer bepalingen van deze wet.
 
 ### Hoofdstuk 4
 
@@ -129,7 +131,7 @@ Een ieder die betrokken is bij de uitvoering van deze wet en daarbij de beschikk
 
 ##### Artikel 11
 
-1. Handelen in strijd met het bepaalde bij of krachtens [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028246&hoofdstuk=3&artikel=5&z=2010-10-10&g=2010-10-10), [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028246&hoofdstuk=3&artikel=7&z=2010-10-10&g=2010-10-10) of [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028246&hoofdstuk=5&artikel=10&z=2010-10-10&g=2010-10-10), wordt gestraft met hechtenis van ten hoogste zes maanden en geldboete van ten hoogste USD 56.000,–, hetzij met één van deze straffen.
+1. Handelen in strijd met het bepaalde bij of krachtens [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028246&hoofdstuk=3&artikel=5&z=2011-06-03&g=2011-06-03), [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028246&hoofdstuk=3&artikel=7&z=2011-06-03&g=2011-06-03) of [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028246&hoofdstuk=5&artikel=10&z=2011-06-03&g=2011-06-03), wordt gestraft met hechtenis van ten hoogste zes maanden en geldboete van ten hoogste USD 56.000,–, hetzij met één van deze straffen.
 
 2. De in het eerste lid genoemde strafbare feiten zijn overtredingen.
 
