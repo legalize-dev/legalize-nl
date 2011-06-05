@@ -4,7 +4,7 @@ identifier: "BWBV0003063"
 country: "nl"
 rank: "verdrag"
 publication_date: "2011-06-05"
-last_updated: "2008-02-20"
+last_updated: "2011-06-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003063"
 soort: "verdrag"
@@ -122,11 +122,11 @@ De procedure gebruikt voor het aanvullen of wijzigen van de digitale vrachtbrief
 
 5. Bekrachtiging of toetreding geschiedt door nederlegging van een akte bij de Secretaris-Generaal van de Verenigde Naties.
 
-6. Elke akte van bekrachtiging of toetreding die is nedergelegd na de inwerkingtreding van een wijziging van dit Protocol, die is aangenomen in overeenstemming met de bepalingen van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0003063&artikel=13&z=2008-02-20&g=2008-02-20), wordt geacht van toepassing te zijn op het Protocol zoals gewijzigd bij de wijziging.
+6. Elke akte van bekrachtiging of toetreding die is nedergelegd na de inwerkingtreding van een wijziging van dit Protocol, die is aangenomen in overeenstemming met de bepalingen van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0003063&artikel=13&z=2011-06-05&g=2011-06-05), wordt geacht van toepassing te zijn op het Protocol zoals gewijzigd bij de wijziging.
 
 ##### Artikel 8. Inwerkingtreding
 
-1. Dit Protocol treedt in werking negentig dagen na de datum waarop vijf van de Staten bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003063&artikel=7&z=2008-02-20&g=2008-02-20), van dit Protocol hun akten van bekrachtiging of toetreding hebben nedergelegd.
+1. Dit Protocol treedt in werking negentig dagen na de datum waarop vijf van de Staten bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003063&artikel=7&z=2011-06-05&g=2011-06-05), van dit Protocol hun akten van bekrachtiging of toetreding hebben nedergelegd.
 
 2. Voor elke Staat die het Protocol bekrachtigt of ertoe toetreedt nadat vijf Staten hun akten van bekrachtiging of toetreding hebben nedergelegd, treedt het in werking negentig dagen na de datum waarop deze Staat zijn akte van bekrachtiging of toetreding heeft nedergelegd.
 
@@ -148,7 +148,7 @@ Geschillen tussen twee of meer Partijen met betrekking tot de uitlegging of toep
 
 ##### Artikel 12. Voorbehouden
 
-1. Elke Staat kan bij de ondertekening of bekrachtiging van of toetreding tot dit Protocol door middel van een kennisgeving gericht aan de Secretaris-Generaal van de Verenigde Naties verklaren zich niet gebonden te achten door [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003063&artikel=11&z=2008-02-20&g=2008-02-20) van dit Protocol. Andere Partijen zijn jegens Partijen die een dergelijk voorbehoud hebben gemaakt niet gebonden door [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003063&artikel=11&z=2008-02-20&g=2008-02-20) van dit Protocol.
+1. Elke Staat kan bij de ondertekening of bekrachtiging van of toetreding tot dit Protocol door middel van een kennisgeving gericht aan de Secretaris-Generaal van de Verenigde Naties verklaren zich niet gebonden te achten door [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003063&artikel=11&z=2011-06-05&g=2011-06-05) van dit Protocol. Andere Partijen zijn jegens Partijen die een dergelijk voorbehoud hebben gemaakt niet gebonden door [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003063&artikel=11&z=2011-06-05&g=2011-06-05) van dit Protocol.
 
 2. De verklaring bedoeld in het eerste lid van dit artikel kan te allen tijde door middel van een kennisgeving gericht aan de Secretaris-Generaal van de Verenigde Naties worden ingetrokken.
 
@@ -178,24 +178,24 @@ Geschillen tussen twee of meer Partijen met betrekking tot de uitlegging of toep
 
 2. Indien in overeenstemming met het vorige lid een conferentie bijeen wordt geroepen, stelt de Secretaris-Generaal alle Partijen daarvan in kennis en nodigt hen uit binnen een tijdvak van drie maanden voorstellen in te dienen die zij de conferentie ter bestudering wensen voor te leggen. De Secretaris-Generaal doet alle Partijen ten minste drie maanden voor de datum waarop de conferentie moet plaatsvinden, de voorlopige agenda voor de conferentie toekomen tezamen met de teksten van deze voorstellen.
 
-3. De Secretaris-Generaal nodigt alle Staten bedoeld in [artikel 7, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003063&artikel=7&z=2008-02-20&g=2008-02-20), van dit Protocol uit voor elke conferentie die bijeengeroepen wordt.
+3. De Secretaris-Generaal nodigt alle Staten bedoeld in [artikel 7, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003063&artikel=7&z=2011-06-05&g=2011-06-05), van dit Protocol uit voor elke conferentie die bijeengeroepen wordt.
 
 ##### Artikel 15. Kennisgevingen aan Staten
 
-Naast de kennisgevingen voorzien in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBV0003063&artikel=13&z=2008-02-20&g=2008-02-20) en [14](https://wetten.overheid.nl/jci1.3:c:BWBV0003063&artikel=14&z=2008-02-20&g=2008-02-20) stelt de Secretaris-Generaal van de Verenigde Naties de Staten bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003063&artikel=7&z=2008-02-20&g=2008-02-20), van dit Protocol en de Staten die in overeenstemming met [artikel 7, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003063&artikel=7&z=2008-02-20&g=2008-02-20), Partij zijn geworden bij dit Protocol in kennis van:
+Naast de kennisgevingen voorzien in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBV0003063&artikel=13&z=2011-06-05&g=2011-06-05) en [14](https://wetten.overheid.nl/jci1.3:c:BWBV0003063&artikel=14&z=2011-06-05&g=2011-06-05) stelt de Secretaris-Generaal van de Verenigde Naties de Staten bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003063&artikel=7&z=2011-06-05&g=2011-06-05), van dit Protocol en de Staten die in overeenstemming met [artikel 7, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003063&artikel=7&z=2011-06-05&g=2011-06-05), Partij zijn geworden bij dit Protocol in kennis van:
 
-- a. bekrachtigingen en toetredingen uit hoofde van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003063&artikel=7&z=2008-02-20&g=2008-02-20);
+- a. bekrachtigingen en toetredingen uit hoofde van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003063&artikel=7&z=2011-06-05&g=2011-06-05);
 
-- b. de data van inwerkingtreding van dit Protocol in overeenstemming met [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003063&artikel=8&z=2008-02-20&g=2008-02-20);
+- b. de data van inwerkingtreding van dit Protocol in overeenstemming met [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003063&artikel=8&z=2011-06-05&g=2011-06-05);
 
-- c. opzeggingen uit hoofde van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0003063&artikel=9&z=2008-02-20&g=2008-02-20);
+- c. opzeggingen uit hoofde van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0003063&artikel=9&z=2011-06-05&g=2011-06-05);
 
-- d. de beëindiging van dit Protocol in overeenstemming met [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003063&artikel=10&z=2008-02-20&g=2008-02-20);
+- d. de beëindiging van dit Protocol in overeenstemming met [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003063&artikel=10&z=2011-06-05&g=2011-06-05);
 
-- e. verklaringen en kennisgevingen ontvangen in overeenstemming met [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003063&artikel=12&z=2008-02-20&g=2008-02-20).
+- e. verklaringen en kennisgevingen ontvangen in overeenstemming met [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003063&artikel=12&z=2011-06-05&g=2011-06-05).
 
 ##### Artikel 16. Depositaris
 
-Het oorspronkelijke exemplaar van dit Protocol wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die eensluidende gewaarmerkte afschriften ervan doet toekomen aan alle Staten bedoeld in [artikel 7, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003063&artikel=7&z=2008-02-20&g=2008-02-20), van dit Protocol.
+Het oorspronkelijke exemplaar van dit Protocol wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die eensluidende gewaarmerkte afschriften ervan doet toekomen aan alle Staten bedoeld in [artikel 7, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003063&artikel=7&z=2011-06-05&g=2011-06-05), van dit Protocol.
 
 DONE at Geneva, this twentieth day of February two thousand and eight, in a single copy in the English and French languages, each text being equally authentic.
