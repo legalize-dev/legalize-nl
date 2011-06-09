@@ -4,7 +4,7 @@ identifier: "BWBV0006309"
 country: "nl"
 rank: "verdrag"
 publication_date: "2014-01-01"
-last_updated: "2009-07-16"
+last_updated: "2011-06-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006309"
 soort: "verdrag"
@@ -50,19 +50,19 @@ adopt this Constitution, subject to ratification.
 
 ##### Article 1. Mission of the Union
 
-1. The mission of the Union shall be to integrate the common objectives of the member countries or territories regarding matters that promote the modernization of basic postal services, through the execution of individual and collective projects that will guarantee territorial integration, the continuous improvement of quality and the development and modernization of administrative, operational and legal processes.
+The mission of the Union shall be to strengthen by means of international cooperation the regional integration of the postal sector, and to ensure high-quality postal services for all persons, and the reform and modernization of the sector, in a manner that promotes sustainable development.
 
-##### Article 2. Objectives of the Union
+##### Article 2. Aims of the Union
 
-The Union shall have the following objectives:
+The Union shall have the following aims:
 
-- a). To promote the provision of universal postal service and the development of the postal sector in the region, by reforming it in the member countries or territories, transforming and modernizing its organizations and training its human resources;
+- a). To promote the provision of a universal postal service and the development of the postal sector in the region, by reforming it in the member countries or territories, transforming and modernizing its organizations and training its human resources;
 
 - b). To coordinate and promote efficient cooperation for postal development in the member countries or territories;
 
 - c). To coordinate and promote the exchange of information and knowledge in the operational, regulatory and governmental spheres;
 
-- d). To improve the quality of service and the interconnection and security of the networks, by promoting and applying information and communications technology that will allow a measurement of the performance of postal services as well as greater reliability in the exchange of data among member countries or territories, and thus help satisfy the needs of users and customers;
+- d). To improve the quality of service and the interconnection and security of the networks, by promoting and applying information and communications technology that will allow measurement of the performance of postal services as well as greater reliability in the exchange of data among member countries or territories, and thus help satisfy the needs of users and customers;
 
 - e). To guarantee the integration of its actions and strategies within the framework of the World Postal Strategy adopted by the Universal Postal Union (“UPU”), favouring interaction, coordination and communication with that organization, other Restricted Unions, other international organizations and other parties associated with the postal sector.
 
@@ -110,13 +110,13 @@ All member countries or territories shall grant the Union the legal capacity to 
 
 ### CHAPTER II. ACCESSION OR ADMISSION TO AND WITHDRAWAL FROM THE UNION
 
-##### Article 10. Accession or Admission to the Union
+##### Article 10. Privileges and Immunities
 
-1. Any American mainland or island nation or territory with membership status in the Universal Postal Union may accede to the Union provided it has no sovereignty dispute with any member country or territory.
+1. The Union shall enjoy, in the territory of each of its member countries or territories, the privileges and immunities necessary for the fulfilment of its mission.
 
-2. Any sovereign American nation which is not a member of the Universal Postal Union may apply for admission to the Postal Union of the Americas, Spain and Portugal.
+2. The representatives of the member countries or territories who compose the delegations to the meetings of the Union’s bodies, or who carry out its official business, shall also enjoy the privileges and immunities necessary to carrying out these activities.
 
-3. Instruments of accession or applications for admission to the Union must include a formal declaration of accession to the Constitution and other binding Union provisions.
+3. The staff of the General Secretariat of the Union shall also enjoy these prerogatives while they are engaged in official business.
 
 ##### Article 11. Withdrawal from the Union
 
@@ -164,13 +164,13 @@ The Conference of representatives of member countries or territories will meet a
 
 ##### Article 16. Consultative and Executive Council
 
-1. The Consultative and Executive Council shall ensure the continuity of Union work during the intervals between Congresses and shall conduct studies and issue opinions on matters of interest to or affecting postal service. It shall also supervise and monitor General Secretariat activities.
+1. The Council shall ensure the continuity of Union work during the intervals between Congresses by applying the General Secretariat’s annual action plan and giving priority to the courses of action it lays down, in accordance with the strategy adopted by the Congress, and shall conduct studies and issue opinions on matters of interest to or connected with postal service. It shall also supervise and monitor General Secretariat activities.
 
 2. Members of the Council shall discharge their functions in the name and interests of the Union.
 
 ##### Article 17. General Secretariat
 
-1. The General Secretariat, under the control of the Council, is the permanent body for the work of the Union in implementing its policies and the liaison between its members. It shall serve as the Secretary of the Congress, the Council and its Management Committee, and of the working groups, which it shall assist in discharging its functions.
+1. The General Secretariat, under the control of the Council, is the permanent body for the work of the Union in implementing its strategic plan, as well as liaison between its members. It shall serve as the Secretary of the Congress, the Council and its Management Committee, and of the working groups, which it shall assist in discharging its functions.
 
 2. The General Secretariat shall be based at Union headquarters and shall be directed by a Secretary General, under the general supervision of the Eastern Republic of Uruguay.
 
@@ -188,17 +188,17 @@ The Conference of representatives of member countries or territories will meet a
 
 ##### Article 19. Resolutions and Recommendations of the Congress
 
-1. Resolutions
+Resolutions
 
-Resolutions shall express the will of the Congress and shall relate to the activity of the Union or certain aspects of the provision of postal services in the region.
+1. Resolutions shall express the will of the Congress and shall relate to the strategy or activities of the Union or certain aspects of the provision of postal services in the region.
 
 Any Resolution containing an order shall be binding, and shall establish, as applicable, the period in which it shall be in effect or within which it should be implemented.
 
 The Resolutions shall be appended to the Union Acts.
 
-2. Recommendations
+Recommendations
 
-The Recommendations shall state the opinion of the Congress with respect to initiatives or best practices considered advisable for the development of postal services in the member countries or territories, which they shall apply to the extent possible.
+2. The Recommendations shall state the opinion of the Congress with respect to initiatives or practical improvements considered advisable for the development of postal services in the member countries or territories, which they shall apply to the extent possible.
 
 The Recommendations shall be appended to the Union Acts.
 
@@ -214,17 +214,17 @@ The Recommendations shall be appended to the Union Acts.
 
 ### CHAPTER VI. ACCEPTANCE OF UNION ACTS AND RESOLUTIONS
 
-##### Article 21. Signature, Ratification and Other Forms of Approval of Union Acts and Resolutions
+##### Article 21. The Expenditures of the Union
 
-1. The signature of Union Acts and Resolutions by the plenipotentiary representatives of member countries or territories will take place at the conclusion of the Congress.
+1. Each Congress shall set the maximum amount of:
 
-2. The Constitution will be ratified by signatory countries or territories as quickly as possible.
+- a). the total budget for each year of the following four-year period;
 
-3. The approval process for the General Regulations, Final Protocols and Resolutions will be governed by the constitutional rules of each signatory member country or territory.
+- b). the expenditures to be disbursed for the organization of the next Congress.
 
-4. Without prejudice to the provisions of paragraphs 2 and 3 above, signatory countries or territories may ratify or approve Union Acts and Resolutions on a provisional basis, with written notice to the PUASP General Secretariat.
+2. The costs of the Union shall be borne by all the member countries and territories collectively, which shall be classified for this purpose in different contribution categories. To this end, each member country or territory shall choose the contribution category in which it wishes to be included. The contribution categories shall be established by the General Regulations.
 
-5. The failure of any one member country or territory to ratify the Constitution or to approve other Acts and Resolutions will make them no less binding on those countries by which they have been ratified or approved.
+3. In case of accession to the Union, the Government of the country or territory concerned shall choose the contribution category in which it wishes to be included for the purposes of dividing the costs of the Union.
 
 ##### Article 22. Notices of Ratification and of Other Forms of Approval of Union Acts and Resolutions
 
@@ -288,19 +288,19 @@ The Constitution shall enter into force on July 1, 1972 and shall remain in effe
 
 Preamble
 
-The undersigned plenipotentiary representatives of the governments of the member countries or territories of the Postal Union of the Americas, Spain and Portugal adopt these General Regulations by unanimous consent, pursuant to Article 18, paragraph 2 of the Constitution, to ensure its enforcement and to govern Union operations.
+The undersigned plenipotentiary representatives of the governments of the member countries and territories of the Postal Union of the Americas, Spain and Portugal adopt these General Regulations by unanimous consent, pursuant to Article 18, paragraph 2 of the Constitution adopted in Montevideo in 2007, to ensure its enforcement and to govern Union operations.
 
 ### CHAPTER I. GENERAL PROVISIONS
 
 ##### Article 101. Accession or admission to the Union. Procedure
 
-1. Governments of interested countries shall send notices of accession or applications for admission to the General Secretariat, which shall notify the other member countries or territories of their receipt.
+1. Governments of interested countries or territories shall send notices of accession or applications for admission to the General Secretariat, which shall notify the other member countries or territories of their receipt.
 
 2. Applications by an interested country or territory for admission to the Union must be approved by a minimum of two thirds of its member countries or territories.
 
 3. Member countries or territories failing to respond within four months from the date of notification of an application for admission shall be deemed to have given their approval.
 
-4. The General Secretariat shall notify the governments of all member countries or territories of the accession or admission of a new member country or territory.
+4. The General Secretariat shall notify the governments of all member countries and territories of the accession or admission of a new member country or territory.
 
 5. The applicant country or territory shall be notified of the decision taken on its application and, if admitted, of the effective date of its admission and other information related to its acceptance.
 
@@ -316,21 +316,21 @@ The undersigned plenipotentiary representatives of the governments of the member
 
 ##### Article 103. Organization and Operation of Congresses
 
-1. Representatives of the member countries or territories shall meet at Congresses approximately every four years.
+1. Representatives of the member countries and territories shall meet at Congresses approximately every four years.
 
-2. Each Congress shall designate the host country or territory for the following Congress, subject to a corresponding offer by the country or territory so designated. In the event of offers from more than one country or territory, the designation shall be made by secret ballot, in accordance with the provisions of Article 111 of these Regulations.
+2. Each Congress shall designate the host country or territory for the following Congress, subject to a corresponding offer by the country or territory so designated. In the event of offers from more than one country or territory, the decision shall be made by secret ballot, in accordance with the provisions of Article 111 of these Regulations.
 
 3. In cases where a Congress cannot be held in the designated host country or territory, the General Secretariat shall take the necessary emergency action to seek out a country or territory willing to host the Congress, submitting the results of its efforts to the Council for a decision.
 
 4. The General Secretariat shall follow the procedure established in paragraph 3 above if, by the end of a Congress, no country or territory has offered to host the next Congress.
 
-5. In cases where a Congress must be held despite the absence of a host government, the General Secretariat shall make the necessary arrangements to call and conduct the Congress in the country or territory in which the Union has its headquarters in agreement with the Council and the government of the Eastern Republic of Uruguay, in which case the General Secretariat shall discharge the functions of host government.
+5. In cases where a Congress must be held despite the absence of a host government, the General Secretariat shall make the necessary arrangements to convene and organize the Congress in the country or territory in which the Union has its headquarters in agreement with the Council and the government of the Eastern Republic of Uruguay, in which case the General Secretariat shall discharge the functions of host government.
 
 6. The government of the host country or territory shall set the final date and location for the Congress in agreement with the General Secretariat. In principle, the government of the country or territory hosting the Congress shall send invitations to the governments of all member countries or territories one year in advance, either directly or through the General Secretariat.
 
 7. The chairmanship of the Congress shall be exercised by the host country or territory. The Council shall designate the country or territory to serve as chairman under the circumstances described in paragraph 5 above.
 
-8. The postal administration of the country or territory hosting the Congress shall, in consultation with the General Secretariat, suggest the name of an actively employed or retired postal official with a long history of attendance at Union Congresses to serve as its Doyen, with the Council confirming this appointment in due course. The Doyen shall temporarily chair the Congress at the opening of its first plenary session until a permanent Chairman is appointed. The Doyen shall nominate candidates for the chairmanship and vice-chairmanship of both the Congress and its Committees. One Congress vice-chairmanship shall go to the country or territory that chaired the previous Congress.
+8. The member country or territory hosting the Congress shall, in consultation with the General Secretariat, suggest the name of an actively employed or retired postal official with a long history of attendance at Union Congresses to serve as its Doyen, with the Council confirming this appointment in due course. The Doyen shall temporarily chair the Congress at the opening of its first plenary session until a permanent Chairman is appointed. The Doyen shall nominate candidates for the chairmanship and vice-chairmanship of both the Congress and its Committees. One Congress vice-chairmanship shall go to the country or territory that chaired the previous Congress.
 
 9. The Doyen shall bring a motion before the first session of the Congress for the appointment of the officers, consisting of the Congress Chairman, the two Vice-Chairmen and the Secretary General of the Union.
 
@@ -338,29 +338,39 @@ The undersigned plenipotentiary representatives of the governments of the member
 
 - a). To amend and supplement Union Acts, Resolutions and Recommendations as necessary;
 
-- b). To set priorities for Union activities during the ensuing period; and
+- b). To set priorities for Union activities during the ensuing period by adopting the strategy, which will serve as the basis for drawing up the annual action plans; and
 
 - c). To discuss all matters brought before it, pertaining to the purposes of the Union.
 
 11. The Congress shall express its will through Resolutions and Recommendations, in accordance with Article 19 of the Constitution.
 
-12. Each member country or territory shall arrange to be represented by one or more delegates or by the delegation of another country or territory. The delegation of a country or territory may not represent more than one other country or territory in addition to its own.
+12. Each member country or territory shall arrange to be represented by one or more delegates or by the delegation of another member country or territory. The delegation of a member country or territory may not represent more than one other country or territory in addition to its own.
 
 13. Every member country or territory may formulate reservations to Union Acts and Resolutions adopted by the Congress with regard or in relation to postal operations at the time of their signature.
 
-14. The host government shall notify the governments of member countries or territories of the Acts and Resolutions adopted by the Congress.
+14. The government of the member country or territory hosting the Congress shall notify the governments of member countries or territories of the Acts, Resolutions and Recommendations adopted by the Congress.
 
-##### Article 104. Delegations
+##### Article 104. Functions of the Congress Chairman and Vice-Chairmen
+
+1. The Chairman shall open meetings, lead debates, recognize speakers in the order they ask to speak, put matters which cannot be decided by unanimous consent to a vote, rule on procedural questions arising in the course of the debates and close the Congress.
+
+2. In the course of the Congress the Chairman shall convene the first meeting of the Council.
+
+3. The Chairman shall cosign the Acts, Resolutions and Recommendations adopted by the Congress with the Secretary General.
+
+4. In his absence, the Chairman shall be replaced by the First Vice-Chairman from the country that chaired the previous Congress, and the latter, if necessary, by the Second Vice-Chairman.
+
+##### Article 105. Delegations
 
 1. A delegation is defined as the person or group of persons designated by a member country or territory to represent it at the Congress. If the delegation is composed of several delegates, a head of delegation and, if appropriate, a deputy head shall be designated.
 
 2. Members of the delegations shall be experts with ample knowledge of Union rules, and with specific responsibilities related to postal operations in member countries or territories.
 
-3. Member countries or territories unable to attend a Congress may arrange to be represented by another delegation. Likewise, countries present at the Congress but unable to attend a particular session may arrange to be represented by another delegation. The Chairman shall be advised of the decisions made in either of these circumstances, bearing in mind that no member country or territory may represent more than one other country or territory.
+3. Countries or territories unable to attend a Congress may arrange to be represented by another delegation. Likewise, countries present at the Congress but unable to attend a particular session may arrange to be represented by another delegation. The Chairman shall be advised of the decisions made in either of these circumstances, bearing in mind that no member country or territory may represent more than one other country or territory.
 
-##### Article 105. Delegate Credentials
+##### Article 106. Delegate Credentials
 
-1. All delegates must bear credentials signed by the Head of State, Head of Government or Minister of Foreign Affairs of the country in question.
+1. All delegates must bear credentials signed by the Head of State, Head of Government or Minister of Foreign Affairs of the member countries or territories in question.
 
 2. Delegate credentials must be drawn up in due and proper form. Delegates whose credentials meet one of the following criteria shall be considered plenipotentiary representatives:
 
@@ -380,7 +390,7 @@ Delegates whose credentials fail to meet the criteria of subparagraphs (a), (b) 
 
 5. Only original, duly conferred credentials and proxies shall be admissible. However, telegrams or messages sent via any other written telecommunications medium in response to requests for information on delegate credentials shall be accepted.
 
-##### Article 106. Observers
+##### Article 107. Observers
 
 1. The following may take part in Congress debates as observers, and may speak if authorized to do so by the Chairman of the Congress, but without voting rights:
 
@@ -390,17 +400,9 @@ Delegates whose credentials fail to meet the criteria of subparagraphs (a), (b) 
 
 - c). Representatives of Restricted Postal Unions extending reciprocal invitations.
 
-2. Representatives of international organizations or any organization having an interest in or related to the sector, whose participation is considered by the Council, the Management Committee and the General Secretariat to be significant for the performance of the work of the Congress, may also be admitted as observers.
+2. Representatives of international organizations or any organization having an interest in or related to the sector, whose participation is considered by the Council, the Management Committee and the General Secretariat to be significant for the performance of the work of the Congress, may also be admitted as observers, on the agreed terms.
 
 3. The General Secretariat shall, in consultation with the Chairman of the Council and the Management Committee, issue the invitations referred to in paragraphs 1 and 2.
-
-##### Article 107. Functions of the Congress Chairman and Vice-Chairmen
-
-1. The Chairman shall open meetings, lead debates, recognize speakers in the order they ask to speak, put matters which cannot be decided by unanimous consent to a vote, rule on procedural questions arising in the course of the debates and close the Congress.
-
-2. The Chairman shall cosign the Acts, Resolutions and Recommendations adopted by the Congress with the Secretary General.
-
-3. In his absence, the Chairman shall be replaced by the First Vice-Chairman from the country that chaired the previous Congress, and the latter, if necessary, by the Second Vice-Chairman.
 
 ##### Article 108. Submission and Consideration of Proposals
 
@@ -422,13 +424,15 @@ Delegates whose credentials fail to meet the criteria of subparagraphs (a), (b) 
 
 9. If a proposal has been accepted or rejected by the Congress, it may be re-examined by the same Congress only if the motion for reconsideration is supported by at least three delegations and approved by two thirds of the member countries or territories present and voting.
 
+10. Any proposal that could entail substantial expenditures by the Union must be accompanied by an estimate of its financial consequences, prepared in consultation with the General Secretariat by the member country or territory that has drafted it, for the purpose of determining the financial resources needed for its implementation.
+
 ##### Article 109. Debates
 
 1. Speakers must confine themselves to the pending issue, limiting their speeches to a maximum of five minutes, except as otherwise agreed by a simple majority of the members present and voting. The Chairman shall be authorized to interrupt any speakers exceeding their allotted time.
 
 2. Subject to consultation with the Congress and approval by a simple majority of members present and entitled to vote, the Chairman may:
 
-- a). limit the number of speeches by a single delegation on a particular proposal or group of proposals;
+- limit the number of speeches by a single delegation on a particular proposal or group of proposals;
 
 - b). limit the number of speeches by different delegations on a particular proposal or group of proposals to five in favour and five against the pending issue;
 
@@ -470,7 +474,7 @@ Procedural motions shall take precedence, in the order set out above, over all o
 
 ##### Article 111. Voting
 
-1. Issues which cannot be resolved by unanimous consent shall be put to a vote which, to be valid, shall require the presence or representation of two thirds of all member countries or territories entitled to vote.
+1. Issues on which there is no general agreement will be put to a vote which, to be valid, shall require the presence or representation of two thirds of all member countries or territories entitled to vote.
 
 2. Subject to the provisions of paragraph 1 above, member countries or territories entitled to vote shall mean those that vote “for” or “against”, and abstentions shall not be taken into account in determining the number of votes needed to form a majority, nor will blank ballots or invalid ballots in the case of voting by secret ballot.
 
@@ -484,15 +488,15 @@ Procedural motions shall take precedence, in the order set out above, over all o
 
 7. Each member country or territory shall be entitled to cast a single vote, and may also vote on behalf of another member country or territory by proxy or delegation.
 
-##### Article 112. Minutes of Meetings
+##### Article 112. Reports of Meetings
 
-1. Minutes of all meetings shall be drawn up in Spanish in the form of a summary record of the general course of each meeting and the proposals presented, and a summary of the debates conducted and their outcomes.
+1. Reports of all meetings shall be drawn up in Spanish in the form of a summary record of the general course of each meeting and the proposals presented, and a summary of the debates conducted and their outcomes.
 
-2. Delegates may request that any statements that they make be recorded in the minutes verbatim, provided that the text is submitted to the General Secretariat, in the official language of the Union, within twenty-four hours from the conclusion of the meeting in question.
+2. Delegates may request that any statements that they make be recorded in the report verbatim, provided that the text is submitted to the General Secretariat, in the official language of the Union, within twenty-four hours from the conclusion of the meeting in question.
 
-3. The General Secretariat shall prepare minutes of the meetings based on recordings of the debates of the Congress, and shall distribute them to the delegations of the member countries or territories that participated in the Congress for their approval. The General Secretariat shall take into consideration all comments submitted to it within forty days from the date of the distribution of the minutes to these member countries or territories.
+3. The General Secretariat shall prepare reports of the meetings based on recordings of the debates of the Congress, and shall distribute them to the delegations of the member countries or territories that participated in the Congress for their approval. The General Secretariat shall take into consideration all comments submitted to it within forty days from the date of the distribution of the reports to these member countries or territories.
 
-4. If, in the course of the Congress, a delegation wishes to refer to a particular speech, it shall request from the General Secretariat the minutes containing that speech, based on the recordings of the debates.
+4. If, in the course of the Congress, a delegation wishes to refer to a particular speech, it shall request from the General Secretariat the reports containing that speech, based on the recordings of the debates.
 
 ##### Article 113. Organization and Operation of Extraordinary Congresses
 
@@ -510,83 +514,95 @@ Procedural motions shall take precedence, in the order set out above, over all o
 
 1. The Council shall be composed of all member countries or territories of the Union. The host country of the Congress shall serve as Chairman of the Council, which position shall be held by experts in the management of collegiate bodies with a thorough knowledge of Union rules.
 
-2. The first meeting of each Council shall be called during the course of the Congress by the Chairman. During this meeting a First and Second Vice-Chairman shall be elected. In the event that the country or territory designated as Chairman should waive its right to this position, it shall be filled by the First Vice-Chairman, in which case the Second Vice-Chairman shall become First Vice-Chairman and a new Second Vice-Chairman shall be elected from among the other Council members.
+2. The first meeting of each Council shall be called during the course of the Congress by the Chairman to elect a First and Second Vice-Chairman. In the event that the country or territory designated as Chairman should waive its right to this position, it shall be filled by the First Vice-Chairman, in which case the Second Vice-Chairman shall become First Vice-Chairman and a new Second Vice-Chairman shall be elected from among the other Council members.
 
-3. Each member country or territory shall appoint its representative to the Council.
+3. This same first meeting of the Council shall elect its Management Committee, in accordance with Article 116, paragraph 2.
 
-4. The Council shall hold annual meetings at Union headquarters, called by its Chairman, through the General Secretariat. In exceptional cases, and without additional cost to the Union, the Council may hold its annual meeting in another city of any member country or territory. The Secretary General shall take part in debates at all Council meetings as a nonvoting member. The Council shall issue Rules of Procedure governing its operation. The rules set forth in the preceding articles pertaining to the functioning of the Congress shall also be applicable to the Council to the extent they are suitable, and the Chairman of the Council or, if applicable, the Vice-Chairman, shall be responsible for their correct interpretation and application.
+4. Each member country or territory shall appoint its representative to the Council.
 
-5. When necessary, the Chairman shall call an extraordinary meeting at the request of any member, with the consent of two thirds of all Council members entitled to vote, to be held within two months.
+5. The Council shall hold annual meetings at Union headquarters, called by its Chairman, through the General Secretariat. In exceptional cases, and without additional cost to the Union, the Council may hold its annual meeting in another city of any member country or territory. The Secretary General shall take part in debates at all Council meetings as a nonvoting member.
 
-6. Council members shall perform their duties without compensation. Operating expenses shall be borne by the Union. With the exception of meetings held during the Congress, member countries or territories in the lowest contribution category unable to use their pro rata funds shall be entitled to reimbursement of the cost of one single round-trip economy-class airfare or of the cost of travel by any other means up to the equivalent of a round-trip economy-class airfare. This provision applies only in the case of single-person delegations.
+The Council shall issue Rules of Procedure governing its operation. The rules set forth in the preceding articles pertaining to the functioning of the Congress shall also be applicable to the Council to the extent they are suitable, and the Chairman of the Congress or, if applicable, the Vice-Chairman, shall be responsible for their correct interpretation and application.
 
-7. Observers. Participation by observers at meetings of the Council shall be governed, by analogy, by the provisions of Article 106 of these Regulations.
+6. When necessary, the Chairman shall call an extraordinary meeting at the request of any member, with the consent of two thirds of all Council members entitled to vote, to be held within two months.
 
-8. The General Secretariat, in consultation with the Chairman of the Council and the Management Committee, shall analyze and issue these invitations on the agreed terms.
+7. Council members shall perform their duties without compensation. Operating expenses shall be borne by the Union. With the exception of meetings held during the Congress, member countries or territories in the lowest contribution category unable to use their pro rata funds shall be entitled to reimbursement of the cost of one single round-trip economy-class airfare or of the cost of travel by any other means up to the equivalent of a round-trip economy-class airfare. This provision applies only in the case of single-person delegations.
 
-9. Observers may speak when authorized by the Chairman, but they shall not be entitled to vote.
+8. Observers. Participation by observers at meetings of the Council shall be governed, by analogy, by the provisions of Article 107 of these Regulations.
 
-10. The Council shall direct Union activities, with the following specific duties:
+9. The General Secretariat, in consultation with the Chairman of the Council and the Management Committee, shall analyze and issue these invitations on the agreed terms.
 
-- a). To maintain contact with member countries or territories, Universal Postal Union bodies, Restricted Postal Unions and any other national or international organization, through the Chairman of the Council;
+10. Observers may speak when authorized by the Chairman, but they shall not be entitled to vote.
 
-- b). To take initiatives and implement activities in the interest of, or related to, the postal services of the member countries or territories of the Union;
+11. The Council shall direct Union activities, with the following specific duties:
 
-- c). To regulate and oversee General Secretariat activities and approve its internal rules;
+- 11.1). To maintain contact with member countries or territories, Universal Postal Union bodies, Restricted Postal Unions and any other national or international organization, through the Chairman of the Council;
 
-- d). To examine and, if appropriate, approve the Annual Report on the work of the Union prepared by the General Secretariat;
+- 11.2). To submit the draft strategic plan to the Congress, which shall consider it in the light of the previous report from the Management Committee and with the participation and advice of the General Secretariat;
 
-- e). To authorize the annual Union budget, subject to the ceilings set by the Congress;
+- 11.3). To monitor each year the implementation of the strategic plan, assess its results and approve any readjustment of priorities that may be appropriate;
 
-- f). To examine and, if appropriate, approve the financial statements in regard to the previous year’s Budget;
+- 11.4). To take initiatives and implement activities in the interest of, or related to, the postal services of the member countries or territories of the Union;
 
-- g). To establish the salary schedules of the General Secretariat staff, at the first Council meeting following an ordinary Congress;
+- 11.5). To examine and adopt the draft action plan drawn up by the General Secretariat, which entails the task of avoiding unnecessary expenditure;
 
-- h). To approve and/or amend, if appropriate, the Personnel Statutes of the General Secretariat of the Union;
+- 11.6). To regulate and oversee General Secretariat activities and approve its internal rules;
 
-- i). To approve and amend the Technical Cooperation Manual, as an instrument establishing procedures for achieving Union objectives in this regard;
+- 11.7). To examine and, if appropriate, approve the Annual Report on the work of the Union prepared by the General Secretariat;
 
-- j). To examine and, if appropriate, approve the General Secretariat’s annual schedule of attendance at international postal meetings, as well as the number of officials scheduled to attend each meeting, with the exception of necessary emergency travel in the interests of the Union. This same procedure shall be followed for other necessary travel on behalf of the Union;
+- 11.8). To authorize the annual Union budget, subject to the ceilings set by the Congress;
 
-- k). To examine and, where applicable, authorize requests by the Secretary General for transfers between programs and between cost groups within a single program of the budget approved for the current year;
+- 11.9). To examine and, if appropriate, approve the financial statements in regard to the previous year’s Budget;
 
-- l). To conduct studies or express opinions on any questions involving or related to postal services or that might affect member countries or territories of the Union;
+- 11.10). To establish the salary schedules of the General Secretariat staff, at the first Council meeting following an ordinary Congress;
 
-- ll). To promote and supervise the organization and conduct of training activities and the establishment of postal schools in member countries or territories and, at their request, arrange expert and consultant missions through the General Secretariat to assist in their organization, development and operation under technical cooperation programs;
+- 11.11). To approve and/or amend, if appropriate, the Personnel Statutes of the General Secretariat of the Union;
 
-- m). To designate the country or territory to host the next Congress under the circumstances described in Article 103, paragraphs 3 and 4 above, subject to a vote if there is more than one candidate;
+- 11.12). To approve and amend the Technical Cooperation Manual, as an instrument for achieving the Union objectives laid down in the strategic plan that has been adopted;
 
-- n). To make necessary arrangements to designate the country or territory to chair the Congress in the circumstances described in Article 103, paragraph 7;
+- 11.13). To examine and, if appropriate, approve the General Secretariat’s annual schedule of attendance at international postal meetings, as well as the number of officials scheduled to attend each meeting, with the exception of necessary emergency travel in the interests of the Union. This same procedure shall be followed for other necessary travel on behalf of the Union;
 
-- ñ). To present the Congress with proposed amendments to Union Acts and with draft Resolutions and Recommendations emerging from studies conducted acting on instructions or at its own initiative;
+- 11.14). To examine and, if appropriate, approve requests by the Secretary General for transfers between programs and between cost groups within a single program of the budget approved for the current year;
 
-- o). To make decisions on requests for invitations to attend the Congress as observers, in accordance with Article 106 of these Regulations;
+- 11.15). To conduct studies or express opinions on any questions involving or related to postal services or that might affect member countries or territories of the Union;
 
-- p). To notify member countries or territories of the results of studies undertaken;
+- 11.16). To promote and supervise the organization and conduct of training activities and the establishment of postal schools in member countries or territories and, at their request, arrange expert and consultant missions through the General Secretariat to assist in their organization, development and operation under technical cooperation programs;
 
-- q). To establish rules for documents to be published and distributed by the General Secretariat free of charge or at cost;
+- 11.17). To designate the country or territory to host the next Congress under the circumstances described in Article 103, paragraphs 3 and 4 above, subject to a vote if there is more than one candidate;
 
-- r). To promote international cooperation to facilitate, by any means at its disposal, development cooperation in the countries or territories of the Union;
+- 11.18). To make necessary arrangements to designate the country or territory to chair the Congress in the circumstances described in Article 103, paragraph 7;
 
-- s). To conduct appellate reviews of appealable rulings by the Supervisory Authority on complaints lodged by General Secretariat personnel against decisions by the General Secretariat;
+- 11.19). To present the Congress with proposed amendments to Union Acts and with draft Resolutions and Recommendations emerging from studies conducted acting on instructions or on its own initiative;
 
-- t). To hold elections to fill vacancies from among the proposed nominees, under the circumstances described in Article 119, paragraph 7 above;
+- 11.20). To make decisions on requests for invitations to attend the Congress as observers, in accordance with Article 107 of these Regulations;
 
-- u). To approve any projects to be paid from the Technical Cooperation Funds that are submitted to it by the General Secretariat in accordance with the provisions of the Technical Cooperation Regulations;
+- 11.21). To notify member countries and territories of the results of studies undertaken;
 
-- v). Any and all other functions necessary for the due and proper attainment of its purposes.
+- 11.22). To establish rules for documents to be published and distributed by the General Secretariat free of charge or at cost;
 
-11. Proposals and/or matters should be submitted by Council members to the General Secretariat at least six weeks prior to the opening of the session in which they are to be considered. Proposals and/or matters submitted outside of this period may be considered only if the Council so decides by a majority of the members present and voting.
+- 11.23). To promote international cooperation to facilitate, by any means at its disposal, development cooperation in the countries or territories of the Union;
 
-The submission and consideration of proposals and/or matters shall be governed by the provisions of Article 108, paragraphs 2 to 9 of these Regulations.
+- 11.24). To conduct appellate reviews of appealable rulings by the Supervisory Authority on complaints lodged by General Secretariat personnel against decisions by the General Secretariat;
 
-12. The adoption of decisions by the Council shall require:
+- 11.25). To hold elections to fill vacancies from among the proposed nominees for the Secretary General and/or Counsellor, under the circumstances described in Article 119, paragraph 7 below;
+
+- 11.26). To approve any projects to be paid from the Technical Cooperation Funds that are submitted to it by the General Secretariat in accordance with the provisions of the Technical Cooperation Regulations;
+
+- 11.27). In the event that the General Secretariat is in favour, to decide whether a member country or territory may use its pro rata funds more than three times;
+
+- 11.28). Any and all other functions necessary for the due and proper attainment of its purposes.
+
+12. Proposals and/or matters should be submitted by Council members to the General Secretariat at least six weeks prior to the opening of the session in which they are to be considered. Proposals and/or matters submitted outside of this period may be considered only if the Council so decides by a majority of the members present and voting.
+
+The submission and consideration of proposals and/or matters shall be governed by the provisions of Article 108, paragraphs 2 to 10 of these Regulations.
+
+13. The adoption of decisions by the Council shall require:
 
 - –. verification of the necessary quorum, which shall be one half plus one of the member countries or territories present and entitled to vote;
 
 - –. consensus, or if that is not possible, a simple majority.
 
-13. The adoption of decisions by long-distance consultation, subsequent to Council meetings, shall require:
+14. The adoption of decisions by long-distance consultation, subsequent to Council meetings, shall require:
 
 - –. consultation with member countries and territories of the Union entitled to vote;
 
@@ -594,43 +610,43 @@ The submission and consideration of proposals and/or matters shall be governed b
 
 - –. a simple majority of responses based on this quorum.
 
-14. The Council shall present a comprehensive report on its activities during the interval between Congresses at least two months in advance of the next Congress.
+15. The Council shall present a comprehensive report on its activities during the interval between Congresses at least two months in advance of the next Congress.
 
 ##### Article 115. Council Instruments and Working Methods
 
-1. The Council shall conduct its work based on institutional policies and general objectives set by the Congress. It may prioritize and modify these objectives, and add any other objectives that prove necessary as a result of changing postal operations.
+1. The Council shall conduct its work on the basis of the approved strategic plan and mandates set by the Congress. It may prioritize the Union’s objectives where necessary as a result of changes to postal operations.
 
 2. The Council shall determine the ways and means through which to conduct its own operations.
 
 3. The Council shall express its will through Decisions, in accordance with Article 20 of the Constitution and other rules adopted by the Council itself on this subject.
 
-4. The Council shall appoint a Management Committee.
-
 ##### Article 116. Management Committee
 
-1. Duties
+Duties
 
-The Management Committee shall report to the Council and assist it in monitoring, analyzing and evaluating the Union’s work, with the following specific duties:
+1. The Management Committee shall report to the Council and assist it in monitoring, analyzing and evaluating the Union’s work, with the following specific duties:
 
-- a). To review the strategic plans and the priorities established and submit them to the Council for approval;
+- a). To review the monitoring and indicators of the implementation of the strategic plan and the setting of priorities;
 
 - b). To review the General Secretariat’s action plan and its execution;
 
 - c). To review the management indicators proposed by the General Secretariat for evaluating its efficiency, including structure and costs, as well as its quantitative results;
 
-- d). To review the monitoring of the implementation of the Budget;
+- d). To review the implementation and realisation of Technical Cooperation projects and the evaluation of them submitted by the Secretariat;
 
-- e). To review the draft Budget, financial statements, balance sheet, income statement and Annual Report to be presented by the Secretariat;
+- e). To review the monitoring of the implementation of the Budget;
 
-- f). To review any Technical Cooperation projects that should be submitted to it for consideration;
+- f). To review the draft Budget, financial statements, balance sheet, income statement and Annual Report to be presented by the Secretariat;
 
-- g). To review any other advisory opinions or proposals referred to it by the Council;
+- g). To review any Technical Cooperation projects that should be submitted to it for consideration;
 
-- h). To submit to the Council a summary report of its actions and decisions and on the scope of its work program. This report shall be made available to member countries or territories by the Secretariat at least 30 (thirty) days prior to the date of the Council meeting, except in cases where meetings of the Management Committee and the Council are held within less than 30 days of one another. The General Secretariat shall provide member countries or territories of the Union with the agenda of its meetings at least 15 days in advance, and shall provide them with summary Acts adopted at such within 15 days after the meetings are held;
+- h). To review any other advisory functions or proposals referred to it by the Council;
 
-- i). To make any documents considered and drafted by the Committee available to any member countries or territories of the Union that so request.
+- i). To submit to the Council a summary report of its actions and decisions and on the scope of its work program. This report shall be made available to member countries or territories by the Secretariat at least 30 (thirty) days prior to the date of the Council meeting, except in cases where meetings of the Management Committee and the Council are held within less than 30 days of one another. The General Secretariat shall provide member countries or territories of the Union with the agenda of its meetings at least 15 days in advance, and shall provide them with summary Acts adopted at such within 15 days after the meetings are held;
 
-2. Composition
+- j). To make any documents considered and drafted by the Committee available to any member countries or territories of the Union that so request.
+
+Composition
 
 - a). The Management Committee shall be composed of seven members: the Chairman of the Council, who shall chair the Management Committee, and six member countries or territories of the Union, to be elected by the Council at its first meeting. The two countries that receive the most votes among the six members elected to form the Management Committee shall serve as First and Second Vice-Chairman of the Council, respectively.
 
@@ -638,7 +654,7 @@ The Management Committee shall report to the Council and assist it in monitoring
 
 - c). The General Secretariat shall have the right to speak, but not the right to vote at meetings.
 
-3. Operation
+Operation
 
 - a). The Management Committee shall meet at least twice a year, and shall attempt to ensure that such meetings are held at equal intervals.
 
@@ -668,13 +684,13 @@ In the service of the member countries or territories, the General Secretariat s
 
 - 1. in fulfilment of the Union’s strategic purposes:
 
-- a). managing the collection of information from various sources pertaining to Union postal services, regarding the operation and implementation of new services, technology, trends and markets, periodically distributing this information to its members, and keeping this information available on the Union’s website;
+- a). managing the collection of information from various sources pertaining to Union postal services, regarding the operation and implementation of new services, technology, trends and markets, periodically distributing this information to its members, and keeping this information available on the Union's website;
 
 - b). conducting studies or surveys as instructed by the Congress or Council;
 
 - c). providing information requested from it by member countries or territories, the UPU International Bureau, Restricted Unions or international organizations dealing with matters of interest or related to postal services;
 
-- d). participating and collaborating in multilateral technical cooperation plans and representing the Union to the appropriate international organizations or postal administrations as potential sources of assistance for the improvement of postal services in member countries or territories;
+- d). participating and collaborating in multilateral technical cooperation plans and representing the Union to the appropriate international organizations or member countries or territories as potential sources of assistance for the improvement of postal services in member countries or territories;
 
 - e). issuing an opinion on disputed issues at the request of the parties concerned;
 
@@ -686,19 +702,21 @@ In the service of the member countries or territories, the General Secretariat s
 
 - i). authorizing the launching of projects classified as urgent under the provisions of the Technical Cooperation Regulations;
 
-- j). conducting projects assigned to it by the Council;
+- j). coordinating with the parties concerned the projects included in the action plan;
 
-- k). providing long-distance consulting services to member countries or territories on matters related to the organization and execution of postal services in general and their monitoring.
+- k). disseminating the results and updating the reports on the implementation of the Technical Cooperation projects presented by member countries or territories;
+
+- l). providing long-distance consulting services to member countries and territories on matters related to the organization and execution of postal services in general and their monitoring.
 
 - 2. With regard to the administration and operation of the Union:
 
-- a). managing procedures for the accession and admission to and withdrawal from the Union by the countries or territories concerned;
+- a). managing procedures for the accession and admission to and withdrawal from the Union by countries or territories concerned;
 
 - b). serving as Secretariat to the Council, its Management Committee and Working Groups, and preparing reports in collaboration with the chairmen of such bodies, providing members with the documents to be evaluated at least 30 days prior to the dates on which their meetings will be held;
 
-- c). without prejudice to the provisions of Article 124, paragraph (b) of these Regulations, requesting an independent audit of the Union's economic and financial position at the end of the fiscal year;
+- c). without prejudice to the provisions of Article 124, paragraph (a) of these Regulations, requesting an independent audit of the Union's economic and financial position at the end of the fiscal year;
 
-- d). drafting each year the proposed budget for the following year, statements of Union expenditures and the Annual Report on work performed, all subject to consideration by the Management Committee and approval by the Council;
+- d). drafting each year the proposed budget for the following year, including the budget of the Availability Fund, statements of Union expenditures and the Annual Report on work performed, all subject to consideration by the Management Committee and approval by the Council;
 
 - e). submitting to the Council a detailed account statement of the Technical Cooperation Funds and the implementation of the Union’s budget;
 
@@ -718,7 +736,7 @@ In the service of the member countries or territories, the General Secretariat s
 
 - b). sending pertinent inquiries to all member countries or territories to select a new host, in the circumstances described in Article 103, paragraph 3 and Article 113, paragraph 2 above, informing the Council of the results of its efforts and requesting its approval of one of the offers, and subsequently advising all member governments of the name of the country designated by the Council to host the Congress;
 
-- c). duly distributing proposals submitted by postal administrations for consideration at Congresses, Council meetings and other Union meetings;
+- c). duly distributing proposals submitted by member countries or territories for consideration at Congresses, Council meetings and other Union meetings;
 
 - d). preparing the agenda for Council meetings and the report on its studies and proposals for submission to the Congress;
 
@@ -732,7 +750,7 @@ In the service of the member countries or territories, the General Secretariat s
 
 - b). assisting member countries or territories in matters pertaining to the conduct of the Universal Postal Congress;
 
-- c). taking action to establish alliances with other Restricted Unions, so as to exchange support and/or develop strategies that will promote the interests and objectives established by the majority of member countries or territories, within the framework of standing UPU bodies and the Universal Postal Congress.
+- c). taking action to establish alliances with other Restricted Unions, so as to exchange support and/or develop strategies that will promote the interests and objectives established by the majority of member countries or territories, within the framework of the permanent bodies and the Universal Postal Congress.
 
 ##### Article 119. Secretary General and Counsellor of the Union
 
@@ -740,21 +758,19 @@ In the service of the member countries or territories, the General Secretariat s
 
 2. Candidates for the post of Secretary General or Counsellor must satisfy the following requirements:
 
-- a). They must have extensive experience in the organization and operation of postal services, acquired in the postal administration of a member country or territory, and must be citizens of the country or territory presenting their candidacy; or
+- a). They must have extensive experience in the organization and operation of postal services, acquired in a member country or territory, and must be citizens of the country or territory presenting their candidacy; or
 
 - b). They must hold the position of Secretary General or Counsellor of the Union.
 
 3. The following formalities shall be observed in electing the Secretary General and Counsellor:
 
-- a). Candidates for these positions must be nominated by the governments of member countries or territories, except for officials already serving in these posts, who may personally present their candidacies. Both positions may not be held simultaneously by citizens of the same member country or territory.
+- a). Candidates for these positions must be nominated by the governments of member countries or territories. Both positions may not be held simultaneously by citizens of the same member country or territory.
 
-- b). The governments of member countries or territories shall formally present their candidates to the government of the country in which the Union has its headquarters three months prior to the scheduled date of the Congress, accompanied by their curricula vitae.
+- b). The member countries and territories shall formally present their candidates, both to the Government of the country in which the Union has its headquarters and to the General Secretariat, at least three months prior to the scheduled date of the Congress, accompanied by their curricula vitae. The General Secretariat will immediately inform the other member countries and territories of this candidacy or these candidacies.
 
 - c). Any Secretary General or Counsellor wishing to run for reelection shall present his or her candidacy to the government of the country in which the Union has its headquarters by this same deadline, accompanied by his or her curriculum vitae.
 
-- d). The country in which the Union has its headquarters shall forward the list of candidates and their curricula vitae to the governments of other member countries or territories at least one month prior to the scheduled date of the Congress and shall have the same information sent to the General Secretariat.
-
-- e). The election shall be by secret ballot, by a simple majority of members present and entitled to vote.
+- d). The election shall be by secret ballot, by a simple majority of members present and entitled to vote.
 
 4. In the event of a vacancy in the position of Secretary General, this post shall be temporarily filled by the Counsellor, who shall retain his own responsibilities.
 
@@ -762,7 +778,7 @@ In the service of the member countries or territories, the General Secretariat s
 
 6. In the event of vacancies in both positions, the Supervisory Authority shall temporarily assume responsibility for the management and direction of the General Secretariat.
 
-7. In the event of any of the circumstances described in paragraphs 4 through 6 above, the General Secretariat shall promptly invite member countries or territories of the Union to nominate candidates to the General Secretariat. As an exception to the rule in paragraph 1 above, the Council shall hold the election for the position or positions involved from among the candidates nominated, at the first meeting held by the Council after the date on which the vacancy occurs. The term of office of the official elected in this manner shall run for the duration of the interval until the next Congress, which shall not be taken into account for the purposes of reelection under paragraph 1 above.
+7. In the event of any of the circumstances described in paragraphs 4 through 6 above, the General Secretariat shall promptly invite member countries and territories of the Union to nominate candidates to the General Secretariat. As an exception to the rule in paragraph 1 above, the Council shall hold the election for the position or positions involved from among the candidates nominated, at the first meeting held by the Council after the date on which the vacancy occurs. The term of office of the official elected in this manner shall run for the duration of the interval until the next Congress, which shall not be taken into account for the purposes of reelection under paragraph 1 above.
 
 8. The procedure established in the preceding paragraph shall not apply to vacancies occurring after the last regular meeting of the Council in the interval between two consecutive Congresses.
 
@@ -770,7 +786,7 @@ In the service of the member countries or territories, the General Secretariat s
 
 - a). appointing and dismissing General Secretariat personnel in accordance with the regulations approved by the Council;
 
-- b). attending meetings of the Congress, the Council, its Management Committee and its Working Groups, with a right to take part in debates, but without the right to vote;
+- b). attending meetings of the Congress, the Council, its Management Committee and its Working Groups, with a right to take parts in debates, but without the right to vote;
 
 - c). attending Universal Postal Union Congresses and meetings of its Councils as an observer and informing member countries or territories on issues discussed at these meetings of importance to the Union;
 
@@ -780,7 +796,7 @@ In the service of the member countries or territories, the General Secretariat s
 
 - f). opening bank accounts;
 
-- g). transfering items between headings and subheadings within the same group in the same program in accordance with operating requirements; consulting and securing approval from the Chairman of the Council to make major budget transfers under Article 114, paragraph 10(k) of these General Regulations as required to cover major emergency expenditures, and subsequently submitting these transfers for confirmation by a plenary session of the Council as provided in the aforesaid Article, together with any other expenditure entailing major changes in budget programs or in cost groups within the same program.
+- g). transfering items between headings and subheadings within the same group in the same program in accordance with operating requirements; consulting and securing approval from the Chairman of the Council to make major budget transfers under Article 114, paragraph 11.14 of these General Regulations as required to cover major emergency expenditures, and subsequently submitting these transfers for confirmation by a plenary session of the Council as provided in the aforesaid Article, together with any other expenditure entailing major changes in budget programs or in cost groups within the same program.
 
 10. The Counsellor, who shall assist and replace the Secretary General in his absence and assume his duties, shall have the following basic functions:
 
@@ -830,13 +846,11 @@ To facilitate the operations of the General Secretariat and other Union bodies, 
 
 As Supervisory Authority for the General Secretariat, the Eastern Republic of Uruguay shall be responsible for:
 
-- a). making appropriate comments to the Chairman of the Council on any and all aspects of its operations;
+- a). conducting post-audits of all General Secretariat contracts, spending, transactions, payments, accounting entries, etc., and reporting the results to the Council;
 
-- b). conducting post-audits of all General Secretariat contracts, spending, transactions, payments, accounting entries, etc., and reporting the results to the Chairman of the Council;
+- b). deciding at first instance on complaints by General Secretariat staff against decisions by the General Secretariat;
 
-- c). deciding at first instance on complaints by General Secretariat staff against decisions by the General Secretariat;
-
-- d). taking all other action necessary to discharge its supervisory functions.
+- c). making appropriate comments to the Council as necessary to fulfil its task as Supervisory Authority.
 
 ### CHAPTER V. AMENDMENT OF UNION ACTS, RESOLUTIONS AND RECOMMENDATIONS
 
@@ -846,19 +860,19 @@ As Supervisory Authority for the General Secretariat, the Eastern Republic of Ur
 
 2. The General Secretariat shall publish and distribute proposals to the member countries or territories at least three months prior to the date scheduled for the opening of the Congress.
 
-3. Proposals presented after the deadline indicated in paragraph 1 above shall be considered if they are submitted at least three weeks prior to the opening of the Congress and are supported by at least two member countries or territories, with the exception of drafting proposals, which must display a capital letter “R” as part of their heading, and shall be referred directly to the Drafting Committee.
+3. Proposals presented after the deadline indicated in paragraph 1 above shall be considered if they are submitted at least three weeks prior to the opening of the Congress and are supported by at least two member countries or territories, with the exception of proposals containing amendments as referred to in Article 108 of these Regulations and of drafting proposals. These latter proposals must display a capital letter “R” as part of their heading, and shall be referred directly to the Drafting Committee.
 
 ##### Article 126. Conditions for the Approval of Proposals Pertaining to the General Regulations, Technical Cooperation Regulations, Resolutions and Recommendations
 
-1. The adoption of proposals submitted to the Congress in regard to the General Regulations, Resolutions and Recommendations is subject to their approval by a simple majority of member countries or territories present or represented and entitled to vote. At least two thirds of Union member countries or territories must be present or represented during the voting process.
+1. The adoption of proposals submitted to the Congress in regard to the General Regulations, Technical Cooperation Regulations, Resolutions and Recommendations is subject to their approval by a simple majority of member countries or territories present or represented and entitled to vote. At least two thirds of Union member countries or territories must be present or represented during the voting process.
 
-2. The preceding rule shall not apply to proposals to amend provisions of the General Regulations pertaining to the operation of the Congress (Articles 103 to 113 inclusive), which shall require a two thirds majority vote by member countries or territories present or represented at the Congress and entitled to vote. These proposals shall enter into force immediately upon their approval.
+2. The preceding rule shall not apply to proposals to amend provisions of the General Regulations pertaining to the operation of the Congress (Articles 103 to 113 inclusive), which shall require a two thirds majority vote by member countries and territories present or represented at the Congress and entitled to vote. These proposals shall enter into force immediately upon their approval.
 
 ### CHAPTER VI. UNION FINANCES
 
 ##### Article 127. Union Budget
 
-1. Each Congress shall pass a Resolution setting the budget ceiling for each year of the ensuing four-year period based on the General Secretariat presentation by program and activity, expressed in United States dollars. Approved budgets shall remain in effect from January 1 through December 31 of each year.
+1. Each Congress shall pass a Resolution setting the budget ceiling for each year of the ensuing four-year period based on the strategic directions adopted by the Congress, expressed in United States dollars. Approved budgets shall remain in effect from January 1 through December 31 of each year.
 
 2. The General Budget of the Union may not be increased during the interval between Congresses.
 
@@ -868,21 +882,15 @@ As Supervisory Authority for the General Secretariat, the Eastern Republic of Ur
 
 1. The purpose of the Working Capital Fund is to cover unbudgeted expenses, so that the General Secretariat can satisfy unforeseen obligations.
 
-2. The General Secretariat shall notify the Management Committee and request approval by the Council for any expenses charged to the Working Capital Fund, except for previously-approved expenses. In the event of urgency and need, the Secretary General may, with the consent of the Chairman of the Council, draw on this fund, subsequently rendering an accounting of the expenditures to the Council.
+2. The Working Capital Fund may with the approval of the Congress be used to cover budgeted expenses, whose amount should be set by a resolution of the Congress.
 
-3. In principle, this fund shall not be increased, but its development shall be monitored so that the Union can satisfy its obligations.
+3. The General Secretariat shall notify the Management Committee and request approval by the Council for any expenses charged to the Working Capital Fund, except for previously-approved expenses. In the event of urgency and need, the Secretary General may, with the consent of the Chairman of the Council, draw on this fund, subsequently rendering an accounting of the expenditures to the Council.
+
+4. In principle, this fund shall not be increased, but its development shall be monitored so that the Union can satisfy its obligations.
 
 ##### Article 129. Contributions by Member Countries or Territories
 
 1. Member countries or territories shall contribute to the defrayal of Union expenses according to their respective contribution category. The following contribution categories are hereby established:
-
-- –. twelve-unit category;
-
-- –. eleven-unit category;
-
-- –. ten-unit category;
-
-- –. nine-unit category;
 
 - –. eight-unit category;
 
@@ -900,49 +908,43 @@ As Supervisory Authority for the General Secretariat, the Eastern Republic of Ur
 
 - –. single-unit category.
 
-2. Member countries or territories shall be classified in the following contribution categories:
+2. In addition to the contribution categories listed in paragraph 1, any member country or territory may choose to contribute a number of units greater than the number corresponding to the contribution category to which it belongs, for at least the period equivalent to the interval between two Congresses. At the end of that interval the member country or territory in question shall be reincorporated into its initial contribution category, unless it decides to continue paying a higher number of contribution units.
 
-- a). twelve-unit:
+3. Member countries or territories shall be classified in the following contribution categories:
 
-- b). eleven-unit:
+- a). eight-unit: Canada and Spain;
 
-- c). ten-unit:
+- b). seven-unit: United States of America;
 
-- d). nine-unit:
+- c). six-unit: Brazil and Portugal;
 
-- e). eight-unit: Canada, Spain and the United States of America;
+- d). five-unit;
 
-- f). seven-unit: Brazil and Portugal;
+- e). four-unit: Chile and Colombia;
 
-- g). six-unit:
+- f). three-unit: Argentina, Mexico and Uruguay;
 
-- h). five-unit:
+- g). two-unit: Panama and the Bolivarian Republic of Venezuela;
 
-- i). four-unit: Chile and Colombia;
+- h). single-unit: Aruba, Bolivia, Costa Rica, Cuba, Dominican Republic, Ecuador, El Salvador, Guatemala, Haiti, Netherlands Antilles, Nicaragua, Paraguay, Peru, Republic of Honduras and Republic of Suriname.
 
-- j). three-unit: Argentina, Mexico and Uruguay;
+4. The contribution categories of new countries joining the Union shall be determined in accordance with the size of their postal administration. The lowest possible initial contribution category shall be the two-unit category.
 
-- k). two-unit: Panama and the Bolivarian Republic of Venezuela;
+5. Member countries or territories may change their contribution category subject to notification of the General Secretariat two months before the opening of the Congress. This notice shall be transmitted to the member countries and territories and to the Congress, with the new contribution category taking effect on the effective date of the financial provisions approved by the Congress.
 
-- l). single-unit: Aruba, Bolivia, Costa Rica, Cuba, Dominican Republic, Ecuador, El Salvador, Guatemala, Haiti, Netherlands Antilles, Nicaragua, Paraguay, Peru, Republic of Honduras and Republic of Suriname.
+6. Member countries or territories may lower their contribution category by only one category at a time. Member countries or territories failing to announce their desire to lower their contribution category two months before the opening of the Congress shall remain in their current category. The General Secretariat will communicate such requests for lower contributions to the member countries and territories.
 
-3. The contribution categories of new countries joining the Union shall be determined in accordance with the size of their postal administration. The lowest possible initial contribution category shall be the two-unit category.
+7. However, in exceptional circumstances such as natural disasters that require the implementation of international aid programs, the Congress may approve a temporary reduction of a contribution category if a member country or territory so requests and shows that it cannot maintain its level of contribution in the category in which it is classified.
 
-4. Member countries or territories may change their contribution category subject to notification of the General Secretariat prior to the opening of the Congress. This notice shall be transmitted to the Congress, with the new contribution category taking effect on the effective date of the financial provisions approved by the Congress.
+8. The Council shall be authorized between Congresses to rule on the reduction of category referred to in the preceding point for member countries or territories that do not belong to the category of more advanced countries or territories. The decision thus adopted shall remain in force for a maximum of two years or until the next Congress if it meets before the end of this period, at which time it may decide to limit or extend the period of reduction.
 
-5. Member countries or territories may lower their contribution category by only one category at a time. Member countries or territories failing to announce their desire to lower their contribution category prior to the opening of the Congress shall remain in their current category.
+9. Member countries or territories under intervention by the United Nations shall be exempt from contributions for the period of time that they are in this special situation.
 
-6. However, in exceptional circumstances such as natural disasters that require the implementation of international aid programs, the Congress may approve a temporary reduction of a contribution category if a member country or territory so requests and shows that it cannot maintain its level of contribution in the category in which it is classified.
-
-7. The Council shall be authorized between Congresses to rule on the reduction of category referred to in the preceding point for member countries or territories that do not belong to the category of more advanced countries or territories. The decision thus adopted shall remain in force for a maximum of two years or until the next Congress if it meets before the end of this period, at which time it may decide to limit or extend the period of reduction.
-
-8. Member countries or territories under intervention by the United Nations shall be exempt from contributions for the period of time that they are in this special situation.
-
-9. There are no restrictions on transfers to higher contribution categories.
+10. There are no restrictions on transfers to higher contribution categories.
 
 ##### Article 130. Audits and Advances
 
-The postal administration of the country in which the Union has its headquarters shall audit General Secretariat expenses and the government of that country shall make necessary advances.
+The Government of the country in which the Union has its headquarters shall audit General Secretariat expenses and make necessary advances.
 
 ##### Article 131. Preparation of Accounts
 
@@ -962,9 +964,9 @@ The General Secretariat shall annually prepare a statement of accounts for the U
 
 ##### Article 133. Payment of Contributions
 
-1. Member countries or territories shall be promptly notified of the budget approved by the Council for purposes of the payment of their respective contributions under this budget. The invoice for these contributions shall be sent before July 31 of the year prior to the year of the budget, accompanied by a copy of the approved budget. Payment shall be made before January 31 of the year to which the budget applies.
+1. Member countries or territories shall be promptly notified of the budget approved by the Council for purposes of the payment of their respective contributions under this budget. The invoice for these contributions shall be sent before December 31 of the year prior to the year of the budget, accompanied by a copy of the approved budget. Payment shall be made before June 30 of the year to which the budget applies.
 
-2. Any and all payments in arrears after the date indicated in paragraph 1 above shall accrue interest at the rate of 3% per annum, starting from the aforesaid deadline.
+2. Any and all payments in arrears after the date indicated in paragraph 1 above shall accrue interest at the rate of 3% per annum, starting from June 30.
 
 ##### Article 134. Automatic Penalties
 
@@ -1002,7 +1004,7 @@ shall be subject to the application of the automatic penalty system.
 
 ##### Article 135. Languages
 
-1. Union documents shall be furnished to the postal administrations in Spanish. However, official correspondence from non-Spanish speaking member postal administrations may be drafted in their native language. From time to time, the Council may authorize French, English and Portuguese translations of publications of special interest for the operation of postal services.
+1. Union documents shall be furnished to the member countries and territories and their designated postal enterprises in Spanish. However, official correspondence from non-Spanish speaking member countries and territories and their designated postal enterprises may be drafted in their native language. From time to time, the Council may authorize French, English and Portuguese translations of publications of special interest for the operation of postal services.
 
 2. Debates at Congresses and Council meetings may be conducted in French, English and Portuguese, in addition to Spanish, with the choice of translation system left to the meeting organizers and the General Secretariat.
 
@@ -1014,6 +1016,6 @@ shall be subject to the application of the automatic penalty system.
 
 ##### Article 136. Effective Date and Duration of the General Regulations
 
-These General Regulations shall enter into force on January 1, 2008, and shall remain in force until the effective date of the Acts of the next Congress.
+These General Regulations shall enter into force on January 1, 2010, and shall remain in force until the effective date of the Acts of the next Congress.
 
 En fe de lo cual los Representantes Plenipotenciarios de los Gobiernos de los Países miembros han firmado la presente Constitución en la ciudad de Santiago, capital de la República de Chile, a los veintiséis días del mes de Noviembre del año mil novecientos setenta y uno.
