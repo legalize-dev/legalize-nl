@@ -4,7 +4,7 @@ identifier: "BWBR0029264"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-12-21"
-last_updated: "2011-06-01"
+last_updated: "2011-06-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029264"
 soort: "ministeriele-regeling"
@@ -159,6 +159,7 @@ Besluit:
 | 5.11 | Subsidieregeling energie en innovatie (programma industriële warmtebenutting) | 3.8.8 |   | – | – |
 | 5.12 | Subsidieregeling energie en innovatie (effectieve en efficiënte vergistingketen) | 3.9.2 | Pilotprojecten vergistingketen | – | – |
 |   | Subsidieregeling energie en innovatie (effectieve en efficiënte vergistingketen) | 3.9.2 | Demonstratieprojecten vergistingketen | – | – |
+| 5.13 | Subsidieregeling energie en innovatie (proeftuinen intelligente netten) | 3.10.2 | Proeftuinen intelligente netten | 15/06 t/m 05/09 | 16.000.000 |
 | [Subsidieregeling internationaal ondernemen](https://wetten.overheid.nl/jci1.3:c:BWBR0026819) | [Subsidieregeling internationaal ondernemen](https://wetten.overheid.nl/jci1.3:c:BWBR0026819) | [Subsidieregeling internationaal ondernemen](https://wetten.overheid.nl/jci1.3:c:BWBR0026819) | [Subsidieregeling internationaal ondernemen](https://wetten.overheid.nl/jci1.3:c:BWBR0026819) | [Subsidieregeling internationaal ondernemen](https://wetten.overheid.nl/jci1.3:c:BWBR0026819) | [Subsidieregeling internationaal ondernemen](https://wetten.overheid.nl/jci1.3:c:BWBR0026819) |
 | 6.1 | Subsidieregeling internationaal ondernemen (Prepare2Start) | 2.2 |   | 01-01 t/m 31-12 | 14.000.000 |
 | [Subsidieregeling internationaal excelleren](https://wetten.overheid.nl/jci1.3:c:BWBR0026983) | [Subsidieregeling internationaal excelleren](https://wetten.overheid.nl/jci1.3:c:BWBR0026983) | [Subsidieregeling internationaal excelleren](https://wetten.overheid.nl/jci1.3:c:BWBR0026983) | [Subsidieregeling internationaal excelleren](https://wetten.overheid.nl/jci1.3:c:BWBR0026983) | [Subsidieregeling internationaal excelleren](https://wetten.overheid.nl/jci1.3:c:BWBR0026983) | [Subsidieregeling internationaal excelleren](https://wetten.overheid.nl/jci1.3:c:BWBR0026983) |
