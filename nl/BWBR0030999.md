@@ -229,17 +229,3 @@ Dit onderdeel is nog niet inwerking getreden
 Dit onderdeel is nog niet inwerking getreden
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel IIIa
-
-In de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) vervalt [artikel 10a.11](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10a.11) met ingang van 1 januari 2022.
-
-##### Artikel VIIa
-
-Wijzigt de Wet op de loonbelasting 1964.
-
-##### Artikel VIIb
-
-In de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) vervalt [artikel 39d](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=39d) met ingang van 1 januari 2022.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
