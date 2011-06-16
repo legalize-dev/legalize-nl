@@ -4,7 +4,7 @@ identifier: "BWBR0024899"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-06-16"
-last_updated: "2009-03-11"
+last_updated: "2011-06-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024899"
 soort: "ministeriele-regeling"
@@ -222,13 +222,27 @@ De volgende regelingen worden ingetrokken:
 
 ##### Artikel VII
 
-1. Voor zover nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze overeenkomstig de regelingen, bedoeld in de [artikelen I tot en met VI](https://wetten.overheid.nl/jci1.3:c:BWBR0024899&paragraaf=1&artikel=I&z=2009-03-11&g=2009-03-11), plaats.
+1. Voor zover nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze plaats overeenkomstig de regelingen, bedoeld in de [artikelen I tot en met VI](https://wetten.overheid.nl/jci1.3:c:BWBR0024899&paragraaf=1&artikel=I&z=2011-06-16&g=2011-06-16), met dien verstande dat:
 
-2. Bestaande aanspraken en verplichtingen bij, op grond of in het kader van de regelingen, bedoeld in de [artikelen I tot en met VI](https://wetten.overheid.nl/jci1.3:c:BWBR0024899&paragraaf=1&artikel=I&z=2009-03-11&g=2009-03-11), blijven in stand.
+- a. de in de regelingen opgenomen verplichting tot het overleggen van een accountantsverklaring geldt voor subsidies van € 125.000 of meer per subsidie-ontvanger of, indien de subsidie-ontvanger een samenwerkingsverband is, per deelnemer in een samenwerkingsverband, en
 
-3. Indien innovatievouchers op basis van de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019805&artikel=2), of [3, eerste lid van de Subsidieregeling innovatievouchers](https://wetten.overheid.nl/jci1.3:c:BWBR0019805&artikel=3) zijn afgegeven voor de inwerkingtreding van deze regeling en deze vouchers nog niet zijn ingediend, blijft de [Subsidieregeling innovatievouchers](https://wetten.overheid.nl/jci1.3:c:BWBR0019805) van toepassing voor de indiening van deze innovatievouchers.
+- b. verzoeken om vaststelling van de subsidie kunnen worden ingediend met gebruik van het in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0024899&bijlage=1&z=2011-06-16&g=2011-06-16) bij de regeling opgenomen formulier.
 
-4. Voor zover na 1 januari 2009 in subsidieregelingen wordt verwezen naar de [Experimentele kaderregeling subsidies innovatieprojecten](https://wetten.overheid.nl/jci1.3:c:BWBR0019494), worden deze verwijzingen geacht te zijn naar de [Experimentele Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0019494) zoals die luidde voor 1 januari 2009.
+2. De onderdelen a en b van het eerste lid gelden niet voor de regelingen bedoeld in:
+
+- –. [artikel I, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0024899&paragraaf=1&artikel=I&z=2011-06-16&g=2011-06-16);
+
+- –. [artikel II, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0024899&paragraaf=2&artikel=II&z=2011-06-16&g=2011-06-16);
+
+- –. [artikel V, onderdelen b, k, l en m](https://wetten.overheid.nl/jci1.3:c:BWBR0024899&paragraaf=5&artikel=V&z=2011-06-16&g=2011-06-16);
+
+- –. [artikel VI, onderdelen c, d, j, z en bb](https://wetten.overheid.nl/jci1.3:c:BWBR0024899&paragraaf=6&artikel=VI&z=2011-06-16&g=2011-06-16).
+
+3. Onverminderd het eerste en tweede lid, blijven bestaande aanspraken en verplichtingen bij, op grond of in het kader van de regelingen, bedoeld in de [artikelen I tot en met VI](https://wetten.overheid.nl/jci1.3:c:BWBR0024899&paragraaf=1&artikel=I&z=2011-06-16&g=2011-06-16), in stand.
+
+4. Indien innovatievouchers op basis van de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019805&artikel=2), of [3, eerste lid van de Subsidieregeling innovatievouchers](https://wetten.overheid.nl/jci1.3:c:BWBR0019805&artikel=3) zijn afgegeven voor de inwerkingtreding van deze regeling en deze vouchers nog niet zijn ingediend, blijft de [Subsidieregeling innovatievouchers](https://wetten.overheid.nl/jci1.3:c:BWBR0019805) van toepassing voor de indiening van deze innovatievouchers.
+
+5. Voor zover na 1 januari 2009 in subsidieregelingen wordt verwezen naar de [Experimentele kaderregeling subsidies innovatieprojecten](https://wetten.overheid.nl/jci1.3:c:BWBR0019494), worden deze verwijzingen geacht te zijn naar de [Experimentele Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0019494) zoals die luidde voor 1 januari 2009.
 
 5. De benoemingen van de leden van de adviescommissies genoemd in kolom 1 krachtens de in kolom 2 genoemde subsidieregelingen en de in kolom 3 genoemde artikelen, gelden als benoemingen tot lid van de adviescommissies genoemd in kolom 4 krachtens de in kolom 5 genoemde subsidieregelingen en de in kolom 6 genoemde artikelen.
 
@@ -248,5 +262,9 @@ De volgende regelingen worden ingetrokken:
 ##### Artikel VIII
 
 Deze regeling treedt in werking met ingang van 1 januari 2009.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage 1
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
