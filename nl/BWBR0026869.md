@@ -4,7 +4,7 @@ identifier: "BWBR0026869"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-06-16"
-last_updated: "2010-01-01"
+last_updated: "2011-06-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026869"
 soort: "ministeriele-regeling"
@@ -136,11 +136,25 @@ De volgende regelingen worden ingetrokken:
 
 ##### Artikel V
 
-1. Voor zover nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze overeenkomstig de regelingen, bedoeld in de [artikelen I tot en met IV](https://wetten.overheid.nl/jci1.3:c:BWBR0026869&paragraaf=1&artikel=I&z=2010-01-01&g=2010-01-01), plaats.
+1. Voor zover nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze plaats overeenkomstig de regelingen, bedoeld in de [artikelen I tot en met IV](https://wetten.overheid.nl/jci1.3:c:BWBR0026869&paragraaf=1&artikel=I&z=2011-06-16&g=2011-06-16), met dien verstande dat:
 
-2. Bestaande aanspraken en verplichtingen bij, op grond of in het kader van de regelingen, bedoeld in de [artikelen I tot en met IV](https://wetten.overheid.nl/jci1.3:c:BWBR0026869&paragraaf=1&artikel=I&z=2010-01-01&g=2010-01-01), blijven in stand.
+- a. de in de regelingen opgenomen verplichting tot het overleggen van een accountantsverklaring geldt voor subsidies van € 125.000 of meer per subsidie-ontvanger of, indien de subsidie-ontvanger een samenwerkingsverband is, per deelnemer in een samenwerkingsverband, en
 
-3. De benoemingen van de leden van de adviescommissies genoemd in kolom 1 krachtens de in kolom 2 genoemde subsidiebesluiten en -regelingen en de in kolom 3 genoemde artikelen, alsmede de op die benoemingen volgende vergoedingenbesluiten, gelden als benoemingen tot lid van de adviescommissies genoemd in kolom 4 krachtens de in kolom 5 genoemde subsidieregelingen en de in kolom 6 genoemde artikelen en als op deze benoemingen volgende vergoedingenbesluiten.
+- b. verzoeken om vaststelling van de subsidie kunnen worden ingediend met gebruik van het in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0026869&bijlage=1&z=2011-06-16&g=2011-06-16) bij de regeling opgenomen formulier.
+
+2. De onderdelen a en b van het eerste lid gelden niet voor de regelingen bedoeld in:
+
+- –. [artikel I, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0026869&paragraaf=1&artikel=I&z=2011-06-16&g=2011-06-16);
+
+- –. [artikel II, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0026869&paragraaf=2&artikel=II&z=2011-06-16&g=2011-06-16);
+
+- –. [artikel III, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0026869&paragraaf=3&artikel=III&z=2011-06-16&g=2011-06-16);
+
+- –. [artikel IV, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0026869&paragraaf=4&artikel=IV&z=2011-06-16&g=2011-06-16).
+
+3. Onverminderd het eerste en tweede lid, blijven bestaande aanspraken en verplichtingen bij, op grond of in het kader van de regelingen, bedoeld in de [artikelen I tot en met IV](https://wetten.overheid.nl/jci1.3:c:BWBR0026869&paragraaf=1&artikel=I&z=2011-06-16&g=2011-06-16), in stand.
+
+4. De benoemingen van de leden van de adviescommissies genoemd in kolom 1 krachtens de in kolom 2 genoemde subsidiebesluiten en -regelingen en de in kolom 3 genoemde artikelen, alsmede de op die benoemingen volgende vergoedingenbesluiten, gelden als benoemingen tot lid van de adviescommissies genoemd in kolom 4 krachtens de in kolom 5 genoemde subsidieregelingen en de in kolom 6 genoemde artikelen en als op deze benoemingen volgende vergoedingenbesluiten.
 
 | Adviescommissie | Regeling | Artikel | Adviescommissie | Regeling | Artikel |
 | --- | --- | --- | --- | --- | --- |
@@ -156,5 +170,9 @@ De volgende regelingen worden ingetrokken:
 ##### Artikel VI
 
 Deze regeling treedt in werking met ingang van 1 januari 2010.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage 1
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
