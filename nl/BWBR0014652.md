@@ -4,7 +4,7 @@ identifier: "BWBR0014652"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2010-10-10"
+last_updated: "2011-06-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014652"
 soort: "ministeriele-regeling"
@@ -46,39 +46,39 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. richtlijn: [richtlijn nr. 94/57/EG](31994L0057) van de Raad van de Europese Unie van 22 november 1994 inzake gemeenschappelijke voorschriften en normen voor de met inspectie en controle van schepen belaste organisaties en voor de desbetreffende werkzaamheden van maritieme instanties (PbEG L 319);
+- **erkende beveiligingsorganisatie:** rechtspersoon, bevoegd tot het verrichten van bij of krachtens [artikel 19 van het Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=19) voorgeschreven onderzoeken;
 
-- b. klassenbureau: rechtspersoon, bevoegd tot het verrichten van bij of krachtens de [artikelen 8 van het Schepenbesluit 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&artikel=8), en [13 tot en met 18 van het Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=13), voorgeschreven onderzoeken;
+- **klassenbureau:** rechtspersoon, bevoegd tot het verrichten van bij of krachtens de [artikelen 8 van het Schepenbesluit 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&artikel=8) en [13 tot en met 18 van het Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=13), voorgeschreven onderzoeken;
 
-- c. erkende beveiligingsorganisatie: rechtspersoon, bevoegd tot het verrichten van bij of krachtens [artikel 19 van het Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=19) voorgeschreven onderzoeken;
+- **richtlijn:** richtlijn nr. 2009/15/EG van het Europees Parlement en de Raad van de Europese Unie van 23 april 2009 inzake gemeenschappelijke voorschriften en normen voor met de inspectie en controle van schepen belaste organisaties en voor de desbetreffende werkzaamheden van maritieme instanties (PbEG L 131);
 
-- d. SOLAS-verdrag: het op 1 november 1974 te Londen totstandgekomen Verdrag voor de beveiliging van mensenlevens op zee (Trb. 1976, 157) en de bij dat verdrag behorende bindende protocollen, aanhangsels en bijlagen;
+- **SOLAS-verdrag:** het op 1 november 1974 te Londen tot stand gekomen Verdrag voor de beveiliging van mensenlevens op zee (Trb. 1976, 157) en de bij dat verdrag behorende bindende protocollen, aanhangsels en bijlagen;
 
-- e. testing ASP: rechtspersoon, bevoegd tot het verrichten van onderzoeken gericht op het testen van geschiktheid van apparatuur voor het automatisch zenden van gegevens, bedoeld in voorschrift V-19/1 van het SOLAS-verdrag.
+- **testing ASP:** rechtspersoon, bevoegd tot het verrichten van onderzoeken gericht op het testen van geschiktheid van apparatuur voor het automatisch zenden van gegevens, bedoeld in voorschrift V/19-1 van het SOLAS-verdrag;
+
+- **verordening:** verordening (EG) nr. 391/2009 van het Europees Parlement en de Raad van de Europese Unie van 23 april 2009 inzake gemeenschappelijke voorschriften en normen voor met de inspectie en controle van schepen belaste organisaties (PbEG L 131).
 
 ##### Artikel 2
 
-1. Als klassenbureau kunnen worden aangewezen de erkende organisaties, bedoeld in artikel 4 van de richtlijn.
+1. Als klassenbureaus kunnen slechts worden aangewezen de organisaties die zijn erkend overeenkomstig de verordening.
 
-2. Organisaties waaraan ingevolge artikel 4, tweede lid, van de richtlijn beperkte erkenning voor drie jaren is verleend, worden slechts aangewezen, indien die erkenning op verzoek van de Minister van Verkeer en Waterstaat is verleend.
+2. Indien de erkenning, bedoeld in artikel 4 van de verordening, is beperkt naar type schip, grootte van het schip, activiteit of een combinatie ervan, wordt de aanwijzing als klassenbureau op dezelfde wijze beperkt.
 
-3. Erkenning als bedoeld in artikel 4 van de richtlijn geldt als erkenning als bedoeld in [artikel 6, vierde lid, van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=6).
+3. Erkenning als bedoeld in artikel 4 of 15 van de verordening, geldt als erkenning als bedoeld in [artikel 6, vierde lid, van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=6).
 
 ##### Artikel 3
 
-Een als klassenbureau aan te wijzen organisatie houdt kantoor in een land van het Koninkrijk en heeft met Nederland, Aruba, Curaçao, onderscheidenlijk Sint Maarten een overeenkomst als bedoeld in artikel 6 van de richtlijn gesloten. De overeenkomst voldoet aan de in het tweede lid van dat artikel gestelde eisen.
+Een als klassenbureau aan te wijzen organisatie houdt kantoor in een land van het Koninkrijk en heeft met Nederland, Aruba, Curaçao, onderscheidenlijk Sint Maarten een overeenkomst als bedoeld in artikel 5 van de richtlijn gesloten. De overeenkomst voldoet aan de in het tweede lid van dat artikel gestelde eisen.
 
 ##### Artikel 4
 
-1. Een aanwijzing als klassenbureau wordt verleend voor onbepaalde tijd of, indien aan de organisatie een beperkte erkenning voor drie jaren als bedoeld in artikel 4, tweede lid, van de richtlijn is verleend, voor de duur van die beperkte erkenning.
-
-2. Een aanwijzing vervalt, indien de in artikel 4 van de richtlijn bedoelde erkenning van de aangewezen organisatie door de Commissie van de Europese Gemeenschappen wordt ingetrokken.
+Indien de erkenning van een organisatie op grond van de verordening wordt ingetrokken, wordt de aanwijzing van deze organisatie als klassenbureau ingetrokken met ingang van de dag waarop de intrekking van de erkenning op grond van de verordening van kracht wordt.
 
 ##### Artikel 5
 
-1. Een aanwijzing als klassenbureau kan met inachtneming van artikel 10 van de richtlijn worden geschorst, indien door een handeling of nalatigheid van de aangewezen organisatie ernstig gevaar voor de veiligheid of het milieu is of kan ontstaan.
+1. Een aanwijzing als klassenbureau kan met inachtneming van artikel 8 van de richtlijn worden geschorst of ingetrokken, indien door een handeling of nalatigheid van de aangewezen organisatie ernstig gevaar voor de veiligheid of het milieu is of kan ontstaan.
 
-2. Een aanwijzing kan voorts worden ingetrokken, indien niet meer wordt voldaan aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014652&artikel=3&z=2010-10-10&g=2010-10-10).
+2. Een aanwijzing kan voorts worden ingetrokken, indien niet meer wordt voldaan aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014652&artikel=3&z=2011-06-17&g=2011-06-17).
 
 ##### Artikel 6
 
@@ -134,6 +134,6 @@ Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Cou
 
 ##### Artikel 5d
 
-De resolutie, bedoeld in [artikel 5c, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014652&artikel=5c&z=2010-10-10&g=2010-10-10), en de circulaire, bedoeld in [artikel 5c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014652&artikel=5c&z=2010-10-10&g=2010-10-10), liggen ter inzage bij het Ministerie van Verkeer en Waterstaat.
+De resolutie, bedoeld in [artikel 5c, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014652&artikel=5c&z=2011-06-17&g=2011-06-17), en de circulaire, bedoeld in [artikel 5c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014652&artikel=5c&z=2011-06-17&g=2011-06-17), liggen ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
 Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Courant en in het Afkondigingsblad van Aruba worden geplaatst.
