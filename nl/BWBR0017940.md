@@ -4,7 +4,7 @@ identifier: "BWBR0017940"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-11-09"
-last_updated: "2010-10-10"
+last_updated: "2011-06-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017940"
 soort: "ministeriele-regeling"
@@ -112,13 +112,15 @@ In deze regeling wordt verstaan onder:
 
 - o. richtlijn 2004/49/EG: richtlijn nr. 2004/49/EG van het Europees Parlement en de Raad van 29 april 2004 inzake de veiligheid op de communautaire spoorwegen en tot wijziging van richtlijn 95/18/EG van de Raad betreffende de verlening van vergunningen aan spoorwegondernemingen, en van richtlijn 2001/14/EG van de Raad inzake de toewijzing van spoorweginfrastructuurcapaciteit en de heffing van rechten voor het gebruik van spoorweginfrastructuur alsmede inzake veiligheidscertificering (‘Spoorwegveiligheidsrichtlijn’) (PbEG L 220);
 
-- p. spoorweg: het spoorwegsysteem als bedoeld in richtlijn nr. 2004/49/EG voor zover dit systeem is aangewezen in het [Besluit aanwijzing hoofdspoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0017794).
+- p. richtlijn 2009/18/EG: richtlijn nr. 2009/18/EG van het Europees Parlement en van de Raad van Europese Unie van 23 april 2009 tot vaststelling van de grondbeginselen voor het onderzoek van ongevallen in de scheepvaartsector en tot wijziging van de Richtlijn 1999/35/EG van de Raad en Richtlijn 2002/59/EG van het Europees Parlement en de Raad (PbEU 2009, L 131);
+
+- q. spoorweg: het spoorwegsysteem als bedoeld in richtlijn nr. 2004/49/EG voor zover dit systeem is aangewezen in het [Besluit aanwijzing hoofdspoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0017794).
 
 #### § 2. Toepasselijkheid
 
 ##### Artikel 2
 
-1. De [artikelen 5 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2010-10-10&g=2010-10-10) en [15 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=9&artikel=15&z=2010-10-10&g=2010-10-10) zijn niet van toepassing op voorvallen waarbij geen andere zaak of persoon is betrokken dan een zaak of persoon in gebruik bij onderscheidenlijk in de uitoefening van een functie ten behoeve van:
+1. De [artikelen 5 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2011-06-17&g=2011-06-17) en [15 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=9&artikel=15&z=2011-06-17&g=2011-06-17) zijn niet van toepassing op voorvallen waarbij geen andere zaak of persoon is betrokken dan een zaak of persoon in gebruik bij onderscheidenlijk in de uitoefening van een functie ten behoeve van:
 
 - a. de Minister van Defensie,
 
@@ -126,7 +128,7 @@ In deze regeling wordt verstaan onder:
 
 - c. een organisatie waarvan het beheer is opgedragen aan de Minister van Defensie.
 
-2. Indien bij een voorval als bedoeld in het eerste lid tevens een andere zaak of persoon is betrokken dan in dat lid bedoeld, zijn de [artikelen 5 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2010-10-10&g=2010-10-10) en [15 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=9&artikel=15&z=2010-10-10&g=2010-10-10) slechts van toepassing voor zover het die andere zaak of persoon betreft.
+2. Indien bij een voorval als bedoeld in het eerste lid tevens een andere zaak of persoon is betrokken dan in dat lid bedoeld, zijn de [artikelen 5 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2011-06-17&g=2011-06-17) en [15 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=9&artikel=15&z=2011-06-17&g=2011-06-17) slechts van toepassing voor zover het die andere zaak of persoon betreft.
 
 #### § 3. Staten met een aanmerkelijk belang
 
@@ -248,7 +250,11 @@ In geval van een voorval met een zeeschip wordt onder staat met aanmerkelijk bel
 
 ##### Artikel 6
 
-In geval van een scheepvaartongeval of een ernstig scheepvaartincident met een zeeschip in de Europese wateren onder Nederlandse jurisdictie, doet de raad terzake zo spoedig mogelijk een melding toekomen aan de staat waarvan het zeeschip, dat niet is een Nederlands zeeschip, de vlag voert, dan wel aan Aruba, Curaçao of Sint Maarten indien het een zeeschip uit Aruba, Curaçao onderscheidenlijk Sint Maarten betreft. Hij vermeldt daarbij tevens welke actie door Nederland wordt voorgesteld.
+1. In geval van een scheepvaartongeval of een ernstig scheepvaartincident met een zeeschip in de Europese wateren onder Nederlandse jurisdictie, doet de raad terzake zo spoedig mogelijk een melding toekomen aan de staat waarvan het zeeschip, dat niet is een Nederlands zeeschip, de vlag voert, dan wel aan Aruba, Curaçao of Sint Maarten indien het een zeeschip uit Aruba, Curaçao onderscheidenlijk Sint Maarten betreft. Hij vermeldt daarbij tevens welke actie door Nederland wordt voorgesteld.
+
+2. Een melding als bedoeld in het eerste lid doet de raad tevens toekomen aan de Europese Commissie, met inachtneming van bijlage II van richtlijn 2009/18/EG.
+
+3. Indien de raad preventieve maatregelen door de Europese Commissie noodzakelijk acht, meldt hij dit onverwijld aan de Commissie.
 
 #### § 6. Melding onderzoek en informatie betreffende een onderzoek
 
@@ -264,7 +270,7 @@ In geval van een scheepvaartongeval of een ernstig scheepvaartincident met een z
 
 - d. de internationale burgerluchtvaartorganisatie indien het om een luchtvaartuig gaat met een startmassa van meer dan 2250 kg.
 
-2. [Artikel 5, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing.
+2. [Artikel 5, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2011-06-17&g=2011-06-17), is van overeenkomstige toepassing.
 
 ##### Artikel 8
 
@@ -346,23 +352,7 @@ De raad stelt het rapport, bedoeld in [artikel 55, eerste lid, van de rijkswet](
 
 ##### Artikel 15
 
-Het rapport betreffende een scheepvaartongeval of een scheepvaartincident met een zeeschip bevat zo mogelijk de volgende informatie:
-
-- a. een samenvatting die een overzicht geeft van de voornaamste feiten van het ongeval of incident en die vermeldt of er sprake is van dood of letsel van personen dan wel van milieuverontreiniging ten gevolge van het ongeval;
-
-- b. een vermelding van de staat waarvan het betrokken zeeschip of de betrokken zeeschepen de vlag voeren, de eigenaren, de directeuren, de maatschappij en het klassenbureau van het betrokken zeeschip of de betrokken zeeschepen;
-
-- c. bijzonderheden van de afmetingen en machines van het betrokken zeeschip of de betrokken zeeschepen alsmede een beschrijving van de bemanning, werkaanpak en andere relevante aangelegenheden, zoals gedurende welke tijd dienst is gedaan op een betrokken zeeschip;
-
-- d. een nauwkeurige beschrijving van de omstandigheden van het ongeval of incident;
-
-- e. een analyse en commentaar die het mogelijk maken om logische conclusies te trekken of bevindingen die alle factoren vaststellen die hebben bijgedragen aan het ongeval of incident;
-
-- f. een analyse van en commentaar op de oorzaken, waaronder mechanische factoren en menselijke factoren, die voldoen aan de vereisten van de ongevalsregistratie van de Internationale Maritieme Organisatie;
-
-- g. indien daartoe aanleiding is, geconstateerde veiligheidstekorten;
-
-- h. indien daartoe aanleiding is, veiligheidsaanbevelingen.
+Het rapport betreffende een scheepvaartongeval of een scheepvaartincident met een zeeschip wordt opgesteld met inachtneming van bijlage I bij richtlijn nr. 2009/18/EG.
 
 ##### Artikel 16
 
@@ -384,7 +374,7 @@ Het rapport betreffende een scheepvaartongeval of een scheepvaartincident met ee
 
 ##### Artikel 17
 
-1. In geval van een onderzoek betreffende een luchtvaartongeval of een luchtvaartincident, zendt de raad een afschrift van zijn rapport aan de Commissie van de Europese Gemeenschappen. Indien het onderzoek een luchtvaartongeval betreft, zendt de raad een afschrift van zijn rapport tevens aan:
+1. In geval van een onderzoek betreffende een luchtvaartongeval of een luchtvaartincident, zendt de raad een afschrift van zijn rapport aan de Europese Commissie. Indien het onderzoek een luchtvaartongeval betreft, zendt de raad een afschrift van zijn rapport tevens aan:
 
 - a. de staat die het onderzoek heeft ingesteld,
 
@@ -404,9 +394,9 @@ Het rapport betreffende een scheepvaartongeval of een scheepvaartincident met ee
 
 3. In geval van een onderzoek betreffende een scheepvaartongeval of een scheepvaartincident met een zeeschip, zendt de raad een afschrift van zijn rapport aan de Internationale Maritieme Organisatie.
 
-4. In geval van een onderzoek betreffende een scheepvaartongeval met een ro-ro-veerboot of een hogesnelheidspassagiersvaartuig, zendt de raad tevens een afschrift van zijn rapport aan de Commissie van de Europese Gemeenschappen.
+4. In geval van een onderzoek betreffende een scheepvaartongeval, met inbegrip van een ongeval met een ro-ro-veerboot of een hogesnelheidspassagiervaartuig, of een zeevaartincident met een zeeschip, zendt de raad tevens een afschrift van zijn rapport aan de Europese Commissie.
 
-5. In geval van een onderzoek betreffende een zwaar ongeval waarbij gevaarlijke stoffen zijn betrokken als bedoeld in [artikel 8, eerste lid, van het Besluit Onderzoeksraad voor veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&artikel=8), zendt de raad een afschrift van zijn rapport aan de Commissie van de Europese Gemeenschappen.
+5. In geval van een onderzoek betreffende een zwaar ongeval waarbij gevaarlijke stoffen zijn betrokken als bedoeld in [artikel 8, eerste lid, van het Besluit Onderzoeksraad voor veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&artikel=8), zendt de raad een afschrift van zijn rapport aan de Europese Commissie.
 
 #### § 10. Vergoedingen
 
@@ -460,7 +450,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 17b
 
-Een wijziging van bijlage V bij richtlijn 2004/49/EG gaat voor de toepassing van [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=9&artikel=17a&z=2010-10-10&g=2010-10-10), gelden met ingang van de waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven
+Een wijziging van bijlage V bij richtlijn 2004/49/EG gaat voor de toepassing van [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=9&artikel=17a&z=2011-06-17&g=2011-06-17), gelden met ingang van de waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven
 
 #### § 10. Vergoedingen
 
