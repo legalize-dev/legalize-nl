@@ -4,7 +4,7 @@ identifier: "BWBR0024991"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-11"
-last_updated: "2011-01-01"
+last_updated: "2011-06-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024991"
 soort: "ministeriele-regeling"
@@ -46,9 +46,11 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **directie:** een van de organisatieonderdelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=2&artikel=2&z=2010-06-25&g=2011-01-01);
+- a. **directie:** een van de organisatieonderdelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=2&artikel=2&z=2011-06-18&g=2011-06-18);
 
-- b. **directeur:** een functionaris die leiding geeft aan een directie.
+- b. **directeur:** een functionaris die leiding geeft aan een directie;
+
+- c. **RCN:** Rijksdienst Caribisch Nederland.
 
 #### § 2. Organisatie
 
@@ -56,15 +58,11 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 Onder de secretaris-generaal ressorteren:
 
-- a. de Auditdienst;
+- a. de directie Communicatie;
 
-- b. de directie Bestuursondersteuning;
+- b. de directie Financieel Economische Zaken;
 
-- c. de directie Communicatie;
-
-- d. de directie Financieel Economische Zaken;
-
-- e. de directie Wetgeving, Bestuurlijke en Juridische Aangelegenheden.
+- c. de directie Wetgeving, Bestuurlijke en Juridische Aangelegenheden.
 
 #### § 3. Verantwoordelijkheden
 
@@ -104,23 +102,11 @@ Onder de secretaris-generaal ressorteren:
 
 ##### Artikel 4
 
-1. De Auditdienst is verantwoordelijk voor de uitvoering van de taken van de departementale Accountantsdienst, bedoeld in de [Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891) en daarop gebaseerde regelgeving.
-
-2. De Auditdienst controleert de financiële verantwoording van de departementsonderdelen en de bedrijfsvoering die daaraan ten grondslag ligt.
-
-3. De Auditdienst adviseert op het gebied van financieel beheer.
+Vervallen
 
 ##### Artikel 5
 
-De directie Bestuursondersteuning is verantwoordelijk voor:
-
-- a. inhoudelijk advies en ondersteuning bieden aan de SG, DG Participatie en Bescherming, DG Werk en DG UHB;
-
-- b. inhoudelijke, logistieke, secretariële protocollaire ondersteuning van de secretaris-generaal en de politieke leiding van het departement;
-
-- c. het beleid op het gebied van beveiliging, informatiebeveiliging en het toezicht houden op de naleving daarvan;
-
-- d. de persoonlijke beveiliging van de bewindspersonen en hun huisgenoten en de coördinatie en de bemensing van de crisisbeheersingsorganisatie;
+Vervallen
 
 ##### Artikel 6
 
@@ -146,7 +132,7 @@ De directie Financieel Economische Zaken is verantwoordelijk voor:
 
 ##### Artikel 8
 
-De directie Wetgeving, Bestuurlijke en Juridische Aangelegenheden is verantwoordelijk voor:
+1. De directie Wetgeving, Bestuurlijke en Juridische Aangelegenheden is verantwoordelijk voor:
 
 - a. het bevorderen van de kwaliteit van wet- en regelgeving en van het bestuurlijk en juridisch handelen van het ministerie;
 
@@ -160,15 +146,17 @@ De directie Wetgeving, Bestuurlijke en Juridische Aangelegenheden is verantwoord
 
 - f. het bijdragen aan de totstandkoming en implementatie van internationale verdragen respectievelijk regelingen, het toetsen van nationale (ontwerp)regelgeving aan het internationale recht en het behandelen van internationale procedures.
 
+2. In afwijking van het eerste lid, onderdeel e, is de directie Wetgeving, Bestuurlijke en Juridische Aangelegenheden niet verantwoordelijk voor het behandelen van bezwaar- en beroepszaken, die betrekking hebben op besluiten die door de RCN-unit Sociale Zaken, gevestigd te Bonaire, Sint Eustatius en Saba, namens de minister zijn genomen.
+
 #### § 4. Bevoegdheden directeuren
 
 ##### Artikel 9
 
-1. Elk van de directeuren is bevoegd om namens een bewindspersoon besluiten te nemen, overeenkomsten aan te gaan en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met de taken en verantwoordelijkheden van zijn directie, tenzij deze zijn voorbehouden aan een bewindspersoon, de secretaris-generaal of de plaatsvervangend secretaris-generaal, dan wel ingevolge [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=4&artikel=10&z=2010-06-25&g=2011-01-01) onder de bevoegdheid van een andere directeur vallen.
+1. Elk van de directeuren is bevoegd om namens een bewindspersoon besluiten te nemen, overeenkomsten aan te gaan en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met de taken en verantwoordelijkheden van zijn directie, tenzij deze zijn voorbehouden aan een bewindspersoon, de secretaris-generaal of de plaatsvervangend secretaris-generaal, dan wel ingevolge [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=4&artikel=10&z=2011-06-18&g=2011-06-18) onder de bevoegdheid van een andere directeur vallen.
 
 2. Aan elke directeur wordt mandaat en machtiging verleend tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op:
 
-- a. de in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=3&artikel=3&z=2010-06-25&g=2011-01-01), genoemde personeelsaangelegenheden;
+- a. de in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=3&artikel=3&z=2011-06-18&g=2011-06-18), genoemde personeelsaangelegenheden;
 
 - b. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1), voor zover deze klachten betrekking hebben op gedragingen van de onder elk van hen ressorterende functionarissen.
 
@@ -230,7 +218,7 @@ De directie Wetgeving, Bestuurlijke en Juridische Aangelegenheden is verantwoord
 
 ##### Artikel 12
 
-Na de inwerkingtreding van deze regeling berusten de volgende regelingen die genomen zijn krachtens de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0016199&artikel=3), en [11 van het Organisatie-, mandaat- en volmachtbesluit SZW 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016199&artikel=11) op de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=3&artikel=3&z=2010-06-25&g=2011-01-01), en [11 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=5&artikel=11&z=2010-06-25&g=2011-01-01):
+Na de inwerkingtreding van deze regeling berusten de volgende regelingen die genomen zijn krachtens de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0016199&artikel=3), en [11 van het Organisatie-, mandaat- en volmachtbesluit SZW 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016199&artikel=11) op de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=3&artikel=3&z=2011-06-18&g=2011-06-18), en [11 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=5&artikel=11&z=2011-06-18&g=2011-06-18):
 
 - a. het [Organisatie-, mandaat- en volmachtbesluit BSG SZW 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016367);
 
