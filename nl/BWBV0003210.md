@@ -4,7 +4,7 @@ identifier: "BWBV0003210"
 country: "nl"
 rank: "verdrag"
 publication_date: "2017-12-01"
-last_updated: "2006-06-09"
+last_updated: "2011-06-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003210"
 soort: "verdrag"
@@ -114,7 +114,7 @@ Erkennende het geïntegreerde karakter van de internationale burgerluchtvaart en
 
 Overwegende dat de regels betreffende de ECAA op multilaterale basis binnen de ECAA van toepassing zullen zijn en dat in deze context derhalve specifieke regels moeten worden vastgelegd;
 
-Ermee instemmende dat deze regels van de ECAA moeten worden gebaseerd op de relevante wetgeving die in de Europese Gemeenschap van kracht is, zoals vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09), onverminderd de regels van het [Verdrag tot oprichting van de Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506);
+Ermee instemmende dat deze regels van de ECAA moeten worden gebaseerd op de relevante wetgeving die in de Europese Gemeenschap van kracht is, zoals vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22), onverminderd de regels van het [Verdrag tot oprichting van de Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506);
 
 Erkennende dat volledige naleving van de regels van de ECAA de overeenkomstsluitende partijen het recht geeft de door de ECAA geboden voordelen, waaronder markttoegang, te genieten;
 
@@ -146,19 +146,19 @@ De opdracht tot correctie is als volgt geïnterpreteerd. De tekst ‘na „de Re
 
 ##### Artikel 1
 
-1. Het doel van deze Overeenkomst is de totstandbrenging van een Europese Gemeenschappelijke Luchtvaartruimte, hierna „de ECAA” genoemd. De ECAA is gebaseerd op vrije markttoegang, vrijheid van vestiging, gelijke concurrentievoorwaarden en gemeenschappelijke regels, inclusief gemeenschappelijke regels op het gebied van veiligheid, beveiliging, luchtverkeersbeheer, sociale aspecten en milieu. Hiertoe worden in deze Overeenkomst de regels vastgesteld die tussen de overeenkomstsluitende partijen van toepassing zijn onder de hieronder vastgestelde voorwaarden. Deze regels omvatten de bepalingen die zijn opgenomen in de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde wetgeving.
+1. Het doel van deze Overeenkomst is de totstandbrenging van een Europese Gemeenschappelijke Luchtvaartruimte, hierna „de ECAA” genoemd. De ECAA is gebaseerd op vrije markttoegang, vrijheid van vestiging, gelijke concurrentievoorwaarden en gemeenschappelijke regels, inclusief gemeenschappelijke regels op het gebied van veiligheid, beveiliging, luchtverkeersbeheer, sociale aspecten en milieu. Hiertoe worden in deze Overeenkomst de regels vastgesteld die tussen de overeenkomstsluitende partijen van toepassing zijn onder de hieronder vastgestelde voorwaarden. Deze regels omvatten de bepalingen die zijn opgenomen in de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde wetgeving.
 
-2. De bepalingen van deze Overeenkomst zijn van toepassing voor zover zij betrekking hebben op het luchtvervoer of een in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemd aanverwant onderwerp.
+2. De bepalingen van deze Overeenkomst zijn van toepassing voor zover zij betrekking hebben op het luchtvervoer of een in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemd aanverwant onderwerp.
 
-3. De Overeenkomst bestaat uit een reeks artikelen waarin de algemene werking van de ECAA wordt uiteengezet („de hoofdovereenkomst”), een reeks bijlagen, waarbij [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) een overzicht geeft van de wetgeving van de Europese Gemeenschap die in het kader van de hoofdovereenkomst tussen de overeenkomstsluitende partijen van toepassing is, en een reeks protocollen, waarbij ten minste een protocol voor elke geassocieerde partij de voor die partij geldende overgangsregelingen vaststelt.
+3. De Overeenkomst bestaat uit een reeks artikelen waarin de algemene werking van de ECAA wordt uiteengezet („de hoofdovereenkomst”), een reeks bijlagen, waarbij [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) een overzicht geeft van de wetgeving van de Europese Gemeenschap die in het kader van de hoofdovereenkomst tussen de overeenkomstsluitende partijen van toepassing is, en een reeks protocollen, waarbij ten minste een protocol voor elke geassocieerde partij de voor die partij geldende overgangsregelingen vaststelt.
 
 ##### Artikel 2
 
 1. In deze Overeenkomst wordt verstaan onder:
 
-- a. „Overeenkomst’’: de hoofdovereenkomst met de bijbehorende protocollen en bijlagen alsmede de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde besluiten;
+- a. „Overeenkomst’’: de hoofdovereenkomst met de bijbehorende protocollen en bijlagen alsmede de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde besluiten;
 
-- b. „geassocieerde partij’’: de Republiek Albanië, Bosnië en Herzegovina, de Republiek Bulgarije, de Republiek Kroatië, de Voormalige Joegoslavische Republiek Macedonië, de Republiek Montenegro, Roemenië, de Republiek Servië, of enige andere staat of entiteit die krachtens [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=32&z=2006-06-09&g=2006-06-09) partij bij deze Overeenkomst is geworden;
+- b. „geassocieerde partij’’: de Republiek Albanië, Bosnië en Herzegovina, de Republiek Bulgarije, de Republiek Kroatië, de Voormalige Joegoslavische Republiek Macedonië, de Republiek Montenegro, Roemenië, de Republiek Servië, of enige andere staat of entiteit die krachtens [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=32&z=2011-06-22&g=2011-06-22) partij bij deze Overeenkomst is geworden;
 
 - c. „UNMIK’’: de krachtens Resolutie 1244 van de VN-Veiligheidsraad van 10 juni 1999 opgerichte Missie van de Verenigde Naties voor interimbestuur in Kosovo, eveneens een geassocieerde partij;
 
@@ -172,7 +172,7 @@ De opdracht tot correctie is als volgt geïnterpreteerd. De tekst ‘na „de Re
 
 - h. „associatieovereenkomst’’: elke overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap of de Europese Gemeenschap en haar lidstaten enerzijds, en de desbetreffende geassocieerde partij anderzijds;
 
-- i. „ECAA-luchtvaartmaatschappij’’: een luchtvaartmaatschappij die beschikt over een vergunning in de zin van deze Overeenkomst, overeenkomstig de bepalingen van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) gespecificeerde toepasselijke besluiten;
+- i. „ECAA-luchtvaartmaatschappij’’: een luchtvaartmaatschappij die beschikt over een vergunning in de zin van deze Overeenkomst, overeenkomstig de bepalingen van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) gespecificeerde toepasselijke besluiten;
 
 - j. „bevoegde burgerluchtvaartinstantie’’: een overheidsinstantie of -entiteit die een wettelijk recht uitoefent om het gebruik of de verkoop van producten of diensten of vergunningen binnen de jurisdictie van een overeenkomstsluitende partij op conformiteit te toetsen, te certificeren en te controleren, en handhavingsmaatregelen kan treffen om ervoor te zorgen dat binnen de jurisdictie van die partij verhandelde producten of diensten aan de wettelijke eisen voldoen;
 
@@ -188,7 +188,7 @@ De opdracht tot correctie is als volgt geïnterpreteerd. De tekst ‘na „de Re
 
 ##### Artikel 3
 
-De toepasselijke bepalingen van de besluiten die worden bedoeld of zijn vervat in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09), aangepast overeenkomstig [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=II&z=2006-06-09&g=2006-06-09) bij deze Overeenkomst, of in beschikkingen van het gemengd comité, zijn verbindend voor de overeenkomstsluitende partijen en maken deel uit van of worden opgenomen in hun interne rechtsorde, zulks op de volgende wijze:
+De toepasselijke bepalingen van de besluiten die worden bedoeld of zijn vervat in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22), aangepast overeenkomstig [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=II&z=2011-06-22&g=2011-06-22) bij deze Overeenkomst, of in beschikkingen van het gemengd comité, zijn verbindend voor de overeenkomstsluitende partijen en maken deel uit van of worden opgenomen in hun interne rechtsorde, zulks op de volgende wijze:
 
 - a. een met een EG-verordening overeenstemmend besluit wordt opgenomen in de interne rechtsorde van de overeenkomstsluitende partijen;
 
@@ -212,19 +212,19 @@ Binnen de werkingssfeer van deze Overeenkomst en onverminderd de daarin vervatte
 
 ##### Artikel 7
 
-In het kader van deze Overeenkomst en onverminderd de bepalingen van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde toepasselijke besluiten, zijn beperkingen van de vrijheid van vestiging voor onderdanen van een EG-lidstaat of een ECAA-partner op het grondgebied van een EG-lidstaat of ECAA-partner verboden. De vrijheid van vestiging omvat de toegang tot werkzaamheden anders dan in loondienst en de uitoefening daarvan alsmede de oprichting en het beheer van ondernemingen, en met name van vennootschappen, overeenkomstig de bepalingen welke door de wetgeving van het land van vestiging voor de eigen onderdanen zijn vastgesteld. Dit geldt eveneens voor de oprichting van agentschappen, filialen of dochterondernemingen door de onderdanen van een EG-lidstaat of een ECAA-partner die op het grondgebied van een EG-lidstaat of ECAA-partner zijn gevestigd.
+In het kader van deze Overeenkomst en onverminderd de bepalingen van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde toepasselijke besluiten, zijn beperkingen van de vrijheid van vestiging voor onderdanen van een EG-lidstaat of een ECAA-partner op het grondgebied van een EG-lidstaat of ECAA-partner verboden. De vrijheid van vestiging omvat de toegang tot werkzaamheden anders dan in loondienst en de uitoefening daarvan alsmede de oprichting en het beheer van ondernemingen, en met name van vennootschappen, overeenkomstig de bepalingen welke door de wetgeving van het land van vestiging voor de eigen onderdanen zijn vastgesteld. Dit geldt eveneens voor de oprichting van agentschappen, filialen of dochterondernemingen door de onderdanen van een EG-lidstaat of een ECAA-partner die op het grondgebied van een EG-lidstaat of ECAA-partner zijn gevestigd.
 
 ##### Artikel 8
 
-1. In het kader van deze Overeenkomst en onverminderd de bepalingen van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde toepasselijke besluiten, worden vennootschappen welke in overeenstemming met de wetgeving van een EG-lidstaat of een ECAA-partner zijn opgericht of georganiseerd en welke hun hoofdvestiging binnen de ECAA hebben, gelijkgesteld met natuurlijke personen die onderdaan zijn van een EG-lidstaat of ECAA-partner.
+1. In het kader van deze Overeenkomst en onverminderd de bepalingen van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde toepasselijke besluiten, worden vennootschappen welke in overeenstemming met de wetgeving van een EG-lidstaat of een ECAA-partner zijn opgericht of georganiseerd en welke hun hoofdvestiging binnen de ECAA hebben, gelijkgesteld met natuurlijke personen die onderdaan zijn van een EG-lidstaat of ECAA-partner.
 
 2. Onder vennootschappen worden verstaan maatschappen naar burgerlijk recht of handelsrecht, de coöperatieve verenigingen of vennootschappen daaronder begrepen, en overige rechtspersonen naar publiek- of privaatrecht, met uitzondering van vennootschappen welke geen winst beogen.
 
 ##### Artikel 9
 
-1. De bepalingen van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=7&z=2006-06-09&g=2006-06-09) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=8&z=2006-06-09&g=2006-06-09) zijn niet van toepassing op werkzaamheden ter uitoefening van het openbaar gezag op het grondgebied van een overeenkomstsluitende partij, zelfs indien deze slechts voor een bepaalde gelegenheid geschieden.
+1. De bepalingen van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=7&z=2011-06-22&g=2011-06-22) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=8&z=2011-06-22&g=2011-06-22) zijn niet van toepassing op werkzaamheden ter uitoefening van het openbaar gezag op het grondgebied van een overeenkomstsluitende partij, zelfs indien deze slechts voor een bepaalde gelegenheid geschieden.
 
-2. De bepalingen van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=7&z=2006-06-09&g=2006-06-09) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=8&z=2006-06-09&g=2006-06-09) en de maatregelen uit hoofde daarvan genomen doen niet af aan de toepasselijkheid van de wettelijke en bestuursrechtelijke bepalingen van de overeenkomstsluitende partijen inzake toelating, verblijf en arbeid, of waarbij een bijzondere regeling is vastgesteld voor vreemdelingen, welke bepalingen uit hoofde van de openbare orde, de openbare veiligheid en de volksgezondheid gerechtvaardigd zijn.
+2. De bepalingen van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=7&z=2011-06-22&g=2011-06-22) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=8&z=2011-06-22&g=2011-06-22) en de maatregelen uit hoofde daarvan genomen doen niet af aan de toepasselijkheid van de wettelijke en bestuursrechtelijke bepalingen van de overeenkomstsluitende partijen inzake toelating, verblijf en arbeid, of waarbij een bijzondere regeling is vastgesteld voor vreemdelingen, welke bepalingen uit hoofde van de openbare orde, de openbare veiligheid en de volksgezondheid gerechtvaardigd zijn.
 
 ##### Artikel 10
 
@@ -238,7 +238,7 @@ In het kader van deze Overeenkomst en onverminderd de bepalingen van de in [bijl
 
 1. De overeenkomstsluitende partijen zetten de nodige middelen in om ervoor te zorgen dat bij een overeenkomstsluitende partij geregistreerde vliegtuigen, wanneer zij landen op luchthavens op het grondgebied van een andere overeenkomstsluitende partij, aan de krachtens de Overeenkomst vastgestelde internationale veiligheidsnormen voldoen en door de gemachtigde vertegenwoordigers van die andere overeenkomstsluitende partij aan een platforminspectie in en rond het vliegtuig worden onderworpen waarbij de geldigheid van de vliegtuigdocumenten en de documenten van de bemanning, alsook de kennelijke conditie van het vliegtuig en de uitrusting daarvan worden gecontroleerd.
 
-2. Een overeenkomstsluitende partij kan te allen tijde verzoeken om overleg over de veiligheidsnormen die door een andere overeenkomstsluitende partij worden gehanteerd op andere gebieden dan die welke onder de toepassing van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde besluiten vallen.
+2. Een overeenkomstsluitende partij kan te allen tijde verzoeken om overleg over de veiligheidsnormen die door een andere overeenkomstsluitende partij worden gehanteerd op andere gebieden dan die welke onder de toepassing van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde besluiten vallen.
 
 3. Geen enkele bepaling van deze overeenkomst kan zo worden uitgelegd dat zij voor een bevoegde burgerluchtvaartinstantie een beletsel vormt om onverwijld de nodige maatregelen te nemen wanneer zij vaststelt dat een product of dienst mogelijkerwijze
 
@@ -258,13 +258,13 @@ In het kader van deze Overeenkomst en onverminderd de bepalingen van de in [bijl
 
 ##### Artikel 12
 
-1. Om de burgerluchtvaart te beschermen tegen wederrechtelijke daden, zien de overeenkomstsluitende partijen erop toe dat de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) bij de Overeenkomt genoemde gemeenschappelijke basisnormen en mechanismen voor toezicht op de naleving inzake beveiliging van de luchtvaart op alle luchthavens op hun grondgebied worden toegepast, conform de in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) vermelde toepasselijke bepalingen.
+1. Om de burgerluchtvaart te beschermen tegen wederrechtelijke daden, zien de overeenkomstsluitende partijen erop toe dat de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) bij de Overeenkomt genoemde gemeenschappelijke basisnormen en mechanismen voor toezicht op de naleving inzake beveiliging van de luchtvaart op alle luchthavens op hun grondgebied worden toegepast, conform de in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) vermelde toepasselijke bepalingen.
 
 2. Op verzoek verlenen de overeenkomstsluitende partijen elkaar alle nodige assistentie om de wederrechtelijke toe-eigening van burgervliegtuigen en andere wederrechtelijke daden die gericht zijn tegen de veiligheid van die vliegtuigen, hun passagiers en bemanning, luchthavens en luchtverkeersfaciliteiten, alsook enige andere veiligheidsdreiging voor de burgerluchtvaart te voorkomen.
 
 3. Wanneer wederrechtelijke toe-eigening van burgervliegtuigen of andere wederrechtelijke daden die gericht zijn tegen de veiligheid van die vliegtuigen, hun passagiers en bemanning, luchthavens of luchtverkeersfaciliteiten plaatsvinden of dreigen plaats te vinden, verlenen de overeenkomstsluitende partijen elkaar assistentie door communicatie en andere passende maatregelen voor een snelle beëindiging van dergelijke incidenten of de dreiging daarvan te faciliteren.
 
-4. Een geassocieerde partij kan aan een inspectie door de Europese Commissie worden onderworpen overeenkomstig de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde wetgeving van de Europese Gemeenschap, en van die partij kan worden verlangd dat zij deelneemt aan inspecties door de Europese Commissie bij andere overeenkomstsluitende partijen.
+4. Een geassocieerde partij kan aan een inspectie door de Europese Commissie worden onderworpen overeenkomstig de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde wetgeving van de Europese Gemeenschap, en van die partij kan worden verlangd dat zij deelneemt aan inspecties door de Europese Commissie bij andere overeenkomstsluitende partijen.
 
 ### Luchtverkeersbeheer
 
@@ -284,41 +284,41 @@ In het kader van deze Overeenkomst en onverminderd de bepalingen van de in [bijl
 
 ##### Artikel 14
 
-1. Binnen de werkingssfeer van deze Overeenkomst is het bepaalde in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=III&z=2006-06-09&g=2006-06-09) van toepassing. Wanneer in andere overeenkomsten tussen twee of meer overeenkomstsluitende partijen, bijvoorbeeld associatieovereenkomsten, regels inzake mededinging en staatssteun zijn opgenomen, gelden deze regels tussen die partijen.
+1. Binnen de werkingssfeer van deze Overeenkomst is het bepaalde in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=III&z=2011-06-22&g=2011-06-22) van toepassing. Wanneer in andere overeenkomsten tussen twee of meer overeenkomstsluitende partijen, bijvoorbeeld associatieovereenkomsten, regels inzake mededinging en staatssteun zijn opgenomen, gelden deze regels tussen die partijen.
 
-2. De [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=15&z=2006-06-09&g=2006-06-09), [16](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=16&z=2006-06-09&g=2006-06-09) en [17](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=17&z=2006-06-09&g=2006-06-09) zijn niet van toepassing op het bepaalde in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=III&z=2006-06-09&g=2006-06-09).
+2. De [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=15&z=2011-06-22&g=2011-06-22), [16](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=16&z=2011-06-22&g=2011-06-22) en [17](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=17&z=2011-06-22&g=2011-06-22) zijn niet van toepassing op het bepaalde in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=III&z=2011-06-22&g=2011-06-22).
 
 ### Handhaving
 
 ##### Artikel 15
 
-1. Onverminderd de leden 2 en 3, zorgt iedere overeenkomstsluitende partij ervoor dat bij de nationale rechter een beroep kan worden gedaan op de uit deze Overeenkomst voortvloeiende rechten, met name die welke voortvloeien uit de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) vermelde besluiten.
+1. Onverminderd de leden 2 en 3, zorgt iedere overeenkomstsluitende partij ervoor dat bij de nationale rechter een beroep kan worden gedaan op de uit deze Overeenkomst voortvloeiende rechten, met name die welke voortvloeien uit de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) vermelde besluiten.
 
-2. In gevallen die van invloed kunnen zijn op feitelijke of potentiële luchtdiensten waarvoor in het kader van deze Overeenkomst een vergunning moet worden verleend, bezitten de instellingen van de Europese Gemeenschap de bevoegdheden die hun specifiek zijn verleend bij de bepalingen van de besluiten waarnaar wordt verwezen of die zijn opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09).
+2. In gevallen die van invloed kunnen zijn op feitelijke of potentiële luchtdiensten waarvoor in het kader van deze Overeenkomst een vergunning moet worden verleend, bezitten de instellingen van de Europese Gemeenschap de bevoegdheden die hun specifiek zijn verleend bij de bepalingen van de besluiten waarnaar wordt verwezen of die zijn opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22).
 
-3. Alle vragen met betrekking tot de wettigheid van besluiten die door de instellingen van de Europese Gemeenschap worden genomen op grond van deze Overeenkomst, met name op grond van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde besluiten, vallen onder de exclusieve bevoegdheid van het Hof van Justitie van de Europese Gemeenschappen (hierna: „het Hof van Justitie’’).
+3. Alle vragen met betrekking tot de wettigheid van besluiten die door de instellingen van de Europese Gemeenschap worden genomen op grond van deze Overeenkomst, met name op grond van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde besluiten, vallen onder de exclusieve bevoegdheid van het Hof van Justitie van de Europese Gemeenschappen (hierna: „het Hof van Justitie’’).
 
 ### Interpretatie
 
 ##### Artikel 16
 
-1. Voorzover de bepalingen van deze Overeenkomst en de bepalingen van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde besluiten inhoudelijk identiek zijn aan de overeenkomstige regels van het [EG-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) en krachtens het [EG-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) genomen besluiten, worden deze bepalingen, wat hun uitvoering en toepassing betreft, geïnterpreteerd overeenkomstig de toepasselijke uitspraken en besluiten van het Hof van Justitie en de Europese Commissie die dateren van vóór de datum van ondertekening van deze Overeenkomst. De uitspraken en besluiten die dateren van na de datum van ondertekening van deze Overeenkomst worden aan de andere overeenkomstsluitende partijen ter kennis gebracht. Op verzoek van een van de overeenkomstsluitende partijen worden de implicaties van dergelijke uitspraken en besluiten vastgesteld door het gemengd comité, met het oog op de goede werking van deze Overeenkomst. Bestaande interpretaties worden vóór de datum van ondertekening van deze Overeenkomst ter kennis gebracht van de ECAA-partners. De in het kader van deze procedure genomen besluiten van het gemengd comité dienen in overeenstemming te zijn met de jurisprudentie van het Hof van Justitie.
+1. Voorzover de bepalingen van deze Overeenkomst en de bepalingen van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde besluiten inhoudelijk identiek zijn aan de overeenkomstige regels van het [EG-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) en krachtens het [EG-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) genomen besluiten, worden deze bepalingen, wat hun uitvoering en toepassing betreft, geïnterpreteerd overeenkomstig de toepasselijke uitspraken en besluiten van het Hof van Justitie en de Europese Commissie die dateren van vóór de datum van ondertekening van deze Overeenkomst. De uitspraken en besluiten die dateren van na de datum van ondertekening van deze Overeenkomst worden aan de andere overeenkomstsluitende partijen ter kennis gebracht. Op verzoek van een van de overeenkomstsluitende partijen worden de implicaties van dergelijke uitspraken en besluiten vastgesteld door het gemengd comité, met het oog op de goede werking van deze Overeenkomst. Bestaande interpretaties worden vóór de datum van ondertekening van deze Overeenkomst ter kennis gebracht van de ECAA-partners. De in het kader van deze procedure genomen besluiten van het gemengd comité dienen in overeenstemming te zijn met de jurisprudentie van het Hof van Justitie.
 
-2. Wanneer er bij de behandeling van een zaak door een rechterlijke instantie van een ECAA-partner een probleem ontstaat inzake de interpretatie van deze Overeenkomst, van de bepalingen van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde besluiten of van besluiten die op grond daarvan zijn genomen, welke inhoudelijk identiek zijn aan overeenkomstige regels van het [EG-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) en krachtens het [EG-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) genomen besluiten, verzoekt die rechterlijke instantie, indien zij een beslissing op dit punt noodzakelijk acht voor het wijzen van haar vonnis, overeenkomstig [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=IV&z=2006-06-09&g=2006-06-09) het Hof van Justitie een uitspraak over het probleem te doen. Een ECAA-partner kan bij besluit en overeenkomstig [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=IV&z=2006-06-09&g=2006-06-09) vastleggen in hoeverre en onder welke voorwaarden zijn rechterlijke instanties deze bepaling toepassen. Dat besluit wordt ter kennis gebracht van de depositaris en van het Hof van Justitie. De depositaris deelt dit aan de andere overeenkomstsluitende partijen mede.
+2. Wanneer er bij de behandeling van een zaak door een rechterlijke instantie van een ECAA-partner een probleem ontstaat inzake de interpretatie van deze Overeenkomst, van de bepalingen van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde besluiten of van besluiten die op grond daarvan zijn genomen, welke inhoudelijk identiek zijn aan overeenkomstige regels van het [EG-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) en krachtens het [EG-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) genomen besluiten, verzoekt die rechterlijke instantie, indien zij een beslissing op dit punt noodzakelijk acht voor het wijzen van haar vonnis, overeenkomstig [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=IV&z=2011-06-22&g=2011-06-22) het Hof van Justitie een uitspraak over het probleem te doen. Een ECAA-partner kan bij besluit en overeenkomstig [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=IV&z=2011-06-22&g=2011-06-22) vastleggen in hoeverre en onder welke voorwaarden zijn rechterlijke instanties deze bepaling toepassen. Dat besluit wordt ter kennis gebracht van de depositaris en van het Hof van Justitie. De depositaris deelt dit aan de andere overeenkomstsluitende partijen mede.
 
-3. Wanneer, overeenkomstig lid 1, een rechterlijke instantie van een overeenkomstsluitende partij waarvan de beslissingen volgens het nationale recht niet vatbaar zijn voor hoger beroep, geen zaken kan voorleggen aan het Hof van Justitie, wordt elke uitspraak van die rechterlijke instantie door de betrokken overeenkomstsluitende partij voorgelegd aan het gemengd comité, dat moet toezien op een homogene interpretatie van deze Overeenkomst. Indien het gemengd comité er binnen twee maanden nadat een discrepantie tussen de jurisprudentie van het Hof van Justitie en een uitspraak van een rechterlijke instantie van de betrokken overeenkomstsluitende partij onder zijn aandacht is gebracht, er niet in is geslaagd een homogene interpretatie van deze Overeenkomst te handhaven, kunnen de procedures van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=20&z=2006-06-09&g=2006-06-09) worden toegepast.
+3. Wanneer, overeenkomstig lid 1, een rechterlijke instantie van een overeenkomstsluitende partij waarvan de beslissingen volgens het nationale recht niet vatbaar zijn voor hoger beroep, geen zaken kan voorleggen aan het Hof van Justitie, wordt elke uitspraak van die rechterlijke instantie door de betrokken overeenkomstsluitende partij voorgelegd aan het gemengd comité, dat moet toezien op een homogene interpretatie van deze Overeenkomst. Indien het gemengd comité er binnen twee maanden nadat een discrepantie tussen de jurisprudentie van het Hof van Justitie en een uitspraak van een rechterlijke instantie van de betrokken overeenkomstsluitende partij onder zijn aandacht is gebracht, er niet in is geslaagd een homogene interpretatie van deze Overeenkomst te handhaven, kunnen de procedures van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=20&z=2011-06-22&g=2011-06-22) worden toegepast.
 
 ### Nieuwe wetgeving
 
 ##### Artikel 17
 
-1. Deze Overeenkomst laat onverlet het recht van elke overeenkomstsluitende partij om, onverminderd het niet-discriminatiebeginsel en de bepalingen van dit artikel en van [artikel 18, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=18&z=2006-06-09&g=2006-06-09), eenzijdig nieuwe wetgeving op het gebied van het luchtvervoer of een in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemd daarmee samenhangend gebied aan te nemen of haar bestaande wetgeving ter zake te wijzigen. De geassocieerde partijen nemen dergelijke wetgeving alleen aan wanneer deze in overeenstemming is met deze Overeenkomst.
+1. Deze Overeenkomst laat onverlet het recht van elke overeenkomstsluitende partij om, onverminderd het niet-discriminatiebeginsel en de bepalingen van dit artikel en van [artikel 18, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=18&z=2011-06-22&g=2011-06-22), eenzijdig nieuwe wetgeving op het gebied van het luchtvervoer of een in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemd daarmee samenhangend gebied aan te nemen of haar bestaande wetgeving ter zake te wijzigen. De geassocieerde partijen nemen dergelijke wetgeving alleen aan wanneer deze in overeenstemming is met deze Overeenkomst.
 
 2. Zodra een overeenkomstsluitende partij nieuwe wetgeving heeft aangenomen of een wijziging van zijn wetgeving heeft vastgesteld, stelt zij de andere overeenkomstsluitende partijen daarvan uiterlijk binnen een maand na vaststelling van de nieuwe wetgeving of wijziging via het gemengd comité in kennis. Op verzoek van een overeenkomstsluitende partij houdt het gemengd comité binnen de daaropvolgende twee maanden een gedachtewisseling over de implicaties van die nieuwe wetgeving of wijziging voor de goede werking van de Overeenkomst.
 
 3. Het gemengd comité:
 
-- a. neemt een besluit tot herziening van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) van deze Overeenkomst, teneinde daarin, zo nodig op basis van wederkerigheid, de nieuwe wetgeving of wijziging in kwestie op te nemen, of
+- a. neemt een besluit tot herziening van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) van deze Overeenkomst, teneinde daarin, zo nodig op basis van wederkerigheid, de nieuwe wetgeving of wijziging in kwestie op te nemen, of
 
 - b. neemt een besluit waarbij wordt vastgesteld dat de nieuwe wetgeving of wijziging in kwestie wordt beschouwd als zijnde in overeenstemming met deze Overeenkomst, of
 
@@ -330,7 +330,7 @@ In het kader van deze Overeenkomst en onverminderd de bepalingen van de in [bijl
 
 ##### Artikel 18
 
-1. Er wordt een gemengd comité ingesteld dat verantwoordelijk is voor het beheer van deze Overeenkomst en zorgt voor de goede uitvoering daarvan, onverminderd [artikel 15, lid 2 en lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=15&z=2006-06-09&g=2006-06-09), [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=21&z=2006-06-09&g=2006-06-09) en [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=22&z=2006-06-09&g=2006-06-09). Hiertoe doet het aanbevelingen en neemt het besluiten in de gevallen waarin deze Overeenkomst voorziet. De besluiten van het gemengd comité worden door de overeenkomstsluitende partijen overeenkomstig hun eigen regels ten uitvoer gebracht.
+1. Er wordt een gemengd comité ingesteld dat verantwoordelijk is voor het beheer van deze Overeenkomst en zorgt voor de goede uitvoering daarvan, onverminderd [artikel 15, lid 2 en lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=15&z=2011-06-22&g=2011-06-22), [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=21&z=2011-06-22&g=2011-06-22) en [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=22&z=2011-06-22&g=2011-06-22). Hiertoe doet het aanbevelingen en neemt het besluiten in de gevallen waarin deze Overeenkomst voorziet. De besluiten van het gemengd comité worden door de overeenkomstsluitende partijen overeenkomstig hun eigen regels ten uitvoer gebracht.
 
 2. Het gemengd comité bestaat uit vertegenwoordigers van de overeenkomstsluitende partijen.
 
@@ -360,15 +360,15 @@ In het kader van deze Overeenkomst en onverminderd de bepalingen van de in [bijl
 
 2. Wanneer een geschil overeenkomstig lid 1 aan het gemengd comité is voorgelegd, vindt onverwijld overleg plaats tussen de partijen in het geschil. Wanneer de Europese Gemeenschap geen partij is in het geschil, kan een vertegenwoordiger van de Europese Gemeenschap door een van de partijen in het geschil bij het overleg worden uitgenodigd. De partijen in het geschil kunnen een voorstel voor een oplossing opstellen, dat onverwijld aan het gemengd comité wordt voorgelegd. De door het gemengd comité in het kader van deze procedure genomen besluiten laten de jurisprudentie van het Hof van Justitie onverlet.
 
-3. Indien het gemengd comité er niet in slaagt het geschil op te lossen binnen vier maanden vanaf het tijdstip waarop de zaak aan het comité is voorgelegd, kunnen de partijen in het geschil de zaak voorleggen aan het Hof van Justitie, dat er een definitieve en bindende uitspraak over doet. De nadere voorwaarden waaronder een zaak kan worden voorgelegd aan het Hof van Justitie zijn opgenomen in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=IV&z=2006-06-09&g=2006-06-09).
+3. Indien het gemengd comité er niet in slaagt het geschil op te lossen binnen vier maanden vanaf het tijdstip waarop de zaak aan het comité is voorgelegd, kunnen de partijen in het geschil de zaak voorleggen aan het Hof van Justitie, dat er een definitieve en bindende uitspraak over doet. De nadere voorwaarden waaronder een zaak kan worden voorgelegd aan het Hof van Justitie zijn opgenomen in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=IV&z=2011-06-22&g=2011-06-22).
 
-4. Indien het gemengd comité geen besluit over een zaak neemt binnen vier maanden nadat deze aan het comité is voorgelegd, kunnen de overeenkomstsluitende partijen passende vrijwaringsmaatregelen nemen overeenkomstig de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=21&z=2006-06-09&g=2006-06-09) en [22](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=22&z=2006-06-09&g=2006-06-09), voor een periode van ten hoogste zes maanden. Na deze periode kan elke overeenkomstsluitende partij de Overeenkomst met onmiddellijke ingang opzeggen. Een overeenkomstsluitende partij neemt geen vrijwaringsmaatregelen met betrekking tot een zaak die krachtens deze Overeenkomst naar het Hof van Justitie is verwezen, behoudens de in [artikel 11, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=11&z=2006-06-09&g=2006-06-09), genoemde gevallen of in overeenstemming met mechanismen waarin is voorzien in de afzonderlijke, in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde besluiten.
+4. Indien het gemengd comité geen besluit over een zaak neemt binnen vier maanden nadat deze aan het comité is voorgelegd, kunnen de overeenkomstsluitende partijen passende vrijwaringsmaatregelen nemen overeenkomstig de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=21&z=2011-06-22&g=2011-06-22) en [22](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=22&z=2011-06-22&g=2011-06-22), voor een periode van ten hoogste zes maanden. Na deze periode kan elke overeenkomstsluitende partij de Overeenkomst met onmiddellijke ingang opzeggen. Een overeenkomstsluitende partij neemt geen vrijwaringsmaatregelen met betrekking tot een zaak die krachtens deze Overeenkomst naar het Hof van Justitie is verwezen, behoudens de in [artikel 11, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=11&z=2011-06-22&g=2011-06-22), genoemde gevallen of in overeenstemming met mechanismen waarin is voorzien in de afzonderlijke, in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde besluiten.
 
 ### Vrijwaringsmaatregelen
 
 ##### Artikel 21
 
-Onverminderd [artikel 11, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=11&z=2006-06-09&g=2006-06-09), en de in de protocollen bij deze Overeenkomst vermelde veiligheids- en beveiligingsbeoordelingen, worden vrijwaringsmaatregelen naar reikwijdte en duur beperkt tot hetgeen strikt noodzakelijk is om de situatie te verhelpen. Voorrang wordt gegeven aan maatregelen die de werking van deze Overeenkomst zo weinig mogelijk verstoren.
+Onverminderd [artikel 11, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=11&z=2011-06-22&g=2011-06-22), en de in de protocollen bij deze Overeenkomst vermelde veiligheids- en beveiligingsbeoordelingen, worden vrijwaringsmaatregelen naar reikwijdte en duur beperkt tot hetgeen strikt noodzakelijk is om de situatie te verhelpen. Voorrang wordt gegeven aan maatregelen die de werking van deze Overeenkomst zo weinig mogelijk verstoren.
 
 ##### Artikel 22
 
@@ -376,7 +376,7 @@ Onverminderd [artikel 11, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003210
 
 2. De overeenkomstsluitende partijen plegen onmiddellijk overleg in het gemengd comité om een voor elke partij aanvaardbare oplossing te vinden.
 
-3. Behoudens [artikel 11, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=11&z=2006-06-09&g=2006-06-09), mag de betrokken overeenkomstsluitende partij geen vrijwaringsmaatregelen nemen binnen een maand na de datum van kennisgeving overeenkomstig lid 1, tenzij de overlegprocedure overeenkomstig lid 2 vóór het verstrijken van de gestelde termijn is beëindigd.
+3. Behoudens [artikel 11, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=11&z=2011-06-22&g=2011-06-22), mag de betrokken overeenkomstsluitende partij geen vrijwaringsmaatregelen nemen binnen een maand na de datum van kennisgeving overeenkomstig lid 1, tenzij de overlegprocedure overeenkomstig lid 2 vóór het verstrijken van de gestelde termijn is beëindigd.
 
 4. De betrokken overeenkomstsluitende partij stelt het gemengd comité onverwijld in kennis van de getroffen maatregelen en verstrekt alle relevante inlichtingen.
 
@@ -390,7 +390,7 @@ De vertegenwoordigers, afgevaardigden en deskundigen van de overeenkomstsluitend
 
 ##### Artikel 24
 
-1. De overeenkomstsluitende partijen plegen in het kader van het gemengd comité op verzoek van een der partijen overleg, overeenkomstig de procedure van de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=25&z=2006-06-09&g=2006-06-09) en [26](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=26&z=2006-06-09&g=2006-06-09):
+1. De overeenkomstsluitende partijen plegen in het kader van het gemengd comité op verzoek van een der partijen overleg, overeenkomstig de procedure van de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=25&z=2011-06-22&g=2011-06-22) en [26](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=26&z=2011-06-22&g=2011-06-22):
 
 - a. over luchtvervoervraagstukken die tot het werkterrein behoren van internationale organisaties, en
 
@@ -400,7 +400,7 @@ De vertegenwoordigers, afgevaardigden en deskundigen van de overeenkomstsluitend
 
 ##### Artikel 25
 
-1. Het voornaamste doel van het in [artikel 24, lid 1, onder a)](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=24&z=2006-06-09&g=2006-06-09), bedoelde overleg is:
+1. Het voornaamste doel van het in [artikel 24, lid 1, onder a)](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=24&z=2011-06-22&g=2011-06-22), bedoelde overleg is:
 
 - a. gezamenlijk vast te stellen of de betrokken vraagstukken problemen van gemeenschappelijk belang doen ontstaan, alsmede
 
@@ -410,7 +410,7 @@ De vertegenwoordigers, afgevaardigden en deskundigen van de overeenkomstsluitend
 
 ##### Artikel 26
 
-Het voornaamste doel van het in [artikel 24, lid 1, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=24&z=2006-06-09&g=2006-06-09), bedoelde overleg is relevante vraagstukken te onderzoeken en na te gaan welke aanpak eventueel wenselijk is.
+Het voornaamste doel van het in [artikel 24, lid 1, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=24&z=2011-06-22&g=2011-06-22), bedoelde overleg is relevante vraagstukken te onderzoeken en na te gaan welke aanpak eventueel wenselijk is.
 
 ### Overgangsbepalingen
 
@@ -432,9 +432,9 @@ Het voornaamste doel van het in [artikel 24, lid 1, onder b)](https://wetten.ove
 
 1. De bepalingen van deze Overeenkomst hebben voorrang boven de toepasselijke bepalingen van de geldende bilaterale luchtvervoerovereenkomsten en/of -regelingen tussen de geassocieerde partijen, enerzijds, en de Europese Gemeenschap, een EG-lidstaat, Noorwegen of IJsland, anderzijds, alsmede tussen geassocieerde partijen.
 
-2. In afwijking van lid 1 blijven de bepalingen betreffende eigendom, verkeersrechten, capaciteit, frequenties, vliegtuigtype of verandering van vliegtuig, gedeelde vluchtcodes en prijsstelling van een geldende bilaterale overeenkomst of regeling tussen een geassocieerde partij en de Europese Gemeenschap, een EG-lidstaat, Noorwegen of IJsland, dan wel tussen twee geassocieerde partijen, gedurende de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=27&z=2006-06-09&g=2006-06-09) bedoelde overgangsperiodes van toepassing tussen de partijen bij die overeenkomst of regeling, indien die bilaterale overeenkomst en/of regeling wat betreft de vrijheid van de betrokken luchtvaartmaatschappijen flexibeler is dan de bepalingen van het toepasselijke protocol ten aanzien van de betrokken geassocieerde partij.
+2. In afwijking van lid 1 blijven de bepalingen betreffende eigendom, verkeersrechten, capaciteit, frequenties, vliegtuigtype of verandering van vliegtuig, gedeelde vluchtcodes en prijsstelling van een geldende bilaterale overeenkomst of regeling tussen een geassocieerde partij en de Europese Gemeenschap, een EG-lidstaat, Noorwegen of IJsland, dan wel tussen twee geassocieerde partijen, gedurende de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=27&z=2011-06-22&g=2011-06-22) bedoelde overgangsperiodes van toepassing tussen de partijen bij die overeenkomst of regeling, indien die bilaterale overeenkomst en/of regeling wat betreft de vrijheid van de betrokken luchtvaartmaatschappijen flexibeler is dan de bepalingen van het toepasselijke protocol ten aanzien van de betrokken geassocieerde partij.
 
-3. Een geschil tussen een geassocieerde partij en een andere overeenkomstsluitende partij over de vraag of, in het licht van de volledige toepassing van de ECAA, de bepalingen van het protocol betreffende de betrokken geassocieerde partij al dan niet flexibeler zijn dan die van de bilaterale overeenkomsten en/of regelingen, wordt beslecht in het kader van het mechanisme voor geschillenregeling van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=20&z=2006-06-09&g=2006-06-09). Geschillen over de wijze waarop de verhouding tussen met elkaar in strijd zijnde protocollen moet worden bepaald, worden langs dezelfde weg beslecht.
+3. Een geschil tussen een geassocieerde partij en een andere overeenkomstsluitende partij over de vraag of, in het licht van de volledige toepassing van de ECAA, de bepalingen van het protocol betreffende de betrokken geassocieerde partij al dan niet flexibeler zijn dan die van de bilaterale overeenkomsten en/of regelingen, wordt beslecht in het kader van het mechanisme voor geschillenregeling van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=20&z=2011-06-22&g=2011-06-22). Geschillen over de wijze waarop de verhouding tussen met elkaar in strijd zijnde protocollen moet worden bepaald, worden langs dezelfde weg beslecht.
 
 ### Inwerkingtreding, herziening, beëindiging en andere bepalingen
 
@@ -472,7 +472,7 @@ Elke staat of entiteit die bereid is zijn/haar wetgeving inzake luchtvervoer en 
 
 Deze Overeenkomst is opgesteld in één exemplaar in de officiële talen van de Europese Unie en van de overeenkomstsluitende partijen niet zijnde de Europese Gemeenschap en haar lidstaten, zijnde alle teksten gelijkelijk authentiek.
 
-De „Toepasselijke bepalingen” van de volgende communautaire besluiten zijn van toepassing overeenkomstig de hoofdovereenkomst en [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=II&z=2006-06-09&g=2006-06-09) betreffende horizontale aanpassingen, tenzij in deze bijlage of in de daaropvolgende protocollen I tot en met IX anders is bepaald. Zo nodig worden specifieke aanpassingen voor elk afzonderlijk besluit hieronder vermeld.
+De „Toepasselijke bepalingen” van de volgende communautaire besluiten zijn van toepassing overeenkomstig de hoofdovereenkomst en [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=II&z=2011-06-22&g=2011-06-22) betreffende horizontale aanpassingen, tenzij in deze bijlage of in de daaropvolgende protocollen I tot en met IX anders is bepaald. Zo nodig worden specifieke aanpassingen voor elk afzonderlijk besluit hieronder vermeld.
 
 De wijziging is in werking getreden op 10 december 2008 (Trb. 2009/92).
 
@@ -516,31 +516,31 @@ Een geassocieerde partij past alle staatsmonopolies van commerciële aard geleid
 
 ##### Artikel 1. Overgangsperiodes
 
-1. De eerste overgangsperiode loopt van de inwerkingtreding van deze Overeenkomst totdat de Republiek Albanië, hierna „Albanië’’ genoemd, alle in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=V&artikel=2&z=2006-06-09&g=2006-06-09), van dit protocol gestelde voorwaarden heeft vervuld en zulks is bevestigd na een door de Europese Gemeenschap uitgevoerde beoordeling.
+1. De eerste overgangsperiode loopt van de inwerkingtreding van deze Overeenkomst totdat de Republiek Albanië, hierna „Albanië’’ genoemd, alle in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=V&artikel=2&z=2011-06-22&g=2011-06-22), van dit protocol gestelde voorwaarden heeft vervuld en zulks is bevestigd na een door de Europese Gemeenschap uitgevoerde beoordeling.
 
-2. De tweede overgangsperiode loopt van het einde van de eerste overgangsperiode totdat Albanië alle in [artikel 2, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=V&artikel=2&z=2006-06-09&g=2006-06-09), van dit protocol gestelde voorwaarden heeft vervuld en zulks is bevestigd na een door de Europese Gemeenschap uitgevoerde beoordeling.
+2. De tweede overgangsperiode loopt van het einde van de eerste overgangsperiode totdat Albanië alle in [artikel 2, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=V&artikel=2&z=2011-06-22&g=2011-06-22), van dit protocol gestelde voorwaarden heeft vervuld en zulks is bevestigd na een door de Europese Gemeenschap uitgevoerde beoordeling.
 
 ##### Artikel 2. Voorwaarden voor de overgangsperiodes
 
 1. Tegen het einde van de eerste overgangsperiode moet Albanië
 
-- i. volwaardig lid zijn van de gezamenlijke luchtvaartautoriteiten (Joint Aviation Authorities – JAA) en ernaar streven alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde wetgeving inzake veiligheid van de luchtvaart toe te passen;
+- i. volwaardig lid zijn van de gezamenlijke luchtvaartautoriteiten (Joint Aviation Authorities – JAA) en ernaar streven alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde wetgeving inzake veiligheid van de luchtvaart toe te passen;
 
-- ii. ECAC-document 30 toepassen en ernaar streven alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde wetgeving inzake beveiliging van de luchtvaart toe te passen;
+- ii. ECAC-document 30 toepassen en ernaar streven alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde wetgeving inzake beveiliging van de luchtvaart toe te passen;
 
-- iii. Verordening (EEG) nr. 3925/91 (betreffende de afschaffing van de controles die van toepassing zijn op handbagage en ruimbagage), Verordening (EEG) nr. 2409/92 (inzake tarieven voor luchtdiensten), Richtlijn 94/56/EEG (inzake het onderzoek van ongevallen), Verordening (EG) nr. 2027/97 (betreffende de aansprakelijkheid van luchtvervoerders bij ongevallen), Richtlijn 2003/42/EEG (inzake de melding van voorvallen in de burgerluchtvaart), Verordening (EG) nr. 261/2004 (inzake instapweigering), Richtlijn 2000/79/EEG (betreffende de arbeidstijd in de burgerluchtvaart) en Richtlijn 2003/88/EEG (betreffende de arbeidstijd), zoals vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09), toepassen;
+- iii. Verordening (EEG) nr. 3925/91 (betreffende de afschaffing van de controles die van toepassing zijn op handbagage en ruimbagage), Verordening (EEG) nr. 2409/92 (inzake tarieven voor luchtdiensten), Richtlijn 94/56/EEG (inzake het onderzoek van ongevallen), Verordening (EG) nr. 2027/97 (betreffende de aansprakelijkheid van luchtvervoerders bij ongevallen), Richtlijn 2003/42/EEG (inzake de melding van voorvallen in de burgerluchtvaart), Verordening (EG) nr. 261/2004 (inzake instapweigering), Richtlijn 2000/79/EEG (betreffende de arbeidstijd in de burgerluchtvaart) en Richtlijn 2003/88/EEG (betreffende de arbeidstijd), zoals vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22), toepassen;
 
 - iv. de verlener van luchtverkeersdiensten scheiden van de nationale regelgevende instantie, een nationale controle-instantie voor luchtverkeersdiensten instellen, een begin maken met de herindeling van zijn luchtruim in een of meer functionele blokken, en een flexibel luchtruimgebruik toepassen;
 
 - v. het [Verdrag tot het brengen van eenheid in enige bepalingen inzake het internationale luchtvervoer](https://wetten.overheid.nl/jci1.3:c:BWBV0001644) (Verdrag van Montreal) bekrachtigen;
 
-- vi. voldoende voortgang hebben gemaakt met de toepassing van de regels inzake staatssteun en mededinging die zijn opgenomen in een in [artikel 14, lid 1, van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=14&z=2006-06-09&g=2006-06-09) bedoelde overeenkomst, dan wel in [bijlage III van deze Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=III&z=2006-06-09&g=2006-06-09), afhankelijk van welke van toepassing is.
+- vi. voldoende voortgang hebben gemaakt met de toepassing van de regels inzake staatssteun en mededinging die zijn opgenomen in een in [artikel 14, lid 1, van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=14&z=2011-06-22&g=2011-06-22) bedoelde overeenkomst, dan wel in [bijlage III van deze Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=III&z=2011-06-22&g=2011-06-22), afhankelijk van welke van toepassing is.
 
-2. Tegen het einde van de tweede overgangsperiode moet Albanië deze Overeenkomst toepassen, met inbegrip van alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde wetgeving.
+2. Tegen het einde van de tweede overgangsperiode moet Albanië deze Overeenkomst toepassen, met inbegrip van alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde wetgeving.
 
 ##### Artikel 3. Overgangsbepalingen
 
-1. In afwijking van [artikel 1, lid 1, van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=1&z=2006-06-09&g=2006-06-09) wordt het volgende bepaald:
+1. In afwijking van [artikel 1, lid 1, van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=1&z=2011-06-22&g=2011-06-22) wordt het volgende bepaald:
 
 - a. Tijdens de eerste overgangsperiode:
 
@@ -558,19 +558,19 @@ Een geassocieerde partij past alle staatsmonopolies van commerciële aard geleid
 
 2. In de zin van dit artikel wordt onder „communautaire luchtvaartmaatschappij’’ verstaan een luchtvaartmaatschappij die een vergunning heeft gekregen in een EG-lidstaat, Noorwegen of IJsland.
 
-3. De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=7&z=2006-06-09&g=2006-06-09) en [8 van deze hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=8&z=2006-06-09&g=2006-06-09) zijn niet van toepassing tot het einde van de tweede overgangsperiode, onverminderd de verplichting van Albanië en de Gemeenschap om, vanaf het einde van de eerste overgangsperiode, overeenkomstig de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde besluiten exploitatievergunningen te verlenen aan luchtvaartmaatschappijen waarin EG-lidstaten of hun onderdanen een meerderheidsbelang hebben of de feitelijke zeggenschap uitoefenen, respectievelijk aan luchtvaartmaatschappijen waarin Albanië of onderdanen van Albanië een meerderheidsbelang hebben of de feitelijke zeggenschap uitoefenen.
+3. De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=7&z=2011-06-22&g=2011-06-22) en [8 van deze hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=8&z=2011-06-22&g=2011-06-22) zijn niet van toepassing tot het einde van de tweede overgangsperiode, onverminderd de verplichting van Albanië en de Gemeenschap om, vanaf het einde van de eerste overgangsperiode, overeenkomstig de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde besluiten exploitatievergunningen te verlenen aan luchtvaartmaatschappijen waarin EG-lidstaten of hun onderdanen een meerderheidsbelang hebben of de feitelijke zeggenschap uitoefenen, respectievelijk aan luchtvaartmaatschappijen waarin Albanië of onderdanen van Albanië een meerderheidsbelang hebben of de feitelijke zeggenschap uitoefenen.
 
 ##### Artikel 4. Veiligheid van de luchtvaart
 
 1. Bij het begin van de eerste overgangsperiode wordt Albanië als waarnemer bij de werkzaamheden van het Europees Agentschap voor de veiligheid van de luchtvaart betrokken.
 
-2. Bij het einde van de tweede overgangsperiode bepaalt het bij [artikel 18 van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=18&z=2006-06-09&g=2006-06-09) ingestelde gemengd comité de precieze status van en voorwaarden voor Albanië met het oog op deelname aan het Europees Agentschap voor de veiligheid van de luchtvaart.
+2. Bij het einde van de tweede overgangsperiode bepaalt het bij [artikel 18 van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=18&z=2011-06-22&g=2011-06-22) ingestelde gemengd comité de precieze status van en voorwaarden voor Albanië met het oog op deelname aan het Europees Agentschap voor de veiligheid van de luchtvaart.
 
 3. Tot het einde van de tweede overgangsperiode kan de Europese Gemeenschap eisen dat de toestemming voor een luchtvaartmaatschappij die een vergunning heeft gekregen in Albanië om luchtroutes naar, van of binnen de Europese Gemeenschap te exploiteren aan een specifieke veiligheidsbeoordeling wordt onderworpen indien gebreken in de veiligheid worden vastgesteld. Die beoordeling moet zo spoedig mogelijk door de Europese Gemeenschap worden uitgevoerd om onnodige vertraging bij de uitoefening van verkeersrechten te voorkomen.
 
 ##### Artikel 5. Beveiliging van de luchtvaart
 
-1. Bij het begin van de tweede overgangsperiode wordt het vertrouwelijke gedeelte van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde wetgeving inzake beveiliging ter beschikking van de bevoegde instantie in Albanië gesteld.
+1. Bij het begin van de tweede overgangsperiode wordt het vertrouwelijke gedeelte van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde wetgeving inzake beveiliging ter beschikking van de bevoegde instantie in Albanië gesteld.
 
 2. Tot het einde van de tweede overgangsperiode kan de Europese Gemeenschap eisen dat de toestemming voor een luchtvaartmaatschappij die een vergunning heeft gekregen in Albanië om luchtroutes naar, van of binnen de Europese Gemeenschap te exploiteren aan een specifieke beveiligingsbeoordeling wordt onderworpen indien gebreken in de beveiliging worden vastgesteld. Die beoordeling moet zo spoedig mogelijk door de Europese Gemeenschap worden uitgevoerd om onnodige vertraging bij de uitoefening van verkeersrechten te voorkomen.
 
@@ -584,25 +584,25 @@ Een geassocieerde partij past alle staatsmonopolies van commerciële aard geleid
 
 1. Tegen het einde van de eerste overgangsperiode moet Bosnië en Herzegovina
 
-- i. volwaardig lid zijn van de gezamenlijke luchtvaartautoriteiten (Joint Aviation Authorities – JAA) en ernaar streven alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde wetgeving inzake veiligheid van de luchtvaart toe te passen;
+- i. volwaardig lid zijn van de gezamenlijke luchtvaartautoriteiten (Joint Aviation Authorities – JAA) en ernaar streven alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde wetgeving inzake veiligheid van de luchtvaart toe te passen;
 
-- ii. ECAC-document 30 toepassen en ernaar streven alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde wetgeving inzake beveiliging van de luchtvaart toe te passen;
+- ii. ECAC-document 30 toepassen en ernaar streven alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde wetgeving inzake beveiliging van de luchtvaart toe te passen;
 
-- iii. Verordening (EEG) nr. 3925/91 (betreffende de afschaffing van de controles die van toepassing zijn op handbagage en ruimbagage), Verordening (EEG) nr. 2409/92 (inzake tarieven voor luchtdiensten), Richtlijn 94/56/EEG (inzake het onderzoek van ongevallen), Richtlijn 96/67/EEG (betreffende grondafhandeling), Verordening (EG) nr. 2027/97 (betreffende de aansprakelijkheid van luchtvervoerders bij ongevallen), Richtlijn 2003/42/EG (inzake de melding van voorvallen in de burgerluchtvaart), Verordening (EG) nr. 261/2004 (inzake instapweigering), Richtlijn 2000/79/EEG (betreffende de arbeidstijd in de burgerluchtvaart) en Richtlijn 2003/88/EEG (betreffende de arbeidstijd), zoals vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09), toepassen;
+- iii. Verordening (EEG) nr. 3925/91 (betreffende de afschaffing van de controles die van toepassing zijn op handbagage en ruimbagage), Verordening (EEG) nr. 2409/92 (inzake tarieven voor luchtdiensten), Richtlijn 94/56/EEG (inzake het onderzoek van ongevallen), Richtlijn 96/67/EEG (betreffende grondafhandeling), Verordening (EG) nr. 2027/97 (betreffende de aansprakelijkheid van luchtvervoerders bij ongevallen), Richtlijn 2003/42/EG (inzake de melding van voorvallen in de burgerluchtvaart), Verordening (EG) nr. 261/2004 (inzake instapweigering), Richtlijn 2000/79/EEG (betreffende de arbeidstijd in de burgerluchtvaart) en Richtlijn 2003/88/EEG (betreffende de arbeidstijd), zoals vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22), toepassen;
 
 - iv. het [Verdrag tot het brengen van eenheid in enige bepalingen inzake het internationale luchtvervoer](https://wetten.overheid.nl/jci1.3:c:BWBV0001644) (Verdrag van Montreal) bekrachtigen);
 
-- v. voldoende voortgang hebben gemaakt met de toepassing van de regels inzake staatssteun en mededinging die zijn opgenomen in een in [artikel 14, lid 1, van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=14&z=2006-06-09&g=2006-06-09) bedoelde overeenkomst, dan wel in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=III&z=2006-06-09&g=2006-06-09), afhankelijk van welke van toepassing is.
+- v. voldoende voortgang hebben gemaakt met de toepassing van de regels inzake staatssteun en mededinging die zijn opgenomen in een in [artikel 14, lid 1, van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=14&z=2011-06-22&g=2011-06-22) bedoelde overeenkomst, dan wel in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=III&z=2011-06-22&g=2011-06-22), afhankelijk van welke van toepassing is.
 
 2. Tegen het einde van de eerste overgangsperiode moet Bosnië en Herzegovina
 
 - i. de verlener van luchtverkeersdiensten scheiden van de nationale regelgevende instantie, een nationale controle-instantie voor luchtverkeersdiensten instellen, een begin maken met de herindeling van zijn luchtruim in een of meer functionele blokken, en een flexibel luchtruimgebruik toepassen;
 
-- ii. deze Overeenkomst toepassen, met inbegrip van alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde wetgeving.
+- ii. deze Overeenkomst toepassen, met inbegrip van alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde wetgeving.
 
 ##### Artikel 3. Overgangsbepalingen
 
-1. In afwijking van [artikel 1, lid 1, van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=1&z=2006-06-09&g=2006-06-09) wordt het volgende bepaald:
+1. In afwijking van [artikel 1, lid 1, van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=1&z=2011-06-22&g=2011-06-22) wordt het volgende bepaald:
 
 - a. Tijdens de eerste overgangsperiode:
 
@@ -620,19 +620,19 @@ Een geassocieerde partij past alle staatsmonopolies van commerciële aard geleid
 
 2. In de zin van dit artikel wordt onder „communautaire luchtvaartmaatschappij’’ verstaan een luchtvaartmaatschappij die een vergunning heeft gekregen in een EG-lidstaat, Noorwegen of IJsland.
 
-3. De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=7&z=2006-06-09&g=2006-06-09) en [8 van deze hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=8&z=2006-06-09&g=2006-06-09) zijn niet van toepassing tot het einde van de tweede overgangsperiode, onverminderd de verplichting van Bosnië en Herzegovina en de Gemeenschap om, vanaf het einde van de eerste overgangsperiode, overeenkomstig de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde besluiten exploitatievergunningen te verlenen aan luchtvaartmaatschappijen waarin EG-lidstaten of hun onderdanen een meerderheidsbelang hebben of de feitelijke zeggenschap uitoefenen, respectievelijk aan luchtvaartmaatschappijen waarin Bosnië en Herzegovina of onderdanen van Bosnië en Herzegovina een meerderheidsbelang hebben of de feitelijke zeggenschap uitoefenen.
+3. De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=7&z=2011-06-22&g=2011-06-22) en [8 van deze hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=8&z=2011-06-22&g=2011-06-22) zijn niet van toepassing tot het einde van de tweede overgangsperiode, onverminderd de verplichting van Bosnië en Herzegovina en de Gemeenschap om, vanaf het einde van de eerste overgangsperiode, overeenkomstig de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde besluiten exploitatievergunningen te verlenen aan luchtvaartmaatschappijen waarin EG-lidstaten of hun onderdanen een meerderheidsbelang hebben of de feitelijke zeggenschap uitoefenen, respectievelijk aan luchtvaartmaatschappijen waarin Bosnië en Herzegovina of onderdanen van Bosnië en Herzegovina een meerderheidsbelang hebben of de feitelijke zeggenschap uitoefenen.
 
 ##### Artikel 4. Veiligheid van de luchtvaart
 
 1. Bij het begin van de eerste overgangsperiode wordt Bosnië en Herzegovina als waarnemer bij de werkzaamheden van het Europees Agentschap voor de veiligheid van de luchtvaart betrokken.
 
-2. Bij het einde van de tweede overgangsperiode bepaalt het bij [artikel 18 van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=18&z=2006-06-09&g=2006-06-09) ingestelde gemengd comité de precieze status van en voorwaarden voor Bosnië en Herzegovina met het oog op deelname aan het Europees Agentschap voor de veiligheid van de luchtvaart.
+2. Bij het einde van de tweede overgangsperiode bepaalt het bij [artikel 18 van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=18&z=2011-06-22&g=2011-06-22) ingestelde gemengd comité de precieze status van en voorwaarden voor Bosnië en Herzegovina met het oog op deelname aan het Europees Agentschap voor de veiligheid van de luchtvaart.
 
 3. Tot het einde van de tweede overgangsperiode kan de Europese Gemeenschap eisen dat de toestemming voor een luchtvaartmaatschappij die een vergunning heeft gekregen in Bosnië en Herzegovina om luchtroutes naar, van of binnen de Europese Gemeenschap te exploiteren aan een specifieke veiligheidsbeoordeling wordt onderworpen indien gebreken in de veiligheid worden vastgesteld. Die beoordeling moet zo spoedig mogelijk door de Europese Gemeenschap worden uitgevoerd om onnodige vertraging bij de uitoefening van verkeersrechten te voorkomen.
 
 ##### Artikel 5. Beveiliging van de luchtvaart
 
-1. Bij het begin van de tweede overgangsperiode wordt het vertrouwelijke gedeelte van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde wetgeving inzake beveiliging ter beschikking van de bevoegde instantie in Bosnië en Herzegovina gesteld.
+1. Bij het begin van de tweede overgangsperiode wordt het vertrouwelijke gedeelte van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde wetgeving inzake beveiliging ter beschikking van de bevoegde instantie in Bosnië en Herzegovina gesteld.
 
 2. Tot het einde van de tweede overgangsperiode kan de Europese Gemeenschap eisen dat de toestemming voor een luchtvaartmaatschappij die een vergunning heeft gekregen in Bosnië en Herzegovina om luchtroutes naar, van of binnen de Europese Gemeenschap te exploiteren aan een specifieke beveiligingsbeoordeling wordt onderworpen indien gebreken in de beveiliging worden vastgesteld. Die beoordeling moet zo spoedig mogelijk door de Europese Gemeenschap worden uitgevoerd om onnodige vertraging bij de uitoefening van verkeersrechten te voorkomen.
 
@@ -644,11 +644,11 @@ Een geassocieerde partij past alle staatsmonopolies van commerciële aard geleid
 
 ##### Artikel 2. Voorwaarden voor de overgangsperiodes
 
-Tegen het einde van de overgangsperiode moet Bulgarije deze Overeenkomst toepassen, met inbegrip van alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde wetgeving, zoals bepaald in [artikel 3 van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=3&z=2006-06-09&g=2006-06-09).
+Tegen het einde van de overgangsperiode moet Bulgarije deze Overeenkomst toepassen, met inbegrip van alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde wetgeving, zoals bepaald in [artikel 3 van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=3&z=2011-06-22&g=2011-06-22).
 
 ##### Artikel 3. Overgangsbepalingen
 
-1. In afwijking van [artikel 1, lid 1, van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=1&z=2006-06-09&g=2006-06-09) wordt het volgende bepaald:
+1. In afwijking van [artikel 1, lid 1, van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=1&z=2011-06-22&g=2011-06-22) wordt het volgende bepaald:
 
 tijdens de overgangsperiode:
 
@@ -660,11 +660,11 @@ tijdens de overgangsperiode:
 
 2. In de zin van dit artikel wordt onder „communautaire luchtvaartmaatschappij’’ verstaan een luchtvaartmaatschappij die een vergunning heeft gekregen in een EG-lidstaat, Noorwegen of IJsland.
 
-3. De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=7&z=2006-06-09&g=2006-06-09) en [8 van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=8&z=2006-06-09&g=2006-06-09) zijn niet van toepassing tot het einde van de overgangsperiode, onverminderd de verplichting van Bulgarije en de Gemeenschap om, vanaf het begin van de overgangsperiode, overeenkomstig de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde besluiten exploitatievergunningen te verlenen aan luchtvaartmaatschappijen waarin EG-lidstaten of hun onderdanen een meerderheidsbelang hebben of de feitelijke zeggenschap uitoefenen, respectievelijk aan luchtvaartmaatschappijen waarin Bulgarije of onderdanen van Bulgarije een meerderheidsbelang hebben of de feitelijke zeggenschap uitoefenen.
+3. De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=7&z=2011-06-22&g=2011-06-22) en [8 van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=8&z=2011-06-22&g=2011-06-22) zijn niet van toepassing tot het einde van de overgangsperiode, onverminderd de verplichting van Bulgarije en de Gemeenschap om, vanaf het begin van de overgangsperiode, overeenkomstig de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde besluiten exploitatievergunningen te verlenen aan luchtvaartmaatschappijen waarin EG-lidstaten of hun onderdanen een meerderheidsbelang hebben of de feitelijke zeggenschap uitoefenen, respectievelijk aan luchtvaartmaatschappijen waarin Bulgarije of onderdanen van Bulgarije een meerderheidsbelang hebben of de feitelijke zeggenschap uitoefenen.
 
 ##### Artikel 4. Veiligheid van de luchtvaart
 
-1. Bij het einde van de overgangsperiode bepaalt het bij [artikel 18 van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=18&z=2006-06-09&g=2006-06-09) ingestelde gemengd comité de precieze status van en voorwaarden voor Bulgarije met het oog op deelname aan het Europees Agentschap voor de veiligheid van de luchtvaart.
+1. Bij het einde van de overgangsperiode bepaalt het bij [artikel 18 van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=18&z=2011-06-22&g=2011-06-22) ingestelde gemengd comité de precieze status van en voorwaarden voor Bulgarije met het oog op deelname aan het Europees Agentschap voor de veiligheid van de luchtvaart.
 
 2. Tot het einde van de overgangsperiode kan de Europese Gemeenschap eisen dat de toestemming voor een luchtvaartmaatschappij die een vergunning heeft gekregen in Bulgarije om luchtroutes naar, van of binnen de Europese Gemeenschap te exploiteren aan een specifieke veiligheidsbeoordeling wordt onderworpen indien gebreken in de veiligheid worden vastgesteld. Die beoordeling moet zo spoedig mogelijk door de Europese Gemeenschap worden uitgevoerd om onnodige vertraging bij de uitoefening van verkeersrechten te voorkomen.
 
@@ -682,23 +682,23 @@ Tot het einde van de overgangsperiode kan de Europese Gemeenschap eisen dat de t
 
 1. Tegen het einde van de eerste overgangsperiode moet Kroatië
 
-- i. volwaardig lid zijn van de gezamenlijke luchtvaartautoriteiten (Joint Aviation Authorities – JAA) en ernaar streven alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde wetgeving inzake veiligheid van de luchtvaart toe te passen;
+- i. volwaardig lid zijn van de gezamenlijke luchtvaartautoriteiten (Joint Aviation Authorities – JAA) en ernaar streven alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde wetgeving inzake veiligheid van de luchtvaart toe te passen;
 
-- ii. ECAC-document 30 toepassen en ernaar streven alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde wetgeving inzake beveiliging van de luchtvaart toe te passen;
+- ii. ECAC-document 30 toepassen en ernaar streven alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde wetgeving inzake beveiliging van de luchtvaart toe te passen;
 
-- iii. Verordening (EEG) nr. 3925/91 (betreffende de afschaffing van de controles die van toepassing zijn op handbagage en ruimbagage), Verordening (EEG) nr. 2409/92 (inzake tarieven voor luchtdiensten), Richtlijn 94/56/EEG (inzake het onderzoek van ongevallen), Richtlijn 96/67/EEG (betreffende grondafhandeling), Verordening (EG) nr. 2027/97 (betreffende de aansprakelijkheid van luchtvervoerders bij ongevallen), Richtlijn 2003/42/EEG (inzake de melding van voorvallen in de burgerluchtvaart), Verordening (EG) nr. 261/2004 (inzake instapweigering), Richtlijn 2000/79/EEG (betreffende de arbeidstijd in de burgerluchtvaart) en Richtlijn 2003/88/EEG (betreffende de arbeidstijd), zoals vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09), toepassen;
+- iii. Verordening (EEG) nr. 3925/91 (betreffende de afschaffing van de controles die van toepassing zijn op handbagage en ruimbagage), Verordening (EEG) nr. 2409/92 (inzake tarieven voor luchtdiensten), Richtlijn 94/56/EEG (inzake het onderzoek van ongevallen), Richtlijn 96/67/EEG (betreffende grondafhandeling), Verordening (EG) nr. 2027/97 (betreffende de aansprakelijkheid van luchtvervoerders bij ongevallen), Richtlijn 2003/42/EEG (inzake de melding van voorvallen in de burgerluchtvaart), Verordening (EG) nr. 261/2004 (inzake instapweigering), Richtlijn 2000/79/EEG (betreffende de arbeidstijd in de burgerluchtvaart) en Richtlijn 2003/88/EEG (betreffende de arbeidstijd), zoals vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22), toepassen;
 
 - iv. de verlener van luchtverkeersdiensten scheiden van de nationale regelgevende instantie, een nationale controle-instantie voor luchtverkeersdiensten instellen, een begin maken met de herindeling van zijn luchtruim in een of meer functionele blokken, en een flexibel luchtruimgebruik toepassen;
 
 - v. het [Verdrag tot het brengen van eenheid in enige bepalingen inzake het internationale luchtvervoer](https://wetten.overheid.nl/jci1.3:c:BWBV0001644) (Verdrag van Montreal) bekrachtigen;
 
-- vi. voldoende voortgang hebben gemaakt met de toepassing van de regels inzake staatssteun en mededinging die zijn opgenomen in een in [artikel 14, lid 1, van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=14&z=2006-06-09&g=2006-06-09) bedoelde overeenkomst, dan wel in [bijlage III van deze overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=III&z=2006-06-09&g=2006-06-09), afhankelijk van welke van toepassing is.
+- vi. voldoende voortgang hebben gemaakt met de toepassing van de regels inzake staatssteun en mededinging die zijn opgenomen in een in [artikel 14, lid 1, van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=14&z=2011-06-22&g=2011-06-22) bedoelde overeenkomst, dan wel in [bijlage III van deze overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=III&z=2011-06-22&g=2011-06-22), afhankelijk van welke van toepassing is.
 
-2. Tegen het einde van de tweede overgangsperiode moet Kroatië deze Overeenkomst toepassen, met inbegrip van alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde wetgeving.
+2. Tegen het einde van de tweede overgangsperiode moet Kroatië deze Overeenkomst toepassen, met inbegrip van alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde wetgeving.
 
 ##### Artikel 3. Overgangsbepalingen
 
-1. In afwijking van [artikel 1, lid 1, van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=1&z=2006-06-09&g=2006-06-09) wordt het volgende bepaald:
+1. In afwijking van [artikel 1, lid 1, van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=1&z=2011-06-22&g=2011-06-22) wordt het volgende bepaald:
 
 - a. Tijdens de eerste en de tweede overgangsperiode mogen communautaire luchtvaartmaatschappijen en luchtvaartmaatschappijen die een vergunning hebben gekregen in Kroatië onbeperkte verkeersrechten uitoefenen tussen elke plaats in Kroatië en elke plaats in een EG-lidstaat.
 
@@ -714,19 +714,19 @@ Tot het einde van de overgangsperiode kan de Europese Gemeenschap eisen dat de t
 
 2. In de zin van dit artikel wordt onder „communautaire luchtvaartmaatschappij’’ verstaan een luchtvaartmaatschappij die een vergunning heeft gekregen in een EG-lidstaat, Noorwegen of IJsland.
 
-3. De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=7&z=2006-06-09&g=2006-06-09) en [8 van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=8&z=2006-06-09&g=2006-06-09) zijn niet van toepassing tot het einde van de tweede overgangsperiode, onverminderd de verplichting van Kroatië en de Gemeenschap om, vanaf het einde van de eerste overgangsperiode, overeenkomstig de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde besluiten exploitatievergunningen te verlenen aan luchtvaartmaatschappijen waarin EG-lidstaten of hun onderdanen een meerderheidsbelang hebben of de feitelijke zeggenschap uitoefenen, respectievelijk aan luchtvaartmaatschappijen waarin Kroatië of onderdanen van Kroatië een meerderheidsbelang hebben of de feitelijke zeggenschap uitoefenen.
+3. De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=7&z=2011-06-22&g=2011-06-22) en [8 van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=8&z=2011-06-22&g=2011-06-22) zijn niet van toepassing tot het einde van de tweede overgangsperiode, onverminderd de verplichting van Kroatië en de Gemeenschap om, vanaf het einde van de eerste overgangsperiode, overeenkomstig de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde besluiten exploitatievergunningen te verlenen aan luchtvaartmaatschappijen waarin EG-lidstaten of hun onderdanen een meerderheidsbelang hebben of de feitelijke zeggenschap uitoefenen, respectievelijk aan luchtvaartmaatschappijen waarin Kroatië of onderdanen van Kroatië een meerderheidsbelang hebben of de feitelijke zeggenschap uitoefenen.
 
 ##### Artikel 4. Veiligheid van de luchtvaart
 
 1. Bij het begin van de eerste overgangsperiode wordt Kroatië als waarnemer bij de werkzaamheden van het Europees Agentschap voor de veiligheid van de luchtvaart betrokken.
 
-2. Bij het einde van de tweede overgangsperiode bepaalt het bij [artikel 18 van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=18&z=2006-06-09&g=2006-06-09) ingestelde gemengd comité de precieze status van en voorwaarden voor Kroatië met het oog op deelname aan het Europees Agentschap voor de veiligheid van de luchtvaart.
+2. Bij het einde van de tweede overgangsperiode bepaalt het bij [artikel 18 van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=18&z=2011-06-22&g=2011-06-22) ingestelde gemengd comité de precieze status van en voorwaarden voor Kroatië met het oog op deelname aan het Europees Agentschap voor de veiligheid van de luchtvaart.
 
 3. Tot het einde van de tweede overgangsperiode kan de Europese Gemeenschap eisen dat de toestemming voor een luchtvaartmaatschappij die een vergunning heeft gekregen in Kroatië om luchtroutes naar, van of binnen de Europese Gemeenschap te exploiteren aan een specifieke veiligheidsbeoordeling wordt onderworpen indien gebreken in de veiligheid worden vastgesteld. Die beoordeling moet zo spoedig mogelijk door de Europese Gemeenschap worden uitgevoerd om onnodige vertraging bij de uitoefening van verkeersrechten te voorkomen.
 
 ##### Artikel 5. Beveiliging van de luchtvaart
 
-1. Bij het begin van de tweede overgangsperiode wordt het vertrouwelijke gedeelte van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde wetgeving inzake beveiliging ter beschikking van de bevoegde instantie in Kroatië gesteld.
+1. Bij het begin van de tweede overgangsperiode wordt het vertrouwelijke gedeelte van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde wetgeving inzake beveiliging ter beschikking van de bevoegde instantie in Kroatië gesteld.
 
 2. Tot het einde van de tweede overgangsperiode kan de Europese Gemeenschap eisen dat de toestemming voor een luchtvaartmaatschappij die een vergunning heeft gekregen in Kroatië om luchtroutes naar, van of binnen de Europese Gemeenschap te exploiteren aan een specifieke beveiligingsbeoordeling wordt onderworpen indien gebreken in de beveiliging worden vastgesteld. Die beoordeling moet zo spoedig mogelijk door de Europese Gemeenschap worden uitgevoerd om onnodige vertraging bij de uitoefening van verkeersrechten te voorkomen.
 
@@ -740,23 +740,23 @@ Tot het einde van de overgangsperiode kan de Europese Gemeenschap eisen dat de t
 
 1. Tegen het einde van de eerste overgangsperiode moet de Voormalige Joegoslavische Republiek Macedonië
 
-- i. volwaardig lid zijn van de gezamenlijke luchtvaartautoriteiten (Joint Aviation Authorities – JAA) en ernaar streven alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde wetgeving inzake veiligheid van de luchtvaart toe te passen;
+- i. volwaardig lid zijn van de gezamenlijke luchtvaartautoriteiten (Joint Aviation Authorities – JAA) en ernaar streven alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde wetgeving inzake veiligheid van de luchtvaart toe te passen;
 
-- ii. ECAC-document 30 toepassen en ernaar streven alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde wetgeving inzake beveiliging van de luchtvaart toe te passen;
+- ii. ECAC-document 30 toepassen en ernaar streven alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde wetgeving inzake beveiliging van de luchtvaart toe te passen;
 
-- iii. Verordening (EEG) nr. 3925/91 (betreffende de afschaffing van de controles die van toepassing zijn op handbagage en ruimbagage), Verordening (EEG) nr. 2409/92 (inzake tarieven voor luchtdiensten), Richtlijn 94/56/EEG (inzake het onderzoek van ongevallen), Verordening (EG) nr. 96/67 (betreffende grondafhandeling), Richtlijn 2003/42/EEG (inzake de melding van voorvallen in de burgerluchtvaart), Richtlijn 2000/79/EEG (betreffende de arbeidstijd in de burgerluchtvaart) en Richtlijn 2003/88/EEG (betreffende de arbeidstijd), zoals vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09), toepassen;
+- iii. Verordening (EEG) nr. 3925/91 (betreffende de afschaffing van de controles die van toepassing zijn op handbagage en ruimbagage), Verordening (EEG) nr. 2409/92 (inzake tarieven voor luchtdiensten), Richtlijn 94/56/EEG (inzake het onderzoek van ongevallen), Verordening (EG) nr. 96/67 (betreffende grondafhandeling), Richtlijn 2003/42/EEG (inzake de melding van voorvallen in de burgerluchtvaart), Richtlijn 2000/79/EEG (betreffende de arbeidstijd in de burgerluchtvaart) en Richtlijn 2003/88/EEG (betreffende de arbeidstijd), zoals vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22), toepassen;
 
 - iv. de verlener van luchtverkeersdiensten scheiden van de nationale regelgevende instantie, een nationale controle-instantie voor luchtverkeersdiensten instellen, een begin maken met de herindeling van zijn luchtruim in een of meer functionele blokken, en een flexibel luchtruimgebruik toepassen;
 
 - v. het [Verdrag tot het brengen van eenheid in enige bepalingen inzake het internationale luchtvervoer](https://wetten.overheid.nl/jci1.3:c:BWBV0001644) (Verdrag van Montreal) bekrachtigen;
 
-- vi. voldoende voortgang hebben gemaakt met de toepassing van de regels inzake staatssteun en mededinging die zijn opgenomen in een in [artikel 14, lid 1, van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=14&z=2006-06-09&g=2006-06-09) bedoelde overeenkomst, dan wel in [bijlage III van deze overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=III&z=2006-06-09&g=2006-06-09), afhankelijk van welke van toepassing is.
+- vi. voldoende voortgang hebben gemaakt met de toepassing van de regels inzake staatssteun en mededinging die zijn opgenomen in een in [artikel 14, lid 1, van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=14&z=2011-06-22&g=2011-06-22) bedoelde overeenkomst, dan wel in [bijlage III van deze overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=III&z=2011-06-22&g=2011-06-22), afhankelijk van welke van toepassing is.
 
-2. Tegen het einde van de tweede overgangsperiode moet de Voormalige Joegoslavische Republiek Macedonië deze Overeenkomst toepassen, met inbegrip van alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde wetgeving.
+2. Tegen het einde van de tweede overgangsperiode moet de Voormalige Joegoslavische Republiek Macedonië deze Overeenkomst toepassen, met inbegrip van alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde wetgeving.
 
 ##### Artikel 3. Overgangsbepalingen
 
-1. In afwijking van [artikel 1, lid 1, van deze Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=1&z=2006-06-09&g=2006-06-09) wordt het volgende bepaald:
+1. In afwijking van [artikel 1, lid 1, van deze Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=1&z=2011-06-22&g=2011-06-22) wordt het volgende bepaald:
 
 - a. Tijdens de eerste overgangsperiode:
 
@@ -774,7 +774,7 @@ Tot het einde van de overgangsperiode kan de Europese Gemeenschap eisen dat de t
 
 2. In de zin van dit artikel wordt onder „communautaire luchtvaartmaatschappij’’ verstaan een luchtvaartmaatschappij die een vergunning heeft gekregen in een EG-lidstaat, Noorwegen of IJsland.
 
-3. De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=7&z=2006-06-09&g=2006-06-09) en [8 van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=8&z=2006-06-09&g=2006-06-09) zijn niet van toepassing tot het einde van de tweede overgangsperiode, onverminderd de verplichting van de Voormalige Joegoslavische Republiek Macedonië en de Gemeenschap om, vanaf het einde van de eerste overgangsperiode, overeenkomstig de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde besluiten, exploitatievergunningen te verlenen aan luchtvaartmaatschappijen waarin EG-lidstaten of hun onderdanen een meerderheidsbelang hebben of de feitelijke zeggenschap uitoefenen, respectievelijk aan luchtvaartmaatschappijen waarin de Voormalige Joegoslavische Republiek Macedonië of onderdanen van de Voormalige Joegoslavische Republiek Macedonië een meerderheidsbelang hebben of de feitelijke zeggenschap uitoefenen.
+3. De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=7&z=2011-06-22&g=2011-06-22) en [8 van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=8&z=2011-06-22&g=2011-06-22) zijn niet van toepassing tot het einde van de tweede overgangsperiode, onverminderd de verplichting van de Voormalige Joegoslavische Republiek Macedonië en de Gemeenschap om, vanaf het einde van de eerste overgangsperiode, overeenkomstig de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde besluiten, exploitatievergunningen te verlenen aan luchtvaartmaatschappijen waarin EG-lidstaten of hun onderdanen een meerderheidsbelang hebben of de feitelijke zeggenschap uitoefenen, respectievelijk aan luchtvaartmaatschappijen waarin de Voormalige Joegoslavische Republiek Macedonië of onderdanen van de Voormalige Joegoslavische Republiek Macedonië een meerderheidsbelang hebben of de feitelijke zeggenschap uitoefenen.
 
 ##### Artikel 4. Toepassing van bepaalde wetgeving door de Voormalige Joegoslavische Republiek Macedonië
 
@@ -790,13 +790,13 @@ In afwijking van artikel 2 van dit protocol moet de Voormalige Joegoslavische Re
 
 1. Bij het begin van de eerste overgangsperiode wordt de Voormalige Joegoslavische Republiek Macedonië als waarnemer bij de werkzaamheden van het Europees Agentschap voor de veiligheid van de luchtvaart betrokken.
 
-2. Bij het einde van de tweede overgangsperiode bepaalt het bij [artikel 18 van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=18&z=2006-06-09&g=2006-06-09) ingestelde gemengd comité de precieze status van en voorwaarden voor de Voormalige Joegoslavische Republiek Macedonië met het oog op deelname aan het Europees Agentschap voor de veiligheid van de luchtvaart.
+2. Bij het einde van de tweede overgangsperiode bepaalt het bij [artikel 18 van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=18&z=2011-06-22&g=2011-06-22) ingestelde gemengd comité de precieze status van en voorwaarden voor de Voormalige Joegoslavische Republiek Macedonië met het oog op deelname aan het Europees Agentschap voor de veiligheid van de luchtvaart.
 
 3. Tot het einde van de tweede overgangsperiode kan de Europese Gemeenschap eisen dat de toestemming voor een luchtvaartmaatschappij die een vergunning heeft gekregen in de Voormalige Joegoslavische Republiek Macedonië om luchtroutes naar, van of binnen de Europese Gemeenschap te exploiteren aan een specifieke veiligheidsbeoordeling wordt onderworpen indien gebreken in de veiligheid worden vastgesteld. Die beoordeling moet zo spoedig mogelijk door de Europese Gemeenschap worden uitgevoerd om onnodige vertraging bij de uitoefening van verkeersrechten te voorkomen.
 
 ##### Artikel 6. Beveiliging van de luchtvaart
 
-1. Bij het begin van de tweede overgangsperiode wordt het vertrouwelijke gedeelte van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde wetgeving inzake beveiliging ter beschikking van de bevoegde instantie in de Voormalige Joegoslavische Republiek Macedonië gesteld.
+1. Bij het begin van de tweede overgangsperiode wordt het vertrouwelijke gedeelte van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde wetgeving inzake beveiliging ter beschikking van de bevoegde instantie in de Voormalige Joegoslavische Republiek Macedonië gesteld.
 
 2. Tot het einde van de tweede overgangsperiode kan de Europese Gemeenschap eisen dat de toestemming voor een luchtvaartmaatschappij die een vergunning heeft gekregen in de Voormalige Joegoslavische Republiek Macedonië om luchtroutes naar, van of binnen de Europese Gemeenschap te exploiteren aan een specifieke beveiligingsbeoordeling wordt onderworpen indien gebreken in de beveiliging worden vastgesteld. Die beoordeling moet zo spoedig mogelijk door de Europese Gemeenschap worden uitgevoerd om onnodige vertraging bij de uitoefening van verkeersrechten te voorkomen.
 
@@ -810,23 +810,23 @@ In afwijking van artikel 2 van dit protocol moet de Voormalige Joegoslavische Re
 
 1. Tegen het einde van de eerste overgangsperiode moet de Republiek Servië
 
-- i. volwaardig lid zijn van de gezamenlijke luchtvaartautoriteiten (Joint Aviation Authorities – JAA) en ernaar streven alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde wetgeving inzake veiligheid van de luchtvaart toe te passen;
+- i. volwaardig lid zijn van de gezamenlijke luchtvaartautoriteiten (Joint Aviation Authorities – JAA) en ernaar streven alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde wetgeving inzake veiligheid van de luchtvaart toe te passen;
 
-- ii. ECAC-document 30 toepassen en ernaar streven alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde wetgeving inzake beveiliging van de luchtvaart toe te passen;
+- ii. ECAC-document 30 toepassen en ernaar streven alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde wetgeving inzake beveiliging van de luchtvaart toe te passen;
 
-- iii. Verordening (EEG) nr. 3925/91 (betreffende de afschaffing van de controles die van toepassing zijn op handbagage en ruimbagage), Verordening (EEG) nr. 2409/92 (inzake tarieven voor luchtdiensten), Richtlijn 94/56/EG (inzake het onderzoek van ongevallen), Richtlijn 96/67/EG (betreffende grondafhandeling), Verordening (EG) 2027/97 (betreffende de aansprakelijkheid van luchtvervoerders bij ongevallen), Richtlijn 2003/42/EEG (inzake de melding van voorvallen in de burgerluchtvaart), Verordening 261/2004/EG (inzake instapweigering), Richtlijn 2000/79/EEG (betreffende de arbeidstijd in de burgerluchtvaart) en Richtlijn 2003/88/EEG (betreffende de arbeidstijd), zoals vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09), toepassen;
+- iii. Verordening (EEG) nr. 3925/91 (betreffende de afschaffing van de controles die van toepassing zijn op handbagage en ruimbagage), Verordening (EEG) nr. 2409/92 (inzake tarieven voor luchtdiensten), Richtlijn 94/56/EG (inzake het onderzoek van ongevallen), Richtlijn 96/67/EG (betreffende grondafhandeling), Verordening (EG) 2027/97 (betreffende de aansprakelijkheid van luchtvervoerders bij ongevallen), Richtlijn 2003/42/EEG (inzake de melding van voorvallen in de burgerluchtvaart), Verordening 261/2004/EG (inzake instapweigering), Richtlijn 2000/79/EEG (betreffende de arbeidstijd in de burgerluchtvaart) en Richtlijn 2003/88/EEG (betreffende de arbeidstijd), zoals vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22), toepassen;
 
 - iv. de verlener van luchtverkeersdiensten scheiden van de regelgevende instantie van de Republiek Servië, een nationale controle-instantie voor de Republiek Servië voor luchtverkeersdiensten instellen, een begin maken met de herindeling van het luchtruim van de Republiek Servië in een of meer functionele blokken, en een flexibel luchtruimgebruik toepassen;
 
 - v. het [Verdrag tot het brengen van eenheid in enige bepalingen inzake het internationale luchtvervoer](https://wetten.overheid.nl/jci1.3:c:BWBV0001644) (Verdrag van Montreal) bekrachtigen;
 
-- vi. voldoende voortgang hebben gemaakt met de toepassing van de regels inzake staatssteun en mededinging die zijn opgenomen in een in [artikel 14, lid 1, van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=14&z=2006-06-09&g=2006-06-09) bedoelde overeenkomst, dan wel in [bijlage III van deze overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=III&z=2006-06-09&g=2006-06-09), afhankelijk van welke van toepassing is.
+- vi. voldoende voortgang hebben gemaakt met de toepassing van de regels inzake staatssteun en mededinging die zijn opgenomen in een in [artikel 14, lid 1, van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=14&z=2011-06-22&g=2011-06-22) bedoelde overeenkomst, dan wel in [bijlage III van deze overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=III&z=2011-06-22&g=2011-06-22), afhankelijk van welke van toepassing is.
 
-2. Tegen het einde van de tweede overgangsperiode moet de Republiek Servië deze Overeenkomst toepassen, met inbegrip van alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde wetgeving.
+2. Tegen het einde van de tweede overgangsperiode moet de Republiek Servië deze Overeenkomst toepassen, met inbegrip van alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde wetgeving.
 
 ##### Artikel 3. Overgangsbepalingen
 
-1. In afwijking van [artikel 1, lid 1, van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=1&z=2006-06-09&g=2006-06-09) wordt het volgende bepaald:
+1. In afwijking van [artikel 1, lid 1, van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=1&z=2011-06-22&g=2011-06-22) wordt het volgende bepaald:
 
 - a. Tijdens de eerste overgangsperiode:
 
@@ -844,19 +844,19 @@ In afwijking van artikel 2 van dit protocol moet de Voormalige Joegoslavische Re
 
 2. In de zin van dit artikel wordt onder „communautaire luchtvaartmaatschappij’’ verstaan een luchtvaartmaatschappij die een vergunning heeft gekregen in een EG-lidstaat, Noorwegen of IJsland.
 
-3. De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=7&z=2006-06-09&g=2006-06-09) en [8 van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=8&z=2006-06-09&g=2006-06-09) zijn niet van toepassing tot het einde van de tweede overgangsperiode, onverminderd de verplichting van de Republiek Servië en de Gemeenschap om, vanaf het eind van de eerste overgangsperiode, overeenkomstig de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde besluiten exploitatievergunningen te verlenen aan luchtvaartmaatschappijen waarin EG-lidstaten of hun onderdanen een meerderheidsbelang hebben of de feitelijke zeggenschap uitoefenen, respectievelijk aan luchtvaartmaatschappijen waarin de Republiek Servië of haar onderdanen een meerderheidsbelang hebben of de feitelijke zeggenschap uitoefenen.
+3. De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=7&z=2011-06-22&g=2011-06-22) en [8 van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=8&z=2011-06-22&g=2011-06-22) zijn niet van toepassing tot het einde van de tweede overgangsperiode, onverminderd de verplichting van de Republiek Servië en de Gemeenschap om, vanaf het eind van de eerste overgangsperiode, overeenkomstig de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde besluiten exploitatievergunningen te verlenen aan luchtvaartmaatschappijen waarin EG-lidstaten of hun onderdanen een meerderheidsbelang hebben of de feitelijke zeggenschap uitoefenen, respectievelijk aan luchtvaartmaatschappijen waarin de Republiek Servië of haar onderdanen een meerderheidsbelang hebben of de feitelijke zeggenschap uitoefenen.
 
 ##### Artikel 4. Veiligheid van de luchtvaart
 
 1. Bij het begin van de eerste overgangsperiode wordt de Republiek Servië als waarnemer bij de werkzaamheden van het Europees Agentschap voor de veiligheid van de luchtvaart betrokken.
 
-2. Bij het einde van de tweede overgangsperiode bepaalt het bij [artikel 18 van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=18&z=2006-06-09&g=2006-06-09) ingestelde gemengd comité de precieze status van en voorwaarden voor de Republiek Servië met het oog op deelname aan het Europees Agentschap voor de veiligheid van de luchtvaart.
+2. Bij het einde van de tweede overgangsperiode bepaalt het bij [artikel 18 van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=18&z=2011-06-22&g=2011-06-22) ingestelde gemengd comité de precieze status van en voorwaarden voor de Republiek Servië met het oog op deelname aan het Europees Agentschap voor de veiligheid van de luchtvaart.
 
 3. Tot het einde van de tweede overgangsperiode kan de Europese Gemeenschap eisen dat de toestemming voor een luchtvaartmaatschappij die een vergunning heeft gekregen in Servië en Montenegro om luchtroutes naar, van of binnen de Europese Gemeenschap te exploiteren aan een specifieke veiligheidsbeoordeling wordt onderworpen indien gebreken in de veiligheid worden vastgesteld. Die beoordeling moet zo spoedig mogelijk door de Europese Gemeenschap worden uitgevoerd om onnodige vertraging bij de uitoefening van verkeersrechten te voorkomen.
 
 ##### Artikel 5. Beveiliging van de luchtvaart
 
-1. Bij het begin van de tweede overgangsperiode wordt het vertrouwelijke gedeelte van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde wetgeving inzake beveiliging ter beschikking van de bevoegde instantie in de Republiek Servië gesteld.
+1. Bij het begin van de tweede overgangsperiode wordt het vertrouwelijke gedeelte van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde wetgeving inzake beveiliging ter beschikking van de bevoegde instantie in de Republiek Servië gesteld.
 
 2. Tot het einde van de tweede overgangsperiode kan de Europese Gemeenschap eisen dat de toestemming voor een luchtvaartmaatschappij die een vergunning heeft gekregen in de Republiek Servië om luchtroutes naar, van of binnen de Europese Gemeenschap te exploiteren aan een specifieke beveiligingsbeoordeling wordt onderworpen indien gebreken in de beveiliging worden vastgesteld. Die beoordeling moet zo spoedig mogelijk door de Europese Gemeenschap worden uitgevoerd om onnodige vertraging bij de uitoefening van verkeersrechten te voorkomen.
 
@@ -870,23 +870,23 @@ In afwijking van artikel 2 van dit protocol moet de Voormalige Joegoslavische Re
 
 1. Tegen het einde van de eerste overgangsperiode moet de Republiek Montenegro
 
-- i. volwaardig lid zijn van de gezamenlijke luchtvaartautoriteiten (Joint Aviation Authorities – JAA) en ernaar streven alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde wetgeving inzake veiligheid van de luchtvaart toe te passen;
+- i. volwaardig lid zijn van de gezamenlijke luchtvaartautoriteiten (Joint Aviation Authorities – JAA) en ernaar streven alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde wetgeving inzake veiligheid van de luchtvaart toe te passen;
 
-- ii. ECAC-document 30 toepassen en ernaar streven alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde wetgeving inzake beveiliging van de luchtvaart toe te passen;
+- ii. ECAC-document 30 toepassen en ernaar streven alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde wetgeving inzake beveiliging van de luchtvaart toe te passen;
 
-- iii. Verordening (EEG) nr. 3925/91 (betreffende de afschaffing van de controles die van toepassing zijn op handbagage en ruimbagage), Verordening (EEG) nr. 2409/92 (inzake tarieven voor luchtdiensten), Richtlijn 94/56/EG (inzake het onderzoek van ongevallen), Richtlijn 96/67/EG (betreffende grondafhandeling), Verordening (EG) 2027/97 (betreffende de aansprakelijkheid van luchtvervoerders bij ongevallen), Richtlijn 2003/42/EEG (inzake de melding van voorvallen in de burgerluchtvaart), Verordening 261/2004/EG (inzake instapweigering), Richtlijn 2000/79/EEG (betreffende de arbeidstijd in de burgerluchtvaart) en Richtlijn 2003/88/EEG (betreffende de arbeidstijd), zoals vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09), toepassen;
+- iii. Verordening (EEG) nr. 3925/91 (betreffende de afschaffing van de controles die van toepassing zijn op handbagage en ruimbagage), Verordening (EEG) nr. 2409/92 (inzake tarieven voor luchtdiensten), Richtlijn 94/56/EG (inzake het onderzoek van ongevallen), Richtlijn 96/67/EG (betreffende grondafhandeling), Verordening (EG) 2027/97 (betreffende de aansprakelijkheid van luchtvervoerders bij ongevallen), Richtlijn 2003/42/EEG (inzake de melding van voorvallen in de burgerluchtvaart), Verordening 261/2004/EG (inzake instapweigering), Richtlijn 2000/79/EEG (betreffende de arbeidstijd in de burgerluchtvaart) en Richtlijn 2003/88/EEG (betreffende de arbeidstijd), zoals vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22), toepassen;
 
 - iv. de verlener van luchtverkeersdiensten scheiden van de regelgevende instantie van de Republiek Montenegro, een nationale controle-instantie voor de Republiek Montenegro voor luchtverkeersdiensten instellen, een begin maken met de herindeling van het luchtruim van de Republiek Montenegro in een of meer functionele blokken, en een flexibel luchtruimgebruik toepassen;
 
 - v. het [Verdrag tot het brengen van eenheid in enige bepalingen inzake het internationale luchtvervoer](https://wetten.overheid.nl/jci1.3:c:BWBV0001644) (Verdrag van Montreal) bekrachtigen;
 
-- vi. voldoende voortgang hebben gemaakt met de toepassing van de regels inzake staatssteun en mededinging die zijn opgenomen in een in [artikel 14, lid 1, van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=14&z=2006-06-09&g=2006-06-09) bedoelde overeenkomst, dan wel in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=III&z=2006-06-09&g=2006-06-09) van deze overeenkomst, afhankelijk van welke van toepassing is.
+- vi. voldoende voortgang hebben gemaakt met de toepassing van de regels inzake staatssteun en mededinging die zijn opgenomen in een in [artikel 14, lid 1, van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=14&z=2011-06-22&g=2011-06-22) bedoelde overeenkomst, dan wel in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=III&z=2011-06-22&g=2011-06-22) van deze overeenkomst, afhankelijk van welke van toepassing is.
 
-2. Tegen het einde van de tweede overgangsperiode moet de Republiek Montenegro deze Overeenkomst toepassen, met inbegrip van alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde wetgeving.
+2. Tegen het einde van de tweede overgangsperiode moet de Republiek Montenegro deze Overeenkomst toepassen, met inbegrip van alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde wetgeving.
 
 ##### Artikel 3. Overgangsbepalingen
 
-1. In afwijking van [artikel 1, lid 1, van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=1&z=2006-06-09&g=2006-06-09) wordt het volgende bepaald:
+1. In afwijking van [artikel 1, lid 1, van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=1&z=2011-06-22&g=2011-06-22) wordt het volgende bepaald:
 
 - a. Tijdens de eerste overgangsperiode:
 
@@ -904,19 +904,19 @@ In afwijking van artikel 2 van dit protocol moet de Voormalige Joegoslavische Re
 
 2. In de zin van dit artikel wordt onder „communautaire luchtvaartmaatschappij” verstaan een luchtvaartmaatschappij die een vergunning heeft gekregen in een EG-lidstaat, Noorwegen of IJsland.
 
-3. De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=7&z=2006-06-09&g=2006-06-09) en [8 van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=8&z=2006-06-09&g=2006-06-09) zijn niet van toepassing tot het einde van de tweede overgangsperiode, onverminderd de verplichting van de Republiek Montenegro en de Gemeenschap om, vanaf het eind van de eerste overgangsperiode, overeenkomstig de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde besluiten exploitatievergunningen te verlenen aan luchtvaartmaatschappijen waarin EG-lidstaten of hun onderdanen een meerderheidsbelang hebben of de feitelijke zeggenschap uitoefenen, respectievelijk aan luchtvaartmaatschappijen waarin de Republiek Montenegro of haar onderdanen een meerderheidsbelang hebben of de feitelijke zeggenschap uitoefenen.
+3. De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=7&z=2011-06-22&g=2011-06-22) en [8 van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=8&z=2011-06-22&g=2011-06-22) zijn niet van toepassing tot het einde van de tweede overgangsperiode, onverminderd de verplichting van de Republiek Montenegro en de Gemeenschap om, vanaf het eind van de eerste overgangsperiode, overeenkomstig de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde besluiten exploitatievergunningen te verlenen aan luchtvaartmaatschappijen waarin EG-lidstaten of hun onderdanen een meerderheidsbelang hebben of de feitelijke zeggenschap uitoefenen, respectievelijk aan luchtvaartmaatschappijen waarin de Republiek Montenegro of haar onderdanen een meerderheidsbelang hebben of de feitelijke zeggenschap uitoefenen.
 
 ##### Artikel 4. Veiligheid van de luchtvaart
 
 1. Bij het begin van de eerste overgangsperiode wordt de Republiek Montenegro als waarnemer bij de werkzaamheden van het Europees Agentschap voor de veiligheid van de luchtvaart betrokken.
 
-2. Bij het einde van de tweede overgangsperiode bepaalt het bij [artikel 18 van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=18&z=2006-06-09&g=2006-06-09) ingestelde gemengd comité de precieze status van en voorwaarden voor de Republiek Montenegro met het oog op deelname aan het Europees Agentschap voor de veiligheid van de luchtvaart.
+2. Bij het einde van de tweede overgangsperiode bepaalt het bij [artikel 18 van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=18&z=2011-06-22&g=2011-06-22) ingestelde gemengd comité de precieze status van en voorwaarden voor de Republiek Montenegro met het oog op deelname aan het Europees Agentschap voor de veiligheid van de luchtvaart.
 
 3. Tot het einde van de tweede overgangsperiode kan de Europese Gemeenschap eisen dat de toestemming voor een luchtvaartmaatschappij die een vergunning heeft gekregen in Montenegro en Montenegro om luchtroutes naar, van of binnen de Europese Gemeenschap te exploiteren aan een specifieke veiligheidsbeoordeling wordt onderworpen indien gebreken in de veiligheid worden vastgesteld. Die beoordeling moet zo spoedig mogelijk door de Europese Gemeenschap worden uitgevoerd om onnodige vertraging bij de uitoefening van verkeersrechten te voorkomen.
 
 ##### Artikel 5. Beveiliging van de luchtvaart
 
-1. Bij het begin van de tweede overgangsperiode wordt het vertrouwelijke gedeelte van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde wetgeving inzake beveiliging ter beschikking van de bevoegde instantie in de Republiek Montenegro gesteld.
+1. Bij het begin van de tweede overgangsperiode wordt het vertrouwelijke gedeelte van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde wetgeving inzake beveiliging ter beschikking van de bevoegde instantie in de Republiek Montenegro gesteld.
 
 2. Tot het einde van de tweede overgangsperiode kan de Europese Gemeenschap eisen dat de toestemming voor een luchtvaartmaatschappij die een vergunning heeft gekregen in de Republiek Montenegro om luchtroutes naar, van of binnen de Europese Gemeenschap te exploiteren aan een specifieke beveiligingsbeoordeling wordt onderworpen indien gebreken in de beveiliging worden vastgesteld. Die beoordeling moet zo spoedig mogelijk door de Europese Gemeenschap worden uitgevoerd om onnodige vertraging bij de uitoefening van verkeersrechten te voorkomen.
 
@@ -928,11 +928,11 @@ In afwijking van artikel 2 van dit protocol moet de Voormalige Joegoslavische Re
 
 ##### Artikel 2. Voorwaarden voor de overgangsperiodes
 
-Tegen het einde van de overgangsperiode moet Roemenië deze Overeenkomst toepassen, met inbegrip van alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde wetgeving.
+Tegen het einde van de overgangsperiode moet Roemenië deze Overeenkomst toepassen, met inbegrip van alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde wetgeving.
 
 ##### Artikel 3. Overgangsbepalingen
 
-1. In afwijking van [artikel 1, lid 1, van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=1&z=2006-06-09&g=2006-06-09) wordt het volgende bepaald:
+1. In afwijking van [artikel 1, lid 1, van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=1&z=2011-06-22&g=2011-06-22) wordt het volgende bepaald:
 
 tijdens de overgangsperiode:
 
@@ -944,11 +944,11 @@ tijdens de overgangsperiode:
 
 2. In de zin van dit artikel wordt onder „communautaire luchtvaartmaatschappij’’ verstaan een luchtvaartmaatschappij die een vergunning heeft gekregen in een EG-lidstaat, Noorwegen of IJsland.
 
-3. De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=7&z=2006-06-09&g=2006-06-09) en [8 van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=8&z=2006-06-09&g=2006-06-09) zijn niet van toepassing tot het einde van de overgangsperiode, onverminderd de verplichting van Roemenië en de Gemeenschap om, vanaf het begin van de overgangsperiode, overeenkomstig de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde besluiten exploitatievergunningen te verlenen aan luchtvaartmaatschappijen waarin EG-lidstaten of hun onderdanen een meerderheidsbelang hebben of de feitelijke zeggenschap uitoefenen, respectievelijk aan luchtvaartmaatschappijen waarin Roemenië of onderdanen van Roemenië een meerderheidsbelang hebben of de feitelijke zeggenschap uitoefenen.
+3. De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=7&z=2011-06-22&g=2011-06-22) en [8 van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=8&z=2011-06-22&g=2011-06-22) zijn niet van toepassing tot het einde van de overgangsperiode, onverminderd de verplichting van Roemenië en de Gemeenschap om, vanaf het begin van de overgangsperiode, overeenkomstig de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde besluiten exploitatievergunningen te verlenen aan luchtvaartmaatschappijen waarin EG-lidstaten of hun onderdanen een meerderheidsbelang hebben of de feitelijke zeggenschap uitoefenen, respectievelijk aan luchtvaartmaatschappijen waarin Roemenië of onderdanen van Roemenië een meerderheidsbelang hebben of de feitelijke zeggenschap uitoefenen.
 
 ##### Artikel 4. Veiligheid van de luchtvaart
 
-1. Bij het einde van de overgangsperiode bepaalt het bij [artikel 18 van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=18&z=2006-06-09&g=2006-06-09) ingestelde gemengd comité de precieze status van en voorwaarden voor Roemenië met het oog op deelname aan het Europees Agentschap voor de veiligheid van de luchtvaart.
+1. Bij het einde van de overgangsperiode bepaalt het bij [artikel 18 van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=18&z=2011-06-22&g=2011-06-22) ingestelde gemengd comité de precieze status van en voorwaarden voor Roemenië met het oog op deelname aan het Europees Agentschap voor de veiligheid van de luchtvaart.
 
 2. Tot het einde van de overgangsperiode kan de Europese Gemeenschap eisen dat de toestemming voor een luchtvaartmaatschappij die een vergunning heeft gekregen in Roemenië om luchtroutes naar, van of binnen de Europese Gemeenschap te exploiteren aan een specifieke veiligheidsbeoordeling wordt onderworpen indien gebreken in de veiligheid worden vastgesteld. Die beoordeling moet zo spoedig mogelijk door de Europese Gemeenschap worden uitgevoerd om onnodige vertraging bij de uitoefening van verkeersrechten te voorkomen.
 
@@ -970,23 +970,23 @@ De bepalingen van dit protocol laten de uit Resolutie 1244 van de VN-Veiligheids
 
 1. Tegen het einde van de eerste overgangsperiode moet UNMIK
 
-- i. onverminderd haar speciale status krachtens het internationale recht, de door de gezamenlijke luchtvaartautoriteiten (Joint Aviation Authorities – JAA) vastgestelde gezamenlijke luchtvaartvoorschriften (JAR’s) toepassen en ernaar streven alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde wetgeving inzake veiligheid van de luchtvaart toe te passen;
+- i. onverminderd haar speciale status krachtens het internationale recht, de door de gezamenlijke luchtvaartautoriteiten (Joint Aviation Authorities – JAA) vastgestelde gezamenlijke luchtvaartvoorschriften (JAR’s) toepassen en ernaar streven alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde wetgeving inzake veiligheid van de luchtvaart toe te passen;
 
-- ii. ECAC-document 30 toepassen en ernaar streven alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde wetgeving inzake beveiliging van de luchtvaart toe te passen;
+- ii. ECAC-document 30 toepassen en ernaar streven alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde wetgeving inzake beveiliging van de luchtvaart toe te passen;
 
-- iii. Verordening (EEG) nr. 3925/91 (betreffende de afschaffing van de controles die van toepassing zijn op handbagage en ruimbagage), Verordening (EEG) nr. 2409/92 (inzake tarieven voor luchtdiensten), Richtlijn 94/56/EEG (inzake het onderzoek van ongevallen), Verordening (EG) nr. 2027/97 (betreffende de aansprakelijkheid van luchtvervoerders bij ongevallen), Richtlijn 2003/42/EEG (inzake de melding van voorvallen in de burgerluchtvaart), Verordening (EG) nr. 261/2004 (inzake instapweigering), Richtlijn 2000/79/EEG (betreffende de arbeidstijd in de burgerluchtvaart) en Richtlijn 2003/88/EEG (betreffende de arbeidstijd), zoals vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) toepassen;
+- iii. Verordening (EEG) nr. 3925/91 (betreffende de afschaffing van de controles die van toepassing zijn op handbagage en ruimbagage), Verordening (EEG) nr. 2409/92 (inzake tarieven voor luchtdiensten), Richtlijn 94/56/EEG (inzake het onderzoek van ongevallen), Verordening (EG) nr. 2027/97 (betreffende de aansprakelijkheid van luchtvervoerders bij ongevallen), Richtlijn 2003/42/EEG (inzake de melding van voorvallen in de burgerluchtvaart), Verordening (EG) nr. 261/2004 (inzake instapweigering), Richtlijn 2000/79/EEG (betreffende de arbeidstijd in de burgerluchtvaart) en Richtlijn 2003/88/EEG (betreffende de arbeidstijd), zoals vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) toepassen;
 
 - iv. de verlener van luchtverkeersdiensten scheiden van de regelgevende instantie, en een controle-instantie voor luchtverkeersdiensten instellen of aanwijzen;
 
 - v. het [Verdrag tot het brengen van eenheid in enige bepalingen inzake het internationale luchtvervoer](https://wetten.overheid.nl/jci1.3:c:BWBV0001644) (Verdrag van Montreal) in de praktijk toepassen;
 
-- vi. voldoende voortgang hebben gemaakt met de toepassing van de regels inzake staatssteun en mededinging die zijn opgenomen in een in [artikel 14, lid 1, van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=14&z=2006-06-09&g=2006-06-09) bedoelde overeenkomst, dan wel in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=III&z=2006-06-09&g=2006-06-09), afhankelijk van welke van toepassing is.
+- vi. voldoende voortgang hebben gemaakt met de toepassing van de regels inzake staatssteun en mededinging die zijn opgenomen in een in [artikel 14, lid 1, van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=14&z=2011-06-22&g=2011-06-22) bedoelde overeenkomst, dan wel in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=III&z=2011-06-22&g=2011-06-22), afhankelijk van welke van toepassing is.
 
-2. Tegen het einde van de tweede overgangsperiode moet UNMIK deze Overeenkomst toepassen, met inbegrip van alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde wetgeving.
+2. Tegen het einde van de tweede overgangsperiode moet UNMIK deze Overeenkomst toepassen, met inbegrip van alle in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde wetgeving.
 
 ##### Artikel 4. Overgangsbepalingen
 
-1. In afwijking van [artikel 1, lid 1, van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=1&z=2006-06-09&g=2006-06-09) wordt het volgende bepaald:
+1. In afwijking van [artikel 1, lid 1, van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=1&z=2011-06-22&g=2011-06-22) wordt het volgende bepaald:
 
 - a. Tijdens de eerste overgangsperiode:
 
@@ -1004,23 +1004,23 @@ De bepalingen van dit protocol laten de uit Resolutie 1244 van de VN-Veiligheids
 
 2. In de zin van dit artikel wordt onder „communautaire luchtvaartmaatschappij’’ verstaan een luchtvaartmaatschappij die een vergunning heeft gekregen in een EG-lidstaat, Noorwegen of IJsland.
 
-3. De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=7&z=2006-06-09&g=2006-06-09) en [8 van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=8&z=2006-06-09&g=2006-06-09) zijn niet van toepassing tot het einde van de tweede overgangsperiode, onverminderd de verplichting van UNMIK en de Gemeenschap om, vanaf het einde van de eerste overgangsperiode, overeenkomstig de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde besluiten exploitatievergunningen te verlenen aan luchtvaartmaatschappijen waarin EG-lidstaten of hun onderdanen een meerderheidsbelang hebben of de feitelijke zeggenschap uitoefenen, respectievelijk aan luchtvaartmaatschappijen waarin UNMIK of ingezetenen van Kosovo een meerderheidsbelang hebben of de feitelijke zeggenschap uitoefenen.
+3. De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=7&z=2011-06-22&g=2011-06-22) en [8 van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=8&z=2011-06-22&g=2011-06-22) zijn niet van toepassing tot het einde van de tweede overgangsperiode, onverminderd de verplichting van UNMIK en de Gemeenschap om, vanaf het einde van de eerste overgangsperiode, overeenkomstig de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde besluiten exploitatievergunningen te verlenen aan luchtvaartmaatschappijen waarin EG-lidstaten of hun onderdanen een meerderheidsbelang hebben of de feitelijke zeggenschap uitoefenen, respectievelijk aan luchtvaartmaatschappijen waarin UNMIK of ingezetenen van Kosovo een meerderheidsbelang hebben of de feitelijke zeggenschap uitoefenen.
 
 ##### Artikel 5. Internationale verdragen en overeenkomsten
 
-Wanneer de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde wetgeving voorziet in de verplichting partij te worden bij internationale verdragen of overeenkomsten, wordt rekening gehouden met de speciale status van UNMIK krachtens het internationale recht.
+Wanneer de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde wetgeving voorziet in de verplichting partij te worden bij internationale verdragen of overeenkomsten, wordt rekening gehouden met de speciale status van UNMIK krachtens het internationale recht.
 
 ##### Artikel 6. Veiligheid van de luchtvaart
 
 1. Bij het begin van de eerste overgangsperiode wordt UNMIK als waarnemer bij de werkzaamheden van het Europees Agentschap voor de veiligheid van de luchtvaart betrokken.
 
-2. Bij het einde van de tweede overgangsperiode bepaalt het bij [artikel 18 van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=18&z=2006-06-09&g=2006-06-09) ingestelde gemengd comité de precieze status van en voorwaarden voor UNMIK met het oog op deelname aan het Europees Agentschap voor de veiligheid van de luchtvaart.
+2. Bij het einde van de tweede overgangsperiode bepaalt het bij [artikel 18 van de hoofdovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&artikel=18&z=2011-06-22&g=2011-06-22) ingestelde gemengd comité de precieze status van en voorwaarden voor UNMIK met het oog op deelname aan het Europees Agentschap voor de veiligheid van de luchtvaart.
 
 3. Tot het einde van de tweede overgangsperiode kan de Europese Gemeenschap eisen dat de toestemming voor een luchtvaartmaatschappij die een vergunning heeft gekregen van UNMIK om luchtroutes naar, van of binnen de Europese Gemeenschap te exploiteren aan een specifieke veiligheidsbeoordeling wordt onderworpen indien gebreken in de veiligheid worden vastgesteld. Die beoordeling moet zo spoedig mogelijk door de Europese Gemeenschap worden uitgevoerd om onnodige vertraging bij de uitoefening van verkeersrechten te voorkomen.
 
 ##### Artikel 7. Beveiliging van de luchtvaart
 
-1. Bij het begin van de tweede overgangsperiode wordt het vertrouwelijke gedeelte van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2006-06-09&g=2006-06-09) genoemde wetgeving inzake beveiliging ter beschikking van de bevoegde instantie van UNMIK gesteld.
+1. Bij het begin van de tweede overgangsperiode wordt het vertrouwelijke gedeelte van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003210&bijlage=I&z=2011-06-22&g=2011-06-22) genoemde wetgeving inzake beveiliging ter beschikking van de bevoegde instantie van UNMIK gesteld.
 
 2. Tot het einde van de tweede overgangsperiode kan de Europese Gemeenschap eisen dat de toestemming voor een luchtvaartmaatschappij die een vergunning heeft gekregen van UNMIK om luchtroutes naar, van of binnen de Europese Gemeenschap te exploiteren aan een specifieke beveiligingsbeoordeling wordt onderworpen indien gebreken in de beveiliging worden vastgesteld. Die beoordeling moet zo spoedig mogelijk door de Europese Gemeenschap worden uitgevoerd om onnodige vertraging bij de uitoefening van verkeersrechten te voorkomen.
 
