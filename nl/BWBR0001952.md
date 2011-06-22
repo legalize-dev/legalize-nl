@@ -4,7 +4,7 @@ identifier: "BWBR0001952"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2010-07-01"
+last_updated: "2011-06-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001952"
 soort: "wet"
@@ -193,7 +193,9 @@ Voor zover deze onderwerpen niet reeds bij of krachtens de wet zijn geregeld, wo
 
 - o. overige rechten en verplichtingen;
 
-- p. de wijze, waarop met de daarvoor in aanmerking komende vakorganisaties van overheidspersoneel overleg wordt gepleegd over aangelegenheden van algemeen belang voor de rechtstoestand van militaire ambtenaren, alsmede de gevallen waarin overeenstemming in dat overleg dient te worden bereikt.
+- p. de wijze, waarop met de daarvoor in aanmerking komende vakorganisaties van overheidspersoneel overleg wordt gepleegd over aangelegenheden van algemeen belang voor de rechtstoestand van militaire ambtenaren, alsmede de gevallen waarin overeenstemming in dat overleg dient te worden bereikt;
+
+- q. de gevallen waarin berichten inzake de rechtspositie van de ambtenaar in afwijking van [artikel 2:14, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:14) uitsluitend elektronisch verzonden behoeven te worden en de voorwaarden die daarbij in acht worden genomen.
 
 ##### Artikel 12a
 
