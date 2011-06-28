@@ -4,7 +4,7 @@ identifier: "BWBR0029929"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-02-19"
-last_updated: "2011-05-04"
+last_updated: "2011-06-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029929"
 soort: "AMvB"
@@ -60,7 +60,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-Het is verboden te handelen in strijd met de voorschriften gesteld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029929&artikel=3&z=2011-05-04&g=2011-05-04) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0029929&artikel=4&z=2011-05-04&g=2011-05-04).
+Het is verboden te handelen in strijd met de voorschriften gesteld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029929&artikel=3&z=2011-06-28&g=2011-06-28) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0029929&artikel=4&z=2011-06-28&g=2011-06-28).
 
 ##### Artikel 3
 
@@ -76,13 +76,13 @@ Lucky Bamboo:
 
 ##### Artikel 4
 
-1. Voor de behandeling, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029929&artikel=3&z=2011-05-04&g=2011-05-04), beschikt de verhandelaar over een bestrijdingsplan.
+1. Voor de behandeling, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029929&artikel=3&z=2011-06-28&g=2011-06-28), beschikt de verhandelaar over een bestrijdingsplan.
 
 2. De verhandelaar beschikt voorts over een administratie waarin de gegevens die samenhangen met en betrekking hebben op de uitvoering van het bestrijdingsplan op een systematische wijze zijn vastgelegd.
 
 ##### Artikel 5
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
 ##### Artikel 6
 
