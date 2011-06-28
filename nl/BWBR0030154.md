@@ -4,7 +4,7 @@ identifier: "BWBR0030154"
 country: "nl"
 rank: "amvb"
 publication_date: "2011-06-28"
-last_updated: "2010-10-10"
+last_updated: "2011-06-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030154"
 soort: "AMvB"
@@ -56,22 +56,22 @@ Wijzigt het Besluit gemeentelijke basisadministratie persoonsgegevens.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit inburgering.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Kiesbesluit.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Vreemdelingenbesluit 2000.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met dien verstande dat [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0030154&artikel=I&z=2011-06-28&g=2011-06-28) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0030154&artikel=II&z=2011-06-28&g=2011-06-28) terugwerken tot 10 oktober 2010 om 00:00 uur in de openbare lichamen Bonaire, Sint Eustatius en Saba en om 06:00 uur in het Europese deel van Nederland.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit wordt aangehaald als: Reparatiebesluit BZK 2011.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
