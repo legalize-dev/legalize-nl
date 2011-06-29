@@ -4,7 +4,7 @@ identifier: "BWBR0005577"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-02-01"
-last_updated: "2009-12-29"
+last_updated: "2011-06-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005577"
 soort: "AMvB"
@@ -158,7 +158,7 @@ De fabrikant of diens gemachtigde draagt er zorg voor dat machines zodanig zijn 
 
 ##### Artikel 4
 
-Machines die voldoen aan de door Onze Minister aangewezen normen, en die met inachtneming van de procedures, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=3&artikel=5&z=2009-12-29&g=2009-12-29), voorzien zijn van de in bijlage III van de richtlijn bedoelde aanduiding houdende de CE-markering en vergezeld gaan van de in bijlage II, punt A, van de richtlijn bedoelde EG-verklaring van overeenstemming, bestaande uit de in die bijlage aangegeven onderdelen voor zover deze van toepassing zijn, worden vermoed te voldoen aan de essentiële veiligheids- en gezondheidseisen, bedoeld in bijlage I van de richtlijn.
+Machines die voldoen aan de door Onze Minister aangewezen normen, en die met inachtneming van de procedures, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=3&artikel=5&z=2011-06-29&g=2011-06-29), voorzien zijn van de in bijlage III van de richtlijn bedoelde aanduiding houdende de CE-markering en vergezeld gaan van de in bijlage II, punt A, van de richtlijn bedoelde EG-verklaring van overeenstemming, bestaande uit de in die bijlage aangegeven onderdelen voor zover deze van toepassing zijn, worden vermoed te voldoen aan de essentiële veiligheids- en gezondheidseisen, bedoeld in bijlage I van de richtlijn.
 
 ##### Artikel 5
 
@@ -166,7 +166,7 @@ Machines die voldoen aan de door Onze Minister aangewezen normen, en die met ina
 
 - a. voor machines die niet worden genoemd in bijlage IV bij de richtlijn, de procedure, bedoeld in bijlage VIII bij de richtlijn, toepast;
 
-- b. voor machines die worden genoemd in bijlage IV bij de richtlijn en die zijn vervaardigd met inachtneming van de normen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=2&artikel=4&z=2009-12-29&g=2009-12-29), indien deze normen alle van toepassing zijnde essentiële veiligheids- en gezondheidseisen, bedoeld in bijlage I bij de richtlijn, betreffen:
+- b. voor machines die worden genoemd in bijlage IV bij de richtlijn en die zijn vervaardigd met inachtneming van de normen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=2&artikel=4&z=2011-06-29&g=2011-06-29), indien deze normen alle van toepassing zijnde essentiële veiligheids- en gezondheidseisen, bedoeld in bijlage I bij de richtlijn, betreffen:
 
 - 1°. de procedure, bedoeld in bijlage VIII bij de richtlijn, toepast;
 
@@ -174,7 +174,7 @@ Machines die voldoen aan de door Onze Minister aangewezen normen, en die met ina
 
 - 3°. de procedure, bedoeld in bijlage X bij de richtlijn, toepast;
 
-- c. voor machines die worden genoemd in bijlage IV bij de richtlijn en die niet of slechts ten dele zijn vervaardigd met inachtneming van de normen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=2&artikel=4&z=2009-12-29&g=2009-12-29), of die zijn vervaardigd met inachtneming van dergelijke normen terwijl op het moment van vervaardiging van de machines deze normen niet alle van toepassing zijnde essentiële veiligheids- en gezondheidseisen, bedoeld in bijlage I bij de richtlijn, betreffen:
+- c. voor machines die worden genoemd in bijlage IV bij de richtlijn en die niet of slechts ten dele zijn vervaardigd met inachtneming van de normen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=2&artikel=4&z=2011-06-29&g=2011-06-29), of die zijn vervaardigd met inachtneming van dergelijke normen terwijl op het moment van vervaardiging van de machines deze normen niet alle van toepassing zijnde essentiële veiligheids- en gezondheidseisen, bedoeld in bijlage I bij de richtlijn, betreffen:
 
 - 1°. de procedure, bedoeld in bijlage IX bij de richtlijn, toepast en de maatregelen, bedoeld in bijlage VIII, punt 3, bij de richtlijn, neemt; of
 
@@ -184,9 +184,9 @@ Machines die voldoen aan de door Onze Minister aangewezen normen, en die met ina
 
 ##### Artikel 6
 
-1. De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=3&artikel=5&z=2009-12-29&g=2009-12-29) bedoelde aanduiding wordt duidelijk leesbaar en onuitwisbaar op de machine aangebracht, overeenkomstig de bijlagen I, punt 1.7.3, en III van de richtlijn.
+1. De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=3&artikel=5&z=2011-06-29&g=2011-06-29) bedoelde aanduiding wordt duidelijk leesbaar en onuitwisbaar op de machine aangebracht, overeenkomstig de bijlagen I, punt 1.7.3, en III van de richtlijn.
 
-2. Ten aanzien van machines mogen geen vermeldingen, vaststellingen of aanduidingen worden gebezigd, welke met de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=3&artikel=5&z=2009-12-29&g=2009-12-29) bedoelde aanduiding kunnen worden verward. Op de machines mogen andere markeringen worden aangebracht op voorwaarde dat de zichtbaarheid en de leesbaarheid van de CE-markering niet worden verminderd.
+2. Ten aanzien van machines mogen geen vermeldingen, vaststellingen of aanduidingen worden gebezigd, welke met de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=3&artikel=5&z=2011-06-29&g=2011-06-29) bedoelde aanduiding kunnen worden verward. Op de machines mogen andere markeringen worden aangebracht op voorwaarde dat de zichtbaarheid en de leesbaarheid van de CE-markering niet worden verminderd.
 
 ##### Artikel 7
 
@@ -212,7 +212,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. De fabrikant of diens gemachtigde die voornemens is aan het model van de machine of aan te vervaardigen en in de handel te brengen machines, waarvoor door een aangewezen aangemelde instelling een verklaring van EG-typeonderzoek is afgegeven, wijzigingen aan te brengen, stelt deze instelling hiervan onverwijld in kennis.
 
-2. De aangewezen aangemelde instelling beoordeelt de wijzigingen en bevestigt de geldigheid van de bestaande verklaring van EG-typeonderzoek of stelt een nieuwe verklaring op als de overeenstemming met de essentiële veiligheids- en gezondheidseisen of met de gebruiksvoorwaarden van het type door de wijzigingen in het geding kan komen. [Artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=3&artikel=5&z=2009-12-29&g=2009-12-29), is van overeenkomstige toepassing.
+2. De aangewezen aangemelde instelling beoordeelt de wijzigingen en bevestigt de geldigheid van de bestaande verklaring van EG-typeonderzoek of stelt een nieuwe verklaring op als de overeenstemming met de essentiële veiligheids- en gezondheidseisen of met de gebruiksvoorwaarden van het type door de wijzigingen in het geding kan komen. [Artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=3&artikel=5&z=2011-06-29&g=2011-06-29), is van overeenkomstige toepassing.
 
 ##### Artikel 6a
 
@@ -228,7 +228,7 @@ Vervallen
 
 ##### Artikel 6c
 
-[Artikel 2, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=1&artikel=2&z=2009-12-29&g=2009-12-29), is niet van toepassing op het tentoonstellen en demonstreren op (jaar)beurzen, exposities en bij demonstraties van machines of niet voltooide machines die niet in overeenstemming zijn met dit besluit, mits op een zichtbaar bord duidelijk is aangegeven dat zij niet in overeenstemming zijn met dit besluit en niet te koop zijn voordat zij door de fabrikant of zijn in de Europese Economische Ruimte gevestigde gevolmachtigde in overeenstemming zijn gebracht met dit besluit. Bij demonstraties zijn alle passende veiligheidsmaatregelen genomen om de bescherming van de mens te waarborgen.
+[Artikel 2, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=1&artikel=2&z=2011-06-29&g=2011-06-29), is niet van toepassing op het tentoonstellen en demonstreren op (jaar)beurzen, exposities en bij demonstraties van machines of niet voltooide machines die niet in overeenstemming zijn met dit besluit, mits op een zichtbaar bord duidelijk is aangegeven dat zij niet in overeenstemming zijn met dit besluit en niet te koop zijn voordat zij door de fabrikant of zijn in de Europese Economische Ruimte gevestigde gevolmachtigde in overeenstemming zijn gebracht met dit besluit. Bij demonstraties zijn alle passende veiligheidsmaatregelen genomen om de bescherming van de mens te waarborgen.
 
 ##### Artikel 6d
 
@@ -246,7 +246,7 @@ Vervallen
 
 ##### Artikel 6f
 
-1. In de nabijheid van een hijskraan als bedoeld in [artikel 6d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=4&artikel=6d&z=2009-12-29&g=2009-12-29), bevindt zich een kraanboek. In dit boek zijn in ieder geval de resultaten van de op grond van [artikel 6d](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=4&artikel=6d&z=2009-12-29&g=2009-12-29) uitgevoerde keuringen op adequate wijze vermeld.
+1. In de nabijheid van een hijskraan als bedoeld in [artikel 6d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=4&artikel=6d&z=2011-06-29&g=2011-06-29), bevindt zich een kraanboek. In dit boek zijn in ieder geval de resultaten van de op grond van [artikel 6d](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=4&artikel=6d&z=2011-06-29&g=2011-06-29) uitgevoerde keuringen op adequate wijze vermeld.
 
 2. Op het certificaat van goedkeuring wordt de datum van keuring vermeld, alsmede gegevens betreffende de identificatie van de hijskraan. Het certificaat van goedkeuring of een afschrift daarvan bevindt zich in de nabijheid van de hijskraan.
 
@@ -300,7 +300,7 @@ Vervallen
 
 ##### Artikel 6l
 
-Instellingen die op het tijdstip waarop artikel II, eerste, derde en vierde lid, van de [Wet van 1 november 2001 tot wijziging van de Warenwet met het oog op de incorporatie van productveiligheidsvoorschriften uit de Wet op de gevaarlijke werktuigen, zulks onder intrekking van deze wet en de Stoomwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012951) (Stb. 557) in werking treedt, door Onze Minister krachtens [artikel 20 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=20) zijn aangewezen om de keuringen, bedoeld in [artikel 6d](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=4&artikel=6d&z=2009-12-29&g=2009-12-29), uit te voeren, worden aangemerkt als aangewezen instellingen.
+Instellingen die op het tijdstip waarop artikel II, eerste, derde en vierde lid, van de [Wet van 1 november 2001 tot wijziging van de Warenwet met het oog op de incorporatie van productveiligheidsvoorschriften uit de Wet op de gevaarlijke werktuigen, zulks onder intrekking van deze wet en de Stoomwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012951) (Stb. 557) in werking treedt, door Onze Minister krachtens [artikel 20 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=20) zijn aangewezen om de keuringen, bedoeld in [artikel 6d](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=4&artikel=6d&z=2011-06-29&g=2011-06-29), uit te voeren, worden aangemerkt als aangewezen instellingen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
@@ -364,9 +364,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 1b
 
-1. Dit besluit is niet van toepassing op draagbare bevestigingswerktuigen met explosieve lading en andere slagwerktuigen.
-
-2. Dit artikel vervalt met ingang van 29 juni 2011.
+Vervallen
 
 ##### Artikel 2a
 
@@ -384,7 +382,7 @@ Besluiten bedoeld in de [artikelen 21, eerste en tweede lid](https://wetten.over
 
 - d. stelt de EG-verklaring van overeenstemming op die voldoet aan bijlage II, deel 1, onder A, bij de richtlijn en zorgt dat deze de machine vergezelt;
 
-- e. brengt de CE-markering, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=3&artikel=6&z=2009-12-29&g=2009-12-29), op de machine aan, alvorens een machine in de handel te brengen of in bedrijf te stellen.
+- e. brengt de CE-markering, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=3&artikel=6&z=2011-06-29&g=2011-06-29), op de machine aan, alvorens een machine in de handel te brengen of in bedrijf te stellen.
 
 2. De fabrikant of diens gemachtigde beschikt over of heeft toegang tot de middelen die nodig zijn om zich ervan te vergewissen dat de machine voldoet aan de essentiële veiligheids- en gezondheidseisen, bedoeld in bijlage I bij de richtlijn.
 
@@ -422,7 +420,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 2. Hijs- en hefwerktuigen voor beroepsmatig personenvervoer worden voor de ingebruikneming na elke herstelling of wijziging op de arbeidsplaats door een aangewezen instelling gekeurd.
 
-3. Bij de keuringen wordt getoetst of voldaan is aan de voor het desbetreffende hijs- en hefwerktuig geldende vervaardigingsvoorschriften, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=2&artikel=3&z=2009-12-29&g=2009-12-29). Indien uit de keuring blijkt dat wordt voldaan aan de voor het desbetreffende hijs- of hefwerktuig geldende vervaardigingsvoorschriften, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=2&artikel=3&z=2009-12-29&g=2009-12-29), geeft de aangewezen instelling een certificaat van goedkeuring af. Op dit certificaat wordt tevens de herkeuringstermijn aangegeven. Het certificaat van goedkeuring of een afschrift daarvan bevindt zich in de nabijheid van het desbetreffende hijs- of hefwerktuig.
+3. Bij de keuringen wordt getoetst of voldaan is aan de voor het desbetreffende hijs- en hefwerktuig geldende vervaardigingsvoorschriften, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=2&artikel=3&z=2011-06-29&g=2011-06-29). Indien uit de keuring blijkt dat wordt voldaan aan de voor het desbetreffende hijs- of hefwerktuig geldende vervaardigingsvoorschriften, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=2&artikel=3&z=2011-06-29&g=2011-06-29), geeft de aangewezen instelling een certificaat van goedkeuring af. Op dit certificaat wordt tevens de herkeuringstermijn aangegeven. Het certificaat van goedkeuring of een afschrift daarvan bevindt zich in de nabijheid van het desbetreffende hijs- of hefwerktuig.
 
 4. Als blijk van goedkeuring brengt de aangewezen instelling op een duidelijke zichtbare plaats op het desbetreffende hijs- of hefwerktuig een kenmerk aan waarop tevens de herkeuringstermijn, welke volgt uit het eerste lid, wordt aangegeven.
 
