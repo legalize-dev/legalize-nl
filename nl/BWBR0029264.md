@@ -4,7 +4,7 @@ identifier: "BWBR0029264"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-12-21"
-last_updated: "2011-06-15"
+last_updated: "2011-06-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029264"
 soort: "ministeriele-regeling"
@@ -163,8 +163,7 @@ Besluit:
 | [Subsidieregeling internationaal ondernemen](https://wetten.overheid.nl/jci1.3:c:BWBR0026819) | [Subsidieregeling internationaal ondernemen](https://wetten.overheid.nl/jci1.3:c:BWBR0026819) | [Subsidieregeling internationaal ondernemen](https://wetten.overheid.nl/jci1.3:c:BWBR0026819) | [Subsidieregeling internationaal ondernemen](https://wetten.overheid.nl/jci1.3:c:BWBR0026819) | [Subsidieregeling internationaal ondernemen](https://wetten.overheid.nl/jci1.3:c:BWBR0026819) | [Subsidieregeling internationaal ondernemen](https://wetten.overheid.nl/jci1.3:c:BWBR0026819) |
 | 6.1 | Subsidieregeling internationaal ondernemen (Prepare2Start) | 2.2 |   | 01-01 t/m 31-12 | 14.000.000 |
 | [Subsidieregeling internationaal excelleren](https://wetten.overheid.nl/jci1.3:c:BWBR0026983) | [Subsidieregeling internationaal excelleren](https://wetten.overheid.nl/jci1.3:c:BWBR0026983) | [Subsidieregeling internationaal excelleren](https://wetten.overheid.nl/jci1.3:c:BWBR0026983) | [Subsidieregeling internationaal excelleren](https://wetten.overheid.nl/jci1.3:c:BWBR0026983) | [Subsidieregeling internationaal excelleren](https://wetten.overheid.nl/jci1.3:c:BWBR0026983) | [Subsidieregeling internationaal excelleren](https://wetten.overheid.nl/jci1.3:c:BWBR0026983) |
-| 7.1 | Subsidieregeling internationaal excelleren (basismodule 2Getthere) | 2.1 |   | 01-01 t/m 31-12 | 6.000.000 |
-| 7.2 | Subsidieregeling internationaal excelleren (basismodule 2Getthere en demonstratieprojecten) | 3.1 |   | – | – |
+| 7.1 en 7.2 |   | 2.1 en 3.1 |   | 01-01 t/m 31-12 | 6.000.000 |
 | 7.3 | Subsidieregeling internationaal excelleren (2xplore) | 4.1 |   | – | – |
 | 7.4 | Subsidieregeling internationaal excelleren (opkomende markten) | 5.2 |   | – | – |
 | 7.5 | Subsidieregeling internationaal excelleren (opkomende markten) | 5.8 |   | – | – |
