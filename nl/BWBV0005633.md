@@ -4,7 +4,7 @@ identifier: "BWBV0005633"
 country: "nl"
 rank: "verdrag"
 publication_date: "2011-06-30"
-last_updated: "1955-05-06"
+last_updated: "2011-06-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005633"
 soort: "verdrag"
@@ -82,33 +82,27 @@ Het volgende zijn overeengekomen:
 
 ##### Artikel I
 
-De Bondsrepubliek Duitsland en de Italiaanse Republiek treden hierbij toe tot het Verdrag als gewijzigd en aangevuld door dit Protocol.
-
-De Hoge Verdragsluitende Partijen, partij bij dit Protocol, beschouwen het [Protocol betreffende de strijdkrachten van de West-Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0005542) (hierna te noemen Protocol No. II), het [Protocol betreffende het toezicht op de bewapening](https://wetten.overheid.nl/jci1.3:c:BWBV0005601) en de daarbij behorende Bijlagen (hierna te noemen Protocol No. III), en het [Protocol betreffende het Agentschap van de West-Europese Unie voor het toezicht op de bewapening](https://wetten.overheid.nl/jci1.3:c:BWBV0005566) (hierna te noemen Protocol No. IV) als een integrerend onderdeel van dit Protocol.
+Vervallen
 
 ##### Artikel II
 
-Wijzigt het Verdrag van economische, sociale en culturele samenwerking en collectieve zelfverdediging tussen het Koninkrijk der Nederlanden, het Koninkrijk België, de Franse Republiek, het Groothertogdom Luxemburg en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland; Brussel, 17 maart 1948.
+Vervallen
 
 ##### Artikel III
 
-Wijzigt het Verdrag van economische, sociale en culturele samenwerking en collectieve zelfverdediging tussen het Koninkrijk der Nederlanden, het Koninkrijk België, de Franse Republiek, het Groothertogdom Luxemburg en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland; Brussel, 17 maart 1948.
+Vervallen
 
 ##### Artikel IV
 
-Wijzigt het Verdrag van economische, sociale en culturele samenwerking en collectieve zelfverdediging tussen het Koninkrijk der Nederlanden, het Koninkrijk België, de Franse Republiek, het Groothertogdom Luxemburg en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland; Brussel, 17 maart 1948.
+Vervallen
 
 ##### Artikel V
 
-Wijzigt het Verdrag van economische, sociale en culturele samenwerking en collectieve zelfverdediging tussen het Koninkrijk der Nederlanden, het Koninkrijk België, de Franse Republiek, het Groothertogdom Luxemburg en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland; Brussel, 17 maart 1948.
+Vervallen
 
 ##### Artikel VI
 
-Dit Protocol en de andere in [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBV0005633&artikel=I&z=1955-05-06&g=1955-05-06) genoemde Protocollen zullen worden bekrachtigd en de akten van bekrachtiging zullen zo spoedig mogelijk worden nedergelegd bij de Belgische Regering.
-
-Zij treden in werking op het ogenblik waarop alle akten van bekrachtiging van dit Protocol bij de Belgische Regering zijn nedergelegd en de akte van toetreding van de Bondsrepubliek Duitsland tot het Noord-Atlantisch Verdrag is nedergelegd bij de Regering van de Verenigde Staten van Amerika.
-
-De Belgische Regering doet aan de regeringen van de andere Hoge Verdragsluitende Partijen en aan de Regering van de Verenigde Staten van Amerika mededeling van de nederlegging van iedere akte van bekrachtiging van dit Protocol.
+Vervallen
 
 In witness whereof the above-mentioned Plenipotentiaries have signed the present Protocol and have affixed thereto their seals.
 
