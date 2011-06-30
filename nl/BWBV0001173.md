@@ -4,7 +4,7 @@ identifier: "BWBV0001173"
 country: "nl"
 rank: "verdrag"
 publication_date: "2011-06-30"
-last_updated: "1995-03-06"
+last_updated: "2011-06-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001173"
 soort: "verdrag"
@@ -60,23 +60,23 @@ Zijn het volgende overeengekomen:
 
 ##### Artikel I
 
-Bij dit Protocol treedt de Helleense Republiek toe tot het Verdrag.
+Vervallen
 
 ##### Artikel II
 
-Door haar toetreding tot het Verdrag wordt de Helleense Republiek Partij bij de tussen de Lidstaten gesloten overeenkomsten, welke in een bijlage bij dit Protocol zijn genoemd.
+Vervallen
 
 ##### Artikel III
 
-Elke Staat die heeft ondertekend stelt de Belgische Regering in kennis van de aanvaarding, goedkeuring of bekrachtiging van dit Protocol, dat in werking treedt op de dag van ontvangst van de laatste van deze kennisgevingen. De Belgische Regering doet de Staten die hebben ondertekend mededeling van elk van deze kennisgevingen en van de inwerkingtreding van dit Protocol.
+Vervallen
 
 ##### 1
 
-Verdrag nopens de rechtspositie van de Westeuropese Unie, van de nationale vertegenwoordigers bij haar organen en van haar internationale staf, ondertekend te Parijs op 11 mei 1955.
+Vervallen
 
 ##### 2
 
-Overeenkomst ter uitvoering van artikel V van Protocol II bij het Verdrag, ondertekend te Parijs op 14 december 1957.
+Vervallen
 
 IN WITNESS WHEREOF, the undersigned, being duly authorised thereto, have signed the present Protocol.
 
