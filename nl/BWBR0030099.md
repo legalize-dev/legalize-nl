@@ -205,13 +205,3 @@ Deze regeling treedt in werking met ingang van 30 juni 2011. Indien de Staatscou
 Deze regeling wordt aangehaald als: Regeling vervoerbare drukapparatuur 2011.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 14a
-
-1. Het is marktdeelnemers die betrokken zijn of zijn geweest bij het op de markt aanbieden van vervoerbare drukapparatuur, verboden te handelen in strijd met artikel 7, eerste lid, van de EU-verordening markttoezicht.
-
-2. Het is een aanbieder van diensten van de informatiemaatschappij die betrokken is of is geweest bij het online te koop aanbieden van vervoerbare drukapparatuur, verboden te handelen in strijd met artikel 7, tweede lid, van de EU-verordening markttoezicht.
-
-#### § 5. Overgangs- en slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
