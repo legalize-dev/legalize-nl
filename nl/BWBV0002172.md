@@ -4,7 +4,7 @@ identifier: "BWBV0002172"
 country: "nl"
 rank: "verdrag"
 publication_date: "2011-06-30"
-last_updated: "1990-03-27"
+last_updated: "2011-06-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0002172"
 soort: "verdrag"
@@ -62,15 +62,15 @@ Zijn het volgende overeengekomen:
 
 ##### Artikel I
 
-Bij dit Protocol treden de Portugese Republiek en het Koninkrijk Spanje toe tot het Verdrag.
+Vervallen
 
 ##### Artikel II
 
-Door hun toetreding tot het Verdrag worden de Portugese Republiek en het Koninkrijk Spanje Partij bij de ter uitvoering van het Verdrag tussen de lidstaten gesloten overeenkomsten, welke in een bijlage bij dit Protocol zijn genoemd.
+Vervallen
 
 ##### Artikel III
 
-Elke Staat die heeft ondertekend, stelt de Belgische Regering in kennis van de aanvaarding, goedkeuring of bekrachtiging van dit Protocol, dat in werking treedt op de dag van ontvangst van de laatste van deze kennisgevingen. De Belgische Regering doet de Staten die hebben ondertekend mededeling van elk van deze kennisgevingen en van de inwerkingtreding van dit Protocol.
+Vervallen
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed the present Protocol.
 
