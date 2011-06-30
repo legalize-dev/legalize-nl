@@ -4,7 +4,7 @@ identifier: "BWBV0005601"
 country: "nl"
 rank: "verdrag"
 publication_date: "2011-06-30"
-last_updated: "1963-10-09"
+last_updated: "2011-06-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005601"
 soort: "verdrag"
@@ -72,26 +72,30 @@ Zijn het volgende overeengekomen:
 
 ##### Artikel 1
 
-De Hoge Verdragsluitende Partijen, leden van de West-Europese Unie, nemen kennis van, en betuigen hun instemming met, de Verklaring van de Kanselier van de Bondsrepubliek Duitsland (afgelegd in Londen op 3 October 1954 en hierbij gevoegd als Bijlage I) waarin de Bondsrepubliek Duitsland op zich heeft genomen, op haar grondgebied geen atoomwapens, biologische en chemische wapens te zullen vervaardigen. De in dit artikel bedoelde wapens zijn omschreven in Bijlage II. Deze wapens zullen nauwkeuriger worden omschreven en de omschrijvingen zullen door de Raad der West-Europese Unie worden aangepast aan de behoeften van het ogenblik.
+Vervallen
 
 ##### Artikel 2
 
-De Hoge Verdragsluitende Partijen, leden van de West-Europese Unie, nemen eveneens kennis van en betuigen eveneens hun instemming met, de door de Kanselier van de Bondsrepubliek Duitsland in dezelfde Verklaring aangegane verbintenis dat bepaalde andere soorten wapenen niet zullen worden vervaardigd op het grondgebied van de Bondsrepubliek Duitsland, behoudens dat, indien in overeenstemming met de behoeften van de hem ter beschikking gestelde gewapende strijdkrachten, de bevoegde Opperbevelhebber van de Noord-Atlantische Verdrags Organisatie aanbevelingen doet tot wijziging of buitenwerkingstelling van de lijst van deze wapens, en indien de Regering van de Bondsrepubliek Duitsland dienovereenkomstig een verzoek indient, een dergelijke wijziging of buitenwerkingstelling tot stand kan komen door middel van een door de Raad van de West-Europese Unie met twee-derde meerderheid aangenomen resolutie. De in dit artikel bedoelde wapenen zijn opgenomen in Bijlage III.
+Vervallen
 
 ## Deel II. - Wapens waarop toezicht zal worden uitgeoefend.
 
 ##### Artikel 3
 
-Wanneer op het vasteland van Europa de ontwikkeling van de atoomwapens, de biologische en chemische wapens op het grondgebied van de Hoge Verdragsluitende Partijen die geen afstand hebben gedaan van het recht deze wapens te produceren, het experimentele stadium is voltooid en aldaar een begin is gemaakt met de feitelijke productie van deze wapens, zullen de hoeveelheden welke de betrokken Hoge Verdragsluitende Partijen op het vasteland van Europa in voorraad mogen houden, met meerderheid van stemmen vastgesteld worden door de Raad van de West-Europese Unie.
+Vervallen
 
 ##### Artikel 4
 
-Onverminderd het bepaalde in de voorgaande artikelen, zal op de in Bijlage IV opgenomen wapens toezicht uitgeoefend worden in de mate en op de wijze als in Protocol No. IV is vastgelegd.
+Vervallen
 
 ##### Artikel 5
 
-De Raad van de West-Europese Unie kan met eenparigheid van stemmen wijzigingen aanbrengen in de in Bijlage IV opgenomen lijst.
+Vervallen
 
 In witness whereof the above-mentioned Plenipotentiaries have signed the present Protocol, being one of the Protocols listed in Article I of the Protocol Modifying and Completing the Treaty, and have affixed thereto their seals.
 
 Done at Paris on the twenty-third day of October 1954, in two texts, in the English and French languages, each text being equally authoritative, in a single copy, which shall remain deposited in the archives of the Belgian Government and of which certified copies shall be transmitted by that Government to each of the other Signatories.
+
+## Deel I. - Wapenen welke niet mogen worden vervaardigd.
+
+## Deel II. - Wapens waarop toezicht zal worden uitgeoefend.
