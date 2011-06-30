@@ -4,7 +4,7 @@ identifier: "BWBV0005546"
 country: "nl"
 rank: "verdrag"
 publication_date: "2011-06-30"
-last_updated: "1960-09-13"
+last_updated: "2011-06-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005546"
 soort: "verdrag"
@@ -46,17 +46,11 @@ Zijn het volgende overeengekomen:
 
 ##### Artikel 1
 
-De Bondsrepubliek Duitsland en Italië treden toe tot:
-
-- (a). het Verdrag betreffende grensarbeiders, ondertekend te Brussel op 17 april 1950;
-
-- (b). het Verdrag betreffende stagiaires, ondertekend te Brussel op 17 april 1950.
+Vervallen
 
 ##### Artikel 2
 
-(a). Dit Protocol zal in werking treden zodra alle ondertekenende Regeringen hun goedkeuring ter kennis hebben gebracht van de Secretaris-Generaal van de West-Europese Unie.
-
-(b). De Secretaris-Generaal zal de andere ondertekenende Regeringen mededeling doen van de nederlegging van iedere akte van goedkeuring.
+Vervallen
 
 In witness whereof the undersigned, duly authorised by their respective Governments, have signed the present Protocol.
 
