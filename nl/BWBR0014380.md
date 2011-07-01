@@ -4,7 +4,7 @@ identifier: "BWBR0014380"
 country: "nl"
 rank: "kb"
 publication_date: "2021-04-22"
-last_updated: "2010-07-01"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014380"
 soort: "KB"
@@ -52,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-De voorzitter van de raad van advies ontvangt voor zijn werkzaamheden en onkosten een vaste maandelijkse vergoeding van € 1090.
+De voorzitter van de raad van advies ontvangt voor zijn werkzaamheden en onkosten een vaste maandelijkse vergoeding van € 674,75.
 
 ##### Artikel 3
 
