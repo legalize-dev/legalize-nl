@@ -4,7 +4,7 @@ identifier: "BWBR0026562"
 country: "nl"
 rank: "wet"
 publication_date: "2011-07-01"
-last_updated: "2009-11-01"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026562"
 soort: "wet"
@@ -78,7 +78,7 @@ Wijzigt de Sanctiewet 1977.
 
 ##### Artikel VII
 
-1. Op rechtspersonen die geen kredietinstelling zijn in de zin van [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) en die aantoonbaar in overeenstemming met die wet voor 25 december 2007 betaaldiensten verleenden, is het verbod, bedoeld in [artikel 2:3a, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3a) tot 30 april 2011 niet van toepassing.
+1. Op rechtspersonen die geen kredietinstelling zijn in de zin van [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) en die voor 25 december 2007 aantoonbaar in overeenstemming met het recht dat voor die datum van toepassing was, betaaldiensten verleenden, is het verbod, bedoeld in [artikel 2:3a, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3a), tot 30 april 2011 niet van toepassing.
 
 2. Het eerste lid laat onverlet dat de in het eerste lid bedoelde rechtspersonen een vergunning als bedoeld in [artikel 2:3a van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3a) kunnen aanvragen.
 
