@@ -4,7 +4,7 @@ identifier: "BWBR0025870"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2011-01-01"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025870"
 soort: "ministeriele-regeling"
@@ -154,19 +154,11 @@ De subsidie wordt uitsluitend verstrekt ten behoeve van een donatie die ingevolg
 
 1. De minister kan bij de vaststelling van de subsidie verplichtingen opleggen die strekken tot verwezenlijking van het doel van de subsidie.
 
-2. De ontvanger van een subsidie doet zo spoedig mogelijk schriftelijk mededeling aan de minister van omstandigheden die van belang kunnen zijn voor een beslissing tot wijziging of intrekking van de beschikking tot vaststelling van de subsidie. Daarbij worden de relevante stukken overgelegd.
-
-3. De ontvanger van een subsidie zorgt er voor dat:
-
-- a. de administratie op overzichtelijke en doelmatige wijze wordt ingericht en gedurende vijf jaren na de beschikking tot vaststelling van de subsidie wordt bewaard;
-
-- b. te allen tijde de voor de vaststelling van de subsidie van belang zijnde baten en lasten kunnen worden nagegaan met behulp van de administratie.
-
-4. De ontvanger van een subsidie werkt mee aan door of namens de minister ingestelde onderzoekingen die erop zijn gericht de minister inlichtingen te verschaffen ten behoeve van de ontwikkeling van het beleid.
+2. De ontvanger van een subsidie werkt mee aan door of namens de minister ingestelde onderzoekingen die erop zijn gericht de minister inlichtingen te verschaffen ten behoeve van de ontwikkeling van het beleid.
 
 ##### Artikel 8
 
-De minister kan indien bijzondere omstandigheden daartoe aanleiding geven, artikelen buiten toepassing laten of daarvan afwijken.
+De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen zal leiden tot een onbillijkheid van overwegende aard.
 
 ##### Artikel 9
 
