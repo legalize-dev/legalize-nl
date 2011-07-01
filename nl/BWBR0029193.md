@@ -4,7 +4,7 @@ identifier: "BWBR0029193"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-07-01"
-last_updated: "2011-01-01"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029193"
 soort: "ministeriele-regeling"
@@ -50,11 +50,11 @@ In dit besluit wordt verstaan onder:
 
 - b. **het Comité:** Stichting Nationaal Comité 4 en 5 mei voor de Nationale Herdenking en Viering van de Bevrijding;
 
-- c. **het subsidiebeleid:** het op grond van [artikel 5 van de Subsidieregeling VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019947&artikel=5) opgestelde beleid voor de activiteiten educatie, reünies en lotgenotencontacten in relatie tot de Tweede Wereldoorlog.
+- c. **het subsidiebeleid:** het beleid van de minister voor het verstrekken van subsidies voor de activiteiten educatie, reünies en lotgenotencontacten in relatie tot de Tweede Wereldoorlog.
 
 ##### Artikel 2
 
-1. De minister verleent aan de voorzitter van het bestuur van het Comité mandaat met betrekking tot het verstrekken van projectsubsidies op grond van de [Subsidieregeling VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019947) voor activiteiten die passen binnen het subsidiebeleid.
+1. De minister verleent aan de voorzitter van het bestuur van het Comité mandaat met betrekking tot het verstrekken van projectsubsidies op grond van de [Kaderregeling VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0029947) voor activiteiten die passen binnen het subsidiebeleid.
 
 2. De voorzitter van het bestuur van het Comité is bevoegd tot het verlenen van ondermandaat aan personen binnen de organisatie op het niveau van de directie of ten hoogste één niveau lager tot het geheel of gedeeltelijk uitoefenen van de op grond van dit besluit toegekende bevoegdheden.
 
