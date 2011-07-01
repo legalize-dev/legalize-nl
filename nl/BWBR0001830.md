@@ -4,7 +4,7 @@ identifier: "BWBR0001830"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2011-01-01"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001830"
 soort: "wet"
@@ -50,7 +50,7 @@ Hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze, te 
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. gerechten: de gerechten, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=2&z=2011-01-01&g=2011-01-01);
+- a. gerechten: de gerechten, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=2&z=2011-07-01&g=2011-07-01);
 
 - b. rechterlijke ambtenaren:
 
@@ -62,7 +62,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - 4°. de procureur-generaal, de plaatsvervangend procureur-generaal, de advocaten-generaal en de advocaten-generaal in buitengewone dienst bij de Hoge Raad;
 
-- 5°. de procureurs-generaal die het College van procureurs-generaal, bedoeld in [artikel 130](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=4&afdeling=2&artikel=130&z=2011-01-01&g=2011-01-01), vormen;
+- 5°. de procureurs-generaal die het College van procureurs-generaal, bedoeld in [artikel 130](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=4&afdeling=2&artikel=130&z=2011-07-01&g=2011-07-01), vormen;
 
 - 6°. de hoofdadvocaten-generaal, de plaatsvervangende hoofdadvocaten-generaal, de senior advocaten-generaal, de advocaten-generaal en de plaatsvervangende advocaten-generaal bij de ressortsparketten en het parket-generaal;
 
@@ -78,9 +78,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. Hoge Raad: Hoge Raad der Nederlanden;
 
-- f. Onze Minister: Onze Minister van Justitie;
+- f. Onze Minister: Onze Minister van Veiligheid en Justitie;
 
-- g. de Raad: de Raad voor de rechtspraak, bedoeld in [artikel 84](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=1&artikel=84&z=2011-01-01&g=2011-01-01).
+- g. de Raad: de Raad voor de rechtspraak, bedoeld in [artikel 84](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=1&artikel=84&z=2011-07-01&g=2011-07-01);
+
+- h. zittingscapaciteit: beschikbare zittingsruimte, beschikbare capaciteit aan rechterlijke ambtenaren met rechtspraak belast of beschikbare capaciteit aan gerechtsambtenaren benodigd voor de behandeling van zaken.
 
 ### Hoofdstuk 2. Rechtspraak
 
@@ -98,7 +100,7 @@ De tot de rechterlijke macht behorende gerechten zijn:
 
 ##### Artikel 3
 
-De [afdelingen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&z=2011-01-01&g=2011-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&z=2011-01-01&g=2011-01-01) zijn niet van toepassing op de Hoge Raad.
+De [afdelingen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&z=2011-07-01&g=2011-07-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&z=2011-07-01&g=2011-07-01) zijn niet van toepassing op de Hoge Raad.
 
 ##### Artikel 3a
 
@@ -154,7 +156,7 @@ Vervallen
 
 2. Ieder lid is verplicht aan de besluitvorming deel te nemen.
 
-3. De rechterlijke ambtenaren met rechtspraak belast, de senior-gerechtsauditeurs en gerechtsauditeurs, de rechterlijke ambtenaren in opleiding, de griffier, substituut-griffier en waarnemend griffiers van de Hoge Raad, gerechtsambtenaren en buitengriffiers, bedoeld in [artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=14&z=2011-01-01&g=2011-01-01), zijn tot geheimhouding verplicht van hetgeen in de raadkamer over aanhangige zaken is geuit.
+3. De rechterlijke ambtenaren met rechtspraak belast, de senior-gerechtsauditeurs en gerechtsauditeurs, de rechterlijke ambtenaren in opleiding, de griffier, substituut-griffier en waarnemend griffiers van de Hoge Raad, gerechtsambtenaren en buitengriffiers, bedoeld in [artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=14&z=2011-07-01&g=2011-07-01), zijn tot geheimhouding verplicht van hetgeen in de raadkamer over aanhangige zaken is geuit.
 
 ##### Artikel 7a
 
@@ -212,15 +214,37 @@ Vervallen
 
 ##### Artikel 13
 
-De rechterlijke ambtenaren met rechtspraak belast, de senior-gerechtsauditeurs en gerechtsauditeurs, de rechterlijke ambtenaren in opleiding, de griffier, substituut-griffier en waarnemend griffiers van de Hoge Raad, gerechtsambtenaren en buitengriffiers, bedoeld in [artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=14&z=2011-01-01&g=2011-01-01), zijn verplicht tot geheimhouding van de gegevens waarover zij bij de uitoefening van hun ambt de beschikking krijgen en waarvan zij het vertrouwelijke karakter kennen of redelijkerwijs moeten vermoeden, behoudens voorzover enig wettelijk voorschrift hen tot mededeling verplicht of uit hun ambt de noodzaak tot mededeling voortvloeit.
+De rechterlijke ambtenaren met rechtspraak belast, de senior-gerechtsauditeurs en gerechtsauditeurs, de rechterlijke ambtenaren in opleiding, de griffier, substituut-griffier en waarnemend griffiers van de Hoge Raad, gerechtsambtenaren en buitengriffiers, bedoeld in [artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=14&z=2011-07-01&g=2011-07-01), zijn verplicht tot geheimhouding van de gegevens waarover zij bij de uitoefening van hun ambt de beschikking krijgen en waarvan zij het vertrouwelijke karakter kennen of redelijkerwijs moeten vermoeden, behoudens voorzover enig wettelijk voorschrift hen tot mededeling verplicht of uit hun ambt de noodzaak tot mededeling voortvloeit.
 
 ##### Artikel 13a
 
-Vervallen
+1. Degene die een klacht heeft over de wijze waarop een rechterlijk ambtenaar met rechtspraak belast zich in de uitoefening van zijn functie jegens hem heeft gedragen, kan, tenzij de klacht een rechterlijke beslissing betreft, de procureur-generaal bij de Hoge Raad schriftelijk verzoeken een vordering bij de Hoge Raad in te stellen tot het doen van een onderzoek naar de gedraging.
+
+2. Het verzoekschrift wordt ondertekend en bevat de naam en het adres van de verzoeker en een zo duidelijk mogelijke beschrijving van de bedoelde gedraging en de daartegen gerezen klacht.
 
 ##### Artikel 13b
 
-Vervallen
+1. De procureur-generaal is niet verplicht aan het verzoek, bedoeld in [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1a&artikel=13a&z=2011-07-01&g=2011-07-01), te voldoen, indien:
+
+- a. het verzoekschrift niet voldoet aan [artikel 13a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1a&artikel=13a&z=2011-07-01&g=2011-07-01);
+
+- b. de verzoeker overeenkomstig [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=26&z=2011-07-01&g=2011-07-01) of [75](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=5&artikel=75&z=2011-07-01&g=2011-07-01) een klacht over de gedraging kan of had kunnen indienen;
+
+- c. overeenkomstig [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=26&z=2011-07-01&g=2011-07-01) of [75](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=5&artikel=75&z=2011-07-01&g=2011-07-01) een klacht over de gedraging is ingediend, deze klacht is behandeld en de verzoeker redelijkerwijs onvoldoende belang heeft bij een onderzoek als bedoeld in [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1a&artikel=13a&z=2011-07-01&g=2011-07-01);
+
+- d. reeds aanstonds blijkt dat het verzoekschrift onredelijk lange tijd na het ontstaan van de klacht is ingediend;
+
+- e. een verzoekschrift van de verzoeker, dezelfde gedraging betreffende, in behandeling is of – behoudens indien een nieuw feit of een nieuwe omstandigheid, dezelfde gedraging betreffende, is bekend geworden en zulks tot een ander oordeel zou hebben kunnen leiden – is afgedaan;
+
+- f. voor de verzoeker met betrekking tot de klacht een voorziening bij een rechterlijke instantie openstaat of heeft opengestaan en hij daarvan geen gebruik heeft gemaakt, dan wel ten aanzien van die klacht een uitspraak van een rechterlijke instantie is gedaan waartegen geen rechtsmiddel openstaat;
+
+- g. door de procureur-generaal een vordering als bedoeld in [artikel 46o](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46o) juncto [artikel 46d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46d), [46f](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46f), [46l](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46l) of [46m van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46m) is of zal worden ingesteld.
+
+2. De procureur-generaal stelt de verzoeker, de rechterlijk ambtenaar op wiens gedraging het verzoekschrift betrekking heeft en het betrokken gerechtsbestuur onderscheidenlijk de president van de Hoge Raad in de gelegenheid hem mondeling of schriftelijk inlichtingen te verstrekken. Hij kan ook anderen daartoe in de gelegenheid stellen.
+
+3. De procureur-generaal stelt de verzoeker, de rechterlijk ambtenaar op wiens gedraging het verzoekschrift betrekking heeft en het betrokken gerechtsbestuur onderscheidenlijk de president van de Hoge Raad op de hoogte van de uitkomst van het vooronderzoek. Zo nodig vermeldt de procureur-generaal daarbij of naar zijn oordeel met betrekking tot de klacht een voorziening bij een rechterlijke instantie openstaat.
+
+4. Indien de procureur-generaal op grond van het eerste lid, onderdeel b, geen toepassing geeft aan het verzoek, zendt hij het verzoekschrift door aan het betrokken gerechtsbestuur onderscheidenlijk de Hoge Raad.
 
 ### Afdeling 2. De organisatie van de gerechten
 
@@ -262,7 +286,7 @@ Vervallen
 
 1. De procureur-generaal voldoet aan het verzoek tenzij:
 
-- a. niet is voldaan aan de vereisten, vermeld in [artikel 14a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=14a&z=2011-01-01&g=2011-01-01);
+- a. niet is voldaan aan de vereisten, vermeld in [artikel 14a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=14a&z=2011-07-01&g=2011-07-01);
 
 - b. reeds aanstonds blijkt dat het verzoekschrift onredelijk lange tijd na het ontstaan van de klacht is ingediend of geen genoegzame gronden inhoudt om het instellen van een onderzoek te vorderen;
 
@@ -272,7 +296,7 @@ Vervallen
 
 - e. door de procureur-generaal een vordering als bedoeld in [artikel 46o](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46o) juncto [artikel 46d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46d), [46f](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46f), [46g](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46g), [46l](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46l) of [46m van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46m), is of zal worden ingesteld;
 
-- f. de verzoeker overeenkomstig de regeling, bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=26&z=2011-01-01&g=2011-01-01), van de Wet op de rechterlijke organisatie, een klacht kan of had kunnen indienen.
+- f. de verzoeker overeenkomstig de regeling, bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=26&z=2011-07-01&g=2011-07-01), van de Wet op de rechterlijke organisatie, een klacht kan of had kunnen indienen.
 
 2. De procureur-generaal stelt de verzoeker en de ambtenaar op wiens gedraging het verzoekschrift betrekking heeft in de gelegenheid hem inlichtingen te verstrekken. Hij hoort de in de eerste volzin bedoelde personen, wanneer dezen dit verzoeken.
 
@@ -308,7 +332,7 @@ De vordering van de procureur-generaal tot het instellen van een onderzoek naar 
 
 5. De bestuursleden worden bij koninklijk besluit op voordracht van Onze Minister benoemd voor een periode van zes jaar. Zij kunnen worden herbenoemd.
 
-6. Voor de benoeming van een bestuurslid stelt de Raad een aanbeveling op van drie personen. Voordat de Raad een aanbeveling opstelt, hoort hij het bestuur van het desbetreffende gerecht. Het bestuur stelt de Raad daarbij tevens op de hoogte van de zienswijze van de ondernemingsraad.
+6. Voor de benoeming van een bestuurslid stelt de Raad een aanbeveling op. Voordat de Raad een aanbeveling opstelt, hoort hij het bestuur van het desbetreffende gerecht. Het bestuur stelt de Raad daarbij tevens op de hoogte van de zienswijze van de ondernemingsraad.
 
 7. Een lid van het bestuur kan niet tevens zijn lid van de Raad dan wel lid van het bestuur van een ander gerecht.
 
@@ -330,7 +354,7 @@ De vordering van de procureur-generaal tot het instellen van een onderzoek naar 
 
 - h. ambtenaar bij een ministerie, alsmede de daaronder ressorterende instellingen, diensten en bedrijven.
 
-9. De voorzitter van het bestuur en de sectorvoorzitters kunnen niet tevens rechterlijk ambtenaar, genoemd in [artikel 1, onderdeel b, onder 1° en 4° tot en met 9°](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=1&artikel=1&z=2011-01-01&g=2011-01-01), zijn.
+9. De voorzitter van het bestuur en de sectorvoorzitters kunnen niet tevens rechterlijk ambtenaar, genoemd in [artikel 1, onderdeel b, onder 1° en 4° tot en met 9°](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=1&artikel=1&z=2011-07-01&g=2011-07-01), zijn.
 
 10. De directeur bedrijfsvoering kan niet tevens rechterlijk ambtenaar zijn.
 
@@ -338,7 +362,7 @@ De vordering van de procureur-generaal tot het instellen van een onderzoek naar 
 
 1. De voorzitter onderscheidenlijk de sectorvoorzitter ontvangt in verband met het verrichten van de werkzaamheden als voorzitter onderscheidenlijk sectorvoorzitter een toelage op het salaris dat hij als rechterlijk ambtenaar geniet. Na het verstrijken van een benoemingsduur van ten minste zes aaneengesloten jaren ontvangt de voorzitter onderscheidenlijk de sectorvoorzitter, met ingang van de datum waarop hij zijn werkzaamheden als zodanig beëindigt, gedurende drie jaren een toelage op het salaris dat hij als rechterlijk ambtenaar geniet. Het bedrag van de toelage is gelijk aan het verschil tussen dat salaris en de bij algemene maatregel van bestuur voor de functie van voorzitter onderscheidenlijk sectorvoorzitter vast te stellen salarishoogte. Toekenning van de toelage geschiedt door het bestuur uitgezonderd de betrokken voorzitter onderscheidenlijk sectorvoorzitter.
 
-2. Een lid van het bestuur wordt bij koninklijk besluit op voordracht van Onze Minister ontslagen bij de aanvaarding van een ambt dat of een betrekking die ingevolge [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=15&z=2011-01-01&g=2011-01-01) onverenigbaar is met het zijn van lid van het bestuur van het gerecht.
+2. Een lid van het bestuur wordt bij koninklijk besluit op voordracht van Onze Minister ontslagen bij de aanvaarding van een ambt dat of een betrekking die ingevolge [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=15&z=2011-07-01&g=2011-07-01) onverenigbaar is met het zijn van lid van het bestuur van het gerecht.
 
 3. De voorzitter en de sectorvoorzitter worden bij koninklijk besluit op voordracht van Onze Minister ontslagen onderscheidenlijk geschorst als lid van het bestuur indien zij als rechterlijk ambtenaar met rechtspraak belast worden ontslagen onderscheidenlijk geschorst, tenzij dat ontslag of die schorsing alleen een rechtsprekend ambt betreft dat zij niet vervullen op basis van een aanstelling als bedoeld in [artikel 5f, eerste lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5f).
 
@@ -362,7 +386,7 @@ Het bestuur kan een of meer leden van het bestuur machtigen een of meer van zijn
 
 ##### Artikel 19
 
-1. Het bestuur stelt bij reglement in ieder geval nadere regels vast met betrekking tot zijn werkwijze, besluitvorming en taakverdeling, de organisatiestructuur, de machtiging, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=18&z=2011-01-01&g=2011-01-01), de vervanging van zijn leden in geval van ziekte of andere verhindering, de indeling in kamers, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=6&z=2011-01-01&g=2011-01-01), de verdeling van zaken over de sectoren, bedoeld in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=20&z=2011-01-01&g=2011-01-01), alsmede de verdeling van zaken over de hoofdplaats en nevenvestigings- en nevenzittingsplaatsen.
+1. Het bestuur stelt bij reglement in ieder geval nadere regels vast met betrekking tot zijn werkwijze, besluitvorming en taakverdeling, de organisatiestructuur, de machtiging, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=18&z=2011-07-01&g=2011-07-01), de vervanging van zijn leden in geval van ziekte of andere verhindering, de indeling in kamers, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=6&z=2011-07-01&g=2011-07-01), de verdeling van zaken over de sectoren, bedoeld in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=20&z=2011-07-01&g=2011-07-01), alsmede de verdeling van zaken over de hoofdplaats en nevenvestigings- en nevenzittingsplaatsen.
 
 2. Het reglement behoeft de instemming van de Raad. De [artikelen 10:28 tot en met 10:31 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:28) zijn van overeenkomstige toepassing.
 
@@ -380,7 +404,7 @@ Het bestuur kan een of meer leden van het bestuur machtigen een of meer van zijn
 
 4. De raadsheren-plaatsvervangers en rechters-plaatsvervangers die ingevolge het derde lid niet van de sectorvergadering deel uitmaken, kunnen daar op uitnodiging aan deelnemen.
 
-5. Gerechtsambtenaren nemen niet deel aan een stemming over de juridische kwaliteit en uniforme rechtstoepassing, bedoeld in [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=23&z=2011-01-01&g=2011-01-01).
+5. Gerechtsambtenaren nemen niet deel aan een stemming over de juridische kwaliteit en uniforme rechtstoepassing, bedoeld in [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=23&z=2011-07-01&g=2011-07-01).
 
 ##### Artikel 21
 
@@ -422,7 +446,7 @@ Het bestuur kan een of meer leden van het bestuur machtigen een of meer van zijn
 
 ##### Artikel 24
 
-1. Het bestuur kan ter uitvoering van zijn taken, genoemd in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=23&z=2011-01-01&g=2011-01-01), alle bij het gerecht werkzame ambtenaren algemene en bijzondere aanwijzingen geven.
+1. Het bestuur kan ter uitvoering van zijn taken, genoemd in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=23&z=2011-07-01&g=2011-07-01), alle bij het gerecht werkzame ambtenaren algemene en bijzondere aanwijzingen geven.
 
 2. Bij het geven van aanwijzingen treedt het bestuur niet in de procesrechtelijke behandeling van, de inhoudelijke beoordeling van alsmede de beslissing in een concrete zaak of in categorieën van zaken.
 
@@ -444,7 +468,7 @@ De president vertegenwoordigt het gerecht.
 
 ##### Artikel 28
 
-Een sectorvergadering of de gerechtsvergadering kan het bestuur gevraagd of ongevraagd adviseren over de uitvoering van de in [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=23&z=2011-01-01&g=2011-01-01), genoemde taak.
+Een sectorvergadering of de gerechtsvergadering kan het bestuur gevraagd of ongevraagd adviseren over de uitvoering van de in [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=23&z=2011-07-01&g=2011-07-01), genoemde taak.
 
 ##### Artikel 28a
 
@@ -454,7 +478,7 @@ Vervallen
 
 ##### Artikel 29
 
-1. Met inachtneming van de regels, bedoeld in [artikel 97, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=3&artikel=97&z=2011-01-01&g=2011-01-01), kent de Raad jaarlijks aan elk gerecht een algemeen budget toe ten laste van de rijksbegroting. De Raad kan aan de toekenning van het budget voorschriften verbinden.
+1. Met inachtneming van de regels, bedoeld in [artikel 97, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=3&artikel=97&z=2011-07-01&g=2011-07-01), kent de Raad jaarlijks aan elk gerecht een algemeen budget toe ten laste van de rijksbegroting. De Raad kan aan de toekenning van het budget voorschriften verbinden.
 
 2. In aanvulling op het algemene budget kan de Raad een gerecht financiële middelen verstrekken voor specifiek omschreven activiteiten die gericht zijn op verbetering van de organisatie of de werkwijze van de gerechten of het desbetreffende gerecht. De tweede volzin van het eerste lid is van overeenkomstige toepassing.
 
@@ -468,19 +492,19 @@ Vervallen
 
 ##### Artikel 30
 
-De Raad deelt aan elk gerecht zo spoedig mogelijk na de mededeling, bedoeld in [artikel 101](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=3&artikel=101&z=2011-01-01&g=2011-01-01) mede welk budget, met inbegrip van de daaraan te verbinden voorschriften, voor het komende begrotingsjaar voorlopig kan worden verwacht. Hij deelt daarbij tevens mede op welke wijze het geraamde budget is berekend.
+De Raad deelt aan elk gerecht zo spoedig mogelijk na de mededeling, bedoeld in [artikel 101](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=3&artikel=101&z=2011-07-01&g=2011-07-01) mede welk budget, met inbegrip van de daaraan te verbinden voorschriften, voor het komende begrotingsjaar voorlopig kan worden verwacht. Hij deelt daarbij tevens mede op welke wijze het geraamde budget is berekend.
 
 ##### Artikel 31
 
 1. Het bestuur stelt jaarlijks een jaarplan voor het gerecht vast. Het plan bevat:
 
-- a. een omschrijving van de voorgenomen activiteiten ter uitvoering van de in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=23&z=2011-01-01&g=2011-01-01), genoemde taken voor het jaar volgend op het jaar waarin het plan is vastgesteld;
+- a. een omschrijving van de voorgenomen activiteiten ter uitvoering van de in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=23&z=2011-07-01&g=2011-07-01), genoemde taken voor het jaar volgend op het jaar waarin het plan is vastgesteld;
 
 - b. een begroting voor het komende begrotingsjaar;
 
 - c. een meerjarenraming voor ten minste vier op het begrotingsjaar volgende jaren.
 
-2. In afwijking van [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=17&z=2011-01-01&g=2011-01-01), stelt het bestuur het jaarplan vast met meerderheid van stemmen, waaronder de stem van de president.
+2. In afwijking van [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=17&z=2011-07-01&g=2011-07-01), stelt het bestuur het jaarplan vast met meerderheid van stemmen, waaronder de stem van de president.
 
 3. De Raad kan omtrent de inrichting van het plan algemene aanwijzingen geven.
 
@@ -490,7 +514,7 @@ De Raad deelt aan elk gerecht zo spoedig mogelijk na de mededeling, bedoeld in [
 
 ##### Artikel 32
 
-1. Het bestuur stelt de begroting van het gerecht als onderdeel van het jaarplan vast in overeenstemming met het door de Raad geraamde budget, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=30&z=2011-01-01&g=2011-01-01).
+1. Het bestuur stelt de begroting van het gerecht als onderdeel van het jaarplan vast in overeenstemming met het door de Raad geraamde budget, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=30&z=2011-07-01&g=2011-07-01).
 
 2. De begroting van het gerecht behoeft de instemming van de Raad. De [artikelen 10:28 tot en met 10:30 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:28) zijn van overeenkomstige toepassing.
 
@@ -502,9 +526,9 @@ De Raad deelt aan elk gerecht zo spoedig mogelijk na de mededeling, bedoeld in [
 
 ##### Artikel 33
 
-1. De Raad maakt aan elk gerecht zo spoedig mogelijk na de vaststelling van de begroting van het Ministerie van Justitie bekend, welk budget hij aan het gerecht toekent. Indien het budget afwijkt van het geraamde budget, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=30&z=2011-01-01&g=2011-01-01) is de tweede volzin van dat artikel van overeenkomstige toepassing.
+1. De Raad maakt aan elk gerecht zo spoedig mogelijk na de vaststelling van de begroting van het Ministerie van Veiligheid en Justitie bekend, welk budget hij aan het gerecht toekent. Indien het budget afwijkt van het geraamde budget, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=30&z=2011-07-01&g=2011-07-01) is de tweede volzin van dat artikel van overeenkomstige toepassing.
 
-2. Indien het budget afwijkt van het geraamde budget, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=30&z=2011-01-01&g=2011-01-01), wijzigt het bestuur de begroting van het gerecht.
+2. Indien het budget afwijkt van het geraamde budget, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=30&z=2011-07-01&g=2011-07-01), wijzigt het bestuur de begroting van het gerecht.
 
 3. Beslissingen tot andere wijzigingen van de begroting kunnen uiterlijk tot het eind van het desbetreffende begrotingsjaar worden genomen.
 
@@ -534,13 +558,13 @@ De Raad deelt aan elk gerecht zo spoedig mogelijk na de mededeling, bedoeld in [
 
 4. De jaarrekening behoeft de instemming van de Raad. De instemming kan slechts worden onthouden wegens strijd met het recht. De [artikelen 10:28 tot en met 10:31 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:28) zijn van overeenkomstige toepassing.
 
-5. In het jaarverslag wordt vermeld op welke wijze de werkzaamheden ten behoeve waarvan het budget ten laste van de rijksbegroting is verleend, zijn uitgevoerd. Daarbij wordt aangegeven op welke wijze deze werkzaamheden zich verhouden tot het plan zoals dit overeenkomstig [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=31&z=2011-01-01&g=2011-01-01) voor het desbetreffende jaar is vastgesteld en tot de in het desbetreffende jaar geldende financieringsregels, bedoeld in [artikel 97, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=3&artikel=97&z=2011-01-01&g=2011-01-01).
+5. In het jaarverslag wordt vermeld op welke wijze de werkzaamheden ten behoeve waarvan het budget ten laste van de rijksbegroting is verleend, zijn uitgevoerd. Daarbij wordt aangegeven op welke wijze deze werkzaamheden zich verhouden tot het plan zoals dit overeenkomstig [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=31&z=2011-07-01&g=2011-07-01) voor het desbetreffende jaar is vastgesteld en tot de in het desbetreffende jaar geldende financieringsregels, bedoeld in [artikel 97, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=3&artikel=97&z=2011-07-01&g=2011-07-01).
 
 6. Het verslag omvat een verklaring omtrent de getrouwheid en de rechtmatigheid, afgegeven door een door het bestuur aangewezen accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). De accountant voegt bij de verklaring een rapport naar aanleiding van de controle op het financiële beheer. Bij de aanwijzing van de accountant wordt bedongen dat aan de Raad op diens verzoek inzicht wordt geboden in de controle-rapporten van de accountant.
 
-7. De Raad kan een aanwijzing vaststellen inzake de reikwijdte en de intensiteit van de accountantscontrole. Deze aanwijzing is in overeenstemming met de aanwijzing, bedoeld in [artikel 104, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=3&artikel=104&z=2011-01-01&g=2011-01-01).
+7. De Raad kan een aanwijzing vaststellen inzake de reikwijdte en de intensiteit van de accountantscontrole. Deze aanwijzing is in overeenstemming met de aanwijzing, bedoeld in [artikel 104, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=3&artikel=104&z=2011-07-01&g=2011-07-01).
 
-8. In afwijking van [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=17&z=2011-01-01&g=2011-01-01), stelt het bestuur het jaarverslag vast met meerderheid van stemmen, waaronder de stem van de president.
+8. In afwijking van [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=17&z=2011-07-01&g=2011-07-01), stelt het bestuur het jaarverslag vast met meerderheid van stemmen, waaronder de stem van de president.
 
 9. De Raad kan omtrent de inrichting van het verslag algemene aanwijzingen geven.
 
@@ -550,7 +574,7 @@ De Raad deelt aan elk gerecht zo spoedig mogelijk na de mededeling, bedoeld in [
 
 1. Het bestuur verstrekt desgevraagd aan de Raad de voor de uitoefening van zijn taak benodigde inlichtingen.
 
-2. De Raad kan omtrent de verstrekking van inlichtingen algemene aanwijzingen geven voorzover de gevraagde inlichtingen betrekking hebben op beslissingen en handelingen ter uitvoering van de taken, genoemd in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=23&z=2011-01-01&g=2011-01-01).
+2. De Raad kan omtrent de verstrekking van inlichtingen algemene aanwijzingen geven voorzover de gevraagde inlichtingen betrekking hebben op beslissingen en handelingen ter uitvoering van de taken, genoemd in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=23&z=2011-07-01&g=2011-07-01).
 
 ##### Artikel 36a
 
@@ -558,7 +582,7 @@ Vervallen
 
 ##### Artikel 37
 
-Een beslissing van het bestuur ter uitvoering van de in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=23&z=2011-01-01&g=2011-01-01), genoemde taken kan door de Raad worden vernietigd indien de beslissing kennelijk in strijd is met het recht of het belang van een goede bedrijfsvoering van het gerecht. De [artikelen 10:36](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:36), [10:37](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:37), [10:38 tot en met 10:45 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:38) zijn van overeenkomstige toepassing.
+Een beslissing van het bestuur ter uitvoering van de in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=23&z=2011-07-01&g=2011-07-01), genoemde taken kan door de Raad worden vernietigd indien de beslissing kennelijk in strijd is met het recht of het belang van een goede bedrijfsvoering van het gerecht. De [artikelen 10:36](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:36), [10:37](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:37), [10:38 tot en met 10:45 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:38) zijn van overeenkomstige toepassing.
 
 ##### Artikel 38
 
@@ -566,19 +590,19 @@ Een beslissing van het bestuur ter uitvoering van de in [artikel 23, eerste lid]
 
 2. De schorsing of het ontslag geschiedt bij koninklijk besluit op voordracht van Onze Minister.
 
-3. Indien alle leden van het bestuur zijn geschorst of ontslagen, kan de Raad bij het desbetreffende gerecht een of meer tijdelijke bewindvoerders aanstellen. [Artikel 15, zevende tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=15&z=2011-01-01&g=2011-01-01), is van overeenkomstige toepassing. Bij de aanstelling wordt een termijn bepaald voor de bewindvoering.
+3. Indien alle leden van het bestuur zijn geschorst of ontslagen, kan de Raad bij het desbetreffende gerecht een of meer tijdelijke bewindvoerders aanstellen. [Artikel 15, zevende tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=15&z=2011-07-01&g=2011-07-01), is van overeenkomstige toepassing. Bij de aanstelling wordt een termijn bepaald voor de bewindvoering.
 
 ##### Artikel 39
 
-1. Tegen een besluit op grond van [artikel 38, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=4&artikel=38&z=2011-01-01&g=2011-01-01), kan een belanghebbende beroep instellen bij de Hoge Raad.
+1. Tegen een besluit op grond van [artikel 38, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=4&artikel=38&z=2011-07-01&g=2011-07-01), kan een belanghebbende beroep instellen bij de Hoge Raad.
 
-2. De Hoge Raad beoordeelt of de Kroon in redelijkheid tot het oordeel heeft kunnen komen dat sprake is van ongeschiktheid anders dan wegens ziekte, onderscheidenlijk een ernstig vermoeden voor het bestaan daarvan, alsmede of Onze Minister bij zijn voordracht in strijd met [artikel 109](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=4&artikel=109&z=2011-01-01&g=2011-01-01) heeft gehandeld.
+2. De Hoge Raad beoordeelt of de Kroon in redelijkheid tot het oordeel heeft kunnen komen dat sprake is van ongeschiktheid anders dan wegens ziekte, onderscheidenlijk een ernstig vermoeden voor het bestaan daarvan, alsmede of Onze Minister bij zijn voordracht in strijd met [artikel 109](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=4&artikel=109&z=2011-07-01&g=2011-07-01) heeft gehandeld.
 
 3. Op het beroep is [hoofdstuk 8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8), met uitzondering van [afdeling 8.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=8.1.1) en de [artikelen 8:10](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:10), [8:11](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:11), [8:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:13) en [8:86](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:86), van overeenkomstige toepassing.
 
 ### Afdeling 3. De rechtbanken
 
-#### Paragraaf 1. Algemene bepalingen
+#### Paragraaf 4. Toezicht
 
 ##### Artikel 40
 
@@ -644,7 +668,7 @@ Het bestuur van de rechtbank wijst uit de bij het gerecht werkzame rechterlijke 
 
 1. Er is een sector kanton waarbinnen in enkelvoudige kamers kantonzaken worden behandeld en beslist.
 
-2. De sector kanton verricht zijn taken in de arrondissementshoofdplaats alsmede in de nevenvestigingsplaatsen die zijn vermeld in de bijlage, bedoeld in [artikel 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=3&paragraaf=1&artikel=41&z=2011-01-01&g=2011-01-01), en in de nevenzittingsplaatsen die krachtens [artikel 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=3&paragraaf=1&artikel=41&z=2011-01-01&g=2011-01-01), zijn aangewezen.
+2. De sector kanton verricht zijn taken in de arrondissementshoofdplaats alsmede in de nevenvestigingsplaatsen die zijn vermeld in de bijlage, bedoeld in [artikel 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=3&paragraaf=1&artikel=41&z=2011-07-01&g=2011-07-01), en in de nevenzittingsplaatsen die krachtens [artikel 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=3&paragraaf=1&artikel=41&z=2011-07-01&g=2011-07-01), zijn aangewezen.
 
 3. Het bestuur hoort de sectorvergadering van de sector kanton over:
 
@@ -662,9 +686,9 @@ Vervallen
 
 1. Het bestuur van de rechtbank vormt binnen de sector kanton enkelvoudige kamers en bepaalt de bezetting daarvan. Degene die zitting heeft in de enkelvoudige kamer draagt de titel van kantonrechter dan wel kantonrechter-plaatsvervanger.
 
-2. In afwijking van [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=47&z=2011-01-01&g=2011-01-01), vormt het bestuur van de rechtbank binnen de sector kanton meervoudige kamers onder de benaming van pachtkamers en bepaalt de bezetting daarvan.
+2. In afwijking van [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=47&z=2011-07-01&g=2011-07-01), vormt het bestuur van de rechtbank binnen de sector kanton meervoudige kamers onder de benaming van pachtkamers en bepaalt de bezetting daarvan.
 
-3. Een pachtkamer wordt bezet door twee personen, niet zijnde rechterlijk ambtenaar, als deskundige leden en een kantonrechter. Op de deskundige leden zijn de [artikelen 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=7&z=2011-01-01&g=2011-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=12&z=2011-01-01&g=2011-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=13&z=2011-01-01&g=2011-01-01) van overeenkomstige toepassing.
+3. Een pachtkamer wordt bezet door twee personen, niet zijnde rechterlijk ambtenaar, als deskundige leden en een kantonrechter. Op de deskundige leden zijn de [artikelen 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=7&z=2011-07-01&g=2011-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=12&z=2011-07-01&g=2011-07-01) en [13 tot en met 13g](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=13&z=2011-07-01&g=2011-07-01) van overeenkomstige toepassing.
 
 ##### Artikel 49
 
@@ -682,7 +706,7 @@ Het bestuur van de rechtbank te Arnhem vormt binnen de sector kanton een enkelvo
 
 ##### Artikel 51
 
-1. Het bestuur vormt voor het behandelen en beslissen van strafzaken in eerste aanleg, niet zijnde kantonzaken als bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=47&z=2011-01-01&g=2011-01-01), enkelvoudige kamers. Het bestuur bepaalt de bezetting van deze kamers.
+1. Het bestuur vormt voor het behandelen en beslissen van strafzaken in eerste aanleg, niet zijnde kantonzaken als bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=47&z=2011-07-01&g=2011-07-01), enkelvoudige kamers. Het bestuur bepaalt de bezetting van deze kamers.
 
 2. Degene die zitting heeft in een enkelvoudige kamer als bedoeld in het eerste lid draagt de titel van politierechter.
 
@@ -704,21 +728,21 @@ Het bestuur van de rechtbank te Arnhem vormt binnen de sector kanton een enkelvo
 
 2. Degene die zitting heeft in een enkelvoudige kamer als bedoeld in het eerste lid draagt de titel van militaire ambtenarenrechter.
 
-3. Een meervoudige kamer bestaat uit twee rechterlijke ambtenaren met rechtspraak belast en een militair lid, dat bij voorkeur afkomstig is uit het krijgsmachtdeel waartoe degene die beroep heeft ingesteld behoort of behoorde. Op het militaire lid zijn de [artikelen 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=7&z=2011-01-01&g=2011-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=12&z=2011-01-01&g=2011-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=13&z=2011-01-01&g=2011-01-01) van overeenkomstige toepassing.
+3. Een meervoudige kamer bestaat uit twee rechterlijke ambtenaren met rechtspraak belast en een militair lid, dat bij voorkeur afkomstig is uit het krijgsmachtdeel waartoe degene die beroep heeft ingesteld behoort of behoorde. Op het militaire lid zijn de [artikelen 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=7&z=2011-07-01&g=2011-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=12&z=2011-07-01&g=2011-07-01) en [13 tot en met 13g](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=13&z=2011-07-01&g=2011-07-01) van overeenkomstige toepassing.
 
 ##### Artikel 55
 
 1. Het bestuur van de rechtbank te Arnhem vormt voor het behandelen en beslissen van zaken als bedoeld in [artikel 2 van de Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=2), enkelvoudige en meervoudige kamers onder de benaming van militaire kamers. Het bestuur bepaalt de bezetting van deze kamers.
 
-2. Een meervoudige kamer bestaat uit twee rechterlijke ambtenaren met rechtspraak belast en een militair lid, dat bij voorkeur afkomstig is uit het krijgsmachtdeel waartoe de verdachte behoort of behoorde. Bij de behandeling van een zaak tegen verdachten van verschillende krijgsmachtdelen bepaalt de voorzitter van de kamer uit welk krijgsmachtdeel het militaire lid afkomstig is. Op het militaire lid zijn de [artikelen 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=7&z=2011-01-01&g=2011-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=12&z=2011-01-01&g=2011-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=13&z=2011-01-01&g=2011-01-01) van overeenkomstige toepassing.
+2. Een meervoudige kamer bestaat uit twee rechterlijke ambtenaren met rechtspraak belast en een militair lid, dat bij voorkeur afkomstig is uit het krijgsmachtdeel waartoe de verdachte behoort of behoorde. Bij de behandeling van een zaak tegen verdachten van verschillende krijgsmachtdelen bepaalt de voorzitter van de kamer uit welk krijgsmachtdeel het militaire lid afkomstig is. Op het militaire lid zijn de [artikelen 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=7&z=2011-07-01&g=2011-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=12&z=2011-07-01&g=2011-07-01) en [13 tot en met 13g](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=13&z=2011-07-01&g=2011-07-01) van overeenkomstige toepassing.
 
 3. Degene die zitting heeft in een enkelvoudige militaire kamer draagt de titel van militaire politierechter.
 
 ##### Artikel 55a
 
-1. Het bestuur van de rechtbank te ’s-Gravenhage vormt voor het behandelen en beslissen van zaken als bedoeld in [artikel 78, eerste en tweede lid, van de Zaaizaad- en plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=78) kamers onder de benaming van kamers voor het kwekersrecht. Het bestuur bepaalt de bezetting van deze kamers.
+1. Het bestuur van de rechtbank te ’s-Gravenhage vormt voor het behandelen en beslissen van zaken als bedoeld in [artikel 78, eerste en tweede lid, van de Zaaizaad- en plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=78), enkelvoudige en meervoudige kamers onder de benaming van kamers voor het kwekersrecht. Het bestuur bepaalt de bezetting van deze kamers.
 
-2. Een kamer voor het kwekersrecht bestaat uit twee rechterlijke ambtenaren met rechtspraak belast en een persoon, niet zijnde rechterlijk ambtenaar, als deskundig lid. Op het deskundige lid zijn de [artikelen 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=7&z=2011-01-01&g=2011-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=12&z=2011-01-01&g=2011-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=13&z=2011-01-01&g=2011-01-01) van overeenkomstige toepassing.
+2. Een meervoudige kamer bestaat uit twee rechterlijke ambtenaren met rechtspraak belast en een persoon, niet zijnde rechterlijk ambtenaar, als deskundig lid. Op het deskundige lid zijn de [artikelen 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=7&z=2011-07-01&g=2011-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=12&z=2011-07-01&g=2011-07-01) en [13 tot en met 13g](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=13&z=2011-07-01&g=2011-07-01) van overeenkomstige toepassing.
 
 ##### Artikel 55b
 
@@ -730,7 +754,7 @@ Vervallen
 
 ##### Artikel 56
 
-Het bestuur van de rechtbank te Haarlem vormt voor het behandelen en beslissen van zaken als bedoeld in [artikel 27, tweede lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=27), enkelvoudige en meervoudige kamers onder de benaming van douanekamers. Het bestuur bepaalt de bezetting van deze kamers.
+Het bestuur van de rechtbank te Haarlem vormt voor het behandelen en beslissen van zaken als bedoeld in [artikel 8:2, tweede en derde lid, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=8:2), enkelvoudige en meervoudige kamers onder de benaming van douanekamers. Het bestuur bepaalt de bezetting van deze kamers.
 
 ##### Artikel 57
 
@@ -860,13 +884,13 @@ Het bestuur van het gerechtshof te Amsterdam vormt voor het behandelen en beslis
 
 1. Het bestuur van het gerechtshof te Amsterdam vormt voor het behandelen en beslissen van zaken als bedoeld in [Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045), de [artikelen 173](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=173), [217](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=217) en [218 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=218), [artikel 5 van de Wet op de Europese ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&artikel=5), [artikel 26 van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=26), [artikel 36 van de Wet medezeggenschap op scholen](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&artikel=36) en de [artikelen 997](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=997) en [1000 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=1000) een meervoudige kamer onder de benaming van ondernemingskamer en bepaalt de bezetting daarvan.
 
-2. De ondernemingskamer bestaat uit drie rechterlijke ambtenaren met rechtspraak belast en twee personen, niet zijnde rechterlijk ambtenaar, als deskundige leden. Op de deskundige leden zijn de [artikelen 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=7&z=2011-01-01&g=2011-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=12&z=2011-01-01&g=2011-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=13&z=2011-01-01&g=2011-01-01) van deze wet en de [artikelen 46c](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46c), [46d](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46d), [46f](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46f), [46i, met uitzondering van het eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46i), [46j](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46j), [46l, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46l), [46m](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46m), [46o](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46o) en [46p van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46p) van overeenkomstige toepassing, met dien verstande dat voor de overeenkomstige toepassing van [artikel 46j](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46j) onderscheidenlijk [artikel 46o, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46o), onder functionele autoriteit wordt verstaan: bestuur onderscheidenlijk president van het gerecht.
+2. De ondernemingskamer bestaat uit drie rechterlijke ambtenaren met rechtspraak belast en twee personen, niet zijnde rechterlijk ambtenaar, als deskundige leden. Op de deskundige leden zijn de [artikelen 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=7&z=2011-07-01&g=2011-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=12&z=2011-07-01&g=2011-07-01) en [13 tot en met 13g](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=13&z=2011-07-01&g=2011-07-01) van deze wet en de [artikelen 46c](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46c), [46d](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46d), [46f](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46f), [46i, met uitzondering van het eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46i), [46j](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46j), [46l, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46l), [46m](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46m), [46o](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46o) en [46p van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46p) van overeenkomstige toepassing, met dien verstande dat voor de overeenkomstige toepassing van [artikel 46j](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46j) onderscheidenlijk [artikel 46o, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46o), onder functionele autoriteit wordt verstaan: bestuur onderscheidenlijk president van het gerecht.
 
 3. Het bestuur van het gerechtshof te 's-Gravenhage vormt voor het behandelen en beslissen van zaken als bedoeld in [artikel 46d, onderdeel i, van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=46d) een meervoudige kamer en bepaalt de bezetting daarvan. Het tweede lid is van overeenkomstige toepassing.
 
 4. De deskundige leden worden bij koninklijk besluit benoemd voor een periode van vijf jaar. Er kunnen ook plaatsvervangers worden benoemd.
 
-5. De deskundige leden leggen alvorens zij met hun werkzaamheden aanvangen de eed of belofte af volgens het formulier zoals dat is vastgesteld in de [tweede bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&bijlage=2&z=2011-01-01&g=2011-01-01) bij deze wet. Bij algemene maatregel van bestuur worden regels gesteld over hun beëdiging.
+5. De deskundige leden leggen alvorens zij met hun werkzaamheden aanvangen de eed of belofte af volgens het formulier zoals dat is vastgesteld in de [tweede bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&bijlage=2&z=2011-07-01&g=2011-07-01) bij deze wet. Bij algemene maatregel van bestuur worden regels gesteld over hun beëdiging.
 
 6. Bij algemene maatregel van bestuur worden regels gesteld over het kostuum, de afwezigheid, de afwisseling, de vergoeding voor reis- en verblijfskosten en nadere vergoeding van de deskundige leden en hun plaatsvervangers.
 
@@ -876,11 +900,11 @@ Het bestuur van het gerechtshof te Amsterdam vormt voor het behandelen en beslis
 
 2. Deze kamer is voorts belast met het verstrekken van adviezen ingevolge [artikel 43, derde lid, van de Wet overdracht tenuitvoerlegging strafvonnissen](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&artikel=43).
 
-3. Deze kamer wordt voor de beslissing in zaken in beroep als bedoeld in de [artikelen 502](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=502), [509v](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=509v) en [509ff van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=509ff) aangevuld met twee personen, niet zijnde rechterlijk ambtenaar, als deskundige leden. In de overige zaken kan de voorzitter van de kamer deze leden toevoegen. Op de deskundige leden zijn de [artikelen 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=7&z=2011-01-01&g=2011-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=12&z=2011-01-01&g=2011-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=13&z=2011-01-01&g=2011-01-01) van deze wet en de [artikelen 46c](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46c), [46d](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46d), [46f](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46f), [46i, met uitzondering van het eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46i), [46j](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46j), [46l, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46l), [46m](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46m), [46o](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46o) en [46p van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46p) van overeenkomstige toepassing, met dien verstande dat voor de overeenkomstige toepassing van [artikel 46j](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46j) onderscheidenlijk [artikel 46o, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46o), onder functionele autoriteit wordt verstaan: bestuur onderscheidenlijk president van het gerecht.
+3. Deze kamer wordt voor de beslissing in zaken in beroep als bedoeld in de [artikelen 502](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=502), [509v](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=509v) en [509ff van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=509ff) aangevuld met twee personen, niet zijnde rechterlijk ambtenaar, als deskundige leden. In de overige zaken kan de voorzitter van de kamer deze leden toevoegen. Op de deskundige leden zijn de [artikelen 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=7&z=2011-07-01&g=2011-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=12&z=2011-07-01&g=2011-07-01) en [13 tot en met 13g](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=13&z=2011-07-01&g=2011-07-01) van deze wet en de [artikelen 46c](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46c), [46d](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46d), [46f](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46f), [46i, met uitzondering van het eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46i), [46j](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46j), [46l, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46l), [46m](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46m), [46o](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46o) en [46p van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46p) van overeenkomstige toepassing, met dien verstande dat voor de overeenkomstige toepassing van [artikel 46j](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46j) onderscheidenlijk [artikel 46o, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46o), onder functionele autoriteit wordt verstaan: bestuur onderscheidenlijk president van het gerecht.
 
 4. De deskundige leden worden bij koninklijk besluit benoemd voor een periode van vijf jaar. Er kunnen ook plaatsvervangers worden benoemd.
 
-5. De deskundige leden leggen alvorens zij met hun werkzaamheden aanvangen de eed of belofte af volgens het formulier zoals dat is vastgesteld in de [tweede bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&bijlage=2&z=2011-01-01&g=2011-01-01) bij deze wet. Bij algemene maatregel van bestuur worden regels gesteld over hun beëdiging.
+5. De deskundige leden leggen alvorens zij met hun werkzaamheden aanvangen de eed of belofte af volgens het formulier zoals dat is vastgesteld in de [tweede bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&bijlage=2&z=2011-07-01&g=2011-07-01) bij deze wet. Bij algemene maatregel van bestuur worden regels gesteld over hun beëdiging.
 
 6. Bij algemene maatregel van bestuur worden regels gesteld over het kostuum, de afwezigheid, de afwisseling, de vergoeding voor reis- en verblijfskosten en nadere vergoeding van de deskundige leden en hun plaatsvervangers.
 
@@ -888,21 +912,21 @@ Het bestuur van het gerechtshof te Amsterdam vormt voor het behandelen en beslis
 
 1. Het bestuur van het gerechtshof te Arnhem vormt voor het behandelen en beslissen van zaken waarin door de militaire kamer van de rechtbank te Arnhem vonnis is gewezen een meervoudige kamer onder de benaming van militaire kamer. Het bestuur bepaalt de bezetting van deze kamer.
 
-2. De militaire kamer bestaat uit twee rechterlijke ambtenaren met rechtspraak belast en een militair lid, dat bij voorkeur behoort tot het krijgsmachtdeel waartoe de verdachte behoort of behoorde. Bij de behandeling van een zaak tegen verdachten van verschillende krijgsmachtdelen bepaalt de voorzitter van de kamer uit welk krijgsmachtdeel het militaire lid afkomstig is. Op het militaire lid zijn de [artikelen 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=7&z=2011-01-01&g=2011-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=12&z=2011-01-01&g=2011-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=13&z=2011-01-01&g=2011-01-01) van overeenkomstige toepassing.
+2. De militaire kamer bestaat uit twee rechterlijke ambtenaren met rechtspraak belast en een militair lid, dat bij voorkeur behoort tot het krijgsmachtdeel waartoe de verdachte behoort of behoorde. Bij de behandeling van een zaak tegen verdachten van verschillende krijgsmachtdelen bepaalt de voorzitter van de kamer uit welk krijgsmachtdeel het militaire lid afkomstig is. Op het militaire lid zijn de [artikelen 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=7&z=2011-07-01&g=2011-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=12&z=2011-07-01&g=2011-07-01) en [13 tot en met 13g](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=13&z=2011-07-01&g=2011-07-01) van overeenkomstige toepassing.
 
 3. De militaire kamer oordeelt ook over het beklag over niet vervolging in militaire zaken als bedoeld in [artikel 12 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=12).
 
 ##### Artikel 69
 
-1. Het bestuur van het gerechtshof te Arnhem vormt voor het behandelen en beslissen van zaken als bedoeld in [artikel 132 van de Pachtwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002269&artikel=132), een meervoudige kamer onder de benaming van pachtkamer. Het bestuur bepaalt de bezetting van deze kamer.
+1. Het bestuur van het gerechtshof te Arnhem vormt voor het behandelen en beslissen van zaken als bedoeld in [artikel 1019o, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=1019o), een meervoudige kamer onder de benaming van pachtkamer. Het bestuur bepaalt de bezetting van deze kamer.
 
-2. De pachtkamer bestaat uit drie rechterlijke ambtenaren met rechtspraak belast en twee personen, niet zijnde rechterlijk ambtenaar, als deskundige leden. Op de deskundige leden zijn de [artikelen 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=7&z=2011-01-01&g=2011-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=12&z=2011-01-01&g=2011-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=13&z=2011-01-01&g=2011-01-01) van overeenkomstige toepassing.
+2. De pachtkamer bestaat uit drie rechterlijke ambtenaren met rechtspraak belast en twee personen, niet zijnde rechterlijk ambtenaar, als deskundige leden. Op de deskundige leden zijn de [artikelen 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=7&z=2011-07-01&g=2011-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=12&z=2011-07-01&g=2011-07-01) en [13 tot en met 13g](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=13&z=2011-07-01&g=2011-07-01) van overeenkomstige toepassing.
 
 ##### Artikel 70
 
 1. Het bestuur van het gerechtshof te 's-Gravenhage vormt voor het behandelen en beslissen van zaken als bedoeld in [artikel 78, derde lid, van de Zaaizaad- en plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=78), een meervoudige kamer onder de benaming van kamer voor het kwekersrecht. Het bestuur bepaalt de bezetting van deze kamer.
 
-2. De kamer voor het kwekersrecht bestaat uit drie rechterlijke ambtenaren met rechtspraak belast en twee personen, niet zijnde rechterlijk ambtenaar, als deskundige leden. Op de deskundige leden zijn de [artikelen 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=7&z=2011-01-01&g=2011-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=12&z=2011-01-01&g=2011-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=13&z=2011-01-01&g=2011-01-01) van overeenkomstige toepassing.
+2. De kamer voor het kwekersrecht bestaat uit drie rechterlijke ambtenaren met rechtspraak belast en twee personen, niet zijnde rechterlijk ambtenaar, als deskundige leden. Op de deskundige leden zijn de [artikelen 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=7&z=2011-07-01&g=2011-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=12&z=2011-07-01&g=2011-07-01) en [13 tot en met 13g](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=13&z=2011-07-01&g=2011-07-01) van overeenkomstige toepassing.
 
 ##### Artikel 71
 
@@ -958,6 +982,8 @@ De Hoge Raad geeft advies of inlichtingen wanneer dat vanwege de regering wordt 
 
 5. Het reglement wordt gepubliceerd in de Staatscourant.
 
+6. De Hoge Raad stelt een regeling vast voor de behandeling van klachten. [Artikel 26, vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=26&z=2011-07-01&g=2011-07-01), is van overeenkomstige toepassing.
+
 ##### Artikel 76
 
 1. De Hoge Raad neemt in eerste instantie, tevens in hoogste ressort, kennis van de ambtsmisdrijven en ambtsovertredingen begaan door de leden van de Staten-Generaal, de ministers en de staatssecretarissen.
@@ -972,7 +998,7 @@ De Hoge Raad geeft advies of inlichtingen wanneer dat vanwege de regering wordt 
 
 1. De Hoge Raad neemt in eerste aanleg, tevens in hoogste ressort, kennis van jurisdictiegeschillen tussen:
 
-- a. rechtbanken, tenzij [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=Vierde&paragraaf=1&artikel=61&z=2011-01-01&g=2011-01-01) van toepassing is;
+- a. rechtbanken, tenzij [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=Vierde&paragraaf=1&artikel=61&z=2011-07-01&g=2011-07-01) van toepassing is;
 
 - b. gerechtshoven;
 
@@ -1056,11 +1082,11 @@ Vervallen
 
 1. Er is een Raad voor de rechtspraak.
 
-2. De Raad bestaat uit vijf leden.
+2. De Raad bestaat uit ten minste drie en ten hoogste vijf leden. Bij algemene maatregel van bestuur wordt het aantal leden vastgesteld.
 
 3. De leden van de Raad worden bij koninklijk besluit op voordracht van Onze Minister benoemd voor een periode van zes jaar. Zij kunnen eenmaal worden herbenoemd voor een periode van drie jaar.
 
-4. Van de vijf leden van de Raad zijn drie leden rechterlijke ambtenaren met rechtspraak belast dan wel met rechtspraak belaste leden van de Centrale Raad van Beroep of het College van Beroep voor het bedrijfsleven, die hun rechtsprekend ambt op basis van een aanstelling als bedoeld in [artikel 5f, eerste lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5f) vervullen. De overige twee leden van de Raad zijn geen rechterlijke ambtenaren met rechtspraak belast, dan wel met rechtspraak belaste leden van de Centrale Raad van Beroep of het College van Beroep voor het bedrijfsleven.
+4. Indien de Raad bestaat uit drie of vier leden onderscheidenlijk uit vijf leden, zijn twee leden onderscheidenlijk drie leden rechterlijke ambtenaren met rechtspraak belast dan wel met rechtspraak belaste leden van de Centrale Raad van Beroep of het College van Beroep voor het bedrijfsleven, die hun rechtsprekend ambt op basis van een aanstelling als bedoeld in [artikel 5f, eerste lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5f) vervullen. De overige leden van de Raad zijn geen rechterlijke ambtenaren met rechtspraak belast, dan wel met rechtspraak belaste leden van de Centrale Raad van Beroep of het College van Beroep voor het bedrijfsleven.
 
 5. Een van de rechterlijke leden wordt bij koninklijk besluit op voordracht van Onze Minister tot voorzitter van de Raad benoemd.
 
@@ -1080,9 +1106,9 @@ Vervallen
 
 - g. ambtenaar bij een ministerie, alsmede de daaronder ressorterende instellingen, diensten en bedrijven;
 
-- h. rechterlijk ambtenaar, als bedoeld in [artikel 1, onderdeel b, onder 1° en 4° tot en met 9°](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=1&artikel=1&z=2011-01-01&g=2011-01-01);
+- h. rechterlijk ambtenaar, als bedoeld in [artikel 1, onderdeel b, onder 1° en 4° tot en met 9°](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=1&artikel=1&z=2011-07-01&g=2011-07-01);
 
-- i. lid van het College van Afgevaardigden, bedoeld in [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=1&artikel=90&z=2011-01-01&g=2011-01-01).
+- i. lid van het College van Afgevaardigden, bedoeld in [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=1&artikel=90&z=2011-07-01&g=2011-07-01).
 
 ##### Artikel 84a
 
@@ -1090,7 +1116,7 @@ Vervallen
 
 ##### Artikel 85
 
-1. Voorafgaand aan de voordracht, bedoeld in [artikel 84, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=1&artikel=84&z=2011-01-01&g=2011-01-01), stelt Onze Minister in overeenstemming met de Raad een lijst vast van maximaal zes personen die voor de vervulling van de desbetreffende vacature in aanmerking lijken te komen.
+1. Voorafgaand aan de voordracht, bedoeld in [artikel 84, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=1&artikel=84&z=2011-07-01&g=2011-07-01), stelt Onze Minister in overeenstemming met de Raad een lijst vast van maximaal zes personen die voor de vervulling van de desbetreffende vacature in aanmerking lijken te komen.
 
 2. De lijst wordt ter beschikking gesteld aan een commissie van aanbeveling. Deze bestaat uit een president van een gerecht, een vertegenwoordiger van de Nederlandse Vereniging voor Rechtspraak, een lid van het College van afgevaardigden, een directeur bedrijfsvoering van een gerecht en een door Onze Minister aangewezen persoon. De president is voorzitter.
 
@@ -1102,7 +1128,7 @@ Vervallen
 
 1. De rechterlijke leden van de Raad ontvangen in verband met het verrichten van de werkzaamheden als lid van de Raad een toelage op het salaris dat zij als rechterlijk ambtenaar, lid van de Centrale Raad van Beroep of lid van het College van Beroep voor het bedrijfsleven genieten. Het bedrag van de toelage is gelijk aan het verschil tussen dat salaris en de bij algemene maatregel van bestuur voor de functie van rechterlijk lid van de Raad vast te stellen salarishoogte. Toekenning van de toelage geschiedt door de Raad voor de rechtspraak uitgezonderd het betrokken lid.
 
-2. Een lid van de Raad wordt bij koninklijk besluit op voordracht van Onze Minister ontslagen bij de aanvaarding van een ambt dat of een betrekking die volgens [artikel 84](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=1&artikel=84&z=2011-01-01&g=2011-01-01) onverenigbaar is met het lidmaatschap van de Raad. Een niet-rechterlijk lid van de Raad wordt tevens als lid van de Raad bij koninklijk besluit op voordracht van Onze Minister ontslagen indien hij wordt benoemd als rechterlijk ambtenaar met rechtspraak belast, met rechtspraak belast lid van de Centrale Raad van Beroep of met rechtspraak belast lid van het College van Beroep voor het bedrijfsleven.
+2. Een lid van de Raad wordt bij koninklijk besluit op voordracht van Onze Minister ontslagen bij de aanvaarding van een ambt dat of een betrekking die volgens [artikel 84](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=1&artikel=84&z=2011-07-01&g=2011-07-01) onverenigbaar is met het lidmaatschap van de Raad. Een niet-rechterlijk lid van de Raad wordt tevens als lid van de Raad bij koninklijk besluit op voordracht van Onze Minister ontslagen indien hij wordt benoemd als rechterlijk ambtenaar met rechtspraak belast, met rechtspraak belast lid van de Centrale Raad van Beroep of met rechtspraak belast lid van het College van Beroep voor het bedrijfsleven.
 
 3. Een rechterlijk lid van de Raad wordt bij koninklijk besluit op voordracht van Onze Minister ontslagen onderscheidenlijk geschorst als lid van de Raad indien hij als rechterlijk ambtenaar met rechtspraak belast dan wel met rechtspraak belast lid van de Centrale Raad van Beroep of het College van Beroep voor het bedrijfsleven wordt ontslagen onderscheidenlijk geschorst, tenzij dat ontslag of die schorsing alleen een rechtsprekend ambt betreft dat hij niet op basis van een aanstelling als bedoeld in [artikel 5f, eerste lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5f) vervult.
 
@@ -1118,7 +1144,7 @@ Vervallen
 
 ##### Artikel 87
 
-1. De Raad kan alleen beslissingen nemen indien ten minste drie leden aanwezig zijn.
+1. Indien de Raad bestaat uit drie leden, kan hij alleen beslissingen nemen indien ten minste twee leden aanwezig zijn. Indien de Raad bestaat uit vier of vijf leden, kan hij alleen beslissingen nemen indien ten minste drie leden aanwezig zijn.
 
 2. De Raad beslist bij meerderheid van stemmen.
 
@@ -1180,7 +1206,7 @@ De Raad kan een of meer leden machtigen een of meer van zijn bevoegdheden uit te
 
 ##### Artikel 92
 
-1. De Raad kan ter uitvoering van de in [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=2&artikel=91&z=2011-01-01&g=2011-01-01) genoemde taken algemene aanwijzingen geven aan de besturen van de gerechten voorzover dit noodzakelijk is met het oog op een goede bedrijfsvoering van de gerechten.
+1. De Raad kan ter uitvoering van de in [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=2&artikel=91&z=2011-07-01&g=2011-07-01) genoemde taken algemene aanwijzingen geven aan de besturen van de gerechten voorzover dit noodzakelijk is met het oog op een goede bedrijfsvoering van de gerechten.
 
 2. Alvorens een aanwijzing te geven stelt de Raad het College van afgevaardigden in de gelegenheid zijn zienswijze kenbaar te maken. In de motivering van de aanwijzing geeft de Raad aan op welke wijze hij de zienswijze van het College in zijn beoordeling heeft betrokken.
 
@@ -1188,13 +1214,13 @@ De Raad kan een of meer leden machtigen een of meer van zijn bevoegdheden uit te
 
 ##### Artikel 93
 
-1. Onze Minister kan algemene aanwijzingen geven betreffende de uitvoering van de in [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=2&artikel=91&z=2011-01-01&g=2011-01-01) genoemde taken door de Raad voorzover dit noodzakelijk is met het oog op een goede bedrijfsvoering van de rechterlijke organisatie.
+1. Onze Minister kan algemene aanwijzingen geven betreffende de uitvoering van de in [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=2&artikel=91&z=2011-07-01&g=2011-07-01) genoemde taken door de Raad voorzover dit noodzakelijk is met het oog op een goede bedrijfsvoering van de rechterlijke organisatie.
 
 2. Alvorens een aanwijzing te geven als bedoeld in het eerste lid, stelt Onze Minister de Raad in de gelegenheid schriftelijk zijn zienswijze kenbaar te maken.
 
 3. Onze Minister deelt de Raad de voorgenomen aanwijzing en de motivering daarvan schriftelijk mede. Onze Minister kan de Raad voor het kenbaar maken van zijn zienswijze een termijn stellen. De zienswijze van de Raad wordt schriftelijk en gemotiveerd gegeven.
 
-4. Indien de zienswijze van de Raad luidt dat de aanwijzing in strijd zal zijn met [artikel 109](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=4&artikel=109&z=2011-01-01&g=2011-01-01), wordt de aanwijzing niet gegeven.
+4. Indien de zienswijze van de Raad luidt dat de aanwijzing in strijd zal zijn met [artikel 109](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=4&artikel=109&z=2011-07-01&g=2011-07-01), wordt de aanwijzing niet gegeven.
 
 5. De aanwijzing wordt gepubliceerd in de Staatscourant.
 
@@ -1212,7 +1238,7 @@ De Raad heeft tot taak ondersteuning te bieden aan activiteiten van de gerechten
 
 ##### Artikel 96
 
-1. Bij de uitvoering van de taken, bedoeld in de [artikelen 94](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=2&artikel=94&z=2011-01-01&g=2011-01-01) en [95](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=2&artikel=95&z=2011-01-01&g=2011-01-01), treedt de Raad niet in de procesrechtelijke behandeling van, de inhoudelijke beoordeling van alsmede de beslissing in een concrete zaak.
+1. Bij de uitvoering van de taken, bedoeld in de [artikelen 94](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=2&artikel=94&z=2011-07-01&g=2011-07-01) en [95](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=2&artikel=95&z=2011-07-01&g=2011-07-01), treedt de Raad niet in de procesrechtelijke behandeling van, de inhoudelijke beoordeling van alsmede de beslissing in een concrete zaak.
 
 2. Bij de uitvoering van de overige taken en bevoegdheden, toegedeeld bij of krachtens deze wet, is het eerste lid van overeenkomstige toepassing met dien verstande dat de Raad ook niet treedt in de procesrechtelijke behandeling van, de inhoudelijke beoordeling van alsmede de beslissing in categorieën van zaken.
 
@@ -1236,11 +1262,11 @@ De Raad heeft tot taak ondersteuning te bieden aan activiteiten van de gerechten
 
 3. De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is voorgelegd.
 
-4. In het verslag, bedoeld in [artikel 104, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=3&artikel=104&z=2011-01-01&g=2011-01-01), besteedt de Raad aandacht aan de wijze waarop de algemene maatregel van bestuur is toegepast. Daarbij geeft de Raad aan op welke wijze de toepassing van de regeling zich verhoudt tot de kwaliteit van de taakuitvoering door de gerechten en doet hij zo nodig voorstellen tot wijziging.
+4. In het verslag, bedoeld in [artikel 104, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=3&artikel=104&z=2011-07-01&g=2011-07-01), besteedt de Raad aandacht aan de wijze waarop de algemene maatregel van bestuur is toegepast. Daarbij geeft de Raad aan op welke wijze de toepassing van de regeling zich verhoudt tot de kwaliteit van de taakuitvoering door de gerechten en doet hij zo nodig voorstellen tot wijziging.
 
 ##### Artikel 98
 
-1. Met inachtneming van de regels, bedoeld in [artikel 97, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=3&artikel=97&z=2011-01-01&g=2011-01-01), stelt de Raad jaarlijks, voorafgaand aan het desbetreffende begrotingsjaar, een voorstel vast voor een begroting van de Raad en de gerechten gezamenlijk, met inbegrip van de aan het toe te kennen budget te verbinden voorschriften, alsmede een meerjarenraming voor ten minste vier op het begrotingsjaar volgende jaren.
+1. Met inachtneming van de regels, bedoeld in [artikel 97, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=3&artikel=97&z=2011-07-01&g=2011-07-01), stelt de Raad jaarlijks, voorafgaand aan het desbetreffende begrotingsjaar, een voorstel vast voor een begroting van de Raad en de gerechten gezamenlijk, met inbegrip van de aan het toe te kennen budget te verbinden voorschriften, alsmede een meerjarenraming voor ten minste vier op het begrotingsjaar volgende jaren.
 
 2. Alvorens de Raad het begrotingsvoorstel en de meerjarenraming vaststelt, voert de Raad overleg met de gerechten.
 
@@ -1256,15 +1282,15 @@ De Raad heeft tot taak ondersteuning te bieden aan activiteiten van de gerechten
 
 3. Indien het in het tweede lid bedoelde overleg niet tot overeenstemming leidt en Onze Minister overwegende bezwaren houdt, wordt het begrotingsvoorstel van de Raad of het desbetreffende onderdeel daarvan in gewijzigde vorm opgenomen in de ontwerp-begroting, bedoeld in [artikel 12, eerste lid, van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=12).
 
-4. In de toelichting op het voorstel van wet geeft Onze Minister aan welke voorschriften hij voornemens is aan het krachtens [artikel 100](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=3&artikel=100&z=2011-01-01&g=2011-01-01) toe te kennen budget te verbinden. Het eerste tot en met het derde lid zijn van overeenkomstige toepassing.
+4. In de toelichting op het voorstel van wet geeft Onze Minister aan welke voorschriften hij voornemens is aan het krachtens [artikel 100](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=3&artikel=100&z=2011-07-01&g=2011-07-01) toe te kennen budget te verbinden. Het eerste tot en met het derde lid zijn van overeenkomstige toepassing.
 
 ##### Artikel 100
 
-Met inachtneming van de regels, bedoeld in [artikel 97, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=3&artikel=97&z=2011-01-01&g=2011-01-01), kent Onze Minister jaarlijks aan de Raad een budget toe ten laste van de rijksbegroting ten behoeve van de activiteiten van de Raad en de gerechten gezamenlijk. Aan de toekenning kan Onze Minister voorschriften verbinden.
+Met inachtneming van de regels, bedoeld in [artikel 97, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=3&artikel=97&z=2011-07-01&g=2011-07-01), kent Onze Minister jaarlijks aan de Raad een budget toe ten laste van de rijksbegroting ten behoeve van de activiteiten van de Raad en de gerechten gezamenlijk. Aan de toekenning kan Onze Minister voorschriften verbinden.
 
 ##### Artikel 101
 
-Onze Minister deelt zo spoedig mogelijk na de aanhangigmaking van het voorstel van wet tot vaststelling van de begroting van het Ministerie van Justitie bij de Raad van State, aan de Raad mede welk budget, met inbegrip van de daaraan te verbinden voorschriften, voor het komende begrotingsjaar voorlopig kan worden verwacht. Hij deelt daarbij mede op welke wijze het geraamde budget is berekend.
+Onze Minister deelt zo spoedig mogelijk na de aanhangigmaking van het voorstel van wet tot vaststelling van de begroting van het Ministerie van Veiligheid en Justitie bij de Afdeling advisering van de Raad van State, aan de Raad mede welk budget, met inbegrip van de daaraan te verbinden voorschriften, voor het komende begrotingsjaar voorlopig kan worden verwacht. Hij deelt daarbij mede op welke wijze het geraamde budget is berekend.
 
 ##### Artikel 101a
 
@@ -1274,11 +1300,11 @@ Vervallen
 
 1. De Raad stelt jaarlijks een jaarplan vast voor de Raad en de gerechten gezamenlijk. Het plan omvat:
 
-- a. een omschrijving van de voorgenomen activiteiten ter uitvoering van de in [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=2&artikel=91&z=2011-01-01&g=2011-01-01) genoemde taken voor het jaar volgend op het jaar waarin het plan is vastgesteld;
+- a. een omschrijving van de voorgenomen activiteiten ter uitvoering van de in [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=2&artikel=91&z=2011-07-01&g=2011-07-01) genoemde taken voor het jaar volgend op het jaar waarin het plan is vastgesteld;
 
 - b. een begroting voor het komende begrotingsjaar.
 
-2. De Raad stelt de begroting vast in overeenstemming met het geraamde budget, bedoeld in [artikel 101](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=3&artikel=101&z=2011-01-01&g=2011-01-01).
+2. De Raad stelt de begroting vast in overeenstemming met het geraamde budget, bedoeld in [artikel 101](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=3&artikel=101&z=2011-07-01&g=2011-07-01).
 
 3. De Raad zendt het jaarplan voor een door Onze Minister te bepalen tijdstip aan Onze Minister. Onze Minister zendt het jaarplan onverwijld aan de beide kamers der Staten-Generaal.
 
@@ -1286,9 +1312,9 @@ Vervallen
 
 ##### Artikel 103
 
-1. Onze Minister maakt aan de Raad zo spoedig mogelijk na de vaststelling van de begroting van het Ministerie van Justitie bekend, welk budget hij toekent aan de Raad en de gerechten gezamenlijk. Indien het budget afwijkt van het geraamde budget, bedoeld in [artikel 101](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=3&artikel=101&z=2011-01-01&g=2011-01-01), is de tweede volzin van dat artikel van overeenkomstige toepassing.
+1. Onze Minister maakt aan de Raad zo spoedig mogelijk na de vaststelling van de begroting van het Ministerie van Veiligheid en Justitie bekend, welk budget hij toekent aan de Raad en de gerechten gezamenlijk. Indien het budget afwijkt van het geraamde budget, bedoeld in [artikel 101](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=3&artikel=101&z=2011-07-01&g=2011-07-01), is de tweede volzin van dat artikel van overeenkomstige toepassing.
 
-2. Indien het budget afwijkt van het geraamde budget, bedoeld in [artikel 101](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=3&artikel=101&z=2011-01-01&g=2011-01-01), wijzigt de Raad de begroting.
+2. Indien het budget afwijkt van het geraamde budget, bedoeld in [artikel 101](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=3&artikel=101&z=2011-07-01&g=2011-07-01), wijzigt de Raad de begroting.
 
 3. Beslissingen tot andere wijzigingen van de begroting kunnen tot uiterlijk het eind van het desbetreffende begrotingsjaar worden genomen.
 
@@ -1302,7 +1328,7 @@ Vervallen
 
 3. In de jaarrekening wordt rekening en verantwoording afgelegd van het financiële beheer van de Raad en de gerechten gezamenlijk over het voorafgaande begrotingsjaar.
 
-4. In het jaarverslag wordt vermeld op welke wijze de werkzaamheden ten behoeve waarvan het budget ten laste van de rijksbegroting is verleend, zijn uitgevoerd. Daarbij wordt aangegeven op welke wijze deze werkzaamheden zich verhouden tot het plan zoals dit overeenkomstig [artikel 102](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=3&artikel=102&z=2011-01-01&g=2011-01-01) voor het desbetreffende jaar is vastgesteld, de plannen, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=31&z=2011-01-01&g=2011-01-01), en de verslagen, bedoeld in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=35&z=2011-01-01&g=2011-01-01).
+4. In het jaarverslag wordt vermeld op welke wijze de werkzaamheden ten behoeve waarvan het budget ten laste van de rijksbegroting is verleend, zijn uitgevoerd. Daarbij wordt aangegeven op welke wijze deze werkzaamheden zich verhouden tot het plan zoals dit overeenkomstig [artikel 102](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=3&artikel=102&z=2011-07-01&g=2011-07-01) voor het desbetreffende jaar is vastgesteld, de plannen, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=31&z=2011-07-01&g=2011-07-01), en de verslagen, bedoeld in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=35&z=2011-07-01&g=2011-07-01).
 
 5. Het verslag omvat een verklaring omtrent de getrouwheid en de rechtmatigheid, afgegeven door een door de Raad aangewezen accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). De accountant voegt bij de verklaring een rapport naar aanleiding van de controle op het financiële beheer. Bij de aanwijzing van de accountant wordt bedongen dat aan Onze Minister op diens verzoek inzicht wordt geboden in de controle-rapporten van de accountant.
 
@@ -1318,9 +1344,9 @@ De Raad verstrekt desgevraagd aan Onze Minister de voor de uitoefening van zijn 
 
 ##### Artikel 106
 
-1. Een beslissing van de Raad ter uitvoering van de in [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=2&artikel=91&z=2011-01-01&g=2011-01-01) genoemde taken kan op voordracht van Onze Minister bij koninklijk besluit worden vernietigd indien de beslissing kennelijk in strijd is met het recht of het belang van een goede bedrijfsvoering van de rechterlijke organisatie. De [artikelen 10:36](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:36), [10:37](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:37), [10:38 tot en met 10:45 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:38) zijn van overeenkomstige toepassing.
+1. Een beslissing van de Raad ter uitvoering van de in [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=2&artikel=91&z=2011-07-01&g=2011-07-01) genoemde taken of een beslissing van de Raad als bedoeld in artikel 46a of [62a](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=Vierde&paragraaf=1&artikel=62a&z=2011-07-01&g=2011-07-01), kan op voordracht van Onze Minister bij koninklijk besluit worden vernietigd indien de beslissing kennelijk in strijd is met het recht of het belang van een goede bedrijfsvoering van de rechterlijke organisatie.
 
-2. [Artikel 8:4, onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:4) is van overeenkomstige toepassing.
+2. De [artikelen 8:4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:4), [10:36](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:36), [10:37](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:37) en [10:38 tot en met 10:45 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:38) zijn van overeenkomstige toepassing.
 
 ##### Artikel 107
 
@@ -1328,13 +1354,13 @@ De Raad verstrekt desgevraagd aan Onze Minister de voor de uitoefening van zijn 
 
 2. De schorsing of het ontslag geschiedt bij koninklijk besluit.
 
-3. Indien alle leden van de Raad zijn geschorst of ontslagen, kan Onze Minister bij de Raad een of meer tijdelijke bewindvoerders aanstellen. [Artikel 84, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=1&artikel=84&z=2011-01-01&g=2011-01-01), is van overeenkomstige toepassing. Bij de aanstelling wordt een termijn bepaald voor de bewindvoering.
+3. Indien alle leden van de Raad zijn geschorst of ontslagen, kan Onze Minister bij de Raad een of meer tijdelijke bewindvoerders aanstellen. [Artikel 84, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=1&artikel=84&z=2011-07-01&g=2011-07-01), is van overeenkomstige toepassing. Bij de aanstelling wordt een termijn bepaald voor de bewindvoering.
 
 ##### Artikel 108
 
-1. Tegen een besluit op grond van [artikel 107, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=4&artikel=107&z=2011-01-01&g=2011-01-01), kan een belanghebbende beroep instellen bij de Hoge Raad.
+1. Tegen een besluit op grond van [artikel 107, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=4&artikel=107&z=2011-07-01&g=2011-07-01), kan een belanghebbende beroep instellen bij de Hoge Raad.
 
-2. De Hoge Raad beoordeelt of de Kroon in redelijkheid tot het oordeel heeft kunnen komen dat sprake is van ongeschiktheid anders dan wegens ziekte, onderscheidenlijk een ernstig vermoeden voor het bestaan daarvan, alsmede of Onze Minister bij zijn voordracht in strijd met [artikel 109](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=4&artikel=109&z=2011-01-01&g=2011-01-01) heeft gehandeld.
+2. De Hoge Raad beoordeelt of de Kroon in redelijkheid tot het oordeel heeft kunnen komen dat sprake is van ongeschiktheid anders dan wegens ziekte, onderscheidenlijk een ernstig vermoeden voor het bestaan daarvan, alsmede of Onze Minister bij zijn voordracht in strijd met [artikel 109](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=4&artikel=109&z=2011-07-01&g=2011-07-01) heeft gehandeld.
 
 3. Op het beroep is [hoofdstuk 8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8), met uitzondering van [afdeling 8.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=8.1.1) en de [artikelen 8:10,](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:10)[8:11](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:11), [8:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:13) en [8:86](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:86), van overeenkomstige toepassing.
 
@@ -1362,7 +1388,7 @@ Vervallen
 
 - d. de instelling van vorderingen tot het door de Hoge Raad nemen van beslissingen als bedoeld in [hoofdstuk 6A van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A).
 
-3. In de gevallen waarin de Hoge Raad ten principale recht doet, neemt de procureur-generaal bij de Hoge Raad de taken en bevoegdheden van het openbaar ministerie, bedoeld in [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=4&afdeling=1&artikel=125&z=2011-01-01&g=2011-01-01), waar.
+3. In de gevallen waarin de Hoge Raad ten principale recht doet, neemt de procureur-generaal bij de Hoge Raad de taken en bevoegdheden van het openbaar ministerie, bedoeld in [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=4&afdeling=1&artikel=125&z=2011-07-01&g=2011-07-01), waar.
 
 4. Bij de wet kan de procureur-generaal bij de Hoge Raad ook met andere taken worden belast.
 
@@ -1376,7 +1402,7 @@ Vervallen
 
 1. Het parket bij de Hoge Raad bestaat uit een procureur-generaal, een plaatsvervangend procureur-generaal, ten hoogste tweeëntwintig advocaten-generaal en ten hoogste elf advocaten-generaal in buitengewone dienst.
 
-2. De advocaten-generaal in buitengewone dienst nemen, als advocaat-generaal, conclusies voorzover zij daartoe door de procureur-generaal worden opgeroepen. Zij nemen in zodanig geval, wanneer de Hoge Raad ten principale recht doet, de taken en bevoegdheden van het openbaar ministerie, bedoeld in [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=4&afdeling=1&artikel=125&z=2011-01-01&g=2011-01-01), waar.
+2. De advocaten-generaal in buitengewone dienst nemen, als advocaat-generaal, conclusies voorzover zij daartoe door de procureur-generaal worden opgeroepen. Zij nemen in zodanig geval, wanneer de Hoge Raad ten principale recht doet, de taken en bevoegdheden van het openbaar ministerie, bedoeld in [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=4&afdeling=1&artikel=125&z=2011-07-01&g=2011-07-01), waar.
 
 3. Voor de toepassing van het eerste lid worden de procureur-generaal, de plaatsvervangend procureur-generaal, en de advocaten-generaal bij de Hoge Raad aan wie buitengewoon verlof zonder behoud van bezoldiging is verleend, voor de duur van dat verlof en gedurende ten hoogste een jaar daarna buiten beschouwing gelaten.
 
@@ -1394,29 +1420,39 @@ Vervallen
 
 De procureur-generaal geeft leiding aan het parket bij de Hoge Raad.
 
-##### Artikel 59i
+##### Artikel 117
 
-Vervallen
+In geval van afwezigheid, belet of ontstentenis wordt de procureur-generaal vervangen door de plaatsvervangend procureur-generaal en, bij afwezigheid, belet of ontstentenis ook van deze, door de advocaat-generaal oudste in rang.
 
 ##### Artikel 118
 
-Onze Minister van Justitie kan de plaatsvervangend procureur-generaal of een advocaat-generaal belasten met de waarneming van het ambt van procureur-generaal.
+Onze Minister kan de plaatsvervangend procureur-generaal of een advocaat-generaal belasten met de waarneming van het ambt van procureur-generaal.
 
 ##### Artikel 119
 
-1. Onze Minister van Justitie kan, op aanbeveling van de procureur-generaal, als plaatsvervangend advocaat-generaal bij de Hoge Raad een rechterlijk ambtenaar, die bij een rechtbank, een gerechtshof of een tot het openbaar ministerie behorend parket werkzaam is in een ambt als bedoeld in [artikel 2, eerste tot en met derde lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=2), aanwijzen. De aanwijzing geschiedt voor een daarbij te bepalen termijn. De [artikelen 46c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46c), [46d, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46d), en [46e van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46e) zijn op de plaatsvervangend advocaat-generaal van overeenkomstige toepassing.
+1. Onze Minister kan, op aanbeveling van de procureur-generaal, als plaatsvervangend advocaat-generaal bij de Hoge Raad een rechterlijk ambtenaar, die bij een rechtbank, een gerechtshof of een tot het openbaar ministerie behorend parket werkzaam is in een ambt als bedoeld in [artikel 2, eerste tot en met derde lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=2), aanwijzen. De aanwijzing geschiedt voor een daarbij te bepalen termijn. De [artikelen 46c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46c), [46d, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46d), en [46e van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46e) zijn op de plaatsvervangend advocaat-generaal van overeenkomstige toepassing.
 
 2. Aanwijzing van een bij een rechtbank of een gerechtshof werkzame rechterlijk ambtenaar tot plaatsvervangend advocaat-generaal geschiedt slechts met diens toestemming.
 
-3. Plaatsvervangende advocaten-generaal nemen, op de voet van een advocaat-generaal, conclusies voor zover zij daartoe door de procureur-generaal worden opgeroepen. Zij nemen in zodanig geval, wanneer de Hoge Raad ten principale recht doet, de taken en bevoegdheden van het openbaar ministerie, bedoeld in [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=4&afdeling=1&artikel=125&z=2011-01-01&g=2011-01-01), waar.
+3. Plaatsvervangende advocaten-generaal nemen, op de voet van een advocaat-generaal, conclusies voor zover zij daartoe door de procureur-generaal worden opgeroepen. Zij nemen in zodanig geval, wanneer de Hoge Raad ten principale recht doet, de taken en bevoegdheden van het openbaar ministerie, bedoeld in [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=4&afdeling=1&artikel=125&z=2011-07-01&g=2011-07-01), waar.
 
 4. De president van de Hoge Raad kan, op aanbeveling van de procureur-generaal, een vice-president van, een raadsheer in of een raadsheer in buitengewone dienst bij de Hoge Raad, indien hij daarmee instemt, belasten met de waarneming van het ambt van advocaat-generaal bij de Hoge Raad.
 
 ##### Artikel 120
 
-1. De [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=12&z=2011-01-01&g=2011-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=13&z=2011-01-01&g=2011-01-01) en [74](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=5&artikel=74&z=2011-01-01&g=2011-01-01) zijn op de in [artikel 113](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=3&artikel=113&z=2011-01-01&g=2011-01-01) genoemde rechterlijke ambtenaren van overeenkomstige toepassing.
+1. De [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=12&z=2011-07-01&g=2011-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=13&z=2011-07-01&g=2011-07-01) en [74](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=5&artikel=74&z=2011-07-01&g=2011-07-01) zijn op de in [artikel 113](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=3&artikel=113&z=2011-07-01&g=2011-07-01) genoemde rechterlijke ambtenaren van overeenkomstige toepassing.
 
-2. Voor de uitvoering van de taken, bedoeld in [artikel 111, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=3&artikel=111&z=2011-01-01&g=2011-01-01), is [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=5&artikel=83&z=2011-01-01&g=2011-01-01) van overeenkomstige toepassing op de procureur-generaal bij de Hoge Raad.
+2. Voor de uitvoering van de taken, bedoeld in [artikel 111, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=3&artikel=111&z=2011-07-01&g=2011-07-01), is [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=5&artikel=83&z=2011-07-01&g=2011-07-01) van overeenkomstige toepassing op de procureur-generaal bij de Hoge Raad.
+
+3. De procureur-generaal bij de Hoge Raad stelt, gehoord de overige leden van het parket bij de Hoge Raad, een regeling vast voor de behandeling van klachten. [Artikel 26, vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=26&z=2011-07-01&g=2011-07-01), is van overeenkomstige toepassing.
+
+4. De [artikelen 13a tot en met 13g](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=13&z=2011-07-01&g=2011-07-01) zijn van overeenkomstige toepassing ten aanzien van de in [artikel 111](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=3&artikel=111&z=2011-07-01&g=2011-07-01) bedoelde rechterlijke ambtenaren, met dien verstande dat:
+
+- a. de in de [artikelen 13a tot en met 13g](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=13&z=2011-07-01&g=2011-07-01) aan de procureur-generaal toegekende bevoegdheden en verplichtingen worden uitgeoefend door de plaatsvervangend procureur-generaal, indien een gedraging van de procureur-generaal in het geding is;
+
+- b. voor de overeenkomstige toepasselijkheid van [artikel 13b, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1a&artikel=13b&z=2011-07-01&g=2011-07-01), onder «[artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=26&z=2011-07-01&g=2011-07-01) of [75](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=5&artikel=75&z=2011-07-01&g=2011-07-01)» wordt verstaan: [artikel 120, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=3&artikel=120&z=2011-07-01&g=2011-07-01),; en
+
+- c. een afschrift van de beschikking, bedoeld in [artikel 13f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1a&artikel=13f&z=2011-07-01&g=2011-07-01), wordt gezonden aan de verzoeker, aan de bij het parket bij de Hoge Raad werkzame rechterlijk ambtenaar op wiens gedraging het onderzoek betrekking had, en aan de procureur-generaal bij de Hoge Raad.
 
 ##### Artikel 121
 
@@ -1424,15 +1460,15 @@ De procureur-generaal bij de Hoge Raad waakt in het bijzonder voor de handhaving
 
 ##### Artikel 122
 
-1. Indien naar het oordeel van de procureur-generaal bij de Hoge Raad het openbaar ministerie bij de uitoefening van zijn taak de wettelijke voorschriften niet naar behoren handhaaft of uitvoert, kan hij Onze Minister van Justitie daarvan in kennis stellen.
+1. Indien naar het oordeel van de procureur-generaal bij de Hoge Raad het openbaar ministerie bij de uitoefening van zijn taak de wettelijke voorschriften niet naar behoren handhaaft of uitvoert, kan hij Onze Minister daarvan in kennis stellen.
 
 2. Op verzoek van de procureur-generaal worden hem vanwege het College van procureurs-generaal de inlichtingen verstrekt die hij nodig acht en worden hem de desbetreffende stukken overgelegd.
 
-##### Artikel 123
+##### Artikel 59i
 
-Het College van procureurs-generaal verleent de procureur-generaal bij de Hoge Raad de bijstand van het openbaar ministerie, die deze ter uitvoering van de aan hem opgedragen taken verlangt.
+Vervallen
 
-### Hoofdstuk 4. Het openbaar ministerie
+### Hoofdstuk 3. De procureur-generaal bij de Hoge Raad
 
 ### Afdeling 1. Taken en bevoegdheden
 
@@ -1446,7 +1482,7 @@ De taken en bevoegdheden van het openbaar ministerie worden, op de wijze bij of 
 
 - a. het College van procureurs-generaal; en
 
-- b. rechterlijke ambtenaren, bedoeld in [artikel 1, onderdeel b, onder 6° en 7°](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=1&artikel=1&z=2011-01-01&g=2011-01-01).
+- b. rechterlijke ambtenaren, bedoeld in [artikel 1, onderdeel b, onder 6° en 7°](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=1&artikel=1&z=2011-07-01&g=2011-07-01).
 
 ##### Artikel 126
 
@@ -1460,11 +1496,11 @@ De taken en bevoegdheden van het openbaar ministerie worden, op de wijze bij of 
 
 ##### Artikel 127
 
-Onze Minister van Justitie kan algemene en bijzondere aanwijzingen geven betreffende de uitoefening van de taken en bevoegdheden van het openbaar ministerie.
+Onze Minister kan algemene en bijzondere aanwijzingen geven betreffende de uitoefening van de taken en bevoegdheden van het openbaar ministerie.
 
 ##### Artikel 128
 
-1. Onze Minister van Justitie stelt het College van procureurs-generaal in de gelegenheid zijn zienswijze kenbaar te maken voordat hij in een concreet geval een aanwijzing geeft inzake de opsporing of vervolging van strafbare feiten.
+1. Onze Minister stelt het College van procureurs-generaal in de gelegenheid zijn zienswijze kenbaar te maken voordat hij in een concreet geval een aanwijzing geeft inzake de opsporing of vervolging van strafbare feiten.
 
 2. Onze Minister deelt het College de voorgenomen aanwijzing en de motivering daarvan schriftelijk mede. Onze Minister kan het College voor het kenbaar maken van zijn zienswijze een termijn stellen. De zienswijze van het College wordt schriftelijk en gemotiveerd gegeven.
 
@@ -1502,15 +1538,15 @@ Onze Minister van Justitie kan algemene en bijzondere aanwijzingen geven betreff
 
 3. Indien de stemmen staken, geeft de stem van de voorzitter de doorslag.
 
-4. Bij reglement stelt het College nadere regels met betrekking tot zijn werkwijze en besluitvorming. Het reglement en wijzigingen daarvan behoeven de goedkeuring van Onze Minister van Justitie. Het reglement of een wijziging daarvan wordt na de goedkeuring gepubliceerd in de Staatscourant.
+4. Bij reglement stelt het College nadere regels met betrekking tot zijn werkwijze en besluitvorming. Het reglement en wijzigingen daarvan behoeven de goedkeuring van Onze Minister. Het reglement of een wijziging daarvan wordt na de goedkeuring gepubliceerd in de Staatscourant.
 
-5. In het reglement wordt in ieder geval geregeld in welke gevallen de voorzitter een voorgenomen beslissing aan Onze Minister van Justitie voorlegt, daaronder zijn in ieder geval begrepen de beslissingen bedoeld in [artikel 140a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=140a).
+5. In het reglement wordt in ieder geval geregeld in welke gevallen de voorzitter een voorgenomen beslissing aan Onze Minister voorlegt, daaronder zijn in ieder geval begrepen de beslissingen bedoeld in [artikel 140a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=140a).
 
 ##### Artikel 132
 
 1. Het College van procureurs-generaal verdeelt de werkzaamheden onder de procureurs-generaal.
 
-2. Onze Minister van Justitie kan bepaalde werkzaamheden opdragen aan de voorzitter van het College.
+2. Onze Minister kan bepaalde werkzaamheden opdragen aan de voorzitter van het College.
 
 ##### Artikel 133
 
@@ -1666,15 +1702,15 @@ Vervallen
 
 ##### Artikel 142
 
-Onze Minister van Justitie kan een rechterlijk ambtenaar als bedoeld in [artikel 1, onderdeel b, onder 5° tot en met 7°](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=1&artikel=1&z=2011-01-01&g=2011-01-01), belasten met de waarneming van een ander ambt bij het openbaar ministerie.
+Onze Minister kan een rechterlijk ambtenaar als bedoeld in [artikel 1, onderdeel b, onder 5° tot en met 7°](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=1&artikel=1&z=2011-07-01&g=2011-07-01), belasten met de waarneming van een ander ambt bij het openbaar ministerie.
 
 ##### Artikel 143
 
-De rechterlijke ambtenaren, bedoeld in [artikel 142](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=4&afdeling=3&artikel=142&z=2011-01-01&g=2011-01-01), zijn verplicht tot het verstrekken van inlichtingen wanneer de procureur-generaal bij de Hoge Raad op grond van [artikel 122, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=3&artikel=122&z=2011-01-01&g=2011-01-01), daarom vraagt.
+De rechterlijke ambtenaren, bedoeld in [artikel 142](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=4&afdeling=3&artikel=142&z=2011-07-01&g=2011-07-01), zijn verplicht tot het verstrekken van inlichtingen wanneer de procureur-generaal bij de Hoge Raad op grond van [artikel 122, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=3&artikel=122&z=2011-07-01&g=2011-07-01), daarom vraagt.
 
 ##### Artikel 144
 
-[Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=13&z=2011-01-01&g=2011-01-01) is op de in [artikel 142](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=4&afdeling=3&artikel=142&z=2011-01-01&g=2011-01-01) bedoelde rechterlijke ambtenaren van overeenkomstige toepassing.
+[Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=13&z=2011-07-01&g=2011-07-01) is op de in [artikel 142](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=4&afdeling=3&artikel=142&z=2011-07-01&g=2011-07-01) bedoelde rechterlijke ambtenaren van overeenkomstige toepassing.
 
 ### Hoofdstuk 5. Rechterlijke ambtenaren in opleiding
 
@@ -1733,7 +1769,7 @@ Lasten en bevelen dat deze in het **staatsblad** zal worden geplaatst, en dat al
 
 ##### Artikel 35a
 
-1. In afwijking van [artikel 32, eerste lid, van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=32), verricht het bestuur namens de Staat privaatrechtelijke rechtshandelingen voorzover die voortvloeien uit het door hem beheerde deel van de begroting van het Ministerie van Justitie, tenzij bij of krachtens de wet is bepaald dat een andere minister dan Onze Minister de rechtshandeling verricht.
+1. In afwijking van [artikel 32, eerste lid, van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=32), verricht het bestuur namens de Staat privaatrechtelijke rechtshandelingen voorzover die voortvloeien uit het door hem beheerde deel van de begroting van het Ministerie van Veiligheid en Justitie, tenzij bij of krachtens de wet is bepaald dat een andere minister dan Onze Minister de rechtshandeling verricht.
 
 2. De [artikelen 32, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=32), en [39 van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=39) zijn van overeenkomstige toepassing.
 
@@ -1765,7 +1801,7 @@ Lasten en bevelen dat deze in het **staatsblad** zal worden geplaatst, en dat al
 
 ##### Artikel 104a
 
-1. In afwijking van [artikel 32, eerste lid, van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=32), verricht de Raad namens de Staat privaatrechtelijke rechtshandelingen voorzover die voortvloeien uit het door hem beheerde deel van de begroting van het Ministerie van Justitie, tenzij bij of krachtens de wet is bepaald dat een andere minister dan Onze Minister de rechtshandeling verricht.
+1. In afwijking van [artikel 32, eerste lid, van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=32), verricht de Raad namens de Staat privaatrechtelijke rechtshandelingen voorzover die voortvloeien uit het door hem beheerde deel van de begroting van het Ministerie van Veiligheid en Justitie, tenzij bij of krachtens de wet is bepaald dat een andere minister dan Onze Minister de rechtshandeling verricht.
 
 2. De [artikelen 32, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=32), en [39 van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=39) zijn van overeenkomstige toepassing.
 
@@ -1883,7 +1919,7 @@ Lasten en bevelen dat deze in het **staatsblad** zal worden geplaatst, en dat al
 
 ##### Artikel 48a
 
-1. De deskundige leden van de pachtkamers van de rechtbanken, bedoeld in [artikel 48, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=48&z=2011-01-01&g=2011-01-01), van deze wet en hun plaatsvervangers worden benoemd bij koninklijk besluit op voordracht van Onze Minister van Justitie, gehoord Gedeputeerde Staten. Zij worden genoemd lid, onderscheidenlijk plaatsvervangend lid van de pachtkamer.
+1. De deskundige leden van de pachtkamers van de rechtbanken, bedoeld in [artikel 48, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=48&z=2011-07-01&g=2011-07-01), van deze wet en hun plaatsvervangers worden benoemd bij koninklijk besluit op voordracht van Onze Minister, gehoord Gedeputeerde Staten. Zij worden genoemd lid, onderscheidenlijk plaatsvervangend lid van de pachtkamer.
 
 2. Om te kunnen worden benoemd tot lid of plaatsvervangend lid van een pachtkamer moet men Nederlander zijn.
 
@@ -1891,7 +1927,7 @@ Lasten en bevelen dat deze in het **staatsblad** zal worden geplaatst, en dat al
 
 4. Bij de benoeming van de deskundige leden en van de plaatsvervangende leden dragen Wij zorg, dat in de pachtkamer noch het belang der pachters, noch het belang van de verpachters overheerst.
 
-5. De deskundige leden leggen alvorens zij met hun werkzaamheden aanvangen de eed of belofte af volgens het formulier zoals dat is vastgesteld in de [tweede bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&bijlage=2&z=2011-01-01&g=2011-01-01) bij deze wet. Bij algemene maatregel van bestuur worden regels gesteld over hun beëdiging.
+5. De deskundige leden leggen alvorens zij met hun werkzaamheden aanvangen de eed of belofte af volgens het formulier zoals dat is vastgesteld in de [tweede bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&bijlage=2&z=2011-07-01&g=2011-07-01) bij deze wet. Bij algemene maatregel van bestuur worden regels gesteld over hun beëdiging.
 
 6. Met ingang van de eerste dag van de maand volgende op die waarin een deskundig lid of een plaatsvervangend lid van de pachtkamer de leeftijd van zeventig jaren heeft bereikt, wordt aan hem bij koninklijk besluit ontslag verleend.
 
@@ -1901,7 +1937,7 @@ Lasten en bevelen dat deze in het **staatsblad** zal worden geplaatst, en dat al
 
 2. Zij genieten vergoeding voor hun reis- en verblijfkosten en verdere vergoeding volgens bij algemene maatregel van bestuur vast te stellen regels.
 
-3. Bij algemene maatregel van bestuur worden voorschriften gegeven ter uitvoering van dit artikel en van [artikel 48a](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=48a&z=2011-01-01&g=2011-01-01).
+3. Bij algemene maatregel van bestuur worden voorschriften gegeven ter uitvoering van dit artikel en van [artikel 48a](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=48a&z=2011-07-01&g=2011-07-01).
 
 #### Paragraaf 3. Vorming en bezetting van kamers
 
@@ -1913,9 +1949,9 @@ Lasten en bevelen dat deze in het **staatsblad** zal worden geplaatst, en dat al
 
 ##### Artikel 69a
 
-1. De deskundige leden van de pachtkamer van het gerechtshof en hun plaatsvervangers worden benoemd bij koninklijk besluit op voordracht van Onze Minister van Justitie. Zij worden genoemd raad, onderscheidenlijk plaatsvervangende raad in de pachtkamer van het gerechtshof.
+1. De deskundige leden van de pachtkamer van het gerechtshof en hun plaatsvervangers worden benoemd bij koninklijk besluit op voordracht van Onze Minister. Zij worden genoemd raad, onderscheidenlijk plaatsvervangende raad in de pachtkamer van het gerechtshof.
 
-2. Het bepaalde in de [artikelen 48a, tweede, derde, vierde, vijfde lid en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=48a&z=2011-01-01&g=2011-01-01), en [48b](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=48b&z=2011-01-01&g=2011-01-01) is mede op deze leden en hun plaatsvervangers van toepassing.
+2. Het bepaalde in de [artikelen 48a, tweede, derde, vierde, vijfde lid en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=48a&z=2011-07-01&g=2011-07-01), en [48b](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=48b&z=2011-07-01&g=2011-07-01) is mede op deze leden en hun plaatsvervangers van toepassing.
 
 ### Afdeling 5. De Hoge Raad
 
@@ -1999,9 +2035,9 @@ Lasten en bevelen dat deze in het **staatsblad** zal worden geplaatst, en dat al
 
 ##### Artikel 125a
 
-1. Indien bij of krachtens een wet een bevoegdheid wordt toegekend aan de officier van justitie, kan deze bevoegdheid worden uitgeoefend door de rechterlijke ambtenaren, bedoeld in [artikel 1, onderdeel b, onder 7°](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=1&artikel=1&z=2011-01-01&g=2011-01-01), van de wet, tenzij de regeling waarop de bevoegdheid steunt of de aard van de bevoegdheid zich daartegen verzet.
+1. Indien bij of krachtens een wet een bevoegdheid wordt toegekend aan de officier van justitie, kan deze bevoegdheid worden uitgeoefend door de rechterlijke ambtenaren, bedoeld in [artikel 1, onderdeel b, onder 7°](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=1&artikel=1&z=2011-07-01&g=2011-07-01), van de wet, tenzij de regeling waarop de bevoegdheid steunt of de aard van de bevoegdheid zich daartegen verzet.
 
-2. Indien bij of krachtens een wet een bevoegdheid wordt toegekend aan de advocaat-generaal, kan deze bevoegdheid worden uitgeoefend door de rechterlijke ambtenaren, bedoeld in [artikel 1, onderdeel b, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=1&artikel=1&z=2011-01-01&g=2011-01-01), tenzij de regeling waarop de bevoegdheid steunt of de aard van de bevoegdheid zich daartegen verzet.
+2. Indien bij of krachtens een wet een bevoegdheid wordt toegekend aan de advocaat-generaal, kan deze bevoegdheid worden uitgeoefend door de rechterlijke ambtenaren, bedoeld in [artikel 1, onderdeel b, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=1&artikel=1&z=2011-07-01&g=2011-07-01), tenzij de regeling waarop de bevoegdheid steunt of de aard van de bevoegdheid zich daartegen verzet.
 
 ### Afdeling 2. Inrichting
 
@@ -2010,6 +2046,173 @@ Lasten en bevelen dat deze in het **staatsblad** zal worden geplaatst, en dat al
 ### Hoofdstuk 5. Rechterlijke ambtenaren in opleiding
 
 ### Hoofdstuk 6. Overgangs- en slotbepalingen
+
+## Bijlage 2
+
+Formulier voor het afleggen van de eed of belofte door een deskundig lid
+
+Ik zweer/beloof dat ik trouw zal zijn aan de Koning, en dat ik de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) en alle overige wetten zal onderhouden en nakomen.
+
+Ik zweer/verklaar dat ik middellijk noch onmiddellijk, onder welke naam of voorwendsel ook, tot het verkrijgen van een benoeming aan iemand iets heb gegeven of beloofd, noch zal geven of beloven.
+
+Ik zweer/verklaar dat ik nimmer enige giften of geschenken hoegenaamd zal aannemen of ontvangen van enig persoon van wie ik weet of vermoed dat hij een rechtsgeding heeft of zal krijgen waarbij ik als deskundig lid betrokken zou kunnen zijn.
+
+Ik zweer/beloof dat ik gegevens waarover ik als deskundig lid de beschikking krijg en waarvan ik het vertrouwelijke karakter ken of redelijkerwijs moet vermoeden, behoudens voor zover enig wettelijk voorschrift mij tot mededeling verplicht of uit mijn werkzaamheden als deskundig lid de noodzaak tot mededeling voortvloeit, geheim zal houden.
+
+Ik zweer/beloof dat ik mijn werkzaamheden als deskundig lid met eerlijkheid, nauwgezetheid en onzijdigheid, zonder aanzien van personen, zal verrichten en mij in deze verrichtingen zal gedragen zoals een goed deskundig lid betaamt.
+
+Zo waarlijk helpe mij God Almachtig!/Dat verklaar en beloof ik!
+
+Op ........................, werd te .....................
+
+ten overstaan van (1) ..............................
+
+door (2) .............................
+
+de bovenvermelde eed/belofte afgelegd.
+
+(1) .............................
+
+(2) .............................
+
+Lasten en bevelen dat deze in het **staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, kollegien en ambtenaren, aan de naauwkeurige uitvoering de hand zullen houden.
+
+### Afdeling 1a. Klachtbehandeling door de Hoge Raad
+
+##### Artikel 13c
+
+Onverminderd [artikel 13a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1a&artikel=13a&z=2011-07-01&g=2011-07-01), kan de procureur-generaal ook ambtshalve bij de Hoge Raad een vordering instellen tot het doen van een onderzoek naar de wijze waarop een rechterlijk ambtenaar met rechtspraak belast zich in de uitoefening van zijn functie heeft gedragen. [Artikel 13b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1a&artikel=13b&z=2011-07-01&g=2011-07-01), is van overeenkomstige toepassing.
+
+##### Artikel 13d
+
+Een vordering bij de Hoge Raad als bedoeld in [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1a&artikel=13a&z=2011-07-01&g=2011-07-01) of [13c](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1a&artikel=13c&z=2011-07-01&g=2011-07-01) wordt behandeld door een bij het reglement van orde daartoe aangewezen kamer, die zitting houdt met drie leden.
+
+##### Artikel 13e
+
+1. De Hoge Raad kan het betrokken gerechtsbestuur, degene op wiens gedraging het onderzoek betrekking heeft, de verzoeker en anderen verzoeken hem schriftelijk of mondeling inlichtingen te verstrekken.
+
+2. Het onderzoek geschiedt in raadkamer. De Hoge Raad kan, hetzij ambtshalve hetzij op verzoek van de procureur-generaal, het betrokken gerechtsbestuur, degene op wiens gedraging het onderzoek betrekking heeft of de verzoeker, getuigen horen.
+
+3. De Hoge Raad stelt het betrokken gerechtsbestuur en degene op wiens gedraging het onderzoek betrekking heeft, in de gelegenheid omtrent een aanhangige vordering zijn zienswijze schriftelijk of mondeling te doen blijken.
+
+##### Artikel 13f
+
+1. De Hoge Raad beoordeelt of degene op wiens gedraging het onderzoek betrekking heeft, zich in de onderzochte aangelegenheid al dan niet behoorlijk heeft gedragen. De Hoge Raad kan tevens beoordelen of het betrokken gerechtsbestuur zich al dan niet behoorlijk heeft gedragen.
+
+2. De Hoge Raad neemt een schriftelijke en met redenen omklede beslissing.
+
+3. Een afschrift van de beslissing wordt gezonden aan de verzoeker, aan de rechterlijk ambtenaar op wiens gedraging het onderzoek betrekking had, en aan het betrokken gerechtsbestuur dan wel, indien het onderzoek betrekking had op een gedraging van een bij de Hoge Raad werkzame rechterlijk ambtenaar met rechtspraak belast, de president van de Hoge Raad.
+
+##### Artikel 13g
+
+1. De procureur-generaal bij en de president van de Hoge Raad stellen jaarlijks een verslag op van de overeenkomstig de [artikelen 13a tot en met 13f](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1a&artikel=13a&z=2011-07-01&g=2011-07-01) verrichte werkzaamheden.
+
+2. De procureur-generaal draagt er zorg voor dat het verslag openbaar wordt gemaakt en algemeen verkrijgbaar wordt gesteld. [Artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) is van overeenkomstige toepassing.
+
+### Afdeling 2. De organisatie van de gerechten
+
+#### Paragraaf 1. Inrichting
+
+#### Paragraaf 2. Taken en bevoegdheden
+
+##### Artikel 26
+
+1. Het bestuur stelt een regeling vast voor de behandeling van klachten.
+
+2. De regeling of een wijziging daarvan behoeft de instemming van de Raad. De [artikelen 10:28 tot en met 10:31 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:28) zijn van overeenkomstige toepassing.
+
+3. De instemming kan slechts worden onthouden wegens strijd met het recht of het belang van een goede bedrijfsvoering van het gerecht.
+
+4. Klachten zijn niet mogelijk ten aanzien van gedragingen waartegen ingevolge een wettelijk geregelde voorziening een procedure bij een rechterlijke instantie openstaat of heeft opengestaan, dan wel beroep openstaat of heeft opengestaan tegen een uitspraak die in een zodanige procedure is gedaan. Klachten kunnen evenmin een rechterlijke beslissing betreffen.
+
+5. De regeling wordt gepubliceerd in de Staatscourant.
+
+6. [Afdeling 9.1.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=9.1.2) is van overeenkomstige toepassing.
+
+7. Ten aanzien van de bij het gerecht werkzame gerechtsambtenaren, buitengriffiers, gerechtsauditeurs en rechterlijke ambtenaren in opleiding zijn [titel 9.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=9.2) alsmede [artikel 1a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=1a), en [hoofdstuk III van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=III) van overeenkomstige toepassing, met dien verstande dat voor de overeenkomstige toepassing hiervan als bestuursorgaan wordt aangemerkt het bestuur van het gerecht waar de betrokken gerechtsambtenaar, buitengriffier, gerechtsauditeur of rechterlijk ambtenaar in opleiding werkzaam is.
+
+#### Paragraaf 3. Planning en bekostiging
+
+### Afdeling 3. De rechtbanken
+
+#### Paragraaf 1. Algemene bepalingen
+
+#### Paragraaf 2. De sector kanton
+
+#### Paragraaf 3. Vorming en bezetting van kamers
+
+### afdeling Vierde. De gerechtshoven
+
+#### Paragraaf 1. Algemene bepalingen
+
+##### Artikel 62a
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 62b
+
+Indien een voortdurend gebrek aan voldoende zittingscapaciteit daartoe noodzaakt, kan bij algemene maatregel van bestuur voor de duur van ten hoogste twee jaar een ander dan het overeenkomstig [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=Vierde&paragraaf=1&artikel=60&z=2011-07-01&g=2011-07-01) bevoegde gerechtshof worden aangewezen als het bevoegde gerechtshof voor zaken die behoren tot een bij die maatregel aangewezen categorie.
+
+#### Paragraaf 2. Vorming en bezetting van kamers
+
+### Afdeling 5. De Hoge Raad
+
+### AFDELING 6. RAAD VOOR DE RECHTSPRAAK
+
+#### Paragraaf 1. Inrichting
+
+#### Paragraaf 2. Taken en bevoegdheden
+
+##### Artikel 96a
+
+De Raad stelt een regeling vast voor de behandeling van klachten. [Artikel 26, vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=26&z=2011-07-01&g=2011-07-01), is van overeenkomstige toepassing.
+
+#### Paragraaf 3. Planning en bekostiging
+
+#### Paragraaf 4. Toezicht
+
+##### Artikel 123
+
+Het College van procureurs-generaal verleent de procureur-generaal bij de Hoge Raad de bijstand van het openbaar ministerie, die deze ter uitvoering van de aan hem opgedragen taken verlangt.
+
+### Hoofdstuk 4. Het openbaar ministerie
+
+### Afdeling 1. Taken en bevoegdheden
+
+### Afdeling 2. Inrichting
+
+##### Artikel 139a
+
+Dit onderdeel is nog niet inwerking getreden
+
+### Afdeling 3. Overige bepalingen
+
+### Hoofdstuk 5. Rechterlijke ambtenaren in opleiding
+
+### Hoofdstuk 6. Overgangs- en slotbepalingen
+
+## Bijlage. als bedoeld in [artikel 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=3&paragraaf=1&artikel=41&z=2011-07-01&g=2011-07-01)
+
+De nevenvestigingsplaatsen van de rechtbanken zijn:
+
+| rechtbank Alkmaar: | Hoorn |
+| --- | --- |
+| rechtbank Almelo: | Enschede |
+| rechtbank Amsterdam: | Hilversum |
+| rechtbank Arnhem: | Tiel, Nijmegen |
+| rechtbank Assen: | Emmen |
+| rechtbank Breda: | Tilburg, Bergen op Zoom |
+| rechtbank 's-Gravenhage: | Delft, Leiden, Gouda, Alphen aan den Rijn |
+| rechtbank Haarlem: | Haarlemmermeer, Zaanstad |
+| rechtbank 's-Hertogenbosch: | Eindhoven, Helmond, Boxmeer |
+| rechtbank Leeuwarden: | Heerenveen |
+| rechtbank Maastricht: | Heerlen, Sittard-Geleen |
+| rechtbank Middelburg: | Terneuzen |
+| rechtbank Roermond: | Venlo |
+| rechtbank Rotterdam: | Brielle |
+| rechtbank Utrecht: | Amersfoort |
+| rechtbank Zutphen: | Apeldoorn |
+| rechtbank Zwolle-Lelystad: | Deventer, Lelystad |
 
 ## Bijlage 2
 
