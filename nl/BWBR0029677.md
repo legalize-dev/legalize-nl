@@ -4,7 +4,7 @@ identifier: "BWBR0029677"
 country: "nl"
 rank: "amvb"
 publication_date: "2011-07-01"
-last_updated: "2011-04-01"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029677"
 soort: "AMvB"
@@ -48,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit detectie radioactief besmet schroot.
 
 ##### Artikel II
 
@@ -56,32 +56,38 @@ Wijzigt het Besluit kerninstallaties, splijtstoffen en ertsen.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit stralingsbescherming.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Vrijstellingsbesluit defensie Kernenergiewet.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=26), voor zover dit betrekking heeft op de verplichtingen, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=30), en artikel 30, eerste lid, van het Besluit kerninstallaties, splijtstoffen en ertsen zijn niet van toepassing op inrichtingen die voor 1 januari 2007 in veilige insluiting zijn gebracht.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+In afwijking van [artikel 44a, tweede lid, aanhef en onder a, van het Besluit kerninstallaties, splijtstoffen en ertsen](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=44a) geldt voor aanvragen om goedkeuring voor de wijze waarop financiële zekerheid wordt gesteld als bedoeld in [artikel 15f, eerste lid, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15f) die voor het in [artikel IX, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029677&artikel=IX&z=2011-07-01&g=2011-07-01), bedoelde tijdstip worden ingediend, dat bij het overzicht van de verschillende kostenposten voor de buitengebruikstelling en de ontmanteling kan worden uitgegaan van een ontwerp van een ontmantelingsplan als bedoeld in [artikel 1, eerste lid, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=1) of van andere gegevens of bescheiden die vergelijkbare informatie bevatten omtrent de buitengebruikstelling en de ontmanteling van de betrokken inrichting.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+1. Voor zover aan een vergunning op grond van de [Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402) voor een inrichting als bedoeld in [artikel 15, onder b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) voorschriften zijn verbonden over:
+
+- a. het stellen van financiële zekerheid voor de kosten die voortvloeien uit het buiten gebruik stellen en het ontmantelen van die inrichting, of
+
+- b. het buiten gebruik stellen en het ontmantelen van die inrichting, vervallen die voorschriften.
+
+2. Het eerste lid is, voor zover het betreft de onder b bedoelde voorschriften, niet van toepassing op inrichtingen als bedoeld in [artikel 15, onder b, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) waarin kernenergie kon worden vrijgemaakt, die voor 1 januari 2007 in veilige insluiting zijn gebracht.
 
 ##### Artikel IX
 
-1. Dit besluit, met uitzondering van [artikel II, onderdeel L](https://wetten.overheid.nl/jci1.3:c:BWBR0029677&artikel=II&z=2011-04-01&g=2011-04-01), treedt in werking met ingang van 1 juli 2011.
+1. Dit besluit, met uitzondering van [artikel II, onderdeel L](https://wetten.overheid.nl/jci1.3:c:BWBR0029677&artikel=II&z=2011-07-01&g=2011-07-01), treedt in werking met ingang van 1 juli 2011.
 
-2. [Artikel II, onderdeel L](https://wetten.overheid.nl/jci1.3:c:BWBR0029677&artikel=II&z=2011-04-01&g=2011-04-01), treedt in werking met ingang van 1 april 2011.
+2. [Artikel II, onderdeel L](https://wetten.overheid.nl/jci1.3:c:BWBR0029677&artikel=II&z=2011-07-01&g=2011-07-01), treedt in werking met ingang van 1 april 2011.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
