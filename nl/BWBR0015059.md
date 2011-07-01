@@ -4,7 +4,7 @@ identifier: "BWBR0015059"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-01-01"
-last_updated: "2009-01-01"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015059"
 soort: "ministeriele-regeling"
@@ -41,11 +41,13 @@ Gelet op de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&artike
 
 Besluit:
 
+Werkt terug tot en met het tijdstip waarop het Koninklijk Besluit van 28 april 2003, Stb. 2003, 179, tot wijziging van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken, in verband met een nieuwe verdeelsystematiek van de kosten van de waardering in werking treedt.
+
 ### Hoofdstuk 1. Algemeen
 
 ##### Artikel 1. Reikwijdte
 
-Deze regeling geeft uitvoering aan [artikel 37g van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=37g) en [artikel 2 van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&artikel=2).
+Deze regeling geeft uitvoering aan [artikel 37g van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=37g), [artikel 26 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26) en [artikel 2 van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&artikel=2).
 
 ##### Artikel 2. Definities
 
@@ -71,7 +73,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Betaling aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties door de individuele waterschappen
 
-De individuele waterschappen betalen aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties uiterlijk op 1 april van het kalenderjaar het op de voet van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015059&hoofdstuk=2&artikel=3&z=2009-01-01&g=2009-01-01) door hem vastgestelde individuele aandeel van het waterschap in de kosten van de waardering, bedoeld in [artikel 2, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&artikel=2).
+De individuele waterschappen betalen aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties uiterlijk op 1 april van het kalenderjaar het op de voet van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015059&hoofdstuk=2&artikel=3&z=2011-07-01&g=2011-07-01) door hem vastgestelde individuele aandeel van het waterschap in de kosten van de waardering, bedoeld in [artikel 2, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&artikel=2).
 
 ### Hoofdstuk 3. Vergoeding van bepaalde kosten.
 
@@ -79,9 +81,9 @@ De individuele waterschappen betalen aan de Minister van Binnenlandse Zaken en K
 
 Uit het gemeentefonds wordt een bedrag van € 1 000 000 afgezonderd en ter beschikking gesteld aan de Vereniging van Nederlandse Gemeenten ter vergoeding van kosten die samenhangen met verbeteringen op het gebied van kwaliteit en kostenbeheersing bij de uitvoering van de wet.
 
-##### Artikel 6. Betaling
+##### Artikel 6. Datum verzenden begroting
 
-Vervallen
+De Waarderingskamer zendt jaarlijks voor 1 december de begroting voor het daaropvolgende kalenderjaar aan de Minister van Financiën.
 
 ### Hoofdstuk 4. Basisregistratie waarde onroerende zaken.
 
@@ -98,6 +100,14 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 Deze regeling wordt aangehaald als: Uitvoeringsregeling kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### Hoofdstuk 5. Slotbepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### Hoofdstuk 3a. Waarderingskamer
+
+### Hoofdstuk 4. Basisregistratie waarde onroerende zaken.
 
 ### Hoofdstuk 5. Slotbepalingen
 
