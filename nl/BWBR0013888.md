@@ -4,7 +4,7 @@ identifier: "BWBR0013888"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-02-06"
-last_updated: "2002-10-11"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013888"
 soort: "AMvB"
@@ -72,27 +72,23 @@ Ten aanzien van toestellen, die in gebruik zijn dan wel bestemd zijn voor gebrui
 
 ##### Artikel 5
 
-De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013888&artikel=2&z=2002-10-11&g=2002-10-11), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013888&artikel=3&z=2002-10-11&g=2002-10-11) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013888&artikel=4&z=2002-10-11&g=2002-10-11) zijn van overeenkomstige toepassing op splijtstoffen, ertsen, inrichtingen, uitrustingen, radioactieve stoffen en toestellen die blijkens een verklaring van Onze Minister of van een door hem aangewezen autoriteit in beheer zijn bij een krijgsmacht.
+De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013888&artikel=2&z=2011-07-01&g=2011-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013888&artikel=3&z=2011-07-01&g=2011-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013888&artikel=4&z=2011-07-01&g=2011-07-01) zijn van overeenkomstige toepassing op splijtstoffen, ertsen, inrichtingen, uitrustingen, radioactieve stoffen en toestellen die blijkens een verklaring van Onze Minister of van een door hem aangewezen autoriteit in beheer zijn bij een krijgsmacht.
 
 ##### Artikel 6
 
-In de gevallen, waarin [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013888&artikel=2&z=2002-10-11&g=2002-10-11), 3, 4 of 5 van toepassing is, treft Onze Minister zodanige maatregelen dat de bescherming van de bij en krachtens [artikel 15b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15b) aangewezen belangen, voor zover redelijkerwijs mogelijk, is verzekerd.
+In de gevallen, waarin [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013888&artikel=2&z=2011-07-01&g=2011-07-01), 3, 4 of 5 van toepassing is, treft Onze Minister zodanige maatregelen dat de bescherming van de bij en krachtens [artikel 15b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15b) aangewezen belangen, voor zover redelijkerwijs mogelijk, is verzekerd.
 
 ##### Artikel 7
 
-In de gevallen, waarin [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013888&artikel=2&z=2002-10-11&g=2002-10-11), 3, 4 of 5 van toepassing is, houdt Onze Minister een administratie bij omtrent de betrokken splijtstoffen, ertsen, inrichtingen, uitrustingen, radioactieve stoffen of toestellen.
+In de gevallen, waarin [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013888&artikel=2&z=2011-07-01&g=2011-07-01), 3, 4 of 5 van toepassing is, houdt Onze Minister een administratie bij omtrent de betrokken splijtstoffen, ertsen, inrichtingen, uitrustingen, radioactieve stoffen of toestellen.
 
 ##### Artikel 8
 
-In de gevallen, waarin [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013888&artikel=2&z=2002-10-11&g=2002-10-11), 3, 4 of 5 van toepassing is, pleegt Onze Minister voordat de desbetreffende handelingen of werkzaamheden worden verricht, onder de nodige waarborgen inzake geheimhouding ter zake overleg met Onze Ministers van Sociale Zaken en Werkgelegenheid, van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Volksgezondheid, Welzijn en Sport, indien:
-
-- a. niet-militaire personen aan de handelingen of werkzaamheden deelnemen of dergelijke personen geregeld moeten vertoeven ter plaatse, waar die handelingen of werkzaamheden worden verricht;
-
-- b. splijtstoffen of radioactieve stoffen zich bij normaal bedrijf in de biosfeer kunnen verspreiden.
+Vervallen
 
 ##### Artikel 9
 
-Van zoekraken, diefstal of ongewilde verspreiding van splijtstoffen, ertsen, radioactieve stoffen of toestellen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013888&artikel=2&z=2002-10-11&g=2002-10-11), 3, 4 of 5 doet Onze Minister onmiddellijk mededeling aan Onze Ministers van Sociale Zaken en Werkgelegenheid, van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Volksgezondheid, Welzijn en Sport.
+Van zoekraken, diefstal of ongewilde verspreiding van splijtstoffen, ertsen, radioactieve stoffen of toestellen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013888&artikel=2&z=2011-07-01&g=2011-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013888&artikel=3&z=2011-07-01&g=2011-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013888&artikel=4&z=2011-07-01&g=2011-07-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0013888&artikel=5&z=2011-07-01&g=2011-07-01) doet Onze Minister onmiddellijk mededeling aan Onze Minister van Economische Zaken, Landbouw en Innovatie.
 
 ##### Artikel 10
 
