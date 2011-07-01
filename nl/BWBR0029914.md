@@ -4,7 +4,7 @@ identifier: "BWBR0029914"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-07-01"
-last_updated: "2011-05-01"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029914"
 soort: "ministeriele-regeling"
@@ -56,11 +56,7 @@ Wijzigt de Uitvoeringsregeling Douane- en Accijnswet BES.
 
 ##### Artikel IV
 
-1. Een functionaris die op grond van de [Uitvoeringsregeling Belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506), zoals deze luidt na inwerkingtreding van deze regeling, is aangewezen als directeur, inspecteur of ontvanger of een ambtenaar die op grond van de Uitvoeringsregeling Belastingdienst 2003, zoals deze luidt na inwerkingtreding van deze regeling, is aangewezen om het bestuur van ’s Rijks belastingen uit te oefenen, treedt in de plaats van de functionaris onderscheidenlijk ambtenaar die als zodanig vóór inwerkingtreding van deze regeling was aangewezen of aangewezen zou zijn geweest zonder inwerkingtreding van deze regeling.
-
-2. Beslissingen die zijn of worden genomen door de directeur, inspecteur of ontvanger of door het bestuur van ’s Rijks belastingen die onderscheidenlijk dat als zodanig vóór inwerkingtreding van deze regeling bevoegd was dan wel bevoegd geweest zou zijn zonder inwerkingtreding van deze regeling, worden geacht te zijn genomen door de directeur, inspecteur onderscheidenlijk ontvanger onderscheidenlijk door het bestuur van ’s Rijks belastingen die onderscheidenlijk dat als zodanig op grond van de [Uitvoeringsregeling Belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506), zoals deze luidt na inwerkingtreding van deze regeling, bevoegd is.
-
-3. Het bepaalde in het eerste en het tweede lid is van overeenkomstige toepassing met betrekking tot de [Algemene douaneregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024291) en de [Uitvoeringsregeling Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029309).
+Vervallen
 
 ##### Artikel V
 
