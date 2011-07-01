@@ -4,7 +4,7 @@ identifier: "BWBR0019262"
 country: "nl"
 rank: "kb"
 publication_date: "2024-01-01"
-last_updated: "2008-06-01"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019262"
 soort: "KB"
@@ -48,15 +48,15 @@ Onze Minister van Justitie is belast met de taken en de uitoefening van de daaru
 
 ##### Artikel 2
 
-1. Onze Minister van Justitie stelt Onze Minister-President en Onze Minister wie het aangaat onverwijld in kennis van zijn voornemen [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019262&artikel=1&z=2008-06-01&g=2008-06-01) toe te passen.
+1. Onze Minister van Justitie stelt Onze Minister-President en Onze Minister wie het aangaat onverwijld in kennis van zijn voornemen [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019262&artikel=1&z=2011-07-01&g=2011-07-01) toe te passen.
 
 2. Indien de beschikbare tijd waarbinnen de maatregelen genomen moeten worden toepassing van het eerste lid niet toelaat, stelt Onze Minister van Justitie, onverwijld nadat hij de maatregelen heeft genomen, Onze Minister-President en Onze Minister wie het aangaat daarvan in kennis.
 
-3. Zodra de omstandigheden dit toelaten, beëindigt Onze Minister van Justitie de toepassing van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019262&artikel=1&z=2008-06-01&g=2008-06-01) en stelt hij Onze Minister-President en Onze Minister wie het aangaat daarvan onverwijld in kennis.
+3. Zodra de omstandigheden dit toelaten, beëindigt Onze Minister van Justitie de toepassing van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019262&artikel=1&z=2011-07-01&g=2011-07-01) en stelt hij Onze Minister-President en Onze Minister wie het aangaat daarvan onverwijld in kennis.
 
 ##### Artikel 3
 
-In voorkomende gevallen oefent Onze Minister van Justitie bevoegdheden op grond van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019262&artikel=1&z=2008-06-01&g=2008-06-01) uit in overeenstemming met de beslissingen van de ministerraad of de ministeriële commissie Doorzettingsmacht Terrorismebestrijding.
+In voorkomende gevallen oefent Onze Minister van Justitie bevoegdheden op grond van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019262&artikel=1&z=2011-07-01&g=2011-07-01) uit in overeenstemming met de beslissingen van de ministerraad of de ministeriële commissie Doorzettingsmacht Terrorismebestrijding.
 
 ##### Artikel 4
 
@@ -102,7 +102,7 @@ Onze Minister-President, Minister van Algemene Zaken, Onze Minister van Justitie
 
 Wijzigt dit besluit.
 
-## Bijlage. , bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019262&artikel=1&z=2008-06-01&g=2008-06-01) van het Besluit, houdende tijdelijke herindeling van ministeriële taken in geval van een terroristische dreiging met een urgent karakter
+## Bijlage. , bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019262&artikel=1&z=2011-07-01&g=2011-07-01) van het Besluit, houdende tijdelijke herindeling van ministeriële taken in geval van een terroristische dreiging met een urgent karakter
 
 - 1. [Artikel 9, eerste lid, van de Brandweerwet 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0003764&artikel=9).
 
@@ -122,9 +122,9 @@ Wijzigt dit besluit.
 
 - 9. De [artikelen 21, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=21), [32l, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=32l), en [32m van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=32m).
 
-- 10. [Artikel 4, negende lid, van de Waterleidingwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002246&artikel=4).
+- 10. [Artikel 23 van de Drinkwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=23).
 
-- 11. De artikelen 74, tweede lid, 75 en 76 van de Waterstaatwet 1900.
+- 11. De [artikelen 74, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&artikel=74), [75](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&artikel=75) en [76 van de Waterstaatwet 1900](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&artikel=76).
 
 - 12. [Artikel 18 van de Wet geneeskundige hulpverlening bij ongevallen en rampen](https://wetten.overheid.nl/jci1.3:c:BWBR0005276&artikel=18).
 
