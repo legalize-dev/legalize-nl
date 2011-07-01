@@ -4,7 +4,7 @@ identifier: "BWBR0009385"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "1998-07-01"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009385"
 soort: "wet"
@@ -53,7 +53,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. programma: een samenhangend geheel van projecten, experimenten, onderzoek en ontwikkeling op het gebied van gezondheid, preventie en zorg, gericht op praktijkvraagstukken;
 
-- c. organisatie: de organisatie genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&paragraaf=2&artikel=2&z=1998-07-01&g=1998-07-01).
+- c. organisatie: de organisatie genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&paragraaf=2&artikel=2&z=2011-07-01&g=2011-07-01).
 
 #### § 2. Instelling en taken van de organisatie
 
@@ -62,6 +62,8 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 1. Er is een organisatie ZorgOnderzoek Nederland (ZON).
 
 2. De organisatie bezit rechtspersoonlijkheid en is gevestigd in een door Onze Minister te bepalen plaats.
+
+3. De [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) is op de organisatie van toepassing.
 
 ##### Artikel 3
 
@@ -73,29 +75,25 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. De organisatie voert haar taak uit in afstemming met de Nederlandse organisatie voor wetenschappelijk onderzoek, alsmede andere organisaties die activiteiten als bedoeld in het eerste lid organiseren, financieren of uitvoeren.
 
-5. De organisatie richt geen rechtspersonen op, sluit geen leningen en verwerft en vervreemdt geen onroerende zaken zonder voorafgaande toestemming van Onze Minister.
-
 #### § 3. Samenstelling, bevoegdheden en werkwijze bestuur
 
 ##### Artikel 4
 
 1. Het bestuur van de organisatie bestaat uit ten hoogste negen leden waaronder de voorzitter.
 
-2. Onze Minister benoemt, schorst en ontslaat de voorzitter en de overige leden van het bestuur. Benoeming vindt plaats op persoonlijke titel.
+2. Benoeming van de leden van het bestuur vindt plaats op persoonlijke titel.
 
 3. Het bestuur wordt samengesteld uit deskundigen op het werkterrein van de organisatie. Bij de samenstelling van het bestuur wordt gestreefd naar evenredige deelneming van vrouwen en personen van etnische en culturele minderheidsgroepen aan het bestuur.
 
-4. De voorzitter en de secretaris, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&paragraaf=3&artikel=6&z=1998-07-01&g=1998-07-01), voeren de besluiten van het bestuur uit en vertegenwoordigen de organisatie gezamenlijk in en buiten rechte.
+4. De voorzitter en de secretaris, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&paragraaf=3&artikel=6&z=2011-07-01&g=2011-07-01), voeren de besluiten van het bestuur uit en vertegenwoordigen de organisatie gezamenlijk in en buiten rechte.
 
 5. De benoeming geschiedt voor een periode van vier jaren. De leden zijn eenmaal aansluitend herbenoembaar.
 
-6. Het lidmaatschap eindigt tussentijds door overlijden, ontslag op eigen verzoek of ontslag om zwaarwichtige redenen door Onze Minister. Aan het ontslag om zwaarwichtige redenen kan een schorsing door Onze Minister voorafgaan.
-
-7. Indien een tussentijdse vacature ontstaat, vindt een benoeming in die vacature plaats voor de resterende duur van de zittingsperiode.
+6. Indien een tussentijdse vacature ontstaat, vindt een benoeming in die vacature plaats voor de resterende duur van de zittingsperiode.
 
 ##### Artikel 5
 
-De voorzitter en de overige leden van het bestuur van de organisatie ontvangen voor hun werkzaamheden een vergoeding volgens een door Onze Minister vast te stellen regeling.
+Vervallen
 
 ##### Artikel 6
 
@@ -117,19 +115,15 @@ De voorzitter en de overige leden van het bestuur van de organisatie ontvangen v
 
 - c. de taken en bevoegdheden van de directeur.
 
-3. Het bestuursreglement behoeft de goedkeuring van Onze Minister.
-
 ##### Artikel 8
 
-1. De rechtspositie van het personeel van de organisatie is in overeenstemming met de regels die gelden voor ambtenaren die zijn aangesteld bij ministeries, met dien verstande dat waar in deze regels een bevoegdheid is toegekend aan een andere minister dan Onze Minister van Binnenlandse Zaken, deze bevoegdheid wordt uitgeoefend door het bestuur van de organisatie.
-
-2. Bij algemene maatregel van bestuur kan worden afgeweken van de in het eerste lid bedoelde regels.
+Vervallen
 
 #### § 4. De programma's, de jaarplannen en de bekostiging
 
 ##### Artikel 9
 
-1. Onze Minister wijst aandachtsgebieden aan waarvoor een programma zal worden vastgesteld. Daarbij kan hij beleidsregels vaststellen met betrekking tot het doel, de inhoud en de omvang van het programma.
+1. Onze Minister wijst aandachtsgebieden aan waarvoor een programma zal worden vastgesteld.
 
 2. Het bestuur van de organisatie stelt, op basis van de gegeven aanwijzing en vastgestelde regels, een programma vast na goedkeuring door de Minister.
 
@@ -145,7 +139,7 @@ De voorzitter en de overige leden van het bestuur van de organisatie ontvangen v
 
 ##### Artikel 10
 
-Vóór 1 november van elk boekjaar stelt het bestuur van de organisatie, met inachtneming van het in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&paragraaf=5&artikel=12&z=1998-07-01&g=1998-07-01), bedoelde maximale budget, in een jaarplan vast welke activiteiten in het daaropvolgende boekjaar ter verwezenlijking van de programma’s zullen worden uitgevoerd. Het jaarplan wordt tegelijk met de begroting, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&paragraaf=5&artikel=12&z=1998-07-01&g=1998-07-01), aan Onze Minister toegezonden.
+Vóór 1 november van elk boekjaar stelt het bestuur van de organisatie, met inachtneming van het in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&paragraaf=5&artikel=12&z=2011-07-01&g=2011-07-01), bedoelde maximale budget, in een jaarplan vast welke activiteiten in het daaropvolgende boekjaar ter verwezenlijking van de programma’s zullen worden uitgevoerd. Het jaarplan wordt tegelijk met de begroting, bedoeld in [artikel 26 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26), aan Onze Minister toegezonden.
 
 ##### Artikel 11
 
@@ -157,7 +151,7 @@ Vóór 1 november van elk boekjaar stelt het bestuur van de organisatie, met ina
 
 - b. de wijze van het verlenen van opdrachten, de daarbij te volgen procedures en de te stellen voorwaarden.
 
-3. De in het tweede lid bedoelde regels behoeven de goedkeuring van Onze Minister. Onze Minister kan tevens aanwijzingen ter zake geven.
+3. De in het tweede lid bedoelde regels behoeven de goedkeuring van Onze Minister.
 
 #### § 5. Financiële bepalingen
 
@@ -167,9 +161,7 @@ Vóór 1 november van elk boekjaar stelt het bestuur van de organisatie, met ina
 
 2. Onze Minister stelt vóór 1 oktober voorafgaande aan het boekjaar het maximaal aan de organisatie ter beschikking te stellen budget vast.
 
-3. Het bestuur van de organisatie stelt voor 1 november voorafgaande aan het boekjaar op basis van het jaarplan een begroting vast voor het volgende boekjaar. In de begroting is een meerjarenraming opgenomen.
-
-4. De begroting behoeft de goedkeuring van Onze Minister. Onze Minister beslist ter zake vóór 31 december.
+3. Onverminderd [artikel 27 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=27), is in de begroting een meerjarenraming opgenomen.
 
 ##### Artikel 13
 
@@ -181,43 +173,35 @@ Het bedrag van de goedgekeurde begroting van de organisatie komt ten laste van:
 
 ##### Artikel 14
 
-1. Het bestuur van de organisatie brengt jaarlijks aan Onze Minister voor 1 mei een financieel verslag uit, dat vergezeld gaat van een verklaring omtrent de getrouwheid en de rechtmatigheid afgegeven door een accountant als bedoeld in [artikel 393 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
-
-2. Ten aanzien van het gevoerde financiële beheer beoordeelt de accountant of de in het financieel verslag opgenomen posten tot stand zijn gekomen in overeenstemming met het bij of krachtens deze wet en andere wettelijke regelingen bepaalde en of ook overigens is zorggedragen voor een ordelijk en controleerbaar financieel beheer.
-
-3. Het financieel verslag gaat tevens vergezeld van een rapport, waarin de accountant zijn bevindingen en zijn oordeel omtrent het financieel beheer heeft vastgelegd.
-
-4. Het bestuur stelt de in dit artikel genoemde stukken algemeen verkrijgbaar.
+Het bestuur stelt het jaarverslag en de jaarrekening, bedoeld in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18) en [34 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), algemeen verkrijgbaar.
 
 ##### Artikel 15
 
-Overschotten over enig boekjaar van de organisatie worden opgenomen in een algemene reserve.
+Vervallen
 
 ##### Artikel 16
 
-Bij ministeriële regeling kunnen regels gesteld worden met betrekking tot het financieel beheer, de inrichting van de begroting en het financieel verslag, de omvang en aanwending van de algemene reserve, en de accountantscontrole.
+1. Bij ministeriële regeling kunnen regels gesteld worden met betrekking tot het financieel beheer, de inrichting van de begroting en het financieel verslag, de omvang en aanwending van de egalisatiereserve, en de accountantscontrole.
+
+2. Onverminderd [artikel 35, vierde lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=35) doet de accountant tevens verslag van zijn bevindingen over de vraag of het beheer en de wijze waarop de organisatie is georganiseerd voldoen aan de eisen van rechtmatigheid, ordelijkheid en controleerbaarheid.
 
 ##### Artikel 17
 
-1. Het bestuur van de organisatie stelt jaarlijks voor 1 mei een verslag op van de werkzaamheden van de organisatie, het gevoerde beleid in het algemeen en de doelmatigheid en de doeltreffendheid van zijn werkzaamheden en werkwijze in het bijzonder in het afgelopen kalenderjaar. Het verslag wordt aan Onze Minister gezonden en algemeen verkrijgbaar gesteld.
-
-2. Na afronding van een programma brengt het bestuur een verslag uit van de resultaten van het programma, en zendt dit toe aan Onze Minister.
+Na afronding van een programma brengt het bestuur een verslag uit van de resultaten van het programma, en zendt dit toe aan Onze Minister.
 
 ##### Artikel 18
 
-1. Het bestuur van de organisatie verstrekt desgevraagd aan Onze Minister de voor de uitoefening van zijn taak benodigde inlichtingen.
-
-2. Onze Minister kan inzage verlangen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
+Vervallen
 
 ##### Artikel 19
 
-1. Onze Minister zendt binnen vijf jaar na inwerkingtreding van deze wet en vervolgens telkens na vier jaar aan de Staten-Generaal een verslag over de doeltreffendheid en doelmatigheid van het functioneren van de organisatie.
+Vervallen
 
 #### § 7. Overgangs- en slotbepalingen
 
 ##### Artikel 20
 
-In afwijking van [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&paragraaf=3&artikel=4&z=1998-07-01&g=1998-07-01), worden voor de eerste maal de helft van het aantal leden van het bestuur benoemd voor twee jaar en de overige leden, waaronder de voorzitter, voor vier jaar.
+In afwijking van [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&paragraaf=3&artikel=4&z=2011-07-01&g=2011-07-01), worden voor de eerste maal de helft van het aantal leden van het bestuur benoemd voor twee jaar en de overige leden, waaronder de voorzitter, voor vier jaar.
 
 ##### Artikel 21
 
