@@ -4,7 +4,7 @@ identifier: "BWBR0030020"
 country: "nl"
 rank: "wet"
 publication_date: "2012-01-01"
-last_updated: "2009-11-01"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030020"
 soort: "wet"
@@ -49,23 +49,23 @@ Wijzigt de Wet op het financieel toezicht.
 
 ##### Artikel II. Wijziging van de [Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet toezicht accountantsorganisaties.
 
 ##### Artikel III. Wijziging van het Burgerlijk Wetboek
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Burgerlijk Wetboek Boek 2.
 
 ##### Artikel IV. Wijziging van de [Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Faillissementswet.
 
 ##### Artikel V. Wijziging van de [Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de economische delicten.
 
 ##### Artikel VI. Wijziging van de [Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet handhaving consumentenbescherming.
 
 ##### Artikel VII. Wijziging van de [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282)
 
@@ -73,7 +73,7 @@ Wijzigt de Wet ter voorkoming van witwassen en financieren van terrorisme.
 
 ##### Artikel VIII. Wijziging van de [Wet toezicht trustkantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0016189)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet toezicht trustkantoren.
 
 ##### Artikel VIIIa
 
@@ -97,26 +97,26 @@ Wijzigt de Wijzigingswet Wet op het financieel toezicht, enz. (implementatie Ric
 
 ##### Artikel VIIIc
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt deze wet.
 
 ##### Artikel VIIId
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet introductie premiepensioeninstellingen.
 
 ##### Artikel VIIIe
 
-Dit onderdeel is nog niet inwerking getreden
+[Vervallen]
 
 ##### Artikel VIIIf
 
-Dit onderdeel is nog niet inwerking getreden
+De Stichting Autoriteit Financiële Markten trekt de door haar op grond van [artikel 2:65, derde lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:65) voor het aanbieden van rechten van deelneming in instellingen voor collectieve belegging in effecten en [artikel 2:80, tweede lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:80) voor het bemiddelen in verzekeringen verleende ontheffingen in. [Artikel 1:104, derde lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:104) is van overeenkomstige toepassing.
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, waarbij terugwerkende kracht kan worden verleend tot en met een daarbij te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Wijzigingswet financiële markten 2010.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
