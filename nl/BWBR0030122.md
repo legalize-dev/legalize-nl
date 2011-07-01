@@ -4,7 +4,7 @@ identifier: "BWBR0030122"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-01-01"
-last_updated: "2011-05-01"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030122"
 soort: "ministeriele-regeling"
@@ -60,31 +60,31 @@ Wijzigt de Uitvoeringsregeling werknemersspaarregelingen en winstdelingsregeling
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling accijns.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Regeling vrijstelling overdrachtsbelasting stedelijke herstructurering.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Regeling vrijstelling overdrachtsbelasting voor investeringen in stedelijke herstructurering.
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene douaneregeling.
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling Douane- en Accijnswet BES.
 
 ##### Artikel XI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
 
 ##### Artikel XII
 
@@ -96,7 +96,7 @@ Wijzigt de Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen.
 
 ##### Artikel XIV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.
 
 ##### Artikel XV
 
@@ -120,10 +120,28 @@ Wijzigt de Wijzigingsregeling Uitvoeringsregeling Belastingdienst 2003, enz. (in
 
 ##### Artikel XX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling Belastingwet BES.
 
 ##### Artikel XXI
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze regeling treedt in werking met ingang van 1 juli 2011, met dien verstande dat:
+
+- a. [artikel XII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=XII&z=2011-07-01&g=2011-07-01), terugwerkt tot en met 1 januari 2003;
+
+- b. [artikel XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=XIII&z=2011-07-01&g=2011-07-01) terugwerkt tot en met 1 juli 2009;
+
+- c. [artikel XII, onderdelen B en E](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=XII&z=2011-07-01&g=2011-07-01), terugwerkt tot en met 1 november 2009;
+
+- d. [artikel XII, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=XII&z=2011-07-01&g=2011-07-01), terugwerkt tot en met 1 januari 2010;
+
+- e. [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=II&z=2011-07-01&g=2011-07-01) terugwerkt tot en met 1 december 2010;
+
+- f. de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=I&z=2011-07-01&g=2011-07-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=III&z=2011-07-01&g=2011-07-01), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=IV&z=2011-07-01&g=2011-07-01), [XV, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=XV&z=2011-07-01&g=2011-07-01), [XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=XVI&z=2011-07-01&g=2011-07-01), [XVII, onderdelen A, onder 7, en F, onder 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=XVII&z=2011-07-01&g=2011-07-01), terugwerken tot en met 1 januari 2011;
+
+- g. [artikel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=XVIII&z=2011-07-01&g=2011-07-01) terugwerkt tot en met 3 maart 2011;
+
+- h. de [artikelen XVII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=XVII&z=2011-07-01&g=2011-07-01), en [XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=XIX&z=2011-07-01&g=2011-07-01), terugwerken tot en met 1 mei 2011.
+
+2. In afwijking van het eerste lid treedt [artikel XI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=XI&z=2011-07-01&g=2011-07-01), in werking met ingang van 1 januari 2012.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
