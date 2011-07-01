@@ -4,7 +4,7 @@ identifier: "BWBR0007778"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2010-06-09"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007778"
 soort: "ministeriele-regeling"
@@ -65,7 +65,9 @@ De regels die de Autoriteit Financiële Markten krachtens het besluit heeft gest
 
 ##### Artikel 7
 
-De Autoriteit Financiële Markten wordt aangewezen als de bevoegde autoriteit, bedoeld in artikel 22, eerste lid, van de verordening ratingbureaus.
+1. De Autoriteit Financiële Markten wordt aangewezen als de bevoegde autoriteit, bedoeld in artikel 22, eerste lid, van de verordening ratingbureaus.
+
+2. Deze regeling berust mede op [artikel 5:89, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:89).
 
 ##### Artikel 8
 
