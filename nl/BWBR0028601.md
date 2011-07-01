@@ -4,7 +4,7 @@ identifier: "BWBR0028601"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2012-05-23"
-last_updated: "2010-10-10"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028601"
 soort: "ministeriele-regeling-BES"
@@ -86,7 +86,7 @@ Een op grond van de Landsverordening toezicht bank- en kredietwezen 1994, de Lan
 
 ##### Artikel 3. (overgangsrecht trustkantoren)
 
-1. Onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028601&paragraaf=2&artikel=2&z=2010-10-10&g=2010-10-10) worden voor de toepassing van [artikel 6, eerste lid, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=6) van de personen vermeld op een bijlage bij een op grond van de Landsverordening toezicht trustwezen verleende vergunning slechts de personen geacht te zijn vermeld die ten tijde van de inwerkingtreding van deze regeling in of vanuit de openbare lichamen beheersdiensten als bedoeld in die landsverordening verleenden.
+1. Onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028601&paragraaf=2&artikel=2&z=2011-07-01&g=2011-07-01) worden voor de toepassing van [artikel 6, eerste lid, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=6) van de personen vermeld op een bijlage bij een op grond van de Landsverordening toezicht trustwezen verleende vergunning slechts de personen geacht te zijn vermeld die ten tijde van de inwerkingtreding van deze regeling in of vanuit de openbare lichamen beheersdiensten als bedoeld in die landsverordening verleenden.
 
 2. Personen die zijn vermeld op een bijlage bij een op grond van de Landsverordening toezicht trustwezen verleende vergunning die niet op grond van [artikel 6, eerste lid, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=6) wordt gelijkgesteld met een op grond van de [Wet toezicht trustwezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028368) verleende vergunning, en die ten tijde van de inwerkingtreding van deze regeling in of vanuit de openbare lichamen beheersdiensten als bedoeld in die landsverordening verleenden, zijn tot 1 juli 2011 vrijgesteld van de eisen die de Wet toezicht trustwezen BES stelt aan het verlenen van beheersdiensten als bedoeld in die wet.
 
@@ -120,7 +120,7 @@ Een op grond van de Landsverordening toezicht bank- en kredietwezen 1994, de Lan
 
 - a. [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028547&artikel=6) juncto [artikel 4, eerste lid, onderdelen a tot en met c en f tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0028547&artikel=4);
 
-- b. [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0028547&hoofdstuk=IV), met uitzondering van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028547&artikel=12) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028547&artikel=16);
+- b. [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0028547&hoofdstuk=IV), met uitzondering van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028547&artikel=12), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028547&artikel=16) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0028547&artikel=17);
 
 - c. [hoofdstuk V, paragrafen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028547&paragraaf=3) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028547&paragraaf=4), met uitzondering van de [artikelen 25 tot en met 26a](https://wetten.overheid.nl/jci1.3:c:BWBR0028547&artikel=25).
 
@@ -142,7 +142,7 @@ Een op grond van de Landsverordening toezicht bank- en kredietwezen 1994, de Lan
 
 - b. het vereiste op grond van [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028495&artikel=23), dat de vertegenwoordiger zijn woonplaats onderscheidenlijk zijn zetel in een openbaar lichaam heeft;
 
-- c. [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0028495&hoofdstuk=III), met uitzondering van de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0028495&artikel=32) en [37 tot en met 40](https://wetten.overheid.nl/jci1.3:c:BWBR0028495&artikel=37).
+- c. [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0028495&hoofdstuk=III), met uitzondering van de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028495&artikel=28), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0028495&artikel=31), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0028495&artikel=32), [37 tot en met 40](https://wetten.overheid.nl/jci1.3:c:BWBR0028495&artikel=37) en [44](https://wetten.overheid.nl/jci1.3:c:BWBR0028495&artikel=44).
 
 2. De vrijstelling, bedoeld in het eerste lid, geldt uitsluitend, indien:
 
@@ -158,7 +158,7 @@ Een op grond van de Landsverordening toezicht bank- en kredietwezen 1994, de Lan
 
 ##### Artikel 9
 
-De Nederlandsche Bank kan nadere regels stellen ten aanzien van het bepaalde in de [artikelen 7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028601&paragraaf=3&artikel=7&z=2010-10-10&g=2010-10-10), en [8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028601&paragraaf=3&artikel=8&z=2010-10-10&g=2010-10-10).
+De Nederlandsche Bank kan nadere regels stellen ten aanzien van het bepaalde in de [artikelen 7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028601&paragraaf=3&artikel=7&z=2011-07-01&g=2011-07-01), en [8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028601&paragraaf=3&artikel=8&z=2011-07-01&g=2011-07-01).
 
 ##### Artikel 10
 
