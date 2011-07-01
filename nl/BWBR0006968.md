@@ -4,7 +4,7 @@ identifier: "BWBR0006968"
 country: "nl"
 rank: "wet"
 publication_date: "2011-07-01"
-last_updated: "2001-09-01"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006968"
 soort: "wet"
@@ -72,9 +72,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 3
 
-1. Van het besluit tot zetelverplaatsing en van de besluiten bedoeld in [artikel 2, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006968&artikel=2&z=2001-09-01&g=2001-09-01), wordt op straffe van nietigheid een in Nederland te verlijden notariële akte opgemaakt, dan wel worden de vormen in acht genomen die voor wijziging van de statuten zijn vereist in het land waarheen de zetel wordt overgebracht. De akte wordt verleden in de Nederlandse taal of in de officiële taal van het land waarnaar de zetel wordt overgebracht.
+1. Van het besluit tot zetelverplaatsing en van de besluiten bedoeld in [artikel 2, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006968&artikel=2&z=2011-07-01&g=2011-07-01), wordt op straffe van nietigheid een in Nederland te verlijden notariële akte opgemaakt, dan wel worden de vormen in acht genomen die voor wijziging van de statuten zijn vereist in het land waarheen de zetel wordt overgebracht. De akte wordt verleden in de Nederlandse taal of in de officiële taal van het land waarnaar de zetel wordt overgebracht.
 
-2. Onverminderd het bepaalde in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006968&artikel=1&z=2001-09-01&g=2001-09-01), is de zetel verplaatst en zijn de besluiten in werking getreden met ingang van de dag waarop de akte is verleden onderscheidenlijk de vormen in acht zijn genomen, tenzij daarvoor een later tijdstip is bepaald. Is de inwerkingtreding afhankelijk van de vervulling van een voorwaarde, dan geschiedt zij met ingang van de dag waarop de voorwaarde is vervuld.
+2. Onverminderd het bepaalde in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006968&artikel=1&z=2011-07-01&g=2011-07-01), is de zetel verplaatst en zijn de besluiten in werking getreden met ingang van de dag waarop de akte is verleden onderscheidenlijk de vormen in acht zijn genomen, tenzij daarvoor een later tijdstip is bepaald. Is de inwerkingtreding afhankelijk van de vervulling van een voorwaarde, dan geschiedt zij met ingang van de dag waarop de voorwaarde is vervuld.
 
 3. De notaris ten overstaan van wie de akte is verleden, zendt onverwijld een afschrift van de akte aan Onze Minister van Justitie. Indien de zetelverplaatsing geschiedt met inachtneming van de vormen voor wijziging van statuten, vereist in het land waarnaar de zetel wordt overgebracht, doet het bestuur dan wel de persoon die tot het nemen van het besluit tot zetelverplaatsing bevoegd is mededeling van de zetelverplaatsing aan Onze Minister van Justitie.
 
@@ -114,17 +114,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - b. de statuten van de rechtspersoon niet in overeenstemming zijn met de wettelijke bepalingen.
 
-6. Indien de rechtsvorm van de rechtspersoon de rechtsvorm van naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid zal zijn, wordt de goedkeuring voorts geweigerd op grond dat, gelet op de antecedenten van de personen die het beleid van de vennootschap zullen bepalen of medebepalen, gevaar bestaat dat de vennootschap zal worden gebruikt voor ongeoorloofde doeleinden of dat haar werkzaamheid zal leiden tot benadeling van haar schuldeisers.
+6. De zetelverplaatsing brengt mee dat de rechtspersoon voortbestaat als rechtspersoon naar Nederlands recht.
 
-7. De zetelverplaatsing brengt mee dat de rechtspersoon voortbestaat als rechtspersoon naar Nederlands recht.
-
-8. De rechtspersoon doet na de zetelverplaatsing onverwijld de nodige opgaven ter inschrijving in het handelsregister. Bij de opgave wordt een authentiek afschrift van de akte bedoeld in het derde lid overgelegd. Zolang de opgave ter inschrijving niet is geschied, zijn de bestuurders naast de rechtspersoon hoofdelijk aansprakelijk voor elke tijdens hun bestuur verrichte rechtshandeling waardoor de rechtspersoon verbonden wordt sedert de dag van de ministeriële goedkeuring, dan wel sedert de dag van de akte indien deze is verleden na de ministeriële goedkeuring.
+7. De rechtspersoon doet na de zetelverplaatsing onverwijld de nodige opgaven ter inschrijving in het handelsregister. Bij de opgave wordt een authentiek afschrift van de akte bedoeld in het derde lid overgelegd. Zolang de opgave ter inschrijving niet is geschied, zijn de bestuurders naast de rechtspersoon hoofdelijk aansprakelijk voor elke tijdens hun bestuur verrichte rechtshandeling waardoor de rechtspersoon verbonden wordt sedert de dag van de ministeriële goedkeuring, dan wel sedert de dag van de akte indien deze is verleden na de ministeriële goedkeuring.
 
 ##### Artikel 6
 
-1. Een consulaire ambtenaar als bedoeld in de [Consulaire Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001847) is bevoegd tot het verlijden van een akte als bedoeld in de [artikelen 2, eerste lid, onder **c**, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006968&artikel=2&z=2001-09-01&g=2001-09-01), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006968&artikel=3&z=2001-09-01&g=2001-09-01), [4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006968&artikel=4&z=2001-09-01&g=2001-09-01), en [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006968&artikel=5&z=2001-09-01&g=2001-09-01), met dien verstande dat de beperking tot Nederlanders in [artikel 1, vierde lid, van de Consulaire Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001847&artikel=1) niet van toepassing is.
+1. Een consulaire ambtenaar als bedoeld in de [Consulaire Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001847) is bevoegd tot het verlijden van een akte als bedoeld in de [artikelen 2, eerste lid, onder **c**, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006968&artikel=2&z=2011-07-01&g=2011-07-01), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006968&artikel=3&z=2011-07-01&g=2011-07-01), [4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006968&artikel=4&z=2011-07-01&g=2011-07-01), en [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006968&artikel=5&z=2011-07-01&g=2011-07-01), met dien verstande dat de beperking tot Nederlanders in [artikel 1, vierde lid, van de Consulaire Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001847&artikel=1) niet van toepassing is.
 
-2. De [artikelen 3, derde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0006968&artikel=3&z=2001-09-01&g=2001-09-01), en [4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006968&artikel=4&z=2001-09-01&g=2001-09-01), zijn ten aanzien van de consulaire ambtenaar van overeenkomstige toepassing.
+2. De [artikelen 3, derde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0006968&artikel=3&z=2011-07-01&g=2011-07-01), en [4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006968&artikel=4&z=2011-07-01&g=2011-07-01), zijn ten aanzien van de consulaire ambtenaar van overeenkomstige toepassing.
 
 3. De door een consulaire ambtenaar of te zijnen overstaan overeenkomstig deze wet verleden akten hebben gelijke kracht als waren zij in Nederland notarieel verleden.
 
