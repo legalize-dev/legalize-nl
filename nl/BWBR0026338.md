@@ -788,15 +788,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 Deze wet wordt aangehaald als: Drinkwaterwet.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 54a
-
-Bij algemene maatregel van bestuur of, indien strekkend tot een goede uitvoering, bij regeling van Onze Minister, kunnen ter implementatie van internationale verplichtingen nadere regels worden gesteld omtrent de in deze wet geregelde onderwerpen.
-
-### Hoofdstuk IX. Wijziging van andere wetten
-
-### Hoofdstuk X. Evaluatie
-
-### Hoofdstuk XI. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
