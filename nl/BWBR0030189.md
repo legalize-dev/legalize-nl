@@ -4,7 +4,7 @@ identifier: "BWBR0030189"
 country: "nl"
 rank: "wet"
 publication_date: "2012-01-01"
-last_updated: "2010-10-01"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030189"
 soort: "wet"
@@ -40,7 +40,7 @@ entry_into_force: "2011-07-01"
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Monumentenwet 1988.
 
 ##### Artikel II
 
