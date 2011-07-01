@@ -4,7 +4,7 @@ identifier: "BWBR0008489"
 country: "nl"
 rank: "amvb"
 publication_date: "2011-07-01"
-last_updated: "2007-10-17"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008489"
 soort: "AMvB"
@@ -60,11 +60,11 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-Het is verboden preparaten te verhandelen, voordat is voldaan aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008489&artikel=3&z=2007-10-17&g=2007-10-17).
+Het is verboden preparaten te verhandelen, voordat is voldaan aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008489&artikel=3&z=2011-07-01&g=2011-07-01).
 
 ##### Artikel 3
 
-1. Degene die preparaten voor het eerst in de handel brengt of heeft gebracht, verstrekt aan het Nationaal Vergiftigingen Informatie-Centrum van het Rijksinstituut voor volksgezondheid en milieu gegevens ten aanzien van die preparaten met betrekking tot de behandeling van vergiftigingen, welke in ieder geval omvatten:
+1. Degene die preparaten voor het eerst in de handel brengt of heeft gebracht, verstrekt aan het Nationaal Vergiftigingen Informatie-Centrum van het Universitair Medisch Centrum Utrecht gegevens ten aanzien van die preparaten met betrekking tot de behandeling van vergiftigingen, welke in ieder geval omvatten:
 
 - a. een specificatie van de samenstelling;
 
@@ -76,9 +76,9 @@ Het is verboden preparaten te verhandelen, voordat is voldaan aan [artikel 3](ht
 
 ##### Artikel 4
 
-1. De in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008489&artikel=3&z=2007-10-17&g=2007-10-17), bedoelde gegevens zullen door het Nationaal Vergiftigingen Informatie-Centrum vertrouwelijk worden behandeld.
+1. De in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008489&artikel=3&z=2011-07-01&g=2011-07-01), bedoelde gegevens zullen door het Nationaal Vergiftigingen Informatie-Centrum vertrouwelijk worden behandeld.
 
-2. De in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008489&artikel=3&z=2007-10-17&g=2007-10-17), bedoelde gegevens zullen door het Nationaal Vergiftigingen Informatie-Centrum uitsluitend worden gebruikt teneinde te kunnen reageren op medische verzoeken met het oog op preventie dan wel curatieve maatregelen ten aanzien van vergiftigingen.
+2. De in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008489&artikel=3&z=2011-07-01&g=2011-07-01), bedoelde gegevens zullen door het Nationaal Vergiftigingen Informatie-Centrum uitsluitend worden gebruikt teneinde te kunnen reageren op medische verzoeken met het oog op preventie dan wel curatieve maatregelen ten aanzien van vergiftigingen.
 
 ##### Artikel 5
 
