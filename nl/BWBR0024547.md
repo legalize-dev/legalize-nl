@@ -4,7 +4,7 @@ identifier: "BWBR0024547"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2022-09-21"
-last_updated: "2008-10-02"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024547"
 soort: "beleidsregel"
@@ -46,9 +46,7 @@ Besluiten:
 
 - a. de Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. de Staatssecretaris van Volksgezondheid, Welzijn en Sport;
-
-- c. de Minister voor Jeugd en Gezin voor zover het subsidies betreft op het terrein van gezondheidsbevordering, gezondheidsbescherming, gezondheidszorg, maatschappelijke zorg en sport.
+- b. de Staatssecretaris van Volksgezondheid, Welzijn en Sport.
 
 2. Deze beleidsregels zijn niet van toepassing:
 
@@ -120,6 +118,22 @@ Deze beleidsregels treden in werking met ingang van de tweede dag na de dagteken
 
 ##### Artikel 8. Citeertitel
 
-Deze beleidsregels worden aangehaald als: Beleidsregels handhaving subsidiebepalingen VWS en JenG.
+Deze beleidsregels worden aangehaald als: Beleidsregels handhaving subsidiebepalingen VWS.
+
+Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3a. Meldingsplicht
+
+1. Indien de subsidieontvanger niet heeft voldaan aan de aan de subsidie verbonden verplichting tot schriftelijke melding van omstandigheden die van belang kunnen zijn voor een beslissing tot wijziging, intrekking of vaststelling van de subsidie, wordt op het bedrag van de verstrekte subsidie in ieder geval een bedrag in mindering gebracht van:
+
+- a. 10% van het bedrag van de verstrekte subsidie tot ten hoogste € 100.000 indien het bedrag van de verstrekte subsidie met 50% of meer wordt verlaagd op grond van de omstandigheden waarvan de subsidieontvanger geen melding of geen tijdige melding heeft gedaan;
+
+- b. 7% van het bedrag van de verstrekte subsidie tot ten hoogste € 70.000 indien het bedrag van de verstrekte subsidie met 35% tot 50% of meer wordt verlaagd op grond van de omstandigheden waarvan de subsidieontvanger geen melding of geen tijdige melding heeft gedaan;
+
+- c. 5% van het bedrag van de verstrekte subsidie tot ten hoogste € 50.000 indien het bedrag van de verstrekte subsidie met 25% tot 35% wordt verlaagd op grond van de omstandigheden waarvan de subsidieontvanger geen melding of geen tijdige melding heeft gedaan;
+
+- d. 3% van het bedrag van de verstrekte subsidie tot ten hoogste € 30.000 indien het bedrag van de verstrekte subsidie met 15% tot 25% wordt verlaagd op grond van de omstandigheden waarvan de subsidieontvanger geen melding of geen tijdige melding heeft gedaan.
+
+2. Afhankelijk van de omstandigheden waarvan de subsidieontvanger geen melding of geen tijdige melding heeft gedaan, kan de minister een hoger bedrag in mindering brengen op de subsidie dan voortvloeit uit het eerste lid.
 
 Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst.
