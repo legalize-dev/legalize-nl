@@ -4,7 +4,7 @@ identifier: "BWBR0015049"
 country: "nl"
 rank: "wet"
 publication_date: "2018-09-19"
-last_updated: "2010-04-01"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015049"
 soort: "wet"
@@ -51,117 +51,133 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Justitie;
 
-- b. registratie: de verzameling van gegevens die verwerkt worden ten behoeve van het doeleinde beschreven in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=1&artikel=2&z=2010-04-01&g=2010-04-01);
+- b. registratie: de verzameling van gegevens die verwerkt worden ten behoeve van het doeleinde beschreven in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=1&artikel=2&z=2011-07-01&g=2011-07-01);
 
 - c. gegeven: een persoonsgegeven als bedoeld in [artikel 1, onder a, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=1) en elk ander gegeven dat verband houdt met het bestuur van een vennootschap;
 
-- d. vennootschap: een naamloze vennootschap of een besloten vennootschap met beperkte aansprakelijkheid als bedoeld in de [artikelen 64](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=64) onderscheidenlijk [175 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=175);
+- d. risicomelding: verstrekking uit de registratie die een constatering van een verhoogd risico op misbruik van een rechtspersoon bevat en waarvan de risicoanalyse, die bestaat uit gegevens uit de registratie die in samenhang worden gepresenteerd, onderdeel is;
 
-- e. verklaring van geen bezwaar: de verklaring van Onze Minister dat hem van geen bezwaren is gebleken voor de oprichting of statutenwijziging van een vennootschap, voor de omzetting van een naamloze vennootschap in een besloten vennootschap of omgekeerd, alsmede voor de omzetting van een andere rechtspersoon in een vennootschap, een en ander als bedoeld in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=18), [64, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=64), [72, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=72), [125, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=125), [175, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=175), [183, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=183), en [235, eerste lid van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=235);
+- e. rechtspersoon:
 
-- f. vaste gebruiker: de instantie of persoon die is aangewezen overeenkomstig [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=4&artikel=5&z=2010-04-01&g=2010-04-01).
+- 1°. naamloze vennootschap, besloten vennootschap met beperkte aansprakelijkheid, coöperatie, onderlinge waarborgmaatschappij, vereniging met volledige rechtsbevoegdheid, stichting, Europese naamloze vennootschap, Europese coöperatieve vennootschap, Europees economisch samenwerkingsverband, die de statutaire zetel in Nederland heeft; en
+
+- 2°. onderneming die toebehoort aan een buitenlandse rechtspersoon die een hoofd- of nevenvestiging in Nederland heeft als bedoeld in [artikel 5, onderdeel d, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=5);
+
+- f. vaste gebruiker: de instantie of persoon met een publiekrechtelijke taak die is aangewezen conform [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=4&artikel=6&z=2011-07-01&g=2011-07-01).
 
 ##### Artikel 2
 
-1. Onze Minister verwerkt gegevens in de registratie met het oog op de behandeling van aanvragen voor de afgifte van een verklaring van geen bezwaar.
+1. Onze Minister controleert rechtspersonen met het oog op de voorkoming en bestrijding van misbruik van rechtspersonen, waaronder het plegen van misdrijven en overtredingen van financieel-economische aard door of door middel van deze rechtspersonen.
 
-2. De gegevens, bedoeld in het eerste lid, kunnen worden gebruikt voor het voorkomen en bestrijden van misbruik van een vennootschap, waaronder het voorkomen en bestrijden van het plegen van misdrijven en overtredingen van financieel-economische aard door of door middel van een vennootschap.
+2. Onze Minister verwerkt gegevens in de registratie met het oog op het in het eerste lid genoemde doel.
+
+3. De gegevens, bedoeld in het tweede lid, kunnen worden gebruikt voor het doen van een risicomelding over een rechtspersoon.
 
 #### Paragraaf 2. Bronnen van de registratie
 
 ##### Artikel 3
 
-1. In de registratie kunnen, met het oog op het in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=1&artikel=2&z=2010-04-01&g=2010-04-01), bedoelde doeleinde, gegevens worden opgenomen die afkomstig zijn van:
+1. In de registratie kunnen, met het oog op het in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=1&artikel=2&z=2011-07-01&g=2011-07-01), bedoelde doeleinde, gegevens worden opgenomen die afkomstig zijn van:
 
-- a. het ten behoeve van de verkrijging van een verklaring van geen bezwaar ingevulde aanvraagformulier;
+- a. het handelsregister;
 
-- b. het handelsregister;
+- b. de dossiers ten behoeve van de uitvoering van de [artikelen 138, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=138), [50a](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=50a), [53a](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=53a), [248, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=248) en [300a van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=300a);
 
-- c. de dossiers ten behoeve van de uitvoering van de [artikelen 138, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=138), [50a](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=50a), [53a](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=53a), [248, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=248) en [300a van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=300a);
+- c. de in [artikel 1, onderdeel g, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=1) bedoelde bestuursorganen, voorzover het politiegegevens betreft;
 
-- d. de in [artikel 1, onderdeel g, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=1) bedoelde bestuursorganen, voorzover het politiegegevens betreft;
-
-- e. openbare informatie.
+- d. openbare informatie.
 
 2. Tevens kunnen in de registratie daartoe gegevens worden opgenomen, indien de daarop van toepassing zijnde wetgeving dat toestaat die afkomstig zijn van:
 
-- a. de Centrale Justitiële Documentatie;
+- a. de Justitiële Informatiedienst;
 
 - b. het Uitvoeringsinstituut werknemersverzekeringen;
 
 - c. Onze Minister van Financiën, voorzover het gegevens betreft die verwerkt worden door de rijksbelastingdienst;
 
-- d. de in [artikel 1, onderdeel f, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=1) bedoelde bestuursorganen, voorzover het een politiegegevens betreft;
+- d. een regionaal politiekorps, het Korps landelijke politiediensten en de Koninklijke marechaussee, die worden verwerkt met het oog op de politietaak, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=2) en [6, eerste lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=6);
 
-- e. Onze Minister van Economische Zaken, voorzover het gegevens betreft die verwerkt worden door de Nederlandse mededingingsautoriteit, bedoeld in [artikel 2, eerste lid, van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=2);
+- e. bij algemene maatregel van bestuur aan te wijzen bestuursorganen of diensten die met de opsporing van strafbare feiten of met het toezicht op financiële instellingen zijn belast;
 
-- f. bij algemene maatregel van bestuur aan te wijzen bestuursorganen of diensten die met de opsporing van strafbare feiten of met het toezicht op financiële instellingen zijn belast;
+- f. het college van burgemeesters en wethouders van een gemeente, voorzover het bestanden betreft waarvan de gegevens worden verwerkt door de gemeentelijke dienst die is belast met de uitvoering van de [Wet gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006723).
 
-- g. het college van burgemeesters en wethouders van een gemeente, voorzover het bestanden betreft waarvan de gegevens worden verwerkt door de gemeentelijke dienst die is belast met de uitvoering van de [Wet gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006723).
+3. Op verstrekkingen uit het handelsregister als bedoeld in het eerste lid, onder a, aan de registratie is [artikel 28, derde lid, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=28) van toepassing.
 
-3. Gegevens als bedoeld in het eerste lid, onder a, kunnen ook in de registratie worden opgenomen, indien op het verzoek tot afgifte van een verklaring van geen bezwaar afwijzend wordt beslist dan wel een verzoek tot afgifte van een verklaring van geen bezwaar wordt ingetrokken.
-
-4. Op verstrekkingen uit het handelsregister als bedoeld in het eerste lid, onder b, aan de registratie is [artikel 28, vierde lid, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=28) van toepassing.
-
-5. De gegevensverstrekking ingevolge het eerste lid, onder c, d en e en ingevolge het tweede lid, geschiedt kosteloos voorzover het overheidsorganen betreft, voorzover bij of krachtens de wet niet anders is bepaald.
+4. De gegevensverstrekking ingevolge het eerste lid, onder b, c en d en ingevolge het tweede lid, geschiedt kosteloos voorzover het overheidsorganen betreft, voorzover bij of krachtens de wet niet anders is bepaald.
 
 #### Paragraaf 3. De inhoud van de registratie
 
 ##### Artikel 4
 
-1. In de registratie worden gegevens opgenomen over:
+1. In de registratie worden gegevens opgenomen over de oprichters, de aandeelhouders, de commissarissen, de leden – voor zover deze bestuurlijke functies vervullen –, de bestuurders en de vertegenwoordigers van een rechtspersoon.
 
-- a. de oprichters, de aandeelhouders, de bestuurders, de commissarissen en de vertegenwoordigers van een vennootschap en
+2. In de registratie kunnen gegevens worden opgenomen over andere personen die het beleid van de rechtspersoon bepalen of mede kunnen bepalen.
 
-- b. andere personen die het beleid van de vennootschap bepalen of mede kunnen bepalen.
+3. In de registratie kunnen gegevens worden opgenomen over de echtgenoot, geregistreerd partner of levensgezel, de ouders, kinderen en kleinkinderen van de in het eerste en tweede lid bedoelde personen, indien dat nodig is in verband met de analyse van het bestuurdersnetwerk van de rechtspersoon.
 
-2. Bij algemene maatregel van bestuur wordt bepaald welke categorieën gegevens over de personen als bedoeld in het eerste lid kunnen worden opgenomen.
+4. Bij algemene maatregel van bestuur wordt bepaald welke categorieën gegevens over de personen als bedoeld in het eerste tot en met derde lid kunnen worden opgenomen.
 
-3. In de registratie kunnen verwijzingen worden opgenomen over:
+5. In de registratie kunnen verwijzingen worden opgenomen over:
 
-- a. de bronnen, bedoeld in [artikel 3, eerste lid, onder c, d en e, en het tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=2&artikel=3&z=2010-04-01&g=2010-04-01), teneinde verdere gegevens voor het doel van de registratie te kunnen opvragen en
+- a. de bronnen, bedoeld in [artikel 3, eerste lid, onder b, c en d, en het tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=2&artikel=3&z=2011-07-01&g=2011-07-01), teneinde verdere gegevens voor het doel van de registratie te kunnen opvragen en
 
 - b. de vaste gebruikers, opdat Onze Minister gegevens kan verstrekken ter gelegenheid van een wijziging in de registratie.
-
-4. Gegevens over de echtgenoot, geregistreerd partner of levensgezel van de in het eerste lid bedoelde personen kunnen in de registratie worden opgenomen, indien zulks nodig is in verband met andere in de registratie opgenomen natuurlijke personen.
 
 #### Paragraaf 4. Het verstrekken van gegevens uit de registratie
 
 ##### Artikel 5
 
-1. Uit de registratie worden slechts persoonsgegevens verstrekt aan instanties en personen die belast zijn met een publiekrechtelijke taak.
+1. Onze Minister kan uit eigen beweging of desgevraagd ter uitvoering van de taak, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=1&artikel=2&z=2011-07-01&g=2011-07-01), in individuele gevallen risicomeldingen doen aan bij algemene maatregel van bestuur aan te wijzen bestuursorganen die deze in verband met de uitoefening van hun taak behoeven.
 
-2. Bij algemene maatregel van bestuur wordt vastgesteld aan welke instanties of personen als vaste gebruikers desgevraagd in individuele gevallen persoonsgegevens uit de registratie worden verstrekt, alsmede voor welk doeleinde.
+2. Gegevens over de echtgenoot, geregistreerd partner of levensgezel, de ouders, kinderen en kleinkinderen van de in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=3&artikel=4&z=2011-07-01&g=2011-07-01) bedoelde personen worden alleen in een risicomelding opgenomen, indien dat nodig is voor de onderbouwing van die risicomelding.
 
-3. Indien verstrekking van persoonsgegevens uit de registratie plaatsvindt aan andere instanties of personen, wordt van die verstrekking en het doeleinde daarvan aantekening gehouden. De aantekening wordt gedurende drie jaren bewaard.
+3. Een ieder die krachtens deze wet de beschikking krijgt over gegevens met betrekking tot een derde die zijn neergelegd in een risicomelding is verplicht tot geheimhouding daarvan, tenzij bij algemene maatregel van bestuur mededeling wordt toegestaan.
 
-4. De verstrekking van gegevens over natuurlijke personen die niet rechtstreeks verbonden zijn met het bestuur van een rechtspersoon geschiedt slechts met toestemming van de betrokkene, tenzij de verstrekking noodzakelijk is voor de opsporing van een strafbaar feit als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=1&artikel=2&z=2010-04-01&g=2010-04-01).
+4. Van het doen van een risicomelding wordt aantekening gehouden. Deze aantekening wordt gedurende twee jaren bewaard.
 
-5. Ten behoeve van een verkennend onderzoek als bedoeld in [artikel 126gg van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126gg) kunnen de gegevens uit de registratie worden verstrekt of anderszins verwerkt in samenhang met een andere verzameling van persoonsgegevens, zonder beperking tot het individuele geval voor zover dit noodzakelijk is voor dat onderzoek.
+5. Het bestuursorgaan dat een risicomelding ontvangt, kan gedurende twee jaren gebruik maken van die melding.
+
+6. Indien binnen de in het vierde lid bedoelde gebruikstermijn geen gebruik is gemaakt van de risicomelding, verwijdert het ontvangende bestuursorgaan na ommekomst van deze termijn de risicomelding uit zijn administratie.
 
 ##### Artikel 6
 
-Onze Minister kan uit eigen beweging ter uitvoering van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=1&artikel=2&z=2010-04-01&g=2010-04-01), in individuele gevallen gegevens die in de registratie zijn opgenomen, verstrekken:
+1. Onze Minister kan uit eigen beweging of desgevraagd ter uitvoering van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=1&artikel=2&z=2011-07-01&g=2011-07-01), bedoelde taak in individuele gevallen gegevens die in de registratie zijn opgenomen verstrekken aan:
 
-- a. aan de vaste gebruikers, die deze in verband met de uitoefening van hun taak behoeven, over de personen ten aanzien van wie zij zulks kenbaar hebben gemaakt;
+- a. de vaste gebruikers, die deze in verband met de uitoefening van hun taak behoeven, over de personen ten aanzien van wie zij zulks kenbaar hebben gemaakt;
 
 - b. aan een persoon die met de opsporing van strafbare feiten is belast, wanneer uit de gegevens zelf een redelijk vermoeden voortvloeit dat een bepaalde persoon een strafbaar feit heeft begaan.
 
+- c. andere instanties of personen met een publiekrechtelijke taak die deze in verband met de uitoefening van hun taak behoeven.
+
+2. Bij algemene maatregel van bestuur wordt vastgesteld welke instanties of personen met een publiekrechtelijke taak als vaste gebruikers worden aangemerkt alsmede voor welk doeleinde.
+
+3. Indien verstrekking van persoonsgegevens uit de registratie plaatsvindt aan de in het eerste lid, onder c, genoemde andere instanties of personen, wordt van die verstrekking en het doeleinde daarvan aantekening gehouden. De aantekening wordt gedurende vijf jaren bewaard.
+
+4. Ten behoeve van een verkennend onderzoek als bedoeld in [artikel 126gg van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126gg) kunnen de gegevens uit de registratie worden verstrekt of anderszins verwerkt in samenhang met een andere verzameling van persoonsgegevens, zonder beperking tot het individuele geval voor zover dit noodzakelijk is voor dat onderzoek.
+
 ##### Artikel 7
 
-Er worden geen gegevens verstrekt die afkomstig zijn van:
+1. Onze Minister kan ter uitvoering van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=1&artikel=2&z=2011-07-01&g=2011-07-01), bedoelde taak in individuele gevallen ten behoeve van het doen van een risicomelding, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=4&artikel=5&z=2011-07-01&g=2011-07-01), desgevraagd of uit eigen beweging gegevens verstrekken die afkomstig zijn van:
 
-- a. de Centrale Justitiële Documentatie;
+- a. de Justitiële Informatiedienst;
 
 - b. het Uitvoeringsinstituut werknemersverzekeringen;
 
-- c. de in [artikel 1, onderdeel g, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=1) bedoelde bestuursorganen, voorzover het politiegegevens betreft;
+- c. een regionaal politiekorps, het Korps landelijke politiediensten en de Koninklijke marechaussee.
+
+2. In afwijking van [artikel 67, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67), [artikel 67, eerste lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=67) en [artikel 10, eerste lid, van de Registratiewet 1970](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=10) kan Onze Minister ter uitvoering van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=1&artikel=2&z=2011-07-01&g=2011-07-01), bedoelde taak in individuele gevallen ten behoeve van een risicomelding desgevraagd of uit eigen beweging gegevens verstrekken die afkomstig zijn van de rijksbelastingdienst.
+
+3. Voor andere doelen dan genoemd in het eerste en tweede lid worden geen gegevens verstrekt die afkomstig zijn van:
+
+- a. de Justitiële Informatiedienst;
+
+- b. het Uitvoeringsinstituut werknemersverzekeringen;
+
+- c. een regionaal politiekorps, het Korps landelijke politiediensten en de Koninklijke marechaussee;
 
 - d. Onze Minister van Financiën, voorzover het gegevens betreft die verstrekt worden door de rijksbelastingdienst;
 
-- e. Onze Minister van Economische Zaken, voorzover het gegevens betreft die verstrekt worden door de Nederlandse Mededingingsautoriteit, bedoeld in [artikel 2, eerste lid van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=2) en
-
-- f. bestuursorganen en diensten die met de opsporing van strafbare feiten of met het toezicht op financiële instellingen zijn belast bedoeld in [artikel 3, tweede lid, onder f, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=2&artikel=3&z=2010-04-01&g=2010-04-01).
+- e. bestuursorganen en diensten die met de opsporing van strafbare feiten of met het toezicht op financiële instellingen zijn belast, als bedoeld in [artikel 3, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=2&artikel=3&z=2011-07-01&g=2011-07-01).
 
 ##### Artikel 8
 
@@ -173,17 +189,9 @@ Er worden geen gegevens verstrekt die afkomstig zijn van:
 
 ##### Artikel 9
 
-1. Persoonsgegevens worden uit de registratie verwijderd uiterlijk acht jaren na ontbinding van de vennootschap met betrekking tot welke zij in de registratie zijn opgenomen.
+1. Persoonsgegevens worden uit de registratie verwijderd uiterlijk acht jaren na ontbinding van de rechtspersoon met betrekking tot welke zij in de registratie zijn opgenomen.
 
-2. Indien een verzoek tot afgifte van een verklaring van geen bezwaar wordt afgewezen dan wel ingetrokken, worden de in het aanvraagformulier opgenomen persoonsgegevens alsmede de gronden voor afwijzing dan wel intrekking van het verzoek verwijderd uiterlijk acht jaren nadat de beslissing houdende afwijzing onherroepelijk is geworden dan wel het verzoek is ingetrokken.
-
-3. Persoonsgegevens als bedoeld in [artikel 3, eerste lid, onder b tot en met d en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=2&artikel=3&z=2010-04-01&g=2010-04-01), worden, tenzij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=1&artikel=2&z=2010-04-01&g=2010-04-01), zich hiertegen verzet, verwijderd zodra:
-
-- a. op een verzoek tot afgifte van een verklaring van geen bezwaar afwijzend is beslist of
-
-- b. het verzoek tot afgifte van een verklaring van geen bezwaar is ingetrokken.
-
-4. Er vindt ten minste eenmaal per jaar een onderzoek plaats naar de noodzaak om de opname van verwijzingen als bedoeld in [artikel 4, derde lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=3&artikel=4&z=2010-04-01&g=2010-04-01) in de registratie te handhaven. Indien de noodzaak is komen te vervallen, worden verwijzingen uit de registratie verwijderd.
+2. Er vindt ten minste eenmaal per jaar een onderzoek plaats naar de noodzaak om de opname van de in artikel 4 bedoelde gegevens in de registratie en de in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=3&artikel=4&z=2011-07-01&g=2011-07-01), bedoelde verwijzingen, te handhaven. Indien de noodzaak is komen te vervallen, worden de gegevens en de verwijzingen, uit de registratie verwijderd.
 
 #### Paragraaf 6. Wijzigingen in andere regelingen
 
@@ -199,7 +207,7 @@ Wijzigt de Wet politieregisters.
 
 ##### Artikel 12
 
-Onze Minister brengt jaarlijks een openbaar verslag uit over het functioneren van de registratie, onder vermelding van het aantal malen dat gegevens verstrekt zijn aan instanties of personen als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=4&artikel=5&z=2010-04-01&g=2010-04-01), alsmede onder aanduiding van de instanties en personen en de doeleinden van de verstrekking.
+Onze Minister brengt jaarlijks een openbaar verslag uit over het functioneren van de registratie, onder vermelding van het aantal malen dat gegevens verstrekt zijn aan instanties of personen als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=4&artikel=5&z=2011-07-01&g=2011-07-01), alsmede onder aanduiding van de instanties en personen en de doeleinden van de verstrekking.
 
 ##### Artikel 13
 
@@ -207,10 +215,30 @@ Onze Minister van Justitie zendt binnen twee jaren na de inwerkingtreding van de
 
 ##### Artikel 14
 
-Deze wet wordt aangehaald als: Wet documentatie vennootschappen.
+Deze wet wordt aangehaald als: Wet controle op rechtspersonen.
 
 ##### Artikel 15
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
+
+Lasten en bevelen, dat deze in het Staatsblad zal worden geplaatst, en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 2a
+
+1. Het Uitvoeringsinstituut werknemersverzekeringen en de rijksbelastingdienst verstrekken op zijn verzoek aan Onze Minister de gegevens die deze behoeft ter uitvoering van de taak, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=1&artikel=2&z=2011-07-01&g=2011-07-01).
+
+2. De gegevensverstrekking ingevolge het eerste lid geschiedt kosteloos.
+
+#### Paragraaf 2. Bronnen van de registratie
+
+#### Paragraaf 3. De inhoud van de registratie
+
+#### Paragraaf 4. Het verstrekken van gegevens uit de registratie
+
+#### Paragraaf 5. Het verwijderen van gegevens uit de registratie
+
+#### Paragraaf 6. Wijzigingen in andere regelingen
+
+#### Paragraaf 7. Slotbepalingen
 
 Lasten en bevelen, dat deze in het Staatsblad zal worden geplaatst, en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
