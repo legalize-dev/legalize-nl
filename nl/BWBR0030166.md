@@ -163,11 +163,3 @@ Iedere hoofdfunctie dient aan de eis van een score 0 te voldoen.
 ### Bepaling van het aantal meetpunten voor de uitvoering van het in [artikel 43, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=43). bedoelde onderzoek van het drinkwater en warm tapwater op de aanwezigheid van legionellabacteriën
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-Noten:
-
-## Bijlage 3. behorend bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030166&artikel=8&z=2018-01-01&g=2018-01-01) van de Regeling legionellapreventie in drinkwater en warm tapwater
-
-### Bepaling van het aantal meetpunten voor de uitvoering van het in [artikel 43, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=43). bedoelde onderzoek van het drinkwater en warm tapwater op de aanwezigheid van legionellabacteriën
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
