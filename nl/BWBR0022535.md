@@ -4,7 +4,7 @@ identifier: "BWBR0022535"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-12-29"
-last_updated: "2009-01-01"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022535"
 soort: "AMvB"
@@ -124,7 +124,7 @@ Bij het in de handel brengen of etiketteren van of reclame maken voor producten 
 
 ##### Artikel 3
 
-Eieren worden slechts in de handel gebracht indien voldaan is aan artikel 116 en Bijlage XIVa A, punten II, III en IV van verordening (EG) 1234/2007 en de artikelen 2, 4, 5 tot en met 23 en 29 van verordening (EG) 589/2008.
+Eieren worden slechts in de handel gebracht indien voldaan is aan artikel 116 en Bijlage XIV A, punten II, III en IV van verordening (EG) 1234/2007 en de artikelen 2, 4, 5 tot en met 23 en 29 van verordening (EG) 589/2008.
 
 ##### Artikel 4
 
@@ -136,7 +136,7 @@ Eieren worden slechts in de handel gebracht indien voldaan is aan artikel 116 en
 
 ##### Artikel 5
 
-Vlees van pluimvee wordt slechts in de handel gebracht indien voldaan is aan artikel 116 en Bijlage XIVa B, punt III van verordening (EG) 1234/2007 en de artikelen 3 tot en met 20 van verordening (EG) 543/2008 en de bij of krachtens dit besluit gestelde regels.
+Vlees van pluimvee wordt slechts in de handel gebracht indien voldaan is aan artikel 116 en Bijlage XIV B, punten II, III en IV van verordening (EG) 1234/2007 en de artikelen 3 tot en met 20 van verordening (EG) 543/2008 en de bij of krachtens dit besluit gestelde regels.
 
 ##### Artikel 6
 
@@ -156,7 +156,7 @@ Teeltmateriaal van bloembollen wordt slechts in de handel gebracht indien voldaa
 
 ##### Artikel 10
 
-1. Onze Minister kan nadere regels stellen voor zover dat voor een goede uitvoering van de onderwerpen van de in de artikelen 2 tot en met 7 genoemde Europese verordeningen en voor de in artikelen 8 en 9 genoemde Europese richtlijnen noodzakelijk is.
+1. Onze Minister kan nadere regels stellen voor zover dat voor een goede uitvoering van de onderwerpen van de in de artikelen 2 tot en met 7a genoemde Europese verordeningen en voor de in artikelen 8 en 9 genoemde Europese richtlijnen noodzakelijk is.
 
 2. De regels bedoeld in het eerste lid kunnen betrekking hebben op:
 
@@ -168,7 +168,7 @@ Teeltmateriaal van bloembollen wordt slechts in de handel gebracht indien voldaa
 
 - d. het uitreiken, aanbrengen, vervaardigen, voorhanden en in voorraad hebben, alsmede het afleveren en gebruiken van bewijsstukken en merken;
 
-- e. de nadere aanduiding van het begrip bloembollen, bedoeld in [artikel 1, onder t](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=1&z=2009-01-01&g=2009-01-01).
+- e. de nadere aanduiding van het begrip bloembollen, bedoeld in [artikel 1, onder r](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=1&z=2011-07-01&g=2011-07-01).
 
 3. Onze Minister kan vrijstelling en, op aanvraag, ontheffing verlenen van het bepaalde bij of krachtens dit besluit voor zover het belang van een goede uitvoering van de in het eerste lid bedoelde Europese verordeningen en richtlijnen zich daartegen niet verzet.
 
@@ -212,13 +212,7 @@ De Stichting KCB is de controle-instantie, bedoeld in artikel 8, eerste lid, ond
 
 - a. het toezicht op de naleving van bij of krachtens dit besluit gestelde regels ten aanzien van groenten en fruit, bananen en krenten en rozijnen;
 
-- b. het uitreiken van bewijsstukken, bedoeld in:
-
-- 1°. artikel 11, derde lid, van verordening (EG) 1580/2007 voor elke voor de uitvoer bestemde partij of zending groenten indien voldaan is aan de voorwaarden genoemd in dat artikel;
-
-- 2°. artikel 12, tweede lid, van verordening (EG) 1580/2007 voor elke ingevoerde partij of zending indien is voldaan aan artikel 113 bis en de voorwaarden gesteld krachtens artikel 113, eerste lid, onderdeel b, van verordening (EG) 1234/2007;
-
-- 3°. artikel 19, tweede lid, van verordening (EG) 1580/2007 voor de industriële bestemming van producten indien voldaan is aan de voorwaarden genoemd in dat artikel;
+- b. het uitreiken van bewijsstukken, bedoeld in artikel 12 bis, eerste lid, van verordening (EG) 1580/2007, indien is voldaan aan artikel 113 bis, en de handelsnormen, gesteld krachtens artikel 113, eerste lid, onderdeel b, van verordening (EG) 1234/2007;
 
 - c. de uitvoering van de registratie, bedoeld in artikel 7, tweede lid, van verordening (EG) 2898/95;
 
@@ -236,23 +230,31 @@ De Stichting Skal is de instantie, bedoeld in artikel 27, vierde lid, onder a, v
 
 ##### Artikel 16
 
-De Stichting COKZ, de Stichting CPE en de Stichting KCB zijn voor zover het producten betreft die reeds op grond van respectievelijk [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=12&z=2009-01-01&g=2009-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=13&z=2009-01-01&g=2009-01-01) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=14&z=2009-01-01&g=2009-01-01) onder de bevoegdheid van deze instellingen vallen, dan wel voor zover het producten betreft die bij ministeriële regeling zijn aangewezen, de instanties, bedoeld in artikel 10, eerste lid, van verordening (EG) 510/2006 of artikel 14, eerste lid, van verordening (EG) 509/2006 en belast met:
+1. De instantie, bedoeld in artikel 14, eerste lid, van verordening (EG) 509/2006 en artikel 10, eerste lid, van verordening (EG) 510/2006, is:
 
-- a. het toezicht op de naleving van bij of krachtens dit besluit gestelde regels ten aanzien van geografische aanduidingen, oorsprongsbenamingen en traditionele specialiteiten ;
+- a. de Stichting COKZ, voor zover het producten betreft die reeds op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=12&z=2011-07-01&g=2011-07-01) onder haar bevoegdheid vallen, dan wel die bij ministeriële regeling zijn aangewezen;
 
-- b. de keuring van producten die een beschermde geografische aanduiding of oorsprongsbenaming dan wel een gegarandeerde traditionele specialiteit hebben ten einde te waarborgen dat deze producten aan de eisen van de desbetreffende productdossiers voldoen als bedoeld in artikel 15 van verordening (EG) 509/2006 dan wel artikel 11 van verordening (EG) 510/2006.
+- b. de Stichting CPE, voor zover het producten betreft die reeds op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=13&z=2011-07-01&g=2011-07-01) onder haar bevoegdheid vallen, dan wel die bij ministeriële regeling zijn aangewezen;
+
+- c. de Stichting KCB, voor zover het producten betreft die reeds op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=14&z=2011-07-01&g=2011-07-01) onder haar bevoegdheid vallen, dan wel die bij ministeriële regeling zijn aangewezen, of
+
+- d. Onze Minister, voor zover het producten betreft die naar hun aard of ingevolge de voorschriften van de Raad, van het Europees Parlement en de Raad gezamenlijk of van de Europese Commissie niet onder de bevoegdheid van de controle-instellingen, bedoeld in het eerste lid, onderdelen a tot en met c, vallen.
+
+2. De instantie, bedoeld in het eerste lid, is belast met:
+
+- a. het toezicht op de naleving van bij of krachtens dit besluit gestelde regels ten aanzien van producten met een beschermde geografische aanduiding of oorsprongsbenaming dan wel gegarandeerde traditionele specialiteiten;
+
+- b. de keuring van producten met een beschermde geografische aanduiding of oorsprongsbenaming, bedoeld in artikel 11 van verordening (EG) 510/2006 dan wel gegarandeerde traditionele specialiteiten, bedoeld in artikel 15 van verordening (EG) 509/2006 ten einde te waarborgen dat deze producten aan de eisen van de desbetreffende productdossiers voldoen.
 
 ##### Artikel 17
 
 Onze Minister is belast met:
 
-- a. de keuring van de producten waarop verordening (EG) 509/2006 en verordening (EG) 510/2006 betrekking hebben en die naar hun aard of ingevolge de voorschriften van de Raad van de Europese Unie, van het Europees Parlement en de Raad van de Europese Unie gezamenlijk of van de Commissie van de Europese Gemeenschappen niet onder de bevoegdheid van de controle-instellingen vallen als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=16&z=2009-01-01&g=2009-01-01);
+- a. de erkenning van de productspecificaties en de onafhankelijke dienst, bedoeld in artikel 16 van verordening (EG) 1760/2000;
 
-- b. de erkenning van de productspecificaties, bedoeld in artikel 16 van verordening (EG) 1760/2000;
+- b. de controles, bedoeld in Bijlage XI bis, punt VII, van verordening (EG) 1234/2007;
 
-- c. de controles, bedoeld in Bijlage XI bis, punt VII, van verordening (EG) 1234/2007;
-
-- d. controles, bedoeld in artikel 27, eerste lid, van verordening (EG) 834/2007.
+- c. controles, bedoeld in artikel 27, eerste lid, van verordening (EG) 834/2007.
 
 ##### Artikel 18
 
