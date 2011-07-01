@@ -4,7 +4,7 @@ identifier: "BWBR0019048"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2005-11-15"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019048"
 soort: "ministeriele-regeling"
@@ -56,15 +56,15 @@ In deze regeling wordt verstaan onder:
 
 Als plantenresten als bedoeld in [artikel 2, eerste lid, onder g, van het Besluit vrijstellingen stortverbod buiten inrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0009093&artikel=2) worden aangewezen:
 
-- a. bermmaaisel dat op of in de bodem wordt gebracht op de plaats of in de directe nabijheid daarvan waar dit is vrijgekomen, onder de voorwaarden die zijn gesteld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=3&z=2005-11-15&g=2005-11-15),
+- a. bermmaaisel dat op of in de bodem wordt gebracht op de plaats of in de directe nabijheid daarvan waar dit is vrijgekomen, onder de voorwaarden die zijn gesteld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=3&z=2005-11-15&g=2011-07-01),
 
-- b. oogstrestanten die worden ondergewerkt binnen het bedrijf waar deze zijn vrijgekomen, onder de voorwaarden die zijn gesteld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=4&z=2005-11-15&g=2005-11-15),
+- b. oogstrestanten die worden ondergewerkt binnen het bedrijf waar deze zijn vrijgekomen, onder de voorwaarden die zijn gesteld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=4&z=2005-11-15&g=2011-07-01),
 
-- c. heideplagsel en maaisel dat vrijkomt binnen een natuurgebied en dat op of in de bodem wordt gebracht op de plaats of in de directe nabijheid daarvan waar dit is vrijgekomen, onder de voorwaarden die zijn gesteld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=5&z=2005-11-15&g=2005-11-15).
+- c. heideplagsel en maaisel dat vrijkomt binnen een natuurgebied en dat op of in de bodem wordt gebracht op de plaats of in de directe nabijheid daarvan waar dit is vrijgekomen, onder de voorwaarden die zijn gesteld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=5&z=2005-11-15&g=2011-07-01).
 
 ##### Artikel 3
 
-Bermmaaisel als bedoeld in [artikel 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=2&z=2005-11-15&g=2005-11-15), wordt uitsluitend op of in de bodem gebracht indien:
+Bermmaaisel als bedoeld in [artikel 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=2&z=2005-11-15&g=2011-07-01), wordt uitsluitend op of in de bodem gebracht indien:
 
 - a. dit geschiedt:
 
@@ -82,7 +82,7 @@ Bermmaaisel als bedoeld in [artikel 2, onder a](https://wetten.overheid.nl/jci1.
 
 ##### Artikel 4
 
-Oogstrestanten als bedoeld in [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=2&z=2005-11-15&g=2005-11-15), worden uitsluitend ondergewerkt indien:
+Oogstrestanten als bedoeld in [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=2&z=2005-11-15&g=2011-07-01), worden uitsluitend ondergewerkt indien:
 
 - a. de oogstrestanten het bedrijf niet hebben verlaten,
 
@@ -94,7 +94,7 @@ Oogstrestanten als bedoeld in [artikel 2, onder b](https://wetten.overheid.nl/jc
 
 ##### Artikel 5
 
-Heideplagsel en maaisel als bedoeld in [artikel 2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=2&z=2005-11-15&g=2005-11-15), wordt uitsluitend op of in de bodem gebracht indien:
+Heideplagsel en maaisel als bedoeld in [artikel 2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=2&z=2005-11-15&g=2011-07-01), wordt uitsluitend op of in de bodem gebracht indien:
 
 - a. dit geschiedt:
 
