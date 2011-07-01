@@ -4,7 +4,7 @@ identifier: "BWBR0022233"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2011-01-01"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022233"
 soort: "AMvB"
@@ -69,6 +69,8 @@ In dit besluit wordt verstaan onder:
 2. Het Centraal Justitieel Incassobureau verricht de werkzaamheden die Onze Minister of het openbaar ministerie van hem in verband met de uitoefening van de in het eerste lid bedoelde taken verlangen.
 
 3. Degene die de strafbeschikking uitvaardigt, verstrekt aan het Centraal Justitieel Incassobureau de gegevens die het behoeft in verband met de uitvoering van dit artikel.
+
+4. Dit artikel is niet van toepassing op strafbeschikkingen, uitgevaardigd krachtens [artikel 76 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=76) en [artikel 10:15 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:15).
 
 ##### Artikel 2.2
 
@@ -142,9 +144,9 @@ Vervallen
 
 ##### Artikel 5.2
 
-1. De artikelen van de [hoofdstukken I](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=I&z=2011-01-01&g=2011-01-01), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=II&z=2011-01-01&g=2011-01-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=V&z=2011-01-01&g=2011-01-01) van dit besluit, alsmede de artikelen van [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=IV&z=2011-01-01&g=2011-01-01) van dit besluit, met uitzondering van de [artikelen 4.1, onderdelen A, tweede lid, C, E, G en H](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=IV&artikel=4.1&z=2011-01-01&g=2011-01-01), [4.4, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=IV&artikel=4.4&z=2011-01-01&g=2011-01-01), 4.7 en 4.8, treden in werking op het tijdstip waarop de [Wet OM-afdoening](https://wetten.overheid.nl/jci1.3:c:BWBR0020074) in werking treedt.
+1. De artikelen van de [hoofdstukken I](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=I&z=2011-07-01&g=2011-07-01), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=II&z=2011-07-01&g=2011-07-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=V&z=2011-07-01&g=2011-07-01) van dit besluit, alsmede de artikelen van [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=IV&z=2011-07-01&g=2011-07-01) van dit besluit, met uitzondering van de [artikelen 4.1, onderdelen A, tweede lid, C, E, G en H](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=IV&artikel=4.1&z=2011-07-01&g=2011-07-01), [4.4, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=IV&artikel=4.4&z=2011-07-01&g=2011-07-01), 4.7 en 4.8, treden in werking op het tijdstip waarop de [Wet OM-afdoening](https://wetten.overheid.nl/jci1.3:c:BWBR0020074) in werking treedt.
 
-2. De artikelen van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&z=2011-01-01&g=2011-01-01), de daarop gebaseerde bijlage, [artikel 4.1, onderdelen A, tweede lid, C, E, G en H](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=IV&artikel=4.1&z=2011-01-01&g=2011-01-01), en [artikel 4.4, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=IV&artikel=4.4&z=2011-01-01&g=2011-01-01) van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip.
+2. De artikelen van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&z=2011-07-01&g=2011-07-01), de daarop gebaseerde bijlage, [artikel 4.1, onderdelen A, tweede lid, C, E, G en H](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=IV&artikel=4.1&z=2011-07-01&g=2011-07-01), en [artikel 4.4, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=IV&artikel=4.4&z=2011-07-01&g=2011-07-01) van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 3. Artikel 4.8 van dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat niet later is gelegen dan drie jaar na het krachtens het tweede lid bepaalde tijdstip.
 
@@ -164,7 +166,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - a. strafbeschikkingsbevoegdheid: de bevoegdheid een strafbeschikking uit te vaardigen, bedoeld in [artikel 257b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257b);
 
-- b. bevoegde ambtenaar: de opsporingsambtenaar, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.2&z=2011-01-01&g=2011-01-01).
+- b. bevoegde ambtenaar: de opsporingsambtenaar, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.2&z=2011-07-01&g=2011-07-01).
 
 - c. hoofdofficier van justitie: officier van justitie, hoofd van het arrondissementsparket, het functioneel parket of het landelijk parket;
 
@@ -176,27 +178,27 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. Als korpschef in de zin van dit hoofdstuk wordt aangemerkt met betrekking tot
 
-- a. de ambtenaren, bedoeld in [artikel 3.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.2&z=2011-01-01&g=2011-01-01): de korpschef van het politiekorps waarbij zij in dienst zijn, dan wel hun praktijkstage vervullen;
+- a. de ambtenaren, bedoeld in [artikel 3.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.2&z=2011-07-01&g=2011-07-01): de korpschef van het politiekorps waarbij zij in dienst zijn, dan wel hun praktijkstage vervullen;
 
-- b. de ambtenaren werkzaam bij de Koninklijke marechaussee, bedoeld in [artikel 3.2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.2&z=2011-01-01&g=2011-01-01):
+- b. de ambtenaren werkzaam bij de Koninklijke marechaussee, bedoeld in [artikel 3.2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.2&z=2011-07-01&g=2011-07-01):
 
-- 1. voor de toepassing van [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.4&z=2011-01-01&g=2011-01-01): de betrokken districtscommandant;
+- 1. voor de toepassing van [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.4&z=2011-07-01&g=2011-07-01): de betrokken districtscommandant;
 
 - 2. voor de toepassing van de overige artikelen van dit hoofdstuk: de commandant van de Koninklijke marechaussee;
 
-- c. de ambtenaren, bedoeld in [artikel 3.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.2&z=2011-01-01&g=2011-01-01): het hoofd van de organisatie waarbij zij werkzaam zijn.
+- c. de ambtenaren, bedoeld in [artikel 3.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.2&z=2011-07-01&g=2011-07-01): het hoofd van de organisatie waarbij zij werkzaam zijn.
 
 ##### Artikel 3.2
 
-1. Voor de in [artikel 3.3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.3&z=2011-01-01&g=2011-01-01), aangewezen zaken wordt de strafbeschikkingsbevoegdheid toegekend aan de hulpofficieren van justitie, bedoeld in [artikel 154, onderdelen a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=154), alsmede aan de hulpofficieren van justitie, bedoeld in [artikel 154, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=154), voor zover het betreft de brigadecommandanten en de afdelingscommandanten en de adjudant-onderofficier en de opperwachtmeesters die als hun vervanger zijn aangewezen, voor zolang zij als zodanig optreden, alsmede de adjudant-onderofficier en de opperwachtmeesters, ingedeeld bij de centrale recherche Koninklijke marechaussee en de recherchegroepen.
+1. Voor de in [artikel 3.3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.3&z=2011-07-01&g=2011-07-01), aangewezen zaken wordt de strafbeschikkingsbevoegdheid toegekend aan de hulpofficieren van justitie, bedoeld in [artikel 154, onderdelen a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=154), alsmede aan de hulpofficieren van justitie, bedoeld in [artikel 154, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=154), voor zover het betreft de brigadecommandanten en de afdelingscommandanten en de adjudant-onderofficier en de opperwachtmeesters die als hun vervanger zijn aangewezen, voor zolang zij als zodanig optreden, alsmede de adjudant-onderofficier en de opperwachtmeesters, ingedeeld bij de centrale recherche Koninklijke marechaussee en de recherchegroepen.
 
-2. Voor de in [artikel 3.3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.3&z=2011-01-01&g=2011-01-01), aangewezen zaken wordt de strafbeschikkingsbevoegdheid toegekend aan de ambtenaren van politie, bedoeld in [artikel 141, aanhef en onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), alsmede aan de ambtenaren die een basisopleiding volgen aan de Politieacademie, uitsluitend gedurende hun praktijkstage bij een politiekorps.
+2. Voor de in [artikel 3.3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.3&z=2011-07-01&g=2011-07-01), aangewezen zaken wordt de strafbeschikkingsbevoegdheid toegekend aan de ambtenaren van politie, bedoeld in [artikel 141, aanhef en onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), alsmede aan de ambtenaren die een basisopleiding volgen aan de Politieacademie, uitsluitend gedurende hun praktijkstage bij een politiekorps.
 
-3. Voor de in [artikel 3.3, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.3&z=2011-01-01&g=2011-01-01), aangewezen zaken wordt strafbeschikkingsbevoegdheid toegekend aan de militairen van de Koninklijke marechaussee, bedoeld in [artikel 141, aanhef en onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141).
+3. Voor de in [artikel 3.3, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.3&z=2011-07-01&g=2011-07-01), aangewezen zaken wordt strafbeschikkingsbevoegdheid toegekend aan de militairen van de Koninklijke marechaussee, bedoeld in [artikel 141, aanhef en onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141).
 
-4. Voor de in [artikel 3.3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.3&z=2011-01-01&g=2011-01-01), aangewezen zaken wordt strafbeschikkingsbevoegdheid toegekend aan buitengewoon opsporingsambtenaren, voor zover deze ambtenaren bevoegd zijn tot de opsporing van die zaken.
+4. Voor de in [artikel 3.3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.3&z=2011-07-01&g=2011-07-01), aangewezen zaken wordt strafbeschikkingsbevoegdheid toegekend aan buitengewoon opsporingsambtenaren, voor zover deze ambtenaren bevoegd zijn tot de opsporing van die zaken.
 
-5. In afwijking van het vierde lid, aanhef en onderdeel c, wordt voor de in [artikel 3.3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.3&z=2011-01-01&g=2011-01-01), aangewezen zaken geen strafbeschikkingsbevoegdheid toegekend aan buitengewoon opsporingsambtenaren in dienst van de gemeente, voor zover voor die zaken in de desbetreffende gemeente krachtens een verordening als bedoeld in [artikel 154b, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=154b) een bestuurlijke boete kan worden opgelegd.
+5. In afwijking van het vierde lid, aanhef en onderdeel c, wordt voor de in [artikel 3.3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.3&z=2011-07-01&g=2011-07-01), aangewezen zaken geen strafbeschikkingsbevoegdheid toegekend aan buitengewoon opsporingsambtenaren in dienst van de gemeente, voor zover voor die zaken in de desbetreffende gemeente krachtens een verordening als bedoeld in [artikel 154b, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=154b) een bestuurlijke boete kan worden opgelegd.
 
 ##### Artikel 3.3
 
@@ -254,7 +256,7 @@ Vervallen
 
 ### Hoofdstuk V. Slotbepalingen
 
-## Bijlage. , bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.3&z=2011-01-01&g=2011-01-01) van het Besluit OM-afdoening en [artikel 3 van het Transactiebesluit 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006664&artikel=3)
+## Bijlage. , bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.3&z=2011-07-01&g=2011-07-01) van het Besluit OM-afdoening en [artikel 3 van het Transactiebesluit 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006664&artikel=3)
 
 |   |   |   | ****Afdeling A. Verkeer te land**** |
 | --- | --- | --- | --- |
