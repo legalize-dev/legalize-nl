@@ -4,7 +4,7 @@ identifier: "BWBR0019237"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2011-01-01"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019237"
 soort: "ministeriele-regeling"
@@ -43,7 +43,7 @@ Besluit:
 
 ##### Artikel 1. Reikwijdte
 
-Deze regeling geeft uitvoering aan de [artikelen 6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=6), [8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=8), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=17), [21a](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21a), [25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=25), [31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=31), en [47 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=47)
+Deze regeling geeft uitvoering aan de [artikelen 6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=6), [8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=8), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=17), [21a](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21a), [25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=25), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=31) en [47 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=47)
 
 ##### Artikel 2. Definities
 
@@ -199,7 +199,7 @@ Indien de Belastingdienst/Toeslagen overeenkomstig artikel 6 van Verordening (EG
 
 - b. worden de in [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=19) genoemde beslissingstermijnen voor toekenning van de tegemoetkoming verlengd met de tijd gedurende welke een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan;
 
-- c. worden de in de [artikelen 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21), en [27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=27) genoemde termijnen en de in [artikel 5a, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=5a&z=2012-01-01&g=2011-01-01), genoemde termijn verlengd met de tijd gedurende welk een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan.
+- c. worden de in de [artikelen 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21), en [27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=27) genoemde termijnen en de in [artikel 5a, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=5a&z=2012-01-01&g=2011-07-01), genoemde termijn verlengd met de tijd gedurende welk een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
