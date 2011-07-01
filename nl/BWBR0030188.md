@@ -4,7 +4,7 @@ identifier: "BWBR0030188"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-06"
-last_updated: "2011-01-01"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030188"
 soort: "ministeriele-regeling"
@@ -82,9 +82,9 @@ In de begroting en de meerjarenraming van de Raad worden de volgende onderdelen 
 
 ##### Artikel 4
 
-1. De bijdrage in de kosten, bedoeld in [artikel 3, onderdeel a en onderdeel b, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=3&z=2011-07-01&g=2011-01-01), bestaat voor de onderscheiden kosten uit de werkelijk gemaakte kosten tot een door de minister jaarlijks te bepalen maximum.
+1. De bijdrage in de kosten, bedoeld in [artikel 3, onderdeel a en onderdeel b, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=3&z=2011-07-01&g=2011-07-01), bestaat voor de onderscheiden kosten uit de werkelijk gemaakte kosten tot een door de minister jaarlijks te bepalen maximum.
 
-2. De bijdrage in de kosten, bedoeld in [artikel 3, onderdeel b, onder 1 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=3&z=2011-07-01&g=2011-01-01), bestaat uit de werkelijk gemaakte kosten.
+2. De bijdrage in de kosten, bedoeld in [artikel 3, onderdeel b, onder 1 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=3&z=2011-07-01&g=2011-07-01), bestaat uit de werkelijk gemaakte kosten.
 
 ##### Artikel 5
 
@@ -132,7 +132,7 @@ De Sociale verzekeringsbank zendt de minister jaarlijks vóór 1 oktober een beg
 
 ##### Artikel 8
 
-In de begroting en de meerjarenraming van de Sociale verzekeringsbank genoemd in [artikel 7, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=7&z=2011-07-01&g=2011-01-01), worden de volgende onderdelen onderscheiden:
+In de begroting en de meerjarenraming van de Sociale verzekeringsbank genoemd in [artikel 7, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=7&z=2011-07-01&g=2011-07-01), worden de volgende onderdelen onderscheiden:
 
 - a. de reguliere kosten;
 
@@ -148,9 +148,9 @@ In de begroting en de meerjarenraming van de Sociale verzekeringsbank genoemd in
 
 ##### Artikel 9
 
-1. De Sociale verzekeringsbank ontvangt voor de kosten genoemd in [artikel 8, onderdelen a, en b, onder 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8&z=2011-07-01&g=2011-01-01), een door de minister jaarlijks voor 1 december vastgesteld bedrag.
+1. De Sociale verzekeringsbank ontvangt voor de kosten genoemd in [artikel 8, onderdelen a, en b, onder 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8&z=2011-07-01&g=2011-07-01), een door de minister jaarlijks voor 1 december vastgesteld bedrag.
 
-2. De Sociale verzekeringsbank ontvangt voor de kosten genoemd in [artikel 8, onderdeel b, onder 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8&z=2011-07-01&g=2011-01-01), een vergoeding van de werkelijk gemaakte kosten.
+2. De Sociale verzekeringsbank ontvangt voor de kosten genoemd in [artikel 8, onderdeel b, onder 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8&z=2011-07-01&g=2011-07-01), een vergoeding van de werkelijk gemaakte kosten.
 
 ##### Artikel 10
 
@@ -162,9 +162,9 @@ In de begroting en de meerjarenraming van de Sociale verzekeringsbank genoemd in
 
 ##### Artikel 11
 
-1. Ten behoeve van de opbouw van de egalisatiereserve ontvangt de Sociale verzekeringsbank in 2011 een bijdrage van € 500 000. Indien uit de jaarrekening 2011 blijkt dat de egalisatiereserve per 31 december 2011 hoger is dan 10% van de vergoeding, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=9&z=2011-07-01&g=2011-01-01), stort de Sociale verzekeringsbank het meerdere in 2012 terug.
+1. Ten behoeve van de opbouw van de egalisatiereserve ontvangt de Sociale verzekeringsbank in 2011 een bijdrage van € 500 000. Indien uit de jaarrekening 2011 blijkt dat de egalisatiereserve per 31 december 2011 hoger is dan 10% van de vergoeding, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=9&z=2011-07-01&g=2011-07-01), stort de Sociale verzekeringsbank het meerdere in 2012 terug.
 
-2. Indien de egalisatiereserve per 31 december 2011 gelijk is aan 10% van de vergoeding bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=9&z=2011-07-01&g=2011-01-01), wordt er in 2012 geen bijdrage aan de opbouw van de egalisatiereserve uitgekeerd. Indien de egalisatiereserve per 31 december 2011 lager is dan 10% van de vergoeding bedoeld in artikel 9, eerste lid, wordt een bijdrage uitgekeerd die de egalisatiereserve per 31 december 2011 aanvult tot maximaal 10% van de vergoeding, bedoeld in artikel 9, eerste lid, met dien verstande dat de bijdrage aan de egalisatiereserve in 2012 maximaal € 500 000 bedraagt.
+2. Indien de egalisatiereserve per 31 december 2011 gelijk is aan 10% van de vergoeding bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=9&z=2011-07-01&g=2011-07-01), wordt er in 2012 geen bijdrage aan de opbouw van de egalisatiereserve uitgekeerd. Indien de egalisatiereserve per 31 december 2011 lager is dan 10% van de vergoeding bedoeld in artikel 9, eerste lid, wordt een bijdrage uitgekeerd die de egalisatiereserve per 31 december 2011 aanvult tot maximaal 10% van de vergoeding, bedoeld in artikel 9, eerste lid, met dien verstande dat de bijdrage aan de egalisatiereserve in 2012 maximaal € 500 000 bedraagt.
 
 ##### Artikel 12
 
