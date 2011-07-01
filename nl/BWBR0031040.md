@@ -4,7 +4,7 @@ identifier: "BWBR0031040"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-01-01"
-last_updated: "2011-01-01"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031040"
 soort: "ministeriele-regeling"
@@ -116,8 +116,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XIII
 
 Wijzigt de Uitvoeringsbeschikking omzetbelasting 1968.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIV
 
