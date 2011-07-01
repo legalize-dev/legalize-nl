@@ -4,7 +4,7 @@ identifier: "BWBR0016544"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-02-28"
-last_updated: "2011-01-01"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016544"
 soort: "AMvB"
@@ -68,19 +68,19 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-Met betrekking tot misdrijven worden als justitiële gegevens aangemerkt de in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=6&z=2011-01-01&g=2011-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=7&z=2011-01-01&g=2011-01-01) vermelde gegevens van zaken waarvan het proces-verbaal door het openbaar ministerie of de procureur-generaal bij de Hoge Raad op grond van [artikel 76 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=76) in behandeling is genomen.
+Met betrekking tot misdrijven worden als justitiële gegevens aangemerkt de in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=6&z=2011-07-01&g=2011-07-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=7&z=2011-07-01&g=2011-07-01) vermelde gegevens van zaken waarvan het proces-verbaal door het openbaar ministerie of de procureur-generaal bij de Hoge Raad op grond van [artikel 76 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=76) in behandeling is genomen.
 
 ##### Artikel 3
 
 Met betrekking tot overtredingen worden als justitiële gegevens aangemerkt:
 
-- a. de in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=6&z=2011-01-01&g=2011-01-01) en [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=7&z=2011-01-01&g=2011-01-01), vermelde gegevens van zaken waarin het openbaar ministerie een beslissing tot afdoening van de zaak heeft genomen met uitzondering van de beslissing tot uitvaardiging van een strafbeschikking waarin uitsluitend een geldboete wordt opgelegd die minder dan € 100,– beloopt alsmede de beslissing tot niet verdere vervolging van de zaak, tenzij voorwaarden zijn gesteld aan laatstgenoemde beslissing;
+- a. de in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=6&z=2011-07-01&g=2011-07-01) en [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=7&z=2011-07-01&g=2011-07-01), vermelde gegevens van zaken waarin het openbaar ministerie een beslissing tot afdoening van de zaak heeft genomen met uitzondering van de beslissing tot uitvaardiging van een strafbeschikking waarin uitsluitend een geldboete wordt opgelegd die minder dan € 100,– beloopt alsmede de beslissing tot niet verdere vervolging van de zaak, tenzij voorwaarden zijn gesteld aan laatstgenoemde beslissing;
 
-- b. de in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=6&z=2011-01-01&g=2011-01-01) en [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=7&z=2011-01-01&g=2011-01-01), vermelde gegevens van zaken waarin de rechter een al dan niet herroepelijke beslissing heeft genomen voorzover een taakstraf of een vrijheidsstraf, anders dan vervangende, is opgelegd of een geldboete van minimaal € 100,– alsmede de zaken waarin een bijkomende straf is opgelegd.
+- b. de in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=6&z=2011-07-01&g=2011-07-01) en [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=7&z=2011-07-01&g=2011-07-01), vermelde gegevens van zaken waarin de rechter een al dan niet herroepelijke beslissing heeft genomen voorzover een taakstraf of een vrijheidsstraf, anders dan vervangende, is opgelegd of een geldboete van minimaal € 100,– alsmede de zaken waarin een bijkomende straf is opgelegd.
 
 ##### Artikel 4
 
-1. In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=3&z=2011-01-01&g=2011-01-01) worden met betrekking tot de in het tweede lid genoemde overtredingen als justitiële gegevens aangemerkt de in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=6&z=2011-01-01&g=2011-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=7&z=2011-01-01&g=2011-01-01) vermelde gegevens van zaken waarvan het proces-verbaal door het openbaar ministerie in behandeling is genomen.
+1. In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=3&z=2011-07-01&g=2011-07-01) worden met betrekking tot de in het tweede lid genoemde overtredingen als justitiële gegevens aangemerkt de in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=6&z=2011-07-01&g=2011-07-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=7&z=2011-07-01&g=2011-07-01) vermelde gegevens van zaken waarvan het proces-verbaal door het openbaar ministerie in behandeling is genomen.
 
 2. De overtredingen, bedoeld in het eerste lid, zijn:
 
@@ -102,19 +102,23 @@ Met betrekking tot overtredingen worden als justitiële gegevens aangemerkt:
 
 - i. de overtreding van [artikel 107, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=107);
 
-- j. de overtreding van de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=19), [20, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=20), [21, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=21), en [62 van het Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=62) juncto bord A1 of A3 van bijlage 1 voorzover het betreft motorrijtuigen, elk indien de maximumsnelheid met meer dan dertig kilometer per uur is overschreden;
+- j. de overtreding van [artikel 110, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=110), voor zover de overtreding is gepleegd met een voertuig voor het besturen waarvan een rijbewijs is vereist;
 
-- k. de overtreding van [artikel 8.06, eerste lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=8.06) en [artikel 5.01 Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=5.01) juncto verkeersteken B6 of een bekendmaking met dezelfde strekking als een verkeersteken als bedoeld in [artikel 13 Besluit administratieve bepalingen scheepvaartverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0006309&artikel=13) voorzover het betreft kleine schepen, elk indien de maximumsnelheid met meer dan vijfentwintig kilometer per uur is overschreden;
+- k. de overtreding van [artikel 5.6.8, eerste lid, Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.6.8), indien de maximumconstructiesnelheid met meer dan 15 kilometer per uur is overschreden;
 
-- l. de overtredingen van de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823);
+- l. de overtreding van de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=19), [20, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=20), [21, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=21), [22, aanhef en onder a, b, d, e, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=22) en [62](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=62) juncto bord A1 of A3 van [bijlage 1, van het Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1), voor zover voor de overtreding geen administratiefrechtelijke sanctie wordt opgelegd;
 
-- m. de overtredingen van de [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469);
+- m. de overtreding van [artikel 8.06, eerste lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=8.06) en [artikel 5.01 Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=5.01) juncto verkeersteken B6 of een bekendmaking met dezelfde strekking als een verkeersteken als bedoeld in [artikel 13 Besluit administratieve bepalingen scheepvaartverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0006309&artikel=13) voorzover het betreft kleine schepen, elk indien de maximumsnelheid met meer dan vijfentwintig kilometer per uur is overschreden;
 
-- n. de overtredingen van de [Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804);
+- n. de overtredingen van de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823);
 
-- o. de overtredingen van de [Drank- en Horecawet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458);
+- o. de overtredingen van de [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469);
 
-- p. de overtredingen van de [Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640).
+- p. de overtredingen van de [Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804);
+
+- q. de overtredingen van de [Drank- en Horecawet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458);
+
+- r. de overtredingen van de [Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640).
 
 3. Het eerste lid is van overeenkomstige toepassing op zaken die door de procureur-generaal bij de Hoge Raad in behandeling zijn genomen en waarvan de Hoge Raad ingevolge [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=76) in eerste instantie en tevens in hoogste ressort kennis neemt.
 
@@ -122,7 +126,9 @@ Met betrekking tot overtredingen worden als justitiële gegevens aangemerkt:
 
 1. Als justitiële gegevens worden aangemerkt de strafbeschikkingen uitgevaardigd op grond van [artikel 257b van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257b), met uitzondering van de met betrekking tot overtredingen uitgevaardigde strafbeschikkingen waarin een geldboete wordt opgelegd die minder dan € 100 beloopt.
 
-2. [Artikel 7, eerste lid, onderdelen c en h](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=7&z=2011-01-01&g=2011-01-01), is van overeenkomstige toepassing.
+2. Als justitiële gegevens worden aangemerkt de strafbeschikkingen terzake van misdrijven, uitgevaardigd krachtens de [artikelen 76 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=76) en [10:15 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:15).
+
+3. [Artikel 7, eerste lid, onderdelen c en h](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=7&z=2011-07-01&g=2011-07-01), is van overeenkomstige toepassing.
 
 ##### Artikel 6
 
@@ -156,7 +162,7 @@ Met betrekking tot overtredingen worden als justitiële gegevens aangemerkt:
 
 ##### Artikel 7
 
-1. Voorzover van toepassing worden als justitiële gegevens als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=2&z=2011-01-01&g=2011-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=3&z=2011-01-01&g=2011-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=4&z=2011-01-01&g=2011-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=9&z=2011-01-01&g=2011-01-01) aangemerkt:
+1. Voorzover van toepassing worden als justitiële gegevens als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=2&z=2011-07-01&g=2011-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=3&z=2011-07-01&g=2011-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=4&z=2011-07-01&g=2011-07-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=9&z=2011-07-01&g=2011-07-01) aangemerkt:
 
 - a. alle beslissingen die door het openbaar ministerie of de rechter zijn genomen, met uitzondering van:
 
@@ -228,7 +234,7 @@ Met betrekking tot overtredingen worden als justitiële gegevens aangemerkt:
 
 - l. de datum van invrijheidstelling.
 
-2. Als justitiële gegevens als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=2&z=2011-01-01&g=2011-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=4&z=2011-01-01&g=2011-01-01), worden voorts aangemerkt:
+2. Als justitiële gegevens als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=2&z=2011-07-01&g=2011-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=4&z=2011-07-01&g=2011-07-01), worden voorts aangemerkt:
 
 - a. het arrondissementsparket of ressortsparket dat de zaak in behandeling heeft genomen;
 
@@ -246,7 +252,7 @@ Met betrekking tot overtredingen worden als justitiële gegevens aangemerkt:
 
 - c. de wijziging of de herroeping van een besluit tot het verlenen van gratie.
 
-2. Bij de toepassing van de [Wet overdracht tenuitvoerlegging strafvonnissen](https://wetten.overheid.nl/jci1.3:c:BWBR0004028) worden als justitiële gegevens tevens aangemerkt de in een andere Staat dan Nederland genomen beslissing als gevolg waarvan het recht tot tenuitvoerlegging in Nederland van een door de rechter van die Staat gewezen veroordeling geheel of gedeeltelijk is komen te vervallen. [Artikel 7, eerste lid, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=7&z=2011-01-01&g=2011-01-01), is van overeenkomstige toepassing.
+2. Bij de toepassing van de [Wet overdracht tenuitvoerlegging strafvonnissen](https://wetten.overheid.nl/jci1.3:c:BWBR0004028) worden als justitiële gegevens tevens aangemerkt de in een andere Staat dan Nederland genomen beslissing als gevolg waarvan het recht tot tenuitvoerlegging in Nederland van een door de rechter van die Staat gewezen veroordeling geheel of gedeeltelijk is komen te vervallen. [Artikel 7, eerste lid, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=7&z=2011-07-01&g=2011-07-01), is van overeenkomstige toepassing.
 
 ##### Artikel 9
 
@@ -254,7 +260,7 @@ Met betrekking tot overtredingen worden als justitiële gegevens aangemerkt:
 
 2. Het eerste lid is van overeenkomstige toepassing op strafrechtelijke afdoeningen van andere bevoegde autoriteiten die ter kennis zijn gekomen van Onze Minister en voorzover het feit waarvoor de straf is opgelegd in Nederland kan worden aangemerkt als een strafbaar feit.
 
-3. [Artikel 7, eerste lid, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=7&z=2011-01-01&g=2011-01-01), is van overeenkomstige toepassing.
+3. [Artikel 7, eerste lid, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=7&z=2011-07-01&g=2011-07-01), is van overeenkomstige toepassing.
 
 ### Afdeling 2. Afkomst justitiële gegevens
 
@@ -288,19 +294,19 @@ Justitiële gegevens, bedoeld in de [artikelen 10](https://wetten.overheid.nl/jc
 
 ##### Artikel 12
 
-Justitiële gegevens als bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=11) of [12 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=12) worden desgevraagd verstrekt aan:
+1. Justitiële gegevens als bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=11) of [12 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=12) worden desgevraagd verstrekt aan:
 
 - a. Onze Minister ten behoeve van het geven van een positieve of negatieve verklaring aan buitenlandse autoriteiten over te verlenen visa;
 
-- b. Onze Minister ten behoeve van het geven van een positieve of negatieve verklaring aan buitenlandse autoriteiten voor deelname aan programma’s voor geautomatiseerde grenspassage van andere landen;
+- b. Onze Minister ten behoeve van het verstrekken van bepaalde inlichtingen aan buitenlandse autoriteiten over aspirant-emigranten;
 
-- c. Onze Minister ten behoeve van het verstrekken van bepaalde inlichtingen aan buitenlandse autoriteiten over aspirant-emigranten;
+- c. de burgemeesters voorzover dit noodzakelijk is voor de uitoefening van een wettelijke verplichting tot het geven van advies over een bepaald persoon aan een ander bestuursorgaan,
 
-- d. de burgemeesters voorzover dit noodzakelijk is voor de uitoefening van een wettelijke verplichting tot het geven van advies over een bepaald persoon aan een ander bestuursorgaan,
+- d. de burgemeesters, indien deze gegevens op grond van een zwaarwegend algemeen belang noodzakelijk zijn ten behoeve van het geven van advies aan een ander bestuursorgaan en het College bescherming persoonsgegevens ontheffing heeft verleend.
 
-- e. de burgemeesters, indien deze gegevens op grond van een zwaarwegend algemeen belang noodzakelijk zijn ten behoeve van het geven van advies aan een ander bestuursorgaan en het College bescherming persoonsgegevens ontheffing heeft verleend.
+2. Justitiële gegevens worden desgevraagd verstrekt aan Onze Minister ten behoeve van het geven van een positieve of negatieve verklaring aan buitenlandse autoriteiten voor deelname aan programma’s voor geautomatiseerde grenspassage van andere landen.
 
-#### Paragraaf 3. Verstrekking ten behoeve van het nemen van bestuursbesluiten
+#### Paragraaf 2. Verstrekking ten behoeve van advies
 
 ##### Artikel 13
 
@@ -340,7 +346,7 @@ Justitiële gegevens worden desgevraagd verstrekt aan het Bureau bevordering int
 
 Justitiële gegevens worden desgevraagd verstrekt aan:
 
-- a. Onze Minister ten behoeve van de afgifte van een verklaring van geen bezwaar in verband met de oprichting van een naamloze of besloten vennootschap;
+- a. Onze Minister ten behoeve van de controle van rechtspersonen met het oog op de voorkoming en bestrijding van misbruik van rechtspersonen, waaronder het plegen van misdrijven en overtredingen van financieel-economische aard door of door middel van deze rechtspersonen, bedoeld in [artikel 2, eerste lid, van de Wet controle op rechtspersonen](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&artikel=2);
 
 - b. Onze Minister en de burgemeesters voorzover dit noodzakelijk is in het kader van de beoordeling van een verzoek tot verkrijging van het Nederlanderschap op grond van de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738);
 
@@ -502,7 +508,7 @@ Justitiële gegevens worden ten behoeve van de toelating tot de inrichting van p
 
 ##### Artikel 28
 
-1. Er worden geen verstrekkingen als bedoeld in de [artikelen 23 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=23&z=2011-01-01&g=2011-01-01) gedaan dan nadat de persoon, instantie, dienst of organisatie die om de gegevens verzoekt een ondertekende verklaring van betrokkene heeft overgelegd waaruit blijkt dat hij toestemming voor de verstrekking geeft en op de hoogte is van de wijze waarop met de justitiële gegevens wordt omgegaan.
+1. Er worden geen verstrekkingen als bedoeld in de [artikelen 23 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=23&z=2011-07-01&g=2011-07-01) gedaan dan nadat de persoon, instantie, dienst of organisatie die om de gegevens verzoekt een ondertekende verklaring van betrokkene heeft overgelegd waaruit blijkt dat hij toestemming voor de verstrekking geeft en op de hoogte is van de wijze waarop met de justitiële gegevens wordt omgegaan.
 
 2. De persoon, instantie, dienst, college of organisatie die overeenkomstig deze paragraaf justitiële gegevens heeft ontvangen doet van deze gegevens en de gevolgen die de persoon, instantie, dienst of organisatie voornemens is daaraan te verbinden schriftelijk mededeling aan de betrokkene en stelt hem in het geval bedenkingen van hem zijn te verwachten, in de gelegenheid zijn zienswijze naar voren te brengen.
 
@@ -518,7 +524,7 @@ Justitiële gegevens worden ten behoeve van de toelating tot de inrichting van p
 
 - c. de voorzitters van de kamers van toezicht ten behoeve van het onderzoek naar de betrouwbaarheid en de geschiktheid van personen die in aanmerking willen komen voor een benoeming tot notaris;
 
-2. [Artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=28&z=2011-01-01&g=2011-01-01) is van overeenkomstige toepassing.
+2. [Artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=28&z=2011-07-01&g=2011-07-01) is van overeenkomstige toepassing.
 
 ##### Artikel 30
 
@@ -548,13 +554,13 @@ Justitiële gegevens worden ten behoeve van de toelating tot de inrichting van p
 
 2. Met het oog op de adviserende bevoegdheid, bedoeld in het eerste lid, onder c, onder 2° en onder d, kunnen justitiële gegevens betreffende misdrijven tegen de zeden, bedoeld in [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=4) worden verstrekt.
 
-3. In de gevallen, bedoeld in het eerste lid, onder b, onder c, onder 1°, en onder e, is [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=28&z=2011-01-01&g=2011-01-01) van overeenkomstige toepassing.
+3. In de gevallen, bedoeld in het eerste lid, onder b, onder c, onder 1°, en onder e, is [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=28&z=2011-07-01&g=2011-07-01) van overeenkomstige toepassing.
 
 ### Afdeling 3. Machtiging
 
 ##### Artikel 31
 
-1. De personen, instanties of colleges, bedoeld in [artikel 8, eerste en tweede lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=8) en in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=3&z=2011-01-01&g=2011-01-01), aan wie justitiële gegevens worden verstrekt kunnen onder hen ressorterend personeel machtigen tot het doen van een verzoek om justitiële gegevens. In dat geval wordt de machtiging in het verzoek om inlichtingen vermeld.
+1. De personen, instanties of colleges, bedoeld in [artikel 8, eerste en tweede lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=8) en in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=3&z=2011-07-01&g=2011-07-01), aan wie justitiële gegevens worden verstrekt kunnen onder hen ressorterend personeel machtigen tot het doen van een verzoek om justitiële gegevens. In dat geval wordt de machtiging in het verzoek om inlichtingen vermeld.
 
 2. In de gevallen waarin op grond van dit besluit de burgemeester bevoegd is om justitiële gegevens te vragen, kan hij de korpschef in wiens regio de gemeente is gelegen, machtigen tot het doen van een verzoek om de betreffende gegevens.
 
@@ -698,7 +704,7 @@ De gegevens die voor de inwerkingtreding van de wet overeenkomstig een wettelijk
 
 ##### Artikel 53
 
-Dit besluit treedt in werking op het tijdstip waarop de [Wet justitiële gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194) in werking treedt met uitzondering van [artikel 7, eerste lid, onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=7&z=2011-01-01&g=2011-01-01), dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip.
+Dit besluit treedt in werking op het tijdstip waarop de [Wet justitiële gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194) in werking treedt met uitzondering van [artikel 7, eerste lid, onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=7&z=2011-07-01&g=2011-07-01), dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 54
 
@@ -708,13 +714,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 10a
 
-1. De Justitiële Informatiedienst, bedoeld in [artikel 30b](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=30b&z=2011-01-01&g=2011-01-01), kan de centrale autoriteit van een andere lidstaat verzoeken justitiële gegevens te verstrekken.
+1. De Justitiële Informatiedienst, bedoeld in [artikel 30b](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=30b&z=2011-07-01&g=2011-07-01), kan de centrale autoriteit van een andere lidstaat verzoeken justitiële gegevens te verstrekken.
 
 2. Het verzoek wordt gedaan met gebruikmaking van het formulier, opgenomen in de bijlage bij het Besluit nr. 2005/876/JBZ van de Raad van de Europese Unie van 21 november 2005 inzake de uitwisseling van gegevens uit het strafregister (PbEU L 322).
 
 3. Het formulier, bedoeld in het tweede lid, is gesteld in de officiële taal of een van de officiële talen van de aangezochte lidstaat dan wel, indien die lidstaat zulks heeft aangegeven in een bij het secretariaat-generaal van de Raad van de Europese Unie neergelegde verklaring, in een van de andere officiële talen van de instellingen van de Europese Gemeenschappen.
 
-4. [Artikel 30f](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=30f&z=2011-01-01&g=2011-01-01) is van toepassing.
+4. [Artikel 30f](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=30f&z=2011-07-01&g=2011-07-01) is van toepassing.
 
 5. De op grond van een verzoek als bedoeld in het eerste lid verkregen justitiële gegevens worden niet voor een ander doel gebruikt dan waarvoor zij zijn verstrekt.
 
@@ -742,7 +748,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Ter uitvoering van een op een verdrag gegrond verzoek kunnen justitiële gegevens door tussenkomst van de officier van justitie aan de bevoegde buitenlandse autoriteiten worden verstrekt ten behoeve van strafrechtelijke doeleinden.
 
-#### Paragraaf 5. Verstrekkingen aan een lidstaat
+#### Paragraaf 4. Verstrekkingen aan het buitenland
 
 ##### Artikel 30b
 
@@ -764,13 +770,13 @@ De Justitiële Informatiedienst stelt de centrale autoriteit van een andere lids
 
 ##### Artikel 30e
 
-1. De Justitiële Informatiedienst onderzoekt de volledigheid van de bij de verzoeken, bedoeld in [artikel 30d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=30d&z=2011-01-01&g=2011-01-01), verstrekte gegevens met het oog op de verstrekking van de justitiële gegevens.
+1. De Justitiële Informatiedienst onderzoekt de volledigheid van de bij de verzoeken, bedoeld in [artikel 30d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=30d&z=2011-07-01&g=2011-07-01), verstrekte gegevens met het oog op de verstrekking van de justitiële gegevens.
 
 2. Indien de Justitiële Informatiedienst nadere gegevens nodig heeft met het oog op de deugdelijke vaststelling van de identiteit van de persoon op wie het verzoek betrekking heeft, pleegt hij onverwijld overleg met de centrale autoriteit die het verzoek heeft gedaan teneinde binnen tien werkdagen na de dag waarop de aanvullende informatie is verkregen, een antwoord te kunnen verzenden.
 
 ##### Artikel 30f
 
-De toezending van verzoeken, antwoorden en andere relevante gegevens als bedoeld in de [artikelen 30c](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=30c&z=2011-01-01&g=2011-01-01), [30d](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=30d&z=2011-01-01&g=2011-01-01) en [30e](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=30e&z=2011-01-01&g=2011-01-01) kan plaatsvinden via elk communicatiemiddel op elke wijze die de mogelijkheid biedt een schriftelijk document over te leggen op grond waarvan de ontvangende lidstaat de echtheid kan vaststellen.
+De toezending van verzoeken, antwoorden en andere relevante gegevens als bedoeld in de [artikelen 30c](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=30c&z=2011-07-01&g=2011-07-01), [30d](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=30d&z=2011-07-01&g=2011-07-01) en [30e](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=30e&z=2011-07-01&g=2011-07-01) kan plaatsvinden via elk communicatiemiddel op elke wijze die de mogelijkheid biedt een schriftelijk document over te leggen op grond waarvan de ontvangende lidstaat de echtheid kan vaststellen.
 
 ### Afdeling 3. Machtiging
 
@@ -779,6 +785,54 @@ De toezending van verzoeken, antwoorden en andere relevante gegevens als bedoeld
 ### Hoofdstuk 5. Afkomst van de rapporten die persoonsdossiers vormen
 
 ### Hoofdstuk 6. Kosten
+
+### Hoofdstuk 6. Kosten
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 11a
+
+1. Ten behoeve van de handhaving van de openbare orde in verband met de terugkeer van de betrokkene in de maatschappij kan Onze Minister, aan de burgemeester of de door hem aangewezen ambtenaar justitiële gegevens als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=6&z=2011-07-01&g=2011-07-01), en [artikel 7, eerste lid, onder a, b, c, d, f, j, k en l](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=7&z=2011-07-01&g=2011-07-01), verstrekken van natuurlijke personen die onherroepelijk zijn veroordeeld tot:
+
+- a. een onvoorwaardelijke vrijheidsbenemende straf of vrijheidsbenemende maatregel ter zake van een misdrijf bedoeld in de volgende artikelen van het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854):
+
+- 1°. [240b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=240b), [242 tot en met 247](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=242), [248a tot en met 248e](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=248a), [249](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=249), [250](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=250), [250a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=250a) (oud), [252, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=252), [273a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=273a) (oud), [273f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=273f), [282](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=282), [282a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=282a), [282b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=282b), [287](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=287), [288](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=288), [288a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=288a) en [289](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=289);
+
+- 2°. [141, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=141), [302](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=302) en [303](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=303), indien het onvoorwaardelijk deel van de opgelegde vrijheidsbenemende straf of maatregel een jaar of langer beloopt.
+
+- b. de maatregel bedoeld in [artikel 37a van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37a);
+
+- c. de maatregel bedoeld in [artikel 77s van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77s), indien deze verlengd kan worden op grond van [artikel 77t, derde lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77t).
+
+2. Ten behoeve van het verstrekken van informatie aan de burgemeester ten behoeve van de handhaving van de openbare orde in verband met de terugkeer van de betrokkene in de maatschappij kan Onze Minister van de in het eerste lid bedoelde natuurlijke personen de justitiële gegevens, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=6&z=2011-07-01&g=2011-07-01), en [artikel 7, eerste lid, onder a, b, c, d, f, j, k en l](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=7&z=2011-07-01&g=2011-07-01), verstrekken aan binnen het Korps landelijke politiediensten aangewezen opsporingsambtenaren.
+
+3. De justitiële gegevens worden niet eerder verstrekt dan drie maanden voor het moment van de verwachte, al dan niet tijdelijke, terugkeer van de betrokkene in de maatschappij.
+
+4. De burgemeester vernietigt de op grond van het eerste lid verstrekte justitiële gegevens uiterlijk negen maanden na de datum van de verstrekking, indien niet tot het treffen van maatregelen is besloten. Indien tot het treffen van maatregelen is besloten, verwijdert de burgemeester de op grond van het eerste lid verstrekte justitiële gegevens uiterlijk negen maanden na de datum van de verstrekking. De verwijderde gegevens worden gedurende een termijn van vijf jaar bewaard ten behoeve van het afleggen van verantwoording, waarna de gegevens worden vernietigd.
+
+5. Het eerste lid, onder a en b, is niet van toepassing op personen op wie [Titel VIIIA van het Eerste Boek van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&titeldeel=VIII_A) is toegepast.
+
+#### Paragraaf 3. Verstrekking ten behoeve van het nemen van bestuursbesluiten
+
+### Afdeling 2. Verstrekking van de gegevens in algemene zin
+
+#### Paragraaf 1. Verstrekking ten behoeve van het uitoefenen van de taak
+
+##### Artikel 22a
+
+Justitiële gegevens van degene die in het bezit is van de chauffeurspas, bedoeld in [artikel 75 van het Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=75), worden ambtshalve verstrekt aan Onze Minister. Onze Minister verstrekt de justitiële gegevens als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=6&z=2011-07-01&g=2011-07-01), en [artikel 7, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&hoofdstuk=2&afdeling=1&artikel=7&z=2011-07-01&g=2011-07-01), terzake van de strafbare feiten die van belang zijn voor de beoordeling van een met het oog op het uitoefenen van het beroep van taxichauffeur aangevraagde verklaring omtrent het gedrag, verder aan de Minister van Infrastructuur en Milieu, met het oog op toepassing van [artikel 77 van het Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=77).
+
+#### Paragraaf 2. Verstrekking ten behoeve van het aannemen en ontslag van personeel
+
+#### Paragraaf 3. Verstrekking ten behoeve van advies, aanbeveling of voordracht van personen
+
+#### Paragraaf 5. Verstrekkingen aan een lidstaat
+
+### Afdeling 3. Machtiging
+
+### Hoofdstuk 4. De verklaring omtrent het gedrag
+
+### Hoofdstuk 5. Afkomst van de rapporten die persoonsdossiers vormen
 
 ### Hoofdstuk 7. Overgangs- en slotbepalingen
 
