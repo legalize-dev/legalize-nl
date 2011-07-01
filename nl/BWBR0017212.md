@@ -4,7 +4,7 @@ identifier: "BWBR0017212"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2010-10-01"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017212"
 soort: "wet"
@@ -76,7 +76,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 3
 
-1. Het bevel, bedoeld in [artikel 2, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0017212&artikel=2&z=2010-10-01&g=2010-10-01), is gedagtekend en ondertekend en bevat de plaats waar en de datum en het tijdstip waarop het bevel ten uitvoer zal worden gelegd.
+1. Het bevel, bedoeld in [artikel 2, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0017212&artikel=2&z=2011-07-01&g=2011-07-01), is gedagtekend en ondertekend en bevat de plaats waar en de datum en het tijdstip waarop het bevel ten uitvoer zal worden gelegd.
 
 2. Het bevel omschrijft het misdrijf waarvoor de betrokken persoon is veroordeeld en vermeldt de strafbeschikking of het vonnis of arrest waarbij de veroordeling heeft plaatsgevonden.
 
@@ -94,17 +94,17 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. Celmateriaal wordt slechts van de aangehouden persoon afgenomen, nadat van hem een of meer vingerafdrukken overeenkomstig het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) zijn genomen en verwerkt en de opsporingsambtenaar zijn identiteit heeft vastgesteld op de wijze, bedoeld in [artikel 27a, eerste lid, eerste volzin, en tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=27a).
 
-4. Indien de aangehouden persoon ontkent de persoon te zijn tegen wie het bevel, bedoeld in [artikel 2, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0017212&artikel=2&z=2010-10-01&g=2010-10-01), is gericht, of indien over zijn identiteit twijfel bestaat, is de opsporingsambtenaar bevoegd de aangehouden persoon, voor zover dat noodzakelijk is voor de vaststelling van zijn identiteit, aan zijn kleding te onderzoeken, alsmede voorwerpen die hij bij zich draagt of met zich meevoert te onderzoeken. [Artikel 55b van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=55b) is van overeenkomstige toepassing.
+4. Indien de aangehouden persoon ontkent de persoon te zijn tegen wie het bevel, bedoeld in [artikel 2, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0017212&artikel=2&z=2011-07-01&g=2011-07-01), is gericht, of indien over zijn identiteit twijfel bestaat, is de opsporingsambtenaar bevoegd de aangehouden persoon, voor zover dat noodzakelijk is voor de vaststelling van zijn identiteit, aan zijn kleding te onderzoeken, alsmede voorwerpen die hij bij zich draagt of met zich meevoert te onderzoeken. [Artikel 55b van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=55b) is van overeenkomstige toepassing.
 
 5. Voorzover noodzakelijk voor de vaststelling van zijn identiteit, kan de aangehouden persoon op bevel van de officier van justitie voor ten hoogste zes uren worden opgehouden, met dien verstande dat de tijd tussen middernacht en negen uur 's morgens niet wordt meegerekend. Het bevel tot ophouding is schriftelijk en bevat de reden van ophouding. Het bevel wijst de aangehouden persoon, aan wie onverwijld een afschrift van het bevel wordt uitgereikt, zo duidelijk mogelijk aan. De officier van justitie kan ten aanzien van de opgehouden persoon maatregelen ter vaststelling van zijn identiteit bevelen. Als zodanige maatregelen worden aangemerkt de maatregelen, bedoeld in [artikel 55c, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=55c). Indien noodzakelijk voor de vaststelling van de identiteit van de aangehouden persoon, kan de officier van justitie schriftelijk bevelen dat de termijn van zes uren eenmaal met ten hoogste zes uren wordt verlengd.
 
-6. Het bevel, bedoeld in [artikel 2, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0017212&artikel=2&z=2010-10-01&g=2010-10-01), wordt zo spoedig mogelijk na de aanhouding van de veroordeelde ten uitvoer gelegd.
+6. Het bevel, bedoeld in [artikel 2, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0017212&artikel=2&z=2011-07-01&g=2011-07-01), wordt zo spoedig mogelijk na de aanhouding van de veroordeelde ten uitvoer gelegd.
 
 7. Voor de tenuitvoerlegging van het bevel mag de aangehouden veroordeelde wiens identiteit is vastgesteld, niet langer dan zes uren worden opgehouden, met dien verstande dat de tijd tussen middernacht en negen uur 's morgens niet wordt meegerekend.
 
 ##### Artikel 5
 
-1. Het bevel, bedoeld in [artikel 2, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0017212&artikel=2&z=2010-10-01&g=2010-10-01), wordt ten uitvoer gelegd door afname van wangslijmvlies. Indien afname van wangslijmvlies om bijzondere geneeskundige redenen of vanwege het verzet van de veroordeelde onwenselijk is dan wel geen geschikt celmateriaal oplevert, wordt bloed afgenomen of worden haarwortels afgenomen, zo nodig met behulp van de sterke arm of, voorzover de veroordeelde in een inrichting, niet zijnde een psychiatrisch ziekenhuis, verblijft, de functionaris, bedoeld in [artikel 1, onder d, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=1), [artikel 1, onder h, van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=1) of [artikel 1, onder h, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=1).
+1. Het bevel, bedoeld in [artikel 2, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0017212&artikel=2&z=2011-07-01&g=2011-07-01), wordt ten uitvoer gelegd door afname van wangslijmvlies. Indien afname van wangslijmvlies om bijzondere geneeskundige redenen of vanwege het verzet van de veroordeelde onwenselijk is dan wel geen geschikt celmateriaal oplevert, wordt bloed afgenomen of worden haarwortels afgenomen, zo nodig met behulp van de sterke arm of, voorzover de veroordeelde in een inrichting, niet zijnde een psychiatrisch ziekenhuis, verblijft, de functionaris, bedoeld in [artikel 1, onder d, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=1), [artikel 1, onder h, van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=1) of [artikel 1, onder i, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=1).
 
 2. Het celmateriaal wordt door een arts of een verpleegkundige afgenomen. In bij algemene maatregel van bestuur te bepalen gevallen kan het celmateriaal worden afgenomen door een persoon die voldoet aan bij of krachtens algemene maatregel van bestuur te stellen eisen.
 
@@ -112,7 +112,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 6
 
-1. Indien de officier van justitie oordeelt dat zich zwaarwegende redenen voordoen om het DNA-onderzoek aan ander celmateriaal van de veroordeelde dan afgenomen celmateriaal te laten plaatsvinden, kan hij een opsporingsambtenaar of de functionaris, bedoeld in [artikel 1, onder d, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=1), [artikel 1, onder g, van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=1) of [artikel 1, onder h, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=1), opdragen voorwerpen in beslag te nemen waarop vermoedelijk celmateriaal van de veroordeelde aanwezig is.
+1. Indien de officier van justitie oordeelt dat zich zwaarwegende redenen voordoen om het DNA-onderzoek aan ander celmateriaal van de veroordeelde dan afgenomen celmateriaal te laten plaatsvinden, kan hij een opsporingsambtenaar of de functionaris, bedoeld in [artikel 1, onder d, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=1), [artikel 1, onder g, van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=1) of [artikel 1, onder i, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=1), opdragen voorwerpen in beslag te nemen waarop vermoedelijk celmateriaal van de veroordeelde aanwezig is.
 
 2. Voorzover noodzakelijk voor de inbeslagneming van voorwerpen waarop vermoedelijk celmateriaal van de veroordeelde aanwezig is, kan de officier van justitie de woning van de veroordeelde zonder toestemming van de bewoner betreden en doorzoeken. [Artikel 99, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=99) is van overeenkomstige toepassing.
 
@@ -122,7 +122,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 7
 
-1. De veroordeelde kan tegen het bepalen en verwerken van zijn DNA-profiel, binnen veertien dagen na de dag waarop zijn celmateriaal is afgenomen onderscheidenlijk de dag waarop de mededeling, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017212&artikel=6&z=2010-10-01&g=2010-10-01), is betekend, een bezwaarschrift indienen bij de rechtbank die in eerste aanleg vonnis heeft gewezen, dan wel de rechtbank in het arrondissement waar tegen de strafbeschikking verzet had kunnen worden gedaan. De [zesde afdeling van Titel I van het Eerste Boek van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&afdeling=Zesde) is van overeenkomstige toepassing.
+1. De veroordeelde kan tegen het bepalen en verwerken van zijn DNA-profiel, binnen veertien dagen na de dag waarop zijn celmateriaal is afgenomen onderscheidenlijk de dag waarop de mededeling, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017212&artikel=6&z=2011-07-01&g=2011-07-01), is betekend, een bezwaarschrift indienen bij de rechtbank die in eerste aanleg vonnis heeft gewezen, dan wel de rechtbank in het arrondissement waar tegen de strafbeschikking verzet had kunnen worden gedaan. De [zesde afdeling van Titel I van het Eerste Boek van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&afdeling=Zesde) is van overeenkomstige toepassing.
 
 2. Het bezwaarschrift is met redenen omkleed.
 
@@ -158,7 +158,7 @@ Wijzigt de Penitentiaire beginselenwet, de Beginselenwet verpleging ter beschikk
 
 ##### Artikel 13
 
-DNA-profielen van veroordeelden die voor de inwerkingtreding van deze wet op grond van [artikel 23, eerste lid, onder a, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=23) zijn verwerkt, worden geacht te zijn verwerkt op grond van [artikel 2, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0017212&artikel=2&z=2010-10-01&g=2010-10-01), voorzover deze veroordeelden op het tijdstip van inwerkingtreding van deze wet een straf of maatregel als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017212&artikel=8&z=2010-10-01&g=2010-10-01) ondergaan.
+DNA-profielen van veroordeelden die voor de inwerkingtreding van deze wet op grond van [artikel 23, eerste lid, onder a, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=23) zijn verwerkt, worden geacht te zijn verwerkt op grond van [artikel 2, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0017212&artikel=2&z=2011-07-01&g=2011-07-01), voorzover deze veroordeelden op het tijdstip van inwerkingtreding van deze wet een straf of maatregel als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017212&artikel=8&z=2011-07-01&g=2011-07-01) ondergaan.
 
 ##### Artikel 14
 
