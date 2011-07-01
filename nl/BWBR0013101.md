@@ -4,7 +4,7 @@ identifier: "BWBR0013101"
 country: "nl"
 rank: "wet"
 publication_date: "2011-07-01"
-last_updated: "2002-01-01"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013101"
 soort: "wet"
@@ -563,29 +563,7 @@ Wijzigt de Invoeringswet Wet structuur uitvoeringsorganisatie werk en inkomen.
 
 ##### Artikel 3
 
-Indien voor de inwerkingtreding van het wetsvoorstel Organisatie en bestuur gerechten geen voorstel van wet tot regeling van de behandeling van klachten tegen gedragingen van rechterlijke ambtenaren en gerechtsambtenaren door een niet tot de rechterlijke macht behorende instantie tot wet is verheven, blijven ten aanzien van de leden en de plaatsvervangende leden van:
-
-- a. de Commissie gelijke behandeling, bedoeld in de[Wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502);
-
-- b. het tuchtcollege loodsen, bedoeld in de [Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365);
-
-- c. de regionale tuchtcolleges en het centrale tuchtcollege, bedoeld in de [Wet beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251);
-
-- d. het veterinair tuchtcollege, bedoeld in de [Wet op de uitoefening van de diergeneeskunde 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004730);
-
-- e. de raden van discipline, bedoeld in de [Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093);
-
-- f. het hof van discipline, bedoeld in de [Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093);
-
-- g. de raden van tucht, bedoeld in de [Wet op de accountants-adminstratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856);
-
-- h. de kamer van toezicht, bedoeld in de [Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388); en
-
-- i. de kamer voor de gerechtsdeurwaarders, bedoeld in de [Gerechtsdeurwaarderswet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197); de [artikelen 14a tot en met 14e van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=14a), zoals deze luidden voor de inwerkingtreding van het wetsvoorstel Organisatie en bestuur gerechten, van toepassing, met dien verstande dat voor de toepassing van artikel 14d, derde lid:
-
-- 1°. de Hoge Raad de voorzitter van de onder a genoemde Commissie, de onder b, c of d genoemde tuchtcolleges, de onder e genoemde raad van discipline, het onder f genoemde hof van discipline dan wel de onder g genoemde raad van tucht in de gelegenheid stelt schriftelijk of mondeling inlichtingen te verstrekken en van zijn gevoelen te doen blijk geven omtrent een aanhangige klacht, indien de klacht is gericht tegen een van de andere leden of plaatsvervangende leden van die Commissie, de desbetreffende raad van discipline, de desbetreffende raad van tucht, het desbetreffende tuchtcollege onderscheidenlijk het hof van discipline; en
-
-- 2°. de Hoge Raad de voorzitter van de desbetreffende, onder h genoemde, kamer van toezicht, of de voorzitter van de onder i genoemde kamer voor gerechtsdeurwaarders in de gelegenheid stelt schriftelijk of mondeling inlichtingen te verstrekken en van zijn gevoelen te doen blijk geven omtrent een aanhangige klacht, indien de klacht is gericht tegen een van de andere leden van de kamer van toezicht, of van de kamer voor gerechtsdeurwaarders, en dat deze gelegenheid wordt geboden aan het bestuur van het gerechtshof te Amsterdam, indien de klacht is gericht tegen een voorzitter van een kamer van toezicht of van een kamer van gerechtsdeurwaarders of tegen de kamer van toezicht of tegen de kamer van gerechtsdeurwaarders als zodanig.
+Vervallen
 
 ##### Artikel 4
 
