@@ -4,7 +4,7 @@ identifier: "BWBR0030688"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2011-01-01"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030688"
 soort: "wet"
@@ -78,7 +78,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet belastingen op milieugrondslag.
 
 ##### Artikel X
 
