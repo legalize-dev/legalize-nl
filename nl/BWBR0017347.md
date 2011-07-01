@@ -4,7 +4,7 @@ identifier: "BWBR0017347"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2008-08-01"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017347"
 soort: "AMvB"
@@ -51,9 +51,9 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. wet: de [Wet documentatie vennootschappen](onbekend);
+- a. wet: de [Wet controle op rechtspersonen](https://wetten.overheid.nl/jci1.3:c:BWBR0015049);
 
-- b. relevant strafbaar feit: een strafbaar feit dat verband houdt met het doel of de werkzaamheid van de vennootschap;
+- b. relevant strafbaar feit: een strafbaar feit dat verband houdt met het doel of de werkzaamheid van de rechtspersoon;
 
 - c. transactie: het voldoen aan voorwaarden ter voorkoming van strafvervolging, als bedoeld in [artikel 74 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74) en in de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=36) en [37 van de Wet economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=37).
 
@@ -61,53 +61,45 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-Als bestuursorganen of diensten die zijn belast met de opsporing van strafbare feiten of met het toezicht op financiële instellingen als bedoeld in [artikel 3, tweede lid, onder f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&artikel=3), worden aangewezen:
+Als bestuursorganen of diensten die zijn belast met de opsporing van strafbare feiten of met het toezicht op financiële instellingen, bedoeld in [artikel 3, tweede lid, onder e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&artikel=3), worden aangewezen:
 
-- a. de Algemene Inspectiedienst van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;
+- a. de Algemene Inspectiedienst van het Ministerie van Economische Zaken, Landbouw en Innovatie;
 
 - b. de Autoriteit Financiële Markten;
 
-- c. de Belastingdienst FIOD-ECD;
+- c. de bestuursorganen die op grond van de Wet milieubeheer of op grond van [Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779) bevoegd zijn tot het geven van een beschikking of het nemen van een ander besluit en de beheerders in de zin van [artikel 1.1, eerste lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=1.1);
 
-- d. de Belastingdienst Douane;
+- d. de bijzondere opsporingsdiensten, bedoeld in [artikel 2 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2);
 
-- e. de Dienst Nationale Recherche;
+- e. De Nederlandsche Bank N.V.;
 
-- f. de Inlichtingen- en Opsporingsdienst van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
+- f. de Dienst Wegverkeer;
 
-- g. Interregionale Fraudeteams;
+- g. het openbaar ministerie;
 
-- h. de Koninklijke Marechaussee;
+- h. de Onafhankelijke post- en telecommunicatieautoriteit;
 
-- i. de Milieudienst Rijnmond;
+- i. Onze Minister van Sociale Zaken en Werkgelegenheid, ten behoeve van de door hem aangewezen toezichthouders, bedoeld in de [Aanwijzingsregeling toezichthoudende ambtenaren en ambtenaren met specifieke uitvoeringstaken op grond van SZW wetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0011673);
 
-- j. De Nederlandsche Bank N.V.;
+- j. de Voedsel- en Warenautoriteit;
 
-- k. het openbaar ministerie;
-
-- l. de politie;
-
-- m. Regionale Interdisciplinaire Fraudeteams;
-
-- n. de rijksbelastingdienst en
-
-- o. de Sociale Inlichtingen- en Opsporingsdienst van het Ministerie van Sociale Zaken en Werkgelegenheid.
+- k. de VROM-Inspectie.
 
 #### Paragraaf 3. De inhoud van de registratie
 
 ##### Artikel 3
 
-1. Over de personen, bedoeld in [artikel 4, eerste lid, van de wet](onbekend), voor zover het natuurlijke personen betreft, kunnen de volgende gegevens dan wel categorieën van gegevens in de registratie worden opgenomen:
+Over de personen, bedoeld in [artikel 4, eerste, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&artikel=4), kunnen, voor zover het natuurlijke personen betreft, slechts de volgende gegevens of categorieën van gegevens in de registratie worden opgenomen:
 
 - a. de geslachtsnaam en voorvoegsels;
 
 - b. de voornaam of voornamen;
 
-- c. het adres;
+- c. het adres, de postcode en de woon- of verblijfplaats;
 
 - d. de geboorteplaats en het geboorteland;
 
-- e. de geboortedatum of, indien onbekend, het geboortejaar;
+- e. de geboortedatum, of bij gebrek aan een volledige datum, het geboortejaar;
 
 - f. de nationaliteit;
 
@@ -115,93 +107,101 @@ Als bestuursorganen of diensten die zijn belast met de opsporing van strafbare f
 
 - h. de samenlevingsvorm;
 
-- i. persoonsidentificerende nummers;
+- i. het burgerservicenummer, of bij gebrek aan een burgerservicenummer, het sofi-nummer van de persoon;
 
-- j. de gevolgde opleidingen;
+- j. de naam of de handelsnaam waaronder de persoon handelt en de ondernemingen en rechtspersonen waarbij de persoon blijkens het handelsregister betrokken is;
 
-- k. het beroep;
+- k. justitiële gegevens in de zin van [artikel 1, onder a, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=1) met betrekking tot de persoon;
 
-- l. de naam waaronder de persoon handelt en
+- l. gegevens met betrekking tot rechterlijke uitspraken die betrekking hebben op een faillissement, een surseance van betaling of de toepassing van een schuldsaneringsregeling waarbij sprake is van de betrokkenheid van de persoon;
 
-- m. het arbeidsverleden.
+- m. andere openbare gegevens;
 
-2. Over de personen, bedoeld in [artikel 4, eerste lid, van de wet](onbekend), voor zover het rechtspersonen betreft, kunnen de volgende gegevens dan wel categorieën van gegevens in de registratie worden opgenomen:
+- n. gevolgde opleidingen;
 
-- a. de statutaire naam en de handelsnaam of handelsnamen;
+- o. het beroep en het arbeidsverleden;
+
+- p. gegevens met betrekking tot betalingsachterstanden bij de rijksbelastingdienst;
+
+- q. faillissementsverslagen;
+
+- r. gegevens met betrekking tot toezichtshandelingen en bestuurlijke sancties jegens de desbetreffende persoon, afkomstig van de bestuursorganen en diensten, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017347&paragraaf=2&artikel=2&z=2011-07-01&g=2011-07-01);
+
+- s. strafvorderlijke gegevens in de zin van [artikel 1, onder b, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=1) alsmede vonnissen in strafzaken met betrekking tot de persoon, en,
+
+- t. andere gegevens die reden geven om aan te nemen dat een rechtspersoon waarbij de desbetreffende persoon betrokkenheid heeft wordt gebruikt voor ongeoorloofde doeleinden of dat haar werkzaamheden leiden tot benadeling van schuldeisers of rechthebbenden.
+
+##### Artikel 4
+
+Over de personen, bedoeld in [artikel 4, eerste en tweede lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&artikel=4), kunnen, voor zover het rechtspersonen betreft, slechts de volgende gegevens of categorieën van gegevens in de registratie worden opgenomen:
+
+- a. de statutaire naam en de handelsnaam of de handelsnamen;
 
 - b. de rechtsvorm;
 
 - c. de zetel;
 
-- d. de plaats waar de rechtspersoon gevestigd is, waaronder begrepen het adres en het land;
+- d. het vestigings- en postadres, de postcodes, de plaats of plaatsen van vestiging en het land of de landen van vestiging van de rechtspersoon, met inbegrip van de gegevens van nevenvestigingen en filialen;
 
-- e. de feitelijke oprichtingsdatum;
+- e. de oprichtingsdatum;
 
-- f. het nummer en de datum van de afgifte van de verklaring van geen bezwaar;
+- f. het nummer, bedoeld in [artikel 9, onder a, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=9);
 
-- g. het nummer waaronder de rechtspersoon overeenkomstig de [Handelsregisterwet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0007893) in het handelsregister is ingeschreven;
+- g. eventuele andere nummers ten behoeve van de identificatie van de rechtspersoon;
 
-- h. overige nummers ter identificatie van de rechtspersoon;
+- h. de statutaire doelomschrijving en de feitelijke activiteiten;
 
-- i. het statutaire doel en de hoofdactiviteiten;
+- i. een splitsing of fusie waarbij de rechtspersoon is ontstaan;
 
-- j. de liquiditeitsgegevens en de hoogte van het eigen vermogen zoals vermeld in de laatst opgemaakte balans;
+- j. de gegevens, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017347&paragraaf=3&artikel=3&z=2011-07-01&g=2011-07-01), met betrekking tot natuurlijke personen die het beleid van de rechtspersoon bepalen of mede kunnen bepalen, alsmede de gegevens, bedoeld onder a tot en met i en k tot en met u, met betrekking tot rechtspersonen die het beleid van de desbetreffende rechtspersoon bepalen of mede kunnen bepalen;
 
-- k. het resultaat over de laatste twee boekjaren;
+- k. justitiële gegevens in de zin van [artikel 1, onder a, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=1) met betrekking tot de rechtspersoon;
 
-- l. een splitsing of fusie waarbij de rechtspersoon is ontstaan; en
+- l. gegevens met betrekking tot rechterlijke uitspraken die betrekking hebben op een faillissement of een surseance van betaling waarbij sprake is van de betrokkenheid van de rechtspersoon;
 
-- m. de gegevens, bedoeld in het eerste lid, onder a tot en met m, van natuurlijke personen die het beleid van de rechtspersoon bepalen of mede kunnen bepalen en de gegevens, bedoeld in dit lid, onder a tot en met l, van rechtspersonen die het beleid van de rechtspersoon bepalen of mede kunnen bepalen.
+- m. andere openbare gegevens;
 
-3. Over de personen, bedoeld in [artikel 4, eerste lid, van de wet](onbekend), kunnen voorts de volgende gegevens dan wel categorieën van gegevens in de registratie worden opgenomen:
+- n. liquiditeitsgegevens en gegevens met betrekking tot het eigen vermogen van de rechtspersoon, conform de gedeponeerde jaarrekeningen;
 
-- a. de gegevens, bedoeld in het tweede lid, onder a tot en met m, van andere rechtspersonen waarbij de persoon betrokken is;
+- o. de resultatenrekening over de laatste twee boekjaren, gerekend vanaf de datum van de eerste verwerking van de gegevens van de desbetreffende rechtspersoon of onderneming;
 
-- b. de aard van de functie, de bevoegdheid of de hoedanigheid met betrekking tot de vennootschap en andere rechtspersonen waarbij de persoon betrokken is, en de datum van de aanvang en de beëindiging daarvan; en
+- p. financiële gegevens van een bij de rechtspersoon betrokken onderneming die een negatief eigen vermogen heeft of die in de laatste twee boekjaren, gerekend vanaf de datum van de eerste verwerking van de gegevens van de desbetreffende rechtspersoon of onderneming, verlies heeft geleden;
 
-- c. het aantal en de soort aandelen in de vennootschap en in andere rechtspersonen waarbij de persoon betrokken is.
+- q. gegevens met betrekking tot betalingsachterstanden bij de rijksbelastingdienst;
 
-##### Artikel 4
+- r. faillissementsverslagen;
 
-Over de personen, bedoeld in [artikel 4, eerste lid, van de wet](onbekend), kunnen in de registratie worden opgenomen:
+- s. gegevens met betrekking tot toezichtshandelingen en bestuurlijke sancties jegens de desbetreffende rechtspersoon, afkomstig van de bestuursorganen en diensten, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017347&paragraaf=2&artikel=2&z=2011-07-01&g=2011-07-01);
 
-- a. de gegevens, bedoeld in [artikel 19, eerste lid, onder 1° tot en met 6°, van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=19), omtrent een rechterlijke uitspraak inzake faillissement van de persoon of van een rechtspersoon waarbij de persoon betrokken is geweest;
+- t. strafvorderlijke gegevens in de zin van [artikel 1, onder b, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=1) alsmede vonnissen in strafzaken met betrekking tot de desbetreffende rechtspersoon, en,
 
-- b. de gegevens, bedoeld in [artikel 222a, eerste lid, onder 1° tot en met 4°, van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=222a), omtrent een rechterlijke uitspraak inzake surseance van betaling of voorlopige surseance van betaling van de persoon of van een rechtspersoon waarbij de persoon betrokken is geweest;
-
-- c. de gegevens, bedoeld in [artikel 294, eerste lid, onder a tot en met h, van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=294), omtrent een rechterlijke uitspraak inzake schuldsaneringsregeling natuurlijke personen van de persoon;
-
-- d. de hoogte van een betalingsachterstand bij de belastingdienst of het Uitvoeringsinstituut werknemersverzekeringen;
-
-- e. de inbreng van een onderneming, die een negatief eigen vermogen heeft of die in de laatste twee boekjaren verlies heeft geleden, in de vennootschap of in een rechtspersoon waarbij de persoon betrokken is of is geweest, dan wel de inbreng van aandelen in een dergelijke onderneming; en
-
-- f. andere feiten en omstandigheden van financiële aard die reden geven om aan te nemen dat het gevaar bestaat dat de vennootschap zal worden gebruikt voor ongeoorloofde doeleinden of dat haar werkzaamheid zal leiden tot benadeling van haar schuldeisers.
+- u. andere gegevens die reden geven om aan te nemen dat de rechtspersoon wordt gebruikt voor ongeoorloofde doeleinden of dat haar werkzaamheden leiden tot benadeling van schuldeisers of rechthebbenden.
 
 ##### Artikel 5
 
-Over de personen, bedoeld in [artikel 4, eerste lid, van de wet](onbekend), kunnen in de registratie worden opgenomen:
+Over de personen, bedoeld in [artikel 4, eerste, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&artikel=4), kunnen in de registratie worden opgenomen:
 
 - a. de datum van een veroordeling van de persoon of van een rechtspersoon waarbij de persoon betrokken is of is geweest terzake van een relevant strafbaar feit, alsmede de aard van het strafbare feit, de aard en de hoogte van de opgelegde straf en de datum waarop het strafbare feit is gepleegd;
 
 - b. de datum van een transactie ten aanzien van de persoon of van een rechtspersoon waarbij de persoon betrokken is of is geweest terzake van een relevant strafbaar feit, alsmede de aard van het strafbare feit, de hoogte van de transactie, de eventueel gestelde andere voorwaarden en de datum waarop het strafbare feit gepleegd zou zijn; en
 
-- c. andere feiten en omstandigheden in verband met een relevant strafbaar feit die reden geven om aan te nemen dat het gevaar bestaat dat de vennootschap zal worden gebruikt voor ongeoorloofde doeleinden of dat haar werkzaamheid zal leiden tot benadeling van haar schuldeisers.
+- c. andere feiten en omstandigheden in verband met een relevant strafbaar feit die reden geven om aan te nemen dat het gevaar bestaat dat de rechtspersoon zal worden gebruikt voor ongeoorloofde doeleinden of dat zijn werkzaamheid zal leiden tot benadeling van zijn schuldeisers.
 
 #### Paragraaf 4. Het verstrekken van gegevens uit de registratie
 
 ##### Artikel 6
 
-Aan de volgende instanties of personen worden als vaste gebruikers als bedoeld in [artikel 5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&artikel=5), desgevraagd in individuele gevallen persoonsgegevens uit de registratie verstrekt:
+Aan de volgende instanties of personen worden als vaste gebruikers als bedoeld in [artikel 6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&artikel=6), desgevraagd in individuele gevallen persoonsgegevens uit de registratie verstrekt:
 
 - a. de Algemene Inlichtingen- en Veiligheidsdienst, voor zover dat noodzakelijk is voor de uitvoering van de taken, bedoeld in [artikel 6 van de Wet op de inlichtingen- en veiligheidsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0004244&artikel=6);
 
-- b. het openbaar ministerie, de politie, de Koninklijke Marechaussee, de Algemene Inspectiedienst van het Ministerie van Landbouw, Natuur en Voedselkwaliteit, de Belastingdienst FIOD-ECD, de Belastingdienst Douane, de Dienst Nationale Recherche, de Inlichtingen- en Opsporingsdienst van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, Interregionale Fraudeteams, de Milieudienst Rijnmond, Regionaal Interdisciplinaire Fraudeteams, de rijksbelastingdienst, de Sociale Inlichtingen- en Opsporingsdienst van het Ministerie van Sociale Zaken en Werkgelegenheid en het Uitvoeringsinstituut werknemersverzekeringen, voor zover dat noodzakelijk is voor de opsporing of de vervolging van strafbare feiten;
+- b. het openbaar ministerie, de politie, de Koninklijke marechaussee, de bijzondere opsporingsdiensten, bedoeld in de [Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0015049), de Algemene Inspectiedienst, de door Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen toezichthouders, bedoeld in de [Aanwijzingsregeling toezichthoudende ambtenaren en ambtenaren met specifieke uitvoeringstaken op grond van SZW wetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0011673), de rijksbelastingdienst, de bestuursorganen die op grond van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) of op grond van de [Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779) bevoegd zijn tot het geven van een beschikking of het nemen van een ander besluit en de beheerders in de zin van [artikel 1.1, eerste lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=1.1), het Uitvoeringsinstituut werknemersverzekeringen, de Sociale Verzekeringsbank en de VROM-Inspectie, voor zover dit noodzakelijk is voor de opsporing of vervolging van strafbare feiten;
 
 - c. de Autoriteit Financiële Markten, De Nederlandsche Bank N.V. en de Nederlandse Mededingingsautoriteit voor zover dat noodzakelijk is voor de uitoefening van het toezicht op financiële ondernemingen of op de naleving van de [Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691);
 
 - d. de faillissementscuratoren en de rechters-commissarissen in faillissementen, voor zover dat noodzakelijk is voor het beheer en de vereffening van een failliete boedel alsmede voor de uitoefening van het toezicht hierop;
 
-- e. het Meldpunt Ongebruikelijke Transacties, voor zover dat noodzakelijk is voor het verkrijgen van informatie omtrent personen die het Meldpunt ongebruikelijke transacties heeft geregistreerd ter uitvoering van zijn taak, bedoeld in [artikel 13 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=13);
+- e. de Financial Intelligence Unit Nederland (FIU-NL), voor zover dat noodzakelijk is voor het verkrijgen van informatie omtrent personen die zijn geregistreerd ter uitvoering van de taken, bedoeld in [artikel 13 van de Wet ter voorkoming van witwassen en financiering van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=13);
 
 - f. de Koninklijke Marine, voor zover dat noodzakelijk is voor de voorkoming en bestrijding van ambtelijke en niet-ambtelijke corruptie;
 
@@ -221,6 +221,70 @@ Dit besluit treedt in werking op het tijdstip waarop de wet in werking treedt.
 
 ##### Artikel 9
 
-Dit besluit wordt aangehaald als: Besluit documentatie vennootschappen.
+Dit besluit wordt aangehaald als: Besluit controle op rechtspersonen.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 4a
+
+Over de personen, bedoeld in [artikel 4, eerste, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&artikel=4) kunnen voorts de volgende gegevens of categorieën van gegevens in de registratie worden opgenomen:
+
+- a. de gegevens, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017347&paragraaf=3&artikel=4&z=2011-07-01&g=2011-07-01), van andere rechtspersonen of vennootschappen waarbij de desbetreffende rechtspersoon betrokken is;
+
+- b. de aard van de functie, de bevoegdheid of de hoedanigheid van een natuurlijke of rechtspersoon met betrekking tot de rechtspersonen of vennootschappen waarbij de desbetreffende natuurlijke persoon of rechtspersoon betrokkenheid heeft, en de data van begin en einde van de functie, bevoegdheid of hoedanigheid;
+
+- c. aantal en aard van de aandelen in een rechtspersoon of vennootschappen die de desbetreffende natuurlijke of rechtspersoon houdt.
+
+#### Paragraaf 4. Het verstrekken van gegevens uit de registratie
+
+##### Artikel 5a
+
+Als bestuursorganen, bedoeld in [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&artikel=5) worden aangewezen:
+
+- a. de Autoriteit Financiële Markten;
+
+- b. De Nederlandsche Bank N.V.;
+
+- c. het openbaar ministerie;
+
+- d. Onze Minister van Financiën, ten behoeve van de gegevensverwerking door de rijksbelastingdienst en de bijzondere opsporingsdienst, bedoeld in [artikel 2, onder a, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2);
+
+- e. Onze Minister van Infrastructuur en Milieu, ten behoeve van de gegevensverwerking door de VROM-Inspectie en de bijzondere opsporingsdienst, bedoeld in [artikel 2, onder b, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2);
+
+- f. Onze Minister van Economische Zaken, Landbouw en Innovatie, ten behoeve van de gegevensverwerking door de Algemene Inspectiedienst en de bijzondere opsporingsdienst, bedoeld in [artikel 2, onder c, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2);
+
+- g. Onze Minister van Sociale Zaken en Werkgelegenheid, ten behoeve van de gegevensverwerking door de door hem aangewezen toezichthouders, bedoeld in de [Aanwijzingsregeling toezichthoudende ambtenaren en ambtenaren met specifieke uitvoeringstaken op grond van SZW wetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0011673), en de bijzondere opsporingsdienst, bedoeld in [artikel 2, onder d, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2);
+
+- h. de bestuursorganen, bedoeld in [artikel 1, onder f, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=1), ten behoeve van de gegevensverwerking door de politie en de Koninklijke marechaussee.
+
+##### Artikel 5b
+
+Mededeling van gegevens met betrekking tot derden, neergelegd in een risicomelding als bedoeld in [artikel 5, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&artikel=5) is toegestaan in de volgende gevallen:
+
+- a. de Autoriteit Financiële Markten: aan het openbaar ministerie, de politie, de bijzondere opsporingsdienst, bedoeld in [artikel 2, onder a, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2), de rijksbelastingdienst, De Nederlandsche Bank N.V., de Algemene Inlichtingen- en Veiligheidsdienst en aan toezichthouders en opsporingsdiensten, belast met het toezicht op de naleving van de wetgeving met betrekking tot financiële instellingen, onderscheidenlijk de opsporing van strafbare feiten op financieel-economisch terrein in het buitenland;
+
+- b. De Nederlandsche Bank N.V.: aan het openbaar ministerie, de politie, de bijzondere opsporingsdienst, bedoeld in [artikel 2, onder a, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2), de rijksbelastingdienst, de Autoriteit Financiële Markten, de Algemene Inlichtingen- en Veiligheidsdienst en aan toezichthouders en opsporingsdiensten, belast met het toezicht op de naleving van de wetgeving met betrekking tot financiële instellingen, onderscheidenlijk de opsporing van strafbare feiten op financieel-economisch terrein in het buitenland;
+
+- c. de bijzondere opsporingsdienst, bedoeld in [artikel 2, onder a, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2): aan het openbaar ministerie, de politie, de andere bijzondere opsporingsdiensten, bedoeld in de [Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919), de Autoriteit Financiële Markten, de Nederlandsche Bank N.V., de rijksbelastingdienst, de VROM-Inspectie, de Algemene Inspectiedienst, de door Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen toezichthouders, bedoeld in de [Aanwijzingsregeling toezichthoudende ambtenaren en ambtenaren met specifieke uitvoeringstaken op grond van SZW wetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0011673), en aan toezichthouders en opsporingsdiensten, belast met het toezicht op de naleving van de wetgeving met betrekking tot financiële instellingen, onderscheidenlijk de opsporing van strafbare feiten op financieel-economisch terrein in het buitenland;
+
+- d. de bijzondere opsporingsdienst, bedoeld in [artikel 2, onder b, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2): aan het openbaar ministerie, de politie, de andere bijzondere opsporingsdiensten, bedoeld in de [Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919), en aan de VROM-Inspectie;
+
+- e. de bijzondere opsporingsdienst, bedoeld in [artikel 2, onder c, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2): aan het openbaar ministerie, de politie, de andere bijzondere opsporingsdiensten, bedoeld in de [Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919), de rijksbelastingdienst, de Algemene Inspectiedienst, de Plantenziektenkundige Dienst, de Voedsel- en Warenautoriteit en aan de Dienst Regelingen van het Ministerie van Economische Zaken, Landbouw en Innovatie;
+
+- f. de bijzondere opsporingsdienst, bedoeld in [artikel 2, onder d, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2): aan het openbaar ministerie, de politie, de andere bijzondere opsporingsdiensten, bedoeld in de Wet op de bijzondere opsporingsdiensten, de Autoriteit Financiële Markten, de Nederlandsche Bank N.V., de rijksbelastingdienst, de VROM-Inspectie, de Algemene Inspectiedienst en aan de door Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen toezichthouders, bedoeld in de [Aanwijzingsregeling toezichthoudende ambtenaren en ambtenaren met specifieke uitvoeringstaken op grond van SZW wetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0011673);
+
+- g. de politie: aan het openbaar ministerie, de regionale inlichtingen- en expertisecentra, de Koninklijke marechaussee, de rijksbelastingdienst, de bijzondere opsporingsdiensten, bedoeld in [artikel 2 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2) en aan de Algemene Inlichtingen- en Veiligheidsdienst;
+
+- h. de rijksbelastingdienst: aan het openbaar ministerie, de politie, de bijzondere opsporingsdiensten, bedoeld in de [Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919), de Autoriteit Financiële Markten, de Nederlandsche Bank N.V., de VROM-Inspectie, de Algemene Inspectiedienst, de door Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen toezichthouders, bedoeld in de [Aanwijzingsregeling toezichthoudende ambtenaren en ambtenaren met specifieke uitvoeringstaken op grond van SZW wetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0011673), en aan de colleges van burgemeester en wethouders;
+
+- i. de VROM-Inspectie: aan het openbaar ministerie, de politie en aan de bijzondere opsporingsdienst, bedoeld in [artikel 2, onder b, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2);
+
+- j. de door Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen toezichthouders, bedoeld in de Aanwijzingsregeling toezichthoudende ambtenaren en ambtenaren met specifieke uitvoeringstaken op grond van SZW wetgeving: aan het openbaar ministerie, de politie, de bijzondere opsporingsdiensten, bedoeld in [artikel 2, onder a en d, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2) en aan de rijksbelastingdienst;
+
+- k. de Algemene Inspectiedienst: aan het openbaar ministerie, de politie, de bijzondere opsporingsdiensten, bedoeld in [artikel 2 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2), de rijksbelastingdienst, de Plantenziektenkundige Dienst, de Voedsel- en Warenautoriteit en aan de Dienst Regelingen van het Ministerie van Economische Zaken, Landbouw en Innovatie;
+
+- l. ten aanzien van elk van de bestuursorganen, genoemd in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0017347&paragraaf=4&artikel=5a&z=2011-07-01&g=2011-07-01): aan de Nationale ombudsman en de rechter.
+
+#### Paragraaf 5. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
