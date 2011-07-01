@@ -4,7 +4,7 @@ identifier: "BWBR0031021"
 country: "nl"
 rank: "wet"
 publication_date: "2015-06-30"
-last_updated: "2011-01-01"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031021"
 soort: "wet"
@@ -54,7 +54,7 @@ Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.
 
 ##### Artikel II
 
-Wijzigt de Wet op de loonbelasting 1964.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
@@ -106,7 +106,7 @@ Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
 ##### Artikel XIIIa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de internationale bijstandsverlening bij de heffing van belastingen.
 
 ##### Artikel XIV
 
