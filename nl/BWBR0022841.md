@@ -4,7 +4,7 @@ identifier: "BWBR0022841"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2011-01-01"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022841"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 - h. netwerk palliatieve zorg: netwerk ten behoeve van de versterking van de onderlinge samenwerking tussen de bij de palliatieve terminale zorg betrokken organisaties en personen;
 
-- i. netwerkregio: de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2011-01-01&g=2011-01-01) bij de desbetreffende instelling genoemde gemeenten;
+- i. netwerkregio: de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2011-07-01&g=2011-07-01) bij de desbetreffende instelling genoemde gemeenten;
 
 - j. betaalde coördinatie: coördinatie van de inzet van vrijwilligers die palliatieve terminale zorg in de thuissituatie verlenen, door een persoon in dienstverband met de instelling.
 
@@ -92,7 +92,9 @@ Deze regeling is van toepassing op het verstrekken van:
 
 - b. ten behoeve van het verlenen van palliatieve terminale zorg aan personen die verblijven in een instelling die deel uitmaakt van een organisatorisch verband met een toelating als bedoeld in [artikel 5, eerste lid, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=5).
 
-2. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019947&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0019947&artikel=4) en [29 van de Subsidieregeling VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019947&artikel=29) alsmede de [artikelen 4:59](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:59) en [4:68 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:68) zijn van toepassing op instellingssubsidies.
+2. Een subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34).
+
+3. Een instellingssubsidie wordt voor de periode van een boekjaar verstrekt. Het boekjaar is gelijk aan het kalenderjaar.
 
 ##### Artikel 4
 
@@ -130,9 +132,9 @@ De Minister kan jaarlijks op aanvraag een instellingssubsidie verstrekken voor h
 
 1. De instellingssubsidie wordt berekend door:
 
-- a. € 12.100.000 zodanig te verdelen onder de instellingen waaraan de instellingssubsidie wordt verstrekt dat elke instelling per cliënt hetzelfde percentage van het desbetreffende maximumbedrag, genoemd in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.1&artikel=6&z=2011-01-01&g=2011-01-01), voor de exploitatiecomponent ontvangt;
+- a. € 12.100.000 zodanig te verdelen onder de instellingen waaraan de instellingssubsidie wordt verstrekt dat elke instelling per cliënt hetzelfde percentage van het desbetreffende maximumbedrag, genoemd in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.1&artikel=6&z=2011-07-01&g=2011-07-01), voor de exploitatiecomponent ontvangt;
 
-- b. € 2.000.000 zodanig te verdelen onder de instellingen waaraan de instellingssubsidie wordt verstrekt dat elke instelling per cliënt hetzelfde percentage van het desbetreffende maximumbedrag, genoemd in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.1&artikel=6&z=2011-01-01&g=2011-01-01), voor de huisvestingscomponent ontvangt;
+- b. € 2.000.000 zodanig te verdelen onder de instellingen waaraan de instellingssubsidie wordt verstrekt dat elke instelling per cliënt hetzelfde percentage van het desbetreffende maximumbedrag, genoemd in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.1&artikel=6&z=2011-07-01&g=2011-07-01), voor de huisvestingscomponent ontvangt;
 
 2. Bij de berekening van de instellingssubsidie wordt het aantal cliënten van de instelling bepaald door het gemiddeld aantal cliënten per jaar in de referentieperiode.
 
@@ -174,15 +176,15 @@ Vervallen
 
 ##### Artikel 15
 
-1. De aanvraag vermeldt het totaal aantal personen waaraan in de referentieperiode door de instelling palliatieve terminale zorg thuis, palliatieve terminale zorg in een bijna-thuis-huis of palliatieve terminale zorg in een high care hospice is verleend. Een verzoek tot verhoging van het in de aanvraag vermelde aantal personen dat na afloop van de termijn, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=14&z=2011-01-01&g=2011-01-01), wordt ontvangen, blijft buiten behandeling.
+1. De aanvraag vermeldt het totaal aantal personen waaraan in de referentieperiode door de instelling palliatieve terminale zorg thuis, palliatieve terminale zorg in een bijna-thuis-huis of palliatieve terminale zorg in een high care hospice is verleend. Een verzoek tot verhoging van het in de aanvraag vermelde aantal personen dat na afloop van de termijn, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=14&z=2011-07-01&g=2011-07-01), wordt ontvangen, blijft buiten behandeling.
 
 2. Voor de aanvraag wordt een door de Minister vastgesteld formulier gebruikt.
 
 ##### Artikel 16
 
-1. De Minister kan in het kader van de behandeling van de subsidieaanvraag verzoeken om een assurancerapport van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) inzake het aantal personen waaraan in de referentieperiode door de instelling palliatieve terminale zorg is verleend.
+1. De Minister kan in het kader van de behandeling van de aanvraag van een instellingssubsidie van € 125.000 of meer verzoeken om een assurancerapport van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) inzake het aantal personen waaraan in de referentieperiode door de instelling palliatieve terminale zorg is verleend.
 
-2. De aanvrager van de instellingssubsidie draagt er zorg voor dat de accountant meewerkt aan door of namens de Rijksauditdienst in te stellen onderzoeken naar de door de accountant verrichte (controle)werkzaamheden.
+2. De aanvrager van een instellingssubsidie van minder dan € 125.000 werkt, onder meer door het verschaffen van de daartoe benodigde inlichtingen, gegevens en bescheiden, mee aan door of namens de minister ingestelde onderzoekingen die erop zijn gericht de minister inlichtingen te verschaffen die van belang zijn voor het nemen van een besluit met betrekking tot het verstrekken van de subsidie.
 
 ##### Artikel 17
 
@@ -196,9 +198,11 @@ De ontvanger van de instellingssubsidie voor palliatieve terminale zorg particip
 
 ##### Artikel 19
 
-1. De Minister betaalt de instellingssubsidie voor palliatieve terminale zorg als volgt: in januari 8%, februari 8%, maart 8%, april 7%, mei 16%, juni 7%, juli 8%, augustus 8%, september 7%, oktober 8%, november 8% en december 7% van het voor het desbetreffende boekjaar vastgestelde subsidiebedrag.
+1. De Minister betaalt een instellingssubsidie voor palliatieve terminale zorg van € 25.000 of meer als volgt: in januari 8%, februari 8%, maart 8%, april 7%, mei 16%, juni 7%, juli 8%, augustus 8%, september 7%, oktober 8%, november 8% en december 7% van het voor het desbetreffende boekjaar vastgestelde subsidiebedrag.
 
 2. De Minister kan van het gestelde in het eerste lid op verzoek van de ontvanger van een instellingssubsidie afwijken.
+
+3. De Minister betaalt een instellingssubsidie voor palliatieve terminale zorg van minder dan € 25.000 in één keer.
 
 ##### Artikel 20
 
@@ -208,51 +212,45 @@ De ontvanger van een instellingssubsidie voor palliatieve terminale zorg voert e
 
 ##### Artikel 21
 
-De Minister kan jaarlijks aan een in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2011-01-01&g=2011-01-01) genoemde instelling op aanvraag een instellingssubsidie verstrekken voor de coördinatie van een netwerk palliatieve zorg.
+De Minister kan jaarlijks aan een in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2011-07-01&g=2011-07-01) genoemde instelling op aanvraag een instellingssubsidie verstrekken voor de coördinatie van een netwerk palliatieve zorg.
 
 ##### Artikel 22
 
-Instellingssubsidies voor een netwerk palliatieve zorg van minder dan € 20.000 kunnen zonder voorafgaande subsidieverlening worden vastgesteld.
+1. De instellingssubsidie voor een netwerk palliatieve zorg bedraagt ten hoogste het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2011-07-01&g=2011-07-01) bij de desbetreffende instelling en het desbetreffende jaar genoemde bedrag.
+
+2. De Minister kan het bedrag van de instellingssubsidie voor een netwerk palliatieve zorg bijstellen in geval van een wijziging van de netwerkregio.
 
 ##### Artikel 23
 
-1. De instellingssubsidie voor een netwerk palliatieve zorg bestaat uit een door de Minister te bepalen bedrag voor overeenkomstig een door de Minister goedgekeurd activiteitenplan uitgevoerde activiteiten.
+De [Kaderregeling VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0029947) is van toepassing op een instellingssubsidie voor een netwerk palliatieve zorg, met dien verstande dat:
 
-2. In afwijking van het eerste lid bestaat een instellingssubsidie als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=3&artikel=22&z=2011-01-01&g=2011-01-01) uit een bij de subsidievaststelling te bepalen bedrag voor overeenkomstig een door de Minister goedgekeurd activiteitenplan uit te voeren activiteiten.
+- a. instellingssubsidies van minder dan € 25.000 in afwijking van [artikel 7, derde lid, van de Kaderregeling VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0029947&artikel=7) voorafgaand aan het boekjaar worden vastgesteld, welke vaststelling wordt aangevraagd overeenkomstig [paragraaf 3 van de Kaderregeling VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0029947&paragraaf=3) in plaats van de [artikelen 50 tot en met 54 van de Kaderregeling VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0029947&artikel=50);
 
-3. De instellingssubsidie bedraagt ten hoogste het in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2011-01-01&g=2011-01-01) bij de desbetreffende instelling en het desbetreffende jaar genoemde bedrag.
+- b. instellingssubsidies van € 25.000 tot € 125.000 worden verstrekt als instellingssubsidies als bedoeld in [artikel 8, onderdeel d, van de Kaderregeling VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0029947&artikel=8);
 
-4. De Minister kan het bedrag van de instellingssubsidie voor een netwerk palliatieve zorg bijstellen in geval van een wijziging van de netwerkregio.
+- c. de ontvanger van een instellingssubsidie van € 125.000 of meer in afwijking van [artikel 34, eerste lid, van de Kaderregeling VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0029947&artikel=34) geen egalisatiereserve vormt.
 
 ##### Artikel 24
 
-1. De aanvraag van een instellingssubsidie voor een netwerk palliatieve zorg wordt uiterlijk dertien weken voor de aanvang van het boekjaar ingediend.
-
-2. De Minister kan vrijstelling of ontheffing verlenen van de in het eerste lid gestelde termijn voor indiening van de subsidieaanvraag.
+Vervallen
 
 ##### Artikel 25
 
-Voor de aanvraag, het activiteitenplan en de begroting, wordt een door de Minister vastgesteld formulier gebruikt.
+Vervallen
 
 ##### Artikel 26
 
-De [artikelen 33 tot en met 38](https://wetten.overheid.nl/jci1.3:c:BWBR0019947&artikel=33) en [40 tot en met 46 van de Subsidieregeling VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019947&artikel=40) alsmede de [artikelen 4:61, eerste lid, aanhef en onder b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:61), [4:62 tot en met 4:66](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:62), [4:68 tot en met 4:71](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:68), [4:73 tot en met 4:80 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:73) zijn van toepassing op een instellingssubsidie voor een netwerk palliatieve zorg.
+Vervallen
 
 ##### Artikel 27
 
-1. In afwijking van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=3&artikel=26&z=2011-01-01&g=2011-01-01) zijn de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0019947&artikel=34), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0019947&artikel=42), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0019947&artikel=43) en [44 van de Subsidieregeling VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019947&artikel=44) alsmede de [artikelen 4:64](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:64), [4:68](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:68), [4:70](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:70), [4:74 tot en met 4:80 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:74) niet van toepassing op een instellingssubsidie als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=3&artikel=22&z=2011-01-01&g=2011-01-01).
-
-2. De Minister betaalt een instellingssubsidie als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=3&artikel=22&z=2011-01-01&g=2011-01-01) als volgt: in januari 8%, februari 8%, maart 8%, april 7%, mei 16%, juni 7%, juli 8%, augustus 8%, september 7%, oktober 8%, november 8% en december 7% van het voor het desbetreffende boekjaar verleende subsidiebedrag.
-
-3. De ontvanger van een instellingssubsidie als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=3&artikel=22&z=2011-01-01&g=2011-01-01) legt na afloop van het boekjaar waarvoor instellingssubsidie was verstrekt, een verklaring over waaruit kan worden afgeleid dat de activiteiten waarvoor instellingssubsidie was verstrekt, zijn uitgevoerd.
-
-4. Voor de verklaring, bedoeld in het derde lid, wordt een door de Minister vastgesteld formulier gebruikt.
+Vervallen
 
 ##### Artikel 28
 
 De ontvanger van de instellingssubsidie voor een netwerk palliatieve zorg draagt er zorg voor dat:
 
-- a. de coördinatie alle gemeenten omvat, vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2011-01-01&g=2011-01-01) in de netwerkregio van de desbetreffende instelling;
+- a. de coördinatie alle gemeenten omvat, vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2011-07-01&g=2011-07-01) in de netwerkregio van de desbetreffende instelling;
 
 - b. aan een netwerk palliatieve zorg de instellingen en personen deelnemen die beroepsmatig betrokken zijn bij het verlenen van palliatieve zorg in de netwerkregio;
 
@@ -270,7 +268,7 @@ Vervallen
 
 ##### Artikel 31
 
-De Minister kan indien bijzondere omstandigheden daartoe aanleiding geven, artikelen buiten toepassing laten of daarvan afwijken.
+De Minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen zal leiden tot een onbillijkheid van overwegende aard.
 
 ##### Artikel 32
 
@@ -490,7 +488,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. De ontvanger van de instellingssubsidie blijft gedurende het gehele jaar waarvoor de instellingssubsidie is verstrekt in substantiële mate palliatieve terminale zorg verlenen en draagt gedurende het gehele jaar waarvoor de instellingssubsidie is verstrekt zorg voor de continuïteit van de voorzieningen voor het verlenen van de palliatieve terminale zorg die gemiddeld per jaar in de referentieperiode werd verstrekt.
 
-2. De ontvanger van de instellingssubsidie doet zo spoedig mogelijk mededeling aan de Minister van omstandigheden die van belang kunnen zijn voor wijziging of intrekking van de beschikking tot vaststelling van de instellingssubsidie.
+2. De subsidieontvanger meldt meteen aan de minister als:
+
+- a. het aannemelijk is dat niet of niet geheel aan de subsidieverplichtingen zal worden voldaan of
+
+- b. zich andere omstandigheden zullen voordoen die van belang kunnen zijn voor een beslissing tot wijziging, intrekking of vaststelling van de subsidie.
+
+3. De melding wordt schriftelijk gedaan. De melding wordt voorzien van een toelichting. Bij de melding worden de relevante stukken overgelegd.
 
 #### Paragraaf 3. Netwerken palliatieve zorg
 
