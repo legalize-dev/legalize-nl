@@ -4,7 +4,7 @@ identifier: "BWBR0027256"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-07-01"
-last_updated: "2009-09-01"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027256"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-Aan de directeur van de Nederlandse Diabetes Federatie, statutair gevestigd te Amersfoort, wordt mandaat en machtiging verleend met betrekking tot het verstrekken van de subsidies op grond van de [Subsidieregeling VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019947) in het kader van het Nationaal Actieprogramma Diabetes.
+Aan de directeur van de Nederlandse Diabetes Federatie, statutair gevestigd te Amersfoort, wordt mandaat en machtiging verleend met betrekking tot het verstrekken van de subsidies op grond van de [Kaderregeling VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0029947) in het kader van het Nationaal Actieprogramma Diabetes.
 
 ##### Artikel 3
 
