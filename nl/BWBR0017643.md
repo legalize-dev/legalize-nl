@@ -4,7 +4,7 @@ identifier: "BWBR0017643"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-07-01"
-last_updated: "2004-12-25"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017643"
 soort: "ministeriele-regeling"
@@ -41,9 +41,21 @@ Besluit
 
 ##### Artikel 1. Doelstellingen
 
-1. Het doel van deze regeling is het subsidiëren van de Stichting Platform Bèta/techniek voor het uitvoeren van haar werkzaamheden voorzover deze betrekking hebben op het interesseren van meer jongeren voor een studie of loopbaan in de bèta- en technieksector en personen werkzaam in die sector duurzaam te behouden voor die arbeidsmarkt.
+Het doel van deze regeling is het subsidiëren van de Stichting Platform Bèta/techniek voor het uitvoeren van haar werkzaamheden voorzover deze betrekking hebben op:
 
-2. De basis van deze werkzaamheden wordt gevormd door de uitgangspunten en kwantitatieve doelstellingen zoals verwoord in de nota Deltaplan Bèta/techniek van december 2003, hierna te noemen: actieplan.
+- a. het versterken van de aandacht voor wetenschap en bèta/techniek in het primair en voortgezet onderwijs;
+
+- b. het bevorderen van systematisch en doelgericht werken aan het maximaliseren van leerprestaties in het primair en voortgezet onderwijs (‘opbrengstgericht werken’);
+
+- c. het bevorderen van excellentie in het primair en voortgezet onderwijs;
+
+- d. het interesseren van meer jongeren voor een vervolgstudie of loopbaan in de bèta/technieksector;
+
+- e. het verbeteren van de aansluiting van het technisch beroepsonderwijs op het (regionale) bedrijfsleven;
+
+- f. het duurzaam behouden van personen werkzaam in de bèta/technieksector voor die arbeidsmarkt en;
+
+- g. het bevorderen en faciliteren van excellentie in het hoger onderwijs.
 
 ##### Artikel 2. Subsidieverlening
 
@@ -53,15 +65,11 @@ Besluit
 
 Dit beleidskader bevat:
 
-- a. Een compleet overzicht van de voorgenomen activiteiten uitgesplitst naar de programmalijnen zoals verwoord in het actieplan en een daaraan gekoppelde begroting. Beiden bevatten een meerjarig perspectief.
+- a. Een compleet overzicht van de voorgenomen activiteiten en een daaraan gekoppelde begroting. Beide bevatten een meerjarig perspectief.
 
-- b. Een indicatie voor de wijze waarop en de mate waarin deze activiteiten een bijdrage zullen leveren aan de doelstelling van het actieplan, zijnde:
+- b. Een indicatie voor de wijze waarop en de mate waarin deze activiteiten een bijdrage zullen leveren aan de doelstellingen van deze regeling.
 
-- 1°. De realisatie van een 15% hogere instroom bij opleidingen op het terrein van de natuur en techniek in het hoger onderwijs in 2007 ten opzichte van 2000;
-
-- 2°. De realisatie van 15% meer afgestudeerden bij opleidingen op het terrein van de natuur en techniek in het hoger onderwijs in 2010 ten opzichte van 2000.
-
-- c. Een overzicht van de begrote cofinanciering op de activiteiten in de diverse programmalijnen.
+- c. Een overzicht van de begrote cofinanciering van de voorgenomen activiteiten.
 
 - d. Een overzicht van de uitvoeringskosten van de Stichting.
 
@@ -69,7 +77,7 @@ Dit beleidskader bevat:
 
 ##### Artikel 3. Subsidievoorwaarden
 
-De subsidie wordt verleend onder de voorwaarde dat het beschikbaar gestelde subsidiebedrag uitsluitend wordt aangewend voor het doel waarvoor de subsidie in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017643&artikel=1&z=2004-12-25&g=2004-12-25) is verleend.
+De subsidie wordt verleend onder de voorwaarde dat het beschikbaar gestelde subsidiebedrag uitsluitend wordt aangewend voor het doel waarvoor de subsidie in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017643&artikel=1&z=2011-07-01&g=2011-07-01) is verleend.
 
 ##### Artikel 4. Jaarlijkse subsidietoekenning
 
@@ -103,11 +111,11 @@ De subsidie wordt verleend onder de voorwaarde dat het beschikbaar gestelde subs
 
 ##### Artikel 8. Subsidievaststelling
 
-1. Indien in de verslagen, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017643&artikel=6&z=2004-12-25&g=2004-12-25), wordt aangetoond dat de subsidie is aangewend voor het doel waarvoor deze is verleend, wordt de subsidie definitief vastgesteld.
+1. Indien in de verslagen, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017643&artikel=6&z=2011-07-01&g=2011-07-01), wordt aangetoond dat de subsidie is aangewend voor het doel waarvoor deze is verleend, wordt de subsidie definitief vastgesteld.
 
 2. De subsidie bedraagt nooit meer dan de werkelijke kosten die voor de te subsidiëren activiteiten zijn gemaakt.
 
-3. De beschikking tot vaststelling van de subsidie wordt gegeven binnen drie maanden na ontvangst van de verslagen, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017643&artikel=6&z=2004-12-25&g=2004-12-25).
+3. De beschikking tot vaststelling van de subsidie wordt gegeven binnen drie maanden na ontvangst van de verslagen, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017643&artikel=6&z=2011-07-01&g=2011-07-01).
 
 4. De subsidie kan geheel of gedeeltelijk worden teruggevorderd, indien:
 
@@ -115,21 +123,11 @@ De subsidie wordt verleend onder de voorwaarde dat het beschikbaar gestelde subs
 
 - b. de Stichting Platform Bèta/techniek heeft gehandeld in strijd met de aan de subsidie verbonden voorwaarden.
 
-5. Indien de subsidie lager wordt vastgesteld dan het bedrag dat eerder betaalbaar is gesteld, wordt het teveel bevoorschotte bedrag door de Stichting toegevoegd aan de egalisatiereserve, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0017643&artikel=11&z=2004-12-25&g=2004-12-25).
+5. Indien de subsidie lager wordt vastgesteld dan het bedrag dat eerder betaalbaar is gesteld, wordt het teveel bevoorschotte bedrag door de Stichting toegevoegd aan de egalisatiereserve, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0017643&artikel=11&z=2011-07-01&g=2011-07-01).
 
 ##### Artikel 9. Beëindiging of herziening van de subsidierelatie
 
-1. In 2007 vindt door de minister een tussentijdse evaluatie plaats van het gevoerde beleid en de activiteiten zoals die tot op dat moment zijn uitgevoerd door de Stichting Platform Bèta/techniek. De uitgangspunten van deze evaluatie worden vooraf besproken met de Stichting.
-
-2. Indien de uitkomsten van de evaluatie daartoe aanleiding geven, kan de minister de subsidierelatie met de Stichting Platform Bèta/techniek herzien of beëindigen.
-
-3. In 2010 vindt een eindevaluatie door de minister plaats van het gevoerde beleid en de activiteiten zoals die tot op dat moment zijn uitgevoerd door de Stichting Platform Bèta/techniek.
-
-4. De subsidierelatie wordt met ingang van 1 juli 2011 beëindigd.
-
-5. Op grond van tussentijds opgedane ervaringen kan de minister na overleg met de Stichting tot bijstelling of beëindiging van de subsidierelatie komen.
-
-6. Bij beëindiging van de subsidierelatie vóór 1 juli 2011 wordt een overgangstermijn van minimaal een half jaar in acht genomen.
+Vervallen
 
 ##### Artikel 10. Begrotingsvoorwaarde
 
