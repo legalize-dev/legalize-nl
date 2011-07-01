@@ -4,7 +4,7 @@ identifier: "BWBR0027775"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-12-20"
-last_updated: "2010-06-22"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027775"
 soort: "ministeriele-regeling"
@@ -94,7 +94,7 @@ voor zover zij gebruik maken van de voorzieningen van P-Direkt en voor zover zij
 
 ##### Artikel 4. Besliscriteria [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376)
 
-1. Alvorens een vervangingsbesluit te nemen wordt door de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027775&artikel=3&z=2010-06-22&g=2010-06-22), genoemde ambtenaren ten aanzien van het beheer vastgesteld en schriftelijk vastgelegd:
+1. Alvorens een vervangingsbesluit te nemen wordt door de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027775&artikel=3&z=2010-06-22&g=2011-07-01), genoemde ambtenaren ten aanzien van het beheer vastgesteld en schriftelijk vastgelegd:
 
 - a. dat onafhankelijk van de omvang, doelgroep of aard van de werkzaamheden wordt aangetoond dat de beheerorganisatie over langere tijd kan functioneren conform de doelstellingen;
 
@@ -106,7 +106,7 @@ voor zover zij gebruik maken van de voorzieningen van P-Direkt en voor zover zij
 
 - e. dat de beheerorganisatie alle voor het beheer noodzakelijke zaken heeft vastgelegd. Daarbij moeten onder andere functies, verantwoordelijkheden, looptijden en voorwaarden duidelijk en toegankelijk zijn beschreven.
 
-2. Alvorens een vervangingsbesluit te nemen wordt door de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027775&artikel=3&z=2010-06-22&g=2010-06-22), genoemde ambtenaren ten aanzien van de opname van gedigitaliseerde archiefstukken vastgesteld en schriftelijk vastgelegd:
+2. Alvorens een vervangingsbesluit te nemen wordt door de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027775&artikel=3&z=2010-06-22&g=2011-07-01), genoemde ambtenaren ten aanzien van de opname van gedigitaliseerde archiefstukken vastgesteld en schriftelijk vastgelegd:
 
 - a. dat er een juiste procedure is voor de opname van het gedigitaliseerde archiefstuk op een wijze als bedoeld in [artikel 6, eerste lid, van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=6) en geordend op een wijze als bedoeld in [artikel 3 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=3) onder toevoeging van de variabelen uit de selectielijst;
 
@@ -120,7 +120,7 @@ voor zover zij gebruik maken van de voorzieningen van P-Direkt en voor zover zij
 
 - f. dat de beheerorganisatie voor het verspreiden van beschikbare gedigitaliseerde stukken regels heeft opgesteld, die recht doen aan de voor de beoogde gebruikersgroep gewenste openbaarheid en toegankelijkheid.
 
-3. Alvorens een vervangingsbesluit te nemen wordt door de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027775&artikel=3&z=2010-06-22&g=2010-06-22), genoemde ambtenaren ten aanzien van het beheer van de digitale en gedigitaliseerde archiefstukken vastgesteld en schriftelijk vastgelegd:
+3. Alvorens een vervangingsbesluit te nemen wordt door de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027775&artikel=3&z=2010-06-22&g=2011-07-01), genoemde ambtenaren ten aanzien van het beheer van de digitale en gedigitaliseerde archiefstukken vastgesteld en schriftelijk vastgelegd:
 
 - a. dat de beheerorganisatie beschikt over een technische infrastructuur die voldoet aan eisen voor lange termijn beheer;
 
@@ -130,7 +130,7 @@ voor zover zij gebruik maken van de voorzieningen van P-Direkt en voor zover zij
 
 ##### Artikel 5. Besliscriteria [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468)
 
-1. Alvorens een vervangingsbesluit te nemen, wordt door de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027775&artikel=3&z=2010-06-22&g=2010-06-22), genoemde ambtenaren ten aanzien van de verwerking van persoonsgegevens vastgesteld en schriftelijk vastgelegd:
+1. Alvorens een vervangingsbesluit te nemen, wordt door de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027775&artikel=3&z=2010-06-22&g=2011-07-01), genoemde ambtenaren ten aanzien van de verwerking van persoonsgegevens vastgesteld en schriftelijk vastgelegd:
 
 - a. de wijze waarop de persoonsgegevens worden verwerkt overeenkomstig de [artikelen 6 tot en met 11 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=6);
 
@@ -138,7 +138,7 @@ voor zover zij gebruik maken van de voorzieningen van P-Direkt en voor zover zij
 
 - c. dat passende technische en organisatorische maatregelen zijn genomen overeenkomstig [artikel 13 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=13).
 
-2. Alvorens een vervangingsbesluit te nemen, wordt door de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027775&artikel=3&z=2010-06-22&g=2010-06-22), genoemde ambtenaren ten aanzien van de verwerking van persoonsgegevens door een bewerker in de zin van de Wet bescheming persooonsgegevens vastgesteld en schriftelijk vastgelegd:
+2. Alvorens een vervangingsbesluit te nemen, wordt door de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027775&artikel=3&z=2010-06-22&g=2011-07-01), genoemde ambtenaren ten aanzien van de verwerking van persoonsgegevens door een bewerker in de zin van de Wet bescheming persooonsgegevens vastgesteld en schriftelijk vastgelegd:
 
 - a. dat de bewerker, alsmede een ieder die handelt onder het gezag van de bewerker, handelt overeenkomstig [artikel 14, eerste lid, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=14);
 
@@ -146,15 +146,15 @@ voor zover zij gebruik maken van de voorzieningen van P-Direkt en voor zover zij
 
 - c. dat terzake overigens gehandeld is in overeenstemming met [artikel 14, vijfde lid, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=14).
 
-3. Alvorens een vervangingsbesluit te nemen, wordt door de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027775&artikel=3&z=2010-06-22&g=2010-06-22), genoemde ambtenaren vastgesteld en schriftelijk vastgelegd:
+3. Alvorens een vervangingsbesluit te nemen, wordt door de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027775&artikel=3&z=2010-06-22&g=2011-07-01), genoemde ambtenaren vastgesteld en schriftelijk vastgelegd:
 
 - a. op welke wijze naar [artikel 16 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=16) gehandeld wordt;
 
 - b. dat naar [artikel 2a van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=2a) gehandeld wordt.
 
-4. Alvorens een vervangingsbesluit te nemen, wordt door de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027775&artikel=3&z=2010-06-22&g=2010-06-22), bedoelde ambtenaren vastgesteld en schriftelijk vastgelegd dat een melding conform [artikel 27, eerste lid van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=27) heeft plaatsgevonden.
+4. Alvorens een vervangingsbesluit te nemen, wordt door de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027775&artikel=3&z=2010-06-22&g=2011-07-01), bedoelde ambtenaren vastgesteld en schriftelijk vastgelegd dat een melding conform [artikel 27, eerste lid van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=27) heeft plaatsgevonden.
 
-5. Alvorens een vervangingsbesluit te nemen, wordt door de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027775&artikel=3&z=2010-06-22&g=2010-06-22), bedoelde ambtenaren vastgesteld en schriftelijk vastgelegd op welke wijze uitvoering wordt gegeven aan:
+5. Alvorens een vervangingsbesluit te nemen, wordt door de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027775&artikel=3&z=2010-06-22&g=2011-07-01), bedoelde ambtenaren vastgesteld en schriftelijk vastgelegd op welke wijze uitvoering wordt gegeven aan:
 
 - a. verzoeken van betrokkenen om inzage op grond van [artikel 35 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=35);
 
@@ -164,7 +164,7 @@ voor zover zij gebruik maken van de voorzieningen van P-Direkt en voor zover zij
 
 ##### Artikel 6. Besliscriteria [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320)
 
-Alvorens een vervangingsbesluit te nemen, wordt door de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027775&artikel=3&z=2010-06-22&g=2010-06-22), bedoelde ambtenaren ten aanzien van de verwerking van declaraties en vergoedingen vastgesteld en schriftelijk vastgelegd:
+Alvorens een vervangingsbesluit te nemen, wordt door de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027775&artikel=3&z=2010-06-22&g=2011-07-01), bedoelde ambtenaren ten aanzien van de verwerking van declaraties en vergoedingen vastgesteld en schriftelijk vastgelegd:
 
 - a. dat de ontvangst van declaratiebescheiden door P-Direkt tot en met de digitalisering en opslag daarvan plaatsvindt overeenkomstig [artikel 52, vijfde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52);
 
@@ -174,15 +174,15 @@ Alvorens een vervangingsbesluit te nemen, wordt door de in [artikel 3, eerste li
 
 1. Als bijlage bij een vervangingsbesluit wordt een Handboek Substitutie vastgesteld.
 
-2. Het Handboek Substitutie bevat de nadere voorschriften met betrekking tot de uitvoering van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027775&artikel=4&z=2010-06-22&g=2010-06-22), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0027775&artikel=5&z=2010-06-22&g=2010-06-22) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0027775&artikel=6&z=2010-06-22&g=2010-06-22) van deze regeling.
+2. Het Handboek Substitutie bevat de nadere voorschriften met betrekking tot de uitvoering van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027775&artikel=4&z=2010-06-22&g=2011-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0027775&artikel=5&z=2010-06-22&g=2011-07-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0027775&artikel=6&z=2010-06-22&g=2011-07-01) van deze regeling.
 
 3. In het Handboek Substitutie is de vastlegging ingericht op een wijze dat deze tevens kan dienen ter instructie voor de personen die binnen de betreffende organisatie zijn belast met de taken in het vervangingsproces.
 
-4. De in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027775&artikel=3&z=2010-06-22&g=2010-06-22), genoemde ambtenaar wijst voor het onder hem ressorterende organisatieonderdeel een ambtenaar aan, belast met interne controlewerkzaamheden, die zorgdraagt voor de naleving van de regeling.
+4. De in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027775&artikel=3&z=2010-06-22&g=2011-07-01), genoemde ambtenaar wijst voor het onder hem ressorterende organisatieonderdeel een ambtenaar aan, belast met interne controlewerkzaamheden, die zorgdraagt voor de naleving van de regeling.
 
 ##### Artikel 8. Vernietiging
 
-1. Van de bevoegdheid de vervangen bescheiden te vernietigen wordt door de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027775&artikel=3&z=2010-06-22&g=2010-06-22), bedoelde ambtenaren geen gebruik gemaakt:
+1. Van de bevoegdheid de vervangen bescheiden te vernietigen wordt door de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027775&artikel=3&z=2010-06-22&g=2011-07-01), bedoelde ambtenaren geen gebruik gemaakt:
 
 - a. voor zover naar [artikel 2, eerste lid, onder c van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=2) de waarde van het archiefstuk geheel of gedeeltelijk betrekking heeft op de uitwendige vorm, of het archiefstuk als bestanddeel van het culturele erfgoed een symbolische waarde of historische belevingswaarde heeft, of kan gaan vertegenwoordigen;
 
