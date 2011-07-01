@@ -4,7 +4,7 @@ identifier: "BWBR0030864"
 country: "nl"
 rank: "wet"
 publication_date: "2012-01-01"
-last_updated: "2011-01-01"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030864"
 soort: "wet"
@@ -157,7 +157,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXVI. [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Ziektewet.
 
 ##### Artikel XXVII. Wijziging van de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) in verband met [Wet uniformering loonbegrip](https://wetten.overheid.nl/jci1.3:c:BWBR0030105)
 
