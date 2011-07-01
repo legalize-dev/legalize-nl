@@ -4,7 +4,7 @@ identifier: "BWBR0026204"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-18"
-last_updated: "2011-06-02"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026204"
 soort: "AMvB"
@@ -64,7 +64,7 @@ In dit besluit wordt verstaan onder basisbedrag: basisbedrag als bedoeld in [art
 
 ##### Artikel 3
 
-De door de toezichthouder met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2011-06-02&g=2011-06-02) vast te stellen bestuurlijke boete wordt verdubbeld indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding.
+De door de toezichthouder met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2011-07-01&g=2011-07-01) vast te stellen bestuurlijke boete wordt verdubbeld indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding.
 
 ##### Artikel 4
 
@@ -122,7 +122,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | **Wet op het financieel toezicht** |   |
 | [Algemeen deel](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=1) |   |
 | 1:10 | 2 |
-| 1:12, derde en vierde lid | 2 |
+| 1:12, vierde en vijfde lid | 2 |
 | 1:28, tweede en derde lid | 3 |
 | 1:58, tweede lid | 3 |
 | 1:58a, tweede lid | 3 |
@@ -408,7 +408,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 4:24, tweede lid | 3 |
 | 4:25, eerste lid | 2 |
 | 4:25b | 2 |
-| 4:26, eerste, derde tot en met het vijfde lid | 2 |
+| 4:26, eerste, derde tot en met zesde lid | 2 |
 | 4:26, tweede lid | 1 |
 | 4:27, eerste, tweede en vierde lid | 2 |
 | 4:29, vierde lid | 2 |
@@ -438,6 +438,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 4:52a | 1 |
 | 4:53 | 2 |
 | 4:55 | 1 |
+| 4:55a | 2 |
 | 4:56, eerste lid | 2 |
 | 4:57 | 2 |
 | 4:58 | 2 |
@@ -509,7 +510,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 5:2 | 3 |
 | 5:16, tweede lid | 2 |
 | 5:18, tweede lid | 2 |
-| 5:20, eerste tot en met vierde lid | 2 |
+| 5:20, eerste tot en met vijfde lid | 2 |
 | 5:21, eerste tot en met vijfde en zevende lid | 2 |
 | 5:21, zesde lid | 1 |
 | 5:23, eerste en vijfde lid | 2 |
@@ -519,7 +520,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 5:25f, eerste tot en met derde lid | 2 |
 | 5:25h, eerste tot en met derde lid | 1 |
 | 5:25i, eerste tot en met derde en vijfde lid | 3 |
-| 5:25m, eerste, zesde en achtste lid | 2 |
+| 5:25m, eerste tot en met derde lid, zesde en achtste lid | 2 |
 | 5:25n | 1 |
 | 5:25p, eerste tot en met vijfde lid | 1 |
 | 5:25q | 2 |
@@ -529,7 +530,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 5:28 | 2 |
 | 5:29, eerste, tweede, vierde en vijfde lid | 2 |
 | 5:30 | 2 |
-| 5:31, eerste, tweede en vierde lid | 2 |
+| 5:31, eerste, derde en vierde lid | 2 |
 | 5:32, eerste tot en met derde lid | 3 |
 | 5:32, vierde lid | 2 |
 | 5:32a, eerste tot en met het derde lid | 2 |
@@ -558,7 +559,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 5:56, eerste, derde en zevende lid | 3 |
 | 5:57, eerste lid | 3 |
 | 5:58, eerste lid | 3 |
-| 5:59, eerste lid | 3 |
+| 5:59, eerste en tweede lid | 3 |
 | 5:60, eerste en derde lid | 2 |
 | 5:61, eerste lid | 1 |
 | 5:62, eerste lid | 2 |
@@ -782,7 +783,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 51, eerste en tweede lid | 2 |
 | 51a, eerste tot en met zesde lid | 2 |
 | 51a, zevende lid | 3 |
-| 52, eerste tot en met zevende lid |   |
+| 52, eerste tot en met zevende lid | 3 |
 | 53, eerste tot en met negende en twaalfde en dertiende lid | 2 |
 | 55, eerste en derde lid | 2 |
 | 57, eerste en tweede lid | 2 |
@@ -920,7 +921,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 167a, eerste tot en met vierde lid | 2 |
 | 167b | 2 |
 | 168, eerste en tweede lid | 2 |
-| 168a, eerste lid | 2 |
+| 168a, eerste lid | 3 |
 | 174, tweede lid | 2 |
 |   |   |
 | [Besluit melding zeggenschap en kapitaalbelang in uitgevende instellingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020416) |   |
@@ -1213,7 +1214,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 10a
 
-Dit onderdeel is nog niet inwerking getreden
+De toezichthouder maakt een besluit tot het opleggen van een bestuurlijke boete ingevolge een op de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) gebaseerde algemene maatregel van bestuur openbaar, indien de bestuurlijke boete is opgelegd ter zake van overtreding van:
+
+- a. [artikel 14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=14), [81, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=81), of [103, vierde lid van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=103);
+
+- b. [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=19), [22, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=22), [24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=24), [26, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=26), [27, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=27), [29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=29), [35, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=35), [35a, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=35a), [35b](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=35b), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=39), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=40), [51a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=51a), [58b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=58b), [80a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=80a), [80b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=80b), [81, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=81), [130](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=130), [132](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=132), [133, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=133), [134, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=134), [135, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=135), [136, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=136), [137, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=137), [138, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=138), [139, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=139), [140, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=140), [156](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=156), [159, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=159), [160, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=160), [164, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=164), of [164b, eerste en tweede lid, van het Besluit Gedragstoezicht financiële ondernemingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=164b); of
+
+- c. [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&artikel=3), [5, eerste, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&artikel=7), [10 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&artikel=10), [15, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&artikel=15), [16, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&artikel=17), [18, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&artikel=18), [19 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&artikel=19), [25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&artikel=25), of [27 van het Besluit openbare biedingen](https://wetten.overheid.nl/jci1.3:c:BWBR0022511&artikel=27).
 
 #### § 3. Wijziging andere besluiten
 
@@ -1221,11 +1228,33 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 12a
 
-Dit onderdeel is nog niet inwerking getreden
+Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de verordening (EG) nr. 1060/2009 van het Europees Parlement en de Raad van 16 september 2009 inzake ratingbureaus (PbEU L 302), is als volgt beboetbaar:
+
+| Artikel | Boetecategorie |
+| --- | --- |
+| 4, eerste, derde en vierde lid | 3 |
+| 5, eerste lid | 3 |
+| 6, eerste en tweede lid | 3 |
+| 7, eerste tot en met vijfde lid | 2 |
+| 8, eerste lid | 1 |
+| 8, tweede tot en met zesde lid | 2 |
+| 9 | 2 |
+| 10, eerste tot en met zesde lid | 1 |
+| 11, eerste tot en met derde lid | 1 |
+| 12 | 1 |
+| 13 | 1 |
+| 14, eerste lid | 3 |
+| 14, derde lid | 2 |
 
 ##### Artikel 12b
 
-Dit onderdeel is nog niet inwerking getreden
+Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de verordening (EG) nr. 924/2009 van het Europees Parlement en de Raad van 16 september 2009 betreffende grensoverschrijdende betalingen in de Gemeenschap en tot intrekking van Verordening (EG) nr. 2560/2001, is als volgt beboetbaar:
+
+| Artikel | Boetecategorie |
+| --- | --- |
+| 3, eerste en tweede lid | 2 |
+| 4, eerste en tweede lid | 1 |
+| 8, eerste, derde en vierde lid | 1 |
 
 #### § 3. Wijziging andere besluiten
 
