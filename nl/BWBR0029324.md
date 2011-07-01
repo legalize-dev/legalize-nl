@@ -4,7 +4,7 @@ identifier: "BWBR0029324"
 country: "nl"
 rank: "wet"
 publication_date: "2011-07-01"
-last_updated: "2011-01-01"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029324"
 soort: "wet"
@@ -126,7 +126,7 @@ Wijzigt de Wet financiering sociale verzekeringen.
 
 ##### Artikel XVA
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet controle op rechtspersonen.
 
 ##### Artikel XVB
 
@@ -180,35 +180,35 @@ Dit onderdeel is nog niet inwerking getreden
 
 1. Deze wet treedt in werking met ingang van 1 januari 2011, met dien verstande dat:
 
-- a. [artikel XVII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=XVII&z=2011-01-01&g=2011-01-01), in werking treedt met ingang van 31 december 2010;
+- a. [artikel XVII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=XVII&z=2011-07-01&g=2011-07-01), in werking treedt met ingang van 31 december 2010;
 
-- b. de wijzigingen ingevolge [artikel XIV, onderdelen A, onder 1, en B](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=XIV&z=2011-01-01&g=2011-01-01), voor het eerst toepassing vinden met betrekking tot verzuimen die zijn begaan na het tijdstip waarop deze wet in werking treedt.
+- b. de wijzigingen ingevolge [artikel XIV, onderdelen A, onder 1, en B](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=XIV&z=2011-07-01&g=2011-07-01), voor het eerst toepassing vinden met betrekking tot verzuimen die zijn begaan na het tijdstip waarop deze wet in werking treedt.
 
-2. [Artikel I, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=I&z=2011-01-01&g=2011-01-01), werkt terug tot en met 1 januari 2006.
+2. [Artikel I, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=I&z=2011-07-01&g=2011-07-01), werkt terug tot en met 1 januari 2006.
 
-3. [Artikel XC, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=XC&z=2011-01-01&g=2011-01-01), werkt terug tot en met 1 januari 2008.
+3. [Artikel XC, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=XC&z=2011-07-01&g=2011-07-01), werkt terug tot en met 1 januari 2008.
 
-4. [Artikel I, onderdeel 0A](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=I&z=2011-01-01&g=2011-01-01), en [artikel XII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=XII&z=2011-01-01&g=2011-01-01), werken terug tot en met 1 januari 2009.
+4. [Artikel I, onderdeel 0A](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=I&z=2011-07-01&g=2011-07-01), en [artikel XII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=XII&z=2011-07-01&g=2011-07-01), werken terug tot en met 1 januari 2009.
 
-5. [Artikel XIIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=XIIIA&z=2011-01-01&g=2011-01-01) werkt terug tot en met 1 juli 2009.
+5. [Artikel XIIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=XIIIA&z=2011-07-01&g=2011-07-01) werkt terug tot en met 1 juli 2009.
 
-6. [Artikel III, onderdelen Ca en La](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=III&z=2011-01-01&g=2011-01-01), werkt terug tot en met 15 september 2009.
+6. [Artikel III, onderdelen Ca en La](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=III&z=2011-07-01&g=2011-07-01), werkt terug tot en met 15 september 2009.
 
-7. [Artikel I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=I&z=2011-01-01&g=2011-01-01), en [artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=XII&z=2011-01-01&g=2011-01-01) werken terug tot en met 15 december 2009.
+7. [Artikel I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=I&z=2011-07-01&g=2011-07-01), en [artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=XII&z=2011-07-01&g=2011-07-01) werken terug tot en met 15 december 2009.
 
-8. [Artikel IV, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=IV&z=2011-01-01&g=2011-01-01), werkt terug tot en met 18 december 2009.
+8. [Artikel IV, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=IV&z=2011-07-01&g=2011-07-01), werkt terug tot en met 18 december 2009.
 
-9. [Artikel I, onderdeel N](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=I&z=2011-01-01&g=2011-01-01), werkt terug tot en met 30 december 2009.
+9. [Artikel I, onderdeel N](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=I&z=2011-07-01&g=2011-07-01), werkt terug tot en met 30 december 2009.
 
-10. [Artikel I, onderdelen B, J, K, L, O, onder 1 en 2, en S](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=I&z=2011-01-01&g=2011-01-01), [artikel III, onderdelen A, onder 1, en D](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=III&z=2011-01-01&g=2011-01-01), [artikel IV, onderdelen C, D, E en F, artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=IV&z=2011-01-01&g=2011-01-01), [artikel VI, onderdelen A en Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=VI&z=2011-01-01&g=2011-01-01), [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=VII&z=2011-01-01&g=2011-01-01), [artikel VIII, artikel X, onderdelen B, C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=VIII&z=2011-01-01&g=2011-01-01), [artikel XIII, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=XIII&z=2011-01-01&g=2011-01-01), [artikel XVB](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=XVB&z=2011-01-01&g=2011-01-01), [artikel XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=XIX&z=2011-01-01&g=2011-01-01), [artikel XX](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=XX&z=2011-01-01&g=2011-01-01), [artikel XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=XXI&z=2011-01-01&g=2011-01-01) en [artikel XXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=XXIV&z=2011-01-01&g=2011-01-01) werken terug tot en met 1 januari 2010.
+10. [Artikel I, onderdelen B, J, K, L, O, onder 1 en 2, en S](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=I&z=2011-07-01&g=2011-07-01), [artikel III, onderdelen A, onder 1, en D](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=III&z=2011-07-01&g=2011-07-01), [artikel IV, onderdelen C, D, E en F, artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=IV&z=2011-07-01&g=2011-07-01), [artikel VI, onderdelen A en Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=VI&z=2011-07-01&g=2011-07-01), [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=VII&z=2011-07-01&g=2011-07-01), [artikel VIII, artikel X, onderdelen B, C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=VIII&z=2011-07-01&g=2011-07-01), [artikel XIII, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=XIII&z=2011-07-01&g=2011-07-01), [artikel XVB](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=XVB&z=2011-07-01&g=2011-07-01), [artikel XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=XIX&z=2011-07-01&g=2011-07-01), [artikel XX](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=XX&z=2011-07-01&g=2011-07-01), [artikel XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=XXI&z=2011-07-01&g=2011-07-01) en [artikel XXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=XXIV&z=2011-07-01&g=2011-07-01) werken terug tot en met 1 januari 2010.
 
-11. [Artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=IX&z=2011-01-01&g=2011-01-01) werkt terug tot en met 1 april 2010.
+11. [Artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=IX&z=2011-07-01&g=2011-07-01) werkt terug tot en met 1 april 2010.
 
-12. [Artikel XXIVA](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=XXIVA&z=2011-01-01&g=2011-01-01) werkt terug tot en met 15 september 2010.
+12. [Artikel XXIVA](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=XXIVA&z=2011-07-01&g=2011-07-01) werkt terug tot en met 15 september 2010.
 
-13. [Artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=I&z=2011-01-01&g=2011-01-01), werkt terug tot en met 1 december 2010.
+13. [Artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=I&z=2011-07-01&g=2011-07-01), werkt terug tot en met 1 december 2010.
 
-14. In afwijking van het eerste lid treedt [artikel XVA](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=XVA&z=2011-01-01&g=2011-01-01), ingeval [artikel II, onderdeel H, van de wet van 7 juli 2010 tot wijziging van onder meer Boek 2 van het Burgerlijk Wetboek en de Wet documentatie vennootschappen in verband met het vervallen van de verklaring van geen bezwaar en het verbeteren en uitbreiden van de controle op rechtspersonen met het oog op de voorkoming en bestrijding van misbruik van rechtspersonen](https://wetten.overheid.nl/jci1.3:c:BWBR0027919&artikel=II) (Stb. 280) na 31 december 2010 in werking treedt, in werking onmiddellijk nadat bedoeld onderdeel H in werking is getreden.
+14. In afwijking van het eerste lid treedt [artikel XVA](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=XVA&z=2011-07-01&g=2011-07-01), ingeval [artikel II, onderdeel H, van de wet van 7 juli 2010 tot wijziging van onder meer Boek 2 van het Burgerlijk Wetboek en de Wet documentatie vennootschappen in verband met het vervallen van de verklaring van geen bezwaar en het verbeteren en uitbreiden van de controle op rechtspersonen met het oog op de voorkoming en bestrijding van misbruik van rechtspersonen](https://wetten.overheid.nl/jci1.3:c:BWBR0027919&artikel=II) (Stb. 280) na 31 december 2010 in werking treedt, in werking onmiddellijk nadat bedoeld onderdeel H in werking is getreden.
 
 ##### Artikel XXVI
 
