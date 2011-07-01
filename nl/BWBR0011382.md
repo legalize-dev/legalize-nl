@@ -4,7 +4,7 @@ identifier: "BWBR0011382"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-01-01"
-last_updated: "2002-01-01"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011382"
 soort: "ministeriele-regeling"
@@ -118,15 +118,15 @@ Het model van een kansspelautomaat voldoet aan de volgende eisen:
 
 - h. de automaat keert na onderbreking van de voedingsspanning in dezelfde toestand terug als voor de onderbreking, met dien verstande dat de inzet van het lopende spel en het resultaat van dat spel mogen vervallen;
 
-- i. een teller als bedoeld in de [artikelen 12, eerste lid, onder](https://wetten.overheid.nl/jci1.3:c:BWBR0011382&paragraaf=6&artikel=12&z=2002-01-01&g=2002-01-01) hh, en 13, eerste lid, onder u, van het besluit, kan ten minste 99 999 spellen registreren.
+- i. een teller als bedoeld in de [artikelen 12, eerste lid, onder](https://wetten.overheid.nl/jci1.3:c:BWBR0011382&paragraaf=6&artikel=12&z=2011-07-01&g=2011-07-01) hh, en 13, eerste lid, onder u, van het besluit, kan ten minste 99 999 spellen registreren.
 
 ##### Artikel 8
 
 Het model van een kansspelautomaat niet bestemd voor opstelling in een speelautomatenhal of een speelcasino, voldoet aan de volgende eisen:
 
-- a. het uitkeringspercentage, bedoeld in artikel 12, eerste lid, onder f, van het besluit en het gemiddelde uurverlies, bedoeld in artikel 12, eerste lid, onder g, van het besluit, worden gerealiseerd in een periode van 100 uren voortdurende bespeling;
+- a. het uitkeringspercentage, bedoeld in [artikel 12, eerste lid, onder f, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&artikel=12) en het gemiddelde uurverlies, bedoeld in artikel 12, eerste lid, onder g, van het besluit, worden gerealiseerd in een periode van 100 uren voortdurende bespeling;
 
-- b. de gemiddelde tijd die verstrijkt tussen de start van een basisspel en het moment waarop het volgende basisspel gestart kan worden, bedoeld in artikel 12, eerste lid, onder h, van het besluit, wordt gerealiseerd in een periode van 100 uren voortdurende bespeling;
+- b. de gemiddelde tijd die verstrijkt tussen de start van een basisspel en het moment waarop het volgende basisspel gestart kan worden, bedoeld in [artikel 12, eerste lid, onder h, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&artikel=12), wordt gerealiseerd in een periode van 100 uren voortdurende bespeling;
 
 - c. een speellimiet kan alleen worden ingesteld:
 
@@ -160,21 +160,43 @@ Het model van een kansspelautomaat niet bestemd voor opstelling in een speelauto
 
 - l. de speelinformatie wordt uitsluitend gewist als de winbank en de kredietmeter gedurende 10 seconden geen punten bevatten en alleen kan worden verder gespeeld door een inworp te doen;
 
-- m. het door het speelinformatiesysteem weergegeven geleden verlies en de behaalde winst worden bepaald door het verschil tussen de totale inzet in het basisspel en de totale uitbetaling, waarbij de waarde van de winbank wordt beschouwd als gedane uitbetaling en uitbetaling van de kredietmeter niet wordt meegerekend.
+- m. het door het speelinformatiesysteem weergegeven geleden verlies en de behaalde winst worden bepaald door het verschil tussen de totale inzet in het basisspel en de totale uitbetaling, waarbij de waarde van de winbank wordt beschouwd als gedane uitbetaling en uitbetaling van de kredietmeter niet wordt meegerekend;
+
+- n. de wachttijd, bedoeld in [artikel 12, eerste lid, onder dd, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&artikel=12), bedraagt 0,6 seconden per 2 euro of deel daarvan, voor zover deze inworp boven 2 euro uitkomt. De wachttijd vangt aan op het moment dat de inworp is bijgeschreven op de kredietmeter.
+
+- o. het tegoed op de kredietmeter, bedoeld in [artikel 12, eerste lid, onder ii, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&artikel=12), bedraagt € 49,99.
+
+- p. de tegoedbon bedoeld in [artikel 12, eerste lid, onder j, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&artikel=12), vermeldt ten minste de volgende gegevens op duidelijke en niet tot misvatting aanleiding gevende wijze:
+
+- •. het bedrag dat dient te worden uitbetaald, in euro’s;
+
+- •. de naam en het adres van de inrichting waar de automaat is opgesteld;
+
+- •. het volledige nummer van het merkteken, zoals bedoeld in [artikel 30r van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30r), van de uitbetalende kansspelautomaat;
+
+- •. de datum en het tijdstip van uitbetaling;
+
+- •. de eventuele geldigheidsduur van de tegoedbon;
+
+- •. de tekst ‘Voorkom gokverslaving – speel met mate’.
 
 ##### Artikel 9
 
 Het model van een kansspelautomaat bestemd voor opstelling in een speelautomatenhal, voldoet aan de volgende eisen:
 
-- a. het uitkeringspercentage, bedoeld in artikel 13, eerste lid onder f, van het besluit en het gemiddelde uurverlies, bedoeld in artikel 13, eerste lid, onder g, van het besluit, worden gerealiseerd:
+- a. het uitkeringspercentage, bedoeld in [artikel 13, eerste lid onder f, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&artikel=13) en het gemiddelde uurverlies, bedoeld in artikel 13, eerste lid, onder g, van het besluit, worden gerealiseerd:
 
 - indien het een automaat betreft waarop meerdere spelers tegelijk een spel kunnen spelen met als basis een centraal toevalsproces, in een periode van 100.000 spellen voortdurende bespeling;
 
 - bij de overige automaten in een periode van 100 uren voortdurende bespeling;
 
-- b. de minimale afstand, bedoeld in artikel 13, eerste lid, onder w, van het besluit bedraagt 40 centimeter;
+- b. de minimale afstand, bedoeld in [artikel 13, eerste lid, onder w, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&artikel=13) bedraagt 40 centimeter;
 
-- c. indien een prijs door een gekoppelde-jackpotsysteem aan een automaat wordt toegekend, wordt dit binnen drie seconden door de automaat kenbaar gemaakt.
+- c. indien een prijs door een gekoppelde-jackpotsysteem aan een automaat wordt toegekend, wordt dit binnen drie seconden door de automaat kenbaar gemaakt;
+
+- d. de wachttijd, bedoeld in [artikel 13, eerste lid, onder ff, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&artikel=13), bedraagt 0,3 seconden per 2 euro of deel daarvan, voor zover deze inworp boven 2 euro uitkomt. De wachttijd vangt aan op het moment dat de inworp is bijgeschreven op de kredietmeter.
+
+- e. het tegoed op de kredietmeter, bedoeld in [artikel 13, eerste lid, onder gg, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&artikel=13), bedraagt € 49,99.
 
 #### § 4.4. Merktekens
 
@@ -182,7 +204,7 @@ Het model van een kansspelautomaat bestemd voor opstelling in een speelautomaten
 
 1. Merktekens en afschriften van de verklaring, houdende toelating van een model van een speelautomaat, worden op verzoek van de houder van een toelating van een model aan deze afgegeven door Verispect B.V. te Delft tegen betaling van een bedrag overeenkomstig onderstaande tabel:
 
-- merkteken voor een kansspelautomaat als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0011382&paragraaf=4&sub-paragraaf=4.3&artikel=8&z=2002-01-01&g=2002-01-01) en merkteken voor een kansspelautomaat als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0011382&paragraaf=4&sub-paragraaf=4.3&artikel=9&z=2002-01-01&g=2002-01-01): € 131 per stuk;
+- merkteken voor een kansspelautomaat als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0011382&paragraaf=4&sub-paragraaf=4.3&artikel=8&z=2011-07-01&g=2011-07-01) en merkteken voor een kansspelautomaat als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0011382&paragraaf=4&sub-paragraaf=4.3&artikel=9&z=2011-07-01&g=2011-07-01): € 131 per stuk;
 
 - merkteken voor een behendigheidsautomaat: € 11 per stuk;
 
@@ -204,7 +226,7 @@ Het model van een kansspelautomaat bestemd voor opstelling in een speelautomaten
 
 Als afkeuringsmerk als bedoeld in artikel 30x van de wet wordt vastgesteld het merk, opgenomen in bijlage V bij deze regeling.
 
-#### § 6. Slotbepalingen
+#### § 5. Afkeuringsmerk
 
 ##### Artikel 12
 
@@ -414,6 +436,10 @@ Formulier voor de verklaring van toelating van een model van een speelautomaat a
 
 ### -1-
 
+Formulier voor de verklaring van toelating van een model van een speelautomaat als bedoeld in [artikel 30q, eerste lid, van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30q)
+
+**nummer:**
+
 **Verklaring van Toelating**
 
 **nummer:**
@@ -438,11 +464,11 @@ waarvoor de navolgende voorschriften krachtens artikel van de Wet op de kansspel
 
 alsmede
 
-– de eisen, zoals gesteld in de artikelen van de Speelautomatenregeling 2000.
+### -2-
 
 – de eisen, zoals gesteld in de artikelen van de [Beschikking casinospelen 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0009234)
 
-### -2-
+**nummer:**
 
 **Verklaring van Toelating**
 
@@ -461,6 +487,50 @@ Speelautomaten vervaardigd naar dit model mogen worden opgesteld in:
 □ horeca gelegenheden, indien daarvoor een aanwezigheidsvergunning is verleend;
 
 □ speelhallen, indien daarvoor een vergunning als bedoeld in [artikel 30c, eerste lid, onder c, van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30c), is verleend;
+
+## Bijlage V. bij de Speelautomatenregeling 2000
+
+Afkeuringsmerk als bedoeld in artikel 30x, vierde lid, van de Wet op de kansspelen
+
+Verwijdering van dit keurmerk ook na herstelling is strafbaar
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+#### § 4.5. Centraal elektronisch inworp- en uitbetalingssysteem
+
+##### Artikel 10bis
+
+- a. De wachttijd, bedoeld in [artikel 14, derde lid, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&artikel=14), bedraagt 0,3 seconden per 2 euro of deel daarvan, voor zover deze inworp boven 2 euro uitkomt.
+
+- b. Als onafhankelijke deskundige of keuringsinstelling, bedoeld in [artikel 14, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&artikel=14), worden aangewezen: de instellingen aangewezen krachtens [artikel 30o, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30o).
+
+#### § 6. Slotbepalingen
+
+## Bijlage I. bij de Speelautomatenregeling 2000
+
+**Bijlage I. Typen speelautomaten, bestemd om op kermissen te worden gebruikt, als bedoeld in artikel 30a, tweede lid, van de Wet op de kansspelen**
+
+## Bijlage II. bij de Speelautomatenregeling 2000
+
+[**Bijlage II**](https://wetten.overheid.nl/jci1.3:c:BWBR0011382&bijlage=II&z=2011-07-01&g=2011-07-01)
+
+Model van het formulier tot aanvraag van een exploitatievergunning als bedoeld in [artikel 6, eerste lid, van het Speelautomatenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&artikel=6)
+
+## Bijlage III. bij de Speelautomatenregeling 2000
+
+[**Bijlage III**](https://wetten.overheid.nl/jci1.3:c:BWBR0011382&bijlage=III&z=2011-07-01&g=2011-07-01)
+
+Model van het formulier tot aanvraag om toelating van een model van een speelautomaat als bedoeld in [artikel 17, eerste lid, van het Speelautomatenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&artikel=17)
+
+### AANVRAAG MODELTOELATING SPEELAUTOMAAT
+
+## Bijlage IV. bij de Speelautomatenregeling 2000
+
+### -1-
+
+– de eisen, zoals gesteld in de artikelen van de Speelautomatenregeling 2000.
+
+### -2-
 
 □ speelcasino’s
 
