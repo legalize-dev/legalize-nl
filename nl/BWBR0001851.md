@@ -4,7 +4,7 @@ identifier: "BWBR0001851"
 country: "nl"
 rank: "wet"
 publication_date: "2019-02-16"
-last_updated: "2009-03-01"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001851"
 soort: "wet"
@@ -52,7 +52,9 @@ Geene gelden mogen worden geheven ter zake van het opmaken van akten of andere v
 
 - c. voor elke verklaring van huwelijksbevoegdheid als bedoeld in [artikel 49a van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=49a);
 
-- d. voor elk meertalig uittreksel uit een akte van de burgerlijke stand.
+- d. voor elke attestatie de vita, als bedoeld in [artikel 19k van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=19k) en
+
+- e. voor elk meertalig uittreksel uit een akte van de burgerlijke stand.
 
 Afschriften van of uittreksels uit huwelijksakten of akten van omzetting van een geregistreerd partnerschap in een huwelijk worden ten behoeve van het kerkelijk huwelijk kosteloos uitgegeven, mits van de bestemming uit het stuk zelve blijke en zij alzoo tot geen ander einde kunnen worden gebruikt.
 
@@ -64,7 +66,7 @@ Afschriften van of uittreksels uit huwelijksakten of akten van omzetting van een
 
 ##### Artikel 3
 
-1. De regten, krachtens [art. 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001851&artikel=2&z=2009-03-01&g=2009-03-01) geheven, komen ten bate van de gemeentekas.
+1. De regten, krachtens [art. 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001851&artikel=2&z=2011-07-01&g=2011-07-01) geheven, komen ten bate van de gemeentekas.
 
 2. Zij worden door den ambtenaar van den burgerlijken stand bij de uitreiking van het afschrift of uittreksel, op welk stuk het verschuldigd bedrag wordt vermeld, ingevorderd en op de wijze, door Ons te bepalen, verantwoord.
 
