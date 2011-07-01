@@ -4,7 +4,7 @@ identifier: "BWBR0024090"
 country: "nl"
 rank: "zbo"
 publication_date: "2011-07-01"
-last_updated: "2010-10-05"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024090"
 soort: "zbo"
@@ -54,7 +54,7 @@ In deze beschikking wordt verstaan onder:
 
 - b. de Minister: de Minister van Justitie;
 
-- c. vennootschap: besloten vennootschap met beperkte aansprakelijkheid Scientific Games Racing B.V., gevestigd te ’s-Gravenhage;
+- c. vennootschap: besloten vennootschap met beperkte aansprakelijkheid Sportech Racing B.V., gevestigd te ’s-Gravenhage;
 
 - d. college: College van toezicht op de kansspelen bedoeld in [artikel 33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33);
 
@@ -82,7 +82,7 @@ In deze beschikking wordt verstaan onder:
 
 2. De vergunning wordt verleend onder de voorwaarde dat Sportech Plc, gevestigd in Londen, UK of een 100%-dochter vennootschap van Sportech Plc enig aandeelhouder van de vennootschap is. Sportech Plc is gehouden in te staan voor de nakoming van alle verplichtingen van de vennootschap onder de vergunning.
 
-3. Aan de in het eerste lid bedoelde vergunning worden de in [artikel 3 tot en met artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024090&artikel=3&z=2010-10-05&g=2010-10-05) vervatte voorschriften verbonden, die zonodig kunnen worden gewijzigd of aangevuld.
+3. Aan de in het eerste lid bedoelde vergunning worden de in [artikel 3 tot en met artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024090&artikel=3&z=2011-07-01&g=2011-07-01) vervatte voorschriften verbonden, die zonodig kunnen worden gewijzigd of aangevuld.
 
 ##### Artikel 3
 
@@ -102,7 +102,7 @@ In deze beschikking wordt verstaan onder:
 
 1. Het is de vennootschap toegestaan weddenschappen af te sluiten:
 
-- d. op de banen als bedoeld in [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0024090&artikel=3&z=2010-10-05&g=2010-10-05);
+- d. op de banen als bedoeld in [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0024090&artikel=3&z=2011-07-01&g=2011-07-01);
 
 - e. in wedkantoren;
 
@@ -136,7 +136,7 @@ De vennootschap draagt aan de NDR de bedragen af in overeenstemming met de tusse
 
 ##### Artikel 8
 
-1. Binnen vier weken na afloop van enige maand draagt de vennootschap het bedrag, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024090&artikel=6&z=2010-10-05&g=2010-10-05), aan de begunstigden af.
+1. Binnen vier weken na afloop van enige maand draagt de vennootschap het bedrag, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024090&artikel=6&z=2011-07-01&g=2011-07-01), aan de begunstigden af.
 
 2. Indien het verschil tussen het aan de begunstigden toekomende bedrag volgens de vastgestelde jaarrekening en de op het desbetreffende kalenderjaar betrekking hebbende maandafdrachten ingevolge het eerste lid positief is, draagt de vennootschap het aan de begunstigden toekomende bedrag binnen vier weken na de vaststelling van de jaarrekening aan de begunstigden af.
 
@@ -174,7 +174,7 @@ De Minister kan, gehoord het college, aanwijzingen geven omtrent de inrichting v
 
 ##### Artikel 13
 
-1. Het aantal locaties, bedoeld in [artikel 4, eerste lid, onder b, c, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0024090&artikel=4&z=2010-10-05&g=2010-10-05), bedraagt in totaal ten hoogste honderd.
+1. Het aantal locaties, bedoeld in [artikel 4, eerste lid, onder b, c, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0024090&artikel=4&z=2011-07-01&g=2011-07-01), bedraagt in totaal ten hoogste honderd.
 
 2. Het is de houder van een wedkantoor toegestaan in een wedkantoor een bar of buffet te exploiteren of aan derden te verpachten, waar geen alcoholhoudende drank verkrijgbaar is.
 
@@ -182,17 +182,17 @@ De Minister kan, gehoord het college, aanwijzingen geven omtrent de inrichting v
 
 ##### Artikel 14
 
-1. Uitgesloten als locaties, bedoeld in [artikel 4, eerste lid, onder b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0024090&artikel=4&z=2010-10-05&g=2010-10-05), zijn:
+1. Uitgesloten als locaties, bedoeld in [artikel 4, eerste lid, onder b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0024090&artikel=4&z=2011-07-01&g=2011-07-01), zijn:
 
 - a. inrichtingen die beschikken over een vergunning horecabedrijf als bedoeld in [artikel 3 van de Drank- en Horecawet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=3);
 
 - b. inrichtingen waar activiteiten worden ontplooid welke in belangrijke mate gericht zijn op personen beneden de leeftijd van 18 jaar.
 
-2. De vennootschap stelt de gelegenheid open tot het afsluiten van weddenschappen in een locatie als bedoeld in [artikel 4, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0024090&artikel=4&z=2010-10-05&g=2010-10-05), tot uiterlijk één uur voor de aanvang van de eerste koers van de koersdag waarop de weddenschap betrekking heeft, behoudens voorzover de mogelijkheid tot het afsluiten van weddenschappen wordt geboden door middel van mechanische, elektrische of elektronische voorzieningen.
+2. De vennootschap stelt de gelegenheid open tot het afsluiten van weddenschappen in een locatie als bedoeld in [artikel 4, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0024090&artikel=4&z=2011-07-01&g=2011-07-01), tot uiterlijk één uur voor de aanvang van de eerste koers van de koersdag waarop de weddenschap betrekking heeft, behoudens voorzover de mogelijkheid tot het afsluiten van weddenschappen wordt geboden door middel van mechanische, elektrische of elektronische voorzieningen.
 
 ##### Artikel 15
 
-1. Onverminderd [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024090&artikel=13&z=2010-10-05&g=2010-10-05), is het de vennootschap toegestaan in ten hoogste twintig wedcafés weddenschappen af te sluiten.
+1. Onverminderd [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024090&artikel=13&z=2011-07-01&g=2011-07-01), is het de vennootschap toegestaan in ten hoogste twintig wedcafés weddenschappen af te sluiten.
 
 2. De vennootschap stelt een huisreglement voor wedcafés op, met regels die door bezoekers van een wedcafé in acht worden genomen.
 
@@ -250,7 +250,7 @@ De Minister kan, gehoord het college, aanwijzingen geven omtrent de inrichting v
 
 ##### Artikel 21
 
-De kosten verbonden aan de goedkeuring, controle en onderzoek ingevolge de [artikelen 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024090&artikel=11&z=2010-10-05&g=2010-10-05), en [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024090&artikel=20&z=2010-10-05&g=2010-10-05), zijn voor rekening van de vennootschap.
+De kosten verbonden aan de goedkeuring, controle en onderzoek ingevolge de [artikelen 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024090&artikel=11&z=2011-07-01&g=2011-07-01), en [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024090&artikel=20&z=2011-07-01&g=2011-07-01), zijn voor rekening van de vennootschap.
 
 ##### Artikel 22
 
