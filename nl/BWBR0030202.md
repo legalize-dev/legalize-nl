@@ -4,7 +4,7 @@ identifier: "BWBR0030202"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2011-07-02"
-last_updated: "2010-10-10"
+last_updated: "2011-07-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030202"
 soort: "ministeriele-regeling-BES"
@@ -40,11 +40,9 @@ Gelet op [artikel 26, eerste lid, van het Besluit buitengewone agenten van polit
 
 Besluit:
 
-Werkt terug tot en met 10 oktober 2010 om 00:00 uur in Bonaire, Sint Eustatius en Saba en om 06:00 uur in het Europese deel van Nederland.
-
 ##### Artikel 1
 
-De buitengewone agent van politie draagt bij het uitoefenen van zijn functie een legitimatiebewijs bij zich volgens het model, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030202&bijlage=I&z=2011-07-02&g=2010-10-10) bij dit besluit, tenzij voor hem een ander legitimatiebewijs is vastgesteld.
+De buitengewone agent van politie draagt bij het uitoefenen van zijn functie een legitimatiebewijs bij zich volgens het model, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030202&bijlage=I&z=2011-07-02&g=2011-07-02) bij dit besluit, tenzij voor hem een ander legitimatiebewijs is vastgesteld.
 
 ##### Artikel 2
 
