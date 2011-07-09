@@ -4,7 +4,7 @@ identifier: "BWBR0029264"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-12-21"
-last_updated: "2011-06-30"
+last_updated: "2011-07-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029264"
 soort: "ministeriele-regeling"
@@ -147,7 +147,7 @@ Besluit:
 | 5.2 | Subsidieregeling energie en innovatie (EOS: korte termijn) | 2.2.2 | Andere projecten dan haalbaarheidsstudies | – | – |
 |   | Subsidieregeling energie en innovatie (EOS: korte termijn) | 2.2.2 | Haalbaarheidsstudies | – | – |
 | 5.3 | Subsidieregeling energie en innovatie (EOS: demonstratie) | 2.3.2 |   | – | – |
-| 5.4 | Subsidieregeling energie en innovatie (duurzame warmte voor bestaande woningen) | 3.1.2 |   | – | – |
+| 5.4 | Subsidieregeling energie en innovatie (duurzame warmte voor bestaande woningen) | 3.1.2 |   | – | 2.400.000 |
 | 5.5 | Subsidieregeling energie en innovatie (duurzame biomassa–import) | 3.2.2 |   | – | – |
 | 5.6 | Subsidieregeling energie en innovatie (investeringen verlaging elektriciteitsaansluiting warmtepomphouders) | 3.3.2 |   | – | – |
 | 5.7 | Subsidieregeling energie en innovatie (bioraffinage) | 3.5.2 | Demonstratieproject bioraffinage | – | – |
