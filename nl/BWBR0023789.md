@@ -4,7 +4,7 @@ identifier: "BWBR0023789"
 country: "nl"
 rank: "zbo"
 publication_date: "2015-03-31"
-last_updated: "2010-08-19"
+last_updated: "2011-07-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023789"
 soort: "zbo"
@@ -52,6 +52,8 @@ In dit besluit wordt verstaan onder:
 - 3°. degene die aanspraak maakt op een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043), zijn echtgenoot of zijn wettelijk vertegenwoordiger, en
 
 - 4°. de werknemer, de gelijkgestelde en de beroepsbeoefenaar op arbeidsovereenkomst, bedoeld in de [artikelen 3:6](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:6) en [3:17 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:17);
+
+- 5°. de aanvrager en de uitkeringsgerechtigde als bedoeld in [artikel 1 van de Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=1).
 
 - b. niet naleven van een verplichting: het niet, niet tijdig of niet behoorlijk nakomen van een verplichting op grond van een van de wetten, genoemd in [artikel 1 van het Maatregelenbesluit socialezekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0022445&artikel=1);
 
