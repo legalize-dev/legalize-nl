@@ -4,7 +4,7 @@ identifier: "BWBR0020434"
 country: "nl"
 rank: "zbo"
 publication_date: "2011-07-14"
-last_updated: "2010-08-19"
+last_updated: "2011-07-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020434"
 soort: "zbo"
@@ -67,11 +67,13 @@ Besluit:
 
 - l. WAZO: [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008);
 
-- m. TW: [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043).
+- m. TW: [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043);
+
+- n. Wet IOW: [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394).
 
 2. In dit besluit wordt onder uitkering tevens verstaan: ziekengeld ingevolge de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), inkomensondersteuning ingevolge de [Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) en toeslag ingevolge de [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043).
 
-3. In dit besluit wordt onder verzekerde tevens verstaan: de werknemer ingevolge de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de jonggehandicapte ingevolge de [Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), de persoon die recht heeft op toeslag ingevolge de [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de werknemer, de gelijkgestelde en de beroepsbeoefenaar op arbeidsovereenkomst in de zin van de [WAZO](https://wetten.overheid.nl/jci1.3:c:BWBR0013008).
+3. In dit besluit wordt onder verzekerde tevens verstaan: de werknemer ingevolge de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de jonggehandicapte ingevolge de [Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), de persoon die recht heeft op toeslag ingevolge de [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043), de aanvrager en de uitkeringsgerechtigde ingevolge de [Wet IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394) en de werknemer, de gelijkgestelde en de beroepsbeoefenaar op arbeidsovereenkomst in de zin van de [WAZO](https://wetten.overheid.nl/jci1.3:c:BWBR0013008).
 
 ##### Artikel 2. Schorsing of opschorting
 
@@ -93,7 +95,7 @@ Besluit:
 
 ##### Artikel 4. Intrekking of herziening met ingang van de dag van de mededeling
 
-1. Onverminderd het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020434&artikel=3&z=2010-08-19&g=2010-08-19) wordt, indien het de verzekerde niet redelijkerwijs duidelijk was of kon zijn dat ten onrechte of tot een te hoog bedrag uitkering werd verstrekt, de uitkering ingetrokken of herzien met ingang van de dag waarop UWV hem voor het eerst kenbaar heeft gemaakt dat hem ten onrechte of tot een te hoog bedrag uitkering is verstrekt, doch niet later dan de dag met ingang waarvan de uitkering werd geschorst.
+1. Onverminderd het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020434&artikel=3&z=2011-07-14&g=2011-07-14) wordt, indien het de verzekerde niet redelijkerwijs duidelijk was of kon zijn dat ten onrechte of tot een te hoog bedrag uitkering werd verstrekt, de uitkering ingetrokken of herzien met ingang van de dag waarop UWV hem voor het eerst kenbaar heeft gemaakt dat hem ten onrechte of tot een te hoog bedrag uitkering is verstrekt, doch niet later dan de dag met ingang waarvan de uitkering werd geschorst.
 
 2. In afwijking van het bepaalde in het vorige lid wordt, indien aan de verzekerde over een periode waarover ten onrechte of tot een te hoog bedrag uitkering is verstrekt terwijl dat hem niet redelijkerwijs duidelijk was of kon zijn, een andere uitkering wordt toegekend, de eerstgenoemde uitkering ingetrokken of herzien met ingang van de dag waarop de andere uitkering ingaat. De ten onrechte of tot een te hoog bedrag verstrekte uitkering wordt met de andere uitkering verrekend. Voorzover een hoger bedrag is uitgekeerd dan het bedrag van de andere uitkering wordt het meerdere niet teruggevorderd.
 
