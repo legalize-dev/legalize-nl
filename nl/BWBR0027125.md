@@ -4,7 +4,7 @@ identifier: "BWBR0027125"
 country: "nl"
 rank: "zbo"
 publication_date: "2013-12-10"
-last_updated: "2010-06-02"
+last_updated: "2011-07-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027125"
 soort: "zbo"
@@ -56,19 +56,21 @@ In dit besluit wordt verstaan onder:
 
 - h. **TW:** [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043);
 
-- i. **Awb:** [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
+- i. **Wet IOW:** [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394);
 
-- j. **UWV:** Uitvoeringsinstituut werknemersverzekeringen;
+- j. **Awb:** [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
 
-- k. **basis boetebedrag:** het boetebedrag vastgesteld volgens [artikel 2 van het Boetebesluit socialezekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2);
+- k. **UWV:** Uitvoeringsinstituut werknemersverzekeringen;
 
-- l. **afstemming:** de verplichting om in elk individueel geval het boetebedrag vast te stellen in evenredigheid tot de ernst van de gedraging, de mate van verwijtbaarheid en de omstandigheden waarin de belanghebbende verkeert, bedoeld in [artikel 5:46, tweede lid Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:46);
+- l. **basis boetebedrag:** het boetebedrag vastgesteld volgens [artikel 2 van het Boetebesluit socialezekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2);
 
-- m. **inlichtingenverplichting:** de verplichting, genoemd in [artikel 25 van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=25), de [artikelen 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=31), en [49 van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=49), [artikel 80 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=80), [artikel 70 van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=70), [artikelen 2:7](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:7) en [3:74 van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:47), [artikel 27, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=27) en [artikel 12 van de TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=12);
+- m. **afstemming:** de verplichting om in elk individueel geval het boetebedrag vast te stellen in evenredigheid tot de ernst van de gedraging, de mate van verwijtbaarheid en de omstandigheden waarin de belanghebbende verkeert, bedoeld in [artikel 5:46, tweede lid Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:46);
 
-- n. **boete:** de boete, genoemd in [artikel 27a, eerste lid van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27a), [artikel 45a, eerste lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=45a), [artikel 29a, eerste lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=29a), [artikel 48, eerste lid, van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=48), [artikel 2:69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:69) en [artikel 3:40, eerste lid, van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:40), [artikel 91, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=91) en [artikel 14a, eerste lid, van de TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=14a);
+- n. **inlichtingenverplichting:** de verplichting, genoemd in [artikel 25 van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=25), de [artikelen 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=31), en [49 van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=49), [artikel 80 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=80), [artikel 70 van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=70), [artikelen 2:7](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:7) en [3:74 van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:47), [artikel 27, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=27), [artikel 12 van de Wet IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=12) en [artikel 12 van de TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=12);
 
-- o. **waarschuwing:** de waarschuwing, genoemd in [artikel 27a, tweede lid, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27a), [artikel 45a, tweede lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=31), [artikel 29a, tweede lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=29a), [artikel 48, tweede lid, van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=48), [artikelen 2:69, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:69) en [3:40, tweede lid, van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:40), [artikel 91, tweede lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=91) en [artikel 14a, tweede lid, van de TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=14a).
+- o. **boete:** de boete, genoemd in [artikel 27a, eerste lid van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27a), [artikel 45a, eerste lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=45a), [artikel 29a, eerste lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=29a), [artikel 48, eerste lid, van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=48), [artikel 2:69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:69) en [artikel 3:40, eerste lid, van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:40), [artikel 91, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=91), [artikel 21, eerste lid, van de Wet IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=21) en [artikel 14a, eerste lid, van de TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=14a);
+
+- p. **waarschuwing:** de waarschuwing, genoemd in [artikel 27a, tweede lid, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27a), [artikel 45a, tweede lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=31), [artikel 29a, tweede lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=29a), [artikel 48, tweede lid, van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=48), [artikelen 2:69, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:69) en [3:40, tweede lid, van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:40), [artikel 91, tweede lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=91), [artikel 21, tweede lid, van de Wet IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=21) en [artikel 14a, tweede lid, van de TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=14a).
 
 ##### Artikel 2. Afstemming
 
@@ -110,11 +112,11 @@ Indien loonsverhogingen die een rechtstreeks gevolg zijn van een collectieve afs
 
 1. De boete, die met inachtneming van de voorgaande artikelen is vastgesteld, wordt verlaagd, indien de belanghebbende voldoende aannemelijk maakt dat, gelet op de financiële omstandigheden waarin hij verkeert, de boete niet binnen twaalf maanden na oplegging kan zijn voldaan, rekening houdend met het eventuele vermogen en de aflossingscapaciteit van de belanghebbende.
 
-2. In afwijking van het eerste lid geldt een termijn van achttien maanden indien [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027125&artikel=4&z=2010-06-02&g=2010-06-02) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0027125&artikel=5&z=2010-06-02&g=2010-06-02) van toepassing is.
+2. In afwijking van het eerste lid geldt een termijn van achttien maanden indien [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027125&artikel=4&z=2011-07-14&g=2011-07-14) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0027125&artikel=5&z=2011-07-14&g=2011-07-14) van toepassing is.
 
 ##### Artikel 9. Spontane inlichtingenverplichting
 
-De spontane inlichtingenverplichting, genoemd in [artikel 25 van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=25), [artikel 49 van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=49), [artikel 80 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=80), [artikel 70, eerste lid, van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=70), [artikel 2:7 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:7), en [artikel 3:74 van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:47), [artikel 27, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=27) en [artikel 12 van de TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=12) moet onmiddellijk worden nagekomen.
+De spontane inlichtingenverplichting, genoemd in [artikel 25 van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=25), [artikel 49 van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=49), [artikel 80 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=80), [artikel 70, eerste lid, van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=70), [artikel 2:7 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:7), en [artikel 3:74 van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:47), [artikel 27, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=27), [artikel 12, eerste lid, van de Wet IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=12) en [artikel 12 van de TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=12) moet onmiddellijk worden nagekomen.
 
 Onder ‘onmiddellijk’ wordt verstaan: op het moment dat het te melden feit of omstandigheid zich voordoet of bekend is geworden of redelijkerwijs bekend had kunnen zijn aan de belanghebbende.
 
