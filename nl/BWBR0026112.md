@@ -4,7 +4,7 @@ identifier: "BWBR0026112"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2011-01-01"
+last_updated: "2011-07-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026112"
 soort: "wet"
@@ -51,7 +51,7 @@ Wijzigt de Mediawet 2008.
 
 ##### Artikel Ia
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Mediawet 2008.
 
 ##### Artikel II
 
@@ -75,6 +75,6 @@ Indien deze wet na 31 juli 2009 in werking treedt, worden de aanvragen om verlen
 
 ##### Artikel VI
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld met dien verstande dat [artikel Ia](https://wetten.overheid.nl/jci1.3:c:BWBR0026112&artikel=Ia&z=2011-01-01&g=2011-01-01) in werking treedt twee jaar na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld met dien verstande dat [artikel Ia](https://wetten.overheid.nl/jci1.3:c:BWBR0026112&artikel=Ia&z=2011-07-16&g=2011-07-16) in werking treedt twee jaar na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
