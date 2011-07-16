@@ -4,7 +4,7 @@ identifier: "BWBR0030256"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-07-16"
-last_updated: "2011-04-01"
+last_updated: "2011-07-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030256"
 soort: "ministeriele-regeling"
@@ -106,7 +106,7 @@ TOPA afrondende werkzaamheden wordt ingesteld tot en met 31 december 2011.
 
 2. Aan de voorzitter van TOPA afrondende werkzaamheden wordt een bedrag toegekend van 130% van het bedrag dat aan een lid van TOPA afrondende werkzaamheden wordt toegekend.
 
-3. De minister stelt een budget beschikbaar waaruit de materiële kosten van TOPA afrondende werkzaamheden worden vergoed, voor zover deze in redelijkheid gemaakt zijn bij de vervulling van zijn taken, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030256&artikel=3&z=2011-07-16&g=2011-04-01). Onder kosten worden in ieder geval verstaan de kosten voor vergaderingen en vergoedingen.
+3. De minister stelt een budget beschikbaar waaruit de materiële kosten van TOPA afrondende werkzaamheden worden vergoed, voor zover deze in redelijkheid gemaakt zijn bij de vervulling van zijn taken, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030256&artikel=3&z=2011-07-16&g=2011-07-16). Onder kosten worden in ieder geval verstaan de kosten voor vergaderingen en vergoedingen.
 
 ##### Artikel 8. Archiefbescheiden
 
