@@ -4,7 +4,7 @@ identifier: "BWBR0012746"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-10-01"
-last_updated: "2006-01-01"
+last_updated: "2011-07-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012746"
 soort: "ministeriele-regeling"
@@ -108,7 +108,7 @@ Voor erkenning kan worden voorgedragen:
 
 ##### Artikel 6
 
-1. De activiteiten in het kader van een scholing- en trainingsprogramma kunnen aangeboden worden door de reclassering, een gezinsvoogdij-instelling, een werkgever of een derde organisatie.
+1. De activiteiten in het kader van een scholing- en trainingsprogramma kunnen aangeboden worden door de reclassering, de stichting bedoeld in [artikel 1, onderdeel f, van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=1), een werkgever of een derde organisatie.
 
 2. Indien het scholings- en trainingsprogramma of een substantieel gedeelte daarvan uitgevoerd wordt door een derde-organisatie die:
 
@@ -118,7 +118,7 @@ Voor erkenning kan worden voorgedragen:
 
 - c. door het ministerie van Onderwijs, Cultuur en Wetenschap is erkend als onderwijsinstelling;
 
-- d. op grond van de Wet jeugdhulpverlening erkend is;
+- d. op grond van de [Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637) erkend is;
 
 - e. vermeldt de organisatie bij de aanvraag om erkenning van het scholings- en trainingsprogramma de erkenning of toelating.
 
