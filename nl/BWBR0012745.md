@@ -4,7 +4,7 @@ identifier: "BWBR0012745"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-05"
-last_updated: "2001-09-01"
+last_updated: "2011-07-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012745"
 soort: "ministeriele-regeling"
@@ -54,25 +54,25 @@ Een personeelslid of medewerker kan ten aanzien van een jeugdige, ten behoeve va
 
 ##### Artikel 3
 
-Het is een personeelslid of medewerker niet toegestaan de in [artikel 1, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=1&artikel=1&z=2001-09-01&g=2001-09-01), genoemde geweldsmiddelen aan te wenden.
+Het is een personeelslid of medewerker niet toegestaan de in [artikel 1, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=1&artikel=1&z=2011-07-17&g=2011-07-17), genoemde geweldsmiddelen aan te wenden.
 
 ##### Artikel 4
 
-1. In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=3&z=2001-09-01&g=2001-09-01) kan de directeur personeelsleden of medewerkers toestemming verlenen voor het hanteren van een korte of lange wapenstok.
+1. In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=3&z=2011-07-17&g=2011-07-17) kan de directeur personeelsleden of medewerkers toestemming verlenen voor het hanteren van een korte of lange wapenstok.
 
-2. In afwijking van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=3&z=2001-09-01&g=2001-09-01) bepaalde kan de selectiefunctionaris aan door hem krachtens [artikel 40, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=40) aangewezen personeelsleden of medewerkers toestemming verlenen voor het hanteren van een korte of lange wapenstok.
+2. In afwijking van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=3&z=2011-07-17&g=2011-07-17) bepaalde kan de selectiefunctionaris aan door hem krachtens [artikel 40, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=40) aangewezen personeelsleden of medewerkers toestemming verlenen voor het hanteren van een korte of lange wapenstok.
 
 3. De directeur draagt er zorg voor dat:
 
 - a. personeelsleden of medewerkers, die vrijheidsbeperkende middelen toepassen, over voldoende vaardigheden beschikken met betrekking tot het toepassen daarvan;
 
-- b. de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=4&z=2001-09-01&g=2001-09-01), bedoelde personeelsleden of medewerkers over voldoende vaardigheden beschikken met betrekking tot het hanteren van een korte of lange wapenstok.
+- b. de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=4&z=2011-07-17&g=2011-07-17), bedoelde personeelsleden of medewerkers over voldoende vaardigheden beschikken met betrekking tot het hanteren van een korte of lange wapenstok.
 
 4. De selectiefunctionaris draagt er zorg voor dat:
 
 - a. de door hem krachtens [artikel 40, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=40) aangewezen personeelsleden of medewerkers over voldoende vaardigheden beschikken met betrekking tot het toepassen van vrijheidsbeperkende middelen;
 
-- b. de door hem krachtens [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=4&z=2001-09-01&g=2001-09-01), aangewezen personeelsleden of medewerkers over voldoende vaardigheden beschikken met betrekking tot het hanteren van een korte of lange wapenstok.
+- b. de door hem krachtens [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=4&z=2011-07-17&g=2011-07-17), aangewezen personeelsleden of medewerkers over voldoende vaardigheden beschikken met betrekking tot het hanteren van een korte of lange wapenstok.
 
 ##### Artikel 5
 
@@ -82,7 +82,7 @@ Het is een personeelslid of medewerker niet toegestaan de in [artikel 1, onder g
 
 ##### Artikel 6
 
-In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=3&z=2001-09-01&g=2001-09-01) kunnen de in [artikel 1, onder g, sub 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=1&artikel=1&z=2001-09-01&g=2001-09-01) en 2 genoemde geweldsmiddelen met toestemming van de directeur of de selectiefunctionaris uitsluitend worden toegepast door personeelsleden of medewerkers:
+In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=3&z=2011-07-17&g=2011-07-17) kunnen de in [artikel 1, onder g, sub 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=1&artikel=1&z=2011-07-17&g=2011-07-17) en 2 genoemde geweldsmiddelen met toestemming van de directeur of de selectiefunctionaris uitsluitend worden toegepast door personeelsleden of medewerkers:
 
 - a. aan wie dat geweldsmiddel rechtens is toegekend en,
 
@@ -124,11 +124,11 @@ Het gebruik van een vuurwapen is slechts geoorloofd:
 
 ##### Artikel 10
 
-Het personeelslid of de medewerker die krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=6&z=2001-09-01&g=2001-09-01) bevoegd is tot het gebruik van een vuurwapen, mag in verband met zijn eigen veiligheid of die van anderen slechts uit voorzorg een vuurwapen ter hand nemen, indien redelijkerwijs kan worden aangenomen dat een situatie ontstaat waarin hij bevoegd is het vuurwapen te gebruiken. Zodra blijkt dat een dergelijke situatie zich niet voordoet, wordt het vuurwapen terstond opgeborgen.
+Het personeelslid of de medewerker die krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=6&z=2011-07-17&g=2011-07-17) bevoegd is tot het gebruik van een vuurwapen, mag in verband met zijn eigen veiligheid of die van anderen slechts uit voorzorg een vuurwapen ter hand nemen, indien redelijkerwijs kan worden aangenomen dat een situatie ontstaat waarin hij bevoegd is het vuurwapen te gebruiken. Zodra blijkt dat een dergelijke situatie zich niet voordoet, wordt het vuurwapen terstond opgeborgen.
 
 ##### Artikel 11
 
-1. Het personeelslid of de medewerker die krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=6&z=2001-09-01&g=2001-09-01) bevoegd is tot het gebruik van een vuurwapen geeft onmiddellijk, voordat hij gericht met een vuurwapen zal schieten, met luide stem of op andere niet mis te verstane wijze een waarschuwing dat geschoten zal worden. De waarschuwing kan worden vervangen door een waarschuwingsschot, wanneer omstandigheden de waarschuwing niet toelaten.
+1. Het personeelslid of de medewerker die krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=6&z=2011-07-17&g=2011-07-17) bevoegd is tot het gebruik van een vuurwapen geeft onmiddellijk, voordat hij gericht met een vuurwapen zal schieten, met luide stem of op andere niet mis te verstane wijze een waarschuwing dat geschoten zal worden. De waarschuwing kan worden vervangen door een waarschuwingsschot, wanneer omstandigheden de waarschuwing niet toelaten.
 
 2. Een waarschuwingsschot moet op zodanige wijze worden afgevuurd dat gevaar voor personen of zaken zoveel mogelijk wordt vermeden.
 
@@ -140,7 +140,7 @@ Het personeelslid of de medewerker die krachtens [artikel 6](https://wetten.over
 
 2. De directeur of de selectiefunctionaris wint, in geval van mogelijk lichamelijk letsel of ingeval een wapenstok, een vuurwapen, CS-traangasgranaten of traangasverspreidende middelen gebruikt zijn, zo spoedig mogelijk advies in bij een arts.
 
-3. Indien de aanwending van het geweld of vrijheidsbeperkende middelen bij een jeugdige heeft geleid tot mogelijk lichamelijk letsel en in alle gevallen waarin van een vuurwapen, een wapenstok of CS-traangasgranaten of traangasverspreidende middelen gebruik is gemaakt, wordt de melding, bedoeld in het eerste lid, tevens ter kennis gebracht van de Hoofddirecteur van de Minister van Justitie en het Openbaar Ministerie.
+3. Indien de aanwending van het geweld of vrijheidsbeperkende middelen bij een jeugdige heeft geleid tot mogelijk lichamelijk letsel en in alle gevallen waarin van een vuurwapen, een wapenstok of CS-traangasgranaten of traangasverspreidende middelen gebruik is gemaakt, wordt de melding, bedoeld in het eerste lid, tevens ter kennis gebracht van de Hoofddirecteur van de Minister van Veiligheid en Justitie en het Openbaar Ministerie.
 
 4. De melding, bedoeld in het eerste en derde lid, geschiedt in de vorm van een rapport indien:
 
