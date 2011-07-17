@@ -4,7 +4,7 @@ identifier: "BWBR0012738"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-07-17"
-last_updated: "2001-09-01"
+last_updated: "2011-07-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012738"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 1. Het anders dan door een arts, tandarts of verloskundige voorgeschreven gebruik van gedragsbeïnvloedende middelen is tijdens de tenuitvoerlegging van de vrijheidsstraf of vrijheidsbenemende maatregel niet toegestaan.
 
-2. Het gebruik van gedragsbeïnvloedende middelen vormt een contra-indicatie voor de toekenning van verlof, proefverlof, strafonderbreking of deelname aan een scholings- en trainingsprogramma.
+2. Het gebruik van gedragsbeïnvloedende middelen vormt een contra-indicatie voor de toekenning van verlof, strafonderbreking of deelname aan een scholings- en trainingsprogramma.
 
 3. In de eerste twee weken van het verblijf van de jeugdige in de inrichting wordt de jeugdige geïnformeerd over de wijze waarop de inrichting uitvoering geeft aan het drugsontmoedigingsbeleid.
 
@@ -130,13 +130,13 @@ Indien de directeur besluit tot het doen plaatsvinden van een urineonderzoek wor
 
 1. Indien gebruik van gedragsbeïnvloedende middelen is vastgesteld of de jeugdige weigert aan het urine onderzoek mee te werken, dan wel is gebleken dat de jeugdige met het urinemonster heeft gefraudeerd, kan de jeugdige een disciplinaire straf worden opgelegd.
 
-2. Indien de jeugdige na het verstrijken van de in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012738&artikel=3&z=2001-09-01&g=2001-09-01), gestelde termijn van vier uur nog geen urine heeft afgestaan, wordt dit gelijk gesteld met een weigering medewerking te verlenen aan het urine onderzoek.
+2. Indien de jeugdige na het verstrijken van de in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012738&artikel=3&z=2011-07-17&g=2011-07-17), gestelde termijn van vier uur nog geen urine heeft afgestaan, wordt dit gelijk gesteld met een weigering medewerking te verlenen aan het urine onderzoek.
 
 3. In afwachting van de uitslag van een herhalingsonderzoek dan wel een bevestigingsonderzoek wordt de tenuitvoerlegging van een disciplinaire straf opgeschort.
 
 4. In afwachting van de uitslag van een herhalingsonderzoek dan wel een bevestigingsonderzoek kan onder meer:
 
-- a. de effectuering van verlof, proefverlof of strafonderbreking worden geschorst, dan wel opgeschort.
+- a. de effectuering van verlof of strafonderbreking worden geschorst, dan wel opgeschort.
 
 - b. de effectuering van een scholings- en trainingsprogramma worden geschorst, dan wel opgeschort.
 
