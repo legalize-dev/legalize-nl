@@ -4,7 +4,7 @@ identifier: "BWBR0012739"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-10-01"
-last_updated: "2001-09-01"
+last_updated: "2011-07-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012739"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 - c. geweld tegen andere jeugdigen of geweld tegen personeelsleden of medewerkers of andere in de inrichting aanwezige personen, dat lichamelijk letsel ten gevolg heeft;
 
-- d. politiecontact naar aanleiding van een delict van de jeugdige tijdens verlof, proefverlof, strafonderbreking, scholings- en trainingsprogramma of tijdens ongeoorloofde afwezigheid;
+- d. politiecontact naar aanleiding van een delict van de jeugdige tijdens verlof, strafonderbreking, scholings- en trainingsprogramma of tijdens ongeoorloofde afwezigheid;
 
 - e. aantreffen van contrabande, zoals een vuurwapen, slag- of steekwapen, harddrugs, of softdrugs van meer dan 5 gram;
 
@@ -84,9 +84,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Bij de melding bijzondere voorvallen wordt gebruik gemaakt van het formulier melding bijzonder voorval dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012739&bijlage=1&z=2001-09-01&g=2001-09-01) bij deze regeling is gevoegd.
+1. Bij de melding bijzondere voorvallen wordt gebruik gemaakt van het formulier melding bijzonder voorval dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012739&bijlage=1&z=2011-07-17&g=2011-07-17) bij deze regeling is gevoegd.
 
-2. De afloop van bijzonder voorvallen wordt schriftelijk gemeld met gebruikmaking van het formulier afhandeling bijzonder voorval dat als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012739&bijlage=2&z=2001-09-01&g=2001-09-01) bij deze regeling is gevoegd.
+2. De afloop van bijzonder voorvallen wordt schriftelijk gemeld met gebruikmaking van het formulier afhandeling bijzonder voorval dat als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012739&bijlage=2&z=2011-07-17&g=2011-07-17) bij deze regeling is gevoegd.
 
 ##### Artikel 4
 
