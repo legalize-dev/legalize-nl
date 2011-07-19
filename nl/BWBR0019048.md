@@ -4,7 +4,7 @@ identifier: "BWBR0019048"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2011-07-01"
+last_updated: "2011-07-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019048"
 soort: "ministeriele-regeling"
@@ -56,15 +56,15 @@ In deze regeling wordt verstaan onder:
 
 Als plantenresten als bedoeld in [artikel 2, eerste lid, onder g, van het Besluit vrijstellingen stortverbod buiten inrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0009093&artikel=2) worden aangewezen:
 
-- a. bermmaaisel dat op of in de bodem wordt gebracht op de plaats of in de directe nabijheid daarvan waar dit is vrijgekomen, onder de voorwaarden die zijn gesteld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=3&z=2005-11-15&g=2011-07-01),
+- a. bermmaaisel dat op of in de bodem wordt gebracht op de plaats of in de directe nabijheid daarvan waar dit is vrijgekomen, onder de voorwaarden die zijn gesteld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=3&z=2011-07-19&g=2011-07-19),
 
-- b. oogstrestanten die worden ondergewerkt binnen het bedrijf waar deze zijn vrijgekomen, onder de voorwaarden die zijn gesteld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=4&z=2005-11-15&g=2011-07-01),
+- b. oogstrestanten die worden ondergewerkt binnen het bedrijf waar deze zijn vrijgekomen, onder de voorwaarden die zijn gesteld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=4&z=2011-07-19&g=2011-07-19),
 
-- c. heideplagsel en maaisel dat vrijkomt binnen een natuurgebied en dat op of in de bodem wordt gebracht op de plaats of in de directe nabijheid daarvan waar dit is vrijgekomen, onder de voorwaarden die zijn gesteld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=5&z=2005-11-15&g=2011-07-01).
+- c. heideplagsel en maaisel dat vrijkomt binnen een natuurgebied en dat op of in de bodem wordt gebracht op de plaats of in de directe nabijheid daarvan waar dit is vrijgekomen, onder de voorwaarden die zijn gesteld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=5&z=2011-07-19&g=2011-07-19).
 
 ##### Artikel 3
 
-Bermmaaisel als bedoeld in [artikel 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=2&z=2005-11-15&g=2011-07-01), wordt uitsluitend op of in de bodem gebracht indien:
+Bermmaaisel als bedoeld in [artikel 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=2&z=2011-07-19&g=2011-07-19), wordt uitsluitend op of in de bodem gebracht indien:
 
 - a. dit geschiedt:
 
@@ -82,7 +82,7 @@ Bermmaaisel als bedoeld in [artikel 2, onder a](https://wetten.overheid.nl/jci1.
 
 ##### Artikel 4
 
-Oogstrestanten als bedoeld in [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=2&z=2005-11-15&g=2011-07-01), worden uitsluitend ondergewerkt indien:
+Oogstrestanten als bedoeld in [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=2&z=2011-07-19&g=2011-07-19), worden uitsluitend ondergewerkt indien:
 
 - a. de oogstrestanten het bedrijf niet hebben verlaten,
 
@@ -94,7 +94,7 @@ Oogstrestanten als bedoeld in [artikel 2, onder b](https://wetten.overheid.nl/jc
 
 ##### Artikel 5
 
-Heideplagsel en maaisel als bedoeld in [artikel 2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=2&z=2005-11-15&g=2011-07-01), wordt uitsluitend op of in de bodem gebracht indien:
+Heideplagsel en maaisel als bedoeld in [artikel 2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=2&z=2011-07-19&g=2011-07-19), wordt uitsluitend op of in de bodem gebracht indien:
 
 - a. dit geschiedt:
 
@@ -110,15 +110,7 @@ Heideplagsel en maaisel als bedoeld in [artikel 2, onder c](https://wetten.overh
 
 ##### Artikel 6
 
-1. Als tarragrond als bedoeld in [artikel 2, eerste lid, onder h, van het Besluit vrijstellingen stortverbod buiten inrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0009093&artikel=2) wordt aangewezen:
-
-- a. tarragrond van bloembollen die verspreid wordt over een perceel waarop in hetzelfde kalenderjaar of in het daaraan voorafgaande kalenderjaar bedrijfsmatig bloembollen zijn geteeld,
-
-- b. tarragrond van suikerbieten die verspreid wordt over een perceel waarop in hetzelfde kalenderjaar of in een van de drie daaraan voorafgaande kalenderjaren bedrijfsmatig suikerbieten zijn geteeld, onder de voorwaarden die zijn gesteld in het tweede lid,
-
-- c. tarragrond van aardappelen die verspreid wordt over een perceel waarop in hetzelfde kalenderjaar of in een van de drie daaraan voorafgaande kalenderjaren bedrijfsmatig aardappelen zijn geteeld, onder de voorwaarden die zijn gesteld in het tweede lid.
-
-2. Tarragrond van suikerbieten en aardappelen is schoon en onverdacht en bevat geen toevoegingen met uitzondering van residuen anti-schuimmiddel.
+Vervallen
 
 ##### Artikel 7
 
@@ -126,6 +118,6 @@ Deze regeling treedt in werking met ingang van 15 november 2005.
 
 ##### Artikel 8
 
-Deze regeling wordt aangehaald als: Vrijstellingsregeling plantenresten en tarragrond.
+Deze regeling wordt aangehaald als: Vrijstellingsregeling plantenresten.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
