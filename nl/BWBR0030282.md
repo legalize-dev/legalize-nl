@@ -4,7 +4,7 @@ identifier: "BWBR0030282"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-04-01"
-last_updated: "2011-07-12"
+last_updated: "2011-07-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030282"
 soort: "ministeriele-regeling"
@@ -38,7 +38,7 @@ entry_into_force: "2011-07-21"
 
 ### Hoofdstuk 1. Algemeen
 
-### Hoofdstuk 2. AWBZ-instellingen
+### Hoofdstuk 1. Algemeen
 
 ### Hoofdstuk 3. GGZ-instellingen en kinderdagcentra
 
