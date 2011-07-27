@@ -4,7 +4,7 @@ identifier: "BWBR0030296"
 country: "nl"
 rank: "zbo"
 publication_date: "2011-07-27"
-last_updated: "2011-07-12"
+last_updated: "2011-07-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030296"
 soort: "zbo"
@@ -83,15 +83,15 @@ Het op de website van de NZa gepubliceerde Controleprotocol ‘gegevensuitvraag 
 
 ##### 4. Het doen van een opgave
 
-- a. De medisch specialist is gehouden de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030296&bijlage=1&z=2011-07-27&g=2011-07-12) aangeduide en in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030296&bijlage=2&z=2011-07-27&g=2011-07-12) nader gedefinieerde gegevens onverwijld en kosteloos te verstrekken aan de instelling(en) waar hij of zij werkzaam is.2De bijlagen zijn gepubliceerd op de website van de NZa onder wet- en regelgeving.
+- a. De medisch specialist is gehouden de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030296&bijlage=1&z=2011-07-27&g=2011-07-27) aangeduide en in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030296&bijlage=2&z=2011-07-27&g=2011-07-27) nader gedefinieerde gegevens onverwijld en kosteloos te verstrekken aan de instelling(en) waar hij of zij werkzaam is.2De bijlagen zijn gepubliceerd op de website van de NZa onder wet- en regelgeving.
 
-- b. De instelling is gehouden om uiterlijk op 1 september 2011 en door middel van (het) door de NZa vastgestelde formulier(en) kosteloos een opgave in te dienen van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030296&bijlage=1&z=2011-07-27&g=2011-07-12) bij deze regel aangeduide en in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030296&bijlage=2&z=2011-07-27&g=2011-07-12) nader gedefinieerde gegevens.
+- b. De instelling is gehouden om uiterlijk op 1 september 2011 en door middel van (het) door de NZa vastgestelde formulier(en) kosteloos een opgave in te dienen van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030296&bijlage=1&z=2011-07-27&g=2011-07-27) bij deze regel aangeduide en in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030296&bijlage=2&z=2011-07-27&g=2011-07-27) nader gedefinieerde gegevens.
 
 - c. Deze opgave moet namens de indienende instelling rechtsgeldig ondertekend zijn, en voorzien van een in overeenstemming met het controleprotocol opgestelde accountantsverklaring.
 
-- d. De verplichting als omschreven in [artikel 4 onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0030296&artikel=4&z=2011-07-27&g=2011-07-12) geldt niet voor instellingen met een totale omzet van minder dan € 1 miljoen en een zorggerelateerd personeelsbestand van minder dan 10 FTE.
+- d. De verplichting als omschreven in [artikel 4 onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0030296&artikel=4&z=2011-07-27&g=2011-07-27) geldt niet voor instellingen met een totale omzet van minder dan € 1 miljoen en een zorggerelateerd personeelsbestand van minder dan 10 FTE.
 
-- e. De verplichting als omschreven in [artikel 4 onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0030296&artikel=4&z=2011-07-27&g=2011-07-12) geldt niet voor dat deel van de opgave dat ziet op 2011.
+- e. De verplichting als omschreven in [artikel 4 onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0030296&artikel=4&z=2011-07-27&g=2011-07-27) geldt niet voor dat deel van de opgave dat ziet op 2011.
 
 ##### 5. Inwerkingtreding en citeerregel
 
