@@ -4,7 +4,7 @@ identifier: "BWBR0028148"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-20"
-last_updated: "2010-08-01"
+last_updated: "2011-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028148"
 soort: "ministeriele-regeling"
@@ -71,10 +71,15 @@ Deze regeling wordt aangehaald als: Regeling verwantschapstabel educatieve minor
 | Sociale Geografie en Planologie | 56838 |   | Leraar Aardrijkskunde |
 | Aardwetenschappen | 56986 |   | " |
 | Aarde en economie | 50668 |   | " |
+| Bodem, Water, Atmosfeer1 | 56968 | Wageningen Universiteit | " |
+| Landschapsarchitectuur en ruimtelijke planning2 | 56848 | " | " |
+| Internationaal land- en waterbeheer3 | 50100 | " | " |
 | Arabische Taal en Cultuur | 56040 |   | Leraar Arabisch |
 | Afstudeerrichting Arabisch van de opleiding Arabische, Nieuwperzisch en Turkse Talen en culturen | 56016 |   | " |
 | Biologie | 56860 |   | Leraar Biologie |
 | Biomedische wetenschappen | 56990 |   | " |
+| Dierwetenschappen (leertraject onderwijsbevoegdheid Biologie)4 | 56849 | Wageningen Universiteit | " |
+| Plantenwetenschappen (leertraject onderwijsbevoegdheid Biologie)5 | 56835 | Wageningen Universiteit | " |
 | Duitse Taal en Cultuur | 56805 |   | Leraar Duits |
 | Economie | 56401 |   | Leraar Economie |
 | Economie en bedrijfseconomie | 50950 |   | " |
@@ -100,11 +105,13 @@ Deze regeling wordt aangehaald als: Regeling verwantschapstabel educatieve minor
 | Technische Informatica | 56964 |   | " |
 | Informatiekunde | 56842 | Universiteit van Amsterdam; Universiteit Utrecht | " |
 | Elektrotechniek | 56953 | TU Delft; TU Eindhoven; Universiteit Twente | " |
-| Electrical engineering | 56943 | " | " |
-| Bedrijfsinformatietechnologie | 56066 | " | " |
+| Electrical engineering | 56943 | “ | " |
+| Bedrijfsinformatietechnologie | 56066 | “ | " |
+| Kennistechnologie | 50300 | Universiteit Maastricht | " |
 | Italiaanse Taal en Cultuur | 56809 |   | Leraar Italiaans |
 | Kunstgeschiedenis | 56824 |   | Leraar Kunstvakken-I en Kunstvakken-II |
 | Latijnse Taal en Cultuur | 56816 |   | Leraar Latijn en KCV |
+| Oudheidkunde | 56704 | Vrije Universiteit | " |
 | Sociologie | 56601 |   | Leraar Maatschappijleer |
 | Politicologie | 56606 |   | " |
 | Algemene Sociale Wetenschappen | 56631 |   | " |
@@ -125,14 +132,18 @@ Deze regeling wordt aangehaald als: Regeling verwantschapstabel educatieve minor
 | Advanced Technology | 50002 | " | " |
 | Biomedische Technologie | 59226 | " | " |
 | Civiele Techniek | 56952 | " | " |
-| Industrieel Ontwerpen | 56955 | " | " |
 | Luchtvaart- en ruimtevaarttechniek | 56956 | " | " |
 | Technische Aardwetenschappen | 56959 | " | " |
 | Technische Informatica | 56964 | " | " |
 | Werktuigbouwkunde | 56966 | " | " |
+| Industrieel Ontwerpen | 56955 | TU Delft; Universiteit Twente | " |
+| Industrial Design | 50441 | TU Eindhoven | " |
+| Maritieme techniek | 56957 | TU Delft | " |
+| Bodem, Water, Atmosfeer | 56968 | Wageningen Universiteit | " |
 | Nederlandse Taal en Cultuur | 56804 |   | Leraar Nederlands |
 | Algemene cultuurwetenschappen | 56826 | Universiteit van Tilburg | " |
 | Communicatie en Informatiewetenschappen | 56823 | " | " |
+| Algemene Cultuurwetenschappen | 56823 | Open Universiteit | " |
 | Afstudeerrichting Russisch van de opleiding Slavische Talen en Culturen | 56813 |   | Leraar Russisch |
 | Scheikunde | 56857 |   | Leraar Scheikunde |
 | Scheikundige Technologie | 56960 |   | " |
@@ -143,7 +154,8 @@ Deze regeling wordt aangehaald als: Regeling verwantschapstabel educatieve minor
 | Farmaceutische wetenschappen | 56989 |   | " |
 | Medische natuurwetenschappen | 50800 |   | " |
 | Natuurwetenschappen | 50013 |   | " |
-| Biomedische Technologie | 59226 | TU Delft; TU Eindhoven; Universiteit Twente | " |
+| Biomedische Technologie | 56226 | TU Delft; TU Eindhoven; Universiteit Twente | " |
+| Bio-Farmaceutische Wetenschappen | 50207 | Universiteit Leiden | " |
 | Spaanse Taal en Cultuur | 56810 |   | Leraar Spaans |
 | Talen en culturen van Latijns Amerika (Spaans) | 56052 |   | " |
 | Afstudeerrichting Spaans van de opleiding Romaanse Talen en Culturen | 56074 |   | " |
@@ -164,6 +176,7 @@ Deze regeling wordt aangehaald als: Regeling verwantschapstabel educatieve minor
 | Natuurkunde | 50206 |   | " |
 | Sterrenkunde | 50205 |   | " |
 | Econometrie en Operations Research | 56833 | Universiteit van Tilburg | " |
+| Econometrie en Operationele Research | 56833 | Universiteit Maastricht | " |
 | Knowledge Engineering | 50300 | Universiteit Maastricht | " |
 | Technische natuurkunde | 56962 | TU Delft; TU Eindhoven; Universiteit Twente | " |
 | Elektrotechniek | 56953 | " | " |
@@ -173,5 +186,16 @@ Deze regeling wordt aangehaald als: Regeling verwantschapstabel educatieve minor
 | Civiele Techniek | 56952 | " | " |
 | Maritieme Techniek | 56957 | " | " |
 | Electrical engineering | 56943 | " | " |
+| Bedrijfswiskunde in informatica | 56856 | Vrije Universiteit | " |
+
+1 Het onderdeel Human Geography (6EC) dient onderdeel uit te maken van de bacheloropleiding.
+
+2 Het onderdeel Human Geography (6EC) dient onderdeel uit te maken van de bacheloropleiding.
+
+3 Het onderdeel Human Geography (6EC) dient onderdeel uit te maken van de bacheloropleiding.
+
+4 Dit leertraject is een specifiek samengesteld programma binnen de BSc-opleiding Dierwetenschappen, voorgelegd aan en goedgekeurd door de examencommissie Levenswetenschappen van Wageningen University, en gericht op het voorbereiden van studenten op een baan als leerkracht in de Biologie.
+
+5 Dit leertraject is een specifiek samengesteld programma binnen de BSc-opleiding Plantenwetenschappen, voorgelegd aan en goedgekeurd door de examencommissie Levenswetenschappen van Wageningen University, en gericht op het voorbereiden van studenten op een baan als leerkracht in de Biologie.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
