@@ -4,7 +4,7 @@ identifier: "BWBR0007195"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2007-05-27"
+last_updated: "2011-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007195"
 soort: "ministeriele-regeling"
@@ -77,11 +77,13 @@ Besluit:
 
 - f. door een kind voorwerpen worden geduwd of getrokken waarbij meer dan 20 kilogram kracht nodig is, of
 
-- g. door een kind permanent persoonlijke beschermingsmiddelen moeten worden gedragen.
+- g. door een kind permanent persoonlijke beschermingsmiddelen moeten worden gedragen om het risico tegen te gaan.
 
-3. Onacceptabele veiligheidsrisico’s voor een kind of zijn omgeving zijn in ieder geval aanwezig bij werkzaamheden met of in de omgeving van mechanische arbeidsmiddelen waarbij brand-, elektrocutie-, knel-, plet-, snij- of valgevaar bestaat; alsmede bij werkzaamheden waarbij op grond van [artikel 1.37 van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.37) voor jeugdige werknemers bijzondere vereisten zijn gesteld.
+3. Onacceptabele veiligheidsrisico's voor een kind of zijn omgeving zijn in ieder geval aanwezig bij werkzaamheden:
 
-4. Alvorens toegestane arbeid aan een lopende band kan worden verricht is een lopendebandovereenkomst gesloten tussen de werkgever en het kind. De lopendebandovereenkomst wordt (mede)ondertekend door een persoon, die over het betrokken kind het ouderlijke gezag of de voogdij uitoefent of in wiens huishouding dat kind is opgenomen.
+- a. met of in de omgeving van mechanische arbeidsmiddelen waarbij brand-, elektrocutie-, knel-, plet-, snij- of valgevaar bestaat, of
+
+- b. waarbij op grond van [artikel 1.37 van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.37) voor jeugdige werknemers bijzondere vereisten zijn gesteld.
 
 #### § 2. Alternatieve sanctie
 
@@ -120,6 +122,8 @@ Indien in het kader van een alternatieve sanctie een kind van 12 jaar tot en met
 - d. indien op een dag langer arbeid wordt verricht dan 4,5 uur, die arbeid afwisselt met een pauze van ten minste een half uur aaneengesloten.
 
 3. Voor de toepassing van dit artikel geldt de tijd waarop een kind als bedoeld in het tweede lid onderwijs volgt of pleegt te volgen, de onderbrekingen inbegrepen, als arbeidstijd.
+
+4. Voor de toepassing van dit artikel wordt in afwijking van [artikel 1:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=1&artikel=1:1&z=2011-08-01&g=2011-08-01), onder arbeid van lichte aard mede verstaan arbeid waarbij door een kind permanent persoonlijke beschermingsmiddelen moeten worden gedragen.
 
 #### § 4. Niet-industriële (hulp)arbeid van lichte aard, niet zijnde uitvoeringen, tijdens een schoolweek
 
@@ -211,7 +215,7 @@ Indien een kind van 15 jaar tijdens een schoolweek niet-industriële arbeid van 
 
 - c. op niet meer dan ten hoogste 5 dagen arbeid verricht;
 
-- d. een onafgebroken rusttijd heeft van ten minste 12 uren in elke periode van 24 aaneengesloten uren, waarin de periode tussen 19.00 uur en 07.00 uur begrepen is;
+- d. een onafgebroken rusttijd heeft van ten minste 12 uren in elke periode van 24 aaneengesloten uren, waarin de periode tussen 21.00 uur en 07.00 uur begrepen is;
 
 - e. niet langer arbeid verricht dan 40 uren per week, waarvan ten hoogste 8 uren per dag;
 
@@ -235,7 +239,7 @@ Indien een kind van 15 jaar tijdens een schoolweek niet-industriële arbeid van 
 
 - d. een onafgebroken rusttijd heeft van ten minste 14 uren in elke periode van 24 aaneengesloten uren, waarin de periode tussen 23.00 uur en 08.00 uur begrepen is;
 
-- e. niet meer dan ten hoogste 3 malen optreedt met een maximum van 24 malen per jaar;
+- e. niet meer dan ten hoogste 3 malen optreedt met een maximum aan uitvoeringen tezamen met [artikel 7:1, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=7&artikel=7:1&z=2011-08-01&g=2011-08-01), van 24 malen per jaar;
 
 - f. indien op een dag langer arbeid wordt verricht dan 4,5 uur, die arbeid afwisselt met een pauze van ten minste een half uur aaneengesloten;
 
@@ -277,7 +281,7 @@ Indien een kind van 15 jaar tijdens een schoolweek niet-industriële arbeid van 
 
 - b. indien hij op zondag arbeid verricht, hij op de dag voorafgaande aan die zondag geen arbeid verricht;
 
-- c. ten hoogste 3 malen arbeid verricht tussen 19.00 uur en 23.00 uur;
+- c. ten hoogste 3 malen arbeid verricht tussen 19.00 uur en 23.00 uur met een maximum aan uitvoeringen tezamen met [artikel 6:1, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=6&artikel=6:1&z=2011-08-01&g=2011-08-01), van 24 malen per jaar;
 
 - d. een onafgebroken rusttijd heeft van ten minste 14 uren in elke periode van 24 aaneengesloten uren, waarin de periode tussen 23.00 uur en 07.00 uur begrepen is;
 
@@ -345,19 +349,19 @@ Indien een kind van 15 jaar tijdens een schoolweek niet-industriële arbeid van 
 
 - c. niet langer arbeid verricht dan 2 uren per dag.
 
-#### § 10. Samenloop tijdens schoolweek
+#### § 8. Niet-industriële arbeid van lichte aard voor kinderen met een vrijstelling van de leerplicht
 
 #### Kind van 13 of 14 jaar
 
 ##### Artikel 10:1
 
-Indien een kind van 13 of 14 jaar in een schoolweek arbeid verricht, waarop de [artikelen 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=4&artikel=4:1&z=2007-05-27&g=2007-05-27) en [6:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=6&artikel=6:1&z=2007-05-27&g=2007-05-27) van toepassing zijn, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 12 uren per week, waarvan ten hoogste 2 uren per dag op dagen dat onderwijs wordt gevolgd en ten hoogste 6 uren per dag op andere dagen.
+Indien een kind van 13 of 14 jaar in een schoolweek arbeid verricht, waarop de [artikelen 3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=3&artikel=3:2&z=2011-08-01&g=2011-08-01), [4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=4&artikel=4:1&z=2011-08-01&g=2011-08-01) of [6:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=6&artikel=6:1&z=2011-08-01&g=2011-08-01) van toepassing zijn, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 12 uren per week, waarvan ten hoogste 2 uren per dag op dagen dat onderwijs wordt gevolgd en ten hoogste 7 uren per dag op andere dagen.
 
 #### Kind van 15 jaar
 
 ##### Artikel 10:2
 
-Indien een kind van 15 jaar in een schoolweek arbeid verricht, waarop de [artikelen 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=4&artikel=4:2&z=2007-05-27&g=2007-05-27), [6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=6&artikel=6:2&z=2007-05-27&g=2007-05-27) en [9:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=9&artikel=9:1&z=2007-05-27&g=2007-05-27) van toepassing zijn, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 12 uren per week, waarvan ten hoogste 2 uren per dag op dagen dat onderwijs wordt gevolgd en ten hoogste 8 uren per dag op andere dagen.
+Indien een kind van 15 jaar in een schoolweek arbeid verricht, waarop de [artikelen 3:4](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=3&artikel=3:4&z=2011-08-01&g=2011-08-01), [4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=4&artikel=4:2&z=2011-08-01&g=2011-08-01), [6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=6&artikel=6:2&z=2011-08-01&g=2011-08-01) of [9:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=9&artikel=9:1&z=2011-08-01&g=2011-08-01) van toepassing zijn, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 12 uren per week, waarvan ten hoogste 2 uren per dag op dagen dat onderwijs wordt gevolgd en ten hoogste 8 uren per dag op andere dagen.
 
 #### § 11. Samenloop tijdens een vakantieweek
 
@@ -365,25 +369,25 @@ Indien een kind van 15 jaar in een schoolweek arbeid verricht, waarop de [artike
 
 ##### Artikel 11:1
 
-Indien een kind van 13 of 14 jaar in een vakantieweek arbeid verricht, waarop de [artikelen 5:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=5&artikel=5:1&z=2007-05-27&g=2007-05-27) en [7:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=7&artikel=7:1&z=2007-05-27&g=2007-05-27) van toepassing zijn, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 35 uren per week, waarvan ten hoogste 7 uren per dag.
+Indien een kind van 13 of 14 jaar in een vakantieweek arbeid verricht, waarop de [artikelen 3:3](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=3&artikel=3:3&z=2011-08-01&g=2011-08-01), [5:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=5&artikel=5:1&z=2011-08-01&g=2011-08-01) of [7:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=7&artikel=7:1&z=2011-08-01&g=2011-08-01) van toepassing zijn, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 35 uren per week, waarvan ten hoogste 7 uren per dag.
 
 #### Kind van 15 jaar
 
 ##### Artikel 11:2
 
-Indien een kind van 15 jaar in een vakantieweek arbeid verricht, waarop de [artikelen 5:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=5&artikel=5:2&z=2007-05-27&g=2007-05-27), [7:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=7&artikel=7:2&z=2007-05-27&g=2007-05-27) en [9:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=9&artikel=9:1&z=2007-05-27&g=2007-05-27) van toepassing zijn, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 40 uren per week, waarvan ten hoogste 8 uren per dag.
+Indien een kind van 15 jaar in een vakantieweek arbeid verricht, waarop de [artikelen 3:5](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=3&artikel=3:5&z=2011-08-01&g=2011-08-01), [5:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=5&artikel=5:2&z=2011-08-01&g=2011-08-01), [7:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=7&artikel=7:2&z=2011-08-01&g=2011-08-01) of [9:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=9&artikel=9:1&z=2011-08-01&g=2011-08-01) van toepassing zijn, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 40 uren per week, waarvan ten hoogste 8 uren per dag.
 
 #### § 12. Andere vormen van samenloop
 
 ##### Artikel 12:1
 
-1. Indien een kind van 12 jaar tot en met 14 jaar arbeid verricht als bedoeld in [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=2&artikel=2:1&z=2007-05-27&g=2007-05-27) en tevens in de week andere arbeid verricht, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 35 uren per week, waarvan ten hoogste 7 uren per dag.
+1. Indien een kind van 12 jaar tot en met 14 jaar arbeid verricht als bedoeld in [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=2&artikel=2:1&z=2011-08-01&g=2011-08-01) en tevens in de week andere arbeid verricht, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 35 uren per week, waarvan ten hoogste 7 uren per dag.
 
-2. Indien een kind van 15 jaar arbeid verricht als bedoeld in [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=2&artikel=2:1&z=2007-05-27&g=2007-05-27) en tevens in de week andere arbeid, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 40 uren per week, waarvan ten hoogste 8 uren per dag.
+2. Indien een kind van 15 jaar arbeid verricht als bedoeld in [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=2&artikel=2:1&z=2011-08-01&g=2011-08-01) en tevens in de week andere arbeid, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 40 uren per week, waarvan ten hoogste 8 uren per dag.
 
-3. Indien een kind van 14 jaar arbeid verricht als bedoeld in [artikel 3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=3&artikel=3:1&z=2007-05-27&g=2007-05-27) en tevens in de week andere arbeid verricht, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 35 uren per week, waarvan ten hoogste 7 uren per dag.
+3. Indien een kind van 14 jaar arbeid verricht als bedoeld in [artikel 3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=3&artikel=3:1&z=2011-08-01&g=2011-08-01) en tevens in de week andere arbeid verricht, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 35 uren per week, waarvan ten hoogste 7 uren per dag.
 
-4. Indien een kind van 15 jaar arbeid verricht als bedoeld in [artikel 8:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=8&artikel=8:1&z=2007-05-27&g=2007-05-27) en tevens in de week andere arbeid verricht, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 40 uren per week, waarvan ten hoogste 8 uren per dag.
+4. Indien een kind van 15 jaar arbeid verricht als bedoeld in [artikel 8:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=8&artikel=8:1&z=2011-08-01&g=2011-08-01) en tevens in de week andere arbeid verricht, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 40 uren per week, waarvan ten hoogste 8 uren per dag.
 
 #### § 13. Slotbepalingen
 
@@ -394,5 +398,133 @@ Deze regeling treedt in werking met ingang van het tijdstip waarop de [Arbeidsti
 ##### Artikel 13:2
 
 Deze regeling wordt aangehaald als: Nadere regeling kinderarbeid.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3:2. Maatschappelijke stage tijdens een schoolweek voor 13 en 14 jarigen
+
+1. Alvorens de in dit artikel bedoelde arbeid kan worden verricht is een stageovereenkomst als bedoeld in [artikel 30a van het Inrichtingsbesluit W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=30a), gesloten.
+
+2. Indien een kind van 13 of 14 jaar tijdens een schoolweek niet-industriële arbeid van lichte aard verricht in de vorm van een maatschappelijke stage dan wordt in acht genomen, dat dat kind:
+
+- a. op zondag geen arbeid verricht, behalve voor zover dat uit de aard van de arbeid voortvloeit en het tegendeel is bedongen. Indien de bedrijfsomstandigheden dit noodzakelijk maken, kan van de vorige zin worden afgeweken, indien de werkgever daartoe overeenstemming heeft bereikt met het medezeggenschapsorgaan of, bij het ontbreken daarvan, met de belanghebbende werknemers. Een in de aanhef bedoelde kind verricht in de omstandigheden, bedoeld in dit onderdeel, uitsluitend arbeid op zondag, indien de ouders of verzorgers daarmee voor dat geval instemmen;
+
+- b. indien hij op zondag arbeid verricht, hij op de dag voorafgaande aan die zondag geen arbeid verricht;
+
+- c. op ten minste 5 zondagen in elke periode van 16 achtereenvolgende weken geen arbeid verricht;
+
+- d. op niet meer dan ten hoogste 5 dagen arbeid verricht;
+
+- e. een onafgebroken rusttijd heeft van ten minste 14 uren in elke periode van 24 aaneengesloten uren, waarin de periode tussen 19.00 uur en 07.00 uur begrepen is;
+
+- f. niet langer arbeid verricht dan 12 uren, waarvan ten hoogste 2 uren per dag op dagen dat onderwijs wordt gevolgd en ten hoogste 7 uren per dag op andere dagen;
+
+- g. indien op een dag langer arbeid wordt verricht dan 4,5 uur, die arbeid afwisselt met een pauze van ten minste een half uur aaneengesloten.
+
+##### Artikel 3:3. Maatschappelijke stage tijdens een vakantieweek voor 13 en 14 jarigen
+
+1. Alvorens de in dit artikel bedoelde arbeid kan worden verricht is een stageovereenkomst als bedoeld in [artikel 30a van het Inrichtingsbesluit W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=30a), gesloten.
+
+2. Indien een kind van 13 of 14 jaar tijdens een vakantieweek niet-industriële arbeid van lichte aard verricht in de vorm van een maatschappelijke stage dan wordt in acht genomen, dat dat kind:
+
+- a. op zondag geen arbeid verricht, behalve voor zover dat uit de aard van de arbeid voortvloeit en het tegendeel is bedongen. Indien de bedrijfsomstandigheden dit noodzakelijk maken, kan van de vorige zin worden afgeweken, indien de werkgever daartoe overeenstemming heeft bereikt met het medezeggenschapsorgaan of, bij het ontbreken daarvan, met de belanghebbende werknemers. Een in de aanhef bedoelde kind verricht in de omstandigheden, bedoeld in dit onderdeel, uitsluitend arbeid op zondag, indien de ouders of verzorgers daarmee voor dat geval instemmen;
+
+- b. indien hij op zondag arbeid verricht, hij op de dag voorafgaande aan die zondag geen arbeid verricht;
+
+- c. op ten minste 5 zondagen in elke periode van 16 achtereenvolgende weken geen arbeid verricht;
+
+- d. op niet meer dan ten hoogste 5 dagen arbeid verricht;
+
+- e. een onafgebroken rusttijd heeft van ten minste 14 uren in elke periode van 24 aaneengesloten uren, waarin de periode tussen 19.00 uur en 07.00 uur begrepen is;
+
+- f. niet langer arbeid verricht dan 35 uren per week, waarvan ten hoogste 7 uren per dag;
+
+- g. indien op een dag langer arbeid wordt verricht dan 4,5 uur, die arbeid afwisselt met een pauze van ten minste een half uur aaneengesloten.
+
+3. Een kind van 13 of 14 jaar mag gedurende ten hoogste 4 vakantieweken per jaar arbeid verrichten, waarvan ten hoogste 3 vakantieweken aaneengesloten.
+
+##### Artikel 3:4. Maatschappelijke stage tijdens een schoolweek voor 15 jarigen
+
+1. Alvorens de in dit artikel bedoelde arbeid kan worden verricht is een stageovereenkomst als bedoeld in [artikel 30a van het Inrichtingsbesluit W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=30a), gesloten.
+
+2. Indien een kind van 15 jaar tijdens een schoolweek niet-industriële arbeid van lichte aard verricht in de vorm van een maatschappelijke stage dan wordt in acht genomen, dat dat kind:
+
+- a. op zondag geen arbeid verricht, behalve voor zover dat uit de aard van de arbeid voortvloeit en het tegendeel is bedongen. Indien de bedrijfsomstandigheden dit noodzakelijk maken, kan van de vorige zin worden afgeweken, indien de werkgever daartoe overeenstemming heeft bereikt met het medezeggenschapsorgaan of, bij het ontbreken daarvan, met de belanghebbende werknemers. Een in de aanhef bedoelde kind verricht in de omstandigheden, bedoeld in dit onderdeel, uitsluitend arbeid op zondag, indien de ouders of verzorgers daarmee voor dat geval instemmen;
+
+- b. indien hij op zondag arbeid verricht, hij op de dag voorafgaande aan die zondag geen arbeid verricht;
+
+- c. op ten minste 5 zondagen in elke periode van 16 achtereenvolgende weken geen arbeid verricht;
+
+- d. op niet meer dan ten hoogste 5 dagen arbeid verricht;
+
+- e. een onafgebroken rusttijd heeft van ten minste 12 uren in elke periode van 24 aaneengesloten uren, waarin de periode tussen 19.00 uur en 07.00 uur begrepen is;
+
+- f. niet langer arbeid verricht dan 12 uren, waarvan ten hoogste 2 uren per dag op dagen dat onderwijs wordt gevolgd en ten hoogste 8 uren per dag op andere dagen;
+
+- g. indien op een dag langer arbeid wordt verricht dan 4,5 uur, die arbeid afwisselt met een pauze van ten minste een half uur aaneengesloten.
+
+##### Artikel 3:5. Maatschappelijke stage tijdens een vakantieweek voor 15 jarigen
+
+1. Alvorens de in dit artikel bedoelde arbeid kan worden verricht is een stageovereenkomst als bedoeld in [artikel 30a van het Inrichtingsbesluit W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=30a), gesloten.
+
+2. Indien een kind van 15 jaar tijdens een vakantieweek niet-industriële arbeid van lichte aard verricht in de vorm van een maatschappelijke stage dan wordt in acht genomen, dat dat kind:
+
+- a. op zondag geen arbeid verricht, behalve voor zover dat uit de aard van de arbeid voortvloeit en het tegendeel is bedongen. Indien de bedrijfsomstandigheden dit noodzakelijk maken, kan van de vorige zin worden afgeweken, indien de werkgever daartoe overeenstemming heeft bereikt met het medezeggenschapsorgaan of, bij het ontbreken daarvan, met de belanghebbende werknemers. Een in de aanhef bedoelde kind verricht in de omstandigheden, bedoeld in dit onderdeel, uitsluitend arbeid op zondag, indien de ouders of verzorgers daarmee voor dat geval instemmen;
+
+- b. indien hij op zondag arbeid verricht, hij op de dag voorafgaande aan die zondag geen arbeid verricht;
+
+- c. op ten minste 5 zondagen in elke periode van 16 achtereenvolgende weken geen arbeid verricht;
+
+- d. op niet meer dan ten hoogste 5 dagen arbeid verricht;
+
+- e. een onafgebroken rusttijd heeft van ten minste 12 uren in elke periode van 24 aaneengesloten uren, waarin de periode tussen 21.00 uur en 07.00 uur begrepen is;
+
+- f. niet langer arbeid verricht dan 40 uren per week, waarvan ten hoogste 8 uren per dag;
+
+- g. indien op een dag langer arbeid wordt verricht dan 4,5 uur, die arbeid afwisselt met een pauze van ten minste een half uur aaneengesloten.
+
+3. Een kind van 15 jaar mag gedurende ten hoogste 6 vakantieweken per jaar arbeid verrichten, waarvan ten hoogste 4 vakantieweken aaneengesloten.
+
+#### § 4. Niet-industriële (hulp)arbeid van lichte aard, niet zijnde uitvoeringen, tijdens een schoolweek
+
+#### Kind van 13 of 14 jaar
+
+#### Kind van 15 jaar
+
+#### § 5. Niet-industriële (hulp)arbeid van lichte aard, niet zijnde uitvoeringen, tijdens een vakantieweek
+
+#### Kind van 13 of 14 jaar
+
+#### Kind van 15 jaar
+
+#### § 6. Niet-industriële arbeid van lichte aard bestaande uit uitvoeringen tijdens een schoolweek
+
+#### Kind van 13 of 14 jaar
+
+#### Kind van 15 jaar
+
+#### § 7. Niet-industriële arbeid van lichte aard bestaande uit uitvoeringen tijdens een vakantieweek
+
+#### Kind van 13 of 14 jaar
+
+#### Kind van 15 jaar
+
+#### § 9. Het bezorgen van ochtendkranten
+
+#### § 10. Samenloop tijdens schoolweek
+
+#### Kind van 13 of 14 jaar
+
+#### Kind van 15 jaar
+
+#### § 11. Samenloop tijdens een vakantieweek
+
+#### Kind van 13 of 14 jaar
+
+#### Kind van 15 jaar
+
+#### § 12. Andere vormen van samenloop
+
+#### § 13. Slotbepalingen
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
