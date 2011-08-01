@@ -4,7 +4,7 @@ identifier: "BWBV0003143"
 country: "nl"
 rank: "verdrag"
 publication_date: "2011-08-01"
-last_updated: "2008-05-30"
+last_updated: "2011-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003143"
 soort: "verdrag"
@@ -164,9 +164,9 @@ Voor de toepassing van dit Verdrag:
 
 5. De Vergadering van de Staten die Partij zijn of de Toetsingsconferentie beoordeelt, rekening houdend met de in het vierde lid van dit artikel bedoelde factoren, het verzoek en besluit met een meerderheid van de stemmen van de Staten die Partij zijn die aanwezig zijn en hun stem uitbrengen of het verzoek om verlenging wordt toegestaan. De Staten die Partij zijn kunnen besluiten een kortere verlenging toe te staan dan waarom werd verzocht en kunnen benchmarks voor de verlenging voorstellen, al naargelang van toepassing. Een verzoek om verlenging wordt ten minste negen maanden voor de Vergadering van de Staten die Partij zijn of de Toetsingsconferentie waar het verzoek zal worden behandeld ingediend.
 
-6. Niettegenstaande de bepalingen van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=1&z=2008-05-30&g=2008-05-30) van dit Verdrag is het toegestaan een beperkt aantal stuks clustermunitie en explosieve submunitie aan te houden of te verwerven ten behoeve van ontwikkeling en training op het gebied van technieken voor het opsporen, ruimen of vernietigen van clustermunitie en explosieve submunitie, of voor het ontwikkelen van tegenmaatregelen met betrekking tot clustermunitie. De hoeveelheid explosieve submunitie die wordt aangehouden of verworven mag niet groter zijn dan hetgeen voor deze doeleinden strikt noodzakelijk is.
+6. Niettegenstaande de bepalingen van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=1&z=2011-08-01&g=2011-08-01) van dit Verdrag is het toegestaan een beperkt aantal stuks clustermunitie en explosieve submunitie aan te houden of te verwerven ten behoeve van ontwikkeling en training op het gebied van technieken voor het opsporen, ruimen of vernietigen van clustermunitie en explosieve submunitie, of voor het ontwikkelen van tegenmaatregelen met betrekking tot clustermunitie. De hoeveelheid explosieve submunitie die wordt aangehouden of verworven mag niet groter zijn dan hetgeen voor deze doeleinden strikt noodzakelijk is.
 
-7. Niettegenstaande de bepalingen van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=1&z=2008-05-30&g=2008-05-30) van dit Verdrag is het toegestaan clustermunitie aan een andere Staat die Partij is over te dragen ten behoeve van vernietiging of ten behoeve van de in het zesde lid van dit artikel omschreven doeleinden.
+7. Niettegenstaande de bepalingen van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=1&z=2011-08-01&g=2011-08-01) van dit Verdrag is het toegestaan clustermunitie aan een andere Staat die Partij is over te dragen ten behoeve van vernietiging of ten behoeve van de in het zesde lid van dit artikel omschreven doeleinden.
 
 8. Staten die Partij zijn die clustermunitie of explosieve submunitie aanhouden, verwerven of overdragen ten behoeve van de in het zesde en zevende lid van dit artikel omschreven doeleinden dienen een gedetailleerd rapport in van het geplande en feitelijke gebruik van deze clustermunitie en explosieve submunitie alsmede hun type, hoeveelheid en partijnummers. Indien clustermunitie of explosieve submunitie ten behoeve van deze doeleinden aan een andere Staat die Partij is wordt overgedragen dient het rapport een verwijzing naar de ontvangende partij te omvatten. Een dergelijk rapport wordt opgesteld voor ieder jaar waarin een Staat die Partij is clustermunitie of explosieve submunitie aanhoudt, verwerft of overdraagt en dient uiterlijk 30 april van het daaropvolgende jaar bij de Secretaris-Generaal van de Verenigde Naties te worden ingediend.
 
@@ -180,7 +180,7 @@ Voor de toepassing van dit Verdrag:
 
 - c. Na het nakomen van een van de in de onderdelen a en b van dit lid vervatte verplichtingen, legt de Staat die Partij is een verklaring van naleving af aan de volgende Vergadering van de Staten die Partij zijn.
 
-2. Bij het nakomen van zijn verplichtingen ingevolge het eerste lid van dit artikel, neemt elke Staat die Partij is zo spoedig mogelijk de volgende maatregelen en houdt daarbij rekening met de bepalingen van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=6&z=2008-05-30&g=2008-05-30) van dit Verdrag inzake internationale samenwerking en bijstand:
+2. Bij het nakomen van zijn verplichtingen ingevolge het eerste lid van dit artikel, neemt elke Staat die Partij is zo spoedig mogelijk de volgende maatregelen en houdt daarbij rekening met de bepalingen van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=6&z=2011-08-01&g=2011-08-01) van dit Verdrag inzake internationale samenwerking en bijstand:
 
 - a. het onderzoeken, vaststellen en vastleggen van het gevaar dat gevormd wordt door resten van clustermunitie, waarbij al het mogelijke wordt gedaan om alle door clustermunitie getroffen gebieden die onder zijn rechtsmacht of zeggenschap vallen te identificeren;
 
@@ -256,13 +256,13 @@ Voor de toepassing van dit Verdrag:
 
 3. Elke Staat die Partij is verplicht zich ertoe een zo ruim mogelijke uitwisseling van uitrusting en wetenschappelijke en technologische informatie inzake de toepassing van dit Verdrag te bevorderen en heeft het recht te participeren in een dergelijke uitwisseling. De Staten die Partij zijn leggen geen onredelijke beperkingen op inzake het leveren en ontvangen van uitrusting voor het ruimen en andere soortgelijke uitrusting en daarmee verband houdende technologische informatie voor humanitaire doeleinden.
 
-4. In aanvulling op de mogelijke verplichtingen uit hoofde van het [vierde lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=4&z=2008-05-30&g=2008-05-30) van dit Verdrag, verleent elke Staat die Partij is en daartoe in staat is bijstand bij het ruimen en vernietigen van resten van clustermunitie en informatie inzake diverse middelen en technieken voor het ruimen van clustermunitie, alsmede lijsten van deskundigen, gespecialiseerde organisaties of nationale contactpunten inzake het ruimen en vernietigen van resten van clustermunitie en daarmee verband houdende activiteiten.
+4. In aanvulling op de mogelijke verplichtingen uit hoofde van het [vierde lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=4&z=2011-08-01&g=2011-08-01) van dit Verdrag, verleent elke Staat die Partij is en daartoe in staat is bijstand bij het ruimen en vernietigen van resten van clustermunitie en informatie inzake diverse middelen en technieken voor het ruimen van clustermunitie, alsmede lijsten van deskundigen, gespecialiseerde organisaties of nationale contactpunten inzake het ruimen en vernietigen van resten van clustermunitie en daarmee verband houdende activiteiten.
 
-5. Elke Staat die Partij is en daartoe in staat is, verleent bijstand ten behoeve van de vernietiging van voorraden clustermunitie en verleent tevens bijstand bij het identificeren en vaststellen van en prioriteiten toekennen aan behoeften en praktische maatregelen op het gebied van markering, voorlichting op het gebied van risicobeperking, burgerbescherming en ruiming en vernietiging als voorzien in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=4&z=2008-05-30&g=2008-05-30) van dit Verdrag.
+5. Elke Staat die Partij is en daartoe in staat is, verleent bijstand ten behoeve van de vernietiging van voorraden clustermunitie en verleent tevens bijstand bij het identificeren en vaststellen van en prioriteiten toekennen aan behoeften en praktische maatregelen op het gebied van markering, voorlichting op het gebied van risicobeperking, burgerbescherming en ruiming en vernietiging als voorzien in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=4&z=2011-08-01&g=2011-08-01) van dit Verdrag.
 
 6. Wanneer, na de inwerkingtreding van dit Verdrag, clustermunitie resten van clustermunitie is geworden in gebieden die onder de rechtsmacht of zeggenschap vallen van een Staat die Partij is, verleent elke Staat die Partij is en daartoe in staat is onmiddellijk noodhulp aan de getroffen Staat die Partij is.
 
-7. Elke Staat die Partij is en daartoe in staat is, verleent bijstand bij de tenuitvoerlegging van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=5&z=2008-05-30&g=2008-05-30) van dit Verdrag bedoelde verplichtingen inzake het op adequate wijze verlenen van op leeftijd en geslacht toegesneden hulp, met inbegrip van medische verzorging, revalidatie en psychologische ondersteuning, en het zorg dragen voor de maatschappelijke en economische integratie van slachtoffers van clustermunitie. Deze bijstand kan onder meer worden verleend via organen van de Verenigde Naties, internationale, regionale of nationale organisaties of instellingen, het Internationaal Comité van het Rode Kruis, nationale afdelingen van het Rode Kruis en de Rode Halve Maan of de internationale federatie van deze organisaties, niet-gouvernementele organisaties, of op bilaterale basis.
+7. Elke Staat die Partij is en daartoe in staat is, verleent bijstand bij de tenuitvoerlegging van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=5&z=2011-08-01&g=2011-08-01) van dit Verdrag bedoelde verplichtingen inzake het op adequate wijze verlenen van op leeftijd en geslacht toegesneden hulp, met inbegrip van medische verzorging, revalidatie en psychologische ondersteuning, en het zorg dragen voor de maatschappelijke en economische integratie van slachtoffers van clustermunitie. Deze bijstand kan onder meer worden verleend via organen van de Verenigde Naties, internationale, regionale of nationale organisaties of instellingen, het Internationaal Comité van het Rode Kruis, nationale afdelingen van het Rode Kruis en de Rode Halve Maan of de internationale federatie van deze organisaties, niet-gouvernementele organisaties, of op bilaterale basis.
 
 8. Elke Staat die Partij is en daartoe in staat is, verleent bijstand teneinde bij te dragen aan het economisch en maatschappelijk herstel dat nodig is als gevolg van het gebruik van clustermunitie in de getroffen Staten die Partij zijn.
 
@@ -290,33 +290,33 @@ Voor de toepassing van dit Verdrag:
 
 1. Elke Staat die Partij is brengt verslag uit aan de Secretaris-Generaal van de Verenigde Naties zodra dit praktisch uitvoerbaar is en in elk geval niet later dan 180 dagen nadat dit Verdrag voor die Staat die Partij is in werking is getreden, inzake:
 
-- a. de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=9&z=2008-05-30&g=2008-05-30) van dit Verdrag bedoelde nationale uitvoeringsmaatregelen;
+- a. de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=9&z=2011-08-01&g=2011-08-01) van dit Verdrag bedoelde nationale uitvoeringsmaatregelen;
 
-- b. het totale aantal van alle clustermunitie, met inbegrip van explosieve submunities, zoals bedoeld in het [eerste lid van artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=3&z=2008-05-30&g=2008-05-30) van dit Verdrag, met inbegrip van een uitsplitsing naar type, hoeveelheid en, indien mogelijk, partijnummers van elk type;
+- b. het totale aantal van alle clustermunitie, met inbegrip van explosieve submunities, zoals bedoeld in het [eerste lid van artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=3&z=2011-08-01&g=2011-08-01) van dit Verdrag, met inbegrip van een uitsplitsing naar type, hoeveelheid en, indien mogelijk, partijnummers van elk type;
 
 - c. de technische kenmerken van elk type clustermunitie dat, voor zover bekend, geproduceerd is door die Staat die Partij is voordat dit Verdrag voor hem in werking trad en van elk type clustermunitie dat momenteel eigendom of in bezit is van die Staat die Partij is, waarbij, indien redelijkerwijs mogelijk, de nodige informatie wordt verstrekt ter vergemakkelijking van de identificatie en ruiming van clustermunitie; deze informatie dient minimaal te bestaan uit de afmetingen, ontstekingsmechanismen, explosieve inhoud, inhoud aan metalen, kleurenfoto’s en andere gegevens die het ruimen van resten van clustermunitie kunnen vergemakkelijken;
 
 - d. de stand en voortgang van de programma’s voor de conversie of buitengebruikstelling van productiefaciliteiten voor clustermunitie;
 
-- e. de stand en voortgang van programma’s voor de vernietiging, in overeenstemming met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=3&z=2008-05-30&g=2008-05-30) van dit Verdrag, van clustermunitie, met inbegrip van explosieve submunities, met nauwkeurige informatie over de te gebruiken vernietigingsmethoden, de ligging van alle vernietigingslocaties en de toepasselijke veiligheids- en milieunormen die in acht dienen te worden genomen;
+- e. de stand en voortgang van programma’s voor de vernietiging, in overeenstemming met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=3&z=2011-08-01&g=2011-08-01) van dit Verdrag, van clustermunitie, met inbegrip van explosieve submunities, met nauwkeurige informatie over de te gebruiken vernietigingsmethoden, de ligging van alle vernietigingslocaties en de toepasselijke veiligheids- en milieunormen die in acht dienen te worden genomen;
 
-- f. de typen en hoeveelheden clustermunitie, met inbegrip van explosieve submunities, die in overeenstemming met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=3&z=2008-05-30&g=2008-05-30) van dit Verdrag zijn vernietigd, met inbegrip van nauwkeurige informatie over de gebruikte vernietigingsmethoden, de ligging van de vernietigingslocaties en de toepasselijke veiligheids- en milieunormen die in acht zijn genomen;
+- f. de typen en hoeveelheden clustermunitie, met inbegrip van explosieve submunities, die in overeenstemming met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=3&z=2011-08-01&g=2011-08-01) van dit Verdrag zijn vernietigd, met inbegrip van nauwkeurige informatie over de gebruikte vernietigingsmethoden, de ligging van de vernietigingslocaties en de toepasselijke veiligheids- en milieunormen die in acht zijn genomen;
 
-- g. de voorraden clustermunitie, met inbegrip van explosieve submunities, ontdekt na melding van de voltooiing van het in onderdeel e van dit lid bedoelde programma, alsmede plannen voor de vernietiging daarvan in overeenstemming met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=3&z=2008-05-30&g=2008-05-30) van dit Verdrag;
+- g. de voorraden clustermunitie, met inbegrip van explosieve submunities, ontdekt na melding van de voltooiing van het in onderdeel e van dit lid bedoelde programma, alsmede plannen voor de vernietiging daarvan in overeenstemming met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=3&z=2011-08-01&g=2011-08-01) van dit Verdrag;
 
 - h. voor zover mogelijk, de omvang en locatie van alle door clustermunitie getroffen gebieden die onder zijn rechtsmacht of zeggenschap vallen, met inbegrip van zo nauwkeurig mogelijke informatie betreffende het type en aantal van elk type restant van clustermunitie in elk getroffen gebied en het tijdstip waarop zij zijn gebruikt;
 
-- i. de stand en voortgang van programma’s voor het ruimen en vernietigen van alle typen en hoeveelheden resten van clustermunitie die zijn geruimd en vernietigd in overeenstemming met [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=4&z=2008-05-30&g=2008-05-30) van dit Verdrag, met inbegrip van de omvang en locatie van het door clustermunitie getroffen gebied dat is geruimd en een uitsplitsing naar de hoeveelheid van elk type restant van clustermunitie dat is geruimd en vernietigd;
+- i. de stand en voortgang van programma’s voor het ruimen en vernietigen van alle typen en hoeveelheden resten van clustermunitie die zijn geruimd en vernietigd in overeenstemming met [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=4&z=2011-08-01&g=2011-08-01) van dit Verdrag, met inbegrip van de omvang en locatie van het door clustermunitie getroffen gebied dat is geruimd en een uitsplitsing naar de hoeveelheid van elk type restant van clustermunitie dat is geruimd en vernietigd;
 
 - j. de maatregelen die genomen zijn om voorlichting over risicobeperking te geven en in het bijzonder om de burgers die wonen in door clustermunitie getroffen gebieden die onder zijn rechtsmacht of zeggenschap vallen onverwijld en op doeltreffende wijze te waarschuwen;
 
-- k. de stand en voortgang van de uitvoering van zijn verplichtingen ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=5&z=2008-05-30&g=2008-05-30) van dit Verdrag inzake het verlenen van op leeftijd en geslacht toegesneden hulp aan slachtoffers van clustermunitie, met inbegrip van medische verzorging, revalidatie en psychologische ondersteuning, het zorg dragen voor hun maatschappelijke en economische integratie en het verzamelen van betrouwbare relevante gegevens over slachtoffers van clustermunitie;
+- k. de stand en voortgang van de uitvoering van zijn verplichtingen ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=5&z=2011-08-01&g=2011-08-01) van dit Verdrag inzake het verlenen van op leeftijd en geslacht toegesneden hulp aan slachtoffers van clustermunitie, met inbegrip van medische verzorging, revalidatie en psychologische ondersteuning, het zorg dragen voor hun maatschappelijke en economische integratie en het verzamelen van betrouwbare relevante gegevens over slachtoffers van clustermunitie;
 
 - l. de naam en contactgegevens van de instellingen die bevoegd zijn informatie te verstrekken en de in dit lid beschreven maatregelen uit te voeren;
 
-- m. de omvang van de nationale middelen, financieel, materieel of in natura, die zijn bestemd voor de uitvoering van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=3&z=2008-05-30&g=2008-05-30), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=4&z=2008-05-30&g=2008-05-30) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=5&z=2008-05-30&g=2008-05-30) van dit Verdrag; en
+- m. de omvang van de nationale middelen, financieel, materieel of in natura, die zijn bestemd voor de uitvoering van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=3&z=2011-08-01&g=2011-08-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=4&z=2011-08-01&g=2011-08-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=5&z=2011-08-01&g=2011-08-01) van dit Verdrag; en
 
-- n. de omvang, soorten en bestemmingen van de internationale samenwerking en bijstand die uit hoofde van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=6&z=2008-05-30&g=2008-05-30) van dit Verdrag worden geleverd.
+- n. de omvang, soorten en bestemmingen van de internationale samenwerking en bijstand die uit hoofde van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=6&z=2011-08-01&g=2011-08-01) van dit Verdrag worden geleverd.
 
 2. De overeenkomstig het eerste lid van dit artikel verstrekte informatie wordt jaarlijks bijgewerkt door de Staten die Partij zijn en heeft betrekking op het voorgaande kalenderjaar; de informatie wordt uiterlijk op 30 april van elk jaar ter kennis gebracht van de Secretaris-Generaal van de Verenigde Naties.
 
@@ -332,7 +332,7 @@ Voor de toepassing van dit Verdrag:
 
 4. Hangende de bijeenroeping van een Vergadering van de Staten die Partij zijn, kan elk van de betrokken Staten die Partij zijn de Secretaris-Generaal van de Verenigde Naties verzoeken zijn of haar goede diensten te verlenen ter vergemakkelijking van de gevraagde opheldering.
 
-5. Wanneer een zaak uit hoofde van het derde lid van dit artikel aan haar is voorgelegd, stelt de Vergadering van de Staten die Partij zijn eerst vast of deze zaak verder zal worden bestudeerd, rekening houdend met alle informatie die is voorgelegd door de betrokken Staten die Partij zijn. Indien de Vergadering van de Staten die Partij zijn besluit dat verdere bestudering noodzakelijk is, kan zij de betrokken Staten die Partij zijn maatregelen en middelen voorstellen om de zaak in kwestie verder te verhelderen of op te lossen, met inbegrip van het initiëren van passende procedures in overeenstemming met het internationale recht. Wanneer wordt vastgesteld dat het probleem in kwestie te wijten is aan omstandigheden buiten de macht van de aangezochte Staat die Partij is, kan de Vergadering van de Staten die Partij zijn passende maatregelen aanbevelen, met inbegrip van de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=6&z=2008-05-30&g=2008-05-30) van dit Verdrag bedoelde samenwerkingsmaatregelen.
+5. Wanneer een zaak uit hoofde van het derde lid van dit artikel aan haar is voorgelegd, stelt de Vergadering van de Staten die Partij zijn eerst vast of deze zaak verder zal worden bestudeerd, rekening houdend met alle informatie die is voorgelegd door de betrokken Staten die Partij zijn. Indien de Vergadering van de Staten die Partij zijn besluit dat verdere bestudering noodzakelijk is, kan zij de betrokken Staten die Partij zijn maatregelen en middelen voorstellen om de zaak in kwestie verder te verhelderen of op te lossen, met inbegrip van het initiëren van passende procedures in overeenstemming met het internationale recht. Wanneer wordt vastgesteld dat het probleem in kwestie te wijten is aan omstandigheden buiten de macht van de aangezochte Staat die Partij is, kan de Vergadering van de Staten die Partij zijn passende maatregelen aanbevelen, met inbegrip van de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=6&z=2011-08-01&g=2011-08-01) van dit Verdrag bedoelde samenwerkingsmaatregelen.
 
 6. Naast de in het tweede tot en met vijfde lid van dit artikel voorziene procedures kan de Vergadering van de Staten die Partij zijn besluiten tot het aannemen van door haar passend geachte andere algemene procedures of specifieke mechanismen voor opheldering met betrekking tot de naleving, met inbegrip van feiten, en oplossing van zaken van niet-naleving van de bepalingen van dit Verdrag.
 
@@ -354,13 +354,13 @@ Elke Staat die Partij is neemt alle passende wettelijke, administratieve en ande
 
 - b. zaken die voortkomen uit de rapporten die ingevolge de bepalingen van dit Verdrag worden ingediend;
 
-- c. internationale samenwerking en bijstand in overeenstemming met [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=6&z=2008-05-30&g=2008-05-30) van dit Verdrag;
+- c. internationale samenwerking en bijstand in overeenstemming met [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=6&z=2011-08-01&g=2011-08-01) van dit Verdrag;
 
 - d. de ontwikkeling van technologieën voor het ruimen van resten van clustermunitie;
 
-- e. de door de Staten die Partij zijn ingediende verzoeken ingevolge de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=8&z=2008-05-30&g=2008-05-30) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=10&z=2008-05-30&g=2008-05-30) van dit Verdrag; en
+- e. de door de Staten die Partij zijn ingediende verzoeken ingevolge de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=8&z=2011-08-01&g=2011-08-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=10&z=2011-08-01&g=2011-08-01) van dit Verdrag; en
 
-- f. verzoeken van de Staten die Partij zijn zoals voorzien in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=3&z=2008-05-30&g=2008-05-30) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=4&z=2008-05-30&g=2008-05-30) van dit Verdrag.
+- f. verzoeken van de Staten die Partij zijn zoals voorzien in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=3&z=2011-08-01&g=2011-08-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=4&z=2011-08-01&g=2011-08-01) van dit Verdrag.
 
 2. De eerste Vergadering van Staten die Partij zijn wordt binnen één jaar na de inwerkingtreding van dit Verdrag bijeengeroepen door de Secretaris-Generaal van de Verenigde Naties. De volgende vergaderingen worden door de Secretaris-Generaal van de Verenigde Naties jaarlijks bijeengeroepen, tot aan de eerste Toetsingsconferentie.
 
@@ -374,9 +374,9 @@ Elke Staat die Partij is neemt alle passende wettelijke, administratieve en ande
 
 - a. het toetsen van het functioneren en de stand van dit Verdrag;
 
-- b. het bespreken van de behoefte aan en het tijdvak tussen de in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=11&z=2008-05-30&g=2008-05-30), van dit Verdrag bedoelde volgende Vergaderingen van de Staten die Partij zijn;
+- b. het bespreken van de behoefte aan en het tijdvak tussen de in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=11&z=2011-08-01&g=2011-08-01), van dit Verdrag bedoelde volgende Vergaderingen van de Staten die Partij zijn;
 
-- c. het nemen van beslissingen ten aanzien van de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=3&z=2008-05-30&g=2008-05-30) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=4&z=2008-05-30&g=2008-05-30) van dit Verdrag bedoelde ingediende verzoeken door Staten die Partij zijn.
+- c. het nemen van beslissingen ten aanzien van de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=3&z=2011-08-01&g=2011-08-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=4&z=2011-08-01&g=2011-08-01) van dit Verdrag bedoelde ingediende verzoeken door Staten die Partij zijn.
 
 3. Staten die geen Partij zijn bij dit Verdrag, alsmede de Verenigde Naties, andere relevante internationale organisaties of instellingen, regionale organisaties, het Internationaal Comité van het Rode Kruis, de Internationale Federatie van Rode Kruis- en Rode Halvemaanverenigingen en relevante niet-gouvernementele organisaties kunnen worden uitgenodigd elke Toetsingsconferentie als waarnemer bij te wonen, in overeenstemming met het aangenomen Reglement van Orde.
 
@@ -396,7 +396,7 @@ Elke Staat die Partij is neemt alle passende wettelijke, administratieve en ande
 
 1. De kosten van de Vergaderingen van Staten die Partij zijn, de Toetsingsconferenties en de Wijzigingsconferenties worden gedragen door de Staten die Partij zijn bij dit Verdrag en door de daaraan deelnemende Staten die geen Partij zijn bij dit Verdrag, in overeenstemming met de dienovereenkomstig aangepaste verdeelsleutel van de Verenigde Naties.
 
-2. De door de Secretaris-Generaal van de Verenigde Naties ingevolge de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=7&z=2008-05-30&g=2008-05-30) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=8&z=2008-05-30&g=2008-05-30) van dit Verdrag gemaakte kosten worden gedragen door de Staten die Partij zijn, in overeenstemming met de dienovereenkomstig aangepaste verdeelsleutel van de Verenigde Naties.
+2. De door de Secretaris-Generaal van de Verenigde Naties ingevolge de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=7&z=2011-08-01&g=2011-08-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=8&z=2011-08-01&g=2011-08-01) van dit Verdrag gemaakte kosten worden gedragen door de Staten die Partij zijn, in overeenstemming met de dienovereenkomstig aangepaste verdeelsleutel van de Verenigde Naties.
 
 3. Het uitvoeren door de Secretaris-Generaal van de Verenigde Naties van de aan hem of haar ingevolge dit Verdrag toegewezen administratieve taken is onder voorbehoud van een passend mandaat van de Verenigde Naties.
 
@@ -420,7 +420,7 @@ Dit Verdrag, gedaan te Dublin op 30 mei 2008, staat voor alle Staten op 3 decemb
 
 ##### Artikel 18. Voorlopige toepassing
 
-Elke Staat kan ten tijde van de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren dat hij, hangende de inwerkingtreding van dit Verdrag ten aanzien van die Staat, [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=1&z=2008-05-30&g=2008-05-30) van dit Verdrag voorlopig toepast.
+Elke Staat kan ten tijde van de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren dat hij, hangende de inwerkingtreding van dit Verdrag ten aanzien van die Staat, [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=1&z=2011-08-01&g=2011-08-01) van dit Verdrag voorlopig toepast.
 
 ##### Artikel 19. Voorbehouden
 
@@ -440,7 +440,7 @@ Er kunnen ten aanzien van de artikelen van dit Verdrag geen voorbehouden worden 
 
 2. Elke Staat die Partij is stelt de regeringen van alle in het derde lid van dit artikel bedoelde Staten die geen Partij zijn bij dit Verdrag in kennis van zijn verplichtingen uit hoofde van dit Verdrag, bevordert de normen die erin zijn vastgelegd en spant zich tot het uiterste in Staten die geen Partij zijn bij dit Verdrag te weerhouden van het gebruik van clustermunitie.
 
-3. Niettegenstaande de bepalingen van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=1&z=2008-05-30&g=2008-05-30) van dit Verdrag en in overeenstemming met het internationale recht, kunnen de Staten die Partij zijn hun militair personeel of hun onderdanen, op militair gebied samenwerken en militaire operaties uitvoeren met Staten die geen Partij zijn bij dit Verdrag die mogelijk deelnemen aan activiteiten die verboden zijn voor een Staat die Partij is.
+3. Niettegenstaande de bepalingen van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=1&z=2011-08-01&g=2011-08-01) van dit Verdrag en in overeenstemming met het internationale recht, kunnen de Staten die Partij zijn hun militair personeel of hun onderdanen, op militair gebied samenwerken en militaire operaties uitvoeren met Staten die geen Partij zijn bij dit Verdrag die mogelijk deelnemen aan activiteiten die verboden zijn voor een Staat die Partij is.
 
 4. Niets in het derde lid van dit artikel geeft een Staat die Partij is het recht:
 
