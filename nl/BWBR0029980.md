@@ -241,9 +241,3 @@ Dit besluit treedt in werking met ingang van 1 augustus 2011 in Bonaire, Sint Eu
 Dit besluit wordt aangehaald als: Staatsexamenbesluit Nederlands als vreemde taal BES.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 21a. Omhangbepaling
-
-Dit besluit berust op [artikel 2.72, derde en vierde lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.72).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
