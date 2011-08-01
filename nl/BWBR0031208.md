@@ -4,7 +4,7 @@ identifier: "BWBR0031208"
 country: "nl"
 rank: "wet"
 publication_date: "2014-08-01"
-last_updated: "2006-08-01"
+last_updated: "2011-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031208"
 soort: "wet"
@@ -55,7 +55,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel II. Wijziging van de [Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet voortgezet onderwijs BES.
 
 ##### Artikel IIa. Overgangsrecht
 
