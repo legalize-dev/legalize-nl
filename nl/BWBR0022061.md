@@ -4,7 +4,7 @@ identifier: "BWBR0022061"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-12"
-last_updated: "2010-08-01"
+last_updated: "2011-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022061"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluit:
 
 ##### Artikel 1. Vaststelling examenprogramma’s v.w.o en h.a.v.o.
 
-De examenprogramma’s v.w.o. en h.a.v.o. worden vastgesteld zoals aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&bijlage=1&z=2010-08-01&g=2010-08-01) bij deze regeling.
+De examenprogramma’s v.w.o. en h.a.v.o. worden vastgesteld zoals aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&bijlage=1&z=2011-08-01&g=2011-08-01) bij deze regeling.
 
 ##### Artikel 2. Vaststelling examenprogramma’s vmbo
 
-De examenprogramma’s v.m.b.o. worden vastgesteld zoals aangegeven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&bijlage=2&z=2010-08-01&g=2010-08-01) bij deze regeling.
+De examenprogramma’s v.m.b.o. worden vastgesteld zoals aangegeven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&bijlage=2&z=2011-08-01&g=2011-08-01) bij deze regeling.
 
 ##### Artikel 3. Intrekking regelingen examenprogramma’s v.w.o. en h.a.v.o.
 
@@ -146,7 +146,7 @@ De volgende regelingen worden ingetrokken:
 
 ##### Artikel 5. De periode 1 augustus 2007 tot en met 31 juli 2008
 
-De bepalingen in de regelingen, genoemd in [artikel 4, onder g tot en met w](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=4&z=2010-08-01&g=2010-08-01), blijven voor wat betreft de gemengde leerweg voor de periode 1 augustus 2007 tot en met 31 juli 2008 van toepassing voor de leerlingen die in het schooljaar 2007–2008 beginnen met het vierde leerjaar en kunnen, door het bevoegd gezag van de school te bepalen, in de plaats treden van de examenprogramma’s genoemd in [bijlage 2 bij artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&bijlage=2&z=2010-08-01&g=2010-08-01).
+De bepalingen in de regelingen, genoemd in [artikel 4, onder g tot en met w](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=4&z=2011-08-01&g=2011-08-01), blijven voor wat betreft de gemengde leerweg voor de periode 1 augustus 2007 tot en met 31 juli 2008 van toepassing voor de leerlingen die in het schooljaar 2007–2008 beginnen met het vierde leerjaar en kunnen, door het bevoegd gezag van de school te bepalen, in de plaats treden van de examenprogramma’s genoemd in [bijlage 2 bij artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&bijlage=2&z=2011-08-01&g=2011-08-01).
 
 ##### Artikel 6. Inwerkingtreding
 
@@ -160,13 +160,13 @@ Deze regeling wordt aangehaald als: Regeling examenprogramma’s voortgezet onde
 
 Ligt ter inzage in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-## Bijlage 1. behorende bij [artikel I, eerste lid, van de Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 2 april 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0027636&artikel=I), nr. VO/OK/2010/187093, houdende wijziging van de Regeling examenprogramma’s voortgezet onderwijs in verband met het vernieuwen van het examenprogramma economie havo
+## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=1&z=2011-08-01&g=2011-08-01) van de Regeling examenprogramma’s voortgezet onderwijs
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
 ##### Artikel 6a
 
-De examenprogramma’s 2.47 techniek-breed, 2.48 ICT-route, 2.49 technologie in de gemengde leerweg, 2.50 intersectoraal, 2.51 sport, dienstverlening en veiligheid en 2.52 lichamelijke opvoeding 2 als genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&bijlage=2&z=2010-08-01&g=2010-08-01) zijn voor het eerst van toepassing op leerlingen die in het schooljaar 2008-2009 beginnen met opleidingen in het derde jaar vmbo. Voor de scholen die op basis van de [Beleidsregel Scholenplanning voortgezet onderwijs 2007 en 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0020469), danwel op basis van de [Beleidsregel LO2 in het vmbo](https://wetten.overheid.nl/jci1.3:c:BWBR0020139), reeds zijn gestart met deze examenprogramma’s, zijn deze programma’s ook van toepassing op leerlingen die in het schooljaar 2008–2009 beginnen met opleidingen in het vierde jaar vmbo.
+De examenprogramma’s 2.47 techniek-breed, 2.48 ICT-route, 2.49 technologie in de gemengde leerweg, 2.50 intersectoraal, 2.51 sport, dienstverlening en veiligheid en 2.52 lichamelijke opvoeding 2 als genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&bijlage=2&z=2011-08-01&g=2011-08-01) zijn voor het eerst van toepassing op leerlingen die in het schooljaar 2008-2009 beginnen met opleidingen in het derde jaar vmbo. Voor de scholen die op basis van de [Beleidsregel Scholenplanning voortgezet onderwijs 2007 en 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0020469), danwel op basis van de [Beleidsregel LO2 in het vmbo](https://wetten.overheid.nl/jci1.3:c:BWBR0020139), reeds zijn gestart met deze examenprogramma’s, zijn deze programma’s ook van toepassing op leerlingen die in het schooljaar 2008–2009 beginnen met opleidingen in het vierde jaar vmbo.
 
 ## Bijlage 2
 
@@ -186,11 +186,11 @@ Het examenprogramma bestaat uit de volgende domeinen:
 
 ### Het centraal examen
 
-Het centraal examen heeft betrekking op domein A en domein D voor zover het analyseren en beoordelen betreft.
+Domein B Mondelinge taalvaardigheid
 
 ### Het schoolexamen
 
-Het schoolexamen heeft betrekking op:
+Domein D Argumentatieve vaardigheden
 
 ### De examenstof
 
@@ -206,35 +206,47 @@ Het schoolexamen heeft betrekking op:
 
 ### Domein C:. Schrijfvaardigheid
 
-### Domein D:. Argumentatieve vaardigheden
+### De examenstof
 
-### Domein E:. Literatuur
+### Domein A:. Leesvaardigheid
 
-### Subdomein E1:. Literaire ontwikkeling
+### Subdomein A1:. Analyseren en interpreteren
 
-### Subdomein E2:. Literaire begrippen
+### Subdomein A2:. Beoordelen
 
 8. De kandidaat kan literaire tekstsoorten herkennen en onderscheiden, en literaire begrippen hanteren in de interpretatie van literaire teksten.
 
-### Subdomein E3:. Literatuurgeschiedenis
+### Domein B:. Mondelinge taalvaardigheid
 
-### Domein F:. Oriëntatie op studie en beroep
+### Domein C:. Schrijfvaardigheid
 
-### Examenprogramma moderne vreemde talen en literatuur havo/vwo
+### Domein D:. Argumentatieve vaardigheden
 
-### Het eindexamen
+### Domein E:. Literatuur
 
 Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
 Het examenprogramma bestaat uit de volgende domeinen:
 
-### Het centraal examen
+### Subdomein E3:. Literatuurgeschiedenis
 
 Het centraal examen heeft betrekking op domein A.
 
-### Het schoolexamen
+### Examenprogramma moderne vreemde talen en literatuur havo/vwo
 
 Het schoolexamen heeft betrekking op:
+
+### De examenstof
+
+### Domein A:. Leesvaardigheid
+
+### Het centraal examen
+
+### Domein C:. Gespreksvaardigheid
+
+### Het schoolexamen
+
+### Subdomein C2:. Spreken
 
 ### De examenstof
 
@@ -258,15 +270,15 @@ Het schoolexamen heeft betrekking op:
 
 ### Subdomein E1:. Literaire ontwikkeling
 
-### Subdomein E2:. Literaire begrippen (alleen vwo)
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
-### Subdomein E3:. Literatuurgeschiedenis (alleen vwo)
+Het examenprogramma bestaat uit de volgende domeinen:
 
 ### Domein F:. Oriëntatie op studie en beroep
 
-### Examenprogramma Griekse taal en literatuur vwo/Latijnse taal en literatuur vwo
+Het centraal examen heeft betrekking op de domeinen A, B (voorzover dat mogelijk is, gelet op het karakter van het centraal examen) en C.
 
-### Griekse taal en literatuur
+Het centraal examen heeft betrekking op een thema en/of genre aan de hand van authentieke teksten van een of meer auteurs en van vertaalde teksten.
 
 ### Het eindexamen
 
@@ -275,62 +287,30 @@ Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 Het examenprogramma bestaat uit de volgende domeinen:
 
 ### Het centraal examen
-
-Het centraal examen heeft betrekking op de domeinen A, B (voorzover dat mogelijk is, gelet op het karakter van het centraal examen) en C.
-
-Het centraal examen heeft betrekking op een thema en/of genre aan de hand van authentieke teksten van een of meer auteurs en van vertaalde teksten.
-
-### Het schoolexamen
-
-Het schoolexamen heeft betrekking op:
-
-Daarnaast komen deze domeinen aan de orde aan de hand van:
-
-### De examenstof
 
 ### Domein A:. Reflectie op klassieke teksten
 
 ### Domein B:. Reflectie op relaties tussen de antieke cultuur en de latere Europese cultuur
 
-### Domein C:. Zelfstandige oordeelsvorming
+### Het schoolexamen
 
 ### Domein D:. Oriëntatie op studie en beroep
 
 ### Domein E:. Informatievaardigheden
-
-### Latijnse taal en literatuur
-
-### Het eindexamen
-
-Het eindexamen bestaat uit het centraal examen en het schoolexamen.
-
-Het examenprogramma bestaat uit de volgende domeinen:
-
-### Het centraal examen
-
-Het centraal examen heeft betrekking op de domeinen A, B (voorzover dat mogelijk is, gelet op het karakter van het centraal examen) en C.
-
-Het centraal examen heeft betrekking op een thema en/of genre aan de hand van authentieke teksten van een of meer auteurs en van vertaalde teksten.
-
-### Het schoolexamen
-
-Het schoolexamen heeft betrekking op:
-
-Daarnaast komen deze domeinen aan de orde aan de hand van:
 
 ### De examenstof
 
 ### Domein A:. Reflectie op klassieke teksten
 
-### Domein B:. Reflectie op relaties tussen de antieke cultuur en de latere Europese cultuur
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
-### Domein C:. Zelfstandige oordeelsvorming
+Het examenprogramma bestaat uit de volgende domeinen:
 
 ### Domein D:. Oriëntatie op studie en beroep
 
-### Domein E:. Informatievaardigheden
+Het centraal examen heeft betrekking op de domeinen A, B (voorzover dat mogelijk is, gelet op het karakter van het centraal examen) en C.
 
-### Examenprogramma Friese taal en cultuur havo/vwo
+Het centraal examen heeft betrekking op een thema en/of genre aan de hand van authentieke teksten van een of meer auteurs en van vertaalde teksten.
 
 ### Het eindexamen
 
@@ -339,12 +319,44 @@ Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 Het examenprogramma bestaat uit de volgende domeinen:
 
 ### Het centraal examen
+
+### Domein A:. Reflectie op klassieke teksten
+
+### Domein B:. Reflectie op relaties tussen de antieke cultuur en de latere Europese cultuur
+
+### Het schoolexamen
+
+### Domein D:. Oriëntatie op studie en beroep
+
+### Domein E:. Informatievaardigheden
+
+### De examenstof
+
+### Domein A:. Reflectie op klassieke teksten
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+### Domein D:. Oriëntatie op studie en beroep
 
 Het centraal examen heeft betrekking op domein A.
 
-### Het schoolexamen
+### Examenprogramma Friese taal en cultuur havo/vwo
 
 Het schoolexamen heeft betrekking op:
+
+### De examenstof
+
+### Domein A:. Leesvaardigheid
+
+### Het centraal examen
+
+### Subdomein B1:. Luistervaardigheid
+
+### Het schoolexamen
+
+### Subdomein B3:. Gespreksvaardigheid
 
 ### De examenstof
 
@@ -368,29 +380,29 @@ Het schoolexamen heeft betrekking op:
 
 ### Subdomein D3:. Literatuurgeschiedenis
 
-### Domein E:. Friese taal en cultuur
-
-### Subdomein E1:. Friese taal
-
-### Subdomein E2:. Friese cultuur
-
-### Domein F:. Oriëntatie op studie en beroep
-
-### Eksamenprogramma Fryske taal en kultuer hafû/twû
-
-### It eineksamen
-
 It eineksamen bestiet út it sintraal eksamen en in skoaleksamen.
 
 It eksamenprogramma bestiet út de neikommende domeinen:
 
-### It sintraal eksamen
+### Subdomein E2:. Friese cultuur
 
 It sintraal eksamen slacht op domein A.
 
-### It skoaleksamen
+### Eksamenprogramma Fryske taal en kultuer hafû/twû
 
 It skoaleksamen slacht op:
+
+### De eksamenstof
+
+### Domein A:. Lêsfeardigens
+
+### It sintraal eksamen
+
+### Subdomein B1:. Harkfeardigens
+
+### It skoaleksamen
+
+### Subdomein B3:. Praatfeardigens
 
 ### De eksamenstof
 
@@ -414,25 +426,25 @@ It skoaleksamen slacht op:
 
 ### Subdomein D3:. Literatuerskiednis
 
-### Domein E:. Fryske taal en kultuer
+Het eindexamen bestaat uit het schoolexamen.
 
-### Subdomein E1:. Fryske taal
+Het examenprogramma bestaat uit de volgende domeinen:
 
 ### Subdomein E2:. Fryske kultuer
 
-### Domein F:. Oriïntaasje op stúdzje en berop
+Het schoolexamen heeft betrekking op domein A tot en met E, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
 
 ### Examenprogramma maatschappijleer vwo
 
 ### Het eindexamen
 
-Het eindexamen bestaat uit het schoolexamen.
+### Subdomein A1:. Informatievaardigheden
 
-Het examenprogramma bestaat uit de volgende domeinen:
+### Subdomein A2:. Benaderingswijzen
 
 ### Het schoolexamen
 
-Het schoolexamen heeft betrekking op domein A tot en met E, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
+### Subdomein B1:. Vrijheidsrechten en plichten; het beginsel rechtsstaat
 
 ### De examenstof
 
@@ -470,25 +482,25 @@ Het schoolexamen heeft betrekking op domein A tot en met E, en indien het bevoeg
 
 ### Domein E:. Pluriforme samenleving
 
-### Subdomein E1:. Geschiedenis van de pluriforme samenleving
+Het eindexamen bestaat uit het schoolexamen.
 
-### Subdomein E2:. Grondrechten die horen bij de pluriforme samenleving
+Het examenprogramma bestaat uit de volgende domeinen:
 
 ### Subdomein E3:. De praktijk van de pluriforme samenleving
 
-### Subdomein E4:. Internationale vergelijking en internationale organisaties
+Het schoolexamen heeft betrekking op domein A tot en met E, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
 
 ### Examenprogramma maatschappijleer havo
 
 ### Het eindexamen
 
-Het eindexamen bestaat uit het schoolexamen.
+### Subdomein A1:. Informatievaardigheden
 
-Het examenprogramma bestaat uit de volgende domeinen:
+### Subdomein A2:. Benaderingswijzen
 
 ### Het schoolexamen
 
-Het schoolexamen heeft betrekking op domein A tot en met E, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
+### Subdomein B1:. Vrijheidsrechten en plichten; het beginsel rechtsstaat
 
 ### De examenstof
 
@@ -525,18 +537,6 @@ Het schoolexamen heeft betrekking op domein A tot en met E, en indien het bevoeg
 ### Subdomein D4:. Internationale vergelijking en internationale organisaties
 
 ### Domein E:. Pluriforme samenleving
-
-### Subdomein E1:. Geschiedenis van de pluriforme samenleving
-
-### Subdomein E2:. Grondrechten die horen bij de pluriforme samenleving
-
-### Subdomein E3:. De praktijk van de pluriforme samenleving
-
-### Subdomein E4:. Internationale vergelijking en internationale organisaties
-
-### Examenprogramma algemene natuurwetenschappen vwo (tevens havo)
-
-### Het eindexamen
 
 Het eindexamen bestaat uit het schoolexamen.
 
@@ -544,9 +544,21 @@ Het examenprogramma bestaat uit de volgende domeinen:
 
 Dit examenprogramma is ook van toepassing op het havo, waar de school voor havo ervoor kiest om algemene natuurwetenschappen als afzonderlijk vak in het eindexamen op te nemen, met dien verstande dat voor het havo een selectie kan worden gemaakt uit de examenstof. De domeinen A en B behoren altijd tot de examenstof.
 
-### Het schoolexamen
+### Subdomein E4:. Internationale vergelijking en internationale organisaties
 
 Het schoolexamen heeft betrekking op:
+
+### Het eindexamen
+
+### Domein A:. Vaardigheden
+
+### Subdomein A1:. Taalvaardigheden
+
+### Subdomein A2:. Reken-/wiskundige vaardigheden
+
+### Het schoolexamen
+
+### Subdomein A4:. Technisch-instrumentele vaardigheden
 
 ### De examenstof
 
@@ -596,71 +608,59 @@ Het schoolexamen heeft betrekking op:
 
 ### Subdomein E3:. Ontstaan van kennis over de materie
 
-### Domein F:. Zonnestelsel en heelal
+Het eindexamen bestaat uit het schoolexamen.
 
-### Subdomein F1:. Kenmerken van het zonnestelsel en het heelal
+Het examenprogramma bestaat uit de volgende domeinen:
 
 ### Subdomein F2:. Zonnestelsel en heelal in het dagelijkse leven
 
-### Subdomein F3:. Ontstaan van kennis over het heelal
+Het schoolexamen heeft betrekking op de domeinen A tot en met D, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
 
 ### Examenprogramma culturele en kunstzinnige vorming havo/vwo
 
 ### Het eindexamen
 
-Het eindexamen bestaat uit het schoolexamen.
-
-Het examenprogramma bestaat uit de volgende domeinen:
-
-### Het schoolexamen
-
-Het schoolexamen heeft betrekking op de domeinen A tot en met D, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
-
-### De examenstof
-
-### Domein A:. Culturele activiteiten
-
 ### Domein B:. Kennis van kunst en cultuur
 
 ### Domein C:. Praktische activiteiten
 
-### Domein D:. Reflectie
+### Het schoolexamen
 
 ### Examenprogramma klassieke culturele vorming vwo
 
-### Het eindexamen
+### De examenstof
 
 Het eindexamen bestaat uit het schoolexamen.
 
 Het examenprogramma bestaat uit de volgende domeinen:
 
-### Het schoolexamen
+### Domein C:. Praktische activiteiten
 
 Het schoolexamen heeft betrekking op de domeinen A en B, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die eventueel per kandidaat kunnen verschillen.
 
 Het bevoegd gezag kiest de cultuurdomeinen waarop de eindtermen betrekking hebben, bijvoorbeeld verhalengoed, drama, beeldende kunst, architectuur, filosofie.
 
-### De examenstof
+### Het eindexamen
 
 ### Domein A:. Reflectie op de antieke cultuur
 
 ### Domein B:. Reflectie op relaties tussen de antieke en de latere Europese cultuur
 
-### Examenprogramma lichamelijke opvoeding havo/vwo
+### Het schoolexamen
 
 ### Het eindexamen
 
-Het eindexamen bestaat uit het schoolexamen.
+Het bevoegd gezag kiest de cultuurdomeinen waarop de eindtermen betrekking hebben, bijvoorbeeld verhalengoed, drama, beeldende kunst, architectuur, filosofie.
 
 Het eindexamen bestaat uit praktische bewegingsactiviteiten.
 
 Het examenprogramma bestaat uit de volgende domeinen:
 
-### Het schoolexamen
+### Domein B:. Reflectie op relaties tussen de antieke en de latere Europese cultuur
 
 Het schoolexamen heeft betrekking op de domeinen A tot en met E, (met dien verstande dat de eindtermen uit de domeinen A en C, D en E slechts in samenhang met domein B aan de orde komen), en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
 
-### De examenstof
+### Het eindexamen
 
 ### Domein A:. Vaardigheden
 
@@ -668,25 +668,37 @@ Het schoolexamen heeft betrekking op de domeinen A tot en met E, (met dien verst
 
 ### Domein C:. Bewegen en regelen
 
-### Domein D:. Bewegen en gezondheid
+### Het schoolexamen
 
 ### Domein E:. Bewegen en samenleving
 
-### Examenprogramma wiskunde A vwo
+### De examenstof
 
-### Het eindexamen
+### Domein A:. Vaardigheden
 
 Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
 Het examenprogramma bestaat uit de volgende domeinen:
 
-### Het centraal examen
+### Domein D:. Bewegen en gezondheid
 
 Het centraal examen heeft betrekking op de subdomeinen A5, Bg1, Bg2, Cg1, Eg1, Eg2, Eg3, Eg4, Ba1, Ba2, Fa1, Fa2, Fa3 en Fa4, in combinatie met de vaardigheden uit de subdomeinen A1, A2 en A3.
 
-### Het schoolexamen
+### Examenprogramma wiskunde A vwo
 
 Het schoolexamen heeft betrekking op domein A en:
+
+### De examenstof
+
+### Domein A:. Vaardigheden
+
+### Het centraal examen
+
+### Subdomein A2:. Onderzoeksvaardigheden
+
+### Het schoolexamen
+
+### Subdomein A4:. Oriëntatie op studie en beroep
 
 ### De examenstof
 
@@ -734,29 +746,29 @@ Het schoolexamen heeft betrekking op domein A en:
 
 ### Subdomein Fa1:. Populatie en steekproef
 
-### Subdomein Fa2:. Ordenen, verwerken en samenvatten van statistische gegevens
-
-### Subdomein Fa3:. Kansverdelingen
-
-### Subdomein Fa4:. Het toetsen van hypothesen
-
-### Domein G:. Keuzeonderwerpen
-
-### Examenprogramma wiskunde A havo
-
-### Het eindexamen
-
 Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
 Het examenprogramma bestaat uit de volgende domeinen:
 
-### Het centraal examen
+### Subdomein Fa4:. Het toetsen van hypothesen
 
 Het centraal examen heeft betrekking op de subdomeinen A5, B1, B2, B3, C1, C2, D3, E1, E2, E3, G1, G2 en G3, in combinatie met de vaardigheden uit de subdomeinen A1, A2 en A3.
 
-### Het schoolexamen
+### Examenprogramma wiskunde A havo
 
 Het schoolexamen heeft betrekking op domein A en:
+
+### De examenstof
+
+### Domein A:. Vaardigheden
+
+### Het centraal examen
+
+### Subdomein A2:. Onderzoeksvaardigheden
+
+### Het schoolexamen
+
+### Subdomein A4:. Oriëntatie op studie en beroep
 
 ### De examenstof
 
@@ -800,21 +812,21 @@ Het schoolexamen heeft betrekking op domein A en:
 
 ### Subdomein E2:. Lineaire verbanden
 
-### Subdomein E3:. Exponentiële verbanden
+19. De kandidaat kan permutaties en combinaties onderscheiden en berekenen.
 
 ### Domein F:. Toegepaste analyse
 
-### Subdomein F1:. Exponentiële functies
+20. De kandidaat kan kansproblemen vertalen naar een vaasmodel en met behulp van rekenregels (somregel, productregel en complementregel) kansen en verwachtingswaarden berekenen.
 
 ### Subdomein F2:. Gebroken lineaire functies en machtsfuncties
 
-### Domein G:. De binomiale verdeling
+21. De kandidaat kan geschikte kansexperimenten vertalen naar een binomiaal kansmodel en binnen het model berekeningen uitvoeren.
 
 ### Subdomein G1:. Telproblemen
 
-19. De kandidaat kan permutaties en combinaties onderscheiden en berekenen.
+### Het eindexamen
 
-### Subdomein G2:. Rekenen met kansen
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
 20. De kandidaat kan kansproblemen vertalen naar een vaasmodel en met behulp van rekenregels (somregel, productregel en complementregel) kansen en verwachtingswaarden berekenen.
 
@@ -824,19 +836,19 @@ Het schoolexamen heeft betrekking op domein A en:
 
 ### Examenprogramma wiskunde B vwo
 
-### Het eindexamen
+Het schoolexamen heeft betrekking op domein A in combinatie met:
 
-Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+### De examenstof
 
-Het examenprogramma bestaat uit de volgende domeinen:
+### Domein A:. Vaardigheden
 
 ### Het centraal examen
 
-Het centraal examen heeft betrekking op de subdomeinen A5, Bg1, Bg2, Cg1, Bb1, Bb2, Bb3, Db1, Gb1 en Gb2, in combinatie met de vaardigheden uit de subdomeinen A1, A2 en A3.
+### Subdomein A2:. Onderzoeksvaardigheden
 
 ### Het schoolexamen
 
-Het schoolexamen heeft betrekking op domein A in combinatie met:
+### Subdomein A4:. Oriëntatie op studie en beroep
 
 ### De examenstof
 
@@ -874,29 +886,29 @@ Het schoolexamen heeft betrekking op domein A in combinatie met:
 
 ### Subdomein Db1:. Goniometrische functies
 
-### Domein Gb:. Voortgezette meetkunde
-
-### Subdomein Gb1:. Oriëntatie op bewijzen
-
-### Subdomein Gb2:. Constructie en bewijzen in de vlakke meetkunde
-
-### Domein F:. Keuzeonderwerpen
-
-### Examenprogramma wiskunde B havo
-
-### Het eindexamen
-
 Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
 Het examenprogramma bestaat uit de volgende domeinen:
 
-### Het centraal examen
+### Subdomein Gb2:. Constructie en bewijzen in de vlakke meetkunde
 
 Het centraal examen heeft betrekking op de subdomeinen A5, B1, D1, D2, E1, E2, E3, E4 en H1, in combinatie met de vaardigheden uit de subdomeinen A1, A2 en A3.
 
-### Het schoolexamen
+### Examenprogramma wiskunde B havo
 
 Het schoolexamen heeft betrekking op domein A en:
+
+### De examenstof
+
+### Domein A:. Vaardigheden
+
+### Het centraal examen
+
+### Subdomein A2:. Onderzoeksvaardigheden
+
+### Het schoolexamen
+
+### Subdomein A4:. Oriëntatie op studie en beroep
 
 ### De examenstof
 
@@ -928,29 +940,29 @@ Het schoolexamen heeft betrekking op domein A en:
 
 ### Subdomein E2:. Vergelijkingen en ongelijkheden
 
-### Subdomein E3:. Afgeleide functies
-
-### Subdomein E4:. Periodieke functies
-
-### Domein H:. Toegepaste analyse 2
-
-### Subdomein H1:. Afgeleide functies 2
-
-### Examenprogramma wiskunde C vwo
-
-### Het eindexamen
-
 Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
 Het examenprogramma bestaat uit de volgende domeinen:
 
-### Het centraal examen
+### Domein H:. Toegepaste analyse 2
 
 Het centraal examen heeft betrekking op de subdomeinen A5, Bg1, Bg2, Cg1, Eg1, Eg2, Eg3, Eg4 en Fa3, in combinatie met de vaardigheden uit de subdomeinen A1, A2 en A3.
 
-### Het schoolexamen
+### Examenprogramma wiskunde C vwo
 
 Het schoolexamen heeft betrekking op domein A en:
+
+### De examenstof
+
+### Domein A:. Vaardigheden
+
+### Het centraal examen
+
+### Subdomein A2:. Onderzoeksvaardigheden
+
+### Het schoolexamen
+
+### Subdomein A4:. Oriëntatie op studie en beroep
 
 ### De examenstof
 
@@ -996,25 +1008,25 @@ Het schoolexamen heeft betrekking op domein A en:
 
 ### Domein Fa:. Statistiek en kansrekening
 
-### Subdomein Fa1:. Populatie en steekproef
+Het eindexamen bestaat uit het schoolexamen.
 
-### Subdomein Fa2:. Ordenen, verwerken en samenvatten van statistische gegevens
+Het examenprogramma bestaat uit de volgende domeinen:
 
 ### Subdomein Fa3:. Kansverdelingen
 
-### Domein G:. Keuzeonderwerpen
+Het schoolexamen heeft betrekking op domein A in combinatie met:
 
 ### Examenprogramma wiskunde D vwo
 
 ### Het eindexamen
 
-Het eindexamen bestaat uit het schoolexamen.
+### Subdomein A1:. Algemene vaardigheden
 
-Het examenprogramma bestaat uit de volgende domeinen:
+### Subdomein A2:. Wiskundige en natuurwetenschappelijke vaardigheden
 
 ### Het schoolexamen
 
-Het schoolexamen heeft betrekking op domein A in combinatie met:
+### Domein B:. Kansrekening en statistiek
 
 ### De examenstof
 
@@ -1066,25 +1078,25 @@ Het schoolexamen heeft betrekking op domein A in combinatie met:
 
 ### Subdomein E1:. Basisoperaties
 
-### Subdomein E2:. Profielspecifieke verdieping
+Het eindexamen bestaat uit het schoolexamen.
 
-### Domein F:. Dynamische modellen 2
+Het examenprogramma bestaat uit de volgende domeinen:
 
 ### Domein G:. Wiskunde in wetenschap
 
-### Domein H:. Keuzeonderwerpen
+Het schoolexamen heeft betrekking op domein A in combinatie met:
 
 ### Examenprogramma wiskunde D havo
 
 ### Het eindexamen
 
-Het eindexamen bestaat uit het schoolexamen.
+### Subdomein A1:. Algemene vaardigheden
 
-Het examenprogramma bestaat uit de volgende domeinen:
+### Subdomein A2:. Wiskundige en natuurwetenschappelijke vaardigheden
 
 ### Het schoolexamen
 
-Het schoolexamen heeft betrekking op domein A in combinatie met:
+### Domein B:. Kansrekening en statistiek
 
 ### De examenstof
 
@@ -1102,7 +1114,7 @@ Het schoolexamen heeft betrekking op domein A in combinatie met:
 
 ### Subdomein B2:. Statistiek – dataverwerking
 
-### Subdomein B3:. Kansverdelingen
+**a = c · bd** herkennen, toepassen en bijbehorende grafieken tekenen, vanuit de beschrijving van een dergelijk verband een formule opstellen, de evenredigheidsconstante bepalen en de wetten van de schaalvergroting gebruiken.
 
 ### Subdomein B4:. Profielspecifieke verdieping
 
@@ -1114,7 +1126,7 @@ Het schoolexamen heeft betrekking op domein A in combinatie met:
 
 ### Subdomein C2:. Evenredigheidsverbanden
 
-**a = c · bd** herkennen, toepassen en bijbehorende grafieken tekenen, vanuit de beschrijving van een dergelijk verband een formule opstellen, de evenredigheidsconstante bepalen en de wetten van de schaalvergroting gebruiken.
+### Subdomein D3:. Coördinaten en vectoren
 
 ### Subdomein C3:. Exponentiële functies
 
@@ -1124,31 +1136,31 @@ Het schoolexamen heeft betrekking op domein A in combinatie met:
 
 ### Subdomein D1:. Onderlinge ligging van punten, lijnen, vlakken in concrete situaties
 
-### Subdomein D2:. Afstanden en hoeken in concrete situaties
-
-### Subdomein D3:. Coördinaten en vectoren
-
-### Domein E:. Wiskunde in technologie
-
-### Domein F:. Keuzeonderwerpen
-
-### Examenprogramma natuurkunde vwo
-
-### Het eindexamen
-
 Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
 Het examenprogramma bestaat uit de volgende domeinen:
 
-### Het centraal examen
+### Domein E:. Wiskunde in technologie
 
 Het centraal examen heeft betrekking op de subdomeinen B1, B3, C1, C2, C3, C4, E1, E2 en E4, in combinatie met de daarbij behorende vaardigheden uit domein A.
 
 Het College voor Examens kan bepalen dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin genoemde.
 
+### Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+### De examenstof
+
+### Het centraal examen
+
+### Subdomein A1:. Taalvaardigheden
+
+### Subdomein A2:. Reken-/wiskundige vaardigheden
+
 ### Het schoolexamen
 
-Het schoolexamen heeft betrekking op domein A en:
+### Subdomein A4:. Technisch-instrumentele vaardigheden
 
 ### De examenstof
 
@@ -1204,31 +1216,31 @@ Het schoolexamen heeft betrekking op domein A en:
 
 ### Subdomein E4:. Radioactiviteit
 
-### Domein F:. Moderne fysica
-
-### Subdomein F1:. Atoomfysica
-
-### Subdomein F2:. Kernfysica
-
-### Subdomein F3:. Astrofysica
-
-### Examenprogramma natuurkunde havo
-
-### Het eindexamen
-
 Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
 Het examenprogramma bestaat uit de volgende domeinen:
 
-### Het centraal examen
+### Subdomein F2:. Kernfysica
 
 Het centraal examen heeft betrekking op de subdomeinen B1, B2, C1, C2, D1, D2 en E2, in combinatie met de vaardigheden uit domein A1.
 
 Het College voor Examens kan bepalen dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin genoemde.
 
+### Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+### De examenstof
+
+### Het centraal examen
+
+### Subdomein A1-1:. Taalvaardigheden
+
+### Subdomein A1-2:. Reken-/wiskundige vaardigheden
+
 ### Het schoolexamen
 
-Het schoolexamen heeft betrekking op domein A1 en:
+### Subdomein A1-4:. Technisch-instrumentele vaardigheden
 
 ### De examenstof
 
@@ -1282,31 +1294,31 @@ Het schoolexamen heeft betrekking op domein A1 en:
 
 ### Subdomein D4:. Cirkelbeweging
 
-### Domein E:. Materie en energie
-
-### Subdomein E1:. Materie en energie
-
-### Subdomein E2:. Straling en gezondheid
-
-### Subdomein E3:. Kernenergie en techniek
-
-### Examenprogramma scheikunde vwo
-
-### Het eindexamen
-
 Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
 Het examenprogramma bestaat uit de volgende domeinen:
 
-### Het centraal examen
+### Subdomein E2:. Straling en gezondheid
 
 Het centraal examen heeft betrekking op de subdomeinen B2, B4, C3, C4, D2, D3, E1, E3, E4, E5, F3, F4, F5, G3, G4 en H3, in combinatie met domein A.
 
 Het College voor Examens kan bepalen dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin genoemde.
 
+### Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+### De examenstof
+
+### Het centraal examen
+
+### Subdomein A1:. Taalvaardigheden
+
+### Subdomein A2:. Reken-/wiskundige vaardigheden
+
 ### Het schoolexamen
 
-Het schoolexamen heeft betrekking op domein A en:
+### Subdomein A4:. Technisch-instrumentele vaardigheden
 
 ### De examenstof
 
@@ -1394,31 +1406,31 @@ Het schoolexamen heeft betrekking op domein A en:
 
 ### Subdomein G5: Namen en formules
 
-### Domein H:. Redox
-
-### Subdomein H1:. Toepassingen
-
-### Subdomein H2:. Redox als proces
-
-### Subdomein H3:. Redoxreacties
-
-### Examenprogramma scheikunde havo
-
-### Het eindexamen
-
 Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
 Het examenprogramma bestaat uit de volgende domeinen:
 
-### Het centraal examen
+### Subdomein H2:. Redox als proces
 
 Het centraal examen heeft betrekking op de subdomeinen B2, B3, B4, C3, C4, D2, E1, E3, E4, F3, G3, G4, H2, H3, in combinatie met domein A1.
 
 Het College voor Examens kan bepalen dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin genoemde.
 
+### Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+### De examenstof
+
+### Het centraal examen
+
+### Subdomein A1.1:. Taalvaardigheden
+
+### Subdomein A1.2:. Reken-/wiskundige vaardigheden
+
 ### Het schoolexamen
 
-Het schoolexamen heeft betrekking op domein A1 en:
+### Subdomein A1.4:. Technisch-instrumentele vaardigheden
 
 ### De examenstof
 
@@ -1504,31 +1516,31 @@ Het schoolexamen heeft betrekking op domein A1 en:
 
 ### Subdomein G4:. Berekeningen
 
-### Domein H:. Reacties en stroom
-
-### Subdomein H1:. Toepassingen
-
-### Subdomein H2:. Redox als proces
-
-### Subdomein H3:. Reacties
-
-### Examenprogramma biologie vwo
-
-### Het eindexamen
-
 Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
 Het examenprogramma bestaat uit de volgende domeinen:
 
-### Het centraal examen
+### Subdomein H2:. Redox als proces
 
 Het centraal examen heeft betrekking op de subdomeinen B1, C1, D1, D3, D4, D5, E2, E4 en E5, in combinatie met de vaardigheden uit domein A.
 
 Het College voor Examens kan bepalen dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin genoemde.
 
+### Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+### De examenstof
+
+### Het centraal examen
+
+### Subdomein A1:. Taalvaardigheden
+
+### Subdomein A2:. Reken-/wiskundige vaardigheden
+
 ### Het schoolexamen
 
-Het schoolexamen heeft betrekking op domein A en:
+### Subdomein A4:. Technisch-instrumentele vaardigheden
 
 ### De examenstof
 
@@ -1580,31 +1592,31 @@ Het schoolexamen heeft betrekking op domein A en:
 
 ### Subdomein E1:. Dynamiek in ecosystemen
 
-### Subdomein E2:. Ontstaan en handhaving van verscheidenheid
-
-### Subdomein E3:. Ethologie
-
-### Subdomein E4:. Homeostase bij de mens
-
-### Subdomein E5:. Bescherming van het interne milieu
-
-### Examenprogramma biologie havo
-
-### Het eindexamen
-
 Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
 Het examenprogramma bestaat uit de volgende domeinen:
 
-### Het centraal examen
+### Subdomein E4:. Homeostase bij de mens
 
 Het centraal examen heeft betrekking op de subdomeinen B1, C1, D1, D3, E1, E2, E3 en E4, in combinatie met de vaardigheden uit domein A1.
 
 Het College voor Examens kan bepalen dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin genoemde.
 
+### Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+### De examenstof
+
+### Het centraal examen
+
+### Subdomein A1.1:. Taalvaardigheden
+
+### Subdomein A.1.2:. Reken-/wiskundige vaardigheden
+
 ### Het schoolexamen
 
-Het schoolexamen heeft betrekking op domein A1 en:
+### Subdomein A1.4:. Technisch-instrumentele vaardigheden
 
 ### De examenstof
 
@@ -1660,25 +1672,25 @@ Het schoolexamen heeft betrekking op domein A1 en:
 
 ### Subdomein E1:. Dynamiek in ecosystemen
 
-### Subdomein E2:. Ontstaan en handhaven van verscheidenheid
+Het eindexamen bestaat uit het schoolexamen.
 
-### Subdomein E3:. Gedrag van mens en dier
+Het examenprogramma bestaat uit de volgende domeinen:
 
 ### Subdomein E4:. Homeostase bij de mens
 
-### Subdomein E5:. Huid en immuniteit
+Het schoolexamen heeft betrekking op het gehele domein A in combinatie met:
 
 ### Examenprogramma natuur, leven en technologie vwo
 
 ### Het eindexamen
 
-Het eindexamen bestaat uit het schoolexamen.
+### A1:. Profieloverstijgende vaardigheden
 
-Het examenprogramma bestaat uit de volgende domeinen:
+### Subdomein A1-1:. Informatievaardigheden
 
 ### Het schoolexamen
 
-Het schoolexamen heeft betrekking op het gehele domein A in combinatie met:
+### Subdomein A1-3:. Reflecteren op leren
 
 ### De examenstof
 
@@ -1724,25 +1736,25 @@ Het schoolexamen heeft betrekking op het gehele domein A in combinatie met:
 
 ### Domein E:. Biofysica, -chemie en -informatica
 
-### Domein F:. Biomedische technologie en biotechnologie
+Het eindexamen bestaat uit het schoolexamen.
 
-### Domein G:. (Duurzaam) gebruik van grondstoffen, energie en ruimte
+Het examenprogramma bestaat uit de volgende domeinen:
 
 ### Domein H:. Materialen, proces- en productietechnologie
 
-### Domein I:. Werktuigen, voertuigen en producten
+Het schoolexamen heeft betrekking op het gehele domein A in combinatie met:
 
 ### Examenprogramma natuur, leven en technologie havo
 
 ### Het eindexamen
 
-Het eindexamen bestaat uit het schoolexamen.
+### A1:. Profieloverstijgende vaardigheden
 
-Het examenprogramma bestaat uit de volgende domeinen:
+### Subdomein A1-1:. Informatievaardigheden
 
 ### Het schoolexamen
 
-Het schoolexamen heeft betrekking op het gehele domein A in combinatie met:
+### Subdomein A1-3:. Reflecteren op leren
 
 ### De examenstof
 
@@ -1788,25 +1800,25 @@ Het schoolexamen heeft betrekking op het gehele domein A in combinatie met:
 
 ### Domein E:. Opsporen en beschermen
 
-### Domein F:. Verbetering van de kwaliteit van leven
+Het eindexamen bestaat uit het schoolexamen.
 
-### Domein G:. Grenzen verleggen
+Het examenprogramma bestaat uit de volgende domeinen:
 
 ### Domein H:. Communiceren en navigeren
 
-### Domein I:. Gemak dient de mens
+Het schoolexamen heeft betrekking op de domeinen A tot en met D, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
 
 ### Examenprogramma informatica havo/vwo
 
 ### Het eindexamen
 
-Het eindexamen bestaat uit het schoolexamen.
+### Subdomein A1:. Wetenschap en technologie
 
-Het examenprogramma bestaat uit de volgende domeinen:
+### Subdomein A2:. Maatschappij
 
 ### Het schoolexamen
 
-Het schoolexamen heeft betrekking op de domeinen A tot en met D, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
+### Subdomein A4:. Individu
 
 ### De examenstof
 
@@ -1844,29 +1856,29 @@ Het schoolexamen heeft betrekking op de domeinen A tot en met D, en indien het b
 
 ### Subdomein C6:. Informatieanalyse
 
-### Subdomein C7:. Relationele databases
-
-### Subdomein C8:. Interactie mens-machine
-
-### Subdomein C9:. Systeemontwikkeltraject
-
-### Domein D:. Toepassingen in samenhang
-
-### Examenprogramma aardrijkskunde vwo
-
-### Het eindexamen
-
 Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
 Het examenprogramma bestaat uit de volgende domeinen:
 
-### Het centraal examen
+### Subdomein C9:. Systeemontwikkeltraject
 
 Het centraal examen heeft betrekking op de (sub)domeinen A1, B1, C1, D1 en E1.
 
-### Het schoolexamen
+### Examenprogramma aardrijkskunde vwo
 
 Het schoolexamen heeft betrekking op domein A en:
+
+### De examenstof
+
+### Domein A:. Vaardigheden
+
+### Het centraal examen
+
+### Subdomein A2:. Geografisch onderzoek
+
+### Het schoolexamen
+
+### Subdomein B1:. Samenhang en verscheidenheid in de wereld
 
 ### De examenstof
 
@@ -1886,7 +1898,7 @@ Het schoolexamen heeft betrekking op domein A en:
 
 ### Subdomein C1:. De aarde als natuurlijk systeem; samenhangen en diversiteit
 
-### Subdomein C2:. Mondiaal milieuvraagstuk
+Hij betrekt bij beide soorten vraagstukken aspecten van duurzame ontwikkeling en plannen voor de ruimtelijke inrichting van Nederland.
 
 ### Domein D:. Gebieden
 
@@ -1896,29 +1908,29 @@ Het schoolexamen heeft betrekking op domein A en:
 
 ### Domein E:. Leefomgeving
 
-### Subdomein E1:. Nationale en regionale vraagstukken
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
 Hij betrekt bij beide soorten vraagstukken aspecten van duurzame ontwikkeling en plannen voor de ruimtelijke inrichting van Nederland.
 
 ### Subdomein E2:. Regionale en lokale vraagstukken
 
-### Domein F:. Oriëntatie op studie en beroep
+Het centraal examen heeft betrekking op de (sub)domeinen A1, B2, C2, D1, E1.
 
 ### Examenprogramma aardrijkskunde havo
 
-### Het eindexamen
+Het schoolexamen heeft betrekking op domein A en:
 
-Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+### De examenstof
 
-Het examenprogramma bestaat uit de volgende domeinen:
+### Domein A:. Vaardigheden
 
 ### Het centraal examen
 
-Het centraal examen heeft betrekking op de (sub)domeinen A1, B2, C2, D1, E1.
+### Subdomein A2:. Geografisch onderzoek
 
 ### Het schoolexamen
 
-Het schoolexamen heeft betrekking op domein A en:
+### Subdomein B1:. Gebieden op de grens van arm en rijk
 
 ### De examenstof
 
@@ -1942,7 +1954,7 @@ Het schoolexamen heeft betrekking op domein A en:
 
 ### Subdomein C2:. Samenhangen en verschillen op aarde
 
-### Subdomein C3:. De aarde als natuurlijk systeem en lokale effecten
+Hij betrekt bij beide soorten vraagstukken aspecten van duurzame ontwikkeling en plannen voor de ruimtelijke inrichting van Nederland.
 
 ### Domein D:. Ontwikkelingsland
 
@@ -1952,19 +1964,19 @@ Het schoolexamen heeft betrekking op domein A en:
 
 ### Domein E:. Leefomgeving
 
-### Subdomein E1:. Nationale en regionale vraagstukken
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
 Hij betrekt bij beide soorten vraagstukken aspecten van duurzame ontwikkeling en plannen voor de ruimtelijke inrichting van Nederland.
 
 ### Subdomein E2:. Regionale en lokale vraagstukken
 
-### Domein F:. Oriëntatie op studie en beroep
+Het centraal examen heeft betrekking op de domeinen A en B.
 
 ### Examenprogramma geschiedenis havo/vwo
 
-### Het eindexamen
+Het schoolexamen heeft betrekking op domein A en:
 
-Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+### Tijdelijke afwijking
 
 Het examenprogramma bestaat uit de volgende domeinen:
 
@@ -1974,19 +1986,19 @@ Het centraal examen heeft betrekking op de domeinen A en B.
 
 ### Het schoolexamen
 
-Het schoolexamen heeft betrekking op domein A en:
+### Domein B:. Oriëntatiekennis
 
-### Tijdelijke afwijking
+Voor tijdvak 1 gelden de volgende kenmerkende aspecten:
 
 Tot een nader te bepalen datum heeft het centraal examen betrekking op de domeinen A en C. Het College voor Examens stelt daartoe twee thema's vast en maakt de daarbij behorende specificatie bekend. Tot de bedoelde datum omvat het schoolexamen:
 
-### De examenstof
+Voor tijdvak 3 gelden de volgende kenmerkende aspecten:
 
 Wat in onderstaande tekst gecursiveerd is, geldt alleen voor het examenprogramma vwo.
 
-### Domein A:. Historisch besef
+Voor tijdvak 5 gelden de volgende kenmerkende aspecten:
 
-### Domein B:. Oriëntatiekennis
+Voor tijdvak 6 gelden de volgende kenmerkende aspecten:
 
 Voor tijdvak 1 gelden de volgende kenmerkende aspecten:
 
@@ -1995,18 +2007,6 @@ Voor tijdvak 2 gelden de volgende kenmerkende aspecten:
 Voor tijdvak 3 gelden de volgende kenmerkende aspecten:
 
 Voor tijdvak 4 gelden de volgende kenmerkende aspecten:
-
-Voor tijdvak 5 gelden de volgende kenmerkende aspecten:
-
-Voor tijdvak 6 gelden de volgende kenmerkende aspecten:
-
-Voor tijdvak 7 gelden de volgende kenmerkende aspecten:
-
-Voor tijdvak 8 gelden de volgende kenmerkende aspecten:
-
-Voor tijdvak 9 gelden de volgende kenmerkende aspecten:
-
-Voor tijdvak 10 gelden de volgende kenmerkende aspecten:
 
 ### Domein C:. Thema's
 
@@ -2018,19 +2018,19 @@ Voor tijdvak 10 gelden de volgende kenmerkende aspecten:
 
 ### Het eindexamen
 
-Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+Voor tijdvak 10 gelden de volgende kenmerkende aspecten:
 
 Het examenprogramma bestaat uit de volgende domeinen:
 
-### Het centraal examen
+### Domein D:. Geschiedenis van de rechtsstaat en van de parlementaire democratie
 
 Het centraal examen heeft betrekking op de domeinen B, C, E, K, L, M, N en P, in combinatie met domein A.
 
 Het College voor Examens kan bepalen dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen tezamen dezelfde studielast hebben als de in de vorige zin bedoelde.
 
-### Het schoolexamen
+### Het eindexamen
 
-Het schoolexamen heeft betrekking op domein A en:
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
 ### De examenstof
 
@@ -2042,7 +2042,7 @@ Het schoolexamen heeft betrekking op domein A en:
 
 ### Subdomein A3:. Economische perspectieven en belangen
 
-### Subdomein A4:. Informatievaardigheden
+### De examenstof
 
 ### Subdomein A5:. Rekenvaardigheden
 
@@ -2068,21 +2068,21 @@ Het schoolexamen heeft betrekking op domein A en:
 
 ### Domein J:. Goederenmarkt
 
-### Domein K:. Inkomensvorming en inflatie
+### Examenprogramma management en organisatie vwo
 
-### Domein L:. Inkomensverdeling
+### Het eindexamen
 
 ### Domein M:. Economische kringloop
 
 ### Domein N:. Markt, overheid en economische orde
 
-### Domein O:. Onderontwikkeling
+### Het centraal examen
 
 ### Domein P:. Sociale zekerheid
 
 ### Domein Q:. Europese integratie
 
-### Examenprogramma economie havo
+### Het schoolexamen
 
 ### Het eindexamen
 
@@ -2090,59 +2090,59 @@ Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
 Het examenprogramma bestaat uit de volgende domeinen:
 
-### Het centraal examen
+### Subdomein A1:. Economische aspecten van vraagstukken binnen organisaties
 
 Het centraal examen heeft betrekking op de domeinen D, E, F, G, H, I, in combinatie met domein A.
 
-### Het schoolexamen
+### Subdomein A3:. Economische perspectieven en belangen
 
 Het schoolexamen heeft betrekking op domein B, C, J en K, in combinatie met domein A en:
 
-### De examenstof
+### Subdomein A5:. Strategische vaardigheden
 
-### Domein A. Vaardigheden
+### Subdomein A6:. Oriëntatie op studie en beroep
 
 De kandidaat kan economische concepten herkennen en toepassen in uiteenlopende contexten.
 
-### Domein B. Concept schaarste
+### Subdomein B1:. Interne organisatie
 
 De kandidaat kan in contexten analyseren dat beperkte middelen en ongelimiteerde behoeften dwingen tot het maken van keuzes.
 
-### Domein C. Concept ruil
+### Domein C:. Financiering van activiteiten
 
 De kandidaat kan in contexten analyseren dat het ruilproces de basis vormt voor een optimale inzet van middelen en een optimale benutting van comparatieve voordelen. Voorts kan de kandidaat analyseren dat ruil arbeidsdeling mogelijk maakt en op welke manier geld het ruilproces soepeler laat verlopen.
 
-### Domein D. Concept markt
+### Subdomein C2:. Aantrekken van geld
 
 De kandidaat kan in contexten analyseren dat keuzes en ruil die plaatsvinden worden gecoördineerd via de markt. Prijsvorming is het coördinatiemechanisme waarmee vraag en aanbod op elkaar worden afgestemd. De manier waarop prijsvorming plaatsvindt is afhankelijk van de marktstructuur (marktvormen) en heeft gevolgen voor toetreding, welvaart en economische politiek.
 
-### Domein E. Concept ruilen over de tijd
+### Subdomein D1:. Marketing van niet-commerciële organisaties
 
 De kandidaat kan, binnen de contexten van gezinshuishoudingen, bedrijfshuishoudingen en overheidshuishoudingen, analyseren dat ruil niet alleen op één moment in de tijd plaatsvindt, maar ook over de tijd. De prijs die deze intertemporele ruil coördineert is de rente.
 
-### Domein F. Concept samenwerken en onderhandelen
+### Domein E:. Financieel beleid
 
 De kandidaat kan in contexten analyseren dat, wanneer belangen van individuele actoren conflicteren, samenwerken en onderhandelen meer oplevert voor (markt)partijen dan vertrouwen op individuele acties. Centralisatie, waarbij (collectieve) dwang het middel is om acties tot stand te brengen, kan een alternatief coördinatiemechanisme zijn voor keuzes.
 
-### Domein G. Concept risico en informatie
+### Subdomein E2:. Financieel beleid in commerciële organisaties: handels-ondernemingen
 
 De kandidaat kan in contexten analyseren dat gezinnen en bedrijven bij het maken van keuzes informatie verzamelen ten einde onzekerheid te verkleinen. Aangezien de informatie vaak een beperkt karakter zal hebben moeten transactiepartijen een inschatting maken van mogelijke gebeurtenissen (risico) en de mate waarin transactiepartners gebeurtenissen beïnvloeden of informatie achterhouden die relevant is voor het tot stand brengen van een transactie (asymmetrische informatie).
 
-### Domein H. Concept welvaart en groei
+### Domein F:. Informatievoorziening met behulp van ICT
 
 De kandidaat kan in contexten analyseren wat op nationaal en op mondiaal niveau de oorzaken zijn van economische groei en van de verdeling van inkomen en welvaart. Keuzes op microniveau werken door op macroniveau in elke economie die gekenmerkt wordt door wederzijds afhankelijke markten.
 
-### Domein I. Concept goede tijden, slechte tijden
+### Subdomein F2:. Toepassing van computerprogramma’s in het kader van informatievoorziening van organisaties
 
 De kandidaat kan in contexten analyseren waarom er sprake is van korte termijn schommelingen in economische activiteiten en welke mogelijkheden en grenzen er zijn voor conjunctuurbeleid. Markten laten zich niet gemakkelijk reguleren mede door toedoen van rigiditeiten.
 
-### Domein J. Onderzoek en experiment
+### Examenprogramma management en organisatie havo
 
 De kandidaat kan door het deelnemen aan experimenten een conclusie trekken die getuigt van een ‘economische kijk’ op maatschappelijke verschijnselen en van strategisch inzicht. De kandidaat kan analyseren welke grenzen aan de verklaringskracht van theoretische concepten gesteld kunnen worden.
 
 ### Domein K. Keuzeonderwerpen
 
-De kandidaat kan een economisch concept in verschillende contexten vergelijkenderwijs analyseren.
+Het examenprogramma bestaat uit de volgende domeinen:
 
 De kandidaat kiest ten minste twee keuzeonderwerpen om deze analyse uit te voeren.
 
@@ -2152,95 +2152,17 @@ De kandidaat kiest ten minste twee keuzeonderwerpen om deze analyse uit te voere
 
 Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
-Het examenprogramma bestaat uit de volgende domeinen:
+Het schoolexamen heeft betrekking op domein A en:
 
-### Het centraal examen
+### De examenstof
 
 Het centraal examen heeft betrekking op de domeinen C, E en G, in combinatie met domein A.
 
 Het College voor Examens kan bepalen dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin bedoelde.
 
-### Het schoolexamen
-
-Het schoolexamen heeft betrekking op domein A en:
-
-### De examenstof
-
-### Domein A:. Vaardigheden
-
-### Subdomein A1:. Economische aspecten van vraagstukken binnen organisaties
-
 ### Subdomein A2:. Economische instrumenten
 
-### Subdomein A3:. Economische perspectieven en belangen
-
-### Subdomein A4:. Informatievaardigheden
-
-### Subdomein A5:. Strategische vaardigheden
-
-### Subdomein A6:. Oriëntatie op studie en beroep
-
-### Domein B:. Interne organisatie en personeelsbeleid
-
-### Subdomein B1:. Interne organisatie
-
-### Subdomein B2:. Personeelsbeleid
-
-### Domein C:. Financiering van activiteiten
-
-### Subdomein C1:. Rechtsvormen
-
-### Subdomein C2:. Aantrekken van geld
-
-### Domein D:. Marketingbeleid
-
-### Subdomein D1:. Marketing van niet-commerciële organisaties
-
-### Subdomein D2:. Marketing van commerciële organisaties
-
-### Domein E:. Financieel beleid
-
-### Subdomein E1:. Financieel beleid in niet-commerciële organisaties
-
-### Subdomein E2:. Financieel beleid in commerciële organisaties: handels-ondernemingen
-
-### Subdomein E3:. Financieel beleid in commerciële organisaties: industriële ondernemingen
-
-### Domein F:. Informatievoorziening met behulp van ICT
-
-### Subdomein F1:. Informatiestromen in organisaties
-
-### Subdomein F2:. Toepassing van computerprogramma’s in het kader van informatievoorziening van organisaties
-
-### Domein G:. Externe financiële verslaggeving
-
-### Examenprogramma management en organisatie havo
-
-### Het eindexamen
-
-Het eindexamen bestaat uit het centraal examen en het schoolexamen.
-
-Het examenprogramma bestaat uit de volgende domeinen:
-
-### Het centraal examen
-
-Het centraal examen heeft betrekking op de domeinen C, E en G, in combinatie met domein A.
-
-Het College voor Examens kan bepalen dat het centraal examen ten dele betrekking kan hebben op andere subdomeinen, mits de subdomeinen tezamen dezelfde studielast hebben als de in de vorige zin bedoelde.
-
-### Het schoolexamen
-
 Het schoolexamen heeft betrekking op domein A en:
-
-### De examenstof
-
-### Domein A:. Vaardigheden
-
-### Subdomein A1:. Economische aspecten van vraagstukken binnen organisaties
-
-### Subdomein A2:. Economische instrumenten
-
-### Subdomein A3:. Economische perspectieven en belangen
 
 ### Subdomein A4:. Informatievaardigheden
 
@@ -2284,31 +2206,31 @@ Het schoolexamen heeft betrekking op domein A en:
 
 ### Het eindexamen
 
+### Domein F:. Informatievoorziening met behulp van ICT
+
+### Subdomein F1:. Informatiestromen in organisaties
+
+### Het centraal examen
+
+### Domein G:. Externe financiële verslaggeving
+
+### Het schoolexamen
+
+### Het eindexamen
+
 Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
 Het examenprogramma bestaat uit de volgende domeinen:
 
-### Het centraal examen
-
-Het centraal examen heeft betrekking op de domeinen B, C en F, in combinatie met domein A.
-
-### Het schoolexamen
-
-Het schoolexamen heeft betrekking op:
-
-### De examenstof
-
-### Domein A:. Vaardigheden
-
 ### Subdomein A1:. Informatievaardigheden
 
-### Subdomein A2:. Onderzoeksvaardigheden
+Het centraal examen heeft betrekking op de domeinen C, E en G, in combinatie met domein A.
 
-### Subdomein A3:. Benaderingswijzen
+Het College voor Examens kan bepalen dat het centraal examen ten dele betrekking kan hebben op andere subdomeinen, mits de subdomeinen tezamen dezelfde studielast hebben als de in de vorige zin bedoelde.
 
 ### Subdomein A4:. Oriëntatie op studie en beroep
 
-### Domein B:. Politieke besluitvorming
+Het schoolexamen heeft betrekking op domein A en:
 
 ### Subdomein B1:. Politieke structuren
 
@@ -2362,17 +2284,17 @@ Het schoolexamen heeft betrekking op:
 
 ### Subdomein F3:. Overheidsbeleid
 
-### Subdomein F4:. Functies van straffen
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
-### Subdomein F5:. Oorzaken van criminaliteit
+Het examenprogramma bestaat uit de volgende domeinen:
 
 ### Domein G:. Milieu en beleid
 
-### Subdomein G1:. Milieu als maatschappelijk probleem
+Het centraal examen heeft betrekking op de domeinen B, C en F, in combinatie met domein A.
 
 ### Subdomein G2:. Overheid
 
-### Subdomein G3:. Maatschappelijke organisaties
+Het schoolexamen heeft betrekking op:
 
 ### Subdomein G4:. Mondiaal niveau
 
@@ -2392,17 +2314,17 @@ Het schoolexamen heeft betrekking op:
 
 ### Het eindexamen
 
-Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+### Subdomein B3:. Politieke cultuur en politieke stromingen
 
-Het examenprogramma bestaat uit de volgende domeinen:
+### Subdomein B4:. Internationale betrekkingen
 
 ### Het centraal examen
 
-Het centraal examen heeft betrekking op de domeinen B, C en F, in combinatie met domein A.
+### Subdomein C1:. Communicatie en massamedia
 
 ### Het schoolexamen
 
-Het schoolexamen heeft betrekking op:
+### Subdomein C3:. Massamedia en de overheid
 
 ### De examenstof
 
@@ -2470,17 +2392,17 @@ Het schoolexamen heeft betrekking op:
 
 ### Subdomein F5:. Oorzaken van criminaliteit
 
-### Domein G:. Milieu en beleid
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
-### Subdomein G1:. Milieu als maatschappelijk probleem
+Het examenprogramma bestaat uit de volgende domeinen:
 
 ### Subdomein G2:. Overheid
 
-### Subdomein G3:. Maatschappelijke organisaties
+Het centraal examen heeft betrekking op de domeinen B, C en F, in combinatie met domein A.
 
 ### Subdomein G4:. Mondiaal niveau
 
-### Subdomein G5:. Milieu en cultuur
+Het schoolexamen heeft betrekking op:
 
 ### Domein H:. Ontwikkelingssamenwerking
 
@@ -2496,17 +2418,17 @@ Het schoolexamen heeft betrekking op:
 
 ### Het eindexamen
 
-Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+### Subdomein B1:. Politieke structuren
 
-Het examenprogramma bestaat uit de volgende domeinen:
+### Subdomein B2:. Actoren in het proces van politieke besluitvorming
 
 ### Het centraal examen
 
-Het centraal examen heeft betrekking op een door het College voor Examens vastgesteld onderwerp dat gerelateerd is aan een van de domeinen B, C, D of E als hoofddomein, waarbij een of meer andere domeinen betrokken kunnen zijn, en de subdomeinen 1. van de domeinen B, C, D en E, die zowel afzonderlijk als in relatie met het onderwerp kunnen worden geëxamineerd.
+### Domein C:. Massamedia
 
 ### Het schoolexamen
 
-Het schoolexamen heeft betrekking op domein A en:
+### Subdomein C2:. Massamedia en technologische ontwikkelingen
 
 ### De examenstof
 
@@ -2554,17 +2476,17 @@ Het schoolexamen heeft betrekking op domein A en:
 
 ### Het eindexamen
 
-Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+### Subdomein G3:. Maatschappelijke organisaties
 
-Het examenprogramma bestaat uit de volgende domeinen:
+### Subdomein G4:. Mondiaal niveau
 
 ### Het centraal examen
 
-Het centraal examen heeft betrekking op een door het College voor Examens vastgesteld onderwerp dat gerelateerd is aan een van de domeinen B, C of D als hoofddomein, waarbij een of meer andere domeinen betrokken kunnen zijn, en de subdomeinen 1. van de domeinen B, C en D, die zowel afzonderlijk als in relatie met het onderwerp kunnen worden geëxamineerd.
+### Domein H:. Ontwikkelingssamenwerking
 
 ### Het schoolexamen
 
-Het schoolexamen heeft betrekking op domein A en:
+### Subdomein H2:. Nationale en internationale organisaties
 
 ### De examenstof
 
@@ -2574,17 +2496,17 @@ Het schoolexamen heeft betrekking op domein A en:
 
 ### Subdomein A2:. Onderzoeksvaardigheden en benaderingswijzen
 
-### Subdomein A3:. Oriëntatie op studie en beroep
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
-### Domein B:. Wijsgerige antropologie
+Het examenprogramma bestaat uit de volgende domeinen:
 
 ### Subdomein B1:. Centrale begrippen
 
-### Subdomein B2:. Lichaam, geest en emotie
+Het centraal examen heeft betrekking op een door het College voor Examens vastgesteld onderwerp dat gerelateerd is aan een van de domeinen B, C, D of E als hoofddomein, waarbij een of meer andere domeinen betrokken kunnen zijn, en de subdomeinen 1. van de domeinen B, C, D en E, die zowel afzonderlijk als in relatie met het onderwerp kunnen worden geëxamineerd.
 
 ### Subdomein B3:. De mens als redelijk wezen
 
-### Domein C:. Ethiek
+Het schoolexamen heeft betrekking op domein A en:
 
 ### Subdomein C1:. Centrale begrippen
 
@@ -2604,15 +2526,15 @@ Het schoolexamen heeft betrekking op domein A en:
 
 ### Het eindexamen
 
-Het eindexamen bestaat uit het centraal examen.
+### Domein C:. Ethiek
 
-Het examenprogramma bestaat uit de volgende domeinen:
+### Subdomein C1:. Centrale begrippen en toonaangevende visies
 
 ### Het centraal examen
 
-Het centraal examen heeft betrekking op de domeinen B en C in combinatie met de vaardigheden uit domein A.
+### Subdomein C3:. Vrijheid en verantwoordelijkheid
 
-Het College voor Examens wijst uit domein C drie onderwerpen aan voor het havo-examen en vier onderwerpen voor het vwo-examen.
+### Domein D:. Kennisleer
 
 ### De examenstof
 
@@ -2632,21 +2554,21 @@ Het College voor Examens wijst uit domein C drie onderwerpen aan voor het havo-e
 
 ### Subdomein B6:. Kunst intercultureel
 
-### Domein C:. Onderwerpen
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
-### Examenprogramma kunst (beeldende vormgeving) vwo
+Het examenprogramma bestaat uit de volgende domeinen:
 
 ### Het eindexamen
 
 Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
-Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:
-
 ### Het schoolexamen
 
-Het schoolexamen heeft betrekking op de domeinen A, B en C, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
+Het schoolexamen heeft betrekking op domein A en:
 
-Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken kunst (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 440 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van ten minste 160 studielasturen, door het bevoegd gezag te bepalen. Er is dan dus geen centraal examen.
+### De examenstof
+
+### Domein A:. Vaardigheden
 
 ### De examenstof
 
@@ -2666,31 +2588,31 @@ Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen afleg
 
 ### Het eindexamen
 
-Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+### Subdomein C2:. Het goede leven
 
-Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:
+### Subdomein C3:. Integriteit en verantwoordelijkheid
 
 ### Het centraal examen
 
-Het centraal examen is dat van het vak kunst (algemeen).
+### Subdomein D1:. Centrale begrippen
 
 ### Het schoolexamen
 
-Het schoolexamen heeft betrekking op de domeinen A, B en C, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
+### Subdomein D3:. Ideologie
 
-Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken kunst (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 320 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van ten minste 120 studielasturen, door het bevoegd gezag te bepalen. Er is dan dus geen centraal examen.
+### Examenprogramma kunst (algemeen) havo/vwo
 
 ### De examenstof
 
-### Domein A:. Vaktheorie
+Het eindexamen bestaat uit het centraal examen.
 
-### Subdomein A1:. Beeldend werk van kunstenaars en vormgevers
+Het examenprogramma bestaat uit de volgende domeinen:
 
 ### Subdomein A2:. Beeldend werk van kunstenaars en vormgevers in relatie tot het eigen beeldend werk van de kandidaat
 
-### Subdomein A3:. Eigen beeldend werk
+Het centraal examen heeft betrekking op de domeinen B en C in combinatie met de vaardigheden uit domein A.
 
-### Domein B:. Praktijk
+Het College voor Examens wijst uit domein C drie onderwerpen aan voor het havo-examen en vier onderwerpen voor het vwo-examen.
 
 ### Domein C:. Oriëntatie op studie en beroep
 
@@ -2698,33 +2620,33 @@ Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen afleg
 
 ### Het eindexamen
 
-Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+### Subdomein B1:. Kunst en religie, levensbeschouwing
 
-Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:
+### Subdomein B2:. Kunst en esthetica
 
 ### Het centraal examen
 
-Het centraal examen is dat van het vak kunst (algemeen).
+### Subdomein B4:. Kunst en vermaak
 
 ### Het schoolexamen
 
-Het schoolexamen heeft betrekking op de domeinen A, B en C, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
+### Subdomein B6:. Kunst intercultureel
 
-Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken kunst (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 440 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van ten minste 160 studielasturen, door het bevoegd gezag te bepalen. Er is dan dus geen centraal examen.
+### Domein C:. Onderwerpen
 
 ### De examenstof
 
 ### Domein A:. Vaktheorie
 
-### Subdomein A1:. Waarnemen en weten
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
-### Subdomein A2:. Analyseren en interpreteren
+Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:
 
 ### Subdomein A3:. Muziek en cultuur
 
-### Domein B:. Praktijk
+Het schoolexamen heeft betrekking op de domeinen A, B en C, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
 
-### Subdomein B1:. Zingen en spelen
+Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken kunst (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 440 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van ten minste 160 studielasturen, door het bevoegd gezag te bepalen. Er is dan dus geen centraal examen.
 
 ### Subdomein B2:. Improviseren en componeren
 
@@ -2734,13 +2656,13 @@ Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen afleg
 
 ### Het eindexamen
 
-Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+### Subdomein A3:. Eigen beeldend werk
 
-Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:
+### Domein B:. Praktijk
 
 ### Het centraal examen
 
-Het centraal examen is dat van het vak kunst (algemeen).
+### Examenprogramma kunst (beeldende vormgeving) havo
 
 ### Het schoolexamen
 
@@ -2750,13 +2672,13 @@ Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen afleg
 
 ### De examenstof
 
-### Domein A:. Vaktheorie
+Het centraal examen is dat van het vak kunst (algemeen).
 
 ### Subdomein A1:. Waarnemen en weten
 
-### Subdomein A2:. Analyseren en interpreteren
+Het schoolexamen heeft betrekking op de domeinen A, B en C, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
 
-### Subdomein A3:. Muziek en cultuur
+Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken kunst (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 320 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van ten minste 120 studielasturen, door het bevoegd gezag te bepalen. Er is dan dus geen centraal examen.
 
 ### Domein B:. Praktijk
 
@@ -2770,25 +2692,25 @@ Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen afleg
 
 ### Het eindexamen
 
-Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+### Domein C:. Oriëntatie op studie en beroep
 
-Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:
+### Examenprogramma kunst (muziek) vwo
 
 ### Het centraal examen
 
 Het centraal examen is dat van het vak kunst (algemeen).
 
-### Het schoolexamen
+Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:
 
-Het schoolexamen heeft betrekking op de domeinen A, B en C, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
+### Het centraal examen
 
 Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken kunst (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 440 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van ten minste 160 studielasturen, door het bevoegd gezag te bepalen. Er is dan dus geen centraal examen.
 
 ### De examenstof
 
-### Domein A:. Vaktheorie
+Het schoolexamen heeft betrekking op de domeinen A, B en C, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
 
-### Subdomein A1:. Drama en maatschappij
+Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken kunst (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 440 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van ten minste 160 studielasturen, door het bevoegd gezag te bepalen. Er is dan dus geen centraal examen.
 
 ### Subdomein A2:. Geschiedenis
 
@@ -2810,7 +2732,9 @@ Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen afleg
 
 ### Het eindexamen
 
-Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+### Het eindexamen
+
+Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:
 
 Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:
 
@@ -2820,11 +2744,9 @@ Het centraal examen is dat van het vak kunst (algemeen).
 
 ### Het schoolexamen
 
-Het schoolexamen heeft betrekking op de domeinen A, B en C, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
-
 Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken kunst (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 320 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van ten minste 120 studielasturen, door het bevoegd gezag te bepalen. Er is dan dus geen centraal examen.
 
-### De examenstof
+Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken kunst (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 320 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van ten minste 120 studielasturen, door het bevoegd gezag te bepalen. Er is dan dus geen centraal examen.
 
 ### Domein A:. Vaktheorie
 
@@ -2886,7 +2808,9 @@ Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen afleg
 
 ### Het eindexamen
 
-Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+### Het eindexamen
+
+Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:
 
 Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:
 
@@ -2896,11 +2820,9 @@ Het centraal examen is dat van het vak kunst (algemeen).
 
 ### Het schoolexamen
 
-Het schoolexamen heeft betrekking op de domeinen A, B en C, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
-
 Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken kunst (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 320 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van ten minste 120 studielasturen, door het bevoegd gezag te bepalen. Er is dan dus geen centraal examen.
 
-### De examenstof
+Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken kunst (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 320 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van ten minste 120 studielasturen, door het bevoegd gezag te bepalen. Er is dan dus geen centraal examen.
 
 ### Domein A:. Vaktheorie
 
@@ -2924,21 +2846,21 @@ Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen afleg
 
 ### Het eindexamen
 
-Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+### Het eindexamen
 
 Het examenprogramma bestaat uit de volgende domeinen:
 
+Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:
+
 ### Het centraal examen
 
-Het centraal examen heeft betrekking op domein A.
+Het centraal examen is dat van het vak kunst (algemeen).
 
 ### Het schoolexamen
 
-Het schoolexamen heeft betrekking op:
+Het schoolexamen heeft betrekking op de domeinen A, B en C, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
 
-### De examenstof
-
-### Domein A:. Vaktheorie
+Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken kunst (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 440 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van ten minste 160 studielasturen, door het bevoegd gezag te bepalen. Er is dan dus geen centraal examen.
 
 ### Subdomein A1:. Waarnemen en weten
 
@@ -2958,25 +2880,25 @@ Het schoolexamen heeft betrekking op:
 
 ### Het eindexamen
 
-Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+### Domein C:. Oriëntatie op studie en beroep
 
-Het examenprogramma bestaat uit de volgende domeinen:
+### Examenprogramma kunst (dans) havo
 
 ### Het centraal examen
 
 Het centraal examen heeft betrekking op domein A.
 
-### Het schoolexamen
+Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:
 
-Het schoolexamen heeft betrekking op:
+### Het centraal examen
 
-### De examenstof
+Het centraal examen is dat van het vak kunst (algemeen).
 
 ### Domein A:. Vaktheorie
 
-### Subdomein A1:. Waarnemen en weten
+Het schoolexamen heeft betrekking op de domeinen A, B en C, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
 
-### Subdomein A2:. Analyseren en interpreteren
+Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken kunst (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 320 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van ten minste 120 studielasturen, door het bevoegd gezag te bepalen. Er is dan dus geen centraal examen.
 
 ### Subdomein A3:. Muziek en cultuur
 
@@ -2992,27 +2914,27 @@ Het schoolexamen heeft betrekking op:
 
 ### Het eindexamen
 
-Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+### Subdomein B2:. Vormgeven
+
+### Subdomein B3:. Presenteren
+
+### Het centraal examen
+
+### Examenprogramma muziek vwo
+
+### Het eindexamen
+
+Het praktische gedeelte heeft betrekking op de (sub)domeinen A2 en B.
 
 Het examenprogramma bestaat uit de volgende domeinen:
 
 ### Het centraal examen
 
-Het centraal examen bestaat uit een theoretisch en een praktisch gedeelte.
-
-Het theoretische gedeelte heeft betrekking op domein A.
-
-Het praktische gedeelte heeft betrekking op de (sub)domeinen A2 en B.
-
-### Het schoolexamen
-
-Het schoolexamen heeft betrekking op:
-
-### De examenstof
+Het centraal examen heeft betrekking op domein A.
 
 ### Domein A:. Vaktheorie
 
-### Subdomein A1:. Beschrijven, onderzoeken en interpreteren
+Het schoolexamen heeft betrekking op:
 
 ### Subdomein A2:. Beschouwen
 
@@ -3024,39 +2946,57 @@ Het schoolexamen heeft betrekking op:
 
 ### Het eindexamen
 
+### Domein B:. Praktijk
+
+### Subdomein B1:. Zingen en spelen
+
+### Het centraal examen
+
+### Domein C:. Oriëntatie op studie en beroep
+
+### Het schoolexamen
+
+### Het eindexamen
+
 Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
 Het examenprogramma bestaat uit de volgende domeinen:
 
-### Het centraal examen
+### Subdomein A1:. Beschrijven, onderzoeken en interpreteren
 
 Het centraal examen heeft betrekking op domein A.
 
-### Het schoolexamen
-
-Het schoolexamen heeft betrekking op:
-
-### De examenstof
-
-### Domein A:. Vaktheorie
-
-### Subdomein A1:. Beschrijven, onderzoeken en interpreteren
-
-### Subdomein A2:. Beschouwen
-
 ### Domein B:. Praktijk
 
-### Domein C:. Oriëntatie op studie en beroep
+Het schoolexamen heeft betrekking op:
 
 ### Examenprogramma handvaardigheid vwo
 
 ### Het eindexamen
 
+### Subdomein A1:. Waarnemen en weten
+
+### Subdomein A2:. Analyseren en interpreteren
+
+### Het centraal examen
+
+### Domein B:. Praktijk
+
+### Subdomein B1:. Zingen en spelen
+
+### Subdomein B2:. Improviseren en componeren
+
+### Het schoolexamen
+
+### Examenprogramma tekenen vwo
+
+### De examenstof
+
 Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
 Het examenprogramma bestaat uit de volgende domeinen:
 
-### Het centraal examen
+### Subdomein A2:. Beschouwen
 
 Het centraal examen bestaat uit een theoretisch en een praktisch gedeelte.
 
@@ -3064,9 +3004,19 @@ Het theoretische gedeelte heeft betrekking op domein A.
 
 Het praktische gedeelte heeft betrekking op de (sub)domeinen A2 en B.
 
+### Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+### De examenstof
+
+### Het centraal examen
+
+### Subdomein A1:. Beschrijven, onderzoeken en interpreteren
+
 ### Het schoolexamen
 
-Het schoolexamen heeft betrekking op:
+### Domein B:. Praktijk
 
 ### De examenstof
 
@@ -3074,31 +3024,21 @@ Het schoolexamen heeft betrekking op:
 
 ### Subdomein A1:. Beschrijven, onderzoeken en interpreteren
 
-### Subdomein A2:. Beschouwen
-
-### Domein B:. Praktijk
-
-### Domein C:. Oriëntatie op studie en beroep
-
-### Examenprogramma handvaardigheid havo
-
-### Het eindexamen
-
 Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
 Het examenprogramma bestaat uit de volgende domeinen:
 
-### Het centraal examen
+### Domein C:. Oriëntatie op studie en beroep
 
 Het centraal examen heeft betrekking op domein A.
 
-### Het schoolexamen
+### Het eindexamen
 
-Het schoolexamen heeft betrekking op:
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
 ### De examenstof
 
-### Domein A:. Vaktheorie
+### Het centraal examen
 
 ### Subdomein A1:. Beschrijven, onderzoeken en interpreteren
 
@@ -3106,17 +3046,17 @@ Het schoolexamen heeft betrekking op:
 
 ### Domein B:. Praktijk
 
-### Domein C:. Oriëntatie op studie en beroep
+### Het schoolexamen
 
-### Examenprogramma textiele vormgeving vwo
+### Examenprogramma handvaardigheid vwo
 
-### Het eindexamen
+### De examenstof
 
 Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
 Het examenprogramma bestaat uit de volgende domeinen:
 
-### Het centraal examen
+### Subdomein A2:. Beschouwen
 
 Het centraal examen bestaat uit een theoretisch en een praktisch gedeelte.
 
@@ -3124,61 +3064,43 @@ Het theoretische gedeelte heeft betrekking op domein A.
 
 Het praktische gedeelte heeft betrekking op de (sub)domeinen A2 en B.
 
+### Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+### De examenstof
+
+### Het centraal examen
+
+### Subdomein A1:. Beschrijven, onderzoeken en interpreteren
+
 ### Het schoolexamen
 
-Het schoolexamen heeft betrekking op:
+### Domein B:. Praktijk
 
 ### De examenstof
 
 ### Domein A:. Vaktheorie
 
 ### Subdomein A1:. Beschrijven, onderzoeken en interpreteren
-
-### Subdomein A2:. Beschouwen
-
-### Domein B:. Praktijk
-
-### Domein C:. Oriëntatie op studie en beroep
-
-### Examenprogramma textiele vormgeving havo
-
-### Het eindexamen
 
 Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
 Het examenprogramma bestaat uit de volgende domeinen:
 
-### Het centraal examen
-
-Het centraal examen heeft betrekking op domein A.
-
-### Het schoolexamen
-
-Het schoolexamen heeft betrekking op:
-
-### De examenstof
-
-### Domein A:. Vaktheorie
-
-### Subdomein A1:. Beschrijven, onderzoeken en interpreteren
-
-### Subdomein A2:. Beschouwen
-
-### Domein B:. Praktijk
-
 ### Domein C:. Oriëntatie op studie en beroep
 
-### Examenprogramma moderne vreemde talen en literatuur (elementair) havo/vwo
+Het centraal examen heeft betrekking op domein A.
 
 ### Het eindexamen
 
 Het eindexamen bestaat uit het schoolexamen.
 
-Het examenprogramma bestaat uit de volgende domeinen:
+### De examenstof
 
 ### Het schoolexamen
 
-Het schoolexamen heeft betrekking op:
+### Subdomein A1:. Beschrijven, onderzoeken en interpreteren
 
 ### De examenstof
 
@@ -3190,25 +3112,25 @@ Het schoolexamen heeft betrekking op:
 
 ### Subdomein C1:. Gesprekken voeren
 
-### Subdomein C2:. Spreken
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
-### Domein D:. Schrijfvaardigheid (geldt niet voor Arabisch en Russisch)
+Het examenprogramma bestaat uit de volgende domeinen:
 
 ### Subdomein D1:. Taalvaardigheden
 
-### Subdomein D2:. Strategische vaardigheden
+Het centraal examen bestaat uit een theoretisch en een praktisch gedeelte.
 
-### Examenprogramma bewegen, sport en maatschappij vwo
+Het theoretische gedeelte heeft betrekking op domein A.
 
-### Het eindexamen
+Het praktische gedeelte heeft betrekking op de (sub)domeinen A2 en B.
 
-Het eindexamen bestaat uit het schoolexamen.
+### Het schoolexamen
 
 Het examenprogramma bestaat uit de volgende domeinen:
 
 ### Het schoolexamen
 
-Het schoolexamen heeft betrekking op de domeinen A tot en met E, (met dien verstande dat de eindtermen uit de domeinen A en C, D en E in beginsel in samenhang met domein B aan de orde komen), en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
+### Domein A:. Vaktheorie
 
 ### De examenstof
 
@@ -3222,17 +3144,17 @@ Het schoolexamen heeft betrekking op de domeinen A tot en met E, (met dien verst
 
 ### Subdomein B3:. Bewegen op muziek
 
-### Subdomein B4:. Atletiek
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
-### Subdomein B5:. Zelfverdedigingspelen
+Het examenprogramma bestaat uit de volgende domeinen:
 
 ### Subdomein B6:. Keuzeactiviteiten
 
-### Domein C:. Bewegen en regelen
+Het centraal examen heeft betrekking op domein A.
 
 ### Subdomein C1:. Regelen in de rol van beweger
 
-### Subdomein C2:. Regelen in de rol van begeleider
+Het schoolexamen heeft betrekking op:
 
 ### Subdomein C3:. Regelen in de rol van organisator
 
@@ -3250,25 +3172,25 @@ Het schoolexamen heeft betrekking op de domeinen A tot en met E, (met dien verst
 
 ### Subdomein E1:. Toekomstoriëntati**e**
 
-### Subdomein E2:. De ontwikkeling van de bewegingscultuur
+Het eindexamen bestaat uit het schoolexamen.
 
-### Subdomein E3:. Mens en bewegen
+Het examenprogramma bestaat uit de volgende domeinen:
 
 ### Subdomein E4:. Maatschappij en bewegen
 
-### Subdomein E5:. De organisatie van sport en bewegen
+Het schoolexamen heeft betrekking op:
 
 ### Examenprogramma bewegen, sport en maatschappij havo
 
 ### Het eindexamen
 
-Het eindexamen bestaat uit het schoolexamen.
+### Domein B:. Kijk- en luistervaardigheid
 
-Het examenprogramma bestaat uit de volgende domeinen:
+### Domein C:. Gespreksvaardigheid
 
 ### Het schoolexamen
 
-Het schoolexamen heeft betrekking op de domeinen A tot en met E, (met dien verstande dat de eindtermen uit de domeinen A en C, D en E in beginsel in samenhang met domein B aan de orde komen), en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
+### Subdomein C2:. Spreken
 
 ### De examenstof
 
@@ -3280,13 +3202,13 @@ Het schoolexamen heeft betrekking op de domeinen A tot en met E, (met dien verst
 
 ### Subdomein B2:. Turnen
 
-### Subdomein B3:. Bewegen op muziek
+Het eindexamen bestaat uit het schoolexamen.
 
-### Subdomein B4:. Atletiek
+Het examenprogramma bestaat uit de volgende domeinen:
 
 ### Subdomein B5:. Zelfverdedigingspelen
 
-### Subdomein B6:. Keuzeactiviteiten
+Het schoolexamen heeft betrekking op de domeinen A tot en met E, (met dien verstande dat de eindtermen uit de domeinen A en C, D en E in beginsel in samenhang met domein B aan de orde komen), en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
 
 ### Domein C:. Bewegen en regelen
 
@@ -3312,41 +3234,65 @@ Het schoolexamen heeft betrekking op de domeinen A tot en met E, (met dien verst
 
 ### Subdomein E3:. De organisatie van sport en bewegen
 
-## Bijlage 2. behorende bij [artikel I, tweede lid, van de Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 2 april 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0027636&artikel=I), nr. VO/OK/2010/201033, houdende wijziging van de Regeling examenprogramma’s voortgezet onderwijs in verband met het vernieuwen van het examenprogramma economie havo
+### Subdomein C3:. Regelen in de rol van organisator
 
 ### Examenprogramma vmbo
 
 ### 1. Preambule
 
-De zes algemene onderwijsdoelen die voor alle vakken en sectoren in het vmbo gelden, zijn
+### Subdomein D1:. Bewegen en welzijn
 
 ### 2. Examenprogramma per vak
 
 ### 2.0. Leeswijzer
 
-Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met de bijbehorende code. Elke exameneenheid bestaat uit één of meer eindtermen. In de kolommen achter de exameneenheden staat aangegeven door middel van een **X** voor welke leerweg de exameneenheid deel uitmaakt van het examenprogramma.
+### Domein E:. Bewegen en samenleving
 
-Het centraal examen voor een vak of programma per leerweg heeft betrekking op die exameneenheden die aangeduid zijn met **CE**.
+### Subdomein E1:. Toekomstoriëntati**e**
 
-Het schoolexamen voor een bepaalde leerweg heeft voor de algemeen vormende vakken in ieder geval betrekking op exameneenheid K3 (Leervaardigheden) en voor de beroepsgerichte vakken op exameneenheid K2 (Professionele vaardigheden).
+### Subdomein E2:. De ontwikkeling van de bewegingscultuur
 
-Daarnaast heeft het schoolexamen betrekking op:
+### Subdomein E3:. Mens en bewegen
 
-Voor bepaalde groepen van verwante beroepsgerichte programma’s in de GL is er een gemeenschappelijk CE. De exameneenheden die horen bij deze gemeenschappelijke centrale examens in de GL hebben een nieuwe vakcode gekregen gevolgd door een nummering in Romeinse cijfers. Dit betreft de volgende groepen van beroepsgerichte programma’s GL:
+### Subdomein E4:. Maatschappij en bewegen
 
 ### 2.1. Nederlandse taal
 
-### 2.2. Franse taal
+### Examenprogramma bewegen, sport en maatschappij havo
+
+### Het eindexamen
+
+Het eindexamen bestaat uit het schoolexamen.
+
+² Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen.
 
 ### 2.3. Duitse taal
 
+¹ Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen.
+
+### De examenstof
+
 ### 2.4. Engelse taal
+
+### Domein B:. Bewegen
+
+### Subdomein B1:. Spelen
 
 ### 2.5. Spaanse taal
 
+### Subdomein B3:. Bewegen op muziek
+
+### Subdomein B4:. Atletiek
+
 ### 2.6. Turkse taal
 
+### Subdomein B6:. Keuzeactiviteiten
+
+### Domein C:. Bewegen en regelen
+
 ### 2.7. Arabische taal
+
+### Subdomein C2:. Regelen in de rol van begeleider
 
 ### 2.8. Friese taal en cultuur
 
@@ -3366,19 +3312,73 @@ Voor bepaalde groepen van verwante beroepsgerichte programma’s in de GL is er 
 
 ### 2.15. natuur- en scheikunde II
 
-### 2.16. biologie
+## Bijlage 2. behorende bij [artikel I, tweede lid, van de Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 2 april 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0027636&artikel=I), nr. VO/OK/2010/201033, houdende wijziging van de Regeling examenprogramma’s voortgezet onderwijs in verband met het vernieuwen van het examenprogramma economie havo
 
 ### 2.17. aardrijkskunde
 
 ### 2.18. geschiedenis en staatsinrichting
 
-### 2.19. economie
+¹ Het schoolexamen moet in ieder geval bestaan uit **2** exameneenheden naar keuze van de school te maken uit GS/K/4, GS/K/6, GS/K/7, GS/K/8, en GS/K/9.
 
-### 2.20. beeldende vorming
+### 2. Examenprogramma per vak
 
-### 2.21. muziek
+### 2.0. Leeswijzer
 
-### 2.22. drama
+Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met de bijbehorende code. Elke exameneenheid bestaat uit één of meer eindtermen. In de kolommen achter de exameneenheden staat aangegeven door middel van een **X** voor welke leerweg de exameneenheid deel uitmaakt van het examenprogramma.
+
+Het centraal examen voor een vak of programma per leerweg heeft betrekking op die exameneenheden die aangeduid zijn met **CE**.
+
+Het schoolexamen voor een bepaalde leerweg heeft voor de algemeen vormende vakken in ieder geval betrekking op exameneenheid K3 (Leervaardigheden) en voor de beroepsgerichte vakken op exameneenheid K2 (Professionele vaardigheden).
+
+Daarnaast heeft het schoolexamen betrekking op:
+
+Voor bepaalde groepen van verwante beroepsgerichte programma’s in de GL is er een gemeenschappelijk CE. De exameneenheden die horen bij deze gemeenschappelijke centrale examens in de GL hebben een nieuwe vakcode gekregen gevolgd door een nummering in Romeinse cijfers. Dit betreft de volgende groepen van beroepsgerichte programma’s GL:
+
+### 2.24. bouw-breed
+
+### 2.25. bouwtechniek-metselen
+
+### 2.26. bouwtechniek-timmeren
+
+### 2.27. bouwtechniek-schilderen
+
+### 2.28. bouwtechniek-fijnhoutbewerken
+
+### 2.29. grafische techniek
+
+### 2.30. transport en logistiek
+
+### 2.31. voertuigentechniek
+
+### 2.32. metaaltechniek
+
+### 2.33. elektrotechniek
+
+### 2.34. installatietechniek
+
+### 2.35. instalektro
+
+### 2.36. metalektro
+
+### 2.37. uiterlijke verzorging
+
+### 2.38. verzorging
+
+### 2.39. zorg-en-welzijn-breed
+
+### 2.40. consumptief-breed
+
+### 2.41. consumptief-horeca
+
+### 2.42. consumptief-bakken
+
+### 2.43. administratie
+
+### 2.44. handel en administratie
+
+### 2.45. handel en verkoop
+
+### 2.46. mode en commercie
 
 ### 2.23. dans
 
@@ -3427,5 +3427,979 @@ Voor bepaalde groepen van verwante beroepsgerichte programma’s in de GL is er 
 ### 2.45. handel en verkoop
 
 ### 2.46. mode en commercie
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.
+
+Domein A Leesvaardigheid
+
+Domein C Schrijfvaardigheid
+
+Domein E Literatuur
+
+Domein F Oriëntatie op studie en beroep.
+
+Bij de uitvoering van het examenprogramma worden de referentieniveaus Nederlandse taal in acht genomen, bedoeld in artikel 2, onderdeel c en onderdeel d, van het Besluit referentieniveaus Nederlandse taal en rekenen
+
+Het centraal examen
+
+Het centraal examen heeft betrekking op domein A en domein D voor zover het analyseren en beoordelen betreft.
+
+Het schoolexamen
+
+Het schoolexamen heeft betrekking op:
+
+### Subdomein A3:. Samenvatten
+
+### Subdomein E1:. Literaire ontwikkeling
+
+### Subdomein E2:. Literaire begrippen
+
+### Domein F:. Oriëntatie op studie en beroep
+
+### Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het centraal examen heeft betrekking op domein A.
+
+Het schoolexamen heeft betrekking op:
+
+### Subdomein E2:. Literaire begrippen (alleen vwo)
+
+### Subdomein E3:. Literatuurgeschiedenis (alleen vwo)
+
+### Examenprogramma Griekse taal en literatuur vwo/Latijnse taal en literatuur vwo
+
+### Griekse taal en literatuur
+
+Het centraal examen heeft betrekking op de domeinen A, B (voorzover dat mogelijk is, gelet op het karakter van het centraal examen) en C.
+
+Het centraal examen heeft betrekking op een thema en/of genre aan de hand van authentieke teksten van een of meer auteurs en van vertaalde teksten.
+
+Het schoolexamen heeft betrekking op:
+
+Daarnaast komen deze domeinen aan de orde aan de hand van:
+
+### Domein B:. Reflectie op relaties tussen de antieke cultuur en de latere Europese cultuur
+
+### Domein C:. Zelfstandige oordeelsvorming
+
+### Domein E:. Informatievaardigheden
+
+### Latijnse taal en literatuur
+
+Het centraal examen heeft betrekking op de domeinen A, B (voorzover dat mogelijk is, gelet op het karakter van het centraal examen) en C.
+
+Het centraal examen heeft betrekking op een thema en/of genre aan de hand van authentieke teksten van een of meer auteurs en van vertaalde teksten.
+
+Het schoolexamen heeft betrekking op:
+
+Daarnaast komen deze domeinen aan de orde aan de hand van:
+
+### Domein B:. Reflectie op relaties tussen de antieke cultuur en de latere Europese cultuur
+
+### Domein C:. Zelfstandige oordeelsvorming
+
+### Domein E:. Informatievaardigheden
+
+### Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het centraal examen heeft betrekking op domein A.
+
+Het schoolexamen heeft betrekking op:
+
+### Domein E:. Friese taal en cultuur
+
+### Subdomein E1:. Friese taal
+
+### Domein F:. Oriëntatie op studie en beroep
+
+### It eineksamen
+
+It eineksamen bestiet út it sintraal eksamen en in skoaleksamen.
+
+It eksamenprogramma bestiet út de neikommende domeinen:
+
+It sintraal eksamen slacht op domein A.
+
+It skoaleksamen slacht op:
+
+### Domein E:. Fryske taal en kultuer
+
+### Subdomein E1:. Fryske taal
+
+### Domein F:. Oriïntaasje op stúdzje en berop
+
+Het eindexamen bestaat uit het schoolexamen.
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het schoolexamen heeft betrekking op domein A tot en met E, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
+
+### Subdomein E1:. Geschiedenis van de pluriforme samenleving
+
+### Subdomein E2:. Grondrechten die horen bij de pluriforme samenleving
+
+### Subdomein E4:. Internationale vergelijking en internationale organisaties
+
+Het eindexamen bestaat uit het schoolexamen.
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het schoolexamen heeft betrekking op domein A tot en met E, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
+
+### Subdomein E1:. Geschiedenis van de pluriforme samenleving
+
+### Subdomein E2:. Grondrechten die horen bij de pluriforme samenleving
+
+### Subdomein E3:. De praktijk van de pluriforme samenleving
+
+### Examenprogramma algemene natuurwetenschappen vwo (tevens havo)
+
+Het eindexamen bestaat uit het schoolexamen.
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Dit examenprogramma is ook van toepassing op het havo, waar de school voor havo ervoor kiest om algemene natuurwetenschappen als afzonderlijk vak in het eindexamen op te nemen, met dien verstande dat voor het havo een selectie kan worden gemaakt uit de examenstof. De domeinen A en B behoren altijd tot de examenstof.
+
+Het schoolexamen heeft betrekking op:
+
+### Domein F:. Zonnestelsel en heelal
+
+### Subdomein F1:. Kenmerken van het zonnestelsel en het heelal
+
+### Subdomein F3:. Ontstaan van kennis over het heelal
+
+Het eindexamen bestaat uit het schoolexamen.
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het schoolexamen heeft betrekking op de domeinen A tot en met D, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
+
+### Domein A:. Culturele activiteiten
+
+### Domein B:. Kennis van kunst en cultuur
+
+### Domein D:. Reflectie
+
+### Examenprogramma klassieke culturele vorming vwo
+
+Het eindexamen bestaat uit het schoolexamen.
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het schoolexamen heeft betrekking op de domeinen A en B, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die eventueel per kandidaat kunnen verschillen.
+
+### De examenstof
+
+### Domein A:. Reflectie op de antieke cultuur
+
+### Examenprogramma lichamelijke opvoeding havo/vwo
+
+Het eindexamen bestaat uit het schoolexamen.
+
+Het eindexamen bestaat uit praktische bewegingsactiviteiten.
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het schoolexamen heeft betrekking op de domeinen A tot en met E, (met dien verstande dat de eindtermen uit de domeinen A en C, D en E slechts in samenhang met domein B aan de orde komen), en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
+
+### Domein B:. Bewegen
+
+### Domein C:. Bewegen en regelen
+
+### Domein E:. Bewegen en samenleving
+
+### Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het centraal examen heeft betrekking op de subdomeinen A5, Bg1, Bg2, Cg1, Eg1, Eg2, Eg3, Eg4, Ba1, Ba2, Fa1, Fa2, Fa3 en Fa4, in combinatie met de vaardigheden uit de subdomeinen A1, A2 en A3.
+
+Het schoolexamen heeft betrekking op domein A en:
+
+### Subdomein Fa2:. Ordenen, verwerken en samenvatten van statistische gegevens
+
+### Subdomein Fa3:. Kansverdelingen
+
+### Domein G:. Keuzeonderwerpen
+
+### Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het centraal examen heeft betrekking op de subdomeinen A5, B1, B2, B3, C1, C2, D3, E1, E2, E3, G1, G2 en G3, in combinatie met de vaardigheden uit de subdomeinen A1, A2 en A3.
+
+Het schoolexamen heeft betrekking op domein A en:
+
+### Subdomein E3:. Exponentiële verbanden
+
+### Subdomein F1:. Exponentiële functies
+
+### Domein G:. De binomiale verdeling
+
+19. De kandidaat kan permutaties en combinaties onderscheiden en berekenen.
+
+### Subdomein G2:. Rekenen met kansen
+
+### Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het centraal examen heeft betrekking op de subdomeinen A5, Bg1, Bg2, Cg1, Bb1, Bb2, Bb3, Db1, Gb1 en Gb2, in combinatie met de vaardigheden uit de subdomeinen A1, A2 en A3.
+
+Het schoolexamen heeft betrekking op domein A in combinatie met:
+
+### Domein Gb:. Voortgezette meetkunde
+
+### Subdomein Gb1:. Oriëntatie op bewijzen
+
+### Domein F:. Keuzeonderwerpen
+
+### Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het centraal examen heeft betrekking op de subdomeinen A5, B1, D1, D2, E1, E2, E3, E4 en H1, in combinatie met de vaardigheden uit de subdomeinen A1, A2 en A3.
+
+Het schoolexamen heeft betrekking op domein A en:
+
+### Subdomein E3:. Afgeleide functies
+
+### Subdomein E4:. Periodieke functies
+
+### Subdomein H1:. Afgeleide functies 2
+
+### Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het centraal examen heeft betrekking op de subdomeinen A5, Bg1, Bg2, Cg1, Eg1, Eg2, Eg3, Eg4 en Fa3, in combinatie met de vaardigheden uit de subdomeinen A1, A2 en A3.
+
+Het schoolexamen heeft betrekking op domein A en:
+
+### Subdomein Fa1:. Populatie en steekproef
+
+### Subdomein Fa2:. Ordenen, verwerken en samenvatten van statistische gegevens
+
+### Domein G:. Keuzeonderwerpen
+
+Het eindexamen bestaat uit het schoolexamen.
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het schoolexamen heeft betrekking op domein A in combinatie met:
+
+### Subdomein E2:. Profielspecifieke verdieping
+
+### Domein F:. Dynamische modellen 2
+
+### Domein H:. Keuzeonderwerpen
+
+Het eindexamen bestaat uit het schoolexamen.
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het schoolexamen heeft betrekking op domein A in combinatie met:
+
+### Subdomein B3:. Kansverdelingen
+
+**a = c · bd** herkennen, toepassen en bijbehorende grafieken tekenen, vanuit de beschrijving van een dergelijk verband een formule opstellen, de evenredigheidsconstante bepalen en de wetten van de schaalvergroting gebruiken.
+
+### Subdomein D2:. Afstanden en hoeken in concrete situaties
+
+### Subdomein D3:. Coördinaten en vectoren
+
+### Domein F:. Keuzeonderwerpen
+
+### Examenprogramma natuurkunde vwo
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het centraal examen heeft betrekking op de subdomeinen B1, B3, C1, C2, C3, C4, E1, E2 en E4, in combinatie met de daarbij behorende vaardigheden uit domein A.
+
+Het College voor Examens kan bepalen dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin genoemde.
+
+Het schoolexamen heeft betrekking op domein A en:
+
+### Domein F:. Moderne fysica
+
+### Subdomein F1:. Atoomfysica
+
+### Subdomein F3:. Astrofysica
+
+### Examenprogramma natuurkunde havo
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het centraal examen heeft betrekking op de subdomeinen B1, B2, C1, C2, D1, D2 en E2, in combinatie met de vaardigheden uit domein A1.
+
+Het College voor Examens kan bepalen dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin genoemde.
+
+Het schoolexamen heeft betrekking op domein A1 en:
+
+### Domein E:. Materie en energie
+
+### Subdomein E1:. Materie en energie
+
+### Subdomein E3:. Kernenergie en techniek
+
+### Examenprogramma scheikunde vwo
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het centraal examen heeft betrekking op de subdomeinen B2, B4, C3, C4, D2, D3, E1, E3, E4, E5, F3, F4, F5, G3, G4 en H3, in combinatie met domein A.
+
+Het College voor Examens kan bepalen dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin genoemde.
+
+Het schoolexamen heeft betrekking op domein A en:
+
+### Domein H:. Redox
+
+### Subdomein H1:. Toepassingen
+
+### Subdomein H3:. Redoxreacties
+
+### Examenprogramma scheikunde havo
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het centraal examen heeft betrekking op de subdomeinen B2, B3, B4, C3, C4, D2, E1, E3, E4, F3, G3, G4, H2, H3, in combinatie met domein A1.
+
+Het College voor Examens kan bepalen dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin genoemde.
+
+Het schoolexamen heeft betrekking op domein A1 en:
+
+### Domein H:. Reacties en stroom
+
+### Subdomein H1:. Toepassingen
+
+### Subdomein H3:. Reacties
+
+### Examenprogramma biologie vwo
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het centraal examen heeft betrekking op de subdomeinen B1, C1, D1, D3, D4, D5, E2, E4 en E5, in combinatie met de vaardigheden uit domein A.
+
+Het College voor Examens kan bepalen dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin genoemde.
+
+Het schoolexamen heeft betrekking op domein A en:
+
+### Subdomein E2:. Ontstaan en handhaving van verscheidenheid
+
+### Subdomein E3:. Ethologie
+
+### Subdomein E5:. Bescherming van het interne milieu
+
+### Examenprogramma biologie havo
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het centraal examen heeft betrekking op de subdomeinen B1, C1, D1, D3, E1, E2, E3 en E4, in combinatie met de vaardigheden uit domein A1.
+
+Het College voor Examens kan bepalen dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin genoemde.
+
+Het schoolexamen heeft betrekking op domein A1 en:
+
+### Subdomein E2:. Ontstaan en handhaven van verscheidenheid
+
+### Subdomein E3:. Gedrag van mens en dier
+
+### Subdomein E5:. Huid en immuniteit
+
+Het eindexamen bestaat uit het schoolexamen.
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het schoolexamen heeft betrekking op het gehele domein A in combinatie met:
+
+### Domein F:. Biomedische technologie en biotechnologie
+
+### Domein G:. (Duurzaam) gebruik van grondstoffen, energie en ruimte
+
+### Domein I:. Werktuigen, voertuigen en producten
+
+Het eindexamen bestaat uit het schoolexamen.
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het schoolexamen heeft betrekking op het gehele domein A in combinatie met:
+
+### Domein F:. Verbetering van de kwaliteit van leven
+
+### Domein G:. Grenzen verleggen
+
+### Domein I:. Gemak dient de mens
+
+Het eindexamen bestaat uit het schoolexamen.
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het schoolexamen heeft betrekking op de domeinen A tot en met D, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
+
+### Subdomein C7:. Relationele databases
+
+### Subdomein C8:. Interactie mens-machine
+
+### Domein D:. Toepassingen in samenhang
+
+### Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het centraal examen heeft betrekking op de (sub)domeinen A1, B1, C1, D1 en E1.
+
+Het schoolexamen heeft betrekking op domein A en:
+
+### Subdomein C2:. Mondiaal milieuvraagstuk
+
+### Subdomein E1:. Nationale en regionale vraagstukken
+
+### Domein F:. Oriëntatie op studie en beroep
+
+### Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het centraal examen heeft betrekking op de (sub)domeinen A1, B2, C2, D1, E1.
+
+Het schoolexamen heeft betrekking op domein A en:
+
+### Subdomein C3:. De aarde als natuurlijk systeem en lokale effecten
+
+### Subdomein E1:. Nationale en regionale vraagstukken
+
+### Domein F:. Oriëntatie op studie en beroep
+
+### Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+Het schoolexamen heeft betrekking op domein A en:
+
+### Tijdelijke afwijking
+
+### De examenstof
+
+### Domein A:. Historisch besef
+
+### Domein B:. Oriëntatiekennis
+
+Voor tijdvak 5 gelden de volgende kenmerkende aspecten:
+
+Voor tijdvak 6 gelden de volgende kenmerkende aspecten:
+
+Voor tijdvak 7 gelden de volgende kenmerkende aspecten:
+
+Voor tijdvak 8 gelden de volgende kenmerkende aspecten:
+
+Voor tijdvak 9 gelden de volgende kenmerkende aspecten:
+
+### Domein C:. Thema's
+
+### Domein E:. Oriëntatie op studie en beroep
+
+### Examenprogramma economie havo/vwo
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het centraal examen:
+
+Het centraal examen heeft betrekking op de domeinen D, E, F, G, H, I, in combinatie met domein A.
+
+Het schoolexamen:
+
+Het schoolexamen heeft betrekking op domein B, C, J en K, in combinatie met domein A en:
+
+De kandidaat kan economische concepten herkennen en toepassen in uiteenlopende contexten.
+
+De kandidaat kan in contexten analyseren dat beperkte middelen en ongelimiteerde behoeften dwingen tot het maken van keuzes.
+
+De kandidaat kan in contexten analyseren dat het ruilproces de basis vormt voor een optimale inzet van middelen en een optimale benutting van comparatieve voordelen. Voorts kan de kandidaat analyseren dat ruil arbeidsdeling mogelijk maakt en op welke manier geld het ruilproces soepeler laat verlopen.
+
+De kandidaat kan in contexten analyseren dat keuzes en ruil die plaatsvinden worden gecoördineerd via de markt. Prijsvorming is het coördinatiemechanisme waarmee vraag en aanbod op elkaar worden afgestemd. De manier waarop prijsvorming plaatsvindt is afhankelijk van de marktstructuur (marktvormen) en heeft gevolgen voor toetreding, welvaart en economische politiek.
+
+De kandidaat kan, binnen de contexten van gezinshuishoudingen, bedrijfshuishoudingen en overheidshuishoudingen, analyseren dat ruil niet alleen op één moment in de tijd plaatsvindt, maar ook over de tijd. De prijs die deze intertemporele ruil coördineert is de rente.
+
+De kandidaat kan in contexten analyseren dat, wanneer belangen van individuele actoren conflicteren, samenwerken en onderhandelen meer oplevert voor (markt)partijen dan vertrouwen op individuele acties. Centralisatie, waarbij (collectieve) dwang het middel is om acties tot stand te brengen, kan een alternatief coördinatiemechanisme zijn voor keuzes.
+
+De kandidaat kan in contexten analyseren dat gezinnen en bedrijven bij het maken van keuzes informatie verzamelen ten einde onzekerheid te verkleinen. Aangezien de informatie vaak een beperkt karakter zal hebben moeten transactiepartijen een inschatting maken van mogelijke gebeurtenissen (risico) en de mate waarin transactiepartners gebeurtenissen beïnvloeden of informatie achterhouden die relevant is voor het tot stand brengen van een transactie (asymmetrische informatie).
+
+De kandidaat kan in contexten analyseren wat op nationaal en op mondiaal niveau de oorzaken zijn van economische groei en van de verdeling van inkomen en welvaart. Keuzes op microniveau werken door op macroniveau in elke economie die gekenmerkt wordt door wederzijds afhankelijke markten.
+
+De kandidaat kan in contexten analyseren waarom er sprake is van korte termijn schommelingen in economische activiteiten en welke mogelijkheden en grenzen er zijn voor conjunctuurbeleid. Markten laten zich niet gemakkelijk reguleren mede door toedoen van rigiditeiten.
+
+De kandidaat kan door het deelnemen aan experimenten een conclusie trekken die getuigt van een ‘economische kijk’ op maatschappelijke verschijnselen en van strategisch inzicht. De kandidaat kan analyseren welke grenzen aan de verklaringskracht van theoretische concepten gesteld kunnen worden.
+
+De kandidaat kan een economisch concept in verschillende contexten vergelijkenderwijs analyseren.
+
+De kandidaat kiest ten minste twee keuzeonderwerpen om deze analyse uit te voeren.
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het centraal examen heeft betrekking op de domeinen C, E en G, in combinatie met domein A.
+
+Het College voor Examens kan bepalen dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin bedoelde.
+
+Het schoolexamen heeft betrekking op domein A en:
+
+### De examenstof
+
+### Domein A:. Vaardigheden
+
+### Subdomein A2:. Economische instrumenten
+
+### Subdomein A4:. Informatievaardigheden
+
+### Domein B:. Interne organisatie en personeelsbeleid
+
+### Subdomein B2:. Personeelsbeleid
+
+### Subdomein C1:. Rechtsvormen
+
+### Domein D:. Marketingbeleid
+
+### Subdomein D2:. Marketing van commerciële organisaties
+
+### Subdomein E1:. Financieel beleid in niet-commerciële organisaties
+
+### Subdomein E3:. Financieel beleid in commerciële organisaties: industriële ondernemingen
+
+### Subdomein F1:. Informatiestromen in organisaties
+
+### Domein G:. Externe financiële verslaggeving
+
+### Het eindexamen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+### Het centraal examen
+
+Het centraal examen heeft betrekking op de domeinen C, E en G, in combinatie met domein A.
+
+Het College voor Examens kan bepalen dat het centraal examen ten dele betrekking kan hebben op andere subdomeinen, mits de subdomeinen tezamen dezelfde studielast hebben als de in de vorige zin bedoelde.
+
+### Het schoolexamen
+
+### Domein A:. Vaardigheden
+
+### Subdomein A1:. Economische aspecten van vraagstukken binnen organisaties
+
+### Subdomein A3:. Economische perspectieven en belangen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het centraal examen heeft betrekking op de domeinen B, C en F, in combinatie met domein A.
+
+Het schoolexamen heeft betrekking op:
+
+### De examenstof
+
+### Domein A:. Vaardigheden
+
+### Subdomein A2:. Onderzoeksvaardigheden
+
+### Subdomein A3:. Benaderingswijzen
+
+### Domein B:. Politieke besluitvorming
+
+### Subdomein F4:. Functies van straffen
+
+### Subdomein F5:. Oorzaken van criminaliteit
+
+### Subdomein G1:. Milieu als maatschappelijk probleem
+
+### Subdomein G3:. Maatschappelijke organisaties
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het centraal examen heeft betrekking op de domeinen B, C en F, in combinatie met domein A.
+
+Het schoolexamen heeft betrekking op:
+
+### Domein G:. Milieu en beleid
+
+### Subdomein G1:. Milieu als maatschappelijk probleem
+
+### Subdomein G3:. Maatschappelijke organisaties
+
+### Subdomein G5:. Milieu en cultuur
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het centraal examen heeft betrekking op een door het College voor Examens vastgesteld onderwerp dat gerelateerd is aan een van de domeinen B, C, D of E als hoofddomein, waarbij een of meer andere domeinen betrokken kunnen zijn, en de subdomeinen 1. van de domeinen B, C, D en E, die zowel afzonderlijk als in relatie met het onderwerp kunnen worden geëxamineerd.
+
+Het schoolexamen heeft betrekking op domein A en:
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het centraal examen heeft betrekking op een door het College voor Examens vastgesteld onderwerp dat gerelateerd is aan een van de domeinen B, C of D als hoofddomein, waarbij een of meer andere domeinen betrokken kunnen zijn, en de subdomeinen 1. van de domeinen B, C en D, die zowel afzonderlijk als in relatie met het onderwerp kunnen worden geëxamineerd.
+
+Het schoolexamen heeft betrekking op domein A en:
+
+### Subdomein A3:. Oriëntatie op studie en beroep
+
+### Domein B:. Wijsgerige antropologie
+
+### Subdomein B2:. Lichaam, geest en emotie
+
+### Domein C:. Ethiek
+
+Het eindexamen bestaat uit het centraal examen.
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het centraal examen heeft betrekking op de domeinen B en C in combinatie met de vaardigheden uit domein A.
+
+Het College voor Examens wijst uit domein C drie onderwerpen aan voor het havo-examen en vier onderwerpen voor het vwo-examen.
+
+### Domein C:. Onderwerpen
+
+### Examenprogramma kunst (beeldende vormgeving) vwo
+
+Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:
+
+### Het schoolexamen
+
+Het schoolexamen heeft betrekking op de domeinen A, B en C, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
+
+Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken kunst (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 440 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van ten minste 160 studielasturen, door het bevoegd gezag te bepalen. Er is dan dus geen centraal examen.
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:
+
+Het centraal examen is dat van het vak kunst (algemeen).
+
+Het schoolexamen heeft betrekking op de domeinen A, B en C, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
+
+Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken kunst (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 320 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van ten minste 120 studielasturen, door het bevoegd gezag te bepalen. Er is dan dus geen centraal examen.
+
+### Domein A:. Vaktheorie
+
+### Subdomein A1:. Beeldend werk van kunstenaars en vormgevers
+
+### Subdomein A3:. Eigen beeldend werk
+
+### Domein B:. Praktijk
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:
+
+Het centraal examen is dat van het vak kunst (algemeen).
+
+Het schoolexamen heeft betrekking op de domeinen A, B en C, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
+
+Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken kunst (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 440 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van ten minste 160 studielasturen, door het bevoegd gezag te bepalen. Er is dan dus geen centraal examen.
+
+### Subdomein A1:. Waarnemen en weten
+
+### Subdomein A2:. Analyseren en interpreteren
+
+### Domein B:. Praktijk
+
+### Subdomein B1:. Zingen en spelen
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:
+
+Het centraal examen is dat van het vak kunst (algemeen).
+
+### Domein A:. Vaktheorie
+
+### Subdomein A2:. Analyseren en interpreteren
+
+### Subdomein A3:. Muziek en cultuur
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:
+
+### Het schoolexamen
+
+Het schoolexamen heeft betrekking op de domeinen A, B en C, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
+
+### Domein A:. Vaktheorie
+
+### Subdomein A1:. Drama en maatschappij
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+### Het centraal examen
+
+Het centraal examen is dat van het vak kunst (algemeen).
+
+### Het schoolexamen
+
+Het schoolexamen heeft betrekking op de domeinen A, B en C, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
+
+### De examenstof
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+### Het centraal examen
+
+Het centraal examen is dat van het vak kunst (algemeen).
+
+### Het schoolexamen
+
+Het schoolexamen heeft betrekking op de domeinen A, B en C, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
+
+### De examenstof
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+### Het centraal examen
+
+Het centraal examen heeft betrekking op domein A.
+
+### Het schoolexamen
+
+Het schoolexamen heeft betrekking op:
+
+### De examenstof
+
+### Domein A:. Vaktheorie
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+### Het schoolexamen
+
+Het schoolexamen heeft betrekking op:
+
+### De examenstof
+
+### Subdomein A1:. Waarnemen en weten
+
+### Subdomein A2:. Analyseren en interpreteren
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het centraal examen bestaat uit een theoretisch en een praktisch gedeelte.
+
+Het theoretische gedeelte heeft betrekking op domein A.
+
+### Het schoolexamen
+
+Het schoolexamen heeft betrekking op:
+
+### De examenstof
+
+### Subdomein A1:. Beschrijven, onderzoeken en interpreteren
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het centraal examen heeft betrekking op domein A.
+
+Het schoolexamen heeft betrekking op:
+
+### De examenstof
+
+### Domein A:. Vaktheorie
+
+### Subdomein A2:. Beschouwen
+
+### Domein C:. Oriëntatie op studie en beroep
+
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het centraal examen bestaat uit een theoretisch en een praktisch gedeelte.
+
+Het theoretische gedeelte heeft betrekking op domein A.
+
+Het praktische gedeelte heeft betrekking op de (sub)domeinen A2 en B.
+
+Het schoolexamen heeft betrekking op:
+
+### Domein A:. Vaktheorie
+
+### Subdomein A1:. Beschrijven, onderzoeken en interpreteren
+
+### Domein B:. Praktijk
+
+### Domein C:. Oriëntatie op studie en beroep
+
+### Examenprogramma handvaardigheid havo
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het centraal examen heeft betrekking op domein A.
+
+Het schoolexamen heeft betrekking op:
+
+### Subdomein A2:. Beschouwen
+
+### Domein B:. Praktijk
+
+### Examenprogramma textiele vormgeving vwo
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het centraal examen bestaat uit een theoretisch en een praktisch gedeelte.
+
+Het theoretische gedeelte heeft betrekking op domein A.
+
+Het praktische gedeelte heeft betrekking op de (sub)domeinen A2 en B.
+
+Het schoolexamen heeft betrekking op:
+
+### Domein A:. Vaktheorie
+
+### Subdomein A1:. Beschrijven, onderzoeken en interpreteren
+
+### Domein B:. Praktijk
+
+### Domein C:. Oriëntatie op studie en beroep
+
+### Examenprogramma textiele vormgeving havo
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het centraal examen heeft betrekking op domein A.
+
+Het schoolexamen heeft betrekking op:
+
+### Subdomein A2:. Beschouwen
+
+### Domein B:. Praktijk
+
+### Examenprogramma moderne vreemde talen en literatuur (elementair) havo/vwo
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het schoolexamen heeft betrekking op:
+
+### Subdomein C2:. Spreken
+
+### Domein D:. Schrijfvaardigheid (geldt niet voor Arabisch en Russisch)
+
+### Subdomein D2:. Strategische vaardigheden
+
+### Examenprogramma bewegen, sport en maatschappij vwo
+
+### Het eindexamen
+
+Het eindexamen bestaat uit het schoolexamen.
+
+Het schoolexamen heeft betrekking op de domeinen A tot en met E, (met dien verstande dat de eindtermen uit de domeinen A en C, D en E in beginsel in samenhang met domein B aan de orde komen), en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
+
+### Subdomein B4:. Atletiek
+
+### Subdomein B5:. Zelfverdedigingspelen
+
+### Domein C:. Bewegen en regelen
+
+### Subdomein C2:. Regelen in de rol van begeleider
+
+### Subdomein E2:. De ontwikkeling van de bewegingscultuur
+
+### Subdomein E3:. Mens en bewegen
+
+### Subdomein E5:. De organisatie van sport en bewegen
+
+Het eindexamen bestaat uit het schoolexamen.
+
+Het examenprogramma bestaat uit de volgende domeinen:
+
+Het schoolexamen heeft betrekking op de domeinen A tot en met E, (met dien verstande dat de eindtermen uit de domeinen A en C, D en E in beginsel in samenhang met domein B aan de orde komen), en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
+
+### Subdomein B3:. Bewegen op muziek
+
+### Subdomein B4:. Atletiek
+
+### Subdomein B6:. Keuzeactiviteiten
+
+## Bijlage 2. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=2&z=2011-08-01&g=2011-08-01) van de Regeling examenprogramma’s voortgezet onderwijs
+
+De zes algemene onderwijsdoelen die voor alle vakken en sectoren in het vmbo gelden, zijn
+
+Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met de bijbehorende code. Elke exameneenheid bestaat uit één of meer eindtermen. In de kolommen achter de exameneenheden staat aangegeven door middel van een **X** voor welke leerweg de exameneenheid deel uitmaakt van het examenprogramma.
+
+Het centraal examen voor een vak of programma per leerweg heeft betrekking op die exameneenheden die aangeduid zijn met **CE**.
+
+Het schoolexamen voor een bepaalde leerweg heeft voor de algemeen vormende vakken in ieder geval betrekking op exameneenheid K3 (Leervaardigheden) en voor de beroepsgerichte vakken op exameneenheid K2 (Professionele vaardigheden).
+
+Daarnaast heeft het schoolexamen betrekking op:
+
+Voor bepaalde groepen van verwante beroepsgerichte programma’s in de GL is er een gemeenschappelijk CE. De exameneenheden die horen bij deze gemeenschappelijke centrale examens in de GL hebben een nieuwe vakcode gekregen gevolgd door een nummering in Romeinse cijfers. Dit betreft de volgende groepen van beroepsgerichte programma’s GL:
+
+Bij de uitvoering van het examenprogramma worden de referentieniveaus Nederlandse taal in acht genomen, bedoeld in [artikel 2, onderdeel e en onderdeel f, van het Besluit referentieniveaus Nederlandse taal en rekenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027879&artikel=2).
+
+1 Het CvE kan bepalen dat het centraal examen geen betrekking heeft op NE/K/4; dit kan per leerweg verschillen.
+
+### 2.2. Franse taal
+
+² Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/7; deze bepaling kan per leerweg verschillen.
+
+¹ Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen.
+
+² Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/7; deze bepaling kan per leerweg verschillen.
+
+¹ Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen.
+
+² Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/7; deze bepaling kan per leerweg verschillen.
+
+¹ Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen
+
+² Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/7; deze bepaling kan per leerweg verschillen.
+
+¹ Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen
+
+### 2.16. biologie
+
+² Het schoolexamen moet in ieder geval bestaan uit **3** exameneenheden naar keuze van de school te maken uit GS/K/4, GS/K/6, GS/K/7, GS/K/8, en GS/K/9.
+
+¹ De school kan één of meer van de exameneenheden V1 t/m V6 in de Gemengde en Theoretische Leerweg toetsen op het schoolexamen maar is daartoe niet verplicht.
+
+### 2.19. economie
+
+### 2.20. beeldende vorming
+
+### 2.21. muziek
+
+### 2.22. drama
+
+### 2.23. dans
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.
