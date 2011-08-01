@@ -4,7 +4,7 @@ identifier: "BWBR0024795"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-15"
-last_updated: "2010-02-24"
+last_updated: "2011-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024795"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **minister:** Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het beroepsonderwijs op het gebied van de landbouw en natuurlijke omgeving, Minister van Landbouw, Natuur en Voedselkwaliteit,
+- a. **minister:** Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het beroepsonderwijs op het gebied van de landbouw en natuurlijke omgeving, minister van Economische Zaken, Landbouw en Innovatie,
 
 - b. **wet:** [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625),
 
@@ -72,13 +72,13 @@ Deze budgetten worden jaarlijks toegevoegd aan de landelijk beschikbare budgette
 
 ##### Artikel 2.1.2. Begroting, verslaglegging, informatie en toezicht
 
-1. Het bepaalde bij of krachtens [paragraaf 1 van titel 5 van hoofdstuk 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&paragraaf=1) is van overeenkomstige toepassing op de instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2010-02-24&g=2010-02-24).
+1. Het bepaalde bij of krachtens [paragraaf 1 van titel 5 van hoofdstuk 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&paragraaf=1) is van overeenkomstige toepassing op de instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2011-08-01&g=2011-08-01).
 
-2. Het bepaalde bij of krachtens [hoofdstuk 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=5), alsmede de [Bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1), [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1C) en [4 behorende bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=4), is van overeenkomstige toepassing op de instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2010-02-24&g=2010-02-24).
+2. Het bepaalde bij of krachtens [hoofdstuk 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=5), alsmede de [Bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1), [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1C) en [4 behorende bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=4), is van overeenkomstige toepassing op de instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2011-08-01&g=2011-08-01).
 
 ##### Artikel 2.1.3. Voorschriften [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) die van toepassing zijn op de Instituten voor doven
 
-De instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2010-02-24&g=2010-02-24), nemen voor de beroepsopleidingen verzorgd aan die instituten in acht hetgeen bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) is bepaald ten aanzien van:
+De instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2011-08-01&g=2011-08-01), nemen voor de beroepsopleidingen verzorgd aan die instituten in acht hetgeen bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) is bepaald ten aanzien van:
 
 - a. de taken van de instellingen ten aanzien van het beroepsonderwijs, bedoeld in [artikel 1.3.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.5);
 
@@ -122,13 +122,13 @@ De instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 2.2.2. Begroting, verslaglegging, informatie en toezicht
 
-1. Het bepaalde bij of krachtens [paragraaf 1 van titel 5 van hoofdstuk 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&paragraaf=1) is van overeenkomstige toepassing op de hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2010-02-24&g=2010-02-24).
+1. Het bepaalde bij of krachtens [paragraaf 1 van titel 5 van hoofdstuk 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&paragraaf=1) is van overeenkomstige toepassing op de hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2011-08-01&g=2011-08-01).
 
-2. Het bepaalde bij of krachtens [hoofdstuk 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=5), alsmede de [Bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1), [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1C) en [4 behorende bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=4) is van overeenkomstige toepassing op de hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2010-02-24&g=2010-02-24).
+2. Het bepaalde bij of krachtens [hoofdstuk 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=5), alsmede de [Bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1), [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1C) en [4 behorende bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=4) is van overeenkomstige toepassing op de hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2011-08-01&g=2011-08-01).
 
 ##### Artikel 2.2.3. Voorschriften [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) die van toepassing zijn op hogeschool Haarlem dan wel diens rechtsopvolgers
 
-De hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2010-02-24&g=2010-02-24), neemt voor de beroepsopleidingen verzorgd door die hogeschool, in acht hetgeen bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) is bepaald ten aanzien van:
+De hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2011-08-01&g=2011-08-01), neemt voor de beroepsopleidingen verzorgd door die hogeschool, in acht hetgeen bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) is bepaald ten aanzien van:
 
 - a. de taken van de instellingen ten aanzien van het beroepsonderwijs, bedoeld in [artikel 1.3.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.5);
 
@@ -158,7 +158,7 @@ De hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BW
 
 - n. de voorschriften inzake bestuur en bestuursoverdracht, bedoeld in [paragraaf 1 van titel 1 van hoofdstuk 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&paragraaf=1);
 
-- o. de [hoofdstukken 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&hoofdstuk=10) en [11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&hoofdstuk=11);
+- o. de [hoofdstukken 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&hoofdstuk=10) en [11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&hoofdstuk=11).
 
 ### Hoofdstuk 3. Voorschriften bekostiging beroepsonderwijs
 
@@ -174,35 +174,33 @@ De hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 3.1.2. Vaststelling vaste voet en prijs per leerling voorbereidend beroepsonderwijs
 
-1. Het aantal formatieplaatsen wordt verhoogd met één formatieplaats per agrarisch opleidingscentrum.
+1. De vaste voet per instelling, bedoeld in [artikel 2.3.2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.3.2), wordt voor het jaar 2011 berekend door elke vaste formatieplaats te vermenigvuldigen met een bedrag van € 53.175,67. De vaste formatie wordt als volgt vastgesteld:
 
-2. Indien twee of meer agrarische opleidingscentra een fusie met elkaar aangaan, behoudt het agrarisch opleidingscentrum dat tengevolge van de fusie tot stand komt het aantal formatieplaatsen, bedoeld in het eerste lid, dat ieder van de agrarische opleidingscentra afzonderlijk vóór de fusie had, voor een periode van drie jaren na het jaar waarin de fusie plaatsvond.
+- a. één formatieplaats per agrarisch opleidingscentrum; en
 
-3. In aanvulling op het bepaalde in het eerste lid wordt het aantal formatieplaatsen uitgebreid met:
+- b. een halve formatieplaats per vestiging waar per 1 augustus voorafgaand aan het desbetreffende jaar voorbereidend beroepsonderwijs in de afdeling landbouw, natuurlijke omgeving en voedsel wordt verzorgd;
 
-- a. een halve formatieplaats per school voor voorbereidend beroepsonderwijs met een afdeling landbouw en natuurlijke omgeving die uiterlijk op 1 augustus 1991 deel uitmaakte van het agrarisch opleidingscentrum, en
+- c. indien twee of meer agrarische opleidingscentra een fusie met elkaar aangaan, behoudt het agrarisch opleidingscentrum dat ten gevolge van de fusie tot stand komt het aantal formatieplaatsen, bedoeld in het eerste lid onder a. en b., dat ieder van de agrarische opleidingscentra afzonderlijk voor de fusie had, voor een periode van drie jaren na het jaar waarin de fusie plaatsvond;
 
-- b. twee formatieplaatsen per school met een afdeling paardenhouderij en paardensport die uiterlijk op 1 augustus 1991 deel uitmaakte van een agrarisch opleidingscentrum.
+- d. indien de formatie van een agrarisch opleidingscentrum, berekend volgens deze regeling zoals die luidde op 1 januari 2011, hoger was dan die volgens deze regeling zoals deze luidt op 1 januari 2012, dan wordt het verschil voor het bekostigingsjaar 2012 toegevoegd aan de formatie van dat agrarisch opleidingscentrum. Voor het bekostigingsjaar 2013 wordt 75% van het verschil toegevoegd, voor het jaar 2014 50% en voor het jaar 2015 25%.
 
-4. De prijs per leerling verbonden aan het voorbereidend beroepsonderwijs en leerwegondersteunend onderwijs, bedoeld in [artikel 2.3.2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.3.2), bedraagt
+2. De prijs per leerling verbonden aan het voorbereidend beroepsonderwijs en leerwegondersteunend onderwijs als bedoeld in [artikel 2.3.2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.3.2) bedraagt per 1 januari 2011:
 
-- a. voor de leerling beroepsonderwijs € 5.543,– en
+- a. voor de leerling voorbereidend beroepsonderwijs € 6463,24, bestaande uit een component voor personele kosten ad € 5.484,87en een component voor materiële kosten ad € 978,37;
 
-- b. voor de leerling leerwegondersteunend onderwijs € 8.545–.
+- b. voor de leerling leerwegondersteunend onderwijs€ 10.070,72,bestaande uit een component voor personele kosten ad € 8.842,35en een component voor materiële kosten ad € 1.228,37.
 
-5. De prijs per leerling kan worden aangepast in verband met salarismaatregelen en prijsbijstellingen die voortvloeien uit de rijksbegroting.
+3. De bedragen in het eerste en tweede lid worden jaarlijks als volgt aangepast:
+
+- a. het bedrag in het eerste lid wordt met hetzelfde percentage aangepast als waarmee de gemiddelde personeelslast in het voorbereidend beroepsonderwijs wordt aangepast op grond van [artikel 85, derde lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=85);
+
+- b. de bedragen voor personele kosten, bedoeld in het tweede lid, worden aangepast met hetzelfde percentage als waarmee de gemiddelde personeelslast in het voorbereidend beroepsonderwijs wordt aangepast op grond van [artikel 85, derde lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=85);
+
+- c. de bedragen voor materiële kosten, bedoeld in het tweede lid, worden jaarlijks aangepast met het gemiddelde van de percentages waarmee de bedragen voor het voorbereidend beroepsonderwijs worden aangepast op grond van [artikel 86, vijfde en zesde lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=86).
 
 ##### Artikel 3.1.3. Bekostiging gehandicapten
 
-1. De minister stelt jaarlijks het landelijk beschikbare budget vast ten behoeve van de kosten voor gehandicapte deelnemers voor het beroepsonderwijs voor:
-
-- a. de instellingen, bedoeld in de [artikelen 1.1.1, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), met uitzondering van een agrarisch opleidingscentrum als bedoeld in [artikel 1.3.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.3);
-
-- b. de instituten, bedoeld in [artikel 12.3.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=12.3.8), en
-
-- c. de hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2010-02-24&g=2010-02-24).
-
-2. De minister verdeelt het voor een kalenderjaar vastgestelde budget ten behoeve van de gehandicapte deelnemers over de instellingen, bedoeld in het eerste lid, naar rato van het totaal van de voor dat kalenderjaar op grond van de [artikelen 2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.2.3) en [2.2.4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.2.4), berekende rijksbijdrage voor die instelling.
+Vervallen
 
 #### § 2. Overgangsvoorschriften bekostiging
 
@@ -226,7 +224,7 @@ De rijksbijdrage educatie per gemeente wordt aan de gemeente toegekend onder de 
 
 ##### Artikel 4.1.2. Vermindering door de gemeente van de bedragen educatie aan instellingen
 
-1. Indien een gemeente beslist tot een vermindering van het bedrag van de verplichting, bedoeld in [artikel 4.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=4&paragraaf=1&artikel=4.1.1&z=2010-02-24&g=2010-02-24), ten opzichte van een bepaalde instelling, gedurende of na afloop van het kalenderjaar waarvoor de desbetreffende rijksbijdrage educatie is toegekend, is die vermindering niet eerder van kracht dan nadat:
+1. Indien een gemeente beslist tot een vermindering van het bedrag van de verplichting, bedoeld in [artikel 4.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=4&paragraaf=1&artikel=4.1.1&z=2011-08-01&g=2011-08-01), ten opzichte van een bepaalde instelling, gedurende of na afloop van het kalenderjaar waarvoor de desbetreffende rijksbijdrage educatie is toegekend, is die vermindering niet eerder van kracht dan nadat:
 
 - a. tussen het gemeentebestuur en het bevoegd gezag van de instelling een redelijke termijn voor de vermindering is overeengekomen, of,
 
@@ -284,7 +282,7 @@ In deze formule wordt verstaan onder:
 
 5. Indien de uitkomst van het onderdeel (Ht – Nt) van de formule, bedoeld in het vierde lid, negatief is, wordt het verzoek om een aanvullende vergoeding afgewezen.
 
-##### Artikel 5.2. Wijzigingen [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2010-02-24&g=2010-02-24) en [2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.3&z=2010-02-24&g=2010-02-24) in verband met invoering leerlinggebonden financiering MBO
+##### Artikel 5.2. Wijzigingen [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2011-08-01&g=2011-08-01) en [2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.3&z=2011-08-01&g=2011-08-01) in verband met invoering leerlinggebonden financiering MBO
 
 Wijzigt deze regeling.
 
