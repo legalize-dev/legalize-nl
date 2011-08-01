@@ -4,7 +4,7 @@ identifier: "BWBR0008975"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-01"
-last_updated: "2008-07-01"
+last_updated: "2011-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008975"
 soort: "AMvB"
@@ -64,13 +64,13 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-Het recht tot het voeren van de titel van diëtist is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor voeding en diëtetiek die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan het in [de artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=II&paragraaf=2&artikel=3&z=2008-07-01&g=2008-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=II&paragraaf=2&artikel=4&z=2008-07-01&g=2008-07-01) gestelde.
+Het recht tot het voeren van de titel van diëtist is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor voeding en diëtetiek die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan het in [de artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=II&paragraaf=2&artikel=3&z=2011-08-01&g=2011-08-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=II&paragraaf=2&artikel=4&z=2011-08-01&g=2011-08-01) gestelde.
 
 #### § 2. Opleiding
 
 ##### Artikel 3
 
-1. De opleiding tot diëtist, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=II&paragraaf=1&artikel=2&z=2008-07-01&g=2008-07-01), omvat zowel theoretisch als praktisch onderwijs, dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de beroepsuitoefening van de diëtist die betrekking hebben op het gebied van deskundigheid, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=II&paragraaf=3&artikel=5&z=2008-07-01&g=2008-07-01):
+1. De opleiding tot diëtist, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=II&paragraaf=1&artikel=2&z=2011-08-01&g=2011-08-01), omvat zowel theoretisch als praktisch onderwijs, dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de beroepsuitoefening van de diëtist die betrekking hebben op het gebied van deskundigheid, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=II&paragraaf=3&artikel=5&z=2011-08-01&g=2011-08-01):
 
 - a. diagnostiek en behandeling;
 
@@ -84,11 +84,11 @@ Het recht tot het voeren van de titel van diëtist is voorbehouden aan degene aa
 
 - f. beroepsontwikkeling.
 
-2. Het praktische onderwijs omvat in ieder geval stages in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=II&paragraaf=3&artikel=5&z=2008-07-01&g=2008-07-01), onder toezicht van een diëtist.
+2. Het praktische onderwijs omvat in ieder geval stages in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=II&paragraaf=3&artikel=5&z=2011-08-01&g=2011-08-01), onder toezicht van een diëtist.
 
 ##### Artikel 4
 
-1. Het aspect diagnostiek en behandeling is zo ingericht dat betrokkene in staat is om in het kader van diagnostiek en behandeling van ziekte gerelateerde voedingsproblemen op verwijzing van een arts, volgens de vigerende beroeps- en gezondheidszorgstandaarden, op methodische wijze de volgende interventies voor te bereiden, uit te voeren, te evalueren, bij te stellen en af te ronden:
+1. Het aspect diagnostiek en behandeling is zo ingericht dat betrokkene in staat is om in het kader van diagnostiek en behandeling van ziekte gerelateerde voedingsproblemen, volgens de vigerende beroeps- en gezondheidszorgstandaarden, op methodische wijze de volgende interventies voor te bereiden, uit te voeren, te evalueren, bij te stellen en af te ronden:
 
 - a. het in het kader van het diëtistische onderzoek bij de patiënt afnemen van een anamnese;
 
@@ -192,17 +192,15 @@ Het recht tot het voeren van de titel van diëtist is voorbehouden aan degene aa
 
 ##### Artikel 5
 
-1. Tot het gebied van deskundigheid van de diëtist wordt gerekend:
+Tot het gebied van deskundigheid van de diëtist wordt gerekend:
 
-- a. het op verwijzing van een arts:
+- a. het herkennen van risicofactoren en symptomen bij de patiënt die wijzen op de mogelijke aanwezigheid van een aandoening waarvoor deskundigheid van een andere discipline gewenst of noodzakelijk is en bij constatering daarvan verwijzen naar die andere discipline;
 
-- 1°. onderzoeken van de patiënt, gericht op het bepalen van diens voedingstoestand en op het vaststellen of localiseren van bepaalde voedingsgerelateerde ziektebeelden, en op basis van de verkregen gegevens opstellen van een behandelplan;
+- b. het onderzoeken van de patiënt, gericht op het bepalen van diens voedingstoestand en op het vaststellen of lokaliseren van bepaalde voedingsgerelateerde ziektebeelden, en op basis van de verkregen gegevens opstellen van een behandelplan;
 
-- 2°. behandelen van de patiënt door toepassing van diëettherapie of het geven van diëetadvies, gericht op het opheffen, verminderen of compenseren van met voeding samenhangende of door voeding beïnvloedbare ziekten of klachten;
+- c. het behandelen van de patiënt door toepassing van diëettherapie of het geven van diëetadvies, gericht op het opheffen, verminderen of compenseren van met voeding samenhangende of door voeding beïnvloedbare ziekten of klachten;
 
-- b. het geven van voedings- en diëetvoorlichting aan een persoon, met als doel het voorkomen van met voeding samenhangende of door voeding beïnvloedbare ziekten of klachten.
-
-2. De verwijzing, bedoeld in het eerste lid, onder**a**, geschiedt schriftelijk, is gedateerd en ondertekend door de betrokken arts en bevat ten minste de door deze, voor het door de diëtist onderzoeken en behandelen van de patiënt, relevant geachte diagnostische gegevens.
+- d. het geven van voedings- en diëetvoorlichting aan een persoon, met als doel het voorkomen van met voeding samenhangende of door voeding beïnvloedbare ziekten of klachten.
 
 ### HOOFDSTUK III. ERGOTHERAPEUT
 
@@ -210,13 +208,13 @@ Het recht tot het voeren van de titel van diëtist is voorbehouden aan degene aa
 
 ##### Artikel 6
 
-Het recht tot het voeren van de titel van ergotherapeut is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor ergotherapie die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan het in [de artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=III&paragraaf=2&artikel=7&z=2008-07-01&g=2008-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=III&paragraaf=2&artikel=8&z=2008-07-01&g=2008-07-01) gestelde.
+Het recht tot het voeren van de titel van ergotherapeut is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor ergotherapie die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan het in [de artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=III&paragraaf=2&artikel=7&z=2011-08-01&g=2011-08-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=III&paragraaf=2&artikel=8&z=2011-08-01&g=2011-08-01) gestelde.
 
 #### § 2. Opleiding
 
 ##### Artikel 7
 
-1. De opleiding tot ergotherapeut, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=III&paragraaf=1&artikel=6&z=2008-07-01&g=2008-07-01), omvat zowel theoretisch als praktisch onderwijs, dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de ergotherapeutische beroepsuitoefening die betrekking hebben op het gebied van deskundigheid, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=III&paragraaf=3&artikel=9&z=2008-07-01&g=2008-07-01):
+1. De opleiding tot ergotherapeut, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=III&paragraaf=1&artikel=6&z=2011-08-01&g=2011-08-01), omvat zowel theoretisch als praktisch onderwijs, dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de ergotherapeutische beroepsuitoefening die betrekking hebben op het gebied van deskundigheid, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=III&paragraaf=3&artikel=9&z=2011-08-01&g=2011-08-01):
 
 - a. diagnostiek en behandeling;
 
@@ -230,11 +228,11 @@ Het recht tot het voeren van de titel van ergotherapeut is voorbehouden aan dege
 
 - f. beroepsontwikkeling;
 
-2. Het praktische onderwijs omvat in ieder geval stages in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=III&paragraaf=3&artikel=9&z=2008-07-01&g=2008-07-01), onder toezicht van een ergotherapeut.
+2. Het praktische onderwijs omvat in ieder geval stages in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=III&paragraaf=3&artikel=9&z=2011-08-01&g=2011-08-01), onder toezicht van een ergotherapeut.
 
 ##### Artikel 8
 
-1. Het aspect diagnostiek en behandeling is zo ingericht dat betrokkene in staat is om in het kader van diagnostiek en behandeling op verwijzing van een arts, volgens de vigerende beroeps- en gezondheidszorgstandaarden, op methodische wijze de volgende interventies voor te bereiden, uit te voeren, te evalueren, bij te stellen en af te ronden:
+1. Het aspect diagnostiek en behandeling is zo ingericht dat betrokkene in staat is om in het kader van diagnostiek en behandeling, volgens de vigerende beroeps- en gezondheidszorgstandaarden, op methodische wijze de volgende interventies voor te bereiden, uit te voeren, te evalueren, bij te stellen en af te ronden:
 
 - a. het in het kader van het ergotherapeutische onderzoek bij de patiënt afnemen van een anamnese;
 
@@ -318,19 +316,17 @@ Het recht tot het voeren van de titel van ergotherapeut is voorbehouden aan dege
 
 ##### Artikel 9
 
-1. Tot het gebied van deskundigheid van de ergotherapeut wordt gerekend:
+Tot het gebied van deskundigheid van de ergotherapeut wordt gerekend:
 
-- a. het op verwijzing van een arts:
+- a. het herkennen van risicofactoren en symptomen bij de patiënt die wijzen op de mogelijke aanwezigheid van een aandoening waarvoor deskundigheid van een andere discipline gewenst of noodzakelijk is en bij constatering daarvan verwijzen naar die andere discipline;
 
-- 1°. onderzoeken van de patiënt of en in hoeverre de vermogens of vaardigheden aanwezig zijn om handelingen te verrichten, ontleend aan het dagelijkse leven of aan de arbeid, en op basis van de verkregen gegevens opstellen van een behandelplan;
+- b. het onderzoeken van de patiënt of en in hoeverre de vermogens of vaardigheden aanwezig zijn om handelingen te verrichten, ontleend aan het dagelijkse leven of aan de arbeid, en het op basis van de verkregen gegevens opstellen van een behandelplan;
 
-- 2°. behandelen van de patiënt met als doel het opheffen, verminderen of compenseren van lichamelijke of psychische stoornissen, beperkingen of handicaps door het doen verkrijgen of optimaliseren van vaardigheden vereist voor het verrichten van handelingen als bedoeld onder 1°, of door het geven van informatie, instructie en advies aan de patiënt en in daarvoor in aanmerking komende gevallen aan diens naaste betrekkingen, strekkende tot het zo zelfstandig mogelijk functioneren van de patiënt in diens leef-, woon- of werksituatie;
+- c. het behandelen van de patiënt met als doel het opheffen, verminderen of compenseren van lichamelijke of psychische stoornissen, beperkingen of handicaps door het doen verkrijgen of optimaliseren van vaardigheden vereist voor het verrichten van handelingen als bedoeld onder a, of door het geven van informatie, instructie en advies aan de patiënt en in daarvoor in aanmerking komende gevallen aan diens naaste betrekkingen, strekkende tot het zo zelfstandig mogelijk functioneren van de patiënt in diens leef-, woon- of werksituatie;
 
-- 3°. in daarvoor in aanmerking komende gevallen vervaardigen voor de patiënt van hulpmiddelen of adviseren van de patiënt over te treffen voorzieningen in of aanpassingen van diens leef-, woon- of werksituatie, in het kader van de behandeling als bedoeld onder 2°;
+- d. het in daarvoor in aanmerking komende gevallen vervaardigen voor de patiënt van hulpmiddelen of het adviseren van de patiënt over te treffen voorzieningen in of aanpassingen van diens leef-, woon- of werksituatie,in het kader van de behandeling bedoeld onder b;
 
-- b. het geven van advies, voorlichting en instructie aan een persoon, met als doel belemmeringen in het zelfstandig functioneren in leef-, woon- of werksituatie te voorkomen.
-
-2. De verwijzing, bedoeld in het eerste lid, onder **a**, geschiedt schriftelijk, is gedateerd en ondertekend door de betrokken arts en bevat ten minste de door deze, voor het door de ergotherapeut onderzoeken en behandelen van de patiënt, relevant geachte diagnostische gegevens.
+- e. het geven van advies, voorlichting en instructie aan een persoon, met als doel belemmeringen in het zelfstandig functioneren in leef-, woon- of werksituatie te voorkomen.
 
 ### HOOFDSTUK IV. LOGOPEDIST
 
@@ -338,13 +334,13 @@ Het recht tot het voeren van de titel van ergotherapeut is voorbehouden aan dege
 
 ##### Artikel 10
 
-Het recht tot het voeren van de titel van logopedist is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor logopedie die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan het in [de artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=IV&paragraaf=2&artikel=11&z=2008-07-01&g=2008-07-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=IV&paragraaf=2&artikel=12&z=2008-07-01&g=2008-07-01) gestelde.
+Het recht tot het voeren van de titel van logopedist is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor logopedie die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan het in [de artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=IV&paragraaf=2&artikel=11&z=2011-08-01&g=2011-08-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=IV&paragraaf=2&artikel=12&z=2011-08-01&g=2011-08-01) gestelde.
 
 #### § 2. Opleiding
 
 ##### Artikel 11
 
-1. De opleiding tot logopedist, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=IV&paragraaf=1&artikel=10&z=2008-07-01&g=2008-07-01), omvat zowel theoretisch als praktisch onderwijs, dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de logopedische beroepsuitoefening die betrekking hebben op het gebied van deskundigheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=IV&paragraaf=3&artikel=13&z=2008-07-01&g=2008-07-01):
+1. De opleiding tot logopedist, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=IV&paragraaf=1&artikel=10&z=2011-08-01&g=2011-08-01), omvat zowel theoretisch als praktisch onderwijs, dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de logopedische beroepsuitoefening die betrekking hebben op het gebied van deskundigheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=IV&paragraaf=3&artikel=13&z=2011-08-01&g=2011-08-01):
 
 - a. diagnostiek en behandeling;
 
@@ -358,11 +354,11 @@ Het recht tot het voeren van de titel van logopedist is voorbehouden aan degene 
 
 - f. beroepsontwikkeling.
 
-2. Het praktische onderwijs omvat in ieder geval stages in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=IV&paragraaf=3&artikel=13&z=2008-07-01&g=2008-07-01), onder toezicht van een logopedist.
+2. Het praktische onderwijs omvat in ieder geval stages in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=IV&paragraaf=3&artikel=13&z=2011-08-01&g=2011-08-01), onder toezicht van een logopedist.
 
 ##### Artikel 12
 
-1. Het aspect diagnostiek en behandeling is zo ingericht dat betrokkene in staat is om in het kader van diagnostiek en behandeling op verwijzing van een arts, volgens de vigerende beroeps- en gezondheidszorgstandaarden, op methodische wijze de volgende interventies voor te bereiden, uit te voeren, te evalueren, bij te stellen en af te ronden:
+1. Het aspect diagnostiek en behandeling is zo ingericht dat betrokkene in staat is om in het kader van diagnostiek en behandeling, volgens de vigerende beroeps- en gezondheidszorgstandaarden, op methodische wijze de volgende interventies voor te bereiden, uit te voeren, te evalueren, bij te stellen en af te ronden:
 
 - a. het in het kader van het logopedische onderzoek bij de patiënt afnemen van een anamnese;
 
@@ -446,31 +442,29 @@ Het recht tot het voeren van de titel van logopedist is voorbehouden aan degene 
 
 ##### Artikel 13
 
-1. Tot het gebied van deskundigheid van de logopedist wordt gerekend:
+Tot het gebied van deskundigheid van de logopedist wordt gerekend:
 
-- a. het op verwijzing van een arts of een tandarts:
+- a. het herkennen van risicofactoren en symptomen bij de patiënt die wijzen op de mogelijke aanwezigheid van een aandoening waarvoor deskundigheid van een andere discipline gewenst of noodzakelijk is en bij constatering daarvan verwijzen naar die andere discipline;
 
-- 1°. uitwendig onderzoeken van de patiënt of en zo ja in hoeverre:
+- b. het uitwendig onderzoeken van de patiënt of en zo ja in hoeverre:
 
-- -. de vermogens tot het spreken, leren spreken en gebruiken van taal aanwezig zijn,
+- –. de vermogens tot het spreken, leren spreken en gebruiken van taal aanwezig zijn,
 
-- -. de vermogens tot veilig en efficiënt eten, drinken en slikken aanwezig zijn,
+- –. de vermogens tot veilig en efficiënt eten, drinken en slikken aanwezig zijn,
 
-- -. de gehoor-, stem- of spraakorganen functioneren, daaronder begrepen de invloed van de ademhaling op de stemgeving,
+- –. de gehoor-, stem- of spraakorganen functioneren, daaronder begrepen de invloed van de ademhaling op de stemgeving,
 
-- -. er mede aan de persoonlijkheid van de patiënt en diens relatie tot zijn omgeving gerelateerde stoornissen in het toepassen van taal of het spreken aanwezig zijn, en op basis van de verkregen gegevens opstellen van een behandelplan;
+- –. er mede aan de persoonlijkheid van de patiënt en diens relatie tot zijn omgeving gerelateerde stoornissen in het toepassen van taal of het spreken aanwezig zijn, en op basis van de verkregen gegevens opstellen van een behandelplan;
 
-- 2°. behandelen van de patiënt, gericht op:
+- c. het behandelen van de patiënt, gericht op:
 
-- -. het herstellen, verbeteren of onderhouden van het functioneren van diens gehoor-, stem- of spraakorganen of het voor de stemgeving noodzakelijke reguleren van diens ademhaling;
+- –. het herstellen, verbeteren of onderhouden van het functioneren van diens gehoor-, stem- of spraakorganen of het voor de stemgeving noodzakelijke reguleren van diens ademhaling;
 
-- -. het opheffen van bij de patiënt aanwezige stoornissen in het spreken of leren spreken of in het gebruiken van de taal of in het adequaat eten, drinken en slikken, al dan niet in samenhang met de daartoe noodzakelijke beïnvloeding van beweging of gedrag;
+- –. het opheffen van bij de patiënt aanwezige stoornissen in het spreken of leren spreken dan wel in het gebruiken van de taal of in het adequaat eten, drinken en slikken, al dan niet in samenhang met de daartoe noodzakelijke beïnvloeding van beweging of gedrag;
 
-- -. het in het kader van de behandeling begeleiden van de patiënt bij het aanwenden van hulpmiddelen die het functioneren van de gehoor-, stem- of spraakorganen bevorderen of die deze organen geheel of ten dele vervangen;
+- –. het in het kader van de behandeling begeleiden van de patiënt bij het aanwenden van hulpmiddelen die het functioneren van de gehoor-, stem of spraakorganen bevorderen of die deze organen geheel of ten dele vervangen;
 
-- b. het onderzoeken van een persoon of het geven van logopedisch advies aan een persoon, met als doel het voorkomen van stoornissen in het functioneren van de gehoor-, stem- of spraakorganen dan wel in het spreken of in het gebruiken van de taal.
-
-2. De verwijzing, bedoeld in het eerste lid, onder **a**, geschiedt schriftelijk, is gedateerd en ondertekend door de betrokken arts of tandarts en bevat ten minste de door deze, voor het door de logopedist onderzoeken en behandelen van de patiënt, relevant geachte diagnostische gegevens.
+- d. het onderzoeken van een persoon of het geven van logopedisch advies aan een persoon, met als doel het voorkomen van stoornissen in het functioneren van de gehoor-, stem- of spraakorganen dan wel in het spreken of in het gebruiken van de taal.
 
 ### Hoofdstuk V. Mondhygiënist
 
@@ -478,13 +472,13 @@ Het recht tot het voeren van de titel van logopedist is voorbehouden aan degene 
 
 ##### Artikel 14
 
-Het recht tot het voeren van de titel van mondhygiënist is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor mondzorgkunde die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=V&paragraaf=2&artikel=15&z=2008-07-01&g=2008-07-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=V&paragraaf=2&artikel=16&z=2008-07-01&g=2008-07-01).
+Het recht tot het voeren van de titel van mondhygiënist is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor mondzorgkunde die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=V&paragraaf=2&artikel=15&z=2011-08-01&g=2011-08-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=V&paragraaf=2&artikel=16&z=2011-08-01&g=2011-08-01).
 
 #### § 2. Opleiding
 
 ##### Artikel 15
 
-1. De opleiding, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=V&paragraaf=1&artikel=14&z=2008-07-01&g=2008-07-01), omvat zowel theoretisch als praktisch onderwijs, dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de mondzorgkundige beroepsuitoefening in het kader van het gebied van deskundigheid, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=V&paragraaf=3&artikel=17&z=2008-07-01&g=2008-07-01):
+1. De opleiding, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=V&paragraaf=1&artikel=14&z=2011-08-01&g=2011-08-01), omvat zowel theoretisch als praktisch onderwijs, dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de mondzorgkundige beroepsuitoefening in het kader van het gebied van deskundigheid, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=V&paragraaf=3&artikel=17&z=2011-08-01&g=2011-08-01):
 
 - a. professionele mondzorgkundige vorming;
 
@@ -498,7 +492,7 @@ Het recht tot het voeren van de titel van mondhygiënist is voorbehouden aan deg
 
 - f. praktijkvoering.
 
-2. Het praktische onderwijs omvat in ieder geval stage in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=V&paragraaf=3&artikel=17&z=2008-07-01&g=2008-07-01), onder toezicht van een tandarts of mondhygiënist.
+2. Het praktische onderwijs omvat in ieder geval stage in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=V&paragraaf=3&artikel=17&z=2011-08-01&g=2011-08-01), onder toezicht van een tandarts of mondhygiënist.
 
 ##### Artikel 16
 
@@ -594,13 +588,13 @@ Tot het gebied van deskundigheid van de mondhygiënist wordt gerekend:
 
 ##### Artikel 18
 
-Het recht tot het voeren van de titel van oefentherapeut is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor oefentherapie-Cesar onderscheidenlijk voor oefentherapie-Mensendieck die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan het in [de artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VI&paragraaf=2&artikel=19&z=2008-07-01&g=2008-07-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VI&paragraaf=2&artikel=20&z=2008-07-01&g=2008-07-01) gestelde.
+Het recht tot het voeren van de titel van oefentherapeut is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor oefentherapie-Cesar onderscheidenlijk voor oefentherapie-Mensendieck die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan het in [de artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VI&paragraaf=2&artikel=19&z=2011-08-01&g=2011-08-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VI&paragraaf=2&artikel=20&z=2011-08-01&g=2011-08-01) gestelde.
 
 #### § 2. Opleiding
 
 ##### Artikel 19
 
-1. De opleiding tot oefentherapeut, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VI&paragraaf=1&artikel=18&z=2008-07-01&g=2008-07-01), omvat zowel theoretisch als praktisch onderwijs, dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de oefentherapeutische beroepsuitoefening die betrekking hebben op het gebied van deskundigheid, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VI&paragraaf=3&artikel=21&z=2008-07-01&g=2008-07-01):
+1. De opleiding tot oefentherapeut, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VI&paragraaf=1&artikel=18&z=2011-08-01&g=2011-08-01), omvat zowel theoretisch als praktisch onderwijs, dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de oefentherapeutische beroepsuitoefening die betrekking hebben op het gebied van deskundigheid, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VI&paragraaf=3&artikel=21&z=2011-08-01&g=2011-08-01):
 
 - a. diagnostiek en behandeling;
 
@@ -614,7 +608,7 @@ Het recht tot het voeren van de titel van oefentherapeut is voorbehouden aan deg
 
 - f. beroepsontwikkeling.
 
-2. Het praktische onderwijs omvat in ieder geval stages in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VI&paragraaf=3&artikel=21&z=2008-07-01&g=2008-07-01), onder toezicht van een oefentherapeut.
+2. Het praktische onderwijs omvat in ieder geval stages in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VI&paragraaf=3&artikel=21&z=2011-08-01&g=2011-08-01), onder toezicht van een oefentherapeut.
 
 ##### Artikel 20
 
@@ -716,13 +710,13 @@ Tot het gebied van deskundigheid van de oefentherapeut wordt gerekend:
 
 ##### Artikel 22
 
-Het recht tot het voeren van de titel van orthoptist is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor orthoptie die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan het in [de artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VII&paragraaf=2&artikel=23&z=2008-07-01&g=2008-07-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VII&paragraaf=2&artikel=24&z=2008-07-01&g=2008-07-01) gestelde.
+Het recht tot het voeren van de titel van orthoptist is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor orthoptie die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan het in [de artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VII&paragraaf=2&artikel=23&z=2011-08-01&g=2011-08-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VII&paragraaf=2&artikel=24&z=2011-08-01&g=2011-08-01) gestelde.
 
 #### § 2. Opleiding
 
 ##### Artikel 23
 
-1. De opleiding tot orthoptist, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VII&paragraaf=1&artikel=22&z=2008-07-01&g=2008-07-01), omvat zowel theoretisch als praktisch onderwijs, dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de orthoptische beroepsuitoefening die betrekking hebben op het gebied van deskundigheid, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VII&paragraaf=3&artikel=25&z=2008-07-01&g=2008-07-01):
+1. De opleiding tot orthoptist, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VII&paragraaf=1&artikel=22&z=2011-08-01&g=2011-08-01), omvat zowel theoretisch als praktisch onderwijs, dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de orthoptische beroepsuitoefening die betrekking hebben op het gebied van deskundigheid, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VII&paragraaf=3&artikel=25&z=2011-08-01&g=2011-08-01):
 
 - a. diagnostiek en behandeling;
 
@@ -736,11 +730,11 @@ Het recht tot het voeren van de titel van orthoptist is voorbehouden aan degene 
 
 - f. beroepsontwikkeling.
 
-2. Het praktische onderwijs omvat in ieder geval stages in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VII&paragraaf=3&artikel=25&z=2008-07-01&g=2008-07-01), onder toezicht van een orthoptist.
+2. Het praktische onderwijs omvat in ieder geval stages in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VII&paragraaf=3&artikel=25&z=2011-08-01&g=2011-08-01), onder toezicht van een orthoptist.
 
 ##### Artikel 24
 
-1. Het aspect diagnostiek en behandeling is zodanig ingericht dat betrokkene in staat is om in het kader van diagnostiek en behandeling op verwijzing van een oogarts of huisarts, volgens de vigerende beroeps- en gezondheidszorgstandaarden, op methodische wijze de volgende interventies voor te bereiden, uit te voeren, te evalueren, bij te stellen en af te ronden:
+1. Het aspect diagnostiek en behandeling is zodanig ingericht dat betrokkene in staat is om in het kader van diagnostiek en behandeling, volgens de vigerende beroeps- en gezondheidszorgstandaarden, op methodische wijze de volgende interventies voor te bereiden, uit te voeren, te evalueren, bij te stellen en af te ronden:
 
 - a. het in het kader van het orthoptische onderzoek, dat verricht wordt met behulp van daartoe geëigende apparatuur of door het toedienen van diagnostische oogdruppels, bij de patiënt afnemen van een amnese;
 
@@ -844,11 +838,13 @@ Het recht tot het voeren van de titel van orthoptist is voorbehouden aan degene 
 
 ##### Artikel 25
 
-1. Tot het gebied van deskundigheid van de orthoptist wordt gerekend het op verwijzing van een oogarts of huisarts:
+Tot het gebied van deskundigheid van de orthoptist wordt gerekend:
 
-- a. onderzoeken van de patiënt op de aanwezigheid van monoculaire en binoculaire functies en van stoornissen in het monoculaire en binoculaire zien met behulp van daartoe geëigende apparatuur of door het toedienen van in het kader van het onderzoek passende oogdruppels, en op basis van de verkregen gegevens opstellen van een behandelplan;
+- a. het herkennen van risicofactoren en symptomen bij de patiënt die wijzen op de mogelijke aanwezigheid van een aandoening waarvoor deskundigheid van een andere discipline gewenst of noodzakelijk is en bij constatering daarvan verwijzen naar die andere discipline;
 
-- b. het behandelen van stoornissen in het monoculaire of binoculaire zien van de patiënt door middel van:
+- b. het onderzoeken van de patiënt op de aanwezigheid van monoculaire en binoculaire functies en van stoornissen in het monoculaire en binoculaire zien met behulp van daartoe geëigende apparatuur of door het toedienen van in het kader van het onderzoek passende oogdruppels, en op basis van de verkregen gegevens opstellen van een behandelplan;
+
+- c. het behandelen van stoornissen in het monoculaire of binoculaire zien van de patiënt door middel van:
 
 - 1°. het geven van instructie en advies aan de patiënt aangaande het monoculaire en binoculaire zien;
 
@@ -858,9 +854,7 @@ Het recht tot het voeren van de titel van orthoptist is voorbehouden aan degene 
 
 - 4°. het aanmeten van brillenglazen of speciale brilcorrecties;
 
-- c. adviseren aan de oogarts inzake de indicatiestelling voor operatieve oogspiercorrecties.
-
-2. De verwijzing, bedoeld in het eerste lid, geschiedt schriftelijk, is gedateerd en ondertekend door de betrokken oogarts of huisarts en bevat ten minste de door deze, voor het door de orthoptist onderzoeken en behandelen van de patiënt, relevant geachte diagnostische gegevens.
+- d. het adviseren aan de oogarts inzake de indicatiestelling voor operatieve oogspiercorrecties.
 
 ### HOOFDSTUK VIII. PODOTHERAPEUT
 
@@ -868,13 +862,13 @@ Het recht tot het voeren van de titel van orthoptist is voorbehouden aan degene 
 
 ##### Artikel 26
 
-Het recht tot het voeren van de titel van podotherapeut is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor podotherapie die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan het in [de artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VIII&paragraaf=2&artikel=27&z=2008-07-01&g=2008-07-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VIII&paragraaf=2&artikel=28&z=2008-07-01&g=2008-07-01) gestelde.
+Het recht tot het voeren van de titel van podotherapeut is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor podotherapie die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan het in [de artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VIII&paragraaf=2&artikel=27&z=2011-08-01&g=2011-08-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VIII&paragraaf=2&artikel=28&z=2011-08-01&g=2011-08-01) gestelde.
 
 #### § 2. Opleiding
 
 ##### Artikel 27
 
-1. De opleiding tot podotherapeut, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VIII&paragraaf=1&artikel=26&z=2008-07-01&g=2008-07-01), omvat zowel theoretisch als praktisch onderwijs en is gericht op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de podotherapeutische beroepsuitoefening die betrekking hebben op het gebied van deskundigheid, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VIII&paragraaf=3&artikel=29&z=2008-07-01&g=2008-07-01):
+1. De opleiding tot podotherapeut, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VIII&paragraaf=1&artikel=26&z=2011-08-01&g=2011-08-01), omvat zowel theoretisch als praktisch onderwijs en is gericht op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de podotherapeutische beroepsuitoefening die betrekking hebben op het gebied van deskundigheid, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VIII&paragraaf=3&artikel=29&z=2011-08-01&g=2011-08-01):
 
 - a. diagnostiek en behandeling;
 
@@ -908,11 +902,11 @@ Het recht tot het voeren van de titel van podotherapeut is voorbehouden aan dege
 
 - e. bijdragen aan de professionele ontwikkeling van het beroep.
 
-4. Het praktische onderwijs omvat in ieder geval stages in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VIII&paragraaf=3&artikel=29&z=2008-07-01&g=2008-07-01), onder toezicht van een podotherapeut.
+4. Het praktische onderwijs omvat in ieder geval stages in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VIII&paragraaf=3&artikel=29&z=2011-08-01&g=2011-08-01), onder toezicht van een podotherapeut.
 
 ##### Artikel 28
 
-1. Het aspect diagnostiek en behandeling is zo ingericht dat betrokkene in staat is om in het kader van diagnostiek en behandeling op verwijzing van een arts, volgens de vigerende beroeps- en gezondheidszorgstandaarden, op methodische wijze de volgende interventies voor te bereiden, uit te voeren, te evalueren, bij te stellen en af te ronden:
+1. Het aspect diagnostiek en behandeling is zo ingericht dat betrokkene in staat is om in het kader van diagnostiek en behandeling, volgens de vigerende beroeps- en gezondheidszorgstandaarden, op methodische wijze de volgende interventies voor te bereiden, uit te voeren, te evalueren, bij te stellen en af te ronden:
 
 - a. het podotherapeutische onderzoek en diagnose;
 
@@ -984,13 +978,13 @@ Het recht tot het voeren van de titel van podotherapeut is voorbehouden aan dege
 
 ##### Artikel 29
 
-1. Tot het gebied van deskundigheid van de podotherapeut wordt gerekend het op verwijzing van een arts:
+Tot het gebied van deskundigheid van de podotherapeut wordt gerekend:
 
-- a. onderzoeken van de patiënt of en in hoeverre er sprake is van een afwijking van dan wel een belemmering in de stand of de functie van de voet, en op basis van de verkregen gegevens opstellen van een behandelplan;
+- a. het herkennen van risicofactoren en symptomen bij de patiënt die wijzen op de mogelijke aanwezigheid van een aandoening waarvoor deskundigheid van een andere discipline gewenst of noodzakelijk is en bij constatering daarvan verwijzen naar die andere discipline;
 
-- b. behandelen van de patiënt met als doel het opheffen, verminderen of compenseren van stoornissen in het functioneren van het steun- en bewegingsapparaat door middel van orthesen of prothesen of andere hulpmiddelen aan de voet, het uitwendig bestrijden van aan de voet aanwezige huidaandoeningen, het voorkomen of bestrijden van nagelafwijkingen dan wel het geven van advies.
+- b. het onderzoeken van de patiënt of en in hoeverre er sprake is van een afwijking van dan wel een belemmering in de stand of de functie van de voet, en op basis van de verkregen gegevens opstellen van een behandelplan;
 
-2. De verwijzing, bedoeld in het eerste lid, geschiedt schriftelijk, is gedateerd en ondertekend door de betrokken arts en bevat ten minste de door deze, voor het door de podotherapeut onderzoeken en behandelen van de patiënt, relevant geachte diagnostische gegevens.
+- c. het behandelen van de patiënt met als doel het opheffen, verminderen of compenseren van stoornissen in het functioneren van het steun- en bewegingsapparaat door middel van orthesen of prothesen of andere hulpmiddelen aan de voet, het uitwendig bestrijden van aan de voet aanwezige huidaandoeningen, het voorkomen of bestrijden van nagelafwijkingen dan wel het geven van advies.
 
 ### HOOFDSTUK IX. SLOTBEPALINGEN
 
