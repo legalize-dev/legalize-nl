@@ -4,7 +4,7 @@ identifier: "BWBV0003113"
 country: "nl"
 rank: "verdrag"
 publication_date: "2011-08-01"
-last_updated: "2009-01-23"
+last_updated: "2011-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003113"
 soort: "verdrag"
@@ -54,7 +54,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - d. „de Staat van tenuitvoerlegging”: de Staat waarnaar de gevonniste persoon: Voor wat het Koninkrijk der Nederlanden betreft wordt onder de Staat van tenuitvoerlegging verstaan, Nederland, de Nederlandse Antillen, of Aruba, al naargelang het deel van het Koninkrijk waar de gevonniste persoon zijn hoofdverblijf heeft, tenzij dit Verdrag anders bepaalt;
 
-- i. kan worden of reeds is overgebracht teneinde zijn veroordeling te ondergaan, of, voor de toepassing van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0003113&artikel=14&z=2009-01-23&g=2009-01-23),
+- i. kan worden of reeds is overgebracht teneinde zijn veroordeling te ondergaan, of, voor de toepassing van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0003113&artikel=14&z=2011-08-01&g=2011-08-01),
 
 - ii. is gevlucht of op andere wijze is teruggekeerd wegens een tegen hem of haar lopende strafvervolging in de Staat van veroordeling of, nadat een veroordeling heeft plaatsgevonden, teneinde zich te onttrekken aan tenuitvoerlegging of verdere tenuitvoerlegging van de veroordeling in die Staat.
 
@@ -62,7 +62,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - f. „gevonniste persoon”: een onderdaan die is veroordeeld bij onherroepelijk vonnis door een rechter of een tribunaal van een van de Partijen en:
 
-- i. zijn veroordeling ondergaat in de Staat van veroordeling; of, voor de toepassing van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0003113&artikel=14&z=2009-01-23&g=2009-01-23),
+- i. zijn veroordeling ondergaat in de Staat van veroordeling; of, voor de toepassing van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0003113&artikel=14&z=2011-08-01&g=2011-08-01),
 
 - ii. is gevlucht of op andere wijze is teruggekeerd naar de Staat van tenuitvoerlegging wegens een tegen hem of haar lopende strafvervolging in de Staat van veroordeling of, nadat een veroordeling heeft plaatsgevonden, teneinde zich te onttrekken aan tenuitvoerlegging of verdere tenuitvoerlegging van de veroordeling in die Staat.
 
@@ -88,7 +88,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - d. indien het handelen of nalaten op grond waarvan de veroordeling werd uitgesproken een strafbaar feit oplevert naar het recht van de Staat van tenuitvoerlegging of een strafbaar feit zou opleveren indien dit op zijn grondgebied zou zijn gepleegd;
 
-- e. indien de gevonniste persoon instemt met de overbrenging, behoudens het bepaalde in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003113&artikel=14&z=2009-01-23&g=2009-01-23), en
+- e. indien de gevonniste persoon instemt met de overbrenging, behoudens het bepaalde in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003113&artikel=14&z=2011-08-01&g=2011-08-01), en
 
 - f. indien de Staat van veroordeling en de Staat van tenuitvoerlegging instemmen met de overbrenging.
 
@@ -152,7 +152,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ##### Artikel 8. Gevolgen van de overbrenging voor de Staat van tenuitvoerlegging
 
-1. De voortzetting van de tenuitvoerlegging van de veroordeling van de overgebrachte dader vindt plaats in overeenstemming met de wetgeving, de bestuursrechtelijke of gerechtelijke procedures van de Staat van tenuitvoerlegging. Deze Staat kan, bij de beslissing inzake vervroegde of voorwaardelijke invrijheidstelling, de in [artikel 6, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBV0003113&artikel=6&z=2009-01-23&g=2009-01-23), bedoelde bepalingen of beslissingen in aanmerking nemen.
+1. De voortzetting van de tenuitvoerlegging van de veroordeling van de overgebrachte dader vindt plaats in overeenstemming met de wetgeving, de bestuursrechtelijke of gerechtelijke procedures van de Staat van tenuitvoerlegging. Deze Staat kan, bij de beslissing inzake vervroegde of voorwaardelijke invrijheidstelling, de in [artikel 6, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBV0003113&artikel=6&z=2011-08-01&g=2011-08-01), bedoelde bepalingen of beslissingen in aanmerking nemen.
 
 2. De Staat van tenuitvoerlegging is gebonden aan het rechtskarakter en de duur van de veroordeling, zoals vastgesteld door de Staat van veroordeling. Geen gedetineerde wordt overgebracht tenzij de veroordeling van een duur is of door de bevoegde autoriteiten van de Staat van tenuitvoerlegging is aangepast aan een duur waarvan de tenuitvoerlegging mogelijk is in de Staat van tenuitvoerlegging. De door de Staat van veroordeling opgelegde sanctie mag naar aard en duur niet door de Staat van tenuitvoerlegging worden verzwaard.
 
@@ -182,9 +182,9 @@ De Staat van tenuitvoerlegging bericht de Staat van veroordeling ten aanzien van
 
 ##### Artikel 13. Talen en kosten
 
-1. De kennisgevingen en inlichtingen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003113&artikel=4&z=2009-01-23&g=2009-01-23), en de verzoeken en berichten, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003113&artikel=5&z=2009-01-23&g=2009-01-23), en de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003113&artikel=11&z=2009-01-23&g=2009-01-23) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0003113&artikel=12&z=2009-01-23&g=2009-01-23), dienen te worden gesteld in de taal van de Partij waaraan zij zijn gericht. De stukken ter ondersteuning van een verzoek als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003113&artikel=6&z=2009-01-23&g=2009-01-23) dienen vergezeld te gaan van een vertaling in de taal van de Partij waaraan zij zijn gericht.
+1. De kennisgevingen en inlichtingen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003113&artikel=4&z=2011-08-01&g=2011-08-01), en de verzoeken en berichten, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003113&artikel=5&z=2011-08-01&g=2011-08-01), en de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003113&artikel=11&z=2011-08-01&g=2011-08-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0003113&artikel=12&z=2011-08-01&g=2011-08-01), dienen te worden gesteld in de taal van de Partij waaraan zij zijn gericht. De stukken ter ondersteuning van een verzoek als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003113&artikel=6&z=2011-08-01&g=2011-08-01) dienen vergezeld te gaan van een vertaling in de taal van de Partij waaraan zij zijn gericht.
 
-2. Behoudens het in [artikel 6, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0003113&artikel=6&z=2009-01-23&g=2009-01-23), bepaalde, behoeven de stukken die ter toepassing van dit Verdrag worden verzonden, niet gewaarmerkt te zijn. Alle stukken zijn vrijgesteld van legalisatie door consulaire autoriteiten.
+2. Behoudens het in [artikel 6, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0003113&artikel=6&z=2011-08-01&g=2011-08-01), bepaalde, behoeven de stukken die ter toepassing van dit Verdrag worden verzonden, niet gewaarmerkt te zijn. Alle stukken zijn vrijgesteld van legalisatie door consulaire autoriteiten.
 
 3. De kosten voortvloeiend uit de toepassing van het Verdrag worden door de Staat van tenuitvoerlegging gedragen, uitgezonderd de kosten die uitsluitend op het grondgebied van de Staat van veroordeling zijn gemaakt.
 
@@ -192,11 +192,11 @@ De Staat van tenuitvoerlegging bericht de Staat van veroordeling ten aanzien van
 
 1. Partijen kunnen van geval tot geval overeenkomen dat, indien een onderdaan van de Staat van tenuitvoerlegging die bij vonnis is veroordeeld op het grondgebied van de Staat van veroordeling is gevlucht of op andere wijze is teruggekeerd naar de Staat van tenuitvoerlegging wegens een tegen hem of haar in de Staat van veroordeling lopende strafvervolging of, nadat een veroordeling heeft plaatsgevonden, teneinde zich te onttrekken aan de tenuitvoerlegging of verdere tenuitvoerlegging van deze veroordeling in de Staat van veroordeling, de Staat van veroordeling de Staat van tenuitvoerlegging kan verzoeken de tenuitvoerlegging van de veroordeling over te nemen.
 
-2. Op de overdracht van de tenuitvoerlegging van de bij vonnis opgelegde veroordeling, bedoeld in het eerste lid, zijn de bepalingen van dit Verdrag van overeenkomstige toepassing. De instemming van de gevonniste persoon, bedoeld in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBV0003113&artikel=3&z=2009-01-23&g=2009-01-23), is evenwel niet vereist.
+2. Op de overdracht van de tenuitvoerlegging van de bij vonnis opgelegde veroordeling, bedoeld in het eerste lid, zijn de bepalingen van dit Verdrag van overeenkomstige toepassing. De instemming van de gevonniste persoon, bedoeld in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBV0003113&artikel=3&z=2011-08-01&g=2011-08-01), is evenwel niet vereist.
 
 3. Indien de nationale wet van de Staat van tenuitvoerlegging zulks vereist, kan de overdracht van de tenuitvoerlegging van de bij vonnis opgelegde veroordeling worden onderworpen aan erkenning van het vonnis door de bevoegde rechter voordat de Staat van tenuitvoerlegging instemt met de overdracht van de tenuitvoerlegging van de veroordeling.
 
-4. Indien Brazilië de Staat van veroordeling is, kan het Koninkrijk der Nederlanden als Staat van tenuitvoerlegging op verzoek van Brazilië voorafgaand aan de ontvangst van de stukken ter ondersteuning van het verzoek om overdracht van de tenuitvoerlegging van de bij vonnis opgelegde veroordeling, of voorafgaand aan de beslissing op dat verzoek, de gevonniste persoon aanhouden of andere maatregelen nemen teneinde te verzekeren dat de gevonniste persoon op zijn grondgebied blijft in afwachting van de beslissing op het verzoek om overdracht van de tenuitvoerlegging van de veroordeling. Verzoeken tot voorlopige maatregelen moeten vergezeld gaan van de in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003113&artikel=4&z=2009-01-23&g=2009-01-23), genoemde inlichtingen. De strafrechtelijke positie van de gevonniste persoon mag niet worden verzwaard ten gevolge van een uit hoofde van dit lid in bewaring doorgebracht tijdvak.
+4. Indien Brazilië de Staat van veroordeling is, kan het Koninkrijk der Nederlanden als Staat van tenuitvoerlegging op verzoek van Brazilië voorafgaand aan de ontvangst van de stukken ter ondersteuning van het verzoek om overdracht van de tenuitvoerlegging van de bij vonnis opgelegde veroordeling, of voorafgaand aan de beslissing op dat verzoek, de gevonniste persoon aanhouden of andere maatregelen nemen teneinde te verzekeren dat de gevonniste persoon op zijn grondgebied blijft in afwachting van de beslissing op het verzoek om overdracht van de tenuitvoerlegging van de veroordeling. Verzoeken tot voorlopige maatregelen moeten vergezeld gaan van de in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003113&artikel=4&z=2011-08-01&g=2011-08-01), genoemde inlichtingen. De strafrechtelijke positie van de gevonniste persoon mag niet worden verzwaard ten gevolge van een uit hoofde van dit lid in bewaring doorgebracht tijdvak.
 
 5. Brazilië kan als Staat van tenuitvoerlegging de bepalingen van het vierde lid toepassen voor zover zulks is toegestaan krachtens zijn nationale recht.
 
