@@ -4,7 +4,7 @@ identifier: "BWBR0011400"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2010-04-28"
+last_updated: "2011-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011400"
 soort: "AMvB"
@@ -52,15 +52,17 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-**cursist**: degene die een opleiding volgt als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2010-04-28&g=2010-04-28),
+**cursist**: degene die een opleiding volgt als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2011-08-01&g=2011-08-01),
 
-**cursusgeld:**krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2010-04-28&g=2010-04-28) vastgesteld bedrag,
+**cursusgeld:**krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2011-08-01&g=2011-08-01) vastgesteld bedrag,
 
 **cursusgeldplichtige**: cursist of indien deze minderjarig is, de wettelijke vertegenwoordiger,
 
 **lesgeld**: krachtens [artikel 5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=5) voor het desbetreffende schooljaar vastgestelde bedrag,
 
 **lesgeldplichtige**: degene die krachtens de wet lesgeld is verschuldigd,
+
+**onderwijsovereenkomst:** onderwijsovereenkomst, bedoeld in [artikel 8.1.3 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.1.3),
 
 **schooljaar**: tijdvak van 1 augustus tot en met 31 juli daaropvolgend,
 
@@ -72,29 +74,15 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2. Procedure inschrijving bij een dagschool
 
-1. Een aanvraag tot inschrijving van een leerling bij een dagschool kan uitsluitend worden gedaan door inlevering bij de dagschool van een onderwijskaart. Deze kaart wordt ingevuld en ondertekend door de leerling. Door ondertekening van de kaart verklaart de aanvrager dat hij bekend is met de wettelijke verplichting tot het betalen van lesgeld.
+1. Het bevoegd gezag schrijft een leerling in voor een opleiding na ondertekening van een onderwijsovereenkomst. In de onderwijsovereenkomst verklaart de leerling zich bekend met de verplichting tot het betalen van lesgeld op grond van de wet.
 
 2. De lesgeldplicht gaat in op de eerste dag van het desbetreffende schooljaar of, indien de leerling in de loop van het schooljaar wordt ingeschreven, op de datum van inschrijving.
 
-3. Inschrijving geschiedt door of namens het bevoegd gezag. Na medeondertekening door of namens het bevoegd gezag geldt de onderwijskaart als bewijs van inschrijving.
-
-4. De onderwijskaart wordt door Onze minister verstrekt. De vragen die de onderwijskaart bevat, worden bij ministeriële regeling bepaald. In ieder geval bevat de kaart:
-
-- a. de naam en het adres van de leerling, en
-
-- b. het nummer waaronder de leerling bij Onze minister is geregistreerd.
+3. Inschrijving geschiedt door of namens het bevoegd gezag. Na medeondertekening door of namens het bevoegd gezag geldt de onderwijsovereenkomst als bewijs van inschrijving.
 
 ##### Artikel 3. Beëindiging inschrijving
 
-1. Het bevoegd gezag beëindigt de inschrijving van de leerling op zijn aanvraag of zodra de leerling de opleiding met goed gevolg heeft afgesloten. Het bevoegd gezag verstrekt een bewijs van uitschrijving aan de leerling.
-
-2. Het bewijs van uitschrijving bevat bij ministeriële regeling te bepalen gegevens. In ieder geval bevat het bewijs van uitschrijving:
-
-- a. de naam van de leerling,
-
-- b. het nummer waaronder de leerling bij Onze minister is geregistreerd, en
-
-- c. de datum waarop de inschrijving is beëindigd.
+Het bevoegd gezag beëindigt de inschrijving van de leerling op zijn aanvraag of zodra de leerling de opleiding met goed gevolg heeft afgesloten.
 
 ##### Artikel 4. Voldoening lesgeld
 
@@ -150,7 +138,7 @@ Voor een leerling die na 31 oktober van een schooljaar wordt ingeschreven aan ee
 
 - a. het met goed gevolg hebben afgerond van de opleiding,
 
-- b. de inschrijving voor een cursus als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2010-04-28&g=2010-04-28), mits die inschrijving plaatsvindt in het desbetreffende schooljaar,
+- b. de inschrijving voor een cursus als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2011-08-01&g=2011-08-01), mits die inschrijving plaatsvindt in het desbetreffende schooljaar,
 
 - c. overlijden of ernstige ziekte van de leerling, of
 
@@ -176,9 +164,9 @@ De dagscholen verstrekken Onze minister gegevens omtrent de inschrijving op een 
 
 4. Inschrijving geschiedt niet dan nadat:
 
-- a. het cursusgeld is voldaan, tenzij [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=13&z=2010-04-28&g=2010-04-28) van toepassing is, of
+- a. het cursusgeld is voldaan, tenzij [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=13&z=2011-08-01&g=2011-08-01) van toepassing is, of
 
-- b. een betalingsregeling als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=11&z=2010-04-28&g=2010-04-28) is getroffen.
+- b. een betalingsregeling als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=11&z=2011-08-01&g=2011-08-01) is getroffen.
 
 ##### Artikel 10. Beëindiging inschrijving
 
@@ -194,13 +182,13 @@ Het bevoegd gezag beëindigt de inschrijving van de cursist op aanvraag van de c
 
 - b. het bij de inschrijving treffen van een regeling inzake de betaling van het cursusgeld tussen het bevoegd gezag en de cursusgeldplichtige alsmede de naleving door de cursusgeldplichtige, of
 
-- c. schriftelijke vaststelling bij de inschrijving door of namens het bevoegd gezag dat op de cursusgeldplichtige [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=13&z=2010-04-28&g=2010-04-28) van toepassing is.
+- c. schriftelijke vaststelling bij de inschrijving door of namens het bevoegd gezag dat op de cursusgeldplichtige [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=13&z=2011-08-01&g=2011-08-01) van toepassing is.
 
 3. De laatste termijn van het cursusgeld wordt in ieder geval betaald binnen 4 maanden na aanvang van de cursus, en uiterlijk voor het einde van de cursus.
 
 4. Indien een cursist in een cursusjaar bij dezelfde instelling voor meerdere cursussen staat ingeschreven, is het cursusgeld van de cursus met het hoogste cursusgeldtarief verschuldigd.
 
-5. De cursusgeldplichtige verstrekt aan het bevoegd gezag bewijsstukken voor de aanspraak op terugbetaling van cursusgeld als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=14&z=2010-04-28&g=2010-04-28).
+5. De cursusgeldplichtige verstrekt aan het bevoegd gezag bewijsstukken voor de aanspraak op terugbetaling van cursusgeld als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=14&z=2011-08-01&g=2011-08-01).
 
 ##### Artikel 12. Vermindering cursusgeld
 
@@ -208,7 +196,7 @@ Voor een cursist die in de loop van het cursusjaar wordt ingeschreven, wordt het
 
 ##### Artikel 13. Geen cursusgeld verschuldigd
 
-1. Geen cursusgeld is verschuldigd indien de cursist bij aanvang van het cursusjaar waarin de cursus plaatsvindt de leeftijd van 18 jaren nog niet heeft bereikt, tenzij het betreft de inschrijving bij een deeltijdopleiding als bedoeld in [artikel 15, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2010-04-28&g=2010-04-28).
+1. Geen cursusgeld is verschuldigd indien de cursist bij aanvang van het cursusjaar waarin de cursus plaatsvindt de leeftijd van 18 jaren nog niet heeft bereikt, tenzij het betreft de inschrijving bij een deeltijdopleiding als bedoeld in [artikel 15, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2011-08-01&g=2011-08-01).
 
 2. Geen cursusgeld is verschuldigd indien de cursist bij de instelling die de cursus verzorgt, tevens is ingeschreven voor een opleiding waarvoor lesgeld is verschuldigd.
 
@@ -226,7 +214,7 @@ Voor een cursist die in de loop van het cursusjaar wordt ingeschreven, wordt het
 
 - d. wegens bij ministeriële regeling te bepalen bijzondere familieomstandigheden.
 
-3. In afwijking van het tweede lid kan teruggave van cursusgeld plaatsvinden op grond van door het bevoegd gezag opgestelde bepalingen als bedoeld in [artikel 8.1.3, derde lid, onder h, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.1.3).
+3. In afwijking van het tweede lid kan teruggave van cursusgeld plaatsvinden op grond van door het bevoegd gezag opgestelde bepalingen als bedoeld in [artikel 8.1.3, derde lid, onder e, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.1.3).
 
 4. Een aanvraag om teruggave van cursusgeld wordt voor het einde van dat cursusjaar gedaan bij het bevoegd gezag.
 
@@ -236,15 +224,15 @@ Voor een cursist die in de loop van het cursusjaar wordt ingeschreven, wordt het
 
 1. Het cursusgeldtarief voor de volgende categorieën cursussen bedraagt naar de maatstaf van 1 augustus 2006:
 
-- a. opleidingen beroepsonderwijs voor zover het betreft de assistent-opleiding en de basisberoepsopleiding: € 199,71 per 1 april 2010: € 213 per cursusjaar,
+- a. opleidingen beroepsonderwijs voor zover het betreft de assistent-opleiding en de basisberoepsopleiding: € 199,71 per 1 augustus 2011: € 216 per cursusjaar,
 
-- b. opleidingen beroepsonderwijs voor zover het betreft de vakopleiding, de middenkaderopleiding en de specialistenopleiding: € 485,60 per 1 april 2010: € 517 per cursusjaar,
+- b. opleidingen beroepsonderwijs voor zover het betreft de vakopleiding, de middenkaderopleiding en de specialistenopleiding: € 485,60 per 1 augustus 2011: € 524 per cursusjaar,
 
-- c. opleidingen voortgezet algemeen volwassenenonderwijs, gericht op het behalen van een diploma als bedoeld in de [artikelen 7 tot en met 9 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=7), of onderdelen van dat diploma: € 0,62 per 1 april 2010: € 0,67 voor elke 45 minuten onderwijs, berekend op basis van het normatieve aantal minuten onderwijs per jaar van de opleiding waarvoor inschrijving heeft plaatsgevonden,
+- c. opleidingen voortgezet algemeen volwassenenonderwijs, gericht op het behalen van een diploma als bedoeld in de [artikelen 7 tot en met 9 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=7), of onderdelen van dat diploma: € 0,62 per 1 augustus 2011: € 0,68 voor elke 45 minuten onderwijs, berekend op basis van het normatieve aantal minuten onderwijs per jaar van de opleiding waarvoor inschrijving heeft plaatsgevonden,
 
-- d. opleidingen Nederlands als tweede taal als bedoeld in [artikel 7.3.1, eerste lid, onder c, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1), voor zover het betreft Nederlands als tweede taal I: € 270 per 1 april 2010: € 287 per cursusjaar, en
+- d. opleidingen Nederlands als tweede taal als bedoeld in [artikel 7.3.1, eerste lid, onder c, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1), voor zover het betreft Nederlands als tweede taal I: € 270 per 1 augustus 2011: € 291 per cursusjaar, en
 
-- e. opleidingen Nederlands als tweede taal als bedoeld in [artikel 7.3.1, eerste lid, onder c, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1), voor zover het betreft Nederlands als tweede taal II: € 485,60 per 1 april 2010: € 517 per cursusjaar.
+- e. opleidingen Nederlands als tweede taal als bedoeld in [artikel 7.3.1, eerste lid, onder c, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1), voor zover het betreft Nederlands als tweede taal II: € 485,60 per 1 augustus 2011: € 524 per cursusjaar.
 
 2. De cursusgeldtarieven worden jaarlijks bij ministeriële regeling vastgesteld aan de hand van de consumentenprijsindex. De tarieven, met uitzondering van het in het eerste lid, onder c, bedoelde tarief, worden afgerond op het naastbij gelegen gehele getal. De ministeriële regeling wordt uiterlijk 31 maart voorafgaande aan het cursusjaar waarop de herziening van het cursusgeldtarief betrekking heeft, bekend gemaakt.
 
@@ -252,7 +240,7 @@ Voor een cursist die in de loop van het cursusjaar wordt ingeschreven, wordt het
 
 ##### Artikel 16. Afwijking cursusgeldtarieven
 
-Indien de aard van het onderwijs, de cursusduur, het aantal lessen of de doelgroep van de cursus daartoe aanleiding geeft, kunnen bij ministeriële regeling de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2010-04-28&g=2010-04-28) genoemde cursusgeldtarieven worden verlaagd.
+Indien de aard van het onderwijs, de cursusduur, het aantal lessen of de doelgroep van de cursus daartoe aanleiding geeft, kunnen bij ministeriële regeling de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2011-08-01&g=2011-08-01) genoemde cursusgeldtarieven worden verlaagd.
 
 ### Hoofdstuk 4. Slot- en overgangsbepalingen
 
