@@ -4,7 +4,7 @@ identifier: "BWBR0028393"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2026-01-01"
-last_updated: "2010-10-10"
+last_updated: "2011-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028393"
 soort: "wet-BES"
@@ -36,7 +36,7 @@ entry_into_force: "2011-08-01"
 ---
 # Wet studiefinanciering BES
 
-### Hoofdstuk I. Algemene bepalingen
+### Hoofdstuk 1. Algemene bepalingen
 
 ##### Artikel 1
 
@@ -124,7 +124,7 @@ Aan jongelieden, die op grond van deze wet in het genot zijn van een studietoela
 
 3. Indien in een vergadering der studietoelagencommissie door een lid stemming wordt gevraagd inzake het al dan niet voordragen van een gegadigde voor een studietoelage aan Onze Minister, geschiedt dit schriftelijk.
 
-### Hoofdstuk II. Behandeling van een beslissing op studietoelagenaanvragen
+### Hoofdstuk 2. Samenstelling, toekenning en duur studiefinanciering BES en opstarttoelage
 
 ##### Artikel 8
 
@@ -924,101 +924,3 @@ Studietoelage die is verstrekt onder de werking van de Landsstudietoelagenregeli
 ##### Artikel 10.1. Citeertitel
 
 Deze wet wordt aangehaald als: Wet studiefinanciering BES.
-
-##### Artikel 2.10a. Geen aanspraak uitreiziger
-
-Dit onderdeel is nog niet inwerking getreden
-
-#### Paragraaf 3.1. Omzetting in gift
-
-### Hoofdstuk 4. Opbouw en terugbetaling studieschuld
-
-### Hoofdstuk 5. Herziening
-
-##### Artikel 5.1a. Herziening van rechtswege
-
-Dit onderdeel is nog niet inwerking getreden
-
-### Hoofdstuk 6. Uitbetaling en invordering
-
-### Hoofdstuk 7. Inlichtingen en sancties
-
-#### Paragraaf 7.1. Verstrekken van inlichtingen
-
-##### Artikel 7.4a. Verwerking van gegevens voor de toepassing van [artikel 2.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.5&artikel=2.10a&z=2017-03-10&g=2017-03-10)
-
-Dit onderdeel is nog niet inwerking getreden
-
-#### Paragraaf 7.2. Strafbepalingen
-
-### Hoofdstuk 8. Overige bepalingen
-
-##### Artikel 9.3. Persoonsgebonden nummer BES buiten toepassing
-
-Dit onderdeel is nog niet inwerking getreden
-
-### Hoofdstuk 10. Slotbepaling
-
-#### Paragraaf 9.1. Overgangsbepalingen bij invoering van de Wet studiefinanciering BES
-
-#### Paragraaf 9.2. Overgangsbepalingen in verband met de omvorming van Ad-programma tot associate degree-opleiding
-
-##### Artikel 9.4. Omzetting prestatiebeurs in gift op aanvraag
-
-Tot een bij [koninklijk besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042258) te bepalen tijdstip wordt de prestatiebeurs hoger onderwijs voor een student die met goed gevolg een associate degree-opleiding heeft afgerond, in afwijking van [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=3&paragraaf=3.1&artikel=3.2&z=2018-01-01&g=2018-01-01), uitsluitend omgezet in een gift voor zover de student een aanvraag heeft ingediend tot gelijkstelling, overeenkomstig artikel 3.2, vierde lid, zoals dat luidde voor het tijdstip voor inwerkingtreding van de [Wet invoering associate degree-opleiding](https://wetten.overheid.nl/jci1.3:c:BWBR0040090).
-
-### Hoofdstuk 10. Slotbepaling
-
-##### Artikel 8.3a. Bekendmaking beschikkingen
-
-1. De bekendmaking van een beschikking geschiedt door toezending of uitreiking aan de belanghebbende.
-
-2. Indien de bekendmaking van de beschikking niet kan geschieden op de wijze als voorzien in het eerste lid, geschiedt zij op een andere geschikte wijze.
-
-3. De beschikking vermeldt de dagtekening van de beslissing, de gronden waarop deze berust, alsmede waar beroep kan worden ingesteld.
-
-##### Artikel 8.4a. Advisering
-
-[Afdeling 3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.3) is van toepassing op een beschikking op grond van [artikel 2.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&hoofdstuk=2&paragraaf=2.5&artikel=2.10a&z=2019-01-01&g=2019-01-01), met dien verstande dat in:
-
-- a. [artikel 3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:5), in plaats van «besluiten» wordt gelezen «beschikkingen» en in de [artikelen 3:6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:6), [3:8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:8) en [3:9](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:9) in plaats van «besluit» wordt gelezen «de beschikking»;
-
-- b. [artikel 3:7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:7), in plaats van «[Artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10)» wordt gelezen «[Artikel 11 van de Wet openbaarheid van bestuur BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028154&artikel=11)».
-
-### Hoofdstuk 9. Overgangsrecht
-
-#### Paragraaf 9.1. Overgangsbepalingen bij invoering van de Wet studiefinanciering BES
-
-#### Paragraaf 9.2. Overgangsbepalingen in verband met de omvorming van Ad-programma tot associate degree-opleiding
-
-### Hoofdstuk 10. Slotbepaling
-
-##### Artikel 4.9a. Versneld aflossen
-
-1. De debiteur is bevoegd om bovenop de termijnbetalingen kosteloos extra aflossingen te doen.
-
-2. Bij ministeriële regeling kunnen over de aflossing, genoemd in het eerste lid, regels worden gesteld met betrekking tot onder meer:
-
-- a. de wijze waarop extra aflossingen kunnen worden gedaan;
-
-- b. de goede uitvoering van versnelde aflossingen.
-
-### Hoofdstuk 5. Herziening
-
-### Hoofdstuk 6. Uitbetaling en invordering
-
-### Hoofdstuk 7. Inlichtingen en sancties
-
-#### Paragraaf 7.1. Verstrekken van inlichtingen
-
-#### Paragraaf 7.2. Strafbepalingen
-
-### Hoofdstuk 8. Overige bepalingen
-
-### Hoofdstuk 9. Overgangsrecht
-
-#### Paragraaf 9.1. Overgangsbepalingen bij invoering van de Wet studiefinanciering BES
-
-#### Paragraaf 9.2. Overgangsbepalingen in verband met de omvorming van Ad-programma tot associate degree-opleiding
-
-### Hoofdstuk 10. Slotbepaling
