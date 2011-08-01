@@ -157,13 +157,3 @@ Dit besluit treedt in werking met ingang 1 augustus 2011.
 Dit besluit wordt aangehaald als: Besluit opleidingseisen verpleegkundige 2011.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 5a
-
-Het theoretisch onderwijs voor verpleegkundigen wordt gegeven door docenten in de verpleegkunde en andere bevoegde personen in een onderwijsinstelling die een opleiding als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030267&paragraaf=2&artikel=2&z=2022-08-27&g=2022-08-27) verzorgt.
-
-#### § 3. Overgangsregeling
-
-#### § 4. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
