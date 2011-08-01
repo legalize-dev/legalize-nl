@@ -4,7 +4,7 @@ identifier: "BWBR0026766"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2011-07-01"
+last_updated: "2011-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026766"
 soort: "ministeriele-regeling"
@@ -110,7 +110,7 @@ Een dienstverrichter of een bevoegde instantie met toegang tot een berichtenbox,
 
 1. Een bevoegde instantie met toegang tot een berichtenbox kan van daaruit een procedurebericht verzenden naar een berichtenbox toegankelijk voor een dienstverrichter of een bevoegde instantie.
 
-2. [Artikel 5, eerste lid, onderdelen a, c en d, het tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=2&artikel=5&z=2011-07-01&g=2011-07-01), zijn van overeenkomstige toepassing op een bevoegde instantie met toegang tot een berichtenbox.
+2. [Artikel 5, eerste lid, onderdelen a, c en d, het tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=2&artikel=5&z=2011-08-01&g=2011-08-01), zijn van overeenkomstige toepassing op een bevoegde instantie met toegang tot een berichtenbox.
 
 ##### Artikel 7
 
@@ -120,7 +120,7 @@ Een dienstverrichter of een bevoegde instantie met toegang tot een berichtenbox,
 
 ##### Artikel 8
 
-Indien een verzonden procedurebericht een berichtenbox bereikt, wordt vanuit die berichtenbox een automatisch aangemaakt bericht verzonden naar een of meer systemen voor gegevensverwerking van de bevoegde instantie, dienstverrichter of persoon of ander als bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=2&artikel=10&z=2011-07-01&g=2011-07-01), die toegang tot die berichtenbox heeft, met de mededeling dat een nieuw bericht in die berichtenbox aanwezig is.
+Indien een verzonden procedurebericht een berichtenbox bereikt, wordt vanuit die berichtenbox een automatisch aangemaakt bericht verzonden naar een of meer systemen voor gegevensverwerking van de bevoegde instantie, dienstverrichter of persoon of ander als bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=2&artikel=10&z=2011-08-01&g=2011-08-01), die toegang tot die berichtenbox heeft, met de mededeling dat een nieuw bericht in die berichtenbox aanwezig is.
 
 ##### Artikel 9
 
@@ -150,7 +150,7 @@ Indien een verzonden procedurebericht een berichtenbox bereikt, wordt vanuit die
 
 1. Een kritische functie van het centraal loket is gedurende ieder kalenderjaar ten minste 99,7 procent van de tijd beschikbaar.
 
-2. Onder een kritische functie als bedoeld in het eerste lid, wordt verstaan een functie met betrekking tot het centraal loket, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=2&artikel=2&z=2011-07-01&g=2011-07-01), of één van de functies, bedoeld in de [artikelen 3 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=2&artikel=3&z=2011-07-01&g=2011-07-01).
+2. Onder een kritische functie als bedoeld in het eerste lid, wordt verstaan een functie met betrekking tot het centraal loket, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=2&artikel=2&z=2011-08-01&g=2011-08-01), of één van de functies, bedoeld in de [artikelen 3 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=2&artikel=3&z=2011-08-01&g=2011-08-01).
 
 3. De tijdsduur gedurende welke een kritische functie als bedoeld in het tweede lid, niet beschikbaar is, blijft bij de berekening van het percentage, bedoeld in het eerste lid, buiten beschouwing, indien dit het gevolg is van een calamiteit of van een geplande uitvoering van onderhoud, vervanging of uitbreiding met betrekking tot het centraal loket.
 
@@ -184,7 +184,7 @@ De nodige maatregelen van technische en organisatorische aard ter beveiliging va
 
 ##### Artikel 14
 
-De [artikelen 1 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=1&artikel=1&z=2011-07-01&g=2011-07-01) zijn tevens van toepassing op het via het centraal loket kunnen verzenden en ontvangen van een bijstandsbericht, met dien verstande dat voor ‘een bevoegde instantie’ telkens wordt gelezen Onze Minister, voor ‘dienstverrichter’: zakelijke afnemer, en voor ‘procedurebericht’: bijstandsbericht.
+De [artikelen 1 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=1&artikel=1&z=2011-08-01&g=2011-08-01) zijn tevens van toepassing op het via het centraal loket kunnen verzenden en ontvangen van een bijstandsbericht, met dien verstande dat voor ‘een bevoegde instantie’ telkens wordt gelezen Onze Minister, voor ‘dienstverrichter’: zakelijke afnemer, en voor ‘procedurebericht’: bijstandsbericht.
 
 #### § 3. De toegang tot het centraal loket
 
@@ -210,9 +210,9 @@ De [artikelen 1 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&pa
 
 ##### Artikel 17
 
-Een bevoegde instantie die met inachtneming van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=16&z=2011-07-01&g=2011-07-01) toegang heeft tot een berichtenbox, heeft vervolgens tevens tot die berichtenbox toegang door middel van een aansluiting op het koppelvlak voor procedureberichten, indien:
+Een bevoegde instantie die met inachtneming van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=16&z=2011-08-01&g=2011-08-01) toegang heeft tot een berichtenbox, heeft vervolgens tevens tot die berichtenbox toegang door middel van een aansluiting op het koppelvlak voor procedureberichten, indien:
 
-- a. een persoon die namens de bevoegde instantie met het realiseren daarvan is belast, een door hem ondertekende schriftelijk verzoek als bedoeld in [artikel 16, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=16&z=2011-07-01&g=2011-07-01), en een machtiging als bedoeld in artikel 16, eerste lid, onderdeel b, verstrekt, met dien verstande dat die op een aansluiting op het koppelvlak voor procedureberichten betrekking hebben;
+- a. een persoon die namens de bevoegde instantie met het realiseren daarvan is belast, een door hem ondertekende schriftelijk verzoek als bedoeld in [artikel 16, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=16&z=2011-08-01&g=2011-08-01), en een machtiging als bedoeld in artikel 16, eerste lid, onderdeel b, verstrekt, met dien verstande dat die op een aansluiting op het koppelvlak voor procedureberichten betrekking hebben;
 
 - b. zij met inachtneming van de specificaties en kenmerken van dat koppelvlak zorg draagt voor een verbinding die tot stand komt tussen een systeem voor gegevensverwerking waar zij toegang tot heeft en die berichtenbox.
 
@@ -286,17 +286,17 @@ Het contactpunt, bedoeld in [artikel 55 van de Dienstenwet](https://wetten.overh
 
 ##### Artikel 24
 
-1. In afwijking van [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=16&z=2011-07-01&g=2011-07-01), draagt Onze Minister er zorg voor dat een toegang voor een bevoegde instantie tot een betafase-berichtenbox vanaf het tijdstip van inwerkingtreding van deze regeling is omgezet in een toegang tot een berichtenbox via de webinterface berichtenbox.
+1. In afwijking van [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=16&z=2011-08-01&g=2011-08-01), draagt Onze Minister er zorg voor dat een toegang voor een bevoegde instantie tot een betafase-berichtenbox vanaf het tijdstip van inwerkingtreding van deze regeling is omgezet in een toegang tot een berichtenbox via de webinterface berichtenbox.
 
-2. In afwijking van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=20&z=2011-07-01&g=2011-07-01) draagt Onze Minister er zorg voor dat een bevoegde instantie die voorafgaand aan de inwerkingtreding van deze regeling toegang tot de hulpvoorziening loketinformatie had, vanaf het tijdstip van inwerkingtreding van deze regeling toegang tot die hulpvoorziening kan blijven behouden.
+2. In afwijking van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=20&z=2011-08-01&g=2011-08-01) draagt Onze Minister er zorg voor dat een bevoegde instantie die voorafgaand aan de inwerkingtreding van deze regeling toegang tot de hulpvoorziening loketinformatie had, vanaf het tijdstip van inwerkingtreding van deze regeling toegang tot die hulpvoorziening kan blijven behouden.
 
 ##### Artikel 25
 
-1. Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, met uitzondering van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=2&artikel=9&z=2011-07-01&g=2011-07-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=15&z=2011-07-01&g=2011-07-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=19&z=2011-07-01&g=2011-07-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=4&artikel=22&z=2011-07-01&g=2011-07-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=4&artikel=23&z=2011-07-01&g=2011-07-01).
+1. Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, met uitzondering van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=2&artikel=9&z=2011-08-01&g=2011-08-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=15&z=2011-08-01&g=2011-08-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=19&z=2011-08-01&g=2011-08-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=4&artikel=22&z=2011-08-01&g=2011-08-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=4&artikel=23&z=2011-08-01&g=2011-08-01).
 
-2. De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=2&artikel=9&z=2011-07-01&g=2011-07-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=15&z=2011-07-01&g=2011-07-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=19&z=2011-07-01&g=2011-07-01) treden in werking met ingang van 16 december 2009.
+2. De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=2&artikel=9&z=2011-08-01&g=2011-08-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=15&z=2011-08-01&g=2011-08-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=19&z=2011-08-01&g=2011-08-01) treden in werking met ingang van 16 december 2009.
 
-3. De [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=4&artikel=22&z=2011-07-01&g=2011-07-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=4&artikel=23&z=2011-07-01&g=2011-07-01) treden in werking met ingang van 28 december 2009.
+3. De [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=4&artikel=22&z=2011-08-01&g=2011-08-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=4&artikel=23&z=2011-08-01&g=2011-08-01) treden in werking met ingang van 28 december 2009.
 
 ##### Artikel 26
 
@@ -360,36 +360,36 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 20b
 
-Dit onderdeel is nog niet inwerking getreden
+Het centraal loket is zodanig ingericht dat het ten behoeve van de bevoegde instanties documenten kan verwerken die elektronisch ondertekend zijn met een geavanceerde elektronische XML-, CMS- of PDF-handtekening in het BES- of EPES-formaat en die voldoet aan de technische specificaties uit de bijlage van besluit nr. 2011/130/EU van de Commissie van 25 februari 2011 tot vaststelling van minimumvoorschriften voor de grensoverschrijdende verwerking van documenten die door de bevoegde autoriteiten elektronisch zijn ondertekend krachtens Richtlijn 2006/123/EG van het Europees Parlement en de Raad betreffende diensten op de interne markt (PbEU L 53).
 
 #### § 4. Het interne markt informatiesysteem
 
 #### § 5. Overgangs- en slotbepalingen
 
-## Bijlage. behorende bij de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=1&artikel=1&z=2011-07-01&g=2011-07-01), [15, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=15&z=2011-07-01&g=2011-07-01), [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=16&z=2011-07-01&g=2011-07-01), en [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=18&z=2011-07-01&g=2011-07-01)
+## Bijlage. behorende bij de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=1&artikel=1&z=2011-08-01&g=2011-08-01), [15, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=15&z=2011-08-01&g=2011-08-01), [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=16&z=2011-08-01&g=2011-08-01), en [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=18&z=2011-08-01&g=2011-08-01)
 
 ### § 1a. SMTP-koppelvlak voor procedureberichten
 
-Onder het geheel van standaarden en elektronische voorzieningen, bedoeld in [artikel 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=1&artikel=1&z=2011-07-01&g=2011-07-01), wordt verstaan:
+Onder het geheel van standaarden en elektronische voorzieningen, bedoeld in [artikel 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=1&artikel=1&z=2011-08-01&g=2011-08-01), wordt verstaan:
 
 ### § 1b. Digikoppeling-koppelvlak voor procedureberichten
 
-Indien de bevoegde instantie daarvan gebruik wil maken wordt onder het geheel van standaarden en elektronische voorzieningen, bedoeld in [artikel 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=1&artikel=1&z=2011-07-01&g=2011-07-01), verstaan:
+Indien de bevoegde instantie daarvan gebruik wil maken wordt onder het geheel van standaarden en elektronische voorzieningen, bedoeld in [artikel 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=1&artikel=1&z=2011-08-01&g=2011-08-01), verstaan:
 
 ### § 2. Aanmeldingsgegevens dienstverrichter voor berichtenbox
 
-De aanmeldingsgegevens, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=15&z=2011-07-01&g=2011-07-01), hebben betrekking op:
+De aanmeldingsgegevens, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=15&z=2011-08-01&g=2011-08-01), hebben betrekking op:
 
 ### § 3. Aanmeldingsgegevens dienstverrichter voor toegangsuitbreiding
 
-De aanmeldingsgegevens, bedoeld in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=15&z=2011-07-01&g=2011-07-01), hebben betrekking op een gebruikersnaam om degene aan te kunnen duiden aan wie de dienstverrichter toegang tot een berichtenbox wil verschaffen.
+De aanmeldingsgegevens, bedoeld in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=15&z=2011-08-01&g=2011-08-01), hebben betrekking op een gebruikersnaam om degene aan te kunnen duiden aan wie de dienstverrichter toegang tot een berichtenbox wil verschaffen.
 
 ### § 4. Aanmeldingsgegevens bevoegde instantie voor berichtenbox
 
-De aanmeldingsgegevens, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=16&z=2011-07-01&g=2011-07-01), hebben betrekking op:
+De aanmeldingsgegevens, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=16&z=2011-08-01&g=2011-08-01), hebben betrekking op:
 
 ### § 5. Specificaties en kenmerken metagegevens complexe webformulieren
 
-Onder de specificaties en kenmerken, bedoeld in [artikel 18, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=18&z=2011-07-01&g=2011-07-01), wordt verstaan het geheel aan specificaties en kenmerken die in de standaard voor Samenwerkende Catalogi versie 2.1 is opgenomen.
+Onder de specificaties en kenmerken, bedoeld in [artikel 18, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=18&z=2011-08-01&g=2011-08-01), wordt verstaan het geheel aan specificaties en kenmerken die in de standaard voor Samenwerkende Catalogi versie 2.1 is opgenomen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
