@@ -4,7 +4,7 @@ identifier: "BWBR0030325"
 country: "nl"
 rank: "zbo"
 publication_date: "2011-08-02"
-last_updated: "2011-07-01"
+last_updated: "2011-08-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030325"
 soort: "zbo"
@@ -105,9 +105,9 @@ In het geval van cliënten, die doof én blind dan wel doof én zeer slechtziend
 
 ##### Artikel 6. : Afwijkende vergoeding doventolkopdrachten
 
-1. Voor groepsgewijze toepassingen en opdrachten in het buitenland wordt afgeweken van de vergoedingen, bedoeld in [artikel 4, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030325&artikel=4&z=2011-08-02&g=2011-07-01), en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030325&artikel=5&z=2011-08-02&g=2011-07-01), en wordt op basis van maatwerk een passende vergoeding verstrekt.
+1. Voor groepsgewijze toepassingen en opdrachten in het buitenland wordt afgeweken van de vergoedingen, bedoeld in [artikel 4, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030325&artikel=4&z=2011-08-02&g=2011-08-02), en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030325&artikel=5&z=2011-08-02&g=2011-08-02), en wordt op basis van maatwerk een passende vergoeding verstrekt.
 
-2. In afwijking van [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030325&artikel=4&z=2011-08-02&g=2011-07-01), wordt getolkte tijd dubbel vergoed indien er sprake is van teamtolken, waarbij maximaal twee doventolken tegelijkertijd voor één cliënt optreden én indien wordt aangetoond dat is voldaan aan de volgende voorwaarden:
+2. In afwijking van [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030325&artikel=4&z=2011-08-02&g=2011-08-02), wordt getolkte tijd dubbel vergoed indien er sprake is van teamtolken, waarbij maximaal twee doventolken tegelijkertijd voor één cliënt optreden én indien wordt aangetoond dat is voldaan aan de volgende voorwaarden:
 
 - a. de opdrachtduur is langer dan twee klokuren;
 
