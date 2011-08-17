@@ -4,7 +4,7 @@ identifier: "BWBV0004057"
 country: "nl"
 rank: "verdrag"
 publication_date: "2011-08-17"
-last_updated: "2009-12-16"
+last_updated: "2011-08-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004057"
 soort: "verdrag"
@@ -96,7 +96,7 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een of van beide 
 
 - g. wordt verstaan onder de uitdrukking „belasting” de Australische belasting of de Arubaanse belasting, al naargelang de context vereist; en
 
-- h. wordt verstaan onder de uitdrukking „wijziging van verrekenprijzen” een wijziging die door de bevoegde autoriteit van een partij wordt toegepast op de voordelen van een onderneming tengevolge van de toepassing van de nationale wet inzake belastingen bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004057&artikel=2&z=2009-12-16&g=2009-12-16) van die partij ter zake van verrekenprijzen.
+- h. wordt verstaan onder de uitdrukking „wijziging van verrekenprijzen” een wijziging die door de bevoegde autoriteit van een partij wordt toegepast op de voordelen van een onderneming tengevolge van de toepassing van de nationale wet inzake belastingen bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004057&artikel=2&z=2011-08-17&g=2011-08-17) van die partij ter zake van verrekenprijzen.
 
 2. Wat betreft de toepassing, op enig moment, van dit Verdrag door een partij, heeft, tenzij de context anders vereist, elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking op dat tijdstip heeft volgens de wetgeving van die partij met betrekking tot de belastingen waarop dit Verdrag van toepassing is, waarbij elke betekenis volgens de toepasselijke belastingwetgeving van die partij prevaleert boven een betekenis die volgens andere wetgeving van die partij aan die uitdrukking wordt gegeven.
 
@@ -146,7 +146,7 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een of van beide 
 
 - b. Dergelijke pensioenen en andere soortgelijke beloningen zijn evenwel uitsluitend in de andere partij belastbaar indien deze inkomsten in die partij aan belasting zijn onderworpen en indien de natuurlijke persoon inwoner is en onderdaan van die partij en niet tevens onderdaan van de eerstgenoemde partij.
 
-3. Niettegenstaande de bepalingen van het eerste en tweede lid mogen salarissen, lonen en andere soortgelijke beloningen ter zake van diensten verleend in het kader van een op winst gericht bedrijf uitgeoefend door een partij of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan worden belast in overeenstemming met de wetten van een partij. De bepalingen van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004057&artikel=5&z=2009-12-16&g=2009-12-16) zijn van toepassing op pensioenen ter zake van diensten verleend in het kader van een op winst gericht bedrijf, uitgeoefend door een partij of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan.
+3. Niettegenstaande de bepalingen van het eerste en tweede lid mogen salarissen, lonen en andere soortgelijke beloningen ter zake van diensten verleend in het kader van een op winst gericht bedrijf uitgeoefend door een partij of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan worden belast in overeenstemming met de wetten van een partij. De bepalingen van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004057&artikel=5&z=2011-08-17&g=2011-08-17) zijn van toepassing op pensioenen ter zake van diensten verleend in het kader van een op winst gericht bedrijf, uitgeoefend door een partij of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan.
 
 ##### Artikel 7. Studenten
 
