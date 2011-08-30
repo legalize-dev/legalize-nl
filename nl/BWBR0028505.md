@@ -4,7 +4,7 @@ identifier: "BWBR0028505"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2011-08-30"
-last_updated: "2010-10-10"
+last_updated: "2011-08-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028505"
 soort: "wet-BES"
@@ -37,7 +37,7 @@ entry_into_force: "2010-10-10"
 
 ##### Artikel 1
 
-1. Voor de toepassing van de Pensioenwet ambtenaren BES en van de Wet vergoeding behandelings- en verplegingskosten ambtenaren BES worden ongevallen, welke aan ambtenaren buiten diensttijd overkomen, terwijl zij terzake van opleidingen, welke van belang zijn voor de dienstuitoefening:
+1. Voor de toepassing van de [Pensioenwet ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028714) worden ongevallen, welke aan ambtenaren buiten diensttijd overkomen, terwijl zij terzake van opleidingen, welke van belang zijn voor de dienstuitoefening:
 
 lessen geven of volgen
 
