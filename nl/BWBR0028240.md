@@ -4,7 +4,7 @@ identifier: "BWBR0028240"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2011-08-30"
-last_updated: "2011-01-01"
+last_updated: "2011-08-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028240"
 soort: "wet-BES"
@@ -87,25 +87,23 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 5
 
-1. Met inachtneming van [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028240&artikel=3&z=2010-10-10&g=2011-01-01), kan Onze Minister aan weerkorpsen een bijdrage ten laste van de begroting van het Rijk toekennen ten behoeve van de voorbereiding op hun taak alsmede ten behoeve van de instandhouding van het materieel.
+1. Met inachtneming van [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028240&artikel=3&z=2011-08-30&g=2011-08-30), kan Onze Minister aan weerkorpsen een bijdrage ten laste van de begroting van het Rijk toekennen ten behoeve van de voorbereiding op hun taak alsmede ten behoeve van de instandhouding van het materieel.
 
-2. Indien weerkorpsen overeenkomstig de bepalingen van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028240&artikel=4&z=2010-10-10&g=2011-01-01) worden ingezet, ontvangen de leden die worden ingezet hiervoor een door Onze Minister vast te stellen vergoeding.
+2. Indien weerkorpsen overeenkomstig de bepalingen van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028240&artikel=4&z=2011-08-30&g=2011-08-30) worden ingezet, ontvangen de leden die worden ingezet hiervoor een door Onze Minister vast te stellen vergoeding.
 
 ##### Artikel 6
 
-De kosten verbonden aan operationele inzet, daaronder begrepen de vergoeding, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028240&artikel=5&z=2010-10-10&g=2011-01-01), alsmede eventuele kosten voor transport en verblijf, komen voor rekening van het orgaan dat om de inzet heeft verzocht.
+De kosten verbonden aan operationele inzet, daaronder begrepen de vergoeding, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028240&artikel=5&z=2011-08-30&g=2011-08-30), alsmede eventuele kosten voor transport en verblijf, komen voor rekening van het orgaan dat om de inzet heeft verzocht.
 
 ##### Artikel 7
 
-1. Op het lid van een weerkorps dat lijdt aan in en door de dienst ontstane ziekten of gebreken is de Wet vergoeding behandelings- en verplegingskosten ambtenaren BES van overeenkomstige toepassing.
-
-2. Voor de toepassing van de Wet vergoeding behandelings- en verplegingskosten ambtenaren BES geldt het lid van een weerkorps als een overheidsdienaar als bedoeld in artikel 8, eerste lid, van de Wet vergoeding behandelings- en verplegingskosten ambtenaren BES.
+Vervallen
 
 ##### Artikel 8
 
-1. Degene die handelt in strijd met het verbod, bedoeld in [artikel 2, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028240&artikel=2&z=2010-10-10&g=2011-01-01), wordt gestraft met hechtenis van ten hoogste twee jaar of een geldboete van de vijfde categorie.
+1. Degene die handelt in strijd met het verbod, bedoeld in [artikel 2, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028240&artikel=2&z=2011-08-30&g=2011-08-30), wordt gestraft met hechtenis van ten hoogste twee jaar of een geldboete van de vijfde categorie.
 
-2. Overtreding van de in [artikel 2, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028240&artikel=2&z=2010-10-10&g=2011-01-01), gestelde verboden wordt beschouwd als een misdrijf.
+2. Overtreding van de in [artikel 2, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028240&artikel=2&z=2011-08-30&g=2011-08-30), gestelde verboden wordt beschouwd als een misdrijf.
 
 ##### Artikel 9
 
