@@ -4,7 +4,7 @@ identifier: "BWBR0002690"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-07-01"
-last_updated: "2009-07-01"
+last_updated: "2011-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002690"
 soort: "AMvB"
@@ -56,11 +56,17 @@ Onze voornoemde Minister is belast met de voorbereidende behandeling van het ver
 
 ##### Artikel 3
 
-1. Het in [artikel 7, vijfde lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=7) bedoelde recht bedraagt € 487,50, met dien verstande dat het bedrag slechts eenmaal is verschuldigd, indien het verzoek tot wijziging van de geslachtsnaam betrekking heeft op:
+1. Het in [artikel 7, vijfde lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=7) bedoelde recht bedraagt € 835,–. Het bedrag is eenmaal is verschuldigd indien het verzoek tot wijziging van de geslachtsnaam betrekking heeft op een meerderjarige en:
 
-- a. een meerderjarige en diens minderjarige kind of kinderen over wie deze het gezag uitoefent of
+- a. zijn kind of twee minderjarige kinderen over wie hij het gezag uitoefent, of
 
-- b. minderjarigen die tot hetzelfde gezin behoren.
+- b. zijn kind of twee minderjarige kinderen die tot hetzelfde gezin behoren.
+
+Het bedrag is tweemaal verschuldigd indien het verzoek tot wijziging van de geslachtsnaam betrekking heeft op een meerderjarige en:
+
+- a. zijn drie of meer minderjarige kinderen over wie hij het gezag uitoefent, of
+
+- b. zijn drie of meer minderjarige kinderen die tot hetzelfde gezin behoren.
 
 2. Het verschuldigde bedrag moet worden gestort op de betaalrekening van het Ministerie van Justitie.
 
@@ -74,7 +80,7 @@ Vervallen
 
 ##### Artikel 6
 
-Ten aanzien van de echtgenoot en de kinderen van de regerende Koning, ten aanzien van de echtgenoten van die kinderen, alsmede ten aanzien van andere personen, indien zij de Kroon van de regerende Koning kunnen beërven, en hun echtgenoten, zullen ingeval van naamswijziging de [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002690&artikel=1&z=2009-07-01&g=2009-07-01), tot en met [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002690&artikel=4&z=2009-07-01&g=2009-07-01) van dit besluit niet van toepassing zijn.
+Ten aanzien van de echtgenoot en de kinderen van de regerende Koning, ten aanzien van de echtgenoten van die kinderen, alsmede ten aanzien van andere personen, indien zij de Kroon van de regerende Koning kunnen beërven, en hun echtgenoten, zullen ingeval van naamswijziging de [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002690&artikel=1&z=2011-09-01&g=2011-09-01), tot en met [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002690&artikel=4&z=2011-09-01&g=2011-09-01) van dit besluit niet van toepassing zijn.
 
 ##### Artikel 7
 
