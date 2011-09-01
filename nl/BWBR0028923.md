@@ -4,7 +4,7 @@ identifier: "BWBR0028923"
 country: "nl"
 rank: "amvb"
 publication_date: "2011-09-01"
-last_updated: "2011-05-25"
+last_updated: "2011-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028923"
 soort: "AMvB"
@@ -83,6 +83,8 @@ Wijzigt het Besluit administratieve bepalingen scheepvaartverkeer.
 Wijzigt het Besluit toepassingverklaring Internationale Bepalingen ter voorkoming van aanvaringen op zee, 1972.
 
 ##### Artikel X
+
+Wijzigt het Scheepvaartreglement Eemsmonding.
 
 Dit onderdeel is nog niet inwerking getreden
 
