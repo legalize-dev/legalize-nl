@@ -4,7 +4,7 @@ identifier: "BWBV0002275"
 country: "nl"
 rank: "verdrag"
 publication_date: "2011-09-01"
-last_updated: "1990-12-17"
+last_updated: "2011-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0002275"
 soort: "verdrag"
@@ -439,15 +439,21 @@ Indien een lichaam van een Verdragsluitende Staat in de andere Verdragsluitende 
 
 ##### Artikel 27. Uitwisseling van inlichtingen
 
-1. De bevoegde autoriteiten van de Verdragsluitende Staten wisselen de inlichtingen uit die nodig zijn om uitvoering te geven aan de bepalingen van dit Verdrag en van de nationale wetten van de Verdragsluitende Staten met betrekking tot de belastingen waarop het Verdrag van toepassing is, voor zover de heffing van die belastingen niet in strijd is met het Verdrag. De uitwisseling van inlichtingen wordt niet beperkt door de bepalingen van artikel 1. Alle inlichtingen die door een Verdragsluitende Staat worden ontvangen, worden op dezelfde wijze geheim gehouden als inlichtingen die krachtens de nationale wetgeving van die Staat zijn verkregen, en worden alleen ter kennis gebracht van personen of autoriteiten (daaronder begrepen rechterlijke instanties en administratiefrechtelijke lichamen) die betrokken zijn bij de vaststelling of invordering van, de tenuitvoerlegging of de vervolging ter zake van, of de beslissing in beroepszaken betreffende de belastingen waarop het Verdrag van toepassing is. Deze personen of autoriteiten mogen van deze inlichtingen alleen voor deze doeleinden gebruik maken. Zij mogen de inlichtingen bekend maken in openbare rechtszittingen of in rechterlijke beslissingen.
+1. De bevoegde autoriteiten van de Verdragsluitende Staten wisselen de inlichtingen uit die naar verwachting van belang zullen zijn voor het uitvoeren van de bepalingen van dit Verdrag of voor de toepassing of handhaving van de nationale wetgeving met betrekking tot belastingen van elke soort en benaming die worden geheven ten behoeve van de Verdragsluitende Staten, of van de staatkundige onderdelen of plaatselijke publiekrechtelijke lichamen daarvan, voor zover de heffing ingevolge die wetgeving niet in strijd is met het Verdrag. De uitwisseling van inlichtingen wordt niet beperkt door de artikelen 1 en 2.
 
-2. In geen geval worden de bepalingen van het eerste lid aldus uitgelegd dat zij aan een Verdragsluitende Staat de verplichting opleggen:
+2. Alle uit hoofde van het eerste lid door een Verdragsluitende Staat ontvangen inlichtingen worden op dezelfde wijze vertrouwelijk behandeld als inlichtingen die volgens de nationale wetgeving van die Verdragsluitende Staat zijn verkregen en worden uitsluitend ter kennis gebracht van personen of autoriteiten (met inbegrip van rechterlijke en bestuursrechtelijke instanties) die betrokken zijn bij de vaststelling of inning van, de tenuitvoerlegging of vervolging ter zake van, de beslissing in beroepszaken betrekking hebbende op de in het eerste lid bedoelde belastingen, of het toezicht daarop. Deze personen of autoriteiten mogen uitsluitend voor deze doeleinden van de inlichtingen gebruikmaken. Zij mogen de inlichtingen bekendmaken in openbare rechtszittingen of in gerechtelijke beslissingen. Niettegenstaande het voorgaande, mogen inlichtingen ontvangen door een Verdragsluitende Staat voor andere doeleinden worden gebruikt, indien dat krachtens de wetgeving van beide Verdragsluitende Staten is toegestaan en de bevoegde autoriteit van de aangezochte Verdragsluitende Staat een dergelijk gebruik toestaat.
 
-- a). administratieve maatregelen te nemen die in strijd zijn met de wetgeving of de administratieve praktijk van die Staat of van de andere Verdragsluitende Staat;
+3. In geen geval worden de bepalingen van het eerste en tweede lid zo uitgelegd dat zij een Verdragsluitende Staat de verplichting opleggen:
 
-- b). inlichtingen te verstrekken die niet verkrijgbaar zijn volgens de wetgeving en in de normale gang van zaken in de administratie van die Staat of van de andere Verdragsluitende Staat;
+- a. bestuursrechtelijke maatregelen te nemen die in strijd zijn met de wetgeving en bestuursrechtelijke praktijk van die of van de andere Verdragsluitende Staat;
 
-- c). inlichtingen te verstrekken die een handels-, bedrijfs-, nijverheids- of beroepsgeheim of een fabrieks- of handelswerkwijze zouden onthullen, of inlichtingen waarvan de verstrekking in strijd zou zijn met de openbare orde.
+- b. inlichtingen te verstrekken die niet verkrijgbaar zijn volgens de wetgeving of in de normale gang van zaken in de administratie van die of van de andere Verdragsluitende Staat;
+
+- c. inlichtingen te verstrekken waardoor een handelsgeheim, zakelijk geheim, industrieel, commercieel of beroepsgeheim of handelsproces zou worden onthuld, dan wel inlichtingen waarvan het verstrekken in strijd zou zijn met de openbare orde (ordre public).
+
+4. Indien inlichtingen worden verzocht door een Verdragsluitende Staat in overeenstemming met dit artikel, wendt de andere Verdragsluitende Staat zijn maatregelen ten behoeve van het verzamelen van inlichtingen aan om de verzochte inlichtingen te verkrijgen, ongeacht het feit dat de andere Verdragsluitende Staat ten behoeve van zijn eigen belastingheffing niet over dergelijke inlichtingen hoeft te beschikken. Op de in de vorige zin vervatte verplichting zijn de beperkingen van het derde lid van toepassing, maar deze beperkingen mogen in geen geval zodanig worden uitgelegd dat het een Verdragsluitende Staat toegestaan is het verstrekken van inlichtingen te weigeren uitsluitend op grond van het feit dat hij geen nationaal belang heeft bij dergelijke inlichtingen.
+
+5. De bepalingen van het derde lid mogen in geen geval zodanig worden uitgelegd dat het een Verdragsluitende Staat toegestaan is het verstrekken van inlichtingen te weigeren uitsluitend op grond van het feit dat de betreffende gegevens berusten bij een bank, een andere financiële instelling, gevolmachtigde of persoon die bij wijze van vertegenwoordiging of als vertrouwenspersoon optreedt, dan wel omdat deze betrekking hebben op eigendomsbelangen in een persoon.
 
 ##### Artikel 28. Beperkingen van voordelen
 
