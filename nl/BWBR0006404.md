@@ -4,7 +4,7 @@ identifier: "BWBR0006404"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2010-04-23"
+last_updated: "2011-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006404"
 soort: "AMvB"
@@ -114,7 +114,7 @@ Voor rechtsbijstand terzake van het treffen van een afbetalingsregeling, het aan
 
 1. Geen toevoeging wordt verleend indien de rechtsbijstand uitsluitend is verzocht voor:
 
-- a. het indienen van aanvragen om toelating tot Nederland op grond van de Vreemdelingenwet, tenzij de rechtzoekende met onmiddellijke uitzetting of inbewaringstelling wordt bedreigd of de aanvraag betrekking heeft op een verzoek om toelating als vluchteling en niet kan worden volstaan met het verlenen van rechtshulp die voorafgaat aan het gehoor;
+- a. het indienen van aanvragen om toelating tot Nederland op grond van [afdeling 3 van hoofdstuk 3 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&afdeling=3), tenzij de rechtzoekende met onmiddellijke uitzetting of inbewaringstelling wordt bedreigd;
 
 - b. het aanvragen van een uitkering;
 
