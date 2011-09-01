@@ -4,7 +4,7 @@ identifier: "BWBR0029632"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-09-01"
-last_updated: "2011-02-20"
+last_updated: "2011-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029632"
 soort: "ministeriele-regeling"
@@ -52,8 +52,8 @@ In afwijking van de kolom ‘beleid’ voor de frequentieband van 87.5 MHz tot 1
 
 ##### Artikel III
 
-1. Dit besluit treedt, met uitzondering van [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0029632&artikel=I&z=2011-02-20&g=2011-02-20), voor zover het de frequentieband 226.504 MHz - 228.216 MHz betreft, in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
+1. Dit besluit treedt, met uitzondering van [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0029632&artikel=I&z=2011-09-01&g=2011-09-01), voor zover het de frequentieband 226.504 MHz - 228.216 MHz betreft, in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-2. [Artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0029632&artikel=I&z=2011-02-20&g=2011-02-20), voor zover het de frequentieband 226.504 MHz-228.216 MHz betreft, treedt in werking op 1 september 2011.
+2. [Artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0029632&artikel=I&z=2011-09-01&g=2011-09-01), voor zover het de frequentieband 226.504 MHz-228.216 MHz betreft, treedt in werking op 1 september 2011.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst. Dit besluit ligt met de toelichting vanaf de dag van dagtekening van de Staatscourant waarin het besluit wordt geplaatst gedurende 6 weken ter inzage bij het Informatiecentrum van het Ministerie van Economische Zaken, Landbouw en Innovatie, begane grond, Bezuidenhoutseweg 30, 2591 AV te Den Haag.
