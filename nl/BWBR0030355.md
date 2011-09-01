@@ -4,7 +4,7 @@ identifier: "BWBR0030355"
 country: "nl"
 rank: "amvb"
 publication_date: "2011-09-01"
-last_updated: "2010-07-01"
+last_updated: "2011-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030355"
 soort: "AMvB"
@@ -48,11 +48,11 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit vergoedingen rechtsbijstand 2000.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit rechtsbijstand- en toevoegcriteria.
 
 ##### Artikel III
 
@@ -62,6 +62,8 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+1. Dit besluit treedt in werking met ingang van 1 september 2011.
+
+2. [Artikel III, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030355&artikel=III&z=2011-09-01&g=2011-09-01), werkt terug tot en met 1 juli 2010.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
