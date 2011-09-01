@@ -4,7 +4,7 @@ identifier: "BWBR0027813"
 country: "nl"
 rank: "amvb"
 publication_date: "2011-09-01"
-last_updated: "2010-09-01"
+last_updated: "2011-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027813"
 soort: "AMvB"
@@ -46,6 +46,8 @@ Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijks
 
 Hebben goedgevonden en verstaan:
 
+Treedt in werking op het tijdstip waarop de Wijzigingswet Wet op de Raad van State (herstructurering Raad van State) in werking treedt.
+
 ##### Artikel I
 
 Wijzigt het Besluit rechtspositie Raad van State, Algemene Rekenkamer en Nationale ombudsman.
@@ -60,18 +62,12 @@ Wijzigt het Besluit rechtspositionele voorschriften leden Raad van State en Alge
 
 ##### Artikel IV
 
-De personen die in de periode van 1 januari 2009 tot en met 12 februari 2009 aanspraak hadden op een vergoeding op grond van het op dat moment van toepassing zijnde koninklijk besluit van 31 maart 1993, houdende regeling van een vergoeding voor de vice-president van de Raad van State en de staatsraden, alsmede de president en de overige leden in gewone dienst van de Algemene Rekenkamer voor de kosten die aan de vervulling van het ambt zijn verbonden (Stb. 219) en het op dat moment van toepassing zijnde [koninklijk besluit van 19 november 1990, houdende nadere regeling van de rechtspositie van de Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0004905) (Stb. 581) ontvangen eenmalig de volgende vergoeding:
-
-- a. de vice-president van de Raad van State, de president van de Algemene Rekenkamer en de Nationale ombudsman: € 28,57;
-
-- b. de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State en de staatsraden, de overige leden in gewone dienst van de Algemene Rekenkamer en de substituut-ombudsmannen: € 22,86; en
-
-- c. de staatsraden in buitengewone dienst, bedoeld in [artikel 4, derde lid, van de Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&artikel=4): een zodanig deel van het bedrag, bedoeld in onderdeel b, als overeenkomt met de vastgestelde omvang van de te vervullen taak.
+Vervallen
 
 ##### Artikel V
 
-1. Dit besluit treedt in werking op het tijdstip waarop de [wet van 22 april 2010 houdende wijziging van de Wet op de Raad van State in verband met de herstructurering van de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0027618) (Stb. 175) in werking treedt, met dien verstande dat [artikel I, onderdeel A, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027813&artikel=I&z=2010-09-01&g=2010-09-01), terugwerkt tot en met 13 februari 2009 en [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0027813&artikel=IV&z=2010-09-01&g=2010-09-01) terugwerkt tot en met 1 januari 2009.
+1. Dit besluit treedt in werking op het tijdstip waarop de [wet van 22 april 2010 houdende wijziging van de Wet op de Raad van State in verband met de herstructurering van de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0027618) (Stb. 175) in werking treedt, met dien verstande dat [artikel I, onderdeel A, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027813&artikel=I&z=2011-09-01&g=2011-09-01), terugwerkt tot en met 13 februari 2009 en [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0027813&artikel=IV&z=2011-09-01&g=2011-09-01) terugwerkt tot en met 1 januari 2009.
 
-2. [Artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0027813&artikel=IV&z=2010-09-01&g=2010-09-01) vervalt een jaar na het tijdstip van inwerkingtreding van dit besluit.
+2. [Artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0027813&artikel=IV&z=2011-09-01&g=2011-09-01) vervalt een jaar na het tijdstip van inwerkingtreding van dit besluit.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
