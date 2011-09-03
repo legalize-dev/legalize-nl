@@ -4,7 +4,7 @@ identifier: "BWBR0013753"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2011-01-01"
+last_updated: "2011-09-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013753"
 soort: "AMvB"
@@ -86,9 +86,9 @@ In dit besluit wordt verstaan onder:
 
 - a. huur van een parkeerplaats, voor zover deze onderdeel uitmaakt van de ter beschikking gestelde verblijfsvoorziening;
 
-- b. beveiliging als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=4&z=2011-01-01&g=2011-01-01);
+- b. beveiliging als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=4&z=2011-09-03&g=2011-09-03);
 
-- c. informatie- en communicatievoorzieningen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=5&z=2011-01-01&g=2011-01-01);
+- c. informatie- en communicatievoorzieningen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=5&z=2011-09-03&g=2011-09-03);
 
 - d. gemeentelijke belastingen als bedoeld in [hoofdstuk XV van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&hoofdstuk=XV) en waterschapsbelastingen als bedoeld in [artikel 123, eerste lid, onderdeel a, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=123);
 
@@ -102,9 +102,19 @@ In dit besluit wordt verstaan onder:
 
 - i. schoonmaak.
 
-3. Een verstrekking als bedoeld in het eerste of tweede lid of een vergoeding als bedoeld in het tweede lid wordt in aanmerking genomen als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31).
+3. In plaats van de in het eerste en tweede lid bedoelde voorziening kunnen bewindslieden die niet zijn verhuisd en van wie de woning zich op een afstand van ten minste 50 kilometer van het ministerie bevindt en die op het tijdstip van benoeming reeds een gemeubileerde verblijfsvoorziening binnen een afstand van 25 kilometer van het ministerie in eigendom hebben, aanspraak maken op een bedrag ter vergoeding voor verblijfkosten waarvan de hoogte afhankelijk is van de afstand van de woonplaats of deel van de woonplaats van de betrokkene tot het gebouw van het betreffende ministerie.
 
-4. Onze Minister kan nadere regels stellen ter uitvoering van het eerste lid.
+4. De hoogte van het in het derde lid bedoelde bedrag wordt als volgt berekend:
+
+50 kilometer: 40 * X
+
+75 kilometer: 85 * X
+
+150 kilometer en meer: 140 * X
+
+waarbij X gelijk is aan de het voor dienstreizen van het burgerlijk rijkspersoneel geldende bedrag voor vergoeding wegens verblijfskosten in verband met logies. De vergoeding, behorend bij afstanden, afgerond op hele kilometers, tussen de in bovenstaand schema genoemde afstanden, wordt berekend naar evenredigheid met het verschil tussen de in het schema aangegeven vergoedingen bij de naast hogere en naast lagere afstand. Het bedrag van de vergoeding wordt afgerond op hele euro’s.
+
+5. Een verstrekking als bedoeld in het eerste of tweede lid of een vergoeding als bedoeld in het tweede of derde lid wordt in aanmerking genomen als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31).
 
 ##### Artikel 4
 
@@ -112,7 +122,7 @@ In dit besluit wordt verstaan onder:
 
 2. Indien dit om veiligheidsredenen noodzakelijk wordt geoordeeld, wordt aan ministers en staatssecretarissen een gemeubileerde verblijfsvoorziening ter beschikking gesteld.
 
-3. [Artikel 3, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=3&z=2011-01-01&g=2011-01-01), is van overeenkomstige toepassing.
+3. [Artikel 3, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=3&z=2011-09-03&g=2011-09-03), is van overeenkomstige toepassing.
 
 ##### Artikel 5
 
@@ -264,10 +274,12 @@ Ministers en staatssecretarissen hebben recht op de vergoeding van gemaakte kost
 
 Bij toepassing van [artikel 39c van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=39c):
 
-- a. wordt de vergoeding, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=8&z=2011-01-01&g=2011-01-01), vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van [artikel 2.10 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.10);
+- a. wordt de vergoeding, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=8&z=2011-09-03&g=2011-09-03), vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in [kolom IV van artikel 2.10 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.10);
 
-- b. blijven de [artikelen 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=3&z=2011-01-01&g=2011-01-01), [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=8&z=2011-01-01&g=2011-01-01), en [10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=10&z=2011-01-01&g=2011-01-01), buiten toepassing; en
+- b. blijven de [artikelen 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=3&z=2011-09-03&g=2011-09-03), [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=8&z=2011-09-03&g=2011-09-03), en [10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=10&z=2011-09-03&g=2011-09-03), buiten toepassing; en
 
-- c. worden de bedragen, genoemd in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=10&z=2011-01-01&g=2011-01-01), vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van [artikel 2.10 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.10).
+- c. worden de bedragen, genoemd in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=10&z=2011-09-03&g=2011-09-03), vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in [kolom IV van artikel 2.10 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.10);
+
+- d. wordt de vergoeding, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=3&z=2011-09-03&g=2011-09-03), vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in [kolom IV van artikel 2.10 van de Wet inkomstenbelasting 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.10).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
