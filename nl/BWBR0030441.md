@@ -4,7 +4,7 @@ identifier: "BWBR0030441"
 country: "nl"
 rank: "pbo"
 publication_date: "2012-12-30"
-last_updated: "2011-06-01"
+last_updated: "2011-09-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030441"
 soort: "pbo"
@@ -69,7 +69,7 @@ BESLUIT:
 
 ##### Artikel 3
 
-1. Ter uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030441&paragraaf=2&artikel=2&z=2011-09-04&g=2011-06-01) doet de exporteur van bloembollen aangifte bij het productschap van de door hem naar Japan uitgevoerde hoeveelheden bloembollen.
+1. Ter uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030441&paragraaf=2&artikel=2&z=2011-09-04&g=2011-09-04) doet de exporteur van bloembollen aangifte bij het productschap van de door hem naar Japan uitgevoerde hoeveelheden bloembollen.
 
 2. De opgave bedoeld in het eerste lid, wordt gedaan op een door het productschap te verstrekken aangifteformulier, met inachtneming van de daarop gestelde vragen en gegeven aanwijzingen.
 
