@@ -4,7 +4,7 @@ identifier: "BWBR0024573"
 country: "nl"
 rank: "pbo"
 publication_date: "2011-09-11"
-last_updated: "2009-06-28"
+last_updated: "2011-09-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024573"
 soort: "pbo"
@@ -77,7 +77,7 @@ Besluit:
 
 ##### Artikel 3
 
-1. De heffing die de ondernemer is verschuldigd, wordt opgelegd naar de grondslag aankoopwaarde handel over het kalenderjaar 2009.
+1. De heffing die de ondernemer is verschuldigd, wordt opgelegd naar de grondslag aankoopwaarde handel over de periode van 1 januari 2009 tot en met 31 maart 2009.
 
 2. In afwijking van het eerste lid, wordt de heffing voor de handel in uien opgelegd over het aantal aangekochte netto kilogrammen.
 
@@ -95,7 +95,7 @@ Besluit:
 
 ##### Artikel 5
 
-Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024573&paragraaf=4&artikel=4&z=2009-06-28&g=2009-06-28), niet in overeenstemming blijkt met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
+Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024573&paragraaf=4&artikel=4&z=2011-09-11&g=2011-09-11), niet in overeenstemming blijkt met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
 
 ##### Artikel 6
 
