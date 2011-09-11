@@ -4,7 +4,7 @@ identifier: "BWBR0025139"
 country: "nl"
 rank: "pbo"
 publication_date: "2011-09-11"
-last_updated: "2009-01-01"
+last_updated: "2011-09-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025139"
 soort: "pbo"
@@ -85,25 +85,16 @@ Besluit:
 
 ##### Artikel 3
 
-1. De heffing die de ondernemer is verschuldigd, wordt opgelegd naar de grondslag aankoopwaarde handel over het kalenderjaar 2009.
+1. De heffing die de ondernemer is verschuldigd, wordt opgelegd naar de grondslag aankoopwaarde handel over de periode van 1 januari 2009 tot en met 31 maart 2009.
 
-2. In afwijking van het eerste lid, wordt de heffing voor de handel in uien opgelegd over het aantal aangekochte netto kilogrammen. De heffing voor de handel ten behoeve van de afzetbevordering van uien is voor 50% verschuldigd door degene die uien aankoopt bij telers en voor 50% verschuldigd door degene die uien exporteert.
+2. In afwijking van het eerste lid, wordt de heffing voor de handel in uien opgelegd over het aantal aangekochte netto kilogrammen. De heffing bedraagt € 12,50 per 100 ton aangekochte uien.
 
-3. De heffing als bedoeld in het eerste lid, wordt uitgedrukt in een percentage van de aankoopwaarde en bedraagt voor:
+3. De heffing als bedoeld in het eerste lid, wordt uitgedrukt in een percentage van de aankoopwaarde, en bedraagt voor:
 
-- a. groenten: 0,038%;
-
-- b. fruit: 0,073%, en
-
-- c. champignons: 0,057%.
-
-4. De heffing als bedoeld in het tweede lid, wordt uitgedrukt in centen per aantal gekochte kilogrammenen bedraagt: € 9,54 per 100 ton voor kwaliteitscontrole en € 36,30 per 100 ton voor afzetbevordering.
-
-5. Indien en voor zover de ondernemer:
-
-- a. op contract teelt voor industrie die groenten en fruit verduurzaamt of bewerkt, of
-
-- b. voor producten (gewassen, groenten en fruit) waarvoor geen wettelijke kwaliteitseisen gelden, worden de percentages in lid 3 met 0,027% verlaagd.
+| a. | groenten: | 0,011% |
+| --- | --- | --- |
+| b. | fruit: | 0,046% |
+| c. | champignons: | 0,030% |
 
 #### § 4. Oplegging en inning
 
@@ -115,7 +106,7 @@ Besluit:
 
 ##### Artikel 5
 
-Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025139&paragraaf=4&artikel=4&z=2008-11-16&g=2009-01-01), niet in overeenstemming blijkt met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
+Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025139&paragraaf=4&artikel=4&z=2011-09-11&g=2011-09-11), niet in overeenstemming blijkt met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
 
 ##### Artikel 6
 
