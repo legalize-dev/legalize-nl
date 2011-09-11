@@ -4,7 +4,7 @@ identifier: "BWBR0030504"
 country: "nl"
 rank: "pbo"
 publication_date: "2011-09-11"
-last_updated: "2010-06-01"
+last_updated: "2011-09-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030504"
 soort: "pbo"
@@ -78,7 +78,7 @@ Besluit:
 
 ##### Artikel 2
 
-1. De koper en verkoper van bloembollen, waaronder levens dient te worden verstaan de zelftelende broeier bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0030504&paragraaf=3&artikel=10&z=2011-09-11&g=2010-06-01) van deze verordening, zijn aan het productschap een heffing verschuldigd.
+1. De koper en verkoper van bloembollen, waaronder levens dient te worden verstaan de zelftelende broeier bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0030504&paragraaf=3&artikel=10&z=2011-09-11&g=2011-09-11) van deze verordening, zijn aan het productschap een heffing verschuldigd.
 
 2. De heffing is verschuldigd ten behoeve van de algemene kosten van het productschap, alsmede ten behoeve van promotionele- en marketingactiviteiten, kwaliteits-, arbeids- en milieuaangelegenheden en technisch onderzoek.
 
@@ -86,7 +86,7 @@ Besluit:
 
 ##### Artikel 3
 
-1. Ter uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030504&paragraaf=2&artikel=2&z=2011-09-11&g=2010-06-01) doen de koper en verkoper bij het productschap aangifte van de door hen gekochte, respectievelijk verkochte bloembollen.
+1. Ter uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030504&paragraaf=2&artikel=2&z=2011-09-11&g=2011-09-11) doen de koper en verkoper bij het productschap aangifte van de door hen gekochte, respectievelijk verkochte bloembollen.
 
 2. De opgave bedoeld in het eerste lid, wordt gedaan op een door het productschap te verstrekken aangifteformulier, met inachtneming van de daarop gestelde vragen en gegeven aanwijzingen.
 
@@ -146,7 +146,7 @@ Door deze betaling voldoet de koper aan de heffingsplicht, bedoeld in het eerste
 
 2. De heffing als bedoeld in het eerste lid, bedraagt: 1,0% van het factuurbedrag.
 
-3. De in het eerste lid bedoelde heffing dient door de verkoper te worden afgedragen aan het productschap tezamen met de bij de koper geïncasseerde heffing ingevolge [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030504&paragraaf=3&artikel=9&z=2011-09-11&g=2010-06-01) van deze verordening.
+3. De in het eerste lid bedoelde heffing dient door de verkoper te worden afgedragen aan het productschap tezamen met de bij de koper geïncasseerde heffing ingevolge [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030504&paragraaf=3&artikel=9&z=2011-09-11&g=2011-09-11) van deze verordening.
 
 4. Door deze betaling voldoet de verkoper aan de heffingsplicht als bedoeld in het eerste lid.
 
@@ -194,7 +194,7 @@ Het derde lid laat onverlet de bevoegdheid van het productschap om in voorkomend
 
 5. Tot restitutie als bedoeld in het vierde lid wordt slechts overgegaan indien de desbetreffende bloemkweker aan en ten genoegen van het PT aantoont:
 
-- a. dat hij ingevolge het bepaalde in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030504&paragraaf=3&artikel=6&z=2011-09-11&g=2010-06-01) en/of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0030504&paragraaf=3&artikel=8&z=2011-09-11&g=2010-06-01) van deze verordening ofwel via een in- en verkoopbureau, ofwel via de desbetreffende teler, ofwel rechtstreeks de vakheffing aan het PT heeft betaald;
+- a. dat hij ingevolge het bepaalde in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030504&paragraaf=3&artikel=6&z=2011-09-11&g=2011-09-11) en/of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0030504&paragraaf=3&artikel=8&z=2011-09-11&g=2011-09-11) van deze verordening ofwel via een in- en verkoopbureau, ofwel via de desbetreffende teler, ofwel rechtstreeks de vakheffing aan het PT heeft betaald;
 
 - b. en dat hij de uit die bloembollen verkregen bolbloemen al dan niet door tussenkomst van een in- en verkoopbureau heeft verkocht;
 
@@ -206,7 +206,7 @@ Het derde lid laat onverlet de bevoegdheid van het productschap om in voorkomend
 
 ##### Artikel 12
 
-In die gevallen dat de heffing niet is voldaan op de wijze bedoeld in de [artikelen 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030504&paragraaf=3&artikel=5&z=2011-09-11&g=2010-06-01), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030504&paragraaf=3&artikel=6&z=2011-09-11&g=2010-06-01) en [8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030504&paragraaf=3&artikel=8&z=2011-09-11&g=2010-06-01), vindt de oplegging van de krachtens deze verordening verschuldigde heffing plaats na afloop van het jaar waarover de heffing verschuldigd is en geschiedt deze door toezending of uitreiking aan de heffingsplichtige van een heffingsnota.
+In die gevallen dat de heffing niet is voldaan op de wijze bedoeld in de [artikelen 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030504&paragraaf=3&artikel=5&z=2011-09-11&g=2011-09-11), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030504&paragraaf=3&artikel=6&z=2011-09-11&g=2011-09-11) en [8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030504&paragraaf=3&artikel=8&z=2011-09-11&g=2011-09-11), vindt de oplegging van de krachtens deze verordening verschuldigde heffing plaats na afloop van het jaar waarover de heffing verschuldigd is en geschiedt deze door toezending of uitreiking aan de heffingsplichtige van een heffingsnota.
 
 ##### Artikel 13
 
@@ -214,7 +214,7 @@ Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de
 
 ##### Artikel 14
 
-Een koper of verkoper van bloembollen wordt geacht, indien hij bloembollen door tussenkomst van een in- en verkoopbureau verhandelt, aan zijn verplichtingen als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030504&paragraaf=2&artikel=2&z=2011-09-11&g=2010-06-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0030504&paragraaf=2&artikel=3&z=2011-09-11&g=2010-06-01) ten aanzien van de op vorenbedoelde wijze verhandelde producten te hebben voldaan, indien hij het desbetreffende in- en verkoopbureau heeft gemachtigd namens hem aan het productschap de door hem verschuldigde heffing te voldoen en de verschuldigde heffing door het productschap is ontvangen.
+Een koper of verkoper van bloembollen wordt geacht, indien hij bloembollen door tussenkomst van een in- en verkoopbureau verhandelt, aan zijn verplichtingen als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030504&paragraaf=2&artikel=2&z=2011-09-11&g=2011-09-11) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0030504&paragraaf=2&artikel=3&z=2011-09-11&g=2011-09-11) ten aanzien van de op vorenbedoelde wijze verhandelde producten te hebben voldaan, indien hij het desbetreffende in- en verkoopbureau heeft gemachtigd namens hem aan het productschap de door hem verschuldigde heffing te voldoen en de verschuldigde heffing door het productschap is ontvangen.
 
 ##### Artikel 15
 
