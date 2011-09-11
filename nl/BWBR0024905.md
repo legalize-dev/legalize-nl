@@ -4,7 +4,7 @@ identifier: "BWBR0024905"
 country: "nl"
 rank: "pbo"
 publication_date: "2011-09-11"
-last_updated: "2008-11-16"
+last_updated: "2011-09-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024905"
 soort: "pbo"
@@ -71,7 +71,7 @@ Besluit:
 
 ##### Artikel 3
 
-1. De heffing die de fabrikant is verschuldigd, wordt opgelegd naar de grondslag omzet over het kalenderjaar 2009.
+1. De heffing die de fabrikant is verschuldigd, wordt opgelegd naar de grondslag omzet over de periode van 1 januari 2009 tot en met 31 maart 2009.
 
 2. De heffing als bedoeld in het eerste lid wordt uitgedrukt in een percentage van de omzet en bedraagt voor:
 
