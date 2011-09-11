@@ -4,7 +4,7 @@ identifier: "BWBR0030467"
 country: "nl"
 rank: "pbo"
 publication_date: "2011-09-11"
-last_updated: "2010-01-01"
+last_updated: "2011-09-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030467"
 soort: "pbo"
@@ -86,7 +86,7 @@ De heffing die de ondernemer is verschuldigd, wordt opgelegd naar de grondslag o
 
 ##### Artikel 5
 
-Indien uit ter beschikking van het productschap gekomen gegevens blijkt dat verstrekte gegevens of een raming als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030467&paragraaf=4&artikel=4&z=2011-09-11&g=2010-01-01), niet in overeenstemming zijn met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
+Indien uit ter beschikking van het productschap gekomen gegevens blijkt dat verstrekte gegevens of een raming als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030467&paragraaf=4&artikel=4&z=2011-09-11&g=2011-09-11), niet in overeenstemming zijn met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
 
 ##### Artikel 6
 
