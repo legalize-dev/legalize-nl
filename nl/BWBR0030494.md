@@ -4,7 +4,7 @@ identifier: "BWBR0030494"
 country: "nl"
 rank: "pbo"
 publication_date: "2011-09-11"
-last_updated: "2010-01-01"
+last_updated: "2011-09-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030494"
 soort: "pbo"
@@ -56,8 +56,8 @@ Besluit:
 | secretaris | : | secretaris van het productschap; |
 | braakland | : | de gronden die in enig oogstjaar tot en met april van het daarop volgend oogstjaar niet worden beteeld; |
 | contractteelt | : | de teelt van gewassen en producten ingevolge een overeenkomst waarbij het teeltrisico ligt bij de teler; |
-| cultuurgrond | : | beteelde grond, braakland, beschikbare oppervlakte van bakken voor de trek van witlof of van elk ander groeimedium met behulp waarvan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030494&paragraaf=3&artikel=3&z=2011-09-11&g=2010-01-01) genoemde groenten en fruit kunnen worden geteeld, of in het tijdvak bedoeld in de [Regeling Landbouwtelling](https://wetten.overheid.nl/jci1.3:c:BWBR0029777) nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
-| cultuurgrond | : | beteelde grond, braakland, grond die gemoeid is met het gebruik van een groeimedium met behulp waarvan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030494&paragraaf=3&artikel=3&z=2011-09-11&g=2010-01-01) genoemde groenten en fruit kunnen worden geteeld, of de ten tijde van het tijdvak als genoemd in de [Regeling Landbouwtelling](https://wetten.overheid.nl/jci1.3:c:BWBR0029777) nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
+| cultuurgrond | : | beteelde grond, braakland, beschikbare oppervlakte van bakken voor de trek van witlof of van elk ander groeimedium met behulp waarvan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030494&paragraaf=3&artikel=3&z=2011-09-11&g=2011-09-11) genoemde groenten en fruit kunnen worden geteeld, of in het tijdvak bedoeld in de [Regeling Landbouwtelling](https://wetten.overheid.nl/jci1.3:c:BWBR0029777) nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
+| cultuurgrond | : | beteelde grond, braakland, grond die gemoeid is met het gebruik van een groeimedium met behulp waarvan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030494&paragraaf=3&artikel=3&z=2011-09-11&g=2011-09-11) genoemde groenten en fruit kunnen worden geteeld, of de ten tijde van het tijdvak als genoemd in de [Regeling Landbouwtelling](https://wetten.overheid.nl/jci1.3:c:BWBR0029777) nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
 | gemeten maat | : | de oppervlakte van cultuurgrond, inclusief paden en voren die voor de teelt noodzakelijk zijn; |
 | groenten en fruit | : | vermeld in [artikel 3, lid 4, sub a en b van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=3); |
 | ondernemer | : | elk afzonderlijk natuurlijk- of rechtspersoon die een onderneming drijft waarin de teelt van groenten en fruit wordt uitgeoefend; |
@@ -179,7 +179,7 @@ Besluit:
 
 ##### Artikel 4
 
-1. Voor de toepassing van [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030494&paragraaf=3&artikel=3&z=2011-09-11&g=2010-01-01) wordt onder de bij de onderneming behorende cultuurgrond mede verstaan de cultuurgrond die:
+1. Voor de toepassing van [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030494&paragraaf=3&artikel=3&z=2011-09-11&g=2011-09-11) wordt onder de bij de onderneming behorende cultuurgrond mede verstaan de cultuurgrond die:
 
 - a. zaai- of pootklaar is gehuurd;
 
@@ -203,7 +203,7 @@ Besluit:
 
 ##### Artikel 6
 
-Indien uit ter beschikking van het productschap gekomen gegevens blijkt dat verstrekte gegevens of een raming als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030494&paragraaf=4&artikel=5&z=2011-09-11&g=2010-01-01), niet in overeenstemming zijn met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
+Indien uit ter beschikking van het productschap gekomen gegevens blijkt dat verstrekte gegevens of een raming als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030494&paragraaf=4&artikel=5&z=2011-09-11&g=2011-09-11), niet in overeenstemming zijn met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
 
 ##### Artikel 7
 
