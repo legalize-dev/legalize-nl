@@ -4,7 +4,7 @@ identifier: "BWBR0025689"
 country: "nl"
 rank: "pbo"
 publication_date: "2011-09-11"
-last_updated: "2009-03-29"
+last_updated: "2011-09-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025689"
 soort: "pbo"
@@ -43,55 +43,36 @@ entry_into_force: "2009-03-29"
 
 ##### Artikel 3
 
-De heffing die is verschuldigd wordt opgelegd naar de grondslag grondgebruik, daaronder begrepen de witloftrek, een en ander overeenkomstig de volgende artikelen.
+De heffing die is verschuldigd wordt opgelegd naar de grondslag grondgebruik, daaronder begrepen de witloftrek, over de periode van 1 januari 2009 tot en met 31 maart 2009, één en ander overeenkomstig de volgende artikelen.
 
 ##### Artikel 4
 
-De heffing naar de grondslag grondgebruik wordt berekend naar de oppervlakte van de bij onderneming behorende cultuurgrond en bedraagt voor:
+De heffing naar de grondslag grondgebruik wordt berekend naar de oppervlakte van de bij de onderneming behorende cultuurgrond en bedraagt voor:
 
-- Groep 1:. cultuurgrond, in gebruik voor de teelt in de open grond van groen te oogsten erwten, stamsperziebonen, snijbonen en tuinbonen: € 2,55 per ha;
-
-- Groep 2:. cultuurgrond, in gebruik voor de teelt in de open grond van was-, bospeen, en winterpeen: € 2,55 per ha;
-
-- Groep 3:. cultuurgrond, in gebruik voor de teelt in de open grond van herfst-, vroege-, en bewaarkool: € 6,40 per ha;
-
-- Groep 4:. cultuurgrond, in gebruik voor de teelt in de open grond van spinazie, kroten, knolselderij, en schorseneren: € 2,55 per ha;
-
-- Groep 5:. cultuurgrond, in gebruik voor de teelt in de open grond van spruitkool: € 6,40 per ha;
-
-- Groep 6:. cultuurgrond, in gebruik voor de teelt in de open grond van broccoli: € 6,40 per ha;
-
-- Groep 7:. cultuurgrond, in gebruik voor de teelt in de open grond van bloemkool: € 6,40 per ha;
-
-- Groep 8:. cultuurgrond, in gebruik voor de teelt in de open grond van prei: € 6,40 per ha;
-
-- Groep 9:. cultuurgrond, in gebruik voor de teelt in de open grond van witlofwortel: € 0,00 per ha;
-
-- Groep 10:. cultuurgrond, in gebruik voor de teelt in de open grond van sla: € 6,40 per ha;
-
-- Groep 11:. cultuurgrond, in gebruik voor de teelt in de open grond van asperges: € 10,20 per ha;
-
-- Groep 12:. cultuurgrond, in gebruik voor de teelt in de open grond van:
-
-- aardbeien, productievelden € 17,85 per ha
-
-- aardbeien, vermeerderingsvelden € 0,00 per ha
-
-- aardbeien, wachtbedden € 0,00 per ha
-
-- cultuurgrond, in gebruik voor de teelt in de open grond van:
-
-- andijvie, bleekselderij, Chinese kool, courgette, rabarber, radicchio rosso en venkel € 10,20 per ha;
-
-- Groep 13:. cultuurgrond, in gebruik voor de teelt onder glas van aardbeien: € 1,91 per are; teeltoppervlak;
-
-- Groep 14:. cultuurgrond, beschikbaar voor de trek van witlof in bakken (vermenigvuldigd met het aantal teeltlagen: € 0,51 per m2 teeltoppervlak;
-
-- Groep 15:. cultuurgrond in gebruik voor de teelt in de open grond van andere groenten dan in de groepen 1 tot en met 14 genoemd: € 10,20 per ha.
+| Groep 1: | cultuurgrond, in gebruik voor de teelt in de open grond van groen te oogsten erwten, stamsperziebonen, snijbonen en tuinbonen: | € 1,67 per ha; |
+| --- | --- | --- |
+| Groep 2: | cultuurgrond, in gebruik voor de teelt in de open grond van Waspeen, bospeen, winterpeen en suikermaïs: | € 1,67 per ha; |
+| Groep 3: | cultuurgrond, in gebruik voor de teelt in de open grond van herfst-, vroege-, en bewaarkool: | € 4,18 per ha; |
+| Groep 4: | cultuurgrond, in gebruik voor de teelt in de open grond van spinazie, kroten, knolselderij, en schorseneren: | € 1,67 per ha; |
+| Groep 5: | cultuurgrond, in gebruik voor de teelt in de open grond van spruitkool: | € 4,18 per ha; |
+| Groep 6; | cultuurgrond, in gebruik voor de teelt in de open grond van broccoli: | € 4,18 per ha; |
+| Groep 7: | cultuurgrond, in gebruik voor de teelt in de open grond van bloemkool: | € 4,18 per ha; |
+| Groep 8: | cultuurgrond, in gebruik voor de teelt in de open grond van prei: | € 4,18 per ha; |
+| Groep 9: | cultuurgrond, in gebruik voor de teelt in de open grond van witlofwortel: | € 0,00 per ha; |
+| Groep 10: | cultuurgrond, in gebruik voor de teelt in de open grond van sla: | € 4,18 per ha; |
+| Groep 11: | cultuurgrond, in gebruik voor de teelt in de open grond van asperges: | € 6,67 per ha; |
+| Groep 12: | cultuurgrond, in gebruik voor de teelt in de open grond van: |   |
+|   | aardbeien, productievelden | € 11,67 per ha; |
+|   | aardbeien, vermeerderingsvelden | € 0,00 per ha; |
+|   | aardbeien, wachtbedden | € 0,00 per ha; |
+|   | cultuurgrond, in gebruik voor de teelt in de open grond van; andijvie, Chinese kool, rabarber en venkel | € 6,67 per ha; |
+| Groep 13: | cultuurgrond, in gebruik voor de teelt onder glas van aardbeien: | € 1,25 per are; |
+| Groep 14: | cultuurgrond, beschikbaar voor de trek van witlof in bakken vermenigvuldigd met het aantal teeltlagen: | € 0,33 per m2; |
+| Groep 15: | cultuurgrond in gebruik voor de teelt in de open grond van andere groenten dan in de groepen 1 tot en met 14 genoemd: | € 6,67 per ha. |
 
 ##### Artikel 5
 
-1. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025689&paragraaf=3&artikel=4&z=2009-03-29&g=2009-03-29), wordt onder de bij de onderneming behorende cultuurgrond mede verstaan cultuurgrond die:
+1. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025689&paragraaf=3&artikel=4&z=2011-09-11&g=2011-09-11), wordt onder de bij de onderneming behorende cultuurgrond mede verstaan cultuurgrond die:
 
 - a. zaai- of pootklaar is gehuurd;
 
@@ -101,9 +82,9 @@ De heffing naar de grondslag grondgebruik wordt berekend naar de oppervlakte van
 
 - d. door de ondernemer wordt beteeld voor contractteelt.
 
-2. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025689&paragraaf=3&artikel=4&z=2009-03-29&g=2009-03-29), wordt cultuurgrond gerekend naar de gemeten maat.
+2. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025689&paragraaf=3&artikel=4&z=2011-09-11&g=2011-09-11), wordt cultuurgrond gerekend naar de gemeten maat.
 
-3. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025689&paragraaf=3&artikel=4&z=2009-03-29&g=2009-03-29), worden met betrekking tot de groepen 1 tot en met 13 en 15, gedeelten van een hectare belast in evenredigheid met de voor die groepen bedoelde bedragen. Gedeelten van een hectare worden naar beneden afgerond tot een veelvoud van aren.
+3. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025689&paragraaf=3&artikel=4&z=2011-09-11&g=2011-09-11), worden met betrekking tot de groepen 1 tot en met 13 en 15, gedeelten van een hectare belast in evenredigheid met de voor die groepen bedoelde bedragen. Gedeelten van een hectare worden naar beneden afgerond tot een veelvoud van aren.
 
 #### § 4. Oplegging en inning
 
@@ -127,7 +108,7 @@ Besluit:
 
 - a. het braakland: de gronden die in enig oogstjaar tot en met april van het daarop volgend oogstjaar niet worden beteeld
 
-- b. de cultuurgrond: beteelde grond, braakland, de oppervlakte van de grond die gemoeid is met het gebruik van elk ander groeimedium met behulp waarvan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025689&paragraaf=3&artikel=4&z=2009-03-29&g=2009-03-29) genoemde gewassen of producten kunnen worden geteeld, of ten tijde van het tijdvak als bedoeld in de Regeling Landbouwtelling, nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet;
+- b. de cultuurgrond: beteelde grond, braakland, de oppervlakte van de grond die gemoeid is met het gebruik van elk ander groeimedium met behulp waarvan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025689&paragraaf=3&artikel=4&z=2011-09-11&g=2011-09-11) genoemde gewassen of producten kunnen worden geteeld, of ten tijde van het tijdvak als bedoeld in de Regeling Landbouwtelling, nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet;
 
 - c. de teelt onder glas: iedere andere teelt dan die in de open grond;
 
@@ -159,7 +140,7 @@ Besluit:
 
 ##### Artikel 7
 
-Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025689&paragraaf=4&artikel=6&z=2009-03-29&g=2009-03-29), niet in overeenstemming is met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
+Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025689&paragraaf=4&artikel=6&z=2011-09-11&g=2011-09-11), niet in overeenstemming is met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
 
 ##### Artikel 8
 
