@@ -4,7 +4,7 @@ identifier: "BWBR0024903"
 country: "nl"
 rank: "pbo"
 publication_date: "2011-09-11"
-last_updated: "2009-01-01"
+last_updated: "2011-09-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024903"
 soort: "pbo"
@@ -55,7 +55,7 @@ Besluit:
 
 | a. | het braakland | : | de gronden die in enig oogstjaar tot en met april van het daarop volgend oogstjaar niet worden beteeld, alsmede niet beteelde gronden, waarop in juli of augustus in enig oogstjaar aardbeien zullen worden geplant en waarvan in het daaropvolgende jaar zal worden geoogst; |
 | --- | --- | --- | --- |
-| b. | de cultuurgrond: | : | beteelde grond, braakland, de oppervlakte van de grond die gemoeid is met het gebruik van elk ander groeimedium met behulp waarvan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024903&paragraaf=3&artikel=4&z=2008-11-16&g=2009-01-01) genoemde gewassen of producten kunnen worden geteeld, of ten tijde van het tijdvak als bedoeld in de Regeling Landbouwtelling, nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
+| b. | de cultuurgrond: | : | beteelde grond, braakland, de oppervlakte van de grond die gemoeid is met het gebruik van elk ander groeimedium met behulp waarvan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024903&paragraaf=3&artikel=4&z=2011-09-11&g=2011-09-11) genoemde gewassen of producten kunnen worden geteeld, of ten tijde van het tijdvak als bedoeld in de Regeling Landbouwtelling, nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
 | c. | de teelt onder glas | : | iedere andere teelt dan die in de open grond; |
 | d. | de gemeten maat | : | de oppervlakte beteelbare grond, inclusief paden en voren die voor de teelt noodzakelijk zijn; |
 | e. | de contractteelt | : | de teelt van gewassen op contract voor een ander. |
@@ -76,7 +76,7 @@ Besluit:
 
 ##### Artikel 3
 
-De heffing die is verschuldigd wordt opgelegd naar de grondslag grondgebruik, een en ander overeenkomstig de volgende artikelen.
+De heffing die is verschuldigd wordt opgelegd naar de grondslag grondgebruik, over de periode van 1 januari 2009 tot en met 31 maart 2009, een en ander overeenkomstig de volgende artikelen.
 
 ##### Artikel 4
 
@@ -88,13 +88,13 @@ De heffing naar de grondslag grondgebruik wordt berekend naar de oppervlakte van
 | c. | groep 34 | cultuurgrond in gebruik voor de teelt in de open grond van klein fruit: | € 308,95 per ha |
 | d. | groep 34a | cultuurgrond in gebruik voor de teelt in open grond van blauwe bessen: | € 150,01 per ha |
 | e. | groep 35 | cultuurgrond in gebruik voor de teelt in de open grond van overige pit- en steenvruchten: | € 164,27 per ha; |
-| f. | groep 36 | cultuurgrond in gebruik voor de teelt in de open grond van zwarte bessen en zure kersen: | € 36,53 per ha |
+| f. | groep 36 | cultuurgrond in gebruik voor de teelt in de open grond van zwarte bessen, zure kersen, amandelen, hazelnoten en walnoten: | € 36,53 per ha |
 | g. | groep 60 | cultuurgrond in gebruik voor de teelt onder glas van fruit: | € 7,53 per are |
 | h. | groep 75 | cultuurgrond beschikbaar voor de teelt van champignons in teeltbakken (vermenigvuldigd met het aantal teeltlagen): | € 0,82 per m2 |
 
 ##### Artikel 5
 
-1. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024903&paragraaf=3&artikel=4&z=2008-11-16&g=2009-01-01), wordt onder de bij de onderneming behorende cultuurgrond mede verstaan cultuurgrond die:
+1. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024903&paragraaf=3&artikel=4&z=2011-09-11&g=2011-09-11), wordt onder de bij de onderneming behorende cultuurgrond mede verstaan cultuurgrond die:
 
 - a. zaai- of pootklaar is gehuurd;
 
@@ -104,11 +104,11 @@ De heffing naar de grondslag grondgebruik wordt berekend naar de oppervlakte van
 
 - d. door de ondernemer wordt beteeld voor contractteelt.
 
-2. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024903&paragraaf=3&artikel=4&z=2008-11-16&g=2009-01-01), wordt cultuurgrond gerekend naar de gemeten maat.
+2. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024903&paragraaf=3&artikel=4&z=2011-09-11&g=2011-09-11), wordt cultuurgrond gerekend naar de gemeten maat.
 
-3. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024903&paragraaf=3&artikel=4&z=2008-11-16&g=2009-01-01), worden met betrekking tot de groepen 32 tot en met 36 gedeelten van een hectare belast in evenredigheid met de voor die groepen bedoelde bedragen. Gedeelten van een hectare worden naar beneden afgerond tot een veelvoud van aren.
+3. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024903&paragraaf=3&artikel=4&z=2011-09-11&g=2011-09-11), worden met betrekking tot de groepen 32 tot en met 36 gedeelten van een hectare belast in evenredigheid met de voor die groepen bedoelde bedragen. Gedeelten van een hectare worden naar beneden afgerond tot een veelvoud van aren.
 
-4. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024903&paragraaf=3&artikel=4&z=2008-11-16&g=2009-01-01), worden met betrekking tot groep 60 gedeelten van een are belast in evenredigheid met de voor die groep bedoelde bedragen.
+4. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024903&paragraaf=3&artikel=4&z=2011-09-11&g=2011-09-11), worden met betrekking tot groep 60 gedeelten van een are belast in evenredigheid met de voor die groep bedoelde bedragen.
 
 #### § 4. Oplegging en inning
 
@@ -120,7 +120,7 @@ De heffing naar de grondslag grondgebruik wordt berekend naar de oppervlakte van
 
 ##### Artikel 7
 
-Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024903&paragraaf=4&artikel=6&z=2008-11-16&g=2009-01-01), niet in overeenstemming is met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
+Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024903&paragraaf=4&artikel=6&z=2011-09-11&g=2011-09-11), niet in overeenstemming is met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
 
 ##### Artikel 8
 
