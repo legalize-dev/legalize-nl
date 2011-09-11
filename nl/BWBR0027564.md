@@ -4,7 +4,7 @@ identifier: "BWBR0027564"
 country: "nl"
 rank: "pbo"
 publication_date: "2011-09-11"
-last_updated: "2010-03-14"
+last_updated: "2011-09-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027564"
 soort: "pbo"
@@ -58,7 +58,7 @@ Besluit:
 | afzetorganisatie/bemiddelaar | : de natuurlijke of rechtspersoon die, voor zover niet voor eigen rekening en risico, in opdracht van of ten behoeve van telers de door hen geteelde producten verkoopt; |
 | bewerken | : handelingen waardoor van groenten en fruit gebruiksklare artikelen worden gemaakt, zoals schonen, schillen, schrappen, snijden, mengen, wassen en centrifugeren; |
 | braakland | : de gronden die in enig oogstjaar tot en met april van het daarop volgende oogstjaar niet worden beteeld; |
-| cultuurgrond | : beteelde grond, braakland, beschikbare oppervlakte van bakken voor de trek van witlof of van elk ander groeimedium met behulp waarvan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027564&paragraaf=3&artikel=3&z=2010-03-14&g=2010-03-14) genoemde groenten en fruit kunnen worden geteeld, of in het tijdvak bedoeld in de Regeling Landbouwtelling nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
+| cultuurgrond | : beteelde grond, braakland, beschikbare oppervlakte van bakken voor de trek van witlof of van elk ander groeimedium met behulp waarvan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027564&paragraaf=3&artikel=3&z=2011-09-11&g=2011-09-11) genoemde groenten en fruit kunnen worden geteeld, of in het tijdvak bedoeld in de Regeling Landbouwtelling nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
 | contractteelt | : de teelt van gewassen of producten ingevolge een overeenkomst waarbij het teeltrisico ligt bij de teler; |
 | gemeten maat | : de oppervlakte van cultuurgrond, inclusief paden en voren die voor de teelt noodzakelijk zijn; |
 | groenten en fruit | : de producten vermeld in [artikel 3, vierde lid, onder a en b, van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=3); |
@@ -144,7 +144,7 @@ Besluit:
 | Selderij, groen | 464 | 6,82 ha |
 | Sla (ijsbergsla) | 451 | 4,28 ha |
 | Sla (kropsla en overige sla) | 452 | 4,28 ha |
-| Sla (radicchio rosso) | 475 | 4,28 ha |
+| Sla (radicchio rosso) | 475 | 6,82 ha |
 | Spinazie | 465 | 1,71 ha |
 | Spitskool | 466 | 4,28 ha |
 | Spruitkool | 467 | 4,28 ha |
@@ -174,7 +174,7 @@ Besluit:
 | Frambozen | 488 | 19,26 ha |
 | Pruimen | 495 | 8,92 ha |
 | Rode bessen | 489 | 19,26 ha |
-| Zoete kersen | 487 | 19,26 ha |
+| Zoete kersen | 487 | 8,92 ha |
 | Zure kersen (Best.Verw.Ind.) | 498 | 2,68 ha |
 | Zwarte bessen (Best.Verw.Ind.) | 499 | 2,68 ha |
 | Overig klein fruit | 500 | 19,26 ha |
@@ -190,7 +190,7 @@ Besluit:
 
 ##### Artikel 4
 
-1. Voor de toepassing van [artikel 3, onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027564&paragraaf=3&artikel=3&z=2010-03-14&g=2010-03-14), wordt onder de bij zijn onderneming behorende cultuurgrond mede verstaan de cultuurgrond die:
+1. Voor de toepassing van [artikel 3, onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027564&paragraaf=3&artikel=3&z=2011-09-11&g=2011-09-11), wordt onder de bij zijn onderneming behorende cultuurgrond mede verstaan de cultuurgrond die:
 
 - a. zaai- of pootklaar is gehuurd;
 
@@ -228,7 +228,7 @@ Besluit:
 
 ##### Artikel 8
 
-Indien uit de ter beschikking van het productschap gekomen gegevens blijkt dat verstrekte gegevens of een raming als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027564&paragraaf=4&artikel=7&z=2010-03-14&g=2010-03-14), niet in overeenstemming zijn met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
+Indien uit de ter beschikking van het productschap gekomen gegevens blijkt dat verstrekte gegevens of een raming als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027564&paragraaf=4&artikel=7&z=2011-09-11&g=2011-09-11), niet in overeenstemming zijn met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
 
 ##### Artikel 9
 
