@@ -4,7 +4,7 @@ identifier: "BWBR0030473"
 country: "nl"
 rank: "pbo"
 publication_date: "2011-09-11"
-last_updated: "2009-01-02"
+last_updated: "2011-09-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030473"
 soort: "pbo"
@@ -68,7 +68,7 @@ De heffing naar de grondslag grondgebruik voor fruit wordt berekend naar de oppe
 
 ##### Artikel 6
 
-1. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030473&paragraaf=3&artikel=4&z=2011-09-11&g=2009-01-02) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0030473&paragraaf=3&artikel=5&z=2011-09-11&g=2009-01-02), wordt onder de bij de onderneming behorende cultuurgrond mede verstaan cultuurgrond die:
+1. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030473&paragraaf=3&artikel=4&z=2011-09-11&g=2011-09-11) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0030473&paragraaf=3&artikel=5&z=2011-09-11&g=2011-09-11), wordt onder de bij de onderneming behorende cultuurgrond mede verstaan cultuurgrond die:
 
 - a. zaai- of pootklaar is gehuurd;
 
@@ -78,11 +78,11 @@ De heffing naar de grondslag grondgebruik voor fruit wordt berekend naar de oppe
 
 - d. door de ondernemer wordt beteeld voor contractteelt.
 
-2. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030473&paragraaf=3&artikel=4&z=2011-09-11&g=2009-01-02) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0030473&paragraaf=3&artikel=5&z=2011-09-11&g=2009-01-02), wordt cultuurgrond gerekend naar de gemeten maat.
+2. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030473&paragraaf=3&artikel=4&z=2011-09-11&g=2011-09-11) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0030473&paragraaf=3&artikel=5&z=2011-09-11&g=2011-09-11), wordt cultuurgrond gerekend naar de gemeten maat.
 
-3. Voor de toepassing van alle groepen van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030473&paragraaf=3&artikel=4&z=2011-09-11&g=2009-01-02) en groep 60 van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030473&paragraaf=3&artikel=5&z=2011-09-11&g=2009-01-02), worden gedeelten van een are belast in evenredigheid met de voor die groepen bedoelde bedragen. Gedeelten van een are worden naar beneden afgerond tot een veelvoud van centiaren (ofwel vierkante meters).
+3. Voor de toepassing van alle groepen van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030473&paragraaf=3&artikel=4&z=2011-09-11&g=2011-09-11) en groep 60 van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030473&paragraaf=3&artikel=5&z=2011-09-11&g=2011-09-11), worden gedeelten van een are belast in evenredigheid met de voor die groepen bedoelde bedragen. Gedeelten van een are worden naar beneden afgerond tot een veelvoud van centiaren (ofwel vierkante meters).
 
-4. Voor de toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030473&paragraaf=3&artikel=5&z=2011-09-11&g=2009-01-02), worden met betrekking tot de groepen 32 tot en met 36, gedeelten van een hectare belast in evenredigheid met de voor die groepen bedoelde bedragen. Gedeelten van een hectare worden naar beneden afgerond tot een veelvoud van aren.
+4. Voor de toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030473&paragraaf=3&artikel=5&z=2011-09-11&g=2011-09-11), worden met betrekking tot de groepen 32 tot en met 36, gedeelten van een hectare belast in evenredigheid met de voor die groepen bedoelde bedragen. Gedeelten van een hectare worden naar beneden afgerond tot een veelvoud van aren.
 
 #### § 4. Oplegging en inning
 
@@ -107,7 +107,7 @@ Besluit:
 | a. ondernemer: | de natuurlijke of rechtspersoon die een onderneming drijft waarin de teelt van glasgroenten en/of fruit wordt uitgeoefend; |
 | --- | --- |
 | b. braakland: | de gronden die in enig oogstjaar tot en met april van het daarop volgend oogstjaar niet worden beteeld, als bedoeld in de Regeling landbouwtelling; |
-| c. cultuurgrond: | beteelde grond, braakland, de oppervlakte van de grond die gemoeid is met het gebruik van elk ander groeimedium met behulp waarvan de in [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030473&paragraaf=3&artikel=4&z=2011-09-11&g=2009-01-02) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0030473&paragraaf=3&artikel=5&z=2011-09-11&g=2009-01-02) genoemde gewassen of producten kunnen worden geteeld, of ten tijde van het tijdvak als bedoeld in de Regeling Landbouwtelling, nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
+| c. cultuurgrond: | beteelde grond, braakland, de oppervlakte van de grond die gemoeid is met het gebruik van elk ander groeimedium met behulp waarvan de in [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030473&paragraaf=3&artikel=4&z=2011-09-11&g=2011-09-11) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0030473&paragraaf=3&artikel=5&z=2011-09-11&g=2011-09-11) genoemde gewassen of producten kunnen worden geteeld, of ten tijde van het tijdvak als bedoeld in de Regeling Landbouwtelling, nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
 | d. gemeten maat: | de oppervlakte beteelbare grond, inclusief paden en voren die voor de teelt noodzakelijk zijn; |
 | e. contractteelt: | de teelt van gewassen op contract voor een ander; |
 | f. glasgroenten: | groenten geteeld in kassen bedekt met glas of plastic, of in betreedbare plastic tunnels |
@@ -137,7 +137,7 @@ Besluit:
 
 ##### Artikel 8
 
-Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030473&paragraaf=4&artikel=7&z=2011-09-11&g=2009-01-02), niet in overeenstemming is met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
+Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030473&paragraaf=4&artikel=7&z=2011-09-11&g=2011-09-11), niet in overeenstemming is met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
 
 ##### Artikel 9
 
