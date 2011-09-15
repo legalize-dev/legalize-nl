@@ -4,7 +4,7 @@ identifier: "BWBR0030426"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-09-15"
-last_updated: "2010-10-10"
+last_updated: "2011-09-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030426"
 soort: "ministeriele-regeling"
@@ -71,7 +71,7 @@ In deze regeling wordt verstaan onder tijdstip van transitie: het tijdstip waaro
 
 ##### Artikel 4. Financiële verrekening lasten uit hoofde van deze onderlinge regeling
 
-1. De in verband met de toepassing van de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030426&artikel=2&z=2011-09-15&g=2010-10-10) en [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030426&artikel=3&z=2011-09-15&g=2010-10-10), voor rekening van het land Curaçao komende lasten worden in mindering gebracht op het uit hoofde van de [Onderlinge regeling boedelscheiding Sociale Verzekeringsbank Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028982) te verdelen vermogen van de Sociale Verzekeringsbank van de Nederlandse Antillen. Het bedrag ter grootte van deze lasten komt in afwijking van [artikel 5 van die onderlinge regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0028982&artikel=5) rechtstreeks toe aan het land Curaçao.
+1. De in verband met de toepassing van de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030426&artikel=2&z=2011-09-15&g=2011-09-15) en [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030426&artikel=3&z=2011-09-15&g=2011-09-15), voor rekening van het land Curaçao komende lasten worden in mindering gebracht op het uit hoofde van de [Onderlinge regeling boedelscheiding Sociale Verzekeringsbank Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028982) te verdelen vermogen van de Sociale Verzekeringsbank van de Nederlandse Antillen. Het bedrag ter grootte van deze lasten komt in afwijking van [artikel 5 van die onderlinge regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0028982&artikel=5) rechtstreeks toe aan het land Curaçao.
 
 2. De hoogte van het in het eerste lid bedoelde bedrag wordt vastgesteld op basis van een door de Sociale Verzekeringsbank van Curaçao te maken raming van lasten, welke de instemming heeft van de vertegenwoordigers in het overleg, bedoeld in artikel 9 van de Onderling regeling boedelscheiding Sociale Verzekeringsbank Nederlandse Antillen, en welke door de Stichting Overheids Accountants Bureau zal worden getoetst.
 
