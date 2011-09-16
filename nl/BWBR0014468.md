@@ -4,7 +4,7 @@ identifier: "BWBR0014468"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2009-10-31"
+last_updated: "2011-09-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014468"
 soort: "ministeriele-regeling"
@@ -55,7 +55,11 @@ In deze regeling wordt verstaan onder:
 
 - c. DIN: door het Deutsche Institut für Normaliserung uitgegeven norm;
 
-- d. NEN: door de Stichting Nederlands Normalisatie-Instituut uitgegeven norm.
+- d. NEN: door de Stichting Nederlands Normalisatie-Instituut uitgegeven norm;
+
+- e. hydraulische eenheid: een hydraulisch verbonden poriënruimte waar drukdoorgave met technische middelen kan worden gemeten en die is afgebakend door stromingsbarrières zoals storingen, zoutkoepels, lithologische grenzen, of door wigvormige uitloop of dagzomende aardlagen van de formatie;
+
+- f. richtlijn nr. 2009/31/EG: richtlijn nr. 2009/31/EG van het Europees Parlement en de Raad van 23 april 2009 betreffende de geologische opslag van kooldioxide en tot wijziging van richtlijn 85/337/EEG van de Raad, de richtlijnen 2000/60/EG, 2001/80/EG, 2004/35/EG, 2006/12/EG en 2008/1/EG en verordening (EG) nr. 1013/2006 (PbEG L 140) van het Europese Parlement en de Raad.
 
 ##### Artikel 1.1.2
 
@@ -89,25 +93,25 @@ Waar in deze regeling producten dienen te voldoen aan een bepaalde norm of eis, 
 
 5. De kaarten, bedoeld in het derde en vierde lid, worden in viervoud overgelegd en zijn getekend op een schaal van 1:50.000.
 
-6. Het eerste lid tot en met vijfde lid geldt niet voor de gevallen, bedoeld in de [artikelen 1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.2&z=2009-10-31&g=2009-10-31) en [1.3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.3&z=2009-10-31&g=2009-10-31).
+6. Het eerste lid tot en met vijfde lid geldt niet voor de gevallen, bedoeld in de [artikelen 1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.2&z=2011-09-16&g=2011-09-16) en [1.3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.3&z=2011-09-16&g=2011-09-16).
 
 #### § 1.3. Opsporings-, winnings- en opslagvergunning
 
 ##### Artikel 1.3.1
 
-1. Bij de aanvraag om een opsporingsvergunning als bedoeld in [artikel 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=6) vermeldt de aanvrager:
+1. Bij de aanvraag om een opsporingsvergunning als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=6) en [25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=25) vermeldt de aanvrager:
 
 - a. voor welk tijdvak de vergunning wordt gevraagd;
 
 - b. voor welk gebied de vergunning wordt gevraagd, en
 
-- c. of de aanvraag betrekking heeft op aardwarmte of delfstoffen onder vermelding op welke delfstof of delfstoffen de aanvraag betrekking heeft.
+- c. of de aanvraag betrekking heeft op de opsporing van delfstoffen onder vermelding van de delfstof, waarop de aanvraag betrekking heeft, de opsporing van aardwarmte dan wel de opsporing van een CO2-opslagcomplex.
 
 2. De aanvrager verstrekt bij de aanvraag voorts:
 
-- a. de gegevens, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=1&z=2009-10-31&g=2009-10-31) bij deze regeling;
+- a. de gegevens, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=1&z=2011-09-16&g=2011-09-16) bij deze regeling;
 
-- b. indien de aanvraag betrekking heeft op koolwaterstoffen, tevens de gegevens, opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=2&z=2009-10-31&g=2009-10-31) bij deze regeling;
+- b. indien de aanvraag betrekking heeft op koolwaterstoffen, tevens de gegevens, opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=2&z=2011-09-16&g=2011-09-16) bij deze regeling;
 
 - c. een programma waarin is aangegeven welke verkenningsonderzoeken en opsporingsactiviteiten de aanvrager voornemens is uit te voeren, het daarbij behorende tijdschema en welke technieken daarbij worden gebruikt;
 
@@ -125,15 +129,15 @@ Waar in deze regeling producten dienen te voldoen aan een bepaalde norm of eis, 
 
 ##### Artikel 1.3.2
 
-1. In een aanvraag om een opsporingsvergunning voor koolwaterstoffen voor een gebied aan de zeezijde van de in de bijlage bij de wet vastgelegde lijn wordt opgegeven voor welk gebied, bestaande uit een of meer blokken als aangegeven op de kaart, welke als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=3&z=2009-10-31&g=2009-10-31) bij deze regeling is gevoegd, de vergunning wordt aangevraagd. De desbetreffende op de kaart aangegeven bloknummers worden daarbij vermeld.
+1. In een aanvraag om een opsporingsvergunning voor koolwaterstoffen voor een gebied aan de zeezijde van de in de bijlage bij de wet vastgelegde lijn wordt opgegeven voor welk gebied, bestaande uit een of meer blokken als aangegeven op de kaart, welke als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=3&z=2011-09-16&g=2011-09-16) bij deze regeling is gevoegd, de vergunning wordt aangevraagd. De desbetreffende op de kaart aangegeven bloknummers worden daarbij vermeld.
 
 2. Indien de aanvraag een blok betreft waarvoor voor een deel al een opsporingsvergunning voor koolwaterstoffen is verleend, geldt de aanvraag uitsluitend het nog niet gegunde deel van het blok. Het eerste lid is van overeenkomstige toepassing.
 
 ##### Artikel 1.3.3
 
-1. Bij de aanvraag om een winningsvergunning als bedoeld in [artikel 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=6) verstrekt de aanvrager de gegevens, bedoeld in [artikel 1.3.1, eerste lid en tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2009-10-31&g=2009-10-31). [Artikel 1.3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2009-10-31&g=2009-10-31), is van overeenkomstige toepassing.
+1. Bij de aanvraag om een winningsvergunning als bedoeld in [artikel 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=6) verstrekt de aanvrager de gegevens, bedoeld in [artikel 1.3.1, eerste lid en tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2011-09-16&g=2011-09-16). [Artikel 1.3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2011-09-16&g=2011-09-16), is van overeenkomstige toepassing.
 
-2. Indien de aanvraag om een winningsvergunning voor koolwaterstoffen betrekking heeft op een gebied aan de zeezijde van de in de bijlage bij de wet vastgelegde lijn, is [artikel 1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.2&z=2009-10-31&g=2009-10-31) van overeenkomstige toepassing.
+2. Indien de aanvraag om een winningsvergunning voor koolwaterstoffen betrekking heeft op een gebied aan de zeezijde van de in de bijlage bij de wet vastgelegde lijn, is [artikel 1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.2&z=2011-09-16&g=2011-09-16) van overeenkomstige toepassing.
 
 3. Indien de aanvraag een winningsvergunning voor koolwaterstoffen betreft, verstrekt de aanvrager naast de gegevens, bedoeld in het eerste lid:
 
@@ -177,7 +181,7 @@ Waar in deze regeling producten dienen te voldoen aan een bepaalde norm of eis, 
 
 - c. de stoffen waarop de aanvraag betrekking heeft.
 
-2. [Artikel 1.3.1, tweede lid, onderdelen a en b, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2009-10-31&g=2009-10-31), is van overeenkomstige toepassing.
+2. [Artikel 1.3.1, tweede lid, onderdelen a en b, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2011-09-16&g=2011-09-16), is van overeenkomstige toepassing.
 
 3. Bij de aanvraag verstrekt de aanvrager tevens:
 
@@ -191,7 +195,7 @@ Waar in deze regeling producten dienen te voldoen aan een bepaalde norm of eis, 
 
 ##### Artikel 1.3.5
 
-1. Een opsporingsvergunning voor koolwaterstoffen voor een gebied aan de zeezijde van de in de [bijlage bij de wet](onbekend) vastgelegde lijn kan slechts worden verleend voor een gebied, bestaande uit een of meer blokken als aangegeven op de kaart die als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=3&z=2009-10-31&g=2009-10-31) bij deze regeling is gevoegd.
+1. Een opsporingsvergunning voor koolwaterstoffen voor een gebied aan de zeezijde van de in de [bijlage bij de wet](onbekend) vastgelegde lijn kan slechts worden verleend voor een gebied, bestaande uit een of meer blokken als aangegeven op de kaart die als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=3&z=2011-09-16&g=2011-09-16) bij deze regeling is gevoegd.
 
 2. Indien voor een deel van een blok reeds een door een ander gehouden opsporings- of winningsvergunning voor koolwaterstoffen geldt, kan een opsporingsvergunning als in het eerste lid bedoeld betrekking of mede betrekking hebben op dat deel van het blok, waarvoor geen opsporings- of winningsvergunning geldt.
 
@@ -203,11 +207,11 @@ Het gebied als bedoeld in [artikel 11, derde lid, van de wet](https://wetten.ove
 
 ##### Artikel 1.3.7
 
-1. Bij de beslissing op een aanvraag om een opsporings- of winningsvergunning voor koolwaterstoffen worden de [artikelen 1.3.8 tot en met 1.3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.8&z=2009-10-31&g=2009-10-31) in acht genomen.
+1. Bij de beslissing op een aanvraag om een opsporings- of winningsvergunning voor koolwaterstoffen worden de [artikelen 1.3.8 tot en met 1.3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.8&z=2011-09-16&g=2011-09-16) in acht genomen.
 
-2. In afwijking van het eerste lid zijn bij de beslissing op een aanvraag om een winningsvergunning op grond van [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=10) slechts de [artikelen 1.3.8 tot en met 1.3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.8&z=2009-10-31&g=2009-10-31) van toepassing.
+2. In afwijking van het eerste lid zijn bij de beslissing op een aanvraag om een winningsvergunning op grond van [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=10) slechts de [artikelen 1.3.8 tot en met 1.3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.8&z=2011-09-16&g=2011-09-16) van toepassing.
 
-3. Bij de beslissing omtrent toestemming tot overdracht van een opsporings- of winningsvergunning voor koolwaterstoffen zijn de [artikelen 1.3.8 tot en met 1.3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.8&z=2009-10-31&g=2009-10-31) van overeenkomstige toepassing.
+3. Bij de beslissing omtrent toestemming tot overdracht van een opsporings- of winningsvergunning voor koolwaterstoffen zijn de [artikelen 1.3.8 tot en met 1.3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.8&z=2011-09-16&g=2011-09-16) van overeenkomstige toepassing.
 
 ##### Artikel 1.3.8
 
@@ -235,7 +239,7 @@ Het gebied als bedoeld in [artikel 11, derde lid, van de wet](https://wetten.ove
 
 - c. de financiële mogelijkheden van de rechtspersonen, waarvan de aanvrager de dochtermaatschappij is of die behoren tot de groep, waartoe de aanvrager behoort, voor zover blijkt dat deze financiële mogelijkheden ter beschikking staan of zullen staan van de aanvrager.
 
-3. [Artikel 1.3.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.8&z=2009-10-31&g=2009-10-31), is van overeenkomstige toepassing.
+3. [Artikel 1.3.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.8&z=2011-09-16&g=2011-09-16), is van overeenkomstige toepassing.
 
 ##### Artikel 1.3.10
 
@@ -243,7 +247,7 @@ Het gebied als bedoeld in [artikel 11, derde lid, van de wet](https://wetten.ove
 
 2. Bij de beoordeling van de manier waarop de aanvrager voornemens is het opsporingsonderzoek of de winning te verrichten, kunnen onder meer worden betrokken:
 
-- a. de mate waarin het programma, bedoeld in [artikel 1.3.1, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2009-10-31&g=2009-10-31), onderscheidenlijk [artikel 1.3.3, derde lid, onderdeel e, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.3&z=2009-10-31&g=2009-10-31), bijdraagt aan een doelmatige en voortvarende opsporing en winning;
+- a. de mate waarin het programma, bedoeld in [artikel 1.3.1, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2011-09-16&g=2011-09-16), onderscheidenlijk [artikel 1.3.3, derde lid, onderdeel e, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.3&z=2011-09-16&g=2011-09-16), bijdraagt aan een doelmatige en voortvarende opsporing en winning;
 
 - b. de geologische onderbouwing van het in onderdeel a bedoelde programma;
 
@@ -251,7 +255,7 @@ Het gebied als bedoeld in [artikel 11, derde lid, van de wet](https://wetten.ove
 
 - d. de doelmatigheid in de bedrijfsvoering en de verantwoordelijkheidszin, waarvan de aanvrager eerder heeft blijkgegeven.
 
-3. [Artikel 1.3.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.8&z=2009-10-31&g=2009-10-31), is van overeenkomstige toepassing.
+3. [Artikel 1.3.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.8&z=2011-09-16&g=2011-09-16), is van overeenkomstige toepassing.
 
 ##### Artikel 1.3.11
 
@@ -519,7 +523,7 @@ Bij de aanvraag om een vergunning tot gebruik van een groeve voor een ander doel
 
 - a. het tijdvak waarvoor de vergunning wordt gevraagd;
 
-- b. een kaart van de boven- en de ondergrond van de groeve, waarop het voorgenomen gebruiksgebied is aangegeven, met daarbij de gegevens, genoemd in [artikel 1.9.1, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.9&artikel=1.9.1&z=2009-10-31&g=2009-10-31);
+- b. een kaart van de boven- en de ondergrond van de groeve, waarop het voorgenomen gebruiksgebied is aangegeven, met daarbij de gegevens, genoemd in [artikel 1.9.1, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.9&artikel=1.9.1&z=2011-09-16&g=2011-09-16);
 
 - c. een omschrijving van het doeleinde waarvoor de groeve zal worden gebruikt;
 
@@ -535,27 +539,27 @@ Bij de aanvraag om een vergunning tot gebruik van een groeve voor een ander doel
 
 ##### Artikel 1.10.1
 
-De delen van de territoriale zee en het continentaal plat, bedoeld in [artikel 16 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=16), bestaan uit de delen van territoriale zee en het continentaal plat die gelegen zijn ten zuiden van de lijn die gevormd wordt door de punten A, 2, 3, 4, 5, 6, 7 en I, aangeduid in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=4&z=2009-10-31&g=2009-10-31) bij deze regeling en die niet liggen in:
+De delen van de territoriale zee en het continentaal plat, bedoeld in [artikel 16 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=16), bestaan uit de delen van territoriale zee en het continentaal plat die gelegen zijn ten zuiden van de lijn die gevormd wordt door de punten A, 2, 3, 4, 5, 6, 7 en I, aangeduid in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=4&z=2011-09-16&g=2011-09-16) bij deze regeling en die niet liggen in:
 
-- a. het aanloopgebied Hoek van Holland, de ankergebieden en de overige gebieden, aangeduid in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=4&z=2009-10-31&g=2009-10-31), en
+- a. het aanloopgebied Hoek van Holland, de ankergebieden en de overige gebieden, aangeduid in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=4&z=2011-09-16&g=2011-09-16), en
 
 - b. het gemeentelijk ingedeeld gebied.
 
 ##### Artikel 1.10.2
 
-De delen van de territoriale zee en het continentaal plat, bedoeld in [artikel 17 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=17), bestaan uit de overige gebieden, aangeduid in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=4&z=2009-10-31&g=2009-10-31).
+De delen van de territoriale zee en het continentaal plat, bedoeld in [artikel 17 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=17), bestaan uit de overige gebieden, aangeduid in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=4&z=2011-09-16&g=2011-09-16).
 
 ##### Artikel 1.10.3
 
-De delen van de territoriale zee en het continentaal plat, bedoeld in [artikel 18 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=18), bestaan uit de ankergebieden, aangeduid in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=4&z=2009-10-31&g=2009-10-31).
+De delen van de territoriale zee en het continentaal plat, bedoeld in [artikel 18 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=18), bestaan uit de ankergebieden, aangeduid in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=4&z=2011-09-16&g=2011-09-16).
 
 ##### Artikel 1.10.4
 
-De rede van Hoek van Holland, bedoeld in [artikel 20 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=20), komt overeen met het aanloopgebied Hoek van Holland, aangeduid in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=4&z=2009-10-31&g=2009-10-31).
+De rede van Hoek van Holland, bedoeld in [artikel 20 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=20), komt overeen met het aanloopgebied Hoek van Holland, aangeduid in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=4&z=2011-09-16&g=2011-09-16).
 
 ##### Artikel 1.10.5
 
-De gebieden, bedoeld in [artikel 45, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=45) zijn de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=4&z=2009-10-31&g=2009-10-31) aangeduide:
+De gebieden, bedoeld in [artikel 45, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=45) zijn de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=4&z=2011-09-16&g=2011-09-16) aangeduide:
 
 - a. ankergebieden;
 
@@ -565,11 +569,11 @@ De gebieden, bedoeld in [artikel 45, eerste lid, van het besluit](https://wetten
 
 ##### Artikel 1.10.6
 
-De gebieden, bedoeld in [artikel 45, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=45) zijn de gebieden, aangeduid in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=4&z=2009-10-31&g=2009-10-31).
+De gebieden, bedoeld in [artikel 45, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=45) zijn de gebieden, aangeduid in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=4&z=2011-09-16&g=2011-09-16).
 
 ##### Artikel 1.10.7
 
-De delen van oppervlaktewater, bedoeld in [artikel 19 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=19), en de gebieden, bedoeld in [artikel 44 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=44), zijn de gebieden, aangeduid in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=5&z=2009-10-31&g=2009-10-31) bij deze regeling.
+De delen van oppervlaktewater, bedoeld in [artikel 19 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=19), en de gebieden, bedoeld in [artikel 44 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=44), zijn de gebieden, aangeduid in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=5&z=2011-09-16&g=2011-09-16) bij deze regeling.
 
 #### § 1.11. Werkplan
 
@@ -613,11 +617,11 @@ Een werkplan als bedoeld in artikel 4 van het besluit bevat voor een vergunnings
 
 Indien verkenningsonderzoek plaatsvindt in oppervlaktewater met gebruik van kunstmatig opgewekte trillingen, wordt met een laag geluidsvolume begonnen en verloopt de versterking van dat volume geleidelijk.
 
-#### § 2.2. Verkenningsonderzoek met gebruik van ontplofbare stoffen
+#### § 2.1. Verkenningsonderzoek in oppervlaktewater
 
 ##### Artikel 2.2.1
 
-De [paragrafen 2.2. tot en met 2.8.](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=2&paragraaf=2.2&z=2009-10-31&g=2009-10-31) zijn van toepassing op verkenningsonderzoek met gebruik van ontplofbare stoffen.
+De [paragrafen 2.2. tot en met 2.8.](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=2&paragraaf=2.2&z=2011-09-16&g=2011-09-16) zijn van toepassing op verkenningsonderzoek met gebruik van ontplofbare stoffen.
 
 ##### Artikel 2.2.2
 
@@ -717,7 +721,7 @@ Schietgaten worden over de gehele lengte opgevuld met daarvoor geschikt materiaa
 
 2. Indien een lading niet tot ontploffing is gekomen en gebleken dat het ontstekingscircuit niet in takt is, wordt de in het eerste lid bedoelde poging ondernomen door het afvuren van een geschikte lading in een nieuw schietgat dat is geboord op tenminste 0,5 m afstand van het oorspronkelijk schietgat tot de diepte van de bovenkant van de niet ontplofte lading.
 
-#### § 2.8. Rapportage
+#### § 2.7. Niet tot ontploffing gekomen ladingen
 
 ##### Artikel 2.8.1
 
@@ -745,7 +749,7 @@ Voor de opgave van hoeveelheden stoffen, bedoeld in de [artikelen 24](https://we
 
 - d. pekel: in m3.
 
-### Hoofdstuk 4. Helikopterdekken
+### Hoofdstuk 3. Het winnen en het opslaan van stoffen
 
 ### Afdeling 4.1. Helikopterdekken op mijnbouwinstallaties
 
@@ -765,7 +769,7 @@ Vervallen
 
 Vervallen
 
-#### § 4.3. Obstakels op en rond de landingsplaats
+#### § 4.2. Afmeting en ligging landingsplaats
 
 ##### Artikel 4.3.1
 
@@ -843,7 +847,7 @@ Vervallen
 
 Vervallen
 
-#### § 4.8. De tekening van het helikopterdek en andere gegevens
+#### § 4.7. Bepalingen voor niet-bemande mijnbouwinstallaties
 
 ##### Artikel 4.8.1
 
@@ -891,7 +895,7 @@ Tenminste een van de herkenningstekens, bedoeld in [artikel 52, vierde lid, onde
 
 4. De lichten zijn zodanig geplaatst dat de scheepvaart vanuit iedere aanloopkoers tenminste twee lichten kan waarnemen.
 
-5. De verplichting voor het plaatsen van lichten als bedoeld in het eerste lid, geldt niet indien de in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=5&artikel=5.3&z=2009-10-31&g=2009-10-31) bedoelde lichten op die uiteinden zijn geplaatst.
+5. De verplichting voor het plaatsen van lichten als bedoeld in het eerste lid, geldt niet indien de in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=5&artikel=5.3&z=2011-09-16&g=2011-09-16) bedoelde lichten op die uiteinden zijn geplaatst.
 
 6. In geval de mijnbouwinstallatie samengesteld is uit meerdere delen die ieder in het oppervlaktewater geplaatst zijn en fysiek met elkaar verbonden, zijn een of meerdere extra lichten geplaatst tussen de uiteinden van de mijnbouwinstallatie.
 
@@ -1123,19 +1127,19 @@ De bepalingen die van toepassing zijn op mijnbouwinstallaties in het zeegebied A
 
 ##### Artikel 6.2.12
 
-Het geluidssignaal dat door de VHF-DSC-wachtontvanger, de MF-DSC-wachtontvanger of een ander gelijkwaardig telecommunicatiemiddel als bedoeld in [artikel 6.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=6&paragraaf=6.2&artikel=6.2.4&z=2009-10-31&g=2009-10-31) wordt afgegeven, kan te allen tijde worden gehoord door de dienstdoende radiotelefonist.
+Het geluidssignaal dat door de VHF-DSC-wachtontvanger, de MF-DSC-wachtontvanger of een ander gelijkwaardig telecommunicatiemiddel als bedoeld in [artikel 6.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=6&paragraaf=6.2&artikel=6.2.4&z=2011-09-16&g=2011-09-16) wordt afgegeven, kan te allen tijde worden gehoord door de dienstdoende radiotelefonist.
 
 ##### Artikel 6.2.13
 
-1. Een mijnbouwinstallatie is uitgerust met een of meer noodkrachtbronnen die bij uitval van de normale krachtbron zorgdragen voor de gelijktijdige voeding van alle in deze paragraaf voorgeschreven communicatiemiddelen, de noodverlichting en eventuele apparatuur die het geluidssignaal, bedoeld in [artikel 6.2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=6&paragraaf=6.2&artikel=6.2.12&z=2009-10-31&g=2009-10-31), doorgeeft.
+1. Een mijnbouwinstallatie is uitgerust met een of meer noodkrachtbronnen die bij uitval van de normale krachtbron zorgdragen voor de gelijktijdige voeding van alle in deze paragraaf voorgeschreven communicatiemiddelen, de noodverlichting en eventuele apparatuur die het geluidssignaal, bedoeld in [artikel 6.2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=6&paragraaf=6.2&artikel=6.2.12&z=2011-09-16&g=2011-09-16), doorgeeft.
 
-2. De in het eerste lid bedoelde verplichting geldt niet voor een van de twee in [artikel 6.2.3, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=6&paragraaf=6.2&artikel=6.2.3&z=2009-10-31&g=2009-10-31), voorgeschreven MF-radiotelefonie-inrichtingen en voor de in [artikel 6.2.3, vierde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=6&paragraaf=6.2&artikel=6.2.3&z=2009-10-31&g=2009-10-31), voorgeschreven HF-radiotelefonie-inrichting voor de aëronautische dienst.
+2. De in het eerste lid bedoelde verplichting geldt niet voor een van de twee in [artikel 6.2.3, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=6&paragraaf=6.2&artikel=6.2.3&z=2011-09-16&g=2011-09-16), voorgeschreven MF-radiotelefonie-inrichtingen en voor de in [artikel 6.2.3, vierde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=6&paragraaf=6.2&artikel=6.2.3&z=2011-09-16&g=2011-09-16), voorgeschreven HF-radiotelefonie-inrichting voor de aëronautische dienst.
 
 ##### Artikel 6.2.14
 
-1. Een noodkrachtbron kan onder alle omstandigheden gedurende tenminste zes uur het volledig benodigde vermogen leveren, ook indien de voorgeschreven communicatiemiddelen, de noodverlichting en het geluidssignaal, bedoeld in [artikel 6.2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=6&paragraaf=6.2&artikel=6.2.12&z=2009-10-31&g=2009-10-31), gelijktijdig in werking zijn, uitgaande van een zend/ontvangverhouding van 1:1.
+1. Een noodkrachtbron kan onder alle omstandigheden gedurende tenminste zes uur het volledig benodigde vermogen leveren, ook indien de voorgeschreven communicatiemiddelen, de noodverlichting en het geluidssignaal, bedoeld in [artikel 6.2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=6&paragraaf=6.2&artikel=6.2.12&z=2011-09-16&g=2011-09-16), gelijktijdig in werking zijn, uitgaande van een zend/ontvangverhouding van 1:1.
 
-2. Een noodkrachtbron en de daarbij behorende schakel- en verdeelinrichtingen zijn zo aangelegd dat bij het uitvallen van de overige krachtbronnen op de mijnbouwinstallatie de in deze paragraaf voorgeschreven communicatiemiddelen, de noodverlichting en het geluidssignaal, bedoeld in [artikel 6.2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=6&paragraaf=6.2&artikel=6.2.12&z=2009-10-31&g=2009-10-31), naar behoren kunnen blijven functioneren.
+2. Een noodkrachtbron en de daarbij behorende schakel- en verdeelinrichtingen zijn zo aangelegd dat bij het uitvallen van de overige krachtbronnen op de mijnbouwinstallatie de in deze paragraaf voorgeschreven communicatiemiddelen, de noodverlichting en het geluidssignaal, bedoeld in [artikel 6.2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=6&paragraaf=6.2&artikel=6.2.12&z=2011-09-16&g=2011-09-16), naar behoren kunnen blijven functioneren.
 
 3. De normale krachtbron en de noodkrachtbron zijn elektrisch van elkaar gescheiden of kunnen op een eenvoudige wijze van elkaar worden gescheiden. Het niet naar behoren functioneren van de normale krachtbron heeft geen invloed op de beschikbaarheid van de noodkrachtbron.
 
@@ -1185,7 +1189,7 @@ Het geluidssignaal dat door de VHF-DSC-wachtontvanger, de MF-DSC-wachtontvanger 
 
 ##### Artikel 7.1
 
-Dit hoofdstuk heeft betrekking op mijnbouwinstallaties die voor de winning zijn bestemd.
+Dit hoofdstuk heeft betrekking op mijnbouwinstallaties die voor de winning of de opslag zijn bestemd.
 
 ##### Artikel 7.2
 
@@ -1363,19 +1367,19 @@ De uitvoerder doet tenminste acht weken voor de verwijdering van een geheel onde
 
 3. Indien onvoorziene omstandigheden verhinderen dat de voorafgaande schriftelijke mededeling tijdig wordt gegeven, wordt de inspecteur-generaal der mijnen van de wijziging onmiddellijk telefonisch of anderszins in kennis gesteld, welke kennisgeving onmiddellijk schriftelijk wordt bevestigd.
 
-#### § 8.2.2
+#### § 8.2.1. Werkprogramma voor aanleg van boorgaten
 
 ##### Artikel 8.2.2.1
 
 1. Een dagrapport van het verloop van elk boorgat wordt tijdens werkdagen uiterlijk om 10.00 uur volgend op de dag waarop het rapport betrekking heeft ter kennis van de inspecteur-generaal der mijnen gebracht.
 
-2. Het dagrapport bevat de gegevens, aangegeven in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=11&z=2009-10-31&g=2009-10-31), en is in overeenstemming met die bijlage ingericht.
+2. Het dagrapport bevat de gegevens, aangegeven in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=11&z=2011-09-16&g=2011-09-16), en is in overeenstemming met die bijlage ingericht.
 
 ##### Artikel 8.2.2.2
 
-Het eindrapport over de aanleg, reparatie en buitengebruikstelling van een boorgat bevat de gegevens, aangegeven in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=12&z=2009-10-31&g=2009-10-31), en is in overeenstemming met [die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=12&z=2009-10-31&g=2009-10-31) ingericht.
+Het eindrapport over de aanleg, reparatie en buitengebruikstelling van een boorgat bevat de gegevens, aangegeven in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=12&z=2011-09-16&g=2011-09-16), en is in overeenstemming met [die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=12&z=2011-09-16&g=2011-09-16) ingericht.
 
-#### § 8.2.3. Werkprogramma voor reparatie van putten
+#### § 8.2.2
 
 ##### Artikel 8.2.3.1
 
@@ -1451,7 +1455,7 @@ Het eindrapport over de aanleg, reparatie en buitengebruikstelling van een boorg
 
 1. Het werkprogramma voor de reparatie van een put is tenminste twee weken vóór de aanvang van de betrokken werkzaamheden in het bezit van de inspecteur-generaal der mijnen.
 
-2. [Artikel 8.2.1.2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.1&artikel=8.2.1.2&z=2009-10-31&g=2009-10-31), is van overeenkomstige toepassing.
+2. [Artikel 8.2.1.2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.1&artikel=8.2.1.2&z=2011-09-16&g=2011-09-16), is van overeenkomstige toepassing.
 
 ##### Artikel 8.2.3.3
 
@@ -1531,7 +1535,7 @@ Deze paragraaf is van overeenkomstige toepassing op boorgaten.
 
 1. Het werkprogramma voor het buitengebruik stellen van een put is tenminste vier weken vóór de aanvang van de betrokken werkzaamheden in het bezit van de inspecteur-generaal der mijnen.
 
-2. [Artikel 8.2.1.2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.1&artikel=8.2.1.2&z=2009-10-31&g=2009-10-31), is van overeenkomstige toepassing.
+2. [Artikel 8.2.1.2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.1&artikel=8.2.1.2&z=2011-09-16&g=2011-09-16), is van overeenkomstige toepassing.
 
 ##### Artikel 8.2.4.3
 
@@ -1579,13 +1583,13 @@ Deze afdeling is niet van toepassing op boorgaten waarmee wordt beoogd de aanwez
 
 - f. boorgereedschapafsluiters.
 
-3. De beveiligingsinstallatie, met uitzondering van het bedieningsgedeelte en de in [artikel 8.3.1.4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.4&z=2009-10-31&g=2009-10-31), bedoelde compressielichaamafsluiter, kan te allen tijde tenminste de aan de bovenzijde van het boorgat te verwachten maximale druk weerstaan.
+3. De beveiligingsinstallatie, met uitzondering van het bedieningsgedeelte en de in [artikel 8.3.1.4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.4&z=2011-09-16&g=2011-09-16), bedoelde compressielichaamafsluiter, kan te allen tijde tenminste de aan de bovenzijde van het boorgat te verwachten maximale druk weerstaan.
 
 4. Indien enig vermoeden bestaat dat er zwavelwaterstofhoudend gas aanwezig is, is de beveiligingsinstallatie bestand tegen blootstelling aan zwavelwaterstofhoudend gas.
 
 ##### Artikel 8.3.1.4
 
-1. De in [artikel 8.3.1.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.3&z=2009-10-31&g=2009-10-31), bedoelde beveiligingsinstallatie bevat in ieder geval de volgende boorgatafsluiters:
+1. De in [artikel 8.3.1.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.3&z=2011-09-16&g=2011-09-16), bedoelde beveiligingsinstallatie bevat in ieder geval de volgende boorgatafsluiters:
 
 - a. een compressielichaamafsluiter;
 
@@ -1613,7 +1617,7 @@ Deze afdeling is niet van toepassing op boorgaten waarmee wordt beoogd de aanwez
 
 - a. wordt opgesteld op een goed bereikbare plaats gelegen buiten de boorvloer;
 
-- b. bevat een zodanige hoeveelheid bedieningsvloeistof dat met uitgeschakelde pompen en onder heersende atmosferische condities alle in [artikel 8.3.1.4, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.4&z=2009-10-31&g=2009-10-31), bedoelde afsluiters gesloten en geopend kunnen worden en vervolgens de afsluiter, bedoeld in [artikel 8.3.1.4, eerste lid, onderdeel a, en, onderdelen b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.4&z=2009-10-31&g=2009-10-31), nogmaals onder heersende atmosferische condities gesloten kunnen worden, en
+- b. bevat een zodanige hoeveelheid bedieningsvloeistof dat met uitgeschakelde pompen en onder heersende atmosferische condities alle in [artikel 8.3.1.4, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.4&z=2011-09-16&g=2011-09-16), bedoelde afsluiters gesloten en geopend kunnen worden en vervolgens de afsluiter, bedoeld in [artikel 8.3.1.4, eerste lid, onderdeel a, en, onderdelen b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.4&z=2011-09-16&g=2011-09-16), nogmaals onder heersende atmosferische condities gesloten kunnen worden, en
 
 - c. wordt zo ingericht en onderhouden dat te allen tijde een zodanige hoeveelheid elektrisch vermogen, luchtdruk en bedieningsvloeistof aanwezig is dat het boorgat kan worden afgesloten.
 
@@ -1621,11 +1625,11 @@ Deze afdeling is niet van toepassing op boorgaten waarmee wordt beoogd de aanwez
 
 ##### Artikel 8.3.1.6
 
-1. Een van de in [artikel 8.3.1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.3&z=2009-10-31&g=2009-10-31), bedoelde bedieningspanelen wordt opgesteld op de boorvloer op een voor de boormeester goed bereikbare plaats.
+1. Een van de in [artikel 8.3.1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.3&z=2011-09-16&g=2011-09-16), bedoelde bedieningspanelen wordt opgesteld op de boorvloer op een voor de boormeester goed bereikbare plaats.
 
 2. Het tweede bedieningspaneel wordt opgesteld op een plaats die ook tijdens calamiteiten voor een ieder goed bereikbaar is.
 
-3. Met behulp van de in het eerste en tweede lid bedoelde bedieningspanelen kunnen de in [artikel 8.3.1.4, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.4&z=2009-10-31&g=2009-10-31), bedoelde boorgatafsluiters worden bediend.
+3. Met behulp van de in het eerste en tweede lid bedoelde bedieningspanelen kunnen de in [artikel 8.3.1.4, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.4&z=2011-09-16&g=2011-09-16), bedoelde boorgatafsluiters worden bediend.
 
 4. Het bedieningspaneel, bedoeld in het eerste lid, is voorzien van visuele indicatoren die aangeven in welke stand de bijbehorende verdeelklep in het hoofdbedieningsverdeelwerk staat.
 
@@ -1649,7 +1653,7 @@ Deze afdeling is niet van toepassing op boorgaten waarmee wordt beoogd de aanwez
 
 3. Het smoorverdeelstuk en de hiermee verbonden aan- en afvoerleidingen zijn zo verankerd dat krachten tengevolge van het aan- en afvoeren van gassen of vloeistoffen kunnen worden opgenomen zonder schade te veroorzaken aan het verdeelstuk of aan de aan- of afvoerleidingen.
 
-4. De leidingen van de beveiligingsinstallatie en de erbij behorende afsluiters voor en direct achter de smoorverdeelstukken kunnen tenminste dezelfde werkdruk weerstaan als de in [artikel 8.3.1.4, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.4&z=2009-10-31&g=2009-10-31), bedoelde boorgatafsluiters.
+4. De leidingen van de beveiligingsinstallatie en de erbij behorende afsluiters voor en direct achter de smoorverdeelstukken kunnen tenminste dezelfde werkdruk weerstaan als de in [artikel 8.3.1.4, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.4&z=2011-09-16&g=2011-09-16), bedoelde boorgatafsluiters.
 
 ##### Artikel 8.3.1.9
 
@@ -1667,7 +1671,7 @@ De annulaire ruimte tussen de laatst geplaatste drukhoudende serie der verbuizin
 
 1. De beveiligingsinstallatie is zo ingericht, dat vloeistoffen ook op een andere wijze dan via het boorgereedschap in het boorgat kunnen worden gepompt, terwijl gelijktijdig gas of vloeistof via het smoorverdeelstuk afgevoerd kan worden.
 
-2. In elke leiding voor het inpompen van vloeistof in het boorgat en voor het afvoeren van gas of vloeistof zijn zo dicht mogelijk bij de boorgatafsluiters twee afsluiters geplaatst. Ten minste een van die afsluiters kan met behulp van het in [artikel 8.3.1.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.6&z=2009-10-31&g=2009-10-31), bedoelde bedieningspaneel worden bediend.
+2. In elke leiding voor het inpompen van vloeistof in het boorgat en voor het afvoeren van gas of vloeistof zijn zo dicht mogelijk bij de boorgatafsluiters twee afsluiters geplaatst. Ten minste een van die afsluiters kan met behulp van het in [artikel 8.3.1.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.6&z=2011-09-16&g=2011-09-16), bedoelde bedieningspaneel worden bediend.
 
 3. De leiding voor het inpompen van vloeistof in het boorgat is voorzien van een terugslagklep.
 
@@ -1695,9 +1699,9 @@ Bij een persproef tot de maximale druk die zich naar berekening in de serie der 
 
 1. De aangesloten boorgatafsluiters, smoorverdeelstukken en leidingen worden op een goede afsluitende werking getest met behulp van een persproef:
 
-- a. tenminste eenmaal per drie weken gedurende vijf minuten op 2,5 MPa en aansluitend gedurende de periode, genoemd in [artikel 8.3.2.1, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.2&artikel=8.3.2.1&z=2009-10-31&g=2009-10-31), op tenminste 50% van de te verwachten maximale druk die aan de bovenzijde van het boorgat onder de meest ongunstige condities kan optreden, en
+- a. tenminste eenmaal per drie weken gedurende vijf minuten op 2,5 MPa en aansluitend gedurende de periode, genoemd in [artikel 8.3.2.1, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.2&artikel=8.3.2.1&z=2011-09-16&g=2011-09-16), op tenminste 50% van de te verwachten maximale druk die aan de bovenzijde van het boorgat onder de meest ongunstige condities kan optreden, en
 
-- b. gedurende vijf minuten op 2,5 MPa en aansluitend gedurende de periode, genoemd in [artikel 8.3.2.1, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.2&artikel=8.3.2.1&z=2009-10-31&g=2009-10-31), op de te verwachten maximale druk die aan de bovenzijde van het boorgat onder de meest ongunstige condities kan optreden:
+- b. gedurende vijf minuten op 2,5 MPa en aansluitend gedurende de periode, genoemd in [artikel 8.3.2.1, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.2&artikel=8.3.2.1&z=2011-09-16&g=2011-09-16), op de te verwachten maximale druk die aan de bovenzijde van het boorgat onder de meest ongunstige condities kan optreden:
 
 - 1°. binnen een week voor het mogelijk aanboren van een formatie waarvan verwacht kan worden dat deze productief is, en overigens
 
@@ -1717,13 +1721,13 @@ Bij een persproef tot de maximale druk die zich naar berekening in de serie der 
 
 3. Tenminste eenmaal per vier weken worden, met de bedieningsvloeistof onder maximaal gereduceerde druk, de in gebruik zijnde schuifafsluiters getest op hun functioneren.
 
-4. Direct nadat werkzaamheden aan het bedieningsgedeelte van de beveiligingsinstallatie hebben plaatsgevonden, worden de van toepassing zijnde testen, bedoeld in het eerste, tweede en derde lid, voor dat gedeelte en de delen die direct daarmee in verbinding staan herhaald onder de werkdruk, bedoeld in [artikel 8.3.1.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.8&z=2009-10-31&g=2009-10-31).
+4. Direct nadat werkzaamheden aan het bedieningsgedeelte van de beveiligingsinstallatie hebben plaatsgevonden, worden de van toepassing zijnde testen, bedoeld in het eerste, tweede en derde lid, voor dat gedeelte en de delen die direct daarmee in verbinding staan herhaald onder de werkdruk, bedoeld in [artikel 8.3.1.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.8&z=2011-09-16&g=2011-09-16).
 
 5. De test, bedoeld in het eerste lid, vindt plaats door afwisselend elk van de bedieningspanelen te gebruiken.
 
 ##### Artikel 8.3.2.4
 
-1. De boorgatafsluiters worden gedurende de periode, genoemd in [artikel 8.3.2.1, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.2&artikel=8.3.2.1&z=2009-10-31&g=2009-10-31), tot de maximaal toelaatbare werkdruk getest met behulp van een persproef:
+1. De boorgatafsluiters worden gedurende de periode, genoemd in [artikel 8.3.2.1, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.2&artikel=8.3.2.1&z=2011-09-16&g=2011-09-16), tot de maximaal toelaatbare werkdruk getest met behulp van een persproef:
 
 - a. voor het in gebruik nemen;
 
@@ -1735,9 +1739,9 @@ Bij een persproef tot de maximale druk die zich naar berekening in de serie der 
 
 ##### Artikel 8.3.2.5
 
-1. De resultaten van de in de [artikelen 8.3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.2&artikel=8.3.2.2&z=2009-10-31&g=2009-10-31) en [8.3.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.2&artikel=8.3.2.4&z=2009-10-31&g=2009-10-31) bedoelde testen worden schriftelijk vastgelegd.
+1. De resultaten van de in de [artikelen 8.3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.2&artikel=8.3.2.2&z=2011-09-16&g=2011-09-16) en [8.3.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.2&artikel=8.3.2.4&z=2011-09-16&g=2011-09-16) bedoelde testen worden schriftelijk vastgelegd.
 
-2. Van de in [artikel 8.3.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.2&artikel=8.3.2.3&z=2009-10-31&g=2009-10-31) genoemde testen worden de gegevens schriftelijk vastgelegd met gebruikmaking van een formulier, waarvan een model is opgenomen in [bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=13&z=2009-10-31&g=2009-10-31).
+2. Van de in [artikel 8.3.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.2&artikel=8.3.2.3&z=2011-09-16&g=2011-09-16) genoemde testen worden de gegevens schriftelijk vastgelegd met gebruikmaking van een formulier, waarvan een model is opgenomen in [bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&bijlage=13&z=2011-09-16&g=2011-09-16).
 
 ##### Artikel 8.3.2.6
 
@@ -1753,7 +1757,7 @@ Bij een persproef tot de maximale druk die zich naar berekening in de serie der 
 
 ##### Artikel 8.3.3.1
 
-1. Wanneer bij een boring of werkzaamheden aan een produceerbare put de putbeveiligingsinstallatie is aangebracht, nemen alle direct bij de werkzaamheden aan de put betrokken personen ten minste eenmaal per week aan een van de onder [artikel 8.3.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.2&artikel=8.3.2.2&z=2009-10-31&g=2009-10-31) genoemde putbeveiligingsoefeningen deel.
+1. Wanneer bij een boring of werkzaamheden aan een produceerbare put de putbeveiligingsinstallatie is aangebracht, nemen alle direct bij de werkzaamheden aan de put betrokken personen ten minste eenmaal per week aan een van de onder [artikel 8.3.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.2&artikel=8.3.2.2&z=2011-09-16&g=2011-09-16) genoemde putbeveiligingsoefeningen deel.
 
 2. Van personen als in het eerste lid bedoeld en van de door hen gehouden putbeveiligingsoefeningen wordt aantekening gehouden in het dagelijks boorregister.
 
@@ -1775,11 +1779,11 @@ Bij een persproef tot de maximale druk die zich naar berekening in de serie der 
 
 3. Voor de uitvoering van een putbeveiligingsoefening is een procedure opgesteld, die bij de put voorhanden is.
 
-#### § 8.3.4. Reparatie van een put
+#### §. Periodieke beveiligingsoefeningen in verband met boorgaten en putten
 
 ##### Artikel 8.3.4.1
 
-1. Bij het vervangen van het spuitkruis (X-mas tree) door de boorgatafsluiters worden de [artikelen 8.3.1.3 tot en met 8.3.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.3&z=2009-10-31&g=2009-10-31), met uitzondering van [artikel 8.3.1.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.6&z=2009-10-31&g=2009-10-31), in acht genomen, met dien verstande dat, in afwijking van [artikel 8.3.1.3, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.3&z=2009-10-31&g=2009-10-31), kan worden volstaan met één bedieningspaneel.
+1. Bij het vervangen van het spuitkruis (X-mas tree) door de boorgatafsluiters worden de [artikelen 8.3.1.3 tot en met 8.3.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.3&z=2011-09-16&g=2011-09-16), met uitzondering van [artikel 8.3.1.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.6&z=2011-09-16&g=2011-09-16), in acht genomen, met dien verstande dat, in afwijking van [artikel 8.3.1.3, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.3&z=2011-09-16&g=2011-09-16), kan worden volstaan met één bedieningspaneel.
 
 2. Tijdens het verwijderen en het terugplaatsen van het spuitkruis is een spuitend producerende put tenminste drievoudig beveiligd tegen uitstroming en zijn niet-spuitende, producerende putten tenminste tweevoudig beveiligd.
 
@@ -1899,7 +1903,7 @@ Deze afdeling is mede van toepassing op boorgaten.
 
 3. Waar in deze paragraaf een "cementplug" wordt voorgeschreven, kan een ander middel worden gebruikt, mits dat resulteert in ten minste een gelijkwaardige afsluiting.
 
-#### § 8.5.2. Regels over buiten gebruik stellen
+#### § 8.5.1. Algemeen
 
 ##### Artikel 8.5.2.1
 
@@ -1913,7 +1917,7 @@ Deze afdeling is mede van toepassing op boorgaten.
 
 2. De afsluiting doorstaat de testen goed.
 
-3. Het eerste en tweede lid zijn niet van toepassing op een afsluiting als bedoeld in [artikel 8.5.2.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.5&paragraaf=8.5.2&artikel=8.5.2.7&z=2009-10-31&g=2009-10-31).
+3. Het eerste en tweede lid zijn niet van toepassing op een afsluiting als bedoeld in [artikel 8.5.2.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.5&paragraaf=8.5.2&artikel=8.5.2.7&z=2011-09-16&g=2011-09-16).
 
 ##### Artikel 8.5.2.2
 
@@ -1951,17 +1955,17 @@ Indien een put buiten gebruik wordt gesteld waarin zich een gecementeerde afgeha
 
 ##### Artikel 8.5.2.5
 
-1. In elke annulaire ruimte tussen de series van de verbuizing van een buiten gebruik te stellen put wordt een afsluiting aangebracht over een lengte van tenminste honderd meter vanaf de schoen van de daaraan direct voorafgaande verbuizing. In het in [artikel 8.2.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.4&artikel=8.2.4.1&z=2009-10-31&g=2009-10-31) bedoelde werkprogramma wordt aangegeven op welke wijze wordt vastgesteld dat deze afsluiting afdoende is aangebracht.
+1. In elke annulaire ruimte tussen de series van de verbuizing van een buiten gebruik te stellen put wordt een afsluiting aangebracht over een lengte van tenminste honderd meter vanaf de schoen van de daaraan direct voorafgaande verbuizing. In het in [artikel 8.2.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.4&artikel=8.2.4.1&z=2011-09-16&g=2011-09-16) bedoelde werkprogramma wordt aangegeven op welke wijze wordt vastgesteld dat deze afsluiting afdoende is aangebracht.
 
 2. Indien niet aangetoond kan worden dat de annulaire ruimte tussen twee series is afgesloten:
 
-- a. wordt de kleinste verbuizing die de annulaire ruimte begrenst, over een zo groot mogelijke lengte teruggewonnen, met dien verstande dat de afsnijding van deze serie zo dicht mogelijk boven de schoen van de daaraan direct voorafgaande verbuizing geschiedt, terwijl het gedeelte dat in de put achterblijft overeenkomstig [artikel 8.5.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.5&paragraaf=8.5.2&artikel=8.5.2.4&z=2009-10-31&g=2009-10-31) wordt afgesloten, of
+- a. wordt de kleinste verbuizing die de annulaire ruimte begrenst, over een zo groot mogelijke lengte teruggewonnen, met dien verstande dat de afsnijding van deze serie zo dicht mogelijk boven de schoen van de daaraan direct voorafgaande verbuizing geschiedt, terwijl het gedeelte dat in de put achterblijft overeenkomstig [artikel 8.5.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.5&paragraaf=8.5.2&artikel=8.5.2.4&z=2011-09-16&g=2011-09-16) wordt afgesloten, of
 
 - b. wordt de verbuizing ter hoogte van de daaraan direct voorafgaande schoen geperforeerd, in de annulaire ruimte een cement plug over een lengte van tenminste honderd meter geplaatst en de afsluiting van de annulaire ruimte door een drukproef gecontroleerd.
 
 ##### Artikel 8.5.2.6
 
-Indien een buiten gebruik te stellen put door een reservoir gaat, waarvan de inhoud mogelijk naar het oppervlak kan stromen, wordt ter hoogte van de annulaire afsluiting, bedoeld in [artikel 8.5.2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.5&paragraaf=8.5.2&artikel=8.5.2.5&z=2009-10-31&g=2009-10-31), die zich het dichtst boven het reservoir bevindt, in zowel de put als alle annulaire ruimten op hetzelfde niveau een cementplug van ten minste honderd meter aangebracht.
+Indien een buiten gebruik te stellen put door een reservoir gaat, waarvan de inhoud mogelijk naar het oppervlak kan stromen, wordt ter hoogte van de annulaire afsluiting, bedoeld in [artikel 8.5.2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.5&paragraaf=8.5.2&artikel=8.5.2.5&z=2011-09-16&g=2011-09-16), die zich het dichtst boven het reservoir bevindt, in zowel de put als alle annulaire ruimten op hetzelfde niveau een cementplug van ten minste honderd meter aangebracht.
 
 ##### Artikel 8.5.2.7
 
@@ -2017,11 +2021,11 @@ In deze paragraaf wordt verstaan onder:
 
 - c. hemel-, schrob- of spoelwater dat olie in welk gehalte dan ook bevat.
 
-3. De uitvoerder draagt er zorg voor dat bij lozing van oliehoudende mengsels de daarin aanwezige gedispergeerde oliegehalten, genoemd in [artikel 9.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.5&z=2009-10-31&g=2009-10-31), niet worden overschreden.
+3. De uitvoerder draagt er zorg voor dat bij lozing van oliehoudende mengsels de daarin aanwezige gedispergeerde oliegehalten, genoemd in [artikel 9.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.5&z=2011-09-16&g=2011-09-16), niet worden overschreden.
 
 ##### Artikel 9.1.3
 
-1. Het debiet van een oliehoudend mengsel als bedoeld in [artikel 9.1.2, tweede lid, onderdelen a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.2&z=2009-10-31&g=2009-10-31), dat wordt geloosd vanaf een mijnbouwinstallatie, wordt gemeten met behulp van een debietmeter die de totale hoeveelheid geloosd oliehoudend mengsel aangeeft met een maximaal toelaatbare fout van vijf procent in plus of in min. De debietmeter wordt stroomafwaarts van de laatste olie/waterscheider geplaatst op een plaats waar de stroming zo homogeen mogelijk is.
+1. Het debiet van een oliehoudend mengsel als bedoeld in [artikel 9.1.2, tweede lid, onderdelen a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.2&z=2011-09-16&g=2011-09-16), dat wordt geloosd vanaf een mijnbouwinstallatie, wordt gemeten met behulp van een debietmeter die de totale hoeveelheid geloosd oliehoudend mengsel aangeeft met een maximaal toelaatbare fout van vijf procent in plus of in min. De debietmeter wordt stroomafwaarts van de laatste olie/waterscheider geplaatst op een plaats waar de stroming zo homogeen mogelijk is.
 
 2. De minister kan ontheffing verlenen van het eerste lid.
 
@@ -2031,7 +2035,7 @@ In deze paragraaf wordt verstaan onder:
 
 | (a) Per lozingspunt | Frequentie monsterneming en analyse |
 | --- | --- |
-| oliehoudende mengsels als bedoeld in [artikel 9.1.2, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.2&z=2009-10-31&g=2009-10-31) |   |
+| oliehoudende mengsels als bedoeld in [artikel 9.1.2, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.2&z=2011-09-16&g=2011-09-16) |   |
 | Gedispergeerde olie |   |
 | >= 2000 kilogram gedispergeerde olie per kalenderjaar | Om de dag |
 | < 2000 kilogram gedispergeerde olie per kalenderjaar | 1 maal per week |
@@ -2041,7 +2045,7 @@ In deze paragraaf wordt verstaan onder:
 | >= 200, < 2000 kilogram opgeloste olie per kalenderjaar | 1 maal per kwartaal |
 | < 200 kilogram opgeloste olie per kalenderjaar | 2 maal per jaar |
 |   |   |
-| oliehoudende mengsels als bedoeld in [artikel 9.1.2, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.2&z=2009-10-31&g=2009-10-31) |   |
+| oliehoudende mengsels als bedoeld in [artikel 9.1.2, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.2&z=2011-09-16&g=2011-09-16) |   |
 | Gedispergeerde olie |   |
 | >= 2000 kg gedispergeerde olie per kalenderjaar | Om de dag |
 | < 2000 kg gedispergeerde olie per kalenderjaar | 1 maal per week |
@@ -2062,7 +2066,7 @@ In deze paragraaf wordt verstaan onder:
 
 8. Voor de bepaling van het opgeloste oliegehalte geschiedt de analyse van het monster door toepassing van Ospar-akkoord 2005-15 ter bepaling van het opgeloste oliegehalte van een oliehoudend mengsel. Analyse van het opgeloste oliegehalte volgens een alternatieve methode, daaronder mede begrepen een methode van kalibreren, is toegestaan, mits daarvoor voorafgaande instemming van de minister is verkregen en de resultaten van de analyse worden gekalibreerd volgens de opgegeven methode.
 
-9. In afwijking van het eerste lid wordt op een bemande mijnbouwinstallatie waarvan de gegevens, bedoeld in [artikel 9.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.6&z=2009-10-31&g=2009-10-31), een periode beslaan van minder dan drie aaneengesloten kalendermaanden per lozingspunt binnen uiterlijk vier uur na het begin van een lozing van een oliehoudend mengsel een representatief monster van het mengsel genomen en geanalyseerd en vervolgens om de dag totdat de periode van drie kalendermaanden is gecompleteerd. Nadien is de tweede volzin van het eerste lid van overeenkomstige toepassing.
+9. In afwijking van het eerste lid wordt op een bemande mijnbouwinstallatie waarvan de gegevens, bedoeld in [artikel 9.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.6&z=2011-09-16&g=2011-09-16), een periode beslaan van minder dan drie aaneengesloten kalendermaanden per lozingspunt binnen uiterlijk vier uur na het begin van een lozing van een oliehoudend mengsel een representatief monster van het mengsel genomen en geanalyseerd en vervolgens om de dag totdat de periode van drie kalendermaanden is gecompleteerd. Nadien is de tweede volzin van het eerste lid van overeenkomstige toepassing.
 
 ##### Artikel 9.1.5
 
@@ -2072,11 +2076,11 @@ In deze paragraaf wordt verstaan onder:
 
 - b. voor zover het het opgeloste oliegehalte van het mengsel betreft.
 
-2. Het eerste lid, onderdeel a, geldt voor elk van de in [artikel 9.1.2, tweede lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.2&z=2009-10-31&g=2009-10-31), bedoelde oliehoudende mengsels afzonderlijk. De minister kan ontheffing verlenen van de eerste volzin.
+2. Het eerste lid, onderdeel a, geldt voor elk van de in [artikel 9.1.2, tweede lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.2&z=2011-09-16&g=2011-09-16), bedoelde oliehoudende mengsels afzonderlijk. De minister kan ontheffing verlenen van de eerste volzin.
 
-3. Het is verboden een oliehoudend mengsel als bedoeld in [artikel 9.1.2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.2&z=2009-10-31&g=2009-10-31), te verdunnen om te kunnen voldoen aan het gestelde in het eerste lid, onderdeel a, van dit artikel.
+3. Het is verboden een oliehoudend mengsel als bedoeld in [artikel 9.1.2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.2&z=2011-09-16&g=2011-09-16), te verdunnen om te kunnen voldoen aan het gestelde in het eerste lid, onderdeel a, van dit artikel.
 
-4. In afwijking van het eerste lid, onderdeel a, is het lozen van een oliehoudend mengsel als bedoeld in [artikel 9.1.2, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.2&z=2009-10-31&g=2009-10-31), met een gedispergeerde oliegehalte van meer dan 100 milligram olie per liter gedurende vier uur toegestaan na het starten van de produktie na een onderbreking, mits de te lozen hoeveelheid olie zoveel mogelijk wordt beperkt. Bij de bepaling van het maandelijks gemiddelde gedispergeerde oliegehalte van een oliehoudend mengsel wordt het gedispergeerde oliegehalte van een monster dat genomen is binnen vier uur na het starten van de produktie niet meegerekend.
+4. In afwijking van het eerste lid, onderdeel a, is het lozen van een oliehoudend mengsel als bedoeld in [artikel 9.1.2, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.2&z=2011-09-16&g=2011-09-16), met een gedispergeerde oliegehalte van meer dan 100 milligram olie per liter gedurende vier uur toegestaan na het starten van de produktie na een onderbreking, mits de te lozen hoeveelheid olie zoveel mogelijk wordt beperkt. Bij de bepaling van het maandelijks gemiddelde gedispergeerde oliegehalte van een oliehoudend mengsel wordt het gedispergeerde oliegehalte van een monster dat genomen is binnen vier uur na het starten van de produktie niet meegerekend.
 
 ##### Artikel 9.1.6
 
@@ -2102,7 +2106,7 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 9.2.1
 
-In de [paragrafen 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&z=2009-10-31&g=2009-10-31) en [9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.3&z=2009-10-31&g=2009-10-31) wordt verstaan onder:
+In de [paragrafen 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&z=2011-09-16&g=2011-09-16) en [9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.3&z=2011-09-16&g=2011-09-16) wordt verstaan onder:
 
 - a. ASTM: American Society for Testing and Materials;
 
@@ -2130,7 +2134,7 @@ In de [paragrafen 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk
 
 - m. OPF-vloeistoffen: organische boorvloeistoffen, welke bestaan uit een emulsie van water en andere toevoegingen, waarin de continue fase bestaat uit een niet met water vermengbare organische vloeistof van dierlijke, plantaardige of minerale oorsprong;
 
-- n. Osparverdrag: het verdrag, bedoeld in [artikel 9.1.1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.1&z=2009-10-31&g=2009-10-31);
+- n. Osparverdrag: het verdrag, bedoeld in [artikel 9.1.1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.1&z=2011-09-16&g=2011-09-16);
 
 - o. PEC/PNEC-verhouding: de generieke verhouding tussen de verwachte concentratie in het mariene milieu en de concentratie zonder verwachte effecten van chemicaliën, berekend volgens het CHARM-model, uitgaande van standaardlozingen;
 
@@ -2160,7 +2164,7 @@ Deze paragraaf is van toepassing op het gebruik en de lozing van chemicaliën op
 
 3. De Minister beslist binnen acht weken na ontvangst van de aanvraag.
 
-4. Op gebruik van OPF-vloeistof in een boorgat met een kleinere doorsnede dan bedoeld in het eerste lid, onderdeel b, zijn de [artikelen 9.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.5&z=2009-10-31&g=2009-10-31) en [9.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.6&z=2009-10-31&g=2009-10-31) van overeenkomstige toepassing.
+4. Op gebruik van OPF-vloeistof in een boorgat met een kleinere doorsnede dan bedoeld in het eerste lid, onderdeel b, zijn de [artikelen 9.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.5&z=2011-09-16&g=2011-09-16) en [9.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.6&z=2011-09-16&g=2011-09-16) van overeenkomstige toepassing.
 
 ##### Artikel 9.2.4
 
@@ -2180,7 +2184,7 @@ Deze paragraaf is van toepassing op het gebruik en de lozing van chemicaliën op
 
 ##### Artikel 9.2.5
 
-1. Onverminderd [artikel 9.2.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.6&z=2009-10-31&g=2009-10-31), is het verboden andere chemicaliën dan genoemd in de [artikelen 9.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.3&z=2009-10-31&g=2009-10-31) en [9.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.4&z=2009-10-31&g=2009-10-31) te gebruiken respectievelijk te lozen zonder ontheffing van de Minister.
+1. Onverminderd [artikel 9.2.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.6&z=2011-09-16&g=2011-09-16), is het verboden andere chemicaliën dan genoemd in de [artikelen 9.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.3&z=2011-09-16&g=2011-09-16) en [9.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.4&z=2011-09-16&g=2011-09-16) te gebruiken respectievelijk te lozen zonder ontheffing van de Minister.
 
 2. De aanvraag om ontheffing wordt uiterlijk acht weken voor aanvang van het beoogde gebruik of de beoogde lozing ingediend bij de Minister
 
@@ -2194,7 +2198,7 @@ Deze paragraaf is van toepassing op het gebruik en de lozing van chemicaliën op
 
 - d. de doeleinden waarvoor de te gebruiken of te lozen chemicaliën zullen worden toegepast, en
 
-- e. het registratienummer dat aan de chemicaliën is toegekend en andere gegevens voor zover deze bij de kennisgeving, bedoeld in [artikel 9.3.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.3&artikel=9.3.2&z=2009-10-31&g=2009-10-31), zijn opgenomen.
+- e. het registratienummer dat aan de chemicaliën is toegekend en andere gegevens voor zover deze bij de kennisgeving, bedoeld in [artikel 9.3.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.3&artikel=9.3.2&z=2011-09-16&g=2011-09-16), zijn opgenomen.
 
 4. Voorts wordt bij de aanvraag voldoende beargumenteerd ingegaan op veiligheids- en gezondheidsaspecten en financiële factoren die gemoeid zijn met het gebruik of het lozen van chemicaliën alsmede op de technische prestaties van de chemicaliën.
 
@@ -2206,7 +2210,7 @@ Deze paragraaf is van toepassing op het gebruik en de lozing van chemicaliën op
 
 ##### Artikel 9.2.6
 
-1. Indien een aanvraag om ontheffing als bedoeld in [artikel 9.2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.5&z=2009-10-31&g=2009-10-31), betrekking heeft:
+1. Indien een aanvraag om ontheffing als bedoeld in [artikel 9.2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.5&z=2011-09-16&g=2011-09-16), betrekking heeft:
 
 - a. op chemicaliën als bedoeld in onderdeel a wordt de aanvraag geweigerd;
 
@@ -2238,7 +2242,7 @@ Deze paragraaf is van toepassing op het gebruik en de lozing van chemicaliën op
 
 ##### Artikel 9.2.7
 
-1. Het gebruiken of het lozen van andere chemicaliën dan die genoemd in de [artikelen 9.2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.5&z=2009-10-31&g=2009-10-31) en [9.2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.6&z=2009-10-31&g=2009-10-31), is toegestaan, mits de uitvoerder aan de Minister:
+1. Het gebruiken of het lozen van andere chemicaliën dan die genoemd in de [artikelen 9.2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.5&z=2011-09-16&g=2011-09-16) en [9.2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.6&z=2011-09-16&g=2011-09-16), is toegestaan, mits de uitvoerder aan de Minister:
 
 a. dit ten minste acht weken voor de aanvang van het gebruik of de lozing schriftelijk meldt en
 
@@ -2246,7 +2250,7 @@ b. heeft aangetoond dat de PEC/PNEC-verhouding van de chemicaliën gelijk is aan
 
 2. Het eerste lid is van overeenkomstige toepassing indien de PEC/PNEC-verhouding van de chemicaliën, bedoeld in het eerste lid, gelijk of kleiner is dan 3, maar groter dan 1, mits de uitvoerder naar het oordeel van de Minister bij de melding voldoende beargumenteerd is ingegaan op veiligheids- en gezondheidsaspecten en financiële factoren die gemoeid zijn bij het gebruik of het lozen van de chemicaliën alsmede op de technische prestaties ervan en verder heeft aangegeven waarom voor de chemicaliën geen minder schadelijke vervangende middelen beschikbaar zijn.
 
-3. [Artikel 9.2.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.5&z=2009-10-31&g=2009-10-31), is van overeenkomstige toepassing op een melding.
+3. [Artikel 9.2.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.5&z=2011-09-16&g=2011-09-16), is van overeenkomstige toepassing op een melding.
 
 ##### Artikel 9.2.8
 
@@ -2256,7 +2260,7 @@ b. heeft aangetoond dat de PEC/PNEC-verhouding van de chemicaliën gelijk is aan
 
 - b. anorganisch zijn en een LC50 of EC50 van 1 mg/l of meer hebben, mits de uitvoerder dit ten minste acht weken voor de aanvang van het gebruik of de lozing aan de Minister schriftelijk meldt.
 
-2. [Artikel 9.2.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.5&z=2009-10-31&g=2009-10-31), is van toepassing.
+2. [Artikel 9.2.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.5&z=2011-09-16&g=2011-09-16), is van toepassing.
 
 ##### Artikel 9.2.9
 
@@ -2276,7 +2280,7 @@ Een HOCNF-formulier is een gegeven als bedoeld in [artikel 10, eerste lid, onder
 
 2. De Minister kan chemicaliën voor ten hoogste drie jaar in het register opnemen, ingaande op het tijdstip waarop de registratie heeft plaats gevonden.
 
-3. Nadat registratie heeft plaatsgevonden wordt degene die een aanvraag tot registratie als bedoeld in [artikel 9.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.3&artikel=9.3.3&z=2009-10-31&g=2009-10-31) om registratie heeft aangevraagd hiervan in kennis gesteld waarbij in elk geval het nummer wordt vermeld dat aan de geregistreerde chemicaliën is toegekend.
+3. Nadat registratie heeft plaatsgevonden wordt degene die een aanvraag tot registratie als bedoeld in [artikel 9.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.3&artikel=9.3.3&z=2011-09-16&g=2011-09-16) om registratie heeft aangevraagd hiervan in kennis gesteld waarbij in elk geval het nummer wordt vermeld dat aan de geregistreerde chemicaliën is toegekend.
 
 ### Hoofdstuk 10. Pijpleidingen
 
@@ -2290,7 +2294,7 @@ De eigenschappen, de aanleg en de ligging van alsmede het onderhoud aan een flex
 
 - a. API (American Petroleum Institute) Specification 17J, second edition, november 1999, zoals deze laatstelijk is vastgesteld in juni 2002, en
 
-- b. NEN 3650, genoemd in [artikel 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=10&artikel=10.1&z=2009-10-31&g=2009-10-31), met uitzondering van het gedeelte omtrent het sterktetechnisch ontwerp.
+- b. NEN 3650, genoemd in [artikel 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=10&artikel=10.1&z=2011-09-16&g=2011-09-16), met uitzondering van het gedeelte omtrent het sterktetechnisch ontwerp.
 
 ### Hoofdstuk 11. Verstrekking, beheer en gebruik van gegevens
 
@@ -2414,7 +2418,7 @@ De uitvoerder doet de minister opgaaf van de verkregen vloeistof- en gasmonsters
 
 ##### Artikel 11.2.1
 
-De gegevens die op grond van de [artikelen 11.1.1 tot en met 11.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=11&paragraaf=11.1&artikel=11.1.1&z=2009-10-31&g=2009-10-31) aan de minister worden verstrekt zijn voorzien van:
+De gegevens die op grond van de [artikelen 11.1.1 tot en met 11.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=11&paragraaf=11.1&artikel=11.1.1&z=2011-09-16&g=2011-09-16) aan de minister worden verstrekt zijn voorzien van:
 
 - a. een unieke object-identificatie;
 
@@ -2426,7 +2430,7 @@ De gegevens die op grond van de [artikelen 11.1.1 tot en met 11.1.6](https://wet
 
 ##### Artikel 11.2.2
 
-1. Een gesteentemonster als bedoeld in [artikel 11.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=11&paragraaf=11.1&artikel=11.1.5&z=2009-10-31&g=2009-10-31) wordt voorts verstrekt onder aanduiding van:
+1. Een gesteentemonster als bedoeld in [artikel 11.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=11&paragraaf=11.1&artikel=11.1.5&z=2011-09-16&g=2011-09-16) wordt voorts verstrekt onder aanduiding van:
 
 - a. het boorgat waaruit het is verkregen;
 
@@ -2518,35 +2522,35 @@ Vervallen
 
 ##### Artikel 14.2.1
 
-1. Een ontheffing als bedoeld in artikel 2, derde lid, van de Nadere regelen Mijnreglement 1964 en Mijnreglement continentaal plat beveiliging boorgaten geldt als een buitentoepassingverklaring als bedoeld in [artikel 8.3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.1&z=2009-10-31&g=2009-10-31).
+1. Een ontheffing als bedoeld in artikel 2, derde lid, van de Nadere regelen Mijnreglement 1964 en Mijnreglement continentaal plat beveiliging boorgaten geldt als een buitentoepassingverklaring als bedoeld in [artikel 8.3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.1&z=2011-09-16&g=2011-09-16).
 
-2. Een ontheffing als bedoeld in artikel 6, zesde lid, van de Nadere regelen Mijnreglement 1964 en Mijnreglement continentaal plat beveiliging boorgaten geldt als een ontheffing als bedoeld in [art. 8.3.1.4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.4&z=2009-10-31&g=2009-10-31).
+2. Een ontheffing als bedoeld in artikel 6, zesde lid, van de Nadere regelen Mijnreglement 1964 en Mijnreglement continentaal plat beveiliging boorgaten geldt als een ontheffing als bedoeld in [art. 8.3.1.4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.4&z=2011-09-16&g=2011-09-16).
 
-3. Een ontheffing als bedoeld in artikel 7, tweede lid, van de Nadere regelen Mijnreglement 1964 en Mijnreglement continentaal plat beveiliging boorgaten geldt als een ontheffing als bedoeld in [art. 8.3.1.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.5&z=2009-10-31&g=2009-10-31).
+3. Een ontheffing als bedoeld in artikel 7, tweede lid, van de Nadere regelen Mijnreglement 1964 en Mijnreglement continentaal plat beveiliging boorgaten geldt als een ontheffing als bedoeld in [art. 8.3.1.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.1&artikel=8.3.1.5&z=2011-09-16&g=2011-09-16).
 
-4. Een ontheffing als bedoeld in artikel 15, vierde lid, van de Nadere regelen Mijnreglement 1964 en Mijnreglement continentaal plat beveiliging boorgaten geldt als een ontheffing als bedoeld in [art. 8.3.2.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.2&artikel=8.3.2.2&z=2009-10-31&g=2009-10-31).
+4. Een ontheffing als bedoeld in artikel 15, vierde lid, van de Nadere regelen Mijnreglement 1964 en Mijnreglement continentaal plat beveiliging boorgaten geldt als een ontheffing als bedoeld in [art. 8.3.2.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.2&artikel=8.3.2.2&z=2011-09-16&g=2011-09-16).
 
-5. Een ontheffing als bedoeld in artikel 20, vierde lid, van de Nadere regelen Mijnreglement 1964 en Mijnreglement continentaal plat beveiliging boorgaten geldt als een ontheffing als bedoeld in [art. 8.3.4.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.4&artikel=8.3.4.1&z=2009-10-31&g=2009-10-31).
+5. Een ontheffing als bedoeld in artikel 20, vierde lid, van de Nadere regelen Mijnreglement 1964 en Mijnreglement continentaal plat beveiliging boorgaten geldt als een ontheffing als bedoeld in [art. 8.3.4.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.4&artikel=8.3.4.1&z=2011-09-16&g=2011-09-16).
 
 ##### Artikel 14.2.2
 
-1. Ontheffingen met betrekking tot de inrichting van putten, welke zijn verkregen voor inwerkingtreding van deze regeling, gelden als ontheffingen als bedoeld in [hoofdstuk 8, afdeling 8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.4&z=2009-10-31&g=2009-10-31).
+1. Ontheffingen met betrekking tot de inrichting van putten, welke zijn verkregen voor inwerkingtreding van deze regeling, gelden als ontheffingen als bedoeld in [hoofdstuk 8, afdeling 8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.4&z=2011-09-16&g=2011-09-16).
 
-2. Ontheffingen met betrekking tot de verbuizing van een buiten gebruik te stellen put, welke zijn verkregen voor inwerkingtreding van deze regeling, gelden als ontheffingen als bedoeld in [artikel 8.5.2.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.5&paragraaf=8.5.2&artikel=8.5.2.7&z=2009-10-31&g=2009-10-31).
+2. Ontheffingen met betrekking tot de verbuizing van een buiten gebruik te stellen put, welke zijn verkregen voor inwerkingtreding van deze regeling, gelden als ontheffingen als bedoeld in [artikel 8.5.2.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.5&paragraaf=8.5.2&artikel=8.5.2.7&z=2011-09-16&g=2011-09-16).
 
 #### § 14.1. Overgangsbepalingen met betrekking tot helikopterdekken
 
 ##### Artikel 14.3.1
 
-1. Een ontheffing als bedoeld in artikel 3, tweede lid, van de Regeling lozing van oliehoudende mengsels geldt als een ontheffing als bedoeld in [artikel 9.1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.3&z=2009-10-31&g=2009-10-31).
+1. Een ontheffing als bedoeld in artikel 3, tweede lid, van de Regeling lozing van oliehoudende mengsels geldt als een ontheffing als bedoeld in [artikel 9.1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.3&z=2011-09-16&g=2011-09-16).
 
-2. Een ontheffing als bedoeld in artikel 4, vierde lid, van de Regeling lozing van oliehoudende mengsels geldt als een ontheffing als bedoeld in [artikel 9.1.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.4&z=2009-10-31&g=2009-10-31).
+2. Een ontheffing als bedoeld in artikel 4, vierde lid, van de Regeling lozing van oliehoudende mengsels geldt als een ontheffing als bedoeld in [artikel 9.1.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.4&z=2011-09-16&g=2011-09-16).
 
-3. Een ontheffing als bedoeld in artikel 5, tweede lid, van de Regeling lozing van oliehoudende mengsels geldt als een ontheffing als bedoeld in [artikel 9.1.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.5&z=2009-10-31&g=2009-10-31).
+3. Een ontheffing als bedoeld in artikel 5, tweede lid, van de Regeling lozing van oliehoudende mengsels geldt als een ontheffing als bedoeld in [artikel 9.1.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.5&z=2011-09-16&g=2011-09-16).
 
 ##### Artikel 14.3.2
 
-Op mijnbouwinstallaties die geplaatst zijn voor 1 januari 1988 zijn de in [artikel 9.1.5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.5&z=2009-10-31&g=2009-10-31), genoemde normen van toepassing met ingang van 1 oktober 2003, mits tot dat tijdstip op deze installaties de best beschikbare technieken, bedoeld in aanhangsel 1 bij het Osparverdrag, worden toegepast om het alifatische oliegehalte niet meer dan 100 milligram olie per liter en het maandelijks gemiddelde alifatische oliegehalte niet meer dan 40 milligram olie per liter te laten bedragen.
+Op mijnbouwinstallaties die geplaatst zijn voor 1 januari 1988 zijn de in [artikel 9.1.5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.5&z=2011-09-16&g=2011-09-16), genoemde normen van toepassing met ingang van 1 oktober 2003, mits tot dat tijdstip op deze installaties de best beschikbare technieken, bedoeld in aanhangsel 1 bij het Osparverdrag, worden toegepast om het alifatische oliegehalte niet meer dan 100 milligram olie per liter en het maandelijks gemiddelde alifatische oliegehalte niet meer dan 40 milligram olie per liter te laten bedragen.
 
 ### Hoofdstuk 15. Slotbepalingen
 
@@ -2554,9 +2558,9 @@ Op mijnbouwinstallaties die geplaatst zijn voor 1 januari 1988 zijn de in [artik
 
 Deze regeling treedt in werking met ingang van 1 januari 2003, met dien verstande dat:
 
-- a. de [artikelen 9.2.3, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.3&z=2009-10-31&g=2009-10-31), [9.2.4, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.4&z=2009-10-31&g=2009-10-31), en [9.2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.5&z=2009-10-31&g=2009-10-31), met ingang van 1 juli 2003 in werking treden;
+- a. de [artikelen 9.2.3, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.3&z=2011-09-16&g=2011-09-16), [9.2.4, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.4&z=2011-09-16&g=2011-09-16), en [9.2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.5&z=2011-09-16&g=2011-09-16), met ingang van 1 juli 2003 in werking treden;
 
-- b. [artikel 9.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.3&artikel=9.3.2&z=2009-10-31&g=2009-10-31) met ingang van 1 januari 2004 in werking treedt.
+- b. [artikel 9.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.3&artikel=9.3.2&z=2011-09-16&g=2011-09-16) met ingang van 1 januari 2004 in werking treedt.
 
 ##### Artikel 15.2
 
@@ -2580,7 +2584,7 @@ Indien de aanvraag wordt gedaan door een rechtspersoon:
 
 Indien de aanvraag wordt gedaan door een natuurlijk persoon:
 
-### 2
+### A. Algemene gegevens
 
 Indien de aanvraag wordt gedaan door een rechtspersoon:
 
@@ -2590,7 +2594,7 @@ Indien de aanvraag wordt gedaan door een natuurlijk persoon:
 
 ## Bijlage 2. behorende bij [artikel 1.3.1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2005-06-18&g=2005-06-18) Gegevens, over te leggen bij een aanvraag om een opsporings- of winningsvergunning voor of mede koolwaterstoffen
 
-### 2
+### B
 
 Indien de aanvraag wordt gedaan door een rechtspersoon:
 
@@ -2602,45 +2606,45 @@ Het aantal en de eventuele namen van de mijnbouwwerken, geschikt voor de met de 
 
 De ervaringen met betrekking tot de opsporing van koolwaterstoffen en de winning daarvan door middel van boringen, op te geven per land of gebied, voor zover de technische leiding daarvan berustte bij de aanvrager of bij de rechtspersonen, die naar het oordeel van de aanvrager kunnen worden aangemerkt als diens moedermaatschappijen of als behorende tot de groep, waartoe de aanvrager behoort, onder vermelding van:
 
-De ervaringen met betrekking tot de opsporing van koolwaterstoffen en de winning daarvan door middel van boringen, op te geven per land of gebied, voor zover de technische leiding daarvan berustte bij de aanvrager of bij de rechtspersonen, die naar het oordeel van de aanvrager kunnen worden aangemerkt als diens moedermaatschappijen of als behorende tot de groep, waartoe de aanvrager behoort, onder vermelding van:
+Het aantal en de eventuele namen van de mijnbouwwerken, geschikt voor de met de aanvraag beoogde werkzaamheden:
 
-## Bijlage 3. behorende bij de [artikelen 1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.2&z=2005-06-18&g=2005-06-18) en [1.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.5&z=2005-06-18&g=2005-06-18)
+## Bijlage 2. behorende bij [artikel 1.3.1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2011-09-16&g=2011-09-16) Gegevens, over te leggen bij een aanvraag om een opsporings- of winningsvergunning voor of mede koolwaterstoffen
 
 ## Bijlage 4. behorende bij de [artikelen 1.10.1 tot en met 1.10.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.10&artikel=1.10.1&z=2005-06-18&g=2005-06-18) Beschrijving van de Ankergebieden, Aanloopgebied van Hoek van Holland en Overige gebieden, bedoeld in de [artikelen 1.10.1 tot en met 1.10.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.10&artikel=1.10.1&z=2005-06-18&g=2005-06-18) van de regeling
 
-a. De hoeveelheid aardolie, putgasbenzine daaronder begrepen, gedurende het afgelopen kalenderjaar door de aanvrager gewonnen, uitgedrukt in 1000 m3, zowel in totaal als gesplitst per land.
+De ervaringen met betrekking tot de opsporing van koolwaterstoffen en de winning daarvan door middel van boringen, op te geven per land of gebied, voor zover de technische leiding daarvan berustte bij de aanvrager of bij de rechtspersonen, die naar het oordeel van de aanvrager kunnen worden aangemerkt als diens moedermaatschappijen of als behorende tot de groep, waartoe de aanvrager behoort, onder vermelding van:
 
-### Ankergebieden
+### 2
 
-b. De gegevens, bedoeld onder 3, onderdeel a, met betrekking tot de aanvrager en de rechtspersonen, die naar het oordeel van de aanvrager kunnen worden aangemerkt als diens moedermaatschappijen of als behorende tot de groep, waartoe de aanvrager behoort, gezamenlijk.
+Het verkennings- en opsporingsonderzoek naar aardolie of aardgas, verricht voor rekening van de aanvrager of van de rechtspersonen, die naar het oordeel van de aanvrager kunnen worden aangemerkt als diens moedermaatschappijen of als behorende tot de groep, waartoe de aanvrager behoort,
 
 Ankergebied bij havenmonding Scheveningen nabij de "Scheveningen vaarweg boei". Dit ankergebied wordt begrensd door een lijn die de volgende punten verbindt: 159, 214, 215 en 216. "Maas Noord" gelegen ten westen van het VSS Maas Noord, dit ankergebied is bestemd voor het binnenkomende verkeer vanuit de noord en noordwest. Dit ankergebied wordt begrensd door een lijn die de volgende punten verbindt: 207, 208, 116 en 115.
 
-Bij de beschrijving van de gebieden wordt gebruik gemaakt van punten die zijn aangegeven met cijfers en letters. Deze cijfers en letters zijn in de tabellen 1, 2 en 3 gedefinieerd.
+a. De hoeveelheid aardolie, putgasbenzine daaronder begrepen, en aardgas gedurende het afgelopen kalenderjaar door de aanvrager gewonnen, uitgedrukt in 1000 m3, zowel in totaal als gesplitst per land.
 
-Bij de beschrijving van de gebieden wordt gebruik gemaakt van punten die zijn aangegeven met cijfers en letters. Deze cijfers en letters zijn in de tabellen 1, 2 en 3 gedefinieerd.
+b. De gegevens, bedoeld onder 3, onderdeel a, met betrekking tot de aanvrager en de rechtspersonen, die naar het oordeel van de aanvrager kunnen worden aangemerkt als diens moedermaatschappijen of als behorende tot de groep, waartoe de aanvrager behoort, gezamenlijk.
 
 Ankergebied STZ Aanloopgebied IJmuiden. Dit ankergebied wordt begrensd door een lijn die de volgende punten verbindt: 224, 225, 226 en 227 "Deep-draught anchorage" (gelieerd aan de diep water toegangsroute tot de haven van IJmuiden) gelegen ten zuidwesten van het toegangsgebied. Dit ankergebied wordt begrensd door een lijn die de volgende punten verbindt: 140, 141, 142 en 143. Ankergebied vijf zeemijlen uit de kust van Scheveningen. Dit ankergebied wordt begrensd door een lijn die de volgende punten verbindt: 217, 218, 219, 220.
 
 ### Aanloopgebied Hoek van Holland
 
-Ankergebied bij havenmonding Scheveningen nabij de "Scheveningen vaarweg boei". Dit ankergebied wordt begrensd door een lijn die de volgende punten verbindt: 159, 214, 215 en 216. "Maas Noord" gelegen ten westen van het VSS Maas Noord, dit ankergebied is bestemd voor het binnenkomende verkeer vanuit de noord en noordwest. Dit ankergebied wordt begrensd door een lijn die de volgende punten verbindt: 207, 208, 116 en 115.
+Bij de beschrijving van de gebieden wordt gebruik gemaakt van punten die zijn aangegeven met cijfers en letters. Deze cijfers en letters zijn in de tabellen 1, 2 en 3 gedefinieerd.
 
-### Overige gebieden
+### Ankergebieden
+
+Ankergebied STZ Aanloopgebied IJmuiden. Dit ankergebied wordt begrensd door een lijn die de volgende punten verbindt: 224, 225, 226 en 227 "Deep-draught anchorage" (gelieerd aan de diep water toegangsroute tot de haven van IJmuiden) gelegen ten zuidwesten van het toegangsgebied. Dit ankergebied wordt begrensd door een lijn die de volgende punten verbindt: 140, 141, 142 en 143. Ankergebied vijf zeemijlen uit de kust van Scheveningen. Dit ankergebied wordt begrensd door een lijn die de volgende punten verbindt: 217, 218, 219, 220.
+
+### Aanloopgebied Hoek van Holland
+
+### Aanloopgebied Hoek van Holland
 
 "Outer" gelegen ten oosten van TSS Maas West Outer en ten noorden van de Eurogeul. Dit ankergebied wordt begrensd door een lijn die de volgende punten verbindt: 166, 170, 171 en 172. "Short-term deep-draught anchorage" gelegen in de North Hinder Junction, direct ten zuidwesten van de aanloop naar de Eurogeul. Dit ankergebied wordt begrensd door een lijn die de volgende punten verbindt: 173, 195, 196, 197 en 198.
 
-### Aanloopgebied Hoek van Holland
+"Long-term deep-draught anchorage" gelegen ten noordwesten van de North Hinder Junction. Dit ankergebied wordt begrensd door een lijn die de volgende punten verbindt: 183, 184, T, Y en 192.
 
 ### Aanloopgebied Hoek van Holland
 
 Het aanloopgebied Hoek van Holland. Dit gebied wordt begrensd door een lijn die de volgende punten verbindt: XII, 206, 178, 179, 168, 163, 116, 117, 126, 127, XI en via gemeentelijke grens naar XII.
-
-De Overige gebieden zijn onder te verdelen in Aanloopgebieden.
-
-### Scheepvaartroutes en Restrictiegebieden
-
-Scheepvaartroute "Noord" wordt begrensd door een lijn die de volgende punten verbindt: A, 2, 109, 17, 18, 5, 6, 7, I, van I naar K via de grens continentaal plat, K, 20, 21, 22, 23, 24, 52, 45, 25, 26, D en vervolgens via de grens continentaal plat naar A, met uitzondering van de separatiegebieden "East Friesland" en "Off Botney Ground". Deze twee gebieden worden begrensd door een lijn die de volgende punten verbindt: C, 29, 30, 31, 32, B en vervolgens via de grens continentaal plat naar C respectievelijk J, 10, 11, 12, 13, 14, 15 en 16. Scheepvaartroute "Midden" wordt begrensd door een lijn die de volgende punten verbindt: 24, 34, 35, 36, 37, L, van L naar M via de grens continentaal plat, M, 40, 41, 42, 43, 44, 25, 45 en 52 met uitzondering van de separatiegebieden "West Friesland" en "Off Brown Ridge". Deze twee gebieden worden begrensd door een lijn die de volgende punten verbindt: 45, 46, 47, 48, 49, 50, 51 en 52 respectievelijk 53, 54, 55 en 56. Scheepvaartroute "Zuid" richting zuid (van "Terschelling German Bight" tot "Deep Water route leading to Europoort") wordt begrensd door een lijn die de volgende punten verbindt: E, 58, 59, 108, 109, 93, 94, 89, 90, 91, 92, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 60, 61, F en vervolgens via de grens continentaal plat naar E. Scheepvaartroute "Zuid" richting noord (van "Deep Water route leading to Europoort" tot "Terschelling German Bight") wordt begrensd door een lijn die de volgende punten verbindt: G, 64, 65, 66, 60, 88, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 67, 68, 69, H en vervolgens via de grens continentaal plat naar G. "North Hinder" wordt begrensd door een lijn die de volgende punten verbindt: U, 177, 182, 165, 169, 102, 101, 81, 80, 183, 184, T vervolgens via grens continentaal plat in zuidelijke richting terug naar U.
 
 Het aanloopgebied Eemsmonding wordt begrensd door een lijn die de volgende punten verbindt: V, 241, 242, 235, W via de landsgrens en de grens continentaal plat naar V. Het aanloopgebied Brandaris betreft het Zeegat van Terschelling en wordt begrensd door een lijn die de volgende punten verbindt: II, 237, 238, 239, I en van I naar II via de gemeentelijke grens. Het STZ aanloopgebied Den Helder. Dit gebied wordt begrensd door een lijn die de volgende punten verbindt: IV, 229, 230, 231, 232, 233, III en van III naar IV via de gemeentelijke grens. Een "two-way" route naar en van het Schulpengat. Dit gebied sluit aan op het STZ aanloopgebied Den Helder en wordt begrensd door een lijn die loopt van de positie VII in een zeewaarts gerichte boog met een straal van 5 zeemijlen gerekend vanuit punt 229 naar positie VIII en vervolgens via de gemeentelijke grens naar VII.
 
@@ -2829,9 +2833,174 @@ Vervallen
 
 Vervallen
 
+## Bijlage 5. behorende bij [artikel 1.10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.10&artikel=1.10.7&z=2011-09-16&g=2011-09-16)
+
+In deze bijlage staan de gebieden beschreven, genoemd in [artikel 1.10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.10&artikel=1.10.7&z=2011-09-16&g=2011-09-16) van de regeling. In de beschrijving wordt gebruik gemaakt van cijfers en letters die in de tabellen 1 en 2 zijn gedefinieerd.
+
+Gebieden:
+
+- 1). Schietgebied Noordzee ten noorden van de Waddeneilanden (BAZ40). Dit gebied wordt begrensd door de lijn die de punten a, b, c, d, en e met elkaar verbindt.
+
+- 2). Marine-oefengebied ten westen van Haaksgronden (BAZ33). Dit gebied wordt begrensd door de parallellen 53°05'N en 53°13'N en de meridianen 3°45'E en 4°10'E.
+
+- 3). Een schietgebied nabij Petten (BAZ30). Dit gebied wordt begrensd door een lijn die de volgende punten verbindt: 1, 2, via cirkelboog vanuit f met een straal van 9 zeemijlen naar 3, en via de gemeentelijke grens naar 1.
+
+- 4). Een schietgebied nabij Petten (BAZ31). Dit gebied wordt begrensd door een lijn die de volgende punten verbindt: 4, 5, via een kromme waarbij de kortste afstand tot de lijn door g en h altijd 14 zeemijlen is naar 6, 7 en via de gemeentelijke grens naar 4.
+
+- 5). Schietgebied Vliehors (BAZ36). Dit gebied wordt begrensd door een lijn die de volgende punten verbindt: 8, 9 via een cirkelboog vanuit i met straal van 4 zeemijlen naar 10, 11 en via de gemeentelijke grens naar 8.
+
+- 6). Schietgebied Zeegat van Texel (BAZ32). Dit gebied wordt begrensd door een lijn die de volgende punten verbindt: 12, 13, via een cirkelboog vanuit j met een straal van 21000 meter naar 14 en via de gemeentelijke grens naar 12.
+
+- 7). Schietgebied ten westen van Kaap Hoofd (BAZ34). Het gebied wordt begrensd door een lijn die de volgende punten verbindt: 15, 16 via een cirkelboog vanuit k met een straal van 10 zeemijlen naar 17, 18 en via de gemeentelijke grens naar 15.
+
+| Punt | X-geografisch | Y-geografisch |
+| --- | --- | --- |
+|   |   |   |
+| a | 54°00',0N | 004°46',0E |
+| b | 54°00',0N | 006°06',4E |
+| c | 53°51',1N | 006°14',0E |
+| d | 53°37',6N | 005°06',0E |
+| e | 53°36',0N | 004°46',0E |
+| f | 52°47',1N | 004°40',3E |
+| g | 52°47',7N | 004°40',3E |
+| h | 52°47',8N | 004°41',0E |
+| i | 53°14',4N | 004°55',3E |
+| j | 52°55',2N | 004°43',1E |
+| k | 52°57',8N | 004°44',3E |
+
+| 1: snijpunt van de lijn beginnend in punt f in de richting 254° met de gemeentelijke grens. |
+| --- |
+| 2: punt vanuit punt f op een afstand van 9 zeemijlen in de richting 254°. |
+| 3: snijpunt ten noorden van punt f van de cirkelboog met als middelpunt punt f en een straal van 9 zeemijlen met de gemeentelijke grens |
+| 4: snijpunt van de lijn beginnend in punt g in de richting 225° met de gemeentelijke grens. |
+| 5: punt vanuit punt g op een afstand van 14 zeemijlen in de richting 225°. |
+| 6: punt vanuit punt h op een afstand van 14 zeemijlen in de richting 345°. |
+| 7: snijpunt van de lijn beginnend in punt h in de richting 345° met de gemeentelijke grens. |
+| 8: snijpunt van de lijn beginnend in punt i in de richting 275° met de gemeentelijke grens. |
+| 9: punt vanuit punt i op een afstand van 4 zeemijlen in de richting 275°. |
+| 10: punt vanuit punt i op een afstand van 4 zeemijlen in de richting 365°. |
+| 11: snijpunt van de lijn beginnend in punt i in de richting 365° met de gemeentelijke grens. |
+| 12: snijpunt ten zuiden van punt j, van de cirkelboog met als middelpunt punt j met een straal van 21000 meters met de gemeentelijke grens. |
+| 13: punt vanuit punt j op een afstand van 21000 meters in de richting 335°. |
+| 14: snijpunt van de lijn beginnend in punt j in de richting 335° met de gemeentelijke grens. |
+| 15: snijpunt van de lijn beginnend in punt k in de richting 265° met de gemeentelijke grens. |
+| 16: punt vanuit punt k op een afstand van 10 zeemijlen in de richting 265°. |
+| 17: punt vanuit punt k op een afstand van 10 zeemijlen in de richting 337°. |
+| 18: snijpunt van de lijn beginnend in punt k in de richting 337° met de gemeentelijke grens. |
+
+## Bijlage 6. behorende bij artikelen 4.1.1, onderdeel c, en 4.4.3, zevende lid
+
+Vervallen
+
+## Bijlage 7. behorende bij artikelen 4.1.1, onderdeel c, en 4.4.3, zevende lid
+
+Vervallen
+
 ## Bijlage 8. behorende bij de artikelen 4.3.3, vierde lid, en 4.4.6, tweede lid
 
 Vervallen
+
+Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst, met uitzondering van bijlage 16, die ter inzage wordt gelegd, zoals bepaald in artikel 9.3.2, tweede lid.
+
+##### Artikel 9.2.2a
+
+De uitvoerder draagt er zorg voor dat het gebruik of de lozing van chemicaliën als bedoeld in [paragraaf 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&z=2011-09-16&g=2011-09-16) beperkt blijft tot hetgeen strikt noodzakelijk is bij mijnbouwactiviteiten op zee.
+
+##### Artikel 9.2.2b
+
+De Minister neemt een aanvraag om ontheffing en een melding als bedoeld in deze paragraaf slechts in behandeling wanneer de chemicaliën waarvoor de ontheffing wordt gevraagd respectievelijk waarvan melding wordt gemaakt zijn geregistreerd overeenkomstig [paragraaf 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.3&z=2011-09-16&g=2011-09-16).
+
+#### § 9.3. Registratie van chemicaliën
+
+##### Artikel 9.3.3
+
+Een aanvraag tot registratie van chemicaliën wordt tezamen met een HOCNF-formulier, ingevuld volgens Ospar-akkoord 2005-13, door de producent of leverancier bij de minister ingediend.
+
+##### Artikel 9.3.4
+
+De toxiciteitstest waarvan het resultaat wordt opgenomen in het HOCNF-formulier wordt op stofbasis verricht met inachtneming van de Ospar-akkoorden 2005-11 en 2005-12.
+
+### Hoofdstuk 10. Pijpleidingen
+
+### Hoofdstuk 11. Verstrekking, beheer en gebruik van gegevens
+
+#### § 11.1. Te verstrekken gegevens
+
+#### § 11.2. Wijze van gegevens verstrekking aan de minister
+
+#### § 11.3. Te gebruiken eenheden
+
+#### § 11.4. Aan te wijzen instelling
+
+### Hoofdstuk 13. Technische Commissie Bodembeweging
+
+### Hoofdstuk 12. Financiële bepaling
+
+#### § 14.1. Overgangsbepalingen met betrekking tot helikopterdekken
+
+#### § 14.2. Overgangsbepalingen met betrekking tot boorgaten en putten
+
+#### § 14.3. Overgangsbepalingen met betrekking tot oliehoudende mengsels en andere chemicaliën
+
+### Hoofdstuk 15. Slotbepalingen
+
+## Bijlage 1. behorende bij [artikel 1.3.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2007-08-31&g=2007-08-31) Gegevens, over te leggen bij een aanvraag om een opsporings- of winningsvergunning
+
+### A. Algemene gegevens
+
+Indien de aanvraag wordt gedaan door een natuurlijk persoon:
+
+### 2
+
+Indien de aanvraag wordt gedaan door een rechtspersoon:
+
+### 1
+
+### 2
+
+Indien de aanvraag wordt gedaan door een rechtspersoon:
+
+### 1
+
+Indien de aanvraag wordt gedaan door een natuurlijk persoon:
+
+## Bijlage 2. behorende bij [artikel 1.3.1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2007-08-31&g=2007-08-31) Gegevens, over te leggen bij een aanvraag om een opsporings- of winningsvergunning voor of mede koolwaterstoffen
+
+### 2
+
+Het verkennings- en opsporingsonderzoek naar aardolie of aardgas, verricht voor rekening van de aanvrager of van de rechtspersonen, die naar het oordeel van de aanvrager kunnen worden aangemerkt als diens moedermaatschappijen of als behorende tot de groep, waartoe de aanvrager behoort,
+
+### 1
+
+a. De hoeveelheid aardolie, putgasbenzine daaronder begrepen, en aardgas gedurende het afgelopen kalenderjaar door de aanvrager gewonnen, uitgedrukt in 1000 m3, zowel in totaal als gesplitst per land.
+
+## Bijlage 3. behorende bij de [artikelen 1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.2&z=2007-08-31&g=2007-08-31) en [1.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.5&z=2007-08-31&g=2007-08-31)
+
+## Bijlage 3. behorende bij de [artikelen 1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.2&z=2009-10-31&g=2009-10-31) en [1.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.5&z=2009-10-31&g=2009-10-31)
+
+### Ankergebieden
+
+Ankergebied STZ Aanloopgebied IJmuiden. Dit ankergebied wordt begrensd door een lijn die de volgende punten verbindt: 224, 225, 226 en 227 "Deep-draught anchorage" (gelieerd aan de diep water toegangsroute tot de haven van IJmuiden) gelegen ten zuidwesten van het toegangsgebied. Dit ankergebied wordt begrensd door een lijn die de volgende punten verbindt: 140, 141, 142 en 143. Ankergebied vijf zeemijlen uit de kust van Scheveningen. Dit ankergebied wordt begrensd door een lijn die de volgende punten verbindt: 217, 218, 219, 220.
+
+"Maas West" gelegen in de ITZ ten zuiden van de Rede Hoek van Holland, direct grenzend aan de vanuit het westen binnenkomende route. Dit ankergebied wordt begrensd door een lijn die de volgende geografische posities verbindt: 178, 203, 204, 205 en 206.
+
+"Maas West" gelegen in de ITZ ten zuiden van de Rede Hoek van Holland, direct grenzend aan de vanuit het westen binnenkomende route. Dit ankergebied wordt begrensd door een lijn die de volgende geografische posities verbindt: 178, 203, 204, 205 en 206.
+
+### Overige gebieden
+
+### Scheepvaartroutes en Restrictiegebieden
+
+De Overige gebieden zijn onder te verdelen in Aanloopgebieden.
+
+### Scheepvaartroutes en Restrictiegebieden
+
+Het aanloopgebied Eemsmonding wordt begrensd door een lijn die de volgende punten verbindt: V, 241, 242, 235, W via de landsgrens en de grens continentaal plat naar V. Het aanloopgebied Brandaris betreft het Zeegat van Terschelling en wordt begrensd door een lijn die de volgende punten verbindt: II, 237, 238, 239, I en van I naar II via de gemeentelijke grens. Het STZ aanloopgebied Den Helder. Dit gebied wordt begrensd door een lijn die de volgende punten verbindt: IV, 229, 230, 231, 232, 233, III en van III naar IV via de gemeentelijke grens. Een "two-way" route naar en van het Schulpengat. Dit gebied sluit aan op het STZ aanloopgebied Den Helder en wordt begrensd door een lijn die loopt van de positie VII in een zeewaarts gerichte boog met een straal van 5 zeemijlen gerekend vanuit punt 229 naar positie VIII en vervolgens via de gemeentelijke grens naar VII.
+
+### c. Restrictiegebieden
+
+Het "Voordelta inshore traffic zone" gebied wordt begrensd door een lijn die de volgende punten verbindt: 123, 178, 206, XII en via de gemeentelijke grens naar XIII. Inshore Traffic zone Eems-Brandaris-Eierland wordt begrensd door een lijn die de volgende punten verbindt: XIV, 107, 185, 186, 193, 200, 69, H via grens continentaal plat naar X en vervolgens via de gemeentelijke grens naar punt XIV.
+
+Scheepvaartroute "Noord" wordt begrensd door een lijn die de volgende punten verbindt: A, 2, 109, 17, 18, 5, 6, 7, I, van I naar K via de grens continentaal plat, K, 20, 21, 22, 23, 24, 52, 45, 25, 26, D en vervolgens via de grens continentaal plat naar A, met uitzondering van de separatiegebieden "East Friesland" en "Off Botney Ground". Deze twee gebieden worden begrensd door een lijn die de volgende punten verbindt: C, 29, 30, 31, 32, B en vervolgens via de grens continentaal plat naar C respectievelijk J, 10, 11, 12, 13, 14, 15 en 16. Scheepvaartroute "Midden" wordt begrensd door een lijn die de volgende punten verbindt: 24, 34, 35, 36, 37, L, van L naar M via de grens continentaal plat, M, 40, 41, 42, 43, 44, 25, 45 en 52 met uitzondering van de separatiegebieden "West Friesland" en "Off Brown Ridge". Deze twee gebieden worden begrensd door een lijn die de volgende punten verbindt: 45, 46, 47, 48, 49, 50, 51 en 52 respectievelijk 53, 54, 55 en 56. Scheepvaartroute "Zuid" richting zuid (van "Terschelling German Bight" tot "Deep Water route leading to Europoort") wordt begrensd door een lijn die de volgende punten verbindt: E, 58, 59, 108, 109, 93, 94, 89, 90, 91, 92, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 60, 61, F en vervolgens via de grens continentaal plat naar E. Scheepvaartroute "Zuid" richting noord (van "Deep Water route leading to Europoort" tot "Terschelling German Bight") wordt begrensd door een lijn die de volgende punten verbindt: G, 64, 65, 66, 60, 88, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 67, 68, 69, H en vervolgens via de grens continentaal plat naar G. "North Hinder" wordt begrensd door een lijn die de volgende punten verbindt: U, 177, 182, 165, 169, 102, 101, 81, 80, 183, 184, T vervolgens via grens continentaal plat in zuidelijke richting terug naar U.
 
 ## Bijlage 9. behorende bij artikel 4.4.3, achtste lid
 
@@ -2841,7 +3010,7 @@ Vervallen
 
 Vervallen
 
-## Bijlage 11. behorende bij [artikel 8.2.2.l, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&artikel=8.2.2.1&z=2009-10-31&g=2009-10-31)
+## Bijlage 11. behorende bij [artikel 8.2.2.l, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&artikel=8.2.2.1&z=2011-09-16&g=2011-09-16)
 
 | 1.0. Projectgegevens |   |
 | --- | --- |
@@ -2894,109 +3063,7 @@ Vervallen
 |   |   |
 | 6.1 Een korte samenvatting van alle onvoorziene gebeurtenissen gedurende de verslagperiode. |   |
 
-Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst, met uitzondering van bijlage 16, die ter inzage wordt gelegd, zoals bepaald in artikel 9.3.2, tweede lid.
-
-##### Artikel 9.2.2a
-
-De uitvoerder draagt er zorg voor dat het gebruik of de lozing van chemicaliën als bedoeld in [paragraaf 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&z=2009-10-31&g=2009-10-31) beperkt blijft tot hetgeen strikt noodzakelijk is bij mijnbouwactiviteiten op zee.
-
-##### Artikel 9.2.2b
-
-De Minister neemt een aanvraag om ontheffing en een melding als bedoeld in deze paragraaf slechts in behandeling wanneer de chemicaliën waarvoor de ontheffing wordt gevraagd respectievelijk waarvan melding wordt gemaakt zijn geregistreerd overeenkomstig [paragraaf 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.3&z=2009-10-31&g=2009-10-31).
-
-#### § 9.3. Registratie van chemicaliën
-
-##### Artikel 9.3.3
-
-Een aanvraag tot registratie van chemicaliën wordt tezamen met een HOCNF-formulier, ingevuld volgens Ospar-akkoord 2005-13, door de producent of leverancier bij de minister ingediend.
-
-##### Artikel 9.3.4
-
-De toxiciteitstest waarvan het resultaat wordt opgenomen in het HOCNF-formulier wordt op stofbasis verricht met inachtneming van de Ospar-akkoorden 2005-11 en 2005-12.
-
-### Hoofdstuk 10. Pijpleidingen
-
-### Hoofdstuk 11. Verstrekking, beheer en gebruik van gegevens
-
-#### § 11.1. Te verstrekken gegevens
-
-#### § 11.2. Wijze van gegevens verstrekking aan de minister
-
-#### § 11.3. Te gebruiken eenheden
-
-#### § 11.4. Aan te wijzen instelling
-
-### Hoofdstuk 13. Technische Commissie Bodembeweging
-
-### hoofdstuk 14. Overgangsbepalingen
-
-#### § 14.1. Overgangsbepalingen met betrekking tot helikopterdekken
-
-#### § 14.2. Overgangsbepalingen met betrekking tot boorgaten en putten
-
-#### § 14.3. Overgangsbepalingen met betrekking tot oliehoudende mengsels en andere chemicaliën
-
-### Hoofdstuk 15. Slotbepalingen
-
-## Bijlage 1. behorende bij [artikel 1.3.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2007-08-31&g=2007-08-31) Gegevens, over te leggen bij een aanvraag om een opsporings- of winningsvergunning
-
-### A. Algemene gegevens
-
-Indien de aanvraag wordt gedaan door een natuurlijk persoon:
-
-### 2
-
-Indien de aanvraag wordt gedaan door een rechtspersoon:
-
-### B
-
-### 2
-
-Indien de aanvraag wordt gedaan door een rechtspersoon:
-
-### C. Technische gegevens
-
-Het aantal en de eventuele namen van de mijnbouwwerken, geschikt voor de met de aanvraag beoogde werkzaamheden:
-
-## Bijlage 2. behorende bij [artikel 1.3.1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2007-08-31&g=2007-08-31) Gegevens, over te leggen bij een aanvraag om een opsporings- of winningsvergunning voor of mede koolwaterstoffen
-
-### 2
-
-Het verkennings- en opsporingsonderzoek naar aardolie of aardgas, verricht voor rekening van de aanvrager of van de rechtspersonen, die naar het oordeel van de aanvrager kunnen worden aangemerkt als diens moedermaatschappijen of als behorende tot de groep, waartoe de aanvrager behoort,
-
-### 3
-
-a. De hoeveelheid aardolie, putgasbenzine daaronder begrepen, en aardgas gedurende het afgelopen kalenderjaar door de aanvrager gewonnen, uitgedrukt in 1000 m3, zowel in totaal als gesplitst per land.
-
-## Bijlage 3. behorende bij de [artikelen 1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.2&z=2007-08-31&g=2007-08-31) en [1.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.5&z=2007-08-31&g=2007-08-31)
-
-## Bijlage 3. behorende bij de [artikelen 1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.2&z=2009-10-31&g=2009-10-31) en [1.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.5&z=2009-10-31&g=2009-10-31)
-
-### Ankergebieden
-
-Ankergebied STZ Aanloopgebied IJmuiden. Dit ankergebied wordt begrensd door een lijn die de volgende punten verbindt: 224, 225, 226 en 227 "Deep-draught anchorage" (gelieerd aan de diep water toegangsroute tot de haven van IJmuiden) gelegen ten zuidwesten van het toegangsgebied. Dit ankergebied wordt begrensd door een lijn die de volgende punten verbindt: 140, 141, 142 en 143. Ankergebied vijf zeemijlen uit de kust van Scheveningen. Dit ankergebied wordt begrensd door een lijn die de volgende punten verbindt: 217, 218, 219, 220.
-
-"Maas West" gelegen in de ITZ ten zuiden van de Rede Hoek van Holland, direct grenzend aan de vanuit het westen binnenkomende route. Dit ankergebied wordt begrensd door een lijn die de volgende geografische posities verbindt: 178, 203, 204, 205 en 206.
-
-Het aanloopgebied Hoek van Holland. Dit gebied wordt begrensd door een lijn die de volgende punten verbindt: XII, 206, 178, 179, 168, 163, 116, 117, 126, 127, XI en via gemeentelijke grens naar XII.
-
-### Overige gebieden
-
-### Scheepvaartroutes en Restrictiegebieden
-
-Het aanloopgebied Eemsmonding wordt begrensd door een lijn die de volgende punten verbindt: V, 241, 242, 235, W via de landsgrens en de grens continentaal plat naar V. Het aanloopgebied Brandaris betreft het Zeegat van Terschelling en wordt begrensd door een lijn die de volgende punten verbindt: II, 237, 238, 239, I en van I naar II via de gemeentelijke grens. Het STZ aanloopgebied Den Helder. Dit gebied wordt begrensd door een lijn die de volgende punten verbindt: IV, 229, 230, 231, 232, 233, III en van III naar IV via de gemeentelijke grens. Een "two-way" route naar en van het Schulpengat. Dit gebied sluit aan op het STZ aanloopgebied Den Helder en wordt begrensd door een lijn die loopt van de positie VII in een zeewaarts gerichte boog met een straal van 5 zeemijlen gerekend vanuit punt 229 naar positie VIII en vervolgens via de gemeentelijke grens naar VII.
-
-### b. Scheepvaartroutes
-
-Scheepvaartroute "Noord" wordt begrensd door een lijn die de volgende punten verbindt: A, 2, 109, 17, 18, 5, 6, 7, I, van I naar K via de grens continentaal plat, K, 20, 21, 22, 23, 24, 52, 45, 25, 26, D en vervolgens via de grens continentaal plat naar A, met uitzondering van de separatiegebieden "East Friesland" en "Off Botney Ground". Deze twee gebieden worden begrensd door een lijn die de volgende punten verbindt: C, 29, 30, 31, 32, B en vervolgens via de grens continentaal plat naar C respectievelijk J, 10, 11, 12, 13, 14, 15 en 16. Scheepvaartroute "Midden" wordt begrensd door een lijn die de volgende punten verbindt: 24, 34, 35, 36, 37, L, van L naar M via de grens continentaal plat, M, 40, 41, 42, 43, 44, 25, 45 en 52 met uitzondering van de separatiegebieden "West Friesland" en "Off Brown Ridge". Deze twee gebieden worden begrensd door een lijn die de volgende punten verbindt: 45, 46, 47, 48, 49, 50, 51 en 52 respectievelijk 53, 54, 55 en 56. Scheepvaartroute "Zuid" richting zuid (van "Terschelling German Bight" tot "Deep Water route leading to Europoort") wordt begrensd door een lijn die de volgende punten verbindt: E, 58, 59, 108, 109, 93, 94, 89, 90, 91, 92, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 60, 61, F en vervolgens via de grens continentaal plat naar E. Scheepvaartroute "Zuid" richting noord (van "Deep Water route leading to Europoort" tot "Terschelling German Bight") wordt begrensd door een lijn die de volgende punten verbindt: G, 64, 65, 66, 60, 88, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 67, 68, 69, H en vervolgens via de grens continentaal plat naar G. "North Hinder" wordt begrensd door een lijn die de volgende punten verbindt: U, 177, 182, 165, 169, 102, 101, 81, 80, 183, 184, T vervolgens via grens continentaal plat in zuidelijke richting terug naar U.
-
-### c. Restrictiegebieden
-
-Het "Voordelta inshore traffic zone" gebied wordt begrensd door een lijn die de volgende punten verbindt: 123, 178, 206, XII en via de gemeentelijke grens naar XIII. Inshore Traffic zone Eems-Brandaris-Eierland wordt begrensd door een lijn die de volgende punten verbindt: XIV, 107, 185, 186, 193, 200, 69, H via grens continentaal plat naar X en vervolgens via de gemeentelijke grens naar punt XIV.
-
-Het "Voordelta inshore traffic zone" gebied wordt begrensd door een lijn die de volgende punten verbindt: 123, 178, 206, XII en via de gemeentelijke grens naar XIII. Inshore Traffic zone Eems-Brandaris-Eierland wordt begrensd door een lijn die de volgende punten verbindt: XIV, 107, 185, 186, 193, 200, 69, H via grens continentaal plat naar X en vervolgens via de gemeentelijke grens naar punt XIV.
-
-## Bijlage 12. behorende bij [artikel 8.2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&artikel=8.2.2.2&z=2009-10-31&g=2009-10-31)
+## Bijlage 12. behorende bij [artikel 8.2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.2&paragraaf=8.2.2&artikel=8.2.2.2&z=2011-09-16&g=2011-09-16)
 
 | 1.0. Projectgegevens |   |
 | --- | --- |
@@ -3061,9 +3128,289 @@ Het "Voordelta inshore traffic zone" gebied wordt begrensd door een lijn die de 
 | 2. datum |   |
 | 3. handtekening van de leidinggevende. |   |
 
-## Bijlage 13. behorende bij [artikel 8.3.2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.2&artikel=8.3.2.5&z=2009-10-31&g=2009-10-31) Capaciteitstest
+Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst, met uitzondering van bijlage 16, die ter inzage wordt gelegd, zoals bepaald in artikel 9.3.2, tweede lid.
 
-## Bijlage 14. behorende bij [artikel 9.1.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.6&z=2009-10-31&g=2009-10-31), van de Mijnbouwregeling
+##### Artikel 9.2.6a
+
+Met ingang van 1 januari 2017 wordt een aanvraag om ontheffing om te lozen als bedoeld in [artikel 9.2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.5&z=2011-09-16&g=2011-09-16), voor:
+
+- a. chemicaliën die anorganisch zijn en een LC50 of EC50 van minder dan 1 mg/l hebben,
+
+- b. chemicaliën die een biodegradatie hebben van minder dan 20% gedurende 28 dagen, of
+
+- c. chemicaliën die voldoen aan twee van de volgende drie criteria:
+
+- 1°. niet snel bio-afbreekbaar (een biodegradatie in 28 dagen minder dan 70% (OECD 301A,301E, of een gelijkwaardige test) of minder dan 60% (OECD 301B, 301C, 301F, 306 of een gelijkwaardige test)),
+
+- 2°. groot potentieel voor bio-accumulatie log Pow ≥ 3 of BCF > 100 en het molecuulgewicht in aanmerking genomen (M < 600), en
+
+- 3°. zeer toxisch (LC50 < 10 mg/l of EC50 < 10 mg/l),
+
+geweigerd, tenzij de uitvoerder bij de aanvraag heeft aangetoond dat vanwege technische aspecten of veiligheidsaspecten geen minder schadelijke vervangende middelen beschikbaar zijn. In dat geval kan de minster ontheffing verlenen voor ten hoogste drie jaar.
+
+#### § 9.3. Registratie van chemicaliën
+
+### Hoofdstuk 10. Pijpleidingen
+
+### Hoofdstuk 10. Pijpleidingen
+
+#### § 11.1. Te verstrekken gegevens
+
+#### § 11.2. Wijze van gegevens verstrekking aan de minister
+
+#### § 11.4. Aan te wijzen instelling
+
+### Hoofdstuk 12. Financiële bepaling
+
+### Hoofdstuk 13. Technische Commissie Bodembeweging
+
+### hoofdstuk 14. Overgangsbepalingen
+
+#### § 14.2. Overgangsbepalingen met betrekking tot boorgaten en putten
+
+#### § 14.2. Overgangsbepalingen met betrekking tot boorgaten en putten
+
+### Hoofdstuk 15. Slotbepalingen
+
+## Bijlage 1. behorende bij [artikel 1.3.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2009-10-31&g=2009-10-31) Gegevens, over te leggen bij een aanvraag om een opsporings- of winningsvergunning
+
+### 2
+
+Indien de aanvraag wordt gedaan door een rechtspersoon:
+
+## Bijlage 2. behorende bij [artikel 1.3.1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2009-10-31&g=2009-10-31) Gegevens, over te leggen bij een aanvraag om een opsporings- of winningsvergunning voor of mede koolwaterstoffen
+
+### C. Technische gegevens
+
+### 2
+
+Het verkennings- en opsporingsonderzoek naar aardolie of aardgas, verricht voor rekening van de aanvrager of van de rechtspersonen, die naar het oordeel van de aanvrager kunnen worden aangemerkt als diens moedermaatschappijen of als behorende tot de groep, waartoe de aanvrager behoort,
+
+### 3
+
+## Bijlage 4. behorende bij de [artikelen 1.10.1 tot en met 1.10.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.10&artikel=1.10.1&z=2009-10-31&g=2009-10-31) Beschrijving van de Ankergebieden, Aanloopgebied van Hoek van Holland en Overige gebieden, bedoeld in de [artikelen 1.10.1 tot en met 1.10.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.10&artikel=1.10.1&z=2009-10-31&g=2009-10-31) van de regeling
+
+### Ankergebieden
+
+Ankergebied bij havenmonding Scheveningen nabij de "Scheveningen vaarweg boei". Dit ankergebied wordt begrensd door een lijn die de volgende punten verbindt: 159, 214, 215 en 216. "Maas Noord" gelegen ten westen van het VSS Maas Noord, dit ankergebied is bestemd voor het binnenkomende verkeer vanuit de noord en noordwest. Dit ankergebied wordt begrensd door een lijn die de volgende punten verbindt: 207, 208, 116 en 115.
+
+### Overige gebieden
+
+De Overige gebieden zijn onder te verdelen in Aanloopgebieden.
+
+### Overige gebieden
+
+### a. Aanloopgebieden
+
+Het aanloopgebied Scheveningen wordt begrensd door een lijn die de volgende punten verbindt: X, 209, 213, IX en vervolgens via gemeentelijke grens naar X. Het STZ aanloopgebied IJmuiden. Dit gebied wordt gevormd door een lijn die loopt van de positie: V in een zeewaarts gerichte boog met een straal van 12 zeemijlen gerekend vanuit punt 221 (het referentiepunt) naar positie VI en vervolgens via de gemeentelijke grens naar V. De Scheepvaartroutes vermeld bij 28 tot en met 34 sluiten aan op dit aanloop gebied.
+
+### b. Scheepvaartroutes
+
+Scheepvaartroute Maas 1 wordt begrensd door een lijn die de volgende punten verbindt: 177, 112, 123, 178, 179, 180, 181 en 182. Scheepvaartroute Maas 2 (deep water route) wordt begrensd door een lijn die de volgende punten verbindt: 175, 176, 173 en 174. Scheepvaartroute Maas 3 wordt begrensd door een lijn die de volgende punten verbindt: 163, 124, 161, 169, 165, 166, 167 en 168. Scheepvaartroute Maas 4 wordt begrensd door een lijn die de volgende punten verbindt: 163, Q via de grens continentaal plat naar P en 116. Scheepvaartroute Maas 5 wordt begrensd door een lijn die de volgende punten verbindt: 116, 115, 110, 83, 119, 118, 117. Scheepvaartroute Maas 6 wordt begrensd door een lijn die de volgende punten verbindt: 126, 125, 98, 104, 128 en 127. Scheepvaartroute Maas 7 wordt begrensd door een lijn die de volgende punten verbindt: 115, 152, 153 en 118. Scheepvaartroute Maas 8 wordt begrensd door een lijn die de volgende punten verbindt: 125, 154, 155 en 128. Scheepvaartroute IJmuiden 1 wordt begrensd door een lijn die de volgende punten verbindt: 148, 149, 150 en 151. Scheepvaartroute IJmuiden 2 wordt begrensd door een lijn die de volgende punten verbindt: 144, 146, 145 en 147. Scheepvaartroute IJmuiden 3 wordt begrensd door een lijn die de volgende punten verbindt: O, 132, 133, 134, 135, 136, 137, 138 en N. Scheepvaartroute IJmuiden 4 wordt begrensd door een lijn die de volgende punten verbindt: 120, 121, 119 en 78. Scheepvaartroute IJmuiden 5 wordt begrensd door een lijn die de volgende punten verbindt: 129, 130, 104 en 98. Scheepvaartroute Scheveningen wordt begrensd door een lijn die de volgende punten verbindt: 159, 160, 161, 156, 157 en 158. Scheepvaartroute vanuit noorden naar de Schelde wordt begrensd door een lijn die de volgende punten verbindt: 190, 191, R via grens continentaal plat naar S. Verbinding scheepvaartroute zuid en Europoort wordt begrensd door een lijn die de volgende punten verbindt: 110, 111, 112, 113, 114 en 83. Verbinding scheepvaartroute zuid en Europoort wordt begrensd door een lijn die de volgende punten verbindt: 98, 114, 122, 123, 124 en 104.
+
+Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst, met uitzondering van bijlage 16, die ter inzage wordt gelegd, zoals bepaald in artikel 9.3.2, tweede lid.
+
+##### Artikel 1.3.4a
+
+1. Onverminderd [artikel 1.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.4&z=2011-09-16&g=2011-09-16) verstrekt de aanvrager bij een aanvraag om een vergunning voor het permanent opslaan van CO2 bovendien:
+
+- a. een karakterisering en beoordeling van het potentiële opslagcomplex met inbegrip van de afdichtende laag en het omliggende gebied, inclusief de hydraulisch verbonden gebieden, uitgevoerd en onderbouwd op de voet van Bijlage I van de richtlijn nr. 2009/31/EG;
+
+- b. de beoogde plaats van de injectiefaciliteiten;
+
+- c. de totale hoeveelheid stoffen die zal worden opgeslagen uitgedrukt in kton;
+
+- d. een opgave van de afzonderlijke bestanddelen van de stoffen die worden opgeslagen en hun aandeel in de totale hoeveelheid van stoffen die worden opgeslagen, en
+
+- e. de gegevens waarop de beoogde maximum toelaatbare snelheid en druk bij injectie van CO2 en de beoogde maximum toelaatbare druk van de opgeslagen CO2 zijn gebaseerd.
+
+2. De aanvraag bevat het ontwerp voor een risicobeheerplan als bedoeld in [artikel 29c van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29c).
+
+3. De aanvraag bevat het ontwerp voor een plan voor het nemen van corrigerende maatregelen als bedoeld in [artikel 29d van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29d).
+
+4. De aanvraag bevat het ontwerp voor een monitoringsplan als bedoeld in [artikel 29f van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29f) dat voldoet aan Bijlage II, onderdeel 1, van richtlijn nr. 2009/31/EG. Het ontwerp strekt tot:
+
+- a. het vergelijken van het feitelijk en het gemodelleerd gedrag van het CO2 en andere opgeslagen stoffen en het formatiewater in het voorkomen;
+
+- b. het detecteren van significante onregelmatigheden;
+
+- c. het detecteren van CO2 en andere stoffen;
+
+- d. het detecteren van significante negatieve effecten voor het omliggende milieu en voor met name het drinkwater, de omwonende bevolking en de gebruikers van de biosfeer in de omgeving;
+
+- e. het evalueren van de doeltreffendheid van eventuele getroffen corrigerende maatregelen als bedoeld in het vijfde lid, en
+
+- f. het actualiseren van de veiligheids- en integriteitsbeoordeling van het opslagcomplex op korte en lange termijn, met inbegrip van de beoordeling van de vraag of het opgeslagen CO2 volledig en permanent is ingesloten.
+
+5. De aanvraag bevat het ontwerp voor een afsluitingsplan als bedoeld in [artikel 29g van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29g).
+
+6. De aanvraag bevat:
+
+- a. de voor de ramingen, bedoeld in [artikel 29j, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29j) benodigde gegevens vergezeld van adequate cijfermatige onderbouwing en toelichting en mogelijke vorm van zekerheid die zal worden gesteld;
+
+- b. het ontwerp voor een plan ter voorkoming of beperking van schade door bodembeweging indien het voorkomen voor het permanent opslaan van CO2 gelegen is aan de landzijde van de lijn die in de bijlage bij de wet is vastgelegd door bodembeweging als bedoeld in [artikel 29h van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29h) gebaseerd op een risico-analyse over bodembeweging, en
+
+- c. informatie die aantoont dat is gezorgd voor professionele en technische ontwikkeling en training van de exploitant en van alle personeel voorafgaande, tijdens en na beëindiging van de injectie van CO2.
+
+##### Artikel 1.3.4b
+
+Bij een aanvraag om een vergunning voor het permanent opslaan van CO2 in te trekken, verstrekt de vergunninghouder de minister:
+
+- a. een verslag dat aantoont dat:
+
+- 1°. het opgeslagen CO2 volledig en permanent ingesloten blijft,
+
+- 2°. het feitelijke gedrag van het geïnjecteerde CO2 in overeenstemming is met het gemodelleerde gedrag,
+
+- 3°. er geen detecteerbare lekken zijn,
+
+- 4°. de opslaglocatie evolueert naar een toestand van lange termijn stabiliteit, en
+
+- b. een geactualiseerde versie van de documenten, bedoeld in de [artikelen 29c](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29c), [29d](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29d), [29f](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29f) en [29g, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=29g).
+
+#### § 1.4. Aanvraag mijnbouwmilieuvergunning
+
+#### § 1.5. Aanvraag vergunningen en ontheffingen bij verkenningsonderzoek
+
+#### § 1.6. Aanvraag vergunningen en ontheffingen mijnbouwwerken
+
+#### § 1.7. Aanvraag vergunning pijpleidingen en kabels
+
+#### § 1.8
+
+#### § 1.9. Aanvraag vergunning winning kalksteen of ander gebruik groeve
+
+#### § 1.10. Restrictiegebieden
+
+#### § 1.11. Werkplan
+
+### Hoofdstuk 2. Verkenningsonderzoek
+
+#### § 2.2. Verkenningsonderzoek met gebruik van ontplofbare stoffen
+
+#### § 2.3. Opslag van ontplofbare stoffen
+
+#### § 2.4. Het boren van schietgaten
+
+#### § 2.5. Het gereed maken van de lading
+
+#### § 2.6. Het laden van schietgaten
+
+#### § 2.8. Rapportage
+
+##### Artikel 3.2
+
+1. Het register over CO2-stromen, bedoeld in [artikel 31f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=31f), bevat met ingang van de dag van eerste injectie van stoffen een opgave van:
+
+- a. de hoeveelheden stoffen uitgedrukt in kton die per uur zijn geleverd, geïnjecteerd of weggelekt en
+
+- b. de samenstelling van de stoffen en iedere wijziging in de samenstelling ervan met vermelding van de datum en tijdstip van wijziging;
+
+2. De samenstelling van de stoffen bevat een opgave van de afzonderlijke stoffen en hun volume- en gewichtsaandeel met een voldoende nauwkeurigheid met het oog op de belangen van milieu en veiligheid.
+
+3. Het register wordt tenminste wekelijks bijgewerkt.
+
+### Hoofdstuk 4. Helikopterdekken
+
+### Afdeling 4.1. Helikopterdekken op mijnbouwinstallaties
+
+#### § 4.1. Algemeen
+
+#### § 4.3. Obstakels op en rond de landingsplaats
+
+#### § 4.4. Het helikopterdek en de landingsplaats
+
+#### § 4.5. Het gebruik van helikopters
+
+#### § 4.6. Middelen voor brandbestrijding en reddingwerkzaamheden
+
+#### § 4.8. De tekening van het helikopterdek en andere gegevens
+
+### Hoofdstuk 5. Herkenningstekens, geluidsbakens en lichtbakens
+
+### Hoofdstuk 6. Communicatiemiddelen en meteorologische apparatuur
+
+#### § 6.1. Algemeen
+
+#### § 6.2. Communicatiemiddelen
+
+#### § 6.3. Meteorologische en oceanografische apparatuur
+
+### Hoofdstuk 7. Onderzoek naar sterkte mijnbouwinstallaties en wijze van verwijdering van onder het oppervlaktewater gelegen mijnbouwinstallaties
+
+### Hoofdstuk 8. Boorgaten en putten
+
+### Afdeling 8.1. Algemeen
+
+### Afdeling 8.2. Werkprogramma's voor boorgaten en putten alsmede rapportages voor boorgaten
+
+#### § 8.2.3. Werkprogramma voor reparatie van putten
+
+#### § 8.2.4. Werkprogramma voor buiten gebruik stellen van putten
+
+### Afdeling 8.3. Regels bij aanleg van boorgaten alsmede gebruik en reparatie van putten
+
+#### § 8.3.1. Beveiligingen bij aanleg van boorgaten
+
+#### § 8.3.2. Testen van boorgat- en schuifafsluiters
+
+#### § 8.3.4. Reparatie van een put
+
+### Afdeling 8.4. Inrichting van putten
+
+### Afdeling 8.5. Het buiten gebruik stellen van putten en boorgaten
+
+#### § 8.5.2. Regels over buiten gebruik stellen
+
+### Hoofdstuk 9. Gebruik en lozen van oliehoudende mengsels en chemicaliën
+
+#### § 9.1. Oliehoudende mengsels
+
+#### § 9.2. Gebruik en lozing van chemicaliën
+
+#### § 9.3. Registratie van chemicaliën
+
+### Hoofdstuk 11. Verstrekking, beheer en gebruik van gegevens
+
+#### § 11.1. Te verstrekken gegevens
+
+#### § 11.3. Te gebruiken eenheden
+
+#### § 11.4. Aan te wijzen instelling
+
+### Hoofdstuk 13. Technische Commissie Bodembeweging
+
+### hoofdstuk 14. Overgangsbepalingen
+
+#### § 14.1. Overgangsbepalingen met betrekking tot helikopterdekken
+
+#### § 14.3. Overgangsbepalingen met betrekking tot oliehoudende mengsels en andere chemicaliën
+
+### Hoofdstuk 15. Slotbepalingen
+
+## Bijlage 1. behorende bij [artikel 1.3.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2011-09-16&g=2011-09-16) Gegevens, over te leggen bij een aanvraag om een opsporings- of winningsvergunning
+
+Indien de aanvraag wordt gedaan door een natuurlijk persoon:
+
+### 2
+
+Indien de aanvraag wordt gedaan door een rechtspersoon:
+
+### 3
+
+## Bijlage 3. behorende bij de [artikelen 1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.2&z=2011-09-16&g=2011-09-16) en [1.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.5&z=2011-09-16&g=2011-09-16)
+
+## Bijlage 4. behorende bij de [artikelen 1.10.1 tot en met 1.10.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.10&artikel=1.10.1&z=2011-09-16&g=2011-09-16) Beschrijving van de Ankergebieden, Aanloopgebied van Hoek van Holland en Overige gebieden, bedoeld in de [artikelen 1.10.1 tot en met 1.10.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.10&artikel=1.10.1&z=2011-09-16&g=2011-09-16) van de regeling
+
+### c. Restrictiegebieden
+
+Het "Voordelta inshore traffic zone" gebied wordt begrensd door een lijn die de volgende punten verbindt: 123, 178, 206, XII en via de gemeentelijke grens naar XIII. Inshore Traffic zone Eems-Brandaris-Eierland wordt begrensd door een lijn die de volgende punten verbindt: XIV, 107, 185, 186, 193, 200, 69, H via grens continentaal plat naar X en vervolgens via de gemeentelijke grens naar punt XIV.
+
+Restrictiegebied "Off Friesland" wordt begrensd door de punten: 2, 3, 4, 5, 18, 17, 109.
+
+## Bijlage 13. behorende bij [artikel 8.3.2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=8&afdeling=8.3&paragraaf=8.3.2&artikel=8.3.2.5&z=2011-09-16&g=2011-09-16) Capaciteitstest
+
+## Bijlage 14. behorende bij [artikel 9.1.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.1&artikel=9.1.6&z=2011-09-16&g=2011-09-16), van de Mijnbouwregeling
 
 | 1) Mijnonderneming: | 1) Mijnonderneming: | 1) Mijnonderneming: |   |   | 6) Wijze van debietmeting: | 6) Wijze van debietmeting: | 6) Wijze van debietmeting: |   | 11) Aantal analyses: | 11) Aantal analyses: |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3107,89 +3454,5 @@ Het "Voordelta inshore traffic zone" gebied wordt begrensd door een lijn die de 
 | 31 |   |   |   |   |   |   |   |   |   |   |
 | Totaal: |   |   |   |   |   |   |   |   |   |   |
 | Gemiddeld: | Gemiddeld: |   |   |   |   |   |   |   |   |   |
-
-## Bijlage 16
-
-Ligt ter inzage bij het Ministerie van Economische Zaken.
-
-Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst, met uitzondering van bijlage 16, die ter inzage wordt gelegd, zoals bepaald in artikel 9.3.2, tweede lid.
-
-##### Artikel 9.2.6a
-
-Met ingang van 1 januari 2017 wordt een aanvraag om ontheffing om te lozen als bedoeld in [artikel 9.2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=9&paragraaf=9.2&artikel=9.2.5&z=2009-10-31&g=2009-10-31), voor:
-
-- a. chemicaliën die anorganisch zijn en een LC50 of EC50 van minder dan 1 mg/l hebben,
-
-- b. chemicaliën die een biodegradatie hebben van minder dan 20% gedurende 28 dagen, of
-
-- c. chemicaliën die voldoen aan twee van de volgende drie criteria:
-
-- 1°. niet snel bio-afbreekbaar (een biodegradatie in 28 dagen minder dan 70% (OECD 301A,301E, of een gelijkwaardige test) of minder dan 60% (OECD 301B, 301C, 301F, 306 of een gelijkwaardige test)),
-
-- 2°. groot potentieel voor bio-accumulatie log Pow ≥ 3 of BCF > 100 en het molecuulgewicht in aanmerking genomen (M < 600), en
-
-- 3°. zeer toxisch (LC50 < 10 mg/l of EC50 < 10 mg/l),
-
-geweigerd, tenzij de uitvoerder bij de aanvraag heeft aangetoond dat vanwege technische aspecten of veiligheidsaspecten geen minder schadelijke vervangende middelen beschikbaar zijn. In dat geval kan de minster ontheffing verlenen voor ten hoogste drie jaar.
-
-#### § 9.3. Registratie van chemicaliën
-
-### Hoofdstuk 10. Pijpleidingen
-
-### Hoofdstuk 11. Verstrekking, beheer en gebruik van gegevens
-
-#### § 11.1. Te verstrekken gegevens
-
-#### § 11.3. Te gebruiken eenheden
-
-#### § 11.4. Aan te wijzen instelling
-
-### Hoofdstuk 12. Financiële bepaling
-
-### Hoofdstuk 13. Technische Commissie Bodembeweging
-
-### hoofdstuk 14. Overgangsbepalingen
-
-#### § 14.2. Overgangsbepalingen met betrekking tot boorgaten en putten
-
-#### § 14.3. Overgangsbepalingen met betrekking tot oliehoudende mengsels en andere chemicaliën
-
-### Hoofdstuk 15. Slotbepalingen
-
-## Bijlage 1. behorende bij [artikel 1.3.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2009-10-31&g=2009-10-31) Gegevens, over te leggen bij een aanvraag om een opsporings- of winningsvergunning
-
-### 1
-
-Indien de aanvraag wordt gedaan door een natuurlijk persoon:
-
-## Bijlage 2. behorende bij [artikel 1.3.1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.3&artikel=1.3.1&z=2009-10-31&g=2009-10-31) Gegevens, over te leggen bij een aanvraag om een opsporings- of winningsvergunning voor of mede koolwaterstoffen
-
-### 1
-
-### 2
-
-Het verkennings- en opsporingsonderzoek naar aardolie of aardgas, verricht voor rekening van de aanvrager of van de rechtspersonen, die naar het oordeel van de aanvrager kunnen worden aangemerkt als diens moedermaatschappijen of als behorende tot de groep, waartoe de aanvrager behoort,
-
-### 3
-
-## Bijlage 4. behorende bij de [artikelen 1.10.1 tot en met 1.10.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.10&artikel=1.10.1&z=2009-10-31&g=2009-10-31) Beschrijving van de Ankergebieden, Aanloopgebied van Hoek van Holland en Overige gebieden, bedoeld in de [artikelen 1.10.1 tot en met 1.10.6](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&hoofdstuk=1&paragraaf=1.10&artikel=1.10.1&z=2009-10-31&g=2009-10-31) van de regeling
-
-### Ankergebieden
-
-"Long-term deep-draught anchorage" gelegen ten noordwesten van de North Hinder Junction. Dit ankergebied wordt begrensd door een lijn die de volgende punten verbindt: 183, 184, T, Y en 192.
-
-### Overige gebieden
-
-De Overige gebieden zijn onder te verdelen in Aanloopgebieden.
-
-### a. Aanloopgebieden
-
-### b. Scheepvaartroutes
-
-Scheepvaartroute Maas 1 wordt begrensd door een lijn die de volgende punten verbindt: 177, 112, 123, 178, 179, 180, 181 en 182. Scheepvaartroute Maas 2 (deep water route) wordt begrensd door een lijn die de volgende punten verbindt: 175, 176, 173 en 174. Scheepvaartroute Maas 3 wordt begrensd door een lijn die de volgende punten verbindt: 163, 124, 161, 169, 165, 166, 167 en 168. Scheepvaartroute Maas 4 wordt begrensd door een lijn die de volgende punten verbindt: 163, Q via de grens continentaal plat naar P en 116. Scheepvaartroute Maas 5 wordt begrensd door een lijn die de volgende punten verbindt: 116, 115, 110, 83, 119, 118, 117. Scheepvaartroute Maas 6 wordt begrensd door een lijn die de volgende punten verbindt: 126, 125, 98, 104, 128 en 127. Scheepvaartroute Maas 7 wordt begrensd door een lijn die de volgende punten verbindt: 115, 152, 153 en 118. Scheepvaartroute Maas 8 wordt begrensd door een lijn die de volgende punten verbindt: 125, 154, 155 en 128. Scheepvaartroute IJmuiden 1 wordt begrensd door een lijn die de volgende punten verbindt: 148, 149, 150 en 151. Scheepvaartroute IJmuiden 2 wordt begrensd door een lijn die de volgende punten verbindt: 144, 146, 145 en 147. Scheepvaartroute IJmuiden 3 wordt begrensd door een lijn die de volgende punten verbindt: O, 132, 133, 134, 135, 136, 137, 138 en N. Scheepvaartroute IJmuiden 4 wordt begrensd door een lijn die de volgende punten verbindt: 120, 121, 119 en 78. Scheepvaartroute IJmuiden 5 wordt begrensd door een lijn die de volgende punten verbindt: 129, 130, 104 en 98. Scheepvaartroute Scheveningen wordt begrensd door een lijn die de volgende punten verbindt: 159, 160, 161, 156, 157 en 158. Scheepvaartroute vanuit noorden naar de Schelde wordt begrensd door een lijn die de volgende punten verbindt: 190, 191, R via grens continentaal plat naar S. Verbinding scheepvaartroute zuid en Europoort wordt begrensd door een lijn die de volgende punten verbindt: 110, 111, 112, 113, 114 en 83. Verbinding scheepvaartroute zuid en Europoort wordt begrensd door een lijn die de volgende punten verbindt: 98, 114, 122, 123, 124 en 104.
-
-### c. Restrictiegebieden
-
-Restrictiegebied "Off Friesland" wordt begrensd door de punten: 2, 3, 4, 5, 18, 17, 109.
 
 Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst, met uitzondering van bijlage 16, die ter inzage wordt gelegd, zoals bepaald in artikel 9.3.2, tweede lid.
