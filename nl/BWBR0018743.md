@@ -4,7 +4,7 @@ identifier: "BWBR0018743"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-03"
-last_updated: "2011-07-01"
+last_updated: "2011-09-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018743"
 soort: "ministeriele-regeling"
@@ -52,13 +52,11 @@ In deze regeling wordt verstaan onder:
 
 - b. instelling: een privaatrechtelijke rechtspersoon met volledige rechtsbevoegdheid, dan wel een rechtspersoon krachtens publiekrecht ingesteld;
 
-- c. project: een activiteit met een incidenteel karakter;
-
-- d. instellingssubsidie: een subsidie aan een instelling in de kosten van haar structurele activiteiten of een gedeelte daarvan.
+- c. instellingssubsidie: een subsidie aan een instelling in de kosten van haar structurele activiteiten of een gedeelte daarvan.
 
 ##### Artikel 2
 
-Deze regeling is van toepassing op de subsidies, bedoeld in [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&z=2011-07-01&g=2011-07-01).
+Deze regeling is van toepassing op de subsidies, bedoeld in [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&z=2011-09-17&g=2011-09-17).
 
 ##### Artikel 3
 
@@ -82,7 +80,7 @@ Een instellingssubsidie bestaat uit een door de minister vast te stellen bedrag 
 
 ##### Artikel 5
 
-Bij de subsidieverlening kan de omvang van de reserve, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2011-07-01&g=2011-07-01), in aanmerking worden genomen.
+Vervallen
 
 ##### Artikel 6
 
@@ -164,7 +162,7 @@ De minister geeft een beschikking op een aanvraag binnen dertien weken na ontvan
 
 ##### Artikel 15
 
-1. Nadat een subsidieaanvraag is ingediend, kan de minister voorschotten verlenen.
+1. De minister kan bij het besluit tot verlening van een instellingssubsidie ambtshalve tevens voorschotten verlenen.
 
 Daarbij wordt rekening gehouden met de liquiditeitsbehoefte. Indien de subsidieaanvraag te laat wordt ingediend en de minister de aanvraag desondanks in behandeling neemt, kan hij het verlenen van voorschotten evenredig later doen plaatsvinden.
 
@@ -206,7 +204,15 @@ De subsidieontvanger zorgt er voorts voor:
 
 ##### Artikel 20
 
-De subsidieontvanger doet zo spoedig mogelijk schriftelijk mededeling aan de minister van omstandigheden die van belang kunnen zijn voor een beslissing tot wijziging, intrekking of vaststelling van de subsidie. Daarbij worden de relevante stukken overgelegd.
+1. De subsidieontvanger meldt meteen aan de minister als:
+
+- a. het tijdens de periode waarvoor de subsidie is verstrekt aannemelijk is geworden dat de activiteiten waarvoor de subsidie is verstrekt niet, niet tijdig of niet geheel zullen worden verricht,
+
+- b. het aannemelijk is geworden dat niet of niet geheel aan de subsidieverplichtingen zal worden voldaan of
+
+- c. zich andere omstandigheden voordoen of zullen voordoen die van belang kunnen zijn voor een beslissing tot wijziging, intrekking of vaststelling van de subsidie.
+
+2. De melding wordt schriftelijk gedaan. De melding wordt voorzien van een toelichting. Bij de melding worden de relevante stukken overgelegd.
 
 ##### Artikel 21
 
@@ -232,6 +238,10 @@ De subsidieontvanger stelt na afloop van de periode waarvoor subsidie is verleen
 
 5. De in het eerste lid bedoelde reservering wordt uitsluitend besteed aan doeleinden waarvoor de subsidie werd verstrekt.
 
+6. De in het eerste lid bedoelde reservering bedraagt ten hoogste 10% van het bij het besluit tot verlening bepaalde bedrag van de instellingssubsidie dan wel ten hoogste een lager percentage dat door de minister bij het besluit tot verlening is bepaald.
+
+7. Voor zover het bedrag, bedoeld in het eerste lid, gelet op de maximaal toegestane reservering niet gereserveerd kan worden, wordt het bij de vaststelling in mindering gebracht op de instellingsubsidie.
+
 ##### Artikel 24
 
 Op de balans worden de voorzieningen, gesplitst naar hun aard, en de reservering opgenomen. In de toelichting op de balans worden de toevoegingen en de onttrekkingen aan de voorzieningen en reservering toegelicht.
@@ -244,7 +254,7 @@ Op de balans worden de voorzieningen, gesplitst naar hun aard, en de reservering
 
 3. De subsidieontvanger draagt er zorg voor dat de openbaarmaking, bedoeld in het eerste lid, op verzoek van de minister onmiddellijk en kosteloos aan de minister of aan door de minister aangewezen natuurlijke personen of rechtspersonen beschikbaar worden gesteld.
 
-4. Indien een gesubsidieerde activiteit leidt tot een publicatie, kan de minister bepalen dat de subsidieontvanger er zorg voor draagt dat bij de publicatie wordt aangegeven wie de uitvoerder en subsidiënt van het project zijn geweest.
+4. Indien een gesubsidieerde activiteit leidt tot een publicatie, kan de minister bepalen dat de subsidieontvanger er zorg voor draagt dat bij de publicatie wordt aangegeven wie de uitvoerder en subsidiënt van de activiteit zijn geweest.
 
 5. Indien een subsidie gericht is of mede gericht is op de totstandkoming van een werk als bedoeld in [artikel 10, eerste lid, onder 1°, van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=10), draagt de subsidieontvanger er zorg voor auteursrechthebbende te zijn ter zake van dat werk.
 
@@ -286,7 +296,7 @@ De subsidieontvanger die aan derden goederen ter beschikking stelt of voor derde
 
 ##### Artikel 31
 
-Indien bij de minister het vermoeden is gerezen dat [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=28&z=2011-07-01&g=2011-07-01) niet is nageleefd, spant de subsidieontvanger zich desgevraagd in de jaarrekening van de desbetreffende organisatie over te leggen.
+Indien bij de minister het vermoeden is gerezen dat [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=28&z=2011-09-17&g=2011-09-17) niet is nageleefd, spant de subsidieontvanger zich desgevraagd in de jaarrekening van de desbetreffende organisatie over te leggen.
 
 #### § 9. De aanvraag tot subsidievaststelling
 
@@ -296,9 +306,9 @@ Indien bij de minister het vermoeden is gerezen dat [artikel 28](https://wetten.
 
 2. De aanvraag voor de subsidievaststelling gaat vergezeld van:
 
-- a. het verslag, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=22&z=2011-07-01&g=2011-07-01);
+- a. het verslag, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=22&z=2011-09-17&g=2011-09-17);
 
-- b. de subsidiedeclaratie, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=33&z=2011-07-01&g=2011-07-01);
+- b. de subsidiedeclaratie, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=33&z=2011-09-17&g=2011-09-17);
 
 - c. de jaarrekening; en
 
@@ -336,7 +346,7 @@ De subsidiedeclaratie geeft een zodanig inzicht dat een verantwoord oordeel kan 
 
 ##### Artikel 36
 
-Binnen zes maanden na ontvangst van de aanvraag, bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=32&z=2011-07-01&g=2011-07-01), geeft de minister een beschikking tot vaststelling van de subsidie.
+Binnen 22 weken na ontvangst van de aanvraag, bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=32&z=2011-09-17&g=2011-09-17), geeft de minister een beschikking tot vaststelling van de subsidie.
 
 ### Hoofdstuk II. Specifieke subsidiebepalingen
 
@@ -346,11 +356,11 @@ Binnen zes maanden na ontvangst van de aanvraag, bedoeld in [artikel 32](https:/
 
 1. Voor familieonderzoek naar hypercholesterolemie, met inbegrip van aanvullende DNA-onderzoek van verzamelde bloedmonsters en lipidenprofielmeting, kan de minister een instellingssubsidie verstrekken aan de Stichting Opsporing Erfelijke Hypercholesterolemie.
 
-2. De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2011-07-01&g=2011-07-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=24&z=2011-07-01&g=2011-07-01) zijn niet van toepassing op de subsidie, bedoeld in het eerste lid.
+2. De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2011-09-17&g=2011-09-17) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=24&z=2011-09-17&g=2011-09-17) zijn niet van toepassing op de subsidie, bedoeld in het eerste lid.
 
 ##### Artikel 38
 
-Bij de verlening van de subsidie, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=1&artikel=37&z=2011-07-01&g=2011-07-01), kan de Minister verplichtingen opleggen met betrekking tot:
+Bij de verlening van de subsidie, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=1&artikel=37&z=2011-09-17&g=2011-09-17), kan de Minister verplichtingen opleggen met betrekking tot:
 
 - a. de kwaliteit van het familieonderzoek naar hypercholesterolemie;
 
@@ -362,13 +372,13 @@ Vervallen
 
 ##### Artikel 40
 
-In afwijking van [hoofdstuk I, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&z=2011-07-01&g=2011-07-01), bestaat de subsidie, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=1&artikel=37&z=2011-07-01&g=2011-07-01) voor het jaar 2011 uit het bedrag dat wordt berekend overeenkomstig de volgende formule:
+In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&artikel=4&z=2011-09-17&g=2011-09-17) bestaat de subsidie, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=1&artikel=37&z=2011-09-17&g=2011-09-17) voor het jaar 2012 uit het bedrag dat wordt berekend overeenkomstig de volgende formule:
 
 (Qdna × P) + U
 
 waarbij wordt verstaan onder:
 
-Qdna. het aantal DNA-onderzoeken van bloedmonsters dat in het jaar 2011 is verricht in het kader van het familieonderzoek naar hypercholesterolemie;
+Qdna. het aantal DNA-onderzoeken van bloedmonsters dat in het jaar 2012 is verricht in het kader van het familieonderzoek naar hypercholesterolemie;
 
 P. een bedrag van:
 
@@ -430,7 +440,7 @@ Een screeningsorganisatie draagt er voor zorg dat de verhouding tussen de bij de
 
 ##### Artikel 45
 
-Bij de verlening van de subsidie, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=2&artikel=42&z=2011-07-01&g=2011-07-01), kan de minister verplichtingen opleggen met betrekking tot:
+Bij de verlening van de subsidie, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=2&artikel=42&z=2011-09-17&g=2011-09-17), kan de minister verplichtingen opleggen met betrekking tot:
 
 - a. de kwaliteit van het bevolkingsonderzoek naar baarmoederhalskanker;
 
@@ -438,19 +448,19 @@ Bij de verlening van de subsidie, bedoeld in [artikel 42](https://wetten.overhei
 
 ##### Artikel 46
 
-In afwijking van [hoofdstuk I, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&z=2011-07-01&g=2011-07-01), bestaat de subsidie, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=2&artikel=42&z=2011-07-01&g=2011-07-01), voor het jaar 2011 uit het bedrag dat wordt berekend overeenkomstig de volgende formule:
+In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&artikel=4&z=2011-09-17&g=2011-09-17) bestaat de subsidie, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=2&artikel=42&z=2011-09-17&g=2011-09-17), voor het jaar 2012 uit het bedrag dat wordt berekend overeenkomstig de volgende formule:
 
 (Qo × Po) + (Qho × Pho)
 
 waarbij wordt verstaan onder:
 
-Qo. het aantal onderzoeken dat in het jaar 2011 is verricht in het kader van het bevolkingsonderzoek naar baarmoederhalskanker van de desbetreffende screeningsorganisatie;
+Qo. het aantal onderzoeken dat in het jaar 2012 is verricht in het kader van het bevolkingsonderzoek naar baarmoederhalskanker van de desbetreffende screeningsorganisatie;
 
-Po. de som van € 54,83 en de verhoging in het jaar 2011 van de door de Nederlandse Zorgautoriteit bepaalde tarieven voor het onderzoek;
+Po. de som van € 50,96 en de verhoging in het jaar 2012 van de door de Nederlandse Zorgautoriteit bepaalde tarieven voor het onderzoek;
 
-Qho. het aantal herhaalonderzoeken dat in het jaar 2011 is verricht in het kader van het bevolkingsonderzoek naar baarmoederhalskanker van de desbetreffende screeningsorganisatie;
+Qho. het aantal herhaalonderzoeken dat in het jaar 2012 is verricht in het kader van het bevolkingsonderzoek naar baarmoederhalskanker van de desbetreffende screeningsorganisatie;
 
-Pho. een bedrag van € 34,83.
+Pho. een bedrag van € 34,10.
 
 ##### Artikel 47
 
@@ -486,7 +496,7 @@ volgende screeningsorganisaties een instellingssubsidie verstrekken:
 
 ##### Artikel 50
 
-Subsidie als bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=3&artikel=49&z=2011-07-01&g=2011-07-01) wordt slechts verstrekt:
+Subsidie als bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=3&artikel=49&z=2011-09-17&g=2011-09-17) wordt slechts verstrekt:
 
 - a. voor bevolkingsonderzoek naar borstkanker bij vrouwen in de leeftijdsgroep 50 tot en met 75 jaar;
 
@@ -494,25 +504,11 @@ Subsidie als bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR001
 
 ##### Artikel 51
 
-In afwijking van [hoofdstuk I, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&z=2011-07-01&g=2011-07-01), bestaat de subsidie, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=3&artikel=49&z=2011-07-01&g=2011-07-01), voor het jaar 2011 uit het bedrag dat wordt berekend overeenkomstig de volgende formule:
-
-(Qo × € 53,89) + C
-
-waarbij wordt verstaan onder:
-
-Qo. het aantal onderzoeken dat in het jaar 2011 is verricht in het kader van het bevolkingsonderzoek naar borstkanker van de desbetreffende screeningsorganisatie;
-
-C. een correctie voor de regiogrootte van het bedrag dat wordt berekend overeenkomstig de volgende formule:
-
-(Qg – Qo) × (€ 367.331 / Qg)
-
-waarbij wordt verstaan onder:
-
-Qg. het gemiddeld aantal onderzoeken per screeningsorganisatie, berekend door het totaal aantal onderzoeken waarvoor de screeningsorganisaties subsidie is verleend te delen door het aantal screeningsorganisaties waaraan subsidie is verleend.
+In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&artikel=4&z=2011-09-17&g=2011-09-17) bedraagt de subsidie, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=3&artikel=49&z=2011-09-17&g=2011-09-17), voor het jaar 2012 ten hoogste € 59,79 voor elk onderzoek dat in het jaar 2012 is verricht in het kader van het bevolkingsonderzoek naar borstkanker van de desbetreffende screeningsorganisatie.
 
 ##### Artikel 52
 
-1. Bij de verlening van de subsidie, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=3&artikel=49&z=2011-07-01&g=2011-07-01), kan de minister verplichtingen opleggen met betrekking tot:
+1. Bij de verlening van de subsidie, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=3&artikel=49&z=2011-09-17&g=2011-09-17), kan de minister verplichtingen opleggen met betrekking tot:
 
 - a. de kwaliteit van het bevolkingsonderzoek naar borstkanker;
 
@@ -560,7 +556,7 @@ Voor de uitvoering van het Nationaal Programma Grieppreventie kan de minister ee
 
 ##### Artikel 61
 
-De subsidie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2011-07-01&g=2011-07-01), wordt verstrekt voor griepvaccinaties die in de periode van 1 september van enig jaar tot en met 30 april van het daarop volgende jaar worden toegediend door:
+De subsidie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2011-09-17&g=2011-09-17), wordt verstrekt voor griepvaccinaties die in de periode van 1 september van enig jaar tot en met 30 april van het daarop volgende jaar worden toegediend door:
 
 - a. huisartsen aan:
 
@@ -586,51 +582,41 @@ De subsidie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR001
 
 ##### Artikel 62
 
-In afwijking van [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=19&z=2011-07-01&g=2011-07-01), loopt het boekjaar voor de instellingssubsidie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2011-07-01&g=2011-07-01), van 1 mei van enig jaar tot en met 30 april van het daarop volgende jaar.
+In afwijking van [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=19&z=2011-09-17&g=2011-09-17), loopt het boekjaar voor de instellingssubsidie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2011-09-17&g=2011-09-17), van 1 mei van enig jaar tot en met 30 april van het daarop volgende jaar.
 
 ##### Artikel 63
 
-Met ingang van het boekjaar van 1 mei 2009 tot en met 30 april 2010 bestaat de subsidie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2011-07-01&g=2011-07-01), uit het bedrag dat wordt berekend overeenkomstig de volgende formule:
+Met ingang van het boekjaar van 1 mei 2011 tot en met 30 april 2012 bestaat de subsidie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2011-09-17&g=2011-09-17), uit het bedrag dat wordt berekend overeenkomstig de volgende formule:
 
-(Qv × Pv) + (Qt × Pt) + O + U
+Qt x Pt + U
 
 waarbij wordt verstaan onder:
 
-Qv. het aantal griepvaccins dat in het boekjaar waarvoor de subsidie wordt verstrekt in het kader van het Nationaal Programma Grieppreventie beschikbaar is gesteld aan de artsen die de griepvaccins toedienen;
+Qt. het aantal griepvaccins, bedoeld in [artikel 61, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=61&z=2011-09-17&g=2011-09-17), dat in het boekjaar waarvoor de subsidie wordt verstrekt in het kader van het Nationaal Programma Grieppreventie wordt toegediend;
 
-Pv. voor het boekjaar van 1 mei 2010 tot en met 30 april 2011 een bedrag van € 3,82 en vanaf het boekjaar van 1 mei van 2011 tot en met 30 april van 2012 een bedrag van € 0,–;
-
-Qt. het aantal griepvaccins, bedoeld in [artikel 61, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=61&z=2011-07-01&g=2011-07-01), dat in het boekjaar waarvoor de subsidie wordt verstrekt in het kader van het Nationaal Programma Grieppreventie wordt toegediend;
-
-Pt. een bedrag van € 10,00;
-
-O. het verschil tussen de baten en lasten van de ondersteuning van huisartsen die griepvaccins toedienen in het kader van het Nationaal Programma Grieppreventie, voor zover opgenomen in een door de minister goedgekeurde begroting, tot ten hoogste € 126.000 in het boekjaar van 1 mei 2010 tot en met 30 april 2011 en € 0,– vanaf het boekjaar van 1 mei 2011 tot en met 30 april 2012;
+Pt. een bedrag van € 10,22;
 
 U. het verschil tussen de overige baten en lasten van de uitvoering van het Nationaal Programma Grieppreventie, voor zover opgenomen in een door de minister goedgekeurde begroting, tot ten hoogste € 700.000.
 
 ##### Artikel 64
 
-Bij de verlening van de subsidie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2011-07-01&g=2011-07-01), kan de minister verplichtingen opleggen met betrekking tot de kwaliteit van het Nationaal Programma Grieppreventie.
+Bij de verlening van de subsidie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2011-09-17&g=2011-09-17), kan de minister verplichtingen opleggen met betrekking tot de kwaliteit van het Nationaal Programma Grieppreventie.
 
 ##### Artikel 65
 
-In afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2011-07-01&g=2011-07-01) bedraagt het totaal van de in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2011-07-01&g=2011-07-01), bedoelde reservering:
-
-- a. voor het boekjaar van 1 mei 2008 tot en met 30 april 2009 ten hoogste € 500.000;
-
-- b. vanaf het boekjaar van 1 mei 2009 tot en met 30 april 2010 ten hoogste € 275.000.
+In afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2011-09-17&g=2011-09-17) bedraagt het totaal van de in artikel 23, eerste lid, bedoelde reservering ten hoogste € 275.000.
 
 ##### Artikel 66
 
-De stichting, genoemd in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2011-07-01&g=2011-07-01), draagt er zorg voor dat artsen, bedoeld in [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=61&z=2011-07-01&g=2011-07-01):
+De stichting, genoemd in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2011-09-17&g=2011-09-17), draagt er zorg voor dat artsen, bedoeld in [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=61&z=2011-09-17&g=2011-09-17):
 
-- a. registreren tot welke risicogroepen, bedoeld in [artikel 61, onderdeel a, sub 1° tot en met 9°](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=61&z=2011-07-01&g=2011-07-01), gevaccineerden behoren;
+- a. registreren tot welke risicogroepen, bedoeld in [artikel 61, onderdeel a, sub 1° tot en met 9°](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=61&z=2011-09-17&g=2011-09-17), gevaccineerden behoren;
 
 - b. gedurende ten minste vijf jaren de registratie, bedoeld onder a, bewaren.
 
 ##### Artikel 67
 
-De stichting, genoemd in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2011-07-01&g=2011-07-01):
+De stichting, genoemd in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2011-09-17&g=2011-09-17):
 
 - a. verleent medewerking aan de publieksvoorlichting over het Nationaal Programma Grieppreventie en aan de evaluatie van het Nationaal Programma Grieppreventie, die door de minister of door andere organisaties in opdracht van de minister worden uitgevoerd;
 
@@ -666,11 +652,11 @@ In deze paragraaf wordt verstaan onder:
 
 - 2°. de GGD Regio Nijmegen,
 
-- 3°. de Hulpverleningsdienst (GGD) van de gemeenschappelijke regeling Hulpverlening en Openbare Gezondheidszorg Groningen,
+- 3°. de GGD Groningen,
 
 - 4°. de afdeling GGD van de Dienst OCW van de gemeente Den Haag,
 
-- 5°. de GGD van de gemeente Rotterdam,
+- 5°. de GGD Rotterdam-Rijnmond,
 
 - 6°. de GGD van het openbaar lichaam Hart voor Brabant,
 
@@ -680,13 +666,13 @@ In deze paragraaf wordt verstaan onder:
 
 - c. soa:
 
-- 1°. chlamydia trachomatis, gonorroe, syfilis, hiv, hepatitis B, trichomonas of herpes voor zover deze seksueel overdraagbare aandoening niet eerder bij de desbetreffende patiënt is geconstateerd, of
+- 1°. chlamydia trachomatis, gonorroe, syfilis, hiv, hepatitis B, trichomonas of herpes genitalis voor zover deze seksueel overdraagbare aandoening niet eerder bij de desbetreffende patiënt is geconstateerd, of
 
 - 2°. chlamydia trachomatis, gonorroe of syfilis voor zover deze seksueel overdraagbare aandoening is geconstateerd nadat de desbetreffende patiënt eerder voor de aandoening succesvol is behandeld;
 
-- d. soa-bestrijding: het in het verzorgingsgebied van de desbetreffende coördinerende GGD anders dan in het kader van de curatieve gezondheidszorg verlenen of doen verlenen van de volgende zorg met betrekking tot de daarbij genoemde soa’s:
+- d. soa-bestrijding: het in het verzorgingsgebied van de desbetreffende coördinerende GGD anders dan in het kader van de curatieve gezondheidszorg en collectieve preventie verlenen of doen verlenen van de volgende zorg met betrekking tot de daarbij genoemde soa’s:
 
-- 1°. indicatiestelling, anamnese, lichamelijk onderzoek, counseling, voorlichting en afname van lichaamsmateriaal voor de diagnostiek van chlamydia trachomatis, gonorroe, syfilis, hiv, hepatitis B, trichomonas of herpes,
+- 1°. indicatiestelling, anamnese, lichamelijk onderzoek, counseling, voorlichting en afname van lichaamsmateriaal voor de diagnostiek van chlamydia trachomatis, gonorroe, syfilis, hiv, hepatitis B, trichomonas of herpes genitalis,
 
 - 2°. behandeling van en op indicatie verwijzing ter behandeling van chlamydia trachomatis, gonorroe en syfilis,
 
@@ -698,17 +684,15 @@ In deze paragraaf wordt verstaan onder:
 
 - 1°. coördineren van het aanbod van soa-bestrijding, en
 
-- 2°. waarborgen dat de soa-bestrijding voldoet aan [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.2&artikel=70&z=2011-07-01&g=2011-07-01);
+- 2°. waarborgen dat de soa-bestrijding voldoet aan [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.2&artikel=70&z=2011-09-17&g=2011-09-17);
 
-- f. soa-onderzoek: onderzoek van lichaamsmateriaal ten behoeve van het stellen van een diagnose in het kader van de soa-bestrijding;
+- f. gevonden soa: chlamydia trachomatis, gonorroe, syfilis, hiv of hepatitis B waarvan de diagnose is gesteld in het kader van de soa-bestrijding;
 
-- g. gevonden soa: een soa, niet zijnde trichomonas of herpes, waarvan de diagnose is gesteld in het kader van de soa-bestrijding en op basis van een soa-onderzoek naar ten minste chlamydia trachomatis, gonorroe en syfilis;
-
-- h. seksualiteitshulpverlening: het in het verzorgingsgebied van de desbetreffende coördinerende GGD in aanvulling op de curatieve gezondheidszorg verlenen of doen verlenen van de volgende individuele zorg met betrekking tot de seksuele gezondheid:
+- g. seksualiteitshulpverlening: het in het verzorgingsgebied van de desbetreffende coördinerende GGD in aanvulling op de curatieve gezondheidszorg en collectieve preventie verlenen of doen verlenen van de volgende individuele zorg met betrekking tot de seksuele gezondheid:
 
 - 1°. signaleren van hulpvragen,
 
-- 2°. verrichten van eenvoudige psychosociale en somatische diagnostiek, met inbegrip van lichamelijk onderzoek,
+- 2°. verrichten van eenvoudige psychosociale en somatische diagnostiek,
 
 - 3°. geven van informatie en advies,
 
@@ -718,27 +702,27 @@ In deze paragraaf wordt verstaan onder:
 
 - 6°. registreren van gegevens ten behoeve van ontwikkeling van het beleid op het gebied van collectieve preventie en seksualiteitshulpverlening;
 
-- i. seksualiteitshulpverleningscoördinatie: het ten behoeve van het verzorgingsgebied van de desbetreffende coördinerende GGD:
+- h. aanvullende seksuele gezondheidszorg: soa-bestrijding en seksualiteitshulpverlening;
 
-- 1°. coördineren van het aanbod van seksualiteitshulpverlening, en
+- i. coördinatie: het ten behoeve van het verzorgingsgebied van de desbetreffende coördinerende GGD:
 
-- 2°. waarborgen dat de hulpverlening voldoet aan [artikel 75k](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.5&artikel=75k&z=2011-07-01&g=2011-07-01);
+- 1°. coördineren van het aanbod van aanvullende seksuele gezondheidszorg;
 
-- j. consult seksualiteitshulpverlening: het aan een cliënt verlenen van seksualiteitshulpverlening door middel van een individueel en face to face consult, dat tenminste bestaat uit het signaleren van hulpvragen, het geven van informatie en advies en het registreren van gegevens ten behoeve van ontwikkeling van het beleid op het gebied van seksualiteitshulpverlening.
+- 2°. waarborgen dat de aanvullende seksuele gezondheidszorg voldoet aan [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.2&artikel=70&z=2011-09-17&g=2011-09-17).
 
 ##### Artikel 69
 
-De minister kan aan een coördinerende GGD jaarlijks een instellingssubsidie verstrekken voor soa-coördinatie en soa-bestrijding in het verzorgingsgebied waar de coördinerende GGD is gevestigd, indien in het tweede jaar voorafgaande aan het jaar waarvoor de instellingssubsidie wordt verstrekt:
+De minister kan aan een coördinerende GGD jaarlijks een instellingssubsidie verstrekken voor aanvullende seksuele gezondheidszorg en coördinatie in het verzorgingsgebied waar de coördinerende GGD is gevestigd, indien in het tweede jaar voorafgaande aan het jaar waarvoor de instellingssubsidie wordt verstrekt:
 
-- a. het totaal aantal gevonden soa’s dat in het verzorgingsgebied van de desbetreffende coördinerende GGD in het kader van de soa-bestrijding werd geconstateerd, ten minste gelijk is aan het getal dat wordt uitgedrukt met letter E in de formule, bedoeld in [artikel 71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.2&artikel=71&z=2011-07-01&g=2011-07-01);
+- a. het totaal aantal gevonden soa’s dat in het verzorgingsgebied van de desbetreffende coördinerende GGD in het kader van de aanvullende seksuele gezondheidszorg werd geconstateerd, ten minste gelijk is aan het getal dat wordt uitgedrukt met letter E in de formule, bedoeld in [artikel 71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.2&artikel=71&z=2011-09-17&g=2011-09-17);
 
-- b. er in het verzorgingsgebied van de desbetreffende coördinerende GGD in het kader van de soa-bestrijding in totaal ten minste vier keer zoveel soa-onderzoeken werden verricht dan er gevonden soa’s werden geconstateerd.
+- b. er in het verzorgingsgebied van de desbetreffende coördinerende GGD in het kader van de aanvullende seksuele gezondheidszorg in totaal ten minste vier keer zoveel soa-onderzoeken werden verricht dan er gevonden soa’s werden geconstateerd.
 
 ##### Artikel 70
 
 De coördinerende GGD draagt er ten behoeve van zijn verzorgingsgebied zorg voor dat in het jaar waarvoor de instellingssubsidie wordt verstrekt:
 
-- a. er gepaste soa-coördinatie en toereikende soa-bestrijding worden uitgevoerd;
+- a. er gepaste coördinatie en toereikende aanvullende seksuele gezondheidszorg worden uitgevoerd;
 
 - b. de soa-bestrijding is gericht op:
 
@@ -746,67 +730,83 @@ De coördinerende GGD draagt er ten behoeve van zijn verzorgingsgebied zorg voor
 
 - 2°. personen die in het kader van de bron- en contactopsporing gewaarschuwd zijn voor een soa,
 
-- 3°. personen met klachten die wijzen op een soa,
+- 3°. personen met klachten die wijzen op een soa, of
 
-- 4°. personen jonger dan 25 jaar, of
+- 4°. personen jonger dan 25 jaar;
 
-- 5°. personen die bij een soa-onderzoek anoniem wensen te blijven;
+- c. de seksualiteitshulpverlening is gericht op personen jonger dan 25 jaar;
 
-- c. van cliënten geen betalingen worden verlangd voor soa-bestrijding;
+- d. van cliënten geen betalingen worden verlangd voor aanvullende seksuele gezondheidszorg;
 
-- d. de soa-bestrijding is afgestemd op de collectieve preventie en de curatieve gezondheidszorg;
+- e. de aanvullende seksuele gezondheidszorg is afgestemd op de collectieve preventie en de curatieve gezondheidszorg;
 
-- e. de soa-bestrijding wordt uitgevoerd in samenwerking met andere gemeentelijke gezondheidsdiensten binnen het verzorgingsgebied;
+- f. de aanvullende seksuele gezondheidszorg wordt uitgevoerd in samenwerking met andere gemeentelijke gezondheidsdiensten binnen het verzorgingsgebied;
 
-- f. de soa-bestrijding van verantwoorde kwaliteit is;
+- g. de aanvullende seksuele gezondheidszorg van verantwoorde kwaliteit is;
 
-- g. uiterlijk 2 maanden na afloop van ieder kwartaal aan de minister op door hem te bepalen wijze worden verstrekt de gegevens over het aantal soa-onderzoeken en het aantal gevonden soa’s, alsmede de door hem te bepalen gegevens ten behoeve van onderzoek naar de ontwikkeling van het voorkomen van soa’s;
+- h. uiterlijk 2 maanden na afloop van ieder kwartaal op door de minister te bepalen wijze gegevens worden verstrekt over het aantal soa-onderzoeken en het aantal gevonden soa’s, alsmede de doorde minister te bepalen gegevens ten behoeve van onderzoek naar de ontwikkeling van het voorkomen van soa’s;
 
-- h. de gegevens over het aantal soa-onderzoeken en het aantal gevonden soa’s worden geregistreerd overeenkomstig de aanwijzingen in het SOAP Gebruikersreglement en worden verstrekt aan het Rijksinstituut voor volksgezondheid en milieu.
+- i. de gegevens over het aantal soa-onderzoeken en het aantal gevonden soa’s op een door de minister vastgestelde wijze worden verstrekt aan het Rijksinstituut voor Volksgezondheid en Milieu;
+
+- j. de gegevens ten behoeve van onderzoekingen als bedoeld in artikel 30, derde lid, ten behoeve van de ontwikkeling van het beleid op het gebied van collectieve preventie en aanvullende seksuele gezondheidszorg op een door de minister vastgestelde wijze worden verstrekt aan het Rijksinstituut voor Volksgezondheid en Milieu.
 
 ##### Artikel 71
 
-1. In afwijking van [Hoofdstuk I, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&z=2011-07-01&g=2011-07-01), bestaat de instellingssubsidie voor soa-coördinatie en soa-bestrijding uit het bedrag dat wordt berekend met de formule A + (B × C) + (D – E) × F, waarbij wordt verstaan onder:
+1. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&artikel=4&z=2011-09-17&g=2011-09-17), bestaat de instellingssubsidie voor aanvullende seksuele gezondheidszorg en coördinatie uit het bedrag dat wordt berekend met de formule A + (B × C) + (D – E) × F, waarbij wordt verstaan onder:
 
-- A. een normbedrag van € 20.000,
+- A. een normbedrag per verzorgingsgebied van:
+
+- 1°. € 231.260,– voor de provincies Noord-Holland en Flevoland,
+
+- 2°. € 231.260,– voor de provincies Overijssel en Gelderland,
+
+- 3°. € 209.255,– voor de provincies Friesland, Drenthe en Groningen,
+
+- 4°. € 200.382,– voor het deel van de provincie Zuid-Holland, bestaande uit de gemeenten Delft, Den Haag, Leidschendam/Voorburg, Midden-Delfland, Pijnacker-Nootdorp, Rijswijk, Wassenaar, Westland en Zoetermeer,
+
+- 5°. € 209.255,– voor het overige deel van de provincie Zuid-Holland, bestaande uit de gemeenten die geen deel uitmaken van het deel van de provincie Zuid-Holland genoemd onder 4°,
+
+- 6°. € 231.260,– voor de provincies Zeeland en Brabant,
+
+- 7°. € 200.382,– voor de provincie Limburg,
+
+- 8°. € 200.382,– voor de provincie Utrecht,
 
 - B. het aantal inwoners in het verzorgingsgebied waar de coördinerende GGD is gevestigd,
 
-- C. een normbedrag van € 0,1060 per inwoner,
+- C. een normbedrag per inwoner van € 0,1922,
 
 - D. het totaal aantal gevonden soa’s in het verzorgingsgebied van de desbetreffende coördinerende GGD in het tweede jaar voorafgaande aan het jaar waarvoor de instellingssubsidie wordt verstrekt, tot ten hoogste 125% van het totaal aantal gevonden soa’s in het verzorgingsgebied van de desbetreffende coördinerende GGD in het derde jaar voorafgaande aan het jaar waarvoor de instellingssubsidie wordt verstrekt,
 
-- E. (B × C) ∕ € 1.168,12, en
+- E. (B × € 0,1066) ⁄ € 1.168,12,
 
-- F. een normbedrag per gevonden soa van € 638,81,
-
-en waarbij (D–E) gelijk wordt gesteld aan nul indien E groter is dan D.
+- F. een normbedrag van € 638,81, en waarbij (D–E) gelijk wordt gesteld aan nul indien E groter is dan D.
 
 2. Het aantal inwoners, bedoeld in het eerste lid, onder B, wordt ontleend aan de statistiek ‘Bevolking der gemeenten in Nederland op 1 januari’ van het Centraal Bureau voor de Statistiek voor het tweede jaar voorafgaande aan het jaar waarvoor de instellingssubsidie wordt verstrekt.
 
 ##### Artikel 72
 
-In afwijking van [artikel 71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.2&artikel=71&z=2011-07-01&g=2011-07-01), wordt het aantal gevonden soa's in 2005 ontleend aan onderzoeksgegevens van de minister over het voorkomen van soa’s.
+Vervallen
 
 ##### Artikel 73
 
-In afwijking van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=5&artikel=9&z=2011-07-01&g=2011-07-01), wordt een aanvraag van de instellingssubsidie voor soa-coördinatie en soa-bestrijding onderbouwd met een activiteitenplan en gaat deze aanvraag vergezeld van:
+In afwijking van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=5&artikel=9&z=2011-09-17&g=2011-09-17), wordt een aanvraag van de instellingssubsidie voor aanvullende seksuele gezondheidszorg en coördinatie onderbouwd met een activiteitenplan en gaat deze aanvraag vergezeld van:
 
-- a. verklaringen van andere gemeentelijke gezondheidsdiensten uit het verzorgingsgebied waarmee de coördinerende GGD samenwerkt in het kader van de soa-bestrijding, waaruit blijkt dat zij instemmen met de soa-coördinatie, en
+- a. verklaringen van andere gemeentelijke gezondheidsdiensten uit het verzorgingsgebied waarmee de coördinerende GGD samenwerkt in het kader van de aanvullende seksuele gezondheidszorg, waaruit blijkt dat zij instemmen met de aanvullende seksuele gezondheidszorg en de coördinatie daarvan,
 
-- b. het verslag, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=22&z=2011-07-01&g=2011-07-01), over het tweede jaar voorafgaande aan het jaar waarvoor de instellingssubsidie wordt verstrekt, waarin ten minste is opgenomen het aantal soa-onderzoeken en het aantal gevonden soa’s in het verzorgingsgebied van de desbetreffende coördinerende GGD, en
+- b. het verslag, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=22&z=2011-09-17&g=2011-09-17), over het tweede jaar voorafgaande aan het jaar waarvoor de instellingssubsidie wordt verstrekt, waarin ten minste is opgenomen het aantal soa-onderzoeken en het aantal gevonden soa’s in het verzorgingsgebied van de desbetreffende coördinerende GGD, en
 
 - c. een bestuursverklaring.
 
 ##### Artikel 74
 
-1. In afwijking van de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=7&artikel=14&z=2011-07-01&g=2011-07-01) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=10&artikel=36&z=2011-07-01&g=2011-07-01) geeft de minister binnen dertien weken na ontvangst van de aanvraag van de instellingssubsidie voor soa-coördinatie en soa-bestrijding een beschikking tot vaststelling.
+1. In afwijking van de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=7&artikel=14&z=2011-09-17&g=2011-09-17) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=10&artikel=36&z=2011-09-17&g=2011-09-17) geeft de minister binnen 22 weken na ontvangst van de aanvraag van de instellingssubsidie voor aanvullende seksuele gezondheidszorg en coördinatie een beschikking tot vaststelling.
 
-2. De instellingssubsidie voor soa-coördinatie en soa-bestrijding wordt betaald in de volgende termijnen: in januari 8%, februari 8%, maart 8%, april 7%, mei 16%, juni 7%, juli 8%, augustus 8%, september 7%, oktober 8%, november 8% en december 7% van het voor het desbetreffende jaar vastgestelde bedrag.
+2. De instellingssubsidie voor aanvullende seksuele gezondheidszorg en coördinatie wordt betaald in de volgende termijnen: in januari 8%, februari 8%, maart 8%, april 7%, mei 16%, juni 7%, juli 8%, augustus 8%, september 7%, oktober 8%, november 8% en december 7% van het voor het desbetreffende jaar vastgestelde bedrag.
 
 ##### Artikel 75
 
-De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2011-07-01&g=2011-07-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=24&z=2011-07-01&g=2011-07-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=32&z=2011-07-01&g=2011-07-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=33&z=2011-07-01&g=2011-07-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=35&z=2011-07-01&g=2011-07-01) zijn niet van toepassing op een instellingssubsidie voor soa-coördinatie en soa-bestrijding.
+De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2011-09-17&g=2011-09-17), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=24&z=2011-09-17&g=2011-09-17), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=32&z=2011-09-17&g=2011-09-17), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=33&z=2011-09-17&g=2011-09-17) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=35&z=2011-09-17&g=2011-09-17) zijn niet van toepassing op een instellingssubsidie voor aanvullende seksuele gezondheidszorg en coördinatie.
 
 ### Hoofdstuk III. Slotbepalingen
 
@@ -816,7 +816,7 @@ De minister kan, gelet op het belang dat deze regeling beoogt te beschermen, art
 
 ##### Artikel 77
 
-Op subsidies die voor de inwerkingtreding van deze regeling zijn verleend of vastgesteld is de [Regeling subsidies AWBZ en Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011837) van toepassing zoals deze luidde op het moment dat de subsidie werd verleend of vastgesteld.
+Vervallen
 
 ##### Artikel 78
 
@@ -838,27 +838,37 @@ Vervallen
 
 2. De instellingssubsidie voor soa-onderzoek, bedoeld in het eerste lid, wordt slechts verstrekt:
 
-- a. indien aan de desbetreffende GGD voor het desbetreffende jaar tevens een instellingssubsidie voor soa-coördinatie en soa-bestrijding is verstrekt;
+- a. indien aan de desbetreffende GGD voor het desbetreffende jaar tevens een instellingssubsidie voor aanvullende seksuele gezondheidszorg en coördinatie is verstrekt;
 
 - b. voor zover het soa-onderzoek wordt uitgevoerd in een specifiek met het oog op het functioneren ten behoeve van de gezondheidszorg geaccrediteerd laboratorium;
 
-- c. voor zover het soa-onderzoek in het kader van de soa-bestrijding wordt verricht ten behoeve van het stellen van een diagnose met betrekking tot tenminste chlamydia trachomatis, gonorroe en syfilis.
+- c. voor zover het soa-onderzoek in het kader van de soa-bestrijding wordt verricht ten behoeve van het stellen van een diagnose met betrekking tot:
+
+- 1°. ten minste chlamydia trachomatis, gonorroe en syfillis bij personen bedoeld in [artikel 70,onder b, onder 1° tot en met 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.2&artikel=70&z=2011-09-17&g=2011-09-17), of
+
+- 2°. chlamydia trachomatis bij personen bedoeld in [artikel 70, onder b, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.2&artikel=70&z=2011-09-17&g=2011-09-17),
+
+- 3°. ten minste gonorroe en syfillis bij personen bedoeld in [artikel 70, onder b, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.2&artikel=70&z=2011-09-17&g=2011-09-17), nadat een infectie met chlamydia trachomatis is gediagnosticeerd door middel van een soa-onderzoek in het kader van de soa-bestrijding.
 
 ##### Artikel 75c
 
-In afwijking van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=5&artikel=9&z=2011-07-01&g=2011-07-01), wordt een aanvraag van de instellingssubsidie voor soa-onderzoek, bedoeld in [artikel 75b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75b&z=2011-07-01&g=2011-07-01), onderbouwd met een activiteitenplan en gaat deze aanvraag vergezeld van een opgave van het aantal soa-onderzoeken in de periode van 1 januari tot en met 30 juni van het jaar voorafgaande aan het jaar waarvoor de instellingssubsidie wordt verstrekt.
+In afwijking van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=5&artikel=9&z=2011-09-17&g=2011-09-17), wordt een aanvraag van de instellingssubsidie voor soa-onderzoek, bedoeld in [artikel 75b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75b&z=2011-09-17&g=2011-09-17), onderbouwd met een activiteitenplan en gaat deze aanvraag vergezeld van een opgave van het aantal soa-onderzoeken in de periode van 1 januari tot en met 30 juni van het jaar voorafgaande aan het jaar waarvoor de instellingssubsidie wordt verstrekt.
 
 ##### Artikel 75d
 
-De Minister verleent een instellingssubsidie voor soa-onderzoek, bedoeld in [artikel 75b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75b&z=2011-07-01&g=2011-07-01), van ten hoogste het bedrag dat in afwijking van [Hoofdstuk I, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&z=2011-07-01&g=2011-07-01), wordt berekend met de formule (G × 2) × H, waarbij wordt verstaan onder:
+De Minister verleent een instellingssubsidie voor soa-onderzoek, bedoeld in [artikel 75b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75b&z=2011-09-17&g=2011-09-17), van ten hoogste het bedrag dat in afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&artikel=4&z=2011-09-17&g=2011-09-17), wordt berekend met de formule (G × 2) × H + (I × 2) × J, waarbij wordt verstaan onder:
 
-G. het totaal aantal soa-onderzoeken dat in het verzorgingsgebied van de desbetreffende coördinerende GGD is verricht in de periode van 1 januari tot en met 30 juni van het jaar voorafgaande aan het jaar waarvoor de instellingssubsidie wordt verstrekt, en
+G. het totaal aantal soa-onderzoeken als bedoeld in [artikel 75b, tweede lid, onder c, sub 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75b&z=2011-09-17&g=2011-09-17), in de periode van 1 januari tot en met 30 juni van het jaar voorafgaande aan het jaar waarvoor de instellingssubsidie wordt verstrekt,
 
-H. een normbedrag per soa-onderzoek van € 140,20 voor het jaar 2010 en € 143,12 voor het jaar 2011.
+H. een normbedrag van € 47,85 voor het jaar 2012,
+
+I. het totaal aantal soa-onderzoeken als bedoeld in [artikel 75b, tweede lid, onder c, sub 1 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75b&z=2011-09-17&g=2011-09-17), in de periode van 1 januari tot en met 30 juni van het jaar voorafgaande aan het jaar waarvoor de instellingssubsidie wordt verstrekt, en
+
+J. een normbedrag van € 143,12 voor het jaar 2011 en € 144,75 voor het jaar 2012.
 
 ##### Artikel 75e
 
-De coördinerende GGD waaraan een instellingssubsidie voor soa-onderzoek, bedoeld in [artikel 75b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75b&z=2011-07-01&g=2011-07-01), is verleend, draagt er zorg voor dat aan de Minister op door hem te bepalen wijze gegevens worden verstrekt over de uitvoering van de activiteiten waarvoor de subsidie wordt verstrekt.
+De coördinerende GGD waaraan een instellingssubsidie voor soa-onderzoek, bedoeld in [artikel 75b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75b&z=2011-09-17&g=2011-09-17), is verleend, draagt er zorg voor dat aan de Minister op door hem te bepalen wijze gegevens worden verstrekt over de uitvoering van de activiteiten waarvoor de subsidie wordt verstrekt.
 
 ### Hoofdstuk III. Slotbepalingen
 
@@ -904,7 +914,7 @@ Uiterlijk 15 juli van het jaar volgend op het jaar waarvoor een coördinerende G
 
 ##### Artikel 75f
 
-In afwijking van de [artikelen 32 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=32&z=2011-07-01&g=2011-07-01) wordt de instellingssubsidie voor soa-onderzoek, bedoeld in [artikel 75b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75b&z=2011-07-01&g=2011-07-01), als volgt vastgesteld:
+In afwijking van de [artikelen 32 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=32&z=2011-09-17&g=2011-09-17) wordt de instellingssubsidie voor soa-onderzoek, bedoeld in [artikel 75b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75b&z=2011-09-17&g=2011-09-17), als volgt vastgesteld:
 
 - a. het college van burgemeester en wethouders vraagt de vaststelling van de subsidie aan door verantwoordingsinformatie aan de minister te verstrekken op de wijze bedoeld in [artikel 27 van het Besluit financiële verhouding 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&artikel=27);
 
@@ -914,11 +924,15 @@ In afwijking van de [artikelen 32 tot en met 36](https://wetten.overheid.nl/jci1
 
 ##### Artikel 75g
 
-De Minister stelt een instellingssubsidie voor soa-onderzoek, bedoeld in [artikel 75b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75b&z=2011-07-01&g=2011-07-01), vast op het bedrag dat in afwijking van [Hoofdstuk I, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&z=2011-07-01&g=2011-07-01), wordt berekend met de formule I × J, waarbij wordt verstaan onder:
+De Minister stelt een instellingssubsidie voor soa-onderzoek, bedoeld in [artikel 75b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75b&z=2011-09-17&g=2011-09-17), vast op het bedrag dat in afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&artikel=4&z=2011-09-17&g=2011-09-17) wordt berekend met de formule K × L + M × N, waarbij wordt verstaan onder:
 
-I. het totaal aantal soa-onderzoeken dat in het verzorgingsgebied van de desbetreffende coördinerende GGD is verricht in het jaar waarvoor de instellingssubsidie wordt verstrekt, en
+- K. het totaal aantal soa-onderzoeken als bedoeld in [artikel 75b, tweede lid, onder c, sub 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75b&z=2011-09-17&g=2011-09-17), in het jaar waarvoor de instellingssubsidie wordt verstrekt,
 
-J. een normbedrag per soa-onderzoek van € 140,20 voor het jaar 2010 en € 143,12 voor het jaar 2011.
+- L. een normbedrag van € 47,85 voor het jaar 2012,
+
+- M. het totaal aantal soa-onderzoeken als bedoeld in [artikel 75b, tweede lid, onder c, sub 1 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75b&z=2011-09-17&g=2011-09-17), dat is verricht in het verzorgingsgebied van de desbetreffende coördinerende GGD in het jaar waarvoor de instellingssubsidie wordt verstrekt, en
+
+- N. een normbedrag van € 143,12 voor het jaar 2011 en € 144,75 voor het jaar 2012.
 
 ##### Artikel 75h
 
@@ -926,7 +940,7 @@ Vervallen
 
 ##### Artikel 75i
 
-De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2011-07-01&g=2011-07-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=24&z=2011-07-01&g=2011-07-01) zijn niet van toepassing op een instellingssubsidie voor soa-onderzoek, bedoeld in [artikel 75b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75b&z=2011-07-01&g=2011-07-01).
+De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2011-09-17&g=2011-09-17) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=24&z=2011-09-17&g=2011-09-17) zijn niet van toepassing op een instellingssubsidie voor soa-onderzoek, bedoeld in [artikel 75b](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.4&artikel=75b&z=2011-09-17&g=2011-09-17).
 
 ### Hoofdstuk III. Slotbepalingen
 
@@ -940,95 +954,31 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 75j
 
-De minister kan aan een coördinerende GGD jaarlijks een instellingssubsidie verstrekken voor seksualiteitshulpverlening en seksualiteitshulpverleningscoördinatie.
+Vervallen
 
 ##### Artikel 75k
 
-De coördinerende GGD draagt er ten behoeve van zijn verzorgingsgebied zorg voor dat in het jaar waarvoor de instellingssubsidie wordt verstrekt:
-
-- a. gepaste seksualiteitshulpverleningscoördinatie en toereikende seksualiteitshulpverlening worden uitgevoerd;
-
-- b. de seksualiteitshulpverlening is gericht op jongeren in de leeftijd tot en met 24 jaar;
-
-- c. van cliënten geen betalingen worden verlangd voor een consult seksualiteitshulpverlening;
-
-- d. de seksualiteitshulpverlening is afgestemd op de collectieve preventie, de soa-bestrijding en de curatieve gezondheidszorg;
-
-- e. de seksualiteitshulpverlening wordt uitgevoerd in samenwerking met andere gemeentelijke gezondheidsdiensten binnen het verzorgingsgebied;
-
-- f. de seksualiteitshulpverlening van verantwoorde kwaliteit is;
-
-- g. de gegevens ten behoeve van ontwikkeling van het beleid op het gebied van collectieve preventie en seksualiteitshulpverlening op een door de minister vastgestelde wijze worden verstrekt.
+Vervallen
 
 ##### Artikel 75l
 
-In afwijking van [Hoofdstuk I, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&z=2011-07-01&g=2011-07-01), bestaat de instellingssubsidie voor seksualiteitshulpverlening en seksualiteitshulpverleningscoördinatie uit het bedrag dat wordt berekend met de formule A+(B*C), waarbij wordt verstaan onder:
-
-- A:. een normbedrag van:
-
-- 1°. € 281.680,– voor de provincies Noord-Holland en Flevoland,
-
-- 2°. € 281.680,– voor de provincies Overijssel en Gelderland,
-
-- 3°. € 252.340,– voor de provincies Friesland, Drenthe en Groningen,
-
-- 4°. € 240.510,– voor het deel van de provincie Zuid-Holland, bestaande uit de gemeenten Delft, Den Haag, Leidschendam/Voorburg, Midden-Delfland, Pijnacker-Nootdorp, Rijswijk, Wassenaar, Westland en Zoetermeer,
-
-- 5°. € 252.340,– voor het overige deel van de provincie Zuid-Holland,
-
-- 6°. € 281.680,– voor de provincies Zeeland en Brabant,
-
-- 7°. € 240.510,– voor de provincie Limburg,
-
-- 8°. € 240.510,– voor de provincie Utrecht,
-
-- B:. het aantal consulten seksualiteitshulpverlening in het verzorgingsgebied van de desbetreffende coördinerende GGD in het jaar waarvoor de instellingssubsidie wordt verstrekt van ten hoogste:
-
-- 1°. 4.740 voor de provincies Noord-Holland en Flevoland,
-
-- 2°. 4.883 voor de provincies Overijssel en Gelderland,
-
-- 3°. 2.672 voor de provincies Friesland, Drenthe en Groningen,
-
-- 4°. 1.576 voor het deel van de provincie Zuid-Holland, bestaande uit de gemeenten Delft, Den Haag, Leidschendam/Voorburg, Midden-Delfland, Pijnacker-Nootdorp, Rijswijk, Wassenaar, Westland en Zoetermeer,
-
-- 5°. 3.863 voor het overige deel van de provincie Zuid-Holland,
-
-- 6°. 4.401 voor de provincies Zeeland en Brabant,
-
-- 7°. 1.742 voor de provincie Limburg,
-
-- 8°. 1.893 voor de provincie Utrecht, en
-
-- C:. een normbedrag per consult seksualiteitshulpverlening van € 55,44 tot ten hoogste twee consulten per cliënt per hulpvraag.
+Vervallen
 
 ##### Artikel 75m
 
-1. In afwijking van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=5&artikel=9&z=2011-07-01&g=2011-07-01), wordt een aanvraag van de instellingssubsidie voor seksualiteitshulpverlening en seksualiteitshulpverleningscoördinatie onderbouwd met een activiteitenplan en gaat deze aanvraag vergezeld van:
-
-- a. verklaringen van andere gemeentelijke gezondheidsdiensten of andere partijen uit het verzorgingsgebied waarmee de coördinerende GGD samenwerkt in het kader van de seksualiteitshulpverlening, waaruit blijkt dat zij instemmen met de seksualiteitshulpverleningscoördinatie,
-
-- b. het aantal te verrichten consulten seksualiteitshulpverlening in het jaar waarvoor de instellingssubsidie wordt verstrekt.
-
-2. In afwijking van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=5&artikel=9&z=2011-07-01&g=2011-07-01), dient de coördinerende GGD de aanvraag van de instellingssubsidie voor seksualiteitshulpverlening en seksualiteitshulpverleningscoördinatie ten behoeve van het jaar 2009 uiterlijk 1 november 2008 in.
+Vervallen
 
 ##### Artikel 75n
 
-In afwijking van [artikel 15, eerste lid, tweede volzin, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=7&artikel=15&z=2011-07-01&g=2011-07-01), verstrekt de minister de volgende voorschotten op een verleende instellingssubsidie voor seksualiteitshulpverlening en seksualiteitshulpverleningscoördinatie: in januari 8%, februari 8%, maart 8%, april 7%, mei 16%, juni 7%, juli 8%, augustus 8%, september 7%, oktober 8%, november 8% en december 7% van het voor het desbetreffende jaar verleende bedrag.
+Vervallen
 
 ##### Artikel 75o
 
-In afwijking van de [artikelen 32 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=32&z=2011-07-01&g=2011-07-01) wordt de instellingssubsidie voor seksualiteitshulpverlening en seksualiteitshulpverleningscoördinatie, bedoeld in [artikel 75j](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.5&artikel=75j&z=2011-07-01&g=2011-07-01), als volgt vastgesteld:
-
-- a. het college van burgemeester en wethouders vraagt de vaststelling van de subsidie aan door verantwoordingsinformatie aan de minister te verstrekken op de wijze bedoeld in [artikel 27 van het Besluit financiële verhouding 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&artikel=27);
-
-- b. [artikel 58a van het Besluit begroting en verantwoording provincies en gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&artikel=58a) is van overeenkomstige toepassing op de verantwoordingsinformatie;
-
-- c. binnen zes maanden na ontvangst van de verantwoordingsinformatie geeft de minister een beschikking tot vaststelling van de subsidie.
+Vervallen
 
 ##### Artikel 75p
 
-De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2011-07-01&g=2011-07-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=24&z=2011-07-01&g=2011-07-01) zijn niet van toepassing op een instellingssubsidie voor seksualiteitshulpverlening en seksualiteitshulpverleningscoördinatie.
+Vervallen
 
 ### Hoofdstuk III. Slotbepalingen
 
@@ -1060,11 +1010,11 @@ Vervallen
 
 #### § 6.1. Algemeen
 
-#### § 6.2. Soa-coördinatie en soa-bestrijding
+#### § 6.2. Aanvullende seksuele gezondheidszorg en coördinatie
 
 #### § 6.3
 
-#### § 6.4. Soa-onderzoek vanaf tweede helft van 2007
+#### § 6.4. Soa-onderzoek
 
 #### § 6.5. Seksualiteitshulpverlening en coördinatie
 
