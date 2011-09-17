@@ -4,7 +4,7 @@ identifier: "BWBR0028619"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2023-01-01"
-last_updated: "2010-10-10"
+last_updated: "2011-09-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028619"
 soort: "wet-BES"
@@ -57,7 +57,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - h. **etikettering:** iedere aanduiding, identificatie, vermelding of voorstelling op of bij de waar dan wel op de verpakking daarvan gebezigd of aangebracht;
 
-- i. **Adviescommissie:** de commissie, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=3&artikel=7&z=2010-10-10&g=2010-10-10).
+- i. **Adviescommissie:** de commissie, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=3&artikel=7&z=2011-09-17&g=2011-09-17).
 
 #### § 2. Algemene bepalingen
 
@@ -133,13 +133,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4
 
-1. In een spoedeisend geval kunnen de regels, bedoeld in [artikel 3, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=2&artikel=3&z=2010-10-10&g=2010-10-10), worden gegeven bij deze regeling. Bij deze regeling kunnen bepalingen van de op artikel 3, eerste lid tot derde lid berustende algemene maatregelen van bestuur, zo nodig buiten werking worden gesteld.
+1. In een spoedeisend geval kunnen de regels, bedoeld in [artikel 3, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=2&artikel=3&z=2011-09-17&g=2011-09-17), worden gegeven bij deze regeling. Bij deze regeling kunnen bepalingen van de op artikel 3, eerste lid tot derde lid berustende algemene maatregelen van bestuur, zo nodig buiten werking worden gesteld.
 
 2. De ministeriële regeling, bedoeld in het eerste lid, vervalt na verloop van een termijn van zes maanden nadat zij in werking is getreden, of, indien binnen die termijn een algemene maatregel van bestuur ter vervanging van die ministeriële regeling in werking is getreden, op het tijdstip waarop die algemene maatregel van bestuur in werking treedt.
 
 ##### Artikel 5
 
-1. De regels, krachtens [artikel 3, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=2&artikel=3&z=2010-10-10&g=2010-10-10), kunnen voorschriften inhouden ten aanzien van daarbij omschreven waren of categorieën van waren of een verbod om daarbij omschreven waren of categorieën van waren te vervaardigen dan wel te verhandelen. Aan Onze Minister kan bij de desbetreffende algemene maatregel van bestuur, de bevoegdheid worden toegekend vrijstelling dan wel ontheffing van de gegeven voorschriften of verboden te verlenen of namens hem te doen verlenen.
+1. De regels, krachtens [artikel 3, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=2&artikel=3&z=2011-09-17&g=2011-09-17), kunnen voorschriften inhouden ten aanzien van daarbij omschreven waren of categorieën van waren of een verbod om daarbij omschreven waren of categorieën van waren te vervaardigen dan wel te verhandelen. Aan Onze Minister kan bij de desbetreffende algemene maatregel van bestuur, de bevoegdheid worden toegekend vrijstelling dan wel ontheffing van de gegeven voorschriften of verboden te verlenen of namens hem te doen verlenen.
 
 2. Aan de vrijstelling of de ontheffing, bedoeld in het eerste lid, kunnen voorschriften worden verbonden; zij kan onder beperking worden verleend.
 
@@ -213,7 +213,7 @@ Het is verboden eet- of drinkwaren te bereiden dan wel te verhandelen die door h
 
 - f. de opleidingseisen waaraan exploitanten van ruimten moeten voldoen.
 
-3. Ten aanzien van de vergunning, bedoeld in het eerste lid, is het bepaalde in [artikel 5, tweede, zesde tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=2&artikel=5&z=2010-10-10&g=2010-10-10), van toepassing.
+3. Ten aanzien van de vergunning, bedoeld in het eerste lid, is het bepaalde in [artikel 5, tweede, zesde tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=2&artikel=5&z=2011-09-17&g=2011-09-17), van toepassing.
 
 ##### Artikel 10
 
@@ -267,29 +267,29 @@ Degene die rechtstreeks in zijn belang is getroffen door een op grond van deze w
 
 1. Het toezicht op de naleving van het bepaalde bij of krachtens deze wet met betrekking tot eet- en drinkwaren berust bij daartoe door het bestuurscollege aangewezen personen.
 
-2. Het bestuurscollege kan de Inspectie voor de Volksgezondheid verzoeken de taak, bedoeld in het eerste lid, uit te oefenen. In een zodanig geval geschiedt het toezicht door bij ministeriële regeling aangewezen medewerkers van die Inspectie.
+2. Het bestuurscollege kan de het Staatstoezicht op de Volksgezondheid, bedoeld in [hoofdstuk IV, paragraaf 2, van de Gezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&paragraaf=2) verzoeken de taak, bedoeld in het eerste lid, uit te oefenen. In een zodanig geval geschiedt het toezicht door bij ministeriële regeling aangewezen medewerkers van dat Staatstoezicht.
 
 3. Het toezicht op de naleving van het bepaalde bij of krachtens deze wet met betrekking tot waren, niet zijnde eet- en drinkwaren berust bij, behoudens toepassing is gegeven aan het vierde lid, bij ministeriële regeling aangewezen medewerkers van de Inspectie voor de Volksgezondheid.
 
 4. De aanwijzing van personen belast met het toezicht op de naleving van het bepaalde bij of krachtens deze wet met betrekking tot waren, niet zijnde eet- en drinkwaren, kan op verzoek van het desbetreffende bestuurscollege bij ministeriële regeling aan hem worden overgedragen.
 
-5. De Inspectie voor de Volksgezondheid oefent toezicht uit op het ingevolge het eerste en vierde lid uitgeoefende toezicht.
+5. Het Staatstoezicht op de Volksgezondheid, bedoeld in [hoofdstuk IV, paragraaf 2, van de Gezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&paragraaf=2) oefent toezicht uit op het ingevolge het eerste en vierde lid uitgeoefende toezicht.
 
 6. De bestuurscolleges dienen jaarlijks bij Onze Minister een verslag in van de werkzaamheden verband houdende met het toezicht, bedoeld in het eerste lid, en voor zover van toepassing bedoeld in het vierde lid.
 
 ##### Artikel 19a
 
-Met het oog op de afzet van in de openbare lichamen Bonaire, Sint Eustatius en Saba gefabriceerde eet- en drinkwaren uit het buitenland wordt de Inspectie voor de Volksgezondheid aangewezen als landelijk bevoegde instantie.
+Met het oog op de afzet van in de openbare lichamen Bonaire, Sint Eustatius en Saba gefabriceerde eet- en drinkwaren uit het buitenland wordt het Staatstoezicht op de Volksgezondheid, bedoeld in [hoofdstuk IV, paragraaf 2, van de Gezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&paragraaf=2) aangewezen als landelijk bevoegde instantie.
 
 ##### Artikel 20
 
-1. Bij de uitvoering van hun taak dragen de krachtens [artikel 19, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=7&artikel=19&z=2010-10-10&g=2010-10-10), aangewezen personen een legitimatiebewijs bij zich, die door het desbetreffende bestuurscollege wordt verstrekt. Zij tonen hun legitimatiebewijs desgevraagd aanstonds.
+1. Bij de uitvoering van hun taak dragen de krachtens [artikel 19, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=7&artikel=19&z=2011-09-17&g=2011-09-17), aangewezen personen een legitimatiebewijs bij zich, die door het desbetreffende bestuurscollege wordt verstrekt. Zij tonen hun legitimatiebewijs desgevraagd aanstonds.
 
-2. Het legitimatiebewijs bevat een foto van de krachtens [artikel 19, eerste of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=7&artikel=19&z=2010-10-10&g=2010-10-10), aangewezen persoon en vermeldt in ieder geval diens naam en hoedanigheid.
+2. Het legitimatiebewijs bevat een foto van de krachtens [artikel 19, eerste of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=7&artikel=19&z=2011-09-17&g=2011-09-17), aangewezen persoon en vermeldt in ieder geval diens naam en hoedanigheid.
 
 ##### Artikel 21
 
-1. De krachtens [artikel 19, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=7&artikel=19&z=2010-10-10&g=2010-10-10), aangewezen personen zijn, uitsluitend voor zover dat voor de vervulling van hun taak redelijkerwijs noodzakelijk is, bevoegd:
+1. De krachtens [artikel 19, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=7&artikel=19&z=2011-09-17&g=2011-09-17), aangewezen personen zijn, uitsluitend voor zover dat voor de vervulling van hun taak redelijkerwijs noodzakelijk is, bevoegd:
 
 - a. alle inlichtingen te vragen;
 
@@ -309,15 +309,15 @@ Met het oog op de afzet van in de openbare lichamen Bonaire, Sint Eustatius en S
 
 ##### Artikel 22
 
-1. De krachtens [artikel 19, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=7&artikel=19&z=2010-10-10&g=2010-10-10), aangewezen personen kunnen, in afwachting van de onverwijld door hen in te roepen beslissing van de Inspectie voor de Volksgezondheid en Milieuhygiëne, de vervaardiging of de verhandeling van waren, die niet voldoen aan het bij of krachtens deze wet bepaalde, verbieden.
+1. De krachtens [artikel 19, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=7&artikel=19&z=2011-09-17&g=2011-09-17), aangewezen personen kunnen, in afwachting van de onverwijld door hen in te roepen beslissing van het Staatstoezicht op de Volksgezondheid, bedoeld in [hoofdstuk IV, paragraaf 2, van de Gezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&paragraaf=2), de vervaardiging of de verhandeling van waren, die niet voldoen aan het bij of krachtens deze wet bepaalde, verbieden.
 
-2. De Inspectie voor de Volksgezondheid en Milieuhygiëne kan het verbod, krachtens het eerste lid opgelegd, bekrachtigen, alsmede de vernietiging bevelen van voorlopig in beslag genomen waren.
+2. Het Staatstoezicht op de Volksgezondheid, bedoeld in [hoofdstuk IV, paragraaf 2, van de Gezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&paragraaf=2) kan het verbod, krachtens het eerste lid opgelegd, bekrachtigen, alsmede de vernietiging bevelen van voorlopig in beslag genomen waren.
 
 3. Een beslissing als bedoeld in het tweede lid, wordt schriftelijk aan de belanghebbende meegedeeld.
 
 ##### Artikel 23
 
-1. De krachtens [artikel 19, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=7&artikel=19&z=2010-10-10&g=2010-10-10), aangewezen personen zijn bevoegd tot voorlopige inbeslagneming van:
+1. De krachtens [artikel 19, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=7&artikel=19&z=2011-09-17&g=2011-09-17), aangewezen personen zijn bevoegd tot voorlopige inbeslagneming van:
 
 - a. waren waarvan een monster bij onderzoek ondeugdelijk of schadelijk is bevonden;
 
@@ -329,11 +329,11 @@ Met het oog op de afzet van in de openbare lichamen Bonaire, Sint Eustatius en S
 
 ##### Artikel 24
 
-1. Handelen in strijd met de voorschriften, gesteld bij of krachtens deze wet in de [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=2&artikel=2&z=2010-10-10&g=2010-10-10), [3, eerste, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=2&artikel=3&z=2010-10-10&g=2010-10-10), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=2&artikel=4&z=2010-10-10&g=2010-10-10), [5, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=2&artikel=5&z=2010-10-10&g=2010-10-10), of, overtreding van de in de [artikelen 8 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=4&artikel=8&z=2010-10-10&g=2010-10-10) gestelde verboden, is, voor zover opzettelijk begaan, een misdrijf, en wordt gestraft met hetzij gevangenisstraf van ten hoogste vier jaren, hetzij met een geldboete van ten hoogste de zesde categorie, hetzij met beide straffen.
+1. Handelen in strijd met de voorschriften, gesteld bij of krachtens deze wet in de [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=2&artikel=2&z=2011-09-17&g=2011-09-17), [3, eerste, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=2&artikel=3&z=2011-09-17&g=2011-09-17), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=2&artikel=4&z=2011-09-17&g=2011-09-17), [5, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=2&artikel=5&z=2011-09-17&g=2011-09-17), of, overtreding van de in de [artikelen 8 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=4&artikel=8&z=2011-09-17&g=2011-09-17) gestelde verboden, is, voor zover opzettelijk begaan, een misdrijf, en wordt gestraft met hetzij gevangenisstraf van ten hoogste vier jaren, hetzij met een geldboete van ten hoogste de zesde categorie, hetzij met beide straffen.
 
-2. Handelen in strijd met de voorschriften, gesteld bij of krachtens deze wet in de artikelen e, vierde lid, [3, eerste, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=2&artikel=3&z=2010-10-10&g=2010-10-10), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=2&artikel=4&z=2010-10-10&g=2010-10-10), [5, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=2&artikel=5&z=2010-10-10&g=2010-10-10), of, overtreding van de in de [artikelen 8 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=4&artikel=8&z=2010-10-10&g=2010-10-10) gestelde verboden, is, voor zover niet opzettelijk begaan, een overtreding, en wordt gestraft met hetzij hechtenis van ten hoogste een jaar, hetzij met een geldboete van ten hoogste de vijfde categorie, hetzij met beide straffen.
+2. Handelen in strijd met de voorschriften, gesteld bij of krachtens deze wet in de artikelen e, vierde lid, [3, eerste, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=2&artikel=3&z=2011-09-17&g=2011-09-17), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=2&artikel=4&z=2011-09-17&g=2011-09-17), [5, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=2&artikel=5&z=2011-09-17&g=2011-09-17), of, overtreding van de in de [artikelen 8 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=4&artikel=8&z=2011-09-17&g=2011-09-17) gestelde verboden, is, voor zover niet opzettelijk begaan, een overtreding, en wordt gestraft met hetzij hechtenis van ten hoogste een jaar, hetzij met een geldboete van ten hoogste de vijfde categorie, hetzij met beide straffen.
 
-3. Het niet voldoen aan de vordering, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=7&artikel=21&z=2010-10-10&g=2010-10-10), onderdelen c en e, of de verplichting, bedoeld in de artikelen 21, eerste lid, onderdeel a, en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=9&artikel=25&z=2010-10-10&g=2010-10-10), is een overtreding en wordt gestraft met hechtenis van ten hoogste twee maanden of een geldboete van ten hoogste de tweede categorie.
+3. Het niet voldoen aan de vordering, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=7&artikel=21&z=2011-09-17&g=2011-09-17), onderdelen c en e, of de verplichting, bedoeld in de artikelen 21, eerste lid, onderdeel a, en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=9&artikel=25&z=2011-09-17&g=2011-09-17), is een overtreding en wordt gestraft met hechtenis van ten hoogste twee maanden of een geldboete van ten hoogste de tweede categorie.
 
 #### § 9. Geheimhoudingsplicht
 
@@ -353,60 +353,10 @@ Uitvoeringsbesluiten, vrijstellingen, ontheffingen, vergunningen en toestemminge
 
 ##### Artikel 28
 
-1. Deze wet treedt met uitzondering van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=4&artikel=10&z=2010-10-10&g=2010-10-10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=4&artikel=11&z=2010-10-10&g=2010-10-10), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=4&artikel=12&z=2010-10-10&g=2010-10-10), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=4&artikel=13&z=2010-10-10&g=2010-10-10), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=4&artikel=14&z=2010-10-10&g=2010-10-10), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=4&artikel=15&z=2010-10-10&g=2010-10-10) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=4&artikel=16&z=2010-10-10&g=2010-10-10), voor zover deze artikelen van toepassing zijn op waren, niet zijnde eet- en drinkwaren, in werking met ingang van de dag na die der uitgifte van het Staatsblad, waarin de afkondiging is geschied.
+1. Deze wet treedt met uitzondering van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=4&artikel=10&z=2011-09-17&g=2011-09-17), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=4&artikel=11&z=2011-09-17&g=2011-09-17), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=4&artikel=12&z=2011-09-17&g=2011-09-17), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=4&artikel=13&z=2011-09-17&g=2011-09-17), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=4&artikel=14&z=2011-09-17&g=2011-09-17), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=4&artikel=15&z=2011-09-17&g=2011-09-17) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=4&artikel=16&z=2011-09-17&g=2011-09-17), voor zover deze artikelen van toepassing zijn op waren, niet zijnde eet- en drinkwaren, in werking met ingang van de dag na die der uitgifte van het Staatsblad, waarin de afkondiging is geschied.
 
 2. De artikelen, genoemd in het eerste lid, voor zover deze van toepassing zijn op waren, niet zijnde eet- en drinkwaren, treden in werking op een bij algemene maatregel van bestuur te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden gesteld. Daarbij kan voor elk van de openbare lichamen Bonaire, Sint Eustatius of Saba het tijdstip van inwerkingtreding verschillend worden gesteld.
 
 ##### Artikel 29
 
 Deze wet wordt aangehaald als: Warenwet BES.
-
-##### Artikel 5a
-
-Bij ministeriele regeling kunnen:
-
-- a. bepaalde verpakte artikelen worden aangewezen, waarop de netto-inhoud in metrieke maat of gewicht duidelijk moet zijn aangegeven;
-
-- b. bepaalde goederen worden aangewezen, welke niet anders dan bij maat of gewicht mogen worden verkocht;
-
-- c. voorschriften worden gegeven betreffende de mate waarin verpakkingen, die een bepaalde inhoud naar maat of gewicht doen veronderstellen, tenminste moeten zijn vervuld;
-
-- d. bepaalde goederen worden aangewezen, welke niet anders dan in voor te schrijven maat- of gewichtshoeveelheden mogen worden verkocht.
-
-#### § 3. Adviescommissie
-
-#### § 4. Verbodsbepalingen
-
-##### Artikel 16a
-
-Het is verboden waren per maat of gewicht te verkopen, te koop aan te bieden of op welke wijze ook in de handel te brengen, anders dan bij netto-inhoud of netto-gewicht.
-
-#### § 7. Toezicht
-
-##### Artikel 24a
-
-1. Met hechtenis van ten hoogste een week of een geldboete van ten hoogste USD 500 wordt gestraft hij, die ten behoeve van handel of bedrijf, maat of gewicht der goederen heeft vastgesteld of op zijn last heeft doen vaststellen, indien de netto-hoeveelheid meer dan het dubbele van de afwijking, die voor het gebruikte meetinstrument bij herijk is toegestaan, in zijn voordeel of het voordeel van de lastgever afwijkt van de ware netto-hoeveelheid.
-
-2. Het in het eerste lid strafbaar gestelde feit wordt beschouwd als overtreding.
-
-#### § 9. Geheimhoudingsplicht
-
-#### § 10. Overgangs- en slotbepalingen
-
-##### Artikel 2a
-
-Deze wet is niet van toepassing voor zover bij of krachtens de [Wet elektriciteit en drinkwater BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037861) regels zijn gesteld ten aanzien van de productie of distributie van drinkwater of nooddrinkwater in krachtens [artikel 1.3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&artikel=1.3) aangewezen verpakkingen.
-
-#### § 4. Verbodsbepalingen
-
-#### § 5. Bestuursmaatregelen
-
-#### § 6. Beroep
-
-#### § 7. Toezicht
-
-#### § 8. Strafbepalingen en maatregelen
-
-#### § 9. Geheimhoudingsplicht
-
-#### § 10. Overgangs- en slotbepalingen
