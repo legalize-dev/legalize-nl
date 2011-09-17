@@ -4,7 +4,7 @@ identifier: "BWBR0028734"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2018-08-01"
-last_updated: "2010-10-10"
+last_updated: "2011-09-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028734"
 soort: "wet-BES"
@@ -47,7 +47,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. **gedraging:** enig handelen of nalaten alsmede het nemen van een besluit dat gevolgen heeft voor een patiënt;
 
-- d. **Inspectie:** de Inspectie voor de Volksgezondheid, bedoeld in [artikel 2, eerste lid, van de Wet inspectie voor de Volksgezondheid BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&artikel=2);
+- d. **Inspectie:** het Staatstoezicht op de Volksgezondheid, bedoeld in [hoofdstuk IV, paragraaf 2, van de Gezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&paragraaf=2);
 
 - e. **medisch apparaat:** een apparaat bestemd voor diagnostiek of therapie en alle daarmee verbonden toestellen, dat wordt gebruikt of bestemd is te worden gebruikt in een zorginstelling;
 
@@ -71,7 +71,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2
 
-In geval sprake is van een zorgaanbieder als bedoeld in [artikel 1, onderdeel j, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=1&artikel=1&z=2010-10-10&g=2010-10-10), richten de uit deze wet voortvloeiende verplichtingen zich tot ieder van de in dat onderdeel bedoelde personen.
+In geval sprake is van een zorgaanbieder als bedoeld in [artikel 1, onderdeel j, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=1&artikel=1&z=2011-09-17&g=2011-09-17), richten de uit deze wet voortvloeiende verplichtingen zich tot ieder van de in dat onderdeel bedoelde personen.
 
 ### Hoofdstuk 2. Vergunningstelsel
 
@@ -103,7 +103,7 @@ Onverminderd uit hoofde van andere wet- of regelgeving vereiste vergunningen, is
 
 ##### Artikel 4
 
-1. Alvorens over te gaan tot het nemen van een beslissing ten aanzien van het verzoek, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=2&artikel=3&z=2010-10-10&g=2010-10-10), wint het bestuurscollege het advies in van de dienst van het openbaar lichaam belast met de openbare gezondheidszorg alsmede van de eilandelijke Raad voor de Volksgezondheid. Indien geen eilandelijke raad aanwezig is dan wint het bestuurscollege in plaats daarvan het advies in van de Raad voor de Volksgezondheid. Indien het bestuurscollege van het advies van de geraadpleegde dienst van het openbaar lichaam belast met de openbare gezondheidszorg afwijkt, bericht het deze schriftelijk met redenen omkleed.
+1. Alvorens over te gaan tot het nemen van een beslissing ten aanzien van het verzoek, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=2&artikel=3&z=2011-09-17&g=2011-09-17), wint het bestuurscollege het advies in van de dienst van het openbaar lichaam belast met de openbare gezondheidszorg alsmede van de eilandelijke Raad voor de Volksgezondheid. Indien geen eilandelijke raad aanwezig is dan wint het bestuurscollege in plaats daarvan het advies in van de Raad voor de Volksgezondheid. Indien het bestuurscollege van het advies van de geraadpleegde dienst van het openbaar lichaam belast met de openbare gezondheidszorg afwijkt, bericht het deze schriftelijk met redenen omkleed.
 
 2. De dienst van het openbaar lichaam belast met de openbare gezondheidszorg en de eilandelijke Raad voor de Volksgezondheid, voor zover ingesteld, dan wel in voorkomend geval de Raad voor de Volkgezondheid, onderzoekt het verzoek en brengt daarover binnen acht weken na de datum van ontvangst een schriftelijk, met redenen omkleed, advies uit aan het bestuurscollege. Ingeval een verzoek betrekking heeft op een medisch apparaat bedraagt de in de eerste volzin genoemde termijn vier weken.
 
@@ -111,19 +111,19 @@ Onverminderd uit hoofde van andere wet- of regelgeving vereiste vergunningen, is
 
 4. Het bestuurcollege beslist binnen vier weken na ontvangst van het advies. Indien voorzienbaar is dat de beslissing niet binnen genoemde periode kan worden genomen, kan deze periode eenmaal met een gelijke periode worden verlengd. De aanvrager wordt van een zodanig uitstel in kennis gesteld.
 
-5. Het bestuurscollege verleent de gevraagde vergunning slechts voor zover dit past binnen de richtlijnen, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=2&artikel=7&z=2010-10-10&g=2010-10-10).
+5. Het bestuurscollege verleent de gevraagde vergunning slechts voor zover dit past binnen de richtlijnen, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=2&artikel=7&z=2011-09-17&g=2011-09-17).
 
 ##### Artikel 5
 
-1. Het bestuurscollege mag slechts afwijken van de richtlijnen, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=2&artikel=7&z=2010-10-10&g=2010-10-10), indien hiervoor blijkens het advies van de dienst van het openbaar lichaam belast met de openbare gezondheidszorg of de eilandelijke Raad voor de Volksgezondheid, voor zover ingesteld, dan wel in voorkomend geval de Raad voor de Volksgezondheid, zwaarwegende redenen aanwezig zijn.
+1. Het bestuurscollege mag slechts afwijken van de richtlijnen, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=2&artikel=7&z=2011-09-17&g=2011-09-17), indien hiervoor blijkens het advies van de dienst van het openbaar lichaam belast met de openbare gezondheidszorg of de eilandelijke Raad voor de Volksgezondheid, voor zover ingesteld, dan wel in voorkomend geval de Raad voor de Volksgezondheid, zwaarwegende redenen aanwezig zijn.
 
-2. De krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=2&artikel=3&z=2010-10-10&g=2010-10-10), verleende vergunningen kunnen, de dienst van het openbaar lichaam belast met de openbare gezondheidszorg, de eilandelijke Raad voor de Volksgezondheid, voor zover ingesteld, dan wel in voorkomend geval de Raad voor de Volksgezondheid, gehoord, slechts gemotiveerd worden gewijzigd of ingetrokken indien daarvoor zwaarwegende redenen aanwezig zijn en nadat de aanvrager is gehoord. [Artikel 4, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=2&artikel=4&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing.
+2. De krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=2&artikel=3&z=2011-09-17&g=2011-09-17), verleende vergunningen kunnen, de dienst van het openbaar lichaam belast met de openbare gezondheidszorg, de eilandelijke Raad voor de Volksgezondheid, voor zover ingesteld, dan wel in voorkomend geval de Raad voor de Volksgezondheid, gehoord, slechts gemotiveerd worden gewijzigd of ingetrokken indien daarvoor zwaarwegende redenen aanwezig zijn en nadat de aanvrager is gehoord. [Artikel 4, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=2&artikel=4&z=2011-09-17&g=2011-09-17), is van overeenkomstige toepassing.
 
 ##### Artikel 6
 
-Het bestuurscollege draagt zorg dat zo spoedig mogelijk doch in ieder geval binnen vier weken na de vaststelling van de krachtens de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=2&artikel=3&z=2010-10-10&g=2010-10-10), en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=2&artikel=5&z=2010-10-10&g=2010-10-10), vastgestelde beschikkingen:
+Het bestuurscollege draagt zorg dat zo spoedig mogelijk doch in ieder geval binnen vier weken na de vaststelling van de krachtens de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=2&artikel=3&z=2011-09-17&g=2011-09-17), en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=2&artikel=5&z=2011-09-17&g=2011-09-17), vastgestelde beschikkingen:
 
-- a. deze in afschrift worden gezonden aan de Inspectie en aan de instanties, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=2&artikel=4&z=2010-10-10&g=2010-10-10), die advies hebben uitgebracht;
+- a. deze in afschrift worden gezonden aan de Inspectie en aan de instanties, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=2&artikel=4&z=2011-09-17&g=2011-09-17), die advies hebben uitgebracht;
 
 - b. deze worden bekendgemaakt in de Staatscourant.
 
@@ -151,7 +151,7 @@ Bij ministeriële regeling worden, gehoord de desbetreffende eilandelijke raad v
 
 ##### Artikel 10
 
-1. Onder de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=3&paragraaf=1&artikel=9&z=2010-10-10&g=2010-10-10), bedoelde organisatie wordt mede begrepen de systematische bewaking, beheersing en verbetering van de kwaliteit van de zorg.
+1. Onder de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=3&paragraaf=1&artikel=9&z=2011-09-17&g=2011-09-17), bedoelde organisatie wordt mede begrepen de systematische bewaking, beheersing en verbetering van de kwaliteit van de zorg.
 
 2. Daartoe draagt de zorgaanbieder, mede afgestemd op de aard en de omvang van de zorginstelling, zorg voor:
 
@@ -181,13 +181,13 @@ Een zorginstelling richt de administratie, waaronder in ieder geval de medische-
 
 - c. welk gevolg is gegeven aan klachten en meldingen over de kwaliteit van de verleende zorg.
 
-Afschrift van het verslag wordt gezonden aan Onze Minister, het desbetreffende bestuurscollege en de Inspectie voor de Volksgezondheid.
+Afschrift van het verslag wordt gezonden aan Onze Minister, het desbetreffende bestuurscollege en het Staatstoezicht op de Volksgezondheid, bedoeld in [hoofdstuk IV, paragraaf 2, van de Gezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&paragraaf=2).
 
 ##### Artikel 13
 
-1. Indien het niveau van de zorg, verleend in bij algemene maatregel van bestuur aangewezen zorginstellingen, dit vereist, kunnen bij dat algemene maatregel van bestuur regels worden gesteld met betrekking tot de uitvoering van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=3&paragraaf=1&artikel=9&z=2010-10-10&g=2010-10-10) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=3&paragraaf=1&artikel=10&z=2010-10-10&g=2010-10-10).
+1. Indien het niveau van de zorg, verleend in bij algemene maatregel van bestuur aangewezen zorginstellingen, dit vereist, kunnen bij dat algemene maatregel van bestuur regels worden gesteld met betrekking tot de uitvoering van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=3&paragraaf=1&artikel=9&z=2011-09-17&g=2011-09-17) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=3&paragraaf=1&artikel=10&z=2011-09-17&g=2011-09-17).
 
-2. Indien de uitvoering van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=3&paragraaf=1&artikel=9&z=2010-10-10&g=2010-10-10) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=3&paragraaf=1&artikel=10&z=2010-10-10&g=2010-10-10) overeenkomstig de op grond van het eerste lid gestelde regels niet blijkt te leiden tot verantwoorde zorg, kunnen bij algemene maatregel van bestuur tevens nadere regels worden gesteld met betrekking tot [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=3&paragraaf=1&artikel=8&z=2010-10-10&g=2010-10-10).
+2. Indien de uitvoering van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=3&paragraaf=1&artikel=9&z=2011-09-17&g=2011-09-17) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=3&paragraaf=1&artikel=10&z=2011-09-17&g=2011-09-17) overeenkomstig de op grond van het eerste lid gestelde regels niet blijkt te leiden tot verantwoorde zorg, kunnen bij algemene maatregel van bestuur tevens nadere regels worden gesteld met betrekking tot [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=3&paragraaf=1&artikel=8&z=2011-09-17&g=2011-09-17).
 
 #### § 2. Klachtenregeling
 
@@ -311,23 +311,23 @@ Een laboratorium wordt slechts toegelaten tot het verlenen van zorgondersteunend
 
 ##### Artikel 23
 
-Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de medewerkers van de Inspectie, bedoeld in [artikel 11, eerste lid, van de Wet inspectie voor de Volksgezondheid BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&artikel=11).
+Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de medewerkers van de Inspectie.
 
 ##### Artikel 24
 
-Met het opsporen van de bij deze wet strafbaar gestelde feiten zijn, naast de bij [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184) aangewezen personen, belast de medewerkers van de Inspectie, bedoeld in [artikel 39, eerste lid, van de Wet inspectie voor de Volksgezondheid BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&artikel=39).
+Met het opsporen van de bij deze wet strafbaar gestelde feiten zijn, naast de bij [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184) aangewezen personen, belast de bij ministeriële regeling aangewezen medewerkers van de Inspectie.
 
 ### Hoofdstuk 5. Strafbepalingen
 
 ##### Artikel 25
 
-1. Degene, die opzettelijk het bepaalde in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=2&artikel=3&z=2010-10-10&g=2010-10-10), dan wel de krachtens artikel 3, tweede lid, gestelde voorschriften of beperkingen overtreedt, wordt gestraft, hetzij met gevangenisstraf van ten hoogste twee jaren, hetzij met een geldboete van de vijfde categorie, hetzij met beide straffen.
+1. Degene, die opzettelijk het bepaalde in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=2&artikel=3&z=2011-09-17&g=2011-09-17), dan wel de krachtens artikel 3, tweede lid, gestelde voorschriften of beperkingen overtreedt, wordt gestraft, hetzij met gevangenisstraf van ten hoogste twee jaren, hetzij met een geldboete van de vijfde categorie, hetzij met beide straffen.
 
-2. Degene aan wiens schuld overtreding van het bepaalde in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=2&artikel=3&z=2010-10-10&g=2010-10-10), dan wel de krachtens artikel 3, tweede lid, gestelde voorschriften of beperkingen te wijten is, wordt gestraft, hetzij met hechtenis van ten hoogste een jaar, hetzij met een geldboete van ten hoogste de vijfde categorie, hetzij met beide straffen.
+2. Degene aan wiens schuld overtreding van het bepaalde in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=2&artikel=3&z=2011-09-17&g=2011-09-17), dan wel de krachtens artikel 3, tweede lid, gestelde voorschriften of beperkingen te wijten is, wordt gestraft, hetzij met hechtenis van ten hoogste een jaar, hetzij met een geldboete van ten hoogste de vijfde categorie, hetzij met beide straffen.
 
-3. Degene, die opzettelijk de verplichting tot geheimhouding, opgenomen in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=6&artikel=26&z=2010-10-10&g=2010-10-10), schendt, wordt gestraft hetzij met gevangenisstraf van ten hoogste een jaar, hetzij met een geldboete van ten hoogste de vierde categorie, hetzij met beide straffen.
+3. Degene, die opzettelijk de verplichting tot geheimhouding, opgenomen in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=6&artikel=26&z=2011-09-17&g=2011-09-17), schendt, wordt gestraft hetzij met gevangenisstraf van ten hoogste een jaar, hetzij met een geldboete van ten hoogste de vierde categorie, hetzij met beide straffen.
 
-4. Degene aan wiens schuld schending van de verplichting tot geheim-houding, opgenomen in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=6&artikel=26&z=2010-10-10&g=2010-10-10), is te wijten wordt gestraft hetzij met gevangenisstraf van ten hoogste zes maanden hetzij met een geldboete van ten hoogste de vierde categorie, hetzij met beide straffen.
+4. Degene aan wiens schuld schending van de verplichting tot geheim-houding, opgenomen in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=6&artikel=26&z=2011-09-17&g=2011-09-17), is te wijten wordt gestraft hetzij met gevangenisstraf van ten hoogste zes maanden hetzij met een geldboete van ten hoogste de vierde categorie, hetzij met beide straffen.
 
 5. De in het eerste en derde lid strafbaar gestelde feiten worden beschouwd als misdrijf, de in het tweede en vierde lid strafbaar gestelde feiten als overtreding.
 
@@ -351,7 +351,7 @@ Bij algemene maatregel van bestuur kan, met betrekking tot daarbij aan te wijzen
 
 ##### Artikel 29
 
-[Artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=2&artikel=3&z=2010-10-10&g=2010-10-10), vindt geen toepassing ten aanzien van zorginstellingen en medische apparaten die op het tijdstip van inwerkingtreding van deze wet reeds aanwezig en in gebruik zijn, behoudens latere wijzigingen of aanschaffingen.
+[Artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=2&artikel=3&z=2011-09-17&g=2011-09-17), vindt geen toepassing ten aanzien van zorginstellingen en medische apparaten die op het tijdstip van inwerkingtreding van deze wet reeds aanwezig en in gebruik zijn, behoudens latere wijzigingen of aanschaffingen.
 
 ##### Artikel 30
 
