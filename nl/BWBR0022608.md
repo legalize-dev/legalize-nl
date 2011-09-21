@@ -4,7 +4,7 @@ identifier: "BWBR0022608"
 country: "nl"
 rank: "zbo"
 publication_date: "2011-09-21"
-last_updated: "2008-09-27"
+last_updated: "2011-09-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022608"
 soort: "zbo"
@@ -52,11 +52,12 @@ Deze regeling verstaat onder:
 | c. aard van het inkomenklasse: | Een klasse gebaseerd op de aard van het inkomen en de leeftijd van een verzekerde, overeenkomstig [tabel B4.4 van Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=4), [tabel B5.4 van Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=5), [tabel 6.4 van Bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=6) en [tabel 7.2 van Bijlage 7 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=7); |
 | d. regioklasse: | Een klasse gebaseerd op de postcode van het adres waar een verzekerde woonachtig is overeenkomstig [tabel B4.5 van Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=4), [tabel 6.5 van Bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=6) en [tabel 7.3 van Bijlage 7 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=7), waarin de indeling regioklasse voor de deelbedragen variabele kosten van ziekenhuisverpleging en specialistische hulp en overige prestaties is weergegeven; |
 | e. GGZ-regioklasse: | Een klasse gebaseerd op de postcode van het adres waar een verzekerde woonachtig is overeenkomstig [tabel B5.2 van Bijlage 5 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=5), waarin de indeling regioklasse voor het deelbedrag geneeskundige geestelijke gezondheidszorg is weergegeven; |
-| e. morbiditeitsrisicoklasse: | Een vijftienjaarsklasse per geslacht, gebaseerd op morbiditeitsrisico, te rekenen vanaf nul tot en met vierenzeventig jaar en vijfenzeventig jaar en ouder; |
-| f. zwaarte: | Het deel waarvoor de verzekerde meetelt in het totaal van een betreffende klasse; |
-| g. sociaal economische statusklasse: | Een klasse gebaseerd op het inkomen per adres, waarbij onderscheid wordt gemaakt in 3 leeftijdscategorieën; |
-| h. eenpersoonsadres: | Een klasse gebaseerd op het onderscheid tussen één bewoner per adres of meerdere bewoners per adres voor zover het adres in Nederland is. |
-| i. macro verzekerden-raming: | Een raming van het aantal verzekerden op macroniveau op basis van de opgave van de zorgverzekeraars en trends van het CBS naar aantal inwoners in Nederland. |
+| f. morbiditeitsrisicoklasse: | Een vijftienjaarsklasse per geslacht, gebaseerd op morbiditeitsrisico, te rekenen vanaf nul tot en met vierenzeventig jaar en vijfenzeventig jaar en ouder; |
+| g. zwaarte: | Het deel waarvoor de verzekerde meetelt in het totaal van een betreffende klasse; |
+| h. sociaal economische statusklasse: | Een klasse gebaseerd op het inkomen per adres, waarbij onderscheid wordt gemaakt in 3 leeftijdscategorieën; |
+| i. eenpersoonsadres: | Een klasse gebaseerd op het onderscheid tussen één bewoner per adres of meerdere bewoners per adres voor zover het adres in Nederland is. |
+| j. macro verzekerden-raming: | Een raming van het aantal verzekerden op macroniveau op basis van de opgave van de zorgverzekeraars en trends van het CBS naar aantal inwoners in Nederland; |
+| k. BSN: | burgerservicenummer. |
 
 ##### Artikel 2. Zorgverzekeraars
 
@@ -90,7 +91,7 @@ Voor de indeling in de aard van het inkomenklasse deelt het college een verzeker
 
 - c. middelen die in de G-standaard van Z-Index zijn aangemerkt als grond- en hulpstoffen.
 
-3. Wanneer er sprake is van samenloop voor FKG’s wijst het college alle toepasselijke FKG’s toe. Hierop wordt de samenloop bij FKG’s Diabetes I, Diabetes IIa, Diabetes IIb, Cholesterol en Hypertensie uitgezonderd. In dat geval stelt het college aan de hand van de tabel in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=2&z=2008-09-27&g=2008-09-27) bij deze regeling vast welke FKG’s het college aan een verzekerde toewijst.
+3. Wanneer er sprake is van samenloop voor FKG’s wijst het college alle toepasselijke FKG’s toe. Hierop wordt de samenloop bij FKG’s Diabetes I, Diabetes IIa, Diabetes IIb, Cholesterol en Hypertensie uitgezonderd. In dat geval stelt het college aan de hand van de tabel in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=2&z=2011-09-21&g=2011-09-21) bij deze regeling vast welke FKG’s het college aan een verzekerde toewijst.
 
 4. Bij de bepaling van de DKG’s baseert het college de indeling in DKG’s 2007 op bijlage 9, bij de brief van de minister van Volksgezondheid, Welzijn en Sport van 27 september 2007 (kenmerk Z/F-2800819).
 
@@ -122,7 +123,7 @@ Het college past de regels die in het [Besluit zorgverzekering](https://wetten.o
 
 - b. Het college bepaalt door een koppeling op basis van het gepseudonimiseerde burgerservicenummer tussen de opgave onder a en het persoonskenmerkenbestand 2007 per verzekerde in welke FKG klasse de verzekerde valt. De verzekerde krijgt een zwaarte van 1 voor de betreffende klasse.
 
-- c. Vervolgens past het college per verzekerde per FKG 2008 een ophoogfactor toe voor de geraamde prevalentieontwikkeling, die gelijk wordt gesteld aan de prevalentieontwikkeling 2005–2006, zoals weergegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=1&z=2008-09-27&g=2008-09-27) van deze beleidsregels. Indien de ophoogfactor 1,x bedraagt krijgt de verzekerde een zwaarte van 1,x voor de betreffende klasse.
+- c. Vervolgens past het college per verzekerde per FKG 2008 een ophoogfactor toe voor de geraamde prevalentieontwikkeling, die gelijk wordt gesteld aan de prevalentieontwikkeling 2005–2006, zoals weergegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=1&z=2011-09-21&g=2011-09-21) van deze beleidsregels. Indien de ophoogfactor 1,x bedraagt krijgt de verzekerde een zwaarte van 1,x voor de betreffende klasse.
 
 7. Het college bepaalt per verzekerde de zwaarte per DKG 2008 verder als volgt:
 
@@ -142,7 +143,7 @@ Het college past de regels die in het [Besluit zorgverzekering](https://wetten.o
 
 11. Het college bepaalt per zorgverzekeraar het aantal verzekerden voor de normatieve eigen risico opbrengst als volgt:
 
-- a. Het college bepaalt per zorgverzekeraar op basis van het persoonskenmerkenbestand 2007, [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=I&artikel=2&z=2008-09-27&g=2008-09-27) en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=I&artikel=5&z=2008-09-27&g=2008-09-27) het aantal verzekerden van 18 jaar en ouder 2008 met een FKG 1t/m 20 2008;
+- a. Het college bepaalt per zorgverzekeraar op basis van het persoonskenmerkenbestand 2007, [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=I&artikel=2&z=2011-09-21&g=2011-09-21) en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=I&artikel=5&z=2011-09-21&g=2011-09-21) het aantal verzekerden van 18 jaar en ouder 2008 met een FKG 1t/m 20 2008;
 
 - b. Het college bepaalt het aantal verzekerden per zorgverzekeraar van 18 jaar en ouder zonder een FKG 1 t/m 20. Per verzekerde bepaalt het college op basis van het zesde en het negende lid welke zwaarte deze verzekerde heeft voor de risicoklasse naar leeftijd en geslacht, aard van inkomenklasse en regioklasse;
 
@@ -154,17 +155,17 @@ Voor de verdeling van het macro-deelbedrag variabele kosten van ziekenhuisverple
 
 - 1.
 
-- a. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per risicoklasse 2008 naar leeftijd en geslacht, genoemd in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=3&z=2008-09-27&g=2008-09-27) van deze beleidsregels;
+- a. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per risicoklasse 2008 naar leeftijd en geslacht, genoemd in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=3&z=2011-09-21&g=2011-09-21) van deze beleidsregels;
 
-- b. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per FKG 0 t/m 20 2008, genoemd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=4&z=2008-09-27&g=2008-09-27) van deze beleidsregels;
+- b. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per FKG 0 t/m 20 2008, genoemd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=4&z=2011-09-21&g=2011-09-21) van deze beleidsregels;
 
-- c. de gewichten variabele kosten van ziekenhuisverpleging en kosten van d. specialistische hulp per verzekerde per DKG 0 t/m 13 2008, genoemd in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=5&z=2008-09-27&g=2008-09-27) van deze beleidsregels;
+- c. de gewichten variabele kosten van ziekenhuisverpleging en kosten van d. specialistische hulp per verzekerde per DKG 0 t/m 13 2008, genoemd in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=5&z=2011-09-21&g=2011-09-21) van deze beleidsregels;
 
-- d. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per aard van het inkomenklasse 2008, genoemd in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=6&z=2008-09-27&g=2008-09-27) van deze beleidsregels;
+- d. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per aard van het inkomenklasse 2008, genoemd in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=6&z=2011-09-21&g=2011-09-21) van deze beleidsregels;
 
-- e. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per regioklasse 2008, genoemd in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=7&z=2008-09-27&g=2008-09-27) van deze beleidsregels;
+- e. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per regioklasse 2008, genoemd in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=7&z=2011-09-21&g=2011-09-21) van deze beleidsregels;
 
-- f. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per sociaal economische statusklasse 2008, genoemd in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=8&z=2008-09-27&g=2008-09-27) van deze beleidsregels.
+- f. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per sociaal economische statusklasse 2008, genoemd in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=8&z=2011-09-21&g=2011-09-21) van deze beleidsregels.
 
 - 2. Het college vermenigvuldigt de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per risicoklasse 2008 per overeenkomstige risicoklasse met het per zorgverzekeraar geraamde aantal verzekerden per risicoklasse 2008. De uitkomsten worden per zorgverzekeraar gesommeerd.
 
@@ -202,17 +203,17 @@ Voor de verdeling van het macro-deelbedrag variabele kosten van ziekenhuisverple
 
 1. Voor de verdeling van het macro-deelbedrag geneeskundige geestelijke gezondheidszorg hanteert het college als uitgangspunten:
 
-- a. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per risicoklasse 2008 naar leeftijd en geslacht, genoemd in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=9&z=2008-09-27&g=2008-09-27) van deze beleidsregels;
+- a. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per risicoklasse 2008 naar leeftijd en geslacht, genoemd in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=9&z=2011-09-21&g=2011-09-21) van deze beleidsregels;
 
-- b. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde naar FKG’s psychische aandoeningen 2008, genoemd in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=10&z=2008-09-27&g=2008-09-27) van deze beleidsregels;
+- b. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde naar FKG’s psychische aandoeningen 2008, genoemd in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=10&z=2011-09-21&g=2011-09-21) van deze beleidsregels;
 
-- c. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per aard van het inkomenklasse 2008, genoemd in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=11&z=2008-09-27&g=2008-09-27) van deze beleidsregels;
+- c. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per aard van het inkomenklasse 2008, genoemd in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=11&z=2011-09-21&g=2011-09-21) van deze beleidsregels;
 
-- d. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per GGZ-regioklasse 2008, genoemd in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=12&z=2008-09-27&g=2008-09-27) van deze beleidsregels;
+- d. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per GGZ-regioklasse 2008, genoemd in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=12&z=2011-09-21&g=2011-09-21) van deze beleidsregels;
 
-- e. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per sociaal economische statusklasse 2008, genoemd in [bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=13&z=2008-09-27&g=2008-09-27) van deze beleidsregels;
+- e. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per sociaal economische statusklasse 2008, genoemd in [bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=13&z=2011-09-21&g=2011-09-21) van deze beleidsregels;
 
-- f. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per eenpersoonsadres 2008, genoemd in [bijlage 14](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=14&z=2008-09-27&g=2008-09-27) van deze beleidsregels.
+- f. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per eenpersoonsadres 2008, genoemd in [bijlage 14](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=14&z=2011-09-21&g=2011-09-21) van deze beleidsregels.
 
 2. De gewichten geneeskundige geestelijke gezondheidszorg per verzekerde per risicoklasse 2008 naar leeftijd en geslacht worden per overeenkomstige risicoklasse vermenigvuldigd met het per zorgverzekeraar geraamde aantal verzekerden per risicoklasse 2008. De uitkomsten worden per zorgverzekeraar gesommeerd.
 
@@ -232,17 +233,17 @@ Voor de verdeling van het macro-deelbedrag variabele kosten van ziekenhuisverple
 
 1. Voor de verdeling van het macro-deelbedrag kosten van overige prestaties hanteert het college als uitgangspunten:
 
-- a. De gewichten kosten van overige prestaties per verzekerde per risicoklasse 2008 naar leeftijd en geslacht, genoemd in [bijlage 15](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=15&z=2008-09-27&g=2008-09-27) van deze beleidsregels;
+- a. De gewichten kosten van overige prestaties per verzekerde per risicoklasse 2008 naar leeftijd en geslacht, genoemd in [bijlage 15](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=15&z=2011-09-21&g=2011-09-21) van deze beleidsregels;
 
-- b. De gewichten kosten van overige prestaties per verzekerde per FKG 2008, genoemd in [bijlage 16](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=16&z=2008-09-27&g=2008-09-27) van deze beleidsregels;
+- b. De gewichten kosten van overige prestaties per verzekerde per FKG 2008, genoemd in [bijlage 16](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=16&z=2011-09-21&g=2011-09-21) van deze beleidsregels;
 
-- c. De gewichten kosten van overige prestaties per verzekerde per DKG 2008, genoemd in [bijlage 17](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=17&z=2008-09-27&g=2008-09-27) van deze beleidsregels;
+- c. De gewichten kosten van overige prestaties per verzekerde per DKG 2008, genoemd in [bijlage 17](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=17&z=2011-09-21&g=2011-09-21) van deze beleidsregels;
 
-- d. De gewichten kosten van overige prestaties per verzekerde per aard van het inkomenklasse 2008, genoemd in [bijlage 18](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=18&z=2008-09-27&g=2008-09-27) van deze beleidsregels;
+- d. De gewichten kosten van overige prestaties per verzekerde per aard van het inkomenklasse 2008, genoemd in [bijlage 18](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=18&z=2011-09-21&g=2011-09-21) van deze beleidsregels;
 
-- e. De gewichten kosten van overige prestaties per verzekerde per regioklasse 2008, genoemd in [bijlage 19](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=19&z=2008-09-27&g=2008-09-27) van deze beleidsregels.
+- e. De gewichten kosten van overige prestaties per verzekerde per regioklasse 2008, genoemd in [bijlage 19](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=19&z=2011-09-21&g=2011-09-21) van deze beleidsregels.
 
-- f. De gewichten kosten van overige prestaties per verzekerde per sociaal economische statusklasse 2008, genoemd in [bijlage 20](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=20&z=2008-09-27&g=2008-09-27) van deze beleidsregels.
+- f. De gewichten kosten van overige prestaties per verzekerde per sociaal economische statusklasse 2008, genoemd in [bijlage 20](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=20&z=2011-09-21&g=2011-09-21) van deze beleidsregels.
 
 2. De gewichten kosten van de totale overige prestaties per verzekerde per risicoklasse 2008 worden per overeenkomstige risicoklasse naar leeftijd en geslacht vermenigvuldigd met het per zorgverzekeraar geraamde aantal verzekerden per risicoklasse 2008. De uitkomsten worden per zorgverzekeraar gesommeerd.
 
@@ -264,19 +265,19 @@ Voor de verdeling van het macro-deelbedrag variabele kosten van ziekenhuisverple
 
 1. Voor de raming van de normatieve eigen risico opbrengst voor verzekerden zonder een FKG 1t/m20 hanteert het college als uitgangspunten:
 
-- a. de gewichten eigen risico opbrengst per verzekerde per risicoklasse naar leeftijd en geslacht 2008, genoemd in [bijlage 21](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=21&z=2008-09-27&g=2008-09-27) van deze beleidsregels;
+- a. de gewichten eigen risico opbrengst per verzekerde per risicoklasse naar leeftijd en geslacht 2008, genoemd in [bijlage 21](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=21&z=2011-09-21&g=2011-09-21) van deze beleidsregels;
 
-- b. de gewichten eigen risico opbrengst per verzekerde per aard van het inkomenklasse 2008, genoemd in [bijlage 22](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=22&z=2008-09-27&g=2008-09-27) van deze beleidsregels;
+- b. de gewichten eigen risico opbrengst per verzekerde per aard van het inkomenklasse 2008, genoemd in [bijlage 22](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=22&z=2011-09-21&g=2011-09-21) van deze beleidsregels;
 
-- c. de gewichten eigen risico opbrengst per verzekerde per regioklasse 2008, genoemd in [bijlage 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=23&z=2008-09-27&g=2008-09-27) van deze beleidsregels;
+- c. de gewichten eigen risico opbrengst per verzekerde per regioklasse 2008, genoemd in [bijlage 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=23&z=2011-09-21&g=2011-09-21) van deze beleidsregels;
 
-2. De gewichten eigen risico opbrengst per verzekerde per risicoklasse 2008 naar leeftijd en geslacht worden per overeenkomstige risicoklasse vermenigvuldigd met het per zorgverzekeraar geraamde aantal verzekerden van 18 jaar en ouder zonder een FKG 1t/m20, zoals bepaald in [artikel 7, elfde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=7&z=2008-09-27&g=2008-09-27). De uitkomsten worden per risicoklasse 2008 per zorgverzekeraar gesommeerd.
+2. De gewichten eigen risico opbrengst per verzekerde per risicoklasse 2008 naar leeftijd en geslacht worden per overeenkomstige risicoklasse vermenigvuldigd met het per zorgverzekeraar geraamde aantal verzekerden van 18 jaar en ouder zonder een FKG 1t/m20, zoals bepaald in [artikel 7, elfde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=7&z=2011-09-21&g=2011-09-21). De uitkomsten worden per risicoklasse 2008 per zorgverzekeraar gesommeerd.
 
-3. De gewichten eigen risico opbrengst per verzekerde per aard van het inkomenklasse 2008 worden per overeenkomstige aard van het inkomenklasse vermenigvuldigd met het per zorgverzekeraar geraamde aantal verzekerden van 18 jaar en ouder per aard van het inkomenklasse 2008, zoals bepaald in [artikel 7, elfde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=7&z=2008-09-27&g=2008-09-27). De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het tweede lid.
+3. De gewichten eigen risico opbrengst per verzekerde per aard van het inkomenklasse 2008 worden per overeenkomstige aard van het inkomenklasse vermenigvuldigd met het per zorgverzekeraar geraamde aantal verzekerden van 18 jaar en ouder per aard van het inkomenklasse 2008, zoals bepaald in [artikel 7, elfde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=7&z=2011-09-21&g=2011-09-21). De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het tweede lid.
 
-4. De gewichten eigen risico opbrengst per verzekerde per regioklasse 2008 worden per overeenkomstige regioklasse vermenigvuldigd met het per zorgverzekeraar geraamde aantal verzekerden van 18 jaar en ouder per regioklasse 2008, zoals bepaald in [artikel 7, elfde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=7&z=2008-09-27&g=2008-09-27). De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het derde lid.
+4. De gewichten eigen risico opbrengst per verzekerde per regioklasse 2008 worden per overeenkomstige regioklasse vermenigvuldigd met het per zorgverzekeraar geraamde aantal verzekerden van 18 jaar en ouder per regioklasse 2008, zoals bepaald in [artikel 7, elfde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=7&z=2011-09-21&g=2011-09-21). De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het derde lid.
 
-5. Per zorgverzekeraar vermenigvuldigt het college het aantal verzekerden van 18 jaar en ouder met een FKG 1t/m20, zoals bepaald in [artikel 7, elfde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=7&z=2008-09-27&g=2008-09-27), met een bedrag van 150 euro per verzekerde. Dit is de geraamde normatieve eigen risico opbrengst 2008 voor verzekerden met een FKG 1t/m20.
+5. Per zorgverzekeraar vermenigvuldigt het college het aantal verzekerden van 18 jaar en ouder met een FKG 1t/m20, zoals bepaald in [artikel 7, elfde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=7&z=2011-09-21&g=2011-09-21), met een bedrag van 150 euro per verzekerde. Dit is de geraamde normatieve eigen risico opbrengst 2008 voor verzekerden met een FKG 1t/m20.
 
 6. De totale raming van de normatieve eigen risico opbrengst per zorgverzekeraar is de som van het resultaat van het vierde en het vijfde lid.
 
@@ -302,7 +303,7 @@ Indien een zorgverzekeraar na de toekenning van de bijdrage 2008 besluit zich te
 
 1. Het college herberekent de toekenning van de bijdrage op basis van de werkelijke verzekerdenaantallen 2008 naar leeftijd en geslacht, volgens de opgave van de zorgverzekeraars per 1 maart 2008. Bij de herberekening gaat het college voor de overige criteria uit van de relatieve prevalenties uit de ex ante raming 2008.
 
-2. Het college herziet de op grond van [artikel 13, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=13&z=2008-09-27&g=2008-09-27), toegekende bijdrage.
+2. Het college herziet de op grond van [artikel 13, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=13&z=2011-09-21&g=2011-09-21), toegekende bijdrage.
 
 ### Hoofdstuk III. De voorlopige vaststelling van de bijdrage aan een zorgverzekeraar
 
@@ -322,7 +323,7 @@ Indien een zorgverzekeraar na de toekenning van de bijdrage 2008 besluit zich te
 
 7. Voor de voorlopige vaststelling van de bijdrage aan een zorgverzekeraar bepaalt het college het aantal verzekerden per FKG 2008 per zorgverzekeraar als volgt:
 
-- a. Uitgangspunt is de opgave van 1 juni 2009 van alle declaraties farmaceutische hulp 2007 van de zorgverzekeraar aan het college. Op basis daarvan bepaalt het college het aantal verzekerden 2007 per FKG 2008 dat in 2007 voldoet aan het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=I&artikel=4&z=2008-09-27&g=2008-09-27).
+- a. Uitgangspunt is de opgave van 1 juni 2009 van alle declaraties farmaceutische hulp 2007 van de zorgverzekeraar aan het college. Op basis daarvan bepaalt het college het aantal verzekerden 2007 per FKG 2008 dat in 2007 voldoet aan het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=I&artikel=4&z=2011-09-21&g=2011-09-21).
 
 - b. Het college bepaalt per zorgverzekeraar de rechtstreeks aan een zorgverzekeraar toe te wijzen verzekerden 2007 in 2008 per FKG 2008 met behulp van een koppeling op basis van het gepseudonimiseerde burgerservicenummer, het persoonskenmerkenbestand 2008 en de opgave van de zorgverzekeraar genoemd onder a.
 
@@ -334,7 +335,7 @@ Indien een zorgverzekeraar na de toekenning van de bijdrage 2008 besluit zich te
 
 8. Voor de voorlopige vaststelling van de bijdrage aan een zorgverzekeraar bepaalt het college het aantal verzekerden per DKG 2008 per zorgverzekeraar als volgt:
 
-- a. Uitgangspunt is de opgave van de zorgverzekeraar per 1 juni 2009 van de declaraties van alle DBC’s die in 2007 geopend zijn. Op basis daarvan bepaalt het college het aantal verzekerden per DKG 2008 volgens de indeling in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=I&artikel=4&z=2008-09-27&g=2008-09-27).
+- a. Uitgangspunt is de opgave van de zorgverzekeraar per 1 juni 2009 van de declaraties van alle DBC’s die in 2007 geopend zijn. Op basis daarvan bepaalt het college het aantal verzekerden per DKG 2008 volgens de indeling in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=I&artikel=4&z=2011-09-21&g=2011-09-21).
 
 - b. Het college bepaalt per zorgverzekeraar de rechtstreeks aan een zorgverzekeraar toe te wijzen verzekerden 2007 in 2008 per DKG 2008 met behulp van een koppeling op basis van het gepseudonimiseerde burgerservicenummer, het persoonskenmerkenbestand 2008 en de opgave van de zorgverzekeraar genoemd onder a.
 
@@ -352,17 +353,17 @@ Indien een zorgverzekeraar na de toekenning van de bijdrage 2008 besluit zich te
 
 1. Het college bepaalt per zorgverzekeraar en voor het totaal van de zorgverzekeraars de variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2008 met inachtneming van de [artikelen 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.7), [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.8) en [3.9, van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.9).
 
-2. Het college herberekent op basis van de uitkomsten verkregen na toepassing van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=III&artikel=16&z=2008-09-27&g=2008-09-27) het normatieve bedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2008 voor het totaal van alle verzekerden 2008 van alle zorgverzekeraars op de wijze zoals beschreven in [artikel 8, eerste tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=8&z=2008-09-27&g=2008-09-27).
+2. Het college herberekent op basis van de uitkomsten verkregen na toepassing van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=III&artikel=16&z=2011-09-21&g=2011-09-21) het normatieve bedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2008 voor het totaal van alle verzekerden 2008 van alle zorgverzekeraars op de wijze zoals beschreven in [artikel 8, eerste tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=8&z=2011-09-21&g=2011-09-21).
 
 3. Het college berekent de schalingsfactor variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2008 door de variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2008, bepaald in het eerste lid, te sommeren over alle verzekeraars en deze te delen door het in het tweede lid herberekende normatieve bedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp voor het totaal van alle verzekerden 2008 van alle zorgverzekeraars.
 
-4. Het college herberekent alle gewichten uit [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=8&z=2008-09-27&g=2008-09-27) door deze te vermenigvuldigen met de schalingsfactor variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2008, en deze vervolgens af te ronden op twee decimalen.
+4. Het college herberekent alle gewichten uit [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=8&z=2011-09-21&g=2011-09-21) door deze te vermenigvuldigen met de schalingsfactor variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2008, en deze vervolgens af te ronden op twee decimalen.
 
 5. Het college vermenigvuldigt de in het vierde lid herberekende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per risicoklasse naar leeftijd en geslacht 2008 met de aantallen verzekerden per overeenkomstige risicoklasse 2008 per zorgverzekeraar. Het college sommeert de uitkomsten per zorgverzekeraar.
 
-6. De in het vierde lid herberekende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per FKG 2008 worden per overeenkomstige FKG vermenigvuldigd met het aantal verzekerden 2008 zoals berekend in [artikel 16, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=III&artikel=16&z=2008-09-27&g=2008-09-27) per FKG 2008 per zorgverzekeraar. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het vijfde lid.
+6. De in het vierde lid herberekende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per FKG 2008 worden per overeenkomstige FKG vermenigvuldigd met het aantal verzekerden 2008 zoals berekend in [artikel 16, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=III&artikel=16&z=2011-09-21&g=2011-09-21) per FKG 2008 per zorgverzekeraar. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het vijfde lid.
 
-7. De in het vierde lid herberekende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per DKG 2008 worden per overeenkomstige DKG vermenigvuldigd met het aantal verzekerden 2008 zoals berekend in [artikel 16, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=III&artikel=16&z=2008-09-27&g=2008-09-27) per DKG 2008 per zorgverzekeraar. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het zesde lid.
+7. De in het vierde lid herberekende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per DKG 2008 worden per overeenkomstige DKG vermenigvuldigd met het aantal verzekerden 2008 zoals berekend in [artikel 16, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=III&artikel=16&z=2011-09-21&g=2011-09-21) per DKG 2008 per zorgverzekeraar. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het zesde lid.
 
 8. De in het vierde lid herberekende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per aard van het inkomenklasse 2008 worden per overeenkomstige aard van het inkomenklasse vermenigvuldigd met het aantal verzekerden 2008 per aard van het inkomenklasse 2008 per zorgverzekeraar. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het zevende lid.
 
@@ -386,7 +387,7 @@ Indien een zorgverzekeraar na de toekenning van de bijdrage 2008 besluit zich te
 
 2. Het college herberekent het voorlopig deelbedrag vaste kosten van ziekenhuisverpleging 2008 per zorgverzekeraar als volgt:
 
-- a. De vaste kosten van ziekenhuisverpleging 2007 worden per zorgverzekeraar gedeeld door het aantal verzekerden 2008, vastgesteld met toepassing van [artikel 16, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=III&artikel=16&z=2008-09-27&g=2008-09-27). Dit vormt het herberekende zorgverzekeraarspecifieke bedrag vaste kosten van ziekenhuisverpleging per verzekerde 2008.
+- a. De vaste kosten van ziekenhuisverpleging 2007 worden per zorgverzekeraar gedeeld door het aantal verzekerden 2008, vastgesteld met toepassing van [artikel 16, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=III&artikel=16&z=2011-09-21&g=2011-09-21). Dit vormt het herberekende zorgverzekeraarspecifieke bedrag vaste kosten van ziekenhuisverpleging per verzekerde 2008.
 
 - b. Het in onderdeel a opnieuw berekende zorgverzekeraarspecifieke bedrag vaste kosten van ziekenhuisverpleging per verzekerde 2008 wordt vermenigvuldigd met het totaal aantal verzekerden 2008 per zorgverzekeraar.
 
@@ -398,7 +399,7 @@ Indien een zorgverzekeraar na de toekenning van de bijdrage 2008 besluit zich te
 
 1. Het college bepaalt per zorgverzekeraar en voor het totaal van de zorgverzekeraars overeenkomstig [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.7), [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.8) en [3.11 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.11), de kosten van geneeskundige geestelijke gezondheidszorg 2008.
 
-2. Het college herberekent op grond van de uitkomsten van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=III&artikel=16&z=2008-09-27&g=2008-09-27) het normatieve bedrag geneeskundige geestelijke gezondheidszorg 2008 voor het totaal van alle verzekerden 2008 van alle zorgverzekeraars op de wijze zoals beschreven in [artikel 10, eerste tot en met het zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=10&z=2008-09-27&g=2008-09-27). Daarna calculeert het college per zorgverzekeraar 100 procent na op het verschil tussen de kosten van geneeskundige geestelijke gezondheidszorg 2008, verkregen in het eerste lid en het resultaat van het tweede lid.
+2. Het college herberekent op grond van de uitkomsten van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=III&artikel=16&z=2011-09-21&g=2011-09-21) het normatieve bedrag geneeskundige geestelijke gezondheidszorg 2008 voor het totaal van alle verzekerden 2008 van alle zorgverzekeraars op de wijze zoals beschreven in [artikel 10, eerste tot en met het zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=10&z=2011-09-21&g=2011-09-21). Daarna calculeert het college per zorgverzekeraar 100 procent na op het verschil tussen de kosten van geneeskundige geestelijke gezondheidszorg 2008, verkregen in het eerste lid en het resultaat van het tweede lid.
 
 3. Het resultaat van het derde lid wordt aangeduid als het voorlopige herberekende deelbedrag geneeskundige geestelijke gezondheidszorg 2008.
 
@@ -406,11 +407,11 @@ Indien een zorgverzekeraar na de toekenning van de bijdrage 2008 besluit zich te
 
 1. Het college bepaalt de kosten van overige prestaties 2008 met inachtneming van de [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.6), [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.7),[3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.8) en [3.12, van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.12).
 
-2. Het college berekent het normatieve bedrag kosten van overige prestaties 2008 voor het totaal van alle verzekerden 2008 van alle zorgverzekeraars op de wijze zoals beschreven in [artikel 11, eerste tot en met het zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=11&z=2008-09-27&g=2008-09-27).
+2. Het college berekent het normatieve bedrag kosten van overige prestaties 2008 voor het totaal van alle verzekerden 2008 van alle zorgverzekeraars op de wijze zoals beschreven in [artikel 11, eerste tot en met het zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=11&z=2011-09-21&g=2011-09-21).
 
 3. Het college berekent de schalingsfactor kosten van overige prestaties 2008 door de som van de in het eerste lid bepaalde kosten van overige prestaties 2008 van alle zorgverzekeraars te delen door het in het tweede lid herberekende normatieve bedrag kosten van overige prestaties voor alle verzekerden 2008 van alle zorgverzekeraars.
 
-4. Het college herberekent alle gewichten uit [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=11&z=2008-09-27&g=2008-09-27) door deze te vermenigvuldigen met de schalingsfactor kosten van overige prestaties 2008, en deze vervolgens af te ronden op twee decimalen.
+4. Het college herberekent alle gewichten uit [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=11&z=2011-09-21&g=2011-09-21) door deze te vermenigvuldigen met de schalingsfactor kosten van overige prestaties 2008, en deze vervolgens af te ronden op twee decimalen.
 
 5. De in het vierde lid herberekende gewichten kosten van overige prestaties per verzekerde 2008 naar leeftijd en geslacht worden per overeenkomstige risicoklasse vermenigvuldigd met het aantal verzekerden 2008 per risicoklasse per zorgverzekeraar. De uitkomsten worden per zorgverzekeraar gesommeerd.
 
@@ -430,7 +431,7 @@ Indien een zorgverzekeraar na de toekenning van de bijdrage 2008 besluit zich te
 
 1. Uitgangspunt voor de herberekening van de opbrengst van het normatieve eigen risico is de opgave van de verzekerdenaantallen van de zorgverzekeraar van 1 juni 2008.
 
-2. Het college herberekent op de wijze zoals beschreven in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=12&z=2008-09-27&g=2008-09-27) de normatieve eigen risico opbrengst 2008 op basis van de werkelijke verzekerden aantallen 2008.
+2. Het college herberekent op de wijze zoals beschreven in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=12&z=2011-09-21&g=2011-09-21) de normatieve eigen risico opbrengst 2008 op basis van de werkelijke verzekerden aantallen 2008.
 
 ##### Artikel 22. De voorlopige herberekening van het normatieve bedrag 2008 en de voorlopige herberekening en voorlopige vaststelling van de bijdrage 2008
 
@@ -442,7 +443,7 @@ Indien een zorgverzekeraar na de toekenning van de bijdrage 2008 besluit zich te
 
 4. Het college herberekent voorlopig de aanvulling op de bijdrage voor de uitkering in verband met uitvoeringskosten van verzekerden jonger dan 18 jaar door het aantal verzekerden jonger dan 18 jaar in 2008 te vermenigvuldigen met 50 euro.
 
-5. Het college herberekent de bijdrage 2008 voorlopig door de som van het herberekende normatieve bedrag 2008 bedoeld in het eerste lid en de aanvulling voor uitvoeringskosten van verzekerden jonger dan 18 jaar bedoeld in het vierde lid te verminderen met de voorlopig herberekende normatieve eigen risico opbrengst bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=III&artikel=21&z=2008-09-27&g=2008-09-27) en de opbrengst van de nominale rekenpremie, bedoeld in het derde lid.
+5. Het college herberekent de bijdrage 2008 voorlopig door de som van het herberekende normatieve bedrag 2008 bedoeld in het eerste lid en de aanvulling voor uitvoeringskosten van verzekerden jonger dan 18 jaar bedoeld in het vierde lid te verminderen met de voorlopig herberekende normatieve eigen risico opbrengst bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=III&artikel=21&z=2011-09-21&g=2011-09-21) en de opbrengst van de nominale rekenpremie, bedoeld in het derde lid.
 
 6. Het college stelt de bijdrage 2008 voorlopig vast ter hoogte van de in het vorige lid berekende bijdrage.
 
@@ -450,107 +451,27 @@ Indien een zorgverzekeraar na de toekenning van de bijdrage 2008 besluit zich te
 
 ##### Artikel 23. Algemene bepaling
 
-Het college herberekent het normatieve bedrag definitief rekening houdend met de maatschappelijke verantwoording 2008. De posten verrekening oude jaren uit de maatschappelijke verantwoording 2009 en de opgave hoge kosten verevening 2008 worden bij de definitieve herberekening betrokken, evenals de correcties die de Nederlandse Zorgautoriteit heeft toegepast.
+Het college herberekent de vereveningsbijdrage definitief met inachtneming van de correcties die voortkomen uit de reviewrapportage die de Nederlandse Zorgautoriteit uitbrengt over de lasten 2008 uit de opgave jaarstaat 2010 per 1 juni 2011.
 
-##### Artikel 24. De definitieve herberekening van het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2008.
+##### Artikel 24. De definitieve herberekening van het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2008
 
-1. Het college hanteert bij de definitieve herberekening van het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2008 als uitgangspunten:
-
-- a. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per risicoklasse 2008 naar leeftijd en geslacht, zoals vermeld in [bijlage 24](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=24&z=2008-09-27&g=2008-09-27) van deze beleidsregels;
-
-- b. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per FKG 0 t/m 20 2008, zoals vermeld in [bijlage 25](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=25&z=2008-09-27&g=2008-09-27) van deze beleidsregels;
-
-- c. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per DKG 0 t/m 13 2008, zoals vermeld in [bijlage 26](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=26&z=2008-09-27&g=2008-09-27) van deze beleidsregels;
-
-- d. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per aard van het inkomenklasse 2008, zoals vermeld in [bijlage 27](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=27&z=2008-09-27&g=2008-09-27) van deze beleidsregels;
-
-- e. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per regioklasse 2008, zoals vermeld in [bijlage 28](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=28&z=2008-09-27&g=2008-09-27) van deze beleidsregels;
-
-- f. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per sociaal economische statusklasse 2008, genoemd in [bijlage 29](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=29&z=2008-09-27&g=2008-09-27) van deze beleidsregels.
-
-2. Het college bepaalt de variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2008 met inachtneming van de [artikelen 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.7), [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.8) en [3.9, van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.9).
-
-3. Het college herberekent het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2008 voor het totaal van alle verzekerden van alle zorgverzekeraars 2007 op de wijze zoals beschreven in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=8&z=2008-09-27&g=2008-09-27), gebruik makend van de gewichten uit het eerste lid.
-
-4. Het college herberekent de schalingsfactor variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2008 door de som van de totale variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2008 van alle zorgverzekeraars, zoals bepaald in het tweede lid, te delen door het herberekende normatieve deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp voor het totaal van alle verzekerden 2008 van alle verzekeraars, zoals berekend in het derde lid.
-
-5. Het college herberekent alle gewichten uit het eerste lid door deze te vermenigvuldigen met de herberekende schalingsfactor variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2008 en rond deze af op twee decimalen.
-
-6. Het college vermenigvuldigt de in het vijfde lid herberekende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per risicoklasse 2008 naar leeftijd en geslacht met de aantallen verzekerden per overeenkomstige risicoklasse per zorgverzekeraar. De uitkomsten worden per zorgverzekeraar gesommeerd.
-
-7. De in het vijfde lid herberekende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde 2008 worden per overeenkomstige FKG vermenigvuldigd met het aantal verzekerden per FKG 2008 per zorgverzekeraar. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het zesde lid.
-
-8. De in het vijfde lid herberekende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde 2008 worden per zorgverzekeraar per overeenkomstige DKG 2008 vermenigvuldigd met het aantal verzekerden 2008 per DKG 2008. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het zevende lid.
-
-9. De in het vijfde lid herberekende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per aard van het inkomenklasse 2008 worden per zorgverzekeraar per overeenkomstige aard van het inkomenklasse vermenigvuldigd met het aantal verzekerden 2008 per aard van het inkomenklasse 2008. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het achtste lid.
-
-10. De in het vijfde lid herberekende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per regioklasse 2008, worden per overeenkomstige regioklasse vermenigvuldigd met het aantal verzekerden per regioklasse 2008 per zorgverzekeraar. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het negende lid.
-
-11. De in het vijfde lid herberekende gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per sociaal economische statusklasse 2008, worden per overeenkomstige sociaal economische statusklasse vermenigvuldigd met het aantal verzekerden per sociaal economische statusklasse 2008 per zorgverzekeraar. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het tiende lid.
-
-12. Het college past een hoge kostencompensatie toe overeenkomstig [artikel 3.13 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.13) en verrekent dit met het resultaat van het elfde lid.
-
-13. Vervolgens calculeert het college per zorgverzekeraar 50 procent na op het verschil tussen de variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp, verkregen in het tweede lid en het resultaat van het twaalfde lid.
-
-14. Het resultaat van het dertiende lid wordt aangeduid als het definitief herberekende deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2008.
-
-- a. Voor de toepassing van [artikel 3.9, elfde lid van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.9) trekt het college van het definitieve herberekende deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2008 af de kosten van ziekenhuisverpleging en kosten van specialistische hulp 2008, zoals bepaald in het tweede lid.
-
-- b. Indien het in onderdeel a bepaalde bedrag groter is dan het aantal verzekerden van 18 jaar en ouder 2008 maal 20 euro, dan trekt het college 90 procent van het meerdere af van het definitieve herberekende deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2008.
-
-- c. Indien het in onderdeel a bepaalde bedrag kleiner is dan het aantal verzekerden van 18 jaar en ouder 2007 maal –20 euro, dan voegt het college 90 procent van het verschil toe aan het definitieve herberekende deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2008.
+Het college herberekent definitief het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2008 overeenkomstig [artikel 22c](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=IIIa&artikel=22c&z=2011-09-21&g=2011-09-21), met inachtneming van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=IV&artikel=23&z=2011-09-21&g=2011-09-21).
 
 ##### Artikel 25. De definitieve herberekening van het deelbedrag vaste kosten van ziekenhuisverpleging 2008
 
-Het college herberekent definitief het deelbedrag vaste kosten van ziekenhuisverpleging 2008 overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=III&artikel=18&z=2008-09-27&g=2008-09-27), met inachtneming van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=IV&artikel=23&z=2008-09-27&g=2008-09-27).
+Het college herberekent definitief het deelbedrag vaste kosten van ziekenhuisverpleging 2007 overeenkomstig [artikel 22d](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=IIIa&artikel=22d&z=2011-09-21&g=2011-09-21), met inachtneming van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=IV&artikel=23&z=2011-09-21&g=2011-09-21).
 
 ##### Artikel 26. De definitieve herberekening van het deelbedrag geneeskundige geestelijke gezondheidszorg 2008
 
-Het college herberekent definitief het deelbedrag geneeskundige geestelijke gezondheidszorg 2008 overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=III&artikel=19&z=2008-09-27&g=2008-09-27), met inachtneming van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=IV&artikel=23&z=2008-09-27&g=2008-09-27).
+Het college herberekent definitief het deelbedrag geneeskundige geestelijke gezondheidszorg 2008 overeenkomstig [artikel 22e](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=IIIa&artikel=22e&z=2011-09-21&g=2011-09-21), met inachtneming van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=IV&artikel=23&z=2011-09-21&g=2011-09-21).
 
 ##### Artikel 27. De definitieve herberekening van het deelbedrag kosten van overige prestaties 2008
 
-1. Voor de definitieve herberekening van het deelbedrag kosten van overige prestaties hanteert het college als uitgangspunten:
-
-- a. de gewichten kosten van overige prestaties per verzekerde per risicoklasse 2008 naar leeftijd en geslacht, zoals vermeld in [bijlage 30](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=30&z=2008-09-27&g=2008-09-27) van deze beleidsregels;
-
-- b. de gewichten kosten van overige prestaties per verzekerde per FKG 2008, zoals vermeld in [bijlage 31](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=31&z=2008-09-27&g=2008-09-27) van deze beleidsregels;
-
-- c. de gewichten kosten van overige prestaties per verzekerde per DKG 2008, zoals vermeld in [bijlage 32](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=32&z=2008-09-27&g=2008-09-27) van deze beleidsregels;
-
-- d. de gewichten kosten van overige prestaties per verzekerde per aard van het inkomenklasse 2008, zoals vermeld in [bijlage 33](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=33&z=2008-09-27&g=2008-09-27) van deze beleidsregels;
-
-- e. de gewichten kosten van overige prestaties per verzekerde per regioklasse 2008, zoals vermeld in [bijlage 34](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=34&z=2008-09-27&g=2008-09-27) van deze beleidsregels;
-
-- f. de gewichten kosten van overige prestaties per verzekerde per sociaal economische statusklasse 2008, genoemd in [bijlage 35](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=35&z=2008-09-27&g=2008-09-27) van deze beleidsregels.
-
-2. Het college bepaalt de kosten van overige prestaties 2008 met inachtneming van de [artikelen 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.7)en [3.8, van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.8).
-
-3. Het college herberekent het normatieve bedrag kosten van overige prestaties 2008 voor het totaal van alle verzekerden 2008 van alle zorgverzekeraars op de wijze zoals beschreven in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=11&z=2008-09-27&g=2008-09-27), gebruik makend van de gewichten uit het eerste lid.
-
-4. Het college herberekent de schalingsfactor kosten van overige prestaties 2008 door de som van de kosten van overige prestaties 2008 van alle zorgverzekeraars, zoals bepaald in het tweede lid, te delen door het normatieve bedrag kosten van overige prestaties 2008 voor het totaal van alle verzekerden 2008 van alle zorgverzekeraars, als berekend in het derde lid.
-
-5. Het college herberekent alle gewichten uit het eerste lid door deze te vermenigvuldigen met de herberekende schalingsfactor overige prestaties 2008, en deze vervolgens af te ronden op twee decimalen.
-
-6. De herberekende gewichten kosten van overige prestaties per verzekerde 2008 worden per overeenkomstige risicoklasse naar leeftijd en geslacht vermenigvuldigd met het aantal verzekerden 2008 per risicoklasse 2008 per zorgverzekeraar. De uitkomsten worden per zorgverzekeraar gesommeerd.
-
-7. De herberekende gewichten kosten van overige prestaties per verzekerde per FKG 2008 worden per overeenkomstige FKG vermenigvuldigd met het aantal verzekerden 2008 per FKG 2008 per zorgverzekeraar. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het zesde lid.
-
-8. De herberekende gewichten kosten van overige prestaties per verzekerde per DKG 2008 worden per overeenkomstige DKG vermenigvuldigd met het aantal verzekerden 2008 per DKG 2008 per zorgverzekeraar. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het zevende lid.
-
-9. De herberekende gewichten kosten van overige prestaties per verzekerde per aard van het inkomenklasse 2008 worden per overeenkomstige aard van het inkomenklasse vermenigvuldigd met het aantal verzekerden 2008 per aard van het inkomenklasse 2008 per zorgverzekeraar. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het achtste lid.
-
-10. De herberekende gewichten kosten van overige prestaties per verzekerde per regioklasse 2008 worden per overeenkomstige regioklasse vermenigvuldigd met het aantal verzekerden 2008 per regioklasse 2008 per zorgverzekeraar. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het negende lid.
-
-11. De herberekende gewichten kosten van overige prestaties per verzekerde per sociaal economische statusklasse 2008, worden per overeenkomstige sociaal economische statusklasse vermenigvuldigd met het aantal verzekerden per sociaal economische statusklasse 2008 per zorgverzekeraar. De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het resultaat van het tiende lid.
-
-12. Het college past een hoge kostencompensatie toe overeenkomstig [artikel 3.13 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.13) en verrekent dit met het resultaat van het elfde lid.
-
-13. Het resultaat van het twaalfde lid wordt aangeduid als het definitief herberekende deelbedrag kosten van overige prestaties 2008.
+Het college herberekent definitief het deelbedrag kosten van overige prestaties 2008 overeenkomstig [artikel 22f](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=IIIa&artikel=22f&z=2011-09-21&g=2011-09-21), met inachtneming van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=IV&artikel=23&z=2011-09-21&g=2011-09-21).
 
 ##### Artikel 28. De definitieve herberekening van de normatieve eigen risico opbrengst 2008
 
-Het college herberekent definitief de normatieve eigen risico opbrengst 2008 overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=12&z=2008-09-27&g=2008-09-27), met inachtneming van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=IV&artikel=23&z=2008-09-27&g=2008-09-27).
+Het college herberekent definitief de normatieve eigen risico opbrengst 2008 overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=12&z=2011-09-21&g=2011-09-21), met inachtneming van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=IV&artikel=23&z=2011-09-21&g=2011-09-21).
 
 ##### Artikel 29. De definitieve herberekening van het normatieve bedrag 2008 en de definitieve herberekening en de vaststelling van de bijdrage 2008
 
@@ -562,7 +483,7 @@ Het college herberekent definitief de normatieve eigen risico opbrengst 2008 ove
 
 4. Het college berekent de definitieve aanvulling op de bijdrage voor de uitkering in verband met uitvoeringskosten van verzekerden jonger dan 18 jaar door het aantal verzekerden jonger dan 18 jaar 2008 te vermenigvuldigen met 50 euro.
 
-5. Het college berekent de bijdrage 2008 definitief door de som van het definitieve normatieve bedrag 2008 bedoeld in het eerste lid en de aanvulling voor uitvoeringskosten van verzekerden jonger dan 18 jaar bedoeld in het vierde lid, te verminderen met de definitieve normatieve eigen risico opbrengst bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=IV&artikel=28&z=2008-09-27&g=2008-09-27), en de opbrengst van de nominale rekenpremie, bedoeld in het derde lid.
+5. Het college berekent de bijdrage 2008 definitief door de som van het definitieve normatieve bedrag 2008 bedoeld in het eerste lid en de aanvulling voor uitvoeringskosten van verzekerden jonger dan 18 jaar bedoeld in het vierde lid, te verminderen met de definitieve normatieve eigen risico opbrengst bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=IV&artikel=28&z=2011-09-21&g=2011-09-21), en de opbrengst van de nominale rekenpremie, bedoeld in het derde lid.
 
 6. Het college stelt de bijdrage 2008 vast ter hoogte van de in het vorige lid definitief berekende bijdrage.
 
@@ -570,15 +491,15 @@ Het college herberekent definitief de normatieve eigen risico opbrengst 2008 ove
 
 ##### Artikel 30
 
-1. Bij gelegenheid van de vaststelling van de bijdrage 2008 als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=IV&artikel=29&z=2008-09-27&g=2008-09-27) stelt het college per zorgverzekeraar ook de uitkering 2008 vast voor de kosten die op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar het werkelijke bedrag door het college worden vergoed.
+1. Bij gelegenheid van de vaststelling van de bijdrage 2008 als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=IV&artikel=29&z=2011-09-21&g=2011-09-21) stelt het college per zorgverzekeraar ook de uitkering 2008 vast voor de kosten die op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar het werkelijke bedrag door het college worden vergoed.
 
-2. In afwachting van de vaststelling van de uitkering 2008 voor de kosten die op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar het werkelijke bedrag door het college worden vergoed, stelt het college bij de voorlopige vaststelling van de bijdrage 2008 bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=III&artikel=22&z=2008-09-27&g=2008-09-27) ook de voorlopige uitkering 2008 voor de kosten die op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar het werkelijke bedrag door het college worden vergoed, vast.
+2. In afwachting van de vaststelling van de uitkering 2008 voor de kosten die op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar het werkelijke bedrag door het college worden vergoed, stelt het college bij de voorlopige vaststelling van de bijdrage 2008 bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=III&artikel=22&z=2011-09-21&g=2011-09-21) ook de voorlopige uitkering 2008 voor de kosten die op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar het werkelijke bedrag door het college worden vergoed, vast.
 
 ### Hoofdstuk VI. De betalingen aan de zorgverzekeraars
 
 ##### Artikel 31
 
-1. Het college betaalt de zorgverzekeraars de bijdrage, bedoeld in [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=13&z=2008-09-27&g=2008-09-27), uit. Het college maakt bij de betalingen onderscheid naar de volgende bestanddelen:
+1. Het college betaalt de zorgverzekeraars de bijdrage, bedoeld in [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=13&z=2011-09-21&g=2011-09-21), uit. Het college maakt bij de betalingen onderscheid naar de volgende bestanddelen:
 
 - a. het deel van het normatieve bedrag 2008 dat betrekking heeft op het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp, het deelbedrag vaste kosten van ziekenhuisverpleging 2008;
 
@@ -590,7 +511,7 @@ Het college herberekent definitief de normatieve eigen risico opbrengst 2008 ove
 
 - e. een aftrekpost voor de geraamde opbrengst van de nominale rekenpremie.
 
-2. Het college betaalt de zorgverzekeraars de uitkering in verband met uitvoeringskosten van verzekerden jonger dan 18 jaar, bedoeld in [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=12&z=2008-09-27&g=2008-09-27).
+2. Het college betaalt de zorgverzekeraars de uitkering in verband met uitvoeringskosten van verzekerden jonger dan 18 jaar, bedoeld in [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=12&z=2011-09-21&g=2011-09-21).
 
 3. Voor de betaling van de kosten, die op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar werkelijke kosten worden vergoed, kan het college ambtshalve een bedrag vaststellen, waarmee de betaling aan de zorgverzekeraars wordt verhoogd.
 
@@ -598,7 +519,7 @@ Het college herberekent definitief de normatieve eigen risico opbrengst 2008 ove
 
 ##### Artikel 32
 
-1. Bij gelegenheid van de voorlopige vaststelling van de bijdrage, bedoeld in [artikel 22, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=III&artikel=22&z=2008-09-27&g=2008-09-27), stelt het college het volgende vast:
+1. Bij gelegenheid van de voorlopige vaststelling van de bijdrage, bedoeld in [artikel 22, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=III&artikel=22&z=2011-09-21&g=2011-09-21), stelt het college het volgende vast:
 
 - a. De hoogte van het bedrag van de door de zorgverzekeraar ingevorderde boetes op grond van [artikel 96 Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=96);
 
@@ -608,13 +529,17 @@ Het college herberekent definitief de normatieve eigen risico opbrengst 2008 ove
 
 - d. Het deel van het bedrag van de door het college zelf op grond van [artikel 96 Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=96) ingevorderde boetes waar de zorgverzekeraar als vergoeding recht op heeft.
 
-2. Het college verrekent de som van de onderdelen c en d uit het eerste lid zo mogelijk met de op grond van [artikel 22, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=III&artikel=22&z=2008-09-27&g=2008-09-27), voorlopig vastgestelde bijdrage.
+2. Het college verrekent de som van de onderdelen c en d uit het eerste lid zo mogelijk met de op grond van [artikel 22, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=III&artikel=22&z=2011-09-21&g=2011-09-21), voorlopig vastgestelde bijdrage.
 
 3. Indien verrekening, als bedoeld in het tweede lid, niet mogelijk blijkt, vordert het college het door de zorgverzekeraar af te dragen bedrag bij de zorgverzekeraar in, dan wel betaalt het college het door de zorgverzekeraar te ontvangen bedrag, aan de zorgverzekeraar na.
 
+4. Bij gelegenheid van de tweede voorlopige vaststelling stelt het college opnieuw de hoogte van de in 2008 ingevorderde boetes vast, overeenkomstig de opgave van de zorgverzekeraars in de jaarstaat 2008 met inachtneming van de correcties van de Nederlandse Zorgautoriteit.
+
+5. Het college verrekent zo mogelijk, na toepassing van het vierde lid en overeenkomstig het tweede lid, de som van de onderdelen c en d uit het eerste lid met de op grond van [artikel 22h, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=IIIa&artikel=22h&z=2011-09-21&g=2011-09-21), voor de tweede maal voorlopig vastgestelde bijdrage.
+
 ##### Artikel 33
 
-1. Bij gelegenheid van de voorlopige vaststelling van de bijdrage, bedoeld in [artikel 21, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=III&artikel=21&z=2008-09-27&g=2008-09-27), stelt het college het bedrag aan compensatie vast overeenkomstig [artikel 3.16a van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.16a), voor iedere verzekerde ten aanzien van wie niet aan de premieplicht, bedoeld in [artikel 16 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=16), is of wordt voldaan.
+1. Bij gelegenheid van de voorlopige vaststelling van de bijdrage, bedoeld in [artikel 21, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=III&artikel=21&z=2011-09-21&g=2011-09-21), stelt het college het bedrag aan compensatie vast overeenkomstig [artikel 3.16a van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.16a), voor iedere verzekerde ten aanzien van wie niet aan de premieplicht, bedoeld in [artikel 16 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=16), is of wordt voldaan.
 
 2. De zorgverzekeraar ontvangt compensatie onder de voorwaarde dat is voldaan aan het bepaalde in [artikel 3.18 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.18). Bij de voorlopige vaststelling baseert het college zich voor de vaststelling van de compensatie vanwege wanbetaling op de opgave van de zorgverzekeraars op 1 juli 2009 over het totale aantal wanbetalers en het totale aantal premieachterstandsdagen in de periode 1 januari 2006 tot en met 31 december 2008.
 
@@ -634,11 +559,11 @@ Het college herberekent definitief de normatieve eigen risico opbrengst 2008 ove
 
 ##### Artikel 34. Betaling
 
-1. Het college bepaalt de som van de bestanddelen genoemd in [artikel 31, eerste lid, onder a, eerste lid, onder b, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=VI&artikel=31&z=2008-09-27&g=2008-09-27) en de uitkering genoemd in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=VI&artikel=31&z=2008-09-27&g=2008-09-27).
+1. Het college bepaalt de som van de bestanddelen genoemd in [artikel 31, eerste lid, onder a, eerste lid, onder b, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=VI&artikel=31&z=2011-09-21&g=2011-09-21) en de uitkering genoemd in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=VI&artikel=31&z=2011-09-21&g=2011-09-21).
 
-2. Het college deelt het resultaat van [artikel 13, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=13&z=2008-09-27&g=2008-09-27) door het resultaat van het eerste lid.
+2. Het college deelt het resultaat van [artikel 13, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=13&z=2011-09-21&g=2011-09-21) door het resultaat van het eerste lid.
 
-3. Het college vermenigvuldigt de bestanddelen genoemd in [artikel 31, eerste lid, onder a, eerste lid, onder b, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=VI&artikel=31&z=2008-09-27&g=2008-09-27) en de uitkering bedoeld in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=VI&artikel=31&z=2008-09-27&g=2008-09-27), met het percentage dat het resultaat is van het tweede lid.
+3. Het college vermenigvuldigt de bestanddelen genoemd in [artikel 31, eerste lid, onder a, eerste lid, onder b, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=VI&artikel=31&z=2011-09-21&g=2011-09-21) en de uitkering bedoeld in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=VI&artikel=31&z=2011-09-21&g=2011-09-21), met het percentage dat het resultaat is van het tweede lid.
 
 4. De resultaten van het derde lid worden genoemd als volgt:
 
@@ -655,7 +580,7 @@ Het college herberekent definitief de normatieve eigen risico opbrengst 2008 ove
 |   | Bestanddelen betalingen | Bestanddelen betalingen | Bestanddelen betalingen |   |   |
 | --- | --- | --- | --- | --- | --- |
 |   |   |   |   |   |   |
-| Betaalmoment | [Artikel 34, Lid 4, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=VI&artikel=34&z=2008-09-27&g=2008-09-27) | [Artikel 34 Lid 4, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=VI&artikel=34&z=2008-09-27&g=2008-09-27) | [Artikel 34 Lid 4, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=VI&artikel=34&z=2008-09-27&g=2008-09-27) |   | [Artikel 34 Lid 4, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=VI&artikel=34&z=2008-09-27&g=2008-09-27) |
+| Betaalmoment | [Artikel 34, Lid 4, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=VI&artikel=34&z=2011-09-21&g=2011-09-21) | [Artikel 34 Lid 4, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=VI&artikel=34&z=2011-09-21&g=2011-09-21) | [Artikel 34 Lid 4, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=VI&artikel=34&z=2011-09-21&g=2011-09-21) |   | [Artikel 34 Lid 4, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=VI&artikel=34&z=2011-09-21&g=2011-09-21) |
 | Januari 2008 |   | 4,1700% |   |   |   |
 | februari 2008 | 0,919500% | 8,3300% |   |   | 8,333300% |
 | maart 2008 | 2,643700% | 8,3300% | 8,333300% |   | 8,333300% |
@@ -681,39 +606,43 @@ Het college herberekent definitief de normatieve eigen risico opbrengst 2008 ove
 
 ##### Artikel 35
 
-1. Bij de herberekening en herziening van de toegekende bijdrage 2008 op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=15&z=2008-09-27&g=2008-09-27) herziet het college de te betalen termijnen overeenkomstig [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=VI&artikel=34&z=2008-09-27&g=2008-09-27) voor de eerste keer. Het college verrekent het verschil tussen de reeds betaalde termijnen en de voor de eerste keer herziene termijnen.
+1. Bij de herberekening en herziening van de toegekende bijdrage 2008 op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=15&z=2011-09-21&g=2011-09-21) herziet het college de te betalen termijnen overeenkomstig [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=VI&artikel=34&z=2011-09-21&g=2011-09-21) voor de eerste keer. Het college verrekent het verschil tussen de reeds betaalde termijnen en de voor de eerste keer herziene termijnen.
 
-2. Bij gelegenheid van de voorlopige vaststelling van de bijdrage, op grond van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=III&z=2008-09-27&g=2008-09-27), herziet het college voor de tweede keer de te betalen termijnen overeenkomstig [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=VI&artikel=34&z=2008-09-27&g=2008-09-27). Het college verrekent het verschil tussen de voor de eerste keer herziene termijnen, bedoeld in het vorige lid, en de voor de tweede keer herziene termijnen.
+2. Bij gelegenheid van de voorlopige vaststelling van de bijdrage, op grond van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=III&z=2011-09-21&g=2011-09-21), herziet het college voor de tweede keer de te betalen termijnen overeenkomstig [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=VI&artikel=34&z=2011-09-21&g=2011-09-21). Het college verrekent het verschil tussen de voor de eerste keer herziene termijnen, bedoeld in het vorige lid, en de voor de tweede keer herziene termijnen.
 
-3. Bij gelegenheid van de definitieve vaststelling van de bijdrage, op grond van [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=IV&z=2008-09-27&g=2008-09-27), stelt het college de te betalen termijnen definitief vast overeenkomstig [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=VI&artikel=34&z=2008-09-27&g=2008-09-27). Het college verrekent het verschil tussen de voor de tweede maal herziene termijnen, bedoeld in het tweede lid,en de definitief te betalen termijnen.
+3. Bij gelegenheid van de tweede voorlopige vaststelling van de bijdrage, op grond van [hoofdstuk IIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=IIIa&z=2011-09-21&g=2011-09-21), herziet het college de te betalen termijnen voor de derde keer overeenkomstig [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=VI&artikel=34&z=2011-09-21&g=2011-09-21). Het college verrekent het verschil tussen de reeds betaalde termijnen en de voor de derde maal herziene termijnen.
 
-4. Indien toepassing van onderscheidenlijk het eerste, tweede en derde lid, resulteert in een positief saldo voor de zorgverzekeraar, betaalt het college dat saldo ineens aan de zorgverzekeraar, behoudens een eventuele verrekening met een vordering op de zorgverzekeraar uit hoofde van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) dan wel de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614).
+4. Bij gelegenheid van de definitieve vaststelling van de bijdrage, op grond van [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=IV&z=2011-09-21&g=2011-09-21), stelt het college de te betalen termijnen definitief vast overeenkomstig [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=VI&artikel=34&z=2011-09-21&g=2011-09-21). Het college verrekent het verschil tussen de reeds betaalde termijnen en de definitief te betalen termijnen.
 
-5. Indien toepassing van onderscheidenlijk het eerste, tweede en derde lid, resulteert in een negatief saldo voor de zorgverzekeraar, wordt dat saldo ineens door de desbetreffende zorgverzekeraar aan het college terugbetaald, behoudens voor zover het college het bedrag heeft verrekend met enige vordering op de zorgverzekeraar op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) dan wel de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614).
+5. Indien toepassing van onderscheidenlijk het eerste, tweede, derde en vierde lid, resulteert in een positief saldo voor de zorgverzekeraar, betaalt het college dat saldo ineens aan de zorgverzekeraar, behoudens een eventuele verrekening met een vordering op de zorgverzekeraar uit hoofde van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) dan wel de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614).
+
+6. Indien toepassing van onderscheidenlijk het eerste, tweede, derde en vierde lid, resulteert in een negatief saldo voor de zorgverzekeraar, wordt dat saldo ineens door de desbetreffende zorgverzekeraar aan het college terugbetaald, behoudens voor zover het college het bedrag heeft verrekend met enige vordering op de zorgverzekeraar op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) dan wel de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614).
 
 ##### Artikel 36
 
-1. De zorgverzekeraar en het college zijn over en weer rente verschuldigd en hebben over en weer aanspraak op rente over de verschillen, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=VI&artikel=35&z=2008-09-27&g=2008-09-27).
+1. De zorgverzekeraar en het college zijn over en weer rente verschuldigd en hebben over en weer aanspraak op rente over de verschillen, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=VI&artikel=35&z=2011-09-21&g=2011-09-21).
 
-2. De rente, bedoeld in het eerste lid, wordt bij de herberekening en herziening van de toekenning, de voorlopige en de definitieve vaststelling van de uitkering door het college verwerkt en zo mogelijk verrekend met andere betalingen die uit deze vaststellingen voortvloeien.
+2. De rente, bedoeld in het eerste lid, wordt bij de herberekening en herziening van de toekenning, de voorlopige, de tweede voorlopige en de definitieve vaststelling van de uitkering door het college verwerkt en zo mogelijk verrekend met andere betalingen die uit deze vaststellingen voortvloeien.
 
 ##### Artikel 37
 
-1. Bij de verrekening van verschillen, bedoeld in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=VI&artikel=35&z=2008-09-27&g=2008-09-27), berekent het college rente over het verschil vanaf de datum waarop het verschil is ontstaan tot de datum waarop de verschillen worden verrekend.
+1. Bij de verrekening van verschillen, bedoeld in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=VI&artikel=35&z=2011-09-21&g=2011-09-21), berekent het college rente over het verschil vanaf de datum waarop het verschil is ontstaan tot de datum waarop de verschillen worden verrekend.
 
-2. Bij de verrekening van de verschillen, bedoeld in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=VI&artikel=31&z=2008-09-27&g=2008-09-27), berekent het college rente vanaf de betaaldatum, genoemd in [artikel 35, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=VI&artikel=35&z=2008-09-27&g=2008-09-27), tot de datum van de voorlopige vaststelling van de bijdrage.
+2. Bij de verrekening van de verschillen, bedoeld in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=VI&artikel=31&z=2011-09-21&g=2011-09-21), berekent het college rente vanaf de betaaldatum, genoemd in [artikel 35, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=VI&artikel=35&z=2011-09-21&g=2011-09-21), tot de datum van de voorlopige vaststelling van de bijdrage.
 
-3. Bij de verrekening van de verschillen, bedoeld in [artikel 35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=VI&artikel=35&z=2008-09-27&g=2008-09-27), berekent het college rente vanaf de betaaldatum, genoemd in [artikel 35, eerste,tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=VI&artikel=35&z=2008-09-27&g=2008-09-27) tot de datum van de definitieve vaststelling van de bijdrage.
+3. Bij de verrekening van de verschillen, bedoeld in [artikel 35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=VI&artikel=35&z=2011-09-21&g=2011-09-21), berekent het college rente vanaf de betaaldatum, genoemd in [artikel 35, eerste,tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=VI&artikel=35&z=2011-09-21&g=2011-09-21) tot de datum van de tweede voorlopige vaststelling van de bijdrage.
 
-4. Voor een zorgverzekeraar waarvoor krachtens [artikel 35, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=VI&artikel=35&z=2008-09-27&g=2008-09-27), afwijkende betalingen hebben plaatsgevonden, kan het college bij de renteberekening afwijken van de vorige leden.
+4. Bij de verrekening van de verschillen, bedoeld in [artikel 35, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=VI&artikel=35&z=2011-09-21&g=2011-09-21), berekent het college rente vanaf de betaaldatum, genoemd in [artikel 34, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=VI&artikel=34&z=2011-09-21&g=2011-09-21), tot de datum van de definitieve vaststelling van de bijdrage.
 
-5. Voor het rentepercentage gaat het college uit van het gemiddelde van de maandrentes van het Euro Interbank Offered Rate (Euribortarief) voor driemaands termijngelden zonder onderpand over de periodes, bedoeld in het eerste, tweede en derde lid. Voor de laatste kalendermaand vóór de betaling wordt uitgegaan van de rente over de voorafgaande kalendermaand.
+5. Voor een zorgverzekeraar waarvoor krachtens [artikel 35, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=VI&artikel=35&z=2011-09-21&g=2011-09-21), afwijkende betalingen hebben plaatsgevonden, kan het college bij de renteberekening afwijken van de vorige leden.
 
-6. De rente betreft een samengestelde rente en wordt op maandbasis berekend.
+6. Voor het rentepercentage gaat het college uit van het gemiddelde van de maandrentes van het Euro Interbank Offered Rate (Euribortarief) voor driemaands termijngelden zonder onderpand over de periodes, bedoeld in het eerste, tweede en derde lid. Voor de laatste kalendermaand vóór de betaling wordt uitgegaan van de rente over de voorafgaande kalendermaand.
+
+7. De rente betreft een samengestelde rente en wordt op maandbasis berekend.
 
 Bij de berekening wordt een maand op 30 en een jaar op 360 dagen gesteld.
 
-7. Indien de situatie zich voordoet dat het in deze paragraaf bedoelde Euro Interbank Offered Rate (Euribortarief) niet meer kan worden toegepast, zal een zoveel als mogelijk overeenkomstig tarief worden gehanteerd.
+8. Indien de situatie zich voordoet dat het in deze paragraaf bedoelde Euro Interbank Offered Rate (Euribortarief) niet meer kan worden toegepast, zal een zoveel als mogelijk overeenkomstig tarief worden gehanteerd.
 
 ### Hoofdstuk VII. Slotbepalingen
 
@@ -1107,108 +1036,35 @@ Gewichten voor het criterium eenpersoonsadres (in euro’s per verzekerde) voor 
 | Wel | –5,96 |
 | Niet | 40,72 |
 
-## Bijlage 15
+## Bijlage 6
 
 Bron: [Bijlage 4 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&bijlage=4)
 
-Gewichten voor het criterium leeftijd en geslacht (in euro’s per verzekerde) voor het deelbedrag overige prestaties (totale overige prestaties en van de afzonderlijke overige prestaties)
+Gewichten voor het criterium aard van het inkomen (in euro’s per verzekerde) voor het deelbedrag variabele kosten ziekenhuisverpleging en kosten van specialistische hulp
 
-| Risicoklasse | Gewicht in euro’s | Gewicht in euro’s | Gewicht In euro’s | Gewicht in euro’s | Gewicht in euro’s |   |
-| --- | --- | --- | --- | --- | --- | --- |
-|   |   |   |   |   |   |   |
-| Mannen | Huisartsenhulp | Tandheelkundige hulp | Verloskundige hulp | Paramedische hulp | Ziekenvervoer |   |
-| 0 t/m 4 jaar | 139,47 | 13,96 | 0 | 46,46 | 26,2 |   |
-| 5 t/m 9 jaar | 109,5 | 83,32 | 0 | 87,2 | 18,13 |   |
-| 10 t/m 14 jaar | 100,36 | 106,3 | 0 | 32,81 | 20,1 |   |
-| 15 t/m 19 jaar | 100,75 | 131,82 | 0 | 24,91 | 24,59 |   |
-| 20 t/m 24 jaar | 95,76 | 57,47 | 0 | 13,17 | 22,25 |   |
-| 25 t/m 29 jaar | 96,04 | 2,94 | 0 | 13,03 | 21,07 |   |
-| 30 t/m 34 jaar | 100,34 | 3,81 | 0 | 13,14 | 20,9 |   |
-| 35 t/m 39 jaar | 105,34 | 4,71 | 0 | 15,38 | 22,1 |   |
-| 40 t/m 44 jaar | 108,37 | 6,28 | 0 | 16,57 | 24,2 |   |
-| 45 t/m 49 jaar | 111,72 | 8,81 | 0 | 19,66 | 27,45 |   |
-| 50 t/m 54 jaar | 114,97 | 11,56 | 0 | 21,35 | 31,55 |   |
-| 55 t/m 59 jaar | 119,32 | 15,83 | 0 | 26,62 | 36,76 |   |
-| 60 t/m 64 jaar | 121,01 | 20,16 | 0 | 25,16 | 40,75 |   |
-| 65 t/m 69 jaar | 131,89 | 28,48 | 0 | 28,6 | 59,46 |   |
-| 70 t/m 74 jaar | 143,6 | 29,05 | 0 | 30,5 | 74,61 |   |
-| 75 t/m 79 jaar | 159,02 | 24,66 | 0 | 33,22 | 100,92 |   |
-| 80 t/m 84 jaar | 184,14 | 18,29 | 0 | 37,36 | 124,21 |   |
-| 85 t/m 89 jaar | 221,18 | 12,75 | 0 | 41,47 | 144 |   |
-| 90 jaar en ouder | 279,23 | 11,69 | 0 | 43,27 | 167,07 |   |
-
-| Risicoklasse | Gewicht | Gewicht | Gewicht | Gewicht |
-| --- | --- | --- | --- | --- |
-|   | in euro’s | in euro’s | In euro’s | In euro’s |
-|   |   |   |   |   |
-| Mannen | Kraamzorg | Farmaceutische hulp | Hulpmiddelen | Totale overige prestaties |
-| 0 t/m 4 jaar | 0 | 240,29 | 54,62 | 521,00 |
-| 5 t/m 9 jaar | 0 | 212,38 | 59,07 | 569,60 |
-| 10 t/m 14 jaar | 0 | 217,22 | 56,51 | 533,30 |
-| 15 t/m 19 jaar | 0 | 226,25 | 47,62 | 555,94 |
-| 20 t/m 24 jaar | 0 | 220,1 | 39,63 | 448,38 |
-| 25 t/m 29 jaar | 0 | 227,71 | 41,38 | 402,17 |
-| 30 t/m 34 jaar | 0 | 243,04 | 43,43 | 424,66 |
-| 35 t/m 39 jaar | 0 | 269,58 | 48,42 | 465,53 |
-| 40 t/m 44 jaar | 0 | 287,11 | 51,64 | 494,17 |
-| 45 t/m 49 jaar | 0 | 321,12 | 62,19 | 550,95 |
-| 50 t/m 54 jaar | 0 | 342,27 | 71,12 | 592,82 |
-| 55 t/m 59 jaar | 0 | 388,01 | 88,04 | 674,58 |
-| 60 t/m 64 jaar | 0 | 413,29 | 96,53 | 716,90 |
-| 65 t/m 69 jaar | 0 | 480,75 | 142,6 | 871,78 |
-| 70 t/m 74 jaar | 0 | 525,33 | 168,19 | 971,28 |
-| 75 t/m 79 jaar | 0 | 560,28 | 209,22 | 1087,32 |
-| 80 t/m 84 jaar | 0 | 596,31 | 260,01 | 1220,32 |
-| 85 t/m 89 jaar | 0 | 627,78 | 334,48 | 1381,66 |
-| 90 jaar en ouder | 0 | 634,65 | 453,76 | 1589,67 |
-
-| Risicoklasse | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s | Gewicht in euro’s |
-| --- | --- | --- | --- | --- | --- |
-|   |   |   |   |   |   |
-| Vrouwen | Huisartsenhulp | Tandheelkundige hulp | Verloskundige hulp | Paramedische hulp | Ziekenvervoer |
-| 0 t/m 4 jaar | 131,94 | 13,4 | 0 | 31,56 | 23,24 |
-| 5 t/m 9 jaar | 107,72 | 82,55 | 0 | 49,23 | 15,42 |
-| 10 t/m 14 jaar | 101,11 | 108,97 | 0 | 30,26 | 17,77 |
-| 15 t/m 19 jaar | 119,22 | 132,8 | 2,16 | 32,94 | 23,4 |
-| 20 t/m 24 jaar | 117,63 | 57,35 | 31,49 | 15,49 | 21,3 |
-| 25 t/m 29 jaar | 120,8 | 2,78 | 89,06 | 15,13 | 24,09 |
-| 30 t/m 34 jaar | 124,21 | 2,83 | 104,62 | 15,44 | 23,42 |
-| 35 t/m 39 jaar | 123,82 | 3,58 | 45,44 | 17,58 | 21,03 |
-| 40 t/m 44 jaar | 123,26 | 5,57 | 6,39 | 20,42 | 21,12 |
-| 45 t/m 49 jaar | 127,58 | 10,25 | 0 | 26,75 | 25,26 |
-| 50 t/m 54 jaar | 130,6 | 17,06 | 0 | 33,6 | 28,59 |
-| 55 t/m 59 jaar | 133,35 | 24,52 | 0 | 40,39 | 32,02 |
-| 60 t/m 64 jaar | 137,1 | 29,43 | 0 | 43,83 | 33,49 |
-| 65 t/m 69 jaar | 147,76 | 35,6 | 0 | 47,19 | 44,61 |
-| 70 t/m 74 jaar | 162,6 | 34,87 | 0 | 55,95 | 55,2 |
-| 75 t/m 79 jaar | 181,14 | 26,13 | 0 | 67,95 | 76,28 |
-| 80 t/m 84 jaar | 208,56 | 16,89 | 0 | 77,59 | 97,42 |
-| 85 t/m 89 jaar | 241,64 | 11,49 | 0 | 84,57 | 120,09 |
-| 90 jaar en ouder | 287,18 | 9,02 | 0 | 84,89 | 132,49 |
-
-| Risicoklasse | Gewicht in euro’s | Gewicht in euro’s | Gewicht In euro’s | Gewicht In euro’s |
-| --- | --- | --- | --- | --- |
-|   |   |   |   |   |
-| Vrouwen | Kraamzorg | Farmaceutische hulp | Hulpmiddelen | Totale overige prestaties |
-| 0 t/m 4 jaar | 0 | 228,14 | 51,86 | 480,14 |
-| 5 t/m 9 jaar | 0 | 212,23 | 53,84 | 520,99 |
-| 10 t/m 14 jaar | 0 | 224,46 | 55,49 | 538,06 |
-| 15 t/m 19 jaar | 1,32 | 260,37 | 49,85 | 622,06 |
-| 20 t/m 24 jaar | 53,34 | 292,36 | 41,95 | 630,91 |
-| 25 t/m 29 jaar | 194,04 | 296,85 | 44,69 | 787,44 |
-| 30 t/m 34 jaar | 251,78 | 295,37 | 45,35 | 863,02 |
-| 35 t/m 39 jaar | 115,23 | 319,43 | 49,23 | 695,34 |
-| 40 t/m 44 jaar | 16,89 | 332,43 | 54 | 580,08 |
-| 45 t/m 49 jaar | 0 | 370,52 | 67,55 | 627,91 |
-| 50 t/m 54 jaar | 0 | 393,43 | 83,09 | 686,37 |
-| 55 t/m 59 jaar | 0 | 433,46 | 104,08 | 767,82 |
-| 60 t/m 64 jaar | 0 | 460,25 | 116,95 | 821,05 |
-| 65 t/m 69 jaar | 0 | 488,68 | 150,04 | 913,88 |
-| 70 t/m 74 jaar | 0 | 519,09 | 182,22 | 1009,93 |
-| 75 t/m 79 jaar | 0 | 543,07 | 242,7 | 1137,27 |
-| 80 t/m 84 jaar | 0 | 551,68 | 313,33 | 1265,47 |
-| 85 t/m 89 jaar | 0 | 562,63 | 390,89 | 1411,31 |
-| 90 jaar en ouder | 0 | 575,8 | 513,3 | 1602,68 |
+| Aard van het inkomen klasse | Aard van het inkomen klasse | Gewichten in euro’s | Gewichten in euro’s |
+| --- | --- | --- | --- |
+| 1. | 0 t/m 14 jaar of 65 jaar en ouder | 0 t/m 14 jaar of 65 jaar en ouder | 0,00 |
+| 2. | [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) | 15–34 jaar | 449,59 |
+|   |   | 35–44 jaar | 450,16 |
+|   |   | 45–54 jaar | 497,61 |
+|   |   | 55–64 jaar | 408,84 |
+| 3. | Bijstand | 15–34 jaar | 155,31 |
+|   |   | 35–44 jaar | 135,71 |
+|   |   | 45–54 jaar | 213,11 |
+|   |   | 55–64 jaar | 150,56 |
+| 4. | [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), [ANW](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) (AWW) | 15–34 jaar | 49,95 |
+|   | en overige uitkeringsgerechtigden | 35–44 jaar | –26,04 |
+|   |   | 45–54 jaar | –83,29 |
+|   |   | 55–64 jaar | –131,28 |
+| 5. | Zelfstandigen | 15–34 jaar | –27,12 |
+|   |   | 35–44 jaar | –53,93 |
+|   |   | 45–54 jaar | –114,11 |
+|   |   | 55–64 jaar | –165,3 |
+| 6. | Referentiegroep | 15–34 jaar | –17,3 |
+|   |   | 35–44 jaar | –29,74 |
+|   |   | 45–54 jaar | –56,11 |
+|   |   | 55–64 jaar | –87,37 |
 
 ## Bijlage 16
 
@@ -2139,7 +1995,7 @@ Voor de sociaal economische statusklasse betrekt het college voor het inkomen de
 
 7. Voor de tweede voorlopige vaststelling van de bijdrage aan een zorgverzekeraar bepaalt het college het aantal verzekerden per FKG 2008 per zorgverzekeraar als volgt:
 
-- a. Uitgangspunt is de opgave van 1 juni 2008 van alle declaraties farmaceutische hulp 2007 van de zorgverzekeraar aan het college. Op basis daarvan bepaalt het college het aantal verzekerden 2007 per FKG 2008 dat in 2007 voldoet aan het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=I&artikel=4&z=2011-09-21&g=2008-09-27).
+- a. Uitgangspunt is de opgave van 1 juni 2008 van alle declaraties farmaceutische hulp 2007 van de zorgverzekeraar aan het college. Op basis daarvan bepaalt het college het aantal verzekerden 2007 per FKG 2008 dat in 2007 voldoet aan het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=I&artikel=4&z=2011-09-21&g=2011-09-21).
 
 - b. Het college bepaalt per zorgverzekeraar de rechtstreeks aan een zorgverzekeraar toe te wijzen verzekerden 2007 in 2008 per FKG 2008 met behulp van een koppeling op basis van het gepseudonimiseerde BSN, de in het eerste lid genoemde bestanden en de opgave van de zorgverzekeraar genoemd onder a.
 
@@ -2151,7 +2007,7 @@ Voor de sociaal economische statusklasse betrekt het college voor het inkomen de
 
 8. Voor de tweede voorlopige vaststelling van de bijdrage aan een zorgverzekeraar bepaalt het college het aantal verzekerden per DKG 2008 per zorgverzekeraar als volgt:
 
-- a. Uitgangspunt is de opgave van de zorgverzekeraar per 1 juni 2009 van de declaraties van alle DBC’s die in 2007 geopend zijn. Op basis daarvan bepaalt het college het aantal verzekerden per DKG 2008 volgens de indeling in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=I&artikel=4&z=2011-09-21&g=2008-09-27).
+- a. Uitgangspunt is de opgave van de zorgverzekeraar per 1 juni 2009 van de declaraties van alle DBC’s die in 2007 geopend zijn. Op basis daarvan bepaalt het college het aantal verzekerden per DKG 2008 volgens de indeling in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=I&artikel=4&z=2011-09-21&g=2011-09-21).
 
 - b. Het college bepaalt per zorgverzekeraar de rechtstreeks aan een zorgverzekeraar toe te wijzen verzekerden 2007 in 2008 per DKG 2008 met behulp van een koppeling op basis van het gepseudonimiseerde BSN, de in het eerste lid genoemde bestanden en de opgave van de zorgverzekeraar genoemd onder a.
 
@@ -2171,17 +2027,17 @@ Voor de sociaal economische statusklasse betrekt het college voor het inkomen de
 
 1. Het college hanteert bij de tweede voorlopige herberekening van het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2008 als uitgangspunten:
 
-- a. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per risicoklasse 2008 naar leeftijd en geslacht, zoals vermeld in [bijlage 24](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=24&z=2011-09-21&g=2008-09-27) van deze beleidsregels;
+- a. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per risicoklasse 2008 naar leeftijd en geslacht, zoals vermeld in [bijlage 24](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=24&z=2011-09-21&g=2011-09-21) van deze beleidsregels;
 
-- b. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per FKG 0 t/m 20 2008, zoals vermeld in [bijlage 25](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=25&z=2011-09-21&g=2008-09-27) van deze beleidsregels;
+- b. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per FKG 0 t/m 20 2008, zoals vermeld in [bijlage 25](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=25&z=2011-09-21&g=2011-09-21) van deze beleidsregels;
 
-- c. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per DKG 0 t/m 13 2008, zoals vermeld in [bijlage 26](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=26&z=2011-09-21&g=2008-09-27) van deze beleidsregels;
+- c. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per DKG 0 t/m 13 2008, zoals vermeld in [bijlage 26](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=26&z=2011-09-21&g=2011-09-21) van deze beleidsregels;
 
-- d. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per aard van het inkomenklasse 2008, zoals vermeld in [bijlage 27](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=27&z=2011-09-21&g=2008-09-27) van deze beleidsregels;
+- d. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per aard van het inkomenklasse 2008, zoals vermeld in [bijlage 27](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=27&z=2011-09-21&g=2011-09-21) van deze beleidsregels;
 
-- e. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per regioklasse 2008, zoals vermeld in [bijlage 28](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=28&z=2011-09-21&g=2008-09-27) van deze beleidsregels;
+- e. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per regioklasse 2008, zoals vermeld in [bijlage 28](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=28&z=2011-09-21&g=2011-09-21) van deze beleidsregels;
 
-- f. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per sociaal economische statusklasse 2008, genoemd in [bijlage 29](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=29&z=2011-09-21&g=2008-09-27) van deze beleidsregels.
+- f. de gewichten variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp per verzekerde per sociaal economische statusklasse 2008, genoemd in [bijlage 29](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=29&z=2011-09-21&g=2011-09-21) van deze beleidsregels.
 
 2. Het college bepaalt de variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2008 met inachtneming van de [artikelen 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.7), [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.8) en [3.9, van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.9).
 
@@ -2221,7 +2077,7 @@ Voor de sociaal economische statusklasse betrekt het college voor het inkomen de
 
 2. Het college herberekent het tweede voorlopige deelbedrag vaste kosten van ziekenhuisverpleging 2008 per zorgverzekeraar als volgt:
 
-- a. De vaste kosten van ziekenhuisverpleging 2007 worden per zorgverzekeraar gedeeld door het aantal verzekerden 2008, vastgesteld met toepassing van [artikel 22b, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=IIIa&artikel=22b&z=2011-09-21&g=2008-09-27). Dit vormt het herberekende zorgverzekeraarspecifieke bedrag vaste kosten van ziekenhuisverpleging per verzekerde 2008.
+- a. De vaste kosten van ziekenhuisverpleging 2007 worden per zorgverzekeraar gedeeld door het aantal verzekerden 2008, vastgesteld met toepassing van [artikel 22b, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=IIIa&artikel=22b&z=2011-09-21&g=2011-09-21). Dit vormt het herberekende zorgverzekeraarspecifieke bedrag vaste kosten van ziekenhuisverpleging per verzekerde 2008.
 
 - b. Het in onderdeel a opnieuw berekende zorgverzekeraarspecifieke bedrag vaste kosten van ziekenhuisverpleging per verzekerde 2008 wordt vermenigvuldigd met het totaal aantal verzekerden 2008 per zorgverzekeraar.
 
@@ -2233,7 +2089,7 @@ Voor de sociaal economische statusklasse betrekt het college voor het inkomen de
 
 1. Het college bepaalt per zorgverzekeraar en voor het totaal van de zorgverzekeraars overeenkomstig [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.7), [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.8) en [3.11 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.11), de kosten van geneeskundige geestelijke gezondheidszorg 2008.
 
-2. Het college herberekent op grond van de uitkomsten van [artikel 22b](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=IIIa&artikel=22b&z=2011-09-21&g=2008-09-27) het normatieve bedrag geneeskundige geestelijke gezondheidszorg 2008 voor het totaal van alle verzekerden 2008 van alle zorgverzekeraars op de wijze zoals beschreven in [artikel 10, eerste tot en met het zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=10&z=2011-09-21&g=2008-09-27). Daarna calculeert het college per zorgverzekeraar 100 procent na op het verschil tussen de kosten van geneeskundige geestelijke gezondheidszorg 2008, verkregen in het eerste lid en het resultaat van het tweede lid.
+2. Het college herberekent op grond van de uitkomsten van [artikel 22b](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=IIIa&artikel=22b&z=2011-09-21&g=2011-09-21) het normatieve bedrag geneeskundige geestelijke gezondheidszorg 2008 voor het totaal van alle verzekerden 2008 van alle zorgverzekeraars op de wijze zoals beschreven in [artikel 10, eerste tot en met het zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=10&z=2011-09-21&g=2011-09-21). Daarna calculeert het college per zorgverzekeraar 100 procent na op het verschil tussen de kosten van geneeskundige geestelijke gezondheidszorg 2008, verkregen in het eerste lid en het resultaat van het tweede lid.
 
 3. Het resultaat van het derde lid wordt aangeduid als het tweede voorlopige herberekende deelbedrag geneeskundige geestelijke gezondheidszorg 2008.
 
@@ -2241,21 +2097,21 @@ Voor de sociaal economische statusklasse betrekt het college voor het inkomen de
 
 1. Voor de tweede voorlopige herberekening van het deelbedrag kosten van overige prestaties hanteert het college als uitgangspunten:
 
-- a. de gewichten kosten van overige prestaties per verzekerde per risicoklasse 2008 naar leeftijd en geslacht, zoals vermeld in [bijlage 30](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=30&z=2011-09-21&g=2008-09-27) van deze beleidsregels;
+- a. de gewichten kosten van overige prestaties per verzekerde per risicoklasse 2008 naar leeftijd en geslacht, zoals vermeld in [bijlage 30](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=30&z=2011-09-21&g=2011-09-21) van deze beleidsregels;
 
-- b. de gewichten kosten van overige prestaties per verzekerde per FKG 2008, zoals vermeld in [bijlage 31](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=31&z=2011-09-21&g=2008-09-27) van deze beleidsregels;
+- b. de gewichten kosten van overige prestaties per verzekerde per FKG 2008, zoals vermeld in [bijlage 31](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=31&z=2011-09-21&g=2011-09-21) van deze beleidsregels;
 
-- c. de gewichten kosten van overige prestaties per verzekerde per DKG 2008, zoals vermeld in [bijlage 32](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=32&z=2011-09-21&g=2008-09-27) van deze beleidsregels;
+- c. de gewichten kosten van overige prestaties per verzekerde per DKG 2008, zoals vermeld in [bijlage 32](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=32&z=2011-09-21&g=2011-09-21) van deze beleidsregels;
 
-- d. de gewichten kosten van overige prestaties per verzekerde per aard van het inkomenklasse 2008, zoals vermeld in [bijlage 33](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=33&z=2011-09-21&g=2008-09-27) van deze beleidsregels;
+- d. de gewichten kosten van overige prestaties per verzekerde per aard van het inkomenklasse 2008, zoals vermeld in [bijlage 33](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=33&z=2011-09-21&g=2011-09-21) van deze beleidsregels;
 
-- e. de gewichten kosten van overige prestaties per verzekerde per regioklasse 2008, zoals vermeld in [bijlage 34](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=34&z=2011-09-21&g=2008-09-27) van deze beleidsregels;
+- e. de gewichten kosten van overige prestaties per verzekerde per regioklasse 2008, zoals vermeld in [bijlage 34](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=34&z=2011-09-21&g=2011-09-21) van deze beleidsregels;
 
-- f. de gewichten kosten van overige prestaties per verzekerde per sociaal economische statusklasse 2008, genoemd in [bijlage 35](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=35&z=2011-09-21&g=2008-09-27) van deze beleidsregels.
+- f. de gewichten kosten van overige prestaties per verzekerde per sociaal economische statusklasse 2008, genoemd in [bijlage 35](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&bijlage=35&z=2011-09-21&g=2011-09-21) van deze beleidsregels.
 
 2. Het college bepaalt de kosten van overige prestaties 2008 met inachtneming van de [artikelen 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.7) en [3.8, van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.8).
 
-3. Het college herberekent het normatieve bedrag kosten van overige prestaties 2008 voor het totaal van alle verzekerden 2008 van alle zorgverzekeraars op de wijze zoals beschreven in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=11&z=2011-09-21&g=2008-09-27), gebruik makend van de gewichten uit het eerste lid.
+3. Het college herberekent het normatieve bedrag kosten van overige prestaties 2008 voor het totaal van alle verzekerden 2008 van alle zorgverzekeraars op de wijze zoals beschreven in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=11&z=2011-09-21&g=2011-09-21), gebruik makend van de gewichten uit het eerste lid.
 
 4. Het college herberekent de schalingsfactor kosten van overige prestaties 2008 door de som van de kosten van overige prestaties 2008 van alle zorgverzekeraars, zoals bepaald in het tweede lid, te delen door het normatieve bedrag kosten van overige prestaties 2008 voor het totaal van alle verzekerden 2008 van alle zorgverzekeraars, als berekend in het derde lid.
 
@@ -2281,7 +2137,7 @@ Voor de sociaal economische statusklasse betrekt het college voor het inkomen de
 
 1. Uitgangspunt voor de tweede voorlopige herberekening van de opbrengst van het normatieve eigen risico is de opgave van de verzekerdenaantallen van de zorgverzekeraar van 1 juni 2008.
 
-2. Het college herberekent op de wijze zoals beschreven in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=12&z=2011-09-21&g=2008-09-27) de normatieve eigen risico opbrengst 2008 op basis van de werkelijke verzekerdenaantallen 2008.
+2. Het college herberekent op de wijze zoals beschreven in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=II&artikel=12&z=2011-09-21&g=2011-09-21) de normatieve eigen risico opbrengst 2008 op basis van de werkelijke verzekerdenaantallen 2008.
 
 ##### Artikel 22h. De tweede voorlopige herberekening van het normatieve bedrag 2008 en de tweede voorlopige herberekening en tweede voorlopige vaststelling van de bijdrage 2008
 
@@ -2293,7 +2149,7 @@ Voor de sociaal economische statusklasse betrekt het college voor het inkomen de
 
 4. Het college herberekent voor de tweede maal voorlopig de aanvulling op de bijdrage voor de uitkering in verband met uitvoeringskosten van verzekerden jonger dan 18 jaar door het aantal verzekerden jonger dan 18 jaar in 2008 te vermenigvuldigen met 50 euro.
 
-5. Het college herberekent de bijdrage 2008 voor de tweede maal voorlopig door de som van het herberekende normatieve bedrag 2008 bedoeld in het eerste lid en de aanvulling voor uitvoeringskosten van verzekerden jonger dan 18 jaar bedoeld in het vierde lid te verminderen met de voor de tweede maal voorlopig herberekende normatieve eigen risico opbrengst bedoeld in [artikel 22g](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=IIIa&artikel=22g&z=2011-09-21&g=2008-09-27) en de opbrengst van de nominale rekenpremie, bedoeld in het derde lid.
+5. Het college herberekent de bijdrage 2008 voor de tweede maal voorlopig door de som van het herberekende normatieve bedrag 2008 bedoeld in het eerste lid en de aanvulling voor uitvoeringskosten van verzekerden jonger dan 18 jaar bedoeld in het vierde lid te verminderen met de voor de tweede maal voorlopig herberekende normatieve eigen risico opbrengst bedoeld in [artikel 22g](https://wetten.overheid.nl/jci1.3:c:BWBR0022608&hoofdstuk=IIIa&artikel=22g&z=2011-09-21&g=2011-09-21) en de opbrengst van de nominale rekenpremie, bedoeld in het derde lid.
 
 6. Het college stelt de bijdrage 2008 voor de tweede maal voorlopig vast ter hoogte van de in het vorige lid berekende bijdrage.
 
@@ -2316,7 +2172,7 @@ De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening va
 | Aard van het inkomen klasse | Aard van het inkomen klasse |   | Gewichten in euro’s |
 | --- | --- | --- | --- |
 | 1. | 0 t/m 14 jaar of 65 jaar en ouder |   | 0,00 |
-| 2. | [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&wetgeving) | 15–34 jaar | 372,19 |
+| 2. | [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) | 15–34 jaar | 372,19 |
 |   |   | 35–44 jaar | 409,53 |
 |   |   | 45–54 jaar | 448,71 |
 |   |   | 55–64 jaar | 375,41 |
