@@ -4,7 +4,7 @@ identifier: "BWBR0007331"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2011-06-30"
+last_updated: "2011-09-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007331"
 soort: "ministeriele-regeling"
@@ -204,7 +204,7 @@ Besluit:
 
 - 3. van km 95.800 tot km 99.000;
 
-- 4. van km 111,000 tot km 112,600;
+- 4. van km 111,000 tot km 113.700;
 
 - 5. van km 114.300 tot km 118.500;
 
@@ -414,7 +414,7 @@ Besluit:
 
 - 3. van km 95.800 tot km 99.000;
 
-- 4. van km 111,000 tot km 112,600;
+- 4. van km 111.000 tot km 113.700;
 
 - 5. van km 128.000 tot km 140.300;
 
@@ -494,4 +494,4 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 - d. de Noord.
 
-2. Op de Nieuwe Maas van km 989.000 tot km 991.700 en op de Noord is [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007331&artikel=1&z=2011-06-30&g=2011-06-30), van overeenkomstige toepassing.
+2. Op de Nieuwe Maas van km 989.000 tot km 991.700 en op de Noord is [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007331&artikel=1&z=2011-09-22&g=2011-09-22), van overeenkomstige toepassing.
