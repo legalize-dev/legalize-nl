@@ -4,7 +4,7 @@ identifier: "BWBR0023740"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-09-24"
-last_updated: "2010-07-01"
+last_updated: "2011-09-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023740"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-In geval van toepasselijkheid van [artikel 38c, vierde lid, van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=38c) dient voor een benoeming als rechterlijk ambtenaar, bedoeld in [artikel 1, onderdeel b, onder 4° tot en met 6°, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=1), kennis van en inzicht in het strafrecht, met inbegrip van het strafprocesrecht, te zijn verkregen door het met goed gevolg afgelegd hebben van tentamens voor de volgende door een universiteit als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682), aangeboden:
+In geval van toepasselijkheid van [artikel 2a, vierde lid, van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=2a) dient voor een benoeming als rechterlijk ambtenaar, bedoeld in [artikel 1, onderdeel b, onder 5° tot en met 7°, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=1), kennis van en inzicht in het strafrecht, met inbegrip van het strafprocesrecht, te zijn verkregen door het met goed gevolg afgelegd hebben van tentamens voor de volgende door een universiteit als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682), aangeboden:
 
 - a. onderwijseenheden op het gebied van het strafrecht met een studielast van in totaal tenminste 10 studiepunten als bedoeld in [artikel 7.4, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.4), en
 
