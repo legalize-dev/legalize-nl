@@ -4,7 +4,7 @@ identifier: "BWBR0014964"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-08-01"
-last_updated: "2010-10-01"
+last_updated: "2011-09-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014964"
 soort: "AMvB"
@@ -66,7 +66,7 @@ Als sectoren als bedoeld in [artikel 5, tweede lid, van de wet](https://wetten.o
 
 ##### Artikel 4
 
-Als inrichtingen als bedoeld in [artikel 7, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=7), worden aangewezen:
+Als inrichtingen of bedrijven als bedoeld in [artikel 7, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=7), worden aangewezen:
 
 - a. inrichtingen waarin bedrijfsmatig, in een omvang alsof zij bedrijfsmatig was of anders dan om niet, logies wordt verstrekt, dranken worden geschonken, of rookwaren of spijzen voor directe consumptie worden verstrekt,
 
@@ -74,9 +74,11 @@ Als inrichtingen als bedoeld in [artikel 7, tweede lid, van de wet](https://wett
 
 - c. een natuurlijke persoon, een groep van natuurlijke personen of een rechtspersoon die bedrijfsmatig, in een omvang alsof zij bedrijfsmatig was of anders dan om niet seksuele handelingen verricht of seksuele diensten aanbiedt in een andere ruimte dan de bedrijfsruimte,
 
-- d. inrichtingen die in het maatschappelijk verkeer worden aangeduid als smartshops of growshops, en
+- d. inrichtingen die in het maatschappelijk verkeer worden aangeduid als smartshops, headshops of growshops, en
 
-- e. inrichtingen die zijn bestemd om het publiek de gelegenheid te geven een spel door middel van speelautomaten te beoefenen als bedoeld in [artikel 30c, eerste lid, onderdeel c, van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30c).
+- e. inrichtingen die zijn bestemd om het publiek de gelegenheid te geven een spel door middel van speelautomaten te beoefenen als bedoeld in [artikel 30c, eerste lid, onderdeel b, van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30c),
+
+- f. een natuurlijk persoon, een groep van natuurlijke personen of een rechtspersoon die bedrijfsmatig, in een omvang alsof zij bedrijfsmatig was of anders dan om niet, evenementen organiseert.
 
 ##### Artikel 5
 
@@ -104,21 +106,21 @@ Als bestuursorganen als bedoeld in [artikel 27, eerste lid, onderdeel i, van de 
 
 ##### Artikel 7
 
-1. De bestuursorganen, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014964&artikel=6&z=2010-10-01&g=2010-10-01), en de bestuursorganen, genoemd in [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=27), verstrekken de gegevens, bedoeld in de aanhef van [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=27), binnen twee weken nadat het Bureau om verstrekking heeft gevraagd.
+1. De bestuursorganen, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014964&artikel=6&z=2011-09-24&g=2011-09-24), en de bestuursorganen, genoemd in [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=27), verstrekken de gegevens, bedoeld in de aanhef van [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=27), binnen twee weken nadat het Bureau om verstrekking heeft gevraagd.
 
 2. Indien de gegevens niet binnen twee weken kunnen worden verstrekt, stelt het desbetreffende bestuursorgaan het Bureau daarvan in kennis en noemt het daarbij een termijn waarbinnen de gegevens wel tegemoet kunnen worden gezien. Deze termijn bedraagt niet meer dan twee weken na afloop van de termijn, genoemd in het eerste lid.
 
 ##### Artikel 8
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met uitzondering van [artikel 6, onderdelen b. en c.](https://wetten.overheid.nl/jci1.3:c:BWBR0014964&artikel=6&z=2010-10-01&g=2010-10-01), dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met uitzondering van [artikel 6, onderdelen b. en c.](https://wetten.overheid.nl/jci1.3:c:BWBR0014964&artikel=6&z=2011-09-24&g=2011-09-24), dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 9
 
-Dit besluit wordt aangehaald als: Besluit BIBOB.
+Dit besluit wordt aangehaald als: Besluit Bibob.
 
-## Bijlage. als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014964&artikel=2&z=2010-10-01&g=2010-10-01) van het Besluit BIBOB
+## Bijlage. als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014964&artikel=2&z=2011-09-24&g=2011-09-24) van het Besluit Bibob
 
-### Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
+### Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK)
 
 – Stichting Administratie Indonesische Pensioenen
 
@@ -128,7 +130,7 @@ Dit besluit wordt aangehaald als: Besluit BIBOB.
 
 – Nederlands instituut fysieke veiligheid (Nifv)
 
-### Ministerie van Economische Zaken
+### Ministerie van Sociale Zaken en Werkgelegenheid (SZW)
 
 – Kamers van Koophandel en Fabrieken
 
@@ -327,5 +329,19 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 ### Ministerie van Verkeer en Waterstaat
 
 ### Ministerie van Volksgezondheid, Welzijn en Sport
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+### Ministerie van Economische Zaken, Landbouw en Innovatie (EL&I)
+
+### Ministerie van Financiën
+
+### Ministerie van Infrastructuur en Milieu (I&M)
+
+### Ministerie van Onderwijs, Cultuur en Wetenschap (OCW)
+
+### Ministerie van Veiligheid en Justitie (V&J)
+
+### Ministerie van Volksgezondheid, Welzijn en Sport (VWS)
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
