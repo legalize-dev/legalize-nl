@@ -4,7 +4,7 @@ identifier: "BWBR0020233"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-09-27"
-last_updated: "2006-01-01"
+last_updated: "2011-09-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020233"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-De [Levensloopregeling rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0018979) is, met uitzondering van de [artikelen 2.1.5, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0018979&artikel=2.1.5), [7.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0018979&artikel=7.1.1) en [7.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0018979&artikel=7.2.1), van overeenkomstige toepassing op de rechterlijk ambtenaar, die is aangesteld of aangewezen voor het vervullen van een volledige of gedeeltelijke taak, en de rechterlijk ambtenaar in opleiding, met dien verstande dat:
+De [Levensloopregeling rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0018979) is, met uitzondering van de [artikelen 2.1.5, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0018979&artikel=2.1.5), [7.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0018979&artikel=7.1.1) en [7.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0018979&artikel=7.2.1), van overeenkomstige toepassing op de rechterlijk ambtenaar, die is aangesteld of aangewezen voor een al dan niet volledige arbeidsduur, en de rechterlijk ambtenaar in opleiding, met dien verstande dat:
 
 - a. onder ambtenaar wordt verstaan: de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding;
 
@@ -52,7 +52,7 @@ De [Levensloopregeling rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 - d. onder vakantie wordt verstaan: hetgeen daaronder wordt verstaan in de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365); en
 
-- e. onder de vergoeding op grond van [artikel 22, vijftiende lid, van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=22) wordt verstaan: de vergoeding op grond van [artikel 27a, zesde lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=27a);
+- e. onder de vergoeding op grond van [artikel 22, vijftiende lid, van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=22) wordt verstaan: de vergoeding op grond van [artikel 33d, vierde lid, van het Besluit rechtspositie rechterlijk ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=33d);
 
 ##### Artikel 2
 
