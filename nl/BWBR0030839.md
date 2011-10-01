@@ -63,9 +63,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 Deze regeling wordt aangehaald als: Regeling bekostiging leerlingen die tijdelijk buiten de school worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a. Omhangbepaling
-
-Deze regeling berust op [artikel 8, eerste lid, onderdeel b, van het Besluit bekostiging WVO 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045100&artikel=8).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
