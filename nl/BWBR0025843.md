@@ -4,7 +4,7 @@ identifier: "BWBR0025843"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-02-01"
-last_updated: "2009-05-20"
+last_updated: "2011-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025843"
 soort: "ministeriele-regeling"
@@ -64,41 +64,15 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Voorwaarden aanvraag
 
-De rechtspersoon dient dan wel de rechtspersonen gezamenlijk dienen een aanvraag als bedoeld in [artikel 2.1.3, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.3) in bij de minister. De aanvraag gaat vergezeld van:
-
-- a. een door de rechtspersoon dan wel rechtspersonen opgestelde fusie-effectrapportage, en
-
-- b. een schriftelijk advies over de fusie van de betrokken medezeggenschapsraden.
+Vervallen
 
 ##### Artikel 3. Fusie-effectrapportage
 
-De fusie-effectrapportage, bedoeld in [artikel 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025843&paragraaf=2&artikel=2&z=2009-05-20&g=2009-05-20), bevat een weergave van:
-
-- a. de noodzaak van de fusie,
-
-- b. de alternatieven voor de fusie,
-
-- c. het tijdsbestek waarbinnen de fusie zal worden gerealiseerd,
-
-- d. de te bereiken doelen,
-
-- e. de effecten van de fusie, in het bijzonder de effecten van de fusie op de spreiding en omvang van de betrokken instellingen in de regio, de onderwijskundige en bestuurlijke diversiteit van het onderwijsaanbod in de regio en de keuzevrijheid van deelnemers in de regio,
-
-- f. de kosten en baten van de fusie,
-
-- g. de personele en financiële gevolgen van de fusie, waaronder begrepen de gevolgen voor de dienstverlening aan deelnemers,
-
-- h. de uitkomsten van het draagvlak-onderzoek dat verricht is onder zowel interne als externe stakeholders,
-
-- i. de wijze waarop over de fusie wordt gecommuniceerd, en
-
-- j. de wijze waarop de fusie wordt geëvalueerd.
+Vervallen
 
 ##### Artikel 4. Instemmingssvereisten
 
-1. De minister onthoudt zijn instemming aan een fusie tenzij in voldoende mate is komen vast te staan dat de continuïteit van één of meer van de desbetreffende instellingen in het geding is.
-
-2. Indien de uitzondering, bedoeld in het eerste lid, zich voordoet, kan de minister zijn instemming onthouden indien als gevolg van de fusie de daadwerkelijke variatie van het onderwijsaanbod, zowel in het opzicht van opleidingenaanbod als onderwijsaanbieders in de regio, op significante wijze wordt belemmerd.
+Vervallen
 
 #### § 3. Splitsing
 
@@ -112,7 +86,7 @@ De rechtspersoon dient een aanvraag als bedoeld in [artikel 2.1.3, vierde lid, v
 
 ##### Artikel 6. Effectrapportage splitsing
 
-De effectrapportage splitsing, bedoeld in [artikel 5, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025843&paragraaf=3&artikel=5&z=2009-05-20&g=2009-05-20), bevat een weergave van:
+De effectrapportage splitsing, bedoeld in [artikel 5, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025843&paragraaf=3&artikel=5&z=2011-10-01&g=2011-10-01), bevat een weergave van:
 
 - a. de motieven voor de splitsing,
 
