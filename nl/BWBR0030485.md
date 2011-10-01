@@ -4,7 +4,7 @@ identifier: "BWBR0030485"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-10-01"
-last_updated: "2011-07-01"
+last_updated: "2011-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030485"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Voorschrift Vreemdelingen 2000.
 
 ##### Artikel II
 
@@ -50,6 +50,6 @@ Ter zake van de afdoening van de aanvraag tot het verlenen en verlengen van een 
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling treedt in werking met ingang van 1 oktober 2011, met dien verstande dat [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0030485&artikel=II&z=2011-10-01&g=2011-10-01) terugwerkt tot en met 1 juli 2011.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
