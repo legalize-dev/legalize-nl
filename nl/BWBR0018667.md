@@ -4,7 +4,7 @@ identifier: "BWBR0018667"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-01"
-last_updated: "2005-08-24"
+last_updated: "2011-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018667"
 soort: "ministeriele-regeling"
@@ -48,11 +48,11 @@ In deze regeling wordt verstaan onder:
 
 - a. besluit: [Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982);
 
-- b. beperkte taxidienst: een taxidienst als bedoeld in [artikel 75, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=75), waarbij op vaste tijdstippen en langs dezelfde routes wordt gereden met een vaste groep passagiers;
+- b. beperkte taxidienst: een taxidienst als bedoeld in [artikel 81, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=81), waarbij op vaste tijdstippen en langs dezelfde routes wordt gereden met een vaste groep passagiers;
 
-- c. chauffeurspas: chauffeurspas als bedoeld in [artikel 75 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=75);
+- c. vervallen;
 
-- d. chauffeurspas onder beperkingen: chauffeurspas voor het uitvoeren van een beperkte taxidienst als bedoeld in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&paragraaf=1&artikel=1&z=2005-08-24&g=2005-08-24), van deze regeling;
+- d. vervallen;
 
 - e. CCV: Contactcommissie Chauffeurs Vakbekwaamheid;
 
@@ -62,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-Als getuigschrift als bedoeld in [artikel 76, eerste lid, onderdeel d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=76), worden erkend:
+Als getuigschrift als bedoeld in [artikel 82, eerste lid, onderdeel d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=82), worden erkend:
 
 - a. het door de Stichting Centraal Bureau Rijvaardigheidsbewijzen afgegeven Chauffeursdiploma CCV Taxi Volledig, voor het verrichten van taxivervoer;
 
@@ -70,21 +70,21 @@ Als getuigschrift als bedoeld in [artikel 76, eerste lid, onderdeel d, van het b
 
 ##### Artikel 3
 
-1. Bij het examen vakbekwaamheid voor het besturen van een taxi wordt tenminste de kennis vastgesteld van de in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&bijlage=1&z=2005-08-24&g=2005-08-24) bij deze regeling genoemde onderwerpen.
+1. Bij het examen vakbekwaamheid voor het besturen van een taxi wordt tenminste de kennis vastgesteld van de in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&bijlage=1&z=2011-10-01&g=2011-10-01) bij deze regeling genoemde onderwerpen.
 
 2. Het examen bestaat uit een theorie-examen en een praktijkexamen dat uiteen valt in een praktijkexamen voor taxivervoer en een praktijkexamen voor een beperkte taxidienst.
 
 ##### Artikel 4
 
-1. De bestuurder van een auto waarmee taxivervoer wordt verricht, is vrijgesteld van het theorie-examen, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&paragraaf=2&artikel=3&z=2005-08-24&g=2005-08-24), indien hij in het bezit is van:
+1. De bestuurder van een auto waarmee taxivervoer wordt verricht, is vrijgesteld van het theorie-examen, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&paragraaf=2&artikel=3&z=2011-10-01&g=2011-10-01), indien hij in het bezit is van:
 
 - a. een diploma CCV Taxivervoer, dat is afgegeven vóór 1 augustus 2004, of
 
 - b. een diploma CCV B Beroepspersonenvervoer.
 
-2. De bestuurder van een auto waarmee taxivervoer wordt verricht, is vrijgesteld van het praktijkexamen taxivervoer, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&paragraaf=2&artikel=3&z=2005-08-24&g=2005-08-24), indien hij in het bezit is van een vóór 1 augustus 2004 afgegeven CCV certificaat medegebruik vrije tram- en busbanen gemeente Amsterdam.
+2. De bestuurder van een auto waarmee taxivervoer wordt verricht, is vrijgesteld van het praktijkexamen taxivervoer, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&paragraaf=2&artikel=3&z=2011-10-01&g=2011-10-01), indien hij in het bezit is van een vóór 1 augustus 2004 afgegeven CCV certificaat medegebruik vrije tram- en busbanen gemeente Amsterdam.
 
-3. De bestuurder van een auto waarmee taxivervoer wordt verricht, is vrijgesteld van zowel het theorie-examen als het praktijkexamen, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&paragraaf=2&artikel=3&z=2005-08-24&g=2005-08-24), indien hij in het bezit is van:
+3. De bestuurder van een auto waarmee taxivervoer wordt verricht, is vrijgesteld van zowel het theorie-examen als het praktijkexamen, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&paragraaf=2&artikel=3&z=2011-10-01&g=2011-10-01), indien hij in het bezit is van:
 
 - a. het CCV vakdiploma taxichauffeur, dat is afgegeven vóór 1 juli 2005;
 
@@ -98,49 +98,31 @@ Als getuigschrift als bedoeld in [artikel 76, eerste lid, onderdeel d, van het b
 
 ##### Artikel 5
 
-Bij de aanvraag van een chauffeurspas wordt, naast de in [artikel 76, eerste lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=76), genoemde documenten, een niet beschadigde, recente, goed gelijkende pasfoto van de aanvrager overgelegd van ongeveer 4 cm hoog en 3 cm breed, waarbij het gezicht van voren, tegen een lichte, egale achtergrond is gefotografeerd.
+Vervallen
 
 ##### Artikel 6
 
-In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&paragraaf=3&artikel=5&z=2005-08-24&g=2005-08-24), kan degene die in het bezit is van een chauffeurspas waarvan de geldigheidsduur niet is verstreken, een duplicaat chauffeurspas met dezelfde einddatum van geldigheid aanvragen, indien sprake is van wijziging van de op de chauffeurspas vermelde gegevens, onder overlegging van:
-
-- 1°. een kopie van het rijbewijs met de gewijzigde gegevens; en indien het een naamswijziging betreft,
-
-- 2°. een kopie van het besluit van naamswijziging. In dit geval wordt de oorspronkelijke chauffeurspas ingetrokken.
+Vervallen
 
 ##### Artikel 7
 
-In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&paragraaf=3&artikel=5&z=2005-08-24&g=2005-08-24) kan degene die in het bezit is van een chauffeurspas waarvan de geldigheidsduur niet is verstreken, een duplicaat chauffeurspas met dezelfde einddatum van geldigheid aanvragen, indien de chauffeurspas versleten of geheel of ten dele onleesbaar is.
-
-In dit geval wordt de oorspronkelijke chauffeurspas ingetrokken.
+Vervallen
 
 ##### Artikel 8
 
-1. In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&paragraaf=3&artikel=5&z=2005-08-24&g=2005-08-24) kan degene wiens chauffeurspas, waarvan de geldigheid niet is verstreken, verloren is geraakt of teniet is gegaan, een duplicaat chauffeurspas met dezelfde einddatum van geldigheid aanvragen, onder overlegging van een proces-verbaal van aangifte van diefstal of verlies. In dit geval wordt de oorspronkelijke chauffeurspas ingetrokken.
-
-2. Zodra een verloren geraakte chauffeurspas weer in het bezit is van degene aan wie een duplicaat chauffeurspas als bedoeld in het eerste lid, is verstrekt, wordt de oorspronkelijke chauffeurspas onverwijld door hem ingeleverd bij de minister.
+Vervallen
 
 ##### Artikel 9
 
-1. Verstrekking van een chauffeurspas aan de aanvrager geschiedt op vertoon van:
-
-- a. een op naam van de aanvrager gesteld rijbewijs als bedoeld in de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622) dan wel een door het bevoegde gezag buiten Nederland afgegeven rijbewijs, dat geldig is voor het besturen van het motorrijtuig waarmee wordt gereden;
-
-- b. het aan hem verstrekte en door hem ondertekende afhaalbericht, waarop vermeld staat op welke wijze de chauffeurspas kan worden afgehaald.
-
-2. Bij machtiging voor verstrekking als bedoeld in het eerste lid, toont de gemachtigde tevens zijn legitimatiebewijs.
-
-3. Bij aanvragen als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&paragraaf=3&artikel=6&z=2005-08-24&g=2005-08-24) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&paragraaf=3&artikel=7&z=2005-08-24&g=2005-08-24) wordt een chauffeurspas niet eerder verstrekt dan nadat de aanvrager de oorspronkelijke chauffeurspas, bedoeld in die artikelen heeft ingeleverd.
+Vervallen
 
 ##### Artikel 10
 
-1. De [artikelen 5 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&paragraaf=3&artikel=5&z=2005-08-24&g=2005-08-24) zijn van overeenkomstige toepassing op de aanvraag en verstrekking van een chauffeurspas onder beperkingen of een duplicaat chauffeurspas onder beperkingen.
-
-2. In afwijking van het eerste lid kan degene die in het bezit is van een chauffeurspas onder beperkingen, een duplicaat chauffeurspas met dezelfde einddatum van geldigheid aanvragen onder overlegging van het document genoemd in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&paragraaf=2&artikel=2&z=2005-08-24&g=2005-08-24), van deze regeling.
+Vervallen
 
 ##### Artikel 11
 
-De modellen voor de chauffeurspas en de chauffeurspas onder beperkingen zijn opgenomen in de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&bijlage=2&z=2005-08-24&g=2005-08-24) respectievelijk [3](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&bijlage=3&z=2005-08-24&g=2005-08-24) bij deze regeling.
+Vervallen
 
 #### § 4. Wijziging en intrekking van andere regelingen
 
@@ -160,7 +142,7 @@ De [Regeling chauffeurspas taxivervoer](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 ##### Artikel 15
 
-Degene die een chauffeurspas onder beperkingen of een duplicaat daarvan aanvraagt en in het bezit is van een chauffeurpas als bedoeld in [artikel II, tweede lid, van het Besluit van 2 juni 2004 houdende wijziging van het Besluit personenvervoer 2000 in verband met de invoering van het vereiste van vakbekwaamheid voor de taxibestuurder](https://wetten.overheid.nl/jci1.3:c:BWBR0016801&artikel=II) (Stb. 252) behoeft in afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&paragraaf=3&artikel=5&z=2005-08-24&g=2005-08-24) slechts een getuigschrift als bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&paragraaf=2&artikel=2&z=2005-08-24&g=2005-08-24), van deze regeling te overleggen.
+Degene die een chauffeurspas onder beperkingen of een duplicaat daarvan aanvraagt en in het bezit is van een chauffeurpas als bedoeld in [artikel II, tweede lid, van het Besluit van 2 juni 2004 houdende wijziging van het Besluit personenvervoer 2000 in verband met de invoering van het vereiste van vakbekwaamheid voor de taxibestuurder](https://wetten.overheid.nl/jci1.3:c:BWBR0016801&artikel=II) (Stb. 252) behoeft in afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&paragraaf=3&artikel=5&z=2011-10-01&g=2011-10-01) slechts een getuigschrift als bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&paragraaf=2&artikel=2&z=2011-10-01&g=2011-10-01), van deze regeling te overleggen.
 
 ##### Artikel 16
 
@@ -170,7 +152,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling wordt aangehaald als: Regeling taxibestuurders 2005.
 
-## Bijlage 1. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&paragraaf=2&artikel=3&z=2005-08-24&g=2005-08-24) van de Regeling taxibestuurders 2005
+## Bijlage 1. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&paragraaf=2&artikel=3&z=2011-10-01&g=2011-10-01) van de Regeling taxibestuurders 2005
 
 Bij het examen vakbekwaamheid voor het besturen van een taxi worden in ieder geval de kennis en vaardigheden vastgesteld van de hiernavolgende onderwerpen.
 
@@ -276,8 +258,12 @@ De kandidaat moet:
 
 De kandidaat moet het Europees schadeformulier juist kunnen invullen.
 
-## Bijlage 2. behorende bij [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&paragraaf=3&artikel=11&z=2005-08-24&g=2005-08-24) van de Regeling taxibestuurders 2005
+## Bijlage 2. behorende bij artikel 11 van de Regeling taxibestuurders 2005
 
-## Bijlage 3. behorende bij [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&paragraaf=3&artikel=11&z=2005-08-24&g=2005-08-24) van de Regeling taxibestuurders 2005
+Vervallen
+
+## Bijlage 3. behorende bij artikel 11 van de Regeling taxibestuurders 2005
+
+Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
