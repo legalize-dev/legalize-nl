@@ -4,7 +4,7 @@ identifier: "BWBR0031021"
 country: "nl"
 rank: "wet"
 publication_date: "2015-06-30"
-last_updated: "2011-07-01"
+last_updated: "2011-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031021"
 soort: "wet"
@@ -114,7 +114,7 @@ Wijzigt de Belastingwet BES.
 
 ##### Artikel XV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Douane- en Accijnswet BES.
 
 ##### Artikel XVI
 
