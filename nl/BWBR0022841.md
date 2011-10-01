@@ -4,7 +4,7 @@ identifier: "BWBR0022841"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2011-07-01"
+last_updated: "2011-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022841"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 - h. netwerk palliatieve zorg: netwerk ten behoeve van de versterking van de onderlinge samenwerking tussen de bij de palliatieve terminale zorg betrokken organisaties en personen;
 
-- i. netwerkregio: de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2011-07-01&g=2011-07-01) bij de desbetreffende instelling genoemde gemeenten;
+- i. netwerkregio: de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2011-10-01&g=2011-10-01) bij de desbetreffende instelling genoemde gemeenten;
 
 - j. betaalde coördinatie: coördinatie van de inzet van vrijwilligers die palliatieve terminale zorg in de thuissituatie verlenen, door een persoon in dienstverband met de instelling.
 
@@ -132,9 +132,9 @@ De Minister kan jaarlijks op aanvraag een instellingssubsidie verstrekken voor h
 
 1. De instellingssubsidie wordt berekend door:
 
-- a. € 12.100.000 zodanig te verdelen onder de instellingen waaraan de instellingssubsidie wordt verstrekt dat elke instelling per cliënt hetzelfde percentage van het desbetreffende maximumbedrag, genoemd in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.1&artikel=6&z=2011-07-01&g=2011-07-01), voor de exploitatiecomponent ontvangt;
+- a. € 12.100.000 zodanig te verdelen onder de instellingen waaraan de instellingssubsidie wordt verstrekt dat elke instelling per cliënt hetzelfde percentage van het desbetreffende maximumbedrag, genoemd in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.1&artikel=6&z=2011-10-01&g=2011-10-01), voor de exploitatiecomponent ontvangt;
 
-- b. € 2.000.000 zodanig te verdelen onder de instellingen waaraan de instellingssubsidie wordt verstrekt dat elke instelling per cliënt hetzelfde percentage van het desbetreffende maximumbedrag, genoemd in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.1&artikel=6&z=2011-07-01&g=2011-07-01), voor de huisvestingscomponent ontvangt;
+- b. € 2.000.000 zodanig te verdelen onder de instellingen waaraan de instellingssubsidie wordt verstrekt dat elke instelling per cliënt hetzelfde percentage van het desbetreffende maximumbedrag, genoemd in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.1&artikel=6&z=2011-10-01&g=2011-10-01), voor de huisvestingscomponent ontvangt;
 
 2. Bij de berekening van de instellingssubsidie wordt het aantal cliënten van de instelling bepaald door het gemiddeld aantal cliënten per jaar in de referentieperiode.
 
@@ -176,7 +176,7 @@ Vervallen
 
 ##### Artikel 15
 
-1. De aanvraag vermeldt het totaal aantal personen waaraan in de referentieperiode door de instelling palliatieve terminale zorg thuis, palliatieve terminale zorg in een bijna-thuis-huis of palliatieve terminale zorg in een high care hospice is verleend. Een verzoek tot verhoging van het in de aanvraag vermelde aantal personen dat na afloop van de termijn, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=14&z=2011-07-01&g=2011-07-01), wordt ontvangen, blijft buiten behandeling.
+1. De aanvraag vermeldt het totaal aantal personen waaraan in de referentieperiode door de instelling palliatieve terminale zorg thuis, palliatieve terminale zorg in een bijna-thuis-huis of palliatieve terminale zorg in een high care hospice is verleend. Een verzoek tot verhoging van het in de aanvraag vermelde aantal personen dat na afloop van de termijn, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=14&z=2011-10-01&g=2011-10-01), wordt ontvangen, blijft buiten behandeling.
 
 2. Voor de aanvraag wordt een door de Minister vastgesteld formulier gebruikt.
 
@@ -212,17 +212,17 @@ De ontvanger van een instellingssubsidie voor palliatieve terminale zorg voert e
 
 ##### Artikel 21
 
-De Minister kan jaarlijks aan een in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2011-07-01&g=2011-07-01) genoemde instelling op aanvraag een instellingssubsidie verstrekken voor de coördinatie van een netwerk palliatieve zorg.
+De Minister kan jaarlijks aan een in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2011-10-01&g=2011-10-01) genoemde instelling op aanvraag een instellingssubsidie verstrekken voor de coördinatie van een netwerk palliatieve zorg.
 
 ##### Artikel 22
 
-1. De instellingssubsidie voor een netwerk palliatieve zorg bedraagt ten hoogste het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2011-07-01&g=2011-07-01) bij de desbetreffende instelling en het desbetreffende jaar genoemde bedrag.
+1. De instellingssubsidie voor een netwerk palliatieve zorg bedraagt ten hoogste het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2011-10-01&g=2011-10-01) bij de desbetreffende instelling en het desbetreffende jaar genoemde bedrag.
 
 2. De Minister kan het bedrag van de instellingssubsidie voor een netwerk palliatieve zorg bijstellen in geval van een wijziging van de netwerkregio.
 
 ##### Artikel 23
 
-De [Kaderregeling VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0029947) is van toepassing op een instellingssubsidie voor een netwerk palliatieve zorg, met dien verstande dat:
+De [Kaderregeling VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0029947), met uitzondering van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029947&artikel=2), is van toepassing op een instellingssubsidie voor een netwerk palliatieve zorg, met dien verstande dat:
 
 - a. instellingssubsidies van minder dan € 25.000 in afwijking van [artikel 7, derde lid, van de Kaderregeling VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0029947&artikel=7) voorafgaand aan het boekjaar worden vastgesteld, welke vaststelling wordt aangevraagd overeenkomstig [paragraaf 3 van de Kaderregeling VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0029947&paragraaf=3) in plaats van de [artikelen 50 tot en met 54 van de Kaderregeling VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0029947&artikel=50);
 
@@ -250,11 +250,13 @@ Vervallen
 
 De ontvanger van de instellingssubsidie voor een netwerk palliatieve zorg draagt er zorg voor dat:
 
-- a. de coördinatie alle gemeenten omvat, vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2011-07-01&g=2011-07-01) in de netwerkregio van de desbetreffende instelling;
+- a. de coördinatie alle gemeenten omvat, vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2011-10-01&g=2011-10-01) in de netwerkregio van de desbetreffende instelling;
 
 - b. aan een netwerk palliatieve zorg de instellingen en personen deelnemen die beroepsmatig betrokken zijn bij het verlenen van palliatieve zorg in de netwerkregio;
 
 - c. tenminste eenmaal per jaar overleg gevoerd wordt met de betrokken organisaties van patiënten, vrijwilligers en zorgverzekeraars over de verlening en bekostiging van palliatieve zorg in de netwerkregio;
+
+- d. de coördinatie is gericht op een compleet, samenhangend en dekkend aanbod van palliatieve terminale zorg van verantwoorde kwaliteit in de netwerkregio.
 
 #### Paragraaf 4. Overgangs- en slotbepalingen
 
