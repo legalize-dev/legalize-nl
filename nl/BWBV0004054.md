@@ -4,7 +4,7 @@ identifier: "BWBV0004054"
 country: "nl"
 rank: "verdrag"
 publication_date: "2011-10-01"
-last_updated: "2006-05-19"
+last_updated: "2011-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004054"
 soort: "verdrag"
@@ -106,7 +106,7 @@ Een voorgangerstaat kan onderdanen die niet de nationaliteit van een opvolgersta
 
 ##### Artikel 7. Eerbiediging van de wil zoals kenbaar gemaakt door de betrokken persoon
 
-Een opvolgerstaat weigert niet zijn nationaliteit te verlenen ingevolge [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0004054&artikel=5&z=2006-05-19&g=2006-05-19), wanneer deze nationaliteit overeenkomt met de wil zoals kenbaar gemaakt door de betrokken persoon op grond van het feit dat deze persoon de nationaliteit van een andere betrokken staat kan verwerven vanwege voldoende band met die staat.
+Een opvolgerstaat weigert niet zijn nationaliteit te verlenen ingevolge [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0004054&artikel=5&z=2011-10-01&g=2011-10-01), wanneer deze nationaliteit overeenkomt met de wil zoals kenbaar gemaakt door de betrokken persoon op grond van het feit dat deze persoon de nationaliteit van een andere betrokken staat kan verwerven vanwege voldoende band met die staat.
 
 ##### Artikel 8. Regels betreffende bewijzen
 
@@ -116,7 +116,7 @@ Een opvolgerstaat weigert niet zijn nationaliteit te verlenen ingevolge [artikel
 
 ##### Artikel 9. Vergemakkelijken van het verkrijgen van een nationaliteit door staatloze personen
 
-Een betrokken staat vergemakkelijkt het verkrijgen van zijn nationaliteit door personen die hun wettige en gewone verblijf hebben op zijn grondgebied en in weerwil van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004054&artikel=5&z=2006-05-19&g=2006-05-19) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0004054&artikel=6&z=2006-05-19&g=2006-05-19) ten gevolge van de statenopvolging staatloos zijn geworden.
+Een betrokken staat vergemakkelijkt het verkrijgen van zijn nationaliteit door personen die hun wettige en gewone verblijf hebben op zijn grondgebied en in weerwil van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004054&artikel=5&z=2011-10-01&g=2011-10-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0004054&artikel=6&z=2011-10-01&g=2011-10-01) ten gevolge van de statenopvolging staatloos zijn geworden.
 
 ##### Artikel 10. Voorkomen van staatloosheid bij de geboorte
 
@@ -196,7 +196,7 @@ De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de
 
 ##### Artikel 20. Voorbehouden
 
-1. Voorbehouden op dit Verdrag zijn niet toegestaan, behalve ter zake van de bepalingen van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004054&artikel=7&z=2006-05-19&g=2006-05-19), [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004054&artikel=8&z=2006-05-19&g=2006-05-19), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004054&artikel=12&z=2006-05-19&g=2006-05-19) en [artikel 14, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0004054&artikel=14&z=2006-05-19&g=2006-05-19).
+1. Voorbehouden op dit Verdrag zijn niet toegestaan, behalve ter zake van de bepalingen van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004054&artikel=7&z=2011-10-01&g=2011-10-01), [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004054&artikel=8&z=2011-10-01&g=2011-10-01), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004054&artikel=12&z=2011-10-01&g=2011-10-01) en [artikel 14, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0004054&artikel=14&z=2011-10-01&g=2011-10-01).
 
 2. Voorbehouden gemaakt door een staat op grond van het eerste lid worden geformuleerd op het tijdstip van ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
@@ -216,11 +216,11 @@ De Secretaris-Generaal van de Raad van Europa stelt de lidstaten van de Raad van
 
 - b. de nederlegging van iedere akte van bekrachtiging, aanvaarding, goedkeuring of toetreding;
 
-- c. iedere datum van inwerkingtreding van dit Verdrag overeenkomstig de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004054&artikel=18&z=2006-05-19&g=2006-05-19) en [19](https://wetten.overheid.nl/jci1.3:c:BWBV0004054&artikel=19&z=2006-05-19&g=2006-05-19) van dit Verdrag;
+- c. iedere datum van inwerkingtreding van dit Verdrag overeenkomstig de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004054&artikel=18&z=2011-10-01&g=2011-10-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBV0004054&artikel=19&z=2011-10-01&g=2011-10-01) van dit Verdrag;
 
-- d. ieder voorbehoud en iedere intrekking van voorbehouden gemaakt ingevolge de bepalingen van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004054&artikel=20&z=2006-05-19&g=2006-05-19) van dit Verdrag;
+- d. ieder voorbehoud en iedere intrekking van voorbehouden gemaakt ingevolge de bepalingen van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004054&artikel=20&z=2011-10-01&g=2011-10-01) van dit Verdrag;
 
-- e. iedere kennisgeving of verklaring ingevolge de bepalingen van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004054&artikel=15&z=2006-05-19&g=2006-05-19) en [21](https://wetten.overheid.nl/jci1.3:c:BWBV0004054&artikel=21&z=2006-05-19&g=2006-05-19) van dit Verdrag;
+- e. iedere kennisgeving of verklaring ingevolge de bepalingen van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004054&artikel=15&z=2011-10-01&g=2011-10-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBV0004054&artikel=21&z=2011-10-01&g=2011-10-01) van dit Verdrag;
 
 - f. iedere andere handeling, kennisgeving of mededeling met betrekking tot dit Verdrag.
 
