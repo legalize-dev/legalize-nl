@@ -284,27 +284,3 @@ Deze regeling wordt aangehaald als: Regeling gebruik boordcomputer en boordcompu
 Deze regeling treedt in werking op het tijdstip waarop [artikel I, onderdeel L, van het Besluit van 16 oktober 2009 houdende wijziging van het Besluit personenvervoer 2000, het Arbeidstijdenbesluit vervoer en het Reglement rijbewijzen in verband met de invoering van de boordcomputer taxi, de afschaffing van de vergunning voor collectief personenvervoer en een technische wijziging in verband met het elektronisch vervoerbewijs](https://wetten.overheid.nl/jci1.3:c:BWBR0026675&artikel=I) in werking treedt.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 10a
-
-1. Een lwt-kaart wordt eenmalig verstrekt en heeft een geldigheidsduur van vier maanden.
-
-2. Bij de aanvraag voor een lwt-kaart worden naast de documenten, bedoeld in [artikel 82, eerste lid, onder a, b, c, en e van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=82) de volgende documenten overgelegd:
-
-- a. een bewijs waaruit blijkt dat de aanvrager zich bij de Stichting Centraal Bureau Rijvaardigheidsbewijzen heeft ingeschreven voor het examen vakbekwaamheid voor het besturen van een taxi, als bedoeld in [artikel 3 van de Regeling taxibestuurders 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&artikel=3);
-
-- b. een gezamenlijke verklaring van de aanvrager en een vervoerder waaruit blijkt dat de aanvrager gedurende het leer-werk-traject in dienst van die vervoerder uitsluitend vervoer zal verrichten als bedoeld in [artikel 6, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=6), dan wel vervoer dat wordt verricht volgens een schriftelijke overeenkomst, die een vervoerplicht inhoudt voor het vervoeren van meerdere passagiers die afzonderlijk of tezamen worden vervoerd, niet zijnde de opdrachtgever, tegen in die overeenkomst vastgelegde tarieven.
-
-3. De aanvraag voor een lwt-kaart wordt aangemerkt als een gelijktijdige aanvraag voor een chauffeurskaart, met dien verstande dat de beslissing omtrent de verlening van de chauffeurskaart wordt aangehouden totdat de indiener van de aanvraag een document als bedoeld in [artikel 82, eerste lid, onder d, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=82) heeft overgelegd.
-
-### Hoofdstuk 3. Ondernemerskaart
-
-### Hoofdstuk 4. Keuringskaart
-
-### Hoofdstuk 5. Gebruik van de boordcomputer
-
-### Hoofdstuk 6. Wijziging andere regelingen
-
-### Hoofdstuk 7. Slotbepaling
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
