@@ -4,7 +4,7 @@ identifier: "BWBR0020537"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-25"
-last_updated: "2011-07-22"
+last_updated: "2011-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020537"
 soort: "ministeriele-regeling"
@@ -46,33 +46,9 @@ entry_into_force: "2025-11-25"
 
 ##### Artikel 4
 
-1. Voor overeenkomsten inzake consumptief krediet waarbij de betalingstermijn en het termijnbedrag gedurende de looptijd gelijk blijven, wordt het effectief kredietvergoedingspercentage berekend als volgt:
+1. Voor overeenkomsten inzake hypothecair krediet wordt het effectief kredietvergoedingspercentage berekend als volgt:
 
-waarbij de waarde van **im** wordt berekend met de volgende formule:
-
-In deze formules is:
-
-p: het effectief kredietvergoedingspercentage op jaarbasis;
-
-im: het honderdste deel van het kredietvergoedingspercentage per betalingstermijn;
-
-m: het aantal betalingstermijnen per jaar;
-
-K: de kredietsom;
-
-T: het termijnbedrag; en
-
-n: de looptijd, uitgedrukt in het aantal betalingstermijnen.
-
-2. Voor overeenkomsten inzake consumptief krediet, niet zijnde doorlopend krediet, wordt bij de berekening van het effectief kredietvergoedingspercentage het eerste lid toegepast. Bij die berekening wordt ervan uitgegaan dat de eerste betalingstermijn, of het eerste of het laatste termijnbedrag, gelijk zijn aan de overige betalingstermijnen, onderscheidenlijk termijnbedragen, indien:
-
-- a. de eerste betalingstermijn afwijkt van de overige betalingstermijnen, voor zover deze afwijking tot gevolg heeft dat het eerste of het laatste termijnbedrag afwijkt van de overige termijnbedragen, terwijl de overige betalingstermijnen en termijnbedragen gedurende de looptijd gelijk blijven; of
-
-- b. slechts het eerste of het laatste termijnbedrag afwijkt van de overige termijnbedragen, indien deze afwijking een gevolg is van afrondingen.
-
-##### Artikel 5
-
-Voor overeenkomsten inzake consumptief krediet waarbij gedurende de looptijd de betalingstermijn wel, doch het termijnbedrag niet gelijk blijft, en waarop [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2010-01-01&g=2011-07-22), niet van toepassing is, wordt het effectief kredietvergoedingspercentage berekend als volgt:
+**p** = [1 + **im**)**m** – 1] • 100,
 
 waarbij de waarde van **im** wordt berekend met de volgende formule:
 
@@ -80,69 +56,35 @@ In deze formules is:
 
 p: het effectief kredietvergoedingspercentage;
 
-im: het honderdste deel van het kredietvergoedingspercentage per betalingstermijn;
+**im**: het honderdste deel van het kredietvergoedingspercentage per betalingstermijn;
 
 m: het aantal betalingstermijnen per jaar;
 
 K: de kredietsom;
+
+A: de kosten die de aanbieder van hypothecair krediet bij het afsluiten van de overeenkomst inzake hypothecair krediet in rekening brengt;
 
 t: het volgnummer van de onderscheidenlijke termijnbedragen en van de onderscheidenlijke betalingstermijnen;
 
-n: de looptijd, uitgedrukt in het aantal betalingstermijnen; en
+n: de economische looptijd, berekend over maximaal dertig jaren, uitgedrukt in het aantal betalingstermijnen;
 
-Tt: het termijnbedrag met volgnummer t.
+Tt: het termijnbedrag met volgnummer t; en
+
+Rn: de (eventuele) (restant-)schuld aan het eind van de economische looptijd of, indien de looptijd langer is dan dertig jaren, na dertig jaren.
+
+2. Indien de termijnbedragen aan het begin van elke betalingstermijn worden betaald, wordt K in de formule in het eerste lid (K –T(1)), en wordt n in de formule in het eerst lid (n – 1).
+
+##### Artikel 5
+
+Vervallen
 
 ##### Artikel 6
 
-Voor overeenkomsten inzake consumptief krediet waarbij de betalingstermijn gedurende de looptijd niet gelijk blijft en waarop [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2010-01-01&g=2011-07-22), niet van toepassing is, wordt het effectief kredietvergoedingspercentage berekend als volgt:
-
-waarbij de waarde van **i** wordt berekend met de volgende formule:
-
-In deze formules is:
-
-p: het effectief kredietvergoedingspercentage;
-
-i: het honderdste deel van het effectief kredietvergoedingspercentage;
-
-K: de kredietsom;
-
-k: het volgnummer van een termijnbedrag;
-
-n: het totale aantal termijnbedragen;
-
-Tk: het termijnbedrag met volgnummer k; en
-
-tk: het tijdvak dat ligt tussen het tijdstip waarop de kredietsom ter beschikking wordt gesteld en het tijdstip waarop het termijnbedrag met volgnummer k moet worden voldaan, uitgedrukt in jaren.
+Vervallen
 
 ##### Artikel 7
 
-In afwijking van de [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2010-01-01&g=2011-07-22) wordt bij overeenkomsten inzake consumptief krediet waarbij de kredietsom in bij het aangaan van de overeenkomst vastgestelde tranches ter beschikking wordt gesteld op bij het aangaan van de overeenkomst overeengekomen tijdstippen het effectief kredietvergoedingspercentage berekend als volgt:
-
-waarbij de waarde van **i** wordt berekend met de volgende formule:
-
-In deze formules is:
-
-p: het effectief kredietvergoedingspercentage;
-
-i: het honderdste deel van het effectief kredietvergoedingspercentage;
-
-S1: het bedrag van de eerste tranche van de kredietsom;
-
-u: het volgnummer van een tranche;
-
-v: het totale aantal tranches;
-
-Su: het bedrag van de tranche met volgnummer u;
-
-Xu: het tijdvak dat ligt tussen het tijdstip waarop de overeenkomst inzake krediet is aangegaan en het tijdstip waarop de tranche met volgnummer u ter beschikking wordt gesteld, uitgedrukt in jaren;
-
-k: het volgnummer van een termijnbedrag;
-
-n: het totale aantal termijnbedragen;
-
-Tk: het termijnbedrag met volgnummer k; en
-
-tk: het tijdvak dat ligt tussen het tijdstip waarop de kredietsom ter beschikking wordt gesteld en het tijdstip waarop het termijnbedrag met volgnummer k moet worden voldaan, uitgedrukt in jaren.
+Vervallen
 
 #### § 2.3. Berekening effectief kredietvergoedingspercentage voor hypothecair krediet
 
@@ -150,19 +92,19 @@ tk: het tijdvak dat ligt tussen het tijdstip waarop de kredietsom ter beschikkin
 
 ### Hoofdstuk 4. Lichte ontheffingen
 
-### Hoofdstuk 5. Vertrouwenscommissie opvangregeling leven
+### Hoofdstuk 3. Inrichting begroting toezichthouder
 
 ### Hoofdstuk 6. Dekking beroepsaansprakelijkheidsverzekering en vergelijkbare voorziening
 
-### Hoofdstuk 7. Model volmacht en ondervolmacht
+### Hoofdstuk 4. Lichte ontheffingen
 
 ### Hoofdstuk 3. Inrichting begroting toezichthouder
 
-### Hoofdstuk 9. Uitbreiding termijn vergunningverlening
+### Hoofdstuk 4a. Verhoging minimumbedrag solvabiliteitsmarge verzekeraars als bedoeld in [artikel 68, eerste lid, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=68)
 
 ### Hoofdstuk 4. Lichte ontheffingen
 
-### Hoofdstuk 11. Wijziging [Regeling aanwijzing bevoegde autoriteiten Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007778)
+### Hoofdstuk 5. Vertrouwenscommissie opvangregeling leven
 
 ### Hoofdstuk 4a. Verhoging minimumbedrag solvabiliteitsmarge verzekeraars als bedoeld in [artikel 68, eerste lid, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=68)
 
@@ -180,15 +122,11 @@ Besluit:
 
 ##### Artikel 1
 
-1. In deze regeling wordt verstaan onder:
+In deze regeling wordt verstaan onder:
 
 aanbiedingsprogramma: algemeen bekend gemaakt voornemen tot het doorlopend of periodiek uitgeven van gedekte obligaties van een bepaalde soort;
 
 aanvraag: verzoek om registratie als bedoeld in [artikel 124b, eerste lid, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=124b);
-
-consumptief krediet: krediet als bedoeld in [artikel 1, onderdeel e, van het Besluit Gedragstoezicht financiële ondernemingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=1);
-
-doorlopend krediet: krediet als bedoeld in [artikel 1, onderdeel h, van het Besluit Gedragstoezicht financiële ondernemingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=1);
 
 economische looptijd: periode waarna een hypothecair krediet overeenkomstig de bij het aangaan van de overeenkomst inzake krediet vastgestelde hoogte van de termijnbedragen en lengte en aantal van de betalingstermijnen geheel afgelost zal zijn;
 
@@ -196,7 +134,7 @@ exploitatiesaldo: verschil tussen de aan het eind van een jaar gerealiseerde bat
 
 gedekte obligaties: gedekte obligaties als bedoeld in [artikel 1 van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=1);
 
-hypothecair krediet: krediet als bedoeld in [artikel 1, onderdeel n, van het Besluit Gedragstoezicht financiële ondernemingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=1);
+hypothecair krediet: krediet als bedoeld in [artikel 1 van het Besluit Gedragstoezicht financiële ondernemingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=1);
 
 juridisch adviseur: een juridische deskundige die onafhankelijk is van de uitgevende bank;
 
@@ -204,29 +142,17 @@ kredietvergoedingspercentage per betalingstermijn: kredietvergoeding die over ee
 
 wet: [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
 
-2. In deze regeling wordt met betrekking tot overeenkomsten inzake doorlopend krediet verstaan onder:
-
-kredietsom: kredietlimiet;
-
-looptijd: theoretische looptijd.
-
-### Hoofdstuk 2. Effectief kredietvergoedingspercentage
+### Hoofdstuk 2. Berekening van het effectief kredietvergoedingspercentage voor hypothecair krediet
 
 #### § 2.1. Algemene bepalingen
 
-##### Artikel 2
+##### Artikel 2. Bepalingen ter uitvoering van [artikel 1 van het Besluit Gedragstoezicht financiële ondernemingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=1)
 
-1. Bij de in de [paragrafen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=2&paragraaf=2.2&z=2010-01-01&g=2011-07-22) en [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=2&paragraaf=2.3&z=2010-01-01&g=2011-07-22) geregelde berekeningen wordt ervan uitgegaan dat:
+1. Bij de berekening van het effectief kredietvergoedingspercentage voor hypothecair krediet wordt ervan uitgegaan dat:
 
 - a. de overeenkomst inzake krediet overeenkomstig de bij het aangaan daarvan vastgestelde hoogte van de termijnbedragen en lengte en aantal van de betalingstermijnen wordt afgewikkeld; en
 
 - b. de kredietvergoeding gedurende de looptijd van de overeenkomst gelijk blijft, tenzij bij het aangaan van de overeenkomst is vastgesteld wanneer de kredietvergoeding zal wijzigen en wat de hoogte van de kredietvergoeding door die wijziging zal worden.
-
-2. Bij de in [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=2&paragraaf=2.2&z=2010-01-01&g=2011-07-22) geregelde berekeningen wordt er, voorzover het overeenkomsten inzake doorlopend krediet betreft, van uitgegaan dat:
-
-- a. het uitstaand saldo op het tijdstip waarop door de aanbieder de geldsom ter beschikking wordt gesteld of met het verschaffen van het genot van de zaak of het verlenen van de dienst een aanvang wordt gemaakt, gelijk is aan de kredietlimiet; en
-
-- b. het uitstaand saldo niet toeneemt anders dan uit hoofde van het in rekening brengen van de kredietvergoeding.
 
 ##### Artikel 3
 
@@ -238,33 +164,7 @@ Het effectief kredietvergoedingspercentage wordt afgerond op één decimaal. Ind
 
 ##### Artikel 8
 
-1. Voor overeenkomsten inzake hypothecair krediet wordt het effectief kredietvergoedingspercentage berekend als volgt:
-
-waarbij de waarde van **im** wordt berekend met de volgende formule:
-
-In deze formules is:
-
-p: het effectief kredietvergoedingspercentage;
-
-im: het honderdste deel van het kredietvergoedingspercentage per betalingstermijn;
-
-m: het aantal betalingstermijnen per jaar;
-
-K: de kredietsom;
-
-A: de kosten die de aanbieder van hypothecair krediet bij het afsluiten van de
-
-overeenkomst inzake hypothecair krediet in rekening brengt;
-
-t: het volgnummer van de onderscheidenlijke termijnbedragen en van de onderscheidenlijke betalingstermijnen;
-
-n: de economische looptijd, berekend over maximaal 30 jaren, uitgedrukt in het aantal betalingstermijnen;
-
-Tt: het termijnbedrag met volgnummer t; en
-
-Rn: de (eventuele) (restant-)schuld aan het eind van de economische looptijd of, indien de looptijd langer is dan 30 jaren, na 30 jaren.
-
-2. Indien de termijnbedragen aan het begin van elke betalingstermijn worden betaald, wordt K in de formule in het eerste lid (K – T(1)), en wordt n in de formule in het eerst lid (n – 1).
+Vervallen
 
 ##### Artikel 9
 
@@ -274,7 +174,7 @@ De posten waarin de begroting, bedoeld in [artikel 1:30 van de wet](https://wett
 
 1. De toezichthouder verbindt aan een ontheffing als bedoeld in [artikel 2:5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:5), [2:7 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:7), [2:12, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:12), [2:17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:17), [2:21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:21), [2:26b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:26b), [2:26e, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:26e), [2:31, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:31), [2:37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:37), [2:41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:41), [2:49, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:49), [2:51, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:51), [2:54b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54b), [2:54e, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54e), [2:58, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:58), [2:63, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:63), [2:67, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:67), [2:68, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:68), [2:78, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:78), [2:83, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:83), [2:89, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:89), [2:94, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:94), of [2:99, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:99) uitsluitend voorschriften die noodzakelijk zijn met het oog op het bereiken van de beoogde doeleinden van de artikelen waarnaar in het eerste lid van de hiervoor genoemde artikelen wordt verwezen.
 
-2. De toezichthouder verbindt aan een ontheffing als bedoeld in [artikel 3:2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:2), [3:10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:10), [3:15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:15), [3:17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17), [3:19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:19), [3:47, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:47), [3:53, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), [3:57, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57), [3:63, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:63), [3:67, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:67), [3:68a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:68a), [3:70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:70), [3:71, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:71), [3:72, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:72), [3:106, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:106), [4:9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9), [4:11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:11), [4:14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:14), [4:15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:15), [4:20, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:20), [4:22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:22), [4:23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:23), [4:25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:25), [4:44, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:44), [4:47, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:47), [4:48, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:48), [4:49, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:49), [4:51, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:51), [4:52, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:52), [4:72, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:72), [4:73, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:73), [4:75, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:75), [4:76, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:76), [4:77, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:77), [4:85, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:85), [4:88, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:88), [4:89a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:89a), [4:90d](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:90d), [4:93, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:93), [4:99, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:99), [4:100a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:100a), [5:68, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:68) uitsluitend voorschriften die noodzakelijk zijn met het oog op de doeleinden die het desbetreffende artikel beoogt te bereiken.
+2. De toezichthouder verbindt aan een ontheffing als bedoeld in [artikel 3:2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:2), [3:10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:10), [3:15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:15), [3:17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17), [3:19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:19), [3:47, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:47), [3:53, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), [3:57, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57), [3:63, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:63), [3:67, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:67), [3:68a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:68a), [3:70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:70), [3:71, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:71), [3:72, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:72), [3:106, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:106), [4:9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9), [4:11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:11), [4:14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:14), [4:15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:15), [4:20, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:20), [4:22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:22), [4:23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:23), [4:25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:25), [4:44, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:44), [4:47, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:47), [4:48, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:48), [4:49, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:49), [4:51, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:51), [4:52, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:52), [4:72, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:72), [4:73, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:73), [4:75, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:75), [4:76, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:76), [4:77, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:77), [4:85, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:85), [4:88, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:88), [4:89a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:89a), [4:90d](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:90d), [4:93, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:93), [4:99, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:99), [4:100a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:100a), [5:68, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:68) uitsluitend voorschriften die noodzakelijk zijn met het oog op de doeleinden die het desbetreffende artikel beoogt te bereiken.
 
 3. De Nederlandsche Bank verbindt aan een ontheffing als bedoeld in [artikel 3:60, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:60) uitsluitend voorschriften die noodzakelijk zijn met het oog op de doelstelling van dat artikel.
 
@@ -348,17 +248,17 @@ De dekking van de beroepsaansprakelijkheidsverzekering of de daarmee vergelijkba
 
 ##### Artikel 16
 
-Het model van de volmacht, bedoeld in [artikel 4:79, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79), wordt vastgesteld conform [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=A&z=2010-01-01&g=2011-07-22).
+Het model van de volmacht, bedoeld in [artikel 4:79, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79), wordt vastgesteld conform [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=A&z=2011-10-01&g=2011-10-01).
 
 ##### Artikel 17
 
-Het model van de ondervolmacht, bedoeld in [artikel 4:79, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79), wordt vastgesteld conform [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=B&z=2010-01-01&g=2011-07-22).
+Het model van de ondervolmacht, bedoeld in [artikel 4:79, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79), wordt vastgesteld conform [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=B&z=2011-10-01&g=2011-10-01).
 
 ##### Artikel 18
 
-1. Een volmacht of ondervolmacht, opgemaakt voor 1 januari 2006 overeenkomstig het voorafgaand aan die datum voorgeschreven model ingevolge de [Wet assurantiebemiddelingsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0004993), wordt geacht te zijn opgemaakt overeenkomstig het model, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2010-01-01&g=2011-07-22) onderscheidenlijk [17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2010-01-01&g=2011-07-22).
+1. Een volmacht of ondervolmacht, opgemaakt voor 1 januari 2006 overeenkomstig het voorafgaand aan die datum voorgeschreven model ingevolge de [Wet assurantiebemiddelingsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0004993), wordt geacht te zijn opgemaakt overeenkomstig het model, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2011-10-01&g=2011-10-01) onderscheidenlijk [17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2011-10-01&g=2011-10-01).
 
-2. Een volmacht of ondervolmacht, opgemaakt tussen 1 januari 2006 en 1 januari 2007 overeenkomstig het voorafgaand aan laatstgenoemde datum voorgeschreven model ingevolge het [Besluit financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0019283), wordt geacht te zijn opgemaakt overeenkomstig het model, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2010-01-01&g=2011-07-22) onderscheidenlijk [17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2010-01-01&g=2011-07-22).
+2. Een volmacht of ondervolmacht, opgemaakt tussen 1 januari 2006 en 1 januari 2007 overeenkomstig het voorafgaand aan laatstgenoemde datum voorgeschreven model ingevolge het [Besluit financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0019283), wordt geacht te zijn opgemaakt overeenkomstig het model, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2011-10-01&g=2011-10-01) onderscheidenlijk [17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2011-10-01&g=2011-10-01).
 
 ### Hoofdstuk 8. Houder van een gereglementeerde markt
 
@@ -410,25 +310,25 @@ als bedoeld in [artikel 4:79, eerste lid, van de Wet op het financieel toezicht]
 
 De ondergetekende1Achter ‘De ondergetekende’ wordt de naam en, indien van toepassing, de handelsnaam van de verzekeraar ingevuld. … verklaart hierbij volmacht te verlenen aan ….
 
-### **Paragraaf I**
+### **Volmacht**
 
 ### **Volmacht**
 
-als bedoeld in [artikel 4:79, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79).
+De ondergetekende1Achter ‘De ondergetekende’ wordt de naam en, indien van toepassing, de handelsnaam van de verzekeraar ingevuld. … verklaart hierbij volmacht te verlenen aan ….
 
 De ondergetekende1Achter ‘De ondergetekende’ wordt de naam en, indien van toepassing, de handelsnaam van de verzekeraar ingevuld. … verklaart hierbij volmacht te verlenen aan ….
 
-### **Paragraaf I**
+### **Bevoegdheden**
 
 ### **Bevoegdheden**
 
-Om in Nederland, in naam van de ondergetekende – binnen de perken van haar/zijn statuten – verzekeringen te accepteren van risico’s, zowel binnen als buiten Nederland, en in het algemeen al datgene te verrichten wat de uitoefening van het verzekeringsbedrijf in Nederland als vertegenwoordiger van een in Nederland of in het buitenland gevestigde verzekeraar meebrengt en in dat verband alle rechten van de ondergetekende uit te oefenen en alle verplichtingen na te komen, omvat deze volmacht onder meer:
-
-### **Bevoegdheden**
+Waar in deze volmacht wordt gesproken van verzekeringen, verzekerden of verzekeraar wordt daaronder ook verstaan herverzekeringen, herverzekerden of herverzekeraar.
 
 ### **Paragraaf II**
 
-Waar in deze volmacht wordt gesproken van verzekeringen, verzekerden of verzekeraar wordt daaronder ook verstaan herverzekeringen, herverzekerden of herverzekeraar.
+### **Ondervolmacht**
+
+Deze volmacht houdt, behoudens via een ondervolmacht opgemaakt overeenkomstig [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=B&z=2011-10-01&g=2011-10-01) bij de Uitvoeringsregeling Wft, niet in de bevoegdheid van de gevolmachtigde om aan derden ondervolmacht te verlenen.
 
 Deze volmacht houdt, behoudens via een ondervolmacht opgemaakt overeenkomstig [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=B&z=2009-01-01&g=2009-01-01) bij de Uitvoeringsregeling Wft, niet in de bevoegdheid van de gevolmachtigde om aan derden ondervolmacht te verlenen.
 
@@ -436,19 +336,19 @@ Deze volmacht houdt, behoudens via een ondervolmacht opgemaakt overeenkomstig [b
 
 ### **Toepasselijk recht**
 
-Op deze volmacht is Nederlands recht van toepassing.
+…..2Handtekening van de ondertekenaar, met vermelding van de datum van ondertekening.
 
 …..2Handtekening van de ondertekenaar, met vermelding van de datum van ondertekening.
 
 Op deze volmacht is Nederlands recht van toepassing.
 
-…..2Handtekening van de ondertekenaar, met vermelding van de datum van ondertekening.
+als bedoeld in [artikel 4:79, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79).
 
 ### **Paragraaf I**
 
 ### **Ondervolmacht**
 
-als bedoeld in [artikel 4:79, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79).
+verklaart hierbij ondervolmacht te verlenen aan ….
 
 De gevolmachtigde …1Achter ‘De gevolmachtigde’ wordt de naam en, indien van toepassing, de handelsnaam van de gevolmachtigde agent ingevuld die hierbij door de verzekeraar wordt gemachtigd om ondervolmacht te verlenen.
 
@@ -458,21 +358,21 @@ daartoe bij deze gemachtigd door verzekeraar …2Achter ‘verzekeraar’ wordt 
 
 ### **Paragraaf I**
 
-waarbij alle desbetreffende handelingen en verbintenissen van de genoemde ondergevolmachtigde voor de bovenvermelde verzekeraar zullen gelden, geheel als waren zij door haar verricht of aangegaan.
-
-### **Paragraaf III**
+Waar in deze ondervolmacht wordt gesproken van verzekeringen, verzekerden of verzekeraar worden daaronder ook verstaan herverzekeringen, herverzekerden of herverzekeraar.
 
 ### **Paragraaf II**
 
-Waar in deze ondervolmacht wordt gesproken van verzekeringen, verzekerden of verzekeraar worden daaronder ook verstaan herverzekeringen, herverzekerden of herverzekeraar.
+### **Verlenen van ondervolmacht door de ondergevolmachtigde**
 
 Deze ondervolmacht houdt, behoudens via een ondervolmacht opgemaakt overeenkomstig bijlage B bij de Uitvoeringsregeling Wft, niet in de bevoegdheid van de ondergevolmachtigde om aan derden ondervolmacht te verlenen.
 
-### **Verlenen van ondervolmacht door de ondergevolmachtigde**
+Deze ondervolmacht houdt, behoudens via een ondervolmacht opgemaakt overeenkomstig bijlage B bij de Uitvoeringsregeling Wft, niet in de bevoegdheid van de ondergevolmachtigde om aan derden ondervolmacht te verlenen.
 
 ### **Einde ondervolmacht**
 
-Deze ondervolmacht kan zowel door de verzekeraar als door de gevolmachtigde te allen tijde worden ingetrokken.
+### **Einde ondervolmacht**
+
+Het ophouden van kracht te zijn van de volmacht van de gevolmachtigde tast de kracht van de ondervolmacht niet aan.
 
 Het ophouden van kracht te zijn van de volmacht van de gevolmachtigde tast de kracht van de ondervolmacht niet aan.
 
@@ -502,7 +402,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. Een uitgevende bank gaat slechts over tot verdere uitgifte in het kader van een aanbiedingsprogramma van gedekte obligaties die zijn geregistreerd overeenkomstig [artikel 124b van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=124b) als zij heeft geconstateerd dat wordt voldaan aan de voor registratie gestelde voorschriften.
 
-2. Indien de totale nominale waarde van de gedekte obligaties uitstijgt boven de verhouding, bedoeld in [artikel 20a, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=9a&artikel=20a&z=2010-01-01&g=2011-07-22), ten opzichte van het geconsolideerde balanstotaal van de uitgevende bank, toont de uitgevende bank voordat verdere uitgifte plaatsvindt aan de Nederlandsche Bank aan dat sprake blijft van een gezonde verhouding als bedoeld in dat onderdeel.
+2. Indien de totale nominale waarde van de gedekte obligaties uitstijgt boven de verhouding, bedoeld in [artikel 20a, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=9a&artikel=20a&z=2011-10-01&g=2011-10-01), ten opzichte van het geconsolideerde balanstotaal van de uitgevende bank, toont de uitgevende bank voordat verdere uitgifte plaatsvindt aan de Nederlandsche Bank aan dat sprake blijft van een gezonde verhouding als bedoeld in dat onderdeel.
 
 ##### Artikel 20c
 
@@ -510,13 +410,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - a. toont ten minste een maal per kwartaal aan de Nederlandsche Bank aan dat de gedekte obligaties voldoen aan de voor registratie gestelde voorwaarden, door aan de Nederlandsche Bank rapportages over de activa te verstrekken en toe te lichten, en
 
-- b. toont ten minste jaarlijks aan de Nederlandsche Bank aan dat de bank voldoet aan het bepaalde in [artikel 20a, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=9a&artikel=20a&z=2010-01-01&g=2011-07-22).
+- b. toont ten minste jaarlijks aan de Nederlandsche Bank aan dat de bank voldoet aan het bepaalde in [artikel 20a, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=9a&artikel=20a&z=2011-10-01&g=2011-10-01).
 
 2. De uitgevende bank verstrekt aan de Nederlandsche Bank binnen zes maanden na afloop van het boekjaar de jaarrekening en het jaarverslag van de rechtspersoon waarnaar de activa overeenkomstig het [Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420) zijn overgegaan. De documenten zijn opgemaakt in overeenstemming met Titel 2 van Boek 9 van het Burgerlijk Wetboek, de internationale jaarrekeningstandaarden, dan wel volgens het recht van de staat waar de rechtspersoon haar zetel heeft. Indien de rechtspersoon haar zetel in Nederland heeft, vermeldt zij daarbij of de jaarrekening al dan niet is vastgesteld en goedgekeurd in overeenstemming met haar statuten of oprichtingsakte.
 
 3. De uitgevende bank doet onverwijld mededeling aan de Nederlandsche Bank indien gedurende de looptijd van de gedekte obligaties:
 
-- a. wijzigingen optreden ten opzichte van de gegevens en bescheiden waarop de juridische opinie bedoeld in [artikel 20a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=9a&artikel=20a&z=2010-01-01&g=2011-07-22), was gebaseerd of ten opzichte van de schriftelijke bescheiden, bedoeld in [artikel 20a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=9a&artikel=20a&z=2010-01-01&g=2011-07-22), die tot gevolg hebben dat de uitstaande gedekte obligaties niet meer voldoen of zullen voldoen aan de voor registratie gestelde voorschriften, of
+- a. wijzigingen optreden ten opzichte van de gegevens en bescheiden waarop de juridische opinie bedoeld in [artikel 20a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=9a&artikel=20a&z=2011-10-01&g=2011-10-01), was gebaseerd of ten opzichte van de schriftelijke bescheiden, bedoeld in [artikel 20a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=9a&artikel=20a&z=2011-10-01&g=2011-10-01), die tot gevolg hebben dat de uitstaande gedekte obligaties niet meer voldoen of zullen voldoen aan de voor registratie gestelde voorschriften, of
 
 - b. significante wijzigingen worden aangebracht in een aanbiedingsprogramma of in de voorwaarden met betrekking tot de gedekte obligaties.
 
@@ -530,29 +430,29 @@ Waar in deze volmacht wordt gesproken van verzekeringen, verzekerden of verzeker
 
 ### **Ondervolmacht**
 
-### **Ondervolmacht**
+### **Toepasselijk recht**
 
 ## Bijlage B. behorend bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2009-01-01&g=2009-01-01)
 
 ### **Ondervolmacht**
 
-als bedoeld in [artikel 4:79, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79).
-
 De gevolmachtigde …1Achter ‘De gevolmachtigde’ wordt de naam en, indien van toepassing, de handelsnaam van de gevolmachtigde agent ingevuld die hierbij door de verzekeraar wordt gemachtigd om ondervolmacht te verlenen.
 
-### **Paragraaf I**
+daartoe bij deze gemachtigd door verzekeraar …2Achter ‘verzekeraar’ wordt de naam en, indien van toepassing, de handelsnaam van de verzekeraar ingevuld die zijn gevolmachtigde agent (zie onder 3) machtigt om ondervolmacht te verlenen.
 
-Om in Nederland, in naam van de bovenvermelde verzekeraar – binnen de perken van diens statuten – verzekeringen te accepteren van risico s, zowel binnen als buiten Nederland, en in het algemeen al datgene te verrichten wat de uitoefening van het verzekeringsbedrijf in Nederland als vertegenwoordiger van een in Nederland of in het buitenland gevestigde verzekeraar meebrengt en met betrekking daartoe alle rechten van de bovenvermelde verzekeraar uit te oefenen en alle verplichtingen na te komen, omvat deze ondervolmacht onder meer:
+### **Bevoegdheden**
+
+waarbij alle desbetreffende handelingen en verbintenissen van de genoemde ondergevolmachtigde voor de bovenvermelde verzekeraar zullen gelden, geheel als waren zij door haar verricht of aangegaan.
 
 Om in Nederland, in naam van de bovenvermelde verzekeraar – binnen de perken van diens statuten – verzekeringen te accepteren van risico s, zowel binnen als buiten Nederland, en in het algemeen al datgene te verrichten wat de uitoefening van het verzekeringsbedrijf in Nederland als vertegenwoordiger van een in Nederland of in het buitenland gevestigde verzekeraar meebrengt en met betrekking daartoe alle rechten van de bovenvermelde verzekeraar uit te oefenen en alle verplichtingen na te komen, omvat deze ondervolmacht onder meer:
 
 ### **Verlenen van ondervolmacht door de ondergevolmachtigde**
 
-### **Paragraaf IV**
+### **Toepasselijk recht**
 
 ### **Toepasselijk recht**
 
-Op deze ondervolmacht is Nederlands recht van toepassing.
+…..3Handtekening van de machtigende verzekeraar en van de ondervolmacht verlenende gevolmachtigde agent, met vermelding van datum van ondertekening.
 
 …..3Handtekening van de machtigende verzekeraar en van de ondervolmacht verlenende gevolmachtigde agent, met vermelding van datum van ondertekening.
 
@@ -570,19 +470,19 @@ Het minimumbedrag aan solvabiliteitsmarge van verzekeraars als bedoeld in [artik
 
 ## Bijlage A. behorend bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2010-01-01&g=2011-07-22)
 
-### **Volmacht**
+### **Paragraaf I**
 
 als bedoeld in [artikel 4:79, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79).
 
-De ondergetekende1Achter ‘De ondergetekende’ wordt de naam en, indien van toepassing, de handelsnaam van de verzekeraar ingevuld. … verklaart hierbij volmacht te verlenen aan ….
+Om in Nederland, in naam van de ondergetekende – binnen de perken van haar/zijn statuten – verzekeringen te accepteren van risico’s, zowel binnen als buiten Nederland, en in het algemeen al datgene te verrichten wat de uitoefening van het verzekeringsbedrijf in Nederland als vertegenwoordiger van een in Nederland of in het buitenland gevestigde verzekeraar meebrengt en in dat verband alle rechten van de ondergetekende uit te oefenen en alle verplichtingen na te komen, omvat deze volmacht onder meer:
 
 ### **Paragraaf I**
 
 Om in Nederland, in naam van de ondergetekende – binnen de perken van haar/zijn statuten – verzekeringen te accepteren van risico’s, zowel binnen als buiten Nederland, en in het algemeen al datgene te verrichten wat de uitoefening van het verzekeringsbedrijf in Nederland als vertegenwoordiger van een in Nederland of in het buitenland gevestigde verzekeraar meebrengt en in dat verband alle rechten van de ondergetekende uit te oefenen en alle verplichtingen na te komen, omvat deze volmacht onder meer:
 
-### **Paragraaf II**
+### **Paragraaf III**
 
-Deze volmacht houdt, behoudens via een ondervolmacht opgemaakt overeenkomstig [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=B&z=2010-01-01&g=2011-07-22) bij de Uitvoeringsregeling Wft, niet in de bevoegdheid van de gevolmachtigde om aan derden ondervolmacht te verlenen.
+Op deze volmacht is Nederlands recht van toepassing.
 
 ### **Paragraaf III**
 
@@ -590,23 +490,23 @@ Deze volmacht houdt, behoudens via een ondervolmacht opgemaakt overeenkomstig [b
 
 ## Bijlage B. behorend bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2010-01-01&g=2011-07-22)
 
-verklaart hierbij ondervolmacht te verlenen aan ….
+Om in Nederland, in naam van de bovenvermelde verzekeraar – binnen de perken van diens statuten – verzekeringen te accepteren van risico s, zowel binnen als buiten Nederland, en in het algemeen al datgene te verrichten wat de uitoefening van het verzekeringsbedrijf in Nederland als vertegenwoordiger van een in Nederland of in het buitenland gevestigde verzekeraar meebrengt en met betrekking daartoe alle rechten van de bovenvermelde verzekeraar uit te oefenen en alle verplichtingen na te komen, omvat deze ondervolmacht onder meer:
 
 ### **Bevoegdheden**
 
 waarbij alle desbetreffende handelingen en verbintenissen van de genoemde ondergevolmachtigde voor de bovenvermelde verzekeraar zullen gelden, geheel als waren zij door haar verricht of aangegaan.
 
-### **Paragraaf II**
-
-Deze ondervolmacht houdt, behoudens via een ondervolmacht opgemaakt overeenkomstig bijlage B bij de Uitvoeringsregeling Wft, niet in de bevoegdheid van de ondergevolmachtigde om aan derden ondervolmacht te verlenen.
-
 ### **Paragraaf III**
-
-### **Einde ondervolmacht**
 
 Deze ondervolmacht kan zowel door de verzekeraar als door de gevolmachtigde te allen tijde worden ingetrokken.
 
-Het ophouden van kracht te zijn van de volmacht van de gevolmachtigde tast de kracht van de ondervolmacht niet aan.
+### **Paragraaf III**
+
+### **Paragraaf IV**
+
+Deze ondervolmacht kan zowel door de verzekeraar als door de gevolmachtigde te allen tijde worden ingetrokken.
+
+Op deze ondervolmacht is Nederlands recht van toepassing.
 
 ### **Paragraaf IV**
 
@@ -615,5 +515,33 @@ Het ophouden van kracht te zijn van de volmacht van de gevolmachtigde tast de kr
 Op deze ondervolmacht is Nederlands recht van toepassing.
 
 …..3Handtekening van de machtigende verzekeraar en van de ondervolmacht verlenende gevolmachtigde agent, met vermelding van datum van ondertekening.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### Hoofdstuk 6. Dekking beroepsaansprakelijkheidsverzekering en vergelijkbare voorziening
+
+### Hoofdstuk 7. Model volmacht en ondervolmacht
+
+### Hoofdstuk 8. Houder van een gereglementeerde markt
+
+### Hoofdstuk 9. Uitbreiding termijn vergunningverlening
+
+### Hoofdstuk 9a. Bepalingen ter uitvoering van [artikel 124b, eerste lid, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=124b)
+
+### Hoofdstuk 10. Wijziging [Tijdelijke vrijstellingsregeling openbare biedingen](https://wetten.overheid.nl/jci1.3:c:BWBR0019870)
+
+### Hoofdstuk 11. Wijziging [Regeling aanwijzing bevoegde autoriteiten Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007778)
+
+### Hoofdstuk 12. Slotbepalingen
+
+## Bijlage A. behorend bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2011-10-01&g=2011-10-01)
+
+als bedoeld in [artikel 4:79, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79).
+
+## Bijlage B. behorend bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2011-10-01&g=2011-10-01)
+
+### **Ondervolmacht**
+
+### **Paragraaf I**
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
