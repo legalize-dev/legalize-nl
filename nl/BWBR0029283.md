@@ -4,7 +4,7 @@ identifier: "BWBR0029283"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2025-04-01"
-last_updated: "2011-08-30"
+last_updated: "2011-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029283"
 soort: "wet-BES"
@@ -101,7 +101,7 @@ Onder de naam «loonbelasting» wordt een belasting van de werknemers geheven.
 
 - b. degene, die aan één of meer personen loon uit vroegere dienstbetrekking tot hemzelf of tot een ander verstrekt.
 
-2. Als degene, tot wie de dienstbetrekking bestaat, wordt beschouwd in de gevallen bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=I&artikel=3&z=2011-08-30&g=2011-08-30). onder
+2. Als degene, tot wie de dienstbetrekking bestaat, wordt beschouwd in de gevallen bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=I&artikel=3&z=2011-08-30&g=2011-10-01). onder
 
 - a. het lichaam;
 
@@ -119,7 +119,7 @@ Onder de naam «loonbelasting» wordt een belasting van de werknemers geheven.
 
 3. Degene tot wie een werknemer in dienstbetrekking staat wordt geacht aan de werknemer het loon te verstrekken dat deze uit hoofde van zijn dienstbetrekking geniet van een niet-inhoudingsplichtige;
 
-4. Wie niet op de BES eilanden woont of gevestigd is, wordt slechts als inhoudingsplichtige beschouwd indien hij op de BES eilanden een vaste inrichting of vaste vertegenwoordiger heeft, dan wel op de BES eilanden één of meer personen in dienst heeft en door de Inspecteur als inhoudingsplichtige is aangewezen. Onverminderd het bepaalde in de vorige volzin worden ten aanzien van een niet op de BES eilanden wonende of gevestigde aannemer of onderaannemer als bedoeld in [artikel 21a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=VI&artikel=21a&z=2011-08-30&g=2011-08-30), de werkzaamheden ten behoeve van het werk geacht te zijn verricht met behulp van een vaste inrichting op de BES eilanden indien de uitvoering van het werk langer duurt dan 30 dagen.
+4. Wie niet op de BES eilanden woont of gevestigd is, wordt slechts als inhoudingsplichtige beschouwd indien hij op de BES eilanden een vaste inrichting of vaste vertegenwoordiger heeft, dan wel op de BES eilanden één of meer personen in dienst heeft en door de Inspecteur als inhoudingsplichtige is aangewezen. Onverminderd het bepaalde in de vorige volzin worden ten aanzien van een niet op de BES eilanden wonende of gevestigde aannemer of onderaannemer als bedoeld in [artikel 21a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=VI&artikel=21a&z=2011-08-30&g=2011-10-01), de werkzaamheden ten behoeve van het werk geacht te zijn verricht met behulp van een vaste inrichting op de BES eilanden indien de uitvoering van het werk langer duurt dan 30 dagen.
 
 5. Diplomatieke, consulaire en andere vertegenwoordigers van vreemde mogendheden en hun toegevoegde ambtenaren, alsmede door Onze Minister aan te wijzen internationale organisaties en vertegenwoordigers en functionarissen daarvan, worden niet als inhoudingsplichtigen beschouwd. De consulaire vertegenwoordiger is evenwel inhoudingsplichtig, indien en voor zover hij naast het consulaire ambt een bedrijf of beroep uitoefent.
 
@@ -133,7 +133,7 @@ Onder de naam «loonbelasting» wordt een belasting van de werknemers geheven.
 
 ##### Artikel 5
 
-De belasting wordt geheven naar het zuiver voljaarsloon, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=III&artikel=7&z=2011-08-30&g=2011-08-30).
+De belasting wordt geheven naar het zuiver voljaarsloon, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=III&artikel=7&z=2011-08-30&g=2011-10-01).
 
 ##### Artikel 6
 
@@ -255,7 +255,7 @@ Hierbij wordt uitgegaan van het loon over het tijdvak, hetwelk bij de aanvang va
 
 3. Onze Minister is bevoegd met het oog op de uitvoering van deze wet ter nadere uitwerking van de tabel, bedoeld in [artikel 24A van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=24a), loonbelastingtabellen, waaronder begrepen de tabel voor bijzondere beloningen, bedoeld in het vierde lid, vast te stellen voor loontijdvakken waarvoor bij deze nodig acht. Bij het opstellen van deze tabellen kunnen loonklassen en afrondingen worden aangebracht.
 
-4. Tantièmes, gratificaties, overwerkloon en andere beloningen welke gewoonlijk slechts éénmaal of éénmaal per jaar worden genoten worden belast volgens de tabel voor bijzondere beloningen. In deze tabel worden jaarlonen en belastingpercentages opgenomen. Bij elk jaarloon komt het belastingpercentage overeen met het percentage dat verschuldigd is van de laatste duizend dollar van 90% van het zuiver voljaarsloon, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=III&artikel=7&z=2011-08-30&g=2011-08-30).
+4. Tantièmes, gratificaties, overwerkloon en andere beloningen welke gewoonlijk slechts éénmaal of éénmaal per jaar worden genoten worden belast volgens de tabel voor bijzondere beloningen. In deze tabel worden jaarlonen en belastingpercentages opgenomen. Bij elk jaarloon komt het belastingpercentage overeen met het percentage dat verschuldigd is van de laatste duizend dollar van 90% van het zuiver voljaarsloon, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=III&artikel=7&z=2011-08-30&g=2011-10-01).
 
 5. Indien dit niet tot een hoger belastingbedrag leidt mogen de in het vierde lid bedoelde beloningen worden beschouwd als een toevoeging aan het loon over het loontijdvak waarin zij worden uitbetaald.
 
@@ -267,9 +267,9 @@ Hierbij wordt uitgegaan van het loon over het tijdvak, hetwelk bij de aanvang va
 
 ##### Artikel 9
 
-1. In afwijking van het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=III&artikel=8&z=2011-08-30&g=2011-08-30) bepaalde bedraagt de belasting 35,4% van het loon ingeval de werknemer zijn naam, adres of woonplaats niet aan de inhoudingsplichtige heeft verstrekt alsmede ingeval de werknemer ter zake onjuiste gegevens heeft verstrekt en de inhoudingsplichtige dit wist of redelijkerwijs had moeten weten.
+1. In afwijking van het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=III&artikel=8&z=2011-08-30&g=2011-10-01) bepaalde bedraagt de belasting 35,4% van het loon ingeval de werknemer zijn naam, adres of woonplaats niet aan de inhoudingsplichtige heeft verstrekt alsmede ingeval de werknemer ter zake onjuiste gegevens heeft verstrekt en de inhoudingsplichtige dit wist of redelijkerwijs had moeten weten.
 
-2. In afwijking van het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=III&artikel=8&z=2011-08-30&g=2011-08-30) bepaalde bedraagt de belasting ten aanzien van de niet op de BES eilanden wonende artiest die een overeenkomst van korte duur om als musicus of anderszins als artiest op te treden is aangegaan, 10% van de som van het loon verminderd met de in [artikel 6, derde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=II&artikel=6&z=2011-08-30&g=2011-08-30), bedoelde bedragen.
+2. In afwijking van het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=III&artikel=8&z=2011-08-30&g=2011-10-01) bepaalde bedraagt de belasting ten aanzien van de niet op de BES eilanden wonende artiest die een overeenkomst van korte duur om als musicus of anderszins als artiest op te treden is aangegaan, 10% van de som van het loon verminderd met de in [artikel 6, derde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=II&artikel=6&z=2011-08-30&g=2011-10-01), bedoelde bedragen.
 
 ##### Artikel 9a
 
@@ -291,7 +291,7 @@ Hierbij wordt uitgegaan van het loon over het tijdvak, hetwelk bij de aanvang va
 
 4. Indien is overeengekomen dat het loon op een ongebruikelijk tijdstip zal worden genoten, wordt daarmee voor de toepassing van het tweede lid geen rekening gehouden.
 
-5. Voor zover ingevolge [artikel 9A](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=III&artikel=9a&z=2011-08-30&g=2011-08-30) het loon hoger is dan het werkelijk genoten loon, wordt het meerdere geacht te zijn genoten bij het einde van het kalenderjaar of het einde van de dienstbetrekking zo deze in de loop van het kalenderjaar eindigt.
+5. Voor zover ingevolge [artikel 9A](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=III&artikel=9a&z=2011-08-30&g=2011-10-01) het loon hoger is dan het werkelijk genoten loon, wordt het meerdere geacht te zijn genoten bij het einde van het kalenderjaar of het einde van de dienstbetrekking zo deze in de loop van het kalenderjaar eindigt.
 
 ##### Artikel 11
 
@@ -299,13 +299,13 @@ Hierbij wordt uitgegaan van het loon over het tijdvak, hetwelk bij de aanvang va
 
 ##### Artikel 12
 
-Overtreft de belasting het van de inhoudingsplichtige genoten loon in geld, dan wordt het ontbrekende geacht te zijn ingehouden op het tijdstip omschreven in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=III&artikel=10&z=2011-08-30&g=2011-08-30), met dien verstande dat de inhoudingsplichtige bevoegd is dat ontbrekende te verhalen op de werknemer.
+Overtreft de belasting het van de inhoudingsplichtige genoten loon in geld, dan wordt het ontbrekende geacht te zijn ingehouden op het tijdstip omschreven in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=III&artikel=10&z=2011-08-30&g=2011-10-01), met dien verstande dat de inhoudingsplichtige bevoegd is dat ontbrekende te verhalen op de werknemer.
 
 ##### Artikel 12a
 
 1. Indien de werknemer ook premieplichtig is voor de algemene ouderdomsverzekering BES en de algemene weduwen- en wezenverzekering BES, geschiedt de heffing van de belasting en de premies voor deze volksverzekeringen in één bedrag dan wel in één percentage, met overeenkomstige toepassing van de regels die gelden voor de heffing en de invordering van de loonbelasting.
 
-2. Voor gevallen waarin het eerste lid toepassing vindt, worden, met overeenkomstige toepassing van [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=III&artikel=8&z=2011-08-30&g=2011-08-30), bij ministeriële regeling tabellen vastgesteld waarin telkens de belasting en de premies voor de algemene ouderdomsverzekering BES en de algemene weduwen- en wezenverzekering BES in één bedrag dan wel in één percentage worden opgenomen.
+2. Voor gevallen waarin het eerste lid toepassing vindt, worden, met overeenkomstige toepassing van [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=III&artikel=8&z=2011-08-30&g=2011-10-01), bij ministeriële regeling tabellen vastgesteld waarin telkens de belasting en de premies voor de algemene ouderdomsverzekering BES en de algemene weduwen- en wezenverzekering BES in één bedrag dan wel in één percentage worden opgenomen.
 
 3. Bij ministeriële regeling worden voor daarbij aan te wijzen gevallen berekeningsvoorschriften vastgesteld aan de hand waarvan uit de in het tweede lid bedoelde tabellen het bedrag van de belasting wordt afgeleid.
 
