@@ -4,7 +4,7 @@ identifier: "BWBR0033072"
 country: "nl"
 rank: "zbo"
 publication_date: "2021-05-07"
-last_updated: "2005-01-31"
+last_updated: "2011-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033072"
 soort: "zbo"
@@ -36,7 +36,7 @@ entry_into_force: "2021-04-01"
 
 Het bestuur van de Stichting donorgegevens kunstmatige bevruchting, als bedoeld [artikel 1, onder b, van de Wet donorgegevens kunstmatige bevruchting](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=1),
 
-besluit:
+Besluit:
 
 vast te stellen een reglement betreffende het verzamelen, bewaren, beheren en het op verzoek verstrekken van de gegevens, het verschaffen van voorlichting en het zorgdragen voor de begeleiding bij de verstrekking van de gegevens, als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=2), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=4) en [7 van de Wet donorgegevens kunstmatige bevruchting](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=7):
 
@@ -48,138 +48,146 @@ In dit reglement wordt verstaan onder:
 
 - b. wet: de [Wet donorgegevens kunstmatige bevruchting](https://wetten.overheid.nl/jci1.3:c:BWBR0013642);
 
-- c. CIBG: Centraal Informatiepunt Beroepen Gezondheidszorg;
+- c. CIBG: een uitvoeringsorganisatie van het ministerie van Volksgezondheid, Welzijn en Sport;
 
-- d. medische gegevens (omtrent de donor): medische gegevens die van belang kunnen zijn voor de gezonde ontwikkeling van het kind, zoals bij algemene maatregel van bestuur bepaald, conform [artikel 2, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=2);
+- d. medische gegevens (omtrent de donor): medische gegevens die van belang kunnen zijn voor de gezonde ontwikkeling van het kind;
 
-- e. fysieke en sociale gegevens (omtrent de donor): fysieke kenmerken, opleiding en beroep alsmede gegevens omtrent de sociale achtergrond en een aantal persoonlijke kenmerken; een en ander zoals bij algemene maatregel van bestuur nader bepaald, conform [artikel 2, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=2);
+- e. fysieke en sociale gegevens (omtrent de donor): fysieke kenmerken, opleiding en beroep alsmede gegevens omtrent de sociale achtergrond en een aantal persoonlijke kenmerken, de motivatie van de donor daaronder begrepen;
 
-- f. persoonsidentificerende gegevens:
-
-- – geslachtsnaam, voornamen, geboortedatum en woonplaats van de donor, conform [artikel 2, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=2);
-
-- – geslachtsnaam, voornamen, geboortedatum en woonplaats van de vrouw bij wie kunstmatige donorbevruchting heeft plaatsgevonden, alsmede de datum waarop donorbevruchting heeft plaatsgevonden, conform [artikel 2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=2);
+- f. persoonsidentificerende gegevens (omtrent de donor en de vrouw bij wie de kunstmatige donorbevruchting heeft plaatsgevonden): geslachtsnaam, voornamen, geboortedatum en woonplaats;
 
 - g. verzoeker: de natuurlijke persoon die aan de Stichting om gegevens vraagt. Verzoeker kan zijn:
 
-- 1). degene die weet of vermoedt dat hij is verwekt door en ten gevolge van kunstmatige bevruchting (het kind) en die de leeftijd van zestien jaar heeft bereikt;
+- 1). degene die weet of vermoedt dat hij is verwekt door en ten gevolge van kunstmatige donorbevruchting (het donorkind) en die twaalf jaar of ouder is;
 
-- 2). degene die weet of vermoedt dat hij is verwekt door en ten gevolge van kunstmatige bevruchting en die de leeftijd van twaalf jaar heeft bereikt;
+- 2). de ouder(s) van een kind dat verwekt is door en ten gevolge van kunstmatige donorbevruchting en dat jonger is dan twaalf jaar;
 
-- 3). de ouder(s) van een kind dat verwekt is door en ten gevolge van kunstmatige bevruchting en dat jonger is dan 12 jaar;
+- 3). de huisarts van degene die verwekt is door en ten gevolge van kunstmatige donorbevruchting;
 
-- 4). de huisarts van een degene die verwekt is door en ten gevolge van kunstmatige bevruchting;
+- h. verrichter: de natuurlijke persoon of de rechtspersoon die de kunstmatige donorbevruchting beroeps- of bedrijfsmatig heeft verricht of heeft doen verrichten. De verrichter kan bijvoorbeeld zijn: de arts die de inseminatie heeft verricht, de spermabank, de IVF-kliniek.
 
-- h. verrichter: de natuurlijke persoon of de rechtspersoon die de kunstmatige bevruchting heeft verricht of heeft doen verrichten.
+- i. donorkind: een kind dat is verwekt is door en ten gevolge van kunstmatige donorbevruchting
 
 ##### Artikel 2. Gegevensoverdracht
 
-1. Uiterlijk 60 weken nadat kunstmatige donorbevruchting heeft plaatsgevonden dient elke verrichter de volgende gegevens aan de Stichting toe te zenden:
+1. Uiterlijk 24 weken nadat kunstmatige donorbevruchting heeft plaatsgevonden dient elke verrichter de volgende gegevens aan de Stichting te verstrekken:
 
 - a. de persoonsidentificerende gegevens van de vrouw bij wie de kunstmatige donorbevruchting heeft plaatsgevonden;
 
-- b. de datum waarop de donorbevruchting heeft plaatsgevonden;
+- b. de datum waarop de kunstmatige donorbevruchting heeft plaatsgevonden;
 
-- c. de medische, fysieke en sociale alsmede de persoonsidentificerende gegevens van de donor.
+- c. de medische, fysieke en sociale alsmede de persoonsidentificerende gegevens van de donor
 
-2. Daartoe wordt gebruikgemaakt van een formulier dat overeenkomt met het model dat als bijlage is opgenomen bij dit reglement.
+2. Daartoe wordt gebruik gemaakt van het centrale digitale registratiesysteem van de Stichting.
 
-3. De verplichting, bedoeld in eerste lid, vervalt indien vaststaat dat als gevolg van de kunstmatige bevruchting geen kind is geboren.
+3. De invoervelden van het centrale digitale registratiesysteem worden door het bestuur vastgesteld en gepubliceerd op de website van de Stichting, www.donorgegevens.nl.
 
-4. De op 1 juni 2004 aanwezige gegevens worden door de verrichter, bedoeld in eerste lid, aan de Stichting overgedragen.
+4. De verrichter verwijdert de gegevens uit het centrale digitale registratiesysteem van de Stichting als vaststaat dat de kunstmatige donorbevruchting niet tot de geboorte van een levend kind heeft geleid.
 
-5. Voor de registratie wordt aan de Stichting vijf euro per groep van gegevens die op één donor betrekking hebben met een maximum van honderd euro per jaar betaald.
+5. De op 1 juni 2004 al aanwezige gegevens worden door de verrichter aan de Stichting verstrekt, in ieder geval op het moment dat er een verzoek om deze gegevens van een verzoeker door de Stichting is ontvangen en de Stichting dit heeft medegedeeld aan de verrichter.
+
+6. Gedeeltelijke uitvoering van de kunstmatige donorbevruchting door een verrichter in het buitenland of door een niet beroeps- of bedrijfsmatig handelende verrichter ontslaat de verrichter niet van de verplichting de gegevens aan de Stichting te verstrekken. Dit houdt in dat een Nederlandse sperma- of eicelbank de gegevens ook aan de Stichting moet verstrekken als de kunstmatige donorbevruchting in een buitenlandse instelling of middels thuisinseminatie is verricht en dat een Nederlandse instelling de gegevens ook aan de Stichting moet verstrekken als het sperma of de eicellen die gebruikt zijn bij de kunstmatige donorbevruchting afkomstig zijn van een buitenlandse sperma- of eicelbank.
+
+7. Bekendheid van de moeder met de identiteit van de donor en eventuele afspraken tussen de moeder en de donor over de betrokkenheid van de donor bij de verzorging en opvoeding van het kind ontslaan de verrichter niet van de verplichting de gegevens aan de Stichting te verstrekken.
+
+8. Voor de registratie brengt de Stichting geen kosten in rekening bij de verrichter.
 
 ##### Artikel 3. Gegevensbeheer
 
-1. Na ontvangst van het formulier, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033072&artikel=2&z=2005-01-31&g=2005-01-31), stuurt de Stichting onverwijld een ontvangstbevestiging aan de afzender.
+De Stichting achterhaalt actuele adresgegevens met behulp van haar aansluiting op het ‘gemeentelijke basisadministratie persoonsgegevens-netwerk’ (GBA-netwerk).
 
-2. De Stichting beheert de gegevens met behulp van een standaardkoppeling met het Gemeentelijk Basisadministratiesysteem (GBA).
+##### Artikel 4. Verstrekking medische donorgegevens
 
-##### Artikel 4. Verstrekking medische gegevens
+De Stichting verstrekt de huisarts van een donorkind op diens verzoek de medische gegevens van de donor. De verstrekking geschiedt schriftelijk.
 
-1. De Stichting verstrekt de huisarts, bedoeld in [artikel 1, onder g, sub 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033072&artikel=1&z=2005-01-31&g=2005-01-31), op diens verzoek de medische gegevens van de donor.
+##### Artikel 5. Verstrekking fysieke en sociale donorgegevens
 
-2. De Stichting stuurt de medische gegevens aangetekend aan de huisarts.
+De Stichting verstrekt de ouder(s) van een donorkind dat jonger is dan twaalf jaar en een donorkind dat twaalf jaar of ouder is, op hun verzoek de fysieke en sociale gegevens van de donor. De verstrekking geschiedt schriftelijk.
 
-##### Artikel 5. Verstrekking fysieke en sociale gegevens
+##### Artikel 6. Raadpleging donor bij verzoek om persoonsidentificerende donorgegevens
 
-1. De Stichting verstrekt desgevraagd de fysieke en sociale gegevens van de donor aan de verzoeker als bedoeld [artikel 1, onder g, sub 2 en sub 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033072&artikel=1&z=2005-01-31&g=2005-01-31).
+1. De Stichting verstrekt een donorkind dat zestien jaar of ouder is, op diens verzoek de persoonsidentificerende gegevens van de donor, nadat de donor daarmee heeft ingestemd dan wel de afwijzing van het bezwaar van de donor tegen de verstrekking onherroepelijk is geworden.
 
-##### Artikel 6. Verstrekking persoonsidentificerende gegevens
+2. Voor het verkrijgen van instemming van de donor om aan een donorkind de persoonsidentificerende gegevens van de donor te verstrekken, neemt de Stichting op zodanige wijze contact op met deze donor dat zijn persoonlijke levenssfeer niet onevenredig wordt geschaad.
 
-1. De Stichting verstrekt persoonsidentificerende gegevens van de donor aan het kind, dat de leeftijd van zestien heeft bereikt, op zijn verzoek, nadat de donor daarmee heeft ingestemd dan wel de afwijzing van het bezwaar van de donor tegen de verstrekking onherroepelijk is geworden.
+3. De instemming of de weigering van de donor om zijn persoonsidentificerende gegevens aan een donorkind te verstrekken geschiedt uitsluitend schriftelijk.
 
-2. Voor het verkrijgen van instemming van de donor om aan de verzoeker, bedoeld in lid 1, persoonsidentificerende gegevens te verstrekken, neemt de Stichting op zodanige wijze contact op met deze donor dat zijn persoonlijke levenssfeer niet onevenredig wordt geschaad.
+4. De Stichting informeert de donor over de gang van zaken bij een verzoek tot verstrekking van zijn persoonsidentificerende gegevens, het tijdpad en de mogelijke consequenties.
 
-3. De instemming of de weigering van de donor om persoonsidentificerende gegevens te verstrekken geschiedt uitsluitend schriftelijk.
+##### Artikel 7. Donor overleden of onvindbaar
 
-4. De Stichting informeert de donor over de gang van zaken bij een verzoek tot verstrekking van gegevens, het tijdpad en de mogelijke consequenties.
+1. Indien de donor die vóór 1 juni 2004 zaadcellen of eicellen voor donatie heeft afgestaan overleden of onvindbaar is, wordt de instemming om persoonsidentificerende gegevens te verstrekken geacht te zijn geweigerd.
 
-##### Artikel 7. Begeleiding bij verstrekking fysieke/sociale en persoonsidentificerende gegevens
+2. Indien de donor die op of na 1 juni 2004 zaadcellen of eicellen voor donatie heeft afgestaan overleden of onvindbaar is, zal de Stichting op zorgvuldige wijze de directe familieleden of nabestaanden, als bedoeld in [artikel 3, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=3), benaderen met het verzoek om in de plaats van de donor instemming te verlenen.
 
-1. De Stichting draagt er zorg voor dat bij de gegevensverstrekking aan verzoekers passende psychosociale begeleiding wordt gegeven.
+3. De Stichting informeert de directe familieleden of nabestaanden, in een situatie als bedoeld in het tweede lid, over de gang van zaken bij een verzoek tot verstrekking van persoonsidentificerende gegevens, het tijdpad en de mogelijke consequenties.
 
-2. Aan de verzoekers, bedoeld in [artikel 1 onder g, sub 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033072&artikel=1&z=2005-01-31&g=2005-01-31) worden de persoonsidentificerende gegevens uitsluitend in persoon verstrekt.
+##### Artikel 8. Wel of niet verstrekken van persoonsidentificerende donorgegevens
 
-##### Artikel 8. Donor overleden of onvindbaar
+1. Indien de donor die vóór 1 juni 2004 zaadcellen of eicellen voor donatie heeft afgestaan niet instemt met de verstrekking van zijn persoonsidentificerende gegevens, worden deze niet verstrekt aan het donorkind van zestien jaar of ouder dat hierom had verzocht.
 
-1. Indien de donor die vóór 1 juni 2004 zaadcellen en eicellen voor donatie heeft afgestaan overleden of onvindbaar is, wordt de instemming om persoonsidentificerende gegevens te verstrekken geacht te zijn geweigerd.
+2. Indien de donor die op of na 1 juni 2004 zaadcellen of eicellen voor donatie heeft afgestaan (of indien deze overleden of onvindbaar is, personen als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033072&artikel=7&z=2011-10-01&g=2011-10-01), van dit reglement) niet instemt met de verstrekking van zijn persoonsidentificerende gegevens, blijft verstrekking uitsluitend achterwege indien, in aanmerking genomen de gevolgen die niet-verstrekking voor het verzoekende donorkind zou kunnen hebben, zwaarwegende belangen van de donor meebrengen dat verstrekking niet behoort plaats te vinden.
 
-2. Indien een ander dan de in het eerste lid bedoelde donor overleden of onvindbaar is, zal de Stichting op zorgvuldige wijze de directe familieleden of nabestaanden, als bedoeld [art. 3, derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=3), benaderen met het verzoek om in de plaats van de donor instemming te verlenen. De Stichting stelt daarbij alles in het werk om hun persoonlijke levenssfeer niet onevenredig te schaden.
+3. De Stichting maakt een zorgvuldige afweging tussen de belangen van het verzoekende donorkind en de belangen van de donor. De beslissing van de Stichting wordt het verzoekende donorkind en de donor schriftelijk en met redenen omkleed medegedeeld.
 
-3. De Stichting informeert de directe familieleden of nabestaanden, als bedoeld in tweede lid, over de gang van zaken bij een verzoek tot verstrekking van gegevens, het tijdpad en de mogelijke consequenties.
+##### Artikel 9. Begeleiding van donorkinderen bij verstrekking donorgegevens
 
-##### Artikel 9. Niet verstrekken van gegevens
+1. Aan een donorkind van zestien jaar of ouder worden de persoonsidentificerende gegevens van de donor uitsluitend in persoon verstrekt.
 
-1. Verstrekking van persoonsidentificerende gegevens blijft, indien de donor of personen als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033072&artikel=8&z=2005-01-31&g=2005-01-31), van dit reglement, daarmee niet instemmen, uitsluitend achterwege indien, in aanmerking genomen de gevolgen die niet-verstrekking voor de verzoeker zou kunnen hebben, zwaarwegende belangen van de donor meebrengen dat ver-strekking niet behoort plaats te vinden.
+2. De Stichting draagt er zorg voor dat bij de gegevensverstrekking aan een donorkind passende psychosociale begeleiding wordt gegeven.
 
-2. De Stichting maakt een zorgvuldige afweging tussen de belangen van de verzoeker en de belangen van de donor. De beslissing van de Stichting wordt de verzoeker en de donor schriftelijk en met redenen omkleed medegedeeld.
+##### Artikel 10. Verklaring ten behoeve van meemoeder-adoptieprocedure
 
-##### Artikel 10. CIBG
-
-1. De Stichting belast het CIBG met de verstrekking van medische gegevens en de uitvoering van de overige taken met betrekking tot de bewaring en het beheer van de gegevens, [artikel 1, onder d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0033072&artikel=1&z=2005-01-31&g=2005-01-31), van dit reglement en [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=2).
-
-2. De Stichting treft een regeling betreffende het verstrekken van fysieke/sociale en persoonsidentificerende gegevens en de rol van het CIBG daarin.
+De Stichting verstrekt de moeder van een donorkind of de vrouw die zwanger is van een donorkind op haar verzoek een verklaring dat het kind is verwekt door en ten gevolge van kunstmatige donorbevruchting en, indien dit bij de Stichting bekend is, dat de identiteit van de donor ten tijde van de bevruchting niet bekend was.
 
 ##### Artikel 11. Kosten
 
-1. Aan de meerderjarige verzoekers bedoeld in [artikel 1 onder g sub 1 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033072&artikel=1&z=2005-01-31&g=2005-01-31) worden per verzoek tot verstrekking van fysieke/sociale dan wel persoonidentificerende gegevens kosten in rekening gebracht.
+Voor de behandeling van een verzoek om donorgegevens, de verstrekking van donorgegevens en voor de verstrekking van een verklaring ten behoeve van de meemoeder-adoptieprocedure brengt de Stichting geen kosten in rekening bij verzoekers.
 
-2. De berekening van de kosten geschiedt op basis van de kostprijs van de administratie, het beheer en de bewaring en de psychosociale begeleiding.
+##### Artikel 12. CIBG
 
-3. De tarieven voor de gegevensverstrekking en voor de psychosociale begeleiding worden openbaar bekend gemaakt en worden de verzoeker voorafgaand aan de gegevensverstrekking medegedeeld.
+1. De Stichting belast het CIBG met de bewaring en het beheer namens haar van medische, fysieke, sociale en persoonsidentificerende donorgegevens en persoonsidentificerende gegevens van de vrouw bij wie de kunstmatige donorbevruchting heeft plaatsgevonden.
 
-##### Artikel 12. Voorlichting
+2. De Stichting belast het CIBG met de verstrekking namens haar van medische, fysieke en sociale donorgegevens.
+
+3. De Stichting treft een regeling betreffende de behandeling van verzoeken om persoonsidentificerende donorgegevens en de rol van het CIBG daarin. De beslissing omtrent de verstrekking van persoonsidentificerende donorgegevens en de verstrekking ervan geschiedt door het bestuur van de Stichting.
+
+##### Artikel 13. Voorlichting
 
 1. De Stichting draagt zorg voor de voorlichting met betrekking tot een goede toepassing en uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013642).
 
 2. De voorlichting is gericht op:
 
-- – personen die weten of vermoeden dat zij verwekt zijn door en ten gevolge van kunstmatige bevruchting;
+- −. personen die weten of vermoeden dat zij verwekt zijn door en ten gevolge van kunstmatige donorbevruchting;
 
-- – donoren en wensouders;
+- −. donoren;
 
-- – verrichters en andere hulpverleners/zorginstellingen;
+- −. (wens)ouders;
 
-- – organisaties die belangen van betrokkenen behartigen;
+- −. verrichters en andere hulpverleners/zorginstellingen;
 
-- – het publiek.
+- −. organisaties die belangen van betrokkenen behartigen;
 
-##### Artikel 13. Geheimhouding
+- −. het publiek.
 
-Eenieder die in het kader van de activiteiten van de Stichting betreffende het verzamelen, bewaren, beheren en het op verzoek verstrekken van gegevens, het verschaffen van voorlichting en het zorgdragen voor de begeleiding bij de verstrekking van gegevens een functie vervult is verplicht geheimhouding in acht te nemen ten opzichte van al datgene wat hem bij de uitoefening van die functie als geheim is toevertrouwd, of wat daarbij als geheim te zijner kennis is gekomen of wat daarbij te zijner kennis is gekomen en waarvan hij het vertrouwelijke karakter moest begrijpen.
+##### Artikel 14. Geheimhouding
 
-##### Artikel 14. Publieke verantwoording
+Eenieder die in het kader van de activiteiten van de Stichting betreffende het verzamelen, bewaren, beheren en het op verzoek verstrekken van gegevens, het verschaffen van voorlichting en het zorgdragen voor de begeleiding bij de verstrekking van gegevens een functie vervult, is verplicht geheimhouding in acht te nemen ten opzichte van al datgene wat hem bij de uitoefening van die functie als geheim is toevertrouwd, of wat daarbij als geheim te zijner kennis is gekomen of wat daarbij te zijner kennis is gekomen en waarvan hij het vertrouwelijke karakter moest begrijpen.
 
-1. Jaarlijks vóór 1 juli maakt het bestuur van de Stichting de balans en een rekening van baten en lasten, betreffende het voorafgaande jaar, op en zendt die, voorzien van een accountantsverklaring, naar de ministers van Volksgezondheid, Welzijn en Sport en van Justitie.
+##### Artikel 15. Publieke verantwoording
 
-2. Jaarlijks vóór 1 juli brengt de Stichting een verslag uit over het voorafgaande jaar. In dit verslag legt het bestuur verantwoording af over de activiteiten van de Stichting betreffende het verzamelen, bewaren, beheren en het op verzoek verstrekken van gegevens, het verschaffen van voorlichting en het zorgdragen voor de begeleiding bij de verstrekking van gegevens. Het jaarverslag wordt gestuurd naar de ministers van Volksgezondheid, Welzijn en Sport en van Justitie, alsmede aan de Inspectie voor de Gezondheidszorg en aan organisaties die de belangen van donorkinderen, donoren en wensouders alsmede van verrichters behartigen.
+1. Jaarlijks vóór 1 juli maakt het bestuur van de Stichting de balans een rekening van baten en lasten, betreffende het voorafgaande jaar, op en zendt die, voorzien van een accountantsverklaring, naar de ministers van Volksgezondheid, Welzijn en Sport en van Justitie. Deze verplichting vervalt indien de Stichting geen eigen baten of lasten heeft.
 
-##### Artikel 15. Vaststelling en wijziging reglement
+2. Jaarlijks vóór 1 juli brengt de Stichting een verslag uit over het voorafgaande jaar. In dit verslag legt het bestuur verantwoording af over de activiteiten van de Stichting betreffende het verzamelen, bewaren, beheren en het op verzoek verstrekken van gegevens, het verschaffen van voorlichting en het zorgdragen voor de begeleiding bij de verstrekking van gegevens. Het jaarverslag wordt gestuurd naar de ministers van Volksgezondheid, Welzijn en Sport en van Justitie, alsmede aan de Inspectie voor de Gezondheidszorg en aan organisaties die de belangen van donorkinderen, donoren en wensouders alsmede van verrichters behartigen. Het jaarverslag wordt gepubliceerd op de website van de Stichting.
+
+## Bijlage
+
+##### Artikel 16. Vaststelling en wijziging reglement
 
 1. Het bestuur van de Stichting stelt het reglement en wijzigingen daarin vast.
 
-2. Besluiten van het bestuur bedoeld in het eerste lid behoeven de voorafgaande goedkeuring van de ministers van Volksgezondheid, Welzijn en Sport en van Justitie.
+2. Besluiten van het bestuur bedoeld in het eerste lid behoeven de goedkeuring van de ministers van Volksgezondheid, Welzijn en Sport en van Justitie.
 
-## Bijlage
+##### Artikel 17. Eerder vastgestelde reglementen
+
+Dit reglement vervangt eerder vastgestelde reglementen.
