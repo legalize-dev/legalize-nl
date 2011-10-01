@@ -4,7 +4,7 @@ identifier: "BWBR0027827"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2010-06-30"
+last_updated: "2011-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027827"
 soort: "ministeriele-regeling"
@@ -61,19 +61,19 @@ In dit besluit wordt verstaan onder:
 
 De voorzitter van de directie van Kiwa N.V. is gemandateerd om:
 
-- a. besluiten te nemen ten aanzien van de in de [bijlage A1a](https://wetten.overheid.nl/jci1.3:c:BWBR0027827&bijlage=A1a&z=2010-06-30&g=2010-06-30), bij dit besluit genoemde bevoegdheden;
+- a. besluiten te nemen ten aanzien van de in de [bijlage A1a](https://wetten.overheid.nl/jci1.3:c:BWBR0027827&bijlage=A1a&z=2010-06-30&g=2011-10-01), bij dit besluit genoemde bevoegdheden;
 
 - b. de in onderdeel a. genoemde besluiten te schorsen of in te trekken als niet meer wordt voldaan aan de voorwaarden die bepalend zijn voor de afgifte van de vergunningen;
 
-- c. de bij de afzonderlijke ministeriële regelingen vastgestelde tarieven te heffen met betrekking tot de in de [bijlage A1a](https://wetten.overheid.nl/jci1.3:c:BWBR0027827&bijlage=A1a&z=2010-06-30&g=2010-06-30), bij dit besluit genoemde bevoegdheden.
+- c. de bij de afzonderlijke ministeriële regelingen vastgestelde tarieven te heffen met betrekking tot de in de [bijlage A1a](https://wetten.overheid.nl/jci1.3:c:BWBR0027827&bijlage=A1a&z=2010-06-30&g=2011-10-01), bij dit besluit genoemde bevoegdheden.
 
 - d. besluiten te nemen die een directe relatie hebben met het besluitvormingsproces van hetgeen onder a., b. en c. is bepaald.
 
 ##### Artikel 3
 
-- a. De voorzitter van de directie van Kiwa N.V. is gemachtigd om handelingen te verrichten die een directe relatie hebben met de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027827&artikel=2&z=2010-06-30&g=2010-06-30) omschreven bevoegdheden.
+- a. De voorzitter van de directie van Kiwa N.V. is gemachtigd om handelingen te verrichten die een directe relatie hebben met de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027827&artikel=2&z=2010-06-30&g=2011-10-01) omschreven bevoegdheden.
 
-- b. In situaties waarin besluiten worden ingetrokken of geschorst op andere gronden dan in [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0027827&artikel=2&z=2010-06-30&g=2010-06-30), zijn bedoeld, dan is de directeur van Kiwa N.V. gemachtigd om ten aanzien daarvan handelingen te verrichten voorzover de intrekkingen en of schorsingen betrekking hebben op de onderwerpen genoemd in [bijlagen A1a](https://wetten.overheid.nl/jci1.3:c:BWBR0027827&bijlage=A1a&z=2010-06-30&g=2010-06-30).
+- b. In situaties waarin besluiten worden ingetrokken of geschorst op andere gronden dan in [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0027827&artikel=2&z=2010-06-30&g=2011-10-01), zijn bedoeld, dan is de directeur van Kiwa N.V. gemachtigd om ten aanzien daarvan handelingen te verrichten voorzover de intrekkingen en of schorsingen betrekking hebben op de onderwerpen genoemd in [bijlagen A1a](https://wetten.overheid.nl/jci1.3:c:BWBR0027827&bijlage=A1a&z=2010-06-30&g=2011-10-01).
 
 - c. De voorzitter van de directie van Kiwa N.V. is gemachtigd klachten in behandeling te nemen als bedoeld in [Afdeling. 9.1.1. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=9.1.1) over gedragingen binnen zijn organisatie met betrekking tot de uitoefening van de in dit besluit bedoelde mandaat, volmacht en machtiging.
 
@@ -113,7 +113,7 @@ namens deze,’,
 
 ‘De voorzitter van de directie van Kiwa N.V.’ gevolgd door de handtekening en de naam
 
-3. Een document als bedoeld in het eerste lid, vastgesteld door een functionaris, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0027827&artikel=6&z=2010-06-30&g=2010-06-30), vermeldt aan het slot:
+3. Een document als bedoeld in het eerste lid, vastgesteld door een functionaris, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0027827&artikel=6&z=2010-06-30&g=2011-10-01), vermeldt aan het slot:
 
 ‘DE MINISTER VAN VERKEER EN WATERSTAAT,
 
