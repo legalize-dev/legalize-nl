@@ -4,7 +4,7 @@ identifier: "BWBR0026019"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-03-20"
-last_updated: "2009-07-01"
+last_updated: "2011-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026019"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **minister:** de Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het opleidingen op het gebied van landbouw en natuurlijke omgeving betreft, de Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-- c. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026019&artikel=2&z=2009-07-01&g=2009-07-01);
+- c. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026019&artikel=2&z=2011-10-01&g=2011-10-01);
 
 - d. **NVAO:** de Nederlands-Vlaamse Accreditatieorganisatie.
 
@@ -66,11 +66,15 @@ De commissie heeft tot taak:
 
 - 3. Het desgevraagd uitbrengen van advies aan de minister in het kader van besluitvorming over het ontnemen van de rechten aan een opleiding op grond van [artikel 6.5, eerste lid onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.5) en het opheffen van een vestigingsplaats van een opleiding op grond van [artikel 7.17a, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.17a).
 
+- 4. Het uitbrengen van advies aan de Minister over aanvragen gedaan op grond van [artikel 16.16b van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=16.16b). De commissie beoordeelt een aanvraag als bedoeld in de vorige volzin aan de hand van de toetscriteria, genoemd in [hoofdstuk 4, paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030294&paragraaf=5) en [6 van de Regeling fusietoets in het onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0030294&paragraaf=6).
+
+- 5. Het uitbrengen van advies aan de Minister overeenkomstig het vierde lid in geval van intersectorale bestuurlijke fusie door rechtspersonen in het voortgezet onderwijs of rechtspersonen in het beroepsonderwijs en volwasseneneducatie en rechtspersonen in het hoger onderwijs.
+
 ##### Artikel 4. Instelling
 
 1. De commissie wordt ingesteld met ingang van 1 juli 2009.
 
-2. Aan de commissie worden aanvragen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026019&artikel=3&z=2009-07-01&g=2009-07-01), ter beoordeling en advisering voorgelegd die zijn ingediend vanaf de datum dat de commissie is ingesteld.
+2. Aan de commissie worden aanvragen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026019&artikel=3&z=2011-10-01&g=2011-10-01), ter beoordeling en advisering voorgelegd die zijn ingediend vanaf de datum dat de commissie is ingesteld.
 
 ##### Artikel 5. Lidmaatschap
 
