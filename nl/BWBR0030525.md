@@ -334,21 +334,3 @@ Deze regeling wordt aangehaald als: Regeling erkenning werkplaatsen boordcompute
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 oktober 2011.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 9a
-
-Aan een op grond van [artikel 23k van het Besluit voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&artikel=23k) bestaande verplichting wordt gevolg gegeven door de tellerstand van een motorrijtuig te verstrekken aan de Dienst Wegverkeer door middel van door deze Dienst goedgekeurde datacommunicatie-apparatuur, geschikt voor communicatie in een door deze Dienst geaccepteerd netwerk.
-
-#### § 2. Voorschriften betreffende werkzaamheden aan de boordcomputer
-
-#### § 3. Voorschriften betreffende het melden, opslaan, overdragen en bewaren van gegevens
-
-#### § 4. Voorschriften betreffende toezicht door de Dienst Wegverkeer
-
-### Hoofdstuk 4. Wijziging, schorsing en intrekking van een erkenning
-
-### Hoofdstuk 5. Wijziging [Regeling gebruik boordcomputer en boordcomputerkaarten](https://wetten.overheid.nl/jci1.3:c:BWBR0028974)
-
-### Hoofdstuk 6. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
