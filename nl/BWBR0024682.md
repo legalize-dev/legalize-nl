@@ -4,7 +4,7 @@ identifier: "BWBR0024682"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-10-01"
-last_updated: "2008-11-12"
+last_updated: "2011-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024682"
 soort: "ministeriele-regeling"
@@ -48,11 +48,13 @@ Besluit:
 
 - **autoriseringspersoneel:** personeel dat door de houder van een erkenning volgens een door de Minister aanvaarde procedure is gemachtigd geluidsmeetrapporten af te geven nadat geluidsmetingen zijn verricht;
 
+- **BvL-acceptatiekeuring:** inspectie zoals gedefinieerd in [artikel 1 van de Regeling bewijzen van luchtwaardigheid](https://wetten.overheid.nl/jci1.3:c:BWBR0030372&artikel=1);
+
+- **BvL-verlengingsinspectie:** inspectie zoals gedefinieerd in [artikel 1 van de Regeling bewijzen van luchtwaardigheid](https://wetten.overheid.nl/jci1.3:c:BWBR0030372&artikel=1);
+
 - **certificeringspersoneel:** personeel dat door de houder van een erkenning volgens een door de Minister aanvaarde procedure is gemachtigd luchtvaartuigen of onderdelen daarvan als geschikt voor gebruik te certificeren;
 
 - **ernstig defect of gebrek:** defect of gebrek van zodanige aard, dat als gevolg hiervan de veilige uitvoering van de vlucht niet meer is gewaarborgd of een ernstige verwonding van een inzittende tot gevolg kan hebben of zijn leven in gevaar kan brengen;
-
-- **EZT:** onderhoudstechnicus voor zweefvliegtuigen of motorzweefvliegtuigen, die door de Minister is erkend voor de werkzaamheden, die in het bewijs van erkenning zijn genoemd (erkend zweefvliegtechnicus);
 
 - **houder van een erkenning:** natuurlijk of rechtspersoon, erkend door de Minister voor de werkzaamheden die zijn opgenomen in het bewijs van erkenning;
 
@@ -66,7 +68,9 @@ Besluit:
 
 - **luchtwaardigheidsgegevens:** alle informatie die nodig is om ervoor te zorgen dat het luchtvaartuig of het onderdeel daarvan in een zodanige staat kan worden gehouden dat de luchtwaardigheid van het luchtvaartuig of het goed functioneren van de operationele uitrusting of de nooduitrusting verzekerd is;
 
-- **Minister:** Minister van Verkeer en Waterstaat; [verordening (EG) nr. 216/2008](32008R0216): verordening van het Europees Parlement en de Raad van 20 februari 2008 tot vaststelling van gemeenschappelijke regels op het gebied van burgerluchtvaart en tot oprichting van een Europees Agentschap voor de veiligheid van de luchtvaart, houdende intrekking van [Richtlijn 91/670/EEG](31991L0670), [Verordening (EG) nr. 1592/2002](32002R1592) en [Richtlijn 2004/36/EG](32004L0036) (PbEU L 79).
+- **Minister:** Minister van Verkeer en Waterstaat; **orphan aircraft:** luchtvaartuig als bedoeld in [artikel 1 van de Regeling bewijzen van luchtwaardigheid](https://wetten.overheid.nl/jci1.3:c:BWBR0030372&artikel=1);
+
+- [verordening (EG) nr. 216/2008](32008R0216): verordening van het Europees Parlement en de Raad van 20 februari 2008 tot vaststelling van gemeenschappelijke regels op het gebied van burgerluchtvaart en tot oprichting van een Europees Agentschap voor de veiligheid van de luchtvaart, houdende intrekking van [Richtlijn 91/670/EEG](31991L0670), [Verordening (EG) nr. 1592/2002](32002R1592) en [Richtlijn 2004/36/EG](32004L0036) (PbEU L 79).
 
 2. In deze regeling wordt onder productie mede verstaan: het verrichten van diensten.
 
@@ -96,7 +100,7 @@ Besluit:
 
 ##### Artikel 3
 
-1. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=2&artikel=2&z=2008-11-12&g=2008-11-12) is van toepassing op de aanvraag voor een wijziging van een erkenning, met dien verstande dat kan worden volstaan met de gegevens, die voor de aangevraagde wijziging relevant zijn.
+1. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=2&artikel=2&z=2011-10-01&g=2011-10-01) is van toepassing op de aanvraag voor een wijziging van een erkenning, met dien verstande dat kan worden volstaan met de gegevens, die voor de aangevraagde wijziging relevant zijn.
 
 2. Bij wijziging wordt zo nodig een nieuw bewijs van erkenning afgegeven.
 
@@ -124,7 +128,7 @@ De houder van een POA zal de te melden afwijkingen volgens 21 A.165(f)2 van Part
 
 Degene, die een aanvraag voor erkend inspecteur heeft ingediend, wordt erkend, nadat hij heeft aangetoond, dat hij:
 
-- a. aan de erkenningsvoorwaarden opgenomen in de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=A&z=2008-11-12&g=2008-11-12) voldoet, en
+- a. aan de erkenningsvoorwaarden opgenomen in de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=A&z=2011-10-01&g=2011-10-01) voldoet, en
 
 - b. wordt voorgedragen door de onderneming waarvoor hij werkzaamheden verricht.
 
@@ -136,7 +140,7 @@ Bij de aanvraag voor erkenning als erkend inspecteur verstrekt de aanvrager de v
 
 - b. een opgave van de werkzaamheden, welke de aanvrager zal gaan uitvoeren onder de erkenning;
 
-- c. een exemplaar van het handboek, bedoeld in de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=A&z=2008-11-12&g=2008-11-12);
+- c. een exemplaar van het handboek, bedoeld in de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=A&z=2011-10-01&g=2011-10-01);
 
 - d. een exemplaar van te gebruiken modellen van de verklaringen van overeenstemming met de luchtwaardigheidseisen.
 
@@ -146,17 +150,17 @@ Van de erkenning als erkend inspecteur wordt door de Minister een bewijs afgegev
 
 ##### Artikel 10
 
-1. Ten aanzien van de verlenging van een erkend inspecteur zijn de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=3&artikel=7&z=2008-11-12&g=2008-11-12) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=3&artikel=8&z=2008-11-12&g=2008-11-12) van toepassing, met dien verstande dat:
+1. Ten aanzien van de verlenging van een erkend inspecteur zijn de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=3&artikel=7&z=2011-10-01&g=2011-10-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=3&artikel=8&z=2011-10-01&g=2011-10-01) van toepassing, met dien verstande dat:
 
 - a. kan worden volstaan met aan te geven, welke veranderingen zich hebben voorgedaan ten aanzien van de gegevens, die voor de laatst verleende erkenning zijn ingediend; en
 
 - b. de erkende inspecteur gedurende de voorafgaande termijn van geldigheid van de erkenning, de werkzaamheden waarvoor hij is erkend, in voldoende mate heeft verricht.
 
-2. Teneinde de erkenning tijdig te kunnen verlengen, moet de aanvraag hiertoe uiterlijk acht weken, doch niet eerder dan twaalf weken voor de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=3&artikel=9&z=2008-11-12&g=2008-11-12) bedoelde datum worden ingediend.
+2. Teneinde de erkenning tijdig te kunnen verlengen, moet de aanvraag hiertoe uiterlijk acht weken, doch niet eerder dan twaalf weken voor de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=3&artikel=9&z=2011-10-01&g=2011-10-01) bedoelde datum worden ingediend.
 
 ##### Artikel 11
 
-1. De erkende inspecteur deelt de Minister onverwijld iedere wijziging van de bij de laatst ingediende aanvraag verstrekte gegevens volgens [artikel 8, aanhef en onder b tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=3&artikel=8&z=2008-11-12&g=2008-11-12).
+1. De erkende inspecteur deelt de Minister onverwijld iedere wijziging van de bij de laatst ingediende aanvraag verstrekte gegevens volgens [artikel 8, aanhef en onder b tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=3&artikel=8&z=2011-10-01&g=2011-10-01).
 
 2. De Minister kan voorwaarden stellen waaronder de in het eerste lid bedoelde wijzigingen worden geaccepteerd.
 
@@ -164,7 +168,7 @@ Van de erkenning als erkend inspecteur wordt door de Minister een bewijs afgegev
 
 1. De erkenning als erkend inspecteur wordt gewijzigd, nadat door de houder van de erkenning is aangetoond, dat hij ook na de invoering van de wijziging aan de voor de verkrijging van een erkenning als erkend inspecteur gestelde voorwaarden zal blijven voldoen.
 
-2. De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=3&artikel=7&z=2008-11-12&g=2008-11-12) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=3&artikel=8&z=2008-11-12&g=2008-11-12) zijn van toepassing, met dien verstande dat kan worden volstaan met de gegevens, die voor de aangevraagde wijziging relevant zijn.
+2. De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=3&artikel=7&z=2011-10-01&g=2011-10-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=3&artikel=8&z=2011-10-01&g=2011-10-01) zijn van toepassing, met dien verstande dat kan worden volstaan met de gegevens, die voor de aangevraagde wijziging relevant zijn.
 
 3. Bij wijziging wordt zo nodig een nieuw bewijs van erkenning afgegeven.
 
@@ -186,7 +190,7 @@ Van de erkenning als erkend inspecteur wordt door de Minister een bewijs afgegev
 
 ##### Artikel 15
 
-1. Het handboek van de aanvrager bevat in ieder geval de informatie die is voorgeschreven in de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=A&z=2008-11-12&g=2008-11-12).
+1. Het handboek van de aanvrager bevat in ieder geval de informatie die is voorgeschreven in de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=A&z=2011-10-01&g=2011-10-01).
 
 2. De wijzigingen in het handboek worden zo spoedig mogelijk aan de Minister gezonden.
 
@@ -202,111 +206,73 @@ Indien naar het oordeel van de Minister, een verbetering van het kwaliteitssyste
 
 ##### Artikel 18
 
-Degene die een aanvraag voor een erkenning als EZT heeft ingediend wordt erkend, nadat hij door tussenkomst van de kwaliteitsborgingsfunctie heeft aangetoond, dat hij
-
-- a. aan de erkenningsvoorwaarden, opgenomen in de bij deze regeling behorende [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=B&z=2008-11-12&g=2008-11-12) voldoet, en
-
-- b. wordt voorgedragen door de zweefvliegclub waarvoor hij werkzaamheden gaat verrichten.
+Vervallen
 
 ##### Artikel 19
 
-Bij de aanvraag voor erkenning als EZT verstrekt de aanvrager de volgende gegevens:
-
-- a. een korte levensbeschrijving van de aanvrager en de uitvoerder van de kwaliteitsborgingsfunctie, waarin in ieder geval opleiding, ervaring en vroegere functies zijn opgenomen;
-
-- b. een afschrift van de overeenkomst met de uitvoerder van de kwaliteitsborgingsfunctie;
-
-- c. een opgave van de werkzaamheden, welke de aanvrager zal uitbesteden aan derden;
-
-- d. een opgave van de werkzaamheden, welke de aanvrager zal gaan uitvoeren onder de erkenning;
-
-- e. een exemplaar van het handboek, bedoeld in bij deze regeling behorende [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=B&z=2008-11-12&g=2008-11-12);
-
-- f. een exemplaar van te gebruiken modellen van het certificaat van vrijgave en het certificaat van vrijgave voor gebruik;
-
-- g. een evaluatieadvies van de kwaliteitsborgingsfunctie ten aanzien van de gevraagde erkenning.
+Vervallen
 
 ##### Artikel 20
 
-Van de erkenning als EZT wordt een bewijs afgegeven, dat vermeldt tot welke datum de erkenning geldig is.
+Vervallen
 
 ##### Artikel 21
 
-1. Ten aanzien van de verlenging van een erkenning als EZT zijn de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=4&artikel=18&z=2008-11-12&g=2008-11-12) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=4&artikel=19&z=2008-11-12&g=2008-11-12) van toepassing, met dien verstande dat:
-
-- a. kan worden volstaan met aan te geven, welke veranderingen zich hebben voorgedaan ten aanzien van de gegevens, die voor de laatst verleende erkenning zijn ingediend;
-
-- b. de EZT gedurende de voorafgaande termijn van geldigheid van de erkenning, de werkzaamheden waarvoor hij is erkend, in voldoende mate heeft verricht.
-
-2. Teneinde de erkenning tijdig te kunnen verlengen, moet de aanvraag hiertoe uiterlijk acht weken, doch niet eerder dan twaalf weken voor de in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=4&artikel=20&z=2008-11-12&g=2008-11-12) bedoelde datum worden ingediend.
+Vervallen
 
 ##### Artikel 22
 
-1. De EZT deelt de Minister onverwijld iedere wijziging van de bij de laatst ingediende aanvraag verstrekte gegevens volgens [artikel 19, aanhef en onder b tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=4&artikel=19&z=2008-11-12&g=2008-11-12).
-
-2. De Minister kan voorwaarden stellen waaronder de in het eerste lid bedoelde wijzigingen worden geaccepteerd.
+Vervallen
 
 ##### Artikel 23
 
-1. De erkenning als EZT wordt gewijzigd, nadat door tussenkomst van de kwaliteitsborgingsfunctie is aangetoond, dat de houder ook na de invoering van de wijziging aan de voor de verkrijging van een erkenning als EZT gestelde voorwaarden zal blijven voldoen.
-
-2. De [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=4&artikel=18&z=2008-11-12&g=2008-11-12) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=4&artikel=19&z=2008-11-12&g=2008-11-12) zijn van toepassing, met dien verstande dat kan worden volstaan met de gegevens, die voor de aangevraagde wijziging relevant zijn.
-
-3. Bij wijziging wordt zo nodig een nieuw bewijs van erkenning afgegeven.
-
-4. Een aanvraag om wijziging wordt uiterlijk vier weken voor de gewenste datum van wijziging ingediend.
+Vervallen
 
 ##### Artikel 24
 
-1. Vanaf het tijdstip van schorsing mag de houder die bevoegdheden, waarop de schorsing van de erkenning als EZT betrekking heeft, niet uitoefenen.
-
-2. Om een schorsing op te heffen wordt aangetoond, dat de omstandigheden, die tot schorsing hebben geleid, zijn opgeheven.
+Vervallen
 
 ##### Artikel 25
 
-1. Vanaf het tijdstip van intrekking mag de houder die bevoegdheden, waarop de intrekking van de erkenning als EZT betrekking heeft, niet uitoefenen.
-
-2. De EZT is verplicht het bewijs van erkenning zo spoedig mogelijk aan de Minister te zenden.
-
-3. De Minister neemt het bewijs van erkenning in en geeft, in geval van gedeeltelijke intrekking, een nieuw bewijs van erkenning af.
+Vervallen
 
 ##### Artikel 26
 
-1. Het handboek van de aanvrager bevat in ieder geval de informatie die is voorgeschreven in de bij deze regeling behorende [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=B&z=2008-11-12&g=2008-11-12).
-
-2. De wijzigingen in het handboek worden zo spoedig mogelijk aan de Minister gezonden.
+Vervallen
 
 ##### Artikel 27
 
-De EZT bewaart de volgende gegevens ten minste gedurende de aangegeven termijn:
-
-- a. de tekeningen, specificaties en overige gegevens met betrekking tot onderhoud uitgevoerde werkzaamheden aan luchtvaartuigen en onderdelen: twee jaren na beëindiging van de werkzaamheden;
-
-- b. de ontvangen certificaten van vrijgave voor gebruik en verklaringen van conformiteit voor materialen of onderdelen: twee jaren na verwerking ervan.
+Vervallen
 
 ##### Artikel 28
 
-1. De EZT meldt een defect of gebrek zo spoedig mogelijk, doch in elk geval binnen 72 uur na constatering, schriftelijk aan de Minister.
-
-2. De melding gaat vergezeld van een zo volledig mogelijke beschrijving van hetgeen werd gevonden en een opgave van de overige van belang zijnde gegevens.
-
-3. Indien er sprake is van een ernstig defect of gebrek meldt de EZT het ernstig defect of gebrek onmiddellijk aan de Minister.
+Vervallen
 
 ##### Artikel 29
 
-Indien naar het oordeel van de Minister, een verbetering van het kwaliteitssysteem noodzakelijk is, treft de EZT, met inachtneming van de door de Minister gegeven aanwijzingen, maatregelen ter verbetering van het kwaliteitssysteem.
+Vervallen
 
 ### Hoofdstuk 5. Bedrijfserkenningen op basis van Nederlandse eisen
 
 ##### Artikel 30
 
-1. De Minister geeft op aanvraag een erkenning af nadat de aanvrager heeft aangetoond, dat:
+1. De minister geeft een erkenning als bedoeld in [artikel 29a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2011-10-01&g=2011-10-01), af nadat de aanvrager heeft aangetoond:
 
-- a. hij aan de erkenningsvoorwaarden, opgenomen in de bij deze regeling behorende [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=C&z=2008-11-12&g=2008-11-12) bij deze regeling voldoet;
+- a. dat hij in Nederland is gevestigd; en
 
-- b. hij in Nederland is gevestigd.
+- b. dat hij aan de erkenningsvoorwaarden opgenomen in de bij deze regeling behorende [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=C&z=2011-10-01&g=2011-10-01) voldoet; of
 
-2. De aanvraag wordt ingediend door de functionaris van het bedrijf, die de eindverantwoordelijkheid draagt ten aanzien van het door het bedrijf gevoerde beleid.
+- c. indien hij een MOA of MOA-F bezit, zijn handboek voorziet van een aanvulling waarin het verschil tussen zijn MOA of MOA-F en de erkenning als bedoeld in [artikel 29a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2011-10-01&g=2011-10-01), is opgenomen.
+
+2. De minister geeft een erkenning als bedoeld in [artikel 29a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2011-10-01&g=2011-10-01), af nadat de aanvrager heeft aangetoond, dat:
+
+- a. hij in Nederland is gevestigd;
+
+- b. hij voldoet aan de overeenkomstig van toepassing zijnde voorwaarden van Part M, subpart G, van verordening (EG) nr. 2042/2003; en
+
+- c. zijn handboek voorziet van een aanvulling waarin de verschillen ten opzichte van Part M en de Regeling onderhoud luchtvaartuigen worden vermeld.
+
+3. De minister geeft een aanvullende onderhoudserkenning als bedoeld in [artikel 29a, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2011-10-01&g=2011-10-01), af indien de aanvrager zijn handboek heeft aangevuld met een procedure met betrekking tot deze keuringen, inspecties en verklaringen.
 
 ##### Artikel 31
 
@@ -318,7 +284,7 @@ Bij de aanvraag verstrekt de aanvrager de volgende gegevens:
 
 - c. een opgave van de potentiële afnemers van de resultaten van het productieproces ten behoeve waarvan een erkenning wordt aangevraagd;
 
-- d. een exemplaar van het handboek, bedoeld in de bij deze regeling behorende [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=C&z=2008-11-12&g=2008-11-12);
+- d. een exemplaar van het handboek, bedoeld in de bij deze regeling behorende [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=C&z=2011-10-01&g=2011-10-01);
 
 - e. een exemplaar van te gebruiken modellen van het certificaat van vrijgave en het certificaat van vrijgave voor gebruik;
 
@@ -332,9 +298,9 @@ Van de erkenning wordt een bewijs afgegeven, dat vermeldt tot welke datum de erk
 
 ##### Artikel 33
 
-1. Ten aanzien van de verlenging van een erkenning zijn de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=30&z=2008-11-12&g=2008-11-12) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=31&z=2008-11-12&g=2008-11-12) van toepassing, met dien verstande dat kan worden volstaan met aan te geven welke veranderingen zich hebben voorgedaan ten aanzien van de gegevens die voor de laatst verleende erkenning zijn ingediend.
+1. Ten aanzien van de verlenging van een erkenning zijn de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=30&z=2011-10-01&g=2011-10-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=31&z=2011-10-01&g=2011-10-01) van toepassing, met dien verstande dat kan worden volstaan met aan te geven welke veranderingen zich hebben voorgedaan ten aanzien van de gegevens die voor de laatst verleende erkenning zijn ingediend.
 
-2. Teneinde de erkenning tijdig te kunnen verlengen, moet de aanvraag hiertoe uiterlijk acht weken, doch niet eerder dan twaalf weken voor de in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=32&z=2008-11-12&g=2008-11-12) bedoelde datum worden ingediend.
+2. Teneinde de erkenning tijdig te kunnen verlengen, moet de aanvraag hiertoe uiterlijk acht weken, doch niet eerder dan twaalf weken voor de in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=32&z=2011-10-01&g=2011-10-01) bedoelde datum worden ingediend.
 
 ##### Artikel 34
 
@@ -360,7 +326,7 @@ Van de erkenning wordt een bewijs afgegeven, dat vermeldt tot welke datum de erk
 
 1. Een aanvraag tot wijziging wordt door de Minister goedgekeurd nadat is aangetoond, dat het bedrijf ook na de invoering van de wijziging aan de voor de verkrijging van een erkenning gestelde voorwaarden zal blijven voldoen.
 
-2. De [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=30&z=2008-11-12&g=2008-11-12) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=31&z=2008-11-12&g=2008-11-12) zijn van toepassing, met dien verstande dat kan worden volstaan met de gegevens, die voor de aangevraagde wijziging relevant zijn.
+2. De [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=30&z=2011-10-01&g=2011-10-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=31&z=2011-10-01&g=2011-10-01) zijn van toepassing, met dien verstande dat kan worden volstaan met de gegevens, die voor de aangevraagde wijziging relevant zijn.
 
 3. Bij wijziging wordt zo nodig een nieuw bewijs van erkenning afgegeven.
 
@@ -382,7 +348,7 @@ Van de erkenning wordt een bewijs afgegeven, dat vermeldt tot welke datum de erk
 
 ##### Artikel 38
 
-1. Het handboek van de aanvrager bevat in ieder geval de informatie die is voorgeschreven in de bij deze regeling behorende [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=C&z=2008-11-12&g=2008-11-12).
+1. Het handboek van de aanvrager bevat in ieder geval de informatie die is voorgeschreven in de bij deze regeling behorende [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=C&z=2011-10-01&g=2011-10-01).
 
 2. In door de Minister te bepalen gevallen beschikt de aanvrager over een centraal handboek. Het centrale handboek bevat de hoofdlijnen van en verwijzingen naar het handboek.
 
@@ -416,7 +382,7 @@ Indien naar het oordeel van de Minister een verbetering van het kwaliteitssystee
 
 1. De aanvrager wordt erkend nadat deze naar het oordeel van de Minister genoegzaam heeft aangetoond, dat hij:
 
-- a. aan de erkenningsvoorwaarden, opgenomen in de bij deze regeling behorende [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=D&z=2008-11-12&g=2008-11-12) voldoet;
+- a. aan de erkenningsvoorwaarden, opgenomen in de bij deze regeling behorende [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=D&z=2011-10-01&g=2011-10-01) voldoet;
 
 - b. in Nederland is gevestigd.
 
@@ -430,7 +396,7 @@ Bij de aanvraag verstrekt de aanvrager de volgende gegevens:
 
 - b. in het geval van een eenmansorganisatie, een afschrift van de overeenkomst met de uitvoerder van de kwaliteitsborgingsfunctie;
 
-- c. een exemplaar van het handboek, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=3&artikel=16&z=2008-11-12&g=2008-11-12) van de bij deze regeling behorende [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=D&z=2008-11-12&g=2008-11-12);
+- c. een exemplaar van het handboek, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=3&artikel=16&z=2011-10-01&g=2011-10-01) van de bij deze regeling behorende [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=D&z=2011-10-01&g=2011-10-01);
 
 - d. een exemplaar van te gebruiken modellen van het geluidsmeetrapport;
 
@@ -444,9 +410,9 @@ Van de erkenning wordt een bewijs afgegeven, dat vermeldt tot welke datum de erk
 
 ##### Artikel 45
 
-1. Ten aanzien van de verlenging van een erkenning zijn de [artikelen 42](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=6&artikel=42&z=2008-11-12&g=2008-11-12) en [43](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=6&artikel=43&z=2008-11-12&g=2008-11-12) van toepassing, met dien verstande dat kan worden volstaan met aan te geven, welke veranderingen zich hebben voorgedaan ten aanzien van de gegevens, die voor de laatst verleende erkenning zijn ingediend.
+1. Ten aanzien van de verlenging van een erkenning zijn de [artikelen 42](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=6&artikel=42&z=2011-10-01&g=2011-10-01) en [43](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=6&artikel=43&z=2011-10-01&g=2011-10-01) van toepassing, met dien verstande dat kan worden volstaan met aan te geven, welke veranderingen zich hebben voorgedaan ten aanzien van de gegevens, die voor de laatst verleende erkenning zijn ingediend.
 
-2. Teneinde de erkenning tijdig te kunnen verlengen, moet de aanvraag hiertoe uiterlijk acht weken, doch niet eerder dan twaalf weken voor de in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=6&artikel=44&z=2008-11-12&g=2008-11-12) bedoelde datum worden ingediend.
+2. Teneinde de erkenning tijdig te kunnen verlengen, moet de aanvraag hiertoe uiterlijk acht weken, doch niet eerder dan twaalf weken voor de in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=6&artikel=44&z=2011-10-01&g=2011-10-01) bedoelde datum worden ingediend.
 
 ##### Artikel 46
 
@@ -468,7 +434,7 @@ Van de erkenning wordt een bewijs afgegeven, dat vermeldt tot welke datum de erk
 
 - g. de ingebruikname van een nieuwe geluidsmeetlocatie.
 
-3. De houder van een erkenning, zijnde een eenmansorganisatie, deelt de Minister onverwijld iedere wijziging mee van de bij de laatst ingediende aanvraag verstrekte gegevens volgens [artikel 43, aanhef en onder b tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=6&artikel=43&z=2008-11-12&g=2008-11-12).
+3. De houder van een erkenning, zijnde een eenmansorganisatie, deelt de Minister onverwijld iedere wijziging mee van de bij de laatst ingediende aanvraag verstrekte gegevens volgens [artikel 43, aanhef en onder b tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=6&artikel=43&z=2011-10-01&g=2011-10-01).
 
 4. De Minister kan voorwaarden stellen waaronder de in het derde lid bedoelde wijzigingen worden geaccepteerd.
 
@@ -478,7 +444,7 @@ Van de erkenning wordt een bewijs afgegeven, dat vermeldt tot welke datum de erk
 
 2. De erkenning als eenmansorganisatie wordt gewijzigd, nadat door tussenkomst van de uitvoerder van de kwaliteitsborgingsfunctie is aangetoond, dat de houder ook na de invoering van de wijziging aan de voor de verkrijging van een erkenning als geluidsmeetorganisatie gestelde voorwaarden zal blijven voldoen.
 
-3. De [artikelen 42](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=6&artikel=42&z=2008-11-12&g=2008-11-12) en [43](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=6&artikel=43&z=2008-11-12&g=2008-11-12) zijn van toepassing, met dien verstande dat kan worden volstaan met de gegevens, die voor de aangevraagde wijziging relevant zijn.
+3. De [artikelen 42](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=6&artikel=42&z=2011-10-01&g=2011-10-01) en [43](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=6&artikel=43&z=2011-10-01&g=2011-10-01) zijn van toepassing, met dien verstande dat kan worden volstaan met de gegevens, die voor de aangevraagde wijziging relevant zijn.
 
 4. Bij wijziging wordt zo nodig een nieuw bewijs van erkenning afgegeven.
 
@@ -500,7 +466,7 @@ Van de erkenning wordt een bewijs afgegeven, dat vermeldt tot welke datum de erk
 
 ##### Artikel 50
 
-1. Het handboek van de aanvrager bevat in ieder geval de informatie die is voorgeschreven in de bij deze regeling behorende [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=D&z=2008-11-12&g=2008-11-12).
+1. Het handboek van de aanvrager bevat in ieder geval de informatie die is voorgeschreven in de bij deze regeling behorende [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=D&z=2011-10-01&g=2011-10-01).
 
 2. De aanvrager zendt wijzigingen in het handboek zo spoedig mogelijk aan de Minister.
 
@@ -580,21 +546,21 @@ De aanvrager beschikt over een systeem dat waarborgt dat de beschikbare document
 
 ### Artikel 8. De vrijgave
 
+### Artikel 7. Het documentatiebeheer
+
+De aanvrager beschikt over een systeem dat waarborgt dat de beschikbare documentatie wordt bijgehouden en actueel blijft.
+
+### Artikel 8. De vrijgave
+
 ### Artikel 9. Een doelmatige en deugdelijke technische administratie
 
 De aanvrager zorgt voor een doelmatige en deugdelijke technische administratie met betrekking tot:
 
-### Artikel 10. Kwaliteitsborging
+## Bijlage B. Erkenningsvoorwaarden voor EZT
 
 ### Artikel 11. Handboek
 
 Het handboek van de aanvrager bevat een beschrijving hoe hij aan de artikelen 4 tot en met 10 voldoet en een wijzigingsprocedure van het handboek.
-
-## Bijlage B. Erkenningsvoorwaarden voor EZT
-
-### Artikel 1. Vakbekwaamheid
-
-De aanvrager beschikt over een geldig bewijs van bevoegdheid als onderhoudstechnicus, met de bevoegdverklaring(en) in overeenstemming met de aard van de werkzaamheden.
 
 ### Artikel 2. Bedrijfsmiddelen
 
@@ -602,57 +568,19 @@ De aanvrager beschikt over een geldig bewijs van bevoegdheid als onderhoudstechn
 
 De aanvrager beschikt in de werkplaats over de van toepassing zijnde voorschriften, specificaties, normen en andere gegevens die ingevolge de aanwijzingen van de Minister van toepassing zijn op de materialen, onderdelen, producten en productieprocessen.
 
-### Artikel 4. Kwaliteitssysteem
+### Artikel 2. Personeelscapaciteit
 
 De aanvrager is verantwoordelijk voor een kwaliteitssysteem dat in ieder geval de volgende aspecten bevat:
 
-### Artikel 5. Het kwaliteitsbeleid
+### Artikel 4. Documentatie
 
 ### Artikel 6. De productieprocessen
 
 De aanvrager waarborgt dat de werkzaamheden tijdens het productieproces worden uitgevoerd, overeenkomstig de van toepassing zijnde specificaties, voorschriften en instructies, met gebruikmaking van de van toepassing zijnde bedrijfsmiddelen zodat de resultaten van het productieproces aan een vooraf vastgestelde kwaliteit voldoen.
 
-### Artikel 7. Het documentbeheer
-
-De aanvrager beschikt over een systeem dat waarborgt dat de beschikbare documentatie wordt bijgehouden en actueel blijft.
-
-### Artikel 8. De meetapparatuur en beproevingsmiddelen
-
-De aanvrager beschikt over een systeem dat waarborgt dat de meet- en beproevingsmiddelen in deugdelijke toestand worden gehouden.
-
-### Artikel 9. De deugdelijkheid van materialen en producten
-
-### Artikel 10. De vrijgave
-
-### Artikel 11. Een doelmatige en deugelijke technische administratie
-
-De aanvrager zorgt voor een doelmatige en deugdelijke technische administratie met betrekking tot:
-
-### Artikel 12. Kwaliteitsborging
-
-### Artikel 13. Bevoegdheden en verantwoordelijkheden van de kwaliteitsborgingsfunctie
-
-### Artikel 14. Handboek
-
-Het handboek van de aanvrager bevat een beschrijving hoe hij aan de artikelen 2 tot en met 13 voldoet alsmede een wijzigingsprocedure van het handboek.
-
-## Bijlage C. Erkenningsvoorwaarden voor een erkend bedrijf
-
-### Artikel 1. De organisatiestructuur
-
-### Artikel 2. Personeelscapaciteit
-
-### Artikel 3. Bedrijfsmiddelen
-
-### Artikel 4. Documentatie
-
-De aanvrager beschikt in het bedrijf, daar waar deze voor de uitvoering van de werkzaamheden benodigd zijn, over de van toepassing zijnde voorschriften, specificaties, normen en andere gegevens, die ingevolge de aanwijzingen van de Minister van toepassing zijn op de materialen, onderdelen, producten en productieprocessen.
-
-### Artikel 5. Kwaliteitssysteem
-
 ### Artikel 6. Kwaliteitsbeleid
 
-### Artikel 7. De opleiding, kwalificatie en ervaring van het personeel
+De aanvrager beschikt over een systeem dat waarborgt dat de beschikbare documentatie wordt bijgehouden en actueel blijft.
 
 ### Artikel 8. De productieprocessen
 
@@ -660,25 +588,63 @@ De aanvrager waarborgt dat:
 
 ### Artikel 9. Het documentatiebeheer
 
+### Artikel 10. De vrijgave
+
+### Artikel 10. De meet- en beproevingsmiddelen
+
+De aanvrager zorgt voor een doelmatige en deugdelijke technische administratie met betrekking tot:
+
+### Artikel 12. De opslag van materialen en producten
+
+### Artikel 13. Bevoegdheden en verantwoordelijkheden van de kwaliteitsborgingsfunctie
+
+### Artikel 13. De identificatie en traceerbaarheid van materialen, onderdelen en producten
+
+Het handboek van de aanvrager bevat een beschrijving hoe hij aan de artikelen 2 tot en met 13 voldoet alsmede een wijzigingsprocedure van het handboek.
+
+## Bijlage C. Erkenningsvoorwaarden voor een erkend bedrijf
+
+### Artikel 16. De kwaliteitsborging
+
+### Artikel 17. Handboek
+
+### Artikel 3. Bedrijfsmiddelen
+
+### Artikel 1. De organisatiestructuur
+
+De aanvrager beschikt in het bedrijf, daar waar deze voor de uitvoering van de werkzaamheden benodigd zijn, over de van toepassing zijnde voorschriften, specificaties, normen en andere gegevens, die ingevolge de aanwijzingen van de Minister van toepassing zijn op de materialen, onderdelen, producten en productieprocessen.
+
+### Artikel 3. Bedrijfsmiddelen
+
+### Artikel 4. Documentatie
+
+### Artikel 7. De opleiding, kwalificatie en ervaring van het personeel
+
+### Artikel 5. Kwaliteitssysteem
+
+De aanvrager waarborgt dat:
+
+### Artikel 7. De opleiding, kwalificatie en ervaring van het personeel
+
 De aanvrager beschikt over een systeem dat waarborgt, dat de beschikbare documentatie wordt bijgehouden en actueel blijft.
 
 ### Artikel 10. De meet- en beproevingsmiddelen
 
-### Artikel 11. De deugdelijkheid van toegeleverde materialen, onderdelen en producten en uitbestede werkzaamheden
+### Artikel 9. Het documentatiebeheer
 
 ### Artikel 12. De opslag van materialen en producten
 
 De aanvrager zorgt voor een goede opslag van en een goede handelwijze met materialen, halffabrikaten, onderdelen en producten, zodat:
 
-### Artikel 13. De identificatie en traceerbaarheid van materialen, onderdelen en producten
+### Artikel 11. De geluidsmeetrapporten
 
-### Artikel 14. De vrijgave
+### Artikel 12. Een doelmatige en deugdelijke technische administratie
 
-### Artikel 15. Een doelmatige en deugdelijke technische administratie
+### Artikel 13. De kwaliteitsborging bij een organisatie niet zijnde een eenmansorganisatie
 
-### Artikel 16. De kwaliteitsborging
+### Artikel 14. Kwaliteitsborging bij een eenmansorganisatie
 
-### Artikel 17. Handboek
+### Artikel 15. Bevoegdheden en verantwoordelijkheden van de uitvoerder van de kwaliteitsborgingsfunctie bij een eenmansorganisatie
 
 ## Bijlage D. Erkenningsvoorwaarden voor een erkende geluidsmeetorganisatie
 
@@ -717,6 +683,124 @@ De aanvrager beschikt over een systeem dat waarborgt dat de beschikbare document
 ### Artikel 14. Kwaliteitsborging bij een eenmansorganisatie
 
 ### Artikel 15. Bevoegdheden en verantwoordelijkheden van de uitvoerder van de kwaliteitsborgingsfunctie bij een eenmansorganisatie
+
+### Artikel 16. Handboek
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 6a
+
+1. De minister kan op aanvraag de houder van een door de minister afgegeven CAMO-erkenning aanvullend erkennen voor het uitvoeren van een acceptatiekeuring ten behoeve van de afgifte van een EASA-standaard-BvL, een EASA-beperkt-BvL dan wel een export-BvL voor een EASA luchtvaartuig en de daarbij behorende verklaringen.
+
+2. De minister geeft deze aanvullende erkenning af indien de aanvrager zijn handboek heeft aangevuld met een procedure met betrekking tot deze keuringen en verklaringen.
+
+3. De minister kan de aanvullende erkenning tot het uitvoeren van acceptatiekeuringen intrekken, indien:
+
+- a. een positief advies is uitgebracht over een niet-luchtwaardig luchtvaartuig; of
+
+- b. positieve adviezen zijn uitgebracht die op onderdelen onjuist zijn, zonder dat er sprake is van niet-luchtwaardige luchtvaartuigen.
+
+### Hoofdstuk 3. Erkend inspecteur
+
+### Hoofdstuk 4. Erkend zweefvliegtechnicus (EZT)
+
+### Hoofdstuk 5. Bedrijfserkenningen op basis van Nederlandse eisen
+
+##### Artikel 29a
+
+1. De minister kan op aanvraag aan een bedrijf op basis van Nederlandse eisen een of meer van de volgende erkenningen afgeven:
+
+- a. een erkenning tot het onderhoud van een Nederlands luchtvaartuig voorzien van een ICAO-standaard-BvL, dan wel een orphan aircraft; en
+
+- b. een erkenning tot het onderhoudsmanagement van een Nederlands luchtvaartuig voorzien van een ICAO-standaard-BvL, dan wel een orphan aircraft.
+
+2. De minister kan op aanvraag de houder van een erkenning als bedoeld in het eerste lid de bevoegdheid verlenen tot het aanvullend erkennen voor:
+
+- a. het uitvoeren van een BvL-verlengingsinspectie aan een Nederlands luchtvaartuig voorzien van een ICAO-standaard-BvL, dan wel een orphan aircraft; en
+
+- b. het uitvoeren van een acceptatiekeuring ten behoeve van de afgifte van een EASA-standaard-BvL, een EASA-beperkt-BvL, een ICAO-standaard-BvL dan wel een export-BvL en de daarbij behorende verklaringen.
+
+##### Artikel 36a
+
+1. De minister kan de bevoegdheid tot het uitvoeren van BvL-verlengingsinspecties of acceptatiekeuringen als bedoeld in [artikel 29a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2011-10-01&g=2011-10-01), intrekken, indien:
+
+- a. een positief advies is uitgebracht over een niet-luchtwaardig luchtvaartuig; of
+
+- b. positieve adviezen zijn uitgebracht die op onderdelen onjuist zijn, zonder dat er sprake is van niet-luchtwaardige luchtvaartuigen.
+
+### Hoofdstuk 6. Erkende geluidsmeetorganisatie
+
+### Hoofdstuk 7. Slotbepalingen
+
+## Bijlage A. Erkenningsvoorwaarden voor een erkend inspecteur
+
+### Artikel 1. De organisatiestructuur
+
+De aanvrager beschikt over een beschrijving, inclusief een organisatieschema, waaruit de plaats van de aanvrager in de onderneming blijkt.
+
+### Artikel 2. Vakbekwaamheid
+
+De aanvrager beschikt met betrekking tot het gebied van de werkzaamheden ten aanzien waarvan hij de erkenning aanvraagt, over:
+
+### Artikel 3. Ervaring
+
+Ten einde een goede uitvoering van werkzaamheden te kunnen waarborgen, zal de aanvrager:
+
+### Artikel 4. Documentatie
+
+De aanvrager beschikt op de werkplek over de van toepassing zijnde voorschriften, specificaties, normen en andere gegevens die ingevolge de aanwijzingen van de Minister van toepassing zijn op de certificatieprocessen.
+
+### Artikel 5. Kwaliteitssysteem
+
+De aanvrager is verantwoordelijk voor een kwaliteitssysteem dat in ieder geval de volgende aspecten bevat:
+
+### Artikel 6. De certificatieprocessen
+
+De certificatieprocessen van de aanvrager waarborgen dat de werkzaamheden worden uitgevoerd, overeenkomstig de van toepassing zijnde specificaties, voorschriften en instructies zodat de resultaten van het certificatieproces aan een vooraf vastgestelde kwaliteit voldoen.
+
+### Artikel 10. Kwaliteitsborging
+
+## Bijlage B. Erkenningsvoorwaarden voor EZT
+
+Vervallen
+
+## Bijlage C. Erkenningsvoorwaarden voor een erkend bedrijf
+
+### Artikel 1. De organisatiestructuur
+
+### Artikel 3. Bedrijfsmiddelen
+
+De aanvrager beschikt in het bedrijf, daar waar deze voor de uitvoering van de werkzaamheden benodigd zijn, over de van toepassing zijnde voorschriften, specificaties, normen en andere gegevens, die ingevolge de aanwijzingen van de Minister van toepassing zijn op de materialen, onderdelen, producten en productieprocessen.
+
+### Artikel 5. Kwaliteitssysteem
+
+### Artikel 7. De opleiding, kwalificatie en ervaring van het personeel
+
+De aanvrager beschikt over een systeem dat waarborgt, dat de beschikbare documentatie wordt bijgehouden en actueel blijft.
+
+### Artikel 11. De deugdelijkheid van toegeleverde materialen, onderdelen en producten en uitbestede werkzaamheden
+
+De aanvrager zorgt voor een goede opslag van en een goede handelwijze met materialen, halffabrikaten, onderdelen en producten, zodat:
+
+### Artikel 14. De vrijgave
+
+### Artikel 15. Een doelmatige en deugdelijke technische administratie
+
+## Bijlage D. Erkenningsvoorwaarden voor een erkende geluidsmeetorganisatie
+
+### Artikel 2. Personeelscapaciteit
+
+De aanvrager beschikt in de organisatie, daar waar deze voor de uitvoering van de werkzaamheden benodigd zijn, over de van toepassing zijnde voorschriften, specificaties, normen en andere gegevens.
+
+### Artikel 6. Kwaliteitsbeleid
+
+### Artikel 8. Het geluidsmeetproces
+
+De aanvrager waarborgt dat de werkzaamheden tijdens het geluidsmeetproces worden uitgevoerd, overeenkomstig de van toepassing zijnde voorschriften en instructies, met gebruikmaking van de van toepassing zijnde bedrijfsmiddelen.
+
+De aanvrager beschikt over een systeem dat waarborgt dat de beschikbare documentatie wordt bijgehouden en actueel blijft.
+
+### Artikel 10. De identificatie en traceerbaarheid van meetapparatuur
 
 ### Artikel 16. Handboek
 
