@@ -4,7 +4,7 @@ identifier: "BWBR0030318"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-04-01"
-last_updated: "2011-07-29"
+last_updated: "2011-10-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030318"
 soort: "ministeriele-regeling"
@@ -152,7 +152,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 1. Voor prestaties die zijn omschreven als diagnose behandeling combinaties en die zijn geopend vóór het jaar 2012, blijven de prestatiebeschrijvingen en tarieven van toepassing zoals die luiden op het moment van openen van de prestatie.
 
-2. Alle in 2011 en daarvoor geopende diagnose behandeling combinaties en het daarop betrekking hebbende functiegericht budget van instellingen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=3&z=2011-07-29&g=2011-07-29), worden afgehandeld met inachtneming van de systematiek die is opgenomen in de Aanwijzing van 19 juni 2009 inzake overdekking ziekenhuiszorg 2007 en verder (Stcrt. 2009, nr. 9643).
+2. Alle in 2011 en daarvoor geopende diagnose behandeling combinaties en het daarop betrekking hebbende functiegericht budget van instellingen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=3&z=2011-10-03&g=2011-10-03), worden afgehandeld met inachtneming van de systematiek die is opgenomen in de Aanwijzing van 19 juni 2009 inzake overdekking ziekenhuiszorg 2007 en verder (Stcrt. 2009, nr. 9643).
 
 ##### Artikel 9. einde DOT-experiment
 
@@ -162,31 +162,31 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 10. werkingssfeer
 
-1. Dit hoofdstuk is van toepassing op zorg of diensten als omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) welke wordt geleverd door de categorale instellingen voor medisch specialistische zorg waaronder centra voor long/astma, epilepsie-inrichtingen, instellingen voor revalidatie, radiotherapeutische centra en dialysecentra en voor audiologische centra, verder in dit hoofdstuk te noemen categorale instellingen.
+1. Dit hoofdstuk is van toepassing op zorg of diensten als omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) welke wordt geleverd door de categorale instellingen voor medisch specialistische zorg, te weten: zelfstandige instellingen voor revalidatie, radiotherapeutische centra en dialysecentra en voor audiologische centra, verder in dit hoofdstuk te noemen categorale instellingen.
 
 2. In deze aanwijzing wordt onder categorale instelling mede begrepen de medisch specialisten die in of ten behoeve van die instelling werkzaam zijn.
 
 ##### Artikel 11. opbrengstverschil
 
-1. De zorgautoriteit stelt voor 2008 en daarna voor ieder volgend jaar, mede op basis van door die categorale instellingen verstrekte gegevens, per instelling ambtshalve vast, het verschil tussen het budget en de daadwerkelijke opbrengst die is toe te rekenen aan de in dat jaar geleverde productie, verder te noemen het opbrengstverschil. De eerste volzin is van overeenkomstige toepassing op het verschil tussen de door de zorgautoriteit vastgestelde begroting van audiologische centra en bedoelde opbrengst.
+1. De zorgautoriteit stelt voor 2010 en daarna voor ieder volgend jaar, mede op basis van door die categorale instellingen verstrekte gegevens, per instelling ambtshalve vast, het verschil tussen het budget en de daadwerkelijke opbrengst die is toe te rekenen aan de in dat jaar geleverde productie, verder te noemen het opbrengstverschil. De eerste volzin is met ingang van het jaar 2012 van overeenkomstige toepassing op het verschil tussen de door de zorgautoriteit vastgestelde begroting van audiologische centra en bedoelde opbrengst.
 
 2. De zorgautoriteit stelt ambtshalve ter verrekening van het opbrengstverschil per categorale instelling per jaar een bedrag vast.
 
 ##### Artikel 12. opschorting 2008–2011
 
-De zorgautoriteit schort de toepassing op van de verrekening van opbrengstverschillen, zoals die verrekening in beleidsregels van de zorgautoriteit is vormgegeven op het moment van inwerkingtreding van onderhavige aanwijzing, voor zover de verrekening van het bedrag als bedoeld in het [vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=IV&artikel=11&z=2011-07-29&g=2011-07-29) daadwerkelijk plaats vindt.
+De zorgautoriteit schort de toepassing op van de verrekening van opbrengstverschillen, zoals die verrekening in beleidsregels van de zorgautoriteit is vormgegeven op het moment van inwerkingtreding van onderhavige aanwijzing, voor zover de verrekening van het bedrag als bedoeld in het [vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=IV&artikel=11&z=2011-10-03&g=2011-10-03) daadwerkelijk plaats vindt.
 
 ##### Artikel 13. toerekening opbrengstverschil
 
-1. De zorgautoriteit stelt voor 2008 en daarna voor ieder volgend jaar, mede op basis van door het College voor zorgverzekeringen, verder te noemen het CVZ, verstrekte gegevens, per categorale instelling ambtshalve vast, welk deel van het opbrengstverschil, zoals genoemd in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=IV&artikel=11&z=2011-07-29&g=2011-07-29), is toe te rekenen aan te onderscheiden individuele, in het desbetreffende jaar werkzame:
+1. De zorgautoriteit stelt voor 2008 en daarna voor ieder volgend jaar, mede op basis van door het College voor zorgverzekeringen, verder te noemen het CVZ, verstrekte gegevens, per categorale instelling ambtshalve vast, welk deel van het opbrengstverschil, zoals genoemd in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=IV&artikel=11&z=2011-10-03&g=2011-10-03), is toe te rekenen aan te onderscheiden individuele, in het desbetreffende jaar werkzame:
 
 - a. zorgverzekeraars als bedoeld in de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) en
 
 - b. andere particuliere verzekeraars, zijnde financiële ondernemingen die ingevolge de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in Nederland het bedrijf van verzekeraar uitoefenen.
 
-2. De zorgautoriteit vermeldt de in het vorige lid bedoelde toerekening naar verzekeraars in een brief waarmee zij het bedrag, bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=IV&artikel=11&z=2011-07-29&g=2011-07-29), aan de desbetreffende categorale instelling bekend maakt.
+2. De zorgautoriteit vermeldt de in het vorige lid bedoelde toerekening naar verzekeraars in een brief waarmee zij het bedrag, bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=IV&artikel=11&z=2011-10-03&g=2011-10-03), aan de desbetreffende categorale instelling bekend maakt.
 
-3. De zorgautoriteit vermeldt de in het eerste lid bedoelde toerekening voor de onderscheiden individuele verzekeraar in een brief waarmee zij het bedrag, bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=IV&artikel=11&z=2011-07-29&g=2011-07-29), aan deze bekend maakt.
+3. De zorgautoriteit vermeldt de in het eerste lid bedoelde toerekening voor de onderscheiden individuele verzekeraar in een brief waarmee zij het bedrag, bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=IV&artikel=11&z=2011-10-03&g=2011-10-03), aan deze bekend maakt.
 
 ##### Artikel 14. opbrengstverrekening 2012 en volgende
 
@@ -242,11 +242,11 @@ Deze aanwijzing wordt aangehaald als: Aanwijzing transitiemodel prestatiebekosti
 
 ##### Artikel 24. inwerkingtreding
 
-1. Met uitzondering van de [artikelen 3 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=3&z=2011-07-29&g=2011-07-29), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=III&artikel=9&z=2011-07-29&g=2011-07-29), [14 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=IV&artikel=14&z=2011-07-29&g=2011-07-29) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=VI&artikel=22&z=2011-07-29&g=2011-07-29) treedt deze aanwijzing terstond in werking.
+1. Met uitzondering van de [artikelen 3 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=3&z=2011-10-03&g=2011-10-03), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=III&artikel=9&z=2011-10-03&g=2011-10-03), [14 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=IV&artikel=14&z=2011-10-03&g=2011-10-03) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=VI&artikel=22&z=2011-10-03&g=2011-10-03) treedt deze aanwijzing terstond in werking.
 
-2. De artikelen genoemd in het eerste lid, met uitzondering van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=VI&artikel=22&z=2011-07-29&g=2011-07-29), treden in werking nadat het bij koninklijk besluit op 25 mei 2010 aan de Tweede Kamer der Staten-Generaal aangeboden voorstel van wet houdende wijziging van de Wet marktordening gezondheidszorg en enkele andere wetten in verband met de aanvulling met instrumenten voor bekostiging tot wet is verheven en in werking is getreden.
+2. De artikelen genoemd in het eerste lid, met uitzondering van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=VI&artikel=22&z=2011-10-03&g=2011-10-03), treden in werking nadat het bij koninklijk besluit op 25 mei 2010 aan de Tweede Kamer der Staten-Generaal aangeboden voorstel van wet houdende wijziging van de Wet marktordening gezondheidszorg en enkele andere wetten in verband met de aanvulling met instrumenten voor bekostiging tot wet is verheven en in werking is getreden.
 
-3. [Artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=VI&artikel=22&z=2011-07-29&g=2011-07-29) van deze aanwijzing treedt in werking nadat het bij koninklijk besluit op 25 mei 2010 aan de Tweede Kamer der Staten-Generaal aangeboden voorstel van wet houdende wijziging van de Wet marktordening gezondheidszorg en enkele andere wetten in verband met de aanvulling met instrumenten voor bekostiging tot wet is verheven en in werking is getreden, indien en voor zover bij of krachtens algemene maatregel van bestuur de toepassing van [artikel 56a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56a) voor de afwikkeling van het transitiemodel is toegestaan en daartoe op grond van [artikel 59, aanhef en onder e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59) een aanwijzing aan de zorgautoriteit is gegeven.
+3. [Artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=VI&artikel=22&z=2011-10-03&g=2011-10-03) van deze aanwijzing treedt in werking nadat het bij koninklijk besluit op 25 mei 2010 aan de Tweede Kamer der Staten-Generaal aangeboden voorstel van wet houdende wijziging van de Wet marktordening gezondheidszorg en enkele andere wetten in verband met de aanvulling met instrumenten voor bekostiging tot wet is verheven en in werking is getreden, indien en voor zover bij of krachtens algemene maatregel van bestuur de toepassing van [artikel 56a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56a) voor de afwikkeling van het transitiemodel is toegestaan en daartoe op grond van [artikel 59, aanhef en onder e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59) een aanwijzing aan de zorgautoriteit is gegeven.
 
 ##### Artikel 25. publicatie
 
