@@ -4,7 +4,7 @@ identifier: "BWBR0028363"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2011-10-04"
-last_updated: "2010-10-10"
+last_updated: "2011-10-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028363"
 soort: "wet-BES"
@@ -41,7 +41,7 @@ In deze wet verstaan onder openbaar lichaam: het openbaar lichaam Bonaire, Sint 
 
 Het lijk van een persoon of doodgeboren kind wordt in eene gesloten kist begraven, hetzij in een geheel of gedeeltelijk aarden graf, hetzij in een grafkelder, op eene begraafplaats als zoodanig vanwege het bestuurscollege aangelegd of toegelaten.
 
-«Met afwijking in zooverre van het daaromtrent bij deze wet bepaalde, is het op het eiland Saba geoorloofd ook op andere dan de in dit artikel bedoelde plaatsen lijken ter aarde te bestellen en blijkt ten aanzien van zoodanige graven en grafkelders [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=17&z=2010-10-10&g=2010-10-10) buiten toepassing.
+«Met afwijking in zooverre van het daaromtrent bij deze wet bepaalde, is het op het eiland Saba geoorloofd ook op andere dan de in dit artikel bedoelde plaatsen lijken ter aarde te bestellen en blijkt ten aanzien van zoodanige graven en grafkelders [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=17&z=2011-10-04&g=2011-10-04) buiten toepassing.
 
 Ook is het geoorloofd volgens nader bij wet vast te stellen regelen lijken te verbranden.
 
@@ -51,17 +51,17 @@ Lijken, die in een zoodanigen staat verkeeren, dat zij niet naar eene begraafpla
 
 De begraving geschiedt ter plaatse door de ambtenaren van de gezondheidsdienst van het openbaar lichaam of van de politie aangewezen, zoo mogelijk in domeingrond en anders in particulieren grond. In het laatste geval zijn de eigenaars of gebruikers van den grond verplicht de begraving te gedoogen. De plaats van begraven op particulieren grond zal in overleg met de eigenaars of gebruikers van den grond worden gekozen.
 
-De schade, die aan den eigendom mocht worden veroorzaakt, wordt door den Kantonrechter begroot en door het openbaar lichaam vergoed, naar de onderscheiding gemaakt in de [artt. 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=11&z=2010-10-10&g=2010-10-10), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=12&z=2010-10-10&g=2010-10-10) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=13&z=2010-10-10&g=2010-10-10). Als schade komt niet in aanmerking de aanwezigheid van het graf zelf.
+De schade, die aan den eigendom mocht worden veroorzaakt, wordt door den Kantonrechter begroot en door het openbaar lichaam vergoed, naar de onderscheiding gemaakt in de [artt. 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=11&z=2011-10-04&g=2011-10-04), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=12&z=2011-10-04&g=2011-10-04) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=13&z=2011-10-04&g=2011-10-04). Als schade komt niet in aanmerking de aanwezigheid van het graf zelf.
 
 ##### Artikel 3
 
-Zijn er omstandigheden, die een gewelddadigen dood doen vermoeden, dan geschiedt de begraving niet dan met toestemming, van het Openbaar Ministerie, zoo mogelijk na voorafgegane gerechtelijk schouwing.
+Zijn er omstandigheden, die een gewelddadigen dood doen vermoeden, dan geschiedt de begraving niet dan met toestemming, van de officier van justitie, zoo mogelijk na voorafgegane gerechtelijk schouwing.
 
 In het daarvan of te maken proces-verbaal worden, zooveel mogelijk, vermeld de voornamen, de naam, de ouderdom, de geboorteplaats, het beroep en de woonplaats van den overledene, of andere gegevens, die tot herkenning kunnen dienen.
 
 ##### Artikel 4
 
-Geene begraving geschiedt zonder schriftelijk verlof van den ambtenaar van den Burgerlijken Stand, vrij van zegel en kosteloos af te geven, waarin de begraafplaats, of de in [art. 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=2&z=2010-10-10&g=2010-10-10) bedoelde plaats, waar het lijk ter aarde zal worden besteld, wordt vermeld.
+Geene begraving geschiedt zonder schriftelijk verlof van den ambtenaar van den Burgerlijken Stand, vrij van zegel en kosteloos af te geven, waarin de begraafplaats, of de in [art. 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=2&z=2011-10-04&g=2011-10-04) bedoelde plaats, waar het lijk ter aarde zal worden besteld, wordt vermeld.
 
 Bij het vragen van verlof tot begraven moet worden overgelegd eene der schriftelijke verklaringen als bedoeld in de [Wet verklaringen van overlijden BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028199).
 
@@ -79,13 +79,13 @@ In dit geval wordt door de gezaghebber onmiddellijk aan den betrokken ambtenaar 
 
 ##### Artikel 7
 
-1. Een lijk mag niet worden begraven dan tussen des morgens 6 uur en des namiddags 6 uur, tenzij de ambtenaar van de Burgerlijke Stand op grond van dringende of buitengewone omstandigheden in individuele gevallen verlof verleent om op een ander uur te begraven. Het verlof wordt steeds verleend wanneer godsdienstige redenen zulks noodzakelijk maken en, zo nodig, in de gevallen bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=2&z=2010-10-10&g=2010-10-10), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=6&z=2010-10-10&g=2010-10-10) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=8&z=2010-10-10&g=2010-10-10).
+1. Een lijk mag niet worden begraven dan tussen des morgens 6 uur en des namiddags 6 uur, tenzij de ambtenaar van de Burgerlijke Stand op grond van dringende of buitengewone omstandigheden in individuele gevallen verlof verleent om op een ander uur te begraven. Het verlof wordt steeds verleend wanneer godsdienstige redenen zulks noodzakelijk maken en, zo nodig, in de gevallen bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=2&z=2011-10-04&g=2011-10-04), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=6&z=2011-10-04&g=2011-10-04) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=8&z=2011-10-04&g=2011-10-04).
 
 2. Ingeval in een openbaar lichaam een algemene behoefte bestaat om na zonsondergang lijken te begraven, kan in afwijking van het bepaalde in het eerste lid, bij eilandsbesluit houdende algemene maatregelen de mogelijkheid daartoe worden geopend. Bij een zodanig besluit worden tevens nadere regelen vastgesteld welke in het belang van de openbare orde en volksgezondheid in acht moeten worden genomen bij het begraven na zonsondergang».
 
 ##### Artikel 8
 
-Opgevischte lijken worden vanwege Gezondheidsdienst van het openbaar lichaam begraven, nadat de doodschouw of, in het geval van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=3&z=2010-10-10&g=2010-10-10), de gerechtelijke schouwing zal hebben plaats gehad.
+Opgevischte lijken worden vanwege Gezondheidsdienst van het openbaar lichaam begraven, nadat de doodschouw of, in het geval van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=3&z=2011-10-04&g=2011-10-04), de gerechtelijke schouwing zal hebben plaats gehad.
 
 ##### Artikel 9
 
@@ -159,7 +159,7 @@ Het verbod in het eerste lid vermeld omtrent het oprichten van gebouwen ter bewo
 
 ##### Artikel 18
 
-Bij de schriftelijke aanvrage om de vergunning, in het [vorig artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=17&z=2010-10-10&g=2010-10-10) bedoeld, wordt eene op schaal vervaardigde, nauwkeurige teekening overgelegd van het terrein, tevens aangevende de plaatsen, waar zich woningen of putten bevinden, als in het vorig artikel bedoeld.
+Bij de schriftelijke aanvrage om de vergunning, in het [vorig artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=17&z=2011-10-04&g=2011-10-04) bedoeld, wordt eene op schaal vervaardigde, nauwkeurige teekening overgelegd van het terrein, tevens aangevende de plaatsen, waar zich woningen of putten bevinden, als in het vorig artikel bedoeld.
 
 Ook wordt de diepte van aarde op het terrein aanwezig aangegeven.
 
@@ -175,9 +175,9 @@ Op bestaande begraafplaatsen wordt eene verdeeling, als in het eerste lid bedoel
 
 ##### Artikel 20
 
-Voor elke begraafplaats wordt, hetzij door de zorg van de eigenaars eener particuliere begraafplaats, hetzij door of van wege de ambtenaren in [art. 36](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=36&z=2010-10-10&g=2010-10-10) genoemd, nauwkeurig en regelmatig een register bijgehouden, bevattende, in afzonderlijke kolommen, een doorloopend nummer, dag en jaar der begraving, naam, voornamen, leeftijd en geslacht van de begraven personen, benevens eene duidelijke aanwijzing van het graf of van den grafkelder, eventueel der plaats in den grafkelder, waar de bijzetting plaats vond.
+Voor elke begraafplaats wordt, hetzij door de zorg van de eigenaars eener particuliere begraafplaats, hetzij door of van wege de ambtenaren in [art. 36](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=36&z=2011-10-04&g=2011-10-04) genoemd, nauwkeurig en regelmatig een register bijgehouden, bevattende, in afzonderlijke kolommen, een doorloopend nummer, dag en jaar der begraving, naam, voornamen, leeftijd en geslacht van de begraven personen, benevens eene duidelijke aanwijzing van het graf of van den grafkelder, eventueel der plaats in den grafkelder, waar de bijzetting plaats vond.
 
-Het hiervoor bedoelde register is openbaar en wordt in het geval [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=33&z=2010-10-10&g=2010-10-10) toepassing vindt overgebracht naar de archieven van het openbaar lichaam waarin de begraafplaats was gelegen.
+Het hiervoor bedoelde register is openbaar en wordt in het geval [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=33&z=2011-10-04&g=2011-10-04) toepassing vindt overgebracht naar de archieven van het openbaar lichaam waarin de begraafplaats was gelegen.
 
 Graven een grafkelders moeten van duidelijke zichtbare merkpaaltjes of van andere merkteekenen voorzien zijn, aangevende het vastgestelde nummer der graven.
 
@@ -233,17 +233,17 @@ In een grafkelder mogen twee of meer lijkkisten in één horizontaal vlak worden
 
 In een grafkelder mogen twee of meer lijkkisten boven elkander worden gezet, indien de plaats, waar eene lijkkist staat, geheel omgeven en aangevuld wordt door vast aangedreven aarde, die de kist minstens 30 c.M. bedekt.
 
-De scheidende laag aarde in het vorig lid bedoeld, kan vervangen worden door eene lucht- en waterdichte afscheiding van steen-materiaal, aansluitende, in grafkelders als in [art. 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=27&z=2010-10-10&g=2010-10-10) bedoeld, aan den staanden scheidingsmuur.
+De scheidende laag aarde in het vorig lid bedoeld, kan vervangen worden door eene lucht- en waterdichte afscheiding van steen-materiaal, aansluitende, in grafkelders als in [art. 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=27&z=2011-10-04&g=2011-10-04) bedoeld, aan den staanden scheidingsmuur.
 
 Indien in een grafkelder niet meer dan ééne lijkkist wordt begraven, worde de plaats, waar de lijkkist staat, op de wijze, als in het eerste lid bepaald, aangevuld met vast aangedreven aarde, ter dikte van ongeveer 20 c.M.
 
 ##### Artikel 29
 
-Op grafkelders, waarin niet meer wordt begraven, zijn de [artt. 24–28](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=24&z=2010-10-10&g=2010-10-10) niet van toepassing.
+Op grafkelders, waarin niet meer wordt begraven, zijn de [artt. 24–28](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=24&z=2011-10-04&g=2011-10-04) niet van toepassing.
 
 ##### Artikel 30
 
-Voor het bijzetten van lijken in bestaande grafkelders kan door het bestuurscollege vrijstelling worden verleend van het voorschrift van [art. 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=27&z=2010-10-10&g=2010-10-10), mits tusschen twee naast elkander geplaatste lijkkisten eene laag vast aangedreven aarde van minstens 30 c.M. wordt aangebracht.
+Voor het bijzetten van lijken in bestaande grafkelders kan door het bestuurscollege vrijstelling worden verleend van het voorschrift van [art. 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=27&z=2011-10-04&g=2011-10-04), mits tusschen twee naast elkander geplaatste lijkkisten eene laag vast aangedreven aarde van minstens 30 c.M. wordt aangebracht.
 
 ##### Artikel 31
 
@@ -253,7 +253,7 @@ De overblijfselen van lijken en kisten worden in een afzonderlijk gedeelte van d
 
 Voor zover begraving plaatsvindt, mogen zij niet in een geruimd graf of grafkelder worden achtergelaten.
 
-Het verbod van alinea 1 is niet van toepassing op graven, waaruit eene lijkkist wordt weggenomen na verkregen toestemming, als bedoeld in het [eerste lid van artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=9&z=2010-10-10&g=2010-10-10).
+Het verbod van alinea 1 is niet van toepassing op graven, waaruit eene lijkkist wordt weggenomen na verkregen toestemming, als bedoeld in het [eerste lid van artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=9&z=2011-10-04&g=2011-10-04).
 
 ##### Artikel 32
 
@@ -261,7 +261,7 @@ onder het roeren van graven wordt in deze wet verstaan:
 
 - a. bij graven of grafkelders met één lijkkist: het openen en verandering brengen in den toestand van den inhoud dier graven of grafkelders;
 
-- b. bij graven of grafkelders met meer lijkkisten, het verandering brengen: in de beschuttende aardlaag, als bedoeld in de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=23&z=2010-10-10&g=2010-10-10), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=28&z=2010-10-10&g=2010-10-10) en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=30&z=2010-10-10&g=2010-10-10) en in lijkkisten met haar inhoud.
+- b. bij graven of grafkelders met meer lijkkisten, het verandering brengen: in de beschuttende aardlaag, als bedoeld in de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=23&z=2011-10-04&g=2011-10-04), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=28&z=2011-10-04&g=2011-10-04) en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=30&z=2011-10-04&g=2011-10-04) en in lijkkisten met haar inhoud.
 
 ##### Artikel 33
 
@@ -271,7 +271,7 @@ Wordt het besluit genomen, dat van een bijzondere begraafplaats geen gebruik mee
 
 ##### Artikel 34
 
-Een gesloten begraafplaats blijft gedurende ten minste tien jaren onaangeroerd liggen. Na dien tijd is het verbod in [art. 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=17&z=2010-10-10&g=2010-10-10) opgeheven en mag de grond ter bezaaiing en beplanting worden vergraven, mits niet dieper dan 0,5 M.
+Een gesloten begraafplaats blijft gedurende ten minste tien jaren onaangeroerd liggen. Na dien tijd is het verbod in [art. 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=17&z=2011-10-04&g=2011-10-04) opgeheven en mag de grond ter bezaaiing en beplanting worden vergraven, mits niet dieper dan 0,5 M.
 
 Uitgraving ter meerdere diepte is binnen dertig jaren na de sluiting niet dan met vergunning van het bestuurscollege geoorloofd.
 
@@ -345,11 +345,11 @@ Het vervoer van een lijk uit een openbaar lichaam naar elders of van elders naar
 
 Onverminderd de straffen bij de gewone strafwetten gesteld tegen andere feiten, die gelijktijdig of in samenhang met de in deze wet genoemde mochten worden gepleegd, worden overtredingen van deze wet gestraft als volgt:
 
-- 1°. met geldboete van ten hoogste de eerste categorie: hij, die een lijk begraaft of doet begraven zonder een verlof als bedoeld in het [eerste lid van artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=7&z=2010-10-10&g=2010-10-10) of in strijd met de voorschriften krachtens het tweede lid van dat artikel vastgesteld; hij die handelt in strijd met het bepaalde in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=9&z=2010-10-10&g=2010-10-10); hij , die zonder de ontheffing, bedoeld bij [art. 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=6&z=2010-10-10&g=2010-10-10), een lijk begraaft of doet begraven meer dan vijf dagen na het overlijden; hij, die in strijd met het [derde lid van art. 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=19&z=2010-10-10&g=2010-10-10) bij het bijzetten van lijken het in dat lid bedoeld plan niet volgt; hij, die verzuimt aanteekening te houden, zooals voorgeschreven bij [art. 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=20&z=2010-10-10&g=2010-10-10) dezer wet; hij, die tusschen zonsondergang en zonsopgang op een begraafplaats wordt aangetroffen, anders dan om daar een begrafenis bij te wonen of iets te verrichten, wat hem door het bevoegd gezag is opgedragen.
+- 1°. met geldboete van ten hoogste de eerste categorie: hij, die een lijk begraaft of doet begraven zonder een verlof als bedoeld in het [eerste lid van artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=7&z=2011-10-04&g=2011-10-04) of in strijd met de voorschriften krachtens het tweede lid van dat artikel vastgesteld; hij die handelt in strijd met het bepaalde in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=9&z=2011-10-04&g=2011-10-04); hij , die zonder de ontheffing, bedoeld bij [art. 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=6&z=2011-10-04&g=2011-10-04), een lijk begraaft of doet begraven meer dan vijf dagen na het overlijden; hij, die in strijd met het [derde lid van art. 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=19&z=2011-10-04&g=2011-10-04) bij het bijzetten van lijken het in dat lid bedoeld plan niet volgt; hij, die verzuimt aanteekening te houden, zooals voorgeschreven bij [art. 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=20&z=2011-10-04&g=2011-10-04) dezer wet; hij, die tusschen zonsondergang en zonsopgang op een begraafplaats wordt aangetroffen, anders dan om daar een begrafenis bij te wonen of iets te verrichten, wat hem door het bevoegd gezag is opgedragen.
 
-- 2°. met hechtenis van ten hoogste eene maand of geldboete van ten hoogste de eerste categorie: hij, die een lijk begraaft of doet begraven anders dan op de wijze en op de plaats als vermeld in [art. 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=1&z=2010-10-10&g=2010-10-10), behoudens het bepaalde in [art. 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=2&z=2010-10-10&g=2010-10-10); hij, die een lijk vervoert of doet vervoeren in een niet uitsluitend tot vervoer van lijken bestemd voertuig; hij, die in strijd met [art. 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=4&z=2010-10-10&g=2010-10-10) een lijk begraaft of doet begraven zonder het daarin vermeld verlof; hij, die zonder de ontheffing, bedoeld in [art. 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=6&z=2010-10-10&g=2010-10-10), een lijk begraaft of doet begraven binnen 36 uren na het overlijden; Hij, die in strijd met [art. 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=17&z=2010-10-10&g=2010-10-10) een gebouw opricht of een put graaft; hij, die een lijk begraaft in strijd met [art. 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=23&z=2010-10-10&g=2010-10-10), of in een grafkelder plaatst in strijd met de [artt. 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=24&z=2010-10-10&g=2010-10-10), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=26&z=2010-10-10&g=2010-10-10), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=27&z=2010-10-10&g=2010-10-10) en [28, 1ste en 2de lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=28&z=2010-10-10&g=2010-10-10), behoudens de vrijstelling bedoeld in [art. 30](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=30&z=2010-10-10&g=2010-10-10); hij, die een graf roert of doet roeren, in strijd met [art. 31](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=31&z=2010-10-10&g=2010-10-10); hij, die een lijk begraaft of doet begraven op een begraafplaats, waaromtrent eene verklaring of eene kennisgeving is uitgegeven, als bedoeld in de eerste en tweede alinea van [art. 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=33&z=2010-10-10&g=2010-10-10); hij, die op een begraafplaats als in [art. 34](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=34&z=2010-10-10&g=2010-10-10) bedoeld, ontgravingen doet of doet uitvoeren in strijd met de voorschriften van dat artikel. Bij het veroordeelend vonnis kan het opruimen van de gebouwen en het dempen der putten, in strijd met het verbod gemaakt, op kosten der overtreders, worden gelast.
+- 2°. met hechtenis van ten hoogste eene maand of geldboete van ten hoogste de eerste categorie: hij, die een lijk begraaft of doet begraven anders dan op de wijze en op de plaats als vermeld in [art. 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=1&z=2011-10-04&g=2011-10-04), behoudens het bepaalde in [art. 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=2&z=2011-10-04&g=2011-10-04); hij, die een lijk vervoert of doet vervoeren in een niet uitsluitend tot vervoer van lijken bestemd voertuig; hij, die in strijd met [art. 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=4&z=2011-10-04&g=2011-10-04) een lijk begraaft of doet begraven zonder het daarin vermeld verlof; hij, die zonder de ontheffing, bedoeld in [art. 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=6&z=2011-10-04&g=2011-10-04), een lijk begraaft of doet begraven binnen 36 uren na het overlijden; Hij, die in strijd met [art. 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=17&z=2011-10-04&g=2011-10-04) een gebouw opricht of een put graaft; hij, die een lijk begraaft in strijd met [art. 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=23&z=2011-10-04&g=2011-10-04), of in een grafkelder plaatst in strijd met de [artt. 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=24&z=2011-10-04&g=2011-10-04), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=26&z=2011-10-04&g=2011-10-04), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=27&z=2011-10-04&g=2011-10-04) en [28, 1ste en 2de lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=28&z=2011-10-04&g=2011-10-04), behoudens de vrijstelling bedoeld in [art. 30](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=30&z=2011-10-04&g=2011-10-04); hij, die een graf roert of doet roeren, in strijd met [art. 31](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=31&z=2011-10-04&g=2011-10-04); hij, die een lijk begraaft of doet begraven op een begraafplaats, waaromtrent eene verklaring of eene kennisgeving is uitgegeven, als bedoeld in de eerste en tweede alinea van [art. 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=33&z=2011-10-04&g=2011-10-04); hij, die op een begraafplaats als in [art. 34](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=34&z=2011-10-04&g=2011-10-04) bedoeld, ontgravingen doet of doet uitvoeren in strijd met de voorschriften van dat artikel. Bij het veroordeelend vonnis kan het opruimen van de gebouwen en het dempen der putten, in strijd met het verbod gemaakt, op kosten der overtreders, worden gelast.
 
-- 3°. met hechtenis van ten hoogste een jaar of geldboete van ten hoogste de eerste categorie: hij, die een lijk vervoert of begraaft in het geval van [art. 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=3&z=2010-10-10&g=2010-10-10) in strijd met dat artikel; hij, die het lijk van iemand, die aan een gewelddadigen dood is gestorven verbergt of poogt te verbergen; hij, die een lijk uit een begraafplaats of een lijkenhuis wegneemt of poogt weg te nemen; hij, die de afgifte, bedoeld in [art. 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=5&z=2010-10-10&g=2010-10-10), van een lijk weigert; hij, die geen geneeskundige zijnde of buiten toezicht van een geneeskundige een lijkopening of ontleding van een lijk verricht; hij die een lijk vervoert of doet vervoeren in strijd met de krachtens [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=40&z=2010-10-10&g=2010-10-10) gegeven voorschriften.
+- 3°. met hechtenis van ten hoogste een jaar of geldboete van ten hoogste de eerste categorie: hij, die een lijk vervoert of begraaft in het geval van [art. 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=3&z=2011-10-04&g=2011-10-04) in strijd met dat artikel; hij, die het lijk van iemand, die aan een gewelddadigen dood is gestorven verbergt of poogt te verbergen; hij, die een lijk uit een begraafplaats of een lijkenhuis wegneemt of poogt weg te nemen; hij, die de afgifte, bedoeld in [art. 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=5&z=2011-10-04&g=2011-10-04), van een lijk weigert; hij, die geen geneeskundige zijnde of buiten toezicht van een geneeskundige een lijkopening of ontleding van een lijk verricht; hij die een lijk vervoert of doet vervoeren in strijd met de krachtens [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=40&z=2011-10-04&g=2011-10-04) gegeven voorschriften.
 
 ##### Artikel 42
 
@@ -357,7 +357,7 @@ De bij deze wet strafbaar gestelde feiten worden beschouwd als overtredingen.
 
 ##### Artikel 44bis
 
-De in de [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=38&z=2010-10-10&g=2010-10-10) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=39&z=2010-10-10&g=2010-10-10) genoemde tarieven kunnen bij eilandsverordening worden gewijzigd.
+De in de [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=38&z=2011-10-04&g=2011-10-04) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=39&z=2011-10-04&g=2011-10-04) genoemde tarieven kunnen bij eilandsverordening worden gewijzigd.
 
 ##### Artikel 45
 
