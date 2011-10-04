@@ -4,7 +4,7 @@ identifier: "BWBR0028452"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2011-10-04"
-last_updated: "2010-10-10"
+last_updated: "2011-10-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028452"
 soort: "AMvB-BES"
@@ -57,7 +57,7 @@ Dit besluit berust op de [artikelen 5, vierde lid, onder b](https://wetten.overh
 
 1. Het in [artikel 5 lid 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&artikel=5) vervatte verbod tot invoer van ongeregistreerde verpakte geneesmiddelen geldt niet:
 
-- a. indien ten genoegen van de Inspecteur voor Geneesmiddelen aangetoond wordt dat het geneesmiddel uitsluitend bestemd is voor eigen gebruik;
+- a. indien ten genoegen van de Inspecteur aangetoond wordt dat het geneesmiddel uitsluitend bestemd is voor eigen gebruik;
 
 - b. indien de invoer als monster geschiedt ten behoeve van een verzoek tot inschrijving in het register of ten behoeve van een apotheker, geneeskundige, tandheelkundige, vroedvrouw of importeur mits op het monster duidelijk zijn bestemming als monster vermeld staat.
 
@@ -75,7 +75,7 @@ Dit besluit berust op de [artikelen 5, vierde lid, onder b](https://wetten.overh
 
 3. Is de in lid 1 genoemde fabrikant zelf apotheker, die niet in de uitoefening van zijn bevoegdheid is geschorst of wie deze bevoegdheid niet is ontnomen, dan behoeft deze slechts ten genoegen van de Inspecteur aan te tonen dat op de bereiding voldoende toezicht wordt uitgeoefend.
 
-4. In bijzondere gevallen kan Onze Minister, de Inspecteur voor Geneesmiddelen gehoord, en zolang de belangen van de volksgezondheid zich daartegen niet verzetten, ontheffing verlenen van het bepaalde in het eerste lid. Onze Minister kan aan de ontheffing voorwaarden verbinden of deze intrekken, indien het belang van de volksgezondheid zulks vordert.
+4. In bijzondere gevallen kan Onze Minister, de Inspecteur gehoord, en zolang de belangen van de volksgezondheid zich daartegen niet verzetten, ontheffing verlenen van het bepaalde in het eerste lid. Onze Minister kan aan de ontheffing voorwaarden verbinden of deze intrekken, indien het belang van de volksgezondheid zulks vordert.
 
 5. Tegen weigering of intrekking van de ontheffing staat beroep open op de voet van het bepaalde in het [vierde lid van artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&artikel=3).
 
@@ -93,7 +93,7 @@ Dit besluit berust op de [artikelen 5, vierde lid, onder b](https://wetten.overh
 
 2. Het chargenummer moet in een door de Inspecteur vastgestelde en aan belanghebbende bekend gemaakte code de maand en het jaartal aangeven, waarin de charge werd bereid.
 
-3. De protocollen dienen door de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028452&artikel=3&z=2010-10-10&g=2010-10-10) bedoelde apotheker mede te zijn ondertekend, Zij moeten aan de personen, bedoeld in [artikel 50 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&artikel=50) op eerste verzoek ter inzage worden verstrekt.
+3. De protocollen dienen door de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028452&artikel=3&z=2011-10-04&g=2011-10-04) bedoelde apotheker mede te zijn ondertekend, Zij moeten aan de personen, bedoeld in [artikel 50 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&artikel=50) op eerste verzoek ter inzage worden verstrekt.
 
 ##### Artikel 6
 
@@ -111,7 +111,7 @@ Dit besluit berust op de [artikelen 5, vierde lid, onder b](https://wetten.overh
 
 7. Bij de invoer van verpakte geneesmiddelen welke staan in het register, bedoeld in [artikel 53 van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=53), stelt de vergunninghouder de Inspecteur hiervan in kennis.
 
-8. Bij de invoer van geneesmiddelen welke zijn ingeschreven in het register, bedoeld in [artikel 5, tweede lid, van de Wet op de geneesmiddelenvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&artikel=5) en welke niet zijn vermeld in het register, bedoeld in [artikel 53 van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=53), is goedkeuring van de Inspecteur vereist.
+8. Bij de invoer van geneesmiddelen als bedoeld in [artikel 5, tweede lid, van de Wet op de geneesmiddelenvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&artikel=5) of als bedoeld in [artikel XIX van de Derde Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0029250&artikel=XIX), is goedkeuring van de Inspecteur vereist.
 
 9. De goedkeuring, bedoeld in het achtste lid, wordt verleend na controle en goedkeuring van de originele fabrieksfactuur met naam importeur, betreffende registratie nummers en land van herkomst en de Bill of Lading/Airway Bill.
 
@@ -129,7 +129,7 @@ Dit besluit berust op de [artikelen 5, vierde lid, onder b](https://wetten.overh
 
 - d. op deugdelijke wijze verpakt en van een sluiting voorzien is.
 
-2. De fabrikant of importeur is verplicht, met inachtneming van [artikel 13 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028452&artikel=13&z=2010-10-10&g=2010-10-10), aan de commissie onmiddellijk schriftelijk opgave te doen van elke wijziging in of aanvulling van de gegevens welke bij het verzoek tot inschrijving in het register bedoeld in [artikel 53 van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=53) hetzij bedoeld in [artikel 5, tweede lid, van de Wet op de geneesmiddelenvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&artikel=5) werden overgelegd.
+2. De fabrikant of importeur is verplicht, met inachtneming van [artikel 13 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028452&artikel=13&z=2011-10-04&g=2011-10-04), aan de commissie onmiddellijk schriftelijk opgave te doen van elke wijziging in of aanvulling van de gegevens welke bij het verzoek tot inschrijving in het register bedoeld in [artikel 53 van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=53) hetzij bedoeld in [artikel 5, tweede lid, van de Wet op de geneesmiddelenvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&artikel=5) werden overgelegd.
 
 ##### Artikel 8
 
@@ -161,9 +161,9 @@ Zij, die verpakte geneesmiddelen op voorraad mogen hebben, mogen afleveren of te
 
 ##### Artikel 10
 
-1. Bij aflevering of terhandstelling mogen de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028452&artikel=8&z=2010-10-10&g=2010-10-10) bedoelde vermeldingen op de verpakking en op het voorwerp dat het middel bevat niet onleesbaar zijn gemaakt, gewijzigd of aangevuld. Het bepaalde in de voorgaande volzin geldt niet bij aflevering of terhandstelling op recept.
+1. Bij aflevering of terhandstelling mogen de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028452&artikel=8&z=2011-10-04&g=2011-10-04) bedoelde vermeldingen op de verpakking en op het voorwerp dat het middel bevat niet onleesbaar zijn gemaakt, gewijzigd of aangevuld. Het bepaalde in de voorgaande volzin geldt niet bij aflevering of terhandstelling op recept.
 
-2. Het is verboden verpakte geneesmiddelen af te leveren of terhand te stellen, waarvan de in [artikel 8 lid 1 onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028452&artikel=8&z=2010-10-10&g=2010-10-10) bedoelde datum is verstreken.
+2. Het is verboden verpakte geneesmiddelen af te leveren of terhand te stellen, waarvan de in [artikel 8 lid 1 onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028452&artikel=8&z=2011-10-04&g=2011-10-04) bedoelde datum is verstreken.
 
 ##### Artikel 11
 
@@ -293,9 +293,9 @@ De bepalingen van deze algemene maatregel van bestuur zijn eveneens van toepassi
 
 ##### Artikel 26
 
-1. De geneesmiddelen welke bij Ministeriële Beschikking van de 29ste september 1961 (P.B. 1961 no. 159) aangewezen waren als geneesmiddelen, welke anderen dan de in [artikel 3 lid 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&artikel=3) bedoelde personen ter aflevering in voorraad mogen hebben en afleveren, worden verondersteld overeenkomstig [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028452&artikel=14&z=2010-10-10&g=2010-10-10) op 1 januari 1963 in het register te zijn ingeschreven.
+1. De geneesmiddelen welke bij Ministeriële Beschikking van de 29ste september 1961 (P.B. 1961 no. 159) aangewezen waren als geneesmiddelen, welke anderen dan de in [artikel 3 lid 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&artikel=3) bedoelde personen ter aflevering in voorraad mogen hebben en afleveren, worden verondersteld overeenkomstig [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028452&artikel=14&z=2011-10-04&g=2011-10-04) op 1 januari 1963 in het register te zijn ingeschreven.
 
-2. [Artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028452&artikel=25&z=2010-10-10&g=2010-10-10) is ten aanzien van deze veronderstelde inschrijving van overeenkomstige toepassing.
+2. [Artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028452&artikel=25&z=2011-10-04&g=2011-10-04) is ten aanzien van deze veronderstelde inschrijving van overeenkomstige toepassing.
 
 ##### Artikel 27
 
