@@ -4,7 +4,7 @@ identifier: "BWBR0028203"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2011-10-04"
-last_updated: "2010-10-10"
+last_updated: "2011-10-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028203"
 soort: "wet-BES"
@@ -71,7 +71,7 @@ Het is verboden een crematorium, dat niet op de voet van het bepaalde bij of kra
 
 1. Het vestigen, uitbreiden of wijzigen van een crematorium behoeft vergunning van het bestuurscollege.
 
-2. Onverminderd het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=II&artikel=8&z=2010-10-10&g=2010-10-10) kan het bestuurscollege aan de vergunning voorschiften verbinden of deze onder beperkingen verlenen.
+2. Onverminderd het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=II&artikel=8&z=2011-10-04&g=2011-10-04) kan het bestuurscollege aan de vergunning voorschiften verbinden of deze onder beperkingen verlenen.
 
 3. Bij eilandsbesluit houdende algemene maatregelen kan voor het betrokken openbaar lichaam een maximum aantal te verlenen vergunningen voor het vestigen van een crematorium worden vastgesteld.
 
@@ -103,11 +103,11 @@ Geen crematie van een lijk geschiedt zonder schriftelijk verlof van de ambtenaar
 
 ##### Artikel 11
 
-Verlof tot crematie wordt niet verleend, zolang niet is overgelegd een der schriftelijke verklaringen als bedoeld in de Wet verklaringen van overlijden BES, dan wel een verklaring van geen bezwaar tegen crematie, afgegeven door de officier van justitie.
+Verlof tot crematie wordt niet verleend, zolang niet is overgelegd een der schriftelijke verklaringen als bedoeld in de Wet verklaringen van overlijden BES, dan wel een verklaring van geen bezwaar tegen crematie, afgegeven door de officier van justitie. Indien de officier van justitie in de gevallen als bedoeld in [artikel 1, derde lid, van de Wet verklaringen van overlijden BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=1) meent niet tot de afgifte van een verklaring van geen bezwaar tegen crematie te kunnen overgaan, stelt deze de op grond van [artikel 4 van de Wet verklaringen van overlijden BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=4) aangewezen geneeskundige en de regionale toetsingscommissie, bedoeld in [artikel 19c van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=19), hiervan onverwijld op de hoogte.
 
 ##### Artikel 12
 
-1. De ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=III&artikel=11&z=2010-10-10&g=2010-10-10) overgelegde stukken worden bij de akte van overlijden gevoegd.
+1. De ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=III&artikel=11&z=2011-10-04&g=2011-10-04) overgelegde stukken worden bij de akte van overlijden gevoegd.
 
 2. Bij gebreke van een akte worden de overgelegde stukken bewaard door de ambtenaar van de burgerlijke stand van het openbaar lichaam waarin de crematie geschiedt.
 
@@ -145,13 +145,13 @@ Ten aanzien van lijken, die binnen een openbaar lichaam ter crematie worden binn
 
 1. Een maand nadat de as in de bus is geborgen kan zij worden verstrooid.
 
-2. Mits voldaan aan het in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=IV&artikel=17&z=2010-10-10&g=2010-10-10), bepaalde, is de invoer van de as van in het buitenland of in het Europese deel van Nederland verbrande lijken naar een openbaar lichaam toegelaten. Bij aankomst dient te worden overgelegd een desbetreffende verklaring van overlijden of van levenloze geboorte of een daarmede overeenstemmend document waaruit de identiteit van de gecremeerde persoon of het doodgeboren kind blijkt.
+2. Mits voldaan aan het in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=IV&artikel=17&z=2011-10-04&g=2011-10-04), bepaalde, is de invoer van de as van in het buitenland of in het Europese deel van Nederland verbrande lijken naar een openbaar lichaam toegelaten. Bij aankomst dient te worden overgelegd een desbetreffende verklaring van overlijden of van levenloze geboorte of een daarmede overeenstemmend document waaruit de identiteit van de gecremeerde persoon of het doodgeboren kind blijkt.
 
 3. Uit het buitenland, een ander openbaar lichaam of het Europese deel van Nederland afkomstige as kan niet eerder dan een maand na de invoer worden verstrooid.
 
 4. Een asbus kan een maand nadat de as in de bus is geborgen ter bijzetting of verstrooiing van haar inhoud, naar een ander openbaar lichaam, naar het Europese deel van Nederland of naar het buitenland worden gezonden.
 
-5. Op verzoek van degene die het in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=III&artikel=10&z=2010-10-10&g=2010-10-10) bedoelde verlof heeft aangevraagd dan wel degene, die redelijkerwijze geacht kan worden in diens plaats te zijn getreden, kan de officier van justitie in bijzondere gevallen ontheffing verlenen van de in de voorgaande leden genoemde termijnen.
+5. Op verzoek van degene die het in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=III&artikel=10&z=2011-10-04&g=2011-10-04) bedoelde verlof heeft aangevraagd dan wel degene, die redelijkerwijze geacht kan worden in diens plaats te zijn getreden, kan de officier van justitie in bijzondere gevallen ontheffing verlenen van de in de voorgaande leden genoemde termijnen.
 
 ##### Artikel 19
 
@@ -175,15 +175,15 @@ Ten aanzien van lijken, die binnen een openbaar lichaam ter crematie worden binn
 
 1. Voor elke begraafplaats wordt, hetzij door de zorg van de eigenaar van een bijzondere begraafplaats, hetzij door of vanwege de ambtenaren van de burgerlijke stand een register van alle daar bijgezette asbussen gehouden, met een nauwkeurige aanduiding van de plaats waar zij bijgezet zijn.
 
-3. Ten aanzien van het in het eerste lid bedoelde register zijn de [leden 2 en 3 van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=I&artikel=2&z=2010-10-10&g=2010-10-10) van overeenkomstige toepassing.
+3. Ten aanzien van het in het eerste lid bedoelde register zijn de [leden 2 en 3 van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=I&artikel=2&z=2011-10-04&g=2011-10-04) van overeenkomstige toepassing.
 
 ##### Artikel 22
 
-1. Een bewaarplaats als bedoeld in [artikel 19, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=IV&artikel=19&z=2010-10-10&g=2010-10-10) wordt niet in gebruik genomen dan met vergunning van het bestuurscollege.
+1. Een bewaarplaats als bedoeld in [artikel 19, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=IV&artikel=19&z=2011-10-04&g=2011-10-04) wordt niet in gebruik genomen dan met vergunning van het bestuurscollege.
 
 2. De houder van een bewaarplaats houdt een register van alle daar bijgezette asbussen, met een nauwkeurige aanduiding van de plaats waar zij bijgezet zijn.
 
-3. Ten aanzien van het in het tweede lid bedoelde register zijn de [leden 2 en 3 van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=I&artikel=2&z=2010-10-10&g=2010-10-10) van overeenkomstige toepassing.
+3. Ten aanzien van het in het tweede lid bedoelde register zijn de [leden 2 en 3 van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=I&artikel=2&z=2011-10-04&g=2011-10-04) van overeenkomstige toepassing.
 
 ##### Artikel 23
 
@@ -195,7 +195,7 @@ Ten aanzien van lijken, die binnen een openbaar lichaam ter crematie worden binn
 
 ##### Artikel 24
 
-1. Het [tweede lid van artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=IV&artikel=23&z=2010-10-10&g=2010-10-10) geldt niet voor het ruimen van asbussen op last van de houder van de plaats van bijzetting.
+1. Het [tweede lid van artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=IV&artikel=23&z=2011-10-04&g=2011-10-04) geldt niet voor het ruimen van asbussen op last van de houder van de plaats van bijzetting.
 
 2. Dit ruimen vindt niet plaats dan na verloop van achttien jaren, nadat de as in de bus is geborgen en slechts met toestemming van de rechthebbende op de ruimte waar de asbus is bijgezet.
 
@@ -235,25 +235,25 @@ Crematoria staan onder toezicht van het bestuurscollege van het openbaar lichaam
 
 Met hechtenis van ten hoogste drie maanden of geldboete van de derde categorie wordt gestraft:
 
-- 1. het verbranden van een lijk in strijd met of anders dan met inachtneming van hetgeen is bepaald bij de [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=I&artikel=1&z=2010-10-10&g=2010-10-10), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=III&artikel=10&z=2010-10-10&g=2010-10-10).
+- 1. het verbranden van een lijk in strijd met of anders dan met inachtneming van hetgeen is bepaald bij de [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=I&artikel=1&z=2011-10-04&g=2011-10-04), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=III&artikel=10&z=2011-10-04&g=2011-10-04).
 
-- 2. het geven van verlof tot crematie in strijd met [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=III&artikel=11&z=2010-10-10&g=2010-10-10).
+- 2. het geven van verlof tot crematie in strijd met [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=III&artikel=11&z=2011-10-04&g=2011-10-04).
 
-- 3. het verbranden van een lijk voordat dit ingevolge het bij [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=III&artikel=14&z=2010-10-10&g=2010-10-10), of krachtens artikel 14, tweede lid is toegestaan.
+- 3. het verbranden van een lijk voordat dit ingevolge het bij [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=III&artikel=14&z=2011-10-04&g=2011-10-04), of krachtens artikel 14, tweede lid is toegestaan.
 
-- 4. overtreding van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=IV&artikel=17&z=2010-10-10&g=2010-10-10) alsmede het openen van een asbus anders bij toepassing van de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=IV&artikel=18&z=2010-10-10&g=2010-10-10) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=IV&artikel=24&z=2010-10-10&g=2010-10-10).
+- 4. overtreding van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=IV&artikel=17&z=2011-10-04&g=2011-10-04) alsmede het openen van een asbus anders bij toepassing van de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=IV&artikel=18&z=2011-10-04&g=2011-10-04) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=IV&artikel=24&z=2011-10-04&g=2011-10-04).
 
-- 5. het verstrooien van as of het verzenden, verwijderen, bewaren of vervoeren van een asbus in strijd met of anders dan met in achtneming van hetgeen is bepaald bij of krachtens de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=IV&artikel=18&z=2010-10-10&g=2010-10-10), [19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=IV&artikel=19&z=2010-10-10&g=2010-10-10), en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=IV&artikel=23&z=2010-10-10&g=2010-10-10).
+- 5. het verstrooien van as of het verzenden, verwijderen, bewaren of vervoeren van een asbus in strijd met of anders dan met in achtneming van hetgeen is bepaald bij of krachtens de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=IV&artikel=18&z=2011-10-04&g=2011-10-04), [19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=IV&artikel=19&z=2011-10-04&g=2011-10-04), en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=IV&artikel=23&z=2011-10-04&g=2011-10-04).
 
 ##### Artikel 28
 
 Met hechtenis van ten hoogste een maand of geldboete van de tweede categorie wordt gestraft:
 
-- 1. overtreding van het bepaalde bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=I&artikel=2&z=2010-10-10&g=2010-10-10), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=II&artikel=3&z=2010-10-10&g=2010-10-10), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=II&artikel=5&z=2010-10-10&g=2010-10-10), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=III&artikel=9&z=2010-10-10&g=2010-10-10), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=IV&artikel=21&z=2010-10-10&g=2010-10-10) en [22, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=IV&artikel=22&z=2010-10-10&g=2010-10-10).
+- 1. overtreding van het bepaalde bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=I&artikel=2&z=2011-10-04&g=2011-10-04), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=II&artikel=3&z=2011-10-04&g=2011-10-04), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=II&artikel=5&z=2011-10-04&g=2011-10-04), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=III&artikel=9&z=2011-10-04&g=2011-10-04), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=IV&artikel=21&z=2011-10-04&g=2011-10-04) en [22, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=IV&artikel=22&z=2011-10-04&g=2011-10-04).
 
-- 2. het bijzetten van een asbus in strijd met of anders dan met inachtneming van hetgeen is bepaald bij of krachtens de [artikelen 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=IV&artikel=19&z=2010-10-10&g=2010-10-10), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=IV&artikel=20&z=2010-10-10&g=2010-10-10), [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=IV&artikel=22&z=2010-10-10&g=2010-10-10), en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=IV&artikel=25&z=2010-10-10&g=2010-10-10).
+- 2. het bijzetten van een asbus in strijd met of anders dan met inachtneming van hetgeen is bepaald bij of krachtens de [artikelen 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=IV&artikel=19&z=2011-10-04&g=2011-10-04), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=IV&artikel=20&z=2011-10-04&g=2011-10-04), [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=IV&artikel=22&z=2011-10-04&g=2011-10-04), en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=IV&artikel=25&z=2011-10-04&g=2011-10-04).
 
-- 3. overtreding van het bepaalde krachtens de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=II&artikel=8&z=2010-10-10&g=2010-10-10) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=IV&artikel=25&z=2010-10-10&g=2010-10-10), voor zover uitdrukkelijk als strafbaar feit in de zin van het onderhavige artikel aangeduid.
+- 3. overtreding van het bepaalde krachtens de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=II&artikel=8&z=2011-10-04&g=2011-10-04) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=IV&artikel=25&z=2011-10-04&g=2011-10-04), voor zover uitdrukkelijk als strafbaar feit in de zin van het onderhavige artikel aangeduid.
 
 ##### Artikel 29
 
