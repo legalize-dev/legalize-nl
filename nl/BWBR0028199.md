@@ -4,7 +4,7 @@ identifier: "BWBR0028199"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2011-10-04"
-last_updated: "2010-10-10"
+last_updated: "2011-10-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028199"
 soort: "wet-BES"
@@ -41,13 +41,17 @@ entry_into_force: "2010-10-10"
 
 2. Zij geven de in het vorige lid bedoelde verklaringen niet dan na zich door persoonlijke schouwing overtuigd te hebben van het overlijden respectievelijk van de levenloze geboorte.
 
+3. Indien het overlijden het gevolg was van de toepassing van levensbeëindiging op verzoek of hulp bij zelfdoding als bedoeld in [artikel 306, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=306), onderscheidenlijk [artikel 307, tweede lid, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=307) geeft de behandelend geneeskundige geen verklaring van overlijden af en doet hij van de oorzaak van het overlijden onverwijld door invulling van een formulier mededeling aan de op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=4&z=2011-10-04&g=2011-10-04) door het bestuurscollege aangewezen geneeskundige. Bij de mededeling voegt de geneeskundige een beredeneerd verslag inzake de inachtneming van de zorgvuldigheidseisen, bedoeld in [artikel 2 van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](https://wetten.overheid.nl/jci1.3:c:BWBR0012410).
+
 ##### Artikel 2
 
-1. De geneeskundige, die de verklaring van overlijden of levenloze geboorte als bedoeld in het [eerste lid van artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=1&z=2010-10-10&g=2010-10-10) afgeeft, doet ten behoeve van de statistiek afzonderlijk opgave van de doodsoorzaak.
+1. De geneeskundige, die de verklaring van overlijden of levenloze geboorte als bedoeld in het [eerste lid van artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=1&z=2011-10-04&g=2011-10-04) afgeeft, doet ten behoeve van de statistiek afzonderlijk opgave van de doodsoorzaak.
 
-2. De verklaring, behelzende de opgave van de doodsoorzaak, wordt tegelijk met de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=1&z=2010-10-10&g=2010-10-10) bedoelde verklaring in een gesloten omslag aan de ambtenaar van de burgerlijke stand overgelegd. Deze zendt haar ongeopend aan de Inspecteur van de Volksgezondheid, op zodanige wijze dat niet kan blijken op wie de opgave betrekking heeft. Onze Minister van Volksgezondheid, Welzijn en Sport kan bepalen dat deze enveloppen rechtstreeks zullen worden toegezonden aan de medisch ambtenaar van het Centraal bureau voor de statistiek.
+2. De verklaring, behelzende de opgave van de doodsoorzaak, wordt tegelijk met de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=1&z=2011-10-04&g=2011-10-04) bedoelde verklaring in een gesloten omslag aan de ambtenaar van de burgerlijke stand overgelegd. Deze zendt haar ongeopend aan de Inspecteur van de Volksgezondheid, op zodanige wijze dat niet kan blijken op wie de opgave betrekking heeft. Onze Minister van Volksgezondheid, Welzijn en Sport kan bepalen dat deze enveloppen rechtstreeks zullen worden toegezonden aan de medisch ambtenaar van het Centraal bureau voor de statistiek.
 
-3. De modellen van de verklaringen als bedoeld in het [eerste lid van artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=1&z=2010-10-10&g=2010-10-10) en in het [tweede lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=2&z=2010-10-10&g=2010-10-10) en van de bijbehorende omslag worden bij algemene maatregel van bestuur vastgesteld. De verklaringen zijn vrij van het recht van zegel en van registratie. De invulling geschiedt na voorafgaande kennisneming van geboorte-bewijzen of andere officiële stukken, welke omtrent naam, voornamen en leeftijd van de overledene, respectievelijk van de ouders van het doodgeboren kind inlichtingen bevatten.
+3. De modellen van de verklaringen als bedoeld in het [eerste lid van artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=1&z=2011-10-04&g=2011-10-04) en in het [tweede lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=2&z=2011-10-04&g=2011-10-04) en van de bijbehorende omslag worden bij algemene maatregel van bestuur vastgesteld. De verklaringen zijn vrij van het recht van zegel en van registratie. De invulling geschiedt na voorafgaande kennisneming van geboorte-bewijzen of andere officiële stukken, welke omtrent naam, voornamen en leeftijd van de overledene, respectievelijk van de ouders van het doodgeboren kind inlichtingen bevatten.
+
+4. De vorm en de inrichting van de modellen van de mededeling en het verslag, bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=1&z=2011-10-04&g=2011-10-04), en van het formulier, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=5&z=2011-10-04&g=2011-10-04), worden vastgesteld door de Minister van Veiligheid en Justitie en de Minister van Volksgezondheid.
 
 ##### Artikel 3
 
@@ -55,11 +59,19 @@ De nodige exemplaren van de modellen in de vorige artikelen bedoeld, worden door
 
 ##### Artikel 4
 
-Ontbreekt de verklaring in [art. 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=1&z=2010-10-10&g=2010-10-10) bedoeld, dan wordt de doodschouw verricht, door het bestuurscollege daartoe aangewezen geneeskundige, die daarna eene schriftelijke verklaring, ten behoeve van den ambtenaar van den Burgerlijken Stand, afgeeft.
+Ontbreekt de verklaring in [art. 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=1&z=2011-10-04&g=2011-10-04) bedoeld, dan wordt de doodschouw verricht, door het bestuurscollege daartoe aangewezen geneeskundige, die daarna eene schriftelijke verklaring, ten behoeve van den ambtenaar van den Burgerlijken Stand, afgeeft.
 
 ##### Artikel 5
 
-[vervallen]
+Indien sprake is van een mededeling als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=1&z=2011-10-04&g=2011-10-04) brengt de op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=4&z=2011-10-04&g=2011-10-04) aangewezen geneeskundige door invulling van een formulier onverwijld verslag uit aan:
+
+- –. de officier van justitie;
+
+- –. de ambtenaar van de Burgerlijke Stand;
+
+- –. de regionale toetsingscommissie, bedoeld in [artikel 19c van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=19c).
+
+De op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=4&z=2011-10-04&g=2011-10-04) aangewezen ambtenaar zendt het beredeneerd verslag als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=1&z=2011-10-04&g=2011-10-04) mee.
 
 ##### Artikel 6
 
@@ -67,7 +79,7 @@ De ambtenaar van den Burgerlijken Stand betracht omtrent de bij hem ingekomen ve
 
 ##### Artikel 7
 
-Indien de verklaringen, bedoeld in [art. 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=1&z=2010-10-10&g=2010-10-10) en [art. 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=4&z=2010-10-10&g=2010-10-10), ontbreken, is het hoofd van het gezin, of wie in zijne plaats treedt, verplicht hiervan onverwijld den ambtenaar van den Burgerlijken Stand kennis te geven.
+Indien de verklaringen, bedoeld in [art. 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=1&z=2011-10-04&g=2011-10-04) en [art. 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=4&z=2011-10-04&g=2011-10-04), ontbreken, is het hoofd van het gezin, of wie in zijne plaats treedt, verplicht hiervan onverwijld den ambtenaar van den Burgerlijken Stand kennis te geven.
 
 ##### Artikel 8
 
@@ -85,17 +97,17 @@ Ontbreekt eene der verklaringen, in deze wet aangeduid, op het tijdstip, dat het
 
 ##### Artikel 11
 
-Bij het verleenen van het verlof, genoemd in [art. 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=9&z=2010-10-10&g=2010-10-10), en bij de lastgeving bedoeld in [art. 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=10&z=2010-10-10&g=2010-10-10), verbiedt de ambtenaar van den Burgerlijken Stand uitdrukkelijk het anders dan op eene baar dragen van een kinder-lijk, indien blijkt, dat het kind is overleden aan eene besmettelijke ziekte.
+Bij het verleenen van het verlof, genoemd in [art. 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=9&z=2011-10-04&g=2011-10-04), en bij de lastgeving bedoeld in [art. 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=10&z=2011-10-04&g=2011-10-04), verbiedt de ambtenaar van den Burgerlijken Stand uitdrukkelijk het anders dan op eene baar dragen van een kinder-lijk, indien blijkt, dat het kind is overleden aan eene besmettelijke ziekte.
 
 ## Strafbepalingen
 
 ##### Artikel 12
 
-1. Met een geldboete van de eerste categorie worden gestraft de geneeskundigen, bij verzuim der verplichtingen hun opgelegd in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=1&z=2010-10-10&g=2010-10-10), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=2&z=2010-10-10&g=2010-10-10) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=4&z=2010-10-10&g=2010-10-10).
+1. Met een geldboete van de eerste categorie worden gestraft de geneeskundigen, bij verzuim der verplichtingen hun opgelegd in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=1&z=2011-10-04&g=2011-10-04), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=2&z=2011-10-04&g=2011-10-04) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=4&z=2011-10-04&g=2011-10-04).
 
-2. Met een geldboete van de eerste categorie wordt gestraft de ambtenaar van de Burgerlijke stand, bij verzuim van het hem opgelegde in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=9&z=2010-10-10&g=2010-10-10) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=10&z=2010-10-10&g=2010-10-10).
+2. Met een geldboete van de eerste categorie wordt gestraft de ambtenaar van de Burgerlijke stand, bij verzuim van het hem opgelegde in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=9&z=2011-10-04&g=2011-10-04) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=10&z=2011-10-04&g=2011-10-04).
 
-3. Met een geldboete van de eerste categorie worden gestraft de personen, die met de aangifte van het overlijden belast zijn, bij verzuim van het hun opgelegde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=7&z=2010-10-10&g=2010-10-10).
+3. Met een geldboete van de eerste categorie worden gestraft de personen, die met de aangifte van het overlijden belast zijn, bij verzuim van het hun opgelegde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=7&z=2011-10-04&g=2011-10-04).
 
 4. De bij deze wet strafbaar gestelde feiten worden beschouwd als overtredingen.
 
