@@ -4,7 +4,7 @@ identifier: "BWBR0028164"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2019-01-01"
-last_updated: "2010-10-10"
+last_updated: "2011-10-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028164"
 soort: "wet-BES"
@@ -91,7 +91,7 @@ Geen vergunning is vereischt voor één of meer van bovengenoemde handelingen te
 
 1. De vergunning kan worden geweigerd indien de aanvrager in kennelijk onvoldoende mate beschikt over algemene vaardigheden om een zaak te leiden dan wel in kennelijk onvoldoende mate beschikt over de financiële middelen die naar redelijkheid benodigd zijn voor het starten van een zaak als waarvoor de vergunning wordt gevraagd.
 
-2. De omstandigheid dat op Bonaire, Sint Eustatius of Saba dan wel op Aruba, Curaçao of Sint Maarten reeds een zaak is of zal worden gevestigd die op of ter zake van Bonaire, Sint Eustatius of Saba producten of diensten aanbiedt vergelijkbaar met die van de zaak waarvoor een vergunning wordt gevraagd, kan, behoudens voorafgaande instemming van Onze Minister van Economische Zaken, geen grond zijn de vergunning te weigeren.
+2. De vergunning kan worden geweigerd met het oog op een te beschermen algemeen belang, onder voorwaarde dat de Minister van Economische Zaken, Landbouw en Innovatie voorafgaand aan de weigering daarmee heeft ingestemd. Het gemotiveerde verzoek om instemming wordt door het bestuurscollege aan de minister gezonden met in ieder geval een beschrijving van het te beschermen algemeen belang. De Minister deelt zijn beslissing mee uiterlijk binnen drie weken na ontvangst van het verzoek om instemming.
 
 ##### Artikel 6
 
@@ -103,15 +103,17 @@ Bij het verleenen eener vergunning is het Bestuurscollege bevoegd, daaraan voorw
 
 - a. indien de persoon of personen, aan wie(n) de vergunning is verleend, niet kan (kunnen) aantoonen, dat de voor de vergunning gestelde voorwaarden worden nageleefd;
 
-- b. indien zij verkregen werd door het opzettelijk verschaffen van een onjuiste of onvolledige opgaaf, zooals bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028164&artikel=4&z=2010-10-10&g=2010-10-10);
+- b. indien zij verkregen werd door het opzettelijk verschaffen van een onjuiste of onvolledige opgaaf, zooals bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028164&artikel=4&z=2011-10-07&g=2011-10-07);
 
-- c. indien gedurende drie achtereenvolgende maanden of langer de vergunninghouder zijn zaak voor het publiek heeft gesloten.
+- c. indien de vergunninghouder zijn zaak gedurende drie achtereenvolgende maanden of langer voor het publiek heeft gesloten en hij het bestuurscollege daarvan niet schriftelijk in kennis heeft gesteld;
 
-2. Behoudens in gevallen, waarbij de vergunning werd verkregen door opzettelijk onjuiste of onvolledig verschafte gegevens, in welk geval intrekking van de vergunning plaats vindt nadat een veroordeling terzake van het misdrijf genoemd in [artikel 10 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028164&artikel=10&z=2010-10-10&g=2010-10-10), in kracht van gewijsde is gegaan, zal de bevoegde autoriteit aan de intrekking der vergunning een redelijken termijn verbinden, waarbinnen de vergunninghouder zijn zaak zal kunnen liquideeren. Na het verstrijken van dezen termijn wordt de betrokken persoon niet geacht in het bezit eener vergunning te zijn.
+- d. indien de vergunninghouder zijn zaak gedurende zes achtereenvolgende maanden of langer voor het publiek heeft gesloten en hij het bestuurscollege van een tijdelijke sluiting schriftelijk in kennis heeft gesteld.
+
+2. Behoudens in gevallen, waarbij de vergunning werd verkregen door opzettelijk onjuiste of onvolledig verschafte gegevens, in welk geval intrekking van de vergunning plaats vindt nadat een veroordeling terzake van het misdrijf genoemd in [artikel 10 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028164&artikel=10&z=2011-10-07&g=2011-10-07), in kracht van gewijsde is gegaan, zal de bevoegde autoriteit aan de intrekking der vergunning een redelijken termijn verbinden, waarbinnen de vergunninghouder zijn zaak zal kunnen liquideeren. Na het verstrijken van dezen termijn wordt de betrokken persoon niet geacht in het bezit eener vergunning te zijn.
 
 ##### Artikel 8
 
-Verlening, weigering of intrekking van een vergunning heeft niet plaats dan nadat de betrokken Kamer van Koophandel en Nijverheid is gehoord. De betrokken kamer brengt het advies binnen een maand uit.
+Verlening, weigering of intrekking van een vergunning heeft niet plaats dan nadat de betrokken Kamer van Koophandel en Nijverheid is gehoord. De betrokken kamer brengt het advies binnen twee weken uit.
 
 ##### Artikel 9
 
@@ -119,13 +121,15 @@ Verlening, weigering of intrekking van een vergunning heeft niet plaats dan nada
 
 ##### Artikel 10
 
-1. Met hechtenis van ten hoogste een maand of geldboete van ten hoogste USD 280 wordt gestraft; hij, die het verbod, gesteld bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028164&artikel=2&z=2010-10-10&g=2010-10-10), overtreedt.
+1. Met hechtenis van ten hoogste een maand of geldboete van ten hoogste USD 280 wordt gestraft; hij, die het verbod, gesteld bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028164&artikel=2&z=2011-10-07&g=2011-10-07), overtreedt.
 
 2. Indien tijdens het plegen van het feit nog geen twee jaren zijn verloopen sedert een vroegere veroordeeling van den schuldige wegens een overtreding van een of meer bepalingen dezer wet onherroepelijk is geworden, kan hechtenis van ten hoogste twee maanden of geldboete van ten hoogste USD 560 worden opgelegd.
 
-3. Met gevangenisstraf van ten hoogste zes maanden of geldboete van ten hoogste USD 1120 wordt gestraft hij, die opzettelijk een onjuiste of onvolledige opgaaf doet ter verkrijging van een vergunning, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028164&artikel=2&z=2010-10-10&g=2010-10-10).
+3. Met gevangenisstraf van ten hoogste zes maanden of geldboete van ten hoogste USD 1120 wordt gestraft hij, die opzettelijk een onjuiste of onvolledige opgaaf doet ter verkrijging van een vergunning, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028164&artikel=2&z=2011-10-07&g=2011-10-07).
 
-4. De feiten, strafbaar gesteld in dit artikel, worden beschouwd als misdrijven.
+4. De feiten, strafbaar gesteld in het eerste en tweede lid van dit artikel, worden beschouwd als overtredingen.
+
+5. De feiten, strafbaar gesteld in het derde lid van dit artikel, worden beschouwd als misdrijven.
 
 ##### Artikel 11
 
@@ -155,7 +159,7 @@ Het Bestuurscollege doet een zaak sluiten, welke zonder vergunning gedreven word
 
 ##### Artikel 16
 
-Het bepaalde in [artikel 2, sub e](https://wetten.overheid.nl/jci1.3:c:BWBR0028164&artikel=2&z=2010-10-10&g=2010-10-10), is niet van toepassing ten aanzien van zaken, die bij het inwerkingtreden dezer wet wettig werden gedreven. Voor het voortzetten dezer zaken wordt, zonder dat zij een vergunning behoeven aan te vragen, door de autoriteit aangewezen in artikel 2, een vergunning als daar bedoeld uitgereikt.
+Het bepaalde in [artikel 2, sub e](https://wetten.overheid.nl/jci1.3:c:BWBR0028164&artikel=2&z=2011-10-07&g=2011-10-07), is niet van toepassing ten aanzien van zaken, die bij het inwerkingtreden dezer wet wettig werden gedreven. Voor het voortzetten dezer zaken wordt, zonder dat zij een vergunning behoeven aan te vragen, door de autoriteit aangewezen in artikel 2, een vergunning als daar bedoeld uitgereikt.
 
 ##### Artikel 17
 
