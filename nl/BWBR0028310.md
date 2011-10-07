@@ -4,7 +4,7 @@ identifier: "BWBR0028310"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2011-10-07"
-last_updated: "2010-10-10"
+last_updated: "2011-10-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028310"
 soort: "ministeriele-regeling-BES"
@@ -46,13 +46,7 @@ In deze regeling wordt onder ‘het besluit’ verstaan: het [Uitvoeringsbesluit
 
 ##### Artikel 2
 
-1. Een handelingen als aangeduid of bedoeld in [artikel 44 van de Wet merken BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&artikel=44) verricht ten behoeve van de Nederlandse Antillen in de periode, bepaald in het genoemde artikel, geldt als een handeling ten behoeve van Bonaire, Sint Eustatius en Saba mits de handeling voldoet aan:
-
-- a. de daarvoor geldende vereisten van de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 14 april 1891 en/of het Protocol bij de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 27 juni 1989 en
-
-- b. bepalingen van de [Wet merken BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028306) en het [Uitvoeringsbesluit merken BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028591).
-
-2. Dit artikel vervalt op het tijdstip waarop Bonaire, Sint Eustatius en Saba als gebied kan worden aangewezen krachtens de Overeenkomst en/of het Protocol als bedoeld in het eerste lid.
+Vervallen
 
 ##### Artikel 3
 
