@@ -4,7 +4,7 @@ identifier: "BWBR0028491"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2026-04-10"
-last_updated: "2011-01-20"
+last_updated: "2011-10-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028491"
 soort: "AMvB-BES"
@@ -41,7 +41,7 @@ entry_into_force: "2011-08-08"
 
 In dit besluit wordt verstaan onder:
 
-- a. **wet:** de [Wet materieel ambtenarenrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215);
+- a. **wet:** de [Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215);
 
 - b. [vervallen]
 
@@ -83,11 +83,11 @@ Bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kun
 
 3. Aard en niveau van de functie worden bepaald aan de hand van functiebeschrijvingen en functieniveau-karakteristieken, welke deel uitmaken van een bij ministeriële regeling vast te stellen functiewaarderingssysteem.
 
-4. Anders dan bij wijze van disciplinaire straf als bedoeld in [hoofdstuk VIII van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&hoofdstuk=VIII), kan zonder voorafgaand ontslag voor een ambtenaar geen bezoldigingsschaal worden vastgesteld die een lagere maximum-bezoldiging bevat dan die welke in de voordien voor hem geldende bezoldigingsschaal aangegeven is.
+4. Anders dan bij wijze van disciplinaire straf als bedoeld in [artikel 82 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=82), kan zonder voorafgaand ontslag voor een ambtenaar geen bezoldigingsschaal worden vastgesteld die een lagere maximum-bezoldiging bevat dan die welke in de voordien voor hem geldende bezoldigingsschaal aangegeven is.
 
 ##### Artikel 4
 
-1. De ambtenaar die, anders dan bij wijze van overwerk als bedoeld in [artikel 27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=27), dienst verricht tussen 18.00 uur en 6.00 uur ontvangt voor elk door hem binnen de genoemde tijd gewerkt vol uur een toelage van USD 0,22. Het bedrag van deze toelage kan bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties worden gewijzigd, indien het feit dat een voor ambtenaren algemeen geldende wijziging in de bezoldiging wordt aangebracht daartoe aanleiding geeft.
+1. De ambtenaar die, anders dan bij wijze van overwerk als bedoeld in [artikel 25 van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=25), dienst verricht tussen 18.00 uur en 6.00 uur ontvangt voor elk door hem binnen de genoemde tijd gewerkt vol uur een toelage van USD 0,22. Het bedrag van deze toelage kan bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties worden gewijzigd, indien het feit dat een voor ambtenaren algemeen geldende wijziging in de bezoldiging wordt aangebracht daartoe aanleiding geeft.
 
 2. Een gewerkte tijd van vijftien minuten of meer, doch korter dan van één uur, wordt voor de toepassing van het voorgaande lid als een vol uur aangemerkt.
 
@@ -95,19 +95,19 @@ Bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kun
 
 ##### Artikel 5
 
-Indien de ambtenaar anders dan bij wijze van disciplinaire straf als bedoeld in [hoofdstuk VIII van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&hoofdstuk=VIII), wordt belast met een andere functie, als gevolg waarvan zijn bezoldiging op grond van de overige bepalingen van dit besluit een verlaging zou moeten ondergaan, zonder dat de bekleding met die andere functie bij wijze van waarneming als bedoeld in [artikel 26 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=26) geschiedt of zonder dat ontslag voorafgegaan is, blijft deze verlaging achterwege.
+Indien de ambtenaar anders dan bij wijze van disciplinaire straf als bedoeld in [artikel 82 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=82), wordt belast met een andere functie, als gevolg waarvan zijn bezoldiging op grond van de overige bepalingen van dit besluit een verlaging zou moeten ondergaan, zonder dat de bekleding met die andere functie bij wijze van waarneming als bedoeld in [artikel 24 van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=24) geschiedt of zonder dat ontslag voorafgegaan is, blijft deze verlaging achterwege.
 
 ##### Artikel 6
 
-1. De bezoldiging van de ambtenaar wordt verhoogd tot het bedrag dat behoort bij de naast-hogere bezoldigingstrede in de schaal, indien hij naar het oordeel van het bevoegde gezag, dat is neergelegd in een formele beoordeling als bedoeld in [artikel 15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=15), zijn functie naar behoren vervult. Deze beoordeling vindt voor iedere ambtenaar ten laatste één jaar na zijn indiensttreding of overgang naar een andere functie en vervolgens ten minste aan het einde van elk jaar plaats.
+1. De bezoldiging van de ambtenaar wordt verhoogd tot het bedrag dat behoort bij de naast-hogere bezoldigingstrede in de schaal, indien hij naar het oordeel van het bevoegde gezag, dat is neergelegd in een formele beoordeling als bedoeld in [artikel 12, tweede lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=12), zijn functie naar behoren vervult. Deze beoordeling vindt voor iedere ambtenaar ten laatste één jaar na zijn indiensttreding of overgang naar een andere functie en vervolgens ten minste aan het einde van elk jaar plaats.
 
-2. De bezoldiging van de ambtenaar kan worden verhoogd tot het bedrag dat behoort bij de eerste bezoldigingstrede volgend op de naast-hogere bezoldigingstrede in de schaal, indien hij naar het oordeel van het bevoegde gezag, dat is neergelegd in een formele beoordeling als bedoeld in [artikel 15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=15), zijn functie zeer goed of uitstekend verricht.
+2. De bezoldiging van de ambtenaar kan worden verhoogd tot het bedrag dat behoort bij de eerste bezoldigingstrede volgend op de naast-hogere bezoldigingstrede in de schaal, indien hij naar het oordeel van het bevoegde gezag, dat is neergelegd in een formele beoordeling als bedoeld in [artikel 12, tweede lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=12), zijn functie zeer goed of uitstekend verricht.
 
 3. Vervult de ambtenaar zijn functie naar het oordeel van het bevoegde gezag niet naar behoren, dan blijft verhoging van de bezoldiging achterwege.
 
 4. De in het eerste en het tweede lid bedoelde verhogingen van de bezoldiging worden met ingang van 1 januari van een jaar toegekend, zolang de ambtenaar de maximum-bezoldiging van de voor hem geldende bezoldigingsschaal nog niet heeft bereikt, doch voor de eerste maal niet eerder dan nadat sinds zijn aanstelling als ambtenaar ten minste zes maanden zijn verstreken.
 
-5. Voor de ambtenaar die volgens een der schalen 1 tot en met 6 wordt bezoldigd en die de maximum-bezoldiging in de voor hem geldende schaal heeft bereikt, wordt, indien hij naar het oordeel van het bevoegde gezag, neergelegd in een formele beoordeling als bedoeld in [artikel 15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=15), zijn functie zeer goed vervult, de bezoldiging na verloop van telkens twee jaren verhoogd tot het bedrag dat vermeld is achter de naast-hogere bezoldigingstrede in de schaal die wordt voorafgegaan door de letter U.
+5. Voor de ambtenaar die volgens een der schalen 1 tot en met 6 wordt bezoldigd en die de maximum-bezoldiging in de voor hem geldende schaal heeft bereikt, wordt, indien hij naar het oordeel van het bevoegde gezag, neergelegd in een formele beoordeling als bedoeld in [artikel 12, tweede lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=12), zijn functie zeer goed vervult, de bezoldiging na verloop van telkens twee jaren verhoogd tot het bedrag dat vermeld is achter de naast-hogere bezoldigingstrede in de schaal die wordt voorafgegaan door de letter U.
 
 ##### Artikel 7
 
@@ -141,7 +141,7 @@ De gratificatie, bedoeld in [artikel 75 van de wet](https://wetten.overheid.nl/j
 
 2. In afwijking van het eerste lid, kan Onze Minister in de gevallen waarin naar zijn oordeel daartoe aanleiding bestaat, de korting vaststellen op een lager percentage dan wel op een bepaald bedrag, mits dit eveneens minder beloopt dan 12 procent van de bezoldiging.
 
-3. Indien een portier of een conciërge een ambtswoning bewoont, draagt hij de onderhoudskosten welke volgens de wet en het plaatselijk gebruik ten laste van de huurder zijn.
+3. Indien een portier of een conciërge een ambtswoning bewoont, draagt hij de onderhoudskosten welke volgens wettelijke voorschriften en het plaatselijk gebruik ten laste van de huurder zijn.
 
 ### Hoofdstuk VI. Administratief beroep
 
@@ -199,7 +199,7 @@ De gratificatie, bedoeld in [artikel 75 van de wet](https://wetten.overheid.nl/j
 
 ##### Artikel 20a
 
-Dit besluit berust op de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=18) en [19 van de Wet materieel ambtenarenrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=19).
+Dit besluit berust op [artikel 17 van de Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=17).
 
 ##### Artikel 21
 
