@@ -4,7 +4,7 @@ identifier: "BWBR0028783"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2011-10-09"
-last_updated: "2010-10-10"
+last_updated: "2011-10-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028783"
 soort: "ministeriele-regeling-BES"
@@ -47,7 +47,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-De toelagen, bedoeld in de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028783&paragraaf=2&z=2010-10-10&g=2010-10-10) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028783&paragraaf=4&z=2010-10-10&g=2010-10-10) worden aan de ambtenaar toegekend door het gezag, dat bevoegd is de bezoldiging aan de ambtenaar toe te kennen of in de toegekende bezoldiging wijziging te brengen.
+De toelagen, bedoeld in de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028783&paragraaf=2&z=2011-10-09&g=2011-10-09) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028783&paragraaf=4&z=2011-10-09&g=2011-10-09) worden aan de ambtenaar toegekend door het gezag, dat bevoegd is de bezoldiging aan de ambtenaar toe te kennen of in de toegekende bezoldiging wijziging te brengen.
 
 #### § 2. Kindertoelage
 
@@ -95,7 +95,7 @@ Het genot van kindertoelage vangt aan met ingang van de eerste dag van de maand 
 
 1. De kostwinnerstoelage bedraagt per jaar het verschil tussen de bezoldiging, welke de ambtenaar zou genieten, indien hij gehuwd is of gehuwd is geweest, of, als het een vrouwelijke ambtenaar betreft, indien zij gehuwd is geweest en niet is hertrouwd en de bezoldiging, welke hij geniet.
 
-2. Zij kan worden genoten door de ambtenaar, die als enig kostwinner in de zin van het [volgende artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028783&paragraaf=3&artikel=7&z=2010-10-10&g=2010-10-10) wordt aangemerkt.
+2. Zij kan worden genoten door de ambtenaar, die als enig kostwinner in de zin van het [volgende artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028783&paragraaf=3&artikel=7&z=2011-10-09&g=2011-10-09) wordt aangemerkt.
 
 ##### Artikel 7
 
@@ -111,7 +111,7 @@ Het genot van kostwinnerstoelage vangt aan met ingang van de dag van toekenning 
 
 ##### Artikel 9
 
-Geen kostwinnerstoelage wordt toegekend, wanneer degene ten aanzien van wie de ambtenaar als enig kostwinner is aangemerkt uit andere hoofde inkomsten geniet of redelijkerwijs zou kunnen genieten, welke gelijk zijn aan of meer bedragen dan het bedrag bedoeld in [artikel 6 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028783&paragraaf=3&artikel=6&z=2010-10-10&g=2010-10-10).
+Geen kostwinnerstoelage wordt toegekend, wanneer degene ten aanzien van wie de ambtenaar als enig kostwinner is aangemerkt uit andere hoofde inkomsten geniet of redelijkerwijs zou kunnen genieten, welke gelijk zijn aan of meer bedragen dan het bedrag bedoeld in [artikel 6 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028783&paragraaf=3&artikel=6&z=2011-10-09&g=2011-10-09).
 
 ##### Artikel 10
 
@@ -149,7 +149,7 @@ De ambtenaren, die op grond van wettelijke regelingen, welke vervallen bij de in
 
 ##### Artikel 15a
 
-Deze regeling berust op [artikel 31, onder a, van de Wet materieel ambtenarenrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=31).
+Deze regeling berust op [artikel 31, onder a, van de Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=31).
 
 ##### Artikel 16
 
