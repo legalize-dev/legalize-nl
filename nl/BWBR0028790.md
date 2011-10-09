@@ -4,7 +4,7 @@ identifier: "BWBR0028790"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2011-10-09"
-last_updated: "2010-10-10"
+last_updated: "2011-10-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028790"
 soort: "ministeriele-regeling-BES"
@@ -49,17 +49,17 @@ Aan de ambtenaar kan, op zijn daartoe strekkend schriftelijk verzoek, ten behoev
 
 2. Deze toelage wordt telkenjare per 1 september en voor de duur van het schooljaar toegekend.
 
-3. In geval een kind, als in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028790&artikel=2&z=2010-10-10&g=2010-10-10) bedoeld, tijdens het schooljaar een inrichting van dagonderwijs, als bedoeld in evengemeld artikel, gaat bezoeken, wordt deze toelage, indien de plaatsing op bedoelde inrichting van dagonderwijs geschiedt vóór de 15de van een maand ingaande de eerste van die maand en overigens ingaande de eerste van de daaropvolgende maand en voor het resterende gedeelte van het schooljaar toegekend.
+3. In geval een kind, als in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028790&artikel=2&z=2011-10-09&g=2011-10-09) bedoeld, tijdens het schooljaar een inrichting van dagonderwijs, als bedoeld in evengemeld artikel, gaat bezoeken, wordt deze toelage, indien de plaatsing op bedoelde inrichting van dagonderwijs geschiedt vóór de 15de van een maand ingaande de eerste van die maand en overigens ingaande de eerste van de daaropvolgende maand en voor het resterende gedeelte van het schooljaar toegekend.
 
 ##### Artikel 4
 
-1. Aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028790&artikel=2&z=2010-10-10&g=2010-10-10) bedoelde kinderen kan op schriftelijk verzoek van de ambtenaar bij de aanvang en bij het einde van het schooljaar overtocht worden verleend onderscheidenlijk van de standplaats van de ambtenaar naar het eiland, waar de inrichting van dagonderwijs, als bedoeld in artikel 2, gevestigd is en omgekeerd.
+1. Aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028790&artikel=2&z=2011-10-09&g=2011-10-09) bedoelde kinderen kan op schriftelijk verzoek van de ambtenaar bij de aanvang en bij het einde van het schooljaar overtocht worden verleend onderscheidenlijk van de standplaats van de ambtenaar naar het eiland, waar de inrichting van dagonderwijs, als bedoeld in artikel 2, gevestigd is en omgekeerd.
 
-2. In geval aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028790&artikel=2&z=2010-10-10&g=2010-10-10) bedoelde kinderen van ambtenaren, met standplaats Saba of St. Eustatius, die op Aruba of Curaçao een inrichting van dagonderwijs bezoeken of gaan bezoeken, overtocht wordt verleend van de standplaats van de ambtenaar naar Aruba of Curaçao of omgekeerd, terwijl er ook op St. Maarten een zodanige inrichting van dagonderwijs, welke zij hadden kunnen bezoeken, aanwezig is, worden slechts de overtochtskosten, welke voor een reis van de standplaats van de ambtenaar naar St. Maarten of omgekeerd verschuldigd zouden zijn geweest, voor overheidsrekening genomen.
+2. In geval aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028790&artikel=2&z=2011-10-09&g=2011-10-09) bedoelde kinderen van ambtenaren, met standplaats Saba of St. Eustatius, die op Aruba of Curaçao een inrichting van dagonderwijs bezoeken of gaan bezoeken, overtocht wordt verleend van de standplaats van de ambtenaar naar Aruba of Curaçao of omgekeerd, terwijl er ook op St. Maarten een zodanige inrichting van dagonderwijs, welke zij hadden kunnen bezoeken, aanwezig is, worden slechts de overtochtskosten, welke voor een reis van de standplaats van de ambtenaar naar St. Maarten of omgekeerd verschuldigd zouden zijn geweest, voor overheidsrekening genomen.
 
 3. In plaats van overtocht, als hiervoor bedoeld, kan aan de ambtenaar, op zijn daartoe strekkend schriftelijk verzoek, onder overlegging van bewijsstukken, een vergoeding van de terzake door hem gemaakte overtochtskosten worden toegekend, met dien verstande, dat de vergoeding maximaal wordt bepaald op het bedrag, dat voor overheidsrekening zou zijn gekomen, indien overtocht zou zijn verleend.
 
-4. Bij plaatsing van een kind op een inrichting van dagonderwijs tijdens het schooljaar als bedoeld in het derde lid van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028790&artikel=3&z=2010-10-10&g=2010-10-10), zijn de voorgaande leden van dit artikel van overeenkomstige toepassing, met dien verstande dat geen overtocht voor de terugreis wordt verleend noch een vergoeding van de terzake gemaakte overtochtskosten wordt toegekend, indien bij de plaatsing reeds de helft van het schooljaar verstreken was.
+4. Bij plaatsing van een kind op een inrichting van dagonderwijs tijdens het schooljaar als bedoeld in het derde lid van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028790&artikel=3&z=2011-10-09&g=2011-10-09), zijn de voorgaande leden van dit artikel van overeenkomstige toepassing, met dien verstande dat geen overtocht voor de terugreis wordt verleend noch een vergoeding van de terzake gemaakte overtochtskosten wordt toegekend, indien bij de plaatsing reeds de helft van het schooljaar verstreken was.
 
 ##### Artikel 5
 
@@ -83,7 +83,7 @@ De toekenning en intrekking van de huisvestingstoelage, het verlenen van overtoc
 
 ##### Artikel 8
 
-Deze regeling berust op artikel 81 van de Wet materieel ambtenarenrecht BES.
+Deze regeling berust op [artikel 77, onder a, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=77).
 
 ##### Artikel 9
 
