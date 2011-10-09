@@ -4,7 +4,7 @@ identifier: "BWBR0028538"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2011-10-09"
-last_updated: "2011-08-30"
+last_updated: "2011-10-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028538"
 soort: "wet-BES"
@@ -71,7 +71,7 @@ entry_into_force: "2010-10-10"
 
 1. Een personeelslid heeft het recht om bij de rechtspersoon op basis van een arbeidsovereenkomst naar burgerlijk recht als werknemer in dienst te treden. De datum van indiensttreding ligt niet voor hei moment van de verzelfstandiging van de rechtspersoon.
 
-2. De arbeidsovereenkomst, bedoeld in het eerste lid, geldt voor onbepaalde tijd, indien het personeelslid was aangesteld als ambtenaar in vaste dienst in de zin van de Wet materieel ambtenarenrecht BES of werkzaam was op basis van een arbeidsovereenkomst voor onbepaalde tijd.
+2. De arbeidsovereenkomst, bedoeld in het eerste lid, geldt voor onbepaalde tijd, indien het personeelslid was aangesteld als ambtenaar in vaste dienst in de zin van de [Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215) of werkzaam was op basis van een arbeidsovereenkomst voor onbepaalde tijd.
 
 3. De arbeidsovereenkomst, bedoeld in het eerste lid, geldt voor de periode, dat de tijdelijke dienst of arbeidsovereenkomst voor bepaalde tijd zou hebben voortgeduurd, indien het personeelslid was aangesteld in tijdelijke dienst of werkzaam was op basis van een arbeidsovereenkomst voor bepaalde tijd.
 
@@ -91,7 +91,7 @@ entry_into_force: "2010-10-10"
 
 - f. de vermelding van de op zijn functie van toepassing zijnde regelingen.
 
-6. Indien indiensttreding bij de rechtspersoon tevens inhoudt, dat de werknemer naar een ander openbaar lichaam dan waar hij woonachtig is dient te verhuizen, zijn de artikelen 72 en 74 van de Wet materieel ambtenarenrecht BES van overeenkomstige toepassing.
+6. Indien indiensttreding bij de rechtspersoon tevens inhoudt, dat de werknemer naar een ander openbaar lichaam dan waar hij woonachtig is dient te verhuizen, zijn [artikelen 66](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=66) en [69 van het Rechtspositiebesluit BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=69) van overeenkomstige toepassing.
 
 ##### Artikel 4
 
@@ -109,25 +109,25 @@ De werknemer behoudt het aantal als personeelslid bij het bevoegde gezag opgebou
 
 ##### Artikel 7
 
-1. Voordat het aanbod, bedoeld in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=3&z=2011-08-30&g=2011-08-30), wordt gedaan, worden alle rechtspositionele zaken van het personeelslid, zoals met betrekking tot een eventuele bevordering, een eventuele aanstelling in vaste dienst of een eventuele functiewaardering, door het bevoegde gezag afgehandeld.
+1. Voordat het aanbod, bedoeld in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=3&z=2011-10-09&g=2011-10-09), wordt gedaan, worden alle rechtspositionele zaken van het personeelslid, zoals met betrekking tot een eventuele bevordering, een eventuele aanstelling in vaste dienst of een eventuele functiewaardering, door het bevoegde gezag afgehandeld.
 
 2. Indien uitvoering van het eerste lid niet mogelijk blijkt, houdt de rechtspersoon met terugwerkende kracht rekening met de afhandeling door het bevoegde gezag op een later tijdstip.
 
 ##### Artikel 8
 
-Een werknemer wordt gedurende een tijdvak van een jaar na indiensttreding bij de rechtspersoon beschouwd als een interne kandidaat, indien hij solliciteert op een vacature die ontstaat door toepassing van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=3&artikel=20&z=2011-08-30&g=2011-08-30). Bij de bekendmaking van de vacature wordt hiermee rekening gehouden.
+Een werknemer wordt gedurende een tijdvak van een jaar na indiensttreding bij de rechtspersoon beschouwd als een interne kandidaat, indien hij solliciteert op een vacature die ontstaat door toepassing van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=3&artikel=20&z=2011-10-09&g=2011-10-09). Bij de bekendmaking van de vacature wordt hiermee rekening gehouden.
 
 ##### Artikel 9
 
 1. De werknemer kan binnen een jaar na indiensttreding bij de rechtspersoon hetzelfde bevoegde gezag verzoeken hem opnieuw in dienst te nemen.
 
-2. Het bevoegde gezag neemt binnen drie maanden, nadat de werknemer schriftelijk aan hem en de rechtspersoon te kennen heeft gegeven te willen terugkeren in dienst van hetzelfde bevoegde gezag, de beslissing of hij kan worden geplaatst. Het bevoegde gezag spant zich gedurende voornoemde termijn in voor de werknemer binnen zijn organisatie een gelijkwaardige functie te vinden. Daarbij wordt uitgegaan van de rechtspositie die de werknemer als personeelslid zou hebben gehad, indien hij niet bij de rechtspersoon in dienst zou zijn getreden. Het bevoegde gezag houdt hierbij rekening met de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=8&z=2011-08-30&g=2011-08-30) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=3&artikel=20&z=2011-08-30&g=2011-08-30).
+2. Het bevoegde gezag neemt binnen drie maanden, nadat de werknemer schriftelijk aan hem en de rechtspersoon te kennen heeft gegeven te willen terugkeren in dienst van hetzelfde bevoegde gezag, de beslissing of hij kan worden geplaatst. Het bevoegde gezag spant zich gedurende voornoemde termijn in voor de werknemer binnen zijn organisatie een gelijkwaardige functie te vinden. Daarbij wordt uitgegaan van de rechtspositie die de werknemer als personeelslid zou hebben gehad, indien hij niet bij de rechtspersoon in dienst zou zijn getreden. Het bevoegde gezag houdt hierbij rekening met de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=8&z=2011-10-09&g=2011-10-09) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=3&artikel=20&z=2011-10-09&g=2011-10-09).
 
-3. De werknemer die niet kan worden geplaatst door het bevoegde gezag en evenmin in dienst wenst te blijven van de rechtspersoon, wordt door de rechtspersoon ontslag verleend met toepassing van het Wachtgeldbesluit ambtenaren BES of een daarvoor in de plaats getreden gelijkwaardige regeling, voortvloeiend uit het reglement of de collectieve arbeidsovereenkomst, bedoeld in [artikel 16, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=3&artikel=16&z=2011-08-30&g=2011-08-30).
+3. De werknemer die niet kan worden geplaatst door het bevoegde gezag en evenmin in dienst wenst te blijven van de rechtspersoon, wordt door de rechtspersoon ontslag verleend met toepassing van het Wachtgeldbesluit ambtenaren BES of een daarvoor in de plaats getreden gelijkwaardige regeling, voortvloeiend uit het reglement of de collectieve arbeidsovereenkomst, bedoeld in [artikel 16, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=3&artikel=16&z=2011-10-09&g=2011-10-09).
 
 ##### Artikel 10
 
-1. Het personeelslid dat niet op het aanbod, bedoeld in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=3&z=2011-08-30&g=2011-08-30), ingaat, wordt door het bevoegde gezag ontslag aangezegd. Gedurende drie maanden na de ontslagaanzegging spant het bevoegde gezag zich in binnen zijn organisatie voor hem een gelijkwaardige functie te vinden. [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=8&z=2011-08-30&g=2011-08-30) is van overeenkomstige toepassing. Het bevoegde gezag houdt hierbij rekening met [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=3&artikel=20&z=2011-08-30&g=2011-08-30). Het ontslag kan, indien het personeelslid ingevolge [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=3&artikel=14&z=2011-08-30&g=2011-08-30), een bezwaarschrift heeft ingediend, niet eerder in werking treden dan na de beslissing op het bezwaarschrift, indien het bezwaarschrift ongegrond is verklaard.
+1. Het personeelslid dat niet op het aanbod, bedoeld in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=3&z=2011-10-09&g=2011-10-09), ingaat, wordt door het bevoegde gezag ontslag aangezegd. Gedurende drie maanden na de ontslagaanzegging spant het bevoegde gezag zich in binnen zijn organisatie voor hem een gelijkwaardige functie te vinden. [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=8&z=2011-10-09&g=2011-10-09) is van overeenkomstige toepassing. Het bevoegde gezag houdt hierbij rekening met [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=3&artikel=20&z=2011-10-09&g=2011-10-09). Het ontslag kan, indien het personeelslid ingevolge [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=3&artikel=14&z=2011-10-09&g=2011-10-09), een bezwaarschrift heeft ingediend, niet eerder in werking treden dan na de beslissing op het bezwaarschrift, indien het bezwaarschrift ongegrond is verklaard.
 
 2. Indien plaatsing van het personeelslid, bedoeld in het eerste lid, in een functie op zijn laatste schaalniveau niet mogelijk is, kan plaatsing in een functie op maximaal twee schaalniveaus onder dat schaalniveau plaatsvinden. Alsdan wordt hij in het genot gesteld van de bezoldiging behorend bij zijn laatste schaalniveau.
 
@@ -135,31 +135,31 @@ Een werknemer wordt gedurende een tijdvak van een jaar na indiensttreding bij de
 
 ##### Artikel 11
 
-1. Het bevoegde gezag brengt binnen zijn organisatie bestaande vacatures onder de aandacht van de werknemer, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=9&z=2011-08-30&g=2011-08-30), en het personeelslid, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=10&z=2011-08-30&g=2011-08-30).
+1. Het bevoegde gezag brengt binnen zijn organisatie bestaande vacatures onder de aandacht van de werknemer, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=9&z=2011-10-09&g=2011-10-09), en het personeelslid, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=10&z=2011-10-09&g=2011-10-09).
 
-2. Het bevoegde gezag vergroot door gehele of gedeeltelijke centralisering van de vacaturestelling de mogelijkheden van plaatsing. Bij de vervulling van een bestaande vacature hebben de werknemer, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=9&z=2011-08-30&g=2011-08-30), en het personeelslid, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=10&z=2011-08-30&g=2011-08-30), voorrang boven andere kandidaten.
+2. Het bevoegde gezag vergroot door gehele of gedeeltelijke centralisering van de vacaturestelling de mogelijkheden van plaatsing. Bij de vervulling van een bestaande vacature hebben de werknemer, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=9&z=2011-10-09&g=2011-10-09), en het personeelslid, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=10&z=2011-10-09&g=2011-10-09), voorrang boven andere kandidaten.
 
-3. De werknemer, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=9&z=2011-08-30&g=2011-08-30), en het personeelslid, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=10&z=2011-08-30&g=2011-08-30), dienen zelf actief te solliciteren naar passende vacatures binnen de organisatie van het bevoegde gezag.
+3. De werknemer, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=9&z=2011-10-09&g=2011-10-09), en het personeelslid, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=10&z=2011-10-09&g=2011-10-09), dienen zelf actief te solliciteren naar passende vacatures binnen de organisatie van het bevoegde gezag.
 
-4. Bij eilandsbesluit, houdende algemene maatregelen, kunnen regelingen worden getroffen ten aanzien van eventuele om-, her- en bijscholing en outplacement van de werknemers, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=9&z=2011-08-30&g=2011-08-30), en de personeelsleden, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=10&z=2011-08-30&g=2011-08-30).
+4. Bij eilandsbesluit, houdende algemene maatregelen, kunnen regelingen worden getroffen ten aanzien van eventuele om-, her- en bijscholing en outplacement van de werknemers, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=9&z=2011-10-09&g=2011-10-09), en de personeelsleden, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=10&z=2011-10-09&g=2011-10-09).
 
 ##### Artikel 12
 
-Het personeelslid, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=10&z=2011-08-30&g=2011-08-30), aanvaardt binnen twee weken nadat het bevoegde gezag hem schriftelijk een gelijkwaardige functie binnen zijn organisatie heeft aangeboden deze functie, bij gebreke waarvan aan hem eervol ontslag wordt verleend wegens het vervallen van zijn functie. Artikel 99 van de Wet materieel ambtenarenrecht BES is van toepassing.
+Het personeelslid, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=10&z=2011-10-09&g=2011-10-09), aanvaardt binnen twee weken nadat het bevoegde gezag hem schriftelijk een gelijkwaardige functie binnen zijn organisatie heeft aangeboden deze functie, bij gebreke waarvan aan hem eervol ontslag wordt verleend wegens het vervallen van zijn functie. Artikel 99 van de Wet materieel ambtenarenrecht BES is van toepassing.
 
 #### § 3. Commissies
 
 ##### Artikel 13
 
-1. De uitvoering van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=10&z=2011-08-30&g=2011-08-30) vindt plaats onder toezicht van een plaatsingscommissie. De samenstelling, taakstelling en werkwijze van de plaatsingscommissie geschiedt bij eilandsbesluit, houdende algemene maatregelen, met dien verstande, dat in de plaatsingscommissie tenminste één vertegenwoordiger van de bonden van overheidspersoneel wordt benoemd.
+1. De uitvoering van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=10&z=2011-10-09&g=2011-10-09) vindt plaats onder toezicht van een plaatsingscommissie. De samenstelling, taakstelling en werkwijze van de plaatsingscommissie geschiedt bij eilandsbesluit, houdende algemene maatregelen, met dien verstande, dat in de plaatsingscommissie tenminste één vertegenwoordiger van de bonden van overheidspersoneel wordt benoemd.
 
-2. Alvorens te beslissen wint het bevoegde gezag advies van de plaatsingscommissie in. Indien het bevoegde gezag afwijkt van het advies, brengt het de redenen van afwijking ter kennis van de plaatsingscommissie en van het personeelslid, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=10&z=2011-08-30&g=2011-08-30).
+2. Alvorens te beslissen wint het bevoegde gezag advies van de plaatsingscommissie in. Indien het bevoegde gezag afwijkt van het advies, brengt het de redenen van afwijking ter kennis van de plaatsingscommissie en van het personeelslid, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=10&z=2011-10-09&g=2011-10-09).
 
 ##### Artikel 14
 
-1. De behandeling van een bezwaarschrift tegen de plaatsing, niet-plaatsing daaronder mede verstaan, ingediend door het personeelslid, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=10&z=2011-08-30&g=2011-08-30), geschiedt door een bezwarencommissie. De samenstelling, taakstelling en werkwijze van de bezwarencommissie geschiedt bij eilandsbesluit, houdende algemene maatregelen, met dien verstande, dat in de bezwarencommissie tenminste één vertegenwoordiger van de bonden van overheidspersoneel wordt benoemd. De personen waaruit de bezwarencommissie is samengesteld mogen niet dezelfde zijn als van de plaatsingscommissie, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=3&artikel=13&z=2011-08-30&g=2011-08-30).
+1. De behandeling van een bezwaarschrift tegen de plaatsing, niet-plaatsing daaronder mede verstaan, ingediend door het personeelslid, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=10&z=2011-10-09&g=2011-10-09), geschiedt door een bezwarencommissie. De samenstelling, taakstelling en werkwijze van de bezwarencommissie geschiedt bij eilandsbesluit, houdende algemene maatregelen, met dien verstande, dat in de bezwarencommissie tenminste één vertegenwoordiger van de bonden van overheidspersoneel wordt benoemd. De personen waaruit de bezwarencommissie is samengesteld mogen niet dezelfde zijn als van de plaatsingscommissie, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=3&artikel=13&z=2011-10-09&g=2011-10-09).
 
-2. Alvorens te beslissen op het bezwaarschrift, wint het bevoegde gezag advies van de bezwarencommissie in. Indien het bevoegde gezag afwijkt van het advies, brengt het de redenen van afwijking ter kennis van de bezwarencommissie en van het personeelslid^ bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=10&z=2011-08-30&g=2011-08-30).
+2. Alvorens te beslissen op het bezwaarschrift, wint het bevoegde gezag advies van de bezwarencommissie in. Indien het bevoegde gezag afwijkt van het advies, brengt het de redenen van afwijking ter kennis van de bezwarencommissie en van het personeelslid^ bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=10&z=2011-10-09&g=2011-10-09).
 
 3. Het bezwaarschrift wordt binnen dertig dagen na de datum van verzending van het besluit tot plaatsing, niet-plaatsing daaronder mede verstaan, ingediend bij het bevoegde gezag. Het bevoegde gezag beslist binnen zestig dagen na ontvangst van het bezwaarschrift.
 
@@ -167,7 +167,7 @@ Het personeelslid, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.n
 
 ##### Artikel 15
 
-Indien plaatsing van het personeelslid, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=10&z=2011-08-30&g=2011-08-30), binnen drie maanden na afloop van de termijn, bedoeld in artikel 10, eerste lid, niet mogelijk is gebleken, wordt hem eervol ontslag verleend wegens het vervallen van zijn functie, tenzij toepassing is gegeven aan artikel 10, tweede lid. Gedurende drie maanden na het ontslag spant het bevoegde gezag zich in binnen zijn organisatie voor hem een gelijkwaardige functie te vinden. Het bevoegde gezag houdt hierbij rekening met [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=3&artikel=20&z=2011-08-30&g=2011-08-30). Artikel 99 van de Wet materieel ambtenarenrecht BES is van toepassing.
+Indien plaatsing van het personeelslid, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=10&z=2011-10-09&g=2011-10-09), binnen drie maanden na afloop van de termijn, bedoeld in artikel 10, eerste lid, niet mogelijk is gebleken, wordt hem eervol ontslag verleend wegens het vervallen van zijn functie, tenzij toepassing is gegeven aan artikel 10, tweede lid. Gedurende drie maanden na het ontslag spant het bevoegde gezag zich in binnen zijn organisatie voor hem een gelijkwaardige functie te vinden. Het bevoegde gezag houdt hierbij rekening met [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=3&artikel=20&z=2011-10-09&g=2011-10-09). [Artikel 99 van de Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=99) is van toepassing.
 
 ##### Artikel 16
 
@@ -181,7 +181,7 @@ Gedurende een jaar na het tijdstip van de verzelfstandiging van de rechtspersoon
 
 ##### Artikel 17
 
-Het reglement, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=3&artikel=16&z=2011-08-30&g=2011-08-30), behoeft de goedkeuring van het bevoegde gezag.
+Het reglement, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=3&artikel=16&z=2011-10-09&g=2011-10-09), behoeft de goedkeuring van het bevoegde gezag.
 
 ##### Artikel 18
 
