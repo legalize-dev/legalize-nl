@@ -4,7 +4,7 @@ identifier: "BWBR0028723"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2023-07-07"
-last_updated: "2010-10-10"
+last_updated: "2011-10-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028723"
 soort: "AMvB-BES"
@@ -41,7 +41,7 @@ entry_into_force: "2010-10-10"
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **feestdagen:** hetgeen daaronder wordt verstaan in [artikel 42, vierde lid, van de Wet materieel ambtenarenrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=42) wordt verstaan;
+- a. **feestdagen:** hetgeen daaronder wordt verstaan in [artikel 37, vierde lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=37) wordt verstaan;
 
 - b. **diensturen:** het totaal van de werk-, wacht- en beschikbaarheidsuren;
 
@@ -103,7 +103,7 @@ Aan de ambtenaar, die niet in wachtdienst werkzaam is, wordt in beginsel op zond
 
 ##### Artikel 5
 
-Aan de ambtenaar in wachtdienst wordt voor de in een kalenderjaar vallende feestdagen een gelijk aantal extra rustdagen toegekend als aan de ambtenaar bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028723&artikel=4&z=2010-10-10&g=2010-10-10) rustdagen op feestdagen worden toegekend. Deze dagen worden zoveel mogelijk over dat kalenderjaar verdeeld.
+Aan de ambtenaar in wachtdienst wordt voor de in een kalenderjaar vallende feestdagen een gelijk aantal extra rustdagen toegekend als aan de ambtenaar bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028723&artikel=4&z=2011-10-09&g=2011-10-09) rustdagen op feestdagen worden toegekend. Deze dagen worden zoveel mogelijk over dat kalenderjaar verdeeld.
 
 ## Overwerk
 
@@ -113,7 +113,7 @@ Aan de ambtenaar in wachtdienst wordt voor de in een kalenderjaar vallende feest
 
 2. Van verricht overwerk wordt telkenmale aantekening gehouden op het dienstrooster alsmede op een daartoe bestemd formulier. Het formulier moet worden ondertekend door de ambtenaar die het overwerk verrichtte en door de ambtenaar die de opdracht tot het verrichten van het overwerk gaf.
 
-3. Indien het dienstbelang het onvermijdelijk maakt, dat aan een ambtenaar werk wordt opgedragen buiten de voor hem vastgestelde werktijden, wordt hem door Onze Minister een vergoeding toegekend conform het bepaalde in [artikel 27 van de Wet Materieel ambtenarenrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=27).
+3. Indien het dienstbelang het onvermijdelijk maakt, dat aan een ambtenaar werk wordt opgedragen buiten de voor hem vastgestelde werktijden, wordt hem door Onze Minister een vergoeding toegekend conform het bepaalde in [artikel 25 van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=25).
 
 ## Paraatheidstoelage
 
@@ -157,7 +157,7 @@ Bij ministeriële regeling kunnen ter uitvoering van dit besluit nadere regels w
 
 ##### Artikel 13
 
-Dit besluit berust op de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=28), [42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=42), en [43, eerste lid, van de Wet materieel ambtenarenrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=43).
+Dit besluit berust op de [artikelen 42](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=42) en [43 van de Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=43).
 
 ##### Artikel 14
 
