@@ -4,7 +4,7 @@ identifier: "BWBR0028537"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2011-10-09"
-last_updated: "2010-10-10"
+last_updated: "2011-10-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028537"
 soort: "AMvB-BES"
@@ -41,21 +41,21 @@ entry_into_force: "2010-10-10"
 
 ##### Artikel 1
 
-Ten behoeve van de administratieve ambtenaren, die werkzaam zijn bij de belastingdienst, kan bij ministeriële regeling in elk van de openbare lichamen een leergang worden ingesteld, opleidende tot het vakexamen voor benoembaarheid tot klerk en tot adjunct-commies als bedoeld in [artikel 13, tweede lid, van de Wet Materieel Ambtenarenrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=13). Bij die ministeriële regeling kan tevens de vergoeding van de leraren en de cursusleider worden geregeld.
+Ten behoeve van de administratieve ambtenaren, die werkzaam zijn bij de belastingdienst, kan bij ministeriële regeling in elk van de openbare lichamen een leergang worden ingesteld, opleidende tot het vakexamen voor benoembaarheid tot klerk en tot adjunct-commies als bedoeld in [artikel 10, onder a, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=10). Bij die ministeriële regeling kan tevens de vergoeding van de leraren en de cursusleider worden geregeld.
 
 ##### Artikel 2
 
-1. De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028537&hoofdstuk=I&artikel=1&z=2010-10-10&g=2010-10-10) vermelde leergang bestaat uit twee gedeelten:
+1. De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028537&hoofdstuk=I&artikel=1&z=2011-10-09&g=2011-10-09) vermelde leergang bestaat uit twee gedeelten:
 
-- a. het eerste gedeelte omvattende het eerste leerjaar en opleidende tot het examen voor benoembaarheid tot klerk als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028537&hoofdstuk=III&paragraaf=A&artikel=13&z=2010-10-10&g=2010-10-10);
+- a. het eerste gedeelte omvattende het eerste leerjaar en opleidende tot het examen voor benoembaarheid tot klerk als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028537&hoofdstuk=III&paragraaf=A&artikel=13&z=2011-10-09&g=2011-10-09);
 
-- b. het tweede gedeelte omvattende het tweede, derde en vierde leerjaar en opleidende tot het examen voor benoembaarheid tot adjunct-commies als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028537&hoofdstuk=III&paragraaf=A&artikel=14&z=2010-10-10&g=2010-10-10).
+- b. het tweede gedeelte omvattende het tweede, derde en vierde leerjaar en opleidende tot het examen voor benoembaarheid tot adjunct-commies als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028537&hoofdstuk=III&paragraaf=A&artikel=14&z=2011-10-09&g=2011-10-09).
 
 2. Het cursusjaar begint gelijktijdig met het schooljaar van de openbare scholen.
 
 ##### Artikel 3
 
-De organisatie van en het toezicht op de leergang berusten bij een bij ministeriële regeling aangwezen functionaris die zich daarbij kan doen bijstaan door de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028537&hoofdstuk=I&artikel=6&z=2010-10-10&g=2010-10-10) bedoelde cursusleiders.
+De organisatie van en het toezicht op de leergang berusten bij een bij ministeriële regeling aangwezen functionaris die zich daarbij kan doen bijstaan door de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028537&hoofdstuk=I&artikel=6&z=2011-10-09&g=2011-10-09) bedoelde cursusleiders.
 
 ##### Artikel 4
 
@@ -209,7 +209,7 @@ Vrijstelling van het afleggen van examen in een bepaald vak, zoals in het eerste
 
 ##### Artikel 15
 
-1. De cursisten die zich voor het afleggen van het examen voor benoembaarheid tot adjunct-commies hebben aangemeld, worden daartoe slechts toegelaten wanneer zij de tentamens in het derde en vierde leerjaar, bedoeld in [artikel 11 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028537&hoofdstuk=II&artikel=11&z=2010-10-10&g=2010-10-10), met goed gevolg hebben afgelegd en uiterlijk twee dagen voor het begin van het examen een examengeld van vijf dollar hebben voldaan ten kantore van een bij ministeriële regeling aangewezen functionaris in het openbaar lichaam waar zij woonachtig zijn.
+1. De cursisten die zich voor het afleggen van het examen voor benoembaarheid tot adjunct-commies hebben aangemeld, worden daartoe slechts toegelaten wanneer zij de tentamens in het derde en vierde leerjaar, bedoeld in [artikel 11 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028537&hoofdstuk=II&artikel=11&z=2011-10-09&g=2011-10-09), met goed gevolg hebben afgelegd en uiterlijk twee dagen voor het begin van het examen een examengeld van vijf dollar hebben voldaan ten kantore van een bij ministeriële regeling aangewezen functionaris in het openbaar lichaam waar zij woonachtig zijn.
 
 2. Eenmaal betaald examengeld wordt niet teruggegeven.
 
@@ -317,7 +317,7 @@ Deze mededeling wordt ondertekend door de voorzitter en de secretaris van de exa
 
 1. Het gemaakte schriftelijke werk wordt gedurende zes maanden ten kantore van een bij ministeriële regeling aan te wijzen entiteit bewaard, waarna het wordt vernietigd.
 
-2. De gehouden aantekeningen van het mondelinge onderzoek alsmede een naamlijst van de kandidaten met vermelding van de behaalde cijfers en de uitslagen worden in het archief van een bij ministeriële regeling aangewezen functionaris bewaard, alwaar ook afschriften van de schriftelijke opgaven moeten berusten. Bij ministeriële regeling kunnen regels worden gesteld betreffende vergoedingen voor het afnemen van tentamens en examens voor de leraren en de in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028537&hoofdstuk=III&paragraaf=A&artikel=12&z=2010-10-10&g=2010-10-10), bedoelde gecommitteerden.
+2. De gehouden aantekeningen van het mondelinge onderzoek alsmede een naamlijst van de kandidaten met vermelding van de behaalde cijfers en de uitslagen worden in het archief van een bij ministeriële regeling aangewezen functionaris bewaard, alwaar ook afschriften van de schriftelijke opgaven moeten berusten. Bij ministeriële regeling kunnen regels worden gesteld betreffende vergoedingen voor het afnemen van tentamens en examens voor de leraren en de in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028537&hoofdstuk=III&paragraaf=A&artikel=12&z=2011-10-09&g=2011-10-09), bedoelde gecommitteerden.
 
 ### Hoofstuk IV
 
@@ -325,7 +325,7 @@ Deze mededeling wordt ondertekend door de voorzitter en de secretaris van de exa
 
 ##### Artikel 24
 
-Dit besluit berust op [artikel 13, tweede lid, van de Wet materieel ambtenarenrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=13).
+Dit besluit berust op [artikel 10, onder a, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=10).
 
 ##### Artikel 25
 
