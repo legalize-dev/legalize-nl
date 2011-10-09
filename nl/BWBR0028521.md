@@ -4,7 +4,7 @@ identifier: "BWBR0028521"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2011-10-09"
-last_updated: "2010-10-10"
+last_updated: "2011-10-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028521"
 soort: "AMvB-BES"
@@ -95,7 +95,7 @@ Als diensttijd, geldig voor de toekenning van periodieke bezoldigingsverhoging, 
 
 1. Indien het een dienstplichtige dan wel een niet in werkelijke dienst zijnde dienstplichtige op grond van [artikel 27, derde lid, van de Dienstplichtwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&artikel=27) is vergund in werkelijke dienst te blijven onderscheidenlijk te komen met ingang van een andere dan de eerste dag van een kalendermaand, worden de voor periodieke bezoldigingsverhogingen gestelde tijdvakken van twee jaren geacht te beginnen op de eerste dag van de onmiddellijk daarop volgende kalandermaand.
 
-2. Indien door onthouding van periodieke bezoldigingsverhogingen gedurende enige tijd of door toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028521&hoofdstuk=2&artikel=7&z=2010-10-10&g=2010-10-10) aanspraak op een periodieke bezoldigingsverhoging zou worden verkregen op een andere dan de eerste dag van een kalendermaand, gaat de periodieke verhoging in op de eerste dag van de onmiddellijk daarop volgende kalendermaand.
+2. Indien door onthouding van periodieke bezoldigingsverhogingen gedurende enige tijd of door toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028521&hoofdstuk=2&artikel=7&z=2011-10-09&g=2011-10-09) aanspraak op een periodieke bezoldigingsverhoging zou worden verkregen op een andere dan de eerste dag van een kalendermaand, gaat de periodieke verhoging in op de eerste dag van de onmiddellijk daarop volgende kalendermaand.
 
 ##### Artikel 9
 
@@ -111,7 +111,7 @@ Indien een vooruitgang van bezoldiging wordt verkregen, gelijk aan of minder dan
 
 5. De uit hoofde van bevordering toegekend bezoldiging wordt voor de toekenning van verdere periodieke bezoldigingsverhogingen beschouwd als te zijn verkregen door een gewone periodieke verhoging, na de daarvoor gevorderde diensttijd.
 
-6. Indien een benoeming tot officier of een bevordering is ingegaan op een andere dan de eerste dag van een kalendermaand, is [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028521&hoofdstuk=2&artikel=8&z=2010-10-10&g=2010-10-10), van overeenkomstige toepassing.
+6. Indien een benoeming tot officier of een bevordering is ingegaan op een andere dan de eerste dag van een kalendermaand, is [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028521&hoofdstuk=2&artikel=8&z=2011-10-09&g=2011-10-09), van overeenkomstige toepassing.
 
 7. Voor gevallen, waarin de voorgaande leden van dit artikel niet of niet naar billijkheid voorzien, kan door Onze Minister een bijzondere regeling worden getroffen.
 
@@ -139,7 +139,7 @@ Aan een vrijwillig nadienende dienstplichtige, die bij administratieve maatregel
 
 ##### Artikel 12
 
-Op de dienstplichtige, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028521&hoofdstuk=3&artikel=11&z=2010-10-10&g=2010-10-10), zijn de voor de ambtenaar geldende regelen terzake van de kindertoelage, van overeenkomstige toepassing.
+Op de dienstplichtige, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028521&hoofdstuk=3&artikel=11&z=2011-10-09&g=2011-10-09), zijn de voor de ambtenaar geldende regelen terzake van de kindertoelage, van overeenkomstige toepassing.
 
 ### Hoofdstuk 4. Kostwinnerstoelage
 
@@ -149,11 +149,11 @@ Op de dienstplichtige, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3
 
 2. Voor de toepassing van het eerste lid wordt als ongehuwd beschouwd de dienstplichtige, die niet gehuwd en niet gehuwd geweest is.
 
-3. De dienstplichtige, aan wie een kostwinnerstoelage is toegekend, komt niet in aanmerking voor toekenning van een toelage herhalingsoefening als bedoeld in [Hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028521&hoofdstuk=6&z=2010-10-10&g=2010-10-10).
+3. De dienstplichtige, aan wie een kostwinnerstoelage is toegekend, komt niet in aanmerking voor toekenning van een toelage herhalingsoefening als bedoeld in [Hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028521&hoofdstuk=6&z=2011-10-09&g=2011-10-09).
 
 ##### Artikel 14
 
-Op de dienstplichtige, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028521&hoofdstuk=4&artikel=13&z=2010-10-10&g=2010-10-10), zijn de voor de ambtenaar geldende regelen terzake van de kostwinnerstoelage, van overeenkomstige toepassing.
+Op de dienstplichtige, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028521&hoofdstuk=4&artikel=13&z=2011-10-09&g=2011-10-09), zijn de voor de ambtenaar geldende regelen terzake van de kostwinnerstoelage, van overeenkomstige toepassing.
 
 ### Hoofdstuk 5. Toelage buitenland
 
@@ -163,7 +163,7 @@ Aan de vrijwillig nadienende dienstplichtige, die is tewerk gesteld in Aruba, ka
 
 ##### Artikel 16
 
-1. Aan de vrijwillig nadienende dienstplichtige, die is tewerk gesteld in Nederland, wordt terzake van die tewerkstelling een toelage buitenland toegekend ten bedrage van 15% van de bezoldiging, waarop hij op grond van de bepalingen, opgenomen in [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028521&hoofdstuk=2&z=2010-10-10&g=2010-10-10), aanspraak heeft.
+1. Aan de vrijwillig nadienende dienstplichtige, die is tewerk gesteld in Nederland, wordt terzake van die tewerkstelling een toelage buitenland toegekend ten bedrage van 15% van de bezoldiging, waarop hij op grond van de bepalingen, opgenomen in [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028521&hoofdstuk=2&z=2011-10-09&g=2011-10-09), aanspraak heeft.
 
 2. Deze toelage kan door Onze Minister worden verhoogd, voor zover bijzondere omstandigheden daartoe naar zijn oordeel aanleiding geven.
 
@@ -193,11 +193,11 @@ De toelage buitenland, die op grond van een der voorgaande artikelen van dit Hoo
 
 ##### Artikel 19
 
-1. Aan de dienstplichtige, die voor herhalingsoefening in werkelijke dienst is, wordt op zijn verzoek door Onze Minister ter vergoeding van gederfde inkomsten een toelage herhalingsoefening toegekend, waarvan het bedrag gelijk is aan het verschil tussen de inkomsten, die hij zeker zou hebben genoten als zelfstandig ondernemer dan wel uit een dienstbetrekking, indien hij niet in werkelijke dienst zou zijn, en de bezoldiging, waarop hij ingevolge [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028521&hoofdstuk=2&artikel=3&z=2010-10-10&g=2010-10-10) van dit besluit aanspraak heeft, mits het bedrag van de bedoelde inkomsten groter is dan dat van de bezoldiging.
+1. Aan de dienstplichtige, die voor herhalingsoefening in werkelijke dienst is, wordt op zijn verzoek door Onze Minister ter vergoeding van gederfde inkomsten een toelage herhalingsoefening toegekend, waarvan het bedrag gelijk is aan het verschil tussen de inkomsten, die hij zeker zou hebben genoten als zelfstandig ondernemer dan wel uit een dienstbetrekking, indien hij niet in werkelijke dienst zou zijn, en de bezoldiging, waarop hij ingevolge [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028521&hoofdstuk=2&artikel=3&z=2011-10-09&g=2011-10-09) van dit besluit aanspraak heeft, mits het bedrag van de bedoelde inkomsten groter is dan dat van de bezoldiging.
 
-2. Het eerste lid is niet van toepassing op de dienstplichtige, op wie de [Wet materieel ambtenarenrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215) van toepassing is.
+2. Het eerste lid is niet van toepassing op de dienstplichtige, op wie de [Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215) van toepassing is.
 
-3. De dienstplichtige, aan wie een toelage herhalingsoefening is toegekend, komt niet in aanmerking voor toekenning van een kostwinnerstoelage als bedoeld in [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028521&hoofdstuk=4&z=2010-10-10&g=2010-10-10).
+3. De dienstplichtige, aan wie een toelage herhalingsoefening is toegekend, komt niet in aanmerking voor toekenning van een kostwinnerstoelage als bedoeld in [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028521&hoofdstuk=4&z=2011-10-09&g=2011-10-09).
 
 4. De toelage herhalingsoefening wordt aan de dienstplichtige uitbetaald tegelijk met zijn bezoldiging.
 
