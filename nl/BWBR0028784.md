@@ -4,7 +4,7 @@ identifier: "BWBR0028784"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2011-10-09"
-last_updated: "2010-10-10"
+last_updated: "2011-10-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028784"
 soort: "ministeriele-regeling-BES"
@@ -43,7 +43,7 @@ Het functioneringsgesprek is een formeel gesprek tussen de leidinggevende en de 
 
 1. In deze regeling wordt verstaan onder:
 
-- a. **formulier:** het formulier, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028784&artikel=5&z=2010-10-10&g=2010-10-10), dat voor de vastlegging van het functioneringsgesprek dient te worden gebruikt;
+- a. **formulier:** het formulier, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028784&artikel=5&z=2011-10-09&g=2011-10-09), dat voor de vastlegging van het functioneringsgesprek dient te worden gebruikt;
 
 - b. **leidinggevende:** de chef van een functionaris die hiërarchisch direct boven de functionaris staat, direct verantwoordelijk is voor het functioneren van deze functionaris en als zodanig het functioneringsgesprek met de functionaris voert;
 
@@ -135,7 +135,7 @@ Vernietiging vindt na die periode plaats indien een formulier, naar aanleiding v
 
 ##### Artikel 10
 
-Deze regeling berust op [artikel 15, zesde lid, onderdeel a, van de Wet materieel ambtenarenrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=15).
+Deze regeling berust op [artikel 15, tweede lid, van de Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=15).
 
 ##### Artikel 11
 
