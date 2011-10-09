@@ -4,7 +4,7 @@ identifier: "BWBR0028492"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2011-10-09"
-last_updated: "2010-10-10"
+last_updated: "2011-10-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028492"
 soort: "AMvB-BES"
@@ -39,7 +39,7 @@ entry_into_force: "2010-10-10"
 
 1. Bij ministeriële regeling kan in elk van de openbare lichamen voor de opleiding, vorming en training van ambtenaren bij de Belastingdienst een cursus worden ingesteld voor benoembaarheid tot controleur der Belastingen.
 
-2. Bij die regeling kan tevens de vergoeding van de docenten voor de vakken genoemd in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028492&artikel=9&z=2010-10-10&g=2010-10-10), en de met de dagelijkse leiding van de cursus belaste cursusleider worden vastgesteld.
+2. Bij die regeling kan tevens de vergoeding van de docenten voor de vakken genoemd in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028492&artikel=9&z=2011-10-09&g=2011-10-09), en de met de dagelijkse leiding van de cursus belaste cursusleider worden vastgesteld.
 
 ##### Artikel 2
 
@@ -61,7 +61,7 @@ entry_into_force: "2010-10-10"
 
 ##### Artikel 4
 
-1. Het aantal lesuren voor de vakken, genoemd in [artikel 9l eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028492&artikel=9&z=2010-10-10&g=2010-10-10), alsmede de duur van de lesuren, wordt bij ministeriële regeling vastgesteld.
+1. Het aantal lesuren voor de vakken, genoemd in [artikel 9l eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028492&artikel=9&z=2011-10-09&g=2011-10-09), alsmede de duur van de lesuren, wordt bij ministeriële regeling vastgesteld.
 
 2. Het rooster van lesuren wordt door Commissie van Toezicht na overleg met de docenten en de cursusleider vastgesteld of gewijzigd en tijdig bekend gemaakt aan de cursisten.
 
@@ -139,11 +139,11 @@ De examens worden tevens afgenomen onder toezicht van de voor ieder vak door de 
 
 4. Bij afwijzing wordt de cursist binnen zes maanden na examendatum in de gelegenheid gesteld een herexamen af te leggen.
 
-5. Het zich niet aanmelden voor c.q. het niet deelnemen aan een aangemeld examen of herexamen wordt gelijkgesteld met een afwijzing met het cijfer 1 (één) als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028492&artikel=15&z=2010-10-10&g=2010-10-10).
+5. Het zich niet aanmelden voor c.q. het niet deelnemen aan een aangemeld examen of herexamen wordt gelijkgesteld met een afwijzing met het cijfer 1 (één) als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028492&artikel=15&z=2011-10-09&g=2011-10-09).
 
 ##### Artikel 11
 
-In het openbaar lichaam waar ingevolge [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028492&artikel=1&z=2010-10-10&g=2010-10-10), een cursus is ingesteld, vormen de betrokken docenten, de cursusleider, de leden van de Commissie van Toezicht de examencommissie voor dat openbaar lichaam.
+In het openbaar lichaam waar ingevolge [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028492&artikel=1&z=2011-10-09&g=2011-10-09), een cursus is ingesteld, vormen de betrokken docenten, de cursusleider, de leden van de Commissie van Toezicht de examencommissie voor dat openbaar lichaam.
 
 Een daartoe bij ministeriële regeling aangewezen functionaris of diens plaatsvervanger is ambtshalve voorzitter van de examencommissie. De secretaris van de Commissie van Toezicht is tevens secretaris van de examencommissie.
 
@@ -212,7 +212,7 @@ Bij ministeriële regeling kunnen nadere voorschriften worden gegeven ten aanzie
 
 ##### Artikel 19
 
-Dit besluit berust op [artikel 13, tweede lid, van de Wet materieel ambtenarenrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=13).
+Dit besluit berust op [artikel 10, onder a, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=10).
 
 ##### Artikel 20
 
@@ -302,7 +302,7 @@ Het leren omgaan met mensen in een van nature vaak vijandige sfeer, zonder de ge
 
 In dit kader komen o.m. aan de orde:
 
-### EXAMENREGLEMENT als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028492&artikel=12&z=2010-10-10&g=2010-10-10), van het Besluit opleiding tot controleur der Belastingen BES.
+### EXAMENREGLEMENT als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028492&artikel=12&z=2011-10-09&g=2011-10-09), van het Besluit opleiding tot controleur der Belastingen BES.
 
 ### Artikel 1
 
