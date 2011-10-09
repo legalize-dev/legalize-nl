@@ -4,7 +4,7 @@ identifier: "BWBR0028160"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2011-10-09"
-last_updated: "2010-10-10"
+last_updated: "2011-10-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028160"
 soort: "wet-BES"
@@ -47,7 +47,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. [Vervallen]
 
-- d. **WMABES:** de Wet materieel ambtenarenrecht BES;
+- d. vervallen;
 
 - e. **Kustwacht:** de Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
@@ -55,13 +55,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - g. [Vervallen];
 
-- h. **ambtenaar:** de ambtenaar die is aangesteld in de zin van de WMABES en werkzaam is bij de Kustwacht;
+- h. **ambtenaar:** de ambtenaar die is aangesteld in de zin van de [Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215) en werkzaam is bij de Kustwacht;
 
 - i. **geüniformeerd ambtenaar:** de ambtenaar die als zodanig is aangesteld.
 
 ##### Artikel 2
 
-Tenzij bij of krachtens deze wet anders is bepaald, is de WMABES van toepassing op de ambtenaar.
+Tenzij anders is bepaald, zijn de bij of krachtens de [Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215) gestelde voorschriften van toepassing op de ambtenaar.
 
 ##### Artikel 3
 
@@ -125,7 +125,7 @@ Voor de toepassing van deze paragraaf en de daarop berustende bepalingen wordt v
 
 ##### Artikel 7
 
-1. De artikelen 27 en 42 van de WMABES en de daarop berustende bepalingen zijn niet van toepassing op de geüniformeerd ambtenaar.
+1. De [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=25) en [37 van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=37) en de daarop berustende bepalingen zijn niet van toepassing op de geüniformeerd ambtenaar.
 
 2. Bij of krachtens algemene maatregel van bestuur worden, met betrekking tot de geüniformeerd ambtenaar, met inachtneming van het bepaalde in deze paragraaf, regels gesteld ten aanzien van de dienst- en werktijden, de verplichting zich op een bepaalde plaats ter beschikking te houden voor de dienst, voor de dienst bereikbaar te zijn, de mogelijkheid van overwerk en vergoeding hiervoor, bijzondere vergoedingen en toelagen in verband met gedurende de dienst- en werktijd te verrichten werkzaamheden alsmede schadeloosstelling van door de ambtenaar in verband met de dienst geleden schade.
 
@@ -147,13 +147,13 @@ Voor de toepassing van deze paragraaf en de daarop berustende bepalingen wordt v
 
 ##### Artikel 10
 
-1. Aan de geüniformeerd ambtenaar in tijdelijke dienst op basis van artikel 5, derde lid, onderdeel g, van de WMABES, die met toepassing van artikel 92, eerste lid, van de WMABES, niet in proeftijd, de dienst verlaat, wordt met ingang van de dag waarop hij de dienst verlaat, op zijn daartoe strekkend verzoek, een overbruggingsuitkering toegekend gedurende een periode van één jaar.
+1. Aan de geüniformeerd ambtenaar in tijdelijke dienst op basis van [artikel 2, derde lid, onderdeel g, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=2), die met toepassing van [artikel 89, eerste lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=89), niet in proeftijd, de dienst verlaat, wordt met ingang van de dag waarop hij de dienst verlaat, op zijn daartoe strekkend verzoek, een overbruggingsuitkering toegekend gedurende een periode van één jaar.
 
 2. De overbruggingsuitkering wordt gedurende de eerste drie maanden bepaald op 80% van het laatstelijk genoten inkomen en gedurende de daarop volgende 9 maanden op 70% van dat inkomen en wordt in maandelijkse termijnen uitbetaald.
 
-3. Artikel 3 van het Wachtgeldbesluit ambtenaren BES is voor de bepaling van het laatstelijk genoten inkomen van overeenkomstige toepassing.
+3. [Artikel 3 van het Wachtgeldbesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028541&artikel=3) is voor de bepaling van het laatstelijk genoten inkomen van overeenkomstige toepassing.
 
-4. De artikelen 10 tot en met 27 van het Wachtgeldbesluit ambtenaren BES zijn voor wat betreft de bijzondere verplichtingen van de geüniformeerd ambtenaar die recht heeft op een overbruggingsuitkering en de mogelijkheden tot weigering, vermindering en intrekking van de overbruggingsuitkering, van overeenkomstige toepassing.
+4. De [artikelen 10 tot en met 27 van het Wachtgeldbesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028541&artikel=10) zijn voor wat betreft de bijzondere verplichtingen van de geüniformeerd ambtenaar die recht heeft op een overbruggingsuitkering en de mogelijkheden tot weigering, vermindering en intrekking van de overbruggingsuitkering, van overeenkomstige toepassing.
 
 ##### Artikel 11
 
@@ -179,11 +179,11 @@ Voor de toepassing van deze paragraaf en de daarop berustende bepalingen wordt v
 
 ##### Artikel 14
 
-Indien de ambtenaar op basis van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028160&paragraaf=6&artikel=13&z=2010-10-10&g=2010-10-10) een schaalgarantieuitkering ontvangt, wordt, voor de berekening van het inkomen als bedoeld in artikel 4 van het Besluit vakantie en vrijstelling van dienst ambtenaren BES de bezoldiging met die garantieuitkering verhoogd.
+Indien de ambtenaar op basis van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028160&paragraaf=6&artikel=13&z=2011-10-09&g=2011-10-09) een schaalgarantieuitkering ontvangt, wordt, voor de berekening van het inkomen als bedoeld in artikel 4 van het Besluit vakantie en vrijstelling van dienst ambtenaren BES de bezoldiging met die garantieuitkering verhoogd.
 
 ##### Artikel 15
 
-Indien de ambtenaar op basis van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028160&paragraaf=6&artikel=13&z=2010-10-10&g=2010-10-10), een schaalgarantieuitkering ontvangt, geldt voor de berekening van en de bijdrage voor het pensioen, bedoeld in de Pensioenwet ambtenaren BES, als pensioengrondslag, de pensioengrondslag behorende bij de fictieve bezoldiging als bedoeld in artikel 13, vierde lid.
+Indien de ambtenaar op basis van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028160&paragraaf=6&artikel=13&z=2011-10-09&g=2011-10-09), een schaalgarantieuitkering ontvangt, geldt voor de berekening van en de bijdrage voor het pensioen, bedoeld in de Pensioenwet ambtenaren BES, als pensioengrondslag, de pensioengrondslag behorende bij de fictieve bezoldiging als bedoeld in artikel 13, vierde lid.
 
 ##### Artikel 16
 
@@ -191,7 +191,7 @@ Deze landsverordening treedt in werking met ingang van de dag na die der uitgift
 
 ##### Artikel 16a
 
-1. De directeur van de Kustwacht is bevoegd aan ambtenaren de disciplinaire straffen genoemd in artikel 83, eerste lid, onderdelen a, b en c, van de WMABES, op te leggen.
+1. De directeur van de Kustwacht is bevoegd aan ambtenaren de disciplinaire straffen genoemd in [artikel 79, eerste lid, onderdelen a, b en c, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=79), op te leggen.
 
 2. Indien een algemene regeling tot overdracht van disciplinaire strafbevoegdheid aan diensthoofden tot stand komt, zijn de voorschriften voor diensthoofden van overeenkomstige toepassing op de directeur van de Kustwacht.
 
