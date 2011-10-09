@@ -4,7 +4,7 @@ identifier: "BWBR0029422"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2018-10-01"
-last_updated: "2011-01-15"
+last_updated: "2011-10-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029422"
 soort: "ministeriele-regeling-BES"
@@ -130,7 +130,7 @@ Het bevoegd gezag kan niet-ambtenaren die in zijn opdracht diensten verrichten v
 
 ##### Artikel 10
 
-De in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0029422&artikel=9&z=2011-01-15&g=2011-01-15) bedoelde vergoeding voor verblijfkosten wordt niet genoten door ambtenaren, voor wie door het bevoegd gezag is bepaald, dat alleen de werkelijk gedane uitgaven vergoed worden of een andere bijzondere regeling is getroffen.
+De in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0029422&artikel=9&z=2011-01-15&g=2011-10-09) bedoelde vergoeding voor verblijfkosten wordt niet genoten door ambtenaren, voor wie door het bevoegd gezag is bepaald, dat alleen de werkelijk gedane uitgaven vergoed worden of een andere bijzondere regeling is getroffen.
 
 ##### Artikel 11
 
@@ -143,5 +143,11 @@ Deze regeling wordt aangehaald als: Reis- verblijf- en verhuiskostenregeling amb
 ##### Artikel 13
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 10 oktober 2010.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 12a
+
+Deze regeling berust op de [artikelen 66, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=66), [67, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=67), en [68, tweede lid, onder a, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=68).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
