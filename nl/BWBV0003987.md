@@ -4,7 +4,7 @@ identifier: "BWBV0003987"
 country: "nl"
 rank: "verdrag"
 publication_date: "2011-10-11"
-last_updated: "1973-04-12"
+last_updated: "2011-10-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003987"
 soort: "verdrag"
@@ -42,67 +42,43 @@ Opgezegd per 11 april 2011 (Trb. 2011/119).
 
 ##### Artikel 1
 
-1. De Overeenkomstsluitende Partijen zullen samenwerken bij de invoer, uitvoer en doorvoer van dieren, van produkten en grondstoffen van dierlijke oorsprong en van veevoeder, ten einde de mogelijkheid van insleep van smetstoffen op het grondgebied van beide Staten te voorkomen.
-
-2. De Overeenkomstsluitende Partijen zullen het handelsverkeer in dieren en produkten van dierlijke oorsprong vergemakkelijken. De invoer, uitvoer en doorvoer van dieren, van produkten en grondstoffen van dierlijke oorsprong en van veevoeder geschiedt na voorafgaande goedkeuring door de bevoegde veeartsenijkundige overheidsdiensten.
+Vervallen
 
 ##### Artikel 2
 
-De uit veeartsenijkundig oogpunt te stellen sanitaire voorwaarden voor de invoer van levende dieren en produkten van dierlijke oorsprong uit het grondgebied van de ene Overeenkomstsluitende Partij in dat van de andere, zijn omschreven in het aan deze Overeenkomst gehechte Protocol.
+Vervallen
 
 ##### Artikel 3
 
-De bevoegde overheidsinstanties wisselen ten minste eenmaal per maand gezondheidsbulletins uit met statistische gegevens over besmettelijke dierziekten. Tevens verstrekken zij elkaar alle gegevens die voor hen van belang zouden kunnen zijn.
+Vervallen
 
 ##### Artikel 4
 
-1. De Overeenkomstsluitende Partijen vergemakkelijken:
-
-- a. de samenwerking op het terrein van het veeartsenijkundig onderzoek, de samenwerking tussen laboratoria van de veeartsenijkundige overheidsdiensten en de uitwisseling van de hieruit verkregen resultaten;
-
-- b. de uitwisseling van veeartsenijkundige specialisten van de beide landen, ten einde hun de mogelijkheid te verschaffen zich op de hoogte te stellen van de gezondheidstoestand van de dieren en alle nuttige inlichtingen te vergaren betreffende de werkzaamheden van de bevoegde veeartsenijkundige overheidsdiensten.
-
-2. De bevoegde overheidsinstanties kunnen tevens gezamenlijk plannen uitwerken voor samenwerking gedurende een bepaalde periode.
+Vervallen
 
 ##### Artikel 5
 
-De bevoegde overheidsinstanties voeren een rechtstreekse briefwisseling over vraagstukken die de uitvoering van deze Overeenkomst raken en zij zijn bevoegd tot wijziging van het aan deze Overeenkomst gehechte Protocol.
-
-De wijzigingen zullen worden bevestigd door een diplomatieke notawisseling en worden van kracht op de datum van deze uitwisseling.
+Vervallen
 
 ##### Artikel 6
 
-De uitgaven voortvloeiende uit de toepassing van artikel 4 van deze Overeenkomst komen ten laste van de Staat die, in zijn eigen belang, deskundigen uitzendt of aan de andere Overeenkomstsluitende Partij verzoekt, deskundigen uit te zenden.
+Vervallen
 
 ##### Artikel 7
 
-De moeilijkheden die de toepassing van deze Overeenkomst en van het daaraan gehechte Protocol zou kunnen doen rijzen worden onderzocht door een gemengde commissie.
-
-De Commissie bestaat uit drie leden voor elk land, waaronder twee dierenartsen in overheidsdienst.
-
-De vertegenwoordigers van elk land kunnen zich doen vergezellen van andere deskundigen.
-
-De Commissie komt bijeen binnen twee maanden na een door een der beide Partijen gedane convocatie.
-
-De vraagstukken waarover de gemengde commissie geen overeenstemming heeft bereikt worden langs diplomatieke weg geregeld.
+Vervallen
 
 ##### Artikel 8
 
-Deze Overeenkomst geldt wat het Koninkrijk der Nederlanden betreft alleen voor het Rijk in Europa, en wat de Tsjechoslowaakse Socialistische Republiek betreft voor haar nationale grondgebied.
+Vervallen
 
 ##### Artikel 9
 
-1. Deze Overeenkomst maakt geen inbreuk op de rechten en verplichtingen die de Overeenkomstsluitende Partijen hebben verkregen en aangegaan of alsnog zullen verkrijgen of aangaan op grond van andere internationale overeenkomsten.
-
-2. Als een der Overeenkomstsluitende Partijen een wijziging van één of meer bepalingen van deze Overeenkomst wenselijk acht kan zij de andere Overeenkomstsluitende Partij verzoeken hierover besprekingen te voeren. Deze dienen aan te vangen ten hoogste zestig dagen nadat het desbetreffende verzoek is gedaan. Wanneer de bevoegde overheidsinstanties overeenstemming hebben bereikt over een wijziging van deze Overeenkomst doen zij daartoe voorstellen aan hun onderscheiden Regeringen.
-
-3. Alle wijzigingen van deze Overeenkomst komen tot stand door middel van een notawisseling tussen de Overeenkomstsluitende Partijen.
+Vervallen
 
 ##### Artikel 10
 
-1. Elke Overeenkomstsluitende Partij deelt aan de andere Partij het tijdstip mede waarop aan de constitutionele vereisten voor de toepassing van deze Overeenkomst is voldaan. Zij treedt in werking op de datum van de laatstontvangen mededeling.
-
-2. Deze Overeenkomst blijft van kracht zolang zij niet door een van beide Partijen schriftelijk en met inachtneming van een termijn van zes maanden is opgezegd.
+Vervallen
 
 ##### Artikel 1
 
@@ -210,25 +186,19 @@ De invoer van geslacht gevogelte, delen van gevogelte, eetbare afvallen en daaru
 
 ##### Artikel 11
 
-De gezondheidscertificaten waarvan in dit Protocol sprake is, moeten ten behoeve van de uitvoer vanuit het Koninkrijk der Nederlanden in de Nederlandse en Franse taal en ten behoeve van de uitvoer vanuit de Tsjechoslowaakse Socialistische Republiek in de Tsjechische en Franse taal zijn gesteld.
+Vervallen
 
 ##### Artikel 12
 
-De hiervoor genoemde levende dieren en produkten van dierlijke oorsprong kunnen door het importerende land worden geweigerd indien ze niet voldoen aan de in dit Protocol voorgeschreven bepalingen.
-
-De reden van de weigering moet door de officiële dierenarts op het gezondheidscertificaat worden vermeld.
-
-Indien het onmogelijk blijkt de dieren terug te zenden worden zij op kosten van de importeur geslacht in het dichtst bij de grens gelegen slachthuis, aan te wijzen door de Veeartsenijkundige Dienst van het importerende land. De waren moeten op kosten van de importeur worden vernietigd in het dichtst bij de grens gelegen destructiebedrijf.
-
-In een zodanig geval stelt de bevoegde Veeartsenijkundige Dienst van het importerende land de bevoegde Veeartsenijkundige Dienst van het uitvoerende land zo spoedig mogelijk langs telegrafische weg in kennis van de door hem genomen maatregelen en van de omstandigheden die daartoe hebben geleid. Het telegram dient te worden bevestigd door een gedetailleerd rapport.
+Vervallen
 
 ##### Artikel 13
 
-De voor het vervoer van levende dieren gebruikte voertuigen dienen voor het inladen en na het uitladen te worden schoongemaakt en ontsmet. De bevoegde Veeartsenijkundige Diensten van de Overeenkomstsluitende Partijen stellen elkaar in kennis van de bestaande regelingen betreffende de ontsmetting van de vervoermiddelen.
+Vervallen
 
 ##### Artikel 14
 
-In geval van een op het grondgebied van een der Overeenkomstsluitende Partijen geconstateerde besmettelijke ziekte heeft de andere Partij het recht om voor de duur van de besmetting de invoer van dieren en van de daaruit verkregen produkten, benevens van alle produkten die als overbrenger van besmetting kunnen optreden te verbieden of te beperken. Onder besmettelijke ziekten in de zin van dit artikel worden verstaan de besmettelijke ziekten, voorkomende op lijst A van het Internationaal Bureau voor Besmettelijke Veeziekten.
+Vervallen
 
 EN FOI DE QUOI les soussignés, dûment autorisés à cet effet, ont signé le présent Accord.
 
@@ -241,3 +211,43 @@ Pour le Gouvernement du Royaume des Pays-Bas:
 Pour le Gouvernement de la République Socialiste Tchécoslovaque:
 
 (s.) BOHUSLAV VECERA
+
+##### Artikel 1
+
+Vervallen
+
+##### Artikel 2
+
+Vervallen
+
+##### Artikel 3
+
+Vervallen
+
+##### Artikel 4
+
+Vervallen
+
+##### Artikel 5
+
+Vervallen
+
+##### Artikel 6
+
+Vervallen
+
+##### Artikel 7
+
+Vervallen
+
+##### Artikel 8
+
+Vervallen
+
+##### Artikel 9
+
+Vervallen
+
+##### Artikel 10
+
+Vervallen
