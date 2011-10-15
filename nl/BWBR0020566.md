@@ -4,7 +4,7 @@ identifier: "BWBR0020566"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2009-02-14"
+last_updated: "2011-10-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020566"
 soort: "ministeriele-regeling"
@@ -226,7 +226,15 @@ Een automatisch weegwerktuig dat niet in een hogere nauwkeurigheidsklasse valt d
 
 - 3°. de taxi is ingericht overeenkomstig zijn bestemming en is belast overeenkomstig een voor de helft gevulde brandstoftank en het vervoer van twee personen, waaronder de bestuurder.
 
-3. Bij gebruik van de taxameter is in de taxi een voorziening aanwezig waarop de volgende gegevens zijn vermeld:
+3. Taxameters die voor 15 oktober 2011 ingevolge [artikel 45 van de Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=45) rechtmatig in gebruik zijn genomen, voldoen aan het ingevolge artikel 11a van de IJkwet toegelaten model van de meters, zoals aangepast volgens een aanhangsel bij de verklaring van toelating van het model, mits:
+
+- a. de aanpassing noodzakelijk is als gevolg van ontwikkelingen in andere regelgeving dan bij of krachtens de [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517) is vastgesteld;
+
+- b. het model nog steeds voldoet aan de eisen zoals die op grond van de IJkwet waren gesteld en
+
+- c. het model met goed gevolg een onderzoek heeft ondergaan overeenkomstig beoordelingsprocedurebijlage B.
+
+4. Bij gebruik van de taxameter is in de taxi een voorziening aanwezig waarop de volgende gegevens zijn vermeld:
 
 - a. de maat van de banden welke op het moment van de overeenstemmingsbeoordeling aan de betrokken taxi zijn bevestigd;
 
