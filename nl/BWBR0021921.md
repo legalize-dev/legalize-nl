@@ -4,7 +4,7 @@ identifier: "BWBR0021921"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-13"
-last_updated: "2007-05-27"
+last_updated: "2011-10-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021921"
 soort: "ministeriele-regeling"
@@ -92,6 +92,8 @@ EN 1130-2:1996
 
 Meubelen – Wiegen voor huiselijk gebruik – Deel 2: Beproevingsmethoden
 
+EN 1273:2005 – Artikelen voor zuigelingen en peuters – Loopstoeltjes – Veiligheidseisen en beproevingsmethoden
+
 EN 1400-1:2002
 
 Artikelen voor zuigelingen en peuters – Fopspenen voor baby’s en kleine kinderen –
@@ -120,6 +122,8 @@ EN 1651:1999 – Uitrusting voor schermvliegen; Harnasgordels; Veiligheidseisen 
 
 EN 1860-1:2003 – Apparaten, vaste brandstoffen en aanmaakhulpmiddelen voor barbecuen; Deel 1: Barbecues voor vaste brandstoffen; Eisen en beproevingsmethoden
 
+EN ISO 9994: 2006 – Aanstekers – Veiligheidsbepalingen (ISO 9994:2005)
+
 EN 12196:2003 – Turntoestellen; Paarden en turnbokken; Functionele en veiligheidseisen, beproevingsmethoden
 
 EN 12197:1997 – Turntoestellen; Rekstokken; Veiligheidseisen en beproevingsmethoden
@@ -138,7 +142,7 @@ EN 12586:1999/AC:2002
 
 EN 12655:1998 – Turntoestellen; Ringentoestellen; Functionele en veiligheidseisen, beproevingsmethoden
 
-EN 13138-2:2003 – Zwemvesten voor zwemles; Deel 2: Eisen en beproevingsmethoden voor drijvende middelen om vast te houden
+EN 13138-2:2002 – Zwemvesten voor zwemles; Deel 2: Eisen en beproevingsmethoden voor drijvende middelen om vast te houden
 
 EN 13209-1:2004 ‘Artikelen voor zuigelingen en peuters – Babydragers – Veiligheidseisen en beproevingsmethoden – Deel 1: Rugdraagstoeltjes’
 
@@ -154,14 +158,20 @@ EN 14344:2004 – Artikelen voor zuigelingen en peuters; Kinderzitjes voor de fi
 
 EN 14350-1:2004 – Artikelen voor zuigelingen en peuters; Drinkgerei; Deel 1: Algemene en mechanische eisen en beproevingsmethoden
 
-EN 14682:2004 ‘Veiligheid voor kinderkleding – Koorden en treksluitingen van kinderkleding – Specificaties’
+EN 14682:2007 ‘Veiligheid voor kinderkleding – Koorden en treksluitingen van kinderkleding – Specificaties’
 
 EN 14764:2005 ‘Stads- en tourfietsen – Veiligheidseisen en beproevingsmethoden’
 
 EN 14766:2005 ‘Mountainbikes – Veiligheidseisen en beproevingsmethoden’
 
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
 EN 14781:2005 ‘Racefietsen – Veiligheidseisen en beproevingsmethoden’
 
-EN 14872:2006 ‘Fietsen – Toebehoren voor fietsen – Bagagedragers’.
+EN 14872:2006 ‘Fietsen – Toebehoren voor fietsen – Bagagedragers’
+
+EN 16156:2010 ‘Sigaretten – Vaststellen van het ontstekend vermogen – Veiligheidseis’
+
+EN ISO 12863:2010 ‘Standaardbeproevingsmethode voor bepaling van het ontstekend vermogen van sigaretten’
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
