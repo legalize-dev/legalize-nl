@@ -4,7 +4,7 @@ identifier: "BWBR0029360"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-10-08"
-last_updated: "2011-01-01"
+last_updated: "2011-10-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029360"
 soort: "zbo"
@@ -114,7 +114,7 @@ Een instelling kan nooit over enige periode tegelijkertijd meerdere subsidies on
 
 4. Indien het bestuur een subsidieplafond verhoogt, wordt eerst het subsidiebedrag van een aanvraag die wegens ontoereikendheid van het budget gedeeltelijk was gehonoreerd alsnog verhoogd tot het geadviseerde subsidiebedrag.
 
-5. Het bepaalde in de voorgaande leden geldt niet voor subsidievormen als bedoeld in de [paragrafen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=7&z=2011-01-01&g=2011-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=8&z=2011-01-01&g=2011-01-01), waarvoor geldt dat het subsidie in dat geval wordt verdeeld op volgorde van ontvangst van de complete aanvraag, en voor de subsidievormen als bedoeld in de [paragrafen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=3&z=2011-01-01&g=2011-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=6&z=2011-01-01&g=2011-01-01), waarvoor geldt dat alle aanvragers eenzelfde percentage van het subsidiebedrag ontvangen waarop zij recht zouden hebben als het budget wel toereikend zou zijn.
+5. Het bepaalde in de voorgaande leden geldt niet voor subsidievormen als bedoeld in de [paragrafen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=7&z=2011-10-21&g=2011-10-21) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=8&z=2011-10-21&g=2011-10-21), waarvoor geldt dat het subsidie in dat geval wordt verdeeld op volgorde van ontvangst van de complete aanvraag, en voor de subsidievormen als bedoeld in de [paragrafen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=3&z=2011-10-21&g=2011-10-21) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=6&z=2011-10-21&g=2011-10-21), waarvoor geldt dat alle aanvragers eenzelfde percentage van het subsidiebedrag ontvangen waarop zij recht zouden hebben als het budget wel toereikend zou zijn.
 
 ##### Artikel 1.8. Algemene weigeringsgronden
 
@@ -146,7 +146,7 @@ Het bestuur verstrekt programmeringssubsidies voor voorstellingen en concerten i
 
 ##### Artikel 2.3. Subsidieaanvraag
 
-1. Een aanvraag omvat de totale programmering van een aanvrager, tenzij deze ervoor kiest subsidie aan te vragen voor een specifieke zaal, in welk geval de eisen uit [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=2&artikel=2.2&z=2011-01-01&g=2011-01-01) gelden voor de programmering van de betreffende zaal.
+1. Een aanvraag omvat de totale programmering van een aanvrager, tenzij deze ervoor kiest subsidie aan te vragen voor een specifieke zaal, in welk geval de eisen uit [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=2&artikel=2.2&z=2011-10-21&g=2011-10-21) gelden voor de programmering van de betreffende zaal.
 
 2. Een aanvraag moet betrekking hebben op activiteiten die plaatsvinden in een periode van 24 maanden die start op 1 augustus en eindigt op 31 juli.
 
@@ -187,6 +187,8 @@ Het bestuur verstrekt programmeringssubsidies voor het op kleine schaal of incid
 3. Verzoeken tot aanwijzing worden in één gezamenlijke ronde behandeld die eens per twee jaar plaatsvindt en betrekking heeft op twee kalenderjaren.
 
 4. In afwijking van het bepaalde in het derde lid heeft de eerste ronde op basis van deze paragraaf betrekking op drie kalenderjaren.
+
+5. Het bestuur kan besluiten een extra ronde vast te stellen voor het indienen van verzoeken tot aanwijzing. Aanwijzing geschiedt voor het resterende deel van de periode als bedoeld in het derde respectievelijk vierde lid.
 
 ##### Artikel 3.3. Beoordeling
 
@@ -474,7 +476,7 @@ Het bestuur verstrekt programmeringssubsidies voor festivals op het gebied van p
 
 ##### Artikel 9.2. Verantwoording subsidies nieuwe festivals
 
-1. Voor subsidies die zijn verstrekt op basis van [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=5&z=2011-01-01&g=2011-01-01), kan het bestuur na het verstrijken van de in de beschikking opgenomen einddatum de ontvanger van het subsidie verzoeken bewijsstukken te overleggen waarmee kan worden aangetoond dat de gesubsidieerde activiteiten volgens plan hebben plaatsgevonden.
+1. Voor subsidies die zijn verstrekt op basis van [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=5&z=2011-10-21&g=2011-10-21), kan het bestuur na het verstrijken van de in de beschikking opgenomen einddatum de ontvanger van het subsidie verzoeken bewijsstukken te overleggen waarmee kan worden aangetoond dat de gesubsidieerde activiteiten volgens plan hebben plaatsgevonden.
 
 2. Als de ontvanger van het subsidie niet kan aantonen dat de activiteiten waarvoor subsidie is verstrekt hebben plaatsgevonden, kan het bestuur het subsidie lager vaststellen of intrekken.
 
@@ -482,7 +484,7 @@ Het bestuur verstrekt programmeringssubsidies voor festivals op het gebied van p
 
 ##### Artikel 9.3. Verantwoording subsidies reguliere programmering en bestaande festivals
 
-Voor subsidies die zijn verstrekt op basis van de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=2&z=2011-01-01&g=2011-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=4&z=2011-01-01&g=2011-01-01) stuurt de ontvanger van het subsidie binnen 3 maanden na het verstrijken van de in de beschikking opgenomen einddatum een korte verantwoording in over de verrichte activiteiten waarmee kan worden aangetoond dat de gesubsidieerde activiteiten volgens plan hebben plaatsgevonden.
+Voor subsidies die zijn verstrekt op basis van de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=2&z=2011-10-21&g=2011-10-21) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=4&z=2011-10-21&g=2011-10-21) stuurt de ontvanger van het subsidie binnen 3 maanden na het verstrijken van de in de beschikking opgenomen einddatum een korte verantwoording in over de verrichte activiteiten waarmee kan worden aangetoond dat de gesubsidieerde activiteiten volgens plan hebben plaatsgevonden.
 
 ##### Artikel 9.4. Intrekking van het subsidie of de aanwijzing
 
@@ -500,9 +502,9 @@ Subsidie wordt verleend onder voorbehoud van verstrekking van de bijbehorende mi
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. Het bestuur kan aanvragers wiens aanvraag om subsidie op basis van [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=3&z=2011-01-01&g=2011-01-01) voor de periode 2011–2012 wordt geweigerd terwijl zij wel subsidie ontvingen in de periode 2009–2010 op basis van de Deelregeling Kleinschalige Podia van het Nederlands Fonds voor Podiumkunsten+ 2009–2010 een subsidie verstrekken voor een periode van maximaal 6 maanden om hen in de gelegenheid te stellen reeds geplande voorstellingen en concerten te realiseren.
+2. Het bestuur kan aanvragers wiens aanvraag om subsidie op basis van [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=3&z=2011-10-21&g=2011-10-21) voor de periode 2011–2012 wordt geweigerd terwijl zij wel subsidie ontvingen in de periode 2009–2010 op basis van de Deelregeling Kleinschalige Podia van het Nederlands Fonds voor Podiumkunsten+ 2009–2010 een subsidie verstrekken voor een periode van maximaal 6 maanden om hen in de gelegenheid te stellen reeds geplande voorstellingen en concerten te realiseren.
 
-3. In afwijking op het bepaalde in [paragraaf 6](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=6&z=2011-01-01&g=2011-01-01) geldt voor podia die voor 2010 door het bestuur waren aangemerkt als groot podium of kernpodium in het kader van de Deelregeling Nederlands Popmuziek Plan dat zij door het bestuur ambtshalve aangewezen kunnen worden als Kernpodium A, B of C in het kader van deze regeling met ingang van 1 januari 2011.
+3. In afwijking op het bepaalde in [paragraaf 6](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=6&z=2011-10-21&g=2011-10-21) geldt voor podia die voor 2010 door het bestuur waren aangemerkt als groot podium of kernpodium in het kader van de Deelregeling Nederlands Popmuziek Plan dat zij door het bestuur ambtshalve aangewezen kunnen worden als Kernpodium A, B of C in het kader van deze regeling met ingang van 1 januari 2011.
 
 ##### Artikel 9.7. Intrekking
 
