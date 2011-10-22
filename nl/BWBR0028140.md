@@ -4,7 +4,7 @@ identifier: "BWBR0028140"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-03-22"
-last_updated: "2010-09-02"
+last_updated: "2011-10-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028140"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluiten:
 
 In dit besluit wordt verstaan onder:
 
-- a. **de Ministers:** de Minister van Justitie en de Minister voor Jeugd en Gezin;
+- a. **de Ministers:** de Minister van Veiligheid en Justitie en de Minister van Volksgezondheid, Welzijn en Sport;
 
 - b. **de Commissie:** de Commissie onderzoek seksueel misbruik van minderjarigen die onder verantwoordelijkheid van de overheid in instellingen zijn geplaatst.
 
@@ -68,7 +68,7 @@ De Commissie heeft tot taak onderzoek te doen naar:
 
 1. De Commissie bestaat uit een voorzitter en ten hoogste zeven andere leden.
 
-2. De leden van de Commissie worden benoemd op grond van de deskundigheid die nodig is voor een goede vervulling van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028140&artikel=3&z=2010-09-02&g=2010-09-02) genoemde taken.
+2. De leden van de Commissie worden benoemd op grond van de deskundigheid die nodig is voor een goede vervulling van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028140&artikel=3&z=2011-10-22&g=2011-10-22) genoemde taken.
 
 3. De leden van de Commissie worden op eigen aanvraag door de Ministers tussentijds ontslagen.
 
@@ -88,7 +88,9 @@ Als leden van de Commissie worden benoemd:
 
 - d. Mevrouw dr. S. Dijkstra, lector hogeschool Avans Breda;
 
-- e. De heer prof. dr. mr. G.D. Minderman, bijzonder hoogleraar Public Governance en Public Law aan de faculteit der economische wetenschappen en bedrijfskunde aan de Vrije Universiteit.
+- e. De heer prof. dr. mr. G.D. Minderman, bijzonder hoogleraar Public Governance en Public Law aan de faculteit der economische wetenschappen en bedrijfskunde aan de Vrije Universiteit;
+
+- f. De heer prof. dr. J. Hendriks, hoofd van de jeugdafdeling van het poliklinisch forensisch psychiatrische centrum De Waag te Den Haag en tevens bijzonder hoogleraar Forensische Psychiatrie en Psychologie aan de Vrije Universiteit en Bijzonder Hoogleraar Forensische Orthopedagogische Diagnostiek en Behandeling aan de Universiteit van Amsterdam.
 
 ##### Artikel 6. Secretariaat
 
@@ -124,7 +126,7 @@ De leden van de Commissie, voor zover niet vallend onder de uitzondering van [ar
 
 ##### Artikel 10. Archivering
 
-De archiefbescheiden van de Commissie worden na haar opheffing of, zo de omstandigheden daartoe eerder aanleiding geven, zoveel eerder, overgebracht naar het archief van het ministerie van Justitie.
+De archiefbescheiden van de Commissie worden na haar opheffing of, zo de omstandigheden daartoe eerder aanleiding geven, zoveel eerder, overgebracht naar het archief van het ministerie van Veiligheid en Justitie.
 
 ##### Artikel 11. Inwerkingtreding
 
