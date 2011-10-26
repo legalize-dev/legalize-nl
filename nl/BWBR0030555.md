@@ -148,15 +148,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 Deze wet wordt aangehaald als: Uitvoeringswet internationale inning levensonderhoud.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 9a
-
-1. Voor de toepassing van het [Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede) op een beslissing uit een andere lidstaat worden het afschrift van de beslissing en het formulier, bedoeld in artikel 20, eerste lid, onder a en b, van de verordening tezamen als een executoriale titel in de zin van [artikel 430 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=430) aangemerkt.
-
-2. Onverminderd artikel 48 van de verordening is het eerste lid van overeenkomstige toepassing op gerechtelijke schikkingen en authentieke akten uit een andere lidstaat.
-
-#### § 4. Wijzigingen in andere wetten
-
-#### § 5. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
