@@ -4,7 +4,7 @@ identifier: "BWBR0030554"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-10-31"
-last_updated: "2011-01-01"
+last_updated: "2011-10-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030554"
 soort: "AMvB"
@@ -68,10 +68,16 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+1. Dit besluit treedt in werking met ingang van 1 november 2011 met uitzondering van:
+
+- a. [artikel I, onderdelen A tot en met E](https://wetten.overheid.nl/jci1.3:c:BWBR0030554&artikel=I&z=2011-10-26&g=2011-10-26), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het besluit wordt geplaatst, en
+
+- b. [artikel I, onderdelen F en G](https://wetten.overheid.nl/jci1.3:c:BWBR0030554&artikel=I&z=2011-10-26&g=2011-10-26), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het besluit wordt geplaatst en terugwerkt tot en met 1 januari 2011.
+
+2. [Hoofdstuk VIIIb van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=VIIIb) vervalt zes jaren na de inwerkingtreding van dit hoofdstuk.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit wordt aangehaald als: Tijdelijk besluit begeleid rijden.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het Staatsblad zal worden geplaatst.
