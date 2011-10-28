@@ -4,7 +4,7 @@ identifier: "BWBV0001119"
 country: "nl"
 rank: "verdrag"
 publication_date: "2011-10-28"
-last_updated: "2001-08-24"
+last_updated: "2011-10-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001119"
 soort: "verdrag"
@@ -539,7 +539,17 @@ Verbranding is verboden.
 
 - d. visafval afkomstig van op industriële wijze verwerkte vis;
 
-- e. schepen en luchtvaartuigen tot uiterlijk 31 december 2004.
+- e. schepen en luchtvaartuigen tot uiterlijk 31 december 2004;
+
+- f. kooldioxidestromen afkomstig van processen voor het opvangen van kooldioxide ten behoeve van opslag, op voorwaarde dat:
+
+- i. het zich ontdoen daarvan plaatsvindt in een ondergrondse geologische formatie;
+
+- ii. de stromen voor het overgrote deel bestaan uit kooldioxide. De stromen mogen sporen bevatten van bepaalde uit het bronmateriaal en het opvang-, transport- en opslagproces voortkomende stoffen;
+
+- iii. er geen afval of andere stoffen aan worden toegevoegd met het doel zich van dit afval of deze andere stoffen te ontdoen;
+
+- iv. zij bedoeld zijn om permanent in deze formaties te worden bewaard en geen aanzienlijke negatieve gevolgen hebben voor het mariene milieu, de gezondheid van de mens en ander rechtmatig gebruik van het zeegebied.
 
 - a. Het storten van laag en middelhoog radioactieve stoffen, met inbegrip van afvalstoffen, is verboden.
 
@@ -620,6 +630,18 @@ hierbij inbegrepen, indien van toepassing, schone technologie.
 1. Het storten van afval of andere stoffen vanaf offshore-installaties is verboden.
 
 2. Dit verbod heeft geen betrekking op lozingen of emissies uit offshore-bronnen.
+
+3. Het in het eerste lid van dit artikel bedoelde verbod is niet van toepassing op kooldioxidestromen afkomstig van processen voor het opvangen van kooldioxide ten behoeve van opslag, op voorwaarde dat:
+
+- a. het zich ontdoen daarvan plaatsvindt in een ondergrondse geologische formatie;
+
+- b. de stromen voor het overgrote deel bestaan uit kooldioxide. De stromen mogen sporen bevatten van bepaalde uit het bronmateriaal en het opvang-, transport- en opslagproces voortkomende stoffen;
+
+- c. er geen afval of andere stoffen aan worden toegevoegd met het doel zich van dit afval of deze andere stoffen te ontdoen;
+
+- d. zij bedoeld zijn om permanent in deze formaties te worden bewaard en geen aanzienlijke negatieve gevolgen hebben voor het mariene milieu, de gezondheid van de mens en ander rechtmatig gebruik van het zeegebied.
+
+4. De Verdragsluitende Partijen zien er op toe dat het zich ontdoen van de in het derde lid bedoelde stromen in ondergrondse geologische formaties niet plaatsvindt zonder vergunning of ontheffingsregeling van hun bevoegde autoriteiten. Bedoelde vergunning of ontheffingsregeling dient, in het bijzonder, uitvoering te geven aan de desbetreffende toepasselijke besluiten, aanbevelingen en alle overige akkoorden die ingevolge het Verdrag zijn aangenomen.
 
 ##### Artikel 4
 
