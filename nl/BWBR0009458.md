@@ -4,7 +4,7 @@ identifier: "BWBR0009458"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2011-02-11"
+last_updated: "2011-10-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009458"
 soort: "wet"
@@ -48,7 +48,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1. Begripsbepaling
 
-In deze wet en de daarop berustende bepalingen wordt onder Onze Minister verstaan: Onze Minister van Onderwijs, Cultuur en Wetenschap of Onze Minister die belast is met de zorg voor een of meer onderdelen van het beleid, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&paragraaf=1&artikel=2&z=2011-02-11&g=2011-02-11).
+In deze wet en de daarop berustende bepalingen wordt onder Onze Minister verstaan: Onze Minister van Onderwijs, Cultuur en Wetenschap of Onze Minister die belast is met de zorg voor een of meer onderdelen van het beleid, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&paragraaf=1&artikel=2&z=2011-10-29&g=2011-10-29).
 
 ##### Artikel 2. Subsidiebevoegdheid
 
@@ -60,9 +60,7 @@ In deze wet en de daarop berustende bepalingen wordt onder Onze Minister verstaa
 
 - c. de cultuur,
 
-- d. de kinderopvang,
-
-- e. de emancipatie.
+- d. de emancipatie.
 
 2. Bij de subsidieverstrekking aan onderwijsinstellingen wordt geen onderscheid gemaakt tussen openbaar en bijzonder onderwijs en wordt voorzien in een behandeling van die instellingen naar dezelfde maatstaf.
 
@@ -202,7 +200,7 @@ Vervallen
 
 1. Deze wet is niet van toepassing op subsidies die voor de inwerkingtreding van deze wet zijn verleend of vastgesteld.
 
-2. De persoon of het orgaan waaraan de bevoegdheid op grond van [artikel 4, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&paragraaf=1&artikel=4&z=2011-02-11&g=2011-02-11), zoals dat luidde voor inwerkingtreding van deze wet, is gedelegeerd om besluiten omtrent subsidie te nemen, blijft die bevoegdheid houden.
+2. De persoon of het orgaan waaraan de bevoegdheid op grond van [artikel 4, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&paragraaf=1&artikel=4&z=2011-10-29&g=2011-10-29), zoals dat luidde voor inwerkingtreding van deze wet, is gedelegeerd om besluiten omtrent subsidie te nemen, blijft die bevoegdheid houden.
 
 ##### Artikel 22. Inwerkingtreding
 
