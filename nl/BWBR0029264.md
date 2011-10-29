@@ -4,7 +4,7 @@ identifier: "BWBR0029264"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-12-21"
-last_updated: "2011-09-07"
+last_updated: "2011-10-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029264"
 soort: "ministeriele-regeling"
@@ -91,7 +91,7 @@ Besluit:
 |   | Subsidieregeling sterktes in innovatie (IOP’s) | 3.2 | IPCR | 5-09 t/m 5-10 | 2.500.000 |
 |   | Subsidieregeling sterktes in innovatie (IOP’s) | 3.2 | MMI (periode vooraanmelding) | – | – |
 |   | Subsidieregeling sterktes in innovatie (IOP’s) | 3.2 | MMI | – | – |
-|   | Subsidieregeling sterktes in innovatie (IOP’s) | 3.2 | Self healing materials (periode vooraanmelding) | – | – |
+|   | Subsidieregeling sterktes in innovatie (IOP’s) | 3.2 | Self healing materials (periode vooraanmelding) | 14-11 t/m 5-12 | – |
 |   | Subsidieregeling sterktes in innovatie (IOP’s) | 3.2 | Self healing materials | – | – |
 |   | Subsidieregeling sterktes in innovatie (IOP’s) | 3.2 | Generieke communicatie (periode vooraanmelding) | – | – |
 |   | Subsidieregeling sterktes in innovatie (IOP’s) | 3.2 | Generieke communicatie | – | – |
@@ -99,7 +99,7 @@ Besluit:
 |   | Subsidieregeling sterktes in innovatie (IOP’s) | 3.2 | Oppervlaktetechnologie | – | – |
 |   | Subsidieregeling sterktes in innovatie (IOP’s) | 3.2 | Beeldverwerking (periode vooraanmelding) | – | – |
 |   | Subsidieregeling sterktes in innovatie (IOP’s) | 3.2 | Beeldverwerking | – | – |
-|   | Subsidieregeling sterktes in innovatie (IOP’s) | 3.2 | Photonic devices (periode vooraanmelding) | – | – |
+|   | Subsidieregeling sterktes in innovatie (IOP’s) | 3.2 | Photonic devices (periode vooraanmelding) | 1-11 t/m 25-11 | – |
 |   | Subsidieregeling sterktes in innovatie (IOP’s) | 3.2 | Photonic devices | – | – |
 | 3.3 | Subsidieregeling sterktes in innovatie (LSH-projecten; internationale MKB-samenwerkingsverbanden) | 4.11 |   | – | – |
 | 3.4 | Subsidieregeling sterktes in innovatie (LSH-projecten; EuroNanoMed-samenwerkingsverbanden) | 4.20 |   | – | – |
@@ -185,8 +185,10 @@ Besluit:
 | 3 | [Subsidieregeling energie en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0026952) (risico’s dekken voor aardwarmte) | 3.4.2 |   | 01-10-2010 t/m 01-04-2011 | 43.350.000 |
 | 4 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) (LSH–projecten; ETB–samenwerkingsverbanden) | 4.2 |   | 01-10-2010 t/m 01-02-2011 | 3.250.000 |
 | 5 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) (IOP’s) | 3.2 | Maritiem (periode vooraanmelding) | 04-10-2010 t/m 29-10-2010 | – |
-|   | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) (IOP’s) | 3.2 | Maritiem (Offshore) | 31-01-2011 t/m 25-02-2011 | 1.075.000 |
-| 6 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902) (veiligheid kleine bedrijven) | 9.7 |   | 01-02-2011 t/m 01-06-2012 | 7.000.000 |
+|   | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) (IOP’s) | 3.2 | Maritiem (Offshore) | 31-01-2011 t/m 25-02-2011 | 1.375.000 |
+| 6 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) (IOP’s) | 3.2 | Self healing materials | 2-4-2012 t/m 11-5-2012 | 4.100.000 |
+| 7 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) (IOP’s) | 3.2 | Photonic devices | 26-3-2012 t/m 20-4-2012 | 4.750.000 |
+| 8 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902) (veiligheid kleine bedrijven) | 9.7 |   | 01-02-2011 t/m 01-06-2012 | 7.000.000 |
 
 ##### Artikel 3
 
