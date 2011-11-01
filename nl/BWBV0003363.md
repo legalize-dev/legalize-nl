@@ -4,7 +4,7 @@ identifier: "BWBV0003363"
 country: "nl"
 rank: "verdrag"
 publication_date: "2011-11-01"
-last_updated: "2004-12-01"
+last_updated: "2011-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003363"
 soort: "verdrag"
@@ -260,11 +260,9 @@ Van tijd tot tijd wordt door waterbouwkundige ingenieurs, afgevaardigd door de R
 
 De Centrale Commissie (artikel 43) bepaalt het tijdstip waarop, en het gedeelte van de stroom waarvoor de bedoelde onderzoekingen zullen plaats hebben. De ingenieurs brengen aan haar verslag uit over de uitkomsten.
 
-##### Artikel 32. 1) [Red: Artikel 356 van het Verdrag van Versailles behoudt aan de Centrale Commissie het recht voor, politiemaatregelen vast te stellen.]
+##### Artikel 32
 
-Overtreding van de gemeenschappelijk door de Regeringen der Oeverstaten voor de Rijn vastgestelde politievoorschriften inzake de scheepvaart wordt gestraft met een boete ter waarde van ten minste 3 en ten hoogste 2500 bijzondere trekkingsrechten op het Internationale Monetaire Fonds, omgerekend in de nationale munteenheid van de Staat wiens bestuurlijke autoriteit de straf oplegt of aan wiens rechter de zaak wordt voorgelegd.
-
-De in bijzondere trekkingsrechten uitgedrukte waarde van de nationale munteenheid van een Staat die lid is van het Internationale Monetaire Fonds wordt berekend volgens de waardebepaling die door het Internationale Monetaire Fonds wordt toegepast ten aanzien van zijn eigen verrichtingen en transacties. Voor een Staat die geen lid is van het Internationale Monetaire Fonds wordt deze waarde berekend op een door die Staat vast te stellen wijze, met dien verstande evenwel dat de bedragen in de nationale munteenheid, die daardoor worden verkregen, zoveel mogelijk overeen dienen te komen met dezelfde reële waarde als de reële waarde die wordt uitgedrukt in bijzondere trekkingsrechten.
+Overtreding van de gemeenschappelijk door de Regeringen der Oeverstaten voor de Rijn vastgestelde politievoorschriften inzake de scheepvaart wordt gestraft met een boete ter waarde van ten hoogste 25.000 euro of hun tegenwaarde in de nationale munteenheid van de Staat wiens bestuurlijke autoriteit de straf oplegt of aan wiens rechter de zaak wordt voorgelegd.
 
 ##### Artikel 33
 
