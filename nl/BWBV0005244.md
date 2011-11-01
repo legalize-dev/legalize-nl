@@ -4,7 +4,7 @@ identifier: "BWBV0005244"
 country: "nl"
 rank: "verdrag"
 publication_date: "2011-11-01"
-last_updated: "2011-03-09"
+last_updated: "2011-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005244"
 soort: "verdrag"
@@ -132,7 +132,7 @@ Door de aangezochte Partij gemaakte kosten in verband met de overname of doorgel
 
 ##### Artikel 9. Taal
 
-1. Voor de uitvoering van de bepalingen van dit Uitvoeringsprotocol worden de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005244&artikel=3&z=2011-03-09&g=2011-03-09) van dit Uitvoeringsprotocol en de afdelingen III en IV van de Overeenkomst genoemde documenten als volgt opgesteld:
+1. Voor de uitvoering van de bepalingen van dit Uitvoeringsprotocol worden de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005244&artikel=3&z=2011-11-01&g=2011-11-01) van dit Uitvoeringsprotocol en de afdelingen III en IV van de Overeenkomst genoemde documenten als volgt opgesteld:
 
 aan Russische zijde – in de Russische taal met, als bijlage, de vertaling in de Engelse taal;
 
