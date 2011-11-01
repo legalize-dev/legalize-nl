@@ -4,7 +4,7 @@ identifier: "BWBR0008144"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2011-03-29"
+last_updated: "2011-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008144"
 soort: "ministeriele-regeling"
@@ -95,9 +95,9 @@ Aan de dienst worden de volgende taken opgedragen:
 
 ##### Artikel 3. Voorwaarden
 
-1. De dienst mag voor de in [artikel 2, onder a tot en met d, j, en p tot en met r](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2011-03-29&g=2011-03-29), bedoelde activiteiten prijzen in rekening brengen.
+1. De dienst mag voor de in [artikel 2, onder a tot en met d, j, en p tot en met r](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2011-11-01&g=2011-11-01), bedoelde activiteiten prijzen in rekening brengen.
 
-2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2011-03-29&g=2011-03-29) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
+2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2011-11-01&g=2011-11-01) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
 
 - a. de exploitatie mag niet ten koste gaan van de in artikel 4b, eerste en tweede lid, onderdeel a, bedoelde taken;
 
@@ -116,5 +116,19 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 6. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling taken Dienst Wegverkeer.
+
+Deze regeling zal met de toeliching 'toeliching' moet zijn 'toelichting' in de Staatscourant worden geplaatst.
+
+##### Artikel 2a. Aanvullende taken Dienst Wegverkeer in verband met begeleid rijden
+
+In het kader van het experiment met begeleid rijden als bedoeld in [hoofdstuk VIIIb van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=VIIIb) worden aan de Dienst Wegverkeer de volgende taken opgedragen:
+
+- a. het registreren van aanmeldingen als begeleider in het kader van het experiment begeleid rijden en het beoordelen van de aangemelde personen op hun geschiktheid als begeleider;
+
+- b. het behandelen van aanvragen voor begeleiderspassen en de afgifte van begeleiderspassen;
+
+- c. het verwerken van gegevens omtrent de begeleider en de begeleiderspas in het rijbewijzenregister;
+
+- d. het innen van de kosten van de aanvraag van de begeleiderspas als bedoeld in [artikel 173u, eerste lid, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=173u) die € 35,00 bedragen.
 
 Deze regeling zal met de toeliching 'toeliching' moet zijn 'toelichting' in de Staatscourant worden geplaatst.
