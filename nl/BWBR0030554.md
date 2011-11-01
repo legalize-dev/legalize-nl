@@ -4,7 +4,7 @@ identifier: "BWBR0030554"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-10-31"
-last_updated: "2011-10-26"
+last_updated: "2011-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030554"
 soort: "AMvB"
@@ -52,27 +52,27 @@ Wijzigt het Reglement rijbewijzen.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Wijzigingsbesluit Reglement rijbewijzen (invoering experiment verlaging leeftijdseisen voor buschauffeurs).
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+[Hoofdstuk VIIIb van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=VIIIb) blijft, nadat het is vervallen, van toepassing op personen die de leeftijd van achttien jaren nog niet hebben bereikt en die het rijbewijs voor de rijbewijscategorie B voorafgaand aan het vervallen van dit hoofdstuk hebben verkregen.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt dit besluit.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Reglement rijbewijzen.
 
 ##### Artikel VI
 
 1. Dit besluit treedt in werking met ingang van 1 november 2011 met uitzondering van:
 
-- a. [artikel I, onderdelen A tot en met E](https://wetten.overheid.nl/jci1.3:c:BWBR0030554&artikel=I&z=2011-10-26&g=2011-10-26), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het besluit wordt geplaatst, en
+- a. [artikel I, onderdelen A tot en met E](https://wetten.overheid.nl/jci1.3:c:BWBR0030554&artikel=I&z=2011-11-01&g=2011-11-01), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het besluit wordt geplaatst, en
 
-- b. [artikel I, onderdelen F en G](https://wetten.overheid.nl/jci1.3:c:BWBR0030554&artikel=I&z=2011-10-26&g=2011-10-26), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het besluit wordt geplaatst en terugwerkt tot en met 1 januari 2011.
+- b. [artikel I, onderdelen F en G](https://wetten.overheid.nl/jci1.3:c:BWBR0030554&artikel=I&z=2011-11-01&g=2011-11-01), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het besluit wordt geplaatst en terugwerkt tot en met 1 januari 2011.
 
 2. [Hoofdstuk VIIIb van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=VIIIb) vervalt zes jaren na de inwerkingtreding van dit hoofdstuk.
 
