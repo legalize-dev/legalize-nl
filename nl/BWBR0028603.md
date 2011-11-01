@@ -4,7 +4,7 @@ identifier: "BWBR0028603"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2024-07-01"
-last_updated: "2010-10-10"
+last_updated: "2011-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028603"
 soort: "rijksKB"
@@ -50,29 +50,29 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. In dit besluit wordt verstaan onder:
+In dit besluit wordt verstaan onder:
 
 - a. **Onze Minister:** Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- b. **Reglement:** [Reglement voor de Gouverneur van Curaçao](https://wetten.overheid.nl/jci1.3:c:BWBR0028105) of [Reglement voor de Gouverneur van Sint Maarten](https://wetten.overheid.nl/jci1.3:c:BWBR0028096);
+- b. **Reglement:** [Reglement voor de Gouverneur van Aruba](https://wetten.overheid.nl/jci1.3:c:BWBR0003900), [Reglement voor de Gouverneur van Curaçao](https://wetten.overheid.nl/jci1.3:c:BWBR0028105) of [Reglement voor de Gouverneur van Sint Maarten](https://wetten.overheid.nl/jci1.3:c:BWBR0028096);
 
-- c. **Gouverneur:** Gouverneur van Curaçao of Gouverneur van Sint Maarten;
+- c. **Gouverneur:** Gouverneur van Aruba, Gouverneur van Curaçao of Gouverneur van Sint Maarten;
 
-- d. **waarnemend Gouverneur:** waarnemend Gouverneur van Curaçao of waarnemend Gouverneur van Sint Maarten;
+- d. **waarnemend Gouverneur:** waarnemend Gouverneur van Aruba, waarnemend Gouverneur van Curaçao of waarnemend Gouverneur van Sint Maarten;
 
 - e. **kinderen:** tot het gezin van de Gouverneur behorende eigen kinderen, stief- en pleegkinderen, die de leeftijd van eenentwintig jaar nog niet hebben bereikt en niet gehuwd zijn of gehuwd geweest zijn.
 
-2. De Gouverneur van Curaçao onderscheidenlijk de Gouverneur van Sint Maarten is niet tevens de waarnemend Gouverneur van Sint Maarten respectievelijk Curaçao.
-
 ##### Artikel 2
 
-1. De bezoldiging van de Gouverneur bedraagt NAF. 21 835,82 Nederlands-Antilliaans courant per maand.
+1. De bezoldiging van de Gouverneur van Aruba bedraagt Afl. 21 835,82 Arubaanse courant per maand.
 
-2. Het genot van de bezoldiging vangt aan met de datum van ingang van de benoeming en eindigt met de dag van overlijden of die, voorafgaand aan de datum van ingang van het ontslag van de Gouverneur.
+2. De bezoldiging van de Gouverneur van Curaçao onderscheidenlijk die van Sint Maarten bedraagt NAF. 21 835,82 Nederlands-Antilliaans courant per maand.
 
-3. Als de bezoldiging van het personeel in de sector Rijk van Nederland wijziging ondergaat, wordt het bedrag, genoemd in het eerste lid, bij ministeriële regeling overeenkomstig gewijzigd.
+3. Het genot van de bezoldiging vangt aan met de datum van ingang van de benoeming en eindigt met de dag van overlijden of die, voorafgaand aan de datum van ingang van het ontslag van de Gouverneur.
 
-4. Indien aan het personeel in de sector Rijk van Nederland een eenmalige uitkering wordt toegekend, ontvangt de Gouverneur een uitkering op gelijke voet.
+4. Als de bezoldiging van het personeel in de sector Rijk van Nederland wijziging ondergaat, wordt het bedrag, genoemd in het eerste lid, bij ministeriële regeling overeenkomstig gewijzigd.
+
+5. Indien aan het personeel in de sector Rijk van Nederland een eenmalige uitkering wordt toegekend, ontvangt de Gouverneur een uitkering op gelijke voet.
 
 ##### Artikel 3
 
@@ -80,7 +80,7 @@ Uit hoofde van de ambtsaanvaarding wordt aan de Gouverneur een verhuiskostenverg
 
 - a. een bedrag voor de kosten verbonden aan het vervoer van de betrokkene en zijn gezinsleden naar de nieuwe woning, welk bedrag zo nodig wordt vermeerderd met een bedrag voor reis- en verblijfkosten, welke de betrokkene en eventueel een of meer van diens gezinsleden vooraf hebben gemaakt ter bezichtiging van woonruimte;
 
-- b. een bedrag voor de kosten van vervoer van de bagage en van de inboedel van de betrokkene naar de nieuwe woning, waaronder begrepen de kosten van het in- en uitpakken, en – indien het een verhuizing naar Curaçao of Sint Maarten betreft – de verschuldigde invoerrechten;
+- b. een bedrag voor de kosten van vervoer van de bagage en van de inboedel van de betrokkene naar de nieuwe woning, waaronder begrepen de kosten van het in- en uitpakken, en – indien het een verhuizing naar Aruba, Curaçao of Sint Maarten betreft – de verschuldigde invoerrechten;
 
 - c. een bedrag van tien procent van de jaarlijkse bezoldiging voor alle andere direct uit de verhuizing voortvloeiende kosten.
 
@@ -90,7 +90,9 @@ Voor de vervulling van het ambt heeft de Gouverneur de beschikking over een gouv
 
 ##### Artikel 5
 
-De Gouverneur ontvangt een vergoeding voor aan de uitoefening van zijn ambt verbonden kosten van NAF. 2428,63 Nederlands-Antilliaans courant per maand.
+1. De Gouverneur van Aruba ontvangt een vergoeding voor aan de uitoefening van zijn ambt verbonden kosten van Afl. 2428,63 Arubaanse courant per maand.
+
+2. De Gouverneur van Curaçao onderscheidenlijk die van Sint Maarten ontvangt een vergoeding voor aan de uitoefening van zijn ambt verbonden kosten van NAF. 2428,63 Nederlands-Antilliaans courant per maand.
 
 ##### Artikel 6
 
@@ -108,17 +110,19 @@ De Gouverneur heeft aanspraak op:
 
 ##### Artikel 8
 
-1. De Gouverneur heeft aanspraak op een vergoeding van de helft van de premiekosten van de ziektekostenverzekering die hij sluit ten behoeve van zichzelf, zijn echtgenote of echtgenoot en zijn kinderen.
+1. De Gouverneur van Aruba heeft aanspraak op vergoeding van de werknemerspremie van de Algemene Ziektekosten Verzekering voor zichzelf, de echtgenote of echtgenoot en de kinderen.
 
-2. Voor de toepassing van dit artikel wordt onder echtgenote of echtgenoot mede verstaan de geregistreerde partner alsmede degene met wie de Gouverneur ongehuwd samenleeft en een gezamenlijke huishouding voert als bedoeld in [artikel 3, tweede, derde en vierde lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=3).
+2. De Gouverneur van Curaçao onderscheidenlijk die van Sint Maarten heeft aanspraak op een vergoeding van de helft van de premiekosten van de ziektekostenverzekering die hij sluit ten behoeve van zichzelf, zijn echtgenote of echtgenoot en zijn kinderen.
+
+3. Voor de toepassing van dit artikel wordt onder echtgenote of echtgenoot mede verstaan de geregistreerde partner alsmede degene met wie de Gouverneur ongehuwd samenleeft en een gezamenlijke huishouding voert als bedoeld in [artikel 3, tweede, derde en vierde lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=3).
 
 ##### Artikel 9
 
 Uit hoofde van de ambtsbeëindiging worden aan de eervol ontslagen Gouverneur toegekend:
 
-- a. een bedrag overeenkomstig [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=3&z=2010-10-10&g=2010-10-10);
+- a. een bedrag overeenkomstig [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=3&z=2011-11-01&g=2011-11-01);
 
-- b. een bedrag overeenkomstig [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=3&z=2010-10-10&g=2010-10-10); en
+- b. een bedrag overeenkomstig [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=3&z=2011-11-01&g=2011-11-01); en
 
 - c. een bedrag van zes procent van de jaarlijkse bezoldiging.
 
@@ -126,11 +130,11 @@ Uit hoofde van de ambtsbeëindiging worden aan de eervol ontslagen Gouverneur to
 
 1. In geval van overlijden van de Gouverneur worden aan de weduwe of weduwnaar, van wie de overledene niet duurzaam gescheiden leefde, uitgekeerd:
 
-- a. een bedrag gelijk aan de bezoldiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=2&z=2010-10-10&g=2010-10-10), over een tijdvak van drie maanden;
+- a. een bedrag gelijk aan de bezoldiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=2&z=2011-11-01&g=2011-11-01), over een tijdvak van drie maanden;
 
-- b. een bedrag wegens verhuis- en reiskosten overeenkomstig [artikel 3, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=3&z=2010-10-10&g=2010-10-10); en
+- b. een bedrag wegens verhuis- en reiskosten overeenkomstig [artikel 3, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=3&z=2011-11-01&g=2011-11-01); en
 
-- c. een bedrag gelijk aan de tegemoetkoming, bedoeld in [onderdeel c van artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=9&z=2010-10-10&g=2010-10-10).
+- c. een bedrag gelijk aan de tegemoetkoming, bedoeld in [onderdeel c van artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=9&z=2011-11-01&g=2011-11-01).
 
 2. Voor de toepassing van dit artikel wordt onder weduwe of weduwnaar mede verstaan de achtergebleven geregistreerde partner alsmede degene met wie de overleden Gouverneur ongehuwd samenleefde en een gezamenlijke huishouding heeft gevoerd als bedoeld in [artikel 3, tweede, derde en vierde lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=3).
 
@@ -140,7 +144,7 @@ Uit hoofde van de ambtsbeëindiging worden aan de eervol ontslagen Gouverneur to
 
 - a. diens ouders;
 
-- b. andere kinderen dan bedoeld in [artikel 1, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=1&z=2010-10-10&g=2010-10-10), mits zij de leeftijd van eenentwintig jaar nog niet hebben bereikt en niet gehuwd zijn of gehuwd geweest zijn; of
+- b. andere kinderen dan bedoeld in [artikel 1, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=1&z=2011-11-01&g=2011-11-01), mits zij de leeftijd van eenentwintig jaar nog niet hebben bereikt en niet gehuwd zijn of gehuwd geweest zijn; of
 
 - c. broers en zussen.
 
@@ -148,21 +152,21 @@ Uit hoofde van de ambtsbeëindiging worden aan de eervol ontslagen Gouverneur to
 
 ##### Artikel 11
 
-1. De waarnemend Gouverneur die krachtens de artikelen 12 en 13 van het Reglement als zodanig optreedt, geniet gedurende de waarnemingsperiode een beloning van twintig procent van de maandelijkse bezoldiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=2&z=2010-10-10&g=2010-10-10).
+1. De waarnemend Gouverneur die krachtens de artikelen 12 en 13 van het Reglement als zodanig optreedt, geniet gedurende de waarnemingsperiode een beloning van twintig procent van de maandelijkse bezoldiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=2&z=2011-11-01&g=2011-11-01).
 
-2. Bij aantoonbare inkomstenderving als gevolg van de waarneming kan het bedrag van de beloning door Onze Minister worden verhoogd, echter tot maximaal een bedrag naar rato van de maandelijkse bezoldiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=2&z=2010-10-10&g=2010-10-10).
+2. Bij aantoonbare inkomstenderving als gevolg van de waarneming kan het bedrag van de beloning door Onze Minister worden verhoogd, echter tot maximaal een bedrag naar rato van de maandelijkse bezoldiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=2&z=2011-11-01&g=2011-11-01).
 
 ##### Artikel 12
 
 De waarnemend Gouverneur heeft gedurende de uitoefening van het ambt aanspraak op:
 
-- a. vergoeding van de representatiekosten overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=5&z=2010-10-10&g=2010-10-10);
+- a. vergoeding van de representatiekosten overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=5&z=2011-11-01&g=2011-11-01);
 
-- b. vergoeding van reis- en verblijfkosten voor dienstreizen overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=6&z=2010-10-10&g=2010-10-10).
+- b. vergoeding van reis- en verblijfkosten voor dienstreizen overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=6&z=2011-11-01&g=2011-11-01).
 
 ##### Artikel 13
 
-Onverminderd [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=2&z=2010-10-10&g=2010-10-10), kunnen de bedragen, genoemd in de artikelen 2, eerste lid, en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=5&z=2010-10-10&g=2010-10-10), bij koninklijk besluit, op voordracht van Onze Minister, worden gewijzigd.
+Onverminderd [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=2&z=2011-11-01&g=2011-11-01), kunnen de bedragen, genoemd in de artikelen 2, eerste en tweede lid, en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=5&z=2011-11-01&g=2011-11-01), bij koninklijk besluit, op voordracht van Onze Minister, worden gewijzigd.
 
 ##### Artikel 14
 
@@ -178,6 +182,12 @@ Dit besluit treedt in werking op het tijdstip waarop [artikel I, eerste lid, van
 
 ##### Artikel 17
 
-Dit besluit wordt aangehaald als: Rijksbesluit rechtspositie Gouverneur van Curaçao en Gouverneur van Sint Maarten.
+Dit besluit wordt aangehaald als: Rijksbesluit rechtspositie Gouverneurs.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst.
+
+##### Artikel 1a
+
+De Gouverneur is niet tevens waarnemend Gouverneur van een ander land binnen het Koninkrijk.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst.
