@@ -4,7 +4,7 @@ identifier: "BWBR0024593"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-11-02"
-last_updated: "2011-02-05"
+last_updated: "2011-11-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024593"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 - h. midterm-review: actualisatie van de verdeling van de subsidies vierde tranche;
 
-- i. Minister: Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
+- i. Minister: Minister van Infrastructuur en Milieu;
 
 - j. NSL: Nationaal Samenwerkingsprogramma Luchtkwaliteit als bedoeld in [artikel 5.12, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=5.12);
 
@@ -86,23 +86,23 @@ In deze regeling wordt verstaan onder:
 
 1. De indiening van een RSL geldt voor de toepassing van deze regeling, het [Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010065) en [artikel 15.13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.13) als een aanvraag om verlening van subsidie luchtkwaliteit derde tranche en vierde tranche voor maximaal 50% van de kosten van lokale luchtkwaliteitsmaatregelen.
 
-2. Subsidie luchtkwaliteit derde tranche, respectievelijk vierde tranche, wordt verleend ten behoeve van de doelen, bedoeld in [artikel 2, tweede lid, respectievelijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024593&artikel=2&z=2011-02-05&g=2011-02-05).
+2. Subsidie luchtkwaliteit derde tranche, respectievelijk vierde tranche, wordt verleend ten behoeve van de doelen, bedoeld in [artikel 2, tweede lid, respectievelijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024593&artikel=2&z=2011-11-02&g=2011-11-02).
 
-3. Ten behoeve van de verlening van subsidies luchtkwaliteit derde tranche zijn in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024593&bijlage=1&z=2011-02-05&g=2011-02-05) een verdeling en totaalbedrag per provincie opgenomen. Deze bedragen gelden als maxima.
+3. Ten behoeve van de verlening van subsidies luchtkwaliteit derde tranche zijn in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024593&bijlage=1&z=2011-11-02&g=2011-11-02) een verdeling en totaalbedrag per provincie opgenomen. Deze bedragen gelden als maxima.
 
-4. Ten behoeve van de verlening van subsidies luchtkwaliteit vierde tranche is in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024593&bijlage=2&z=2011-02-05&g=2011-02-05) een voorlopige en indicatieve verdeling per provincie opgenomen.
+4. Ten behoeve van de verlening van subsidies luchtkwaliteit vierde tranche is in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024593&bijlage=2&z=2011-11-02&g=2011-11-02) een voorlopige en indicatieve verdeling per provincie opgenomen.
 
-5. De verdeling van de subsidies luchtkwaliteit vierde tranche en het totaalbedrag per provincie worden uiterlijk in 2011 bepaald aan de hand van de resultaten van de midterm-review en opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024593&bijlage=2&z=2011-02-05&g=2011-02-05). Deze bedragen gelden als maxima.
+5. De verdeling van de subsidies luchtkwaliteit vierde tranche en het totaalbedrag per provincie worden uiterlijk in 2011 bepaald aan de hand van de resultaten van de midterm-review en opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024593&bijlage=2&z=2011-11-02&g=2011-11-02). Deze bedragen gelden als maxima.
 
 6. Indien een subsidie luchtkwaliteit derde tranche volledig is verleend aan een deelnemende decentrale overheid én deze subsidie blijkens een verklaring van een registeraccountant volledig is verplicht, kan in afwijking van het derde lid, en het vijfde lid de subsidie luchtkwaliteit vierde tranche ook vóórdat de midterm-review is uitgevoerd worden verleend indien het belang van een doelmatig en effectief luchtkwaliteitsbeheer dat met zich meebrengt.
 
-7. Indien toepassing wordt gegeven aan het zesde lid wordt geen hogere subsidie verleend dan het bedrag, genoemd in de voorlopige en indicatieve verdeling in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024593&bijlage=2&z=2011-02-05&g=2011-02-05).
+7. Indien toepassing wordt gegeven aan het zesde lid wordt geen hogere subsidie verleend dan het bedrag, genoemd in de voorlopige en indicatieve verdeling in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024593&bijlage=2&z=2011-11-02&g=2011-11-02).
 
 ##### Artikel 4
 
-1. Indien subsidie luchtkwaliteit derde tranche, respectievelijk subsidie luchtkwaliteit vierde tranche, geheel of gedeeltelijk niet is of zal worden ingezet voor het treffen van een of meer in een programma voor het desbetreffende gebied opgenomen lokale luchtkwaliteitsmaatregelen, wordt het niet ingezette deel van die subsidie zo spoedig mogelijk, doch uiterlijk in 2011, respectievelijk 2015, door de ontvanger gerestitueerd aan de Minister, behoudens gevallen waarin [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024593&artikel=8&z=2011-02-05&g=2011-02-05), van toepassing is.
+1. Indien subsidie luchtkwaliteit derde tranche, respectievelijk subsidie luchtkwaliteit vierde tranche, geheel of gedeeltelijk niet is of zal worden ingezet voor het treffen van een of meer in een programma voor het desbetreffende gebied opgenomen lokale luchtkwaliteitsmaatregelen, wordt het niet ingezette deel van die subsidie zo spoedig mogelijk, doch uiterlijk in 2011, respectievelijk 2015, door de ontvanger gerestitueerd aan de Minister, behoudens gevallen waarin [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024593&artikel=8&z=2011-11-02&g=2011-11-02), van toepassing is.
 
-2. Krachtens het eerste lid gerestitueerde rijksmiddelen en krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0024593&artikel=14&z=2011-02-05&g=2011-02-05) teruggevorderde rijksmiddelen worden, voor zover mogelijk binnen de comptabiliteitsvoorschriften, ingezet ten behoeve van de verlening van subsidie luchtkwaliteit vierde tranche aan een provincie, plusregio, openbaar lichaam of gemeente waar een extra bijdrage voor de uitvoering van een of meer lokale luchtkwaliteitsmaatregelen vereist is.
+2. Krachtens het eerste lid gerestitueerde rijksmiddelen, krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0024593&artikel=14&z=2011-11-02&g=2011-11-02) teruggevorderde rijksmiddelen en rijksmiddelen waarvoor geheel of gedeeltelijk geen aanvraag voor subsidie luchtkwaliteit vierde tranche wordt ingediend conform de verdeling als genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024593&bijlage=2&z=2011-11-02&g=2011-11-02), onder B, worden gedurende de looptijd van het NSL ingezet ten behoeve van de verlening van subsidie aan een provincie, plusregio, openbaar lichaam of gemeente waar een extra bijdrage voor de uitvoering van een of meer lokale luchtkwaliteitsmaatregelen vereist is.
 
 ##### Artikel 5
 
@@ -196,7 +196,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling wordt aangehaald als: Subsidieregeling programmafinanciering lokale luchtkwaliteitsmaatregelen.
 
-## Bijlage 1. behorende bij [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024593&artikel=3&z=2011-02-05&g=2011-02-05), van de Subsidieregeling programmafinanciering lokale luchtkwaliteitsmaatregelen
+## Bijlage 1. behorende bij [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024593&artikel=3&z=2011-11-02&g=2011-11-02), van de Subsidieregeling programmafinanciering lokale luchtkwaliteitsmaatregelen
 
 ### **Maximale subsidie luchtkwaliteit per provincie uit derde tranche luchtkwaliteit**
 
@@ -216,9 +216,9 @@ De verdeling over de jaren heen is als volgt:
 
 2012: bij afrekening 5%.
 
-## Bijlage 2. , behorende bij [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024593&artikel=3&z=2011-02-05&g=2011-02-05), van de Subsidieregeling programmafinanciering lokale luchtkwaliteitsmaatregelen
+## Bijlage 2. behorende bij [artikel 3, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024593&artikel=3&z=2011-11-02&g=2011-11-02), van de Subsidieregeling programmafinanciering lokale luchtkwaliteitsmaatregelen
 
-### De indicatieve verdeling subsidie luchtkwaliteit per grote stad / provincie uit de vierde tranche luchtkwaliteit
+### A. De indicatieve verdeling subsidie luchtkwaliteit per grote stad/provincie uit de vierde tranche luchtkwaliteit
 
 De gehanteerde verdeelsystematiek is de volgende:
 
@@ -227,5 +227,11 @@ Op basis van de omvang (restkilometers overschrijding wegennet plus hoogte overs
 Deze procentuele verhouding is op de beschikbare € 75 miljoen toegepast en bepaalt de voorlopige indicatieve verdeling zoals hieronder opgenomen:
 
 In deze berekening is uitgegaan van de overschrijdingen en weglengtes zonder het effect van Euro 6. Daarnaast is het op- en overslagknelpunt Nieuwe Hemweg (Amsterdam) buiten beschouwing gelaten.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### B. Maximale subsidie luchtkwaliteit per provincie uit de vierde tranche luchtkwaliteit
+
+Op basis van de omvang van na de derde tranche resterende (dreigende) luchtkwaliteitsknelpunten, blijkend uit de midterm-review en de monitoring NSL 2010, zijn de volgende maximale bedragen voor de subsidie luchtkwaliteit vierde tranche vastgesteld:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
