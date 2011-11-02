@@ -4,7 +4,7 @@ identifier: "BWBR0030583"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2011-11-02"
-last_updated: "2011-10-09"
+last_updated: "2011-11-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030583"
 soort: "ministeriele-regeling-BES"
@@ -130,19 +130,19 @@ Besluit:
 
 ##### Artikel 8
 
-1. Indien de ambtenaar geen bezwaar heeft gemaakt binnen de in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030583&artikel=7&z=2011-11-02&g=2011-10-09), onderscheidenlijk [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030583&artikel=8&z=2011-11-02&g=2011-10-09), bedoelde termijn, stelt de beoordelingsautoriteit de beoordeling vast.
+1. Indien de ambtenaar geen bezwaar heeft gemaakt binnen de in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030583&artikel=7&z=2011-11-02&g=2011-11-02), onderscheidenlijk [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030583&artikel=8&z=2011-11-02&g=2011-11-02), bedoelde termijn, stelt de beoordelingsautoriteit de beoordeling vast.
 
 2. De beoordeelde ambtenaar tekent vervolgens de vastgestelde beoordeling voor gezien en ontvangt vervolgens een afschrift van de beoordeling dat door hem voor ontvangst wordt getekend.
 
 ##### Artikel 9
 
-1. De beoordeelde ambtenaar kan binnen zes weken na ontvangst van het in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030583&artikel=8&z=2011-11-02&g=2011-10-09), bedoelde document bij de minister een met redenen omkleed bezwaarschrift indienen.
+1. De beoordeelde ambtenaar kan binnen zes weken na ontvangst van het in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030583&artikel=8&z=2011-11-02&g=2011-11-02), bedoelde document bij de minister een met redenen omkleed bezwaarschrift indienen.
 
 2. De indiening van een bezwaarschrift schort de uitvoering van de beslissing waartegen bezwaar wordt gemaakt niet op.
 
 ##### Artikel 10
 
-1. Tenzij het bezwaar, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030583&artikel=9&z=2011-11-02&g=2011-10-09), kennelijk niet-ontvankelijk of ongegrond is, wordt de ambtenaar binnen tien werkdagen na de ontvangst van het bezwaarschrift in de gelegenheid gesteld over zijn bezwaren te worden gehoord door een door de minister benoemde commissie. De ambtenaar kan tijdens de zitting waarin hij wordt gehoord gebruik maken van de diensten van een raadsman.
+1. Tenzij het bezwaar, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030583&artikel=9&z=2011-11-02&g=2011-11-02), kennelijk niet-ontvankelijk of ongegrond is, wordt de ambtenaar binnen tien werkdagen na de ontvangst van het bezwaarschrift in de gelegenheid gesteld over zijn bezwaren te worden gehoord door een door de minister benoemde commissie. De ambtenaar kan tijdens de zitting waarin hij wordt gehoord gebruik maken van de diensten van een raadsman.
 
 2. Voor alle leden van de commissie geldt, dat zij niet direct bij de totstandkoming van de beslissing of weigering waartegen het bezwaar dient betrokken zijn geweest.
 
@@ -168,7 +168,7 @@ Deze regeling treedt in werking met ingang van de dag na de dagtekening van de S
 
 Deze regeling wordt aangehaald als: Regeling beoordeling ambtenaren BES.
 
-## Bijlage. bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030583&artikel=5&z=2011-11-02&g=2011-10-09)
+## Bijlage. bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030583&artikel=5&z=2011-11-02&g=2011-11-02)
 
 ### Beoordelingsformulier
 
