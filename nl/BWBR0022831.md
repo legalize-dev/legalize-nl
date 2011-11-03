@@ -4,7 +4,7 @@ identifier: "BWBR0022831"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-02-18"
-last_updated: "2009-12-12"
+last_updated: "2011-11-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022831"
 soort: "ministeriele-regeling"
@@ -54,9 +54,9 @@ Als Europees Programma, bedoeld in [artikel 3, eerste lid](https://wetten.overhe
 
 ##### Artikel 2
 
-1. De bevoegdheid tot het nemen van besluiten op grond van deze regeling wordt gedelegeerd aan de managementautoriteit van het desbetreffende programma, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=1&z=2009-12-12&g=2009-12-12).
+1. De bevoegdheid tot het nemen van besluiten op grond van deze regeling wordt gedelegeerd aan de managementautoriteit van het desbetreffende programma, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=1&z=2011-11-03&g=2011-11-03).
 
-2. De managementautoriteit van het programma, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=1&z=2009-12-12&g=2009-12-12), kan op aanvraag subsidie verlenen aan degene die een project tot stand brengt dat past in dat programma.
+2. De managementautoriteit van het programma, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=1&z=2011-11-03&g=2011-11-03), kan op aanvraag subsidie verlenen aan degene die een project tot stand brengt dat past in dat programma.
 
 ##### Artikel 3
 
@@ -76,7 +76,7 @@ De managementautoriteit kan een formulier vaststellen voor de aanvraag. In voork
 
 - a. blijkt dat de beoogde cofinanciering door de overige cofinanciers gedeeltelijk niet zal worden verleend, of
 
-- b. het project naar het oordeel van de managementautoriteit volgens het Europees programma of volgens de beleidsregels, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=6&z=2009-12-12&g=2009-12-12), in aanmerking komt voor een groter deel cofinanciering door een ander bestuursorgaan en blijkt dat deze cofinanciering niet of niet volledig zal worden verleend.
+- b. het project naar het oordeel van de managementautoriteit volgens het Europees programma of volgens de beleidsregels, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=6&z=2011-11-03&g=2011-11-03), in aanmerking komt voor een groter deel cofinanciering door een ander bestuursorgaan en blijkt dat deze cofinanciering niet of niet volledig zal worden verleend.
 
 4. De Minister kan ontheffing verlenen van het bepaalde in het eerste lid.
 
@@ -106,11 +106,13 @@ De managementautoriteit kan een formulier vaststellen voor de aanvraag. In voork
 
 2. De subsidieontvanger voert het project in Nederland uit, behoudens voorafgaande schriftelijke ontheffing van de managementautoriteit voor gedeeltelijke uitvoering buiten Nederland.
 
-3. Aan een ontheffing als bedoeld in het eerste of tweede lid kunnen voorschriften worden verbonden.
+3. De in artikel 57, eerste lid, van de Kaderverordening bedoelde termijn van vijf jaar wordt in geval van een MKB-ondernemer verkort tot drie jaar.
+
+4. Aan een ontheffing als bedoeld in het eerste of tweede lid kunnen voorschriften worden verbonden.
 
 ##### Artikel 9
 
-1. De subsidieontvanger voert een administratie die zodanig is ingericht dat daaruit te allen tijde op eenvoudige en duidelijke wijze alle door hem gemaakte en betaalde kosten, aangegane verplichtingen en verrichte betalingen en de eventueel aan het project toe te rekenen opbrengsten kunnen worden afgelezen gespecificeerd overeenkomstig de in [artikel 10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=10&z=2009-12-12&g=2009-12-12), onderscheiden kostensoorten, met dien verstande dat ter zake van de kosten bedoeld in artikel 10, eerste lid, onder a, onderdeel 1° en tweede lid, een door middel van een inzichtelijke tijdschrijving controleerbare urenverantwoording per werknemer aanwezig dient te zijn.
+1. De subsidieontvanger voert een administratie die zodanig is ingericht dat daaruit te allen tijde op eenvoudige en duidelijke wijze alle door hem gemaakte en betaalde kosten, aangegane verplichtingen en verrichte betalingen en de eventueel aan het project toe te rekenen opbrengsten kunnen worden afgelezen gespecificeerd overeenkomstig de in [artikel 10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=10&z=2011-11-03&g=2011-11-03), onderscheiden kostensoorten, met dien verstande dat ter zake van de kosten bedoeld in artikel 10, eerste lid, onder a, onderdeel 1° en tweede lid, een door middel van een inzichtelijke tijdschrijving controleerbare urenverantwoording per werknemer aanwezig dient te zijn.
 
 2. De subsidie-ontvanger doet onverwijld mededeling aan de managementautoriteit van de indiening bij de rechtbank van een verzoek tot het op hem van toepassing verklaren van de schuldsaneringsregeling natuurlijke personen, tot verlening van surseance van betaling aan hem of tot faillietverklaring van hem.
 
@@ -130,9 +132,11 @@ De managementautoriteit kan een formulier vaststellen voor de aanvraag. In voork
 
 - 1°. loonkosten, voor de berekening waarvan de aanvrager bij de aanvraag kiest uit:
 
-- –. de loonkosten plus overhead systematiek, opgenomen in [artikel 10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=10a&z=2009-12-12&g=2009-12-12),
+- –. de loonkosten plus overhead systematiek, opgenomen in [artikel 10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=10a&z=2011-11-03&g=2011-11-03),
 
-- –. de integraal uurtarief systematiek, opgenomen in [artikel 10a, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=10a&z=2009-12-12&g=2009-12-12);
+- –. de integraal uurtarief systematiek, opgenomen in [artikel 10a, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=10a&z=2011-11-03&g=2011-11-03);
+
+- –. forfaitaire kosten berekend door toepassing van van overheidswege gehanteerde standaardschalen van eenheidskosten;
 
 - 2°. kosten ten behoeve van promotie en publiciteit;
 
@@ -140,9 +144,9 @@ De managementautoriteit kan een formulier vaststellen voor de aanvraag. In voork
 
 - 4°. aankoop of inbreng van gebouwen en onroerende zaken, met inbegrip van de kosten voor aankoop, belastingen, leges en taxatiekosten, gebaseerd op de objectief aangetoonde actuele marktwaarde, blijkend uit bij de aanvraag om subsidievaststelling gevoegde gegevens en bescheiden;
 
-- 5°. kosten van de voor het project aangeschafte machines en apparatuur en productiemiddelen, de objectief aangetoonde actuele marktwaarde, blijkend uit bij de aanvraag om subsidievaststelling gevoegde gegevens en bescheiden;
+- 5°. kosten van de voor het project aangeschafte machines en apparatuur en productiemiddelen, gebaseerd op de objectief aangetoonde actuele marktwaarde, blijkend uit bij de aanvraag om subsidievaststelling gevoegde gegevens en bescheiden;
 
-- 6°. kosten van het gebruik voor het project van machines en apparatuur die in het bezit zijn van een deelnemer aan het kennisproject of van derden, de objectief aangetoonde actuele marktwaarde, blijkend uit bij de aanvraag om subsidievaststelling gevoegde gegevens en bescheiden;
+- 6°. kosten van het gebruik voor het project van machines en apparatuur die in het bezit zijn van een deelnemer aan het kennisproject of van derden, gebaseerd op de objectief aangetoonde actuele marktwaarde, blijkend uit bij de aanvraag om subsidievaststelling gevoegde gegevens en bescheiden;
 
 - 7°. kosten van verbruikte materialen en hulpmiddelen, gebaseerd op historische aanschafprijzen;
 
@@ -204,7 +208,7 @@ De managementautoriteit kan een formulier vaststellen voor de aanvraag. In voork
 
 ##### Artikel 14
 
-De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=1&z=2009-12-12&g=2009-12-12) en [artikel 13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=13&z=2009-12-12&g=2009-12-12), genoemde programma's worden ter inzage gelegd bij het Informatiecentrum van het Ministerie van Economische Zaken, Bezuidenhoutseweg 30, kamer 0.23, te Den haag.
+De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=1&z=2011-11-03&g=2011-11-03) en [artikel 13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=13&z=2011-11-03&g=2011-11-03), genoemde programma's worden ter inzage gelegd bij het Informatiecentrum van het Ministerie van Economische Zaken, Bezuidenhoutseweg 30, kamer 0.23, te Den haag.
 
 ##### Artikel 15
 
@@ -228,4 +232,38 @@ Deze regeling wordt aangehaald als: Regeling EFRO doelstelling 2 programmaperiod
 
 4. De subsidieontvanger legt bij de aanvraag om subsidie en daarna jaarlijks een specificatie over van alle kostensoorten binnen het gehanteerde integrale uurtarief en het aantal uren per functiecategorie waarop het integrale uurtarief is gebaseerd.
 
-5. Bij toepassing van de integraal uurtarief systematiek is de tijdschrijving, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=9&z=2009-12-12&g=2009-12-12), sluitend.
+5. Bij toepassing van de integraal uurtarief systematiek is de tijdschrijving, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=9&z=2011-11-03&g=2011-11-03), sluitend.
+
+##### Artikel 9a
+
+Als procedure, bedoeld in artikel 19, vijfde lid, van de Uitvoeringsverordening, wordt vastgesteld de in de bij deze regeling behorende bijlage 1 opgenomen procedure.
+
+## Bijlage. bedoeld in [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=9a&z=2011-11-03&g=2011-11-03) van de regeling efro doestelling 2 programmaperiode 2007–2013
+
+### Procedures voor authentiek gewaarmerkte versies van originele bewijsstukken en digitale bewijsstukken
+
+In het kader van de verantwoording dient de subsidieontvanger de kosten te onderbouwen met originele bewijsstukken. Artikel 19 van de Uitvoeringsverordening maakt het mogelijk om gewaarmerkte kopieën of volledig digitale documenten te accepteren als bewijsstuk. Hiertoe moet door de lidstaat een waarmerkingsprocedure voor de vaststelling van de authenticiteit worden opgesteld.
+
+De Europese Commissie accepteert op basis van bovengenoemd artikel ten minste de volgende documenten als bewijsstukken:
+
+Hieronder vindt u de procedures om deze stukken te kunnen gebruiken als geaccepteerde bewijsstukken in het kader van de EFRO-administratie. Niet vergeten mag worden dat ook voor deze bewijsstukken de bewaarplicht van bewijsstukken van toepassing is (artikel 90 van de Kaderverordening). De subsidieontvanger dient derhalve te waarborgen dat ook deze bewijsstukken daaraan zullen voldoen.
+
+### Procedure voor het waarmerken van geconverteerde documenten (onderdelen a en b)
+
+De Belastingdienst spreekt van conversie van gegevens op het moment dat gegevens vanaf de originele gegevensdrager worden overgezet naar een andere gegevensdrager. In de opsomming van de Europese Commissie (artikel 19 van Verordening (EG) 1828/2006) gaat het dan om de onderdelen a en b: fotokopieën van originelen, microfiches van originelen. Deze procedure kan bijvoorbeeld worden toegepast indien het project een samenwerkingsverband betreft en de penvoerder - het aanspreekpunt c.q. de eerstverantwoordelijke namens alle projectpartners - alle bewijsstukken wil of dient over te leggen.
+
+U kunt deze geconverteerde gegevens onder voorwaarden gebruiken als bewijsstukken ter onderbouwing van de EFRO-administratie. Als dit op de juiste wijze gebeurt, is het, in het kader van de EFRO-verantwoording, niet meer noodzakelijk de bewijsstukken op de originele gegevensdrager over te leggen. Het geconverteerde bewijsstuk mag na conversie niet meer gewijzigd kunnen worden.
+
+Voorwaarde hierbij is dat het document dat naar een nieuwe gegevensdrager wordt geconverteerd, vóór conversie wordt gewaarmerkt door de begunstigde c.q. de eigenaar van het document. Dit wordt als volgt bewerkstelligd: de betrokken functionaris zet op het origineel, voordat het wordt geconverteerd, een waarmerk door (1.) een handtekening, (2.) de datum van waarmerking en (3.) de mededeling dat het gaat om waarmerking ten behoeve van EFRO1Voorzover dat niet al duidelijk blijkt.. Vervolgens is dat waarmerk ook zichtbaar op het geconverteerde document.
+
+### Procedure voor elektronische versies van originelen (onderdeel c)
+
+In Nederland is de praktijk steeds vaker dat bij binnenkomst een document direct wordt gescand en met de gescande versie het verdere traject wordt doorlopen. In dat geval dient de betrouwbaarheid, authenticiteit en integriteit van het omzettingsproces en van de elektronische versies te worden gewaarborgd. Het is aan de subsidieontvanger om aan te tonen dat het scanproces en het verdere verloop c.q. de verdere procesgang binnen de organisatie daaraan kan voldoen.
+
+Indien de verdere procesgang volkomen elektronisch geschiedt, moet de subsidieontvanger kunnen aantonen dat:
+
+Indien de verdere procesgang overeenkomt met die van een papieren bewijsstuk (de verdere afhandeling geschiedt met een print van de scan, welke aan het einde weer wordt gescand), moet de subsidieontvanger kunnen aantonen dat:
+
+### Procedure voor het bewaren van stukken die uitsluitend in elektronische versie bestaan (onderdeel d)
+
+Indien een subsidieontvanger gebruik maakt van elektronische documenten waarvan uitsluitend een elektronische versie bestaat, dienen de geautomatiseerde systemen voorzien te zijn van beheers- en beveiligingsmaatregelen die de betrouwbaarheid, authenticiteit en integriteit van de elektronische gegevens waarborgen. Het is aan de subsidieontvanger om dit aan te tonen. Hierbij kan worden aangesloten op de voorschriften die de Belastingdienst stelt aan digitale administraties. Voor een tweetal veel voorkomende situaties zijn de voorschriften hieronder uitgewerkt.
