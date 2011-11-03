@@ -4,7 +4,7 @@ identifier: "BWBR0030581"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-11-03"
-last_updated: "2011-01-01"
+last_updated: "2011-11-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030581"
 soort: "ministeriele-regeling"
@@ -56,19 +56,19 @@ Aan de directeur van het Agentschap SZW wordt mandaat, volmacht en machtiging ve
 
 Aan de directeur van het Agentschap SZW wordt:
 
-- a. mandaat verleend tot het nemen van besluiten op bezwaar tegen besluiten bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030581&artikel=1&z=2011-11-03&g=2011-01-01), voor zover het besluit waartegen het bezwaar zich richt niet door hem in mandaat is genomen;
+- a. mandaat verleend tot het nemen van besluiten op bezwaar tegen besluiten bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030581&artikel=1&z=2011-11-03&g=2011-11-03), voor zover het besluit waartegen het bezwaar zich richt niet door hem in mandaat is genomen;
 
-- b. volmacht en machtiging verleend tot het verrichten van alle benodigde werkzaamheden, die betrekking hebben op bezwaar- en beroepsprocedures, voor zover deze verband houden met de uitoefening van de bevoegdheden, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030581&artikel=1&z=2011-11-03&g=2011-01-01).
+- b. volmacht en machtiging verleend tot het verrichten van alle benodigde werkzaamheden, die betrekking hebben op bezwaar- en beroepsprocedures, voor zover deze verband houden met de uitoefening van de bevoegdheden, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030581&artikel=1&z=2011-11-03&g=2011-11-03).
 
 ##### Artikel 3
 
-- a. De directeur van het Agentschap SZW kan met betrekking tot zijn bevoegdheden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030581&artikel=1&z=2011-11-03&g=2011-01-01), ondermandaat, volmacht en machtiging in een door hem te bepalen omvang verlenen aan onder hem ressorterende functionarissen;
+- a. De directeur van het Agentschap SZW kan met betrekking tot zijn bevoegdheden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030581&artikel=1&z=2011-11-03&g=2011-11-03), ondermandaat, volmacht en machtiging in een door hem te bepalen omvang verlenen aan onder hem ressorterende functionarissen;
 
-- b. De directeur van het Agentschap SZW kan met betrekking tot zijn bevoegdheden genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030581&artikel=2&z=2011-11-03&g=2011-01-01), ondermandaat, volmacht en machtiging in een door hem te bepalen omvang verlenen aan onder de minister van Sociale Zaken en Werkgelegenheid ressorterende functionarissen.
+- b. De directeur van het Agentschap SZW kan met betrekking tot zijn bevoegdheden genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030581&artikel=2&z=2011-11-03&g=2011-11-03), ondermandaat, volmacht en machtiging in een door hem te bepalen omvang verlenen aan onder de minister van Sociale Zaken en Werkgelegenheid ressorterende functionarissen.
 
 ##### Artikel 4
 
-Indien uitvoering wordt gegeven aan [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030581&artikel=1&z=2011-11-03&g=2011-01-01) of [2](https://wetten.overheid.nl/jci1.3:c:BWBR0030581&artikel=2&z=2011-11-03&g=2011-01-01), luidt de ondertekening:
+Indien uitvoering wordt gegeven aan [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030581&artikel=1&z=2011-11-03&g=2011-11-03) of [2](https://wetten.overheid.nl/jci1.3:c:BWBR0030581&artikel=2&z=2011-11-03&g=2011-11-03), luidt de ondertekening:
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,
 
@@ -80,7 +80,7 @@ de directeur van het Agentschap SZW,
 
 ##### Artikel 5
 
-Indien uitvoering wordt gegeven aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030581&artikel=3&z=2011-11-03&g=2011-01-01), luidt de ondertekening:
+Indien uitvoering wordt gegeven aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030581&artikel=3&z=2011-11-03&g=2011-11-03), luidt de ondertekening:
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,
 
