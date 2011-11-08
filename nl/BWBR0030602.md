@@ -4,7 +4,7 @@ identifier: "BWBR0030602"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-11-08"
-last_updated: "2011-07-02"
+last_updated: "2011-11-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030602"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Besluit:
 
 ##### Artikel 2
 
-De Commandant der Koninklijke Marechaussee kan de aan hem bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030602&artikel=1&z=2011-11-08&g=2011-07-02) verleende machtigingen doorverlenen aan één of meer onder hem ressorterende functionarissen.
+De Commandant der Koninklijke Marechaussee kan de aan hem bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030602&artikel=1&z=2011-11-08&g=2011-11-08) verleende machtigingen doorverlenen aan één of meer onder hem ressorterende functionarissen.
 
 ##### Artikel 3
 
