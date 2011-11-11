@@ -4,7 +4,7 @@ identifier: "BWBR0023543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-18"
-last_updated: "2011-09-01"
+last_updated: "2011-11-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023543"
 soort: "ministeriele-regeling"
@@ -132,9 +132,11 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - h. houdende beslissingen op een beroepschrift,
 
-- i. betreffende het nemen van beloningsbesluiten ten aanzien van ambtenaren waarbij de secretaris-generaal als direct-leidinggevende optreedt, en
+- i. betreffende het nemen van beloningsbesluiten ten aanzien van ambtenaren waarbij de secretaris-generaal als direct-leidinggevende optreedt,
 
-- j. houdende algemeen verbindende voorschriften.
+- j. houdende algemeen verbindende voorschriften, en
+
+- k. betreffende het instellen van beroep tegen een besluit van een ander bestuursorgaan.
 
 2. Aan de minister is voorbehouden het afdoen en ondertekenen van stukken:
 
@@ -186,7 +188,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 3. De directeuren zijn budgethouder voor de hun door de directeur-generaal toegewezen budgetten.
 
-4. Voor zover het betreft personele besluiten hebben de directeuren en direct-leidinggevenden mandaat onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2011-05-03&g=2011-09-01), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2011-05-03&g=2011-09-01), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2011-05-03&g=2011-09-01) en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2011-05-03&g=2011-09-01).
+4. Voor zover het betreft personele besluiten hebben de directeuren en direct-leidinggevenden mandaat onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2011-11-11&g=2011-11-11), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2011-11-11&g=2011-11-11), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2011-11-11&g=2011-11-11) en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2011-11-11&g=2011-11-11).
 
 5. Het verlenen van ondermandaat ten aanzien van de in lid 1 en lid 2 bedoelde bevoegdheden is, indien deze betrekking hebben op personele aangelegenheden, niet mogelijk.
 
@@ -234,7 +236,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - g. het vaststellen van de OCW-formatie en de verdeling van de personeelscapaciteit van de OCW-formatie,
 
-- h. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2011-05-03&g=2011-09-01),
+- h. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2011-11-11&g=2011-11-11),
 
 - i. het nemen van besluiten die voor alle ambtenaren van het Ministerie gelden
 
@@ -250,9 +252,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - o. het beslissen op bezwaren, voor zover die betrekking hebben op handelingen of besluiten waarbij een ambtenaar als bedoeld in [artikel 1 van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=1) als zodanig belanghebbende is, en
 
-- p. het beslissen op bezwaren die behandeld zijn overeenkomstig [artikel 6 van de Regeling behandeling bezwaarschriften OCW](https://wetten.overheid.nl/jci1.3:c:BWBR0023195&artikel=6).
-
-- q. het starten van projecten met betrekking tot informatiebeleid voor een bedrag van meer dan € 20.000.000,–
+- p. het starten van projecten met betrekking tot informatiebeleid voor een bedrag van meer dan € 20.000.000,–
 
 2. Het verlenen van ondermandaat van de bevoegdheden in dit artikel is niet mogelijk, met uitzondering van de bevoegdheid bedoeld in het eerste lid onder c.
 
@@ -260,13 +260,13 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 1. De directeuren-generaal, de hoofden van inspecties en de hoofden van het Nationaal Archief zijn met uitsluiting van anderen, met uitzondering van de secretaris-generaal, gemandateerd met betrekking tot:
 
-- a. het instellen van bezwaar en beroep tegen besluiten van andere bestuursorganen,
+- a. het instellen van bezwaar tegen besluiten van andere bestuursorganen,
 
 - b. goedkeuring van het voorbereiden van een reorganisatie door een directeur,
 
 - c. vaststelling of wijziging van het organisatie- en capaciteitsplan van een onder hem ressorterend dienstonderdeel,
 
-- d. het treffen van disciplinaire straffen, met uitzondering van voorwaardelijk en onvoorwaardelijk strafontslag en onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2011-05-03&g=2011-09-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2011-05-03&g=2011-09-01) en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2011-05-03&g=2011-09-01),
+- d. het treffen van disciplinaire straffen, met uitzondering van voorwaardelijk en onvoorwaardelijk strafontslag en onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2011-11-11&g=2011-11-11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2011-11-11&g=2011-11-11) en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2011-11-11&g=2011-11-11),
 
 - e. opstellen van het bestedingsplan voor zijn directoraat-generaal, inspectie of baten-lastendienst op basis van de bestedingsplannen van de onder hem ressorterende organisatieonderdelen,
 
@@ -278,13 +278,13 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 2. Voor het inhuren van externe professionals en uitzendkrachten door een directeur is voorafgaande goedkeuring van de directeur-generaal vereist voor zover het betreft bedragen boven € 60 per uur.
 
-3. De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaarschriften onverminderd [artikel 12, eerste lid, onderdelen o en p](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2011-05-03&g=2011-09-01).
+3. De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaarschriften onverminderd [artikel 12, eerste lid, onderdeel o](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2011-11-11&g=2011-11-11).
 
 4. Met uitzondering van de bevoegdheid bedoeld in lid 3 is ondermandaat van de bevoegdheden, bedoeld in dit artikel niet mogelijk.
 
 ##### Artikel 14. Voorbehouden aan de directeur-generaal DUO en de directeur P&O
 
-1. De directeur Personeel & Organisatie is met uitsluiting van anderen dan de secretaris-generaal gemandateerd met betrekking tot het nemen van personele besluiten, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2011-05-03&g=2011-09-01), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2011-05-03&g=2011-09-01), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2011-05-03&g=2011-09-01) en het tweede lid, voor zover het betreft:
+1. De directeur Personeel & Organisatie is met uitsluiting van anderen dan de secretaris-generaal gemandateerd met betrekking tot het nemen van personele besluiten, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2011-11-11&g=2011-11-11), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2011-11-11&g=2011-11-11), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2011-11-11&g=2011-11-11) en het tweede lid, voor zover het betreft:
 
 - a. aanstellings- en benoemingsbesluiten en daaraan voorafgaande besluiten die daarop betrekking hebben,
 
@@ -294,9 +294,9 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - d. besluiten inhoudende erkenning van aansprakelijkheid ten aanzien van beroepsziekte, dienstongeval en beroepsincident en daaruit voortvloeiende besluiten met betrekking tot vergoeding van schade en besluiten met betrekking tot vergoedingen als bedoeld in de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=47), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=48), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=66), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=69) en [73 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=73).
 
-2. De directeur-generaal DUO is met uitsluiting van anderen dan de secretaris-generaal gemandateerd, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2011-05-03&g=2011-09-01) en [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2011-05-03&g=2011-09-01), voor de onder hem ressorterende medewerkers ten aanzien van de personele besluiten, genoemd in het eerste lid.
+2. De directeur-generaal DUO is met uitsluiting van anderen dan de secretaris-generaal gemandateerd, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2011-11-11&g=2011-11-11) en [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2011-11-11&g=2011-11-11), voor de onder hem ressorterende medewerkers ten aanzien van de personele besluiten, genoemd in het eerste lid.
 
-3. In afwijking van het bepaalde in [artikel 11 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=11&z=2011-05-03&g=2011-09-01) van dit besluit is ondermandaat van de in dit artikel opgenomen bevoegdheden mogelijk na instemming van de secretaris-generaal en de plaatsvervangend secretaris-generaal.
+3. In afwijking van het bepaalde in [artikel 11 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=11&z=2011-11-11&g=2011-11-11) van dit besluit is ondermandaat van de in dit artikel opgenomen bevoegdheden mogelijk na instemming van de secretaris-generaal en de plaatsvervangend secretaris-generaal.
 
 ##### Artikel 15. Afwezigheid of verhindering
 
@@ -322,7 +322,7 @@ handtekening van de gemandateerde,
 
 naam van de gemandateerde.
 
-2. De gemandateerde is gehouden in de ondertekening van stukken als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14a&z=2011-05-03&g=2011-09-01) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
+2. De gemandateerde is gehouden in de ondertekening van stukken als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14a&z=2011-11-11&g=2011-11-11) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
 
 **De minister van Onderwijs, Cultuur en Wetenschap en de minister van Infrastructuur en Milieu,**
 
@@ -732,7 +732,7 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. De directeur van de Rijksdienst voor het Cultureel Erfgoed is gemandateerd om, namens de secretaris-generaal, mede namens de Minister van Infrastructuur en Milieu besluiten te nemen als bedoeld in [artikel 1, eerste lid, aanhef en onder a en d, van het Mandaatbesluit beschermde stads- en dorpsgezichten](https://wetten.overheid.nl/jci1.3:c:BWBR0027565&artikel=1). Hij kan met betrekking tot dit mandaat ondermandaat verlenen aan één of meer onder hem ressorterende functionarissen.
 
-2. De directeur-generaal DUO is gemandateerd om, namens de secretaris-generaal, mede namens de Minister van Infrastructuur en Milieu besluiten te nemen als bedoeld in [artikel 1, eerste lid, aanhef en onder b en c, van het Mandaatbesluit beschermde stads- en dorpsgezichten](https://wetten.overheid.nl/jci1.3:c:BWBR0027565&artikel=1), tenzij dit op grond van het bepaalde in [artikel 12, eerste lid, aanhef en onder p](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2011-05-03&g=2011-09-01), is voorbehouden aan de secretaris-generaal. De directeur-generaal DUO kan met betrekking tot dit mandaat ondermandaat verlenen aan één of meer onder hem ressorterende functionarissen.
+2. De directeur-generaal DUO is gemandateerd om, namens de secretaris-generaal, mede namens de Minister van Infrastructuur en Milieu besluiten te nemen als bedoeld in [artikel 1, eerste lid, aanhef en onder b en c, van het Mandaatbesluit beschermde stads- en dorpsgezichten](https://wetten.overheid.nl/jci1.3:c:BWBR0027565&artikel=1). De directeur-generaal DUO kan met betrekking tot dit mandaat ondermandaat verlenen aan één of meer onder hem ressorterende functionarissen.
 
 ## Bijlage. : Organisatie van het Ministerie van Onderwijs, Cultuur en Wetenschap
 
@@ -820,19 +820,15 @@ Het Ministerie bestaat uit de volgende dienstonderdelen:
 
 - 3e. Onderzoek en Wetenschapsbeleid (OWB)
 
-- b. Beleidsdirecties gericht op een thema:
+- b. Beleidsdirectie gericht op een thema:
 
-- 1e. Emancipatie (DE)
-
-- 2e. Kennis en Innovatie (werkt samen met het ministerie van EZ)
-
-- 3e. Leren en Werken (werkt samen met het ministerie van SZW)
-
-- 4e. Veiligheid en Radicalisering (VenR)
+- *. Emancipatie (DE)
 
 - c. Ondersteunend bureau voor de:
 
-- –. Adviesraad voor Wetenschaps- en Technologiebeleid (AWT)
+- 1e. Adviesraad voor Wetenschaps- en Technologiebeleid (AWT)
+
+- 2e. College van beroep voor het hoger onderwijs (CBHO)
 
 - 3.5. organisatieonderdelen die rechtstreeks ressorteren onder de DGCM:
 
@@ -876,7 +872,7 @@ De AD kent drie strategische functies:
 
 De AD werkt primair voor en in opdracht van het verantwoordelijk management van OCW, maar neemt bij de taakuitoefening overeenkomstig de eigen beroepsethiek een onafhankelijke positie in.
 
-De directie BOA is verantwoordelijk voor de ondersteuning van de sturing op de politiek- bestuurlijke en organisatorische samenhang van het departement zodat het verkeer tussen de politieke top en de ambtelijke organisatie goed verloopt. De directie is tevens verantwoordelijk voor de inhoudelijke, procesmatige, instrumentele en logistieke ondersteuning van de bewindslieden en de ambtelijke top. De directie is ook verantwoordelijk voor de behandeling van burgerbrieven, daarin zo nodig inhoudelijk bijgestaan door beleidsdirecties.
+De directie BOA is verantwoordelijk voor de ondersteuning van de sturing op de politiek- bestuurlijke en organisatorische samenhang van het departement zodat het verkeer tussen de politieke top en de ambtelijke organisatie goed verloopt. De directie is tevens verantwoordelijk voor de inhoudelijke, procesmatige, instrumentele en logistieke ondersteuning van de bewindslieden en de ambtelijke top. De directie is ook verantwoordelijk voor de behandeling van burgerbrieven, daarin zo nodig inhoudelijk bijgestaan door beleidsdirecties. Verder is de directie verantwoordelijk voor de beleidsontwikkeling op het terrein van veiligheid voor alle sectoren van het Ministerie.
 
 De directie COM is verantwoordelijk voor de interne en externe communicatie van het departement.
 
@@ -914,8 +910,6 @@ Het beleidsterrein van het voortgezet onderwijs omvat de scholen voor voorbereid
 
 De directie Jeugd en Onderwijszorg is verantwoordelijk voor de beleidsontwikkeling op het terrein van Jeugd en Zorg, voor de sectoren primair onderwijs, voortgezet onderwijs, en beroepsonderwijs. De directie is in deze ook het aanspreekpunt voor de minister voor Jeugd en Gezin.
 
-De directie Kinderopvang is verantwoordelijk voor het tot stand brengen van een stelsel van kwalitatief goede en toegankelijke kinderopvang, tussenschoolse opvang en peuterspeelzalen, zodat een dagarrangement ontstaat waardoor ouders arbeid en zorg kunnen combineren en kinderen zich kunnen ontwikkelen.
-
 De directie Leraren is verantwoordelijk voor de beleidsontwikkeling op het terrein van leraren voor alle onderwijssectoren. In het bijzonder is de directie gericht op de kwaliteitsbevordering van leraren en de terugdringing van het lerarentekort.
 
 De directie VSV heeft als hoofddoel het coördineren van beleid om jongeren in de leeftijd tot 23 jaar met een startkwalificatie (mbo-2 diploma) van school te laten gaan.
@@ -931,12 +925,6 @@ De directie OWB is verantwoordelijk voor de beleidsontwikkeling ten aanzien van 
 DE is verantwoordelijk voor de beleidsontwikkeling op het terrein van emancipatie ter bevordering van de integratie van het emancipatiebeleid in het rijksbrede regeringsbeleid. De directie draagt tevens zorg voor de ondersteuning van het emancipatieproces in de samenleving (emancipatie subsidiebeleid).
 
 Doel is de verhoging van de arbeidsparticipatie van vrouwen, meer vrouwen in topposities van overheid, onderwijs en bedrijfsleven, terugdringen van beloningsverschillen, maatschappelijke participatie van vrouwen met een grote afstand tot de arbeidsmarkt, meer meisjes in bèta, bestrijden van geweld tegen meisjes en vrouwen, actieve aanpak van homodiscriminatie, bevorderen combinatie arbeid en zorg tussen 7 en 7 en bijdragen aan verbetering van de positie van meisjes en vrouwen in de wereld.
-
-De directie Kennis en Innovatie is een samenwerkingsverband met het ministerie van EZ, en valt onder de dagelijkse aansturing van dat departement. De directie is verantwoordelijk voor de beleidsontwikkeling op het terrein van Kennis en Innovatie. Hoofddoel is de kennis te ontwikkelen ter bevordering van de Nederlandse economie en samenleving.
-
-De directie Leren en werken is een samenwerkingsverband met het ministerie van SZW, en valt onder de dagelijkse aansturing van dat departement. Hoofddoel is om, in lijn met de Lissabondoelstellingen, te bereiken dat in verschillende leeftijdscategorieën meer Nederlanders een opleiding in het hoger onderwijs hebben afgerond. Tevens is het doel om het aantal werkenden en werkzoekenden met een startkwalificatie substantieel te verhogen.
-
-De directie VenR is verantwoordelijk voor de beleidsontwikkeling op het terrein van veiligheid voor alle sectoren van OCW.
 
 De beleidsdirecties van het DGCM hebben de volgende taken en verantwoordelijkheden:
 
@@ -1011,5 +999,7 @@ Er zijn de volgende bureaus die onafhankelijke of zelfstandige organisaties onde
 - 11.3. Adviesraad voor Wetenschaps- en Technologiebeleid (AWT)
 
 - 11.4. College voor Examens (CVE)
+
+- 11.5. College van beroep voor het hoger onderwijs (CBHO)
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
