@@ -4,7 +4,7 @@ identifier: "BWBR0029688"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2011-11-11"
-last_updated: "2011-03-08"
+last_updated: "2011-11-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029688"
 soort: "ministeriele-regeling-BES"
@@ -40,13 +40,15 @@ Gelet op de [artikelen 97, vierde lid](onbekend), en [98 van de Wet primair onde
 
 Besluit:
 
+Treedt in werking in Bonaire, Sint Eustatius en Saba.
+
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
 - **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **school:** school als bedoeld in [artikel 1 van de Wet primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1);
+- **school:** school als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1);
 
 - **wet:** [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280).
 
@@ -60,13 +62,13 @@ Het bedrag, bedoeld in [artikel 97, derde lid, onder c, van de wet](onbekend) wo
 
 ##### Artikel 4. Aanvullende bekostiging: het overgangsbudget
 
-1. Het bevoegd gezag ontvangt voor een school aanvullende bekostiging indien de som van de bedragen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029688&artikel=2&z=2011-03-08&g=2011-03-08) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0029688&artikel=3&z=2011-03-08&g=2011-03-08), voor de school minder bedraagt dan de uitgaven voor de materiële instandhouding van het jaar 2009 van die school zoals deze naar het oordeel van de minister worden vastgesteld.
+1. Het bevoegd gezag ontvangt voor een school aanvullende bekostiging indien de som van de bedragen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029688&artikel=2&z=2011-11-11&g=2011-11-11) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0029688&artikel=3&z=2011-11-11&g=2011-11-11), voor de school minder bedraagt dan de uitgaven voor de materiële instandhouding van het jaar 2009 van die school zoals deze naar het oordeel van de minister worden vastgesteld.
 
-2. De aanvullende bekostiging bedraagt het verschil tussen de materiële uitgaven van het jaar 2009 van de school zoals deze naar het oordeel van de minister zijn vastgesteld en de voor de school op grond van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029688&artikel=2&z=2011-03-08&g=2011-03-08) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0029688&artikel=3&z=2011-03-08&g=2011-03-08) berekende aanvullende bekostiging.
+2. De aanvullende bekostiging bedraagt het verschil tussen de materiële uitgaven van het jaar 2009 van de school zoals deze naar het oordeel van de minister zijn vastgesteld en de voor de school op grond van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029688&artikel=2&z=2011-11-11&g=2011-11-11) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0029688&artikel=3&z=2011-11-11&g=2011-11-11) berekende aanvullende bekostiging.
 
 ##### Artikel 5. Aanvullende bekostiging: verhoging met 5%
 
-De bijzondere bekostiging bedraagt 5% van de bekostiging, berekend met in achtneming van de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029688&artikel=2&z=2011-03-08&g=2011-03-08).
+De bijzondere bekostiging bedraagt 5% van de bekostiging, berekend met in achtneming van de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029688&artikel=2&z=2011-11-11&g=2011-11-11).
 
 ##### Artikel 6. Inwerkingtreding
 
