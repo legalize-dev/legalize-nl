@@ -4,7 +4,7 @@ identifier: "BWBV0002019"
 country: "nl"
 rank: "verdrag"
 publication_date: "2011-11-13"
-last_updated: "2006-11-28"
+last_updated: "2011-11-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0002019"
 soort: "verdrag"
@@ -229,25 +229,69 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een of van beide 
 
 2. Deze dividenden mogen echter ook in de Verdragsluitende Staat waarvan het lichaam dat de dividenden betaalt inwoner is, overeenkomstig de wetgeving van die Staat worden belast, maar indien de uiteindelijk gerechtigde tot de dividenden een inwoner van de andere Verdragsluitende Staat is, mag de aldus geheven belasting 15 percent van het brutobedrag van de dividenden niet overschrijden.
 
-3. Niettegenstaande de bepalingen van het tweede lid, heft de Verdragsluitende Staat waarvan het lichaam inwoner is geen belasting over door dat lichaam betaalde dividenden, indien de uiteindelijk gerechtigde tot de dividenden een lichaam is waarvan het kapitaal geheel of gedeeltelijk in aandelen is verdeeld en dat inwoner is van de andere Verdragsluitende Staat en onmiddellijk ten minste 10 percent bezit van het kapitaal van het lichaam dat de dividenden betaalt. Deze bepaling is alleen van toepassing indien van een lichaam dat inwoner is van Nederland geen vennootschapsbelasting wordt geheven met betrekking tot dividenden die het ontvangt van een lichaam dat inwoner is van Barbados.
+3. Niettegenstaande de bepalingen van het tweede lid, heft de Verdragsluitende Staat waarvan het lichaam dat de dividenden betaalt inwoner is geen belasting over door dat lichaam betaalde dividenden, indien de uiteindelijk gerechtigde tot de dividenden:
 
-4. De bevoegde autoriteiten van de Verdragsluitende Staten regelen in onderlinge overeenstemming de wijze van toepassing van het tweede en derde lid.
+- a. een lichaam is waarvan het kapitaal geheel of gedeeltelijk in aandelen is verdeeld en dat inwoner is van de andere Verdragsluitende Staat en onmiddellijk ten minste 10 percent bezit van het kapitaal van het lichaam dat de dividenden betaalt, mits
 
-5. De bepalingen van het tweede en derde lid laten onverlet de belastingheffing van het lichaam ter zake van de winst waaruit de dividenden worden betaald.
+- i. de aandelen van het lichaam dat de dividenden ontvangt regelmatig worden verhandeld op een erkende effectenbeurs; of
 
-6. De uitdrukking „dividenden’’ zoals gebezigd in dit artikel betekent:
+- ii. ten minste 50 percent van de aandelen van het lichaam dat de dividenden ontvangt onmiddellijk of middellijk in bezit is van een of meer natuurlijke personen die inwoner zijn van een van de Verdragsluitende Staten of van een of meer lichamen waarvan de aandelen regelmatig worden verhandeld op een erkende effectenbeurs, maar uitsluitend indien de laatstbedoelde lichamen:
+
+- aa. inwoner zijn van een van de Verdragsluitende Staten; of
+
+- bb. inwoner zijn van een lidstaat van de Europese Unie (EU), van een partij bij de Noord-Amerikaanse Vrijhandelsovereenkomst (NAFTA), van Jamaica of van Trinidad en Tobago en dat lichaam recht zou hebben op voordelen die gelijk zijn aan of gunstiger dan de voordelen uit hoofde van dit lid ingevolge een allesomvattende regeling voor het vermijden van dubbele belasting tussen hun woonstaat en de Verdragsluitende Staat bij welke aanspraak wordt gemaakt op de voordelen van dit lid of uit hoofde van een multilaterale overeenkomst waarbij hun woonstaat en de Verdragsluitende Staat bij welke aanspraak wordt gemaakt op de voordelen van dit lid partij zijn.
+
+- b. een bank of een verzekeringsmaatschappij is die gevestigd is in en als zodanig gereguleerd wordt door het recht van de Verdragsluitende Staat waarvan deze inwoner is;
+
+- c. een Verdragsluitende Staat, een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan is;
+
+- d. een lichaam is waarvan het kapitaal geheel of gedeeltelijk in aandelen is verdeeld en dat inwoner is van de andere Verdragsluitende Staat en onmiddellijk ten minste 10 percent bezit van het kapitaal van het lichaam dat de dividenden betaalt, mits dit lichaam het hoofdkantoor is van een multinationale groep van vennootschappen dat een substantieel deel verzorgt van het algemene toezicht op en de administratie van de groep en dat de onafhankelijke discretionaire bevoegdheden heeft en uitoefent voor het verrichten van deze functies. Een persoon wordt voor dit doel alleen als hoofdkantoor beschouwd indien:
+
+- i. de groep van vennootschappen bestaat uit ondernemingen die inwoner zijn van ten minste vijf landen of vijf regio's van landen en zich aldaar bezighouden met bedrijfsmatige activiteiten en deze bedrijfsmatige activiteiten in elk van de vijf landen (of vijf regio's van landen) ten minste 10 percent van het brutoinkomen van de groep genereren; en
+
+- ii. niet meer dan 50 percent van zijn brutoinkomen afkomstig is uit de Verdragsluitende Staat niet zijnde de Verdragsluitende Staat waarvan het hoofdkantoor inwoner is;
+
+- e. een pensioenfonds is als bedoeld in artikel 4, tweede lid.
+
+4. Indien een lichaam niet aanmerking komt voor de voordelen uit hoofde van het derde lid, kan het er desondanks voor in aanmerking komen wanneer de bevoegde autoriteit van de Verdragsluitende Staat die de voordelen moet toekennen, vaststelt dat het veiligstellen van de voordelen van het derde lid niet het voornaamste doel of een van de voornaamste doelen van de oprichting, verwerving of de instandhouding van het lichaam is.
+
+Deze vaststelling dient te worden gebaseerd op alle feiten en omstandigheden, waaronder:
+
+- a. de aard en de omvang van de werkzaamheden van het lichaam in zijn woonstaat ten opzichte van de aard en de omvang van de dividenden;
+
+- b. de eigendom van het lichaam in het heden en het verleden; en
+
+- c. de zakelijke redenen van het lichaam voor de keuze van zijn woonstaat.
+
+De bevoegde autoriteit van de Verdragsluitende Staat die de voordelen moet toekennen pleegt overleg met de bevoegde autoriteit van de andere Verdragsluitende Staat alvorens de voordelen uit hoofde van dit lid te weigeren.
+
+5. Voor de toepassing van het derde lid wordt verstaan onder „erkende effectenbeurs”:
+
+- a. elke effectenbeurs in de lidstaten van de Europese Unie (EU);
+
+- b. het NASDAQ-systeem en elke effectenbeurs in de Verenigde Staten van Amerika, geregistreerd bij de **U.S. Securities and Exchange Commission** als nationale effectenbeurs voor de toepassing van de **U.S. Securities Exchange Act** van 1934, de **Bolsa Mexicana de Valores**(de Mexicaanse effectenbeurs) en de **Toronto Stock Exchange**;
+
+- c. de **Barbados Stock Exchange**, de **Jamaica Stock Exchange** en de **Trinidad Stock Exchange**; en
+
+- d. elke andere effectenbeurs die de bevoegde autoriteiten van de Verdragsluitende Staten overeenkomen, mits de aankoop of verkoop van aandelen op de effectenbeurs niet impliciet of expliciet is voorbehouden aan een beperkte groep investeerders.
+
+6. De bevoegde autoriteiten van de Verdragsluitende Staten regelen in onderlinge overeenstemming de wijze van toepassing van het tweede, derde en vierde lid.
+
+7. De bepalingen van het tweede, derde en vierde lid laten onverlet de belastingheffing van het lichaam ter zake van de winst waaruit de dividenden worden betaald.
+
+8. De uitdrukking „dividenden” zoals gebezigd in dit artikel betekent:
 
 - a. inkomsten uit aandelen, winstaandelen of winstbewijzen, mijnaandelen, oprichtersaandelen of andere rechten, niet zijnde schuldvorderingen, die aanspraak geven op een aandeel in de winst alsmede inkomsten uit andere vennootschappelijke rechten die door de wetgeving van de Staat waarvan het lichaam dat de uitdeling doet inwoner is, op dezelfde wijze aan de belastingheffing worden onderworpen als inkomsten uit aandelen.
 
-- b. inkomsten die worden ontvangen in verband met de (gedeeltelijke) liquidatie van een lichaam of een inkoop van eigen aandelen door een lichaam.
+- b. inkomsten ontvangen in verband met de (gedeeltelijke) liquidatie van een lichaam of een inkoop van eigen aandelen door een lichaam.
 
-7. De bepalingen van het eerste, tweede, derde en tiende lid zijn niet van toepassing indien de uiteindelijk gerechtigde tot de dividenden, die inwoner is van een Verdragsluitende Staat, in de andere Verdragsluitende Staat waarvan het lichaam dat de dividenden betaalt inwoner is, een bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting of in die andere Staat zelfstandige arbeid verricht vanuit een aldaar gevestigd vast middelpunt en het aandelenbezit uit hoofde waarvan de dividenden worden betaald, tot het bedrijfsvermogen van die vaste inrichting of tot het beroepsvermogen van dat vaste middelpunt behoort. In dat geval zijn de bepalingen van artikel 7 of van artikel 14 naargelang van het geval, van toepassing.
+9. De bepalingen van het eerste, tweede, derde, vierde en twaalfde lid zijn niet van toepassing indien de uiteindelijk gerechtigde tot de dividenden, die inwoner is van een Verdragsluitende Staat, in de andere Verdragsluitende Staat waarvan het lichaam dat de dividenden betaalt inwoner is, een bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting of in die andere Staat zelfstandige arbeid verricht vanuit een aldaar gevestigd vast middelpunt en het aandelenbezit uit hoofde waarvan de dividenden worden betaald, tot het bedrijfsvermogen van die vaste inrichting of tot het beroepsvermogen van dat vaste middelpunt behoort. In dat geval zijn de bepalingen van artikel 7 of van artikel 14, naargelang van het geval, van toepassing.
 
-8. Indien een lichaam dat inwoner is van een Verdragsluitende Staat, voordelen of inkomsten verkrijgt uit de andere Verdragsluitende Staat, mag die andere Staat geen belasting heffen op de dividenden die door het lichaam worden betaald, behalve voor zover deze dividenden worden betaald aan een inwoner van die andere Staat of voor zover het aandelenbezit uit hoofde waarvan de dividenden worden betaald, tot het bedrijfsvermogen van een in die andere Staat gevestigde vaste inrichting of tot het beroepsvermogen van een aldaar gevestigd vast middelpunt behoort, noch de niet-uitgedeelde winst van het lichaam onderwerpen aan een belasting op niet-uitgedeelde winst van het lichaam, zelfs indien de betaalde dividenden of de niet-uitgedeelde winst geheel of gedeeltelijk bestaan uit voordelen of inkomsten die uit die andere Staat afkomstig zijn.
+10. Indien een lichaam dat inwoner is van een Verdragsluitende Staat, voordelen of inkomsten verkrijgt uit de andere Verdragsluitende Staat, mag die andere Staat geen belasting heffen op de dividenden die door het lichaam worden betaald, behalve voor zover deze dividenden worden betaald aan een inwoner van die andere Staat of voor zover het aandelenbezit uit hoofde waarvan de dividenden worden betaald, tot het bedrijfsvermogen van een in die andere Staat gevestigde vaste inrichting of tot het beroepsvermogen van een aldaar gevestigd vast middelpunt behoort, noch de niet-uitgedeelde winst van het lichaam onderwerpen aan een belasting op niet-uitgedeelde winst van het lichaam, zelfs indien de betaalde dividenden of de niet-uitgedeelde winst geheel of gedeeltelijk bestaan uit voordelen of inkomsten die uit die andere Staat afkomstig zijn.
 
-9. Indien een lichaam dat inwoner is van Nederland een vaste inrichting heeft in Barbados en voordelen of inkomsten verkrijgt van die vaste inrichting, zijn de overmakingen van deze voordelen of inkomsten door de vaste inrichting aan het lichaam dat inwoner is van Nederland, onverminderd andere bepalingen van het Verdrag, vrijgesteld van belasting op winsten uit vaste inrichtingen in Barbados indien dergelijke voordelen of inkomsten in Nederland vrijgesteld zijn van belasting.
+11. Indien een lichaam dat inwoner is van Nederland een vaste inrichting heeft in Barbados en voordelen of inkomsten verkrijgt van die vaste inrichting, zijn de overmakingen van deze voordelen of inkomsten door de vaste inrichting aan het lichaam dat inwoner is van Nederland, onverminderd andere bepalingen van het Verdrag, vrijgesteld van belasting op winsten uit vaste inrichtingen in Barbados indien dergelijke voordelen of inkomsten in Nederland vrijgesteld zijn van belasting.
 
-10. Niettegenstaande de bepalingen van het eerste, tweede en achtste lid, mogen dividenden betaald door een lichaam met een in aandelen verdeeld kapitaal, dat volgens de wetgeving van een Staat inwoner is van die Staat, aan een natuurlijke persoon die inwoner is van de andere Staat, in de eerstbedoelde Staat worden belast overeenkomstig de wetgeving van die Staat, indien die natuurlijke persoon – al dan niet tezamen met zijn of haar echtgenoot – dan wel een van hun bloed- of aanverwanten in de rechte lijn onmiddellijk of middellijk ten minste vijf percent bezit van het geplaatste kapitaal van een bepaalde soort aandelen van dat lichaam. Deze bepaling vindt alleen toepassing wanneer de natuurlijke persoon aan wie de dividenden worden betaald in de loop van de laatste tien jaar voorafgaande aan het jaar waarin die dividenden worden betaald inwoner van de eerstbedoelde Staat is geweest en mits op het tijdstip waarop hij inwoner werd van de andere Staat werd voldaan aan de eerdergenoemde voorwaarden ten aanzien van het aandelenbezit in eerdergenoemd lichaam.
+12. Niettegenstaande de bepalingen van het eerste, tweede en tiende lid, mogen dividenden betaald door een lichaam met een in aandelen verdeeld kapitaal, dat volgens de wetgeving van een Staat inwoner is van die Staat, aan een natuurlijke persoon die inwoner is van de andere Staat, in de eerstbedoelde Staat worden belast overeenkomstig de wetgeving van die Staat, indien die natuurlijke persoon – al dan niet tezamen met zijn of haar echtgenoot – dan wel een van hun bloed- of aanverwanten in de rechte lijn onmiddellijk of middellijk ten minste vijf percent bezit van het geplaatste kapitaal van een bepaalde soort van aandelen van dat lichaam. Deze bepaling vindt alleen toepassing wanneer de natuurlijke persoon aan wie de dividenden worden betaald in de loop van de laatste tien jaar voorafgaande aan het jaar waarin die dividenden worden betaald inwoner van de eerstbedoelde Staat is geweest en mits op het tijdstip waarop hij inwoner werd van de andere Staat werd voldaan aan de eerdergenoemde voorwaarden ten aanzien van het aandelenbezit in eerdergenoemd lichaam.
 
 In de gevallen waarin, ingevolge de nationale wetgeving van de eerstbedoelde Staat, aan de natuurlijke persoon aan wie de dividenden worden betaald, een aanslag is opgelegd ter zake van de vorenbedoelde aandelen die geacht worden bij diens emigratie uit eerstbedoelde Staat te zijn vervreemd, geldt het vorenstaande alleen zolang er van deze aanslag nog een bedrag openstaat.
 
@@ -389,13 +433,13 @@ Bijdragen die een inwoner van een Verdragsluitende Staat verricht aan een organi
 
 1. Nederland is bevoegd bij het heffen van belasting van zijn inwoners in de grondslag waarnaar de belasting wordt geheven, de bestanddelen van het inkomen te begrijpen die overeenkomstig de bepalingen van dit Verdrag in Barbados mogen worden belast.
 
-2. Indien echter een inwoner van Nederland bestanddelen van het inkomen verkrijgt die volgens artikel 6, artikel 7, artikel 10, zevende lid, artikel 11, zesde lid, artikel 12, zesde lid, artikel 13, eerste en tweede lid, artikel 14, eerste lid, artikel 15, eerste en derde lid, artikel 18, eerste en tweede lid, artikel 19, eerste lid (onderdeel a) en tweede lid (onderdeel a) en artikel 23, tweede lid, van dit Verdrag in Barbados mogen worden belast en die in de in het eerste lid bedoelde grondslag zijn begrepen, stelt Nederland deze bestanddelen van het inkomen vrij door een vermindering op zijn belasting te verlenen. Deze vermindering wordt berekend overeenkomstig de bepalingen in de Nederlandse wetgeving tot het vermijden van dubbele belasting. Te dien einde worden bedoelde bestanddelen van het inkomen geacht te zijn begrepen in het bedrag van de bestanddelen van het inkomen die ingevolge die bepalingen van Nederlandse belasting zijn vrijgesteld.
+2. Indien echter een inwoner van Nederland bestanddelen van het inkomen verkrijgt die volgens artikel 6, artikel 7, artikel 10, negende lid, artikel 11, zesde lid, artikel 12, zesde lid, artikel 13, eerste en tweede lid, artikel 14, eerste lid, artikel 15, eerste en derde lid, artikel 18, eerste en tweede lid, artikel 19, eerste lid (onderdeel a) en tweede lid (onderdeel a) en artikel 23, tweede lid, van dit Verdrag in Barbados mogen worden belast en die in de in het eerste lid bedoelde grondslag zijn begrepen, stelt Nederland deze bestanddelen van het inkomen vrij door een vermindering op zijn belasting te verlenen. Deze vermindering wordt berekend overeenkomstig de bepalingen in de Nederlandse wetgeving tot het vermijden van dubbele belasting. Te dien einde worden bedoelde bestanddelen van het inkomen geacht te zijn begrepen in het bedrag van de bestanddelen van het inkomen die ingevolge die bepalingen van Nederlandse belasting zijn vrijgesteld.
 
 3. Nederland verleent voorts een aftrek op de aldus berekende Nederlandse belasting voor de bestanddelen van het inkomen die volgens artikel 10, tweede lid, artikel 11, tweede lid, artikel 12, tweede lid, artikel 13, vijfde lid, artikel 16 en artikel 17 van dit Verdrag in Barbados mogen worden belast, in zoverre deze bestanddelen in de in het eerste lid bedoelde grondslag zijn begrepen. Het bedrag van deze aftrek is gelijk aan de in Barbados over deze bestanddelen van het inkomen betaalde belasting, maar bedraagt, indien de bepalingen in de Nederlandse wetgeving tot het vermijden van dubbele belasting daarin voorzien, niet meer dan het bedrag van de aftrek die zou zijn verleend indien de aldus in het inkomen begrepen bestanddelen van het inkomen de enige bestanddelen van het inkomen zouden zijn geweest die uit hoofde van de bepalingen in de Nederlandse wetgeving tot het vermijden van dubbele belasting van Nederlandse belasting zijn vrijgesteld.
 
 Dit lid zal een tegemoetkoming nu of in de toekomst verleend uit hoofde van de bepalingen in de Nederlandse wetgeving tot het vermijden van dubbele belasting niet beperken, echter uitsluitend voor zover het de berekening van het bedrag van de aftrek op de Nederlandse belasting betreft met betrekking tot de som van inkomsten afkomstig uit meer dan een land en de voortwenteling van de belasting betaald in Barbados op bedoelde bestanddelen van het inkomen naar de volgende jaren.
 
-4. Niettegenstaande de bepalingen van het tweede lid, verleent Nederland een aftrek op de Nederlandse belasting voor de in Barbados betaalde belasting op bestanddelen van het inkomen die volgens artikel 7, artikel 10, zevende lid, artikel 11, zesde lid, artikel 12, zesde lid, en artikel 23, tweede lid, van dit Verdrag in Barbados mogen worden belast, voor zover deze bestanddelen in de in het eerste lid bedoelde grondslag zijn begrepen, indien en voor zover Nederland uit hoofde van de bepalingen in de Nederlandse wetgeving tot het vermijden van dubbele belasting een aftrek verleent op de Nederlandse belasting voor de in een ander land over die bestanddelen van het inkomen geheven belasting. Voor de berekening van deze aftrek zijn de bepalingen van het derde lid van dit artikel van overeenkomstige toepassing.
+4. Niettegenstaande de bepalingen van het tweede lid, verleent Nederland een aftrek op de Nederlandse belasting voor de in Barbados betaalde belasting op bestanddelen van het inkomen die volgens artikel 7, artikel 10, negende lid, artikel 11, zesde lid, artikel 12, zesde lid, en artikel 23, tweede lid, van dit Verdrag in Barbados mogen worden belast, voor zover deze bestanddelen in de in het eerste lid bedoelde grondslag zijn begrepen, indien en voor zover Nederland uit hoofde van de bepalingen in de Nederlandse wetgeving tot het vermijden van dubbele belasting een aftrek verleent op de Nederlandse belasting voor de in een ander land over die bestanddelen van het inkomen geheven belasting. Voor de berekening van deze aftrek zijn de bepalingen van het derde lid van dit artikel van overeenkomstige toepassing.
 
 5. Dubbele belasting wordt in Barbados als volgt vermeden:
 
@@ -447,7 +491,7 @@ Voor de toepassing van dit lid:
 
 4. De bepalingen van het tweede lid mogen niet zodanig worden uitgelegd dat zij Barbados beletten tegen de tarieven opgenomen in de Income Tax Act belasting te heffen:
 
-- a. op winsten uit vaste inrichtingen, tenzij artikel 10, negende lid, van toepassing is; en
+- a. op winsten uit vaste inrichtingen, tenzij artikel 10, elfde lid, van toepassing is; en
 
 - b. op het premie-inkomen van niet-ingezeten verzekeraars of van buitenlandse verzekeringsmaatschappijen.
 
@@ -475,17 +519,23 @@ Voor de toepassing van dit lid:
 
 ##### Artikel 28. Uitwisseling van inlichtingen
 
-1. De bevoegde autoriteiten van de Verdragsluitende Staten wisselen de inlichtingen uit die naar verwachting nodig zijn voor het uitvoeren van de bepalingen van dit Verdrag of van de nationale wetgeving met betrekking tot belastingen van elke soort en benaming die namens de Verdragsluitende Staten, of de staatkundige onderdelen of plaatselijke publiekrechtelijke lichamen daarvan, worden opgelegd, voor zover de belastingheffing uit hoofde daarvan niet in strijd is met het Verdrag. De uitwisseling van informatie wordt niet beperkt door de artikelen 1 en 2. Alle door een Verdragsluitende Staat ontvangen inlichtingen worden op dezelfde wijze geheim gehouden als inlichtingen die volgens de nationale wetgeving van die Staat zijn verkregen en worden alleen ter kennis gebracht van personen of autoriteiten (daaronder begrepen rechterlijke instanties en administratiefrechtelijke lichamen) die betrokken zijn bij de vaststelling of invordering van, de tenuitvoerlegging of vervolging ter zake van, of de beslissing in beroepszaken betrekking hebbende op de belastingen bedoeld in de eerste volzin. Deze personen of autoriteiten mogen van de inlichtingen alleen voor deze doeleinden gebruik maken. Zij mogen de inlichtingen bekendmaken in openbare rechtszittingen of in rechterlijke beslissingen.
+1. De bevoegde autoriteiten van de Verdragsluitende Staten wisselen de inlichtingen uit die naar verwachting relevant zijn voor het uitvoeren van de bepalingen van dit Verdrag of voor de toepassing of handhaving van de nationale wetgeving met betrekking tot belastingen van elke soort en benaming die namens de Verdragsluitende Staten, of de staatkundige onderdelen of plaatselijke publiekrechtelijke lichamen daarvan, worden opgelegd, voor zover de belastingheffing uit hoofde daarvan niet in strijd is met het Verdrag. De uitwisseling van inlichtingen wordt niet beperkt door de artikelen 1 en 2.
 
-2. De Verdragsluitende Staten kunnen aan de arbitragecommissie, ingesteld volgens de bepalingen van artikel 27, vijfde lid, de inlichtingen verstrekken die nodig zijn om de arbitrageprocedure uit te voeren. Op deze verstrekking van inlichtingen zijn de bepalingen van het derde lid van dit artikel van toepassing. De leden van de arbitragecommissie zijn met betrekking tot de aldus verstrekte inlichtingen onderworpen aan de beperkingen van openbaarmaking als omschreven in het eerste lid van dit artikel.
+2. Alle uit hoofde van het eerste lid door een Verdragsluitende Staat ontvangen inlichtingen worden op dezelfde wijze geheim gehouden als inlichtingen die volgens de nationale wetgeving van die Staat zijn verkregen en worden alleen ter kennis gebracht van personen of autoriteiten (daaronder begrepen rechterlijke instanties en administratiefrechtelijke lichamen) die betrokken zijn bij de vaststelling of invordering van, de tenuitvoerlegging of vervolging ter zake van, of de beslissing in beroepszaken betrekking hebbende op de in het eerste lid bedoelde belastingen, of het toezicht daarop. Deze personen of autoriteiten mogen van de inlichtingen alleen voor deze doeleinden gebruikmaken. Zij mogen de inlichtingen bekendmaken in openbare rechtszittingen of in gerechtelijke beslissingen.
 
-3. In geen geval worden de bepalingen van het eerste lid zo uitgelegd dat zij een Verdragsluitende Staat de verplichting opleggen:
+3. De Verdragsluitende Staten kunnen aan de arbitragecommissie, ingesteld volgens de bepalingen van artikel 27, vijfde lid, de inlichtingen verstrekken die nodig zijn om de arbitrageprocedure uit te voeren. De leden van de arbitragecommissie zijn met betrekking tot de aldus verstrekte inlichtingen onderworpen aan de beperkingen van openbaarmaking als omschreven in het tweede lid van dit artikel.
 
-- a. bestuurlijke maatregelen te nemen die in strijd zijn met de wetgeving of bestuurlijke praktijk van die of van de andere Verdragsluitende Staat;
+4. In geen geval worden de bepalingen van de voorgaande leden zo uitgelegd dat zij een Verdragsluitende Staat de verplichting opleggen:
+
+- a. bestuurlijke maatregelen te nemen die in strijd zijn met de wetgeving en bestuurlijke praktijk van die of van de andere Verdragsluitende Staat;
 
 - b. inlichtingen te verstrekken die niet verkrijgbaar zijn volgens de wetgeving of in de normale gang van zaken in het bestuur van die of van de andere Verdragsluitende Staat;
 
 - c. inlichtingen te verstrekken die een handels-, bedrijfs-, nijverheids-, commercieel of beroepsgeheim of een fabrieks- of handelswerkwijze zouden onthullen, dan wel inlichtingen waarvan het verstrekken in strijd zou zijn met de openbare orde (ordre public).
+
+5. Indien inlichtingen worden verzocht door een Verdragsluitende Staat in overeenstemming met dit artikel, wendt de andere Verdragsluitende Staat zijn maatregelen inzake het verzamelen van inlichtingen aan om de verzochte inlichtingen te verkrijgen, ongeacht het feit dat de andere Staat ten behoeve van zijn eigen belastingheffing niet over dergelijke inlichtingen behoeft te beschikken. Op de in de vorige volzin vervatte verplichting zijn de beperkingen van het vierde lid van toepassing, maar deze beperkingen mogen in geen geval zodanig worden uitgelegd dat het een Verdragsluitende Staat toegestaan is uitsluitend op grond van het feit dat hij geen nationaal belang heeft bij dergelijke inlichtingen te weigeren inlichtingen te verstrekken.
+
+6. De bepalingen van het vierde lid mogen in geen geval zodanig worden uitgelegd dat het een Verdragsluitende Staat toegestaan is het verschaffen van inlichtingen te weigeren uitsluitend op grond van het feit dat de inlichtingen berusten bij een bank, een andere financiële instelling, een gevolmachtigde, of een persoon die bij wijze van vertegenwoordiging of als vertrouwenspersoon optreedt, dan wel omdat deze betrekking hebben op eigendomsbelangen in een persoon.
 
 ##### Artikel 29. Leden van diplomatieke vertegenwoordigingen en consulaire posten
 
@@ -565,9 +615,9 @@ Het is wel te verstaan dat de omstandigheid dat gelieerde ondernemingen overeenk
 
 Niettegenstaande de bepalingen van artikel 10, tweede lid, heft de Verdragsluitende Staat waarvan het lichaam inwoner is geen belasting over door dat lichaam betaalde dividenden, indien de uiteindelijk gerechtigde tot de dividenden een pensioenfonds is als bedoeld in artikel 4, tweede lid.
 
-##### IX. Ad artikel 10, zesde lid, en artikel 11, vijfde lid
+##### IX. Ad artikel 10, achtste lid, en artikel 11, vijfde lid
 
-Niettegenstaande artikel 10, zesde lid, en artikel 11, vijfde lid, is het wel te verstaan dat inkomsten uit schuldvorderingen worden beschouwd als dividenden, mits en met gepaste aandacht voor artikel 9 van dit Verdrag, de wetgeving van de Verdragsluitende Staat waaruit deze inkomsten afkomstig zijn deze inkomsten op dezelfde wijze aan belastingheffing onderwerpt als inkomsten uit aandelen.
+Niettegenstaande artikel 10, achtste lid, en artikel 11, vijfde lid, is het wel te verstaan dat inkomsten uit schuldvorderingen worden beschouwd als dividenden, mits en met gepaste aandacht voor artikel 9 van dit Verdrag, de wetgeving van de Verdragsluitende Staat waaruit deze inkomsten afkomstig zijn deze inkomsten op dezelfde wijze aan belastingheffing onderwerpt als inkomsten uit aandelen.
 
 ##### X. Ad artikel 19
 
