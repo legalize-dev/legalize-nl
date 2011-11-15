@@ -4,7 +4,7 @@ identifier: "BWBR0030627"
 country: "nl"
 rank: "amvb"
 publication_date: "2011-11-15"
-last_updated: "2010-04-01"
+last_updated: "2011-11-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030627"
 soort: "AMvB"
@@ -48,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit vergoedingen rechtsbijstand 2000.
 
 ##### Artikel II
 
@@ -56,6 +56,8 @@ Op piketrechtsbijstand, verleend vóór de inwerkingtreding van dit besluit, waa
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+1. Dit besluit treedt in werking met ingang van 15 november 2011. Indien dit besluit op of na 15 november 2011 in het Staatsblad wordt geplaatst, treedt het in werking met ingang van de dag na datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
+
+2. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0030627&artikel=II&z=2011-11-15&g=2011-11-15) werkt terug tot en met 1 april 2010.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
