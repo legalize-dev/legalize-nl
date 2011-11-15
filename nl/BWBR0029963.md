@@ -4,7 +4,7 @@ identifier: "BWBR0029963"
 country: "nl"
 rank: "wet"
 publication_date: "2014-01-01"
-last_updated: "2011-10-12"
+last_updated: "2011-11-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029963"
 soort: "wet"
@@ -61,7 +61,17 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+1. Na de inwerkingtreding van [artikel I, onderdelen FF en II](https://wetten.overheid.nl/jci1.3:c:BWBR0029963&artikel=I&z=2011-11-15&g=2011-11-15) van deze wet, kunnen tot het tijdstip van inwerkingtreding van artikel I, onderdelen GG en JJ, van deze wet, certificaten van bekwaamheid voor de veiligheidsfunctie van machinist, voor wat betreft de gradaties machinist met volledige bevoegdheid en machinist met beperkte bevoegdheid worden afgegeven overeenkomstig het bij of krachtens de [Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007) bepaalde, zoals dat bepaalde luidde voor de inwerkingtreding van artikel I, onderdelen FF en II van deze wet.
+
+2. De certificaten van bekwaamheid, bedoeld in het eerste lid, blijven geldig.
+
+3. De certificaten van bekwaamheid voor de veiligheidsfunctie van machinist, voor wat betreft de gradaties machinist met volledige bevoegdheid en machinist met beperkte bevoegdheid, die voor de inwerkingtreding van [artikel I, onderdelen FF en II](https://wetten.overheid.nl/jci1.3:c:BWBR0029963&artikel=I&z=2011-11-15&g=2011-11-15) van deze wet, zijn afgegeven, worden gelijkgesteld met beoordelingen van Onze Minister waaruit blijkt dat hij voldoet aan:
+
+- a. de krachtens [artikel 49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=49), vastgestelde eisen inzake algemene kennis en vaardigheden voor de veiligheidsfunctie van machinist met volledige bevoegdheid respectievelijk van machinist met beperkte bevoegdheid, en
+
+- b. de krachtens [artikel 49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=49), vastgestelde eisen inzake specifieke vakkennis inzake de spoorvoertuigen en de hoofdspoorweginfrastructuur waarop een bevoegdheidsbewijs betrekking kan hebben voor de veiligheidsfunctie van machinist met volledige bevoegdheid respectievelijk van machinist met beperkte bevoegdheid.
+
+4. Het derde lid is van overeenkomstige toepassing op de certificaten van bekwaamheid, bedoeld in het eerste lid.
 
 ##### Artikel VI
 
