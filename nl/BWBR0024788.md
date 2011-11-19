@@ -4,7 +4,7 @@ identifier: "BWBR0024788"
 country: "nl"
 rank: "wet"
 publication_date: "2024-07-01"
-last_updated: "2010-09-01"
+last_updated: "2011-11-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024788"
 soort: "wet"
@@ -75,7 +75,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - b. een vaste vergoeding voor de kosten van voorzieningen die voor eigen rekening van de in het eerste lid genoemde functionarissen komen en door hen mede worden aangewend ten behoeve van de vervulling van hun ambt.
 
-3. Onder de in het tweede lid, onder a, bedoelde voorzieningen zijn in ieder geval begrepen die met betrekking tot verhuizing, informatie en communicatie, binnenlandse en buitenlandse dienstreizen en vervoer.
+3. In de in het tweede lid bedoelde algemene maatregel van bestuur kan worden bepaald dat in deze algemene maatregel van bestuur opgenomen bedragen bij ministeriële regeling kunnen worden gewijzigd op een in deze algemene maatregel van bestuur aangegeven wijze.
+
+4. Onder de in het tweede lid, onder a, bedoelde voorzieningen zijn in ieder geval begrepen die met betrekking tot verhuizing, informatie en communicatie, binnenlandse en buitenlandse dienstreizen en vervoer.
 
 ##### Artikel 4
 
