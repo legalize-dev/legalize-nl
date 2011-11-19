@@ -4,7 +4,7 @@ identifier: "BWBR0030652"
 country: "nl"
 rank: "wet"
 publication_date: "2011-11-19"
-last_updated: "2010-03-24"
+last_updated: "2011-11-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030652"
 soort: "wet"
@@ -50,7 +50,7 @@ Wijzigt de Algemene pensioenwet politieke ambtsdragers.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Gemeentewet.
 
 ##### Artikel III
 
@@ -58,15 +58,15 @@ Wijzigt de Waterschapswet.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet gemeenschappelijke regelingen.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet rechtspositie ministers en staatssecretarissen.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet rechtspositie Raad van State, Algemene Rekenkamer en Nationale ombudsman.
 
 ##### Artikel VII
 
@@ -78,22 +78,32 @@ Wijzigt de Wet schadeloosstelling, uitkering en pensioen leden Europees Parlemen
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wijzigingswet Wet schadeloosstelling, uitkering en pensioen leden Europees Parlement (totstandkoming Statuut leden Europees Parlement)(Stb. 2009/37).
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wijzigingswet Algemene pensioenwet politieke ambtsdragers, enz. (harmonisatie uitkeringsrechten en onder werking van Algemene pensioenwet politieke ambtsdragers brengen van commissarissen van de Koning, burgemeesters en bestuurders van waterschappen).
 
 ##### Artikel XI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet vergoedingen leden Eerste Kamer.
 
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
+
+2. [Artikel I, onderdelen H, I, K, L, M, O en P](https://wetten.overheid.nl/jci1.3:c:BWBR0030652&artikel=I&z=2011-11-19&g=2011-11-19), werkt terug tot en met 31 december 2008.
+
+3. [Artikel I, onderdelen Q en R](https://wetten.overheid.nl/jci1.3:c:BWBR0030652&artikel=I&z=2011-11-19&g=2011-11-19), werkt terug tot en met 27 februari 2010.
+
+4. [Artikel III, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0030652&artikel=III&z=2011-11-19&g=2011-11-19), werkt terug tot en met 10 maart 2010.
+
+5. De [artikelen VII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0030652&artikel=VII&z=2011-11-19&g=2011-11-19), en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0030652&artikel=VIII&z=2011-11-19&g=2011-11-19) werken terug tot en met 24 maart 2010.
+
+6. In afwijking van het eerste lid treedt [artikel I, onderdeel W](https://wetten.overheid.nl/jci1.3:c:BWBR0030652&artikel=I&z=2011-11-19&g=2011-11-19), in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel XIII
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Wet aanpassing Appa en enkele andere wetten 2011.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
