@@ -4,7 +4,7 @@ identifier: "BWBR0029264"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-12-21"
-last_updated: "2011-10-29"
+last_updated: "2011-11-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029264"
 soort: "ministeriele-regeling"
@@ -188,7 +188,9 @@ Besluit:
 |   | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) (IOP’s) | 3.2 | Maritiem (Offshore) | 31-01-2011 t/m 25-02-2011 | 1.375.000 |
 | 6 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) (IOP’s) | 3.2 | Self healing materials | 2-4-2012 t/m 11-5-2012 | 4.100.000 |
 | 7 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) (IOP’s) | 3.2 | Photonic devices | 26-3-2012 t/m 20-4-2012 | 4.750.000 |
+| 7 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855) (innovatieprestatiecontracten) | 4.18 |   | 22/11/2011–17/1/2012 | 17.500.000 |
 | 8 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902) (veiligheid kleine bedrijven) | 9.7 |   | 01-02-2011 t/m 01-06-2012 | 7.000.000 |
+|   |   |   |   |   |   |
 
 ##### Artikel 3
 
