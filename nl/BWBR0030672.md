@@ -4,7 +4,7 @@ identifier: "BWBR0030672"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2009-01-01"
+last_updated: "2011-11-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030672"
 soort: "ministeriele-regeling"
@@ -76,11 +76,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-De blijvende toelage bedraagt 100% van de berekeningsbasis die voor de desbetreffende maand dan wel maanden van toepassing is. In afwijking van de eerste zin blijft, bij overgang van de aflopende toelage in de blijvende toelage, bedoeld in [artikel 15, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=15), laatstgenoemde toelage bepaald op het percentage van de berekeningsbasis dat voor de berekening van de aflopende toelage, ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030672&artikel=2&z=2011-11-24&g=2009-01-01), laatstelijk voor hem van toepassing was.
+De blijvende toelage bedraagt 100% van de berekeningsbasis die voor de desbetreffende maand dan wel maanden van toepassing is. In afwijking van de eerste zin blijft, bij overgang van de aflopende toelage in de blijvende toelage, bedoeld in [artikel 15, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=15), laatstgenoemde toelage bepaald op het percentage van de berekeningsbasis dat voor de berekening van de aflopende toelage, ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030672&artikel=2&z=2011-11-24&g=2011-11-24), laatstelijk voor hem van toepassing was.
 
 ##### Artikel 4
 
-De toelagen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030672&artikel=2&z=2011-11-24&g=2009-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0030672&artikel=3&z=2011-11-24&g=2009-01-01), worden maandelijks verminderd met de operationele toelage waarop de betrokken ambtenaar tijdens de overgangsperiode aanspraak heeft.
+De toelagen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030672&artikel=2&z=2011-11-24&g=2011-11-24) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0030672&artikel=3&z=2011-11-24&g=2011-11-24), worden maandelijks verminderd met de operationele toelage waarop de betrokken ambtenaar tijdens de overgangsperiode aanspraak heeft.
 
 ##### Artikel 5
 
@@ -96,9 +96,9 @@ Het veranderen van functie binnen de overgangsperiode bij een blijvende verlagin
 
 1. Aflopende en blijvende toelagen, die zijn toegekend onder de [Regeling aflopende toelage inconveniëntentoelage en toelage onregelmatige dienst politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006817) vallen vanaf 1 januari 2009 onder deze regeling.
 
-2. De resterende overgangsperiode van een aflopende toelage als bedoeld in het eerste lid, wordt berekend door de verhouding van het aantal maanden waarop nog recht zou bestaan op afbouw gedeeld door de totale overgangsperiode ingevolge de in het eerste lid genoemde regeling te vermenigvuldigen met de totale overgangsperiode, berekend met inachtneming van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030672&artikel=2&z=2011-11-24&g=2009-01-01) van deze regeling.
+2. De resterende overgangsperiode van een aflopende toelage als bedoeld in het eerste lid, wordt berekend door de verhouding van het aantal maanden waarop nog recht zou bestaan op afbouw gedeeld door de totale overgangsperiode ingevolge de in het eerste lid genoemde regeling te vermenigvuldigen met de totale overgangsperiode, berekend met inachtneming van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030672&artikel=2&z=2011-11-24&g=2011-11-24) van deze regeling.
 
-3. De hoogte van een aflopende of blijvende toelage als bedoeld in het eerste lid wordt herberekend met inachtneming van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030672&artikel=2&z=2011-11-24&g=2009-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0030672&artikel=3&z=2011-11-24&g=2009-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0030672&artikel=4&z=2011-11-24&g=2009-01-01), met dien verstande dat die berekeningswijze slechts van toepassing is op het deel van de totale overgangsperiode, dat gelegen is op en na 1 januari 2009.
+3. De hoogte van een aflopende of blijvende toelage als bedoeld in het eerste lid wordt herberekend met inachtneming van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030672&artikel=2&z=2011-11-24&g=2011-11-24), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0030672&artikel=3&z=2011-11-24&g=2011-11-24) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0030672&artikel=4&z=2011-11-24&g=2011-11-24), met dien verstande dat die berekeningswijze slechts van toepassing is op het deel van de totale overgangsperiode, dat gelegen is op en na 1 januari 2009.
 
 ##### Artikel 8
 
