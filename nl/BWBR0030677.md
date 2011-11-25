@@ -4,7 +4,7 @@ identifier: "BWBR0030677"
 country: "nl"
 rank: "wet"
 publication_date: "2011-11-25"
-last_updated: "2011-08-01"
+last_updated: "2011-11-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030677"
 soort: "wet"
@@ -54,6 +54,6 @@ In afwijking van [artikel 1, eerste lid, onder i](https://wetten.overheid.nl/jci
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst met uitzondering van de [onderdelen A, onder 1, 2 en 3, B, C, D, F en I van artikel I, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030677&artikel=I&z=2011-11-25&g=2011-11-25), en van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0030677&artikel=II&z=2011-11-25&g=2011-11-25), die in werking treden met ingang van 1 augustus 2011. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven op of na de datum van 1 augustus 2011, dan treden deze onderdelen in werking met ingang van de dag na de datum van uitgifte van dat Staatsblad en werken zij terug tot en met 1 augustus 2011.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
