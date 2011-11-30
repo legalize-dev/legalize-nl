@@ -4,7 +4,7 @@ identifier: "BWBV0002346"
 country: "nl"
 rank: "verdrag"
 publication_date: "2021-05-27"
-last_updated: "2008-05-20"
+last_updated: "2011-11-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0002346"
 soort: "verdrag"
@@ -332,6 +332,84 @@ Om ervoor te zorgen dat de vereiste formaliteiten aan de grensposten worden gest
 ##### Artikel 7. Verslaggeving
 
 Met betrekking tot de artikelen 1 tot en met 6 van deze bijlage verricht de uitvoerend secretaris van de Economische Commissie voor Europa van de Verenigde Naties (VN/ECE) om de twee jaar bij de overeenkomstsluitende partijen een onderzoek naar de vorderingen die zijn gemaakt om de grensprocedures in hun landen te verbeteren.
+
+DONE at Geneva, this twenty-first day of October one thousand nine hundred and eighty-two, in a single original, of which the English, French, Russian and Spanish texts are equally authentic.
+
+IN WITNESS WHEREOF, the undersigned plenipotentiaries, being duly authorized thereto, have signed this Convention.
+
+##### Artikel 1. Beginselen
+
+1. Deze bijlage, die de bepalingen van de Overeenkomst aanvult, is bedoeld om de maatregelen te omschrijven die dienen te worden genomen ter vereenvoudiging en bespoediging van de grensoverschrijding voor internationale spoorvracht.
+
+2. De overeenkomstsluitende partijen verplichten zich tot samenwerking teneinde de formaliteiten en vereisten ter zake van documenten en procedures op alle gebieden die verband houden met het goederenvervoer per spoor zo veel mogelijk te standaardiseren.
+
+##### Artikel 2. Begripsomschrijving
+
+Onder „grens(overgangs)station” wordt verstaan een spoorwegstation waar operationele of administratieve procedures worden uitgevoerd om een grensoverschrijding van spoorvracht mogelijk te maken. Dit spoorwegstation kan zich op of nabij de grens bevinden.
+
+##### Artikel 3. Grensoverschrijding door functionarissen en andere personen betrokken bij het internationale spoorvervoer
+
+1. De overeenkomstsluitende partijen streven ernaar de procedures voor het verstrekken van visa aan de bemanningen van locomotieven en koeleenheden, personen die vrachten begeleiden en personeel in grens(overgangs)stations die betrokken zijn bij internationaal spoorvervoer in overeenstemming met de beste nationale praktijken voor alle aanvragers van visa te vereenvoudigen.
+
+2. De procedure voor grensoverschrijding door de personen genoemd in het eerste lid, met inbegrip van de officiële documenten ter bevestiging van hun status, wordt vastgesteld op grond van bilaterale overeenkomsten.
+
+3. Indien een gezamenlijke controle wordt uitgevoerd maken de functionarissen van de grenscontrole, douane en andere instanties die controles uitvoeren bij grens(overgangs)stations bij de uitoefening van hun officiële taken voor het overschrijden van de staatsgrens gebruik van de documenten die de overeenkomstsluitende partijen verlangen van hun onderdanen.
+
+##### Artikel 4. Vereisten voor grens(overgangs)stations
+
+Teneinde de vereiste formaliteiten bij grens(overgangs)stations doeltreffender te maken en te bespoedigen nemen de overeenkomstsluitende partijen de volgende minimumvereisten in acht voor grens(overgangs)stations die toegankelijk zijn voor internationaal vrachtvervoer per spoor:
+
+- 1. grens(overgangs)stations bestaan uit gebouwen (lokalen), installaties, faciliteiten en technische uitrusting die de uitvoering van dagelijkse en voortdurende controles mogelijk maken, indien dit gerechtvaardigd wordt door en past bij het volume van het vrachtvervoer;
+
+- 2. grens(overgangs)stations waar fytosanitaire, veterinaire en andere controles worden uitgevoerd zijn voorzien van technische uitrusting;
+
+- 3. de draag- en verkeerscapaciteit van grens(overgangs)stations en aangrenzende sporen moeten toereikend zijn voor het verkeersvolume;
+
+- 4. er moeten inspectiezones beschikbaar zijn alsmede opslagplaatsen voor de tijdelijke opslag van goederen onder douanetoezicht of andere vormen van controle;
+
+- 5. er moeten uitrusting, faciliteiten, informatietechnologie en communicatiesystemen beschikbaar zijn om de voorafgaande uitwisseling van informatie mogelijk te maken, onder meer over goederen die grens(overgangs)stations naderen, zoals vervat in de spoorvrachtbrief en douaneverklaring;
+
+- 6. bij de grens(overgangs)stations moet voldoende gekwalificeerd personeel van de spoorwegen, douane, grenscontrole en andere instanties beschikbaar zijn ten behoeve van de behandeling van de desbetreffende vrachtvolumes;
+
+- 7. bij de grens(overgangs)stations moeten technische uitrusting, faciliteiten, informatietechnologie en communicatiesystemen beschikbaar zijn waarmee voorafgaand aan de aankomst van rollend materieel aan de grens gegevens kunnen worden ontvangen en gebruikt betreffende de technische goedkeuring en technische inspecties van het rollend materieel binnen het kader van hun bevoegdheden verricht door de autoriteiten en spoorwegen, tenzij de overeenkomstsluitende partijen alternatieve regelingen treffen voor de uitvoering van deze taken.
+
+##### Artikel 5. Samenwerking tussen buurlanden bij grens(overgangs)stations
+
+In overeenstemming met de bepalingen van [artikel 7 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0002346&hoofdstuk=II&artikel=7&z=2011-11-30&g=2011-11-30), stemmen de overeenkomstsluitende partijen maatregelen met elkaar af ter zake van de controle van rollend materieel, containers, platte draagwagens voor opleggers en goederen alsmede de verwerking van transport- en begeleidende documenten en spannen zij zich in alle vormen van gezamenlijke controles te regelen op basis van bilaterale overeenkomsten.
+
+##### Artikel 6. Controles
+
+De overeenkomstsluitende partijen:
+
+- 1. stellen een mechanisme vast voor de wederzijdse erkenning van alle vormen van controle van rollend materieel, containers, platte draagwagens voor opleggers en goederen, mits de doelen ervan met elkaar overeenstemmen;
+
+- 2. verrichten douanecontroles uitgaande van het beginsel van selectie op basis van risico-evaluatie en -beheer. Indien de nodige informatie over de goederen is verstrekt en indien de goederen zich bevinden in of op een naar behoren gesloten en verzegelde treinwagon, container, platte draagwagen voor oplegger of wagon, vindt in de regel geen fysieke inspectie plaats;
+
+- 3. verrichten vereenvoudigde controles uit bij grens(overgangs)stations en laten indien mogelijk bepaalde vormen van controle verrichten bij de stations van vertrek en aankomst;
+
+- 4. verrichten onverminderd [artikel 10 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0002346&hoofdstuk=III&artikel=10&z=2011-11-30&g=2011-11-30), [artikel 4 van bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002346&bijlage=2&artikel=4&z=2011-11-30&g=2011-11-30), [artikel 5 van bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0002346&bijlage=3&artikel=5&z=2011-11-30&g=2011-11-30) en [artikel 5 van bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBV0002346&bijlage=4&artikel=5&z=2011-11-30&g=2011-11-30) inspecties van goederen in transit uitsluitend in gevallen waarin dat vanwege de feitelijke omstandigheden of risico’s nodig is.
+
+##### Artikel 7. Termijnen
+
+1. De overeenkomstsluitende partijen zien erop toe dat de termijnen omschreven in bilaterale overeenkomsten voor technische operaties ter zake van de ontvangst en overdracht van treinen bij grens(overgangs)stations, met inbegrip van alle soorten controles, worden nageleefd en trachten deze termijnen te bekorten door verbetering van de gebruikte technologie en uitrusting.
+
+De overeenkomstsluitende partijen verplichten zich de termijnen de komende jaren maximaal in te korten.
+
+2. De overeenkomstsluitende partijen registreren vertragingen van treinen of wagons bij grens(overgangs)stations en zenden de informatie aan de betrokken partijen die vervolgens analyses verrichten en maatregelen voorstellen ter beperking van de vertragingen.
+
+##### Artikel 8. Documenten
+
+1. De overeenkomstsluitende partijen zien erop toe dat de transport- en begeleidende documenten naar behoren worden geformuleerd in overeenstemming met de wetgeving van de importerende en transitlanden.
+
+2. De overeenkomstsluitende partijen spannen zich in om papieren documenten te beperken en de documentatieprocedures te vereenvoudigen door gebruik te maken van elektronische systemen voor de uitwisseling van informatie die overeenkomt met de informatie vervat in de begeleidende vrachtbrieven voor spoorvervoer en douaneaangiften bij de goederen die zijn opgesteld in overeenstemming met de wetgeving van de overeenkomstsluitende partijen.
+
+3. De overeenkomstsluitende partijen spannen zich in om de douaneautoriteiten vooraf te voorzien van informatie over goederen die aankomen bij de grens(overgangs)stations zoals vervat in de vrachtbrief voor spoorvervoer en douaneaangifte.
+
+Het model, de procedure en de termijnen voor het verstrekken van de informatie worden vastgesteld door de overeenkomstsluitende partijen.
+
+##### Artikel 9. Gebruik van de CIM/SMGS-vrachtbrief voor spoorvervoer
+
+De overeenkomstsluitende partijen kunnen in plaats van de thans door internationale verdragen vereiste andere transportdocumenten gebruikmaken van de CIM/SMGS-vrachtbrief voor spoorvervoer die tevens een douanedocument kan zijn.
 
 DONE at Geneva, this twenty-first day of October one thousand nine hundred and eighty-two, in a single original, of which the English, French, Russian and Spanish texts are equally authentic.
 
