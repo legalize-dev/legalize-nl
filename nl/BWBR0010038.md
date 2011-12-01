@@ -4,7 +4,7 @@ identifier: "BWBR0010038"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-12-01"
-last_updated: "2009-06-19"
+last_updated: "2011-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010038"
 soort: "ministeriele-regeling"
@@ -69,7 +69,9 @@ De volgende nummers in een door de Minister van Economische Zaken op grond van [
 
 - f. nummers voor virtual private networks;
 
-- g. nummers voor telexdiensten.
+- g. nummers voor telexdiensten;
+
+- h. nummers uit de 0970-serie.
 
 ##### Artikel 3
 
