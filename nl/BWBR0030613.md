@@ -4,7 +4,7 @@ identifier: "BWBR0030613"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-04-01"
-last_updated: "2011-11-01"
+last_updated: "2011-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030613"
 soort: "ministeriele-regeling"
@@ -62,15 +62,35 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-Dit onderdeel is nog niet inwerking getreden
+1. Een vermoeden als bedoeld in [artikel 130, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=130) wordt gebaseerd op feiten of omstandigheden als genoemd in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&bijlage=1&z=2011-12-01&g=2011-12-01).
+
+2. Indien een vermoeden als bedoeld in het eerste lid wordt gebaseerd op het gestelde in de bij deze regeling behorende [bijlage 1, onder B, onderdeel III](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&bijlage=1&z=2011-12-01&g=2011-12-01), ‘Drogerende stoffen Alcohol’, dient betrokkene bij minimaal één feit bestuurder te zijn geweest van een motorrijtuig waarvoor een rijbewijs is vereist.
 
 ##### Artikel 3
 
-Dit onderdeel is nog niet inwerking getreden
+1. Feiten of omstandigheden als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=1&artikel=2&z=2011-12-01&g=2011-12-01) kunnen blijken uit:
+
+- a. eigen waarneming en gegevens afkomstig van de politie;
+
+- b. gegevens afkomstig van de officier van justitie, of
+
+- c. door de politie nagetrokken gegevens uit andere bron.
+
+2. Feiten of omstandigheden als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=1&artikel=2&z=2011-12-01&g=2011-12-01) kunnen voor zover het de geschiktheid betreft bovendien blijken uit:
+
+- a. gegevens door de directeur verkregen in het kader van aanvragen van verklaringen van geschiktheid als bedoeld in [artikel 97 van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=97);
+
+- b. gegevens, door de directeur van een arts verkregen, of
+
+- c. gegevens, door de directeur uit andere bron verkregen.
+
+3. Het meest recente feit, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=1&artikel=2&z=2011-12-01&g=2011-12-01), is ten tijde van de mededeling niet langer dan zes maanden geleden geconstateerd. Indien het een mededeling betreft van de officier van justitie inzake [bijlage 1, onder IV](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&bijlage=1&z=2011-12-01&g=2011-12-01), dient de mededeling uiterlijk binnen zes maanden nadat de laatste afdoening onherroepelijk is geworden, te worden gedaan. Een uitzondering is slechts mogelijk, indien in de aard van de zaak gelegen omstandigheden dit rechtvaardigen.
 
 ##### Artikel 4
 
-Dit onderdeel is nog niet inwerking getreden
+1. De mededeling, bedoeld in [artikel 130, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=130) kan schriftelijk worden gedaan volgens het model, opgenomen in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&bijlage=2&z=2011-12-01&g=2011-12-01), of op andere wijze, mits daarbij dezelfde gegevens als in dat model worden vermeld. Hieronder wordt tevens verstaan aanlevering via geautomatiseerde systemen, dan wel via digitale gegevensdragers.
+
+2. De in [artikel 130, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=130) bedoelde toezending aan het CBR van een ingevorderd rijbewijs geschiedt bij aangetekende brief.
 
 #### § 2. Vordering tot overgifte van het rijbewijs en schorsing geldigheid
 
@@ -104,17 +124,17 @@ Een vordering tot overgifte van het rijbewijs, bedoeld in [artikel 130, tweede l
 
 - m. ten aanzien van betrokkene is binnen een periode van vijf jaar ten minste vier maal proces-verbaal opgemaakt op verdenking van overtreding van [artikel 8, tweede, derde of vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8), waarbij de laatste overtreding moet zijn begaan als houder van een rijbewijs;
 
-- n. betrokkene heeft drie maal als beginnende bestuurder een of meer van de in [bijlage 1, onderdeel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&bijlage=1&z=2012-06-06&g=2011-11-01), opgenomen feiten begaan en voor deze feiten is hij tijdens of na de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=1&artikel=1&z=2012-06-06&g=2011-11-01), onder beginnende bestuurder, genoemde termijn onherroepelijk veroordeeld, dan wel is voor deze feiten tijdens of na die termijn ten aanzien van hem een onherroepelijke strafbeschikking uitgevaardigd;
+- n. betrokkene heeft drie maal als beginnende bestuurder een of meer van de in [bijlage 1, onderdeel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&bijlage=1&z=2011-12-01&g=2011-12-01), opgenomen feiten begaan en voor deze feiten is hij tijdens of na de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=1&artikel=1&z=2011-12-01&g=2011-12-01), onder beginnende bestuurder, genoemde termijn onherroepelijk veroordeeld, dan wel is voor deze feiten tijdens of na die termijn ten aanzien van hem een onherroepelijke strafbeschikking uitgevaardigd;
 
 - o. ten aanzien van betrokkene is tijdens de duur van het alcoholslotprogramma proces-verbaal opgemaakt op verdenking van overtreding van [artikel 8, derde juncto vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8) of [artikel 9, negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=9).
 
 ##### Artikel 6
 
-Dit onderdeel is nog niet inwerking getreden
+In de gevallen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=2&artikel=5&z=2011-12-01&g=2011-12-01), schorst het CBR overeenkomstig [artikel 131, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=131) de geldigheid van het rijbewijs voor een of meer categorieën van motorrijtuigen, tenzij een educatieve maatregel als bedoeld in artikel 131, eerste lid, onderdeel a, van de wet wordt opgelegd of het rijbewijs ongeldig wordt verklaard op grond van [artikel 132b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132b).
 
 #### § 3. Lichte educatieve maatregel alcohol en verkeer
 
-#### § 4. Educatieve maatregel alcohol en verkeer
+#### § 3. Lichte educatieve maatregel alcohol en verkeer
 
 #### § 5. Educatieve maatregel gedrag en verkeer
 
@@ -124,7 +144,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 #### § 8. Ongeldigverklaring van het rijbewijs
 
-#### § 9. Slotbepalingen
+#### § 4. Educatieve maatregel alcohol en verkeer
 
 ## Bijlage 1. bij de Regeling maatregelen rijvaardigheid en geschiktheid 2011
 
@@ -648,43 +668,3 @@ Invordering als bedoeld in [artikel 130, tweede en derde lid, van de Wegenverkee
 **Overige:**
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-betrokkene is staande gehouden of aangehouden onder invloed van drogerende stoffen.
-
-## Bijlage 2. bij de Regeling maatregelen rijvaardigheid en geschiktheid 2011
-
-### Model mededeling
-
-Ons kenmerk:
-
-### Mededeling als bedoeld in [artikel 130, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=130)
-
-Categorie(ën): /.. / ../.. /
-
-### Datum feit of feiten
-
-**Overige:**
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-#### § 6. Lichte educatieve maatregel gedrag en verkeer
-
-#### § 7. Onderzoeken
-
-#### § 8. Ongeldigverklaring van het rijbewijs
-
-#### § 9. Slotbepalingen
-
-## Bijlage. bij de Regeling maatregelen rijvaardigheid en geschiktheid 2011
-
-Feiten dan wel omstandigheden, die een vermoeden rechtvaardigen dat betrokkene niet langer beschikt over de vereiste rijvaardigheid voor het besturen van een of meer categorieën van motorrijtuigen waarvoor een rijbewijs is afgegeven, dan wel, met uitzondering van de categorie AM, over de vereiste lichamelijke of geestelijke geschiktheid voor het besturen van motorrijtuigen waarvoor een rijbewijs is afgegeven:
-
-### IV. Herhaaldelijk niet of niet op de juiste wijze naleven van essentiële verkeersregels dan wel verkeerstekens
-
-In de hoedanigheid van beginnende bestuurder, onverminderd het overigens in deze bijlage bepaalde, twee maal een of meer van de navolgende feiten hebben begaan waarvoor hij tijdens of na de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=1&artikel=1&z=2023-04-01&g=2023-04-01), onder beginnende bestuurder, genoemde termijn onherroepelijk is veroordeeld, tenzij voor het feit in eerste instantie een strafbeschikking als bedoeld in [artikel 257b van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257b) is uitgevaardigd, dan wel indien voor deze feiten tijdens of na die termijn ten aanzien van hem een onherroepelijk geworden strafbeschikking als bedoeld in [artikel 257a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257a) is uitgevaardigd:
-
-### Andere drogerende stoffen of een combinatie van drogerende stoffen
