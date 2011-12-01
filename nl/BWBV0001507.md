@@ -4,7 +4,7 @@ identifier: "BWBV0001507"
 country: "nl"
 rank: "verdrag"
 publication_date: "2013-07-01"
-last_updated: "2009-12-01"
+last_updated: "2011-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001507"
 soort: "verdrag"
@@ -7620,9 +7620,9 @@ Hij ziet erop toe dat deze richtlijnen worden opgevolgd.
 
 - b. hij stelt, ter ﬁne van artikel 9, lid 1, vast volgens welke beginselen ﬁnancieringsverrichtingen door de Bank in het kader van haar taak geschieden;
 
-- c. hij oefent de bevoegdheden uit welke in de artikelen 9 en [11](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=11&z=2009-12-01&g=2009-12-01) voor de benoeming en het ambtshalve ontslaan der leden van de Raad van bewind en van de directie, alsmede in artikel 11, lid 1, tweede alinea, zijn genoemd;
+- c. hij oefent de bevoegdheden uit welke in de artikelen 9 en [11](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=11&z=2011-12-01&g=2011-12-01) voor de benoeming en het ambtshalve ontslaan der leden van de Raad van bewind en van de directie, alsmede in artikel 11, lid 1, tweede alinea, zijn genoemd;
 
-- d. hij besluit overeenkomstig [artikel 16, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=16&z=2009-12-01&g=2009-12-01), tot ﬁnanciering van investeringsverrichtingen die geheel of gedeeltelijk buiten het grondgebied van de lidstaten zullen worden gedaan;
+- d. hij besluit overeenkomstig [artikel 16, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=16&z=2011-12-01&g=2011-12-01), tot ﬁnanciering van investeringsverrichtingen die geheel of gedeeltelijk buiten het grondgebied van de lidstaten zullen worden gedaan;
 
 - e. hij keurt het door de Raad van bewind opgestelde jaarverslag goed;
 
@@ -8576,9 +8576,31 @@ In dit Protocol wordt onder „de Verdragen” verstaan het Verdrag betreffende 
 
 ##### Artikel 2
 
-Tijdig vóór de verkiezingen voor het Europees Parlement van 2009 stelt de Europese Raad, overeenkomstig artikel 14, lid 2, tweede alinea, van het Verdrag betreffende de Europese Unie, een besluit inzake de samenstelling van het Europees Parlement vast.
+1. Voor de resterende duur van de zittingsperiode 2009-2014 vanaf de datum van inwerkingtreding van dit artikel, en in afwijking van de [artikelen 189, tweede alinea](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=189), en [190, lid 2, van het Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=190) en van de [artikelen 107, tweede alinea](https://wetten.overheid.nl/jci1.3:c:BWBV0004033&artikel=107), en [108, lid 2, van het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004033&artikel=108), die van kracht waren ten tijde van de verkiezingen voor het Europees Parlement van juni 2009, en in afwijking van het aantal zetels waarin is voorzien in artikel 14, lid 2, eerste alinea, van het Verdrag betreffende de Europese Unie, worden de volgende 18 zetels toegevoegd aan de huidige 736 zetels, waardoor het totaal aantal leden van het Europees Parlement tijdelijk op 754 wordt gebracht tot het einde van de zittingsperiode 2009-2014:
 
-Tot het einde van de zittingsperiode 2004-2009 blijven de samenstelling en het aantal leden van het Europees Parlement die welke bestonden bij de inwerkingtreding van het Verdrag van Lissabon.
+| Bulgarije | 1 |
+| --- | --- |
+| Spanje | 4 |
+| Frankrijk | 2 |
+| Italië | 1 |
+| Letland | 1 |
+| Malta | 1 |
+| Nederland | 1 |
+| Oostenrijk | 2 |
+| Polen | 1 |
+| Slovenië | 1 |
+| Zweden | 2 |
+| Verenigd Koninkrijk | 1 |
+
+2. In afwijking van artikel 14, lid 3, van het Verdrag betreffende de Europese Unie, dragen de betrokken lidstaten de personen voor die de in lid 1 bedoelde extra zetels zullen bezetten, overeenkomstig het recht van de betrokken lidstaten en op voorwaarde dat deze personen in rechtstreekse algemene verkiezingen zijn verkozen,
+
+- a). in een ad hoc georganiseerde rechtstreekse algemene verkiezing in de betrokken lidstaat, overeenkomstig de toepasselijke bepalingen voor de verkiezingen voor het Europees Parlement;
+
+- b). als resultaat van de verkiezingen voor het Europees Parlement van 4 tot en met 7 juni 2009; of
+
+- c). door voordracht, door het nationaal parlement van de betrokken lidstaat uit zijn midden, van het vereiste aantal leden, volgens de door elk van die lidstaten vastgestelde procedure.
+
+3. Tijdig vóór de verkiezingen voor het Europees Parlement van 2014 stelt de Europese Raad, overeenkomstig artikel 14, lid 2, tweede alinea, van het Verdrag betreffende de Europese Unie, een besluit inzake de samenstelling van het Europees Parlement vast.
 
 ## TITEL II. BEPALINGEN INZAKE DE GEKWALIFICEERDE MEERDERHEID
 
