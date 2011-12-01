@@ -4,7 +4,7 @@ identifier: "BWBR0027867"
 country: "nl"
 rank: "wet"
 publication_date: "2011-12-01"
-last_updated: "2011-06-01"
+last_updated: "2011-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027867"
 soort: "wet"
@@ -50,27 +50,27 @@ Wijzigt de Wegenverkeerswet 1994.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Onze minister zendt binnen drie jaar na inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet bestuursrecht.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet rijonderricht motorrijtuigen 1993.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Mededelingen die zijn gebaseerd op een of meer overtredingen van het bij of krachtens de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622) of de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581) strafbaar gestelde die zijn geconstateerd vóór de datum van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0027867&artikel=I&z=2011-12-01&g=2011-12-01) van deze wet, worden behandeld overeenkomstig de bepalingen zoals die golden voor de inwerkingtreding van artikel I.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wijzigingswet Wegenverkeerswet 1994 (invoering bromfietsrijbewijs).
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt deze wet.
 
 ##### Artikel VIII
 
@@ -78,6 +78,8 @@ Wijzigt deze wet.
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+1. [Artikel I, onderdelen A, derde tot en met vijfde lid, en Fa tot en met Fh](https://wetten.overheid.nl/jci1.3:c:BWBR0027867&artikel=I&z=2011-12-01&g=2011-12-01), treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
+
+2. De overige artikelen treden in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
