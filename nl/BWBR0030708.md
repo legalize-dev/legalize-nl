@@ -285,35 +285,3 @@ Voor de centrale examens v.m.b.o. 2015 worden syllabi voor de volgende vakken va
 **algemene vakken:**
 
 aardrijkskunde.
-
-## Bijlage 2b
-
-Vervallen
-
-## Bijlage 3
-
-### Preliminaire vaststelling syllabi v.m.b.o. 2015
-
-Voor de centrale examens v.m.b.o. 2015 worden syllabi voor de volgende vakken vastgesteld:
-
-**algemene vakken:**
-
-## Bijlage 1b
-
-Vervallen
-
-## Bijlage 1c
-
-Vervallen
-
-## Bijlage 2a
-
-Vervallen
-
-## Bijlage 2b
-
-Vervallen
-
-## Bijlage 3
-
-### Preliminaire vaststelling syllabi v.m.b.o. 2015
