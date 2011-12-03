@@ -4,7 +4,7 @@ identifier: "BWBR0016185"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2009-08-01"
+last_updated: "2011-12-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016185"
 soort: "wet"
@@ -48,9 +48,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-1. Onder onderscheid wordt in deze wet verstaan: onderscheid op grond van leeftijd of op grond van andere hoedanigheden of gedragingen dat onderscheid op grond van leeftijd tot gevolg heeft.
+In deze wet wordt verstaan onder:
 
-2. Onder onderscheid wordt mede begrepen de opdracht tot het maken van onderscheid.
+- a. onderscheid: direct en indirect onderscheid, alsmede de opdracht daartoe;
+
+- b. direct onderscheid: indien een persoon op grond van leeftijd op een andere wijze wordt behandeld dan een ander in een vergelijkbare situatie wordt, is of zou worden behandeld;
+
+- c. indirect onderscheid: indien een ogenschijnlijk neutrale bepaling, maatstaf of handelwijze personen met een bepaalde leeftijd in vergelijking met andere personen bijzonder treft.
 
 #### Intimidatie
 
@@ -120,7 +124,7 @@ Onderscheid is verboden bij het lidmaatschap van of de betrokkenheid bij een wer
 
 - c. anderszins objectief gerechtvaardigd is door een legitiem doel en de middelen voor het bereiken van dat doel passend en noodzakelijk zijn.
 
-2. Het eerste lid is niet van toepassing in geval van intimidatie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016185&paragraaf=1&artikel=2&z=2009-08-01&g=2009-08-01).
+2. Het eerste lid is niet van toepassing in geval van intimidatie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016185&paragraaf=1&artikel=2&z=2011-12-03&g=2011-12-03).
 
 #### Pensioenen
 
@@ -150,7 +154,7 @@ Het is verboden om personen te benadelen wegens het feit dat zij in of buiten re
 
 ##### Artikel 11
 
-1. Beëindiging van de arbeidsverhouding door de werkgever in strijd met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016185&paragraaf=2&artikel=3&z=2009-08-01&g=2009-08-01), is vernietigbaar.
+1. Beëindiging van de arbeidsverhouding door de werkgever in strijd met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016185&paragraaf=2&artikel=3&z=2011-12-03&g=2011-12-03), is vernietigbaar.
 
 2. Beëindiging van de arbeidsverhouding door de werkgever vanwege het feit dat in of buiten rechte een beroep is gedaan op deze wet of terzake bijstand is verleend, is vernietigbaar.
 
