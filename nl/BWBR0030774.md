@@ -4,7 +4,7 @@ identifier: "BWBR0030774"
 country: "nl"
 rank: "pbo"
 publication_date: "2011-12-11"
-last_updated: "2010-01-01"
+last_updated: "2011-12-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030774"
 soort: "pbo"
@@ -70,7 +70,7 @@ Besluit:
 
 ##### Artikel 3
 
-1. Ter uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030774&paragraaf=2&artikel=2&z=2011-12-04&g=2010-01-01) doet de ondernemer bij het productschap aangifte van de door hem aangekochte bloemkwekerijproducten in het betreffende kalenderjaar.
+1. Ter uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030774&paragraaf=2&artikel=2&z=2011-12-04&g=2011-12-04) doet de ondernemer bij het productschap aangifte van de door hem aangekochte bloemkwekerijproducten in het betreffende kalenderjaar.
 
 2. De opgave, als bedoeld in het eerste lid, wordt gedaan op een door het productschap te verstrekken aangifteformulier of via elektronische aangifte, met inachtneming van de daarop gestelde vragen en gegeven aanwijzingen.
 
@@ -111,9 +111,9 @@ Indien uit ter beschikking gekomen gegevens blijkt dat de verstrekking van de ge
 
 ##### Artikel 8
 
-1. Indien een ondernemer aantoont dat hij aangekochte bloemkwekerijproducten geheel of gedeeltelijk door tussenkomst van de Nederlandse veiling heeft verhandeld en dat over deze transactie reeds een voorschot aan de veiling is betaald, wordt dit betaalde voorschot in mindering gebracht op de berekende heffing ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030774&paragraaf=3&artikel=5&z=2011-12-04&g=2010-01-01).
+1. Indien een ondernemer aantoont dat hij aangekochte bloemkwekerijproducten geheel of gedeeltelijk door tussenkomst van de Nederlandse veiling heeft verhandeld en dat over deze transactie reeds een voorschot aan de veiling is betaald, wordt dit betaalde voorschot in mindering gebracht op de berekende heffing ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030774&paragraaf=3&artikel=5&z=2011-12-04&g=2011-12-04).
 
-2. In de in het eerste lid bedoelde situatie wordt op de ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030774&paragraaf=3&artikel=5&z=2011-12-04&g=2010-01-01) over veilingtransacties berekende heffing een korting toegepast ter hoogte van 5%.
+2. In de in het eerste lid bedoelde situatie wordt op de ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030774&paragraaf=3&artikel=5&z=2011-12-04&g=2011-12-04) over veilingtransacties berekende heffing een korting toegepast ter hoogte van 5%.
 
 ##### Artikel 9
 
