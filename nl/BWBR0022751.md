@@ -4,7 +4,7 @@ identifier: "BWBR0022751"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2011-01-01"
+last_updated: "2011-12-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022751"
 soort: "wet"
@@ -64,21 +64,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. Het kindgebonden budget bedraagt voor een berekeningsjaar:
 
-- a. indien de ouder aanspraak heeft voor één kind : € 1011,–;
+- a. indien de ouder aanspraak heeft voor één kind : € 1017,–;
 
-- b. indien de ouder aanspraak heeft voor twee kinderen: € 1322,– per 1 januari 2011: € 1466,–;
+- b. indien de ouder aanspraak heeft voor twee kinderen: € 1478,–;
 
-- c. indien de ouder aanspraak heeft voor drie kinderen: € 1505,– per 1 januari 2011: € 1826,–;
+- c. indien de ouder aanspraak heeft voor drie kinderen: € 1661,–;
 
-- d. indien de ouder aanspraak heeft voor vier kinderen: € 1611,– per 1 januari 2011: € 2110,–;
-
-- e. indien de ouder aanspraak heeft voor meer dan vier kinderen: € 1611,–per 1 januari 2011: € 2110,–, verhoogd met zoveel maal € 51,– per 1 januari 2011: € 189,–als het aantal kinderen meer bedraagt dan vier.
+- d. indien de ouder aanspraak heeft voor meer dan drie kinderen: € 1661,–, verhoogd met zoveel maal € 106,– als het aantal kinderen meer bedraagt dan drie.
 
 3. Een ouder heeft aanspraak op een verhoging van het kindgebonden budget in een berekeningsjaar voor een kind met ingang van de kalendermaand na de maand waarin dat kind de leeftijd van 12 jaar heeft bereikt.
 
-4. Voor een kind dat 12 jaar of ouder is, maar jonger is dan 16 jaar bedraagt de verhoging van het kindgebonden budget bij een gezamenlijk toetsingsinkomen van de ouder en zijn partner van niet meer dan € 28 413, € 226.
+4. Voor een kind dat 12 jaar of ouder is, maar jonger is dan 16 jaar bedraagt de verhoging van het kindgebonden budget € 226.
 
-5. Voor een kind dat 16 of 17 jaar is, bedraagt de verhoging van het kindgebonden budget met ingang van de kalendermaand na de maand waarin het kind de leeftijd van 16 jaar heeft bereikt bij een gezamenlijk toetsingsinkomen van die ouder en zijn partner van niet meer dan € 28 413, € 290.
+5. Voor een kind dat 16 of 17 jaar is, bedraagt de verhoging van het kindgebonden budget met ingang van de kalendermaand na de maand waarin het kind de leeftijd van 16 jaar heeft bereikt € 290.
 
 6. Bij een gezamenlijk toetsingsinkomen van de ouder en zijn partner van meer dan € 28 413 wordt de som van de bedragen waarop recht bestaat op grond van het tweede, vierde en vijfde lid verminderd met 7,6% van het verschil tussen het gezamenlijke toetsingsinkomen en € 28 413.
 
@@ -90,11 +88,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 3. Wijziging bedragen
 
-1. Bij het begin van het kalenderjaar worden de bedragen, genoemd in de [artikelen 2, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2011-01-01&g=2011-01-01) en het bedrag van het gezamenlijke toetsingsinkomen, bedoeld in [artikel 2, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2011-01-01&g=2011-01-01) bij ministeriële regeling gewijzigd overeenkomstig de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2).
+1. Bij het begin van het kalenderjaar worden de bedragen, genoemd in de [artikelen 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1&z=2011-12-08&g=2011-12-08), en [2, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2011-12-08&g=2011-12-08), en het bedrag van het gezamenlijke toetsingsinkomen, bedoeld in artikel 2, zesde lid, bij ministeriële regeling gewijzigd overeenkomstig de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2).
 
 2. Indien er aanleiding is om de bedragen, bedoeld in het eerste lid, te verhogen op een andere wijze dan op grond van het eerste lid, worden de bedragen vastgesteld bij algemene maatregel van bestuur.
 
-3. De overeenkomstig het eerste en tweede lid aangepaste bedragen treden in de plaats van de bedragen, genoemd in [artikel 2, tweede, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2011-01-01&g=2011-01-01).
+3. De overeenkomstig het eerste en tweede lid aangepaste bedragen treden in de plaats van de bedragen, genoemd in de [artikelen 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1&z=2011-12-08&g=2011-12-08), en [2, tweede, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2011-12-08&g=2011-12-08).
 
 4. Indien een verhoging als bedoeld in het tweede lid wordt toegepast, vindt deze verhoging plaats nadat het eerste lid toepassing heeft gevonden.
 
@@ -116,9 +114,13 @@ wordt geacht een aanvraag als bedoeld in [artikel 15 van de Algemene wet inkomen
 
 3. Voor de toepassing van [artikel 16, eerste en tweede lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=16) wordt in het geval, bedoeld in het tweede lid, de aanvraag geacht te zijn gedaan op het moment waarop de Belastingdienst/Toeslagen bekend is geworden dat de ouder aanspraak heeft op een kindgebonden budget.
 
-##### Artikel 6. Overgangsbepaling aanvraag
+##### Artikel 6. Overgangsbepaling integratie [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438)
 
-Degene bij wie in het jaar 2006 bij de vaststelling van de verschuldigde inkomstenbelasting op grond van [artikel 2.7 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.7) kinderkorting in aanmerking is genomen en die voor het berekeningsjaar niet in aanmerking komt voor een andere tegemoetkoming waarvan de uitvoering is opgedragen aan de Belastingdienst/Toeslagen, wordt geacht voor het jaar 2008 een aanvraag te hebben gedaan als bedoeld in [artikel 15 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=15). Voor de toepassing van [artikel 16, eerste en tweede lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=16) wordt in dat geval de aanvraag geacht te zijn gedaan op 1 oktober 2007.
+1. De bedragen, genoemd in [artikel 2, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2011-12-08&g=2011-12-08), en het bedrag van het gezamenlijk toetsingsinkomen, bedoeld in [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2011-12-08&g=2011-12-08), worden voor het berekeningsjaar 2009 aangepast overeenkomstig de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2).
+
+2. De overeenkomstig het eerste lid voor het berekeningsjaar 2009 aangepaste bedragen treden in de plaats van de bedragen, genoemd in [artikel 2, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2011-12-08&g=2011-12-08).
+
+3. De verhoging van het kindgebonden budget, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2011-12-08&g=2011-12-08), heeft betrekking op berekeningsjaren vanaf het jaar 2010.
 
 ##### Artikel 6a. Overgangsbepaling integratie [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438)
 
@@ -128,9 +130,9 @@ Degene bij wie in het jaar 2006 bij de vaststelling van de verschuldigde inkomst
 
 3. De verhoging van het kindgebonden budget, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2011-01-01&g=2011-01-01), heeft betrekking op berekeningsjaren vanaf het jaar 2010.
 
-##### Artikel 7. Niet-indexeren bedragen in berekeningsjaren 2010 en 2011
+##### Artikel 7. Niet-indexeren bedragen in berekeningsjaren 2010 tot en met 2015
 
-Bij het begin van het jaar 2010 en 2011 worden de bedragen, genoemd in [artikel 2, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2011-01-01&g=2011-01-01), en het bedrag van het gezamenlijke toetsingsinkomen, bedoeld in artikel 2, vierde, vijfde en zesde lid, voor de berekeningsjaren 2010 en 2011 niet gewijzigd overeenkomstig [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=3&z=2011-01-01&g=2011-01-01).
+Bij het begin van het jaar 2010 tot en met 2015 worden de bedragen, genoemd in [artikel 2, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2011-12-08&g=2011-12-08), en het bedrag van het gezamenlijke toetsingsinkomen, bedoeld in artikel 2, zesde lid, voor de berekeningsjaren 2010 tot en met 2015 niet gewijzigd overeenkomstig [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=3&z=2011-12-08&g=2011-12-08).
 
 ##### Artikel 8. Wijziging van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
 
@@ -153,5 +155,7 @@ Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
 ##### Artikel 12. Citeertitel
 
 Deze wet wordt aangehaald als: Wet op het kindgebonden budget.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
