@@ -4,7 +4,7 @@ identifier: "BWBR0033114"
 country: "nl"
 rank: "wet"
 publication_date: "2013-07-01"
-last_updated: "2001-01-01"
+last_updated: "2011-12-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033114"
 soort: "wet"
@@ -55,7 +55,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV. Wijziging van de [Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op het kindgebonden budget.
 
 ##### Artikel V. Wijziging van de [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
 
@@ -100,11 +100,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XII. Citeertitel
 
 Dit onderdeel is nog niet inwerking getreden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om het aantal uitzonderingsbepalingen in enkele socialezekerheidswetten terug te brengen en deze wetten te vereenvoudigen om zo de kosten gemoeid met de uitvoering te verlagen en tegelijkertijd de transparantie, de doelmatigheid en eigen verantwoordelijkheid voor de burger te bevorderen.
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
