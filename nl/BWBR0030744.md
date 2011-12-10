@@ -4,7 +4,7 @@ identifier: "BWBR0030744"
 country: "nl"
 rank: "wet"
 publication_date: "2011-12-10"
-last_updated: "2011-04-08"
+last_updated: "2011-12-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030744"
 soort: "wet"
@@ -43,8 +43,6 @@ Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 Alzo Wij in overweging genomen hebben, dat het omwille van een evenwichtige belastingheffing en mede om budgettaire redenen wenselijk is een tussenregeling in te voeren voor positieve valutaresultaten op deelnemingen;
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Werkt terug tot 17:00 uur.
 
 ##### Artikel I
 
