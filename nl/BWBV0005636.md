@@ -4,7 +4,7 @@ identifier: "BWBV0005636"
 country: "nl"
 rank: "verdrag"
 publication_date: "2011-12-12"
-last_updated: "2004-06-26"
+last_updated: "2011-12-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005636"
 soort: "verdrag"
@@ -166,9 +166,9 @@ Voor de toepassing van deze overeenkomst gelden de volgende definities:
 
 Tenzij anders bepaald heeft deze overeenkomst betrekking op alle door de partijen getroffen maatregelen met betrekking tot civiele satellietnavigatie- en -tijdsbepalingssignalen en aanbieders daarvan, civiele satellietnavigatie- en -tijdsbepalingsdiensten en aanbieders daarvan, augmentaties, diensten met toegevoegde waarde en aanbieders van diensten met toegevoegde waarde, en goederen voor wereldwijde navigatie en tijdsbepaling.
 
-De beschikbaarstelling van militaire satellietnavigatie en -tijdsbepalingsdiensten valt buiten het bestek van deze overeenkomst, behalve voor wat betreft het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=4&z=2004-06-26&g=2004-06-26) met betrekking tot frequentiecompatibiliteit, in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=11&z=2004-06-26&g=2004-06-26) en in de bijlage bij deze overeenkomst.
+De beschikbaarstelling van militaire satellietnavigatie en -tijdsbepalingsdiensten valt buiten het bestek van deze overeenkomst, behalve voor wat betreft het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=4&z=2011-12-12&g=2011-12-12) met betrekking tot frequentiecompatibiliteit, in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=11&z=2011-12-12&g=2011-12-12) en in de bijlage bij deze overeenkomst.
 
-De beveiligde gouvernementele diensten vallen buiten het bestek van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=5&z=2004-06-26&g=2004-06-26) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=6&z=2004-06-26&g=2004-06-26), [artikel 8, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=8&z=2004-06-26&g=2004-06-26), en [artikel 10, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=10&z=2004-06-26&g=2004-06-26).
+De beveiligde gouvernementele diensten vallen buiten het bestek van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=5&z=2011-12-12&g=2011-12-12) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=6&z=2011-12-12&g=2011-12-12), [artikel 8, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=8&z=2011-12-12&g=2011-12-12), en [artikel 10, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=10&z=2011-12-12&g=2011-12-12).
 
 ##### Artikel 4. Interoperabiliteit en frequentiecompatibiliteit
 
@@ -178,7 +178,7 @@ De beveiligde gouvernementele diensten vallen buiten het bestek van de [artikele
 
 3. De partijen komen bovendien overeen dat GPS en Galileo zo veel mogelijk interoperabel dienen te zijn voor niet-militaire gebruikers. Teneinde deze interoperabiliteit mogelijk te maken en het gecombineerd gebruik van beide systemen te bevorderen, komen de partijen overeen hun geodetische referentieframes zo veel mogelijk in overeenstemming te brengen met het International Terrestrial Reference System. De partijen komen voorts overeen de tijd-offset tussen het Galileo- en het GPS-systeem met de navigatieberichten van hun respectieve diensten mee te zenden, zoals beschreven in het document „GPS/Galileo Time Offset Preliminary Interface Definition”, waarnaar in de bijlage wordt verwezen.
 
-4. De partijen komen overeen dat de uit hoofde van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=13&z=2004-06-26&g=2004-06-26) opgerichte werkgroep voor frequentiecompatibiliteit en interoperabiliteit de reeds aangevangen werkzaamheden zal voortzetten teneinde onder meer het volgende te bereiken:
+4. De partijen komen overeen dat de uit hoofde van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=13&z=2011-12-12&g=2011-12-12) opgerichte werkgroep voor frequentiecompatibiliteit en interoperabiliteit de reeds aangevangen werkzaamheden zal voortzetten teneinde onder meer het volgende te bereiken:
 
 - a. behoud van de frequentiecompatibiliteit bij de modernisering of evolutie van elk van beide systemen (de partijen dienen de frequentiecompatibiliteit van Galileo en GPS III nader te onderzoeken);
 
@@ -204,7 +204,7 @@ De partijen komen overeen elkaar te raadplegen alvorens eventuele maatregelen te
 
 2. De partijen bevestigen dat maatregelen ten aanzien van goederen en diensten in verband met civiele satellietnavigatie- en -tijdsbepalingssignalen of -diensten, augmentaties en diensten met toegevoegde waarde niet worden gebruikt als een verhulde beperking of een onnodige belemmering van de internationale handel.
 
-3. De uit hoofde van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=13&z=2004-06-26&g=2004-06-26) opgerichte werkgroep voor handel en civiele toepassingen buigt zich onder meer over non-discriminatie en andere voor de handel relevante kwesties in verband met civiele satellietnavigatie- en -tijdsbepalingssignalen of -diensten, augmentaties, diensten met toegevoegde waarde en goederen voor wereldwijde navigatie en tijdsbepaling, met inbegrip van de mogelijkheden voor aanvullende afspraken in bilateraal of multilateraal verband.
+3. De uit hoofde van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=13&z=2011-12-12&g=2011-12-12) opgerichte werkgroep voor handel en civiele toepassingen buigt zich onder meer over non-discriminatie en andere voor de handel relevante kwesties in verband met civiele satellietnavigatie- en -tijdsbepalingssignalen of -diensten, augmentaties, diensten met toegevoegde waarde en goederen voor wereldwijde navigatie en tijdsbepaling, met inbegrip van de mogelijkheden voor aanvullende afspraken in bilateraal of multilateraal verband.
 
 ##### Artikel 7. Vrije toegang tot civiele satellietnavigatie- en tijdsbepalingssignalen
 
@@ -246,7 +246,7 @@ Deze overeenkomst heeft in generlei opzicht invloed op de intellectuele-eigendom
 
 7. De partijen komen overeen gebruik te maken van de gemeenschappelijke basismodulatie voor de open dienst van Galileo en het signaal voor civiel gebruik van het toekomstige GPS III (standaardplaatsbepalingsdienst) als beschreven in de bijlage. De partijen werken onafgebroken samen om die modulatie voor hun respectieve systemen te optimaliseren. Indien de ene partij in het kader van de in de leden 5 en 6 beschreven procedure haar modulatie voor de open dienst van Galileo of het signaal voor civiel gebruik van het toekomstige GPS III wijzigt of uitbreidt, is de andere partij niet gehouden haar eigen modulatie eveneens te wijzigen of uit te breiden.
 
-8. De partijen komen overeen in het kader van de uit hoofde van [artikel 13, lid 2, onder d)](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=13&z=2004-06-26&g=2004-06-26), opgerichte werkgroep voor beveiligingsvraagstukken studie te maken van de middelen voor de bescherming van de beveiligde gouvernementele dienst in het licht van de verenigbaarheid met de nationale veiligheid.
+8. De partijen komen overeen in het kader van de uit hoofde van [artikel 13, lid 2, onder d)](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=13&z=2011-12-12&g=2011-12-12), opgerichte werkgroep voor beveiligingsvraagstukken studie te maken van de middelen voor de bescherming van de beveiligde gouvernementele dienst in het licht van de verenigbaarheid met de nationale veiligheid.
 
 ##### Artikel 12. De opsporings- en reddingsdiensten van GPS en Galileo
 
@@ -264,7 +264,7 @@ Zowel Galileo- als de toekomstige generaties van GPS-satellieten voorzien in een
 
 - c. een werkgroep voor de bevordering van de samenwerking bij het ontwerp en de ontwikkeling van de volgende generatie civiele satellietnavigatie- en -tijdsbepalingssystemen;
 
-- d. Een werkgroep voor beveiligingsvraagstukken in verband met GPS en Galileo, met inbegrip van de informatie-uitwisseling over mogelijke toepassingen voor de beveiligde gouvernementele diensten en de interactie tussen de respectieve signalen daarvan. Deze groep buigt zich tevens over de vaststelling van de bijzonderheden van de kennisgevings- en overlegprocedure als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=11&z=2004-06-26&g=2004-06-26), evenals over mogelijke interfaces.
+- d. Een werkgroep voor beveiligingsvraagstukken in verband met GPS en Galileo, met inbegrip van de informatie-uitwisseling over mogelijke toepassingen voor de beveiligde gouvernementele diensten en de interactie tussen de respectieve signalen daarvan. Deze groep buigt zich tevens over de vaststelling van de bijzonderheden van de kennisgevings- en overlegprocedure als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=11&z=2011-12-12&g=2011-12-12), evenals over mogelijke interfaces.
 
 3. De partijen kunnen elke uit hoofde van lid 1 opgerichte werkgroep desgewenst een taakomschrijving meegeven.
 
@@ -292,7 +292,7 @@ Elke partij draagt zelf de kosten die zij maakt in verband met de uitoefening va
 
 1. Eventuele geschillen die ontstaan op grond van of in verband met de voorwaarden, interpretatie of toepassing van deze overeenkomst worden opgelost door middel van overleg.
 
-2. Vertegenwoordigers van de Raad van de Europese Unie en de Europese Commissie enerzijds en van de Verenigde Staten anderzijds komen wanneer nodig bijeen voor de in lid 1, [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=5&z=2004-06-26&g=2004-06-26), [artikel 10, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=10&z=2004-06-26&g=2004-06-26), en [artikel 11, leden 5 en 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=11&z=2004-06-26&g=2004-06-26), bedoelde vormen van overleg.
+2. Vertegenwoordigers van de Raad van de Europese Unie en de Europese Commissie enerzijds en van de Verenigde Staten anderzijds komen wanneer nodig bijeen voor de in lid 1, [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=5&z=2011-12-12&g=2011-12-12), [artikel 10, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=10&z=2011-12-12&g=2011-12-12), en [artikel 11, leden 5 en 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=11&z=2011-12-12&g=2011-12-12), bedoelde vormen van overleg.
 
 3. Deze overeenkomst doet in generlei opzicht afbreuk aan het recht van de partijen om een beroep te doen op de geschillenregeling in het kader van de [WTO-regelingen](https://wetten.overheid.nl/jci1.3:c:BWBV0001160).
 
