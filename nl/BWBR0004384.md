@@ -4,7 +4,7 @@ identifier: "BWBR0004384"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-02-22"
-last_updated: "2011-03-13"
+last_updated: "2011-12-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004384"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ De registerloods is verplicht de premie volgens het door het bestuur van de Stic
 
 - 3. De algemene raad draagt kandidaat vertegenwoordigers zodanig voor aan de ledenvergadering van de Nederlandse Loodsencorporatie, dat steeds voorzien kan worden in een bestuur van de Stichting Beroepspensioenfonds dat bestaat uit ten minste zeven vertegenwoordigers van de Nederlandse Loodsencorporatie, die, behoudens twee vertegenwoordigers, lid dienen te zijn van de Nederlandse Loodsencorporatie. Deze vertegenwoordigers dienen ex-registerloods te zijn.
 
-- 4. De algemene raad draagt, steeds wanneer daartoe aanleiding bestaat, een door de ledenvergadering van de Nederlandse Loodsencorporatie, overeenkomstig het eerste lid, benoemde vertegenwoordiger van de Nederlandse Loodsencorporatie, voor aan het bestuur van de Stichting Beroepspensioenfonds loodsen voor benoeming als bestuurslid van die stichting. Iedere voordracht van een vertegenwoordiger vindt plaats voor een termijn van maximaal acht jaren. Bij afloop van de benoemingstermijn kan, met inachtneming van het eerste en tweede lid, éénmalig een voordracht voor herbenoeming plaatsvinden.
+- 4. De algemene raad draagt, steeds wanneer daartoe aanleiding bestaat, een door de ledenvergadering van de Nederlandse Loodsencorporatie, overeenkomstig het eerste lid, benoemde vertegenwoordiger van de Nederlandse Loodsencorporatie, voor aan het bestuur van de Stichting Beroepspensioenfonds loodsen voor benoeming als bestuurslid van die stichting. Iedere voordracht van een vertegenwoordiger vindt plaats voor een termijn van maximaal 4 jaren. Bij afloop van de benoemingstermijn kan, met inachtneming van het eerste en tweede lid, driemaal een voordracht voor herbenoeming plaatsvinden, elk voor maximaal vier jaar.
 
 - 5. In afwijking van het derde lid, kan de bestuursamenstelling van Stichting Beroepspensioenfonds Loodsen, vanaf de datum dat een door het bestuur van de Stichting Beroepspensioenfonds Loodsen benoemde vertegenwoordiger van de Nederlandse Loodsencorporatie als gevolg van toepassing van [artikel 2, zesde lid, van de Inschrijvingsverordening registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0024643&artikel=2) ex-registerloods wordt, bestaan uit tenminste zeven vertegenwoordigers van de Nederlandse Loodsencorporatie, die behoudens drie vertegenwoordigers, lid dienen te zijn van de Nederlandse Loodsencorporatie. Deze vertegenwoordigers dienen ex-registerloods te zijn. De genoemde bestuurssamenstelling duurt voort tot de datum waarop het bestuur van de Stichting Beroepspensioenfonds Loodsen een nieuwe vertegenwoordiger van de Nederlandse Loodsencorporatie benoemt tot bestuurslid.
 
