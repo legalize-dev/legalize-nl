@@ -4,7 +4,7 @@ identifier: "BWBR0022530"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2011-11-26"
+last_updated: "2011-12-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022530"
 soort: "AMvB"
@@ -52,7 +52,7 @@ richtlijn 2000/60/EG van het Europees Parlement en de Raad van de Europese Unie 
 
 verordening 396/2005/EG van het Europees Parlement en de Raad van de Europese Unie van 23 februari 2005 tot vaststelling van maximumgehalten en bestrijdingsmiddelenresiduen in of op levensmiddelen en diervoeders van plantaardige en dierlijke oorsprong en houdende wijziging van Richtlijn 91/414/EG van de Raad (PbEG L 70),
 
-[artikel 44, eerste lid, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=44) met betrekking tot [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=7&artikel=74&z=2011-11-26&g=2011-11-26) van dit besluit,
+[artikel 44, eerste lid, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=44) met betrekking tot [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=7&artikel=74&z=2011-12-16&g=2011-12-16) van dit besluit,
 
 de [artikelen 4, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=4), [23, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=23), [25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=25), [28, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=28), [29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=29), [36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=36), [44, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=44), [49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=49), [50, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=50), [56, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=56), [71, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=71), [74, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=74), [75](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=75), [76, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=76), [78 tot en met 81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=78), [108, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=108), [123, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=123), [124, eerste lid, van de Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=124),
 
@@ -90,7 +90,11 @@ In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
 - h. maximumresidugehalte (MRL): het hoogste wettelijk toegestane concentratieniveau van een residu van gewasbeschermingsmiddelen of biociden in of op een levensmiddel of diervoeder op basis van goede landbouwpraktijken en de laagste blootstelling van consumenten die noodzakelijk is met het oog op de bescherming van kwetsbare consumenten;
 
-- i. richtlijn 1999/45/EG: richtlijn nr. 1999/45/EG van het Europees Parlement en de Raad van de Europese Unie van 31 mei 1999 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten inzake de indeling, de verpakking en het kenmerken van gevaarlijke preparaten (PbEG 1999, L 200).
+- i. richtlijn 1999/45/EG: richtlijn nr. 1999/45/EG van het Europees Parlement en de Raad van de Europese Unie van 31 mei 1999 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten inzake de indeling, de verpakking en het kenmerken van gevaarlijke preparaten (PbEG 1999, L 200);
+
+- j. uitvoeringsverordening (EU) 545/2011: Verordening (EU) nr. 545/2011 van de Commissie van 10 juni 2011 tot uitvoering van Verordening (EG) nr. 1107/2009 van het Europees Parlement en de Raad wat de gegevensvereisten voor gewasbeschermingsmiddelen betreft (PbEU 2011, L 155);
+
+- k. uitvoeringsverordening (EU) 546/2011: Verordening (EU) nr. 546/2011 van de Commissie van 10 juni 2011 tot uitvoering van Verordening (EG) nr. 1107/2009 van het Europees Parlement en de Raad wat uniforme beginselen voor de evaluatie en de toelating van gewasbeschermingsmiddelen betreft (PbEU 2011, L 155).
 
 ### Hoofdstuk 2. Taken van het college
 
@@ -106,7 +110,7 @@ Het college is belast met:
 
 - d. het vaststellen van het maximaal toelaatbaar risiconiveau van gewasbeschermingsmiddelen voor bodem of waterorganismen op verzoek van de houder van een toelating, bedoeld in artikel 3, onderdeel 24, van verordening (EG) 1107/2009 of op verzoek van Onze Minister van Infrastructuur en Milieu, indien dit risiconiveau niet reeds bij een toelating door het college is vastgesteld;
 
-- e. het vaststellen van de wijze waarop op een etiket de voorschriften worden vermeld die bij of krachtens dit besluit zijn vastgesteld voor het gebruik van gewasbeschermingsmiddelen of biociden.
+- e. het vaststellen of ambtshalve wijzigen van de wijze waarop op een etiket de voorschriften worden vermeld die bij of krachtens dit besluit zijn vastgesteld voor het gebruik van gewasbeschermingsmiddelen of biociden.
 
 ### Hoofdstuk 3. Aanvragen inzake gewasbeschermingsmiddelen en biociden
 
@@ -136,7 +140,7 @@ Het college is belast met:
 
 ##### Artikel 4. Onderzoeksmethode
 
-1. De onderzoeken, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=3&paragraaf=1&artikel=3&z=2011-11-26&g=2011-11-26), worden:
+1. De onderzoeken, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=3&paragraaf=1&artikel=3&z=2011-12-16&g=2011-12-16), worden:
 
 - a. uitgevoerd volgens de methoden beschreven in bijlage V bij richtlijn 67/548/EEG en
 
@@ -144,7 +148,7 @@ Het college is belast met:
 
 2. Indien het college de methoden, bedoeld in het eerste lid, onderdeel a, ongeschikt acht of in bijlage V bij richtlijn 67/548/EEG geen geschikte methoden worden beschreven, kan het college andere internationaal erkende methoden aanvaarden, indien het college alvorens een besluit te nemen Onze Minister tijdig van de toepassing van een andere onderzoeksmethode op de hoogte stelt.
 
-3. Indien de onderzoeken, bedoeld in het [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=3&paragraaf=1&artikel=3&z=2011-11-26&g=2011-11-26), zijn verricht voor 16 februari 1998 door middel van andere methoden dan die van bijlage V bij richtlijn 67/548/EEG beslist het college per geval of die gegevens toereikend zijn, dan wel nieuwe onderzoeken moeten worden uitgevoerd overeenkomstig bijlage V van die richtlijn, onder meer rekening houdend met de noodzaak proeven met gewervelde dieren tot een minimum te beperken.
+3. Indien de onderzoeken, bedoeld in het [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=3&paragraaf=1&artikel=3&z=2011-12-16&g=2011-12-16), zijn verricht voor 16 februari 1998 door middel van andere methoden dan die van bijlage V bij richtlijn 67/548/EEG beslist het college per geval of die gegevens toereikend zijn, dan wel nieuwe onderzoeken moeten worden uitgevoerd overeenkomstig bijlage V van die richtlijn, onder meer rekening houdend met de noodzaak proeven met gewervelde dieren tot een minimum te beperken.
 
 4. Onze Minister kan bij ministeriële regeling nadere regels stellen inzake onderzoeksmethoden en daarbij afwijken van het eerste lid met betrekking tot onderzoeksmethoden voor aanvragen omtrent een bijzondere vorm van toelating als bedoeld in [hoofdstuk 4, paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&paragraaf=3), of [hoofdstuk 5, paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&paragraaf=3), alsmede [artikel 121 tot en met 128 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=121).
 
@@ -196,7 +200,7 @@ Vervallen
 
 - b. een registratie als bedoeld in [artikel 60 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=60): 144 dagen,
 
-met dien verstande dat als het dossier, bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=3&paragraaf=1&artikel=3&z=2011-11-26&g=2011-11-26), reeds volledig is bij de indiening van de aanvraag, het college een besluit neemt binnen 120 dagen na ontvangst van de aanvraag tot toelating, bedoeld in onderdeel a, onderscheidenlijk binnen 60 dagen na ontvangst van de aanvraag tot registratie, bedoeld in onderdeel b.
+met dien verstande dat als het dossier, bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=3&paragraaf=1&artikel=3&z=2011-12-16&g=2011-12-16), reeds volledig is bij de indiening van de aanvraag, het college een besluit neemt binnen 120 dagen na ontvangst van de aanvraag tot toelating, bedoeld in onderdeel a, onderscheidenlijk binnen 60 dagen na ontvangst van de aanvraag tot registratie, bedoeld in onderdeel b.
 
 3. De termijn, bedoeld in [artikel 44, tweede lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=44) is voor een besluit tot verlenging of wijziging van een besluit omtrent toelating als bedoeld in [artikel 66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=66), onderscheidenlijk [artikel 68, tweede, vierde en zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=68) overeenkomstig de termijn die in het eerste lid is genoemd voor het besluit omtrent toelating.
 
@@ -212,7 +216,7 @@ Het college verleent geen toelating voor niet-professioneel gebruik van een gewa
 
 ##### Artikel 9. Ontbrekende beoordelingsmethoden
 
-Het college beoordeelt een aanvraag bij het ontbreken van vastgestelde beoordelingsmethoden aan de hand van de uniforme beginselen voor het evalueren en toelaten van gewasbeschermingsmiddelen, bedoeld in bijlage VI bij richtlijn 91/414/EEG, voor zover dit naar zijn oordeel naar wetenschappelijk inzicht redelijkerwijs mogelijk is, onverminderd [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=4&paragraaf=1&artikel=8&z=2011-11-26&g=2011-11-26).
+Het college beoordeelt een aanvraag bij het ontbreken van vastgestelde beoordelingsmethoden aan de hand van de uniforme beginselen voor het evalueren en toelaten van gewasbeschermingsmiddelen, bedoeld in artikel 29, zesde lid, van verordening (EG) 1107/2009, voor zover dit naar zijn oordeel naar wetenschappelijk inzicht redelijkerwijs mogelijk is.
 
 ##### Artikel 10. Behandeling van zaaizaad
 
@@ -222,7 +226,7 @@ Vervallen
 
 1. Het college kan bij de toelating het voorschrift opnemen dat het gewasbeschermingsmiddel slechts wordt toegepast na een melding bij Onze Minister van Economische Zaken, Landbouw en Innovatie.
 
-2. Het college houdt bij zijn beslissing omtrent voorschriften als bedoeld in de [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=29) en [36, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=36), rekening met onder meer:
+2. Het college houdt bij zijn beslissing omtrent voorschriften als bedoeld in [artikel 29, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=29), rekening met onder meer:
 
 - a. de resultaten van de risicobeoordeling, met name de relatie tussen blootstelling en effect;
 
@@ -242,7 +246,7 @@ Vervallen
 
 - i. de geschiktheid voor niet-professionele gebruikers.
 
-3. Onze Minister kan regels stellen voor de wijze waarop het college uitvoering geeft aan het eerste en tweede lid alsmede de wijze waarop het college bij de toelating voorschriften geeft voor de uitvoering van geïntegreerde bestrijding, goede praktijken of het gebruik van voertuigen, werktuigen, methoden, technieken en materialen.
+3. Onze Minister kan regels stellen voor de wijze waarop het college uitvoering geeft aan het eerste en tweede lid alsmede de wijze waarop het college bij de toelating voorschriften geeft voor de uitvoering van geïntegreerde gewasbescherming, goede gewasbeschermingspraktijken of het gebruik van voertuigen, werktuigen, methoden, technieken en materialen.
 
 4. Het college stelt bij iedere toelating voor niet-professioneel gebruik voorschriften als bedoeld in [artikel 29, eerste lid, onderdelen b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=29). Deze voorschriften hebben betrekking op gebruiksklare formuleringen en stellen beperkingen aan het formaat van de verpakking.
 
@@ -274,7 +278,7 @@ zoals het Europese Parlement en de Raad van de Europese Unie deze hebben verwoor
 
 ##### Artikel 13. Ontbrekende beoordelingsmethoden
 
-Het college beoordeelt een aanvraag bij het ontbreken van vastgestelde beoordelingsmethoden aan de hand van de gemeenschappelijke beginselen voor de evaluatie van dossiers voor biociden, bedoeld in bijlage VI bij richtlijn 98/8/EG, voor zover dit naar zijn oordeel naar wetenschappelijk inzicht redelijkerwijs mogelijk is, onverminderd [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=4&paragraaf=2&artikel=12&z=2011-11-26&g=2011-11-26).
+Het college beoordeelt een aanvraag bij het ontbreken van vastgestelde beoordelingsmethoden aan de hand van de gemeenschappelijke beginselen voor de evaluatie van dossiers voor biociden, bedoeld in bijlage VI bij richtlijn 98/8/EG, voor zover dit naar zijn oordeel naar wetenschappelijk inzicht redelijkerwijs mogelijk is, onverminderd [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=4&paragraaf=2&artikel=12&z=2011-12-16&g=2011-12-16).
 
 ##### Artikel 14. Niet toe te laten gebruik van biociden
 
@@ -346,21 +350,21 @@ Het college geeft een toelating op grond van een kaderformulering die vergeleken
 
 ##### Artikel 18. Geldigheid van een bewijs van vakbekwaamheid
 
-1. Een bewijs van vakbekwaamheid wordt verstrekt voor een termijn van vijf jaar na het tijdstip waarop de opleiding is afgerond, het examen is afgelegd, of de instructie is verkregen, overeenkomstig [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=5&paragraaf=1&artikel=17&z=2011-11-26&g=2011-11-26), of aan de voorwaarden, bedoeld in [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=5&paragraaf=1&artikel=17a&z=2011-11-26&g=2011-11-26), is voldaan.
+1. Een bewijs van vakbekwaamheid wordt verstrekt voor een termijn van vijf jaar na het tijdstip waarop de opleiding is afgerond, het examen is afgelegd, of de instructie is verkregen, overeenkomstig [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=5&paragraaf=1&artikel=17&z=2011-12-16&g=2011-12-16), of aan de voorwaarden, bedoeld in [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=5&paragraaf=1&artikel=17a&z=2011-12-16&g=2011-12-16), is voldaan.
 
 2. De geldigheid van een bewijs van vakbekwaamheid wordt na afloop van de termijn, bedoeld in het eerste lid, ambtshalve verlengd onder door Onze Minister bij ministeriële regeling vast te stellen voorwaarden.
 
-3. De vernieuwing van een bewijs van vakbekwaamheid als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=5&paragraaf=1&artikel=17&z=2011-11-26&g=2011-11-26), en [17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=5&paragraaf=1&artikel=17a&z=2011-11-26&g=2011-11-26), wordt geweigerd indien niet is voldaan aan bij regeling door Onze Minister vast te stellen voorwaarden inzake scholing.
+3. De vernieuwing van een bewijs van vakbekwaamheid als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=5&paragraaf=1&artikel=17&z=2011-12-16&g=2011-12-16), en [17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=5&paragraaf=1&artikel=17a&z=2011-12-16&g=2011-12-16), wordt geweigerd indien niet is voldaan aan bij regeling door Onze Minister vast te stellen voorwaarden inzake scholing.
 
-4. Onze Minister van Economische Zaken, Landbouw en Innovatie, onderscheidenlijk Onze Minister van Infrastructuur en Milieu, kan een bewijs van vakbekwaamheid voor gewasbescherming, onderscheidenlijk biociden, in een geval als bedoeld in [artikel 85, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=85), tijdelijk of permanent intrekken. Onze Minister stelt beleidsregels vast met betrekking tot de gevallen en de mate waarin tot intrekking kan worden overgegaan.
+4. Onze Minister van Economische Zaken, Landbouw en Innovatie, onderscheidenlijk Onze Minister van Infrastructuur en Milieu, kan een bewijs van vakbekwaamheid voor gewasbescherming, onderscheidenlijk biociden, in een geval als bedoeld in [artikel 85, eerste of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=85), tijdelijk of permanent intrekken. Bij regeling van Onze Minister worden regels gesteld met betrekking tot de gevallen en de mate waarin tot intrekking kan worden overgegaan.
 
 5. Onze Minister stelt bij ministeriële regeling vast wanneer en op welke wijze na intrekking opnieuw een bewijs van vakbekwaamheid verkregen kan worden.
 
 ##### Artikel 19. Buitenlandse getuigschriften
 
-1. Onze Minister van Economische Zaken, Landbouw en Innovatie, onderscheidenlijk Onze Minister van Infrastructuur en Milieu, kan een bewijs van vakbekwaamheid voor gewasbescherming, onderscheidenlijk biociden, verstrekken aan een persoon, die onderdaan is van een lidstaat als bedoeld in [artikel 1 van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1) wanneer op grond van [artikel 6 van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=6) is aangetoond dat deze persoon over gelijkwaardige kwalificaties beschikt als de houder van een bewijs van vakbekwaamheid dat is verkregen op grond van [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=5&paragraaf=1&artikel=17&z=2011-11-26&g=2011-11-26), of [17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=5&paragraaf=1&artikel=17a&z=2011-11-26&g=2011-11-26).
+1. Onze Minister van Economische Zaken, Landbouw en Innovatie, onderscheidenlijk Onze Minister van Infrastructuur en Milieu, kan een bewijs van vakbekwaamheid voor gewasbescherming, onderscheidenlijk biociden, verstrekken aan een persoon, die onderdaan is van een lidstaat als bedoeld in [artikel 1 van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1) wanneer op grond van [artikel 6 van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=6) is aangetoond dat deze persoon over gelijkwaardige kwalificaties beschikt als de houder van een bewijs van vakbekwaamheid dat is verkregen op grond van [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=5&paragraaf=1&artikel=17&z=2011-12-16&g=2011-12-16), of [17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=5&paragraaf=1&artikel=17a&z=2011-12-16&g=2011-12-16).
 
-2. Onze Minister van Economische Zaken, Landbouw en Innovatie, onderscheidenlijk Onze Minister van Infrastructuur en Milieu, kan een bewijs van vakbekwaamheid voor gewasbescherming, onderscheidenlijk biociden, verstrekken aan een persoon die beschikt over een getuigschrift niet ouder dan vijf jaar van een door Onze Minister erkende buitenlandse opleiding buiten een lidstaat als bedoeld in het eerste lid, wanneer deze persoon door ervaring of opleiding na het verkrijgen van het getuigschrift nog steeds over een gelijkwaardige kwalificatie beschikt als de houder van een bewijs van vakbekwaamheid dat is verkregen op grond van [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=5&paragraaf=1&artikel=17&z=2011-11-26&g=2011-11-26), of [17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=5&paragraaf=1&artikel=17a&z=2011-11-26&g=2011-11-26).
+2. Onze Minister van Economische Zaken, Landbouw en Innovatie, onderscheidenlijk Onze Minister van Infrastructuur en Milieu, kan een bewijs van vakbekwaamheid voor gewasbescherming, onderscheidenlijk biociden, verstrekken aan een persoon die beschikt over een getuigschrift niet ouder dan vijf jaar van een door Onze Minister erkende buitenlandse opleiding buiten een lidstaat als bedoeld in het eerste lid, wanneer deze persoon door ervaring of opleiding na het verkrijgen van het getuigschrift nog steeds over een gelijkwaardige kwalificatie beschikt als de houder van een bewijs van vakbekwaamheid dat is verkregen op grond van [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=5&paragraaf=1&artikel=17&z=2011-12-16&g=2011-12-16), of [17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=5&paragraaf=1&artikel=17a&z=2011-12-16&g=2011-12-16).
 
 3. De houder van een bewijs van vakbekwaamheid beheerst de Nederlandse taal op een zodanig niveau dat voorschriften op etiketten van gewasbeschermingsmiddelen en biociden en andere voor de toepassing van gewasbeschermingsmiddelen en biociden bij of krachtens de wet geldende voorschriften begrepen en uitgevoerd kunnen worden.
 
@@ -368,51 +372,25 @@ Het college geeft een toelating op grond van een kaderformulering die vergeleken
 
 ##### Artikel 20. Niet toegelaten gewasbeschermingsmiddelen of biociden
 
-1. Iedere importeur, producent of leverancier die een niet toegelaten gewasbeschermingsmiddel of biocide als bedoeld in [artikel 74, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=74) binnen Nederland brengt, zorgt ervoor dat het middel uiteindelijk feitelijk over de grens wordt geleverd aan een buitenlandse handelaar of wordt geleverd aan een Nederlandse eigenaar of houder die het middel op een perceel in het grensgebied van België of Duitsland buiten het Nederlands grondgebied toepast.
-
-2. Iedere importeur, producent of leverancier die een middel als bedoeld in het eerste lid in Nederland verhandelt, komt bij een overeenkomst die strekt tot levering van het middel aan een opvolgend eigenaar of houder schriftelijk een beding als bedoeld in [artikel 253 van boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=253) ten behoeve van de Staat overeen dat voldoet aan bij ministeriële regeling te stellen eisen en neemt een afschrift van deze overeenkomst in de administratie op.
-
-3. Het is verboden zaaizaad op de markt te brengen, te ontvangen, te gebruiken of voorhanden te hebben dat is behandeld met een werkzame stof die niet voldoet aan de toelatingsvoorwaarden, bedoeld in [artikel 28, eerste lid, onderdelen b tot en met f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=28) voor zover deze toelatingsvoorwaarden betrekking hebben op het gebruik van zaaizaad binnen Nederland.
+Vervallen
 
 ##### Artikel 21. Administratie van niet toegelaten gewasbeschermingsmiddelen of biociden
 
-1. De administratie, bedoeld in [artikel 74, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=74), bevat ten minste de volgende gegevens:
-
-- a. de naam, zoals die op de verpakking is vermeld, en voor zover van toepassing, het toelatingsnummer of toelatingskenmerk in het land van bestemming,
-
-- b. het aantal verpakkingseenheden per ontvangst of aflevering alsmede de op de verpakking aangegeven volume- of massa-eenheden,
-
-- c. de totale hoeveelheid voorraad en de veranderingen van de voorraad,
-
-- d. de datum van ontvangst, aflevering of verandering als bedoeld in de onderdelen b en c,
-
-- e. de naam, het adres en de woonplaats van de leverancier of de afnemer van het gewasbeschermingsmiddel of biocide in Nederland of het buitenland, en
-
-- f. de afschriften van overeenkomsten als bedoeld in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=5&paragraaf=2&artikel=20&z=2011-11-26&g=2011-11-26).
-
-2. De administratie bestrijkt een periode van de laatste vijf jaar.
-
-3. De gegevens, bedoeld in het eerste lid, onderdelen a, b, d en e, worden op de factuur of het afleveringsbewijs aangegeven.
-
-4. Onze Minister kan bij ministeriële regeling aanvullende administratievoorschriften stellen voor producenten, importeurs, handelaren en gebruikers van gewasbeschermingsmiddelen of biociden. Onze Minister kan daarbij regels stellen inzake de administratie van de opslag van behandeld zaaizaad als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=4&paragraaf=1&artikel=10&z=2011-11-26&g=2011-11-26) en [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=5&paragraaf=2&artikel=20&z=2011-11-26&g=2011-11-26).
+Vervallen
 
 ##### Artikel 22. Opslag
 
-1. Een niet toegelaten gewasbeschermingsmiddel of biocide als bedoeld in [artikel 74, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=74) of een gewasbeschermingsmiddel of biocide dat niet voldoet aan de bij de toelating gestelde voorschriften wordt afzonderlijk van een toegelaten middel opgeslagen.
+Vervallen
 
-2. Onze Minister kan bij ministeriële regeling regels stellen over de opslag van gewasbeschermingsmiddelen en biociden als bedoeld in het eerste lid waaronder regels over de opslag van middelen die niet voldoen aan de bij de toelating gestelde voorschriften inzake het etiket en in afwijking van het eerste lid tijdelijk met toegelaten middelen worden opgeslagen.
-
-3. Het eerste en tweede lid zijn van overeenkomstige toepassing op behandeld zaaizaad als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=4&paragraaf=1&artikel=10&z=2011-11-26&g=2011-11-26) en [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=5&paragraaf=2&artikel=20&z=2011-11-26&g=2011-11-26).
-
-#### § 3. Aanprijzing en administratie van toegelaten gewasbeschermingsmiddelen en biociden
+#### § 1. Bewijs van vakbekwaamheid
 
 ##### Artikel 23. Aanprijzing
 
 Bij een aanduiding van een productsoort als bedoeld in [artikel 72, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=72) wordt gebruik gemaakt van het onderscheid in productsoorten, genoemd in bijlage V bij richtlijn 98/8/EG.
 
-##### Artikel 24. Administratie toegelaten gewasbeschermingsmiddelen en biociden
+##### Artikel 24. Administratie toegelaten biociden
 
-1. Een ieder die bedrijfsmatig gewasbeschermingsmiddelen of biociden distribueert, levert of aflevert houdt een administratie bij.
+1. Een ieder die bedrijfsmatig biociden distribueert, levert of aflevert houdt een administratie bij.
 
 2. De administratie, bedoeld in het eerste lid, bevat ten minste de volgende gegevens:
 
@@ -424,29 +402,29 @@ Bij een aanduiding van een productsoort als bedoeld in [artikel 72, vijfde lid, 
 
 - d. de datum van ontvangst, aflevering of verandering als bedoeld in de onderdelen b en c, en
 
-- e. de naam, het adres en de woonplaats van de leverancier of de afnemer van het gewasbeschermingsmiddel of biocide.
+- e. de naam, het adres en de woonplaats van de leverancier of de afnemer van de biocide.
 
-3. De administratie bestrijkt een periode van de laatste vijf jaar.
+3. De administratie bestrijkt een periode van de laatste vijf jaar. De administratie is op een toegankelijke wijze opgesteld, op eenvoudige wijze beschikbaar en aanwezig op het bedrijf.
 
-4. Onze Minister kan categorieën van middelen uitzonderen van het gebod, bedoeld in het eerste lid.
+4. Onze Minister kan categorieën van biociden uitzonderen van het gebod, bedoeld in het eerste lid.
 
-5. Onze Minister kan bij ministeriële regeling aanvullende administratievoorschriften stellen voor producenten, importeurs, leveranciers en gebruikers van gewasbeschermingsmiddelen of biociden.
+5. Bij regeling van Onze Minister kunnen aanvullende administratievoorschriften worden gesteld voor producenten, distributeurs, importeurs en gebruikers van biociden.
 
-##### Artikel 25. Administratie van de toepassing van toegelaten gewasbeschermingsmiddelen en biociden door derden
+##### Artikel 25. Administratie van de toepassing van toegelaten biociden door derden
 
-1. Een ieder die gewasbeschermingsmiddelen of biociden, die niet zijn aangemerkt als geschikt voor niet-professioneel gebruik als bedoeld in [artikel 76, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=76), voor gebruikers voorhanden heeft, ontvangt of toepast, houdt een administratie bij.
+1. Een ieder die biociden, die niet zijn aangemerkt als geschikt voor niet-professioneel gebruik, voor gebruikers voorhanden heeft, ontvangt of toepast, houdt een administratie bij.
 
 2. De administratie, bedoeld in het eerste lid, omvat ten minste de volgende gegevens:
 
 - a. de naam, zoals die op de verpakking is vermeld, en het toelatingsnummer,
 
-- b. de ontvangen of toegepaste hoeveelheden gewasbeschermingsmiddelen of biociden,
+- b. de ontvangen of toegepaste hoeveelheden biociden,
 
 - c. de voorraad middelen op 1 januari van enig kalenderjaar,
 
 - d. de datum van ontvangst of toepassing als bedoeld in onderdeel b, en
 
-- e. de naam, het adres en de woonplaats van de leverancier of de gebruiker van het gewasbeschermingsmiddel of biocide.
+- e. de naam, het adres en de woonplaats van de leverancier of de gebruiker van de biocide.
 
 3. De administratie bestrijkt een periode van de laatste vijf jaar.
 
@@ -498,7 +476,7 @@ Onze Minister kan bij ministeriële regeling regels stellen voor een juist gebru
 
 ##### Artikel 29. Toepassing met luchtvaartuigen
 
-1. Het is verboden een gewasbeschermingsmiddel met behulp van een luchtvaartuig toe te passen, met dien verstande dat Onze Minister van dit verbod vrijstelling kan verlenen in verband met een bedreiging van de plantaardige productie als bedoeld in [artikel 38, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=38). [Artikel 38, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=38), is van overeenkomstige toepassing.
+1. Het is verboden een gewasbeschermingsmiddel met behulp van een luchtvaartuig toe te passen, met dien verstande dat Onze Minister van dit verbod vrijstelling kan verlenen in verband met een bedreiging van de plantaardige productie als bedoeld in [artikel 38, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=38). Artikel 38, tweede tot en met vijfde lid, van de wet, is van overeenkomstige toepassing.
 
 2. Dit lid is nog niet in werking getreden.
 
@@ -594,7 +572,7 @@ De kosten, bedoeld in [artikel 4:120 van de Algemene wet bestuursrecht](https://
 
 ##### Artikel 35. Vaststelling van een lijst
 
-1. Het college behandelt met het oog op een vaststelling van een lijst als bedoeld in [artikel 122, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=122), de aanvraag tot verlenging van de toelating, bedoeld in [artikel 122, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=122), aan de hand van het dossier, bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=6&paragraaf=2&artikel=34&z=2011-11-26&g=2011-11-26).
+1. Het college behandelt met het oog op een vaststelling van een lijst als bedoeld in [artikel 122, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=122), de aanvraag tot verlenging van de toelating, bedoeld in [artikel 122, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=122), aan de hand van het dossier, bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=6&paragraaf=2&artikel=34&z=2011-12-16&g=2011-12-16).
 
 2. Het college selecteert bij de beoordeling van een biocide voor een opneming als bedoeld in [artikel 122, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=122) de meest kritische toepassingen van een biocide met betrekking tot de te onderscheiden effecten als bedoeld in [artikel 121a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=121a). Wanneer het onderscheiden effect van de meest kritische toepassing onaanvaardbaar is, wordt de daarna meest kritische toepassing beoordeeld. Indien geen enkele toepassing waarvoor het middel is toegelaten, aanvaardbaar is, wordt de desbetreffende biocide niet opgenomen op de lijst, bedoeld in [artikel 122, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=122).
 
@@ -628,7 +606,7 @@ De kosten, bedoeld in [artikel 4:120 van de Algemene wet bestuursrecht](https://
 
 - c. het betrokken middel naar verwachting niet op een andere wijze tijdig op de markt toegelaten kan worden.
 
-3. Het college beoordeelt een aanvraag tot toelating van een gewasbeschermingsmiddel of biocide als bedoeld in [artikel 123, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=123) volgens [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=4&z=2011-11-26&g=2011-11-26) van dit besluit.
+3. Het college beoordeelt een aanvraag tot toelating van een gewasbeschermingsmiddel of biocide als bedoeld in [artikel 123, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=123) volgens [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=4&z=2011-12-16&g=2011-12-16) van dit besluit.
 
 4. Het college besluit in afwijking van het vierde lid en in afwijking van [artikel 49, eerste lid, onderdeel b, onder 4, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=49) tot toelating van een biocide indien er zich alle omstandigheden in aanmerking genomen, waaronder risicobeperkende effecten van te stellen voorschriften, naar het oordeel van het college, geen onaanvaardbare effecten op het milieu voordoen. Onze Minister stelt bij ministeriële regeling vast welke omstandigheden in elk geval in aanmerking worden genomen.
 
@@ -638,7 +616,7 @@ De kosten, bedoeld in [artikel 4:120 van de Algemene wet bestuursrecht](https://
 
 ##### Artikel 37. Vierde fase werkprogramma en middelen voor de biologische landbouw
 
-1. Het college beoordeelt een aanvraag tot toelating van een biocide als bedoeld in [artikel 124, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=124) volgens [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=4&z=2011-11-26&g=2011-11-26) van dit besluit.
+1. Het college beoordeelt een aanvraag tot toelating van een biocide als bedoeld in [artikel 124, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=124) volgens [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=4&z=2011-12-16&g=2011-12-16) van dit besluit.
 
 2. Onze Minister kan bij ministeriële regeling vaststellen welke gegevens bij het college bekend moeten zijn om te kunnen komen tot het oordeel dat een biocide, als bedoeld in [artikel 124, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=124), die een bij die ministeriële regeling te bepalen werkzame stof bevat, voldoet aan de toelatingsvoorwaarden, genoemd in [artikel 49, eerste lid, onderdeel b, onder 4, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=49).
 
@@ -808,11 +786,11 @@ Wijzigt dit besluit.
 
 1. Indien het bij koninklijke boodschap van 1 maart 2006 ingediende voorstel van wet regeling voor de toelating, het op de markt brengen en het gebruik van gewasbeschermingsmiddelen en biociden ([Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670)) (Kamerstukken II 2005/06, 30474, nr. 2), nadat het tot wet is verheven, in werking treedt, treedt dit besluit op hetzelfde tijdstip in werking met uitzondering van:
 
-- a. [artikel 29, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=5&paragraaf=5&artikel=29&z=2011-11-26&g=2011-11-26), dat vijf jaar na dat tijdstip in werking treedt en
+- a. [artikel 29, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=5&paragraaf=5&artikel=29&z=2011-12-16&g=2011-12-16), dat vijf jaar na dat tijdstip in werking treedt en
 
-- b. [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=5&paragraaf=2&artikel=20&z=2011-11-26&g=2011-11-26), dat in werking treedt op 1 september 2009.
+- b. [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=5&paragraaf=2&artikel=20&z=2011-12-16&g=2011-12-16), dat in werking treedt op 1 september 2009.
 
-2. In afwijking van het eerste lid kan [artikel 29, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=5&paragraaf=5&artikel=29&z=2011-11-26&g=2011-11-26), op een eerder bij koninklijk besluit te bepalen tijdstip in werking treden indien een communautaire maatregel dit vereist.
+2. In afwijking van het eerste lid kan [artikel 29, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=5&paragraaf=5&artikel=29&z=2011-12-16&g=2011-12-16), op een eerder bij koninklijk besluit te bepalen tijdstip in werking treden indien een communautaire maatregel dit vereist.
 
 ##### Artikel 78. Citeertitel
 
@@ -880,19 +858,19 @@ Dit besluit berust mede op [artikel 9.2.2.1, eerste en tweede lid, onder b, van 
 
 ### Hoofdstuk 5. Handel en gebruik
 
-#### § 1. Bewijs van vakbekwaamheid
+#### § 2. Beoordeling van aanvragen inzake biociden
 
 #### § 2. Invoer en doorvoer
 
 #### § 3. Aanprijzing en administratie van toegelaten gewasbeschermingsmiddelen en biociden
 
-#### § 4. Goede praktijken, geïntegreerde bestrijding en juist gebruik
+#### § 2. Invoer en doorvoer
 
-#### § 5. Toepassingsmethoden, -technieken en -materialen
+#### § 3. Aanprijzing en administratie van toegelaten gewasbeschermingsmiddelen en biociden
 
 ### Hoofdstuk 6. Handhaving en overgangsperiode
 
-#### § 1. Handhaving
+#### § 4. Goede praktijken, geïntegreerde gewasbescherming en juist gebruik
 
 #### § 2. Overgangsperiode
 
@@ -994,7 +972,7 @@ Het gebruik van een gewasbeschermingsmiddel wordt geminimaliseerd of blijft acht
 
 2. Indien met de gewasbeschermingsmiddelen of bestrijdingsmethoden, bedoeld in het eerste lid, onvoldoende resultaat wordt geboekt of zo’n resultaat redelijkerwijs te verwachten is, kunnen andere toegelaten gewasbeschermingsmiddelen worden toegepast.
 
-3. Degene die voornemens is in de situatie, bedoeld in het tweede lid, een gewasbeschermingsmiddel te gebruiken, dat overeenkomstig richtlijn 1999/45/EG is ingedeeld als vergiftig of zeer vergiftig, meldt zijn voornemen aan Onze Minister van Economische Zaken, Landbouw en Innovatie. [Artikel 32, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=5&paragraaf=5&artikel=32&z=2011-11-26&g=2011-11-26), is van overeenkomstige toepassing.
+3. Degene die voornemens is in de situatie, bedoeld in het tweede lid, een gewasbeschermingsmiddel te gebruiken, dat overeenkomstig richtlijn 1999/45/EG is ingedeeld als vergiftig of zeer vergiftig, meldt zijn voornemen aan Onze Minister van Economische Zaken, Landbouw en Innovatie. [Artikel 32, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=5&paragraaf=5&artikel=32&z=2011-12-16&g=2011-12-16), is van overeenkomstige toepassing.
 
 4. Bij regeling van Onze Minister kan worden bepaald binnen welke termijn na ontvangst van de melding Onze Minister van Economische Zaken, Landbouw en Innovatie kan besluiten het voorgenomen gebruik te verbieden, dan wel voorschriften en beperkingen te verbinden aan het gebruik.
 
@@ -1045,5 +1023,155 @@ Bij regeling van Onze Minister kunnen regels worden gesteld over de duur van de 
 ## Bijlage. bij artikel 26, tweede lid, van het Besluit gewasbeschermingsmiddelen en biociden
 
 Vervallen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 8a. Beoordelingsmethoden
+
+1. Het college hanteert in het kader van de beoordeling van gewasbeschermingsmiddelen, bedoeld in artikel 36, eerste lid, van verordening (EG) 1107/2009, slechts de in de [artikelen 8b tot en met 8g](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=4&paragraaf=1&artikel=8b&z=2011-12-16&g=2011-12-16) en de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&bijlage=1&z=2011-12-16&g=2011-12-16) bedoelde beoordelingsmethoden, voor zover een Europees richtsnoer dat is vastgesteld volgens de procedure, bedoeld in artikel 77 van die verordening, geen beoordelingsmethode over hetzelfde onderwerp bevat.
+
+2. Onze Minister van Economische Zaken, Landbouw en Innovatie doet mededeling in de Staatscourant van de vaststelling of wijziging van een in een Europees richtsnoer opgenomen beoordelingsmethode als bedoeld in het eerste lid.
+
+##### Artikel 8b. Blootstelling als gevolg van professioneel gebruik
+
+1. Het college schat de kwantitatieve blootstelling aan het gewasbeschermingsmiddel, bedoeld in uitvoeringsverordening (EU) 545/2011, bijlage, deel A, punt 7.2.1.1, zonder rekening te houden met het effect van persoonlijke beschermingsmaatregelen en met gebruikmaking van de volgende modellen voor blootstellingssituaties:
+
+- a. voor het mengen en vullen van apparatuur voor de toepassing van gewasbeschermingsmiddelen met een:
+
+- 1°. niet-vast gewasbeschermingsmiddel bij tractortoepassingen: model EUROPOEM I, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&bijlage=1&z=2011-12-16&g=2011-12-16) onder 1;
+
+- 2°. niet-vast middel bij handmatige toepassing: model EUROPOEM I, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&bijlage=1&z=2011-12-16&g=2011-12-16) onder 1, voor huidblootstelling en NL model, bedoeld in bijlage 1 onder 4, 5 en 7, voor inhalatoire blootstelling;
+
+- 3°. poedervormig middel: NL-model bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&bijlage=1&z=2011-12-16&g=2011-12-16) onder 4, 5 en 7;
+
+- 4°. granulaatvormig middel: NL-model, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&bijlage=1&z=2011-12-16&g=2011-12-16) onder 4, 5 en 7, rekening houdend met de poederfractie in het middel;
+
+- b. voor het toepassen van het gewasbeschermingsmiddel:
+
+- 1°. buiten opwaarts of neerwaarts met grote spuitapparatuur; model EUROPOEM I, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&bijlage=1&z=2011-12-16&g=2011-12-16) onder 1;
+
+- 2°. buiten neerwaarts met handapparatuur: model UK POEM, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&bijlage=1&z=2011-12-16&g=2011-12-16) onder 9;
+
+- 3°. buiten opwaarts met handapparatuur: de 90-percentiel waarde volgens het Duitse blootstellingsmodel, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&bijlage=1&z=2011-12-16&g=2011-12-16) onder 6;
+
+- 4°. binnen met handapparatuur: NL-kasmodel, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&bijlage=1&z=2011-12-16&g=2011-12-16) onder 4, 5 en 7;
+
+- c. voor degenen die werkzaamheden uitvoeren in ruimten die behandeld zijn met gewasbeschermingsmiddelen of werkzaamheden uitvoeren met of aan gewassen die behandeld zijn met middelen: model EUROPOEM II, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&bijlage=1&z=2011-12-16&g=2011-12-16) onder 2, voor dermale blootstelling;
+
+- d. voor degenen die werkzaamheden uitvoeren in ruimten die behandeld zijn met middelen of in ruimten werkzaamheden uitvoeren met of aan gewassen die behandeld zijn met middelen: NL model voor inhalatoire blootstelling, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&bijlage=1&z=2011-12-16&g=2011-12-16) onder 5 en 7.
+
+2. Het college gaat bij de beoordeling van de voorgestelde beschermende kleding en apparatuur volgens de uniforme beginselen, bedoeld in uitvoeringsverordening (EU) 546/2011, bijlage, deel I, onderdeel B Evaluatie, punt 2.4.1.3., uit van beschermingsfactoren voor deze kleding en apparatuur volgens de tabel, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&bijlage=2&z=2011-12-16&g=2011-12-16).
+
+##### Artikel 8c. Blootstelling als gevolg van niet-professioneel gebruik
+
+Het college schat de kwantitatieve blootstelling aan het gewasbeschermingsmiddel voor de toepasser van een middel bestemd voor niet-professioneel gebruik, bedoeld in uitvoeringsverordening (EU) 545/2011, bijlage, deel A, punt 7.2.1.1, zonder rekening te houden met het effect van persoonlijke beschermingsmaatregelen. Het college gebruikt voor de inschatting van de blootstelling een van de methoden, bedoeld in [artikel 8b](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=4&paragraaf=1&artikel=8b&z=2011-12-16&g=2011-12-16).
+
+##### Artikel 8d. Omstander beroepshalve aanwezig
+
+Het college schat de kwantitatieve blootstelling aan het gewasbeschermingsmiddel voor de omstander, bedoeld in uitvoeringsverordening (EU) 545/2011, bijlage, deel A, punt 7.2.1.1, zonder rekening te houden met het effect van persoonlijke beschermingsmaatregelen. Het college gebruikt voor de inschatting van de blootstelling het model EUROPOEM II, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&bijlage=1&z=2011-12-16&g=2011-12-16) onder 3.
+
+##### Artikel 8e. Uitspoeling
+
+Het college komt bij de toepassing van het uniforme beginsel, bedoeld in uitvoeringsverordening (EU) 546/2011, bijlage, deel I, onderdeel C Besluitvorming, punt 2.5.1.2, tot het oordeel dat een gewasbeschermingsmiddel geen onaanvaardbaar effect op het milieu heeft als bedoeld in artikel 4, derde lid, onderdeel e, van verordening (EG) 1107/2009 indien bij de toepassing van dit beginsel wordt aangetoond dat:
+
+- a. de concentratie van een werkzame stof, een relevant reactieproduct of een relevant afbraakproduct in het grondwater gelijk is aan of lager is dan 0,1 μg/liter bij toepassing van één van de volgende methoden van beoordelen van het gewasbeschermingsmiddel:
+
+- 1°. een berekening met het model PEARL voor het FOCUS Kremsmünster scenario, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&bijlage=1&z=2011-12-16&g=2011-12-16) onder 12.
+
+- 2°. een berekening met het model GeoPEARL, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&bijlage=1&z=2011-12-16&g=2011-12-16) onder 12.
+
+- 3°. een toetsing aan metingen van concentraties in het bovenste grondwater,
+
+- 4°. een berekening voor de verzadigde zone, bepaald volgens een rekenvoorschrift waarbij wordt uitgegaan van een afbraaksnelheid volgens de eerste orde kinetiek na 4 jaren op 10 meter diepte,
+
+- 5°. een toetsing aan metingen van concentraties in het diepere grondwater op minimaal 10 meter beneden het maaiveld, of
+
+- b. bij het gebruik van een gewasbeschermingsmiddel in een grondwaterbeschermingsgebied de maximaal toelaatbare concentratie van een werkzame stof, een relevant reactieproduct of een relevant afbraakproduct van 0,01 μg/liter gebaseerd op een berekening of toetsing als bedoeld in onderdeel a, onder 1 tot en met 3 niet wordt overschreden, tenzij met nadere gegevens aan de hand van een berekening of toetsing als bedoeld in onderdeel a, onder 3, 4 of 5, wordt aangetoond dat in grondwaterbeschermingsgebieden de waarde van 0,1 μg/liter niet wordt overschreden.
+
+##### Artikel 8f. Driftcijfers
+
+Bij de risicobeoordeling voor waterorganismen, vogels, zoogdieren, niet-doelwitarthropoden, niet-doelwitplanten of oppervlaktewater bestemd voor de bereiding van drinkwater, hanteert het college specifieke driftcijfers. Het college stelt deze cijfers vast en maakt hen bekend op zijn website.
+
+##### Artikel 8g. Beoordeling risico drinkwater
+
+Het college beoordeelt bij de toepassing van het uniforme beginsel als bedoeld in uitvoeringsverordening (EU) 546/2011, deel I, onderdeel C Besluitvorming, punt 2.5.1.3, aan de hand van de beoordelingsmethoden, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&bijlage=1&z=2011-12-16&g=2011-12-16) onder 14 en 15.
+
+### Hoofdstuk 5. Handel en gebruik
+
+##### Artikel 25a. Bijhouden van registers van gewasbeschermingsmiddelen
+
+Bij regeling van Onze Minister kunnen ter uitvoering van de verplichtingen, bedoeld in artikel 67 van verordening (EG) 1107/2009, regels of nadere regels worden gesteld met betrekking tot de registratie van de productie, de invoer, de uitvoer, het op de markt brengen, de opslag of het gebruiken van gewasbeschermingsmiddelen.
+
+##### Artikel 25b. Informatieverstrekking niet-professioneel gebruik
+
+Bij regeling van Onze Minister worden regels gesteld ter uitvoering van [artikel 73, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=73).
+
+#### § 5. Toepassingsmethoden, -technieken en -materialen
+
+#### § 6. Technieken reiniging van verpakkingen
+
+#### § 7. Keuring van apparatuur voor de toepassing van gewasbeschermingsmiddelen
+
+##### Artikel 32b. Keuring van apparatuur
+
+1. Apparatuur voor de toepassing van gewasbeschermingsmiddelen wordt uitsluitend gebruikt indien zij voldoet aan de eisen van bijlage II bij richtlijn 2009/128/EG en daarvan blijkt door middel van een officieel goedkeuringsbewijs.
+
+2. Ter uitvoering van [artikel 80, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=80) wordt medewerking gevorderd van de besturen van het Productschap Akkerbouw en het Productschap Tuinbouw.
+
+3. Deze medewerking bestaat uit:
+
+- a. het bij verordening stellen van regels dan wel nadere regels inzake de keuring van in gebruik zijnde apparatuur voor de toepassing van gewasbeschermingsmiddelen, waaronder regels omtrent de keuringsfrequentie, de keuringseisen, de keuringsinstanties, het in rekening te brengen tarief voor de keuring en voor de afgifte van het officiële keuringsbewijs, alsmede de aanwijzing van apparatuur waarop het eerste lid niet van toepassing is, dan wel een afwijkende keuringsfrequentie van toepassing is;
+
+- b. het aanwijzen van personen die zijn belast met het toezicht op de naleving van de verordeningen.
+
+4. De medewerking bestaat voor het Productschap Akkerbouw tevens uit het bij verordening stellen van regels, inhoudende dat de krachtens het derde lid gestelde regels mede andere dan de in [artikel 102, eerste lid, van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=102) bedoelde natuurlijke personen en rechtspersonen binden, voor zover deze personen apparatuur voor de toepassing van gewasbeschermingsmiddelen gebruiken.
+
+5. De in het tweede lid genoemde productschappen kunnen tuchtrechtelijke maatregelen stellen als bedoeld in [artikel 2 van de Wet tuchtrechtspraak bedrijfsorganisatie 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016341&artikel=2), die kunnen worden toegepast bij overtreding van de in het derde lid bedoelde verordeningen, behoudens voor de andere natuurlijke personen en rechtspersonen, bedoeld in het vierde lid.
+
+### Hoofdstuk 6. Handhaving en overgangsperiode
+
+#### § 1. Handhaving
+
+#### § 2. Overgangsperiode
+
+### Hoofdstuk 7. Overgangsbepalingen en wijzigingsbepalingen
+
+## Bijlage 1. , behorende bij [artikel 8a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=4&paragraaf=1&artikel=8a&z=2011-12-16&g=2011-12-16)
+
+| Methoden voor de beoordeling van gewasbeschermingsmiddelen | Methoden voor de beoordeling van gewasbeschermingsmiddelen |
+| --- | --- |
+| **Humane toxicology** |   |
+| 1. | EUROPOEM I. (1996). The development, maintenance and dissemination of a European Predictive Operator Exposure Model (EUROPOEM) database. Draft final report, Commissie-document 7857/VI/97. |
+| 2. | EUROPOEM Re-entry: Post application exposure to pesticides of workers in agriculture, Report of the re-entry workgroup, EUROPOEM II project, 2002; FAR3, CT96-1406, Draft Report. |
+| 3. | EUROPOEM Bystander: Bystander working group report. EUROPOEM II project, 2002, Draft report. |
+| 4. | Van Hemmen, JJ. (1992) Assessment of occupational exposure to pesticides in agriculture. Part I General aspects. Part II Mixing and loading. Part III Application. S-reeks S141 1/3, Ministerie SZW, Den Haag. |
+| 5. | Van Goldstein Brouwers, YGC, Marquart, J, Van Hemmen, JJ. (1996) Assessment of occupational exposure to pesticides in Agriculture. Part IV Protocol for the use of generic exposure data. TNO Voeding, Rijswijk, Nederland, TNO report V 96.120. |
+| 6. | Lundehn, J. R., Westphal, D., Kieczka, D., Krebs, B., Löcher-Bolz, S., & Maasfeld, W. (1992). Uniform principles for safeguarding the health of applicators of plant protection products (Uniform principles for operator protections); Mitteilungen aus der Biologischen Bundesanstalt für Land- und Forstwirschaft Bundesrepubliek Deutschland, Heft no. 277, Berlin, Germany. |
+| 7. | Snippe R.J., Drooge H.L. van, Schipper H.J., Pater A.J. de, Hemmen J.J. van, (2002). Pesticide exposure assessment for registration purposes. TNO-report V3642. (2002) |
+| 8. | RIVM CONSEXPO 4.1 |
+| 9. | UK-POEM 07. www.pesticides.gov.uk |
+| 10. | L.C.H. Prud’homme de Lodder et al (2006). Assessment of secondary exposure to lawn pesticides. RIVM SIR report 09709A00. |
+| 11. | Duyzer, J., , van der Staay, M., Weststrate, H., Boertjes, B., Hollander, K. and Verhagen, H., 2004. De blootstelling van omwonenden van kassen aan gewasbeschermingsmiddelen via de lucht. TNO-rapport, R 2004/517: 72 pp. |
+| **Residuen** |   |
+|   | – |
+| **Milieu** |   |
+| 12. | Van der Linden, A.M.A et al (2004). The new decision tree for the evaluation of pesticide leaching from soils., RIVM report 601450019/2004. |
+| 13. | Adriaanse, P.I. et al, (1996). Fate of pesticides in field ditches: the TOXSWA simulation model. Alterra-rapport nr. 023. |
+| 14. | Adriaanse, P.I. et al (2008). Development of an assessment methodology to evaluate agricultural use of plant protection products for drinking water production from surface waters – a proposal for the registration procedure in the Netherlands. Alterra-rapport nr. 1635, ISSN 1566-7197. |
+| 15. | Ctb (2005) Tijdelijke beoordelingsmethodiek drinkwatercriterium |
+
+## Bijlage 2. , behorend bij [artikel 8b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&hoofdstuk=4&paragraaf=1&artikel=8b&z=2011-12-16&g=2011-12-16)
+
+| Persoonlijke beschermingsmaatregel | Toegekende beschermingsfactor |
+| --- | --- |
+| Halfgelaatsmasker en volgelaatsmasker met filtertype 2 | 10 |
+| Aangedreven volgelaatsmasker met filtertype 2 | 20 |
+| Aangedreven volgelaatsmasker met filtertype 3 | 40 |
+| Lichaamsbedekking toepasser materiaaltype CEN 3 of 4 (niet voor handen, hoofd en nek) | 10 |
+| Lichaamsbedekking werkenden in / aan gewas / behandelde ruimte (niet voor handen, hoofd en nek) | 5 |
+| Handschoenen, niet-vaste middelen | 10 |
+| Handschoenen, vaste middelen | 20 |
+| Laarzen (chemisch resistent) | 10 |
+| Gesloten spuitcabines | 10 |
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
