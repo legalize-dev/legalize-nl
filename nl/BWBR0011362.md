@@ -4,7 +4,7 @@ identifier: "BWBR0011362"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2010-08-25"
+last_updated: "2011-12-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011362"
 soort: "ministeriele-regeling"
@@ -1128,15 +1128,15 @@ Sederende antihistaminica hebben een matig negatieve tot ernstige of potentieel 
 
 Parkinsonmiddelen (dopamine-agonisten of parasympaticolytica) hebben geen tot een matig negatieve invloed op de rijvaardigheid (categorie I of II).
 
-Personen die antidepressiva gebruiken met een ernstige of potentieel gevaarlijke invloed op de rijvaardigheid (categorie III) zijn ongeschikt. Personen die – in een therapeutische dosis – antidepressiva gebruiken die geen tot matig negatieve invloed hebben op de rijvaardigheid (categorie I en II), kunnen geschikt worden verklaard. Voor middelen uit categorie II geldt dat er een week na de start van de behandeling ongeschiktheid is.
+Personen die antidepressiva gebruiken met een ernstige of potentieel gevaarlijke invloed op de rijvaardigheid (categorie III) zijn ongeschikt tenzij de antidepressiva ten minste gedurende een periode van 36 maanden zonder onderbreking in gelijkblijvende dosering zijn gebruikt en de persoon een rijtest in de vorm van een specialistisch universitair onderzoek in een rijsimulator positief heeft doorstaan. Het CBR heeft daarvoor een protocol. De maximale geschiktheidstermijn bedraagt vijf jaar.
 
 ### 10.13. Analgetica
 
-De tweede generatie antihistaminica hebben geen tot weinig negatieve invloed op de rijvaardigheid (categorie I). Personen die met deze geneesmiddelen worden behandeld, zijn geschikt, mits er geen rijgevaarlijke bijwerkingen optreden.
+Personen die lithiumzouten gebruiken, met een licht tot matig negatieve invloed op de rijvaardigheid (categorie II), kunnen geschikt worden verklaard. Na de start van de behandeling is er een week ongeschiktheid.
 
-### 10.10. Antihypertensiva
+### 10.4. Psychostimulantia
 
-Gebruik van deze geneesmiddelen maakt iemand ongeschikt. Een uitzondering is mogelijk voor zover psychostimulantia in therapeutische dosering gebruikt worden voor de behandeling van ADHD bij volwassenen, narcolepsie of pathologische hypersomnolentie. Wanneer er geen rijgevaarlijke bijwerkingen zijn, bestaat er in die gevallen geschiktheid.
+Hieronder vallen de groep amfetamines (o.a. dexamfetamine, amfetamine en methylfenidaat) en de groep overige psychostimulantia (modafinil).
 
 ### 10.5. Hypnotica, sedativa, anxiolytica
 
@@ -1252,7 +1252,7 @@ Personen die antipsychotica gebruiken met een ernstige of potentieel gevaarlijke
 
 ### 10.12. Maag-darmmiddelen
 
-Zowel behandeling met geneesmiddelen die de peristaltiek bevorderen, of de tonus normaliseren als behandeling met geneesmiddelen die de peristaltiek remmen, vormen geen reden tot ongeschiktheid. Dit geldt ook voor het gebruik van geneesmiddelen ter behandeling bij maagzweren.
+Personen die benzodiazepinen gebruiken met een ernstige of potentieel gevaarlijke invloed op de rijvaardigheid (categorie III) zijn ongeschikt. Personen die – in een therapeutische dosis – benzodiazepinen gebruiken die geen tot matig negatieve invloed hebben op de rijvaardigheid (categorie I en II), kunnen geschikt worden verklaard. Voor middelen uit categorie II geldt dat er bij chronisch gebruik een week na de start van de behandeling ongeschiktheid is.
 
 Hoewel deze geneesmiddelen hypoglykemieën kunnen veroorzaken, die kunnen leiden tot acute ongeschiktheid, hebben zij een gunstig effect op het onderliggende ziektebeeld.
 
@@ -1262,11 +1262,11 @@ De aandoening waarbij deze geneesmiddelen worden toegepast (epilepsie) vormt mee
 
 ### 10.18. Vertigomiddelen
 
-Vertigomiddelen (cinnarizine, flunarizine, piracetam) hebben een licht tot matig negatieve invloed op de rijvaardigheid (categorie II). Na start van de behandeling is er enkele dagen ongeschiktheid.
+Personen die behandeld worden met anti-epileptica die een ernstige of potentieel gevaarlijke invloed op de rijvaardigheid hebben (categorie III), zijn ongeschikt totdat de anti-epileptica ten minste gedurende een periode van één jaar zijn gebruikt.
 
-### 10.19. Misbruik van geneesmiddelen
+### 10.8. Anticoagulantia
 
-Personen waar sprake is van misbruik van geneesmiddelen, zoals benzodiazepinen, amfetamines en opioïden, zijn ongeschikt (zie ook paragraaf 8.8).
+Personen die worden behandeld met deze geneesmiddelen kunnen geschikt worden verklaard.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -1290,21 +1290,21 @@ De geschiktheidstermijn is maximaal drie jaar, zowel voor rijbewijzen van groep 
 
 ### 10.8. Anticoagulantia
 
-### 10.13. Analgetica
+### 10.6. Antidiabetica
 
-Gebruik van paracetamol en NSAID’s vormt in het algemeen geen reden tot ongeschiktheid. Een langdurige behandeling met stabiele doses van opioïden heeft geen negatieve invloed op de rijvaardigheid. Personen die behandeling ondergaan met opioïden zijn ongeschikt gedurende de eerste twee weken van de behandeling. Uitzondering geldt voor codeïne in een dosis tot en met 20 mg per dag, mits er geen (rijgevaarlijke) bijwerkingen optreden. Een aantal antidepressiva en anti-epileptica die voor neuropathische pijn worden voorgeschreven, zijn in de therapeutische dosis geen probleem voor de geschiktheid.
+Hoewel deze geneesmiddelen hypoglykemieën kunnen veroorzaken, die kunnen leiden tot acute ongeschiktheid, hebben zij een gunstig effect op het onderliggende ziektebeeld.
 
-### 10.14. Geneesmiddelen tegen migraine en clusterhoofdpijn
+### 10.7. Anti-epileptica
 
-Personen die behandeld worden met anti-epileptica die een ernstige of potentieel gevaarlijke invloed op de rijvaardigheid hebben (categorie III), zijn ongeschikt totdat de anti-epileptica ten minste gedurende een periode van één jaar zijn gebruikt.
+De aandoening waarbij deze geneesmiddelen worden toegepast (epilepsie) vormt meestal een meer wezenlijk probleem voor de geschiktheid dan de effecten van het geneesmiddel zelf.
 
-### 10.18. Vertigomiddelen
+### 10.9. Antihistaminica
 
-Sederende antihistaminica hebben een matig negatieve tot ernstige of potentieel gevaarlijke invloed op de rijvaardigheid (categorie II en III). Personen die behandeld worden met antihistaminica met een ernstige of potentieel gevaarlijke invloed (categorie III) zijn ongeschikt.
+Bij de beoordeling moet onderscheid gemaakt worden tussen antihistaminica van de eerste generatie (klassieke, sederende antihistaminica), en antihistaminica van de tweede generatie (niet-sederende antihistaminica).
 
 ### 10.17. Cytostatica/oncolytica
 
-Zolang bij gebruik van oncolytica rijgevaarlijke bijwerkingen zoals slaperigheid, sedatie of vertigo optreden is er ongeschiktheid.
+De tweede generatie antihistaminica hebben geen tot weinig negatieve invloed op de rijvaardigheid (categorie I). Personen die met deze geneesmiddelen worden behandeld, zijn geschikt, mits er geen rijgevaarlijke bijwerkingen optreden.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -1358,7 +1358,7 @@ Voor de beoordeling is een specialistisch rapport door een neuroloog vereist.
 
 ### 10.3. Geneesmiddelen bij stemmingstoornissen
 
-Personen die lithiumzouten gebruiken, met een licht tot matig negatieve invloed op de rijvaardigheid (categorie II), kunnen geschikt worden verklaard. Na de start van de behandeling is er een week ongeschiktheid.
+Personen die – in een therapeutische dosis – antidepressiva gebruiken die geen tot matig negatieve invloed hebben op de rijvaardigheid (categorie I en II), kunnen geschikt worden verklaard. Voor middelen uit categorie II geldt dat er een week na de start van de behandeling ongeschiktheid is.
 
 ### 10.8. Anticoagulantia
 
@@ -1368,13 +1368,13 @@ Personen die worden behandeld met deze geneesmiddelen kunnen geschikt worden ver
 
 Bij de beoordeling moet onderscheid gemaakt worden tussen antihistaminica van de eerste generatie (klassieke, sederende antihistaminica), en antihistaminica van de tweede generatie (niet-sederende antihistaminica).
 
-### 10.18. Vertigomiddelen
+### 10.10. Antihypertensiva
 
-Vertigomiddelen (cinnarizine, flunarizine, piracetam) hebben een licht tot matig negatieve invloed op de rijvaardigheid (categorie II). Na start van de behandeling is er enkele dagen ongeschiktheid.
+Antihypertensiva hebben in een therapeutische dosis geen negatieve invloed op de rijvaardigheid. Centraal aangrijpende antihypertensiva, zoals methyldopa en clonidine, kunnen sedatie geven en de rijvaardigheid negatief beïnvloeden.
 
-### 10.19. Misbruik van geneesmiddelen
+### 10.11. Corticosteroïden
 
-Personen waar sprake is van misbruik van geneesmiddelen, zoals benzodiazepinen, amfetamines en opioïden, zijn ongeschikt (zie ook paragraaf 8.8).
+Behandeling met corticosteroïden, bijvoorbeeld bij personen met astma, vormt geen reden voor ongeschiktheid.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -1400,11 +1400,11 @@ Personen met bewustzijnsstoornissen zijn, met uitzondering van de bewustzijnssto
 
 Hieronder vallen de groep amfetamines (o.a. dexamfetamine, amfetamine en methylfenidaat) en de groep overige psychostimulantia (modafinil).
 
-Personen die benzodiazepinen gebruiken met een ernstige of potentieel gevaarlijke invloed op de rijvaardigheid (categorie III) zijn ongeschikt. Personen die – in een therapeutische dosis – benzodiazepinen gebruiken die geen tot matig negatieve invloed hebben op de rijvaardigheid (categorie I en II), kunnen geschikt worden verklaard. Voor middelen uit categorie II geldt dat er bij chronisch gebruik een week na de start van de behandeling ongeschiktheid is.
+Personen die behandeld worden met barbituraten zijn ongeschikt.
 
 ### 10.6. Antidiabetica
 
-De tweede generatie antihistaminica hebben geen tot weinig negatieve invloed op de rijvaardigheid (categorie I). Personen die met deze geneesmiddelen worden behandeld, zijn geschikt, mits er geen rijgevaarlijke bijwerkingen optreden.
+Sederende antihistaminica hebben een matig negatieve tot ernstige of potentieel gevaarlijke invloed op de rijvaardigheid (categorie II en III). Personen die behandeld worden met antihistaminica met een ernstige of potentieel gevaarlijke invloed (categorie III) zijn ongeschikt.
 
 ### 10.10. Antihypertensiva
 
@@ -1433,6 +1433,44 @@ Op zichzelf vormen deze geneesmiddelen meestal geen reden tot ongeschiktheid.
 ### 10.16. Parkinsonmiddelen
 
 Parkinsonmiddelen (dopamine-agonisten of parasympaticolytica) hebben geen tot een matig negatieve invloed op de rijvaardigheid (categorie I of II).
+
+Parkinsonmiddelen (dopamine-agonisten of parasympaticolytica) hebben geen tot een matig negatieve invloed op de rijvaardigheid (categorie I of II).
+
+### 10.17. Cytostatica/oncolytica
+
+Zolang bij gebruik van oncolytica rijgevaarlijke bijwerkingen zoals slaperigheid, sedatie of vertigo optreden is er ongeschiktheid.
+
+### 10.18. Vertigomiddelen
+
+Vertigomiddelen (cinnarizine, flunarizine, piracetam) hebben een licht tot matig negatieve invloed op de rijvaardigheid (categorie II). Na start van de behandeling is er enkele dagen ongeschiktheid.
+
+### 10.19. Misbruik van geneesmiddelen
+
+Personen waar sprake is van misbruik van geneesmiddelen, zoals benzodiazepinen, amfetamines en opioïden, zijn ongeschikt (zie ook paragraaf 8.8).
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+Gebruik van deze geneesmiddelen maakt iemand ongeschikt. Een uitzondering is mogelijk voor zover psychostimulantia in therapeutische dosering gebruikt worden voor de behandeling van ADHD bij volwassenen, narcolepsie of pathologische hypersomnolentie. Wanneer er geen rijgevaarlijke bijwerkingen zijn, bestaat er in die gevallen geschiktheid.
+
+### 10.5. Hypnotica, sedativa, anxiolytica
+
+### 10.12. Maag-darmmiddelen
+
+Zowel behandeling met geneesmiddelen die de peristaltiek bevorderen, of de tonus normaliseren als behandeling met geneesmiddelen die de peristaltiek remmen, vormen geen reden tot ongeschiktheid. Dit geldt ook voor het gebruik van geneesmiddelen ter behandeling bij maagzweren.
+
+### 10.13. Analgetica
+
+Gebruik van paracetamol en NSAID’s vormt in het algemeen geen reden tot ongeschiktheid. Een langdurige behandeling met stabiele doses van opioïden heeft geen negatieve invloed op de rijvaardigheid. Personen die behandeling ondergaan met opioïden zijn ongeschikt gedurende de eerste twee weken van de behandeling. Uitzondering geldt voor codeïne in een dosis tot en met 20 mg per dag, mits er geen (rijgevaarlijke) bijwerkingen optreden. Een aantal antidepressiva en anti-epileptica die voor neuropathische pijn worden voorgeschreven, zijn in de therapeutische dosis geen probleem voor de geschiktheid.
+
+### 10.14. Geneesmiddelen tegen migraine en clusterhoofdpijn
+
+Het hoofdpijnmiddel pizotifeen heeft een licht tot matig negatieve invloed op de rijvaardigheid (categorie II). Na start van de behandeling is er enkele dagen ongeschiktheid.
+
+### 10.15. Parasympaticolytica, parasympaticomimetica, sympaticolytica, sympaticomimetica
+
+Op zichzelf vormen deze geneesmiddelen meestal geen reden tot ongeschiktheid.
+
+### 10.16. Parkinsonmiddelen
 
 Personen die behandeld worden met dopamine-agonisten zijn ongeschikt nadat een slaapaanval is opgetreden. Als na bijstelling van de therapie de slaapaanvallen wegblijven, kunnen zij weer geschikt worden verklaard.
 
