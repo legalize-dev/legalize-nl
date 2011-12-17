@@ -4,7 +4,7 @@ identifier: "BWBR0008836"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-09-23"
-last_updated: "2007-11-24"
+last_updated: "2011-12-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008836"
 soort: "ministeriele-regeling"
@@ -80,7 +80,7 @@ Dit besluit wordt aangehaald als: Nummerplan internationale signaleringspuntcode
 
 Dit besluit met bijbehorende bijlage en toelichting wordt ter inzage gelegd bij de Onafhankelijke Post en Telecommuncatie Autoriteit.
 
-## Bijlage. , als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008836&artikel=1&z=2007-11-24&g=2007-11-24), van het Besluit nummerplan internationale signaleringspuntcodes
+## Bijlage. , bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008836&artikel=1&z=2011-12-17&g=2011-12-17), van het Nummerplan internationale signaleringspuntcodes
 
 | Beschikbaar voor toekenning of reservering | Bestemming van de nummers | Lengte van de nummers |
 | --- | --- | --- |
@@ -95,6 +95,7 @@ Dit besluit met bijbehorende bijlage en toelichting wordt ter inzage gelegd bij 
 | 2-143-0 tot en met 2-143-7 | internationaal netwerkpunt | 5 |
 | 2-198-0 tot en met 2-198-7 | internationaal netwerkpunt | 5 |
 | 2-253-0 tot en met 2-253-7 | internationaal netwerkpunt | 5 |
+| 4-230-0 tot en met 4-230-7 | Internationaal netwerkpunt | 5 |
 | 4-238-0 tot en met 4-238-7 | internationaal netwerkpunt | 5 |
 | 5-239-0 tot en met 5-239-7 | internationaal netwerkpunt | 5 |
 | 6-249-0 tot en met 6-249-7 | internationaal netwerkpunt | 5 |
