@@ -4,7 +4,7 @@ identifier: "BWBR0022548"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-10-19"
-last_updated: "2010-09-17"
+last_updated: "2011-12-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022548"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - b. voorzitter: de voorzitter van het Avt;
 
-- c. DJI: de Dienst Justitiële Inrichtingen, bedoeld in [artikel 2, onderdeel d, onder 5](https://wetten.overheid.nl/jci1.3:c:BWBR0022607&artikel=2) en [artikel 37 van de Organisatieregeling Ministerie van Justitie 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022607&artikel=37);
+- c. DJI: de Dienst Justitiële Inrichtingen, bedoeld in [artikel 29 van de Organisatieregeling Ministerie van Veiligheid en Justitie 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030837&artikel=29);
 
 - d. Minister: de Minister van Justitie.
 
