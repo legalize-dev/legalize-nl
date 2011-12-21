@@ -4,7 +4,7 @@ identifier: "BWBR0007556"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-12-21"
-last_updated: "2010-01-01"
+last_updated: "2011-12-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007556"
 soort: "ministeriele-regeling"
@@ -40,7 +40,7 @@ Besluit:
 
 ##### Artikel 1
 
-Het verkeersbegeleidingstarief is vastgesteld zoals opgenomen in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0007556&bijlage=behorend_bij_artikel_1&z=2002-01-01&g=2010-01-01) bij deze regeling.
+Het verkeersbegeleidingstarief is vastgesteld zoals opgenomen in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0007556&bijlage=behorend_bij_artikel_1&z=2011-12-21&g=2011-12-21) bij deze regeling.
 
 ##### Artikel 2
 
@@ -48,11 +48,13 @@ De betaling van het verschuldigde tarief geschiedt binnen twee weken na dagteken
 
 ##### Artikel 3
 
-De ambtenaren van de rijksbelastingdienst, bevoegd inzake de douane, zijn belast met de inning van het tarief.
+1. De inspecteur, bedoeld in [artikel 1:4 van de Algemene douaneregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&artikel=1:4), is belast met het uitbrengen van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007556&artikel=2&z=2011-12-21&g=2011-12-21) bedoelde schriftelijke betalingsverzoeken en het vaststellen van de hoogte van de zekerheid, bedoeld in [artikel 8 van het Besluit verkeersbegeleidingstarieven scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007006&artikel=8).
+
+2. De ontvanger, bedoeld in [artikel 1:4 van de Algemene douaneregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&artikel=1:4), is belast met het in ontvangst nemen van de zekerheid, bedoeld in [artikel 8 van het Besluit verkeersbegeleidingstarieven scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007006&artikel=8) alsmede de verdere inning van het tarief.
 
 ##### Artikel 4
 
-De ambtenaren van de rijksbelastingdienst, bevoegd inzake de douane, zijn bevoegd ten behoeve van de inning van het tarief van de kapitein inzage te verlangen in de meetbrief van het desbetreffende zeeschip.
+De ontvanger en de inspecteur zijn bevoegd ten behoeve van de inning van het tarief van de kapitein inzage te verlangen in de meetbrief van het desbetreffende zeeschip.
 
 ##### Artikel 5
 
