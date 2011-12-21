@@ -4,7 +4,7 @@ identifier: "BWBR0028600"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2011-12-21"
-last_updated: "2010-10-10"
+last_updated: "2011-12-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028600"
 soort: "rijksKB"
@@ -50,6 +50,8 @@ De bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde;
 
 Hebben goedgevonden en verstaan:
 
+Treedt in werking op het tijdstip waarop artikel I, derde lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treedt.
+
 #### § 1. Inleidende bepalingen
 
 ##### Artikel 1. Begripsbepaling regeling
@@ -80,7 +82,7 @@ Hebben goedgevonden en verstaan:
 
 - e. **overnemende land:** het land dat ingevolge de bepalingen van dit besluit de respectievelijke rechten en verplichtingen overneemt zoals dat bepaald wordt in dit besluit;
 
-- f. **tijdstip van transitie:** het tijdstip, genoemd in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=4&artikel=14&z=2010-10-10&g=2010-10-10).
+- f. **tijdstip van transitie:** het tijdstip, genoemd in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=4&artikel=14&z=2011-12-21&g=2011-12-21).
 
 2. Indien een land de bevoegdheid ter zake van de uitvoering van een uitkering dan wel een hiermee naar aard en strekking overeenkomende voorziening, rechtstreeks opdraagt aan een daartoe door dat land aangewezen uitvoeringsorganisatie met rechtspersoonlijkheid van dat land, treedt die uitvoeringsorganisatie voor de toepassing van dit besluit in de plaats van dat land.
 
@@ -90,41 +92,45 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2. Toedeling uitkeringsgerechtigden Sociale Verzekeringsbank van de Nederlandse Antillen
 
-1. De uitkeringsgerechtigde die op het tijdstip van transitie woonachtig is op Curaçao, Sint Maarten, Bonaire, Sint Eustatius of Saba, verkrijgt met ingang van dat tijdstip op het land waar deze op dat tijdstip woonachtig is een met het recht op uitkering vergelijkbare aanspraak overeenkomstig de desbetreffende regelgeving van dat land. Voor de vaststelling van het woonachtig zijn van de uitkeringsgerechtigde met recht op een uitkering als bedoeld in [artikel 1, eerste lid, onderdeel c, onder 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=1&artikel=1&z=2010-10-10&g=2010-10-10), indien hij een psychiatrische patiënt is die verzorgd wordt in een psychiatrisch ziekenhuis als bedoeld in de Landsverordening verpleging psychiatrische patiënten (P.B. 2010, no. 31), wordt aangesloten bij het bepaalde in artikel 32 van die landsverordening.
+1. De uitkeringsgerechtigde die op het tijdstip van transitie woonachtig is op Curaçao, Sint Maarten, Bonaire, Sint Eustatius of Saba, verkrijgt met ingang van dat tijdstip op het land waar deze op dat tijdstip woonachtig is een met het recht op uitkering vergelijkbare aanspraak overeenkomstig de desbetreffende regelgeving van dat land. Voor de vaststelling van het woonachtig zijn van de uitkeringsgerechtigde met recht op een uitkering als bedoeld in [artikel 1, eerste lid, onderdeel c, onder 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=1&artikel=1&z=2011-12-21&g=2011-12-21), indien hij een psychiatrische patiënt is die verzorgd wordt in een psychiatrisch ziekenhuis als bedoeld in de Landsverordening verpleging psychiatrische patiënten (P.B. 2010, no. 31), wordt aangesloten bij het bepaalde in artikel 32 van die landsverordening.
 
 2. De uitkeringsgerechtigde die op het tijdstip van transitie buiten Curaçao, Sint Maarten, Bonaire, Sint Eustatius en Saba woonachtig is, verkrijgt met ingang van dat tijdstip, overeenkomstig de desbetreffende regelgeving van het overnemende land:
 
-- a. wat betreft de uitkeringsgerechtigde met recht op een uitkering als bedoeld in [artikel 1, eerste lid, onderdeel c, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=1&artikel=1&z=2010-10-10&g=2010-10-10), een daarmee vergelijkbare aanspraak op het land binnen wiens, onderscheidenlijk de landen binnen wier grondgebied de belanghebbende het recht op uitkering heeft opgebouwd, naar gelang het binnen het grondgebied van dat land opgebouwde recht.
+- a. wat betreft de uitkeringsgerechtigde met recht op een uitkering als bedoeld in [artikel 1, eerste lid, onderdeel c, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=1&artikel=1&z=2011-12-21&g=2011-12-21), een daarmee vergelijkbare aanspraak op het land binnen wiens, onderscheidenlijk de landen binnen wier grondgebied de belanghebbende het recht op uitkering heeft opgebouwd, naar gelang het binnen het grondgebied van dat land opgebouwde recht;
 
-- b. wat betreft de uitkeringsgerechtigde met recht op een uitkering als bedoeld in [artikel 1, eerste lid, onderdeel c, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=1&artikel=1&z=2010-10-10&g=2010-10-10), een daarmee vergelijkbare aanspraak op het land waar de overledene aan wiens overlijden het recht op uitkering wordt ontleend, laatstelijk woonachtig was.
+- b. wat betreft de uitkeringsgerechtigde met recht op een uitkering als bedoeld in [artikel 1, eerste lid, onderdeel c, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=1&artikel=1&z=2011-12-21&g=2011-12-21), een daarmee vergelijkbare aanspraak op het land waar de overledene aan wiens overlijden het recht op uitkering wordt ontleend, laatstelijk woonachtig was;
 
-- c. wat betreft de uitkeringsgerechtigde met recht op een uitkering als bedoeld in [artikel 1, eerste lid, onderdeel c, onder 3 en 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=1&artikel=1&z=2010-10-10&g=2010-10-10), een daarmee vergelijkbare aanspraak op het land binnen wiens grondgebied de aanspraak op deze uitkering is ontstaan.
+- c. wat betreft de uitkeringsgerechtigde met recht op een uitkering als bedoeld in [artikel 1, eerste lid, onderdeel c, onder 3 en 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=1&artikel=1&z=2011-12-21&g=2011-12-21), een daarmee vergelijkbare aanspraak op het land binnen wiens grondgebied de aanspraak op deze uitkering is ontstaan;
 
-- d. wat betreft de uitkeringsgerechtigde met recht op een uitkering als bedoeld in [artikel 1, eerste lid, onderdeel c, onder 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=1&artikel=1&z=2010-10-10&g=2010-10-10), een daarmee vergelijkbare aanspraak op het land binnen wiens grondgebied de belanghebbende laatstelijk woonachtig was, met dien verstande dat die aanspraak vervalt bij een onafgebroken verblijf buiten dat grondgebied van langer dan een jaar.
+- d. wat betreft de uitkeringsgerechtigde met recht op een uitkering als bedoeld in [artikel 1, eerste lid, onderdeel c, onder 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=1&artikel=1&z=2011-12-21&g=2011-12-21), een daarmee vergelijkbare aanspraak op het land binnen wiens grondgebied de belanghebbende laatstelijk woonachtig was, met dien verstande dat die aanspraak vervalt bij een onafgebroken verblijf buiten dat grondgebied van langer dan een jaar.
 
-3. Indien de uitkeringsgerechtigde, bedoeld in het tweede lid, onderdeel a, het recht op uitkering geheel of gedeeltelijk heeft opgebouwd buiten Curaçao, Sint Maarten, Bonaire, Sint Eustatius of Saba, wordt de met dat opgebouwde recht vergelijkbare aanspraak verkregen jegens het land binnen wiens grondgebied betrokkene laatstelijk woonachtig was onmiddellijk voorafgaand aan de periode van opbouw buiten Curaçao, Sint Maarten, Bonaire, Sint Eustatius of Saba.
+3. Indien de uitkeringsgerechtigde, bedoeld in het tweede lid, onderdeel a, het recht op uitkering geheel of gedeeltelijk heeft opgebouwd buiten Curaçao, Sint Maarten, Bonaire, Sint Eustatius of Saba, doch niet op Aruba vóór 1 januari 1986, wordt de met dat opgebouwde recht vergelijkbare aanspraak verkregen jegens het land binnen wiens grondgebied betrokkene laatstelijk woonachtig was onmiddellijk voorafgaand aan de periode van opbouw buiten Curaçao, Sint Maarten, Bonaire, Sint Eustatius of Saba.
 
-4. Op aanspraken op een uitkering is de wetgeving van het overnemende land van toepassing.
+4. Indien de uitkeringsgerechtigde, bedoeld in het tweede lid, onderdeel a, het recht op uitkering geheel of gedeeltelijk heeft opgebouwd op Aruba vóór 1 januari 1986, wordt de met dat op Aruba opgebouwde recht vergelijkbare aanspraak verkregen jegens het land Curaçao.
+
+5. Op aanspraken op een uitkering is de wetgeving van het overnemende land van toepassing.
 
 ##### Artikel 3. Toedeling verzekerden Sociale Verzekeringsbank van de Nederlandse Antillen
 
-1. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=2&artikel=2&z=2010-10-10&g=2010-10-10) genoemde toedeling wordt overeenkomstig toegepast op verzekerden zonder een op het tijdstip van transitie lopende uitkering, behoudens verzekerden op grond van de in [artikel 1, eerste lid, onderdeel c, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=1&artikel=1&z=2010-10-10&g=2010-10-10), genoemde regeling.
+1. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=2&artikel=2&z=2011-12-21&g=2011-12-21) genoemde toedeling wordt overeenkomstig toegepast op verzekerden zonder een op het tijdstip van transitie lopende uitkering, behoudens verzekerden op grond van de in [artikel 1, eerste lid, onderdeel c, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=1&artikel=1&z=2011-12-21&g=2011-12-21), genoemde regeling.
 
-2. In afwijking van het eerste lid geschiedt de toedeling van op het tijdstip van transitie opgebouwde aanspraken op uitkeringsrechten op grond van de in [artikel 1, eerste lid, onderdeel c, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=1&artikel=1&z=2010-10-10&g=2010-10-10), genoemde regeling van een belanghebbende die nog niet de in artikel 6 van die regeling genoemde leeftijd heeft bereikt, telkens naar rato jegens het land binnen wiens grondgebied de belanghebbende de respectievelijke rechten op uitkering ingevolge die regeling heeft opgebouwd. Voor zover de in de eerste volzin bedoelde opbouw van aanspraken buiten Curaçao, Sint Maarten, Bonaire, Sint Eustatius of Saba heeft plaatsgevonden, worden de desbetreffende aanspraken toegedeeld jegens het land binnen wiens grondgebied betrokkene laatstelijk woonachtig was onmiddellijk voorafgaand aan de periode van opbouw buiten Curaçao, Sint Maarten, Bonaire, Sint Eustatius of Saba.
+2. In afwijking van het eerste lid geschiedt de toedeling van op het tijdstip van transitie opgebouwde aanspraken op uitkeringsrechten op grond van de in [artikel 1, eerste lid, onderdeel c, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=1&artikel=1&z=2011-12-21&g=2011-12-21), genoemde regeling van een belanghebbende die nog niet de in artikel 6 van die regeling genoemde leeftijd heeft bereikt, telkens naar rato jegens het land binnen wiens grondgebied de belanghebbende de respectievelijke rechten op uitkering ingevolge die regeling heeft opgebouwd.
+
+3. Voor de toepassing van het tweede lid worden, voor zover de opbouw van aanspraken heeft plaatsgevonden buiten Curaçao, Sint Maarten, Bonaire, Sint Eustatius of Saba, doch niet op Aruba vóór 1 januari 1986, de desbetreffende aanspraken toegedeeld jegens het land binnen wiens grondgebied betrokkene laatstelijk woonachtig was onmiddellijk voorafgaand aan de periode van opbouw buiten Curaçao, Sint Maarten, Bonaire, Sint Eustatius of Saba. Voor zover de opbouw van aanspraken heeft plaatsgevonden op Aruba vóór 1 januari 1986, worden de desbetreffende aanspraken toegedeeld jegens het land Curaçao.
 
 ##### Artikel 4. Bijzondere bepaling overgangsrecht Algemene Ouderdomsverzekering
 
-In afwijking van [artikel 2, eerste lid, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=2&artikel=2&z=2010-10-10&g=2010-10-10), en [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=2&artikel=3&z=2010-10-10&g=2010-10-10), wordt het recht op de voordelen uit hoofde van de overgangsbepalingen zoals die onmiddellijk voorafgaand aan het tijdstip van transitie zijn neergelegd in de artikelen 40 tot en met 43 van de regeling, genoemd in [artikel 1, eerste lid, onderdeel c, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=1&artikel=1&z=2010-10-10&g=2010-10-10), en daarop rustende bepalingen, te gelde gemaakt jegens het land binnen wiens grondgebied betrokkene woonachtig is.
+In afwijking van [artikel 2, eerste lid, tweede lid, onder a, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=2&artikel=2&z=2011-12-21&g=2011-12-21), en [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=2&artikel=3&z=2011-12-21&g=2011-12-21), wordt het recht op de voordelen uit hoofde van de overgangsbepalingen zoals die onmiddellijk voorafgaand aan het tijdstip van transitie zijn neergelegd in de artikelen 40 tot en met 43 van de regeling, genoemd in [artikel 1, eerste lid, onderdeel c, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=1&artikel=1&z=2011-12-21&g=2011-12-21), en daarop rustende bepalingen, te gelde gemaakt jegens het land binnen wiens grondgebied betrokkene woonachtig is.
 
 ##### Artikel 5. Overgang beslissingen Sociale Verzekeringsbank van de Nederlandse Antillen
 
-1. Beslissingen van de Sociale Verzekeringsbank van de Nederlandse Antillen in verband met de toepassing van een regeling als bedoeld in [artikel 1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=1&artikel=1&z=2010-10-10&g=2010-10-10), behouden op het tijdstip van transitie hun rechtskracht en worden gelijkgesteld met beslissingen op basis van de desbetreffende vergelijkbare regeling van het overnemende land.
+1. Beslissingen van de Sociale Verzekeringsbank van de Nederlandse Antillen in verband met de toepassing van een regeling als bedoeld in [artikel 1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=1&artikel=1&z=2011-12-21&g=2011-12-21), behouden op het tijdstip van transitie hun rechtskracht en worden gelijkgesteld met beslissingen op basis van de desbetreffende vergelijkbare regeling van het overnemende land.
 
 2. Voor zover de overgang van beslissingen van de Sociale Verzekeringsbank van de Nederlandse Antillen niet reeds geregeld is op grond van het eerste lid, geschiedt deze overgang met overeenkomstige toepassing van [artikel 4 van het Rijksbesluit rechtsopvolging burgerlijke rechten en verplichtingen Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028594&artikel=4).
 
 ##### Artikel 6. Overgang meldingen aan Sociale Verzekeringsbank van de Nederlandse Antillen
 
-Meldingen en kennisgevingen aan de Sociale Verzekeringsbank van de Nederlandse Antillen, gedaan vóór het tijdstip van transitie ter voldoening aan een op grond van een regeling als bedoeld in [artikel 1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=1&artikel=1&z=2010-10-10&g=2010-10-10), geldende verplichting, worden geacht te zijn ingediend bij het overnemende land onderscheidenlijk de overnemende landen.
+Meldingen en kennisgevingen aan de Sociale Verzekeringsbank van de Nederlandse Antillen, gedaan vóór het tijdstip van transitie ter voldoening aan een op grond van een regeling als bedoeld in [artikel 1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=1&artikel=1&z=2011-12-21&g=2011-12-21), geldende verplichting, worden geacht te zijn ingediend bij het overnemende land onderscheidenlijk de overnemende landen.
 
 ##### Artikel 7. Lopende aanvragen en nieuwe aanvragen met terugwerkende kracht
 
@@ -134,7 +140,7 @@ Meldingen en kennisgevingen aan de Sociale Verzekeringsbank van de Nederlandse A
 
 ##### Artikel 8. Lopende bezwaar- en beroepsprocedures
 
-1. Op het tijdstip van transitie bij de Sociale Verzekeringsbank van de Nederlandse Antillen aanhangige bezwaarschriften in verband met de toepassing van een in [artikel 1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=1&artikel=1&z=2010-10-10&g=2010-10-10), genoemde regeling, gaan in de stand waarin zij zich bevinden, over naar het overnemende land.
+1. Op het tijdstip van transitie bij de Sociale Verzekeringsbank van de Nederlandse Antillen aanhangige bezwaarschriften in verband met de toepassing van een in [artikel 1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=1&artikel=1&z=2011-12-21&g=2011-12-21), genoemde regeling, gaan in de stand waarin zij zich bevinden, over naar het overnemende land.
 
 2. Indien op het tijdstip van transitie de Sociale Verzekeringsbank van de Nederlandse Antillen partij is in een geding betreffende de toepassing van een regeling als bedoeld in het eerste lid, treedt het overnemende land in de plaats van de Sociale Verzekeringsbank van de Nederlandse Antillen, met overneming van procureurstelling onderscheidenlijk aanwijzing van een gemachtigde.
 
@@ -142,7 +148,7 @@ Meldingen en kennisgevingen aan de Sociale Verzekeringsbank van de Nederlandse A
 
 ##### Artikel 9. Overname vorderingen en verplichtingen
 
-Vorderingen en verplichtingen op het tijdstip van transitie met betrekking tot de toepassing van de in [artikel 1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=1&artikel=1&z=2010-10-10&g=2010-10-10), genoemde regelingen, worden overgenomen door het land Curaçao dan wel Sint Maarten dan wel Nederland, naargelang van de uit de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=2&artikel=2&z=2010-10-10&g=2010-10-10) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=2&artikel=3&z=2010-10-10&g=2010-10-10) voortvloeiende toedeling.
+Vorderingen en verplichtingen op het tijdstip van transitie met betrekking tot de toepassing van de in [artikel 1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=1&artikel=1&z=2011-12-21&g=2011-12-21), genoemde regelingen, worden overgenomen door het land Curaçao dan wel Sint Maarten dan wel Nederland, naargelang van de uit de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=2&artikel=2&z=2011-12-21&g=2011-12-21) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=2&artikel=3&z=2011-12-21&g=2011-12-21) voortvloeiende toedeling.
 
 #### § 3. Overgang burgerlijke rechten en verplichtingen van de Sociale Verzekeringsbank van de Nederlandse Antillen
 
@@ -170,13 +176,13 @@ Vorderingen en verplichtingen op het tijdstip van transitie met betrekking tot d
 
 ##### Artikel 12. Toepasselijk recht en lopende geschillen
 
-[Artikel 7 van het Rijksbesluit rechtsopvolging burgerlijke rechten en verplichtingen Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028594&artikel=7) is van overeenkomstige toepassing op rechten en verplichtingen als bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=3&artikel=10&z=2010-10-10&g=2010-10-10) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=3&artikel=11&z=2010-10-10&g=2010-10-10).
+[Artikel 7 van het Rijksbesluit rechtsopvolging burgerlijke rechten en verplichtingen Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028594&artikel=7) is van overeenkomstige toepassing op rechten en verplichtingen als bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=3&artikel=10&z=2011-12-21&g=2011-12-21) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=3&artikel=11&z=2011-12-21&g=2011-12-21).
 
 #### § 4. Slotbepalingen
 
 ##### Artikel 13. Bijzondere bepaling algemene verzekering bijzondere ziektekosten
 
-Indien de uitvoering van de Landsverordening algemene verzekering bijzondere ziektekosten (P.B. 1996, no. 211) op het in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=4&artikel=14&z=2010-10-10&g=2010-10-10) bedoelde tijdstip bij de Stichting Bureau Ziektekostenvoorzieningen berust, dan is het in de [artikelen 5 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=2&artikel=5&z=2010-10-10&g=2010-10-10) van dit besluit bepaalde van overeenkomstige toepassing ten aanzien van die uitvoering door de Stichting Bureau Ziektekostenvoorzieningen.
+Indien de uitvoering van de Landsverordening algemene verzekering bijzondere ziektekosten (P.B. 1996, no. 211) op het in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=4&artikel=14&z=2011-12-21&g=2011-12-21) bedoelde tijdstip bij de Stichting Bureau Ziektekostenvoorzieningen berust, dan is het in de [artikelen 5 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=2&artikel=5&z=2011-12-21&g=2011-12-21) van dit besluit bepaalde van overeenkomstige toepassing ten aanzien van die uitvoering door de Stichting Bureau Ziektekostenvoorzieningen.
 
 ##### Artikel 14. Inwerkingtreding
 
