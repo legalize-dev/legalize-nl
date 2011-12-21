@@ -4,7 +4,7 @@ identifier: "BWBR0029264"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-12-21"
-last_updated: "2011-12-16"
+last_updated: "2011-12-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029264"
 soort: "ministeriele-regeling"
@@ -88,7 +88,7 @@ Besluit:
 |   | Subsidieregeling sterktes in innovatie (IOP’s) | 3.2 | Precisietechnologie (periode vooraanmelding) | – | – |
 |   | Subsidieregeling sterktes in innovatie (IOP’s) | 3.2 | Precisietechnologie | – | – |
 |   | Subsidieregeling sterktes in innovatie (IOP’s) | 3.2 | IPCR (periode vooraanmelding) | 10-05 t/m 15-06 |   |
-|   | Subsidieregeling sterktes in innovatie (IOP’s) | 3.2 | IPCR | 5-09 t/m 5-10 | 2.500.000 |
+|   | Subsidieregeling sterktes in innovatie (IOP’s) | 3.2 | IPCR | 5-09 t/m 5-10 | 2.650.000 |
 |   | Subsidieregeling sterktes in innovatie (IOP’s) | 3.2 | MMI (periode vooraanmelding) | – | – |
 |   | Subsidieregeling sterktes in innovatie (IOP’s) | 3.2 | MMI | – | – |
 |   | Subsidieregeling sterktes in innovatie (IOP’s) | 3.2 | Self healing materials (periode vooraanmelding) | 14-11 t/m 5-12 | – |
