@@ -4,7 +4,7 @@ identifier: "BWBR0030599"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-01-01"
-last_updated: "2011-11-04"
+last_updated: "2011-12-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030599"
 soort: "ministeriele-regeling"
@@ -50,28 +50,34 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
-1. Een aanbieder die na 31 december 2011 overeenkomsten inzake beleggingsobjecten beheert of uitvoert is vrijgesteld van [artikel 2:55, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:55), voor zover deze beleggingsobjecten voor 1 januari 2012 werden aangeboden voor een nominaal bedrag per beleggingsobject van ten minste € 50 000 en minder dan € 100 000.
+1. Een aanbieder die na 31 december 2011 overeenkomsten inzake beleggingsobjecten beheert of uitvoert is terzake van die overeenkomsten vrijgesteld van [artikel 2:55, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:55), alsmede van de bij of krachtens het [Deel Prudentieel toezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3) en het [Deel Gedragstoezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4) gestelde regels, voor zover de beleggingsobjecten voor 1 januari 2012 werden aangeboden voor een nominaal bedrag per beleggingsobject van ten minste € 50 000 en minder dan € 100 000.
 
-2. Het eerste lid is slechts van toepassing:
+2. Het eerste lid is slechts van toepassing indien de aanbieder:
 
-- a. indien de aanbieder uiterlijk op 31 januari 2012 een vergunning als bedoeld in [artikel 2:55, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:55) aanvraagt; en
+- a. voor 1 februari 2012 aan de Autoriteit Financiële Markten meldt dat hij voornemens is een vergunning als bedoeld in [artikel 2:55, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:55) aan te vragen, onder gelijktijdige verstrekking van door de Autoriteit Financiële Markten te bepalen gegevens;
 
-- b. tot de datum van de dag waarop de Autoriteit Financiële Markten een besluit heeft genomen op deze vergunningaanvraag.
+- b. voor 1 september 2012 een vergunning als bedoeld in [artikel 2:55, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:55) aanvraagt.
 
-3. Van [artikel 2:65, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:65) is vrijgesteld een aanbieder die na 31 december 2011 rechten van deelneming in een beleggingsinstelling aanbiedt, voor zover voor 1 januari 2012:
+3. De vrijstelling van [artikel 2:55, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:55) eindigt op 31 december 2012 dan wel op het tijdstip waarop de beslissing op de vergunningaanvraag, bedoeld in het tweede lid, onderdeel b, is bekendgemaakt, indien die bekendmaking op een latere datum geschiedt.
 
-- a. deelnemingsrechten in deze beleggingsinstelling konden worden verworven tegen een tegenwaarde van ten minste € 50 000 en minder dan € 100 000 per deelnemer; of
+4. De vrijstelling van de bij of krachtens het [Deel Prudentieel toezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3) en het [Deel Gedragstoezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4) gestelde regels eindigt op 31 augustus 2012.
 
-- b. deelnemingsrechten in deze beleggingsinstelling een nominale waarde per recht hadden van ten minste € 50 000 en minder dan € 100 000.
+5. Een aanbieder van rechten van deelneming in een beleggingsinstelling is tot en met 22 juli 2013 vrijgesteld van [artikel 2:65, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:65), voor zover het betreft rechten van deelneming in een beleggingsinstelling die voor 1 januari 2012:
 
-4. Het derde lid is slechts van toepassing:
+- a. konden worden verworven tegen een tegenwaarde van ten minste € 50 000 en minder dan € 100 000 per deelnemer; of
 
-- a. indien de beheerder van de beleggingsinstelling waarin deelnemingsrechten worden aangeboden uiterlijk op 31 januari 2012 een vergunning als bedoeld in [artikel 2:65, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:65) aanvraagt; en
+- b. een nominale waarde per recht hadden van ten minste € 50 000 en minder dan € 100 000.
 
-- b. tot de datum van de dag waarop de Autoriteit Financiële Markten een besluit heeft genomen op deze vergunningaanvraag.
+6. De beheerder van een beleggingsinstelling is tot en met 22 juli 2013 vrijgesteld van de bij of krachtens het [Deel Prudentieel toezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3) en het [Deel Gedragstoezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4) gestelde regels, voor zover de rechten van deelneming in de beleggingsinstelling voor 1 januari 2012:
+
+- a. konden worden verworven tegen een tegenwaarde van ten minste € 50 000 en minder dan € 100 000 per deelnemer; of
+
+- b. een nominale waarde per recht hadden van ten minste € 50 000 en minder dan € 100 000.
+
+7. Het vijfde lid is niet van toepassing op beheerders van beleggingsinstellingen, voor zover zij rechten van deelneming aanbieden of hebben aangeboden in beleggingsinstellingen die voorzieningen aanhouden in het kader van een levensloopregeling als bedoeld in [artikel 19g van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19g).
 
 ##### Artikel IV
 
-Deze regeling treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0030599&artikel=II&z=2011-11-04&g=2011-11-04), dat op 1 januari 2012 in werking treedt.
+Deze regeling treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0030599&artikel=II&z=2011-12-23&g=2011-12-23), dat op 1 januari 2012 in werking treedt.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
