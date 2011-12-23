@@ -4,7 +4,7 @@ identifier: "BWBR0021449"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2015-03-01"
-last_updated: "2009-08-26"
+last_updated: "2011-12-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021449"
 soort: "beleidsregel"
@@ -57,24 +57,28 @@ Commuun
 
 Lasterlijke aanklacht, zoals bedoeld in [art. 268 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=268).
 
-Commuun en verkeer
+Aanwijzing Kader voor strafvordering
 
 20 punten
+
+Indien van toepassing: afhankelijk van beleid van het parket
 
 Toepassing dwangmiddelen
 
 Medeplegen
 
-Agressie in het verkeer
+**(DV) + dagvaarden**
 
-Met betrekking tot een aantal delicten, zoals mishandeling, openlijke geweld, vernieling en bedreiging, dient het eventuele feit dat de gepleegde agressieve handeling samenhangt met, of terug te voeren is op een verkeerssituatie, strafverzwarend te worden beoordeeld. Reden voor die verzwaring is enerzijds het risico van escalatie van dergelijke delicten in een overgevoelige situatie, en anderzijds de verhoogde gevaarzetting die agressie in een verkeerssituatie voor andere verkeersdeelnemers doorgaans oplevert.
+**(TS) + in beginsel taakstraf**
 
 Medeplichtigheid
 
-Mate van recidive (5 jaar)
+**(NH) + naast hogere sanctie**
+
+**(DV) + dagvaarden**
 
 Geen
 
-– Schaderegeling
+Geen
 
 Geen
