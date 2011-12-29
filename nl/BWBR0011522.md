@@ -4,7 +4,7 @@ identifier: "BWBR0011522"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2010-01-01"
+last_updated: "2011-12-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011522"
 soort: "ministeriele-regeling"
@@ -129,15 +129,7 @@ Onder bijzondere familieomstandigheden, bedoeld in de artikelen 7, tweede lid, o
 
 ##### Artikel 8. Informatieverplichtingen dagscholen
 
-1. Dagscholen zenden de Minister in de periode vanaf de aanvang van het onderwijs na de zomervakantie tot 1 oktober ten minste wekelijks, op 4 oktober, en daarna telkens op elke eerste dag van de maand het voor de Minister bestemde deel van de op grond van:
-
-- a. artikel 2 van het besluit ontvangen onderwijskaarten, en
-
-- b. artikel 3 van het besluit uitgereikte bewijzen van uitschrijving.
-
-2. Indien de leerling de opleiding met goed gevolg heeft afgesloten, zendt de dagschool de Minister het desbetreffende deel van het bewijs van uitschrijving binnen een week na de dag waarop de examencommissie de uitslag heeft bekend gemaakt of waarop het praktijkonderwijs is geëindigd.
-
-3. Binnen 4 weken na ontvangst retourneren de dagscholen aan de Minister de hen ter controle toegezonden lijst waarop alle op 1 oktober van het schooljaar bij de dagschool ingeschreven leerlingen zijn vermeld.
+Vervallen
 
 ##### Artikel 9. Inschrijvingsformulier cursus
 
