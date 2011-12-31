@@ -4,7 +4,7 @@ identifier: "BWBR0032208"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2011-01-01"
+last_updated: "2011-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032208"
 soort: "wet"
@@ -118,7 +118,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Overige fiscale maatregelen 2012.
 
 ##### Artikel XVII
 
