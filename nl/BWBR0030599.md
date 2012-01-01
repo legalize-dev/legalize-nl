@@ -4,7 +4,7 @@ identifier: "BWBR0030599"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-01-01"
-last_updated: "2011-12-23"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030599"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ De regeling van de Minister van Financiën van 27 juni 2011 tot wijziging van Vr
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Vrijstellingsregeling Wft.
 
 ##### Artikel III
 
@@ -78,6 +78,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
-Deze regeling treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0030599&artikel=II&z=2011-12-23&g=2011-12-23), dat op 1 januari 2012 in werking treedt.
+Deze regeling treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0030599&artikel=II&z=2012-01-01&g=2012-01-01), dat op 1 januari 2012 in werking treedt.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
