@@ -4,7 +4,7 @@ identifier: "BWBR0017627"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2006-05-24"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017627"
 soort: "AMvB"
@@ -38,7 +38,7 @@ entry_into_force: "2013-01-01"
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 19 december 2003, nr. HDJZ/S&W/2003-1875, Hoofddirectie Juridische Zaken;
 
-Gelet op [richtlijn 2001/14/EG](32001L0014) van het Europees Parlement en de Raad van 26 februari 2001 inzake de toewijzing van spoorweginfrastructuurcapaciteit en de heffing van rechten voor het gebruik van spoorweginfrastructuur (PbEG L 75), en op de [artikelen 57, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=57), [59, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=59), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=61) en [62, achtste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=62), en wat betreft [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&paragraaf=6&artikel=15&z=2006-05-24&g=2006-05-24) van dit besluit, op [artikel 27 van de Spoorwegwet 1875](https://wetten.overheid.nl/jci1.3:c:BWBR0001848&artikel=27);
+Gelet op [richtlijn 2001/14/EG](32001L0014) van het Europees Parlement en de Raad van 26 februari 2001 inzake de toewijzing van spoorweginfrastructuurcapaciteit en de heffing van rechten voor het gebruik van spoorweginfrastructuur (PbEG L 75), en op de [artikelen 57, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=57), [59, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=59), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=61) en [62, achtste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=62), en wat betreft [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&paragraaf=6&artikel=15&z=2012-01-01&g=2012-01-01) van dit besluit, op [artikel 27 van de Spoorwegwet 1875](https://wetten.overheid.nl/jci1.3:c:BWBR0001848&artikel=27);
 
 De Raad van State gehoord (advies van 19 februari 2004, nr. W09.03.0542/V);
 
@@ -98,7 +98,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-Iedere natuurlijke persoon of rechtspersoon die om commerciële redenen aantoonbaar belang heeft bij de verwerving van capaciteit voor het doen vervoeren van lading door middel van spoorvervoerdiensten is gerechtigd tot het sluiten van een toegangsovereenkomst en een kaderovereenkomst met de beheerder.
+Iedere natuurlijke persoon of rechtspersoon die om commerciële redenen aantoonbaar belang heeft bij de verwerving van capaciteit voor het doen vervoeren van personen of lading door middel van spoorvervoerdiensten is gerechtigd tot het sluiten van een toegangsovereenkomst en een kaderovereenkomst met de beheerder.
 
 #### § 2. Algemene voorwaarden bij de toegangsovereenkomst
 
@@ -136,7 +136,11 @@ De beheerder en gerechtigden nemen bij de capaciteitsverdelingsprocedure voor de
 
 ##### Artikel 6
 
-De benodigde capaciteit voor geplande buitendienststellingen van de hoofdspoorwegen ten behoeve van werkzaamheden aan of nabij de hoofdspoorwegen, of benodigde capaciteit voor het door de beheerder op te stellen onderhoudsrooster, wordt bij de capaciteitsverdelingsprocedure voor de normale dienstregeling verdeeld.
+1. De benodigde capaciteit voor de beheerder, voor ten tijde van de sluitingsdatum van de capaciteitsaanvragen voor de normale dienstregeling redelijkerwijs voorzienbaar en planbaar onderhoud en werkzaamheden ten behoeve van de hoofdspoorweginfrastructuur aan of nabij de hoofdspoorwegen, wordt bij de capaciteitsverdelingsprocedure voor de normale dienstregeling verdeeld.
+
+2. De beheerder handelt tijdens de capaciteitsverdelingsprocedure voor de normale dienstregeling transparant ten aanzien van de benodigde capaciteit, bedoeld in het eerste lid. Hieronder wordt verstaan dat de beheerder zijn aanvraag voorziet van een onderbouwing van nut en noodzaak van de benodigde capaciteit, in geval van een geschil over de benodigde capaciteit of indien er geen overeenstemming kan worden bereikt tijdens de coördinatie ten aanzien van concurrerende capaciteitsaanvragen die betrekking hebben op de benodigde capaciteit.
+
+3. De beheerder handelt transparant ten aanzien van zijn benodigde capaciteit voor niet redelijkerwijs voorzienbaar of niet planbaar onderhoud en werkzaamheden ten behoeve van de hoofdspoorweginfrastructuur aan of nabij de hoofdspoorwegen. Hieronder wordt verstaan dat de beheerder zijn aanvraag voorziet van een onderbouwing van nut en noodzaak van de benodigde capaciteit, in geval van een geschil over de benodigde capaciteit.
 
 #### § 4. Regels ten aanzien van overbelast verklaarde infrastructuur
 
@@ -144,31 +148,43 @@ De benodigde capaciteit voor geplande buitendienststellingen van de hoofdspoorwe
 
 1. Indien de beheerder constateert dat er geen overeenstemming kan worden bereikt tijdens de coördinatie ten aanzien van concurrerende capaciteitsaanvragen die betrekking hebben op vervoer, kunnen beheerder en een betrokken gerechtigde door toepassing van een verhoging als bedoeld in [artikel 62, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=62) tot overeenstemming komen.
 
-2. Indien de verhoging bedoeld in [artikel 62, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=62) niet is toegepast of geen bevredigend resultaat heeft opgeleverd:
+2. Indien de verhoging, bedoeld in [artikel 62, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=62), niet is toegepast of geen bevredigend resultaat heeft opgeleverd:
 
-- a. verklaart de beheerder de betrokken infrastructuur overbelast,
+- a. verklaart de beheerder de betrokken infrastructuur overbelast;
 
-- b. verricht deze een capaciteitsanalyse als bedoeld in artikel 25 van [richtlijn 2001/14/EG](32001L0014) en
+- b. verricht de beheerder binnen 26 weken na de overbelastverklaring een capaciteitsanalyse als bedoeld in artikel 25 van richtlijn 2001/14/EG;
 
-- c. stelt deze binnen zes maanden een capaciteitsvergrotingsplan als bedoeld in artikel 26 van [richtlijn 2001/14/EG](32001L0014) op.
+- c. stelt de beheerder na overleg met betrokken gerechtigden binnen 26 weken na de capaciteitsanalyse een capaciteitsvergrotingsplan op als bedoeld in artikel 26 van richtlijn 2001/14/EG;
+
+- d. informeert de beheerder binnen 4 weken na opstelling van het capaciteitsvergrotingsplan betrokken gerechtigden en Onze Minister over het capaciteitsvergrotingsplan, en
+
+- e. informeert de beheerder ten minste jaarlijks alle gerechtigden en Onze Minister over de wijze van uitvoering van het capaciteitsvergrotingsplan.
 
 3. Het resultaat van de verhoging is in ieder geval niet bevredigend indien ten gevolge hiervan het minimale niveau van het personenvervoer, niet zijnde het hogesnelheidspersonenvervoer, van het hogesnelheidspersonenvervoer of van het goederenvervoer niet worden gehaald.
 
-4. Indien de verhoging bedoeld in [artikel 62, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=62), is doorberekend, verricht de beheerder een capaciteitsanalyse als bedoeld in artikel 25 van [richtlijn 2001/14/EG](32001L0014) en stelt deze binnen zes maanden een capaciteitsvergrotingsplan als bedoeld in artikel 26 van [richtlijn 2001/14/EG](32001L0014) op.
+4. Indien de verhoging, bedoeld in [artikel 62, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=62), is doorberekend:
 
-5. Het tweede lid, onderdelen b en c, en het vierde lid gelden niet indien reeds uitvoering wordt gegeven aan een capaciteitsvergrotingsplan als bedoeld in artikel 26 van [richtlijn 2001/14/EG](32001L0014).
+- a. verricht de beheerder binnen 26 weken na de toepassing van de verhoging een capaciteitsanalyse als bedoeld in artikel 25 van richtlijn 2001/14/EG;
+
+- b. stelt de beheerder na overleg met betrokken gerechtigden binnen 26 weken na de capaciteitsanalyse een capaciteitsvergrotingsplan als bedoeld in artikel 26 van richtlijn 2001/14/EG op;
+
+- c. informeert de beheerder binnen 4 weken na opstelling van het capaciteitsvergrotingsplan betrokken gerechtigden en Onze Minister over het capaciteitsvergrotingsplan, en
+
+- d. informeert de beheerder tenminste jaarlijks alle gerechtigden en Onze Minister over de wijze van uitvoering van het capaciteitsvergrotingsplan.
+
+5. Het tweede lid, onderdelen b en c, en het vierde lid, onderdelen a en b, gelden niet indien reeds uitvoering wordt gegeven aan een capaciteitsvergrotingsplan als bedoeld in artikel 26 van [richtlijn 2001/14/EG](32001L0014).
 
 ##### Artikel 8
 
-1. Indien concurrerende capaciteitsaanvragen betrekking hebben op vervoer en de infrastructuur overeenkomstig [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&paragraaf=4&artikel=7&z=2006-05-24&g=2006-05-24), overbelast is verklaard, is het minimale niveau:
+1. Indien concurrerende capaciteitsaanvragen betrekking hebben op vervoer en de infrastructuur overeenkomstig [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&paragraaf=4&artikel=7&z=2012-01-01&g=2012-01-01), overbelast is verklaard, is het minimale niveau:
 
-- a. voor personenvervoer, niet zijnde hogesnelheidspersonenvervoer, met de op basis van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&paragraaf=4&artikel=10&z=2006-05-24&g=2006-05-24) geldende prioriteitsvolgorde van deelmarkten van dat vervoer, een bedieningsfrequentie per uur in iedere richting, gedurende de dagperiode voor de op kaart 2 behorende bij dit besluit aangeduide baanvakken:
+- a. voor personenvervoer, niet zijnde hogesnelheidspersonenvervoer, met de op basis van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&paragraaf=4&artikel=10&z=2012-01-01&g=2012-01-01) geldende prioriteitsvolgorde van deelmarkten van dat vervoer, een bedieningsfrequentie per uur in iedere richting, gedurende de dagperiode voor de op kaart 2 behorende bij dit besluit aangeduide baanvakken:
 
 - 1°. tussen de grote stations: van 2 paden in de spits en 2 paden daarbuiten;
 
 - 2°. tussen overige stations: van 2 paden in de spits en 1 pad daarbuiten.
 
-- b. voor hogesnelheidspersonenvervoer een bedieningsfrequentie per uur, gedurende de dagperiode:
+- b. voor hogesnelheidspersonenvervoer een bedieningsfrequentie per uur in beide richtingen, gedurende de dagperiode:
 
 - 1. Amsterdam CS – Schiphol – Rotterdam CS – Belgische grens 2 paden per uur;
 
@@ -178,7 +194,7 @@ De benodigde capaciteit voor geplande buitendienststellingen van de hoofdspoorwe
 
 - 4. Den Haag CS – Rotterdam CS – Breda – Belgische grens 0,5 pad per uur.
 
-- c. voor goederenvervoer, met de op basis van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&paragraaf=4&artikel=10&z=2006-05-24&g=2006-05-24) geldende prioriteitsvolgorde van deelmarkten van dat vervoer, een bedieningsfrequentie in iedere richting
+- c. voor goederenvervoer, met de op basis van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&paragraaf=4&artikel=10&z=2012-01-01&g=2012-01-01) geldende prioriteitsvolgorde van deelmarkten van dat vervoer, een bedieningsfrequentie in iedere richting
 
 | Van/naar | Via | Naar/Van | Paden/uur buiten de spits | Paden/uur in de spits |
 | --- | --- | --- | --- | --- |
@@ -219,7 +235,7 @@ De benodigde capaciteit voor geplande buitendienststellingen van de hoofdspoorwe
 
 ##### Artikel 9
 
-1. Indien de benodigde capaciteit voor buiten dienst te stellen hoofdspoorwegen ten behoeve van werkzaamheden aan of nabij de hoofdspoorwegen of de benodigde capaciteit voor het door de beheerder op te stellen onderhoudsrooster concurreert met de capaciteitsaanvragen van één of meerdere gerechtigden en er tussen de beheerder en de betrokken gerechtigden tijdens de coördinatie geen overeenstemming kan worden bereikt, verklaart de beheerder de betrokken infrastructuur overbelast, verricht deze een capaciteitsanalyse als bedoeld in artikel 25 van [richtlijn 2001/14/EG](32001L0014) en stelt deze binnen zes maanden een capaciteitsvergrotingsplan als bedoeld in artikel 26 van [richtlijn 2001/14/EG](32001L0014) op.
+1. Indien de benodigde capaciteit voor de beheerder, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&paragraaf=3&artikel=6&z=2012-01-01&g=2012-01-01), concurreert met de capaciteitsaanvragen van één of meerdere gerechtigden en tussen de beheerder en de betrokken gerechtigden tijdens de coördinatie geen overeenstemming wordt bereikt, volgt de beheerder de procedure, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&paragraaf=4&artikel=7&z=2012-01-01&g=2012-01-01).
 
 2. Er wordt prioriteit toegekend aan de door de beheerder benodigde capaciteit, indien:
 
@@ -227,11 +243,11 @@ De benodigde capaciteit voor geplande buitendienststellingen van de hoofdspoorwe
 
 - b. de bedrijfseconomische gevolgen bij niet toekennen van prioriteit voor de beheerder nadelig zijn ten opzichte van de bedrijfseconomische gevolgen van de betrokken gerechtigde bij deze prioriteitsvolgorde.
 
-3. Er wordt prioriteit toegekend aan capaciteitsaanvragen met betrekking tot personenvervoer in de spits indien deze concurreren met benodigde capaciteit voor het door de beheerder op te stellen onderhoudsrooster.
+3. Er wordt prioriteit toegekend aan capaciteitsaanvragen met betrekking tot personenvervoer in de spits indien deze concurreren met de benodigde capaciteit voor de beheerder van redelijkerwijs voorzienbaar en planbaar onderhoud ten behoeve van de hoofdspoorweginfrastructuur aan of nabij de hoofdspoorwegen.
 
 ##### Artikel 10
 
-Indien de infrastructuur overeenkomstig [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&paragraaf=4&artikel=7&z=2006-05-24&g=2006-05-24), overbelast is verklaard, wordt bij de verdeling van capaciteit na toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&paragraaf=4&artikel=8&z=2006-05-24&g=2006-05-24) prioriteit toegekend aan deelmarkten overeenkomstig onderstaande volgorde:
+Indien de infrastructuur overeenkomstig [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&paragraaf=4&artikel=7&z=2012-01-01&g=2012-01-01), overbelast is verklaard, wordt bij de verdeling van capaciteit na toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&paragraaf=4&artikel=8&z=2012-01-01&g=2012-01-01) prioriteit toegekend aan deelmarkten overeenkomstig onderstaande volgorde:
 
 - a. stadsgewestelijk openbaar vervoer;
 
@@ -253,11 +269,11 @@ Indien de infrastructuur overeenkomstig [artikel 7, tweede lid](https://wetten.o
 
 ##### Artikel 11
 
-Indien de infrastructuur overeenkomstig [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&paragraaf=4&artikel=7&z=2006-05-24&g=2006-05-24), overbelast is verklaard en de concurrerende capaciteitsaanvragen zich binnen eenzelfde deelmarkt van het personenvervoer of binnen het hogesnelheidspersonenvervoer, voordoen, komt prioriteit toe aan het zoveel mogelijk minimaliseren van de reistijd van de betrokken reizigers in Nederland, gewogen naar reizigersaantallen.
+Indien de infrastructuur overeenkomstig [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&paragraaf=4&artikel=7&z=2012-01-01&g=2012-01-01), overbelast is verklaard en de concurrerende capaciteitsaanvragen zich binnen eenzelfde deelmarkt van het personenvervoer of binnen het hogesnelheidspersonenvervoer, voordoen, komt prioriteit toe aan het zoveel mogelijk minimaliseren van de reistijd van de betrokken reizigers in Nederland, gewogen naar reizigersaantallen.
 
 ##### Artikel 12
 
-Indien de infrastructuur overeenkomstig [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&paragraaf=4&artikel=7&z=2006-05-24&g=2006-05-24), overbelast is verklaard en de concurrerende capaciteitsaanvragen zich binnen een deelmarkt van het goederenvervoer voordoen, komt prioriteit toe aan het vervoer dat voldoet aan navolgende criteria. Bij toepassing van deze criteria geldt dat een later genoemd criterium slechts toepassing vindt, indien eerder genoemde criteria geen oplossing bieden:
+Indien de infrastructuur overeenkomstig [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&paragraaf=4&artikel=7&z=2012-01-01&g=2012-01-01), overbelast is verklaard en de concurrerende capaciteitsaanvragen zich binnen een deelmarkt van het goederenvervoer voordoen, komt prioriteit toe aan het vervoer dat voldoet aan navolgende criteria. Bij toepassing van deze criteria geldt dat een later genoemd criterium slechts toepassing vindt, indien eerder genoemde criteria geen oplossing bieden:
 
 - a. het internationale goederenvervoer met uitzondering van het internationale goederenvervoer dat gebruik maakt van het baanvak van/naar Dordrecht via Venlo naar/van Duitse grens;
 
@@ -275,7 +291,7 @@ Indien de infrastructuur overeenkomstig [artikel 7, tweede lid](https://wetten.o
 
 ##### Artikel 13
 
-1. Het in [artikel 8, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&paragraaf=4&artikel=8&z=2006-05-24&g=2006-05-24), genoemde minimale niveau per deelmarkt van het goederenvervoer is voorbehouden ten behoeve van dit gebruik tot op het moment van capaciteitsverdeling voor de normale dienstregeling.
+1. Het in [artikel 8, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&paragraaf=4&artikel=8&z=2012-01-01&g=2012-01-01), genoemde minimale niveau per deelmarkt van het goederenvervoer is voorbehouden ten behoeve van dit gebruik tot op het moment van capaciteitsverdeling voor de normale dienstregeling.
 
 2. De internationaal overeengekomen paden zijn voorbehouden ten behoeve van dit gebruik.
 
@@ -283,7 +299,7 @@ Indien de infrastructuur overeenkomstig [artikel 7, tweede lid](https://wetten.o
 
 4. De beheerder raamt jaarlijks het deel van de minimale niveaus voor goederenvervoer dat ten behoeve van ad hoc aanvragen dient te worden voorbehouden. Indien de behoefte van gerechtigden hoger ligt dan het in het derde lid genoemde percentage, is dat percentage voorbehouden ten behoeve van dit gebruik.
 
-#### § 6. Overgangs- en slotbepalingen
+#### § 5. Voorbehouden van capaciteit
 
 ##### Artikel 14
 
@@ -306,5 +322,41 @@ Dit besluit wordt aangehaald als: Besluit capaciteitsverdeling hoofdspoorweginfr
 ### Kaart 1: behorende bij [artikel 1, onderdelen m en n](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&paragraaf=1&artikel=1&z=2006-05-24&g=2006-05-24) van het Besluit capaciteitsverdeling hoofdspoorwegstructuur
 
 ### Kaart 2: behorende bij [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&paragraaf=4&artikel=8&z=2006-05-24&g=2006-05-24), van het Besluit capaciteitsverdeling hoofdspoorwegstructuur
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 4a
+
+1. De netverklaring, bedoeld in [artikel 58 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=58), bevat een geschillenregeling als bedoeld in artikel 21, zesde lid, van richtlijn 2001/14/EG.
+
+2. Voor geschillen over de verdeling van capaciteit tussen de beheerder en één of meer gerechtigden tijdens de coördinatie voor de normale dienstregeling, voorziet de geschillenregeling in een procedure waarvan verplichte advisering door een onafhankelijke derde deel uitmaakt. Van een advies door de onafhankelijke derde kan de beheerder bij de verdeling van capaciteit gemotiveerd afwijken.
+
+3. De onafhankelijke derde, bedoeld in het tweede lid, wordt door de beheerder aangewezen met instemming van de betrokken gerechtigden.
+
+#### § 4. Regels ten aanzien van overbelast verklaarde infrastructuur
+
+##### Artikel 7a
+
+1. Indien de beheerder na de coördinatie voor de normale dienstregeling constateert dat het niet mogelijk is om verwachte capaciteitsaanvragen van gerechtigden voor de navolgende jaren adequaat te verdelen, verklaart de beheerder de betrokken infrastructuur voor de navolgende jaren overbelast, tot maximaal de duur van vijf jaar, en volgt deze de procedure, bedoeld in [artikel 7, tweede lid, onderdelen b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&paragraaf=4&artikel=7&z=2012-01-01&g=2012-01-01).
+
+2. De beheerder betrekt bij de overbelastverklaring, bedoeld in het eerste lid, in ieder geval informatie over verwachte capaciteitsaanvragen voor de navolgende jaren uit:
+
+- a. de capaciteitsverdelingsprocedure voor de normale dienstregeling;
+
+- b. de gesloten kaderovereenkomsten;
+
+- c. een nieuw verleende concessie als bedoeld in [artikel 20, eerste en derde lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=20);
+
+- d. een onderbouwd verzoek van een concessieverlener in voorbereiding op een nog te verlenen concessie als bedoeld in [artikel 20, eerste en derde lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=20);
+
+- e. prognoses van de beheerder of gerechtigden over de ontwikkeling van de te verwachten capaciteitsaanvragen voor de navolgende jaren.
+
+#### § 6. Overgangs- en slotbepalingen
+
+## Bijlage
+
+### Kaart 1: behorende bij [artikel 1, onderdelen m en n](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&paragraaf=1&artikel=1&z=2012-01-01&g=2012-01-01) van het Besluit capaciteitsverdeling hoofdspoorwegstructuur
+
+### Kaart 2: behorende bij [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&paragraaf=4&artikel=8&z=2012-01-01&g=2012-01-01), van het Besluit capaciteitsverdeling hoofdspoorwegstructuur
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
