@@ -4,7 +4,7 @@ identifier: "BWBR0019237"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2011-07-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019237"
 soort: "ministeriele-regeling"
@@ -43,7 +43,7 @@ Besluit:
 
 ##### Artikel 1. Reikwijdte
 
-Deze regeling geeft uitvoering aan de [artikelen 6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=6), [8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=8), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=17), [21a](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21a), [25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=25), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=31) en [47 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=47)
+Deze regeling geeft uitvoering aan de [artikelen 6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=6), [8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=8), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=17), [21a](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21a), [25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=25), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=31) en [47 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=47) en [artikel 2a van het Uitvoeringsbesluit Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018707&artikel=2a).
 
 ##### Artikel 2. Definities
 
@@ -71,7 +71,7 @@ Deze regeling verstaat onder wet: [Algemene wet inkomensafhankelijke regelingen]
 
 ##### Artikel 4. Herleiding toetsingsinkomen
 
-Het verzoek, bedoeld in [artikel 8, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=8), kan worden gedaan tot het tijdstip waarop de toekenning van de tegemoetkoming over het desbetreffende berekeningsjaar onherroepelijk is geworden.
+Vervallen
 
 ##### Artikel 5. Melding wijziging omstandigheden
 
@@ -133,7 +133,7 @@ Indien op grond van [artikel 25, eerste lid, van de wet](https://wetten.overheid
 
 ##### Artikel 8. Uitstel van betaling in verband met bezwaar of herzieningsverzoek
 
-1. Indien de belanghebbende tijdig een gemotiveerd bezwaar of verzoek om herziening als bedoeld in [artikel 21a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21a) heeft ingediend tegen de terugvordering dan wel beroep of hoger beroep heeft ingediend tegen de uitspraak op een bezwaar of verzoek om herziening als bedoeld in artikel 21a van de wet, verleent de Belastingdienst/Toeslagen uitstel van betaling van de terugvordering tot het moment waarop op het bezwaar of verzoek om herziening als bedoeld in artikel 21a van de wet, het beroep of hoger beroep is beslist.
+1. Indien de belanghebbende tijdig een gemotiveerd bezwaar of verzoek om herziening als bedoeld in [artikel 21a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21a) heeft ingediend tegen de terugvordering dan wel beroep of hoger beroep heeft ingediend tegen de uitspraak op een bezwaar of verzoek om herziening als bedoeld in artikel 21a van de wet, kan de Belastingdienst/Toeslagen uitstel van betaling van de terugvordering verlenen tot het moment waarop op het bezwaar of verzoek om herziening als bedoeld in artikel 21a van de wet, het beroep of hoger beroep is beslist.
 
 2. Het eerste lid vindt overeenkomstige toepassing indien bezwaar, beroep, hoger beroep of beroep in cassatie, dan wel een verzoek om ambtshalve vermindering is ingediend ter zake van een inkomensgegeven als bedoeld in [artikel 21, onderdeel e, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=21), dat bepalend is voor de draagkracht waarmee bij de terugvordering rekening is gehouden. Onder een verzoek om ambtshalve vermindering wordt mede verstaan een verzoek om herziening als bedoeld in [artikel 9.5, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.5).
 
@@ -199,7 +199,7 @@ Indien de Belastingdienst/Toeslagen overeenkomstig artikel 6 van Verordening (EG
 
 - b. worden de in [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=19) genoemde beslissingstermijnen voor toekenning van de tegemoetkoming verlengd met de tijd gedurende welke een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan;
 
-- c. worden de in de [artikelen 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21), en [27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=27) genoemde termijnen en de in [artikel 5a, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=5a&z=2012-01-01&g=2011-07-01), genoemde termijn verlengd met de tijd gedurende welk een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan.
+- c. worden de in de [artikelen 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21), en [27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=27) genoemde termijnen en de in [artikel 5a, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=5a&z=2012-01-01&g=2012-01-01), genoemde termijn verlengd met de tijd gedurende welk een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
