@@ -4,7 +4,7 @@ identifier: "BWBR0024875"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-04-30"
-last_updated: "2009-07-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024875"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ Vervangende uitgifte als bedoeld in artikel 16a van de Rijkswet goedkeuring en b
 
 - a. door middel van publicatie op een door de Minister van Buitenlandse Zaken aan te wijzen vervangend internetadres,
 
-- b. door middels van een papieren uitgave te verstrekken door een nooddistributiepunt dat wordt ingericht door het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024875&artikel=4&z=2009-07-01&g=2009-07-01) genoemde uitgiftepunt, of
+- b. door middels van een papieren uitgave te verstrekken door een nooddistributiepunt dat wordt ingericht door het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024875&artikel=4&z=2009-07-01&g=2012-01-01) genoemde uitgiftepunt, of
 
 - c. op een andere door de Minister van Buitenlandse Zaken te bepalen wijze.
 
