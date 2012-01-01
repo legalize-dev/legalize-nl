@@ -4,7 +4,7 @@ identifier: "BWBR0008175"
 country: "nl"
 rank: "amvb"
 publication_date: "2012-01-01"
-last_updated: "1998-01-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008175"
 soort: "AMvB"
@@ -58,11 +58,15 @@ Hebben goedgevonden en verstaan:
 
 - 3°. degene die onroerende zaken vervaardigt of doet vervaardigen;
 
+- 4°. degene die een onroerende zaak aanmerkt als landgoed op grond van [artikel 2 van de Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=2);
+
 - b. voor de waardevaststelling van een onroerende zaak, bedoeld in [hoofdstuk IV van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV), slechts hieronder wordt begrepen:
 
 - 1°. de eigenaar, bezitter, beperkt of persoonlijk gerechtigde of beheerder van een onroerende zaak;
 
-- 2°. de eigenaar of beheerder van een energie- of waterleidingbedrijf.
+- 2°. de eigenaar of beheerder van een energie- of waterleidingbedrijf;
+
+- 3°. degene die een onroerende zaak aanmerkt als landgoed op grond van [artikel 2 van de Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=2).
 
 2. De in dit besluit opgenomen verplichtingen gelden mede voor een administratiekantoor dat ten behoeve van een in het eerste lid bedoelde informatieplichtige werkzaam is.
 
@@ -72,7 +76,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-Een informatieplichtige als bedoeld in [artikel 1, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008175&artikel=1&z=1998-01-01&g=1998-01-01), die kennis heeft van, dan wel de beschikking heeft over gegevens betreffende:
+Een informatieplichtige als bedoeld in [artikel 1, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008175&artikel=1&z=2012-01-01&g=2012-01-01), die kennis heeft van, dan wel de beschikking heeft over gegevens betreffende:
 
 - 1°. datum, betrokken partijen, voorwaarden en koopsom inzake verkooptransacties van onroerende zaken of de vestiging van beperkte rechten waaraan deze zaken zijn onderworpen;
 
@@ -86,7 +90,7 @@ is gehouden desgevraagd aan het college van burgemeester en wethouders of de in 
 
 ##### Artikel 3
 
-Een informatieplichtige als bedoeld in [artikel 1, eerste lid, aanhef en onderdeel **a**, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0008175&artikel=1&z=1998-01-01&g=1998-01-01), die kennis heeft van, dan wel de beschikking heeft over gegevens betreffende de vervaardigingskosten, datum gereedmelding, bouwperiode of constructie van onroerende zaken, is gehouden desgevraagd aan het college van burgemeester en wethouders of de in [artikel 1, tweede lid, van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=1) bedoelde gemeenteambtenaar:
+Een informatieplichtige als bedoeld in [artikel 1, eerste lid, aanhef en onderdeel **a**, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0008175&artikel=1&z=2012-01-01&g=2012-01-01), die kennis heeft van, dan wel de beschikking heeft over gegevens betreffende de vervaardigingskosten, datum gereedmelding, bouwperiode of constructie van onroerende zaken, is gehouden desgevraagd aan het college van burgemeester en wethouders of de in [artikel 1, tweede lid, van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=1) bedoelde gemeenteambtenaar:
 
 - a. deze gegevens en inlichtingen te verstrekken, of
 
@@ -94,7 +98,7 @@ Een informatieplichtige als bedoeld in [artikel 1, eerste lid, aanhef en onderde
 
 ##### Artikel 4
 
-Een informatieplichtige als bedoeld in [artikel 1, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008175&artikel=1&z=1998-01-01&g=1998-01-01), die kennis heeft van, dan wel de beschikking heeft over naam-, adres- en woonplaatsgegevens van de eigenaren, bezitters, beperkt of persoonlijk gerechtigden van een onroerende zaak, is gehouden desgevraagd aan het college van burgemeester en wethouders of de in [artikel 1, tweede lid, van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=1) bedoelde gemeenteambtenaar:
+Een informatieplichtige als bedoeld in [artikel 1, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008175&artikel=1&z=2012-01-01&g=2012-01-01), die kennis heeft van, dan wel de beschikking heeft over naam-, adres- en woonplaatsgegevens van de eigenaren, bezitters, beperkt of persoonlijk gerechtigden van een onroerende zaak, is gehouden desgevraagd aan het college van burgemeester en wethouders of de in [artikel 1, tweede lid, van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=1) bedoelde gemeenteambtenaar:
 
 - a. deze gegevens en inlichtingen te verstrekken, of
 
