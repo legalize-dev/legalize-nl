@@ -4,7 +4,7 @@ identifier: "BWBR0003081"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-01"
-last_updated: "2009-07-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003081"
 soort: "wet"
@@ -61,13 +61,13 @@ voor zover redelijkerwijs moet worden aangenomen dat daardoor het dier ongerief 
 
 3. Voor de toepassing van het bij of krachtens deze wet bepaalde wordt onder **het verrichten van een dierproef** en **het verrichten van een proef** verstaan zowel het verrichten van een volledige dierproef als het verrichten van een gedeelte van een dierproef.
 
-4. Voor de toepassing van het bij of krachtens de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=11&z=2009-07-01&g=2009-07-01)-[14](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=14&z=2009-07-01&g=2009-07-01) van deze wet bepaalde wordt, met betrekking tot de inrichtingen van degene die handelingen als bedoeld in het eerste lid verricht, het aanwezig hebben van dieren met het verrichten van dierproeven gelijk gesteld, behoudens voor zover aannemelijk wordt gemaakt dat de dieren om andere redenen aanwezig zijn.
+4. Voor de toepassing van het bij of krachtens de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=11&z=2012-01-01&g=2012-01-01)-[14](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=14&z=2012-01-01&g=2012-01-01) van deze wet bepaalde wordt, met betrekking tot de inrichtingen van degene die handelingen als bedoeld in het eerste lid verricht, het aanwezig hebben van dieren met het verrichten van dierproeven gelijk gesteld, behoudens voor zover aannemelijk wordt gemaakt dat de dieren om andere redenen aanwezig zijn.
 
 5. Voor de toepassing van het bij of krachtens deze wet bepaalde wordt voorts verstaan onder:
 
 **Onze Minister:** Onze Minister van Volksgezondheid, Welzijn en Sport;
 
-**inspecteur:** de op grond van een aanwijzing krachtens [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=20&z=2009-07-01&g=2009-07-01) ter plaatse bevoegde inspecteur van het staatstoezicht op de volksgezondheid.
+**inspecteur:** de op grond van een aanwijzing krachtens [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=20&z=2012-01-01&g=2012-01-01) ter plaatse bevoegde inspecteur van het staatstoezicht op de volksgezondheid.
 
 6. Bij algemene maatregel van bestuur worden ongewervelde diersoorten aangewezen waarvan redelijkerwijs mag worden aangenomen dat zij ongerief ondervinden van een dierproef.
 
@@ -79,9 +79,11 @@ Bij uitoefening van bevoegdheden bij of krachtens deze wet wordt de erkenning va
 
 1. Het is verboden zonder vergunning van Onze Minister dierproeven te verrichten.
 
-2. De vergunning geldt, voor wat betreft het verrichten van proeven als in [artikel 1, eerste lid, onder **a-d**](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=1&z=2009-07-01&g=2009-07-01) bedoeld, uitsluitend voor zover de proeven, al dan niet rechtstreeks, gericht zijn op het belang van de gezondheid of de voeding van mens of dier.
+2. De vergunning geldt, voor wat betreft het verrichten van proeven als in [artikel 1, eerste lid, onder a-d](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=1&z=2012-01-01&g=2012-01-01) bedoeld, uitsluitend voor zover de proeven, al dan niet rechtstreeks, gericht zijn op het belang van de gezondheid of de voeding van mens of dier.
 
-3. Indien Onze Minister van oordeel is dat een gewichtig ander belang zulks wettigt, kan hij in de vergunning bepalen dat zij mede geldt voor het verrichten van dierproeven als in [artikel 1, eerste lid, onder **a-d**](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=1&z=2009-07-01&g=2009-07-01) bedoeld, die, al dan niet rechtstreeks, gericht zijn op dat - in de vergunning aan te geven - andere belang.
+3. Indien Onze Minister van oordeel is dat een gewichtig ander belang zulks wettigt, kan hij in de vergunning bepalen dat zij mede geldt voor het verrichten van dierproeven als in [artikel 1, eerste lid, onder a-d](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=1&z=2012-01-01&g=2012-01-01) bedoeld, die, al dan niet rechtstreeks, gericht zijn op dat - in de vergunning aan te geven - andere belang.
+
+4. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op een aanvraag om een vergunning als bedoeld in het eerste lid.
 
 ##### Artikel 3
 
@@ -103,7 +105,7 @@ Een vergunning kan slechts worden geweigerd indien:
 
 - a. gegronde vrees bestaat, dat de vergunninghouder krachtens deze wet voor hem geldende voorschriften niet zou naleven;
 
-- b. een eerder aan de aanvrager verleende vergunning is ingetrokken anders dan op de in [artikel 7, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=7&z=2009-07-01&g=2009-07-01), genoemde grond en nog niet twee jaren zijn verstreken sedert de beslissing tot intrekking onherroepelijk is geworden.
+- b. een eerder aan de aanvrager verleende vergunning is ingetrokken anders dan op de in [artikel 7, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=7&z=2012-01-01&g=2012-01-01), genoemde grond en nog niet twee jaren zijn verstreken sedert de beslissing tot intrekking onherroepelijk is geworden.
 
 ##### Artikel 6
 
@@ -123,7 +125,7 @@ Een vergunning kan slechts worden geweigerd indien:
 
 3. In gevallen waarin de vergunning kan worden ingetrokken, kan, in plaats daarvan, een beperking aan de vergunning worden toegevoegd.
 
-4. [Artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=4&z=2009-07-01&g=2009-07-01), is van overeenkomstige toepassing.
+4. [Artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=4&z=2012-01-01&g=2012-01-01), is van overeenkomstige toepassing.
 
 5. Van een krachtens het eerste of tweede lid vastgestelde beschikking wordt mededeling gedaan in de **Staatscourant**.
 
@@ -131,7 +133,7 @@ Een vergunning kan slechts worden geweigerd indien:
 
 1. Een vergunning krachtens deze wet wordt verleend aan een natuurlijke persoon of aan een rechtspersoon; zij is gebonden aan de natuurlijke of rechtspersoon aan wie zij is verleend.
 
-2. Indien de vergunninghouder een natuurlijke persoon is, blijft de vergunning na zijn overlijden gedurende een periode van zes maanden van kracht ten behoeve van de rechtverkrijgenden. Wanneer binnen deze periode een aanvrage om een nieuwe vergunning is ingediend, blijft eerstbedoelde vergunning verder van kracht totdat op die aanvrage onherroepelijk is beslist. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=7&z=2009-07-01&g=2009-07-01) blijft gedurende het van kracht blijven van deze vergunning van toepassing.
+2. Indien de vergunninghouder een natuurlijke persoon is, blijft de vergunning na zijn overlijden gedurende een periode van zes maanden van kracht ten behoeve van de rechtverkrijgenden. Wanneer binnen deze periode een aanvrage om een nieuwe vergunning is ingediend, blijft eerstbedoelde vergunning verder van kracht totdat op die aanvrage onherroepelijk is beslist. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=7&z=2012-01-01&g=2012-01-01) blijft gedurende het van kracht blijven van deze vergunning van toepassing.
 
 ##### Artikel 9
 
@@ -153,11 +155,11 @@ Het is verboden een dierproef te verrichten indien de wijze van uitvoering van d
 
 1. Het is verboden een dierproef te verrichten indien niet:
 
-- a. daarover tevoren een advies is uitgebracht door een op de voet van [artikel 18a](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=18a&z=2009-07-01&g=2009-07-01) erkende dierexperimentencommissie;
+- a. daarover tevoren een advies is uitgebracht door een op de voet van [artikel 18a](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=18a&z=2012-01-01&g=2012-01-01) erkende dierexperimentencommissie;
 
-- b. na een negatief advies van de dierexperimentencommissie een positief oordeel is gegeven door de Centrale commissie dierproeven, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=18&z=2009-07-01&g=2009-07-01).
+- b. na een negatief advies van de dierexperimentencommissie een positief oordeel is gegeven door de Centrale commissie dierproeven, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=18&z=2012-01-01&g=2012-01-01).
 
-2. Bij het opstellen van het advies beoordeelt de dierexperimentencommissie de proef aan de hand van het onderzoeksplan op de grondslag van het bepaalde in de [artikelen 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=2&z=2009-07-01&g=2009-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=9&z=2009-07-01&g=2009-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10&z=2009-07-01&g=2009-07-01), [10b](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10b&z=2009-07-01&g=2009-07-01), [10d](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10d&z=2009-07-01&g=2009-07-01), [10e](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10e&z=2009-07-01&g=2009-07-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=11&z=2009-07-01&g=2009-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=12&z=2009-07-01&g=2009-07-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=13&z=2009-07-01&g=2009-07-01).
+2. Bij het opstellen van het advies beoordeelt de dierexperimentencommissie de proef aan de hand van het onderzoeksplan op de grondslag van het bepaalde in de [artikelen 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=2&z=2012-01-01&g=2012-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=9&z=2012-01-01&g=2012-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10&z=2012-01-01&g=2012-01-01), [10b](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10b&z=2012-01-01&g=2012-01-01), [10d](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10d&z=2012-01-01&g=2012-01-01), [10e](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10e&z=2012-01-01&g=2012-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=11&z=2012-01-01&g=2012-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=12&z=2012-01-01&g=2012-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=13&z=2012-01-01&g=2012-01-01).
 
 3. Bij algemene maatregel van bestuur worden eisen vastgesteld waaraan een plan als bedoeld in het tweede lid in ieder geval moet voldoen om door de commissie in behandeling te worden genomen.
 
@@ -171,15 +173,17 @@ Het is verboden een dierproef te verrichten indien de wijze van uitvoering van d
 
 8. Bij het beoordelen van een voorgenomen proef die wordt verricht op grond van een wettelijke regeling op het gebied van de gezondheid of de veiligheid, erkennen de dierexperimentencommissie en de Centrale commissie dierproeven zoveel mogelijk de gegevens die het resultaat zijn van dierproeven, verricht op het grondgebied van een andere lidstaat van de Europese Unie, tenzij ter vrijwaring van de volksgezondheid of de veiligheid verder onderzoek vereist is.
 
+9. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op een aanvraag voor advies, bedoeld in het eerste lid, van een op de voet van artikel 18a erkende dierexperimentencommissies en op een oordeel, bedoeld in het eerste lid, onderdeel b, gevraagd aan de Centrale commissie dierproeven, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=18&z=2012-01-01&g=2012-01-01).
+
 ##### Artikel 10b
 
-1. Het is, onverminderd [artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10a&z=2009-07-01&g=2009-07-01), verboden een dierproef te verrichten waarbij het dier zeer ernstig ongerief kan worden berokkend, indien de proef niet van belang is voor de essentiële behoeften van mens of dier.
+1. Het is, onverminderd [artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10a&z=2012-01-01&g=2012-01-01), verboden een dierproef te verrichten waarbij het dier zeer ernstig ongerief kan worden berokkend, indien de proef niet van belang is voor de essentiële behoeften van mens of dier.
 
 2. Bij algemene maatregel van bestuur kan worden omschreven wat voor de toepassing van het eerste lid onder zeer ernstig ongerief en onder de essentiële behoeften van mens of dier moet worden verstaan.
 
 ##### Artikel 10c
 
-Het is verboden een dierproef te verrichten anders dan volgens het onderzoeksplan, bedoeld in [artikel 10**a**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10a&z=2009-07-01&g=2009-07-01).
+Het is verboden een dierproef te verrichten anders dan volgens het onderzoeksplan, bedoeld in [artikel 10**a**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10a&z=2012-01-01&g=2012-01-01).
 
 ##### Artikel 10d
 
@@ -199,9 +203,9 @@ Het is verboden proeven te verrichten op dieren die niet:
 
 2. Een vergunning als bedoeld in het eerste lid kan slechts worden geweigerd indien niet wordt voldaan aan de bij of krachtens algemene maatregel van bestuur gestelde eisen omtrent organisatie en personeel.
 
-De [artikelen 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=4&z=2009-07-01&g=2009-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=6&z=2009-07-01&g=2009-07-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=7&z=2009-07-01&g=2009-07-01) zijn van toepassing.
+De [artikelen 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=4&z=2012-01-01&g=2012-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=6&z=2012-01-01&g=2012-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=7&z=2012-01-01&g=2012-01-01) zijn van toepassing.
 
-3. Ten aanzien van de houder van een vergunning als bedoeld in het eerste lid zijn de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=12&z=2009-07-01&g=2009-07-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=14&z=2009-07-01&g=2009-07-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=15&z=2009-07-01&g=2009-07-01) van overeenkomstige toepassing, tenzij bij algemene maatregel van bestuur anders is bepaald.
+3. Ten aanzien van de houder van een vergunning als bedoeld in het eerste lid zijn de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=12&z=2012-01-01&g=2012-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=14&z=2012-01-01&g=2012-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=15&z=2012-01-01&g=2012-01-01) van overeenkomstige toepassing, tenzij bij algemene maatregel van bestuur anders is bepaald.
 
 ##### Artikel 12
 
@@ -237,11 +241,13 @@ Hij die dierproeven verricht is verplicht omtrent de verwerving van proefdieren 
 
 ##### Artikel 16
 
-1. Onze Minister kan voor gevallen, behorende tot bij zijn besluit aangewezen categorieën, vrijstelling verlenen van de in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=11&z=2009-07-01&g=2009-07-01) en [11**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=11a&z=2009-07-01&g=2009-07-01) gestelde verboden. Een vrijstelling mag geen betrekking hebben op zwerfhonden, zwerfkatten of uit het wild gevangen dieren met uitzondering van dieren van bij ministeriële regeling aangewezen soorten.
+1. Onze Minister kan voor gevallen, behorende tot bij zijn besluit aangewezen categorieën, vrijstelling verlenen van de in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=11&z=2012-01-01&g=2012-01-01) en [11**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=11a&z=2012-01-01&g=2012-01-01) gestelde verboden. Een vrijstelling mag geen betrekking hebben op zwerfhonden, zwerfkatten of uit het wild gevangen dieren met uitzondering van dieren van bij ministeriële regeling aangewezen soorten.
 
-2. Onze Minister kan, in bijzondere gevallen, op daartoe strekkend verzoek ontheffing verlenen van bij de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=9&z=2009-07-01&g=2009-07-01), [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10&z=2009-07-01&g=2009-07-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=11&z=2009-07-01&g=2009-07-01), [11**a**, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=11a&z=2009-07-01&g=2009-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=12&z=2009-07-01&g=2009-07-01), en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=14&z=2009-07-01&g=2009-07-01) gestelde verboden en verplichtingen.
+2. Onze Minister kan, in bijzondere gevallen, op daartoe strekkend verzoek ontheffing verlenen van bij de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=9&z=2012-01-01&g=2012-01-01), [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10&z=2012-01-01&g=2012-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=11&z=2012-01-01&g=2012-01-01), [11**a**, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=11a&z=2012-01-01&g=2012-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=12&z=2012-01-01&g=2012-01-01), en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=14&z=2012-01-01&g=2012-01-01) gestelde verboden en verplichtingen.
 
-3. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=4&z=2009-07-01&g=2009-07-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=6&z=2009-07-01&g=2009-07-01) zijn van overeenkomstige toepassing.
+3. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=4&z=2012-01-01&g=2012-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=6&z=2012-01-01&g=2012-01-01) zijn van overeenkomstige toepassing.
+
+4. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op een aanvraag om een ontheffing als bedoeld in het tweede lid.
 
 ##### Artikel 17
 
@@ -249,7 +255,7 @@ De werking van de beschikking tot wijziging of intrekking van een vergunning of 
 
 ##### Artikel 18
 
-1. Er is een Centrale commissie dierproeven. De commissie heeft tot taak het uitoefenen van de bevoegdheden, bedoeld in het zesde lid en de [artikelen 10a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10a&z=2009-07-01&g=2009-07-01), [18a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=18a&z=2009-07-01&g=2009-07-01), en [18f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=18f&z=2009-07-01&g=2009-07-01).
+1. Er is een Centrale commissie dierproeven. De commissie heeft tot taak het uitoefenen van de bevoegdheden, bedoeld in het zesde lid en de [artikelen 10a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10a&z=2012-01-01&g=2012-01-01), [18a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=18a&z=2012-01-01&g=2012-01-01), en [18f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=18f&z=2012-01-01&g=2012-01-01).
 
 2. De commissie bestaat uit een voorzitter die tevens lid is, en ten minste vier en ten hoogste acht andere leden. Lid van de commissie zijn deskundigen op het gebied van dierproeven, van proefdieren en van dierenbescherming.
 
@@ -259,11 +265,11 @@ De werking van de beschikking tot wijziging of intrekking van een vergunning of 
 
 5. Onze Minister kan regelen stellen betreffende de werkwijze van de commissie. Hij voorziet in het secretariaat.
 
-6. Alvorens een beschikking wordt genomen met toepassing van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=2&z=2009-07-01&g=2009-07-01), wordt de commissie gehoord.
+6. Alvorens een beschikking wordt genomen met toepassing van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=2&z=2012-01-01&g=2012-01-01), wordt de commissie gehoord.
 
 ##### Artikel 18a
 
-1. Onze Minister kan, gehoord de Centrale commissie dierproeven, dierexperimentencommissies erkennen, die belast zijn met de advisering omtrent dierproeven overeenkomstig het bepaalde in [artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10a&z=2009-07-01&g=2009-07-01).
+1. Onze Minister kan, gehoord de Centrale commissie dierproeven, dierexperimentencommissies erkennen, die belast zijn met de advisering omtrent dierproeven overeenkomstig het bepaalde in [artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10a&z=2012-01-01&g=2012-01-01).
 
 2. Voor een erkenning komt slechts in aanmerking een dierexperimentencommissie waarvan uit het reglement blijkt:
 
@@ -277,13 +283,13 @@ De werking van de beschikking tot wijziging of intrekking van een vergunning of 
 
 - e. dat de overige leden, indien zij betrokken zijn bij het verrichten van een dierproef, niet deelnemen aan de opstelling van het advies over die proef;
 
-- f. dat bij de opstelling van het advies de door de desbetreffende vergunninghouder overeenkomstig [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=14&z=2009-07-01&g=2009-07-01) aangestelde deskundige als adviseur zal worden betrokken;
+- f. dat bij de opstelling van het advies de door de desbetreffende vergunninghouder overeenkomstig [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=14&z=2012-01-01&g=2012-01-01) aangestelde deskundige als adviseur zal worden betrokken;
 
 en waarvan het reglement voor het overige voldoet aan bij algemene maatregel van bestuur gestelde eisen.
 
 ##### Artikel 18b
 
-Van een erkenning als bedoeld in [artikel 18**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=18a&z=2009-07-01&g=2009-07-01), doet Onze Minister mededeling in de **Nederlandse Staatscourant**. De [artikelen 4, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=4&z=2009-07-01&g=2009-07-01), en [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=6&z=2009-07-01&g=2009-07-01), zijn van overeenkomstige toepassing.
+Van een erkenning als bedoeld in [artikel 18**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=18a&z=2012-01-01&g=2012-01-01), doet Onze Minister mededeling in de **Nederlandse Staatscourant**. De [artikelen 4, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=4&z=2012-01-01&g=2012-01-01), en [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=6&z=2012-01-01&g=2012-01-01), zijn van overeenkomstige toepassing.
 
 ##### Artikel 18c
 
@@ -291,7 +297,7 @@ Een dierexperimentencommissie kan in haar reglement bepalen welke categorieën v
 
 ##### Artikel 18d
 
-Een krachtens [artikel 18**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=18a&z=2009-07-01&g=2009-07-01) erkende dierexperimentencommissie doet van een wijziging van haar reglement schriftelijk mededeling aan Onze Minister.
+Een krachtens [artikel 18**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=18a&z=2012-01-01&g=2012-01-01) erkende dierexperimentencommissie doet van een wijziging van haar reglement schriftelijk mededeling aan Onze Minister.
 
 ##### Artikel 18e
 
@@ -303,11 +309,11 @@ De dierexperimentencommissie brengt jaarlijks vóór 1 april aan Onze Minister v
 
 - a. niet langer voldoet aan de in artikel 18**a**, tweede lid, met het oog op erkenning gestelde voorwaarden;
 
-- b. de verplichtingen die voor haar voortvloeien uit [artikel 10**a**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10a&z=2009-07-01&g=2009-07-01), niet of onvoldoende nakomt.
+- b. de verplichtingen die voor haar voortvloeien uit [artikel 10**a**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10a&z=2012-01-01&g=2012-01-01), niet of onvoldoende nakomt.
 
 2. Onze Minister kan een erkenning intrekken indien aan de dierexperimentencommissie binnen het tijdsverloop van een jaar minder dan een bij algemene maatregel van bestuur te bepalen aantal adviezen zijn gevraagd.
 
-3. Een beslissing tot intrekking van een erkenning wordt niet genomen dan nadat de Centrale commissie dierproeven is gehoord; deze stelt de dierexperimentencommissie in de gelegenheid, haar bezwaren tegen de intrekking kenbaar te maken. Van de intrekking wordt schriftelijk mededeling gedaan aan de dierexperimentencommissie. [Artikel 18**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=18b&z=2009-07-01&g=2009-07-01) is van overeenkomstige toepassing.
+3. Een beslissing tot intrekking van een erkenning wordt niet genomen dan nadat de Centrale commissie dierproeven is gehoord; deze stelt de dierexperimentencommissie in de gelegenheid, haar bezwaren tegen de intrekking kenbaar te maken. Van de intrekking wordt schriftelijk mededeling gedaan aan de dierexperimentencommissie. [Artikel 18**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=18b&z=2012-01-01&g=2012-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 18g
 
@@ -331,7 +337,7 @@ Vervallen
 
 1. De toezichthouder is bevoegd, met medeneming van de benodigde apparatuur, een woning te betreden zonder toestemming van de bewoner.
 
-2. Indien voor het betreden van een plaats in het belang van een proef voorschriften zijn gesteld, nemen de in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=20&z=2009-07-01&g=2009-07-01) bedoelde ambtenaren deze bij het betreden van die plaats voor zover mogelijk in acht.
+2. Indien voor het betreden van een plaats in het belang van een proef voorschriften zijn gesteld, nemen de in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=20&z=2012-01-01&g=2012-01-01) bedoelde ambtenaren deze bij het betreden van die plaats voor zover mogelijk in acht.
 
 ##### Artikel 23
 
@@ -343,19 +349,19 @@ Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter hand
 
 ##### Artikel 25
 
-1. Overtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=2&z=2009-07-01&g=2009-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=9&z=2009-07-01&g=2009-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10&z=2009-07-01&g=2009-07-01), [10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10a&z=2009-07-01&g=2009-07-01), [10b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10b&z=2009-07-01&g=2009-07-01), [10c](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10c&z=2009-07-01&g=2009-07-01), [10d](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10d&z=2009-07-01&g=2009-07-01), [10e](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10e&z=2009-07-01&g=2009-07-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=11&z=2009-07-01&g=2009-07-01), [11a, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=11a&z=2009-07-01&g=2009-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=12&z=2009-07-01&g=2009-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=13&z=2009-07-01&g=2009-07-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=14&z=2009-07-01&g=2009-07-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=15&z=2009-07-01&g=2009-07-01), of van een voorschrift, krachtens [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=6&z=2009-07-01&g=2009-07-01), [11a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=11a&z=2009-07-01&g=2009-07-01), [16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=16&z=2009-07-01&g=2009-07-01), of [18b](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=18b&z=2009-07-01&g=2009-07-01) aan een vergunning, erkenning of ontheffing verbonden, is strafbaar.
+1. Overtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=2&z=2012-01-01&g=2012-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=9&z=2012-01-01&g=2012-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10&z=2012-01-01&g=2012-01-01), [10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10a&z=2012-01-01&g=2012-01-01), [10b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10b&z=2012-01-01&g=2012-01-01), [10c](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10c&z=2012-01-01&g=2012-01-01), [10d](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10d&z=2012-01-01&g=2012-01-01), [10e](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10e&z=2012-01-01&g=2012-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=11&z=2012-01-01&g=2012-01-01), [11a, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=11a&z=2012-01-01&g=2012-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=12&z=2012-01-01&g=2012-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=13&z=2012-01-01&g=2012-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=14&z=2012-01-01&g=2012-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=15&z=2012-01-01&g=2012-01-01), of van een voorschrift, krachtens [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=6&z=2012-01-01&g=2012-01-01), [11a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=11a&z=2012-01-01&g=2012-01-01), [16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=16&z=2012-01-01&g=2012-01-01), of [18b](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=18b&z=2012-01-01&g=2012-01-01) aan een vergunning, erkenning of ontheffing verbonden, is strafbaar.
 
-2. Handelen in strijd met de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=2&z=2009-07-01&g=2009-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10&z=2009-07-01&g=2009-07-01), [10b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10b&z=2009-07-01&g=2009-07-01), [10c](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10c&z=2009-07-01&g=2009-07-01), [10d](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10d&z=2009-07-01&g=2009-07-01) en [10e](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10e&z=2009-07-01&g=2009-07-01), alsmede indien het opzettelijk geschiedt, [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=13&z=2009-07-01&g=2009-07-01), is een misdrijf. De overige in het eerste lid strafbaar gestelde feiten zijn overtredingen.
+2. Handelen in strijd met de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=2&z=2012-01-01&g=2012-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10&z=2012-01-01&g=2012-01-01), [10b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10b&z=2012-01-01&g=2012-01-01), [10c](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10c&z=2012-01-01&g=2012-01-01), [10d](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10d&z=2012-01-01&g=2012-01-01) en [10e](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10e&z=2012-01-01&g=2012-01-01), alsmede indien het opzettelijk geschiedt, [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=13&z=2012-01-01&g=2012-01-01), is een misdrijf. De overige in het eerste lid strafbaar gestelde feiten zijn overtredingen.
 
 3. De strafbare feiten die ingevolge het tweede lid misdrijven zijn, worden gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de vierde categorie; de strafbare feiten die ingevolge het tweede lid overtredingen zijn, worden gestraft met hechtenis van ten hoogste drie maanden of geldboete van de derde categorie.
 
 ##### Artikel 26
 
-Met de opsporing van de in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=25&z=2009-07-01&g=2009-07-01) strafbaar gestelde feiten zijn, behalve de ambtenaren bedoeld in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), belast de krachtens [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=20&z=2009-07-01&g=2009-07-01) aangewezen ambtenaren.
+Met de opsporing van de in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=25&z=2012-01-01&g=2012-01-01) strafbaar gestelde feiten zijn, behalve de ambtenaren bedoeld in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), belast de krachtens [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=20&z=2012-01-01&g=2012-01-01) aangewezen ambtenaren.
 
 ##### Artikel 27
 
-Voor degene, voor wie op het tijdstip waarop [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=2&z=2009-07-01&g=2009-07-01), in werking treedt, het verrichten van dierproeven tot het terrein van zijn werkzaamheden behoort, geldt het in dat lid gestelde verbod niet gedurende drie maanden na bedoeld tijdstip, en, indien binnen die termijn een aanvraag om een vergunning als in dat lid bedoeld is ingediend, voorts niet totdat de beschikking waarbij op de aanvraag wordt beslist, onherroepelijk is geworden. [Artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=4&z=2009-07-01&g=2009-07-01), blijft met betrekking tot zodanige aanvraag buiten toepassing.
+Voor degene, voor wie op het tijdstip waarop [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=2&z=2012-01-01&g=2012-01-01), in werking treedt, het verrichten van dierproeven tot het terrein van zijn werkzaamheden behoort, geldt het in dat lid gestelde verbod niet gedurende drie maanden na bedoeld tijdstip, en, indien binnen die termijn een aanvraag om een vergunning als in dat lid bedoeld is ingediend, voorts niet totdat de beschikking waarbij op de aanvraag wordt beslist, onherroepelijk is geworden. [Artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=4&z=2012-01-01&g=2012-01-01), blijft met betrekking tot zodanige aanvraag buiten toepassing.
 
 ##### Artikel 28
 
@@ -367,7 +373,7 @@ Deze wet kan worden aangehaald als Wet op de dierproeven.
 
 ##### Artikel 30
 
-1. [Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=18&z=2009-07-01&g=2009-07-01) van deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
+1. [Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=18&z=2012-01-01&g=2012-01-01) van deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
 
 2. Haar onderscheidene overige bepalingen treden in werking op door Ons te bepalen tijdstippen.
 
