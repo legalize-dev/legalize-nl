@@ -4,7 +4,7 @@ identifier: "BWBR0025520"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-07-01"
-last_updated: "2009-07-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025520"
 soort: "AMvB"
@@ -183,5 +183,21 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 ##### Artikel 15
 
 Dit besluit wordt aangehaald als: Besluit basisregistraties adressen en gebouwen.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 13
+
+De elementen van de controle, bedoeld in [artikel 42, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&artikel=42), zijn:
+
+- a. de in het adressenregister en het gebouwenregister ingeschreven brondocumenten;
+
+- b. de in de adressenregistratie en de gebouwenregistratie opgenomen gegevens;
+
+- c. de wijze waarop de processen ter uitvoering van het bij of krachtens de wet bepaalde zijn georganiseerd;
+
+- d. de conformiteit en de continuïteit van het gebruikte informatiesysteem.
+
+### Hoofdstuk 6. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
