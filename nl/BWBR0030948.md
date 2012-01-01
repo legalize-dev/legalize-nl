@@ -4,7 +4,7 @@ identifier: "BWBR0030948"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-01-01"
-last_updated: "2011-12-24"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030948"
 soort: "ministeriele-regeling"
@@ -50,8 +50,8 @@ Inburgeringsdiploma’s die vanaf 19 september 2011 tot de inwerkingtreding van 
 
 ##### Artikel III
 
-1. [Artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0030948&artikel=I&z=2011-12-24&g=2011-12-24), treedt in werking met ingang van 1 januari 2012. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 31 december 2011, treedt artikel I, onderdeel A, in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst en werkt het terug tot en met 1 januari 2012.
+1. [Artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0030948&artikel=I&z=2012-01-01&g=2012-01-01), treedt in werking met ingang van 1 januari 2012. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 31 december 2011, treedt artikel I, onderdeel A, in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst en werkt het terug tot en met 1 januari 2012.
 
-2. [Artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0030948&artikel=I&z=2011-12-24&g=2011-12-24), en [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0030948&artikel=II&z=2011-12-24&g=2011-12-24) treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst. Artikel I, onderdeel B, werkt terug tot en met 19 september 2011.
+2. [Artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0030948&artikel=I&z=2012-01-01&g=2012-01-01), en [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0030948&artikel=II&z=2012-01-01&g=2012-01-01) treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst. Artikel I, onderdeel B, werkt terug tot en met 19 september 2011.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
