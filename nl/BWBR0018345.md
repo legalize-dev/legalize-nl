@@ -4,7 +4,7 @@ identifier: "BWBR0018345"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-01-01"
-last_updated: "2011-07-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018345"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Besluit:
 
 - a. wet: [Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740);
 
-- b. herstructureringsgebied: een gebied waarin een activiteit als bedoeld in [artikel 7, vierde lid, van de Wet stedelijke vernieuwing](https://wetten.overheid.nl/jci1.3:c:BWBR0011788&artikel=7) wordt uitgevoerd, dan wel een gebied waarin een ontwikkelingsprogramma als bedoeld in [artikel 7, eerste lid, van de Wet stedelijke vernieuwing](https://wetten.overheid.nl/jci1.3:c:BWBR0011788&artikel=7) wordt uitgevoerd;
+- b. herstructureringsgebied: gebied waarin een activiteit plaatsvindt in het kader van stedelijke vernieuwing als bedoeld in [artikel 1, eerste lid, onderdeel p, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1);
 
 - c. toegelaten instelling: een instelling als bedoeld in [artikel 70, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=70);
 
