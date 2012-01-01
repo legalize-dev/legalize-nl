@@ -4,7 +4,7 @@ identifier: "BWBR0031007"
 country: "nl"
 rank: "wet"
 publication_date: "2012-01-01"
-last_updated: "2011-04-30"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031007"
 soort: "wet"
@@ -65,39 +65,39 @@ Wijzigt de Wet ter voorkoming van witwassen en financieren van terrorisme.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Comptabiliteitswet 2001.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet toezicht accountantsorganisaties.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel XI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet arbeid en zorg.
 
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet financiering sociale verzekeringen.
 
 ##### Artikel XIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
 
 ##### Artikel XIV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Ziektewet.
 
 ##### Artikel XV
 
@@ -105,15 +105,15 @@ Wijzigt de Faillissementswet.
 
 ##### Artikel XVI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Gerechtsdeurwaarderswet.
 
 ##### Artikel XVII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wetboek van Burgerlijke Rechtsvordering.
 
 ##### Artikel XVIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Sanctiewet 1977.
 
 ##### Artikel XIX
 
@@ -131,23 +131,25 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XX
 
-Dit onderdeel is nog niet inwerking getreden
+1. In besluiten ten aanzien van kredietinstellingen, genomen op grond van een in de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0031007&artikel=I&z=2012-01-01&g=2012-01-01), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0031007&artikel=II&z=2012-01-01&g=2012-01-01), [IV tot en met XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0031007&artikel=IV&z=2012-01-01&g=2012-01-01) of [XXa tot en met XXf](https://wetten.overheid.nl/jci1.3:c:BWBR0031007&artikel=XXa&z=2012-01-01&g=2012-01-01) genoemde wet, zoals die wet luidde voorafgaand aan het tijdstip van inwerkingtreding van het desbetreffende artikel, wordt, voor zover deze besluiten betrekking hebben op de uitoefening van het bedrijf van een bank, voor kredietinstelling gelezen: bank.
+
+2. Het eerste lid is van overeenkomstige toepassing op aanvragen van een besluit als bedoeld in het eerste lid.
 
 ##### Artikel XXa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Mededingingswet.
 
 ##### Artikel XXb
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Bankwet 1998.
 
 ##### Artikel XXc
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet gemeentelijke basisadministratie persoonsgegevens.
 
 ##### Artikel XXd
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de dividendbelasting 1965.
 
 ##### Artikel XXe
 
@@ -155,14 +157,14 @@ Wijzigt de Wet toezicht financiële verslaggeving.
 
 ##### Artikel XXf
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Invorderingswet 1990.
 
 ##### Artikel XXg
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wijzigingswet financiële markten 2012.
 
 ##### Artikel XXI
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen verschillend kan worden vastgesteld. [Artikel I, met uitzondering van onderdeel Ba](https://wetten.overheid.nl/jci1.3:c:BWBR0031007&artikel=I&z=2012-01-01&g=2012-01-01), de [artikelen II tot en met V](https://wetten.overheid.nl/jci1.3:c:BWBR0031007&artikel=II&z=2012-01-01&g=2012-01-01), en [XV](https://wetten.overheid.nl/jci1.3:c:BWBR0031007&artikel=XV&z=2012-01-01&g=2012-01-01), [XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0031007&artikel=XIX&z=2012-01-01&g=2012-01-01) en [XXe](https://wetten.overheid.nl/jci1.3:c:BWBR0031007&artikel=XXe&z=2012-01-01&g=2012-01-01) werken alsdan terug tot en met 30 april 2011.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
