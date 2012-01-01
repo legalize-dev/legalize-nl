@@ -4,7 +4,7 @@ identifier: "BWBR0007310"
 country: "nl"
 rank: "wet"
 publication_date: "2012-01-01"
-last_updated: "1999-02-17"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007310"
 soort: "wet"
@@ -82,11 +82,11 @@ Voor een in het buitenland geregistreerd motorrijtuig dat in Nederland feitelijk
 
 ##### Artikel X
 
-[Artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0007310&artikel=VI&z=1999-02-17&g=1999-02-17) is van overeenkomstige toepassing voor een kenteken als bedoeld in [artikel 62 van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=62) waarvoor belasting is voldaan op de voet van de [Wet op de motorrijtuigenbelasting 1966](https://wetten.overheid.nl/jci1.3:c:BWBR0002534) over een tijdvak waarvan een gedeelte ligt na 31 maart 1995, met dien verstande dat voor artikel 11, eerste lid, moet worden gelezen: artikel 63, tweede lid.
+[Artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0007310&artikel=VI&z=2012-01-01&g=2012-01-01) is van overeenkomstige toepassing voor een kenteken als bedoeld in [artikel 62 van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=62) waarvoor belasting is voldaan op de voet van de [Wet op de motorrijtuigenbelasting 1966](https://wetten.overheid.nl/jci1.3:c:BWBR0002534) over een tijdvak waarvan een gedeelte ligt na 31 maart 1995, met dien verstande dat voor artikel 11, eerste lid, moet worden gelezen: artikel 63, tweede lid.
 
 ##### Artikel XI
 
-[Artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0007310&artikel=VII&z=1999-02-17&g=1999-02-17) is van overeenkomstige toepassing voor een kenteken als bedoeld in [artikel 62 van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=62) waarvoor op 1 april 1995 de belasting niet is voldaan, met dien verstande dat voor artikel 11, eerste lid, moet worden gelezen: artikel 63, tweede lid.
+[Artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0007310&artikel=VII&z=2012-01-01&g=2012-01-01) is van overeenkomstige toepassing voor een kenteken als bedoeld in [artikel 62 van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=62) waarvoor op 1 april 1995 de belasting niet is voldaan, met dien verstande dat voor artikel 11, eerste lid, moet worden gelezen: artikel 63, tweede lid.
 
 ##### Artikel XII
 
@@ -124,9 +124,7 @@ De [Wet op de motorrijtuigenbelasting 1966](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel XVI
 
-1. In afwijking van [artikel 222, derde lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=222) wordt voor de berekening van het aan provinciale opcenten verschuldigde bedrag voor tijdvakken die aanvangen na 31 maart 1995 doch vóór 1 april 1997 uitgegaan van het tarief van de [Wet op de motorrijtuigenbelasting 1966](https://wetten.overheid.nl/jci1.3:c:BWBR0002534), zoals dat luidde bij aanvang van het kalenderjaar 1980, met dien verstande dat de vermeerdering van belasting bedoeld in artikel 6 alsmede het vaste bedrag genoemd in artikel 8, tweede lid, onderdeel **a**, van laatstgenoemde wet buiten beschouwing blijven.
-
-2. Onze Minister stelt het met ingang van 1 april 1997 ten hoogste te heffen aantal opcenten zodanig vast dat daaruit voor de provincies te zamen geen wijziging van de ten hoogste te verkrijgen opbrengst van de belasting voortvloeit, onverminderd de jaarlijkse aanpassing ingevolge [artikel 222, vierde lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=222).
+In afwijking van [artikel 222, derde lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=222) wordt voor de berekening van het aan provinciale opcenten verschuldigde bedrag voor tijdvakken die aanvangen na 31 maart 1995 doch vóór 1 april 1997 uitgegaan van het tarief van de [Wet op de motorrijtuigenbelasting 1966](https://wetten.overheid.nl/jci1.3:c:BWBR0002534), zoals dat luidde bij aanvang van het kalenderjaar 1980, met dien verstande dat de vermeerdering van belasting bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&artikel=6) alsmede het vaste bedrag genoemd in [artikel 8, tweede lid, onderdeel a, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&artikel=8) buiten beschouwing blijven.
 
 ##### Artikel XVII
 
