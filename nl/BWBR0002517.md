@@ -4,7 +4,7 @@ identifier: "BWBR0002517"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-01"
-last_updated: "2011-01-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002517"
 soort: "ministeriele-regeling"
@@ -43,7 +43,9 @@ Deze regeling geeft uitvoering aan de [artikelen 4, tweede lid](https://wetten.o
 
 ##### Artikel 1a
 
-Voor de toepassing van de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4), en [10, tweede lid, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10) worden van de staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte aangewezen: IJsland, Noorwegen en Liechtenstein.
+1. Voor de toepassing van de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4), en [10, tweede lid, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10) worden van de staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte aangewezen: IJsland, Noorwegen en Liechtenstein.
+
+2. Voor de toepassing van [artikel 10, derde lid, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10) wordt als in dat lid bedoelde staat aangewezen: elke staat, niet zijnde een lidstaat van de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, waarmee Nederland in lijn met de internationale standaard op het gebied van informatie-uitwisseling gegevens kan uitwisselen.
 
 ##### Artikel 1aa
 
