@@ -4,7 +4,7 @@ identifier: "BWBV0003087"
 country: "nl"
 rank: "verdrag"
 publication_date: "2012-01-01"
-last_updated: "2008-06-17"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003087"
 soort: "verdrag"
@@ -100,7 +100,7 @@ De Hoge Verdragsluitende Partijen stellen een Benelux Unie in met het oog op het
 
 ##### Artikel 3
 
-1. Met het oog op de verwezenlijking van de doelstellingen in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=1&artikel=2&z=2008-06-17&g=2008-06-17) stelt de Benelux Unie periodiek een meerjarig Gemeenschappelijk Werkprogramma op, waarin de prioriteiten van de samenwerking worden vastgesteld.
+1. Met het oog op de verwezenlijking van de doelstellingen in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=1&artikel=2&z=2012-01-01&g=2012-01-01) stelt de Benelux Unie periodiek een meerjarig Gemeenschappelijk Werkprogramma op, waarin de prioriteiten van de samenwerking worden vastgesteld.
 
 2. Het Gemeenschappelijk Werkprogramma betreft onder meer:
 
@@ -110,7 +110,7 @@ De Hoge Verdragsluitende Partijen stellen een Benelux Unie in met het oog op het
 
 - c. het beleid op het gebied van visa en immigratie, de politiële samenwerking, de samenwerking met betrekking tot het beheer van crises en de bestrijding van rampen, alsmede met betrekking tot de strijd tegen het terrorisme en tegen fraude, onder meer op het gebied van belastingen;
 
-- d. de samenwerking op overig gebied indien noodzakelijk ter verwezenlijking van de doelstellingen van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=1&artikel=2&z=2008-06-17&g=2008-06-17).
+- d. de samenwerking op overig gebied indien noodzakelijk ter verwezenlijking van de doelstellingen van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=1&artikel=2&z=2012-01-01&g=2012-01-01).
 
 ##### Artikel 4
 
@@ -142,9 +142,9 @@ De instellingen van de Benelux Unie zijn:
 
 - a. de wijze van uitvoering van de bepalingen van dit Verdrag onder de daarin vermelde voorwaarden te bepalen. Deze beschikkingen van het Comité verbinden de Hoge Verdragsluitende Partijen;
 
-- b. het Gemeenschappelijk Werkprogramma genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=1&artikel=3&z=2008-06-17&g=2008-06-17) vast te stellen op basis van een gecoördineerd voorstel van het Secretariaat-generaal;
+- b. het Gemeenschappelijk Werkprogramma genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=1&artikel=3&z=2012-01-01&g=2012-01-01) vast te stellen op basis van een gecoördineerd voorstel van het Secretariaat-generaal;
 
-- c. de begroting van de Benelux Unie vast te stellen overeenkomstig de procedure in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=2&hoofdstuk=5&artikel=22&z=2008-06-17&g=2008-06-17);
+- c. de begroting van de Benelux Unie vast te stellen overeenkomstig de procedure in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=2&hoofdstuk=5&artikel=22&z=2012-01-01&g=2012-01-01);
 
 - d. het jaarplan van de Benelux Unie vast te stellen;
 
@@ -274,7 +274,7 @@ Het Benelux Secretariaat-generaal is gevestigd te Brussel.
 
 ##### Artikel 23
 
-De Secretaris-generaal maakt de beschikkingen, het Gemeenschappelijk Werkprogramma, het jaarplan, het jaarverslag en de aanbevelingen genoemd in [artikel 6, tweede lid, onder (a), (b), (d), (e) en (g)](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=2&hoofdstuk=1&artikel=6&z=2008-06-17&g=2008-06-17) bekend in het Benelux Publicatieblad.
+De Secretaris-generaal maakt de beschikkingen, het Gemeenschappelijk Werkprogramma, het jaarplan, het jaarverslag en de aanbevelingen genoemd in [artikel 6, tweede lid, onder (a), (b), (d), (e) en (g)](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=2&hoofdstuk=1&artikel=6&z=2012-01-01&g=2012-01-01) bekend in het Benelux Publicatieblad.
 
 ## DEEL 3. EXTERNE BETREKKINGEN
 
@@ -288,7 +288,7 @@ Het Comité van Ministers kan bij de opstelling of uitvoering van het Gemeenscha
 
 ##### Artikel 26
 
-Indien de uitvoering van de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=3&artikel=24&z=2008-06-17&g=2008-06-17) of [25](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=3&artikel=25&z=2008-06-17&g=2008-06-17) leidt tot verdragsluiting door de Hoge Verdragsluitende Partijen met een derde staat of een deelstaat, is [artikel 6, tweede lid, onder (f)](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=2&hoofdstuk=1&artikel=6&z=2008-06-17&g=2008-06-17), van toepassing.
+Indien de uitvoering van de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=3&artikel=24&z=2012-01-01&g=2012-01-01) of [25](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=3&artikel=25&z=2012-01-01&g=2012-01-01) leidt tot verdragsluiting door de Hoge Verdragsluitende Partijen met een derde staat of een deelstaat, is [artikel 6, tweede lid, onder (f)](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=2&hoofdstuk=1&artikel=6&z=2012-01-01&g=2012-01-01), van toepassing.
 
 ##### Artikel 27
 
@@ -324,19 +324,19 @@ De Benelux-Organisatie voor de Intellectuele Eigendom (merken en tekeningen of m
 
 ##### Artikel 32
 
-1. Het Comité van Ministers besluit op basis van een inventarisatie door het Benelux Secretariaat-generaal en na advies van de Raad, welke beschikkingen, aanbevelingen en richtlijnen bedoeld in [artikel 6, tweede lid, onder (a), (g) en (h)](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=2&hoofdstuk=1&artikel=6&z=2008-06-17&g=2008-06-17), zijn vervallen omdat zij geen toepassing meer vinden.
+1. Het Comité van Ministers besluit op basis van een inventarisatie door het Benelux Secretariaat-generaal en na advies van de Raad, welke beschikkingen, aanbevelingen en richtlijnen bedoeld in [artikel 6, tweede lid, onder (a), (g) en (h)](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=2&hoofdstuk=1&artikel=6&z=2012-01-01&g=2012-01-01), zijn vervallen omdat zij geen toepassing meer vinden.
 
-2. De Commissies en Bijzondere Commissies die zijn ingesteld in en op basis van het [Verdrag van 1958](https://wetten.overheid.nl/jci1.3:c:BWBV0005047) zijn gerechtigd hun werkzaamheden voort te zetten. De Raad bepaalt zo spoedig mogelijk op basis van een inventarisatie van het Secretariaat-generaal op welke wijze [artikel 12, onder (b)](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=2&hoofdstuk=2&artikel=12&z=2008-06-17&g=2008-06-17), op deze Commissies en Bijzondere Commissies wordt toegepast.
+2. De Commissies en Bijzondere Commissies die zijn ingesteld in en op basis van het [Verdrag van 1958](https://wetten.overheid.nl/jci1.3:c:BWBV0005047) zijn gerechtigd hun werkzaamheden voort te zetten. De Raad bepaalt zo spoedig mogelijk op basis van een inventarisatie van het Secretariaat-generaal op welke wijze [artikel 12, onder (b)](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=2&hoofdstuk=2&artikel=12&z=2012-01-01&g=2012-01-01), op deze Commissies en Bijzondere Commissies wordt toegepast.
 
 ##### Artikel 33
 
-1. Zolang daarin niet nader is voorzien door een aanvullende overeenkomst tussen de Benelux Unie en de staat waarin de Benelux Unie haar zetel heeft, bedoeld in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=4&artikel=29&z=2008-06-17&g=2008-06-17), genieten de Secretaris-generaal en de adjunct-Secretarissen-generaal in deze staat de voorrechten en immuniteiten die zijn toegekend aan een in deze staat geaccrediteerd hoofd van een diplomatieke zending respectievelijk aan de leden van het diplomatiek personeel ingevolge het [Verdrag van Wenen van 18 april 1961 inzake diplomatiek verkeer](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
+1. Zolang daarin niet nader is voorzien door een aanvullende overeenkomst tussen de Benelux Unie en de staat waarin de Benelux Unie haar zetel heeft, bedoeld in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=4&artikel=29&z=2012-01-01&g=2012-01-01), genieten de Secretaris-generaal en de adjunct-Secretarissen-generaal in deze staat de voorrechten en immuniteiten die zijn toegekend aan een in deze staat geaccrediteerd hoofd van een diplomatieke zending respectievelijk aan de leden van het diplomatiek personeel ingevolge het [Verdrag van Wenen van 18 april 1961 inzake diplomatiek verkeer](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
 
 2. De gerechtelijke immuniteit kan in voorkomende gevallen door het Comité van Ministers worden opgeheven.
 
 ##### Artikel 34
 
-[Artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=2&hoofdstuk=5&artikel=19&z=2008-06-17&g=2008-06-17), is bij de inwerkingtreding van dit Verdrag onverkort van toepassing op de op het tijdstip van de ondertekening in functie zijnde Secretaris-generaal.
+[Artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=2&hoofdstuk=5&artikel=19&z=2012-01-01&g=2012-01-01), is bij de inwerkingtreding van dit Verdrag onverkort van toepassing op de op het tijdstip van de ondertekening in functie zijnde Secretaris-generaal.
 
 ## DEEL 8. SLOTBEPALINGEN
 
@@ -348,7 +348,7 @@ Wijzigt het Verdrag tot instelling van de Benelux Economische Unie; 's-Gravenhag
 
 1. De toepassing van dit Verdrag is beperkt tot het grondgebied van België, Luxemburg en Nederland.
 
-2. Het Koninkrijk der Nederlanden behoudt zich het recht voor in de overeenkomsten bedoeld in de [artikelen 6, tweede lid, onder (f)](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=2&hoofdstuk=1&artikel=6&z=2008-06-17&g=2008-06-17), en [26](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=3&artikel=26&z=2008-06-17&g=2008-06-17) bepalingen in te lassen die van belang zijn voor de andere constituerende delen van het Koninkrijk der Nederlanden.
+2. Het Koninkrijk der Nederlanden behoudt zich het recht voor in de overeenkomsten bedoeld in de [artikelen 6, tweede lid, onder (f)](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=2&hoofdstuk=1&artikel=6&z=2012-01-01&g=2012-01-01), en [26](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=3&artikel=26&z=2012-01-01&g=2012-01-01) bepalingen in te lassen die van belang zijn voor de andere constituerende delen van het Koninkrijk der Nederlanden.
 
 ##### Artikel 37
 
@@ -462,7 +462,7 @@ De Secretaris-generaal, de adjunct-Secretarissen-generaal en de personeelsleden 
 
 ##### Artikel 9
 
-1. Naast de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=8&z=2008-06-17&g=2008-06-17) vastgelegde voorrechten en immuniteiten genieten de Secretaris-generaal en de Adjunct-secretarissen-generaal respectievelijk de voorrechten en immuniteiten die zijn toegekend aan een hoofd van een diplomatieke zending en aan de leden van het diplomatiek personeel ingevolge het [Verdrag van Wenen van 18 april 1961 inzake diplomatiek verkeer](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
+1. Naast de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=8&z=2012-01-01&g=2012-01-01) vastgelegde voorrechten en immuniteiten genieten de Secretaris-generaal en de Adjunct-secretarissen-generaal respectievelijk de voorrechten en immuniteiten die zijn toegekend aan een hoofd van een diplomatieke zending en aan de leden van het diplomatiek personeel ingevolge het [Verdrag van Wenen van 18 april 1961 inzake diplomatiek verkeer](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
 
 2. De immuniteit van rechtsmacht geldt niet met betrekking tot civiele vorderingen die voortvloeien uit door de Secretaris-generaal en de Adjunct-secretarissen-generaal in de privé-sfeer veroorzaakte schade dan wel uit door hen in de privé-sfeer afgesloten contracten.
 
@@ -478,13 +478,13 @@ Deskundigen die optreden namens en voor rekening van de Benelux Unie genieten, o
 
 ##### Artikel 11
 
-1. Onverminderd de verplichtingen die voor de Hoge Verdragsluitende Partijen voortvloeien uit de verdragen betreffende de Europese Unie treffen zij de nodige maatregelen om personen bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=10&z=2008-06-17&g=2008-06-17) de binnenkomst in hun landen te vergemakkelijken. Het voor deze personen vereiste visum wordt zo snel mogelijk afgegeven.
+1. Onverminderd de verplichtingen die voor de Hoge Verdragsluitende Partijen voortvloeien uit de verdragen betreffende de Europese Unie treffen zij de nodige maatregelen om personen bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=10&z=2012-01-01&g=2012-01-01) de binnenkomst in hun landen te vergemakkelijken. Het voor deze personen vereiste visum wordt zo snel mogelijk afgegeven.
 
 2. De Secretaris-generaal van de Benelux Unie geeft de bevoegde autoriteiten vooraf kennis van de naam van de in het eerste lid bedoelde personen.
 
 ##### Artikel 12
 
-1. De Hoge Verdragsluitende Partijen zijn niet verplicht de in [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=7&z=2008-06-17&g=2008-06-17), [8, onder (b)](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=8&z=2008-06-17&g=2008-06-17) en [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=9&z=2008-06-17&g=2008-06-17) bedoelde voorrechten en immuniteiten toe te kennen aan:
+1. De Hoge Verdragsluitende Partijen zijn niet verplicht de in [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=7&z=2012-01-01&g=2012-01-01), [8, onder (b)](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=8&z=2012-01-01&g=2012-01-01) en [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=9&z=2012-01-01&g=2012-01-01) bedoelde voorrechten en immuniteiten toe te kennen aan:
 
 - a. hun eigen onderdanen;
 
@@ -492,19 +492,19 @@ Deskundigen die optreden namens en voor rekening van de Benelux Unie genieten, o
 
 ##### Artikel 13
 
-1. De Secretaris-generaal heeft de plicht de immuniteit van de personeelsleden bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=8&z=2008-06-17&g=2008-06-17) en van de deskundigen bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=10&z=2008-06-17&g=2008-06-17) op te heffen indien hij van oordeel is dat deze immuniteit aan de loop van het recht in de weg staat en indien het mogelijk is van deze immuniteit afstand te doen zonder de belangen van de Benelux Unie in gevaar te brengen.
+1. De Secretaris-generaal heeft de plicht de immuniteit van de personeelsleden bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=8&z=2012-01-01&g=2012-01-01) en van de deskundigen bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=10&z=2012-01-01&g=2012-01-01) op te heffen indien hij van oordeel is dat deze immuniteit aan de loop van het recht in de weg staat en indien het mogelijk is van deze immuniteit afstand te doen zonder de belangen van de Benelux Unie in gevaar te brengen.
 
-2. Het Comité van Ministers kan op dezelfde gronden de aan de Secretaris-generaal en de Adjunct-secretarissen-generaal toegekende immuniteiten, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=8&z=2008-06-17&g=2008-06-17) en [9](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=9&z=2008-06-17&g=2008-06-17), opheffen.
+2. Het Comité van Ministers kan op dezelfde gronden de aan de Secretaris-generaal en de Adjunct-secretarissen-generaal toegekende immuniteiten, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=8&z=2012-01-01&g=2012-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=9&z=2012-01-01&g=2012-01-01), opheffen.
 
-3. Elke Hoge Verdragsluitende Partij heeft de plicht de immuniteit op te heffen van haar vertegenwoordigers, alsmede van haar plaatsvervangers, raadgevers of deskundigen bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=7&z=2008-06-17&g=2008-06-17), telkens wanneer, naar het oordeel van de betreffende Staat, de immuniteit aan de loop van het recht in de weg zou staan, en er afstand van kan worden gedaan zonder de doeleinden waarvoor zij was toegekend in gevaar te brengen.
+3. Elke Hoge Verdragsluitende Partij heeft de plicht de immuniteit op te heffen van haar vertegenwoordigers, alsmede van haar plaatsvervangers, raadgevers of deskundigen bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=7&z=2012-01-01&g=2012-01-01), telkens wanneer, naar het oordeel van de betreffende Staat, de immuniteit aan de loop van het recht in de weg zou staan, en er afstand van kan worden gedaan zonder de doeleinden waarvoor zij was toegekend in gevaar te brengen.
 
 ##### Artikel 14
 
 1. De Benelux Unie werkt voortdurend samen met de bevoegde autoriteiten van de Hoge Verdragsluitende Partijen ter bevordering van een goede rechtsbedeling, ter verzekering van de naleving van politievoorschriften en van voorschriften met betrekking tot de volksgezondheid, de arbeidsinspectie, of andere nationale wetten, alsmede ter voorkoming van misbruik van de in dit Protocol bedoelde voorrechten, immuniteiten en faciliteiten.
 
-2. De in dit Protocol aan de personen bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=7&z=2008-06-17&g=2008-06-17), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=8&z=2008-06-17&g=2008-06-17) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=10&z=2008-06-17&g=2008-06-17) toegekende voorrechten en immuniteiten zijn niet bedoeld om de betrokkenen tot persoonlijk voordeel te strekken. Zij beogen uitsluitend het onbelemmerd functioneren van de Benelux Unie onder alle omstandigheden, alsmede de volledige onafhankelijkheid van de betrokkenen.
+2. De in dit Protocol aan de personen bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=7&z=2012-01-01&g=2012-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=8&z=2012-01-01&g=2012-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=10&z=2012-01-01&g=2012-01-01) toegekende voorrechten en immuniteiten zijn niet bedoeld om de betrokkenen tot persoonlijk voordeel te strekken. Zij beogen uitsluitend het onbelemmerd functioneren van de Benelux Unie onder alle omstandigheden, alsmede de volledige onafhankelijkheid van de betrokkenen.
 
-3. De Benelux Unie en de personen genoemd in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=7&z=2008-06-17&g=2008-06-17), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=8&z=2008-06-17&g=2008-06-17) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=10&z=2008-06-17&g=2008-06-17) dienen zich te houden aan de wetgeving en de regelgeving van de Hoge Verdragsluitende Partijen.
+3. De Benelux Unie en de personen genoemd in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=7&z=2012-01-01&g=2012-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=8&z=2012-01-01&g=2012-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=10&z=2012-01-01&g=2012-01-01) dienen zich te houden aan de wetgeving en de regelgeving van de Hoge Verdragsluitende Partijen.
 
 ##### Artikel 15
 
