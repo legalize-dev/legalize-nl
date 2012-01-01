@@ -4,7 +4,7 @@ identifier: "BWBR0007165"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2003-02-22"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007165"
 soort: "ministeriele-regeling"
@@ -67,9 +67,9 @@ Vervallen
 
 - d. gronduitgifteprijzen.
 
-3. Het verzamelen van verhuurgegevens van niet-woningen geschiedt door middel van het inlichtingenformulier verhuurgegevens niet-woningen dat in overeenstemming is met het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007165&bijlage=2&z=2003-02-22&g=2003-02-22) opgenomen model.
+3. Het verzamelen van verhuurgegevens van niet-woningen geschiedt door middel van het inlichtingenformulier verhuurgegevens niet-woningen dat in overeenstemming is met het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007165&bijlage=2&z=2012-01-01&g=2012-01-01) opgenomen model.
 
-4. Het verzamelen van gegevens over gebruikers van niet-woningen geschiedt door middel van het inlichtingenformulier gebruikers niet-woningen dat in overeenstemming is met het in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007165&bijlage=3&z=2003-02-22&g=2003-02-22) opgenomen model.
+4. Het verzamelen van gegevens over gebruikers van niet-woningen geschiedt door middel van het inlichtingenformulier gebruikers niet-woningen dat in overeenstemming is met het in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007165&bijlage=3&z=2012-01-01&g=2012-01-01) opgenomen model.
 
 5. Met betrekking tot de in het tweede lid bedoelde handelingen wordt geanalyseerd in hoeverre de omstandigheden overeenstemmen met het voorschrift voor de waardebepaling, bedoeld in [artikel 17, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=17), in hoeverre de gegevens overeenstemmen met vergelijkbare handelingen in het economische verkeer en in hoeverre de bij deze handelingen betrokken onroerende zaken overeenstemmen met de onroerende zaken, bedoeld in [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=16).
 
@@ -95,11 +95,11 @@ Het college van burgemeester en wethouders rapporteert desgevraagd binnen vier w
 
 ##### Artikel 6
 
-1. Als model van het taxatieverslag van woningen wordt vastgesteld het formulier dat in overeenstemming is met het in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007165&bijlage=4&z=2003-02-22&g=2003-02-22) opgenomen model.
+1. Als model van het taxatieverslag van woningen wordt vastgesteld het formulier dat in overeenstemming is met het in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007165&bijlage=4&z=2012-01-01&g=2012-01-01) opgenomen model.
 
-2. Als model van het taxatieverslag van niet-woningen waarvan de waarde is bepaald op de vervangingswaarde wordt vastgesteld het formulier dat in overeenstemming is met het in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007165&bijlage=5&z=2003-02-22&g=2003-02-22) opgenomen model.
+2. Als model van het taxatieverslag van niet-woningen waarvan de waarde is bepaald op de vervangingswaarde wordt vastgesteld het formulier dat in overeenstemming is met het in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007165&bijlage=5&z=2012-01-01&g=2012-01-01) opgenomen model.
 
-3. Als model van het taxatieverslag van niet-woningen waarvan de waarde is bepaald door middel van een methode van kapitalisatie van de bruto huur wordt vastgesteld het formulier dat in overeenstemming is met het in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0007165&bijlage=6&z=2003-02-22&g=2003-02-22) opgenomen model.
+3. Als model van het taxatieverslag van niet-woningen waarvan de waarde is bepaald door middel van een methode van kapitalisatie van de bruto huur wordt vastgesteld het formulier dat in overeenstemming is met het in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0007165&bijlage=6&z=2012-01-01&g=2012-01-01) opgenomen model.
 
 ##### Artikel 7
 
@@ -121,7 +121,7 @@ Vervallen
 
 ## Bijlage 3. MODEL INLICHTINGENFORMULIER GEBRUIKERS NIET-WONINGEN
 
-## Bijlage 4. Model taxatieverslag woningen
+## Bijlage 4
 
 ## Bijlage 5. Model taxatieverslag niet-woningen (vervangingswaarde)
 
