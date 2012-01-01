@@ -4,7 +4,7 @@ identifier: "BWBR0003763"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-01-01"
-last_updated: "2005-05-26"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003763"
 soort: "ministeriele-regeling"
@@ -57,7 +57,7 @@ Als wissellaadbakken, bedoeld in [artikel 1a, onder 3°, van het Warenwetbesluit
 
 ##### Artikel 3
 
-De beproevingen, bedoeld in [artikel 8, eerste lid, van het Warenwetbesluit containers](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&artikel=8), worden uitgevoerd overeenkomstig het bepaalde in de [artikelen 4 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003763&hoofdstuk=II&artikel=4&z=2005-05-26&g=2005-05-26).
+De beproevingen, bedoeld in [artikel 8, eerste lid, van het Warenwetbesluit containers](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&artikel=8), worden uitgevoerd overeenkomstig het bepaalde in de [artikelen 4 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003763&hoofdstuk=II&artikel=4&z=2012-01-01&g=2012-01-01).
 
 ##### Artikel 4
 
@@ -174,7 +174,7 @@ Vervallen
 
 ##### Artikel 12
 
-Het merk van goedkeuring van een container bestaat in een plaat van duurzaam corrosie- en brandbestendig materiaal met een formaat van ten minste 200 mm × 100 mm, waarop in ten minste de Engelse of de Franse taal duidelijk en onuitwisbaar met betrekking tot de container vermeld moeten zijn:
+1. Het merk van goedkeuring van een container bestaat in een plaat van duurzaam corrosie- en brandbestendig materiaal met een formaat van ten minste 200 mm × 100 mm, waarop in ten minste de Engelse of de Franse taal duidelijk en onuitwisbaar met betrekking tot de container vermeld moeten zijn:
 
 - a. de letters CSC met daarachter het woord VEILIGHEIDSKEUR, een en ander met een hoogte van ten minste 8 mm, en daaronder
 
@@ -197,6 +197,12 @@ Het merk van goedkeuring van een container bestaat in een plaat van duurzaam cor
 - 8º. de zijwandsterkte, indien de zijwanden zo zijn ontworpen dat zij een kracht, anders dan 0,6 × de zwaartekracht bij het maximaal toelaatbare gewicht van de lading (0,6 Pg) kunnen weerstaan, alsmede
 
 - 9º. de maand en het jaar, voor het begin waarvan de container ingevolge [artikel 11, tweede lid, van het Warenwetbesluit containers](https://wetten.overheid.nl/jci1.3:c:BWBR0003584&artikel=11) voor de eerste maal moet worden onderzocht,
+
+- 10°. De stapelsterkte bij één ontbrekende deur, indien de container is goedgekeurd voor gebruik met één ontbrekende deur. De markering luidt: TOELAATBAAR STAPELGEWICHT BIJ EEN ONTBREKENDE DEUR BIJ 1,8 g (in kg en lb). De markering wordt aangegeven nabij de waarde van de torsiebeproeving,
+
+- 11°. De belastingswaarde bij torsiebeproeving bij één ontbrekende deur, indien de container is goedgekeurd voor gebruik met één ontbrekende deur. De markering luidt: BELASTINGSWAARDE BIJ TORSIEBEPROEVING BIJ EEN ONTBREKENDE DEUR (in kg en lb). De markering wordt aangegeven nabij de waarde van de stapelbeproeving.
+
+2. Wanneer het toelaatbaar stapelgewicht of de belastingswaarde bij torsiebeproeving lager is dan 192.000 kg respectievelijk 150 kN, wordt de container geacht een verminderd stapelvermogen respectievelijk een verminderde bestendigheid bij torsiebelasting te hebben en wordt zulks op een goed zichtbare plaats op de plaat vermeld, overeenkomstig de normen, bedoeld in Bijlage I, Hoofdstuk I, bepaling 1, derde lid, bij de Internationale Overeenkomst voor veilige containers, 1972 (Trb. 1976, 28).
 
 ##### Artikel 13
 
@@ -228,9 +234,9 @@ Met het merk van goedkeuring worden gelijkgesteld de merken van goedkeuring die 
 
 ##### Artikel 15
 
-Vervallen
+De toezichthouder onderwerpt een goedgekeurde container aan controle met inachtneming van Bijlage III, paragrafen 1, 2 en 4, bij de Internationale Overeenkomst voor veilige containers, 1972 (Trb. 1976, 28).
 
-### Hoofdstuk V. Aanwijzing ambtenaren
+### Hoofdstuk IV. Toezicht
 
 ##### Artikel 16
 
@@ -246,7 +252,7 @@ Vervallen
 
 Vervallen
 
-### Hoofdstuk VII. Slotbepalingen
+### Hoofdstuk VI. Merk van afkeuring
 
 ##### Artikel 19. Citeertitel
 
@@ -287,5 +293,17 @@ In het jaarverslag, bedoeld in [artikel 7c, tweede lid, van de Warenwet](onbeken
 ### Hoofdstuk V. Aanwijzing ambtenaren
 
 ### Hoofdstuk VI. Merk van afkeuring
+
+### Hoofdstuk VII. Slotbepalingen
+
+##### Artikel 10a
+
+1. Containers met één ontbrekende deur worden voor gebruik gekeurd.
+
+2. De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003763&hoofdstuk=II&artikel=5&z=2012-01-01&g=2012-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003763&hoofdstuk=II&artikel=7&z=2012-01-01&g=2012-01-01) zijn van overeenkomstige toepassing op de keuring, bedoeld in het eerste lid.
+
+### Hoofdstuk III. Merk van goedkeuring
+
+### Hoofdstuk V. Aanwijzing ambtenaren
 
 ### Hoofdstuk VII. Slotbepalingen
