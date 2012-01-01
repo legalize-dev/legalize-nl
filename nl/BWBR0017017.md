@@ -4,7 +4,7 @@ identifier: "BWBR0017017"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2011-10-29"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017017"
 soort: "wet"
@@ -719,7 +719,7 @@ Indien de kinderopvang in een kindercentrum geschiedt uitsluitend en onbezoldigd
 
 2. De bekendmaking van de beleidsregels geschiedt door plaatsing in de Staatscourant.
 
-#### Paragraaf 2. Gemeentelijk ingrijpen
+#### Paragraaf 3. Oudercommissie
 
 ##### Artikel 65
 
@@ -779,7 +779,7 @@ Onze Minister stelt jaarlijks een verslag vast van de werkzaamheden die hij in h
 
 Vervallen
 
-#### Paragraaf 2a. Informatieverstrekking aan de GGD
+#### Paragraaf 2. Gemeentelijk ingrijpen
 
 ##### Artikel 72
 
@@ -1077,7 +1077,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### Paragraaf 5. Voortzetting aanspraak tegemoetkomingen
 
-#### Paragraaf 6. Invordering
+#### Paragraaf 5. Voortzetting aanspraak tegemoetkomingen
 
 #### Paragraaf 7. Overige bepalingen
 
@@ -1167,7 +1167,7 @@ De houder van een kindercentrum of een gastouderbureau treft een regeling voor d
 
 #### Paragraaf 3. Rijkstoezicht op gemeentelijk toezicht en ingrijpen
 
-#### Paragraaf 1. Opsporing
+#### Paragraaf 2a. Informatieverstrekking aan de GGD
 
 ### Hoofdstuk 7. Overgangs- en slotbepalingen
 
@@ -1185,7 +1185,7 @@ De Belastingdienst/Toeslagen verstrekt aan de GGD kosteloos de gegevens en inlic
 
 ### Hoofdstuk 5. Opsporing en sancties
 
-#### Paragraaf 2. Bestuurlijke boeten
+#### Paragraaf 3. Rijkstoezicht op gemeentelijk toezicht en ingrijpen
 
 ### Hoofdstuk 6. Experimenten
 
@@ -1193,7 +1193,7 @@ De Belastingdienst/Toeslagen verstrekt aan de GGD kosteloos de gegevens en inlic
 
 #### Paragraaf 1. Aanvraag en registratie
 
-#### Paragraaf 3. Slotbepalingen
+#### Paragraaf 3. Oudercommissie
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
@@ -1293,7 +1293,7 @@ De houder van een gastouderbureau maakt ten behoeve van een goede uitvoering van
 
 De [artikelen 90 tot en met 92b](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=7&paragraaf=1&artikel=90&z=2010-01-01&g=2010-01-01) vervallen drie jaar na inwerkingtreding van de [wet van 18 juli 2009 tot wijziging van de Wet kinderopvang in verband met een herziening van het stelsel van gastouderopvang (**Stb.** 345)](https://wetten.overheid.nl/jci1.3:c:BWBR0026299).
 
-#### Paragraaf 2. Wijziging van andere wet- en regelgeving
+#### Paragraaf 2. Eisen
 
 #### Paragraaf 1. Toezicht op de naleving
 
@@ -1301,43 +1301,43 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 3.3
 
-1. Personen die op de dag voorafgaand aan de inwerkingtreding van [artikel I, onderdelen B en G, van de wet van 18 juli 2009 tot wijziging van de Wet kinderopvang in verband met een herziening van het stelsel van gastouderopvang (**Stb.** 345)](https://wetten.overheid.nl/jci1.3:c:BWBR0026299&artikel=I) werkzaam waren als gastouder als bedoeld in artikel 1, onderdeel f, van deze wet, zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van dat [artikel I, onderdelen B en G](https://wetten.overheid.nl/jci1.3:c:BWBR0026299&artikel=I), worden door het college van burgemeester en wethouders in het register kinderopvang, bedoeld in [artikel 1.47a](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.47a&z=2011-10-29&g=2011-10-29), ingeschreven als voorziening voor gastouderopvang indien op het moment van inschrijving na een aanvraag als bedoeld in [artikel 1.45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.45&z=2011-10-29&g=2011-10-29), uit het onderzoek, bedoeld in [artikel 1.62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=1&artikel=1.62&z=2011-10-29&g=2011-10-29), is gebleken dat exploitatie van de voorziening voor gastouderopvang redelijkerwijs zal plaatsvinden in overeenstemming met het bepaalde bij of krachtens de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&z=2011-10-29&g=2011-10-29) en [3 van afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=3&z=2011-10-29&g=2011-10-29).
+1. Personen die op de dag voorafgaand aan de inwerkingtreding van [artikel I, onderdelen B en G, van de wet van 18 juli 2009 tot wijziging van de Wet kinderopvang in verband met een herziening van het stelsel van gastouderopvang (**Stb.** 345)](https://wetten.overheid.nl/jci1.3:c:BWBR0026299&artikel=I) werkzaam waren als gastouder als bedoeld in artikel 1, onderdeel f, van deze wet, zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van dat [artikel I, onderdelen B en G](https://wetten.overheid.nl/jci1.3:c:BWBR0026299&artikel=I), worden door het college van burgemeester en wethouders in het register kinderopvang, bedoeld in [artikel 1.47a](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.47a&z=2012-01-01&g=2012-01-01), ingeschreven als voorziening voor gastouderopvang indien op het moment van inschrijving na een aanvraag als bedoeld in [artikel 1.45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.45&z=2012-01-01&g=2012-01-01), uit het onderzoek, bedoeld in [artikel 1.62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=1&artikel=1.62&z=2012-01-01&g=2012-01-01), is gebleken dat exploitatie van de voorziening voor gastouderopvang redelijkerwijs zal plaatsvinden in overeenstemming met het bepaalde bij of krachtens de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&z=2012-01-01&g=2012-01-01) en [3 van afdeling 3 van hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=3&z=2012-01-01&g=2012-01-01).
 
 2. Het eerste lid is van overeenkomstige toepassing op voorzieningen voor gastouderopvang die hun exploitatie aanvangen in het eerste kalenderjaar waarop [artikel I, onderdelen B en G, van de in het eerste lid genoemde wijzigingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0026299&artikel=I) betrekking heeft.
 
 ##### Artikel 3.6a
 
-1. In afwijking van [artikel 1.5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=1&artikel=1.5&z=2011-10-29&g=2011-10-29), heeft een ouder voor het berekeningsjaar 2010 tevens aanspraak op kinderopvangtoeslag in de door hem of zijn partner te betalen kosten jegens het Rijk onderscheidenlijk aanspraak op een tegemoetkoming in de door hem of zijn partner te betalen kosten van kinderopvang jegens de gemeente of jegens het Uitvoeringsinstituut werknemersverzekeringen, indien het betreft gastouderopvang, die plaatsvindt door tussenkomst van een geregistreerd gastouderbureau, in een of meer voorzieningen voor gastouderopvang die niet in het register kinderopvang zijn opgenomen onder voorwaarde dat is voldaan aan [artikel 1.56b, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.56b&z=2011-10-29&g=2011-10-29).
+1. In afwijking van [artikel 1.5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=1&artikel=1.5&z=2012-01-01&g=2012-01-01), heeft een ouder voor het berekeningsjaar 2010 tevens aanspraak op kinderopvangtoeslag in de door hem of zijn partner te betalen kosten jegens het Rijk onderscheidenlijk aanspraak op een tegemoetkoming in de door hem of zijn partner te betalen kosten van kinderopvang jegens de gemeente of jegens het Uitvoeringsinstituut werknemersverzekeringen, indien het betreft gastouderopvang, die plaatsvindt door tussenkomst van een geregistreerd gastouderbureau, in een of meer voorzieningen voor gastouderopvang die niet in het register kinderopvang zijn opgenomen onder voorwaarde dat is voldaan aan [artikel 1.56b, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.56b&z=2012-01-01&g=2012-01-01).
 
-2. Voor zover er geen uniek nummer is verstrekt als bedoeld in [artikel 1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.10&z=2011-10-29&g=2011-10-29), is dat artikel niet van toepassing gedurende het berekeningsjaar 2010.
+2. Voor zover er geen uniek nummer is verstrekt als bedoeld in [artikel 1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.10&z=2012-01-01&g=2012-01-01), is dat artikel niet van toepassing gedurende het berekeningsjaar 2010.
 
 3. Dit artikel vervalt met ingang van 1 januari 2016.
 
 ##### Artikel 3.6b
 
-1. Voorzieningen voor gastouderopvang die niet zijn opgenomen in het register kinderopvang, worden voor de toepassing van [artikel 1.5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=1&artikel=1.5&z=2011-10-29&g=2011-10-29), gelijk gesteld met een geregistreerde voorziening voor gastouderopvang op voorwaarde dat:
+1. Voorzieningen voor gastouderopvang die niet zijn opgenomen in het register kinderopvang, worden voor de toepassing van [artikel 1.5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=1&artikel=1.5&z=2012-01-01&g=2012-01-01), gelijk gesteld met een geregistreerde voorziening voor gastouderopvang op voorwaarde dat:
 
 - a. van de gastouder die de opvang verzorgt in een gelijkgestelde voorziening één voorzienig voor gastouderopvang is opgenomen in het register kinderopvang; en
 
-- b. de gelijkgestelde voorzieningen voor gastouderopvang voldoen aan het bepaalde bij of krachtens de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&z=2011-10-29&g=2011-10-29) en [3 van afdeling 3 van hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=3&z=2011-10-29&g=2011-10-29).
+- b. de gelijkgestelde voorzieningen voor gastouderopvang voldoen aan het bepaalde bij of krachtens de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&z=2012-01-01&g=2012-01-01) en [3 van afdeling 3 van hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=3&z=2012-01-01&g=2012-01-01).
 
-2. Indien opvang plaatsvindt in meer dan een voorzienig van gastouderopvang heeft een aanvraag als bedoeld in [artikel 1.45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.45&z=2011-10-29&g=2011-10-29), betrekking:
+2. Indien opvang plaatsvindt in meer dan een voorzienig van gastouderopvang heeft een aanvraag als bedoeld in [artikel 1.45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.45&z=2012-01-01&g=2012-01-01), betrekking:
 
 - a. op het woonadres van de gastouder, indien de gastouderopvang zal plaatsvinden op zowel het woonadres van de gastouder als op het woonadres van een of meer ouders; of
 
 - b. op een van de woonadressen van de ouders, indien de gastouderopvang uitsluitend zal plaatsvinden op twee of meer woonadressen van ouders.
 
-3. Indien de gastouder van wie een voorziening voor gastouderopvang met het woonadres van een ouder is ingeschreven in het register kinderopvang, na die inschrijving tevens opvang gaat bieden op het eigen woonadres, wordt dit aangemerkt als een wijziging in de gegevens als bedoeld in [artikel 1.47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.47&z=2011-10-29&g=2011-10-29).
+3. Indien de gastouder van wie een voorziening voor gastouderopvang met het woonadres van een ouder is ingeschreven in het register kinderopvang, na die inschrijving tevens opvang gaat bieden op het eigen woonadres, wordt dit aangemerkt als een wijziging in de gegevens als bedoeld in [artikel 1.47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.47&z=2012-01-01&g=2012-01-01).
 
-4. Op het in exploitatie nemen van een op grond van het eerste lid gelijkgestelde voorziening voor gastouderopvang zijn de [artikelen 1.45 tot en met 1.47a](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.45&z=2011-10-29&g=2011-10-29) niet van toepassing.
+4. Op het in exploitatie nemen van een op grond van het eerste lid gelijkgestelde voorziening voor gastouderopvang zijn de [artikelen 1.45 tot en met 1.47a](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.45&z=2012-01-01&g=2012-01-01) niet van toepassing.
 
-5. Een ouder die gebruik maakt van een of meer voorzieningen die zijn gelijkgesteld op grond van het eerste lid, verstrekt het in [artikel 1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.10&z=2011-10-29&g=2011-10-29) bedoelde unieke nummer dat is afgegeven voor de geregistreerde voorziening bedoeld in het eerste lid, onder a, eveneens ten aanzien van de gelijkgestelde voorzieningen.
+5. Een ouder die gebruik maakt van een of meer voorzieningen die zijn gelijkgesteld op grond van het eerste lid, verstrekt het in [artikel 1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.10&z=2012-01-01&g=2012-01-01) bedoelde unieke nummer dat is afgegeven voor de geregistreerde voorziening bedoeld in het eerste lid, onder a, eveneens ten aanzien van de gelijkgestelde voorzieningen.
 
 6. Dit artikel geldt vanaf het berekeningsjaar 2011 en vervalt met ingang van een bij koninklijk besluit te bepalen tijdstip waarbij de verschillende leden op verschillende tijdstippen kunnen vervallen.
 
 ##### Artikel 3.6c
 
-1. De in [artikel 1.61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=1&artikel=1.61&z=2011-10-29&g=2011-10-29), genoemde toezichthouder kan in afwijking van [artikel 1.62](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=1&artikel=1.62&z=2011-10-29&g=2011-10-29) tevens ten aanzien van een op grond van [artikel 3.6b](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=3&paragraaf=1&artikel=3.6b&z=2011-10-29&g=2011-10-29), eerste lid, gelijkgestelde voorziening voor gastouderopvang onderzoeken of de exploitatie van deze voorziening redelijkerwijs plaatsvindt in overeenstemming met het bepaalde bij of krachtens de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&z=2011-10-29&g=2011-10-29) en [3 van afdeling 3 van hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=3&z=2011-10-29&g=2011-10-29). De artikelen 1.61, 1.62, derde lid, en [1.63 tot en met 1.66](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=1&artikel=1.63&z=2011-10-29&g=2011-10-29) zijn met ingang van 1 januari 2011 van overeenkomstige toepassing op een op grond van artikel 3.6b, eerste lid, gelijkgestelde voorziening voor gastouderopvang.
+1. De in [artikel 1.61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=1&artikel=1.61&z=2012-01-01&g=2012-01-01), genoemde toezichthouder kan in afwijking van [artikel 1.62](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=1&artikel=1.62&z=2012-01-01&g=2012-01-01) tevens ten aanzien van een op grond van [artikel 3.6b](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=3&paragraaf=1&artikel=3.6b&z=2012-01-01&g=2012-01-01), eerste lid, gelijkgestelde voorziening voor gastouderopvang onderzoeken of de exploitatie van deze voorziening redelijkerwijs plaatsvindt in overeenstemming met het bepaalde bij of krachtens de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&z=2012-01-01&g=2012-01-01) en [3 van afdeling 3 van hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=3&z=2012-01-01&g=2012-01-01). De artikelen 1.61, 1.62, derde lid, en [1.63 tot en met 1.66](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=1&artikel=1.63&z=2012-01-01&g=2012-01-01) zijn met ingang van 1 januari 2011 van overeenkomstige toepassing op een op grond van artikel 3.6b, eerste lid, gelijkgestelde voorziening voor gastouderopvang.
 
 2. Dit artikel vervalt met ingang van een bij koninklijk besluit te bepalen tijdstip.
 
@@ -1349,7 +1349,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 1.1
 
-1. In dit hoofdstuk en de op dit hoofdstuk rustende bepalingen wordt verstaan onder:
+1. In dit hoofdstuk en de op dit hoofdstuk berustende bepalingen wordt verstaan onder:
 
 - **beroepskracht:**
 
@@ -1359,7 +1359,9 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - **beroepskracht in opleiding:** degene die de beroepsbegeleidende leerweg volgt, bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625), en ten behoeve van beroepspraktijkvorming is belast met de verzorging, de opvoeding en het bijdragen aan de ontwikkeling van kinderen bij een kindercentrum of voorziening voor gastouderopvang;
 
-- **beroepskracht voorschoolse educatie:** degene die als beroepskracht werkzaam is en belast is met voorschoolse educatie en die voldoet aan de opleidingseisen en scholingseisen, bedoeld in [artikel 1.50b, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.50b&z=2011-10-29&g=2011-10-29);
+- **beroepskracht voorschoolse educatie:** degene die als beroepskracht werkzaam is en belast is met voorschoolse educatie en die voldoet aan de opleidingseisen en scholingseisen, bedoeld in [artikel 1.50b, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.50b&z=2012-01-01&g=2012-01-01);
+
+- **continentaal plat:** de exclusieve economische zone van het Koninkrijk, bedoeld in [artikel 1 van de Rijkswet instelling exclusieve economische zone](https://wetten.overheid.nl/jci1.3:c:BWBR0010480&artikel=1), voor zover deze grenst aan de territoriale zee van Nederland;
 
 - **gastouder:** de natuurlijke persoon van 18 jaar of ouder die gastouderopvang biedt, met uitzondering van natuurlijke personen van wie een of meer kinderen op bij algemene maatregel van bestuur aan te wijzen gronden onderworpen zijn aan ondertoezichtstelling of voorlopige ondertoezichtstelling als bedoeld in [artikel 254](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=254), onderscheidenlijk [artikel 255, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=255), en met uitzondering van de persoon die op hetzelfde woonadres als de ouder of diens partner staat ingeschreven in de gemeentelijke basisadministratie persoonsgegevens;
 
@@ -1369,7 +1371,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - a. die plaatsvindt door tussenkomst van een geregistreerd gastouderbureau;
 
-- b. die plaatsvindt in een gezinssituatie door een ander dan degene die als ouder op grond van [artikel 1.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=1&artikel=1.5&z=2011-10-29&g=2011-10-29), aanspraak kan maken op een kinderopvangtoeslag onderscheidenlijk een tegemoetkoming of diens partner;
+- b. die plaatsvindt in een gezinssituatie door een ander dan degene die als ouder op grond van [artikel 1.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=1&artikel=1.5&z=2012-01-01&g=2012-01-01), aanspraak kan maken op een kinderopvangtoeslag onderscheidenlijk een tegemoetkoming of diens partner;
 
 - c. waarbij de opvang plaatsvindt:
 
@@ -1383,25 +1385,29 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - **GGD:** een gemeentelijke gezondheidsdienst als bedoeld in [artikel 14 van de Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=14);
 
-- **houder:** de rechtspersoon of natuurlijke persoon van 18 jaar of ouder die een kindercentrum, een voorziening voor gastouderopvang of een gastouderbureau exploiteert;
+- **houder:**
+
+- a. degene aan wie een onderneming als bedoeld in de [Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777) toebehoort en die met die onderneming een kindercentrum of een gastouderbureau exploiteert;
+
+- b. de gastouder die een voorziening voor gastouderopvang exploiteert.
 
 - **kindercentrum:** een voorziening waar kinderopvang plaatsvindt, anders dan gastouderopvang;
 
 - **kinderopvang:** het bedrijfsmatig of anders dan om niet verzorgen, opvoeden en bijdragen aan de ontwikkeling van kinderen tot de eerste dag van de maand waarop het voortgezet onderwijs voor die kinderen begint;
 
-- **kinderopvangtoeslag:** een tegemoetkoming van het Rijk als bedoeld in [artikel 2, eerste lid, onder j, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=2) in de kosten van kinderopvang;
+- **kinderopvangtoeslag:** een tegemoetkoming van het Rijk als bedoeld in [artikel 2, eerste lid, onder h, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=2) in de kosten van kinderopvang;
 
-- **Onze Minister:** Onze Minister van Onderwijs, Cultuur en Wetenschap;
+- **Onze Minister:** Onze Minister van Sociale Zaken en Werkgelegenheid;
 
 - **ouder:** de bloed- of aanverwant in opgaande lijn of de pleegouder van een kind op wie de kinderopvang betrekking heeft, met dien verstande dat bij de beoordeling of sprake is van pleegouderschap een subsidie op grond van de [Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637) buiten beschouwing blijft;
 
-- **oudercommissie:** de commissie, bedoeld in [artikel 1.58](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=3&artikel=1.58&z=2011-10-29&g=2011-10-29);
+- **oudercommissie:** de commissie, bedoeld in [artikel 1.58](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=3&artikel=1.58&z=2012-01-01&g=2012-01-01);
 
 - **overheidswerkgever:** de werkgever, bedoeld in [artikel 1, onderdeel r, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=1);
 
 - **overheidswerknemer:** de werknemer, bedoeld in [artikel 1, onderdeel p, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=1);
 
-- **register kinderopvang:** het register kinderopvang, bedoeld in artikel 47a;
+- **register kinderopvang:** het register kinderopvang, bedoeld in [artikel 1.47a](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.47a&z=2012-01-01&g=2012-01-01);
 
 - **Uitvoeringsinstituut werknemersverzekeringen:** het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
 
@@ -1421,7 +1427,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - a. het toezichthouden op schoolgaande kinderen dat zich beperkt tot het toezicht tijdens de middagpauze;
 
-- b. de verzorging, de opvoeding en het bijdragen aan de ontwikkeling van kinderen in een peuterspeelzaal als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=1&artikel=2.1&z=2011-10-29&g=2011-10-29);
+- b. de verzorging, de opvoeding en het bijdragen aan de ontwikkeling van kinderen in een peuterspeelzaal als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=1&artikel=2.1&z=2012-01-01&g=2012-01-01);
 
 - c. verzorging en opvoeding die plaatsvindt in het kader van de [Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637);
 
@@ -1429,7 +1435,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 1.1a
 
-1. Op deze wet is de [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472), met uitzondering van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=5), van toepassing, met dien verstande dat met de aanwezigheid van een partner geen rekening wordt gehouden in de kalendermaand waarin het partnerschap aanvangt of eindigt.
+1. Op deze wet is de [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472) van toepassing met uitzondering van [artikel 5 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=5) op wijzigingen in de kosten van kinderopvang per kind als bedoeld in [artikel 7, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.7&z=2012-01-01&g=2012-01-01).
 
 2. De uitvoering van het toekennen, uitbetalen en terugvorderen van de kinderopvangtoeslag is opgedragen aan de Belastingdienst/Toeslagen.
 
@@ -1451,6 +1457,8 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 4. In afwijking van [artikel 4, derde lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=4) wordt een kind voor wie de pleegouder een subsidie ontvangt op grond van de [Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637), geacht door die pleegouder in belangrijke mate te worden onderhouden.
 
+5. In afwijking van [artikel 15, eerste lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=15), heeft een ouder over de berekeningsjaren 2012 en volgende geen aanspraak op kinderopvangtoeslag als bedoeld in [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=1&artikel=1.5&z=2012-01-01&g=2012-01-01) over de periode tot de eerste dag van de kalendermaand voor de datum waarop de aanvraag om kinderopvangtoeslag is ingediend bij de Belastingdienst/Toeslagen.
+
 ### Afdeling 2. Kinderopvangtoeslag en tegemoetkomingen in de kosten van kinderopvang
 
 ##### Artikel 1.5
@@ -1463,7 +1471,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 2. Een ouder en diens partner die tevens ouder is worden voor de toepassing van deze wet geacht gezamenlijk één aanspraak te hebben.
 
-3. Indien een gastouderbureau uit het register kinderopvang, bedoeld in artikel 47a, wordt verwijderd, geldt de in het eerste lid, onderdeel b, bedoelde voorwaarde van registratie van het gastouderbureau niet, gedurende een bij algemene maatregel van bestuur te bepalen uitlooptermijn waarbinnen de voorziening voor gastouderopvang op grond van artikel 47a, tweede lid, onderdeel c, in het register kinderopvang ingeschreven blijft.
+3. Indien een gastouderbureau uit het register kinderopvang, bedoeld in [artikel 1.47a](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.47a&z=2012-01-01&g=2012-01-01), wordt verwijderd, geldt de in het eerste lid, onderdeel b, bedoelde voorwaarde van registratie van het gastouderbureau niet, gedurende een bij algemene maatregel van bestuur te bepalen uitlooptermijn waarbinnen de voorziening voor gastouderopvang op grond van [artikel 1.47a, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.47a&z=2012-01-01&g=2012-01-01), in het register kinderopvang ingeschreven blijft.
 
 #### Paragraaf 2. Kinderopvangtoeslag
 
@@ -1475,9 +1483,9 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - b. zonder enige vergoeding arbeid verricht in de onderneming van de partner in de zin van [artikel 3.78 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.78),
 
-- c. algemene bijstand of een uitkering ontvangt op grond van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [Wet investeren in jongeren](https://wetten.overheid.nl/jci1.3:c:BWBR0026054), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163) of de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), en gebruik maakt van een voorziening, gericht op arbeidsinschakeling als bedoeld in [artikel 7, eerste lid, onder a, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7), [artikel 11, eerste lid, van de Wet investeren in jongeren](https://wetten.overheid.nl/jci1.3:c:BWBR0026054&artikel=11), [artikel 34, eerste lid, onder a, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=34) en [artikel 34, eerste lid, onder a, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=34), die de noodzaak tot kinderopvang met zich brengt,
+- c. algemene bijstand of een uitkering ontvangt op grond van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163) of de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), en gebruik maakt van een voorziening, gericht op arbeidsinschakeling als bedoeld in [artikel 7, eerste lid, onder a, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7), [artikel 34, eerste lid, onder a, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=34) en [artikel 34, eerste lid, onder a, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=34), die de noodzaak tot kinderopvang met zich brengt,
 
-- d. een uitkering ontvangt op grond van de [Wet werk en inkomen kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0017837), en gebruik maakt van een voorziening, gericht op arbeidsinschakeling in het kader van de uitoefening van een gemengde beroepspraktijk als bedoeld in [artikel 21, eerste lid, van de Wet werk en inkomen kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0017837&artikel=21),
+- d. vervallen,
 
 - e. de leeftijd van 18 jaar nog niet heeft bereikt, scholing of een opleiding volgt en met toepassing van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=16) of [artikel 18, eerste en vierde lid, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=18) algemene bijstand ontvangt of kan ontvangen,
 
@@ -1501,13 +1509,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - l. dit onderdeel is nog niet in werking getreden.
 
-2. Een ouder die niet in Nederland woont, heeft slechts aanspraak op een kinderopvangtoeslag indien hij in een andere lidstaat of Zwitserland woont en, daartoe gerechtigd, in Nederland arbeid verricht of een uitkering ontvangt als bedoeld in het eerste lid, onder c, d, e, h of i, en gebruik maakt van een in één van die onderdelen bedoelde voorziening gericht op arbeidsinschakeling.
+2. Een ouder die niet in Nederland woont, heeft slechts aanspraak op een kinderopvangtoeslag indien hij in een andere lidstaat of Zwitserland woont en, daartoe gerechtigd, in Nederland of op het continentaal plat arbeid verricht of een uitkering ontvangt als bedoeld in het eerste lid, onder c, e, h of i, en gebruik maakt van een in één van die onderdelen bedoelde voorziening gericht op arbeidsinschakeling.
 
 3. Een ouder met een partner heeft slechts aanspraak op een kinderopvangtoeslag, indien de partner in Nederland, een andere lidstaat of Zwitserland woont, en
 
-- a. in Nederland, een andere lidstaat of Zwitserland arbeid verricht,
+- a. in Nederland of op het continentaal plat, in een andere lidstaat of in Zwitserland arbeid verricht,
 
-- b. een uitkering ontvangt als bedoeld in het eerste lid, onder c, d, e, h of i, en gebruik maakt van een in één van die onderdelen bedoelde voorziening gericht op arbeidsinschakeling of een daarmee vergelijkbare uitkering respectievelijk voorziening, vastgesteld krachtens de wetgeving van een andere lidstaat of Zwitserland,
+- b. een uitkering ontvangt als bedoeld in het eerste lid, onder c, e, h of i, en gebruik maakt van een in één van die onderdelen bedoelde voorziening gericht op arbeidsinschakeling of een daarmee vergelijkbare uitkering respectievelijk voorziening, vastgesteld krachtens de wetgeving van een andere lidstaat of Zwitserland,
 
 - c. werkloos wordt als bedoeld in het tweede lid en een uitkering ontvangt als bedoeld in het tweede lid, onder a of b, of een daarmee vergelijkbare uitkering, vastgesteld krachtens de wetgeving van een andere lidstaat of Zwitserland, of
 
@@ -1515,7 +1523,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 4. Voor de toepassing van deze wet wordt met inkomen uit werk en woning als bedoeld in het eerste lid, onderdeel a, gelijkgesteld een daarmee overeenkomend inkomen dat niet tot het verzamelinkomen van de ouder behoort omdat het niet behoort tot het Nederlands inkomen als bedoeld in [hoofdstuk 7 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7), of is vrijgesteld op grond van bepalingen van internationaal recht.
 
-5. Dit lid is nog niet in werking getreden.
+5. Een ouder die in een berekeningsjaar of in het daaraan voorafgaande berekeningjaar arbeid heeft verricht als bedoeld in artikel 1.6, eerste lid, onderdeel a of b, behoudt gedurende drie kalendermaanden, gerekend vanaf de eerste dag na de dag waarop het verrichten van die arbeid is beëindigd, dezelfde aanspraak op een kinderopvangtoeslag als voor die beëindiging bestond.
 
 ##### Artikel 1.7
 
@@ -1543,17 +1551,17 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 1.8
 
-1. Indien een ouder en diens partner tegenwoordige arbeid verrichten als bedoeld in [artikel 1.6, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2011-10-29&g=2011-10-29), wordt de kinderopvangtoeslag vermeerderd met een bedrag dat overeenkomt met een derde deel van de kosten van kinderopvang, bedoeld in [artikel 1.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.7&z=2011-10-29&g=2011-10-29).
+1. Indien een ouder en diens partner tegenwoordige arbeid verrichten als bedoeld in [artikel 1.6, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2012-01-01&g=2012-01-01), wordt de kinderopvangtoeslag vermeerderd met een bedrag dat overeenkomt met een derde deel van de kosten van kinderopvang, bedoeld in [artikel 1.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.7&z=2012-01-01&g=2012-01-01).
 
-2. Voor een ouder die geen partner heeft en tegenwoordige arbeid verricht als bedoeld in [artikel 1.6, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2011-10-29&g=2011-10-29), wordt de kinderopvangtoeslag vermeerderd met een bedrag dat overeenkomt met een zesde deel van de kosten van kinderopvang, bedoeld in [artikel 1.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.7&z=2011-10-29&g=2011-10-29).
+2. Voor een ouder die geen partner heeft en tegenwoordige arbeid verricht als bedoeld in [artikel 1.6, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2012-01-01&g=2012-01-01), wordt de kinderopvangtoeslag vermeerderd met een bedrag dat overeenkomt met een zesde deel van de kosten van kinderopvang, bedoeld in [artikel 1.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.7&z=2012-01-01&g=2012-01-01).
 
-3. Het tweede lid is van overeenkomstige toepassing op een ouder met een partner die een persoon is als bedoeld in [artikel 1.22, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=3&artikel=1.22&z=2011-10-29&g=2011-10-29), of [artikel 1.29, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=4&artikel=1.29&z=2011-10-29&g=2011-10-29).
+3. Het tweede lid is van overeenkomstige toepassing op een ouder met een partner die een persoon is als bedoeld in [artikel 1.22, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=3&artikel=1.22&z=2012-01-01&g=2012-01-01), of [artikel 1.29, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=4&artikel=1.29&z=2012-01-01&g=2012-01-01).
 
-4. Bij de toepassing van het eerste tot en met derde lid is [artikel 1.7, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.7&z=2011-10-29&g=2011-10-29), van overeenkomstige toepassing.
+4. Bij de toepassing van het eerste tot en met derde lid is [artikel 1.7, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.7&z=2012-01-01&g=2012-01-01), van overeenkomstige toepassing.
 
 ##### Artikel 1.9
 
-1. De financiële middelen tot dekking van de uitgaven voor de vermeerdering van de kinderopvangtoeslag, bedoeld in [artikel 1.8, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.8&z=2011-10-29&g=2011-10-29), voor zover toegekend aan ouders die als werknemer of overheidswerknemer tegenwoordige arbeid verrichten als bedoeld in [artikel 1.6, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2011-10-29&g=2011-10-29), worden verkregen door het heffen van een opslag op de premie die ten gunste komt van het sectorfonds, bedoeld in [artikel 23, tweede lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=23), onderscheidenlijk de premie, bedoeld in [artikel 29 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=29).
+1. De financiële middelen tot dekking van de uitgaven voor de vermeerdering van de kinderopvangtoeslag, bedoeld in [artikel 1.8, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.8&z=2012-01-01&g=2012-01-01), voor zover toegekend aan ouders die als werknemer of overheidswerknemer tegenwoordige arbeid verrichten als bedoeld in [artikel 1.6, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2012-01-01&g=2012-01-01), worden verkregen door het heffen van een opslag op de premie die ten gunste komt van het sectorfonds, bedoeld in [artikel 23, tweede lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=23), onderscheidenlijk de premie, bedoeld in [artikel 29 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=29).
 
 2. De premieopslagen, bedoeld in het eerste lid, zijn verschuldigd door de werkgever onderscheidenlijk de overheidswerkgever.
 
@@ -1563,7 +1571,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 1.10
 
-Met het oog op toepassing van [artikel 1.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=1&artikel=1.5&z=2011-10-29&g=2011-10-29), verstrekt de in dat lid bedoelde ouder aan de instantie die de kinderopvangtoeslag uitkeert, het unieke nummer, bedoeld in [artikel 1.47a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.47a&z=2011-10-29&g=2011-10-29). Bij regeling van Onze Minister kunnen voorschriften worden gegeven met betrekking tot de verstrekking.
+Met het oog op toepassing van [artikel 1.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=1&artikel=1.5&z=2012-01-01&g=2012-01-01), verstrekt de in dat lid bedoelde ouder aan de Belastingdienst/Toeslagen, het unieke nummer, bedoeld in [artikel 1.47a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.47a&z=2012-01-01&g=2012-01-01). Bij regeling van Onze Minister kunnen voorschriften worden gegeven met betrekking tot de verstrekking.
 
 #### Paragraaf 3. Tegemoetkoming van de gemeente
 
@@ -1571,25 +1579,27 @@ Met het oog op toepassing van [artikel 1.5, eerste lid](https://wetten.overheid.
 
 1. Een ouder heeft in een berekeningsjaar aanspraak op een tegemoetkoming van de gemeente:
 
-- a. voor zover de ouder in dat jaar een persoon is die een uitkering ontvangt en gebruik maakt van een voorziening gericht op arbeidsinschakeling als bedoeld in [artikel 1.6, eerste lid, onder c, d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2011-10-29&g=2011-10-29), of als niet-uitkeringsgerechtigde gebruik maakt van een voorziening gericht op arbeidsinschakeling als bedoeld in [artikel 1.6, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2011-10-29&g=2011-10-29), voor wie het college van burgemeester en wethouders op grond van [artikel 7, eerste lid, aanhef en onder a, of derde lid, tweede zin, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7), [artikel 11, eerste lid, van de Wet investeren in jongeren](https://wetten.overheid.nl/jci1.3:c:BWBR0026054&artikel=11), [artikel 34, eerste lid, onder a, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=34), [artikel 34, eerste lid, onder a, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=34), [artikel 30a, derde lid, onder a, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30a) of [artikel 72, tweede lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=72), verantwoordelijk is voor het ondersteunen bij arbeidsinschakeling of die gebruik maakt van een voorziening, gericht op arbeidsinschakeling in het kader van een gemengde beroepspraktijk als bedoeld in [artikel 21, eerste lid, van de Wet werk en inkomen kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0017837&artikel=21);
+- a. voor zover de ouder in dat jaar een persoon is die een uitkering ontvangt en gebruik maakt van een voorziening gericht op arbeidsinschakeling als bedoeld in [artikel 1.6, eerste lid, onder c of e](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2012-01-01&g=2012-01-01), of als niet-uitkeringsgerechtigde gebruik maakt van een voorziening gericht op arbeidsinschakeling als bedoeld in artikel 1.6, eerste lid, onder f, voor wie het college van burgemeester en wethouders op grond van [artikel 7, eerste lid, aanhef en onder a, of derde lid, tweede zin, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7), [artikel 34, eerste lid, onder a, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=34), [artikel 34, eerste lid, onder a, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=34), of [artikel 30a, derde lid, onder a, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30a), verantwoordelijk is voor het ondersteunen bij arbeidsinschakeling;
 
-- b. voor zover de ouder in dat jaar een persoon is als bedoeld in [artikel 1.6, eerste lid, onder g, j, k of l](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2011-10-29&g=2011-10-29);
+- b. voor zover de ouder in dat jaar een persoon is als bedoeld in [artikel 1.6, eerste lid, onder g, j, k of l](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2012-01-01&g=2012-01-01);
 
-- c. voor zover de ouder in dat jaar een persoon is als bedoeld onder a of b, en zijn partner in dat jaar een persoon die in Nederland, een andere lidstaat of Zwitserland woont en een uitkering ontvangt als bedoeld in [artikel 1.6, eerste lid, onder c, d, of e](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2011-10-29&g=2011-10-29), en gebruik maakt van een in één van die onderdelen bedoelde voorziening gericht op arbeidsinschakeling, voor wie het college van burgemeester en wethouders op grond van de wetten, genoemd onder a, verantwoordelijk is voor het ondersteunen bij arbeidsinschakeling, of een daarmee vergelijkbare uitkering respectievelijk voorziening, vastgesteld krachtens de wetgeving van een andere lidstaat of Zwitserland, of voor zover de partner in dat jaar een persoon is als bedoeld onder b;
+- c. voor zover de ouder in dat jaar een persoon is als bedoeld onder a of b, en zijn partner in dat jaar een persoon die in Nederland, een andere lidstaat of Zwitserland woont en een uitkering ontvangt als bedoeld in [artikel 1.6, eerste lid, onder c of e](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2012-01-01&g=2012-01-01), en gebruik maakt van een in één van die onderdelen bedoelde voorziening gericht op arbeidsinschakeling, voor wie het college van burgemeester en wethouders op grond van de wetten, genoemd onder a, verantwoordelijk is voor het ondersteunen bij arbeidsinschakeling, of een daarmee vergelijkbare uitkering respectievelijk voorziening, vastgesteld krachtens de wetgeving van een andere lidstaat of Zwitserland, of voor zover de partner in dat jaar een persoon is als bedoeld onder b;
 
-- d. voor zover de ouder in dat jaar een persoon als bedoeld onder a of b, en zijn partner in dat jaar een persoon die in Nederland, een andere lidstaat of Zwitserland woont en een uitkering ontvangt als bedoeld in [artikel 1.6, eerste lid, onder h of i](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2011-10-29&g=2011-10-29), en gebruik maakt van een in één van die onderdelen bedoelde voorziening gericht op arbeidsinschakeling, voor wie het Uitvoeringsinstituut werknemersverzekeringen verantwoordelijk is voor het ondersteunen bij arbeidsinschakeling of een daarmee vergelijkbare uitkering respectievelijk voorziening, vastgesteld krachtens de wetgeving van een andere lidstaat of Zwitserland;
+- d. voor zover de ouder in dat jaar een persoon als bedoeld onder a of b, en zijn partner in dat jaar een persoon die in Nederland, een andere lidstaat of Zwitserland woont en een uitkering ontvangt als bedoeld in [artikel 1.6, eerste lid, onder h of i](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2012-01-01&g=2012-01-01), en gebruik maakt van een in één van die onderdelen bedoelde voorziening gericht op arbeidsinschakeling, voor wie het Uitvoeringsinstituut werknemersverzekeringen verantwoordelijk is voor het ondersteunen bij arbeidsinschakeling of een daarmee vergelijkbare uitkering respectievelijk voorziening, vastgesteld krachtens de wetgeving van een andere lidstaat of Zwitserland;
 
-- e. voor zover de ouder in dat jaar een persoon is als bedoeld in [artikel 1.29, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=4&artikel=1.29&z=2011-10-29&g=2011-10-29), en zijn partner in dat jaar een persoon als bedoeld onder c;
+- e. voor zover de ouder in dat jaar een persoon is als bedoeld in [artikel 1.29, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=4&artikel=1.29&z=2012-01-01&g=2012-01-01), en zijn partner in dat jaar een persoon als bedoeld onder c;
 
-- f. voor zover de ouder in dat jaar een persoon als bedoeld onder a of b, en zijn partner in dat jaar een persoon die in Nederland, een andere lidstaat of Zwitserland woont en in Nederland, een andere lidstaat of Zwitserland arbeid verricht;
+- f. voor zover de ouder in dat jaar een persoon als bedoeld onder a of b, en zijn partner in dat jaar een persoon die in Nederland, een andere lidstaat of Zwitserland woont en in Nederland of op het continentaal plat, in een andere lidstaat of in Zwitserland arbeid verricht;
 
-- g. voor zover de ouder in dat jaar een persoon is als bedoeld in [artikel 1.6, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2011-10-29&g=2011-10-29), en zijn partner in dat jaar een persoon als bedoeld onder c.
+- g. voor zover de ouder in dat jaar een persoon is als bedoeld in [artikel 1.6, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2012-01-01&g=2012-01-01), en zijn partner in dat jaar een persoon als bedoeld onder c.
 
-2. Aanspraak op een tegemoetkoming van de gemeente heeft eveneens een ouder, voor zover de ouder in een berekeningsjaar een persoon is als bedoeld in [artikel 1.6, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2011-10-29&g=2011-10-29), en algemene bijstand ontvangt op grond van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), of een inkomensvoorziening op grond van de [Wet investeren in jongeren](https://wetten.overheid.nl/jci1.3:c:BWBR0026054) en, indien hij een partner heeft, voor zover zijn partner een persoon is die in Nederland, een andere lidstaat of Zwitserland woont en in Nederland, een andere lidstaat of Zwitserland arbeid verricht en algemene bijstand ontvangt op grond van de Wet werk en bijstand of een daarmee vergelijkbare uitkering, vastgesteld krachtens de wetgeving van een andere lidstaat of Zwitserland.
+2. Aanspraak op een tegemoetkoming van de gemeente heeft eveneens een ouder, voor zover de ouder in een berekeningsjaar een persoon is als bedoeld in [artikel 1.6, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2012-01-01&g=2012-01-01), en algemene bijstand ontvangt op grond van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) en, indien hij een partner heeft, voor zover zijn partner een persoon is die in Nederland, een andere lidstaat of Zwitserland woont en in Nederland of op het continentaal plat, in een andere lidstaat of in Zwitserland arbeid verricht en algemene bijstand ontvangt op grond van de Wet werk en bijstand of een daarmee vergelijkbare uitkering, vastgesteld krachtens de wetgeving van een andere lidstaat of Zwitserland.
 
 3. De aanspraak bestaat jegens de gemeente waar de ouder zijn woonplaats heeft als bedoeld in de [artikelen 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=10), en [11 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=11).
 
 4. Een persoon als bedoeld in het eerste lid, onder a of b, heeft slechts aanspraak op een tegemoetkoming, indien hij geen partner heeft.
+
+5. Een ouder heeft in de berekeningsjaren 2012 en volgende geen aanspraak op een tegemoetkoming van de gemeente over de periode tot de eerste dag van de kalendermaand voor de datum waarop de aanvraag om die tegemoetkoming is ingediend bij de gemeente.
 
 ##### Artikel 1.23
 
@@ -1601,19 +1611,19 @@ Dit onderdeel is nog niet inwerking getreden
 
 1. De tegemoetkoming van de gemeente bedraagt:
 
-- a. voor een ouder als bedoeld in [artikel 1.22 eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=3&artikel=1.22&z=2011-10-29&g=2011-10-29), voorzover de ouder een persoon is als bedoeld in [artikel 1.6, eerste lid, onder c, e of f](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2011-10-29&g=2011-10-29), een derde deel van de kosten van kinderopvang, verhoogd met een bij regeling van Onze Minister zodanig vast te stellen bedrag, dat het totaal aan kinderopvangtoeslag en tegemoetkoming van de gemeente niet meer bedraagt dan de kosten van kinderopvang, bedoeld in [artikel 1.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.7&z=2011-10-29&g=2011-10-29);
+- a. voor een ouder als bedoeld in [artikel 1.22 eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=3&artikel=1.22&z=2012-01-01&g=2012-01-01), voorzover de ouder een persoon is als bedoeld in [artikel 1.6, eerste lid, onder c, e of f](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2012-01-01&g=2012-01-01), een derde deel van de kosten van kinderopvang, verhoogd met een bij regeling van Onze Minister zodanig vast te stellen bedrag, dat het totaal aan kinderopvangtoeslag en tegemoetkoming van de gemeente niet meer bedraagt dan de kosten van kinderopvang, bedoeld in [artikel 1.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.7&z=2012-01-01&g=2012-01-01);
 
-- b. voor een ouder als bedoeld in [artikel 1.22, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=3&artikel=1.22&z=2011-10-29&g=2011-10-29), voor zover de ouder een persoon is als bedoeld in [artikel 1.6, eerste lid, onder d, g, j, k of l](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2011-10-29&g=2011-10-29), een derde deel van de kosten van kinderopvang, bedoeld in [artikel 1.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.7&z=2011-10-29&g=2011-10-29).
+- b. voor een ouder als bedoeld in [artikel 1.22, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=3&artikel=1.22&z=2012-01-01&g=2012-01-01), voor zover de ouder een persoon is als bedoeld in [artikel 1.6, eerste lid, onder g, j, k of l](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2012-01-01&g=2012-01-01), een derde deel van de kosten van kinderopvang, bedoeld in [artikel 1.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.7&z=2012-01-01&g=2012-01-01).
 
 2. De tegemoetkoming van de gemeente bedraagt:
 
-- a. voor een ouder als bedoeld in [artikel 1.22, eerste lid, onder a, b, d, e, f of g](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=3&artikel=1.22&z=2011-10-29&g=2011-10-29), voorzover de ouder een persoon is als bedoeld in [artikel 1.6, eerste lid, onder c, e of f](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2011-10-29&g=2011-10-29), een zesde deel van de kosten van kinderopvang, verhoogd met een bij regeling van Onze Minister zodanig vast te stellen bedrag, dat het totaal aan kinderopvangtoeslag en tegemoetkoming van de gemeente niet meer bedraagt dan kosten van kinderopvang, bedoeld in [artikel 1.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.7&z=2011-10-29&g=2011-10-29);
+- a. voor een ouder als bedoeld in [artikel 1.22, eerste lid, onder a, b, d, e, f of g](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=3&artikel=1.22&z=2012-01-01&g=2012-01-01), voorzover de ouder een persoon is als bedoeld in [artikel 1.6, eerste lid, onder c, e of f](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2012-01-01&g=2012-01-01), een zesde deel van de kosten van kinderopvang, verhoogd met een bij regeling van Onze Minister zodanig vast te stellen bedrag, dat het totaal aan kinderopvangtoeslag en tegemoetkoming van de gemeente niet meer bedraagt dan kosten van kinderopvang, bedoeld in [artikel 1.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.7&z=2012-01-01&g=2012-01-01);
 
-- b. voor een ouder als bedoeld in [artikel 1.22, eerste lid, onder a, b, d, e, f of g](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=3&artikel=1.22&z=2011-10-29&g=2011-10-29), voorzover de ouder een persoon is als bedoeld in [artikel 1.6, eerste lid, onder d, g, j, k of l](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2011-10-29&g=2011-10-29), een zesde deel van de kosten van kinderopvang, bedoeld in [artikel 1.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.7&z=2011-10-29&g=2011-10-29).
+- b. voor een ouder als bedoeld in [artikel 1.22, eerste lid, onder a, b, d, e, f of g](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=3&artikel=1.22&z=2012-01-01&g=2012-01-01), voorzover de ouder een persoon is als bedoeld in [artikel 1.6, eerste lid, onder g, j, k of l](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2012-01-01&g=2012-01-01), een zesde deel van de kosten van kinderopvang, bedoeld in [artikel 1.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.7&z=2012-01-01&g=2012-01-01).
 
-3. De tegemoetkoming van de gemeente bedraagt voor een ouder of zijn partner als bedoeld in [artikel 1.22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=3&artikel=1.22&z=2011-10-29&g=2011-10-29), een bij regeling van Onze Minister zodanig vast te stellen bedrag, dat het totaal aan kinderopvangtoeslag en tegemoetkoming van de gemeente niet meer bedraagt dan de kosten van kinderopvang, bedoeld in [artikel 1.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.7&z=2011-10-29&g=2011-10-29).
+3. De tegemoetkoming van de gemeente bedraagt voor een ouder of zijn partner als bedoeld in [artikel 1.22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=3&artikel=1.22&z=2012-01-01&g=2012-01-01), een bij regeling van Onze Minister zodanig vast te stellen bedrag, dat het totaal aan kinderopvangtoeslag en tegemoetkoming van de gemeente niet meer bedraagt dan de kosten van kinderopvang, bedoeld in [artikel 1.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.7&z=2012-01-01&g=2012-01-01).
 
-4. Bij regeling van Onze Minister kunnen regels worden gesteld ter voorkoming van samenloop van tegemoetkomingen ingevolge dit artikel, voorzover de ouder en zijn partner personen zijn als bedoeld in het eerste lid, onder a, onderscheidenlijk met tegemoetkomingen ingevolge [artikel 1.30](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=4&artikel=1.30&z=2011-10-29&g=2011-10-29), voorzover het gevallen betreft, waarin, ofwel de ouder ofwel zijn partner een persoon is als bedoeld in het tweede lid, onder a, en de ander een persoon is als bedoeld in [artikel 1.30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=4&artikel=1.30&z=2011-10-29&g=2011-10-29).
+4. Bij regeling van Onze Minister kunnen regels worden gesteld ter voorkoming van samenloop van tegemoetkomingen ingevolge dit artikel, voorzover de ouder en zijn partner personen zijn als bedoeld in het eerste lid, onder a, onderscheidenlijk met tegemoetkomingen ingevolge [artikel 1.30](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=4&artikel=1.30&z=2012-01-01&g=2012-01-01), voorzover het gevallen betreft, waarin, ofwel de ouder ofwel zijn partner een persoon is als bedoeld in het tweede lid, onder a, en de ander een persoon is als bedoeld in artikel 1.30, tweede lid.
 
 ##### Artikel 1.25
 
@@ -1647,27 +1657,29 @@ Het college van burgemeester en wethouders maakt bij de uitvoering van deze wet 
 
 1. Een ouder heeft in een berekeningsjaar aanspraak op een tegemoetkoming van het Uitvoeringsinstituut werknemersverzekeringen:
 
-- a. voor zover de ouder in dat jaar een persoon is die een uitkering ontvangt en gebruik maakt van een voorziening gericht op arbeidsinschakeling als bedoeld in [artikel 1.6, eerste lid, onder h of i](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2011-10-29&g=2011-10-29), tenzij het college van burgemeester en wethouders op grond van [artikel 72, tweede lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=72), [artikel 30a, derde lid, onder a, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30a) of op grond van [artikel 7, derde lid, tweede zin, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7) verantwoordelijk is voor het ondersteunen van die ouder bij arbeidsinschakeling;
+- a. voor zover de ouder in dat jaar een persoon is die een uitkering ontvangt en gebruik maakt van een voorziening gericht op arbeidsinschakeling als bedoeld in [artikel 1.6, eerste lid, onder h of i](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2012-01-01&g=2012-01-01), tenzij het college van burgemeester en wethouders op grond van [artikel 30a, derde lid, onder a, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30a) of op grond van [artikel 7, derde lid, tweede zin, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7) verantwoordelijk is voor het ondersteunen van die ouder bij arbeidsinschakeling;
 
-- b. voor zover de ouder in dat jaar een persoon is als bedoeld onder a, en zijn partner in dat jaar een persoon die in Nederland, een andere lidstaat of Zwitserland woont en een uitkering ontvangt als bedoeld in [artikel 1.6, eerste lid, onder h of i](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2011-10-29&g=2011-10-29), en gebruik maakt van een in één van die onderdelen bedoelde voorziening gericht op arbeidsinschakeling, tenzij het college van burgemeester en wethouders op grond van de wetten, genoemd onder a, verantwoordelijk is voor het ondersteunen van die partner bij arbeidsinschakeling of een daarmee vergelijkbare uitkering respectievelijk voorziening, vastgesteld krachtens de wetgeving van een andere lidstaat of Zwitserland;
+- b. voor zover de ouder in dat jaar een persoon is als bedoeld onder a, en zijn partner in dat jaar een persoon die in Nederland, een andere lidstaat of Zwitserland woont en een uitkering ontvangt als bedoeld in [artikel 1.6, eerste lid, onder h of i](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2012-01-01&g=2012-01-01), en gebruik maakt van een in één van die onderdelen bedoelde voorziening gericht op arbeidsinschakeling, tenzij het college van burgemeester en wethouders op grond van de wetten, genoemd onder a, verantwoordelijk is voor het ondersteunen van die partner bij arbeidsinschakeling of een daarmee vergelijkbare uitkering respectievelijk voorziening, vastgesteld krachtens de wetgeving van een andere lidstaat of Zwitserland;
 
-- c. voor zover de ouder in dat jaar een persoon is als bedoeld onder a, en zijn partner in dat jaar een persoon als bedoeld in [artikel 1.22, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=3&artikel=1.22&z=2011-10-29&g=2011-10-29);
+- c. voor zover de ouder in dat jaar een persoon is als bedoeld onder a, en zijn partner in dat jaar een persoon als bedoeld in [artikel 1.22, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=3&artikel=1.22&z=2012-01-01&g=2012-01-01);
 
-- d. voor zover de ouder in dat jaar een persoon is als bedoeld in [artikel 1.22, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=3&artikel=1.22&z=2011-10-29&g=2011-10-29), en zijn partner in dat jaar een persoon als bedoeld onder b;
+- d. voor zover de ouder in dat jaar een persoon is als bedoeld in [artikel 1.22, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=3&artikel=1.22&z=2012-01-01&g=2012-01-01), en zijn partner in dat jaar een persoon als bedoeld onder b;
 
-- e. voor zover de ouder in dat jaar een persoon is als bedoeld onder a, en zijn partner in dat jaar een persoon die in Nederland, een andere lidstaat of Zwitserland woont en in Nederland, een andere lidstaat of Zwitserland arbeid verricht;
+- e. voor zover de ouder in dat jaar een persoon is als bedoeld onder a, en zijn partner in dat jaar een persoon die in Nederland, een andere lidstaat of Zwitserland woont en in Nederland of op het continentaal plat, in een andere lidstaat of in Zwitserland arbeid verricht;
 
-- f. voor zover de ouder in dat jaar een persoon is als bedoeld in [artikel 1.6, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2011-10-29&g=2011-10-29), en zijn partner een persoon als bedoeld onder b.
+- f. voor zover de ouder in dat jaar een persoon is als bedoeld in [artikel 1.6, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2012-01-01&g=2012-01-01), en zijn partner een persoon als bedoeld onder b.
 
 2. Een persoon als bedoeld in het eerste lid onder a heeft slechts aanspraak op een tegemoetkoming indien hij geen partner heeft.
 
+3. Een ouder heeft in de berekeningsjaren 2012 en volgende geen aanspraak op een tegemoetkoming van het Uitvoeringsinstituut werknemersverzekeringen over de periode tot de eerste dag van de kalendermaand voor de datum waarop de aanvraag om die tegemoetkoming is ingediend bij het Uitvoeringsinstituut werknemersverzekeringen.
+
 ##### Artikel 1.30
 
-1. De tegemoetkoming van het Uitvoeringsinstituut werknemersverzekeringen bedraagt voor een ouder als bedoeld in [artikel 1.29, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=4&artikel=1.29&z=2011-10-29&g=2011-10-29), voorzover de ouder een persoon is als bedoeld in [artikel 1.6, eerste lid, onder h of i](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2011-10-29&g=2011-10-29), een derde deel van de kosten van kinderopvang, verhoogd met een bij regeling van Onze Minister zodanig vast te stellen bedrag, dat het totaal aan kinderopvangtoeslag en tegemoetkoming van het Uitvoeringsinstituut werknemersverzekeringen niet meer bedraagt dan de kosten van kinderopvang, bedoeld in [artikel 1.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.7&z=2011-10-29&g=2011-10-29).
+1. De tegemoetkoming van het Uitvoeringsinstituut werknemersverzekeringen bedraagt voor een ouder als bedoeld in [artikel 1.29, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=4&artikel=1.29&z=2012-01-01&g=2012-01-01), voorzover de ouder een persoon is als bedoeld in [artikel 1.6, eerste lid, onder h of i](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2012-01-01&g=2012-01-01), een derde deel van de kosten van kinderopvang, verhoogd met een bij regeling van Onze Minister zodanig vast te stellen bedrag, dat het totaal aan kinderopvangtoeslag en tegemoetkoming van het Uitvoeringsinstituut werknemersverzekeringen niet meer bedraagt dan de kosten van kinderopvang, bedoeld in [artikel 1.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.7&z=2012-01-01&g=2012-01-01).
 
-2. De tegemoetkoming van het Uitvoeringsinstituut werknemersverzekeringen bedraagt voor de overige ouders, bedoeld in [artikel 1.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=4&artikel=1.29&z=2011-10-29&g=2011-10-29), voorzover de ouder een persoon is als bedoeld in [artikel 1.6, eerste lid, onder h of i](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2011-10-29&g=2011-10-29), een zesde deel van de kosten van kinderopvang, verhoogd met een bij regeling van Onze Minister zodanig vast te stellen bedrag, dat het totaal aan kinderopvangtoeslag en tegemoetkoming van het Uitvoeringsinstituut werknemersverzekeringen niet meer bedraagt dan de kosten van kinderopvang, bedoeld in [artikel 1.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.7&z=2011-10-29&g=2011-10-29).
+2. De tegemoetkoming van het Uitvoeringsinstituut werknemersverzekeringen bedraagt voor de overige ouders, bedoeld in [artikel 1.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=4&artikel=1.29&z=2012-01-01&g=2012-01-01), voorzover de ouder een persoon is als bedoeld in [artikel 1.6, eerste lid, onder h of i](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2012-01-01&g=2012-01-01), een zesde deel van de kosten van kinderopvang, verhoogd met een bij regeling van Onze Minister zodanig vast te stellen bedrag, dat het totaal aan kinderopvangtoeslag en tegemoetkoming van het Uitvoeringsinstituut werknemersverzekeringen niet meer bedraagt dan de kosten van kinderopvang, bedoeld in [artikel 1.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.7&z=2012-01-01&g=2012-01-01).
 
-3. Bij regeling van Onze Minister kunnen regels worden gesteld ter voorkoming van samenloop van tegemoetkomingen ingevolge dit artikel, voorzover de ouder en zijn partner personen zijn als bedoeld in het eerste lid, onderscheidenlijk met tegemoetkomingen ingevolge [artikel 1.24](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=3&artikel=1.24&z=2011-10-29&g=2011-10-29), voorzover het gevallen betreft, waarin, ofwel de ouder ofwel zijn partner een persoon is als bedoeld in het tweede lid en de ander een persoon is als bedoeld in [artikel 1.24, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=3&artikel=1.24&z=2011-10-29&g=2011-10-29).
+3. Bij regeling van Onze Minister kunnen regels worden gesteld ter voorkoming van samenloop van tegemoetkomingen ingevolge dit artikel, voorzover de ouder en zijn partner personen zijn als bedoeld in het eerste lid, onderscheidenlijk met tegemoetkomingen ingevolge [artikel 1.24](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=3&artikel=1.24&z=2012-01-01&g=2012-01-01), voorzover het gevallen betreft, waarin, ofwel de ouder ofwel zijn partner een persoon is als bedoeld in het tweede lid en de ander een persoon is als bedoeld in [artikel 1.24, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=3&artikel=1.24&z=2012-01-01&g=2012-01-01).
 
 ##### Artikel 1.31
 
@@ -1697,11 +1709,11 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de
 
 ##### Artikel 1.35
 
-1. Het college van burgemeester en wethouders kan besluiten dat een ouder, die een persoon is als bedoeld in [artikel 1.6, eerste lid, onder c tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2011-10-29&g=2011-10-29), voor wie het college van burgemeester en wethouders op grond van [artikel 7, eerste lid, aanhef en onder a, of derde lid, tweede volzin, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7), [artikel 11, eerste lid, van de Wet investeren in jongeren](https://wetten.overheid.nl/jci1.3:c:BWBR0026054&artikel=11), [artikel 34, eerste lid, onder a, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=34), [artikel 34, eerste lid, onder a, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=34), [artikel 30a, derde lid, onder a, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30a) of [artikel 72, tweede lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=72), verantwoordelijk is voor het ondersteunen bij arbeidsinschakeling of die gebruik maakt van een voorziening, gericht op arbeidsinschakeling in het kader van een gemengde beroepspraktijk als bedoeld in [artikel 21, eerste lid, van de Wet werk en inkomen kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0017837&artikel=21), na beëindiging van de aanspraak op grond van [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=3&artikel=1.22&z=2011-10-29&g=2011-10-29), in aansluiting daarop aanspraak heeft op een tegemoetkoming jegens de gemeente. [Artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=3&artikel=1.24&z=2011-10-29&g=2011-10-29) is van toepassing.
+1. Het college van burgemeester en wethouders kan besluiten dat een ouder, die een persoon is als bedoeld in [artikel 1.6, eerste lid, onder c, e of f](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2012-01-01&g=2012-01-01), voor wie het college van burgemeester en wethouders op grond van [artikel 7, eerste lid, aanhef en onder a, of derde lid, tweede volzin, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7), [artikel 34, eerste lid, onder a, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=34), [artikel 34, eerste lid, onder a, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=34) of [artikel 30a, derde lid, onderdeel a, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30a), verantwoordelijk is voor het ondersteunen bij arbeidsinschakeling, na beëindiging van de aanspraak op grond van [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=3&artikel=1.22&z=2012-01-01&g=2012-01-01), in aansluiting daarop aanspraak heeft op een tegemoetkoming jegens de gemeente. [Artikel 1.24](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=3&artikel=1.24&z=2012-01-01&g=2012-01-01) is van toepassing.
 
-2. Het Uitvoeringsinstituut werknemersverzekeringen kan besluiten dat een ouder, die een persoon is als bedoeld in [artikel 1.6, eerste lid, onder h of i](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2011-10-29&g=2011-10-29), tenzij het college van burgemeester en wethouders op grond van [artikel 72, tweede lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=72), [artikel 30a, derde lid, onder a, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30a) of op grond van [artikel 7, derde lid, tweede volzin, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7) verantwoordelijk is voor het ondersteunen bij arbeidsinschakeling, na beëindiging van de aanspraak op grond van [artikel 1.29](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=4&artikel=1.29&z=2011-10-29&g=2011-10-29), in aansluiting daarop aanspraak heeft op een tegemoetkoming jegens het Uitvoeringsinstituut werknemersverzekeringen. [Artikel 1.30](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=4&artikel=1.30&z=2011-10-29&g=2011-10-29) is van toepassing.
+2. Het Uitvoeringsinstituut werknemersverzekeringen kan besluiten dat een ouder, die een persoon is als bedoeld in [artikel 1.6, eerste lid, onder h of i](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2012-01-01&g=2012-01-01), tenzij het college van burgemeester en wethouders op grond van [artikel 30a, derde lid, onder a, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30a) of op grond van [artikel 7, derde lid, tweede volzin, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7) verantwoordelijk is voor het ondersteunen bij arbeidsinschakeling, na beëindiging van de aanspraak op grond van [artikel 1.29](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=4&artikel=1.29&z=2012-01-01&g=2012-01-01), in aansluiting daarop aanspraak heeft op een tegemoetkoming jegens het Uitvoeringsinstituut werknemersverzekeringen. [Artikel 1.30](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=4&artikel=1.30&z=2012-01-01&g=2012-01-01) is van toepassing.
 
-3. Een besluit als bedoeld in het eerste of tweede lid wordt slechts genomen met betrekking tot een ouder of diens partner, die naar het oordeel van het college van burgemeesters en wethouders onderscheidenlijk het Uitvoeringsinstituut werknemersverzekeringen of een met het college van burgemeester en wethouders onderscheidenlijk Uitvoeringsinstituut werknemersverzekeringen vergelijkbaar bestuursorgaan in een andere lidstaat of Zwitserland, naar vermogen tracht arbeid in dienstbetrekking te verkrijgen. In een zodanig geval heeft de ouder eveneens aanspraak op een kinderopvangtoeslag, voor zover hij niet reeds een aanspraak heeft op grond van [artikel 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2011-10-29&g=2011-10-29).
+3. Een besluit als bedoeld in het eerste of tweede lid wordt slechts genomen met betrekking tot een ouder of diens partner, die naar het oordeel van het college van burgemeesters en wethouders onderscheidenlijk het Uitvoeringsinstituut werknemersverzekeringen of een met het college van burgemeester en wethouders onderscheidenlijk Uitvoeringsinstituut werknemersverzekeringen vergelijkbaar bestuursorgaan in een andere lidstaat of Zwitserland, naar vermogen tracht arbeid in dienstbetrekking te verkrijgen. In een zodanig geval heeft de ouder eveneens aanspraak op een kinderopvangtoeslag, voor zover hij niet reeds een aanspraak heeft op grond van [artikel 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2012-01-01&g=2012-01-01).
 
 4. Bij regeling van Onze Minister worden regels gesteld omtrent de maximale duur van aanspraken, verleend op grond van het eerste of tweede lid.
 
@@ -1747,7 +1759,7 @@ De ouder en zijn partner zijn ten aanzien van schulden voortvloeiend uit vorderi
 
 2. De houder van een gastouderbureau dient een aanvraag in voor degene die door zijn tussenkomst voornemens is gastouderopvang te bieden. De aanvraag, bedoeld in de eerste volzin, wordt namens de gastouder gedaan bij het college van burgemeester en wethouders van de gemeente van vestiging van de voorziening voor gastouderopvang.
 
-3. Een kindercentrum, een gastouderbureau of een voorziening voor gastouderopvang wordt niet in exploitatie genomen voordat een onderzoek als bedoeld in [artikel 1.62](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=1&artikel=1.62&z=2011-10-29&g=2011-10-29) heeft plaatsgevonden, waaruit blijkt dat de exploitatie redelijkerwijs zal plaatsvinden in overeenstemming met het bepaalde bij of krachtens de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&z=2011-10-29&g=2011-10-29) en [3 van deze afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=3&z=2011-10-29&g=2011-10-29).
+3. Een kindercentrum, een gastouderbureau of een voorziening voor gastouderopvang wordt niet in exploitatie genomen voordat een onderzoek als bedoeld in [artikel 1.62](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=1&artikel=1.62&z=2012-01-01&g=2012-01-01) heeft plaatsgevonden, waaruit blijkt dat de exploitatie redelijkerwijs zal plaatsvinden in overeenstemming met het bepaalde bij of krachtens de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&z=2012-01-01&g=2012-01-01) en [3 van deze afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=3&z=2012-01-01&g=2012-01-01).
 
 4. Bij algemene maatregel van bestuur worden voorschriften gegeven over de gegevens die worden verstrekt bij de aanvraag, bedoeld in het eerste en tweede lid, en over de wijze van verstrekking van deze gegevens, waaronder voorschriften over de verstrekking van het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer.
 
@@ -1755,23 +1767,21 @@ De ouder en zijn partner zijn ten aanzien van schulden voortvloeiend uit vorderi
 
 ##### Artikel 1.46
 
-1. Uiterlijk tien weken na de aanvraag, bedoeld in [artikel 1.45, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.45&z=2011-10-29&g=2011-10-29), geeft het college van burgemeester en wethouders, bedoeld in [artikel 1.45, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.45&z=2011-10-29&g=2011-10-29), een beschikking af aan de houder van een kindercentrum of gastouderbureau.
+1. Uiterlijk tien weken na de aanvraag, bedoeld in [artikel 1.45, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.45&z=2012-01-01&g=2012-01-01), geeft het college van burgemeester en wethouders, bedoeld in [artikel 1.45, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.45&z=2012-01-01&g=2012-01-01), een beschikking af aan de houder van een kindercentrum of gastouderbureau.
 
-2. Indien na een aanvraag als bedoeld in [artikel 1.45, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.45&z=2011-10-29&g=2011-10-29), uit het onderzoek, bedoeld in [artikel 1.62](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=1&artikel=1.62&z=2011-10-29&g=2011-10-29), is gebleken dat de exploitatie van het kindercentrum, het gastouderbureau onderscheidenlijk de voorziening voor gastouderopvang redelijkerwijs zal plaatsvinden in overeenstemming met het bepaalde bij of krachtens de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&z=2011-10-29&g=2011-10-29) en [3 van deze afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=3&z=2011-10-29&g=2011-10-29), draagt het college van burgemeester en wethouders van de gemeente van vestiging zorg voor de onverwijlde inschrijving van het kindercentrum, het gastouderbureau of de voorziening voor gastouderopvang in het register kinderopvang.
+2. In de beschikking die volgt op de aanvraag, bedoeld in [artikel 1.45, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.45&z=2012-01-01&g=2012-01-01), nadat uit het onderzoek, bedoeld in [artikel 1.62](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=1&artikel=1.62&z=2012-01-01&g=2012-01-01), en anderszins is gebleken dat de exploitatie redelijkerwijs zal plaatsvinden in overeenstemming met het bepaalde bij of krachtens de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=3&paragraaf=2&z=2012-01-01&g=2012-01-01) en [3 van deze afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=3&paragraaf=3&z=2012-01-01&g=2012-01-01), bepaalt het college van burgemeester en wethouders de datum van ingang van de exploitatie, waarbij deze datum niet voor de datum van bekendmaking van die beschikking ligt. Het college van burgemeester en wethouders draagt zorg voor inschrijving van het kindercentrum, het gastouderbureau of de voorziening voor gastouderopvang in het register kinderopvang waarbij de datum van ingang van de exploitatie als startdatum van de registratie wordt opgenomen.
 
 3. Het college van burgemeester en wethouders deelt de houder van het kindercentrum of gastouderbureau schriftelijk mee dat inschrijving van het kindercentrum, het gastouderbureau onderscheidenlijk de voorziening voor gastouderopvang in het register kinderopvang heeft plaatsgevonden.
 
 4. De houder van het gastouderbureau deelt de gastouder schriftelijk mee dat inschrijving van de voorziening voor gastouderopvang in het register kinderopvang heeft plaatsgevonden.
 
-5. Bij een inschrijving als bedoeld in het tweede lid, doet het college van burgemeester en wethouders opgave van de gegevens die ingevolge [artikel 1.45, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.45&z=2011-10-29&g=2011-10-29), zijn verstrekt.
+5. Bij een inschrijving als bedoeld in het tweede lid, doet het college van burgemeester en wethouders opgave van de gegevens die ingevolge [artikel 1.45, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.45&z=2012-01-01&g=2012-01-01), zijn verstrekt.
 
 6. Indien in een kindercentrum voorschoolse educatie wordt aangeboden, neemt het college van burgemeester en wethouders dit op in het register kinderopvang.
 
-7. Het register kinderopvang is bij de gemeentesecretarie kosteloos te raadplegen.
-
 ##### Artikel 1.47
 
-1. De houder van een kindercentrum of gastouderbureau doet van wijzigingen in de gegevens die bij de aanvraag, bedoeld in [artikel 1.45, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.45&z=2011-10-29&g=2011-10-29), zijn verstrekt, onverwijld mededeling aan het college van burgemeester en wethouders. Het college draagt er zorg voor dat deze wijzigingen worden doorgevoerd in het register kinderopvang.
+1. De houder van een kindercentrum of gastouderbureau doet van wijzigingen in de gegevens die bij de aanvraag, bedoeld in [artikel 1.45, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.45&z=2012-01-01&g=2012-01-01), zijn verstrekt, onverwijld mededeling aan het college van burgemeester en wethouders. Het college draagt er zorg voor dat deze wijzigingen worden doorgevoerd in het register kinderopvang.
 
 2. Het college van burgemeester en wethouders deelt de houder van het kindercentrum of gastouderbureau schriftelijk mee dat de wijziging in het register kinderopvang heeft plaatsgevonden.
 
@@ -1779,7 +1789,7 @@ De ouder en zijn partner zijn ten aanzien van schulden voortvloeiend uit vorderi
 
 ##### Artikel 1.47a
 
-1. Onze Minister draagt zorg voor de inrichting van een register kinderopvang ten behoeve van de waarborging van de kwaliteit en de rechtszekerheid van de kinderopvang en gastouderopvang alsmede ten behoeve van het toezicht op en de handhaving van de bij of krachtens [afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&z=2011-10-29&g=2011-10-29) gestelde regels.
+1. Onze Minister draagt zorg voor de inrichting van een register kinderopvang ten behoeve van de waarborging van de kwaliteit en de rechtszekerheid van de kinderopvang en gastouderopvang alsmede ten behoeve van het toezicht op en de handhaving van de bij of krachtens deze afdeling gestelde regels.
 
 2. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent het register kinderopvang. Deze regels hebben in ieder geval betrekking op:
 
@@ -1815,7 +1825,7 @@ De ouder en zijn partner zijn ten aanzien van schulden voortvloeiend uit vorderi
 
 7. Onze Minister deelt de houder schriftelijk mee dat de wijzigingen in het register buitenlandse kinderopvang zijn aangetekend.
 
-8. De [artikelen 1.45 tot en met 1.47](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.45&z=2011-10-29&g=2011-10-29) en [1.49 tot en met 1.60](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.50a&z=2011-10-29&g=2011-10-29) en de [afdelingen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&z=2011-10-29&g=2011-10-29) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=5&z=2011-10-29&g=2011-10-29) zijn niet van toepassing op een kindercentrum of een gastouderbureau als bedoeld in het eerste lid.
+8. De [artikelen 1.45 tot en met 1.47a](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.45&z=2012-01-01&g=2012-01-01) en [1.49 tot en met 1.60](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.50a&z=2012-01-01&g=2012-01-01) en de [afdelingen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&z=2012-01-01&g=2012-01-01) en [5 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=5&z=2012-01-01&g=2012-01-01) zijn niet van toepassing op een kindercentrum of een gastouderbureau als bedoeld in het eerste lid.
 
 9. Bij regeling van Onze Minister kunnen regels worden gesteld omtrent:
 
@@ -1825,13 +1835,13 @@ De ouder en zijn partner zijn ten aanzien van schulden voortvloeiend uit vorderi
 
 - c. het verstrekken van gegevens en inlichtingen door de ouder en de houder alsmede de wijze waarop deze gegevens en inlichtingen worden verstrekt ten behoeve van dat toezicht.
 
-10. Indien blijkt dat de kwaliteit van het kindercentrum, de voorziening voor gastouderopvang of het gastouderbureau niet langer naar aard en strekking overeenkomt met de op grond van deze wet gestelde regels of dat de houder niet voldoet aan enige verplichting die op grond van deze wet op hem rust wordt het kindercentrum, de voorziening voor gastouderopvang of het gastouderbureau uit het register verwijderd.
+10. Indien blijkt dat de kwaliteit van het kindercentrum, de voorziening voor gastouderopvang of het gastouderbureau niet langer naar aard en strekking overeenkomt met de op grond van deze wet gestelde regels of dat de houder niet voldoet aan enige verplichting die op grond van deze wet op hem rust wordt het kindercentrum, de voorziening voor gastouderopvang of het gastouderbureau uit het register buitenlandse kinderopvang verwijderd.
 
 ##### Artikel 1.48a
 
 1. Bij regeling van Onze Minister kunnen categorieën van buiten Nederland gevestigde kindercentra, voorzieningen voor gastouderopvang of gastouderbureaus worden aangewezen die worden gelijkgesteld met geregistreerde kindercentra, geregistreerde voorzieningen voor gastouderopvang of geregistreerde gastouderbureaus, indien deze kindercentra, voorzieningen voor gastouderopvang of gastouderbureaus voldoen aan de in het land van vestiging geldende regels met betrekking tot de kwaliteit en deze regels naar aard en naar strekking overeenkomen met de bij of krachtens deze wet gestelde regels.
 
-2. [Artikel 1.48](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.48&z=2011-10-29&g=2011-10-29) is niet van toepassing op kindercentra, voorzieningen voor gastouderopvang en gastouderbureaus als bedoeld in het eerste lid.
+2. [Artikel 1.48](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.48&z=2012-01-01&g=2012-01-01) is niet van toepassing op kindercentra, voorzieningen voor gastouderopvang en gastouderbureaus als bedoeld in het eerste lid.
 
 #### Paragraaf 2. Eisen
 
@@ -1839,7 +1849,7 @@ De ouder en zijn partner zijn ten aanzien van schulden voortvloeiend uit vorderi
 
 1. Een houder van een kindercentrum biedt verantwoorde kinderopvang aan waaronder wordt verstaan opvang die bijdraagt aan een goede en gezonde ontwikkeling van het kind in een veilige en gezonde omgeving.
 
-2. Een gastouder biedt verantwoorde gastouderopvang aan waaronder wordt verstaan opvang die bijdraagt aan een goede en gezonde ontwikkeling van het kind in een veilige en gezonde omgeving.
+2. Een houder van een voorziening voor gastouderopvang biedt verantwoorde gastouderopvang aan waaronder wordt verstaan opvang die bijdraagt aan een goede en gezonde ontwikkeling van het kind in een veilige en gezonde omgeving.
 
 3. Een houder van een gastouderbureau draagt zorg voor een verantwoorde uitvoering van de werkzaamheden van het bureau, waaronder wordt verstaan:
 
@@ -1849,7 +1859,7 @@ De ouder en zijn partner zijn ten aanzien van schulden voortvloeiend uit vorderi
 
 ##### Artikel 1.50
 
-1. De houder van een kindercentrum organiseert de kinderopvang op zodanige wijze, voorziet het kindercentrum zowel kwalitatief, als kwantitatief zodanig van personeel en materieel, draagt zorg voor een zodanige verantwoordelijkheidstoedeling, en voert een zodanig pedagogisch beleid dat een en ander redelijkerwijs leidt tot verantwoorde kinderopvang. Ter uitvoering van de eerste volzin besteedt de houder in ieder geval aantoonbaar aandacht aan het aantal beroepskrachten in relatie tot het aantal kinderen per leeftijdscategorie, de groepsgrootte, de opleidingseisen van de beroepskrachten en de voorwaarden waaronder en de mate waarin beroepskrachten in opleiding kunnen worden belast met de verzorging en opvang van kinderen.
+1. De houder van een kindercentrum organiseert de kinderopvang op zodanige wijze, voorziet het kindercentrum zowel kwalitatief, als kwantitatief zodanig van personeel en materieel, draagt zorg voor een zodanige verantwoordelijkheidstoedeling, en voert een zodanig pedagogisch beleid dat een en ander redelijkerwijs leidt tot verantwoorde kinderopvang. Ter uitvoering van de eerste volzin besteedt de houder van het kindercentrum in ieder geval aantoonbaar aandacht aan het aantal beroepskrachten in relatie tot het aantal kinderen per leeftijdscategorie, de groepsgrootte, de opleidingseisen van de beroepskrachten en de voorwaarden waaronder en de mate waarin beroepskrachten in opleiding kunnen worden belast met de verzorging en opvang van kinderen.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de kwaliteit van kinderopvang bij een kindercentrum. Deze regels kunnen betrekking hebben op:
 
@@ -1869,29 +1879,11 @@ De ouder en zijn partner zijn ten aanzien van schulden voortvloeiend uit vorderi
 
 - h. de beschikbare ruimte voor kinderen.
 
-3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de kwaliteit van de kinderopvang bij een kindercentrum. Deze regels kunnen betrekking hebben op:
+3. De houder van een kindercentrum en de personen werkzaam bij een kindercentrum zijn in het bezit van een verklaring omtrent het gedrag, afgegeven volgens de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194).
 
-- a. de veiligheid en de gezondheid;
+4. De verklaring, bedoeld in het derde lid, wordt aan de houder van het kindercentrum overgelegd, voordat een persoon als bedoeld in het derde lid zijn werkzaamheden aanvangt. De verklaring is op het moment dat zij wordt overgelegd, niet ouder dan twee maanden.
 
-- b. de opleidingseisen waaraan de beroepskrachten voldoen;
-
-- c. de inzet van beroepskrachten in opleiding;
-
-- d. het aantal beroepskrachten in relatie tot het aantal kinderen per leeftijdscategorie;
-
-- e. de groepsgrootte;
-
-- f. de accommodatie en de inrichting van de ruimte die bestemd is voor kinderopvang;
-
-- g. de beschikbare ruimte voor kinderen;
-
-- h. het pedagogisch beleid en de pedagogische praktijk.
-
-4. De houder van een kindercentrum en de personen werkzaam bij een kindercentrum zijn in het bezit van een verklaring omtrent het gedrag, afgegeven volgens de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194).
-
-5. De verklaring, bedoeld in het derde lid, wordt aan de houder overgelegd, voordat een persoon als bedoeld in het derde lid zijn werkzaamheden aanvangt. De verklaring is op het moment dat zij wordt overgelegd, niet ouder dan twee maanden.
-
-5. Indien de houder of de toezichthouder redelijkerwijs mag vermoeden dat een persoon als bedoeld in het derde lid niet langer voldoet aan de eisen voor het afgeven van een verklaring omtrent het gedrag, verlangt de houder dat die persoon opnieuw een verklaring omtrent het gedrag overlegt die niet ouder is dan twee maanden. De desbetreffende persoon legt de verklaring over binnen een door de houder vast te stellen termijn.
+5. Indien de houder van het kindercentrum of de toezichthouder redelijkerwijs mag vermoeden dat een persoon als bedoeld in het derde lid niet langer voldoet aan de eisen voor het afgeven van een verklaring omtrent het gedrag, verlangt deze houder al dan niet op verzoek van de toezichthouder dat die persoon opnieuw een verklaring omtrent het gedrag overlegt die niet ouder is dan twee maanden. De desbetreffende persoon legt de verklaring over binnen een door deze houder of de toezichthouder vast te stellen termijn.
 
 ##### Artikel 1.50a
 
@@ -1911,13 +1903,13 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de
 
 ##### Artikel 1.51
 
-De houder voert een beleid dat ertoe leidt dat de veiligheid en de gezondheid van de op te vangen kinderen in elk door hem geëxploiteerd kindercentrum zoveel mogelijk is gewaarborgd. De houder legt, voor zover hierin niet wordt voorzien bij of krachtens andere wet- en regelgeving, in een risico-inventarisatie schriftelijk vast welke risico's de opvang van kinderen met zich brengt.
+De houder van een kindercentrum voert een beleid dat ertoe leidt dat de veiligheid en de gezondheid van de op te vangen kinderen in elk door hem geëxploiteerd kindercentrum zoveel mogelijk is gewaarborgd. De houder van het kindercentrum legt, voor zover hierin niet wordt voorzien bij of krachtens andere wet- en regelgeving, in een risico-inventarisatie schriftelijk vast welke risico's de opvang van kinderen met zich brengt.
 
 ##### Artikel 1.52
 
 1. Kinderopvang geschiedt op basis van een schriftelijke overeenkomst tussen de houder en de ouder.
 
-2. De overeenkomst bevat geen beding dat de ouder verplicht tot afname en betaling van een hoger aantal uren dan een bij regeling van Onze Minister vastgesteld aantal uren per dag.
+2. Bij regeling van Onze Minister kan worden bepaald dat de ouder niet kan worden verplicht tot afname en betaling van meer uren per dag of dagdeel dan een in die regeling te bepalen maximum.
 
 3. Het aantal uren, bedoeld in het tweede lid, kan per soort kinderopvang verschillend worden vastgesteld.
 
@@ -1927,13 +1919,17 @@ Bij regeling van Onze Minister kunnen ten behoeve van een goede uitvoering van d
 
 ##### Artikel 1.54
 
-De houder informeert de ouders wier kinderen in het kindercentrum worden opgevangen over het te voeren beleid als bedoeld in deze paragraaf.
+1. De houder van een kindercentrum informeert de ouders wier kinderen in het kindercentrum worden opgevangen over het te voeren beleid als bedoeld in deze paragraaf.
+
+2. De houder van een kindercentrum informeert de ouders wier kinderen in het kindercentrum worden opgevangen over een inspectierapport als bedoeld in [artikel 1.63](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=1&artikel=1.63&z=2012-01-01&g=2012-01-01) door dit zo spoedig mogelijk na ontvangst van het rapport op een website van de houder te plaatsen zodanig dat het rapport voor ouders gemakkelijk vindbaar is dan wel, indien de houder geen eigen website heeft, ter inzage te leggen op een voor ouders toegankelijke plaats.
+
+3. De houder van een kindercentrum informeert het personeel van het kindercentrum over een inspectierapport als bedoeld in [artikel 1.63](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=1&artikel=1.63&z=2012-01-01&g=2012-01-01) door dit zo spoedig mogelijk na ontvangst van het rapport op een website van de houder te plaatsen zodanig dat het rapport voor het personeel gemakkelijk vindbaar is dan wel, indien de houder geen eigen website heeft, ter inzage te leggen op een voor het personeel toegankelijke plaats.
 
 ##### Artikel 1.55
 
 1. Bij kinderopvang in een kindercentrum of in een voorziening voor gastouderopvang wordt de Nederlandse taal als voertaal gebruikt. Daar waar naast de Nederlandse taal, de Friese taal of een streektaal in levend gebruik is, kan de Friese taal of de streektaal mede als voertaal worden gebruikt.
 
-2. In afwijking van het eerste lid kan mede een andere taal als voertaal worden gebezigd, indien de herkomst van de kinderen in specifieke omstandigheden daartoe noodzaakt, overeenkomstig een door de houder vastgestelde gedragscode.
+2. In afwijking van het eerste lid kan mede een andere taal als voertaal worden gebezigd, indien de herkomst van de kinderen in specifieke omstandigheden daartoe noodzaakt, overeenkomstig een door de houder van het kindercentrum of van het gastouderbureau vastgestelde gedragscode.
 
 ##### Artikel 1.56
 
@@ -1941,7 +1937,7 @@ De houder informeert de ouders wier kinderen in het kindercentrum worden opgevan
 
 2. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de kwaliteit van gastouderbureaus, waaronder regels omtrent de opleidingseisen waaraan de beroepskrachten voldoen.
 
-3. Op de houder van een gastouderbureau en personen, werkzaam bij een gastouderbureau, is [artikel 1.50, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.50&z=2011-10-29&g=2011-10-29), van overeenkomstige toepassing.
+3. Op de houder van een gastouderbureau en personen, werkzaam bij een gastouderbureau, is [artikel 1.50, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.50&z=2012-01-01&g=2012-01-01), van overeenkomstige toepassing. Op de houder van een gastouderbureau is [artikel 1.54](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.54&z=2012-01-01&g=2012-01-01) van overeenkomstige toepassing.
 
 4. Gastouderopvang geschiedt op basis van een schriftelijke overeenkomst tussen de houder van het gastouderbureau en de ouder. Bij regeling van Onze Minister kunnen regels worden gesteld met betrekking tot de inhoud van de overeenkomst.
 
@@ -1953,7 +1949,7 @@ De houder informeert de ouders wier kinderen in het kindercentrum worden opgevan
 
 - b. het betalingsverkeer tussen gastouders, het gastouderbureau en vraagouders.
 
-7. Bij regeling van Onze Minister kunnen regels worden gesteld omtrent de verhouding tussen het aantal beroepskrachten en het aantal gastouders.
+7. Bij regeling van Onze Minister kunnen regels worden gesteld over het minimum aantal uren ondersteuning dat een gastouderbureau jaarlijks verleent aan een gastouder.
 
 ##### Artikel 1.56a
 
@@ -1967,7 +1963,7 @@ De houder van een gastouderbureau maakt ten behoeve van een goede uitvoering van
 
 - a. de veiligheid en de gezondheid;
 
-- b. de deskundigheidseisen waaraan de houder voldoet;
+- b. de deskundigheidseisen waaraan de gastouder voldoet;
 
 - c. de groepsgrootte;
 
@@ -1977,27 +1973,27 @@ De houder van een gastouderbureau maakt ten behoeve van een goede uitvoering van
 
 - f. het pedagogisch beleid en de pedagogische praktijk.
 
-3. De gastouder en andere personen van 18 jaar of ouder die op hetzelfde woonadres als de houder hun hoofdverblijf hebben, alsmede de daar werkzame vrijwilligers, zijn in het bezit van een verklaring omtrent het gedrag, afgegeven volgens de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194).
+3. De gastouder en andere personen van 18 jaar of ouder die op hetzelfde woonadres als de houder van de voorziening voor gastouderopvang hun hoofdverblijf hebben, alsmede de daar werkzame vrijwilligers en stagiaires, zijn in het bezit van een verklaring omtrent het gedrag, afgegeven volgens de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194).
 
 4. De verklaringen, bedoeld in het derde lid, worden door de gastouder aan de houder van het gastouderbureau overgelegd, voordat de gastouder zijn werkzaamheden aanvangt. De verklaringen zijn op het moment dat zij worden overgelegd, niet ouder dan twee maanden.
 
-5. Indien de toezichthouder redelijkerwijs mag vermoeden dat een persoon als bedoeld in het derde lid niet langer voldoet aan de eisen voor het afgeven van een verklaring omtrent het gedrag, verlangt de toezichthouder dat die persoon opnieuw een verklaring omtrent het gedrag overlegt die niet ouder is dan twee maanden. De desbetreffende persoon legt de verklaring over binnen een door de toezichthouder vast te stellen termijn.
+5. Indien de houder van het gastouderbureau of de toezichthouder redelijkerwijs mag vermoeden dat een persoon als bedoeld in het derde lid niet langer voldoet aan de eisen voor het afgeven van een verklaring omtrent het gedrag, verlangt deze houder of de toezichthouder dat die persoon opnieuw een verklaring omtrent het gedrag overlegt die niet ouder is dan twee maanden. De desbetreffende persoon legt de verklaring over binnen een door deze houder of de toezichthouder vast te stellen termijn.
 
-6. De [artikelen 1.51](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.51&z=2011-10-29&g=2011-10-29), [1.53](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.53&z=2011-10-29&g=2011-10-29), [1.54](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.54&z=2011-10-29&g=2011-10-29) en [1.55](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.55&z=2011-10-29&g=2011-10-29) zijn van overeenkomstige toepassing op de gastouder.
+6. De [artikelen 1.51](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.51&z=2012-01-01&g=2012-01-01), [1.53](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.53&z=2012-01-01&g=2012-01-01), [1.54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.54&z=2012-01-01&g=2012-01-01) en [1.55](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.55&z=2012-01-01&g=2012-01-01) zijn van overeenkomstige toepassing op de gastouder.
 
 ##### Artikel 1.57
 
-Indien de kinderopvang in een kindercentrum geschiedt uitsluitend en onbezoldigd door ten minste een van de ouders van de in die voorziening opgevangen kinderen worden voor de toepassing van [artikel 1.50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.50&z=2011-10-29&g=2011-10-29), ouders gelijkgesteld met personeel en beroepskrachten. Op ouders, bedoeld in de eerste zin, is [artikel 1.50, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.50&z=2011-10-29&g=2011-10-29), van overeenkomstige toepassing.
+Indien de kinderopvang in een kindercentrum geschiedt uitsluitend en onbezoldigd door ten minste een van de ouders van de in die voorziening opgevangen kinderen worden voor de toepassing van [artikel 1.50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.50&z=2012-01-01&g=2012-01-01), ouders gelijkgesteld met personeel en beroepskrachten. Op ouders, bedoeld in de eerste zin, is [artikel 1.50, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.50&z=2012-01-01&g=2012-01-01), van overeenkomstige toepassing.
 
 ##### Artikel 1.57a
 
-1. Onze Minister kan beleidsregels stellen omtrent de toepassing van de [artikelen 1.49](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.49&z=2011-10-29&g=2011-10-29), [1.50, eerste, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.50&z=2011-10-29&g=2011-10-29), [1.51](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.51&z=2011-10-29&g=2011-10-29), [1.56, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.56&z=2011-10-29&g=2011-10-29), en [1.56b, eerste, derde, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.56b&z=2011-10-29&g=2011-10-29), voor zover dat laatste lid betrekking heeft op artikel 1.51.
+1. Onze Minister kan beleidsregels stellen omtrent de toepassing van de [artikelen 1.49](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.49&z=2012-01-01&g=2012-01-01), [1.50, eerste, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.50&z=2012-01-01&g=2012-01-01), [1.51](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.51&z=2012-01-01&g=2012-01-01), [1.56, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.56&z=2012-01-01&g=2012-01-01), en [1.56b, eerste, derde, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.56b&z=2012-01-01&g=2012-01-01), voor zover dat laatste lid betrekking heeft op artikel 1.51.
 
 2. De bekendmaking van de beleidsregels geschiedt door plaatsing in de Staatscourant.
 
 ##### Artikel 1.58
 
-1. Een houder van een kindercentrum of een gastouderbureau stelt voor elk door hem geëxploiteerd kindercentrum of gastouderbureau een oudercommissie in die tot taak heeft hem te adviseren over de aangelegenheden, genoemd in [artikel 1.60](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=3&artikel=1.60&z=2011-10-29&g=2011-10-29).
+1. Een houder van een kindercentrum of van een gastouderbureau stelt voor elk door hem geëxploiteerd kindercentrum of gastouderbureau een oudercommissie in die tot taak heeft hem te adviseren over de aangelegenheden, genoemd in [artikel 1.60](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=3&artikel=1.60&z=2012-01-01&g=2012-01-01).
 
 2. De leden van de oudercommissie worden gekozen uit en door degenen wier kinderen in het kindercentrum of door tussenkomst van het gastouderbureau worden opgevangen.
 
@@ -2007,7 +2003,7 @@ Indien de kinderopvang in een kindercentrum geschiedt uitsluitend en onbezoldigd
 
 ##### Artikel 1.59
 
-1. De houder van een kindercentrum of een gastouderbureau stelt binnen zes maanden na de aanvraag, bedoeld in [artikel 1.45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.45&z=2011-10-29&g=2011-10-29), voor de oudercommissie een reglement vast.
+1. De houder van een kindercentrum of van een gastouderbureau stelt binnen zes maanden na de aanvraag, bedoeld in [artikel 1.45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.45&z=2012-01-01&g=2012-01-01), voor de oudercommissie een reglement vast.
 
 2. Het reglement bevat in ieder geval regels omtrent:
 
@@ -2025,9 +2021,9 @@ Indien de kinderopvang in een kindercentrum geschiedt uitsluitend en onbezoldigd
 
 ##### Artikel 1.60
 
-1. De houder van een kindercentrum of een gastouderbureau stelt de oudercommissie in ieder geval in de gelegenheid advies uit te brengen over elk voorgenomen besluit met betrekking tot:
+1. De houder van een kindercentrum of van een gastouderbureau stelt de oudercommissie in ieder geval in de gelegenheid advies uit te brengen over elk voorgenomen besluit met betrekking tot:
 
-- a. de wijze waarop uitvoering wordt gegeven aan [artikel 1.50](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.50&z=2011-10-29&g=2011-10-29) dan wel aan [artikel 1.56](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.56&z=2011-10-29&g=2011-10-29);
+- a. de wijze waarop uitvoering wordt gegeven aan [artikel 1.50](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.50&z=2012-01-01&g=2012-01-01) dan wel aan [artikel 1.56](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.56&z=2012-01-01&g=2012-01-01);
 
 - b. voedingsaangelegenheden van algemene aard en het algemene beleid op het gebied van opvoeding, veiligheid of gezondheid;
 
@@ -2039,45 +2035,47 @@ Indien de kinderopvang in een kindercentrum geschiedt uitsluitend en onbezoldigd
 
 - f. wijziging van de prijs van kinderopvang.
 
-2. Van een advies als bedoeld in het eerste lid kan de houder slechts afwijken indien hij schriftelijk en gemotiveerd aangeeft dat het belang van de kinderopvang zich tegen het advies verzet.
+2. Van een advies als bedoeld in het eerste lid kan de houder van het kindercentrum of van het gastouderbureau slechts afwijken indien hij schriftelijk en gemotiveerd aangeeft dat het belang van de kinderopvang zich tegen het advies verzet.
 
-3. De oudercommissie is bevoegd de houder ook ongevraagd te adviseren over de onderwerpen, genoemd in het eerste lid.
+3. De oudercommissie is bevoegd de houder van een kindercentrum of van een gastouderbureau ook ongevraagd te adviseren over de onderwerpen, genoemd in het eerste lid.
 
-4. De houder verstrekt de oudercommissie tijdig en desgevraagd schriftelijk alle informatie die deze voor de vervulling van zijn taak redelijkerwijs nodig heeft.
+4. De houder van een kindercentrum of van een gastouderbureau verstrekt de oudercommissie tijdig en desgevraagd schriftelijk alle informatie die deze voor de vervulling van zijn taak redelijkerwijs nodig heeft.
 
 ##### Artikel 1.60a
 
-De houder van een kindercentrum of een gastouderbureau treft een regeling voor de behandeling van klachten van de oudercommissie over een door hem genomen besluit als bedoeld in [artikel 1.60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=3&artikel=1.60&z=2011-10-29&g=2011-10-29). De getroffen regeling waarborgt dat aan de behandeling van een klacht van de oudercommissie niet wordt deelgenomen door de houder of door een persoon die werkzaam is voor of bij de houder op wie die klacht betrekking heeft. De houder brengt de getroffen regeling op passende wijze onder de aandacht van de oudercommissie. De [artikelen 2, tweede tot en met vijfde lid, zevende lid, en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007414&artikel=2), [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0007414&artikel=2a), [3c](https://wetten.overheid.nl/jci1.3:c:BWBR0007414&artikel=3c) en [4 van de Wet klachtrecht cliënten zorgsector](https://wetten.overheid.nl/jci1.3:c:BWBR0007414&artikel=4) zijn van overeenkomstige toepassing.
+De houder van een kindercentrum of van een gastouderbureau treft een regeling voor de behandeling van klachten van de oudercommissie over een door hem genomen besluit als bedoeld in [artikel 1.60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=3&artikel=1.60&z=2012-01-01&g=2012-01-01). De getroffen regeling waarborgt dat aan de behandeling van een klacht van de oudercommissie niet wordt deelgenomen door de houder van het kindercentrum of van het gastouderbureau of door een persoon die werkzaam is voor of bij de houder op wie die klacht betrekking heeft. De houder van het kindercentrum of van het gastouderbureau brengt de getroffen regeling op passende wijze onder de aandacht van de oudercommissie. De [artikelen 2, tweede tot en met vijfde lid, zevende lid, en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007414&artikel=2), [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0007414&artikel=2a), [3c](https://wetten.overheid.nl/jci1.3:c:BWBR0007414&artikel=3c) en [4 van de Wet klachtrecht cliënten zorgsector](https://wetten.overheid.nl/jci1.3:c:BWBR0007414&artikel=4) zijn van overeenkomstige toepassing.
 
 ### Afdeling 4. Handhaving
 
 ##### Artikel 1.61
 
-1. Het college van burgemeester en wethouders ziet toe op de naleving van de bij of krachtens [afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&z=2011-10-29&g=2011-10-29) gestelde regels, onderscheidenlijk de krachtens [artikel 1.65](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=2&artikel=1.65&z=2011-10-29&g=2011-10-29) gegeven aanwijzingen en bevelen en de krachtens [artikel 1.66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=2&artikel=1.66&z=2011-10-29&g=2011-10-29), gegeven bevelen tot sluiting dan wel de krachtens artikel 1.66, tweede lid, uitgevaardigde verboden en de in de bij [artikel 1.50b](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.50b&z=2011-10-29&g=2011-10-29) vastgestelde algemene maatregel van bestuur vastgelegde basisvoorwaarden voor kwaliteit van voorschoolse educatie. Het college van burgemeester en wethouders wijst de directeur van de GGD aan als toezichthouder.
+1. Het college van burgemeester en wethouders ziet toe op de naleving van de bij of krachtens [afdeling 3 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&z=2012-01-01&g=2012-01-01) gestelde regels, onderscheidenlijk de krachtens [artikel 1.65](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=2&artikel=1.65&z=2012-01-01&g=2012-01-01) gegeven aanwijzingen en bevelen en de krachtens [artikel 1.66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=2&artikel=1.66&z=2012-01-01&g=2012-01-01), gegeven bevelen tot sluiting dan wel de krachtens artikel 1.66, tweede lid, uitgevaardigde verboden en de in de bij [artikel 1.50b](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.50b&z=2012-01-01&g=2012-01-01) vastgestelde algemene maatregel van bestuur vastgelegde basisvoorwaarden voor kwaliteit van voorschoolse educatie. Het college van burgemeester en wethouders wijst de directeur van de GGD aan als toezichthouder.
 
 2. Voor zover een kindercentrum een voorziening voor gastouderopvang of een gastouderbureau in een woning is gevestigd, zijn de toezichthouders ter uitvoering van de taken, bedoeld in het eerste lid, bevoegd zonder toestemming van de bewoners in die woning binnen te treden.
 
 ##### Artikel 1.62
 
-1. De toezichthouder onderzoekt na een aanvraag als bedoeld in [artikel 1.45, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.45&z=2011-10-29&g=2011-10-29), binnen een bij regeling van Onze Minister te stellen termijn of de exploitatie redelijkerwijs zal plaatsvinden in overeenstemming met het bepaalde bij of krachtens [afdeling 3, paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&z=2011-10-29&g=2011-10-29) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=3&z=2011-10-29&g=2011-10-29).
+1. De toezichthouder onderzoekt na een aanvraag als bedoeld in [artikel 1.45, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.45&z=2012-01-01&g=2012-01-01), binnen een bij regeling van Onze Minister te stellen termijn of de exploitatie redelijkerwijs zal plaatsvinden in overeenstemming met het bepaalde bij of krachtens [afdeling 3, paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=2&z=2012-01-01&g=2012-01-01) en [3, van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=3&z=2012-01-01&g=2012-01-01).
 
-2. Onverminderd het eerste lid onderzoekt de toezichthouder jaarlijks of de exploitatie van elk kindercentrum, elke voorziening voor gastouderopvang of elk gastouderbureau plaatsvindt in overeenstemming met de bij of krachtens [afdeling 3, paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&z=2011-10-29&g=2011-10-29) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=3&z=2011-10-29&g=2011-10-29), gestelde regels, behoudens bijzondere omstandigheden.
+2. Onverminderd het eerste lid onderzoekt de toezichthouder in redelijkheid bij ieder geregistreerd kindercentrum en geregistreerd gastouderbureau jaarlijks of de exploitatie in overeenstemming is met de bij of krachtens [afdeling 3, paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=2&z=2012-01-01&g=2012-01-01) en [3, van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=3&z=2012-01-01&g=2012-01-01) gestelde regels.
 
-3. Naast het onderzoek, bedoeld in het eerste en tweede lid, kan de toezichthouder incidenteel onderzoek verrichten naar de naleving door een houder van de bij of krachtens [afdeling 3, paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&z=2011-10-29&g=2011-10-29) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=3&z=2011-10-29&g=2011-10-29), gestelde regels. [Artikel 1.63](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=1&artikel=1.63&z=2011-10-29&g=2011-10-29) is van overeenkomstige toepassing, tenzij de aard of omvang van het onderzoek zich tegen openbare rapportage verzetten.
+3. Onverminderd het eerste lid onderzoekt de toezichthouder in redelijkheid op grond van steekproeven jaarlijks of de exploitatie van geregistreerde voorzieningen voor gastouderopvang in overeenstemming is met de bij of krachtens [afdeling 3, paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=2&z=2012-01-01&g=2012-01-01) en [3, van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=3&z=2012-01-01&g=2012-01-01) gestelde regels.
+
+4. Naast het onderzoek, bedoeld in het eerste, tweede en derde lid, kan de toezichthouder als daar aanleiding toe is incidenteel onderzoek verrichten naar de naleving door een houder van de bij of krachtens [afdeling 3, paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=2&z=2012-01-01&g=2012-01-01) en [3, van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=3&z=2012-01-01&g=2012-01-01) gestelde regels. [Artikel 1.63](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=1&artikel=1.63&z=2012-01-01&g=2012-01-01) is van overeenkomstige toepassing, tenzij de aard of omvang van het onderzoek zich tegen openbare rapportage verzetten.
 
 ##### Artikel 1.63
 
 1. De toezichthouder legt zijn oordeel naar aanleiding van een onderzoek bij een kindercentrum, een voorziening voor gastouderopvang of een gastouderbureau vast in een inspectierapport.
 
-2. Indien de toezichthouder oordeelt dat door de houder de bij of krachtens [afdeling 3, paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&z=2011-10-29&g=2011-10-29) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=3&z=2011-10-29&g=2011-10-29), gegeven voorschriften niet zijn of zullen worden nageleefd, vermeldt hij dat in het rapport.
+2. Indien de toezichthouder oordeelt dat door de houder de bij of krachtens [afdeling 3, paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=2&z=2012-01-01&g=2012-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=3&z=2012-01-01&g=2012-01-01), van dit hoofdstuk gegeven voorschriften niet zijn of zullen worden nageleefd, vermeldt hij dat in het rapport.
 
 3. Alvorens het rapport vast te stellen, stelt de toezichthouder de houder in de gelegenheid van het ontwerprapport kennis te nemen en daarover zijn zienswijze kenbaar te maken. De toezichthouder vermeldt de zienswijze van de houder in een bijlage bij het rapport.
 
-4. De toezichthouder zendt het inspectierapport onverwijld aan de houder, die een afschrift daarvan zo spoedig mogelijk ter inzage legt op een voor ouders en personeel toegankelijke plaats.
+4. De toezichthouder zendt het inspectierapport na het te hebben vastgesteld onverwijld aan de houder, die de ouders en het personeel overeenkomstig [artikel 1.54, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.54&z=2012-01-01&g=2012-01-01), daarover informeert.
 
 5. De toezichthouder maakt het inspectierapport uiterlijk drie weken na de vaststelling daarvan openbaar.
 
-6. De toezichthouder zendt een afschrift van het inspectierapport naar aanleiding van een onderzoek bij een kindercentrum waar voorschoolse educatie wordt aangeboden aan het college van burgemeester en wethouders en aan de Inspectie van het onderwijs, indien in een of meer van de basisvoorwaarden voor kwaliteit van voorschoolse educatie, bedoeld in [artikel 1.61](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=1&artikel=1.61&z=2011-10-29&g=2011-10-29), tekortkomingen zijn geconstateerd.
+6. De toezichthouder zendt een afschrift van het inspectierapport naar aanleiding van een onderzoek bij een kindercentrum waar voorschoolse educatie wordt aangeboden aan het college van burgemeester en wethouders en aan de Inspectie van het onderwijs, indien in een of meer van de basisvoorwaarden voor kwaliteit van voorschoolse educatie, bedoeld in [artikel 1.61](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=1&artikel=1.61&z=2012-01-01&g=2012-01-01), tekortkomingen zijn geconstateerd.
 
 ##### Artikel 1.64
 
@@ -2087,7 +2085,7 @@ De houder van een kindercentrum of een gastouderbureau treft een regeling voor d
 
 ##### Artikel 1.65
 
-1. Het college van burgemeester en wethouders van de gemeente waarin zich een kindercentrum, een voorziening voor gastouderopvang of een gastouderbureau bevindt dat de bij of krachtens [afdeling 3, paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&z=2011-10-29&g=2011-10-29) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=3&z=2011-10-29&g=2011-10-29), gegeven voorschriften niet of in onvoldoende mate naleeft, kan de houder een schriftelijke aanwijzing geven.
+1. Het college van burgemeester en wethouders van de gemeente waarin zich een kindercentrum, een voorziening voor gastouderopvang of een gastouderbureau bevindt dat de bij of krachtens [afdeling 3, paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=2&z=2012-01-01&g=2012-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=3&z=2012-01-01&g=2012-01-01), van dit hoofdstuk gegeven voorschriften niet of in onvoldoende mate naleeft, kan de houder een schriftelijke aanwijzing geven.
 
 2. In een aanwijzing als bedoeld in het eerste lid geeft het college van burgemeester en wethouders met redenen omkleed aan op welke punten de in het eerste lid bedoelde voorschriften niet of in onvoldoende mate worden nageleefd, alsmede de in verband daarmee te nemen maatregelen.
 
@@ -2105,7 +2103,7 @@ De houder van een kindercentrum of een gastouderbureau treft een regeling voor d
 
 1. Het college van burgemeester en wethouders kan de houder verbieden de exploitatie van een kindercentrum, een voorziening voor gastouderopvang of een gastouderbureau voort te zetten, zolang hij een bevel of aanwijzing niet opvolgt en het opleggen van een last onder bestuursdwang niet mogelijk is.
 
-2. Indien uit een onderzoek als bedoeld in [artikel 1.62](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=1&artikel=1.62&z=2011-10-29&g=2011-10-29) blijkt dat het kindercentrum, de voorziening voor gastouderopvang of het gastouderbureau naar verwachting niet dan wel niet langer aan de bij of krachtens [afdeling 3, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&z=2011-10-29&g=2011-10-29), gegeven voorschriften zal voldoen, kan het college van burgemeester en wethouders zolang die situatie zich voordoet, de houder verbieden dat kindercentrum, die voorziening voor gastouderopvang of dat gastouderbureau in exploitatie te nemen.
+2. Indien uit een onderzoek als bedoeld in [artikel 1.62](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=1&artikel=1.62&z=2012-01-01&g=2012-01-01) of anderszins blijkt dat het kindercentrum, de voorziening voor gastouderopvang of het gastouderbureau naar verwachting niet dan wel niet langer aan de bij of krachtens [afdeling 3, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&z=2012-01-01&g=2012-01-01), van dit hoofdstuk gegeven voorschriften zal voldoen, kan het college van burgemeester en wethouders zolang die situatie zich voordoet, de houder verbieden dat kindercentrum, die voorziening voor gastouderopvang of dat gastouderbureau in exploitatie te nemen.
 
 ##### Artikel 1.67
 
@@ -2115,17 +2113,17 @@ De houder van een kindercentrum of een gastouderbureau treft een regeling voor d
 
 ##### Artikel 1.67a
 
-De Belastingdienst/Toeslagen verstrekt aan de GGD kosteloos de gegevens en inlichtingen waarvan de kennisneming van belang kan zijn voor het toezicht op de naleving van de bij of krachtens [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=3&z=2011-10-29&g=2011-10-29) gestelde regels.
+De Belastingdienst/Toeslagen verstrekt aan de GGD kosteloos de gegevens en inlichtingen waarvan de kennisneming van belang kan zijn voor het toezicht op de naleving van de bij of krachtens [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=3&z=2012-01-01&g=2012-01-01) gestelde regels.
 
 #### Paragraaf 3. Rijkstoezicht op gemeentelijk toezicht en ingrijpen
 
 ##### Artikel 1.68
 
-1. Onze Minister houdt toezicht op de rechtmatigheid en de doeltreffendheid van de uitvoering van de bij of krachtens [afdeling 3, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&z=2011-10-29&g=2011-10-29), [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&z=2011-10-29&g=2011-10-29) en [afdeling 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=6&z=2011-10-29&g=2011-10-29) gestelde regels door het college van burgemeester en wethouders, met uitzondering van de bij [artikel 1.50b](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.50b&z=2011-10-29&g=2011-10-29) gestelde regels.
+1. Onze Minister houdt toezicht op de rechtmatigheid en de doeltreffendheid van de uitvoering van de bij of krachtens [afdeling 3, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&z=2012-01-01&g=2012-01-01), [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&z=2012-01-01&g=2012-01-01) en [afdeling 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=6&z=2012-01-01&g=2012-01-01), van dit hoofdstuk gestelde regels door het college van burgemeester en wethouders, met uitzondering van de bij [artikel 1.50b](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.50b&z=2012-01-01&g=2012-01-01) gestelde regels.
 
 2. Het toezicht, bedoeld in het eerste lid, wordt uitgeoefend door de Inspectie van het onderwijs, genoemd in [artikel 2, eerste lid, van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=2). De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=3), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=4), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=7), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=22) en [23 van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=23) zijn van overeenkomstige toepassing.
 
-3. Onze Minister kan, indien hij met betrekking tot de rechtmatige uitvoering de bij of krachtens [afdeling 3, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&z=2011-10-29&g=2011-10-29), [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&z=2011-10-29&g=2011-10-29) en [afdeling 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=6&z=2011-10-29&g=2011-10-29) gestelde regels ernstige tekortkomingen constateert, aan het college van burgemeester en wethouders, nadat het gedurende acht weken in de gelegenheid is gesteld zijn zienswijze naar voren te brengen, een aanwijzing geven. Hij treedt daarbij niet in de besluitvorming inzake individuele gevallen. In een aanwijzing wordt een termijn opgenomen waarbinnen het college van burgemeester en wethouders de uitvoering in overeenstemming heeft gebracht met de aanwijzing.
+3. Onze Minister kan, indien hij met betrekking tot de rechtmatige uitvoering de bij of krachtens [afdeling 3, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&z=2012-01-01&g=2012-01-01), [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&z=2012-01-01&g=2012-01-01) en [afdeling 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=6&z=2012-01-01&g=2012-01-01), van dit hoofdstuk gestelde regels ernstige tekortkomingen constateert, aan het college van burgemeester en wethouders, nadat het gedurende acht weken in de gelegenheid is gesteld zijn zienswijze naar voren te brengen, een aanwijzing geven. Hij treedt daarbij niet in de besluitvorming inzake individuele gevallen. In een aanwijzing wordt een termijn opgenomen waarbinnen het college van burgemeester en wethouders de uitvoering in overeenstemming heeft gebracht met de aanwijzing.
 
 ##### Artikel 1.69
 
@@ -2149,11 +2147,11 @@ Onze Minister stelt jaarlijks een verslag vast van de werkzaamheden die hij in h
 
 1. Het college van burgemeester en wethouders kan:
 
-- a. de houder die een verplichting als bedoeld bij of krachtens [afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&z=2011-10-29&g=2011-10-29), een afspraak als bedoeld in [artikel 167 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=167), een aanwijzing onderscheidenlijk een bevel als bedoeld in [artikel 1.65](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=2&artikel=1.65&z=2011-10-29&g=2011-10-29) of [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) niet nakomt dan wel handelt in strijd met een verbod krachtens [artikel 1.66](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=2&artikel=1.66&z=2011-10-29&g=2011-10-29), een bestuurlijke boete opleggen van ten hoogste € 45 000;
+- a. de houder die een verplichting als bedoeld bij of krachtens [afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&z=2012-01-01&g=2012-01-01) van dit hoofdstuk, een afspraak als bedoeld in [artikel 167 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=167), een aanwijzing onderscheidenlijk een bevel als bedoeld in [artikel 1.65](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=2&artikel=1.65&z=2012-01-01&g=2012-01-01) of [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) niet nakomt dan wel handelt in strijd met een verbod krachtens [artikel 1.66](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=2&artikel=1.66&z=2012-01-01&g=2012-01-01), een bestuurlijke boete opleggen van ten hoogste € 45 000;
 
-- b. de houder die een verplichting als bedoeld in [artikel 1.28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=3&artikel=1.28&z=2011-10-29&g=2011-10-29), niet nakomt een bestuurlijke boete opleggen van ten hoogste € 5000;
+- b. de houder die een verplichting als bedoeld in [artikel 1.28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=3&artikel=1.28&z=2012-01-01&g=2012-01-01), niet nakomt een bestuurlijke boete opleggen van ten hoogste € 5000;
 
-- c. de ouder die een verplichting als bedoeld in [artikel 1.28, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=3&artikel=1.28&z=2011-10-29&g=2011-10-29), niet nakomt een bestuurlijke boete opleggen van ten hoogste € 2269.
+- c. de ouder die een verplichting als bedoeld in [artikel 1.28, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=3&artikel=1.28&z=2012-01-01&g=2012-01-01), niet nakomt een bestuurlijke boete opleggen van ten hoogste € 2269.
 
 2. In afwijking van het eerste lid kan de overtreding van de houder niet met een bestuurlijke boete worden afgedaan, indien de overtreding opzettelijk of roekeloos geschiedt en een direct gevaar voor de gezondheid of de veiligheid van personen tot gevolg heeft.
 
@@ -2165,9 +2163,9 @@ Indien het college van burgemeester en wethouders voornemens is een bestuurlijke
 
 Het Uitvoeringsinstituut werknemersverzekeringen kan:
 
-- a. aan de ouder die een verplichting gesteld in [artikel 1.33](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=4&artikel=1.33&z=2011-10-29&g=2011-10-29) niet nakomt, een bestuurlijke boete opleggen met overeenkomstige toepassing van de [artikelen 29a](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=29a), en [29g van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=29g);
+- a. aan de ouder die een verplichting gesteld in [artikel 1.33](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=4&artikel=1.33&z=2012-01-01&g=2012-01-01) niet nakomt, een bestuurlijke boete opleggen met overeenkomstige toepassing van de [artikelen 29a](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=29a), en [29g van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=29g);
 
-- b. aan de houder die een verplichting gesteld in [artikel 1.33, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=4&artikel=1.33&z=2011-10-29&g=2011-10-29), niet nakomt een bestuurlijke boete opleggen met overeenkomstige toepassing van de [artikelen 1.72, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=5&paragraaf=2&artikel=1.72&z=2011-10-29&g=2011-10-29), en [1.80](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=5&paragraaf=2&artikel=1.80&z=2011-10-29&g=2011-10-29).
+- b. aan de houder die een verplichting gesteld in [artikel 1.33, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=4&artikel=1.33&z=2012-01-01&g=2012-01-01), niet nakomt een bestuurlijke boete opleggen met overeenkomstige toepassing van de [artikelen 1.72, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=5&paragraaf=2&artikel=1.72&z=2012-01-01&g=2012-01-01), en [1.80](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=5&paragraaf=2&artikel=1.80&z=2012-01-01&g=2012-01-01).
 
 ### Afdeling 6. Experimenten
 
@@ -2183,17 +2181,19 @@ Het Uitvoeringsinstituut werknemersverzekeringen kan:
 
 - d. de duur van de aan te wijzen vormen van kinderopvang als experiment.
 
-Bij die regels kan worden afgeweken van [artikel 1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=1&artikel=1.1&z=2011-10-29&g=2011-10-29), wat betreft de begrippen «gastouderbureau» en «gastouderopvang», [artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.7&z=2011-10-29&g=2011-10-29), [afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&z=2011-10-29&g=2011-10-29), met uitzondering van [artikel 1.48](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.48&z=2011-10-29&g=2011-10-29), alsmede van [afdeling 4, paragrafen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=1&z=2011-10-29&g=2011-10-29) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=2&z=2011-10-29&g=2011-10-29), en [afdeling 5, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=5&paragraaf=2&z=2011-10-29&g=2011-10-29).
+Bij die regels kan worden afgeweken van [artikel 1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=1&artikel=1.1&z=2012-01-01&g=2012-01-01), wat betreft de begrippen «gastouderbureau» en «gastouderopvang», artikel 1.1, tweede lid, onderdeel a, [artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.7&z=2012-01-01&g=2012-01-01), [afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&z=2012-01-01&g=2012-01-01), met uitzondering van [artikel 1.48](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.48&z=2012-01-01&g=2012-01-01), alsmede van [afdeling 4, paragrafen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=1&z=2012-01-01&g=2012-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=2&z=2012-01-01&g=2012-01-01), en [afdeling 5, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=5&paragraaf=2&z=2012-01-01&g=2012-01-01), van dit hoofdstuk.
 
-2. Indien toepassing wordt gegeven aan het eerste lid heeft een ouder als bedoeld in de [artikelen 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2011-10-29&g=2011-10-29), [1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=3&artikel=1.22&z=2011-10-29&g=2011-10-29), [1.29](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=4&artikel=1.29&z=2011-10-29&g=2011-10-29) en [1.35](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=5&artikel=1.35&z=2011-10-29&g=2011-10-29) aanspraak op een kinderopvangtoeslag in de door hem of zijn partner te betalen kosten jegens het Rijk onderscheidenlijk aanspraak op een tegemoetkoming in de door hem of zijn partner te betalen kosten van kinderopvang jegens de gemeente of jegens het Uitvoeringsinstituut werknemersverzekeringen, indien het betreft een experimentele vorm van kinderopvang, welke is geregistreerd.
+2. Bij of krachtens algemene maatregel van bestuur kunnen voorwaarden worden gesteld aan de deelname aan een experiment.
 
-3. Bij algemene maatregel van bestuur kunnen experimenten als bedoeld in het eerste lid na afloop van de looptijd worden voortgezet tot een structurele regeling is getroffen, doch niet langer dan met een tijdsduur van ten hoogste twee jaar. Het eerste en tweede lid zijn van overeenkomstige toepassing.
+3. Indien toepassing wordt gegeven aan het eerste lid heeft een ouder als bedoeld in de [artikelen 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2012-01-01&g=2012-01-01), [1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=3&artikel=1.22&z=2012-01-01&g=2012-01-01), [1.29](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=4&artikel=1.29&z=2012-01-01&g=2012-01-01) en [1.35](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=5&artikel=1.35&z=2012-01-01&g=2012-01-01) aanspraak op een kinderopvangtoeslag in de door hem of zijn partner te betalen kosten jegens het Rijk onderscheidenlijk aanspraak op een tegemoetkoming in de door hem of zijn partner te betalen kosten van kinderopvang jegens de gemeente of jegens het Uitvoeringsinstituut werknemersverzekeringen, indien het betreft een experimentele vorm van kinderopvang, welke is geregistreerd.
+
+4. Bij algemene maatregel van bestuur kunnen experimenten als bedoeld in het eerste lid na afloop van de looptijd worden voortgezet tot een structurele regeling is getroffen, doch niet langer dan met een tijdsduur van ten hoogste twee jaar. Het eerste, tweede en derde lid zijn van overeenkomstige toepassing.
 
 ##### Artikel 1.88
 
-1. Onze Minister zendt na overleg met Onze Minister van Financiën en Onze Minister van Volksgezondheid, Welzijn en Sport uiterlijk zes maanden voor de beëindiging van een experiment, als bedoeld in [artikel 1.87](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=6&artikel=1.87&z=2011-10-29&g=2011-10-29), een verslag over de doeltreffendheid en de effecten ervan alsmede een standpunt inzake de voortzetting van de desbetreffende regeling, anders dan als experiment, aan de beide kamers der Staten-Generaal.
+1. Onze Minister zendt na overleg met Onze Minister van Financiën en Onze Minister van Volksgezondheid, Welzijn en Sport uiterlijk zes maanden voor de beëindiging van een experiment, als bedoeld in [artikel 1.87](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=6&artikel=1.87&z=2012-01-01&g=2012-01-01), een verslag over de doeltreffendheid en de effecten ervan alsmede een standpunt inzake de voortzetting van de desbetreffende regeling, anders dan als experiment, aan de beide kamers der Staten-Generaal.
 
-2. Indien een experiment als bedoeld in [artikel 1.87](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=6&artikel=1.87&z=2011-10-29&g=2011-10-29), eerder wordt beëindigd dan de bij algemene maatregel van bestuur, bedoeld in het eerste lid van dat artikel, daarvoor gestelde duur, zendt Onze Minister na overleg met Onze Minister van Financiën en Onze Minister van Volksgezondheid, Welzijn en Sport, in afwijking van het eerste lid, uiterlijk twee maanden na de beëindiging van dat experiment een verslag over de doeltreffendheid en de effecten ervan alsmede een standpunt inzake de voortzetting van de desbetreffende regeling, anders dan als experiment, aan de beide kamers der Staten-Generaal.
+2. Indien een experiment als bedoeld in [artikel 1.87](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=6&artikel=1.87&z=2012-01-01&g=2012-01-01), eerder wordt beëindigd dan de bij algemene maatregel van bestuur, bedoeld in het eerste lid van dat artikel, daarvoor gestelde duur, zendt Onze Minister na overleg met Onze Minister van Financiën en Onze Minister van Volksgezondheid, Welzijn en Sport, in afwijking van het eerste lid, uiterlijk twee maanden na de beëindiging van dat experiment een verslag over de doeltreffendheid en de effecten ervan alsmede een standpunt inzake de voortzetting van de desbetreffende regeling, anders dan als experiment, aan de beide kamers der Staten-Generaal.
 
 ##### Artikel 1.89
 
@@ -2205,15 +2205,15 @@ Een voordracht voor een krachtens dit hoofdstuk vast te stellen algemene maatreg
 
 ##### Artikel 2.1
 
-In dit hoofdstuk en de op dit hoofdstuk rustende bepalingen wordt verstaan onder:
+In dit hoofdstuk en de op dit hoofdstuk berustende bepalingen wordt verstaan onder:
 
-- **beroepskracht:** degene die werkzaam is bij een peuterspeelzaal, bezoldigd is en belast is met de verzorging, de opvoeding en het bijdragen aan de ontwikkeling van kinderen en die voldoet aan de opleidingseisen als bedoeld in [artikel 2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=2.6&z=2011-10-29&g=2011-10-29);
+- **beroepskracht:** degene die werkzaam is bij een peuterspeelzaal, bezoldigd is en belast is met de verzorging, de opvoeding en het bijdragen aan de ontwikkeling van kinderen en die voldoet aan de opleidingseisen als bedoeld in [artikel 2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=2.6&z=2012-01-01&g=2012-01-01);
 
 - **beroepskracht in opleiding:** degene die de beroepsbegeleidende leerweg, bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) volgt, en ten behoeve van beroepspraktijkvorming is belast met de verzorging, de opvoeding en het bijdragen aan de ontwikkeling van kinderen bij een peuterspeelzaal;
 
-- **beroepskracht voorschoolse educatie:** degene die als beroepskracht werkzaam is en belast is met voorschoolse educatie en die voldoet aan de opleidingseisen en scholingseisen, bedoeld in [artikel 2.8, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=2.8&z=2011-10-29&g=2011-10-29);
+- **beroepskracht voorschoolse educatie:** degene die als beroepskracht werkzaam is en belast is met voorschoolse educatie en die voldoet aan de opleidingseisen en scholingseisen, bedoeld in [artikel 2.8, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=2.8&z=2012-01-01&g=2012-01-01);
 
-- **Onze Minister:** Onze Minister van Onderwijs, Cultuur en Wetenschap;
+- **Onze Minister:** Onze Minister van Sociale Zaken en Werkgelegenheid;
 
 - **GGD:** gemeentelijke gezondheidsdienst als bedoeld in [artikel 17 van de Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=17);
 
@@ -2221,35 +2221,63 @@ In dit hoofdstuk en de op dit hoofdstuk rustende bepalingen wordt verstaan onder
 
 - **ouder:** bloed- of aanverwant in opgaande lijn of de pleegouder van een kind op wie het peuterspeelzaalwerk betrekking heeft, met dien verstande dat bij de beoordeling of sprake is van pleegouderschap een subsidie op grond van de [Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637) buiten beschouwing blijft;
 
-- **oudercommissie:** commissie als bedoeld in [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=2.15&z=2011-10-29&g=2011-10-29);
+- **oudercommissie:** commissie als bedoeld in [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=2.15&z=2012-01-01&g=2012-01-01);
 
 - **peuterspeelzaalwerk:** de verzorging, de opvoeding en het bijdragen aan de ontwikkeling van kinderen uitsluitend bestemd voor kinderen vanaf de leeftijd van twee jaar tot het tijdstip waarop die kinderen kunnen deelnemen aan het basisonderwijs;
 
 - **peuterspeelzaal:** voorziening waar peuterspeelzaalwerk plaatsvindt, anders dan gastouderopvang of kinderopvang in een kindercentrum;
 
-- **register peuterspeelzaalwerk:** het register peuterspeelzaalwerk, bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=2.3&z=2011-10-29&g=2011-10-29);
+- **register peuterspeelzaalwerk:** het register peuterspeelzaalwerk, bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=2.3&z=2012-01-01&g=2012-01-01);
 
 - **voorschoolse educatie:** uitvoering van een door het college van burgemeester en wethouders gesubsidieerd programma dat gericht is op het verbeteren van de voorwaarden voor het met succes instromen in het basisonderwijs voor kinderen die nog niet tot een school kunnen worden toegelaten;
 
-- **vrijwilliger:** degene die structureel al dan niet tegen een vrijwilligersvergoeding op regelmatige, niet incidentele, basis werkzaam is bij een peuterspeelzaal en is belast met de verzorging, de opvoeding en het bijdragen aan de ontwikkeling van kinderen en die niet voldoet aan de opleidingseisen, bedoeld in [artikel 2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=2.6&z=2011-10-29&g=2011-10-29).
+- **vrijwilliger:** degene die structureel al dan niet tegen een vrijwilligersvergoeding op regelmatige, niet incidentele, basis werkzaam is bij een peuterspeelzaal en is belast met de verzorging, de opvoeding en het bijdragen aan de ontwikkeling van kinderen en die niet voldoet aan de opleidingseisen, bedoeld in [artikel 2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=2.6&z=2012-01-01&g=2012-01-01).
 
 ### Afdeling 2. Kwaliteit peuterspeelzalen
 
 ##### Artikel 2.2
 
-Dit onderdeel is nog niet inwerking getreden
+1. Degene die voornemens is een peuterspeelzaal in exploitatie te nemen, doet daarvan een aanvraag bij het college van burgemeester en wethouders van de gemeente van vestiging.
+
+2. Een peuterspeelzaal wordt niet in exploitatie genomen voordat een onderzoek als bedoeld in [artikel 2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=3&paragraaf=1&artikel=2.20&z=2012-01-01&g=2012-01-01) heeft plaatsgevonden waaruit blijkt dat de exploitatie redelijkerwijs zal plaatsvinden in overeenstemming met het bepaalde bij of krachtens de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=2&z=2012-01-01&g=2012-01-01) en [3 van deze afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=3&z=2012-01-01&g=2012-01-01).
+
+3. Bij algemene maatregel van bestuur worden voorschriften gegeven over de gegevens die worden verstrekt bij de aanvraag, bedoeld in het eerste lid, en over de wijze van verstrekking van deze gegevens.
 
 ##### Artikel 2.3
 
-Dit onderdeel is nog niet inwerking getreden
+1. Uiterlijk tien weken na de aanvraag, bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=2.2&z=2012-01-01&g=2012-01-01), geeft het college van burgemeester en wethouders, bedoeld in artikel 2.2, eerste lid, een beschikking af aan de houder.
+
+2. In de beschikking die volgt op de aanvraag, bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=2.2&z=2012-01-01&g=2012-01-01), nadat uit het onderzoek, bedoeld in [artikel 2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=3&paragraaf=1&artikel=2.20&z=2012-01-01&g=2012-01-01), en anderszins is gebleken dat de exploitatie redelijkerwijs zal plaatsvinden in overeenstemming met het bepaalde bij of krachtens de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=2&z=2012-01-01&g=2012-01-01) en [3 van afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=3&z=2012-01-01&g=2012-01-01) van dit hoofdstuk, bepaalt het college van burgemeester en wethouders de datum van ingang van de exploitatie, waarbij deze datum niet voor de datum van bekendmaking van die beschikking ligt. Het college van burgemeester en wethouders draagt zorg voor inschrijving van de peuterspeelzaal in het register peuterspeelzaalwerk waarbij de datum van ingang van de exploitatie als startdatum van de registratie wordt opgenomen.
+
+3. Het college van burgemeester en wethouders deelt de houder schriftelijk mee dat inschrijving van de peuterspeelzaal in het register peuterspeelzaalwerk heeft plaatsgevonden.
+
+4. Bij een inschrijving als bedoeld in het tweede lid, doet het college van burgemeester en wethouders opgave van de gegevens die ingevolge [artikel 2.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=2.2&z=2012-01-01&g=2012-01-01), zijn verstrekt.
 
 ##### Artikel 2.4
 
-Dit onderdeel is nog niet inwerking getreden
+1. De houder doet van wijzigingen in de gegevens die bij de aanvraag, bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=2.2&z=2012-01-01&g=2012-01-01), zijn verstrekt, onverwijld mededeling aan het college van burgemeester en wethouders. Het college draagt er zorg voor dat deze wijzigingen worden doorgevoerd in het register peuterspeelzaalwerk.
+
+2. Het college van burgemeester en wethouders deelt de houder schriftelijk mee dat de wijziging in het register peuterspeelzaalwerk heeft plaatsgevonden.
 
 ##### Artikel 2.4a
 
-Dit onderdeel is nog niet inwerking getreden
+1. Onze Minister draagt zorg voor de inrichting van een register peuterspeelzaalwerk ten behoeve van de waarborging van de kwaliteit en de rechtszekerheid van het peuterspeelzaalwerk alsmede ten behoeve van het toezicht op en de handhaving van de bij of krachtens deze [afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&z=2012-01-01&g=2012-01-01) gestelde regels.
+
+2. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent het register peuterspeelzaalwerk. Deze regels hebben in elk geval betrekking op:
+
+- a. de vorm van het register;
+
+- b. de in het register op te nemen gegevens;
+
+- c. de vastlegging van gegevens in het register en de verwijdering van gegevens daaruit;
+
+- d. de wijze waarop verbetering van onjuistheden in het register plaatsvindt;
+
+- e. de verstrekking van gegevens;
+
+- f. de openbaarheid van gegevens;
+
+- g. de verantwoordelijkheden van degenen die gegevens aanleveren ten behoeve van het register.
 
 #### Paragraaf 2. Eisen
 
@@ -2265,7 +2293,7 @@ Een houder biedt verantwoord peuterspeelzaalwerk aan waaronder wordt verstaan pe
 
 - a. de veiligheid en de gezondheid;
 
-- b. de opleidingseisen waaraan de beroepskrachten moeten voldoen;
+- b. de opleidingseisen waaraan de beroepskrachten voldoen;
 
 - c. de inzet van beroepskrachten in opleiding;
 
@@ -2279,11 +2307,11 @@ Een houder biedt verantwoord peuterspeelzaalwerk aan waaronder wordt verstaan pe
 
 4. De verklaring, bedoeld in het derde lid, wordt aan de houder overgelegd, voordat een persoon als bedoeld in het derde lid zijn werkzaamheden aanvangt. De verklaring is op het moment dat zij wordt overgelegd, niet ouder dan twee maanden.
 
-5. Indien de houder of de toezichthouder redelijkerwijs mag vermoeden dat een persoon als bedoeld in het derde lid niet langer voldoet aan de eisen voor het afgeven van een verklaring omtrent het gedrag, verlangt de houder dat die persoon opnieuw een verklaring omtrent het gedrag overlegt die niet ouder is dan twee maanden. De desbetreffende persoon legt de verklaring over binnen een door de houder vast te stellen termijn.
+5. Indien de houder of de toezichthouder redelijkerwijs mag vermoeden dat een persoon als bedoeld in het derde lid niet langer voldoet aan de eisen voor het afgeven van een verklaring omtrent het gedrag, verlangt deze houder al dan niet op verzoek van de toezichthouder dat die persoon opnieuw een verklaring omtrent het gedrag overlegt die niet ouder is dan twee maanden. De desbetreffende persoon legt de verklaring over binnen een door deze houder of de toezichthouder vast te stellen termijn.
 
 ##### Artikel 2.7
 
-De houder van een peuterspeelzaal neemt deel aan het overleg tussen het college van burgemeester en wethouders en de bevoegde gezagsorganen van scholen over het onderwijsachterstandenbeleid, bedoeld in [artikel 167 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=167), en werkt mee aan de totstandkoming van de samenwerkingsafspraken en de nakoming ervan.
+De houder van een peuterspeelzaal neemt deel aan het overleg tussen het college van burgemeester en wethouders en de bevoegde gezagsorganen van scholen over het onderwijsachterstandenbeleid, bedoeld in [artikel 167a van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=167a), en werkt mee aan de totstandkoming van de samenwerkingsafspraken en de nakoming ervan.
 
 ##### Artikel 2.8
 
@@ -2307,7 +2335,11 @@ Bij regeling van Onze Minister kunnen ten behoeve van een goede uitvoering van d
 
 ##### Artikel 2.11
 
-De houder informeert de ouders van wie de kinderen in de peuterspeelzaal worden opgevangen over het te voeren beleid als bedoeld in deze paragraaf.
+1. De houder informeert de ouders van wie de kinderen in de peuterspeelzaal worden opgevangen over het te voeren beleid als bedoeld in deze paragraaf.
+
+2. De houder informeert de ouders wier kinderen in de peuterspeelzaal worden opgevangen over een inspectierapport als bedoeld in [artikel 2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=3&paragraaf=1&artikel=2.21&z=2012-01-01&g=2012-01-01) door dit zo spoedig mogelijk na ontvangst van het rapport op een website van de houder te plaatsen zodanig dat het rapport voor ouders gemakkelijk vindbaar is dan wel, indien de houder geen eigen website heeft, ter inzage leggen op een voor ouders toegankelijke plaats.
+
+3. De houder informeert het personeel over een inspectierapport als bedoeld in [artikel 2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=3&paragraaf=1&artikel=2.21&z=2012-01-01&g=2012-01-01) door dit zo spoedig mogelijk na ontvangst van het rapport op een website van de houder te plaatsen zodanig dat het rapport voor het personeel gemakkelijk vindbaar is dan wel ter inzage te leggen op een voor het personeel toegankelijke plaats.
 
 ##### Artikel 2.12
 
@@ -2317,7 +2349,7 @@ De houder informeert de ouders van wie de kinderen in de peuterspeelzaal worden 
 
 ##### Artikel 2.13
 
-1. Onze Minister kan in overeenstemming met Onze Minister voor Jeugd en Gezin, beleidsregels stellen omtrent de toepassing van de [artikelen 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=2.5&z=2011-10-29&g=2011-10-29), [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=2.6&z=2011-10-29&g=2011-10-29) en [2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=2.9&z=2011-10-29&g=2011-10-29).
+1. Onze Minister kan in overeenstemming met Onze Minister voor Jeugd en Gezin, beleidsregels stellen omtrent de toepassing van de [artikelen 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=2.5&z=2012-01-01&g=2012-01-01), [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=2.6&z=2012-01-01&g=2012-01-01) en [2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=2.9&z=2012-01-01&g=2012-01-01).
 
 2. De bekendmaking van de beleidsregels geschiedt door plaatsing in de Staatscourant.
 
@@ -2329,7 +2361,7 @@ Deze paragraaf is slechts van toepassing op niet-gesubsidieerde peuterspeelzalen
 
 ##### Artikel 2.15
 
-1. Een houder van een peuterspeelzaal biedt voor elk door hem geëxploiteerde peuterspeelzaal aan degenen van wie de kinderen in de peuterspeelzaal worden opgevangen, de gelegenheid deel te nemen aan een oudercommissie die tot taak heeft hem te adviseren over de aangelegenheden, genoemd in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=2.17&z=2011-10-29&g=2011-10-29).
+1. Een houder van een peuterspeelzaal biedt voor elk door hem geëxploiteerde peuterspeelzaal aan degenen van wie de kinderen in de peuterspeelzaal worden opgevangen, de gelegenheid deel te nemen aan een oudercommissie die tot taak heeft hem te adviseren over de aangelegenheden, genoemd in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=2.17&z=2012-01-01&g=2012-01-01).
 
 2. De leden van de oudercommissie worden gekozen uit en door degenen van wie de kinderen in de peuterspeelzaal worden opgevangen.
 
@@ -2339,7 +2371,7 @@ Deze paragraaf is slechts van toepassing op niet-gesubsidieerde peuterspeelzalen
 
 ##### Artikel 2.16
 
-1. De houder stelt binnen zes maanden na de aanvraag, bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=2.2&z=2011-10-29&g=2011-10-29), voor de oudercommissie een reglement vast.
+1. De houder stelt binnen zes maanden na de aanvraag, bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=2.2&z=2012-01-01&g=2012-01-01), voor de oudercommissie een reglement vast.
 
 2. Het reglement bevat in ieder geval regels omtrent:
 
@@ -2359,7 +2391,7 @@ Deze paragraaf is slechts van toepassing op niet-gesubsidieerde peuterspeelzalen
 
 1. De houder stelt de oudercommissie in ieder geval in de gelegenheid advies uit te brengen over elk voorgenomen besluit van de houder met betrekking tot:
 
-- a. de wijze waarop uitvoering wordt gegeven aan [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=2.6&z=2011-10-29&g=2011-10-29);
+- a. de wijze waarop uitvoering wordt gegeven aan [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=2.6&z=2012-01-01&g=2012-01-01);
 
 - b. voedingsaangelegenheden van algemene aard en het algemene beleid op het gebied van opvoeding, veiligheid of gezondheid;
 
@@ -2379,13 +2411,13 @@ Deze paragraaf is slechts van toepassing op niet-gesubsidieerde peuterspeelzalen
 
 ##### Artikel 2.18
 
-De houder treft een regeling voor de behandeling van klachten van de oudercommissie over een door hem genomen besluit als bedoeld in [artikel 2.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=2.17&z=2011-10-29&g=2011-10-29). De getroffen regeling waarborgt dat aan de behandeling van een klacht van de oudercommissie niet wordt deelgenomen door de houder of door een persoon die werkzaam is voor of bij de houder op wie die klacht betrekking heeft. De houder brengt de getroffen regeling op passende wijze onder de aandacht van de oudercommissie. De [artikelen 2, tweede tot en met vijfde lid, zevende lid, en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007414&artikel=2), [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0007414&artikel=2a), [3c](https://wetten.overheid.nl/jci1.3:c:BWBR0007414&artikel=3c) en [4 van de Wet klachtrecht cliënten zorgsector](https://wetten.overheid.nl/jci1.3:c:BWBR0007414&artikel=4) zijn van overeenkomstige toepassing voor de oudercommissie.
+De houder treft een regeling voor de behandeling van klachten van de oudercommissie over een door hem genomen besluit als bedoeld in [artikel 2.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=2.17&z=2012-01-01&g=2012-01-01). De getroffen regeling waarborgt dat aan de behandeling van een klacht van de oudercommissie niet wordt deelgenomen door de houder of door een persoon die werkzaam is voor of bij de houder op wie die klacht betrekking heeft. De houder brengt de getroffen regeling op passende wijze onder de aandacht van de oudercommissie. De [artikelen 2, tweede tot en met vijfde lid, zevende lid, en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007414&artikel=2), [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0007414&artikel=2a), [3c](https://wetten.overheid.nl/jci1.3:c:BWBR0007414&artikel=3c) en [4 van de Wet klachtrecht cliënten zorgsector](https://wetten.overheid.nl/jci1.3:c:BWBR0007414&artikel=4) zijn van overeenkomstige toepassing voor de oudercommissie.
 
 ### Afdeling 3. Handhaving
 
 ##### Artikel 2.19
 
-1. Het college van burgemeester en wethouders ziet toe op de naleving van de bij of krachtens [afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&z=2011-10-29&g=2011-10-29) gestelde regels, onderscheidenlijk de krachtens [artikel 2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=2.23&z=2011-10-29&g=2011-10-29) gegeven aanwijzingen en bevelen en de krachtens [artikel 2.24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=2.24&z=2011-10-29&g=2011-10-29), gegeven bevelen tot sluiting dan wel de krachtens artikel 2.24, tweede lid, uitgevaardigde verboden, en de in de bij [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=2.8&z=2011-10-29&g=2011-10-29) vastgestelde algemene maatregel van bestuur vastgelegde basisvoorwaarden voor kwaliteit van voorschoolse educatie. Het college van burgemeester en wethouders wijst de directeur van de GGD aan als toezichthouder.
+1. Het college van burgemeester en wethouders ziet toe op de naleving van de bij of krachtens [afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&z=2012-01-01&g=2012-01-01) van dit hoofdstuk gestelde regels, onderscheidenlijk de krachtens [artikel 2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=2.23&z=2012-01-01&g=2012-01-01) gegeven aanwijzingen en bevelen en de krachtens [artikel 2.24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=2.24&z=2012-01-01&g=2012-01-01), gegeven bevelen tot sluiting dan wel de krachtens artikel 2.24, tweede lid, uitgevaardigde verboden, en de in de bij [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=2.8&z=2012-01-01&g=2012-01-01) vastgestelde algemene maatregel van bestuur vastgelegde basisvoorwaarden voor kwaliteit van voorschoolse educatie. Het college van burgemeester en wethouders wijst de directeur van de GGD aan als toezichthouder.
 
 2. Voor zover een peuterspeelzaal is gevestigd in een woning, zijn de toezichthouders ter uitvoering van de taken, bedoeld in het eerste lid, bevoegd zonder toestemming van de bewoners in die woning binnen te treden.
 
@@ -2397,15 +2429,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 1. De toezichthouder legt zijn oordeel naar aanleiding van een onderzoek bij een peuterspeelzaal vast in een inspectierapport.
 
-2. Indien de toezichthouder oordeelt dat door de houder de bij of krachtens [afdeling 2, paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=2&z=2011-10-29&g=2011-10-29) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=3&z=2011-10-29&g=2011-10-29), gegeven voorschriften niet zijn of zullen worden nageleefd, vermeldt hij dat in het rapport.
+2. Indien de toezichthouder oordeelt dat door de houder de bij of krachtens [afdeling 2, paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=2&z=2012-01-01&g=2012-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=3&z=2012-01-01&g=2012-01-01), van dit hoofdstuk gegeven voorschriften niet zijn of zullen worden nageleefd, vermeldt hij dat in het rapport.
 
 3. Alvorens het rapport vast te stellen, stelt de toezichthouder de houder in de gelegenheid van het ontwerprapport kennis te nemen en daarover zijn zienswijze kenbaar te maken. De toezichthouder vermeldt de zienswijze van de houder in een bijlage bij het rapport.
 
-4. De toezichthouder zendt het inspectierapport onverwijld aan de houder, die een afschrift daarvan zo spoedig mogelijk ter inzage legt op een voor ouders en personeel toegankelijke plaats.
+4. De toezichthouder zendt het inspectierapport na het te hebben vastgesteld onverwijld aan de houder, die de ouders en het personeel overeenkomstig [artikel 2.11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=2.11&z=2012-01-01&g=2012-01-01), daarover informeert.
 
 5. De toezichthouder maakt het inspectierapport uiterlijk drie weken na de vaststelling daarvan openbaar.
 
-6. De toezichthouder zendt een afschrift van het inspectierapport naar aanleiding van een onderzoek bij een peuterspeelzaal waar voorschoolse educatie wordt aangeboden, aan het college van burgemeester en wethouders en aan de Inspectie van het onderwijs, indien in een of meer van de basisvoorwaarden voor kwaliteit van voorschoolse educatie, als bedoeld in [artikel 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=3&paragraaf=1&artikel=2.19&z=2011-10-29&g=2011-10-29), tekortkomingen zijn geconstateerd.
+6. De toezichthouder zendt een afschrift van het inspectierapport naar aanleiding van een onderzoek bij een peuterspeelzaal waar voorschoolse educatie wordt aangeboden, aan het college van burgemeester en wethouders en aan de Inspectie van het onderwijs, indien in een of meer van de basisvoorwaarden voor kwaliteit van voorschoolse educatie, als bedoeld in [artikel 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=3&paragraaf=1&artikel=2.19&z=2012-01-01&g=2012-01-01), tekortkomingen zijn geconstateerd.
 
 ##### Artikel 2.22
 
@@ -2417,7 +2449,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 2.23
 
-1. Het college van burgemeester en wethouders van de gemeente waarin zich een peuterspeelzaal bevindt die de bij of krachtens [afdeling 2, paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=2&z=2011-10-29&g=2011-10-29) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=3&z=2011-10-29&g=2011-10-29), gegeven voorschriften niet of in onvoldoende mate naleeft, kan de houder een schriftelijke aanwijzing geven.
+1. Het college van burgemeester en wethouders van de gemeente waarin zich een peuterspeelzaal bevindt die de bij of krachtens [afdeling 2, paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=2&z=2012-01-01&g=2012-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=3&z=2012-01-01&g=2012-01-01), van dit hoofdstuk gegeven voorschriften niet of in onvoldoende mate naleeft, kan de houder een schriftelijke aanwijzing geven.
 
 2. In een aanwijzing als bedoeld in het eerste lid geeft het college van burgemeester en wethouders met redenen omkleed aan op welke punten de in het eerste lid bedoelde voorschriften niet of in onvoldoende mate worden nageleefd, alsmede de in verband daarmee te nemen maatregelen.
 
@@ -2429,7 +2461,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 1. Het college van burgemeester en wethouders kan de houder verbieden de instandhouding van een peuterspeelzaal voort te zetten, zolang hij een bevel of aanwijzing niet opvolgt en het opleggen van een last onder bestuursdwang niet mogelijk is.
 
-2. Indien uit een onderzoek als bedoeld in [artikel 2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=3&paragraaf=1&artikel=2.20&z=2011-10-29&g=2011-10-29) blijkt dat de peuterspeelzaal naar verwachting niet dan wel niet langer aan de bij of krachtens [afdeling 2, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=2&z=2011-10-29&g=2011-10-29), gegeven voorschriften zal voldoen, kan het college van burgemeester en wethouders zolang die situatie zich voordoet, de houder verbieden die peuterspeelzaal in exploitatie te nemen.
+2. Indien uit een onderzoek als bedoeld in [artikel 2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=3&paragraaf=1&artikel=2.20&z=2012-01-01&g=2012-01-01) of anderszins blijkt dat de peuterspeelzaal naar verwachting niet dan wel niet langer aan de bij of krachtens [afdeling 2, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=2&z=2012-01-01&g=2012-01-01), van dit hoofdstuk gegeven voorschriften zal voldoen, kan het college van burgemeester en wethouders zolang die situatie zich voordoet, de houder verbieden die peuterspeelzaal in exploitatie te nemen.
 
 ##### Artikel 2.25
 
@@ -2451,7 +2483,7 @@ Deze afdeling is slechts van toepassing op niet-gesubsidieerde peuterspeelzalen.
 
 ##### Artikel 2.28
 
-1. Het college van burgemeester en wethouders kan de houder die een verplichting als bedoeld bij of krachtens [afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&z=2011-10-29&g=2011-10-29), een afspraak als bedoeld in [artikel 167 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=167), een aanwijzing onderscheidenlijk een bevel als bedoeld in [artikel 2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=2.23&z=2011-10-29&g=2011-10-29) of [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) niet nakomt dan wel handelt in strijd met een verbod krachtens [artikel 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=2.24&z=2011-10-29&g=2011-10-29), een bestuurlijke boete opleggen van ten hoogste € 45 000.
+1. Het college van burgemeester en wethouders kan de houder die een verplichting als bedoeld bij of krachtens [afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&z=2012-01-01&g=2012-01-01) van dit hoofdstuk, een afspraak als bedoeld in [artikel 167 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=167), een aanwijzing onderscheidenlijk een bevel als bedoeld in [artikel 2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=2.23&z=2012-01-01&g=2012-01-01) of [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) niet nakomt dan wel handelt in strijd met een verbod krachtens [artikel 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=2.24&z=2012-01-01&g=2012-01-01), een bestuurlijke boete opleggen van ten hoogste € 45 000.
 
 2. In afwijking van het eerste lid kan de overtreding van de houder niet met een bestuurlijke boete worden afgedaan, indien de overtreding opzettelijk of roekeloos geschiedt en een direct gevaar voor de gezondheid of de veiligheid van personen tot gevolg heeft.
 
@@ -2469,15 +2501,15 @@ Deze afdeling is slechts van toepassing op niet-gesubsidieerde peuterspeelzalen.
 
 - d. de duur van de aan te wijzen vormen van peuterspeelzaalwerk als experiment.
 
-Bij die regels kan worden afgeweken van de bepalingen in [afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&z=2011-10-29&g=2011-10-29).
+Bij die regels kan worden afgeweken van de bepalingen in [afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&z=2012-01-01&g=2012-01-01) van dit hoofdstuk.
 
 2. Bij algemene maatregel van bestuur kunnen experimenten als bedoeld in het eerste lid na afloop van de looptijd worden voortgezet tot een structurele regeling is getroffen, doch niet langer dan met een tijdsduur van ten hoogste twee jaar. Het eerste lid is van overeenkomstige toepassing.
 
 ##### Artikel 2.30
 
-1. Onze Minister zendt na overleg met de Minister van Volksgezondheid, Welzijn en Sport uiterlijk zes maanden voor de beëindiging van een experiment, als bedoeld in [artikel 2.29](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=5&artikel=2.29&z=2011-10-29&g=2011-10-29), een verslag over de doeltreffendheid en de effecten ervan alsmede een standpunt inzake de voortzetting van de desbetreffende regeling, anders dan als experiment, aan de beide kamers der Staten-Generaal.
+1. Onze Minister zendt na overleg met de Minister van Volksgezondheid, Welzijn en Sport uiterlijk zes maanden voor de beëindiging van een experiment, als bedoeld in [artikel 2.29](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=5&artikel=2.29&z=2012-01-01&g=2012-01-01), een verslag over de doeltreffendheid en de effecten ervan alsmede een standpunt inzake de voortzetting van de desbetreffende regeling, anders dan als experiment, aan de beide kamers der Staten-Generaal.
 
-2. Indien een experiment als bedoeld in [artikel 2.29](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=5&artikel=2.29&z=2011-10-29&g=2011-10-29), eerder wordt beëindigd dan de bij algemene maatregel van bestuur, bedoeld in het eerste lid van dat artikel, daarvoor gestelde duur, zendt Onze Minister na overleg met de Minister van Volksgezondheid, Welzijn en Sport, in afwijking van het eerste lid, uiterlijk twee maanden na de beëindiging van dat experiment een verslag over de doeltreffendheid en de effecten ervan alsmede een standpunt inzake de voortzetting van de desbetreffende regeling, anders dan als experiment, aan de beide kamers der Staten-Generaal.
+2. Indien een experiment als bedoeld in [artikel 2.29](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=5&artikel=2.29&z=2012-01-01&g=2012-01-01), eerder wordt beëindigd dan de bij algemene maatregel van bestuur, bedoeld in het eerste lid van dat artikel, daarvoor gestelde duur, zendt Onze Minister na overleg met de Minister van Volksgezondheid, Welzijn en Sport, in afwijking van het eerste lid, uiterlijk twee maanden na de beëindiging van dat experiment een verslag over de doeltreffendheid en de effecten ervan alsmede een standpunt inzake de voortzetting van de desbetreffende regeling, anders dan als experiment, aan de beide kamers der Staten-Generaal.
 
 ##### Artikel 2.31
 
@@ -2489,19 +2521,19 @@ Een voordracht voor een krachtens deze afdeling vast te stellen algemene maatreg
 
 ##### Artikel 3.1
 
-1. Het college van burgemeester en wethouders van de gemeente van vestiging draagt er zorg voor dat kindercentra en gastouderbureaus die op het tijdstip van inwerkingtreding van [artikel I, onderdelen G en H, van de wet van 18 juli 2009 tot wijziging van de Wet kinderopvang in verband met een herziening van het stelsel van gastouderopvang (Stb. 345)](https://wetten.overheid.nl/jci1.3:c:BWBR0026299&artikel=I) zijn opgenomen in het register kinderopvang, bedoeld in artikel 46, zoals dat luidde op de dag voor inwerkingtreding van voornoemde wijzigingswet, voor 1 juli van het eerste kalenderjaar waarop voornoemde wijzigingswet betrekking heeft, worden ingeschreven in het register kinderopvang, bedoeld in [artikel 1.47a](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.47a&z=2011-10-29&g=2011-10-29). [Artikel 1.46, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.46&z=2011-10-29&g=2011-10-29), alsmede [artikel 1.47, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.47&z=2011-10-29&g=2011-10-29), zijn van toepassing.
+1. Het college van burgemeester en wethouders van de gemeente van vestiging draagt er zorg voor dat kindercentra en gastouderbureaus die op het tijdstip van inwerkingtreding van [artikel I, onderdelen G en H, van de wet van 18 juli 2009 tot wijziging van de Wet kinderopvang in verband met een herziening van het stelsel van gastouderopvang (Stb. 345)](https://wetten.overheid.nl/jci1.3:c:BWBR0026299&artikel=I) zijn opgenomen in het register kinderopvang, bedoeld in artikel 46, zoals dat luidde op de dag voor inwerkingtreding van voornoemde wijzigingswet, voor 1 juli van het eerste kalenderjaar waarop voornoemde wijzigingswet betrekking heeft, worden ingeschreven in het register kinderopvang, bedoeld in [artikel 1.47a](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.47a&z=2012-01-01&g=2012-01-01). [Artikel 1.46, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.46&z=2012-01-01&g=2012-01-01), alsmede [artikel 1.47, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.47&z=2012-01-01&g=2012-01-01), zijn van toepassing.
 
-2. Indien de overheveling naar het register kinderopvang, bedoeld in het eerste lid, nog niet volledig heeft plaatsgevonden blijft [artikel 1.46](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.46&z=2011-10-29&g=2011-10-29), zoals dat luidde de dag voorafgaand aan de inwerkingtreding van de in het eerste lid genoemde wijzigingswet, tot 1 juli van het eerste kalenderjaar waarop voornoemde wijzigingswet betrekking heeft van toepassing op het college van burgemeester en wethouders van de desbetreffende gemeente.
+2. Indien de overheveling naar het register kinderopvang, bedoeld in het eerste lid, nog niet volledig heeft plaatsgevonden blijft [artikel 1.46](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.46&z=2012-01-01&g=2012-01-01), zoals dat luidde de dag voorafgaand aan de inwerkingtreding van de in het eerste lid genoemde wijzigingswet, tot 1 juli van het eerste kalenderjaar waarop voornoemde wijzigingswet betrekking heeft van toepassing op het college van burgemeester en wethouders van de desbetreffende gemeente.
 
-3. Een houder van een kindercentrum of gastouderbureau als bedoeld in het eerste lid, verstrekt desgevraagd aan het college de gegevens, bedoeld in [artikel 1.45, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.45&z=2011-10-29&g=2011-10-29).
+3. Een houder van een kindercentrum of gastouderbureau als bedoeld in het eerste lid, verstrekt desgevraagd aan het college de gegevens, bedoeld in [artikel 1.45, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.45&z=2012-01-01&g=2012-01-01).
 
 4. De in het eerste lid bedoelde inschrijving in het register kinderopvang van gastouderbureaus betreft een voorlopige inschrijving, welke voortduurt tot en met uiterlijk 31 december van het eerste kalenderjaar waarop de in het eerste lid genoemde wijzigingswet betrekking heeft.
 
-5. De in het vierde lid bedoelde inschrijving wordt definitief indien uiterlijk op de in dat lid genoemde datum uit het onderzoek, bedoeld in [artikel 1.62](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=1&artikel=1.62&z=2011-10-29&g=2011-10-29), is gebleken dat de exploitatie van het gastouderbureau zal plaatsvinden in overeenstemming met het bepaalde bij of krachtens de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&z=2011-10-29&g=2011-10-29) en [3 van afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=3&z=2011-10-29&g=2011-10-29).
+5. De in het vierde lid bedoelde inschrijving wordt definitief indien uiterlijk op de in dat lid genoemde datum uit het onderzoek, bedoeld in [artikel 1.62](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=1&artikel=1.62&z=2012-01-01&g=2012-01-01), is gebleken dat de exploitatie van het gastouderbureau zal plaatsvinden in overeenstemming met het bepaalde bij of krachtens de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&z=2012-01-01&g=2012-01-01) en [3 van afdeling 3 van hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=3&z=2012-01-01&g=2012-01-01).
 
 ##### Artikel 3.2
 
-1. Ter uitvoering van [artikel 1.49, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.49&z=2011-10-29&g=2011-10-29), is het gastouderbureau gedurende het eerste kalenderjaar na inwerkingtreding van de wet van 18 juli 2009 tot wijziging van de Wet kinderopvang in verband met een herziening van het stelstel van gastouderopvang (**Stb.** 345) verantwoordelijk voor de beoordeling of de gastouderopvang naar verwachting voor 1 september van genoemd kalenderjaar redelijkerwijs zal plaatsvinden in overeenstemming met het bepaalde bij of krachtens de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&z=2011-10-29&g=2011-10-29) en [3 van afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=3&z=2011-10-29&g=2011-10-29).
+1. Ter uitvoering van [artikel 1.49, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.49&z=2012-01-01&g=2012-01-01), is het gastouderbureau gedurende het eerste kalenderjaar na inwerkingtreding van de wet van 18 juli 2009 tot wijziging van de Wet kinderopvang in verband met een herziening van het stelstel van gastouderopvang (**Stb.** 345) verantwoordelijk voor de beoordeling of de gastouderopvang naar verwachting voor 1 september van genoemd kalenderjaar redelijkerwijs zal plaatsvinden in overeenstemming met het bepaalde bij of krachtens de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&z=2012-01-01&g=2012-01-01) en [3 van afdeling 3 van hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=3&z=2012-01-01&g=2012-01-01).
 
 2. Het gastouderbureau stelt de ouders die gebruikmaken van de diensten van de gastouder in kennis van zijn in het eerste lid bedoelde beoordeling.
 
@@ -2509,35 +2541,35 @@ Een voordracht voor een krachtens deze afdeling vast te stellen algemene maatreg
 
 4. Voor de toepassing van het eerste en derde lid baseert het gastouderbureau zich op geobjectiveerde redelijke maatstaven die aantoonbaar zijn afgeleid van de in het eerste lid bedoelde eisen.
 
-5. Het gastouderbureau stelt zich regelmatig op de hoogte van de inspanningen van de gastouder om voor 1 september van het in het eerste lid bedoelde kalenderjaar overeenkomstig de in het eerste lid bedoelde beoordeling door het gastouderbureau te voldoen aan het bepaalde bij of krachtens de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&z=2011-10-29&g=2011-10-29) en [3 van afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=3&z=2011-10-29&g=2011-10-29).
+5. Het gastouderbureau stelt zich regelmatig op de hoogte van de inspanningen van de gastouder om voor 1 september van het in het eerste lid bedoelde kalenderjaar overeenkomstig de in het eerste lid bedoelde beoordeling door het gastouderbureau te voldoen aan het bepaalde bij of krachtens de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&z=2012-01-01&g=2012-01-01) en [3 van afdeling 3 van hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=3&z=2012-01-01&g=2012-01-01).
 
 6. De gastouder verstrekt aan het gastouderbureau de benodigde informatie met het oog op toepassing van het tweede en derde lid.
 
-7. Ingeval het gastouderbureau redelijkerwijs mag vermoeden dat de in het vijfde lid bedoelde inspanningen van de gastouder tekortschieten, stelt het gastouderbureau de ouder daarvan onverwijld in kennis en bevordert het gastouderbureau dat de ouder gebruik kan maken van de diensten van een gastouder die gastouderopvang aanbiedt die naar het oordeel van het gastouderbureau naar verwachting voor 1 september van de in het eerste lid bedoelde kalenderjaar zal plaatsvinden in overeenstemming met het bepaalde bij of krachtens de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&z=2011-10-29&g=2011-10-29) en [3 van afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=3&z=2011-10-29&g=2011-10-29).
+7. Ingeval het gastouderbureau redelijkerwijs mag vermoeden dat de in het vijfde lid bedoelde inspanningen van de gastouder tekortschieten, stelt het gastouderbureau de ouder daarvan onverwijld in kennis en bevordert het gastouderbureau dat de ouder gebruik kan maken van de diensten van een gastouder die gastouderopvang aanbiedt die naar het oordeel van het gastouderbureau naar verwachting voor 1 september van de in het eerste lid bedoelde kalenderjaar zal plaatsvinden in overeenstemming met het bepaalde bij of krachtens de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&z=2012-01-01&g=2012-01-01) en [3 van afdeling 3 van hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=3&z=2012-01-01&g=2012-01-01).
 
-8. Indien de gastouder uiterlijk op 31 december van het in het eerste lid bedoelde kalenderjaar niet is ingeschreven in het register kinderopvang, bedoeld in [artikel 1.47a](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.47a&z=2011-10-29&g=2011-10-29), is de ouder aan het gastouderbureau geen uitvoeringskosten verschuldigd.
+8. Indien de gastouder uiterlijk op 31 december van het in het eerste lid bedoelde kalenderjaar niet is ingeschreven in het register kinderopvang, bedoeld in [artikel 1.47a](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.47a&z=2012-01-01&g=2012-01-01), is de ouder aan het gastouderbureau geen uitvoeringskosten verschuldigd.
 
 9. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de toepassing van dit artikel.
 
 ##### Artikel 3.4
 
-1. Een aanvraag als bedoeld in [artikel 1.45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.45&z=2011-10-29&g=2011-10-29), die is gedaan ten hoogste twee maanden voorafgaande aan de inwerkingtreding van [artikel I, onderdelen B en G, van de wet van 18 juli 2009 tot wijziging van de Wet kinderopvang in verband met een herziening van het stelsel van gastouderopvang (Stb. 345)](https://wetten.overheid.nl/jci1.3:c:BWBR0026299&artikel=I), geldt als aanvraag gedaan op de eerste dag van inwerkingtreding van dat [artikel I, onderdelen B en G](https://wetten.overheid.nl/jci1.3:c:BWBR0026299&artikel=I).
+1. Een aanvraag als bedoeld in [artikel 1.45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.45&z=2012-01-01&g=2012-01-01), die is gedaan ten hoogste twee maanden voorafgaande aan de inwerkingtreding van [artikel I, onderdelen B en G, van de wet van 18 juli 2009 tot wijziging van de Wet kinderopvang in verband met een herziening van het stelsel van gastouderopvang (Stb. 345)](https://wetten.overheid.nl/jci1.3:c:BWBR0026299&artikel=I), geldt als aanvraag gedaan op de eerste dag van inwerkingtreding van dat [artikel I, onderdelen B en G](https://wetten.overheid.nl/jci1.3:c:BWBR0026299&artikel=I).
 
-2. Een oordeel van de toezichthouder als bedoeld in [artikel 1.63](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=1&artikel=1.63&z=2011-10-29&g=2011-10-29), inhoudende dat de exploitatie van een voorziening voor gastouderopvang redelijkerwijs zal plaatsvinden in overeenstemming met het bepaalde bij of krachtens de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&z=2011-10-29&g=2011-10-29) en [3 van afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=3&z=2011-10-29&g=2011-10-29) van deze wet zoals luidend na inwerkingtreding van de [in het eerste lid genoemde wijzigingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0026299), dat is gegeven ten hoogste twee maanden voorafgaande aan de inwerkingtreding van genoemd [artikel I, onderdelen B en G](https://wetten.overheid.nl/jci1.3:c:BWBR0026299&artikel=I), geldt als oordeel gegeven op de eerste dag van laatstbedoeld tijdstip van inwerkingtreding.
+2. Een oordeel van de toezichthouder als bedoeld in [artikel 1.63](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=4&paragraaf=1&artikel=1.63&z=2012-01-01&g=2012-01-01), inhoudende dat de exploitatie van een voorziening voor gastouderopvang redelijkerwijs zal plaatsvinden in overeenstemming met het bepaalde bij of krachtens de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&z=2012-01-01&g=2012-01-01) en [3 van afdeling 3 van hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=3&z=2012-01-01&g=2012-01-01) van deze wet zoals luidend na inwerkingtreding van de [in het eerste lid genoemde wijzigingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0026299), dat is gegeven ten hoogste twee maanden voorafgaande aan de inwerkingtreding van genoemd [artikel I, onderdelen B en G](https://wetten.overheid.nl/jci1.3:c:BWBR0026299&artikel=I), geldt als oordeel gegeven op de eerste dag van laatstbedoeld tijdstip van inwerkingtreding.
 
 ##### Artikel 3.5
 
 1. Onze Minister zendt in overeenstemming met Onze Minister van Financiën binnen acht maanden na het tijdstip van inwerkingtreding van [artikel I, onderdelen B en G van de in het tweede lid genoemde wijzigingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0026299&artikel=I) aan de Staten-Generaal een verslag over de voortgang van de vulling van het register kinderopvang.
 
-2. Aan het bepaalde in de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2011-10-29&g=2011-10-29), [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2011-10-29&g=2011-10-29) en [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=3&paragraaf=1&artikel=3.4&z=2011-10-29&g=2011-10-29) kan bij ministeriële regeling met het oog op een goede invoering van de [wet van 18 juli 2009 tot wijziging van de Wet kinderopvang in verband met een herziening van het stelsel van gastouderopvang (Stb. 345)](https://wetten.overheid.nl/jci1.3:c:BWBR0026299) in het eerste kalenderjaar waarop deze wet betrekking heeft, zo nodig een andere uitvoering worden gegeven.
+2. Aan het bepaalde in de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2012-01-01&g=2012-01-01), [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2012-01-01&g=2012-01-01) en [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=3&paragraaf=1&artikel=3.4&z=2012-01-01&g=2012-01-01) kan bij ministeriële regeling met het oog op een goede invoering van de [wet van 18 juli 2009 tot wijziging van de Wet kinderopvang in verband met een herziening van het stelsel van gastouderopvang (Stb. 345)](https://wetten.overheid.nl/jci1.3:c:BWBR0026299) in het eerste kalenderjaar waarop deze wet betrekking heeft, zo nodig een andere uitvoering worden gegeven.
 
 ##### Artikel 3.6
 
-De [artikelen 3.1 tot en met 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2011-10-29&g=2011-10-29) vervallen drie jaar na inwerkingtreding van de [wet van 18 juli 2009 tot wijziging van de Wet kinderopvang in verband met een herziening van het stelsel van gastouderopvang (Stb. 345)](https://wetten.overheid.nl/jci1.3:c:BWBR0026299).
+De [artikelen 3.1 tot en met 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2012-01-01&g=2012-01-01) vervallen drie jaar na inwerkingtreding van de [wet van 18 juli 2009 tot wijziging van de Wet kinderopvang in verband met een herziening van het stelsel van gastouderopvang (Stb. 345)](https://wetten.overheid.nl/jci1.3:c:BWBR0026299).
 
 ##### Artikel 3.7
 
-1. [Afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&z=2011-10-29&g=2011-10-29) en [artikel 1.86](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=5&paragraaf=2&artikel=1.86&z=2011-10-29&g=2011-10-29) zijn gedurende ten hoogste zes maanden na het tijdstip van hun inwerkingtreding niet van toepassing op een ouder als bedoeld in artikel 6, eerste lid, onder h en i, die gebruik maakt van kinderopvang die door het Uitvoeringsinstituut werknemersverzekeringen ten behoeve van die ouder is bekostigd op grond een vóór het tijdstip van inwerkingtreding van deze wet gesloten schriftelijke overeenkomst als bedoeld in [artikel 74, eerste lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=74) respectievelijk [artikel 22a, eerste lid, van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=22a).
+1. [Afdeling 2 van hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&z=2012-01-01&g=2012-01-01) en [artikel 1.86](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=5&paragraaf=2&artikel=1.86&z=2012-01-01&g=2012-01-01) zijn gedurende ten hoogste zes maanden na het tijdstip van hun inwerkingtreding niet van toepassing op een ouder als bedoeld in [artikel 1.6, eerste lid, onder h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2012-01-01&g=2012-01-01), die gebruik maakt van kinderopvang die door het Uitvoeringsinstituut werknemersverzekeringen ten behoeve van die ouder is bekostigd op grond een vóór het tijdstip van inwerkingtreding van deze wet gesloten schriftelijke overeenkomst als bedoeld in [artikel 74, eerste lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=74) respectievelijk [artikel 22a, eerste lid, van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=22a).
 
 2. Op de financiering van kinderopvang, bedoeld in het eerste lid, blijven de [artikelen 74 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=74) onderscheidenlijk [22a](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=22a), [34 tot en met 37](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=34), [45 tot en met 47](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=45) en [53 van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=53), zoals deze artikelen luidden tot het tijdstip van inwerkingtreding van deze wet, van toepassing.
 
@@ -2565,7 +2597,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 3.11
 
-De voordracht voor een krachtens de [artikelen 1.7, tweede, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.7&z=2011-10-29&g=2011-10-29), [1.56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.56&z=2011-10-29&g=2011-10-29), en [1.56b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.56b&z=2011-10-29&g=2011-10-29), vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
+De voordracht voor een krachtens de [artikelen 1.7, tweede, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.7&z=2012-01-01&g=2012-01-01), [1.56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.56&z=2012-01-01&g=2012-01-01), en [1.56b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.56b&z=2012-01-01&g=2012-01-01), vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
 ##### Artikel 3.12
 
@@ -2577,11 +2609,11 @@ De voordracht voor een krachtens de [artikelen 1.7, tweede, vierde, vijfde en ze
 
 ##### Artikel 3.13
 
-Personen die op het tijdstip van inwerkingtreding van [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=2.2&z=2011-10-29&g=2011-10-29) werkzaam zijn bij een peuterspeelzaal, leggen aan de houder van een peuterspeelzaal binnen twee maanden na de inwerkingtreding van artikel 2.2 een verklaring over als bedoeld in [artikel 2.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=2.6&z=2011-10-29&g=2011-10-29).
+Personen die op het tijdstip van inwerkingtreding van [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=2.2&z=2012-01-01&g=2012-01-01) werkzaam zijn bij een peuterspeelzaal, leggen aan de houder van een peuterspeelzaal binnen twee maanden na de inwerkingtreding van artikel 2.2 een verklaring over als bedoeld in [artikel 2.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=2.6&z=2012-01-01&g=2012-01-01).
 
 ##### Artikel 3.14
 
-Indien er op het moment van inwerkingtreding van [afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&z=2011-10-29&g=2011-10-29) van deze wet een oudercommissie is, geldt de verplichting van [artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=2.16&z=2011-10-29&g=2011-10-29) voor een houder van een peuterspeelzaal die op het tijdstip van inwerkingtreding van afdeling 2 een peuterspeelzaal in stand houdt, eerst zes maanden na dat tijdstip.
+Indien er op het moment van inwerkingtreding van [afdeling 2 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&z=2012-01-01&g=2012-01-01) van deze wet een oudercommissie is, geldt de verplichting van [artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=2.16&z=2012-01-01&g=2012-01-01) voor een houder van een peuterspeelzaal die op het tijdstip van inwerkingtreding van [afdeling 2 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=2&afdeling=2&z=2012-01-01&g=2012-01-01) een peuterspeelzaal in stand houdt, eerst zes maanden na dat tijdstip.
 
 ##### Artikel 3.15
 
@@ -2592,5 +2624,69 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 #### Paragraaf 2. Wijziging van andere wet- en regelgeving
 
 #### Paragraaf 3. Slotbepalingen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 1.6a
+
+In afwijking van de [artikelen 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=1&artikel=1.5&z=2012-01-01&g=2012-01-01) en [1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1.6&z=2012-01-01&g=2012-01-01), heeft een ouder als bedoeld in artikel 1.6, eerste lid, onderdeel a, voor zover die ouder de arbeid verricht als gastouder, geen aanspraak op een kinderopvangtoeslag in de door hem of zijn partner te betalen kosten van gastouderopvang in een geregistreerde voorziening als bedoeld in artikel 1.5, eerste lid, onderdeel b.
+
+#### Paragraaf 3. Tegemoetkoming van de gemeente
+
+#### Paragraaf 4. Tegemoetkoming van het Uitvoeringsinstituut werknemersverzekeringen
+
+#### Paragraaf 6. Invordering
+
+#### Paragraaf 7. Overige bepalingen
+
+### Afdeling 3. Kwaliteit kindercentra, voorzieningen voor gastouderopvang en gastouderbureaus
+
+#### Paragraaf 1. Aanvraag en registratie
+
+#### Paragraaf 2. Eisen
+
+### Afdeling 4. Handhaving
+
+#### Paragraaf 1. Toezicht op de naleving
+
+### Afdeling 5. Opsporing en sancties
+
+#### Paragraaf 1. Opsporing
+
+#### Paragraaf 2. Bestuurlijke boeten
+
+### Afdeling 6. Experimenten
+
+### Hoofdstuk 2. Kwaliteitseisen peuterspeelzalen
+
+### Afdeling 1. Algemene bepalingen
+
+### Afdeling 2. Kwaliteit peuterspeelzalen
+
+#### Paragraaf 1. Aanvraag en registratie
+
+### Afdeling 3. Handhaving
+
+#### Paragraaf 1. Toezicht op de naleving
+
+#### Paragraaf 2. Gemeentelijk ingrijpen
+
+### Afdeling 4. Sancties
+
+### Afdeling 5. Experimenten
+
+### Hoofdstuk 3. Overgangs- en slotbepalingen
+
+#### Paragraaf 1. Overgangsbepalingen
+
+#### Paragraaf 2. Wijziging van andere wet- en regelgeving
+
+#### Paragraaf 3. Slotbepalingen
+
+##### Artikel 3.14a
+
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende paragrafen, artikelen of onderdelen daarvan verschillend kan worden gesteld.
+
+2. De [artikelen 1, onder b, 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0007414&artikel=1), [2, negende lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007414&artikel=2), [2a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007414&artikel=2a), en 3c, van de [Wet klachtrecht cliënten zorgsector](https://wetten.overheid.nl/jci1.3:c:BWBR0007414) vervallen op een bij koninklijk besluit te bepalen tijdstip.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
