@@ -4,7 +4,7 @@ identifier: "BWBR0024841"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-03-01"
-last_updated: "2009-01-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024841"
 soort: "AMvB"
@@ -62,17 +62,27 @@ In dit besluit wordt verstaan onder:
 
 - b. het register van fysiotherapeuten;
 
-- c. het register van verloskundigen.
+- c. het register van verloskundigen;
 
-2. De inschrijving van een ingeschrevene in een register, genoemd in het eerste lid, wordt doorgehaald indien na de in [artikel 8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) bedoelde datum een periode van vijf jaar is verstreken.
+- d. het register van artsen;
+
+- e. het register van tandartsen;
+
+- f. het register van apothekers;
+
+- g. het register van psychotherapeuten;
+
+- h. het register van gezondheidszorgpsychologen.
+
+2. De inschrijving in een register als bedoeld in het eerste lid, wordt doorgehaald indien na de desbetreffende in [artikel 8, tweede lid, onderdeel b of c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) bedoelde datum een periode van vijf jaren is verstreken.
 
 3. Uiterlijk zes maanden voor het verstrijken van de periode, genoemd in het tweede lid, stelt Onze Minister de geregistreerde schriftelijk op de hoogte van het naderen van het einde van deze periode. Hierbij wordt de geregistreerde erop attent gemaakt dat diens registratie in het register zal worden doorgehaald, indien voor het verstrijken van de periode, genoemd in het tweede lid, in het register geen aantekening wordt gemaakt als bedoeld in [artikel 8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8).
 
-4. Personen van wie de registratie in het register is doorgehaald vanwege het niet voldoen aan de eisen, genoemd in [artikel 8, tweede lid, onderdelen b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8), en die daaruit niet zijn verwijderd op grond van de [artikelen 7, onderdelen c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=7), of [42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=42), en die niet zijn geschorst op grond van [artikel 48, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=48), mogen hun gewezen titel onder de toevoeging van «niet praktiserend» blijven gebruiken.
+4. Personen van wie de registratie in het register is doorgehaald vanwege het niet voldoen aan de eisen, genoemd in [artikel 8, tweede lid, onderdelen b of c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) en die daaruit niet zijn verwijderd op grond van de [artikelen 7, onderdelen c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=7), of [42, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=42) en die niet zijn geschorst op grond van [artikel 48, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=48) mogen hun gewezen titel onder de toevoeging van «niet praktiserend» blijven gebruiken.
 
 ##### Artikel 3
 
-1. De in [artikel 8, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) bedoelde werkzaamheden worden in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024841&artikel=2&z=2009-01-01&g=2009-01-01) bedoelde periode verricht gedurende minimaal 2080 uren, waarbij de werkzaamheden maximaal voor een periode van twee aaneengesloten jaren kunnen worden onderbroken. Indien de werkzaamheden langer dan twee jaren worden onderbroken, worden de werkzaamheden die zijn verricht voor de onderbreking niet meegeteld bij de vaststelling van het aantal gewerkte uren.
+1. De in [artikel 8, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) bedoelde werkzaamheden worden in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024841&artikel=2&z=2012-01-01&g=2012-01-01) bedoelde periode verricht gedurende minimaal 2080 uren, waarbij de werkzaamheden maximaal voor een periode van twee aaneengesloten jaren kunnen worden onderbroken. In afwijking van de eerste volzin, geldt voor de ingeschrevenen in een register als bedoeld in artikel 2, eerste lid, onder g of h, een periode van minimaal 3120 uren. Indien de werkzaamheden langer dan twee jaren worden onderbroken, worden de werkzaamheden die zijn verricht voor de onderbreking niet meegeteld bij de vaststelling van het aantal gewerkte uren.
 
 2. Bij ministeriële regeling worden nadere regels gesteld inzake de werkzaamheden die meetellen bij de berekening van het aantal uren waarbinnen werkzaamheden zijn verricht op het terrein van het desbetreffende beroep.
 
@@ -112,9 +122,9 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4
 
-1. Voor de aanvraag tot opneming van een aantekening in het register van de datum, bedoeld in [artikel 8, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) stelt Onze Minister een formulier beschikbaar, dat in ieder geval rubrieken bevat voor de naam, de geboortedatum en het woon- en werkadres van de aanvrager, het nummer van de registratie in het register, en rubrieken voor gegevens over de onderwijsinstelling waar scholing is gevolgd.
+1. Voor de aanvraag tot opneming van een aantekening in het register van de datum, bedoeld in [artikel 8, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8), stelt Onze Minister een formulier beschikbaar, dat in ieder geval rubrieken bevat voor de naam, de geboortedatum en het woon- en werkadres van de aanvrager, het nummer van de registratie in het register, en rubrieken voor gegevens over de onderwijsinstelling waar scholing is gevolgd.
 
-2. Bij de indiening van een aanvraag als bedoeld in het eerste lid wordt het in het eerste lid bedoelde formulier overgelegd dat door de aanvrager is ingevuld en ondertekend alsmede het certificaat waaruit blijkt dat betrokkene met goed gevolg de bij ministeriële regeling voorgeschreven scholing heeft afgerond.
+2. Bij de indiening van een aanvraag als bedoeld in het eerste lid wordt het in het eerste lid bedoelde formulier overgelegd dat door de aanvrager is ingevuld en ondertekend alsmede het getuigschrift waaruit blijkt dat betrokkene met goed gevolg de bij ministeriële regeling voorgeschreven scholing ter zake heeft afgerond.
 
 ##### Artikel 5
 
