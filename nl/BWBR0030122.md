@@ -4,7 +4,7 @@ identifier: "BWBR0030122"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-01-01"
-last_updated: "2011-07-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030122"
 soort: "ministeriele-regeling"
@@ -126,22 +126,22 @@ Wijzigt de Uitvoeringsregeling Belastingwet BES.
 
 1. Deze regeling treedt in werking met ingang van 1 juli 2011, met dien verstande dat:
 
-- a. [artikel XII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=XII&z=2011-07-01&g=2011-07-01), terugwerkt tot en met 1 januari 2003;
+- a. [artikel XII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=XII&z=2012-01-01&g=2012-01-01), terugwerkt tot en met 1 januari 2003;
 
-- b. [artikel XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=XIII&z=2011-07-01&g=2011-07-01) terugwerkt tot en met 1 juli 2009;
+- b. [artikel XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=XIII&z=2012-01-01&g=2012-01-01) terugwerkt tot en met 1 juli 2009;
 
-- c. [artikel XII, onderdelen B en E](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=XII&z=2011-07-01&g=2011-07-01), terugwerkt tot en met 1 november 2009;
+- c. [artikel XII, onderdelen B en E](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=XII&z=2012-01-01&g=2012-01-01), terugwerkt tot en met 1 november 2009;
 
-- d. [artikel XII, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=XII&z=2011-07-01&g=2011-07-01), terugwerkt tot en met 1 januari 2010;
+- d. [artikel XII, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=XII&z=2012-01-01&g=2012-01-01), terugwerkt tot en met 1 januari 2010;
 
-- e. [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=II&z=2011-07-01&g=2011-07-01) terugwerkt tot en met 1 december 2010;
+- e. [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=II&z=2012-01-01&g=2012-01-01) terugwerkt tot en met 1 december 2010;
 
-- f. de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=I&z=2011-07-01&g=2011-07-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=III&z=2011-07-01&g=2011-07-01), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=IV&z=2011-07-01&g=2011-07-01), [XV, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=XV&z=2011-07-01&g=2011-07-01), [XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=XVI&z=2011-07-01&g=2011-07-01), [XVII, onderdelen A, onder 7, en F, onder 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=XVII&z=2011-07-01&g=2011-07-01), terugwerken tot en met 1 januari 2011;
+- f. de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=I&z=2012-01-01&g=2012-01-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=III&z=2012-01-01&g=2012-01-01), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=IV&z=2012-01-01&g=2012-01-01), [XV, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=XV&z=2012-01-01&g=2012-01-01), [XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=XVI&z=2012-01-01&g=2012-01-01), [XVII, onderdelen A, onder 7, en F, onder 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=XVII&z=2012-01-01&g=2012-01-01), terugwerken tot en met 1 januari 2011;
 
-- g. [artikel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=XVIII&z=2011-07-01&g=2011-07-01) terugwerkt tot en met 3 maart 2011;
+- g. [artikel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=XVIII&z=2012-01-01&g=2012-01-01) terugwerkt tot en met 3 maart 2011;
 
-- h. de [artikelen XVII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=XVII&z=2011-07-01&g=2011-07-01), en [XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=XIX&z=2011-07-01&g=2011-07-01), terugwerken tot en met 1 mei 2011.
+- h. de [artikelen XVII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=XVII&z=2012-01-01&g=2012-01-01), en [XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=XIX&z=2012-01-01&g=2012-01-01), terugwerken tot en met 1 mei 2011.
 
-2. In afwijking van het eerste lid treedt [artikel XI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=XI&z=2011-07-01&g=2011-07-01), in werking met ingang van 1 januari 2012.
+2. In afwijking van het eerste lid treedt [artikel XI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0030122&artikel=XI&z=2012-01-01&g=2012-01-01), in werking met ingang van 1 januari 2012.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
