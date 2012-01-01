@@ -4,7 +4,7 @@ identifier: "BWBR0030586"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-01-01"
-last_updated: "2011-11-02"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030586"
 soort: "ministeriele-regeling"
@@ -76,7 +76,9 @@ Dit hoofdstuk is van toepassing op zorg of diensten als omschreven bij of kracht
 
 ##### Artikel 4. garantie kapitaallasten na transitiemodel
 
-Dit onderdeel is nog niet inwerking getreden
+1. De overgangsregeling kapitaallasten blijft ongewijzigd van kracht en wordt separaat van het transitiemodel prestatiebekostiging toegepast.
+
+2. De zorgautoriteit voert de overgangsregeling kapitaallasten uit met inachtneming van de berekening van de vergoeding voor kapitaallasten die instellingen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030586&hoofdstuk=II&artikel=3&z=2012-01-01&g=2012-01-01) behouden na de vaststelling van het verrekenbedrag.
 
 ### Hoofdstuk III. Overgangsregeling kapitaallasten categorale instellingen
 
@@ -86,7 +88,7 @@ Dit hoofdstuk is van toepassing op zorg of dienst als omschreven bij of krachten
 
 ##### Artikel 6. garantieregeling kapitaallasten
 
-1. De zorgautoriteit voorziet erin dat de instellingen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030586&hoofdstuk=III&artikel=5&z=2011-11-02&g=2011-11-02) bij beëindiging van het systeem van budgetbekostiging gedurende een periode van 5 jaar, te rekenen met ingang van 2012, een in omvang afnemende garantie wordt geboden voor de kapitaallastenvergoeding die zij onder budgetbekostiging zouden hebben gehad.
+1. De zorgautoriteit voorziet erin dat de instellingen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030586&hoofdstuk=III&artikel=5&z=2012-01-01&g=2012-01-01) bij beëindiging van het systeem van budgetbekostiging gedurende een periode van 5 jaar, te rekenen met ingang van 2012, een in omvang afnemende garantie wordt geboden voor de kapitaallastenvergoeding die zij onder budgetbekostiging zouden hebben gehad.
 
 2. De garantie als bedoeld in het eerste lid is uitsluitend van toepassing op de kapitaallasten die betrekking hebben op investeringen die onder het bouwregime van de [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906) (toelating met bouw en vergunning), en diens voorganger de [Wet ziekenhuisvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0002753) (verklaring en vergunning), en de meldingsregeling inzake trekkingsrechten en instandhouding op grond van de wet en diens voorganger [Wet tarieven gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0003356), zijn gerealiseerd.
 
@@ -105,7 +107,7 @@ Dit hoofdstuk is van toepassing op zorg of dienst als omschreven bij of krachten
 
 ##### Artikel 7. toepassing garantie
 
-Bij het toepassen van de garantie als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030586&hoofdstuk=III&artikel=6&z=2011-11-02&g=2011-11-02) houdt de zorgautoriteit rekening met het volgende:
+Bij het toepassen van de garantie als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030586&hoofdstuk=III&artikel=6&z=2012-01-01&g=2012-01-01) houdt de zorgautoriteit rekening met het volgende:
 
 - a. een suppletie wordt toegekend als de kapitaallastenvergoeding onder het nieuwe bekostigingsregime lager is dan de genoemde garantiepercentages vermenigvuldigd met de kapitaallastenvergoeding onder de door de zorgautoriteit vastgestelde budgetsystematiek in het laatste jaar waarin deze budgetsystematiek wordt toegepast;
 
@@ -115,7 +117,9 @@ Bij het toepassen van de garantie als bedoeld in [artikel 6](https://wetten.over
 
 ##### Artikel 8. samenloop transitiemodel
 
-Dit onderdeel is nog niet inwerking getreden
+1. De overgangsregeling kapitaallasten als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030586&hoofdstuk=III&artikel=6&z=2012-01-01&g=2012-01-01) wordt separaat van het transitiemodel prestatiebekostiging voor de instellingen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030586&hoofdstuk=III&artikel=5&z=2012-01-01&g=2012-01-01) toegepast.
+
+2. De zorgautoriteit voert de overgangsregeling kapitaallasten als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030586&hoofdstuk=III&artikel=6&z=2012-01-01&g=2012-01-01) uit met inachtneming van de berekening van de vergoeding voor kapitaallasten die instellingen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030586&hoofdstuk=III&artikel=5&z=2012-01-01&g=2012-01-01) behouden nà de vaststelling en de verrekening van het verrekenbedrag.
 
 ##### Artikel 9. immateriële vaste activa
 
@@ -125,9 +129,9 @@ De zorgautoriteit voorziet er met betrekking tot de voor de in het budget opgeno
 
 ##### Artikel 10. afwikkeling overgangsregeling kapitaallasten
 
-1. Indien de som van de opbrengsten ten behoeve van de dekking van de kapitaallasten van de instellingen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030586&hoofdstuk=II&artikel=3&z=2011-11-02&g=2011-11-02) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0030586&hoofdstuk=III&artikel=5&z=2011-11-02&g=2011-11-02), uit de DOT systematiek, het verrekenbedrag en beschikbaarheidbijdragen naar het oordeel van de zorgautoriteit lager is dan het bedrag waar de desbetreffende instelling op grond van de voor die instellingen geldende overgangsregeling inzake kapitaallasten recht op heeft, wordt door de zorgautoriteit een bedrag per relevante zorgverzekeraar vastgesteld naar rato van het marktaandeel van de desbetreffende zorgverzekeraar per instelling. Onder DOT-systematiek in de eerste volzin wordt volstaan de som van de tarieven die met betrekking tot de zorg verleend door de instellingen, bedoeld in de artikelen 3 en 5, in rekening zijn gebracht of hadden kunnen worden gebracht met toepassing van de beleidsregels die gelden voor het desbetreffende jaar.
+1. Indien de som van de opbrengsten ten behoeve van de dekking van de kapitaallasten van de instellingen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030586&hoofdstuk=II&artikel=3&z=2012-01-01&g=2012-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0030586&hoofdstuk=III&artikel=5&z=2012-01-01&g=2012-01-01), uit de DOT systematiek, het verrekenbedrag en beschikbaarheidbijdragen naar het oordeel van de zorgautoriteit lager is dan het bedrag waar de desbetreffende instelling op grond van de voor die instellingen geldende overgangsregeling inzake kapitaallasten recht op heeft, wordt door de zorgautoriteit een bedrag per relevante zorgverzekeraar vastgesteld naar rato van het marktaandeel van de desbetreffende zorgverzekeraar per instelling. Onder DOT-systematiek in de eerste volzin wordt volstaan de som van de tarieven die met betrekking tot de zorg verleend door de instellingen, bedoeld in de artikelen 3 en 5, in rekening zijn gebracht of hadden kunnen worden gebracht met toepassing van de beleidsregels die gelden voor het desbetreffende jaar.
 
-2. Dit lid is nog niet in werking getreden.
+2. Het bepaalde in het eerste lid is niet van toepassing indien en voor zover bij of krachtens algemene maatregel van bestuur de toepassing van [artikel 56a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56a) voor de afwikkeling van het transitiemodel is toegestaan, daartoe op grond van [artikel 59, aanhef en onder e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59) een aanwijzing aan de zorgautoriteit is gegeven en de zorgautoriteit op grond van die aanwijzing met betrekking tot die afwikkeling beleidsregels heeft vastgesteld.
 
 ##### Artikel 11. citeertitel
 
@@ -135,11 +139,11 @@ Deze aanwijzing wordt aangehaald als: Aanwijzing kapitaallasten transitiemodel p
 
 ##### Artikel 12. inwerkingtreding
 
-1. Met uitzondering van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030586&hoofdstuk=II&artikel=4&z=2011-11-02&g=2011-11-02), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0030586&hoofdstuk=III&artikel=8&z=2011-11-02&g=2011-11-02) en [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030586&hoofdstuk=IV&artikel=10&z=2011-11-02&g=2011-11-02), treedt deze aanwijzing terstond in werking.
+1. Met uitzondering van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030586&hoofdstuk=II&artikel=4&z=2012-01-01&g=2012-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0030586&hoofdstuk=III&artikel=8&z=2012-01-01&g=2012-01-01) en [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030586&hoofdstuk=IV&artikel=10&z=2012-01-01&g=2012-01-01), treedt deze aanwijzing terstond in werking.
 
-2. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030586&hoofdstuk=II&artikel=4&z=2011-11-02&g=2011-11-02) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0030586&hoofdstuk=III&artikel=8&z=2011-11-02&g=2011-11-02) treden in werking nadat het bij koninklijk besluit op 25 mei 2010 aan de Tweede Kamer der Staten-Generaal aangeboden voorstel van wet houdende wijziging van de Wet marktordening gezondheidszorg en enkele andere wetten in verband met de aanvulling met instrumenten voor bekostiging tot wet is verheven en in werking is getreden.
+2. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030586&hoofdstuk=II&artikel=4&z=2012-01-01&g=2012-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0030586&hoofdstuk=III&artikel=8&z=2012-01-01&g=2012-01-01) treden in werking nadat het bij koninklijk besluit op 25 mei 2010 aan de Tweede Kamer der Staten-Generaal aangeboden voorstel van wet houdende wijziging van de Wet marktordening gezondheidszorg en enkele andere wetten in verband met de aanvulling met instrumenten voor bekostiging tot wet is verheven en in werking is getreden.
 
-3. [Artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030586&hoofdstuk=IV&artikel=10&z=2011-11-02&g=2011-11-02), van deze aanwijzing treedt in werking nadat het bij koninklijk besluit op 25 mei 2010 aan de Tweede Kamer der Staten-Generaal aangeboden voorstel van wet houdende wijziging van de Wet marktordening gezondheidszorg en enkele andere wetten in verband met de aanvulling met instrumenten voor bekostiging tot wet is verheven en in werking is getreden, indien en voor zover bij of krachtens algemene maatregel van bestuur de toepassing van [artikel 56a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56a) voor de afwikkeling van het transitiemodel is toegestaan en daartoe op grond van [artikel 59, aanhef en onder e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59) een aanwijzing aan de zorgautoriteit is gegeven.
+3. [Artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030586&hoofdstuk=IV&artikel=10&z=2012-01-01&g=2012-01-01), van deze aanwijzing treedt in werking nadat het bij koninklijk besluit op 25 mei 2010 aan de Tweede Kamer der Staten-Generaal aangeboden voorstel van wet houdende wijziging van de Wet marktordening gezondheidszorg en enkele andere wetten in verband met de aanvulling met instrumenten voor bekostiging tot wet is verheven en in werking is getreden, indien en voor zover bij of krachtens algemene maatregel van bestuur de toepassing van [artikel 56a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56a) voor de afwikkeling van het transitiemodel is toegestaan en daartoe op grond van [artikel 59, aanhef en onder e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59) een aanwijzing aan de zorgautoriteit is gegeven.
 
 ##### Artikel 13. publicatie
 
