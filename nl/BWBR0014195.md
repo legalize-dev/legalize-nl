@@ -4,7 +4,7 @@ identifier: "BWBR0014195"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2002-11-22"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014195"
 soort: "wet"
@@ -54,7 +54,7 @@ Wijzigt het Burgerlijk Wetboek.
 
 2. Een beding in strijd met het eerste lid is nietig.
 
-3. De Commissie gelijke behandeling, genoemd in [artikel 11 van de Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=11), kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in het eerste lid. De [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=15), [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=20), en [33 van de Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=33) zijn van overeenkomstige toepassing.
+3. De Commissie gelijke behandeling, genoemd in [artikel 11 van de Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=11), kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in het eerste lid. De [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=14), en [15 van de Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=15) zijn van overeenkomstige toepassing.
 
 4. Het bepaalde in de leden 1 tot en met 3 is niet van toepassing op een uitzendovereenkomst als bedoeld in [artikel 690 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=690).
 
