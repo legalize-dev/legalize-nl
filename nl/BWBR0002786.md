@@ -4,7 +4,7 @@ identifier: "BWBR0002786"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2011-01-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002786"
 soort: "AMvB"
@@ -46,7 +46,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Dit besluit geeft uitvoering aan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=5), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=9), [14c](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14c) en [29 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=29).
+1. Dit besluit geeft uitvoering aan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=5), [14c](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14c) en [29 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=29).
 
 2. Dit besluit verstaat onder wet: de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672).
 
@@ -84,15 +84,11 @@ Een in [artikel 5, eerste lid, onderdeel d, van de wet](https://wetten.overheid.
 
 ##### Artikel 7a
 
-Een lichaam dat voldoet aan de voorwaarden gesteld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002786&artikel=5&z=2011-01-01&g=2011-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002786&artikel=6&z=2011-01-01&g=2011-01-01) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002786&artikel=7&z=2011-01-01&g=2011-01-01) is in afwijking van de genoemde artikelen niet van de belasting vrijgesteld, indien het lichaam dit bij het indienen van de aangifte over het jaar verzoekt.
+Een lichaam dat voldoet aan de voorwaarden gesteld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002786&artikel=5&z=2012-01-01&g=2012-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002786&artikel=6&z=2012-01-01&g=2012-01-01) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002786&artikel=7&z=2012-01-01&g=2012-01-01) is in afwijking van de genoemde artikelen niet van de belasting vrijgesteld, indien het lichaam dit bij het indienen van de aangifte over het jaar verzoekt.
 
 ##### Artikel 7aa
 
-1. De uitkeringen, bedoeld in [artikel 9, eerste lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=9) komen slechts in aftrek indien deze zijn gedaan uiterlijk zes maanden na afloop van het boekjaar waarin de daarvoor bestemde gelden zijn verkregen.
-
-2. De uitkeringen, bedoeld in het eerste lid, worden op verzoek reeds in aanmerking genomen in het boekjaar waarin de daarvoor bestemde gelden zijn verkregen.
-
-3. De kosten, bedoeld in [artikel 9, eerste lid, onderdeel i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=9) komen slechts in aftrek indien het lichaam deze in zijn administratie heeft gespecificeerd naar de in dat onderdeel bedoelde personen onder opgave van hun naam, adres, woonplaats en de daadwerkelijk aan hen verstrekte beloningen.
+Vervallen
 
 ##### Artikel 7ab
 
