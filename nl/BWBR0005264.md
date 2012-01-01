@@ -4,7 +4,7 @@ identifier: "BWBR0005264"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2026-01-01"
-last_updated: "2011-01-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005264"
 soort: "rijksKB"
@@ -76,33 +76,33 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Een gemeente is aan het Rijk de in[artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=3&artikel=6&z=2011-01-01&g=2011-01-01), eerste lid, vastgelegde kosten verschuldigd in verband met door de leverancier geleverde reisdocumenten en door de leverancier verrichte spoedleveringen. Van een spoedlevering als bedoeld in dit artikel is sprake, indien naar aanleiding van een daartoe vanuit de gemeente verstrekte opdracht, die de leverancier op werkdagen vóór 16.00 uur heeft bereikt, een gepersonaliseerd reisdocument of een bijschrijvingssticker de daarop volgende werkdag uiterlijk 16.00 uur is afgeleverd bij de in de aanvraag opgegeven uitgiftelocatie.
+1. Een gemeente is aan het Rijk de in[artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=3&artikel=6&z=2012-01-01&g=2012-01-01), eerste lid, vastgelegde kosten verschuldigd in verband met door de leverancier geleverde reisdocumenten en door de leverancier verrichte spoedleveringen. Van een spoedlevering als bedoeld in dit artikel is sprake, indien naar aanleiding van een daartoe vanuit de gemeente verstrekte opdracht, die de leverancier op werkdagen vóór 16.00 uur heeft bereikt, een gepersonaliseerd reisdocument of een bijschrijvingssticker de daarop volgende werkdag uiterlijk 16.00 uur is afgeleverd bij de in de aanvraag opgegeven uitgiftelocatie.
 
 2. De in het eerste lid bedoelde kosten zijn niet dan wel gedeeltelijk verschuldigd naar rato van de aan de aanvrager verleende kwijtschelding van de rechten, die op grond van de toepasselijke gemeentelijke verordening voor de desbetreffende handeling geheven kunnen worden, indien de kwijtschelding is verleend overeenkomstig de krachtens [artikel 255, tweede lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=255) gestelde regels.
 
-3. De in [artikel 6, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=3&artikel=6&z=2011-01-01&g=2011-01-01), vastgelegde kosten zijn niet verschuldigd in verband met de levering van een reisdocument ter vervanging van een eerder geleverd reisdocument, indien:
+3. De in [artikel 6, eerste lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=3&artikel=6&z=2012-01-01&g=2012-01-01), vastgelegde kosten zijn niet verschuldigd in verband met de levering van een reisdocument ter vervanging van een eerder geleverd reisdocument, indien:
 
 - a. het eerder geleverde reisdocument door toedoen van de leverancier niet op de juiste wijze was vervaardigd, of
 
-- b. bij de uitreiking van het eerder geleverde reisdocument een verificatie van de vingerafdrukken heeft plaatsgevonden en bij deze verificatie anders dan door toedoen van de aanvrager niet kon worden vastgesteld dat diens vingerafdrukken overeenkomen met de vingerafdrukken, opgenomen in het reisdocument. In laatstgenoemde situatie wordt het verschil tussen het toepasselijke bedrag, genoemd in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=3&artikel=6&z=2011-01-01&g=2011-01-01), en het toepasselijke bedrag, genoemd in artikel 6, tweede lid, gerestitueerd aan de betreffende gemeente.
+- b. bij de uitreiking van het eerder geleverde reisdocument een verificatie van de vingerafdrukken heeft plaatsgevonden en bij deze verificatie anders dan door toedoen van de aanvrager niet kon worden vastgesteld dat diens vingerafdrukken overeenkomen met de vingerafdrukken, opgenomen in het reisdocument. In laatstgenoemde situatie wordt het verschil tussen het toepasselijke bedrag, genoemd in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=3&artikel=6&z=2012-01-01&g=2012-01-01), en het toepasselijke bedrag, genoemd in artikel 6, tweede lid, gerestitueerd aan de betreffende gemeente.
 
-4. De in [artikel 6, eerste lid, onderdelen f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=3&artikel=6&z=2011-01-01&g=2011-01-01) vastgelegde kosten zijn niet verschuldigd, indien de spoedlevering door toedoen van de leverancier niet binnen de gestelde periode heeft plaatsgevonden, dan wel de met spoed geleverde reisdocumenten of bijschrijvingsstickers door toedoen van de leverancier niet op de juiste wijze blijken te zijn vervaardigd.
+4. De in [artikel 6, eerste lid, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=3&artikel=6&z=2012-01-01&g=2012-01-01) vastgelegde kosten zijn niet verschuldigd, indien de spoedlevering door toedoen van de leverancier niet binnen de gestelde periode heeft plaatsgevonden, dan wel de met spoed geleverde reisdocumenten of bijschrijvingsstickers door toedoen van de leverancier niet op de juiste wijze blijken te zijn vervaardigd.
 
 ##### Artikel 3
 
 1. Onze Minister stelt maandelijks het bedrag vast van de kosten die door een gemeente of een openbaar lichaam aan het Rijk moeten worden afgedragen. Deze vaststelling geschiedt:
 
-- a. voor een gemeente: aan de hand van de in de voorafgaande maand geleverde reisdocumenten en verrichte spoedleveringen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2&z=2011-01-01&g=2011-01-01), verminderd met de in de voorafgaande maand geleverde reisdocumenten, bedoeld in artikel 2, derde lid;
+- a. voor een gemeente: aan de hand van de in de voorafgaande maand geleverde reisdocumenten en verrichte spoedleveringen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2&z=2012-01-01&g=2012-01-01), verminderd met de in de voorafgaande maand geleverde reisdocumenten, bedoeld in artikel 2, derde lid;
 
-- b. voor een openbaar lichaam: aan de hand van de in de voorafgaande maand geleverde reisdocumenten, bedoeld in [artikel 2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2a&z=2011-01-01&g=2011-01-01), verminderd met de in de voorafgaande maand geleverde reisdocumenten, bedoeld in artikel 2a, derde lid.
+- b. voor een openbaar lichaam: aan de hand van de in de voorafgaande maand geleverde reisdocumenten, bedoeld in [artikel 2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2a&z=2012-01-01&g=2012-01-01), verminderd met de in de voorafgaande maand geleverde reisdocumenten, bedoeld in artikel 2a, derde lid.
 
 2. Onze Minister zendt voor het einde van elke kalendermaand een factuur aan de gemeente of het openbaar lichaam, waarin het bedrag van de overeenkomstig het eerste lid vastgestelde kosten die aan het Rijk moeten worden afgedragen, wordt vermeld.
 
 3. Onze Minister stelt het bedrag vast van de kosten die aan een gemeente of een openbaar lichaam worden gerestitueerd en maakt, tegelijk met het verzenden van de factuur, bedoeld in het tweede lid, schriftelijk aan de gemeente of het openbaar lichaam bekend welk bedrag wordt gerestitueerd en op welke wijze de betaling daarvan zal plaatsvinden. De vaststelling van het te restitueren bedrag geschiedt:
 
-- a. voor een gemeente op basis van de door de gemeente verstrekte afschriften van de beschikkingen, inhoudende gehele of gedeeltelijke kwijtschelding als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2&z=2011-01-01&g=2011-01-01), en de van de gemeente ontvangen en bij de leverancier geverifieerde mededelingen omtrent gevallen waarin een spoedlevering niet binnen de gestelde periode heeft plaatsgevonden dan wel de met spoed geleverde reisdocumenten of bijschrijvingsstickers niet op de juiste wijze blijken te zijn vervaardigd, als bedoeld in artikel 2, vierde lid;
+- a. voor een gemeente op basis van de door de gemeente verstrekte afschriften van de beschikkingen, inhoudende gehele of gedeeltelijke kwijtschelding als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2&z=2012-01-01&g=2012-01-01), en de van de gemeente ontvangen en bij de leverancier geverifieerde mededelingen omtrent gevallen waarin een spoedlevering niet binnen de gestelde periode heeft plaatsgevonden dan wel de met spoed geleverde reisdocumenten of bijschrijvingsstickers niet op de juiste wijze blijken te zijn vervaardigd, als bedoeld in artikel 2, vierde lid;
 
-- b. voor een openbaar lichaam op basis van de door het openbaar lichaam verstrekte afschriften van de beschikkingen, inhoudende gehele of gedeeltelijke kwijtschelding als bedoeld in [artikel 2a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2a&z=2011-01-01&g=2011-01-01).
+- b. voor een openbaar lichaam op basis van de door het openbaar lichaam verstrekte afschriften van de beschikkingen, inhoudende gehele of gedeeltelijke kwijtschelding als bedoeld in [artikel 2a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2a&z=2012-01-01&g=2012-01-01).
 
 4. De afdracht van de aan het Rijk verschuldigde kosten, bedoeld in het tweede lid, geschiedt:
 
@@ -116,13 +116,13 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4
 
-1. Aruba, Curaçao en Sint Maarten zijn aan het Rijk de in [artikel 6, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=3&artikel=6&z=2011-01-01&g=2011-01-01) vastgelegde kosten verschuldigd in verband met door de leverancier geleverde reisdocumenten, indien de aanvraag voor de desbetreffende handeling bij de ingevolge [artikel 26 van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=26) door de Gouverneur aangewezen autoriteit is ingediend.
+1. Aruba, Curaçao en Sint Maarten zijn aan het Rijk de in [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=3&artikel=6&z=2012-01-01&g=2012-01-01) vastgelegde kosten verschuldigd in verband met door de leverancier geleverde reisdocumenten, indien de aanvraag voor de desbetreffende handeling bij de ingevolge [artikel 26 van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=26) door de Gouverneur aangewezen autoriteit is ingediend.
 
-2. De in het eerste lid bedoelde kosten zijn niet verschuldigd in verband met de levering van een reisdocument, als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2&z=2011-01-01&g=2011-01-01).
+2. De in het eerste lid bedoelde kosten zijn niet verschuldigd in verband met de levering van een reisdocument, als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2&z=2012-01-01&g=2012-01-01).
 
 ##### Artikel 5
 
-1. De Gouverneur stelt maandelijks het bedrag vast van de kosten die door Aruba, Curaçao en Sint Maarten aan het Rijk moeten worden afgedragen. Deze vaststelling geschiedt aan de hand van de in de voorafgaande maand geleverde reisdocumenten, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=2&artikel=4&z=2011-01-01&g=2011-01-01), verminderd met de in de voorafgaande maand geleverde reisdocumenten, bedoeld in artikel 4, tweede lid en, indien het in [artikel 2, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2&z=2011-01-01&g=2011-01-01), bedoelde geval zich heeft voorgedaan, verminderd met een overeenkomstig bedrag, als bedoeld in artikel 2, derde lid, laatste volzin.
+1. De Gouverneur stelt maandelijks het bedrag vast van de kosten die door Aruba, Curaçao en Sint Maarten aan het Rijk moeten worden afgedragen. Deze vaststelling geschiedt aan de hand van de in de voorafgaande maand geleverde reisdocumenten, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=2&artikel=4&z=2012-01-01&g=2012-01-01), verminderd met de in de voorafgaande maand geleverde reisdocumenten, bedoeld in artikel 4, tweede lid en, indien het in [artikel 2, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2&z=2012-01-01&g=2012-01-01), bedoelde geval zich heeft voorgedaan, verminderd met een overeenkomstig bedrag, als bedoeld in artikel 2, derde lid, laatste volzin.
 
 2. De Gouverneur zendt voor het einde van elke kalendermaand een factuur aan Aruba, Curaçao en Sint Maarten, waarin het bedrag van de aan het Rijk af te dragen kosten in verband met de in de voorafgaande maand geleverde reisdocumenten, wordt vermeld.
 
@@ -136,105 +136,83 @@ In dit besluit wordt verstaan onder:
 
 1. De aan het Rijk verschuldigde kosten bedragen:
 
-- a. voor een nationaal paspoort, een reisdocument voor vluchtelingen of een reisdocument voor vreemdelingen
+- a. voor een nationaal paspoort, een reisdocument voor vluchtelingen, een reisdocument voor vreemdelingen, een nationaal paspoort dat een groter aantal bladzijden bevat (zakenpaspoort) of een reisdocument ten behoeve van een persoon die op grond van de [Wet betreffende de positie van Molukkers](https://wetten.overheid.nl/jci1.3:c:BWBR0003052) als Nederlander wordt behandeld (faciliteitenpaspoort)
 
-| € | 23,45 |
+| € | 19,60 |
 | --- | --- |
-| USD | 29,04 |
-| ANG | 52,00 |
-| AWG | 52,00; |
+| USD | 28,15 |
+| ANG | 50,40 |
+| AWG | 50,40; |
 
-- b. voor een nationaal paspoort dat een groter aantal bladzijden bevat dan een nationaal paspoort als bedoeld in onderdeel a (zakenpaspoort)
+- b. voor een Nederlandse identiteitskaart, ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van veertien jaar heeft bereikt
 
-| € | 29,56 |
-| --- | --- |
-| USD | 36,62 |
-| ANG | 65,55 |
-| AWG | 65,55; |
-
-- c. voor een reisdocument ten behoeve van een persoon die op grond van de [Wet betreffende de positie van Molukkers](https://wetten.overheid.nl/jci1.3:c:BWBR0003052) als Nederlander wordt behandeld (faciliteitenpaspoort)
-
-| € | 23,45 |
-| --- | --- |
-| USD | 29,04 |
-| ANG | 52,00 |
-| AWG | 52,00; |
-
-- d. voor een Nederlandse identiteitskaart
-
-| € | 18,15; |
+| € | 13,90; |
 | --- | --- |
 
-- e. voor een Nederlandse identiteitskaart, ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van veertien jaar nog niet heeft bereikt dan wel –/– € 44,05 indien de betreffende persoon ten behoeve van wie het document wordt verstrekt, niet als ingezetene is ingeschreven in de gemeentelijke basisadministratie persoonsgegevens en de aanvraag wordt gedaan bij een gemeente, aangewezen op grond van artikel 26, eerste lid, onder e, en artikel 40, eerste lid, onder e, van de Paspoortwet;
+- c. voor een Nederlandse identiteitskaart, ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van veertien jaar nog niet heeft bereikt dan wel –/– € 5,70, indien de persoon ten behoeve van wie het document wordt verstrekt, niet als ingezetene is ingeschreven in de gemeentelijke basisadministratie persoonsgegevens en de aanvraag wordt gedaan bij een gemeente, aangewezen op grond van [artikel 26, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=26), en [artikel 40, eerste lid, onder e, van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=40);
 
-| –/– € | 34,67, |
+| € | 3,85; |
 | --- | --- |
 
-- f. voor de spoedlevering van een reisdocument als bedoeld in de onderdelen a tot en met e, zijnde een toeslag op de in die onderdelen genoemde bedragen
+- d. voor de spoedlevering van een reisdocument als bedoeld in de onderdelen a tot en met c, zijnde een toeslag op de in die onderdelen genoemde bedragen
 
-| € | 45,00; |
+| € | 45,90; |
 | --- | --- |
 
-- g. voor de spoedlevering van een bijschrijvingssticker
+- e. voor de spoedlevering van een bijschrijvingssticker
 
-| € | 21,40. |
+| € | 21,83. |
 | --- | --- |
 
 2. De van de aanvrager op grond van de toepasselijke gemeentelijke verordening of eilandsverordening ten hoogste te heffen rechten bedragen:
 
-- a. voor een nationaal paspoort, een reisdocument voor vluchtelingen of een reisdocument voor vreemdelingen
+- a. voor een nationaal paspoort, een reisdocument voor vluchtelingen, een reisdocument voor vreemdelingen of een reisdocument ten behoeve van een persoon die op grond van de [Wet betreffende de positie van Molukkers](https://wetten.overheid.nl/jci1.3:c:BWBR0003052) als Nederlander wordt behandeld
 
-| € | 52,12 in een gemeentelijke verordening |
+| € | 48,73 in een gemeentelijke verordening |
 | --- | --- |
-| USD | 84,36 in een eilandsverordening; |
+| USD | 87,34 in een eilandsverordening; |
 
 - b. voor een nationaal paspoort dat een groter aantal bladzijden bevat dan een nationaal paspoort als bedoeld in onderdeel a (zakenpaspoort)
 
-| € | 58,23 in een gemeentelijke verordening |
+| € | 48,73 in een gemeentelijke verordening |
 | --- | --- |
-| USD | 111,73 in een eilandsverordening; |
+| USD | 108,52 in een eilandsverordening; |
 
-- c. voor een reisdocument ten behoeve van een persoon die op grond van de [Wet betreffende de positie van Molukkers](https://wetten.overheid.nl/jci1.3:c:BWBR0003052) van 9 september 1976 (Stb. 468) als Nederlander wordt behandeld (faciliteitenpaspoort)
+- c. voor een Nederlandse identiteitskaart
 
-| € | 52,12 in een gemeentelijke verordening |
-| --- | --- |
-| USD | 84,36 in een eilandsverordening; |
-
-- d. voor een Nederlandse identiteitskaart
-
-| € | 43,89; |
+| € | 40,05; |
 | --- | --- |
 
-- e. voor een Nederlandse identiteitskaart, ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van veertien jaar nog niet heeft bereikt
+- d. voor een Nederlandse identiteitskaart, ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van veertien jaar nog niet heeft bereikt
 
-| € | 9,22; |
+| € | 30,00; |
 | --- | --- |
 
-- f. voor de bijschrijving van een kind in een reisdocument, waarvoor de aanvraag tegelijk met de aanvraag van het desbetreffende reisdocument is ingediend
+- e. voor de bijschrijving van een kind in een reisdocument, waarvoor de aanvraag tegelijk met de aanvraag van het desbetreffende reisdocument is ingediend
 
-| € | 9,22 in een gemeentelijke verordening |
+| € | 9,37 in een gemeentelijke verordening |
 | --- | --- |
-| USD | 13,97 in een eilandsverordening; |
+| USD | 14,95 in een eilandsverordening; |
 
-- g. voor de bijschrijving van een kind in een reeds uitgereikt reisdocument, met behulp van een bijschrijvingssticker
+- f. voor de bijschrijving van een kind in een reeds uitgereikt reisdocument, met behulp van een bijschrijvingssticker
 
-| € | 21,52 in een gemeentelijke verordening |
+| € | 21,86 in een gemeentelijke verordening |
 | --- | --- |
-| USD | 22,35 in een eilandsverordening; |
+| USD | 23,91 in een eilandsverordening; |
 
-- h. voor de versnelde uitreiking van een reisdocument als bedoeld in de onderdelen a tot en met e, zijnde een toeslag op de in die onderdelen genoemde bedragen
+- g. voor de versnelde uitreiking van een reisdocument als bedoeld in de onderdelen a tot en met d, zijnde een toeslag op de in die onderdelen genoemde bedragen
 
-| € | 45,00; |
-| --- | --- |
-
-- i. voor de versnelde plaatsing van een bijschrijvingssticker als bedoeld in onderdeel g, zijnde een toeslag op het in dat onderdeel genoemde bedrag
-
-| € | 21,40. |
+| € | 45,90; |
 | --- | --- |
 
-3. In afwijking van het tweede lid gelden voor een aanvrager die niet als ingezetene is ingeschreven in de gemeentelijke basisadministratie persoonsgegevens en die een aanvraag doet bij een gemeente, aangewezen op grond van [artikel 26, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=26), en [artikel 40, eerste lid, onder e, van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=40), in plaats van de bedragen, genoemd in het tweede lid, onder a, b en d, als ten hoogste te heffen rechten de bedragen, genoemd in [artikel 12, eerste lid, onder a, c, respectievelijk e](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=III&paragraaf=3&artikel=12&z=2011-01-01&g=2011-01-01).
+- h. voor de versnelde plaatsing van een bijschrijvingssticker als bedoeld in onderdeel f, zijnde een toeslag op het in dat onderdeel genoemde bedrag
 
-4. De rechten, bedoeld in het tweede lid, onderdeel a tot en met e, en het derde lid, worden niet geheven in verband met de levering van een eerder geleverd reisdocument als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2&z=2011-01-01&g=2011-01-01), of [artikel 2a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2a&z=2011-01-01&g=2011-01-01).
+| € | 21,83. |
+| --- | --- |
+
+3. In afwijking van het tweede lid gelden voor een aanvrager die niet als ingezetene is ingeschreven in de gemeentelijke basisadministratie persoonsgegevens en die een aanvraag doet bij een gemeente, aangewezen op grond van [artikel 26, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=26), en [artikel 40, eerste lid, onder e, van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=40), in plaats van de bedragen, genoemd in het tweede lid, onder a, b en c, als ten hoogste te heffen rechten de bedragen, genoemd in [artikel 12, eerste lid, onder a, respectievelijk c](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=III&paragraaf=3&artikel=12&z=2012-01-01&g=2012-01-01).
+
+4. De rechten, bedoeld in het tweede lid, onderdeel a tot en met d, en het derde lid, worden niet geheven in verband met de levering van een eerder geleverd reisdocument als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2&z=2012-01-01&g=2012-01-01), of [artikel 2a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2a&z=2012-01-01&g=2012-01-01).
 
 ### Hoofdstuk III. Rechten, verschuldigd terzake van reisdocumenten
 
@@ -242,7 +220,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 7
 
-Bevoegd tot het heffen van de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=III&paragraaf=3&artikel=12&z=2011-01-01&g=2011-01-01) vastgelegde rechten, dan wel tot het verlenen van gehele of gedeeltelijke kwijtschelding daarvan zijn:
+Bevoegd tot het heffen van de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=III&paragraaf=3&artikel=12&z=2012-01-01&g=2012-01-01) vastgelegde rechten, dan wel tot het verlenen van gehele of gedeeltelijke kwijtschelding daarvan zijn:
 
 - a. in het Europese deel van Nederland: Onze Minister en de door hem daartoe aangewezen autoriteiten, voor zover de aanvraag niet bij een burgemeester is ingediend;
 
@@ -262,13 +240,13 @@ Met betrekking tot het verlenen van gehele of gedeeltelijke kwijtschelding zijn 
 
 ##### Artikel 10
 
-De vaststelling van de valuta waarin de betaling van de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=III&paragraaf=3&artikel=12&z=2011-01-01&g=2011-01-01) vastgelegde rechten in het buitenland plaatsvindt en de herleiding van deze rechten in de vastgestelde valuta geschieden overeenkomstig [artikel 6 van de Rijkswet op de consulaire tarieven](https://wetten.overheid.nl/jci1.3:c:BWBR0013618&artikel=6)
+De vaststelling van de valuta waarin de betaling van de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=III&paragraaf=3&artikel=12&z=2012-01-01&g=2012-01-01) vastgelegde rechten in het buitenland plaatsvindt en de herleiding van deze rechten in de vastgestelde valuta geschieden overeenkomstig [artikel 6 van de Rijkswet op de consulaire tarieven](https://wetten.overheid.nl/jci1.3:c:BWBR0013618&artikel=6)
 
 #### § 2. Heffing van rechten in de Nederlandse Antillen en Aruba
 
 ##### Artikel 11
 
-1. In Aruba, Curaçao en Sint Maarten vindt heffing dan wel kwijtschelding van de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=III&paragraaf=3&artikel=12&z=2011-01-01&g=2011-01-01) vastgelegde rechten plaats door of namens de Gouverneur, voor zover de aanvraag niet bij een ingevolge [artikel 26 van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=26) door de Gouverneur aangewezen autoriteit is ingediend.
+1. In Aruba, Curaçao en Sint Maarten vindt heffing dan wel kwijtschelding van de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=III&paragraaf=3&artikel=12&z=2012-01-01&g=2012-01-01) vastgelegde rechten plaats door of namens de Gouverneur, voor zover de aanvraag niet bij een ingevolge [artikel 26 van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=26) door de Gouverneur aangewezen autoriteit is ingediend.
 
 2. Aan de aanvrager in Aruba, Curaçao of Sint Maarten die niet in staat is anders dan met buitengewoon bezwaar de door hem aan het Rijk verschuldigde rechten geheel of gedeeltelijk te voldoen omdat hij geen of geringe betalingscapaciteit bezit, kan op zijn schriftelijk verzoek geheel of gedeeltelijk kwijtschelding van deze rechten worden verleend.
 
@@ -276,77 +254,63 @@ De vaststelling van de valuta waarin de betaling van de in [artikel 12](https://
 
 ##### Artikel 12
 
-- 1. De rechten die ten bate van het Rijk van een aanvrager kunnen worden geheven, bedragen:
+1. De rechten die ten bate van het Rijk van een aanvrager kunnen worden geheven, bedragen:
 
-- a. voor de verstrekking van een nationaal paspoort, een reisdocument voor vluchtelingen of een reisdocument voor vreemdelingen
+- a. voor de verstrekking van een nationaal paspoort, een reisdocument voor vluchtelingen, een reisdocument voor vreemdelingen, een nationaal paspoort dat een groter aantal bladzijden bevat (zakenpaspoort), een diplomatiek paspoort of een dienstpaspoort
 
-| € | 61,79 |
+| € | 58,55 |
 | --- | --- |
-| ANG | 137,00 |
-| AWG | 137,00; |
+| ANG | 150,50 |
+| AWG | 150,50; |
 
 - b. voor de verstrekking van een nationaal paspoort, een reisdocument voor vluchtelingen of een reisdocument voor vreemdelingen, ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van zestien jaren nog niet heeft bereikt
 
-| € | 45,74 |
+| € | 42,25 |
 | --- | --- |
-| ANG | 101,40 |
-| AWG | 101,40; |
+| ANG | 108,60 |
+| AWG | 108,60; |
 
-- c. voor de verstrekking van een nationaal paspoort dat een groter aantal bladzijden bevat dan een nationaal paspoort als bedoeld in onderdeel a (zakenpaspoort)
+- c. voor de verstrekking van een Nederlandse identiteitskaart
 
-| € | 67,95 |
-| --- | --- |
-| ANG | 150,65 |
-| AWG | 150,65; |
-
-- d. voor de verstrekking van een diplomatiek paspoort of een dienstpaspoort
-
-| € | 59,88 |
-| --- | --- |
-| ANG | 132,75 |
-| AWG | 132,75; |
-
-- e. voor de verstrekking van een Nederlandse identiteitskaart
-
-| € | 53,27; |
+| € | 49,60; |
 | --- | --- |
 
-- f. voor de verstrekking van een Nederlandse identiteitskaart, ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van veertien jaar nog niet heeft bereikt
+- d. voor de verstrekking van een Nederlandse identiteitskaart, ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van veertien jaar nog niet heeft bereikt
 
-| € | 9,22; |
+| € | 30,00; |
 | --- | --- |
 
-- g. voor de verstrekking van een noodpaspoort of een laissez passer
+- e. voor de verstrekking van een noodpaspoort of een laissez passer
 
-| € | 45,28 |
+| € | 46,00 |
 | --- | --- |
-| USD | 56,09 |
-| ANG | 100,40 |
-| AWG | 100,40. |
+| USD | 66,07 |
+| ANG | 118,25 |
+| AWG | 118,25; |
 
-- h. voor de bijschrijving van een kind in een reisdocument, waarvoor de aanvraag tegelijk met de aanvraag van het desbetreffende reisdocument is ingediend
+- f. voor de bijschrijving van een kind in een reisdocument, waarvoor de aanvraag tegelijk met de aanvraag van het desbetreffende reisdocument is ingediend
 
-| € | 9,22 |
+| € | 9,37 |
 | --- | --- |
-| ANG | 20,45 |
-| AWG | 20,45; |
+| ANG | 24,10 |
+| AWG | 24,10; |
 
-- i. voor de bijschrijving van een kind in een reeds uitgereikt reisdocument, met behulp van een bijschrijvingssticker
+- g. voor de bijschrijving van een kind in een reeds uitgereikt reisdocument, met behulp van een bijschrijvingssticker
 
-| € | 21,52 |
+| € | 21,86 |
 | --- | --- |
-| ANG | 47,70 |
-| AWG | 47,70. |
+| ANG | 56,20 |
+| AWG | 56,20. |
 
 2. De in het eerste lid genoemde rechten die door de aanvrager zijn voldaan, worden aan deze gerestitueerd indien de gevraagde handeling niet wordt verricht.
 
-3. De in het eerste lid genoemde rechten worden niet geheven, indien de verstrekking van het reisdocument onderscheidenlijk de bijschrijving of de wijziging plaatsvindt in verband met een ambtelijke fout of indien de verstrekking plaatsvindt in verband met de vervanging van een eerder geleverd document als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2&z=2011-01-01&g=2011-01-01), of [artikel 2a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2a&z=2011-01-01&g=2011-01-01).
+3. De in het eerste lid genoemde rechten worden niet geheven, indien de verstrekking van het reisdocument onderscheidenlijk de bijschrijving of de wijziging plaatsvindt in verband met een ambtelijke fout of indien de verstrekking plaatsvindt in verband met de vervanging van een eerder geleverd document als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2&z=2012-01-01&g=2012-01-01), of [artikel 2a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2a&z=2012-01-01&g=2012-01-01).
 
-4. Het in het eerste lid, onderdeel d, genoemde recht wordt niet geheven voor de verstrekking van diplomatieke paspoorten of dienstpaspoorten ten behoeve van personen die bij een Nederlandse vertegenwoordiging in het buitenland zijn tewerkgesteld, hun inwonende huwelijkspartner, geregistreerde partner of levenspartner als bedoeld in [artikel 2, tweede lid, van het Reglement Dienst Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0004052&artikel=2) en bij hen inwonende minderjarige kinderen.
+4. Het in het eerste lid, onderdeel a, genoemde recht wordt niet geheven voor de verstrekking van diplomatieke paspoorten of dienstpaspoorten ten behoeve van personen die bij een Nederlandse vertegenwoordiging in het buitenland zijn tewerkgesteld, hun inwonende huwelijkspartner, geregistreerde partner of levenspartner als bedoeld in [artikel 2, tweede lid, van het Reglement Dienst Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0004052&artikel=2) en bij hen inwonende minderjarige kinderen.
 
 ##### Artikel 13
 
-De in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=III&paragraaf=3&artikel=12&z=2011-01-01&g=2011-01-01) bedoelde rechten worden geheven bij wege van een mondelinge dan wel een gedagtekende schriftelijke kennisgeving.
+De in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=III&paragraaf=3&artikel=12&z=2012-01-01&g=2012-01-01) bedoelde rechten worden geheven bij wege van een mondelinge dan wel een gedagtekende schriftelijke kennisgeving.
 
 ### Hoofdstuk IV. Slotbepalingen
 
@@ -362,7 +326,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2a
 
-1. Een openbaar lichaam is aan het Rijk de in [artikel 6, eerste lid, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=3&artikel=6&z=2011-01-01&g=2011-01-01), vastgelegde kosten verschuldigd in verband met door de leverancier geleverde reisdocumenten.
+1. Een openbaar lichaam is aan het Rijk de in [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=3&artikel=6&z=2012-01-01&g=2012-01-01), vastgelegde kosten verschuldigd in verband met door de leverancier geleverde reisdocumenten.
 
 2. De in het eerste lid bedoelde kosten zijn niet dan wel gedeeltelijk verschuldigd naar rato van de aan de aanvrager verleende kwijtschelding van de rechten, die op grond van de toepasselijke eilandsverordening voor de desbetreffende handeling geheven kunnen worden, indien de kwijtschelding is verleend overeenkomstig de krachtens artikel 8.58, eerste lid, van de Belastingwet BES gestelde regels.
 
