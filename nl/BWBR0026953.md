@@ -4,7 +4,7 @@ identifier: "BWBR0026953"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-03-12"
-last_updated: "2009-12-22"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026953"
 soort: "ministeriele-regeling"
@@ -76,7 +76,9 @@ Het directoraat-generaal Rijkswaterstaat is, voor zover één en ander aan de Mi
 
 - d. de vergunningverlening en handhaving van wet- en regelgeving, voor zover dat niet uitdrukkelijk aan een ander onderdeel van het Ministerie van Verkeer en Waterstaat is opgedragen, verband houdende met de uitvoering van de taken genoemd in onderdeel a, waarvoor de Minister van Verkeer en Waterstaat bevoegd gezag is; en
 
-- e. de toetsing van de uitvoerbaarheid van plannen, regelingen en projectenvan andere bestuursorganen die gevolgen kunnen hebben voor de uitvoering van de taken genoemd in onderdeel a.
+- e. de toetsing van de uitvoerbaarheid van plannen, regelingen en projectenvan andere bestuursorganen die gevolgen kunnen hebben voor de uitvoering van de taken genoemd in onderdeel a;
+
+- f. de uitvoering van de [Belemmeringenwet Privaatrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001936) en de [onteigeningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001842).
 
 ##### Artikel 4
 
