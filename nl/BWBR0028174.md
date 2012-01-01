@@ -4,7 +4,7 @@ identifier: "BWBR0028174"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2012-01-01"
-last_updated: "2010-10-10"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028174"
 soort: "wet-BES"
@@ -63,7 +63,7 @@ Deze wet is niet van toepassing op de arbeidsovereenkomst van:
 
 ##### Artikel 2a
 
-1. Bij ministeriële regeling worden op schriftelijk verzoek van het bestuurscollege van het desbetreffende openbare lichaam Bonaire, Sint Eustatius of Saba bedrijfstakken aangewezen ten aanzien waarvan voor de beëindiging van de binnen die bedrijfstakken aangegane arbeidsovereenkomsten de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=3&z=2010-10-10&g=2010-10-10) en [4 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=4&z=2010-10-10&g=2010-10-10), al dan niet voor een bepaalde tijd, niet van toepassing zijn. Intrekking van de ministeriële regeling geschiedt eveneens op schriftelijk verzoek van het Bestuurscollege.
+1. Bij ministeriële regeling worden op schriftelijk verzoek van het bestuurscollege van het desbetreffende openbare lichaam Bonaire, Sint Eustatius of Saba bedrijfstakken aangewezen ten aanzien waarvan voor de beëindiging van de binnen die bedrijfstakken aangegane arbeidsovereenkomsten de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=3&z=2012-01-01&g=2012-01-01) en [4 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=4&z=2012-01-01&g=2012-01-01), al dan niet voor een bepaalde tijd, niet van toepassing zijn. Intrekking van de ministeriële regeling geschiedt eveneens op schriftelijk verzoek van het Bestuurscollege.
 
 2. Een bedrijfstak, bedoeld in het eerste lid, dient te zijn een bedrijfstak, die naar de aard van de ondernemings-activiteiten geclassificeerd kan worden in één van de volgende sectoren:
 
@@ -95,7 +95,7 @@ Deze wet is niet van toepassing op de arbeidsovereenkomst van:
 
 - n. internationale commerciële onderwijsinstituten.
 
-3. Bij ministeriële regeling worden op schriftelijk verzoek van het bestuurscollege van het desbetreffende openbare lichaam Bonaire, Sint Eustatius of Saba bedrijven aangewezen ten aanzien waarvan voor de beëindiging van de bij die bedrijven aangegane arbeidsovereenkomsten de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=3&z=2010-10-10&g=2010-10-10) en [4 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=4&z=2010-10-10&g=2010-10-10), al dan niet voor een bepaalde tijd, niet van toepassing zijn. Intrekking van de ministeriële regeling geschiedt eveneens op schriftelijk verzoek van het Bestuurscollege.
+3. Bij ministeriële regeling worden op schriftelijk verzoek van het bestuurscollege van het desbetreffende openbare lichaam Bonaire, Sint Eustatius of Saba bedrijven aangewezen ten aanzien waarvan voor de beëindiging van de bij die bedrijven aangegane arbeidsovereenkomsten de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=3&z=2012-01-01&g=2012-01-01) en [4 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=4&z=2012-01-01&g=2012-01-01), al dan niet voor een bepaalde tijd, niet van toepassing zijn. Intrekking van de ministeriële regeling geschiedt eveneens op schriftelijk verzoek van het Bestuurscollege.
 
 4. Een bedrijf, bedoeld in het derde lid, dient te zijn een bedrijf dat:
 
@@ -105,11 +105,11 @@ Deze wet is niet van toepassing op de arbeidsovereenkomst van:
 
 - c. door zijn vestiging op Bonaire, Sint Eustatius en Saba bijdraagt aan verbreding van de economische basis of diversificatie van de economie van Bonaire, Sint Eustatius en Saba, dan wel door zijn werkzaamheid na vestiging binnen de openbare lichamen Bonaire, Sint Eustatius en Saba een deviezengenerende werking zal hebben.
 
-5. Een bedrijf, waarop de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=3&z=2010-10-10&g=2010-10-10) en [4 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=4&z=2010-10-10&g=2010-10-10) ingevolge een ministeriële regeling, bedoeld in het eerste of derde lid, niet van toepassing zijn, is verplicht Onze Minister onverwijld schriftelijk in kennis te stellen van de beëindiging van een arbeidsovereenkomst, waarvoor hij zonder evenbedoelde ministeriële regeling toestemming van Onze Minister als bedoeld in artikel 4, nodig zou hebben.
+5. Een bedrijf, waarop de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=3&z=2012-01-01&g=2012-01-01) en [4 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=4&z=2012-01-01&g=2012-01-01) ingevolge een ministeriële regeling, bedoeld in het eerste of derde lid, niet van toepassing zijn, is verplicht Onze Minister onverwijld schriftelijk in kennis te stellen van de beëindiging van een arbeidsovereenkomst, waarvoor hij zonder evenbedoelde ministeriële regeling toestemming van Onze Minister als bedoeld in artikel 4, nodig zou hebben.
 
 ##### Artikel 3
 
-1. Bij regeling van Onze Minister wordt zoveel mogelijk voor elk openbaar lichaam afzonderlijk een commissie benoemd die tot taak heeft Onze Minister van advies te dienen met betrekking tot ieder bij hem ingediend verzoek om toestemming tot het beëindigen van een arbeidsovereenkomst.
+1. Bij regeling van Onze Minister wordt zoveel mogelijk voor elk openbaar lichaam afzonderlijk een commissie ingesteld die tot taak heeft Onze Minister van advies te dienen met betrekking tot ieder bij hem ingediend verzoek om toestemming tot het beëindigen van een arbeidsovereenkomst.
 
 2. Elke commissie bestaat uit een voorzitter en tenminste vier overige leden, alsmede hun plaatsvervangers.
 
@@ -121,7 +121,7 @@ Deze wet is niet van toepassing op de arbeidsovereenkomst van:
 
 ##### Artikel 4
 
-1. Het is de werkgever verboden de arbeidsovereenkomst te beëindigen zonder toestemming van Onze Minister dan wel in strijd met een voorwaarde waaronder de toestemming is gegeven.
+1. Het is de werkgever verboden de arbeidsovereenkomst te beëindigen door deze op te zeggen zonder toestemming van Onze Minister dan wel in strijd met een voorwaarde waaronder de toestemming is gegeven.
 
 2. Het verbod, bedoeld in het eerste lid, geldt niet:
 
@@ -135,17 +135,17 @@ Deze wet is niet van toepassing op de arbeidsovereenkomst van:
 
 - e. indien de beëindiging betrekking heeft op een al dan niet voortgezette arbeidsovereenkomst voor bepaalde tijd en die beëindiging plaatsvindt tegen de in die overeenkomst opgenomen einddatum, tenzij het een arbeidsovereenkomst voor bepaalde tijd betreft, als bedoeld in artikel [1615e van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1615e).
 
-3. Onze Minister besluit binnen twee weken na ontvangst van het advies van de commissie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=3&z=2010-10-10&g=2010-10-10), doch in ieder geval binnen zes weken na ontvangst van het verzoek om toestemming tot het beëindigen van de arbeidsovereenkomst.
+3. Onze Minister besluit binnen twee weken na ontvangst van het advies van de commissie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=3&z=2012-01-01&g=2012-01-01), doch in ieder geval binnen acht weken na ontvangst van het verzoek tot toestemming tot het beëindigen van de arbeidsovereenkomst. De termijn van acht weken kan worden verlengd indien bijzondere omstandigheden dit noodzakelijk maken.
 
 4. Het verzoek om toestemming tot het beëindigen van een arbeidsovereenkomst wordt gedaan aan Onze Minister. Het verzoek wordt geacht niet te zijn gedaan, zolang de vereiste gegevens niet zijn verstrekt en de vereiste bewijsstukken niet zijn overgelegd.
 
 ##### Artikel 5
 
-1. Onverminderd het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=4&z=2010-10-10&g=2010-10-10) dient een werkgever, zodra hij voornemens is binnen een termijn van drie maanden vijf en twintig werknemers of meer dan wel meer dan 25% van het aantal werknemers in een vestiging ener onderneming, voorzover dit percentage niet resulteert in vijf of minder werknemers, te ontslaan dit voornemen minstens twee maanden voor het beëindigen der arbeidsovereenkomst aan Onze Minister te kennen te geven.
+1. Onverminderd het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=4&z=2012-01-01&g=2012-01-01) dient een werkgever, zodra hij voornemens is binnen een termijn van drie maanden vijf en twintig werknemers of meer dan wel meer dan 25% van het aantal werknemers in een vestiging ener onderneming, voorzover dit percentage niet resulteert in vijf of minder werknemers, te ontslaan dit voornemen minstens twee maanden voor het beëindigen der arbeidsovereenkomst aan Onze Minister te kennen te geven.
 
 2. Binnen acht dagen na de kennisgeving legt de werkgever aan Onze Minister een afvloeiingsplan voor.
 
-3. Onze Minister geeft zo spoedig mogelijk doch uiterlijk binnen zes weken na ontvangst van het afvloeiingsplan een schriftelijk oordeel ter zake. [Artikel 4, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=4&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing.
+3. Onze Minister geeft zo spoedig mogelijk doch uiterlijk binnen zes weken na ontvangst van het afvloeiingsplan een schriftelijk oordeel ter zake. [Artikel 4, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=4&z=2012-01-01&g=2012-01-01), is van overeenkomstige toepassing.
 
 4. Het is de werkgever verboden een arbeidsovereenkomst te beëindigen, zolang Onze Minister, met inachtneming van het derde lid, geen beoordeling heeft gegeven.
 
@@ -155,9 +155,9 @@ Bij ministeriële regeling kunnen nadere voorschrift worden gegeven ter uitvoeri
 
 ##### Artikel 7
 
-1. Handelingen in strijd met de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=4&z=2010-10-10&g=2010-10-10), en [5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=5&z=2010-10-10&g=2010-10-10), zijn nietig.
+1. Handelingen in strijd met de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=4&z=2012-01-01&g=2012-01-01), en [5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=5&z=2012-01-01&g=2012-01-01), zijn vernietigbaar.
 
-2. De werknemer kan deze nietigheid gedurende zes maanden inroepen.
+2. De werknemer kan deze vernietigbaarheid inroepen gedurende zes maanden na de opzegging, die gericht is op beëindiging van de arbeidsovereenkomst.
 
 ##### Artikel 7a
 
@@ -181,13 +181,13 @@ Bij ministeriële regeling kunnen nadere voorschrift worden gegeven ter uitvoeri
 
 ##### Artikel 8
 
-1. Hij die handelt in strijd met het bepaalde bij of krachtens [artikel 2a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=2a&z=2010-10-10&g=2010-10-10), [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=4&z=2010-10-10&g=2010-10-10), of [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=5&z=2010-10-10&g=2010-10-10) wordt gestraft met hechtenis van ten hoogste zes maanden of een geldboete van de derde categorie.
+1. Hij die handelt in strijd met het bepaalde bij of krachtens [artikel 2a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=2a&z=2012-01-01&g=2012-01-01), [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=4&z=2012-01-01&g=2012-01-01), of [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=5&z=2012-01-01&g=2012-01-01) wordt gestraft met hechtenis van ten hoogste zes maanden of een geldboete van de derde categorie.
 
 2. De strafbare feiten bedoeld in het eerste lid worden beschouwd als overtredingen.
 
 ##### Artikel 8a
 
-1. Overtreding van het voorschrift gesteld in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=3&z=2010-10-10&g=2010-10-10), wordt, voor zover opzettelijk begaan, beschouwd als misdrijf en gestraft met gevangenisstraf van ten hoogste twee jaar of een geldboete van de tweede categorie.
+1. Overtreding van het voorschrift gesteld in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=3&z=2012-01-01&g=2012-01-01), wordt, voor zover opzettelijk begaan, beschouwd als misdrijf en gestraft met gevangenisstraf van ten hoogste twee jaar of een geldboete van de tweede categorie.
 
 2. Overtreding van het voorschrift bedoeld in het eerste lid wordt, voorzover niet opzettelijk begaan, beschouwd als overtreding en gestraft met hechtenis van ten hoogste drie maanden of een geldboete van de eerste categorie.
 
