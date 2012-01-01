@@ -4,7 +4,7 @@ identifier: "BWBR0030559"
 country: "nl"
 rank: "amvb"
 publication_date: "2012-01-01"
-last_updated: "2011-01-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030559"
 soort: "AMvB"
@@ -48,11 +48,11 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit zorgverzekering.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit zorgaanspraken AWBZ.
 
 ##### Artikel III
 
@@ -60,10 +60,10 @@ Wijzigt het Besluit tegemoetkoming chronisch zieken en gehandicapten.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Op een verzekerde als bedoeld in [artikel 2.6, tweede lid, tweede volzin, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.6) die uiterlijk op 31 december 2011 twaalf behandelingen fysiotherapie of oefentherapie heeft ontvangen, blijft artikel 2.6, tweede lid, van het Besluit zorgverzekering, zoals dat artikel op 31 december 2011 luidde, van toepassing voor zover het behandeling van de aandoening betreft waarop de twaalf behandelingen betrekking hadden en de aandoening ook na deze datum aanleiding kan zijn voor voor rekening van de zorgverzekering komende fysiotherapie of oefentherapie.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit treedt in werking met ingang van 1 januari 2012 en werkt met betrekking tot [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0030559&artikel=III&z=2012-01-01&g=2012-01-01) terug tot en met 1 januari 2011.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
