@@ -4,7 +4,7 @@ identifier: "BWBR0012054"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2011-01-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012054"
 soort: "ministeriele-regeling"
@@ -51,17 +51,19 @@ Deze regeling verstaat onder wet: [Wet inkomstenbelasting 2001](https://wetten.o
 
 - a. het bedrijfsmiddel of het onderdeel in overeenstemming is met de bestemming voor zover aangegeven in die bijlage, niet eerder is gebruikt en bestaat uit de in die bijlage genoemde bestanddelen; en
 
-- b. – voor zover sprake is van een investering in een voorziening als bedoeld in artikel 1, onderdeel D, onder 2.1.A, letter a, van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&bijlage=1&z=2011-01-01&g=2011-01-01) van deze regeling – door het bevoegde gezag voor het bedrijfsmiddel of onderdeel daarvan een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onderdeel a, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) is afgegeven ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42);
+- b. – voor zover sprake is van een investering in een voorziening als bedoeld in artikel 1, onderdeel D, onder 2.1.A, letter a, van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&bijlage=1&z=2012-01-01&g=2012-01-01) van deze regeling – door het bevoegde gezag voor het bedrijfsmiddel of onderdeel daarvan een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onderdeel a, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) is afgegeven ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42);
 
-- c. – voor zover sprake is van een investering in een of meerdere voorzieningen als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&bijlage=1&z=2011-01-01&g=2011-01-01) van deze regeling in artikel 1, onderdeel A, onder 1.2.J, onder c, of in artikel 1, onderdeel A, onder 1.2.K, of in artikel 1, onderdeel B, onder 1.2.L, onder c, of in artikel 1, onderdeel B, onder 1.2.M, of in artikel 1, onderdeel B, onder 1.2.O, of in artikel 1, onderdeel D, onder 5.1.A, of in artikel 1, onderdeel D, onder 5.1.B, of in artikel 1, onderdeel D, onder 5.1.E - door het bevoegde gezag voor het bedrijfsmiddel of onderdeel daarvan een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onderdeel e, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) is afgegeven ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42);
+- c. – voor zover sprake is van een investering in een of meerdere voorzieningen als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&bijlage=1&z=2012-01-01&g=2012-01-01) van deze regeling in artikel 1, onderdeel A, onder 1.2.K, in artikel 1, onderdeel B, onder 1.2.M, in artikel 1, onderdeel B, onder 1.2.O, in artikel 1, onderdeel D, onder 5.1.B, of in artikel 1, onderdeel D, onder 5.1.E – door het bevoegde gezag voor het bedrijfsmiddel of onderdeel daarvan een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onderdeel e, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) is afgegeven ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42);
 
-- d. – voor zover sprake is van een investering in een of meerdere voorzieningen als bedoeld in artikel 1, onderdeel D, onder 2.1.A, letter b, van [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&bijlage=1&z=2011-01-01&g=2011-01-01) van deze regeling – de belastingplichtige ten tijde van de aanmelding houder is van een SDE-beschikking ter grootte van een bedrag per kWh, dat groter is dan nihil.
+- d. – voor zover sprake is van een investering in een of meerdere voorzieningen als bedoeld in artikel 1, onderdeel D, onder 2.1.A, onder b, van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&bijlage=1&z=2012-01-01&g=2012-01-01) van deze regeling – de belastingplichtige daarvoor ten tijde van de aanmelding houder is van een SDE-beschikking ter grootte van een bedrag per kWh dat groter is dan nihil of van een NER 300-beschikking met een bedrag groter dan nihil.
 
-2. Voor de toepassing van het eerste lid, onderdeel d, en van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=5&z=2011-01-01&g=2011-01-01), wordt onder een SDE-beschikking verstaan: een beschikking waarbij een subsidie als bedoeld in [artikel 2 van het Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=2), is verleend.
+2. Voor de toepassing van het eerste lid, onderdeel d, en van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=5&z=2012-01-01&g=2012-01-01), wordt onder een SDE-beschikking verstaan: een beschikking waarbij een subsidie als bedoeld in [artikel 2 van het Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=2), is verleend.
+
+3. Voor de toepassing van het eerste lid, onderdeel d, en van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=5&z=2012-01-01&g=2012-01-01), wordt onder een NER 300-beschikking verstaan: een beschikking waarbij subsidie als bedoeld in [artikel 28 van de Subsidieregeling NER 300](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&artikel=28) is verleend.
 
 ##### Artikel 3
 
-1. De aanmelding bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) van de aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van een investering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2011-01-01&g=2011-01-01) moet binnen een termijn van drie maanden plaats vinden. Deze termijn vangt aan:
+1. De aanmelding bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) van de aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van een investering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2012-01-01&g=2012-01-01) moet binnen een termijn van drie maanden plaats vinden. Deze termijn vangt aan:
 
 - a. met betrekking tot verplichtingen: bij het aangaan van de verplichtingen;
 
@@ -71,31 +73,31 @@ Deze regeling verstaat onder wet: [Wet inkomstenbelasting 2001](https://wetten.o
 
 ##### Artikel 4
 
-De aanmelding van de aangegane verplichtingen en de gemaakte voortbrengingskosten vindt plaats door middel van het door de inspecteur uitgereikte of toegezonden formulier. Ter zake wordt een ontvangstbevestiging afgegeven.
+De aanmelding van de aangegane verplichtingen en de gemaakte voortbrengingskosten vindt uitsluitend plaats langs de daartoe door de Minister van Economische Zaken, Landbouw en Innovatie geopende elektronische weg.
 
 ##### Artikel 5
 
 1. De verklaring van de Minister van Economische Zaken, Landbouw en Innovatie, bedoeld in [artikel 3.42, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) vermeldt in welke aangewezen bedrijfsmiddelen of onderdelen is geïnvesteerd alsmede het bedrag van de uitgaven ter zake.
 
-2. Het verzoek om een verklaring als bedoeld in het eerste lid wordt gedaan bij de aanmelding bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=3&z=2011-01-01&g=2011-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=4&z=2011-01-01&g=2011-01-01).
+2. Het verzoek om een verklaring als bedoeld in het eerste lid wordt gedaan bij de aanmelding bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=3&z=2012-01-01&g=2012-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=4&z=2012-01-01&g=2012-01-01).
 
 3. De belastingplichtige legt ten behoeve van het verstrekken van een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken, Landbouw en Innovatie daarom verzoekt, een berekening van de energiebesparing over.
 
-4. De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken, Landbouw en Innovatie daarom verzoekt, een kopie van de afgegeven omgevingsvergunning over indien [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2011-01-01&g=2011-01-01), van toepassing is.
+4. De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken, Landbouw en Innovatie daarom verzoekt, een kopie van de afgegeven omgevingsvergunning over indien [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2012-01-01&g=2012-01-01), van toepassing is.
 
-5. De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken, Landbouw en Innovatie daarom verzoekt, een kopie van de SDE-beschikking over indien [artikel 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2011-01-01&g=2011-01-01) van toepassing is.
+5. De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken, Landbouw en Innovatie daarom verzoekt, een kopie van de SDE-beschikking of een kopie van de NER 300-beschikking over indien [artikel 2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2012-01-01&g=2012-01-01), van toepassing is.
 
-6. De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken, Landbouw en Innovatie daarom verzoekt, een kopie van de afgegeven omgevingsvergunning over indien [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2011-01-01&g=2011-01-01), van toepassing is.
+6. De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken, Landbouw en Innovatie daarom verzoekt, een kopie van de afgegeven omgevingsvergunning over indien [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2012-01-01&g=2012-01-01), van toepassing is.
 
 ##### Artikel 6
 
-1. De Minister van Economische Zaken, Landbouw en Innovatie kan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=5&z=2011-01-01&g=2011-01-01) bedoelde verklaring wijzigen of intrekken indien de te harer verkrijging verstrekte gegevens of bescheiden zodanig onjuist of onvolledig zijn geweest dat op het verzoek een andere beslissing zou zijn genomen indien bij de beoordeling daarvan de juiste of volledige gegevens bekend zouden zijn geweest. Onjuistheid of onvolledigheid van gegevens of bescheiden die de Minister van Economische Zaken, Landbouw en Innovatie bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond opleveren voor wijziging of intrekking van een verklaring.
+1. De Minister van Economische Zaken, Landbouw en Innovatie kan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=5&z=2012-01-01&g=2012-01-01) bedoelde verklaring wijzigen of intrekken indien de te harer verkrijging verstrekte gegevens of bescheiden zodanig onjuist of onvolledig zijn geweest dat op het verzoek een andere beslissing zou zijn genomen indien bij de beoordeling daarvan de juiste of volledige gegevens bekend zouden zijn geweest. Onjuistheid of onvolledigheid van gegevens of bescheiden die de Minister van Economische Zaken, Landbouw en Innovatie bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond opleveren voor wijziging of intrekking van een verklaring.
 
 2. De bevoegdheid tot het intrekken of wijzigen van een verklaring ingevolge het eerste lid vervalt door verloop van vijf jaren na de dagtekening van de verklaring.
 
 ##### Artikel 7
 
-Indien in bijlage I sprake is van meetvoorschriften of tests, of van verklaringen of certificaten, worden bedrijfsmiddelen die getoetst zijn met gelijkwaardige meetvoorschriften of tests, respectievelijk voorzien zijn van gelijkwaardige verklaringen of certificaten, gelijkgesteld met de aangewezen bedrijfsmiddelen. Deze meetvoorschriften, tests, verklaringen of certificaten moeten zijn opgesteld, respectievelijk verstrekt worden door geaccrediteerde instellingen of instituten.
+Indien in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&bijlage=1&z=2012-01-01&g=2012-01-01) sprake is van meetvoorschriften of tests, of van verklaringen of certificaten, worden bedrijfsmiddelen die getoetst zijn met gelijkwaardige meetvoorschriften of tests, respectievelijk voorzien zijn van gelijkwaardige verklaringen of certificaten, gelijkgesteld met de aangewezen bedrijfsmiddelen. Deze meetvoorschriften, tests, verklaringen of certificaten moeten zijn opgesteld, respectievelijk verstrekt worden door daartoe geaccrediteerde instellingen of instituten.
 
 ##### Artikel 8
 
@@ -105,11 +107,11 @@ Deze regeling treedt in werking met ingang van 1 januari 2001.
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling energie-investeringsaftrek 2001.
 
-## Bijlage 1. van de Uitvoeringsregeling energie-investeringsaftrek 2001
+## Bijlage 1
 
 ### Artikel 1
 
-Als energie-investeringen als bedoeld in [artikel 3.42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42), van de wet worden aangemerkt:
+Als energie-investeringen als bedoeld in [artikel 3.42, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) worden aangemerkt:
 
 ##### A. Investeringen ten behoeve van energiebesparing in bouwwerken
 
@@ -445,17 +447,17 @@ Technische voorzieningen in of aan voertuigen voor het vervoer over de weg, vaar
 
 Technische voorzieningen die er toe strekken de inzet van fossiele brandstoffen te beperken door gebruik te maken van:
 
-1.2.G. Direct gasgestookt stralingspaneel voor het verwarmen van gesloten binnenruimten in bedrijfsgebouwen met een gemiddelde hoogte groter dan 5 meter, niet zijnde tuinbouwkassen, en bestaande uit:
+Het maatwerkadvies zoals dat neergelegd is in ISSO 75.2 is afgestemd op de BRL9500 deel 4 EPA-maatwerkadvies voor bestaande utiliteitsgebouwen.
 
-Energieprestatieverbetering van bestaande woningen voor het verbeteren van de energieprestatie, bestaande uit een pakket van energie-investeringen, zoals vastgelegd in ISSO 82.2 (Energieprestatie Advies Woningen, maatwerkadvies).
+Dit EPA-maatwerkadviesrapport bevat ten minste de volgende gegevens:
 
 Bij de berekening van de besparing gelden de volgende omrekenfactoren:
 
 Hierbij wordt X berekend door de onderste verbrandingswaarde in MJ/Nm3 van het ingezette aardgas te delen door 31,65 MJ/Nm3.
 
-Indien wordt bespaard op een brandstof die niet is genoemd in de voorgaande opsomming, dient de omrekenfactor bepaald te worden door de onderste verbrandingswaarde van deze stof in MJ per eenheid gewicht of volume te delen door 31,65 MJ/Nm3.
+Bij de berekening van de besparing gelden de volgende omrekenfactoren:
 
-Het investeringsbedrag dat voor energie-investeringsaftrek in aanmerking komt bedraagt maximaal EUR 15.000 per woning.
+Hierbij wordt X berekend door de onderste verbrandingswaarde in MJ/Nm3 van het ingezette aardgas te delen door 31,65 MJ/Nm3.
 
 ### Artikel 5
 
@@ -463,7 +465,7 @@ Voor investeringen als omschreven in artikel 1, onder A.5 Energieprestatieverbet
 
 Hierbij wordt X berekend door de onderste verbrandingswaarde in MJ/Nm3 van het ingezette aardgas te delen door 31,65 MJ/Nm3.
 
-Indien wordt bespaard op een brandstof die niet is genoemd in de voorgaande opsomming, dient de omrekenfactor bepaald te worden door de onderste verbrandingswaarde van deze stof in MJ per eenheid gewicht of volume te delen door 31,65 MJ/Nm3.
+Voor investeringen onder A.5 Energieprestatieverbetering van bestaande bedrijfsgebouwen geldt dat op het moment van melden alle noodzakelijke investeringsverplichtingen, waarmee wordt voldaan aan de gestelde eisen genoemd onder A.5 moeten zijn aangegaan.
 
 Indien wordt bespaard op een brandbare stof die niet is genoemd in de voorgaande opsomming, dient de omrekenfactor bepaald te worden door de onderste verbrandingswaarde van deze stof in MJ per eenheid gewicht of volume te delen door 31,65 MJ/Nm3.
 
@@ -709,7 +711,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Een energie-advies ter verbetering van de energie-efficiency van objecten door middel van een verkenning van de mogelijkheden om maatregelen te treffen, en bestaande uit:
 
-1.2.J. Warmtekrachtinstallatie anders dan met behulp van een zuigermotor voor het gelijktijdig opwekken van warmte en kracht met een nominaal elektrisch vermogen tot 150 MWe, onder de voorwaarde dat het totaal energetisch rendement gemiddeld op jaarbasis ten minste 65% bedraagt, en bestaande uit: warmtekrachtinstallatie, (eventueel) aansluiting op het elektriciteitsnet. Het maximum investeringsbedrag dat voor energie-investeringsaftrek in aanmerking komt bedraagt EUR 600 per kW elektrisch vermogen. Het elektrisch vermogen is bepaald bij het nominaal motorvermogen. Een warmtekrachtinstallatie anders dan met behulp van een zuigermotor met een nominaal elektrisch vermogen groter dan 150 MWe komt niet in aanmerking voor energie-investeringsaftrek.
+Indien wordt bespaard op een brandstof die niet is genoemd in de voorgaande opsomming, dient de omrekenfactor bepaald te worden door de onderste verbrandingswaarde van deze stof in MJ per eenheid gewicht of volume te delen door 31,65 MJ/Nm3.
 
 1.3.A. Additionele efficiency-verhogende voorzieningen.
 
@@ -871,12 +873,20 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-### Artikel 3
+### Artikel 4
 
 ### Artikel 5
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Artikel 4
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### Artikel 2
+
+### Artikel 3
+
+### Artikel 5
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
