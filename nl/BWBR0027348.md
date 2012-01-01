@@ -4,7 +4,7 @@ identifier: "BWBR0027348"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-01-01"
-last_updated: "2003-03-16"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027348"
 soort: "ministeriele-regeling"
@@ -44,59 +44,45 @@ Besluit:
 
 ##### Artikel 1
 
-1. In deze regeling wordt verstaan onder:
+In deze regeling wordt verstaan onder:
 
-- -. **divisie Vervoer:** divisie Vervoer van de Inspectie Verkeer en Waterstaat;
+- a. **incident:** incident met gevaarlijke stoffen (Dangerous goods incident) als bedoeld in Hoofdstuk 1 van Annex 18;
 
-- -. **incident:** gebeurtenis met betrekking tot een handeling als bedoeld in [artikel 6.51 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=6.51) en samenhangt met een dergelijke handeling, geen ongeval zijnde, dat
+- b. **minister:** Minister van Infrastructuur en Milieu;
 
-- 1°. het functioneren van een luchtvaartuig in gevaar heeft gebracht of heeft kunnen brengen,
+- c. **NOTOC:** mededeling aan de gezagvoerder als bedoeld in Deel 7, hoofdstuk 4, § 1 van de Technische Voorschriften;
 
-- 2°. afbreuk heeft gedaan of zou hebben kunnen doen aan een veilige vluchtuitvoering, of
+- d. **ongeval:** ongeval met gevaarlijke stoffen (Dangerous goods accident) als bedoeld in Hoofdstuk 1 van Annex 18;
 
-- 3°. een dreiging voor ernstige schade aan het milieu heeft veroorzaakt of heeft kunnen veroorzaken;
+- e. **PSN:** juiste vervoersnaam (proper shipping name);
 
-- -. **minister:** Minister van Verkeer en Waterstaat;
-
-- -. **NOTOC:** mededeling aan de gezagvoerder als bedoeld in Deel 7, hoofdstuk 4, § 1, van de Technische Voorschriften (notification to captain);
-
-- -. **ongeval:** gebeurtenis met betrekking tot een handeling als bedoeld in [artikel 6.51 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=6.51) en samenhangt met een dergelijke handeling, waarbij een of meer personen ernstig of dodelijk gewond zijn geraakt dan wel grote materiële schade is aangericht;
-
-- -. **PSN:** juiste vervoersnaam (proper shipping name);
-
-- -. **voorval:** incident of ongeval.
-
-2. Onder incidenten wordt mede verstaan administratieve onregelmatigheden met betrekking tot een handeling als bedoeld in [artikel 6.51 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=6.51) en samenhangen met een dergelijke handeling.
+- f. **Technische Voorschriften:** Technische Voorschriften als gedefinieerd in [artikel 1, eerste lid, onderdeel c, van het Besluit vervoer gevaarlijke stoffen door de lucht](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&artikel=1).
 
 ##### Artikel 2
 
-1. In geval van vervoer van gevaarlijke stoffen door de lucht geeft de houder van het desbetreffende luchtvaartuig tijdig voorafgaand aan de vlucht aan de gezagvoerder in een NOTOC de informatie bedoeld in de Technische Voorschriften. De NOTOC is in ieder geval in de Engelse taal gesteld.
-
-2.
-
-In geval van vervoer van gevaarlijke stoffen door de lucht geeft de houder van het desbetreffende luchtvaartuig tijdig voorafgaand aan de vlucht aan de overige leden van het boordpersoneel de nodige informatie, zodat zij hun werkzaamheden naar behoren kunnen verrichten.
+Vervallen
 
 ### Hoofdstuk 2. Melding van voorvallen
 
 ##### Artikel 3
 
-1. Ieder voorval dient onverwijld te worden gemeld, ongeacht of de gevaarlijke stoffen in vracht, luchtpost, of bagage van passagiers of bemanning worden vervoerd.
+1. Ieder incident of ongeval dient onverwijld te worden gemeld, ongeacht of de gevaarlijke stoffen in vracht, luchtpost, of bagage van passagiers of bemanning worden vervoerd.
 
-2. De melding van een voorval vindt elektronisch, per fax of schriftelijk plaats aan de divisie Vervoer.
+2. De melding van een incident of ongeval vindt elektronisch, per fax of schriftelijk plaats aan de Inspectie Leefomgeving en Transport.
 
-3. De melding kan worden gedaan overeenkomstig het model zoals opgenomen in de bij deze regeling behorende bijlage.
+3. De melding wordt gedaan overeenkomstig het model zoals opgenomen in de bij deze regeling behorende bijlage.
 
 ##### Artikel 4
 
-1. De melding vindt zo nauwkeurig mogelijk plaats en bevat alle met betrekking tot het voorval relevante informatie. De melding bevat, voor zover op het moment waarop de melding wordt opgesteld bekend, in ieder geval de volgende gegevens:
+1. De melding vindt zo nauwkeurig mogelijk plaats en bevat alle met betrekking tot het incident of ongeval relevante informatie. De melding bevat, voor zover op het moment waarop de melding wordt opgesteld bekend, in ieder geval de volgende gegevens:
 
-- a. de datum waarop het voorval plaatsvond;
+- a. de datum waarop het incident of ongeval plaatsvond;
 
-- b. de plaats van het voorval en, indien van toepassing, het vluchtnummer en de vluchtdatum van de vlucht;
+- b. de plaats van het incident of ongeval en, indien van toepassing, het vluchtnummer en de vluchtdatum van de vlucht;
 
-- c. een omschrijving van de goederen en het referentienummer van de luchtvrachtbrief, postzak, bagagelabel, vliegticket, e.d.;
+- c. een omschrijving van de goederen en het referentienummer van de luchtvrachtbrief, de postzak, het bagagelabel en het vliegticket;
 
-- d. de naam van de gevaarlijke stof, zijnde de PSN, inclusief indien van toepassing de technische naam, en het UN- nummer zoals aangegeven in de Technische Voorschriften, tabel 3.1;
+- d. de naam van de gevaarlijke stof, zijnde de PSN, inclusief de technische naam, indien van toepassing, en het UN-nummer zoals aangegeven in Deel 3, Hoofdstuk 2, tabel 3.1, van de Technische Voorschriften;
 
 - e. de klasse en voor zover van toepassing de divisie van de gevaarlijke stof alsmede het secundair risico van die stof;
 
@@ -106,19 +92,19 @@ In geval van vervoer van gevaarlijke stoffen door de lucht geeft de houder van h
 
 - h. naam en adres van de verlader of de passagier;
 
-- i. mogelijke oorzaak of oorzaken van het voorval;
+- i. mogelijke oorzaak of oorzaken van het incident of ongeval;
 
-- j. naar aanleiding van het voorval genomen acties;
+- j. naar aanleiding van het incident of ongeval genomen acties;
 
-- k. eerder naar aanleiding van het voorval gedane melding of meldingen.
+- k. eerder naar aanleiding van het incident of ongeval gedane melding of meldingen.
 
-2. De melding bevat de naam, de functie, het adres en telefoonnummer van degene die de melding heeft gedaan.
+2. De melding bevat de naam, de functie, het adres en het telefoonnummer van degene die de melding heeft gedaan.
 
 3. Afschriften van de relevante documenten en genomen foto's dienen met de melding te worden meegestuurd of in geval van elektronische melding hetzij elektronisch te worden meegezonden hetzij onverwijld te worden toegestuurd.
 
 ##### Artikel 5
 
-Behoudens in geval van onmiddellijk gevaar mogen de gevaarlijke stoffen, waarop de melding betrekking heeft, alsmede de verpakking niet worden verplaatst dan na toestemming van de divisie Vervoer.
+Behoudens in geval van onmiddellijk gevaar mogen de gevaarlijke stoffen, waarop de melding betrekking heeft, alsmede de verpakking niet worden verplaatst dan na toestemming van de Inspectie Leefomgeving en Transport.
 
 ### Hoofdstuk 3. Informatie geven aan hulpverlenende instanties
 
@@ -130,11 +116,11 @@ In geval van
 
 - b. een incident, dat zich heeft voorgedaan onder omstandigheden dat bijna een ongeval heeft plaatsgevonden,
 
-geeft de houder van het desbetreffende luchtvaartuig onverwijld alle informatie over de aan boord van dat luchtvaartuig vervoerde gevaarlijke stoffen aan de betrokken hulpverlenende instanties, eventueel door tussenkomst van de luchtvaart- of luchthavenautoriteiten of de divisie Vervoer.
+geeft de houder van het desbetreffende luchtvaartuig onverwijld alle informatie over de aan boord van dat luchtvaartuig vervoerde gevaarlijke stoffen aan de betrokken hulpverlenende instanties, eventueel door tussenkomst van de luchtvaart- of luchthavenautoriteiten of de Inspectie Leefomgeving en Transport.
 
 ##### Artikel 7
 
-1. De houder van het desbetreffende luchtvaartuig verstrekt in de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0027348&hoofdstuk=3&artikel=6&z=2003-03-16&g=2003-03-16) genoemde gevallen tenminste de volgende informatie over de vervoerde gevaarlijke stoffen:
+1. De houder van het desbetreffende luchtvaartuig verstrekt in de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0027348&hoofdstuk=3&artikel=6&z=2012-01-01&g=2012-01-01) genoemde gevallen tenminste de volgende informatie over de vervoerde gevaarlijke stoffen:
 
 - a. de klasse en voor zover van toepassing de divisie van de gevaarlijke stof alsmede het secundair risico van die stof;
 
@@ -160,11 +146,11 @@ geeft de houder van het desbetreffende luchtvaartuig onverwijld alle informatie 
 
 ##### Artikel 9
 
-De houder van het luchtvaartuig draagt er zorg voor, dat de inhoud van de [artikelen 2 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0027348&hoofdstuk=1&artikel=2&z=2003-03-16&g=2003-03-16) in het vluchthandboek is opgenomen.
+De houder van het luchtvaartuig draagt er zorg voor, dat de inhoud van de [artikelen 2 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0027348&hoofdstuk=1&artikel=2&z=2012-01-01&g=2012-01-01) in het vluchthandboek is opgenomen.
 
 ##### Artikel 10
 
-Handelen in strijd met de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027348&hoofdstuk=1&artikel=2&z=2003-03-16&g=2003-03-16), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0027348&hoofdstuk=2&artikel=3&z=2003-03-16&g=2003-03-16), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0027348&hoofdstuk=2&artikel=4&z=2003-03-16&g=2003-03-16), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0027348&hoofdstuk=2&artikel=5&z=2003-03-16&g=2003-03-16), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0027348&hoofdstuk=3&artikel=6&z=2003-03-16&g=2003-03-16), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0027348&hoofdstuk=3&artikel=7&z=2003-03-16&g=2003-03-16) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0027348&hoofdstuk=4&artikel=8&z=2003-03-16&g=2003-03-16) vormt een strafbaar feit.
+Handelen in strijd met de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027348&hoofdstuk=1&artikel=2&z=2012-01-01&g=2012-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0027348&hoofdstuk=2&artikel=3&z=2012-01-01&g=2012-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0027348&hoofdstuk=2&artikel=4&z=2012-01-01&g=2012-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0027348&hoofdstuk=2&artikel=5&z=2012-01-01&g=2012-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0027348&hoofdstuk=3&artikel=6&z=2012-01-01&g=2012-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0027348&hoofdstuk=3&artikel=7&z=2012-01-01&g=2012-01-01) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0027348&hoofdstuk=4&artikel=8&z=2012-01-01&g=2012-01-01) vormt een strafbaar feit.
 
 ##### Artikel 11
 
@@ -174,6 +160,6 @@ Deze regeling treedt in werking met ingang van 16 maart 2003.
 
 Deze regeling wordt aangehaald als: Regeling meldings- en informatieplicht vervoer gevaarlijke stoffen door de lucht.
 
-## Bijlage. als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027348&hoofdstuk=2&artikel=3&z=2003-03-16&g=2003-03-16), van de Regeling meldings- en informatieplicht vervoer gevaarlijke stoffen door de lucht
+## Bijlage. als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027348&hoofdstuk=2&artikel=3&z=2012-01-01&g=2012-01-01)
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
