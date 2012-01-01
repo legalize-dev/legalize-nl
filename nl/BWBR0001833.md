@@ -4,7 +4,7 @@ identifier: "BWBR0001833"
 country: "nl"
 rank: "wet"
 publication_date: "2012-01-01"
-last_updated: "2008-05-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001833"
 soort: "wet"
@@ -64,7 +64,7 @@ Eene wet kan alleen door eene latere wet, voor het geheel of gedeeltelijk, hare 
 
 ##### Artikel 6
 
-De wetten betreffende de regten, den staat en de bevoegheid der personen, verbinden de Nederlanders, ook wanneer zij zich buiten ’s lands bevinden.
+Vervallen
 
 ##### Artikel 7
 
@@ -80,7 +80,7 @@ Het burgerlijk regt van het Koningrijk is hetzelfde voor vreemdelingen als voor 
 
 ##### Artikel 10
 
-De vorm van alle handelingen wordt beoordeeld naar de wetten van het land of de plaats alwaar die handelingen zijn verrigt.
+Vervallen
 
 ##### Artikel 11
 
