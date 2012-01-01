@@ -4,7 +4,7 @@ identifier: "BWBR0025870"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2011-07-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025870"
 soort: "ministeriele-regeling"
@@ -96,13 +96,13 @@ De subsidie wordt uitsluitend verstrekt ten behoeve van een donatie die ingevolg
 
 - 3°. de kosten van de donor voor medisch noodzakelijke zorg die aan de donor op schriftelijke medische indicatie is verleend en die niet valt onder de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) of de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614);
 
-- d. de kosten van buitenlandse reizen, met inbegrip van reizen naar en van Nederland, die de donor en één andere door de donor aangewezen persoon maken in het kader van de voorbereiding van, de uitvoering van en het herstel na een donatie:
+- d. de kosten van reizen, met inbegrip van reizen naar en van Nederland, die de donor en één andere door de donor aangewezen persoon maken in het kader van de voorbereiding van, de uitvoering van en het herstel na een donatie:
 
-- 1°. bij reizen per openbaar vervoer, vliegtuig of boot: berekend op basis van de overgelegde vervoersbewijzen tot maximaal de laagste klasse van het desbetreffende vervoermiddel;
+- 1°. bij buitenlandse reizen per openbaar vervoer, vliegtuig of boot: berekend op basis van de overgelegde vervoersbewijzen tot maximaal de laagste klasse van het desbetreffende vervoermiddel;
 
-- 2°. bij andere middelen van vervoer: berekend op basis van de laagste klasse van openbaar vervoer;
+- 2°. bij buitenlandse reizen met andere middelen van vervoer: berekend op basis van de laagste klasse van openbaar vervoer;
 
-- e. een eenmalig bedrag ten behoeve van de binnenlandse reiskosten en de verblijfkosten van de door de donor aangewezen persoon gedurende de uitvoering van de donatie te bepalen volgens de onderstaande tabel:
+- 3°. bij binnenlandse reizen een eenmalig bedrag ten behoeve van de binnenlandse reiskosten en de verblijfkosten van de door de donor aangewezen persoon gedurende de uitvoering van de donatie te bepalen volgens de onderstaande tabel:
 
 | afstand woning persoon tot ziekenhuis waar donatie plaatsvindt | per dag dat donor in het ziekenhuis is opgenomen |
 | --- | --- |
@@ -112,11 +112,13 @@ De subsidie wordt uitsluitend verstrekt ten behoeve van een donatie die ingevolg
 | 100 tot 150 km | € 42 |
 | 150 km of meer | € 48 |
 
+- e. vervallen;
+
 - f. de kosten van de donor voor het opvangen en verzorgen van personen voor wie de donor de zorg draagt gedurende de uitvoering van en het herstel na een donatie voor zover die kosten de gebruikelijke kosten van de donor voor die opvang en verzorging te boven gaan;
 
-- g. uitsluitend in geval de donatie buiten het woonland van de donor wordt uitgevoerd een bedrag van € 8 per etmaal dat de donor in het kader van de voorbereiding van of het herstel na de donatie, tot uiterlijk 13 weken, dan wel 26 weken in geval van een leverdonatie, na de datum van ontslag van de donor uit het ziekenhuis waar de donatie is uitgevoerd, buiten een zorginstelling verblijft in het land waar de donatie wordt uitgevoerd, vermeerderd met een eenmalig bedrag van € 250 indien de donor woonachtig is buiten Europa;
+- g. uitsluitend in geval de donatie buiten het woonland van de donor wordt uitgevoerd een bedrag van € 8 per etmaal dat de donor in het kader van de voorbereiding van of het herstel na de donatie, tot uiterlijk 13 weken, dan wel 26 weken in geval van een leverdonatie, na de datum van ontslag van de donor uit het ziekenhuis waar de donatie is uitgevoerd, buiten een zorginstelling verblijft in het land waar de donatie wordt uitgevoerd, vermeerderd, indien de donor woonachtig is buiten Europa, met een eenmalig bedrag van € 250 dan wel met de kosten van een machtiging tot voorlopig verblijf als bedoeld in [artikel 1, onder h, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=1), van een verblijfsvergunning als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14)en van een verzekering tegen ziektekosten als bedoeld in [artikel 3.7, eerste lid, onder c, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.7);
 
-- h. ten behoeve van overige kosten een eenmalig bedrag van € 160 in geval van nierdonatie, € 180 in geval van leverdonatie of € 100 in geval donatie niet heeft plaatsgevonden maar wel is gestart met de uitvoering van een donatie;
+- h. ten behoeve van overige kosten een eenmalig bedrag van € 320 in geval van nierdonatie, € 360 in geval van leverdonatie of € 100 in geval donatie niet heeft plaatsgevonden maar wel is gestart met de uitvoering van een donatie;
 
 - i. uitsluitend in het geval de voorbereiding van de donatie is aangevangen en de ontvanger van het te doneren orgaan niet meer bepaald wordt: een eenmalig bedrag ten behoeve van de binnenlandse reiskosten en de verblijfkosten van de donor voor de voorbereiding van de donatie te bepalen volgens onderstaande tabel:
 
@@ -171,5 +173,21 @@ Deze regeling treedt in werking met ingang van 1 juni 2009.
 ##### Artikel 11
 
 Deze regeling wordt aangehaald als: Subsidieregeling donatie bij leven.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 7a
+
+1. Onverminderd [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2012-01-01&g=2012-01-01), kan de minister de subsidie verhogen indien:
+
+- a. de donor na 31 december 2010 is ontslagen uit het ziekenhuis waar de donatie is uitgevoerd dan wel, in geval de donatie niet is uitgevoerd, na 31 december 2010 de eerste kosten heeft gemaakt waarvoor subsidie wordt aangevraagd, en
+
+- b. de gederfde belastbare inkomsten, berekend overeenkomstig [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2012-01-01&g=2012-01-01), over het peiljaar lager zijn dan de gederfde belastbare inkomsten, berekend overeenkomstig artikel 4, eerste lid, onder a, over het jaar waarin de donatie wordt uitgevoerd.
+
+2. De verhoging is het verschil tussen de gederfde belastbare inkomsten, berekend overeenkomstig [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2012-01-01&g=2012-01-01), over het jaar waarin de donatie wordt uitgevoerd en de gederfde belastbare inkomsten, berekend overeenkomstig artikel 4, eerste lid, onder a, over het peiljaar.
+
+3. Bij de berekening van de gederfde belastbare inkomsten per week over het jaar waarin de donatie wordt uitgevoerd, blijft de tijd voor de voorbereiding van, de uitvoering van en het herstel na de donatie buiten beschouwing.
+
+4. De verhoging kan ook worden verstrekt indien de subsidie reeds is vastgesteld. De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=5&z=2012-01-01&g=2012-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=6&z=2012-01-01&g=2012-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=7&z=2012-01-01&g=2012-01-01) zijn van overeenkomstige toepassing, met dien verstande dat de termijn, bedoeld in artikel 5, tweede lid, twee jaar bedraagt.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
