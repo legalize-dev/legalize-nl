@@ -4,7 +4,7 @@ identifier: "BWBR0025135"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-01"
-last_updated: "2009-01-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025135"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Sociale Zaken en Werkgelegenheid;
+- a. **de minister:** de Minister van Sociale Zaken en Werkgelegenheid;
 
 - b. **WWB:** [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703);
 
@@ -56,37 +56,35 @@ In deze regeling wordt verstaan onder:
 
 - f. **uitvoeringskosten:** de kosten verbonden aan de uitvoering van de verlening van bijstand op grond van [artikel 78h van de WWB](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=78h).
 
-##### Artikel 2. Raming en opgave uitgaven
+##### Artikel 2. Raming baten en lasten
 
-In het jaarplan met begroting verstrekt de SVB elk jaar aan Onze Minister:
+Voor 1 oktober van elk jaar verstrekt de SVB aan de minister in het jaarplan met begroting een opgave van het totaalbedrag aan de voor het komende jaar geraamde baten en lasten met betrekking tot de toekenning van bijstand, uitgesplitst naar bijstandskosten per maand en uitvoeringskosten per jaar.
 
-- a. een raming van het totaalbedrag van de bijstandskosten voor het komende jaar, met een uitsplitsing naar maand;
+##### Artikel 3. Betaling voorschot
 
-- b. een opgave het totaalbedrag van de werkelijke bijstandskosten in het vorige jaar, met een uitsplitsing naar maand;
+1. De minister stort op de rekening-courant, bedoeld in [artikel 5.16, onderdeel a, van de Regeling Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&artikel=5.16), een periodiek voorschot op het bedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025135&artikel=2&z=2012-01-01&g=2012-01-01), van:
 
-- c. een raming van het totaalbedrag van de uitvoeringskosten voor het komende jaar.
+- a. geraamde bijstandskosten met als valutadag de tweeëntwintigste dag van elke maand, en
 
-##### Artikel 3. Afdracht bijstandskosten en uitvoeringskosten
+- b. 1/12de deel van de geraamde uitvoeringskosten met als valutadatum de vijftiende dag van elke maand.
 
-1. Met als valutadag de eerste dag van elke maand stort Onze Minister op de rekening-courant van de SVB bij de Minister van Financiën het bedrag van de geraamde bijstandskosten over die maand en eentwaalfde van het bedrag van de geraamde uitvoeringskosten per jaar.
-
-2. Onze Minister kan, na overleg met de SVB, van de geraamde bedragen, bedoeld in het eerste lid, afwijken.
+2. De minister kan, na overleg met de SVB, van de in het eerste lid bedoelde bedragen afwijken.
 
 ##### Artikel 4. Afrekening
 
-1. Uiterlijk op 1 juli dient de SVB de afrekening van de bijstandskosten en de uitvoeringskosten over het afgelopen kalenderjaar bij Onze Minister in.
+1. In de jaarrekening, bedoeld in [artikel 49 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025135&artikel=3&z=2012-01-01&g=2012-01-01), uitgesplitst naar bijstandskosten en uitvoeringskosten met betrekking tot deze regeling opgenomen.
 
-2. In de afrekening van de bijstandskosten en uitvoeringskosten wordt, op basis van de jaarrekening, bedoeld in [artikel 49 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49), de kasstroom inzichtelijk gemaakt.
+2. Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), rekent de minister de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.
 
-3. Op grond van de afrekening van de bijstandskosten en de uitvoeringskosten vindt voor 15 augustus een betaling plaats ten gunste of ten laste van de SVB.
+3. Voor de afrekening van de bijstandskosten en de uitvoeringskosten en de vaststelling en afrekening van de rijksbijdrage ten gunste of ten laste van de SVB voor het jaar 2011, zijn de artikelen 4 respectievelijk [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025135&artikel=5&z=2012-01-01&g=2012-01-01), zoals deze luidden op 31 december 2011, van toepassing.
 
 ##### Artikel 5. Vaststelling Rijksbijdrage
 
-Onze Minister stelt jaarlijks voor 31 oktober de omvang van de middelen tot dekking van de uitgaven verbonden aan de uitvoering van [artikel 78h van de WWB](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=78h) over het afgelopen kalenderjaar vast.
+Vervallen
 
 ##### Artikel 6. Inwerkingtreding
 
-Indien het bij Koninklijke boodschap van 24 juni 2008 ingediende voorstel van wet tot wijziging van de Wet structuur uitvoeringsorganisatie werk en inkomen en enkele andere wetten in verband met de evaluatie van deze wet, de Kaderwet zelfstandige bestuursorganen en deregulering (Kamerstukken 31 514) nadat het tot wet is verheven, in werking treedt, treedt deze regeling op hetzelfde tijdstip in werking.
+Vervallen
 
 ##### Artikel 7. Citeertitel
 
