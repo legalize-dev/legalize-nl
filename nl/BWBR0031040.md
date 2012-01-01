@@ -4,7 +4,7 @@ identifier: "BWBR0031040"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-01-01"
-last_updated: "2011-09-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031040"
 soort: "ministeriele-regeling"
@@ -55,13 +55,9 @@ Wijzigt de Uitvoeringsregeling inkomstenbelasting 2001.
 
 Wijzigt de Meldingsregeling milieu-investeringsaftrek 2001.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III
 
 Wijzigt de Uitvoeringsregeling willekeurige afschrijving 2001.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
@@ -75,43 +71,29 @@ Wijzigt de Uitvoeringsregeling loonbelasting 2001.
 
 Wijzigt de Uitvoeringsregeling afdrachtvermindering.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VII
 
 Wijzigt de Uitvoeringsbeschikking vennootschapsbelasting 1971.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIII
 
 Wijzigt de Uitvoeringsregeling fiscale eenheid en voorkoming dubbele belasting 2003.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IX
 
 Wijzigt de Uitvoeringsbeschikking dividendbelasting 1965.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel X
 
 Wijzigt de Uitvoeringsregeling schenk- en erfbelasting.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XI
 
 Wijzigt de Regeling vrijstelling overdrachtsbelasting stedelijke herstructurering.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XII
 
 Wijzigt de Regeling vrijstelling overdrachtsbelasting voor investeringen in stedelijke herstructurering.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIII
 
@@ -129,19 +111,13 @@ Wijzigt de Uitvoeringsregeling motorrijtuigenbelasting 1994.
 
 Wijzigt de Algemene douaneregeling.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVII
 
 Wijzigt de Uitvoeringsregeling accijns.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVIII
 
 Wijzigt de Uitvoeringsregeling accijns.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIX
 
@@ -155,25 +131,17 @@ Wijzigt de Uitvoeringsregeling Belastingdienst 2003.
 
 Wijzigt de Uitvoeringsregeling Wob Financiën.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXII
 
 Wijzigt de Uitvoeringsregeling Invorderingswet 1990.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXIII
 
 Wijzigt de Uitvoeringsregeling instructie waardebepaling Wet waardering onroerende zaken.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXIV
 
 Wijzigt de Uitvoeringsregeling belastingen op milieugrondslag.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXV
 
@@ -181,7 +149,7 @@ Wijzigt de Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen.
 
 ##### Artikel XXVI
 
-Dit onderdeel is nog niet inwerking getreden
+De [Uitvoeringsregeling Besluit voorkoming dubbele belasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013995) wordt ingetrokken.
 
 ##### Artikel XXVII
 
@@ -191,14 +159,36 @@ Wijzigt de Uitvoeringsregeling Belastingwet BES.
 
 Wijzigt de Uitvoeringsregeling investeringsaftrek Aruba, Curaçao, Sint Maarten en de BES eilanden 2010.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXIX
 
-Dit onderdeel is nog niet inwerking getreden
+1. [Artikel 4c, vierde lid, onderdeel a, van de Uitvoeringsregeling motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007308&artikel=4c), zoals dit artikel op 31 december 2011 luidde, blijft van toepassing, ingeval voor een personenauto, een bestelauto of een motorrijwiel een vermindering van belasting geldt met betrekking tot niet ingegane tijdvakken die vóór 1 januari 2012 zijn betaald op de voet van [artikel 28 van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=28), zoals dit artikel luidde op 31 december 2011.
+
+2. Artikel [4c, vierde lid, onderdeel a, van de Uitvoeringsregeling motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007308&artikel=4c), zoals dit artikel luidde op 31 december 2011, is van overeenkomstige toepassing, ingeval voor een autobus een vermindering van belasting geldt met betrekking tot niet ingegane tijdvakken die vóór 1 januari 2012 zijn betaald op de voet van [artikel 49 van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=49), zoals dit artikel luidde op 31 december 2011.
 
 ##### Artikel XXX
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling treedt in werking met ingang van 1 januari 2012, met dien verstande dat:
+
+- a. [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0031040&artikel=I&z=2012-01-01&g=2012-01-01), en [artikel XV, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0031040&artikel=XV&z=2012-01-01&g=2012-01-01), terugwerken tot en met 1 januari 2005;
+
+- b. [artikel XV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0031040&artikel=XV&z=2012-01-01&g=2012-01-01), terugwerkt tot en met 1 januari 2007;
+
+- c. [artikel I, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0031040&artikel=I&z=2012-01-01&g=2012-01-01), en [artikel V, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0031040&artikel=V&z=2012-01-01&g=2012-01-01), terugwerken tot en met 1 januari 2009;
+
+- d. [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0031040&artikel=I&z=2012-01-01&g=2012-01-01), terugwerkt tot en met 1 januari 2010;
+
+- e. [artikel XIV, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0031040&artikel=XIV&z=2012-01-01&g=2012-01-01), terugwerkt tot en met 18 maart 2010;
+
+- f. [artikel XXV, onderdelen A en D](https://wetten.overheid.nl/jci1.3:c:BWBR0031040&artikel=XXV&z=2012-01-01&g=2012-01-01), terugwerken tot en met 1 mei 2010;
+
+- g. [artikel I, onderdelen B en M](https://wetten.overheid.nl/jci1.3:c:BWBR0031040&artikel=I&z=2012-01-01&g=2012-01-01), [artikel IV, onderdeel B, onder 1 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031040&artikel=IV&z=2012-01-01&g=2012-01-01), artikel IV, onderdeel C, artikel [XIX, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0031040&artikel=XIX&z=2012-01-01&g=2012-01-01), en [artikel XXVII, onderdelen A en D](https://wetten.overheid.nl/jci1.3:c:BWBR0031040&artikel=XXVII&z=2012-01-01&g=2012-01-01), terugwerken tot en met 1 januari 2011;
+
+- h. [artikel XIII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0031040&artikel=XIII&z=2012-01-01&g=2012-01-01), terugwerkt tot en met 1 juli 2011;
+
+- i. [artikel XX, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0031040&artikel=XX&z=2012-01-01&g=2012-01-01), en [artikel IV, onderdeel B, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031040&artikel=IV&z=2012-01-01&g=2012-01-01), terugwerken tot en met 1 september 2011;
+
+- j. de [artikelen VII](https://wetten.overheid.nl/jci1.3:c:BWBR0031040&artikel=VII&z=2012-01-01&g=2012-01-01), [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0031040&artikel=VIII&z=2012-01-01&g=2012-01-01) en [XXVI](https://wetten.overheid.nl/jci1.3:c:BWBR0031040&artikel=XXVI&z=2012-01-01&g=2012-01-01) voor het eerst toepassing vinden met betrekking tot boekjaren die aanvangen op of na 1 januari 2012;
+
+- k. [artikel XIX, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0031040&artikel=XIX&z=2012-01-01&g=2012-01-01), voor het eerst toepassing vindt met betrekking tot voorlopige aanslagen inkomstenbelasting of vennootschapsbelasting ter zake van tijdvakken die aanvangen op of na 1 januari 2012.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
