@@ -4,7 +4,7 @@ identifier: "BWBR0027961"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2011-05-28"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027961"
 soort: "AMvB"
@@ -52,7 +52,7 @@ Voor voorschoolse educatie gelden ten minste de in dit besluit opgenomen basisvo
 
 ##### Artikel 2. Basisvoorwaarden voor omvang voorschoolse educatie
 
-Voorschoolse educatie omvat per week ten minste vier dagdelen van ten minste 2,5 uur of per week ten minste 10 uur aan activiteiten gericht op het stimuleren van de ontwikkelingsdomeinen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=5&z=2011-05-28&g=2011-05-28).
+Voorschoolse educatie omvat per week ten minste vier dagdelen van ten minste 2,5 uur of per week ten minste 10 uur aan activiteiten gericht op het stimuleren van de ontwikkelingsdomeinen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=5&z=2012-01-01&g=2012-01-01).
 
 ##### Artikel 3. Basisvoorwaarden voor aantal beroepskrachten en groepsgrootte
 
@@ -80,7 +80,7 @@ Voorschoolse educatie omvat per week ten minste vier dagdelen van ten minste 2,5
 
 - b. op 1 januari 2010 tenminste 15 jaar als beroepskracht als bedoeld in [artikel 2.1 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.1) werkzaam was, en
 
-- c. scholing voor voor- of vroegschoolse educatie heeft gevolgd die hoort bij een programma als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=5&z=2011-05-28&g=2011-05-28).
+- c. scholing voor voor- of vroegschoolse educatie heeft gevolgd die hoort bij een programma als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=5&z=2012-01-01&g=2012-01-01).
 
 6. Indien in een groep waaraan voorschoolse educatie wordt aangeboden feitelijk meer dan acht kinderen aanwezig zijn, dan is ten minste één beroepskracht aanwezig die in het bezit is van een getuigschrift of erkenning als bedoeld in het eerste lid.
 
@@ -98,17 +98,7 @@ Vervallen
 
 ##### Artikel 8. Overgangsrecht
 
-1. Eerst twaalf maanden na inwerkingtreding van dit besluit is:
-
-- a. [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=2&z=2011-05-28&g=2011-05-28) van toepassing ten aanzien van voorschoolse educatie in gemeenten, die op het moment van inwerkingtreding van dit besluit geen decentralisatie-uitkering als bedoeld in [artikel 5, tweede lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=5) ontvingen voor voorschoolse educatie;
-
-- b. [artikel 4, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=4&z=2011-05-28&g=2011-05-28), van toepassing ten aanzien van beroepskrachten voorschoolse educatie, die op het moment van inwerkingtreding van dit besluit reeds belast zijn met voorschoolse educatie en op dat moment niet voldoen aan de voorwaarden, bedoeld in artikel 4, eerste tot en met derde lid;
-
-- c. [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=5&z=2011-05-28&g=2011-05-28) van toepassing.
-
-2. Het eerste lid, onderdelen b en c, geldt niet ten aanzien van voorschoolse educatie in de gemeenten Amsterdam, Den Haag, Rotterdam en Utrecht.
-
-3. Dit artikel vervalt met ingang van 1 januari 2012.
+Vervallen
 
 ##### Artikel 9. Inwerkingtreding
 
