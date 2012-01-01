@@ -4,7 +4,7 @@ identifier: "BWBR0005980"
 country: "nl"
 rank: "amvb"
 publication_date: "2012-01-01"
-last_updated: "1993-05-28"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005980"
 soort: "AMvB"
@@ -101,17 +101,17 @@ Hebben goedgevonden en verstaan:
 
 1. Onder de vorderingen worden afzonderlijk opgenomen:
 
-- a. vorderingen op kredietinstellingen, met inbegrip van de bij een koop van activa door de bank betaalde prijs, indien teruglevering tegen een bepaalde prijs is bedongen en met afzonderlijke vermelding van de onmiddellijk opeisbare vorderingen;
+- a. vorderingen op banken, met inbegrip van de bij een koop van activa door de bank betaalde prijs, indien teruglevering tegen een bepaalde prijs is bedongen en met afzonderlijke vermelding van de onmiddellijk opeisbare vorderingen;
 
-- b. vorderingen op klanten, niet zijnde kredietinstellingen, met inbegrip van de bij een koop van activa door de bank betaalde prijs, indien teruglevering tegen een bepaalde prijs is bedongen.
+- b. vorderingen op klanten, niet zijnde banken, met inbegrip van de bij een koop van activa door de bank betaalde prijs, indien teruglevering tegen een bepaalde prijs is bedongen.
 
-2. Onder kredietinstelling als bedoeld in het eerste lid wordt verstaan:
+2. Onder banken als bedoeld in het eerste lid worden verstaan:
 
-- a. de ingevolge artikel 3 lid 7 van de [richtlijn nr. 77/780/EEG](31977L0780) van de Raad van de Europese Gemeenschappen van 12 december 1970 tot coördinatie van de wettelijke en bestuursrechtelijke bepalingen betreffende de toegang tot en de uitoefening van de werkzaamheden van kredietinstellingen (**PbEG** L322) in het **Publikatieblad van de Europese Gemeenschappen** vermelde kredietinstellingen;
+- a. binnen het grondgebied van de Europese Unie gevestigde banken die zijn toegelaten het bedrijf van bank uit te oefenen;
 
-- b. de buiten het grondgebied van de Europese Gemeenschappen gevestigde kredietinstellingen als omschreven in artikel 1 van die richtlijn;
+- b. buiten het grondgebied van de Europese Unie gevestigde banken;
 
-- c. centrale banken en andere volkenrechtelijke of publiekrechtelijke kredietinstellingen.
+- c. centrale banken of andere volkenrechtelijke of publiekrechtelijke banken.
 
 3. Onder waardepapieren met een vaste of van de rentestand afhankelijke rente worden vermeld die uitgegeven door publiekrechtelijke lichamen en door anderen. Deze waardepapieren worden tevens onderscheiden naar gelang zij al dan niet als vaste activa worden aangemerkt, onder vermelding van de maatstaf ter onderscheiding die hiervoor is gebruikt, alsmede naar gelang zij al dan niet zijn opgenomen in een prijscourant van een beurs. Opgegeven wordt het bedrag dat opeisbaar wordt tijdens het boekjaar volgend op dat waarop de jaarrekening betrekking heeft.
 
@@ -121,9 +121,9 @@ Hebben goedgevonden en verstaan:
 
 6. Vermeld wordt welke van de vorderingen, bedoeld in lid 1, onder a en b, en welke van de waardepapieren, bedoeld in lid 3, telkens zoals nader onderscheiden op grond van lid 5, achtergesteld zijn.
 
-7. De in lid 5 bedoelde uitsplitsing wordt eveneens vermeld bij de activa, bedoeld in [artikel 1 lid 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005980&paragraaf=1&artikel=1&z=1993-05-28&g=1993-05-28).
+7. De in lid 5 bedoelde uitsplitsing wordt eveneens vermeld bij de activa, bedoeld in [artikel 1 lid 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005980&paragraaf=1&artikel=1&z=2012-01-01&g=2012-01-01).
 
-8. Vermeld wordt tot welk bedrag de looptijd van vorderingen op klanten onbepaald is. Bij de overige vorderingen op klanten alsmede bij de niet onmiddellijk opeisbare vorderingen op kredietinstellingen wordt aangegeven tot welk bedrag de resterende looptijd tot aan elke aflossing:
+8. Vermeld wordt tot welk bedrag de looptijd van vorderingen op klanten onbepaald is. Bij de overige vorderingen op klanten alsmede bij de niet onmiddellijk opeisbare vorderingen op banken wordt aangegeven tot welk bedrag de resterende looptijd tot aan elke aflossing:
 
 - a. drie maanden of korter is;
 
@@ -137,9 +137,9 @@ Hebben goedgevonden en verstaan:
 
 1. Onder de deelnemingen worden afzonderlijk opgenomen:
 
-- a. de deelnemingen in groepsmaatschappijen met afzonderlijke vermelding van de deelnemingen in groepsmaatschappijen die kredietinstelling zijn als bedoeld in [artikel 3 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005980&paragraaf=1&artikel=3&z=1993-05-28&g=1993-05-28);
+- a. de deelnemingen in groepsmaatschappijen met afzonderlijke vermelding van de deelnemingen in groepsmaatschappijen die bank zijn als bedoeld in [artikel 3 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005980&paragraaf=1&artikel=3&z=2012-01-01&g=2012-01-01);
 
-- b. de overige deelnemingen met afzonderlijke vermelding van de deelnemingen in kredietinstellingen als bedoeld in [artikel 3 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005980&paragraaf=1&artikel=3&z=1993-05-28&g=1993-05-28).
+- b. de overige deelnemingen met afzonderlijke vermelding van de deelnemingen in banken als bedoeld in [artikel 3 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005980&paragraaf=1&artikel=3&z=2012-01-01&g=2012-01-01).
 
 2. Onderscheiden naar de in arikel 1 lid 1, onder **e**, bedoelde groep en naar de in lid 1 bedoelde groepen van deelnemingen worden aangegeven de al dan niet in een prijscourant van een beurs opgenomen waardepapieren. De aandelen en andere niet-vastrentende waardepapieren worden tevens onderscheiden naar gelang zij al dan niet als vaste activa worden aangemerkt, onder vermelding van de maatstaf ter onderscheiding die hiervoor is gebruikt.
 
@@ -153,15 +153,15 @@ Hebben goedgevonden en verstaan:
 
 1. Onder schulden worden afzonderlijk opgenomen:
 
-- a. de schulden aan kredietinstellingen als bedoeld in [artikel 3 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005980&paragraaf=1&artikel=3&z=1993-05-28&g=1993-05-28), onderscheiden naar de onmiddellijk opeisbare schulden en de overige schulden;
+- a. de schulden aan banken als bedoeld in [artikel 3 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005980&paragraaf=1&artikel=3&z=2012-01-01&g=2012-01-01), onderscheiden naar de onmiddellijk opeisbare schulden en de overige schulden;
 
-- b. de schulden aan klanten, niet zijnde kredietinstellingen, onderscheiden naar spaargelden en andere schulden en voor beide groepen eveneens onderscheiden naar de onmiddellijk opeisbare schulden en de overige schulden;
+- b. de schulden aan klanten, niet zijnde banken, onderscheiden naar spaargelden en andere schulden en voor beide groepen eveneens onderscheiden naar de onmiddellijk opeisbare schulden en de overige schulden;
 
 - c. de schulden in schuldbewijzen belichaamd, onderscheiden naar verhandelbare schuldbewijzen met een vaste of van de rentestand afhankelijke rente en de overige schuldbewijzen;
 
 - d. de overige schulden, onder vermelding van de aard en omvang van de schulden die van belang zijn op het geheel van de schulden.
 
-2. Onder schulden aan kredietinstellingen of aan klanten wordt begrepen de bij een verkoop van activa door de bank ontvangen prijs, indien teruglevering tegen een bepaalde prijs is bedongen.
+2. Onder schulden aan banken of aan klanten wordt begrepen de bij een verkoop van activa door de bank ontvangen prijs, indien teruglevering tegen een bepaalde prijs is bedongen.
 
 3. Onderscheiden naar de in lid 1, onder **a, b** en **c** genoemde groepen van schulden, worden aangegeven de al dan niet in een schuldbewijs belichaamde schulden aan groepsmaatschappijen en die aan andere rechtspersonen en vennootschappen die een deelneming hebben in de bank of waarin de bank een deelneming heeft.
 
@@ -175,11 +175,11 @@ Hebben goedgevonden en verstaan:
 
 - c. eventuele bedingen die kunnen leiden tot een vervroegde aflossing of tot omzetting in kapitaal of andere passiva.
 
-Bij de overige achtergestelde schulden worden globaal de bedongen voorwaarden medegedeeld. Zij worden gesplitst overeenkomstig [artikel 3 lid 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005980&paragraaf=1&artikel=3&z=1993-05-28&g=1993-05-28).
+Bij de overige achtergestelde schulden worden globaal de bedongen voorwaarden medegedeeld. Zij worden gesplitst overeenkomstig [artikel 3 lid 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005980&paragraaf=1&artikel=3&z=2012-01-01&g=2012-01-01).
 
 6. Bij converteerbare leningen worden de voorwaarden van conversie medegedeeld.
 
-7. De niet onmiddellijk opeisbare schulden aan kredietinstellingen alsmede die aan klanten, de spaargelden en de schulden belichaamd in de overige schuldbewijzen, bedoeld in lid 1, onder **c**, worden gesplitst overeenkomstig [artikel 3 lid 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005980&paragraaf=1&artikel=3&z=1993-05-28&g=1993-05-28).
+7. De niet onmiddellijk opeisbare schulden aan banken alsmede die aan klanten, de spaargelden en de schulden belichaamd in de overige schuldbewijzen, bedoeld in lid 1, onder **c**, worden gesplitst overeenkomstig [artikel 3 lid 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005980&paragraaf=1&artikel=3&z=2012-01-01&g=2012-01-01).
 
 ##### Artikel 7
 
@@ -197,7 +197,7 @@ Bij de overige achtergestelde schulden worden globaal de bedongen voorwaarden me
 
 ##### Artikel 8
 
-Onderscheiden naar de groepen van schulden, bedoeld in [artikel 6 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005980&paragraaf=1&artikel=6&z=1993-05-28&g=1993-05-28), en naar de voorwaardelijke schulden, bedoeld in [artikel 7 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005980&paragraaf=1&artikel=7&z=1993-05-28&g=1993-05-28), wordt aangegeven voor welke van deze schulden activa verbonden zijn, welke activa deswege niet meer ter vrije beschikking staan en tot welk bedrag dat is geschied.
+Onderscheiden naar de groepen van schulden, bedoeld in [artikel 6 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005980&paragraaf=1&artikel=6&z=2012-01-01&g=2012-01-01), en naar de voorwaardelijke schulden, bedoeld in [artikel 7 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005980&paragraaf=1&artikel=7&z=2012-01-01&g=2012-01-01), wordt aangegeven voor welke van deze schulden activa verbonden zijn, welke activa deswege niet meer ter vrije beschikking staan en tot welk bedrag dat is geschied.
 
 #### § 2. Voorschriften omtrent de winst- en verliesrekening en de toelichting daarop
 
@@ -215,7 +215,7 @@ Onderscheiden naar de groepen van schulden, bedoeld in [artikel 6 lid 1](https:/
 
 2. De baten en lasten uit de gewone bedrijfsuitoefening worden gesplitst naar:
 
-- a. de rente en soorgelijke baten, die het karakter van rente hebben, uit de activa, bedoeld in [artikel 1 lid 1, onder **a**, **b**, **c** en **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0005980&paragraaf=1&artikel=1&z=1993-05-28&g=1993-05-28) enerzijds en de rentelasten en soortgelijke lasten, die het karakter van rente hebben, uit de passiva, bedoeld in [artikel 1 lid 2, onder **a** en **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0005980&paragraaf=1&artikel=1&z=1993-05-28&g=1993-05-28) anderzijds; de verschillen, bedoeld in [artikel 422 leden 2 en 3 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=422) worden eveneens onder deze posten opgenomen; bij de rente wordt afzonderlijk vermeld de rente uit waardepapieren met een vaste of van de rentestand afhankelijke rente;
+- a. de rente en soorgelijke baten, die het karakter van rente hebben, uit de activa, bedoeld in [artikel 1 lid 1, onder a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0005980&paragraaf=1&artikel=1&z=2012-01-01&g=2012-01-01) enerzijds en de rentelasten en soortgelijke lasten, die het karakter van rente hebben, uit de passiva, bedoeld in artikel 1 lid 2, onder **a** en **d** anderzijds; de verschillen, bedoeld in [artikel 422 leden 2 en 3 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=422) worden eveneens onder deze posten opgenomen; bij de rente wordt afzonderlijk vermeld de rente uit waardepapieren met een vaste of van de rentestand afhankelijke rente;
 
 - b. de opbrengsten uit waardepapieren, onderscheiden naar de opbrengsten uit niet-vastrentende waardepapieren, uit deelnemingen in groepsmaatschappijen en uit overige deelnemingen;
 
@@ -231,11 +231,11 @@ Onderscheiden naar de groepen van schulden, bedoeld in [artikel 6 lid 1](https:/
 
 - h. de overige bedrijfslasten;
 
-- i. de waardeverminderingen van de vorderingen, bedoeld in [artikel 3 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005980&paragraaf=1&artikel=3&z=1993-05-28&g=1993-05-28), en de voorzieningen voor buiten de balanstelling opgenomen voorwaardelijke schulden en onherroepelijke toezeggingen enerzijds en de terugnemingen van deze afboekingen anderzijds;
+- i. de waardeverminderingen van de vorderingen, bedoeld in [artikel 3 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005980&paragraaf=1&artikel=3&z=2012-01-01&g=2012-01-01), en de voorzieningen voor buiten de balanstelling opgenomen voorwaardelijke schulden en onherroepelijke toezeggingen enerzijds en de terugnemingen van deze afboekingen anderzijds;
 
-- j. de waardeverminderingen van de tot de vaste activa behorende waardepapieren, bedoeld in de artikelen 1 lid 1, onder **e**, en 3 lid 3, en van de deelnemingen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005980&paragraaf=1&artikel=4&z=1993-05-28&g=1993-05-28), enerzijds en de terugnemingen van deze afboekingen anderzijds.
+- j. de waardeverminderingen van de tot de vaste activa behorende waardepapieren, bedoeld in de artikelen 1 lid 1, onder **e**, en 3 lid 3, en van de deelnemingen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005980&paragraaf=1&artikel=4&z=2012-01-01&g=2012-01-01), enerzijds en de terugnemingen van deze afboekingen anderzijds.
 
-3. Tenzij [artikel 420 lid 2 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=420) wordt toegepast of tenzij van ondergeschikte betekenis op het geheel van de waardeverminderingen, bedoeld onder **i** van het vorige lid, wordt de omvang aangegeven van de waardeverminderingen van de vorderingen op onderscheidenlijk kredietinstellingen, klanten, groepsmaatschappijen en andere rechtspersonen en vennootschappen die een deelneming hebben in de bank of waarin de bank een deelneming heeft.
+3. Tenzij [artikel 420 lid 2 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=420) wordt toegepast of tenzij van ondergeschikte betekenis op het geheel van de waardeverminderingen, bedoeld onder **i** van het vorige lid, wordt de omvang aangegeven van de waardeverminderingen van de vorderingen op onderscheidenlijk banken, klanten, groepsmaatschappijen en andere rechtspersonen en vennootschappen die een deelneming hebben in de bank of waarin de bank een deelneming heeft.
 
 4. Tenzij [artikel 420 lid 1 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=420) wordt toegepast of tenzij van ondergeschikte betekenis op het geheel van de waardeverminderingen, bedoeld onder **j** van het tweede lid, wordt de omvang aangegeven van de waardeverminderingen van onderscheidenlijk de tot de vaste activa behorende effecten, de deelnemingen in groepsmaatschappijen en de overige deelnemingen.
 
@@ -269,7 +269,7 @@ Onderscheiden naar de groepen van schulden, bedoeld in [artikel 6 lid 1](https:/
 
 3. Het bedrag van de lease-overeenkomsten, uitgesplitst naar de balansposten waaronder deze voorkomen, wordt vermeld.
 
-4. Ten aanzien van de vorderingen op kredietinstellingen en op klanten, alsmede ten aanzien van de buiten de balanstelling opgenomen voorwaardelijke schulden worden concentraties van kredietrisico’s vermeld, indien deze van betekenis zijn op het geheel van onderscheidenlijk de vorderingen op klanten, kredietinstellingen en de voorwaardelijke schulden.
+4. Ten aanzien van de vorderingen op banken en op klanten, alsmede ten aanzien van de buiten de balanstelling opgenomen voorwaardelijke schulden worden concentraties van kredietrisico’s vermeld, indien deze van betekenis zijn op het geheel van onderscheidenlijk de vorderingen op klanten, banken en de voorwaardelijke schulden.
 
 5. Het bedrag van de waardepapieren die in bruikleen of verbruikleen zijn gegeven, wordt in de toelichting vermeld. Eveneens wordt het bedrag van de in bruikleen of verbruikleen ontvangen waardepapieren vermeld.
 
