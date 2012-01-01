@@ -4,7 +4,7 @@ identifier: "BWBR0015386"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2011-07-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015386"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - a. **bestuur:** bestuur van de huurcommissie als bedoeld in [artikel 3a, tweede lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
 
-- b. **de minister:** de minister voor Wonen, Wijken en Integratie;
+- b. **de minister:** de minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
 - c. **openbaar register:** openbaar register als bedoeld in [artikel 3i van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3i);
 
@@ -56,31 +56,31 @@ In deze regeling wordt verstaan onder:
 
 - e. **voorzitter, plaatsvervangend voorzitter, zittingsvoorzitters en zittingsleden:** voorzitter, plaatsvervangend voorzitter, zittingsvoorzitters en zittingsleden als bedoeld in [artikel 3a, tweede lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
 
-- f. **vrijstelling:** vrijstelling van de aan de Staat verschuldigde vergoeding als bedoeld in [artikel 7, achtste lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=7).
+- f. **vrijstelling:** vrijstelling van de aan de Staat verschuldigde vergoeding als bedoeld in de [artikelen 7, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=7), en [7a, derde lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=7a).
 
 #### § 2. Maximale huurprijsgrenzen
 
 ##### Artikel 2
 
-De maximale huurprijsgrenzen voor woonruimten welke een zelfstandige woning vormen als bedoeld in [artikel 1, tweede lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=1) zijn voor het tijdvak 1 juli 2011 tot en met 30 juni 2012 de bedragen, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=I&z=2011-07-01&g=2011-07-01).
+De maximale huurprijsgrenzen voor woonruimten welke een zelfstandige woning vormen als bedoeld in [artikel 1, tweede lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=1) zijn voor het tijdvak 1 juli 2011 tot en met 30 juni 2012 de bedragen, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=I&z=2012-01-01&g=2012-01-01).
 
 ##### Artikel 3
 
-De maximale huurprijsgrenzen voor woonruimten welke niet een zelfstandige woning vormen als bedoeld in [artikel 1, derde lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=1) zijn voor het tijdvak 1 juli 2011 tot en met 30 juni 2012 de bedragen, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=II&z=2011-07-01&g=2011-07-01).
+De maximale huurprijsgrenzen voor woonruimten welke niet een zelfstandige woning vormen als bedoeld in [artikel 1, derde lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=1) zijn voor het tijdvak 1 juli 2011 tot en met 30 juni 2012 de bedragen, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=II&z=2012-01-01&g=2012-01-01).
 
 ##### Artikel 4
 
-De maximale huurprijsgrenzen voor woonwagens als bedoeld in [artikel 7:235 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=235) zijn voor het tijdvak 1 juli 2011 tot en met 30 juni 2012 de bedragen, genoemd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=III&z=2011-07-01&g=2011-07-01).
+De maximale huurprijsgrenzen voor woonwagens als bedoeld in [artikel 7:235 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=235) zijn voor het tijdvak 1 juli 2011 tot en met 30 juni 2012 de bedragen, genoemd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=III&z=2012-01-01&g=2012-01-01).
 
 ##### Artikel 5
 
-De maximale huurprijsgrenzen voor standplaatsen als bedoeld in [artikel 7:236 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=236) zijn voor het tijdvak 1 juli 2011 tot en met 30 juni 2012 de bedragen, genoemd in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=IV&z=2011-07-01&g=2011-07-01).
+De maximale huurprijsgrenzen voor standplaatsen als bedoeld in [artikel 7:236 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=236) zijn voor het tijdvak 1 juli 2011 tot en met 30 juni 2012 de bedragen, genoemd in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=IV&z=2012-01-01&g=2012-01-01).
 
 #### § 3. Maximale huurverhogingspercentages
 
 ##### Artikel 6
 
-1. De huurcommissie beoordeelt de redelijkheid van de huurprijs van woonruimte dan wel een daarin voorgestelde wijziging met inachtneming van de in de [bijlagen V](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=V&z=2011-07-01&g=2011-07-01) en [VI van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VI&z=2011-07-01&g=2011-07-01) vervatte schema’s.
+1. De huurcommissie beoordeelt de redelijkheid van de huurprijs van woonruimte dan wel een daarin voorgestelde wijziging met inachtneming van de in de [bijlagen V](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=V&z=2012-01-01&g=2012-01-01) en [VI van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VI&z=2012-01-01&g=2012-01-01) vervatte schema’s.
 
 2. Het eerste lid is niet van toepassing op woonruimte die bestaat uit of deel uitmaakt van een beschermd monument als bedoeld in [artikel 1, onder d, van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=1) en op woonruimte die behoort tot een beschermd stads- en dorpsgezicht als bedoeld in [artikel 1, onder g, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=1), in dit geval voor zover vanwege het behoren tot een beschermd stads- en dorpsgezicht door de verhuurder noodzakelijkerwijs aan deze woonruimte gelden zijn besteed.
 
@@ -128,17 +128,17 @@ Vervallen
 
 ##### Artikel 11
 
-1. Een verzoek om vrijstelling wordt uiterlijk binnen vier weken na de datum van verzending van het bericht, bedoeld in [artikel 7, vierde of zevende lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=7), op een daartoe door het bestuur beschikbaar gesteld formulier ingediend bij de voorzitter.
+1. Een verzoek om vrijstelling wordt uiterlijk binnen vier weken na de datum van verzending van het bericht, bedoeld in [artikel 7, vierde of zevende lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=7) of uiterlijk binnen vier weken na de datum waarop een verzoek als bedoeld in [artikel 8, eerste lid, van de Wet op het overleg huurders verhuurder](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&artikel=8) bij de huurcommissie is ingediend, op een daartoe door het bestuur beschikbaar gesteld formulier ingediend bij de voorzitter.
 
 2. Een verzoek om vrijstelling gaat vergezeld van:
 
 - a. de ten gunste van de verzoeker krachtens [artikel 14, eerste lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=14) laatstelijk doch niet eerder dan achttien maanden voor de indiening van het verzoek om vrijstelling gegeven beschikking tot toekenning van een huurtoeslag als bedoeld in [artikel 1, onderdeel e, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=1) waaruit blijkt dat het toetsingsinkomen niet hoger is dan het bedrag dat voor de verzoeker ten tijde van het geven van die beschikking als het minimum-inkomensijkpunt, bedoeld in [artikel 17 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=17), gold, of
 
-- b. een ten gunste van de verzoeker niet eerder dan zes maanden voor de indiening van het verzoek om vrijstelling krachtens de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) gegeven beschikking tot vaststelling van algemene bijstand of krachtens de [Wet investeren in jongeren](https://wetten.overheid.nl/jci1.3:c:BWBR0026054) gegeven beschikking tot vaststelling van een inkomensvoorziening.
+- b. een ten gunste van de verzoeker niet eerder dan zes maanden voor de indiening van het verzoek om vrijstelling krachtens de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) gegeven beschikking tot vaststelling van algemene bijstand.
 
 ##### Artikel 12
 
-Vrijstelling kan slechts worden verleend, indien voldaan is aan het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&paragraaf=7&artikel=11&z=2011-07-01&g=2011-07-01).
+Vrijstelling kan slechts worden verleend, indien voldaan is aan het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&paragraaf=7&artikel=11&z=2012-01-01&g=2012-01-01).
 
 #### § 5. Openbaar register
 
@@ -912,9 +912,9 @@ Schema van redelijke huuraanpassingen per 1 juli 2011 voor woonruimte bij overga
 |   |   |   |   |
 | II | niet hoger dan de maximale huurprijsgrens ¹, bij overgang van de overeengekomen reguliere huurprijs **4** of huurvastprijs ³ naar een (nieuwe) huurvastprijs ³ | II | ieder percentage, voorzover de maximale huurprijsgrens ¹ niet wordt overschreden |
 |   |   |   |   |
-| III | niet hoger dan de maximale huurprijsgrens ¹, bij overgang van de huurvastprijs ³ naar een nieuwe reguliere huurprijs 4, voorzover bij de aanvang van de oude huurvastprijs ³ wèl een alternatieve reguliere huurprijs 4 bekend was | III | huurverhoging van maximaal de uitkomst van de gecumuleerde vermenigvuldiging van alle in de periode dat de huurvastprijs ³ in rekening is gebracht, per 1 juli verwachte huurprijsontwikkelingen als bedoeld in [artikel 27, eerste lid, aanhef, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=27), en de alternatieve reguliere huurprijs 4, voorzover de maximale huurprijsgrens ¹ niet wordt overschreden 5 |
+| III | niet hoger dan de maximale huurprijsgrens ¹, bij overgang van de huurvastprijs ³ naar een nieuwe reguliere huurprijs 4, voorzover bij de aanvang van de oude huurvastprijs ³ wèl een alternatieve reguliere huurprijs 4 bekend was | III | huurverhoging van maximaal de uitkomst van de gecumuleerde vermenigvuldiging van alle in de periode dat de huurvastprijs ³ in rekening is gebracht, per 1 juli verwachte huurprijsontwikkelingen als bedoeld in [artikel 27, derde lid, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=27), en de alternatieve reguliere huurprijs 4, voorzover de maximale huurprijsgrens ¹ niet wordt overschreden 5 |
 |   |   |   |   |
-| IV | niet hoger dan de maximale huurprijsgrens ¹, bij overgang van de huurvastprijs ³ naar een nieuwe reguliere huurprijs 4, voorzover bij de aanvang van de huurvastprijs ³ géén alternatieve reguliere huurprijs 4 bekend was | IV | huurverhoging van maximaal de uitkomst van de gecumuleerde vermenigvuldiging van alle in de periode dat de huurvastprijs ³ in rekening is gebracht, per 1 juli verwachte huurprijsontwikkelingen als bedoeld in [artikel 27, eerste lid, aanhef, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=27), gedeeld door 2, voor zover de maximale huurprijsgrens ¹ niet wordt overschreden 5 |
+| IV | niet hoger dan de maximale huurprijsgrens ¹, bij overgang van de huurvastprijs ³ naar een nieuwe reguliere huurprijs 4, voorzover bij de aanvang van de huurvastprijs ³ géén alternatieve reguliere huurprijs 4 bekend was | IV | huurverhoging van maximaal de uitkomst van de gecumuleerde vermenigvuldiging van alle in de periode dat de huurvastprijs ³ in rekening is gebracht, per 1 juli verwachte huurprijsontwikkelingen als bedoeld in [artikel 27, derde lid, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=27), gedeeld door 2, voor zover de maximale huurprijsgrens ¹ niet wordt overschreden 5 |
 
 ¹ De maximale huurprijsgrenzen, bedoeld in artikel 12, eerste lid, van het Besluit huurprijzen woonruimte, zoals deze gelden op de dag dat dit schema in werking treedt.
 
