@@ -4,7 +4,7 @@ identifier: "BWBR0023543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-18"
-last_updated: "2011-11-11"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023543"
 soort: "ministeriele-regeling"
@@ -174,6 +174,20 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 3. De hoofden van de inspecties, bedoeld in het eerste en tweede lid, zijn budgethouder voor de hun door de secretaris-generaal toegewezen budgetten.
 
+4. Onverminderd het eerste lid heeft de inspecteur-generaal van het onderwijs mandaat om:
+
+- a. de bekostiging voor ten hoogste vijftien procent in te houden of geheel of gedeeltelijk op te schorten, op grond van [artikel 164 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=164), [artikel 146 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=146), [artikel 104 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=104), [artikel 11.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=11.1) of [artikel 15.1 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=15.1),
+
+- b. een subsidie lager vast te stellen, te wijzigen, of gedeeltelijk in te trekken of terug te vorderen op grond van de [afdelingen 4.2.5 tot en met 4.2.7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.5),
+
+- c. bij of krachtens de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549), de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399), de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) of de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) correcties aan te brengen of bedragen in mindering te brengen op de bekostiging,
+
+- d. voor zover het niet de enige opleiding in zijn soort betreft, een waarschuwing als bedoeld in de [artikelen 6.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.5), [6.1.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.5b), [6.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.2.3), [6.2.3b](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.2.3b) en [6.3.2 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.3.2) te geven, of een besluit als bedoeld in de [artikelen 6.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.4), 6.1.5b, [6.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.2.2), 6.2.3b en 6.3.2 van die wet te nemen,
+
+- e. de bestuurlijke boete op te leggen, bedoeld in [artikel 27 van de Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=27), of
+
+- f. te beslissen op een tegen een besluit als bedoeld in de onderdelen a tot en met e ingediend bezwaarschrift.
+
 ##### Artikel 8. Mandaat aan het hoofd van de baten-lastendienst Nationaal Archief
 
 1. Het hoofd van het Nationaal Archief heeft, onverminderd de mandaatverlening aan de secretaris-generaal en de directeur-generaal, binnen het kader van de managementafspraak mandaat ten aanzien van alle aangelegenheden die verband houden met de taken en verantwoordelijkheden op zijn werkterrein.
@@ -188,7 +202,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 3. De directeuren zijn budgethouder voor de hun door de directeur-generaal toegewezen budgetten.
 
-4. Voor zover het betreft personele besluiten hebben de directeuren en direct-leidinggevenden mandaat onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2011-11-11&g=2011-11-11), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2011-11-11&g=2011-11-11), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2011-11-11&g=2011-11-11) en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2011-11-11&g=2011-11-11).
+4. Voor zover het betreft personele besluiten hebben de directeuren en direct-leidinggevenden mandaat onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2012-01-01&g=2012-01-01), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2012-01-01&g=2012-01-01), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2012-01-01&g=2012-01-01) en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2012-01-01&g=2012-01-01).
 
 5. Het verlenen van ondermandaat ten aanzien van de in lid 1 en lid 2 bedoelde bevoegdheden is, indien deze betrekking hebben op personele aangelegenheden, niet mogelijk.
 
@@ -236,7 +250,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - g. het vaststellen van de OCW-formatie en de verdeling van de personeelscapaciteit van de OCW-formatie,
 
-- h. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2011-11-11&g=2011-11-11),
+- h. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2012-01-01&g=2012-01-01),
 
 - i. het nemen van besluiten die voor alle ambtenaren van het Ministerie gelden
 
@@ -266,7 +280,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - c. vaststelling of wijziging van het organisatie- en capaciteitsplan van een onder hem ressorterend dienstonderdeel,
 
-- d. het treffen van disciplinaire straffen, met uitzondering van voorwaardelijk en onvoorwaardelijk strafontslag en onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2011-11-11&g=2011-11-11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2011-11-11&g=2011-11-11) en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2011-11-11&g=2011-11-11),
+- d. het treffen van disciplinaire straffen, met uitzondering van voorwaardelijk en onvoorwaardelijk strafontslag en onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2012-01-01&g=2012-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2012-01-01&g=2012-01-01) en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2012-01-01&g=2012-01-01),
 
 - e. opstellen van het bestedingsplan voor zijn directoraat-generaal, inspectie of baten-lastendienst op basis van de bestedingsplannen van de onder hem ressorterende organisatieonderdelen,
 
@@ -278,13 +292,13 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 2. Voor het inhuren van externe professionals en uitzendkrachten door een directeur is voorafgaande goedkeuring van de directeur-generaal vereist voor zover het betreft bedragen boven € 60 per uur.
 
-3. De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaarschriften onverminderd [artikel 12, eerste lid, onderdeel o](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2011-11-11&g=2011-11-11).
+3. De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaarschriften onverminderd [artikel 7, vierde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=7&z=2012-01-01&g=2012-01-01), en [artikel 12, eerste lid, onderdeel o](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2012-01-01&g=2012-01-01).
 
 4. Met uitzondering van de bevoegdheid bedoeld in lid 3 is ondermandaat van de bevoegdheden, bedoeld in dit artikel niet mogelijk.
 
 ##### Artikel 14. Voorbehouden aan de directeur-generaal DUO en de directeur P&O
 
-1. De directeur Personeel & Organisatie is met uitsluiting van anderen dan de secretaris-generaal gemandateerd met betrekking tot het nemen van personele besluiten, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2011-11-11&g=2011-11-11), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2011-11-11&g=2011-11-11), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2011-11-11&g=2011-11-11) en het tweede lid, voor zover het betreft:
+1. De directeur Personeel & Organisatie is met uitsluiting van anderen dan de secretaris-generaal gemandateerd met betrekking tot het nemen van personele besluiten, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2012-01-01&g=2012-01-01), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2012-01-01&g=2012-01-01), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2012-01-01&g=2012-01-01) en het tweede lid, voor zover het betreft:
 
 - a. aanstellings- en benoemingsbesluiten en daaraan voorafgaande besluiten die daarop betrekking hebben,
 
@@ -294,9 +308,9 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - d. besluiten inhoudende erkenning van aansprakelijkheid ten aanzien van beroepsziekte, dienstongeval en beroepsincident en daaruit voortvloeiende besluiten met betrekking tot vergoeding van schade en besluiten met betrekking tot vergoedingen als bedoeld in de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=47), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=48), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=66), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=69) en [73 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=73).
 
-2. De directeur-generaal DUO is met uitsluiting van anderen dan de secretaris-generaal gemandateerd, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2011-11-11&g=2011-11-11) en [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2011-11-11&g=2011-11-11), voor de onder hem ressorterende medewerkers ten aanzien van de personele besluiten, genoemd in het eerste lid.
+2. De directeur-generaal DUO is met uitsluiting van anderen dan de secretaris-generaal gemandateerd, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2012-01-01&g=2012-01-01) en [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2012-01-01&g=2012-01-01), voor de onder hem ressorterende medewerkers ten aanzien van de personele besluiten, genoemd in het eerste lid.
 
-3. In afwijking van het bepaalde in [artikel 11 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=11&z=2011-11-11&g=2011-11-11) van dit besluit is ondermandaat van de in dit artikel opgenomen bevoegdheden mogelijk na instemming van de secretaris-generaal en de plaatsvervangend secretaris-generaal.
+3. In afwijking van het bepaalde in [artikel 11 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=11&z=2012-01-01&g=2012-01-01) van dit besluit is ondermandaat van de in dit artikel opgenomen bevoegdheden mogelijk na instemming van de secretaris-generaal en de plaatsvervangend secretaris-generaal.
 
 ##### Artikel 15. Afwezigheid of verhindering
 
@@ -322,7 +336,7 @@ handtekening van de gemandateerde,
 
 naam van de gemandateerde.
 
-2. De gemandateerde is gehouden in de ondertekening van stukken als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14a&z=2011-11-11&g=2011-11-11) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
+2. De gemandateerde is gehouden in de ondertekening van stukken als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14a&z=2012-01-01&g=2012-01-01) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
 
 **De minister van Onderwijs, Cultuur en Wetenschap en de minister van Infrastructuur en Milieu,**
 
