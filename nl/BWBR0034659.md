@@ -4,7 +4,7 @@ identifier: "BWBR0034659"
 country: "nl"
 rank: "wet"
 publication_date: "2016-08-01"
-last_updated: "2008-01-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034659"
 soort: "wet"
@@ -159,7 +159,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXIX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet tegemoetkoming chronisch zieken en gehandicapten.
 
 ##### Artikel XXX
 
