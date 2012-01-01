@@ -4,7 +4,7 @@ identifier: "BWBR0033599"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2011-01-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033599"
 soort: "wet"
@@ -95,7 +95,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIII. [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0009646)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet arbeid en zorg.
 
 ##### Artikel IX. [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
 
@@ -111,7 +111,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XII. [Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de economische delicten.
 
 ##### Artikel XIII. [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745)
 
