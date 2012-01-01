@@ -4,7 +4,7 @@ identifier: "BWBR0030748"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-02-27"
-last_updated: "2006-01-25"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030748"
 soort: "ministeriele-regeling"
@@ -67,7 +67,7 @@ Voor het afnemen van bloed wordt gebruik gemaakt van een bloedlancet en ongepoed
 
 ##### Artikel 5
 
-Met de in de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030748&artikel=2&z=2006-01-25&g=2006-01-25) genoemde hulpmiddelen worden gelijkgesteld hulpmiddelen die rechtmatig zijn geproduceerd of in de handel zijn gebracht in een andere lidstaat van de Europese Unie dan wel een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, en die ten minste aan gelijkwaardige specificaties voldoen.
+Met de in de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030748&artikel=2&z=2012-01-01&g=2012-01-01) genoemde hulpmiddelen worden gelijkgesteld hulpmiddelen die rechtmatig zijn geproduceerd of in de handel zijn gebracht in een andere lidstaat van de Europese Unie dan wel een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, en die ten minste aan gelijkwaardige specificaties voldoen.
 
 ##### Artikel 6
 
@@ -75,7 +75,7 @@ Het identiteitszegel, genoemd in de [artikelen 4, eerste lid, onder a en b](http
 
 ##### Artikel 7
 
-Het sluitzegel, genoemd in de artikelen [artikel 4, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=4), [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=5), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=8), en [11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=11), is een zelfklevend, elastisch en fraudebestendig zegel met de opdruk ‘NFI, Nederlands Forensisch Instituut, Ministerie van Justitie’.
+Het sluitzegel, genoemd in de artikelen [artikel 4, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=4), [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=5), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=8), en [11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=11), is een zelfklevend, elastisch en fraudebestendig zegel.
 
 ##### Artikel 8
 
