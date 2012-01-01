@@ -4,7 +4,7 @@ identifier: "BWBR0030864"
 country: "nl"
 rank: "wet"
 publication_date: "2012-01-01"
-last_updated: "2011-07-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030864"
 soort: "wet"
@@ -45,11 +45,11 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ##### Artikel I. [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene Kinderbijslagwet.
 
 ##### Artikel II. [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene nabestaandenwet.
 
 ##### Artikel III. [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
 
@@ -57,39 +57,39 @@ Wijzigt de Algemene Ouderdomswet.
 
 ##### Artikel IV. [Arbeidsgeschillenwet 1946 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028178)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Arbeidsgeschillenwet 1946 BES.
 
 ##### Artikel V. [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Arbeidsomstandighedenwet.
 
 ##### Artikel VI. [Cessantiawet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028304)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Cessantiawet BES.
 
 ##### Artikel VII. [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Toeslagenwet.
 
 ##### Artikel VIII. [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Werkloosheidswet.
 
 ##### Artikel IX. [Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet algemene weduwen- en wezenverzekering BES.
 
 ##### Artikel X. [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet arbeid en zorg.
 
 ##### Artikel XI. [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.
 
 ##### Artikel XII. [Wet beëindiging arbeidsovereenkomsten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028174)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet beëindiging arbeidsovereenkomsten BES.
 
 ##### Artikel XIII. [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745)
 
@@ -97,39 +97,39 @@ Wijzigt de Wet financiering sociale verzekeringen.
 
 ##### Artikel XIV. [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.
 
 ##### Artikel XV. [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.
 
 ##### Artikel XVI. [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomensvoorziening oudere werklozen.
 
 ##### Artikel XVII. [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
 
 ##### Artikel XVIIa. Wijziging van de [Wet op de Europese ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0008508)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de Europese ondernemingsraden.
 
 ##### Artikel XVIII. [Wet participatiebudget](https://wetten.overheid.nl/jci1.3:c:BWBR0025039)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet participatiebudget.
 
 ##### Artikel XIX. [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
 
 ##### Artikel XIXa. [Wet uniformering loonbegrip](https://wetten.overheid.nl/jci1.3:c:BWBR0030105)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet uniformering loonbegrip.
 
 ##### Artikel XX. [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet werk en arbeidsondersteuning jonggehandicapten.
 
 ##### Artikel XXI. [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
 
@@ -137,23 +137,23 @@ Wijzigt de Wet werk en bijstand.
 
 ##### Artikel XXIa. Wijziging van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) na inwerkingtreding [Wet interbestuurlijk toezicht gemeentelijke inkomens- en werkvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0030548)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet werk en bijstand.
 
 ##### Artikel XXII. [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
 
 ##### Artikel XXIII. [Wet Werkloosheidsvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0002470)
 
-Dit onderdeel is nog niet inwerking getreden
+De [Wet Werkloosheidsvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0002470) wordt ingetrokken.
 
 ##### Artikel XXIV. [Wet wijziging verrekening inkomsten met ziekengeld](https://wetten.overheid.nl/jci1.3:c:BWBR0030113)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet wijziging verrekening inkomsten met ziekengeld.
 
 ##### Artikel XXV. [Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet ziekteverzekering BES.
 
 ##### Artikel XXVI. [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
 
@@ -161,26 +161,26 @@ Wijzigt de Ziektewet.
 
 ##### Artikel XXVII. Wijziging van de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) in verband met [Wet uniformering loonbegrip](https://wetten.overheid.nl/jci1.3:c:BWBR0030105)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet financiering sociale verzekeringen.
 
 ##### Artikel XXVIIa. Wijziging van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) in verband met [Wet uniformering loonbegrip](https://wetten.overheid.nl/jci1.3:c:BWBR0030105)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet werk en bijstand.
 
 ##### Artikel XXVIII. Wijziging van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) in verband met [Wet van 6 juni 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030083)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Werkloosheidswet.
 
 ##### Artikel XXIX. Wijziging van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) in verband met [Wet van 6 juni 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030083)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Ziektewet.
 
 ##### Artikel XXX. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, en kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 ##### Artikel XXXI. Citeertitel
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Verzamelwet SZW 2012.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
