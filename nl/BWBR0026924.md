@@ -4,7 +4,7 @@ identifier: "BWBR0026924"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-03-01"
-last_updated: "2011-01-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026924"
 soort: "ministeriele-regeling"
@@ -60,10 +60,10 @@ Voor de verdeelmaatstaven, bedoeld in [bijlage 1 bij het Besluit participatiebud
 
 | Verdeelmaatstaf | Peiljaar | Gewicht |
 | --- | --- | --- |
-| Aantal bijstandsontvangers | 2008 | 1,62 |
-| Aantal WW-ontvangers | 2008 | -0,20 |
-| Omvang beroepsbevolking | 2007-2009 | -0,01 |
-| Kwalitatieve discrepantie laaggeschoolde arbeid | 2007-2009 | 0,31 |
+| Aantal bijstandsontvangers | 2009 | 1,62 |
+| Aantal WW-ontvangers | 2009 | -0,20 |
+| Omvang beroepsbevolking | 2008-2010 | -0,01 |
+| Kwalitatieve discrepantie laaggeschoolde arbeid | 2008-2010 | 0,31 |
 
 ##### Artikel 3. Inwerkingtreding
 
@@ -77,7 +77,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a. Statistiek re-integratie door gemeenten
 
-1. Indien de gegevens, bedoeld in [artikel 5, eerste lid, van de Regeling statistiek WWB, WIJ, IOAW, IOAZ en WWIK](https://wetten.overheid.nl/jci1.3:c:BWBR0017194&artikel=5), op de datum, bedoeld in voornoemd lid, niet zijn ontvangen of niet volledig zijn, schort de Minister van Sociale Zaken en Werkgelegenheid de betaling van het participatiebudget voor het lopende vergoedingsjaar op met ingang van de kalendermaand volgend op de kalendermaand waarin de Minister van Sociale Zaken van de externe bewerker, bedoeld in voornoemd lid, daarvan bericht heeft ontvangen, doch niet gedurende de periode waarover door de Minister van Sociale Zaken en Werkgelegenheid aan het college in geval van overmacht uitstel is verleend.
+1. Indien de gegevens, bedoeld in [artikel 5, eerste lid, van de Regeling statistiek WWB, IOAW en IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0017194&artikel=5), op de datum, bedoeld in voornoemd lid, niet zijn ontvangen of niet volledig zijn, schort de Minister van Sociale Zaken en Werkgelegenheid de betaling van het participatiebudget voor het lopende vergoedingsjaar op met ingang van de kalendermaand volgend op de kalendermaand waarin de Minister van Sociale Zaken van de externe bewerker, bedoeld in voornoemd lid, daarvan bericht heeft ontvangen, doch niet gedurende de periode waarover door de Minister van Sociale Zaken en Werkgelegenheid aan het college in geval van overmacht uitstel is verleend.
 
 2. De betaling van de uitkering wordt hervat op de vijftiende van de kalendermaand volgend op de kalendermaand waarin de gegevens, bedoeld in het eerste lid, volledig zijn ontvangen door de Minister van Sociale Zaken en Werkgelegenheid.
 
