@@ -4,7 +4,7 @@ identifier: "BWBR0029916"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-07-17"
-last_updated: "2011-04-30"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029916"
 soort: "ministeriele-regeling"
@@ -52,9 +52,9 @@ In deze regeling wordt verstaan onder:
 
 1. De testmethode, bedoeld in [artikel 2.2, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=2.2) is de methode prEN 16135 of de methode prEN 16136.
 
-2. De testmethode, bedoeld in [artikel 2.3, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=2.3) is de methode EN 228:2009.
+2. De testmethode, bedoeld in [artikel 2.3, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=2.3) is de methode EN 228:2008.
 
-3. De testmethode, bedoeld in de [artikelen 2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=2.5), en [2.6, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=2.6) is de methode EN 590:2004.
+3. De testmethode, bedoeld in de [artikelen 2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=2.5), en [2.6, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=2.6) is de methode EN 590:2009.
 
 ##### Artikel 3
 
@@ -102,7 +102,7 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Regeling brandstoffen luchtverontreiniging.
 
-## Bijlage. bij [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029916&artikel=4&z=2011-04-30&g=2011-04-30), van de Regeling brandstoffen luchtverontreiniging
+## Bijlage. bij [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029916&artikel=4&z=2012-01-01&g=2012-01-01), van de Regeling brandstoffen luchtverontreiniging
 
 Vereisten rapportage als bedoeld in [artikel 2.9, derde lid, van het Besluit brandstoffen luchtverontreiniging](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=2.9)
 
