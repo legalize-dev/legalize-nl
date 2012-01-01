@@ -4,7 +4,7 @@ identifier: "BWBR0013257"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-07-01"
-last_updated: "2006-03-24"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013257"
 soort: "ministeriele-regeling"
@@ -45,7 +45,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2. Bezoldiging
 
-1. De bezoldiging van een lid bedraagt € 129.327 bruto per jaar.
+1. De bezoldiging van een lid bedraagt € 172.709 bruto per jaar.
 
 2. Het bedrag, bedoeld in het eerste lid, is inclusief een vakantie- en een eindejaarsuitkering overeenkomstig de bepalingen van de voor het UWV geldende CAO.
 
@@ -55,15 +55,11 @@ De vakantie- en eindejaarsuitkering worden eens per jaar uitbetaald, in de maand
 
 4. Het bedrag, bedoeld in het eerste lid, wordt aangepast aan de ontwikkeling van de lonen in de voor het UWV geldende CAO.
 
-5. Indien een lid naar het oordeel van de voorzitter in een kalenderjaar door hem vastgestelde bijzondere doelstellingen heeft bereikt, kan de voorzitter hem uiterlijk in de maand april van het jaar, volgend op dat kalenderjaar, een toelage toekennen van maximaal 10% van de bezoldiging, bedoeld in het eerste lid.
-
 ##### Artikel 3. Kostenvergoedingen
 
 1. Een lid heeft recht op een vergoeding van reis- en verblijfkosten overeenkomstig de regeling van het UWV voor het vergoeden van reis- en verblijfkosten.
 
 2. Een lid ontvangt een representatievergoeding overeenkomstig het [Besluit vergoeding representatiekosten rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006102).
-
-3. Een lid ontvangt een tegemoetkoming in de ziektekosten overeenkomstig de bepalingen van de voor het UWV geldende CAO.
 
 ##### Artikel 4. Verlof
 
@@ -100,6 +96,8 @@ In geval van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte of 
 2. Het UWV is belast met de uitvoering van deze regeling.
 
 3. Voor zover niet anders is vermeld zijn de bepalingen van de voor het UWV geldende CAO van overeenkomstige toepassing.
+
+4. Het werkgeversdeel van de premie voor de pensioenregeling komt ten laste van het UWV tot een bedrag van maximaal € 28.767.
 
 ##### Artikel 9. Citeertitel
 
