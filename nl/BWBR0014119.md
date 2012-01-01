@@ -4,7 +4,7 @@ identifier: "BWBR0014119"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-07-01"
-last_updated: "2008-08-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014119"
 soort: "AMvB"
@@ -62,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 - c. Financiële onderneming:
 
-- 1°. een kredietinstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
+- 1°. een bank als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
 
 - 2°. een verzekeraar als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
 
@@ -90,7 +90,7 @@ In dit besluit wordt verstaan onder:
 
 - 5°. verlenen van een dienst als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Wet inzake de geldtransactiekantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0013816&artikel=1);
 
-- 6°. sluiten van een overeenkomst van levensverzekering als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) tegen een premie als bedoeld in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), alsmede het daarbij bemiddelen als bedoeld in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
+- 6°. sluiten van een overeenkomst van levensverzekering als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) tegen een premie als bedoeld in dat artikel, alsmede het daarbij bemiddelen als bedoeld in dat artikel;
 
 - 7°. doen van een uitkering uit hoofde van een levensverzekeringsovereenkomst als bedoeld onder 6°;
 
@@ -118,13 +118,13 @@ De melding bevat, voor zover mogelijk, de volgende gegevens:
 
 ##### Artikel 4
 
-1. Het meldpunt is bevoegd bij degene die een melding heeft gedaan, alsmede bij degene die bij een financiële dienst als bedoeld in [artikel 1, onderdeel d, onder 8°](https://wetten.overheid.nl/jci1.3:c:BWBR0014119&artikel=1&z=2008-08-01&g=2008-08-01), bij een transactie is betrokken waarover het meldpunt gegevens heeft verzameld, nadere gegevens of inlichtingen te vragen, teneinde te kunnen beoordelen of verzamelde gegevens dienen te worden verstrekt op grond van zijn taak bedoeld in [artikel 13, onderdeel b, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=13).
+1. Het meldpunt is bevoegd bij degene die een melding heeft gedaan, alsmede bij degene die bij een financiële dienst als bedoeld in [artikel 1, onderdeel d, onder 8°](https://wetten.overheid.nl/jci1.3:c:BWBR0014119&artikel=1&z=2012-01-01&g=2012-01-01), bij een transactie is betrokken waarover het meldpunt gegevens heeft verzameld, nadere gegevens of inlichtingen te vragen, teneinde te kunnen beoordelen of verzamelde gegevens dienen te worden verstrekt op grond van zijn taak bedoeld in [artikel 13, onderdeel b, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=13).
 
 2. Degene aan wie overeenkomstig het eerste lid deze gegevens of inlichtingen zijn gevraagd, is verplicht deze aan het meldpunt schriftelijk, alsmede in spoedeisende gevallen mondeling, te verstrekken binnen de door het meldpunt gestelde termijn.
 
 ##### Artikel 5
 
-Degene die ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014119&artikel=2&z=2008-08-01&g=2008-08-01) een melding doet, is verplicht tot geheimhouding daarvan, onverminderd het bepaalde in [artikel 10 van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10), behoudens voor zover uit de doelstelling van dit besluit de noodzaak tot bekendmaking voortvloeit.
+Degene die ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014119&artikel=2&z=2012-01-01&g=2012-01-01) een melding doet, is verplicht tot geheimhouding daarvan, onverminderd het bepaalde in [artikel 10 van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10), behoudens voor zover uit de doelstelling van dit besluit de noodzaak tot bekendmaking voortvloeit.
 
 ##### Artikel 6
 
