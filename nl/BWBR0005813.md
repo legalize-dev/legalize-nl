@@ -4,7 +4,7 @@ identifier: "BWBR0005813"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2011-01-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005813"
 soort: "ministeriele-regeling"
@@ -41,7 +41,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. Deze regeling geeft uitvoering aan [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=3), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=4), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=8), [9, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9), [9a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9a), [9b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9b), [9c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9c), [10, tweede, zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=10), [10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=10a), [13a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=13a), [14a, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=14a), [15a, zevende en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15a), [16, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16), [17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=17), en [34 van de Wet op de belasting van personenauto's en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=34).
+1. Deze regeling geeft uitvoering aan de [artikelen 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=3), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=4), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=8), [9, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9), [9a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9a), [9b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9b), [9c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9c), [10, tweede, zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=10), [10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=10a), [10c, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=10c), [13a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=13a), [14a, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=14a), [14b, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=14b), [15a, zevende en dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15a), [16, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16), en [17, derde lid, van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=17).
 
 2. Deze regeling verstaat onder:
 
@@ -109,7 +109,7 @@ Vervallen
 
 ##### Artikel 6
 
-1. De toestemming als bedoeld in [artikel 8, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=8) wordt verleend aan een ondernemer die een zodanige administratie voert dat daarin naar het oordeel van de inspecteur op duidelijke en overzichtelijke wijze alle voor de heffing van de belasting van belang zijnde gegevens zijn opgenomen.
+1. De toestemming als bedoeld in [artikel 8, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=8) wordt verleend aan een ondernemer die een zodanige administratie voert dat daarin naar het oordeel van de inspecteur op duidelijke en overzichtelijke wijze alle voor de heffing van de belasting van belang zijnde gegevens zijn opgenomen. De inspecteur kan ter zake nadere voorwaarden en beperkingen stellen, waarbij de toestemming voor gebruikte motorrijtuigen kan worden beperkt tot motorrijtuigen waarvoor de vermindering ingevolge [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=10), wordt vastgesteld op de voet van artikel 10, zesde lid, van de wet.
 
 2. De administratie dient in ieder geval te bevatten de regelmatige aantekening van de data van de tenaamstelling van de kentekens van motorrijtuigen waarvoor een kenteken is aangevraagd.
 
@@ -145,9 +145,13 @@ Het voldoen aan de in [artikel 9b, eerste lid, van de wet](https://wetten.overhe
 
 5. De opgaaf, bedoeld in [artikel 10, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=10), bestaat uit:
 
-- a. een verwijzing naar een in de handel algemeen toegepaste koerslijst voor de inkoop van gebruikte motorrijtuigen door wederverkopers in Nederland, onder overlegging van een kopie van de desbetreffende passage uit die koerslijst; of
+- a. een verwijzing naar een in de handel algemeen toegepaste koerslijst voor de inkoop van gebruikte motorrijtuigen door wederverkopers in Nederland, onder overlegging van een kopie van de passage uit die koerslijst waaraan de bij de aangifte toegepaste afschrijving, bedoeld in [artikel 10, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=10), is ontleend; of
 
-- b. een taxatierapport, opgemaakt ten hoogste een maand vóór het tijdstip waarop aan het motorrijtuig een kenteken wordt toegekend dan wel ten hoogste een maand vóór het tijdstip van aanvang van het gebruik met het motorrijtuig van de weg in Nederland, door een onafhankelijke, erkende taxateur in de staat waarin het motorrijtuig op dat tijdstip verkeert, waaruit inzichtelijk en gedetailleerd de waarde blijkt bij inkoop van het motorrijtuig door een wederverkoper in Nederland, voorzien van een verklaring van de taxateur dat de in het taxatierapport opgegeven waarde door hem naar waarheid is vastgesteld aan de hand van een gedegen fysieke opname van het motorrijtuig onder vermelding van plaats, datum en begin- en eindtijdstip van deze fysieke opname, alsmede, indien de inspecteur daar om verzoekt, een kopie van de aankoopfactuur en het betalingsbewijs van het gebruikte motorrijtuig.
+- b. het bij de aangifte gebruikte taxatierapport:
+
+- –. dat is opgemaakt ten hoogste een maand vóór het tijdstip dat de belasting ingevolge [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=1) is verschuldigd, in de staat waarin het motorrijtuig op dat tijdstip verkeert, door een onafhankelijke, erkende taxateur, waaruit inzichtelijk en gedetailleerd de waarde blijkt bij inkoop van het motorrijtuig door een wederverkoper in Nederland; en
+
+- –. dat is voorzien van een verklaring van de taxateur dat de in het taxatierapport opgegeven waarde door hem naar waarheid is vastgesteld aan de hand van een gedegen fysieke opname van het motorrijtuig, onder vermelding van datum, begin- en eindtijd van deze fysieke opname en naam, adres en woonplaats van degene die de taxatie feitelijk heeft verricht.
 
 6. Bij toepassing van de [artikelen 10, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=10) en [10a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=10a) is de afschrijving, bedoeld in artikel 10, tweede lid, van de wet, een percentage van het belastingbedrag, bedoeld in [artikel 9, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9), na toepassing van [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9a), [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9b) en [artikel 9c, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9c), welk percentage is aangegeven in de navolgende tabel. Het vierde lid blijft in dat geval buiten toepassing.
 
@@ -172,6 +176,8 @@ Het voldoen aan de in [artikel 9b, eerste lid, van de wet](https://wetten.overhe
 
 8. In afwijking van het tweede lid en het derde lid wordt de afschrijving vastgesteld aan de hand van de in het zesde lid opgenomen tabel, indien daarop een beroep wordt gedaan in het aangiftebiljet.
 
+9. De inspecteur kan, met het oog op een juiste toepassing van [artikel 10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=10), bepalen dat het motorrijtuig gedurende ten hoogste zes werkdagen na de datum waarop de aangifte is ingediend in ongewijzigde staat beschikbaar wordt gehouden teneinde het motorrijtuig in deze staat op een door de inspecteur aan te wijzen plaats en tijdstip te tonen.
+
 ##### Artikel 9
 
 1. De zekerheid bedoeld in [artikel 17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=17) wordt bepaald aan de hand van het bedrag van de belasting dat degene aan wie de toestemming als bedoeld in [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=8) is verleend gemiddeld per aangiftetijdvak verschuldigd is ter zake van de registratie van de motorrijtuigen waarvoor door hem kentekens zijn aangevraagd.
@@ -188,11 +194,11 @@ Vervallen
 
 ##### Artikel 11
 
-In afwijking van [artikel 31, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=31), worden met betrekking tot personenauto's en motorrijwielen die na 31 december 1992 worden geregistreerd en waarvoor vóór 1 januari 1993 bijzondere verbruiksbelasting van personenauto's of bijzondere verbruiksbelasting van motorrijwielen verschuldigd is geworden, die belastingen inclusief de daarover ter zake verschuldigde omzetbelasting verrekend met de belasting van personenauto's en motorrijwielen, voor zover die omzetbelasting niet in aanmerking komt voor aftrek op grond van [artikel 15 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15) (Stb. 329).
+Vervallen
 
 ##### Artikel 12
 
-Met betrekking tot naheffingsaanslagen in de bijzondere verbruiksbelasting van personenauto's en de bijzondere verbruiksbelasting van motorrijwielen blijven de bepalingen van de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) (Stb. 221) zoals deze luidden op 31 december 1992 van toepassing.
+Vervallen
 
 ##### Artikel 13
 
@@ -202,9 +208,11 @@ Met betrekking tot naheffingsaanslagen in de bijzondere verbruiksbelasting van p
 
 ##### Artikel 8a
 
-1. Onder een niet-opvouwbare rolstoel wordt voor de toepassing van [artikel 15a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15a) mede verstaan een ander in verband met de handicap noodzakelijk hulpmiddel van een dusdanige omvang of een dusdanig gewicht, dat de gehandicapte, rekening houdend met zijn specifieke handicap, voor zijn vervoer is aangewezen op het gebruik van een bestelauto.
+1. Voor de toepassing van de vermindering van de verschuldigde belasting, bedoeld in [artikel 10c, tweede of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=10c), worden bij de voldoening op aangifte van de voor het motorrijtuig verschuldigde belasting ingevolge [artikel 1, derde of zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=1), op verzoek van de inspecteur nadere gegevens overgelegd die naar zijn oordeel van belang zijn voor een juiste vaststelling van de vermindering.
 
-2. Onder een bestelauto, ingericht voor het vervoer als bedoeld in [artikel 15a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15a), wordt verstaan een bestelauto die voorzieningen bevat ten behoeve van het vervoer van een niet-opvouwbare rolstoel of het vervoer van een ander hulpmiddel als bedoeld in het eerste lid en het gelijktijdige vervoer van de gehandicapte, zoals voorzieningen voor het met of vanuit een rolstoel of een ander hulpmiddel kunnen plaatsnemen in en verlaten van de bestelauto, voor het vastzetten van een rolstoel of een ander hulpmiddel in de cabine op de plaats van een zitplaats, en voor het vastzetten van een rolstoel of een ander hulpmiddel zonder passagier in de laadruimte.
+2. De vermindering, bedoeld in het eerste lid, wordt berekend met overeenkomstige toepassing van [artikel 8d, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005813&artikel=8d&z=2012-01-01&g=2012-01-01), met dien verstande, dat de vermindering wordt vastgesteld aan de hand van de tijdsduur die is verstreken tussen het tijdstip waarop het motorrijtuig voor het eerst in gebruik is genomen in de hoedanigheid waarin het eerder in de heffing van de belasting is betrokken, en het tijdstip waarop voor het motorrijtuig de belasting opnieuw is verschuldigd ingevolge [artikel 1, derde of zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=1).
+
+3. Ingeval voor het motorrijtuig teruggaaf van de eerder betaalde belasting is verleend, wordt de vermindering alleen toegepast voor zover de eerder teruggegeven belasting op een later tijdstip alsnog als verschuldigde belasting is voldaan.
 
 ##### Artikel 8b
 
@@ -267,13 +275,13 @@ Vervallen
 
 2. Indien sinds het tijdstip waarop de belasting verschuldigd is geworden minder dan drie maanden zijn verstreken, wordt de vermindering voor een nog niet verstreken maand in afwijking van het eerste lid naar tijdsgelang per dag berekend, waarbij de vermindering per dag wordt gesteld op een dertigste deel van de vermindering voor die maand ingevolge de tabel.
 
-3. De vermindering van het belastingbedrag, bedoeld in [artikel 15a, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15a), en [artikel 16, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16), is een percentage van het belastingbedrag, zoals aangegeven in de tabel opgenomen in [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005813&artikel=8&z=2011-01-01&g=2011-01-01).
+3. De vermindering van het belastingbedrag, bedoeld in [artikel 15a, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15a), en [artikel 16, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16), is een percentage van het belastingbedrag, zoals aangegeven in de tabel opgenomen in [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005813&artikel=8&z=2012-01-01&g=2012-01-01).
 
-4. Indien de belasting voor een gebruikt motorrijtuig is geheven met toepassing van een andere vermindering dan de vermindering zoals deze voor motorrijtuigen van die leeftijd voortvloeit uit de tabel opgenomen in [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005813&artikel=8&z=2011-01-01&g=2011-01-01), wordt de teruggaaf aangepast. Voor de berekening van de teruggaaf wordt daartoe de som van de percentages, bedoeld in het eerste lid, onderscheidenlijk het percentage, bedoeld in het derde lid, toegepast op het resultaat van de volgende formule:
+4. Indien de belasting voor een gebruikt motorrijtuig is geheven met toepassing van een andere vermindering dan de vermindering zoals deze voor motorrijtuigen van die leeftijd voortvloeit uit de tabel opgenomen in [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005813&artikel=8&z=2012-01-01&g=2012-01-01), wordt de teruggaaf aangepast. Voor de berekening van de teruggaaf wordt daartoe de som van de percentages, bedoeld in het eerste lid, onderscheidenlijk het percentage, bedoeld in het derde lid, toegepast op het resultaat van de volgende formule:
 
 (geheven belasting × 100) / (100 – tabelpercentage)
 
-Daarbij is geheven belasting de belasting die voor dat motorrijtuig met toepassing van die andere vermindering is geheven, en tabelpercentage het percentage dat van toepassing zou zijn geweest indien de belasting zou zijn geheven met toepassing van de vermindering ingevolge de tabel in [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005813&artikel=8&z=2011-01-01&g=2011-01-01).
+Daarbij is geheven belasting de belasting die voor dat motorrijtuig met toepassing van die andere vermindering is geheven, en tabelpercentage het percentage dat van toepassing zou zijn geweest indien de belasting zou zijn geheven met toepassing van de vermindering ingevolge de tabel in [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005813&artikel=8&z=2012-01-01&g=2012-01-01).
 
 5. Indien degene die om teruggaaf van belasting verzoekt op grond van [artikel 14a, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=14a), ondernemer is als bedoeld in [artikel 7 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=7), niet zijnde een ondernemer als bedoeld in [artikel 7, zesde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=7), kan de inspecteur goedkeuren dat bij het verzoek de overlegging van de bescheiden, bedoeld in [artikel 4a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=4a), onderscheidenlijk [artikel 4b, eerste lid, onderdeel c, van het Uitvoeringsbesluit belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=4b), achterwege blijft, onder de voorwaarde dat de ondernemer deze bescheiden bewaart in zijn administratie.
 
@@ -290,3 +298,9 @@ Voor de toepassing van de [artikelen 9, elfde lid](https://wetten.overheid.nl/jc
 - c. indien voor de auto geen typegoedkeuring is verleend, geen certificaat van overeenstemming is afgegeven en ook geen individuele goedkeuring is verleend: een testrapport van een individuele keuring van de auto, waarbij de CO2-emissie is gemeten overeenkomstig de ter zake in het kader van de Europese Unie tot stand gekomen geldende voorschriften;
 
 - d. in andere gevallen dan bedoeld in de onderdelen a, b en c: een goedkeuring van de auto waaruit de CO2-emissie van de auto blijkt, gemeten overeenkomstig de voorschriften van de Economische Commissie voor Europa van de Verenigde Naties, dan wel een gelijkwaardig internationaal reglement.
+
+##### Artikel 8da
+
+1. Bij een verkorting of verlenging van de overeengekomen huurperiode als bedoeld in [artikel 14b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=14b), worden, in geval van een verkorting, bij het verzoek om teruggaaf, dan wel, in geval van een verlenging, bij de voldoening op aangifte, alle met betrekking tot het motorrijtuig afgesloten huurovereenkomsten met de ondernemer, bedoeld in artikel 14b, eerste lid, van de wet, overgelegd, alsmede aanvullende gegevens voor zover deze naar het oordeel van de inspecteur noodzakelijk zijn om de voor het motorrijtuig overeengekomen wijziging van de totale huurperiode eenvoudig vast te kunnen stellen. Van overeenkomsten of aanvullende gegevens die niet zijn opgemaakt in de Nederlandse of de Engelse taal, wordt een vertaling in één van deze talen bijgevoegd.
+
+2. In het verzoek, dan wel bij de aangifte, bedoeld in het eerste lid, vermeldt de huurder van het motorrijtuig de nieuwe in totaal met de verhuurder overeengekomen huurperiode, en verklaart daarbij dat overigens geen andere afspraken zijn gemaakt met de verhuurder van het motorrijtuig over de periode waarin het motorrijtuig tot zijn beschikking zal staan.
