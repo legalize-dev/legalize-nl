@@ -4,7 +4,7 @@ identifier: "BWBR0014764"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2006-07-09"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014764"
 soort: "ministeriele-regeling"
@@ -45,9 +45,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **minister:** Minister van Verkeer en Waterstaat;
+- a. **minister:** Minister van Infrastructuur en Milieu;
 
-- b. **certificaat:** een door een erkende opleidingsinstelling als bedoeld in artikel 1, onderdeel a, van de Regeling erkenning opleidingsinstellingen en examinering voor het vervoer van gevaarlijke stoffen door de lucht afgegeven certificaat inzake het vervoer van gevaarlijke stoffen door de lucht als bedoeld in artikel 9 van die regeling.
+- b. **certificaat:** een door een erkende opleidingsinstelling als bedoeld in [artikel 1, onderdeel a, van de Regeling erkenning opleidingsinstellingen en examinering vervoer gevaarlijke stoffen door de lucht](https://wetten.overheid.nl/jci1.3:c:BWBR0014765&artikel=1) afgegeven certificaat inzake het vervoer van gevaarlijke stoffen door de lucht als bedoeld in [artikel 9 van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0014765&artikel=9).
 
 ### Hoofdstuk 2. Procedureregels
 
@@ -55,13 +55,15 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-De aanvraag voor verlening van een erkenning wordt ingediend door middel van een daartoe volledig ingevuld en ondertekend formulier, waarvan exemplaren kosteloos bij de minister zijn te verkrijgen.
+1. Een erkenning wordt aangevraagd door indiening bij de minister van een volledig ingevuld en ondertekend aanvraagformulier.
+
+2. Exemplaren van het aanvraagformulier, bedoeld in het eerste lid, zijn kosteloos bij de minister te verkrijgen.
 
 ##### Artikel 3
 
 De aanvraag voor verlening van een erkenning gaat vergezeld van:
 
-- a. een verklaring waarin de aanvrager aangeeft dat de aangeleverde informatie juist is en dat aan [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2006-07-09&g=2006-07-09) wordt voldaan;
+- a. een verklaring waarin de aanvrager aangeeft dat de aangeleverde informatie juist is en dat aan [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2012-01-01&g=2012-01-01) wordt voldaan;
 
 - b. een overzicht van alle medewerkers die in het bezit zijn van een certificaat en per medewerker een afschrift van het geldige certificaat;
 
@@ -91,21 +93,21 @@ De minister verleent een erkenning als bedoeld in [artikel 6.55 van de wet](http
 
 - c. er voor zorg draagt, dat de andere medewerkers dan genoemd onder b, zijn opgeleid in overeenstemming met de opleidingseisen van de categorieën, genoemd in de Technische Voorschriften;
 
-- d. ook overigens voldoet aan de Technische Voorschriften.
+- d. ook voor het overige voldoet aan de Technische Voorschriften.
 
 ##### Artikel 5
 
-1. Van de erkenning geeft de minister een bewijs af, waarop wordt aangegeven welke bevoegdheid aan de erkenning is verbonden.
+1. Van een erkenning geeft de minister een bewijs af waarop wordt aangegeven welke bevoegdheden aan de erkenning zijn verbonden.
 
 2. Het model van het bewijs van erkenning is opgenomen in de bij deze regeling behorende bijlage.
 
 ##### Artikel 6
 
-Wanneer de erkenning is verleend, worden in de Staatscourant de volgende gegevens gepubliceerd:
+Wanneer een erkenning is verleend, worden in de Staatscourant de volgende gegevens gepubliceerd:
 
-- a. de naam van de erkenninghouder;
+- a. de naam van de erkenninghouder, en
 
-- b. een omschrijving van de bevoegdheden die met de erkenning zijn verleend.
+- b. een omschrijving van de bevoegdheden die aan de erkenning zijn verbonden.
 
 #### § 2.3. Wijziging van een erkenning
 
@@ -113,17 +115,17 @@ Wanneer de erkenning is verleend, worden in de Staatscourant de volgende gegeven
 
 1. Een erkenning wordt gewijzigd, nadat de houder van de erkenning heeft aangetoond, dat hij voldoet aan de eisen, zoals die gelden voor de erkenning, nadat deze is gewijzigd.
 
-2. De [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2006-07-09&g=2006-07-09) zijn van overeenkomstige toepassing.
+2. De [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2012-01-01&g=2012-01-01) zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk 3. Diverse bepalingen
 
 ##### Artikel 8
 
-Indien de erkenninghouder voor behandeling van gevaarlijke stoffen voor vervoer door de lucht gebruik maakt van de diensten van derden dan wel aan derden gevaarlijke stoffen ter behandeling overdraagt, draagt de erkenninghouder er voor zorg, dat de behandeling van de desbetreffende gevaarlijke stoffen en de bijbehorende documenten aan de Technische Voorschriften blijven voldoen.
+Indien een erkenninghouder voor de behandeling van gevaarlijke stoffen ten behoeve van het vervoer daarvan door de lucht gebruik maakt van de diensten van derden, dan wel aan derden gevaarlijke stoffen ter behandeling overdraagt, draagt die erkenninghouder er voor zorg dat de behandeling van de desbetreffende gevaarlijke stoffen alsmede de bijbehorende documentatie aan de Technische Voorschriften blijven voldoen.
 
 ##### Artikel 9
 
-Handelen in strijd met de [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=3&artikel=8&z=2006-07-09&g=2006-07-09) vormt een strafbaar feit.
+Handelen in strijd met [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=3&artikel=8&z=2012-01-01&g=2012-01-01) vormt een strafbaar feit.
 
 ### Hoofdstuk 4. Slotbepalingen
 
@@ -135,7 +137,7 @@ Deze regeling treedt in werking met ingang van 16 maart 2003.
 
 Deze regeling wordt aangehaald als: Regeling erkenningen vervoer gevaarlijke stoffen door de lucht.
 
-## Bijlage. als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2006-07-09&g=2006-07-09), van de Regeling erkenningen vervoer gevaarlijke stoffen door de lucht
+## Bijlage. als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2012-01-01&g=2012-01-01)
 
 **Inspectie Verkeer en Waterstaat**
 
