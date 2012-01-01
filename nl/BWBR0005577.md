@@ -4,7 +4,7 @@ identifier: "BWBR0005577"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-02-01"
-last_updated: "2011-12-15"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005577"
 soort: "AMvB"
@@ -164,7 +164,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4
 
-Machines die voldoen aan de door Onze Minister die het aangaat aangewezen normen, en die met inachtneming van de procedures, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=3&artikel=5&z=2011-12-15&g=2011-12-15), voorzien zijn van de in bijlage III van de richtlijn bedoelde aanduiding houdende de CE-markering en vergezeld gaan van de in bijlage II, punt A, van de richtlijn bedoelde EG-verklaring van overeenstemming, bestaande uit de in die bijlage aangegeven onderdelen voor zover deze van toepassing zijn, worden vermoed te voldoen aan de essentiële veiligheids- en gezondheidseisen.
+Machines die voldoen aan de door Onze Minister die het aangaat aangewezen normen, en die met inachtneming van de procedures, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=3&artikel=5&z=2012-01-01&g=2012-01-01), voorzien zijn van de in bijlage III van de richtlijn bedoelde aanduiding houdende de CE-markering en vergezeld gaan van de in bijlage II, punt A, van de richtlijn bedoelde EG-verklaring van overeenstemming, bestaande uit de in die bijlage aangegeven onderdelen voor zover deze van toepassing zijn, worden vermoed te voldoen aan de essentiële veiligheids- en gezondheidseisen.
 
 ##### Artikel 5
 
@@ -172,7 +172,7 @@ Machines die voldoen aan de door Onze Minister die het aangaat aangewezen normen
 
 - a. voor machines die niet worden genoemd in bijlage IV bij de richtlijn, de procedure, bedoeld in bijlage VIII bij de richtlijn, toepast;
 
-- b. voor machines die worden genoemd in bijlage IV bij de richtlijn en die zijn vervaardigd met inachtneming van de normen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=2&artikel=4&z=2011-12-15&g=2011-12-15), indien deze normen alle van toepassing zijnde essentiële veiligheids- en gezondheidseisen betreffen:
+- b. voor machines die worden genoemd in bijlage IV bij de richtlijn en die zijn vervaardigd met inachtneming van de normen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=2&artikel=4&z=2012-01-01&g=2012-01-01), indien deze normen alle van toepassing zijnde essentiële veiligheids- en gezondheidseisen betreffen:
 
 - 1°. de procedure, bedoeld in bijlage VIII bij de richtlijn, toepast;
 
@@ -180,7 +180,7 @@ Machines die voldoen aan de door Onze Minister die het aangaat aangewezen normen
 
 - 3°. de procedure, bedoeld in bijlage X bij de richtlijn, toepast;
 
-- c. voor machines die worden genoemd in bijlage IV bij de richtlijn en die niet of slechts ten dele zijn vervaardigd met inachtneming van de normen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=2&artikel=4&z=2011-12-15&g=2011-12-15), of die zijn vervaardigd met inachtneming van dergelijke normen terwijl op het moment van vervaardiging van de machines deze normen niet alle van toepassing zijnde essentiële veiligheids- en gezondheidseisen betreffen:
+- c. voor machines die worden genoemd in bijlage IV bij de richtlijn en die niet of slechts ten dele zijn vervaardigd met inachtneming van de normen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=2&artikel=4&z=2012-01-01&g=2012-01-01), of die zijn vervaardigd met inachtneming van dergelijke normen terwijl op het moment van vervaardiging van de machines deze normen niet alle van toepassing zijnde essentiële veiligheids- en gezondheidseisen betreffen:
 
 - 1°. de procedure, bedoeld in bijlage IX bij de richtlijn, toepast en de maatregelen, bedoeld in bijlage VIII, punt 3, bij de richtlijn, neemt; of
 
@@ -188,11 +188,13 @@ Machines die voldoen aan de door Onze Minister die het aangaat aangewezen normen
 
 2. De kosten verbonden aan het afgeven van een verklaring van EG- typeonderzoek of van een goedkeuring van het kwaliteitborgingssysteem zijn voor rekening van de fabrikant.
 
+6. De kosten verbonden aan het afgeven van een verklaring van EG-typeonderzoek of van een goedkeuring van het kwaliteitborgingssysteem zijn voor rekening van de fabrikant.
+
 ##### Artikel 6
 
-1. De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=3&artikel=5&z=2011-12-15&g=2011-12-15) bedoelde aanduiding wordt duidelijk leesbaar en onuitwisbaar op de machine aangebracht, overeenkomstig de bijlagen I, punt 1.7.3, en III van de richtlijn.
+1. De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=3&artikel=5&z=2012-01-01&g=2012-01-01) bedoelde aanduiding wordt duidelijk leesbaar en onuitwisbaar op de machine aangebracht, overeenkomstig de bijlagen I, punt 1.7.3, en III van de richtlijn.
 
-2. Ten aanzien van machines mogen geen vermeldingen, vaststellingen of aanduidingen worden gebezigd, welke met de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=3&artikel=5&z=2011-12-15&g=2011-12-15) bedoelde aanduiding kunnen worden verward. Op de machines mogen andere markeringen worden aangebracht op voorwaarde dat de zichtbaarheid en de leesbaarheid van de CE-markering niet worden verminderd.
+2. Ten aanzien van machines mogen geen vermeldingen, vaststellingen of aanduidingen worden gebezigd, welke met de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=3&artikel=5&z=2012-01-01&g=2012-01-01) bedoelde aanduiding kunnen worden verward. Op de machines mogen andere markeringen worden aangebracht op voorwaarde dat de zichtbaarheid en de leesbaarheid van de CE-markering niet worden verminderd.
 
 ##### Artikel 7
 
@@ -218,7 +220,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. De fabrikant of diens gemachtigde die voornemens is aan het model van de machine of aan te vervaardigen en in de handel te brengen machines, waarvoor door een aangewezen aangemelde instelling een verklaring van EG-typeonderzoek is afgegeven, wijzigingen aan te brengen, stelt deze instelling hiervan onverwijld in kennis.
 
-2. De aangewezen aangemelde instelling beoordeelt de wijzigingen en bevestigt de geldigheid van de bestaande verklaring van EG-typeonderzoek of stelt een nieuwe verklaring op als de overeenstemming met de essentiële veiligheids- en gezondheidseisen of met de gebruiksvoorwaarden van het type door de wijzigingen in het geding kan komen. [Artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=3&artikel=5&z=2011-12-15&g=2011-12-15), is van overeenkomstige toepassing.
+2. De aangewezen aangemelde instelling beoordeelt de wijzigingen en bevestigt de geldigheid van de bestaande verklaring van EG-typeonderzoek of stelt een nieuwe verklaring op als de overeenstemming met de essentiële veiligheids- en gezondheidseisen of met de gebruiksvoorwaarden van het type door de wijzigingen in het geding kan komen. [Artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=3&artikel=5&z=2012-01-01&g=2012-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 6a
 
@@ -234,25 +236,29 @@ Vervallen
 
 ##### Artikel 6c
 
-[Artikel 2, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=1&artikel=2&z=2011-12-15&g=2011-12-15), is niet van toepassing op het tentoonstellen en demonstreren op (jaar)beurzen, exposities en bij demonstraties van machines of niet voltooide machines die niet in overeenstemming zijn met dit besluit, mits op een zichtbaar bord duidelijk is aangegeven dat zij niet in overeenstemming zijn met dit besluit en niet te koop zijn voordat zij door de fabrikant of zijn in de Europese Economische Ruimte gevestigde gevolmachtigde in overeenstemming zijn gebracht met dit besluit. Bij demonstraties zijn alle passende veiligheidsmaatregelen genomen om de bescherming van de mens te waarborgen.
+[Artikel 2, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=1&artikel=2&z=2012-01-01&g=2012-01-01), is niet van toepassing op het tentoonstellen en demonstreren op (jaar)beurzen, exposities en bij demonstraties van machines of niet voltooide machines die niet in overeenstemming zijn met dit besluit, mits op een zichtbaar bord duidelijk is aangegeven dat zij niet in overeenstemming zijn met dit besluit en niet te koop zijn voordat zij door de fabrikant of zijn in de Europese Economische Ruimte gevestigde gevolmachtigde in overeenstemming zijn gebracht met dit besluit. Bij demonstraties zijn alle passende veiligheidsmaatregelen genomen om de bescherming van de mens te waarborgen.
 
 ##### Artikel 6d
 
-1. Een hijskraan met een bedrijfslast die gelijk is aan of hoger is dan twee ton wordt ten minste eenmaal per 12 maanden gekeurd. In aanvulling daarop wordt een mobiele kraan of torenkraan, die behoort tot een bij ministeriële regeling omschreven categorie, ten hoogste 24 maanden na de eerste ingebruikneming en vervolgens telkens na verloop van ten hoogste vierentwintig maanden gekeurd.
+1. Een hijskraan met een bedrijfslast die gelijk is aan of hoger is dan twee ton wordt ten minste eenmaal per 12 maanden gekeurd. In aanvulling daarop wordt een mobiele kraan of torenkraan, die behoort tot een bij ministeriële regeling omschreven categorie, ten hoogste 24 maanden na de eerste ingebruikneming en vervolgens telkens na verloop van ten hoogste vierentwintig maanden gekeurd. Bij ministeriële regeling kan worden bepaald dat een aangewezen instelling kan verlangen dat een mobiele of torenkraan in geval van door haar geconstateerde ernstige gebreken, na een kortere termijn dan de termijnen, genoemd in de eerste en tweede volzin, wordt onderzocht op de staat van veiligheid.
 
 2. De periodieke keuring, bedoeld in het eerste lid, vindt ten hoogste een maand na het verstrijken van de genoemde periode plaats indien degene die de keuring uitvoert dit uit oogpunt van bedrijfsvoering noodzakelijk acht.
 
 3. De keuring bedoeld in het eerste lid, eerste zin, wordt uitgevoerd door een deskundige natuurlijke persoon, rechtspersoon of instelling. In afwijking daarvan wordt de keuring bedoeld in het eerste lid, tweede zin, van een mobiele kraan of torenkraan uitgevoerd door een aangewezen instelling.
 
+4. De certificaathouder verstrekt de deskundige, Onze Minister of, indien Onze Minister een aangewezen instelling heeft aangewezen, deze instelling, desgevraagd kosteloos alle informatie die nodig is voor de uitvoering van het bepaalde bij of krachtens dit artikel.
+
 ##### Artikel 6e
 
-1. De aangewezen instelling geeft op aanvraag een certificaat van goedkeuring af aan de aanvrager indien zij heeft vastgesteld dat de hijskraan voldoet aan de bij ministeriële regeling vastgestelde voorschriften.
+1. De deskundige, bedoeld in [artikel 6d, derde lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=4&artikel=6d&z=2012-01-01&g=2012-01-01), Onze Minister of, indien Onze Minister een aangewezen instelling heeft aangewezen, deze instelling, geeft op verzoek een certificaat van goedkeuring af wanneer hij respectievelijk zij heeft vastgesteld dat de hijskraan, bedoeld in [artikel 6d](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=4&artikel=6d&z=2012-01-01&g=2012-01-01), voldoet aan de bij of krachtens dit besluit gestelde eisen.
 
-2. Een certificaat kan worden geweigerd of onder voorschriften worden afgegeven, worden verlengd dan wel geschorst of ingetrokken, indien is gebleken dat niet of niet volledig is voldaan aan bij of krachtens de wet met betrekking tot het certificaat gestelde eisen.
+2. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de indiening van het verzoek, bedoeld in het eerste lid, en de afhandeling van het verzoek.
+
+3. De kosten van het afgeven van een certificaat van goedkeuring zijn voor rekening van de verzoeker tot afgifte van het certificaat.
 
 ##### Artikel 6f
 
-1. In de nabijheid van een hijskraan als bedoeld in [artikel 6d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=4&artikel=6d&z=2011-12-15&g=2011-12-15), bevindt zich een kraanboek. In dit boek zijn in ieder geval de resultaten van de op grond van [artikel 6d](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=4&artikel=6d&z=2011-12-15&g=2011-12-15) uitgevoerde keuringen op adequate wijze vermeld.
+1. In de nabijheid van een hijskraan als bedoeld in [artikel 6d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=4&artikel=6d&z=2012-01-01&g=2012-01-01), bevindt zich een kraanboek. In dit boek zijn in ieder geval de resultaten van de op grond van [artikel 6d](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=4&artikel=6d&z=2012-01-01&g=2012-01-01) uitgevoerde keuringen op adequate wijze vermeld.
 
 2. Op het certificaat van goedkeuring wordt de datum van keuring vermeld, alsmede gegevens betreffende de identificatie van de hijskraan. Het certificaat van goedkeuring of een afschrift daarvan bevindt zich in de nabijheid van de hijskraan.
 
@@ -260,43 +266,73 @@ Vervallen
 
 ### Hoofdstuk 4. Verkeer en gebruik
 
-##### Artikel 6g
+##### Artikel 6g. Criteria voor aanwijzing
 
-1. Als aangewezen instelling of aangewezen aangemelde instelling kan worden aangewezen een instelling die:
+1. Als aangewezen instelling of aangewezen aangemelde instelling kan worden aangewezen de instelling die:
 
 - a. rechtspersoonlijkheid heeft;
 
-- b. haar zetel of een vestiging in Nederland heeft;
+- b. onafhankelijk is;
 
-- c. onafhankelijk is van degenen die bij het resultaat van de uitvoering van de taken waarvoor zij is aangewezen belang hebben;
+- c. beschikt over de deskundigheid en outillage die nodig zijn om de uitvoering van de taken waarvoor zij aangewezen wil worden, naar behoren te kunnen vervullen;
 
-- d. beschikt over voldoende deskundigheid en outillage om de uitvoering van de taken waarvoor zij is aangewezen, naar behoren te kunnen vervullen;
+- d. beschikt over een registratiesysteem waarin de gegevens die samenhangen met en betrekking hebben op de uitvoering van de taken waarvoor zij aangewezen wil worden, naar behoren vastgelegd kunnen worden. Aan de hand van deze gegevens zijn de gekeurde en gecertificeerde machines afdoende te identificeren;
 
-- e. beschikt over een behoorlijke administratie waarin de gegevens die samenhangen met en betrekking hebben op de uitvoering van haar taken, op een systematische wijze zijn vastgelegd. Aan de hand van deze gegevens zijn de gekeurde of gecertificeerde machines afdoende te identificeren;
+- e. verzekerd is tegen wettelijke aansprakelijkheid voor de risico's die voortvloeien uit de uitoefening van de taken waarvoor zij aangewezen wil worden;
 
-- f. naar behoren functioneert.
+- f. een overeenkomst heeft gesloten met de in voorkomend geval aanwezige beheerstichting die de krachtens dit besluit geregelde certificatieschema’s beheert; en
 
-2. In aanvulling op het eerste lid komen voor een aanwijzing als aangewezen aangemelde instelling slechts in aanmerking instellingen die ten minste voldoen aan de in bijlage XI van de richtlijn neergelegde voorwaarden. De instellingen die voldoen aan de in de toepasselijke geharmoniseerde normen opgenomen beoordelingscriteria, waarvan de referenties in het Publicatieblad van de Europese Unie zijn opgenomen, worden geacht aan de criteria van de richtlijn te voldoen.
+- g. naar behoren functioneert.
 
-3. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het eerste en tweede lid.
+2. In aanvulling op het eerste lid komt voor aanwijzing als aangewezen aangemelde instelling slechts in aanmerking de instelling die ten minste voldoet aan de in bijlage VII bij de richtlijn neergelegde voorwaarden.
 
-##### Artikel 6h
+3. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot het eerste en tweede lid.
 
-De instelling verstrekt jaarlijks aan Onze Minister een afschrift van de polis van de afgesloten verzekering tegen wettelijke aansprakelijkheid tegen alle risico's die voortvloeien uit de uitoefening van de taken waarvoor zij is aangewezen.
+##### Artikel 6h. De aanvraag tot aanwijzing
 
-##### Artikel 6i
+1. De instelling, bedoeld in [artikel 6g](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=5&artikel=6g&z=2012-01-01&g=2012-01-01), dient de aanvraag tot aanwijzing in bij Onze Minister van Sociale Zaken en Werkgelegenheid.
 
-1. Indien een wijziging plaatsvindt in de gegevens op grond waarvan de instelling is aangewezen, doet de instelling hiervan terstond mededeling aan Onze Minister.
+2. De instelling doet de aanvraag vergezellen van een beoordeling door de Stichting Raad voor Accreditatie te Utrecht, waaruit blijkt dat zij voldoet aan de criteria, genoemd in [artikel 6g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=5&artikel=6g&z=2012-01-01&g=2012-01-01), en, in geval van artikel 6g, tweede lid, van een bewijs dat is voldaan aan de voorwaarden, genoemd in dat lid.
 
-2. Indien een instelling voornemens is een of meer van de taken waarvoor zij is aangewezen, te beëindigen, doet de instelling hiervan terstond mededeling aan Onze Minister en de certificaathouders. In dat geval worden door de instelling de gegevens, bedoeld in artikel 6g, eerste lid, onder e, overgedragen aan Onze Minister dan wel, na toestemming van Onze Minister en de certificaathouders, een andere instelling die voor dezelfde taken is aangewezen.
+3. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de indiening van de aanvraag, de beoordeling, het bewijs, bedoeld in het tweede lid, en de afhandeling van de aanvraag.
 
-##### Artikel 6j
+4. De kosten van de beoordeling en het bewijs, bedoeld in het tweede lid, zijn voor rekening van de aanvragende instelling.
 
-1. Een aanvraag om aanwijzing gaat vergezeld van het bewijs dat is voldaan aan de criteria, bedoeld in artikel 6g, eerste lid, dan wel in geval van artikel 6g, tweede lid, tevens van bewijs dat is voldaan aan de voorwaarden, bedoeld in dat lid, dan wel van een verklaring waaruit de bereidheid blijkt om voor eigen rekening een onderzoek naar het voldoen aan deze criteria dan wel voorwaarden te ondergaan.
+##### Artikel 6i. De weigering, schorsing, wijziging of intrekking van een aanwijzing
 
-2. Een aanwijzing kan worden geweigerd, dan wel worden gewijzigd of ingetrokken, indien niet of niet volledig is voldaan aan de bij de wet of bij of krachtens dit besluit gestelde voorschriften. Een aanwijzing kan worden ingetrokken indien de instelling gedurende een aaneengesloten periode van twee jaar geen werkzaamheden, waarvoor zij is aangewezen, heeft uitgevoerd.
+1. Een aanwijzing als aangewezen instelling of aangewezen aangemelde instelling wordt geweigerd indien:
 
-3. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het eerste en tweede lid.
+- a. de aanvragende instelling niet heeft voldaan aan het bepaalde bij of krachtens de [artikelen 6g](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=5&artikel=6g&z=2012-01-01&g=2012-01-01) of [6h](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=5&artikel=6h&z=2012-01-01&g=2012-01-01); of
+
+- b. ten hoogste twaalf maanden voorafgaand aan de datum van indiening van de aanvraag, sprake was van een weigering om de aanvragende instelling aan te wijzen als aangewezen instelling of aangewezen aangemelde instelling dan wel van een intrekking van een aanwijzing en de weigering of intrekking is geschied op grond van aan de aanvragende instelling toe te rekenen feiten of omstandigheden.
+
+2. De aanvraag wordt in het geval, bedoeld in het eerste lid, onder b, eerst in behandeling genomen nadat twaalf maanden, te rekenen vanaf de dag direct na de datum van de weigering respectievelijk van de intrekking, zijn verstreken.
+
+3. Een aanwijzing kan worden geschorst, ten nadele van de aangewezen instelling of aangemelde aangewezen instelling worden gewijzigd of ingetrokken:
+
+- a. op grond van feiten of omstandigheden waarvan Onze Minister van Sociale Zaken en Werkgelegenheid bij de aanwijzing redelijkerwijs niet op de hoogte kon zijn en op grond waarvan hij de aanwijzing niet of alleen met voorschriften, bedoeld in [artikel 7a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=7a) zou hebben gegeven;
+
+- b. op grond van door de aangewezen instelling of aangewezen aangemelde instelling verstrekte onjuiste inlichtingen over feiten of omstandigheden, mits de onjuistheid daarvan aan de instelling bekend was of kon zijn;
+
+- c. indien de aangewezen instelling of aangewezen aangemelde instelling niet meer voldoet aan het bij of krachtens [artikel 6g](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=5&artikel=6g&z=2012-01-01&g=2012-01-01) bepaalde;
+
+- d. indien de aangewezen instelling of aangewezen aangemelde instelling gedurende een aaneengesloten periode van twee jaren geen werkzaamheden waarvoor zij is aangewezen, heeft uitgevoerd; of
+
+- e. indien de aangewezen instelling of aangewezen aangemelde instelling haar wettelijke verplichtingen niet meer naar behoren nakomt of de taken waarvoor zij is aangewezen, niet meer naar behoren uitvoert.
+
+##### Artikel 6j. Periodieke controle van een aangewezen instelling en aangewezen aangemelde instelling
+
+1. Tijdens de looptijd van de aanwijzing stelt Onze Minister van Sociale Zaken en Werkgelegenheid periodiek vast of de instelling:
+
+- a. nog voldoet aan het bepaalde bij of krachtens [artikel 6g](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=5&artikel=6g&z=2012-01-01&g=2012-01-01); en
+
+- b. haar wettelijke verplichtingen naar behoren nakomt en de taken waarvoor zij is aangewezen, naar behoren uitvoert.
+
+2. Ten behoeve van de periodieke vaststelling laat Onze Minister van Sociale Zaken en Werkgelegenheid de Stichting Raad voor Accreditatie te Utrecht een beoordeling ter zake doen.
+
+3. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de periodieke vaststelling en de beoordeling.
+
+4. De kosten van de beoordeling zijn voor rekening van de aangewezen instelling en aangewezen aangemelde instelling.
 
 ### Hoofdstuk 6. Overgangs- en slotbepalingen
 
@@ -306,7 +342,7 @@ Vervallen
 
 ##### Artikel 6l
 
-Instellingen die op het tijdstip waarop artikel II, eerste, derde en vierde lid, van de [Wet van 1 november 2001 tot wijziging van de Warenwet met het oog op de incorporatie van productveiligheidsvoorschriften uit de Wet op de gevaarlijke werktuigen, zulks onder intrekking van deze wet en de Stoomwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012951) (Stb. 557) in werking treedt, door Onze Minister krachtens [artikel 20 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=20) zijn aangewezen om de keuringen, bedoeld in [artikel 6d](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=4&artikel=6d&z=2011-12-15&g=2011-12-15), uit te voeren, worden aangemerkt als aangewezen instellingen.
+Instellingen die op het tijdstip waarop artikel II, eerste, derde en vierde lid, van de [Wet van 1 november 2001 tot wijziging van de Warenwet met het oog op de incorporatie van productveiligheidsvoorschriften uit de Wet op de gevaarlijke werktuigen, zulks onder intrekking van deze wet en de Stoomwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012951) (Stb. 557) in werking treedt, door Onze Minister krachtens [artikel 20 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=20) zijn aangewezen om de keuringen, bedoeld in [artikel 6d](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=4&artikel=6d&z=2012-01-01&g=2012-01-01), uit te voeren, worden aangemerkt als aangewezen instellingen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
@@ -388,7 +424,7 @@ Besluiten bedoeld in de [artikelen 21, eerste en tweede lid](https://wetten.over
 
 - d. stelt de EG-verklaring van overeenstemming op die voldoet aan bijlage II, deel 1, onder A, bij de richtlijn en zorgt dat deze de machine vergezelt;
 
-- e. brengt de CE-markering, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=3&artikel=6&z=2011-12-15&g=2011-12-15), op de machine aan, alvorens een machine in de handel te brengen of in bedrijf te stellen.
+- e. brengt de CE-markering, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=3&artikel=6&z=2012-01-01&g=2012-01-01), op de machine aan, alvorens een machine in de handel te brengen of in bedrijf te stellen.
 
 2. De fabrikant of diens gemachtigde beschikt over of heeft toegang tot de middelen die nodig zijn om zich ervan te vergewissen dat de machine voldoet aan de essentiële veiligheids- en gezondheidseisen.
 
@@ -418,7 +454,17 @@ De CE-markering wordt niet aangebracht op machines, waarop dit besluit niet van 
 
 ##### Artikel 6ea
 
-Dit onderdeel is nog niet inwerking getreden
+1. De afgifte van een certificaat van goedkeuring, als bedoeld in [artikel 6e](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=4&artikel=6e&z=2012-01-01&g=2012-01-01), wordt geweigerd indien de verzoeker niet heeft voldaan aan de bij of krachtens dit besluit met betrekking tot het certificaat gestelde eisen.
+
+2. Een certificaat van goedkeuring kan worden geschorst, ten nadele van de certificaathouder worden gewijzigd of ingetrokken:
+
+- a. op grond van feiten of omstandigheden waarvan de deskundige, bedoeld in [artikel 6d, derde lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=4&artikel=6d&z=2012-01-01&g=2012-01-01), Onze Minister of, indien Onze Minister een aangewezen instelling heeft aangewezen, deze instelling, bij het afgeven van het certificaat redelijkerwijs niet op de hoogte kon zijn en op grond waarvan hij respectievelijk zij het certificaat niet of alleen met voorschriften, bedoeld in [artikel 7a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=7a), zou hebben gegeven;
+
+- b. op grond van door de certificaathouder verstrekte onjuiste inlichtingen over feiten en omstandigheden, mits de onjuistheid daarvan aan de houder bekend was of kon zijn;
+
+- c. indien de certificaathouder niet meer voldoet aan de bij of krachtens dit besluit met betrekking tot het certificaat gestelde eisen of zijn wettelijke verplichtingen niet meer naar behoren nakomt; of
+
+- d. indien de certificaathouder met zijn werkzaamheden, voor zover die door het certificaat worden gereguleerd, of door de wijze waarop hij die werkzaamheden verricht, ernstig gevaar veroorzaakt of kan veroorzaken voor personen.
 
 ##### Artikel 6fa
 
@@ -426,18 +472,40 @@ Dit onderdeel is nog niet inwerking getreden
 
 2. Hijs- en hefwerktuigen voor beroepsmatig personenvervoer worden voor de ingebruikneming na elke herstelling of wijziging op de arbeidsplaats door een aangewezen instelling gekeurd.
 
-3. Bij de keuringen wordt getoetst of voldaan is aan de voor het desbetreffende hijs- en hefwerktuig geldende vervaardigingsvoorschriften, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=2&artikel=3&z=2011-12-15&g=2011-12-15). Indien uit de keuring blijkt dat wordt voldaan aan de voor het desbetreffende hijs- of hefwerktuig geldende vervaardigingsvoorschriften, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=2&artikel=3&z=2011-12-15&g=2011-12-15), geeft de aangewezen instelling een certificaat van goedkeuring af. Op dit certificaat wordt tevens de herkeuringstermijn aangegeven. Het certificaat van goedkeuring of een afschrift daarvan bevindt zich in de nabijheid van het desbetreffende hijs- of hefwerktuig.
+3. Bij de keuringen wordt getoetst of voldaan is aan de voor het desbetreffende hijs- en hefwerktuig geldende vervaardigingsvoorschriften, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=2&artikel=3&z=2012-01-01&g=2012-01-01). Indien uit de keuring blijkt dat wordt voldaan aan de voor het desbetreffende hijs- of hefwerktuig geldende vervaardigingsvoorschriften, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=2&artikel=3&z=2012-01-01&g=2012-01-01), geeft de aangewezen instelling een certificaat van goedkeuring af. Op dit certificaat wordt tevens de herkeuringstermijn aangegeven. Het certificaat van goedkeuring of een afschrift daarvan bevindt zich in de nabijheid van het desbetreffende hijs- of hefwerktuig.
 
 4. Als blijk van goedkeuring brengt de aangewezen instelling op een duidelijke zichtbare plaats op het desbetreffende hijs- of hefwerktuig een kenmerk aan waarop tevens de herkeuringstermijn, welke volgt uit het eerste lid, wordt aangegeven.
 
 5. In de nabijheid van het hijs- of hefwerktuig voor beroepsmatig personenvervoer bevindt zich het hijs- en hefwerktuigboek. In dit boek zijn in ieder geval de resultaten van de uitgevoerde keuringen op adequate wijze vermeld.
 
-### Hoofdstuk 5. Aangewezen instellingen
+### Hoofdstuk 5. Aangewezen instelling op verzoek
 
 ##### Artikel 6ja. Verstrekken van gegevens
 
-Dit onderdeel is nog niet inwerking getreden
+1. De aangewezen instelling en aangewezen aangemelde instelling verstrekken de Stichting Raad voor Accreditatie te Utrecht desgevraagd kosteloos alle informatie die deze nodig heeft bij de uitvoering van het bepaalde bij of krachtens [artikel 6j](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=5&artikel=6j&z=2012-01-01&g=2012-01-01).
+
+2. Bij ministeriele regeling worden nadere regels gesteld betreffende het kosteloos verstrekken van gegevens en inlichtingen door een aangewezen instelling of aangewezen aangemelde instelling aan Onze Minister van Sociale Zaken en Werkgelegenheid of de toezichthouder respectievelijk door Onze Minister van Sociale Zaken en Werkgelegenheid of de toezichthouder aan de in het eerste lid genoemde Stichting Raad voor Accreditatie, een aangewezen instelling of een aangewezen aangemelde instelling, die zijn verkregen door de uitvoering of het toezicht op de naleving van het bepaalde bij of krachtens de wet, welke noodzakelijk zijn voor de uitvoering van hun wettelijke taken.
 
 ### Hoofdstuk 6. Overgangs- en slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+
+##### Artikel 7a. Certificaat van goedkeuring
+
+Een certificaat van goedkeuring, afgegeven op grond van de wet, en geldend op dag, voorafgaand aan de datum van inwerkingtreding van het besluit van 7 september 2009, Stb. 395 wordt geacht te zijn afgegeven met inachtneming van de bij of krachtens dit besluit gestelde bepalingen, zoals die luiden met ingang van de datum van inwerkingtreding van evengenoemd besluit, onverminderd het bepaalde bij of krachtens de [artikelen 6d](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=4&artikel=6d&z=2012-01-01&g=2012-01-01) en [6ea](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=4&artikel=6ea&z=2012-01-01&g=2012-01-01).
+
+##### Artikel 7b. Aangewezen (aangemelde) instelling op verzoek
+
+1. De aanwijzing als aangewezen instelling en aangewezen aangemelde instelling op verzoek, afgegeven op grond van de wet, en geldend op de dag, voorafgaand aan de datum van inwerkingtreding van het besluit van 7 september 2009, Stb. 395 worden geacht te zijn gegeven met inachtneming van de bij of krachtens dit besluit gestelde bepalingen, zoals die luiden met ingang van de datum van evengenoemd besluit.
+
+2. Onverminderd het derde en zesde lid, vervalt de aanwijzing, bedoeld in het eerste lid, van rechtswege vierentwintig maanden na de datum van inwerkingtreding van de voor het werkveld waarop de betrokken instelling werkzaam is, geldende ministeriële regeling, bedoeld in [artikel 6g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=5&artikel=6g&z=2012-01-01&g=2012-01-01).
+
+3. De aanwijzing, bedoeld in het eerste lid, met een vervaldatum, gelegen voor de in het tweede lid bedoelde vervaldatum, vervalt van rechtswege op de oorspronkelijke vervaldatum, tenzij de betrokken instelling binnen vijf maanden na de datum van inwerkingtreding van de voor het werkveld waarop de instelling werkzaam is, geldende ministeriële regeling, bedoeld in [artikel 6g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=5&artikel=6g&z=2012-01-01&g=2012-01-01), en voorafgaand aan de oorspronkelijke vervaldatum een verzoek tot beoordeling ten behoeve van een hernieuwde aanwijzing heeft ingediend bij de Stichting Raad voor Accreditatie te Utrecht. Alsdan blijft de aanwijzing van kracht tot uiterlijk de in het tweede lid bedoelde vervaldatum van rechtswege.
+
+4. De instelling waarvan de aanwijzing op grond van het bepaalde in het tweede of derde lid vervalt, kan Onze Minister van Sociale Zaken en Werkgelegenheid vragen om hernieuwde aanwijzing met inachtneming van de bij of krachtens dit besluit gestelde bepalingen, zoals die luiden met ingang van de datum van inwerkingtreding van het besluit van 7 september 2009, Stb. 395.
+
+5. In afwijking van [artikel 6h, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=5&artikel=6h&z=2012-01-01&g=2012-01-01), zijn de aan de beoordeling door de in het derde lid genoemde Stichting Raad voor Accreditatie verbonden kosten voor rekening van Onze Minister van Sociale Zaken en Werkgelegenheid, indien de instelling, bedoeld in het eerste lid, een verzoek tot beoordeling ten behoeve van een hernieuwde aanwijzing heeft ingediend bij voornoemde Stichting Raad voor Accreditatie binnen vijf maanden na de datum van inwerkingtreding van de voor het werkveld waarop de instelling werkzaam is, geldende ministeriële regeling, bedoeld in [artikel 6g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=5&artikel=6g&z=2012-01-01&g=2012-01-01).
+
+6. Indien Onze Minister van Sociale Zaken en Werkgelegenheid op een aanvraag tot hernieuwde aanwijzing beslist op een tijdstip, gelegen voor de in het tweede lid bedoelde vervaldatum van rechtswege, vervalt de oorspronkelijke aanwijzing met ingang van de datum van inwerkingtreding van de hernieuwde aanwijzing.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
