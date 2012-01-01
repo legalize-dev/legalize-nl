@@ -4,7 +4,7 @@ identifier: "BWBR0011354"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2011-01-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011354"
 soort: "wet"
@@ -313,6 +313,8 @@ N. Handhaving voorwaarden met betrekking tot stamrechten van voor 1 januari 1992
 - 7. Met betrekking tot aanspraken op lijfrenten als bedoeld in het zesde lid zijn de aanhef en onderdeel d van het eerste lid ook van toepassing voor zover de desbetreffende premies het in onderdeel d genoemde bedrag van € 2269 te boven gaan, met dien verstande dat voor zover na 2009 betaalde premies het bedrag van € 2269 te boven gaan, deze niet in aanmerking worden genomen als prestatie als bedoeld in [artikel 25, zevende lid, van de Wet op de inkomstenbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=25), zoals die bepaling luidde op 31 december 1991.
 
 - 8. Indien voor het bepalen van het inkomen uit een recht op periodieke uitkeringen of verstrekkingen het eerste lid, aanhef en onderdeel d, toepassing vindt, vindt [artikel 3.107a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.107a) geen toepassing bij het bepalen van de omvang van belastbare periodieke uitkeringen en verstrekkingen ingevolge dat recht.
+
+- 9. Voor zover een aanspraak op een lijfrente als bedoeld in het zesde lid wordt omgezet in een aanspraak op een lijfrente als bedoeld in [artikel 3.124, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.124), of op een lijfrentespaarrekening of lijfrentebeleggingsrecht als bedoeld in [artikel 3.126a, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.126a), wordt de tweede aanspraak beschouwd als een voortzetting van de eerste aanspraak. Op het tijdstip van de omzetting van de eerstgenoemde aanspraak in een aanspraak op een lijfrentespaarrekening of lijfrentebeleggingsrecht als bedoeld in artikel 3.126a van de Wet inkomstenbelasting 2001 wordt geacht tevens een verzoek te zijn gedaan als bedoeld in artikel 75, eerste lid, laatste volzin, van de Wet op de inkomstenbelasting 1964, zoals die bepaling luidde op 31 december 2000. Voor de toepassing van deze wet wordt een aanspraak op een lijfrentespaarrekening of lijfrentebeleggingsrecht gelijkgesteld met een recht op periodieke uitkeringen en verstrekkingen.
 
 - 1. Op bij de aangifte inkomstenbelasting over het jaar 2001 gedaan verzoek van de verzekeringnemer dan wel, indien deze is overleden of de uitkeringen op grond van het recht zijn ingegaan, de begunstigde, blijft toepassing van onderdeel O, eerste lid, met ingang van 1 januari 2001 achterwege op een recht op periodieke uitkeringen of verstrekkingen waarvan de daarvoor betaalde premies op grond van de Wet op de inkomstenbelasting 1964 niet als persoonlijke verplichtingen in aanmerking konden worden genomen dan wel voor de verkrijging waarvan geen vrijstelling van toepassing is geweest.
 
@@ -766,9 +768,9 @@ Voor de plaatsing in het Staatsblad brengt Onze Minister van Financiën de in de
 
 ##### Artikel II. Inwerkingtreding
 
-1. Deze wet en de [Wet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) treden in werking met ingang van 1 januari 2001 met uitzondering van [Hoofdstuk 2, artikel I, onderdeel AF, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2012-01-01&g=2011-01-01), dat in werking treedt op 31 december 2000.
+1. Deze wet en de [Wet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) treden in werking met ingang van 1 januari 2001 met uitzondering van [Hoofdstuk 2, artikel I, onderdeel AF, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2012-01-01&g=2012-01-01), dat in werking treedt op 31 december 2000.
 
-2. In afwijking van het eerste lid, treedt [hoofdstuk 2, artikel 1, onderdelen Dc en Dd](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2012-01-01&g=2011-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht kan hebben tot 1 januari 2001.
+2. In afwijking van het eerste lid, treedt [hoofdstuk 2, artikel 1, onderdelen Dc en Dd](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2012-01-01&g=2012-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht kan hebben tot 1 januari 2001.
 
 3. Deze wet wordt aangehaald als: Invoeringswet Wet inkomstenbelasting 2001.
 
