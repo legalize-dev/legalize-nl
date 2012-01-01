@@ -4,7 +4,7 @@ identifier: "BWBR0027956"
 country: "nl"
 rank: "wet"
 publication_date: "2012-01-21"
-last_updated: "2011-01-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027956"
 soort: "wet"
@@ -45,7 +45,7 @@ dat daartoe de [Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR001701
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-##### Artikel I. [Wijziging Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017)
+##### Artikel I. Wijziging [Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017)
 
 Wijzigt de Wet kinderopvang.
 
@@ -99,12 +99,12 @@ Onze Minister zendt binnen vier jaar na inwerkingtreding van deze wet aan de Sta
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen tot 2011 nadere voorwaarden worden gesteld met betrekking tot de wijze waarop invulling wordt gegeven aan het onderwijsachterstandenbeleid en de activiteiten voor leerlingen met een grote achterstand in de Nederlandse taal.
 
-3. De [artikelen 168, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=168), [169](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=169) en [170 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=170), zoals die artikelen luidden op de dag voor de inwerkingtreding van [artikel III, onderdelen K tot en met M](https://wetten.overheid.nl/jci1.3:c:BWBR0027956&artikel=III&z=2011-01-01&g=2011-01-01), zijn van toepassing op het eerste en tweede lid.
+3. De [artikelen 168, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=168), [169](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=169) en [170 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=170), zoals die artikelen luidden op de dag voor de inwerkingtreding van [artikel III, onderdelen K tot en met M](https://wetten.overheid.nl/jci1.3:c:BWBR0027956&artikel=III&z=2012-01-01&g=2012-01-01), zijn van toepassing op het eerste en tweede lid.
 
 ##### Artikel XII. Inwerkingtreding
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende paragrafen, artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. Na de inwerkingtreding van [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBR0027956&artikel=XI&z=2011-01-01&g=2011-01-01) van deze wet berust het [Besluit vaststelling doelstelling en bekostiging onderwijsachterstandenbeleid 2006–2010](https://wetten.overheid.nl/jci1.3:c:BWBR0020346) op artikel XI van deze wet.
+2. Na de inwerkingtreding van [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBR0027956&artikel=XI&z=2012-01-01&g=2012-01-01) van deze wet berust het [Besluit vaststelling doelstelling en bekostiging onderwijsachterstandenbeleid 2006–2010](https://wetten.overheid.nl/jci1.3:c:BWBR0020346) op artikel XI van deze wet.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
