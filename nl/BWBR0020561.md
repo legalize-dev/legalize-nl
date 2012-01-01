@@ -4,7 +4,7 @@ identifier: "BWBR0020561"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2011-06-25"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020561"
 soort: "ministeriele-regeling"
@@ -54,39 +54,39 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De Minister kan ten behoeve van het jaar 2011 aan de volgende gemeenten een specifieke uitkering van ten hoogste het bij de desbetreffende gemeente genoemde bedrag verstrekken voor de werkelijke kosten van het exploiteren van het bij de desbetreffende gemeente genoemde aantal behandeleenheden met in totaal ten hoogste het bij de desbetreffende gemeente genoemde aantal behandelplaatsen:
+1. De Minister kan ten behoeve van het jaar 2012 aan de volgende gemeenten een specifieke uitkering van ten hoogste het bij de desbetreffende gemeente genoemde bedrag verstrekken voor de werkelijke kosten van het exploiteren van het bij de desbetreffende gemeente genoemde aantal behandeleenheden met in totaal ten hoogste het bij de desbetreffende gemeente genoemde aantal behandelplaatsen:
 
-- a. de gemeente Amsterdam: € 2.427.203,– twee behandeleenheden, 145 behandelplaatsen;
+- a. de gemeente Amsterdam: € 2.487.592,– twee behandeleenheden, 145 behandelplaatsen;
 
-- b. de gemeente Den Haag: € 1.457.348,– één behandeleenheid, 75 behandelplaatsen;
+- b. de gemeente Den Haag: € 1.493.607,– één behandeleenheid, 75 behandelplaatsen;
 
-- c. de gemeente Groningen: € 1.080.903,– één behandeleenheid, 50 behandelplaatsen;
+- c. de gemeente Groningen: € 1.107.796,– één behandeleenheid, 50 behandelplaatsen;
 
-- d. de gemeente Heerlen: € 740.479,– één behandeleenheid, 35 behandelplaatsen;
+- d. de gemeente Heerlen: € 758.902,– één behandeleenheid, 35 behandelplaatsen;
 
-- e. de gemeente Rotterdam: € 2.348.255,– twee behandeleenheden, 140 behandelplaatsen;
+- e. de gemeente Rotterdam: € 2.406.680,– twee behandeleenheden, 140 behandelplaatsen;
 
-- f. de gemeente Utrecht: € 935.896,– één behandeleenheid, 45 behandelplaatsen;
+- f. de gemeente Utrecht: € 959.181,– één behandeleenheid, 45 behandelplaatsen;
 
-- g. de gemeente Apeldoorn: € 544.953,– één behandeleenheid, 30 behandelplaatsen;
+- g. de gemeente Apeldoorn: € 558.511,– één behandeleenheid, 30 behandelplaatsen;
 
-- h. de gemeente Arnhem: € 451.710,– één behandeleenheid, 25 behandelplaatsen;
+- h. de gemeente Arnhem: € 462.949,– één behandeleenheid, 25 behandelplaatsen;
 
-- i. de gemeente ’s-Hertogenbosch: € 370.969,– één behandeleenheid, 20 behandelplaatsen;
+- i. de gemeente ’s-Hertogenbosch: € 380.199,– één behandeleenheid, 20 behandelplaatsen;
 
-- j. de gemeente Deventer: € 456.210,– één behandeleenheid, 25 behandelplaatsen;
+- j. de gemeente Deventer: € 467.561,– één behandeleenheid, 25 behandelplaatsen;
 
-- k. de gemeente Enschede: € 544.953,– één behandeleenheid, 30 behandelplaatsen;
+- k. de gemeente Enschede: € 558.511,– één behandeleenheid, 30 behandelplaatsen;
 
-- l. de gemeente Eindhoven: € 459.710,– één behandeleenheid, 25 behandelplaatsen;
+- l. de gemeente Eindhoven: € 471.148,– één behandeleenheid, 25 behandelplaatsen;
 
-- m. de gemeente Leeuwarden: € 463.710,– één behandeleenheid, 25 behandelplaatsen;
+- m. de gemeente Leeuwarden: € 475.247,– één behandeleenheid, 25 behandelplaatsen;
 
-- n. de gemeente Maastricht: € 451.710,– één behandeleenheid, 25 behandelplaatsen;
+- n. de gemeente Maastricht: € 462.949,– één behandeleenheid, 25 behandelplaatsen;
 
-- o. de gemeente Tilburg: € 370.969,– één behandeleenheid, 20 behandelplaatsen;
+- o. de gemeente Tilburg: € 380.199,– één behandeleenheid, 20 behandelplaatsen;
 
-- p. de gemeente Nijmegen: € 312.000,– één behandeleenheid, 25 behandelplaatsen.
+- p. de gemeente Nijmegen: € 461.196,– één behandeleenheid, 25 behandelplaatsen.
 
 2. Onder werkelijke kosten worden verstaan de exploitatiekosten, gebaseerd op bedrijfseconomische aanvaardbare principes, van een behandeleenheid met uitzondering van de huisvestingskosten.
 
@@ -120,7 +120,7 @@ De uitkering wordt slechts verstrekt voor zover:
 
 ##### Artikel 4
 
-1. De Minister geeft uiterlijk vóór de aanvang van het desbetreffende kalenderjaar een beschikking tot verlening van de uitkering. De Minister geeft uiterlijk 1 juli 2011 een beschikking tot verlening van de uitkering aan de gemeente Nijmegen ten behoeve van het jaar 2011.
+1. De Minister geeft uiterlijk vóór de aanvang van het desbetreffende kalenderjaar een beschikking tot verlening van de uitkering.
 
 2. In de beschikking tot verlening van de uitkering wordt het bedrag van de uitkering vermeld dan wel de wijze waarop dit wordt bepaald en welk bedrag ten hoogste zal worden verleend.
 
@@ -164,7 +164,7 @@ Het college van burgemeester en wethouders neemt de volgende verantwoordingsinfo
 
 ##### Artikel 11
 
-De Minister geeft binnen zes maanden na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020561&artikel=10&z=2011-06-25&g=2011-06-25), een beschikking tot vaststelling van de uitkering. De [artikelen 4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46), [4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), [4:52](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:52), [4:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:56) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn van overeenkomstige toepassing.
+De Minister geeft binnen zes maanden na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020561&artikel=10&z=2012-01-01&g=2012-01-01), een beschikking tot vaststelling van de uitkering. De [artikelen 4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46), [4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), [4:52](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:52), [4:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:56) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn van overeenkomstige toepassing.
 
 ##### Artikel 12
 
