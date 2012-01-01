@@ -4,7 +4,7 @@ identifier: "BWBV0003233"
 country: "nl"
 rank: "verdrag"
 publication_date: "2014-07-01"
-last_updated: "1993-01-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003233"
 soort: "verdrag"
@@ -236,7 +236,7 @@ Naast de in de artikelen IX, X en XIV bedoelde kennisgevingen en mededelingen ge
 
 Het origineel van deze Overeenkomst, waarvan de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal die daarvan voor eensluidend gewaarmerkte afschriften doet toekomen aan alle in artikel VII bedoelde Staten.
 
-### HOOFDSTUK I. – BEPALINGEN DIE ALLE GOEDKEURINGSSYSTEMEN GEMEEN HEBBEN
+### HOOFDSTUK I. BEPALINGEN DIE ALLE GOEDKEURINGSSYSTEMEN GEMEEN HEBBEN
 
 ##### Bepaling 1. Veiligheidskeurplaat
 
@@ -256,7 +256,7 @@ Het origineel van deze Overeenkomst, waarvan de Chinese, de Engelse, de Franse, 
 
 - b). Op de plaat dient een ruimte te worden opengelaten voor het noteren van de waarden (factoren) die sterkte van kop- en/of zijwanden aangeven overeenkomstig paragraaf 3 van deze Bepaling en Bijlage II, beproevingen 6 en 7. Op de plaat dient ook een ruimte te worden opengelaten voor de data (maand en jaar) van de eerste en de daarop volgende controles van het onderhoud wanneer de containers in gebruik zijn.
 
-3. Wanneer de Administratie van oordeel is dat een nieuwe container voldoet aan de voorschriften van deze Overeenkomst inzake veiligheid en indien voor zulk een container de ontwerpwaardefactor van de sterkte van kop- en/of zijwanden groter of kleiner is dan die bepaald in Bijlage II, dan dient deze waarde te worden aangegeven op de veiligheidskeurplaat.
+3. Wanneer de Administratie van oordeel is dat een nieuwe container voldoet aan de voorschriften van deze Overeenkomst inzake veiligheid en indien voor zulk een container de ontwerpwaardefactor van de sterkte van kop- en/of zijwanden groter of kleiner is dan die bepaald in Bijlage II, dan dient deze waarde te worden aangegeven op de veiligheidskeurplaat. Wanneer het toelaatbaar stapelgewicht of de belastingswaarde bij torsiebeproeving lager is dan 192.000 kg respectievelijk 150 kN, wordt de container geacht een verminderd stapelvermogen of verminderde bestendigheid bij torsiebelasting te hebben en wordt de container op een in het oog springende plaats gemarkeerd, zoals vereist uit hoofde van de relevante normen.
 
 4. De aanwezigheid van de veiligheidskeurplaat betekent geen ontheffing van de verplichting de containers te voorzien van labels of andere gegevens die door eventueel van kracht zijnde andere voorschriften worden vereist.
 
@@ -278,9 +278,43 @@ Het origineel van deze Overeenkomst, waarvan de Chinese, de Engelse, de Franse, 
 
 - (c). Bij alle ingevolge zulk een programma verrichte controles dient te worden vastgesteld of een container gebreken heeft die gevaar voor mensen zouden kunnen opleveren. Deze controles worden verricht in samenhang met omvangrijke herstelwerkzaamheden, opknapbeurten of bij verhuur of na retournering na verhuur en in elk geval ten minste eens in de 30 maanden.
 
-4. Voor de toepassing van deze Bepaling wordt onder „de betrokken Overeenkomstsluitende Partij” verstaan de Overeenkomstsluitende Partij van het grondgebied waar de eigenaar is gevestigd of waar hij zijn hoofdkantoor heeft.
+4. Goedgekeurde programma’s dienen ten minste eenmaal per 10 jaar te worden getoetst teneinde te waarborgen dat zij nog steeds actueel zijn. Teneinde uniformiteit te waarborgen bij iedereen die betrokken is bij de inspectie van de containers en hun blijvende operationele veiligheid, waarborgt de betrokken Overeenkomstsluitende Partij dat de volgende elementen worden meegenomen bij elk voorgeschreven programma voor periodieke controle of goedgekeurd programma voor voortdurende controle:
+
+- .1. methoden, reikwijdte en criteria die bij controles moeten worden gehanteerd;
+
+- .2. frequentie van de controles;
+
+- .3. kwalificaties van de medewerkers die de controles uitvoeren;
+
+- .4. systeem voor het bijhouden van bestanden en documenten waarin het volgende staat vermeld:
+
+- .1. het door de eigenaar toegewezen unieke serienummer van de container;
+
+- .2. de datum waarop de controle is uitgevoerd;
+
+- .3. identificatie van de bevoegde persoon die de controle heeft uitgevoerd;
+
+- .4. de naam en de locatie van de organisatie waar de controle is uitgevoerd;
+
+- .5. de resultaten van de controle; en
+
+- .6. in geval van een schema voor periodieke controles (PES) de datum van de eerstvolgende controle (NED);
+
+- .5. een systeem voor het vastleggen en actualiseren van de identificatienummers van alle containers die onder het toepasselijke controleschema vallen;
+
+- .6. methodes en systemen voor onderhoudscriteria die rekening houden met de ontwerpkenmerken van de specifieke containers;
+
+- .7. bepalingen voor het onderhouden van geleasede containers indien deze afwijken van die voor containers in eigendom; en
+
+- .8. voorwaarden en procedures voor het toevoegen van containers aan een reeds goedgekeurd programma.
+
+5. De Overeenkomstsluitende Partij voert periodieke audits uit van de goedgekeurde programma’s om te waarborgen dat zij voldoen aan de door de Overeenkomstsluitende Partij goedgekeurde bepalingen. De Overeenkomstsluitende Partij trekt haar goedkeuring in wanneer niet langer aan de voorwaarden voor goedkeuring wordt voldaan.
+
+6. Voor de toepassing van deze Bepaling wordt onder „de betrokken Overeenkomstsluitende Partij” verstaan de Overeenkomstsluitende Partij van het grondgebied waar de eigenaar is gevestigd of waar hij zijn hoofdkantoor heeft.
 
 Ingeval evenwel de eigenaar is gevestigd of zijn hoofdkantoor heeft in een land waarvan de Regering nog geen regelingen heeft getroffen voor het voorschrijven of goedkeuren van een controleprocedure, kan de eigenaar zolang zulke regelingen nog niet zijn getroffen, gebruik maken van de procedure die is voorgeschreven of goedgekeurd door de Administratie van een Overeenkomstsluitende Partij die bereid is op te treden als „de betrokken Overeenkomstsluitende Partij”. De eigenaar dient te voldoen aan de door de desbetreffende Administratie gestelde voorwaarden voor gebruikmaking van zodanige procedures.
+
+7. Administraties maken de informatie over goedgekeurde programma’s voor voortdurende controles openbaar.
 
 ### HOOFDSTUK II. – BEPALINGEN VOOR GOEDKEURING VAN NIEUWE CONTAINERS NAAR ONTWERP-TYPE
 
