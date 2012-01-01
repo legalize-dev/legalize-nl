@@ -4,7 +4,7 @@ identifier: "BWBR0003648"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-11-01"
-last_updated: "2006-01-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003648"
 soort: "AMvB"
@@ -93,7 +93,7 @@ De posten worden afzonderlijk, overzichtelijk in een of meer kolommen ingevuld. 
 
 2. Posten mogen worden ingevoegd, voor zover hun inhoud niet wordt gedekt door een in het gekozen model vermelde post die niet als "overige" is aangeduid.
 
-3. De in de [artikelen 377 lid 1 onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=377) en [437 lid 5 onder **c** van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=437) en lid 9 lid 1 onder **c** van het [Besluit jaarrekening banken](https://wetten.overheid.nl/jci1.3:c:BWBR0005980) bedoelde overige belastingen moeten in de winst- en verliesrekening worden opgenomen onmiddellijk voor de post resultaat na belastingen of onmiddellijk voor de post, bedoeld in [artikel 10 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=10&z=2006-01-01&g=2006-01-01).
+3. De in de [artikelen 377 lid 1 onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=377) en [437 lid 5 onder **c** van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=437) en lid 9 lid 1 onder **c** van het [Besluit jaarrekening banken](https://wetten.overheid.nl/jci1.3:c:BWBR0005980) bedoelde overige belastingen moeten in de winst- en verliesrekening worden opgenomen onmiddellijk voor de post resultaat na belastingen of onmiddellijk voor de post, bedoeld in [artikel 10 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=10&z=2012-01-01&g=2012-01-01).
 
 4. Indien opbrengsten moeten worden verantwoord uit deelnemingen die niet overeenkomstig [artikel 389 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=389) zijn gewaardeerd, moeten deze afzonderlijk als eerste post van de financiële baten worden opgenomen onder de benaming: uitkeringen uit niet op netto-vermogenswaarde e.d. gewaardeerde deelnemingen. Waardeveranderingen op deze deelnemingen worden hetzij afzonderlijk opgenomen onmiddellijk na de waardeveranderingen van vorderingen die tot de vaste activa behoren en van effecten, hetzij met die post samengevoegd; in het laatste geval wordt de benaming zo nodig aangepast.
 
@@ -145,13 +145,13 @@ Voor zover de wettelijk vereiste handtekeningen op het oorspronkelijke exemplaar
 
 ##### Artikel 16
 
-1. Op banken als bedoeld in [artikel 415 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=415) zijn de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=3&z=2006-01-01&g=2006-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=4&z=2006-01-01&g=2006-01-01), [5 leden 3 en 4, 6 lid 1, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=5&z=2006-01-01&g=2006-01-01), [7 leden 2 en 3, 8 leden 1 en 3, 9, 10, 11 en 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=7&z=2006-01-01&g=2006-01-01) van toepassing.
+1. Op banken als bedoeld in [artikel 415 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=415) zijn de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=3&z=2012-01-01&g=2012-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=4&z=2012-01-01&g=2012-01-01), [5 leden 3 en 4, 6 lid 1, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=5&z=2012-01-01&g=2012-01-01), [7 leden 2 en 3, 8 leden 1 en 3, 9, 10, 11 en 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=7&z=2012-01-01&g=2012-01-01) van toepassing.
 
 2. De balans van een bank moet zijn ingericht overeenkomstig model K, de winst- en verliesrekening overeenkomstig de modellen L of M. Deze modellen zijn als bijlage bij dit besluit gevoegd.
 
 3. De van hoofdletters voorziene posten van model K en de met hoofdletters gedrukte posten van de modellen L en M worden vermeld, ook als deze in het geheel van de jaarrekening van te verwaarlozen betekenis zijn voor het wettelijk vereiste inzicht.
 
-4. Hypotheekbanken nemen op de balans onder de activa in plaats van de post "vorderingen op klanten" een tweetal posten op, die onderscheidenlijk luiden: vorderingen op klanten uit hypothecaire leningen en overige vorderingen op klanten. Onder de passiva nemen deze banken in plaats van de post "Schuldbewijzen" een tweetal posten op, die onderscheidenlijk luiden: pandbrieven en overige schuldbewijzen. Zij mogen de post "Kasmiddelen" samenvoegen met de post "Vorderingen op kredietinstellingen", tenzij de omvang van de kasmiddelen van betekenis is op het geheel van de activa.
+4. Hypotheekbanken nemen op de balans onder de activa in plaats van de post "vorderingen op klanten" een tweetal posten op, die onderscheidenlijk luiden: vorderingen op klanten uit hypothecaire leningen en overige vorderingen op klanten. Onder de passiva nemen deze banken in plaats van de post "Schuldbewijzen" een tweetal posten op, die onderscheidenlijk luiden: pandbrieven en overige schuldbewijzen. Zij mogen de post "Kasmiddelen" samenvoegen met de post "Vorderingen op banken", tenzij de omvang van de kasmiddelen van betekenis is op het geheel van de activa.
 
 5. De benamingen gebruikt in de modellen K, L en M mogen slechts worden vervangen door benamingen die in het gegeven geval op ten minste even duidelijke wijze de inhoud van de post of telling aanduiden.
 
@@ -165,7 +165,7 @@ Voor zover de wettelijk vereiste handtekeningen op het oorspronkelijke exemplaar
 
 ##### Artikel 16a
 
-1. Op verzekeringsmaatschappijen als bedoeld in [artikel 427 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=427) zijn de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=3&z=2006-01-01&g=2006-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=4&z=2006-01-01&g=2006-01-01), [5 leden 3 en 4, 6 lid 1, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=5&z=2006-01-01&g=2006-01-01), [7 leden 2 en 3, 8 leden 1 en 3, 9, 10, 11 en 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=7&z=2006-01-01&g=2006-01-01) van toepassing.
+1. Op verzekeringsmaatschappijen als bedoeld in [artikel 427 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=427) zijn de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=3&z=2012-01-01&g=2012-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=4&z=2012-01-01&g=2012-01-01), [5 leden 3 en 4, 6 lid 1, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=5&z=2012-01-01&g=2012-01-01), [7 leden 2 en 3, 8 leden 1 en 3, 9, 10, 11 en 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=7&z=2012-01-01&g=2012-01-01) van toepassing.
 
 2. De balans van een verzekeringsmaatschappij moet zijn ingericht overeenkomstig model N, de winst- en verliesrekening overeenkomstig model O. Voor de technische rekening schadeverzekering mag model P worden gebruikt, indien de beleggingen rechtstreeks aan het schadeverzekeringsbedrijf kunnen worden toegewezen. Deze modellen zijn als bijlage bij dit besluit gevoegd.
 
@@ -185,7 +185,7 @@ Voor zover de wettelijk vereiste handtekeningen op het oorspronkelijke exemplaar
 
 ##### Artikel 16b
 
-1. Op beleggingsmaatschappijen zijn de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=2&z=2006-01-01&g=2006-01-01) tot en met [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=4&z=2006-01-01&g=2006-01-01), [5, leden 3 en 4, 6 lid 1, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=5&z=2006-01-01&g=2006-01-01), [7 leden 1 tot en met 3, 8 tot en met 11, 12 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=7&z=2006-01-01&g=2006-01-01), en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=15&z=2006-01-01&g=2006-01-01) van toepassing.
+1. Op beleggingsmaatschappijen zijn de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=2&z=2012-01-01&g=2012-01-01) tot en met [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=4&z=2012-01-01&g=2012-01-01), [5, leden 3 en 4, 6 lid 1, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=5&z=2012-01-01&g=2012-01-01), [7 leden 1 tot en met 3, 8 tot en met 11, 12 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=7&z=2012-01-01&g=2012-01-01), en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=15&z=2012-01-01&g=2012-01-01) van toepassing.
 
 2. De balans van een beleggingsmaatschappij moet zijn gericht overeenkomstig model Q of R, de winst- en verliesrekening overeenkomstig model S. Deze modellen zijn als bijlage bij dit besluit gevoegd.
 
@@ -480,7 +480,7 @@ Balans per
 |   |   | 2. | obligaties en andere vastrentende waardepapieren | obligaties en andere vastrentende waardepapieren |
 |   |   | 3. | vorderingen uit hypothecaire leningen | vorderingen uit hypothecaire leningen |
 |   |   | 4. | vorderingen uit andere leningen | vorderingen uit andere leningen |
-|   |   | 5. | deposito’s bij kredietinstellingen | deposito’s bij kredietinstellingen |
+|   |   | 5. | deposito’s bij banken | deposito’s bij banken |
 |   |   | 6. | andere financiële beleggingen | andere financiële beleggingen |
 |   | **IV** | **Som der beleggingen** | **Som der beleggingen** | **Som der beleggingen** |
 |   |   |   |   |   |
@@ -510,7 +510,7 @@ Balans per
 |   |   |   | 1.2. | anderen |
 |   |   | 2. | converteerbare leningen | converteerbare leningen |
 |   |   | 3. | andere obligaties en onderhandse leningen | andere obligaties en onderhandse leningen |
-|   |   | 4. | schulden aan kredietinstellingen | schulden aan kredietinstellingen |
+|   |   | 4. | schulden aan banken | schulden aan banken |
 |   |   | 5. | te betalen wissels en chèques | te betalen wissels en chèques |
 |   |   | 6. | schulden aan groepsmaatschappijen | schulden aan groepsmaatschappijen |
 |   |   | 7. | schulden aan participanten en aan maatschappijen waarin wordt deelgenomen | schulden aan participanten en aan maatschappijen waarin wordt deelgenomen |
@@ -529,7 +529,7 @@ Balans per
 |   |   |   | 1.2. | anderen |
 |   |   | 2. | converteerbare leningen | converteerbare leningen |
 |   |   | 3. | andere obligaties en onderhandse leningen | andere obligaties en onderhandse leningen |
-|   |   | 4. | schulden aan kredietinstellingen | schulden aan kredietinstellingen |
+|   |   | 4. | schulden aan banken | schulden aan banken |
 |   |   | 5. | te betalen wissels en chèques | te betalen wissels en chèques |
 |   |   | 6. | schulden aan groepsmaatschappijen | schulden aan groepsmaatschappijen |
 |   |   | 7. | schulden aan participanten en aan maatschappijen waarin wordt deelgenomen | schulden aan participanten en aan maatschappijen waarin wordt deelgenomen |
@@ -577,10 +577,10 @@ Balans per
 |   |   | 2. | obligaties en andere vastrentende waardepapieren | obligaties en andere vastrentende waardepapieren | D | Langlopende schulden (nog voor meer dan een jaar) | Langlopende schulden (nog voor meer dan een jaar) | Langlopende schulden (nog voor meer dan een jaar) |
 |   |   | 3. | vorderingen uit hypothecaire leningen | vorderingen uit hypothecaire leningen |   | 1. | uit hoofde van effectentransacties aan | uit hoofde van effectentransacties aan |
 |   |   | 4. | vorderingen uit andere leningen | vorderingen uit andere leningen |   |   | 1.1. | commissionairs |
-|   |   | 5. | deposito’s bij kredietinstellingen | deposito’s bij kredietinstellingen |   |   | 1.2. | anderen |
+|   |   | 5. | deposito’s bij banken | deposito’s bij banken |   |   | 1.2. | anderen |
 |   |   | 6. | andere financiële beleggingen | andere financiële beleggingen |   | 2. | converteerbare leningen | converteerbare leningen |
 |   |   |   |   |   |   | 3. | andere obligaties en onderhandse leningen | andere obligaties en onderhandse leningen |
-| B | Vorderingen | Vorderingen | Vorderingen | Vorderingen |   | 4. | schulden aan kredietinstellingen | schulden aan kredietinstellingen |
+| B | Vorderingen | Vorderingen | Vorderingen | Vorderingen |   | 4. | schulden aan banken | schulden aan banken |
 |   | **I** | **uit hoofde van effectentransacties op** | **uit hoofde van effectentransacties op** | **uit hoofde van effectentransacties op** |   | 5. | te betalen wissels en chèques | te betalen wissels en chèques |
 |   |   | 1. | commissionairs | commissionairs |   | 6. | schulden aan groepsmaatschappijen | schulden aan groepsmaatschappijen |
 |   |   | 2. | anderen | anderen |   | 7. | schulden aan participanten en aan maatschappijen waarin | schulden aan participanten en aan maatschappijen waarin |
@@ -597,7 +597,7 @@ Balans per
 |   |   |   | 1.4. | goodwill |   |   | 1.2. | anderen |
 |   |   |   | 1.5. | vooruitbetaald op immateriële vaste activa |   | 2. | converteerbare leningen |   |
 |   |   | 2. | materiële vaste activa | materiële vaste activa |   | 3. | andere obligaties en onderhandse leningen | andere obligaties en onderhandse leningen |
-|   |   | 3. | financiële vaste activa | financiële vaste activa |   | 4. | schulden aan kredietinstellingen | schulden aan kredietinstellingen |
+|   |   | 3. | financiële vaste activa | financiële vaste activa |   | 4. | schulden aan banken | schulden aan banken |
 |   | **II** | **Liquide middelen** | **Liquide middelen** | **Liquide middelen** |   | 5. | te betalen wissels en chèques | te betalen wissels en chèques |
 |   | **III** | **Andere activa** | **Andere activa** | **Andere activa** |   | 6. | schulden aan groepsmaatschappijen | schulden aan groepsmaatschappijen |
 |   |   |   |   |   |   | 7. | schulden aan participanten en aan maatschappijen waarin wordt deelgenomen | schulden aan participanten en aan maatschappijen waarin wordt deelgenomen |
